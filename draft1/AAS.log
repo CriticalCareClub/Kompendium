@@ -1,0 +1,2082 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2008.11.24)  14 MAR 2009 18:59
+entering extended mode
+ %&-line parsing enabled.
+**AAS.tex
+(./AAS.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, croatian, ukrainian, russian, bulgarian, czech, slovak, danish, dut
+ch, finnish, basque, french, german, ngerman, ibycus, greek, monogreek, ancient
+greek, hungarian, italian, latin, mongolian, norsk, icelandic, interlingua, tur
+kish, coptic, romanian, welsh, serbian, slovenian, estonian, esperanto, upperso
+rbian, indonesian, polish, portuguese, spanish, catalan, galician, swedish, loa
+ded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2006/07/30 v2.95b KOMA-Script document class (book)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2006/07/30 v2.95b KOMA-Script package (basics and keyval use)
+
+
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2006/03/28 v2.95 KOMA-Script package (loading files)
+
+Package scrlfile, 2006/03/28 v2.95 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+) (/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+
+Class scrbook Warning: File `bk9.clo' not found!
+(scrbook)              Used `size9.clo' instead on input line 659.
+
+(/usr/share/texmf-texlive/tex/latex/extsizes/size9.clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package: typearea 2006/07/30 v2.95b KOMA-Script package (type area)
+
+Package typearea, 2006/07/30 v2.95b KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-2002
+
+\ta@bcor=\skip41
+\ta@div=\count79
+Package scrkbase Info: You've used the obsolete option `a4paper'.
+(scrkbase)             \KOMAoptions{paper=a4} will be used instead.
+(scrkbase)             You should do this change too on input line 419.
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+DIV calculation for typearea with good linewidth.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 6
+(typearea)             BCOR = 42.67912pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 277.41441pt
+(typearea)              DIV-departure   = 9/100
+(typearea)              \evensidemargin = 112.67294pt
+(typearea)              \oddsidemargin  = 62.8806pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 425.09988pt
+(typearea)              \topmargin      = 38.4587pt
+(typearea)              \headheight     = 13.68748pt
+(typearea)              \headsep        = 16.42499pt
+(typearea)              \topskip        = 9.0pt
+(typearea)              \footskip       = 38.32498pt
+(typearea)              \baselineskip   = 10.95pt
+(typearea)              on input line 832.
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count87
+\c@table=\count88
+\bibindent=\dimen102
+) (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2006/05/05 v1.1b Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/share/texmf-texlive/tex/latex/base/latin1.def
+File: latin1.def 2006/05/05 v1.1b Input encoding file
+))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2005/11/23 v3.8h The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/ngermanb.ldf
+Language: ngermanb 2004/02/20 v2.6m new German support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2005/11/23 v3.8h Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+)
+\l@naustrian = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 92.
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen104
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks18
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks19
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks20
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(/usr/share/texmf-texlive/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/share/texmf-texlive/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 311.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 312.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 313.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 314.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 315.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 316.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 317.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 318.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 319.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 320.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 321.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 322.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 323.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 324.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 326.
+)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texmf-texlive/tex/latex/tools/multicol.sty
+Package: multicol 2006/05/18 v1.6g multicolumn formatting (FMi)
+\c@tracingmulticols=\count102
+\mult@box=\box29
+\multicol@leftmargin=\dimen113
+\c@unbalance=\count103
+\c@collectmore=\count104
+\doublecol@number=\count105
+\multicoltolerance=\count106
+\multicolpretolerance=\count107
+\full@width=\dimen114
+\page@free=\dimen115
+\premulticols=\dimen116
+\postmulticols=\dimen117
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box30
+\last@line=\box31
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count108
+\c@finalcolumnbadness=\count109
+\last@try=\dimen118
+\multicolovershoot=\dimen119
+\multicolundershoot=\dimen120
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+)
+(/usr/share/texmf-texlive/tex/latex/tools/array.sty
+Package: array 2005/08/23 v2.4b Tabular extension package (FMi)
+\col@sep=\dimen121
+\extrarowheight=\dimen122
+\NC@list=\toks22
+\extratabsurround=\skip52
+\backup@length=\skip53
+)
+(/usr/share/texmf-texlive/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count110
+\ST@wd=\dimen123
+\ST@rightskip=\skip54
+\ST@leftskip=\skip55
+\ST@parfillskip=\skip56
+\ST@pageleft=\dimen124
+\ST@headht=\dimen125
+\ST@tailht=\dimen126
+\ST@pagesofar=\dimen127
+\ST@pboxht=\dimen128
+\ST@lineht=\dimen129
+\ST@stretchht=\dimen130
+\ST@prevht=\dimen131
+\ST@toadd=\dimen132
+\ST@dimen=\dimen133
+\ST@pbox=\box55
+)
+(/usr/share/texmf-texlive/tex/latex/tools/hhline.sty
+Package: hhline 1994/05/23 v2.03 Table rule package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 90.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen134
+\Gin@req@width=\dimen135
+)
+(/usr/share/texmf/tex/latex/ooomath/ooomath.sty
+Package: ooomath 2004/12/27 v1.01 - stylefile used by Writer2LaTeX
+\idxmathdepth=\skip57
+\idxmathtotal=\skip58
+\idxmathwidth=\skip59
+\idxraiseme=\skip60
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/share/texmf-texlive/tex/latex/pstricks/pst-all.sty
+Package: pst-all 2006/11/07 the main pstricks tools
+
+(/usr/share/texmf-texlive/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2006/08/10 v0.32 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex
+`PSTricks' v1.15  <2006/12/22> (tvz)
+\pst@dima=\dimen136
+\pst@dimb=\dimen137
+\pst@dimc=\dimen138
+\pst@dimd=\dimen139
+\pst@dimg=\dimen140
+\pst@dimh=\dimen141
+\pst@hbox=\box56
+\pst@boxg=\box57
+\pst@cnta=\count111
+\pst@cntb=\count112
+\pst@cntc=\count113
+\pst@cntd=\count114
+\pst@cntg=\count115
+\pst@cnth=\count116
+\pst@toks=\toks23
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen142
+\psxunit=\dimen143
+\psyunit=\dimen144
+\pslinewidth=\dimen145
+\pst@customdefs=\toks24
+\pslinearc=\dimen146
+\everypsbox=\toks25
+\psframesep=\dimen147
+\pslabelsep=\dimen148
+\psk@shift=\dimen149
+\pst@shift=\dimen150
+\theoverlaybox=\box58
+)
+File: pstricks.tex 2006/12/22 v1.15 `PSTricks' (tvz)
+
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `override' ignored on input line 216.
+Package xcolor Info: Driver file: dvips.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/share/texmf-texlive/tex/latex/pstricks/pst-plot.sty
+Package: pst-plot 2004/07/15 package wrapper for pst-plot.tex
+
+(/usr/share/texmf-texlive/tex/generic/pstricks/pst-plot.tex
+ v97 patch 2, 1999/12/12
+(/usr/share/texmf-texlive/tex/generic/multido/multido.tex
+ v1.41, 2004/05/18 <tvz>
+\multido@count=\count117
+\multidocount=\count118
+\multido@stuff=\toks26
+))
+File: pst-plot.tex 2004/05/18 1.41 `pst-plot' (tvz)
+)
+(/usr/share/texmf-texlive/tex/latex/pstricks/pst-tree.sty
+Package: pst-tree 2004/07/15 package wrapper for pst-tree.tex
+
+(/usr/share/texmf-texlive/tex/generic/pstricks/pst-tree.tex
+(/usr/share/texmf-texlive/tex/generic/pstricks/pst-node.tex
+ v97 patch 11, 2000/11/09
+\psrow=\count119
+\pscol=\count120
+\psmatrixcnt=\count121
+\psrowsep=\skip61
+\pscolsep=\skip62
+)  v97 patch 6, 2004/07/24
+\pstree@rootbox=\box59
+\pstree@box=\box60
+\psnodecnt=\count122
+\pstreelevel=\count123
+\pstreecnt=\count124
+\pstree@cnt=\count125
+\pstree@stop=\count126
+)
+File: pst-tree.tex 2004/07/24 97 patch 6 `pst-tree' (tvz)
+)
+(/usr/share/texmf-texlive/tex/latex/pstricks/pst-node.sty
+Package: pst-node 2006/01/01 package wrapper for pst-node.tex
+
+(/usr/share/texmf-texlive/tex/generic/pstricks/pst-node.tex
+ v97 patch 11, 2000/11/09)
+File: pst-node.tex 2000/11/09 97 patch 11 `pst-node' (tvz)
+)
+(/usr/share/texmf-texlive/tex/latex/pst-3d/pst-3d.sty
+Package: pst-3d 2005/09/02 package wrapper for pst-3d.tex (hv)
+
+(/usr/share/texmf-texlive/tex/generic/pst-3d/pst-3d.tex
+(/usr/share/texmf-texlive/tex/latex/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(/usr/share/texmf-texlive/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2006/11/18 v2.5f package option processing (HA)
+
+(/usr/share/texmf-texlive/tex/latex/xkeyval/xkeyval.tex
+\XKV@toks=\toks27
+\XKV@depth=\count127
+File: xkeyval.tex 2006/11/18 v2.5f key=value parser (HA)
+)))
+`PST-3d' v1.00, 2005/09/03 (tvz))
+File: pst-3d.tex 2005/09/03 v1.00 `PST-3d' (tvz)
+)
+(/usr/share/texmf-texlive/tex/latex/pst-grad/pst-grad.sty
+Package: pst-grad 2004/07/15 package wrapper for pst-grad.tex (hv)
+
+(/usr/share/texmf-texlive/tex/generic/pst-grad/pst-grad.tex
+`pst-plot' v1.05, 2006/11/04 (tvz,dg,hv))
+File: pst-grad.tex 2006/11/04 1.05 `pst-grad' (tvz)
+)
+(/usr/share/texmf-texlive/tex/latex/pst-coil/pst-coil.sty
+Package: pst-coil 2006/08/11 package wrapper for pst-coil.tex (hv)
+
+(/usr/share/texmf-texlive/tex/generic/pst-coil/pst-coil.tex  v1.05, 2006/11/04)
+File: pst-coil.tex 2006/11/05 v1.00 `pst-coil' (tvz)
+) (/usr/share/texmf-texlive/tex/latex/pst-text/pst-text.sty
+Package: pst-text 2006/01/01 package wrapper for pst-text.tex (hv)
+
+(/usr/share/texmf-texlive/tex/generic/pst-text/pst-text.tex
+ v1.00, 2006/11/05(tvz,hv))
+File: pst-text.tex 2006/11/05 1.00 `pst-text' (tvz)
+)
+(/usr/share/texmf-texlive/tex/latex/pst-eps/pst-eps.sty
+Package: pst-eps 2005/05/20 package wrapper for pst-eps.tex (hv)
+
+(/usr/share/texmf-texlive/tex/generic/pst-eps/pst-eps.tex  v1.00, 2006/11/04
+\pst@epsout=\write3
+\pst@tempout=\write4
+)
+File: pst-eps.tex 2006/11/04 1.00 `pst-eps' (tvz)
+)
+(/usr/share/texmf-texlive/tex/latex/pst-fill/pst-fill.sty
+Package: pst-fill 2005/09/13 package wrapper for pst-fill.tex (hv)
+
+(/usr/share/texmf-texlive/tex/generic/pst-fill/pst-fill.tex
+`PST-Fill' v1.00, 2005/09/12 (tvz,dg,hv)
+\pst@fillbox=\box61
+)
+File: pst-fill.tex 2005/09/12 v1.00 `PST-fill' (tvz,dg)
+)
+(/usr/share/texmf-texlive/tex/generic/multido/multido.sty
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+
+))
+(/usr/share/texmf-texlive/tex/latex/minitoc/minitoc.sty
+Package: minitoc 2007/01/09 v51 Package minitoc (JPFD)
+
+(/usr/share/texmf-texlive/tex/latex/minitoc/mtcmess.sty
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: <I0001>
+(minitoc)             *** minitoc package, version 51 ***.
+\tf@mtc=\write5
+\mtcindent=\skip63
+\mtcskipamount=\skip64
+Package minitoc Info: <I0005>
+(minitoc)             compatible with hyperref.
+Package minitoc Info: <I0023>
+(minitoc)             part level macros available.
+Package minitoc Info: <I0003>
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks28
+\mtc@strutbox=\box62
+\mtc@hstrutbox=\box63
+Package minitoc Info: <I0002>
+(minitoc)             Autoconfiguration of extensions.
+\openout5 = `AAS.mtc1'.
+
+\openout5 = `AAS.mtc'.
+
+ (./AAS.mtc1)
+Package minitoc Info: <I0012>
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: <I0031>
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout5 = `AAS.mtc'.
+
+\openout5 = `AAS.mtc1'.
+
+\c@mtc=\count128
+\c@minitocdepth=\count129
+\c@ptc=\count130
+\c@parttocdepth=\count131
+\ptcindent=\skip65
+Package minitoc Info: <I0010>
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4684.
+
+(/usr/share/texmf-texlive/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+)
+(/usr/share/texmf-texlive/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+)
+Package minitoc Info: <I0010>
+(minitoc)             The ngerman language is selected.
+(minitoc)              on input line 4685.
+
+(/usr/share/texmf-texlive/tex/latex/minitoc/ngerman.mld
+File: ngerman.mld 2004/12/14
+Package minitoc Info: <I0010>
+(minitoc)             The ngermanb language is selected.
+(minitoc)              on input line 31.
+
+(/usr/share/texmf-texlive/tex/latex/minitoc/ngermanb.mld
+File: ngermanb.mld 2006/01/13
+)))
+(/usr/share/texmf-texlive/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip66
+\LTright=\skip67
+\LTpre=\skip68
+\LTpost=\skip69
+\LTchunksize=\count132
+\LTcapwidth=\dimen151
+\LT@head=\box64
+\LT@firsthead=\box65
+\LT@foot=\box66
+\LT@lastfoot=\box67
+\LT@cols=\count133
+\LT@rows=\count134
+\c@LT@tables=\count135
+\c@LT@chunks=\count136
+\LT@p@ftn=\toks29
+)
+Class scrbook Info: longtable captions redefined on input line 19.
+
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/boxedminipage.sty)
+(/usr/share/texmf-texlive/tex/latex/tools/layout.sty
+Package: layout 2000/09/25 v1.2c Show layout parameters
+\oneinch=\count137
+\cnt@paperwidth=\count138
+\cnt@paperheight=\count139
+\cnt@hoffset=\count140
+\cnt@voffset=\count141
+\cnt@textheight=\count142
+\cnt@textwidth=\count143
+\cnt@topmargin=\count144
+\cnt@oddsidemargin=\count145
+\cnt@evensidemargin=\count146
+\cnt@headheight=\count147
+\cnt@headsep=\count148
+\cnt@marginparsep=\count149
+\cnt@marginparwidth=\count150
+\cnt@marginparpush=\count151
+\cnt@footskip=\count152
+\fheight=\count153
+\ref@top=\count154
+\ref@hoffset=\count155
+\ref@voffset=\count156
+\ref@head=\count157
+\ref@body=\count158
+\ref@foot=\count159
+\ref@margin=\count160
+\ref@marginwidth=\count161
+\ref@marginpar=\count162
+\Interval=\count163
+\ExtraYPos=\count164
+\PositionX=\count165
+\PositionY=\count166
+\ArrowLength=\count167
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2002/07/08 v3.2 Page Geometry
+\Gm@cnth=\count168
+\Gm@cntv=\count169
+\c@Gm@tempcnt=\count170
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@dimlist=\toks30
+
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/share/texmf-texlive/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2000/09/19 1.3
+
+Style option: `fancybox' v1.3 <2000/09/19> (tvz)
+\@fancybox=\box68
+\shadowsize=\dimen156
+\@Sbox=\box69
+\do@VerbBox=\toks31
+\the@fancyput=\toks32
+\this@fancyput=\toks33
+\EndVerbatimTokens=\toks34
+\Verbatim@Outfile=\write6
+\Verbatim@Infile=\read1
+) (/usr/share/texmf-texlive/tex/latex/fncychap/fncychap.sty
+Package: fncychap 2004/09/21 v1.33 LaTeX package (Revised chapters)
+\RW=\skip70
+\mylen=\skip71
+\myhi=\skip72
+\px=\skip73
+\py=\skip74
+\pyy=\skip75
+\pxx=\skip76
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
+\@linkdim=\dimen157
+\Hy@linkcounter=\count171
+\Hy@pagecounter=\count172
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
+)
+(/etc/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2006/08/22 v2.4 Connects package keyval with LaTeX options (
+HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 2288.
+Package hyperref Info: Link nesting OFF on input line 2293.
+Package hyperref Info: Hyper index ON on input line 2296.
+Package hyperref Info: Plain pages OFF on input line 2303.
+Package hyperref Info: Backreferencing OFF on input line 2308.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2444.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 2599.
+\Fld@menulength=\count173
+\Field@Width=\dimen158
+\Fld@charsize=\dimen159
+\Choice@toks=\toks35
+\Field@toks=\toks36
+Package hyperref Info: Hyper figures OFF on input line 3102.
+Package hyperref Info: Link nesting OFF on input line 3107.
+Package hyperref Info: Hyper index ON on input line 3110.
+Package hyperref Info: backreferencing OFF on input line 3117.
+Package hyperref Info: Link coloring OFF on input line 3122.
+\Hy@abspage=\count174
+\c@Item=\count175
+\c@Hfootnote=\count176
+)
+*hyperref using default driver hdvips*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2007/02/07 v6.75r Hyperref driver for dvips
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2007/02/07 v6.75r Hyperref definitions for pdfmark specials
+\pdf@docset=\toks37
+\pdf@box=\box70
+\pdf@toks=\toks38
+\pdf@defaulttoks=\toks39
+\Fld@listcount=\count177
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 47.
+
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip77
+\f@ncyO@elh=\skip78
+\f@ncyO@erh=\skip79
+\f@ncyO@olh=\skip80
+\f@ncyO@orh=\skip81
+\f@ncyO@elf=\skip82
+\f@ncyO@erf=\skip83
+\f@ncyO@olf=\skip84
+\f@ncyO@orf=\skip85
+)
+\@indexfile=\write7
+\openout7 = `AAS.idx'.
+
+
+Writing index file AAS.idx
+\c@Drawing=\count178
+Package minitoc Info: <I0024>
+(minitoc)             PREPARING MINITOCS FROM AAS.toc on input line 184.
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc1.
+\openout5 = `AAS.mtc1'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc2.
+\openout5 = `AAS.mtc2'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc3.
+\openout5 = `AAS.mtc3'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc4.
+\openout5 = `AAS.mtc4'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc5.
+\openout5 = `AAS.mtc5'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc6.
+\openout5 = `AAS.mtc6'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc7.
+\openout5 = `AAS.mtc7'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc8.
+\openout5 = `AAS.mtc8'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc9.
+\openout5 = `AAS.mtc9'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc10.
+\openout5 = `AAS.mtc10'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc11.
+\openout5 = `AAS.mtc11'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc12.
+\openout5 = `AAS.mtc12'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc13.
+\openout5 = `AAS.mtc13'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc14.
+\openout5 = `AAS.mtc14'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc15.
+\openout5 = `AAS.mtc15'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc16.
+\openout5 = `AAS.mtc16'.
+
+Package minitoc Info: <I0033>
+(minitoc)             Writing AAS.mtc17.
+\openout5 = `AAS.mtc17'.
+
+\openout5 = `AAS.mtc'.
+
+(./AAS.aux)
+\openout1 = `AAS.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 205.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 205.
+
+ (/usr/share/texmf-texlive/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+Package minitoc(hints) Info: <I0049>
+(minitoc(hints))             ==> You requested the hints option 
+(minitoc(hints))             Some hints are eventually given below.
+Package minitoc(hints) Info: <I0043>
+(minitoc(hints))             --- The KOMAScript scrbook class is loaded. 
+(minitoc(hints))             See the minitoc package documentation 
+(minitoc(hints))             for specific precautions.
+
+
+Package minitoc(hints) Warning: <W0030>
+(minitoc(hints))                --- The \part command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: <W0023>
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+
+Package minitoc(hints) Warning: <W0028>
+(minitoc(hints))                --- The \chapter command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: <W0023>
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+-------------------- Geometry parameters
+paper: a4paper
+landscape: --
+twocolumn: --
+twoside: true
+asymmetric: --
+h-parts: 56.9055pt, 347.12364pt, 193.47873pt
+v-parts: 85.35826pt, 711.31891pt, 48.36967pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: 
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  347.12364pt
+\textheight 711.31891pt
+\oddsidemargin  -15.36449pt
+\evensidemargin 121.20874pt
+\topmargin  -17.0242pt
+\headheight 13.68748pt
+\headsep    16.42499pt
+\footskip   38.32498pt
+\marginparwidth 147.95433pt
+\marginparsep   12.8401pt
+\columnsep  10.0pt
+\skip\footins  8.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+\@twosidetrue \@mparswitchtrue 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+Package hyperref Info: Link coloring ON on input line 205.
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
+)
+\c@section@level=\count179
+)
+LaTeX Info: Redefining \ref on input line 205.
+LaTeX Info: Redefining \pageref on input line 205.
+ (./AAS.out)
+(./AAS.out)
+\@outlinefile=\write8
+\openout8 = `AAS.out'.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 207.
+ (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 207.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 207.
+
+
+(/usr/share/texmf-texlive/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [1
+
+
+] [2
+
+]
+Two-sided document style, odd page.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 214.
+
+(/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [3]
+Two-sided document style, even page.
+[4]
+Overfull \hbox (4.76399pt too wide) in paragraph at lines 215--224
+[] \T1/cmss/bx/n/9 Missi-on State-ment[] \TS1/cmr/m/n/9 ·\T1/cmr/m/n/9 Das Aus-
+bil-dungs-zen-trum (ABZ) ist ei-ne Dienst-leistungs-ein-richtung
+ []
+
+[5] [6
+
+] (./AAS.toc
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 6.
+
+Overfull \hbox (126.47556pt too wide) in paragraph at lines 32--32
+ [][] [] [][]  
+ []
+
+[7] [8])
+\tf@toc=\write9
+\openout9 = `AAS.toc'.
+
+ [9] [10
+
+] (./AAS.toc)
+\tf@toc=\write10
+\openout10 = `AAS.toc'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+[]\T1/cmr/m/n/9 Ausbildungszentrum des ASB
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+[]\T1/cmr/m/n/9 Ausbildungszentrum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--283
+[]\T1/cmr/m/n/9 Ausbildungszentrum des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--283
+
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 292--295
+[]\T1/cmr/m/n/9 Sozialmedizinisches Zen-trum Ost
+ []
+
+(./AAS.ind [11] [12
+
+]
+Overfull \hbox (1.35239pt too wide) in paragraph at lines 71--72
+[]\T1/cmr/m/n/9 periphere ar-te-ri-el-le Ver-schluÿ-krank-heit,
+ []
+
+[13
+
+
+]) [14
+
+
+] [0] [1] [2
+
+] [0] [1] [2
+
+]
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 323.
+ [0] [1]
+Package minitoc Info: <I0006>
+(minitoc)             AAS.mtc0 is empty on input line 337.
+ [2]
+Kapitel 1.
+
+Overfull \hbox (249.45367pt too wide) in alignment at lines 342--363
+ [] [] [] [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 363
+ []
+
+[3
+
+]
+Overfull \hbox (42.50856pt too wide) in paragraph at lines 422--462
+[]  
+ []
+
+[4] [5] [6
+
+]
+Kapitel 2.
+
+Overfull \hbox (19.3217pt too wide) in paragraph at lines 651--658
+[] \T1/cmss/bx/n/9 Zweck[] \T1/cmr/m/n/9 Be-hand-lung recht-li-cher Fra-gen an-
+hand von Pra-xis-bei-spie-len, die in ei-ner zusammen-
+ []
+
+
+Overfull \hbox (42.67912pt too wide) in paragraph at lines 678--704
+ [] 
+ []
+
+[7] [8]
+Overfull \hbox (43.8791pt too wide) in paragraph at lines 837--919
+ [] 
+ []
+
+[9] [10] [11] [12] [13]
+Overfull \hbox (63.08412pt too wide) in paragraph at lines 1463--1466
+[] \T1/cmss/bx/n/9 Rechts-fra-ge[] \T1/cmr/m/n/9 Was sind die []\T1/cmr/bx/n/9 
+Kom-pe-ten-zen[] \T1/cmr/m/n/9 der ein-zel-nen Sa-ni-tä-ter-stu-fen (RS/NFS/NKA
+/NKV/NKI)?
+ []
+
+[14] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 1803--1804
+[][]\T1/cmr/bx/n/9 verwaltungsrechtliche[] \T1/cmr/m/n/9 Norm:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1806--1809
+[]\T1/cmr/m/it/9 beiden gleich\T1/cmr/m/n/9 : Ge-heim-nis-se, die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1813--1815
+\T1/cmr/m/n/9 sei-nen Ge-sund-heits-zu-stand
+ []
+
+[16] [17] [18] [19] [20] [21] [22] [23] [24
+
+]
+Overfull \hbox (12.14156pt too wide) in paragraph at lines 2678--2679
+[]\T1/cmr/m/n/9 Ödem-Protein-urie-Hypertonie-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2686--2688
+[]\T1/cmr/m/n/9 Krankenanstalt und Kur-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2699--2702
+[]\T1/cmr/m/n/9 Morphin + O$[][]$ + Nitro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2699--2702
+\T1/cmr/m/n/9 lingual-Spray + Aspi-rin/Aspisol
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2699--2702
+\T1/cmr/m/n/9 medikament-öse Herz-infarkt-be-
+ []
+
+[25] [26
+
+] [0] [1] [2
+
+] [0] [1] [2
+
+] [0] [1] [0
+
+] [0] [1] [2
+
+]
+Kapitel 1.
+[3] [4
+
+]
+Kapitel 2.
+[5] [6
+
+] [0] [1] [2
+
+] [0] [1] [2]
+Kapitel 1.
+[3
+
+] [4
+
+]
+Kapitel 2.
+Runaway argument?
+{ 
+! Paragraph ended before \hyperlink was complete.
+<to be read again> 
+                   \par 
+l.2862 
+       
+? R
+OK, entering \nonstopmode...
+
+LaTeX Warning: Reference `bkm:RefHeading42514602' on page 5 undefined on input 
+line 2863.
+
+! Too many }'s.
+l.2865 besprochen.}
+                   
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[5]
+LaTeX Font Info:    Try loading font information for TS1+cmss on input line 297
+7.
+ (/usr/share/texmf-texlive/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 3052.
+
+[6]
+
+! LaTeX Error: Cannot determine size of graphic in ./images/aszites-beinoedeme.
+png (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3064 ...cale=1]{./images/aszites-beinoedeme.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: ./images/aszites-beinoedeme.png Graphic file (type eps)
+<./images/aszites-beinoedeme.png>
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 3131.
+
+[7]
+
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 3278.
+
+[8] [9] [10]
+Underfull \hbox (badness 1997) in paragraph at lines 3440--3441
+[]\T1/cmr/m/n/9 Pulslose Ven-tri-ku-lä-re Ta-chy-
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 3472--3474
+\T1/cmr/m/n/9 hoff-lim-mern und le-ben ganz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3481--3484
+\T1/cmr/m/n/9 nungs-hem-men-den (^^Rblut-ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3481--3484
+\T1/cmr/m/n/9 dün-nen-den^^P) Me-di-ka-men-ten:
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 3481--3484
+\T1/cmr/m/n/9 Mar-cou-mar $[]$ Pa-ti-ent ist
+ []
+
+
+Overfull \hbox (44.30779pt too wide) in paragraph at lines 3428--3490
+ [] 
+ []
+
+
+Package hyperref Warning: Difference (3) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3495.
+
+! Too many }'s.
+l.3498 ...ightarrow}$ \gEs{Kein Auswurfleistung} }
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3502.
+
+! Too many }'s.
+l.3504 Auswurfleistung} }
+                         
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Too many }'s.
+l.3508 Erregung${\rightarrow}$ }
+                                 \gEs{keine Auswurfleistung} }
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Too many }'s.
+l.3508 ...tarrow}$ } \gEs{keine Auswurfleistung} }
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Too many }'s.
+l.3517 Komplikationen:}
+                       
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 3642--3644
+[]\T1/cmr/m/n/9 passagere Kreis-lauf-re-gu-la-ti-ons-stö-rung
+ []
+
+
+Underfull \hbox (badness 6825) in paragraph at lines 3642--3644
+\T1/cmr/m/n/9 mit RR-Abfall, Blut-ver-tei-lungs-stö-rung
+ []
+
+
+Package hyperref Warning: Difference (3) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3656.
+
+[12]
+Overfull \hbox (43.8791pt too wide) in paragraph at lines 3812--3819
+ [] 
+ []
+
+[13]
+Underfull \hbox (badness 3209) in paragraph at lines 3835--3837
+[]\T1/cmr/m/it/9 Patient hat über-haupt kei-ne Be-schwer-den?
+ []
+
+
+Overfull \hbox (43.8791pt too wide) in paragraph at lines 3819--3902
+ [] 
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 3930--3931
+[]\T1/cmr/m/n/9 5 P (eng-
+ []
+
+
+Overfull \hbox (44.07988pt too wide) in paragraph at lines 3928--3981
+[]  
+ []
+
+
+Overfull \hbox (1.19305pt too wide) in paragraph at lines 4002--4004
+[]\T1/cmr/m/n/9 Venöse In-suf-fi-zi-enz (Krampf-adern = Ve-nen-aus-sa-ckun-gen 
+auf-grund ge-stör-ten Blut-
+ []
+
+[15] [16
+
+]
+Kapitel 3.
+[17]
+Overfull \hbox (43.8791pt too wide) in paragraph at lines 4168--4210
+ [] 
+ []
+
+[18]
+! Too many }'s.
+l.4339 verengt.}
+                
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra }, or forgotten \endgroup.
+l.4352     erw\"agen!}
+                      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten \endgroup.
+l.4355     Oberk\"orper hoch}
+                             
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten \endgroup.
+l.4358     voratmen, Lippenbremse}
+                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten \endgroup.
+l.4363     Spray darf nicht mehr genommen werden}
+                                                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Overfull \hbox (33.94974pt too wide) in paragraph at lines 4348--4379
+[]  \T1/cmss/bx/n/9 Spe-zi-el-le Maÿ-nah-men[] [] 
+ []
+
+[19]
+Overfull \hbox (44.04973pt too wide) in paragraph at lines 4399--4416
+ [] 
+ []
+
+
+Overfull \hbox (0.2602pt too wide) in paragraph at lines 4451--4453
+[]\T1/cmr/m/n/9 Bein wie bei tiefer Bein-ven-en-throm-bo-se: ein-seitg ge-schwo
+l-len, über-wärmt, rot/rot-
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 4562--4564
+[]\T1/cmr/m/n/9 Brodelnde Atem-ge-räusche:
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 4562--4564
+\T1/cmr/m/n/9 Als ob je-mand mit ei-nem
+ []
+
+[21]
+Overfull \hbox (59.90126pt too wide) in paragraph at lines 4626--4629
+[]\T1/cmr/m/n/9 durch Kei-me: Bak-te-ri-en, Pil-ze [](Pneu-mo-kok-ken,Chlamyden
+, Can-di-da bei HIV/Immunsupression)[] 
+ []
+
+[22]
+Kapitel 4.
+[23
+
+]
+Overfull \hbox (43.8791pt too wide) in paragraph at lines 4847--4888
+ [] 
+ []
+
+[24]
+
+Package hyperref Warning: Difference (4) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 4963.
+
+
+Package hyperref Warning: Difference (3) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 4983.
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 5029--5031
+\T1/cmr/m/n/9 Bett fal-len, der Kopf darf
+ []
+
+[25]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 5079.
+
+[26] [27] [28
+
+]
+Kapitel 5.
+[29]
+
+Package hyperref Warning: Difference (5) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 5323.
+
+
+Overfull \hbox (9.70987pt too wide) in paragraph at lines 5323--5326
+[] \T1/cmss/bx/n/9 Dia-be-tes mel-li-tus I[][][] \T1/cmr/m/n/9 Stö-rung des Im-
+mun-sys-tems $[]$ Zer-stö-rung der Insulin-produzierenden
+ []
+
+
+Package hyperref Warning: Difference (4) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 5347.
+
+[30]
+Underfull \hbox (badness 3930) in paragraph at lines 5465--5467
+[]\T1/cmr/m/n/9 Bei der diab. Ke-toa-zi-do-se
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 5465--5467
+\T1/cmr/m/n/9 die-sen Me-cha-nis-mus aus-zu-
+ []
+
+[31] [32
+
+]
+Kapitel 6.
+
+LaTeX Warning: Citation `BLIM03' on page 33 undefined on input line 5559.
+
+[33] [34] [35]
+
+Package hyperref Warning: Difference (4) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 6009.
+
+[36] [37] [38
+
+]
+Kapitel 7.
+[39] [40]
+Kapitel 8.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6440 \\
+         \hline
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.6440 \\\hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.6443  &
+         
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6446--6448
+[]|\T1/cmr/m/n/9 Gebärmutterhals
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6446--6448
+\T1/cmr/m/n/9 (Cer-vix) ver-kürzt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6446--6448
+\T1/cmr/m/n/9 sich, Mut-ter-mund
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6451--6453
+[]|\T1/cmr/m/n/9 liegender Trans-port,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6451--6453
+\T1/cmr/m/n/9 sonst Be-schleu-ni-
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6459 \\
+         \hline
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.6459 \\\hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Overfull \hbox (9.65627pt too wide) in paragraph at lines 6463--6464
+[]|\T1/cmr/m/n/9 Preÿwehen 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6465--6466
+[]|\T1/cmr/m/n/9 Pausen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6465--6466
+\T1/cmr/m/n/9 wich-tig
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6465--6466
+\T1/cmr/m/n/9 (Er-ho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6465--6466
+\T1/cmr/m/n/9 lungs-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6465--6466
+\T1/cmr/m/n/9 pha-se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6465--6466
+\T1/cmr/m/n/9 für
+ []
+
+
+Overfull \hbox (17.48349pt too wide) in paragraph at lines 6467--6468
+[]|\T1/cmr/m/n/9 Muttermund
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6467--6468
+\T1/cmr/m/n/9 voll-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6467--6468
+\T1/cmr/m/n/9 stän-dig
+ []
+
+
+Overfull \hbox (19.74681pt too wide) in paragraph at lines 6469--6471
+[]|[]\T1/cmr/bx/n/9 Preÿwehen[]\T1/cmr/m/n/9 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6469--6471
+\T1/cmr/m/n/9 Kon-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6469--6471
+\T1/cmr/m/n/9 trak-ti-on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6469--6471
+\T1/cmr/m/n/9 Bauch-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6469--6471
+\T1/cmr/m/n/9 plus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6469--6471
+\T1/cmr/m/n/9 Ute-rus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6469--6471
+\T1/cmr/m/n/9 mus-ku-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+[]|\T1/cmr/m/n/9 Kopf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 wird
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 sicht-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 bar --
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 nor-ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 ler-wei-se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 Hin-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 haupt-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 s-la-ge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 (al-le
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 an-de-ren
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 La-gen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 stel-len
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 Kom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 pli-ka-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6472--6474
+\T1/cmr/m/n/9 tio-nen
+ []
+
+
+Overfull \hbox (26.20715pt too wide) in paragraph at lines 6475--6477
+[]|[]\T1/cmr/bx/n/9 Dammschutz[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6475--6477
+\T1/cmr/m/n/9 Damm-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6475--6477
+\T1/cmr/m/n/9 riÿ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6475--6477
+\T1/cmr/m/n/9 Schutz
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 6475--6477
+\T1/cmr/m/n/9 des vor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6475--6477
+\T1/cmr/m/n/9 Stuhl
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6475--6477
+\T1/cmr/m/n/9 der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6478--6480
+[]|\T1/cmr/m/n/9 Kopf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6478--6480
+\T1/cmr/m/n/9 ge-bo-ren
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6478--6480
+\T1/cmr/m/n/9 schnell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6478--6480
+\T1/cmr/m/n/9 auf-fan-
+ []
+
+
+Overfull \hbox (3.1301pt too wide) in paragraph at lines 6481--6483
+[]|\T1/cmr/m/n/9 absaugen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6481--6483
+[]$ \T1/cmr/m/n/9 ab-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6481--6483
+\T1/cmr/m/n/9 na-beln
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6481--6483
+\T1/cmr/m/n/9 ein-pa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6481--6483
+\T1/cmr/m/n/9 cken
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6481--6483
+[]$ \T1/cmr/m/n/9 der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6481--6483
+\T1/cmr/m/n/9 Mut-ter
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 6481--6483
+\T1/cmr/m/n/9 auf die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6481--6483
+\T1/cmr/m/n/9 Brust
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.6484  &
+         
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6487 \\
+         \hline
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.6487 \\\hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Overfull \hbox (44.30736pt too wide) in paragraph at lines 6429--6500
+ [] 
+ []
+
+[41
+
+]
+Overfull \vbox (147.65677pt too high) has occurred while \output is active []
+
+
+[42]
+
+Package hyperref Warning: Difference (5) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 6502.
+
+
+Package hyperref Warning: Difference (3) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 6525.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 6551.
+
+[43] [44] [45] [46]
+Kapitel 9.
+
+Package hyperref Warning: Difference (4) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 7000.
+
+
+Overfull \hbox (43.90732pt too wide) in paragraph at lines 7003--7056
+ [] 
+ []
+
+[47
+
+]
+Overfull \hbox (43.90732pt too wide) in paragraph at lines 7056--7069
+ [] 
+ []
+
+[48]
+
+Package hyperref Warning: Difference (3) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 7338.
+
+[49]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 7365.
+
+[50] [51] [52
+
+]
+Kapitel 10.
+[53]
+Overfull \hbox (11.98843pt too wide) in paragraph at lines 7687--7690
+\T1/cmr/m/n/9 Kann bei al-len ^^Rnor-ma-len^^P, ^^Rkör-per-li-chen^^P Not-fäl-l
+en, die mit Bewusstseins-ein-schränkungen
+ []
+
+[54] [55] [56] [57] [58
+
+]
+Kapitel 11.
+[59] [60]
+Kapitel 12.
+
+Overfull \hbox (13.26862pt too wide) in paragraph at lines 8276--8279
+[][]\T1/cmr/bx/n/9 Kampfphase[]\T1/cmr/m/n/9 : 36,5\TS1/cmr/m/n/9 °\T1/cmr/m/n/
+9 -34\TS1/cmr/m/n/9 °\T1/cmr/m/n/9 C, Käl-te-zit-tern, Herz-fre-quenz steigt (>
+100 Schlä-ge/Minute),
+ []
+
+[61
+
+] [62
+
+]
+Kapitel 13.
+[63] [64]
+
+Package hyperref Warning: Difference (4) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 8706.
+
+
+Package hyperref Warning: Difference (4) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 8786.
+
+[65]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 8822.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 8845.
+
+[66] [67] [68
+
+] [0] [1] [2
+
+] [0] [1] [2
+
+] [0] [1] [2
+
+] [0] [1] [2
+
+] [0] [1]
+
+Package hyperref Warning: Difference (3) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 9104.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 9105.
+
+[2] [0
+
+] [1] [2
+
+] [0] [1] [2
+
+] [0] [1] [2
+
+] [0] [1] [2] [3
+
+] [4]
+Overfull \hbox (1.66809pt too wide) in paragraph at lines 9137--9138
+\T1/cmr/m/n/9 TER-REICHS GRUP-PE FLORIDSDORF-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9155--9158
+[]\T1/cmr/m/n/9 ARBEITER-SAMARITER-BUND
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9155--9158
+\T1/cmr/m/n/9 ÖS-TER-REICHS FLORIDSDORF-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9155--9158
+\T1/cmr/m/n/9 DONAUSTADT KRANKEN-, RET-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9165--9167
+[]\T1/cmr/m/n/9 Mag.pharm. Ul-ri-ke
+ []
+
+(./AAS.ind [5] [6
+
+]
+Overfull \hbox (1.35239pt too wide) in paragraph at lines 71--72
+[]\T1/cmr/m/n/9 periphere ar-te-ri-el-le Ver-schluÿ-krank-heit,
+ []
+
+[7
+
+
+]) [8
+
+
+] (./AAS.lof
+Overfull \hbox (613.49864pt too wide) in paragraph at lines 24--24
+ [][] [] [][]  
+ []
+
+
+Overfull \hbox (29.33757pt too wide) in paragraph at lines 28--28
+ [][] [] [][]  
+ []
+
+
+Overfull \hbox (582.5204pt too wide) in paragraph at lines 31--31
+ [][] [] [][]  
+ []
+
+
+Overfull \hbox (161.46577pt too wide) in paragraph at lines 34--34
+ [][] [] [][]  
+ []
+
+)
+\tf@lof=\write11
+\openout11 = `AAS.lof'.
+
+ (./AAS.ind [9] [10
+
+]
+Overfull \hbox (1.35239pt too wide) in paragraph at lines 71--72
+[]\T1/cmr/m/n/9 periphere ar-te-ri-el-le Ver-schluÿ-krank-heit,
+ []
+
+[11
+
+
+])
+Package minitoc Info: <I0009>
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the AAS.maf file.
+\openout5 = `AAS.maf'.
+
+
+
+Package minitoc(hints) Warning: <W0086>
+(minitoc(hints))                The fncychap package should be 
+(minitoc(hints))                loaded BEFORE the minitoc package.
+
+
+Package minitoc(hints) Warning: <W0024>
+(minitoc(hints))                Some hints have been written 
+(minitoc(hints))                in the AAS.log file.
+
+(./AAS.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10676 strings out of 94102
+ 142429 string characters out of 1165832
+ 283812 words of memory out of 1500000
+ 13381 multiletter control sequences out of 10000+50000
+ 31076 words of font info for 74 fonts, out of 1200000 for 2000
+ 637 hyphenation exceptions out of 8191
+ 43i,13n,50p,1053b,578s stack positions out of 5000i,500n,6000p,200000b,5000s
+
+Output written on AAS.dvi (171 pages, 635932 bytes).

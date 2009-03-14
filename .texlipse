@@ -1,0 +1,13 @@
+#TeXlipse project settings
+#Sat Mar 14 22:42:38 CET 2009
+builderNum=6
+outputDir=draft1/
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=draft1
+mainTexFile=AAS.tex
+outputFile=AAS.pdf
+langSpell=
+markDer=true
+srcDir=draft1/

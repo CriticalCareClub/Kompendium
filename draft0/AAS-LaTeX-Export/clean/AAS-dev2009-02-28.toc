@@ -1,0 +1,253 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}T\"atigkeitsbild und Orientierung}{2}{section.1}
+\contentsline {section}{\numberline {2}Betriebsinterne Regelungen}{2}{section.2}
+\contentsline {section}{\numberline {3}[RS III] Rechtliche Grundlagen}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Allgemeine Rechtsgrundlagen}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Ein langer Dienst}{6}{subsection.3.2}
+\contentsline {paragraph}{Fall 1. Randalierender Patient}{7}{section*.4}
+\contentsline {paragraph}{Fall 2. Gefahr durch Hund}{9}{section*.5}
+\contentsline {paragraph}{Fall 3. Blutzuckermessung = Heilbehandlung}{10}{section*.6}
+\contentsline {paragraph}{Fall 4. Aufkl\"arung und Einwilligung}{11}{section*.7}
+\contentsline {paragraph}{Fall 5. Patientenverf\"ugung}{13}{section*.8}
+\contentsline {paragraph}{Fall 6. Unterlassung der Notarztnachforderung}{15}{section*.9}
+\contentsline {paragraph}{Fall 7. Sanit\"aterkompetenzen}{16}{section*.10}
+\contentsline {paragraph}{Fall 8. rechtswidrige Anordnung durch Notarzt}{17}{section*.11}
+\contentsline {paragraph}{Fall 9. Dokumentationspflicht}{18}{section*.12}
+\contentsline {paragraph}{Fall 10. Verschwiegenheits- und Auskunftspflicht}{19}{section*.13}
+\contentsline {paragraph}{Fall 11. Fortbildungs- und Rezertifizierungspflicht}{20}{section*.14}
+\contentsline {paragraph}{Fall 12. Verletzung des Pat. durch Sanit\"ater:}{22}{section*.15}
+\contentsline {paragraph}{Fall 13. Sachbesch\"adigung}{23}{section*.16}
+\contentsline {paragraph}{Fall 14. Behandlungspflicht von Krankenanstalten, \"Arzten, Sanit\"atern und Durchschnittsb\"urgern:}{24}{section*.17}
+\contentsline {paragraph}{Fall 15. Ansteckende Krankheiten}{26}{section*.18}
+\contentsline {paragraph}{Fall 16. Strafbare Handlungen}{27}{section*.19}
+\contentsline {paragraph}{Fall 17. Blaulichtverwendung}{28}{section*.20}
+\contentsline {subsection}{\numberline {3.3}Abk\"urzungsverzeichnis}{30}{subsection.3.3}
+\contentsline {section}{\numberline {4}[RS I] Erste Hilfe und erweiterte Erste Hilfe}{30}{section.4}
+\contentsline {paragraph}{Freimachen der Atemwege}{31}{section*.21}
+\contentsline {subsection}{\numberline {4.1}AED}{31}{subsection.4.1}
+\contentsline {section}{\numberline {5}[RS IX] Ger\"atelehre und Sanit\"atstechnik}{31}{section.5}
+\contentsline {subparagraph}{EKG -- Ableitungen}{34}{section*.22}
+\contentsline {subsection}{\numberline {5.1}Traumafertigkeiten}{35}{subsection.5.1}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\contentsline {subsection}{\numberline {5.2}Assistenzt\"atigkeiten}{41}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}O2 \ - Sauerstoff}{46}{subsection.5.3}
+\contentsline {paragraph}{Sauerstoff -- technische Grundlagen}{46}{section*.23}
+\contentsline {paragraph}{Verabreichungsarten}{47}{section*.24}
+\contentsline {subparagraph}{Sauerstoffbrille}{48}{section*.25}
+\contentsline {paragraph}{Beatmung mit Beatmungsbeutel}{49}{section*.26}
+\contentsline {paragraph}{Sauerstofftherapie}{49}{section*.27}
+\contentsline {paragraph}{Pulsoxymetrie}{49}{section*.28}
+\contentsline {section}{\numberline {6}[RS XIII] Untersuchung und Anamnese}{49}{section.6}
+\contentsline {subsection}{\numberline {6.1}{\quotedblbase }Hilfe, ein Patient!{\textquotedblleft } - Was mach{\textquotesingle } ich jetzt?}{50}{subsection.6.1}
+\contentsline {paragraph}{S{\textquotesingle }KAMEL denkt an alles}{50}{section*.29}
+\contentsline {subparagraph}{Symptome und Schmerzen}{50}{section*.30}
+\contentsline {subparagraph}{Krankheiten}{50}{section*.31}
+\contentsline {subparagraph}{Allergien}{50}{section*.32}
+\contentsline {subparagraph}{Medikamente}{50}{section*.33}
+\contentsline {subparagraph}{Ereignisse}{50}{section*.34}
+\contentsline {subparagraph}{Das Letzte ...}{50}{section*.35}
+\contentsline {subparagraph}{Sehen -- H\"oren -- F\"uhlen }{50}{section*.36}
+\contentsline {subparagraph}{Vitalwerte}{50}{section*.37}
+\contentsline {subparagraph}{Atmung}{50}{section*.38}
+\contentsline {subparagraph}{Pulsoxymetrie}{50}{section*.39}
+\contentsline {subparagraph}{Blutzuckermessung}{50}{section*.40}
+\contentsline {subparagraph}{K\"orpertemperatur}{50}{section*.41}
+\contentsline {subparagraph}{Neurocheck}{50}{section*.42}
+\select@language {ngerman}
+\contentsline {subparagraph}{Traumacheck}{51}{section*.43}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\contentsline {subparagraph}{Abtasten des Abomens }{51}{section*.44}
+\contentsline {paragraph}{Szene\"uberblick}{1}{section*.45}
+\contentsline {paragraph}{Die ersten \ \ 30 Sekunden }{1}{section*.46}
+\contentsline {paragraph}{Checkliste}{4}{section*.47}
+\contentsline {paragraph}{Ein Beispiel: Herr Sepp hat Atemnot}{7}{section*.48}
+\contentsline {section}{\numberline {7}[RS IV] Anatomie, Physiologie}{10}{section.7}
+\contentsline {subsection}{\numberline {7.1}Das Skelett und der Bewegungsapparat}{10}{subsection.7.1}
+\contentsline {paragraph}{Aufbau eines Knochens}{10}{section*.49}
+\contentsline {paragraph}{Das Knochenmark}{11}{section*.50}
+\contentsline {paragraph}{Knochenwachstum}{11}{section*.51}
+\contentsline {paragraph}{Gelenke - \ prinzipieller Aufbau}{12}{section*.52}
+\contentsline {subparagraph}{Es gibt verschiedene Arten von Gelenken}{13}{section*.53}
+\contentsline {paragraph}{Gesichtssch\"adel}{13}{section*.54}
+\contentsline {paragraph}{Gehirnsch\"adel}{14}{section*.55}
+\contentsline {subparagraph}{Fontanelle -- Sutur}{14}{section*.56}
+\contentsline {paragraph}{Sch\"adelbasis}{15}{section*.57}
+\contentsline {subparagraph}{Die Wirbel: Aufbau und Arten}{16}{section*.58}
+\contentsline {subsection}{\numberline {7.2}Das Herz}{20}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Der Kreislauf }{22}{subsection.7.3}
+\contentsline {subparagraph}{Kleiner (Lungen-)Kreislauf}{23}{section*.59}
+\contentsline {subparagraph}{Gro{\ss }er Kreislauf}{23}{section*.60}
+\contentsline {subparagraph}{Gef\"a{\ss }e}{24}{section*.61}
+\contentsline {paragraph}{Blutdruck }{25}{section*.62}
+\contentsline {subsection}{\numberline {7.4}Das Nervensystem}{28}{subsection.7.4}
+\contentsline {subparagraph}{Anatomie}{30}{section*.63}
+\contentsline {paragraph}{Vegetatives (autonomes) \ Nervensystem}{33}{section*.64}
+\contentsline {subsection}{\numberline {7.5}Die Haut}{33}{subsection.7.5}
+\contentsline {subsection}{\numberline {7.6}Atmung}{34}{subsection.7.6}
+\contentsline {paragraph}{Die Lunge ist f\"ur die Atmung zust\"andig}{35}{section*.65}
+\contentsline {subparagraph}{Die Alveolen sind die Endst\"ucke des Atemwegs und sind f\"ur den Gasaustausch zust\"andig}{36}{section*.66}
+\contentsline {paragraph}{Die Pleura}{36}{section*.67}
+\contentsline {subsection}{\numberline {7.7}Der Verdaungstrakt}{39}{subsection.7.7}
+\contentsline {subsection}{\numberline {7.8}Sonstige Bauchorgane}{45}{subsection.7.8}
+\contentsline {subsection}{\numberline {7.9}Geschlechtsorgane}{48}{subsection.7.9}
+\contentsline {paragraph}{Der weibliche Zyklus}{49}{section*.68}
+\contentsline {section}{\numberline {8}[RS V] Vitalfunktionen}{50}{section.8}
+\contentsline {paragraph}{NACA -- Score}{50}{section*.69}
+\contentsline {subsection}{\numberline {8.1}Bewusstsein}{51}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Atmung}{55}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Herz- / Kreislauf}{59}{subsection.8.3}
+\contentsline {paragraph}{Tod}{60}{section*.70}
+\contentsline {subsection}{\numberline {8.4}Wasser- und Elektro\discretionary {-}{}{}lyt\discretionary {-}{}{}haus\discretionary {-}{}{}halt}{62}{subsection.8.4}
+\contentsline {paragraph}{\ Regulationsmechanismen}{65}{section*.71}
+\contentsline {subparagraph}{Atmungsbedingte \"Ubers\"auerung - Respiratorische Azidose}{65}{section*.72}
+\contentsline {subparagraph}{Stoffwechselbedingte \"Ubes\"auerung -Metabolische Azidose}{65}{section*.73}
+\contentsline {subparagraph}{Atmungsbedingte (respiratorische) Alkalose}{66}{section*.74}
+\contentsline {subparagraph}{Stoffwechselbedingte (metabolische) Alkalose}{66}{section*.75}
+\contentsline {subsection}{\numberline {8.5}SCHOCK }{1}{subsection.8.5}
+\contentsline {paragraph}{Hypovol\"amischer Schock}{5}{section*.76}
+\contentsline {paragraph}{Kardiogener Schock}{6}{section*.77}
+\contentsline {paragraph}{Anaphylaktischer Schock}{6}{section*.78}
+\contentsline {paragraph}{Septischer Schock und Toxischer Schock}{7}{section*.79}
+\contentsline {paragraph}{Neurogener Schock}{8}{section*.80}
+\contentsline {section}{\numberline {9}[RS VI] Krankheiten und Notf\"alle}{9}{section.9}
+\contentsline {subsection}{\numberline {9.1}Herz-Kreislaufst\"orungen}{9}{subsection.9.1}
+\contentsline {paragraph}{Linksherzinsuffizienz}{10}{section*.81}
+\contentsline {paragraph}{Rechtsherzinsuffizienz}{11}{section*.82}
+\contentsline {paragraph}{Angina pectoris}{12}{section*.83}
+\contentsline {paragraph}{Herzinfarkt - Myokardinfarkt (MCI)}{14}{section*.84}
+\contentsline {subparagraph}{Kammerflimmern}{16}{section*.85}
+\contentsline {subparagraph}{Pulslose Ventrikul\"are Tachkardie}{16}{section*.86}
+\contentsline {subparagraph}{Asystolie}{17}{section*.87}
+\contentsline {subparagraph}{}{17}{section*.88}
+\contentsline {subparagraph}{Vorhofflimmern}{17}{section*.89}
+\contentsline {paragraph}{Zu schnell oder zu langsam: Tachy- und Bradykardie}{17}{section*.90}
+\contentsline {subparagraph}{Bradykardie }{17}{section*.91}
+\contentsline {subparagraph}{Tachykardie }{17}{section*.92}
+\contentsline {paragraph}{Kollaps, Synkope}{18}{section*.93}
+\contentsline {paragraph}{Hypertensive Krise / Hypertensiver \ Notfall}{20}{section*.94}
+\contentsline {paragraph}{Arterieller Gef\"a{\ss }verschlu{\ss }}{21}{section*.95}
+\contentsline {paragraph}{Tiefe Venenthrombose}{21}{section*.96}
+\contentsline {subsection}{\numberline {9.2}Respiratorische / Pulmologische \ Notf\"alle}{22}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Neurologische Notf\"alle}{28}{subsection.9.3}
+\contentsline {paragraph}{Petit mal - Anfall}{31}{section*.97}
+\contentsline {paragraph}{Grand mal - Anfall}{32}{section*.98}
+\contentsline {paragraph}{Status epilepticus }{33}{section*.99}
+\contentsline {paragraph}{Hyperventilationstetanie }{33}{section*.100}
+\contentsline {subsection}{\numberline {9.4}Metabolische St\"orungen (Stoffwechselst\"orungen)}{34}{subsection.9.4}
+\contentsline {subparagraph}{Diabetes \ mellitus I}{35}{section*.101}
+\contentsline {subparagraph}{Diabetes \ mellitus II}{35}{section*.102}
+\contentsline {subsection}{\numberline {9.5}Abdominelle Notf\"alle}{38}{subsection.9.5}
+\contentsline {paragraph}{Virushepatitis}{42}{section*.103}
+\contentsline {subsection}{\numberline {9.6}Urologische Notf\"alle}{44}{subsection.9.6}
+\contentsline {subsection}{\numberline {9.7}Schwangerschaft und geburtshilfliche Notf\"alle}{45}{subsection.9.7}
+\contentsline {subparagraph}{Neugeborenes - Vitalit\"atsbeurteilung}{48}{section*.104}
+\contentsline {paragraph}{Eileiterschwangerschaft (Tubaria )}{48}{section*.105}
+\contentsline {paragraph}{Abortus}{48}{section*.106}
+\contentsline {paragraph}{Vorzeitige Plazental\"osung}{49}{section*.107}
+\contentsline {paragraph}{Vena-cava-Syndrom}{49}{section*.108}
+\contentsline {paragraph}{EPH-Gestose -- Pr\"aeklampsie - Eklampsie}{49}{section*.109}
+\contentsline {paragraph}{Vorzeitiger \ Fruchtwasserabgang}{50}{section*.110}
+\contentsline {paragraph}{Notf\"alle - Uterusatonie}{51}{section*.111}
+\contentsline {paragraph}{Uterusruptur}{51}{section*.112}
+\contentsline {paragraph}{Asphyxie}{51}{section*.113}
+\contentsline {paragraph}{Plazenta l\"ost sich nicht}{52}{section*.114}
+\contentsline {paragraph}{Vaginale Blutungen}{52}{section*.115}
+\contentsline {subsection}{\numberline {9.8}P\"adiatrie - Kinderheilkunde}{52}{subsection.9.8}
+\contentsline {paragraph}{Anatomische und physiologische \ Besonderheiten}{52}{section*.116}
+\contentsline {paragraph}{Krampfanf\"alle:}{56}{section*.117}
+\contentsline {paragraph}{Fieberkr\"ampfe}{56}{section*.118}
+\contentsline {subsection}{\numberline {9.9}Psychiatrische Notf\"alle}{57}{subsection.9.9}
+\contentsline {subsection}{\numberline {9.10}Systemische Hitzesch\"aden}{64}{subsection.9.10}
+\contentsline {subsection}{\numberline {9.11}Unterk\"uhlung}{66}{subsection.9.11}
+\contentsline {subsection}{\numberline {9.12}Vergiftungen}{66}{subsection.9.12}
+\contentsline {paragraph}{Alkohol}{69}{section*.119}
+\contentsline {subparagraph}{Entzugsdelir}{70}{section*.120}
+\contentsline {paragraph}{Korrosiva (S\"auren/Laugen):}{70}{section*.121}
+\contentsline {subparagraph}{Symptome bei Ingestion:}{70}{section*.122}
+\contentsline {subparagraph}{Ver\"atzung der Haut}{71}{section*.123}
+\contentsline {subparagraph}{Ver\"atzung der Augen}{71}{section*.124}
+\contentsline {paragraph}{Schaumbildner (Wasch-/Putzmittel)}{71}{section*.125}
+\contentsline {paragraph}{Kohlenmonoxid (CO)}{71}{section*.126}
+\contentsline {paragraph}{Kohlendioxid (CO2) }{72}{section*.127}
+\contentsline {section}{\numberline {10}[RS VII] Traumatologische Notf\"alle}{72}{section.10}
+\contentsline {subsection}{\numberline {10.1}Sch\"adel-Hirn-Trauma (SHT)}{73}{subsection.10.1}
+\contentsline {paragraph}{Gehirnersch\"utterung (Commotio (cerebri))}{74}{section*.128}
+\contentsline {paragraph}{Gehirnprellung (Contusio (cerebri))}{74}{section*.129}
+\contentsline {paragraph}{Gehirnquetschung (SHT III{\textdegree })}{74}{section*.130}
+\contentsline {paragraph}{Bewu{\ss }tseinsst\"orung beim SHT}{76}{section*.131}
+\contentsline {subsection}{\numberline {10.2}Thoraxtrauma}{76}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Bauchtrauma}{78}{subsection.10.3}
+\contentsline {subsection}{\numberline {10.4}Wirbels\"aulenverletzungen}{81}{subsection.10.4}
+\contentsline {subsection}{\numberline {10.5}Polytrauma}{82}{subsection.10.5}
+\contentsline {subsection}{\numberline {10.6}Extremit\"atenverletzungen}{84}{subsection.10.6}
+\contentsline {paragraph}{Extremit\"atenverletzung - Verstauchung}{84}{section*.132}
+\contentsline {paragraph}{Extremit\"atenverletzungen - Verrenkung}{84}{section*.133}
+\contentsline {paragraph}{Extremit\"atenverletzungen - \ Knochenbr\"uche}{84}{section*.134}
+\contentsline {subsection}{\numberline {10.7}Verbrennungen}{85}{subsection.10.7}
+\contentsline {subsection}{\numberline {10.8}Erfrierungen}{88}{subsection.10.8}
+\contentsline {subsection}{\numberline {10.9}Unf\"alle durch Strom- und Blitzschlag}{88}{subsection.10.9}
+\contentsline {section}{\numberline {11}[RS II{]} Hygiene }{90}{section.11}
+\contentsline {subsection}{\numberline {11.1}Grundlagen}{90}{subsection.11.1}
+\contentsline {paragraph}{Die wichtigsten \"Ubertragungswege}{91}{section*.135}
+\contentsline {paragraph}{}{91}{section*.136}
+\contentsline {paragraph}{Kreuzinfektion}{91}{section*.137}
+\contentsline {paragraph}{Bakterien}{92}{section*.138}
+\contentsline {paragraph}{Viren}{93}{section*.139}
+\contentsline {subsection}{\numberline {11.2}Wichtige Krankheitsbilder}{93}{subsection.11.2}
+\contentsline {paragraph}{MRSA - Multi-Resistenter Staphylococcus aureus}{99}{section*.140}
+\contentsline {subparagraph}{}{99}{section*.141}
+\contentsline {subparagraph}{MRSA-Transport - Allgemeine Ma{\ss }nahmen}{99}{section*.142}
+\contentsline {subsection}{\numberline {11.3}Desinfektion}{100}{subsection.11.3}
+\contentsline {paragraph}{Kontamed, Sharp, Gelbe Box ...}{104}{section*.143}
+\contentsline {subsection}{\numberline {11.4}Besondere Verhaltensweisen}{105}{subsection.11.4}
+\contentsline {section}{\numberline {12}[RS XI] Katastrophen, Gro{\ss }schadensereignisse, Gefahrengutunfall}{105}{section.12}
+\contentsline {subsection}{\numberline {12.1}Katastrophen, Gro{\ss }schadensereignisse; Unfall}{106}{subsection.12.1}
+\contentsline {paragraph}{F\"uhrung}{112}{section*.144}
+\contentsline {paragraph}{Zeit}{112}{section*.145}
+\contentsline {paragraph}{Hilfe braucht Raum: Sanit\"atsdienstliche Organisation im Schadensraum und in der Sanit\"atshilfsstelle (SanHist)}{113}{section*.146}
+\contentsline {subparagraph}{Triageraum}{114}{section*.147}
+\contentsline {subparagraph}{Behandlungsraum}{115}{section*.148}
+\contentsline {subparagraph}{Transportraum}{118}{section*.149}
+\contentsline {subparagraph}{Sammelstellen}{119}{section*.150}
+\contentsline {subparagraph}{Material- / Meldestelle}{120}{section*.151}
+\contentsline {subparagraph}{Mobile Leitstelle (MLS)}{120}{section*.152}
+\contentsline {paragraph}{F\"uhrungsstruktur in der SanHist}{120}{section*.153}
+\contentsline {subsection}{\numberline {12.2}Gefahrengutunfall}{123}{subsection.12.2}
+\contentsline {section}{\numberline {13}Fallbeispiele und Arbeitsaufgaben}{128}{section.13}
+\contentsline {section}{\numberline {14}ILS: Notfallrettung Grundlagen}{129}{section.14}
+\contentsline {subsection}{\numberline {14.1}Anamnese und Untersuchung}{130}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}Megacodetraining}{130}{subsection.14.2}
+\contentsline {subsection}{\numberline {14.3}MPG}{130}{subsection.14.3}
+\contentsline {section}{\numberline {15}ILS: NFS-Aufbaumodul}{130}{section.15}
+\contentsline {section}{\numberline {16}ILS: Arzneimittel}{130}{section.16}
+\contentsline {section}{\numberline {17}ILS: Minimalinvasive T\"atigkeiten und Behandlung}{130}{section.17}
+\contentsline {section}{\numberline {18}Begriffserkl\"arungen}{130}{section.18}
+\contentsline {section}{\numberline {19}Impressum, Hinweise}{130}{section.19}
+\contentsline {section}{\numberline {20}Literaturverzeichnis}{131}{section.20}

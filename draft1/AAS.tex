@@ -20,6 +20,7 @@
 \usepackage{layout}
 
 \usepackage{geometry}
+\usepackage{marvosym}
 \geometry{verbose,
 a4paper,
 %tmargin=1cm,
@@ -137,6 +138,10 @@ marginparwidth=52mm
 \definecolor{shade2}{rgb}{1,0.5,0.5}
 \definecolor{shade3}{rgb}{1,0.5,0.5}
 \definecolor{Emphasis}{rgb}{1,0.5,0.5}
+\definecolor{ubuntured}{rgb}{0.788235294,0,0.08627451}
+\definecolor{ubuntuorange}{rgb}{1,0.388235294,0.035294118}
+\definecolor{ubuntuyellow}{rgb}{1,0.709803922,0.082352941}
+\definecolor{paleyellow}{rgb}{1,1,0.8}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Styles
 % Define Grissu.org \latex commands
@@ -149,7 +154,7 @@ marginparwidth=52mm
 % Emphasis
 \newcommand\gE[1]{\textit{#1}}
 % Strong Emphasis
-\newcommand\gEs[1]{\textbf{\textcolor[rgb]{0.0,0.0,0.5019608}{#1}}}
+\newcommand\gEs[1]{\textbf{\textcolor[rgb]{0.0,0.0,0.4}{#1}}}
 % Zusatzinfo
 \newcommand\gZ[1]{\textcolor[rgb]{0.5019608,0.5019608,0.5019608}{#1}}
 % Citation
@@ -171,12 +176,15 @@ marginparwidth=52mm
 \newenvironment{gCaveEnv}{\begin{boxedminipage}[t]{10cm} \sffamily}{\end{boxedminipage}}
 \newcommand{\gDefinition}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily \textcolor{Terminus}{#1}}}}}}
 \newcommand{\gDraft}[1]{\textbf{\textcolor{red}{#1}}}
-\newcommand{\gFazit}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
+%\newcommand{\gFazit}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
+\newcommand{\gFazit}[1]{\begin{boxedminipage}[t]{10cm}{\color{ubuntured}#1}\end{boxedminipage}}
+
+
 \newcommand{\gMassnahmen}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
 \newenvironment{gMassnahmenEnv}{\begin{boxedminipage}[t]{10cm}}{\end{boxedminipage}}
 \newcommand{\gStatus}[1]{\textcolor{red}{\ttfamily #1 }}
 
-\renewcommand{\labelitemi}{\textcolor[rgb]{0.0,0.0,0.5019608}{$\rhd$}}
+\renewcommand{\labelitemi}{\textcolor[rgb]{0.0,0.0,0.4}{\Squaresteel}}
 \renewcommand{\labelitemii}{$\hookrightarrow$}
 \renewcommand{\labelitemiii}{$\hookrightarrow$}
 
@@ -203,6 +211,10 @@ marginparwidth=52mm
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
+\renewcommand{\rmdefault}{ugm}
+\renewcommand{\sfdefault}{uop}
+\renewcommand{\ttdefault}{pcr}
+
 \maketitle
 
 \begin{center}
@@ -2854,7 +2866,7 @@ einteilen
 
 \end{description}
 
-\chapter{Herz-Kreislaufstörungen}
+\nopagebreak{\chapter{Herz-Kreislaufstörungen}}
 
 \label{bkm:RefHeading42342802}
 Der Herz-Kreislaufstillstand wird unter
@@ -3919,8 +3931,8 @@ Verschlu{\ss}krankheit}periphere arterielle  Verschlu{\ss}krankheit)}
 \subparagraph*{
 Symptome}
 
-\begin{flushleft}
-\tablehead{}\begin{supertabular}{|cll|}
+\begin{table}
+\tablehead{}\begin{tabular}{|cll|}
 \hline
 {\mdseries 5 P  (englisch):}
 
@@ -3972,8 +3984,8 @@ Symptome}
 {\mdseries \gEs{gel\"ahmt}}
 
 \\\hline
-\end{supertabular}
-\end{flushleft}
+\end{tabular}
+\end{table}
 
 \begin{gMassnahmenEnv}
     \subparagraph*{Spezielle Ma{\ss}nahmen}
@@ -4017,8 +4029,8 @@ Symptome:}
 \item {\mdseries
 Schmerzen}
 
-\item {\mdseries
-Schwellung (einseitig, anderes Bein auch ansehen zum Vergleich!)}
+\item 
+Schwellung (einseitig, anderes Bein auch ansehen zum Vergleich!)
 
 \item {\mdseries
 Dunkel-bl\"auliche (livide ) Verf\"arbung}
@@ -4054,7 +4066,7 @@ I.II{\guillemotright}\pageref{bkm:RefHeading37612625})}
     \end{itemize}
 \end{gMassnahmenEnv}
 
-\chapter{Respiratorische / Pulmologische  Notf\"alle}
+\nopagebreak\chapter{Respiratorische / Pulmologische  Notf\"alle}
 \subparagraph*{
 St\"orungen der Atmung - \"Ubersicht}
 
@@ -4086,10 +4098,12 @@ unteren Atemwege
 
 Besonder gefährdet hinsichtlich einer Atemwegsverlegung sind:
 
-\begin{center}
- [Warning: Image ignored] [width=6.871cm,height=4.395cm]{AASdev20090228-img76.png}
+\begin{figure}[h]
+ [Warning: Image ignored] [width=6.871cm,height=4.395cm]
+ \includegraphics{./images/pharynx-schema.png}
 
-\end{center}
+\end{figure}
+
 \begin{itemize}
     \item {\mdseries
     Kinder}
@@ -4199,11 +4213,22 @@ Wiederholte Anf\"alle von Atemnot durch
     
 \end{itemize}
 
-\begin{figure}
-[Warning: Image ignored] [width=7.264cm,height=7.707cm]{AASdev20090228-img78.png}
+\begin{figure}[h]
+    %[Warning: Image ignored] [width=7.264cm,height=7.707cm]
+    \includegraphics{./images/copd-bronchus.png}
 \end{figure}
 
-
+\begin{figure}[h]
+    \includegraphics[width=10cm]{./images/asthma-paramedic.jpg}
+    \caption{Patientin mit einem akuten Asthmaanfall, sitzend auf einer Treppe. 
+    Man beachte wie sie sich hinten mit den Armen aufstützt. Die Erstmaßnahmen bei 
+    vital bedrohten Patienten wurden ergriffen: ·~Situationsrechte Lagerung, 
+    ·~Sauerstoffgabe, ·~Reanimationsbereitschaft (Defibrillator eingeschalten, 
+    sonstiges Zubehör nicht am Foto gezeigt sichtbar), ·~Notarztnachforderung, 
+    ·~Vitalwerte erheben und Monitoring: Blutdruck wird gerade gemessen, 
+    die Patientin ist am Monitor angeschlossen. Quelle: Gabriel}
+    \label{fig:asthma-paramedic}
+\end{figure}
 
 
 \begin{gMassnahmenEnv}
@@ -4283,8 +4308,9 @@ COPD - Chronic obstructing pulmonary disease}
 Syn.: Chronisch-obstruktive Lungenerkrankung.
 
 \begin{figure}
-[Warning: Image ignored] [width=13.211cm,height=8.168cm]{AASdev20090228-img80.png}
-\captionof{figure}[Eine COPD entsteht nicht pl\"otzlich: Ein
+%[Warning: Image ignored] [width=13.211cm,height=8.168cm]
+\includegraphics{./images/copd-stufen.png}
+\caption[Eine COPD entsteht nicht pl\"otzlich: Ein
 COPD{\textquotesingle}ler hat eine Karriere hinter sich.]{Eine COPD
 entsteht nicht pl\"otzlich: Ein COPD{\textquotesingle}ler hat eine
 Karriere hinter sich.}
@@ -4354,6 +4380,17 @@ Wird der $O_2$-Gehalt pl\"otzlich k\"unstlich erh\"oht fehlt der
     
     Heimsauerstoff soll weiter gegeben werden!}
 
+\marginlabel{
+Sauerstoff vorsichtig dosieren, anfänglich nur 2-3~l/ min. und
+    Atmung überwachen.
+    
+    Wenn der Patient bereits Heimsauerstoff benutzt kann man bei
+    Atemnot versuchen 1-2~l/min höher zu dosieren. Die Atmung muss
+    dabei überwacht werden! 
+    
+    Heimsauerstoff soll weiter gegeben werden!
+}
+
 
 \begin{gMassnahmenEnv}
     \subparagraph*{
@@ -4375,9 +4412,7 @@ Spezielle Maßnahmen}
         voratmen, Lippenbremse
         
         \item
-        eigener %
-        %
-        Spray darf nicht mehr genommen werden
+        eigener Spray darf nicht mehr genommen werden
         
     \end{itemize}
     {\bfseries\color[rgb]{0.5019608,0.0,0.0}
@@ -4396,8 +4431,12 @@ Spezielle Maßnahmen}
 \subparagraph*{
 Herkunft des Embolus}
 
+\begin{figure}[hb]
 
-[Warning: Image ignored] [width=8.157cm,height=8.898cm]{AASdev20090228-img82.png}
+\caption{[Warning: Image ignored] [width=8.157cm,height=8.898cm]{AASdev20090228-img82.png}}
+
+\end{figure}
+
 
 
 \begin{itemize}
@@ -4675,242 +4714,208 @@ erst im Krankenhaus gestellt werden.
 
 
 \chapter{Neurologische Notf\"alle}
-\subparagraph*{
-St\"orungen des Nervensystems durch (\"Ubersicht):}
+Erkrankungen, Notfälle und sonstige Störungen die das Nervensystem betreffen. Neurologische St\"orungen gehen oft mit einer St\"orung des Bewusstseins
+oder Schmerzen einher.
 
-\begin{itemize}
-\item {\mdseries
-Schlaganfall}
+Eine Übersicht und willkürliche Einteilung:
 
-\item {\mdseries
-Vergiftungen}
+\begin{description}
+    \item[Schlaganfall]
+    
+    \item 
+    [Vergiftungen] können fast alles machen, und neurologische Symptome erst recht
+    
+    \item 
+    [Sch\"adel-Hirn-Trauma] Abkz. 'SHT'; 
+    
+    \item 
+    [Stoffwechselstörungen] welche Einfluß auf das Nervensystem nehmen, z.B. Zuckerentgleisungen
+    
+    \item 
+    [Infektionen] können das Nervensystem beeinflussen, z.B. Verwirrtheit bei Fieber
+    
+    \item 
+    [Alter] beeinflusst auch das Nervensystem, im Rahmen einer Demenz kommt es z.B. zum Abbau der Denkleistung
+    
+    \item 
+    [Krampfanf\"alle] können vom zentralen Nervensystem ausgehen
+    
+    \item 
+    [Erkrankeungen des St\"utzapparates] Aufgrund der räumlichen Nähe zum Stütz- und Bewegungsapparates kann das Nervensystem in Mitleidenschaft gezogen werden, z.B. bei Bandscheibenvorfällen
+    
+\end{description}
 
-\item {\mdseries
-SHT (Sch\"adel-Hirn-Trauma)}
 
-\item {\mdseries
-metabolische Ursachen}
-
-\item {\mdseries
-Infektionen}
-
-\item {\mdseries
-Krampfanf\"alle}
-
-\item {\mdseries
-Erkrankeungen des St\"utzapparates (Wirbels\"aule, Bandscheiben)}
-
-\end{itemize}
-{\mdseries
-Neurologische St\"orungen gehen oft mit einer St\"orung des Bewusstseins
-oder Schmerzen einher.}
 
 {\bfseries\color[rgb]{0.5019608,0.0,0.0}
 Es fehlt: Lumbago, BWS/HWS}
 
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-\index{Schlaganfall}Schlaganfall (\index{Insult}Insult)}
-
-\begin{enumerate}
-\item Verschlu{\ss} eines Hirngef\"a{\ss}es mit anschlie{\ss}endem
-Absterben der versorgten Hirnregion ({\quotedblbase}trockener
-Insult{\textquotedblleft}), oder
-
-\item Sponane Hirnblutung ({\quotedblbase}blutiger
-Insult{\textquotedblleft})
-
-\end{enumerate}
-{\mdseries
+\section{Schlaganfall --- Apoplektischer Insult --- Hirninfarkt}
+\index{Schlaganfall}\index{Insult}
 Syn.: \index{Apoplektischer Insult}\index{Apoplektischer
-Insult}Apoplektischer Insult, \index{Apoplexie}Apoplexie}
+Insult}Apoplektischer Insult, \index{Apoplexie}Apoplexie
 
-{\mdseries
-Arten:}
+Grundsätzlich gibt es 2 Formen:
+\begin{description}
 
-\begin{center}
- [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=2.377cm,height=4.195cm]{AASdev20090228-img83.png}
+    \item[>>Trockener<< Insult] Verschlu{\ss} eines Hirngef\"a{\ss}es mit anschlie{\ss}endem
+    Absterben der versorgten Hirnregion ({\quotedblbase}trockener
+    Insult{\textquotedblleft}), oder
+    
+    \item[>>Blutiger<< Insult] Spontane Hirnblutung, z.B. durch Platzen eines Hirngefäßes, kann spontan oder aufgrund eines Traumas auftreten.
+    \item 
+    Sonderform \index{TIA}TIA: \index{Transitorisch -- Isch\"amische
+    Attacke}Transitorisch -- Isch\"amische Attacke
+    \begin{itemize}
+        \item Symptome wie bei Insult, vergehen aber innerhalb von 24 Stunden.
+    \end{itemize}
+\end{description}
 
-\end{center}
-\begin{itemize}
-\item {\mdseries
-Gef\"a{\ss}verschlu{\ss} (isch\"amischer Insult)}
+\begin{figure}
+ [Warning: Image ignored] {AASdev20090228-img83.png}    
+\end{figure}
+\begin{figure}
+ [Warning: Image ignored] {AASdev20090228-img84.png}
+\end{figure}
 
-\item {\mdseries
-Blutung (h\"amorrhagischer Insult)}
+\begin{figure}
+    [Warning: Image ignored] [width=9.526cm,height=5.428cm]{AASdev20090228-img85.png}
+\end{figure}
 
-\begin{center}
- [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=3.003cm,height=4.303cm]{AASdev20090228-img84.png}
-
-\end{center}
-\item {\mdseries
-Sonderform \index{TIA}TIA: \index{Transitorisch -- Isch\"amische
-Attacke}Transitorisch -- Isch\"amische Attacke}
-
-\end{itemize}
-\begin{itemize}
-\item {\mdseries
-Symptome wie bei Insult, vergehen aber innerhalb von 24 Stunden.}
-
-\end{itemize}
-  [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=9.526cm,height=5.428cm]{AASdev20090228-img85.png}
+  
  
 
-\subparagraph*{
-Symptome}
+\subparagraph*{Symptome}
 
-{\mdseries
 Abh\"angig welche Hirnregion betroffen ist. Die Symptome k\"onnen sehr
-unterschiedlich sein. }
+unterschiedlich sein.
 
-{\mdseries
-Klassische Symptome sind:}
+\gE{'Klassische'} Symptome sind:
 
-\begin{itemize}
-\item {\mdseries
-Halbseitenschw\"ache oder -l\"ahmung, h\"angener Mundwinkel}
+\begin{description}
+    \item[Störungen der Motorik] sind sehr häufig
+    \begin{itemize}
+        \item Halbseitenschwäche Aufgrund des Ausfalls eines Zentrums im Gehirn kann es zu einer Kraftminderung einer Seite kommen, dies kann bis zu einer schlaffen, kompletten Lähmung führen.
+        \item Herabhängender Mundwinkel als zeichen einer Lähmung der Gesichtsmuskulatur
+        \item Schluckst\"orungen
+    \end{itemize}
+    \item[Störungen der Sprache] sind ebenfalls sehr häufig
+    \begin{itemize}
+        \item Verwschene Sprache
+        \item {\quotedblbase}wirre Sprache{\textquotedblleft} Worte fehlen, Silben
+        werden vertauscht, ...
+        
+    \end{itemize}
+    \item[Störungen der Wahrnehmung]
+    \begin{itemize}
+        \item Sehst\"orungen, pl\"otzliche Erblindung, Doppelbilder,
+        Gesichtsfeldausf\"alle
+    \end{itemize}
+    \item[Störungen des Bewußtseins] von Somnolenz bis zur Bewusstlosigkeit
+    
+    \item[Allgemeine Störungen]
+    \begin{itemize}
+        \item Schwindel
+        \item Plötzlicher, donnerschlagartiger Kopfschmerz. Klassisch bei spontaner Hirnblutung.
+    \end{itemize}
+\end{description}
 
-\item {\mdseries
-Sprachst\"orungen:}
-
-\end{itemize}
-\begin{itemize}
-\item {\mdseries
-verwaschene Sprache }
-
-\item {\mdseries
-{\quotedblbase}wirre Sprache{\textquotedblleft}: Worte fehlen, Silben
-werden vertauscht, ...}
-
-\end{itemize}
-\begin{itemize}
-\item {\mdseries
-Sehst\"orungen, pl\"otzliche Erblindung, Doppelbilder,
-Gesichtsfeldausf\"alle}
-
-\item {\mdseries
-Schluckst\"orungen}
-
-\item {\mdseries
-pl\"otzlicher, rasender Kopfschmerz, Schwindel}
-
-\item {\mdseries
-in schweren F\"allen bis Bewu{\ss}tlosigkeit}
-
-\end{itemize}
 \subparagraph*{
 Differentialdiagnose}
 
 \begin{itemize}
-\item {\mdseries
+\item 
 BZ ${\downarrow}$, ${\uparrow}$ (${\rightarrow}$ Bei neurologischen
-Symptomen immer messen!)}
+Symptomen immer messen!)
 
-\item {\mdseries
-\gZ{Tumor}}
-
-\end{itemize}
-\subparagraph*{
-Ma{\ss}nahmen}
-
-\begin{itemize}
-\item {\color[rgb]{0.0,0.0,0.5019608}
-Erstma{\ss}nahmen bei vital bedrohten Patienten}
+\item
+\gZ{Tumor}
 
 \end{itemize}
-\begin{itemize}
-\item {\color[rgb]{0.0,0.0,0.5019608}
-Lagerung: \gE{leicht erh\"ohter Oberk\"orper},}
+\begin{gMassnahmenEnv}
+    \paragraph*{Ma{\ss}nahmen}
+    
+    \begin{itemize}
+        \item
+        Standardma{\ss}nahmen bei vital bedrohten Patienten
+        
+        
+        \begin{itemize}
+            \item
+            Lagerung: \gE{leicht erh\"ohter Oberk\"orper},
+            
+            \item
+            \[O_2\] 10~l, bei Bedarf bis zu 15~l
+            
+            \item
+            ·~Notarzt, ·~Reanimationsbereitschaft, ·~Vitalwerte \& Monitoring
+            
+        \end{itemize}
+        
+        \item
+        \gEs{Neurocheck} inkl. \gEs{BZ-Messung} (DD!)
+        
+        \item Hospitalisation: \gEs{Stroke Unit!}
+    \end{itemize}
+    
+\end{gMassnahmenEnv}
 
-\item {\color[rgb]{0.0,0.0,0.5019608}
-O\gSub{2} 10~l, bei Bedarf bis zu 15~l}
-
-\item {\color[rgb]{0.0,0.0,0.5019608}
-Notarzt}
-
-\item {\color[rgb]{0.0,0.0,0.5019608}
-Reanimationsbereitschaft}
-
-\end{itemize}
-\begin{itemize}
-\item {\color[rgb]{0.0,0.0,0.5019608}
-Vitalwerte erheben \& Monitoring}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Neurocheck inkl. BZ-Messung (DD!)}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-\gEs{Stroke Unit!}}
-
-\end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
+\section{
 Bakterielle \index{Meningitis}Meningitis}
 
-\begin{center}
-\tablehead{}\begin{supertabular}{|m{6.649cm}|m{6.651cm}|}
-\hline
 {\mdseries = eitrige Entz\"undung der Hirnh\"aute}
 
 {\mdseries ansteckende Form:}
 
 {\mdseries Meningokokken-Meningitis ${\rightarrow}$ hoch ansteckend}
 
-\subparagraph*{ Symptome:}
+\paragraph*{ Symptome:}
 
 \begin{itemize}
-\item {\mdseries Kopfschmerzen, Lichtscheu}
-
-\item {\mdseries Erbrechen, \"Ubelkeit}
-
-\item {\mdseries Meningismus :}
-
+    \item {\mdseries Kopfschmerzen, Lichtscheu}
+    
+    \item {\mdseries Erbrechen, \"Ubelkeit}
+    
+    \item {\mdseries Meningismus :}
+    
 \end{itemize}
 \begin{itemize}
-\item {\mdseries Fieber}
-
-\item {\mdseries Nackensteifigkeit}
-
+    \item {\mdseries Fieber}
+    
+    \item {\mdseries Nackensteifigkeit}
+    
 \end{itemize}
 \begin{itemize}
-\item {\mdseries Ausschlag (Exanthem )}
-
+    \item {\mdseries Ausschlag (Exanthem )}
+    
 \end{itemize}
- &
-\begin{center}
- [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=6.696cm,height=3.813cm]{AASdev20090228-img86.png}
 
-\end{center}
-\captionof{figure}[Endstadium einer bakteriellen Meningitis. Die Flecken
-auf der Haut sind Blutungen in Folge einer nicht mehr funktionierenden
-Blutgerinnung. Der Tod ist bei diesem Patienten innerhalb weniger
-Stunden zu erwarten.]{Endstadium einer bakteriellen Meningitis. Die
+\marginlabel{
+\begin{figure}[h]
+    \includegraphics[width=5cm]{./images/meningitis-kind-waterhouse.png}
+    %[Warning: Image ignored] [width=6.696cm,height=3.813cm]{AASdev20090228-img86.png}
+\caption{Endstadium einer bakteriellen Meningitis. Die
 Flecken auf der Haut sind Blutungen in Folge einer nicht mehr
 funktionierenden Blutgerinnung. Der Tod ist bei diesem Patienten
 innerhalb weniger Stunden zu erwarten.}
-\\\hline
-\end{supertabular}
-\end{center}
+\end{figure}
+}
+
 {\bfseries\color[rgb]{0.5019608,0.0,0.0}
 FEHLT: Querverwis Meningimus}
 
 {\bfseries\color[rgb]{0.5019608,0.0,0.0}
 FEHLT: Ma{\ss}nahmen}
 
+\section{Vom Gehirn ausgehende Krämpfe --- Zerebrale Krampfanfälle}
 {\mdseries\color[rgb]{0.0,0.0,0.5019608}
 Epilepsie%
 %
 }
 
-{\mdseries
 Vom Gehirn ausgehende motorische Krampfanf\"alle aufgrund von akuten
-oder  chronischen Erkrankungen des Gehirns.}
-
-{\mdseries
-Aufgrund von sich abnorm synchronisiert  entladenden Nervenzell-Gruppen
-im  Gehirn}
+oder chronischen Erkrankungen des Gehirns. Dabei entladenden sich unkontrolliert Nervenzell-Gruppen.
+im  Gehirn.
 
 {\mdseries
 nach Art:}
@@ -4934,86 +4939,74 @@ fokal - petit mal -- Anfall}
 generalisiert grand mal - Anfall }
 
 \end{itemize}
-\subparagraph*{
+\paragraph*{
 Ursachen:}
 
-\begin{itemize}
-\item {\mdseries
-Vergiftungen (Medikamente/Drogen/...)}
+\begin{description}
+    \item[Epilepsie]Die Epilespie ist eine chronische Erkrankung welche durch wiederkehrende Episoden von zerebralen Krampfanfällen gekennzeichnet ist.
+    \item[Vergiftungen](Medikamente/Drogen/...) können wieder fast alles machen, also auch Krampfanfälle.
+    
+    \item[Hirntumor] Durch den Tumor wird das Hirn beschädigt, auch dadurch kann es zu Anfällen kommen.
+    
+    \item[Narbengewebe] nach Insult oder Hirnverletzung.
+    
+    \item[Hirnblutung]
+    \item[Sauerstoffmangel] z.B. Isch\"amie aufgrund eines Gefäßverschlusses
+    
+    \item[BZ] Der Dauerbrenner. Eine Blutzuckerentgleisung kann fast alle neurologischen Symptome vortäuschen!
+    
+    \item[angeboren] ohne organisch fa{\ss}bare  Ursache
+    
+    \item[Fieberkrampf] Fieber bei Kleinkindern
+    
+    \item[Infektionen]
+    
+\end{description}
 
-\item {\mdseries
-Hirntumor}
-
-\item {\mdseries
-Narbengewebe nach Insult, Hirnverletzung}
-
-\item {\mdseries
-Hirnblutung, Isch\"amie}
-
-\item {\mdseries
-BZ }
-
-\item {\mdseries
-angeboren, ohne organisch fa{\ss}bare  Ursache}
-
-\item {\mdseries
-Fieber bei Kleinkindern}
-
-\item {\mdseries
-Infektionen}
-
-\end{itemize}
-\paragraph{Petit mal - Anfall}
-{\mdseries
-fokale Anf\"alle:}
+\paragraph{'Petit mal'-Anfall -- Fokaler Anfall}
 
 \begin{itemize}
-\item {\mdseries
-motorisch: Jackson-Anfall}
-
-\item {\mdseries
-{\quotedblbase}Jacksonian march{\textquotedblleft}}
-
-\item {\mdseries
-D\"ammerzustand (Absence )}
-
-\item {\mdseries
-Dauer: meist nur Sekunden}
-
-\item {\mdseries
-k\"onnen sich ev. zu grand mal-Anf\"allen  ausweiten}
-
+    
+    \item {\mdseries
+    D\"ammerzustand (Absence )}
+    
+    \item {\mdseries
+    Dauer: meist nur Sekunden}
+    
+    \item {\mdseries
+    k\"onnen sich ev. zu grand mal-Anf\"allen  ausweiten}
+    
 \end{itemize}
-\paragraph{Grand mal - Anfall}
+\paragraph{'Grand mal'-Anfall -- Generalisierter Anfall}
 \begin{itemize}
-\item {\mdseries
-Tonisch -- klonischer Anfall}
-
-\item {\mdseries
-zuerst kompletter Tonusverlust}
-
-\item {\mdseries
-Niederst\"urzen (Zungenbi{\ss})}
-
-\item {\mdseries
-Tonus ${\uparrow}$, unkontrollierte Zuckungen}
-
-\item {\mdseries
-Schaum vor dem Mund}
-
-\item {\mdseries
-Stuhl-/Urinabgang}
-
-\item {\mdseries
-nach Krampfphase Erholungsschlaf}
-
-\item {\mdseries
-ev. sogar tiefe Bewu{\ss}tlosigkeit}
-
+    \item
+    Tonisch -- klonischer Anfall
+    
+    \item
+    zuerst kompletter Tonusverlust
+    
+    \item
+    Niederst\"urzen (Zungenbi{\ss})
+    
+    \item
+    Tonus ${\uparrow}$, unkontrollierte Zuckungen
+    
+    \item
+    Schaum vor dem Mund
+    
+    \item {\mdseries
+    Stuhl-/Urinabgang}
+    
+    \item {\mdseries
+    nach Krampfphase Erholungsschlaf}
+    
+    \item {\mdseries
+    ev. sogar tiefe Bewu{\ss}tlosigkeit}
+    
 \end{itemize}
-{\mdseries
-f\"ur den Anfall selbst besteht Amnesie! ${\rightarrow}$ Patient
-aufkl\"aren was passiert ist, wo er sich befindet, etc.}
+
+Für den Anfall selbst besteht Amnesie! ${\rightarrow}$ Patient
+aufkl\"aren was passiert ist, wo er sich befindet, etc.
 
 \subparagraph*{
 Ma{\ss}nahmen}
@@ -5028,17 +5021,11 @@ M\"obel etc. entfernen oder polstern}
 \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
 NICHT festhalten -- aber sichern, Eigenschutz beachten!}
 
-\begin{center}
-\begin{minipage}{4.2cm}
-{\mdseries
+\marginpar{
 \textbf{Sichern}: Patient darf nicht von der Trage oder aus dem Bett
 fallen, der Kopf darf nicht am Boden oder Tischbein anschlagen, etc.}
 
-\end{minipage}
-\end{center}
 \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-%
-%
 Notarzt wenn: }
 
 \end{itemize}
@@ -5203,131 +5190,140 @@ Die relevanteste Stoffwechselst\"orung im Rettungsdienst ist der
 stellt eine St\"orung des Kohlehydrat-(zucker-)stoffwechsels dar.
 \gEs{Zucker ist ein Kohlehydrat}. }
 
-{\mdseries
+\section{Diabetes Mellitus}
+
 \gEs{Merke}: Diabetes mellitus ist eine chronische
-Stoffwechselerkrankungen mit  gest\"orter Blutzuckerregulation, daraus 
-resultierend:}
+Stoffwechselerkrankungen mit  gestörter Blutzuckerregulation. 
+Durch die Erkrankung oder die unsachgemäße Behandlung kann es zu 
+folgenden Notfällen kommen: 
 
-\begin{itemize}
-\item
-\gT{Hyp}\gT{o}\gT{glyk\"amie}
-... Unterzucker
+\begin{description}
+\item[\gT{Hyp}\gT{o}\gT{glyk\"amie}] ... Unterzucker
 
-\item
-\gT{Hyp}\gT{er}\gT{glyk\"amie}
-... {\quotedblbase}\"Uberzucker{\textquotedblleft}
+\item[\gT{Hyp}\gT{er}\gT{glyk\"amie}] ... {\quotedblbase}\"Uberzucker{\textquotedblleft}
 
-\end{itemize}
-\subparagraph*{
-Insulin }
+\end{description}
 
-{\mdseries
+\paragraph*{Insulin }
+
 Insulin ist ein Hormon und wird in den \gT{Beta-Zellen}
 der Bauchspeicheldr\"use (Pankreas) produziert. Es sorgt daf\"ur dass
 Zucker (\gT{Glukose}) aus dem Blut in die Zellen
 aufgenommen wird. }
 
-{\mdseries
-Zwei St\"orungen sind denkbar:}
+Zwei St\"orungen sind möglich:
 
 \begin{enumerate}
-\item Es ist zu wenig Insulin vorhanden.
-
-\item Der K\"orper ist schon zu sehr an das Insulin gewohnt und reagiert
-nicht mehr so wie er sollte, er braucht gr\"o{\ss}ere Mengen Insulin um
-den gleichen Effekt wie ein Gesunder zu erreichen (Gew\"ohnungseffekt),
-irgendwann kannn aber der K\"orper nicht mehr Insulin produzieren.
-
+    \item Es wird zu wenig Insulin vorhanden.
+    
+    \item Der K\"orper hat einen gesteigerten Bedarf an Insulin weil er schon 
+    zu sehr daran gewohnt ist. Der Körper reagiert auf die 'normale' Dosis
+    nicht mehr so wie er sollte, er braucht gr\"o{\ss}ere Mengen Insulin um
+    den gleichen Effekt wie ein Gesunder zu erreichen (Gew\"ohnungseffekt),
+    irgendwann kannn aber der K\"orper nicht mehr Insulin produzieren.
+    
 \end{enumerate}
-{\mdseries
-Folglich unterscheidet man 2 Typen:}
 
-\begin{itemize}
-\item {\mdseries
-\gT{Diabetes mellitus Typ I}  \gZ{(IDDM,
-insuline dependent)} ... keine Insulinproduktion des K\"orpers, muss 
-immer Insulin spritzen }
+Folglich unterscheidet man 2 Typen:
 
-\item {\mdseries
-\gT{Diabetes mellitus Typ II}
-\gZ{(NIDDM, non insuline dependent)} ... Zuviel Zucker
-(schlechte Ern\"ahrung), folglich zu viel Insulin, K\"orper gew\"ohnt
-sich, s.o. ${\rightarrow}$ braucht erst Sport, Medikamente, im
-fort\-ge\-schrittenen Stadium oft Insulin}
+\begin{description}
+    \item[Diabetes mellitus Typ I]  \gZ{(IDDM,
+    insuline dependent)} ... keine Insulinproduktion des K\"orpers, der Patient muss
+    immer Insulin als Ersatz spritzen.
+    St\"orung des Immunsystems ${\rightarrow}$ Zerst\"orung der
+    Insulin-produzierenden ${\beta}$-Zellen des Pankreas ${\rightarrow}$
+    kein Insulin -- absoluter Mangel
+    
+    \item[\gT{Diabetes mellitus Typ II}]
+    \gZ{(NIDDM, non insuline dependent)} ... Zuviel Zucker
+    (schlechte Ern\"ahrung), folglich zu viel Insulin, K\"orper gew\"ohnt
+    sich, s.o. ${\rightarrow}$ braucht erst Sport, Medikamente, im
+    fort\-ge\-schrittenen Stadium oft Insulin
+    Relativer Insulinmangel, K\"orper ist \"ubers\"attig an Insulin und
+    reagiert kaum mehr daruf \gZ{(Insulinresistenz)},
+    sp\"ater ${\beta}$-Zellen ersch\"opft}
+    
+    \begin{itemize}
+        \item {\mdseries
+        sp\"ate Manifestation: {\textgreater}35 Jahre}
+        
+        \item {\mdseries
+        \"Ubergewicht}
+        
+        \item {\mdseries
+        95\% aller Diabetiker}
+        
+        \item {\mdseries
+        25-30\% erblich}
+        
+    \end{itemize}
+    
+\end{description}
 
-\end{itemize}
-\subparagraph*{
+\paragraph*{
 Sp\"atfolgen:}
 
-{\mdseries
 Ein hoher Blutzuckerspiegel \"uber Jahre sch\"adigt den gesammten
-K\"orper. Es kommt zu:}
+K\"orper. Es kommt zu:
 
 \begin{itemize}
-\item {\mdseries
-Gef\"a{\ss}sch\"aden: Verkalkung}
-
+    \item {\mdseries
+    Gef\"a{\ss}sch\"aden durch Verkalkung}
+    
+    \begin{itemize}
+        \item {\mdseries
+        Gef\"a{\ss}verschl\"usse (kleine und gro{\ss}e Gef\"a{\ss}e)}
+        
+        \item {\mdseries
+        \textbf{Beine}: {\quotedblbase}Diabetischer Fu{\ss}{\textquotedblleft},
+        in Folge der Mangeldurchblutung in der Peripherie heilen auch kleine
+        Wunden nicht mehr, in weiterer Folge muss immer weiter amputiert
+        werden.}
+        \item {\mdseries
+        \textbf{Herz}: Die Herzkranzgef\"a{\ss}e (Koronar\-arterien) sind ebenso
+        betroffen. Diabetiker sind Risikopatienten f\"ur
+        Herz-Kreislauf-Erkrankungen wie zB Herz\-infarkt.}
+        \item {\mdseries
+        \textbf{Hirn}: Wie beim Herzen kommt es zu Gef\"a{\ss}sch\"aden, daher
+        ist das Risiko f\"ur Schlag\"anf\"alle erh\"oht.}\item
+        \item {\mdseries
+        \textbf{Niere}: Die sehr kleinen Gef\"a{\ss}e der Niere werde
+        gesch\"adigt, im weiteren Verlauf stellt die Niere ihre Arbeit ein
+        ${\rightarrow}$ {\quotedblbase}Chronische
+        Niereninsuffizienz{\textquotedblleft}. Diese Erkrankung macht einen
+        Gro{\ss}teil der Krankentransporte aus.}\item
+    \end{itemize}
+    \item {\mdseries
+    Nervensch\"aden \gZ{(periphere Polyneuropathie )}:
+    Gef\"uhlslosigkeit vor allem in den Extremit\"aten, aber auch am
+    gesammten K\"orper: Ein Herzinfarkt kann zum Beispiel schmerzlos
+    ablaufen!}
+    
+    \item {\mdseries
+    Augensch\"aden -- Erblindung}
+    
 \end{itemize}
-\begin{itemize}
-\item {\mdseries
-Gef\"a{\ss}verschl\"usse (kleine und gro{\ss}e Gef\"a{\ss}e)}
 
-\end{itemize}
-\begin{itemize}
-\item {\mdseries
-\textbf{Beine}: {\quotedblbase}Diabetischer Fu{\ss}{\textquotedblleft},
-in Folge der Mangeldurchblutung in der Peripherie heilen auch kleine
-Wunden nicht mehr, in weiterer Folge muss immer weiter amputiert
-werden.}
-
-\item {\mdseries
-\textbf{Niere}: Die sehr kleinen Gef\"a{\ss}e der Niere werde
-gesch\"adigt, im weiteren Verlauf stellt die Niere ihre Arbeit ein
-${\rightarrow}$ {\quotedblbase}Chronische
-Niereninsuffizienz{\textquotedblleft}. Diese Erkrankung macht einen
-Gro{\ss}teil der Krankentransporte aus.}
-
-\item {\mdseries
-\textbf{Herz}: Die Herzkranzgef\"a{\ss}e (Koronar\-arterien) sind ebenso
-betroffen. Diabetiker sind Risikopatienten f\"ur
-Herz-Kreislauf-Erkrankungen wie zB Herz\-infarkt.}
-
-\item {\mdseries
-\textbf{Hirn}: Wie beim Herzen kommt es zu Gef\"a{\ss}sch\"aden, daher
-ist das Risiko f\"ur Schlag\"anf\"alle erh\"oht.}
-
-\end{itemize}
-\begin{itemize}
-\item {\mdseries
-Nervensch\"aden \gZ{(periphere Polyneuropathie )}:
-Gef\"uhlslosigkeit vor allem in den Extremit\"aten, aber auch am
-gesammten K\"orper: Ein Herzinfarkt kann zum Beispiel schmerzlos
-ablaufen!}
-
-\item {\mdseries
-Augensch\"aden -- Erblindung}
-
-\end{itemize}
-{\mdseries
 Krankheiten die sonst schmerzhaft sind k\"onnen beim Diabetiker aufgrund
-der NErvensch\"aden ohne Schmerzen ablaufen. }
+der Nervensch\"aden ohne Schmerzen ablaufen. 
 
-\subparagraph*{
-\gCa{Achtung}: Stummer Herzinfarkt beim Diabetiker!}
+\gCa{Achtung}: Stummer Herzinfarkt beim Diabetiker!
 
- [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=11.387cm,height=16.225cm]{AASdev20090228-img87.png}
-\captionof{figure}[Die h\"aufigsten Folgeerkrankungen des Diebetikers:
-Nervensch\"adigungen, Herzinfarkt, Nierensch\"aden, Schlaganfall]{Die
-h\"aufigsten Folgeerkrankungen des Diebetikers: Nervensch\"adigungen,
-Herzinfarkt, Nierensch\"aden, Schlaganfall}
-
+\begin{center}
+\begin{figure}
+    %[Warning: Image ignored] % Unhandled or unsupported graphics:
+    %\includegraphics[width=11.387cm,height=16.225cm]{AASdev20090228-img87.png}
+    \includegraphics[15cm]{./images/diabetes-folgeerkrankungen.png}
+    \caption[Die h\"aufigsten Folgeerkrankungen des Diebetikers:
+    Nervensch\"adigungen, Herzinfarkt, Nierensch\"aden, Schlaganfall]{Die
+    h\"aufigsten Folgeerkrankungen des Diebetikers: Nervensch\"adigungen,
+    Herzinfarkt, Nierensch\"aden, Schlaganfall}
+\end{figure}
+\end{center}
 
 \subparagraph[Diabetes \ mellitus I]{Diabetes  mellitus I}
 {\mdseries
-St\"orung des Immunsystems ${\rightarrow}$ Zerst\"orung der
-Insulin-produzierenden ${\beta}$-Zellen des Pankreas ${\rightarrow}$
-kein Insulin -- absoluter Mangel}
+}
 
 {\mdseries
 Manifestationsalter: 0-25}
@@ -5349,28 +5345,10 @@ er\-fra\-gen}
 
 \subparagraph[Diabetes \ mellitus II]{Diabetes  mellitus II}
 {\mdseries
-Relativer Insulinmangel, K\"orper ist \"ubers\"attig an Insulin und
-reagiert kaum mehr daruf \gZ{(Insulinresistenz)},
-sp\"ater ${\beta}$-Zellen ersch\"opft}
 
-\begin{itemize}
-\item {\mdseries
-sp\"ate Manifestation: {\textgreater}35 Jahre}
+\subsection{Hypoglyk\"amie}
 
-\item {\mdseries
-\"Ubergewicht}
-
-\item {\mdseries
-95\% aller Diabetiker}
-
-\item {\mdseries
-25-30\% erblich}
-
-\end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Hypoglyk\"amie}
-
-\subparagraph*{
+\paragraph*{
 Ursachen}
 
 \begin{center}
@@ -5395,7 +5373,7 @@ Alkohol}
 {\mdseries
 BZ normalerweise 80-110 mg/dl}
 
-\subparagraph*{
+\paragraph*{
 Symptome}
 
 \begin{itemize}
@@ -5426,7 +5404,7 @@ an  Hypoglyk\"amie denken}
 {\mdseries
 ${\rightarrow}$ BZ-Messung bei jeder neurologischen St\"orung. }
 
-\subparagraph*{
+\paragraph*{
 Therapie}
 
 \begin{itemize}
@@ -5460,39 +5438,35 @@ ketoazidotisches Koma
 \item kompensatorisch Ku{\ss}maul{\textquotesingle}sche Atmung
 (CO\textsubscript{2} - Abatmung)
 
-\begin{center}
-\begin{minipage}{4.2cm}
-{\mdseries
-\textbf{Erinnere Dich}: Hyperventilationstetanie ${\rightarrow}$
-Alkalose (pH wird basisch). }
+\marginlabel{\textbf{Erinnere Dich}: Hyperventilationstetanie ${\rightarrow}$
+Alkalose (pH wird basisch). 
 
-{\mdseries
 Bei der diab. Ketoazidose (sauer) versucht der K\"orper diesen
-Mechanismus auszunutzen: }
+Mechanismus auszunutzen: 
 
-{\mdseries
 {\quotedblbase}\textbf{Er will sich vom sauren pH zum basischen pH
-atmen.{\textquotedblleft}}}
+atmen.{\textquotedblleft}}
 
 ${\rightarrow}$ Er hyperventiliert.
+} %marginlabel
 
-\end{minipage}
-\end{center}
 \item eher bei DM I
 
 \end{itemize}
-hyperosmolares Koma
+
+\paragraph{Hyperosmolares Koma}
 
 \begin{itemize}
-\item BZ ${\uparrow}$${\uparrow}$
-
-\item zuviel Glucose ={\textgreater} rel. Fl\"ussigkeitsmangel
-
-\item Niere gest\"ort
-
-\item DM II
-
+    \item BZ ${\uparrow}$${\uparrow}$
+    
+    \item zuviel Glucose ={\textgreater} rel. Fl\"ussigkeitsmangel
+    
+    \item Niere gest\"ort
+    
+    \item DM II
+    
 \end{itemize}
+
 \subparagraph*{
 Ursachen}
 
@@ -5510,22 +5484,23 @@ Ursachen}
 Symptome}
 
 \begin{itemize}
-\item Durstgef\"uhl
-
-\item vermehrter Harndrang, Harnmenge ${\uparrow}$
-
-\item Bewu{\ss}tseinstr\"ubung bis Bewu{\ss}tlosigkeit
-
-\item Ku{\ss}maul{\textquotesingle}sche Atmung (sehr tief und schnell)
-
-\item Aceton-Geruch (Achtung, nicht mit Schnapsfahne verwechseln!)
-
-\item DM I: ausgepr\"agte Symptome
-
-\item DM II: schleichender Verlauf
-
+    \item Durstgef\"uhl
+    
+    \item vermehrter Harndrang, Harnmenge ${\uparrow}$
+    
+    \item Bewu{\ss}tseinstr\"ubung bis Bewu{\ss}tlosigkeit
+    
+    \item Ku{\ss}maul{\textquotesingle}sche Atmung (sehr tief und schnell)
+    
+    \item Aceton-Geruch (Achtung, nicht mit Schnapsfahne verwechseln!)
+    
+    \item DM I: ausgepr\"agte Symptome
+    
+    \item DM II: schleichender Verlauf
+    
 \end{itemize}
-\subparagraph*{
+
+\paragraph*{
 Therapie}
 
 \begin{itemize}
@@ -5639,7 +5614,7 @@ Wili, etc.)}
 \end{itemize}
 \subparagraph*{
 M\"ogliche Ursachen f\"ur akutes Abdomen}
-
+\begin{multicols}{2}
 \begin{itemize}
 \item {\mdseries
 Bauchfellentz\"undung (Peritonitis )}
@@ -5695,6 +5670,7 @@ Gastroenteritis}
 Dehydratation, Exsikkose}
 
 \end{itemize}
+\end{multicols}
 {\mdseries
 Schmerzcharakter}
 

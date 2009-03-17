@@ -148,6 +148,8 @@ marginparwidth=52mm
 % Character styles names are single letters, 
 % Paragraph styles are words
 
+\newcommand\gAuthNotes[1]{\textcolor{red}{\ttfamily #1 }}
+\newcommand{\gStatus}[1]{\textcolor{red}{\ttfamily #1 }}
 
 % Terminus
 \newcommand\gT[1]{\textbf{\textup{\textcolor[rgb]{0.0,0.5019608,0.0}{#1}}}}
@@ -182,7 +184,7 @@ marginparwidth=52mm
 
 \newcommand{\gMassnahmen}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
 \newenvironment{gMassnahmenEnv}{\begin{boxedminipage}[t]{10cm}}{\end{boxedminipage}}
-\newcommand{\gStatus}[1]{\textcolor{red}{\ttfamily #1 }}
+
 
 \renewcommand{\labelitemi}{\textcolor[rgb]{0.0,0.0,0.4}{\Squaresteel}}
 \renewcommand{\labelitemii}{$\hookrightarrow$}
@@ -3697,43 +3699,34 @@ Symptome}
 Patient wacht auf dem Boden liegend  auf, wei{\ss} nicht, was geschehen
 ist...}
 
-\subparagraph*{
-Ursachen:}
+\paragraph*{Ursachen:}
 
 \begin{itemize}
-    \item {\mdseries
-    kardial}
+    \item kardial
     
-    \item {\mdseries
-    vaskul\"ar}
+    \item vaskul\"ar
     
-    \item {\mdseries
-    zerebrovaskul\"ar}
+    \item zerebrovaskul\"ar
     
-    \item {\mdseries
-    zerebral}
+    \item zerebral
     
 \end{itemize}
-{\bfseries\color[rgb]{0.5019608,0.0,0.0}
-ERKL\"AREN!}
+
+\gAuthNotes{ERKL\"AREN!}
+
 \begin{gMassnahmenEnv}
     \subparagraph*{Spezielle Maßnahmen}
     
     \begin{itemize}
-        \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-        sofern notwendig:}
+        \item sofern notwendig:
         
-        \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-        Beine hoch, }
+        \item Beine hoch  
         
-        \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-        evt. O2}
+        \item evt. \[O_2\]
         
-        \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-        Synkope}
+        \item Synkope
         
-        \item \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-        Hospitalisierung  zur Abkl\"arung  unbedingt erforderlich}
+        \item Hospitalisierung  zur Abkl\"arung  unbedingt erforderlich
         
     \end{itemize}
     
@@ -5209,7 +5202,7 @@ folgenden Notfällen kommen:
 Insulin ist ein Hormon und wird in den \gT{Beta-Zellen}
 der Bauchspeicheldr\"use (Pankreas) produziert. Es sorgt daf\"ur dass
 Zucker (\gT{Glukose}) aus dem Blut in die Zellen
-aufgenommen wird. }
+aufgenommen wird. 
 
 Zwei St\"orungen sind möglich:
 
@@ -5241,7 +5234,7 @@ Folglich unterscheidet man 2 Typen:
     fort\-ge\-schrittenen Stadium oft Insulin
     Relativer Insulinmangel, K\"orper ist \"ubers\"attig an Insulin und
     reagiert kaum mehr daruf \gZ{(Insulinresistenz)},
-    sp\"ater ${\beta}$-Zellen ersch\"opft}
+    sp\"ater ${\beta}$-Zellen ersch\"opft
     
     \begin{itemize}
         \item {\mdseries
@@ -5344,83 +5337,84 @@ zu wenig gegessen wurde) ${\rightarrow}$  Spritz/E{\ss}abstand
 er\-fra\-gen}
 
 \subparagraph[Diabetes \ mellitus II]{Diabetes  mellitus II}
-{\mdseries
 
 \subsection{Hypoglyk\"amie}
 
-\paragraph*{
-Ursachen}
+\paragraph*{Ursachen}
 
 \begin{center}
- [Warning: Image ignored] % Unhandled or unsupported graphics:
+[Warning: Image ignored] % Unhandled or unsupported graphics:
 %\includegraphics[width=4.234cm,height=7.526cm]{AASdev20090228-img88.png}
 
 \end{center}
 \begin{itemize}
-\item {\mdseries
-zuviel Insulin (spritzen ohne zu Essen)}
-
-\item {\mdseries
-fasten (spritzen ohne zu Essen)}
-
-\item {\mdseries
-Sport}
-
-\item {\mdseries
-Alkohol}
-
+    \item {\mdseries
+    zuviel Insulin (spritzen ohne zu Essen)}
+    
+    \item {\mdseries
+    fasten (spritzen ohne zu Essen)}
+    
+    \item {\mdseries
+    Sport}
+    
+    \item {\mdseries
+    Alkohol}
+    
 \end{itemize}
-{\mdseries
-BZ normalerweise 80-110 mg/dl}
 
-\paragraph*{
-Symptome}
+Der Blutzucker ist normalerweise 80-110~mg/dl
+
+\paragraph*{Symptome}
 
 \begin{itemize}
-\item {\mdseries
-Unruhe, Zittern, Schwei{\ss}ausbruch}
-
-\item {\mdseries
-Hei{\ss}hunger, \"Ubelkeit}
-
-\item {\mdseries
-Tachykardie, Tachypnoe}
-
-\item {\mdseries
-Haut feucht/bla{\ss}}
-
-\item {\mdseries
-Verwirrtheit, Krampfanf\"alle, Bewu{\ss}tlosigkeit}
-
+    \item {\mdseries
+    Unruhe, Zittern, Schwei{\ss}ausbruch}
+    
+    \item {\mdseries
+    Hei{\ss}hunger, \"Ubelkeit}
+    
+    \item {\mdseries
+    Tachykardie, Tachypnoe}
+    
+    \item {\mdseries
+    Haut feucht/bla{\ss}}
+    
+    \item {\mdseries
+    Verwirrtheit, Krampfanf\"alle, Bewu{\ss}tlosigkeit}
+    
 \end{itemize}
-{\mdseries
+
 Hypoglyk\"amie kann alle neurologischen  St\"orungen
-aus\-l\"osen/imitieren!}
+aus\-l\"osen/imitieren! Bei jeder  neurologischen Symptomatik  (v.a. Bewu{\ss}tseinsst\"orungen)
+an  Hypoglyk\"amie denken!
 
-{\mdseries
-Bei jeder  neurologischen Symptomatik  (v.a. Bewu{\ss}tseinsst\"orungen)
-an  Hypoglyk\"amie denken}
+\gFazit{${\rightarrow}$ BZ-Messung bei jeder neurologischen St\"orung. }
 
-{\mdseries
-${\rightarrow}$ BZ-Messung bei jeder neurologischen St\"orung. }
 
-\paragraph*{
-Therapie}
 
-\begin{itemize}
-\item {\mdseries
-Basistherapie bei Bewu{\ss}tlosigkeit}
+\begin{gMassnahmenEnv}
+    
+    \paragraph*{Spezielle Maßnahmen}
 
-\item {\mdseries
-BZ messen! Wenn Patient ansprechbar,  Traubenzucker, danach nachessen
-lassen.}
+Es ist wichtig zu erheben ob der Patient vital bedroht ist oder nicht. 
+Eine vitale Bedrohung ist zum Beispiel bei Bewusstlosigkeit gegeben.
 
-\item {\mdseries
-evt. Notarzt}
+Stark getrübten Patienten soll nichts zu essen gegeben werden da Aspirationsgefahr besteht. 
 
-\end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Hyperglyk\"amie}
+\begin{description}
+    \item [Evt. Standardmaßnahmen bei vital bedrohten Patienten]
+    
+    \item [BZ messen!] Zur Diagnosestellung \gE{vorher} und und \gE{nach} Zuckergabe
+    \item [Zucker zuführen] Wenn der Patient bewusstseinsklar ist Traubenzucker geben. Danach nachessen
+    lassen da der Traubenzucker nur eine kurze Wirkdauer hat.
+    
+    \item [evt. Notarzt] bei vitaler Bedrohung oder wenn Zuckergabe nur über eine venöse Gabe erfolgen kann
+    (getrübte Patienten die aufgrund der Apirationsgefahr nichts mehr essen dürfen).
+    
+\end{description}
+\end{gMassnahmenEnv}
+
+\subsection{Hyperglyk\"amie}
 
 \subparagraph*{
 Diabetisches Koma }
@@ -5512,15 +5506,50 @@ Therapie}
 
 \end{itemize}
 \chapter{Abdominelle Notf\"alle}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Akutes Abdomen}
 
-{\mdseries
-\gT{Akutes Abdomen}: Akute schmerzhafte Baucherkrankung
-(viele Ursachen  m\"oglich!)}
+Der Bauch ist eine echte Herausforderung. 
+Er beinhaltet viele unterschiedliche Organe und Strukturen die weh tun und
+erkranken können. Viele dieser, oft auch mit starken Schmerzen verbundenen, Störungen
+sind nicht übermäßig schlimm, einige sind jedoch sehr gefährlich oder können rasch
+gefährlich werden. 
 
-{\mdseries
-ferner: }
+Es ist daher wichtig typische Symptome zu erheben und Alarmzeichen sofort zu erkennen.
+
+\section{Das Akute Abdomen --- Alarmzeichen mit Bretthartem Bauch}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\gT{Akutes Abdomen}: Zustand mit plötzlichen, stark schmerzhaften Bauchschmerzen und brettharten Bauch, es sind viele Ursachen  m\"oglich!
+
+ferner: 
 
 \begin{itemize}
 \item {\mdseries
@@ -5541,8 +5570,7 @@ Clinical Medicine, 7\textsuperscript{th} edt., Oxford University Press,
 eher eine bedrohliche Bauch\-erkrankung, bei der man akut (schnell)
 handeln muss (Ab\-wehrspannung, harter Bauch).}
 
-\subparagraph*{
-Symptome}
+\paragraph*{Symptome}
 
 \begin{itemize}
 \item {\mdseries
@@ -5574,8 +5602,8 @@ Fieber}
 Schock}
 
 \end{itemize}
-\subparagraph*{
-Ursachen}
+
+\paragraph*{Ursachen}
 
 \begin{itemize}
 \item {\mdseries
@@ -5588,6 +5616,9 @@ gyn\"akologisch}
 Verletzungen}
 
 \end{itemize}
+
+\begin{gMassnahmenEnv}
+    
 \subparagraph*{
 Allgemeine Ma{\ss}nahmen (Ursachen-unabh\"angig)}
 
@@ -5612,6 +5643,9 @@ Frauen evt. Gyn\"akologie oder Chirurgie mit Gyn im Haus (SMZ-O, Rudi,
 Wili, etc.)}
 
 \end{itemize}
+
+\end{gMassnahmenEnv}
+
 \subparagraph*{
 M\"ogliche Ursachen f\"ur akutes Abdomen}
 \begin{multicols}{2}

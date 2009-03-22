@@ -144,6 +144,16 @@ marginparwidth=52mm
 \definecolor{paleyellow}{rgb}{1,1,0.8}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Styles
+
+% set fonts
+\renewcommand{\rmdefault}{ugm}
+\renewcommand{\sfdefault}{uop}
+\renewcommand{\ttdefault}{pcr}
+
+%customize descritpions
+
+\renewcommand\descriptionlabel[1]{\hspace{\labelsep}\textcolor[rgb]{0.8,0.8,1}{\Squaresteel}\hspace{\labelsep}\gEs{#1}}
+
 % Define Grissu.org \latex commands
 % Character styles names are single letters, 
 % Paragraph styles are words
@@ -164,7 +174,7 @@ marginparwidth=52mm
 % Handwriting
 \newcommand\gH[1]{\textmd{\textcolor[rgb]{0.0,0.0,0.5019608}{#1}}}
 % Teletype
-\newcommand\gTt[1]{#1}
+\newcommand\gTt[1]{{\ttfamily #1}}
 % Cave
 \newcommand\gCa[1]{\textbf{\textcolor{black}{#1}}}
 \newcommand\gNw[1]{#1}
@@ -213,9 +223,7 @@ marginparwidth=52mm
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
-\renewcommand{\rmdefault}{ugm}
-\renewcommand{\sfdefault}{uop}
-\renewcommand{\ttdefault}{pcr}
+
 
 \maketitle
 
@@ -2851,20 +2859,51 @@ einteilen
 
 \end{itemize}
 
-\paragraph*{Begriffe}
+\section*{Begriffe}
 
 \begin{description}
 
-	\item[\gT{Symptome}] Krankheitserscheinungen
+	\item[Symptome] Krankheitserscheinungen
 
-	\item[\gT{Komplikationen}] möglicherweise auftretende
+	\item[Komplikationen] möglicherweise auftretende
 	Schwierigkeiten
 
-	\item[\gT{Therapie}] Sinnvolle Ma{\ss}nahmen zur Verbesserung
-	der  Symptome
+	\item[Therapie] Ma{\ss}nahmen zur Heilung oder
+	Linderung von Krankheiten und Symptomen
+	\item[Diagnose]
+	\begin{description}
+        \item[Verdachtsdiagnose]
+        \item[Notfalldiagnose]
+        \item[Arbeitsdiagnose]
+        \item['Status post' -- 'Zustand nach'] Abk. \gE{'St.p.'},
+	\gE{'Z.n.'}. Bezeichnet eine ``alte Diagnose'', d.h. eine
+	Erkrankung oder eine Behandlung die einmal durchgemacht
+	wurde. Z.B.: 
+	\begin{itemize}
+        \item \gTt{Z.n. Blinddarm-Operation}: Der Patient
+        hatte einmal eine Blinddarm-Operation. 
+        \item \gTt{Z.n. Herzinfarkt 2/2006}: Der Patient
+        hatte im Februar 2006 einen Herzinfarkt.
+    \end{itemize} 
 
-	\item[\gT{Differentialdiagnose} (DD)] Erkrankung(en) mit
-	\"ahnlichen Symptomen,  Ver\-wechslungs\-gefahr
+    \end{description}
+	\item[Differentialdiagnosen (DD)] Diagnosen, 
+	welche bei den jeweiligen Symptomen auch
+	möglich, aber nicht so wahrscheinlich sind wie jene
+	Diagnose für welche man sich ``entscheidet''.
+	
+	Beispiel: Patient mit Kopfschmerzen nach ausgiebigen
+	Alkoholgenuß am Vortag.
+	\begin{description}
+        \item[Verdachtsdiagnose:] \gE{``Kater''}
+        \item[Differentialdiagnosen:]
+        Migraine, Hirnblutung, Schlaganfall,
+        Hypoglykämie, Intoxikation, \ldots 
+    \end{description}
+	
+	\item[Diagnostik]
+	\item[Befund]
+	\item[] 
 
 \end{description}
 
@@ -4838,7 +4877,7 @@ Symptomen immer messen!)
             Lagerung: \gE{leicht erh\"ohter Oberk\"orper},
             
             \item
-            \[O_2\] 10~l, bei Bedarf bis zu 15~l
+            $O_2$ 10~l, bei Bedarf bis zu 15~l
             
             \item
             ·~Notarzt, ·~Reanimationsbereitschaft, ·~Vitalwerte \& Monitoring

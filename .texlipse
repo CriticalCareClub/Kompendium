@@ -1,6 +1,6 @@
 #TeXlipse project settings
-#Sat Mar 14 22:42:38 CET 2009
-builderNum=6
+#Wed Mar 25 17:05:25 CET 2009
+builderNum=2
 outputDir=draft1/
 makeIndSty=
 bibrefDir=
@@ -8,6 +8,6 @@ outputFormat=pdf
 tempDir=draft1
 mainTexFile=AAS.tex
 outputFile=AAS.pdf
-langSpell=
+langSpell=de
 markDer=true
 srcDir=draft1/

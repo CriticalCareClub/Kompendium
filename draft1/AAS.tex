@@ -14,11 +14,8 @@
 \usepackage{array}
 
 \usepackage{hhline}
+
 \usepackage{graphicx}
-
-
-
-
 %\usepackage{ooomath}
 
 
@@ -40,12 +37,13 @@
 \definecolor{ubuntuorange}{rgb}{1,0.388235294,0.035294118}
 \definecolor{ubuntuyellow}{rgb}{1,0.709803922,0.082352941}
 \definecolor{paleyellow}{rgb}{1,1,0.8}
+\definecolor{black}{rgb}{0,0,0}
+\definecolor{RED}{rgb}{1,0,0}
 
 
 
 
-
-\usepackage{pst-all}
+%\usepackage{pst-all}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Tables
 
@@ -79,7 +77,7 @@ marginparwidth=52mm
 % \ChRuleWidth{0.5pt} \ChNameUpperCase
 
 
-\setkomafont{disposition}{\mdseries\normalcolor\rmfamily}
+\setkomafont{disposition}{\mdseries\rmfamily}
 \addtokomafont{part}{\Huge\color{darkBlue}}
 \addtokomafont{partnumber}{\Huge\color{darkBlue}}
 \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{darkBlue}}
@@ -138,14 +136,14 @@ marginparwidth=52mm
 
 
 
-\makeatletter
-\newcommand\arraybslash{\let\\\@arraycr}
-\makeatother
-
-\makeindex
-
-\setlength\tabcolsep{1mm}
-\renewcommand\arraystretch{1.3}
+% \makeatletter
+% \newcommand\arraybslash{\let\\\@arraycr}
+% \makeatother
+% 
+% \makeindex
+% 
+% \setlength\tabcolsep{1mm}
+% \renewcommand\arraystretch{1.3}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Captions
 																% Non-floating captions
@@ -206,8 +204,7 @@ marginparwidth=52mm
 
 \newenvironment{gCaveEnv}{\begin{boxedminipage}[t]{10cm} \sffamily}{\end{boxedminipage}}
 
-\newcommand{\gDefinition}[1]{{\mdseries\color{Terminus}\rmfamily\textit{{bfseries{Definition:
-}#1}}}}
+\newcommand{\gDefinition}[1]{{\mdseries\color{Terminus}\rmfamily\textit{{\bfseries{Definition: }#1}}}}
 \newcommand{\gDraft}[1]{\textbf{\textcolor{red}{#1}}}
 %\newcommand{\gFazit}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
 \newcommand{\gFazit}[1]{\begin{boxedminipage}[t]{10cm}{\color{ubuntured}#1}\end{boxedminipage}}
@@ -230,6 +227,7 @@ marginparwidth=52mm
 \renewcommand\descriptionlabel[1]{\hspace{\labelsep}\textcolor[rgb]{0.8,1,0.8}{\Squaresteel}\hspace{\labelsep}\gEs{#1}}
 
 \newcommand{\gTxBeiVit}{Bei vitaler Bedrohung: }
+
 \newcommand{\gTxMassVitBes}{Standardmaßnahmen bei
 vital bedrohten Patienten. Besonderheiten:}
 
@@ -241,7 +239,7 @@ vital bedrohten Patienten. Besonderheiten:}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
 
 \title{Arbeits- und Ausbildungsstandards f\"ur den Sanitätsdienst}
-\subtitle{und eine Einf\"uhrung in die Welt der Medizin und Sanitätshilfe}
+\subject{und eine Einf\"uhrung in die Welt der Medizin und Sanitätshilfe}
 \titlehead{Version f\"ur \"Osterreich, Stand Februar 2009 \par 
 \LaTeX -Version, die Teile aus der OpenOffice-Version werden en detail \"ubernommen}
 \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
@@ -366,7 +364,7 @@ vital bedrohten Patienten. Besonderheiten:}
   \item Endproduktion: Ubuntu Linux 8.10 \textit{"Intrebid Ibex"}, http://www.ubuntu.com 
  \end{itemize}
 \end{description}
-\section*{Index}
+\section{Index}
 \printindex
 
 \part{Basis --- \emph{Modul Rettungssanitäter}}
@@ -482,7 +480,7 @@ und das Unternehmensrecht.
 	\centering Geschäftsf\"uhrung ohne Auftrag im Notfall
  	&
 	\\
-\raggedleft {\bfseries\color{blue} \Rnode{patient}{Patient}}\par
+\raggedleft {\bfseries\color{blue} {Patient}}\par
 
  &
 	{}
@@ -490,7 +488,7 @@ und das Unternehmensrecht.
  	&
 		{\bfseries\color{red} Rettungsorganisation }
 
-		\Rnode{rettorg}{(bzw. Krankenanstalt)}
+		{(bzw. Krankenanstalt)}
 
 \\
 \raggedleft Erf\"ullungsgehilfe\par
@@ -510,7 +508,7 @@ und das Unternehmensrecht.
 \\
  &
 	\centering {\bfseries\color[rgb]{1.0,0.827451,0.1254902}
-	\Rnode{erfgeh}{(Not)Arzt/Sanitäter}}\par
+	{(Not)Arzt/Sanitäter}}\par
 
  	&
 \\
@@ -590,23 +588,17 @@ Zivildienst bei der Organisation.
 \end{itemize}
 
 Aus diesem Verhältnis heraus m\"ussen manche der Pflichten, welche die
-Organisation gegen\"uber dem Pat. treffen, auch durch den
-(Not-)Arzt/Sanitäter erf\"ullt werden. Gleichzeitig treffen auch die
-Organisation und den Sanitäter Rechte und Pflicht im Umgang
-miteinander.
+Org\-anisation gegen\-\"uber dem Patienten treffen, auch durch den
+(Not-)Arzt~/ Sanitäter er\-f\"ullt werden. Gleich\-zeitig treffen auch die
+Org\-anisation und den Sanitäter Rechte und Pflicht im Um\-gang
+mit\-ein\-ander.
 
 \subsection{Strafbarkeitspr\"ufung}
 
-\begin{itemize}
-\item[] {\mdseries
-1. Tatbestandserf\"ullung bzw. Schaden}
-
-{\mdseries
-2. Kausalität}
-
-{\mdseries
-3. Rechtswidrigkeit}
-
+\begin{enumerate}
+\item Tatbestandserf\"ullung bzw. Schaden
+\item Kausalit\"at
+\item Rechtswidrigkeit
 
 \begin{itemize}
 \item[] {\mdseries
@@ -632,7 +624,7 @@ Anhalterecht Privater}
 \end{itemize}
 \end{itemize}
 
-\item[] 4. Verschulden
+\item Verschulden
 
 \begin{itemize}
 \item[] {\mdseries
@@ -646,7 +638,7 @@ Anhalterecht Privater}
 
 \end{itemize}
 \end{itemize}
-\end{itemize}
+\end{enumerate}
 
 Damit es zur Haftung f\"ur eine gesetzte Handlung kommt, m\"ussen die
 oben \"uberblicksartig dargestellten und folgend näher beschriebenen
@@ -655,12 +647,10 @@ einer von ihnen, kommt es zu keiner Haftung. Am häufigsten kommen die
 oben aufgezählten Rechtfertigungs- oder Entschuldigungsgr\"unde ins
 Spiel.
 
-\paragraph*{
-Tatbestandserf\"ullung }
+\paragraph{Tatbestandserf\"ullung }
 
-{\mdseries
 Erf\"ullung der rechtlichen Beschreibung einer Lebenssituation auf die
-eine Rechtsfolge/Strafe angeordnet wird}
+eine Rechtsfolge/Strafe angeordnet wird
 
 \paragraph*{
 Kausalität}
@@ -758,9 +748,9 @@ gestaltet:
 \\
 \end{supertabular}
 \end{center}
-\paragraph*{ Der Tag beginnt ...}
 
-Unsere Geschichte beginnt an einem warmen Fr\"uhjahrsmorgen auf den die
+\paragraph{Der Tag beginnt ...}
+Unsere Geschichte beginnt an einem warmen Fr\"uhjahrs\-morgen auf den die
 drei Sanitäter Alex, Sepp und Bernd schon lange gehofft hatten, da
 sie endlich nach dem langen Winter einen angenehm warmen Sonnentag
 genie{\ss}en wollen. Doch wie immer an einem solchen Freudentag, ruft
@@ -770,12 +760,13 @@ typischen Problemen.
 \subsection{Teil A: Gefahrenbekämpfung}
 
 \subsubsection{Fall 1. Randalierender Patient}
+
 \paragraph*{Sachverhalt}
 Die erste Ausfahrt beginnt nat\"urlich direkt nach Dienstbeginn, ohne
 dass wenigstens ein Kaffee getrunken werden hätte k\"onnen. Der auf
-unsere RTW-Mannschaft wartende Patient, Hr. Hauzu, hingegen hat die
-ganze Nacht durchgemacht und ist schon weitläufig bekannt f\"ur seine
-tobend aggressiven Wutausbr\"uche im Zuge seiner psychiatrischen
+unsere RTW-Mann\-schaft wartende Patient, Hr. Hauzu, hingegen hat die
+ganze Nacht durchgemacht und ist schon weit\-läufig bekannt f\"ur seine
+tobend aggressiven Wut\-aus\-br\"uche im Zuge seiner psychiatrischen
 Erkrankung. Als Alex, Sepp und Bernd eintreffen, schmei{\ss}t er mit
 mehreren Gegenständen um sich und droht sich oder einen anderen zu
 verletzen, falls man sich ihm auch nur nähern w\"urde.
@@ -3022,8 +3013,7 @@ hochgefährliches, Alarmzeichen ist das
 \gEs{brodelnde Atemgeräusch} beim Lungen\"odem. 
 
 {\mdseries
-Das kardiale Lungen\"odem wird im Kaptel
-I.II{\guillemotright}\pageref{bkm:RefHeading36561325} (Lungen\"odem)
+Das kardiale Lungen\"odem wird im Kapitel \ref{topic:lungenoedem} (Lungen\"odem)
 behandelt. }
 
 \subsubsection*{Linksherzinsuffizienz}
@@ -3183,19 +3173,13 @@ Spezielle Ma{\ss}nahmen beim vital bedrohten Patienten}
   Ursachenforschung}
   
 \end{itemize}
-\subparagraph*{
-Spezielle Ma{\ss}nahmen bei nicht vital bedrohten Patienten}
+
+\subparagraph*{Spezielle Ma{\ss}nahmen bei nicht vital bedrohten Patienten}
 
 \begin{itemize}
-    \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-    Lagerung: Oberk\"orper hoch}
-    
-    \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-    $O_2$ je nach Symptomen 6-8~l, bei Bedarf bis zu 15~l}
-
-    \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-    Vitalwerte erheben \& Monitoring }
-    
+    \item Lagerung: Oberk\"orper hoch
+    \item $O_2$ je nach Symptomen 6-8~l, bei Bedarf bis zu 15~l
+    \item Vitalwerte erheben \& Monitoring 
 \end{itemize}
 
 } %\gMassnahmen
@@ -3865,7 +3849,8 @@ ein Gerinnsel losreißt und in einem anderen Teil des
 Körpers Schaden anrichtet\footnote{Zum Beispiel in der
 Lunge im Rahmen einer Lungenembolie}.
 
-\subsubsection{Arterieller Gefä{\ss}verschlu{\ss}}
+\subsubsection{Arterieller
+Gefä{\ss}verschlu{\ss}}\marginlabel{Arterieller Gefä{\ss}verschlu{\ss}}
 
 Beim \gE{arteriellen Gefäßverschluß} verschließt etwas das
 zuführende Gefäß, es kommt zu einer schmerzhaften 
@@ -3873,8 +3858,8 @@ Unterversorgung der Extremität mit Blut. Der komplette
 Verschluß passiert plötzlich. 
 
 \paragraph{Warum kommt es zu einem Gefäßverschluß?}
-\marginlabel{Chronische Gefäßschädigung}Meistens liegt eine
-chronische Schädigung der Gefäße infolge anderer Erkankungen oder aufgrund eines ungesunden
+Meistens liegt eine 
+\marginline{Chronische Gefäßschädigung}chronische Schädigung der Gefäße infolge anderer Erkankungen oder aufgrund eines ungesunden
 Lebensstils vor. Ursachen für solch eine Gefäßschädigung
 sind z.B. die Zuckerkrankheit (\gT{Diabetes mellitus},
 s.\ref{topic:diabetes}), Hypertonie, erhöhte Blutfette oder
@@ -3882,9 +3867,9 @@ das Rauchen. Die Gefäße verkalken und verändern sich auch sonst
 nicht zu ihrem Vorteil.
 
 Wenn die Gefäße nur verengt sind spricht man von
-der \marginlabel{\gT{periphere arterielle
-Veschlußkrankheit}, Abkz. \gT{paVK}}\gT{peripheren
-arteriellen Veschlußkrankheit}, abgekürzt \gT{paVK}. Sie ist eine chronische
+der \marginline{\gT{periphere arterielle
+Ver\-schluß\-krank\-heit}, Abkz. \gT{paVK}}\gT{peripheren
+arteriellen Verschluß\-krankheit}, abgekürzt \gT{paVK}. Sie ist eine chronische
 Erkankung die man oft in Arztbriefen oder auf
 Transportscheinen lesen kann. (Achtung: Obwohl es
 "`\emph{Verschluß}krankheit"' heißt sind die Gefäße nicht komplett verschlossen sondern nur verengt!)
@@ -3906,7 +3891,7 @@ englischen P's"'})}.
 Gefäßverschluss.}
 \begin{tabular}{cll}
 \toprule
-\multicolumn{3}{}{\gEs{Arterieller Gefäßverschluss}}\\
+\multicolumn{3}{c}{\gEs{Arterieller Gefäßverschluss}}\\
 \midrule\addlinespace
 \centering 1. & \gZ{Pain}        & \gEs{schmerzend}
 \\
@@ -4509,40 +4494,22 @@ oder Schmerzen einher.
 Eine Übersicht und willkürliche Einteilung:
 
 \begin{description}
-    \item[Schlaganfall]
-    
-    \item 
-    [Vergiftungen] können fast alles machen, und neurologische Symptome erst recht
-    
-    \item 
-    [Schädel-Hirn-Trauma] Abkz. 'SHT'; 
-    
-    \item 
-    [Stoffwechselstörungen] welche Einfluß auf das Nervensystem nehmen, z.B. Zuckerentgleisungen
-    
-    \item 
-    [Infektionen] können das Nervensystem beeinflussen, z.B. Verwirrtheit bei Fieber
-    
-    \item 
-    [Alter] beeinflusst auch das Nervensystem, im Rahmen einer Demenz kommt es z.B. zum Abbau der Denkleistung
-    
-    \item 
-    [Krampfanfälle] können vom zentralen Nervensystem ausgehen
-    
-    \item 
-    [Erkrankeungen des St\"utzapparates] Aufgrund der räumlichen Nähe zum Stütz- und Bewegungsapparates kann das Nervensystem in Mitleidenschaft gezogen werden, z.B. bei Bandscheibenvorfällen
-    
+    \item [Schlaganfall]
+    \item [Vergiftungen] können fast alles machen, und neurologische Symptome erst recht
+    \item [Schädel-Hirn-Trauma] Abkz. 'SHT'; 
+    \item [Stoffwechselstörungen] welche Einfluß auf das Nervensystem nehmen, z.B. Zuckerentgleisungen 
+    \item [Infektionen] können das Nervensystem beeinflussen, z.B. Verwirrtheit bei Fieber
+    \item [Alter] beeinflusst auch das Nervensystem, im Rahmen einer Demenz kommt es z.B. zum Abbau der Denkleistung
+    \item [Krampfanfälle] können vom zentralen Nervensystem ausgehen
+    \item [Erkrankeungen des St\"utzapparates] Aufgrund der räumlichen Nähe zum Stütz- und Bewegungsapparates kann das Nervensystem in Mitleidenschaft gezogen werden, z.B. bei Bandscheibenvorfällen
 \end{description}
-
-
-
-{\bfseries\color[rgb]{0.5019608,0.0,0.0}
-Es fehlt: Lumbago, BWS/HWS}
+\gAuthNotes{Es fehlt: Lumbago, BWS/HWS}
 
 \subsection{Schlaganfall --- Apoplektischer Insult --- Hirninfarkt}
 \index{Schlaganfall}\index{Insult}
-Syn.: \index{Apoplektischer Insult}\index{Apoplektischer
-Insult}Apoplektischer Insult, \index{Apoplexie}Apoplexie
+
+\emph{Syn.: \index{Apoplektischer Insult}\index{Apoplektischer
+Insult}Apoplektischer Insult, \index{Apoplexie}Apoplexie}
 
 Grundsätzlich gibt es 2 Formen:
 \begin{description}
@@ -4550,7 +4517,6 @@ Grundsätzlich gibt es 2 Formen:
     \item[>>Trockener<< Insult] Verschlu{\ss} eines Hirngefä{\ss}es mit anschlie{\ss}endem
     Absterben der versorgten Hirnregion ({\quotedblbase}trockener
     Insult{\textquotedblleft}), oder
-    
     \item[>>Blutiger<< Insult] Spontane Hirnblutung, z.B. durch Platzen eines Hirngefäßes, kann spontan oder aufgrund eines Traumas auftreten.
     \item 
     Sonderform \index{TIA}TIA: \index{Transitorisch -- Ischämische
@@ -4560,24 +4526,20 @@ Grundsätzlich gibt es 2 Formen:
     \end{itemize}
 \end{description}
 
-\begin{figure}
+\begin{figure}[h]
  [Warning: Image ignored] {AASdev20090228-img83.png}    
 \end{figure}
-\begin{figure}
+\begin{figure}[h]
  [Warning: Image ignored] {AASdev20090228-img84.png}
 \end{figure}
-
-\begin{figure}
+\begin{figure}[h]
     [Warning: Image ignored] [width=9.526cm,height=5.428cm]{AASdev20090228-img85.png}
 \end{figure}
 
-  
- 
+\paragraph{Symptome}
 
-\subparagraph*{Symptome}
-
-Abhängig welche Hirnregion betroffen ist. Die Symptome können sehr
-unterschiedlich sein.
+Die Symptome sind davon bhängig welche Hirnregion betroffen ist und 
+können sehr unterschiedlich sein.
 
 \gE{'Klassische'} Symptome sind:
 
@@ -4613,294 +4575,208 @@ unterschiedlich sein.
 Differentialdiagnose}
 
 \begin{itemize}
-\item 
-BZ ${\downarrow}$, ${\uparrow}$ (${\rightarrow}$ Bei neurologischen
-Symptomen immer messen!)
-
-\item
-\gZ{Tumor}
-
+\item Hypoglykämie ${\downarrow}$, ${\uparrow}$ (${\rightarrow}$ Bei
+neurologischen Symptomen immer messen!)
+\item \gZ{Tumor}
 \end{itemize}
+
 \begin{gMassnahmenEnv}
     \paragraph*{Ma{\ss}nahmen}
     
     \begin{itemize}
-        \item
-        Standardma{\ss}nahmen bei vital bedrohten Patienten
-        
-        
+        \item \gTxMassVitBes 
         \begin{itemize}
-            \item
-            Lagerung: \gE{leicht erhöhter Oberkörper},
-            
-            \item
-            $O_2$ 10~l, bei Bedarf bis zu 15~l
-            
-            \item
-            ·~Notarzt, ·~Reanimationsbereitschaft, ·~Vitalwerte \& Monitoring
-            
+            \item Lagerung: \gE{leicht erhöhter Oberkörper}
+            \item $O_2$ 10~l, bei Bedarf bis zu 15~l
         \end{itemize}
-        
-        \item
-        \gEs{Neurocheck} inkl. \gEs{BZ-Messung} (DD!)
-        
+        \item \gEs{Neurocheck} inkl. \gEs{BZ-Messung} (DD!)
         \item Hospitalisation: \gEs{Stroke Unit!}
     \end{itemize}
     
 \end{gMassnahmenEnv}
 
-\subsection{
-Bakterielle \index{Meningitis}Meningitis}
+\subsection{Bakterielle \index{Meningitis}Meningitis}
 
-{\mdseries = eitrige Entz\"undung der Hirnhäute}
+\gDefinition{Eine eitrige Entz\"undung der Hirnhäute aufgrund einer Entzündung
+mit Bakterien.}
 
-{\mdseries ansteckende Form:}
+Die bakterielle Meningitis ist eine gefürchtete Erkrankung. Einerseits ist sie
+hoch ansteckend, andererseits kann sie rasch tödlich enden. Gefährdet sind
+grundsätzlich alle Altersgruppen, besonders aber Kinder, Jugendliche und alte
+Menschen. 
 
-{\mdseries Meningokokken-Meningitis ${\rightarrow}$ hoch ansteckend}
+Typische Symptome sind Nackensteifigkeit, Fieber und Lichtscheue. \gZ{Im
+fortgeschrittenen Stadium kann es zu massiven Gerinnungsstörungen kommen, am
+Körper bilden sich dann dunkle Hämatome (s. Abb. \ref{fig:meningitis-baby}.
+Einer der häufigsten Erreger sind die Meningokokken, man spricht dann von einer Meningokokken-Meningitis.}
 
 \paragraph{Symptome}
 
 \begin{itemize}
-    \item {\mdseries Kopfschmerzen, Lichtscheu}
-    \item {\mdseries Erbrechen, \"Ubelkeit}
-    \item {\mdseries Meningismus :}
-\end{itemize}
-\begin{itemize}
-    \item {\mdseries Fieber}
-    
-    \item {\mdseries Nackensteifigkeit}
-    
-\end{itemize}
-\begin{itemize}
-    \item {\mdseries Ausschlag (Exanthem )}
-    
+    \item Kopfschmerzen, Lichtscheue
+    \item Erbrechen, \"Ubelkeit
+    \item Nackensteifigkeit (Meningismus)
+    \item evt. Ausschlag (Exanthem )
 \end{itemize}
 
-\marginlabel{
-\begin{figure}[h]
-   
-    \includegraphics[width=4cm]{./images/meningitis-kind-waterhouse.png} 
-    \caption{Endstadium einer bakteriellen Meningitis. Die
+\begin{figure}[h]\label{fig:meningitis-baby}
+\includegraphics[width=4cm]{./images/meningitis-kind-waterhouse.png}
+\caption{Endstadium einer bakteriellen Meningitis. Die
 Flecken auf der Haut sind Blutungen in Folge einer nicht mehr
 funktionierenden Blutgerinnung. Der Tod ist bei diesem Patienten
 innerhalb weniger Stunden zu erwarten.}
 \end{figure}
-}
 
-\gAuthNotes{
-FEHLT: Querverwis Meningimus\\FEHLT: Ma{\ss}nahmen}
+
+\gAuthNotes{FEHLT: Querverweis Meningimus\\FEHLT: Ma{\ss}nahmen}
 
 \subsection{Vom Gehirn ausgehende Krämpfe --- Zerebrale Krampfanfälle}
 
-Epilepsie%
-%
+\gDefinition{Vom Gehirn ausgehende motorische Krampfanfälle aufgrund von akuten
+oder chronischen Erkrankungen des Gehirns. Dabei entladen sich unkontrolliert Nervenzell-Gruppen im Gehirn.}
 
-Vom Gehirn ausgehende motorische Krampfanfälle aufgrund von akuten
-oder chronischen Erkrankungen des Gehirns. Dabei entladenden sich unkontrolliert Nervenzell-Gruppen.
-im  Gehirn.
+Die zerebralen Krampfanfälle kann man auf verschiedene Arten einteilen
 
-{\mdseries
-nach Art:}
+\begin{enumerate}
+    \item nach Art:
+    \begin{description}
+        \item[tonisch]
+        \item[klonisch]
+    \end{description}
+    \item nach Lokalisation:
+    
+    \begin{description}
+        \item [Fokaler Anfall] Der Krampfanfall ist auf eine Körperregion beschränkt, z.B. auf eine Hand. Der Patient kann bei Bewußtsein sein.
+       Ein fokaler Anfall kann sich ausweiten und in einen generalisierten Anfall übergehen. \gZ{Der fokale Anfall wird auch \emph{"`petit mal"'}
+      (\emph{franz.:} "`kleines Unglück"') genannt.}
+        
+        \item [Generalisierter Anfall] Er betrifft den ganzen Körper. Der
+        Patient ist nicht bei Bewußtsein, es besteht während des Anfalls
+        ein Atemstillstand. Der Patient kann starke Kräfte entwickeln es besteht eine massive Verletzungsgefahr. \gZ{Der generalisierte Anfall wird
+       auch \emph{"`grand mal"'} (\emph{franz.:} "`großes Unglück"') genannt.}   
+        
+    \end{description}
+    \end{enumerate}
 
-\begin{itemize}
-\item {\mdseries
-tonisch}
-
-\item {\mdseries
-klonisch}
-
-\end{itemize}
-{\mdseries
-nach Lokalisation:}
-
-\begin{itemize}
-\item {\mdseries
-fokal - petit mal -- Anfall}
-
-\item {\mdseries
-generalisiert grand mal - Anfall }
-
-\end{itemize}
-\paragraph*{
-Ursachen:}
+\paragraph{Ursachen}\marginlabel{Ursachen}
 
 \begin{description}
     \item[Epilepsie]Die Epilespie ist eine chronische Erkrankung welche durch wiederkehrende Episoden von zerebralen Krampfanfällen gekennzeichnet ist.
     \item[Vergiftungen](Medikamente/Drogen/...) können wieder fast alles machen, also auch Krampfanfälle.
-    
     \item[Hirntumor] Durch den Tumor wird das Hirn beschädigt, auch dadurch kann es zu Anfällen kommen.
-    
     \item[Narbengewebe] nach Insult oder Hirnverletzung.
-    
     \item[Hirnblutung]
     \item[Sauerstoffmangel] z.B. Ischämie aufgrund eines Gefäßverschlusses
-    
     \item[BZ] Der Dauerbrenner. Eine Blutzuckerentgleisung kann fast alle neurologischen Symptome vortäuschen!
-    
     \item[angeboren] ohne organisch fa{\ss}bare  Ursache
-    
     \item[Fieberkrampf] Fieber bei Kleinkindern
-    
     \item[Infektionen]
-    
 \end{description}
 
-\paragraph{'Petit mal'-Anfall -- Fokaler Anfall}
+\paragraph{Fokaler Anfall}
+Der Krampfanfall ist auf eine Körperregion beschränkt, z.B. auf eine Hand. Der Patient kann bei Bewußtsein sein.
+       Ein fokaler Anfall kann sich ausweiten und in einen generalisierten Anfall übergehen. \gZ{Der fokale Anfall wird auch \emph{"`petit mal"'}
+      (\emph{franz.:} "`kleines Unglück"') genannt.}
+      
+      Dem Anfall kann ein Dämmerzustand vorausgehen, \gZ{eine sog.
+      "`Absence"'}. Der Patient wirkt dabei plötzlich abwesend und
+      \emph{"`irgendwie komisch"'}.
 
 \begin{itemize}
-    
-    \item {\mdseries
-    Dämmerzustand (Absence )}
-    
-    \item {\mdseries
-    Dauer: meist nur Sekunden}
-    
-    \item {\mdseries
-    können sich ev. zu grand mal-Anfällen  ausweiten}
-    
+    \item Dämmerzustand (Absence )
+    \item können sich ev. zu grand mal-Anfällen ausweiten
 \end{itemize}
+
+
 \paragraph{'Grand mal'-Anfall -- Generalisierter Anfall}
+
+Er betrifft den ganzen Körper. Dem Anfall kann ein
+\gE{Dämmerzustand}\marginline{Dämmerzustand -- Absence} vorausgehen, \gZ{eine
+sog. "`Absence"'}. Der Patient wirkt dabei plötzlich abwesend und \emph{"`irgendwie komisch"'}. Dann verliert er das Bewußtsein und
+      die Muskeln werden anfangs schlaff. Wenn der Patient gestanden ist
+      fällt er ungebremst auf den Boden (Cave: \gEs{Verletzungen!}). Manchmal
+      kommt es vor daß der Patient einen Initialschrei\index{Initialschrei} von
+      sich gibt, der gruselig klingen kann. Dann kommt es zu
+      \gEs{tonisch-klonischen Krämpfen}\marginline{Tonisch-klonische Krämpfe}
+      die den ganzen Körper betreffen. Während des Anfalls ist der Patient nicht bei Bewußtsein, es besteht ausserdem ein Atemstillstand. Er kann jedoch
+      starke Kräfte entwickeln, es besteht massive
+      Verletzungsgefahr\marginline{Verletzungsgefahr}.
+      
+      Der Krampf dauert meist wenige Minuten und hört von selbst auf. Der
+      Patient ist danach erstmal bewusstlos, im weiteren Verlauf mit mehr oder
+      weniger großem Aufwand erweckbar. Er beindet sich dann in der sogenannten
+      \gT{Nachschlafphase}\index{Nachschlafphase}\marginline{Nachschlafphase}.
+      Der Patient klart im Verlauf mehr und mehr auf. Es ist wichtig zu versuchen mit dem Patienten
+      in Kontakt zu treten um seinen Wachheitsgrad \marginline{Aufklaren}und
+      dessen Verlauf beurteilen zu können. Für den Anfall selbst besteht Amnesie! Daher
+      muß man den Patienten aufklären was passiert ist, wo er sich befindet,
+      etc.
+      
+        \gZ{Der generalisierte Anfall wird auch \emph{"`grand mal"'} (\emph{franz.:} "`großes Unglück"') genannt.}   
+
+\paragraph{Status Epilepticus} Der Status Epilepticus ist eine
+lebensgefährliche\marginline{\gEs{LEBENSGEFAHR!}} Steigerung des
+generalisierten Krampfanfalls. Er besteht dann wenn der Anfall nicht nach kurzer Zeit vergeht oder innerhalb kurzer Abstände
+mehrere Anfälle auftreten (z.B. 2 Anfälle innerhalb von 24 Stunden). Der Krampf
+muß dann mit Medikamenten durchbrochen werden. 
+
+\gEs{Im Rettungsdienst gilt praktisch jeder Krampfanfall den das Personal
+selber miterlebt als Status-Verdächtig.}
+
+\begin{gMassnahmenEnv}
+\paragraph{Spezielle Ma{\ss}nahmen beim krampfenden Patienten}
 \begin{itemize}
-    \item
-    Tonisch -- klonischer Anfall
-    
-    \item
-    zuerst kompletter Tonusverlust
-    
-    \item
-    Niederst\"urzen (Zungenbi{\ss})
-    
-    \item
-    Tonus ${\uparrow}$, unkontrollierte Zuckungen
-    
-    \item
-    Schaum vor dem Mund
-    
-    \item {\mdseries
-    Stuhl-/Urinabgang}
-    
-    \item {\mdseries
-    nach Krampfphase Erholungsschlaf}
-    
-    \item {\mdseries
-    ev. sogar tiefe Bewu{\ss}tlosigkeit}
-    
+    \item \gTxMassVitBes
+    \begin{itemize}
+        \item Lagerung: sichern
+        \begin{itemize}
+            \item Patient vor Verletzungen sch\"utzen
+            \item Möbel etc. entfernen oder polstern
+            \item NICHT festhalten -- aber sichern, Eigenschutz
+            beachten!\marginlabel{\textbf{Sichern}: Patient darf nicht von der
+            Trage oder aus dem Bett fallen, der Kopf darf nicht am Boden oder Tischbein anschlagen, etc.}
+        \end{itemize}
+    \end{itemize}
+    \item nach Anfall BAK-Schema, Atemwege freihalten
+    \item stabile Seitenlage  (Erholungsschlaf wie  Bewu{\ss}tlosigkeit)
+    \item Besondere Diagnostik:
+    \begin{itemize}
+        \item Neurocheck inkl. \gEs{BZ}!
+        \item Traumacheck
+    \end{itemize}
+    \item Reizabgeschirmter Transport
+    \item Hospitalisierung: Abt.f. Innere Medizin. (evt. auch
+    Intensivüberwachung)
 \end{itemize}
+\end{gMassnahmenEnv}
 
-Für den Anfall selbst besteht Amnesie! ${\rightarrow}$ Patient
-aufklären was passiert ist, wo er sich befindet, etc.
-
-\subparagraph*{
-Ma{\ss}nahmen}
-
+\begin{gMassnahmenEnv}
+\paragraph{Spezielle Ma{\ss}nahmen beim \emph{nicht-}krampfenden Patienten}
 \begin{itemize}
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Patient vor Verletzungen sch\"utzen}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Möbel etc. entfernen oder polstern}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-NICHT festhalten -- aber sichern, Eigenschutz beachten!}
-
-\marginpar{
-\textbf{Sichern}: Patient darf nicht von der Trage oder aus dem Bett
-fallen, der Kopf darf nicht am Boden oder Tischbein anschlagen, etc.}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Notarzt wenn: }
-
+    \item Umstände klären und entscheiden ob \gEs{Notarzt} notendig ist. NA wenn:
+    \begin{itemize}
+        \item 2 oder mehr Krampfanfälle innerhalb von 24 Stunden
+        \item Anfälle "`erheblich anders"' als sonst üblich
+        \item Erster Krampfanfall überhaupt
+    \end{itemize}
+    \item Besondere Diagnostik:
+    \begin{itemize}
+        \item Neurocheck inkl. \gEs{BZ}!
+        \item Traumacheck
+    \end{itemize}
+    \item Reizabgeschirmter Transport
+    \item Hospitalisierung: Abt.f. Innere Medizin.
 \end{itemize}
-\begin{itemize}
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Krampf bei Eintreffen, }
+\end{gMassnahmenEnv}
 
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-{\textgreater} 2 Anfälle in 24 Stunden, }
+\paragraph{Fieberkrampf}
 
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-erstmaliger Epi}
-
-\end{itemize}
-\begin{itemize}
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-nach Anfall BAK-Schema, Atemwege freihalten}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-stabile Seitenlage  (Erholungsschlaf wie  Bewu{\ss}tlosigkeit)}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Besondere Diagnostik: }
-
-\end{itemize}
-\begin{itemize}
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Neurocheck inkl. \gEs{BZ}! }
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Traumacheck }
-
-\end{itemize}
-\begin{itemize}
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Reizabgeschirmter Transport}
-
-\end{itemize}
-{\mdseries
-Epi {\textgreater} 3 min . bwz. erster  Epi ${\rightarrow}$ Notarzt}
-
-\paragraph{Status epilepticus }
-\begin{itemize}
-\item {\mdseries
-Anfälle {\textgreater} 15 Minuten oder}
-
-\item {\mdseries
-wiederholte Anfälle in kurzem Intervall}
-
-\end{itemize}
-{\mdseries
-\gEs{LEBENSGEFAHR!}}
-
-\subparagraph*{
-Ma{\ss}nahmen}
-
-\begin{itemize}
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-NAW}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-reizabgeschirmter Transport}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-neurologische Notfälle -- Epilepsie}
-
-\end{itemize}
-\subparagraph*{
-Indikationen f\"ur Spitalseinlieferung}
-
-\begin{itemize}
-\item {\mdseries
-erstmaliges Auftreten eines Krampfanfalls}
-
-\item {\mdseries
-Status epilepticus}
-
-\item {\mdseries
-ABKL\"ARUNG  der Ursache in diesen  Fällen wichtig!}
-
-\end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Fieberkrampf}
-
-{\mdseries
 Krampfanfall bei Kleinkindern bei schnellem, hohen Fieberanstieg
-({\textgreater} 39{\textdegree}C)}
+({\textgreater} 39{\textdegree}C)
 
-{\mdseries
-Sieht aus wie generalisierter grand mal-Anfall}
+Sieht aus wie generalisierter grand mal-Anfall
 
-\subparagraph*{
-DD}
+\subparagraph{DD}
 
 {\mdseries
 grand mal OHNE Fieber, Fieberkrampf  NUR bei Kindern {\textless} 4
@@ -4972,7 +4848,7 @@ Die relevanteste Stoffwechselstörung im Rettungsdienst ist der
 stellt eine Störung des Kohlehydrat-(zucker-)stoffwechsels dar.
 \gEs{Zucker ist ein Kohlehydrat}. }
 
-\subsection{Diabetes Mellitus}
+\subsection{Diabetes Mellitus}\label{topic:diabetes}
 
 \gEs{Merke}: Diabetes mellitus ist eine chronische
 Stoffwechselerkrankungen mit  gestörter Blutzuckerregulation. 
@@ -5095,7 +4971,7 @@ der Nervenschäden ohne Schmerzen ablaufen.
 \begin{figure}
     %[Warning: Image ignored] % Unhandled or unsupported graphics:
     %\includegraphics[width=11.387cm,height=16.225cm]{AASdev20090228-img87.png}
-    \includegraphics[15cm]{./images/diabetes-folgeerkrankungen.png}
+    \includegraphics{./images/diabetes-folgeerkrankungen.png}
     \caption[Die häufigsten Folgeerkrankungen des Diebetikers:
     Nervenschädigungen, Herzinfarkt, Nierenschäden, Schlaganfall]{Die
     häufigsten Folgeerkrankungen des Diebetikers: Nervenschädigungen,
@@ -8856,8 +8732,7 @@ bei Nichtbehandlung ev. irreversible Lungenfibrose}
 {\mdseries
 Reizgase}
 
-\subparagraph*{
-Vorkommen:}
+\subparagraph*{Vorkommen:}
 
 {\mdseries
 Chemische Industrie: Nitrosegase,  Schwefelwasserstoffe, Ammoniak}
@@ -8891,6 +8766,9 @@ NFS / Notarzt}
 {\mdseries
 Bei Reizgas / Stickgas immer auch nach  anderen bewu{\ss}tlosen Personen
 fragen /  suchen!!! (unter Eigenschutz!!!)}
+
+\clearpage
+
 
 \chapter{[RS VII] Traumatologische Notfälle}
 

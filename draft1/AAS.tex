@@ -24,7 +24,7 @@
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
 \usepackage{color}
 \definecolor{pink}{rgb}{1,0.5,0.5}
 \definecolor{LightSkyBlue}{rgb}{0.5,0.5,1}
@@ -47,11 +47,12 @@
 
 \usepackage{pst-all}
 
-\usepackage{supertabular}
-\usepackage{longtable}
-\usepackage{boxedminipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Tables
 
 \usepackage{supertabular}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{boxedminipage}
 \usepackage{layout,geometry}
 
 \geometry{verbose,
@@ -74,14 +75,17 @@ marginparwidth=52mm
 
 \usepackage{fancybox}
 % \usepackage[Sonny]{fncychap}
+% \ChNameVar{\Large\sf} \ChNumVar{\Huge} \ChTitleVar{\Large\sf}
+% \ChRuleWidth{0.5pt} \ChNameUpperCase
+
 
 \setkomafont{disposition}{\mdseries\normalcolor\rmfamily}
 \addtokomafont{part}{\Huge\color{darkBlue}}
 \addtokomafont{partnumber}{\Huge\color{darkBlue}}
-\addtokomafont{chapter}{\Huge\color{darkBlue}}
-\addtokomafont{section}{\huge\color{darkBlue}}
-\addtokomafont{subsection}{\LARGE\color{darkBlue}}
-\addtokomafont{subsubsection}{\Large\color{darkBlue}}
+\addtokomafont{chapter}{\Huge\sffamily\bfseries\color{darkBlue}}
+\addtokomafont{section}{\Huge\color{darkBlue}}
+\addtokomafont{subsection}{\huge\color{darkBlue}}
+\addtokomafont{subsubsection}{\LARGE\color{darkBlue}}
 \addtokomafont{paragraph}{\large\sffamily\color{darkBlue}}
 \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 
@@ -89,32 +93,33 @@ marginparwidth=52mm
 \hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=blue, pagecolor=blue, urlcolor=blue}
 
 % User page numbering with chapter number in it
-\renewcommand{\thepart}{\Alph{part}}
+\renewcommand{\thechapter}{\Alph{chapter}}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\fancyhead[LE,RO]{\thepart -- \thepage} 
+\fancyhead[LE,RO]{\thepage} 
 %\fancyhead[LE,RO]{\thepage} 
 
-%\usepackage[noauto]{chappg}
+\usepackage[noauto]{chappg}
 \makeatletter
-\@addtoreset{chapter}{part}
-\@addtoreset{page}{part}
+%%\@addtoreset{chapter}{part}
+%\@addtoreset{page}{part}%
 
 \makeatother
+\pagenumbering{bychapter}
 %\pagenumbering[\thepart]{bychapter}
 %\pagenumbering[\thepart]{bychapter}
 %\renewcommand{\thepage}{\thepart.\thepage}
 
 % super title http://texblog.net/latex/layout/
 
-%\usepackage{tikz}
-%\usepackage{kpfonts}
-%\usepackage[explicit]{titlesec}
-%\newcommand*\chapterlabel{}
-%\titleformat{\chapter}
+% \usepackage{tikz}
+% %\usepackage{kpfonts}
+% \usepackage[explicit]{titlesec}
+% \newcommand*\chapterlabel{}
+% \titleformat{\chapter}
 %  {\gdef\chapterlabel{}
 %   \normalfont\sffamily\Huge\bfseries\scshape}
-%{\gdef\chapterlabel{\thechapter\ }}{0pt}
+% {\gdef\chapterlabel{\thechapter\ }}{0pt}
 %  {\begin{tikzpicture}[remember picture,overlay]
 %    \node[yshift=-3cm] at (current page.north west)
 %      {\begin{tikzpicture}[remember picture, overlay]
@@ -122,14 +127,14 @@ marginparwidth=52mm
 %          (\paperwidth,3cm);
 %        \node[anchor=east,xshift=.9\paperwidth,rectangle,
 %              rounded corners=20pt,inner sep=11pt,
-%              fill=MidnightBlue]
+%              fill=darkBlue]
 %              {\color{white}\chapterlabel#1};
 %       \end{tikzpicture}
 %      };
 %   \end{tikzpicture}
 %  }
-%\titlespacing*{\chapter}{0pt}{50pt}{-60pt}
- % super title end
+% \titlespacing*{\chapter}{0pt}{50pt}{0pt}
+%  % super title end
 
 
 
@@ -142,6 +147,7 @@ marginparwidth=52mm
 \setlength\tabcolsep{1mm}
 \renewcommand\arraystretch{1.3}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Captions
 																% Non-floating captions
 \makeatletter
 \newcommand\captionof[1]{\def\@captype{#1}\caption}
@@ -150,45 +156,18 @@ marginparwidth=52mm
 \renewcommand\theDrawing{\arabic{Drawing}}
 
 
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Styles
 \newcommand{\strongemph}[1]{\emph{\textbf{#1}}}
 \newcommand{\Terminus}[1]{\textcolor{Terminus}{#1}}
-
-% Set spacing between imtems
-\usepackage{tweaklist}
-\renewcommand{\itemhook}{\setlength{\topsep}{0pt}%
-  \setlength{\itemsep}{0pt}}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   by OpenOffice
-% \newcommand\textsubscript[1]{\ensuremath{{}_{\text{#1}}}}
-% Text styles
-% \newcommand\textstylehervorgehoben[1]{\textbf{\textcolor[rgb]{0.0,0.0,0.5019608}{#1}}}
-
-
-\makeindex
-\setlength\tabcolsep{1mm}
-
-
-
-\renewcommand\arraystretch{1.3}
-% Non-floating captions
-\makeatletter
-% \newcommand\captionof[1]{\def\@captype{#1}\caption}
-
-\makeatother
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Styles
-
 % set fonts
 \renewcommand{\rmdefault}{ugm}
 \renewcommand{\sfdefault}{uop}
-\renewcommand{\ttdefault}{pcr}
+\renewcommand{\ttdefault}{pcr} 
 
-%customize descritpions
-
-\renewcommand\descriptionlabel[1]{\hspace{\labelsep}\textcolor[rgb]{0.8,0.8,1}{\Squaresteel}\hspace{\labelsep}\gEs{#1}}
 
 % Define Grissu.org \latex commands
 % Character styles names are single letters, 
@@ -197,8 +176,8 @@ marginparwidth=52mm
 % Abbildungsbeschreibung mit hängendem Einzug
 \setcapindent*{1em}
 
-\newcommand\gAuthNotes[1]{\textcolor{red}{\ttfamily #1 }}
-\newcommand{\gStatus}[1]{\textcolor{red}{\ttfamily #1 }}
+\newcommand\gAuthNotes[1]{{\color{red}{\ttfamily{#1}}}}
+\newcommand{\gStatus}[1]{\textcolor{red}{\ttfamily{#1]}}}
 
 % Terminus
 \newcommand\gT[1]{\textbf{\textup{\textcolor[rgb]{0.0,0.5019608,0.0}{#1}}}}
@@ -213,7 +192,7 @@ marginparwidth=52mm
 % Handwriting
 \newcommand\gH[1]{\textmd{\textcolor[rgb]{0.0,0.0,0.5019608}{#1}}}
 % Teletype
-\newcommand\gTt[1]{{\ttfamily #1}}
+\newcommand\gTt[1]{{\ttfamily{#1}}}
 % Cave
 \newcommand\gCa[1]{\textbf{\textcolor{black}{#1}}}
 \newcommand\gNw[1]{#1}
@@ -227,38 +206,51 @@ marginparwidth=52mm
 
 \newenvironment{gCaveEnv}{\begin{boxedminipage}[t]{10cm} \sffamily}{\end{boxedminipage}}
 
-\newcommand{\gDefinition}[1]{\addlinespace{\mdseries\color{Terminus}\rmfamily\textit{{\bfseries{Definition:
-}}#1}}\addlinespace}
+\newcommand{\gDefinition}[1]{{\mdseries\color{Terminus}\rmfamily\textit{{bfseries{Definition:
+}#1}}}}
 \newcommand{\gDraft}[1]{\textbf{\textcolor{red}{#1}}}
 %\newcommand{\gFazit}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
 \newcommand{\gFazit}[1]{\begin{boxedminipage}[t]{10cm}{\color{ubuntured}#1}\end{boxedminipage}}
 
 
-\newcommand{\gMassnahmen}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
+\newcommand{\gMassnahmen}[1]{{\centering \cornersize{0.5}
+\ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily{#1}}}}}}
 \newenvironment{gMassnahmenEnv}{\begin{boxedminipage}[t]{10cm}}{\end{boxedminipage}}
 
-
-\renewcommand{\labelitemi}{\textcolor[rgb]{0.0,0.0,0.4}{\Squaresteel}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Items
+% Set spacing between imtems
+\usepackage{tweaklist}
+\renewcommand{\itemhook}{\setlength{\topsep}{0pt}%
+  \setlength{\itemsep}{0pt}}
+\renewcommand{\labelitemi}{\textcolor[rgb]{0.8,0.8,1}{\Squaresteel}}
 \renewcommand{\labelitemii}{$\hookrightarrow$}
 \renewcommand{\labelitemiii}{$\hookrightarrow$}
 
+%customize descritpions
+\renewcommand\descriptionlabel[1]{\hspace{\labelsep}\textcolor[rgb]{0.8,1,0.8}{\Squaresteel}\hspace{\labelsep}\gEs{#1}}
+
+\newcommand{\gTxBeiVit}{Bei vitaler Bedrohung: }
+\newcommand{\gTxMassVitBes}{Standardmaßnahmen bei
+vital bedrohten Patienten. Besonderheiten:}
+
 %\dominitoc
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   New Commands
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   New Commands
 
 \newcommand{\marginlabel}[1]{\mbox{}\marginpar{\raggedright\hspace{0pt}\sffamily\normalsize{#1}}}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
 
 \title{Arbeits- und Ausbildungsstandards f\"ur den Sanitätsdienst}
+\subtitle{und eine Einf\"uhrung in die Welt der Medizin und Sanitätshilfe}
 \titlehead{Version f\"ur \"Osterreich, Stand Februar 2009 \par 
 \LaTeX -Version, die Teile aus der OpenOffice-Version werden en detail \"ubernommen}
 \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Page
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Page
 
 % set by geometry package
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
 
 % #######################################################################################################
 % BEGIN DOCUMENT ########################################################################################
@@ -267,11 +259,6 @@ marginparwidth=52mm
 
 
 \maketitle
-
-\begin{center}
-Arbeits- und Ausbildungsstandards\par
-und eine Einf\"uhrung in die Welt der Medizin und Sanitätshilfe\par
-\end{center}
 
 \layout
 
@@ -285,7 +272,7 @@ und eine Einf\"uhrung in die Welt der Medizin und Sanitätshilfe\par
 % \"Arztlichen Leitung und den \"ubergeordneten Gremien  entwickeln wir
 % Arbeitsstandards und Lehrmeinungen. ü 
 
-\setcounter{tocdepth}{3}
+\setcounter{tocdepth}{2}
 \renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
 \tableofcontents
 \setcounter{tocdepth}{10}
@@ -382,11 +369,13 @@ und eine Einf\"uhrung in die Welt der Medizin und Sanitätshilfe\par
 \section*{Index}
 \printindex
 
-\part{Tätigkeitsbild und Orientierung}
+\part{Basis --- \emph{Modul Rettungssanitäter}}
 
-\part{Betriebsinterne Regelungen}
+\chapter{Tätigkeitsbild und Orientierung}
 
-\part{\gStatus{90\% fertig}[RS III] Rechtliche Grundlagen}
+\chapter{Betriebsinterne Regelungen}
+
+\chapter{\gStatus{90\% fertig}[RS III] Rechtliche Grundlagen}
 Christof Koller \[*\]
 
 \begin{verbatim}
@@ -400,42 +389,43 @@ Changelog:
 \setcounter{tocdepth}{10}
 \subsection*{\"Ubersicht}
 \minitoc
-\chapter{Allgemeine Rechtsgrundlagen}
-\section{Struktur der \"osterreichischen Rechtsordnung}
+\section{Allgemeine Rechtsgrundlagen}
+\subsection{Struktur der \"Osterreichischen Rechtsordnung}
 
+%\begin{tabular}{| p{2.2cm} | p{2.2cm} p{2.2cm} p{2.2cm} | p{2.2cm} p{2.2cm}
+% |}\toprule
 
-\psset{arrowscale=2}
-\begin{longtable}{| p{2.2cm} | p{2.2cm} p{2.2cm} p{2.2cm} | p{2.2cm} p{2.2cm} |}\hline
+\begin{table}[h]
+\captionabove{Rechtsordnung}
+\begin{tabularx}{15cm}{X|XXX|XX}
+\toprule
+EU-Recht 
+& \multicolumn{5}{c}{Struktur der \"Osterreichischen Rechtsordnung} 
+\\\midrule
 
-\multicolumn{1}{|c}{\rnode{EU}{EU-Recht}} & \multicolumn{5}{|c|}{Struktur der \"Osterreichischen Rechtsordnung} \\\hline
+{ } 
+& \multicolumn{3}{c}{\centering \"Offentliches Recht}
+& \multicolumn{2}{c}{\centering {Privatrecht} } 
+\\\midrule
 
-{Blah!} & \multicolumn{3}{c}{\centering \rnode{OR}{\"OffentlichesRecht}} & \multicolumn{2}{c|}{\centering \rnode{PR}{Privatrecht} } \\\hline
+Rechts\-gebiete 
+& Strafrecht
+& VwR
+& VfR
+& Zivilrecht
+& Sonder\-privat\-rechte \\\midrule
 
-\multicolumn{1}{c}{Rechts\-gebiete} & 
-	\multicolumn{1}{c}{\centering Strafrecht} & 
-		\multicolumn{1}{c}{\centering VwR} & 
-			\multicolumn{1}{c}{\centering VfR} & 
-				\multicolumn{1}{c}{\centering Zivilrecht} & 
-					\multicolumn{1}{c}{\centering Sonder\-privat\-rechte} \\\hline
+Wichtigste Gesetzesbereiche & 
+	StGB, StPO &
+		Berufsgesetze,\newline KAKuG, UbG & 
+			BVG; StGG &
+				ABGB & 
+					Arbeits\-rechts\-ge\-setze,
+					Unter\-nehmens\-ge\-setz\-buch\\\bottomrule 
 
-\multicolumn{1}{c}{Wichtigste Gesetzesbereiche} & 
-	\multicolumn{1}{c}{\centering StGB, StPO} &
-		\multicolumn{1}{c}{\centering Berufsgesetze, KAKuG, UbG} & 
-			\multicolumn{1}{c}{BVG; StGG} &
-				\multicolumn{1}{c}{\centering ABGB} & 
-					\multicolumn{1}{c}{\centering Arbeits\-rechts-ge\-setze,
-					Unter\-nehmens\-ge\-setz\-buch}\\\hline 
-
-\end{longtable}
-
+\end{tabularx}
+\end{table}
 %\ncbarr[arrows=->]{EU}{OR}
-
-\begin{pspicture}(0,-1)(3.5,1.5)
-\rnode{A}{Verbinde} Woerter mit \rnode{B}{ncbar}
-% \ncline[nodesep=3pt]{->}{EU}{OR}
-% \ncline[nodesep=3pt]{->}{EU}{PR}
-% \ncline[nodesep=3pt]{->}{A}{B}
-\end{pspicture}
 
 Die \"osterreichische Rechtsordnung ist ein zusammenhängendes Geflecht
 bestehend aus zwei Hauptbereichen, dem \"offentlichen Recht und dem
@@ -481,7 +471,7 @@ und das Unternehmensrecht.
 
 \end{itemize}
 
-\section{Vertragsverhältnis im Rettungswesen}
+\subsection{Vertragsverhältnis im Rettungswesen}
 
 \begin{table}
 \begin{flushleft}
@@ -605,7 +595,7 @@ Organisation gegen\"uber dem Pat. treffen, auch durch den
 Organisation und den Sanitäter Rechte und Pflicht im Umgang
 miteinander.
 
-\section{Strafbarkeitspr\"ufung}
+\subsection{Strafbarkeitspr\"ufung}
 
 \begin{itemize}
 \item[] {\mdseries
@@ -707,7 +697,7 @@ Die einzelnen Rechtfertigungs- und Entschuldigungsgr\"unde werden in der
 Ausarbeitung {\quotedblbase}Ein langer Dienst{\textquotedblleft}
 separat behandelt.
 
-\chapter{Ein langer Dienst}
+\section{Ein langer Dienst}
 {\centering
 Eine Geschichte aus 17 Rechtsfällen
 \par}
@@ -777,9 +767,9 @@ genie{\ss}en wollen. Doch wie immer an einem solchen Freudentag, ruft
 die Arbeit mit einem ganz normalen Sanitätsdienst und seinen
 typischen Problemen.
 
-\section{Teil A: Gefahrenbekämpfung}
+\subsection{Teil A: Gefahrenbekämpfung}
 
-\subsection{Fall 1. Randalierender Patient}
+\subsubsection{Fall 1. Randalierender Patient}
 \paragraph*{Sachverhalt}
 Die erste Ausfahrt beginnt nat\"urlich direkt nach Dienstbeginn, ohne
 dass wenigstens ein Kaffee getrunken werden hätte k\"onnen. Der auf
@@ -884,7 +874,7 @@ Anhalten selbst zu verletzen. Daher der Grundsatz: Selbstschutz geht
 vor Fremdschutz (bzw. \"ubertriebenen Heldenmut).}
 
 \end{itemize}
-\subsection{Fall 2. Gefahr durch Hund}
+\subsubsection{Fall 2. Gefahr durch Hund}
 \paragraph*{Sachverhalt}
 
 Kaum hat Hr. Hauzu geh\"ort, dass die Polizei und der Amtsarzt
@@ -997,9 +987,9 @@ Praxistipp: Schon vor Betreten der Wohnung sollte ein Hund von seinem
 Besitzer in einen  separaten Raum weggesperrt werden.
 \end{quotation}
 
-\section{Teil B: Heilbehandlung}
+\subsection{Teil B: Heilbehandlung}
 
-\subsection{Fall 3. Blutzuckermessung = Heilbehandlung}
+\subsubsection{Fall 3. Blutzuckermessung = Heilbehandlung}
 \paragraph*{Sachverhalt}
 
 Durch die rechtzeitig eintreffende Polizei, kann die Gefahr durch den
@@ -1070,9 +1060,9 @@ zu lies.}
 	Aufklärung ist aufgrund der mangelnden Einsichts- und
 	Urteilsfähigkeit nicht m\"oglich.}
 \end{itemize}
-\section{Teil C: Selbstbestimmungsrecht}
+\subsection{Teil C: Selbstbestimmungsrecht}
 
-\subsection{Fall 4. Aufklärung und Einwilligung}
+\subsubsection{Fall 4. Aufklärung und Einwilligung}
 
 \paragraph*{Sachverhalt}
 
@@ -1283,7 +1273,7 @@ folgenden Bestimmungen:
 	\end{itemize}
 \end{itemize}
 
-\subsection{Fall 5. Patientenverf\"ugung}
+\subsubsection{Fall 5. Patientenverf\"ugung}
 \paragraph*{
 Sachverhalt}
 
@@ -1440,9 +1430,9 @@ Verpflichtung zur Suche, sondern zur Behandlung bestehen.
 
 \end{itemize}
 
-\section{Teil D: Rechte und Pflichten des Sanitäters}
+\subsection{Teil D: Rechte und Pflichten des Sanitäters}
 
-\subsection{Fall 6. Unterlassung der Notarztnachforderung}
+\subsubsection{Fall 6. Unterlassung der Notarztnachforderung}
 
 \paragraph*{Sachverhalt}
 
@@ -1512,7 +1502,7 @@ Besteht die Pflicht f\"ur Sanitäter zur Nachforderung eines NA?
 
 \end{itemize}
 
-\subsection{Fall 7. Sanitäterkompetenzen}
+\subsubsection{Fall 7. Sanitäterkompetenzen}
 
 \paragraph*{Sachverhalt}
 
@@ -1664,7 +1654,7 @@ verabreichen, selbst  wenn Gefahr in Verzug vorliegt. }
 
 \end{itemize}
 
-\subsection{Fall 8. Rechtswidrige Anordnung durch Notarzt}
+\subsubsection{Fall 8. Rechtswidrige Anordnung durch Notarzt}
 
 \paragraph*{Sachverhalt}
 
@@ -1748,7 +1738,7 @@ gewonnen werden aus:
 
 \end{itemize}
 
-\subsection{Fall 9. Dokumentationspflicht}
+\subsubsection{Fall 9. Dokumentationspflicht}
 
 \paragraph*{Sachverhalt}
 
@@ -1840,7 +1830,7 @@ Sanitäter empfehlenswert.
 
 \end{itemize}
 
-\subsection{Fall 10. Verschwiegenheits- und Auskunftspflicht}
+\subsubsection{Fall 10. Verschwiegenheits- und Auskunftspflicht}
 
 \begin{multicols}{2}
 
@@ -1954,7 +1944,7 @@ Verschwiegenheitspflicht:
 
 \end{itemize}
 
-\subsection{Fall 11. Fortbildungs- und Rezertifizierungspflicht}
+\subsubsection{Fall 11. Fortbildungs- und Rezertifizierungspflicht}
 
 \paragraph*{Sachverhalt}
 
@@ -2046,9 +2036,9 @@ Jahre Rahmens einmal \"uber die Intubation pr\"ufen lassen.
 
 \end{itemize}
 
-\section{Teil E: Schadenersatz}
+\subsection{Teil E: Schadenersatz}
 
-\subsection{Fall 12. Verletzung des Pat. durch Sanitäter:}
+\subsubsection{Fall 12. Verletzung des Pat. durch Sanitäter:}
 
 \paragraph*{Sachverhalt}
 
@@ -2160,7 +2150,7 @@ alle Anspr\"uche wie gegen den Sanitäter selber durchsetzen.
 
 \end{itemize}
 
-\subsection{Fall 13. Sachbeschädigung}
+\subsubsection{Fall 13. Sachbeschädigung}
 
 \paragraph*{Sachverhalt}
 
@@ -2218,9 +2208,9 @@ Sachbeschädigung}:
 
 \end{itemize}
 
-\section{Teil F: Behandlungspflicht}
+\subsection{Teil F: Behandlungspflicht}
 
-\subsection{Fall 14. Behandlungspflicht von Krankenanstalten, \"Arzten,
+\subsubsection{Fall 14. Behandlungspflicht von Krankenanstalten, \"Arzten,
 Sanitätern und Durchschnittsb\"urgern:}
 
 \paragraph*{Sachverhalt}
@@ -2365,9 +2355,9 @@ ersthelferische Versorgungspflicht f\"ur den Durchschnittsb\"urger?
 
 \end{itemize}
 
-\section{Teil G: Meldepflichtenrecht}
+\subsection{Teil G: Meldepflichtenrecht}
 
-\subsection{Fall 15. Ansteckende Krankheiten}
+\subsubsection{Fall 15. Ansteckende Krankheiten}
 
 \paragraph*{Sachverhalt}
 
@@ -2496,7 +2486,7 @@ fallen.
 
 \end{itemize}
 
-\subsection{Fall 16. Strafbare Handlungen}
+\subsubsection{Fall 16. Strafbare Handlungen}
 
 \paragraph*{Sachverhalt}
 
@@ -2583,9 +2573,9 @@ Patienten [{\dots}] zu wahren{\textquotedblleft} begr\"unden.
 
 \end{itemize}
 
-\section{Teil H: Stra{\ss}enordnung}
+\subsection{Teil H: Stra{\ss}enordnung}
 
-\subsection{Fall 17. Blaulichtverwendung}
+\subsubsection{Fall 17. Blaulichtverwendung}
 
 \paragraph*{Sachverhalt}
 
@@ -2725,7 +2715,7 @@ gewertet wird.
 
 Der weitere Tag verläuft ruhig mit den \"ublichen Patienten.
 
-\chapter*{Abk\"urzungsverzeichnis}
+\section*{Abk\"urzungsverzeichnis}
 \begin{multicols}{2}
 \begin{description}
 \item[ABGB]  Allgemeines B\"urgerliches Gesetzbuch
@@ -2843,26 +2833,22 @@ ven\"osen Zugangs
 
 \end{multicols}
 
-\part{[RS I] Erste Hilfe und erweiterte Erste Hilfe}
+\chapter{[RS I] Erste Hilfe und erweiterte Erste Hilfe}
 
-\part{[RS IX] Gerätelehre und Sanitätstechnik}
+\chapter{[RS IX] Gerätelehre und Sanitätstechnik}
 
-\part{[RS XIII] Untersuchung und Anamnese}
+\chapter{[RS XIII] Untersuchung und Anamnese}
 
-\setcounter{page}{0}
-\part{Anatomie und Physiologie}
+\chapter{Anatomie und Physiologie}
+\section{Das Herz}
 
-
-
-\chapter{Das Herz}
-
-\chapter{Die Atmung}
+\section{Die Atmung}
 
 Blah!
 
-\part{[RS V] Vitalfunktionen}
+\chapter{[RS V] Vitalfunktionen}
 
-\part{[RS VI] Krankheiten und Notfälle}
+\chapter{[RS VI] Krankheiten und Notfälle}
 \author{Sebastian Gabriel, Michael Withofner}
 
 \begin{verbatim}
@@ -2875,7 +2861,7 @@ Changelog:
 Koch verglichen und korr.
 \end{verbatim}
 
-\chapter{Einführung in die Medizin}
+\section{Einführung in die Medizin}
 
 \paragraph*{Einteilung} Notfälle kann man mehr oder weniger willkürlich
 einteilen
@@ -2900,7 +2886,7 @@ einteilen
 
 \end{itemize}
 
-\section*{Begriffe}
+\subsection*{Begriffe}
 
 \begin{description}
 
@@ -2949,7 +2935,7 @@ einteilen
 \end{description}
 \setchapterpreamble[u]{\dictum[Goethe]{Blut ist ein ganz
 besond'rer Saft.}}
-\chapter{Herz-Kreislaufstörungen}
+\section{Herz-Kreislaufstörungen}
 
 \label{bkm:RefHeading42342802}
 Der Herz-Kreislaufstillstand wird unter
@@ -2993,7 +2979,7 @@ besprochen.
 
 \end{itemize}
 
-\section{Herzinsuffizienz}
+\subsection{Herzinsuffizienz}
 
 \gDefinition{Unzureichende Auswurfleistung des Herzens.}
 
@@ -3009,11 +2995,11 @@ Je nachdem welcher Herzteil betroffen ist unterteilt man in:
 	\item[\gT{Globalinsuffizienz},]\index{Globalinsuffizienz} Unzureichende Leistung beider Herzteile.  
 \end{description}
 
-Abhängig davon wie gut der KÃ¶rper mit der Einschränkung zurecht kommt unterteilt man: 
+Abhängig davon wie gut der Körper mit der Einschränkung zurecht kommt unterteilt man: 
+
 \begin{description}
 	\item[Kompensierte Herzinsuffizienz] Der K\"orper hat noch genug Reserven, kann gegensteuern und kommt mit der eingeschränkten Leistung aus.
 	\item[Dekompensierte Herzinsuffizienz] Der K\"orper kommt aufgrund des Fortschreitens der Erkrankung oder aufgrund eines erh\"ohten Bedarfs nicht mehr mit der Leistung aus. Es treten deutliche Symptome auf. 
-
 \end{description}
 
 \paragraph*{Beurteilung des Schweregrades}
@@ -3040,7 +3026,7 @@ Das kardiale Lungen\"odem wird im Kaptel
 I.II{\guillemotright}\pageref{bkm:RefHeading36561325} (Lungen\"odem)
 behandelt. }
 
-\subsection*{Linksherzinsuffizienz}
+\subsubsection*{Linksherzinsuffizienz}
 
 \index{Linksherzinsuffizienz}
 Die Linksherzinsuffizienz entsteht aufgrund mangelnder Auswurfleistung
@@ -3135,7 +3121,7 @@ Spezielle Ma{\ss}nahmen bei nicht vital bedrohten Patienten}
 \end{itemize}
 }
 
-\subsection*{Rechtsherzinsuffizienz}
+\subsubsection*{Rechtsherzinsuffizienz}
 Die Rechtsherzinsuffizienz entsteht aufgrund mangelnder Auswurfleistung
 des rechten Herzens. 
 
@@ -3214,7 +3200,7 @@ Spezielle Ma{\ss}nahmen bei nicht vital bedrohten Patienten}
 
 } %\gMassnahmen
 
-\section{Koronare Herzkrankheit und Akutes Koronarsyndrom}
+\subsection{Koronare Herzkrankheit und Akutes Koronarsyndrom}
 
 \begin{description}
 	\item[Die \index{Koronare Herzkrankheit}\gT{Koronare Herzkrankheit}
@@ -3231,7 +3217,7 @@ Spezielle Ma{\ss}nahmen bei nicht vital bedrohten Patienten}
 
 \end{description}
 
-\subsection[Angina pectoris]{Angina pectoris}
+\subsubsection[Angina pectoris]{Angina pectoris}
 \index{Angina pectoris}{\mdseries
 Pl\"otzliches Engegef\"uhl in der Brust meist mit Thoraxschmerz infolge
 einer Unter\-ver\-sorgung des Herzmuskels mit sauerstoffreichen Blut.
@@ -3343,10 +3329,7 @@ Herzschmerz.]{Schmerzausdehnung beim ischämischen Herzschmerz.}
 	\item 
 	\gEs{striktes Bewegungsverbot}!
 
-	\item {\color[rgb]{0.0,0.0,0.5019608}
-%
-%
-	Pat. darf eigenes Nitro nur  bei RR {\textgreater}100 syst. nehmen!}
+	\item Pat. darf eigenes Nitro nur  bei RR {\textgreater}100 syst. nehmen!
 
 \end{itemize}
 \gAuthNotes{
@@ -3359,10 +3342,10 @@ Wenn er es schon genommen hat und es nicht geholfen hat
 dann nicht}
 \end{gMassnahmenEnv}
 
-\subsection{Herzinfarkt - Myokardinfarkt (MCI)}
+\subsubsection{Herzinfarkt - Myokardinfarkt (MCI)}
 
-\gDefinition{Verschlu{\ss} eines oder mehrer Herzkranzgefä{\ss}e mit
-anschlie{\ss}endem Absterben des betroffenen Herzmuskelgewebes. }
+\gDefinition{Verschluß eines oder mehrerer Herzkranzgefäße mit
+anschlie{\ss}endem Absterben des betroffenen Herzmuskelgewebes.}
 
 \paragraph{Symptome}
 
@@ -3503,20 +3486,20 @@ Komplikationen -- Womit muss ich rechnen?}
     
 \end{itemize}
 
-\section{
+\subsection{
 Herzrhythmusst\"orungen }
 
 \begin{center}
 \begin{table}[h]
 \captionabove{Wichtige und häufige Herzrhythmusstörungen}
 \label{tab:herzrhythmusstoerungen}
-\begin{supertabular}{m{4.367cm}m{4.367cm}m{4.367cm}}
+\begin{tabularx}{13cm}{XXX}
 \toprule
 Rhythmus & Bedeutung & Bemerkung
 \\\midrule
 Kammerflimmern & Reanimation  & ?
 \\
-Pulslose Ventrikuläre Tachykardie & Reanimation & ?
+Pulslose Ventrikuläre Tachy\-kardie & Reanimation & ?
 \\
 Asystolie (HF = 0) & Reanimation & ?
 \\
@@ -3526,7 +3509,7 @@ Tachykardie (HF {\textgreater}100/min) & ? & ?
 \\
 Vorhofflimmern & regellose Erregung im Vorhof
 
-mdseries oft symptomlos & 
+oft symptomlos & 
 Sehr viele Leute haben Vorhofflimmern und leben ganz gut
 damit.
 
@@ -3536,12 +3519,12 @@ Tachykardie-Anfälle
 
 Thrombenbildung
 
-deshalb Therapie mit Gerinnungshemmenden
-({\quotedblbase}blutverd\"unnenden{\textquotedblleft}) Medikamenten:
-Marcoumar ${\rightarrow}$ Patient ist Blutungsgefährdet
+deshalb Therapie mit gerinnungs\-hemmenden
+({\quotedblbase}blut\-ver\-d\"unnenden{\textquotedblleft}) Medi\-ka\-menten:
+z.B. \gE{"`Marcoumar"'} ${\rightarrow}$ Patient ist blutungsgefährdet
 
 \\\bottomrule
-\end{supertabular}
+\end{tabularx}
 \end{table}
 \end{center}
 
@@ -3562,9 +3545,7 @@ schnell dass es sich nicht mehr f\"ullen kann ${\rightarrow}$ \gEs{keine Auswurf
 \gEs{Reanimationspflichtig}. Im Herz entsteht keine elektrische
 Erregung$\rightarrow$  \gEs{keine Auswurfleistung} 
     
-
-\subparagraph{}
-\subparagraph[Vorhofflimmern]{Vorhofflimmern}
+\paragraph[Vorhofflimmern]{Vorhofflimmern}
 
 Regellose Erregung im Vorhof, die oft symptomlos ist. 
 Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit.
@@ -3585,9 +3566,8 @@ Komplikationen:
     \end{itemize}
 \end{itemize}
 \paragraph{Zu schnell oder zu langsam: Tachy- und Bradykardie}
-{\mdseries
 Denke bei der Beurteilung auch immer an die Umstände und den
-Erregungszustand des Patienten}
+Erregungszustand des Patienten
 
 \subparagraph{Bradykardie }
 HF {\textless} 60/min (beim Erwachsenen)
@@ -3602,8 +3582,7 @@ Tachykarde Attacken sind ein häufiges Notfallbild. Da oft chronische
 Erkrankungen die Ursache sind  haben die Patienten diese Attacken immer
 wieder und kennen die Symptome bereits (und oft auch die Behandlung). 
 
-\subparagraph*{
-Symptome}
+\subparagraph*{Symptome}
 
 \begin{itemize}
     \item {\mdseries
@@ -3614,8 +3593,7 @@ Symptome}
     
 \end{itemize}
 
-\subparagraph*{
-Gefahr}
+\subparagraph*{Gefahr}
 
 Da das \gEs{Herz pl\"otzlich viel mehr Arbeit leisten
 muss} kann es sein dass es an seine \gEs{Grenzen}
@@ -3624,49 +3602,25 @@ des Herzens f\"ur diese Arbeit nicht mehr reicht und ein Herzinfarkt
 entsteht.
 
 \begin{gMassnahmenEnv}
-    \subparagraph*{
-    Ma{\ss}nahmen}
+    \subparagraph*{Spezielle Ma{\ss}nahmen bei symptomatischer Tachykardie}
     
     \begin{itemize}
-        \item {\color[rgb]{0.0,0.0,0.5019608}
-        Erstma{\ss}nahmen bei vital bedrohten Patienten: }
-        
+        \item Bei vitaler Bedrohung: Standardma{\ss}nahmen bei vital bedrohten
+        Patienten. Besonderheiten: 
+        \begin{itemize}
+            \item Lagerung: Oberk\"orper hoch
+            \item O\gSub{2} 10~l, bei Bedarf bis zu 15~l
+        \end{itemize}
+        \item Beengende Kleidung \"offnen
+        \item Striktes Bewegungsverbot!
+        \item Psychische Betreuung! Oase der Ruhe schaffen. 
     \end{itemize}
-    \begin{itemize}
-        \item {\color[rgb]{0.0,0.0,0.5019608}
-        Lagerung: Oberk\"orper hoch}
-        
-        \item {\color[rgb]{0.0,0.0,0.5019608}
-        O\gSub{2} 10~l, bei Bedarf bis zu 15~l}
-        
-        \item {\color[rgb]{0.0,0.0,0.5019608}
-        Notarzt}
-        
-        \item {\color[rgb]{0.0,0.0,0.5019608}
-        Reanimationsbereitschaft}
-        
-    \end{itemize}
-    \begin{itemize}
-        \item {\color[rgb]{0.0,0.0,0.5019608}
-        Vitalwerte erheben \& Monitoring }
-        
-        \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-        Beengende Kleidung \"offnen}
-        
-        \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-        Striktes Bewegungsverbot!}
-        
-        \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-        Psychische Betreuung! Oase der Ruhe schaffen. }
-        
-    \end{itemize}
+
 \end{gMassnahmenEnv}
 
-\section{
-Hypotonie}
+\subsection{Hypotonie}
 
-{\mdseries
-RR {\textless} 100 mmHg syst.}
+Normalerweise RR {\textless} 100 mmHg syst. beim Erwachsenen.
 
 \begin{multicols}{2}
 \subparagraph*{
@@ -3685,29 +3639,17 @@ Ursachen}
     Sportler, junge Frauen}
     
 \end{itemize}
-\subparagraph*{
-Symptome}
+
+\subparagraph*{Symptome}
 
 \begin{itemize}
-    
     \item M\"udigkeit bis Kollaps
-    
-    \item
-    Kollaps
-    
-    \item
-    passagere Kreislaufregulationsst\"orung  mit RR-Abfall,
+    \item Kollaps
+    \item passagere Kreislaufregulationsst\"orung  mit RR-Abfall,
     Blutverteilungsst\"orung  ohne Volumsverlust
-    
-    \item
-    RR-Abfall mit Bewu{\ss}tseinseintr\"ubung
-    
-    \item
-    {\quotedblbase}schwarzwerden vor Augen{\textquotedblleft}, Ohnmacht
-    
-    \item
-    Sturz = {\quotedblbase}Therapie{\textquotedblleft}
-    
+    \item RR-Abfall mit Bewu{\ss}tseinseintr\"ubung
+    \item {\quotedblbase}schwarzwerden vor Augen{\textquotedblleft}, Ohnmacht
+    \item Sturz = {\quotedblbase}Therapie{\textquotedblleft}
 \end{itemize}
 
 \end{multicols}
@@ -3716,52 +3658,28 @@ Symptome}
 Symptome}
 
 \begin{itemize}
-    \item {\mdseries
-    RR ${\downarrow}$}
-    
-    \item {\mdseries
-    Schwindel (Vertigo )}
-    
-    \item {\mdseries
-    ev. kurze Bewu{\ss}tlosigkeit}
-    
-    \item {\mdseries
-    Patient(in) sackt zusammen}
-    
-    \item {\mdseries
-    Tachykardie}
-    
-    \item {\mdseries
-    Schwarzwerden vor Augen}
-    
-    \item {\mdseries
-    kurze Bewu{\ss}tlosigkeit}
-    
-    \item {\mdseries
-    Bradykardie}
-    
-    \item {\mdseries
-    Ohnmacht}
-    
-    \item {\mdseries
-    pl\"otzlicher RR-Abfal}
-    
+    \item RR ${\downarrow}$
+    \item Schwindel (Vertigo )
+    \item  ev. kurze Bewu{\ss}tlosigkeit
+    \item Patient(in) sackt zusammen
+    \item Tachykardie
+    \item Schwarzwerden vor Augen
+    \item kurze Bewu{\ss}tlosigkeit
+    \item Bradykardie
+    \item Ohnmacht
+    \item pl\"otzlicher RR-Abfall
 \end{itemize}
-{\mdseries
-Patient wacht auf dem Boden liegend  auf, wei{\ss} nicht, was geschehen
-ist...}
 
-\paragraph*{Ursachen:}
+Patient wacht auf dem Boden liegend  auf, wei{\ss} nicht, was geschehen
+ist...
+
+\paragraph*{Ursachen}
 
 \begin{itemize}
     \item kardial
-    
     \item vaskulär
-    
     \item zerebrovaskulär
-    
     \item zerebral
-    
 \end{itemize}
 
 \gAuthNotes{ERKL\"AREN!}
@@ -3771,21 +3689,15 @@ ist...}
     
     \begin{itemize}
         \item sofern notwendig:
-        
         \item Beine hoch  
-        
         \item evt. \[O_2\]
-        
         \item Synkope
-        
-        \item Hospitalisierung  zur Abklärung  unbedingt erforderlich
-        
+        \item Hospitalisierung zur Abklärung unbedingt erforderlich
     \end{itemize}
     
 \end{gMassnahmenEnv}
 
-\section{
-Hypertonie}
+\subsection{Hypertonie}
 
 \index{Hypertonie}\gT{Hypertonie}
 (\index{Bluthochdruck}\gT{Bluthochdruck}): Oft
@@ -3794,10 +3706,8 @@ Schäden am K\"orper anrichten kann und im Zuge von pl\"otzlichen
 Blutdruckkrisen auch akut Probleme machen kann. 
 
 \begin{itemize}
-    \item 
-    Chronische Hypertonie: Grenze derzeit bei 140/90
+    \item Chronische Hypertonie: Grenze derzeit bei 140/90
     (au{\ss}er bei Kindern)
-    
 \end{itemize}
 
 \begin{gCaveEnv}
@@ -3807,57 +3717,34 @@ Blutdruckkrisen auch akut Probleme machen kann.
     EPH-Gestose -- Präeklampsie - Eklampsie erklärt.}!
 \end{gCaveEnv}
 
-\subparagraph*{Ursachen}
+\paragraph{Ursachen}
 
 \begin{itemize}
-    \item {\mdseries
-    Widerstandserh\"ohung (durch Engstellung der Gefä{\ss}e)}
-    
-    \item {\mdseries
-    vermehrte Herzarbeit}
-    
-    \item {\mdseries
-    Sympathikusaktivierung, Adrenalin+Cortison (Stre{\ss}hormone) durch
-    Dauerstre{\ss},  Bewegungsmangel, genetische Veranlagung}
-    
+    \item Widerstandserh\"ohung (durch Engstellung der Gefä{\ss}e)
+    \item vermehrte Herzarbeit
+    \item Sympathikusaktivierung, Adrenalin+Cortison (Stre{\ss}hormone) durch
+    Dauerstre{\ss},  Bewegungsmangel, genetische Veranlagung  
 \end{itemize}
-\subparagraph*{
-chronische Schädigungen:}
+
+\subparagraph{Chronische Schädigungen}
 
 \begin{itemize}
     \item Gefä{\ss}schädigung
-    
-    
     \begin{itemize}
-        \item {\mdseries
-        Herzkranzgefä{\ss}e ${\rightarrow}$ Infarkt}
-        
-        \item {\mdseries
-        Hirngefä{\ss}e ${\rightarrow}$ Schlaganfall}
-        
-        \item {\mdseries
-        Nierengefä{\ss}e ${\rightarrow}$ Niereninsuffizienz ${\rightarrow}$
-        Dialyse ${\rightarrow}$ typischer KTW-Patient}
-        
-        \item {\mdseries
-        Hauptschlagader ${\rightarrow}$ Aneurysma%
-        %
-        }
-        
+        \item Herzkranzgefä{\ss}e ${\rightarrow}$ Infarkt
+        \item Hirngefä{\ss}e ${\rightarrow}$ Schlaganfall
+        \item Nierengefä{\ss}e ${\rightarrow}$ Niereninsuffizienz ${\rightarrow}$
+        Dialyse ${\rightarrow}$ typischer KTW-Patient
+        \item Hauptschlagader ${\rightarrow}$ Aneurysma        
     \end{itemize}
-    
     \item Herzmuskel (Herz muss gegen gr\"o{\ss}eren Widerstand pumpen)
-    
-    
     \begin{itemize}
-        \item {\mdseries
-        dilatative Kardiomyopathie}
+        \item dilatative Kardiomyopathie
     \end{itemize}
 \end{itemize}
 
+\subsubsection{HypertensiveKrise / Hypertensiver  Notfall}
 
-\subsection[Hypertensive Krise / Hypertensiver \ Notfall]{Hypertensive
-Krise / Hypertensiver  Notfall}
 {\bfseries\color[rgb]{0.5019608,0.0,0.0} SEHR FRAGLICH !!!}
 
 \begin{center}
@@ -3892,7 +3779,7 @@ Sie {\quotedblbase}aus Spa{\ss}{\textquotedblleft} jemand Blutdruck
 gemessen haben ({\quotedblbase}Gesundheitstage{\textquotedblleft},
 {\quotedblbase}Vorsorgeuntersuchung{\textquotedblleft}):}
 
-\subparagraph*{ Ma{\ss}nahmen}
+\paragraph{Ma{\ss}nahmen}
 
 \begin{itemize}
     \item {\mdseries\color[rgb]{0.0,0.0,0.5019608} Lagerung: Oberk\"orper
@@ -3924,14 +3811,16 @@ gemessen haben ({\quotedblbase}Gesundheitstage{\textquotedblleft},
     \item {\mdseries \"Ubelkeit, Erbrechen, Schwindel}
     
 \end{itemize}
-\subparagraph*{ Gefahr}
+\paragraph*{Gefahr}
 
 \begin{itemize}
 \item {\mdseries \gEs{Herzversagen} (Herz muss
 pl\"otzlich gegen gro{\ss}en Druck pumpen)}
 
 \end{itemize}
-\subparagraph*{ Ma{\ss}nahmen}
+
+
+\paragraph{Ma{\ss}nahmen}
 
 \begin{itemize}
 \item {\mdseries\color[rgb]{0.0,0.0,0.5019608} Lagerung: Oberk\"orper
@@ -3955,8 +3844,7 @@ hoch}
 \end{supertabular}
 \end{center}
 
-\section{\marginpar{Gefäßverschlüsse}Gefä{\ss}verschlüsse
-in den Extremitäten}
+\subsection{Gefä{\ss}verschlüsse in den Extremitäten}\marginpar{Gefäßverschlüsse}
 
 %%%
 \marginline{
@@ -3977,7 +3865,7 @@ ein Gerinnsel losreißt und in einem anderen Teil des
 Körpers Schaden anrichtet\footnote{Zum Beispiel in der
 Lunge im Rahmen einer Lungenembolie}.
 
-\subsection{Arterieller Gefä{\ss}verschlu{\ss}}
+\subsubsection{Arterieller Gefä{\ss}verschlu{\ss}}
 
 Beim \gE{arteriellen Gefäßverschluß} verschließt etwas das
 zuführende Gefäß, es kommt zu einer schmerzhaften 
@@ -4041,7 +3929,7 @@ Gefäßverschluss.}
     \end{itemize}
 \end{gMassnahmenEnv}
 
-\subsection{Tiefe Venenthrombose}
+\subsubsection{Tiefe Venenthrombose}
 
 \gDefinition{Blutgerinnsel (Thrombus) verstopft Vene}
 
@@ -4056,7 +3944,7 @@ Gefäßverschluss.}
     Syndrom}\gT{Economy class Syndrom}
 \end{itemize}
 
-\paragraph{Symptome:}
+\paragraph{Symptome}
 
 \begin{itemize}
     \item Schmerzen
@@ -4084,7 +3972,7 @@ Gefäßverschluss.}
     
 \end{gMassnahmenEnv}
 
-\chapter{Respiratorische / Pulmologische  Notfälle}
+\section{Respiratorische / Pulmologische  Notfälle}
 \subparagraph{Störungen der Atmung - Übersicht}
 
 \begin{center}
@@ -4100,7 +3988,7 @@ Gefäßverschluss.}
     \item Lungenentz\"undung (Pneumonie)
 \end{itemize}
 
-\section{Mechanische Verlegung}
+\subsection{Mechanische Verlegung}
 
 Durch eine Verlegung der Atemwege ist die Ventilation behindert bzw. aufgehoben.
 
@@ -4138,13 +4026,10 @@ Besonder gefährdet hinsichtlich einer Atemwegsverlegung sind:
         \item Esmarch-Handgriff
         \item Schlag zwischen Schulterblätter
         \item Heimlich-Griff
-        \item Erstma{\ss}nahmen bei vital bedrohten Patienten: 
+        \item \gTxBeiVit \gTxMassVitBes 
         \begin{itemize}
             \item Lagerung: Oberk\"orper hoch
             \item $O_2$ 10~l, bei Bedarf bis zu 15~l
-            \item Notarzt
-            \item Reanimationsbereitschaft   
-            \item Vitalwerte erheben \& Monitoring 
         \end{itemize}
     \end{itemize}
     
@@ -4152,7 +4037,7 @@ Besonder gefährdet hinsichtlich einer Atemwegsverlegung sind:
 
 
 
-\section{Asthma bronchiale}
+\subsection{Asthma bronchiale}
 
 Wiederholte Anfälle von Atemnot durch
 
@@ -4249,7 +4134,7 @@ Wiederholte Anfälle von Atemnot durch
 
 
 
-\section{COPD - Chronic obstructing pulmonary disease}
+\subsection{COPD - Chronic obstructing pulmonary disease}
 
 Syn.: Chronisch-obstruktive Lungenerkrankung.
 
@@ -4362,7 +4247,7 @@ Spezielle Maßnahmen}
 
 
 
-\section{Lungenembolie\label{bkm:RefHeading37612625}}
+\subsection{Lungenembolie\label{bkm:RefHeading37612625}}
 
 \gDefinition{Einschwemmen eines Gerinnsels in die  Strombahn des Lungenkreislaufs}
 
@@ -4566,7 +4451,7 @@ Kein Transport ohne Notarzt. Auch wenn das Spital
     
 \end{gCaveEnv}
 
-\section{Lungenentzündung --- \gT{Pneumonie}}
+\subsection{Lungenentzündung --- \gT{Pneumonie}}
 
 \begin{itemize}
     \item durch Keime: Bakterien, Pilze
@@ -4617,7 +4502,7 @@ erst im Krankenhaus gestellt werden.
 \end{gMassnahmenEnv}
 
 
-\chapter{Neurologische Notfälle}
+\section{Neurologische Notfälle}
 Erkrankungen, Notfälle und sonstige Störungen die das Nervensystem betreffen. Neurologische Störungen gehen oft mit einer Störung des Bewusstseins
 oder Schmerzen einher.
 
@@ -4654,7 +4539,7 @@ Eine Übersicht und willkürliche Einteilung:
 {\bfseries\color[rgb]{0.5019608,0.0,0.0}
 Es fehlt: Lumbago, BWS/HWS}
 
-\section{Schlaganfall --- Apoplektischer Insult --- Hirninfarkt}
+\subsection{Schlaganfall --- Apoplektischer Insult --- Hirninfarkt}
 \index{Schlaganfall}\index{Insult}
 Syn.: \index{Apoplektischer Insult}\index{Apoplektischer
 Insult}Apoplektischer Insult, \index{Apoplexie}Apoplexie
@@ -4764,7 +4649,7 @@ Symptomen immer messen!)
     
 \end{gMassnahmenEnv}
 
-\section{
+\subsection{
 Bakterielle \index{Meningitis}Meningitis}
 
 {\mdseries = eitrige Entz\"undung der Hirnhäute}
@@ -4805,7 +4690,7 @@ innerhalb weniger Stunden zu erwarten.}
 \gAuthNotes{
 FEHLT: Querverwis Meningimus\\FEHLT: Ma{\ss}nahmen}
 
-\section{Vom Gehirn ausgehende Krämpfe --- Zerebrale Krampfanfälle}
+\subsection{Vom Gehirn ausgehende Krämpfe --- Zerebrale Krampfanfälle}
 
 Epilepsie%
 %
@@ -5080,14 +4965,14 @@ falls nicht erfolgreich, Notarzt f\"ur Sedierung  nachfordern}
 KEIN O{2}  verabreichen!!! Kontraindikation!!!}
 
 \end{itemize}
-\chapter{Metabolische Störungen (Stoffwechselstörungen)}
+\section{Metabolische Störungen (Stoffwechselstörungen)}
 {\mdseries
 Die relevanteste Stoffwechselstörung im Rettungsdienst ist der
 \index{Diabetes mellitus}\gT{Diabetes mellitus}. Dieser
 stellt eine Störung des Kohlehydrat-(zucker-)stoffwechsels dar.
 \gEs{Zucker ist ein Kohlehydrat}. }
 
-\section{Diabetes Mellitus}
+\subsection{Diabetes Mellitus}
 
 \gEs{Merke}: Diabetes mellitus ist eine chronische
 Stoffwechselerkrankungen mit  gestörter Blutzuckerregulation. 
@@ -5242,7 +5127,7 @@ er\-fra\-gen}
 
 \subparagraph[Diabetes \ mellitus II]{Diabetes  mellitus II}
 
-\subsection{Hypoglykämie}
+\subsubsection{Hypoglykämie}
 
 \paragraph*{Ursachen}
 
@@ -5318,7 +5203,7 @@ Stark getrübten Patienten soll nichts zu essen gegeben werden da Aspirationsgefa
 \end{description}
 \end{gMassnahmenEnv}
 
-\subsection{Hyperglykämie}
+\subsubsection{Hyperglykämie}
 
 \subparagraph*{
 Diabetisches Koma }
@@ -5409,7 +5294,7 @@ Therapie}
 \item O2
 
 \end{itemize}
-\chapter{Abdominelle Notfälle}
+\section{Abdominelle Notfälle}
 
 Der Bauch ist eine echte Herausforderung. 
 Er beinhaltet viele unterschiedliche Organe und Strukturen die weh tun und
@@ -5419,7 +5304,7 @@ gefährlich werden.
 
 Es ist daher wichtig typische Symptome zu erheben und Alarmzeichen sofort zu erkennen.
 
-\section{Das Akute Abdomen --- Alarmzeichen mit Bretthartem Bauch}
+\subsection{Das Akute Abdomen --- Alarmzeichen mit Bretthartem Bauch}
 
 
 
@@ -6054,7 +5939,7 @@ Symptome:}
 \item Verwirrtheit, Schwindel, Apathie
 
 \end{itemize}
-\chapter{Urologische Notfälle}
+\section{Urologische Notfälle}
 {\mdseries\color[rgb]{0.0,0.0,0.5019608}
 Nierenkolik}
 
@@ -6246,7 +6131,7 @@ hochlagern}
 {\mdseries
 umgehende urologisch-chirurgische  Intervention (ad URO!!!)}
 
-\chapter{Schwangerschaft und geburtshilfliche Notfälle}
+\section{Schwangerschaft und geburtshilfliche Notfälle}
 {\mdseries\itshape
 Michael Withofner, Dr. med. univ.}
 
@@ -6889,7 +6774,7 @@ Therapie (ursachenunabhängig):}
 \item Gyn-Ambulanz
 
 \end{itemize}
-\chapter{Pädiatrie - Kinderheilkunde}
+\section{Pädiatrie - Kinderheilkunde}
 {\mdseries\itshape
 Michael Withofner, Dr. med. univ.}
 
@@ -7397,7 +7282,7 @@ ev. Vorwand f\"ur Hospitalisierung suchen}
 {\mdseries
 dem KH Verdacht vorsichtig mitteilen}
 
-\chapter{Psychiatrische Notfälle}
+\section{Psychiatrische Notfälle}
 {\mdseries\itshape
 Michael Withofner, Dr. med. univ.}
 
@@ -8000,7 +7885,7 @@ Notarztindikation}
 \item Transportverweigerung
 
 \end{itemize}
-\chapter{Systemische Hitzeschäden}
+\section{Systemische Hitzeschäden}
 {\mdseries
 Der menschliche Körper hält seine Kerntemperatur  im Normalfall
 zwischen 36,5{\textdegree}  und 37,5{\textdegree} C  konstant.
@@ -8180,7 +8065,7 @@ Schocklagerung u. -bekämpfung}
 Vitalparameter, O2, BZ}
 
 \end{itemize}
-\chapter{Unterk\"uhlung}
+\section{Unterk\"uhlung}
 {\mdseries
 \"Ahnlich wie beim Schock kommt es auch  bei der Unterk\"uhlung zur
 Zentralisation  des Blutes, um die  Körperkerntemperatur aufrecht
@@ -8243,7 +8128,7 @@ Bei Unterk\"uhlung gilt:}
 Schwer unterk\"uhlte Patienten können auch noch nach Stunden (!) ohne
 Kreislauftätigkeit erfolgreich reanimiert werden!}
 
-\chapter{Vergiftungen}
+\section{Vergiftungen}
 {\mdseries\itshape
 Michael Withofner, Dr. med. univ.}
 
@@ -9007,25 +8892,26 @@ NFS / Notarzt}
 Bei Reizgas / Stickgas immer auch nach  anderen bewu{\ss}tlosen Personen
 fragen /  suchen!!! (unter Eigenschutz!!!)}
 
-\part{[RS VII] Traumatologische Notfälle}
+\chapter{[RS VII] Traumatologische Notfälle}
 
-\part{[RS II] Hygiene }
+\chapter{[RS II] Hygiene }
 
-\part{[RS XI] Katastrophen, Gro{\ss}schadensereignisse,
+\chapter{[RS XI] Katastrophen, Gro{\ss}schadensereignisse,
 Gefahrengutunfall}
 
-\part{Fallbeispiele und Arbeitsaufgaben}
+\chapter{Fallbeispiele und Arbeitsaufgaben}
 
 \part{ILS: Notfallrettung Grundlagen}
 {\mdseries
 Entspricht SAN 3-2-1-Einschulung}
 
-\subsection{Anamnese und Untersuchung}
-\subsection{Megacodetraining}
-\subsection{MPG}
+\section{Anamnese und Untersuchung}
+\section{Megacodetraining}
+\section{MPG}
 \part{ILS: NFS-Aufbaumodul}
-\part{ILS: Arzneimittel}
-\part{ILS: Minimalinvasive Tätigkeiten und Behandlung}
+\part{ALS: Arzneimittel}
+\part{ALS: Minimalinvasive Tätigkeiten und Behandlung}
+\begin{appendix}
 \part{Glossar --- Begriffserklärungen}
 {\mdseries
 \label{bkm:LexComputertomographie}Computertomographie. Abk.: CT. }
@@ -9123,4 +9009,5 @@ AND THANKS FOR ALL THE FISH
 \section*[Literaturverzeichnis]{Literaturverzeichnis}
 fehlt
 \printindex
+\end{appendix}
 \end{document}

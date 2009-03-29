@@ -1,6 +1,6 @@
 % This file was converted to LaTeX by Writer2LaTeX ver. 0.5
 % see http://www.hj-gym.dk/~hj/writer2latex for more info
-\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big]{scrbook}
+\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=yes]{scrbook}
 \usepackage[latin1]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
@@ -9,6 +9,7 @@
 
 \usepackage{multicol}
 \usepackage{tabularx}
+\usepackage{tabulary}
 \usepackage{booktabs}
 \usepackage{soul}
 \usepackage{array}
@@ -51,7 +52,7 @@
 \usepackage{longtable}
 \usepackage{tabularx}
 \usepackage{boxedminipage}
-\usepackage{layout,geometry}
+\usepackage{layout,geometry,calc}
 
 \geometry{verbose,
 a4paper,
@@ -62,11 +63,11 @@ a4paper,
 outer=68mm,
 inner=20mm,
 top=30mm,
-bottom=17mm,
-marginparwidth=52mm
+bottom=20mm,
+marginparwidth=52mm,
 %headheight=0.5cm,
 %headsep=0.5cm,
-%footskip=0.5cm,
+footskip=10mm,
 %includehead,
 %includemp
 }
@@ -87,15 +88,28 @@ marginparwidth=52mm
 \addtokomafont{paragraph}{\large\sffamily\color{darkBlue}}
 \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 
+\setcounter{secnumdepth}{3}
+
 \usepackage{hyperref}
 \hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=blue, pagecolor=blue, urlcolor=blue}
 
 % User page numbering with chapter number in it
 \renewcommand{\thechapter}{\Alph{chapter}}
+\renewcommand{\thesubsubsection}{\thesubsection .\alph{subsubsection}}
 \usepackage{fancyhdr}
+
 \pagestyle{fancy}
+\fancyheadoffset[RO,LE]{\marginparsep+\marginparwidth}
+\fancyfootoffset[RO,LE]{\marginparsep+\marginparwidth}
 \fancyhead[LE,RO]{\thepage} 
-%\fancyhead[LE,RO]{\thepage} 
+%\fancyhead[LO]{}
+\fancyhead[LE]{\thepage --- \leftmark}
+\fancyhead[RE]{\gEs{\gAuthNotes{ --- ENTWURF --- }}}
+\fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF --- }}}
+\fancyhead[RO]{\rightmark --- \thepage}
+\fancyfoot[CE,CO]{\gEs{\gAuthNotes{ --- ENTWURF --- }}}
+\fancyfoot[LE]{} 
+\fancyfoot[RO]{} 
 
 \usepackage[noauto]{chappg}
 \makeatletter
@@ -204,7 +218,8 @@ marginparwidth=52mm
 
 \newenvironment{gCaveEnv}{\begin{boxedminipage}[t]{10cm} \sffamily}{\end{boxedminipage}}
 
-\newcommand{\gDefinition}[1]{{\mdseries\color{Terminus}\rmfamily\textit{{\bfseries{Definition: }#1}}}}
+\newcommand{\gDefinition}[1]{\vspace{5pt}{\mdseries\color{Terminus}\rmfamily\textit{{\bfseries{Definition:
+}}#1}}\vspace{5pt}}
 \newcommand{\gDraft}[1]{\textbf{\textcolor{red}{#1}}}
 %\newcommand{\gFazit}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
 \newcommand{\gFazit}[1]{\begin{boxedminipage}[t]{10cm}{\color{ubuntured}#1}\end{boxedminipage}}
@@ -270,9 +285,12 @@ vital bedrohten Patienten. Besonderheiten:}
 % \"Arztlichen Leitung und den \"ubergeordneten Gremien  entwickeln wir
 % Arbeitsstandards und Lehrmeinungen. ü 
 
-\setcounter{tocdepth}{2}
+% 2 Spalten, macht erst Sinn wenn Seite ohne Rand ist.
+%\begin{multicols}{2}
+\setcounter{tocdepth}{3}
 \renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
 \tableofcontents
+%\end{multicols}
 \setcounter{tocdepth}{10}
 \renewcommand\contentsname{Inhalt - Detail\"ubersicht}
 \tableofcontents
@@ -367,7 +385,8 @@ vital bedrohten Patienten. Besonderheiten:}
 \section{Index}
 \printindex
 
-\part{Basis --- \emph{Modul Rettungssanitäter}}
+\part[Basic Life Support (\emph{BLS}) --- \emph{Modul Rettungssanitäter}]{Basic
+Life Support (\emph{BLS}) \\ \emph{Modul Rettungssanitäter}}
 
 \chapter{Tätigkeitsbild und Orientierung}
 
@@ -2862,7 +2881,6 @@ einteilen
 
 	\item 
 	pulmonale Notfälle
-
 	\item 
 	Kreislaufstörungen
 
@@ -2924,50 +2942,33 @@ einteilen
 	\item[] 
 
 \end{description}
-\setchapterpreamble[u]{\dictum[Goethe]{Blut ist ein ganz
-besond'rer Saft.}}
+
 \section{Herz-Kreislaufstörungen}
 
-\label{bkm:RefHeading42342802}
-Der Herz-Kreislaufstillstand wird unter
+\dictum[Goethe]{Blut ist ein ganz besond'rer Saft.}
 
-besprochen.
+\label{bkm:RefHeading42342802}
+\marginline{Reanimation}Der Herz-Kreislaufstillstand wird unter
+\gAuthNotes{Verweis???} besprochen.
 
 \begin{itemize}
-	\item {\mdseries
-	Herz-/Kreislaufstillstand}
-
-	\item {\mdseries
-	Herzinsuffizienz}
-
-
+	\item Herz-/Kreislaufstillstand
+	\item Herzinsuffizienz
 	\begin{itemize}
 		\item Linksherz-Versagen
-
 		\item Rechtsherz-Versagen
-
 	\end{itemize}
-
 	\item (Akutes) Koronarsyndrom
-
 	\begin{itemize}
 		\item Angina pectoris
-
 		\item Myokardinfarkt (MCI )
-
 	\end{itemize}
-
 	\item Herzrhythmusst\"orungen
-
 	\item Hypertonie
-
 	\begin{itemize}
 		\item Hypertensive Krise
-
 		\item Hypertensiver Notfall
-
 	\end{itemize}
-
 \end{itemize}
 
 \subsection{Herzinsuffizienz}
@@ -3035,88 +3036,51 @@ Auto reanimationspflichtig werden.
 das Spital {\quotedblbase}um{\textquotesingle}s Eck{\textquotedblleft}
 ist.}
 
-\subparagraph*{
-Symptome einer Linksherzinsuffizienz}
+\paragraph*{Symptome einer Linksherzinsuffizienz}
 
 \begin{itemize}
     \item {\mdseries
     \gEs{Dyspnoe} !}
     
+    \begin{itemize}
+        \item Orthopnoe: Patient bekommt nur mehr im Sitzen Luft, kann nicht flach
+        schlafen, etc.
+    \end{itemize}
+    \item \gEs{Tachypnoe}
+    \item \gEs{Tachykardie}
+    \item \gEs{Hustenreiz} !
+    \item Unruhe
+    \item \gEs{Hypotonie} !
+    \item \gEs{Lungenstauung/Lungen\"odem} (Blut staut sich
+    zur\"uck in den Lungenkreislauf)
+\end{itemize}
+
+
+\begin{gMassnahmenEnv}
+    \minisec{Spezielle Ma{\ss}nahmen}
+    
+    \gTxBeiVit \gTxMassVitBes
     
     \begin{itemize}
-        \item 
-        Orthopnoe: Patient bekommt nur mehr im Sitzen Luft, kann nicht flach
-        schlafen, etc.
-        
+        \item Lagerung: Oberk\"orper hoch
+        \item $O_2$ 10~l, bei Bedarf bis zu 15~l
+        \item Ursachenforschung
     \end{itemize}
     
-    \item 
-    \gEs{Tachypnoe}
+    sonst:
     
-    \item 
-    \gEs{Tachykardie} 
-    
-    \item 
-    \gEs{Hustenreiz} !
-    
-    \item 
-    Unruhe
-    
-    \item 
-    \gEs{Hypotonie} !
-    
-    \item 
-    \gEs{Lungenstauung/Lungen\"odem} (Blut staut sich
-    zur\"uck in den Lungenkreislauf)
-    
-\end{itemize}
-
-
-\gMassnahmen{
-\subparagraph*{Spezielle Ma{\ss}nahmen beim vital bedrohten Patienten}
-
-\begin{itemize}
-	\item {\color[rgb]{0.0,0.0,0.5019608}
-	Lagerung: Oberk\"orper hoch}
-
-	\item {\color[rgb]{0.0,0.0,0.5019608}
-	$O_2$ 10~l, bei Bedarf bis zu 15~l}
-
-	\item {\color[rgb]{0.0,0.0,0.5019608}
-	Notarzt}
-
-	\item {\color[rgb]{0.0,0.0,0.5019608}
-	Reanimationsbereitschaft}
-
-	\item {\color[rgb]{0.0,0.0,0.5019608}
-	Vitalwerte erheben \& Monitoring }
-
-	\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-	Ursachenforschung}
-
-\end{itemize}
-\subparagraph*{
-Spezielle Ma{\ss}nahmen bei nicht vital bedrohten Patienten}
-
-\begin{itemize}
-	\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-	Lagerung: Oberk\"orper hoch}
-
-	\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-	$O_2$ je nach Symptomen 6-8~l, bei Bedarf bis zu 15~l}
-
-	\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-	Vitalwerte erheben \& Monitoring }
-
-\end{itemize}
-}
+    \begin{itemize}
+        \item Lagerung: Oberk\"orper hoch
+        \item $O_2$ je nach Symptomen 6-8~l, bei Bedarf bis zu 15~l
+        \item Vitalwerte erheben \& Monitoring
+    \end{itemize}
+\end{gMassnahmenEnv}
 
 \subsubsection*{Rechtsherzinsuffizienz}
 Die Rechtsherzinsuffizienz entsteht aufgrund mangelnder Auswurfleistung
 des rechten Herzens. 
 
-\subparagraph*{
-Symtome}
+\subparagraph*{Symtome}
 
 \begin{center}
 	\begin{figure}
@@ -3126,63 +3090,36 @@ Symtome}
 \end{center}
 
 \begin{itemize}
-	\item {\mdseries
-	\gEs{Bein-}/\gEs{Haut\"odeme}}
-
-	\item {\mdseries
-	Nächtliches Wasserlassen}
-
-	\item 
-	\gEs{gestaute Halsvenen} 
-
-
-	\item {\mdseries
-	Lebervergr\"o{\ss}erung, evt. mit Aszites
-	({\quotedblbase}Wasserbauch{\textquotedblleft})}
-
+	\item \gEs{Bein-}/\gEs{Haut\"odeme}
+	\item Nächtliches Wasserlassen
+	\item \gEs{gestaute Halsvenen} 
+	\item Lebervergr\"o{\ss}erung, evt. mit Aszites
+	({\quotedblbase}Wasserbauch{\textquotedblleft})
 \end{itemize}
 
-\gMassnahmen{
-\subparagraph*{
-Spezielle Ma{\ss}nahmen beim vital bedrohten Patienten}
-
-\begin{itemize}
-  \item {\color[rgb]{0.0,0.0,0.5019608}
-  Erstma{\ss}nahmen bei vital bedrohten Patienten: }
-  
-\end{itemize}
-\begin{itemize}
-  \item {\color[rgb]{0.0,0.0,0.5019608}
-  Lagerung: Oberk\"orper hoch}
-  
-  \item {\color[rgb]{0.0,0.0,0.5019608}
-  $O_2$ 10~l, bei Bedarf bis zu 15~l}
-  
-  \item {\color[rgb]{0.0,0.0,0.5019608}
-  Notarzt}
-  
-  \item {\color[rgb]{0.0,0.0,0.5019608}
-  Reanimationsbereitschaft}
-  
-  \item {\color[rgb]{0.0,0.0,0.5019608}
-  Vitalwerte erheben \& Monitoring }
-  
-\end{itemize}
-\begin{itemize}
-  \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-  Ursachenforschung}
-  
-\end{itemize}
-
-\subparagraph*{Spezielle Ma{\ss}nahmen bei nicht vital bedrohten Patienten}
-
-\begin{itemize}
-    \item Lagerung: Oberk\"orper hoch
-    \item $O_2$ je nach Symptomen 6-8~l, bei Bedarf bis zu 15~l
-    \item Vitalwerte erheben \& Monitoring 
-\end{itemize}
-
-} %\gMassnahmen
+\begin{gMassnahmenEnv}
+    
+    \paragraph{Spezielle Ma{\ss}nahmen}
+    
+    \gTxBeiVit \gTxMassVitBes
+    \begin{itemize}
+        \item Lagerung: Oberk\"orper hoch
+        \item $O_2$ 10~l, bei Bedarf bis zu 15~l
+    \end{itemize}
+    
+    sonst:
+    \begin{itemize}
+        \item Lagerung: Oberk\"orper hoch
+        \item $O_2$ je nach Symptomen 6-8~l, bei Bedarf bis zu 15~l
+        \item Vitalwerte erheben \& Monitoring
+    \end{itemize}
+    
+    weiters:
+    \begin{itemize}
+        \item Ursachenforschung
+    \end{itemize}
+    
+\end{gMassnahmenEnv}
 
 \subsection{Koronare Herzkrankheit und Akutes Koronarsyndrom}
 
@@ -3208,14 +3145,10 @@ einer Unter\-ver\-sorgung des Herzmuskels mit sauerstoffreichen Blut.
 Der Anfall vergeht wieder von selbst ohne bleibende Schäden.}
 
 \begin{itemize}
-	\item {\mdseries
-	Minderdurchblutung des Herzmuskels (Myokard) aufgrund einer oder
+	\item Minderdurchblutung des Herzmuskels (Myokard) aufgrund einer oder
 	mehrerer Eineingung(en) von Herzkranzgefä{\ss}ren (Koronararterien)
-	oder}
-
-	\item {\mdseries
-	Erh\"ohter Sauerstoffbedarf des Herzens bei Anstregung}
-
+	oder
+	\item Erh\"ohter Sauerstoffbedarf des Herzens bei Anstregung
 \end{itemize}
 {\mdseries
 ${\rightarrow}$ Mi{\ss}verhältnis Sauerstoffangebot - 
@@ -3237,9 +3170,6 @@ des Herzmuskels und zu den Symptomen der Angina pectoris (oder zu einem
 Herzinfarkt). 
 
 
-
-
-
 \begin{center}
  [Warning: Image ignored] {AASdev20090228-img72.png}
 \captionof{figure}[Patient mit einem akuten Koronarsyndrom, vermutlich
@@ -3252,29 +3182,15 @@ im Brustkorb und ein stechender Schmerz im linken Thorax.}
 
 \end{center}
 
-\subparagraph*{
-Symptome}
+\paragraph{Symptome}
 
 \begin{itemize}
-	\item {\mdseries
-	Brustschmerz mit Ausstrahlung}
-
-	\item {\mdseries
-	Todesangst}
-
-	\item {\mdseries
-	Schwächegef\"uhl}
-
-	\item {\mdseries
-	Dyspnoe}
-
-	\item {\mdseries
-	primär \gEs{nicht sicher von MCI unterscheidbar} }
-
-	\item {\mdseries
-	Symptome treten eher bei Belastung auf und vergehen oft bei Entspannung.
-	}
-
+	\item Brustschmerz mit Ausstrahlung
+	\item Todesangst
+	\item Schwächegef\"uhl
+	\item Dyspnoe
+	\item primär \gEs{nicht sicher von MCI unterscheidbar} 
+	\item Symptome treten eher bei Belastung auf und vergehen oft bei Entspannung.
 \end{itemize}
 
 \begin{center}
@@ -3477,7 +3393,7 @@ Herzrhythmusst\"orungen }
 \begin{table}[h]
 \captionabove{Wichtige und häufige Herzrhythmusstörungen}
 \label{tab:herzrhythmusstoerungen}
-\begin{tabularx}{13cm}{XXX}
+\begin{tabulary}{\textwidth}{LLL}
 \toprule
 Rhythmus & Bedeutung & Bemerkung
 \\\midrule
@@ -3508,7 +3424,7 @@ deshalb Therapie mit gerinnungs\-hemmenden
 z.B. \gE{"`Marcoumar"'} ${\rightarrow}$ Patient ist blutungsgefährdet
 
 \\\bottomrule
-\end{tabularx}
+\end{tabulary}
 \end{table}
 \end{center}
 
@@ -4621,10 +4537,10 @@ Einer der häufigsten Erreger sind die Meningokokken, man spricht dann von einer 
 
 \begin{figure}[h]\label{fig:meningitis-baby}
 \includegraphics[width=4cm]{./images/meningitis-kind-waterhouse.png}
-\caption{Endstadium einer bakteriellen Meningitis. Die
+\begin{captionbeside}{Endstadium einer bakteriellen Meningitis. Die
 Flecken auf der Haut sind Blutungen in Folge einer nicht mehr
 funktionierenden Blutgerinnung. Der Tod ist bei diesem Patienten
-innerhalb weniger Stunden zu erwarten.}
+innerhalb weniger Stunden zu erwarten.\newline \emph{Quelle: unbekannt}}\end{captionbeside}
 \end{figure}
 
 
@@ -4733,7 +4649,7 @@ selber miterlebt als Status-Verdächtig.}
             \item Patient vor Verletzungen sch\"utzen
             \item Möbel etc. entfernen oder polstern
             \item NICHT festhalten -- aber sichern, Eigenschutz
-            beachten!\marginlabel{\textbf{Sichern}: Patient darf nicht von der
+            beachten!\footnote{\textbf{Sichern}: Patient darf nicht von der
             Trage oder aus dem Bett fallen, der Kopf darf nicht am Boden oder Tischbein anschlagen, etc.}
         \end{itemize}
     \end{itemize}
@@ -5170,6 +5086,12 @@ Therapie}
 \item O2
 
 \end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Abdomen                                             %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \section{Abdominelle Notfälle}
 
 Der Bauch ist eine echte Herausforderung. 
@@ -5180,39 +5102,17 @@ gefährlich werden.
 
 Es ist daher wichtig typische Symptome zu erheben und Alarmzeichen sofort zu erkennen.
 
-\subsection{Das Akute Abdomen --- Alarmzeichen mit Bretthartem Bauch}
+\subsection{Der schmerzende Bauch}
+
+\subsection{Häufige und gut erkennbare Erkrankungen}
+
+
+\subsubsection{Das Akute Abdomen --- Alarmzeichen mit Bretthartem Bauch}
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\gT{Akutes Abdomen}: Zustand mit plötzlichen, stark schmerzhaften Bauchschmerzen und brettharten Bauch, es sind viele Ursachen  möglich!
+\gDefinition{\gT{Akutes Abdomen}: Zustand mit plötzlichen, stark schmerzhaften
+Bauchschmerzen und brettharten Bauch, es sind viele Ursachen  möglich!}
 
 ferner: 
 
@@ -5373,47 +5273,9 @@ Dehydratation, Exsikkose}
 {\mdseries
 Schmerzcharakter}
 
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Peritonitis}
+\subsubsection{Darmverschluß -- Ileus}\index{Ileus}
 
-{\mdseries
-\gT{Peritonitis}: Entz\"undung und Keimbesiedelung des 
-Bauchfells}
-
-\subparagraph*{
-Ursache}
-
-\begin{itemize}
-\item {\mdseries
-Perforation eines Hohlorganes  (Magendurchbruch etc.)}
-
-\item {\mdseries
-Infektion \"uber Blut- / Lymphwege}
-
-\end{itemize}
-\subparagraph*{
-Symptome}
-
-\begin{itemize}
-\item {\mdseries
-Schmerzen (diffus)}
-
-\item {\mdseries
-{\quotedblbase}Totenstille{\textquotedblleft} (Peristaltik,
-reflektorischer Ileus )}
-
-\item {\mdseries
-Abwehrspannung (D\'efense musculaire )}
-
-\item {\mdseries
-ev. Sepsiszeichen!}
-
-\end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-\index{Ileus}Ileus}
-
-{\mdseries
-Unterbrechung der normalen  Darmpassage}
+Unterbrechung der normalen  Darmpassage
 
 {\mdseries
 \index{Ileus}\gT{Ileus}  (vollständig)}
@@ -5449,13 +5311,16 @@ Stuhlverhalten}
 keine (paralytisch ) oder spritzende  (mechanisch ) Darmgeräusche}
 
 \end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Appendizitis}
 
-{\mdseries
-Entz\"undung des \gEs{Wurmfortsatzes}
-(\gEs{Appendix} \gZ{vermiformis})
-des Blinddarms}
+
+
+
+\subsubsection{Blinddarmentzündung -- Appendizitis}
+
+
+
+Entz\"undung des \gEs{Wurmfortsatzes} (\gEs{Appendix} \gZ{vermiformis})
+des Blinddarms
 
 \subparagraph*{
 Symptome}
@@ -5483,8 +5348,196 @@ Losla{\ss}schmerz li. Bauch}
 schmerzhafter McBurney-Punkt}
 
 \end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Pankreatitis}
+
+
+
+
+\subsubsection{Gallenkolik}
+
+{\mdseries
+Abflu{\ss}stau der Gallenwege}
+
+{\mdseries
+R\"uckstau}
+
+{\mdseries
+Gallenblase kontrahiert gegen Widerstand  (meist Stein)}
+
+\subparagraph*{
+Symptome}
+
+\begin{itemize}
+\item krampfartige Schmerzen re. Oberbauch
+
+\item Erbrechen nach fettreichen Mahlzeiten
+
+\item ev. Gelbsucht (Ikterus )
+
+\end{itemize}
+
+
+
+\subsubsection{\"Osophagusvarizenblutung}
+
+{\mdseries
+{\quotedblbase}Krampfadern in der Speiseröhre{\textquotedblleft}}
+
+{\mdseries
+bei Lebererkrankungen 
+({\quotedblbase}Umgehungskreislauf{\textquotedblleft})}
+
+{\mdseries
+schlechte Blutgerinnung}
+
+{\mdseries
+Lebensgefahr (hoher Blutverlust  möglich)}
+
+\subparagraph*{
+Symptome}
+
+\begin{itemize}
+\item Bluterbrechen im Schwall (Hämatemesis)
+
+\item Grunderkrankung:
+
+\item Leberzirrhose
+
+\item Ikterus
+
+\end{itemize}
+\subparagraph*{
+Therapie}
+
+\begin{itemize}
+\item Notarzt: Sengstaken-Blakemore-Sonde
+
+\item Spital: Ligatur (chirurgisch)
+
+\end{itemize}
+
+
+
+\subsubsection{Magen-Darm-Grippe -- Gastroenteritis}
+
+{\mdseries
+Brechdurchfall}
+
+\subparagraph*{
+Ursachen:}
+
+{\mdseries
+Vielfältig}
+
+\subparagraph*{
+Symptome:}
+
+\begin{itemize}
+\item {\mdseries
+Erbrechen (Emesis )}
+
+\item {\mdseries
+Durchfall (Diarrhoe )}
+
+\item {\mdseries
+Wasser-/Elektrolytverlust}
+
+\end{itemize}
+\subparagraph*{
+besonders gefährdet:}
+
+\begin{itemize}
+\item {\mdseries
+Kinder}
+
+\item {\mdseries
+alte Menschen}
+
+\end{itemize}
+{\centering\color{black}
+Exsikkose-Gefahr!
+\par}
+
+
+
+
+\subsubsection{Flüssigkeitsmangel -- Exsikkose}
+Dehydratation, syn. Exsikkose
+
+\paragraph{Ursachen}
+
+\begin{itemize}
+\item {\color{black}
+Fl\"ussigkeitszufuhr ${\downarrow}$}
+
+\item Fl\"ussigkeitsverlust ${\uparrow}$
+
+\item forcierte Diurese  (Entwässerungsmedikamente)
+
+\item starkes Schwitzen
+
+\end{itemize}
+\subparagraph*{
+Symptome:}
+
+\begin{itemize}
+\item RR ${\downarrow}$
+\item stehende Hautfalten
+\item trockene, belegte Zunge
+\item Elektrolytentgleisung
+\item Verwirrtheit, Schwindel, Apathie
+\end{itemize}
+
+\subsection{Weniger häufige oder nicht-so-gut-erkennbare Erkrankungen}
+
+
+
+\subsubsection{Bauchaortenaneurysma}
+
+{\mdseries
+Zerrei{\ss}ung der Bauchaorta / Platzen  einer Aussackung
+(Schwachstelle)}
+
+\subparagraph*{
+Symptome:}
+
+{\mdseries
+heftigste Schmerzen
+({\quotedblbase}Vernichtungsschmerz{\textquotedblleft})}
+
+{\mdseries
+tastbare pulsierende Schwellung}
+
+{\mdseries
+herznah ${\rightarrow}$ hoher Blutverlust ${\rightarrow}$ schnell im 
+Schock! }
+
+{\mdseries
+Mesenterialinfarkt}
+
+{\mdseries
+Infarkt im Bereich des Darmgekröses}
+
+{\mdseries
+Zelluntergang}
+
+{\mdseries
+Blutung}
+
+{\mdseries
+Austritt von Speisebrei in die freie Bauchhöhle  ={\textgreater}}
+
+{\mdseries
+zusätzlich Peritonitis}
+
+\subparagraph*{
+Symptome}
+
+{\mdseries
+plötzliche starke Bauchschmerzen, lassen ev.  wieder nach}
+
+
+
+\subsubsection{Pankreatitis}
 
 {\mdseries
 Entz\"undung der Bauchspeicheldr\"use  (akut/chronisch)}
@@ -5547,117 +5600,14 @@ Schmerzen (Oberbauch), \"Ubelkeit, Erbrechen}
 bei Blutung: Kaffesatz-Erbrechen,  Teerstuhl}
 
 \end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Gallenkolik}
 
-{\mdseries
-Abflu{\ss}stau der Gallenwege}
 
-{\mdseries
-R\"uckstau}
 
-{\mdseries
-Gallenblase kontrahiert gegen Widerstand  (meist Stein)}
+\subsubsection{Hepatitis}
 
-\subparagraph*{
-Symptome}
+Entz\"undung der Leber
 
-\begin{itemize}
-\item krampfartige Schmerzen re. Oberbauch
-
-\item Erbrechen nach fettreichen Mahlzeiten
-
-\item ev. Gelbsucht (Ikterus )
-
-\end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Bauchaortenaneurysma}
-
-{\mdseries
-Zerrei{\ss}ung der Bauchaorta / Platzen  einer Aussackung
-(Schwachstelle)}
-
-\subparagraph*{
-Symptome:}
-
-{\mdseries
-heftigste Schmerzen
-({\quotedblbase}Vernichtungsschmerz{\textquotedblleft})}
-
-{\mdseries
-tastbare pulsierende Schwellung}
-
-{\mdseries
-herznah ${\rightarrow}$ hoher Blutverlust ${\rightarrow}$ schnell im 
-Schock! }
-
-{\mdseries
-Mesenterialinfarkt}
-
-{\mdseries
-Infarkt im Bereich des Darmgekröses}
-
-{\mdseries
-Zelluntergang}
-
-{\mdseries
-Blutung}
-
-{\mdseries
-Austritt von Speisebrei in die freie Bauchhöhle  ={\textgreater}}
-
-{\mdseries
-zusätzlich Peritonitis}
-
-\subparagraph*{
-Symptome}
-
-{\mdseries
-plötzliche starke Bauchschmerzen, lassen ev.  wieder nach}
-
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-\"Osophagusvarizenblutung}
-
-{\mdseries
-{\quotedblbase}Krampfadern in der Speiseröhre{\textquotedblleft}}
-
-{\mdseries
-bei Lebererkrankungen 
-({\quotedblbase}Umgehungskreislauf{\textquotedblleft})}
-
-{\mdseries
-schlechte Blutgerinnung}
-
-{\mdseries
-Lebensgefahr (hoher Blutverlust  möglich)}
-
-\subparagraph*{
-Symptome}
-
-\begin{itemize}
-\item Bluterbrechen im Schwall (Hämatemesis)
-
-\item Grunderkrankung:
-
-\item Leberzirrhose
-
-\item Ikterus
-
-\end{itemize}
-\subparagraph*{
-Therapie}
-
-\begin{itemize}
-\item Notarzt: Sengstaken-Blakemore-Sonde
-
-\item Spital: Ligatur (chirurgisch)
-
-\end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Hepatitis}
-
-{\mdseries
-Entz\"undung der Leber}
+Die Hepatitis wird im Kapitel Hygiene weiter ausgeführt.
 
 \subparagraph*{
 Ursachen:}
@@ -5742,82 +5692,57 @@ Ausheilung}
 {\mdseries
 Chronifizierung...Leberzirrhose}
 
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Gastroenteritis}
 
-{\mdseries
-Brechdurchfall}
 
-\subparagraph*{
-Ursachen:}
 
-{\mdseries
-Vielfältig}
+\subsubsection{Peritonitis}
 
-\subparagraph*{
-Symptome:}
+\gT{Peritonitis}: Entz\"undung und Keimbesiedelung des 
+Bauchfells
+
+\subparagraph*{Ursache}
 
 \begin{itemize}
 \item {\mdseries
-Erbrechen (Emesis )}
+Perforation eines Hohlorganes  (Magendurchbruch etc.)}
 
 \item {\mdseries
-Durchfall (Diarrhoe )}
-
-\item {\mdseries
-Wasser-/Elektrolytverlust}
+Infektion \"uber Blut- / Lymphwege}
 
 \end{itemize}
 \subparagraph*{
-besonders gefährdet:}
+Symptome}
 
 \begin{itemize}
 \item {\mdseries
-Kinder}
+Schmerzen (diffus)}
 
 \item {\mdseries
-alte Menschen}
+{\quotedblbase}Totenstille{\textquotedblleft} (Peristaltik,
+reflektorischer Ileus )}
+
+\item {\mdseries
+Abwehrspannung (D\'efense musculaire )}
+
+\item {\mdseries
+ev. Sepsiszeichen!}
 
 \end{itemize}
-{\centering\color{black}
-Exsikkose-Gefahr!
-\par}
 
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Dehydratation, syn. Exsikkose}
+\gZ{
+\subsection{Sonstige -- nicht akute -- Erkrankungen}
+\subsubsection{Chronisch entzündliche Darmerkrankungen}
+}
 
-{\mdseries
-Ursachen:}
 
-\begin{itemize}
-\item {\color{black}
-Fl\"ussigkeitszufuhr ${\downarrow}$}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\item Fl\"ussigkeitsverlust ${\uparrow}$
-
-\item forcierte Diurese  (Entwässerungsmedikamente)
-
-\item starkes Schwitzen
-
-\end{itemize}
-\subparagraph*{
-Symptome:}
-
-\begin{itemize}
-\item RR ${\downarrow}$
-
-\item stehende Hautfalten
-
-\item trockene, belegte Zunge
-
-\item Elektrolytentgleisung
-
-\item Verwirrtheit, Schwindel, Apathie
-
-\end{itemize}
 \section{Urologische Notfälle}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Nierenkolik}
+
+
+\subsection{Nierenkolik}
 
 \subparagraph*{
 Ursache}
@@ -5859,8 +5784,11 @@ schonender Transport}
 unerträgliche Schmerzen ={\textgreater} Notarzt}
 
 \end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Akutes Harnverhalten}
+
+
+
+
+\subsection{Akutes Harnverhalten}
 
 {\mdseries
 Abflu{\ss}behinderung der Harnblase}
@@ -5902,8 +5830,10 @@ Z\"ugiger Transport in eine Urologische Ambulanz}
 Blasenpunktion (Spital)}}
 
 \end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Niereninsuffizienz}
+
+
+
+\subsection{Niereninsuffizienz und Nierenversagen}
 
 {\mdseries
 Nierenschädigung ={\textgreater}  Funktionseinschränkung}
@@ -5977,8 +5907,11 @@ Dialyse}
 {\mdseries
 Nierentransplantation (NTX )}
 
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Hodentorsion}
+
+
+
+
+\subsection{Hodentorsion}
 
 {\mdseries
 Verdrehung eine Hodens im Hodensack  ={\textgreater}}
@@ -6011,8 +5944,7 @@ umgehende urologisch-chirurgische  Intervention (ad URO!!!)}
 {\mdseries\itshape
 Michael Withofner, Dr. med. univ.}
 
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Weiblicher Zyklus}
+\subsection{Weiblicher Zyklus}
 
 {\mdseries
 Dauer: 28 Tage}
@@ -6038,29 +5970,21 @@ Gelbkörperphase (Hormon: Progesteron )}
 {\mdseries\color[rgb]{0.0,0.0,0.5019608}
 Schwangerschaft (Gestation)}
 
-{\mdseries
-Eizelle:}
+Eizelle:
 
-{\mdseries
-8-10 Std. nach Eisprung befruchtungsfähig}
+8-10 Std. nach Eisprung befruchtungsfähig
 
-{\mdseries
-benötigt 4-6 Tage f\"ur Wanderung Eierstock- Eileiter-Uterus}
+benötigt 4-6 Tage f\"ur Wanderung Eierstock- Eileiter-Uterus
 
-{\mdseries
-befruchtet ={\textgreater} Einnistung}
+befruchtet ={\textgreater} Einnistung
 
-{\mdseries
-Placenta bildet sich: }
+Placenta bildet sich: 
 
-{\mdseries
-Nährstoff- / O2 -Versorgung des Fetus}
+Nährstoff- / O2 -Versorgung des Fetus
 
-{\mdseries
-Hormon: ${\beta}$-HCG (in Blut und Urin der Mutter nachweisbar)}
+Hormon: ${\beta}$-HCG (in Blut und Urin der Mutter nachweisbar)
 
-\subparagraph*{
-Schwangerschaft - Verlauf}
+\subparagraph*{Schwangerschaft -- Verlauf}
 
 {\mdseries
 \gT{Embryo} : Frucht bis zur 12. SSW}
@@ -6078,48 +6002,38 @@ Lungenreife: ca. ab 26. SSW }
 Ab der \gEs{SSW ~24} ist das Kind theoretisch
 \"uberlebensfähig (und ggfs. reanimationsplflichtig).}
 
-\subparagraph*{
-normale Schwangerschaftsdauer:}
+\subparagraph*{Normale Schwangerschaftsdauer} Die normale Schwangerschaft
+dauert \gEs{38-42 Wochen}, das sind rund Kalendermonate oder 10
+Lunarmonate\footnote{\gZ{lat. luna: Mond. Eine Mondphase hat 28 Tage.}} Der
+Fortschritt der Schwangerschaft wird in \gE{Schwangerschaftswochen}, Abk. SSW,
+angegeben.
 
-{\mdseries
-38-42 Wochen}
+Die Schwangerschaft wird in 3 Drittel unterteilt, welche
+\gT{Trimenon}\index{Trimenon} heißen.
 
-{\mdseries
-9 (Kalender-)Monate}
+Von einer \gEs{Fr\"uhgeburt} spricht man wenn die Geburt bis zur vollendeten 37.
+SSW erfolgt.
 
-{\mdseries
-10 Lunarmonate}
 
-{\mdseries
-3 Schwangerschaftsdrittel (Trimenon )}
 
-{\mdseries
-Fr\"uhgeburt: bis zur vollendeten 37. SSW}
 
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Geburt }
 
-\subparagraph*{
-Verlauf}
+\subsection{Geburt}
 
-{\mdseries
-3 Phasen:}
+\subparagraph*{Verlauf}
+
+3 Phasen:
 
 \begin{center}
-\begin{tabular}{|m{3.12cm}|m{8.7890005cm}|m{1.1919999cm}|}
-\hline
-\centering {\bfseries\upshape\color[rgb]{0.0,0.0,0.5019608} Phase}\par
-
+\begin{tabulary}{13cm}{LLL}
+\toprule
+Phase
  &
-\centering {\bfseries\upshape\color[rgb]{0.0,0.0,0.5019608}
-Beschreibung}\par
-
+Beschreibung
  &
-\centering {\bfseries\upshape\color[rgb]{0.0,0.0,0.5019608} Wehen}\par
-
-\\\hline
-\subparagraph*{ Eröffnungsphase}
-
+Wehen
+\\\midrule
+Eröffnungsphase
  &
 {\mdseries Eröffnungswehen}
 
@@ -6132,13 +6046,10 @@ Beschreibung}\par
 Gefahr eines  \gEs{Nabelschnurvorfalls}!! }
 
 {\mdseries Kindskopf tritt in Geburtskanal ein}
-
  &
-\centering 10-15 min.\par
-
+10-15 min.
 \\\hline
-\subparagraph*{ Austreibungsphase}
-
+Austreibungsphase
  &
 {\mdseries Pre{\ss}wehen}
 
@@ -6160,27 +6071,24 @@ ${\rightarrow}$  auffangen!}
 
 {\mdseries absaugen ${\rightarrow}$ abnabeln ${\rightarrow}$ warm
 einpacken ${\rightarrow}$ der Mutter auf die Brust legen}
-
- &
-\centering 2-3 min.\par
-
+&
+2-3 min.
 \\\hline
-\subparagraph*{ Nachgeburtsphase}
-
+Nachgeburtsphase
  &
 {\mdseries Placenta als Nachgeburt}
 
 {\mdseries nach 10-20 min. neuerliche Wehen}
 
 {\mdseries Geburt der Placenta  (Nachgeburt,  Mutterkuchen)}
-
  &
-\\\hline
-\end{tabular}
+\\\bottomrule
+\end{tabulary}
 \end{center}
+
+
 \subparagraph{Neugeborenes - Vitalitätsbeurteilung}
-\subparagraph*{
-APGAR-Score}
+\subparagraph*{APGAR-Score}
 
 \begin{enumerate}
 \item A ussehen
@@ -6197,10 +6105,9 @@ APGAR-Score}
 {\mdseries
 je 0-2 Pkt., jeweils nach 1min/5min/10min}
 
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Notfälle - Fr\"uhschwangerschaft}
+\subsection{Notfälle - Fr\"uhschwangerschaft}
 
-\paragraph{Eileiterschwangerschaft (Tubaria )}
+\subsubsection{Eileiterschwangerschaft -- Tubaria}
 {\mdseries
 Fehlgeburt (Abortus )}
 
@@ -6226,7 +6133,7 @@ Blutung, Schmerz, akutes Abdomen, Schock}
 ${\rightarrow}$ Bei Frauen mit akutem Abdomen immer nach möglicher
 Schwangerschaft fragen!}
 
-\paragraph{Abortus}
+\subsubsection{Abortus}
 {\mdseries
 Beendigung einer Schwangerschaft vor Beendigung der 28.SSW}
 
@@ -6274,10 +6181,11 @@ NAW}
 direkt Gyn}
 
 \end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Notfälle - Spätschwangerschaft}
 
-\paragraph{Vorzeitige Plazentalösung}
+
+\subsection{Notfälle -- Spätschwangerschaft}
+
+\subsubsection{Vorzeitige Plazentalösung}
 {\mdseries
 Aufgrund einer Einblutung zwischen Plazenta und Gebärmutter kann es zu
 einer vorzeitigen Ablösung der Plazenta mit dann ungehinderter
@@ -6298,8 +6206,7 @@ Die Diagnose ist durch en Sanitäter nicht sicher zu stellen. Im
 Vordergrund steht daher die Behandlung der Symptome (Schock) und ein
 z\"ugiger Transport. }
 
-\subparagraph*{
-Symptome}
+\subparagraph*{Symptome}
 
 \begin{itemize}
 \item {\mdseries
@@ -6314,8 +6221,7 @@ Schock}
 akutes Abdomen}
 
 \end{itemize}
-\subparagraph*{
-Therapie}
+\subparagraph*{Therapie}
 
 \begin{itemize}
 \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
@@ -6331,21 +6237,20 @@ keine vaginale Untersuchung /  Scheidentamponade}
 Z\"ugiger Transport mit Voranmeldung}
 
 \end{itemize}
-\paragraph{Vena-cava-Syndrom}
-{\mdseries
+\subsubsection{Vena-cava-Syndrom}
+
 Es kann vorkommen dass das \gEs{Kind die untere
 Hohlvene der Mutter abdr\"uckt}. Dadurch wird der Blutstrom zum Herzen
 vermindert und es kann zu einem \gEs{plötzlichen
 Kollaps der Mutter }und einer Unterversorung des Kindes kommen. Die
 Therapie besteht in einer Linksseitenlagerung, da die Hohlvene eher
-rechts der Körpermitte verläuft. }
+rechts der Körpermitte verläuft. 
 
 {\mdseries
 \gEs{Jede hochschwangere Pateintin }sollte daher in
 Linksseitenlage und nicht in R\"uckenlage transportiert werden. }
 
-\subparagraph*{
-Ma{\ss}nahmen}
+\subparagraph*{Ma{\ss}nahmen}
 
 \begin{itemize}
 \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
@@ -6415,8 +6320,7 @@ Neugeborenes atmet nicht (Asphyxie )}
 {\mdseries
 Plazenta löst sich nicht}
 
-\paragraph[Vorzeitiger \ Fruchtwasserabgang]{Vorzeitiger 
-Fruchtwasserabgang}
+\subsubsection{Vorzeitiger Fruchtwasserabgang}
 {\mdseries
 Fetus schwimmt während  Schwangerschaft in steriler Fl\"ussigkeit 
 (Fruchtwasser)}
@@ -6444,8 +6348,9 @@ Becken erhöht lagern (Schwerkraft verzögert  Geburt)}
 Nicht mehr aufstehen lassen! Liegender Transport!}
 
 \end{itemize}
-{\mdseries
-Notfälle - Nabelschnurvorfall}
+
+
+\subsubsection{Notfälle - Nabelschnurvorfall}
 
 \subparagraph*{
 Gefahren:}
@@ -6514,8 +6419,7 @@ Beckenendlage}
 {\mdseries
 Armvorfall}
 
-\subparagraph*{
-Gefahr}
+\subparagraph*{Gefahr}
 
 {\mdseries
 Abdr\"ucken der Nabelschnur}
@@ -6529,7 +6433,7 @@ Geburt nur im KH durchf\"uhrbar (Sectio- Bereitschaft!)}
 {\mdseries
 In jedem Fall Geburt  verhindern/hinauszögern!!!}
 
-\paragraph{Notfälle - Uterusatonie}
+\subsubsection{Notfälle - Uterusatonie}
 {\mdseries
 normalerweise zieht sich in der  Nachgeburtsphase die Uterusmuskulatur 
 zusammen}
@@ -6559,7 +6463,9 @@ Blutungsverminderung}
 Z\"ugiger Transport mit Voranmeldung}
 
 \end{itemize}
-\paragraph{Uterusruptur}
+
+
+\subsubsection{Uterusruptur}
 {\mdseries
 plötzlicher Schmerz während Wehen,  dann keine Wehen mehr
 ${\rightarrow}$ Geburtsstop}
@@ -6603,7 +6509,7 @@ O2}
 {\mdseries
 Reanimation, Notarzt}
 
-\paragraph{Plazenta löst sich nicht}
+\subsubsection{Plazenta löst sich nicht}
 {\mdseries
 Plazenta ist in die Uterusmuskulatur  eingewachsen (pathologisch) und
 wird nicht nach einer halben Stunde nach Kindsgeburt geboren. }
@@ -6628,7 +6534,9 @@ sterile Vorlage}
 ad Krankenhaus}
 
 \end{itemize}
-\paragraph{Vaginale Blutungen}
+
+
+\subsubsection{Vaginale Blutungen}
 {\mdseries
 verstärkte Regelblutung (Menorrhagie ): nie lebensbedrohlich}
 
@@ -6650,9 +6558,17 @@ Therapie (ursachenunabhängig):}
 \item Gyn-Ambulanz
 
 \end{itemize}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Pädiatrie                                           %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \section{Pädiatrie - Kinderheilkunde}
-{\mdseries\itshape
-Michael Withofner, Dr. med. univ.}
+
+\author{Michael Withofner, Dr. med. univ.}
 
 \subparagraph*{
 Prinzipieller Umgang mit Kindern}
@@ -6674,19 +6590,19 @@ Beruhigung}
 Kind während Transport am Besten eng bei  Vertrauensperson belassen }
 
 \end{itemize}
-\paragraph[Anatomische und physiologische \ Besonderheiten]{Anatomische
+\subsection{Anatomische
 und physiologische  Besonderheiten}
 {\mdseries
 Kinder sind keine kleinen  Erwachsenen!}
 
 \begin{center}
-\tablehead{}\begin{supertabular}{|m{5.235cm}|m{8.066cm}|}
-\hline
- &
-\\\hline
-\subparagraph*{ Atemfrequenz:}
-
- &
+\begin{tabulary}{12cm}{LL}\toprule
+a
+&
+b
+\\\midrule
+Atemfrequenz:
+&
 {\mdseries Neugeborenes: 40x / min.}
 
 {\mdseries Säugling: 20x / min.}
@@ -6699,31 +6615,20 @@ Kinder sind keine kleinen  Erwachsenen!}
 {\mdseries Kehlkopf steht höher, ist verkippt}
 
 \\\hline
-\subparagraph*{ Zeichen der Atemnot}
+Zeichen der Atemnot
+&
+Einziehungen zwischen Rippen
 
- &
-\begin{itemize}
-\item Einziehungen zwischen Rippen
-
-\item \index{Nasenfl\"ugeln}\gEs{Nasenfl\"ugeln}
-
-\item beschleunigte Atmung
-
-\item Atemgeräusche
-
-\end{itemize}
+\index{Nasenfl\"ugeln}\gEs{Nasenfl\"ugeln}
+beschleunigte Atmung
+Atemgeräusche
 \\\hline
-\subparagraph*{ Pulstasten beim Säugling:}
-
- &
-{\mdseries Oberarmarterie (Oberarm Innenseite)}
-
-{\mdseries Achsel}
-
+Pulstasten beim Säugling:
+&
+Oberarmarterie (Oberarm Innenseite), Achsel
 \\\hline
-\subparagraph*{ Herzfrequenz:}
-
- &
+Herzfrequenz:
+&
 {\mdseries Neugeborenes: 140 -- 160 / min.}
 
 {\mdseries Säugling: 120 / min.}
@@ -6734,21 +6639,20 @@ Kinder sind keine kleinen  Erwachsenen!}
 lebensgefährlich!!!}
 
 \\\hline
-\subparagraph*{ Wasser-, Elektrolyt- und Wärmehaushalt}
-
- &
+Wasser-, Elektrolyt- und Wärmehaushalt
+&
 {\mdseries Kinder haben im Verhältnis zu ihrem  Körpergewicht eine
 grö{\ss}ere Körperoberfläche  als Erwachsene!}
 
 {\mdseries höherer Wasseranteil}
 
 {\mdseries Austrocknung und Unterk\"uhlung schneller  möglich!!!}
-
-\\\hline
-\end{supertabular}
+\\\bottomrule
+\end{tabulary}
 \end{center}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Fremdkörperaspiration }
+
+
+\subsection{Fremdkörperaspiration }
 
 {\mdseries
 Verlegung der Atemwege durch  inhalierte Fremdkörper (Nahrungsmittel, 
@@ -6846,8 +6750,10 @@ Notarzt: Cortison o.ä.}
 immer Eltern und  Kind beruhigen}
 
 \end{itemize}
-{\mdseries\color[rgb]{0.0,0.0,0.5019608}
-Epiglottitis}
+
+
+
+\subsection{Epiglottitis}
 
 {\mdseries
 bakterielle Entz\"undung und daraus  folgende Schwellung des

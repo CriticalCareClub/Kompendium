@@ -1,6 +1,6 @@
 % This file was converted to LaTeX by Writer2LaTeX ver. 0.5
 % see http://www.hj-gym.dk/~hj/writer2latex for more info
-\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=yes]{scrbook}
+\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=no]{scrbook}
 \usepackage[latin1]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
@@ -103,7 +103,7 @@ footskip=10mm,
 \renewcommand{\thechapter}{\Alph{chapter}}
 \renewcommand{\thesubsubsection}{\thesubsection .\alph{subsubsection}}
 
-\usepackage[utopia]{quotchap}
+\usepackage[helvetica]{quotchap}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Header
@@ -114,10 +114,10 @@ footskip=10mm,
 \fancyfootoffset[RO,LE]{\marginparsep+\marginparwidth}
 \fancyhead[LE,RO]{\thepage} 
 %\fancyhead[LO]{}
-\fancyhead[LE]{\thepage --- \leftmark}
+\fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
 \fancyhead[RE]{\gEs{\gAuthNotes{ --- ENTWURF --- }}}
 \fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF --- }}}
-\fancyhead[RO]{\rightmark --- \thepage}
+\fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
 \fancyfoot[CE,CO]{\gEs{\gAuthNotes{ --- ENTWURF --- }}}
 \fancyfoot[LE]{} 
 \fancyfoot[RO]{} 
@@ -186,9 +186,13 @@ footskip=10mm,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Styles
 \newcommand{\strongemph}[1]{\emph{\textbf{#1}}}
 \newcommand{\Terminus}[1]{\textcolor{Terminus}{#1}}
-% set fonts
-\renewcommand{\rmdefault}{ugm}
-\renewcommand{\sfdefault}{uop}
+
+                                                               % set fonts
+\renewcommand{\rmdefault}{ugm} % URW Garamond
+%\renewcommand{\sfdefault}{uop} % URW Utopia
+% \renewcommand{\sfdefault}{pag} % Adobe Avantgarde
+\usepackage[scaled]{helvet}
+\renewcommand{\sfdefault}{phv}
 \renewcommand{\ttdefault}{pcr} 
 
 
@@ -247,8 +251,9 @@ footskip=10mm,
 \newenvironment{gMarriedEnv}
 {\protect{\begin{tabularx}{\linewidth}{XX}}}
 {\protect{\end{tabularx}}}
+
 \newcommand{\gMarried}[2]
-{\begin{tabularx}{\linewidth}{XX}\addlinespace
+{\noindent\begin{tabularx}{\linewidth}{XX}\addlinespace
 #1 & #2\\\addlinespace\end{tabularx}}
 
 %%% AAS-specific
@@ -4023,14 +4028,11 @@ ungenaue Dosierung
 
 Austrocknung  der Schleimh\"aute
 \\\hline
-\centering Inhalationsmaske\par
-
-
+\centering Inhalationsmaske
 
 \begin{center}
  [Warning: Image ignored] % Unhandled or unsupported graphics:
 %\includegraphics[width=2.437cm,height=2.707cm]{AASdev20090228-img11.png}
-
 \end{center}
  &
 Spontanatmung
@@ -4043,21 +4045,16 @@ h\"ohere O2{}-Konzentration
 h\"ohere O2{}-Konzentration
 
 CO2{}-R\"uckatmung  wenn O2{}-Durchflu{\ss} {\textless} 5 l/min!)
-
 \\\hline
   [Warning: Image ignored] % Unhandled or unsupported graphics:
 %\includegraphics[width=2.652cm,height=2.476cm]{AASdev20090228-img12.png}
- 
  &
  &
 Noch h\"ohere O2{}-Konzentration
-
  &
 Wie oben.
-
 \\\hline
 Beatmungsbeutel mit  Reservoir
-
  &
 Beatmung des Patienten (bei Reanimation oder im Ausnahmefall bei
 Atemstillstand oder nicht ausreichender Eigenatmung)
@@ -4747,7 +4744,7 @@ Blah!
 
 \chapter{Vitalfunktionen --- \gAasRsN{RS~V}}
 
-\chapter{Krankheiten und Notf‰lle --- \gAasRsN{RS VI}}
+\chapter{Krankheiten und Medizinische Notf‰lle --- \gAasRsN{RS VI}}
 
 \minitoc
 
@@ -5584,32 +5581,19 @@ gemessen haben ({\quotedblbase}Gesundheitstage{\textquotedblleft},
 \end{itemize}
 \paragraph*{Gefahr}
 
-\begin{itemize}
-\item {\mdseries \gEs{Herzversagen} (Herz muss
+\gEs{Herzversagen (Herz muss
 pl\"otzlich gegen gro{\ss}en Druck pumpen)}
-
-\end{itemize}
-
 
 \paragraph{Ma{\ss}nahmen}
 
 \begin{itemize}
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608} Lagerung: Oberk\"orper
-hoch}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608} O2 }
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608} Beengende Kleidung
-\"offnen}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608} Bewegungsverbot}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608} Notarzt}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608} Monitoring}
-
-\item {\mdseries\color[rgb]{0.0,0.0,0.5019608} Reanimationsbereitschaft}
-
+\item Lagerung: Oberk\"orperhoch
+\item O2 
+\item Beengende Kleidung \"offnen
+\item Bewegungsverbot
+\item Notarzt
+\item Monitoring
+\item Reanimationsbereitschaft
 \end{itemize}
 \\\bottomrule
 \end{tabularx}
@@ -5661,13 +5645,19 @@ Erkankung die man oft in Arztbriefen oder auf
 Transportscheinen lesen kann. (Achtung: Obwohl es
 "`\emph{Verschluﬂ}krankheit"' heiﬂt sind die Gef‰ﬂe nicht komplett verschlossen sondern nur verengt!)
 
-\paragraph{Symptome} \begin{wraptable}{r}{5cm}
-\label{tab:5p}
-\centering
-\captionabove{Die 5 Zeichen des arteriellen
-Gef‰ﬂverschluss.}
-\begin{tabular}{cll}
-\toprule
+\gMarried{\paragraph{Symptome} 
+Die Symptome ergeben sich aus der Unterversorgung der
+Extremit‰t mit sauerstoffreichem Blut: sie ist blaﬂ,
+kalt, tut hˆllisch weh und die Rekap-Zeit ist nicht
+mehr sinnvoll messbar. Zus‰tzlich wird die Extremit‰t
+gef¸hllos und gel‰hmt. Der Patient ein Kribbeln
+empfinden (\gE{"`Ameisenlaufen"'}. Tabelle \ref{tab:5p}
+listet die klassischen Symptome auf \gZ{(die \emph{"`5
+englischen P's"'})}.
+}{
+{
+\begin{center}
+\begin{tabulary}{4cm}{CLL}\toprule
 \multicolumn{3}{c}{\gEs{Arterieller Gef‰ﬂverschluss}}\\
 \midrule\addlinespace
 \centering 1. & \gZ{Pain}        & \gEs{schmerzend}
@@ -5680,19 +5670,10 @@ Gef‰ﬂverschluss.}
 \\
 \centering 5. & \gZ{Paralysis}   & \gEs{gel‰hmt}
 \\\addlinespace\bottomrule
-\end{tabular}
-\end{wraptable}
-
-Die Symptome ergeben sich aus der Unterversorgung der
-Extremit‰t mit sauerstoffreichem Blut: sie ist blaﬂ,
-kalt, tut hˆllisch weh und die Rekap-Zeit ist nicht
-mehr sinnvoll messbar. Zus‰tzlich wird die Extremit‰t
-gef¸hllos und gel‰hmt. Der Patient ein Kribbeln
-empfinden (\gE{"`Ameisenlaufen"'}. Tabelle \ref{tab:5p}
-listet die klassischen Symptome auf \gZ{(die \emph{"`5
-englischen P's"'})}.
-
-
+\end{tabulary}
+\end{center}}
+\captionof{table}{Die 5 Zeichen des arteriellen Gef‰ﬂverschluss.}\label{tab:5p}
+}
 
 
 
@@ -10347,6 +10328,1376 @@ fragen /  suchen!!! (unter Eigenschutz!!!)}
 
 \chapter{Traumatologische Notf‰lle ---
 \gAasRsN{RS~VII}}
+
+Michael Withofner, Dr. med. univ.
+
+\minitoc
+
+\paragraph{Trauma}
+
+\gDefinition{Als Trauma  bezeichnet man eine {\textperiodcentered}~Sch\"adigung,
+{\textperiodcentered}~Verletzung, oder {\textperiodcentered}~Wunde, die
+durch eine Gewalteinwirkung physikalisch er oder chemisch er Art
+verursacht wurde.}
+
+Die Traumata lassen sich grob ind folgende Klassen Einteilen:
+
+\begin{itemize}
+    \item Sch\"adel-Hirn-Trauma (SHT)
+    \item Thorax trauma
+    \item Abdominal trauma / Bauchtrauma
+    \item Beckentrauma
+    \item Verletzungen der Wirbels\"aule
+    \item Polytrauma
+    \item Verletzungen der Extremit\"aten
+    \item Verbrennungen
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Sch\"adel-Hirn-Trauma (SHT)}
+Folge von Gewalteinwirkung auf den  Sch\"adel
+
+\paragraph{Arten}
+
+\begin{itemize}
+\item Gedecktes SHT: ohne  Er\"offnung der harten Hirnhaut (Dura  mater)
+\item Offenes SHT: mit  Er\"offnung der harten Hirnhaut (Dura  mater)
+\end{itemize}
+
+\paragraph{Begleitende Verletzungen}
+
+\begin{itemize}
+    \item Verletzung der Kopfschwarte  (Ri{\ss}quetschwunde)
+    \item Frakturen von
+    \begin{itemize}
+        \item Sch\"adeldach
+        \item Sch\"adelbasis (Blutung aus Ohren, Liquoraustritt  aus der Nase)
+        \item Gesichtssch\"adel
+        \item Unterkiefer
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{Gedecktes SHT}
+ 
+\paragraph{Klassifikation}
+
+\begin{itemize}
+\item Gehirnersch\"utterung  {}-- Contusio cerebri
+\item Gehirnprellung  {}-- Contusio cerebri
+\item Gehirnquetschung
+\end{itemize}
+
+\subsubsection{Gehirnersch\"utterung (Commotio (cerebri))}
+\index{Gehirnersch\"utterung}\index{Commotio (cerebri)}\begin{itemize}
+\item  Bewu{\ss}tlosigkeit /Bewu{\ss}tseinstr\"ubung {\textless}  1h
+\item \"Ubelkeit, Erbrechen, Schwindel
+\item evt. fl\"uchtige neurologische Ausf\"alle
+\item retrograde  Amnesie  ({\quotedblbase}kann sich an den
+Unfallhergang nicht erinnern{\textquotedblleft} )
+\end{itemize}
+\begin{itemize}
+\item im CT/MR [${\rightarrow}$R{}-\pageref{bkm:LexComputertomographie}]
+keine nachweisbaren Sch\"aden
+\item keine  bleibenden Sch\"aden
+\end{itemize}
+
+
+
+\subsubsection{Gehirnprellung (Contusio (cerebri))}
+
+\index{Gehirnprellung}\index{Contusio (cerebri)}\begin{itemize}
+\item Bewu{\ss}tlosigkeit  {\textgreater}  1h
+
+\item Bewu{\ss}tseinstr\"ubung {\textgreater}24h
+
+\item nachweisbare Gehirnsch\"adigung / bleibende  Ausf\"alle
+
+\item ev. Gehirnnervenabrisse (z.B. Anosmie  bei  Riechnervabri{\ss})
+
+\item  vegetative St\"orungen
+
+\end{itemize}
+
+
+\subsubsection{Gehirnquetschung (SHT III{\textdegree})}
+
+\index{Gehirnquetschung}
+\begin{itemize}
+\item Bewu{\ss}tlosigkeit  {\textgreater}  24h
+
+\begin{center}
+ [Warning: Image ignored] % Unhandled or unsupported graphics:
+%\includegraphics[width=7.09cm,height=2.2cm]{AASdev20090228-img89.png}
+
+\end{center}
+
+\item Atmungs-/ Kreislaufst\"orungen
+\item Hirndruck symptomatik
+\item evt. Einklemmung deAtemzentrums ${\rightarrow}$ zentraler
+Atemstillsatnd
+\item Behinderung der Hirndurchblutung
+\item intrakranielle Blutungen
+\end{itemize}
+\begin{itemize}
+\item epidural
+\item subdural
+\item subarachnoidal
+\end{itemize}
+\begin{itemize}
+\item L\"ahmungen
+\item zerebrale Kr\"ampfe
+\end{itemize}
+
+
+\subsection{Intrakranielle Blutungen}
+
+\begin{itemize}
+\item \index{Epidurale Blutung}Epidurale Blutung 
+
+\end{itemize}
+\begin{itemize}
+\item Ri{\ss} einer Meningealarterie
+
+\item Einblutung zwischen Kalotte und Dura mater
+
+\item {\textquotedblleft}lichtes{\textquotedblright} (luzides )
+Intervall: einige Stunden
+
+\end{itemize}
+\begin{itemize}
+\item \index{Subdurale Blutung}Subdurale  Blutung 
+
+\end{itemize}
+\begin{itemize}
+\item schleichender  (!) Verlauf: oft \"uber Tage
+
+\item auch ohne  Trauma: Hypertoniker, Alkoholiker
+
+\end{itemize}
+\begin{itemize}
+\item \index{Subarachnoidale Blutung}Subarachnoidale  Blutung
+(\index{SAB}SAB)
+
+\end{itemize}
+\begin{itemize}
+\item z.B. geplatztes Aneurysma, Br\"uckenvenenabri{\ss} bei
+Decelerationstrauma
+
+\end{itemize}
+\begin{itemize}
+\item kann spontan / ohne Trauma auftreten (Aneurysma)
+
+\end{itemize}
+\begin{itemize}
+\item zuerst Herd symptomatik, schneller  Verfall, 
+{\quotedblbase}W\"uhlblutung{\textquotedblleft}
+
+\item Klassisch: pl\"otzlicher, schwerer,
+{\quotedblbase}donnerschlagartiger{\textquotedblleft} Kopfschmerz
+
+\end{itemize}
+
+
+
+\subsection{Offenes SHT}
+
+Hinweise:
+
+\begin{itemize}
+    \item gro{\ss}e RQW mit tast-/sichtbaren  Knochensplittern
+    \item Hirnaustritt (schlechte Prognose)
+    \item Blutungen aus Nase / Ohren
+    \item Liquoraustritt, oft mit Blut vermischt
+    ({\quotedblbase}Tupfertest{\textquotedblleft})
+\end{itemize}
+
+
+\subsection{Spezielle Diagnostik beim SHT}
+
+Beurteilung von:
+
+\begin{itemize}
+\item A tmung / K reislauf  (BAK-Schema!!! )
+
+\item neurologisch:
+
+\end{itemize}
+\begin{itemize}
+\item B ewu{\ss}tseinslage: klar/getr\"ubt/bewu{\ss}tlos
+
+\item Motorik/Reflexe
+
+\item Pupillenreaktion 
+
+\end{itemize}
+\begin{itemize}
+\item normal: rund + seitengleich + mittelweit + bds.  direkt und
+indirekt lichtreaktiv
+
+\item abnorm: entrundet, starr, weit oder eng nicht  lichtreaktiv
+
+\end{itemize}
+\begin{itemize}
+\item Traumacheck (sonstige Verletzungen ={\textgreater}  Polytrauma?)
+
+\item Glasgow-Coma-Scale (GCS)
+
+\end{itemize}
+Glasgow-Coma-Scale (GCS)
+
+Bewertung von: {\textperiodcentered}~Augen\"offnung,
+{\textperiodcentered}~beste verbale Reaktion,
+{\textperiodcentered}~beste motorische Reaktion.
+
+\begin{center}
+ [Warning: Image ignored] % Unhandled or unsupported graphics:
+%\includegraphics[width=13.667cm,height=20.134cm]{AASdev20090228-img90.png}
+
+\end{center}
+\paragraph{Bewu{\ss}tseinsst\"orung beim SHT}
+\begin{itemize}
+\item Sicherung der Vitalfunktionen
+
+\item Atemwege freihalten
+
+\item stabile Seitenlage bei Bewu{\ss}tlosigkeit
+
+\item NOTARZT! ${\leftarrow}$${\rightarrow}$ Intubation und Beatmung ab
+GCS {\textless}8 durch NA dringend  erforderlich
+
+\item steriler Verband locker auf offene  Verletzungen
+
+\item Knochen / Hirnteile NICHT  zur\"uckstopfen /  entfernen!
+
+\item oft Kombination mit HWS-Verletzung  ={\textgreater}Stifneck    
+
+\end{itemize}
+\begin{itemize}
+\item (Gefahr: hohe Querschnittl\"ahmung)
+
+\end{itemize}
+\begin{itemize}
+\item Oberk\"orper/Kopf 30{\textdegree} erh\"oht lagern (nur wenn
+Patient bewu{\ss}tseinsklar)
+
+\item Sch\"adel/HWS/BWS bilden eine Linie
+
+\end{itemize}
+\begin{itemize}
+\item Jedes SHT ist im Spital abzukl\"aren! (klinisch und  bildgebend)
+
+\end{itemize}
+Jedes SHT ist im Spital abzukl\"aren! Es besteht die Gefahr dass sich
+der Patient gegenw\"artig in der {\quotedblbase}luciden
+Phase{\textquotedblleft} befindet und sich sein Zustand erst in einigen
+Stunden, dann aber schlagartig verschlechtert. Im Zweifelsfall wird der
+Patient dort zur  Beobachtung (24h lang) aufgenommen.
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Thoraxtrauma}
+\begin{itemize}
+\item offenes
+
+\end{itemize}
+\begin{itemize}
+\item offener Pneumothorax
+
+\end{itemize}
+\begin{itemize}
+\item geschlossenes
+
+\end{itemize}
+\begin{itemize}
+\item \index{Spontanpneumothorax}Spontanpneumothorax (Lungenri{\ss},
+bull\"oses  Emphysem)
+
+\item Lungenverletzung durch gebrochene Rippen 
+
+\item Bronchusverletzungen
+
+\end{itemize}
+Thoraxtrauma -- allgemeine  Symptome
+
+\begin{itemize}
+\item Dyspnoe
+
+\end{itemize}
+\begin{itemize}
+\item Tachypnoe
+
+\item Zyanose
+
+\end{itemize}
+\begin{itemize}
+\item atemabh\"angige  Schmerzen,  Inspirationsstop
+
+\item ev. Hautemphysem (Luftansammlung in der Haut, typisches
+{\quotedblbase}Knistern{\textquotedblleft})
+
+\item Prellmarken (z.B. Lenks\"aule von PKW) 
+
+\end{itemize}
+\begin{itemize}
+\item ={\textgreater} gr\"undlicher Traumacheck!
+
+\end{itemize}
+Thoraxtrauma -- spezifische  Symptome
+
+\begin{itemize}
+\item instabiler Thorax
+
+\end{itemize}
+\begin{itemize}
+\item Sternumfraktur
+
+\item Serienrippenfraktur (zus. paradoxe Atmung --  Brustkorb senkt beim
+Einatmen)
+
+\end{itemize}
+\begin{itemize}
+\item Dyspnoe + Prellmarken +  Bluthusten  (H\"amoptysis )
+
+\end{itemize}
+\begin{itemize}
+\item Lungenprellung: Gasaustausch [F0EA?] , da  Lungenabschnitte
+gesch\"adigt
+
+\end{itemize}
+\begin{itemize}
+\item Brustschmerz, Schock 
+
+\end{itemize}
+\begin{itemize}
+\item Rhythmusst\"orungen ${\rightarrow}$ Verletzung des  Herzens
+
+\item schwerer Schock, schneller Verfall ${\rightarrow}$ Riss der  Aorta
+
+\item Blut im Schwall aus dem Mund ${\rightarrow}$ 
+Speiser\"ohrenverletzung
+
+\end{itemize}
+\index{Pneumothorax}Pneumothorax
+
+\begin{itemize}
+\item Lungen- (innerer) oder  Brustwandverletzung (\"au{\ss}erer)
+
+\begin{center}
+ [Warning: Image ignored] % Unhandled or unsupported graphics:
+%\includegraphics[width=7.086cm,height=10.686cm]{AASdev20090228-img91.png}
+
+\end{center}
+\end{itemize}
+\begin{itemize}
+\item Luft gelangt in den Pleuraspalt
+
+\item Unterdruck aufgehoben
+
+\item Lunge kollabiert auf betroffener Seite
+
+\end{itemize}
+\begin{itemize}
+\item {\quotedblbase}unkomplizierter{\textquotedblleft} Pneumothorax
+
+\end{itemize}
+\begin{itemize}
+\item Luft kann ungehindert in Pleuraspalt und  wieder heraus
+
+\item {\quotedblbase}nur{\textquotedblleft} Ausfall des betroffenen
+Lungenfl\"ugels
+
+\end{itemize}
+\begin{itemize}
+\item Ventil-, \index{Spannungspneumothorax}Spannungspneumothorax
+
+\end{itemize}
+\begin{itemize}
+\item Luft kann zwar hinein, aber nicht wieder  heraus
+
+\item Druck auf betroffener Seite steigt ${\rightarrow}$  Organe (Lunge,
+Herz) werden auf die andere Seite gedr\"uckt
+
+\end{itemize}
+\begin{itemize}
+\item gesunde Seite wird verdr\"angt + Abknickung  gro{\ss}er
+Gef\"a{\ss}e!
+
+\end{itemize}
+
+
+\begin{center}
+ [Warning: Image ignored] % Unhandled or unsupported graphics:
+%\includegraphics[width=5.811cm,height=4.343cm]{AASdev20090228-img92.png}
+
+\end{center}
+Therapie
+
+Pneumothorax, unkompliziert:
+
+\begin{itemize}
+\item Lagerung auf verletzte Seite (unverletzte kann  sich besser
+entfalten)
+
+\item O2
+
+\item Notarzt, legt ev. vor Ort B\"ulaudrainage
+
+\item (nicht versuchen, Wunde abzudichten ={\textgreater} ev. dadurch
+Spannungspneumothorax)
+
+\end{itemize}
+Ventilpneumothorax:
+
+\begin{itemize}
+\item Entlastung durch Drainage!
+
+\item offener Pneumothorax (Mittelfellpendeln)
+
+\item steril abdecken
+
+\end{itemize}
+Stichverletzungen
+
+NIEMALS  HERAUSZIEHEN!!!!!!!!
+
+steril abdecken + fixieren
+
+verletzte Strukturen??, dient ev. als 
+{\quotedblbase}St\"opsel{\textquotedblleft}??
+
+Fremdk\"orper soll nicht tiefer rutschen
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section[Bauchtrauma]{Bauchtrauma}
+\index{Bauchtrauma}\begin{itemize}
+\item offen (perforierend),
+
+\end{itemize}
+\begin{itemize}
+\item  Er\"offnung der  Bauchh\"ohle
+
+\item Stich-, Pf\"ahlungsverletzung
+
+\item Schnittverletzung, {\quotedblbase}Platzbauch{\textquotedblleft}
+
+\end{itemize}
+\begin{itemize}
+\item geschlossen (stumpf)
+
+\end{itemize}
+\begin{itemize}
+\item Schlag, Tritt
+
+\item Prellung durch Lenkstange bei PKW-Unfall
+
+\end{itemize}
+Offenes Bauchtrauma
+
+
+
+\begin{center}
+ [Warning: Image ignored] % Unhandled or unsupported graphics:
+%\includegraphics[width=6.543cm,height=4.839cm]{AASdev20090228-img93.png}
+
+\end{center}
+\begin{itemize}
+\item ev. Austritt von Darmschlingen
+
+\end{itemize}
+\begin{itemize}
+\item NICHT  zur\"uckstopfen ${\rightarrow}$ sonst 
+Darmri{\ss}/Darmverschlu{\ss}
+
+\item steril abdecken, mit Ringerl\"osung feuchthalten
+
+\item Bauchdecke entspannen , Knierolle ${\rightarrow}$ sonst 
+Darmabklemmung
+
+\end{itemize}
+\begin{itemize}
+\item Gefahr des Eindringens von Keimen  (Peritonitis/Sepsis!)
+
+\end{itemize}
+\begin{itemize}
+\item steril  abdecken
+
+\item Vitalparameter
+
+\item O2
+
+\item Notarzt
+
+\end{itemize}
+Geschlossenes Bauchtrauma
+
+Gefahren:
+
+\begin{itemize}
+\item Gef\"a{\ss}verletzungen
+
+\end{itemize}
+\begin{itemize}
+\item Aorta, Vena cava,...
+
+\item massive innere Blutungen ${\rightarrow}$ Volumenmangelschock
+
+\end{itemize}
+\begin{itemize}
+\item Zerrei{\ss}ung  parenchymat\"oser Organe (Milz, Leber)
+
+\end{itemize}
+\begin{itemize}
+\item massive innere Blutungen ${\rightarrow}$ Volumenmangelschock
+
+\end{itemize}
+\begin{itemize}
+\item Zerrei{\ss}ung  von Hohlorganen (Magen, Darm,Galleng\"ange )
+
+\end{itemize}
+\begin{itemize}
+\item Austritt von Speisebrei, Magensaft, Stuhl, Gallensekret
+
+\end{itemize}
+\begin{itemize}
+\item Bauchfellentz\"undung (Peritonitis) nach Std. bis  Tagen
+
+\item Sepsis (hohe Lethalit\"at), septischer Schock
+
+\end{itemize}
+Symptome
+
+\begin{itemize}
+\item starke  Bauchschmerzen
+
+\item brettharte  Bauchdecke  (Abwehrspannung, D\'efense )
+
+\item Leitsymptom: Schockzeichen
+
+\item beim Bewu{\ss}tlosen schwierig zu  diagnostizieren
+
+\end{itemize}
+\begin{itemize}
+\item gr\"undlich nach \index{Prellmarken}Prellmarken suchen!!!
+
+\end{itemize}
+Immer nach Prellmarken suchen. Patienten entkleiden!
+
+Bauchtrauma
+
+\index{Milzruptur}Milzruptur
+
+\begin{itemize}
+\item prim\"ar: sofort, Kapsel durchgerissen
+
+\item sekund\"ar: Sickerblutung, Kapsel anfangs noch intakt
+${\rightarrow}$ Latenz bis Ri{\ss} der Kapsel
+
+\end{itemize}
+Cave! {\quotedblbase}\index{Zweizeitige Milzruptur}Zweizeitige
+Milzruptur{\textquotedblleft}
+
+\index{Aortenruptur}Aortenruptur
+
+\begin{itemize}
+\item bei VU selten, bei Sturz aus gro{\ss}er H\"ohe  h\"aufiger
+
+\item Sehr schlechte Prognose
+
+\end{itemize}
+\index{Nierenruptur}Nierenruptur
+
+\begin{itemize}
+\item Leitsymptom: blutiger Harn, NICHT bei  Harnleiterabri{\ss}
+
+\end{itemize}
+Beckentrauma
+
+\begin{itemize}
+\item erhebliche Gewalteinwirkung  (Versch\"uttung, \"Uberrolltrauma)
+
+\item massive  Blutungen (bis 5 l in wenigen  Minuten)
+
+\item Gefahr des Ausblutens (ev. ohne sichtbare  Blutungsquelle!)
+
+\item Mitverletzung von Organen im kleinen  Becken:
+
+\end{itemize}
+\begin{itemize}
+\item Dickdarm ${\rightarrow}$ Blutung aus Anus
+
+\item Harnsystem ${\rightarrow}$ Blut im Harn / Harn in der 
+Bauchh\"ohle
+
+\item (Ausnahme: Spontanruptur der gef\"ullten  Harnblase bei stumpfem
+Bauchtrauma)
+
+\item Hoden ${\rightarrow}$ H\"amatome am Skrotum und am  Damm
+
+\end{itemize}
+Therapie:
+
+\begin{itemize}
+\item Basisma{\ss}nahmen
+
+\item Schockbek\"ampfung
+
+\item Bei Beckenfraktur: \index{Beckengurt}Beckengurt, zur Not mit
+G\"urtel%
+%
+
+
+\item O2  8-10 l mindestens
+
+\item Volumenzufuhr i.V. (NA)
+
+\item Schmerzbek\"ampfung
+
+\end{itemize}
+Prognose h\"angt vom Ausma{\ss} des  Blutverlustes ab.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Wirbels\"aulenverletzungen}
+\begin{itemize}
+\item Typische Unfallmechanismen:
+
+\end{itemize}
+\begin{itemize}
+\item Sturz aus gro{\ss}er H\"ohe
+
+\item Motorradunfall (Genickbruch)
+
+\item eingeklemmte Personen bei VU
+
+\item Schlag auf Kopf (Stauchung der HWS)
+
+\end{itemize}
+\begin{itemize}
+\item Gefahren:
+
+\end{itemize}
+\begin{itemize}
+\item Kompression/Durchtrennung des  R\"uckenmarks
+
+\item L\"ahmungen (Parese)
+
+\item Sensibilit\"atsst\"orungen (Par\"asthesie)
+
+\end{itemize}
+\begin{itemize}
+\item inkomplett: eines von beidem
+
+\item komplett: beides
+
+\end{itemize}
+traumatische Einblutung ins R\"uckenmark
+
+dadurch bedingtes \"Odem ={\textgreater} RM-Kompression
+
+Wirbels\"aulenverletzung -- Schleudertrauma, Peitschenschlag
+
+bei Auffahrunf\"allen
+
+Zerrung des Halsmarks (bildgebend meist nicht nachweisbar)
+
+Schmerzen im HWS-Bereich
+
+Kopfschmerzen
+
+Schwindel, Tinnitus
+
+ev. neurologische Ausf\"alle (in schweren F\"allen)
+
+Prophylaxe: Nackenst\"utze
+
+Therapie: Immobilisation, Stifneck, (ev. O2 )
+
+Wirbels\"aulenverletzung -  Querschnittssydrom
+
+inkomplett: Motorik oder Sensorik  ausgefallen
+
+komplett: beides ausgefallen
+
+Symptome:
+
+schlaffe L\"ahmung, Ausfall aller Reflexe  unterhalb des betroffenen
+Segmentes
+
+Blasen-, Darml\"ahmung ={\textgreater} Inkontinenz,  \"Uberlaufblase
+
+Ausfall der Gef\"a{\ss}-und W\"armeregulation
+
+Wirbels\"aulenverletzungen -- spinaler  Schock
+
+pl\"otzliche spinale Durchtrennung mit  schlagartigem Wegfall aller
+zentralen  erregenden Impulse...
+
+Gef\"a{\ss}regulation versagt
+
+Gef\"a{\ss}tonus [F0EA?]
+
+RR [F0EA?]  
+
+Wirbels\"aulenverletzungen -- {\quotedblbase}hoher{\textquotedblleft} 
+Querschnitt
+
+L\"asionen auf H\"ohe C1/C2 (1. bzw. 2.  HWK)
+
+Abtrennung des Atemzentrums in der Medulla  oblongata
+
+Anpralltrauma (Motorrad unter Lastwagen)
+
+{\quotedblbase}K\"opfler{\textquotedblleft} in seichtes Gew\"asser
+
+Erh\"angen
+
+zentrale Ateml\"ahmung (keine  Spontanatmung!)
+
+L\"asionen oberhalb C4 (4. HWK)
+
+Segmente, die Zwerchfell und Kehlkopf  innervieren mitbetroffen
+
+motorische Ateml\"ahmung ={\textgreater} auf Dauer  beatmungspflichtig
+
+Wirbels\"aulentrauma -  Vorgehensweise
+
+bei Verdacht  auf WS-Trauma  noch vor Ort  (bevor  der Patient bewegt 
+wird) \"Uberpr\"ufung von Sensibilit\"at  und Motorik (und
+Durchblutung) der Extremit\"aten !!!!!
+
+(Merkabk\"urzung {\textquotedblleft}DMS {\textquotedblright}, Teil jedes
+ Traumachecks)
+
+Wirbels\"aulenverletzungen - Therapie
+
+Strikte Immobilisierung (Vacuum-Matratze, Schaufeltrage, Stifneck)
+
+Vacuummatratze immer gemeinsam mit  Stifneck
+
+Bewegungen nur in der WS-Achse (keine  Beugung, Drehung,
+Seitw\"artsneigung)
+
+falls n\"otig, korrekte Helmabnahme (zu  zweit)
+
+vorsichtiger L\"angszug (Stifneck anlegen)
+
+Achtung beim Rautek-Griff: keine HWS- Stabilisierung!!!
+
+Wirbels\"aulenverletzung -  Schocklagerung?
+
+ja, spezielle Technik:
+
+Patient auf Vacuummatratze + Trage
+
+Trage schr\"ag: Kopf tief, Beine hoch
+
+nein, wenn SHT oder kardiale  Komplikationen!!!
+
+Anmerkungen zur Vacuummatratze
+
+Immer mit Schaufeltrage
+
+Immer mit Stifneck
+
+Umbettungen durch mehrere Personen
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Polytrauma}
+Gleichzeitig entstandene Verletzungen mehrerer K\"orperregionen
+/Organsystemen, von  denen wenigstens eine allein oder die Kombination
+mehrerer lebensgef\"ahrlich  ist.
+
+\begin{itemize}
+\item Bauchtrauma + Oberschenkel; SHT + WS + Thoraxtrauma etc.
+
+\item gebrochener Finger + gebrochene Zehe ${\rightarrow}$ kein
+Polytrauma
+
+\end{itemize}
+Problem:  Volumenmangelschock +  Ateminsuffizienz
+
+Polytrauma - Vorgehensweise
+
+\begin{itemize}
+\item Schneller Traumacheck gleichzeitig  mit  Sichern der
+Vitalparameter!
+
+\item Bewu{\ss}tsein
+
+\item Atmung
+
+\item Kreislauf: Carotispuls, Pulse peripher  (orientierend!),
+Kapillardurchblutung
+
+\item gr\"undlicher Traumacheck erst sp\"ater
+
+\item stabilisierende Ma{\ss}nahmen
+
+\item Atemwege sichern (Intubation),  ven\"oser  Zugang (Notarzt!)
+
+\item wenn einigerma{\ss}en stabil, gr\"undlicher  Traumacheck,
+Verletzungsmuster (={\textgreater} zu  erwartende Komplikationen)
+
+\end{itemize}
+Polytrauma beim Kind
+
+Schockindex unbrauchbar!!!
+
+Kinder bleiben lange stabil, verfallen  dann aber schlagartig!!!
+
+doppelte Vorsicht (lieber eine  Notarztalarmierung zu viel, als eine zu 
+wenig!)
+
+nach Unfallhergang : Patient gilt als polytraumatisiert  bis zum Beweis 
+des Gegenteils! 
+
+Polytrauma - Unfallort
+
+Absichern  der Unfallstelle,  m\"oglichst auff\"allig machen (Blaulicht,
+ Warnblinkanlage, Scheinwerfer)
+
+bei mehreren Verletzten: Triage
+
+Nachalarmierung : andere  Rettungsmittel, Feuerwehr, Polizei
+
+Eingeklemmte im Fahrzeug stabilisieren,  nicht eigenm\"achtig bergen
+
+Crash -Rettung nur  bei  Fremdgef\"ahrdung, HWS stabilisieren!
+
+Polytrauma - Therapie
+
+\begin{itemize}
+\item Freimachen der Atemwege, 15l O2 , ggf.  Intubation
+
+\item Kreislaufkontrolle, 2 gro{\ss}lumige Zug\"ange,  Volumen!
+
+\item Blutstillung  (Druckverband, Abbindung wenn  indiziert)
+
+\item Immobilisierung : Stifneck, Vacuummatratze,  Schaufeltrage
+
+\item W\"armeschutz
+
+\item BZ (Alkoholisierte)
+
+\item Medikamente: 
+
+\item Volumssubstitute (kristalloid und kolloidal)
+
+\item Schmerzmittel
+
+\end{itemize}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Extremit\"atenverletzungen}
+Gelenke betreffend
+
+Verstauchung (Distorsion )
+
+Verrenkung (Luxation )
+
+Knochenbruch (Fractur )
+
+\paragraph{Extremit\"atenverletzung - Verstauchung}
+Zerrung / \"Uberdehnung des  Kapsel-/Bandapparates
+
+Symptome
+
+Schmerzen
+
+Schwellung
+
+Blutergu{\ss} (H\"amatom )
+
+Therapie
+
+ruhigstellen
+
+hochlagern
+
+k\"uhlen
+
+ad Unfallabteilung (mu{\ss} nicht sofort sein)
+
+\paragraph{Extremit\"atenverletzungen - Verrenkung}
+partielle oder vollst\"andige Verrenkung  eines Gelenks
+
+Symptome
+
+Schmerzen
+
+Schwellung
+
+Blutergu{\ss}
+
+abnorme Gelenkstellung (federnd fixiert), bewegungsunf\"ahig
+
+Therapie
+
+Stellung belassen
+
+ruhigstellen
+
+KEINE EINRENKVERSUCHE!!!
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\paragraph[Extremit\"atenverletzungen -
+\ Knochenbr\"uche]{Extremit\"atenverletzungen -  Knochenbr\"uche}
+Arten:
+
+\begin{itemize}
+\item geschlossene Fraktur
+
+\item offene Fraktur
+
+\end{itemize}
+jeweils
+
+\begin{itemize}
+\item komplett
+
+\item inkomplett
+
+\end{itemize}
+Gefahren
+
+\begin{itemize}
+\item starke Blutungen
+
+\item ev. bis Schock
+
+\item begleitende Nervenverletzungen
+
+\item Fettembolie (Fraktur langer R\"ohrenknochen)
+
+\item Infektionsgefahr (Osteomyelitis bei offenen  Frakturen)
+
+\end{itemize}
+Immer gr\"undlichen Traumacheck  durchf\"uhren, um keine 
+Begleitverletzungen zu \"ubersehen!!!
+
+Extremit\"atenverletzungen -  Knochenbr\"uche
+
+Frakturzeichen
+
+\begin{center}
+\begin{tabular}{|m{6.649cm}|m{6.651cm}|}
+\hline
+\multicolumn{2}{|m{13.5cm}|}{\centering
+\index{Frakturzeichen}Frakturzeichen\par
+
+}\\\hline
+sichere
+
+ &
+unsichere
+
+\\\hline
+\begin{itemize}
+\item abnorme Beweglichkeit
+({\quotedblbase}Pseudogelenk{\textquotedblleft})
+
+\item Fehlstellung
+
+\item Krepitus (bitte NICHT absichtlich  ausprobieren!!)
+
+\item Sichtbare freie Knochenteile (= offener Bruch)
+
+\end{itemize}
+ &
+\begin{itemize}
+\item Schmerz
+
+\item Schwellung
+
+\item H\"amatom
+
+\item gest\"orte Funktion / Bewegungsunf\"ahigkeit
+
+\end{itemize}
+\\\hline
+\end{tabular}
+\end{center}
+Therapie:
+
+Traumacheck ${\rightarrow}$ je nach Bedarf
+
+Blutstillung
+
+Wundversorgung
+
+Stifneck bei V.a. HWS-Verletzung
+
+ev. NAW-Nachalarmierung (starke Schmerzen, gr\"o{\ss}erer Blutverlust,
+Schock, relevanten Begleit\-verletzungen)
+
+Ruhigstellung / Schienung (unter Zug)
+
+\section{Verbrennungen}
+Die Gr\"o{\ss}e des gesch\"adigten Areals wird in Prozent der
+ver\-brannten K\"orperoberfl\"ache angegeben.
+
+Faustregel - Neunerregel
+
+Handfl\"ache (des Patienten) = 1~\% der K\"orperoberfl\"ache (KOF)
+
+\begin{center}
+ [Warning: Image ignored] % Unhandled or unsupported graphics:
+%\includegraphics[width=6.591cm,height=7.03cm]{AASdev20090228-img94.png}
+
+\end{center}
+\begin{flushright}
+\tablehead{}\begin{supertabular}{|m{2.134cm}|m{2.134cm}|m{2.134cm}|}
+\hline
+ &
+\centering \%\par
+
+ &
+\\\hline
+Kopf:
+
+ &
+\centering 9\par
+
+ &
+\\\hline
+Arm, je:
+
+ &
+\centering 9\par
+
+ &
+\\\hline
+Thorax vorne:
+
+ &
+\centering 18\par
+
+ &
+\\\hline
+Thorax hinten:
+
+ &
+\centering 18\par
+
+ &
+\\\hline
+Bein, je:
+
+ &
+\centering 18\par
+
+ &
+\\\hline
+Genital: 
+
+ &
+\centering 1\par
+
+ &
+\\\hline
+ &
+ &
+\\\hline
+\end{supertabular}
+\end{flushright}
+Grade
+
+Das Ausma{\ss} der Sch\"adigung durch Verbrennung wird in 3 Grade
+eingeteilt:
+
+\begin{flushleft}
+\begin{tabular}{|m{1.836cm}|m{6.8980002cm}|m{4.3630004cm}|}
+\hline
+\centering Grad\par
+
+ &
+ &
+\\\hline
+\centering 1. Grad\par
+
+ &
+R\"otung (Juckreiz, Schmerz)
+
+ &
+\\\hline
+\centering 2. Grad\par
+
+ &
+Blasenbildung, Schmerz
+
+2a: oberfl\"achlich, Nerven intakt, 
+
+2b: tiefer, Nerven zerst\"ort
+
+ &
+\\\hline
+\centering 3. Grad\par
+
+ &
+trockene Hautfetzen (wei{\ss}-gelb-schwarz), Verkohlung, Schrumpf\-ung
+des Gewebes durch Hitze\-ein\-wirkung
+
+ &
+\\\hline
+\end{tabular}
+\end{flushleft}
+Ab 5\% verbrannter (mind. 2. Grad) KOF bei Kindern oder 10\% bei
+Erwachsenen besteht Schockgefahr (Fl\"ussigkeitsverlust)
+
+\begin{itemize}
+\item immer  auch an Begleitverletzungen  denken
+
+\item bestimmte Unfallmechanismen
+
+\item Traumacheck !
+
+\end{itemize}
+Ma{\ss}nahmen
+
+\begin{itemize}
+\item Eigenschutz!
+
+\item Kleiderbrand l\"oschen
+
+\item Kleidung rasch entfernen (sofern nicht  eingeschmolzen!)
+
+\item mind. 10 min. mit m\"a{\ss}ig kaltem Wasser  sp\"ulen -- NICHT
+unterk\"uhlen!
+
+\item keimfreier, nicht verklebender Verband, locker anlegen 
+
+\item wenn vorhanden: Water-Jel%
+%
+\footnote{Streitfrage: Water-Jel: Umstritten} 
+
+\item Schockbek\"ampfung
+
+\item NAW wenn n\"otig
+
+\end{itemize}
+Was man besser nicht tun sollte...
+
+\begin{itemize}
+\item NEIN: Salbe, Puder, etc. auf frische  Brandwunde
+
+\item NEIN: Blasen \"offnen
+
+\item NEIN: festklebende Kleidung gewaltsam  entfernen
+
+\item NEIN: aluminiumbeschichteten Verband  verwenden (Gefahr der
+Hitzereflexion bei  nicht ausreichend gek\"uhlten  Verbrennungen!)
+
+\end{itemize}
+%
+%
+Inhalationstrauma
+
+Leitsymptome
+
+\begin{itemize}
+\item angebrannte Gesichtshaare
+
+\item geschwollene, ru{\ss}ige Lippen
+
+\item Ru{\ss}partikel im Sputum
+
+\item Heiserkeit
+
+\item Stridor
+
+\end{itemize}
+${\rightarrow}$ Rauchgasvergiftung m\"oglich!
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Erfrierungen}
+...sind Gewebsnekrosen, die durch lokale  Durchblutungsst\"orungen
+aufgrund von  K\"alteeinwirkung (Eis, Wind, N\"asse,  K\"alte)
+entstanden sind.
+
+Besonders geff\"ahrdet sind k\"orperferne K\"orperteile wie Zehen,
+Finger, Ohren oder Nase.
+
+Einteilung erfolgt in 4 Stadien, diese haben am Notfallort keine
+entscheidende Bedeutung f\"ur die zu setzenden Ma{\ss}nahmen. Den
+Schweregrad einer Erfrierung kann man erst nach Tagen voll
+einsch\"atzen. Deshalb ist es wichtig, die Warnsymptome ernst zu
+nehmen!
+
+Stadien
+
+Symptome
+
+zuerst 
+
+Gef\"uhllosigkeit und Bl\"asse
+
+starke Schmerzen und bl\"auliche Verf\"arbung
+
+ einige Zeit sp\"ater
+
+marmorierte Verf\"arbung der Haut mit  Blasenbildung
+
+Taubheitsgef\"uhl, keine Empfindung bei  Ber\"uhrung
+
+Bewegungsunf\"ahigkeit des betroffenen  K\"orperteils
+
+starke Schmerzen
+
+Ma{\ss}nahmen
+
+\begin{itemize}
+\item beengende Kleidungsst\"ucke lockern (Einschn\"urung erh\"oht
+Risiko einer Erfrierung)
+
+\item Keimfreier, gepolsterter Verband
+
+\item Warme, gezuckerte Getr\"anke -- KEIN Alkohol
+
+\item K\"orperstamm w\"armen, nie das erfrorene K\"orperteil abreiben!!
+
+\end{itemize}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Unf\"alle durch Strom- und Blitzschlag}
+Niederspannung: bis 1000 Volt (Steckdose:  230 Volt)
+
+Hochspannung: \"uber 1000 Volt, Stromst\"arke {\textgreater}  3 Ampere
+(\"Uberlandleitungen) 
+
+Effekte / Verletzungsmuster je nach  Spannung (Volt) / Stromst\"arke
+(Ampere)
+
+\begin{itemize}
+\item Reizeffekte (Muskel-/Nervenerregung):
+
+\end{itemize}
+\begin{itemize}
+\item Verkrampfung ({\quotedblbase}kann nicht
+loslassen{\textquotedblleft})
+
+\item Sensibilit\"atsst\"orungen
+
+\item ZNS ${\rightarrow}$ Bewu{\ss}tseinsst\"orung
+
+\item Herzrhythmusst\"orungen (Kammerflimmern, ev.  als Sp\"atfolge!)
+
+\end{itemize}
+\begin{itemize}
+\item W\"armeproduktion:
+
+\end{itemize}
+\begin{itemize}
+\item Strommarken (Ein-/Austrittsverbrennung)
+
+\item Lichtbogen: oberfl\"achliche und tiefe  Verbrennungen
+
+\end{itemize}
+\begin{itemize}
+\item Gleichstrom
+
+\item Wechselstrom ${\rightarrow}$ eher  Herzrhythmusst\"orungen
+
+\item Patient  kann Spannungsquelle ev. nicht  loslassen (Krampf der
+Handmuskulatur)
+
+\item Auch Defi stellt Strom-Gefahrenquelle  dar!!!
+
+\item Blitzunfall
+
+\end{itemize}
+\begin{itemize}
+\item mehrere Millionen (!) Volt
+
+\item bis 100.000 Ampere
+
+\end{itemize}
+Symptome:
+
+\begin{itemize}
+\item Bewu{\ss}tlosigkeit
+
+\item L\"ahmungen (vor\"ubergehend)
+
+\item Blitzfiguren auf der Haut
+
+\item Herzrhythmusst\"orungen m\"oglich
+
+\end{itemize}
+Cave: Das eigentliche Ausma{\ss} der Verletzung ist oft
+{\quotedblbase}unsichtbar{\textquotedblleft}, das der Strom im
+K\"orperinneren -- also {\quotedblbase}unterirdisch{\textquotedblleft}
+- viel Schaden anrichtet. 
+
+Ma{\ss}nahmen:
+
+\begin{itemize}
+\item Eigenschutz! 
+
+\end{itemize}
+\begin{itemize}
+\item (Stromkreis  vorher  unterbrechen, FI bzw. bei Starkstrom durch 
+Fachmann)
+
+\end{itemize}
+\begin{itemize}
+\item Genaue  Patientenuntersuchung ${\rightarrow}$ Eintritts{}-  und
+Austrittsmarke
+
+\item auf ev. Herzrhythmusst\"orungen vorbereitet  sein ${\rightarrow}$
+bis 24h Latenz
+
+\item Vitalparameter ${\rightarrow}$ entsprechende  symptomatische
+Versorgung
+
+\item NAW ${\rightarrow}$ Hospitalisierung
+
+\item Stromverbrennungen wie Verbrennungen  versorgen
+
+\end{itemize}
 
 \chapter{Hygiene --- \gAasRsN{RS~II}}
 \label{bkm:RefHeading32633609}Sebastian Gabriel [*]

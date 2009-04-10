@@ -232,7 +232,7 @@ footskip=10mm,
 \newcommand{\gCave}[1]
 {\begin{center}
  { \cornersize{0.5}
-   \ovalbox{\makebox[12cm]{\parbox{10cm}{\sffamily\textcolor{red}{#1}}}}}
+   \ovalbox{\makebox[12cm]{\parbox{10cm}{\sffamily\color{red}{{#1}}}}}}
 \end{center}}
 
 \newenvironment{gCaveEnv}{\begin{boxedminipage}[t]{10cm} \sffamily}{\end{boxedminipage}}
@@ -298,6 +298,10 @@ vital bedrohten Patienten. Besonderheiten:}
 
 \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
 
+\bibliographystyle{plain}
+
+\makeindex
+ 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Page
 
 % set by geometry package
@@ -453,7 +457,8 @@ sit-uat-ions-ge-rechte
   Ibex"'}, http://www.ubuntu.com
  \end{itemize}
 \end{description}
-\section{Index}
+
+
 \printindex
 
 \part[Basic Life Support (\emph{BLS}) --- \emph{Modul Rettungssanitäter}]{Basic
@@ -3996,7 +4001,7 @@ Bei behinderter Nasenatmung kann die  Sauerstoffbrille im Mundwinkel
 plaziert werden. 
 
 \begin{center}
-\tablehead{}\begin{supertabular}{|m{3.225cm}|m{3.225cm}|m{3.225cm}|m{3.225cm}|}
+\begin{tabulary}{\linewidth}[H]{CLLL}
 \hline
 Was
  &
@@ -4008,10 +4013,8 @@ Nachteile
 \\\hline
 Sauerstoffbrille
 
-\begin{center}
  [Warning: Image ignored] % Unhandled or unsupported graphics:
 %\includegraphics[width=2.74cm,height=2.74cm]{AASdev20090228-img10.png}
-\end{center}
  &
 Spontanatmung
 
@@ -4022,7 +4025,6 @@ gute Toleranz
 fehlendes Engegef\"uhl
 
 Sprechen\&Husten m\"oglich
-
  &
 ungenaue Dosierung
 
@@ -4030,21 +4032,19 @@ Austrocknung  der Schleimh\"aute
 \\\hline
 \centering Inhalationsmaske
 
-\begin{center}
  [Warning: Image ignored] % Unhandled or unsupported graphics:
 %\includegraphics[width=2.437cm,height=2.707cm]{AASdev20090228-img11.png}
-\end{center}
  &
 Spontanatmung
 
 O2-Flow ab 5l/min
 
  &
-h\"ohere O2{}-Konzentration
+h\"ohere O2-Konzentration
  &
-h\"ohere O2{}-Konzentration
+h\"ohere O2-Konzentration
 
-CO2{}-R\"uckatmung  wenn O2{}-Durchflu{\ss} {\textless} 5 l/min!)
+CO2-R\"uckatmung  wenn O2{}-Durchflu{\ss} {\textless} 5 l/min!)
 \\\hline
   [Warning: Image ignored] % Unhandled or unsupported graphics:
 %\includegraphics[width=2.652cm,height=2.476cm]{AASdev20090228-img12.png}
@@ -4063,7 +4063,7 @@ Beatmung eines intubierten Patienten
  &
  &
 \\\hline
-\end{supertabular}
+\end{tabulary}
 \end{center}
 
 \paragraph{Beatmung mit Beatmungsbeutel}
@@ -4212,49 +4212,49 @@ Plan zurechtlegen wie es weiter gehen soll
 \begin{center}
 \begin{tabulary}{\linewidth}[H]{CL}
 \toprule\midrule
- Ersteindruck
+ \gEs{Ersteindruck}
  &
 Aussehen, Gesichtsausdruck, Haltung, Sprache
 
 Bl\"asse, Zyanose, Schwei{\ss}, Schohnhaltung, Atemnot, verwaschene
 Sprache, Des\-orientiertheit, Kr\"ampfe 
 \\\hline
- Bewusstsein
+ \gEs{Bewusstsein}
  &
 Reaktion auf verbale Ansprache, Weckversuch, Schmerzreiz
 
 klar, somnolent, sopor\"os, komat\"os/bewusstlos
 \\\hline
- Atemweg
+ \gEs{Atemweg}
  &
 Atemger\"ausch, Gestik
 
 frei oder verlegt
 \\\hline
- Atmung
+ \gEs{Atmung}
  &
 Frequenz, Atemmuster, Anstrengung beim Atmen, Atemger\"ausche,
 Heimsauerstoff
 \\\hline
- Kreislauf
+ \gEs{Kreislauf}
  &
 Bewusstsein, Hautfarbe, Radialispuls, Rekap-Zeit
 \\\hline
- Traumacheck 1
+ \gEs{Traumacheck 1}
  &
 Schwere Verletzungen: Backen-, Oberschenkel-, Serienrippenfraktur,
 massive Blutung
 \\\hline
- Hauptbeschwerde
+ \gEs{Hauptbeschwerde}
  &
 Grund der Berufung, Schmerzen und andere f\"ur den Patienten dringliche
 Symptome
 \\\hline
 \end{tabulary}
 \end{center}
-\marginpar{{\sffamily \gEs{Alarmzeichen}
+\marginpar{{\sffamily\color{red}\bfseries Alarmzeichen}
 
-Massive St\"orungen von 
+\gEs{Massive St\"orungen von} 
 
 Bewusstsein
 
@@ -4262,7 +4262,7 @@ Atemweg / Atmung
 
 Kreislauf 
 
-\gEs{typische Symptome} 
+\gEs{Typische Symptome} 
 
 Atemnot die sich nicht bessert 
 
@@ -4276,7 +4276,7 @@ entgleiste Vitalwerte
 
 schwere Verletzungen
 
-{\dots}} 
+{\dots} 
 }
 Nun stellen sich folgende Fragen:
 
@@ -4745,6 +4745,1802 @@ Blah!
 
 \chapter{Vitalfunktionen --- \gAasRsN{RS~V}}
 
+
+Sebastian Gabriel [R]; Michael Withofner
+
+Changelog:
+
+2009-02-25: Start Changelog. Kapitel mit Korr Koch korr.
+
+\minitoc
+
+\"Uberblick
+
+\begin{center}
+\begin{tabularx}{\linewidth}[H]{XX}
+\toprule
+Vitalfunktionen I. Ordnung
+ &
+Vitalfunktionen II. Ordnung
+\\\midrule
+\begin{itemize}
+\item Bewu{\ss}tsein
+\item Atmung
+\item Kreislauf
+\end{itemize}
+wichtigste, grundlegende Funktionen des K\"orpers
+
+Ausfall einer dieser Funktionen 
+
+bedeutet immer akute Lebensgefahr!!! 
+
+mu{\ss} akutmedizinisch behandelt werden!!!
+ &
+\begin{itemize}
+\item Wasser-/Elektrolythaushalt
+\item S\"aure-/Basenhaushalt
+\item Temperaturhaushalt
+\item Hormonsystem
+\item Stoffwechsel
+\item Immunsystem
+\end{itemize}
+\\\bottomrule
+\end{tabularx}
+\end{center}
+
+\paragraph[NACA -- Score]{NACA -- Score}
+\index{NACA}National Advisory Committee for Aeronautics
+
+Diente urspr\"unglich der Bewertung von  Erkrankungen / Verletzungen und
+der Entscheidung welche Soldaten zuerst auszufliegen w\"aren. Heute
+dient der NACA-Score der groben statistischen Erfassung.  
+
+1 bis 7:
+
+% \begin{center}
+% \begin{tabular}{m{1.201cm}m{12.1cm}}
+% \centering  NACA\par
+% 
+%  &
+% \\
+% \centering I\par
+% 
+%  &
+%  keine \"arztliche Therapie erforderlich
+% 
+% \\
+% \centering II\par
+% 
+%  &
+%  ambulante Abkl\"arung
+% 
+% \\
+% \centering III\par
+% 
+%  &
+%  station\"are Abkl\"arung
+% 
+% \\
+% \centering IV\par
+% 
+%  &
+%  akute Lebensgefahr nicht ausgeschlossen
+% 
+% \\
+% \centering V\par
+% 
+%  &
+%  akute Lebensgefahr
+% 
+% \\
+% \centering VI\par
+% 
+%  &
+%  Reanimation
+% 
+% \\
+% \centering VII\par
+% 
+%  &
+%  Tod
+% 
+% \\
+% \end{tabular}
+% \end{center}
+
+\section{Bewusstsein}
+\gDefinition{\"Uberbegriff u.a. f\"ur Wachheit,
+Orientierung, Aufmerksamkeit, Auffassungsgabe, Denkverlauf und
+Merkf\"ahigkeit\label{ref:JRcite1Pschyrembel259}[1].} 
+
+Die {\quotedblbase}wahre{\textquotedblleft} Definition von Bewusstsein
+ist seit tausenden von Jahren ungekl\"art. Da f\"ur die
+Sanit\"aterausbildung aber nur beschr\"ankt Zeit zur Verf\"ugung steht
+ist die obige Definition f\"ur den Alltag erstmal ausreichend.
+
+Das Bewusstsein ist besonders wichtig hinsichtlich des Schutzes des
+Menschen vor Bedrohung. Ein bewusstseinsklarer Mensch kann sich gegen
+Gefahren wehren, ein eingetr\"ubter oder bewusstloser Mensch kann dies
+schlecht oder gar nicht. 
+
+\subsection{Bewu{\ss}seinsst\"orung}
+
+St\"orung des Bewusstseins, besonders der Wachheit und Orientierung. 
+
+\paragraph{Orientierung}
+
+Es ist wichig zu \"Uberpr\"ufen ob der Patient orientiert ist. Man
+unterscheidet dabei: 
+
+\begin{enumerate}
+    \item Orientierung zur Person: Name, Alter.
+    \item \"Ortliche Orientierung: Wo befindet sich der Patient gerade
+    (Stadt, Land, Adresse, Wohnung, Auto, etc.)?
+    \item Zeitliche Orientierung: Tageszeit, Wochentag, Monat, Jahreszeit,
+    Jahr?
+\end{enumerate}
+
+Allgemein
+
+Wie bereits oben erw\"ahnt ist das Bewusstsein wesentlich an der Abwehr
+von Gefahren beteiligt. Je mehr das Bewusstsein gest\"ort oder
+reduziert ist desto gef\"ahrlicher ist das f\"ur den Patienten. 
+
+\begin{itemize}
+    \item Ab einem gewissen Punkt sind auch so wesentliche Funktionen wie
+    der Schluck-, W\"urge- bzw. Hustenreflex ausfallen und es kann zum
+    verschlucken von Mageninhalt oder Blut in die Lunge kommen
+    (Aspiration). Man spricht auch vom Ausfall der Schutzreflexe.
+    \item Bei schweren Bewusstseinsst\"orungen kann es auch zum Erschlaffen
+    wichtiger Muskeln wie z.B. Der Zunge kommen. F\"allt diese zur\"uck
+    kann sie den Atemweg blockieren oder ganz verschlie{\ss}en.
+\end{itemize}
+
+\gFazit{Daher sind schwere Bewusstseinsst\"orungen
+lebensgef\"ahrlich!}
+
+\paragraph{Ursachen}
+
+${\rightarrow}$ Sch\"adigung des zentralen Nervensystems
+
+\begin{center}
+\begin{tabularx}{\linewidth}[H]{XX}
+\toprule
+Prim\"are  Ursachen
+ &
+Sekund\"are  Ursachen:
+\\\midrule
+direkt das ZNS betreffend
+ &
+\"Uber Umwege das ZNS betreffend
+\\\midrule
+Verletzungen (SHT)
+
+Blutungen, Hirnschwellung
+
+Schlaganfall
+
+epileptischer Anfall
+
+Entz\"undungen
+
+Tumor
+ &
+St\"orungen der O2-Versorgung :
+
+Atemst\"orungen  (Hypoxie)
+
+Herz-Kreislaufst\"orungen
+
+Elektrolytentgleisungen
+
+Vergiftungen:
+
+Stoffwechselst\"orungen (Zuckerhaushalt, Leberversagen)
+
+Alkohol
+
+Medikamente, Drogen
+
+Reizgase,  L\"osungsmittel ...
+\\\bottomrule
+\end{tabularx}
+\end{center}
+
+Grade und Symptome
+
+Symptome Bewusstseinsst\"orungen: Tabelle geh\"ort erg\"anzt.%
+%
+
+
+\begin{center}
+\begin{tabulary}{\linewidth}[H]{LLLL}
+\toprule
+bewu{\ss}tseinsklar
+ &
+ &
+ &
+\\\midrule
+bewu{\ss}tseinsgetr\"ubt
+ &
+desorientiert
+ &
+ &
+\\\midrule
+ &
+delirant
+ &
+ &
+\\\midrule
+ &
+agitiert
+ &
+ &
+\\\midrule
+ &
+somnolent
+ &
+Schl\"afrig, aber leicht erweckbar.
+ &
+\\\midrule
+ &
+sopor\"os
+ &
+ &
+Gefahr!
+\\\midrule
+bewu{\ss}tlos
+ &
+Koma
+ &
+ &
+Lebensgefahr!
+\\\bottomrule
+\end{tabulary}
+\end{center}
+
+\paragraph{Gefahren}
+
+\begin{itemize}
+    \item Zur\"uckfallen der Zunge ${\rightarrow}$ Erstickung!
+    
+    \item Aspiration  (Husten- bzw. W\"urgereflex sowie  s\"amtliche andere
+    Schutzreflexe ausgefallen,  Muskulatur komplett erschlafft
+    ={\textgreater}  Erbrochenes gelangt ungehindert in die  Lunge!)
+    
+\end{itemize}
+
+\index{Glasgow Coma Scale}Glasgow Coma Scale (\index{GCS}GCS)
+
+... dient zur objektiven Einsch\"atzung der Bewu{\ss}tseinslage, Skala
+mit 3 bis max. 15 Punkten.
+
+Bewu{\ss}tseinsklarer Patient: 15 Punkte. Toter Patient: 3 Punkte (nicht
+0!)
+
+Untersucht werden: 
+
+
+\begin{tabulary}{\linewidth}[H]{LCCL}
+\toprule
+~ & Max. & Punkte & Reaktion
+\\\midrule
+Augen\"offnung & 4 & 4 & spontan
+\\
+ & & 3 & auf Ansprache
+\\
+ & & 2 & Schmerzreiz
+\\
+ & & 1 & nicht
+\\\midrule
+Verbale Antwort & 5 & 5 & klar
+\\
+ & & 4 & verwaschen
+\\
+ & & 3 & stammelnd
+\\
+ & & 2 & unartikuliert
+\\
+ & & 1 & nicht
+\\\midrule
+Motorische Reaktion & 6 & 6 & spontan
+\\
+ & & 5 & gezielte Abwehrbewegungen
+\\
+ & & 4 & ungezielte Abwehrbewegungen
+\\
+ & & 3 & Beugung
+\\
+ & & 2 & Strecken
+\\
+ & & 1  & bewegt gar nicht
+\\\bottomrule
+\end{tabulary}
+
+- - -
+
+\begin{gMassnahmenEnv}
+    \paragraph{Ma{\ss}nahmen bei getr\"ubten Patienten}
+
+    Ma{\ss}nahmen bei Bewusstseinsst\"orungen: Neufassung, bitte besonders
+    genau durchsehen!%
+
+    \begin{itemize}
+        \item BAK -- Schema  (Bewu{\ss}tsein/Atmung/Kreislauf)
+        \item Lagerung: situationsgerecht, im Zweifel stabile Seitenlage
+        \item Je nach Verdachtsdiagnose:
+        \item \gTxBeiVit \gTxMassVitBes
+
+        \begin{itemize}
+            \item O2: nach Ermessen, im Zweifel ca. 6-8 l
+        \end{itemize}
+
+        \item Engmaschiges Monitoring (Atmung, Pulsoxymetrie, RR)
+        \item W\"armeerhalt
+        \item Ursachenforschung -- Warum ist der Patient eingetr\"ubt?
+        \item Neurcheck
+        \begin{itemize}
+            \item Immer auch an BZ denken!
+        \end{itemize}
+        \item Traumacheck
+    \end{itemize}
+
+\end{gMassnahmenEnv}
+
+\begin{gMassnahmenEnv}
+    \paragraph{Ma{\ss}nahmen bei bewu{\ss}tlosen und sopor\"osen Patienten}
+    \begin{itemize}
+        \item BAK -- Schema  (Bewu{\ss}tsein/Atmung/Kreislauf)
+        \item \gTxMassVitBes
+        \begin{itemize}
+            \item Lagerung: stabile Seitenlage
+            \item O2:  10 l  O2 , bei Zyanose\footnote{Zyanose: Bl\"auliche
+            Verf\"arbung der Haut infolge einer unzureichenden
+            Sauerstoffversorgung. Besonders auff\"allig an den Lippen, Gesicht, und
+            Extremit\"aten.}  15 l
+        \end{itemize}
+        \item W\"armeerhalt
+        \item Ursachenforschung -- Warum ist der Patient bewusstlos oder
+        sopor\"os?
+        \item Neurcheck
+        \begin{itemize}
+            \item Immer auch an BZ denken!
+        \end{itemize}
+        \item Traumacheck
+    \end{itemize}
+\end{gMassnahmenEnv}
+
+
+
+\section{Atmung}
+Kurze Wiederholung
+
+normale Atemfrequenz: (Erwachsener): 12-15x / min, AZV = 5-7 ml / kg KG
+
+Atemminutenvolumen (AMV): AZV x AF
+
+\index{Totraumventilation}Totraumventilation: Luftmenge in oberen  und
+teilweise unteren Atemwegen, die  nicht am Gasaustausch teilnimmt.
+Achtung \index{Schnappatmung}Schnappatmung!Dabei wird nur so wenig Luft
+bewegt sodass aufgrund des Totraumes keine frische Luft in die
+Lungenbl\"aschen (Alveolen) kommt. H\"aufig wird die Schnappatmung mit
+flacher Atmung verwechselt, aber:
+
+Schnappatmung = keine Atmung
+
+St\"orungen der Atmung
+
+Ateminsuffizienz = eingeschr\"ankte Atmung ={\textgreater} O2-Mangel
+(Hypoxie)   
+
+Atemstillstand = Aussetzen d. Atmung (Apnoe)
+
+Ursachen:
+
+???
+
+
+\begin{tabulary}{\linewidth}[H]{LL}
+\toprule
+St\"orung des/der  &
+\\midrule
+O2-Angebotes
+ &
+G\"arkeller (CO2 ${\uparrow}$, O2 ${\downarrow}$)
+
+{\quotedblbase}d\"unne Luft{\textquotedblleft} (z.B. Hochgebirge,
+
+pO2 ${\downarrow}$)
+
+Defekte Gastherme (CO ${\uparrow}$m O2${\downarrow}$)
+
+Ertrinken
+\\\midrule
+ O2-Diffusion
+ &
+Lungen\"odem
+
+Lungenentz\"undung
+
+Lungenembolie
+\\\midrule
+ Atemmechanik
+ &
+Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus,
+         Glottis\"odem, Bolus)
+
+Verlegung der unteren Atemwege (Bronchitis, Asthma,
+Lungen\"odem)
+
+Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes
+     (Rippenfraktur, Pneumothorax, Pleuraergu{\ss}, Emphysem)
+\\\midrule
+ Neuromuskul\"aren Atemregulation
+ &
+SHT (Sch\"adel Hirn Trauma)
+
+Schlaganfall (Insult)
+
+Vergiftungen
+
+Tumore
+
+hoher Querschnitt (RM durchtrennt)
+
+Muskelerkrankungen
+
+Nervenerkankung
+
+Stoffwechselst\"orungen
+\\\bottomrule
+\end{tabulary}
+
+
+Symptome
+
+\begin{center}
+\begin{tabulary}{\linewidth}[H]{LLLL}
+\hline
+Gruppe
+ &
+Befund
+ &
+Beschreibung
+ &
+Anmerkung
+\\\hline
+Dyspnoe
+ &
+Atemnot
+ &
+Leitsymptom
+ &
+\\\hline
+Atemger\"ausch
+ &
+Brodeln
+ &
+Blubbern, klassisch f\"ur Lunden\"odem
+ &
+\\\hline
+ &
+Stridor
+ &
+ &
+\\\hline
+ &
+Brummen, Giemen
+ &
+ &
+\\\hline
+ &
+Rasselger\"ausche
+ &
+ &
+\\\hline
+Frequenz
+ &
+Beschleunigt
+ &
+Tachypnoe
+ &
+\\\hline
+ &
+Verlangsamt
+ &
+Bradypnoe
+ &
+\\\hline
+Atemzugsvolumen
+ &
+Schnappatmung
+ &
+ &
+\\\hline
+ &
+Flache Atmung
+ &
+ &
+\\\hline
+ &
+Tiefe Atmung
+ &
+ &
+\\\hline
+Hautfarbe
+ &
+Blass
+ &
+Normal, An\"amie, Blutverlust
+ &
+\\\hline
+ &
+Rosig
+ &
+Normal, CO-Vergiftung
+ &
+\\\hline
+ &
+Bl\"aulich 
+ &
+Zyanose: Hypoxie!
+ &
+\\\hline
+K\"orperlich
+ &
+Einziehungen an den Rippen
+ &
+Einsatz der Atemhilfsmuskulatur
+ &
+\\\hline
+ &
+Aufst\"utzen
+ &
+Einsatz der Atemhilfsmuskulatur
+ &
+\\\hline
+ &
+Nasenfl\"ugeln
+ &
+Atemnot, besonders bei Kleinkindern
+ &
+\\\hline
+ &
+Aufrechte Position
+ &
+ &
+\\\hline
+ &
+{\quotedblbase}Paradoxe Atmung{\textquotedblleft}
+ &
+Brustkorb senkt sich bei Einatmung
+ &
+\\\hline
+\end{tabulary}
+\end{center}
+
+
+[F0EA?] Gefahr der Ateminsuffizienz
+
+\begin{itemize}
+\item Hypoxie
+
+\end{itemize}
+\begin{itemize}
+\item in weiterer Folge Unterversorgung lebenswichtiger Organe wie Herz,
+Hirn.
+
+\end{itemize}
+\begin{itemize}
+\item Atmungsbedingte \"Ubers\"auerung (Respiratorische Azidose, s. H.IV
+)
+
+\end{itemize}
+Ma{\ss}nahmen bei Atemstillstand
+
+\begin{itemize}
+\item Freimachen der Atemwege
+
+\end{itemize}
+\begin{itemize}
+\item \"Offnen des Mundes (Esmarch-Handgriff)
+
+\item Inspektion
+
+\item fals n\"otig ausr\"aumen 
+
+\item (falls n\"otig) Absaugen
+
+\item \"Uberstrecken der HWS
+
+\item Zungengrund wird angehoben -{\textgreater} Atemwege  sind frei!
+
+\end{itemize}
+\begin{itemize}
+\item \"Uberpr\"ufung der Atemt\"atigkeit (bei  \"uberstreckter HWS)
+durch
+
+\end{itemize}
+\begin{itemize}
+\item SEHEN, H\"OREN, F\"UHLEN f\"ur mindestens 10  Sekunden!
+
+\end{itemize}
+\begin{itemize}
+\item Sauerstoffgabe (wenn ausreichende Spontan-Atmung vorhanden)
+
+\item Beatmung (keine ausreichende Spontanatmung bzw. bei Reanimation)
+
+\end{itemize}
+\begin{itemize}
+\item Beatmungsbeutel mit Maske und Reservoir
+
+\end{itemize}
+Vgl. die entsprechenden Kapitel im Teil Erste Hilfe und
+Sanit\"atstechnik bez\"uglich der genauen Durchf\"uhrung der
+Ma{\ss}nahmen. 
+
+Achtung: Bei einem mit Atemstillstand vorgefundenen Patienten ist
+grunds\"atzlich von einer Reanimation auszugehen. 
+
+\section[Herz- / Kreislauf]{Herz- / Kreislauf}
+\label{bkm:RefHeading42514202}St\"orungen des Herz-/ Kreislaufsystems
+
+\label{bkm:RefHeading42514602}Kreislaufstillstand
+
+Kreislaufstillstand: Pumpversagen des Herzens aufgrund von
+
+Asystolie (keine Herzt\"atigkeit)
+
+Kammerflimmern (unkoordinierte Herzt\"atigkeit)
+
+(Pulslose) Ventrikul\"are Tachykardie (HF zu schnell ${\rightarrow}$
+diastolische F\"ullung nicht ausreichend ${\rightarrow}$ Auswurf
+${\downarrow}$)
+
+elektromechanische Entkopplung 
+
+Ursachen
+
+\begin{itemize}
+\item Minderversorgung des Herzmuskels mit O2
+
+\end{itemize}
+\begin{itemize}
+\item Herzinfarkt
+
+\item Herzinsuffizienz
+
+\end{itemize}
+\begin{itemize}
+\item St\"orungen der Atmung
+
+\end{itemize}
+\begin{itemize}
+\item Asthma bronchiale
+
+\item Lungenembolie
+
+\item zentrale Atemregulationsst\"orungen
+
+\end{itemize}
+\begin{itemize}
+\item sonstige St\"orungen
+
+\end{itemize}
+\begin{itemize}
+\item Trauma
+
+\item Vergiftungen
+
+\item thermische Sch\"aden
+
+\item Elektrolytverschiebungen,...
+
+\end{itemize}
+Pathophysiologie :
+
+\begin{itemize}
+\item Aussetzen des Herzschlages ={\textgreater} Patient ist sofort
+pulslos!
+
+\item Bewu{\ss}tlosigkeit (nach 15-20 sek.)
+
+\item Atemstillstand/Schnappatmung (nach ca. 10 sek.)
+
+\item Irreversible Hirnsch\"aden nach 3-5 min., bei K\"alte allerdings
+l\"anger!
+
+\end{itemize}
+\paragraph{Tod}
+Beachte:
+
+[F0EA?] Nobody is dead until warm and dead!
+
+Klinischer Tod vs. biologischer Tod
+
+\begin{center}
+\tablehead{}\begin{supertabular}{|m{6.649cm}|m{6.651cm}|}
+\hline
+klinischer Tod
+ &
+biologischer Tod
+\\\hline
+keine Atmung
+
+kein Puls
+
+Reanimation mu{\ss} innerhalb der ersten  Minuten erfolgen
+
+(dann unter Umst\"anden) reversibel
+ &
+Organtod (irreversibel) des Gehirns
+
+gleichzusetzen mit Tod des Individuums
+\\\hline
+\end{supertabular}
+\end{center}
+
+Wann ist es wirklich zu sp\"at?
+
+Todesfeststellung: Grunds\"atzlich NUR durch den Arzt!
+
+Todeszeichen: Nicht wie von Roman gefordert in Tabelle mit mit sicheren
+und unsicheren Todeszeichen umgebaut, halte ich f\"ur un\"ubersichtlich
+und bef\"urchte Verwechslungsgefahr mit Knochenbruchzeichen.[GAB]
+
+Unter bestimmten Voraussetzungen allerdings auch durch den Sanit\"ater
+(Unter\-lassung von  Reanimationsma{\ss}nahmen):
+
+\begin{center}
+ [Warning: Image ignored] % Unhandled or unsupported graphics:
+%\includegraphics[width=4.19cm,height=3.028cm]{AASdev20090228-img66.png}
+
+\end{center}
+\begin{itemize}
+\item %
+%
+Verwesung
+
+\item Verletzungen, die nicht mit dem Leben  vereinbar sind
+
+\end{itemize}
+\begin{itemize}
+\item Kopfamputation, {\dots}
+
+\end{itemize}
+\begin{itemize}
+\item (Totenflecken (nicht 100\%ig feststellbar))
+
+\item (Leichenstarre (nicht 100\%ig feststellbar))
+
+\item Abbruch der Reanimationsma{\ss}nahmen aufgrund von Ersch\"opfung
+
+\end{itemize}
+
+
+\begin{center}
+ [Warning: Image ignored] % Unhandled or unsupported graphics:
+%\includegraphics[width=7.133cm,height=4.837cm]{AASdev20090228-img67.jpg}
+
+\end{center}
+Herzinsuffizienz, Herzversagen
+
+Weitere, oft auch sehr bedrohliche, St\"orungen des Herzens werden im
+Kapitel  Herz-Kreislaufst\"orungen 
+(I.I{}-\pageref{bkm:RefHeading42342802}:
+{\quotedblbase}Herz-Kreislaufst\"orungenunten{\quotedblbase})
+besprochen.
+
+Temperaturregulation [F0E1?]
+
+W\"armeproduktion durch
+
+\begin{itemize}
+\item Zellaktivit\"at
+
+\item Stoffwechselvorg\"ange
+
+\item Bewegung (Muskelatmung)
+
+\end{itemize}
+W\"armeabgabe \"uber:
+
+\begin{itemize}
+\item Haut
+
+\item Schwei{\ss}
+
+\end{itemize}
+\begin{itemize}
+\item Wirkung durch Verdunstungsk\"alte
+
+\item ca. 0,5 l / Tag
+
+\item bis max. 1,5 l / Std. bei schwerer k\"orperlicher  Arbeit
+
+\end{itemize}
+physiologische Kerntemperatur: 37{\textdegree}C
+
+Regulation durch den Hypothalamus
+
+Stoffwechsel
+
+ Definition 
+
+Abl\"aufe von Stoffumsetzung und  Energiegewinnung
+
+N\"ahrstoffe werden in W\"arme und Energie  umgewandelt
+
+Arten
+
+\begin{itemize}
+\item Zuckerstoffwechsel (Kohlenhydrate)
+
+\end{itemize}
+\begin{itemize}
+\item Energielieferant 
+
+\end{itemize}
+\begin{itemize}
+\item Fettstoffwechsel (Fetts\"auren, ges\"attigt und  unges\"attigt)
+
+\end{itemize}
+\begin{itemize}
+\item Doppelt so hoher Energiegehalt wie  Kohlenhydrate
+
+\item L\"osungsmittel f\"ur Vitamine
+
+\item Bausteine der Zellmembran
+
+\item Bestandteil von Hormonen
+
+\end{itemize}
+\begin{itemize}
+\item Eiwei{\ss}stoffwechsel (Proteine)
+
+\end{itemize}
+\begin{itemize}
+\item Zellmembranbausteine
+
+\item Enzyme!
+
+\end{itemize}
+\section{Wasser- und Elektro\-lyt\-haus\-halt}
+Das K\"orperwasser macht ca. 60\% des K\"orpergewichtes aus und teilt
+sich auf:
+
+\begin{itemize}
+\item IntraZellularRaum (IZR), 40\% KG 
+
+\item ExtraZellularRaum (EZR), 20\% KG 
+
+\end{itemize}
+\begin{itemize}
+\item \index{Zwischengewebsraum}Zwischengewebsraum, \~{}16\%:
+{\quotedblbase}freier{\textquotedblleft} Raum zwischen den Zellen im
+Gewebe
+
+\item \index{Gef\"a{\ss}raum}Gef\"a{\ss}raum \~{}4\%: Raum in den
+Blutgef\"a{\ss}en
+
+\end{itemize}
+Trennung: 
+
+IZR -- EZR:    Zellmembran (semipermeable Membran, siehe unten)
+
+Zwischengewebsraum -- Gef\"a{\ss}raum:  Blutgef\"a{\ss}wand
+
+\index{Atome}Atome, \index{Ionen}Ionen und
+\index{Elektrolyte}Elektrolyte 
+
+Atome sind die kleinsten Grundbestandteile von Marterie.
+
+Ionen sind Atome die elektrisch geladen sind.
+
+Geladene Ionen sind gut in Wasser l\"oslich. Wenn sie in Wasser gel\"ost
+sind heissen sie {\quotedblbase}Elektrolyte{\textquotedblleft}. 
+
+Im Wasser gel\"oste, elektrisch geladene Teilchen hei{\ss}en
+Elektrolyte.
+
+Die wichtigsten Ionen sind Natrium (Na+), Kalium (K+) (positiv geladen)
+und Chlorid (Cl-)(negativ geladen). 
+
+Funktion:
+
+\begin{itemize}
+\item Osmose, Diffusion und Verschiebung von Wasser zwischen den
+einzelnen R\"aumen (siehe unten)
+
+\end{itemize}
+\begin{itemize}
+\item ${\rightarrow}$ Volumenregulation des K\"orpers, siehe unten.  
+
+\end{itemize}
+\begin{itemize}
+\item Elektrische Ladung: Wie bei einer Batterie ist eine Zelle geladen
+(innen Minuspol, aussen Pluspol). Das ist besonders wichtig f\"ur
+
+\end{itemize}
+\begin{itemize}
+\item Herz (Erregungsleitung!)
+
+\item Nerven
+
+\item Muskel
+
+\end{itemize}
+Elektrolyte sind geladene Teilchen, die  bei Aufspaltung von S\"auren,
+Laugen  oder deren Salzen in w\"assriger L\"osung  entstehen.
+
+Kationen: positiv geladene Teilchen (K+ , Na+ ,Mg++ , Ca++ ,...)
+
+Anionen: negativ geladene Teilchen (Cl- )
+
+Ionenverteilung:
+
+IZR: viel K+ , wenig Na+
+
+EZR: viel Na+ , wenig K+
+
+%
+%
+\index{Osmose}Osmose und \index{Diffusion}Diffusion
+
+GAB: Osmose und Diffusion: Grunds\"atzlich wichtig und relevant,
+allenfalls bessere Erkl\"arung, aber bleibt in Normalschrift, nicht
+heller. [GAB]
+
+KOCH: Sollte alles grau werden
+
+Geladene Teilchen k\"onnen die Zellmembran nicht selbstst\"andig
+durchdringen, Wasser dagegen schon. Man nennt die Zellmembran daher
+eine {\quotedblbase}\index{semipermeable Membran}semipermeable
+Membran{\textquotedblleft}. 
+
+Die Natur m\"ochte dass in einer Fl\"ussigkeit \"uberall die gleiche
+Konzentration von geladenen Teilchen herrscht. Da die Zellmembran (und
+teilweise auch die Blutgef\"a{\ss}wand) nur das Wasser durchl\"asst,
+nicht jedoch die geladenen Teilchen verschiebt sich nur das Wasser von
+einem Raum in den anderen. Man kann sagen dass die Elekktrolyte einen
+Druck auf das Wasser aus\"uben {\quotedblbase}die Seiten zu
+wechseln{\textquotedblleft}. Man nennt diesen Druck den
+{\quotedblbase}\index{osmotischer Druck}osmotischen
+Druck{\textquotedblleft}. Mann kann auch sagen {\quotedblbase}das
+Wasser folgt dem Konzentrationsgef\"alle{\textquotedblleft}.
+
+\begin{center}
+ [Warning: Image ignored] % Unhandled or unsupported graphics:
+%\includegraphics[width=6.131cm,height=3.646cm]{AASdev20090228-img68.gif}
+
+\end{center}
+Daneben gibt es den {\quotedblbase}onkotischen Druck{\textquotedblleft}
+der durch Eiwei{\ss}bestandteile ausge\"ubt wird.
+
+Wie kommen die Elektrolyte in die einzelnen R\"aume wenn doch nur Wasser
+die Wand passieren kann?
+
+Daf\"ur gibt es aktive Transporter
+({\quotedblbase}Pumpen{\textquotedblleft}) die die Ionen hin und her
+bef\"ordern. Die Steuerung richtige Verteilung der verschiedenen Ionen
+ist recht kompliziert aber lebenswichtig. Eine
+{\quotedblbase}falsche{\textquotedblleft} Verteilung der Elektrolyte
+kann schlimme Folgen haben (zB. Herzrhythmusst\"orungen). 
+
+Die richtige Verteilung der Elektrolyte im K\"orper ist lebenswichtig.
+Elektrolyst\"orungen k\"onnen lebensgef\"ahrlich sein. 
+
+H\"aufige Ursachen von \index{Elektrolyst\"orungen}Elektrolyst\"orungen
+
+\begin{itemize}
+\item Niereninsuffizienz (gest\"orte Ausscheidung
+
+\end{itemize}
+\begin{itemize}
+\item Besonders bei Dialysepatienten
+
+\end{itemize}
+\begin{itemize}
+\item Durchfall, Erbrechen 
+
+\item Medikamente
+
+\item Vergiftung
+
+\end{itemize}
+Wasser- und Elektrolythaushalt
+
+Blutvolumen = Plasmawasser + zellul\"are Bestandteile (Blutk\"orperchen)
+
+Beim Erwachsenen 7-8\% KG
+
+Beim Neugeborenen / S\"augling 8-9\% KG  (70-80\%  K\"orperwasser!)
+
+Verluste bis 20\% ohne Funktionsbeeintr\"achtigung tolerierbar,
+allerdings Sch\"aden in der  Mikrozirkulation
+
+${\rightarrow}$ auch ohne klinische Schockzeichen  ist bei
+Volumensverlust Volumensersatz  indiziert!
+
+\begin{itemize}
+\item osmotischer Druck
+
+\end{itemize}
+\begin{itemize}
+\item Volumenregulation des K\"orpers
+
+\end{itemize}
+\begin{itemize}
+\item Konzentrationsgef\"alle ${\rightarrow}$ Spannungsunterschied an
+den Zellmembranen ={\textgreater} Grundlage f\"ur Erregungsleitung /
+Muskelkontraktion
+
+\item Regelung durch:
+
+\end{itemize}
+\begin{itemize}
+\item Hormone (Renin/Angiotensin/Aldosteron)
+
+\item Ausscheidung \"uber Niere
+
+\end{itemize}
+S\"aure-/Basenhaushalt 
+
+\index{S\"aure}S\"auren = Verbindungen, die  Wasserstoffionen (H+)
+abgeben k\"onnen
+
+\index{Lauge}Laugen = \index{Base}Basen = Verbindungen, die H+ 
+aufnehmen k\"onnen
+
+\index{pH-Wert}pH-Wert
+
+Der pH-Wert gibt an wie sauer oder basisch eine L\"osung ist.
+
+= Menge der freien H+  in einer L\"osung.
+
+pH 7 ist neutral, pH {\textgreater} 7 basisch, pH {\textless} 7 sauer
+
+pH normal ca. um 7,4.
+
+pH {\textless} 7,35  ={\textgreater} Azidose
+
+pH {\textgreater} 7,45  ={\textgreater} Alkalose
+
+Der richtige pH-Wert ist lebenswichtig. Der K\"orper ist da sehr
+empfindlich, der pH-Wert muss sich in engen grenzen bewegen. Schon
+geringe Abweichungen k\"onnen gro{\ss}e Folgen haben. 
+
+Leider gibt es im Rettungsdienst normalerweise keine M\"oglichkeit den
+pH-Wert zu messen, jedoch haben wir gro{\ss}en Einflu{\ss} auf ihn
+durch unsere Ma{\ss}nahmen, siehe unten. 
+
+Bei einer \"Ubers\"auerung sprechen wir von einer
+\index{Azidose}Azidose, wenn der Patient basisch wird von einer
+\index{Alkalose}Alkalose.
+
+\paragraph[\ Regulationsmechanismen]{ Regulationsmechanismen}
+\begin{itemize}
+\item Blut mit Puffersystem
+
+\end{itemize}
+\begin{itemize}
+\item  %
+%
+H+ + HCO3- ${\leftarrow}$${\rightarrow}$ H2 O + CO2  (Formel nicht
+lernen!)
+
+\item S\"aure + Bikarbonat ${\leftarrow}$${\rightarrow}$ Wasser + CO2
+
+\end{itemize}
+\begin{itemize}
+\item Atmet der Patient nicht (genug) staut sich das CO2 und bildet mit
+Wasser H+ ${\rightarrow}$ Atmungsbedingte \"Ubers\"auerung
+
+\item Atmet der Patient zu viel wird zu viel CO2 abgeatmet und wird von
+H+ und dem anderen Stoff nachgebildet ${\rightarrow}$ H+ fehlt
+${\rightarrow}$ Atmungsbedingte Alkalose
+
+\item F\"allt zu viel H+ (S\"aure) im K\"orper an (durch den
+Stoffwechsel, Stoffwechselbedingte \"Ubers\"auerung) wird es zu (Wasser
+und) CO2 umgewandelt, das CO2 wird abgeatmet
+
+\end{itemize}
+\begin{itemize}
+\item Lunge 
+
+\end{itemize}
+\begin{itemize}
+\item Abatmung von CO2 ${\rightarrow}$ Einfluss auf den Puffer (s.o.)
+
+\end{itemize}
+\begin{itemize}
+\item Niere
+
+\end{itemize}
+\begin{itemize}
+\item Ausscheidung (oder Wiederaufnahme)  von H+
+
+\end{itemize}
+\subparagraph[Atmungsbedingte \"Ubers\"auerung - Respiratorische
+Azidose]{Atmungsbedingte \"Ubers\"auerung - Respiratorische Azidose}
+\label{bkm:RefHeading35233321}\index{\"Ubers\"auerung}\index{Respiratorische
+Azidose}durch Hypoventilation / verminderten  Gasaustausch:
+
+CO2  Abatmung vermindert ${\rightarrow}$ Hyperkapnie,  Ans\"auerung des
+Blutes
+
+Ursachen
+
+Asthma
+
+Lungen\"odem
+
+Atemstillstand / insuffiziente Atmung
+
+Therapie
+
+Erh\"ohung des Atem-Minuten-Volumens
+
+\subparagraph[Stoffwechselbedingte \"Ubes\"auerung -Metabolische
+Azidose]{Stoffwechselbedingte \"Ubes\"auerung -Metabolische Azidose}
+\index{\"Ubes\"auerung}\index{Metabolische Azidose}Zunahme von
+organischen S\"auren im  K\"orper
+
+Ursachen
+
+\begin{itemize}
+\item Nierenleistung 
+
+\item Schock
+
+\item Durchfall
+
+\item diabetisches Koma
+
+\end{itemize}
+Gefahren
+
+\begin{itemize}
+\item Sch\"adigung des Zellstoffwechsels
+
+\item Sch\"adigung des Herzmuskels
+
+\item respiratorische und metabolische  Alkalose
+
+\end{itemize}
+\subparagraph[Atmungsbedingte (respiratorische)
+Alkalose]{Atmungsbedingte (respiratorische) Alkalose}
+\index{Alkalose}Hyperventilationssyndrom
+
+Elektrolytverschiebung: Kribbeln in den Fingern, Pf\"otchenstellung,
+Kr\"ampfe
+
+\subparagraph{Stoffwechselbedingte (metabolische) Alkalose}
+z.B. durch anhaltendes Erbrechen: Verlust von S\"aure
+
+Zusammenfassung [F055?]
+
+Wer zu wenig atmet wird sauer.
+
+Wer zu viel atmet wird basisch und sp\"urt ein Kribbeln in den Fingern. 
+
+Wer Probleme mit dem Stoffwechsel hat kann auch sauer oder basisch
+werden.
+
+\section{SCHOCK}
+
+\gDefinition{{\quotedblbase}Lebensbedrohliche Kreislaufst\"orung aufgrund von
+Unterversorgung des K\"orpers mit Blut und Sauerstoff infolge des
+Versagens des Kreislaufsystems.{\textquotedblleft}}
+
+Es k\"onnen einzelne oder mehrere Teile des Kreislaufsystems betroffen
+sein  (Blut, Gef\"a{\ss}e, Herz).
+
+Ob ein Schock oder eine Schockgefahr besteht wird anhand von
+Schocksymtpomen und anhand der Verdachtsdiagnose beurteilt.
+
+Schock bedeutet:
+
+\begin{itemize}
+\item akute Kreislaufinsuffizienz = Mi{\ss}verh\"altnis Herzauswurf - 
+Sauerstoffbedarf des K\"orpers  
+
+\item M\"ogliche Ursachen: 
+
+\end{itemize}
+\begin{itemize}
+\item Herz pumpt wenig
+
+\item Zu wenig Blut vorhanden 
+
+\item Gef\"a{\ss}e sind zu weit gestellt und Blut versackt
+
+\end{itemize}
+Im Endeffekt kommt immer zu wenig Blut=Sauerstoff zu den Organen,
+dadurch ist die Ge\-webedurchblutung nicht ausreichend  f\"ur die
+Versorgung aller Organe mit Sauer\-stoff.
+
+K\"orpereigene Mechanismen k\"onnen gegensteuern und versuchen den
+Schock zu kompensieren (gegensteuern). Dies geht allerdings nur eine
+gewisse Zeit und in einem gewissen Ausma{\ss} gut, daher ist eine
+schnell  einsetzende Therapie wichtig! Bei l\"anger bestehendem Schock
+kann dieser Zustand irreversibel werden. 
+
+Kein Schock besteht bei kurzzeitigen  Bewu{\ss}tseinsst\"orungen wie
+Kollaps/Synkope (kurzfristige Blutverteilungsst\"orung, kurzfristige
+zerebrale Isch\"amie,  fl\"uchtige Symptome)
+
+Schock -  Kompensationsmechanismen
+
+Der K\"orper versucht selber dagegen etwas zu tun und gegenzusteuern
+({\quotedblbase}kompensieren{\textquotedblleft}). Der wichtigste
+Mechanismus ist die \index{Zentralisation}Zentralisation. Darunter
+versteht man die Blutumverteilung zugunsten lebenswichtger Organe wie
+Herz, Gehirn, Lunge und Leber. Dabei werden z.B. Haut, Muskel und Darm
+sowie die Extremit\"aten (=Peripherie) kaum mehr  durchblutet.
+Periphere Venen kollabieren und die Rekapillarisierungszeit
+verl\"angert. Wenn die Kompensationsma{\ss}nahmen  versagen spricht man
+vom {\quotedblbase}dekompensierter Schock{\textquotedblleft}. Es
+besteht sp\"atestens dann akute Lebensgefahr![F0EA?] 
+
+Beachte: 
+
+\begin{center}
+ [Warning: Image ignored] % Unhandled or unsupported graphics:
+%\includegraphics[width=3.8cm,height=2.611cm]{AASdev20090228-img69.png}
+
+\end{center}
+Bei jedem Patienten ist zu erheben ob ein Schock oder eine realistische
+Schockgefahr besteht oder nicht bzw. festzustellen um welche Art von
+Schock es sich handelt (s.u.)!
+
+Achtung!
+
+Jeder Schockzustand ist grunds\"atzlich ein Fall f\"ur den NOTARZT!
+
+Allgemeine Schocksymptomatik
+
+\begin{center}
+\begin{tabular}{|m{3.9750001cm}m{9.325cm}|}
+\hline
+ &
+Symptome
+\\\hline
+\index{Schockgefahr}Schockgefahr\
+ &
+\begin{itemize}
+\item Keine eindeutigen Anzeichen
+
+\item Vorausschauend handeln!
+
+\item Bedenke Verdachtsdiagnose.  Muss ich damit rechnen dass sich ein
+Schock entwickelt?  Besteht Schockgefahr?
+
+\end{itemize}
+\\\hline
+Schock
+ &
+\begin{itemize}
+\item HF ${\uparrow}$
+
+\item m\"a{\ss}iger RR-Abfall
+
+\item RR noch {\textgreater} HF
+
+\item neurologisch unauff\"allig, ev. Euphorisch oder agitiert
+
+\item Haut bla{\ss}, evt. kaltschwei{\ss}ig
+
+\item Venen sind kollabiert oder gestaut
+
+\item Peripherie schlecht durchblutet
+
+\end{itemize}
+\\\hline
+\centering Schwerer Schock\par
+
+\centering Vollbild\par
+
+\centering [E427?]\par
+
+ &
+\begin{itemize}
+\item Tachykardie (HF ${\uparrow}$,
+{\quotedblbase}fliehender{\textquotedblleft} Puls)
+
+\item RR-Abfall (schwacher Puls)
+
+\end{itemize}
+\begin{itemize}
+\item Herzfrequenz {\textgreater} systolischer RR
+
+\end{itemize}
+\begin{itemize}
+\item Tachypnoe (schnelle, flache Atmung)
+
+\item neurologisch auff\"allig, getr\"ubt
+
+\item Haut bla{\ss}, zyanotisch (bl\"aulich), feucht
+
+\item Venen kollabiert oder gestaut
+
+\item nur mehr schwer behebbar! ${\rightarrow}$ Schock  m\"oglichst
+fr\"uhzeitig erkennen \&  behandeln
+
+\end{itemize}
+\\\hline
+\centering Endstadium\par
+
+\centering [E429?]\par
+
+ &
+\begin{itemize}
+\item Haut grau, klebrig
+
+\item Versagen der Herzfunktion
+
+\item RR kaum mehr me{\ss}bar
+
+\item evt. Koma
+
+\item evt. Schnappatmung
+
+\item Patient ist dabei zu sterben.
+
+\end{itemize}
+\\\hline
+\end{tabular}
+\end{center}
+Schockschere
+
+Normalerweise ist die Herzfrequenz niedriger als der systolische
+Blutdruck. Wenn der K\"orper versucht den Schock zu kompensieren kann
+sich dieses Verh\"altnis umkehren. Man spricht dann von der
+Schockschere, der Patient befindet sich dann bereits schon im Vollbild
+eines Schocks! 
+
+Achtung: Kinder haben andere Normalwerte f\"ur HF und RR!
+
+[Warning: Draw object ignored]
+
+Wenn sich das Verh\"altnis Herzfrequenz zu Systolischem Blutdruck
+umkehrt befindet sich der Patient bereits im Schock. 
+
+\label{bkm:RefHeading38104902}Allgemeine Ma{\ss}nahmen der
+\index{Schockbek\"ampfung}Schockbek\"ampfung
+
+Grundsatz: Der Schock muss bek\"ampft werden bevor man ihn bemerkt.
+
+\begin{itemize}
+\item Notarzt!
+
+\item Situationsgerechte  Lagerung, je nach Diagnose und Schockart
+
+\item Beengende Kleidung \"offnen
+
+\item Sauerstoffgabe hochdosiert (ab 6l/min bei Schockgefahr, 10l/min
+oder mehr bei bestehendem Schock, je nach Schwere%
+%
+)
+
+\end{itemize}
+Freigabe: Sauerstoffgabe hochdosiert (ab 6l/min bei Schockgefahr,
+10l/min oder mehr bei bestehendem Schock, je nach Schwere
+
+\begin{itemize}
+\item Monitoring (Pulsoxy, RR-Manschette angelegt lassen)
+
+\item Reanimationsbereitschaft 
+
+\item W\"armeerhalt
+
+\item Psychische Betreuung
+
+\item Weitere Massnahmen je nach Schockart 
+
+\end{itemize}
+Schock - Arten
+
+\begin{center}
+\begin{tabular}{|m{4.8430004cm}|m{8.457cm}|}
+\hline
+\centering Mechanismus
+ &
+Schockart
+\\\hline
+Herz pumpt zu wenig
+&
+\begin{itemize}
+\item Kardiogender Schock
+
+\end{itemize}
+\\\hline
+Zu wenig Blut vorhanden 
+
+ &
+\begin{itemize}
+\item Hypovol\"amischer Schock
+
+\end{itemize}
+\\\hline
+Gef\"a{\ss}e inad\"aquat weitgestellt, Blut versackt
+
+ &
+\begin{itemize}
+\item Anaphylaktischer Schock
+
+\item Septischer Schock, toxischer Schock
+
+\item Neurogener Schock
+
+\end{itemize}
+\\\hline
+\end{tabular}
+\end{center}
+\paragraph{Hypovol\"amischer Schock}
+Schock aufgrund eines Verlustes von Blutvolumen aus den Gef\"a{\ss}en.
+
+Es kann dabei verloren gehen: 
+
+\begin{itemize}
+\item Blut
+
+\item Plasma
+
+\item Wasser und Elektrolyte
+
+\end{itemize}
+Ursachen
+
+\begin{center}
+\tablehead{}\begin{supertabular}{|m{6.649cm}|m{6.651cm}|}
+\hline
+Fl\"ussigkeitsverlust nach au{\ss}en
+
+ &
+Fl\"ussigkeitsverlust nach innen
+
+\\\hline
+\begin{itemize}
+\item Blutung
+
+\item gastrointestinal (Durchfall, Diarrhoe )
+
+\item Verbrennungen (Hautbarriere versagt  gro{\ss}\-fl\"achig)
+
+\item renal (Diabetes mellitus, Diuretika, Polyurie bei  Nierenversagen)
+
+\end{itemize}
+ &
+\begin{itemize}
+\item Weichteilblutung
+
+\end{itemize}
+\begin{itemize}
+\item Nach Trauma, rupturierte Eileiter\-schwanger\-schaft, etc
+
+\end{itemize}
+\begin{itemize}
+\item Wassereinlagerung ins Gewebe
+
+\item Aszites ({\quotedblbase}Wasserbauch{\textquotedblleft} bei
+Lebererkrankungen  etc.)
+
+\item Ileus (Darmverschlu{\ss})
+
+\item H\"amatothorax, H\"amatoperiton\"aum
+
+\end{itemize}
+\\\hline
+\end{supertabular}
+\end{center}
+Bei akutem Fl\"ussigkeitsverlust kann ein Verlust von bis zu 20\% des
+Blutvolumens  gut kompensiert werden. Auf gr\"o{\ss}ere Verluste  folgt
+ein Absinken von Herzauswurf und RR!
+
+Spezielle Ma{\ss}nahmen
+
+\begin{itemize}
+\item Allgemein: Allgemeine Ma{\ss}nahmen der Schockbek\"ampfung (siehe
+oben) 
+
+\item Blutstillung  (weitere Verluste verhindern!)
+
+\item ggfs. Trauma-Vorgehen beachten
+
+\item %
+%
+Wenn m\"oglich schonende Bergung
+
+\item Lagerung: grunds\"atzlich %
+%
+Beine hoch  Wichtige Ausnahmen: {\textperiodcentered} kardiale Ursache,
+{\textperiodcentered} Kopf- / Brust\-ver\-letzungen,
+{\textperiodcentered} Hirndruck (SHT),  {\textperiodcentered}
+Knochenbr\"uche der Beine oder des Beckens, {\textperiodcentered}
+Bewusstlosigkeit ${\rightarrow}$ sonst F%
+%
+lachlagerung oder stabile Seitenlage
+
+\item evt. Aviso (Ank\"undigung) im  Krankenhaus / Schockraum
+
+\item Abtransport: rasch, schonend, nicht \"uberst\"urzt
+
+\end{itemize}
+Begriff {\quotedblbase}Schocklagerung{\textquotedblleft} ein f\"ur alle
+mal in der Ausbildung streichen, nur Hinweis dass dieser Ausdruck
+veraltet ist sollten sie ihn wo aufschnappen. Stattdessen
+{\quotedblbase}Beine-hoch{\textquotedblleft}-Lagerung.
+
+Wenn KI gegen Beine hoch: Flachlagerung bzw. stab. Seitenlage empfehlen?
+
+\paragraph{Kardiogener Schock}
+Schock infolge mangelnder Herzpumpleistung.
+
+\begin{center}
+\tablehead{}\begin{supertabular}{|m{6.649cm}|m{6.651cm}|}
+\hline
+Ursachen
+
+\begin{itemize}
+\item Herzversagen, Herzinsuffizienz
+
+\end{itemize}
+\begin{itemize}
+\item Myokardinfarkt (h\"aufigste Ursache)
+
+\item Herzrhythmusst\"orungen
+
+\end{itemize}
+\begin{itemize}
+\item Lungenembolie
+
+\end{itemize}
+ &
+charakterisiert durch
+
+\begin{itemize}
+\item RR-Abfall
+
+\item eingeschr\"ankte Pumpleistung
+
+\end{itemize}
+\begin{itemize}
+\item Blut staut sich zur\"uck
+
+\end{itemize}
+\\\hline
+\end{supertabular}
+\end{center}
+Spezielle Ma{\ss}nahmen
+
+\begin{itemize}
+\item Allgemein: Allgemeine Ma{\ss}nahmen der Schockbek\"ampfung (siehe
+oben) 
+
+\item Lagerung: Oberk\"orper hoch! Evt. Beine h\"angen  lassen. 
+
+\item medikament\"ose Therapie durch Notarzt  (Diuretika, Katecholamine,
+Heparin)
+
+\item Reanimationsbereitschaft  
+
+\end{itemize}
+\paragraph{Anaphylaktischer Schock}
+Schock aufgrund einer \"uberschie{\ss}enden allergischen Reaktion.
+
+{\quotedblbase}Allergischer Schock{\textquotedblleft}. Ausgel\"ost durch
+\"uberschie{\ss}ende Reaktion der K\"orerabwehr (Immunreaktion) auf
+bestimmte Stoffe (Antigene). 
+
+\begin{center}
+ [Warning: Image ignored] % Unhandled or unsupported graphics:
+%\includegraphics[width=2.641cm,height=3.837cm]{AASdev20090228-img70.jpg}
+
+\end{center}
+Es werden s\"amtliche Gef\"a{\ss}e maximal erweitert, zus\"atzlich
+steigt die Durchl\"assigkeit der Gef\"a{\ss}e
+(Gef\"a{\ss}permeabilit\"at ${\uparrow}$) ${\rightarrow}$ 
+Plasmaverlust in den Zwischengebwebsraum (Interstitium) 
+
+RR f\"allt massiv ab!
+
+M\"ogliche Antigene
+
+\begin{itemize}
+\item Pollen
+
+\item Medikamente, Antibiotika
+
+\item Kontrastmittel
+
+\item tierische Gifte (Bienenstich etc.)
+
+\item und vieles andere ...
+
+\end{itemize}
+Symptome%
+%
+
+
+\begin{center}
+\tablehead{}\begin{supertabular}{|m{3.31cm}|m{9.99cm}|}
+\hline
+\centering Stadium\par
+
+ &
+\\\hline
+Stadium I:
+
+ &
+Hautreaktion: evt. Ausschlag, R\"otung;
+{\quotedblbase}Quaddeln{\textquotedblleft}, Flush, \"Odeme
+
+Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
+
+\\\hline
+Stadium II:
+
+ &
+RR ${\downarrow}$  , Tachykardie
+
+\"Ubelkeit, Erbrechen, Durchfall 
+
+\\\hline
+Stadium III:
+
+ &
+Allgemeine Schocksymptome
+
+Bronchospasmus
+
+\\\hline
+Stadium IV:
+
+ &
+Atem-/Kreislaufstillstand
+
+Schwerer Schock
+
+\\\hline
+\end{supertabular}
+\end{center}
+Spezielle Ma{\ss}nahmen [F0EF?][F068?][F0F0?]
+
+\begin{itemize}
+\item Allgemein: Allgemeine Ma{\ss}nahmen der Schockbek\"ampfung (siehe
+oben) 
+
+\item Antigen  nach M\"oglichkeit entfernen!
+
+\item Lagerung: situationsgerecht. Druckverlust im Vordergrund: Beine
+hoch.%
+%
+ Atemprobleme im Vordergrund: stark erh\"ohter Oberk\"orper
+
+\end{itemize}
+\paragraph[Septischer Schock und Toxischer Schock]{Septischer Schock und
+Toxischer Schock}
+\label{bkm:RefHeading41284910}Siehe auch: Kap. [RS II] Hygiene 
+{\guillemotright} Sepsis
+[K.II{\guillemotright}\pageref{bkm:RefHeading41252510}, unten]
+
+Schock infolge einer schweren, k\"orperweiten Infektion oder aufgrund
+eines Gef\"a{\ss}-beeinflussenden Giftstoffes (Toxins).
+
+Durch bakterielle Gef\"a{\ss}wandsch\"adigung, temperaturbedingt (hohes
+Fieber {\textgreater} 38{\textdegree}C) sowie aufgrund von Giftstoffen
+kommt es zu Fl\"ussigkeitsaustritt in den Zwischen\-gewebs\-raum sowie
+zu Gef\"a{\ss}weitstellung.
+
+Ursachen
+
+\begin{center}
+\tablehead{}\begin{supertabular}{|m{6.649cm}|m{6.651cm}|}
+\hline
+Diverse Erreger und Toxine
+
+\begin{itemize}
+\item Langanhaltender Entz\"undungsherd der pl\"otzlich Erreger
+{\quotedblbase}ins Blut streut{\textquotedblleft} und
+{\quotedblbase}explodiert{\textquotedblleft}
+
+\item Besiedelte Fremdk\"orper (Diverse medizinische Sonden, Venflons,
+etc.), siehe Sepsis
+[K.II{\guillemotright}\pageref{bkm:RefHeading41252510}, unten]
+
+\item Tampons
+
+\item ...
+
+\end{itemize}
+ &
+Symptome
+
+\begin{itemize}
+\item Schock
+
+\item hohes Fieber oder kein Fieber
+
+\item Haut hei{\ss}, trocken, rot oder bleich, grau,
+{\quotedblbase}marmoriert{\textquotedblleft}
+
+\end{itemize}
+\\\hline
+\end{supertabular}
+\end{center}
+Spezielle Ma{\ss}nahmen
+
+\begin{itemize}
+\item Allgemein: Allgemeine Ma{\ss}nahmen der Schockbek\"ampfung (siehe
+oben) 
+
+\item Lagerung: situationsgerecht, Beine hoch
+
+\item Schutz vor Unterk\"uhlung/\"Uberw\"armung
+
+\item Aviso im Krankenhaus / Intensivstation
+({\quotedblbase}\"Uberwachungsbett{\textquotedblleft})
+
+\item ben\"otigt Antibiotika (im KH)
+
+\end{itemize}
+\paragraph{Neurogener Schock}
+Zusammenbruch der nerv\"osen Kreislaufregulation, inad\"aquate
+arterielle und ven\"ose Gef\"a{\ss}erweiterung (Vasodilatation)
+
+Ursachen 
+
+\begin{itemize}
+\item Neurologische Erkrankungen wie Querschnitt-Verletzung des
+R\"uckenmarks
+
+\item Die Gef\"a{\ss}e bekommen keine Nerven-Impulse und kontrahieren
+sich nicht mehr.
+
+\item ${\rightarrow}$ Blut versackt
+
+\end{itemize}
+Spezielle Ma{\ss}nahmen
+
+\begin{itemize}
+\item Allgemein: Allgemeine Ma{\ss}nahmen der Schockbek\"ampfung (siehe
+oben) 
+
+\item Lagerung: Flachlagerung (WS-Verletzung ist Kontraindikation gg.
+Beine hoch!)
+
+\end{itemize}
+
+
+
+
+\begin{savequote}
+Ein Mann ging von Jerusalem nach Jericho hinab und wurde von Räubern überfallen. 
+Sie plünderten ihn aus und schlugen ihn nieder; dann gingen sie weg und ließen ihn 
+halbtot liegen. Zufällig kam ein Priester denselben Weg
+herab; er sah ihn und ging weiter. Auch ein Levit kam zu
+der  Stelle; er sah ihn und ging weiter. Dann kam ein Mann
+aus  Samarien, der auf der Reise war. Als er ihn sah, hatte
+er  Mitleid, ging zu ihm hin, goss Öl und Wein auf seine
+Wunden  und verband sie. 
+
+Dann hob er ihn auf sein Reittier,
+brachte  ihn zu einer Herberge und sorgte für ihn. Am
+anderen Morgen  holte er zwei Denare hervor, gab sie dem
+Wirt und sagte:  Sorge für ihn, und wenn du mehr für ihn
+brauchst, werde  ich es dir bezahlen, wenn ich wiederkomme.
+Was meinst du:  Wer von diesen dreien hat sich als der
+Nächste dessen erwiesen,  der von den Räubern überfallen
+wurde?  
+
+Der Gesetzeslehrer antwortete: Der, der barmherzig
+an  ihm gehandelt hat. Da sagte Jesus zu ihm: Dann geh und handle genauso!
+\qauthor{Lk 10,25-37}
+\end{savequote}
+
+
+
 \chapter{Krankheiten und Medizinische Notfälle --- \gAasRsN{RS VI}}
 
 \minitoc
@@ -4760,6 +6556,7 @@ Changelog:
 2009-02-25: Start Changelog. Bis inkl. bakt. Meningitis mit Korr. von
 Koch verglichen und korr.
 \end{verbatim}
+
 
 \section{Einführung in die Medizin}
 
@@ -4998,7 +6795,7 @@ des rechten Herzens.
 
 \begin{gMassnahmenEnv}
     
-    \paragraph{Spezielle Ma{\ss}nahmen}
+    \paragraph{Spezielle Ma{\ss}nahmen} ~
     
     \gTxBeiVit \gTxMassVitBes
     \begin{itemize}
@@ -5021,6 +6818,8 @@ des rechten Herzens.
 \end{gMassnahmenEnv}
 
 \subsection{Koronare Herzkrankheit und Akutes Koronarsyndrom}
+
+
 
 \begin{description}
 	\item[Die \index{Koronare Herzkrankheit}\gT{Koronare Herzkrankheit}
@@ -5222,59 +7021,64 @@ Uhr Bereitschaftsdienst. Eine Voranmeldung und vorangehende Absprache
 zwischen Notarzt und dienstahbenden Oberarzt der Abteilung ist erforderlich. 
 Die PTCA ist in Wien u.a. verf\"ugbar im AKH, Donauspital, und KH Hietzing.
 
-\gFazit{
-	Kein Transport ohne Notarzt!
+\gCave{{\bfseries Kein Transport ohne Notarzt!}
 	
 	Auch nicht wenn
 	das Spital {\quotedblbase}um{\textquotesingle}s Eck{\textquotedblleft}
 	ist.
 
-	Der Patient braucht vermutlich nicht irgendein beliebiges Spital sondern
-	ein dienst\-bereites Herzkatheterlabor. Der Notarzt muss entscheiden ob
-	das notwendig und sinnvoll ist. 
+	Der Patient braucht vermutlich {\bfseries kein beliebiges
+	Spital} sondern ein {\bfseries dienst\-bereites
+	Herzkatheterlabor}. Der Notarzt muss entscheiden ob das notwendig und sinnvoll ist. 
 
 	Auch wenn der Patient ein Einweisungsformular (Spitalszettel) von einem	
 	Arzt hat (\"Arztefunkdient, Hausarzt) oder ein Hausarzt meint
-	{\quotedblbase}es sei eh nicht dringend{\textquotedblleft} undbedingt
+	{\quotedblbase}es sei eh nicht dringend{\textquotedblleft} unbedingt
 	einen Notarzt beiziehen.
 }
 
 \subsection{Herzrhythmusst\"orungen }
 
 \begin{center}
-\begin{table}[b]
+\begin{table}[h]
 \captionabove{Wichtige und häufige Herzrhythmusstörungen}
 \label{tab:herzrhythmusstoerungen}
 \begin{tabulary}{\textwidth}{LLL}
 \toprule
 Rhythmus & Bedeutung & Bemerkung
 \\\midrule
-Kammerflimmern & Reanimation  & ?
+
+\gEs{Bradykardie} 
+
+{\small (HF\,{\textless}\,60/min)}\footnote{beim
+Erwachsenen} & Situations\-abhängig & \emph{"`zu langsam"'}
 \\
-Pulslose Ventrikuläre Tachy\-kardie & Reanimation & ?
+\gEs{Tachykardie} 
+
+{\small (HF\,{\textgreater}\,100/min)}\footnote{beim
+Erwachsenen} & Situations\-abhängig & \emph{"`zu schnell"'}
+\\\midrule \gEs{Kammerflimmern} & Reanimation  & ?
 \\
-Asystolie (HF = 0) & Reanimation & ?
+\gEs{Pulslose Ventrikuläre Tachy\-kardie} & Reanimation & ?
 \\
-Bradykardie (HF {\textless} 60/min) & ? & ?
+\gEs{Asystolie} 
+
+{\small (HF\,=\,0)} & Reanimation & ?
 \\
-Tachykardie (HF {\textgreater}100/min) & ? & ?
-\\
-Vorhofflimmern & regellose Erregung im Vorhof
+\gEs{Vorhofflimmern} & regellose Erregung im Vorhof
 
 oft symptomlos & 
-Sehr viele Leute haben Vorhofflimmern und leben ganz gut
-damit.
+\gE{Chronische Erkrankung.} Sehr viele Leute haben
+Vorhofflimmern und leben ganz gut damit. 
 
-Komplikationen:
+Risikofaktor für:
 
-Tachykardie-Anfälle
+\gE{Tachykardie-Anfälle}
 
-Thrombenbildung
-
-deshalb Therapie mit gerinnungs\-hemmenden
-({\quotedblbase}blut\-ver\-d\"unnenden{\textquotedblleft}) Medi\-ka\-menten:
+\gE{Thrombenbildung}, dadurch erhöhtes Lungenembolie-
+und Schlaganfallrisiko. Deshalb Vorbeugung mit
+gerinnungs\-hemmenden ({\quotedblbase}blut\-ver\-d\"unnenden{\textquotedblleft}) Medi\-ka\-menten:
 z.B. \gE{"`Marcoumar"'} ${\rightarrow}$ Patient ist blutungsgefährdet
-
 \\\bottomrule
 \end{tabulary}
 \end{table}
@@ -5519,6 +7323,37 @@ Blutdruckkrisen auch akut Probleme machen kann.
 \end{itemize}
 
 \subparagraph{Langzeitfolgen}
+
+Die Hypertonie hat in der Notfallmedizin auch eine wichtige
+indirekte Bedeutung: Sie sit Ursache für viele andere
+Erkrankung, die ihrerseits akut lebensbedrohlich werden
+können. 
+
+Zwei Wirkungen der Hypertonei sind dabei besonders wichtig:
+Die Gefäßschödigung und die Bealastung des Herzens durch
+den hohen Gegendruck. 
+
+Bei der Gefäßschödigung kommt es zur ABlagerung durch Kalk
+und sonstige Plaques udn über längere Zeit zur Verengung
+oder Verstopfung der Gefäße. Je nach Organ kann das sehr
+massvie Auswirkungen haben. Im Herz führt es zur Angina
+Pectoris oder zum Herzinfakr, im Hirn zu Schlaganfällen, in
+den Nieren zu eine Niereninsuffizienz, usw. Selbst große
+Gefäße wie die Hauptschlagader (Aorta) können derartig
+geschädigt werden dass sie reißen (Aortenaneurysma) --- eine
+für den Patienten sehr "`unangenehme"' Sache. 
+
+Die Schödigung des Herzmuskels ist die Folge von dem
+erhöhten Durck gegen den das Herz pumpen muß. Der Muskel
+vergrößert sich um mit der Belastung fertig zu werden, kann
+aber damit nicht mehr ausreichend mit sauerstoffreichen.
+Blut versorgt werden. 
+
+Wie haben also gesehen daß die Hypertonie ein wichtger
+Risikofaktor für viele schwere Notfälle ist. Daher ist es
+auch verständlich daß die Behandlung der Hypertonie einen
+großen Stellenwert in der medizinischen Versorgung der
+Bevölkerung hat. 
 
 \begin{itemize}
     \item Gefä{\ss}schädigung
@@ -5809,6 +7644,44 @@ Besonder gefährdet hinsichtlich einer Atemwegsverlegung sind:
 
 \subsection{Asthma bronchiale}
 
+\gDefinition{Chronische Erkrankung mit mehr oder weniger
+häufigen Episoden von Anfällen mit massviver Atemnot oder
+Atembehinderung durch Verengung der Bronchien.}
+
+Im akuten Asthmaanfall kommt es zu einer Verengung der
+Bronchien, die Ausatmung wird massiv erschwert und der
+Patient hat das Gefühl nicht genug Luft zu bekommen.
+Mitunter ist ein pfeifendes Atemgeräusch wahrnehmbar. 
+
+Der Patient nimmt miest automatisch und unbewusst eine
+Position ein die seine Atemhilfsmuskulatur unterstützt: Er
+sitzt aufrecht und stützt sich oft nach vorne oder hinten
+ab. 
+
+Asthma ist bei den meisten Patienten oft schon bekannt und
+kann bzw. muß erfragt werden. Viele Patienten haben auch
+einen oder mehrere Sprays oder Inhalationsgeräte zur Dauer-
+oder Akutbehandlung. \gAuthNotes{Gabe von
+Beta-Mimmetikum-Spray muss noch diskutiert werden.} 
+
+Besonders betroffen vom Asthma bronchiale aind Patienten
+mit bekannten Allergien. Folglich kann alles, was bei dem
+Patienten eine Allergie verursacht auch einen Asthmaanfall
+auslösen (Pollen, Gräser, Katzen, Zigarettenrauch, \ldots). 
+
+Ist bei Eintreffen des Rettungsdienstes noch keine
+Besserung der Atemnot eingetreten ist diese Atemnot als
+massiv und lebensbedrohend einzuschätzen. Es ist nicht
+damit zu rechnen daß der Zustand von alleine wieder vergeht
+und bedarf einer medikamentösen Behandlung durch einen
+Notarzt. 
+
+\paragraph{Status Asthamticus} Der "`Status"' ist eine
+gefürchtete Komplikation des Asthmaanfalles bei der die
+Atemnot nicht wieder vergeht. Es besteht die Gefahr daß der
+ÜPatient nach einiger Zeit keine Kraft mehr zum atmen hat
+(Erschöüfung). Der Status asthmaticus kann tötlich enden. 
+
 Wiederholte Anfälle von Atemnot durch
 
 \begin{center}
@@ -5865,8 +7738,10 @@ Wiederholte Anfälle von Atemnot durch
 
 \begin{gMassnahmenEnv}
     
-    \paragraph{Spezielle Maßnahmen}
+    \paragraph{Spezielle Maßnahmen beim akuten
+    Asthmaanfall} ~
     
+     Einschätzen der vitalen Bedrohung. 
     \gEs{\gTxBeiVit} \gTxMassVitBes
     
     \begin{itemize}
@@ -5882,7 +7757,8 @@ Wiederholte Anfälle von Atemnot durch
         lassen (Atemhilfsmuskulatur unterstützen)
         \item $O_2$ \footnote{Achtung: In seltenen Fällen
         kann es vorkommen dass bei hochdosierter Sauerstoffgabe der Patient zu
-        atmen aufhört! } ca. 6\,l, bei Bedarf bis zu 15\,l
+        atmen aufhört! Siehe Kap. COPD (\ref{topic:copd})}
+        ca. 6\,l, bei Bedarf bis zu 15\,l
         \item Vitalwerte erheben \& Monitoring 
         \item Beruhigen, voratmen (Lippenbremse)
         \item Sprays, die Patient ev. bei sich hat d\"urfen nicht mehr genommen
@@ -5896,7 +7772,8 @@ Wiederholte Anfälle von Atemnot durch
 
 
 
-\subsection{COPD - Chronic obstructing pulmonary disease}
+\subsection{COPD - Chronic obstructing pulmonary
+disease}\label{topic:copd}
 
 Syn.: Chronisch-obstruktive Lungenerkrankung.
 
@@ -7670,32 +9547,51 @@ ev. Sepsiszeichen!}
 
 \subsection{Nierenkolik}
 
-\subparagraph*{
-Ursache}
+\gDefinition{Blockade des Harnleiters durch Nierensteine
+mit massiven kolikartigen Schmerzen aufgrund des Harnstaus.}
 
+\gMarried{\paragraph{Ursache}
+
+Die Nierenkolik ist eine äußerst schmerzhafte
+akute Erkankung. Sie entsteht dadurch daß Nierensteine den
+Harnleiter blockieren und verstopfe un dadurch Harn gestaut
+wird und den Harnleiter dehnt. 
+}{\gEs{Ursache}
 \begin{itemize}
-\item {\mdseries
-Nierenstein(e)}
+\item Nierenstein(e)
+\end{itemize}}
 
-\end{itemize}
-
-\paragraph{Symptome}
-
+\gMarried{\paragraph{Symptome}
+Die Folge sind massive,
+kolikartige Schmerzen, in der Flanke bzw. im Unterbauch der
+jeweiligen Seite. Im Gegensatz zu anderen abdominellen
+Erkrankungen ist der Patient extrem unruhig und agitiert.
+Oft läuft er gestikulierend und wehklagend durch die
+Gegend. Mitunter ist eine entsprechende Vorerkrankung
+(\gE{Nierensteine}bereits bekannt und kann erfragt werden. 
+}{\gEs{Symptome}
 \begin{itemize}
 \item R\"ucken-/Flankenschmerzen
 \item ev. Unterbauchschmerzen bei  Stein-/Sandabgang
 \item {\quotedblbase}der Stein wandert, der Schmerz wandert, der Patient
 wandert{\textquotedblleft}
 \item Blut im Harn (Hämaturie)
-\end{itemize}
+\end{itemize}}
+
+\paragraph{Versorgung} Im Vordergrund bei der Versorgung
+steht der rasche zügige Transport an eine Abteilung für Urologie. Wenn die
+Schmerzen sehr massiv sind muss eventuell eine
+Schmerztherapie durch den Notarzt erfolgen.
+
 
 \begin{gMassnahmenEnv}
-    \paragraph{Therapie}
-    
+    \paragraph{Spezielle Maßnahmen bei Nierenkolik}
     \begin{itemize}
         \item Lagerung nach Wunsch des Patienten
         \item schonender Transport
-        \item unerträgliche Schmerzen ={\textgreater} Notarzt
+        \item Bei unerträglichen Schmerzen Notarzt zur
+        Schmerztherapie beiziehen
+        \item Hospitalisation: Abt. für Urologie
     \end{itemize}
 \end{gMassnahmenEnv}
 
@@ -7705,24 +9601,39 @@ wandert{\textquotedblleft}
 
 \subsection{Akutes Harnverhalten}
 
-Abflu{\ss}behinderung der Harnblase
+\gDefinition{Abflu{\ss}behinderung des Harns aus der
+Harnblase, verscheidene Ursachen sind möglich.}
 
-\paragraph{Ursachen}
 
-\begin{itemize}
+
+Das akute Harnverhalten ist besonders bei Männern im besten
+oder oder fortgeschrittenem Alter häufig anzutreffen. 
+
+\gMarried{\paragraph{Ursachen}
+
+Hauptursache  dafür ist eine altersbedingte Vergrößerung 
+der Prostata, die die Harnröhre abschnürt. Davon abgesehen
+können auch alte Narben, Medikamente oder eine Störung der
+Schließmuskel der Harnblase\footnote{zum Beispiel im Rahmen eines
+Querschnitt-Syndroms nach Wirbelsäulenverletzungen} zu
+Harnverhalten führen. }
+{\begin{itemize}
     \item Lähmung (Querschnittlähmung)
     \item Schlie{\ss}muskel-Krampf
     \item Verlegung der Harnröhre
     \item Medikamente
-\end{itemize}
+\end{itemize}}
 
-\subparagraph{Gefahr}
+Je nach Füllungszustand der Harnblase kann das
+Harnverhalten sehr schmerzhaft sein.
 
-\begin{itemize}
-    \item Ruptur der Harnblase ${\rightarrow}$ Harn im kleinen Becken
-\end{itemize}
+Die Maßnhamen beschränken sich auf einen zügigen Transport
+an eine Abteilung für Urologie. Eine Notarzt-Nachforderung
+ist kaum sinnvoll, das NEF selten geeignietes Material zur
+Harnableitung mitführen. 
 
-\paragraph{Therapie}
+
+\paragraph{Spezielle Maßnahmen bei akutem Harnverhalt}
 
 \begin{itemize}
     \item Z\"ugiger Transport in eine Urologische Ambulanz
@@ -8071,22 +9982,34 @@ Linksseitenlage und nicht in R\"uckenlage transportiert werden. }
     \item Linksseitenlage (Hohlvene verläuft eher rechts)
 \end{itemize}
 
-\paragraph{EPH-Gestose -- Präeklampsie - Eklampsie}
-\label{topic:eph-gestose}\index{EPH-Gestose}
+\subsubsection{EPH-Gestose -- Präeklampsie - Eklampsie}
+\label{topic:eph-gestose}\index{EPH-Gestose}\index{Präeklampsie}\index{Eklampsie}\index{Krampfanfall!eklamptischer}
+
+Synonym: \gT{Präeklampsie}
+
+Die \gT{EPH-Gestose}, auch \gT{Präeklampsie} genannt,
+ist eine der gefüchtetsten Komplikationen der Spätschwangerschaft.
+Unbehandelt kann sie zum einem \gE{eklamptischen
+Krampfanfall} (\gT{Eklampsie}, ähnlich einem "`normalen"'
+zerebralen Krampfanfall) unf in weiterer Folge zum Tod von Mutter und Kind führen. 
+
+\gFazit{Die Präeklampsie (EPH-Gestose) kann zu einer
+Eklampsie (lebensgefährlicher Krampfanfall) führen.}
+
+\paragraph{Symptome}
+
 \begin{enumerate}
     \item Edema (\"Odeme)
     \item Proteinuria (Proteinurie = Eiwei{\ss} im Harn)
     \item Hypertonus (RR  ${\uparrow}$)
 \end{enumerate}
 
-Synonym: \index{Präeklampsie}\gT{Präeklampsie}
 
 RR {\textgreater}140/90 bei einer Schwangeren ist zu  hoch!!!
 
 Mutter-Kind-Pa{\ss} Untersuchungen zur  Fr\"uherkennung
 
-\index{Eklampsie}\gT{Eklampsie} = EPH + zerebrale 
-Krampfanfälle
+
 
 \begin{gMassnahmenEnv}
   \paragraph{Spezielle Maßnahmen bei Verdacht auf
@@ -8831,6 +10754,9 @@ dem KH Verdacht vorsichtig mitteilen}
 
 Michael Withofner, Dr. med. univ.
 
+\dictum[Otto Pötzl, nach \cite{Jolesch2}]{Der, der den
+Schlüssel hat, ist der Arzt.}
+\cite{Jolesch2}
 {\mdseries
 10\% aller psychiatrischen Erkrankungen  liegt eine organische Ursache
 zugrunde.}
@@ -10368,6 +12294,30 @@ Die Traumata lassen sich grob ind folgende Klassen Einteilen:
 \end{itemize}
 
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Wunden}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection{Stichverletzungen}
+
+NIEMALS  HERAUSZIEHEN!!!!!!!!
+
+steril abdecken + fixieren
+
+verletzte Strukturen??, dient ev. als 
+{\quotedblbase}St\"opsel{\textquotedblleft}??
+
+Fremdk\"orper soll nicht tiefer rutschen
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -10761,23 +12711,6 @@ Pneumothorax, unkompliziert:
 \end{gMassnahmenEnv}
 
 
-\section{Stichverletzungen}
-
-NIEMALS  HERAUSZIEHEN!!!!!!!!
-
-steril abdecken + fixieren
-
-verletzte Strukturen??, dient ev. als 
-{\quotedblbase}St\"opsel{\textquotedblleft}??
-
-Fremdk\"orper soll nicht tiefer rutschen
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \section{Bauchtrauma}
 \index{Bauchtrauma}
 
@@ -11084,29 +13017,28 @@ motorische Ateml\"ahmung ={\textgreater} auf Dauer  beatmungspflichtig
 
 \begin{gMassnahmenEnv}
     
-Bei Verdacht auf WS-Trauma noch vor Ort (bevor der Patient
-bewegt wird) \"Uberpr\"ufung von Sensibilit\"at  und Motorik
-(und Durchblutung) der Extremit\"aten !!!!!
-
-Strikte Immobilisierung (Vacuum-Matratze, Schaufeltrage,
-Stifneck)
-
-Bewegungen nur in der WS-Achse (keine  Beugung, Drehung,
-Seitw\"artsneigung)
-
-\gTxMassVitBes
-
-\begin{itemize}
-    \item $O_2$ im Rahmen der Schockbehandlung
-    \item Lagerung: flach.
-    \item Wenn Schocklagerung notwendig:
+    \gEs{Bei Verdacht} auf WS-Trauma erfolgt eine Strikte
+    Immobilisierung (Vacuum-Matratze, Schaufeltrage, Stifneck)
+    
+    Bewegungen nur in der WS-Achse (keine  Beugung, Drehung,
+    Seitw\"artsneigung)
+    
+    \gTxMassVitBes
+    
     \begin{itemize}
-        \item spezielle Technik: Trage schr\"ag: Kopf tief,
-        \item Kontraindikation: SHT oder kardiale 
-        Komplikationen
+        \item $O_2$ im Rahmen der Schockbehandlung
+        \item Lagerung: flach.
+        \item Wenn Schocklagerung notwendig:
+        \begin{itemize}
+            \item spezielle Technik: Trage schr\"ag: Kopf tief,
+            \item Kontraindikation: SHT oder kardiale
+            Komplikationen
+        \end{itemize}
+        \item Schockbekäpfung
+        \item Traumacheck
+        \item Neurocheck
     \end{itemize}
-\end{itemize}
-
+    
 \end{gMassnahmenEnv}
 
 
@@ -11130,6 +13062,9 @@ Zum Beispiel:
     Polytrauma
 \end{itemize}
 
+\gFazit{Patient gilt als polytraumatisiert  bis zum Beweis 
+des Gegenteils!} 
+
 \begin{gMassnahmenEnv}
     \paragraph{Spezielle Maßnahmen bei Polytrauma}
     \begin{itemize}
@@ -11150,28 +13085,21 @@ Zum Beispiel:
 
 \subsubsection{Polytrauma beim Kind}
 
-Schockindex unbrauchbar!!!
+Der Schockindex ist beim Kind unbrauchbar, da die
+Normalwerte andere sind!
 
-Kinder bleiben lange stabil, verfallen  dann aber schlagartig!!!
-
-doppelte Vorsicht (lieber eine  Notarztalarmierung zu viel, als eine zu 
-wenig!)
-
-nach Unfallhergang : Patient gilt als polytraumatisiert  bis zum Beweis 
-des Gegenteils! 
+Kinder bleiben lange stabil, verfallen dann aber schlagartig!
 
 \subsubsection{Der Unfallort}
 
-Absichern  der Unfallstelle,  m\"oglichst auff\"allig machen (Blaulicht,
+\begin{itemize}
+    \item Absichern  der Unfallstelle,  m\"oglichst auff\"allig machen (Blaulicht,
  Warnblinkanlage, Scheinwerfer)
-
-bei mehreren Verletzten: Triage
-
-Nachalarmierung : andere  Rettungsmittel, Feuerwehr, Polizei
-
-Eingeklemmte im Fahrzeug stabilisieren,  nicht eigenm\"achtig bergen
-
-Crash -Rettung nur  bei  Fremdgef\"ahrdung, HWS stabilisieren!
+ \item bei mehreren Verletzten: Triage
+ \item Nachalarmierung : andere  Rettungsmittel, Feuerwehr, Polizei
+ \item Eingeklemmte im Fahrzeug stabilisieren,  nicht eigenm\"achtig bergen
+ \item Crash -Rettung nur  bei  Fremdgef\"ahrdung, HWS stabilisieren!
+\end{itemize}
 
 
 
@@ -11193,23 +13121,24 @@ Knochenbruch (Fractur )
 Kapsel-/Bandapparates}
 
 \paragraph{Symptome}
+\begin{itemize}
+    \item Schmerzen
+    \item Schwellung
+    \item Blutergu{\ss} (H\"amatom )
+\end{itemize}
 
-Schmerzen
 
-Schwellung
-
-Blutergu{\ss} (H\"amatom )
 
 \begin{gMassnahmenEnv}
     \paragraph{Spezielle Massnahmen bei einer Verstauchung}
+    \begin{itemize}
+        \item ruhigstellen
+        \item hochlagern
+        \item k\"uhlen
+        \item ad Unfallabteilung (mu{\ss} nicht sofort sein)
+    \end{itemize}
+
     
-    ruhigstellen
-    
-    hochlagern
-    
-    k\"uhlen
-    
-    ad Unfallabteilung (mu{\ss} nicht sofort sein)
     
 \end{gMassnahmenEnv}
 
@@ -11219,14 +13148,14 @@ Blutergu{\ss} (H\"amatom )
 Gelenks}
 
 \paragraph{Symptome}
+\begin{itemize}
+    \item Schmerzen
+    \item Schwellung
+    \item Blutergu{\ss}
+    \item abnorme Gelenkstellung (federnd fixiert), bewegungsunf\"ahig
+\end{itemize}
 
-Schmerzen
 
-Schwellung
-
-Blutergu{\ss}
-
-abnorme Gelenkstellung (federnd fixiert), bewegungsunf\"ahig
 
 \begin{gMassnahmenEnv}
     \paragraph{Spezielle Maßnahmen bei einer Verrenkung}
@@ -11274,22 +13203,27 @@ Immer gr\"undlichen Traumacheck  durchf\"uhren, um keine
 Begleitverletzungen zu \"ubersehen!!!
 
 
-\paragraph{Frakturzeichen}
+\paragraph{Frakturzeichen} \index{Frakturzeichen}
 
-\begin{tabularx}{\linewidth}[H]{XX}
+Es gibt sichere und unsichere Frakturzeichen:
+
+\noindent\begin{tabularx}{\linewidth}[H]{XX}
 \toprule
-\multicolumn{2}{c}{\centering
-\index{Frakturzeichen}Frakturzeichen}
+\multicolumn{2}{c}{\gEs{Frakturzeichen}}
 \\\midrule
-sichere
+\multicolumn{1}{c}{\gEs{Sichere}}
  &
-unsichere
+\multicolumn{1}{c}{\gEs{Unsichere}}
 \\\toprule
 \begin{itemize}
-    \item abnorme Beweglichkeit
-    ({\quotedblbase}Pseudogelenk{\textquotedblleft})
+    \item Abnorme Beweglichkeit
+    \emph{("`Pseudogelenk"')}\footnote{"`Pseudogelenk"':
+    \emph{"`Wie ein Gelenk"'.} Beim Pesudogelenk hat es den
+    Anschein als würde en Gelenk bestehen (das nicht
+    dorthon gehört).)}
     \item Fehlstellung
-    \item Krepitus (bitte NICHT absichtlich  ausprobieren!!)
+    \item Knochenreiben (Krepitus) \footnote{\so{NICHT}
+    absichtlich ausprobieren!}
     \item Sichtbare freie Knochenteile (= offener Bruch)
 \end{itemize}
  &
@@ -11301,6 +13235,16 @@ unsichere
  \end{itemize}
 \\\bottomrule
 \end{tabularx}
+\captionof{table}{Frakturzeichen}
+
+\begin{figure}[h]
+    \begin{center}
+\includegraphics[width=6cm]{./images/fraktur_fehlstellung_nativ.jpg}
+\includegraphics[width=6cm]{./images/fraktur_fehlstellung_xray.jpg}
+\caption{Fehlstellung -- In natura und in
+Röntgendarstellung. \small\emph{Quelle: Hauer}}
+\end{center}
+\end{figure}
 
 \paragraph{Spezielle Maßnahmen}
 
@@ -11323,17 +13267,17 @@ Ruhigstellung / Schienung (unter Zug)
 Die Gr\"o{\ss}e des gesch\"adigten Areals wird in Prozent der
 ver\-brannten K\"orperoberfl\"ache angegeben.
 
-Faustregel - Neunerregel\label{topic:neunerregel}
+\paragraph{Neunerregel}\label{topic:neunerregel}\index{Neunerregel}
 
 Handfl\"ache (des Patienten) = 1~\% der K\"orperoberfl\"ache (KOF)
 
+\gMarried{
 \begin{center}
- [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=6.591cm,height=7.03cm]{AASdev20090228-img94.png}
+%\includegraphics[width=6.591cm,height=7.03cm]
+\gAuthNotes{./images/AASdev20090228-img94.png}
 
 \end{center}
-
-
+}{
 \begin{center}
 \begin{tabulary}{\linewidth}[H]{LCC}
 \toprule
@@ -11354,25 +13298,26 @@ Genital:  & 1 &
 \\\bottomrule
 \end{tabulary}
 \end{center}
+}
 
-\paragraph{Grade}
+\paragraph{Gradeinteilung}
 
-Das Ausma{\ss} der Sch\"adigung durch Verbrennung wird in 3 Grade
-eingeteilt:
+In Abhängigkeit von der Tiefe der Vebrennung wird das
+Ausma{\ss} der Sch\"adigung durch Verbrennung wird in 3 Grade eingeteilt:
 
-\begin{flushleft}
-\begin{tabulary}{\linewidth}{CLC}
+\begin{center}
+\begin{tabulary}{\linewidth}[H]{CLC}
 \toprule
-\centering Grad
+ Grad
  &
  &
 \\\midrule
-1. Grad
+1\,\textdegree
  &
 R\"otung (Juckreiz, Schmerz)
  &
 \\
-2. Grad
+2\,\textdegree
  &
 Blasenbildung, Schmerz
 
@@ -11381,14 +13326,14 @@ Blasenbildung, Schmerz
 2b: tiefer, Nerven zerst\"ort
  &
 \\
-3. Grad
+3\,\textdegree
  &
-trockene Hautfetzen (wei{\ss}-gelb-schwarz), Verkohlung, Schrumpf\-ung
-des Gewebes durch Hitze\-ein\-wirkung
- &
+Trockene Hautfetzen (wei{\ss}-gelb-schwarz), Verkohlung,
+\gT{Verschorfung}, Schrumpf\-ung des Gewebes durch
+Hitze\-ein\-wirkung &
 \\\bottomrule
 \end{tabulary}
-\end{flushleft}
+\end{center}
 
 Ab 5\% verbrannter (mind. 2. Grad) KOF bei Kindern oder 10\% bei
 Erwachsenen besteht Schockgefahr (Fl\"ussigkeitsverlust)
@@ -11399,22 +13344,45 @@ Erwachsenen besteht Schockgefahr (Fl\"ussigkeitsverlust)
     \item Traumacheck !
 \end{itemize}
 
-\paragraph{Ma{\ss}nahmen}
+\begin{gMassnahmenEnv}
+    \paragraph{Spezielle Ma{\ss}nahmen bei leichter
+    Vebrennung}
+    
+    \begin{itemize}
+        \item Eigenschutz!
+        \item Kleiderbrand l\"oschen
+        \item Kleidung rasch entfernen (sofern nicht  eingeschmolzen!)
+        \item mind. 10 min. mit m\"a{\ss}ig kaltem Wasser  sp\"ulen -- NICHT
+        unterk\"uhlen!
+        \item keimfreier, nicht verklebender Verband, locker anlegen
+        \item wenn vorhanden: Water-Jel
+        \footnote{Streitfrage: Water-Jel: Umstritten}
+        \item Schockbek\"ampfung
+        \item NAW wenn n\"otig
+    \end{itemize}
+\end{gMassnahmenEnv}
 
-\begin{itemize}
-    \item Eigenschutz!
-    \item Kleiderbrand l\"oschen
-    \item Kleidung rasch entfernen (sofern nicht  eingeschmolzen!)
-    \item mind. 10 min. mit m\"a{\ss}ig kaltem Wasser  sp\"ulen -- NICHT
-    unterk\"uhlen!
-    \item keimfreier, nicht verklebender Verband, locker anlegen
-    \item wenn vorhanden: Water-Jel
-    \footnote{Streitfrage: Water-Jel: Umstritten}
-    \item Schockbek\"ampfung
-    \item NAW wenn n\"otig
-\end{itemize}
+\begin{gMassnahmenEnv}
+    \paragraph{Spezielle Ma{\ss}nahmen bei großflächiger
+    Vebrennung}
+    \begin{itemize}
+        \item \gTxMassVitBes
+        \begin{itemize}
+            \item $O_2$: 10\,l
+        \end{itemize}
+        \item Kleidung rasch entfernen (sofern nicht  eingeschmolzen!)
+        \item mind. 10 min. mit m\"a{\ss}ig kaltem/
+        "'handwarmen"' Wasser sp\"ulen -- NICHT unterk\"uhlen!
+        \item keimfreier, nicht verklebender Verband, locker anlegen
+        \item wenn vorhanden: Water-Jel
+        \footnote{Streitfrage: Water-Jel: Umstritten}
+        \item Schockbek\"ampfung
+    \end{itemize}
+\end{gMassnahmenEnv}
 
-\paragraph{Was man besser nicht tun sollte \ldots}
+
+
+\paragraph{Was man besser \gE{nicht} tun sollte \ldots}
 
 \begin{itemize}
     \item NEIN: Salbe, Puder, etc. auf frische  Brandwunde
@@ -11501,6 +13469,10 @@ Risiko einer Erfrierung)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Unf\"alle durch Strom- und Blitzschlag}
+
+\marginpar{\includegraphics[width=\linewidth]{./images/electricity_japan.jpg}
+\small\emph{Foto: Fina}}
+
 Niederspannung: bis 1000 Volt (Steckdose:  230 Volt)
 
 Hochspannung: \"uber 1000 Volt, Stromst\"arke {\textgreater}  3 Ampere
@@ -12603,8 +14575,10 @@ Entspricht SAN 3-2-1-Einschulung}
 \part{ILS: NFS-Aufbaumodul}
 \part{ALS: Arzneimittel}
 \part{ALS: Minimalinvasive Tätigkeiten und Behandlung}
+
 \begin{appendix}
-\part{Glossar --- Begriffserklärungen}
+\part{Anhang}
+\chapter{Glossar --- Begriffserklärungen}
 {\mdseries
 \label{bkm:LexComputertomographie}Computertomographie. Abk.: CT. }
 
@@ -12629,7 +14603,7 @@ Notarztwagen. Abk.: NAW.}
 {\mdseries
 Röntgen. }
 
-\part*{Impressum, Hinweise}
+\chapter{Impressum, Hinweise}
 \begin{multicols}{2}
 ARBEITER-SAMARITER-BUND \"OSTERREICHS GRUPPE FLORIDSDORF-DONAUSTADT
 
@@ -12694,12 +14668,14 @@ handelt.
 
 \printindex
 \listoffigures
+
+\bibliography{Literatur-AAS}
+
 SO LONG..........
 
 AND THANKS FOR ALL THE FISH
 
-\section*[Literaturverzeichnis]{Literaturverzeichnis}
-fehlt
-\printindex
+
+
 \end{appendix}
 \end{document}

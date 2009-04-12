@@ -5,7 +5,7 @@
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
 
-\usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym} %Symbole
+\usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts} %Symbole
 \usepackage{makeidx,minitoc}
 
 
@@ -93,6 +93,7 @@ footskip=10mm,
 \addtokomafont{subsubsection}{\LARGE\color{ubuntured}}
 \addtokomafont{paragraph}{\large\sffamily\color{darkBlue}}
 \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
+\addtokomafont{minisec}{\normalsize\sffamily\color{black}}
 
 \setcounter{secnumdepth}{3}
 
@@ -468,7 +469,7 @@ Life Support (\emph{BLS}) \\ \emph{Modul Rettungssanitäter}}
 
 \chapter{Betriebsinterne Regelungen}
 
-\chapter{\gStatus{90\% fertig}Rechtliche
+\chapter{\gStatus{90\% fertig} Rechtliche
 Grundlagen --- \gAasRsN{RS~III}} 
 
 Christof Koller \[*\]
@@ -492,10 +493,13 @@ Changelog:
 
 \begin{table}[h]
 \captionabove{Rechtsordnung}
-\begin{tabularx}{15cm}{X|XXX|XX}
+\begin{tabularx}{\linewidth}[H]{X|XXX|XX}
 \toprule
-EU-Recht 
-& \multicolumn{5}{c}{Struktur der \"Osterreichischen Rechtsordnung} 
+
+& \multicolumn{5}{c}{\gEs{$\Swarrow$ EU-Recht $\Searrow$}} 
+\\\midrule
+
+& \multicolumn{5}{c}{\gEs{Struktur der \"Osterreichischen Rechtsordnung}} 
 \\\midrule
 
 { } 
@@ -568,54 +572,12 @@ und das Unternehmensrecht.
 
 \subsection{Vertragsverhältnis im Rettungswesen}
 
-\begin{table}
-\begin{flushleft}
-\tablehead{}\begin{supertabular}{m{3.3cm}m{5.6210003cm}m{4.1730003cm}}
- &
-	\centering Heilbehandlungsvertrag \par
-
-	\centering Geschäftsf\"uhrung ohne Auftrag im Notfall
- 	&
-	\\
-\raggedleft {\bfseries\color{blue} {Patient}}\par
-
- &
-	{}
-
- 	&
-		{\bfseries\color{red} Rettungsorganisation }
-
-		{(bzw. Krankenanstalt)}
-
-\\
-\raggedleft Erf\"ullungsgehilfe\par
-
- &
-	
-
- 	&
-		{ }
-		
-		Arbeitsvertrag
-
-		Vereinsmitgliedschaft
-
-		Zivildienst
-
-\\
- &
-	\centering {\bfseries\color[rgb]{1.0,0.827451,0.1254902}
-	{(Not)Arzt/Sanitäter}}\par
-
- 	&
-\\
-\end{supertabular}
-\end{flushleft}
-% \ncline[nodesep=3pt]{<->}{patient}{rettorg}
-% \ncline[nodesep=3pt]{<->}{patient}{erfgeh}
-% \ncline[nodesep=3pt]{<->}{rettorg}{erfgeh}
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=8cm]{./images/recht_vertrag.png}
+\end{center}
 \caption{Vertragsverhältnisse im Rettungsdienst}
-\end{table}
+\end{figure}
 Das Rechtsverhältnis im Rettungswesen besteht grundsätzlich aus drei
 Parteien: dem Patienten, der Rettungsorganisation und dem (Not)Arzt
 oder Sanitäter. (In einer Krankenanstalt ist das Verhältnis
@@ -2902,7 +2864,7 @@ Derzeit in Vorbereitung.
 
 Kapitelliste nicht vollst\"andig
 
-Blutdruckmessung
+\section{Blutdruckmessung}
 
 Grundlagen
 
@@ -2941,140 +2903,79 @@ Shunt-Arm zu zeigen!
 
 Ma{\ss}nahmen
 
-\begin{itemize}
-\item Funktion des Blutdruckmessger\"ates und des Stethoskops pr\"ufen
+\begin{enumerate}
+    \item Evt. Funktion des Blutdruckmessger\"ates und des Stethoskops pr\"ufen
+    \begin{itemize}
+        \item Kontrolle der Dichte des Ventils, der Verbindungsschl\"auche und
+        der Manschette (Ventil schlie{\ss}en, Manschette etwas aufpumpen und
+        Zusammenpressen, Manschette ganz entl\"uften)
+        \item Kontrolle der G\"angigkeit des Ventils (es soll sich leicht auf
+        und zuschrauben lassen)
+        \item Kontrolle des Manometers auf korrekte Eichung: Die Nadel muss sich
+        im Ruhezustand genau bei 0mmHg befinden
+        \item Ohrst\"opsel des Stethoskops zeigen schr\"ag nach vorne
+        \item Trichterfunktion durch Ber\"uhren der Membran pr\"ufen
+    \end{itemize}
+    \item Patientenlagerung
+    \begin{itemize}
+        \item Arm freimachen und entspannt auf einen Tisch legen in leichter
+        Flexion und Supination
+        \item Oberarm auf Herzh\"ohe
+    \end{itemize}
+    \item Auswahl der geeigneten Manschettengr\"o{\ss}e
+    \begin{itemize}
+        \item Manschette laut Herstellerangaben w\"ahlen z.B Standardmanschette:
+        Oberarmumfang max. 31 cm
+        \item Messwertverf\"alschung vermeiden! Der aufblasbare Teil der
+        Manschette soll 80\% des Oberarmumfangs umfassen, die Breite der
+        Manschette mindestens 1/3 des Oberarmumfangs betragen
+        \item Zu kleine Manschetten f\"uhren zum Messen zu hoher Werte, zu weite
+        Manschetten k\"onnen nicht am Arm fixiert werden
+    \end{itemize}
+    \item Handhabung des Stethoskops
+    \item Bestimmen der Anlegestelle f\"ur Manschette und der
+    Auskultationsstelle durch Palpation
+    \begin{itemize}
+        \item Arteria brachialis medial in der Ellenbeuge aufsuchen
+    \end{itemize}
+    
+    \item Anlegen der Manschette
+    \begin{itemize}
+        \item Manschette muss auf unbekleideter Haut aufliegen
+        \item m\"a{\ss}ig straff
+        \item Abstand zur Ellenbeuge 2,5 cm
+        \item aufblasbaren Teil \"uber A. brachialis zentrieren
+        \item Schl\"auche nicht im Weg,
+        \item CAVE: Halbseitenschw\"ache/-l\"ahmung, Shuntarm bei
+        Dialysepatienten, Arm\"odem
+    \end{itemize}
+    \item Puls f\"uhlen beim Aufpumpen
+    \begin{itemize}
+        \item Schnelles Aufpumpen
+        \item Tasten des Radialispulses mit Finger 2-4
+        \item Aufpumpen bis 30 mmHg \"uber jenen Druck, ab dem kein Radialispuls
+        mehr getastet wird
+    \end{itemize}
+    \item Messvorgang
+    \begin{itemize}
+        \item Kopf des Stethoskops auf a. brachialis legen
+        \item Druck langsam ablassen 2 mmHg/sec
+        \item Systolischer Wert: Beginn der turbulenten Korotkoffschen
+        Str\"omungsger\"ausche
+        \item diastolischer Wert: Verschwinden der Korotkoffschen Ger\"ausche
+        \item Wenn Ger\"ausche \"uberhaupt nicht verschwinden (z.B. bei Kindern,
+        Schwangeren etc.), so gilt als diastolischer Wert der Messpunkt, an dem
+        die Ger\"ausche deutlich leiser werden
+        \item Wenn Ger\"ausche verschwunden sind, noch weitere 10mmHg langsam
+        ablassen -- wenn dann keine Ger\"ausche mehr h\"orbar sind, kann die
+        Manschette z\"ugig entleert werden
+        \item CAVE: auskultatorische L\"ucke
+    \end{itemize}
+    \item Protokollierung der Blutdruckwerte
+\end{enumerate}
 
-\end{itemize}
-\begin{itemize}
-\item Kontrolle der Dichte des Ventils, der Verbindungsschl\"auche und
-der Manschette (Ventil schlie{\ss}en, Manschette etwas aufpumpen und
-Zusammenpressen, Manschette ganz entl\"uften)
 
-\item Kontrolle der G\"angigkeit des Ventils (es soll sich leicht auf
-und zuschrauben lassen)
-
-\item Kontrolle des Manometers auf korrekte Eichung: Die Nadel muss sich
-im Ruhezustand genau bei 0mmHg befinden
-
-\item Ohrst\"opsel des Stethoskops zeigen schr\"ag nach vorne
-
-\item Trichterfunktion durch Ber\"uhren der Membran pr\"ufen
-
-\end{itemize}
-\begin{itemize}
-\item Kontaktaufnahme mit dem Patienten
-
-\end{itemize}
-\begin{itemize}
-\item Standardisierte Blutdruckmessung in Ruhe = konstante Bedingungen +
-vor der Messung: kein Nikotin ( 30 min) -- Koffein ( 2 h) -- Alkohol (8
-h)  {}-- k\"orperliche Anstrengung (1h)
-
-\end{itemize}
-\begin{itemize}
-\item Patientenlagerung
-
-\end{itemize}
-\begin{itemize}
-\item Arm freimachen und entspannt auf einen Tisch legen in leichter
-Flexion und Supination
-
-\item Oberarm auf Herzh\"ohe
-
-\end{itemize}
-\begin{itemize}
-\item Auswahl der geeigneten Manschettengr\"o{\ss}e
-
-\end{itemize}
-\begin{itemize}
-\item Manschette laut Herstellerangaben w\"ahlen z.B Standardmanschette:
-Oberarmumfang max. 31 cm
-
-\item Messwertverf\"alschung vermeiden! Der aufblasbare Teil der
-Manschette soll 80\% des Oberarmumfangs umfassen, die Breite der
-Manschette mindestens 1/3 des Oberarmumfangs betragen
-
-\item Zu kleine Manschetten f\"uhren zum Messen zu hoher Werte, zu weite
-Manschetten k\"onnen nicht am Arm fixiert werden
-
-\end{itemize}
-\begin{itemize}
-\item Handhabung des Stethoskops
-
-\item Bestimmen der Anlegestelle f\"ur Manschette und der
-Auskultationsstelle durch Palpation
-
-\end{itemize}
-\begin{itemize}
-\item Arteria brachialis medial in der Ellenbeuge aufsuchen
-
-\end{itemize}
-\begin{itemize}
-\item Anlegen der Manschette
-
-\end{itemize}
-\begin{itemize}
-\item Manschette muss auf unbekleideter Haut aufliegen
-
-\item m\"a{\ss}ig straff
-
-\item Abstand zur Ellenbeuge 2,5 cm
-
-\item aufblasbaren Teil \"uber A. brachialis zentrieren
-
-\item Schl\"auche nicht im Weg,
-
-\item CAVE: Halbseitenschw\"ache/-l\"ahmung, Shuntarm bei
-Dialysepatienten, Arm\"odem
-
-\end{itemize}
-\begin{itemize}
-\item Puls f\"uhlen beim Aufpumpen
-
-\end{itemize}
-\begin{itemize}
-\item Schnelles Aufpumpen
-
-\item Tasten des Radialispulses mit Finger 2-4
-
-\item Aufpumpen bis 30 mmHg \"uber jenen Druck, ab dem kein Radialispuls
-mehr getastet wird
-
-\end{itemize}
-\begin{itemize}
-\item Messvorgang
-
-\end{itemize}
-\begin{itemize}
-\item Kopf des Stethoskops auf a. brachialis legen
-
-\item Druck langsam ablassen 2 mmHg/sec
-
-\item Systolischer Wert: Beginn der turbulenten Korotkoffschen
-Str\"omungsger\"ausche
-
-\item diastolischer Wert: Verschwinden der Korotkoffschen Ger\"ausche
-
-\item Wenn Ger\"ausche \"uberhaupt nicht verschwinden (z.B. bei Kindern,
-Schwangeren etc.), so gilt als diastolischer Wert der Messpunkt, an dem
-die Ger\"ausche deutlich leiser werden
-
-\item Wenn Ger\"ausche verschwunden sind, noch weitere 10mmHg langsam
-ablassen -- wenn dann keine Ger\"ausche mehr h\"orbar sind, kann die
-Manschette z\"ugig entleert werden
-
-\item CAVE: auskultatorische L\"ucke
-
-\end{itemize}
-\begin{itemize}
-\item Protokollierung der Blutdruckwerte
-
-\end{itemize}
-\begin{itemize}
-\item Immer sofort nach Messung protokollieren
-
-\end{itemize}
-Das EKG
+\section{Das EKG}
 
 Das Elektrokardiogramm (EKG) zeigt mittels eines entsprechenden
 Ger\"ates die elektrische Herzaktivit\"at des Reizleitungssystems an.
@@ -3084,15 +2985,12 @@ aufgeklebt und mittels eines Kabels mit dem EKG-Ger\"at verbunden.
 EKG -- Ablauf einer Erregung
 
 \begin{itemize}
-\item P-Welle \~{} Vorhoferregung
-
-\item PQ-Zeit \~{} AV-\"Uberleitung
-
-\item QRS-Komplex \~{} Kammererregung
-
-\item ST-Strecke + T-Welle \~{} Erregungsr\"uckbildung
-
+    \item P-Welle \~{} Vorhoferregung
+    \item PQ-Zeit \~{} AV-\"Uberleitung
+    \item QRS-Komplex \~{} Kammererregung
+    \item ST-Strecke + T-Welle \~{} Erregungsr\"uckbildung
 \end{itemize}
+
 Das EKG gibt nur die elektrische Leitung, nicht aber die tats\"achliche
 Muskelarbeit wieder! Es erlaubt keine Aussage \"uber die Herzleistung! 
 
@@ -3100,17 +2998,16 @@ Grundsatz: Selbst ein toter Patient kann ein
 {\quotedblbase}sch\"ones{\textquotedblleft} EKG haben. (allerdings
 nicht lange)
 
-\subparagraph{EKG -- Ableitungen}
+\subsection{EKG -- Ableitungen}
 Grunds\"atzlich unterscheidet man zwischen den Extremit\"atenableitungen
 und den Brustwandableitungen. 
 
 \begin{itemize}
-\item Extremit\"atenableitungen: I, II, III, aVL, aVR, aVF
-
-\item Brustwandableitungen: V1 -- V6
-
+    \item Extremit\"atenableitungen: I, II, III, aVL, aVR, aVF
+    \item Brustwandableitungen: V1 -- V6
 \end{itemize}
-Extremit\"atenableitungen
+
+\subsubsection{Extremit\"atenableitungen}
 
 Die Extremit\"atenableitungen werden mittels 4 Elektroden abgeleitet. Je
 eine Elektrobe wird an den Enden der Extremit\"aten angebracht. Zur
@@ -3212,42 +3109,34 @@ Michael Motal
 
 immer.
 
-Material
+\minisec{Material}
 
 \begin{itemize}
 \item 2 Helfer
-
-\item 1 stifneck f\"ur sp\"ater!
-
+\item 1 Stifneck f\"ur sp\"ater!
 \end{itemize}
-Vorgehen
 
-\begin{itemize}
-\item 1 Helfer fixiert den Helm von hinten und l\"asst nicht mehr los,
-bis der Helm unten ist. Zwischen Helm und Schritt eine Helmh\"ohe
-Abstand lassen, damit der Helm in einer Bewegung abgezogen werden kann
+\minisec{Vorgehen}
 
-\item 1 Helfer spricht den Patienten von vorne an, \"offnet Visier und
-Kinnriemen
-
-\item der seitliche Helfer stabilisiert den Kopf: eine Hand fasst mit
-Daumen und Zeigefinger das Unterkiefer, die andere Hand st\"utzt den
-Kopf von unten. W\"ahrend der Helm abgezogen wird rutscht diese Hand
-etwas nach
-
-\item der hintere Helfer zieht den Helm in einer S-f\"ormigen Bewegung
-ab: den Helm zuerst kippen bis die Nasenspitze sichtbar ist, dann die
-Unterkante in der gegengleichen Bewegung zum Helfer bewegen
-
-\item der hinere Helfer zieht den Helm sanft fertig ab und legt ihn
-sicher ab
-
-\item der hintere Helfer \"ubernimmt den Kopf im doppelten C-Griff:
-Daumen und Zeigefinger um ein Ohr, Kopf leicht auf Zug halten.
-
-\item der seitliche Helfer legt ein stifneck an (siehe unten)
-
-\end{itemize}
+\begin{enumerate}
+    \item Ein Helfer fixiert den Helm von hinten und l\"asst nicht mehr los,
+    bis der Helm unten ist. Zwischen Helm und Schritt eine Helmh\"ohe
+    Abstand lassen, damit der Helm in einer Bewegung abgezogen werden kann
+    \item Ein Helfer spricht den Patienten von vorne an, \"offnet Visier und
+    Kinnriemen
+    \item Der \gE{seitliche} Helfer stabilisiert den Kopf: eine Hand fasst mit
+    Daumen und Zeigefinger das Unterkiefer, die andere Hand st\"utzt den
+    Kopf von unten. W\"ahrend der Helm abgezogen wird rutscht diese Hand
+    etwas nach
+    \item Der \gE{hintere} Helfer zieht den Helm in einer S-f\"ormigen Bewegung
+    ab: den Helm zuerst kippen bis die Nasenspitze sichtbar ist, dann die
+    Unterkante in der gegengleichen Bewegung zum Helfer bewegen
+    \item Der \gE{hintere} Helfer zieht den Helm sanft fertig ab und legt ihn
+    sicher ab
+    \item Der \gE{hintere} Helfer \"ubernimmt den Kopf im doppelten C-Griff:
+    Daumen und Zeigefinger um ein Ohr, Kopf leicht auf Zug halten.
+    \item Der \gE{seitliche} Helfer legt ein stifneck an (siehe unten)
+\end{enumerate}
 
 
 \subsection{Anlegen einer
@@ -3256,50 +3145,37 @@ HWS-Immobilisationsschiene (Stifneck\texttrademark)}
 zur Stabilisierung der Halswirbels\"aule bei jedem Verdacht auf eine
 Verletzung; auf jeden Fall bei jeder Helmabnahme!
 
-Material
+\minisec{Material}
 
 \begin{itemize}
-\item 2 Helfer
-
-\item 1 stifneck
-
-\end{itemize}
-Vorgehen
-
-\begin{itemize}
-\item Pat. auffordern, den Kopf nicht zu bewegen
-
-\item nach Helmabnahme: Kopf weiterhin leicht auf Zug halten
-
-\item der hintere Helfer h\"alt Kopf/HWS in Neutralstellung
-
-\item der seitliche Helfer misst die Entfernug von Schulter bis
-Unterkiefer in Fingerbreiten aus
-
-\item stifneck entsprechend einstellen: gemessene Entfernung auftragen:
-Hartplastikrand, der an der Schulter aufliegt unten, Markierung am
-verschiebbaren Teil bzw H\"ohe der Kinnst\"utze oben)
-
-\item Verschiebemechanismus des stifneck blockieren, ab nun darf kein
-Verstellen mehr m\"oglich  sein 
-
-\item stifneck zuerst am Kinn anlegen/anpassen und festhalten
-
-\item Klettverschlu{\ss}band so einfalten, dass es nicht am Boden
-scheifen kann (h\"alt sonst nicht mehr)
-
-\item Nackenteil unter Pat. durchf\"uhren (Vorsicht:
-Klettverschlussband)
-
-\item fest schlie{\ss}en
-
-\end{itemize}
-\begin{itemize}
-\item[] Kinnspitze sollte ein kurzes St\"uck \"uber Kante hinausschauen
-(kein Durchrutschen) aber nicht allzu weit (falsch eingestellt)
-
+    \item 2 Helfer
+    \item 1 stifneck
 \end{itemize}
 
+\minisec{Vorgehen}
+
+\begin{enumerate}
+    \item Pat. auffordern, den Kopf nicht zu bewegen
+    \item nach Helmabnahme: Kopf weiterhin leicht auf Zug halten
+    \item der hintere Helfer h\"alt Kopf/HWS in Neutralstellung
+    \item der seitliche Helfer misst die Entfernug von Schulter bis
+    Unterkiefer in Fingerbreiten aus
+    \item stifneck entsprechend einstellen: gemessene Entfernung auftragen:
+    Hartplastikrand, der an der Schulter aufliegt unten, Markierung am
+    verschiebbaren Teil bzw H\"ohe der Kinnst\"utze oben)
+    \item Verschiebemechanismus des stifneck blockieren, ab nun darf kein
+    Verstellen mehr m\"oglich  sein
+    \item stifneck zuerst am Kinn anlegen/anpassen und festhalten
+    \item Klettverschlu{\ss}band so einfalten, dass es nicht am Boden
+    scheifen kann (h\"alt sonst nicht mehr)
+    \item Nackenteil unter Pat. durchf\"uhren (Vorsicht:
+    Klettverschlussband)
+    \item fest schlie{\ss}en
+    \begin{itemize}
+        \item[] Kinnspitze sollte ein kurzes St\"uck \"uber Kante hinausschauen
+        (kein Durchrutschen) aber nicht allzu weit (falsch eingestellt)
+    \end{itemize}
+\end{enumerate}
 
 
 
@@ -3315,61 +3191,49 @@ als die Trage sein m\"ussen Kopf und Oberk\"orper auf jeden Fall
 trotzdem auf der Trage zu liegen kommen. Ausnahme: Beinverletzung, bei
 der eine Wirbels\"aulenverletzung ausgeschlossen werden kann.
 
-Material
+\minisec{Material}
 
 \begin{itemize}
-\item 2 Helfer
-
-\item Schaufeltrage
-
-\item Gurte f\"ur Schaufeltrage
-
-\end{itemize}
-Vorgehen
-
-\begin{itemize}
-\item Schaufeltrage neben Patienten in zusammengebautem Zustand auf die
-richtige L\"ange einstellen. Sollte ein Patient zu gro{\ss} sein
-m\"ussen Kopf und Oberk\"orper auf jeden Fall trotzdem auf der Trage
-liegen! Vorsicht: Markierung der max. L\"ange bei Schraubmodell
-
-\item \"Offnen der Trage: Schnappverschl\"usse; je nach Methode nur den
-unteren oder beide \"offnen.
-
-\item Aufschaufeln, 1. Methode: Fu{\ss}seite offen, Pat. wird von oben
-kommend wie auf eine Schere aufgeladen, die Trage unter ihm
-geschlossen. Kontrolle des sicheren Schlu{\ss}es!
-
-\item Aufschaufeln: 2. Methode: beide Teile getrennt, Pat. leicht an
-Schulter und H\"ufte zur Seite gedreht und jew. Tragenteil
-daruntergeschoben. H\"alften zuerst am Kopf-, dann am Fu{\ss}ende
-schliessen. Kontrolle des sicheren Schlu{\ss}es!
-
-\item Angurten: 2 Gurte; jeden Gurt zuerst um den Handgriff der einen,
-dann der anderen H\"alfte f\"uhren, dann \"uber dem Patienten
-schlie{\ss}en und festziehen.
-
-\item Umlagern auf Vakuummatratze: Trage mit vorbeireiteter Matratze
-(s.u.) neben Patienten stellen um diesen einen m\"oglichst geringen Weg
-tragen/bewegen zu m\"ussen
-
-\item Gurte \"offnen und entfernen.
-
-\item H\"alften trennen: beide Schnappverschl\"usse \"offnen
-
-\item H\"alften parallel zum Patienten flach wegziehen. Der Patient soll
-hierbei nicht bewegt werden!
-
-\item Sollten die Schnappschl\"osser klemmen kann man die Trage wie bei
-der Scherentechnik an nur einer Seite \"offnen und in V-Form (je ein
-Helfer auf einer Seite) entfernen.
-
+    \item 2 Helfer
+    \item Schaufeltrage
+    \item Gurte f\"ur Schaufeltrage
 \end{itemize}
 
+\minisec{Vorgehen}
+
+\begin{enumerate}
+    \item Schaufeltrage neben Patienten in zusammengebautem Zustand auf die
+    richtige L\"ange einstellen. Sollte ein Patient zu gro{\ss} sein
+    m\"ussen Kopf und Oberk\"orper auf jeden Fall trotzdem auf der Trage
+    liegen! Vorsicht: Markierung der max. L\"ange bei Schraubmodell
+    \item \"Offnen der Trage: Schnappverschl\"usse; je nach Methode nur den
+    unteren oder beide \"offnen.
+    \item Aufschaufeln, 1. Methode: Fu{\ss}seite offen, Pat. wird von oben
+    kommend wie auf eine Schere aufgeladen, die Trage unter ihm
+    geschlossen. Kontrolle des sicheren Schlu{\ss}es!
+    \item Aufschaufeln: 2. Methode: beide Teile getrennt, Pat. leicht an
+    Schulter und H\"ufte zur Seite gedreht und jew. Tragenteil
+    daruntergeschoben. H\"alften zuerst am Kopf-, dann am Fu{\ss}ende
+    schliessen. Kontrolle des sicheren Schlu{\ss}es!
+    \item Angurten: 2 Gurte; jeden Gurt zuerst um den Handgriff der einen,
+    dann der anderen H\"alfte f\"uhren, dann \"uber dem Patienten
+    schlie{\ss}en und festziehen.
+    \item Umlagern auf Vakuummatratze: Trage mit vorbeireiteter Matratze
+    (s.u.) neben Patienten stellen um diesen einen m\"oglichst geringen Weg
+    tragen/bewegen zu m\"ussen
+    \item Gurte \"offnen und entfernen.
+    \item H\"alften trennen: beide Schnappverschl\"usse \"offnen
+    \item H\"alften parallel zum Patienten flach wegziehen. Der Patient soll
+    hierbei nicht bewegt werden!
+    \item Sollten die Schnappschl\"osser klemmen kann man die Trage wie bei
+    der Scherentechnik an nur einer Seite \"offnen und in V-Form (je ein
+    Helfer auf einer Seite) entfernen.
+\end{enumerate}
 
 
 
-\subsubsection{Vakuummatratze}
+
+\subsection{Vakuummatratze}
 
 zur Ruhigstellung des gesamten K\"orpers, bei Verdacht auf m\"ogliche
 Wirbels\"aulenverletzungen, Becken- oder Oberschenkelfrakturen (lockere
@@ -3392,7 +3256,7 @@ angepasst sein und somit ein Bewegen verhindern.
 
 \minisec{Vorgehen}
 
-\begin{itemize}
+\begin{enumerate}
 \item Fahrtrage auf tiefste Stufe stellen (ganz unten)
 \item Vorbereiten: Vakuummatratze auf Fahrtrage legen. Die weichere
 Seite ist die Patientenseite, Ventil beim Kopf. Kugeln so verteilen,
@@ -3412,7 +3276,7 @@ formen: Ecken neben dem Kopf hochformen).
 angepasst (Matratze muss jetzt bretthart sein) Ventil schlie{\ss}en,
 Accuvac abdrehen.
 \item Pat. an Fahrtrage angurten.
-\end{itemize}
+\end{enumerate}
 
 
 \subsection{Vakuum-Beinschiene}
@@ -3426,42 +3290,42 @@ Oberschenkel: Vakuummatratze
 \minisec{Material}
 
 \begin{itemize}
-\item 2 Helfer
-\item Vakuumbeinschiene
-\item Accuvac
-\item ev. Adapter
+    \item 2 Helfer
+    \item Vakuumbeinschiene
+    \item Accuvac
+    \item ev. Adapter
 \end{itemize}
 
 
 \minisec{Vorgehen}
 
 \begin{enumerate}
-\item L\"ange anpassen, gegebenenfalls oben umfalten.
-Klettverschlu{\ss}b\"ander herrichten.
-\item Kugeln gut verteilen. Auch am Fu{\ss}ende m\"ussen genug Kugeln
-sein, um dem Fu{\ss} sowohl unter der Sohle als auch am Fu{\ss}r\"ucken
-gut Halt geben zu k\"onnen
-\item Schiene leicht vorabsaugen, damit Kugeln nicht mehr verrutschen
-k\"onnen
-\item Schuh am gesunden Bein ausziehen: Finden der schonensten Methode.
-Ein Helfer h\"alt das Bein auf Zug, der andere \"offnet den Schuh
-(B\"ander ausf\"adeln, zur Not aufschneiden)
-\item vorsichtiges Wiederholen zu zweit am verletztem Bein, Socken
-ausziehen (DMS)
-\item Stiefelgriff: gleich nach Ausziehen von Schuh/Socken nimmt der
-Helfer am Fu{\ss}ende durch das Loch in der Schiene die Ferse des
-verletzten Fu{\ss}es, die andere Hand h\"alt den Fu{\ss}r\"ucken. Das
-Bein wird so auf dem Boden liegend auf Zug gehalten. Der Helfer
-verbleibt so, bis die Schiene fest sitzt!
-\item Der seitliche Helfer richtet die Schiene vorsichtig unter dem
-Patienten aus und fixiert die Schiene mit den Klettverschlussb\"andern.
-Um den Fu{\ss} werden Ohren gebogen und kreuzweise festgeklettet: der
-Fu{\ss} soll von allen Seiten so gut wie m\"oglich umschlossen sein!
-\item Der seitliche Helfer saugt ab und zieht dabei die Klettb\"ander
-immer wieder fest nach. Der andere Helfer h\"alt nach wie vor den
-Fu{\ss} im Stiefelgriff.
-\item Fertig abgesaugt: Ventil schliessen, Accuvac abschalten. Der
-Stiefelgriff kann jetzt losgelassen werden.
+    \item L\"ange anpassen, gegebenenfalls oben umfalten.
+    Klettverschlu{\ss}b\"ander herrichten.
+    \item Kugeln gut verteilen. Auch am Fu{\ss}ende m\"ussen genug Kugeln
+    sein, um dem Fu{\ss} sowohl unter der Sohle als auch am Fu{\ss}r\"ucken
+    gut Halt geben zu k\"onnen
+    \item Schiene leicht vorabsaugen, damit Kugeln nicht mehr verrutschen
+    k\"onnen
+    \item Schuh am gesunden Bein ausziehen: Finden der schonensten Methode.
+    Ein Helfer h\"alt das Bein auf Zug, der andere \"offnet den Schuh
+    (B\"ander ausf\"adeln, zur Not aufschneiden)
+    \item vorsichtiges Wiederholen zu zweit am verletztem Bein, Socken
+    ausziehen (DMS)
+    \item Stiefelgriff: gleich nach Ausziehen von Schuh/Socken nimmt der
+    Helfer am Fu{\ss}ende durch das Loch in der Schiene die Ferse des
+    verletzten Fu{\ss}es, die andere Hand h\"alt den Fu{\ss}r\"ucken. Das
+    Bein wird so auf dem Boden liegend auf Zug gehalten. Der Helfer
+    verbleibt so, bis die Schiene fest sitzt!
+    \item Der seitliche Helfer richtet die Schiene vorsichtig unter dem
+    Patienten aus und fixiert die Schiene mit den Klettverschlussb\"andern.
+    Um den Fu{\ss} werden Ohren gebogen und kreuzweise festgeklettet: der
+    Fu{\ss} soll von allen Seiten so gut wie m\"oglich umschlossen sein!
+    \item Der seitliche Helfer saugt ab und zieht dabei die Klettb\"ander
+    immer wieder fest nach. Der andere Helfer h\"alt nach wie vor den
+    Fu{\ss} im Stiefelgriff.
+    \item Fertig abgesaugt: Ventil schliessen, Accuvac abschalten. Der
+    Stiefelgriff kann jetzt losgelassen werden.
 \end{enumerate}
 
 Die Schiene soll bretthart sein, das Bein leicht auf Zug fixiert. Der
@@ -3598,10 +3462,8 @@ Inakzeptabel!}
             Fl\"ussigkeit im Apullenkopf mehr befindet
             \item \"Offnen der Medikamenten-Ampulle mit Tupfer, roter Punkt weist
             zum K\"orper
-            [Warning: Draw object ignored]
-            
-            [Warning: Image ignored] % Unhandled or unsupported graphics:
-            %\includegraphics[width=4.764cm,height=3.145cm]{AASdev20090228-img6.png}
+\marginpar{\includegraphics[width=\linewidth]{./images/ampulle_beklopfen.png}\captionof{figure}{Ampullenkopf
+beklopfen. \emph{Bild: BEMAW}}}
         \end{itemize}
         \item Plastikampulle,
         {\quotedblbase}Dreh-und-Drink{\textquotedblleft}-Verschlu{\ss}
@@ -3660,7 +3522,7 @@ Inakzeptabel!}
     \item Permanentmarker
 \end{itemize}
 \minisec{Handlungsschritte}
-
+\marginpar{\includegraphics[width=\linewidth]{./images/infusion_tropfkammer.jpg}}
 \begin{enumerate}
     \item H\"andedesinfektion
     \item Aufh\"angevorrichtung auf Flasche aufsetzen
@@ -3705,15 +3567,15 @@ Inakzeptabel!}
 \subsection{Venenverweilkan\"ule}
 ({\quotedblbase}Venflon{\textquotedblleft}): Vorbereitung und Assistenz 
 
-  [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=13.467cm,height=4.658cm]{AASdev20090228-img7.png}
- 
+\begin{figure}
+\begin{center}
+\includegraphics[width=13.467cm]{./images/venflon.png}
+\end{center}
+\caption{Eine periphere Venenverweilkanüle (Venflon\textregistered), in ihre
+Einzelbestandteile zerlegt. Quelle: BEMAW}
+\end{figure}
 
-Bild: BEMAW
-
-Farbcodierung der peripheren Venenverweilkan\"ulen
-
-\begin{flushleft}
+\begin{table}
 \begin{tabular}{|m{1.5619999cm}|m{1.7229999cm}|m{1.7229999cm}|m{2.0509999cm}|m{1.7839999cm}|m{2.102cm}|}
 \hline
 \multicolumn{3}{|m{5.408cm}|}{Nur zur Illustration!} 
@@ -3805,47 +3667,36 @@ orange
  Pferd
 \\\hline
 \end{tabular}
-\end{flushleft}
+\caption{Verschiedene Größen von peripheren Venenverweilkanülen. Nach BEMAW
+(modifiziert).}
+\end{table}
 Tabelle: BEMAW (modifiziert)
 
-Material
+\minisec{Material}
 
+\begin{multicols}{2}
 \begin{itemize}
-\item Nierentasse 
-
-\item Staubinde
-
-\item Venflon: 
-
+    \item Nierentasse
+    \item Staubinde
+    \item Venflon:
+    \begin{itemize}
+        \item Die Gr\"o{\ss}e (= Farbe) ist vom Arzt vorher zu erfragen!)
+        \item Die Fl\"ugel werden hinunter geklappt
+        \item Die farbige Lasche des Zuspritzventils in rechten Winkel zur
+        Venflonachse stellen.
+    \end{itemize}
+    \item Einmalverschlusskappe ({\quotedblbase}roter
+    Stoppel{\textquotedblleft})
+    \item Fixierungspflaster
+    \item einige saubere trockene Tupfer
+    \item Alko-Tupfer
+    \item (Einwegspritze mit 5ml Sp\"ulfl\"ussigkeit)
+    \item (Faserschreiber)
+    \item Kontamed-Box
 \end{itemize}
-\begin{itemize}
-\item Die Gr\"o{\ss}e (= Farbe) ist vom Arzt vorher zu erfragen!)
+\end{multicols}
 
-\item Die Fl\"ugel werden hinunter geklappt
-
-\item Die farbige Lasche des Zuspritzventils in rechten Winkel zur
-Venflonachse stellen.
-
-\end{itemize}
-\begin{itemize}
-\item Einmalverschlusskappe ({\quotedblbase}roter
-Stoppel{\textquotedblleft})
-
-\item Fixierungspflaster
-
-\item einige saubere trockene Tupfer
-
-\item Alko-Tupfer
-
-\item (Einwegspritze mit 5ml Sp\"ulfl\"ussigkeit)
-
-\item (Faserschreiber)
-
-\item durchstichsicherer Entsorgungsbeh\"alter
-({\quotedblbase}sharp{\textquotedblleft})
-
-\end{itemize}
-Assistenz
+\minisec{Assistenz}
 
 \begin{itemize}
 \item Stauschlauch zureichen

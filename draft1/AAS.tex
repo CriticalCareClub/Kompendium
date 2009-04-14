@@ -15,6 +15,7 @@
 % Floats
 \usepackage{float,wrapfig}
 
+\usepackage{mparhack} % watches margin paragraphs and gives warnings
 
 \usepackage{soul}
 \usepackage{array}
@@ -244,7 +245,7 @@ footskip=10mm,
 %\newcommand{\gFazit}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
 \newcommand{\gFazit}[1]{\vspace{1pt}\begin{center}\begin{boxedminipage}[t]{12cm}{\color{ubuntured}#1}\end{boxedminipage}\end{center}\vspace{1pt}}
 
-
+ 
 \newcommand{\gMassnahmen}[1]{{\centering \cornersize{0.5}
 \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily{#1}}}}}}
 \newenvironment{gMassnahmenEnv}{\noindent\begin{center}\begin{boxedminipage}[H]{\linewidth}}{\end{boxedminipage}\end{center}}
@@ -253,9 +254,28 @@ footskip=10mm,
 {\protect{\begin{tabularx}{\linewidth}{XX}}}
 {\protect{\end{tabularx}}}
 
+\newenvironment{widepar}%
+ % {\setlength{\leftskip}{-\marginparsep}\addtolength{\leftskip}{-\marginparwidth}}{\par}
+{\setlength{\evensidemargin}{3cm}}{\par}
+
+\newenvironment{custommargins}[2]%
+  {\addtolength{\leftskip}{#1}\addtolength{\leftskip}{#2}}{\par}
+ 
+
 \newcommand{\gMarried}[2]
 {\noindent\begin{tabularx}{\linewidth}{XX}\addlinespace
 #1 & #2\\\addlinespace\end{tabularx}}
+
+\newcommand{\gDias}[3]{\noindent
+%\begin{widepar}
+\begin{tabularx}{\linewidth}[h]{XXX}
+\toprule
+\multicolumn{3}{c}{\bfseries\sffamily Dias}\\\midrule
+#1 & #2 & #3 \\\bottomrule
+\end{tabularx}  
+%\end{widepar}
+                     
+}
 
 %%% AAS-specific
 
@@ -274,14 +294,15 @@ footskip=10mm,
 \renewcommand\descriptionlabel[1]{\hspace{\labelsep}\textcolor[rgb]{0.8,1,0.8}{\Squaresteel}\hspace{\labelsep}\gEs{#1}}
 
 \newcommand{\gTxBeiVit}{Bei vitaler Bedrohung: }
-
+ 
 \newcommand{\gTxMassVitBes}{Standardmaßnahmen bei
 vital bedrohten Patienten. Besonderheiten:}
 
 %\dominitoc
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   New Commands
-
+%\usepackage{marginnote}
 \newcommand{\marginlabel}[1]{\mbox{}\marginpar{\raggedright\hspace{0pt}\sffamily\normalsize{#1}}}
+\newcommand{\gMargin}[1]{\mbox{}\marginpar{\raggedright\hspace{0pt}\normalsize{#1}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
 
@@ -7446,7 +7467,7 @@ Verschluß passiert plötzlich.
 
 \paragraph{Warum kommt es zu einem Gefäßverschluß?}
 Meistens liegt eine 
-\marginline{Chronische Gefäßschädigung}chronische Schädigung der Gefäße infolge anderer Erkankungen oder aufgrund eines ungesunden
+\gMargin{Chronische Gefäßschädigung}chronische Schädigung der Gefäße infolge anderer Erkankungen oder aufgrund eines ungesunden
 Lebensstils vor. Ursachen für solch eine Gefäßschädigung
 sind z.B. die Zuckerkrankheit (\gT{Diabetes mellitus},
 s.\ref{topic:diabetes}), Hypertonie, erhöhte Blutfette oder
@@ -7454,7 +7475,7 @@ das Rauchen. Die Gefäße verkalken und verändern sich auch sonst
 nicht zu ihrem Vorteil.
 
 Wenn die Gefäße nur verengt sind spricht man von
-der \marginline{\gT{periphere arterielle
+der \gMargin{\gT{periphere arterielle
 Ver\-schluß\-krank\-heit}, Abkz. \gT{paVK}}\gT{peripheren
 arteriellen Verschluß\-krankheit}, abgekürzt \gT{paVK}. Sie ist eine chronische
 Erkankung die man oft in Arztbriefen oder auf
@@ -7507,17 +7528,11 @@ englischen P's"'})}.
 
 \paragraph*{Ursachen:}
 
-\marginpar{
-\includegraphics[width=\linewidth]{./images/economyclass.jpg}
-\captionof{figure}{Die Economyclass. Sorgsam geschlichtet verbringen Menschen
-hier Stunden damit Thrombosen zu basteln.} }
+\gMargin{1
+ }
 
-\marginpar{
-\includegraphics[width=\linewidth]{./images/lovenox1.jpg}
-\captionof{figure}{Thromboseprophylaxe. \gZ{Niedermolekulares Heparin
-(hier "`Lovenox\texttrademark") verhindert Thrombosen die z.B. durch lange
-Immobilisation (Reisen, Bettlägrigkeit, Liegegips, \ldots) enstehen können. Die
-Substanz wird unter die Haut ("`subkutan"') gespritzt.}}}
+\gMargin{2
+}
 
 \begin{itemize}
     \item Venöse Insuffizienz (Krampfadern = Venenaussackungen aufgrund
@@ -7527,6 +7542,20 @@ Substanz wird unter die Haut ("`subkutan"') gespritzt.}}}
     \item Lange Resien ohne Bewegung: \index{Economy class
     Syndrom}\gT{Economy class Syndrom}
 \end{itemize}
+
+\gDias
+%1
+{\includegraphics[width=\marginparwidth]{./images/economyclass.jpg}
+\captionof{figure}{Die Economyclass. Sorgsam geschlichtet verbringen Menschen
+hier Stunden damit Thrombosen zu basteln.}}
+%2
+{\includegraphics[width=\marginparwidth]{./images/lovenox1.jpg}
+\captionof{figure}{Thromboseprophylaxe. \gZ{Niedermolekulares Heparin
+(hier "`Lovenox\texttrademark") verhindert Thrombosen die z.B. durch lange
+Immobilisation (Reisen, Bettlägrigkeit, Liegegips, \ldots) enstehen können. Die
+Substanz wird unter die Haut ("`subkutan"') gespritzt.}}}
+%3
+{leer}
 
 \paragraph{Symptome}
 

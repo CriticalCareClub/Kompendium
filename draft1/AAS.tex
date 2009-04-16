@@ -8,6 +8,7 @@
 \usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts} %Symbole
 \usepackage{makeidx,minitoc}
 
+\usepackage{units}
 
 \usepackage{booktabs,longtable,supertabular,tabularx,tabulary}
 \usepackage{multicol,multirow}
@@ -15,7 +16,8 @@
 % Floats
 \usepackage{float,wrapfig}
 
-\usepackage{mparhack} % watches margin paragraphs and gives warnings
+%\usepackage{mparhack} % watches margin paragraphs and
+%gives warnings
 
 \usepackage{soul}
 \usepackage{array}
@@ -75,6 +77,10 @@ footskip=10mm,
 %includemp
 }
 
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+\raggedbottom
+
 \tolerance=1000
 \emergencystretch=10pt
 
@@ -89,9 +95,9 @@ footskip=10mm,
 \addtokomafont{part}{\Huge\color{darkBlue}}
 \addtokomafont{partnumber}{\Huge\color{ubuntured}}
 \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{ubuntured}}
-\addtokomafont{section}{\Huge\color{ubuntured}}
-\addtokomafont{subsection}{\huge\color{ubuntured}}
-\addtokomafont{subsubsection}{\LARGE\color{ubuntured}}
+\addtokomafont{section}{\Huge\rmfamily\color{ubuntured}}
+\addtokomafont{subsection}{\huge\rmfamily\color{ubuntured}}
+\addtokomafont{subsubsection}{\LARGE\rmfamily\color{ubuntured}}
 \addtokomafont{paragraph}{\large\sffamily\color{darkBlue}}
 \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
@@ -124,42 +130,25 @@ footskip=10mm,
 \fancyfoot[LE]{} 
 \fancyfoot[RO]{} 
 
+% % leading zeros
+% \usepackage{numprint}
+% % %%%%%%%%%%% Anzahl einzufügender führender Nullen %%%%%%%
+% \nplpadding[0]{2}
+% % %%%%%%%%%%%%% Zeilenzähler umdefinieren %%%%%%%%%%%%%%%%%
+% \renewcommand{\thepage}{{\color{red}\thechapter}\cntprint{page}}
+
 \usepackage[noauto]{chappg}
 \makeatletter
 %%\@addtoreset{chapter}{part}
-%\@addtoreset{page}{part}%
+%\@addtoreset{page}{chapter}%
 
 \makeatother
-\pagenumbering{bychapter}
+	\pagenumbering{bychapter}
+% 
+
 %\pagenumbering[\thepart]{bychapter}
 %\pagenumbering[\thepart]{bychapter}
 %\renewcommand{\thepage}{\thepart.\thepage}
-
-% super title http://texblog.net/latex/layout/
-
-% \usepackage{tikz}
-% %\usepackage{kpfonts}
-% \usepackage[explicit]{titlesec}
-% \newcommand*\chapterlabel{}
-% \titleformat{\chapter}
-%  {\gdef\chapterlabel{}
-%   \normalfont\sffamily\Huge\bfseries\scshape}
-% {\gdef\chapterlabel{\thechapter\ }}{0pt}
-%  {\begin{tikzpicture}[remember picture,overlay]
-%    \node[yshift=-3cm] at (current page.north west)
-%      {\begin{tikzpicture}[remember picture, overlay]
-%        \draw[fill=LightSkyBlue] (0,0) rectangle
-%          (\paperwidth,3cm);
-%        \node[anchor=east,xshift=.9\paperwidth,rectangle,
-%              rounded corners=20pt,inner sep=11pt,
-%              fill=darkBlue]
-%              {\color{white}\chapterlabel#1};
-%       \end{tikzpicture}
-%      };
-%   \end{tikzpicture}
-%  }
-% \titlespacing*{\chapter}{0pt}{50pt}{0pt}
-%  % super title end
 
 
 
@@ -179,7 +168,7 @@ footskip=10mm,
 \makeatother
 \newcounter{Drawing}
 \renewcommand\theDrawing{\arabic{Drawing}}
-
+ 
 
 
 
@@ -189,13 +178,15 @@ footskip=10mm,
 \newcommand{\strongemph}[1]{\emph{\textbf{#1}}}
 \newcommand{\Terminus}[1]{\textcolor{Terminus}{#1}}
 
-                                                               % set fonts
-\renewcommand{\rmdefault}{ugm} % URW Garamond
+                                                           
+%\usepackage{lmodern}                                                          
+                                                               % % % set fonts
+%\renewcommand{\rmdefault}{ugm} % URW Garamond
 %\renewcommand{\sfdefault}{uop} % URW Utopia
 % \renewcommand{\sfdefault}{pag} % Adobe Avantgarde
 \usepackage[scaled]{helvet}
 \renewcommand{\sfdefault}{phv}
-\renewcommand{\ttdefault}{pcr} 
+%\renewcommand{\ttdefault}{pcr} 
 
 
 % Define Grissu.org \latex commands
@@ -206,6 +197,11 @@ footskip=10mm,
 \setcapindent*{0em}
 
 \newcommand\gAuthNotes[1]{{\color{red}{\ttfamily{#1}}}}
+\newcommand{\gAuthNotesPicLegalNotOk}[2]{\gAuthNotes{Bild:
+\underline{#1}: Quelle zweifelhaft! #2}}
+\newcommand{\gAuthNotesPicLegalOk}[2]{\gAuthNotes{{\color{green}Bild:
+\underline{#1}: Quelle OK! #2}}}
+
 \newcommand{\gStatus}[1]{\textcolor{red}{\ttfamily{#1]}}}
 
 % Terminus
@@ -215,7 +211,7 @@ footskip=10mm,
 % Strong Emphasis
 \newcommand\gEs[1]{\textbf{\textcolor[rgb]{0.0,0.0,0.4}{#1}}}
 % Zusatzinfo
-\newcommand\gZ[1]{\textcolor[rgb]{0.5019608,0.5019608,0.5019608}{#1}}
+\newcommand\gZ[1]{{\color[rgb]{0.5019608,0.5019608,0.5019608}{#1}}}
 % Citation
 \newcommand\gC[1]{\textit{#1}}
 % Handwriting
@@ -231,23 +227,49 @@ footskip=10mm,
 % Account
 \newcommand{\gKto}[1]{#1}
 
-\newcommand{\gCave}[1]
-{\begin{center}
- { \cornersize{0.5}
-   \ovalbox{\makebox[12cm]{\parbox{10cm}{\sffamily\color{red}{{#1}}}}}}
-\end{center}}
+% \newcommand{\gCave}[1]
+% {\begin{center}
+%  { \cornersize{0.5}
+%    \ovalbox{\makebox[12cm]{\parbox{10cm}{\sffamily\color{red}{{#1}}}}}}
+% \end{center}}
+\newcommand{\gCave}[1]{
+\begin{center}
+    \fcolorbox{ubuntured}{paleyellow}{
+      \begin{minipage}[t]{\linewidth}
+      {\ttfamily\color{ubuntured}#1}
+      \end{minipage}}
+  \end{center}}
+
+
 
 \newenvironment{gCaveEnv}{\begin{boxedminipage}[t]{10cm} \sffamily}{\end{boxedminipage}}
 
 \newcommand{\gDefinition}[1]{\vspace{5pt}{\mdseries\color{Terminus}\rmfamily\textit{{\bfseries{Definition:
 }}#1}}\vspace{5pt}}
-\newcommand{\gDraft}[1]{\textbf{\textcolor{red}{#1}}}
-%\newcommand{\gFazit}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
-\newcommand{\gFazit}[1]{\vspace{1pt}\begin{center}\begin{boxedminipage}[t]{12cm}{\color{ubuntured}#1}\end{boxedminipage}\end{center}\vspace{1pt}}
 
+\newcommand{\gSource}[1]{\small\emph{{\bfseries Quelle:}
+#1}}
+
+\newcommand{\gSourcePicture}[1]{\small\emph{{\bfseries
+Bild:} #1}}
+
+\newcommand{\gDraft}[1]{\textbf{\textcolor{red}{#1}}}
+
+
+
+%\newcommand{\gFazit}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
+%\newcommand{\gFazit}[1]{\vspace{1pt}\begin{center}\begin{boxedminipage}[t]{12cm}{\color{ubuntured}#1}\end{boxedminipage}\end{center}\vspace{1pt}}
+\newcommand{\gFazit}[1]{
+  \begin{quote}%
+    \fcolorbox{paleyellow}{paleyellow}{%
+      \begin{minipage}[t]{\linewidth}%
+        #1%
+      \end{minipage}}%
+  \end{quote}}
  
 \newcommand{\gMassnahmen}[1]{{\centering \cornersize{0.5}
 \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily{#1}}}}}}
+
 \newenvironment{gMassnahmenEnv}{\noindent\begin{center}\begin{boxedminipage}[H]{\linewidth}}{\end{boxedminipage}\end{center}}
 
 \newenvironment{gMarriedEnv}
@@ -292,6 +314,8 @@ footskip=10mm,
 
 %customize descritpions
 \renewcommand\descriptionlabel[1]{\hspace{\labelsep}\textcolor[rgb]{0.8,1,0.8}{\Squaresteel}\hspace{\labelsep}\gEs{#1}}
+
+\newcommand{\gLMin}{\unitfrac{l}{min}}
 
 \newcommand{\gTxBeiVit}{Bei vitaler Bedrohung: }
  
@@ -387,7 +411,7 @@ sit-uat-ions-ge-rechte
 \dominitoc
 \tableofcontents
 %\end{multicols}
-\setcounter{tocdepth}{10}
+%\setcounter{tocdepth}{10}
 %\renewcommand\contentsname{Inhalt - Detail\"ubersicht}
 %\tableofcontents
 \section*{Autoren und Mitwirkende}
@@ -429,7 +453,7 @@ sit-uat-ions-ge-rechte
     
     Wallenberggasse 2, A-1220 Wien
     
-    \item[Roman Koch]
+    \item[Roman Koch] 
     Ing.
     
     Leiter Ausbildungszentrum des ASB Floridsdorf-Donaustadt
@@ -468,7 +492,7 @@ sit-uat-ions-ge-rechte
 \section*{Software}
 
 \begin{description}
-\item[Satz und Durckvorstufe] \LaTeX 
+\item[Satz und Druckvorstufe] \LaTeX 
 \item[Literaturverzeichnis] JabRef 2.4.2  
 \item[Textverarbeitung und Rohentwurf] OpenOffice 3.0 --- http://www.openoffice.com
 \item[Betriebssysteme] \par
@@ -483,12 +507,17 @@ sit-uat-ions-ge-rechte
 
 \printindex
 
-\part[Basic Life Support (\emph{BLS}) --- \emph{Modul Rettungssanitäter}]{Basic
-Life Support (\emph{BLS}) \\ \emph{Modul Rettungssanitäter}}
+\part{Allgemeiner Teil}
 
 \chapter{Tätigkeitsbild und Orientierung}
 
 \chapter{Betriebsinterne Regelungen}
+
+\chapter{Regionale Besonderheiten}
+\addtocounter{chapter}{2}
+\part[Basic Life Support (\emph{BLS}) --- \emph{Modul Rettungssanitäter}]{Basic
+Life Support (\emph{BLS}) \\ \emph{Modul Rettungssanitäter}}
+
 
 \chapter{\gStatus{90\% fertig} Rechtliche
 Grundlagen --- \gAasRsN{RS~III}} 
@@ -3595,7 +3624,7 @@ beklopfen. \emph{Bild: BEMAW}}}
 \includegraphics[width=13.467cm]{./images/venflon.png}
 \end{center}
 \caption{Eine periphere Venenverweilkanüle (Venflon\textregistered), in ihre
-Einzelbestandteile zerlegt. Quelle: BEMAW}
+Einzelbestandteile zerlegt. \gSourcePicture{BEMAW}}
 \end{figure}
 
 \begin{table}
@@ -3752,24 +3781,24 @@ zureichen.
 
 \marginpar{\includegraphics[width=\linewidth]{./images/intubation_zubehoer_op.jpg}
 \captionof{figure}{Intubationszubehör. Angerichtet auf einem Anästhesiegerät.
-\emph{Quelle: Gabriel}}}
+\gSourcePicture{Gabriel}
+\gAuthNotesPicLegalOk{intubation\,zubehoer\,op.jpg}{cc-by}}}
 
-\section[O2 \ - Sauerstoff]{O2  {}- Sauerstoff}
-Sauerstoff (chem. Symbol O2) ist ein lebenswichtiges Gas welches in
-unserer Atemluft vorkommt und au{\ss}erdem ein essentielles
-Notfall{\textquotedblright}medikament{\textquotedblleft}, die
+\section{$O_2$ --
+Sauerstoff}\label{topic:sauerstoff}\label{topic:o2}\index{Sauerstoff}\index{$O_2$}
+Sauerstoff (chem. Symbol $O_2$) ist ein lebenswichtiges Gas
+welches in unserer Atemluft vorkommt und au{\ss}erdem ein essentielles Notfall{\textquotedblright}medikament{\textquotedblleft}, die
 fr\"uhzeitige Verabreichung ist wichtig f\"ur die Prognose des
 Patienten!
 
 Sauerstoff darf und muss bei Bedarf vom RS verabreicht werden.
 
 \begin{center}
- [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=4.522cm,height=5.628cm]{AASdev20090228-img8.png}
-\captionof{figure}[: NEIN!]{: NEIN!}
+\includegraphics[width=4.522cm,height=5.628cm]{./images/rippenspreitzer-02-fett.png}
+\captionof{figure}{NEIN! \gSourcePicture{Rippenspreitzer.de}}
 
 \end{center}
-\paragraph{Sauerstoff -- technische Grundlagen}
+\subsection{Sauerstoff -- technische Grundlagen}
 Sauerstoff wird in Druckflaschen  gelagert. Laut EU-Norm sind diese
 Flaschen wei{\ss} und mit einem {\quotedblbase}N{\textquotedblleft}
 gekennzeichnet. Das {\quotedblbase}N{\textquotedblleft} steht f\"ur
@@ -3801,14 +3830,16 @@ Patienten erm\"oglicht. Je nach Bauart kann der Druckminderer \"uber
 einen Regler, ein Flowmeter und ein Barometer verf\"ugen. Mit dem
 Regler kann man die Durchlu{\ss}- bzw. Abgaberate ein\-stellen, das
 Flowmeter (Durchflu{\ss}anzeige) zeigt die aktuelle Durchflu{\ss}rate
-in Liter pro Minute (~l~/~min~)an. Das Barometer zeugt den Druck in der
-Sauerstofflasche an wenn das Haupt\-ventil ge\"offnet ist. 
+in Liter pro Minute (\gLMin) an. Das Barometer zeugt den
+Druck in der Sauerstofflasche an wenn das Haupt\-ventil ge\"offnet ist. 
 
 \begin{center}
- [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=7.189cm,height=4.94cm]{AASdev20090228-img9.png}
-
+\includegraphics[width=7.189cm,height=4.94cm]{./images/beatmungsgeraet-medumat.png}
+\captionof{figure}{Beatmungsgerät \emph{Medumat
+Standard\textregistered}. \gSourcePicture{ASB
+Floridsdorf-Donaustadt}}
 \end{center}
+
 Das effektive F\"ullvolumen erh\"alt man wenn man die F\"ullgr\"o{\ss}e
 (in~l) mit dem Flaschendruck (in bar) multipliziert.  
 
@@ -3818,21 +3849,35 @@ vorhandene Menge durch die Abgaberate. Achtung: Es ist eine
 Ausreichende Reserve einzuplanen, und es ist zu Bedenken dass in der
 Flasche ein Restdruck verbleiben muss! 
 
+\subsection{Heiteres Rechnen mit Sauerstoff}
+
 Mit Sauerstoff l\"asst sich gut rechnen ...
 
-% \[\begin{gathered}\boldsubformula{\text{Enthaltene
-% }}\boldsubformula{O}_{2}\boldsubformula{\text{{}-Menge }}=\text{
-% Volumen der Flasche }\times \text{
-% Druck}\\\boldsubformula{\text{Verf\"ugbare Zeit }}=\frac{\text{
-% Enthaltene Menge }}{\text{ Durchflu{\ss} }}\end{gathered}\]
-Beispiel:
+\begin{equation}
+\mbox{Verfügbare Menge in l} = {\mbox{Volumen der Flasche}}
+\times {\mbox{Druck in bar}}
+\end{equation}
 
-Flasche 10l mit 150bar: 1500l  O2
+oder kurz: 
 
-Patient ben\"otigt 5l O2 pro Minute: 
+\begin{equation}
+l = {Volumen} \times {Druck}
+\end{equation}
+
+
+
+\minisec{Beispiel}
+
+\begin{quotation}
+Flasche 10\,l mit 150\,bar: 1500\,l  $O_2$
+
+Patient ben\"otigt 5\,\unitfrac{l}{min} $O_2$ : 
 
 Die F\"ullung reicht f\"ur 300 Minuten, abz\"uglich eines
 Sicherheitsvolumens.
+\end{quotation}
+
+\subsection{Umgang mit Sauerstoff und Druckflaschen}
 
 Die Sauerstoffflaschen sind pfleglich zu behandeln
 
@@ -3842,7 +3887,7 @@ Licht ist in der N\"ahe von Sauerstoffflaschen verboten!
 
 Der gro{\ss}e Druck birgt weitere Gefahren: Sollte ein Ventil abbrechen
 kann die Flasche eine enorme Kraft entwickeln und zu einer Rakete
-werden. Die Kraft einer mit 200~bar gef\"ullten Flasche reicht aus um
+werden. Die Kraft einer mit 200\,bar gef\"ullten Flasche reicht aus um
 Mauern zu druchbrechen!  
 
 Achtung! Vorsicht beim Hantieren -  Explosionsgefahr!
@@ -3852,30 +3897,15 @@ Flaschen stehen unter Druck, ein Abbrechen der Ventile ist katastrophal!
 Sauerstoff ist zusammen mit Fett selbstentz\"undlich ${\rightarrow}$
 Ventile nicht mit fetten/\"oligen H\"anden bedienen.
 
-\paragraph{Verabreichungsarten}
-\subparagraph{Sauerstoffbrille}
+\subsection{Verabreichungsarten}
+\subsubsection{Sauerstoffbrille}
 Nur bei vorhandener Spontanatmung!
 
 zwei kurze, in die Nasen\"offnungen  eingef\"uhrte Kunst\-stoff\-stutzen
 
-bei ca. 4 l O2 /min bis 40\% O2  in Atemgas  m\"oglich
+bei ca. 4\,l O2 /min bis 40\% $O_2$  in Atemgas  m\"oglich
 
-\begin{center}
-\begin{supertabular}{|m{6.649cm}|m{6.651cm}|}
-\hline
-Vorteile
- &
-Nachteile
-\\\hline
-gute Toleranz
-fehlendes Engegef\"uhl
-Sprechen\&Husten m\"oglich
- &
-ungenaue Dosierung
-Austrocknung  der Schleimh\"aute
-\\\hline
-\end{supertabular}
-\end{center}
+
 Bei behinderter Nasenatmung kann die  Sauerstoffbrille im Mundwinkel
 plaziert werden. 
 
@@ -3889,15 +3919,12 @@ Wann
 Vorteile
 &
 Nachteile
-\\\hline
-Sauerstoffbrille
-
- [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=2.74cm,height=2.74cm]{AASdev20090228-img10.png}
+\\\hline 
+\gT{Sauerstoff\-brille}
  &
 Spontanatmung
 
-O2-Flow {\textless} 5l/min
+$O_2$-Flow {\textless} 5\gLMin
  &
 gute Toleranz
 
@@ -3909,52 +3936,52 @@ ungenaue Dosierung
 
 Austrocknung  der Schleimh\"aute
 \\\hline
-\centering Inhalationsmaske
-
- [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=2.437cm,height=2.707cm]{AASdev20090228-img11.png}
+\gT{Sauerstoff\-maske}
  &
 Spontanatmung
 
-O2-Flow ab 5l/min
+$O_2$-Flow ab 5\gLMin
 
  &
-h\"ohere O2-Konzentration
+h\"ohere $O_2$-Konzentration
  &
-h\"ohere O2-Konzentration
+h\"ohere $O_2$-Konzentration
 
-CO2-R\"uckatmung  wenn O2{}-Durchflu{\ss} {\textless} 5 l/min!)
-\\\hline
-  [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=2.652cm,height=2.476cm]{AASdev20090228-img12.png}
+$CO_2$-R\"uckatmung  wenn $O_2$-Durchflu{\ss}
+{\textless} 5\gLMin!) \\\hline
+\gT{Sauerstoff\-maske mit Reservoir}
  &
  &
-Noch h\"ohere O2{}-Konzentration
+Noch h\"ohere $O_2$-Konzentration
  &
 Wie oben.
 \\\hline
-Beatmungsbeutel mit  Reservoir
+\gT{Beatmungs\-beutel} mit  Reservoir
  &
-Beatmung des Patienten (bei Reanimation oder im Ausnahmefall bei
-Atemstillstand oder nicht ausreichender Eigenatmung)
-
-Beatmung eines intubierten Patienten
+\gEs{Beatmung} des Patienten 
  &
  &
 \\\hline
 \end{tabulary}
 \end{center}
 
-\paragraph{Beatmung mit Beatmungsbeutel}
-JEDE BEATMUNG SOLLTE MIT RESERVOIRBEUTEL UND 10-15 l O2/min
-DURCHGEF\"UHRT WERDEN!
+\gDias
+{\includegraphics[width=2.5cm]{./images/o2-brille.png}\captionof{figure}{Sauerstoffbrille}}
+{\includegraphics[width=2.5cm]{./images/o2-maske.png}\captionof{figure}{Sauerstoffmaske}}
+{\includegraphics[width=2.5cm]{./images/o2-maske-reservoir.png}
+\captionof{figure}{Sauerstoffmaske mit Reservoir}}
 
-Beatmungsfrequenz beim Erwachsenen: 12-15 x / min (Eigenfrequenz)
+\subsubsection{Beatmung mit Beatmungsbeutel}
+
+\gCave{JEDE BEATMUNG SOLLTE MIT RESERVOIRBEUTEL UND 10-15\gLMin
+$O_2$ DURCHGEF\"UHRT WERDEN!}
+
+Beatmungsfrequenz beim Erwachsenen: 12-15\,x\,/\,min (Eigenfrequenz)
 
 Achtung! Zuviel ist schlecht! Nicht zu schnell beatmen ${\rightarrow}$
 Hyperventilationsgefahr!
 
-\paragraph{Sauerstofftherapie}
+\subsection{Sauerstofftherapie}
 Prinzipiell sollte sich die gew\"ahlte Therapie an der Diagnose und am
 Schweregrad orientieren!
 
@@ -3970,9 +3997,9 @@ Bedenke:
 \item Atemst\"orungen (Fremdk\"orper, Atemnot, {\dots})
 
 \end{itemize}
-\paragraph[Pulsoxymetrie]{Pulsoxymetrie%
-%
-}
+
+\subsubsection{Pulsoxymetrie}
+
 \index{Pulsoxymetrie}\begin{center}
  [Warning: Image ignored] % Unhandled or unsupported graphics:
 %\includegraphics[width=3.516cm,height=3.516cm]{AASdev20090228-img13.png}
@@ -3985,21 +4012,25 @@ O2-beladene/ nichtbeladene Erythrozyten).
 Normalwert 96-99\%, 
 
 [F078?] Achtung: Ein {\quotedblbase}guter{\textquotedblleft}
-\index{SpO2}SpO2{}-Wert bedeutet nicht {\quotedblbase}keinen Sauerstoff
+\index{SpO2}Sp$O_2$-Wert bedeutet nicht {\quotedblbase}keinen Sauerstoff
 geben{\textquotedblleft}. Die Entscheidung bez\"uglich Sauerstoffgabe
 ber\"ucksichtigt die Diagnose und den Zustand des Patienten, der
-\index{SpO2}SpO2{}-Wert hat wenig bis gar nichts zu sagen! 
+\index{SpO2}Sp$O_2$-Wert hat wenig bis gar nichts zu sagen! 
 
-Achtung: Das Pulsoxymeter verwechselt O2 und CO-Molek\"ule, bei einer
-CO-Vergiftung zeigt das Pulsoxy falsch-hohe S\"attigungswerte an!
+Achtung: Das Pulsoxymeter verwechselt $O_2$ und
+$CO$-Molek\"ule, bei einer $CO$-Vergiftung zeigt das Pulsoxy
+falsch-hohe S\"attigungswerte an!
 
 Weitere Fehlerquellen: kein Signal: Nagellack, Zentralisation
 
 Das Pulsoxymeter misst die Herzfrequenz und die Sauerstoffs\"attigung
-(=SpO2) des Blutes, aber es gilt:
+(=Sp$O_2$) des Blutes, aber es gilt:
 
 [F078?] Ein {\quotedblbase}guter{\textquotedblleft} S\"attigungswert ist
 keine Begr\"undung keinen Sauerstoff zu verabreichen!
+
+\section{Lagerungsarten}\label{topic:lagerungsarten}\index{Lagerungsarten}
+
 
 
 \chapter{Untersuchung und Anamnese ---
@@ -4089,8 +4120,8 @@ Situationen bei denen man darauf verzichten kann (zum
 Beispiel psychiatrische Patienten).
 
 Die Messung der Herzfrequenz erfolgt mittels Puls fühlen oder
-mittels Pulsoxymeter. Beim Puls fühlen wird für 15 s der
-Pools gefühlt und die Pulsschläge gezählt. Anschließend wird
+mittels Pulsoxymeter. Beim Puls fühlen wird für 15~Sekunden
+der Puls gefühlt und die Pulsschläge gezählt. Anschließend wird
 das Ergebnis mit vier multipliziert, man erhält die
 Pulsschläge pro Minute. Bei der Pulsoxymetrie wird der
 entsprechende Wert abgelesen. Es ist zu beachten was bei
@@ -4125,16 +4156,16 @@ Nagellack-Entferner reinigen).
 
 Wie Sauerstoffsättigung wird in Prozent angegeben und wird
 mit $SpO_2$ abgekürzt. Der Normalwert beträgt 95-100 %. Bei
-Patienten mit COPD findet man oft sehr niedrige Werte (ZB 90
-%).
+Patienten mit COPD findet man oft sehr niedrige Werte (ZB
+90\,%).
 
 Bei der Interpretation des $SpO_2$ muss man sehr
 vorsichtig sein! Auch ein Normalwert bedeutet nicht dass der Patient
 genug Stoitschkow hat beziehungsweise dass keine sorgt
 Aufgabe erfolgen soll. Die sorgt Aufgabe richtet sich immer
 nach der Diagnose und dem klinischen Zustandsbild des
-Patienten, niemals!! Nach dem SP O2-Wert. Der SP O2-Wert soll
-immer im Verlauf beurteilt werden.
+Patienten, niemals!! Nach dem SP $O_2$-Wert. Der
+Sp$O_2$-Wert soll immer im Verlauf beurteilt werden.
 
 Eine besondere Fehlerquelle ist die Kohlenmonoxid-
 ($CO$)-Vergiftung, bei ihr wird nicht nur der Patient
@@ -4736,9 +4767,11 @@ Blah!
 
 Sebastian Gabriel [R]; Michael Withofner
 
+\gAuthNotes{
 Changelog:
 
 2009-02-25: Start Changelog. Kapitel mit Korr Koch korr.
+}
 
 \minitoc
 
@@ -4776,14 +4809,15 @@ mu{\ss} akutmedizinisch behandelt werden!!!
 \end{tabularx}
 \end{center}
 
+
 \paragraph[NACA -- Score]{NACA -- Score}
-\index{NACA}National Advisory Committee for Aeronautics
+\gZ{\index{NACA}National Advisory Committee for Aeronautics
 
 Diente urspr\"unglich der Bewertung von  Erkrankungen / Verletzungen und
 der Entscheidung welche Soldaten zuerst auszufliegen w\"aren. Heute
 dient der NACA-Score der groben statistischen Erfassung.  
-
-1 bis 7:
+}
+% 1 bis 7:
 
 % \begin{center}
 % \begin{tabular}{m{1.201cm}m{12.1cm}}
@@ -4853,7 +4887,8 @@ schlecht oder gar nicht.
 
 \subsection{Bewu{\ss}seinsst\"orung}
 
-St\"orung des Bewusstseins, besonders der Wachheit und Orientierung. 
+\gDefinition{St\"orung des Bewusstseins, besonders der
+Wachheit und Orientierung.}
 
 \paragraph{Orientierung}
 
@@ -4868,7 +4903,7 @@ unterscheidet dabei:
     Jahr?
 \end{enumerate}
 
-Allgemein
+\paragraph{Allgemein}
 
 Wie bereits oben erw\"ahnt ist das Bewusstsein wesentlich an der Abwehr
 von Gefahren beteiligt. Je mehr das Bewusstsein gest\"ort oder
@@ -4876,9 +4911,10 @@ reduziert ist desto gef\"ahrlicher ist das f\"ur den Patienten.
 
 \begin{itemize}
     \item Ab einem gewissen Punkt sind auch so wesentliche Funktionen wie
-    der Schluck-, W\"urge- bzw. Hustenreflex ausfallen und es kann zum
-    verschlucken von Mageninhalt oder Blut in die Lunge kommen
-    (Aspiration). Man spricht auch vom Ausfall der Schutzreflexe.
+    der \gT{Schluck-}, \gT{W\"urge-} bzw. \gT{Hustenreflex}
+    ausfallen und es kann zum verschlucken von Mageninhalt oder Blut in die Lunge kommen
+    (\gT{Aspiration}). Man spricht auch vom \gEs{Ausfall der
+    Schutzreflexe}.
     \item Bei schweren Bewusstseinsst\"orungen kann es auch zum Erschlaffen
     wichtiger Muskeln wie z.B. Der Zunge kommen. F\"allt diese zur\"uck
     kann sie den Atemweg blockieren oder ganz verschlie{\ss}en.
@@ -4894,13 +4930,10 @@ ${\rightarrow}$ Sch\"adigung des zentralen Nervensystems
 \begin{center}
 \begin{tabularx}{\linewidth}[H]{XX}
 \toprule
-Prim\"are  Ursachen
- &
-Sekund\"are  Ursachen:
-\\\midrule
-direkt das ZNS betreffend
- &
-\"Uber Umwege das ZNS betreffend
+\gEs{Prim\"are Ursachen} & \gEs{Sekund\"are Ursachen}
+\\
+{\tiny betreffen direkt das ZNS} & {\tiny betreffen \"uber
+Umwege das ZNS} 
 \\\midrule
 Verletzungen (SHT)
 
@@ -4914,35 +4947,34 @@ Entz\"undungen
 
 Tumor
  &
-St\"orungen der O2-Versorgung :
-
-Atemst\"orungen  (Hypoxie)
-
-Herz-Kreislaufst\"orungen
-
-Elektrolytentgleisungen
-
-Vergiftungen:
+St\"orungen der $O_2$-Versorgung:
+\begin{itemize}
+    \item Atemst\"orungen  (Hypoxie)
+    \item Herz-Kreislaufst\"orungen
+    \item Elektrolytentgleisungen
+\end{itemize}
 
 Stoffwechselst\"orungen (Zuckerhaushalt, Leberversagen)
 
-Alkohol
-
-Medikamente, Drogen
-
-Reizgase,  L\"osungsmittel ...
+Vergiftungen:
+\begin{itemize}
+    \item Alkohol
+    \item Medikamente, Drogen
+    \item Reizgase,  L\"osungsmittel ...
+\end{itemize}
 \\\bottomrule
 \end{tabularx}
 \end{center}
 
-Grade und Symptome
+\subsubsection{Grade und Symptome}
 
 Symptome Bewusstseinsst\"orungen: Tabelle geh\"ort erg\"anzt.%
 %
 
 
 \begin{center}
-\begin{tabulary}{\linewidth}[H]{LLLL}
+\begin{table}[H]
+\begin{tabulary}{\linewidth}{LLLL}
 \toprule
 bewu{\ss}tseinsklar
  &
@@ -4954,23 +4986,23 @@ bewu{\ss}tseinsgetr\"ubt
 desorientiert
  &
  &
-\\\midrule
+\\
  &
 delirant
  &
  &
-\\\midrule
+\\
  &
 agitiert
  &
  &
-\\\midrule
+\\
  &
 somnolent
  &
 Schl\"afrig, aber leicht erweckbar.
  &
-\\\midrule
+\\
  &
 sopor\"os
  &
@@ -4985,6 +5017,8 @@ Koma
 Lebensgefahr!
 \\\bottomrule
 \end{tabulary}
+\caption{Wachheitszustände}
+\end{table}
 \end{center}
 
 \paragraph{Gefahren}
@@ -4992,24 +5026,27 @@ Lebensgefahr!
 \begin{itemize}
     \item Zur\"uckfallen der Zunge ${\rightarrow}$ Erstickung!
     
-    \item Aspiration  (Husten- bzw. W\"urgereflex sowie  s\"amtliche andere
-    Schutzreflexe ausgefallen,  Muskulatur komplett erschlafft
-    ={\textgreater}  Erbrochenes gelangt ungehindert in die  Lunge!)
+    \item \gEs{Aspiration}  (Husten- bzw. W\"urgereflex
+    sowie s\"amtliche andere Schutzreflexe ausgefallen,  Muskulatur komplett erschlafft
+    ${\rightarrow}$  Erbrochenes gelangt ungehindert in die  Lunge!)
     
 \end{itemize}
 
-\index{Glasgow Coma Scale}Glasgow Coma Scale (\index{GCS}GCS)
+\paragraph{Glasgow Coma Scale (GCS)}\index{Glasgow Coma
+Scale}\index{GCS}
 
-... dient zur objektiven Einsch\"atzung der Bewu{\ss}tseinslage, Skala
-mit 3 bis max. 15 Punkten.
+Die Glasgow Coma Scale dient der objektiven Einsch\"atzung
+der Bewu{\ss}tseinslage mittels einer Skala mit 3 bis max.
+15 Punkten.
 
 Bewu{\ss}tseinsklarer Patient: 15 Punkte. Toter Patient: 3 Punkte (nicht
 0!)
 
-Untersucht werden: 
+Bewertet werden: 
 
-
-\begin{tabulary}{\linewidth}[H]{LCCL}
+\begin{center}
+\begin{table}[H]
+\begin{tabulary}{\linewidth}{LCCL}
 \toprule
 ~ & Max. & Punkte & Reaktion
 \\\midrule
@@ -5044,8 +5081,10 @@ Motorische Reaktion & 6 & 6 & spontan
  & & 1  & bewegt gar nicht
 \\\bottomrule
 \end{tabulary}
+\caption{GCS}
+\end{table}
+\end{center}
 
-- - -
 
 \begin{gMassnahmenEnv}
     \paragraph{Ma{\ss}nahmen bei getr\"ubten Patienten}
@@ -5060,7 +5099,8 @@ Motorische Reaktion & 6 & 6 & spontan
         \item \gTxBeiVit \gTxMassVitBes
 
         \begin{itemize}
-            \item O2: nach Ermessen, im Zweifel ca. 6-8 l
+            \item $O_2$: nach Ermessen, im Zweifel ca.
+            6-8\gLMin
         \end{itemize}
 
         \item Engmaschiges Monitoring (Atmung, Pulsoxymetrie, RR)
@@ -5082,10 +5122,10 @@ Motorische Reaktion & 6 & 6 & spontan
         \item \gTxMassVitBes
         \begin{itemize}
             \item Lagerung: stabile Seitenlage
-            \item O2:  10 l  O2 , bei Zyanose\footnote{Zyanose: Bl\"auliche
-            Verf\"arbung der Haut infolge einer unzureichenden
+            \item $O_2$:  10\gLMin , bei
+            Zyanose\footnote{Zyanose: Bl\"auliche Verf\"arbung der Haut infolge einer unzureichenden
             Sauerstoffversorgung. Besonders auff\"allig an den Lippen, Gesicht, und
-            Extremit\"aten.}  15 l
+            Extremit\"aten.}  15\gLMin
         \end{itemize}
         \item W\"armeerhalt
         \item Ursachenforschung -- Warum ist der Patient bewusstlos oder
@@ -5103,48 +5143,46 @@ Motorische Reaktion & 6 & 6 & spontan
 \section{Atmung}
 Kurze Wiederholung
 
-normale Atemfrequenz: (Erwachsener): 12-15x / min, AZV = 5-7 ml / kg KG
+normale Atemfrequenz (\gT{AF}) (Erwachsener): 12-15x / min,
+Atemzugvolumen (\gT{AZV}) $\approx$ 5-7 ml\,/\,kg\,KG
 
-Atemminutenvolumen (AMV): AZV x AF
+Atemminutenvolumen (AMV): $AMV = AZV \times AF$
 
-\index{Totraumventilation}Totraumventilation: Luftmenge in oberen  und
-teilweise unteren Atemwegen, die  nicht am Gasaustausch teilnimmt.
-Achtung \index{Schnappatmung}Schnappatmung!Dabei wird nur so wenig Luft
-bewegt sodass aufgrund des Totraumes keine frische Luft in die
+\index{Totraumventilation}\gT{Totraumventilation}: Luftmenge
+in oberen  und teilweise unteren Atemwegen, die  nicht am Gasaustausch teilnimmt.
+Achtung \index{Schnappatmung}\gT{Schnappatmung}! Dabei wird
+nur so wenig Luft bewegt sodass aufgrund des Totraumes keine frische Luft in die
 Lungenbl\"aschen (Alveolen) kommt. H\"aufig wird die Schnappatmung mit
 flacher Atmung verwechselt, aber:
 
-Schnappatmung = keine Atmung
+\gCave{Schnappatmung = keine Atmung}
 
-St\"orungen der Atmung
+\section{St\"orungen der Atmung}
 
 Ateminsuffizienz = eingeschr\"ankte Atmung ={\textgreater} O2-Mangel
 (Hypoxie)   
 
 Atemstillstand = Aussetzen d. Atmung (Apnoe)
 
-Ursachen:
-
-???
-
+\paragraph{Ursachen}~
 
 \begin{tabulary}{\linewidth}[H]{LL}
 \toprule
 St\"orung des/der  &
-\\midrule
-O2-Angebotes
+\\\midrule
+$O_2$-Angebotes
  &
-G\"arkeller (CO2 ${\uparrow}$, O2 ${\downarrow}$)
+G\"arkeller ($CO_2$\,${\uparrow}$, $O_2$\,${\downarrow}$)
 
 {\quotedblbase}d\"unne Luft{\textquotedblleft} (z.B. Hochgebirge,
 
-pO2 ${\downarrow}$)
+p$O_2$\,${\downarrow}$)
 
-Defekte Gastherme (CO ${\uparrow}$m O2${\downarrow}$)
+Defekte Gastherme ($CO$\,${\uparrow}$ $O_2$\,${\downarrow}$)
 
 Ertrinken
 \\\midrule
- O2-Diffusion
+ $O_2$-Diffusion
  &
 Lungen\"odem
 
@@ -5184,11 +5222,12 @@ Stoffwechselst\"orungen
 \end{tabulary}
 
 
-Symptome
+\paragraph{Symptome}~
 
 \begin{center}
+\begin{table}[H]
 \begin{tabulary}{\linewidth}[H]{LLLL}
-\hline
+\toprule
 Gruppe
  &
 Befund
@@ -5196,186 +5235,179 @@ Befund
 Beschreibung
  &
 Anmerkung
-\\\hline
+\\\midrule
 Dyspnoe
  &
 Atemnot
  &
 Leitsymptom
  &
-\\\hline
+\\\midrule
 Atemger\"ausch
  &
 Brodeln
  &
 Blubbern, klassisch f\"ur Lunden\"odem
  &
-\\\hline
+\\
  &
 Stridor
  &
  &
-\\\hline
+\\
  &
 Brummen, Giemen
  &
  &
-\\\hline
+\\
  &
 Rasselger\"ausche
  &
  &
-\\\hline
+\\
 Frequenz
  &
 Beschleunigt
  &
 Tachypnoe
  &
-\\\hline
+\\
  &
 Verlangsamt
  &
 Bradypnoe
  &
-\\\hline
+\\\midrule
 Atemzugsvolumen
  &
 Schnappatmung
  &
  &
-\\\hline
+\\
  &
 Flache Atmung
  &
  &
-\\\hline
+\\
  &
 Tiefe Atmung
  &
  &
-\\\hline
+\\\midrule
 Hautfarbe
  &
 Blass
  &
 Normal, An\"amie, Blutverlust
  &
-\\\hline
+\\
  &
 Rosig
  &
 Normal, CO-Vergiftung
  &
-\\\hline
+\\
  &
 Bl\"aulich 
  &
 Zyanose: Hypoxie!
  &
-\\\hline
+\\\midrule
 K\"orperlich
  &
 Einziehungen an den Rippen
  &
 Einsatz der Atemhilfsmuskulatur
  &
-\\\hline
+\\
  &
 Aufst\"utzen
  &
 Einsatz der Atemhilfsmuskulatur
  &
-\\\hline
+\\
  &
 Nasenfl\"ugeln
  &
 Atemnot, besonders bei Kleinkindern
  &
-\\\hline
+\\
  &
 Aufrechte Position
  &
  &
-\\\hline
+\\
  &
 {\quotedblbase}Paradoxe Atmung{\textquotedblleft}
  &
 Brustkorb senkt sich bei Einatmung
  &
-\\\hline
+\\\bottomrule
 \end{tabulary}
+\caption{Symptome: Atmung}
+\end{table}
 \end{center}
 
 
-[F0EA?] Gefahr der Ateminsuffizienz
+\paragraph{Gefahr der Ateminsuffizienz}
 
 \begin{itemize}
 \item Hypoxie
-
-\end{itemize}
 \begin{itemize}
 \item in weiterer Folge Unterversorgung lebenswichtiger Organe wie Herz,
 Hirn.
-
 \end{itemize}
-\begin{itemize}
 \item Atmungsbedingte \"Ubers\"auerung (Respiratorische Azidose, s. H.IV
 )
-
 \end{itemize}
-Ma{\ss}nahmen bei Atemstillstand
+
+\begin{gMassnahmenEnv}
+    \paragraph{Spezielle Ma{\ss}nahmen bei Atemstillstand}
 
 \begin{itemize}
-\item Freimachen der Atemwege
-
+    \item Freimachen der Atemwege
+    \begin{itemize}
+        \item \"Offnen des Mundes (Esmarch-Handgriff)
+        \item Inspektion
+        \item fals n\"otig ausr\"aumen
+        \item (falls n\"otig) Absaugen
+        \item \"Uberstrecken der HWS
+        \item Zungengrund wird angehoben -{\textgreater} Atemwege  sind frei!
+    \end{itemize}
+    \item \"Uberpr\"ufung der Atemt\"atigkeit (bei  \"uberstreckter HWS)
+    durch
+    \begin{itemize}
+        \item SEHEN, H\"OREN, F\"UHLEN f\"ur mindestens 10  Sekunden!
+    \end{itemize}
+    \item Sauerstoffgabe (wenn ausreichende Spontan-Atmung vorhanden)
+    \item Beatmung (keine ausreichende Spontanatmung bzw. bei Reanimation)
+    \begin{itemize}
+        \item Beatmungsbeutel mit Maske und Reservoir
+    \end{itemize}
 \end{itemize}
-\begin{itemize}
-\item \"Offnen des Mundes (Esmarch-Handgriff)
 
-\item Inspektion
-
-\item fals n\"otig ausr\"aumen 
-
-\item (falls n\"otig) Absaugen
-
-\item \"Uberstrecken der HWS
-
-\item Zungengrund wird angehoben -{\textgreater} Atemwege  sind frei!
-
-\end{itemize}
-\begin{itemize}
-\item \"Uberpr\"ufung der Atemt\"atigkeit (bei  \"uberstreckter HWS)
-durch
-
-\end{itemize}
-\begin{itemize}
-\item SEHEN, H\"OREN, F\"UHLEN f\"ur mindestens 10  Sekunden!
-
-\end{itemize}
-\begin{itemize}
-\item Sauerstoffgabe (wenn ausreichende Spontan-Atmung vorhanden)
-
-\item Beatmung (keine ausreichende Spontanatmung bzw. bei Reanimation)
-
-\end{itemize}
-\begin{itemize}
-\item Beatmungsbeutel mit Maske und Reservoir
-
-\end{itemize}
 Vgl. die entsprechenden Kapitel im Teil Erste Hilfe und
 Sanit\"atstechnik bez\"uglich der genauen Durchf\"uhrung der
 Ma{\ss}nahmen. 
 
 Achtung: Bei einem mit Atemstillstand vorgefundenen Patienten ist
 grunds\"atzlich von einer Reanimation auszugehen. 
+\end{gMassnahmenEnv}
+
+
+
+
+
+
+
+
 
 \section[Herz- / Kreislauf]{Herz- / Kreislauf}
 \label{bkm:RefHeading42514202}St\"orungen des Herz-/ Kreislaufsystems
 
-\label{bkm:RefHeading42514602}Kreislaufstillstand
+\subsection{Kreislaufstillstand}\label{bkm:RefHeading42514602}
 
-Kreislaufstillstand: Pumpversagen des Herzens aufgrund von
+\gDefinition{Totales Pumpversagen des Herzens} aufgrund von
 
 Asystolie (keine Herzt\"atigkeit)
 
@@ -5387,72 +5419,55 @@ ${\downarrow}$)
 
 elektromechanische Entkopplung 
 
-Ursachen
+\paragraph{Ursachen}
 
 \begin{itemize}
-\item Minderversorgung des Herzmuskels mit O2
-
+    \item Minderversorgung des Herzmuskels mit O2
+    \begin{itemize}
+        \item Herzinfarkt
+        \item Herzinsuffizienz
+    \end{itemize}
+    \item St\"orungen der Atmung
+    \begin{itemize}
+        \item Asthma bronchiale
+        \item Lungenembolie
+        \item zentrale Atemregulationsst\"orungen
+    \end{itemize}
+    \item sonstige St\"orungen
+    \begin{itemize}
+        \item Trauma
+        \item Vergiftungen
+        \item thermische Sch\"aden
+        \item Elektrolytverschiebungen,...
+    \end{itemize}
 \end{itemize}
-\begin{itemize}
-\item Herzinfarkt
 
-\item Herzinsuffizienz
 
-\end{itemize}
-\begin{itemize}
-\item St\"orungen der Atmung
-
-\end{itemize}
-\begin{itemize}
-\item Asthma bronchiale
-
-\item Lungenembolie
-
-\item zentrale Atemregulationsst\"orungen
-
-\end{itemize}
-\begin{itemize}
-\item sonstige St\"orungen
-
-\end{itemize}
-\begin{itemize}
-\item Trauma
-
-\item Vergiftungen
-
-\item thermische Sch\"aden
-
-\item Elektrolytverschiebungen,...
-
-\end{itemize}
-Pathophysiologie :
+\paragraph{Pathophysiologie}
 
 \begin{itemize}
 \item Aussetzen des Herzschlages ={\textgreater} Patient ist sofort
 pulslos!
-
-\item Bewu{\ss}tlosigkeit (nach 15-20 sek.)
-
-\item Atemstillstand/Schnappatmung (nach ca. 10 sek.)
-
-\item Irreversible Hirnsch\"aden nach 3-5 min., bei K\"alte allerdings
-l\"anger!
-
+\item Bewu{\ss}tlosigkeit (nach 15-20\,sek)
+\item Atemstillstand/Schnappatmung (nach ca. 10\,sek)
+\item \gEs{Irreversible Hirnsch\"aden nach 3-5\,min}, bei
+K\"alte allerdings l\"anger!
 \end{itemize}
-\paragraph{Tod}
+
+\subsection{Tod}
 Beachte:
 
-[F0EA?] Nobody is dead until warm and dead!
+\gCave{Nobody is dead until warm and dead!}
 
-Klinischer Tod vs. biologischer Tod
+\paragraph{Klinischer Tod vs. biologischer Tod}
 
 \begin{center}
-\tablehead{}\begin{supertabular}{|m{6.649cm}|m{6.651cm}|}
-\hline
+\tablehead{}\begin{tabularx}{\linewidth}{XX}
+\toprule
 klinischer Tod
  &
 biologischer Tod
-\\\hline
+\\\midrule
 keine Atmung
 
 kein Puls
@@ -5464,11 +5479,11 @@ Reanimation mu{\ss} innerhalb der ersten  Minuten erfolgen
 Organtod (irreversibel) des Gehirns
 
 gleichzusetzen mit Tod des Individuums
-\\\hline
-\end{supertabular}
+\\\bottomrule
+\end{tabularx}
 \end{center}
 
-Wann ist es wirklich zu sp\"at?
+\paragraph{Wann ist es wirklich zu sp\"at?}
 
 Todesfeststellung: Grunds\"atzlich NUR durch den Arzt!
 
@@ -5482,27 +5497,17 @@ Unter bestimmten Voraussetzungen allerdings auch durch den Sanit\"ater
 \begin{center}
  [Warning: Image ignored] % Unhandled or unsupported graphics:
 %\includegraphics[width=4.19cm,height=3.028cm]{AASdev20090228-img66.png}
-
 \end{center}
+
 \begin{itemize}
-\item %
-%
-Verwesung
-
-\item Verletzungen, die nicht mit dem Leben  vereinbar sind
-
-\end{itemize}
-\begin{itemize}
-\item Kopfamputation, {\dots}
-
-\end{itemize}
-\begin{itemize}
-\item (Totenflecken (nicht 100\%ig feststellbar))
-
-\item (Leichenstarre (nicht 100\%ig feststellbar))
-
-\item Abbruch der Reanimationsma{\ss}nahmen aufgrund von Ersch\"opfung
-
+    \item Verwesung
+    \item Verletzungen, die nicht mit dem Leben  vereinbar sind
+    \begin{itemize}
+        \item Kopfamputation, {\dots}
+    \end{itemize}
+    \item (Totenflecken (nicht 100\%ig feststellbar))
+    \item (Leichenstarre (nicht 100\%ig feststellbar))
+    \item Abbruch der Reanimationsma{\ss}nahmen aufgrund von Ersch\"opfung
 \end{itemize}
 
 
@@ -5511,7 +5516,8 @@ Verwesung
 %\includegraphics[width=7.133cm,height=4.837cm]{AASdev20090228-img67.jpg}
 
 \end{center}
-Herzinsuffizienz, Herzversagen
+
+\subsection{Herzinsuffizienz, Herzversagen}
 
 Weitere, oft auch sehr bedrohliche, St\"orungen des Herzens werden im
 Kapitel  Herz-Kreislaufst\"orungen 
@@ -5519,107 +5525,82 @@ Kapitel  Herz-Kreislaufst\"orungen
 {\quotedblbase}Herz-Kreislaufst\"orungenunten{\quotedblbase})
 besprochen.
 
-Temperaturregulation [F0E1?]
+\section{Temperaturregulation}
 
 W\"armeproduktion durch
 
 \begin{itemize}
-\item Zellaktivit\"at
-
-\item Stoffwechselvorg\"ange
-
-\item Bewegung (Muskelatmung)
-
+    \item Zellaktivit\"at
+    \item Stoffwechselvorg\"ange
+    \item Bewegung (Muskelatmung)
 \end{itemize}
 W\"armeabgabe \"uber:
+\begin{itemize}
+    \item Haut
+    \item Schwei{\ss}
+    
+    \begin{itemize}
+        \item Wirkung durch Verdunstungsk\"alte
+        \item ca. 0,5 l / Tag
+        \item bis max. 1,5 l / Std. bei schwerer k\"orperlicher  Arbeit
+    \end{itemize}
+\end{itemize}
+
+Normale Körper-Kerntemperatur: 37\,{\textdegree}C
+
+
+\section{Stoffwechsel}
+
+\gDefinition{Abl\"aufe von Stoffumsetzung und 
+Energiegewinnung, N\"ahrstoffe werden in W\"arme und Energie  umgewandelt}
+
+\paragraph{Arten}
 
 \begin{itemize}
-\item Haut
-
-\item Schwei{\ss}
-
+    \item Zuckerstoffwechsel (Kohlenhydrate)
+    \begin{itemize}
+        \item Energielieferant
+    \end{itemize}
+    \item Fettstoffwechsel (Fetts\"auren, ges\"attigt und  unges\"attigt)
+    \begin{itemize}
+        \item Doppelt so hoher Energiegehalt wie  Kohlenhydrate
+        \item L\"osungsmittel f\"ur Vitamine
+        \item Bausteine der Zellmembran
+        \item Bestandteil von Hormonen
+    \end{itemize}
+    \item Eiwei{\ss}stoffwechsel (Proteine)
+    \begin{itemize}
+        \item Zellmembranbausteine
+        \item Enzyme!
+    \end{itemize}
 \end{itemize}
-\begin{itemize}
-\item Wirkung durch Verdunstungsk\"alte
 
-\item ca. 0,5 l / Tag
-
-\item bis max. 1,5 l / Std. bei schwerer k\"orperlicher  Arbeit
-
-\end{itemize}
-physiologische Kerntemperatur: 37{\textdegree}C
-
-Regulation durch den Hypothalamus
-
-Stoffwechsel
-
- Definition 
-
-Abl\"aufe von Stoffumsetzung und  Energiegewinnung
-
-N\"ahrstoffe werden in W\"arme und Energie  umgewandelt
-
-Arten
-
-\begin{itemize}
-\item Zuckerstoffwechsel (Kohlenhydrate)
-
-\end{itemize}
-\begin{itemize}
-\item Energielieferant 
-
-\end{itemize}
-\begin{itemize}
-\item Fettstoffwechsel (Fetts\"auren, ges\"attigt und  unges\"attigt)
-
-\end{itemize}
-\begin{itemize}
-\item Doppelt so hoher Energiegehalt wie  Kohlenhydrate
-
-\item L\"osungsmittel f\"ur Vitamine
-
-\item Bausteine der Zellmembran
-
-\item Bestandteil von Hormonen
-
-\end{itemize}
-\begin{itemize}
-\item Eiwei{\ss}stoffwechsel (Proteine)
-
-\end{itemize}
-\begin{itemize}
-\item Zellmembranbausteine
-
-\item Enzyme!
-
-\end{itemize}
 \section{Wasser- und Elektro\-lyt\-haus\-halt}
 Das K\"orperwasser macht ca. 60\% des K\"orpergewichtes aus und teilt
 sich auf:
 
 \begin{itemize}
-\item IntraZellularRaum (IZR), 40\% KG 
-
-\item ExtraZellularRaum (EZR), 20\% KG 
-
-\end{itemize}
+\item \gT{IntraZellularRaum} (IZR), 40\% KG 
+\item \gT{ExtraZellularRaum} (EZR), 20\% KG 
 \begin{itemize}
 \item \index{Zwischengewebsraum}Zwischengewebsraum, \~{}16\%:
 {\quotedblbase}freier{\textquotedblleft} Raum zwischen den Zellen im
 Gewebe
-
 \item \index{Gef\"a{\ss}raum}Gef\"a{\ss}raum \~{}4\%: Raum in den
 Blutgef\"a{\ss}en
-
 \end{itemize}
-Trennung: 
+\end{itemize}
 
-IZR -- EZR:    Zellmembran (semipermeable Membran, siehe unten)
+\paragraph{Trennung} 
 
-Zwischengewebsraum -- Gef\"a{\ss}raum:  Blutgef\"a{\ss}wand
+\begin{itemize}
+    \item IZR -- EZR:    Zellmembran (semipermeable Membran, siehe unten)
+    \item Zwischengewebsraum -- Gef\"a{\ss}raum:  Blutgef\"a{\ss}wand
+\end{itemize}
 
-\index{Atome}Atome, \index{Ionen}Ionen und
-\index{Elektrolyte}Elektrolyte 
+
+\paragraph{Atome, Ionen und Elektrolyte}
+\index{Atome}\index{Ionen}\index{Elektrolyte}
 
 Atome sind die kleinsten Grundbestandteile von Marterie.
 
@@ -5628,63 +5609,58 @@ Ionen sind Atome die elektrisch geladen sind.
 Geladene Ionen sind gut in Wasser l\"oslich. Wenn sie in Wasser gel\"ost
 sind heissen sie {\quotedblbase}Elektrolyte{\textquotedblleft}. 
 
-Im Wasser gel\"oste, elektrisch geladene Teilchen hei{\ss}en
-Elektrolyte.
+\gFazit{Im Wasser gel\"oste, elektrisch geladene Teilchen
+hei{\ss}en Elektrolyte.}
 
-Die wichtigsten Ionen sind Natrium (Na+), Kalium (K+) (positiv geladen)
-und Chlorid (Cl-)(negativ geladen). 
+Die wichtigsten Ionen sind Natrium ($Na^+$), Kalium ($K^+$)
+(positiv geladen) und Chlorid ($Cl^-$)(negativ geladen). 
 
 Funktion:
 
 \begin{itemize}
-\item Osmose, Diffusion und Verschiebung von Wasser zwischen den
-einzelnen R\"aumen (siehe unten)
-
+    \item Osmose, Diffusion und Verschiebung von Wasser zwischen den
+    einzelnen R\"aumen (siehe unten)
+    \begin{itemize}
+        \item ${\rightarrow}$ Volumenregulation des K\"orpers, siehe unten.
+    \end{itemize}
+    \item Elektrische Ladung: Wie bei einer Batterie ist eine Zelle geladen
+    (innen Minuspol, aussen Pluspol). Das ist besonders wichtig f\"ur
+    \begin{itemize}
+        \item Herz (Erregungsleitung!)
+        \item Nerven
+        \item Muskel
+    \end{itemize}
 \end{itemize}
-\begin{itemize}
-\item ${\rightarrow}$ Volumenregulation des K\"orpers, siehe unten.  
 
-\end{itemize}
-\begin{itemize}
-\item Elektrische Ladung: Wie bei einer Batterie ist eine Zelle geladen
-(innen Minuspol, aussen Pluspol). Das ist besonders wichtig f\"ur
+\gZ{Elektrolyte sind geladene Teilchen, die  bei Aufspaltung
+von S\"auren, Laugen  oder deren Salzen in w\"assriger L\"osung  entstehen.
 
-\end{itemize}
-\begin{itemize}
-\item Herz (Erregungsleitung!)
-
-\item Nerven
-
-\item Muskel
-
-\end{itemize}
-Elektrolyte sind geladene Teilchen, die  bei Aufspaltung von S\"auren,
-Laugen  oder deren Salzen in w\"assriger L\"osung  entstehen.
-
-Kationen: positiv geladene Teilchen (K+ , Na+ ,Mg++ , Ca++ ,...)
+Kationen: positiv geladene Teilchen ($K^+$, $Na^+$,
+$Mg^{++}$, $Ca^{++}$, \ldots)
 
 Anionen: negativ geladene Teilchen (Cl- )
 
 Ionenverteilung:
 
-IZR: viel K+ , wenig Na+
+IZR: viel $K^+$ , wenig $Na^+$
 
-EZR: viel Na+ , wenig K+
+EZR: viel $Na^+$ , wenig $K^+$}
 
-%
-%
-\index{Osmose}Osmose und \index{Diffusion}Diffusion
 
-GAB: Osmose und Diffusion: Grunds\"atzlich wichtig und relevant,
-allenfalls bessere Erkl\"arung, aber bleibt in Normalschrift, nicht
+
+\subsection{Osmose und Diffusion} \index{Osmose}\index{Diffusion}
+
+\gAuthNotes{GAB: Osmose und Diffusion: Grunds\"atzlich wichtig und
+relevant, allenfalls bessere Erkl\"arung, aber bleibt in Normalschrift, nicht
 heller. [GAB]
 
-KOCH: Sollte alles grau werden
+KOCH: Sollte alles grau werden}
 
-Geladene Teilchen k\"onnen die Zellmembran nicht selbstst\"andig
+\gMarried
+{Geladene Teilchen k\"onnen die Zellmembran nicht selbstst\"andig
 durchdringen, Wasser dagegen schon. Man nennt die Zellmembran daher
-eine {\quotedblbase}\index{semipermeable Membran}semipermeable
-Membran{\textquotedblleft}. 
+eine {\quotedblbase}\index{semipermeable
+Membran}\gT{semipermeable Membran}{\textquotedblleft}. 
 
 Die Natur m\"ochte dass in einer Fl\"ussigkeit \"uberall die gleiche
 Konzentration von geladenen Teilchen herrscht. Da die Zellmembran (und
@@ -5693,17 +5669,19 @@ nicht jedoch die geladenen Teilchen verschiebt sich nur das Wasser von
 einem Raum in den anderen. Man kann sagen dass die Elekktrolyte einen
 Druck auf das Wasser aus\"uben {\quotedblbase}die Seiten zu
 wechseln{\textquotedblleft}. Man nennt diesen Druck den
-{\quotedblbase}\index{osmotischer Druck}osmotischen
-Druck{\textquotedblleft}. Mann kann auch sagen {\quotedblbase}das
-Wasser folgt dem Konzentrationsgef\"alle{\textquotedblleft}.
+{\quotedblbase}\index{osmotischer Druck}\gT{osmotischen
+Druck}{\textquotedblleft}. Mann kann auch sagen
+{\quotedblbase}das Wasser folgt dem Konzentrationsgef\"alle{\textquotedblleft}.}
+{\begin{center}
+\includegraphics[width=\linewidth]{./images/osmose.png}
+\captionof{figure}{Diffusion. \gSourcePicture{Fischer}}
+\end{center}}
 
-\begin{center}
- [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=6.131cm,height=3.646cm]{AASdev20090228-img68.gif}
 
-\end{center}
-Daneben gibt es den {\quotedblbase}onkotischen Druck{\textquotedblleft}
-der durch Eiwei{\ss}bestandteile ausge\"ubt wird.
+
+
+\gZ{Daneben gibt es den {\quotedblbase}onkotischen
+Druck{\textquotedblleft} der durch Eiwei{\ss}bestandteile ausge\"ubt wird.}
 
 Wie kommen die Elektrolyte in die einzelnen R\"aume wenn doch nur Wasser
 die Wand passieren kann?
@@ -5715,84 +5693,72 @@ ist recht kompliziert aber lebenswichtig. Eine
 {\quotedblbase}falsche{\textquotedblleft} Verteilung der Elektrolyte
 kann schlimme Folgen haben (zB. Herzrhythmusst\"orungen). 
 
-Die richtige Verteilung der Elektrolyte im K\"orper ist lebenswichtig.
-Elektrolyst\"orungen k\"onnen lebensgef\"ahrlich sein. 
+\gFazit{Die richtige Verteilung der Elektrolyte im K\"orper
+ist lebenswichtig. Elektrolyst\"orungen k\"onnen lebensgef\"ahrlich sein. }
 
-H\"aufige Ursachen von \index{Elektrolyst\"orungen}Elektrolyst\"orungen
+\paragraph{H\"aufige Ursachen von
+Elektrolyst\"orungen}\index{Elektrolyst\"orungen}
 
 \begin{itemize}
-\item Niereninsuffizienz (gest\"orte Ausscheidung
-
+    \item Niereninsuffizienz (gest\"orte Ausscheidung
+    \begin{itemize}
+        \item Besonders bei Dialysepatienten
+    \end{itemize}
+    \item Durchfall, Erbrechen
+    \item Medikamente
+    \item Vergiftung
 \end{itemize}
-\begin{itemize}
-\item Besonders bei Dialysepatienten
 
-\end{itemize}
-\begin{itemize}
-\item Durchfall, Erbrechen 
-
-\item Medikamente
-
-\item Vergiftung
-
-\end{itemize}
-Wasser- und Elektrolythaushalt
+\subsection{Wasser- und Elektrolythaushalt}
 
 Blutvolumen = Plasmawasser + zellul\"are Bestandteile (Blutk\"orperchen)
 
-Beim Erwachsenen 7-8\% KG
+Beim Erwachsenen 7-8\,\% KG
 
-Beim Neugeborenen / S\"augling 8-9\% KG  (70-80\%  K\"orperwasser!)
+Beim Neugeborenen / S\"augling 8-9\,\% KG  (70-80\,\% 
+K\"orperwasser!)
 
-Verluste bis 20\% ohne Funktionsbeeintr\"achtigung tolerierbar,
-allerdings Sch\"aden in der  Mikrozirkulation
+Verluste bis 20\,\% ohne Funktionsbeeintr\"achtigung
+tolerierbar, allerdings Sch\"aden in der  Mikrozirkulation
 
 ${\rightarrow}$ auch ohne klinische Schockzeichen  ist bei
 Volumensverlust Volumensersatz  indiziert!
 
 \begin{itemize}
-\item osmotischer Druck
-
+    \item osmotischer Druck
+    \begin{itemize}
+        \item Volumenregulation des K\"orpers
+    \end{itemize}
+    \item Konzentrationsgef\"alle ${\rightarrow}$ Spannungsunterschied an
+    den Zellmembranen ${\rightarrow}$ Grundlage f\"ur Erregungsleitung /
+    Muskelkontraktion
+    \item Regelung durch:
+    \begin{itemize}
+        \item Hormone \gZ{(Renin/Angiotensin/Aldosteron)}
+        \item Ausscheidung \"uber Niere
+    \end{itemize}
 \end{itemize}
-\begin{itemize}
-\item Volumenregulation des K\"orpers
 
-\end{itemize}
-\begin{itemize}
-\item Konzentrationsgef\"alle ${\rightarrow}$ Spannungsunterschied an
-den Zellmembranen ={\textgreater} Grundlage f\"ur Erregungsleitung /
-Muskelkontraktion
+\subsection{S\"aure-/Basenhaushalt}
+\index{S\"aure}\gT{S\"auren} = Verbindungen, die 
+Wasserstoffionen (H+) abgeben k\"onnen
+\index{Lauge}\gT{Laugen} = \index{Base}\gT{Basen} =
+Verbindungen, die H+ aufnehmen k\"onnen
 
-\item Regelung durch:
+\paragraph{pH-Wert}\index{pH-Wert}
 
-\end{itemize}
-\begin{itemize}
-\item Hormone (Renin/Angiotensin/Aldosteron)
-
-\item Ausscheidung \"uber Niere
-
-\end{itemize}
-S\"aure-/Basenhaushalt 
-
-\index{S\"aure}S\"auren = Verbindungen, die  Wasserstoffionen (H+)
-abgeben k\"onnen
-
-\index{Lauge}Laugen = \index{Base}Basen = Verbindungen, die H+ 
-aufnehmen k\"onnen
-
-\index{pH-Wert}pH-Wert
-
-Der pH-Wert gibt an wie sauer oder basisch eine L\"osung ist.
+\gDefinition{Der pH-Wert gibt an wie sauer oder basisch eine
+L\"osung ist.}
 
 = Menge der freien H+  in einer L\"osung.
 
 pH 7 ist neutral, pH {\textgreater} 7 basisch, pH {\textless} 7 sauer
 
-pH normal ca. um 7,4.
+\gZ{pH normal ca. um 7,4.
 
 pH {\textless} 7,35  ={\textgreater} Azidose
 
-pH {\textgreater} 7,45  ={\textgreater} Alkalose
+pH {\textgreater} 7,45  ={\textgreater} Alkalose}
 
 Der richtige pH-Wert ist lebenswichtig. Der K\"orper ist da sehr
 empfindlich, der pH-Wert muss sich in engen grenzen bewegen. Schon
@@ -5803,58 +5769,45 @@ pH-Wert zu messen, jedoch haben wir gro{\ss}en Einflu{\ss} auf ihn
 durch unsere Ma{\ss}nahmen, siehe unten. 
 
 Bei einer \"Ubers\"auerung sprechen wir von einer
-\index{Azidose}Azidose, wenn der Patient basisch wird von einer
-\index{Alkalose}Alkalose.
+\index{Azidose}\gT{Azidose}, wenn der Patient basisch wird
+von einer \index{Alkalose}\gT{Alkalose}.
 
-\paragraph[\ Regulationsmechanismen]{ Regulationsmechanismen}
+\paragraph{Regulationsmechanismen}
+
 \begin{itemize}
-\item Blut mit Puffersystem
-
+    \item Blut mit Puffersystem
+    \begin{itemize}
+        \item \gZ{$H^+ + HCO_3^- \leftrightarrow H_2O + CO_2$  (Formel nicht lernen!)}
+        \item S\"aure {\tiny + Bikarbonat}
+        ${\leftrightarrow}$ {\tiny Wasser +} $CO_2$
+        \begin{itemize}
+            \item Atmet der Patient nicht (genug) staut sich das CO2 und bildet mit
+            Wasser $H^+"$ ${\rightarrow}$ Atmungsbedingte
+            \"Ubers\"auerung
+            \item Atmet der Patient zu viel wird zu viel CO2 abgeatmet und wird von
+            H+ und dem anderen Stoff nachgebildet ${\rightarrow}$ H+ fehlt
+            ${\rightarrow}$ Atmungsbedingte Alkalose
+            \item F\"allt zu viel $H^+$ (S\"aure) im
+            K\"orper an (durch den Stoffwechsel, Stoffwechselbedingte \"Ubers\"auerung) wird es zu (Wasser
+            und) $CO_2$ umgewandelt, das $CO_2$ wird
+            abgeatmet
+        \end{itemize}
+    \end{itemize}
+    \item Lunge
+    \begin{itemize}
+        \item Abatmung von $CO_2$ ${\rightarrow}$ Einfluss auf den Puffer (s.o.)
+    \end{itemize}
+    \item Niere
+    \begin{itemize}
+        \item Ausscheidung (oder Wiederaufnahme)  von H+
+    \end{itemize}
 \end{itemize}
-\begin{itemize}
-\item  %
-%
-H+ + HCO3- ${\leftarrow}$${\rightarrow}$ H2 O + CO2  (Formel nicht
-lernen!)
 
-\item S\"aure + Bikarbonat ${\leftarrow}$${\rightarrow}$ Wasser + CO2
-
-\end{itemize}
-\begin{itemize}
-\item Atmet der Patient nicht (genug) staut sich das CO2 und bildet mit
-Wasser H+ ${\rightarrow}$ Atmungsbedingte \"Ubers\"auerung
-
-\item Atmet der Patient zu viel wird zu viel CO2 abgeatmet und wird von
-H+ und dem anderen Stoff nachgebildet ${\rightarrow}$ H+ fehlt
-${\rightarrow}$ Atmungsbedingte Alkalose
-
-\item F\"allt zu viel H+ (S\"aure) im K\"orper an (durch den
-Stoffwechsel, Stoffwechselbedingte \"Ubers\"auerung) wird es zu (Wasser
-und) CO2 umgewandelt, das CO2 wird abgeatmet
-
-\end{itemize}
-\begin{itemize}
-\item Lunge 
-
-\end{itemize}
-\begin{itemize}
-\item Abatmung von CO2 ${\rightarrow}$ Einfluss auf den Puffer (s.o.)
-
-\end{itemize}
-\begin{itemize}
-\item Niere
-
-\end{itemize}
-\begin{itemize}
-\item Ausscheidung (oder Wiederaufnahme)  von H+
-
-\end{itemize}
-\subparagraph[Atmungsbedingte \"Ubers\"auerung - Respiratorische
-Azidose]{Atmungsbedingte \"Ubers\"auerung - Respiratorische Azidose}
+\subsubsection{Atmungsbedingte \"Ubers\"auerung - Respiratorische Azidose}
 \label{bkm:RefHeading35233321}\index{\"Ubers\"auerung}\index{Respiratorische
 Azidose}durch Hypoventilation / verminderten  Gasaustausch:
 
-CO2  Abatmung vermindert ${\rightarrow}$ Hyperkapnie,  Ans\"auerung des
+$CO_2$  Abatmung vermindert ${\rightarrow}$ Hyperkapnie,  Ans\"auerung des
 Blutes
 
 Ursachen
@@ -5869,8 +5822,7 @@ Therapie
 
 Erh\"ohung des Atem-Minuten-Volumens
 
-\subparagraph[Stoffwechselbedingte \"Ubes\"auerung -Metabolische
-Azidose]{Stoffwechselbedingte \"Ubes\"auerung -Metabolische Azidose}
+\subsubsection{Stoffwechselbedingte \"Ubes\"auerung -Metabolische Azidose}
 \index{\"Ubes\"auerung}\index{Metabolische Azidose}Zunahme von
 organischen S\"auren im  K\"orper
 
@@ -5896,24 +5848,23 @@ Gefahren
 \item respiratorische und metabolische  Alkalose
 
 \end{itemize}
-\subparagraph[Atmungsbedingte (respiratorische)
-Alkalose]{Atmungsbedingte (respiratorische) Alkalose}
+\subsubsection{Atmungsbedingte (respiratorische) Alkalose}
 \index{Alkalose}Hyperventilationssyndrom
 
 Elektrolytverschiebung: Kribbeln in den Fingern, Pf\"otchenstellung,
 Kr\"ampfe
 
-\subparagraph{Stoffwechselbedingte (metabolische) Alkalose}
+\subsubsection{Stoffwechselbedingte (metabolische) Alkalose}
 z.B. durch anhaltendes Erbrechen: Verlust von S\"aure
 
-Zusammenfassung [F055?]
+\subsubsection*{Zusammenfassung}
 
-Wer zu wenig atmet wird sauer.
+\gFazit{Wer zu wenig atmet wird sauer.
 
 Wer zu viel atmet wird basisch und sp\"urt ein Kribbeln in den Fingern. 
 
 Wer Probleme mit dem Stoffwechsel hat kann auch sauer oder basisch
-werden.
+werden.}
 
 \section{SCHOCK}
 
@@ -5921,32 +5872,30 @@ werden.
 Unterversorgung des K\"orpers mit Blut und Sauerstoff infolge des
 Versagens des Kreislaufsystems.{\textquotedblleft}}
 
-Es k\"onnen einzelne oder mehrere Teile des Kreislaufsystems betroffen
-sein  (Blut, Gef\"a{\ss}e, Herz).
+\gEs{Es k\"onnen einzelne oder mehrere Teile des Kreislaufsystems betroffen
+sein  (Blut, Gef\"a{\ss}e, Herz).}
 
-Ob ein Schock oder eine Schockgefahr besteht wird anhand von
-Schocksymtpomen und anhand der Verdachtsdiagnose beurteilt.
+\gEs{Ob ein Schock oder eine Schockgefahr besteht wird anhand von
+Schocksymtpomen und anhand der Verdachtsdiagnose beurteilt.}
+
 
 Schock bedeutet:
 
 \begin{itemize}
-\item akute Kreislaufinsuffizienz = Mi{\ss}verh\"altnis Herzauswurf - 
-Sauerstoffbedarf des K\"orpers  
-
-\item M\"ogliche Ursachen: 
-
+    \item akute Kreislaufinsuffizienz = 
+   \gEs{Mi{\ss}verh\"altnis
+   Herzauswurf\,:\,Sauerstoffbedarf} des K\"orpers
+    \item M\"ogliche Ursachen:
+    \begin{enumerate}
+        \item Herz pumpt wenig
+        \item Zu wenig Blut vorhanden
+        \item Gef\"a{\ss}e sind zu weit gestellt und Blut versackt
+    \end{enumerate}
 \end{itemize}
-\begin{itemize}
-\item Herz pumpt wenig
 
-\item Zu wenig Blut vorhanden 
-
-\item Gef\"a{\ss}e sind zu weit gestellt und Blut versackt
-
-\end{itemize}
-Im Endeffekt kommt immer zu wenig Blut=Sauerstoff zu den Organen,
-dadurch ist die Ge\-webedurchblutung nicht ausreichend  f\"ur die
-Versorgung aller Organe mit Sauer\-stoff.
+\gFazit{Im Endeffekt kommt immer zu wenig Blut=Sauerstoff zu den
+Organen, dadurch ist die Ge\-webedurchblutung nicht ausreichend  f\"ur die
+Versorgung aller Organe mit Sauer\-stoff.} 
 
 K\"orpereigene Mechanismen k\"onnen gegensteuern und versuchen den
 Schock zu kompensieren (gegensteuern). Dies geht allerdings nur eine
@@ -5954,37 +5903,34 @@ gewisse Zeit und in einem gewissen Ausma{\ss} gut, daher ist eine
 schnell  einsetzende Therapie wichtig! Bei l\"anger bestehendem Schock
 kann dieser Zustand irreversibel werden. 
 
-Kein Schock besteht bei kurzzeitigen  Bewu{\ss}tseinsst\"orungen wie
-Kollaps/Synkope (kurzfristige Blutverteilungsst\"orung, kurzfristige
+\gE{Kein} Schock besteht bei kurzzeitigen 
+Bewu{\ss}tseinsst\"orungen wie Kollaps/Synkope (kurzfristige Blutverteilungsst\"orung, kurzfristige
 zerebrale Isch\"amie,  fl\"uchtige Symptome)
 
-Schock -  Kompensationsmechanismen
+
+\paragraph{Schock --  Kompensationsmechanismen}
 
 Der K\"orper versucht selber dagegen etwas zu tun und gegenzusteuern
 ({\quotedblbase}kompensieren{\textquotedblleft}). Der wichtigste
-Mechanismus ist die \index{Zentralisation}Zentralisation. Darunter
-versteht man die Blutumverteilung zugunsten lebenswichtger Organe wie
+Mechanismus ist die \index{Zentralisation}\gT{Zentralisation}. Darunter versteht man die Blutumverteilung zugunsten lebenswichtger Organe wie
 Herz, Gehirn, Lunge und Leber. Dabei werden z.B. Haut, Muskel und Darm
 sowie die Extremit\"aten (=Peripherie) kaum mehr  durchblutet.
 Periphere Venen kollabieren und die Rekapillarisierungszeit
 verl\"angert. Wenn die Kompensationsma{\ss}nahmen  versagen spricht man
-vom {\quotedblbase}dekompensierter Schock{\textquotedblleft}. Es
-besteht sp\"atestens dann akute Lebensgefahr![F0EA?] 
+vom \gE{"`dekompensierter
+Schock"'}. Es besteht sp\"atestens dann akute
+\gEs{Lebensgefahr}!
 
 Beachte: 
 
-\begin{center}
- [Warning: Image ignored] % Unhandled or unsupported graphics:
-%\includegraphics[width=3.8cm,height=2.611cm]{AASdev20090228-img69.png}
-
-\end{center}
-Bei jedem Patienten ist zu erheben ob ein Schock oder eine realistische
+\gCave{Bei jedem Patienten ist zu erheben ob ein Schock oder eine realistische
 Schockgefahr besteht oder nicht bzw. festzustellen um welche Art von
-Schock es sich handelt (s.u.)!
+Schock es sich handelt (s.u.)!}
 
-Achtung!
+\gCave{Achtung! 
 
-Jeder Schockzustand ist grunds\"atzlich ein Fall f\"ur den NOTARZT!
+Jeder Schockzustand ist grunds\"atzlich ein
+Fall f\"ur den NOTARZT!}
 
 Allgemeine Schocksymptomatik
 
@@ -5994,7 +5940,9 @@ Allgemeine Schocksymptomatik
  &
 Symptome
 \\\hline
-\index{Schockgefahr}Schockgefahr\
+{\sffamily\Large\color{red} \index{Schockgefahr}Schockgefahr}
+
+{\sffamily\bfseries\Huge\color{green} \Smiley}
  &
 \begin{itemize}
 \item Keine eindeutigen Anzeichen
@@ -6006,7 +5954,7 @@ Schock entwickelt?  Besteht Schockgefahr?
 
 \end{itemize}
 \\\hline
-Schock
+{\sffamily\Large\color{red} Schock}
  &
 \begin{itemize}
 \item HF ${\uparrow}$
@@ -6025,11 +5973,11 @@ Schock
 
 \end{itemize}
 \\\hline
-\centering Schwerer Schock\par
+{\sffamily\Large\color{red} \centering Schwerer Schock\par
 
 \centering Vollbild\par
 
-\centering [E427?]\par
+\centering [E427?]\par}
 
  &
 \begin{itemize}
@@ -6057,10 +6005,9 @@ fr\"uhzeitig erkennen \&  behandeln
 
 \end{itemize}
 \\\hline
-\centering Endstadium\par
+{\sffamily\Large\color{red} \centering Endstadium\par
 
-\centering [E429?]\par
-
+\centering [E429?]\par}
  &
 \begin{itemize}
 \item Haut grau, klebrig
@@ -6079,7 +6026,8 @@ fr\"uhzeitig erkennen \&  behandeln
 \\\hline
 \end{tabular}
 \end{center}
-Schockschere
+
+\paragraph{Schockschere}
 
 Normalerweise ist die Herzfrequenz niedriger als der systolische
 Blutdruck. Wenn der K\"orper versucht den Schock zu kompensieren kann
@@ -6089,83 +6037,68 @@ eines Schocks!
 
 Achtung: Kinder haben andere Normalwerte f\"ur HF und RR!
 
-[Warning: Draw object ignored]
+\captionof{figure}{Schockschere. \gAuthNotes{Achtung! Bild
+fehlt!}}
 
-Wenn sich das Verh\"altnis Herzfrequenz zu Systolischem Blutdruck
-umkehrt befindet sich der Patient bereits im Schock. 
+\gFazit{Wenn sich das Verh\"altnis Herzfrequenz zu Systolischem
+Blutdruck umkehrt befindet sich der Patient bereits im Schock.}
 
-\label{bkm:RefHeading38104902}Allgemeine Ma{\ss}nahmen der
-\index{Schockbek\"ampfung}Schockbek\"ampfung
+\subsection{Allgemeine Ma{\ss}nahmen der
+Schockbek\"ampfung\}label{bkm:RefHeading38104902}}\marginlabel{Schockbekämpfung}\label{topic:schockbekaempfung}\index{Schockbek\"ampfung}
 
 Grundsatz: Der Schock muss bek\"ampft werden bevor man ihn bemerkt.
 
-\begin{itemize}
-\item Notarzt!
+\begin{gMassnahmenEnv}
+    \begin{itemize}
+        \item Notarzt!
+        \item Situationsgerechte  Lagerung, je nach Diagnose und Schockart
+        \item Beengende Kleidung \"offnen
+        \item Sauerstoffgabe hochdosiert (ab 6\gLMin bei Schockgefahr,
+        10\gLMin oder mehr bei bestehendem Schock, je nach Schwere)
+        \item Monitoring (Pulsoxy, RR-Manschette angelegt lassen)
+        \item Reanimationsbereitschaft
+        \item W\"armeerhalt
+        \item Psychische Betreuung
+        \item Weitere Massnahmen je nach Schockart
+    \end{itemize}
+\end{gMassnahmenEnv}
+    \gAuthNotes{Freigabe: Sauerstoffgabe hochdosiert (ab 6l/min bei
+    Schockgefahr, 10l/min oder mehr bei bestehendem Schock, je nach Schwere}
 
-\item Situationsgerechte  Lagerung, je nach Diagnose und Schockart
-
-\item Beengende Kleidung \"offnen
-
-\item Sauerstoffgabe hochdosiert (ab 6l/min bei Schockgefahr, 10l/min
-oder mehr bei bestehendem Schock, je nach Schwere%
-%
-)
-
-\end{itemize}
-Freigabe: Sauerstoffgabe hochdosiert (ab 6l/min bei Schockgefahr,
-10l/min oder mehr bei bestehendem Schock, je nach Schwere
-
-\begin{itemize}
-\item Monitoring (Pulsoxy, RR-Manschette angelegt lassen)
-
-\item Reanimationsbereitschaft 
-
-\item W\"armeerhalt
-
-\item Psychische Betreuung
-
-\item Weitere Massnahmen je nach Schockart 
-
-\end{itemize}
-Schock - Arten
+\subsection{Schock - Arten}
 
 \begin{center}
-\begin{tabular}{|m{4.8430004cm}|m{8.457cm}|}
-\hline
-\centering Mechanismus
+\begin{tabularx}{\linewidth}[H]{XX}
+\toprule
+\gEs{Mechanismus}
  &
-Schockart
-\\\hline
+\gEs{Schockart}
+\\\midrule
 Herz pumpt zu wenig
 &
-\begin{itemize}
-\item Kardiogender Schock
-
-\end{itemize}
-\\\hline
+{\begin{itemize}
+    \item Kardiogender Schock
+\end{itemize}}
+\\
 Zu wenig Blut vorhanden 
-
  &
-\begin{itemize}
-\item Hypovol\"amischer Schock
-
-\end{itemize}
-\\\hline
+{\begin{itemize}
+    \item Hypovol\"amischer Schock
+\end{itemize}}
+\\
 Gef\"a{\ss}e inad\"aquat weitgestellt, Blut versackt
-
  &
-\begin{itemize}
-\item Anaphylaktischer Schock
-
-\item Septischer Schock, toxischer Schock
-
-\item Neurogener Schock
-
-\end{itemize}
-\\\hline
-\end{tabular}
+{\begin{itemize}
+    \item Anaphylaktischer Schock
+    \item Septischer Schock, toxischer Schock
+    \item Neurogener Schock
+\end{itemize}}
+\\\bottomrule
+\end{tabularx}
 \end{center}
-\paragraph{Hypovol\"amischer Schock}
+
+
+\subsubsection{Hypovol\"amischer Schock}
 Schock aufgrund eines Verlustes von Blutvolumen aus den Gef\"a{\ss}en.
 
 Es kann dabei verloren gehen: 
@@ -6262,7 +6195,7 @@ veraltet ist sollten sie ihn wo aufschnappen. Stattdessen
 
 Wenn KI gegen Beine hoch: Flachlagerung bzw. stab. Seitenlage empfehlen?
 
-\paragraph{Kardiogener Schock}
+\subsubsection{Kardiogener Schock}
 Schock infolge mangelnder Herzpumpleistung.
 
 \begin{center}
@@ -6314,7 +6247,7 @@ Heparin)
 \item Reanimationsbereitschaft  
 
 \end{itemize}
-\paragraph{Anaphylaktischer Schock}
+\subsubsection{Anaphylaktischer Schock}
 Schock aufgrund einer \"uberschie{\ss}enden allergischen Reaktion.
 
 {\quotedblbase}Allergischer Schock{\textquotedblleft}. Ausgel\"ost durch
@@ -6347,12 +6280,11 @@ M\"ogliche Antigene
 \item und vieles andere ...
 
 \end{itemize}
-Symptome%
-%
 
+Symptome
 
 \begin{center}
-\tablehead{}\begin{supertabular}{|m{3.31cm}|m{9.99cm}|}
+\begin{supertabular}{|m{3.31cm}|m{9.99cm}|}
 \hline
 \centering Stadium\par
 
@@ -6402,12 +6334,13 @@ oben)
 \item Antigen  nach M\"oglichkeit entfernen!
 
 \item Lagerung: situationsgerecht. Druckverlust im Vordergrund: Beine
-hoch.%
-%
+hoch.
+ 
  Atemprobleme im Vordergrund: stark erh\"ohter Oberk\"orper
-
 \end{itemize}
-\paragraph[Septischer Schock und Toxischer Schock]{Septischer Schock und
+
+
+\subsubsection{Septischer Schock und
 Toxischer Schock}
 \label{bkm:RefHeading41284910}Siehe auch: Kap. [RS II] Hygiene 
 {\guillemotright} Sepsis
@@ -6473,7 +6406,7 @@ oben)
 \item ben\"otigt Antibiotika (im KH)
 
 \end{itemize}
-\paragraph{Neurogener Schock}
+\subsubsection{Neurogener Schock}
 Zusammenbruch der nerv\"osen Kreislaufregulation, inad\"aquate
 arterielle und ven\"ose Gef\"a{\ss}erweiterung (Vasodilatation)
 
@@ -7733,7 +7666,8 @@ Wiederholte Anfälle von Atemnot durch
     ·~Sauerstoffgabe, ·~Reanimationsbereitschaft (Defibrillator eingeschalten, 
     sonstiges Zubehör nicht am Foto gezeigt sichtbar), ·~Notarztnachforderung, 
     ·~Vitalwerte erheben und Monitoring: Blutdruck wird gerade gemessen, 
-    die Patientin ist am Monitor angeschlossen. Quelle: Gabriel}
+    die Patientin ist am Monitor angeschlossen.
+    \gSourcePicture{Gabriel}}
     \includegraphics[width=6.5cm]{./images/asthma-paramedic.jpg}
     \label{fig:asthma-paramedic}
     \end{captionbeside}
@@ -7785,14 +7719,17 @@ disease}\label{topic:copd}
 
 Syn.: Chronisch-obstruktive Lungenerkrankung.
 
-\begin{figure}
-%[Warning: Image ignored] [width=13.211cm,height=8.168cm]
+
+\begin{figure}[h]
+    \begin{center}
 \includegraphics{./images/copd-stufen.png}
-\caption[Eine COPD entsteht nicht pl\"otzlich: Ein
-COPD{\textquotesingle}ler hat eine Karriere hinter sich.]{Eine COPD
+\caption{Eine COPD
 entsteht nicht pl\"otzlich: Ein COPD{\textquotesingle}ler hat eine
-Karriere hinter sich.}
+Karriere hinter sich. \gSourcePicture{Quelle unbekannt} \gAuthNotesPicLegalNotOk{copd-stufen.png}{}}
+\end{center}
 \end{figure}
+
+
 
 \subparagraph*{Sammelbegriff f\"ur}
 
@@ -8064,12 +8001,14 @@ Es kommt häufig vor das diese Patienten \gEs{im
 Stiegenhaus} oder \gEs{im Auto}
 \gEs{reanimationspflichtig} werden. 
 
-\begin{gCaveEnv}
+\gCave{Kein Transport ohne Notarzt! 
 
-Kein Transport ohne Notarzt. Auch wenn das Spital
-{\quotedblbase}um{\textquotesingle}s Eck{\textquotedblleft} ist.
-    
-\end{gCaveEnv}
+Auch wenn das Spital
+{\quotedblbase}um{\textquotesingle}s Eck{\textquotedblleft}
+ist. Der Patient schafft es möglicherweise nicht 'mal mehr
+ins Auto!}
+
+
 
 \subsection{Lungenentzündung --- \gT{Pneumonie}}
 
@@ -8238,19 +8177,22 @@ mit Bakterien.}
 Die bakterielle Meningitis ist eine gefürchtete Erkrankung. Einerseits ist sie
 hoch ansteckend, andererseits kann sie rasch tödlich enden. Gefährdet sind
 grundsätzlich alle Altersgruppen, besonders aber Kinder, Jugendliche und alte
-Menschen. 
+Menschen.
+ 
+\begin{wrapfigure}{r}{5cm}
 
-Typische Symptome sind Nackensteifigkeit, Fieber und Lichtscheue. \gZ{Im
-fortgeschrittenen Stadium kann es zu massiven Gerinnungsstörungen kommen, am
-Körper bilden sich dann dunkle Hämatome (s. Abb. \ref{fig:meningitis-baby}.
-Einer der häufigsten Erreger sind die Meningokokken, man spricht dann von einer Meningokokken-Meningitis.}
-\marginpar{\label{fig:meningitis-baby}
 \includegraphics[width=\linewidth]{./images/meningitis-kind-waterhouse.png}
 \captionof{figure}{Endstadium einer bakteriellen Meningitis.
 Die Flecken auf der Haut sind Blutungen in Folge einer nicht mehr
 funktionierenden Blutgerinnung. Der Tod ist bei diesem Patienten
 innerhalb weniger Stunden zu erwarten.\newline
-\emph{Quelle: unbekannt}}}
+\gSourcePicture{unbekannt}}\label{fig:meningitis-baby}
+\end{wrapfigure}
+Typische Symptome sind Nackensteifigkeit, Fieber und Lichtscheue. \gZ{Im
+fortgeschrittenen Stadium kann es zu massiven Gerinnungsstörungen kommen, am
+Körper bilden sich dann dunkle Hämatome (s. Abb. \ref{fig:meningitis-baby}.
+Einer der häufigsten Erreger sind die Meningokokken, man spricht dann von einer Meningokokken-Meningitis.}
+
 
 \paragraph{Symptome}
 
@@ -9775,12 +9717,12 @@ SSW erfolgt.
 
 \subsection{Geburt}
 
-\subparagraph*{Verlauf}
+\paragraph{Verlauf}
 
-3 Phasen:
+Die Geburt verläuft in \gE{3} Phasen:
 
 \begin{center}
-\begin{tabulary}{13cm}{LLL}
+\begin{tabulary}{\linewidth}{LLL}
 \toprule
 Phase
  &
@@ -9788,54 +9730,52 @@ Beschreibung
  &
 Wehen
 \\\midrule
-Eröffnungsphase
+\gT{Eröffnungs\-phase}
  &
-{\mdseries Eröffnungswehen}
+Eröffnungswehen
 
-{\mdseries Gebärmutterhals (Cervix) verk\"urzt sich,  Muttermund
-öffnet sich}
+Gebärmutterhals (Cervix) verk\"urzt sich,  Muttermund
+öffnet sich
 
-{\mdseries Blasensprung}
+Blasensprung
 
-{\mdseries liegender Transport, sonst Beschleunigung der  Geburt und 
-Gefahr eines  \gEs{Nabelschnurvorfalls}!! }
+\gE{Liegender Transport}, sonst Beschleunigung der  Geburt
+und Gefahr eines  \gEs{Nabelschnurvorfalls}!! 
 
-{\mdseries Kindskopf tritt in Geburtskanal ein}
+Kindskopf tritt in Geburtskanal ein
  &
 10-15 min.
 \\\hline
-Austreibungsphase
+\gT{Austreibungs\-phase}
  &
-{\mdseries Pre{\ss}wehen}
+Pre{\ss}wehen
 
-{\mdseries Pausen wichtig (Erholungsphase f\"ur Fetus)}
+Pausen wichtig (Erholungsphase f\"ur Fetus)
 
-{\mdseries Muttermund vollständig eröffnet}
+Muttermund vollständig eröffnet
 
-{\mdseries \gT{Pre{\ss}wehen}: Kontraktion Bauch- plus 
-Uterusmuskulatur}
+\gT{Pre{\ss}wehen}: Kontraktion Bauch- plus 
+Uterusmuskulatur
 
-{\mdseries Kopf wird sichtbar -- normalerweise  Hinterhauptslage (alle
-anderen Lagen stellen  Komplikationen dar)}
+Kopf wird sichtbar -- normalerweise  Hinterhauptslage (alle
+anderen Lagen stellen  Komplikationen dar)
 
-{\mdseries \gT{Dammschutz} ${\rightarrow}$ sonst
-Dammri{\ss}, Schutz des Kindes vor Stuhl der Mutter}
+\gT{Dammschutz} ${\rightarrow}$ sonst
+Dammri{\ss}, Schutz des Kindes vor Stuhl der Mutter
 
-{\mdseries Kopf geboren ${\rightarrow}$ Körper folgt schnell nach
-${\rightarrow}$  auffangen!}
+Kopf geboren ${\rightarrow}$ Körper folgt schnell nach
+${\rightarrow}$  auffangen!
 
-{\mdseries absaugen ${\rightarrow}$ abnabeln ${\rightarrow}$ warm
-einpacken ${\rightarrow}$ der Mutter auf die Brust legen}
+Absaugen ${\rightarrow}$ abnabeln ${\rightarrow}$ warm
+einpacken ${\rightarrow}$ der Mutter auf die Brust legen
 &
 2-3 min.
 \\\hline
-Nachgeburtsphase
+\gT{Nachgeburts\-phase}
  &
-{\mdseries Placenta als Nachgeburt}
+Nach 10-20 min. neuerliche Wehen
 
-{\mdseries nach 10-20 min. neuerliche Wehen}
-
-{\mdseries Geburt der Placenta  (Nachgeburt,  Mutterkuchen)}
+Geburt der Placenta  (Nachgeburt)
  &
 \\\bottomrule
 \end{tabulary}
@@ -13329,7 +13269,7 @@ Es gibt sichere und unsichere Frakturzeichen:
 \includegraphics[width=6cm]{./images/fraktur_fehlstellung_nativ.jpg}
 \includegraphics[width=6cm]{./images/fraktur_fehlstellung_xray.jpg}
 \caption{Fehlstellung -- In natura und in
-Röntgendarstellung. \small\emph{Quelle: Hauer}}
+Röntgendarstellung. \gSourcePicture{Hauer}}
 \end{center}
 \end{figure}
 
@@ -14244,9 +14184,12 @@ wichtiger ist die Hygiene und die Vermeidung von
 \begin{minipage}{13.67cm}
 [Warning: Draw object ignored]
 
-Zeichnung \stepcounter{Drawing}{\theDrawing}: Teufelskreis der
+\captionof{figure}{Teufelskreis der
 resistenten Keime. Oft das Bindeglied: Der Rettungs- und
-Krankentransportdienst. Quelle: 
+Krankentransportdienst.
+\gSourcePicture{unbekannt} \gAuthNotes{Achtung! Zeichnung
+fehlt!}}
+
 
 \end{minipage}
 
@@ -14652,15 +14595,22 @@ Gefahrengutunfall --- \gAasRsN{RS~XI}}
 
 \chapter{Fallbeispiele und Arbeitsaufgaben}
 
+\addtocounter{chapter}{0}
 \part{ILS: Notfallrettung Grundlagen}
 {\mdseries
 Entspricht SAN 3-2-1-Einschulung}
 
-\section{Anamnese und Untersuchung}
-\section{Megacodetraining}
-\section{MPG}
+\chapter{Anamnese und Untersuchung}
+
+\chapter{MPG}
+
+\chapter{Megacodetraining}
+
+\addtocounter{chapter}{0}
 \part{ILS: NFS-Aufbaumodul}
+\addtocounter{chapter}{0}
 \part{ALS: Arzneimittel}
+\addtocounter{chapter}{0}
 \part{ALS: Minimalinvasive Tätigkeiten und Behandlung}
 
 \begin{appendix}

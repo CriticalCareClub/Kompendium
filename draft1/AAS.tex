@@ -5,8 +5,18 @@
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
 
-\usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts} %Symbole
+\usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts,skull}
+
+% resolv symbol clashes 
+\usepackage{savesym}
+\savesymbol{checkmark}
+\usepackage{dingbat}
+\restoresymbol{DINGBAT}{checkmark}
+
+%Symbole
 \usepackage{makeidx,minitoc}
+\usepackage{showidx} % shows index entries on page margin
+\usepackage{showkeys}
 
 \usepackage{units}
 
@@ -31,11 +41,12 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
-\usepackage{color}
+\usepackage[dvipsnames,hyperref,table]{xcolor}
 \definecolor{pink}{rgb}{1,0.5,0.5}
 \definecolor{LightSkyBlue}{rgb}{0.5,0.5,1}
 \definecolor{MidnightBlue}{rgb}{0,0,0.5}
 \definecolor{darkBlue}{rgb}{0,0,0.4}
+\definecolor{paleBlue}{rgb}{0.8,0.8,1}
 \definecolor{darkGreen}{rgb}{0,0.4,0}
 \definecolor{Terminus}{rgb}{0,0.5,0}
 \definecolor{Definition}{rgb}{1,0.5,0.5}
@@ -105,6 +116,7 @@ footskip=10mm,
 \addtokomafont{paragraph}{\large\sffamily\color{darkBlue}}
 \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
+
 
 \setcounter{secnumdepth}{3}
 
@@ -216,6 +228,9 @@ footskip=10mm,
 \newcommand{\gTempPicMissing}[1]{\captionof{figure}{\gAuthNotes{Bild
 fehlt: {\bfseries #1}}}}
 
+\newcommand{\gTempPicInWork}[1]{\captionof{figure}{\gAuthNotes{\color{ubuntuorange}Bild
+in Arbeit: {\bfseries #1}}}}
+
 \newcommand{\gStatus}[1]{\textcolor{red}{\ttfamily{[#1]}}}
 
 % Terminus
@@ -291,13 +306,10 @@ Bild:} #1}}
 \newcommand{\gMassnahmen}[1]{{\centering \cornersize{0.5}
 \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily{#1}}}}}}
 
-\newenvironment{gMassnahmenEnv}{\noindent\begin{center}\begin{boxedminipage}[H]{\linewidth}}{\end{boxedminipage}\end{center}}
-\usepackage{listings}
-%\newenvironment{gMassnahmenEnv}{\noindent\begin{lstlisting}}{\end{lstlisting}}
+\newenvironment{gMassnahmenEnv}{\noindent\begin{center}\begin{boxedminipage}[H]{\linewidth}\color{darkBlue}}{\end{boxedminipage}\end{center}}
 
-
-
-
+% \newenvironment{gMassnahmenEnv}
+% {\noindent\begin{quote}\fcolorbox{paleBlue}{paleBlue}\begin{minipage}[t]{\linewidth}\color{darkBlue}}{\end{minipage}\end{quote}}
 
 
 \newenvironment{gMarriedEnv}
@@ -325,6 +337,18 @@ Bild:} #1}}
 \end{tabularx}  
 %\end{widepar}
                      
+}%gDias
+
+
+\newenvironment{gDiasEnv3}
+{
+\noindent
+\begin{tabularx}{\linewidth}[h]{XXX}
+\toprule
+\multicolumn{3}{c}{\bfseries\sffamily Dias}\\\midrule
+}
+{\\\bottomrule
+\end{tabularx}
 }
 
 %%% AAS-specific
@@ -375,7 +399,7 @@ vital bedrohten Patienten. Besonderheiten:}
 \bibliographystyle{plain}
 
 \makeindex
- 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Page
 
 % set by geometry package
@@ -442,6 +466,10 @@ sit-uat-ions-ge-rechte
 %\setcounter{tocdepth}{10}
 %\renewcommand\contentsname{Inhalt - Detail\"ubersicht}
 %\tableofcontents
+
+\listoffigures
+\bibliography{Literatur-AAS}
+
 \section*{Autoren und Mitwirkende}
 
 \emph{(in alphabetischer Reihenfolge)}
@@ -555,18 +583,8 @@ sit-uat-ions-ge-rechte
 
 \include{include-angewsanhilfe-chapter}
 
-\chapter{Anatomie und Physiologie}
-\minitoc
-\section{Das Herz}
 
-\section{Die Atmung}
-
-Blah!
-
-
-
-
-
+\include{include-anatomie-chapter}
 
 
 \include{include-vitalfunktionen-chapter}

@@ -15,7 +15,7 @@
 
 %Symbole
 \usepackage{makeidx,minitoc}
-\usepackage{showidx} % shows index entries on page margin
+%\usepackage{showidx} % shows index entries on page margin
 \usepackage{showkeys}
 
 \usepackage{units}
@@ -41,7 +41,7 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
-\usepackage[dvipsnames,hyperref,table]{xcolor}
+\usepackage[dvipsnames,hyperref]{xcolor}
 \definecolor{pink}{rgb}{1,0.5,0.5}
 \definecolor{LightSkyBlue}{rgb}{0.5,0.5,1}
 \definecolor{MidnightBlue}{rgb}{0,0,0.5}
@@ -135,14 +135,16 @@ footskip=10mm,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Header
 \usepackage{fancyhdr}
 
-\pagestyle{fancy}
+\pagestyle{fancy} 
 \fancyheadoffset[RO,LE]{\marginparsep+\marginparwidth}
 \fancyfootoffset[RO,LE]{\marginparsep+\marginparwidth}
 \fancyhead[LE,RO]{\thepage} 
 %\fancyhead[LO]{}
 \fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
-\fancyhead[RE]{\gEs{\gAuthNotes{ --- ENTWURF --- }}}
-\fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF --- }}}
+\fancyhead[RE]{\gEs{\gAuthNotes{ --- \today -- ENTWURF
+--- }}}
+\fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---
+}}}
 \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
 \fancyfoot[CE,CO]{\gEs{\gAuthNotes{ --- ENTWURF --- }}}
 \fancyfoot[LE]{} 
@@ -498,12 +500,14 @@ sit-uat-ions-ge-rechte
     Spitalgasse 23, A-1090 Wien
     
     \item[Lena Hirtler]
+
     Medizinische Universität Wien -- Zentrum f\"ur Anatomie und
     Zellbiologie, Abt. f\"ur systematische Anatomie
     
     Währingerstra{\ss}e 13, A-1090 Wien
     
     \item[Thomas Hochreiter]
+    DGKP
     
     Ausbildungszentrum des ASB Floridsdorf-Donaustadt
     

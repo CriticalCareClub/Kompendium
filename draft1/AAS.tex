@@ -1,6 +1,11 @@
 % This file was converted to LaTeX by Writer2LaTeX ver. 0.5
 % see http://www.hj-gym.dk/~hj/writer2latex for more info
 \documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=no]{scrbook}
+% \setlength{\voffset}{-15pt}
+% \setlength{\textheight}{720pt}
+% \setlength{\marginparwidth}{5cm}
+
+
 \usepackage[latin1]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
@@ -70,7 +75,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Tables
 
 \usepackage{boxedminipage}
-\usepackage{layout,geometry,calc}
+\usepackage{geometry}
+\usepackage{layout,calc}
+\usepackage[strict]{changepage}
+%\usepackage{gmeometric}
+
 
 \geometry{verbose,
 a4paper,
@@ -78,11 +87,11 @@ a4paper,
 %bmargin=1cm,
 %lmargin=1cm,
 %rmargin=1cm,
-outer=58mm,
-inner=20mm,
+outer=56mm,
+inner=30mm,
 top=30mm,
 bottom=20mm,
-marginparwidth=42mm,
+marginparwidth=40mm,
 %headheight=0.5cm,
 %headsep=0.5cm,
 footskip=10mm,
@@ -110,12 +119,19 @@ footskip=10mm,
 \addtokomafont{part}{\Huge\color{darkBlue}}
 \addtokomafont{partnumber}{\Huge\color{ubuntured}}
 \addtokomafont{chapter}{\Huge\rmfamily\bfseries\color{ubuntured}}
-\addtokomafont{section}{\Huge\rmfamily\fontfamily{cmdh}\color{ubuntured}}
-\addtokomafont{subsection}{\huge\rmfamily\fontfamily{cmdh}\color{ubuntured}}
+\addtokomafont{section}{\Huge\rmfamily\fontfamily{lmdh}\color{ubuntured}}
+\addtokomafont{subsection}{\huge\rmfamily\fontfamily{lmdh}\color{ubuntured}}
 \addtokomafont{subsubsection}{\LARGE\rmfamily\color{darkBlue}}
 \addtokomafont{paragraph}{\large\sffamily\color{darkBlue}}
 \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
+
+%schusterjungen
+% Disable single lines at the start of a paragraph (Schusterjungen)
+\clubpenalty = 10000
+%
+% Disable single lines at the end of a paragraph (Hurenkinder)
+\widowpenalty = 10000 \displaywidowpenalty = 10000
 
 
 \setcounter{secnumdepth}{3}
@@ -198,20 +214,21 @@ footskip=10mm,
 \newcommand{\strongemph}[1]{\emph{\textbf{#1}}}
 \newcommand{\Terminus}[1]{\textcolor{Terminus}{#1}}
 
-                                                           
-%\usepackage{lmodern}                                                          
+                
+%\usepackage{augie}                                                           
+\usepackage{lmodern}                                                          
                                                                % % % set fonts
 %\renewcommand{\rmdefault}{ugm} % URW Garamond
-\renewcommand{\rmdefault}{cmr} % Computer Modern Roman 
+\renewcommand{\rmdefault}{lmr} % Computer Modern Roman 
 %\renewcommand{\sfdefault}{uop} % URW Utopia
 % \renewcommand{\sfdefault}{pag} % Adobe Avantgarde
 \usepackage[scaled]{helvet}
 
 %\renewcommand{\sfdefault}{phv} % Adobe Helvetica
-\renewcommand{\sfdefault}{cmss} % Computer Modern Syns Serif
+\renewcommand{\sfdefault}{lmss} % Computer Modern Syns Serif
 
 %\renewcommand{\ttdefault}{pcr}
-\renewcommand{\ttdefault}{cmtt} % Computer Modern Typewriter 
+\renewcommand{\ttdefault}{lmtt} % Computer Modern Typewriter 
 
 
 % Define Grissu.org \latex commands
@@ -221,13 +238,17 @@ footskip=10mm,
 % Abbildungsbeschreibung mit hängendem Einzug
 \setcapindent*{0em}
 
-\newcommand\gAuthNotes[1]{{\color{red}{\ttfamily{#1}}}}
+\newcommand\gAuthNotes[1]{{\color{Mulberry}{\ttfamily{#1}}}}
+%\newcommand\gAuthNotes[1]{}
+
+\newcommand{\gChangelog}[1]{\gAuthNotes{#1}}
+
 \newcommand{\gAuthNotesPicLegalNotOk}[2]{\gAuthNotes{Bild:
 \underline{#1}: Quelle zweifelhaft! #2}}
 \newcommand{\gAuthNotesPicLegalOk}[2]{\gAuthNotes{{\color{darkGreen}Bild:
 \underline{#1}: Quelle OK! #2}}}
 
-\newcommand{\gTempPicMissing}[1]{\captionof{figure}{\gAuthNotes{Bild
+\newcommand{\gTempPicMissing}[1]{\captionof{figure}{\color{Red}\gAuthNotes{Bild
 fehlt: {\bfseries #1}}}}
 
 \newcommand{\gTempPicInWork}[1]{\captionof{figure}{\gAuthNotes{\color{ubuntuorange}Bild
@@ -246,7 +267,7 @@ in Arbeit: {\bfseries #1}}}}
 % Citation
 \newcommand\gC[1]{\textit{#1}}
 % Handwriting
-\newcommand\gH[1]{\textmd{\textcolor[rgb]{0.0,0.0,0.5019608}{#1}}}
+\newcommand\gH[1]{\textmd{\ECFAugie\textcolor[rgb]{0.0,0.0,0.5019608}{#1}}}
 % Teletype
 \newcommand\gTt[1]{{\ttfamily{#1}}}
 % Cave
@@ -318,9 +339,9 @@ Bild:} #1}}
 {\protect{\begin{tabularx}{\linewidth}{XX}}}
 {\protect{\end{tabularx}}}
 
-\newenvironment{widepar}%
+\newenvironment{gWideParEnv}%
  % {\setlength{\leftskip}{-\marginparsep}\addtolength{\leftskip}{-\marginparwidth}}{\par}
-{\setlength{\evensidemargin}{3cm}}{\par}
+{\begin{adjustwidth*}{}{-\marginparwidth-\marginparsep}}{\end{adjustwidth*}}
 
 \newenvironment{custommargins}[2]%
   {\addtolength{\leftskip}{#1}\addtolength{\leftskip}{#2}}{\par}
@@ -378,25 +399,25 @@ vital bedrohten Patienten. Besonderheiten:}
 
 %\dominitoc
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   New Commands
-%\usepackage{marginnote}
+\usepackage{marginnote}
 \newcommand{\marginlabel}[1]{\mbox{}\marginpar{\raggedright\hspace{0pt}\sffamily\normalsize{#1}}}
 \newcommand{\gMargin}[1]{\mbox{}\marginpar{\raggedright\hspace{0pt}\normalsize{#1}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
 
-\title{Arbeits- und Ausbildungsstandards f\"ur den Sanitätsdienst}
-\subject{und eine Einf\"uhrung in die Welt der Medizin und Sanitätshilfe}
-\titlehead{Version f\"ur \"Osterreich, Stand Februar 2009 \par 
-\LaTeX -Version, die Teile aus der OpenOffice-Version werden en detail \"ubernommen}
-
-\lowertitleback{\centering\begin{minipage}{5cm}
-\begin{center}
-{\Huge Grissu.org}\par\vspace{1em}
-\textit{serving the community} \par \textit{since 1999} 
-\end{center}
-\end{minipage}}
-
-\author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
+% \title{Arbeits- und Ausbildungsstandards f\"ur den Sanitätsdienst}
+% \subject{und eine Einf\"uhrung in die Welt der Medizin und Sanitätshilfe}
+% \titlehead{Version f\"ur \"Osterreich, Stand Februar 2009 \par 
+% \LaTeX -Version, die Teile aus der OpenOffice-Version werden en detail \"ubernommen}
+% 
+% \lowertitleback{\centering\begin{minipage}{5cm}
+% \begin{center}
+% {\Huge Grissu.org}\par\vspace{1em}
+% \textit{serving the community} \par \textit{since 1999} 
+% \end{center}
+% \end{minipage}}
+% 
+% \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
 
 \bibliographystyle{plain}
 
@@ -438,13 +459,44 @@ sit-uat-ions-ge-rechte
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 % #######################################################################################################
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
-
-
+\begin{titlepage}
+\extratitle{Version f\"ur \"Osterreich, Stand Februar 2009 \par 
+\LaTeX -Version, die Teile aus der OpenOffice-Version werden en detail \"ubernommen}
+\author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
+\title{Arbeits- und Ausbildungsstandards f\"ur den Sanitätsdienst}
+\subject{und eine Einf\"uhrung in die Welt der Medizin und Sanitätshilfe}
+\lowertitleback{\centering\begin{minipage}{5cm}
+\begin{center}
+{\Huge Grissu.org}\par\vspace{1em}
+\textit{serving the community} \par \textit{since 1999} 
+\end{center}
+\end{minipage}}
 \maketitle
+\end{titlepage}
+
 
 \layout
 
@@ -565,7 +617,7 @@ sit-uat-ions-ge-rechte
 \end{description}
 
 
-\printindex
+
 
 \part{Allgemeiner Teil}
 

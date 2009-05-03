@@ -1,12 +1,12 @@
 % This file was converted to LaTeX by Writer2LaTeX ver. 0.5
 % see http://www.hj-gym.dk/~hj/writer2latex for more info
-\documentclass[ngerman,a4paper,fontsize=8pt,BCOR=1.5cm,headings=big,draft=no]{scrbook}
+\documentclass[ngerman,a4paper,fontsize=8pt,oneside,BCOR=1.5cm,headings=big,draft=no]{scrbook}
 % \setlength{\voffset}{-15pt}
 % \setlength{\textheight}{720pt}
 % \setlength{\marginparwidth}{5cm}
 
 
-\usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
 
@@ -168,9 +168,9 @@ footskip=10mm,
 
 % % leading zeros
 % \usepackage{numprint}
-% % %%%%%%%%%%% Anzahl einzuf¸gender f¸hrender Nullen %%%%%%%
+% % %%%%%%%%%%% Anzahl einzuf√ºgender f√ºhrender Nullen %%%%%%%
 % \nplpadding[0]{2}
-% % %%%%%%%%%%%%% Zeilenz‰hler umdefinieren %%%%%%%%%%%%%%%%%
+% % %%%%%%%%%%%%% Zeilenz√§hler umdefinieren %%%%%%%%%%%%%%%%%
 % \renewcommand{\thepage}{{\color{red}\thechapter}\cntprint{page}}
 
 \usepackage[noauto]{chappg}
@@ -235,7 +235,7 @@ footskip=10mm,
 % Character styles names are single letters, 
 % Paragraph styles are words
 
-% Abbildungsbeschreibung mit h‰ngendem Einzug
+% Abbildungsbeschreibung mit h√§ngendem Einzug
 \setcapindent*{0em}
 
 \newcommand\gAuthNotes[1]{{\color{Mulberry}{\ttfamily{#1}}}}
@@ -382,7 +382,7 @@ Bild:} #1}}
 % Set spacing between imtems
 \usepackage{tweaklist}
 \renewcommand{\itemhook}{\setlength{\topsep}{0pt}%
-  \setlength{\itemsep}{0pt}}
+  \setlength{\itemsep}{-3pt}}
 \renewcommand{\labelitemi}{\textcolor[rgb]{0.8,0.8,1}{\Squaresteel}}
 \renewcommand{\labelitemii}{$\hookrightarrow$}
 \renewcommand{\labelitemiii}{$\hookrightarrow$}
@@ -394,7 +394,7 @@ Bild:} #1}}
 
 \newcommand{\gTxBeiVit}{Bei vitaler Bedrohung: }
  
-\newcommand{\gTxMassVitBes}{Standardmaﬂnahmen bei
+\newcommand{\gTxMassVitBes}{Standardma√ünahmen bei
 vital bedrohten Patienten. Besonderheiten:}
 
 %\dominitoc
@@ -405,8 +405,8 @@ vital bedrohten Patienten. Besonderheiten:}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
 
-% \title{Arbeits- und Ausbildungsstandards f\"ur den Sanit‰tsdienst}
-% \subject{und eine Einf\"uhrung in die Welt der Medizin und Sanit‰tshilfe}
+% \title{Arbeits- und Ausbildungsstandards f\"ur den Sanit√§tsdienst}
+% \subject{und eine Einf\"uhrung in die Welt der Medizin und Sanit√§tshilfe}
 % \titlehead{Version f\"ur \"Osterreich, Stand Februar 2009 \par 
 % \LaTeX -Version, die Teile aus der OpenOffice-Version werden en detail \"ubernommen}
 % 
@@ -419,7 +419,7 @@ vital bedrohten Patienten. Besonderheiten:}
 % 
 % \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
 
-\bibliographystyle{plain}
+\bibliographystyle{unsrtdin2}
 
 \makeindex
 
@@ -439,7 +439,7 @@ er-kennen
 Florids-dorf
 gleich-zeit-ig
 im-mun-sup-res-sion
-Koron-ar-ge-f‰ﬂe
+Koron-ar-ge-f√§√üe
 Kranken-an-stalt
 Kranken-haus
 Kranken-trans-port
@@ -448,15 +448,19 @@ neuro-lo-gisch
 neuro-lo-gische
 neuro-lo-gisch-en
 Not-arzt
-Not-‰rzt-in
+Not-√§rzt-in
 pneu-mo-kok-ken
 Rettungs-dienst
-Sani-t‰-ter
+Sani-t√§-ter
 schmerz-los-en
 sit-uat-ions-ge-recht
 sit-uat-ions-ge-rechte
 }
 
+
+%\usepackage{excludeonly}
+%\excludeonly{include-anatomie-chapter}
+\includeonly{include-mednotfaelle-chapter}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
 
 
@@ -483,18 +487,18 @@ sit-uat-ions-ge-rechte
 % #######################################################################################################
 \begin{document}
 \begin{titlepage}
-\titlehead{Version 0.0.1-2009042900 \par
-Ausgabe f¸r das Ausbildungszentrum des ASB
+\titlehead{Version 0.0.1-2009-05-03-00 Variante: einseitig
+\par Ausgabe f√ºr das Ausbildungszentrum des ASB
 Floridsdorf-Donaustadt \par \LaTeX
--Dokument. Der Teil \emph{"`Groﬂschaden und
-Gefahrgutunf‰lle"'} verbleibt noch im OpenOffice-Dokument
-und wird erst in Version 0.3.x ¸bernommen. \par
-Diese Zweig soll als Version 0.2.0 im RS-Krus 2009/07
+-Dokument. Der Teil \emph{"`Gro√üschaden und
+Gefahrgutunf√§lle"'} verbleibt noch im OpenOffice-Dokument
+und wird erst in Version 0.3.x √ºbernommen. \par
+Diese Zweig soll als Version 0.2.0 im RS-Kurs 2009/07
 (ET VII/2009) eingesetzt werden.}
 \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
-\title{Arbeits- und Ausbildungsstandards f\"ur den Sanit‰tsdienst}
+\title{Arbeits- und Ausbildungsstandards f\"ur den Sanit√§tsdienst}
 \subtitle{und eine Einf\"uhrung in die Welt der Medizin und
-Sanit‰tshilfe}
+Sanit√§tshilfe}
 \lowertitleback{\begin{gWideParEnv}\centering\begin{minipage}{8cm}
 \begin{center} 
 Dieses Projekt enstand in Zusammenarbeit mit dem
@@ -502,7 +506,7 @@ Dieses Projekt enstand in Zusammenarbeit mit dem
 \emph{\bfseries Ausbildungszentrum des ASB
 Floridsdorf-Donaustadt} 
 
-und wurde maﬂgeblich von der
+und wurde ma√ügeblich von der
 
 \emph{\bfseries Cyberservice
 Internetdienstleistungsgesellschaft~m.b.H.}
@@ -511,7 +515,7 @@ und
 
 \emph{\bfseries Grissu.org} 
 
-unterst¸tzt.\vspace{2em}
+unterst√ºtzt.\vspace{2em}
 
 \includegraphics[width=5cm]{./images/logos/cyberservice.png}
 
@@ -524,17 +528,19 @@ unterst¸tzt.\vspace{2em}
 \end{titlepage}
 \maketitle
 
-\layout
+\nocite{*} 
+
+%\layout
 
 % \paragraph*{Mission Statement} \textperiodcentered Das Ausbildungszentrum (ABZ) ist
 % eine Dienst\-leistungs\-ein\-richtung des ASB Floridsdorf-Donau\-stadt
 % und orientiert sein Angebot an den Be\-d\"urf\-nissen unserer Partner
 % und an den strategischen Zielen des \gT{ASB}. Wir sind sowohl f\"ur die 
-% medizinische und sanit‰tsdienstliche Ausbildung unserer Mitarbeiter
-% als auch f\"ur die Durchf\"uhrung von Schulungen und Lehrg‰ngen zur
+% medizinische und sanit√§tsdienstliche Ausbildung unserer Mitarbeiter
+% als auch f\"ur die Durchf\"uhrung von Schulungen und Lehrg√§ngen zur
 % Schulung der Bev\"olkerung verantwortlich. In Zusammenarbeit mit der
 % \"Arztlichen Leitung und den \"ubergeordneten Gremien  entwickeln wir
-% Arbeitsstandards und Lehrmeinungen. ¸ 
+% Arbeitsstandards und Lehrmeinungen. √º 
 
 % 2 Spalten, macht erst Sinn wenn Seite ohne Rand ist.
 %\begin{multicols}{2}
@@ -572,17 +578,17 @@ unterst¸tzt.\vspace{2em}
     
     \item[Sebastian Gabriel]
     
-    Medizinische Universit‰t Wien -- Besondere Einrichtung zur
+    Medizinische Universit√§t Wien -- Besondere Einrichtung zur
     Medizinischen Aus- und Weiterbildung
     
     Spitalgasse 23, A-1090 Wien
     
     \item[Lena Hirtler]
 
-    Medizinische Universit‰t Wien -- Zentrum f\"ur Anatomie und
+    Medizinische Universit√§t Wien -- Zentrum f\"ur Anatomie und
     Zellbiologie, Abt. f\"ur systematische Anatomie
     
-    W‰hringerstra{\ss}e 13, A-1090 Wien
+    W√§hringerstra{\ss}e 13, A-1090 Wien
     
     \item[Thomas Hochreiter]
     DGKP
@@ -616,7 +622,7 @@ unterst¸tzt.\vspace{2em}
     Wallenberggasse 2, A-1220 Wien
     
     Sozialmedizinisches Zentrum Ost der Stadt Wien -- Donauspital
-    Abteilung f\"ur An‰sthesiologie und Intensivmedizin
+    Abteilung f\"ur An√§sthesiologie und Intensivmedizin
     Langobardenstra{\ss}e 122, A-1220 Wien
     
     \item[Michael Witthofner]
@@ -647,27 +653,25 @@ unterst¸tzt.\vspace{2em}
 
 \part{Allgemeiner Teil}
 
-\chapter{T‰tigkeitsbild und Orientierung}
+\include{include-taetigkeitsbild-chapter}
 
-\chapter{Betriebsinterne Regelungen}
+\include{include-betriebsintern-chapter}
 
-\chapter{Regionale Besonderheiten}
+\include{include-regional-chapter}
+
 \addtocounter{chapter}{2}
-\part{Basiswissen \\ \emph{Modul Rettungssanit‰ter}}
+
+\part{Basiswissen \\ \emph{Modul Rettungssanit√§ter}}
 
 \include{include-recht-chapter}
 
-
-\chapter{Erste Hilfe und erweiterte Erste Hilfe ---
-\gAasRsN{RS~I}}
+\include{include-erstehilfe-chapter}
 
 \include{include-geraetelehre-chapter}
 
 \include{include-angewsanhilfe-chapter}
 
-
 \include{include-anatomie-chapter}
-
 
 \include{include-vitalfunktionen-chapter}
 
@@ -677,30 +681,8 @@ unterst¸tzt.\vspace{2em}
 
 \include{include-hygiene-chapter}
 
+\include{include-reserve-ende}
 
-
-\chapter{Katastrophen, Gro{\ss}schadensereignisse,
-Gefahrengutunfall --- \gAasRsN{RS~XI}}
-
-\chapter{Fallbeispiele und Arbeitsaufgaben}
-
-\addtocounter{chapter}{0}
-\part{ILS: Notfallrettung Grundlagen}
-{\mdseries
-Entspricht SAN 3-2-1-Einschulung}
-
-\chapter{Anamnese und Untersuchung}
-
-\chapter{MPG}
-
-\chapter{Megacodetraining}
-
-\addtocounter{chapter}{0}
-\part{ILS: NFS-Aufbaumodul}
-\addtocounter{chapter}{0}
-\part{ALS: Arzneimittel}
-\addtocounter{chapter}{0}
-\part{ALS: Minimalinvasive T‰tigkeiten und Behandlung}
 
 \include{include-appendix}
 

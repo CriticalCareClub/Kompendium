@@ -1,6 +1,6 @@
 % This file was converted to LaTeX by Writer2LaTeX ver. 0.5
 % see http://www.hj-gym.dk/~hj/writer2latex for more info
-\documentclass[ngerman,a4paper,fontsize=8pt,oneside,BCOR=1.5cm,headings=big,draft=no]{scrbook}
+\documentclass[ngerman,a4paper,fontsize=9pt,oneside,BCOR=1.5cm,headings=big,draft=no]{scrbook}
 % \setlength{\voffset}{-15pt}
 % \setlength{\textheight}{720pt}
 % \setlength{\marginparwidth}{5cm}
@@ -9,9 +9,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
-
 \usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts,skull}
-
 % resolv symbol clashes 
 \usepackage{savesym}
 \savesymbol{checkmark}
@@ -88,8 +86,8 @@ a4paper,
 %lmargin=1cm,
 %rmargin=1cm,
 outer=56mm,
-inner=30mm,
-top=30mm,
+inner=25mm,
+top=25mm,
 bottom=20mm,
 marginparwidth=40mm,
 %headheight=0.5cm,
@@ -111,20 +109,39 @@ footskip=10mm,
 % \ChNameVar{\Large\sf} \ChNumVar{\Huge} \ChTitleVar{\Large\sf}
 % \ChRuleWidth{0.5pt} \ChNameUpperCase
 
+
+%\usepackage{augie} 
+%\usepackage{emerald}                                                          
+\usepackage{lmodern}                                                          
+                                                               % % % set fonts
+%\renewcommand{\rmdefault}{ugm} % URW Garamond
+\renewcommand{\rmdefault}{lmr} % Computer Modern Roman 
+%\renewcommand{\sfdefault}{uop} % URW Utopia
+% \renewcommand{\sfdefault}{pag} % Adobe Avantgarde
+\usepackage[scaled]{helvet}
+
+%\renewcommand{\sfdefault}{phv} % Adobe Helvetica
+\renewcommand{\sfdefault}{lmss} % Computer Modern Syns Serif
+
+%\renewcommand{\ttdefault}{pcr}
+\renewcommand{\ttdefault}{lmtt} % Computer Modern Typewriter 
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Headings
 
-\setkomafont{disposition}{\mdseries\sffamily}
+% %\setkomafont{disposition}{\mdseries\sffamily\fontfamily{augie}\selectfont}
 \setkomafont{captionlabel}{\mdseries\rmfamily\bfseries}
-\setkomafont{caption}{\mdseries\rmfamily}
-\addtokomafont{part}{\Huge\color{darkBlue}}
-\addtokomafont{partnumber}{\Huge\color{ubuntured}}
-\addtokomafont{chapter}{\Huge\rmfamily\bfseries\color{ubuntured}}
-\addtokomafont{section}{\Huge\rmfamily\fontfamily{lmdh}\color{ubuntured}}
-\addtokomafont{subsection}{\huge\rmfamily\fontfamily{lmdh}\color{ubuntured}}
-\addtokomafont{subsubsection}{\LARGE\rmfamily\color{darkBlue}}
-\addtokomafont{paragraph}{\large\sffamily\color{darkBlue}}
-\addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
-\addtokomafont{minisec}{\normalsize\sffamily\color{black}}
+% \setkomafont{caption}{\mdseries\rmfamily}
+% \addtokomafont{part}{\Huge\color{darkBlue}}
+% \addtokomafont{partnumber}{\Huge\color{ubuntured}}
+% %\addtokomafont{chapter}{\Huge\sffamily\fontfamily{phv}\bfseries\color{ubuntured}}
+% \addtokomafont{section}{\Huge\rmfamily\fontfamily{lmdh}\selectfont\color{ubuntured}}
+% \addtokomafont{subsection}{\huge\rmfamily\fontfamily{lmdh}\selectfont\color{ubuntured}}
+% \addtokomafont{subsubsection}{\LARGE\rmfamily\fontfamily{lmdh}\selectfont\color{darkBlue}}
+% \addtokomafont{paragraph}{\large\sffamily\color{darkBlue}}
+% \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
+% \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
 
 %schusterjungen
 % Disable single lines at the start of a paragraph (Schusterjungen)
@@ -143,10 +160,17 @@ footskip=10mm,
 \renewcommand{\thechapter}{\Alph{chapter}}
 \renewcommand{\thesubsubsection}{\thesubsection .\alph{subsubsection}}
 
-\renewcommand{\sectfont}{\fontfamily{cmdh}}
+
+% No bottom titles !!!
+\usepackage[nobottomtitles]{titlesec}
+%\renewcommand{\bottomtitlespace}{.2\textheight}
+
 \usepackage[grey,helvetica]{quotchap}
+%\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
+%\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
 \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
-\addtokomafont{chapter}{\Huge\rmfamily\fontfamily{cmdh}\bfseries\color{ubuntured}}
+\addtokomafont{chapter}{\Huge\color{ubuntured}\fontfamily{augie}\selectfont}
+%\addtokomafont{chapter}{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Header
 \usepackage{fancyhdr}
@@ -215,21 +239,6 @@ footskip=10mm,
 \newcommand{\Terminus}[1]{\textcolor{Terminus}{#1}}
 
                 
-%\usepackage{augie}                                                           
-\usepackage{lmodern}                                                          
-                                                               % % % set fonts
-%\renewcommand{\rmdefault}{ugm} % URW Garamond
-\renewcommand{\rmdefault}{lmr} % Computer Modern Roman 
-%\renewcommand{\sfdefault}{uop} % URW Utopia
-% \renewcommand{\sfdefault}{pag} % Adobe Avantgarde
-\usepackage[scaled]{helvet}
-
-%\renewcommand{\sfdefault}{phv} % Adobe Helvetica
-\renewcommand{\sfdefault}{lmss} % Computer Modern Syns Serif
-
-%\renewcommand{\ttdefault}{pcr}
-\renewcommand{\ttdefault}{lmtt} % Computer Modern Typewriter 
-
 
 % Define Grissu.org \latex commands
 % Character styles names are single letters, 
@@ -240,6 +249,11 @@ footskip=10mm,
 
 \newcommand\gAuthNotes[1]{{\color{Mulberry}{\ttfamily{#1}}}}
 %\newcommand\gAuthNotes[1]{}
+
+% track changes
+% WHO WHEN WHAT
+\newcommand{\gACh}[3]{\underline{\gAuthNotes{#1}} \gAuthNotes{}: \gAuthNotes{#3 }}
+%\newcommand{\gACh}[3]{}
 
 \newcommand{\gChangelog}[1]{\gAuthNotes{#1}}
 
@@ -267,7 +281,7 @@ in Arbeit: {\bfseries #1}}}}
 % Citation
 \newcommand\gC[1]{\textit{#1}}
 % Handwriting
-\newcommand\gH[1]{\textmd{\ECFAugie\textcolor[rgb]{0.0,0.0,0.5019608}{#1}}}
+\newcommand\gH[1]{\textmd{\fontfamily{augie}\selectfont{\color[rgb]{0.0,0.0,0.5019608}{#1}}}}
 % Teletype
 \newcommand\gTt[1]{{\ttfamily{#1}}}
 % Cave
@@ -420,7 +434,11 @@ vital bedrohten Patienten. Besonderheiten:}
 % \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
 
 % \bibliographystyle{unsrtdin2}
-\usepackage{bibunits}[unsrtdin2]
+\usepackage{bibunits}
+\bibliographyunit[\chapter]
+\defaultbibliography{Literatur-AAS}
+\defaultbibliographystyle{unsrtdin2}
+
 
 \makeindex
 
@@ -459,8 +477,8 @@ sit-uat-ions-ge-rechte
 }
 
 
-%\usepackage{excludeonly}
-%\excludeonly{include-anatomie-chapter}
+\usepackage{excludeonly}
+\excludeonly{include-anatomie-chapter}
 %\includeonly{include-mednotfaelle-chapter}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
 
@@ -488,7 +506,7 @@ sit-uat-ions-ge-rechte
 % #######################################################################################################
 \begin{document}
 \begin{titlepage}
-\titlehead{Version 0.0.1-2009-05-06-00 Variante: ---
+\titlehead{Version 0.0.1-2009-05-06-00 Variante: \gH{oneside}
 \par Ausgabe für das Ausbildungszentrum des ASB
 Floridsdorf-Donaustadt \par \LaTeX
 -Dokument. Der Teil \emph{"`Großschaden und
@@ -555,7 +573,7 @@ unterstützt.\vspace{2em}
 %\tableofcontents
 
 \listoffigures
-\bibliography{Literatur-AAS}
+%\bibliography{Literatur-AAS}
 
 \section*{Autoren und Mitwirkende}
 

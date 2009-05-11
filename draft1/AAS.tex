@@ -4,7 +4,7 @@
 % \setlength{\voffset}{-15pt}
 % \setlength{\textheight}{720pt}
 % \setlength{\marginparwidth}{5cm}
-
+ 
 
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -252,7 +252,8 @@ footskip=10mm,
 
 % track changes
 % WHO WHEN WHAT
-\newcommand{\gACh}[3]{\underline{\gAuthNotes{#1}} \gAuthNotes{}: \gAuthNotes{#3 }}
+\newcommand{\gACh}[3]{\gAuthNotes{\footnote{\underline{\gAuthNotes{#1}}
+\gAuthNotes{#2}: \gAuthNotes{#3 }}}}
 %\newcommand{\gACh}[3]{}
 
 \newcommand{\gChangelog}[1]{\gAuthNotes{#1}}
@@ -353,6 +354,8 @@ Bild:} #1}}
 {\protect{\begin{tabularx}{\linewidth}{XX}}}
 {\protect{\end{tabularx}}}
 
+
+
 \newenvironment{gWideParEnv}%
  % {\setlength{\leftskip}{-\marginparsep}\addtolength{\leftskip}{-\marginparwidth}}{\par}
 {\begin{adjustwidth*}{}{-\marginparwidth-\marginparsep}}{\end{adjustwidth*}}
@@ -361,9 +364,42 @@ Bild:} #1}}
   {\addtolength{\leftskip}{#1}\addtolength{\leftskip}{#2}}{\par}
  
 
+
+
+
+
+%%% Married text multiple variants
+
+% \newcommand{\gMarried}[2]
+% {\noindent\begin{tabularx}{\linewidth}{XX}\addlinespace
+% #1 & #2\\\addlinespace\end{tabularx}}
+
+% use parallel columns
+% \usepackage{parallel} 
+% 
+% \newcommand{\gMarried}[2]
+% {\begin{Parallel}{6cm}{6cm}
+% \ParallelLText{\begin{minipage}{0.49\linewidth}#1\end{minipage}}
+% 
+% \ParallelRText{
+% \begin{minipage}{0.49\linewidth}#2\end{minipage}} 
+% \end{Parallel}}
+
+
+
+
 \newcommand{\gMarried}[2]
-{\noindent\begin{tabularx}{\linewidth}{XX}\addlinespace
-#1 & #2\\\addlinespace\end{tabularx}}
+{
+\begin{minipage}[t]{0.48\linewidth}#1\end{minipage}\hspace{0.04\linewidth}
+\begin{minipage}[t]{0.48\linewidth}#2\end{minipage}
+}
+
+
+
+
+
+
+
 
 \newcommand{\gDias}[3]{\noindent
 %\begin{widepar}
@@ -437,7 +473,8 @@ vital bedrohten Patienten. Besonderheiten:}
 \usepackage{bibunits}
 \bibliographyunit[\chapter]
 \defaultbibliography{Literatur-AAS}
-\defaultbibliographystyle{unsrtdin2}
+%\defaultbibliographystyle{unsrtdin2}
+\defaultbibliographystyle{plain}
 
 
 \makeindex

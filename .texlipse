@@ -1,5 +1,5 @@
 #TeXlipse project settings
-#Sat Apr 18 11:51:54 CEST 2009
+#Tue May 12 22:38:30 GMT 2009
 builderNum=2
 outputDir=draft1/
 makeIndSty=
@@ -10,4 +10,4 @@ mainTexFile=AAS.tex
 outputFile=AAS.pdf
 langSpell=de
 markDer=true
-srcDir=draft1/
+srcDir=trunk

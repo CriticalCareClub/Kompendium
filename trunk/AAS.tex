@@ -9,6 +9,12 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
+
+%\usepackage{excludeonly}
+%\excludeonly{include-anatomie-chapter}
+%\includeonly{include-mednotfaelle-chapter}
+
+
 \usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts,skull}
 % resolv symbol clashes 
 \usepackage{savesym}
@@ -391,7 +397,9 @@ Bild:} #1}}
 \newcommand{\gMarried}[2]
 {
 \begin{minipage}[t]{0.48\linewidth}#1\end{minipage}\hspace{0.04\linewidth}
-\begin{minipage}[t]{0.48\linewidth}#2\end{minipage}
+\begin{minipage}[t]{0.48\linewidth}{\tiny ~}
+
+#2\end{minipage}
 }
 
 
@@ -414,13 +422,11 @@ Bild:} #1}}
 
 
 \newenvironment{gDiasEnv3}
+{\noindent
+\begin{tabularx}{\linewidth}[h]{XXX}\toprule
+\multicolumn{3}{c}{\bfseries\sffamily Dias}\\\midrule}
 {
-\noindent
-\begin{tabularx}{\linewidth}[h]{XXX}
-\toprule
-\multicolumn{3}{c}{\bfseries\sffamily Dias}\\\midrule
-}
-{\\\bottomrule
+\\\bottomrule
 \end{tabularx}
 }
 
@@ -514,9 +520,7 @@ sit-uat-ions-ge-rechte
 }
 
 
-\usepackage{excludeonly}
-\excludeonly{include-anatomie-chapter}
-%\includeonly{include-mednotfaelle-chapter}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
 
 
@@ -543,9 +547,9 @@ sit-uat-ions-ge-rechte
 % #######################################################################################################
 \begin{document}
 \begin{titlepage}
-\titlehead{Version 0.0.1-2009-05-06-00 Variante: \gH{oneside}
-\par Ausgabe für das Ausbildungszentrum des ASB
-Floridsdorf-Donaustadt \par \LaTeX
+\titlehead{Version 0.0.1-2009-05-13-00 Variante:
+\gH{oneside, nach SVN-Umstellung} \par Ausgabe für das
+Ausbildungszentrum des ASB Floridsdorf-Donaustadt \par \LaTeX
 -Dokument. Der Teil \emph{"`Großschaden und
 Gefahrgutunfälle"'} verbleibt noch im OpenOffice-Dokument
 und wird erst in Version 0.3.x übernommen. \par

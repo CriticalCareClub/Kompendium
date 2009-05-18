@@ -1,10 +1,14 @@
 *.aux
+*.bbl
+*.blg
 *.out
 *.dvi
 *.idx
+*.ilg
 *.ind
 *.log
 *.lof
 *.mtc
 *.mtc*
-
+*.pdf
+*.toc

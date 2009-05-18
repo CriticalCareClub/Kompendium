@@ -1,6 +1,10 @@
 *.aux
 *.out
+*.dvi
 *.idx
 *.ind
+*.log
+*.lof
 *.mtc
-*.mtc??
+*.mtc*
+

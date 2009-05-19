@@ -1,88 +1,6 @@
 % This file was created with JabRef 2.4.2.
 % Encoding: UTF8
 
-@ARTICLE{Erc2005Sec5,
-  author = {Hans-Richard Arntz and Leo Bossaert and Gerasimos S Filippatos and
-	European Resuscitation Council},
-  title = {European Resuscitation Council guidelines for resuscitation 2005.
-	Section 5. Initial management of acute coronary syndromes.},
-  journal = {Resuscitation},
-  year = {2005},
-  volume = {67 Suppl 1},
-  pages = {S87--S96},
-  month = {Dec},
-  file = {:./Literatur/Erc2005Sec5.pdf:PDF},
-  keywords = {Analgesics, Opioid, therapeutic use; Angina, Unstable, diagnosis/therapy;
-	Biological Markers, blood; Cardiovascular Agents, therapeutic use;
-	Electrocardiography; Europe; Humans; Morphine, therapeutic use; Myocardial
-	Infarction, diagnosis/therapy; Myocardial Reperfusion; Oxygen Inhalation
-	Therapy; Shock, Cardiogenic, etiology/therapy},
-  owner = {grissu},
-  pmid = {16321718},
-  timestamp = {2009.05.19}
-}
-
-@ARTICLE{Erc2005Sec9,
-  author = {Peter J F Baskett and Jerry P Nolan and Anthony Handley and Jasmeet
-	Soar and Dominique Biarent and Sam Richmond and European Resuscitation
-	Council},
-  title = {European Resuscitation Council guidelines for resuscitation 2005.
-	Section 9. Principles of training in resuscitation.},
-  journal = {Resuscitation},
-  year = {2005},
-  volume = {67 Suppl 1},
-  pages = {S181--S189},
-  month = {Dec},
-  file = {:./Literatur/Erc2005Sec9.pdf:PDF},
-  keywords = {Cardiopulmonary Resuscitation, education; Curriculum; Defibrillators;
-	Educational Measurement; Europe; Humans},
-  owner = {grissu},
-  pmid = {16321713},
-  timestamp = {2009.05.19}
-}
-
-@ARTICLE{Erc2005Sec8,
-  author = {Peter J F Baskett and Petter A Steen and Leo Bossaert and European
-	Resuscitation Council},
-  title = {European Resuscitation Council guidelines for resuscitation 2005.
-	Section 8. The ethics of resuscitation and end-of-life decisions.},
-  journal = {Resuscitation},
-  year = {2005},
-  volume = {67 Suppl 1},
-  pages = {S171--S180},
-  month = {Dec},
-  file = {:./Literatur/Erc2005Sec8.pdf:PDF},
-  keywords = {Advance Directives; Bereavement; Cardiopulmonary Resuscitation, ethics/standards;
-	Counseling; Decision Making, ethics; Europe; Human Experimentation,
-	ethics; Humans; Medical Futility, ethics; Personnel, Hospital, psychology;
-	Professional-Family Relations; Resuscitation Orders},
-  owner = {grissu},
-  pmid = {16321712},
-  timestamp = {2009.05.19}
-}
-
-@ARTICLE{Erc2005Sec6,
-  author = {Dominique Biarent and Robert Bingham and Sam Richmond and Ian Maconochie
-	and Jonathan Wyllie and Sheila Simpson and Antonio Rodriguez Nunez
-	and David Zideman and European Resuscitation Council},
-  title = {European Resuscitation Council guidelines for resuscitation 2005.
-	Section 6. Paediatric life support.},
-  journal = {Resuscitation},
-  year = {2005},
-  volume = {67 Suppl 1},
-  pages = {S97--133},
-  month = {Dec},
-  file = {:./Literatur/Erc2005Sec6.pdf:PDF},
-  keywords = {Algorithms; Arrhythmias, Cardiac, therapy; Body Temperature; Cardiopulmonary
-	Resuscitation, standards; Child; Defibrillators; Europe; Foreign
-	Bodies, diagnosis/therapy; Heart Arrest, therapy; Humans; Oxygen
-	Inhalation Therapy; Respiration, Artificial, methods; Respiratory
-	Insufficiency, diagnosis/etiology/therapy; Resuscitation Orders},
-  owner = {grissu},
-  pmid = {16321719},
-  timestamp = {2009.05.19}
-}
-
 @BOOK{BLIM3,
   title = {Basislehrbuch innere Medizin : kompakt - greifbar - verständlich},
   publisher = {Elsevier, Urban und Fischer},
@@ -94,26 +12,6 @@
 	Braun},
   owner = {grissu},
   timestamp = {2009.05.02}
-}
-
-@ARTICLE{Erc2005Sec3,
-  author = {Charles D Deakin and Jerry P Nolan and European Resuscitation Council},
-  title = {European Resuscitation Council guidelines for resuscitation 2005.
-	Section 3. Electrical therapies: automated external defibrillators,
-	defibrillation, cardioversion and pacing.},
-  journal = {Resuscitation},
-  year = {2005},
-  volume = {67 Suppl 1},
-  pages = {S25--S37},
-  month = {Dec},
-  file = {:./Literatur/Erc2005Sec3.pdf:PDF},
-  keywords = {Cardiac Pacing, Artificial, methods/standards; Cardiopulmonary Resuscitation,
-	methods/standards; Defibrillators; Electric Countershock, methods/standards;
-	Emergency Medical Services, standards; Europe; Heart Arrest, therapy;
-	Humans; Oxygen Inhalation Therapy},
-  owner = {grissu},
-  pmid = {16321714},
-  timestamp = {2009.05.19}
 }
 
 @ARTICLE{Eisenburger2008,
@@ -229,28 +127,6 @@
   isbn = {3929851725},
   owner = {grissu},
   timestamp = {2009.05.03}
-}
-
-@ARTICLE{Erc2005Sec2,
-  author = {Anthony J Handley and Rudolph Koster and Koen Monsieurs and Gavin
-	D Perkins and Sian Davies and Leo Bossaert and European Resuscitation
-	Council},
-  title = {European Resuscitation Council guidelines for resuscitation 2005.
-	Section 2. Adult basic life support and use of automated external
-	defibrillators.},
-  journal = {Resuscitation},
-  year = {2005},
-  volume = {67 Suppl 1},
-  pages = {S7--23},
-  month = {Dec},
-  file = {:./Literatur/Erc2005Sec2.pdf:PDF},
-  keywords = {Adult; Airway Obstruction, etiology/therapy; Algorithms; Cardiopulmonary
-	Resuscitation, methods/standards; Child; Defibrillators; Emergency
-	Medical Services, standards; Europe; Foreign Bodies, complications/diagnosis;
-	Heart Arrest, therapy; Humans; Near Drowning, therapy},
-  owner = {grissu},
-  pmid = {16321717},
-  timestamp = {2009.05.19}
 }
 
 @BOOK{Hansak2008,
@@ -596,45 +472,6 @@
   timestamp = {2009.05.03}
 }
 
-@ARTICLE{Erc2005Sec1,
-  author = {Jerry Nolan and European Resuscitation Council},
-  title = {European Resuscitation Council guidelines for resuscitation 2005.
-	Section 1. Introduction.},
-  journal = {Resuscitation},
-  year = {2005},
-  volume = {67 Suppl 1},
-  pages = {S3--S6},
-  month = {Dec},
-  file = {:./Literatur/Erc2005Sec1.pdf:PDF},
-  keywords = {Cardiopulmonary Resuscitation, methods/standards; Emergency Medical
-	Services, standards; Europe; Heart Arrest, etiology/therapy; Humans;
-	Practice Guidelines as Topic},
-  owner = {grissu},
-  pmid = {16321715},
-  timestamp = {2009.05.19}
-}
-
-@ARTICLE{Erc2005Sec4,
-  author = {Jerry P Nolan and Charles D Deakin and Jasmeet Soar and Bernd W Böttiger
-	and Gary Smith and European Resuscitation Council},
-  title = {European Resuscitation Council guidelines for resuscitation 2005.
-	Section 4. Adult advanced life support.},
-  journal = {Resuscitation},
-  year = {2005},
-  volume = {67 Suppl 1},
-  pages = {S39--S86},
-  month = {Dec},
-  file = {:./Literatur/Erc2005Sec4.pdf:PDF},
-  keywords = {Airway Obstruction, diagnosis/therapy; Algorithms; Arrhythmias, Cardiac,
-	therapy; Cardiac Pacing, Artificial; Cardiopulmonary Resuscitation,
-	methods/standards; Cardiovascular Agents, therapeutic use; Cricoid
-	Cartilage, surgery; Electric Countershock; Europe; Heart Arrest,
-	prevention /&/ control; Hospitalization; Humans; Intubation, Intratracheal},
-  owner = {grissu},
-  pmid = {16321716},
-  timestamp = {2009.05.19}
-}
-
 @BOOK{Patzelt2005,
   title = {Basics Augenheilkunde},
   publisher = {Urban \& Fischer Bei Elsevier},
@@ -681,30 +518,6 @@
   isbn = {3131283122},
   owner = {grissu},
   timestamp = {2009.05.03}
-}
-
-@ARTICLE{Erc2005Sec7,
-  author = {Jasmeet Soar and Charles D Deakin and Jerry P Nolan and Gamal Abbas
-	and Annette Alfonzo and Anthony J Handley and David Lockey and Gavin
-	D Perkins and Karl Thies and European Resuscitation Council},
-  title = {European Resuscitation Council guidelines for resuscitation 2005.
-	Section 7. Cardiac arrest in special circumstances.},
-  journal = {Resuscitation},
-  year = {2005},
-  volume = {67 Suppl 1},
-  pages = {S135--S170},
-  month = {Dec},
-  file = {:./Literatur/Erc2005Sec7.pdf:PDF},
-  keywords = {Anaphylaxis, complications; Arrhythmias, Cardiac, complications; Asthma,
-	complications; Cardiopulmonary Resuscitation, standards; Cardiovascular
-	Surgical Procedures, adverse effects; Europe; Female; Fever, complications;
-	Heart Arrest, etiology/therapy; Heat Stroke, complications; Humans;
-	Hypothermia, complications; Poisoning, complications; Pregnancy;
-	Pregnancy Complications; Water-Electrolyte Imbalance, complications;
-	Wounds and Injuries, complications},
-  owner = {grissu},
-  pmid = {16321711},
-  timestamp = {2009.05.19}
 }
 
 @BOOK{ForMed2,

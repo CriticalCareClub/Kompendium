@@ -1,21 +1,6 @@
 % This file was created with JabRef 2.4.2.
 % Encoding: UTF8
 
-@ARTICLE{Erc2005DeSec5,
-  author = {H.R. Arntz and L. Bossaert and G. Fillipatos},
-  title = {Initiales Management von Patienten mit akutem Koronarsyndrom -- Abschnitt
-	5 der Leitlinien zur Reanimation 2005 des European Resuscitation
-	Council},
-  journal = {Notfall + Rettungsmedizin},
-  year = {2006},
-  volume = {9},
-  pages = {81--89},
-  doi = {10.1007/s10049-006-0794-2},
-  file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  owner = {grissu},
-  timestamp = {2009.05.20}
-}
-
 @ARTICLE{Erc2005Sec5,
   author = {Hans-Richard Arntz and Leo Bossaert and Gerasimos S Filippatos and
 	European Resuscitation Council},
@@ -37,30 +22,6 @@
   timestamp = {2009.05.19}
 }
 
-@ARTICLE{Erc2005DeSec9,
-  author = {P. Baskett and
-	
-	J. Nolan and
-	
-	A. Handley and
-	
-	J. Soar and
-	
-	D. Biarent and
-	
-	S. Richmond},
-  title = {Prinzipien des Trainings in der Wiederbelebung -- Abschnitt 9 der
-	Leitlinien zur Reanimation 2005 des European Resuscitation Council},
-  journal = {Notfall + Rettungsmedizin},
-  year = {2006},
-  volume = {9},
-  pages = {164--170},
-  doi = {10.1007/s10049-006-0799-x},
-  file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  owner = {grissu},
-  timestamp = {2009.05.20}
-}
-
 @ARTICLE{Erc2005Sec9,
   author = {Peter J F Baskett and Jerry P Nolan and Anthony Handley and Jasmeet
 	Soar and Dominique Biarent and Sam Richmond and European Resuscitation
@@ -78,21 +39,6 @@
   owner = {grissu},
   pmid = {16321713},
   timestamp = {2009.05.19}
-}
-
-@ARTICLE{Erc2005DeSec8,
-  author = {P. J. F. Baskett and P. A. Steen and L. Bossaert},
-  title = {Ethik der Reanimation und Entscheidungen am Lebensende -- Abschnitt
-	8 der Leitlinien zur Reanimation 2005 des European Resuscitation
-	Council},
-  journal = {Notfall + Rettungsmedizin},
-  year = {2006},
-  volume = {9},
-  pages = {155-163},
-  doi = {10.1007/s10049-006-0795-1},
-  file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  owner = {grissu},
-  timestamp = {2009.05.20}
 }
 
 @ARTICLE{Erc2005Sec8,
@@ -137,35 +83,6 @@
   timestamp = {2009.05.19}
 }
 
-@ARTICLE{Erc2005DeSec6,
-  author = {D. Biarent 
-	
-	R. Bingham and
-	
-	S. Richmond and
-	
-	I. Maconochie and
-	
-	J. Wyllie and
-	
-	S. Simpson and
-	
-	A. Rodriguez-Nunez and
-	
-	D. Zideman and},
-  title = {Lebensrettende Maßnahmen bei Kindern (Paediatric Life Support, PLS)
-	-- Abschnitt 6 der Leitlinien zur Reanimation 2005 des European Resuscitation
-	Council},
-  journal = {Notfall + Rettungsmedizin},
-  year = {2006},
-  volume = {9},
-  pages = {90-122},
-  doi = {10.1007/s10049-006-0797-z},
-  file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  owner = {grissu},
-  timestamp = {2009.05.20}
-}
-
 @BOOK{BLIM3,
   title = {Basislehrbuch innere Medizin : kompakt - greifbar - verständlich},
   publisher = {Elsevier, Urban und Fischer},
@@ -177,21 +94,6 @@
 	Braun},
   owner = {grissu},
   timestamp = {2009.05.02}
-}
-
-@ARTICLE{Erc2005DeSec3,
-  author = {C. D. Deakin and J. P. Nolan},
-  title = {Elektrische Therapie: automatisierte externe Defibrillatoren, Defibrillation,
-	Kardioversion und Schrittmachertherapie -- Abschnitt 3 der Leitlinien
-	zur Reanimation 2005 des European Resuscitation Council},
-  journal = {Notfall + Rettungsmedizin},
-  year = {2006},
-  volume = {9},
-  pages = {26--37},
-  doi = {10.1007/s10049-006-0793-3},
-  file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  owner = {grissu},
-  timestamp = {2009.05.20}
 }
 
 @ARTICLE{Erc2005Sec3,
@@ -212,20 +114,6 @@
   owner = {grissu},
   pmid = {16321714},
   timestamp = {2009.05.19}
-}
-
-@ARTICLE{Erc2005DeIntro,
-  author = {B. Dirks and M. Baubin},
-  title = {Moderne Reanimation in Theorie und Praxis -- Die Leitlinien des ERC
-	in deutschsprachiger Fassung liegen vor},
-  journal = {Notfall Rettungsmedizin},
-  year = {2006},
-  volume = {9},
-  pages = {4--5},
-  doi = {10.1007/s10049-006-0800-8},
-  file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  owner = {grissu},
-  timestamp = {2009.05.20}
 }
 
 @ARTICLE{Eisenburger2008,
@@ -341,22 +229,6 @@
   isbn = {3929851725},
   owner = {grissu},
   timestamp = {2009.05.03}
-}
-
-@ARTICLE{Erc2005DeSec2,
-  author = {A. J. Handley and R. Koster and K. Monsieurs and G. D. Perkins and
-	S. Davies and L. Bossaert},
-  title = {Lebensrettende Basismaßnahmen für Erwachsene und Verwendung automatisierter
-	externer Defibrillatoren -- Abschnitt 2 der Leitlinien zur Reanimation
-	2005 des European Resuscitation Council},
-  journal = {Notfall + Rettungsmedizin},
-  year = {2006},
-  volume = {9},
-  pages = {10--25},
-  doi = {10.1007/s10049-006-0792-4},
-  file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  owner = {grissu},
-  timestamp = {2009.05.20}
 }
 
 @ARTICLE{Erc2005Sec2,
@@ -724,20 +596,6 @@
   timestamp = {2009.05.03}
 }
 
-@ARTICLE{Erc2005DeSec1,
-  author = {J Nolan},
-  title = {Leitlinien zur Reanimation 2005 des European Resuscitation Council
-	-- Abschnitt 1: Einleitung},
-  journal = {Notfall + Rettungsmedizin},
-  year = {2006},
-  volume = {9},
-  pages = {6--9},
-  doi = {DOI 10.1007/s10049-006-0791-5},
-  file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  owner = {grissu},
-  timestamp = {2009.05.20}
-}
-
 @ARTICLE{Erc2005Sec1,
   author = {Jerry Nolan and European Resuscitation Council},
   title = {European Resuscitation Council guidelines for resuscitation 2005.
@@ -754,22 +612,6 @@
   owner = {grissu},
   pmid = {16321715},
   timestamp = {2009.05.19}
-}
-
-@ARTICLE{Erc2005DeSec4,
-  author = {J. P. Nolan and C. D. Deakin and J. Soar and B. W. Böttiger and G.
-	Smith},
-  title = {Erweiterte Reanimationsmaßnahmen für Erwachsene (ALS) -- Abschnitt
-	4 der Leitlinien zur Reanimation 2005 des European Resuscitation
-	Council},
-  journal = {Notfall + Rettungsmedizin},
-  year = {2006},
-  volume = {9},
-  pages = {38--80},
-  doi = {10.1007/s10049-006-0796-0},
-  file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  owner = {grissu},
-  timestamp = {2009.05.20}
 }
 
 @ARTICLE{Erc2005Sec4,
@@ -863,36 +705,6 @@
   owner = {grissu},
   pmid = {16321711},
   timestamp = {2009.05.19}
-}
-
-@ARTICLE{Erc2005DeSec7,
-  author = {J. Soar and
-	
-	C. D. Deakin and
-	
-	J. P. Nolan and
-	
-	G. Abbas and
-	
-	A. Alfonzo and
-	
-	A. J. Handley 
-	
-	D. Lockey and
-	
-	G. D. Perkins  and
-	
-	K. Thies},
-  title = {Kreislaufstillstand unter besonderen Umständen -- Abschnitt 7 der
-	Leitlinien zur Reanimation 2005 des European Resuscitation Council},
-  journal = {Notfall + Rettungsmedizin},
-  year = {2006},
-  volume = {9},
-  pages = {123-145},
-  doi = {10.1007/s10049-006-0798-y},
-  file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  owner = {grissu},
-  timestamp = {2009.05.20}
 }
 
 @BOOK{ForMed2,

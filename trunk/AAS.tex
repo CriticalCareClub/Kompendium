@@ -13,7 +13,7 @@
 
 %\usepackage{excludeonly}
 %\excludeonly{include-anatomie-chapter}
-%\includeonly{include-mednotfaelle-chapter}
+\includeonly{include-mednotfaelle-chapter}
 %\includeonly{include-traumanotfaelle-chapter}
 \includeonly{include-autoreninfo}
 
@@ -53,7 +53,7 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
-\usepackage[dvipsnames,hyperref]{xcolor}
+\usepackage[svgnames,hyperref]{xcolor}
 \definecolor{pink}{rgb}{1,0.5,0.5}
 \definecolor{LightSkyBlue}{rgb}{0.5,0.5,1}
 \definecolor{MidnightBlue}{rgb}{0,0,0.5}
@@ -387,8 +387,14 @@ footskip=10mm,
  
 \newcommand{\gMassnahmen}[1]
 	{
-	{\centering \cornersize{0.5}
-	\ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily{#1}}}}}
+	\begin{quote}
+	\begin{center}
+    	\fcolorbox{Aqua}{Azure}{
+      		\begin{minipage}[t]{\linewidth}
+      		{ \color{darkBlue}#1}
+      	\end{minipage}}
+  	\end{center}
+	\end{quote}
 	}
 
 
@@ -406,8 +412,10 @@ footskip=10mm,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Married texts
 
 \newenvironment{gMassnahmenEnv}
-	{\noindent\begin{center}\begin{boxedminipage}[H]{\linewidth}\color{darkBlue}} 
+	{\noindent\begin{center}\begin{boxedminipage}[H]{\linewidth}\color{darkBlue}}
 	{\end{boxedminipage}\end{center}}
+
+
 
 % \newenvironment{gMassnahmenEnv}
 % {\noindent\begin{quote}\fcolorbox{paleBlue}{paleBlue}\begin{minipage}[t]{\linewidth}\color{darkBlue}}{\end{minipage}\end{quote}}

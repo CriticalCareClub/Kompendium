@@ -15,7 +15,7 @@
 %\excludeonly{include-anatomie-chapter}
 \includeonly{include-mednotfaelle-chapter}
 %\includeonly{include-traumanotfaelle-chapter}
-\includeonly{include-autoreninfo}
+%\includeonly{include-autoreninfo}
 
 
 \usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts,skull}
@@ -72,6 +72,7 @@
 \definecolor{paleyellow}{rgb}{1,1,0.8}
 \definecolor{black}{rgb}{0,0,0}
 \definecolor{RED}{rgb}{1,0,0}
+\definecolor{Mulberry}{rgb}{1,1,0.8}
 
 
 
@@ -264,7 +265,7 @@ footskip=10mm,
 
 \newcommand\gAuthNotes[1]
 %	{} % for final release
-	{{\color{Mulberry}{\ttfamily{#1}}}}
+	{{\color{Aquamarine}{\ttfamily{#1}}}}
 
 
 % track changes
@@ -387,14 +388,13 @@ footskip=10mm,
  
 \newcommand{\gMassnahmen}[1]
 	{
-	\begin{quote}
 	\begin{center}
-    	\fcolorbox{Aqua}{Azure}{
+    	\fcolorbox{DeepSkyBlue}{Azure}{
       		\begin{minipage}[t]{\linewidth}
-      		{ \color{darkBlue}#1}
-      	\end{minipage}}
+      			{\color{darkBlue}#1}
+      		\end{minipage}
+		}
   	\end{center}
-	\end{quote}
 	}
 
 
@@ -664,7 +664,7 @@ unterstützt.\vspace{2em}
 \setcounter{tocdepth}{3}
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
 \dominitoc
-\tableofcontents
+%\tableofcontents
 %\end{multicols}
 %\setcounter{tocdepth}{10}
 %\renewcommand\contentsname{Inhalt - Detail\"ubersicht}

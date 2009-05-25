@@ -15,7 +15,11 @@
 %\excludeonly{include-anatomie-chapter}
 \includeonly{include-mednotfaelle-chapter}
 %\includeonly{include-traumanotfaelle-chapter}
+<<<<<<< HEAD:trunk/AAS.tex
 %\includeonly{include-autoreninfo}
+=======
+\includeonly{include-khd-chapter}
+>>>>>>> khd:trunk/AAS.tex
 
 
 \usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts,skull}
@@ -447,9 +451,9 @@ footskip=10mm,
 
 \newcommand{\gMarried}[2]
 	{
-	\begin{minipage}[t]{0.48\linewidth}#1\end{minipage}
+	\begin{minipage}{0.48\linewidth}\begin{minipage}[t]{\linewidth}#1\end{minipage}\end{minipage}
     \hspace{0.04\linewidth}
-	\begin{minipage}[t]{0.48\linewidth}{\tiny ~}\par#2\end{minipage}
+	\begin{minipage}{0.48\linewidth}\begin{minipage}[t]{\linewidth}#2\end{minipage}\end{minipage}
 	}
 
 

@@ -1,7 +1,7 @@
 % This file was converted to LaTeX by Writer2LaTeX ver. 0.5
 % see http://www.hj-gym.dk/~hj/writer2latex for more info
 % test für git
-\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=no]{scrbook}
+\documentclass[ngerman,a4paper,fontsize=10pt,BCOR=1.5cm,headings=big,draft=no]{scrbook}
 % \setlength{\voffset}{-15pt}
 % \setlength{\textheight}{720pt}
 % \setlength{\marginparwidth}{5cm}
@@ -14,7 +14,7 @@
 %\usepackage{excludeonly}
 %\excludeonly{include-anatomie-chapter}
 %\includeonly{include-mednotfaelle-chapter}
-\includeonly{include-traumanotfaelle-chapter}
+%\includeonly{include-traumanotfaelle-chapter}
 
 %\includeonly{include-autoreninfo}
 
@@ -30,7 +30,7 @@
 \restoresymbol{DINGBAT}{checkmark}
 
 %Symbole
-\usepackage{makeidx,minitoc}
+\usepackage{makeidx}
 %\usepackage{showidx} % shows index entries on page margin
 \usepackage{showkeys}
 
@@ -187,6 +187,8 @@ footskip=10mm,
 \addtokomafont{chapter}{\Huge\color{ubuntured}\fontfamily{augie}\selectfont}
 %\addtokomafont{chapter}{}
 
+\usepackage{minitoc} %The quotchap package should be loaded BEFORE the minitoc package.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Header
 \usepackage{fancyhdr}
 
@@ -266,11 +268,11 @@ footskip=10mm,
 
 \newcommand\gA[1]
 %	{} % Don't display any annotations
-	{{\scriptsize\ttfamily{#1}}}
+	{{\scriptsize\color{Red}\ttfamily{#1}}}
 
 \newcommand\gAuthNotes[1]
 %	{} % for final release
-	{{\color{Aquamarine}{\ttfamily{#1}}}}
+	{{\color{Red}{\ttfamily{#1}}}}
 
 
 % track changes
@@ -393,13 +395,11 @@ footskip=10mm,
  
 \newcommand{\gMassnahmen}[1]
 	{
-	\begin{center}
-    	\fcolorbox{DeepSkyBlue}{Azure}{
+    	\fcolorbox{AliceBlue}{AliceBlue}{
       		\begin{minipage}[t]{\linewidth}
       			{\color{darkBlue}#1}
       		\end{minipage}
-		}
-  	\end{center}
+		} 
 	}
 
 
@@ -452,9 +452,9 @@ footskip=10mm,
 
 \newcommand{\gMarried}[2]
 	{
-	\begin{minipage}{0.48\linewidth}\begin{minipage}[t]{\linewidth}#1\end{minipage}\end{minipage}
+	\begin{minipage}[b]{0.48\linewidth}\begin{minipage}{\linewidth}#1\end{minipage}\end{minipage}
     \hspace{0.04\linewidth}
-	\begin{minipage}{0.48\linewidth}\begin{minipage}[t]{\linewidth}#2\end{minipage}\end{minipage}
+	\begin{minipage}[b]{0.48\linewidth}\begin{minipage}{\linewidth}#2\end{minipage}\end{minipage}
 	}
 
 
@@ -540,7 +540,7 @@ vital bedrohten Patienten. Besonderheiten:}
 % \bibliographystyle{unsrtdin2}
 \usepackage{bibunits}
 \bibliographyunit[\chapter]
-\defaultbibliography{Literatur-AAS}
+\defaultbibliography{../Literatur-AAS}
 %\defaultbibliographystyle{unsrtdin2}
 \defaultbibliographystyle{plain}
 

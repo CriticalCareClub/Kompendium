@@ -8,6 +8,7 @@
 *.ind
 *.log
 *.lof
+*.maf
 *.mtc
 *.mtc*
 AAS.pdf

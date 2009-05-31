@@ -1,7 +1,7 @@
 % This file was converted to LaTeX by Writer2LaTeX ver. 0.5
 % see http://www.hj-gym.dk/~hj/writer2latex for more info
 % test für git
-\documentclass[ngerman,a4paper,fontsize=10pt,BCOR=1.5cm,headings=big,draft=no]{scrbook}
+\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=no]{scrbook}
 % \setlength{\voffset}{-15pt}
 % \setlength{\textheight}{720pt}
 % \setlength{\marginparwidth}{5cm}
@@ -14,7 +14,7 @@
 %\usepackage{excludeonly}
 %\excludeonly{include-anatomie-chapter}
 %\includeonly{include-mednotfaelle-chapter}
-\includeonly{include-traumanotfaelle-chapter}
+%\includeonly{include-traumanotfaelle-chapter}
 
 %\includeonly{include-autoreninfo}
 
@@ -690,61 +690,62 @@ unterstützt.\vspace{2em}
 
 \section*{Autoren und Mitwirkende}
 
-\emph{(in alphabetischer Reihenfolge)}
-\strongemph{echt!}
+\emph{\tiny{(in alphabetischer Reihenfolge)}}
+
 
 \begin{multicols}{2}
-\begin{description}
     
-    \item[Josef Emhofer]
+ \paragraph{Josef Emhofer}
     Mag. phil.
     
     Ausbildungszentrum des ASB Floridsdorf-Donaustadt
     
     Wallenberggasse 2, A-1220 Wien\\
-    \item[Gerhard Gabriel]
+    \paragraph{Gerhard Gabriel}
     Dr. med. univ.
     
     Facharzt f\"ur Innere Medizin
     A-2103, Langenzersdorf
     
-    \item[Sebastian Gabriel]
+    \paragraph{Sebastian Gabriel}~
     
     Medizinische Universität Wien -- Besondere Einrichtung zur
     Medizinischen Aus- und Weiterbildung
     
     Spitalgasse 23, A-1090 Wien
     
-    \item[Lena Hirtler]
+    \paragraph{Lena Hirtler}~
 
     Medizinische Universität Wien -- Zentrum f\"ur Anatomie und
     Zellbiologie, Abt. f\"ur systematische Anatomie
     
     Währingerstra{\ss}e 13, A-1090 Wien
     
-    \item[Thomas Hochreiter]
+    \paragraph{Thomas Hochreiter}
     DGKP
     
     Ausbildungszentrum des ASB Floridsdorf-Donaustadt
     
     Wallenberggasse 2, A-1220 Wien
     
-    \item[Roman Koch] 
+    \paragraph{Roman Koch} 
     Ing.
     
     Leiter Ausbildungszentrum des ASB Floridsdorf-Donaustadt
     
     Wallenberggasse 2, A-1220 Wien
     
-    \item[Christoph Koller]
+    \paragraph{Christoph Koller}~
+    
     Ausbildungszentrum des ASB Floridsdorf-Donaustadt
     Wallenberggasse 2, A-1220 Wien\\
     
-    \item[Michael Motal]
+    \paragraph{Michael Motal}~
+    
     Ausbildungszentrum des ASB Floridsdorf-Donaustadt
     Wallenberggasse 2, A-1220 Wien\\
     
-    \item[Johannes Steuer]
+    \paragraph{Johannes Steuer}
     Dr. med. univ., M.Sc.
     
     \"Arztlicher Leiter und Medizinisch-wissenschaftlicher Leiter der
@@ -757,28 +758,31 @@ unterstützt.\vspace{2em}
     Abteilung f\"ur Anästhesiologie und Intensivmedizin
     Langobardenstra{\ss}e 122, A-1220 Wien
     
-    \item[Michael Witthofner]
+    \paragraph{Michael Witthofner}
     Dr. med. univ.
     
     Wien
     
-\end{description}
 \end{multicols}
 
-\section*{Software}
+\section*{Die Technik}
 
-\begin{description}
-\item[Satz und Druckvorstufe] \LaTeX 
-\item[Literaturverzeichnis] JabRef 2.4.2  
-\item[Textverarbeitung und Rohentwurf] OpenOffice 3.0 --- http://www.openoffice.com
-\item[Betriebssysteme] \par
+\begin{multicols}{2}
+\paragraph{Satz und Druckvorstufe} \LaTeX{} mit {\sffamily KOMA-Script} 
+\paragraph{Entwicklungsumgebung} Eclipse Ganymed mit Texlipse- und JGit-Plugin,
+Texmaker
+\paragraph{Versionsverwaltung} Git
+\paragraph{Literaturverzeichnis} JabRef 2.4.2, Zotero, BibTeX  
+\paragraph{Textverarbeitung und Rohentwurf} OpenOffice 
+\paragraph{Betriebssysteme} \par
 
  \begin{itemize}
   \item Rohentwurf: Linux (Debian, Gentoo, Ubuntu), MacOS X, MS Windows XP, Vista
   \item Endproduktion: Ubuntu Linux 8.10 \textit{"`Intrebid
   Ibex"'}, http://www.ubuntu.com
  \end{itemize}
-\end{description}
+
+\end{multicols}
 
 \include{include-autoreninfo}
 

@@ -11,8 +11,8 @@
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
 
-%\usepackage{excludeonly}
-%\excludeonly{include-anatomie-chapter}
+\usepackage{excludeonly}
+\excludeonly{include-anatomie-chapter}
 %\includeonly{include-mednotfaelle-chapter}
 %\includeonly{include-traumanotfaelle-chapter}
 
@@ -492,7 +492,12 @@ footskip=10mm,
 		\end{tabularx}
 	}
 
-%%% AAS-specific
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   AAS-specific
+
+\newcommand{\AASS} 
+%   {{\fontfamily{cmdh}\selectfont{\color{ubuntured}AAS}{\color{darkBlue}{\,\textsuperscript{S}}}}}
+{{\mdseries\upshape\fontfamily{lmss}\selectfont{\color{ubuntured}AAS}{\color{darkBlue}S}}}
+    
 
 \newcommand{\gAasRsN}[1]{ {\sffamily\bfseries #1}}
 
@@ -652,7 +657,9 @@ unterstützt.\vspace{2em}
 \end{center}
 \end{minipage}\end{gWideParEnv}}
 
-\subject{\Huge{\color{ubuntured}AA}{\color{darkBlue}{S\textsubscript{S}}}}
+\subject{\Huge{\AASS}}
+
+\publishers{\fontfamily{lmss}\selectfont ARGE \AASS}
 
 \dedication{saluti et solatio aegrorum}
 

@@ -12,7 +12,8 @@
 \usepackage[ngerman]{babel}
 
 \usepackage{excludeonly}
-\excludeonly{include-anatomie-chapter}
+%\excludeonly{include-anatomie-chapter}
+\excludeonly{include-betriebsintern-chapter,include-regional-chapter,include-taetigkeitsbild-chapter,include-erstehilfe-chapter,include-recht-chapter,include-reserve-ende}
 %\includeonly{include-mednotfaelle-chapter}
 %\includeonly{include-traumanotfaelle-chapter}
 
@@ -614,12 +615,10 @@ sit-uat-ions-ge-rechte
 % #######################################################################################################
 \begin{document}
 \begin{titlepage}
-\titlehead{Version 0.0.1-2009-05-22-00 Variante:
+\titlehead{Version 0.0.1-2009-06-03-00 Variante:
 \gH{lubdub/grissu-master-testing} \par Ausgabe für das
 Ausbildungszentrum des ASB Floridsdorf-Donaustadt \par \LaTeX
--Dokument. Der Teil \emph{"`Großschaden und
-Gefahrgutunfälle"'} verbleibt noch im OpenOffice-Dokument
-und wird erst in Version 0.3.x übernommen. \par
+-Dokument. \par
 Diese Zweig soll als Version 0.2.0 im RS-Kurs 2009/07
 (ET VII/2009) eingesetzt werden.}
 
@@ -686,7 +685,7 @@ unterstützt.\vspace{2em}
 \setcounter{tocdepth}{3}
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
 \dominitoc
-%\tableofcontents
+\tableofcontents
 %\end{multicols}
 %\setcounter{tocdepth}{10}
 %\renewcommand\contentsname{Inhalt - Detail\"ubersicht}
@@ -792,7 +791,7 @@ Texmaker
 \end{multicols}
 
 \include{include-autoreninfo}
-
+ 
 
 \part{Allgemeiner Teil}
 

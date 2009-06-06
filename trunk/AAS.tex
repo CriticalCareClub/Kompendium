@@ -11,10 +11,10 @@
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
 
-\usepackage{excludeonly}
+%\usepackage{excludeonly}
 %\excludeonly{include-anatomie-chapter}
-\excludeonly{include-betriebsintern-chapter,include-regional-chapter,include-taetigkeitsbild-chapter,include-erstehilfe-chapter,include-recht-chapter,include-reserve-ende}
-%\includeonly{include-mednotfaelle-chapter}
+%\excludeonly{include-betriebsintern-chapter,include-regional-chapter,include-taetigkeitsbild-chapter,include-erstehilfe-chapter,include-recht-chapter,include-reserve-ende}
+\includeonly{include-mednotfaelle-chapter}
 %\includeonly{include-traumanotfaelle-chapter}
 
 %\includeonly{include-autoreninfo}
@@ -335,7 +335,7 @@ footskip=10mm,
 \newcommand\gCa[1]{\textbf{\textcolor{black}{#1}}}
 
 % Kommentar
-\newcommand\gCo[1]{\scriptsize\sffamily}
+\newcommand\gCo[1]{\scriptsize\sffamily{#1}}
 
 \newcommand\gNw[1]{#1}
 

@@ -630,12 +630,24 @@ sit-uat-ions-ge-rechte
 % #######################################################################################################
 \begin{document}
 \begin{titlepage}
-\titlehead{Version 0.0.1-2009-06-10-00 Variante:
-\gH{lubdub/grissu-master-testing} \par Ausgabe für das
-Ausbildungszentrum des ASB Floridsdorf-Donaustadt \par \LaTeX
--Dokument. \par
+\titlehead{% Version 0.0.1-yyyy-mm-dd  \par 
+{\sffamily
+\gEs{ -- ENTWURF --}
+
+\gEs{Entwicklungszweig:}
+{\ttfamily\input{./tmp/git-current-branch.tmp}}
+\par
+\gEs{Letztes Commit:} 
+
+{\ttfamily\input{./tmp/git-lastcommit.tmp}}
+
+\vspace{1em}
+{\bfseries Edition:} Ausgabe für das
+Ausbildungszentrum des ASB Floridsdorf-Donaustadt
+
+\vspace{1em}
 Diese Zweig soll als Version 0.2.0 im RS-Kurs 2009/07
-(ET VII/2009) eingesetzt werden.}
+(ET VII/2009) eingesetzt werden.}}
 
 \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
 
@@ -680,7 +692,10 @@ UrheberG bestimmt. Weitergabe nicht gestattet.
 
 \subject{\Huge{\AASS}}
 
-\publishers{\fontfamily{lmss}\selectfont ARGE \AASS}
+\publishers{{\fontfamily{lmss}\selectfont ARGE \AASS}
+
+\vspace{1em}
+\LaTeX{}}
 
 \dedication{saluti et solatio aegrorum}
 

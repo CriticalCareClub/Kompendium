@@ -55,7 +55,7 @@
 
 \usepackage{hhline}
 
-\usepackage{graphicx} % Bilder-Support
+\usepackage[draft]{graphicx} % Bilder-Support
 %\usepackage{ooomath}
 
 
@@ -208,7 +208,11 @@ footskip=10mm,
 \fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---
 }}}
 \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
-\fancyfoot[CE,CO]{\gEs{\gAuthNotes{ --- ENTWURF --- }}}
+
+\fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
+Entwicklungszweig:
+\input{./tmp/git-current-branch.tmp} -- Letztes Commit:
+\input{./tmp/git-lastcommit.tmp}}}}
 \fancyfoot[LE]{} 
 \fancyfoot[RO]{} 
 
@@ -551,12 +555,15 @@ vital bedrohten Patienten. Besonderheiten:}
 % 
 % \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
 
-% \bibliographystyle{unsrtdin2}
-\usepackage{bibunits}
-\bibliographyunit[\chapter]
-\defaultbibliography{../Literatur-AAS}
+\bibliographystyle{unsrtdin2}
+%\usepackage{bibunits}
+%\bibliographyunit[\chapter]
+%\defaultbibliography{../Literatur-AAS}
+%\defaultbibliography{Literatur-AAS}
 %\defaultbibliographystyle{unsrtdin2}
-\defaultbibliographystyle{plain}
+%\defaultbibliographystyle{plain}
+\usepackage{chapterbib}
+\newcommand{\gChapterBibliography}{\bibliographystyle{unsrtdin2}{\scriptsize \bibliography{Literatur-AAS}}}
 
 
 \makeindex
@@ -707,7 +714,11 @@ UrheberG bestimmt. Weitergabe nicht gestattet.
 %\tableofcontents
 
 \listoffigures
-%\bibliography{Literatur-AAS}
+% \nocite{*}
+% \begin{multicols}{2}
+% {\scriptsize \bibliography{Literatur-AAS}}
+% \end{multicols}
+
 
 \section*{Autoren und Mitwirkende}
 

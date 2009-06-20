@@ -564,19 +564,6 @@
   timestamp = {2009.05.19}
 }
 
-@BOOK{Hansak2008,
-  title = {{LPN-San} Österreich},
-  publisher = {Stumpf \& Kossendey},
-  year = {2008},
-  author = {Peter Hansak and Berthold Petutschnigg and Markus Böbel and {Hans-Peter}
-	Hündorf and Roland Lipp and Johannes Veith},
-  edition = {3., Ã¼berarbeitete Auflage.},
-  month = mar,
-  isbn = {3938179422},
-  owner = {grissu},
-  timestamp = {2009.05.03}
-}
-
 @BOOK{LPN3,
   title = {{LPN-San} Österreich},
   publisher = {Stumpf \& Kossendey},
@@ -1253,6 +1240,22 @@
   owner = {grissu},
   pmid = {16321716},
   timestamp = {2009.05.19}
+}
+
+@INCOLLECTION{Olschewski2009,
+  author = {Horst Olschewski},
+  title = {AGN 2009-18: Evidenz basierte Medizin: Therapie des Asthmaanfalles},
+  booktitle = {Abstracts der AGN 2009: 5, Kongress der Arbeitsgemeinschaft für Notfallmedizin
+	4. bis 6. Juni 2009 in Graz, Österreich},
+  publisher = {Springer},
+  year = {2009},
+  volume = {12},
+  number = {4},
+  series = {Notfall + Rettungsmedizin},
+  pages = {322},
+  month = {Juni},
+  owner = {grissu},
+  timestamp = {2009.06.20}
 }
 
 @BOOK{Patzelt2005,

@@ -3,20 +3,20 @@
 
 Sebastian Gabriel [R]; Michael Withofner
 
-\gAuthNotes{
-Changelog:
-
-\begin{description}
-    \item[2009-02-25] Start Changelog. Kapitel mit Korr
-    Koch korr. 
-    \item[2009-mm-dd] in \LaTeX übernommen
-    \item[2009-04-19] anhand der OpenOffice-Version überarbeitet.
-Bilder fehlen noch. 
-\item[2009-05-06] GAB: Abschnitte "`Blutdruck"' und
-"`Atemvolumina"' aus Anatomie-Teil übernommen.
-\end{description}
-
-}
+% \gAuthNotes{
+% Changelog:
+% 
+% \begin{description}
+%     \item[2009-02-25] Start Changelog. Kapitel mit Korr
+%     Koch korr. 
+%     \item[2009-mm-dd] in \LaTeX übernommen
+%     \item[2009-04-19] anhand der OpenOffice-Version überarbeitet.
+% Bilder fehlen noch. 
+% \item[2009-05-06] GAB: Abschnitte "`Blutdruck"' und
+% "`Atemvolumina"' aus Anatomie-Teil übernommen.
+% \end{description}
+% 
+% }
 
 \minitoc
 
@@ -126,11 +126,11 @@ von Gefahren beteiligt. Je mehr das Bewusstsein gest\"ort oder
 reduziert ist desto gef\"ahrlicher ist das f\"ur den Patienten. 
 
 \begin{itemize}
-    \item Ab einem gewissen Punkt sind auch so wesentliche Funktionen wie
-    der \gT{Schluck-}, \gT{W\"urge-} bzw. \gT{Hustenreflex}
-    ausgefallen und es kann zum verschlucken von Mageninhalt
-    oder Blut in die Lunge kommen (\gT{Aspiration}). Man spricht auch vom \gEs{Ausfall der
-    Schutzreflexe}.
+    \item Ab einem gewissen Punkt können auch so wesentliche
+    Funktionen wie der \gT{Schluck-}, \gT{W\"urge-} bzw. \gT{Hustenreflex}
+    ausgefallen, und es kann Mageninhalt oder Blut in die
+    Lunge gelangen (\gT{Aspiration}). Man spricht auch vom
+    \gEs{Ausfall der Schutzreflexe}.
     \item Bei schweren Bewusstseinsst\"orungen kann es auch zum Erschlaffen
     wichtiger Muskeln wie z.B. Der Zunge kommen. F\"allt diese zur\"uck
     kann sie den Atemweg blockieren oder ganz verschlie{\ss}en.
@@ -318,7 +318,7 @@ Motorische Reaktion & 6 & 6 & spontan
         \item W\"armeerhalt
         \item \gEs{Ursachenforschung} -- Warum ist der
         Patient eingetr\"ubt?
-        \item \gEs{Neurcheck}
+        \item \gEs{Neurocheck}
         \begin{itemize}
             \item Immer auch an \gEs{BZ} denken!
         \end{itemize}
@@ -344,7 +344,7 @@ Motorische Reaktion & 6 & 6 & spontan
         \item W\"armeerhalt
         \item \gEs{Ursachenforschung} -- Warum ist der Patient bewusstlos oder
         sopor\"os?
-        \item \gEs{Neurcheck}
+        \item \gEs{Neurocheck}
         \begin{itemize}
             \item Immer auch an \gEs{BZ} denken!
         \end{itemize}
@@ -713,6 +713,8 @@ Brustkorb senkt sich bei Einatmung
 \end{table}
 \end{center}
 
+\gAuthNotes{GABG: patholigische Atmungstypen inkl.
+Zeichnung einbinden? Kussmaul, etc.}
 
 \paragraph{Gefahr der Ateminsuffizienz}
 
@@ -768,15 +770,9 @@ Patienten ist immer von einer Reanimation auszugehen.}
 
 
 
-\section[Herz- / Kreislauf]{Herz- / Kreislauf}
-\label{bkm:RefHeading42514202}St\"orungen des Herz-/ Kreislaufsystems
+\section[Herz- / Kreislauf]{Herz-\,/\,Kreislauf}
+\label{bkm:RefHeading42514202}
 
-
-
-Durch die Pumpfunktion des Herzens ensteht ein
-lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
-\gE{Blutdruck}. Vgl. Kap. \emph{Vitalfunktionen},
-\ref{topic:blutdruck}. Abk\"urzung: RR. Gemessen immer in Herzh\"ohe!
 
 \subsection{Blutdruck} 
 \label{topic:blutdruck}
@@ -792,16 +788,20 @@ Während des Auswurfes von Blut in das
 Gefäßsystem (Herzanspannung, Systole)
 spricht man vom systolischen Blutdruck, während
 der Enstpannungsphase des Herzens (Diastole) vom
-diastolischen Blutdruck. Nattürlich ist der Blutdruck bei
+diastolischen Blutdruck. Natürlich ist der Blutdruck bei
 der Anspannung des Herzens höher als bei der Entspannung
-(Systolischer Blutdruck > Diastolische Blutdruck).}
-{\begin{description}
+(\gE{Systolischer Blutdruck > Diastolische Blutdruck)}.}
+{
+\gTabHeading{Blutdruck}
+
+\begin{description}
     \item[systolisch:] Maximaldruck in der Arterie am H\"ohepunkt der
 Kammerkontraktion
     \item[diastolisch:] Druck in der Arterie w\"ahrend die Kammer erschlafft ist
 \end{description}}
 
-
+Zur Durchführung der Blutdruckmessung vgl.
+\ref{topic:rr-messung}.
 
 
 
@@ -882,9 +882,11 @@ mittels Medikamente unbedingt gesenkt werden.
 
 
 
-\subsection{Kreislaufstillstand}\label{bkm:RefHeading42514602}
+\subsection{Kreislaufstillstand}\label{bkm:RefHeading42514602}\label{topic:kreislaufstillstand}
 
-\gDefinition{Totales Pumpversagen des Herzens} aufgrund von
+\gDefinition{Totales Pumpversagen des Herzens.} 
+
+Das Pumversagen kann kann entstehen durch:
 
 \begin{itemize}
     \item Asystolie (keine Herzt\"atigkeit)
@@ -895,7 +897,7 @@ mittels Medikamente unbedingt gesenkt werden.
     Pumpreaktion auf Signale des Reizleitungssystems im Herz
 \end{itemize}
 
-
+\gParallel{
 \paragraph{Ursachen}
 
 \begin{itemize}
@@ -918,9 +920,9 @@ mittels Medikamente unbedingt gesenkt werden.
         \item Elektrolytverschiebungen,...
     \end{itemize}
 \end{itemize}
-
-
-\paragraph{Pathophysiologie}
+}
+{
+\paragraph{Folgen \& Symptome}
 
 \begin{itemize}
 \item Aussetzen des Herzschlages $\rightarrow$ Patient ist
@@ -930,7 +932,7 @@ sofort pulslos!
 \item \gEs{Irreversible Hirnsch\"aden nach 3-5\,min}, bei
 K\"alte allerdings deutlich l\"anger!
 \end{itemize}
-
+}
 
 \gA{KOCH: hab ich die (Hirnschäden) nicht aufgrund des
 Atemstillstandes?
@@ -976,15 +978,16 @@ Schock bedeutet:
    Herzauswurf\,:\,Sauerstoffbedarf} des K\"orpers
     \item M\"ogliche Ursachen:
     \begin{enumerate}
-        \item Herz pumpt wenig
+        \item Herz pumpt zu wenig
         \item Zu wenig Blut vorhanden
         \item Gef\"a{\ss}e sind zu weit gestellt und Blut versackt
     \end{enumerate}
 \end{itemize}
 
 \gFazit{Im Endeffekt kommt immer zu wenig Blut mit
-Sauerstoff zu den Organen, dadurch ist die Ge\-webedurchblutung nicht ausreichend  f\"ur die
-Versorgung aller Organe mit Sauer\-stoff.} 
+Sauerstoff zu den Organen. Dadurch ist die
+Ge\-webedurchblutung f\"ur die Versorgung aller Organe mit
+Sauer\-stoff nicht ausreichend.}
 
 K\"orpereigene Mechanismen k\"onnen gegensteuern und versuchen den
 Schock zu kompensieren (gegensteuern). Dies geht allerdings nur eine
@@ -1575,10 +1578,8 @@ Raum in den Blutgef\"a{\ss}en
 
 Atome sind die kleinsten Grundbestandteile von Marterie.
 
-Ionen sind Atome die elektrisch geladen sind.
-
-Geladene Ionen sind gut in Wasser l\"oslich. Wenn sie in Wasser gel\"ost
-sind heissen sie
+Ionen sind Atome die elektrisch geladen sind. Sie sind gut
+in Wasser l\"oslich. Wenn sie in Wasser gel\"ost sind heissen sie
 "`\gT{Elektrolyte}"'.
 
 \gFazit{Im Wasser gel\"oste, elektrisch geladene Teilchen
@@ -1665,8 +1666,8 @@ die Wand passieren kann? Daf\"ur gibt es in der Zelle spezielle "`Pumpen"'
 \gZ{(Transportproteine)} die die Ionen hin und her
 bef\"ordern. }
 
-Die Steuerung richtige Verteilung der verschiedenen Ionen ist recht kompliziert aber lebenswichtig. Eine {\quotedblbase}falsche{\textquotedblleft} Verteilung der Elektrolyte
-kann schlimme Folgen haben (zB. Herzrhythmusst\"orungen). 
+Die Steuerung der richtigen Verteilung der verschiedenen
+Ionen ist recht kompliziert aber lebenswichtig. Eine {\quotedblbase}falsche{\textquotedblleft} Verteilung der Elektrolyte kann schlimme Folgen haben (zB. Herzrhythmusst\"orungen). 
 
 \gFazit{Die richtige Verteilung der Elektrolyte im K\"orper
 ist lebenswichtig. Elektrolyst\"orungen k\"onnen lebensgef\"ahrlich sein. }
@@ -1682,6 +1683,7 @@ Elektrolyst\"orungen}\index{Elektrolyst\"orungen}
     \item Durchfall, Erbrechen (Verlust von Elektrolyten)
     \item Medikamente
     \item Vergiftung
+    %\item \gZ{Hormonentgleisungen}
 \end{itemize}
 
 
@@ -1743,7 +1745,7 @@ pH-Wert zu messen, jedoch haben wir gro{\ss}en Einflu{\ss} auf ihn
 durch unsere Ma{\ss}nahmen, siehe unten. 
 
 Bei einer \"Ubers\"auerung sprechen wir von einer
-\index{Azidose}\gT{Azidose}, wenn der Patient basisch wird
+\index{Azidose}\gT{Azidose}, wenn der Patient basisch wird, 
 von einer \index{Alkalose}\gT{Alkalose}.
 
 \gFazit{Bei einer \gEs{\"Ubers\"auerung} sprechen wir von
@@ -1984,7 +1986,12 @@ Reanimation unterlassen werden:
     empfohlen nur eine Herzdruckmassage durchzuführen wenn
     eine Mund-zu-Mund-Beatmung nicht zumutbar ist.}
 \end{itemize}
+\gAuthNotes{GABG: gesicherte bösartige Erkrankung?}
 
+GABS: Was gilt als gesichert? Was gilt als bösartig? Eine
+bösartige Grunderkrankung gilt nich per se als Argument um
+nicht zu reanimieren --> Pateintenverfügung, mutmaßlicher
+Patientenwille. Prostatakarzinom und Infarkt?
 \end{multicols}
 
 %O2:

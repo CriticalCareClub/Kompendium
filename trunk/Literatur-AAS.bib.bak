@@ -364,6 +364,27 @@
   timestamp = {2009.05.19}
 }
 
+@ARTICLE{OeAG2007,
+  author = {Gemeinsame Erklärung der Deutschen AIDS-Gesellschaft (DAIG) and Osterreichischen
+	AIDS-Gesellschaft (OAG)},
+  title = {[Post-exposure prophylaxis of HIV infection. German-Austrian recommendations,
+	update September 2007]},
+  journal = {Dtsch Med Wochenschr},
+  year = {2009},
+  volume = {134 Suppl 1},
+  pages = {S16--S33},
+  month = {Jan},
+  file = {:./Literatur/OeAG2007.pdf:PDF},
+  keywords = {Animals; Anti-HIV Agents, administration /&/ dosage/adverse effects/therapeutic
+	use; Austria; Drug Therapy, Combination; Germany; HIV Infections,
+	prevention /&/ control/transmission; Humans; Occupational Exposure,
+	adverse effects/prevention /&/ control; Risk Factors; Sexual Behavior;
+	Societies, Medical; Treatment Outcome},
+  owner = {grissu},
+  pmid = {19172552},
+  timestamp = {2009.06.22}
+}
+
 @ARTICLE{Erc2005DeIntro,
   author = {B. Dirks and M. Baubin},
   title = {Moderne Reanimation in Theorie und Praxis -- Die Leitlinien des ERC
@@ -1242,18 +1263,18 @@
   timestamp = {2009.05.19}
 }
 
-@INCOLLECTION{Olschewski2009,
+@INPROCEEDINGS{Olschewski2009,
   author = {Horst Olschewski},
   title = {AGN 2009-18: Evidenz basierte Medizin: Therapie des Asthmaanfalles},
   booktitle = {Abstracts der AGN 2009: 5, Kongress der Arbeitsgemeinschaft für Notfallmedizin
 	4. bis 6. Juni 2009 in Graz, Österreich},
-  publisher = {Springer},
   year = {2009},
   volume = {12},
   number = {4},
   series = {Notfall + Rettungsmedizin},
   pages = {322},
   month = {Juni},
+  publisher = {Springer},
   owner = {grissu},
   timestamp = {2009.06.20}
 }

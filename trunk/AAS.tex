@@ -56,7 +56,7 @@
 
 \usepackage{hhline}
 
-\usepackage[draft]{graphicx} % Bilder-Support
+\usepackage[final]{graphicx} % Bilder-Support
 %\usepackage{ooomath}
 
 
@@ -314,7 +314,8 @@ Entwicklungszweig:
 
 % Warnung: Bildlizenz nicht ok.
 \newcommand{\gAuthNotesPicLegalNotOk}[2]
-	{\gA{Bild: \underline{#1}: Quelle zweifelhaft! #2}}
+	{\gA{{\color{darkBlue}Bild: \underline{#1}: Quelle
+	zweifelhaft! #2}}}
 
 % Info: Bildlizenz ok
 \newcommand\gAuthNotesPicLegalOk[2]
@@ -773,7 +774,7 @@ UrheberG bestimmt. Weitergabe nicht gestattet.
 \begin{multicols}{2}
     
  \paragraph{Josef Emhofer}
-    Mag. phil.
+    Mag. 
     
     Ausbildungszentrum des ASB Floridsdorf-Donaustadt
     
@@ -790,6 +791,11 @@ UrheberG bestimmt. Weitergabe nicht gestattet.
     Medizinischen Aus- und Weiterbildung
     
     Spitalgasse 23, A-1090 Wien
+    
+    \paragraph{David Hauer}
+    Dr. med. univ.
+    
+    Landeskrankenhaus St. Pölten
     
     \paragraph{Lena Hirtler}~
 
@@ -855,8 +861,8 @@ Texmaker
 
  \begin{itemize}
   \item Rohentwurf: Linux (Debian, Gentoo, Ubuntu), MacOS X, MS Windows XP, Vista
-  \item Endproduktion: Ubuntu Linux 8.10 \textit{"`Intrebid
-  Ibex"'}, http://www.ubuntu.com
+  \item Endproduktion: Ubuntu Linux 9.04
+  \textit{"`Jaunty Jackalope"'}, \url{http://www.ubuntu.com}
  \end{itemize}
 
 \end{multicols}

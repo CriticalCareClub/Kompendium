@@ -12,9 +12,10 @@ Changelog:
 bereinigt und gegen Langform ausgetauscht, wie besprochen.}
 
 \setcounter{tocdepth}{10}
-\subsection*{\"Ubersicht}
+\subsection*{Übersicht}
+\mtcsetdepth{minitoc}{3}
 \minitoc
-
+\mtcsetdepth{minitoc}{2}
 
 
 
@@ -24,40 +25,40 @@ bereinigt und gegen Langform ausgetauscht, wie besprochen.}
 %\begin{tabular}{| p{2.2cm} | p{2.2cm} p{2.2cm} p{2.2cm} | p{2.2cm} p{2.2cm}
 % |}\toprule
 
-\begin{table}[h]
+\begin{table}[H]
 \captionabove{Rechtsordnung}
-\begin{tabularx}{\linewidth}[H]{X|XXX|XX}
-\toprule
+\begin{tabularx}{\linewidth}[H]{X X|X|X||X|X||}
 
 & \multicolumn{5}{c}{\gEs{$\Swarrow$ EU-Recht $\Searrow$}} 
-\\\midrule
+\\\addlinespace
 
 & \multicolumn{5}{c}{\gEs{Struktur der \"Osterreichischen Rechtsordnung}} 
-\\\midrule
+\\\addlinespace
 
 { } 
 & \multicolumn{3}{c}{\centering \"Offentliches Recht}
 & \multicolumn{2}{c}{\centering {Privatrecht} } 
-\\\midrule
+\\\hhline{~-----}
 
-Rechts\-gebiete 
+\multicolumn{1}{p{2cm}||}{Rechts\-gebiete }
 & Strafrecht
 & VwR
 & VfR
 & Zivilrecht
-& Sonder\-privat\-rechte \\\midrule
+& Sonder\-privat\-rechte \\\hhline{~-----}
 
-Wichtigste Gesetzesbereiche & 
+\multicolumn{1}{p{2cm}||}{Wichtigste Gesetzesbereiche} & 
 	StGB, StPO &
-		Berufsgesetze,\newline KAKuG, UbG & 
+		Berufs\-ge\-setze,\newline KAKuG, UbG & 
 			BVG; StGG &
 				ABGB & 
 					Arbeits\-rechts\-ge\-setze,
-					Unter\-nehmens\-ge\-setz\-buch\\\bottomrule 
+					Unter\-nehmens\-ge\-setz\-buch\\\hhline{~-----}
 
 \end{tabularx}
 \end{table}
 %\ncbarr[arrows=->]{EU}{OR}
+% TODO REcht: Linien: Dicker statt doppelt
 
 Die \"osterreichische Rechtsordnung ist ein zusammenhängendes Geflecht
 bestehend aus zwei Hauptbereichen, dem \"offentlichen Recht und dem
@@ -72,7 +73,8 @@ unter den B\"urgern (= Privaten) selber:
 
 Durch den Beitritt zur \gE{EU} wurde ein weiterer Gesetzesgeber geschaffen,
 der in beide Rechtsgebiete einwirken kann. Unabhängig davon lässt
-sich jedes von beiden Rechts-gebieten in folgende Bereiche unterteilen:
+sich jedes von beiden Rechts\-ge\-bieten in folgende
+Bereiche unterteilen:
 
 \paragraph*{\"Offentliches Recht}
 
@@ -106,26 +108,26 @@ und das Unternehmensrecht.
 \subsection{Vertragsverhältnis im Rettungswesen}
 
 \begin{figure}[H]
-    \gAuthNotes{KOLC: Graphik gehört rotiert.
-    
-    GABS: ok, dauert aber noch ein bisserl. Wenn Inhalt
-    passt bitte etwas Geduld.}
+%     \gAuthNotes{KOLC: Graphik gehört rotiert.
+%     
+%     GABS: ok, dauert aber noch ein bisserl. Wenn Inhalt
+%     passt bitte etwas Geduld.}
 \begin{center}
 \includegraphics[width=8cm]{./images/recht_vertrag.png}
 \end{center}
 \caption{Vertragsverhältnisse im Rettungsdienst}
 \end{figure}
 Das Rechtsverhältnis im Rettungswesen besteht grundsätzlich aus drei
-Parteien: dem Patienten, der Rettungsorganisation und dem (Not)Arzt
-oder Sanitäter. (In einer Krankenanstalt ist das Verhältnis
-ähnlich, mit dem Unterschied, dass an die Stelle der
+Parteien: dem Patienten, der Rettungsorganisation
+(Einrichtung) und dem (Not-)Arzt oder Sanitäter (Personal).
+(In einer Krankenanstalt ist das Verhältnis ähnlich, mit dem Unterschied, dass an die Stelle der
 Rettungsorganisation die Krankenanstalt und an jene des Sanitäters
 der Krankenpfleger tritt.)
 
 Als wichtigstes Verhältnis in dieser Dreiecksbeziehung ist das
 \gEs{Verhältnis zwischen Patient und
-Rettungsorganisation} zu bezeichnen, da direkter (Vertrags)Partner zum
-Patient niemals der Sanitäter, sondern stets die von ihm vertretene
+Rettungsorganisation} zu bezeichnen, da direkter
+(Vertrags-)Partner zum Patient niemals der Sanitäter, sondern stets die von ihm vertretene
 Organisation ist. Man nimmt nämlich an, dass ein Patient, wenn er eine
 {\quotedblbase}Rettung{\textquotedblleft} verständigt, nicht mit dem
 einzelnen Einsatzpersonal in rechtlichen Kontakt treten m\"ochte,
@@ -136,8 +138,8 @@ kommen:
 
 \begin{itemize}
 	\item {\mdseries
-	\gT{Heilbehandlungsvertrag}: Der Patient selber w\"unscht
-	behandelt zu werden}
+	\gT{ Heilbehandlung svertrag}: Der Patient selber oder sein
+	zuständiger Vertreter	w\"unscht behandelt zu werden}
 
 	\item {\mdseries
 	\gT{Geschäftsf\"uhrung ohne Auftrag im Notfall}: der
@@ -154,22 +156,21 @@ Willen des Patienten vorzugehen und wenn dieser fehlt, nach
 seinem hypothetischen Willen.
 
 Im \gEs{Verhältnis zwischen Patient und
-(Not)Arzt/Sanitäter} fungiert der (Not-)Arzt/\ Sanitäter blo{\ss} als
-Gehilfe zur Erf\"ullung der Pflichten seiner Organisation gegen\"uber
+Personal} fungiert das Personal
+blo{\ss} als Gehilfe zur Erf\"ullung der Pflichten seiner Organisation gegen\"uber
 dem Patienten, wodurch man ihn auch als
 \gT{Erf\"ullungsgehilfen} bezeichnet. Er ist nicht
 Vertragspartner des Patienten, muss aber mit der gleichen Sorgfalt, wie es
-von der Organisation verlangt wird, arbeiten. Kommt es nun zu
-Schädigungen des Patienten durch Handlungen des (Not)Arztes/
-Sanitäters, kann der Geschädigte deliktisch gegen den Erf\"ullungsgehilfen und
-vertraglich gegen die Organisation vorgehen. (IdR. wird der
+von der Organisation verlangt wird, arbeiten. Kommt es zu
+Schädigungen des Patienten durch Handlungen des
+Personals, kann der Geschädigte deliktisch gegen den
+Erf\"ullungsgehilfen und vertraglich gegen die Organisation vorgehen. (IdR. wird der
 Patient die Organisation verklagen, da ihm hierbei aufgrund
 des Vertrages mehrere gesetzliche Erleichterungen zustehen.)
 
-{\mdseries
 Das \gEs{Verhältnis zwischen Rettungsorganisation
-und (Not-)Arzt/Sanitäter} lässt sich auf drei verschiedene Arten
-begr\"unden:}
+und Personal} lässt sich auf drei verschiedene Arten
+begr\"unden:
 
 \begin{itemize}
 \item \gE{Arbeitsvertrag}: Der (Not-)Arzt/Sanitäter ist bei
@@ -185,26 +186,26 @@ Zivildienst bei der Organisation.
 \end{itemize}
 
 Aus diesem Verhältnis heraus m\"ussen manche der Pflichten, welche die
-Org\-anisation gegen\-\"uber dem Patienten treffen, auch durch den
-(Not-)Arzt~/ Sanitäter er\-f\"ullt werden. Gleich\-zeitig treffen auch die
-Org\-anisation und den Sanitäter Rechte und Pflicht im Um\-gang
-mit\-ein\-ander.
+Org\-anisation gegen\-\"uber dem Patienten treffen, auch
+durch das Personal er\-f\"ullt werden. Gleich\-zeitig
+treffen auch die Org\-anisation und das Personal Rechte und
+Pflicht im Um\-gang mit\-ein\-ander.
 
-\subsection{Strafbarkeitspr\"ufung}
+\subsection{Strafbarkeitsprüfung}
 
 \begin{enumerate}
-\item Tatbestandserf\"ullung bzw. Schaden
+\item Tatbestandserfüllung bzw. Schaden
 \item Kausalit\"at
 \item Rechtswidrigkeit
 
 \begin{itemize}
-\item[] {\mdseries
-3.1. Rechtfertigungsgr\"unde:}
+\item {\mdseries
+Rechtfertigungsgr\"unde:}
 
 
 \begin{itemize}
 \item {\mdseries
-Heilbehandlung}
+ Heilbehandlung }
 
 \item {\mdseries
 Einwilligung}
@@ -224,8 +225,8 @@ Anhalterecht Privater}
 \item Verschulden
 
 \begin{itemize}
-\item[] {\mdseries
-4.1. Entschuldigungsgr\"unde:}
+\item{\mdseries
+Entschuldigungsgr\"unde:}
 
 
 \begin{itemize}
@@ -249,36 +250,38 @@ Spiel.
 Erf\"ullung der rechtlichen Beschreibung einer Lebenssituation auf die
 eine Rechtsfolge/Strafe angeordnet wird
 
-\paragraph*{
-Kausalität}
+\paragraph*{Kausalität}
 
 {\mdseries
 Die gesetzte Handlung war der Grund f\"ur den Eintritt der
 Tatbestandserf\"ullung}
 
-\paragraph*{
-Rechtswidrigkeit}
+\paragraph*{Rechtswidrigkeit}
 
 Die gesetzte Handlung war objektiv falsch ${\rightarrow}$ Urteil \"uber
 Tat ${\rightarrow}$ Versto{\ss} gegen gesetzliche Verbote bzw. Gebote,
 vertraglichen Bestimmungen oder die guten Sitten 
 
-\paragraph*{ Rechtfertigungsgr\"unde}
 
- Der begangenen Tat kann kein Urteil gemacht werden, da sich ein
+\begin{description}
+    \item[Rechtfertigungsgr\"unde]  Der begangenen Tat kann kein Urteil gemacht werden, da sich ein
 ma{\ss}gerechter Mensch in  derselben Situation gleich verhalten
 hätte
+\end{description}
+
 
 \paragraph*{Verschulden}
 
 Die gesetzte Handlung war subjektiv falsch ${\rightarrow}$ Urteil \"uber
 Täter
 
-\paragraph*{Entschuldigungsgr\"unde}
-
-\"Uber den Täter kann kein Urteil gemacht werden, da er sich nach
+\begin{description}
+    \item[Entschuldigungsgr\"unde] \"Uber den Täter kann kein Urteil gemacht werden, da er sich nach
 seinen pers\"onlichen   Fähigkeiten und Kenntnissen in dieser
 Situation nicht anders verhalten hätte k\"onnen
+\end{description}
+
+
 
 Die einzelnen Rechtfertigungs- und Entschuldigungsgr\"unde werden in der
 Ausarbeitung {\quotedblbase}Ein langer Dienst{\textquotedblleft}
@@ -286,7 +289,7 @@ separat behandelt.
 
 \section{Ein langer Dienst}
 {\centering
-Eine Geschichte aus 17 Rechtsfällen
+\gEs{{\sffamily\Large Eine Geschichte aus 17 Rechtsfällen}}
 \par}
 
 \paragraph*{Zweck}
@@ -328,19 +331,19 @@ gestaltet:
 \textbf{\textcolor{red}{NA}}tascha, Notärztin
 
  &
-\textbf{\textcolor[rgb]{0.2,0.2,0.6}{Hr. H}}auzu, 1. Patient
+Hr. \gE{Hauzu}, 1. Patient
 
-\textbf{\textcolor[rgb]{0.2,0.2,0.6}{Fr. U}}ninformiert, 2. Patientin
+Fr. \gE{Uninformiert}, 2. Patientin
 
-\textbf{\textcolor[rgb]{0.2,0.2,0.6}{Fr. F}}inito, 3. Patientin
+Fr. \gE{Finito}, 3. Patientin
 
-\textbf{\textcolor[rgb]{0.2,0.2,0.6}{Hr. S}}chmerz, 4. Patient
+Hr. \gE{Schmerz}, 4. Patient
 
-\textbf{\textcolor[rgb]{0.2,0.2,0.6}{Fr. A}}ufgeregt, Angeh\"orige
+Fr. \gE{Aufgeregt}, Angeh\"orige
 
-\textbf{\textcolor[rgb]{0.2,0.2,0.6}{Dr. W}}asbringst, Aufnahmearzt
+Dr. \gE{Wasbringst}, Aufnahmearzt
 
-\textbf{\textcolor[rgb]{0.2,0.2,0.6}{Fr. H}}ilflos, 5. Patientin
+Fr. \gE{Hilflos}, 5. Patientin
 
 \\
 \end{supertabular}
@@ -354,7 +357,7 @@ genie{\ss}en wollen. Doch wie immer an einem solchen Freudentag, ruft
 die Arbeit mit einem ganz normalen Sanitätsdienst und seinen
 typischen Problemen.
 
-\subsection{Teil A: Gefahrenbekämpfung}
+\subsection{Gefahrenbekämpfung}
 
 \subsubsection{Fall 1. Randalierender Patient}
 
@@ -373,35 +376,27 @@ Darf man Hr. Hauzu festhalten? Muss Hr. Hauzu eingewiesen werden?
 
 \paragraph*{Rechtslage}
 
-\subparagraph*{\gEs{Eine Festhaltung ist erlaubt nach folgenden Paragraphen}:}
+\gEs{Eine Festhaltung \underbar{darf} erfolgen nach
+folgenden Gesichtspunkten}:
 
 \begin{itemize}
-\item Notwehr\marginpar{\gZ{\S 3 StGB}}: Abwehr eines Angriffes auf ein eigenes oder
-fremdes Rechtsgut, wenn:
+\item Notwehr \gZ{\S 3 Abs.~1 StGB}: Abwehr eines Angriffes
+auf ein eigenes oder fremdes Rechtsgut, wenn:
 
 
 \begin{itemize}
-\item {\mdseries
-gegenwärtig oder unmittelbar drohender Angriff,}
-
-\item {\mdseries
-rechtswidrig,}
-
-\item {\mdseries
-von Menschen gesetzt,}
-
-\item {\mdseries
-auf ein notwehrfähiges Gut (= Leben, Gesundheit, Freiheit oder
-Verm\"ogen) und}
-
-\item {\mdseries
-das Gelindeste der zur verlässlichen Abwehr verf\"ugbaren Mittel
-verwendet wird}
+\item gegenwärtig oder unmittelbar drohender Angriff,
+\item rechtswidrig,
+\item von Menschen gesetzt,
+\item auf ein notwehrfähiges Gut (= Leben, Gesundheit, Freiheit oder
+Verm\"ogen) und
+\item das Gelindeste der zur verlässlichen Abwehr verf\"ugbaren Mittel
+verwendet wird.
 
 \end{itemize}
 \end{itemize}
 \begin{itemize}
-\item Notwehr\"uberschreitung im Affekt\marginpar{\gZ{{\S}~3 Abs. 2 StGB}}:
+\item Notwehr\"uberschreitung im Affekt \gZ{{\S}~3 Abs. 2 StGB}:
 \begin{itemize}
 \item {\mdseries
 Sollten Alex, Sepp und Bernd fälschlich einen Agriff angenommen haben,
@@ -412,16 +407,17 @@ ma{\ss}gerechte Person sich gleich verhalten hätte. }
 \end{itemize}
 
 \begin{itemize}
-\item  Anhalterecht Privater\marginpar{\gZ{\S 86 Abs. 2 StPO}}: Festhaltung bei Verdacht
-auf eine gerichtlich strafbare Handlung, welche im vorliegenden Fall
+\item  Anhalterecht Privater \gZ{\S 86 Abs. 2 StPO}:
+Festhaltung bei Verdacht auf eine gerichtlich strafbare Handlung, welche im vorliegenden Fall
 die Gefahr einer K\"orperverletzung (KV) iSd. {\S}{\S} 83 ff StGB und
 die Sachbeschädigung iSd. {\S} 125 StGB darstellt. Dabei darf nur auf
 angemessene Weise (N\"otigung und leichte KV) angehalten werden, wenn
 unverz\"uglich f\"ur eine Meldung an die Polizei gesorgt wird.
 
 \end{itemize}
-{\mdseries
-\gEs{Eine Unterbringung \gE{muss} erfolgen, nach folgenden Gesichtspunkten}:}
+
+\gEs{Eine Unterbringung \underbar{muss} erfolgen, nach
+folgenden Gesichtspunkten}:
 
 \begin{itemize}
 \item \gZ{{\S} 3}~Unterbringungsgesetz (UbG):
@@ -434,21 +430,19 @@ unverz\"uglich f\"ur eine Meldung an die Polizei gesorgt wird.
 \end{enumerate}
 \end{itemize}
 \begin{itemize}
-\item[] zu der Feststellung von a) und b) ben\"otigt es das Gutachten eines
+\item zu der Feststellung von a) und b) ben\"otigt es das Gutachten eines
 \gE{Amtsarztes}, welcher der Bezirksverwaltungsstelle (in Wien die MA 15)
 unterstellt ist und \"uber die Polizei zu verständigen ist. Der
-Amtsarzt darf aber nur die {\quotedblbase}Zuweisung{\textquotedblleft}
-bis zur Krankenanstalt (= KA) bestimmen, da erst in der Krankenanstalt von 2
-Fachärzten der Psychiatrie die eigentliche
-{\quotedblbase}Einweisung{\textquotedblleft} verf\"ugt wird. Während
-der Untersuchung und dem Transport darf auch Zwang angewendet werden,
+Amtsarzt darf die {\quotedblbase}Zuweisung{\textquotedblleft}
+bis zur Krankenanstalt bestimmen, in der Krankenanstalt
+wird von 2 Fachärzten der Psychiatrie die eigentliche
+{\quotedblbase}Einweisung{\textquotedblleft} verf\"ugt. Während
+der Untersuchung und dem Transport darf Zwang angewendet werden,
 aber nur durch die gelindesten zur Erfolgsherbeif\"uhrung m\"oglichen
-Mittel bei Beachtung der Mittel-Ziel-Relation (= 
-Verhältnismä{\ss}igkeitsgrundsatz).
+Mittel bei Beachtung der Mittel-Ziel-Relation (=\,Verhältnismä{\ss}igkeitsgrundsatz).
 
 \end{itemize}
-\paragraph*{
-Rechtsfolge}
+\paragraph{Rechtsfolge}
 
 \begin{itemize}
 \item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
@@ -463,7 +457,7 @@ vor Fremdschutz (bzw. \"ubertriebenen Heldenmut).}
 
 \end{itemize}
 \subsubsection{Fall 2. Gefahr durch Hund}
-\paragraph*{Sachverhalt}
+\paragraph{Sachverhalt}
 
 Kaum hat Hr. Hauzu geh\"ort, dass die Polizei und der Amtsarzt
 verständigt wurden, st\"urmt er zu einem kleinen Nebenzimmer in
@@ -472,30 +466,29 @@ seiner Gemeindebauwohnung, \"offnet die T\"ur und lässt einen
 Dobermann-Kampfhund heraus. Mit fletschenden Zähnen nähert er sich
 den Sanitätern und droht jeden Moment anzugreifen.
 
-\paragraph*{Rechtsfrage}
+\paragraph{Rechtsfrage}
 Was darf gegen den Hund getan werden?
 
-\paragraph*{Rechtslage}
+\paragraph{Rechtslage}
 
 \begin{center}
 \begin{tabularx}{\textwidth}[H]{XX}
 \toprule
 \gEs{Rechtfertigender Notstand}
 &
-\gEs{Entschuldigender Notstand}\footnote{{\S}\,10
-StGB; {\S}\,1306a ABGB}
+\gEs{Entschuldigender Notstand}
 \\\midrule
-
 \begin{itemize}
-    \item {\mdseries in keinem Gesetz aufgezeichnet; wird aber einheitlich
-    angenommen}
-    \item {\mdseries anzuwenden wenn die Gefahr auch tatsächlich
-    (objektiv) vorliegt}
+    \item in keinem Gesetz aufgezeichnet; wird aber einheitlich
+    angenommen
+    \item anzuwenden wenn die Gefahr auch tatsächlich
+    (objektiv) vorliegt
 \end{itemize}
 &
 \begin{itemize}
-    \item {\mdseries anzuwenden wenn man die Gefahr blo{\ss} subjektiv
-    annimmt }
+    \item {\S}\,10 StGB; {\S}\,1306a ABGB
+    \item anzuwenden wenn man die Gefahr blo{\ss} subjektiv
+    annimmt
 \end{itemize}
 \\\midrule
 
@@ -552,9 +545,9 @@ Praxistipp: Schon vor Betreten der Wohnung sollte ein Hund von seinem
 Besitzer in einen  separaten Raum weggesperrt werden.
 \end{quotation}
 
-\subsection{Teil B: Heilbehandlung}
+\subsection{ Heilbehandlung }
 
-\subsubsection{Fall 3. Blutzuckermessung = Heilbehandlung}
+\subsubsection{Fall 3. Blutzuckermessung =  Heilbehandlung }
 \paragraph*{Sachverhalt}
 
 Durch die rechtzeitig eintreffende Polizei, kann die Gefahr durch den
@@ -564,28 +557,28 @@ gewissenhaft wie er ist, einen vollen Neuro-Check mit einem
 Blutzuckertest durchf\"uhren.
 
 \paragraph*{Rechtsfrage}
-Wann liegt eine Heilbehandlung (= HB) vor? Darf der Blutzuckertest
+Wann liegt eine  Heilbehandlung  (= HB) vor? Darf der Blutzuckertest
 durchgef\"uhrt werden?
 
 \paragraph*{Rechtslage}
 
-\gT{Heilbehandlung}:
+\gT{ Heilbehandlung }:
 Wird gewonnen aus allgemeinen Rechtsgrundsätzen und der systematischen
 Betrachtung der gesamten Rechtsordnung.
 
 \subparagraph*{Voraussetzung:}
 
 \begin{itemize}
- \item medizinisch indiziert (= HB ist zur Diagnose oder Linderung von Erkrankungen und/oder Verletzungen notwendig)
- \item lege artis durchgef\"uhrt (= HB entspricht dem geltenden Stand der Wissenschaft)
+ \item medizinisch indiziert (= Heilbehandlung ist zur Diagnose oder Linderung von Erkrankungen und/oder Verletzungen notwendig)
+ \item lege artis durchgef\"uhrt (= Heilbehandlung entspricht dem geltenden Stand der Wissenschaft)
  \item durchzuf\"uhren nach Aufklärung des Patienten
  (${\rightarrow}$ siehe ad 4.)
 \end{itemize}
 
-${\rightarrow}$ das Vorliegen einer HB wird als Rechtfertigung f\"ur
+${\rightarrow}$ das Vorliegen einer Heilbehandlung wird als Rechtfertigung f\"ur
 alle Einwirkungen am Patienten gewertet
 
-${\rightarrow}$ wer die Voraussetzungen der HB nicht einhält macht
+${\rightarrow}$ wer die Voraussetzungen der Heilbehandlung nicht einhält macht
 sich strafbar nach:
 
 \begin{itemize}
@@ -595,14 +588,14 @@ sich strafbar nach:
  \begin{itemize}
   \item a) \gEs{K\"orperverletzung} - {\S}{\S} 83 ff StGB: Sonderfall der HB-Voraussetzungen: es ben\"otigt nur med. Indikation und lege artis Durchf\"uhrung; die Aufklärung ist hierf\"ur irrelevant
 
-  \item b) \gEs{Eigenmächtige Heilbehandlung} - {\S} 110 StGB: siehe ad 4.
+  \item b) \gEs{Eigenmächtige  Heilbehandlung } - {\S} 110 StGB: siehe ad 4.
 
  \end{itemize}
 
  \item Zivilrecht:
 
  \begin{itemize}
-  \item a) \gEs{Schadenersatzanspr\"uche} - {\S}{\S} 1293 ff ABGB: die HB muss alle drei Voraussetzungen erf\"ullen (auch Aufklärung); Umfang des Schadenersatzes siehe ad 11.
+  \item a) \gEs{Schadenersatzanspr\"uche} - {\S}{\S} 1293 ff ABGB: die Heilbehandlung muss alle drei Voraussetzungen erf\"ullen (auch Aufklärung); Umfang des Schadenersatzes siehe ad 11.
  \end{itemize}
 
 \end{itemize}
@@ -621,12 +614,12 @@ zu lies.}
 \begin{itemize}
 	\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
 	Da ein kompletter Neuro-Check bei einem neurologisch
-	auffallenden Patienten medizinisch indiziert und
+	auffälligen Patienten medizinisch indiziert und
 	gesetzlich erlaubt ist, darf jeder der drei Sanitäter eine solche Ma{\ss}nahme lege artis durchf\"uhren. Eine
 	Aufklärung ist aufgrund der mangelnden Einsichts- und
 	Urteilsfähigkeit nicht m\"oglich.}
 \end{itemize}
-\subsection{Teil C: Selbstbestimmungsrecht}
+\subsection{Selbstbestimmungsrecht}
 
 \subsubsection{Fall 4. Aufklärung und Einwilligung}
 
@@ -670,8 +663,7 @@ Einwilligung erfolgen und wenn ja, in welcher Form?
 	\item {\mdseries
 	vor Setzung der Ma{\ss}nahme,}
 
-	\item {\mdseries
-	wenn er einsichts- und urteilsfähig ist.}
+	\item wenn er einsichts- und urteilsfähig ist.
 
 \end{itemize}
 
@@ -718,89 +710,74 @@ Einwilligung erfolgen und wenn ja, in welcher Form?
 		Rolle in der Erziehung des Patienten spielt (im Zweifel
 		die Mutter) oder das \index{Pflegschaftsgericht}Pflegschaftsgericht ist anzurufen
 
-		\item lehnen beide ab, obwohl es sich um eine notwendige HB handelt, muss das
+		\item lehnen beide ab, obwohl es sich um eine notwendige Heilbehandlung handelt, muss das
 		Pflegschaftsgericht angerufen werden
 \end{itemize}
 \end{itemize}
 \subparagraph*{\gEs{Umfang der Aufklärung}:}
 
 \begin{itemize}
-	\item {\mdseries
-	Grundsatz: Die Aufklärung hat in jenem Rahmen zu erfolgen, der einer
+	\item 	Grundsatz: Die Aufklärung hat in jenem Rahmen zu erfolgen, der einer
 	ma{\ss}gerechten Figur unter Ber\"ucksichtigung der individuellen
 	Besonderheiten des Patienten und der Situation gerecht
-	wird.}
+	wird.
 
 	\item Detail:
 	
 
 	\begin{itemize}
 	
-		\item Umfang und Tragweite der HB
-
-		\item Folgen, Gefahren und Nebenwirkungen der HB
-	
-		\item \"uber Umstände die f\"ur verständigen Patienten ins
+		\item Umfang und Tragweite der  Heilbehandlung 
+		\item Folgen, Gefahren und Nebenwirkungen der
+		 Heilbehandlung 
+		\item Umstände die f\"ur verständigen Patienten ins
 		Gewicht fallen w\"urden
 
-		\item umgekehrte Proportion zur Dringlichkeit der HB
+		\item umgekehrte Proportion zur Dringlichkeit der
+		 Heilbehandlung 
 
 	\end{itemize}
 \end{itemize}
 
 \subparagraph*{\gEs{Unterlassen der Aufklärung}:}
-Unterbleibt die Aufklärung wird angenommen, dass dem Patient die
-Tragweite der Ma{\ss}nahmen nicht bewusst ist und er daher nicht in die
-HB einwilligt. 
+Unterbleibt die Aufklärung, wird angenommen, dass dem
+Patient die Tragweite der Ma{\ss}nahmen nicht bewusst ist und er daher nicht in die
+Heilbehandlung einwilligt. 
 
 \subparagraph*{\gEs{Besonderheit }\gT{\index{Revers}Revers}:}
 
 \begin{itemize}
 	\item Was ist der \gT{Revers}?
-
 	\begin{itemize}
 	\item {\mdseries
 	Der Revers ist eine schriftliche Dokumentierung \"uber die Aussage des
 	Patient, eine vom Einsatz\-personal empfohlenen Ma{\ss}nahme
 	abzulehnen. Die Verweigerung kann auch vom zuständigen Vertreter des
 	Patienten abgegeben werden.}
-
-	\end{itemize}
-	
+	\end{itemize}	
 \end{itemize}
 \begin{itemize}
-
 	\item Welche Voraussetzungen hat der Revers?
-	
 	\begin{itemize}
-
 		\item auszuf\"ullen nach umfassender Aufklärung des Patienten
-
 		\item Schriftlichkeit (Transportschein, Reversschein oder beigelegtes
 		Dokument)
-
 		\item Unterschrift des Patienten (oder seines zuständigen Vertreters)
-	
 	\end{itemize}
 \end{itemize}
 \begin{itemize}
 	\item Wann und warum ist der Revers notwendig?
-
 	\begin{itemize}
-	
 		\item {\mdseries
 		 wenn das Einsatzpersonal eine Ma{\ss}nahme f\"ur notwendig erachtet,
 		der Patienten  (oder sein zuständiger Vertreter) diese Ma{\ss}nahme
 		aber verweigert}
-
 		\item zur Einhaltung der gesetzlichen Dokumentationspflicht und zur Abwendung
 		von  klagsweise geltendmachbaren Anspr\"uchen des Patienten
-
 	\end{itemize}
 \end{itemize}
 %\end{multicols}
 
-Diese Punkte f\"uhrt zu folgenden Rechtsfolgen:
 
 \paragraph*{Rechtsfolgen}
 
@@ -810,7 +787,7 @@ folgenden Bestimmungen:
 \begin{itemize}
 	\item \gEs{Strafrecht}:
 	\begin{itemize}
-		\item Eigenmächtige Heilbehandlung ({\S} 110 StGB): 
+		\item Eigenmächtige  Heilbehandlung  ({\S} 110 StGB): 
 		\begin{itemize}
 			\item nur bei {\quotedblbase}Gefahr in Verzug{\textquotedblleft}\marginlabel{Gefahr in Verzug: \gE{unmittelbar} drohende oder
 			gegenwärtige Gefahr, die ein Abwarten nicht zulässt bzw.
@@ -818,23 +795,20 @@ folgenden Bestimmungen:
 			keine Aufklärung bzw. Einwilligung und es d\"urfen alle nach Ansicht
 			der Einsatzkräfte direkt notwendigen Ma{\ss}nahmen gesetzt werden
 		\end{itemize}
-	
-
-		\item K\"orperverletzung \footnote{({\S}{\S} 83 ff StGB)}:
+		\item K\"orperverletzung \gZ{({\S}{\S} 83 ff StGB)}:
 		\begin{itemize}
-			\item keine Strafbarkeit, solange die HB medizinische indiziert und lege artis
+			\item keine Strafbarkeit, solange die Heilbehandlung medizinische indiziert und lege artis
 			durchgef\"uhrt wurde
 		\end{itemize}
 	\end{itemize}
-
 	\item \gEs{Zivilrecht}:
 	\begin{itemize}
 		\item 
-		Schadenersatz wegen K\"orperverletzung \footnote{\gZ{({\S}{\S} 1293 ff ABGB)}}:
+		Schadenersatz wegen K\"orperverletzung \gZ{({\S}{\S} 1293 ff ABGB)}:
 
 		\begin{itemize}
 			\item {f\"ur das Zivilrecht ist die Einwilligung aufgrund einer Aufklärung
-			notwendige Voraussetzung f\"ur die rechtfertigende HB ${\rightarrow}$
+			notwendige Voraussetzung f\"ur die rechtfertigende Heilbehandlung ${\rightarrow}$
 			mangelt es an ihr, kann Schadenersatz verlangt werden}
 
 		\end{itemize}
@@ -846,13 +820,11 @@ folgenden Bestimmungen:
 Patientenverf\"ugung}\label{topic:patientenverfuegung}
 \paragraph*{Sachverhalt}
 
-{\mdseries
 Nach Ablieferung der Fr. Uninformiert drängt Alex seine Kollegen zu
 einer schnellen Abfahrt, um endlich seinen Kaffee zu bekommen. Doch
 macht ihm der Journaler schon wieder einen Strich durch die Rechnung,
-als er das Team zu einem weiteren BO beruft. }
+als er das Team zu einem weiteren BO beruft.
 
-{\mdseries
 Dieser liegt in einem kleinen Pflegeheim, indem eine aufgeregte
 Heimpflegerin auf Alex, Sepp und Bernd zust\"urmt und sie zu der 70
 jährigen, regungslosen Patientin, Fr. Finito, bringt.
@@ -863,7 +835,7 @@ Wiederbelebungsma{\ss}nahmen gesetzt werden{\textquotedblleft}
 d\"urfen. Deshalb hatte die Pflegerin es bis jetzt auch unterlassen mit
 einer Reanimation zu beginnen. Da sie aber ebenso nicht wei{\ss}, ob
 die Verf\"ugung bindend ist, rief sie die Rettung und setzte sich
-wartend neben die Patientin.}
+wartend neben die Patientin.
 
 \paragraph*{Rechtsfrage}
 
@@ -884,7 +856,7 @@ Was ist eine Patientenverf\"ugung? Ab wann und wie weit ist sie bindend?
 	kann}
 
 	\item {\mdseries
-	nur Ablehnung einer bestimmten HB kann Inhalt der Verf\"ugung sein}
+	nur Ablehnung einer bestimmten Heilbehandlung kann Inhalt der Verf\"ugung sein}
 
 	\item unbeachtlicher Inhalt:
 
@@ -914,7 +886,7 @@ Was ist eine Patientenverf\"ugung? Ab wann und wie weit ist sie bindend?
 		aufgrund einer umfassenden Aufklärungen durch einen Arzt}
 
 		\item {\mdseries
-		Inhalt muss eine konkrete HB ablehnen ${\rightarrow}$ allgemeine oder
+		Inhalt muss eine konkrete Heilbehandlung ablehnen ${\rightarrow}$ allgemeine oder
 		widerspr\"uchliche Formulierungen f\"uhren zur Unwirksamkeit}
 
 		\item {\mdseries
@@ -971,7 +943,8 @@ Was ist eine Patientenverf\"ugung? Ab wann und wie weit ist sie bindend?
 	\end{itemize}
 \end{itemize}
 
-\subparagraph*{\gEs{Suche nach Patientenverf\"ugung} - {\S} 12 PatVG:}
+\subparagraph*{\gEs{Suche nach Patientenverf\"ugung} --
+\gZ{{\S} 12 PatVG:}}~
 
 Bei Notfallversorgungen muss nicht nach einer Verf\"ugung gesucht
 werden, wenn die Suche das Leben oder die Gesundheit des Pat ernstlich
@@ -995,11 +968,11 @@ Verpflichtung zur Suche, sondern zur Behandlung bestehen.
 	Verf\"ugung kann kein konkreter und aktueller Wille der
 	Patientin erkannt werden, was dazu f\"uhrt, dass das Wohl
 	der Patientin das oberste Gebot bleibt. Mit einer
-	Reanimation ist zu beginnen (wenn \"uberhaupt noch erfolgreich).}
+	Reanimation ist zu beginnen.}
 
 \end{itemize}
 
-\subsection{Teil D: Rechte und Pflichten des Sanitäters}
+\subsection{Rechte und Pflichten des Sanitäters}
 
 \subsubsection{Fall 6. Unterlassung der Notarztnachforderung}
 
@@ -1019,13 +992,17 @@ Nach nur kurzer Anfahrtszeit begegnet Alex, Sepp und Bernd im ersten
 Stock eines kleinen Reihenhaus der 55 jährige, adip\"ose Hr. Schmerz
 mit Schmerzen hinter der Brust, die in den linken Arm ausstrahlen und
 ihm selbst in Ruhelage mit Atemnot und kalten Schwei{\ss}ausbr\"uchen
-plagen. F\"ur Sepp ist sofort klar, dass es sich um einen MCI handelt
-und m\"ochte schleunigst einen NEF nachfordern. Doch Alex meint
-hingegen, dass er keine Lust hätte schon wieder auf einen
-{\quotedblbase}Boder\footnote{"Bader": fr\"uher Kundiger der Heilbäder, heute umgangssprl. f\"ur Arzt}{\textquotedblleft} zu warten und der Patient auch
-selbst runter zum Fahrzeug gehen sollte, da er es im Kreuz hätte und
-sowieso noch eine ca. 20 Min. lange Anfahrtszeit zur Krankenanstalt
-durch den schon einsetzende Morgenstau bewältigen m\"usste.
+plagen. F\"ur Sepp ist sofort klar, dass es sich um einen
+MCI\footnote{\gE{MCI}: Myocardinfarkt: Herzinfarkt.} handelt.
+Er m\"ochte schleunigst einen NEF nachfordern, doch Alex
+meint, dass er keine Lust hätte schon wieder auf
+einen {\quotedblbase}Boder\footnote{"Bader": fr\"uher
+Kundiger der Heilbäder, heute umgangssprl. f\"ur
+Arzt}{\textquotedblleft} zu warten und der Patient auch
+selbst runter zum Fahrzeug gehen sollte, da er es im Kreuz
+hätte und sowieso noch eine ca. 20 Minuten lange
+Anfahrtszeit zur Krankenanstalt durch den schon einsetzende Morgenstau
+bewältigen m\"usste.
 
 \paragraph*{Rechtsfrage}
 
@@ -1120,67 +1097,43 @@ Verzug}) \"uberschreiten?
 
 	\end{itemize}
 
-	\item {\mdseries
-	\gT{NFS} - \gZ{{\S} 10} SanG:}
+	\item \gT{NFS} - \gZ{{\S} 10} SanG:
 
 	\begin{itemize}
-		\item {\mdseries
-		Z 1: Tätigkeiten gem. {\S} 9}
-
-		\item {\mdseries
-		Z 2: Unterst\"utzung des Arztes; Betreuung von Transporten}
-
-		\item {\mdseries
-		Z 3: Verabreichung der Arzneimittelliste 1}
-
-		\item {\mdseries
-		Z 4: eigenverantwortliche Betreuung von berufsspezifischen
-		Medizinprodukten und Arzneimittel}
-
-		\item {\mdseries
-		Z 5: Mitarbeit in Forschung}
-
-
-		\item[] {\mdseries
-		\gE{Arzneimittelliste 1}: Wird festgelegt von dem
-		leitenden Arzt der Rettungsorganisation. Die Verabreichung kann
+		\item Z 1: Tätigkeiten gem. {\S} 9
+		\item Z 2: Unterst\"utzung des Arztes; Betreuung von Transporten
+		\item 
+		Z 3: Verabreichung der \gEs{Arzneimittelliste 1}: 
+		Wird vom leitenden Arzt der Rettungsorganisation
+		festgelegt . Die Verabreichung kann
 		durchgef\"uhrt werden ohne dass ein NA informiert werden muss oder es
-		ein solcher anordnet.}
+		ein solcher anordnet.
+		\item Z 4: eigenverantwortliche Betreuung von berufsspezifischen
+		Medizinprodukten und Arzneimitteln
+		\item 	Z 5: Mitarbeit in Forschung
 	\end{itemize}
-	
-	\item {\mdseries
-	\gT{NKA} - \gZ{{\S} 11 Abs. 1 Z 1} SanG:
+	\item \gT{NKA} - \gZ{{\S} 11 Abs. 1 Z 1} SanG:
 	zusätzlich zu den oben genannten Kompetenzen darf der NKA jene
-	Medikamenten der Arzneimittelliste 2 verabreichen, die ohne ven\"osen
-	Zugang verabreicht werden k\"onnen.}
-
-	\item {\mdseries
+	Medikamente der Arzneimittelliste 2 verabreichen, die ohne ven\"osen
+	Zugang verabreicht werden k\"onnen.
+	
+	Die \gEs{Arzneimittelliste 2} wird vom leitenden
+		Arzt der Rettungsorganisation festgelegt und darf erst
+		verabreicht werden:
+			\begin{itemize}
+		\item auf Anweisung durch anwesenden Arzt (jeder mit jus
+		practicandi -- nicht unbedingt NA) oder
+		\item
+		nach Verständigung eines Notarztes.
+	\end{itemize}
+	\item 
 	\gT{NKV} - \gZ{{\S} 11 Abs. 1 Z 2} SanG:
 	zusätzlich zu den oben genannten Kompetenzen darf der NKV jene
 	Medikamenten der Arzneimittelliste 2 verabreichen, die \"uber ven\"osen
-	Zugang verabreicht werden k\"onnen.}
-
-	\begin{itemize}
-		\item {\mdseries
-		Arzneimittelliste 2: Wird festgelegt vom leitenden Arzt der
-		Rettungsorganisation, und darf erst verabreicht werden:}
-	\end{itemize}
-	
-	\begin{itemize}
-		\item {\mdseries
-		auf Anweisung durch anwesenden Arzt (jeder mit jus practicandi -- nicht
-		unbedingt NA) oder}
-
-		\item {\mdseries
-		nach Verständigung eines Notarztes.}
-
-	\end{itemize}
-
-	\item {\mdseries
-	\gT{NKI} - \gZ{{\S} 12 SanG}:
+	Zugang verabreicht werden k\"onnen.
+	\item 	\gT{NKI} - \gZ{{\S} 12 SanG}:
 	Durchf\"uhrung einer endotrachealen Intubation samt Beatmung, aber ohne
-	Prämedikation}
-		
+	Prämedikation
 	\begin{itemize}
 		\item {\mdseries
 		NKI-Kompetenz muss alle 2 Jahre rezertifiziert werden}
@@ -1293,7 +1246,7 @@ gewonnen werden aus:
 	Nichtigkeitsgebot bei Sittenwidrigkeit des {\S} 879 ABGB}
 
 	\item {\mdseries
-	analoger Anwendung des ZDG }
+	analoger Anwendung des Zivildienstgesetz (ZDG) }
 
 \end{itemize}
 
@@ -1332,7 +1285,7 @@ Besteht eine Dokumentationspflicht und wenn ja, in welchem Umfang?
 
 \paragraph*{Rechtslage}
 
-\gZ{{\S}~5}\gEs{ SanG}:
+\gZ{{\S}\,5} \gEs{SanG}:
 {\quotedblbase}\gC{Sanitäter haben [{\dots}] die von
 ihnen gesetzten Ma{\ss}nahmen zu dokumentieren.}{\textquotedblleft}
 
@@ -1341,8 +1294,8 @@ ihnen gesetzten Ma{\ss}nahmen zu dokumentieren.}{\textquotedblleft}
 Im \"osterreichischen Recht hat grundsätzlich der Kläger den
 Schaden, die Rechtswidrigkeit und das Verschulden des Beklagten zu
 beweisen. Besteht aber zwischen Kläger und Beklagten ein Vertrag, so
-wird gem. {\S} 1298 AGBG das Verschulden des Beklagten angenommen bzw.
-der Beklagte muss beweisen, dass ihn kein Verschulden trifft (=
+wird gem. \gZ{{\S}\,1298} AGBG das Verschulden des Beklagten
+angenommen bzw. der Beklagte muss beweisen, dass ihn kein Verschulden trifft (=
 \index{Beweislastumkehr}\gT{Beweislastumkehr}). 
 
 Im Rettungswesen besteht zu jedem Patient ein \index{Behandlungsvertrag}\gT{Behandlungsvertrag}, der eine
@@ -1379,12 +1332,12 @@ Grundsatz: Alles darf dokumentiert werden, es darf aber nicht Nichts
 dokumentiert werden. 
 \end{quotation}
 
-\subparagraph*{Durchf\"uhrung der Dokumentation}:
+\subparagraph*{Durchf\"uhrung der Dokumentation:}
 Die Dokumentation soll vorrangig am Transportschein selbst oder wenn
 nicht mehr ausreichend auf einem beigelegten Blatt Papier erfolgen.
 Verweigert der Patient medizinische oder sonst notwendige
 Ma{\ss}nahmen, ist von ihm ein Revers zu unterschreiben, der dem
-Transportschein beizulegen ist. Dabei hat der Sanitäter zusätzlich
+Transportschein beizulegen ist. Dabei hat der Sanitäter
 immer (!) durch ein Gespräch auf m\"ogliche Risiken und Gefahren der
 Verweigerung hinzuweisen.
 
@@ -1549,7 +1502,8 @@ einmal die Stundenzahl ansammeln. Weiters muss ein Sanitäter keine
 bestimmten Themen als Fortbildungen besuchen, sondern kann nach seinem
 Interesse vorgehen.
 
-\subparagraph*{\gEs{Fortbildungspflicht nach} \gZ{{\S}~8}3 \gEs{MPG}:}
+\subparagraph*{\gEs{Fortbildungspflicht nach} \gZ{{\S}\,83}
+\gEs{MPG}:}
 
 Die im Rettungswesen verwendeten Materialien gelten, abgesehen von
 Arzneimitteln, als Medizinprodukte und d\"urfen daher iSd. MPG nur von
@@ -1600,7 +1554,7 @@ Jahre Rahmens einmal \"uber die Intubation pr\"ufen lassen.
 
 \end{itemize}
 
-\subsection{Teil E: Schadenersatz}
+\subsection{Schadenersatz}
 
 \subsubsection{Fall 12. Verletzung des Patienten durch
 Sanitäter:}
@@ -1619,8 +1573,8 @@ aufgeschreckte Katze des Hr. Schmerz an den beiden
 {\quotedblbase}Trägern{\textquotedblleft} vorbei, wodurch der
 vorangehende Bernd seine Konzentration verliert, ausrutscht und samt
 dem Patient seitlich nach vorne auf einen Kasten und die
-darunter sich versteckende Katze fällt. Bernd kann sich beim Sturz wenigsten selber
-abst\"utzen und bleibt (auch durch die abfedernde Wirkung der Katze)
+darunter sich versteckende Katze namens \emph{"`Muschi"'}
+fällt. Bernd kann sich beim Sturz wenigsten selber abst\"utzen und bleibt (auch durch die abfedernde Wirkung der Katze)
 unverletzt. Doch Hr. Schmerz prallt mit Schädel und Brustkorb
 ungesch\"utzt gegen den Kasten und wird unter dem hinter ihm
 nachkommenden Tragsessel begraben. Er zieht sich neben einer RQW auf
@@ -1769,11 +1723,11 @@ Sachbeschädigung}:
 
 \begin{itemize}
 	\item {\mdseries\color[rgb]{0.0,0.0,0.5019608}
-	gleiche L\"osung wie unter ad 12.}
+	gleiche L\"osung wie bei Fall 12.}
 
 \end{itemize}
 
-\subsection{Teil F: Behandlungspflicht}
+\subsection{Behandlungspflicht}
 
 \subsubsection{Fall 14. Behandlungspflicht von Krankenanstalten, \"Arzten,
 Sanitätern und Durchschnittsb\"urgern:}
@@ -1786,20 +1740,21 @@ Schmerz die Anwesenden mit wilden Gestikulierungen. Als er dann
 wenigstens von Alex und Sepp vorbildlich versorgt wird, beruhigt sich
 Hr. Schmerz und lässt sich sogar m\"uhelos ins Auto transportieren. 
 
-Nach ausreichender Versorgung des Hr. Schmerz begibt sich der RTW auf
-die Reise zur Krankenanstalt. Doch ist leider das einzig abbuchbare Bett, welches
-neben einer Internen- auch eine Unfall-Ambulanz aufzuweisen hat, im
-Wilhelminenspital, welches durch den gro{\ss}en Morgenstau gute 15 Min.
-entfernt ist. Schon nach kurzer Fahrzeit klagt Hr. Schmerz \"uber
+Nach ausreichender Versorgung des Hr. Schmerz begibt sich der
+RTW auf die Reise zur Krankenanstalt. Doch ist leider das
+einzig abbuchbare Bett, welches neben einer Internen- auch
+eine Unfall-Ambulanz aufzuweisen hat, im Wilhelminenspital,
+welches durch den gro{\ss}en Morgenstau gute 15 Min. entfernt
+ist. Schon nach kurzer Fahrzeit klagt Hr. Schmerz \"uber
 stärker werdende Atemprobleme und ein rasselndes, brodelndes
-Atemgeräusch t\"ont durch den gesamten Patientenraum. Es hat sich ein
-kardiales Lungen\"odem gebildet und 
-
-Natascha f\"uhlt sich, trotz Verabreichung von Diuretika, nicht mehr in
-der Lage den Patient während der Fahrt ausreichend zu behandeln. Alex
-soll so schnell wie m\"oglich das nächste Spital anfahren. Durch eine
-kurze Abweichung der Route, gelangt das Team zum AKH und prescht mit
-dem Patient zur nicht vorinformierten Aufnahme. 
+Atemgeräusch t\"ont durch den gesamten Patientenraum. Es hat
+sich ein kardiales Lungen\"odem gebildet und Natascha f\"uhlt
+sich, trotz Verabreichung von Diuretika, nicht mehr in der
+Lage den Patient während der Fahrt ausreichend zu behandeln.
+Alex soll so schnell wie m\"oglich das nächste Spital
+anfahren. Durch eine kurze Abweichung der Route, gelangt das
+Team zum AKH und prescht mit dem Patient zur nicht
+vorinformierten Aufnahme.
 
 Der dortige Aufnahmearzt Dr. Wasbringst hat schon einen 22 Stunden
 Dienst hinter sich und ist alles andere als erfreut \"uber das
@@ -1810,11 +1765,11 @@ die Aufnahme des Hr. Schmerz.
 
 \paragraph*{Rechtsfrage}
 
-Besteht eine \gE{Behandlungspflicht} f\"ur Krankenanstalten? Besteht eine
+Besteht eine Behandlungspflicht f\"ur Krankenanstalten? Besteht eine
 Behandlungspflicht f\"ur medizinische Berufe? Besteht eine
 ersthelferische Versorgungspflicht f\"ur den Durchschnittsb\"urger?
 
-\paragraph*{	Rechtslage}
+\paragraph*{Rechtslage}
 
 \begin{itemize}
 \item {\mdseries
@@ -1835,7 +1790,7 @@ ersthelferische Versorgungspflicht f\"ur den Durchschnittsb\"urger?
 		sich der Patient während des Transportes schon in einem präklinischen Umfeld (=
 		Einsatzwagen mit Sanitätern und Medizinprodukten) befindet. Sollte
 		sich aber der Zustand des Patienten während der Fahrt
-		verschlechtern, so darf das nächstgelegene Spital angefahren werden. \newline
+		verschlechtern, darf das nächstgelegene Spital angefahren werden. \newline
 		Erst wenn der Patient wieder transportfähig ist, darf er mit geeigneten
 		Krankentransportmitteln in eine andere Krankenanstalt weitergeschickt werden.}
 
@@ -1920,7 +1875,7 @@ ersthelferische Versorgungspflicht f\"ur den Durchschnittsb\"urger?
 
 \end{itemize}
 
-\subsection{Teil G: Meldepflichtenrecht}
+\subsection{Meldepflichtenrecht}
 
 \subsubsection{Fall 15. Ansteckende Krankheiten}
 
@@ -1929,7 +1884,7 @@ ersthelferische Versorgungspflicht f\"ur den Durchschnittsb\"urger?
 Als nun Hr. Schmerz nach langem hin und her auf der Internen aufgenommen
 wurde, erholen sich Alex, Sepp und Bernd bei einem kurzen Plausch mit
 der NEF-Mannschaft. Die Ruhe hält aber nicht lang an, als auch schon
-der nächste Einsatz durchgegeben wird, der beide Teams, RTW und NEF,
+der nächste Einsatz durchgegeben wird, der RTW und NEF,
 zum selben BO schickt. 
 
 Dort angekommen finden sie in einer Lacke von Blut die 25 jährige Fr.
@@ -2000,9 +1955,9 @@ Ausma{\ss} besteht eine solche Meldepflicht?
 	\begin{itemize}
 		\item {\mdseries
 		\gE{Anonymisierte} Meldepflicht erst ab: manifester
-		Erkrankung mit AIDS (= bei sichtbaren Krankheitszeichen  nicht schon
-		bei HIV) oder Todesfall mit erkennbaren AIDS typischen
-		Krankheiten\footnote{s. Kap. Hygiene, \ref{topic:aids}}}
+		Erkrankung mit AIDS (= bei sichtbaren Krankheitszeichen;
+		nicht schon bei HIV-Infektion) oder Todesfall mit
+		erkennbaren AIDS typischen Krankheiten\footnote{s. Kap. Hygiene, \ref{topic:aids}}}
 
 		\item {\mdseries
 		es gibt keine Untersuchungs- oder Behandlungspflicht daher darf kein
@@ -2058,9 +2013,9 @@ fallen.
 \paragraph*{Sachverhalt}
 
 Die Schnittwunden am Handgelenk sind nicht die einzigen Verletzungen der
-Fr. Hilflos Mehrere Hämatome \"uberziehen den K\"orper und ein
-gro{\ss}es Feilchen ziert das rechte Auge der jungen
-Patienten. Als Natascha auf diese weiteren Verletzungen
+Fr. Hilflos. Mehrere Hämatome\footnote{\emph{Hämatom:}
+Bluterguß.} \"uberziehen den K\"orper und ein gro{\ss}es
+Feilchen ziert das rechte Auge der jungen Patienten. Als Natascha auf diese weiteren Verletzungen
 eingeht, beginnt Fr. Hilflos weinend zu berichten, dass ihr Freund sie \"ofters geschlagen hat und er ihr mit
 dem Tod gedroht hat, falls sie die Polizei verständigen w\"urde.
 
@@ -2140,7 +2095,7 @@ Patienten [{\dots}] zu wahren{\textquotedblleft} begr\"unden.
 
 \end{itemize}
 
-\subsection{Teil H: Stra{\ss}enordnung}
+\subsection{Stra{\ss}enordnung}
 
 \subsubsection{Fall 17. Blaulichtverwendung}
 
@@ -2217,8 +2172,8 @@ KFG}
 	\item {\mdseries
 	Vertrauensgrundsatz ist ung\"ultig (${\rightarrow}$ man darf bei
 	Blaulichtfahrten nicht mehr darauf vertrauen, dass sich die anderen
-	Verkehrsteilnehmer richtig verhalten daher ist defensives und
-	voraussehendes Fahren verpflichtend)}
+	Verkehrsteilnehmer richtig verhalten; daher ist defensives
+	und voraussehendes Fahren verpflichtend)}
 
 \end{itemize}
 
@@ -2280,7 +2235,14 @@ gewertet wird.
 
 \end{itemize}
 
-Der weitere Tag verläuft ruhig mit den \"ublichen Patienten.
+\vspace{1em}
+Der weitere Tag verläuft ruhig mit den \"ublichen Patienten
+bis zum \ldots
+
+\vspace{1em}
+{\centering
+\gEs{{\sffamily\Large Feierabend.}}
+\par}
 
 \section*{Abk\"urzungsverzeichnis}
 \begin{multicols}{2}
@@ -2300,7 +2262,7 @@ Der weitere Tag verläuft ruhig mit den \"ublichen Patienten.
 \item[EPH-Gestose] 
 \"Odem-Protein\-urie-Hypertonie-Schwanger\-schafts\-erkrankung
 
-\item[HB]  Heilbehandlung
+\item[HB]   Heilbehandlung 
 
 \item[HIV]  human immundeficiency virus
 

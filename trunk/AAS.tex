@@ -56,7 +56,7 @@
 
 \usepackage{hhline}
 
-\usepackage[draft]{graphicx} % Bilder-Support
+\usepackage[final]{graphicx} % Bilder-Support
 %\usepackage{ooomath}
 
 
@@ -293,24 +293,24 @@ Entwicklungszweig:
 %%%%% Annotations
 
 \newcommand\gA[1]
-%	{} % Don't display any annotations
-	{{\scriptsize\color{Red}\ttfamily{#1}}}
+	{} % Don't display any annotations
+%	{{\scriptsize\color{Red}\ttfamily{#1}}}
 
 \newcommand\gAuthNotes[1]
-%	{} % for final release
-	{{\color{Red}{\ttfamily{#1}}}}
+	{} % for final release
+%	{{\color{Red}{\ttfamily{#1}}}}
 
 
 % track changes
 % WHO WHEN WHAT
 \newcommand{\gACh}[3]
-%	{} % for final release
-	{\gA{\footnote{\underline{\gAuthNotes{#1}} \gA{#2}: \gA{#3 }}}}
+	{} % for final release
+%	{\gA{\footnote{\underline{\gAuthNotes{#1}} \gA{#2}: \gA{#3 }}}}
 %\newcommand{\gACh}[3]{}
 
 \newcommand{\gChangelog}[1]
-%	{} % for final release
-	{\gA{#1}}
+	{} % for final release
+%	{\gA{#1}}
 
 % Warnung: Bildlizenz nicht ok.
 \newcommand{\gAuthNotesPicLegalNotOk}[2]

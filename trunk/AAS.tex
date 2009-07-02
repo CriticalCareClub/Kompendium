@@ -1,7 +1,7 @@
 % This file was converted to LaTeX by Writer2LaTeX ver. 0.5
 % see http://www.hj-gym.dk/~hj/writer2latex for more info
 % test für git
-\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=no]{scrbook}
+\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,oneside,draft=no]{scrbook}
 % \setlength{\voffset}{-15pt}
 % \setlength{\textheight}{720pt}
 % \setlength{\marginparwidth}{5cm}
@@ -38,7 +38,7 @@
 %Symbole
 \usepackage{makeidx}
 %\usepackage{showidx} % shows index entries on page margin
-\usepackage{showkeys}
+%\usepackage{showkeys}
 
 \usepackage{units}
 
@@ -226,12 +226,17 @@ footskip=10mm,
 }}}
 \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
 
-\fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
-Entwicklungszweig:
-\input{./tmp/git-current-branch.tmp} -- Letztes Commit:
-\input{./tmp/git-lastcommit.tmp}}}}
-\fancyfoot[LE]{} 
-\fancyfoot[RO]{} 
+% \fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
+% Entwicklungszweig:
+% \input{./tmp/git-current-branch.tmp} -- Letztes Commit:
+% \input{./tmp/git-lastcommit.tmp}}}}
+\fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
+internen Gebrauch!}}}
+\fancyfoot[LE]{{\AASS{}~ \itshape v.\,0.2.0}} 
+\fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.0}} 
+%%%
+% \fancyfoot[RE]{{\AASS}} 
+% \fancyfoot[LO]{{\AASS}} 
 
 % % leading zeros
 % \usepackage{numprint}
@@ -529,9 +534,7 @@ Entwicklungszweig:
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   AAS-specific
 
-\newcommand{\AASS} 
-%   {{\fontfamily{cmdh}\selectfont{\color{ubuntured}AAS}{\color{darkBlue}{\,\textsuperscript{S}}}}}
-{{\mdseries\upshape\fontfamily{lmss}\selectfont{\color{ubuntured}AAS}{\color{darkBlue}S}}}
+\newcommand{\AASS}{{\mdseries\upshape\fontfamily{lmss}\selectfont{\color{ubuntured}AAS}{\color{darkBlue}S}}}
     
 
 \newcommand{\gAasRsN}[1]{ {\sffamily\bfseries #1}}
@@ -660,27 +663,28 @@ Wien
 % #######################################################################################################
 \begin{document}
 \begin{titlepage}
-\titlehead{% Version 0.0.1-yyyy-mm-dd  \par 
-{\sffamily
-\gEs{ -- ENTWURF --}
+% \titlehead{% Version 0.0.1-yyyy-mm-dd  \par 
+% {\sffamily
+% \gEs{ -- ENTWURF --}
+% 
+% \gEs{Entwicklungszweig:}
+% {\ttfamily\input{./tmp/git-current-branch.tmp}}
+% \par
+% \gEs{Letztes Commit:} 
+% 
+% {\ttfamily\input{./tmp/git-lastcommit.tmp}}
+% 
+% \vspace{1em}
+% {\bfseries Edition:} Ausgabe für das
+% Ausbildungszentrum des ASB Floridsdorf-Donaustadt
+% 
+% \vspace{1em}
+% Diese Zweig soll als Version 0.2.0 im RS-Kurs 2009/07
+% (ET VII/2009) eingesetzt werden.}}
 
-\gEs{Entwicklungszweig:}
-{\ttfamily\input{./tmp/git-current-branch.tmp}}
-\par
-\gEs{Letztes Commit:} 
+\titlehead{Vorabversion 0.2.0 (Ed. ASB -- ET VII/2009)}
 
-{\ttfamily\input{./tmp/git-lastcommit.tmp}}
-
-\vspace{1em}
-{\bfseries Edition:} Ausgabe für das
-Ausbildungszentrum des ASB Floridsdorf-Donaustadt
-
-\vspace{1em}
-Diese Zweig soll als Version 0.2.0 im RS-Kurs 2009/07
-(ET VII/2009) eingesetzt werden.}}
-
-\author{{\normalsize Herausgeber} \vspace{0.5em}\\Emhofer,
-Gabriel, Koch, Motal, Steuer
+\author{{\normalsize Herausgeber} \vspace{0.5em}\\Gabriel, Koch, Emhofer, Motal, Steuer
 \vspace{1em}\\{\itshape\normalsize{ Mit Beiträgen von
 Christof Koller, Michael Withofner u.a.}}}
 
@@ -691,12 +695,16 @@ ASB Floridsdorf-Donaustadt}
 
 \subject{\Huge{\AASS}}
 
-\publishers{{\fontfamily{lmss}\selectfont ARGE \AASS}
+\date{Juli 2009}
 
-\uppertitleback{\emph{Titelbild: Sebastian Gabriel. NFS
-Bernhard Lehner bittet einen Passanten Platz zu machen.
-Schnappschuß mit einer Handy-Kamera am Donauinselfest
+\publishers{{\fontfamily{lmss}\selectfont ARGE \AASS}}
+
+\uppertitleback{\emph{Titelbild: Sebastian Gabriel.}
+
+\emph{NFS Bernhard Lehner ersucht einen Passanten Platz zu
+machen. Schnappschuß mit einer Handy-Kamera am Donauinselfest
 2007.}}
+
 \lowertitleback{\begin{gWideParEnv}\centering\begin{minipage}{8cm}
 \begin{center} 
 Dieses Projekt enstand in Zusammenarbeit mit dem
@@ -736,11 +744,6 @@ Abs.\,6 UrheberG bestimmt. Weitergabe nicht gestattet.}
 
 \end{gWideParEnv}}
 
-
-
-\vspace{1em}
-\LaTeX{}}
-
 \dedication{saluti et solatio aegrorum}
 
 \end{titlepage}
@@ -764,7 +767,7 @@ Abs.\,6 UrheberG bestimmt. Weitergabe nicht gestattet.}
 \section*{Impressum, Nutzungsbedingungen und Hinweise}
 \begin{multicols}{2}
 {\bfseries Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für den
-Sanitätsdienst} G.n.b.R. -- {\fontfamily{lmss}\selectfont
+Sanitätsdienst} -- {\fontfamily{lmss}\selectfont
 ARGE \AASS}
 
 Engerthstraße 146\,/\,8\,/\,13 \\ A-1200 Wien -- AUSTRIA
@@ -963,6 +966,9 @@ Texmaker
 \include{include-recht-chapter}
 
 \include{include-erstehilfe-chapter}
+
+\chapter{Defibrillation mit halbautomatischen Geräten ---
+\gAasRsN{RS VIII}}
 
 \include{include-geraetelehre-chapter}
 

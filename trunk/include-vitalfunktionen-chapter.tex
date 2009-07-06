@@ -3,20 +3,20 @@
 
 Sebastian Gabriel [R]; Michael Withofner
 
-\gAuthNotes{
-Changelog:
-
-\begin{description}
-    \item[2009-02-25] Start Changelog. Kapitel mit Korr
-    Koch korr. 
-    \item[2009-mm-dd] in \LaTeX übernommen
-    \item[2009-04-19] anhand der OpenOffice-Version überarbeitet.
-Bilder fehlen noch. 
-\item[2009-05-06] GAB: Abschnitte "`Blutdruck"' und
-"`Atemvolumina"' aus Anatomie-Teil übernommen.
-\end{description}
-
-}
+% \gAuthNotes{
+% Changelog:
+% 
+% \begin{description}
+%     \item[2009-02-25] Start Changelog. Kapitel mit Korr
+%     Koch korr. 
+%     \item[2009-mm-dd] in \LaTeX übernommen
+%     \item[2009-04-19] anhand der OpenOffice-Version überarbeitet.
+% Bilder fehlen noch. 
+% \item[2009-05-06] GAB: Abschnitte "`Blutdruck"' und
+% "`Atemvolumina"' aus Anatomie-Teil übernommen.
+% \end{description}
+% 
+% }
 
 \minitoc
 
@@ -126,11 +126,11 @@ von Gefahren beteiligt. Je mehr das Bewusstsein gest\"ort oder
 reduziert ist desto gef\"ahrlicher ist das f\"ur den Patienten. 
 
 \begin{itemize}
-    \item Ab einem gewissen Punkt sind auch so wesentliche Funktionen wie
-    der \gT{Schluck-}, \gT{W\"urge-} bzw. \gT{Hustenreflex}
-    ausfallen und es kann zum verschlucken von Mageninhalt oder Blut in die Lunge kommen
-    (\gT{Aspiration}). Man spricht auch vom \gEs{Ausfall der
-    Schutzreflexe}.
+    \item Ab einem gewissen Punkt können auch so wesentliche
+    Funktionen wie der \gT{Schluck-}, \gT{W\"urge-} bzw. \gT{Hustenreflex}
+    ausfallen, und es kann Mageninhalt oder Blut in die
+    Lunge gelangen (\gT{Aspiration}). Man spricht auch vom
+    \gEs{Ausfall der Schutzreflexe}.
     \item Bei schweren Bewusstseinsst\"orungen kann es auch zum Erschlaffen
     wichtiger Muskeln wie z.B. Der Zunge kommen. F\"allt diese zur\"uck
     kann sie den Atemweg blockieren oder ganz verschlie{\ss}en.
@@ -188,7 +188,7 @@ $\vdots$
 
 \subsubsection{Grade und Symptome}
 
-Symptome Bewusstseinsst\"orungen: Tabelle geh\"ort erg\"anzt.%
+Symptome Bewusstseinsst\"orungen: %Tabelle geh\"ort erg\"anzt.%
 %
 
 
@@ -199,18 +199,21 @@ Symptome Bewusstseinsst\"orungen: Tabelle geh\"ort erg\"anzt.%
 Bewu{\ss}tseinsklar
  &
  &
+ wach
  &
 \\\midrule
 Bewu{\ss}tseinsgetr\"ubt
 &
-somnolent
+\gT{somnolent} \index{somnolent}
  &
-Schl\"afrig, aber leicht erweckbar.
+schl\"afrig, aber leicht erweckbar.
  &
 \\
  &
-sopor\"os
+\gT{soporös} \index{soporös}
  &
+ Kaum und nur mit erheblichen Aufwand (Schmerzreiz)
+ erweckbar 
  &
 Gefahr!
 \\\midrule
@@ -218,6 +221,7 @@ Bewu{\ss}tlos
  &
 Koma
  &
+ nicht erweckbar
  &
 Lebensgefahr!
 \\\bottomrule
@@ -316,7 +320,7 @@ Motorische Reaktion & 6 & 6 & spontan
         \item W\"armeerhalt
         \item \gEs{Ursachenforschung} -- Warum ist der
         Patient eingetr\"ubt?
-        \item \gEs{Neurcheck}
+        \item \gEs{Neurocheck}
         \begin{itemize}
             \item Immer auch an \gEs{BZ} denken!
         \end{itemize}
@@ -342,7 +346,7 @@ Motorische Reaktion & 6 & 6 & spontan
         \item W\"armeerhalt
         \item \gEs{Ursachenforschung} -- Warum ist der Patient bewusstlos oder
         sopor\"os?
-        \item \gEs{Neurcheck}
+        \item \gEs{Neurocheck}
         \begin{itemize}
             \item Immer auch an \gEs{BZ} denken!
         \end{itemize}
@@ -355,61 +359,173 @@ Motorische Reaktion & 6 & 6 & spontan
 
 \section{Atmung}
 
-\minisec{Kurze Wiederholung}
+\subsection{Atemfrequenz, -tiefe und -volumen}
+\label{topic:atemvolumina}
 
-normale Atemfrequenz (\gT{AF}) (Erwachsener): 12-15x / min,
-Atemzugvolumen (\gT{AZV}) $\approx$ 5-7 ml\,/\,kg\,KG
+% STEU 2009-06-28: Trennung Oxygenation und Ventilation
+\gA{STEU 2009-06-28: Trennung Oxygenation und Ventilation}
 
-Atemminutenvolumen (AMV): $AMV = AZV \times AF$
+\gMarried{
+Die \gT{Atemfrequenz} (\gT{AF}) gibt die Anzahl der Atemzüge
+pro Minute an. Das \gT{Atemzugsvolumen} (\gT{AZV}) gibt die
+Menge an Luft an die eingeatmet wird. Das
+\gT{Atemminutenvolumen} (\gT{AMV}) errechnet sich aus der
+Atemfrequenz und dem Atemzugsvolumen. Es gibt die Menge an \gE{pro Minute}
+eingeatmeter Luft an. }{
+\gTabHeading{Kennzahlen}
+\begin{description}
+    \item[AF] {\ldots} Atemfrequenz
+    \item[AZV] {\ldots} Atemzugsvolumen
+    \item[AMV] {\ldots} Atemminutenvolumen
+\end{description}
+}
 
-\index{Totraumventilation}\gT{Totraumventilation}: Luftmenge
-in oberen  und teilweise unteren Atemwegen, die  nicht am Gasaustausch teilnimmt.
-Achtung \index{Schnappatmung}\gT{Schnappatmung}! Dabei wird
-nur so wenig Luft bewegt sodass aufgrund des Totraumes keine frische Luft in die
-Lungenbl\"aschen (Alveolen) kommt. H\"aufig wird die Schnappatmung mit
-flacher Atmung verwechselt, aber:
+Berechnung des Atemminutenvolumens (AMV): 
 
-\gCave{Schnappatmung = keine Atmung}
+\begin{equation}
+\mbox{AMV} = \mbox{AZV} \times \mbox{AF}
+\end{equation}
+
+\begin{minipage}{\linewidth}
+\captionof{table}{Gegenüberstellung der
+wichtigsten Kennzahlen, die die Herz- und Lungenleistung
+beeinflussen.}
+\begin{tabularx}{\linewidth}{XXX}
+\toprule
+\gTabHeading{~} & \gTabHeading{Herz} & \gTabHeading{Lunge}
+\\\toprule
+\gTabSub{Was?} & Blut & Luft
+\\\addlinespace
+\gTabSub{Qualität} & Sauerstoffgehalt\gZ{\footnote{\gZ{Nicht
+gleichzusetzen mit der Sauerstoffsättigung}}} &
+Sauerstoffkonzentration \\\toprule
+\gTabSub{Wie oft?}
+& 
+Herzfrequenz 
+
+(HF) 
+&
+Atemfrequenz 
+
+(AF)
+\\\addlinespace
+\gTabSub{Wieviel?}
+
+(pro Aktion)
+&
+Schlagvolumen
+
+(SV)
+&
+Atemzugsvolumen
+
+(AZV)
+\\\midrule
+\gTabSub{Erzielte Menge}
+&
+Herzminutenvolumen 
+
+(HMV)
+&
+Atemminutenvolumen
+
+(AMV)
+\\\bottomrule
+\end{tabularx}
+\end{minipage}
+
+\vspace{2em}
+
+\gMarried{
+Die normale Atemfrequenz (\gT{AF}) beträgt beim Erwachsenen
+in Ruhe 12-16\nicefrac{x}{min}, das Atemzugsvolumen
+(\gT{AZV}) beträgt ca. 500\,ml. Das
+entspricht einem Atemminutenvolumen (\gT{AMV}) von  \ldots
+. Für eine ausreichende Atmung ist auch eine ausreichende
+$O_2$-Konzentration der Umgebungsluft notwendig!  }{
+\gTabHeading{Normalwerte Atmung}
+\begin{description}
+    \item[AF] \ldots{} 12-16\,\nicefrac{x}{min}
+    \item[AZV] \ldots{500\,ml} 
+    \item[AMV] \ldots{6-8\,l}
+\end{description}
+
+Auch wichtig: ausreichende
+$O_2$-Konzentration in der Umgebungsluft
+}\marginlabel{\cite{KlinkePhysio3,SchmidtPhysio28,DRAn3,StriebelAn7}}
+
+Die genauen Werte sind Alters-, Geschlechts- und
+Größenabhängig. 
 
 
-\subsubsection{Atemvolumina}\label{topic:atemvolumina}
-\gAuthNotes{KOCH: zu Vitalfunktionen}
+\gFazit{AMV = AZV x AF, beim Erwachsenen  ca. 6-8\l}
 
 
+% TODO AZV 5-7 ml/kg Koch: Wirklich?
+
+\gCo{Die Einstellungen eines Beatmungsgerät können von den
+Normalwerten abweichen, da man z.B. manchmal
+"`vorsichtiger"', bzw. Lungen-schonender, beatmen möchte.}
+
+Die Atemfrequenz ist stark altersabh\"angig:
+
+
+
+\begin{table}[H]
 \begin{center}
-
-\gTempPicMissing{Atemvolumina img43}
-
-\end{center}
-+ 150ml in den oberen Luftwegen (Trachea, Rachenraum) ${\rightarrow}$
-Dieser Teil nimmt nicht am Gasaustausch ${\rightarrow}$
-\index{Totraum}\gT{Totraum} 
-
-normale Atemfrequenzen sind altersabh\"angig:
-
-\begin{center}
+\captionof{table}{Atemfrequenz im Altersvergleich,
+Richtwerte.}
 \begin{tabular}{lrr}
 \toprule
  & AF &  AZV
 \\\midrule
-Erwachsener & 12 -- 16/min  & ca. 500 ml
-\\
 Neugeborenes & 40/min & 20-40 ml 
 \\
 Kleinkind & 25/min & 100-200 ml
 \\
 Schulkind & 20/min & 200-400 ml
+\\
+Erwachsener & 12 -- 16/min  & ca. 500 ml
 \\\bottomrule
 \end{tabular}
 \end{center}
+\end{table}
 
-\gFazit{AMV = AZV x AF, beim Erwachsenen  ca. 6-8\l}
 
-AF  ... Atemfrequenz
 
-AMV  ... Atemminutenvolumen
 
-AZV  ... Atemzugsvolumen ... Volumen bei einem normalen Atemzug
+\paragraph{Totraum} \index{Totraum}Unter dem Totraum
+versteht man den teil der Atemwege der nicht am Gasaustausch teilnimmt.
+Dies ist im wesentlichen der gesamte Weg von der
+Nasenspitze bis kurz vor den Lungenbläschen (Alveolen). Die
+Luft muss diesen Totraum passieren um in die Lungenbläschen
+zu gelangen! Der Totraum umfasst beim Erwachsenen ca.
+150\,ml.\cite{KlinkePhysio3}
+
+\index{Totraumventilation}\gT{Totraumventilation}: Bei der
+Totraumventilation ist das Atemzugsvolumen so klein dass
+die "`frische"' Luft im Totraum bleibt und nicht in die
+Lungenbläschen gelangt: Es kommt keine frische Luft in die
+Lungenbläschen und folglich kein Sauerstoff ins Blut.
+
+Bei der \index{Schnappatmung}\gT{Schnappatmung} kann dies
+passieren: Auf den ersten Blick sieht es so aus als würde
+der Patient "`schnappend"' atmen, in Wirklichkeit ist die
+Atmung so gering dass es nur zu einer Totraumventilation
+kommt, d.h. Die Atmung ist nicht effektiv. 
+
+\gCave{Schnappatmung = keine Atmung}
+
+
+
+
+
+
+
+
+
+
+
 
 \section{St\"orungen der Atmung}
 
@@ -482,22 +598,22 @@ Stoffwechselst\"orungen
 \begin{table}[H]
 \begin{tabulary}{\linewidth}[H]{LLLL}
 \toprule
-Gruppe
+\gTabHeading{Kriterium}
  &
-Befund
+\gTabHeading{Befund}
  &
-Beschreibung
+\gTabHeading{Beschreibung}
  &
-Anmerkung
-\\\midrule
-Dyspnoe
+%\gTabHeading{Anm.}
+\\\addlinespace
+\gTabSub{Beschwerde}
  &
-Atemnot
+Atemnot (Dyspnoe)
  &
 Leitsymptom
  &
-\\\midrule
-Atemger\"ausch
+\\\addlinespace
+\gTabSub{Atemger\"ausch}
  &
 Brodeln
  &
@@ -531,8 +647,8 @@ Verlangsamt
  &
 Bradypnoe
  &
-\\\midrule
-Atemzugsvolumen
+\\\addlinespace
+\gTabSub{Atemzugsvolumen}
  &
 Schnappatmung
  &
@@ -547,8 +663,8 @@ Flache Atmung
 Tiefe Atmung
  &
  &
-\\\midrule
-Hautfarbe
+\\\addlinespace
+\gTabSub{Hautfarbe}
  &
 Blass
  &
@@ -566,8 +682,8 @@ Bl\"aulich
  &
 Zyanose: Hypoxie!
  &
-\\\midrule
-K\"orperlich
+\\\addlinespace
+\gTabSub{K\"orperlich}
  &
 Einziehungen an den Rippen
  &
@@ -602,6 +718,8 @@ Brustkorb senkt sich bei Einatmung
 \end{table}
 \end{center}
 
+\gAuthNotes{GABG: patholigische Atmungstypen inkl.
+Zeichnung einbinden? Kussmaul, etc.}
 
 \paragraph{Gefahr der Ateminsuffizienz}
 
@@ -617,35 +735,34 @@ Azidose, s. \ref{topic:azidose-respiratorische} )
 
 \begin{gMassnahmenEnv}
     \paragraph{Spezielle Ma{\ss}nahmen bei Atemstillstand}
-
-\begin{itemize}
-    \item Freimachen der Atemwege
-    \begin{itemize}
-        \item \"Offnen des Mundes (Esmarch-Handgriff)
-        \item Inspektion
-        \item fals n\"otig ausr\"aumen
-        \item (falls n\"otig) Absaugen
-        \item \"Uberstrecken der HWS
-        \item Zungengrund wird angehoben -{\textgreater} Atemwege  sind frei!
-    \end{itemize}
-    \item \"Uberpr\"ufung der Atemt\"atigkeit (bei  \"uberstreckter HWS)
-    durch
-    \begin{itemize}
-        \item SEHEN, H\"OREN, F\"UHLEN f\"ur mindestens 10  Sekunden!
-    \end{itemize}
-    \item Sauerstoffgabe (wenn ausreichende Spontan-Atmung vorhanden)
-    \item Beatmung (keine ausreichende Spontanatmung bzw. bei Reanimation)
-    \begin{itemize}
-        \item Beatmungsbeutel mit Maske und Reservoir
-    \end{itemize}
-\end{itemize}
+%\begin{itemize}
+%    \item Freimachen der Atemwege
+%    \begin{itemize}
+%        \item \"Offnen des Mundes \gA{(Esmarch-Handgriff)
+%        -- evt. erklären}
+%        \gTempPicMissing{Esmarch-Handgriff}
+%        \item Inspektion
+%        \item fals n\"otig ausr\"aumen
+%        \item (falls n\"otig) Absaugen
+%        \item Zungengrund wird angehoben -{\textgreater} Atemwege  sind frei!
+%    \end{itemize}
+%    \item \"Uberpr\"ufung der Atemt\"atigkeit (bei  \"uberstreckter HWS)
+%    durch
+%    \begin{itemize}
+%        \item SEHEN, H\"OREN, F\"UHLEN f\"ur mindestens 10  Sekunden!
+%    \end{itemize}
+%    \item Beatmung (keine ausreichende Spontanatmung bzw. bei Reanimation)
+%    \begin{itemize}
+%        \item Beatmungsbeutel mit Maske und
+%        Reservoir (Erhöhung der Sauerstoffkonzentration)
+%    \end{itemize}
+%\end{itemize}
+\gCave{Achtung: Bei einem mit Atemstillstand vorgefundenen
+Patienten ist immer von einer Reanimation auszugehen.}
 
 Vgl. die entsprechenden Kapitel im Teil Erste Hilfe und
 Sanit\"atstechnik bez\"uglich der genauen Durchf\"uhrung der
 Ma{\ss}nahmen. 
-\gCave{Achtung: Bei einem mit Atemstillstand vorgefundenen
-Patienten ist grunds\"atzlich von einer Reanimation
-auszugehen.}
 \end{gMassnahmenEnv}
 
 
@@ -656,17 +773,12 @@ auszugehen.}
 
 
 
-\section[Herz- / Kreislauf]{Herz- / Kreislauf}
-\label{bkm:RefHeading42514202}St\"orungen des Herz-/ Kreislaufsystems
+\section[Herz- / Kreislauf]{Herz-\,/\,Kreislauf}
+\label{bkm:RefHeading42514202}
 
-
-
-Durch die Pumpfunktion des Herzens ensteht ein
-lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
-\gE{Blutdruck}. Vgl. Kap. \emph{Vitalfunktionen},
-\ref{topic:blutdruck}. Abk\"urzung: RR. Gemessen immer in Herzh\"ohe!
 
 \subsection{Blutdruck} 
+\label{topic:blutdruck}
 
 Durch die Pumpfunktion des Herzens ensteht ein
 lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
@@ -679,16 +791,20 @@ Während des Auswurfes von Blut in das
 Gefäßsystem (Herzanspannung, Systole)
 spricht man vom systolischen Blutdruck, während
 der Enstpannungsphase des Herzens (Diastole) vom
-diastolischen Blutdruck. Nattürlich ist der Blutdruck bei
+diastolischen Blutdruck. Natürlich ist der Blutdruck bei
 der Anspannung des Herzens höher als bei der Entspannung
-(Systolischer Blutdruck > Diastolische Blutdruck).}
-{\begin{description}
+(\gE{Systolischer Blutdruck > Diastolische Blutdruck)}.}
+{
+\gTabHeading{Blutdruck}
+
+\begin{description}
     \item[systolisch:] Maximaldruck in der Arterie am H\"ohepunkt der
 Kammerkontraktion
     \item[diastolisch:] Druck in der Arterie w\"ahrend die Kammer erschlafft ist
 \end{description}}
 
-
+Zur Durchführung der Blutdruckmessung vgl.
+\ref{topic:rr-messung}.
 
 
 
@@ -731,9 +847,9 @@ Wie beurteilen Sie den Blutdruck?
 \begin{quote}
 Der Blutdruck ist f\"ur den Patienten zu niedrig, der K\"orper ist auf
 eine so pl\"otzliche Umstellung nicht vorbereitet gewesen. Im
-Anamnesegespr\"ach erfahren sie dass er heute das erste Mal einen
+Anamnesegespr\"ach erfahren sie, dass er heute das erste Mal einen
 {\quotedblbase}Nitro-Spray{\textquotedblleft} verwendet hat. Sie
-vermerken dies am Einsatzprotokoll. Im Krankenhaus erfahren Sie dass
+vermerken dies am Einsatzprotokoll. Im Krankenhaus erfahren Sie, dass
 wahrscheinlich eine \"Uberdosierung dieses Medikaments die Ursache
 dieses Blutdruckabfalls war. ${\rightarrow}$ Obwohl der Patient laut
 Lehrbuch einen {\quotedblbase}sch\"onen{\textquotedblleft} Blutdruck
@@ -769,9 +885,11 @@ mittels Medikamente unbedingt gesenkt werden.
 
 
 
-\subsection{Kreislaufstillstand}\label{bkm:RefHeading42514602}
+\subsection{Kreislaufstillstand}\label{bkm:RefHeading42514602}\label{topic:kreislaufstillstand}
 
-\gDefinition{Totales Pumpversagen des Herzens} aufgrund von
+\gDefinition{Totales Pumpversagen des Herzens.} 
+
+Das Pumversagen kann entstehen durch:
 
 \begin{itemize}
     \item Asystolie (keine Herzt\"atigkeit)
@@ -782,7 +900,7 @@ mittels Medikamente unbedingt gesenkt werden.
     Pumpreaktion auf Signale des Reizleitungssystems im Herz
 \end{itemize}
 
-
+\gParallel{
 \paragraph{Ursachen}
 
 \begin{itemize}
@@ -805,9 +923,9 @@ mittels Medikamente unbedingt gesenkt werden.
         \item Elektrolytverschiebungen,...
     \end{itemize}
 \end{itemize}
-
-
-\paragraph{Pathophysiologie}
+}
+{
+\paragraph{Folgen \& Symptome}
 
 \begin{itemize}
 \item Aussetzen des Herzschlages $\rightarrow$ Patient ist
@@ -817,9 +935,14 @@ sofort pulslos!
 \item \gEs{Irreversible Hirnsch\"aden nach 3-5\,min}, bei
 K\"alte allerdings deutlich l\"anger!
 \end{itemize}
+}
 
+\gA{KOCH: hab ich die (Hirnschäden) nicht aufgrund des
+Atemstillstandes?
 
-
+GABS: nein, auch ohne Atmung erfolgt noch eine Zeit lang
+eine ausreichende $O_2$-Versorgung, die Ischämie beginnt
+erst mit dem Kreislaufstillstand.}
 
 
 
@@ -858,15 +981,16 @@ Schock bedeutet:
    Herzauswurf\,:\,Sauerstoffbedarf} des K\"orpers
     \item M\"ogliche Ursachen:
     \begin{enumerate}
-        \item Herz pumpt wenig
+        \item Herz pumpt zu wenig
         \item Zu wenig Blut vorhanden
         \item Gef\"a{\ss}e sind zu weit gestellt und Blut versackt
     \end{enumerate}
 \end{itemize}
 
 \gFazit{Im Endeffekt kommt immer zu wenig Blut mit
-Sauerstoff zu den Organen, dadurch ist die Ge\-webedurchblutung nicht ausreichend  f\"ur die
-Versorgung aller Organe mit Sauer\-stoff.} 
+Sauerstoff zu den Organen. Dadurch ist die
+Ge\-webedurchblutung f\"ur die Versorgung aller Organe mit
+Sauer\-stoff nicht ausreichend.}
 
 K\"orpereigene Mechanismen k\"onnen gegensteuern und versuchen den
 Schock zu kompensieren (gegensteuern). Dies geht allerdings nur eine
@@ -883,13 +1007,16 @@ kurzfristige Minderdurchblutung des Gehirns,  fl\"uchtige Symptome)
 \paragraph{Schock --  Kompensationsmechanismen}
 
 Der K\"orper versucht selber dagegen etwas zu tun und gegenzusteuern
-({\quotedblbase}kompensieren{\textquotedblleft}). Der wichtigste
-Mechanismus ist die \index{Zentralisation}\gT{Zentralisation}. Darunter versteht man die Blutumverteilung zugunsten lebenswichtger Organe wie
-Herz, Gehirn, Lunge und Leber. Dabei werden z.B. Haut, Muskel und Darm
+({\quotedblbase}kompensieren{\textquotedblleft}). Der
+wichtigste Mechanismus ist die
+\index{Zentralisation}\gT{Zentralisation}. Darunter versteht
+man die Blutumverteilung zugunsten lebenswichtger Organe wie
+Herz, Gehirn, Lunge und Leber. Dabei werden z.B. Haut, Muskel
+und Darm
 sowie die Extremit\"aten (=Peripherie) kaum mehr  durchblutet.
 Periphere Venen kollabieren und die Rekapillarisierungszeit
-verl\"angert. Wenn die Kompensationsma{\ss}nahmen  versagen spricht man
-vom \gE{"`dekompensierter
+verl\"angert sich. Wenn die Kompensationsma{\ss}nahmen 
+nicht mehr ausreichen spricht man vom \gE{"`dekompensierter
 Schock"'}. Es besteht sp\"atestens dann akute
 \gEs{Lebensgefahr}!
 
@@ -929,8 +1056,7 @@ Symptome
  &
  \begin{itemize}
      \item HF ${\uparrow}$
-     \item m\"a{\ss}iger RR-Abfall
-     \item RR noch {\textgreater} HF
+     \item m\"a{\ss}iger RR-Abfall, aber RR noch {\textgreater} HF
      \item neurologisch unauff\"allig, ev. Euphorisch oder agitiert
      \item Haut bla{\ss}, evt. kaltschwei{\ss}ig
      \item Venen sind kollabiert oder gestaut
@@ -1054,7 +1180,7 @@ Gef\"a{\ss}e inad\"aquat weitgestellt, Blut versackt
 \end{center}
 
 
-\subsubsection{Hypovol\"amischer
+\subsubsection{Hypovolämischer
 Schock}\label{topic:schock-hypovolaemischer}
 
 \gDefinition{Schock aufgrund eines Verlustes von Blutvolumen aus den
@@ -1094,7 +1220,7 @@ Fl\"ussigkeitsverlust nach innen
      ({\quotedblbase}Wasserbauch{\textquotedblleft} bei
      Lebererkrankungen  etc.)}
      \item Ileus (Darmverschlu{\ss})
-     \item H\"amatothorax, H\"amatoperiton\"aum
+     \item innere Blutungen
 \end{itemize}
 \\\bottomrule
 \end{tabularx}
@@ -1120,8 +1246,10 @@ ein Absinken von Herzauswurf und RR!
         {\textperiodcentered}\,Kopf- / Brust\-ver\-letzungen,
         {\textperiodcentered}\,Hirndruck (SHT),
         {\textperiodcentered}\,Knochenbr\"uche der Beine oder des
-        Beckens, {\textperiodcentered}\,Bewusstlosigkeit
-        ${\rightarrow}$ sonst Flachlagerung oder stabile Seitenlage
+        Beckens, 
+        {\textperiodcentered}\,Wirbelsäulenverletzungen,
+        {\textperiodcentered}\,Bewusstlosigkeit ${\rightarrow}$ sonst Flachlagerung oder stabile Seitenlage \gA{KOCH: darüber müssen wir reden: Schock vor Schädel?}
+        %TODO Schock vor Schädel
         \item evt. Aviso (Ank\"undigung) im  Krankenhaus / Schockraum
         \item Abtransport: rasch, schonend, nicht \"uberst\"urzt
     \end{itemize}
@@ -1133,7 +1261,8 @@ veraltet ist sollten sie ihn wo aufschnappen. Stattdessen
 {\quotedblbase}Beine-hoch{\textquotedblleft}-Lagerung.
 
 Wenn KI gegen Beine hoch: Flachlagerung bzw. stab. Seitenlage empfehlen?
-}
+
+STEU: ja, Flachlagerung wenn KI. 2009-06-28}
 
 
 \subsubsection{Kardiogener Schock}
@@ -1208,20 +1337,22 @@ bestimmte Stoffe (Antigene).
 Es werden s\"amtliche Gef\"a{\ss}e maximal erweitert, zus\"atzlich
 steigt die Durchl\"assigkeit der Gef\"a{\ss}e
 (Gef\"a{\ss}permeabilit\"at ${\uparrow}$) ${\rightarrow}$ 
-Plasmaverlust in den Zwischengebwebsraum (Interstitium)
+Plasmaverlust in den Zwischengebwebsraum \gZ{(Interstitium)}
 ${\rightarrow}$ RR f\"allt massiv ab!
 
-\paragraph{M\"ogliche Antigene}
+\paragraph{M\"ogliche Auslöser} 
 
 \begin{itemize}
 \item Pollen
 \item Medikamente, Antibiotika
-\item Kontrastmittel
+\item Kontrastmittel (für radiologische Untersuchungen)
 \item tierische Gifte (Bienenstich etc.)
 \item und vieles andere ...
 \end{itemize}
 
 \paragraph{Symptome}
+% TODO Flush erklären
+
 
 \begin{center}\captionof{table}{Stadien der Anaphylaxie}
 \begin{tabulary}{\linewidth}[H]{cL}
@@ -1269,9 +1400,10 @@ Schwerer Schock
         Schockbek\"ampfung}
         (s.\,\ref{topic:schockbekaempfung})
         \item Antigen  nach M\"oglichkeit entfernen!
-        \item Lagerung: situationsgerecht. Druckverlust im Vordergrund: Beine
-        hoch.
-        Atemprobleme im Vordergrund: stark erh\"ohter Oberk\"orper
+        \item Lagerung: situationsgerecht.
+        Grundsätzlich Beine hoch, bei
+        Atemproblemen jedoch stark erhöten
+        Oberkörper erwägen. 
     \end{itemize}
 \end{gMassnahmenEnv}
 
@@ -1290,6 +1422,7 @@ Fieber {\textgreater}\,38{\textcelsius}) sowie aufgrund von
 Giftstoffen kommt es zu Fl\"ussigkeitsaustritt in den Zwischen\-gewebs\-raum sowie
 zu Gef\"a{\ss}weitstellung.
 
+\gParallel{
 \paragraph{Ursachen}
 
 Diverse Erreger und Toxine
@@ -1300,10 +1433,10 @@ Diverse Erreger und Toxine
     {\quotedblbase}explodiert{\textquotedblleft}
     \item Mit Keimen besiedelte Fremdk\"orper (diverse
     medizinische Sonden, Venflons, etc.)
-    \item Tampons
+    \item Tampons, die vergessen wurden.
     \item \ldots
 \end{itemize}
-
+}{
 \paragraph{Symptome}
 
 \begin{itemize}
@@ -1312,6 +1445,11 @@ Diverse Erreger und Toxine
 \item Haut hei{\ss}, trocken, rot oder bleich, grau,
 {\quotedblbase}marmoriert{\textquotedblleft}
 \end{itemize}
+}
+
+
+
+
 
 \begin{gMassnahmenEnv}
     \paragraph{Spezielle Ma{\ss}nahmen beim Septischen und
@@ -1329,8 +1467,10 @@ Diverse Erreger und Toxine
 \end{gMassnahmenEnv}
 
 \subsubsection{Neurogener Schock}
-\gDefinition{Zusammenbruch der nerv\"osen Kreislaufregulation,
-inad\"aquate arterielle und ven\"ose Gef\"a{\ss}erweiterung
+\gDefinition{Schockzustand ausgelöst durch eine
+Unterbrechung oder Störung der nervlichen Versorgung der
+Kreislaufregulation. Es kommt zu inad\"aquater arterieller
+und ven\"oser Gef\"a{\ss}erweiterung.
 \gZ{(Vasodilatation)}}
 
 \paragraph{Ursachen} 
@@ -1353,7 +1493,15 @@ inad\"aquate arterielle und ven\"ose Gef\"a{\ss}erweiterung
         Beine hoch!)
     \end{itemize}
 \end{gMassnahmenEnv}
+
+
+
+
+
+
 \section{Temperaturregulation}
+
+\gA{KOCH: \#19: dient nur zur Info, wird nicht geprüft!}
 
 W\"armeproduktion durch
 
@@ -1404,7 +1552,7 @@ Energiegewinnung, N\"ahrstoffe werden in W\"arme und Energie  umgewandelt}
     \end{itemize}
 \end{itemize}
 
-\section{Wasser- und Elektro\-lyt\-haus\-halt}
+\section{Flüssigkeit im Körper}
 Das K\"orperwasser macht ca. 60\,\% des K\"orpergewichtes
 aus und teilt sich auf:
 
@@ -1433,10 +1581,8 @@ Raum in den Blutgef\"a{\ss}en
 
 Atome sind die kleinsten Grundbestandteile von Marterie.
 
-Ionen sind Atome die elektrisch geladen sind.
-
-Geladene Ionen sind gut in Wasser l\"oslich. Wenn sie in Wasser gel\"ost
-sind heissen sie
+Ionen sind Atome die elektrisch geladen sind. Sie sind gut
+in Wasser l\"oslich. Wenn sie in Wasser gel\"ost sind heissen sie
 "`\gT{Elektrolyte}"'.
 
 \gFazit{Im Wasser gel\"oste, elektrisch geladene Teilchen
@@ -1477,6 +1623,10 @@ Ionenverteilung: \gE{IZR:} viel $K^+$, wenig $Na^+$;
 
 \subsection{Osmose und Diffusion} \index{Osmose}\index{Diffusion}
 
+\gDefinition{Verteilung von Wasser durch
+Konzentrationsausgleich in verschiedene Räume, welche durch
+halbdurchlässige Membranen voneinander getrennt sind.}
+
 \gAuthNotes{GAB: Osmose und Diffusion: Grunds\"atzlich wichtig und
 relevant, allenfalls bessere Erkl\"arung, aber bleibt in Normalschrift, nicht
 heller. [GAB]
@@ -1493,12 +1643,16 @@ Die Natur m\"ochte dass in einer Fl\"ussigkeit \"uberall die gleiche
 Konzentration von geladenen Teilchen herrscht. Da die Zellmembran (und
 teilweise auch die Blutgef\"a{\ss}wand) nur das Wasser durchl\"asst,
 nicht jedoch die geladenen Teilchen verschiebt sich nur das Wasser von
-einem Raum in den anderen. Man kann sagen dass die Elekktrolyte einen
-Druck auf das Wasser aus\"uben {\quotedblbase}die Seiten zu
+einem Raum in den anderen. 
+
+\gZ{Man kann sagen dass die
+Elekktrolyte einen Druck auf das Wasser aus\"uben {\quotedblbase}die Seiten zu
 wechseln{\textquotedblleft}. Man nennt diesen Druck den
 {\quotedblbase}\index{osmotischer Druck}\gT{osmotischen
 Druck}{\textquotedblleft}. Mann kann auch sagen
-{\quotedblbase}das Wasser folgt dem Konzentrationsgef\"alle{\textquotedblleft}.}
+{\quotedblbase}das Wasser folgt dem
+Konzentrationsgef\"alle{\textquotedblleft}.}
+} 
 {\begin{center}
 \includegraphics[width=\linewidth]{./images/osmose.png}
 \captionof{figure}{Diffusion. \gSourcePicture{Fischer}}
@@ -1508,15 +1662,15 @@ Druck}{\textquotedblleft}. Mann kann auch sagen
 
 
 \gZ{Daneben gibt es den {\quotedblbase}onkotischen
-Druck{\textquotedblleft} der durch Eiwei{\ss}bestandteile ausge\"ubt wird.}
+Druck{\textquotedblleft} der durch Eiwei{\ss}bestandteile ausge\"ubt wird.
 
 Wie kommen die Elektrolyte in die einzelnen R\"aume wenn doch nur Wasser
-die Wand passieren kann?
-
-Daf\"ur gibt es in der Zelle spezielle "`Pumpen"'
+die Wand passieren kann? Daf\"ur gibt es in der Zelle spezielle "`Pumpen"'
 \gZ{(Transportproteine)} die die Ionen hin und her
-bef\"ordern. Die Steuerung richtige Verteilung der verschiedenen Ionen ist recht kompliziert aber lebenswichtig. Eine {\quotedblbase}falsche{\textquotedblleft} Verteilung der Elektrolyte
-kann schlimme Folgen haben (zB. Herzrhythmusst\"orungen). 
+bef\"ordern. }
+
+Die Steuerung der richtigen Verteilung der verschiedenen
+Ionen ist recht kompliziert aber lebenswichtig. Eine {\quotedblbase}falsche{\textquotedblleft} Verteilung der Elektrolyte kann schlimme Folgen haben (zB. Herzrhythmusst\"orungen). 
 
 \gFazit{Die richtige Verteilung der Elektrolyte im K\"orper
 ist lebenswichtig. Elektrolyst\"orungen k\"onnen lebensgef\"ahrlich sein. }
@@ -1532,6 +1686,7 @@ Elektrolyst\"orungen}\index{Elektrolyst\"orungen}
     \item Durchfall, Erbrechen (Verlust von Elektrolyten)
     \item Medikamente
     \item Vergiftung
+    %\item \gZ{Hormonentgleisungen}
 \end{itemize}
 
 
@@ -1540,15 +1695,13 @@ Elektrolyst\"orungen}\index{Elektrolyst\"orungen}
 
 Blutvolumen = Plasmawasser + zellul\"are Bestandteile (Blutk\"orperchen)
 
-Beim Erwachsenen 7-8\,\% des Körpergewichts
+Beim Erwachsenen 7-8\,\% des Körpergewichts, beim
+Neugeborenen / S\"augling 8-9\,\% des Körpergewichts. 
 
-Beim Neugeborenen / S\"augling 8-9\,\% des Körpergewichts  
+Verluste bis 20\,\% sind prinzipiell ohne
+Funktionsbeeintr\"achtigung tolerierbar, allerdings
+kommt es bald zu Sch\"aden in der Endstrombahn. 
 
-Verluste bis 20\,\% ohne Funktionsbeeintr\"achtigung
-tolerierbar, allerdings Sch\"aden in der  Mikrozirkulation
-
-${\rightarrow}$ auch ohne klinische Anzeichen ist bei
-Volumensverlust ein Volumensersatz erforderlich!
 
 \begin{itemize}
     \item osmotischer Druck
@@ -1582,9 +1735,9 @@ L\"osung ist.}
 pH\,{\textless}\,7 ist sauer, pH\,=\,7 ist neutral,
 pH\,{\textgreater}\,7 ist basisch
 
-\gZ{pH normal ca. um 7,4.
-
-pH {\textless} 7,35  $\rightarrow$ Azidose, pH {\textgreater} 7,45  $\rightarrow$ Alkalose}
+\gZ{Der pH beim Menschen ist normal ca. um 7,4.  Einen pH
+unter 7,35  bezeichnet man als eine \gE{Azidose}, einen pH
+über 7,45  als \gE{Alkalose}}
 
 Der richtige pH-Wert ist lebenswichtig. Der K\"orper ist da sehr
 empfindlich, der pH-Wert muss sich in engen grenzen bewegen. Schon
@@ -1595,7 +1748,7 @@ pH-Wert zu messen, jedoch haben wir gro{\ss}en Einflu{\ss} auf ihn
 durch unsere Ma{\ss}nahmen, siehe unten. 
 
 Bei einer \"Ubers\"auerung sprechen wir von einer
-\index{Azidose}\gT{Azidose}, wenn der Patient basisch wird
+\index{Azidose}\gT{Azidose}, wenn der Patient basisch wird, 
 von einer \index{Alkalose}\gT{Alkalose}.
 
 \gFazit{Bei einer \gEs{\"Ubers\"auerung} sprechen wir von
@@ -1633,29 +1786,50 @@ von einer \gT{Alkalose}.}
     \end{itemize}
 \end{itemize}
 
-\subsubsection{Atmungsbedingte \"Ubers\"auerung - Respiratorische Azidose}
-\label{bkm:RefHeading35233321}\index{\"Ubers\"auerung}\index{Respiratorische
+\subsubsection{Atmungsbedingte \"Ubers\"auerung --
+Respiratorische Azidose} \label{bkm:RefHeading35233321}\label{topic:azidose-respiratorische}\index{\"Ubers\"auerung}\index{Respiratorische
 Azidose}durch Hypoventilation / verminderten  Gasaustausch:
 
 $CO_2$  Abatmung vermindert ${\rightarrow}$ Anhäufung von
 $CO_2$ im Blut\footnote{\gZ{Hyperkapnie}}, Ans\"auerung des
 Blutes
 
+
+\gParallel{
 \paragraph{Ursachen}
 
 \begin{itemize}
-    \item Insuffiziente Atmung / Atemstillstand
-\end{itemize}
-
-\paragraph{Therapie}
+    \item Insuffiziente innere oder äußere Atmung
+    \begin{itemize}
+        \item Verlegung der Atemwege
+        \item Atemfrequenz zu niedrig
+        \item Atemzugsvolumen zu gering
+        \item Sauerstoffangebot in der Einatemluft zu gering
+        \item Gasaustausch beeinträchtigt
+        \item Kreislauf zu schwach\footnote{Ist zwar nicht
+        direkt atmungsbedingt, aber es kommt zu wenig
+        Sauerstoff ins Gewebe.}
+    \end{itemize}
+    \end{itemize}
+}{
+\gMassnahmen{
+\paragraph{Maßnahmen}
 
 \begin{itemize}
+    \item Behebung der Ursache
     \item Erh\"ohung des Atem-Minuten-Volumens
 \end{itemize}
+}
+}
+
+
+
 
 
 \subsubsection{Stoffwechselbedingte \"Ubers\"auerung
--Metabolische Azidose} \index{\"Ubes\"auerung}\index{Metabolische Azidose}Zunahme von S\"auren im  K\"orper
+-- Metabolische Azidose} 
+\label{topic:azidose-metabolische}
+\index{\"Ubes\"auerung}\index{Metabolische Azidose}Zunahme von S\"auren im  K\"orper
 
 \paragraph{Ursachen}
 
@@ -1674,12 +1848,14 @@ Blutes
 \end{itemize}
 
 \subsubsection{Atmungsbedingte (respiratorische) Alkalose}
-\index{Alkalose}Hyperventilationssyndrom
+\label{topic:alkalose-respiratorische}\index{Alkalose}Hyperventilationssyndrom
 
 Elektrolytverschiebung: Kribbeln in den Fingern, Pf\"otchenstellung,
 Kr\"ampfe
 
 \subsubsection{Stoffwechselbedingte (metabolische) Alkalose}
+\label{topic:alkalose-metabolische}
+
 z.B. durch anhaltendes Erbrechen: Verlust von S\"aure
 
 \subsubsection*{Zusammenfassung}
@@ -1700,7 +1876,7 @@ werden.}
 
 \section{Tod}
 
-Der Tod ist eine der grundlegensten und unausweichlischsten
+Der Tod ist eine der grundlegensten und unausweichlichsten
 Vitalfunktionen überhaupt.  
 
 
@@ -1785,6 +1961,8 @@ wurde.}
 Unter den folgenden Voraussetzungen darf eine
 Reanimation unterlassen werden:
 
+\begin{multicols}{2}
+
 \begin{itemize}
     \item \gEs{Verwesung}
     \item \gEs{Fäulnis}
@@ -1792,15 +1970,41 @@ Reanimation unterlassen werden:
     \item \gEs{Skelettierung}
     \item \gEs{Verletzungen, die nicht mit dem Leben 
     vereinbar sind}
-    \item \gEs{Tierfraß}
+    \item \gEs{Tierfraß}\footnote{Unter
+    \gE{"`Tierfraß"'} versteht den Verzehr eines Kadavers
+    durch Kadaverfresser. Ein frischer Hundebiß oder
+    Ähnliches fällt \underbar{nicht} darunter. Maden können
+    sich im Gewebe von Lebenden einnisten und sind
+    auch kein sicheres Zeichen.}
     \item Verbindliche oder Beachtliche
     \gEs{Patientenverfügung} wie unter
-    \ref{topic:patientenverfuegung} ausgefhrt
+    \ref{topic:patientenverfuegung} ausgeführt
     \item Abbruch der Reanimationsma{\ss}nahmen aufgrund
     von \gEs{Ersch\"opfung}
+    \item Unvereinbarkeit mit
+    \gEs{Selbstschutz}\footnote{Die Unvereinbarkeit mit dem Selbstschutz ist kritisch zu
+    betrachten. Es müssen auf jeden Fall alle Maßnahmen
+    getroffen werden die ohne Gefährdung des Selbstschutzes
+    möglich sind. So wird zum Beispiel für Ersthelfer
+    empfohlen nur eine Herzdruckmassage durchzuführen wenn
+    eine Mund-zu-Mund-Beatmung nicht zumutbar ist.}
 \end{itemize}
+\gAuthNotes{GABG: gesicherte bösartige Erkrankung?}
 
-\putbib
+GABS: Was gilt als gesichert? Was gilt als bösartig? Eine
+bösartige Grunderkrankung gilt nich per se als Argument um
+nicht zu reanimieren --> Pateintenverfügung, mutmaßlicher
+Patientenwille. Prostatakarzinom und Infarkt?
+\end{multicols}
+
+%O2:
+%\nocite{Morris2001,Milross1989,Boumphrey2003}
+%\nocite{BoehmerTaschRett6,Fauci2008,LPN3,LippertAnatomie7,StriebelAn7,DRAn3}
+
+
+%\putbib
+
+\gChapterBibliography
 
 
 

@@ -8,7 +8,9 @@
 *.ind
 *.log
 *.lof
+*.maf
 *.mtc
 *.mtc*
-*.pdf
+AAS.pdf
 *.toc
+*.tmp

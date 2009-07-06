@@ -2,15 +2,27 @@
 % \setlength{\voffset}{-15pt}
 % \setlength{\textheight}{720pt}
 % \setlength{\marginparwidth}{5cm}
- 
+
+% Hallo! 
 
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
 
 %\usepackage{excludeonly}
-%\excludeonly{include-anatomie-chapter}
+%\includeonly{include-anatomie-chapter}
+%\excludeonly{include-betriebsintern-chapter,include-regional-chapter,include-taetigkeitsbild-chapter,include-erstehilfe-chapter,include-recht-chapter,include-reserve-ende}
+%\includeonly{include-recht-chapter}
+%\includeonly{include-angewsanhilfe-chapter,include-mednotfaelle-chapter}
+
 %\includeonly{include-mednotfaelle-chapter}
+
+%\includeonly{include-traumanotfaelle-chapter}
+
+%\includeonly{include-autoreninfo}
+
+%\includeonly{include-khd-chapter}
+% \includeonly{include-geraetelehre-chapter}
 
 
 \usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts,skull}
@@ -20,10 +32,12 @@
 \usepackage{dingbat}
 \restoresymbol{DINGBAT}{checkmark}
 
+
+\usepackage{shorttoc}
 %Symbole
-\usepackage{makeidx,minitoc}
+\usepackage{makeidx}
 %\usepackage{showidx} % shows index entries on page margin
-\usepackage{showkeys}
+%\usepackage{showkeys}
 
 \usepackage{units}
 
@@ -41,14 +55,14 @@
 
 \usepackage{hhline}
 
-\usepackage{graphicx} % Bilder-Support
+\usepackage[draft]{graphicx} % Bilder-Support
 %\usepackage{ooomath}
 
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
-\usepackage[dvipsnames,hyperref]{xcolor}
+\usepackage[svgnames,hyperref]{xcolor}
 \definecolor{pink}{rgb}{1,0.5,0.5}
 \definecolor{LightSkyBlue}{rgb}{0.5,0.5,1}
 \definecolor{MidnightBlue}{rgb}{0,0,0.5}
@@ -67,6 +81,7 @@
 \definecolor{paleyellow}{rgb}{1,1,0.8}
 \definecolor{black}{rgb}{0,0,0}
 \definecolor{RED}{rgb}{1,0,0}
+\definecolor{Mulberry}{rgb}{1,1,0.8}
 
 
 
@@ -124,6 +139,7 @@ footskip=10mm,
 % \renewcommand{\sfdefault}{pag} % Adobe Avantgarde
 \usepackage[scaled]{helvet}
 
+%\renewcommand{\bfseries}{\fontseries{b}\selectfont}
 %\renewcommand{\sfdefault}{phv} % Adobe Helvetica
 \renewcommand{\sfdefault}{lmss} % Computer Modern Syns Serif
 
@@ -137,6 +153,7 @@ footskip=10mm,
 % %\setkomafont{disposition}{\mdseries\sffamily\fontfamily{augie}\selectfont}
 \setkomafont{captionlabel}{\mdseries\rmfamily\bfseries}
 % \setkomafont{caption}{\mdseries\rmfamily}
+\setkomafont{subject}{\mdseries\Huge\itshape}
 % \addtokomafont{part}{\Huge\color{darkBlue}}
 % \addtokomafont{partnumber}{\Huge\color{ubuntured}}
 % %\addtokomafont{chapter}{\Huge\sffamily\fontfamily{phv}\bfseries\color{ubuntured}}
@@ -146,6 +163,21 @@ footskip=10mm,
 % \addtokomafont{paragraph}{\large\sffamily\color{darkBlue}}
 % \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 % \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
+
+
+
+\addtokomafont{part}{\Huge\color{darkBlue}}
+\addtokomafont{partnumber}{\Huge\color{ubuntured}}
+
+\addtokomafont{chapter}{\Huge\sffamily\fontfamily{phv}\bfseries\color{ubuntured}}
+\addtokomafont{section}{\Huge\color{ubuntured}}
+\addtokomafont{subsection}{\huge\color{ubuntured}}
+\addtokomafont{subsubsection}{\LARGE\color{darkBlue}}
+\addtokomafont{paragraph}{\large\color{darkBlue}}
+\addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
+% \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
+
+
 
 %schusterjungen
 % Disable single lines at the start of a paragraph (Schusterjungen)
@@ -176,6 +208,8 @@ footskip=10mm,
 \addtokomafont{chapter}{\Huge\color{ubuntured}\fontfamily{augie}\selectfont}
 %\addtokomafont{chapter}{}
 
+\usepackage{minitoc} %The quotchap package should be loaded BEFORE the minitoc package.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Header
 \usepackage{fancyhdr}
 
@@ -190,9 +224,17 @@ footskip=10mm,
 \fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---
 }}}
 \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
-\fancyfoot[CE,CO]{\gEs{\gAuthNotes{ --- ENTWURF --- }}}
-\fancyfoot[LE]{} 
-\fancyfoot[RO]{} 
+
+\fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
+Entwicklungszweig:
+\input{./tmp/git-current-branch.tmp} -- Letztes Commit:
+\input{./tmp/git-lastcommit.tmp}}}}
+% \fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
+% internen Gebrauch!}}}
+% \fancyfoot[LE]{{\AASS{}~ \itshape v.\,0.2.0}} 
+% \fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.0}} 
+%%%
+
 
 % % leading zeros
 % \usepackage{numprint}
@@ -255,27 +297,28 @@ footskip=10mm,
 
 \newcommand\gA[1]
 %	{} % Don't display any annotations
-	{{\scriptsize\ttfamily{#1}}}
+	{{\scriptsize\color{Red}\ttfamily{#1}}}
 
 \newcommand\gAuthNotes[1]
 %	{} % for final release
-	{{\color{Mulberry}{\ttfamily{#1}}}}
+	{{\color{Red}{\ttfamily{#1}}}}
 
 
 % track changes
 % WHO WHEN WHAT
 \newcommand{\gACh}[3]
-%	{} % for final release
-	{\gA{\footnote{\underline{\gAuthNotes{#1}} \gA{#2}: \gA{#3 }}}}
+	{} % for final release
+%	{\gA{\footnote{\underline{\gAuthNotes{#1}} \gA{#2}: \gA{#3 }}}}
 %\newcommand{\gACh}[3]{}
 
 \newcommand{\gChangelog}[1]
-%	{} % for final release
-	{\gA{#1}}
+	{} % for final release
+%	{\gA{#1}}
 
 % Warnung: Bildlizenz nicht ok.
 \newcommand{\gAuthNotesPicLegalNotOk}[2]
-	{\gA{Bild: \underline{#1}: Quelle zweifelhaft! #2}}
+	{\gA{{\color{darkBlue}Bild: \underline{#1}: Quelle
+	zweifelhaft! #2}}}
 
 % Info: Bildlizenz ok
 \newcommand\gAuthNotesPicLegalOk[2]
@@ -318,7 +361,10 @@ footskip=10mm,
 \newcommand\gTt[1]{{\ttfamily{#1}}}
 
 % Cave
-\newcommand\gCa[1]{\textbf{\textcolor{black}{#1}}}
+\newcommand\gCa[1]{{\sffamily\textbf{\textcolor{ubuntured}{#1}}}}
+
+% Kommentar
+\newcommand\gCo[1]{{\scriptsize\sffamily{#1}}}
 
 \newcommand\gNw[1]{#1}
 
@@ -326,11 +372,9 @@ footskip=10mm,
 \newcommand\gSub[1]{\ensuremath{{}_{\text{#1}}}}
 
 % Table Heading 
-\newcommand\gTabHeading[1]
-	{{\color{darkBlue}\bfseries\sffamily #1}}
+\newcommand\gTabHeading[1]{{\color{darkBlue}\bfseries #1}}
 	 
-\newcommand\gTabSub[1]
-	{{\bfseries\sffamily #1}}
+\newcommand\gTabSub[1]{{\bfseries #1}}
 
 % Account
 \newcommand{\gKto}[1]{#1}
@@ -346,7 +390,7 @@ footskip=10mm,
 	\begin{center}
     	\fcolorbox{ubuntured}{paleyellow}{
       		\begin{minipage}[t]{\linewidth}
-      		{\ttfamily\color{ubuntured}#1}
+      		{\sffamily\color{ubuntured}#1}
       	\end{minipage}}
   	\end{center}
 	\end{quote}
@@ -382,8 +426,11 @@ footskip=10mm,
  
 \newcommand{\gMassnahmen}[1]
 	{
-	{\centering \cornersize{0.5}
-	\ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily{#1}}}}}
+    	\fcolorbox{AliceBlue}{AliceBlue}{
+      		\begin{minipage}[t]{\linewidth}
+      			{\color{darkBlue}#1}
+      		\end{minipage}
+		} 
 	}
 
 
@@ -401,8 +448,10 @@ footskip=10mm,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Married texts
 
 \newenvironment{gMassnahmenEnv}
-	{\noindent\begin{center}\begin{boxedminipage}[H]{\linewidth}\color{darkBlue}} 
+	{\noindent\begin{center}\begin{boxedminipage}[H]{\linewidth}\color{darkBlue}}
 	{\end{boxedminipage}\end{center}}
+
+
 
 % \newenvironment{gMassnahmenEnv}
 % {\noindent\begin{quote}\fcolorbox{paleBlue}{paleBlue}\begin{minipage}[t]{\linewidth}\color{darkBlue}}{\end{minipage}\end{quote}}
@@ -434,9 +483,16 @@ footskip=10mm,
 
 \newcommand{\gMarried}[2]
 	{
+	\begin{minipage}[b]{0.48\linewidth}\begin{minipage}{\linewidth}#1\end{minipage}\end{minipage}
+    \hspace{0.04\linewidth}
+	\begin{minipage}[b]{0.48\linewidth}\begin{minipage}{\linewidth}#2\end{minipage}\end{minipage}
+	}
+	
+\newcommand{\gParallel}[2]
+	{
 	\begin{minipage}[t]{0.48\linewidth}#1\end{minipage}
     \hspace{0.04\linewidth}
-	\begin{minipage}[t]{0.48\linewidth}{\tiny ~}\par#2\end{minipage}
+	\begin{minipage}[t]{0.48\linewidth}#2\end{minipage}
 	}
 
 
@@ -474,12 +530,16 @@ footskip=10mm,
 		\end{tabularx}
 	}
 
-%%% AAS-specific
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   AAS-specific
+
+\newcommand{\AASS}{{\mdseries\upshape\fontfamily{lmss}\selectfont{\color{ubuntured}AAS}{\color{darkBlue}S}}}
+    
 
 \newcommand{\gAasRsN}[1]{ {\sffamily\bfseries #1}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Items
 % Set spacing between imtems
+\usepackage{paralist}
 \usepackage{tweaklist}
 \renewcommand{\itemhook}{\setlength{\topsep}{0pt}%
   \setlength{\itemsep}{-3pt}}
@@ -490,9 +550,12 @@ footskip=10mm,
 %customize descritpions
 \renewcommand\descriptionlabel[1]{\hspace{\labelsep}\textcolor[rgb]{0.8,1,0.8}{\Squaresteel}\hspace{\labelsep}\gEs{#1}}
 
-\newcommand{\gLMin}{\unitfrac{l}{min}}
+\newcommand{\gLMin}{\,\unitfrac{l}{min}}
 
 \newcommand{\gTxBeiVit}{Bei vitaler Bedrohung: }
+
+\newcommand{\gTxMassVit}{Standardmaßnahmen bei
+vital bedrohten Patienten. }
  
 \newcommand{\gTxMassVitBes}{Standardmaßnahmen bei
 vital bedrohten Patienten. Besonderheiten:}
@@ -517,14 +580,20 @@ vital bedrohten Patienten. Besonderheiten:}
 % \end{center}
 % \end{minipage}}
 % 
-% \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
+% \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Withofner}
 
-% \bibliographystyle{unsrtdin2}
-\usepackage{bibunits}
-\bibliographyunit[\chapter]
-\defaultbibliography{Literatur-AAS}
+\bibliographystyle{plain}
+%\bibliographystyle{unsrtdin}
+%\bibliographystyle{plaindin}
+%\usepackage{bibunits}
+%\bibliographyunit[\chapter]
+%\defaultbibliography{../Literatur-AAS}
+%\defaultbibliography{Literatur-AAS}
 %\defaultbibliographystyle{unsrtdin2}
-\defaultbibliographystyle{plain}
+%\defaultbibliographystyle{plain}
+\usepackage{chapterbib}
+\newcommand{\gChapterBibliography}{\bibliographystyle{plain}{\scriptsize
+\bibliography{Literatur-AAS}}}
 
 
 \makeindex
@@ -561,6 +630,8 @@ Sani-tä-ter
 schmerz-los-en
 sit-uat-ions-ge-recht
 sit-uat-ions-ge-rechte
+Tot-raum
+Wien
 }
 
 
@@ -591,18 +662,48 @@ sit-uat-ions-ge-rechte
 % #######################################################################################################
 \begin{document}
 \begin{titlepage}
-\titlehead{Version 0.0.1-2009-05-13-00 Variante:
-\gH{oneside, nach SVN-Umstellung} \par Ausgabe für das
-Ausbildungszentrum des ASB Floridsdorf-Donaustadt \par \LaTeX
--Dokument. Der Teil \emph{"`Großschaden und
-Gefahrgutunfälle"'} verbleibt noch im OpenOffice-Dokument
-und wird erst in Version 0.3.x übernommen. \par
-Diese Zweig soll als Version 0.2.0 im RS-Kurs 2009/07
-(ET VII/2009) eingesetzt werden.}
-\author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Witthofner}
+% \titlehead{% Version 0.0.1-yyyy-mm-dd  \par 
+% {\sffamily
+% \gEs{ -- ENTWURF --}
+% 
+% \gEs{Entwicklungszweig:}
+% {\ttfamily\input{./tmp/git-current-branch.tmp}}
+% \par
+% \gEs{Letztes Commit:} 
+% 
+% {\ttfamily\input{./tmp/git-lastcommit.tmp}}
+% 
+% \vspace{1em}
+% {\bfseries Edition:} Ausgabe für das
+% Ausbildungszentrum des ASB Floridsdorf-Donaustadt
+% 
+% \vspace{1em}
+% Diese Zweig soll als Version 0.2.0 im RS-Kurs 2009/07
+% (ET VII/2009) eingesetzt werden.}}
+
+\titlehead{Vorabversion 0.2.0 (Ed. ASB -- ET VII/2009)}
+
+\author{{\normalsize Herausgeber} \vspace{0.5em}\\Gabriel, Koch, Emhofer, Motal, Steuer
+\vspace{1em}\\{\itshape\normalsize{ Mit Beiträgen von
+Christof Koller, Michael Withofner u.a.}}}
+
 \title{Arbeits- und Ausbildungsstandards f\"ur den Sanitätsdienst}
-\subtitle{und eine Einf\"uhrung in die Welt der Medizin und
-Sanitätshilfe}
+
+\subtitle{Angepasste Edition für das Ausbildungszentrum des
+ASB Floridsdorf-Donaustadt}
+
+\subject{\Huge{\AASS}}
+
+\date{Juli 2009}
+
+\publishers{{\fontfamily{lmss}\selectfont ARGE \AASS}}
+
+\uppertitleback{\emph{Titelbild: Sebastian Gabriel.}
+
+\emph{NFS Bernhard Lehner ersucht einen Passanten Platz zu
+machen. Schnappschuß mit einer Handy-Kamera am Donauinselfest
+2007.}}
+
 \lowertitleback{\begin{gWideParEnv}\centering\begin{minipage}{8cm}
 \begin{center} 
 Dieses Projekt enstand in Zusammenarbeit mit dem
@@ -621,6 +722,11 @@ und
 
 unterstützt.\vspace{2em}
 
+\includegraphics[width=3cm]{./icons/asb.png}
+
+{\sffamily\fontfamily{phv}Gruppe
+Floridsdorf-Donaustadt}\par\vspace{2em}
+
 \includegraphics[width=5cm]{./images/logos/cyberservice.png}
 
 {\sffamily\fontfamily{phv}www.cyberservice.net}\par\vspace{2em}
@@ -628,8 +734,19 @@ unterstützt.\vspace{2em}
  {\Huge Grissu.org}\par\vspace{1em}
 \textit{serving the community} \par \textit{since 1999} 
 \end{center}
-\end{minipage}\end{gWideParEnv}}
+\end{minipage}
+\vspace{2em}
+\begin{center}
+{\bfseries\itshape Nur für den internen Gebrauch gem §\,42
+Abs.\,6 UrheberG bestimmt. Weitergabe nicht gestattet.}
+\end{center}
+
+\end{gWideParEnv}}
+
+\dedication{saluti et solatio aegrorum}
+
 \end{titlepage}
+
 \maketitle
 
 %\nocite{*} 
@@ -646,77 +763,128 @@ unterstützt.\vspace{2em}
 % \"Arztlichen Leitung und den \"ubergeordneten Gremien  entwickeln wir
 % Arbeitsstandards und Lehrmeinungen. ü 
 
-% 2 Spalten, macht erst Sinn wenn Seite ohne Rand ist.
-%\begin{multicols}{2}
-\setcounter{tocdepth}{3}
-%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
-\dominitoc
-\tableofcontents
-%\end{multicols}
-%\setcounter{tocdepth}{10}
-%\renewcommand\contentsname{Inhalt - Detail\"ubersicht}
-%\tableofcontents
+\section*{Impressum, Nutzungsbedingungen und Hinweise}
+\begin{multicols}{2}
+{\bfseries Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für den
+Sanitätsdienst} -- {\fontfamily{lmss}\selectfont
+ARGE \AASS}
 
-\listoffigures
-%\bibliography{Literatur-AAS}
+Engerthstraße 146\,/\,8\,/\,13 \\ A-1200 Wien -- AUSTRIA
 
+E-Mail: office@aass.at
+
+Homepage: \url{http://www.aass.at}
+
+\paragraph*{Mitarbeit und Meldung von Fehlern}~
+
+Wünsche, Anregungen, Beschwerden und Fehlermeldungen können
+in unser Bug Tracker-System unter
+\url{http://www.aass.at/bugs} eingegeben werden.
+
+\paragraph*{Nutzungsbestimmungen}~
+
+Dieses Werk ist nur für den internen Gebrauch gem §\,42
+Abs.\,6 UrheberG bestimmt. Die Weitergabe ist nicht
+gestattet. 
+
+Sollten Sie Interesse an den Arbeits- und
+Ausbildungsstandards für den Sanitätstdienst haben setzen
+Sie sich bitte mit uns in Verbindung.
+
+\begin{minipage}{\linewidth}
+\paragraph*{Hinweise}~
+
+Wie jede Wissenschaft ist die Medizin ständigen Ent\-wicklungen
+unterworfen. Soweit fachliche Angaben ge\-macht werden, darf der Leser
+zwar darauf ver\-trau\-en, dass die Autoren gro{\ss}e Sorg\-falt
+da\-rauf verwandt haben, dass diese An\-ga\-ben dem Wissens\-stand bei
+Ferti\-gstel\-lung des Werkes entspricht. Für Angaben, spe\-ziell
+über Dosierungsanweisungen und Ap\-plikations\-formen, kann jedoch
+keine Ge\-währ übernommen werden. 
+\end{minipage}
+
+Jeder Leser ist angehalten, durch
+sorg\-fältige Prü\-fung der Literatur, der Lehrmeinung so\-wie der
+Beipackzettel der ver\-wendeten Präparate und gegebenenfalls nach
+Konsultation eines Spezialisten fest\-zustellen, ob die gegebene
+Aussage oder Empfehlung für Do\-sierungen oder die Beachtung von
+Kon\-tra\-indi\-ka\-tionen gegenüber der Angabe in diesem
+Werk abweicht. Jede Dosierung oder Ap\-pli\-kation erfolgt
+auf eigene Gefahr des Be\-nutzers. 
+
+Die ARGE AASS appelliert an jeden Le\-ser ihm etwa auffallende Un\-ge\-nau\-igkei\-ten umgehend über
+das Webinterface \url{http://www.aass.at/bugs} mitzuteilen.
+
+Geschützte Waren\-namen und Wa\-ren\-zei\-chen werden nicht besonders
+kenntlich ge\-macht. Aus dem Fehlen eines solchen Hin\-weises kann also
+nicht ge\-schlossen werden, dass es sich um einen freien Waren\-namen
+handelt.
+\end{multicols}
+
+\clearpage
 \section*{Autoren und Mitwirkende}
 
-\emph{(in alphabetischer Reihenfolge)}
-\strongemph{echt!}
+\emph{\tiny{(in alphabetischer Reihenfolge)}}
+
 
 \begin{multicols}{2}
-\begin{description}
     
-    \item[Josef Emhofer]
-    Mag. phil.
+ \paragraph{Josef Emhofer}
+    Mag. 
     
-    Ausbildungszentrum des ASB Floridsdorf-Donaustadt
-    
+    Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
     Wallenberggasse 2, A-1220 Wien\\
-    \item[Gerhard Gabriel]
+
+    \paragraph{Gerhard Gabriel}
     Dr. med. univ.
     
-    Facharzt f\"ur Innere Medizin
-    A-2103, Langenzersdorf
+    Facharzt f\"ur Innere Medizin, Langenzersdorf
     
-    \item[Sebastian Gabriel]
+    \paragraph{Sebastian Gabriel}~
     
     Medizinische Universität Wien -- Besondere Einrichtung zur
     Medizinischen Aus- und Weiterbildung
     
     Spitalgasse 23, A-1090 Wien
+
+    Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
+    Wallenberggasse 2, A-1220 Wien
     
-    \item[Lena Hirtler]
+    \paragraph{David Hauer}
+    Dr. med. univ.
+    
+    Landeskrankenhaus St. Pölten
+    
+    \paragraph{Lena Hirtler}~
 
     Medizinische Universität Wien -- Zentrum f\"ur Anatomie und
     Zellbiologie, Abt. f\"ur systematische Anatomie
     
     Währingerstra{\ss}e 13, A-1090 Wien
     
-    \item[Thomas Hochreiter]
+    \paragraph{Thomas Hochreiter}
     DGKP
     
-    Ausbildungszentrum des ASB Floridsdorf-Donaustadt
-    
+    Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
     Wallenberggasse 2, A-1220 Wien
     
-    \item[Roman Koch] 
+    \paragraph{Roman Koch} 
     Ing.
     
-    Leiter Ausbildungszentrum des ASB Floridsdorf-Donaustadt
+    Leiter Ausbildungszentrum des ASB
+    Floridsdorf-Donaustadt, Wallenberggasse 2, A-1220 Wien
     
-    Wallenberggasse 2, A-1220 Wien
+    \paragraph{Christof Koller}~
     
-    \item[Christoph Koller]
-    Ausbildungszentrum des ASB Floridsdorf-Donaustadt
+    Ausbildungszentrum des ASB Floridsdorf-Donaustadt,
     Wallenberggasse 2, A-1220 Wien\\
     
-    \item[Michael Motal]
-    Ausbildungszentrum des ASB Floridsdorf-Donaustadt
+    \paragraph{Michael Motal}~
+    
+    Ausbildungszentrum des ASB Floridsdorf-Donaustadt,
     Wallenberggasse 2, A-1220 Wien\\
     
-    \item[Johannes Steuer]
+    \paragraph{Johannes Steuer}
     Dr. med. univ., M.Sc.
     
     \"Arztlicher Leiter und Medizinisch-wissenschaftlicher Leiter der
@@ -729,31 +897,58 @@ unterstützt.\vspace{2em}
     Abteilung f\"ur Anästhesiologie und Intensivmedizin
     Langobardenstra{\ss}e 122, A-1220 Wien
     
-    \item[Michael Witthofner]
+    \paragraph{Michael Withofner}
     Dr. med. univ.
     
     Wien
     
-\end{description}
 \end{multicols}
 
-\section*{Software}
+\section*{Die Technik}
 
-\begin{description}
-\item[Satz und Druckvorstufe] \LaTeX 
-\item[Literaturverzeichnis] JabRef 2.4.2  
-\item[Textverarbeitung und Rohentwurf] OpenOffice 3.0 --- http://www.openoffice.com
-\item[Betriebssysteme] \par
+\begin{multicols}{2}
+\paragraph{Satz und Druckvorstufe} \LaTeX{} mit {\sffamily KOMA-Script} 
+\paragraph{Entwicklungsumgebung} Eclipse Ganymed mit Texlipse- und JGit-Plugin,
+Texmaker
+\paragraph{Versionsverwaltung} Git
+\paragraph{Literaturverzeichnis} JabRef 2.4.2, Zotero, BibTeX  
+\paragraph{Textverarbeitung und Rohentwurf} OpenOffice 
+\paragraph{Betriebssysteme} \par
 
  \begin{itemize}
   \item Rohentwurf: Linux (Debian, Gentoo, Ubuntu), MacOS X, MS Windows XP, Vista
-  \item Endproduktion: Ubuntu Linux 8.10 \textit{"`Intrebid
-  Ibex"'}, http://www.ubuntu.com
+  \item Endproduktion: Ubuntu Linux 9.04
+  \textit{"`Jaunty Jackalope"'}, \url{http://www.ubuntu.com}
  \end{itemize}
-\end{description}
+
+\end{multicols}
+
+\shorttableofcontents{Übersicht}{0}
+% 2 Spalten, macht erst Sinn wenn Seite ohne Rand ist.
+%\begin{multicols}{2}
+\setcounter{tocdepth}{2}
+%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
+\dominitoc
+\tableofcontents
+%\end{multicols}
+% 2\setcounter{tocdepth}{3}
+% %\renewcommand\contentsname{Inhalt - Detail\"ubersicht}
+% \tableofcontents
+
+\listoffigures
+
+\printindex
+
+% \nocite{*}
+% \begin{multicols}{2}
+% {\scriptsize \bibliography{Literatur-AAS}}
+% \end{multicols}
 
 
 
+
+% \include{include-autoreninfo}
+ 
 
 \part{Allgemeiner Teil}
 
@@ -771,24 +966,35 @@ unterstützt.\vspace{2em}
 
 \include{include-erstehilfe-chapter}
 
+\chapter{Defibrillation mit halbautomatischen Geräten ---
+\gAasRsN{RS VIII}}
+
 \include{include-geraetelehre-chapter}
 
 \include{include-angewsanhilfe-chapter}
+
+\include{include-einfmed-chapter}
 
 \include{include-anatomie-chapter}
 
 \include{include-vitalfunktionen-chapter}
 
+\include{include-hygiene-chapter}
+
 \include{include-mednotfaelle-chapter}
 
 \include{include-traumanotfaelle-chapter}
 
-\include{include-hygiene-chapter}
+\chapter{Reserviert \gA{Leitsymptome}}
+
+\include{include-khd-chapter}
 
 \include{include-reserve-ende}
 
 
 \include{include-appendix}
+
+
 
 SO LONG..........
 

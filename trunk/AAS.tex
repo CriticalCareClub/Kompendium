@@ -58,7 +58,7 @@
 
 \usepackage{hhline}
 
-\usepackage[draft]{graphicx} % Bilder-Support
+\usepackage[final]{graphicx} % Bilder-Support
 %\usepackage{ooomath}
 
 
@@ -228,15 +228,19 @@ footskip=10mm,
 }}}
 \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
 
-\fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
-Entwicklungszweig:
-\input{./tmp/git-current-branch.tmp} -- Letztes Commit:
-\input{./tmp/git-lastcommit.tmp}}}}
-% \fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
-% internen Gebrauch!}}}
-% \fancyfoot[LE]{{\AASS{}~ \itshape v.\,0.2.0}} 
-% \fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.0}} 
-%%%
+
+% %%% DRAFT %%%
+% \fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
+% Entwicklungszweig:
+% \input{./tmp/git-current-branch.tmp} -- Letztes Commit:
+% \input{./tmp/git-lastcommit.tmp}}}}
+
+%%% FINAL %%%
+\fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
+internen Gebrauch!}}}
+\fancyfoot[LE]{{\AASS{}~ \itshape v.\,0.2.0}}
+\fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.0}}
+%%
 
 
 % % leading zeros
@@ -299,12 +303,12 @@ Entwicklungszweig:
 %%%%% Annotations
 
 \newcommand\gA[1]
-%	{} % Don't display any annotations
-	{{\scriptsize\color{Red}\ttfamily{#1}}}
+	{} % Don't display any annotations
+%	{{\scriptsize\color{Red}\ttfamily{#1}}}
 
 \newcommand\gAuthNotes[1]
-%	{} % for final release
-	{{\color{Red}{\ttfamily{#1}}}}
+	{} % for final release
+%	{{\color{Red}{\ttfamily{#1}}}}
 
 
 % track changes

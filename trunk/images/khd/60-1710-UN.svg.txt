@@ -1,0 +1,60 @@
+File:60-1710-UN.svg
+From Wikimedia Commons, the free media repository
+Jump to: navigation, search
+
+    * File
+    * File history
+    * File links
+
+File:60-1710-UN.svg
+SVG rendered as PNG images in different resolutions:
+200px, 500px, 1000px, 2000px.
+
+60-1710-UN.svg‎ (SVG file, nominally 250 × 160 pixels, file size: 4 KB)
+Description 	60-1710-UN.svg
+
+ADR danger sign (see below)
+Date 	
+
+16 April 2008(2008-04-16)
+Source 	
+
+http://fr.wikipedia.org/wiki/Image:60-1710-UN.gif
+Author 	
+
+svg version by Actam
+Permission
+(Reusing this image) 	
+Public domain 	This image is ineligible for copyright and therefore in the public domain, because it consists entirely of information that is common property and contains no original authorship. Text in a general typeface and simple geometric shapes are not protected by copyright.
+
+English | Português | +/−
+
+[edit] Description
+
+ADR danger sign (ADR = Accord Europeen Relatif au Transport International des Marchandises Dangereuses par Route)
+Dansk: Skilt for farligt gods ved transport i henhold til ADR-bestemmelserne om transport i EU. Det øverste tal angiver faregruppen. Tallet skal være på minimum to cifre, derfor tilføjes et nul her. Nederste tal angiver UN-nummeret for stoffet. Dette skilt omhandler trichlorethylen
+English: Sign for hazmat (hazardous material) transport on EU roads. Top number shows danger code. Bottom number shows the UN number in the hazmat list. Top must have at least two digits, thats why a 0 is added. I don't know what Trichlorethylen is called in english?
+
+
+[edit] SVG info
+	
+
+This vector image was created with Inkscape.
+File history
+
+Click on a date/time to view the file as it appeared at that time.
+(Latest | Earliest) View (newer 50) (older 50) (20 | 50 | 100 | 250 | 500)
+	Date/Time	Thumbnail	Dimensions	User	Comment
+current	08:18, 16 April 2008	Thumbnail for version as of 08:18, 16 April 2008	250×160 (4 KB)	Actam (Talk | contribs)	({{Information |Description= ADR danger sign (see below) |Source= http://fr.wikipedia.org/wiki/Image:60-1710-UN.gif |Date= 2008-04-16 |Author= svg version by Actam |Permission= {{PD-text}} |other_versions= }} ==Description== ADR danger sign)
+(Latest | Earliest) View (newer 50) (older 50) (20 | 50 | 100 | 250 | 500)
+
+    * Edit this file using an external application (See the setup instructions for more information)
+
+File links
+
+The following page links to this file:
+
+    * File:60-1710-UN.gif
+
+Retrieved from "http://commons.wikimedia.org/wiki/File:60-1710-UN.svg"
+Categories: Trucks | ADR orange panel by UN number

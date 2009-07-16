@@ -381,7 +381,7 @@
 }
 
 @ARTICLE{OeAG2007,
-  author = {Gemeinsame Erkl\"arung der Deutschen AIDS-Gesellschaft (DAIG) and
+  author = {Gemeinsame Erkl\"arung der Deutschen AIDS-Gesellschaft (DAIG) und
 	Osterreichischen AIDS-Gesellschaft (OAG)},
   title = {[Post-exposure prophylaxis of HIV infection. German-Austrian recommendations,
 	update September 2007]},
@@ -540,6 +540,18 @@
   isbn = {0071458166},
   owner = {grissu},
   timestamp = {2009.05.03}
+}
+
+@BOOK{Gorgass7,
+  title = {Rettungsassistent und Rettungssanit\"ater},
+  publisher = {Springer},
+  year = {2007},
+  author = {Bodo Gorgass and Friedrich Wilhelm Ahnefeld and Rolando Rossiand
+	Hans-Dieter Lippert and Werner Krell and Ge Weber},
+  edition = {7. Auflage},
+  isbn = {3540214879},
+  owner = {grissu},
+  timestamp = {2009.07.16}
 }
 
 @ARTICLE{Huepfl2005,
@@ -774,6 +786,19 @@
   owner = {grissu},
   review = {S. 16 ff Leichenerscheinungen, Todeszeichen.},
   timestamp = {2009.05.02}
+}
+
+@ARTICLE{RD200811Hoffmann,
+  author = {Jan Hoffmann},
+  title = {Chemische Verletzungen im Rettungsdienst: Verbrennungen der anderen
+	Art},
+  journal = {Rettungsdienst},
+  year = {2008},
+  volume = {31},
+  pages = {1076-1081},
+  month = {11},
+  owner = {grissu},
+  timestamp = {2009.07.13}
 }
 
 @ARTICLE{Juurlink2005,

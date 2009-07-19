@@ -37,7 +37,7 @@
 %Symbole
 \usepackage{makeidx}
 %\usepackage{showidx} % shows index entries on page margin
-%\usepackage{showkeys}
+\usepackage{showkeys}
 
 \usepackage{units}
 
@@ -55,7 +55,7 @@
 
 \usepackage{hhline}
 
-\usepackage[final]{graphicx} % Bilder-Support
+\usepackage[draft]{graphicx} % Bilder-Support
 %\usepackage{ooomath}
 
 
@@ -227,16 +227,16 @@ footskip=10mm,
 
 
 % %%% DRAFT %%%
-% \fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
-% Entwicklungszweig:
-% \input{./tmp/git-current-branch.tmp} -- Letztes Commit:
-% \input{./tmp/git-lastcommit.tmp}}}}
+\fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
+Entwicklungszweig:
+\input{./tmp/git-current-branch.tmp} -- Letztes Commit:
+\input{./tmp/git-lastcommit.tmp}}}}
 
 %%% FINAL %%%
-\fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
-internen Gebrauch!}}}
-\fancyfoot[LE]{{\AASS{}~ \itshape v.\,0.2.0}}
-\fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.0}}
+% \fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
+% internen Gebrauch!}}}
+% \fancyfoot[LE]{{\AASS{}~ \itshape v.\,0.2.0}}
+% \fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.0}}
 %%
 
 
@@ -300,24 +300,24 @@ internen Gebrauch!}}}
 %%%%% Annotations
 
 \newcommand\gA[1]
-	{} % Don't display any annotations
-%	{{\scriptsize\color{Red}\ttfamily{#1}}}
+%	{} % Don't display any annotations
+	{{\scriptsize\color{Red}\ttfamily{#1}}}
 
 \newcommand\gAuthNotes[1]
-	{} % for final release
-%	{{\color{Red}{\ttfamily{#1}}}}
+%	{} % for final release
+	{{\color{Red}{\ttfamily{#1}}}}
 
 
 % track changes
 % WHO WHEN WHAT
 \newcommand{\gACh}[3]
-	{} % for final release
-%	{\gA{\footnote{\underline{\gAuthNotes{#1}} \gA{#2}: \gA{#3 }}}}
+%	{} % for final release
+	{\gA{\footnote{\underline{\gAuthNotes{#1}} \gA{#2}: \gA{#3 }}}}
 %\newcommand{\gACh}[3]{}
 
 \newcommand{\gChangelog}[1]
-	{} % for final release
-%	{\gA{#1}}
+%	{} % for final release
+	{\gA{#1}}
 
 % Warnung: Bildlizenz nicht ok.
 \newcommand{\gAuthNotesPicLegalNotOk}[2]
@@ -588,7 +588,7 @@ vital bedrohten Patienten. Besonderheiten:}
 % 
 % \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Withofner}
 
-\bibliographystyle{plaindin}
+\bibliographystyle{plain}
 %\bibliographystyle{unsrtdin}
 %\bibliographystyle{plaindin}
 %\usepackage{bibunits}
@@ -598,7 +598,7 @@ vital bedrohten Patienten. Besonderheiten:}
 %\defaultbibliographystyle{unsrtdin2}
 %\defaultbibliographystyle{plain}
 \usepackage{chapterbib}
-\newcommand{\gChapterBibliography}{\bibliographystyle{plaindin}{\scriptsize\setlength{\parskip}{5pt}
+\newcommand{\gChapterBibliography}{\bibliographystyle{plain}{\scriptsize\setlength{\parskip}{5pt}
 \bibliography{Literatur-AAS}}}
 
 

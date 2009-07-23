@@ -323,13 +323,13 @@ Entwicklungszweig:
 %\bibliographystyle{plaindin}
 %\usepackage{bibunits}
 %\bibliographyunit[\chapter]
-%\defaultbibliography{../Literatur-AAS}
-%\defaultbibliography{Literatur-AAS}
+%\defaultbibliography{../Literatur-AASS}
+%\defaultbibliography{Literatur-AASS}
 %\defaultbibliographystyle{unsrtdin2}
 %\defaultbibliographystyle{plain}
 \usepackage{chapterbib}
-\newcommand{\gChapterBibliography}{\bibliographystyle{plain}{\scriptsize\setlength{\parskip}{5pt}
-\bibliography{Literatur-AAS}}}
+\newcommand{\gChapterBibliography}{\bibliographystyle{plain}{\begin{multicols}{2}\scriptsize\setlength{\parskip}{1pt}
+\bibliography{./Literatur-AASS}\end{multicols}}}
 
 
 \makeindex
@@ -638,7 +638,7 @@ BibTeX \paragraph{Textverarbeitung und Rohentwurf} OpenOffice
 
 % \nocite{*}
 % \begin{multicols}{2}
-% {\scriptsize \bibliography{Literatur-AAS}}
+% {\scriptsize \bibliography{Literatur-AASS}}
 % \end{multicols}
 
 
@@ -649,47 +649,47 @@ BibTeX \paragraph{Textverarbeitung und Rohentwurf} OpenOffice
 
 \part{Allgemeiner Teil}
 
-\include{include-taetigkeitsbild-chapter}
+\include{./chapters/inc-TAE-chapter} 
 
-\include{include-betriebsintern-chapter}
+\include{./chapters/inc-BET-chapter}
 
-\include{include-regional-chapter}
+\include{./chapters/inc-REG-chapter}
 
 \addtocounter{chapter}{2}
 
 \part{Basiswissen \\ \emph{Modul Rettungssanitäter}}
 
-\include{include-recht-chapter}
+\include{./chapters/inc-JUS-chapter}
 
-\include{include-erstehilfe-chapter}
+\include{./chapters/inc-EHI-chapter}
 
 \chapter{Defibrillation mit halbautomatischen Geräten ---
 \gAasRsN{RS VIII}}
 
-\include{include-geraetelehre-chapter}
+\include{./chapters/inc-GER-chapter}
 
-\include{include-angewsanhilfe-chapter}
+\include{./chapters/inc-SAN-chapter}
 
-\include{include-einfmed-chapter}
+\include{./chapters/inc-EIN-chapter}
 
-\include{include-anatomie-chapter}
+\include{./chapters/inc-ANA-chapter}
 
-\include{include-vitalfunktionen-chapter}
+\include{./chapters/inc-VIT-chapter}
 
-\include{include-hygiene-chapter}
+\include{./chapters/inc-HYG-chapter}
 
-\include{include-mednotfaelle-chapter}
+\include{./chapters/inc-MED-chapter}
 
-\include{include-traumanotfaelle-chapter}
+\include{./chapters/inc-TRA-chapter}
 
 \chapter{Reserviert \gA{Leitsymptome}}
 
-\include{include-khd-chapter}
+\include{./chapters/inc-KHD-chapter}
 
-\include{include-reserve-ende}
+\include{./chapters/inc-RES-ende}
 
 
-\include{include-appendix}
+\include{./chapters/inc-APP}
 
 
 

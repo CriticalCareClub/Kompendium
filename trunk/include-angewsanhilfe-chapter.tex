@@ -822,21 +822,26 @@ Arztübergabe (Anamnese, Befunde, Maßnahmen, Hinweise)
 \end{tabulary}}
 \end{minipage}
 
-
+\clearpage
 
 
 \subsubsection{Ein Beispiel \ldots}
 \paragraph[Ein Beispiel: Herr Sepp hat Atemnot]{Ein Beispiel: Herr Sepp
 hat Atemnot}
 
+\begin{verbatim}
+Zeit: dd.04.2003 14:15
+Code: 26-B-1 
+"Kranke Person (Differentialdiagnose): Unbekannter Zustand (Anrufer 3. Hand)" 
+BO: 1210, xxxstraße 13/8/8/45, WHG
 
-Berufung: Atemnot
+\end{verbatim}
 
 \begin{quote}
 Sie kommen in eine Wohnung. Die Umgebung erscheint sicher. Die Wohnung
 sieht sauber und ordentlich aus. Auf der Couch liegt flach ein
-50-j\"ahriger Mann mit weit aufgerissenen Augen und sichtlicher
-Atemnot. Er wirkt blaß und schweißig und fasst ich mit der
+50-jähriger Mann mit weit aufgerissenen Augen und
+sichtlicher Atemnot. Er wirkt blaß und schweißig und fasst ich mit der
 rechten Hand an den Brustbereich.
 
 Sie begrüßen den Patienten, stellen sich vor und fragen welche
@@ -890,15 +895,19 @@ bewegungsabh\"angig  und haben vor einer Viertelstunde
 Ausserdem bekomme er schlecht Luft, sonst h\"atte er keine Beschwerden.
 \end{quote}
 
-An welche Differentialdiagnosen denken Sie?
+Als Leitsymptom erkennen Sie den Thoraxschmerz. 
 
-Leitsymptom: Thoraxschmerz 
+An welche Differentialdiagnosen müssen Sie nun denken?
 
+
+\clearpage
+% CHECK gWideParEnv Thoraxschmerz: Differentialdiagnosen unseres Patienten
+\begin{gWideParEnv}
 \begin{tabularx}{\linewidth}[H]{XXXc}
 \toprule
-\multicolumn{4}{c}{\centering
-\gTabHeading{Thoraxschmerz: Differentialdiagnosen unseres
-Patienten} }\\\midrule
+\multicolumn{4}{c}{\centering\gTabHeading{Thoraxschmerz: Differentialdiagnosen unseres
+Patienten} }
+\\\midrule
  &
 \centering \gTabSub{dafür spricht}
  &
@@ -906,9 +915,7 @@ Patienten} }\\\midrule
  &
 \gTabSub{Bewertung}
 \\\midrule
-\emph{Herzinfarkt, 
-
-Angina pectoris}
+\emph{Herzinfarkt, Angina pectoris}
  &
 Schmerzen hinter dem Brustbein, Ausstrahlung, nicht atemabh\"angig,
 Druck-/Engegefühl, Atemnot
@@ -924,7 +931,7 @@ untypische Ausstrahlung,
  &
 gut möglich
 \\\midrule
-\emoh{Pneumothorax}
+\emph{Pneumothorax}
  &
 Schmerzen im Brustbereich, Atemnot
  &
@@ -949,6 +956,8 @@ untypische Ausstrahlung, Atemnot, nicht bewegungsabhängig
 sehr unwahrscheinlich
 \\\bottomrule
 \end{tabularx}
+\end{gWideParEnv}
+
 
 \gFazit{Die wahrscheinlichsten Diagnosen sind der
 Herzinfarkt und die Lungenembolie.}

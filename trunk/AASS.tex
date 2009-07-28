@@ -52,6 +52,7 @@
 
 \usepackage{soul}
 \usepackage{array}
+\usepackage{scalefnt}
 
 \usepackage{hhline}
 
@@ -226,18 +227,19 @@ footskip=10mm,
 \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
 
 
-% %%% DRAFT %%%
+% % %%% DRAFT %%%
 % \fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
 % Entwicklungszweig:
 % \input{./tmp/git-current-branch.tmp} -- Letztes Commit:
 % \input{./tmp/git-lastcommit.tmp}}}}
 
-%%% FINAL %%%
+%% FINAL %%%
 \fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
 internen Gebrauch!}}}
-\fancyfoot[LE]{{\AASS{}~ \itshape v.\,0.2.0}}
-\fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.0}}
-%%
+\fancyfoot[LE]{{\AASS{}~ \itshape
+v.\,0.2.1-beta-2009-07-27}}
+\fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.1-beta-2009-07-27}}
+%
 
 
 % % leading zeros
@@ -297,280 +299,10 @@ internen Gebrauch!}}}
 % Abbildungsbeschreibung mit hängendem Einzug
 \setcapindent*{0em}
 
-%%%%% Annotations
 
-\newcommand\gA[1]
-	{} % Don't display any annotations
-%	{{\scriptsize\color{Red}\ttfamily{#1}}}
 
-\newcommand\gAuthNotes[1]
-	{} % for final release
-%	{{\color{Red}{\ttfamily{#1}}}}
+\input{input-styles}
 
-
-% track changes
-% WHO WHEN WHAT
-\newcommand{\gACh}[3]
-	{} % for final release
-%	{\gA{\footnote{\underline{\gAuthNotes{#1}} \gA{#2}: \gA{#3 }}}}
-%\newcommand{\gACh}[3]{}
-
-\newcommand{\gChangelog}[1]
-	{} % for final release
-%	{\gA{#1}}
-
-% Warnung: Bildlizenz nicht ok.
-\newcommand{\gAuthNotesPicLegalNotOk}[2]
-	{\gA{{\color{darkBlue}Bild: \underline{#1}: Quelle
-	zweifelhaft! #2}}}
-
-% Info: Bildlizenz ok
-\newcommand\gAuthNotesPicLegalOk[2]
-	{\gA{{\color{darkGreen}Bild: \underline{#1}: Quelle OK! #2}}}
-
-% Warnung: Bild fehlt.
-\newcommand{\gTempPicMissing}[1]
-	{\captionof{figure}{\gA{\color{Red}Bild fehlt: {\bfseries #1}}}}
-
-\newcommand{\gTempPicInWork}[1]
-	{\captionof{figure}{\gA{\color{ubuntuorange}Bild in Arbeit: {\bfseries #1}}}}
-
-\newcommand{\gStatus}[1]{\gA{{\color{red}}}}
-
-
-%%%%% Text Styles
-
-% Terminus
-\newcommand\gT[1]
-	{\textbf{\textup{\textcolor[rgb]{0.0,0.5019608,0.0}{#1}}}}
-
-% Emphasis
-\newcommand\gE[1]
-	{\textit{#1}}
-
-% Strong Emphasis
-\newcommand\gEs[1]
-	{\textbf{\textcolor[rgb]{0.0,0.0,0.4}{#1}}}
-
-% Zusatzinfo
-\newcommand\gZ[1]{{\color[rgb]{0.5019608,0.5019608,0.5019608}{#1}}}
-
-% Citation
-\newcommand\gC[1]{\textit{#1}}
-
-% Handwriting
-\newcommand\gH[1]{\textmd{\fontfamily{augie}\selectfont{\color[rgb]{0.0,0.0,0.5019608}{#1}}}}
-
-% Teletype
-\newcommand\gTt[1]{{\ttfamily{#1}}}
-
-% Cave
-\newcommand\gCa[1]{{\sffamily\textbf{\textcolor{ubuntured}{#1}}}}
-
-% Kommentar
-\newcommand\gCo[1]{{\scriptsize\sffamily{#1}}}
-
-\newcommand\gNw[1]{#1}
-
-\newcommand\gSee[1]{\Pointinghand\,\ref{#1}}
-
-% Subscript
-\newcommand\gSub[1]{\ensuremath{{}_{\text{#1}}}}
-
-% Table Heading 
-\newcommand\gTabHeading[1]{{\color{darkBlue}\bfseries #1}}
-	 
-\newcommand\gTabSub[1]{{\bfseries #1}}
-
-% Account
-\newcommand{\gKto}[1]{#1}
-
-% \newcommand{\gCave}[1]
-% {\begin{center}
-%  { \cornersize{0.5}
-%    \ovalbox{\makebox[12cm]{\parbox{10cm}{\sffamily\color{red}{{#1}}}}}}
-% \end{center}}
-\newcommand{\gCave}[1]
-	{
-	\begin{quote}
-	\begin{center}
-    	\fcolorbox{ubuntured}{paleyellow}{
-      		\begin{minipage}[t]{\linewidth}
-      		{\sffamily\color{ubuntured}#1}
-      	\end{minipage}}
-  	\end{center}
-	\end{quote}
-	}
-
-
-
-\newenvironment{gCaveEnv}
-	{\begin{boxedminipage}[t]{10cm} \sffamily}{\end{boxedminipage}}
-
-\newcommand{\gDefinition}[1]
-	{\vspace{5pt}\begin{quote}{\mdseries\color{Terminus}\rmfamily\textit{{\bfseries{Definition:}} #1}}\end{quote}\vspace{5pt}}
-
-\newcommand{\gSource}[1]
-	{\small\emph{{\bfseries Quelle:}#1}}
-
-\newcommand{\gSourcePicture}[1]
-	{\small\emph{{\bfseries Bild:} #1}}
-
-\newcommand{\gDraft}[1]{\textbf{\textcolor{red}{#1}}}
-
-
-
-%\newcommand{\gFazit}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
-%\newcommand{\gFazit}[1]{\vspace{1pt}\begin{center}\begin{boxedminipage}[t]{12cm}{\color{ubuntured}#1}\end{boxedminipage}\end{center}\vspace{1pt}}
-\newcommand{\gFazit}[1]{
-  \begin{quote}%
-    \fcolorbox{paleyellow}{paleyellow}{%
-      \begin{minipage}[t]{\linewidth}%
-        {#1}%
-      \end{minipage}}%
-  \end{quote}}
- 
-\newcommand{\gMassnahmen}[1]
-	{
-    	\fcolorbox{AliceBlue}{AliceBlue}{
-      		\begin{minipage}[t]{\linewidth}
-      			{\color{darkBlue}#1}
-      		\end{minipage}
-		} 
-	}
-
-
-
-\newenvironment{gWideParEnv}%
-	% {\setlength{\leftskip}{-\marginparsep}\addtolength{\leftskip}{-\marginparwidth}}{\par}
-	{\begin{adjustwidth*}{}{-\marginparwidth-\marginparsep}}{\end{adjustwidth*}}
-
-\newenvironment{custommargins}[2]%
-	{\addtolength{\leftskip}{#1}\addtolength{\leftskip}{#2}}{\par}
- 
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Married texts
-
-\newenvironment{gMassnahmenEnv}
-	{\noindent\begin{center}\begin{boxedminipage}[H]{\linewidth}\color{darkBlue}}
-	{\end{boxedminipage}\end{center}}
-
-
-
-% \newenvironment{gMassnahmenEnv}
-% {\noindent\begin{quote}\fcolorbox{paleBlue}{paleBlue}\begin{minipage}[t]{\linewidth}\color{darkBlue}}{\end{minipage}\end{quote}}
-
-
-\newenvironment{gMarriedEnv}
-	{\protect{\begin{tabularx}{\linewidth}{XX}}}
-	{\protect{\end{tabularx}}}
-
-%%% Married text multiple variants
-
-% \newcommand{\gMarried}[2]
-% {\noindent\begin{tabularx}{\linewidth}{XX}\addlinespace
-% #1 & #2\\\addlinespace\end{tabularx}}
-
-% use parallel columns
-% \usepackage{parallel} 
-% 
-% \newcommand{\gMarried}[2]
-% {\begin{Parallel}{6cm}{6cm}
-% \ParallelLText{\begin{minipage}{0.49\linewidth}#1\end{minipage}}
-% 
-% \ParallelRText{
-% \begin{minipage}{0.49\linewidth}#2\end{minipage}} 
-% \end{Parallel}}
-
-
-
-
-\newcommand{\gMarried}[2]
-	{
-	\begin{minipage}[b]{0.48\linewidth}\begin{minipage}{\linewidth}#1\end{minipage}\end{minipage}
-    \hspace{0.04\linewidth}
-	\begin{minipage}[b]{0.48\linewidth}\begin{minipage}{\linewidth}#2\end{minipage}\end{minipage}
-	}
-	
-\newcommand{\gParallel}[2]
-	{
-	\begin{minipage}[t]{0.48\linewidth}#1\end{minipage}
-    \hspace{0.04\linewidth}
-	\begin{minipage}[t]{0.48\linewidth}#2\end{minipage}
-	}
-
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Diashows
-
-\newcommand{\gDias}[3]
-	{
-	\noindent
-	%\begin{widepar}
-	\begin{tabularx}{\linewidth}[h]{XXX}
-		\toprule
-		\multicolumn{3}{c}{\bfseries\sffamily Dias}
-		\\\midrule
-		#1 & #2 & #3
-		\\\bottomrule
-	\end{tabularx}  
-	%\end{widepar}                 
-	} % gDias
-
-
-\newenvironment{gDiasEnv3}
-	{
-		\noindent
-		\begin{tabularx}{\linewidth}[h]{XXX}
-        	\toprule
-			\multicolumn{3}{c}{\bfseries\sffamily Dias}
-			\\\midrule
-	}
-	{
-			\\\bottomrule
-		\end{tabularx}
-	}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   AAS-specific
-
-\newcommand{\AASS}{{\mdseries\upshape\fontfamily{lmss}\selectfont{\color{ubuntured}AAS}{\color{darkBlue}S}}}
-    
-
-\newcommand{\gAasRsN}[1]{ {\sffamily\bfseries #1}}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Items
-% Set spacing between imtems
-\usepackage{paralist}
-\usepackage{tweaklist}
-\renewcommand{\itemhook}{\setlength{\topsep}{0pt}%
-  \setlength{\itemsep}{-3pt}}
-\renewcommand{\labelitemi}{\textcolor[rgb]{0.8,0.8,1}{\Squaresteel}}
-\renewcommand{\labelitemii}{$\hookrightarrow$}
-\renewcommand{\labelitemiii}{$\hookrightarrow$}
-
-%customize descritpions
-\renewcommand\descriptionlabel[1]{\hspace{\labelsep}\textcolor[rgb]{0.8,1,0.8}{\Squaresteel}\hspace{\labelsep}\gEs{#1}}
-
-\newcommand{\gLMin}{\,\unitfrac{l}{min}}
-
-\newcommand{\gTxBeiVit}{Bei vitaler Bedrohung: }
-
-\newcommand{\gTxMassVit}{Standardmaßnahmen bei
-vital bedrohten Patienten. }
- 
-\newcommand{\gTxMassVitBes}{Standardmaßnahmen bei
-vital bedrohten Patienten. Besonderheiten:}
-
-%\dominitoc
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   New Commands
-\usepackage{marginnote}
-\newcommand{\marginlabel}[1]{\mbox{}\marginpar{\raggedright\hspace{0pt}\sffamily\normalsize{#1}}}
-\newcommand{\gMargin}[1]{\mbox{}\marginpar{\raggedright\hspace{0pt}\normalsize{#1}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
 
@@ -593,13 +325,13 @@ vital bedrohten Patienten. Besonderheiten:}
 %\bibliographystyle{plaindin}
 %\usepackage{bibunits}
 %\bibliographyunit[\chapter]
-%\defaultbibliography{../Literatur-AAS}
-%\defaultbibliography{Literatur-AAS}
+%\defaultbibliography{../Literatur-AASS}
+%\defaultbibliography{Literatur-AASS}
 %\defaultbibliographystyle{unsrtdin2}
 %\defaultbibliographystyle{plain}
 \usepackage{chapterbib}
-\newcommand{\gChapterBibliography}{\bibliographystyle{plaindin}{\scriptsize\setlength{\parskip}{5pt}
-\bibliography{Literatur-AAS}}}
+\newcommand{\gChapterBibliography}{\bibliographystyle{plaindin}{\begin{multicols}{2}\scriptsize\setlength{\parskip}{1pt}
+\bibliography{./Literatur-AASS}\end{multicols}}}
 
 
 \makeindex
@@ -608,53 +340,14 @@ vital bedrohten Patienten. Besonderheiten:}
 
 % set by geometry package
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Hyphenation
 
-\hyphenation{
-Alarm-zeichen
-Anam-nese
-Aus-bildungs-zentrum
-Aus-wurf-leist-ung
-Donau-stadt
-er-kennen
-Florids-dorf
-gleich-zeit-ig
-im-mun-sup-res-sion
-Koron-ar-ge-fäße
-Kranken-an-stalt
-Kranken-haus
-Kranken-trans-port
-Kranken-trans-port-dienst
-neuro-lo-gisch
-neuro-lo-gische
-neuro-lo-gisch-en
-Not-arzt
-Not-ärzt-in
-pneu-mo-kok-ken
-Rettungs-dienst
-Sani-tä-ter
-schmerz-los-en
-sit-uat-ions-ge-recht
-sit-uat-ions-ge-rechte
-Tot-raum
-Wien
-}
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
 
 
-
-
-
-
-
-
-
-
-
-
+\input{input-hyphenation}
 
 
 
@@ -687,20 +380,21 @@ Wien
 % Diese Zweig soll als Version 0.2.0 im RS-Kurs 2009/07
 % (ET VII/2009) eingesetzt werden.}}
 
-\titlehead{Vorabversion 0.2.0 (Ed. ASB -- ET VII/2009)}
+\titlehead{Vorabversion 0.2.1-beta-2009-07-27 (Ed. ASB --
+geplant für ET IX/2009)}
 
 \author{{\normalsize Herausgeber} \vspace{0.5em}\\Gabriel, Koch, Emhofer, Motal, Steuer
 \vspace{1em}\\{\itshape\normalsize{ Mit Beiträgen von
 Christof Koller, Michael Withofner u.a.}}}
 
-\title{Arbeits- und Ausbildungsstandards f\"ur den Sanitätsdienst}
+\title{Arbeits- und Ausbildungsstandards für den Sanitätsdienst}
 
 \subtitle{Angepasste Edition für das Ausbildungszentrum des
 ASB Floridsdorf-Donaustadt}
 
 \subject{\Huge{\AASS}}
 
-\date{Juli 2009}
+\date{\today}
 
 \publishers{{\fontfamily{lmss}\selectfont ARGE \AASS}}
 
@@ -917,8 +611,8 @@ handelt.
 \paragraph{Entwicklungsumgebung} Eclipse Ganymed mit Texlipse- und JGit-Plugin,
 Texmaker
 \paragraph{Versionsverwaltung} Git
-\paragraph{Literaturverzeichnis} JabRef 2.4.2, Zotero, BibTeX  
-\paragraph{Textverarbeitung und Rohentwurf} OpenOffice 
+\paragraph{Literaturverzeichnis} JabRef 2.5.0, Zotero,
+BibTeX \paragraph{Textverarbeitung und Rohentwurf} OpenOffice 
 \paragraph{Betriebssysteme} \par
 
  \begin{itemize}
@@ -947,7 +641,7 @@ Texmaker
 
 % \nocite{*}
 % \begin{multicols}{2}
-% {\scriptsize \bibliography{Literatur-AAS}}
+% {\scriptsize \bibliography{Literatur-AASS}}
 % \end{multicols}
 
 
@@ -958,47 +652,47 @@ Texmaker
 
 \part{Allgemeiner Teil}
 
-\include{include-taetigkeitsbild-chapter}
+\include{./chapters/inc-TAE-chapter} 
 
-\include{include-betriebsintern-chapter}
+\include{./chapters/inc-BET-chapter}
 
-\include{include-regional-chapter}
+\include{./chapters/inc-REG-chapter}
 
 \addtocounter{chapter}{2}
 
 \part{Basiswissen \\ \emph{Modul Rettungssanitäter}}
 
-\include{include-recht-chapter}
+\include{./chapters/inc-JUS-chapter}
 
-\include{include-erstehilfe-chapter}
+\include{./chapters/inc-EHI-chapter}
 
 \chapter{Defibrillation mit halbautomatischen Geräten ---
 \gAasRsN{RS VIII}}
 
-\include{include-geraetelehre-chapter}
+\include{./chapters/inc-GER-chapter}
 
-\include{include-angewsanhilfe-chapter}
+\include{./chapters/inc-SAN-chapter}
 
-\include{include-einfmed-chapter}
+\include{./chapters/inc-EIN-chapter}
 
-\include{include-anatomie-chapter}
+\include{./chapters/inc-ANA-chapter}
 
-\include{include-vitalfunktionen-chapter}
+\include{./chapters/inc-VIT-chapter}
 
-\include{include-hygiene-chapter}
+\include{./chapters/inc-HYG-chapter}
 
-\include{include-mednotfaelle-chapter}
+\include{./chapters/inc-MED-chapter}
 
-\include{include-traumanotfaelle-chapter}
+\include{./chapters/inc-TRA-chapter}
 
 \chapter{Reserviert \gA{Leitsymptome}}
 
-\include{include-khd-chapter}
+\include{./chapters/inc-KHD-chapter}
 
-\include{include-reserve-ende}
+\include{./chapters/inc-RES-ende}
 
 
-\include{include-appendix}
+\include{./chapters/inc-APP}
 
 
 

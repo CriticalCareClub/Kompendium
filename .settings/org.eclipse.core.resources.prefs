@@ -1,5 +1,6 @@
-#Thu Jul 23 13:30:13 GMT 2009
+#Mon Aug 03 20:57:34 GMT 2009
 eclipse.preferences.version=1
+encoding//trunk/AASS-Leitfaden.tex=UTF-8
 encoding//trunk/AASS.tex=UTF-8
 encoding//trunk/Literatur-AASS.bib=UTF-8
 encoding//trunk/chapters/inc-ANA-chapter.tex=UTF-8
@@ -9,7 +10,6 @@ encoding//trunk/chapters/inc-EHI-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-EIN-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-GER-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-HYG-chapter.tex=UTF-8
-encoding//trunk/chapters/inc-INF.tex=UTF-8
 encoding//trunk/chapters/inc-JUS-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-KHD-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-MED-chapter.tex=UTF-8

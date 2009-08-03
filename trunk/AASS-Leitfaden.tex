@@ -1,0 +1,797 @@
+\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=no]{scrreprt}
+% \setlength{\voffset}{-15pt}
+% \setlength{\textheight}{720pt}
+% \setlength{\marginparwidth}{5cm}
+
+% Hallo! 
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+
+
+\usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts,skull}
+% resolv symbol clashes 
+\usepackage{savesym}
+\savesymbol{checkmark}
+\usepackage{dingbat}
+\restoresymbol{DINGBAT}{checkmark}
+
+
+%\usepackage{shorttoc}
+%Symbole
+\usepackage{makeidx}
+%\usepackage{showidx} % shows index entries on page margin
+%\usepackage{showkeys}
+
+\usepackage{units}
+
+\usepackage{booktabs,longtable,supertabular,tabularx,tabulary}
+\usepackage{multicol,multirow}
+%Tabellen
+% Floats
+%\usepackage{float,wrapfig}
+
+%\usepackage{mparhack} % watches margin paragraphs and
+%gives warnings
+
+\usepackage{soul}
+\usepackage{array}
+\usepackage{scalefnt}
+
+\usepackage{hhline}
+
+\usepackage[draft]{graphicx} % Bilder-Support
+%\usepackage{ooomath}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
+\usepackage[svgnames,hyperref]{xcolor}
+\definecolor{pink}{rgb}{1,0.5,0.5}
+\definecolor{LightSkyBlue}{rgb}{0.5,0.5,1}
+\definecolor{MidnightBlue}{rgb}{0,0,0.5}
+\definecolor{darkBlue}{rgb}{0,0,0.4}
+\definecolor{paleBlue}{rgb}{0.8,0.8,1}
+\definecolor{darkGreen}{rgb}{0,0.4,0}
+\definecolor{Terminus}{rgb}{0,0.5,0}
+\definecolor{Definition}{rgb}{1,0.5,0.5}
+\definecolor{shade1}{rgb}{1,0.5,0.5}
+\definecolor{shade2}{rgb}{1,0.5,0.5}
+\definecolor{shade3}{rgb}{1,0.5,0.5}
+\definecolor{Emphasis}{rgb}{1,0.5,0.5}
+\definecolor{ubuntured}{rgb}{0.788235294,0,0.08627451}
+\definecolor{ubuntuorange}{rgb}{1,0.388235294,0.035294118}
+\definecolor{ubuntuyellow}{rgb}{1,0.709803922,0.082352941}
+\definecolor{paleyellow}{rgb}{1,1,0.8}
+\definecolor{black}{rgb}{0,0,0}
+\definecolor{RED}{rgb}{1,0,0}
+\definecolor{Mulberry}{rgb}{1,1,0.8}
+
+
+
+
+
+%\usepackage{pst-all}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Tables
+
+\usepackage{boxedminipage}
+\usepackage{geometry}
+\usepackage{layout,calc}
+\usepackage[strict]{changepage}
+%\usepackage{gmeometric}
+
+
+\geometry{verbose,
+a4paper,
+%tmargin=1cm,
+%bmargin=1cm,
+%lmargin=1cm,
+%rmargin=1cm,
+outer=56mm,
+inner=25mm,
+top=25mm,
+bottom=20mm,
+marginparwidth=40mm,
+%headheight=0.5cm,
+%headsep=0.5cm,
+footskip=10mm,
+%includehead,
+%includemp
+}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+\raggedbottom
+
+\tolerance=1000
+\emergencystretch=10pt
+
+\usepackage{fancybox}
+% \usepackage[Sonny]{fncychap}
+% \ChNameVar{\Large\sf} \ChNumVar{\Huge} \ChTitleVar{\Large\sf}
+% \ChRuleWidth{0.5pt} \ChNameUpperCase
+
+
+%\usepackage{augie} 
+%\usepackage{emerald}                                                          
+\usepackage{lmodern}                                                          
+                                                               % % % set fonts
+%\renewcommand{\rmdefault}{ugm} % URW Garamond
+\renewcommand{\rmdefault}{lmr} % Latin Modern Roman 
+%\renewcommand{\sfdefault}{uop} % URW Utopia
+% \renewcommand{\sfdefault}{pag} % Adobe Avantgarde
+\usepackage[scaled]{helvet}
+
+%\renewcommand{\bfseries}{\fontseries{b}\selectfont}
+%\renewcommand{\sfdefault}{phv} % Adobe Helvetica
+\renewcommand{\sfdefault}{lmss} % Latin Modern Syns Serif
+
+%\renewcommand{\ttdefault}{pcr}
+\renewcommand{\ttdefault}{lmtt} % Latin Modern Typewriter 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Headings
+
+% %\setkomafont{disposition}{\mdseries\sffamily\fontfamily{augie}\selectfont}
+\setkomafont{captionlabel}{\mdseries\rmfamily\bfseries}
+% \setkomafont{caption}{\mdseries\rmfamily}
+\setkomafont{subject}{\mdseries\Huge\itshape}
+% \addtokomafont{part}{\Huge\color{darkBlue}}
+% \addtokomafont{partnumber}{\Huge\color{ubuntured}}
+% %\addtokomafont{chapter}{\Huge\sffamily\fontfamily{phv}\bfseries\color{ubuntured}}
+% \addtokomafont{section}{\Huge\rmfamily\fontfamily{lmdh}\selectfont\color{ubuntured}}
+% \addtokomafont{subsection}{\huge\rmfamily\fontfamily{lmdh}\selectfont\color{ubuntured}}
+% \addtokomafont{subsubsection}{\LARGE\rmfamily\fontfamily{lmdh}\selectfont\color{darkBlue}}
+% \addtokomafont{paragraph}{\large\sffamily\color{darkBlue}}
+% \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
+% \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
+
+
+
+\addtokomafont{part}{\Huge\color{darkBlue}}
+\addtokomafont{partnumber}{\Huge\color{ubuntured}}
+
+\addtokomafont{chapter}{\Huge\sffamily\fontfamily{phv}\bfseries\color{ubuntured}}
+\addtokomafont{section}{\Huge\color{ubuntured}}
+\addtokomafont{subsection}{\huge\color{ubuntured}}
+\addtokomafont{subsubsection}{\LARGE\color{darkBlue}}
+\addtokomafont{paragraph}{\large\color{darkBlue}}
+\addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
+% \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
+
+
+
+%schusterjungen
+% Disable single lines at the start of a paragraph (Schusterjungen)
+%\clubpenalty = 10000
+%
+% Disable single lines at the end of a paragraph (Hurenkinder)
+%\widowpenalty = 10000 \displaywidowpenalty = 10000
+
+
+\setcounter{secnumdepth}{3}
+
+%\usepackage{hyperref}
+%\hypersetup{colorlinks=true, linkcolor=darkBlue, citecolor=darkBlue, filecolor=darkBlue, pagecolor=darkBlue, urlcolor=darkBlue}
+ 
+% User page numbering with chapter number in it
+\renewcommand{\thechapter}{\Alph{chapter}}
+\renewcommand{\thesubsubsection}{\thesubsection .\alph{subsubsection}}
+
+
+% No bottom titles !!!
+%\usepackage[nobottomtitles]{titlesec}
+%\renewcommand{\bottomtitlespace}{.2\textheight}
+
+\usepackage[grey,helvetica]{quotchap}
+%\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
+%\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
+\definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
+\addtokomafont{chapter}{\Huge\color{ubuntured}\fontfamily{augie}\selectfont}
+%\addtokomafont{chapter}{}
+
+%\usepackage{minitoc} %The quotchap package should be loaded BEFORE the minitoc package.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Header
+\usepackage{fancyhdr}
+
+\pagestyle{fancy} 
+\fancyheadoffset[RO,LE]{\marginparsep+\marginparwidth}
+\fancyfootoffset[RO,LE]{\marginparsep+\marginparwidth}
+\fancyhead[LE,RO]{\thepage} 
+%\fancyhead[LO]{}
+\fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
+\fancyhead[RE]{\gEs{\gAuthNotes{ --- \today -- ENTWURF
+--- }}}
+\fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---
+}}}
+\fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
+
+
+% %%% DRAFT %%%
+\fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
+Entwicklungszweig:
+\input{./tmp/git-current-branch.tmp} -- Letztes Commit:
+\input{./tmp/git-lastcommit.tmp}}}}
+
+%%% FINAL %%%
+% \fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
+% internen Gebrauch!}}}
+% \fancyfoot[LE]{{\AASS{}~ \itshape v.\,0.2.1-x}}
+% \fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.1-x}}
+%%
+
+
+% % leading zeros
+% \usepackage{numprint}
+% % %%%%%%%%%%% Anzahl einzufügender führender Nullen %%%%%%%
+% \nplpadding[0]{2}
+% % %%%%%%%%%%%%% Zeilenzähler umdefinieren %%%%%%%%%%%%%%%%%
+% \renewcommand{\thepage}{{\color{red}\thechapter}\cntprint{page}}
+
+% \usepackage[noauto]{chappg}
+% \makeatletter
+% %%\@addtoreset{chapter}{part}
+% %\@addtoreset{page}{chapter}%
+% 
+% \makeatother
+% 	\pagenumbering{bychapter}
+% 
+
+%\pagenumbering[\thepart]{bychapter}
+%\pagenumbering[\thepart]{bychapter}
+%\renewcommand{\thepage}{\thepart.\thepage}
+
+
+
+% \makeatletter
+% \newcommand\arraybslash{\let\\\@arraycr}
+% \makeatother
+% 
+% \makeindex
+% 
+% \setlength\tabcolsep{1mm}
+% \renewcommand\arraystretch{1.3}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Captions
+																% Non-floating captions
+\makeatletter
+\newcommand\captionof[1]{\def\@captype{#1}\caption}
+\makeatother
+\newcounter{Drawing}
+\renewcommand\theDrawing{\arabic{Drawing}}
+ 
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Styles
+\newcommand{\strongemph}[1]{\emph{\textbf{#1}}}
+\newcommand{\Terminus}[1]{\textcolor{Terminus}{#1}}
+
+                
+
+% Define Grissu.org \latex commands
+% Character styles names are single letters, 
+% Paragraph styles are words
+
+% Abbildungsbeschreibung mit hängendem Einzug
+\setcapindent*{0em}
+
+
+
+\input{input-styles}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
+
+% \title{Arbeits- und Ausbildungsstandards f\"ur den Sanitätsdienst}
+% \subject{und eine Einf\"uhrung in die Welt der Medizin und Sanitätshilfe}
+% \titlehead{Version f\"ur \"Osterreich, Stand Februar 2009 \par 
+% \LaTeX -Version, die Teile aus der OpenOffice-Version werden en detail \"ubernommen}
+% 
+% \lowertitleback{\centering\begin{minipage}{5cm}
+% \begin{center}
+% {\Huge Grissu.org}\par\vspace{1em}
+% \textit{serving the community} \par \textit{since 1999} 
+% \end{center}
+% \end{minipage}}
+% 
+% \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Withofner}
+
+% \bibliographystyle{plain}
+% %\bibliographystyle{unsrtdin}
+% %\bibliographystyle{plaindin}
+% %\usepackage{bibunits}
+% %\bibliographyunit[\chapter]
+% %\defaultbibliography{../Literatur-AASS}
+% %\defaultbibliography{Literatur-AASS}
+% %\defaultbibliographystyle{unsrtdin2}
+% %\defaultbibliographystyle{plain}
+% \usepackage{chapterbib}
+% \newcommand{\gChapterBibliography}{\bibliographystyle{plain}{\begin{multicols}{2}\scriptsize\setlength{\parskip}{1pt}
+% \bibliography{./Literatur-AASS}\end{multicols}}}
+
+
+
+\makeindex
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Page
+
+% set by geometry package
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
+
+
+\input{input-hyphenation}
+
+
+
+
+
+
+
+\title{Leitfaden für Autoren}
+\author{\AASS}
+
+
+
+
+%\usepackage{lstdoc}
+\usepackage{listings}
+%\usepackage{textcomp}
+% #######################################################################################################
+% BEGIN DOCUMENT ########################################################################################
+% #######################################################################################################
+
+
+\begin{document}
+ 
+\lstset{% general command to set parameter(s)
+language=[LaTeX]TeX,
+basicstyle=\small, % print whole listing small
+keywordstyle=\color{Red}\bfseries\underbar,
+% underlined bold black keywords
+identifierstyle=\color{darkBlue}\bfseries, % nothing happens
+commentstyle=\color{white}, % white comments
+stringstyle=\ttfamily, % typewriter type for strings
+showstringspaces=false} % no special string spaces
+
+\maketitle
+
+\chapter{Das Versionsverwaltungssystem Git}
+\lstinline$var i:integer;$
+ 
+
+\begin{lstlisting}
+for i:=maxint to 0 do
+begin
+{ do nothing }
+end;
+Write('Case insensitive '); 
+Write('Pascal keywords.');
+\end{lstlisting}
+
+\lstinline$\gEs{Hallo}$
+
+\section{Einführung in Git}
+
+\section{Richtlinien für das AASS-Repository}
+
+\subsection{Zweige}
+
+\subsubsection{Der Zweig \gCode{master}}
+
+\section{Der Hauptserver}
+
+
+\chapter{Das \LaTeX -Dokument}
+
+ha
+\section{Das Dateilayout}
+
+\subsection{Die Kürzel}
+
+Kapitel kommen ins Verzeichnis chapters.
+
+Die Kapitel bzw. Systemdateien werden mittel 3-stelliger
+Abkürzung gekennzeichnet:
+
+
+\begin{tabulary}{\linewidth}{cLL}\toprule
+Krz. & Bezeichnung & Pfad
+\\\midrule
+AAS &  \AASS{} allgemein  & 
+\\\addlinespace
+ANA & Anatomie & 
+\\\addlinespace
+APP & Appendix & 
+\\\addlinespace
+BET & Betriebsinterne Regelungen & 
+\\\addlinespace
+COL &  Farbdefinitionsdatei & 
+\\\addlinespace
+EHI & Erste Hilfe & 
+\\\addlinespace
+EIN & Einführung in die Medizin & 
+\\\addlinespace
+GER & Gerätelehre & 
+\\\addlinespace
+HYG & Hygiene & 
+\\\addlinespace
+HYP &  Hyphenation (Trennungskorrekturen) & 
+\\\addlinespace
+INF & Autoreninformation & 
+\\\addlinespace
+JUS  & Recht & 
+\\\addlinespace
+KHD & Katasthropen, Großschaden, Gefahrgutunfall & 
+\\\addlinespace
+MED & Medizinische Erkrankungen und Notfälle & 
+\\\addlinespace
+REG & Regionale Besonderheiten & 
+\\\addlinespace
+RES & Reserve & 
+\\\addlinespace
+SAN & Angewandte Sanitätshilfe & 
+\\\addlinespace
+STY  & Stildefinitionsdatei & 
+\\\addlinespace
+TAE & Tätigkeitsbild & 
+\\\addlinespace
+TRA & Trauma & 
+\\\addlinespace
+VIT & Vitalfunktionen & 
+\\\bottomrule
+\end{tabulary}
+
+Diese Abkürzungen bitte auch im Versionsverwaltungssystem
+Git und im Bugtracker verwenden!
+
+\begin{minipage}{\linewidth}
+\emph{Stand 2009/08, vereinfacht.}
+\begin{multicols}{2}
+\begin{verbatim}
+./aass
+|-- draft0
+|   `-- AAS-LaTeX-Export
+|       |-- clean
+|       `-- ultraclean
+`-- trunk
+    |-- AASS-Leitfaden.idx
+    |-- AASS-Leitfaden.maf
+    |-- AASS-Leitfaden.mtc
+    |-- AASS-Leitfaden.mtc1
+    |-- AASS-Leitfaden.pdf
+    |-- AASS-Leitfaden.tex
+    |-- Literatur
+    |   |-- ....pdf
+    |   ...
+    |-- Literatur-AASS.bib
+    |-- abbrvdin.bst
+    |-- alphadin.bst
+    |-- changepage.sty
+    |-- chapters
+    |   |-- inc-ANA-chapter.tex
+    |   |-- inc-APP.tex
+    |   |-- inc-BET-chapter.tex
+    |   |-- inc-EHI-chapter.tex
+    |   |-- inc-EIN-chapter.tex
+    |   |-- inc-GER-chapter.tex
+    |   |-- inc-HYG-chapter.tex
+    |   |-- inc-INF.tex
+    |   |-- inc-JUS-chapter.tex
+    |   |-- inc-KHD-chapter.tex
+    |   |-- inc-MED-chapter.tex
+    |   |-- inc-REG-chapter.tex
+    |   |-- inc-RES-ende.tex
+    |   |-- inc-SAN-chapter.tex
+    |   |-- inc-TAE-chapter.tex
+    |   |-- inc-TRA-chapter.tex
+    |   `-- inc-VIT-chapter.tex
+    |-- extern
+    |   `-- Arztbriefe
+    |-- icons
+    |-- images
+    |   |-- anatomie
+    |   |-- angewsanhilfe
+    |   |-- geraete
+    |   |-- hygiene
+    |   |-- khd
+    |   |-- logos
+    |   |-- med
+    |   |-- noauth
+    |   |-- shared
+    |   `-- trauma
+    |-- src
+    |   `-- dia
+    `-- tmp
+        |-- ...
+        ...
+\end{verbatim}
+\end{multicols}
+\end{minipage}
+
+\section{Formatierungen}
+
+% \begin{tabularx}{\linewidth}{@{}lX@{}}
+% sdvadsvadsd dfhsigdfsiug ndsfiugn disfuh gidf gidfgidsfiug
+% odisfgl sfg &
+% ifgh iudfs hgusdfiuhdfiug hdfsiuhsiuhg   iuhiughiudsfh
+% giudfg
+% \\
+% c
+% &
+% d
+% \\
+% \end{tabularx}
+
+% {
+% \begin{syntax}
+% \item[1.0,default,Wichtig!] \texttt{command},
+% \texttt{environment} or
+% \item[,,] \lstinline!\gEs{}!     starke Betonung.
+% \begin{description}
+%     \item[Anwendung] starke Betonung
+%     \item[Beispiel] \gEs{starke Betonung}
+%     \end{description}
+% \item[,,] \lstinline!\gE{}!     starke Betonung.
+% \begin{description}
+%     \item[Anwendung] starke Betonung
+%     \item[Beispiel] \gE{schwache Betonung}
+% \end{description}
+% \gEs{starke Betonung}
+% 
+% 
+% \end{syntax}
+% } 
+
+\begin{description} 
+    \item[\hspace{-0.5em}]\lstinline!\gEs{}!     starke Betonung.
+    \item[\hspace{-0.5em}]\lstinline!\gE{}!
+
+    \item[ha] Hallo
+\end{description}
+
+\begin{tabulary}{\linewidth}{LLLL}
+\toprule
+\gTabHeading{Befehl} 
+& 
+\gTabHeading{Bedeutung} 
+& 
+\gTabHeading{Wann} 
+& 
+\gTabHeading{Beispiel}
+\\\midrule
+{\ttfamily{\tbs}gEs\{\ldots\}}
+&
+starke Betonung \gZ{(emphasis, strong)}
+&
+
+&
+\gEs{starke Betonung}
+\\\addlinespace
+{\ttfamily{\tbs}gE\{\ldots\}}
+&
+schwache Betonung \gZ{(emphasis)}
+&
+
+&
+\gE{schwache Betonung}
+\\\addlinespace
+{\ttfamily{\tbs}gT\{\ldots\}}
+&
+Terminus
+&
+
+&
+\gT{Terminus}
+\\\addlinespace
+{\ttfamily{\tbs}gZ\{\ldots\}}
+&
+Zusatzinfo
+&
+
+& 
+\gZ{Zusatzinfo}
+\\\addlinespace
+{\ttfamily{\tbs}gH\{\ldots\}}
+&
+Handschrift
+&
+
+&
+\gH{Handschrift}
+\\\addlinespace
+uzwgef
+&
+Test
+&
+
+&
+\gE{Handschrift}
+\\\bottomrule
+\end{tabulary}
+
+\subsubsection*{Spezielle Bereiche}
+
+\begin{tabulary}{\linewidth}{LLLL}
+\toprule
+\gTabHeading{Befehl} 
+& 
+\gTabHeading{Bedeutung} 
+& 
+\gTabHeading{Wann} 
+& 
+\gTabHeading{Beispiel}
+\\\midrule
+\gCode{{\tbs}gMarried\{\par\emph{linke
+Spalte}\par\}\{\par\emph{rechte Spalte ("`Folie"')}\par\}} 
+&
+Verheirateter Text. Die Rechte Spalte ist die Kurzfassung
+von der linken Spalte und soll in etwa einer
+Präsentations-Folie entsprechen 
+&
+
+&
+\gEs{starke Betonung}
+\\\addlinespace
+\gCode{{\tbs}gMarried\{\par\emph{linke
+Spalte}\par\}\{\par\emph{rechte Spalte}\par\}} 
+&
+wie \gCode{{\tbs}gMarried}, der Inhalt von rechter und
+linker Spalte hat jedoch keinen Bezug zueinander 
+&
+
+&
+
+\\\addlinespace
+{\ttfamily{\tbs}gT\{\ldots\}}
+&
+Terminus
+&
+
+&
+\gT{Terminus}
+\\\addlinespace
+\gCode{\gCmd{gZ}\{\ldots\}}
+&
+Zusatzinfo
+&
+
+& 
+\gZ{Zusatzinfo}
+\\\addlinespace
+{\ttfamily{\tbs}gH\{\ldots\}}
+&
+Handschrift
+&
+
+&
+\gH{Handschrift}
+\\\addlinespace
+{\ttfamily{\tbs}gH\{\ldots\}}
+&
+Handschrift
+&
+
+&
+\gH{Handschrift}
+\\\bottomrule
+\end{tabulary}
+
+\subsubsection*{Textkürzel}
+
+\chapter{Textgestaltung}
+
+\subsection{Beispiel}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection{Abschnitt oder Unterabschnitt}
+
+\gDefinition{Defnitionstext --- Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.}
+
+\gEs{Einleitungstext} --- Duis autem vel eum iriure dolor in
+hendrerit in vulputate velit esse molestie consequat, vel
+illum dolore eu feugiat nulla facilisis at vero eros et
+accumsan et iusto odio dignissim qui blandit praesent
+luptatum zzril delenit augue duis dolore te feugait nulla
+facilisi. Nam liber tempor cum soluta nobis eleifend option
+congue nihil imperdiet doming id quod mazim placerat facer
+possim assum. Typi non habent claritatem insitam; est usus
+legentis in iis qui facit eorum claritatem. Investigationes
+demonstraverunt lectores legere me lius quod ii legunt
+saepius. Claritas est etiam processus dynamicus, qui sequitur
+mutationem consuetudium lectorum.
+
+\gMarried{
+
+\gEs{Blumige Beschreibung} --- Mirum est notare quam littera
+gothica, quam nunc putamus parum claram, anteposuerit
+litterarum formas humanitatis per seacula quarta decima et
+quinta decima. Eodem modo typi, qui nunc nobis videntur parum
+clari, fiant sollemnes in futurum. Lorem ipsum dolor sit
+amet, consectetuer adipiscing elit, sed diam nonummy nibh
+euismod tincidunt ut laoreet dolore magna aliquam erat
+volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci
+tation ullamcorper suscipit lobortis nisl ut aliquip ex ea
+commodo consequat.
+
+Duis autem vel eum iriure dolor in
+hendrerit in vulputate velit esse molestie consequat, vel
+illum dolore eu feugiat nulla facilisis at vero eros et
+accumsan et iusto odio dignissim qui blandit praesent
+luptatum zzril delenit augue duis dolore te feugait nulla
+facilisi.}
+{
+\gEs{Schlagworte} ---
+
+\gTabHeading{Symptome}
+
+\begin{itemize}
+    \item Punkt 1
+    \item Punkt 2
+    \begin{itemize}
+        \item a
+        \item b
+        \item a + b
+    \end{itemize}
+    \item Lorem
+    \item ipsum
+    \item Dolor
+    \item Amet
+\end{itemize}
+
+\gTabHeading{Gefahren und Komplikationen}
+
+\begin{itemize}
+    \item Littera
+    \item Littera gothica
+    \item Litterarum
+    \item Parum clar
+\end{itemize}
+
+}
+
+\gEs{Fußtext} --- am liber tempor cum soluta nobis eleifend
+option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+Typi non habent claritatem insitam; est usus legentis in iis
+qui facit eorum claritatem. Investigationes demonstraverunt
+lectores legere me lius quod ii legunt saepius. Claritas est
+etiam processus dynamicus, qui sequitur mutationem
+consuetudium lectorum. Mirum est notare quam littera gothica,
+quam nunc putamus parum claram, anteposuerit litterarum
+formas humanitatis per seacula quarta decima et quinta
+decima. Eodem modo typi, qui nunc nobis videntur parum clari,
+fiant sollemnes in futurum.
+
+\gMassnahmen{
+    \paragraph{Spezielle Maßnahmen}
+    
+    \begin{itemize}
+    \item \gTxMassVitBes (gTxMassVitBes)
+    \begin{itemize}
+        \item Lagerung: Oberkörper hoch
+        \item $O_2$: 12\gLMin
+        \item Ursachenforschung
+    \end{itemize}
+    \item Claritas
+    \item Investigationes
+    \item seacula
+    \item futurum
+\end{itemize}
+    
+}
+
+\end{document}

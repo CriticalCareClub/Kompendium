@@ -13,5 +13,6 @@
 *.mtc*
 AAS.pdf
 AASS.pdf
+AASS-*.pdf
 *.toc
 *.tmp

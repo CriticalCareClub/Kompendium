@@ -37,7 +37,7 @@
 %Symbole
 \usepackage{makeidx}
 %\usepackage{showidx} % shows index entries on page margin
-\usepackage{showkeys}
+%\usepackage{showkeys}
 
 \usepackage{units}
 
@@ -227,18 +227,19 @@ footskip=10mm,
 \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
 
 
-% %%% DRAFT %%%
-\fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
-Entwicklungszweig:
-\input{./tmp/git-current-branch.tmp} -- Letztes Commit:
-\input{./tmp/git-lastcommit.tmp}}}}
+% % %%% DRAFT %%%
+% \fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
+% Entwicklungszweig:
+% \input{./tmp/git-current-branch.tmp} -- Letztes Commit:
+% \input{./tmp/git-lastcommit.tmp}}}}
 
-%%% FINAL %%%
-% \fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
-% internen Gebrauch!}}}
-% \fancyfoot[LE]{{\AASS{}~ \itshape v.\,0.2.1-x}}
-% \fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.1-x}}
-%%
+%% FINAL %%%
+\fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
+internen Gebrauch!}}}
+\fancyfoot[LE]{{\AASS{}~ \itshape
+v.\,0.2.1-beta-2009-07-27}}
+\fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.1-beta-2009-07-27}}
+%
 
 
 % % leading zeros
@@ -328,6 +329,7 @@ Entwicklungszweig:
 %\defaultbibliography{Literatur-AASS}
 %\defaultbibliographystyle{unsrtdin2}
 %\defaultbibliographystyle{plain}
+\usepackage{cite}
 \usepackage{chapterbib}
 \newcommand{\gChapterBibliography}{\bibliographystyle{plain}{\begin{multicols}{2}\scriptsize\setlength{\parskip}{1pt}
 \bibliography{./Literatur-AASS}\end{multicols}}}
@@ -379,8 +381,8 @@ Entwicklungszweig:
 % Diese Zweig soll als Version 0.2.0 im RS-Kurs 2009/07
 % (ET VII/2009) eingesetzt werden.}}
 
-\titlehead{Vorabversion 0.2.1-x (Ed. ASB -- für ET
-IX/2009)}
+\titlehead{Vorabversion 0.2.1-beta-2009-07-27 (Ed. ASB --
+geplant für ET IX/2009)}
 
 \author{{\normalsize Herausgeber} \vspace{0.5em}\\Gabriel, Koch, Emhofer, Motal, Steuer
 \vspace{1em}\\{\itshape\normalsize{ Mit Beiträgen von

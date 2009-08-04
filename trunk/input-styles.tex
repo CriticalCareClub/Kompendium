@@ -48,16 +48,22 @@
 %%%%% Text Styles
 
 % Terminus
+% \newcommand\gT[1]
+% 	{\textbf{\textup{\textcolor[rgb]{0.0,0.5019608,0.0}{#1}}}}
+
 \newcommand\gT[1]
-	{\textbf{\textup{\textcolor[rgb]{0.0,0.5019608,0.0}{#1}}}}
+	{\gEs{#1}}
 
 % Emphasis
 \newcommand\gE[1]
 	{\textit{#1}}
 
 % Strong Emphasis
+% \newcommand\gEs[1]
+% 	{\textbf{\textcolor[rgb]{0.0,0.0,0.4}{#1}}}
+
 \newcommand\gEs[1]
-	{\textbf{\textcolor[rgb]{0.0,0.0,0.4}{#1}}}
+	{{\sffamily\textbf{#1}}}
 
 % Zusatzinfo
 \newcommand\gZ[1]{{\color[rgb]{0.5019608,0.5019608,0.5019608}{#1}}}
@@ -267,16 +273,16 @@
 \renewcommand{\labelitemiii}{$\hookrightarrow$}
 
 %customize descritpions
-\renewcommand\descriptionlabel[1]{\hspace{\labelsep}\textcolor[rgb]{0.8,1,0.8}{\Squaresteel}\hspace{\labelsep}\gEs{#1}}
+%\renewcommand\descriptionlabel[1]{\hspace{\labelsep}\textcolor[rgb]{0.8,1,0.8}{\Squaresteel}\hspace{\labelsep}\gEs{#1}}
 
 \newcommand{\gLMin}{\,\unitfrac{l}{min}}
 
 \newcommand{\gTxBeiVit}{Bei vitaler Bedrohung: }
 
-\newcommand{\gTxMassVit}{Standardmaßnahmen bei
+\newcommand{\gTxMassVit}{Standardma{\ss}nahmen bei
 vital bedrohten Patienten. }
  
-\newcommand{\gTxMassVitBes}{Standardmaßnahmen bei
+\newcommand{\gTxMassVitBes}{Standardma{\ss}nahmen bei
 vital bedrohten Patienten. Besonderheiten:}
 
 % Notizen

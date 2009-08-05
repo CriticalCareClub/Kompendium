@@ -220,11 +220,11 @@ footskip=10mm,
 % \input{./tmp/git-lastcommit.tmp}}}}
 
 %% FINAL %%%
-\fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
+\fancyfoot[CE,CO]{\gEs{{\itshape \gVersionTyp -- Nur für den
 internen Gebrauch!}}}
 \fancyfoot[LE]{{\AASS{}~ \itshape
-v.\,0.2.1-beta-2009-07-27}}
-\fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.1-beta-2009-07-27}}
+v.\,\gVersion}}
+\fancyfoot[RO]{{\AASS{}~ \itshape v.\gVersion}}
 %
 
 
@@ -288,7 +288,7 @@ v.\,0.2.1-beta-2009-07-27}}
 
 
 \input{input-styles}
-
+\input{input-docinfo}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
 
@@ -367,7 +367,7 @@ v.\,0.2.1-beta-2009-07-27}}
 % Diese Zweig soll als Version 0.2.0 im RS-Kurs 2009/07
 % (ET VII/2009) eingesetzt werden.}}
 
-\titlehead{Vorabversion 0.2.1-beta-2009-07-27 (Ed. ASB --
+\titlehead{\gVersionTyp \gVersion (Ed. ASB --
 geplant für ET IX/2009)}
 
 \author{{\normalsize Herausgeber} \vspace{0.5em}\\Gabriel, Koch, Emhofer, Motal, Steuer

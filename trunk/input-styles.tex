@@ -53,8 +53,8 @@
 % 	{\textbf{\textup{\textcolor[rgb]{0.0,0.5019608,0.0}{#1}}}}
 
 \newcommand\gT[1]
-	{\gEs{#1}}
- 
+	{\gEs{\colorbox{green!10}{#1}}}
+
 % Emphasis
 \newcommand\gE[1]
 	{\textit{#1}}
@@ -64,7 +64,7 @@
 % 	{\textbf{\textcolor[rgb]{0.0,0.0,0.4}{#1}}}
 
 \newcommand\gEs[1]
-	{{\sffamily\textbf{#1}}}
+	{{\color{darkBlue}\sffamily\scalefont{1}\textbf{#1}}}
 
 % Zusatzinfo
 \newcommand\gZ[1]{{\color[rgb]{0.5019608,0.5019608,0.5019608}{#1}}}
@@ -96,6 +96,8 @@
 	 
 \newcommand\gTabSub[1]{{\bfseries #1}}
 
+\newcommand\gSlideHeading[1]{\gEs{#1}}
+
 % Account
 \newcommand{\gKto}[1]{#1}
 
@@ -105,17 +107,27 @@
 %    \ovalbox{\makebox[12cm]{\parbox{10cm}{\sffamily\color{red}{{#1}}}}}}
 % \end{center}}
 \newcommand{\gCave}[1]
-	{
-	\begin{quote}
+% 	{
+% 	\begin{quote}
+% 	\begin{center}
+%     	\fcolorbox{ubuntured}{paleyellow}{
+%       		\begin{minipage}[t]{\linewidth}
+%       		{\sffamily\color{ubuntured}#1}
+%       	\end{minipage}}
+%   	\end{center}
+% 	\end{quote}
+% 	}
+	{ 
 	\begin{center}
+    	\begin{minipage}[t]{\linewidth}
     	\fcolorbox{ubuntured}{paleyellow}{
-      		\begin{minipage}[t]{\linewidth}
-      		{\sffamily\color{ubuntured}#1}
-      	\end{minipage}}
+      		\begin{minipage}[t]{\linewidth - {2\fboxrule} -
+      		{2\fboxsep}} {\sffamily\color{ubuntured}#1}
+      		\end{minipage}
+		}
+		\end{minipage}
   	\end{center}
-	\end{quote}
 	}
-
 
 
 \newenvironment{gCaveEnv}
@@ -136,22 +148,42 @@
 
 %\newcommand{\gFazit}[1]{{\centering \cornersize{0.5} \ovalbox{\makebox[10cm]{\parbox{8cm}{\sffamily #1}}}}}
 %\newcommand{\gFazit}[1]{\vspace{1pt}\begin{center}\begin{boxedminipage}[t]{12cm}{\color{ubuntured}#1}\end{boxedminipage}\end{center}\vspace{1pt}}
-\newcommand{\gFazit}[1]{
-  \begin{quote}%
-    \fcolorbox{paleyellow}{paleyellow}{%
-      \begin{minipage}[t]{\linewidth}%
-        {#1}%
-      \end{minipage}}%
-  \end{quote}}
+% \newcommand{\gFazit}[1]{
+%   \begin{quote}%
+%     \fcolorbox{paleyellow}{paleyellow}{%
+%       \begin{minipage}[t]{\linewidth}%
+%         {#1}%
+%       \end{minipage}}%
+%   \end{quote}}
+\newcommand{\gFazit}[1]
+	{\vspace{5pt}
+	\begin{quote}
+    	{\mdseries\itshape\color{darkBlue}{\color{ubuntured}\bfseries{\VarFlag ~}}#1}
+    \end{quote}
+	\vspace{5pt}
+	}
  
 \newcommand{\gMassnahmen}[1]
 	{
     	\fcolorbox{AliceBlue}{AliceBlue}{
-      		\begin{minipage}[t]{\linewidth}
+      		\begin{minipage}[t]{\linewidth - {2\fboxrule} - {2\fboxsep}}
       			{\color{darkBlue}#1}
       		\end{minipage}
 		} 
 	}
+	
+	
+% 		{ 
+% 	\begin{center}
+%     	\begin{minipage}[t]{\linewidth}
+%     	\fcolorbox{ubuntured}{paleyellow}{
+%       		\begin{minipage}[t]{\linewidth - {2\fboxrule} -
+%       		{2\fboxsep}} {\sffamily\color{ubuntured}#1}
+%       		\end{minipage}
+% 		}
+% 		\end{minipage}
+%   	\end{center}
+% 	}
 
 
 

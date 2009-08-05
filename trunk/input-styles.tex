@@ -5,9 +5,26 @@
 \newcommand{\gCode}[1]{{\ttfamily #1}}
 \newcommand{\gCmd}[1]{\gCode{{\bfseries\color{darkBlue}{\tbs}#1}}}
 
-\newcommand\gA[1]
-	{} % Don't display any annotations
-%	{{\scriptsize\color{Red}\ttfamily{#1}}}
+\newcommand\gDoNothing{}
+
+\newcommand\gA[1]{} 
+	{} %for final release
+	%	{{\scriptsize\color{Red}\ttfamily{#1}}}
+%	{
+%	\ifthenelse{\equal{\gDocStatus}{Final}}{}{}
+%	\ifthenelse{\equal{\gDocStatus}{DraftLight}}{}{}
+%	\ifthenelse{\equal{\gDocStatus}{DraftMedium}}{}{}
+%	\protect\ifthenelse{\protect\equal{\gDocStatus}{DraftFull}}{true}{false}
+%	\ifthenelse{\equal{\gDocStatus}{DraftSuper}}{{\scriptsize\color{Red}\ttfamily{#1}}}{\gDoNothing}
+%	}
+
+% 
+% 	\ifthenelse{\equal{\gDocStatus}{Final}}{\newcommand\gA[1]{}}{}
+% 	\ifthenelse{\equal{\gDocStatus}{DraftLight}}{\newcommand\gA[1]{}}{}
+% 	\ifthenelse{\equal{\gDocStatus}{DraftMedium}}{\newcommand\gA[1]{}}{}
+% 	\ifthenelse{\equal{\gDocStatus}{DraftFull}}{\newcommand\gA[1]{{\scriptsize\color{Red}\ttfamily{#1}}}}{}
+% 	\ifthenelse{\equal{\gDocStatus}{DraftSuper}}{\newcommand\gA[1]{{\scriptsize\color{Red}\ttfamily{#1}}}}{}
+
 	
 \newcommand{\gAbk}[1]{{\scalefont{.8}\caps{#1}}}
 

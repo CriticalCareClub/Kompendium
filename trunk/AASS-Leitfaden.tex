@@ -14,6 +14,9 @@
 % resolv symbol clashes 
 \usepackage{savesym}
 \savesymbol{checkmark}
+\savesymbol{Cross} % ifsym
+\usepackage[geometry,alpine]{ifsym}
+
 \usepackage{dingbat}
 \restoresymbol{DINGBAT}{checkmark}
 
@@ -90,11 +93,11 @@ a4paper,
 %bmargin=1cm,
 %lmargin=1cm,
 %rmargin=1cm,
-outer=35mm,
+outer=40mm,
 inner=25mm,
 top=25mm,
 bottom=20mm,
-marginparwidth=20mm,
+marginparwidth=25mm,
 %headheight=0.5cm,
 %headsep=0.5cm,
 footskip=10mm,
@@ -174,6 +177,8 @@ footskip=10mm,
 
 
 \setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+
 
 %\usepackage{hyperref}
 %\hypersetup{colorlinks=true, linkcolor=darkBlue, citecolor=darkBlue, filecolor=darkBlue, pagecolor=darkBlue, urlcolor=darkBlue}
@@ -194,7 +199,8 @@ footskip=10mm,
 \addtokomafont{chapter}{\Huge\color{ubuntured}\fontfamily{augie}\selectfont}
 %\addtokomafont{chapter}{}
 
-%\usepackage{minitoc} %The quotchap package should be loaded BEFORE the minitoc package.
+\usepackage{minitoc} %The quotchap package should be loaded BEFORE the minitoc package.
+\setcounter{minitocdepth}{3}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Header
 \usepackage{fancyhdr}
@@ -351,9 +357,9 @@ Sanitätsdienst}
 %\usepackage{lstdoc}
 \usepackage{listings}
 %\usepackage{textcomp}
-% #######################################################################################################
-% BEGIN DOCUMENT ########################################################################################
-% #######################################################################################################
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% BEGIN DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
 
 \begin{document}
@@ -372,6 +378,7 @@ commentstyle=\color{Grey}, % white comments
 stringstyle=\ttfamily, % typewriter type for strings
 texcsstyle=\color{ubuntured},
 moretexcs={textcolor,itemhook},
+emph={gA,gAuthorNotes,gCa,gCave,gDefinition,gE,gEs,gfazit,gH,gMarried,gMassnahmen,gParallel,gT,gZ},emphstyle=\color{Terminus},
 %directivestyle=color{Red},
 showstringspaces=false,
 %morecomment=[s][\color{SandyBrown}]{\{}{\}},
@@ -379,6 +386,7 @@ showstringspaces=false,
 %morecomment=[l][\color{Grey}]{\%}
 }
 
+\dominitoc
 \maketitle
 \tableofcontents
 
@@ -601,18 +609,112 @@ Write('Pascal keywords.');
 \section{Der Hauptserver}
 
 
-\chapter{Das \LaTeX -Dokument}
+\chapter{Textgestaltung}
 
-ha
-\section{Das Dateilayout}
+\minitoc
 
-\subsection{Die Kürzel}
+\section{Beispiel}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Kapitel kommen ins Verzeichnis chapters.
+\subsubsection{Abschnitt oder Unterabschnitt}
+
+\gDefinition{Defnitionstext --- Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.}
+
+\paragraph{Einleitungstext} --- Duis autem vel eum iriure dolor in
+hendrerit in vulputate velit esse molestie consequat, vel
+illum dolore eu feugiat nulla facilisis at vero eros et
+accumsan et iusto odio dignissim qui blandit praesent
+luptatum zzril delenit augue duis dolore te feugait nulla
+facilisi. Nam liber tempor cum soluta nobis eleifend option
+congue nihil imperdiet doming id quod mazim placerat facer
+possim assum. Typi non habent claritatem insitam; est usus
+legentis in iis qui facit eorum claritatem. Investigationes
+demonstraverunt lectores legere me lius quod ii legunt
+saepius. \gT{Claritas} est etiam processus dynamicus, qui sequitur
+\gE{mutationem} consuetudium \gE{lectorum}.
+
+\gMarried{
+
+\paragraph{Blumige Beschreibung} --- Mirum est notare quam littera
+gothica, quam nunc putamus parum claram, anteposuerit
+litterarum formas humanitatis per seacula quarta decima et
+quinta decima. Eodem modo typi, qui nunc nobis videntur parum
+clari, fiant sollemnes in futurum. Lorem ipsum dolor sit
+amet, consectetuer adipiscing elit, sed diam nonummy nibh
+euismod tincidunt ut laoreet dolore magna aliquam erat
+volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci
+tation ullamcorper suscipit lobortis nisl ut aliquip ex ea
+commodo consequat.
+
+Duis autem vel eum iriure dolor in
+hendrerit in vulputate velit esse molestie consequat, vel
+illum dolore eu feugiat nulla facilisis at vero eros et
+accumsan et iusto odio dignissim qui blandit praesent
+luptatum zzril delenit augue duis dolore te feugait nulla
+facilisi.}
+{
+\gSlideHeading{Schlagworte}
+
+\begin{itemize}
+    \item Punkt 1
+    \item Punkt 2
+    \begin{itemize}
+        \item a
+        \item b
+        \item a + b
+    \end{itemize}
+    \item Lorem
+    \item ipsum
+    \item Dolor
+    \item Amet
+\end{itemize}
+
+\gTabHeading{Gefahren und Komplikationen}
+
+\begin{itemize}
+    \item Littera
+    \item Littera gothica
+    \item Litterarum
+    \item Parum clar
+\end{itemize}
+
+}
+
+\paragraph{Fußtext} --- am liber tempor cum soluta nobis eleifend
+option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+Typi non habent claritatem insitam; est usus legentis in iis
+qui facit eorum claritatem. Investigationes demonstraverunt
+lectores legere me lius quod ii legunt saepius. \gEs{Claritas} est
+etiam processus dynamicus, qui sequitur mutationem
+consuetudium lectorum. Mirum est notare quam littera gothica,
+quam nunc putamus parum claram, anteposuerit litterarum
+formas humanitatis per seacula quarta decima et quinta
+decima. Eodem modo typi, qui nunc nobis videntur parum clari,
+fiant sollemnes in futurum.
+
+\gMassnahmen{
+    \paragraph{Spezielle Maßnahmen}
+    
+    \begin{itemize}
+    \item \gTxMassVitBes (gTxMassVitBes)
+    \begin{itemize}
+        \item Lagerung: Oberkörper hoch
+        \item $O_2$: 12\gLMin
+        \item Ursachenforschung
+    \end{itemize}
+    \item Claritas
+    \item Investigationes
+    \item seacula
+    \item futurum
+\end{itemize}
+    
+}
 
 
 
-\section{Formatierungen}
+\subsection{Schnellübersicht}
 
 % \begin{tabularx}{\linewidth}{@{}lX@{}}
 % sdvadsvadsd dfhsigdfsiug ndsfiugn disfuh gidf gidfgidsfiug
@@ -646,7 +748,6 @@ Kapitel kommen ins Verzeichnis chapters.
 % \end{syntax}
 % } 
 
-\subsection{Übersicht}
 
 \paragraph{Simple Textauszeichnungen}~
 
@@ -656,6 +757,8 @@ Kapitel kommen ins Verzeichnis chapters.
 \lstinline$\gEs{Hallo}$
 & 
 starke Betonung \gZ{(emphasis, strong)}
+
+Sind jetzt serifenlos und fett.
 &
 \gEs{starke Betonung}
 \\\addlinespace
@@ -668,6 +771,7 @@ schwache Betonung \gZ{(emphasis)}
 \lstinline$\gT{}$
 &
 Terminus
+
 &
 \gT{Terminus}
 \\\addlinespace
@@ -733,10 +837,455 @@ linker Spalte hat jedoch keinen Bezug zueinander
 
 
 
-\subsubsection*{Spezielle Bereiche}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\section{Konventionen}
+
+\begin{description}
+    \item[Beschreibung:]
+    \item[Anwendung:]
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] 
+    \item[Cave:]
+    \item[Syntax:] \lstinline$\Befehl{<text>}$
+    \item[Formatierung:]
+    \item[Beispiel:]
+\end{description}
 
 
-\subsubsection*{Textkürzel}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsection{Hervorhebungen und Textauszeichnungen}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Schwache Betonung -- \gCode{\tbs gE\{\}}}\marginpar{\gT{\tbs
+gE\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gE{<text>}$
+    \item[Beschreibung:]
+    \item[Anwendung:]
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] 
+    \item[Cave:]
+    
+    \item[Formatierung:]
+    \item[Beispiel:]
+\end{description}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Starke Betonung -- \gCode{\tbs gEs\{\}}}\marginpar{\gT{\tbs
+gEs\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gEs{<text>}$
+    \item[Beschreibung:]
+    \item[Anwendung:]
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] 
+    \item[Cave:]
+
+    \item[Formatierung:]
+    \item[Beispiel:]
+\end{description}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Terminus -- \gCode{\tbs gT\{\}}}\marginpar{\gT{\tbs gT\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gT{<text>}$
+    \item[Beschreibung:] Spezielle Hervorhebung für Fachbegriffe. \gZ{Früher
+    sollte sie für alle Fachbegriffe verwendet werden, im August 2009 hat sich
+    die Definition geändert, s.u.}
+    \item[Anwendung:] Terminus-Formatierungen sollen nur mehr angewendet werden
+    wenn der entsprechende Begriff an der Stelle erklärt wird! Sonst soll auch
+    ein Fachbegriff normal formatiert werden, wenn eine Hervorhebung geünscht
+    ist kommen z.B. die starke Betunung oder die schwache
+    Betonung -- wie im normalen Text -- in Frage.
+    \item[Nicht anzuwenden bei:] Begriffe die an der Stelle nicht
+    abchließend erklärt werden. Lange Begriffe bei denen ein Zeilenumbruch
+    nötig ist.
+    \item[Anmerkungen:] Die didaktische Überlgung ist dass für den Leser
+    nachvollziehbar sein soll dass der Begriff an dieser Stelle neu ist und er
+    hier erklärt wird (und er an dieser Stelle zu lernen ist).
+    \item[Cave:] Zeilenumbrüche sind in \lstinline$\gT$ nicht mehr vorgesehen, die Termini sollen
+immer in einer Zeile stehen! Wenn Termini lt. obiger Definition in einer
+Tabelle, etc. vorkommen (also nicht im Fließtext) dann sollen sie als
+\lstinline$\marginpar{}$ in der Randspalete gesetzt werden! Es besteht sonst
+die Gefahr dass der Terminus in die benachbarte Spalte hineinreicht.
+    \item[Formatierung:] Wie starke Hervorhebungen formatiert,
+jedoch hellgrün hinterlegt
+    \item[Beispiel:] \gT{Claritas} est etiam processus dynamicus, qui sequitur
+\gE{mutationem} consuetudium \gE{lectorum}.  
+\end{description}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Zusatzinformation -- \gCode{\tbs gZ\{\}}}\marginpar{\gT{\tbs
+gZ\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gZ{<text>}$
+    \item[Beschreibung:]
+    \item[Anwendung:]
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] 
+    \item[Cave:]
+
+    \item[Formatierung:]
+    \item[Beispiel:]
+\end{description}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Cave (Fließtext) -- \gCode{\tbs gCa\{\}}}\marginpar{\gT{\tbs
+gCa\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gCa{<text>}$
+    \item[Beschreibung:]
+    \item[Anwendung:] Aussagen über eine massive Gefahr.
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] Für einen ganzen Absatz steht der
+    \lstinline$\gCave{}$-Befehl zur Verfügung, er erstellt eine ganze (rot
+    umrandete) Absatzbox!
+    \item[Cave:]
+
+    \item[Formatierung:]
+    \item[Beispiel:] \gCa{Nitro kann zu einer rapiden Senkung des Blutdrucks
+    führen!}
+\end{description}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Handschrift -- \gCode{\tbs gH\{\}}}\marginpar{\gT{\tbs
+gH\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gH{<text>}$
+    \item[Beschreibung:] Handschriftliche Notiz!
+    \item[Anwendung:] ~
+    \begin{enumerate}
+        \item Handschriftliche Notizen, z.B. auf Beispiel-"'Transportscheinen"'
+        \item Anmelungen des "`Allwissenden Erzählers"'
+    \end{enumerate}
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] 
+    \item[Cave:] Aufgrund der gewählten Schriftart kann es zu Problemen mit
+    deutschen Sonderzeichen (ß, Umlaute) kommen!
+    
+    \item[Formatierung:] Schriftartumstellung auf ECFAugie, Farbumstellung auf
+    darkBlue.
+    \item[Beispiel:] \gH{Das ist eine Handschrift!}
+\end{description}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Dokument -- \gCode{\{\tbs ttfamily\}}}\marginpar{\gT{\{\tbs
+ttfamily\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\?{<text>}$
+    \item[Beschreibung:]
+    \item[Anwendung:]
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] 
+    \item[Cave:]
+    
+    \item[Formatierung:]
+    \item[Beispiel:]
+\end{description}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsection{Kommentare und Notizen für Autoren und Entwickler}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Allgemeine Autorennotizen -- \gCode{\tbs gA\{\}}}\marginpar{\gT{\tbs
+gA\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gA{<text>}$
+    \item[Beschreibung:]
+    \item[Anwendung:]
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] 
+    \item[Cave:]
+    
+    \item[Formatierung:]
+    \item[Beispiel:]
+\end{description}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsection{Spezielle Bereiche}
+
+\begin{minipage}{0.48\linewidth}
+Ergebnis
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+Code
+\end{lstlisting}
+\end{minipage}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Definitions-Box -- \gCode{\tbs gDefinition\{\}}}\marginpar{\gT{\tbs
+gDefinition\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gDefinition{<text>}$
+    \item[Beschreibung:]
+    \item[Anwendung:] Definitionen.
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] 
+    \item[Cave:]
+    
+    \item[Formatierung:] Eingerückt, kursiv, grüne Schriftfarbe, beginnend mit
+    "`Definition: "`
+    \item[Beispiel:]
+\end{description}
+
+
+
+\begin{minipage}{0.48\linewidth}
+\gDefinition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+\gDefinition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
+\end{lstlisting}
+\end{minipage}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Fazit-Box -- \gCode{\tbs gFazit\{\}}}\marginpar{\gT{\tbs
+gFazit\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gFazit{<text>}$
+    \item[Beschreibung:]
+    \item[Anwendung:]
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] 
+    \item[Cave:]
+    
+    \item[Formatierung:]
+    \item[Beispiel:]
+\end{description}
+
+
+
+\begin{minipage}{0.48\linewidth}
+\gFazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell
+hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine enstprechende
+Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+\gFazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell
+hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine enstprechende
+Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
+\end{lstlisting}
+\end{minipage}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Verheirateter Text -- \gCode{\tbs
+gMarried\{\}}}\marginpar{\gT{\tbs gMarried\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gMarried{<text>}$
+    \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung
+von der linken Spalte und soll in etwa einer
+Präsentations-Folie entsprechen    
+    \item[Anwendung:]
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] 
+    \item[Cave:]
+    
+    \item[Formatierung:]
+    \item[Beispiel:]
+\end{description}
+
+
+
+\begin{minipage}{0.48\linewidth}
+
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+
+\end{lstlisting}
+\end{minipage}
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Parallel-Box -- \gCode{\tbs gParallel\{\}}}\marginpar{\gT{\tbs
+gParallel\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gParallel{<text>}$
+    \item[Beschreibung:] wie \lstinline$\gMarried$, der Inhalt von rechter und
+linker Spalte hat jedoch keinen Bezug zueinander     
+    \item[Anwendung:]
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] 
+    \item[Cave:]
+    
+    \item[Formatierung:]
+    \item[Beispiel:]
+\end{description}
+
+
+
+\begin{minipage}{0.48\linewidth}
+
+
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+
+\end{lstlisting}
+\end{minipage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Massnahmen-Box -- \gCode{\tbs gMassnahmen\{\}}}\marginpar{\gT{\tbs
+gMassnahmen\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gMassnahmen{<text>}$
+    \item[Beschreibung:]
+    \item[Anwendung:]
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] 
+    \item[Cave:]
+    
+    \item[Formatierung:]
+    \item[Beispiel:]
+\end{description}
+
+
+
+\begin{minipage}{0.48\linewidth}
+\gMassnahmen{
+\paragraph{Spezielle Massnahmen bei einem Muster}~
+
+\begin{enumerate}
+    \item Bla
+    \item Blabla
+    \item Blabla!
+    \item Punkt.
+\end{enumerate}
+}
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+\gMassnahmen{
+\paragraph{Spezielle Massnahmen bei einem Muster}~
+
+\begin{enumerate}
+    \item Bla
+    \item Blabla
+    \item Blabla!
+    \item Punkt.
+\end{enumerate}
+\end{lstlisting}
+\end{minipage}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Cave-Box -- \gCode{\tbs gCave\{\}}}\marginpar{\gT{\tbs
+gCave\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gCave{<text>}$
+    \item[Beschreibung:]
+    \item[Anwendung:] Aussagen über eine massive Gefahr.
+    \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] Für die Auszeichnung einzelner Wörter steht der
+    \lstinline$\gCa{}$-Befehl zur Verfügung.
+    \item[Cave:]
+    
+    \item[Formatierung:]
+    \item[Beispiel:] 
+\end{description}
+
+
+\begin{minipage}{0.48\linewidth}
+\gCave{
+Dies ist eine Cave-Box!
+
+Die Cave-Box kann auch mit der \gCa{\tbs gCa\{\}-Formatierung} kombiniert werden!
+}
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+\gCave{
+Dies ist eine Cave-Box!
+
+Die Cave-Box kann auch mit der \gCa{\tbs gCa\{\}-Formatierung} kombiniert werden!
+}
+\end{lstlisting}
+\end{minipage}
+
+\gCave{
+Dies ist eine Cave-Box!
+
+Die Cave-Box kann auch mit der \gCa{\tbs gCa\{\}-Formatierung} kombiniert werden!
+}
+
+\subsection{Textkürzel}
 
 \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
 \gTabHeading{Befehl} & \gTabHeading{Beschreibung}
@@ -746,113 +1295,39 @@ linker Spalte hat jedoch keinen Bezug zueinander
 \\\addlinespace
 \end{tabular}
 
-\chapter{Textgestaltung}
+\chapter{Das \LaTeX -Dokument}
 
-\subsection{Beispiel}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ha
 
-\subsubsection{Abschnitt oder Unterabschnitt}
 
-\gDefinition{Defnitionstext --- Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.}
 
-\gEs{Einleitungstext} --- Duis autem vel eum iriure dolor in
-hendrerit in vulputate velit esse molestie consequat, vel
-illum dolore eu feugiat nulla facilisis at vero eros et
-accumsan et iusto odio dignissim qui blandit praesent
-luptatum zzril delenit augue duis dolore te feugait nulla
-facilisi. Nam liber tempor cum soluta nobis eleifend option
-congue nihil imperdiet doming id quod mazim placerat facer
-possim assum. Typi non habent claritatem insitam; est usus
-legentis in iis qui facit eorum claritatem. Investigationes
-demonstraverunt lectores legere me lius quod ii legunt
-saepius. Claritas est etiam processus dynamicus, qui sequitur
-mutationem consuetudium lectorum.
 
-\gMarried{
 
-\gEs{Blumige Beschreibung} --- Mirum est notare quam littera
-gothica, quam nunc putamus parum claram, anteposuerit
-litterarum formas humanitatis per seacula quarta decima et
-quinta decima. Eodem modo typi, qui nunc nobis videntur parum
-clari, fiant sollemnes in futurum. Lorem ipsum dolor sit
-amet, consectetuer adipiscing elit, sed diam nonummy nibh
-euismod tincidunt ut laoreet dolore magna aliquam erat
-volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci
-tation ullamcorper suscipit lobortis nisl ut aliquip ex ea
-commodo consequat.
 
-Duis autem vel eum iriure dolor in
-hendrerit in vulputate velit esse molestie consequat, vel
-illum dolore eu feugiat nulla facilisis at vero eros et
-accumsan et iusto odio dignissim qui blandit praesent
-luptatum zzril delenit augue duis dolore te feugait nulla
-facilisi.}
-{
-\gEs{Schlagworte} ---
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\gTabHeading{Symptome}
+\section{Das Dateilayout}
 
-\begin{itemize}
-    \item Punkt 1
-    \item Punkt 2
-    \begin{itemize}
-        \item a
-        \item b
-        \item a + b
-    \end{itemize}
-    \item Lorem
-    \item ipsum
-    \item Dolor
-    \item Amet
-\end{itemize}
+\subsection{Die Kürzel}
 
-\gTabHeading{Gefahren und Komplikationen}
-
-\begin{itemize}
-    \item Littera
-    \item Littera gothica
-    \item Litterarum
-    \item Parum clar
-\end{itemize}
-
-}
-
-\gEs{Fußtext} --- am liber tempor cum soluta nobis eleifend
-option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
-Typi non habent claritatem insitam; est usus legentis in iis
-qui facit eorum claritatem. Investigationes demonstraverunt
-lectores legere me lius quod ii legunt saepius. Claritas est
-etiam processus dynamicus, qui sequitur mutationem
-consuetudium lectorum. Mirum est notare quam littera gothica,
-quam nunc putamus parum claram, anteposuerit litterarum
-formas humanitatis per seacula quarta decima et quinta
-decima. Eodem modo typi, qui nunc nobis videntur parum clari,
-fiant sollemnes in futurum.
-
-\gMassnahmen{
-    \paragraph{Spezielle Maßnahmen}
-    
-    \begin{itemize}
-    \item \gTxMassVitBes (gTxMassVitBes)
-    \begin{itemize}
-        \item Lagerung: Oberkörper hoch
-        \item $O_2$: 12\gLMin
-        \item Ursachenforschung
-    \end{itemize}
-    \item Claritas
-    \item Investigationes
-    \item seacula
-    \item futurum
-\end{itemize}
-    
-}
+Kapitel kommen ins Verzeichnis chapters.
 
 
 
 \chapter{Anhang}
 
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
 \section{Dateien}
 

@@ -250,18 +250,28 @@
 
 
 
+% \newcommand{\gMarried}[2]
+% 	{
+% 	\begin{minipage}[htb]{0.48\linewidth}\begin{minipage}{\linewidth}#1\end{minipage}\end{minipage}
+%     \hspace{0.04\linewidth}
+% 	\begin{minipage}[htb]{0.48\linewidth}\begin{minipage}{\linewidth}#2\end{minipage}\end{minipage}
+% 	}
+	
 \newcommand{\gMarried}[2]
+	{\begin{minipage}[t]{\linewidth}
+	\begin{minipage}[tl]{0.48\linewidth}\parbox[tl]{\linewidth}{#1}\end{minipage}
+    \hspace{0.04\linewidth}
+	\begin{minipage}[tl]{0.48\linewidth}\parbox[tl]{\linewidth}{#2}\end{minipage}
+    \end{minipage}
+	}
+		
+	
+	
+\newcommand{\gParallel}[2]
 	{
 	\begin{minipage}[b]{0.48\linewidth}\begin{minipage}{\linewidth}#1\end{minipage}\end{minipage}
     \hspace{0.04\linewidth}
 	\begin{minipage}[b]{0.48\linewidth}\begin{minipage}{\linewidth}#2\end{minipage}\end{minipage}
-	}
-	
-\newcommand{\gParallel}[2]
-	{
-	\begin{minipage}[t]{0.48\linewidth}#1\end{minipage}
-    \hspace{0.04\linewidth}
-	\begin{minipage}[t]{0.48\linewidth}#2\end{minipage}
 	}
 
 

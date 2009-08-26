@@ -218,19 +218,19 @@ footskip=10mm,
 \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
 
 
-% % %%% DRAFT %%%
-% \fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
-% Entwicklungszweig:
-% \input{./tmp/git-current-branch.tmp} -- Letztes Commit:
-% \input{./tmp/git-lastcommit.tmp}}}}
+% %%% DRAFT %%%
+\fancyfoot[CE,CO]{{\color{red}\ttfamily\small
+ENTWICKLUNGSVERSION -- {\tiny
+Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny
+Letztes Commit: }\input{./tmp/git-lastcommit.tmp}}}
 
-%% FINAL %%%
-\fancyfoot[CE,CO]{\gEs{{\itshape \gDocVersionTyp -- Nur für den
-internen Gebrauch!}}}
-\fancyfoot[LE]{{\AASS{}~ \itshape
-v.\,\gDocVersion}}
-\fancyfoot[RO]{{\AASS{}~ \itshape v.\gDocVersion}}
-%
+% %% FINAL %%%
+% \fancyfoot[CE,CO]{\gEs{{\itshape \gDocVersionTyp -- Nur für den
+% internen Gebrauch!}}}
+% \fancyfoot[LE]{{\AASS{}~ \itshape
+% v.\,\gDocVersion}}
+% \fancyfoot[RO]{{\AASS{}~ \itshape v.\gDocVersion}}
+% %
 
 
 % % leading zeros

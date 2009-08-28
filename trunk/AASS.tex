@@ -7,7 +7,9 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[ngerman]{babel}
+\usepackage[english,german,ngerman]{babel}
+\usepackage{babelbib}
+\setbtxfallbacklanguage{english}
 \usepackage{ifthen}
 \usepackage[final]{graphicx} % Bilder-Support
 
@@ -311,7 +313,12 @@ Letztes Commit: }\input{./tmp/git-lastcommit.tmp}}}
 % 
 % \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Withofner}
 
-\bibliographystyle{plain}
+% Bibliographie-Stile babxxx unterstützen internationale Bibliographien, Paket
+% 'babelbib'.
+% Die Sprache muss in BibTeX-Datei im Feld 'language' stehen (dzt. erlaubt:
+% english, german, ngerman). Die entsprechende Sprache muss in babel geladen
+% worden sein.
+\bibliographystyle{babunsrt}
 %\bibliographystyle{unsrtdin}
 %\bibliographystyle{plaindin}
 %\usepackage{bibunits}
@@ -320,9 +327,13 @@ Letztes Commit: }\input{./tmp/git-lastcommit.tmp}}}
 %\defaultbibliography{Literatur-AASS}
 %\defaultbibliographystyle{unsrtdin2}
 %\defaultbibliographystyle{plain}
+
 \usepackage{cite}
-\usepackage{chapterbib}
-\newcommand{\gChapterBibliography}{\bibliographystyle{plain}{\begin{multicols}{2}\scriptsize\setlength{\parskip}{1pt}
+\usepackage{chapterbib} % Literaturverzeichnisse für Kapitel
+
+% \gChapterBibliography muss in der jeweiligen Kapiteldatei aufgerufen werden
+% um dort ein entsprechend formatiertes Literaturverzeichnis zu erstellen.
+\newcommand{\gChapterBibliography}{\bibliographystyle{babunsrt}{\begin{multicols}{2}\scriptsize\setlength{\parskip}{1pt}
 \bibliography{./Literatur-AASS}\end{multicols}}}
 
 

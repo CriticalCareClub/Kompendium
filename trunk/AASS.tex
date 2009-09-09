@@ -1,169 +1,158 @@
 \documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=no]{scrbook}
-% \setlength{\voffset}{-15pt}
-% \setlength{\textheight}{720pt}
-% \setlength{\marginparwidth}{5cm}
 
-% Hallo! test
-
+% UTF-8 Schriftkodierung
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+
+\usepackage[draft]{graphicx} % Bilder-Support
+% \usepackage{showidx} % shows index entries on page margin
+% \usepackage{showkeys}
+
+% Sprachunterstützung 
+% Mehrere Sprachen für angepasstes Literaturverzeichnis (babelbib) 
 \usepackage[english,german,ngerman]{babel}
+% Internationales Literaturverzeichnis
 \usepackage{babelbib}
 \setbtxfallbacklanguage{english}
+
+% Logik
 \usepackage{ifthen}
-\usepackage[final]{graphicx} % Bilder-Support
+
+\usepackage{aass-common}
 
 %\usepackage{excludeonly}
-%\includeonly{include-anatomie-chapter}
 %\includeonly{./chapters/inc-TAE-chapter,./chapters/inc-EIN-chapter}
 %\excludeonly{include-betriebsintern-chapter,include-regional-chapter,include-taetigkeitsbild-chapter,include-erstehilfe-chapter,include-recht-chapter,include-reserve-ende}
-% \includeonly{./chapters/inc-AED-chapter}
-%\includeonly{include-angewsanhilfe-chapter,include-mednotfaelle-chapter}
 
-%\includeonly{include-mednotfaelle-chapter}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Mathemathik
+\usepackage{amsmath,amssymb,amsfonts,}
+\usepackage{units}
 
-%\includeonly{include-traumanotfaelle-chapter}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Symbole
+\usepackage{textcomp,marvosym,txfonts,skull}
 
-%\includeonly{include-autoreninfo}
-
-%\includeonly{include-khd-chapter}
-% \includeonly{include-geraetelehre-chapter}
-
-
-\usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts,skull}
 % resolv symbol clashes 
 \usepackage{savesym}
 \savesymbol{checkmark}
 \savesymbol{Cross} % ifsym
 \usepackage[geometry,alpine]{ifsym}
-
 \usepackage{dingbat}
 \restoresymbol{DINGBAT}{checkmark}
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Verzeichnisse
 \usepackage{shorttoc}
-%Symbole
 \usepackage{makeidx}
-%\usepackage{showidx} % shows index entries on page margin
-%\usepackage{showkeys}
-
-\usepackage{units}
+\setcounter{secnumdepth}{3}
+\makeindex
 
 
-\usepackage{booktabs,longtable,supertabular,tabularx,tabulary}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Tabellen
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{supertabular}
+\usepackage{tabularx,tabulary}
 \usepackage{multicol,multirow}
-%Tabellen
-% Floats
+\usepackage{hhline}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Floats
 \usepackage{float,wrapfig}
 
 % watches margin paragraphs and
 % gives warnings
 \usepackage{mparhack} 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Textauszeichnungen
 \usepackage{soul}
-\usepackage{array}
 \usepackage{scalefnt}
 
-\usepackage{hhline}
-
-
-%\usepackage{ooomath}
 
 
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Colors
 \usepackage[svgnames,hyperref]{xcolor}
-
 \input{input-colors}
 
 
-
-
-
-%\usepackage{pst-all}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Tables
+%%% Tables
 
 \usepackage{boxedminipage}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Seitenlayout
 \usepackage{geometry}
 \usepackage{layout,calc}
 \usepackage[strict]{changepage}
 %\usepackage{gmeometric}
-
-
 \geometry{verbose,
 a4paper,
-%tmargin=1cm,
-%bmargin=1cm,
-%lmargin=1cm,
-%rmargin=1cm,
-outer=56mm,
-inner=25mm,
-top=25mm,
-bottom=20mm,
-marginparwidth=40mm,
-%headheight=0.5cm,
-%headsep=0.5cm,
-footskip=10mm,
-%includehead,
-%includemp
+% tmargin=1cm,
+% bmargin=1cm,
+% lmargin=1cm,
+% rmargin=1cm,
+outer  = 56mm,
+inner  = 25mm,
+top    = 25mm,
+bottom = 20mm,
+marginparwidth = 40mm,
+% headheight=0.5cm,
+% headsep=0.5cm,
+footskip = 10mm,
+% includehead,
+% includemp
 }
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Pargragraphensatzregeln
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{5pt}
 \raggedbottom
-
 \tolerance=1000
 \emergencystretch=10pt
+%schusterjungen
+% Disable single lines at the start of a paragraph (Schusterjungen)
+%\clubpenalty = 10000
+%
+% Disable single lines at the end of a paragraph (Hurenkinder)
+%\widowpenalty = 10000 \displaywidowpenalty = 10000
 
 \usepackage{fancybox}
-% \usepackage[Sonny]{fncychap}
-% \ChNameVar{\Large\sf} \ChNumVar{\Huge} \ChTitleVar{\Large\sf}
-% \ChRuleWidth{0.5pt} \ChNameUpperCase
 
-
-%\usepackage{augie} 
-%\usepackage{emerald}                                                          
-\usepackage{lmodern}                                                          
-                                                               % % % set fonts
-%\renewcommand{\rmdefault}{ugm} % URW Garamond
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Schriftarten
+\usepackage[scaled]{helvet} 
+%%% Latin Modern                                                       
+\usepackage{lmodern}
 \renewcommand{\rmdefault}{lmr} % Latin Modern Roman 
-%\renewcommand{\sfdefault}{uop} % URW Utopia
-% \renewcommand{\sfdefault}{pag} % Adobe Avantgarde
-\usepackage[scaled]{helvet}
-
-%\renewcommand{\bfseries}{\fontseries{b}\selectfont}
-%\renewcommand{\sfdefault}{phv} % Adobe Helvetica
-\renewcommand{\sfdefault}{lmss} % Latin Modern Syns Serif
-
-%\renewcommand{\ttdefault}{pcr}
+\renewcommand{\sfdefault}{lmss} % Latin Modern Sans Serif
 \renewcommand{\ttdefault}{lmtt} % Latin Modern Typewriter 
 
+% \renewcommand{\rmdefault}{ugm} % URW Garamond
+% \renewcommand{\sfdefault}{uop} % URW Utopia
+% \renewcommand{\sfdefault}{pag} % Adobe Avantgarde
+% \renewcommand{\sfdefault}{phv} % Adobe Helvetica
+% \renewcommand{\ttdefault}{pcr}
+% \renewcommand{\bfseries}{\fontseries{b}\selectfont}
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Headings
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Überschriften
 
 % %\setkomafont{disposition}{\mdseries\sffamily\fontfamily{augie}\selectfont}
 \setkomafont{disposition}{\mdseries\sffamily\bfseries}
 \setkomafont{captionlabel}{\mdseries\upshape\bfseries}
 \setkomafont{caption}{\mdseries\itshape}
 \setkomafont{subject}{\mdseries\Huge\itshape}
-% \addtokomafont{part}{\Huge\color{darkBlue}}
-% \addtokomafont{partnumber}{\Huge\color{ubuntured}}
-% %\addtokomafont{chapter}{\Huge\sffamily\fontfamily{phv}\bfseries\color{ubuntured}}
-% \addtokomafont{section}{\Huge\rmfamily\fontfamily{lmdh}\selectfont\color{ubuntured}}
-% \addtokomafont{subsection}{\huge\rmfamily\fontfamily{lmdh}\selectfont\color{ubuntured}}
-% \addtokomafont{subsubsection}{\LARGE\rmfamily\fontfamily{lmdh}\selectfont\color{darkBlue}}
-% \addtokomafont{paragraph}{\large\sffamily\color{darkBlue}}
-% \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
-% \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
-
-
-
 \addtokomafont{part}{\Huge\color{darkBlue}}
 \addtokomafont{partnumber}{\Huge\color{ubuntured}}
-
 \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{ubuntured}}
 \addtokomafont{section}{\Huge\color{ubuntured}}
 \addtokomafont{subsection}{\huge\color{ubuntured}}
@@ -172,21 +161,6 @@ footskip=10mm,
 \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 % \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
 
-
-
-%schusterjungen
-% Disable single lines at the start of a paragraph (Schusterjungen)
-%\clubpenalty = 10000
-%
-% Disable single lines at the end of a paragraph (Hurenkinder)
-%\widowpenalty = 10000 \displaywidowpenalty = 10000
-
-
-\setcounter{secnumdepth}{3}
-
-\usepackage{hyperref}
-\hypersetup{colorlinks=true, linkcolor=darkBlue, citecolor=darkBlue, filecolor=darkBlue, pagecolor=darkBlue, urlcolor=darkBlue}
-
 % User page numbering with chapter number in it
 \renewcommand{\thechapter}{\Alph{chapter}}
 \renewcommand{\thesubsubsection}{\thesubsection .\alph{subsubsection}}
@@ -194,30 +168,37 @@ footskip=10mm,
 
 % No bottom titles !!!
 \usepackage[nobottomtitles]{titlesec}
-%\renewcommand{\bottomtitlespace}{.2\textheight}
+% \renewcommand{\bottomtitlespace}{.2\textheight}
+
+
+
+
+
+
+
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=darkBlue, citecolor=darkBlue, filecolor=darkBlue, pagecolor=darkBlue, urlcolor=darkBlue}
+
+
 
 \usepackage[grey,helvetica]{quotchap}
 %\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
-%\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
 \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
-\addtokomafont{chapter}{\Huge\color{ubuntured}\fontfamily{augie}\selectfont}
-%\addtokomafont{chapter}{}
+%\addtokomafont{chapter}{\Huge\color{ubuntured}\fontfamily{augie}\selectfont}
 
 \usepackage{minitoc} %The quotchap package should be loaded BEFORE the minitoc package.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Header
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Kopf- und Fußzeilen
 \usepackage{fancyhdr}
-
 \pagestyle{fancy} 
 \fancyheadoffset[RO,LE]{\marginparsep+\marginparwidth}
 \fancyfootoffset[RO,LE]{\marginparsep+\marginparwidth}
 \fancyhead[LE,RO]{\thepage} 
 %\fancyhead[LO]{}
 \fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
-\fancyhead[RE]{\gEs{\gAuthNotes{ --- \today -- ENTWURF
---- }}}
-\fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---
-}}}
+\fancyhead[RE]{\gEs{\gAuthNotes{ --- \today -- ENTWURF --- }}}
+\fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---}}}
 \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
 
 
@@ -228,91 +209,107 @@ footskip=10mm,
 % Letztes Commit: }\input{./tmp/git-lastcommit.tmp}}}
 
 %% FINAL %%%
-\fancyfoot[CE,CO]{\gEs{{\itshape {\gDocVersionTyp} -- Nur für den
-internen Gebrauch!}}}
-\fancyfoot[LE]{{\AASS{}~ \itshape
-v.\,\gDocVersion}}
+\fancyfoot[CE,CO]{\gEs{{\itshape {\gDocVersionTyp} -- Nur für den internen Gebrauch!}}}
+\fancyfoot[LE]{{\AASS{}~ \itshape v.\,\gDocVersion}}
 \fancyfoot[RO]{{\AASS{}~ \itshape v.\gDocVersion}}
 %
 
 
-% % leading zeros
-% \usepackage{numprint}
-% % %%%%%%%%%%% Anzahl einzufügender führender Nullen %%%%%%%
-% \nplpadding[0]{2}
-% % %%%%%%%%%%%%% Zeilenzähler umdefinieren %%%%%%%%%%%%%%%%%
-% \renewcommand{\thepage}{{\color{red}\thechapter}\cntprint{page}}
 
 \usepackage[noauto]{chappg}
 \makeatletter
 %%\@addtoreset{chapter}{part}
 %\@addtoreset{page}{chapter}%
-
 \makeatother
-	\pagenumbering{bychapter}
+\pagenumbering{bychapter}
 % 
 
-%\pagenumbering[\thepart]{bychapter}
-%\pagenumbering[\thepart]{bychapter}
-%\renewcommand{\thepage}{\thepart.\thepage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Beschriftungen
 
-
-
-% \makeatletter
-% \newcommand\arraybslash{\let\\\@arraycr}
-% \makeatother
-% 
-% \makeindex
-% 
-% \setlength\tabcolsep{1mm}
-% \renewcommand\arraystretch{1.3}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Captions
-																% Non-floating captions
+% Non-floating captions
 \makeatletter
 \newcommand\captionof[1]{\def\@captype{#1}\caption}
 \makeatother
 \newcounter{Drawing}
 \renewcommand\theDrawing{\arabic{Drawing}}
  
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Styles
-\newcommand{\strongemph}[1]{\emph{\textbf{#1}}}
-\newcommand{\Terminus}[1]{\textcolor{Terminus}{#1}}
-
-                
-
-% Define Grissu.org \latex commands
-% Character styles names are single letters, 
-% Paragraph styles are words
-
 % Abbildungsbeschreibung mit hängendem Einzug
 \setcapindent*{0em}
 
 
 
-\input{input-styles}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Styles
+\newcommand{\strongemph}[1]{\emph{\textbf{#1}}}
+\newcommand{\Terminus}[1]{\textcolor{Terminus}{#1}}
+
+% \input{input-styles}
 \input{input-docinfo}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Title
 
-% \title{Arbeits- und Ausbildungsstandards f\"ur den Sanitätsdienst}
-% \subject{und eine Einf\"uhrung in die Welt der Medizin und Sanitätshilfe}
-% \titlehead{Version f\"ur \"Osterreich, Stand Februar 2009 \par 
-% \LaTeX -Version, die Teile aus der OpenOffice-Version werden en detail \"ubernommen}
-% 
-% \lowertitleback{\centering\begin{minipage}{5cm}
-% \begin{center}
-% {\Huge Grissu.org}\par\vspace{1em}
-% \textit{serving the community} \par \textit{since 1999} 
-% \end{center}
-% \end{minipage}}
-% 
-% \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Withofner}
+\titlehead{{\gDocVersionTyp} {\gDocVersion} (Ed. ASB -- {\gDocVersionInfo})}
+
+\author{{\normalsize Herausgeber} \vspace{0.5em}\\Gabriel, Koch, Emhofer, Motal, Steuer
+\vspace{1em}\\{\itshape\normalsize{ Mit Beiträgen von
+Christof Koller, Michael Withofner u.a.}}}
+
+\title{Arbeits- und Ausbildungsstandards für den Sanitätsdienst}
+\subtitle{Angepasste Edition für das Ausbildungszentrum des ASB Floridsdorf-Donaustadt}
+\subject{\Huge{\AASS}}
+\date{\today}
+\publishers{{\fontfamily{lmss}\selectfont ARGE \AASS}}
+
+%%% uppertitleback
+\uppertitleback{
+    \emph{Titelbild: Sebastian Gabriel.}
+    
+    \emph{Ein Beatmungsbeutel und seine Einzelteile.}}
+    
+    \lowertitleback{\begin{gWideParEnv}\centering\begin{minipage}{8cm}
+    \begin{center} 
+        Dieses Projekt enstand in Zusammenarbeit mit dem
+        
+        \emph{\bfseries Ausbildungszentrum des ASB Floridsdorf-Donaustadt} 
+        
+        und wurde maßgeblich von der
+        
+        \emph{\bfseries Cyberservice Internetdienstleistungsgesellschaft~m.b.H.}
+        
+        und
+        
+        \emph{\bfseries Grissu.org} 
+        
+        unterstützt.\vspace{2em}
+    
+        \includegraphics[width=3cm]{./icons/asb.png}
+        
+        {\sffamily\fontfamily{phv}Gruppe Floridsdorf-Donaustadt}\par\vspace{2em}
+        
+        \includegraphics[width=5cm]{./images/logos/cyberservice.png}
+    
+        {\sffamily\fontfamily{phv}www.cyberservice.net}\par\vspace{2em}
+    
+        {\Huge Grissu.org}\par\vspace{1em}
+        \textit{serving the community} \par \textit{since 1999} 
+    \end{center}
+    \end{minipage}
+    \vspace{2em}
+    \begin{center}
+        {\bfseries\itshape Nur für den internen Gebrauch gem §\,42 Abs.\,6
+        UrheberG bestimmt. Weitergabe nicht gestattet.}
+    \end{center}
+    
+    \end{gWideParEnv}}
+
+\dedication{saluti et solatio aegrorum}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Bibliographie
 
 % Bibliographie-Stile babxxx unterstützen internationale Bibliographien, Paket
 % 'babelbib'.
@@ -320,15 +317,6 @@ v.\,\gDocVersion}}
 % english, german, ngerman). Die entsprechende Sprache muss in babel geladen
 % worden sein.
 \bibliographystyle{babunsrt}
-%\bibliographystyle{unsrtdin}
-%\bibliographystyle{plaindin}
-%\usepackage{bibunits}
-%\bibliographyunit[\chapter]
-%\defaultbibliography{../Literatur-AASS}
-%\defaultbibliography{Literatur-AASS}
-%\defaultbibliographystyle{unsrtdin2}
-%\defaultbibliographystyle{plain}
-
 \usepackage{cite}
 \usepackage{chapterbib} % Literaturverzeichnisse für Kapitel
 
@@ -338,116 +326,15 @@ v.\,\gDocVersion}}
 \bibliography{./Literatur-AASS}\end{multicols}}}
 
 
-\makeindex
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Page
-
-% set by geometry package
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
-
-
 \input{input-hyphenation}
 
-
-
-
-
-
-
+\usepackage[version=3]{mhchem}
 
 % #######################################################################################################
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
-\begin{titlepage}
-% \titlehead{% Version 0.0.1-yyyy-mm-dd  \par 
-% {\sffamily
-% \gEs{ -- ENTWURF --}
-% 
-% \gEs{Entwicklungszweig:}
-% {\ttfamily\input{./tmp/git-current-branch.tmp}}
-% \par
-% \gEs{Letztes Commit:} 
-% 
-% {\ttfamily\input{./tmp/git-lastcommit.tmp}}
-% 
-% \vspace{1em}
-% {\bfseries Edition:} Ausgabe für das
-% Ausbildungszentrum des ASB Floridsdorf-Donaustadt
-% 
-% \vspace{1em}
-% Diese Zweig soll als Version 0.2.0 im RS-Kurs 2009/07
-% (ET VII/2009) eingesetzt werden.}}
 
-\titlehead{{\gDocVersionTyp} {\gDocVersion} (Ed. ASB --
-{\gDocVersionInfo})}
-
-\author{{\normalsize Herausgeber} \vspace{0.5em}\\Gabriel, Koch, Emhofer, Motal, Steuer
-\vspace{1em}\\{\itshape\normalsize{ Mit Beiträgen von
-Christof Koller, Michael Withofner u.a.}}}
-
-\title{Arbeits- und Ausbildungsstandards für den Sanitätsdienst}
-
-\subtitle{Angepasste Edition für das Ausbildungszentrum des
-ASB Floridsdorf-Donaustadt}
-
-\subject{\Huge{\AASS}}
-
-\date{\today}
-
-\publishers{{\fontfamily{lmss}\selectfont ARGE \AASS}}
-
-\uppertitleback{\emph{Titelbild: Sebastian Gabriel.}
-
-\emph{Ein Beatmungsbeutel und seine Einzelteile.}}
-
-\lowertitleback{\begin{gWideParEnv}\centering\begin{minipage}{8cm}
-\begin{center} 
-Dieses Projekt enstand in Zusammenarbeit mit dem
-
-\emph{\bfseries Ausbildungszentrum des ASB
-Floridsdorf-Donaustadt} 
-
-und wurde maßgeblich von der
-
-\emph{\bfseries Cyberservice
-Internetdienstleistungsgesellschaft~m.b.H.}
-
-und
-
-\emph{\bfseries Grissu.org} 
-
-unterstützt.\vspace{2em}
-
-\includegraphics[width=3cm]{./icons/asb.png}
-
-{\sffamily\fontfamily{phv}Gruppe
-Floridsdorf-Donaustadt}\par\vspace{2em}
-
-\includegraphics[width=5cm]{./images/logos/cyberservice.png}
-
-{\sffamily\fontfamily{phv}www.cyberservice.net}\par\vspace{2em}
-
- {\Huge Grissu.org}\par\vspace{1em}
-\textit{serving the community} \par \textit{since 1999} 
-\end{center}
-\end{minipage}
-\vspace{2em}
-\begin{center}
-{\bfseries\itshape Nur für den internen Gebrauch gem §\,42
-Abs.\,6 UrheberG bestimmt. Weitergabe nicht gestattet.}
-\end{center}
-
-\end{gWideParEnv}}
-
-\dedication{saluti et solatio aegrorum}
-
-\end{titlepage}
 
 \maketitle
 

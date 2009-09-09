@@ -1,5 +1,3 @@
-#TeXlipse project settings
-#Tue Sep 01 08:38:27 GMT 2009
 builderNum=2
 outputDir=trunk/out/
 makeIndSty=

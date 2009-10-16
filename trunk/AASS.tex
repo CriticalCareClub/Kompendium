@@ -1,4 +1,4 @@
-\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=no]{scrbook}
+\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=no,parskip=half,noonelinecaption]{scrbook}
 
 % UTF-8 Schriftkodierung
 \usepackage[utf8]{inputenc}
@@ -17,6 +17,15 @@
 
 % Logik
 \usepackage{ifthen}
+
+% test
+%\usepackage{flafter}
+% 
+% http://mrunix.de/forums/showthread.php?p=301707
+% Abstand zwischen Absätzen in minipage-Umgebung:
+\makeatletter
+\newcommand*{\@minipagerestore}{\parskip@update}
+\makeatother
 
 \usepackage{aass-common}
 
@@ -123,8 +132,9 @@ footskip = 10mm,
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Pargragraphensatzregeln
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{5pt}
+%Dann darst du die parskip und \parindent gar nicht verändern, sondern Koma Script in der Klasse die entsprechende Option übergeben. 
+%\setlength{\parindent}{0pt}
+%\setlength{\parskip}{5pt}
 \raggedbottom
 \tolerance=1000
 \emergencystretch=10pt

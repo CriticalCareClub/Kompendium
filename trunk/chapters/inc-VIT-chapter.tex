@@ -25,15 +25,18 @@
 
 \minitoc
 
-\paragraph{Überblick}
+\clearpage
 
-\begin{center}
+\paragraph{Überblick}~
+
+\begin{table}[H]
+\gCaptionof{table}{Vitalfunktionen.}
+
 \begin{tabularx}{\linewidth}[H]{XX}
-\toprule
-Vitalfunktionen I. Ordnung
+\gTabHeading{Vitalfunktionen I. Ordnung}
  &
-Vitalfunktionen II. Ordnung
-\\\midrule
+\gTabHeading{Vitalfunktionen II. Ordnung}
+\\\addlinespace\midrule\addlinespace
 \begin{itemize}
 \item Bewusstsein
 \item Atmung
@@ -52,9 +55,9 @@ Lebensgefahr und muss dringlich behandelt werden!}
 \item Stoffwechsel
 \item Immunsystem
 \end{itemize}
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabularx}
-\end{center}
+\end{table}
 
 
 \paragraph{NACA -- Score}\index{NACA-Score}
@@ -67,27 +70,30 @@ dient der NACA-Score der groben statistischen Erfassung.
 1 bis 7:
 
 
-\begin{table}[h]\begin{center}
-\begin{tabular}{cl}\toprule
-\gTabSub{NACA} & \gTabSub{Bedeutung}
-\\\midrule
+\begin{table}[H]
+\gCaptionof{table}{NACA-Score.}
+
+\begin{tabular}{cl}\addlinespace
+\gTabHeading{NACA}
+&
+\gTabHeading{Bedeutung}
+\\\addlinespace\midrule\addlinespace
  I & keine ärztliche Therapie erforderlich
-\\
+\\\addlinespace
  II & ambulante Abklärung
-\\
+\\\addlinespace
  III & stationäre Abklärung
-\\
+\\\addlinespace
  IV & akute Lebensgefahr nicht ausgeschlossen
-\\
+\\\addlinespace
  V & akute Lebensgefahr
-\\
+\\\addlinespace
  VI & Reanimation
-\\
+\\\addlinespace
  VII & Tod
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabular}
-\gCaptionof{table}{NACA-Score}
-\end{center}\end{table}
+\end{table}
 
 
 
@@ -160,10 +166,11 @@ reduziert ist desto gefährlicher ist das für den Patienten.
 
 ${\rightarrow}$ Schädigung des zentralen Nervensystems
 
-\begin{center}
+\begin{table}[H]
+\gCaptionof{table}{Ursachen von Bewusstseinsstörungen.}
+
 \begin{tabularx}{\linewidth}[H]{XX}
-\toprule
-\gEs{Primäre Ursachen} & \gEs{Sekundäre Ursachen}
+\gTabHeading{Primäre Ursachen} & \gTabHeading{Sekundäre Ursachen}
 \\
 {\tiny betreffen direkt das ZNS} & {\tiny betreffen über
 Umwege das ZNS} 
@@ -201,17 +208,17 @@ Umwege das ZNS}
  \end{itemize}
 \\\bottomrule
 \end{tabularx}
-\end{center}
+\end{table}
 
 \subsubsection{Grade und Symptome}
 \index{Bewusstsein!Symptome}
 
-\begin{table}[H]\begin{center}
+\begin{table}[H]
+\gCaptionof{table}{Symptome und
+Grade der Bewusstseinsstörungen}
+
 \begin{tabulary}{\linewidth}{LLLL}
-\toprule
-\multicolumn{4}{c}{\gTabHeading{Symptome und
-Grade der Bewusstseinsstörungen}} 
-\\\midrule
+\addlinespace
 \gTabSub{Bewusstseinsklar}
  &
  &
@@ -220,30 +227,28 @@ Grade der Bewusstseinsstörungen}}
 \\\addlinespace
 \gTabSub{Bewusstseinsgetrübt}
 &
-\gT{somnolent} \index{somnolent}
+\noindent\gT{somnolent} \index{somnolent}
  &
 schläfrig, aber leicht erweckbar.
  &
 \\
  &
-\gT{soporös} \index{soporös}
+\noindent\gT{soporös} \index{soporös}
  &
  kaum und nur mit erheblichen Aufwand (Schmerzreiz)
  erweckbar 
  &
-\gEs{Gefahr!}
+\noindent\gEs{Gefahr!}
 \\\addlinespace
 \gTabSub{Bewußtlos}
  &
-\gT{komatös}\index{Koma}
+\noindent\gT{komatös}\index{Koma}
  &
  nicht erweckbar
  &
-\gCa{Lebensgefahr!}
-\\\bottomrule
+\noindent\gCa{Lebensgefahr!}
+\\\addlinespace\bottomrule
 \end{tabulary}
-\gCaptionof{table}{Wachheitszustände}
-\end{center}
 \end{table}
 
 
@@ -414,55 +419,6 @@ Berechnung des Atemminutenvolumens (AMV):
 \mbox{AMV} = \mbox{AZV} \times \mbox{AF}
 \end{equation}
 
-\begin{minipage}{\linewidth}
-\gCaptionof{table}{Gegenüberstellung der
-wichtigsten Kennzahlen, die die Herz- und Lungenleistung
-beeinflussen.}
-\begin{tabularx}{\linewidth}{XXX}
-\gTabHeading{~} & \gTabHeading{Herz} & \gTabHeading{Lunge}
-\\\toprule
-\gTabSub{Was?} & Blut & Luft
-\\\addlinespace
-\gTabSub{Qualität} & Sauerstoffgehalt\gZ{\footnote{\gZ{Nicht
-gleichzusetzen mit der Sauerstoffsättigung}}} &
-Sauerstoffkonzentration \\\midrule
-\gTabSub{Wie oft?}
-& 
-Herzfrequenz 
-
-(HF) 
-&
-Atemfrequenz 
-
-(AF)
-\\\addlinespace
-\gTabSub{Wieviel?}
-
-(pro Aktion)
-&
-Schlagvolumen
-
-(SV)
-&
-Atemzugsvolumen
-
-(AZV)
-\\\midrule
-\gTabSub{Erzielte Menge}
-&
-Herzminutenvolumen 
-
-(HMV)
-&
-Atemminutenvolumen
-
-(AMV)
-\\\bottomrule
-\end{tabularx}
-\end{minipage}
-
-\vspace{2em}
-
 \gMarried{
 Die normale Atemfrequenz (\gT{AF}) beträgt beim Erwachsenen
 in Ruhe 12-16\,\nicefrac{x}{min}, das Atemzugsvolumen
@@ -563,10 +519,12 @@ $\rightarrow$ \ce{O2}-Mangel (Hypoxie)
 
 \paragraph{Ursachen}~
 
+\begin{table}[H]
+\gCaptionof{table}{Ursachen für Atemstörungen.}
+
 \begin{tabulary}{\linewidth}[H]{LL}
-\toprule
-\gTabHeading{Störung des/der}  &
-\\\midrule
+\gTabHeading{Störung des/der}  & \gTabHeading{Vorkommen und Erkrankungen}
+\\\addlinespace\midrule\addlinespace
 \gTabSub{\ce{O2}-Angebotes}
  &
 Gärkeller (\ce{CO2}\,${\uparrow}$, \ce{O2}\,${\downarrow}$)
@@ -579,7 +537,7 @@ Defekte Gastherme (\ce{CO}\,${\uparrow}$,
 \ce{O2}\,${\downarrow}$)
 
 Ertrinken
-\\\midrule
+\\\addlinespace
 \gTabSub{\ce{O2}-Diffusion}
  &
 Lungenödem
@@ -587,7 +545,7 @@ Lungenödem
 Lungenentzündung
 
 Lungenembolie
-\\\midrule
+\\\addlinespace
 \gTabSub{Atemmechanik}
  &
 Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus,
@@ -598,7 +556,7 @@ Lungenödem)
 
 Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes
      (Rippenfraktur, Pneumothorax, Pleuraerguß, Emphysem)
-\\\midrule
+\\\addlinespace
 \gTabSub{Neuro\-muskulären Atemregulation}
  &
 SHT (Schädel Hirn Trauma)
@@ -616,16 +574,17 @@ Muskelerkrankungen
 Nervenerkrankung
 
 Stoffwechselstörungen
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabulary}
-
+\end{table}
 
 \paragraph{Symptome}~
 
-\begin{center}
 \begin{table}[H]
+\gCaptionof{table}{Symptome: Atmung.}
+
 \begin{tabulary}{\linewidth}[H]{LLLL}
-\toprule
+\addlinespace
 \gTabHeading{Kriterium}
  &
 \gTabHeading{Befund}
@@ -633,7 +592,7 @@ Stoffwechselstörungen
 \gTabHeading{Beschreibung}
  &
 %\gTabHeading{Anm.}
-\\\midrule
+\\\addlinespace\midrule\addlinespace
 \gTabSub{Beschwerde}
  &
 Atemnot (Dyspnoe) \index{Dyspnoe}
@@ -647,29 +606,29 @@ Brodeln \index{Atemgeräusch!brodelndes}
  &
 Blubbern, klassisch für Lungenödem
 \index{Atemgeräusch!blubberndes} &
-\\
+\\\addlinespace
  &
 Stridor \index{Stridor}
  &
  &
-\\
+\\\addlinespace
  &
 Brummen, Giemen
 \index{Atemgeräusch!brummendes}\index{Atemgeräusch!giemendes}
 & &
-\\
+\\\addlinespace
  &
 Rasselgeräusche \index{Rasselgeräusche}
  &
  &
-\\
+\\\addlinespace
 \gTabSub{Frequenz}
  &
 Beschleunigt
  &
 Tachypnoe \index{Tachypnoe}
  &
-\\
+\\\addlinespace
  &
 Verlangsamt
  &
@@ -681,12 +640,12 @@ Bradypnoe \index{Bradypnoe}
 Schnappatmung
  &
  &
-\\
+\\\addlinespace
  &
 Flache Atmung
  &
  &
-\\
+\\\addlinespace
  &
 Tiefe Atmung
  &
@@ -698,13 +657,13 @@ Blass
  &
 Normal, Anämie, Blutverlust
  &
-\\
+\\\addlinespace
  &
 Rosig
  &
 Normal, \ce{CO}-Vergiftung
  &
-\\
+\\\addlinespace
  &
 Bläulich 
  &
@@ -717,34 +676,33 @@ Einziehungen an den Rippen
  &
 Einsatz der Atemhilfsmuskulatur
  &
-\\
+\\\addlinespace
  &
 Aufstützen
  &
 Einsatz der Atemhilfsmuskulatur
  &
-\\
+\\\addlinespace
  &
 Nasenflügeln \index{Nasenflügeln}
  &
 Atemnot, besonders bei Kleinkindern
  &
-\\
+\\\addlinespace
  &
 Aufrechte Position
  &
  &
-\\
+\\\addlinespace
  &
 {\quotedblbase}Paradoxe Atmung{\textquotedblleft}
  &
 Brustkorb senkt sich bei Einatmung
  &
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabulary}
-\gCaptionof{table}{Symptome: Atmung.}
 \end{table}
-\end{center}
+
 
 \gAuthNotes{GABG: patholigische Atmungstypen inkl.
 Zeichnung einbinden? Kussmaul, etc.}
@@ -814,6 +772,54 @@ behandelt.} }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section[Herz- / Kreislauf]{Herz-\,/\,Kreislauf}
 \label{bkm:RefHeading42514202}
+
+\begin{minipage}{\linewidth}
+\gCaptionof{table}{Gegenüberstellung der
+wichtigsten Kennzahlen, die die Herz- und Lungenleistung
+beeinflussen.}
+\begin{tabularx}{\linewidth}{XXX}
+\gTabHeading{~} & \gTabHeading{Herz} & \gTabHeading{Lunge}
+\\\addlinespace\toprule\addlinespace
+\gTabSub{Was?} & Blut & Luft
+\\\addlinespace
+\gTabSub{Qualität} & Sauerstoffgehalt\gZ{\footnote{\gZ{Nicht
+gleichzusetzen mit der Sauerstoffsättigung}}} &
+Sauerstoffkonzentration 
+\\\addlinespace\midrule\addlinespace
+\gTabSub{Wie oft?}
+& 
+Herzfrequenz 
+
+(HF) 
+&
+Atemfrequenz 
+
+(AF)
+\\\addlinespace
+\gTabSub{Wieviel?}
+
+(pro Aktion)
+&
+Schlagvolumen
+
+(SV)
+&
+Atemzugsvolumen
+
+(AZV)
+\\\addlinespace\midrule\addlinespace
+\gTabSub{Erzielte Menge}
+&
+Herzminutenvolumen 
+
+(HMV)
+&
+Atemminutenvolumen
+
+(AMV)
+\\\addlinespace\bottomrule
+\end{tabularx}
+\end{minipage}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1092,28 +1098,30 @@ Bedrohung einzustufen!}
 \subsection{Allgemeine Schocksymptomatik}
 \index{Schock!allgemeine Symptomatik}
 
-\begin{center}
-\begin{tabular}{m{3.5cm}m{8cm}}
-\toprule
+\begin{table}[H]
+\gCaptionof{table}{Allgemeine Schocksymptomatik.}
+
+\begin{tabular}{p{3.5cm}p{8cm}}
+\addlinespace
 \gTabHeading{Stadium}
- &
+&
 \gTabHeading{Symptome}
-\\\midrule
-{\sffamily\Large\color{red} \index{Schockgefahr}Schockgefahr}
+\\\addlinespace\midrule\addlinespace
+{\sffamily\Large\color{DarkGreen} \index{Schockgefahr}Schockgefahr}
 
 \centering\includegraphics[width=1cm]{./icons/sm-basic.png}
- &
+&
  \begin{itemize}
      \item Keine eindeutigen Anzeichen
      \item Vorausschauend handeln!
      \item Verdachtsdiagnose bedenken.  Muss man damit
      rechnen dass sich ein Schock entwickelt?  Besteht Schockgefahr?
  \end{itemize}
-\\\midrule
-{\sffamily\Large\color{red}Schock}
+\\\addlinespace
+{\sffamily\Large\color{OrangeRed}Schock}
 
 \centering\includegraphics[width=1cm]{./icons/sm-pale.png}
- &
+&
  \begin{itemize}
      \item HF ${\uparrow}$
      \item mäßiger RR-Abfall, aber RR noch {\textgreater} HF
@@ -1122,14 +1130,13 @@ Bedrohung einzustufen!}
      \item Venen sind kollabiert oder gestaut
      \item Peripherie schlecht durchblutet
  \end{itemize}
-\\\midrule
+\\\addlinespace
 {\sffamily\Large\color{red}Schwerer Schock
 
 Vollbild}
 
 \centering\includegraphics[width=1cm]{./icons/sm-pale-frown.png}
-
- &
+&
  \begin{itemize}
      \item Tachykardie (HF ${\uparrow}$,
      {\quotedblbase}fliehender{\textquotedblleft} Puls)
@@ -1144,11 +1151,11 @@ Vollbild}
      \item nur mehr schwer behebbar! ${\rightarrow}$ Schock  möglichst
      frühzeitig erkennen \&  behandeln
  \end{itemize}
-\\\midrule
-{\sffamily\Large\color{red}Endstadium}
+\\\addlinespace
+{\sffamily\Large\color{LightSlateGray}Endstadium}
 
 \huge\centering $\skull$
- &
+&
  \begin{itemize}
      \item Haut grau, klebrig
      \item Versagen der Herzfunktion
@@ -1157,9 +1164,9 @@ Vollbild}
      \item evt. Schnappatmung
      \item Patient ist dabei zu sterben.
  \end{itemize}
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabular}
-\end{center}
+\end{table}
 
 \gFazit{Das erste Anzeichen eines beginnenden Schocks ist
 oft eine kühle Haut\footnote{Natürlich kann es auch andere

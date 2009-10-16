@@ -255,6 +255,12 @@ footskip = 10mm,
 % \makeatother
 \newcounter{Drawing}
 \renewcommand\theDrawing{\arabic{Drawing}}
+\floatstyle{ruled}
+\newfloat{bilderserie}{h}{bs}[chapter]
+%\newcounter{bilderserie}[chapter]
+\floatname{bilderserie}{Bilderserie}
+
+%\renewcommand\thebilderserie{Bilderserie \thechapter .\arabic{bilderserie}}
  
 % Abbildungsbeschreibung mit hängendem Einzug
 \setcapindent*{0em}

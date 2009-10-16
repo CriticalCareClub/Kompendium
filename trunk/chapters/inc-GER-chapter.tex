@@ -23,34 +23,36 @@ verschiedene Produkte. Doch eines haben alle gemeinsam: die
 
 
 \paragraph{Einteilung in Risikoklassen}
-\begin{center}
-\begin{tabulary}{\linewidth}{lLL}\toprule
-\gEs{Klasse I}
+\begin{table}[H]
+\gCaptionof{table}{MPG-Risikoklassen.}
+
+\begin{tabulary}{\linewidth}{lLL}\addlinespace
+\gTabSub{Klasse I}
 &
 Kein oder geringes Anwendungsrisiko
 &
 z.B: Verbandsmaterial, Gehhilfe, Rollstuhl, Tragsessel, Sehhilfe, Stethoskop, Trage, Beatmungsbeutel, Fieberthermometer, Druckminderer
-\\\midrule
-\gEs{Klasse IIa}
+\\\addlinespace
+\gTabSub{Klasse IIa}
 &
 Anwendungsrisiko ohne entsprechender Ausbildung bzw. Unterweisung
 &
 z.B: aktive Diagnosegeräte, Absaugeinheit und -katheter, EKG-Kabel, Zuckerstreifen, Trachealtuben, Dauerkatheter
-\\\midrule
-\gEs{Klasse IIb}
+\\\addlinespace
+\gTabSub{Klasse IIb}
 &
 Erhöhtes Anwendungsrisiko ohne entsprechender Ausbildung bzw. Unterweisung
 &
 z.B: Beatmungsgerät, Defibrillator, Pulsoxymeter, Babyinkubator, Röntgengeräte
-\\\midrule
-\gEs{Klasse III}
+\\\addlinespace
+\gTabSub{Klasse III}
 &
 Besonders hohes Anwendungsrisiko ohne entsprechende Ausbildung bzw. Unterweisung
 &
 z.B: Perfusor, Insulinpumpe, Herzkatheter oder -klappen, Medizinprodukte mit Arzneimittelkomponenten
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabulary}
-\end{center}
+\end{table}
 
 \paragraph{Pflichten des Sanitäters gemäß MPG}
 
@@ -590,7 +592,7 @@ Reservoir muss zuerst händisch befüllt werden.
 \end{tabulary}
 \end{table}
 
-\gDias
+\gDias{Bilderserie: Mittel zur Verabreichung von Sauerstoff.}
 {\includegraphics[width=2.5cm]{./images/o2-brille.png}
 \gCaptionof{figure}{Sauerstoffbrille}}
 {\includegraphics[width=2.5cm]{./images/o2-maske.png}
@@ -804,27 +806,59 @@ der \gEs{Oro-Sauger} oder Schleimabsauger.
 \opt{ORGASBFLO}{\ASBFLO{Beim ASB Floridsdorf-Donaustadt werden folgende Geräte
 eingesetzt:
 
-\begin{itemize}
-    \item \gMarginBugfix{Accuvac}Hersteller: Fa. Weinmann, Produktfamilie:
-    \gT{Accuvac}
-    \begin{itemize}
-        \item Accuvac Rescue (rote Deckplate)
-        \item Accuvac Basic (grüne Deckplate)
-    \end{itemize}
-    \item Hersteller: Fa. Laerdal
-    \begin{itemize}
-        \item Laerdal Suction Unit (auslaufend)
-    \end{itemize}
-    \item Handabsaugpumpe
-    \begin{itemize}
-        \item RES-Q-VAC
-    \end{itemize}
-    \item Orosauger, div. Hersteller
-\end{itemize}
+\begin{table}[H]
+\gCaptionof{table}{ASB921: Eingesetzte Absaugunggeräte.}
 
+\begin{tabulary}{\linewidth}{LLLL}
+\gTabHeading{Hersteller}
+&
+\gTabHeading{Produktfamilie}
+&
+\gTabHeading{Typ}
+&
+\gTabHeading{Bemerkungen}
+\\\addlinespace\midrule
+Weinmann
+&
+\noindent\gT{Accuvac}\gMarginBugfix{Accuvac}
+&
+Rescue
+&
+rote Deckplatte
+\\\addlinespace
+&
+&
+Basic
+&
+grüne Deckplatte
+\\\addlinespace
+Laerdal
+& 
+Laerdal Suction Unit
+&
+&
+auslaufend
+\\\addlinespace
+div. Hersteller
+&
+Handabsaugpumpe
+&
+RES-Q-VAC
+&
+\\\addlinespace
+div. Hersteller
+&
+Orosauger
+&
+&
+\\\addlinespace\bottomrule
+\end{tabulary}
+\end{table}
 }}
 
-\begin{center}
+\begin{table}[H]
+\gCaptionof{table}{Verschiedene Absaugvorrichtungen.}
+
 \begin{tabular}{p{\linewidth - 5cm}p{4cm}}\toprule
 \gTabHeading{Elektrische Absaugeinheit}
 
@@ -862,10 +896,10 @@ zum Einführen in Mund oder Nase
 \vspace{0.1pt}
  \includegraphics[width=4cm]{./images/geraete/absaugkatheter.jpg} \\\bottomrule
 \end{tabular}
-\end{center}
+\end{table}
 
-Die Absaugkatheter sind steril verpackt und sollten auch
-dementsprechend behandelt werden. Die farbige Kennung gibt
+\paragraph{Absaugkatheter} Die Absaugkatheter sind steril verpackt und sollten
+auch dementsprechend behandelt werden. Die farbige Kennung gibt
 den Durchmesser des Absaugkatheters an. Wenn eine
 \gEs{Absaugbereitschaft} hergestellt werden soll, wird nur
 der farbige Teil des Katheters ausgepackt und an den
@@ -1069,7 +1103,7 @@ welchen sich die gewünschte Größe einstellen lässt
 (Stifneck select{\texttrademark} bzw. Stifneck Paedi
 select{\texttrademark} für Kinder).
 
-\vspace{3em}
+\vfill
 
     \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-stiffneck.jpg}{}HWS-Schiene} 
     }{
@@ -1103,27 +1137,25 @@ oder mit Dreiecktücher fixiert werden.
 \subsection{Vakuumbeinschiene}
 \label{topic:vacuumbeinschiene-beschreibung}
 
+\gMarried{
 Anwendung: \gSee{topic:vacuumbeinschiene-anwendung}
 
-\gMarried{
 Dient zum Ruhigstellen von Verletzungen zwischen Knie und Zehen.
 
-\vspace{3em}
+\vfill
 
     \gCaptionof{figure}{\gAuthNotesPicLegalOk{}{}Vakuumbeinschiene.}
 }{
-    \begin{center}
 \includegraphics[width=\linewidth]{./images/geraete/vakuumbeinschiene.jpg}
-    \end{center}
 }
 
 
 \subsection{Vakuummatratze}
 \label{topic:vakuummatratze-beschreibung}
 
+\gMarried{
 Anwendung: \gSee{topic:vakuummatratze-handhabung}
 
-\gMarried{
 Wird zum Ruhigstellen von Wirbelsäule, Becken und Oberschenkel verwendet.
 
 \vspace{3em}

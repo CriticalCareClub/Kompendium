@@ -534,9 +534,10 @@ Spontanatmung!
 
 
 
-\begin{center}
+\begin{table}[H]
+\gCaptionof{table}{Verabreichungsarten von Sauerstoff.}
+
 \begin{tabulary}{\linewidth}[H]{CLLL}
-\toprule
 \gTabHeading{Was}
  &
 \gTabHeading{Wann}
@@ -544,7 +545,7 @@ Spontanatmung!
 \gTabHeading{Vorteile}
 &
 \gTabHeading{Nachteile}
-\\\toprule 
+\\\addlinespace\toprule\addlinespace 
 \gTabSub{Sauerstoff\-brille}
  &
 Spontanatmung
@@ -555,12 +556,12 @@ gute Toleranz
 
 fehlendes Engegefühl
 
-Sprechen\&Husten möglich
+Sprechen \& Husten möglich
  &
 ungenaue Dosierung
 
 Austrocknung  der Schleimhäute 
-\\\midrule
+\\\addlinespace\midrule\addlinespace
 \gTabSub{Sauerstoff\-maske}
  &
 Spontanatmung
@@ -573,7 +574,7 @@ höhere \ce{O2}-Konzentration
 {\textless}~5\gLMin!) 
 
 für Patienten evt. unangenehm bzw. gewöhnungsbedürftig
-\\\midrule
+\\\addlinespace\midrule\addlinespace
 \gTabSub{Sauerstoff\-maske mit Reservoir}
  &
 Spontanatmung
@@ -585,9 +586,9 @@ Noch höhere \ce{O2}-Konzentration
 Wie oben.
 
 Reservoir muss zuerst händisch befüllt werden.
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabulary}
-\end{center}
+\end{table}
 
 \gDias
 {\includegraphics[width=2.5cm]{./images/o2-brille.png}
@@ -649,19 +650,19 @@ Wenn vorhanden soll über einen Verbindungsschlauch
 \ce{O2}-Berieselungseinheit mit einem Flow von 15\gLMin{} angeschlossen werden um die höchstmögliche \ce{O2}-Konzentration der Einatemluft zu
 erreichen. 
 }{
-\begin{center}
 \includegraphics[width=\linewidth]{./images/geraete/ger-ambu.jpg}
+
 \gCaptionof{figure}{Beatmungsbeutel mit Reservoir,
 Bakterienfilter und Masken unterschiedlicher Größe.}
-\end{center}
 }
 
 
 
-\begin{center}
-\begin{tabulary}{\linewidth}{Lr}\toprule
-\gTabHeading{Mögliche Sauerstoffkonzentrationen bei der Beatmung} 
-\\\midrule Mund-zu-Mund Beatmung
+\begin{table}[H]
+\gCaptionof{table}{Mögliche Sauerstoffkonzentrationen bei der Beatmung.}
+\begin{tabulary}{\linewidth}{Lr}
+\addlinespace 
+Mund-zu-Mund Beatmung
 &
 17\,\%
 \\\addlinespace
@@ -676,9 +677,10 @@ Beutel-Masken-Beatmung mit angeschl. \ce{O2} (15\gLMin)
 Beutel-Masken-Beatmung mit angeschl. \ce{O2} (15\gLMin) und
 Reservoir &
 fast 100\,\%
-\\\bottomrule
+\\
 \end{tabulary}
-\end{center}
+\hrule
+\end{table}
 
 \gMarried{
 Ein Beatmungsbeutel besteht im Idealfall aus folgenden Teilen:
@@ -745,8 +747,7 @@ zum Einsatz:
 
 \begin{figure}[ht]
 \includegraphics[width=\linewidth]{./images/geraete/ger-medumat-standard-bedienfeld.jpg}
-\gCaptionof{figure}[Bedienfelder Berieselungseinheit \gE{Modul Oxygen} (li.) und
-Beatmungsgerät \gE{Medumat Standard} (re.).]{Bedienfelder Berieselungseinheit \gE{Modul Oxygen} (li.)
+\gCaptionofDiff{figure}{Bedienfelder Berieselungseinheit \gE{Modul Oxygen} (li.)
 und Beatmungsgerät \gE{Medumat Standard} (re.).
 
 \gE{Modul Oxygen (li.):} Flowmeter, Ein-Ausschalter und Regelventil. Der
@@ -757,6 +758,8 @@ für Atemfrequenz, Atemminutenvolumen (!) und Druckbegrenzung,
 Beatmungsdruckanzeige, Warnleuchten für Verlegung ("`Stenosis"'), Lösung des
 Beatmungsschlauches ("`Disconnection"'), niederen Flaschendruck ("`< 2.7 bar"')
 und schwache Batterie.} }
+{Bedienfelder Berieselungseinheit \gE{Modul Oxygen}
+(li.) und Beatmungsgerät \gE{Medumat Standard} (re.).}
 \end{figure}
 
 
@@ -967,14 +970,10 @@ gehoben oder gesenkt werden, da sonst die Gefahr des Kippens besteht.
     \item Hersteller: Fa. Ferno
 \end{itemize}
 }{
-    \begin{center}
-
-   
-    \includegraphics[width=7cm]{./images/noauth/GER-fahrtrage-stollenwerk.jpg}
+    \includegraphics[width=\linewidth]{./images/noauth/GER-fahrtrage-stollenwerk.jpg}
    
    
     \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-fahrtrage-stollenwerk.jpg}{}Krankentrage mit Fahrgestell.}
-    \end{center}
 }
 
 
@@ -983,7 +982,8 @@ gehoben oder gesenkt werden, da sonst die Gefahr des Kippens besteht.
     \begin{center}
 
     \includegraphics[width=10cm]{./images/noauth/GER-umlagern.png} 
-    \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-umlagern.png}{}\label{fig:rollstuhl-umgang}\label{fig:umlagern}}
+
+    \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-umlagern.png}{}\label{fig:rollstuhl-umgang}\label{fig:umlagern}Umlagern von Patienten.}
     \end{center}
 
 
@@ -993,9 +993,9 @@ gehoben oder gesenkt werden, da sonst die Gefahr des Kippens besteht.
 \index{Schaufeltrage!Beschreibung}
 \label{topic:schaufeltrage-beschreibung}
 
+\gMarried{
 Anwendung: \gSee{topic:schaufeltrage-handhabung}
 
-\gMarried{
 Die Schaufeltrage wird primär für das Umlagern von liegenden
 Patienten mit dem Verdacht auf eine Verletzung der
 Wirbelsäule verwendet. Das Anwendungsgebiet ist jedoch sehr
@@ -1242,26 +1242,31 @@ wünschenswert, Dringlichkeit: niedrig}}
 \end{center}
 
 
- 
-\gAuthNotes{Elektroden noch farblich Kennzeichnen}
-\begin{center}
-\begin{tabulary}{\linewidth}{CCC}\toprule
-\gTabHeading{Elektrode} & \gTabHeading{Position} &
+
+\begin{table}[H]
+\gCaptionof{table}{Farbe und Positionen der EKG-Ekeltroden für die
+Extremitätenableitung.}
+
+\begin{tabular}{lll}
+\gTabHeading{Elektrode} 
+& 
+\gTabHeading{Position} 
+&
 \gTabHeading{Alternative Postion}
 \\\midrule
-\gTabSub{\color{red}Rot} & Rechte Hand & Rechte
+\colorbox{red}{\sffamily\bfseries\textcolor{white}{Rot}} & Rechte Hand & Rechte
 Schulter
 \\
-\gTabSub{\color{yellow}Gelb} & Linke Hand & Linke
+\colorbox{yellow}{\sffamily\bfseries Gelb} & Linke Hand & Linke
 Schulter
 \\
-\gTabSub{\color{darkGreen}Grün } & Linker Fuß  & Linke
-Leiste
+\colorbox{green}{\sffamily\bfseries Grün} & Linker Fuß  &
+Linke Leiste
 \\
-\gTabSub{\color{black}Schwarz} & Rechter Fuß & Rechte
-Leiste \\\bottomrule
-\end{tabulary}
-\end{center}
+\colorbox{black}{\sffamily\bfseries\textcolor{white}{Schwarz}} & Rechter Fuß &
+Rechte Leiste \\\bottomrule
+\end{tabular}
+\end{table}
 
 
 \subsubsection{Brustwandableitungen}
@@ -1271,10 +1276,12 @@ erlauben eine genauere Zuordnung von Störungen zu der jeweiligen
 Region des Herzens. Aus den Informationen der 6 Elektroden erzeugt das
 EKG-Gerät 6 Ableitungen: \gZ{V1 -- V6}. 
 
+
+\begin{table}[H]
 \gZ{
-\begin{center}
-\begin{tabulary}{\linewidth}[H]{cL}
-\toprule
+\gCaptionof{table}{Position der EKG-Elektroden bei der Brustwandableitung.}
+
+\begin{tabulary}{\linewidth}[H]{CL}
 Elektrode
  &
 Position
@@ -1293,8 +1300,8 @@ V5 & Mitte zwischen V4 und V6
 V6 & 6. Zwischenrippenraum in der mittleren Achsellinie
 \\\bottomrule
 \end{tabulary}
-\end{center}
 }
+\end{table}
 
 \section{Pulsoxymetrie}
 

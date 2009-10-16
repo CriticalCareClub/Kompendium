@@ -249,9 +249,10 @@ footskip = 10mm,
 %%% Beschriftungen
 
 % Non-floating captions
-\makeatletter
-\newcommand\captionof[1]{\def\@captype{#1}\caption}
-\makeatother
+\usepackage[labelsep=newline,font={sf,bf},textfont={sf,md,it}]{caption}
+% \makeatletter
+% \newcommand\captionof[1]{\def\@captype{#1}\caption}
+% \makeatother
 \newcounter{Drawing}
 \renewcommand\theDrawing{\arabic{Drawing}}
  

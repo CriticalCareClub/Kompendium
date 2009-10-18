@@ -13,7 +13,7 @@
 \usepackage{ifthen}
 \usepackage[final]{graphicx} % Bilder-Support
 
-\usepackage{../aass-common}
+\usepackage{aass-common}
 
 \usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts,skull}
 % resolv symbol clashes 
@@ -25,7 +25,7 @@
 \usepackage{dingbat}
 \restoresymbol{DINGBAT}{checkmark}
 
-
+\usepackage[labelsep=newline,font={sf,bf},textfont={sf,md,it},singlelinecheck=false]{caption}
 \usepackage{shorttoc}
 %Symbole
 \usepackage{makeidx}
@@ -60,7 +60,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
 \usepackage[svgnames,hyperref]{xcolor}
 
-\input{../input-colors}
+\input{input-colors}
 
 
 
@@ -157,7 +157,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
 
 
-\input{../input-hyphenation}
+\input{input-hyphenation}
 
 
 
@@ -180,26 +180,43 @@
 \tableofcontents
 
 text
+\chapter{Übersichtslisten}
+
+
+\gCaptionof{table}{Iterationen.}
+
+
+\gCaptionof{table}{Versionen.}
 
 \chapter{Inhaltliche Änderungen}
 
-\section{Kumulative Änderungen 0.2.0 -- 0.4.0}
+\section{1.0}
+
+\subsection{Kumulative Änderungen 0.2.0 -- 0.4.0}
+
+\subsubsection{ANA -- Anatomie}
+
+\subsubsection{ -- }
+
+\subsubsection{ -- }
+
+\subsubsection{ -- }
+
+\subsubsection{ -- }
+
+\subsubsection{ -- }
+
+\subsubsection{ -- }
+
+\subsection{Kumulative Änderungen 0.4.0 -- 0.6.0}
+
+\section{2.0}
 
 
-\subsection{ANA -- Anatomie}
 
-\subsection{ -- }
 
-\subsection{ -- }
+\chapter{Quellcode (\LaTeX)}
 
-\subsection{ -- }
-
-\subsection{ -- }
-
-\subsection{ -- }
-
-\subsection{ -- }
-
-\chapter{\LaTeX{}}
+\chapter{Versionsverwaltung}
 
 \end{document}

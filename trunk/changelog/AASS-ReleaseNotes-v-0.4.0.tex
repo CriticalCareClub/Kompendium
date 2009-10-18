@@ -1,0 +1,205 @@
+\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=0cm,DIV=11,headings=big,draft=no]{scrreprt}
+% \setlength{\voffset}{-15pt}
+% \setlength{\textheight}{720pt}
+% \setlength{\marginparwidth}{5cm}
+
+% Hallo! test
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english,german,ngerman]{babel}
+\usepackage{babelbib}
+\setbtxfallbacklanguage{english}
+\usepackage{ifthen}
+\usepackage[final]{graphicx} % Bilder-Support
+
+\usepackage{../aass-common}
+
+\usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts,skull}
+% resolv symbol clashes 
+\usepackage{savesym}
+\savesymbol{checkmark}
+\savesymbol{Cross} % ifsym
+\usepackage[geometry,alpine]{ifsym}
+
+\usepackage{dingbat}
+\restoresymbol{DINGBAT}{checkmark}
+
+
+\usepackage{shorttoc}
+%Symbole
+\usepackage{makeidx}
+%\usepackage{showidx} % shows index entries on page margin
+%\usepackage{showkeys}
+
+\usepackage{units}
+
+
+\usepackage{booktabs,longtable,supertabular,tabularx,tabulary}
+\usepackage{multicol,multirow}
+%Tabellen
+% Floats
+\usepackage{float,wrapfig}
+
+% watches margin paragraphs and
+% gives warnings
+\usepackage{mparhack} 
+
+\usepackage{soul}
+\usepackage{array}
+\usepackage{scalefnt}
+
+\usepackage{hhline}
+
+
+%\usepackage{ooomath}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
+\usepackage[svgnames,hyperref]{xcolor}
+
+\input{../input-colors}
+
+
+
+
+
+%\usepackage{pst-all}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Tables
+
+\usepackage{boxedminipage}
+% \usepackage{geometry}
+% \usepackage{layout,calc}
+% %\usepackage[strict]{changepage}
+% %\usepackage{gmeometric}
+% 
+% 
+% \geometry{verbose,
+% a4paper,
+% %tmargin=1cm,
+% %bmargin=1cm,
+% %lmargin=1cm,
+% %rmargin=1cm,
+% outer=56mm,
+% inner=25mm,
+% top=25mm,
+% bottom=20mm,
+% marginparwidth=40mm,
+% %headheight=0.5cm,
+% %headsep=0.5cm,
+% footskip=10mm,
+% %includehead,
+% %includemp
+% }
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+\raggedbottom
+
+\tolerance=1000
+\emergencystretch=10pt
+
+
+
+%\usepackage{augie} 
+%\usepackage{emerald}                                                          
+\usepackage{lmodern}                                                          
+                                                               % % % set fonts
+
+\renewcommand{\rmdefault}{lmr} % Latin Modern Roman 
+\usepackage[scaled]{helvet}
+\renewcommand{\sfdefault}{lmss} % Latin Modern Syns Serif
+\renewcommand{\ttdefault}{lmtt} % Latin Modern Typewriter 
+
+
+
+\setcounter{secnumdepth}{3}
+
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=darkBlue, citecolor=darkBlue, filecolor=darkBlue, pagecolor=darkBlue, urlcolor=darkBlue}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Header
+\usepackage{fancyhdr}
+
+\pagestyle{fancy} 
+
+
+
+
+
+
+
+
+
+
+
+%\input{../input-styles}
+%\input{input-docinfo}
+
+
+
+\usepackage{cite}
+
+
+\makeindex
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Page
+
+% set by geometry package
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
+
+
+\input{../input-hyphenation}
+
+
+
+
+\author{ARGE \AASS}
+\title{Changelog AASS Version 0.4.0}
+\subtitle{Zyklen 13--15}
+\subject{Meilenstein-Release -- Vorabversion}
+
+
+
+% #######################################################################################################
+% BEGIN DOCUMENT ########################################################################################
+% #######################################################################################################
+
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+text
+
+\chapter{Inhaltliche Änderungen}
+
+\section{Kumulative Änderungen 0.2.0 -- 0.4.0}
+
+
+\subsection{ANA -- Anatomie}
+
+\subsection{ -- }
+
+\subsection{ -- }
+
+\subsection{ -- }
+
+\subsection{ -- }
+
+\subsection{ -- }
+
+\subsection{ -- }
+
+\chapter{\LaTeX{}}
+
+\end{document}

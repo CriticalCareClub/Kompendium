@@ -1,13 +1,13 @@
 #TeXlipse project settings
-#Sun Oct 18 10:07:51 GMT 2009
+#Mon Oct 19 23:34:06 CEST 2009
 builderNum=2
 outputDir=trunk/out/
 makeIndSty=
 bibrefDir=
 outputFormat=pdf
 tempDir=trunk/tmp
-mainTexFile=AASS-ReleaseNotes-v-0.4.0.tex
-outputFile=AASS-ReleaseNotes-v-0.4.0.pdf
+mainTexFile=AASS.tex
+outputFile=AASS.pdf
 langSpell=de
 markDer=true
 srcDir=trunk

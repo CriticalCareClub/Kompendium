@@ -4,7 +4,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
-\usepackage[final]{graphicx} % Bilder-Support
+\usepackage[draft]{graphicx} % Bilder-Support
 % \usepackage{showidx} % shows index entries on page margin
 % \usepackage{showkeys}
 
@@ -354,8 +354,16 @@ Christof Koller, Michael Withofner u.a.}}}
 
 % \gChapterBibliography muss in der jeweiligen Kapiteldatei aufgerufen werden
 % um dort ein entsprechend formatiertes Literaturverzeichnis zu erstellen.
-\newcommand{\gChapterBibliography}{\bibliographystyle{babunsrt}{\begin{multicols}{2}\scriptsize\setlength{\parskip}{1pt}
-\bibliography{./Literatur-AASS}\end{multicols}}}
+\newcommand{\gChapterBibliography}
+	{\bibliographystyle{babunsrt}
+	\begin{multicols}{2}
+    	{
+    		\scriptsize
+    		\setlength{\parskip}{1pt}
+    		\bibliography{./Literatur-AASS}
+    	}
+    \end{multicols}
+	}
 
 
 \input{input-hyphenation}

@@ -1,10 +1,10 @@
-\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=no]{scrbook}
+\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=no,parskip=half,noonelinecaption]{scrbook}
 
 % UTF-8 Schriftkodierung
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
-\usepackage[draft]{graphicx} % Bilder-Support
+\usepackage[final]{graphicx} % Bilder-Support
 % \usepackage{showidx} % shows index entries on page margin
 % \usepackage{showkeys}
 
@@ -18,12 +18,31 @@
 % Logik
 \usepackage{ifthen}
 
+% test
+%\usepackage{flafter}
+% 
+% http://mrunix.de/forums/showthread.php?p=301707
+% Abstand zwischen Absätzen in minipage-Umgebung:
+\makeatletter
+\newcommand*{\@minipagerestore}{\parskip@update}
+\makeatother
+
 \usepackage{aass-common}
 
 %\usepackage{excludeonly}
-%\includeonly{./chapters/inc-TAE-chapter,./chapters/inc-EIN-chapter}
+%\includeonly{./chapters/inc-SAN-chapter,./chapters/inc-EIN-chapter}
 %\excludeonly{include-betriebsintern-chapter,include-regional-chapter,include-taetigkeitsbild-chapter,include-erstehilfe-chapter,include-recht-chapter,include-reserve-ende}
 
+\usepackage[ORGASBFLO,NIVRSA,NIVNFS,NIVDOC,REGVIE]{optional}
+% ASBFLO .. ASB Floridsdorf-Donaustadt
+% NIV
+% NIVRSA
+% NIVNFS
+% NIVDOC
+% ORG
+% ORGASBFLO
+% REG
+% REGVIE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Mathemathik
 \usepackage{amsmath,amssymb,amsfonts,}
@@ -113,8 +132,9 @@ footskip = 10mm,
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Pargragraphensatzregeln
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{5pt}
+%Dann darst du die parskip und \parindent gar nicht verändern, sondern Koma Script in der Klasse die entsprechende Option übergeben. 
+%\setlength{\parindent}{0pt}
+%\setlength{\parskip}{5pt}
 \raggedbottom
 \tolerance=1000
 \emergencystretch=10pt
@@ -156,7 +176,8 @@ footskip = 10mm,
 \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{ubuntured}}
 \addtokomafont{section}{\Huge\color{ubuntured}}
 \addtokomafont{subsection}{\huge\color{ubuntured}}
-\addtokomafont{subsubsection}{\LARGE\color{darkBlue}}
+%\addtokomafont{subsubsection}{\LARGE\color{darkBlue}}
+\addtokomafont{subsubsection}{\LARGE\color{ubuntured!80}}
 \addtokomafont{paragraph}{\large\color{darkBlue}}
 \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 % \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
@@ -226,14 +247,25 @@ footskip = 10mm,
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen
-
+\renewcommand{\tableformat}{Tafel~\thetable\autodot}
 % Non-floating captions
-\makeatletter
-\newcommand\captionof[1]{\def\@captype{#1}\caption}
-\makeatother
-\newcounter{Drawing}
-\renewcommand\theDrawing{\arabic{Drawing}}
- 
+\usepackage[labelsep=newline,font={sf,bf},textfont={sf,md,it},singlelinecheck=false]{caption}
+
+
+% \makeatletter
+% \newcommand\captionof[1]{\def\@captype{#1}\caption}
+% \makeatother
+% \newcounter{Drawing}
+% \renewcommand\theDrawing{\arabic{Drawing}}
+% \floatstyle{ruled}
+% \newfloat{bilderserie}{h}{bs}[chapter]
+
+% \floatname{bilderserie}{Bilderserie}
+
+
+%\renewcommand\thebilderserie{Bilderserie \thechapter .\arabic{bilderserie}}
+
+
 % Abbildungsbeschreibung mit hängendem Einzug
 \setcapindent*{0em}
 
@@ -322,8 +354,16 @@ Christof Koller, Michael Withofner u.a.}}}
 
 % \gChapterBibliography muss in der jeweiligen Kapiteldatei aufgerufen werden
 % um dort ein entsprechend formatiertes Literaturverzeichnis zu erstellen.
-\newcommand{\gChapterBibliography}{\bibliographystyle{babunsrt}{\begin{multicols}{2}\scriptsize\setlength{\parskip}{1pt}
-\bibliography{./Literatur-AASS}\end{multicols}}}
+\newcommand{\gChapterBibliography}
+	{\bibliographystyle{babunsrt}
+	\begin{multicols}{2}
+    	{
+    		\scriptsize
+    		\setlength{\parskip}{1pt}
+    		\bibliography{./Literatur-AASS}
+    	}
+    \end{multicols}
+	}
 
 
 \input{input-hyphenation}
@@ -437,6 +477,9 @@ handelt.
     
     \paragraph{Thomas Hochreiter}
     DGKP
+
+Sozialmedizinisches Zentrum Floridsdorf, Krankenhaus und Geriatriezentrum
+Hinaysgasse 1, A-1210 Wien
     
     Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
     Wallenberggasse 2, A-1220 Wien
@@ -453,6 +496,11 @@ handelt.
     Wallenberggasse 2, A-1220 Wien\\
     
     \paragraph{Michael Motal}~
+    
+    Medizinische Universität Wien -- Besondere Einrichtung zur
+    Medizinischen Aus- und Weiterbildung
+    
+    Spitalgasse 23, A-1090 Wien
     
     Ausbildungszentrum des ASB Floridsdorf-Donaustadt,
     Wallenberggasse 2, A-1220 Wien\\
@@ -595,7 +643,17 @@ BibTeX \paragraph{Textverarbeitung und Rohentwurf} OpenOffice
 % %\renewcommand\contentsname{Inhalt - Detail\"ubersicht}
 % \tableofcontents
 
-\listoffigures
+% \begin{multicols}{2}
+% \scriptsize
+% \listoffigures
+% \end{multicols}
+% 
+% 
+% \begin{multicols}{2}
+% \scriptsize
+% \listoftables
+% \end{multicols}
+
 
 \printindex
 
@@ -650,6 +708,13 @@ BibTeX \paragraph{Textverarbeitung und Rohentwurf} OpenOffice
 
 \include{./chapters/inc-RES-ende}
 
+\part{Erweitertes Wissen}
+
+\include{./chapters/inc-MPG-chapter}
+
+\include{./chapters/inc-ALS-chapter}
+
+% \chapter{Pharmakologie}
 
 \include{./chapters/inc-APP}
 

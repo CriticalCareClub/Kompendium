@@ -22,6 +22,9 @@
 % }
 
 \section{Grundlagen}
+
+\subsection{Wichtige Vokabel}
+
 \begin{multicols}{2}
 \begin{description}
     \item[\gT{Infektion}] \index{Infektion}Eindringen von
@@ -49,59 +52,22 @@
     \item[\gT{Letalität}]  \index{Letalität}Anteil der
     an XY Verstorbenen beozgen auf die Gesamtzahl der
     Erkrankten ({\quotedblbase}1 von 5 Erkrankten stirbt{\textquotedblright})
-    \item[\gT{Entzündung}] \gSee{topic:entzuendung}
+    \item[\gT{Entzündung}] \gSee{topic:entzuendung}: 
+    
+    \begin{inparaenum}
+                                                     \item Rötung, 
+                                                     \item Schwell\-ung, 
+                                                     \item Überwärmung, 
+                                                     \item Schmerzen, 
+                                                     \item Funktionsverlust.
+                                                     \end{inparaenum}.
     \item[\gT{Prophylaxe}] \index{Prophylaxe} Vobeugende
     Massnahmen
 \end{description}
 \end{multicols}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Die wichtigsten Übertragungswege}
 
-Krankheitserreger können auf unterschiedliche Wege in den
-Körper gelangen und eine Infektion verursachen:
-
-\begin{multicols}{2}
-\begin{itemize}
-    \item Fäkal-oral (Schmierinfektion, z.B. Badesee)
-    \item Aerogen (Tröpfcheninfektion)
-    \item Genital (Geschlechtsverkehr)
-    \item Über/durch die Haut
-    \item Diaplazentär (während Schwangerschaft)
-    \item Während der Geburt
-    \item Eintrittspforten: alles was irgendwie offen ist
-    \begin{itemize}
-        \item Wunden, Magen-Darm-Trakt, Atmung, Auge, Penis/Scheide, Plazenta
-        \ldots
-    \end{itemize}
-    \item Fremdkörper sind Wohnhäuser und Autobahnen für Keime
-    \begin{itemize}
-        \item Harnkatheter, venöse Zugänge, Tubus, künstlicher
-        Mageneingang, Dialysekatheter {\dots}
-    \end{itemize}
-\end{itemize}
-\end{multicols}
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Kreuzinfektion}
-
-\marginlabel{Kreuzinfektion}
-\index{Kreuzinfektion}
-\gDefinition{Verschleppung von Erregern von einem Patienten
-auf einen (unbeteiligten) Anderen, wobei das Personal oder
-Gegenstände als "`Vehikel"' fungieren.}
-
-\gFazit{Kreuzinfektion: \gEs{Patient 1
-${\rightarrow}$ \emph{Sanitäter} ${\rightarrow}$ Patient
-2}}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -109,25 +75,38 @@ ${\rightarrow}$ \emph{Sanitäter} ${\rightarrow}$ Patient
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Die wichtigsten Erreger}
 
-\begin{itemize}
-    \item Bakterien
-    \begin{itemize}
-        \item klein, im Mikroskop meist sichtbar;
-        {\textquotedblleft}Normale{\textquotedblright} Zellen
-    \end{itemize}
-    \item Viren
-    \begin{itemize}
-        \item sehr klein, im Mikroskop i.d.R. nicht
-        sichtbar, keine echten Zellen, müssen Zellen befallen
-    \end{itemize}
-    \item Pilze   
-    \item Tiere, Tierparasiten
-    \begin{itemize}
-        \item Würmer 
-    \end{itemize}
-    \item (Toxine)
-\end{itemize}
+\begin{table}[H]
+\gCaptionof{table}{Übersicht der Erregerarten.}
 
+\begin{tabulary}{\linewidth}{LL}
+\gTabHeading{Erreger}
+&
+\gTabHeading{Kurzbeschreibung}
+\\\midrule\addlinespace
+\gTabSub{Bakterien}
+&
+klein, im Mikroskop meist sichtbar;
+        {\textquotedblleft}Normale{\textquotedblright} Zellen
+\\\addlinespace
+\gTabSub{Viren}
+&
+sehr klein, im Mikroskop i.d.R. nicht
+        sichtbar, keine echten Zellen, müssen Zellen befallen
+\\\addlinespace
+\gTabSub{Pilze}
+&
+
+\\\addlinespace
+\gTabSub{Parasiten, Tiere}
+&
+Würmer, Maden, \ldots
+\\\addlinespace
+\gTabSub{(Toxine)}
+&
+Giftstoffe, werden z.B. von Bakterien produziert.
+\\\addlinespace\bottomrule
+\end{tabulary}
+\end{table}
 
 \subsubsection{Bakterien}
 
@@ -168,12 +147,12 @@ Faktoren ab:
 
 \begin{center}
     \includegraphics[width=2.858cm]{images/AASdev20090228-img96.jpg}
-    \captionof{figure}{Für manche Bakterien zahlt man
+    \gCaptionof{figure}{Für manche Bakterien zahlt man
     freiwillig viel Geld, hier am Beispiel des
     Lactobacillus casei gezeigt. }
 \end{center}}
 
-Daraus folgt:
+\gFazit{Daraus folgt:
     \begin{itemize}
         \item Manche Keime machen immer krank.
         \item Manche Keime nur unter Umständen krank.
@@ -181,6 +160,7 @@ Daraus folgt:
         der Wirt geschwächt ist. Das sind viele
         Patienten im Rettungs- und Krankentransport!
     \end{itemize}
+    }
 
 \paragraph{Bakterien, Antibiotika und Resistenzen}
 
@@ -197,10 +177,10 @@ unter \gSee{topic:multiresistente-keime} näher besprochen.
 
 
 
-\subsubsection{Viren}\marginnote{Viren}
+\subsubsection{Viren}
 \index{Viren}
 
-\marginlabel{Viren}Viren sind sehr klein \gZ{und im
+Viren sind sehr klein \gZ{und im
 Lichtmikroskop nicht sichtbar}. Sie sind keine vollständigen
 Zellen \gZ{und brauchen Wirtszellen um sich vermehren zu
 können. Sie schleusen ihr eigenes genetisches Programm
@@ -220,6 +200,54 @@ anzüchtbar. Man verwendet entweder Antigen- oder Antikörpernachweis
     oder die PCR (DNA/RNA-Nachweis).} Die Tests haben
     üblicherweise ein \gE{"`diagnostisches Fenster"'}, in
     dem eine Infektion (noch) nicht nachweisbar ist.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Die wichtigsten Übertragungswege}
+
+Krankheitserreger können auf unterschiedliche Wege in den
+Körper gelangen und eine Infektion verursachen:
+
+\begin{multicols}{2}
+\begin{itemize}
+    \item Fäkal-oral (Schmierinfektion, z.B. Badesee)
+    \item Aerogen (Tröpfcheninfektion)
+    \item Genital (Geschlechtsverkehr)
+    \item Über/durch die Haut
+    \item Diaplazentär (während Schwangerschaft)
+    \item Während der Geburt
+    \item Eintrittspforten: alles was irgendwie offen ist
+    \begin{itemize}
+        \item Wunden, Magen-Darm-Trakt, Atmung, Auge, Penis/Scheide, Plazenta
+        \ldots
+    \end{itemize}
+    \item Fremdkörper sind Wohnhäuser und Autobahnen für Keime
+    \begin{itemize}
+        \item Harnkatheter, venöse Zugänge, Tubus, künstlicher
+        Mageneingang, Dialysekatheter {\dots}
+    \end{itemize}
+\end{itemize}
+\end{multicols}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Kreuzinfektion}
+\index{Kreuzinfektion}
+
+\gDefinition{\gTag{Kreuzinfektion}Verschleppung von Erregern von einem Patienten
+auf einen (unbeteiligten) Anderen, wobei das Personal oder
+Gegenstände als "`Vehikel"' fungieren.}
+
+\gFazit{Kreuzinfektion: \gEs{Patient 1
+${\rightarrow}$ \emph{Sanitäter} ${\rightarrow}$ Patient
+2}}
+
 
 
 \section{Wichtige Krankheitsbilder}
@@ -338,7 +366,7 @@ vom Schwein auf den Menschen in Mexiko im Frühjahr 2009. Der
 neue Stamm breitete sich sehr rasch um die ganze Welt aus,
 \gE{die Erkrankung verlief jedoch recht mild}. Bemerkenswert
 war jedoch, dass -- anders als bei einer "`normalen
-Grippe" üblich -- besonders junge Menschen infiziert wurden. 
+Grippe"' üblich -- besonders junge Menschen infiziert wurden. 
 
 Man darf gespannt sein was die Zukunft bringt \ldots
 
@@ -395,12 +423,12 @@ und eine eher leicht erhöhte Temperatur.
 \subsection{Wundstarrkrampf -- Tetanus}
 \index{Tetanus}\index{Wundstarrkrampf}
 
-\marginlabel{\includegraphics[width=\linewidth]{./images/hygiene/6373_lores_tetanus.jpg}\par\captionof{figure}{\gAuthNotesPicLegalOk{PD}{}Patient
+\marginlabel{\includegraphics[width=\linewidth]{./images/hygiene/6373_lores_tetanus.jpg}\par\gCaptionof{figure}{\gAuthNotesPicLegalOk{PD}{}Patient
 mit Tetanus. \gSourcePicture{Public Health Image Library,
 ID\#: 6373, Public Domain.}}}\emph{\gZ{Clostridium tetani}}
 
 %\includegraphics[width=5.984cm,height=3.539cm]{images/AASdev20090228-img97.gif}
-%\captionof{figure}{ \gAuthNotes{Tetanus Bild in gif:img97} }
+%\gCaptionof{figure}{ \gAuthNotes{Tetanus Bild in gif:img97} }
 % TODO Bild: Tetanus
 
 
@@ -443,13 +471,14 @@ Kunstfehler.}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Tuberkulose}\marginlabel{TB}
+\subsection{Tuberkulose}\gTagNo{TB}
 
 \emph{\gZ{Mykobacterium Tuberculosis, "`Schwindsucht"'.}}
 Abk.: "`\gT{Tbc}"'
 
-\marginpar{\includegraphics[width=4cm]{images/AASdev20090228-img98.jpg}\captionof{figure}{Röntgenbild
-eines TB-Pat\-ient\-en.
+\marginpar{\includegraphics[width=4cm]{images/AASdev20090228-img98.jpg}
+
+\gCaptionof{figure}{Röntgenbild eines TB-Pat\-ient\-en.
 \gAuthNotesPicLegalNotOk{img98}{Durch Foto von Hauer
 ersetzen}}}
 
@@ -506,19 +535,19 @@ Bluthusten wäre allerdings ein deutlich Hinweiszeichen.
 \index{HIV}\index{Humanes Immundefizienz
 Virus}\label{topic:hiv}\label{topic:aids}
 
-\marginlabel{\includegraphics[width=\linewidth]{./images/hygiene/Niaid-hiv-virion-mod.jpg}\par\captionof{figure}{\gAuthNotesPicLegalOk{PD}{}Schema
+\marginlabel{\includegraphics[width=\linewidth]{./images/hygiene/Niaid-hiv-virion-mod.jpg}\par\gCaptionof{figure}{\gAuthNotesPicLegalOk{PD}{}Schema
 eines HI-Virus.
 \gSourcePicture{US National Institute of Health,
 PD-USGov-HHS-NIH.}}} \gT{HIV}: \gE{Humanes Immundefizienz Virus}. 
 \gT{AIDS}: \gE{Aquired Immune Deficiency Syndrom},
 \gE{erworbenes Immunschwäche-Syndrom}
 
-\marginlabel{HIV}Das HIV befällt vor allem die Zellen des
+\gTagNo{HIV}Das HIV befällt vor allem die Zellen des
 Abwehrsystems. Es vermehrt sich in ihnen, setzt sie außer Funktion und zerstört sie schließlich. Das körpereigene Abwehrsystem kann HIV nicht aus dem Körper
     entfernen.
 Es kommt zu einer Immunschwäche.
 
-\paragraph{AIDS}
+\paragraph{AIDS} \gTagNo{AIDS}
 HIV verursacht das \gE{AIDS} (Aquired Immune Deficiency
 Syndrom, erworbenes Immunschwäche-Syndrom), welches die
 eigentliche Erkrankung darstellt. Dabei kommt es durch das
@@ -607,13 +636,15 @@ Erreger (A -- E)}
 Abhängig vom jeweiligen Virus unterscheidet man
 verschiedene Arten der viralen Hepatitis:
 
+\begin{table}[H]
+\gCaptionof{table}{Übersicht der wichtigsten viralen Hepatitis-Arten.}
+
 \begin{tabular}{p{3cm}p{\linewidth-4cm}}
-\toprule
-\gTabSub{Typ}
+\gTabHeading{Typ}
 &
-\gTabSub{Bemerkungen}
+\gTabHeading{Bemerkungen}
 \\\midrule\addlinespace
-\gTabHeading{Hepatitis-A} 
+\gTabSub{Hepatitis-A} 
 
 Hepatitis-A-Virus (HAV)
 &
@@ -626,7 +657,7 @@ Hepatitis-A-Virus (HAV)
 \end{itemize}
 
 \\\addlinespace
-\gTabHeading{Hepatitis-B} 
+\gTabSub{Hepatitis-B} 
 
 Hepatitis-B-Virus (HBV)
 &
@@ -638,7 +669,7 @@ Hepatitis-B-Virus (HBV)
     \item chronischer Verlauf in ca. 5 \%
 \end{itemize}
 \\\addlinespace
-\gTabHeading{Hepatitis C}
+\gTabSub{Hepatitis C}
 
 Hepatitis-C-Virus (HCV)
 &
@@ -650,6 +681,7 @@ Hepatitis-C-Virus (HCV)
 \end{itemize}
 \\\bottomrule
 \end{tabular}
+\end{table}
 
 \paragraph{Impfung}Impfung nur für Hepatitis A und B
 verfügbar (z.B. Twinrix{\texttrademark}). Für die Hepatitis
@@ -733,8 +765,8 @@ Erkrankungen wie Scharlach oder "`Blutvergiftungen"' waren
 oft ein Todesurteil.
 
 \marginpar{\includegraphics[width=\linewidth]{./images/hygiene/Faroe_stamp_079_europe_fleming.jpg}\par
-\captionof{figure}{\gSourcePicture{PD, Postverk Føroya -
-Philatelic Office}}}Dann ließ, im Jahre 1928, Alexander Fleming eine Nährplatte
+\gCaptionof{figure}{\gZ{Alexander Fleming. \gSourcePicture{PD, Postverk Føroya -
+Philatelic Office}}}}Dann ließ, im Jahre 1928, Alexander Fleming eine Nährplatte
 mit Bakterienkulturen versehentlich verschimmeln und
 bemerkte, dass in der Umgebung des Pilzes die Bakterien
 nicht wachsen wollten: das \gE{Penicillin} war geboren. 
@@ -745,7 +777,7 @@ Doch man irrte sich gewaltig \ldots}
 \end{quote}
 
 
-\paragraph{Resistenzen} Bakterien entwickeln Resistenzen
+\paragraph{Resistenzen} \gTag{Resistenzen}Bakterien entwickeln Resistenzen
 gegen Antibiotika, diese helfen dann nicht mehr!
 
 \gFazit{Resistenzen sind ein enorm großes Problem in der
@@ -759,8 +791,8 @@ Infektionen gestorben.
 
 Heute kann man zwar solche Infektionen mit Antibiotika behandeln, jedoch
 können Bakterien \gEs{Resistenzen} gegen Antibiotika
-entwickeln. Die sonst wirksamen Medikamente wirken dann nicht mehr oder nur noch sehr
-abgeschwächt. Als behandelnder Arzt steht man dann hilflos vor dem
+entwickeln. \gMargin{Antibiotika werden wirkungslos}Die sonst wirksamen Medikamente
+wirken dann nicht mehr oder nur noch sehr abgeschwächt. Als behandelnder Arzt steht man dann hilflos vor dem
 Patienten. 
 
 \gFazit{Resistenzen machen Antibiotika wirkungslos.}
@@ -786,8 +818,8 @@ Brutstätte für Resistenzen: Es werden viele Antibiotika
 verwendet, viele Patienten liegen räumlich nahe beieinander
 \ldots In Spitälern finden daher gehäuft resistente Keime. 
 
-Da im Krankentransport natürlich häufig Patienten aus
-Gesundheitseinrichtungen (oder zwischen
+\gMargin{Im Krankentransport gibt es Problemkeime}Da im Krankentransport
+natürlich häufig Patienten aus Gesundheitseinrichtungen (oder zwischen
 Gesundheitseinrichtungen) transportiert werden, ist man
 auch hier mit dem Problem der resistenten Keime besonders
 konfrontiert und macht spezielle Maßnahmen erforderlich.
@@ -821,7 +853,7 @@ wichtiger ist die Hygiene und die Vermeidung von
 \begin{minipage}{13.67cm}
 % [Warning: Draw object ignored]
 % TODO : Graphik MRSA Kreis
-% \captionof{figure}{Teufelskreis der
+% \gCaptionof{figure}{Teufelskreis der
 % resistenten Keime. Oft das Bindeglied: Der Rettungs- und
 % Krankentransportdienst.
 % \gSourcePicture{unbekannt} \gAuthNotes{Achtung! Zeichnung
@@ -833,7 +865,7 @@ wichtiger ist die Hygiene und die Vermeidung von
 \subsubsection{MRSA -- Multi-Resistenter Staphylococcus
 aureus} 
 
-\marginlabel{\includegraphics[width=\linewidth]{./images/hygiene/11159_lores_VRSA.jpg}\par\captionof{figure}{\gAuthNotesPicLegalOk{PD}{}Ein
+\marginlabel{\includegraphics[width=\linewidth]{./images/hygiene/11159_lores_VRSA.jpg}\par\gCaptionof{figure}{\gAuthNotesPicLegalOk{PD}{}Ein
 resistenter Staph. aureus (VRSA) im Elektronenmikroskop,
 coloriert.
 \gSourcePicture{Public Health Image Library, ID\#: 11159, Public Domain.}}}\gZ{Ursprünglich: Methicilin-Resistenter Staphylococcus Aureus}
@@ -909,13 +941,16 @@ Verfahrensweisen.
 
 
 
-\section[Desinfektion]{Desinfektion}
-\index{Desinfektion}\begin{center}
-                    
-                    
-                    \end{center}
+\section{Reinigung und hygienische Wiederaufbereitung}
+\index{Desinfektion}
+
+Man unterscheidet grundsätzlich zwischen \gE{Desinfetion} und 
+\gE{Sterilisation}:
+
+\begin{table}[H]
+\gCaptionof{table}{Gegenüberstellung Desinfektion -- Sterilisation.}
+
 \begin{tabularx}{\textwidth}[H]{XX}
-\toprule
 \gT{Desinfektion}
  &
 \gT{Sterilisation}
@@ -944,7 +979,7 @@ Heißluftsterilisation
 
 \\\bottomrule
 \end{tabularx}
-
+\end{table}
 
 \paragraph{Hygieneplan -
 Hygienebeauftragter}\index{Hygieneplan}~
@@ -1047,7 +1082,7 @@ Acryloberflächen zerstören können!}
 \end{itemize}
 }{
 \includegraphics[width=\linewidth]{./images/AASdev20090228-img100.jpg}
-    \captionof{figure}{Desinfektionswannen, verschiedene
+    \gCaptionof{figure}{Desinfektionswannen, verschiedene
     Größen}
 }
 
@@ -1063,7 +1098,6 @@ Acryloberflächen zerstören können!}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubsection{Hygienische Händedesinfektion}
-
 \marginpar{\includegraphics[width=\linewidth]{images/AASdev20090228-img102.jpg}
 
 \includegraphics[width=\linewidth]{images/AASdev20090228-img101.jpg}}
@@ -1127,8 +1161,7 @@ Handgelenk, Daumenkuppe,\ldots).
 
 \paragraph{Vorgehen}\vspace{1em}~ 
 
-\begin{center}
-
+%\begin{center}
 \includegraphics[width=0.23\linewidth]{./images/hygiene/haendedesinfektion01.png}\hspace{0.01\linewidth}
 \includegraphics[width=0.23\linewidth]{./images/hygiene/haendedesinfektion02.png}\hspace{0.01\linewidth}
 \includegraphics[width=0.23\linewidth]{./images/hygiene/haendedesinfektion03.png}\hspace{0.01\linewidth}
@@ -1138,10 +1171,8 @@ Handgelenk, Daumenkuppe,\ldots).
 \includegraphics[width=0.23\linewidth]{./images/hygiene/haendedesinfektion06.png}\hspace{0.01\linewidth}
 \includegraphics[width=0.23\linewidth]{./images/hygiene/haendedesinfektion07.png}\hspace{0.01\linewidth}
 \includegraphics[width=0.23\linewidth]{./images/hygiene/haendedesinfektion08.png}
-
-\end{center}
-\captionof{figure}{Hygienische Händedesinfektion.
-\gSourcePicture{BEMAW.}}
+%\end{center}
+\gCaptionof{figure}{Hygienische Händedesinfektion. \gSourcePicture{BEMAW.}}
 \vspace{1em}
 \begin{multicols}{2}
 
@@ -1168,16 +1199,11 @@ Handgelenk, Daumenkuppe,\ldots).
     \item Fingerkuppen im Handteller kreisförmig einreiben bis Alkohol
     verdunstet ist
 \end{enumerate}
+\gEs{Einwirkzeit beachten!} (lt. Herstellervorgaben, i.d.R. mind. 30 Sekunden) 
 \end{multicols}
-\gEs{Einwirkzeit beachten!} (lt. Herstellervorgaben, i.d.R.
-mind. 30 Sekunden) 
-
 \end{minipage}
-
 \end{gWideParEnv}
-\begin{figure}[H]
 
-\end{figure}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1190,7 +1216,7 @@ Packung {\quotedblbase}aufschälen{\textquotedblleft}
 \begin{figure}[H]
 \includegraphics[width=6.656cm,height=4.993cm]{images/AASdev20090228-img103.jpg}
 \includegraphics[width=6.663cm,height=4.984cm]{images/AASdev20090228-img104.jpg}
-\caption{Öffnen von sterilen Material unter verschiedenen
+\gCaptionof{figure}{Öffnen von sterilen Material unter verschiedenen
 Bedingungen: Immer wird die Verpackung "`aufgeschält"'.
 \gAuthNotesPicLegalNotOk{}{}}
 \end{figure}
@@ -1235,7 +1261,7 @@ Ausnahme: ausdrückliche Arztanweisung (Blutzuckerbestimmung aus Nadel)
 \begin{figure}[H]
 \includegraphics[width=3.377cm,height=4.552cm]{images/AASdev20090228-img105.jpg}
 \includegraphics[width=5.71cm,height=4.289cm]{images/AASdev20090228-img106.jpg}
-\caption{Kontamed-Boxen, verschiedene Fabrikate.}
+\gCaptionof{figure}{Kontamed-Boxen, verschiedene Fabrikate.}
 \end{figure}
 
 \gFazit{NIE Nachstopfen.
@@ -1279,7 +1305,7 @@ Beachte die Grundregeln der Wundversorgung
 \gSee{topic:wundversorgung-grundregeln} !
 }{
 \includegraphics[width=\linewidth]{./images/noauth/AASdev20090228-img107.png}
-\captionof{figure}{\gAuthNotesPicLegalNotOk{}{}Wundreinigung:
+\gCaptionof{figure}{\gAuthNotesPicLegalNotOk{}{}Wundreinigung:
 Bei einer frischen Wunde von innen nach außen.} }
 
 
@@ -1306,7 +1332,7 @@ Bei einer frischen Wunde von innen nach außen.} }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Nadelstichverletzungen}\index{Nadelstichverletzungen}
 
-\marginlabel{\gZ{Basierend auf: Gemeinsame Erklärung der
+\gMarginNo{\gZ{Basierend auf: Gemeinsame Erklärung der
 Deutschen AIDS-Gesellschaft (DAIG) und Osterreichischen
 AIDS-Gesellschaft (OAG). [Post-exposure prophylaxis of HIV
 infection. German-Austrian recommendations, update

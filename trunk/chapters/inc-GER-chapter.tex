@@ -18,39 +18,41 @@ verschiedene Produkte. Doch eines haben alle gemeinsam: die
 \gE{CE-Kennzeichnung}.
 }{
 \centering \includegraphics[width=0.5\linewidth]{./images/geraete/Ce-logo.jpg}
-\captionof{figure}{Das CE-Kennzeichen.}
+\gCaptionof{figure}{Das CE-Kennzeichen.}
 }
 
 
 \paragraph{Einteilung in Risikoklassen}
-\begin{center}
-\begin{tabulary}{\linewidth}{lLL}\toprule
-\gEs{Klasse I}
+\begin{table}[H]
+\gCaptionof{table}{MPG-Risikoklassen.}
+
+\begin{tabulary}{\linewidth}{lLL}\addlinespace
+\gTabSub{Klasse I}
 &
 Kein oder geringes Anwendungsrisiko
 &
 z.B: Verbandsmaterial, Gehhilfe, Rollstuhl, Tragsessel, Sehhilfe, Stethoskop, Trage, Beatmungsbeutel, Fieberthermometer, Druckminderer
-\\\midrule
-\gEs{Klasse IIa}
+\\\addlinespace
+\gTabSub{Klasse IIa}
 &
 Anwendungsrisiko ohne entsprechender Ausbildung bzw. Unterweisung
 &
 z.B: aktive Diagnosegeräte, Absaugeinheit und -katheter, EKG-Kabel, Zuckerstreifen, Trachealtuben, Dauerkatheter
-\\\midrule
-\gEs{Klasse IIb}
+\\\addlinespace
+\gTabSub{Klasse IIb}
 &
 Erhöhtes Anwendungsrisiko ohne entsprechender Ausbildung bzw. Unterweisung
 &
 z.B: Beatmungsgerät, Defibrillator, Pulsoxymeter, Babyinkubator, Röntgengeräte
-\\\midrule
-\gEs{Klasse III}
+\\\addlinespace
+\gTabSub{Klasse III}
 &
 Besonders hohes Anwendungsrisiko ohne entsprechende Ausbildung bzw. Unterweisung
 &
 z.B: Perfusor, Insulinpumpe, Herzkatheter oder -klappen, Medizinprodukte mit Arzneimittelkomponenten
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabulary}
-\end{center}
+\end{table}
 
 \paragraph{Pflichten des Sanitäters gemäß MPG}
 
@@ -321,7 +323,7 @@ Normalwert beim Erwachsenen liegt ca. bei RR 120\,/\,80\,mmHg
     \includegraphics[width=10cm]{./images/noauth/GER-rr-geraeusche.png}
 
    
-    \captionof{figure}{\gAuthNotesPicLegalNotOk{GER-rr-geraeusche.png}{}Prinzip
+    \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-rr-geraeusche.png}{}Prinzip
     der auskultatorischen RR-Messung: In Abhängigkeit vom außen anliegenden
     Manschettendruck kommt es zu einem unterschiedlich starken Blutfluss und dadurch entstehenden, hörbaren, Strömungsgeräuschen.}
     \end{center}
@@ -372,8 +374,8 @@ angelegt werden.
 
 
 
-\section{\ce{O2} --
-Sauerstoff}\label{topic:sauerstoff}\label{topic:o2}\index{Sauerstoff}\index{\ce{O2}}
+\section{Sauerstoff -- \ce{O2}}
+\label{topic:sauerstoff}\label{topic:o2}\index{Sauerstoff}\index{\ce{O2}}
 
 \gDefinition{\gT{Sauerstoff} ist ein
 lebenswichtiges Gas welches zu 21\% in unserer Atemluft
@@ -387,7 +389,7 @@ Patienten!
 
 % \begin{center}
 % \includegraphics[width=4.522cm,height=5.628cm]{./images/rippenspreitzer-02-fett.png}
-% \captionof{figure}{NEIN! \gSourcePicture{Rippenspreitzer.de}}
+% \gCaptionof{figure}{NEIN! \gSourcePicture{Rippenspreitzer.de}}
 % 
 % \end{center}
 
@@ -534,9 +536,10 @@ Spontanatmung!
 
 
 
-\begin{center}
+\begin{table}[H]
+\gCaptionof{table}{Verabreichungsarten von Sauerstoff.}
+
 \begin{tabulary}{\linewidth}[H]{CLLL}
-\toprule
 \gTabHeading{Was}
  &
 \gTabHeading{Wann}
@@ -544,7 +547,7 @@ Spontanatmung!
 \gTabHeading{Vorteile}
 &
 \gTabHeading{Nachteile}
-\\\toprule 
+\\\addlinespace\toprule\addlinespace 
 \gTabSub{Sauerstoff\-brille}
  &
 Spontanatmung
@@ -555,12 +558,12 @@ gute Toleranz
 
 fehlendes Engegefühl
 
-Sprechen\&Husten möglich
+Sprechen \& Husten möglich
  &
 ungenaue Dosierung
 
 Austrocknung  der Schleimhäute 
-\\\midrule
+\\\addlinespace\midrule\addlinespace
 \gTabSub{Sauerstoff\-maske}
  &
 Spontanatmung
@@ -573,7 +576,7 @@ höhere \ce{O2}-Konzentration
 {\textless}~5\gLMin!) 
 
 für Patienten evt. unangenehm bzw. gewöhnungsbedürftig
-\\\midrule
+\\\addlinespace\midrule\addlinespace
 \gTabSub{Sauerstoff\-maske mit Reservoir}
  &
 Spontanatmung
@@ -585,15 +588,17 @@ Noch höhere \ce{O2}-Konzentration
 Wie oben.
 
 Reservoir muss zuerst händisch befüllt werden.
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabulary}
-\end{center}
+\end{table}
 
-\gDias
-{\includegraphics[width=2.5cm]{./images/o2-brille.png}\captionof{figure}{Sauerstoffbrille}}
-{\includegraphics[width=2.5cm]{./images/o2-maske.png}\captionof{figure}{Sauerstoffmaske}}
+\gDias{Bilderserie: Mittel zur Verabreichung von Sauerstoff.}
+{\includegraphics[width=2.5cm]{./images/o2-brille.png}
+\gCaptionof{figure}{Sauerstoffbrille}}
+{\includegraphics[width=2.5cm]{./images/o2-maske.png}
+\gCaptionof{figure}{Sauerstoffmaske}}
 {\includegraphics[width=2.5cm]{./images/o2-maske-reservoir.png}
-\captionof{figure}{Sauerstoffmaske mit Reservoir}}
+\gCaptionof{figure}{Sauerstoffmaske mit Reservoir}}
 
 
 
@@ -606,26 +611,7 @@ Die Beatmung wird entweder mittels \gEs{Beatmungsbeutel}
 (\gSee{topic:beatmungsbeutel}) oder \gEs{Beatmungsgerät}
 durchgeführt.
 
-\begin{center}
-\includegraphics[width=7.189cm,height=4.94cm]{./images/beatmungsgeraet-medumat.png}
-\captionof{figure}{Beatmungsgerät \emph{Medumat
-Standard\textregistered}. \gSourcePicture{ASB
-Floridsdorf-Donaustadt}}
-\end{center}
 
-
-
-Mit dem Beatmungsgerät \emph{"`Medumat"'} der Fa. Weinmann
-kann ein Patient sowohl beatmet als auch berieselt werden
-(sofern ein Berieselungsmodul vorhanden ist). 
-
-Dafür gibt es zwei Bedienfelder: Das eine zum Berieseln,
-welches vom Sanitäter eingestellt und verwendet werden
-kann; das zweite darf nur auf Anweisung eines Notarztes
-verwendet werden und wird für das Beatmen benötigt. 
-
-
-\includegraphics[width=\linewidth]{./images/geraete/ger-medumat-standard-bedienfeld.jpg}
 
 % \gCave{JEDE BEATMUNG SOLLTE MIT RESERVOIRBEUTEL UND 10-15\gLMin
 % \ce{O2} DURCHGEF\"UHRT WERDEN!}
@@ -652,7 +638,8 @@ verwendet werden und wird für das Beatmen benötigt.
 % 
 % \end{itemize}
 
-\section{Beatmungsbeutel}
+\section{Hilfsmittel für die Beatmung}
+\subsection{Beatmungsbeutel}
 \label{topic:beatmungsbeutel}
 
 \gMarried{
@@ -665,19 +652,19 @@ Wenn vorhanden soll über einen Verbindungsschlauch
 \ce{O2}-Berieselungseinheit mit einem Flow von 15\gLMin{} angeschlossen werden um die höchstmögliche \ce{O2}-Konzentration der Einatemluft zu
 erreichen. 
 }{
-\begin{center}
 \includegraphics[width=\linewidth]{./images/geraete/ger-ambu.jpg}
-\captionof{figure}{Beatmungsbeutel mit Reservoir,
+
+\gCaptionof{figure}{Beatmungsbeutel mit Reservoir,
 Bakterienfilter und Masken unterschiedlicher Größe.}
-\end{center}
 }
 
 
 
-\begin{center}
-\begin{tabulary}{\linewidth}{Lr}\toprule
-\gTabHeading{Mögliche Sauerstoffkonzentrationen bei der Beatmung} 
-\\\midrule Mund-zu-Mund Beatmung
+\begin{table}[H]
+\gCaptionof{table}{Mögliche Sauerstoffkonzentrationen bei der Beatmung.}
+\begin{tabulary}{\linewidth}{Lr}
+\addlinespace 
+Mund-zu-Mund Beatmung
 &
 17\,\%
 \\\addlinespace
@@ -692,9 +679,10 @@ Beutel-Masken-Beatmung mit angeschl. \ce{O2} (15\gLMin)
 Beutel-Masken-Beatmung mit angeschl. \ce{O2} (15\gLMin) und
 Reservoir &
 fast 100\,\%
-\\\bottomrule
+\\
 \end{tabulary}
-\end{center}
+\hrule
+\end{table}
 
 \gMarried{
 Ein Beatmungsbeutel besteht im Idealfall aus folgenden Teilen:
@@ -710,6 +698,72 @@ Ein Beatmungsbeutel besteht im Idealfall aus folgenden Teilen:
 }{
 \includegraphics[width=\linewidth]{./images/geraete/ambu-komplett-zerlegt.jpg}
 }
+
+\subsection{Beatmungsgerät}
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=7.189cm,height=4.94cm]{./images/beatmungsgeraet-medumat.png}
+\gCaptionof{figure}{Beatmungsgerät \emph{Medumat
+Standard\textregistered}. \gSourcePicture{ASB
+Floridsdorf-Donaustadt}}
+\end{center}
+\end{figure}
+
+
+
+
+Mit dem Beatmungsgerät \emph{"`Medumat"'} der Fa. Weinmann
+kann ein Patient sowohl beatmet als auch berieselt werden
+(sofern ein Berieselungsmodul vorhanden ist). 
+
+Dafür gibt es zwei Bedienfelder: Das eine zum Berieseln,
+welches vom Sanitäter eingestellt und verwendet werden
+kann; das zweite darf nur auf Anweisung eines Notarztes
+verwendet werden und wird für das Beatmen benötigt. 
+
+\opt{ORGASBFLO}{
+\begin{minipage}{\linewidth}
+\ASBFLO{Beim ASB Floridsdorf-Donaustadt kommen folgende Geräte
+zum Einsatz:
+
+\begin{itemize}
+    \item \gMarginBugfix{Medumat}Hersteller: Fa. Weinmann, Produktfamilie:
+    \gT{Medumat} (Notfall-Beatmungsgerät)
+    \begin{itemize}
+        \item Medumat Compact
+        \item Medumat Standard
+        \item Medumat Standard a
+    \end{itemize}
+    \item Hersteller: Fa. Weinmann, Produktfamilie: \gT{Medumat}
+    (Intensivtransport-Be\-atmungs\-ge\-rät)
+    \begin{itemize}
+        \item Medumat Transport
+    \end{itemize}
+\end{itemize}
+}
+\end{minipage}
+}
+
+\opt{RS}{Test RS}
+
+\begin{figure}[ht]
+\includegraphics[width=\linewidth]{./images/geraete/ger-medumat-standard-bedienfeld.jpg}
+\gCaptionofDiff{figure}{Bedienfelder Berieselungseinheit \gE{Modul Oxygen} (li.)
+und Beatmungsgerät \gE{Medumat Standard} (re.).
+
+\gE{Modul Oxygen (li.):} Flowmeter, Ein-Ausschalter und Regelventil. Der
+Anschluß links dient der Verbindung der Einheit mit dem Sauerstoffnetz des Fahzeuges.
+
+\gE{Medumat Standard (re.):} \gZ{Air-Mix-Schalter, Ein-Ausschalter, Stellräder
+für Atemfrequenz, Atemminutenvolumen (!) und Druckbegrenzung,
+Beatmungsdruckanzeige, Warnleuchten für Verlegung ("`Stenosis"'), Lösung des
+Beatmungsschlauches ("`Disconnection"'), niederen Flaschendruck ("`< 2.7 bar"')
+und schwache Batterie.} }
+{Bedienfelder Berieselungseinheit \gE{Modul Oxygen}
+(li.) und Beatmungsgerät \gE{Medumat Standard} (re.).}
+\end{figure}
+
 
 
 \subsection{PEEP - Ventil}
@@ -749,7 +803,62 @@ Absaugeinheit}, \gEs{manueller Absaugpumpe} und als
 Sonderfall nur für eine bestimmte Patientengruppe geeignet
 der \gEs{Oro-Sauger} oder Schleimabsauger.
 
-\begin{center}
+\opt{ORGASBFLO}{\ASBFLO{Beim ASB Floridsdorf-Donaustadt werden folgende Geräte
+eingesetzt:
+
+\begin{table}[H]
+\gCaptionof{table}{ASB921: Eingesetzte Absaugunggeräte.}
+
+\begin{tabulary}{\linewidth}{LLLL}
+\gTabHeading{Hersteller}
+&
+\gTabHeading{Produktfamilie}
+&
+\gTabHeading{Typ}
+&
+\gTabHeading{Bemerkungen}
+\\\addlinespace\midrule
+Weinmann
+&
+\noindent\gT{Accuvac}\gMarginBugfix{Accuvac}
+&
+Rescue
+&
+rote Deckplatte
+\\\addlinespace
+&
+&
+Basic
+&
+grüne Deckplatte
+\\\addlinespace
+Laerdal
+& 
+Laerdal Suction Unit
+&
+&
+auslaufend
+\\\addlinespace
+div. Hersteller
+&
+Handabsaugpumpe
+&
+RES-Q-VAC
+&
+\\\addlinespace
+div. Hersteller
+&
+Orosauger
+&
+&
+\\\addlinespace\bottomrule
+\end{tabulary}
+\end{table}
+}}
+
+\begin{table}[H]
+\gCaptionof{table}{Verschiedene Absaugvorrichtungen.}
+
 \begin{tabular}{p{\linewidth - 5cm}p{4cm}}\toprule
 \gTabHeading{Elektrische Absaugeinheit}
 
@@ -787,10 +896,10 @@ zum Einführen in Mund oder Nase
 \vspace{0.1pt}
  \includegraphics[width=4cm]{./images/geraete/absaugkatheter.jpg} \\\bottomrule
 \end{tabular}
-\end{center}
+\end{table}
 
-Die Absaugkatheter sind steril verpackt und sollten auch
-dementsprechend behandelt werden. Die farbige Kennung gibt
+\paragraph{Absaugkatheter} Die Absaugkatheter sind steril verpackt und sollten
+auch dementsprechend behandelt werden. Die farbige Kennung gibt
 den Durchmesser des Absaugkatheters an. Wenn eine
 \gEs{Absaugbereitschaft} hergestellt werden soll, wird nur
 der farbige Teil des Katheters ausgepackt und an den
@@ -806,7 +915,7 @@ und Ohrläppchen bestimmt werden.
 \begin{figure}[H]
     \begin{center}
     \includegraphics[width=10cm]{./images/noauth/GER-absaugen.png}
-    \captionof{figure}{\gAuthNotesPicLegalNotOk{GER-absaugen.png}{}Absaugung. 
+    \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-absaugen.png}{}Absaugung. 
     Es darf nur auf Sicht abgesaugt werden. Die maximale
     Länge ist vom Ohrläppchen bis zur Nasenspitze bzw. zum
     Mundwinkel abzumessen.}
@@ -841,7 +950,7 @@ Stiegen hat der Patient immer talwärts zu blicken.
 }{
 \begin{center}
     \includegraphics[width=4cm]{./images/noauth/GER-tragsessel.jpg}
-    \captionof{figure}{\gAuthNotesPicLegalNotOk{GER-tragsessel.jpg}{}Tragsessel}
+    \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-tragsessel.jpg}{}Tragsessel}
 \end{center}
 }
 
@@ -873,26 +982,32 @@ Wirbelsäule notwendig soll stattdessen eine andere Technik
 %  TODO Foto Tragetuch
 %     \includegraphics[width=10cm]{./images/noauth/GER-tragetuch-tragen.png}
 % 
-%     \captionof{figure}{\gAuthNotesPicLegalNotOk{GER-tragetuch-tragen.png}{}}
+%     \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-tragetuch-tragen.png}{}}
 %     \end{center}
 % \end{figure}
 
 %\gTempPicMissing{EINFÜGEN BILDER TRAGETUCH VON PP}
 
-\paragraph{Einheitskrankentrage mit Fahrgestell}~
+\paragraph{Krankentrage mit Fahrgestell}~
 
 \gMarried{
 Der Patient ist immer anzuschnallen. Beim Transport über
-Stiegen hat der Patient immer talwärts zu blicken.
-}{
-    \begin{center}
+Stiegen hat der Patient immer talwärts zu blicken. 
 
+Wenn ein Patient auf der Trage liegt darf immer nur \gE{ein Ende} gleichzeitig
+gehoben oder gesenkt werden, da sonst die Gefahr des Kippens besteht. 
+
+\opt{ORGASBFLO}{Eingesetzte Geräte:}
+
+\begin{itemize}
+    \item Hersteller: Fa. Stollenwerk
+    \item Hersteller: Fa. Ferno
+\end{itemize}
+}{
+    \includegraphics[width=\linewidth]{./images/noauth/GER-fahrtrage-stollenwerk.jpg}
    
-    \includegraphics[width=7cm]{./images/noauth/GER-fahrtrage-stollenwerk.jpg}
    
-   
-    \captionof{figure}{\gAuthNotesPicLegalNotOk{GER-fahrtrage-stollenwerk.jpg}{}Krankentrage mit Fahrgestell.}
-    \end{center}
+    \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-fahrtrage-stollenwerk.jpg}{}Krankentrage mit Fahrgestell.}
 }
 
 
@@ -901,7 +1016,8 @@ Stiegen hat der Patient immer talwärts zu blicken.
     \begin{center}
 
     \includegraphics[width=10cm]{./images/noauth/GER-umlagern.png} 
-    \captionof{figure}{\gAuthNotesPicLegalNotOk{GER-umlagern.png}{}\label{fig:rollstuhl-umgang}\label{fig:umlagern}}
+
+    \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-umlagern.png}{}\label{fig:rollstuhl-umgang}\label{fig:umlagern}Umlagern von Patienten.}
     \end{center}
 
 
@@ -911,9 +1027,9 @@ Stiegen hat der Patient immer talwärts zu blicken.
 \index{Schaufeltrage!Beschreibung}
 \label{topic:schaufeltrage-beschreibung}
 
+\gMarried{
 Anwendung: \gSee{topic:schaufeltrage-handhabung}
 
-\gMarried{
 Die Schaufeltrage wird primär für das Umlagern von liegenden
 Patienten mit dem Verdacht auf eine Verletzung der
 Wirbelsäule verwendet. Das Anwendungsgebiet ist jedoch sehr
@@ -921,7 +1037,7 @@ vielfältig. Es reicht vom sicheren Transport im unwegsamen
 Gelände bis zum Retten aus einer LKW-Kabine.
 
 \vspace{3em}
-    \captionof{figure}{\gAuthNotesPicLegalNotOk{GER-schaufeltrage.jpg}{}Eine Schaufeltrage}
+    \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-schaufeltrage.jpg}{}Eine Schaufeltrage}
 }{
     \begin{center}
     \includegraphics[width=4cm]{./images/noauth/GER-schaufeltrage.jpg}   
@@ -958,7 +1074,7 @@ aller sitzenden Patienten aus einer Gefahrenzone verwendet
 werden.
 
 \vspace{3em}
-    \captionof{figure}{Ein Rettungskorsett.
+    \gCaptionof{figure}{Ein Rettungskorsett.
     \gSourcePicture{Wikipedia, "`Onthost"', Public domain}}
     }{
     \begin{center}
@@ -987,9 +1103,9 @@ welchen sich die gewünschte Größe einstellen lässt
 (Stifneck select{\texttrademark} bzw. Stifneck Paedi
 select{\texttrademark} für Kinder).
 
-\vspace{3em}
+\vfill
 
-    \captionof{figure}{\gAuthNotesPicLegalNotOk{GER-stiffneck.jpg}{}HWS-Schiene} 
+    \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-stiffneck.jpg}{}HWS-Schiene} 
     }{
     \begin{center}
     \includegraphics[width=0.7\linewidth]{./images/noauth/GER-stiffneck.jpg}
@@ -1010,7 +1126,7 @@ Arm an formen lässt. Es muss jedoch noch mit einer Mullbinde
 oder mit Dreiecktücher fixiert werden.
 \vspace{2em}
 
-\captionof{figure}{\gAuthNotesPicLegalNotOk{GER-samsplint.png}{}Sam-Splint}
+\gCaptionof{figure}{\gAuthNotesPicLegalNotOk{GER-samsplint.png}{}Sam-Splint}
 }{
     \begin{center}   
     \includegraphics[width=0.7\linewidth]{./images/noauth/GER-samsplint.png}
@@ -1021,32 +1137,30 @@ oder mit Dreiecktücher fixiert werden.
 \subsection{Vakuumbeinschiene}
 \label{topic:vacuumbeinschiene-beschreibung}
 
+\gMarried{
 Anwendung: \gSee{topic:vacuumbeinschiene-anwendung}
 
-\gMarried{
 Dient zum Ruhigstellen von Verletzungen zwischen Knie und Zehen.
 
-\vspace{3em}
+\vfill
 
-    \captionof{figure}{\gAuthNotesPicLegalOk{}{}Vakuumbeinschiene.}
+    \gCaptionof{figure}{\gAuthNotesPicLegalOk{}{}Vakuumbeinschiene.}
 }{
-    \begin{center}
 \includegraphics[width=\linewidth]{./images/geraete/vakuumbeinschiene.jpg}
-    \end{center}
 }
 
 
 \subsection{Vakuummatratze}
 \label{topic:vakuummatratze-beschreibung}
 
+\gMarried{
 Anwendung: \gSee{topic:vakuummatratze-handhabung}
 
-\gMarried{
 Wird zum Ruhigstellen von Wirbelsäule, Becken und Oberschenkel verwendet.
 
 \vspace{3em}
 
-    \captionof{figure}{Vakuummatratze.}
+    \gCaptionof{figure}{Vakuummatratze.}
 } 
 {
     \begin{center}
@@ -1151,8 +1265,8 @@ EKG-Gerät \gEs{6 Ableitungen} \gZ{(I, II, III, aVL, aVR
 und aVF).}
 
 \begin{center}
-\includegraphics[width=7cm]{./images/ECGcolor.png}
-\captionof{figure}{\gAuthNotesPicLegalOk{}{PD}Extremitätenableitungen
+\includegraphics[width=7cm]{./images/geraete/ECGcolor.png}
+\gCaptionof{figure}{\gAuthNotesPicLegalOk{}{PD}Extremitätenableitungen
 (schwarze Kabel) und Brustwandableitungen (blaue Kabel).
 \gSourcePicture{Madhero88 (Wikimedia Commons), Public
 domain}\gAuthNotes{GABS: Bessere Beschriftung wäre
@@ -1160,26 +1274,31 @@ wünschenswert, Dringlichkeit: niedrig}}
 \end{center}
 
 
- 
-\gAuthNotes{Elektroden noch farblich Kennzeichnen}
-\begin{center}
-\begin{tabulary}{\linewidth}{CCC}\toprule
-\gTabHeading{Elektrode} & \gTabHeading{Position} &
+
+\begin{table}[H]
+\gCaptionof{table}{Farbe und Positionen der EKG-Ekeltroden für die
+Extremitätenableitung.}
+
+\begin{tabular}{lll}
+\gTabHeading{Elektrode} 
+& 
+\gTabHeading{Position} 
+&
 \gTabHeading{Alternative Postion}
 \\\midrule
-\gTabSub{\color{red}Rot} & Rechte Hand & Rechte
+\colorbox{red}{\sffamily\bfseries\textcolor{white}{Rot}} & Rechte Hand & Rechte
 Schulter
 \\
-\gTabSub{\color{yellow}Gelb} & Linke Hand & Linke
+\colorbox{yellow}{\sffamily\bfseries Gelb} & Linke Hand & Linke
 Schulter
 \\
-\gTabSub{\color{darkGreen}Grün } & Linker Fuß  & Linke
-Leiste
+\colorbox{green}{\sffamily\bfseries Grün} & Linker Fuß  &
+Linke Leiste
 \\
-\gTabSub{\color{black}Schwarz} & Rechter Fuß & Rechte
-Leiste \\\bottomrule
-\end{tabulary}
-\end{center}
+\colorbox{black}{\sffamily\bfseries\textcolor{white}{Schwarz}} & Rechter Fuß &
+Rechte Leiste \\\bottomrule
+\end{tabular}
+\end{table}
 
 
 \subsubsection{Brustwandableitungen}
@@ -1189,10 +1308,12 @@ erlauben eine genauere Zuordnung von Störungen zu der jeweiligen
 Region des Herzens. Aus den Informationen der 6 Elektroden erzeugt das
 EKG-Gerät 6 Ableitungen: \gZ{V1 -- V6}. 
 
+
+\begin{table}[H]
 \gZ{
-\begin{center}
-\begin{tabulary}{\linewidth}[H]{cL}
-\toprule
+\gCaptionof{table}{Position der EKG-Elektroden bei der Brustwandableitung.}
+
+\begin{tabulary}{\linewidth}[H]{CL}
 Elektrode
  &
 Position
@@ -1211,8 +1332,8 @@ V5 & Mitte zwischen V4 und V6
 V6 & 6. Zwischenrippenraum in der mittleren Achsellinie
 \\\bottomrule
 \end{tabulary}
-\end{center}
 }
+\end{table}
 
 \section{Pulsoxymetrie}
 

@@ -189,7 +189,9 @@ Der letzte Punkt des Abfrageschemas bezieht sich auf letzte Ereignisse, welche m
 \subsection{Kommunikationsregeln}
 \label{topic:kommunikationsregeln}
 
-
+\begin{wrapfigure}{r}{4cm}
+\includegraphics[width=\linewidth]{./images/teaser/imgp0482.jpg}
+\end{wrapfigure}
 Der Erfolg Ihres Anamnesegespräches ist für das weitere Vorgehen u.U. entscheidend. Oft erhalten Sie wichtige Information zum Zustand des Patienten nicht durch die gemessenen Werte sondern durch die Befragung! Der Erfolg des Gespräches hängt dabei einerseits von ihrem kommunikativem Geschick, andererseits aber auch von der Bereitschaft des Patienten ab. Im Folgenden möchten wir Ihnen ein paar wertvolle Tipps geben, wie Sie die Kommunikation so gestalten können, dass Sie die gewünschten Informationen erhalten:
 \begin{itemize}
     \item Stellen Sie sich mit Ihrem Namen vor und - so es der Notfall zulässt - geben Sie dem Patienten die Hand!
@@ -741,12 +743,14 @@ erforderlich!
 \paragraph{Die ersten  30 Sekunden }
 
 \gFazit{Ersteinsch\"atzung ${\rightarrow}$  Erstmaßnahmen
-${\rightarrow}$ Plan zurechtlegen wie es weiter gehen soll}
+${\rightarrow}$ Plan zurechtlegen}
 
 \subsubsection{Erster Schritt: Ersteinsch\"atzung}
 
-\begin{center}
-\begin{tabulary}{\linewidth}[H]{cp{8em}L}
+\begin{table}[H]
+\gCaptionof{table}{Ersteinschätzungsblock.}
+
+\begin{tabulary}{\linewidth}[H]{cp{8em}p{8.5cm}}
 \toprule\addlinespace
 \gTabSub{}
 &
@@ -824,20 +828,12 @@ Bewusstsein, Hautfarbe, Radialispuls, Rekap-Zeit
 \end{minipage}
 \\\addlinespace\bottomrule
 \end{tabulary}
-\end{center}
+\end{table}
 
 
 
-
+\marginpar{~\newline}
 \gMarried{
-\paragraph{Warnzeichen}
-
-Anzeichen einer vitalen Bedrohung können u.a. sein: Störungen
-        von Be\-wusstsein, Atemweg, Atmung oder Kreislauf sowie typische
-        Symptome wie sich nicht bessernde Atemnot, brodelndes
-        Atem\-ge\-r\"ausch, Thoraxschmerz, Schocksymptome und entgleiste
-        Vital\-werte.
-}{
 \fcolorbox{ubuntured}{White}{
       		\begin{minipage}[t]{\linewidth}
               \gCa{Alarmzeichen}
@@ -866,8 +862,20 @@ schwere Verletzungen
 
 {\dots} }
 \end{minipage}
+}}
+{
+\begin{center}
+\includegraphics[width=4cm]{./images/teaser/minen_hinweis2.jpg}
+\end{center}
+\paragraph{Warnzeichen}
+
+Anzeichen einer vitalen Bedrohung können u.a. sein: Störungen
+        von Be\-wusstsein, Atemweg, Atmung oder Kreislauf sowie typische
+        Symptome wie sich nicht bessernde Atemnot, brodelndes
+        Atem\-ge\-r\"ausch, Thoraxschmerz, Schocksymptome und entgleiste
+        Vital\-werte.
 }
-}
+
 
 
 Nun stellen sich folgende Fragen:
@@ -965,7 +973,7 @@ Die folgende Checkliste in Tabelle
 
 \begin{minipage}{\linewidth}
 
-\captionof{table}{Checkliste Patientenmanagement --
+\gCaptionof{table}{Checkliste Patientenmanagement --
 Mögliche Maßnahmen, die Reihenfolge ist je nach Patient unterschiedlich\label{tab:checkliste-patientenmanagement}}
 {\sffamily
 \begin{tabulary}{\linewidth}[H]{CCL}
@@ -1148,14 +1156,14 @@ Arztübergabe (Anamnese, Befunde, Maßnahmen, Hinweise)
 
 
 \subsubsection{Ein Beispiel \ldots}
-\paragraph[Ein Beispiel: Herr Sepp hat Atemnot]{Ein Beispiel: Herr Sepp
-hat Atemnot}
-
+\paragraph{Ein Beispiel: Herr Sepp hat Atemnot}
+\gMargin{\includegraphics[width=\linewidth]{./images/teaser/rtw-asb-921-alt.jpg}}
 \begin{verbatim}
 Zeit: dd.04.2003 14:15
 Code: 26-B-1 
-"Kranke Person (Differentialdiagnose): Unbekannter Zustand (Anrufer 3. Hand)" 
-BO: 1210, xxxstraße 13/8/8/45, WHG
+   Kranke Person (Differentialdiagnose): 
+   Unbekannter Zustand (Anrufer 3. Hand) 
+BO  : 1210, xxxstraße 13/8/8/45, WHG
 
 \end{verbatim}
 
@@ -1195,7 +1203,7 @@ Können Sie schon etwas tun?
 \marginlabel{\gTxMassVit}Ja.  Bei erhaltenem Bewusstsein, Atemnot und
 Thoraxschmerz wird der Patient mit erhöhtem Oberkörper gelagert. Weiters sprechen die
 Symptome für den Einsatz von Sauerstoff. Es muss noch schnell
-gekl\"art werden ob eine Hyperventilationstetanie (nicht
+geklärt werden ob eine Hyperventilationstetanie (nicht
 wahrscheinlich) oder COPD-Erkrankung (erfragen) vorliegt.
 
 \gTxMassVit:
@@ -1238,7 +1246,7 @@ Thoraxschmerz und die Atemnot.
 An welche Differentialdiagnosen müssen Sie nun denken?
 
 
-\clearpage
+% \clearpage
 % CHECK gWideParEnv Thoraxschmerz: Differentialdiagnosen unseres Patienten
 \begin{gWideParEnv}
 \begin{tabularx}{\linewidth}[H]{XXXc}
@@ -1360,6 +1368,8 @@ Regel: Der Patient ist männlich!
 
 Was glauben Sie wie es weiter geht?
 
+\gTakeNotesLarge
+
 
 \section{Traumatechniken}
 % Michael Motal
@@ -1407,7 +1417,9 @@ HWS-Immobilisationsschiene (Stifneck\texttrademark)}
 Allgemeine
 Beschreibung: \gSee{topic:hws-schiene-beschreibung}
 
-Die HWS-Schiene dient der Stabilisierung der
+\begin{wrapfigure}{r}{2cm}
+\includegraphics[width=\linewidth]{./images/noauth/GER-stiffneck.jpg}
+\end{wrapfigure}Die HWS-Schiene dient der Stabilisierung der
 Halswirbelsäule. Sie soll bei jedem Verdacht auf eine
 Verletzung der Halswirbelsäule eingesetzt werden; auf jeden
 Fall bei jeder Helmabnahme!
@@ -1580,7 +1592,9 @@ Standardausstattung und wird nicht routinemäßig verwendet.}
 Allgemeine
 Beschreibung: \gSee{topic:rettungskorsett-beschreibung}
 
-Zur schnellen Rettung sitzender oder schwer zugänglicher
+\begin{wrapfigure}{r}{3cm}
+\includegraphics[width=\linewidth]{./images/geraete/KED.jpg}
+\end{wrapfigure}Zur schnellen Rettung sitzender oder schwer zugänglicher
 Patienten; wirbelsäulenstabilisierend. Am Kopfgriff des
 Korsetts kann, falls nötig, ein Kranhaken eingehängt
 werden. Das KED wird immer gemeinsam mit einem Stifneck
@@ -1652,7 +1666,9 @@ verwendet.
 Allgemeine
 Beschreibung: \gSee{topic:vacuumbeinschiene-beschreibung}
 
-Schienung einer Fuß-, Knie- oder Unterschenkelverletzung. Achtung:
+\begin{wrapfigure}{r}{2cm}
+\includegraphics[width=\linewidth]{./images/geraete/vakuumbeinschiene.jpg}
+\end{wrapfigure}Schienung einer Fuß-, Knie- oder Unterschenkelverletzung. Achtung:
 Oberschenkel: Vakuummatratze
 
 1 Helfer seitlich, 1 Helfer beim Fußende
@@ -1767,7 +1783,7 @@ potentiell lebensbedrohlichen, Blutung.
     vollständig umschließen
     \item Dreiecktuchkrawatte festziehen und mit einem festen Knoten bei
     ausreichendem Druck direkt über der Wunde fixieren
-    \item 2. Knoten zur Sicherung des ersten
+    \item 2. Knoten zur Sicherung des Ersten
 \end{enumerate}
 \end{multicols}
 
@@ -1779,8 +1795,112 @@ schon angelegten Druckverband wird nicht wieder geöffnet!}
 
 
 
-
-
+% \subsection{Bilderserie}
+% 
+% \clearpage
+% 
+% \begin{gWideParEnv}
+% \begin{tabularx}{\linewidth}{XXXX}
+% \toprule
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 1
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 2
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 3
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 4
+% \\\midrule
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 1
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 2
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 3
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 4
+% \\\midrule
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 1
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 2
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 3
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 4
+% \\\midrule
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 1
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 2
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 3
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 4
+% \\\midrule
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 1
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 2
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 3
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 4
+% \\\midrule
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 1
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 2
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 3
+% &
+% \includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
+% 
+% Text 4
+% \\\midrule
+% \\\bottomrule
+% \end{tabularx}
+% \end{gWideParEnv}
 
 \section{Assistenztätigkeiten}
 
@@ -1806,7 +1926,16 @@ seinem Team für die Unterstützung!
 
 \subsection{Übergabegespräch an Notarzt bzw. Spitalspersonal}  
 
-Die Übergabe des Patienten in den Verantwortungsbereich eines Notarztes oder des Spitalspersonals hat geordnet und gewissenhaft zu erfolgen, damit keine wichtige Information verloren geht. Diese Schnittstelle zwischen Sanitäter und Arzt bzw. Krankenschwester kann auf den weiteren Behandlungsverlauf einen großen Einfluss nehmen und darf daher in seiner Bedeutung nicht unterschätzt werden! Es empfiehlt sich -- so Zeit dafür ist -- sich bereits vor Eintreffen des Notarztes oder vor Ankunft im Krankenhaus zu überlegen, welche Informationen wesentlich sind und daher auf keinen Fall vergessen werden dürfen.
+\begin{wrapfigure}{r}{5cm}
+\includegraphics[width=\linewidth]{./images/shared/aufnahmearzt-ihres-vertrauens-edited2-0500.jpg}
+\end{wrapfigure}Die Übergabe des Patienten in den Verantwortungsbereich eines Notarztes oder des
+Spitalspersonals hat geordnet und gewissenhaft zu erfolgen, damit keine wichtige
+Information verloren geht. Diese Schnittstelle zwischen Sanitäter und Arzt bzw.
+Krankenschwester kann auf den weiteren Behandlungsverlauf einen großen Einfluss
+nehmen und darf daher in seiner Bedeutung nicht unterschätzt werden! Es empfiehlt
+sich -- so Zeit dafür ist -- sich bereits vor Eintreffen des Notarztes oder vor
+Ankunft im Krankenhaus zu überlegen, welche Informationen wesentlich sind und
+daher auf keinen Fall vergessen werden dürfen.
 
 Das Übergabegespräch muss mindestens folgende Informationen beinhalten:
 \begin{itemize}
@@ -1814,15 +1943,17 @@ Das Übergabegespräch muss mindestens folgende Informationen beinhalten:
     \item Alter
     \item Zusammenfassung der wesentlichen Inhalte der Anamnese
     \item Beschreibung der Symptomatik und deren Verlauf
-    \item bisher erhobene Befunde (Blutdruck, Puls, Sauerstoffsättigung usw.)
-    \item bisher durchgeführte Maßnahmen
-    \item sonstige, wichtige Hinweise (z.B. Infektionsgefahren, Bluterkrankheit, Allergien etc.)
+    \item Bisher erhobene Befunde (Blutdruck, Puls, Sauerstoffsättigung usw.)
+    \item Bisher durchgeführte Maßnahmen
+    \item Sonstige, wichtige Hinweise (z.B. Infektionsgefahren,
+    Bluterkrankheit, Allergien etc.)
 \end{itemize}
 
 %=========Ende Abschnitt Emhofer==========================================================
 
 
 \subsection{Intubation: Vorbereitung und Assistenz}
+\label{topic:intubation-assistenz}
 
 \paragraph*{Material}~
 
@@ -1849,10 +1980,10 @@ Das Übergabegespräch muss mindestens folgende Informationen beinhalten:
     \item Stethoskop
 \end{compactenum}
 \includegraphics[width=\linewidth]{./images/intubation_zubehoer_op.jpg}
-\captionof{figure}[Intubationszubehör.]{Intubationszubehör, angerichtet auf
-einem Anästhesiegerät. Was fehlt?
+\gCaptionofDiff{figure}{Intubationszubehör, angerichtet auf
+einem Anästhesiegerät. Was fehlt?\gMarginBugfix{\gTakeNotesLarge}
 \gSourcePicture{Gabriel}
-\gAuthNotesPicLegalOk{intubation\,zubehoer\,op.jpg}{cc-by}}
+\gAuthNotesPicLegalOk{intubation\,zubehoer\,op.jpg}{cc-by}}{Intubationszubehör.}
 \end{multicols}
 
 
@@ -1974,7 +2105,9 @@ Inakzeptabel!}
             Flüssigkeit im Apullenkopf mehr befindet
             \item Öffnen der Medikamenten-Ampulle mit Tupfer, roter Punkt weist
             zum Körper
-\marginpar{\includegraphics[width=\linewidth]{./images/ampulle_beklopfen.png}\captionof{figure}{Ampullenkopf
+\marginpar{\includegraphics[width=\linewidth]{./images/ampulle_beklopfen.png}
+
+\gCaptionof{figure}{Ampullenkopf
 beklopfen. \emph{Bild: BEMAW}}}
         \end{itemize}
         \item Plastikampulle,
@@ -2081,17 +2214,18 @@ beklopfen. \emph{Bild: BEMAW}}}
 ({\quotedblbase}Venflon{\textquotedblleft}): Vorbereitung und Assistenz 
 
 \begin{figure}[H]
-\begin{center}
 \includegraphics[width=\linewidth]{./images/venflon.png}
-\end{center}
-\caption{Eine periphere Venenverweilkanüle
+
+\gCaptionof{figure}{Eine periphere Venenverweilkanüle
 (Venflon\texttrademark), in ihre Einzelbestandteile zerlegt.
 \gSourcePicture{BEMAW}}
 \end{figure}
 
 \begin{table}[H]
+\gCaptionof{figure}{Verschiedene Größen von peripheren
+Venenverweilkanülen. \gSource{BEMAW (modifiziert)}}
+
 \begin{tabular}{m{1.5619999cm}cccll}
-\toprule
 \multicolumn{2}{l}{Nur zur Illustration!} 
 &
 Länge
@@ -2120,8 +2254,6 @@ dick
 \gZ{1,6 x 2,1} & \gZ{14} & \gZ{42} & \gZ{265} & orange &
 Pferd \\\bottomrule
 \end{tabular}
-\caption{Verschiedene Größen von peripheren
-Venenverweilkanülen. \gSource{BEMAW (modifiziert)}}
 \end{table}
 
 
@@ -2133,7 +2265,7 @@ Venenverweilkanülen. \gSource{BEMAW (modifiziert)}}
     \item Staubinde
     \item Venflon:
     \begin{itemize}
-        \item Die Größe (= Farbe) ist vom Arzt vorher zu erfragen!)
+        \item Die Größe (= Farbe) ist vom Durchführenden vorher zu erfragen!
         \item Die Flügel werden hinunter geklappt
         \item Die farbige Lasche des Zuspritzventils in rechten Winkel zur
         Venflonachse stellen.
@@ -2157,13 +2289,13 @@ Venenverweilkanülen. \gSource{BEMAW (modifiziert)}}
     \item Stauschlauch zureichen
     \item geöffnete Verpackung des Alko-Tupfer hinreichen, sodass dieser
     entnommen werden kann
-    \item Kontamed in Reichweite des  Arztes\,/\,NKV
+    \item Kontamed in Reichweite des  Durchführenden
     bereitstellen, sodass er später die Nadel abwerfen kann.
     \item Venflon zureichen
 \end{itemize}
 \begin{itemize}
     \item Venflon an der Schutzkappe halten, sodass der
-    Arzt\,/\,NKV den Venflon abziehen kann.
+    Durchführende den Venflon abziehen kann.
     
 \end{itemize}
 \begin{itemize}

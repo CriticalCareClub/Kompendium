@@ -26,7 +26,7 @@ bereinigt und gegen Langform ausgetauscht, wie besprochen.}
 % |}\toprule
 
 \begin{table}[H]
-\captionabove{Rechtsordnung}
+\gCaptionof{table}{Rechtsordnung}
 \begin{tabularx}{\linewidth}[H]{X X|X|X||X|X||}
 
 & \multicolumn{5}{c}{\gEs{$\Swarrow$ EU-Recht $\Searrow$}} 
@@ -130,7 +130,7 @@ Die Gesetzestexte können im Internet vom Rechtsinformationssystem des Bundes
 \begin{center}
 \includegraphics[width=8cm]{./images/recht_vertrag.png}
 \end{center}
-\caption{Vertragsverhältnisse im Rettungsdienst}
+\gCaptionof{table}{Vertragsverhältnisse im Rettungsdienst}
 \end{figure}
 Das Rechtsverhältnis im Rettungswesen besteht grundsätzlich aus drei
 Parteien: dem Patienten, der Rettungsorganisation
@@ -485,11 +485,13 @@ den Sanitätern und droht jeden Moment anzugreifen.
 \paragraph{Rechtsfrage}
 Was darf gegen den Hund getan werden?
 
-\paragraph{Rechtslage}
+\paragraph{Rechtslage} ~
 
-\begin{center}
-\begin{tabularx}{\textwidth}[H]{XX}
-\toprule
+\begin{table}[H]
+\gCaptionof{table}{Rechtslage: Gegenüberstellung rechtfertigender vs.
+entschuldigender Notstand.}
+
+\begin{tabularx}{\textwidth}{XX}
 \gEs{Rechtfertigender Notstand}
 &
 \gEs{Entschuldigender Notstand}
@@ -546,7 +548,7 @@ Was darf gegen den Hund getan werden?
 \end{itemize}
 \\\bottomrule
 \end{tabularx}
-\end{center}
+\end{table}
 
 \paragraph{Rechtsfolge}
 
@@ -1255,8 +1257,7 @@ gewonnen werden aus:
 \paragraph*{Rechtsfolge}
 
 \gFazit{
-	Die RTW-Mannschaft darf daher die f\"ur den Patiente
-n	schädigende Anordnung ablehnen. Natascha hingegen macht
+	Die RTW-Mannschaft darf daher die f\"ur den Patienten	schädigende Anordnung ablehnen. Natascha hingegen macht
 	sich strafbar wegen K\"orperverletzung und riskiert uU. zivilrechtliche SchEA
 	(${\rightarrow}$ Nitro-Gabe nicht lege artis).}
 
@@ -1283,7 +1284,7 @@ erinnern.
 
 Besteht eine Dokumentationspflicht und wenn ja, in welchem Umfang? 
 
-\paragraph*{Rechtslage}
+\paragraph*{Rechtslage}~
 
 \gZ{{\S}\,5} \gEs{SanG}:
 {\quotedblbase}\gC{Sanitäter haben [{\dots}] die von
@@ -1294,7 +1295,7 @@ ihnen gesetzten Ma{\ss}nahmen zu dokumentieren.}{\textquotedblleft}
 Im \"osterreichischen Recht hat grundsätzlich der Kläger den
 Schaden, die Rechtswidrigkeit und das Verschulden des Beklagten zu
 beweisen. Besteht aber zwischen Kläger und Beklagten ein Vertrag, so
-wird gem. \gZ{{\S}\,1298} AGBG das Verschulden des Beklagten
+wird gem. \gZ{{\S}\,1298} ABGB das Verschulden des Beklagten
 angenommen bzw. der Beklagte muss beweisen, dass ihn kein Verschulden trifft (=
 \index{Beweislastumkehr}\gT{Beweislastumkehr}). 
 
@@ -1309,28 +1310,16 @@ beweisen hat.
 \gEs{Inhalt der Dokumentation}:}
 
 \begin{itemize}
-	\item {\mdseries
-	gesetzte med. Ma{\ss}nahmen}
-
-	\item {\mdseries
-	situationsrelevante Umstände (beim Patient; am BO; während des
-	Transportes; {\dots})}
-
-	\item {\mdseries
-	Verweigerungen oder besondere Anmerkungen des Patiente
-n	(kein Gurt; Marcoumarpflichtig; {\dots})}
-
-	\item {\mdseries
-	uU. relevante Inhalte der Aufklärung}
-
-	\item {\mdseries
-	sonstige f\"ur den Sanitäter entscheidend wirkende Umstände }
-
+	\item gesetzte med. Ma{\ss}nahmen
+	\item situationsrelevante Umstände (beim Patient; am BO; während des
+	Transportes; {\dots})
+	\item Verweigerungen oder besondere Anmerkungen des Patienten	(kein Gurt; Marcoumarpflichtig; {\dots})
+	\item uU. relevante Inhalte der Aufklärung
+	\item sonstige f\"ur den Sanitäter entscheidend wirkende Umstände 
 \end{itemize}
-\begin{quotation}
-Grundsatz: Alles darf dokumentiert werden, es darf aber nicht Nichts
-dokumentiert werden. 
-\end{quotation}
+
+\gFazit{Grundsatz: Alles darf dokumentiert werden, es darf aber nicht Nichts
+dokumentiert werden.}
 
 \subparagraph*{Durchf\"uhrung der Dokumentation:}
 Die Dokumentation soll vorrangig am Transportschein selbst oder wenn
@@ -1406,7 +1395,7 @@ Verschwiegenheitspflicht:
 
 \begin{itemize}
 	\item {\mdseries
-	Identität des Patienten bleibt gewahrt}
+	Anonymität des Patienten bleibt gewahrt}
 
 	\item {\mdseries
 	bei Entbindung von der Schweigepflicht durch den Patienten}
@@ -1421,13 +1410,13 @@ Verschwiegenheitspflicht:
 	wenn es zur Behandlung des Patienten dient}
 
 	\item {\mdseries
-	wenn es gesetzlichen vorgeschrieben ist (Bsp: im Gerichtsverfahren als
-	Zeuge)}
+	wenn es gesetzlichen vorgeschrieben ist (z.B. im
+	Gerichtsverfahren als Zeuge)}
 
 	\item {\mdseries
 	zum Schutz von h\"oherwertigen Interessen der \"offentlichen
 	Gesundheitspflege oder Rechtspflege (${\rightarrow}$ zur Meldepflicht
-	siehe ad G)}
+	siehe unten)}
 
 \end{itemize}
 
@@ -1530,9 +1519,9 @@ Jahre Rahmens einmal \"uber die Intubation pr\"ufen lassen.
 \gFazit{
 	Die f\"ur den vorliegenden Fall entscheidende Fortbildung gem. MPG wurde
 	von Bernd nicht besucht, was ihm nicht nur eine Verwaltungsstrafe,
-	sondern auch eine gerichtliche Strafe und zivilrechtlichen SchEA
-	einbringen kann. Denn sollte es im Umgang mit dem Medizinprodukt zu
-	K\"orperverletzungen kommen, wird aufgrund der mangelnden
+	sondern auch eine gerichtliche Strafe und zivilrechtlichen
+	Schadensersatzanspruch einbringen kann. Denn sollte es im
+	Umgang mit dem Medizinprodukt zu K\"orperverletzungen kommen, wird aufgrund der mangelnden
 	Materialkenntnis die Behandlung als nicht-lege-artis gewertet. Um einer
 	solchen Strafe zu entgehen gen\"ugt es, dass Bernd noch vor Ort, aber
 	vor Anwendung, durch eine {\quotedblbase}geeignete
@@ -1626,7 +1615,7 @@ K\"orperverletzungen}:
 	Verdienstentgang}
 
 	\item {\mdseries
-	Schmerzengeld}
+	Schmerzensgeld}
 
 \end{itemize}
 

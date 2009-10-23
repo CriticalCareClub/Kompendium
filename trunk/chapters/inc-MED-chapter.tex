@@ -246,7 +246,7 @@ des rechten Herzens.
 
 % \begin{wrapfigure}{r}
 % %	\begin{figure}
-% 		%\caption{Aszites und Bein"odeme}	
+% 		%\gCaptionof{figure}{Aszites und Bein"odeme}	
 % 		\includegraphics[width=5cm]{./images/aszites-beinoedeme.png}
 % %	\end{figure}
 % \end{wrapfigure}
@@ -336,7 +336,7 @@ des Herzmuskels und zu den Symptomen der Angina pectoris.
 \end{itemize}
 }{
 \includegraphics[width=\textwidth]{./images/noauth/AASdev20090228-img73.png}
-\captionof{figure}{\gAuthNotes{Bild fehlt!}
+\gCaptionof{figure}{\gAuthNotes{Bild fehlt!}
 Schmerzausdehnung beim ischämischen Herzschmerz.}
 }
 
@@ -344,21 +344,15 @@ Schmerzausdehnung beim ischämischen Herzschmerz.}
 % \gMarried
 % {
 %  \includegraphics[width=\textwidth]{./images/noauth/AASdev20090228-img72.png}
-% \captionof{figure}{\gAuthNotes{Bild fehlt!} Patient mit
+% \gCaptionof{figure}{\gAuthNotes{Bild fehlt!} Patient mit
 % einem akuten Koronarsyndrom, vermutlich Angina Pectoris. Bei kaltem Wetter, beim
 % Stiegen steigen mit schwerem Gepäck: Ein plötzliches Engegefühl
 % im Brustkorb und ein stechender Schmerz im linken Thorax.}
 % }{
 % \includegraphics[width=\textwidth]{./images/noauth/AASdev20090228-img73.png}
-% \captionof{figure}{\gAuthNotes{Bild fehlt!}
+% \gCaptionof{figure}{\gAuthNotes{Bild fehlt!}
 % Schmerzausdehnung beim ischämischen Herzschmerz.}
 % }
-
-\begin{center}
- 
-
-
-\end{center}
 
 \gMassnahmen{
 \paragraph{Spezielle Maßnahmen}
@@ -514,49 +508,65 @@ ist erforderlich. Die PTCA ist in Wien u.a. verfügbar im AKH, Donauspital, und 
 \subsection{Herzrhythmusstörungen}
 \index{Herzrhythmusstörungen}\index{Rhythmusstörungen!Herz-}
 
-\begin{center}
 \begin{table}[h]
-\captionabove{Wichtige und häufige Herzrhythmusstörungen}
-\label{tab:herzrhythmusstoerungen}
+\gCaptionof{table}{Übersicht: Wichtige und häufige
+Herzrhythmusstörungen.\label{tab:herzrhythmusstoerungen}}
+\index{Bradykardie} 
+\index{Tachykardie}
+\index{Kammerflimmern}\index{Flimmern!Kammer-}
+\index{Vorhofflimmern}\index{Flimmern!Vorhof-}
+
+
+\index{Asystolie}
+\index{Pulslose Ventrikuläre Tachykardie} 
+\index{Tachylardie!Pulslose Ventrikuläre}
+
+\begin{minipage}{\linewidth}
 \begin{tabulary}{\textwidth}{LLL}
-\toprule
 \gTabHeading{Rhythmus}
 & 
 \gTabHeading{Bedeutung}
 & 
 \gTabHeading{Bemerkung}
-\\\midrule
+\\\midrule\addlinespace
+\gTabSub{Bradykardie}
 
-\gT{Bradykardie}
-\index{Bradykardie} 
-
-{\small (HF\,{\textless}\,60/min)}\footnote{beim
-Erwachsenen} & Situations\-abhängig & \emph{"`zu langsam"'}
+{\scriptsize (HF\,{\textless}\,60/min)}\gMarginBugfix{(beim
+Erwachsenen)} 
+& 
+Situations\-abhängig 
+& \
+emph{"`zu langsam"'}
 \\\addlinespace
-\gT{Tachykardie} 
-\index{Tachykardie}
+\gTabSub{Tachykardie} 
 
-{\small (HF\,{\textgreater}\,100/min)}\footnote{beim
-Erwachsenen} & Situations\-abhängig & \emph{"`zu schnell"'}
-\\\midrule 
-\gT{Kammerflimmern}\index{Kammerflimmern}\index{Flimmern!Kammer-}
+{\scriptsize (HF\,{\textgreater}\,100\gMarginBugfix{(beim
+Erwachsenen)}/min) }
+& 
+Situations\-abhängig 
+& 
+\emph{"`zu schnell"'}
+\\\addlinespace\midrule \addlinespace
+\gTabSub{Kammerflimmern}
 & Reanimation  & \emph{"`schockbarer"'} Rhythmus 
 \\\addlinespace
-\gT{Pulslose Ventrikuläre Tachykardie}\index{Pulslose
-Ventrikuläre Tachykardie} \index{Tachylardie!Pulslose
-Ventrikuläre} & Reanimation & \emph{"`schockbarer"'}
-Rhythmus 
+\gTabSub{Pulslose Ventrikuläre Tachy\-kardie} 
+& Reanimation 
+& \emph{"`schockbarer"'} Rhythmus 
 \\\addlinespace
-\gT{Asystolie} 
-\index{Asystolie}
+\gTabSub{Asystolie} 
 
-{\small (HF\,=\,0)} & Reanimation & Nulllinie, \emph{"`nicht-schockbarer"'}
-Rhythmus
+{\scriptsize (HF\,=\,0)} 
+& 
+Reanimation 
+& 
+Nulllinie, \emph{"`nicht-schockbarer"'} Rhythmus
 \\\addlinespace
-\gT{Vorhofflimmern}\index{Vorhofflimmern}\index{Flimmern!Vorhof-}
+\gTabSub{Vorhofflimmern}
 & regellose Erregung im Vorhof
 
-oft symptomlos & 
+oft symptomlos 
+& 
 \gE{Chronische Erkrankung.} Sehr viele Leute haben
 Vorhofflimmern und leben ganz gut damit. 
 
@@ -570,8 +580,8 @@ gerinnungs\-hemmenden ({\quotedblbase}blut\-ver\-dünnenden{\textquotedblleft}) 
 z.B. \gE{"`Marcoumar"'} ${\rightarrow}$ Patient ist blutungsgefährdet
 \\\bottomrule
 \end{tabulary}
+\end{minipage}
 \end{table}
-\end{center}
 
 
 
@@ -664,7 +674,9 @@ geordnet, er "`zittert"' nur (wie ein Pudding), es wird
 
 \paragraph{\gT{Pulslose Ventrikuläre
 Tachykardie}}\index{Pulslose Ventrikuläre Tachykardie}
-\gEs{Reanimationspflichtig!} Vorstufe zum Kammerflimmern, Herz kontrahiert so schnell dass es sich nicht mehr füllen kann ${\rightarrow}$ \gEs{keine Auswurfleistung} 
+\gEs{Reanimationspflichtig!} Vorstufe zum Kammerflimmern. Das Herz kontrahiert
+so schnell dass es sich nicht mehr füllen kann ${\rightarrow}$ \gEs{keine
+Auswurfleistung}.
     
 \paragraph{\gT{Asystolie}}\index{Asystolie}
 \gEs{Reanimationspflichtig}. Im Herz entsteht keine elektrische
@@ -805,12 +817,10 @@ Blutdruckkrisen auch akut Probleme machen kann.
     (außer bei Kindern)
 \end{itemize}
 
-\begin{gCaveEnv}
-    Bei Schwangeren sind die Grenzwerte peinlich genau zu beachten! Denke an
-    die \gT{EPH-Gestose}\footnote{Die EPH-Gestose wird in
+\gCave{Bei Schwangeren sind die Grenzwerte peinlich genau zu beachten! Denke an
+    die \gEs{EPH-Gestose}\footnote{Die EPH-Gestose wird in
     Kap. \ref{topic:eph-gestose}
-    auf Seite \pageref{topic:eph-gestose} erklärt.}!
-\end{gCaveEnv}
+    auf Seite \pageref{topic:eph-gestose} erklärt.}!}
 
 \paragraph{Ursachen}
 
@@ -822,7 +832,7 @@ Blutdruckkrisen auch akut Probleme machen kann.
     \item u.a. \ldots  
 \end{itemize}
 
-\subparagraph{Langzeitfolgen}
+\paragraph{Langzeitfolgen}
 
 Die Hypertonie hat in der Notfallmedizin auch eine wichtige
 indirekte Bedeutung: Sie ist Ursache für viele andere
@@ -830,15 +840,17 @@ Erkrankung, die ihrerseits akut lebensbedrohlich werden
 können. 
 
 Zwei Wirkungen der Hypertonie sind dabei besonders wichtig:
-Die Gefäßschädigung und die Belastung des Herzens durch
-den hohen Gegendruck. 
+Die \gEs{Gefäßschädigung} und die \gEs{Belastung des Herzens durch
+den hohen Gegendruck}. 
 
-Bei der Gefäßschädigung kommt es zur Ablagerung durch Kalk
-und sonstige Plaques und über längere Zeit zur Verengung
-oder Verstopfung der Gefäße. Je nach Organ kann das sehr
-massive Auswirkungen haben. Im Herz führt es zur Angina
-Pectoris oder zum Herzinfarkt, im Hirn zu Schlaganfällen, in
-den Nieren zu einer Niereninsuffizienz, usw. Selbst große
+\begin{wrapfigure}{r}{3cm}
+\includegraphics[width=\linewidth]{./images/teaser/imgp0481.jpg}
+\end{wrapfigure}Bei der Gefäßschädigung kommt es zur Ablagerung durch Kalk
+und sonstige Plaques und über längere Zeit zur \gE{Verengung
+oder Verstopfung der Gefäße}. Je nach Organ kann das sehr
+massive Auswirkungen haben. Im Herz führt es zur \gE{Angina
+Pectoris} oder zum \gE{Herzinfarkt}, im Hirn zu \gE{Schlaganfällen}, in
+den Nieren zu einer \gE{Niereninsuffizienz}, usw. Selbst große
 Gefäße wie die Hauptschlagader (Aorta) können derartig
 geschädigt werden dass sie reißen können (Aortenaneurysma) --- eine
 für den Patienten sehr lebensgefährliche Sache. 
@@ -850,7 +862,7 @@ aber dann nicht mehr ausreichend mit sauerstoffreichen
 Blut versorgt werden. 
 
 Wie haben also gesehen dass die Hypertonie ein wichtiger
-Risikofaktor für viele schwere Notfälle ist. Daher ist es
+\gE{Risikofaktor} für viele schwere Notfälle ist. Daher ist es
 auch verständlich dass die Behandlung der Hypertonie einen
 großen Stellenwert in der medizinischen Versorgung der
 Bevölkerung hat. 
@@ -880,13 +892,14 @@ Bevölkerung hat.
 
 \subsubsection{Hypertensive Krise und Hypertensiver Notfall}
 
-\begin{center}
+\begin{table}[H]
+\gCaptionof{table}{Unterscheidung Hypertensive Krise und Hypertensiver Notfall.}
+
 \begin{tabularx}{\textwidth}{XX}
-\toprule
 \gTabHeading{Hypertensive Krise}
 &
 \gTabHeading{Hypertensiver Notfall}
-\\\midrule
+\\\addlinespace\midrule\addlinespace
 \gAbk{RR}\,{\textgreater}\,230/130\,mmHg\footnote{Richtwert}
 
 \gEs{Patient fühlt sich gut}
@@ -894,7 +907,7 @@ Bevölkerung hat.
 \gAbk{RR}\,{\textgreater}\,230/130\,mmHg\footnote{Richtwert}
 
 \gEs{+ Symptome}
-\\\midrule
+\\\addlinespace
 Zufallsbefund?
 
 Oder steht der Blutdruck doch in Zusammenhang mit der
@@ -908,7 +921,7 @@ Wenn es wirklich nur ein Zufallsbefund ist ({\quotedblbase}Gesundheitstage{\text
 
 
 &
-\subparagraph{Symptome:}
+\subparagraph{\gCa{Symptome:}}
 
 \begin{itemize}
     \item Kopfschmerz
@@ -921,7 +934,7 @@ Wenn es wirklich nur ein Zufallsbefund ist ({\quotedblbase}Gesundheitstage{\text
 \gCave{Gefahr des Herzversagens -- Das Herz muss
 plötzlich gegen großen Druck pumpen}
 
-\\\midrule
+\\\addlinespace
 \gMassnahmen{
 \paragraph{Maßnahmen}
 
@@ -953,9 +966,9 @@ ist notwendig.
 \ASBFLO{\gAbk{NFS} dürfen lt.
 Algorithmus Nitrolingual-Spray verabreichen. Ist die Gabe erfolgreich kann u.U. von der
 Anforderung eines Notarztes abgesehen werden.} }
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabularx}
-\end{center}
+\end{table}
 \marginpar{\cite{WHOISH2003,JNC7Report,BLIM3,IntroClinEmergMed4,Vlcek2008}}
 
 \gCo{\gZ{Die Unterscheidung zwischen "`Hypertensiver
@@ -1053,7 +1066,7 @@ englischen P's"'})}.
 \\\addlinespace\bottomrule
 \end{tabulary}
 \end{center}}
-\captionof{table}{Die 5 Zeichen des arteriellen Gefäßverschluss.}\label{tab:5p}
+\gCaptionof{table}{Die 5 Zeichen des arteriellen Gefäßverschluss.}\label{tab:5p}
 }
 
 
@@ -1104,15 +1117,15 @@ verstopft und eine \gT{Embolie} verursacht.}) verstopft Vene}
     \gEs{Lungenembolie} (\gSee{topic:lungenembolie})
 \end{itemize}
 
-\gDias
+\gDias{Bilderserie: Thrombosen und die "`echte Welt"'.}
 %1
 {\includegraphics[width=\marginparwidth]{./images/economyclass.jpg}
-\captionof{figure}{Die Economyclass. Sorgsam geschlichtet verbringen Menschen
+\gCaptionof{figure}{Die Economyclass. Sorgsam geschlichtet verbringen Menschen
 hier Stunden damit Thrombosen zu basteln.
 \gSourcePicture{Gabriel} \gAuthNotesPicLegalOk{}{}}}
 %2
 {\includegraphics[width=\marginparwidth]{./images/lovenox1.jpg}
-\captionof{figure}{Thromboseprophylaxe. \gZ{Niedermolekulares Heparin
+\gCaptionof{figure}{Thromboseprophylaxe. \gZ{Niedermolekulares Heparin
 (hier "`Lovenox\texttrademark") verhindert Thrombosen die z.B. durch lange
 Immobilisation (Reisen, Bettlägrigkeit, Gips, \ldots)
 entstehen können. Die Substanz wird unter die Haut ("`subkutan"') gespritzt.
@@ -1165,10 +1178,10 @@ entstehen können. Die Substanz wird unter die Haut ("`subkutan"') gespritzt.
 Durch eine Verlegung der Atemwege ist die Ventilation behindert bzw. aufgehoben.
 
 Spezialfall: \index{Aspiration}\gT{Aspiration} =
-Fremdkörper/-säfte (Magensaft, Erbrochenes, Bolus) gelangt in die
+Fremdkörper/-säfte (Magensaft, Erbrochenes, Nahrung) gelangt in die
 unteren Atemwege
 }{
- \includegraphics[width=\textwidth]{./images/pharynx-schema.png} \captionof{figure}{\gAuthNotesPicLegalNotOk{pharynx-schema}{}Atemwegsverlegung (Schema). } }
+ \includegraphics[width=\textwidth]{./images/pharynx-schema.png} \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{pharynx-schema}{}Atemwegsverlegung (Schema). } }
 
 
 
@@ -1197,6 +1210,11 @@ sind:
         \item Esmarch-Handgriff
         \item Schlag zwischen Schulterblätter
         \item Heimlich-Griff
+        \begin{itemize}
+            \item Durch Anwendung des Heimlich-Handgriffes kann es zu
+            schweren inneren Verletzungen kommen. Ein Patient ist nach
+            Anwendung unbedingt zu hospitalisieren!
+        \end{itemize}
         \item \gTxBeiVit \gTxMassVitBes 
         \begin{itemize}
             \item Lagerung: Oberkörper hoch
@@ -1303,7 +1321,8 @@ asthmaticus kann tödlich enden.
 
 \begin{figure}[h]
     \includegraphics{./images/copd-bronchus.png}
-    \captionof{figure}{Bronchus bei COPD.
+    
+    \gCaptionof{figure}{Bronchus bei COPD.
     \gAuthNotesPicLegalNotOk{copd-bronchus}{}}
 \end{figure}
 
@@ -1357,7 +1376,7 @@ asthmaticus kann tödlich enden.
 \includegraphics[width=\linewidth]{./images/asthma-paramedic.jpg}
 }
 {
-\captionof{figure}{\gAuthNotesPicLegalOk{}{
+\gCaptionof{figure}{\gAuthNotesPicLegalOk{}{
     }Patientin mit einem akuten Asthmaanfall
      \gSourcePicture{Gabriel}\label{fig:asthma-paramedic}}
      
@@ -1465,7 +1484,7 @@ Husten und Auswurf
 
 \begin{figure}[H]
      \includegraphics[width=\linewidth]{./images/noauth/AASdev20090228-img81.png} 
- \captionof{figure}{\gAuthNotesPicLegalNotOk{img81}{}Veränderung der
+ \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{img81}{}Veränderung der
  Atemwege bei der COPD. \emph{Oben links:} Bei der COPD  sind die kleinen Luftwege verschleimt und verengt. \emph{Unten links:} Die Lungenbläschen (Alveolen) sind überbläht, weil die Luft nur erschwert wieder entweichen kann.
  \gSourcePicture{Quelle nicht eruierbar.}}
 \end{figure}
@@ -1473,7 +1492,7 @@ Husten und Auswurf
 \begin{figure}[h]
     \begin{center}
 \includegraphics{./images/copd-stufen.png}
-\caption{Eine COPD
+\gCaptionof{figure}{Eine COPD
 entsteht nicht plötzlich: Ein COPD{\textquotesingle}ler hat eine
 Karriere hinter sich. \gSourcePicture{Quelle unbekannt} \gAuthNotesPicLegalNotOk{copd-stufen.png}{}}
 \end{center}
@@ -1546,7 +1565,7 @@ Risikofaktoren der tiefen Beinvenenthrombose
 Lungenembolie. 
 \vspace{2em}
 
-    \captionof{figure}{\gAuthNotesPicLegalNotOk{}{img82}Herkunft des Thrombus.
+    \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{}{img82}Herkunft des Thrombus.
     \gSourcePicture{Quelle nicht eruierbar.}}
 }{
 \includegraphics[width=\linewidth]{./images/noauth/AASdev20090228-img82.png}
@@ -1844,13 +1863,13 @@ unterschieden werden können:
 % \gDias
 % {
 %     \includegraphics[width=\linewidth]{./images/noauth/AASdev20090228-img83.png}
-%     \captionof{figure}{\gAuthNotesPicLegalNotOk{img83}{}Insult: Eine spastische
+%     \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{img83}{}Insult: Eine spastische
 %     Halbseitenlähmung kann sich als Spätfolge Wochen nach einem durchgemachten
 %     Schlaganfall e ntwickeln.
 %     \gSourcePicture{Quelle nicht eruierbar.}}
 % }{
 %     \includegraphics[width=\linewidth]{./images/noauth/AASdev20090228-img84.png}
-%     \captionof{figure}{\gAuthNotesPicLegalNotOk{img84}{}Insult:
+%     \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{img84}{}Insult:
 %     Halbseitenlähmung im Gesicht.
 %     \gSourcePicture{Quelle nicht eruierbar.}}
 % }{}
@@ -1954,7 +1973,7 @@ Einer der häufigsten Erreger sind die Meningokokken, man spricht dann von einer
 \end{itemize}
 }{
 \includegraphics[width=\linewidth]{./images/meningitis-kind-waterhouse.png}
-\captionof{figure}{Endstadium einer bakteriellen Meningitis.
+\gCaptionof{figure}{Endstadium einer bakteriellen Meningitis.
 Die Flecken auf der Haut sind Blutungen in Folge einer nicht mehr
 funktionierenden Blutgerinnung. Der Tod ist bei dieser
 Patientin innerhalb weniger Stunden zu erwarten.\newline
@@ -1966,7 +1985,7 @@ Patientin innerhalb weniger Stunden zu erwarten.\newline
 \gAuthNotes{FEHLT: Querverweis Meningimus\\FEHLT: Maßnahmen}
 
 \subsection{Vom Gehirn ausgehende Krämpfe --- Zerebrale Krampfanfälle}
-\index{topic:zerebrale-krampfanfaelle}\label{topic:krampfanfall}
+\label{topic:zerebrale-krampfanfaelle}\label{topic:krampfanfall}
 
 \gDefinition{Vom Gehirn ausgehende motorische Krampfanfälle aufgrund von akuten
 oder chronischen Erkrankungen des Gehirns. Dabei entladen sich unkontrolliert Nervenzell-Gruppen im Gehirn.}
@@ -2003,21 +2022,54 @@ direkt oder indirekt das Gehirn betreffen. Einige betreffen die Hirn- und
 Nervenstruktur, andere sorgen dafür dass das Hirn zu wenig
 Sauerstoff und andere Nährstoffe erhält. 
 
-\begin{description}
-    \item[Epilepsie]Die Epilepsie ist eine chronische
-    Erkrankung welche durch wiederkehrende Episoden von zerebralen Krampfanfällen gekennzeichnet ist.
-    \item[Vergiftungen](Medikamente/Drogen/...) können
-    wieder fast alles machen, also auch Krampfanfälle.
-    \cite{Supady2009}
-    \item[Hirntumor] Durch den Tumor wird das Hirn beschädigt, auch dadurch kann es zu Anfällen kommen.
-    \item[Narbengewebe] nach Insult oder Hirnverletzung.
-    \item[Hirnblutung]
-    \item[Sauerstoffmangel] z.B. Ischämie aufgrund eines Gefäßverschlusses
-    \item[BZ] Der Dauerbrenner. Eine Blutzuckerentgleisung kann fast alle neurologischen Symptome vortäuschen!
-    \item[angeboren] ohne organisch fassbare  Ursache
-    \item[Fieberkrampf] Fieber bei Kleinkindern
-    \item[Infektionen]
-\end{description}
+
+
+\begin{table}[H]
+\gCaptionof{table}{Ursachen von zerebralen Krampfanfällen.}
+
+\begin{tabulary}{\linewidth}{lL}
+\addlinespace
+\gTabSub{Epilepsie}
+&
+Die Epilepsie ist eine chronische Erkrankung welche durch wiederkehrende Episoden von zerebralen Krampfanfällen gekennzeichnet ist.
+\\\addlinespace
+\gTabSub{Vergiftungen}
+&
+(Medikamente/Drogen/...) können wieder fast alles machen, also auch Krampfanfälle. \cite{Supady2009}
+\\\addlinespace
+\gTabSub{Hirntumor} 
+&
+Durch den Tumor wird das Hirn beschädigt, auch dadurch kann es zu Anfällen kommen.
+\\\addlinespace
+\gTabSub{Narbengewebe} 
+&
+nach Insult oder Hirnverletzung.
+\\\addlinespace
+\gTabSub{Hirnblutung}
+&
+\\\addlinespace
+\gTabSub{Sauerstoffmangel} 
+&
+z.B. Ischämie aufgrund eines Gefäßverschlusses
+\\\addlinespace
+\gTabSub{BZ} 
+&
+Der Dauerbrenner. Eine Blutzuckerentgleisung kann fast alle neurologischen Symptome vortäuschen!
+\\\addlinespace
+\gTabSub{angeboren} 
+&
+ohne organisch fassbare  Ursache
+\\\addlinespace
+\gTabSub{Fieberkrampf} 
+&
+Fieber bei Kleinkindern
+\\\addlinespace
+\gTabSub{Infektionen}
+&
+\\\addlinespace
+\end{tabulary}
+\end{table}
+
 
 \subsubsection{Fokaler
 Anfall}\index{Krampfanfall!fokaler}\label{topic:krampfanfall-fokaler}
@@ -2375,7 +2427,8 @@ Der Blutzucker ist normalerweise
 }{
 \begin{center}
  \includegraphics[width=\linewidth]{./images/noauth/AASdev20090228-img88.png} 
- \captionof{figure}{\gAuthNotesPicLegalNotOk{img88}{}Richtwerte.
+ 
+ \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{img88}{}Richtwerte.
  \gSourcePicture{Quelle nicht eruierbar.}}
 \end{center}
 }
@@ -2508,7 +2561,7 @@ ${\rightarrow}$ Er hyperventiliert.
 
 \begin{wrapfigure}{r}{5cm}
     \includegraphics[width=\linewidth]{./images/operation.jpg}
-    \captionof{figure}{\gAuthNotesPicLegalOk{}{}Oft die
+    \gCaptionof{figure}{\gAuthNotesPicLegalOk{}{}Oft die
     Abteilung der Wahl für einen abdominellen Notfall: Die
     Chirurgie. Aber auch die Abteilungen für
     Kinderheilkunde, Kinderchirurgie oder Gynäkologie (!) können manchmal
@@ -2851,9 +2904,7 @@ Mageninhalt\footnote{\gT{Kaffeesatz-artiges Erbrechen}:
 Durch die Magensäure kommt es zur Veränderung des Blutes,
 es wird bräunlich, ähnlich dem Kaffeesatz im Kaffeefilter.}
 (wenn das Blut von der Magensäure bereits verändert wurde) oder von rotem, frischen Blut.
-
-\gFazit{Der Patient ist aufgrund des Blutverlustes akut
-vital bedroht, es besteht Schockgefahr.}}
+}
 {Oft bei Lebererkrankungen (Leberzirrhose)
 
 Hoher Blutverlust möglich -- Lebensgefahr !
@@ -2863,6 +2914,9 @@ Hoher Blutverlust möglich -- Lebensgefahr !
 \item Bluterbrechen im Schwall (Hämatemesis)
 \end{itemize}}
 
+
+\gFazit{Der Patient ist aufgrund des Blutverlustes akut
+vital bedroht, es besteht Schockgefahr.}
 
 \gMassnahmen{
     \paragraph{Spezielle Maßnahmen bei Ösophagusvarizenblutung}~
@@ -2877,7 +2931,7 @@ Hoher Blutverlust möglich -- Lebensgefahr !
     \end{itemize}
     \item Allgemeine Maßnahmen der Schockbekämpfung
     ($\rightarrow$\,\ref{topic:schockbekaempfung})
-    \item Spezielle Maßnahmen bei Hypovolämischen Schock
+    \item Spezielle Maßnahmen bei Hypovolämischem Schock
     ($\rightarrow$\,\ref{topic:schock-hypovolaemischer})
     \item \gZ{Notarzt: evt. Sengstaken-Blakemore-Sonde}
     \item Hospitalisation: Abteilung für Chirurgie, Voranmeldung
@@ -2965,7 +3019,7 @@ auch \gE{Medikamente} "`entwässern"'.
 \item Flüssigkeitszufuhr ${\downarrow}$
 \begin{itemize}
     \item Verminderter Trinkantrieb
-\end{itemize}\item 
+\end{itemize}
 \item Flüssigkeitsverlust ${\uparrow}$
 \begin{itemize}
     \item Erbrechen, Durchfall
@@ -2996,135 +3050,135 @@ Situation nüchtern zu belassen!}
 \item stehende Hautfalten
 \item trockene, belegte Zunge
 \item Elektrolytentgleisung
-\item Verwirrtheit, Schwindel, Apathie
+\item \gEs{Verwirrtheit, Schwindel, Apathie}
 \end{itemize}
 }
 
-\par
-\hrule
-\par
-
-
-\subsubsection{Flüssigkeitsmangel -- Exsikkose}
-\gACh{WITM}{????-??-??}{NEU: Schlagworte}
-\gACh{GABG}{2009-05-11}{NEU: Fließtexte}
-\gACh{GABS}{2009-05-14}{Fließtexte stark modifiziert und angepasst. }
-
-\emph{Syn.: Dehydratation}
-
-\gDefinition{„Austrocknung“: Es besteht ein hochgradiges Defizit von Flüssigkeit im Körper.}
-
-
-\gTagPar{Ursachen}Grundsätzlich wird (wurde) entweder
-\gEs{zu wenig Flüssigkeit zugeführt} oder \gEs{zu viel Flüssigkeit an die
-Außenwelt abgegeben} (eine Kombination aus beidem ist natürlich auch möglich). Dafür gibt es jeweils sehr verschiedene Ursachen: 
-
-Ältere Menschen haben oft ein mangelndes Durstgefühl und daher
-einen verminderten Trinkantrieb. Auch durch die Einnahme von
-Drogen (Ecstacy) kann auf den Durst "`vergessen"' werden.  
-
-Andererseits kann es durch \gE{Erbrechen}, \gE{Durchfall}
-sowie \gE{starkes Schwitzen} zu einem stark erhöhtem
-Flüssigkeitsverlust kommen. Bei \gE{Fieber} wird auch
-vermehrt Feuchtigkeit abgeatmet, und natürlichen können
-auch \gE{Medikamente} "`entwässern"'.
-
-
-
-Die genannten Ursachen sind natürlich nur ein kleiner Teil von sehr vielen
-Möglichkeiten.
-
-\gTagPar{Symptome}Der Patient wirkt allgemein \gE{geschwächt
-bis apathisch}, oft \gEs{verwirrt}, klagt über mehr oder minder heftiges
-Durstgefühl, ev. über Wadenkrämpfe und Erbrechen. Die Haut
-ist auffallend trocken, \gEs{Falten sind abhebbar und
-bleiben bestehen}. \gEs{Mundhöhle und Zunge sind trocken},
-evt. borkig oder mit eingetrocknetem Schleim belegt. Die Augen sind charakteristischerweise tiefliegend, die Nase wirkt auffallend spitz. Der RR ist mitunter sehr nieder,
-die HF eher hoch. \gE{Der Patient ist bis zur Klärung der
-Situation nüchtern zu belassen!} 
-
-
-\subsubsection{Flüssigkeitsmangel -- Exsikkose}
-\gACh{WITM}{????-??-??}{NEU: Schlagworte}
-\gACh{GABG}{2009-05-11}{NEU: Fließtexte}
-\gACh{GABS}{2009-05-14}{Fließtexte stark modifiziert und angepasst. }
-
-\emph{Syn.: Dehydratation}
-\gA{Version mit multicols}
-
-\gDefinition{„Austrocknung“: Es besteht ein hochgradiges Defizit von Flüssigkeit im Körper.}
-
-\begin{multicols}{2}
-\gTagPar{Ursachen}Grundsätzlich wird (wurde) entweder
-\gEs{zu wenig Flüssigkeit zugeführt} oder \gEs{zu viel Flüssigkeit an die
-Außenwelt abgegeben} (eine Kombination aus beidem ist natürlich auch möglich). Dafür gibt es jeweils sehr verschiedene Ursachen: 
-
-Ältere Menschen haben oft ein mangelndes Durstgefühl und daher
-einen verminderten Trinkantrieb. Auch durch die Einnahme von
-Drogen (Ecstacy) kann auf den Durst "`vergessen"' werden.  
-
-Andererseits kann es durch \gE{Erbrechen}, \gE{Durchfall}
-sowie \gE{starkes Schwitzen} zu einem stark erhöhtem
-Flüssigkeitsverlust kommen. Bei \gE{Fieber} wird auch
-vermehrt Feuchtigkeit abgeatmet, und natürlichen können
-auch \gE{Medikamente} "`entwässern"'.
-
-
-
-Die genannten Ursachen sind natürlich nur ein kleiner Teil von sehr vielen
-Möglichkeiten.
-
-\gTagPar{Symptome}Der Patient wirkt allgemein \gE{geschwächt
-bis apathisch}, oft \gEs{verwirrt}, klagt über mehr oder minder heftiges
-Durstgefühl, ev. über Wadenkrämpfe und Erbrechen. Die Haut
-ist auffallend trocken, \gEs{Falten sind abhebbar und
-bleiben bestehen}. \gEs{Mundhöhle und Zunge sind trocken},
-evt. borkig oder mit eingetrocknetem Schleim belegt. Die Augen sind charakteristischerweise tiefliegend, die Nase wirkt auffallend spitz. Der RR ist mitunter sehr nieder,
-die HF eher hoch. \gE{Der Patient ist bis zur Klärung der
-Situation nüchtern zu belassen!} 
-\end{multicols}
-
-
-\subsubsection{Flüssigkeitsmangel -- Exsikkose}
-\gACh{WITM}{????-??-??}{NEU: Schlagworte}
-\gACh{GABG}{2009-05-11}{NEU: Fließtexte}
-\gACh{GABS}{2009-05-14}{Fließtexte stark modifiziert und angepasst. }
-
-\emph{Syn.: Dehydratation}
-
-\gDefinition{„Austrocknung“: Es besteht ein hochgradiges Defizit von Flüssigkeit im Körper.}
-
-
-\gMarried{
-\gTagPar{Ursachen}Grundsätzlich wird (wurde) entweder
-\gEs{zu wenig Flüssigkeit zugeführt} oder \gEs{zu viel Flüssigkeit an die
-Außenwelt abgegeben} (eine Kombination aus beidem ist natürlich auch möglich). Dafür gibt es jeweils sehr verschiedene Ursachen: 
-
-Ältere Menschen haben oft ein mangelndes Durstgefühl und daher
-einen verminderten Trinkantrieb. Auch durch die Einnahme von
-Drogen (Ecstacy) kann auf den Durst "`vergessen"' werden.  
-
-Andererseits kann es durch \gE{Erbrechen}, \gE{Durchfall}
-sowie \gE{starkes Schwitzen} zu einem stark erhöhtem
-Flüssigkeitsverlust kommen. Bei \gE{Fieber} wird auch
-vermehrt Feuchtigkeit abgeatmet, und natürlichen können
-auch \gE{Medikamente} "`entwässern"'.
-
-
-
-Die genannten Ursachen sind natürlich nur ein kleiner Teil von sehr vielen
-Möglichkeiten.
-}{
-\gTagPar{Symptome}Der Patient wirkt allgemein \gE{geschwächt
-bis apathisch}, oft \gEs{verwirrt}, klagt über mehr oder minder heftiges
-Durstgefühl, ev. über Wadenkrämpfe und Erbrechen. Die Haut
-ist auffallend trocken, \gEs{Falten sind abhebbar und
-bleiben bestehen}. \gEs{Mundhöhle und Zunge sind trocken},
-evt. borkig oder mit eingetrocknetem Schleim belegt. Die Augen sind charakteristischerweise tiefliegend, die Nase wirkt auffallend spitz. Der RR ist mitunter sehr nieder,
-die HF eher hoch. \gE{Der Patient ist bis zur Klärung der
-Situation nüchtern zu belassen!} 
-}
-
+% \par
+% \hrule
+% \par
+% 
+%
+% \subsubsection{Flüssigkeitsmangel -- Exsikkose}
+% \gACh{WITM}{????-??-??}{NEU: Schlagworte}
+% \gACh{GABG}{2009-05-11}{NEU: Fließtexte}
+% \gACh{GABS}{2009-05-14}{Fließtexte stark modifiziert und angepasst. }
+% 
+% \emph{Syn.: Dehydratation}
+% 
+% \gDefinition{„Austrocknung“: Es besteht ein hochgradiges Defizit von Flüssigkeit im Körper.}
+% 
+% 
+% \gTagPar{Ursachen}Grundsätzlich wird (wurde) entweder
+% \gEs{zu wenig Flüssigkeit zugeführt} oder \gEs{zu viel Flüssigkeit an die
+% Außenwelt abgegeben} (eine Kombination aus beidem ist natürlich auch möglich). Dafür gibt es jeweils sehr verschiedene Ursachen: 
+% 
+% Ältere Menschen haben oft ein mangelndes Durstgefühl und daher
+% einen verminderten Trinkantrieb. Auch durch die Einnahme von
+% Drogen (Ecstacy) kann auf den Durst "`vergessen"' werden.  
+% 
+% Andererseits kann es durch \gE{Erbrechen}, \gE{Durchfall}
+% sowie \gE{starkes Schwitzen} zu einem stark erhöhtem
+% Flüssigkeitsverlust kommen. Bei \gE{Fieber} wird auch
+% vermehrt Feuchtigkeit abgeatmet, und natürlichen können
+% auch \gE{Medikamente} "`entwässern"'.
+% 
+% 
+% 
+% Die genannten Ursachen sind natürlich nur ein kleiner Teil von sehr vielen
+% Möglichkeiten.
+% 
+% \gTagPar{Symptome}Der Patient wirkt allgemein \gE{geschwächt
+% bis apathisch}, oft \gEs{verwirrt}, klagt über mehr oder minder heftiges
+% Durstgefühl, ev. über Wadenkrämpfe und Erbrechen. Die Haut
+% ist auffallend trocken, \gEs{Falten sind abhebbar und
+% bleiben bestehen}. \gEs{Mundhöhle und Zunge sind trocken},
+% evt. borkig oder mit eingetrocknetem Schleim belegt. Die Augen sind charakteristischerweise tiefliegend, die Nase wirkt auffallend spitz. Der RR ist mitunter sehr nieder,
+% die HF eher hoch. \gE{Der Patient ist bis zur Klärung der
+% Situation nüchtern zu belassen!} 
+% 
+% 
+% \subsubsection{Flüssigkeitsmangel -- Exsikkose}
+% \gACh{WITM}{????-??-??}{NEU: Schlagworte}
+% \gACh{GABG}{2009-05-11}{NEU: Fließtexte}
+% \gACh{GABS}{2009-05-14}{Fließtexte stark modifiziert und angepasst. }
+% 
+% \emph{Syn.: Dehydratation}
+% \gA{Version mit multicols}
+% 
+% \gDefinition{„Austrocknung“: Es besteht ein hochgradiges Defizit von Flüssigkeit im Körper.}
+% 
+% \begin{multicols}{2}
+% \gTagPar{Ursachen}Grundsätzlich wird (wurde) entweder
+% \gEs{zu wenig Flüssigkeit zugeführt} oder \gEs{zu viel Flüssigkeit an die
+% Außenwelt abgegeben} (eine Kombination aus beidem ist natürlich auch möglich). Dafür gibt es jeweils sehr verschiedene Ursachen: 
+% 
+% Ältere Menschen haben oft ein mangelndes Durstgefühl und daher
+% einen verminderten Trinkantrieb. Auch durch die Einnahme von
+% Drogen (Ecstacy) kann auf den Durst "`vergessen"' werden.  
+% 
+% Andererseits kann es durch \gE{Erbrechen}, \gE{Durchfall}
+% sowie \gE{starkes Schwitzen} zu einem stark erhöhtem
+% Flüssigkeitsverlust kommen. Bei \gE{Fieber} wird auch
+% vermehrt Feuchtigkeit abgeatmet, und natürlichen können
+% auch \gE{Medikamente} "`entwässern"'.
+% 
+% 
+% 
+% Die genannten Ursachen sind natürlich nur ein kleiner Teil von sehr vielen
+% Möglichkeiten.
+% 
+% \gTagPar{Symptome}Der Patient wirkt allgemein \gE{geschwächt
+% bis apathisch}, oft \gEs{verwirrt}, klagt über mehr oder minder heftiges
+% Durstgefühl, ev. über Wadenkrämpfe und Erbrechen. Die Haut
+% ist auffallend trocken, \gEs{Falten sind abhebbar und
+% bleiben bestehen}. \gEs{Mundhöhle und Zunge sind trocken},
+% evt. borkig oder mit eingetrocknetem Schleim belegt. Die Augen sind charakteristischerweise tiefliegend, die Nase wirkt auffallend spitz. Der RR ist mitunter sehr nieder,
+% die HF eher hoch. \gE{Der Patient ist bis zur Klärung der
+% Situation nüchtern zu belassen!} 
+% \end{multicols}
+% 
+% 
+% \subsubsection{Flüssigkeitsmangel -- Exsikkose}
+% \gACh{WITM}{????-??-??}{NEU: Schlagworte}
+% \gACh{GABG}{2009-05-11}{NEU: Fließtexte}
+% \gACh{GABS}{2009-05-14}{Fließtexte stark modifiziert und angepasst. }
+% 
+% \emph{Syn.: Dehydratation}
+% 
+% \gDefinition{„Austrocknung“: Es besteht ein hochgradiges Defizit von Flüssigkeit im Körper.}
+% 
+% 
+% \gMarried{
+% \gTagPar{Ursachen}Grundsätzlich wird (wurde) entweder
+% \gEs{zu wenig Flüssigkeit zugeführt} oder \gEs{zu viel Flüssigkeit an die
+% Außenwelt abgegeben} (eine Kombination aus beidem ist natürlich auch möglich). Dafür gibt es jeweils sehr verschiedene Ursachen: 
+% 
+% Ältere Menschen haben oft ein mangelndes Durstgefühl und daher
+% einen verminderten Trinkantrieb. Auch durch die Einnahme von
+% Drogen (Ecstacy) kann auf den Durst "`vergessen"' werden.  
+% 
+% Andererseits kann es durch \gE{Erbrechen}, \gE{Durchfall}
+% sowie \gE{starkes Schwitzen} zu einem stark erhöhtem
+% Flüssigkeitsverlust kommen. Bei \gE{Fieber} wird auch
+% vermehrt Feuchtigkeit abgeatmet, und natürlichen können
+% auch \gE{Medikamente} "`entwässern"'.
+% 
+% 
+% 
+% Die genannten Ursachen sind natürlich nur ein kleiner Teil von sehr vielen
+% Möglichkeiten.
+% }{
+% \gTagPar{Symptome}Der Patient wirkt allgemein \gE{geschwächt
+% bis apathisch}, oft \gEs{verwirrt}, klagt über mehr oder minder heftiges
+% Durstgefühl, ev. über Wadenkrämpfe und Erbrechen. Die Haut
+% ist auffallend trocken, \gEs{Falten sind abhebbar und
+% bleiben bestehen}. \gEs{Mundhöhle und Zunge sind trocken},
+% evt. borkig oder mit eingetrocknetem Schleim belegt. Die Augen sind charakteristischerweise tiefliegend, die Nase wirkt auffallend spitz. Der RR ist mitunter sehr nieder,
+% die HF eher hoch. \gE{Der Patient ist bis zur Klärung der
+% Situation nüchtern zu belassen!} 
+% }
+% 
 
 
 
@@ -4026,7 +4080,9 @@ Krankenhaus mitzunehmen!}
 
 \paragraph{Der Transport}~
 
-Befindet sich die Mutter noch in der Eröffnungsphase wird ein schnellstmöglicher,
+\begin{wrapfigure}{r}{5cm}
+\includegraphics[width=\linewidth]{./images/med/birth-teaser-welcome-0500.jpg}
+\end{wrapfigure}Befindet sich die Mutter noch in der Eröffnungsphase wird ein schnellstmöglicher,
 schonender Transport ins Krankenhaus angestrebt. Grundsätzlich wird die Gebärende
 so transportiert wie es für Sie am angenehmsten ist. Ab einen Blasensprung darf
 Sie jedoch nur mehr liegend transportiert werden. Sollten Sie die Mutter stehend
@@ -4070,10 +4126,13 @@ des Kindes wickeln und es kommt während der Geburt zur Strangulation des
 Kindes.
 
 \gMassnahmen{
+\paragraph{Spezielle Maßnahmen}~
+
 \begin{itemize}
 	\item Beckenhochlagerung
-	\item Mutter soll NICHT pressen (wenn möglich Geburt erst im KH)
-	\item Wehenhemmung (hecheln; medikamentös durch NA)
+	\item Mutter soll \underline{nicht} pressen (wenn möglich Geburt erst im
+	Krankenhaus)
+	\item Wehenhemmung (hecheln; \gZ{medikamentös durch Notarzt})
 	\item Nabelschnurrumschlingung des kindlichen Halses während der Geburt sofort lösen
 \end{itemize}
 }
@@ -4178,6 +4237,8 @@ durchgeführt werden. Die Geburt in jedem Fall verhindern bzw. verzögern.
 Normalerweise zieht sich in der Nachgeburtsphase die Uterusmuskulatur zusammen. In diesem Fall kommt es aber zur Erschlaffung (Atonie) der Gebärmutter. Die Folge sind lebensbedrohliche Blutungen durch das fehlende Kontrahieren des Uterus nach der Plazentalösung.
 
 \gMassnahmen{
+\paragraph{Spezielle Maßnahmen}~
+
     \begin{itemize}
         \item \gTxMassVitBes
         \begin{itemize}
@@ -4214,10 +4275,11 @@ und es herrscht Lebensgefahr für Mutter, wegen lebensbedrohlichen Blutungen, un
 Kind, wegen \ce{O2}-Mangel.
 
 \gMassnahmen{
+\paragraph{Spezielle Maßnahmen}~
+
 \begin{itemize}
-	\item Standartmaßnahme bei vital bedrohten Patienten
+	\item \gTxMassVit
 	\item Schockbekämpfung
-	\item NA-indikation
 	\item Lagerung: Fritsch, Beine hoch
 \end{itemize}
 }
@@ -4342,12 +4404,10 @@ hinsichtlich ihrer Anatomie und Physiologie.
 
 \gFazit{Kinder sind keine kleinen Erwachsenen!}
 
-\begin{center}
-\begin{tabulary}{12cm}{LL}\toprule
-~
-&
-~
-\\\midrule
+\begin{table}[H]
+\gCaptionof{table}{Anatomische und physiologische Besonderheiten von Kindern.}
+
+\begin{tabulary}{12cm}{LL}\addlinespace
 \gTabSub{Atemfrequenz}
 &
 Neugeborenes: 40\,\nicefrac{x}{min}
@@ -4359,7 +4419,7 @@ Kleinkind: 15\,\nicefrac{x}{min}
 Beatmung bis zum Säugling immer in  Neutralposition (Kopf nicht
 überstrecken)lt. ERC. 
 
-\\\hline
+\\\addlinespace
 \gTabSub{Zeichen der Atemnot}
 &
 Einziehungen zwischen Rippen
@@ -4367,11 +4427,11 @@ Einziehungen zwischen Rippen
 \index{Nasenflügeln}\gEs{Nasenflügeln}
 beschleunigte Atmung,
 Atemgeräusche
-\\\hline
+\\\addlinespace
 \gTabSub{Pulstasten beim Säugling}
 &
 Oberarmarterie (Oberarm Innenseite), Achsel
-\\\hline
+\\\addlinespace
 \gTabSub{Herzfrequenz}
 &
 Neugeborenes: 140\,--\,160\,/\,min.
@@ -4383,7 +4443,7 @@ Kinder: 80-100\,/\,min.
 Bradykardie  ist fast immer  hypoxiebedingt $\rightarrow$
 lebensgefährlich!
 
-\\\hline
+\\\addlinespace
 \gTabSub{Wasser-, Elektrolyt- und Wärmehaushalt}
 &
 Kinder haben im Verhältnis zu ihrem  Körpergewicht eine
@@ -4394,7 +4454,7 @@ höherer Wasseranteil
 Austrocknung und Unterkühlung schneller  möglich!
 \\\bottomrule
 \end{tabulary}
-\end{center}
+\end{table}
 
 \subsection{Allgemeines zu Erkrankungen im Kindes- und Jugendalter}
 
@@ -4468,13 +4528,15 @@ z.B. Nahrungsmittel, Spielzeug o.ä.}
 
 \subsubsection{Laryngitis}
 
-Dabei handelt es sich um eine Entzündung des Kehlkopfes. Es können auch die oberen Atemwege mittels Anschwellung der Schleimhäute behindert sein (Pseudokrupp/Kruppsyndrom). Diese Infektion wird durch Viren verursacht.
+Dabei handelt es sich um eine Entzündung des Kehlkopfes. Es können auch die
+oberen Atemwege durch das Anschwellen der Schleimhäute behindert sein
+(Pseudokrupp/Kruppsyndrom). Diese Infektion wird durch Viren verursacht.
 
 \paragraph{Symptome:}
 
 \begin{itemize}
     \item Pfeifendes Geräusch beim Einatmen
-    \gZ{[inspiratorischer Stridor)}
+    \gZ{inspiratorischer Stridor)}
     \item trockener, bellender Husten
     \item Heiserkeit
     \item Dyspnoe
@@ -4494,8 +4556,10 @@ Dabei handelt es sich um eine Entzündung des Kehlkopfes. Es können auch die ob
 
 \subsubsection{Epiglottitis}
 
-Dabei handelt es sich um eine bakterielle Entzündung und daraus  folgende Schwellung des
-Kehldeckels. Sie kommt eher selten vor, kann aber eventuell lebensbedrohlich werden. Die Epiglottitis ist eine schwere Erkrankung, mit richtiger  Behandlung besteht aber meist eine gute Prognose.
+Dabei handelt es sich um eine bakterielle Entzündung und daraus  folgende
+Schwellung des Kehldeckels. Sie kommt eher selten vor, kann aber eventuell
+lebensbedrohlich werden. Die Epiglottitis ist eine schwere Erkrankung, mit
+richtiger  Behandlung besteht aber meist eine gute Prognose.
 
 \paragraph{Symptome}
 
@@ -4520,11 +4584,13 @@ Kehldeckels. Sie kommt eher selten vor, kann aber eventuell lebensbedrohlich wer
  
 Die Unterscheidung beider Krankheiten kann auch für den erfahrenen Sanitäter schwer sein. Darum hier eine Gegenüberstellung der Differenzialdiagnosen Laryngitis (Kruppsymdrom) und Epiglottitis
 
- \begin{center}
-\begin{tabulary}{12cm}{LL}\toprule
-\gEs{Laryngitis}
+\begin{table}[H]
+\gCaptionof{table}{Gegenüberstellung Laryngitis vs. Epiglottitis}
+
+\begin{tabulary}{12cm}{LL}\addlinespace
+\gTabHeading{Laryngitis}
 &
-\gEs{Epiglottitis}
+\gTabHeading{Epiglottitis}
 \\\midrule
 wenig bedrohlich
 &
@@ -4547,7 +4613,7 @@ Kind schreit; weint evt.
 sehr leise, verfällt zusehends
 \\\bottomrule
 \end{tabulary}
-\end{center}
+\end{table}
  
  
 \subsubsection{SIDS -- Sudden Infant Death Syndrome -- Plötzlicher Kindstod}
@@ -4569,12 +4635,23 @@ sehr leise, verfällt zusehends
 \end{itemize}
 
 \gMassnahmen{
+\paragraph{Spezielle Maßnhamen}~
 
 \begin{itemize}
 	\item Reanimation
-	\item Eltern beruhigen; Ihnen das Gefühl geben,  dass sie alles für
-ihr Kind getan haben (sonst:  Schuldgefühle)
-	\item Zwilling unbedingt hospitalisieren
+	\item Betreuung der Angehörigen. Den Eltern muss das Gefühl
+	gegeben werden, dass sie alles für ihr Kind getan haben. Ein solcher
+	Unglücksfall tritt schicksalshaft auf und wäre nicht abwendbar gewesen. 
+	\item In jedem Fall nimmt die Kriminalpolizei Ermittlungen auf. Darauf müssen
+	die Eltern vorbereitet werden. 
+	\item Betreuung für die Angehörigen organisieren
+	(Kriseninterventionsdienst\opt{REGVIE}{\footnote{In Wien ist die
+	\gE{Akutbetreuung Wien} der Stadt Wien zuständig. Sie kann über die
+	Leitstelle angefordert werden.}})
+	\item Zwillingsgeschwister unbedingt hospitalisieren.
+	\item Einsatznachbesprechung und eigene Psychohygiene. Derartige Einsätze
+	können -- auch für erfahrenes Fachpersonal -- sehr belastend sein. 
+	\opt{ORGASBFLO}{\item \ASBFLO{} Meldung an Gesamteinsatzleiter.} 
 \end{itemize}
 
 }
@@ -4627,7 +4704,7 @@ wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben (und bei
 eintreffen eventuell schon von den Eltern gegeben). 
 
 \gMassnahmen{
-    \paragraph{Spezielle Maßnahmen bei Krampfanfällen im Kindesalter}
+    \paragraph{Spezielle Maßnahmen bei Krampfanfällen im Kindesalter}~
     
     Die Behandlung erfolgt grundsätzlich wie beim Erwachsenen, siehe
     \ref{topic:zerebrale-krampfanfaelle}.
@@ -4677,7 +4754,7 @@ besteht in:
     Verdacht auf eine Misshandlung besteht und die Erziehungsberechtigten unkooperativ sind notfalls auch die Exekutive beiziehen.
 \end{enumerate}
 
-Jedenfalls zu unterlassen sind:
+Jedenfalls zu \underline{unterlassen} sind:
 
 \begin{itemize}
     \item Voreilige Verdachtsäußerungen. \gZ{Nicht alles was stinkt ist ein
@@ -5131,7 +5208,9 @@ fremdgefährdende} Patient}
 % {\mdseries
 % früher: {\quotedblbase}Parere{\textquotedblleft}}
 
-Die \index{Unterbringung}Unterbringung wird durch das
+\begin{wrapfigure}{r}{3cm}
+\includegraphics[width=\linewidth]{./images/shared/mann_mit_pistole.jpg}
+\end{wrapfigure}Die \index{Unterbringung}Unterbringung wird durch das
 \index{Unterbringungsgesetz}Unterbringungsgesetz geregelt. Auszug:
 
 {\S} 3. In einer Anstalt darf nur untergebracht werden, wer
@@ -5608,7 +5687,6 @@ Atmung.}{
 }
 
 
-\begin{minipage}{\linewidth}
 \subsection{Sonnenstich}
 
 \gDefinition{Hitzeschaden durch Hirnerwärmung infolge von
@@ -5630,28 +5708,23 @@ Kopfschmerzen, Schwindel und Übelkeit, auch Unruhe,
 Verwirrtheitszustände und Nackensteifigkeit sind zu
 beobachten. In schweren Fällen kann es sogar bis zu 
 Krampfanfällen und Bewusstlosigkeit kommen.}
-{\begin{itemize}
-\item {\mdseries
-direkte  Sonneneinstrahlung auf den \textbf{ungeschützten 
-Kopf}${\rightarrow}$ Temperatur  im Gehirn  steigt  ${\rightarrow}$
-Reizung der Hirnhäute  ${\rightarrow}$ Symptome wie bei 
-Hirnhautentzündung (Meningitis) bzw.  neurologische Symptome durch 
-Schwellung des ganzen Gehirnes}
-\item {\mdseries
-Kann kombiniert mit anderen Hitzeschäden auftreten}
-\item {\mdseries
-Gesichts- u. Kopfhaut hochrot u. heiß, restlicher Körper kühl}
-\item {\mdseries
-Abgeschlagenheit, heftiger Kopfschmerz, Schwindel}
-\item {\mdseries
-Unruhe,Verwirrtheitszustände, Brechreiz}
-\item {\mdseries
-Nackensteifigkeit}
-\item {\mdseries
-Schwere Fälle: Krampfanfälle, Bewusstlosigkeit}
-\end{itemize}}
+{
+\begin{itemize}
+    \item direkte  Sonneneinstrahlung auf den \textbf{ungeschützten
+    Kopf}${\rightarrow}$ Temperatur  im Gehirn  steigt  ${\rightarrow}$
+    Reizung der Hirnhäute  ${\rightarrow}$ Symptome wie bei
+    Hirnhautentzündung (Meningitis) bzw.  neurologische Symptome durch
+    Schwellung des ganzen Gehirnes
+    \item Kann kombiniert mit anderen Hitzeschäden auftreten
+    \item Gesichts- u. Kopfhaut hochrot u. heiß, restlicher Körper kühl
+    \item Abgeschlagenheit, heftiger Kopfschmerz, Schwindel
+    \item Unruhe,Verwirrtheitszustände, Brechreiz
+    \item Nackensteifigkeit
+    \item Schwere Fälle: Krampfanfälle, Bewusstlosigkeit
+\end{itemize}
+}
 
-\end{minipage}
+
 
 
 
@@ -5674,47 +5747,56 @@ Schwere Fälle: Krampfanfälle, Bewusstlosigkeit}
 
 
 
-\clearpage
+%\clearpage
 \section{Unterkühlung}
 
-Ähnlich wie beim Schock kommt es auch  bei der Unterkühlung zur
-Zentralisation  des Blutes, um die  Körperkerntemperatur aufrecht
+\begin{wrapfigure}{r}{4cm}
+\includegraphics[width=4cm]{./images/teaser/huette_winter_mariazell.jpg}
+\end{wrapfigure}
+Ähnlich
+wie beim Schock kommt es auch  bei der Unterkühlung zur Zentralisation  des Blutes, um die  Körperkerntemperatur aufrecht
 erhalten  zu können. Je niedriger diese  Kerntemperatur jedoch sinkt,
 desto  schwerwiegender sind die Folgen!
+
+Es besteht die Gefahr dass kaltes Blut aus der Peripherie zum Körper hin fließt
+und sich mit dem noch relativ warmen zentralisierten Blut vermischt. Es kommt
+dann zu einer weiteren Unterkühlung des Körperstammes, im schlimmsstem Fall zu
+einem \gT{Bergungstod} (Blutfluß in Folge von Bewegungen während des
+Bergungsversuches).
 
 \paragraph{Phasen}
 
 \begin{itemize}
-\item {\mdseries
-\gT{Kampfphase}:  36,5{\textdegree}-34{\textdegree}C,
-Kältezittern, Herzfrequenz steigt ({\textgreater}100
-Schläge/Minute), schnelle Atmung, Schmerzen}
-
-\item {\mdseries
-\gT{Erschöpfungsphase}:
-34{\textdegree}-30{\textdegree}C, Bewusstseinstrübung, Kältestarre,
-Herzfrequenz sinkt wieder ({\textless}60/min), zu langsame Atmung,
-keine Schmerzen mehr}
-
-\item {\mdseries
-\gT{Kältenarkose}: 30{\textdegree}-27{\textdegree}C,
-Bewusstlosigkeit, unregelmäßiger Herzschlag, Atempausen}
-
-\item {\mdseries
-{\textless}27{\textdegree}C ${\rightarrow}$ klinisch tot}
+    \item \gT{Kampfphase}:  36,5{\textdegree}-34{\textcelsius},
+    Kältezittern, Herzfrequenz steigt ({\textgreater}\,100\,/\,min), schnelle
+    Atmung, Schmerzen
+    
+    \item \gT{Erschöpfungsphase}:
+    34{\textdegree}-30{\textcelsius}, Bewusstseinstrübung, Kältestarre,
+    Herzfrequenz sinkt wieder ({\textless}\,60\,/\,min), zu langsame Atmung,
+    keine Schmerzen mehr
+    
+    \item \gT{Kältenarkose}: 30{\textdegree}-27{\textcelsius},
+    Bewusstlosigkeit, unregelmäßiger Herzschlag, Atempausen
+    
+    \item {\textless}\,27\,{\textcelsius} ${\rightarrow}$ klinisch tot
 
 \end{itemize}
 
 
 \gMassnahmen{
-\paragraph{Maßnahmen}
+\paragraph{Spezielle Maßnahmen bei schwerer Unterkühlung
+(\textless\,34\textcelsius)}~
 
 \begin{itemize}
-    \item nur soviel wie UNBEDINGT nötig ist,  bewegen (BERGUNGSTOD)
-    \item Schutz vor weiterer Abkühlung, KEINE AKTIVE ERWÄRMUNG!
+    \item \gTxMassVit
+    \item Den Patient so wenig als möglich (nur soviel wie unbedingt nötig) 
+   bewegen (drohender Bergungstod).
+    \item Schutz vor weiterer Abkühlung, \gCa{keine \underbar{aktive}
+    Erwärmung!}
+    \begin{itemize}
     \item Woll- + Aludecken! Mütze!
-    \item ev. Wiederbelebungsmaßnahmen
-    \item Notarzt !
+    \end{itemize}
 \end{itemize}
 }
 
@@ -5868,8 +5950,8 @@ bezüglich des weiteren Vorgehens
 
 \subsection{Vergiftungen mit Alkohol}
 
-Die Vergiftung mit Alkohol ist häufig anzutreffen, weil
-"`sozial akzeptiert"'. Wenn der Betroffene "`über's Ziel
+\gMargin{\includegraphics[width=\linewidth]{./images/TAE/dif-w2-zelt-1.jpg}}Die
+Vergiftung mit Alkohol ist häufig anzutreffen, weil "`sozial akzeptiert"'. Wenn der Betroffene "`über's Ziel
 hinaus schießt"' kann es schnell zu lebensbedrohlichen
 Zuständen kommen. 
 
@@ -5963,6 +6045,9 @@ Der Alkoholentzug und das Entzugsdelir wird unter
 
 \subsection{Vergiftungen durch Medikamente}
 
+\begin{wrapfigure}{r}{4cm}
+\includegraphics[width=\linewidth]{./images/teaser/imgp0482.jpg}
+\end{wrapfigure}
 Überdosierungen von Medikamenten können komplett
 unterschiedliche Symptome erzeugen, je nach eingenommenen
 Medikament. Manchmal können die Symptome sogar erst Stunden
@@ -6216,11 +6301,11 @@ Stickgas-Vergiftungen
 \gMarried{
 \includegraphics[width=\linewidth]{./images/2006-01-31-gaswienheute2.png}
 }{
-\captionof{figure}{\gAuthNotesPicLegalOk{Gas Wien Heute
+\gCaptionof{figure}{\gAuthNotesPicLegalOk{Gas Wien Heute
 Homepage}{OK, wenn richtig titriert}\ce{CO}-Vergiftung.
 Regelmäßig kommt es zu Unfällen durch defekte Gasthermen
 oder Heizlüfter. Bei diesem Einsatz war ein RTW des ASB
-Floridsdorf-Doanustadt beteiligt. Die dritte Patientin
+Floridsdorf-Donaustadt beteiligt. Die dritte Patientin
 wurde erst \gEs{nachdem die Feuerwehr \gE{sämtliche} (!)
 Wohnungen des Wohnhauses aufgebrochen hatte} in der
 \gE{darüberliegenden Wohnung} gefunden.
@@ -6439,18 +6524,18 @@ schaumbildenden Substanzen}~
 
 
 
-
-
-\subsection{\gZ{Reserviert}\gA{Vergiftungen mit
-Insektiziden}}
-% TODO Vergiftungen mit Insektiziden
-
-\subsection{\gZ{Reserviert}\gA{Vergiftungen durch giftige
-Tiere}}
-% TODO Vergiftungen durch giftige Tiere
-
-
-
+% 
+% 
+% \subsection{\gZ{Reserviert}\gA{Vergiftungen mit
+% Insektiziden}}
+% % TODO Vergiftungen mit Insektiziden
+% 
+% \subsection{\gZ{Reserviert}\gA{Vergiftungen durch giftige
+% Tiere}}
+% % TODO Vergiftungen durch giftige Tiere
+% 
+% 
+% 
 
 
 
@@ -6536,7 +6621,7 @@ Tiere}}
 \nocite{AnCompact3}
 
 
-
+\clearpage
 \gChapterBibliography 
 
 %\bibliographystyle{unsrtdin2}{\scriptsize \bibliography{Literatur-AAS}}

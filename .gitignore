@@ -9,6 +9,7 @@
 *.ind
 *.log
 *.lof
+*.lot
 *.maf
 *.mtc
 *.mtc*

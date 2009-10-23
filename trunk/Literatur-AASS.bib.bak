@@ -352,10 +352,7 @@
   author = {Aram V Chobanian and George L Bakris and Henry R Black and William
 	C Cushman and Lee A Green and Joseph L Izzo and Daniel W Jones and
 	Barry J Materson and Suzanne Oparil and Jackson T Wright and Edward
-	J Roccella and National Heart, Lung, and Blood Institute Joint National
-	Committee on Prevention, DetectionEvaluation, and Treatment of High
-	Blood Pressure and National High Blood Pressure Education Program
-	Coordinating Committee},
+	J Roccella and et.al.},
   title = {The Seventh Report of the Joint National Committee on Prevention,
 	Detection, Evaluation, and Treatment of High Blood Pressure: the
 	JNC 7 report.},
@@ -1726,6 +1723,20 @@
   url = {http://www.bmj.com}
 }
 
+@BOOKLET{Strauss0000,
+  title = {Influenza in Österreich – Epidemiologie und Durchimpfungsraten},
+  author = {Reinhild Strauss and Gerhard Fülöp},
+  howpublished = {Homepage des österreichischen Bundesministeriums für Gesundheit und
+	Frauen (BMGF)},
+  lastchecked = {2009-09-23},
+  file = {:home/grissu/Workspace/eclipse-workspace/aass/trunk/Literatur/Strauss0000.pdf:PDF},
+  language = {german},
+  owner = {grissu},
+  publisher = {Bundesministeriums für Gesundheit und Frauen},
+  timestamp = {2009.09.23},
+  url = {http://www.bmg.gv.at/cms/site/attachments/7/9/0/CH0742/CMS1075899626901/influenza-epidemiologie_bmgf.pdf}
+}
+
 @BOOK{StriebelAn7,
   title = {An\"asthesie Intensivmedizin Notfallmedizin - F\"ur Studium und Ausbildung},
   publisher = {Schattauer},
@@ -1801,7 +1812,7 @@
   url = {http://dx.doi.org/10.1055/s-0029-1220252}
 }
 
-@ARTICLE{Team2009,
+@ARTICLE{H1N1InvTeam2009,
   author = {Novel Swine-Origin Influenza A (H1N1) Virus Investigation Team and
 	Fatimah S Dawood and Seema Jain and Lyn Finelli and Michael W Shaw
 	and Stephen Lindstrom and Rebecca J Garten and Larisa V Gubareva
@@ -1813,7 +1824,6 @@
   pages = {2605--2615},
   number = {25},
   month = {Jun},
-  __markedentry = {[grissu]},
   abstract = {BACKGROUND: On April 15 and April 17, 2009, novel swine-origin influenza
 	A (H1N1) virus (S-OIV) was identified in specimens obtained from
 	two epidemiologically unlinked patients in the United States. The
@@ -2076,6 +2086,18 @@
   timestamp = {2009.07.28}
 }
 
+@MISC{wikiSpanischeGrippe,
+  author = {Wikipedia},
+  title = {Spanische Grippe --- Wikipedia{,} Die freie Enzyklopädie},
+  year = {2009},
+  note = {[Online; Stand 23. September 2009]},
+  __markedentry = {[grissu]},
+  language = {german},
+  owner = {grissu},
+  timestamp = {2009.09.23},
+  url = {http://de.wikipedia.org/w/index.php?title=Spanische_Grippe&oldid=64643993}
+}
+
 @ARTICLE{Wolf2009,
   author = {T. Wolf and H-R. Brodt},
   title = {[The "swine flu" influenza A/H1N1 - pandemia on trial]},
@@ -2251,6 +2273,7 @@
   language = {german},
   howpublished = {Website},
   url = {http://www.mrsa-net.org/},
+  __markedentry = {[grissu]},
   owner = {grissu},
   timestamp = {2009.09.22}
 }

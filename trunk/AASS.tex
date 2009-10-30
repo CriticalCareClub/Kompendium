@@ -1,10 +1,10 @@
-\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,draft=no,parskip=half,noonelinecaption]{scrbook}
+\documentclass[ngerman,paper=a4,fontsize=9pt,headings=big,draft=no,parskip=half,noonelinecaption]{scrbook}
 
 % UTF-8 Schriftkodierung
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
-\usepackage[final]{graphicx} % Bilder-Support
+\usepackage[draft]{graphicx} % Bilder-Support
 % \usepackage{showidx} % shows index entries on page margin
 % \usepackage{showkeys}
 
@@ -85,7 +85,7 @@
 
 % watches margin paragraphs and
 % gives warnings
-\usepackage{mparhack} 
+%\usepackage{mparhack} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Textauszeichnungen
@@ -108,27 +108,50 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Seitenlayout
-\usepackage{geometry}
-\usepackage{layout,calc}
-\usepackage[strict]{changepage}
-%\usepackage{gmeometric}
-\geometry{verbose,
+\usepackage
+[verbose,
 a4paper,
-% tmargin=1cm,
-% bmargin=1cm,
-% lmargin=1cm,
-% rmargin=1cm,
-outer  = 56mm,
-inner  = 25mm,
+asymmetric,
+% reversemp,
+% includemp,
+% tmargin=25mm,
+% bmargin=20mm,
+lmargin=10mm,
+rmargin=67mm,
+% outer  = 56mm,
+% inner  = 56mm,
 top    = 25mm,
 bottom = 20mm,
-marginparwidth = 40mm,
+% hmarginratio=2:1,
+marginparwidth = 60mm,
 % headheight=0.5cm,
 % headsep=0.5cm,
 footskip = 10mm,
 % includehead,
-% includemp
-}
+bindingoffset=1.5cm]
+{geometry}
+\usepackage{layout,calc}
+\usepackage[strict]{changepage}
+%\usepackage{gmeometric}
+% \geometry{verbose,
+% a4paper,
+% asymmetric,
+% % tmargin=25mm,
+% % bmargin=20mm,
+% % lmargin=56mm,
+% % rmargin=56mm,
+% % outer  = 56mm,
+% % inner  = 56mm,
+% % top    = 25mm,
+% % bottom = 20mm,
+% marginparwidth = 40mm,
+% % headheight=0.5cm,
+% % headsep=0.5cm,
+% footskip = 10mm,
+% % includehead,
+% includemp,
+% bindingoffset=1.5cm
+% }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Pargragraphensatzregeln
@@ -213,29 +236,29 @@ footskip = 10mm,
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Kopf- und Fußzeilen
-\usepackage{fancyhdr}
-\pagestyle{fancy} 
-\fancyheadoffset[RO,LE]{\marginparsep+\marginparwidth}
-\fancyfootoffset[RO,LE]{\marginparsep+\marginparwidth}
-\fancyhead[LE,RO]{\thepage} 
-%\fancyhead[LO]{}
-\fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
-\fancyhead[RE]{\gEs{\gAuthNotes{ --- \today -- ENTWURF --- }}}
-\fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---}}}
-\fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
-
-
-% % %%% DRAFT %%%
-% \fancyfoot[CE,CO]{{\color{red}\ttfamily\small
-% ENTWICKLUNGSVERSION -- {\tiny
-% Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny
-% Letztes Commit: }\input{./tmp/git-lastcommit.tmp}}}
-
-%% FINAL %%%
-\fancyfoot[CE,CO]{\gEs{{\itshape {\gDocVersionTyp} -- Nur für den internen Gebrauch!}}}
-\fancyfoot[LE]{{\AASS{}~ \itshape v.\,\gDocVersion}}
-\fancyfoot[RO]{{\AASS{}~ \itshape v.\gDocVersion}}
-%
+% \usepackage{fancyhdr}
+% \pagestyle{fancy} 
+% \fancyheadoffset[RO,LE]{\marginparsep+\marginparwidth}
+% \fancyfootoffset[RO,LE]{\marginparsep+\marginparwidth}
+% \fancyhead[LE,RO]{\thepage} 
+% %\fancyhead[LO]{}
+% \fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
+% \fancyhead[RE]{\gEs{\gAuthNotes{ --- \today -- ENTWURF --- }}}
+% \fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---}}}
+% \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
+% 
+% 
+% % % %%% DRAFT %%%
+% % \fancyfoot[CE,CO]{{\color{red}\ttfamily\small
+% % ENTWICKLUNGSVERSION -- {\tiny
+% % Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny
+% % Letztes Commit: }\input{./tmp/git-lastcommit.tmp}}}
+% 
+% %% FINAL %%%
+% \fancyfoot[CE,CO]{\gEs{{\itshape {\gDocVersionTyp} -- Nur für den internen Gebrauch!}}}
+% \fancyfoot[LE]{{\AASS{}~ \itshape v.\,\gDocVersion}}
+% \fancyfoot[RO]{{\AASS{}~ \itshape v.\gDocVersion}}
+% %
 
 
 
@@ -386,7 +409,7 @@ Christof Koller, Michael Withofner u.a.}}}
 
 %\nocite{*} 
 
-%\layout
+\layout
 
 % \paragraph*{Mission Statement} \textperiodcentered Das Ausbildungszentrum (ABZ) ist
 % eine Dienst\-leistungs\-ein\-richtung des ASB Floridsdorf-Donau\-stadt

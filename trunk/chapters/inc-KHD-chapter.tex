@@ -612,33 +612,43 @@ Nur wenn keine Gefahrenzone und genügend Personal/Zeit vorhanden ist!
 
 \gMarried{
 \begin{itemize}
+        \item Zentrale Registrierung aller Patienten mittels Patientenleitsystem
+    (PLS)
+        \item Zuordnung der Patienten zu Triagegruppen
+    \begin{description}
+        \item[\gCode{I~~}] Sofortbehandlung, lebensrettende Noteingriffe
+        \item[\gCode{II~}] Dringende Behandlung, Schwerverletzte
+        \item[\gCode{III}] Minimalbehandlung
+        \item[\gCode{IV~}] Abwartende Behandlung
+    \end{description}
     \item Bei Missverhältnis zwischen der Zahl der Betroffenen und den
     Be\-handlungs\-möglich\-keiten
-    \item Schnell, mit geringem Aufwand
-    \item Hoher Zeitdruck
-    \item Keine detaillierte Diagnostik möglich
-    \item Triage ist dynamischer Vorgang
-    \item Ständige Nachtriage ist erforderlich
-    \item Maximaler Zeitaufwand pro Patient gesamt:
+    \item Schnell, mit geringem Aufwand, hoher Zeitdruck
+
+  Maximaler Zeitaufwand pro Patient gesamt:
     \begin{itemize}
         \item Gehender 1 Minute
         \item Liegender 3 Minuten
-    \end{itemize}
-    \item Zentrale Registrierung aller Patienten mittels Patientenleitsystem
-    (PLS)
-    \item Zuordnung der Patienten zu Triagegruppen
-    \begin{itemize}
-        \item T1: Sofortbehandlung, lebensrettende Noteingriffe
-        \item T2: Dringende Behandlung, Schwerverletzte
-        \item T3: Minimalbehandlung
-        \item T4: Abwartende Behandlung
-    \end{itemize}
+    \end{itemize}    
+    \item Keine detaillierte Diagnostik möglich
 \end{itemize}
 }{
 \begin{center}
 \includegraphics[width=2.cm]{./images/noauth/sanhist-triage.png}
 \end{center}
 }
+
+Die Zuordnung zu einer Triagegruppe kann sich im Verlauf verändern,
+    eine ständige Nachtriage ist erforderlich! Änderungen ergeben sich besonders
+    durch:
+
+\begin{enumerate}
+    \item \gMargin{z.B. I → II}Verschlechterung des Patientenzustandes.
+    \item \gMargin{z.B. III →
+    I}Verbesserung des Patientenzustandes (Behandlung).
+    \item \gMargin{z.B. IV → I}Verbesserung / Verschlechterung der Versorgung mit Personal, Material
+    und Transportmittel.
+\end{enumerate}
 
 \gMarried
 {Zwei Triageplätze, damit der NA abwechselnd
@@ -699,6 +709,8 @@ T3 Warten Leichtverletzte
 T4 Warten Schwerverletzte
 \\\bottomrule
 \end{tabulary}
+
+
 
 
 \subsubsection{I -- Sofortbehandlung vor Ort}
@@ -797,7 +809,7 @@ Ma{\ss}nahmen
 \begin{itemize}
     \item \"Uberprüfung der Triage
     \item pflegerische Ma{\ss}nahmen
-    \item Betreuung (KIT Team)
+    \item Betreuung (Kriseninterventionsteam (\gAbk{KIT})
     \item Entlassung ambulant Behandelter zur SaStU
 \end{itemize}
 &
@@ -819,7 +831,7 @@ Welche Patienten?
 
 \begin{itemize}
     \item schweres Polytrauma
-    \item schwerstes SHT
+    \item schwerstes \gAbk{SHT}
     \item offene Körperhöhlentraumen
     \item Mehrhöhlenverletzungen
     \item Verbrennungen über 50\%
@@ -830,7 +842,7 @@ Ma{\ss}nahmen
 \begin{itemize}
     \item \"Uberprüfung der Triage
     \item Behandlung  (Schmerzbekämpfung)
-    \item Psychologische Betreuung, evt. durch KIT
+    \item Psychologische Betreuung, evt. durch \gAbk{KIT}
     \item \"Uberwachung
 \end{itemize}
  &
@@ -882,9 +894,9 @@ Einbahnregelung!
 
 \gMarried{
 \begin{itemize}
-    \item Gro{\ss} genug
-    \item Schrägparkordnung
-    \item Sortiert nach NAW, RTW usw.
+    \item Groß genug
+    \item Schrägparkordnung, freies Heck zum Ent-/Beladen
+    \item Sortiert nach Einsatzmittel (\gAbk{NAW}, \gAbk{RTW}, \ldots)
     \item Schlüssel stecken lassen
 \end{itemize}
 }{
@@ -894,16 +906,19 @@ Einbahnregelung!
 }
 
 
+Der Wagenhalteplatz muss \gEs{frühzeitig} bestimmt werden, da weitere Kräfte
+rasch nachfolgen werden. Er sollte sich in ausreichender \gEs{Entfernung} festgelegt
+werden um den späteren Aufbau der weiteren SanHiSt nicht zu behindern. Bedenke:
+Triage- und Behandlungsraum (und die Verladestelle) brauchen viel Platz!
 
 
 
 
 
-
- Falscher Wagenhalteplatz
-
-
-Warning: Image ignored
+%  Falscher Wagenhalteplatz
+% 
+% 
+% Warning: Image ignored
 % Unhandled or unsupported graphics:
 %\includegraphics[width=3.375cm,height=2.438cm]{AASdev20090228-img129}
 
@@ -914,10 +929,10 @@ Warning: Image ignored
 
 \gMarried{
 \begin{itemize}
-    \item Die allgemeinen Vorschriften für Hubschrauberlandeplätze sind     zu beachten
+    \item Die allgemeinen Vorschriften für Hubschrauberlandeplätze sind zu beachten
     \item Freie ebene Fläche
-    \item Auf Stromleitungen achten
-    \item Weit genug weg vom Behandlungsraum
+    \item Sichere Umgebung (Stromleitungen!)
+    \item Weit genug weg vom Behandlungsraum (Luftwirbel!)
 \end{itemize}
 }{
 ~
@@ -928,7 +943,7 @@ Warning: Image ignored
 
 
 
-\paragraph{Transport\-management}~
+\subsubsection{Exkurs: Transportmanagement}~
 
 \gMarried{
 \begin{itemize}
@@ -957,7 +972,7 @@ Ziel: Betreuung Unverletzter und Betroffener
     \item Betreuen
     \item Beruhigen
     \item Informieren
-    \item KIT Teams\footnote{In Wien ist die Akutbetreuung Wien (ABW)
+    \item \gAbk{KIT}\footnote{In Wien ist die Akutbetreuung Wien (\gAbk{ABW})
     zuständig.} integrieren
 \end{itemize}
 }{
@@ -1007,13 +1022,13 @@ und der Au{\ss}en\-welt
 
 \gMarried{
 \begin{itemize}
-    \item Die MLS beherbergt i.d.R. die Ein\-satz\-leitung sowie wichtige
+    \item Die \gAbk{MLS} beherbergt i.d.R. die Ein\-satz\-leitung sowie wichtige
     Administrations-, Tele\-kom\-munikations- und Funkeinrichtungen.
     \item Bei Bedarf werden u.U. hier Handfunkgeräte an die Bereichsleiter
     ausgegeben.
     \item MLS ist die Brücke zwischen verschiedenen Funkkanälen und
     zuständig.
-    \item Wenn die MLS die Einsatzleitung beinhaltet wird sie mit einem
+    \item Wenn die  die Einsatzleitung beinhaltet wird sie mit einem
     rotem Dreh- oder Blinklicht markiert.
 \end{itemize}
 }{
@@ -1028,44 +1043,51 @@ und der Au{\ss}en\-welt
 \subsection{Führungsstruktur in der SanHist}
 
 \begin{center}
-\begin{supertabular}{m{2.cm}m{4.5cm}|m{2cm}m{4.5cm}}
+\begin{supertabular}{m{1.8cm}m{4.5cm}|m{1.8cm}m{4.5cm}}
 \includegraphics[width=1.654cm,height=1.624cm]{./images/noauth/sanhist-einsatzleiter.png}
- &
-Einsatzleiter Rettungsdienst
- &
+&
+\gEs{Einsatzleiter} (Rettungsdienst) 
+
+Er ist der Vorgesetzte für die
+eingesetzten Sanitäter und sonstigen Hilfskräfte. Er hat \gE{keine} direkte
+Wiesungsbefungnis gegenüber anderen engesetzten Organisationen. Er kann Ärzten
+\gE{keine Weisungen in medizinischen Fragen} geben. 
+&
 % Unhandled or unsupported graphics:
 \includegraphics[width=1.62cm,height=1.62cm]{./images/noauth/sanhist-material-meldestelle.png}
- &
-Leiter Material-/Meldestelle
+&
+\gEs{Leiter Material-/Meldestelle}
 \\ 
 % Unhandled or unsupported graphics:
 \includegraphics[width=1.62cm,height=1.62cm]{./images/noauth/sanhist-leiter-sanhist.png}
- &
- Leiter Sanhist
- &
+&
+\gEs{Leiter Sanhist}
+&
 % Unhandled or unsupported graphics:
 \includegraphics[width=1.489cm,height=1.61cm]{./images/noauth/sanhist-behandlung.png}
- &
-Leiter Behandlung
+&
+\gEs{Leiter Behandlung}
 \\ % Unhandled or unsupported graphics:
 \includegraphics[width=1.62cm,height=1.62cm]{./images/noauth/sanhist-lna.png}
- &
-LNA Leitender Notarzt
- & 
+&
+\gEs{LNA Leitender Notarzt} 
+
+Der LNA ist der Vorgesetzte der eingesetzten Ärzte.
+& 
 % Unhandled or unsupported graphics:
 \includegraphics[width=1.62cm,height=1.62cm]{./images/noauth/sanhist-leiter-transport.png}
- &
-Leiter Transport
+&
+\gEs{Leiter Transport}
 \\ 
 % Unhandled or unsupported graphics:
 \includegraphics[width=1.62cm,height=1.62cm]{./images/noauth/sanhist-leiter-triage.png}
- &
-Leiter Triageraum/Triage
- & 
+&
+\gEs{Leiter Triageraum/Triage}
+& 
 % Unhandled or unsupported graphics:
 \includegraphics[width=1.62cm,height=1.62cm]{./images/noauth/sanhist-information.png}
- &
-Leiter Information
+&
+\gEs{Leiter Information}
 \\
 \end{supertabular}
 \end{center}
@@ -1090,17 +1112,18 @@ sicherstellen. Die PLT ist mit einer Gummischnur versehen damit sie dem
 Patienten umgehängt werden kann. 
 
 \gEs{\gE{Spätestens} an der Triagestelle} bekommt jeder Patient oder
-Betroffene {\quotedblbase}seine{\textquotedblleft} PLT. Auch Unverletzte und
-Verstrorbene werden auch mittels PLS registriert.
+Betroffene {\quotedblbase}seine{\textquotedblleft} \gAbk{PLT}. Auch Unverletzte
+und Verstorbene werden mittels \gAbk{PLS} registriert.
 
 \paragraph{Zusatzkarten}
 
 Bei einer eventuellen Bergetriage bekommt jeder Patient eine
-Patientenleittasche (PLT). Petienten, welche bevorrangt gerettet werden
-sollen erhalten zusätzlich auf die PLT die gelbe
-{\fcolorbox{Black}{Yellow}{\sffamily\bfseries DRINGEND}}\,-Karte. Tote erhalten
-eine PLT mit der schwarzen {\fcolorbox{Black}{White}{\sffamily\bfseries
-VERSTORBEN}}\,-Karte.
+Patientenleittasche (\gAbk{PLT}). Patienten, welche \gEs{bevorrangt gerettet}
+werden sollen, werden zusätzlich mit der gelben
+{\fcolorbox{Black}{Yellow}{\sffamily\bfseries DRINGEND}}\,-Karte
+gekennzeichnet. Die Karte wird auf der Triagestelle wieder entfernt. Tote
+erhalten zusätzlich zur \gAbk{PLT} eine schwarze
+{\fcolorbox{Black}{White}{\sffamily\bfseries VERSTORBEN}}\,-Karte.
 
 \paragraph{Behandlungsprotokoll / Identifikationsprotokoll}
 
@@ -1110,22 +1133,25 @@ Umständen verzögern. Die Protokolle können auch leer bleiben.
 
 \paragraph{Kontaminationsaufkleber}\index{Kontaminationsaufkleber}
 
-Wenn der Patient kontaminiert ist, wird ein Dreieck auf die PLT geklebt.
-Dies soll alle nachfolgenden Personen, welche mit dem Patienten in
-Kontakt treten, warnen.
+Wenn der Patient kontaminiert ist, wird ein Kontaminationsaufkleber in
+Form eines gelben Dreiecks mit schwarzem Rand auf die \gAbk{PLT} geklebt. Dies soll
+alle nachfolgenden Personen, welche mit dem Patienten in Kontakt treten, warnen.
 
 \paragraph{PLT-Nummer}
 
-Es erfolgt eine eindeutige \gEs{Identifizierung} der Patienten durch eine
-einmalige Nummernkennzeichnung der Patientenleittasche. Mittels
-Selbstklebenummern werden die Patienten in allen verschiedenen
-Bereichen in Listen erfasst (Triage, Behandlung, Transport). Außerdem
-können alle Effekten des Patienten damit gekennzeichnet werden.
+Die \gAbk{PLT} und damit der Patient ist durch eine \gEs{eindeutige, einmalige
+Nummer} \gEs{identifiziert}. Mittels \gEs{Selbstklebeetiketten} können die
+Nummern der Patienten in verschiedenen Listen schnell erfasst werden. Das ist
+in vielen Bereichen besonders wichtig (Triage, Behandlung, Transport). Außerdem
+können alle Effekte des Patienten damit gekennzeichnet werden.
 
 Die Patientenleittasche verbleibt solange am Patienten, \gE{bis das
 Aufnahmeverfahren im Krankenhaus abgeschlossen ist}, d.h. bis der Patient im
-Spital administrativ erfasst ist. Anschlie{\ss}end wird die PLT der
+Spital administrativ erfasst ist. Anschlie{\ss}end wird die \gAbk{PLT} der
 Krankengeschichte des Patienten beigefügt.
+
+\gFazit{Die Nummerierung der \gAbk{PLT} ermöglicht die Zuordnung und Erfassung von
+Patienten. Das ist eine der Hauptaufgaben der \gAbk{PLT}!}
 
 \gA{PLT-Fotos \ldots}
 

@@ -1,5 +1,7 @@
 \chapter{Hygiene --- \gAasRsN{RS~II}}
 
+% Hyg-Fortbildung 2009/11 Graz
+
 \emph{Maintainer: Sebastian Gabriel}
 \marginpar{\includegraphics[width=4cm]{images/AASdev20090228-img95.jpg}}
 
@@ -108,6 +110,41 @@ Giftstoffe, werden z.B. von Bakterien produziert.
 \end{tabulary}
 \end{table}
 
+\subsubsection{"`Biologische Arbeitsstoffe"'}
+
+% Risikogruppen nach VbA (Verordnung biologische Arbeitsstoffe)
+%
+% 2: Influenzaviren
+% 3: SARS, Affenpockenvirus, HIV
+% 4: Ebola, Lassa, Marburg
+
+\begin{table}{H}
+\gCaptionof{table}{Biologische Arbeitsstoffe -- Risikogruppen}
+\begin{tabulary}{\linewidth}{LL}
+\gTabHEading{Gruppe}
+&
+\gTabHeading{Bedeutung}
+\\\midrule\addlinespace
+\gTabSub{1}
+&
+
+\\\addlinespace
+\gTabSub{2}
+&
+
+\\\addlinespace
+\gTabSub{3}
+&
+
+\\\addlinespace
+\gTabSub{4}
+&
+
+\\\addlinespace\bottomrule
+\end{tabulary}
+{\footnotesize nach \S\,40 Abs. 4 Z 1 -- 4 AschG}
+\end{table}
+
 \subsubsection{Bakterien}
 
 \index{Bakterien}
@@ -213,7 +250,7 @@ Körper gelangen und eine Infektion verursachen:
 \begin{multicols}{2}
 \begin{itemize}
     \item Fäkal-oral (Schmierinfektion, z.B. Badesee)
-    \item Aerogen (Tröpfcheninfektion)
+    \item Aerogen (Tröpfcheninfektion, Aerosol)
     \item Genital (Geschlechtsverkehr)
     \item Über/durch die Haut
     \item Diaplazentär (während Schwangerschaft)
@@ -247,6 +284,7 @@ Gegenstände als "`Vehikel"' fungieren.}
 \gFazit{Kreuzinfektion: \gEs{Patient 1
 ${\rightarrow}$ \emph{Sanitäter} ${\rightarrow}$ Patient
 2}}
+
 
 
 
@@ -489,7 +527,13 @@ Organ befallen ist \gZ{(Lunge, Skelett, Darm, Haut,
 Genitalien, ...)}. Ausgangspunkt ist fast immer die \gEs{Lunge}.
 
 Die Übertragung erfolgt vor allem \gEs{aerogen}, aber unter
-Umständen auch oral, durch Hautkontakt oder plazentär.
+Umständen auch oral, durch Hautkontakt oder plazentär. 
+
+Zunehmend treten auf Antibiotika resistente Erreger auf \gZ{(MDR-TB,
+XDR-TB)}
+\footnote{Quelle: AGES}
+% TODO LIT, HYG: MDR/XDR-TB Quelle bei AGES
+.
     
 \gZ{Die Inkubationszeit beträgt 4-12 Wochen.}
 
@@ -516,12 +560,27 @@ Es ist äußerlich \gE{nicht sicher erkennbar} ob der Patient
 an einer offenen oder geschlossenen Tuberkulose leidet.
 Bluthusten wäre allerdings ein deutlich Hinweiszeichen.
 
+\gZ{
+\paragraph{Ansteckungsgefahr}
+Bei Einhaltung der Schutzmaßnahmen (s. Spezielle Maßnahmen) ist eine Ansteckung
+von sonst gesunden und immunkompetenten Personal unwahrscheinlich. Für eine
+Ansteckung  wäre ein ca. 8-stündiger Kontakt erforderlich
+\footnote{National Institute for Clinical Excellence (NICE) Tuberculosis.
+National clinical Guideline for Diagnosis, management, prevention and control
+(2006)}
+% TODO HYG, LIT: National Institute for Clinical Excellence (NICE)
+% Tuberculosis. National clinical Guideline for Diagnosis, management,
+% prevention and control (2006)
+.
+}
+
 \gMassnahmen{
 \paragraph{Spezielle Massnahmen}~
 
 \begin{itemize}
     \item Bei Verdacht auf eine offene Tuberkulose
-    Schutzmasken verwenden.
+    Schutzmasken verwenden: FFP~3 für das Personal, "`OP-Maske"' für den
+    Pateinten, wenn zumutbar.
     \item \gEs{Meldung an Leitstelle \& Betriebsleitung!}
     \item Desinfektion laut Hygieneplan.
 \end{itemize}
@@ -842,9 +901,16 @@ Das liegt schlicht daran dass er der erste war. In den letzten Jahren ist die Re
 auch bei vielen anderen Keimen zu beobachten, \gZ{Beispiele
 dafür sind die ESBL{\textquotesingle}s und VRE{\textquotesingle}s sowie der VRSA
 (Extended Spectrum Beta-Laktamase-Bildner, Vancomycin-resistente
-Enterokokken, Vancomycin-resistenter Staph. aureus)}.
-\gEs{Das Problem der multiresistenten Keime wird immer
-größer.}
+Enterokokken, Vancomycin-resistenter Staph. aureus). Auch bei der Tuberkulose
+treten mittlerweile resistente Keime auf: \gE{2008} wurden die ersten Fälle
+registriert bei denen der Keim auf mind. \gE{4} Antibiotika resistent
+war
+\opt{NIVMED}{ (\gE{XDR-TBC}. Resistenzen gegen: Isoniazid, Rifampizin,
+Fluochinolone, sowie zumindet eines der folgenden Antobiotika: Amikacin, Capreomycin, Kanamycin)}
+}\footnote{Quelle: AGES}.
+% TODO LIT, HYG: MDR/XDR-TB Quelle bei AGES
+
+\gEs{Das Problem der multiresistenten Keime wird immer größer.}
 
 \gFazit{Je wirkungsloser die Antibiotika werden desto
 wichtiger ist die Hygiene und die Vermeidung von
@@ -1375,6 +1441,62 @@ September 2007] \emph{Dtsch Med Wochenschr}, 2009, 134 Suppl
 
 Sofort in ein Unfallspital! }
 
+
+\subsection{Schutzmaßnahmen bei infektiösen Patienten}
+
+\subsubsection{Mund-/Nasenmasken}
+
+Es gibt verschiedene Arten von Schutzmasken, welche sich bezüglich ihrer
+Schutzwirkung wesentlich unterscheiden. Ein besonders wichtiges Kriterium ist 
+die minimale Größe der Partikel welche eine Maske ausfiltern kann. Darüber
+hinaus ist die Dichtigkeit zu beachten. 
+
+\paragraph{}Die Einfachste Form ist die (chirurgische) Mund-Nasen-Maske
+(\gAbk{MNM}, "`OP-Maske"'), welche für viele Situationen einen ausreichen den Schutz
+darstellt\footnote{Beim Ausbruch von \gAbk{SARS} in Honkong in 2003 konnten
+simple OP-Masken das Infektionsrisiko für das Personal auf 0 senken (das
+infizierte Personal trug entweder keine Maske oder einfache Papiermasken). 
+Seto W.H. et. al.: Lancet 2003
+% TODO LIT: Seto W.H. et. al.: Lancet 2003
+}
+.
+
+\paragraph{FFP-Masken} Es gibt je nach Partikelgröße, die ausgefiltert wird,
+verschiedene Klassen: FFP 1, FFP 2 und FFP 3. 
+% TODO HYG: FFP-Masken
+% TODO HYG: FFP-Masken Filtergrößen
+
+\begin{table}[H]
+\begin{minipage}{\linewidth}
+\gCaptionof{table}{Arten von Schutzmasken und Rückhaltevermögen.}
+\begin{tabulary}{\linewidth}{LLLL}
+\gTabHeading{Typ}
+&
+\gTabHeading{Mindestrückhaltevermögen des Filters\footnote{für
+\ce{NaCl}-Prüfaerosol} in \%}
+\footnote{Dreller S. et.al.: RdL 66 (März 2006)}
+% TODO LIT: Dreller S. et.al.: RdL 66 (März 2006)
+&
+\gTabHEading{Max. zul. Gesamtleckage\footnote{gem. DIN EN 149} in \%}
+&
+\gTabHeading{Min. Partikelgröße}
+&
+\gTabHeading{Anwendung (Beispiele)}
+\\\midrule\addlinespace
+Chir. Maske & 95\footnote{für Staphylococcus aureus} & k.A. & Basisschutz;
+MRSA, \ldots 
+\\\addlinespace
+FFP 1 & 80 & 22 &
+\\\addlinespace
+FFP 2 & 94 & 8 & Influenza
+\\\addlinespace
+FFP 3 & 99 & 9 & SARS, offene Tuberkulose
+\\\addlinespace\bottomrule
+
+\end{tabulary}
+
+\end{minipage}
+\end{table} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,0 +1,8 @@
+\gMarriedNG{}
+{
+% TODO Fließtext fehlt.
+
+}{
+% TODO Slide fehlt.
+
+}

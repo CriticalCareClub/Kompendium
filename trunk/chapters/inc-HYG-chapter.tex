@@ -118,10 +118,11 @@ Giftstoffe, werden z.B. von Bakterien produziert.
 % 3: SARS, Affenpockenvirus, HIV
 % 4: Ebola, Lassa, Marburg
 
-\begin{table}{H}
+\begin{table}[H]
 \gCaptionof{table}{Biologische Arbeitsstoffe -- Risikogruppen}
+
 \begin{tabulary}{\linewidth}{LL}
-\gTabHEading{Gruppe}
+\gTabHeading{Gruppe}
 &
 \gTabHeading{Bedeutung}
 \\\midrule\addlinespace
@@ -1452,14 +1453,13 @@ die minimale Größe der Partikel welche eine Maske ausfiltern kann. Darüber
 hinaus ist die Dichtigkeit zu beachten. 
 
 \paragraph{}Die Einfachste Form ist die (chirurgische) Mund-Nasen-Maske
-(\gAbk{MNM}, "`OP-Maske"'), welche für viele Situationen einen ausreichen den Schutz
+(\gAbk{MNM}, "`OP-Maske"'), welche für viele Situationen einen ausreichenden Schutz
 darstellt\footnote{Beim Ausbruch von \gAbk{SARS} in Honkong in 2003 konnten
 simple OP-Masken das Infektionsrisiko für das Personal auf 0 senken (das
 infizierte Personal trug entweder keine Maske oder einfache Papiermasken). 
 Seto W.H. et. al.: Lancet 2003
 % TODO LIT: Seto W.H. et. al.: Lancet 2003
-}
-.
+}.
 
 \paragraph{FFP-Masken} Es gibt je nach Partikelgröße, die ausgefiltert wird,
 verschiedene Klassen: FFP 1, FFP 2 und FFP 3. 
@@ -1469,32 +1469,31 @@ verschiedene Klassen: FFP 1, FFP 2 und FFP 3.
 \begin{table}[H]
 \begin{minipage}{\linewidth}
 \gCaptionof{table}{Arten von Schutzmasken und Rückhaltevermögen.}
-\begin{tabulary}{\linewidth}{LLLL}
+
+\begin{tabulary}{\linewidth}{LLLLL}
 \gTabHeading{Typ}
 &
-\gTabHeading{Mindestrückhaltevermögen des Filters\footnote{für
-\ce{NaCl}-Prüfaerosol} in \%}
+\gTabHeading{Mindestrückhaltevermögen des Filters}
+\footnote{für \ce{NaCl}-Prüfaerosol}
 \footnote{Dreller S. et.al.: RdL 66 (März 2006)}
 % TODO LIT: Dreller S. et.al.: RdL 66 (März 2006)
 &
-\gTabHEading{Max. zul. Gesamtleckage\footnote{gem. DIN EN 149} in \%}
+\gTabHeading{Max. zul. Gesamtleckage}\footnote{gem. DIN EN 149}
 &
 \gTabHeading{Min. Partikelgröße}
 &
 \gTabHeading{Anwendung (Beispiele)}
 \\\midrule\addlinespace
-Chir. Maske & 95\footnote{für Staphylococcus aureus} & k.A. & Basisschutz;
-MRSA, \ldots 
+\gTabSub{Chir. Maske} & 95\,\%\footnote{für Staphylococcus aureus} & k.A. & &
+Basisschutz; MRSA, \ldots 
 \\\addlinespace
-FFP 1 & 80 & 22 &
+\gTabSub{FFP 1} & 80\,\% & 22\,\% & &
 \\\addlinespace
-FFP 2 & 94 & 8 & Influenza
+\gTabSub{FFP 2} & 94\,\% & 8\,\% & & Influenza
 \\\addlinespace
-FFP 3 & 99 & 9 & SARS, offene Tuberkulose
+\gTabSub{FFP 3} & 99\,\% & 9\,\% & & SARS, offene Tuberkulose
 \\\addlinespace\bottomrule
-
 \end{tabulary}
-
 \end{minipage}
 \end{table} 
 

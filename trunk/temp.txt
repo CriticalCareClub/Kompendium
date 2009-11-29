@@ -12,7 +12,7 @@
 
 \gMarriedNG{}
 {
-% TODO MED: Fließtext fehlt!
+% TODO VIT: Fließtext fehlt!
 \gZ{\emph{Lorem ipsum brute docendi expetenda his ut, graecis detracto et nec! Possim
 fabulas complectitur ei quo, suas ornatus omnesque et mea. Velit error laoreet ex
 eum, no diceret democritum vis? Vel et unum nullam dissentiet, his dicat solet
@@ -21,7 +21,7 @@ cum no.}}
 
 }
 {
-% TODO MED: Slide fehlt!
+% TODO VIT: Slide fehlt!
 \begin{itemize}
     \item \gZ{Point}
 \end{itemize}

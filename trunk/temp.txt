@@ -6,3 +6,33 @@
 % TODO Slide fehlt.
 
 }
+
+
+
+
+\gMarriedNG{}
+{
+% TODO MED: Fließtext fehlt!
+\gZ{\emph{Lorem ipsum brute docendi expetenda his ut, graecis detracto et nec! Possim
+fabulas complectitur ei quo, suas ornatus omnesque et mea. Velit error laoreet ex
+eum, no diceret democritum vis? Vel et unum nullam dissentiet, his dicat solet
+placerat te! Ut per sanctus accusamus delicatissimi, tempor euripidis posidonium
+cum no.}}
+
+}
+{
+% TODO MED: Slide fehlt!
+\begin{itemize}
+    \item \gZ{Point}
+\end{itemize}
+
+}
+
+
+
+
+
+
+
+
+ Umformatierung und Überarbeitung für \gMarriedNG{}{}{}.

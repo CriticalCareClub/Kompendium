@@ -1202,7 +1202,10 @@ Wird zum Ruhigstellen von Wirbelsäule, Becken und Oberschenkel verwendet.
 % 
 % [F078?] Ein {\quotedblbase}guter{\textquotedblleft} Sättigungswert ist
 % keine Begründung keinen Sauerstoff zu verabreichen!
-\section{Das EKG}
+
+\section{Diagnostik und Monitoring}
+
+\subsection{Das EKG}
 
 Das Elektrokardiogramm (EKG) zeigt mittels eines entsprechenden
 Gerätes die elektrische Herzaktivität des
@@ -1231,7 +1234,7 @@ keine Aussage über die Auswurfleistung! }}
 \gFazit{Grundsatz: \gEs{Selbst ein pulsloser Patient kann ein
 {\quotedblbase}schönes{\textquotedblleft} EKG haben (allerdings nicht lange)!}}
 
-\subsection{EKG -- Ableitungen}
+\subsubsection{EKG -- Ableitungen}
 Grundsätzlich unterscheidet man zwischen den Extremitätenableitungen
 und den Brustwandableitungen. 
 
@@ -1252,8 +1255,8 @@ Es haben sich folgende Begriffe eingebürgert:
     Diagnostik das Mittel der Wahl. 
 \end{description}
 
-\subsubsection{Extremitätenableitungen}
-
+\gMarriedNG{Extremitätenableitungen}
+{
 Die Extremitätenableitungen werden mittels 4 Elektroden abgeleitet. Je
 eine Elektrode wird an den Enden der Extremitäten angebracht. Zur
 Vereinfachung können die Elektroden auch am \"Ubergang vom Rumpf zu
@@ -1265,6 +1268,18 @@ werden!
 Aus den Informationen der 4 Elektroden erzeugt das
 EKG-Gerät \gEs{6 Ableitungen} \gZ{(I, II, III, aVL, aVR
 und aVF).}
+}{
+\begin{itemize}
+    \item 4 Elektroden an den Extremitäten
+    \item (bzw. am Übergang Rumpf -- Extremitäten)
+    \item 6 Ableitungen
+\end{itemize}
+}
+
+
+
+
+
 
 \begin{center}
 \includegraphics[width=7cm]{./images/geraete/ECGcolor.png}
@@ -1278,8 +1293,8 @@ wünschenswert, Dringlichkeit: niedrig}}
 
 
 \begin{table}[H]
-\gCaptionof{table}{Farbe und Positionen der EKG-Ekeltroden für die
-Extremitätenableitung.}
+\gCaptionof{table}{Farbe und Positionen der EKG-Elektroden
+für die Extremitätenableitung.}
 
 \begin{tabular}{lll}
 \gTabHeading{Elektrode} 
@@ -1302,13 +1317,21 @@ Rechte Leiste \\\bottomrule
 \end{tabular}
 \end{table}
 
-
-\subsubsection{Brustwandableitungen}
-
+\gMarriedNG{Brustwandableitungen}
+{
 Die Brustwandableitungen werden mittels 6 Elektroden abgeleitet und
 erlauben eine genauere Zuordnung von Störungen zu der jeweiligen
 Region des Herzens. Aus den Informationen der 6 Elektroden erzeugt das
 EKG-Gerät 6 Ableitungen: \gZ{V1 -- V6}. 
+}{
+\begin{itemize}
+    \item 6 Elektroden am Brustkorb.
+    \item 6 Ableitungen
+\end{itemize}
+}
+
+
+
 
 
 \begin{table}[H]
@@ -1337,8 +1360,10 @@ V6 & 6. Zwischenrippenraum in der mittleren Achsellinie
 }
 \end{table}
 
-\section{Pulsoxymetrie}
+\subsection{Pulsoxymetrie}
 
+\gMarriedNG{Beschreibung}
+{
 Die Pulsoxymetrie dient zur nicht-invasiven Überwachung der
 Sauerstoffsättigung (Sp\ce{O2}) des arteriellen Blutes. Dies
 geschieht mittels Photorezeptoren und Infrarotlicht. Dabei
@@ -1346,20 +1371,39 @@ wird das Verhältnis der mit Sauerstoff beladenen roten
 Blutkörperchen zu den nicht beladenen bestimmt. Der
 Normalwert liegt zwischen 96\% und 99\%. Als zweiten Wert
 zeigt das Pulsoxymeter die aktuelle Pulsfrequenz an.
+}{
 
+}
+
+
+\gMarriedNG{Fehlerquellen}
+{
 Mögliche Fehlerquellen, wenn das Gerät keinen brauchbaren Wert anzeigt:
 \begin{itemize}
 	\item \ce{CO}-Vergiftungen; Das Gerät verwechselt \ce{O2} und
 	\ce{CO}-Moleküle und zeigt einen falschen hohen Wert.
 	\item Minderdurchblutung der Peripherie; Entweder durch Zentralisation beim Schock oder Unterkühlung.
 	\item Nagellack
-	\item künstliche Fingernägel
+	\item Künstliche Fingernägel
 	\item Sonneneinstrahlung von der Seite
 \end{itemize}
+}{
+
+}
+
+
 
 \gFazit{Behandle den Patienten und nicht das Gerät!}
 
 Immer
 zuerst auf den Patienten schauen (Symptome) und erst dann auf das Pulsoxymeter!
 
+\subsection{Fieberthermometer}
 
+% TODO INHALT: GER Fieberthermeter
+
+\subsection{Blutzuckermessung}
+
+
+Die Durchführung der Messung wird unter
+\gSee{topic:blutzucker-messung} besprochen.

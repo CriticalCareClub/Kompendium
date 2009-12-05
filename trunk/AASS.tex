@@ -283,23 +283,25 @@ bindingoffset=1.5cm]
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Kopf- und Fußzeilen
-% \usepackage{fancyhdr}
-% \pagestyle{fancy} 
-% \fancyheadoffset[RO,LE]{\marginparsep+\marginparwidth}
-% \fancyfootoffset[RO,LE]{\marginparsep+\marginparwidth}
-% \fancyhead[LE,RO]{\thepage} 
-% %\fancyhead[LO]{}
-% \fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
-% \fancyhead[RE]{\gEs{\gAuthNotes{ --- \today -- ENTWURF --- }}}
-% \fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---}}}
-% \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
-% 
-% 
-% % % %%% DRAFT %%%
-% % \fancyfoot[CE,CO]{{\color{red}\ttfamily\small
-% % ENTWICKLUNGSVERSION -- {\tiny
-% % Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny
-% % Letztes Commit: }\input{./tmp/git-lastcommit.tmp}}}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyheadoffset[RE,RO]{\marginparsep+\marginparwidth}
+\fancyfootoffset[RE,RO]{\marginparsep+\marginparwidth}
+\fancyhead[LE,RO]{\thepage}
+%\fancyhead[LO]{}
+\fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
+\fancyhead[RE]{\gEs{\gAuthNotes{ --- \today -- ENTWURF --- }}}
+\fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---}}}
+\fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
+
+
+% %%% DRAFT %%%
+\fancyfoot[CE,CO]{{\color{red}\ttfamily\small
+\upshape{\gDocVersionTyp} -- \gDocVersion{} \gDocVersionInfo{} -- \today{}
+% {\tiny
+% Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny
+% Letztes Commit: }\input{./tmp/git-lastcommit.tmp}
+}}
 % 
 % %% FINAL %%%
 % \fancyfoot[CE,CO]{\gEs{{\itshape {\gDocVersionTyp} -- Nur für den internen Gebrauch!}}}

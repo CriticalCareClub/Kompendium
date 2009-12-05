@@ -1,4 +1,4 @@
-\documentclass[ngerman,a4paper,fontsize=9pt,BCOR=1.5cm,headings=big,twoside=yes,draft=no]{scrreprt}
+\documentclass[ngerman,paper=a4,fontsize=9pt,headings=big,draft=no,parskip=half,noonelinecaption]{scrreprt}
 % \setlength{\voffset}{-15pt}
 % \setlength{\textheight}{720pt}
 % \setlength{\marginparwidth}{5cm}
@@ -81,29 +81,36 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Tables
 
 \usepackage{boxedminipage}
-\usepackage{geometry}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Seitenlayout
+\usepackage
+[verbose,
+a4paper,
+asymmetric,
+% reversemp,
+% includemp,
+% tmargin=25mm,
+% bmargin=20mm,
+lmargin=13mm,
+rmargin=70mm,
+% outer  = 56mm,
+% inner  = 56mm,
+top    = 25mm,
+bottom = 20mm,
+% hmarginratio=2:1,
+marginparwidth = 60mm,
+% headheight=0.5cm,
+% headsep=0.5cm,
+footskip = 10mm,
+% includehead,
+bindingoffset=1.5cm]
+{geometry}
 \usepackage{layout,calc}
 \usepackage[strict]{changepage}
 %\usepackage{gmeometric}
 
 
-\geometry{verbose,
-a4paper,
-%tmargin=1cm,
-%bmargin=1cm,
-%lmargin=1cm,
-%rmargin=1cm,
-outer=40mm,
-inner=25mm,
-top=25mm,
-bottom=20mm,
-marginparwidth=25mm,
-%headheight=0.5cm,
-%headsep=0.5cm,
-footskip=10mm,
-%includehead,
-%includemp
-}
+
 
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{5pt}
@@ -206,8 +213,8 @@ footskip=10mm,
 \usepackage{fancyhdr}
 
 \pagestyle{fancy} 
-\fancyheadoffset[RO,LE]{\marginparsep+\marginparwidth}
-\fancyfootoffset[RO,LE]{\marginparsep+\marginparwidth}
+\fancyheadoffset[RE,RO]{\marginparsep+\marginparwidth}
+\fancyfootoffset[RE,RO]{\marginparsep+\marginparwidth}
 \fancyhead[LE,RO]{\thepage} 
 %\fancyhead[LO]{}
 \fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
@@ -266,7 +273,7 @@ Entwicklungszweig:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Captions
 																% Non-floating captions
 \makeatletter
-\newcommand\captionof[1]{\def\@captype{#1}\caption}
+%\newcommand\captionof[1]{\def\@captype{#1}\caption}
 \makeatother
 \newcounter{Drawing}
 \renewcommand\theDrawing{\arabic{Drawing}}
@@ -291,7 +298,7 @@ Entwicklungszweig:
 
 
 
-\input{input-styles}
+\usepackage{aass-common}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
@@ -378,7 +385,24 @@ commentstyle=\color{Grey}, % white comments
 stringstyle=\ttfamily, % typewriter type for strings
 texcsstyle=\color{ubuntured},
 moretexcs={textcolor,itemhook},
-emph={gA,gAuthorNotes,gCa,gCave,gDefinition,gE,gEs,gfazit,gH,gMarried,gMassnahmen,gParallel,gT,gZ},emphstyle=\color{Terminus}\bfseries,
+emph={
+gA,
+gAuthorNotes,
+gCa,
+gCave,
+gDefinition,
+gE,
+gEs,
+gFazit,
+gH,
+gMarried,
+gMarriedNG,
+gMarriedLI,
+gMassnahmen,
+gParallel,
+gT,
+gZ},
+emphstyle=\color{Terminus}\bfseries,
 %directivestyle=color{Red},
 showstringspaces=false,
 %morecomment=[s][\color{SandyBrown}]{\{}{\}},
@@ -403,19 +427,20 @@ showstringspaces=false,
     0.2.0.
     \item[0.3.x] Entwicklungsversionen (aufbauend auf
     0.2.1-x), für 0.4.0 (ET 2009/09)
-\end{description}
-
-\paragraph{Geplante Versionen}~
-
-\begin{description}
-    \item[0.3.x] Entwicklungsversionen (aufbauend auf
+        \item[0.3.x] Entwicklungsversionen (aufbauend auf
     0.2.1-x), für 0.4.0 (ET 2009/09)
     \item[0.4.x] Vorabversion für ET 2009/09
     \item[0.5.x] Entwicklungsversionen (aufbauend auf
     0.4.0), für 0.6.0 (ET 2009/09)
     \item[0.6.x] Vorabversion für ET 2009/11
     \item[0.7.x] Entwicklungsversionen (aufbauend auf
-    0.6.0), für 0.8.0 (ET 2009/09)
+    0.6.0), für 0.8.0 (ET 2009/09)    \item[]
+\end{description}
+
+\paragraph{Geplante Versionen}~
+
+\begin{description}
+
     \item[0.8.x] Vorabversion für ET 2010/02
     \item[1.0.0~RC\,1] Öffentliche Vorabversion (Release
     Candidate, Review)
@@ -428,51 +453,66 @@ Abkürzung gekennzeichnet:
 
 
 \begin{tabulary}{\linewidth}{cLlL}\toprule
-Krz. & Bezeichnung & Maintainer& Pfad
+\noindent\gTabHeading{Krz.} 
+& 
+\noindent\gTabHeading{Bezeichnung} 
+& 
+\noindent\gTabHeading{Maintainer}
+& 
+\noindent\gTabHeading{Pfad}
 \\\midrule
-AAS &  \AASS{} allgemein  & & 
+\gTabSub{AAS} &  \noindent\AASS{} allgemein  & & 
 \\\addlinespace
-ANA & Anatomie & \caps{Gabriel} &
+\gTabSub{ALS} & Erweiterte Reanimation & \caps{? Kichler} &
+\gCode{trunk/chapters/inc-ALS-chapter.tex} 
+\\\addlinespace
+\gTabSub{ANA} & Anatomie & \caps{Gabriel} &
 \gCode{trunk/chapters/inc-ANA-chapter.tex} 
 \\\addlinespace
-APP & Appendix &  \caps{---} &
+\gTabSub{APP} & Appendix &  \caps{---} &
 \\\addlinespace
-BET & Betriebsinterne Regelungen &  \caps{---} &
+\gTabSub{AUU} & Anamnese und Untersuchung &  \caps{Gabriel} &
+\gCode{trunk/chapters/inc-AUU-chapter.tex} 
 \\\addlinespace
-COL &  Farbdefinitionsdatei &  \caps{---} &
+\gTabSub{BET} & Betriebsinterne Regelungen &  \caps{---} &
 \\\addlinespace
-EHI & Erste Hilfe &  \caps{Koch} &
+\gTabSub{COL} &  Farbdefinitionsdatei &  \caps{---} &
 \\\addlinespace
-EIN & Einführung in die Medizin &  \caps{Gabriel} &
+\gTabSub{EHI} & Erste Hilfe &  \caps{Koch} &
 \\\addlinespace
-GER & Gerätelehre &  \caps{Koch} &
+\gTabSub{EIN} & Einführung in die Medizin &  \caps{Gabriel} &
 \\\addlinespace
-HYG & Hygiene &  \caps{Gabriel} &
+\gTabSub{EUR} & Einsatztaktik und Rettungswesen & \caps{?? Pirker} &
+\gCode{trunk/chapters/inc-ANA-chapter.tex} 
 \\\addlinespace
-HYP &  Hyphenation (Trennungskorrekturen) &  \caps{---} &
+\gTabSub{GER} & Gerätelehre &  \caps{Koch} &
 \\\addlinespace
-INF & Autoreninformation &  \caps{Gabriel} &
+\gTabSub{HYG} & Hygiene &  \caps{Gabriel} &
 \\\addlinespace
-JUS  & Recht &  \caps{Koller} &
+\gTabSub{HYP} &  Hyphenation (Trennungskorrekturen) &  \caps{---} &
 \\\addlinespace
-KHD & Katastrophen, Großschaden, Gefahrgutunfall & 
+\gTabSub{INF} & Autoreninformation &  \caps{Gabriel} &
+\\\addlinespace
+\gTabSub{JUS}  & Recht &  \caps{Koller} &
+\\\addlinespace
+\gTabSub{KHD} & Katastrophen, Großschaden, Gefahrgutunfall & 
 \caps{Koch} & \\\addlinespace
-MED & Medizinische Erkrankungen und Notfälle & 
+\gTabSub{MED} & Medizinische Erkrankungen und Notfälle & 
 \caps{Gabriel} & 
 \\\addlinespace
-REG & Regionale Besonderheiten &  \caps{---} &
+\gTabSub{REG} & Regionale Besonderheiten &  \caps{---} &
 \\\addlinespace
-RES & Reserve &  \caps{---} &
+\gTabSub{RES} & Reserve &  \caps{---} &
 \\\addlinespace
-SAN & Angewandte Sanitätshilfe &  \caps{diverse} &
+\gTabSub{SAN} & Angewandte Sanitätshilfe &  \caps{diverse} &
 \\\addlinespace
-STY  & Stildefinitionsdatei &  \caps{---} &
+\gTabSub{STY}  & Stildefinitionsdatei &  \caps{---} &
 \\\addlinespace
-TAE & Tätigkeitsbild &  \caps{---} &
+\gTabSub{TAE} & Tätigkeitsbild &  \caps{---} &
 \\\addlinespace
-TRA & Trauma &  \caps{Emhofer} &
+\gTabSub{TRA} & Trauma &  \caps{Motal} &
 \\\addlinespace
-VIT & Vitalfunktionen &  \caps{Gabriel} &
+\gTabSub{VIT} & Vitalfunktionen &  \caps{Gabriel} &
 \\\bottomrule
 \end{tabulary}
 
@@ -562,7 +602,6 @@ Git und im Bugtracker verwenden!
 
 \section{Vokabel}
 
-\begin{multicols}{2}
 \begin{description}
     \item[Repository] \emph{} \par Als Repository wird die
     Datenbank der Versionsverwaltungssoftware bezeichnet.
@@ -596,7 +635,6 @@ Git und im Bugtracker verwenden!
     \item[Push] \emph{Versenden.} \par Beiträge werden an
     ein entferntes Repository verschickt. 
 \end{description}
-\end{multicols}
 
 
 
@@ -668,9 +706,8 @@ demonstraverunt lectores legere me lius quod ii legunt
 saepius. \gT{Claritas} est etiam processus dynamicus, qui sequitur
 \gE{mutationem} consuetudium \gE{lectorum}.
 
-\gMarried{
-
-\paragraph{Blumige Beschreibung} --- Mirum est notare quam littera
+\gMarriedNG{Paragraphenüberschrift}{
+\gE{Fließtext} -- Mirum est notare quam littera
 gothica, quam nunc putamus parum claram, anteposuerit
 litterarum formas humanitatis per seacula quarta decima et
 quinta decima. Eodem modo typi, qui nunc nobis videntur parum
@@ -687,8 +724,7 @@ illum dolore eu feugiat nulla facilisis at vero eros et
 accumsan et iusto odio dignissim qui blandit praesent
 luptatum zzril delenit augue duis dolore te feugait nulla
 facilisi.}
-{
-\gSlideHeading{Schlagworte}
+{\gE{Stichworte}
 
 \begin{itemize}
     \item Punkt 1
@@ -703,16 +739,6 @@ facilisi.}
     \item Dolor
     \item Amet
 \end{itemize}
-
-\gTabHeading{Gefahren und Komplikationen}
-
-\begin{itemize}
-    \item Littera
-    \item Littera gothica
-    \item Litterarum
-    \item Parum clar
-\end{itemize}
-
 }
 
 
@@ -829,27 +855,42 @@ Handschrift
 \\\bottomrule
 \end{tabular}
 
-\paragraph{Textstrukturierung}~
+\paragraph{Standardlayouts}~
 
+\begin{gWideParEnv}
 \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
 \gTabHeading{Befehl} & \gTabHeading{Beschreibung}
-\\\midrule
-\lstinline$\gEs{Hallo}$
-& Erklärung
-\\\addlinespace
+\\\midrule\addlinespace
 \vspace{-1\medskipamount}
 
 \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-\gMarried{
- % li. Spalte
+\gMarried
+{
+ % #1: Fliesstext
 }{
- % re. Spalte 
- % ("Folie")
+ % #2: Stichworte
 }
 \end{lstlisting}
 &
 Verheirateter Text. Die Rechte Spalte ist die Kurzfassung
 von der linken Spalte und soll in etwa einer
+Präsentations-Folie entsprechen 
+\\\addlinespace
+\vspace{-1\medskipamount}
+
+\begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+\gMarriedNG
+{
+ % #1: Ueberschrift
+}{
+ % #2: Fliesstext
+}{
+ % #3: Stichworte
+}
+\end{lstlisting}
+&
+Verheirateter Text mir Paragraphenüberschrift. Die Rechte Spalte ist die
+Kurzfassung von der linken Spalte und soll in etwa einer
 Präsentations-Folie entsprechen 
 \\\addlinespace
 \vspace{-1\medskipamount}
@@ -866,7 +907,7 @@ wie \lstinline$\gMarried$, der Inhalt von rechter und
 linker Spalte hat jedoch keinen Bezug zueinander 
 \\\bottomrule
 \end{tabular}
-
+\end{gWideParEnv}
 
 
 
@@ -905,14 +946,14 @@ gE\{\}}}
 
 \begin{description}
     \item[Syntax:] \lstinline$\gE{<text>}$
-    \item[Beschreibung:]
-    \item[Anwendung:]
-    \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] 
-    \item[Cave:]
-    
-    \item[Formatierung:]
-    \item[Beispiel:]
+%     \item[Beschreibung:]
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
 \end{description}
 
 
@@ -923,14 +964,14 @@ gEs\{\}}}
 
 \begin{description}
     \item[Syntax:] \lstinline$\gEs{<text>}$
-    \item[Beschreibung:]
-    \item[Anwendung:]
-    \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] 
-    \item[Cave:]
-
-    \item[Formatierung:]
-    \item[Beispiel:]
+%     \item[Beschreibung:]
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+% 
+%     \item[Formatierung:]
+%     \item[Beispiel:]
 \end{description}
 
 
@@ -975,14 +1016,14 @@ gZ\{\}}}
 
 \begin{description}
     \item[Syntax:] \lstinline$\gZ{<text>}$
-    \item[Beschreibung:]
-    \item[Anwendung:]
-    \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] 
-    \item[Cave:]
-
-    \item[Formatierung:]
-    \item[Beispiel:]
+%     \item[Beschreibung:]
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+% 
+%     \item[Formatierung:]
+%     \item[Beispiel:]
 \end{description}
 
 
@@ -993,15 +1034,15 @@ gCa\{\}}}
 
 \begin{description}
     \item[Syntax:] \lstinline$\gCa{<text>}$
-    \item[Beschreibung:]
+%     \item[Beschreibung:]
     \item[Anwendung:] Aussagen über eine massive Gefahr.
-    \item[Nicht anzuwenden bei:]
+%     \item[Nicht anzuwenden bei:]
     \item[Anmerkungen:] Für einen ganzen Absatz steht der
     \lstinline$\gCave{}$-Befehl zur Verfügung, er erstellt eine ganze (rot
     umrandete) Absatzbox!
-    \item[Cave:]
-
-    \item[Formatierung:]
+%     \item[Cave:]
+% 
+%     \item[Formatierung:]
     \item[Beispiel:] \gCa{Nitro kann zu einer rapiden Senkung des Blutdrucks
     führen!}
 \end{description}
@@ -1020,8 +1061,8 @@ gH\{\}}}
         \item Handschriftliche Notizen, z.B. auf Beispiel-"'Transportscheinen"'
         \item Anmelungen des "`Allwissenden Erzählers"'
     \end{enumerate}
-    \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] 
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
     \item[Cave:] Aufgrund der gewählten Schriftart kann es zu Problemen mit
     deutschen Sonderzeichen (ß, Umlaute) kommen!
     
@@ -1038,14 +1079,14 @@ ttfamily\}}}
 
 \begin{description}
     \item[Syntax:] \lstinline$\?{<text>}$
-    \item[Beschreibung:]
-    \item[Anwendung:]
-    \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] 
-    \item[Cave:]
-    
-    \item[Formatierung:]
-    \item[Beispiel:]
+%     \item[Beschreibung:]
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
 \end{description}
 
 
@@ -1064,19 +1105,177 @@ gA\{\}}}
 
 \begin{description}
     \item[Syntax:] \lstinline$\gA{<text>}$
-    \item[Beschreibung:]
-    \item[Anwendung:]
-    \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] 
-    \item[Cave:]
-    
-    \item[Formatierung:]
-    \item[Beispiel:]
+%     \item[Beschreibung:]
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
 \end{description}
 
 
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsection{Standardlayouts und "`Verheirateter Text"'}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Standardlayout 1 -- \gCode{\tbs
+gMarriedNG\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMarriedNG\{\}\{\}\{\}}}
+
+\begin{description}
+    \item[Syntax:]
+    \lstinline$\gMarriedNG{<Paragraphenueberschrift>}{<Fliesstext>}{<Stichworte>}$
+    \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung
+von der linken Spalte und soll in etwa einer
+Präsentations-Folie entsprechen    
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
+\end{description}
+
+
+
+\begin{minipage}{0.48\linewidth}
+
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+
+\end{lstlisting}
+\end{minipage}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Standardlayout 2 -- \gCode{\tbs
+gMarried\{\}}}\marginpar{\gT{\tbs gMarried\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gMarried{<text>}$
+    \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung von der linken Spalte und soll in etwa einer Präsentations-Folie entsprechen.
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
+\end{description}
+
+
+
+\begin{minipage}{0.48\linewidth}
+
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+
+\end{lstlisting}
+\end{minipage}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Standardlayout 3 -- Mit Teaser -- \gCode{\tbs
+gMarriedLIII\{\}\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMarriedLIII\{\}\{\}\{\}\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gMarried{<text>}$
+    \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung von der linken Spalte und soll in etwa einer Präsentations-Folie entsprechen.
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
+\end{description}
+
+
+
+\begin{minipage}{0.48\linewidth}
+
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+
+\end{lstlisting}
+\end{minipage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Standardlayout 4 -- Mit Bild -- \gCode{\tbs
+gMarriedLIV\{\}\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMarriedLIV\{\}\{\}\{\}\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gMarried{<text>}$
+    \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung von der linken Spalte und soll in etwa einer Präsentations-Folie entsprechen.
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
+\end{description}
+
+
+
+\begin{minipage}{0.48\linewidth}
+
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+
+\end{lstlisting}
+\end{minipage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Standardlayout 5 -- Nur Bild -- \gCode{\tbs
+gMarriedLV\{\}\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMarriedLV\{\}\{\}\{\}\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\gMarried{<text>}$
+    \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung von der linken Spalte und soll in etwa einer Präsentations-Folie entsprechen.
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
+\end{description}
+
+
+
+\begin{minipage}{0.48\linewidth}
+
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+
+\end{lstlisting}
+\end{minipage}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
@@ -1094,6 +1293,10 @@ Code
 \end{minipage}
 
 
+
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
 \subsubsection{Definitions-Box -- \gCode{\tbs gDefinition\{\}}}\marginpar{\gT{\tbs
@@ -1101,15 +1304,15 @@ gDefinition\{\}}}
 
 \begin{description}
     \item[Syntax:] \lstinline$\gDefinition{<text>}$
-    \item[Beschreibung:]
-    \item[Anwendung:] Definitionen.
-    \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] 
-    \item[Cave:]
+%     \item[Beschreibung:]
+%     \item[Anwendung:] Definitionen.
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
     
     \item[Formatierung:] Eingerückt, kursiv, grüne Schriftfarbe, beginnend mit
     "`Definition: "`
-    \item[Beispiel:]
+%     \item[Beispiel:]
 \end{description}
 
 
@@ -1132,14 +1335,14 @@ gFazit\{\}}}
 
 \begin{description}
     \item[Syntax:] \lstinline$\gFazit{<text>}$
-    \item[Beschreibung:]
-    \item[Anwendung:]
-    \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] 
-    \item[Cave:]
-    
-    \item[Formatierung:]
-    \item[Beispiel:]
+%     \item[Beschreibung:]
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
 \end{description}
 
 
@@ -1152,44 +1355,13 @@ Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
 \hspace{0.04\linewidth}
 \begin{minipage}{0.48\linewidth}
 \begin{lstlisting}
-\gFazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell
-hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine enstprechende
-Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
+\gFazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine enstprechende  Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
 \end{lstlisting}
 \end{minipage}
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Verheirateter Text -- \gCode{\tbs
-gMarried\{\}}}\marginpar{\gT{\tbs gMarried\{\}}}
-
-\begin{description}
-    \item[Syntax:] \lstinline$\gMarried{<text>}$
-    \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung
-von der linken Spalte und soll in etwa einer
-Präsentations-Folie entsprechen    
-    \item[Anwendung:]
-    \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] 
-    \item[Cave:]
-    
-    \item[Formatierung:]
-    \item[Beispiel:]
-\end{description}
-
-
-
-\begin{minipage}{0.48\linewidth}
-
-\end{minipage}
-\hspace{0.04\linewidth}
-\begin{minipage}{0.48\linewidth}
-\begin{lstlisting}
-
-\end{lstlisting}
-\end{minipage}
 
 
 
@@ -1206,13 +1378,13 @@ gParallel\{\}}}
     \item[Syntax:] \lstinline$\gParallel{<text>}$
     \item[Beschreibung:] wie \lstinline$\gMarried$, der Inhalt von rechter und
 linker Spalte hat jedoch keinen Bezug zueinander     
-    \item[Anwendung:]
-    \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] 
-    \item[Cave:]
-    
-    \item[Formatierung:]
-    \item[Beispiel:]
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
 \end{description}
 
 
@@ -1235,14 +1407,14 @@ gMassnahmen\{\}}}
 
 \begin{description}
     \item[Syntax:] \lstinline$\gMassnahmen{<text>}$
-    \item[Beschreibung:]
-    \item[Anwendung:]
-    \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] 
-    \item[Cave:]
-    
-    \item[Formatierung:]
-    \item[Beispiel:]
+%     \item[Beschreibung:]
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
 \end{description}
 
 
@@ -1285,15 +1457,15 @@ gCave\{\}}}
 
 \begin{description}
     \item[Syntax:] \lstinline$\gCave{<text>}$
-    \item[Beschreibung:]
+%     \item[Beschreibung:]
     \item[Anwendung:] Aussagen über eine massive Gefahr.
-    \item[Nicht anzuwenden bei:]
+%     \item[Nicht anzuwenden bei:]
     \item[Anmerkungen:] Für die Auszeichnung einzelner Wörter steht der
     \lstinline$\gCa{}$-Befehl zur Verfügung.
-    \item[Cave:]
-    
-    \item[Formatierung:]
-    \item[Beispiel:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:] 
 \end{description}
 
 
@@ -1331,12 +1503,6 @@ Die Cave-Box kann auch mit der \gCa{\tbs gCa\{\}-Formatierung} kombiniert werden
 \\\addlinespace
 \end{tabular}
 
-\chapter{Das \LaTeX -Dokument}
-
-ha
-
-
-
 
 
 
@@ -1371,9 +1537,9 @@ Kapitel kommen ins Verzeichnis chapters.
 
 \lstinputlisting{input-colors.tex}
 
-\subsubsection{input-styles.tex}
+\subsubsection{aass-common.sty}
 
-\lstinputlisting{input-styles.tex}
+\lstinputlisting{aass-common.sty}
 
 
 \end{document}

@@ -8,8 +8,8 @@
   author = {Aaos},
   edition = {9},
   month = jun,
-  isbn = {0763744050},
   language = {english},
+  isbn = {0763744050},
   owner = {grissu},
   timestamp = {2009.07.08}
 }
@@ -23,7 +23,7 @@
   pages = {112--114},
   number = {1},
   month = {Jan},
-  workflow = {get},
+  language = {english},
   abstract = {Burns patients form a large group of trauma patients cared for by
 	first aiders, ambulance staff, nurses, and doctors before reaching
 	specialist care in hospital. Guidance for these important carers
@@ -37,10 +37,10 @@
 	Edinburgh, UK. prehosp@rcsed.ac.uk},
   keywords = {Analgesia; Bandages; Burns, therapy; Cold Temperature; Emergency Medical
 	Services, methods; Humans; Transportation of Patients; Triage},
-  language = {english},
   owner = {grissu},
   pmid = {14734397},
-  timestamp = {2009.06.02}
+  timestamp = {2009.06.02},
+  workflow = {get}
 }
 
 @BOOK{AloyChirInt,
@@ -49,11 +49,11 @@
   year = {2007},
   author = {A Aloy},
   edition = {1},
-  workflow = {ok},
-  isbn = {978-3-211-29679-0},
   language = {ngerman},
+  isbn = {978-3-211-29679-0},
   owner = {grissu},
-  timestamp = {2009.03.03}
+  timestamp = {2009.03.03},
+  workflow = {ok}
 }
 
 @ARTICLE{Erc2005DeSec5,
@@ -65,9 +65,9 @@
   year = {2006},
   volume = {9},
   pages = {81--89},
+  language = {german},
   doi = {10.1007/s10049-006-0794-2},
   file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  language = {german},
   owner = {grissu},
   timestamp = {2009.05.20}
 }
@@ -82,13 +82,13 @@
   volume = {67 Suppl 1},
   pages = {S87--S96},
   month = {Dec},
+  language = {english},
   file = {:./Literatur/Erc2005Sec5.pdf:PDF},
   keywords = {Analgesics, Opioid, therapeutic use; Angina, Unstable, diagnosis/therapy;
 	Biological Markers, blood; Cardiovascular Agents, therapeutic use;
 	Electrocardiography; Europe; Humans; Morphine, therapeutic use; Myocardial
 	Infarction, diagnosis/therapy; Myocardial Reperfusion; Oxygen Inhalation
 	Therapy; Shock, Cardiogenic, etiology/therapy},
-  language = {english},
   owner = {grissu},
   pmid = {16321718},
   timestamp = {2009.05.19}
@@ -114,8 +114,8 @@
   author = {Roman B\"ohmer and Thomas Schneider and Benno Wolcke},
   edition = {6},
   month = sep,
-  isbn = {3939763063},
   language = {german},
+  isbn = {3939763063},
   owner = {grissu},
   timestamp = {2009.06.11}
 }
@@ -129,9 +129,9 @@
   year = {2006},
   volume = {9},
   pages = {164--170},
+  language = {german},
   doi = {10.1007/s10049-006-0799-x},
   file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  language = {german},
   owner = {grissu},
   timestamp = {2009.05.20}
 }
@@ -147,10 +147,10 @@
   volume = {67 Suppl 1},
   pages = {S181--S189},
   month = {Dec},
+  language = {english},
   file = {:./Literatur/Erc2005Sec9.pdf:PDF},
   keywords = {Cardiopulmonary Resuscitation, education; Curriculum; Defibrillators;
 	Educational Measurement; Europe; Humans},
-  language = {english},
   owner = {grissu},
   pmid = {16321713},
   timestamp = {2009.05.19}
@@ -165,9 +165,9 @@
   year = {2006},
   volume = {9},
   pages = {155-163},
+  language = {german},
   doi = {10.1007/s10049-006-0795-1},
   file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  language = {german},
   owner = {grissu},
   timestamp = {2009.05.20}
 }
@@ -182,12 +182,12 @@
   volume = {67 Suppl 1},
   pages = {S171--S180},
   month = {Dec},
+  language = {english},
   file = {:./Literatur/Erc2005Sec8.pdf:PDF},
   keywords = {Advance Directives; Bereavement; Cardiopulmonary Resuscitation, ethics/standards;
 	Counseling; Decision Making, ethics; Europe; Human Experimentation,
 	ethics; Humans; Medical Futility, ethics; Personnel, Hospital, psychology;
 	Professional-Family Relations; Resuscitation Orders},
-  language = {english},
   owner = {grissu},
   pmid = {16321712},
   timestamp = {2009.05.19}
@@ -202,6 +202,7 @@
   pages = {543--554},
   number = {8},
   month = nov,
+  language = {german},
   abstract = {Summary Major burns, showing a low incidence in industrialized countries,
 	are a challenge to the emergency physician, who rarely faces them.
 	Still, major burns have a high rate of mortality. Assessment of the
@@ -236,10 +237,9 @@
 	countries. Specific consideration should be given to the problems
 	of managing a major incident involving burns casualties.},
   doi = {10.1007/s00390-004-0515-3},
-  language = {german},
   owner = {grissu},
   timestamp = {2009.06.11},
-  url = {http://dx.doi.org/10.1007/s00390-004-0515-3}
+  url = {\url{http://dx.doi.org/10.1007/s00390-004-0515-3}}
 }
 
 @ARTICLE{Erc2005Sec6,
@@ -253,13 +253,13 @@
   volume = {67 Suppl 1},
   pages = {S97--133},
   month = {Dec},
+  language = {english},
   file = {:./Literatur/Erc2005Sec6.pdf:PDF},
   keywords = {Algorithms; Arrhythmias, Cardiac, therapy; Body Temperature; Cardiopulmonary
 	Resuscitation, standards; Child; Defibrillators; Europe; Foreign
 	Bodies, diagnosis/therapy; Heart Arrest, therapy; Humans; Oxygen
 	Inhalation Therapy; Respiration, Artificial, methods; Respiratory
 	Insufficiency, diagnosis/etiology/therapy; Resuscitation Orders},
-  language = {english},
   owner = {grissu},
   pmid = {16321719},
   timestamp = {2009.05.19}
@@ -275,9 +275,9 @@
   year = {2006},
   volume = {9},
   pages = {90-122},
+  language = {german},
   doi = {10.1007/s10049-006-0797-z},
   file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  language = {german},
   owner = {grissu},
   timestamp = {2009.05.20}
 }
@@ -291,6 +291,7 @@
   pages = {69--72},
   number = {1},
   month = apr,
+  language = {english},
   abstract = {Background: The administration of oxygen at a high-inspired concentration
 	is often required in medicine, particularly in resuscitation of critically
 	ill patients. However, there is a lack of evidence-based guidance
@@ -315,10 +316,9 @@
   issn = {0300-9572},
   keywords = {{Breathing,Emergency} {treatment,Oxigénio,Oxígeno,Oxygen,Reanimação,Respiração,Respiración,Resucitación,Resuscitation,Tratamento}
 	{emergente,Tratamiento} de emergencia},
-  language = {english},
   owner = {grissu},
   timestamp = {2009.06.11},
-  url = {http://www.sciencedirect.com/science/article/B6T19-482NJVT-6/2/36da1012d3e2452ab9bd6393513ca9f1}
+  url = {\url{http://www.sciencedirect.com/science/article/B6T19-482NJVT-6/2/36da1012d3e2452ab9bd6393513ca9f1}}
 }
 
 @BOOK{BLIM3,
@@ -341,11 +341,11 @@
   year = {2008},
   author = {H Buchardi and R Larsen and R Kuhlen and K-W Jauch and J Sch{\"o}lmerich},
   edition = {10},
-  workflow = {ok},
-  isbn-13 = {978-3-540-72295-3},
   language = {german},
+  isbn-13 = {978-3-540-72295-3},
   owner = {grissu},
-  timestamp = {2009.03.03}
+  timestamp = {2009.03.03},
+  workflow = {ok}
 }
 
 @ARTICLE{JNC7Report,
@@ -362,6 +362,7 @@
   pages = {2560--2572},
   number = {19},
   month = {May},
+  language = {english},
   abstract = {"The Seventh Report of the Joint National Committee on Prevention,
 	Detection, Evaluation, and Treatment of High Blood Pressure" provides
 	a new guideline for hypertension prevention and management. The following
@@ -403,7 +404,6 @@
 	therapeutic use; Humans; Hypertension, diagnosis/prevention /&/ control/therapy;
 	Receptors, Angiotensin, antagonists /&/ inhibitors; Risk Factors;
 	Risk Reduction Behavior; Vasodilator Agents, therapeutic use},
-  language = {english},
   medline-pst = {ppublish},
   owner = {grissu},
   pmid = {12748199},
@@ -446,6 +446,7 @@
   pages = {159--163},
   number = {3-4},
   month = {Aug},
+  language = {english},
   abstract = {The outbreak of human infection due to the novel swine-origin influenza
 	A (H1N1) virus began in Mexico in March 2009. As of July 6, 2009,
 	more than 94,000 laboratory-confirmed cases were reported in over
@@ -463,7 +464,6 @@
 	A Virus, H1N1 Subtype, isolation /&/ purification; Influenza, Human,
 	diagnosis/epidemiology/transmission/virology; Male; Middle Aged;
 	Young Adult},
-  language = {english},
   medline-pst = {ppublish},
   owner = {grissu},
   pii = {cmaj.090859},
@@ -480,8 +480,8 @@
   author = {Alice Dalton and Daniel Limmer and Joseph J. Mistovich},
   edition = {3},
   month = oct,
-  isbn = {0131723405},
   language = {english},
+  isbn = {0131723405},
   owner = {grissu},
   shorttitle = {Advanced Medical Life Support},
   timestamp = {2009.07.08}
@@ -496,9 +496,9 @@
   year = {2006},
   volume = {9},
   pages = {26--37},
+  language = {german},
   doi = {10.1007/s10049-006-0793-3},
   file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  language = {german},
   owner = {grissu},
   timestamp = {2009.05.20}
 }
@@ -513,12 +513,12 @@
   volume = {67 Suppl 1},
   pages = {S25--S37},
   month = {Dec},
+  language = {english},
   file = {:./Literatur/Erc2005Sec3.pdf:PDF},
   keywords = {Cardiac Pacing, Artificial, methods/standards; Cardiopulmonary Resuscitation,
 	methods/standards; Defibrillators; Electric Countershock, methods/standards;
 	Emergency Medical Services, standards; Europe; Heart Arrest, therapy;
 	Humans; Oxygen Inhalation Therapy},
-  language = {english},
   owner = {grissu},
   pmid = {16321714},
   timestamp = {2009.05.19}
@@ -532,9 +532,9 @@
   year = {2006},
   volume = {9},
   pages = {4--5},
+  language = {german},
   doi = {10.1007/s10049-006-0800-8},
   file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  language = {german},
   owner = {grissu},
   timestamp = {2009.05.20}
 }
@@ -549,6 +549,7 @@
   pages = {518--522},
   number = {4},
   month = {Oct},
+  language = {english},
   abstract = {BACKGROUND: Despite it being generally regarded as futile, patients
 	are regularly brought to the emergency department with ongoing cardiopulmonary
 	resuscitation (CPR). METHODS: Long-term outcome and its predictors
@@ -585,12 +586,11 @@
 	Methods; Female; Heart Arrest, therapy; Humans; Male; Medical Futility;
 	Middle Aged; Oxygen, blood; Partial Pressure; Prognosis; Transportation
 	of Patients; Treatment Outcome},
-  language = {english},
   owner = {grissu},
   pii = {aen209},
   pmid = {18653495},
   timestamp = {2009.05.08},
-  url = {http://dx.doi.org/10.1093/bja/aen209}
+  url = {\url{http://dx.doi.org/10.1093/bja/aen209}}
 }
 
 @BOOK{DRAn3,
@@ -600,10 +600,10 @@
   author = {Schulte am Esch and Bause and Kochs and Scholz and Standl and Werner},
   series = {Duale Reihe},
   edition = {3},
-  workflow = {ok},
   language = {german},
   owner = {grissu},
-  timestamp = {2009.03.21}
+  timestamp = {2009.03.21},
+  workflow = {ok}
 }
 
 @BOOK{Fauci2008,
@@ -614,8 +614,8 @@
 	L. Hauser and Dan L. Longo and J. Larry Jameson and Joseph Loscalzo},
   edition = {17},
   month = mar,
-  isbn = {0071466339},
   language = {english},
+  isbn = {0071466339},
   owner = {grissu},
   timestamp = {2009.05.03}
 }
@@ -638,10 +638,10 @@
   year = {2001},
   author = {Forth and Henschler and Rummel and F\"orstermann and Starke},
   edition = {8},
-  workflow = {ok},
   language = {german},
   owner = {grissu},
-  timestamp = {2009.03.21}
+  timestamp = {2009.03.21},
+  workflow = {ok}
 }
 
 @BOOK{Lissauer2007,
@@ -653,8 +653,8 @@
 	{FRCP} {FRCPCH}},
   edition = {3},
   month = jul,
-  isbn = {0723433976},
   language = {english},
+  isbn = {0723433976},
   owner = {grissu},
   timestamp = {2009.05.03}
 }
@@ -666,8 +666,8 @@
   author = {Christopher Gallagher and Ricardo {Martinez-Ruiz} and David Lubarsky},
   edition = {1},
   month = dec,
-  isbn = {0071458166},
   language = {english},
+  isbn = {0071458166},
   owner = {grissu},
   timestamp = {2009.05.03}
 }
@@ -680,6 +680,7 @@
   year = {2009},
   volume = {6},
   pages = {51},
+  language = {english},
   abstract = {Beginning in March 2009, an outbreak of influenza in North America
 	was found to be caused by a new strain of influenza virus, designated
 	Influenza H1N1 2009, which is a reassortant of swine, avian and human
@@ -716,7 +717,6 @@
 	H1N1 Subtype, genetics/immunology/isolation /&/ purification; Influenza
 	Vaccines, immunology; Influenza, Human, epidemiology/prevention /&/
 	control/virology},
-  language = {english},
   medline-pst = {epublish},
   owner = {grissu},
   pii = {1743-422X-6-51},
@@ -753,8 +753,8 @@
   author = {Bodo Gorgass and Friedrich Wilhelm Ahnefeld and Rolando Rossiand
 	Hans-Dieter Lippert and Werner Krell and Ge Weber},
   edition = {7},
-  isbn = {3540214879},
   language = {german},
+  isbn = {3540214879},
   owner = {grissu},
   timestamp = {2009.07.16}
 }
@@ -771,6 +771,7 @@
   pages = {200--5, table of contents},
   number = {1},
   month = {Jul},
+  language = {english},
   abstract = {Two-rescuer cardiopulmonary resuscitation (CPR) is considered the
 	best method for professional basic life support (BLS). However, in
 	many prehospital cardiac arrest situations, one rescuer has to begin
@@ -799,12 +800,11 @@
   keywords = {Adolescent; Adult; Cardiopulmonary Resuscitation, methods; Emergency
 	Medical Technicians; Female; Humans; Male; Manikins; Middle Aged;
 	Rescue Work; Respiration, Artificial; Respiratory Mechanics},
-  language = {english},
   owner = {grissu},
   pii = {101/1/200},
   pmid = {15976232},
   timestamp = {2009.05.08},
-  url = {http://dx.doi.org/10.1213/01.ANE.0000154305.70984.6B}
+  url = {\url{http://dx.doi.org/10.1213/01.ANE.0000154305.70984.6B}}
 }
 
 @BOOK{Haag2006,
@@ -813,8 +813,8 @@
   year = {2006},
   author = {Petra Haag and Norbert Hanhart and Markus M\"uller},
   edition = {3},
-  isbn = {3929851725},
   language = {german},
+  isbn = {3929851725},
   owner = {grissu},
   timestamp = {2009.05.03}
 }
@@ -825,8 +825,8 @@
   year = {2006},
   author = {Petra Haag and Norbert Hanhart and Markus M\"uller},
   edition = {3},
-  isbn = {3929851725},
   language = {german},
+  isbn = {3929851725},
   owner = {grissu},
   timestamp = {2009.06.11}
 }
@@ -841,9 +841,9 @@
   year = {2006},
   volume = {9},
   pages = {10--25},
+  language = {german},
   doi = {10.1007/s10049-006-0792-4},
   file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  language = {german},
   owner = {grissu},
   timestamp = {2009.05.20}
 }
@@ -860,12 +860,12 @@
   volume = {67 Suppl 1},
   pages = {S7--23},
   month = {Dec},
+  language = {english},
   file = {:./Literatur/Erc2005Sec2.pdf:PDF},
   keywords = {Adult; Airway Obstruction, etiology/therapy; Algorithms; Cardiopulmonary
 	Resuscitation, methods/standards; Child; Defibrillators; Emergency
 	Medical Services, standards; Europe; Foreign Bodies, complications/diagnosis;
 	Heart Arrest, therapy; Humans; Near Drowning, therapy},
-  language = {english},
   owner = {grissu},
   pmid = {16321717},
   timestamp = {2009.05.19}
@@ -879,8 +879,8 @@
 	H\"undorf and Roland Lipp and Johannes Veith},
   edition = {3},
   month = mar,
-  isbn = {3938179422},
   language = {german},
+  isbn = {3938179422},
   owner = {grissu},
   timestamp = {2009.06.11}
 }
@@ -897,6 +897,7 @@
   pages = {264--270},
   number = {2},
   month = {May},
+  language = {english},
   abstract = {CONTEXT: Transport of patients during resuscitation is a critical
 	procedure. In both, ambulances and helicopters the quality of resuscitation
 	is potentially hampered due to the movement of the vehicle and confined
@@ -930,12 +931,11 @@
 	Confined Spaces; Emergency Medical Services, methods/standards; Heart
 	Arrest, therapy; Heart Massage, methods/standards; Humans; Manikins;
 	Pressure; Quality of Health Care; Transportation of Patients},
-  language = {english},
   owner = {grissu},
   pii = {S0300-9572(06)00610-1},
   pmid = {17276575},
   timestamp = {2009.05.08},
-  url = {http://dx.doi.org/10.1016/j.resuscitation.2006.09.007}
+  url = {\url{http://dx.doi.org/10.1016/j.resuscitation.2006.09.007}}
 }
 
 @BOOK{Helfen2008,
@@ -986,7 +986,7 @@
   owner = {grissu},
   pmid = {16342018},
   timestamp = {2009.06.02},
-  url = {http://dx.doi.org/10.1055/s-2005-923327}
+  url = {\url{http://dx.doi.org/10.1055/s-2005-923327}}
 }
 
 @BOOK{ForMed2,
@@ -1024,6 +1024,7 @@
   pages = {{CD002041}},
   number = {1},
   note = {{PMID:} 15674890},
+  language = {english},
   abstract = {{BACKGROUND:} Poisoning with carbon monoxide {(CO)} remains an important
 	cause of accidental and intentional injury worldwide. Several unblinded
 	non-randomized trials have suggested that the use of hyperbaric oxygen
@@ -1068,7 +1069,6 @@
   issn = {{1469-493X}},
   keywords = {Carbon Monoxide {Poisoning,Humans,Hyperbaric} {Oxygenation,Oxygen}
 	Inhalation {Therapy,Randomized} Controlled Trials as Topic},
-  language = {english},
   owner = {grissu},
   timestamp = {2009.06.11},
   url = {http://www.ncbi.nlm.nih.gov/pubmed/15674890}
@@ -1089,9 +1089,7 @@
   pages = {2398--2405},
   number = {20},
   month = {May},
-  workflow = {print and read! 
-	
-	CITED},
+  language = {english},
   abstract = {BACKGROUND: The purpose of this study was to determine whether implementation
 	of recent guidelines improves in-hospital mortality from acute ST-elevation
 	myocardial infarction (STEMI) in a metropolitan area. METHODS AND
@@ -1124,10 +1122,12 @@
 	Infarction, epidemiology/surgery/therapy; Myocardial Reperfusion,
 	standards; Quality Assurance, Health Care; Registries; Retrospective
 	Studies; Shock, Cardiogenic, epidemiology; Time Factors},
-  language = {english},
   owner = {grissu},
   pmid = {16702474},
-  timestamp = {2009.05.08}
+  timestamp = {2009.05.08},
+  workflow = {print and read! 
+	
+	CITED}
 }
 
 @BOOK{Kamolz2009,
@@ -1137,8 +1137,8 @@
   year = {2009},
   author = {{Lars-Peter} Kamolz and David N. Herndon and Marc G. Jeschke},
   edition = {1},
-  isbn = {3211798951},
   language = {german},
+  isbn = {3211798951},
   timestamp = {2009.05.03}
 }
 
@@ -1152,7 +1152,6 @@
   pages = {620--7; discussion 627-8},
   number = {4},
   month = {Apr},
-  workflow = {CITED},
   abstract = {OBJECTIVE: To determine whether physical examination alone or in combination
 	with biochemical markers can accurately diagnose hypoperfusion. METHODS:
 	Data from 264 consecutive surgical intensive care unit patients were
@@ -1199,7 +1198,8 @@
   owner = {grissu},
   pmid = {11303155},
   review = {schock-marker waren sign bei kalter haut vs warme haut},
-  timestamp = {2009.05.08}
+  timestamp = {2009.05.08},
+  workflow = {CITED}
 }
 
 @BOOK{KayserMikrobiologie10,
@@ -1209,8 +1209,8 @@
   author = {Fritz H. Kayser and Kurt A. Bienz and Johannes Eckert and Rolf M.
 	Zinkernagel},
   edition = {10},
-  isbn = {3-13-444810-6},
   language = {ngerman},
+  isbn = {3-13-444810-6},
   owner = {grissu},
   timestamp = {2009.09.21}
 }
@@ -1238,7 +1238,6 @@
   pages = {164--167},
   number = {2},
   month = {Feb},
-  workflow = {SAVED},
   abstract = {Hypothermia following pre-hospital treatment of burn patients is a
 	common risk with increasing lethality. Soon after admission to our
 	burn unit, the body temperature of 212 adult patients with more than
@@ -1260,7 +1259,8 @@
 	Water},
   owner = {grissu},
   pmid = {11253676},
-  timestamp = {2009.06.02}
+  timestamp = {2009.06.02},
+  workflow = {SAVED}
 }
 
 @BOOK{LuellmannPharma16,
@@ -1270,10 +1270,10 @@
   year = {2006},
   author = {L\"ullmann and Mohr and Hein},
   edition = {16},
-  workflow = {ok},
   language = {german},
   owner = {grissu},
-  timestamp = {2009.03.21}
+  timestamp = {2009.03.21},
+  workflow = {ok}
 }
 
 @BOOK{LippertAnatomie7,
@@ -1283,8 +1283,8 @@
   author = {Herbert Lippert},
   edition = {7},
   month = aug,
-  isbn = {3437423622},
   language = {german},
+  isbn = {3437423622},
   owner = {grissu},
   timestamp = {2009.06.11}
 }
@@ -1296,8 +1296,8 @@
   author = {Murray Longmore and Ian Wilkinson and Tom Turmezei and Chee Kay Cheung
 	and Emma Smith},
   edition = {7},
-  isbn = {0198568371},
   language = {english},
+  isbn = {0198568371},
   owner = {grissu},
   timestamp = {2009.05.03}
 }
@@ -1314,6 +1314,7 @@
   pages = {143--150},
   number = {2},
   month = {Feb},
+  language = {english},
   abstract = {OBJECTIVE: To evaluate the frequency, presentation and outcome of
 	non-traumatic aortic dissection/rupture as a cause of cardiac arrest.
 	DESIGN: Retrospective analysis of a cardiac arrest registry in a
@@ -1350,12 +1351,11 @@
 	Service, Hospital; Female; Heart Arrest, etiology/mortality/therapy;
 	Humans; Male; Middle Aged; Prognosis; Registries; Retrospective Studies;
 	Risk Assessment; Sex Factors; Survival Analysis; Treatment Outcome},
-  language = {english},
   owner = {grissu},
   pii = {S0300957203003770},
   pmid = {15036731},
   timestamp = {2009.05.08},
-  url = {http://dx.doi.org/10.1016/j.resuscitation.2003.10.005}
+  url = {\url{http://dx.doi.org/10.1016/j.resuscitation.2003.10.005}}
 }
 
 @ARTICLE{Milross1989,
@@ -1368,6 +1368,7 @@
   number = {2},
   month = may,
   note = {{PMID:} 2719238},
+  language = {english},
   abstract = {The inspired oxygen fraction {(FIO2)} delivered by the Hudson Oxy-one
 	face mask was measured under changing conditions of ventilation,
 	oxygen flow rate to mask, and mask fit. A single trained subject
@@ -1394,7 +1395,6 @@
   issn = {{0310-057X}},
   keywords = {Evaluation Studies as {Topic,Humans,Masks,Oxygen,Oxygen} Inhalation
 	{Therapy,Plethysmography,} Whole {Body,Respiration,} Artificial},
-  language = {english},
   owner = {grissu},
   timestamp = {2009.06.11},
   url = {http://www.ncbi.nlm.nih.gov/pubmed/2719238}
@@ -1410,6 +1410,7 @@
   pages = {284--288},
   number = {4},
   month = oct,
+  language = {english},
   abstract = {We have assessed the performance of the Hudson-type mask without reservoir
 	and the Hudson non-rebreathing mask with reservoir bag in 10 pregnant
 	and 10 non-pregnant women at different oxygen flow rates by measuring
@@ -1429,7 +1430,6 @@
 	hypoxia is discussed.},
   doi = {10.1054/ijoa.2001.0867},
   issn = {{0959-289X}},
-  language = {english},
   owner = {grissu},
   timestamp = {2009.06.11},
   url = {http://www.sciencedirect.com/science/article/B6WGV-4582C1F-X/2/404323262cb2d03c29c38c7456f8b5f7}
@@ -1442,8 +1442,8 @@
   author = {Naemt},
   edition = {6},
   month = sep,
-  isbn = {0323033318},
   language = {english},
+  isbn = {0323033318},
   owner = {grissu},
   timestamp = {2009.07.08}
 }
@@ -1453,8 +1453,8 @@
   publisher = {Mosaik},
   year = {1997},
   author = {Lennart Nilsson and Lars Hamberger},
-  isbn = {3576049185},
   language = {german},
+  isbn = {3576049185},
   owner = {grissu},
   timestamp = {2009.05.03}
 }
@@ -1467,9 +1467,9 @@
   year = {2006},
   volume = {9},
   pages = {6--9},
+  language = {german},
   doi = {DOI 10.1007/s10049-006-0791-5},
   file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  language = {german},
   owner = {grissu},
   timestamp = {2009.05.20}
 }
@@ -1483,11 +1483,11 @@
   volume = {67 Suppl 1},
   pages = {S3--S6},
   month = {Dec},
+  language = {english},
   file = {:./Literatur/Erc2005Sec1.pdf:PDF},
   keywords = {Cardiopulmonary Resuscitation, methods/standards; Emergency Medical
 	Services, standards; Europe; Heart Arrest, etiology/therapy; Humans;
 	Practice Guidelines as Topic},
-  language = {english},
   owner = {grissu},
   pmid = {16321715},
   timestamp = {2009.05.19}
@@ -1503,9 +1503,9 @@
   year = {2006},
   volume = {9},
   pages = {38--80},
+  language = {german},
   doi = {10.1007/s10049-006-0796-0},
   file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  language = {german},
   owner = {grissu},
   timestamp = {2009.05.20}
 }
@@ -1520,13 +1520,13 @@
   volume = {67 Suppl 1},
   pages = {S39--S86},
   month = {Dec},
+  language = {english},
   file = {:./Literatur/Erc2005Sec4.pdf:PDF},
   keywords = {Airway Obstruction, diagnosis/therapy; Algorithms; Arrhythmias, Cardiac,
 	therapy; Cardiac Pacing, Artificial; Cardiopulmonary Resuscitation,
 	methods/standards; Cardiovascular Agents, therapeutic use; Cricoid
 	Cartilage, surgery; Electric Countershock; Europe; Heart Arrest,
 	prevention /&/ control; Hospitalization; Humans; Intubation, Intratracheal},
-  language = {english},
   owner = {grissu},
   pmid = {16321716},
   timestamp = {2009.05.19}
@@ -1569,6 +1569,7 @@
   pages = {169--173},
   number = {3},
   month = {Jul},
+  language = {english},
   abstract = {A recently emerged novel influenza A H1N1 virus continues to spread
 	globally. The virus contains a novel constellation of gene segments,
 	the nearest known precursors being viruses found in swine and it
@@ -1594,7 +1595,6 @@
 	/&/ purification/pathogenicity; Influenza, Human, epidemiology/transmission/virology;
 	Reassortant Viruses, genetics/isolation /&/ purification/pathogenicity;
 	Swine},
-  language = {english},
   medline-pst = {ppublish},
   owner = {grissu},
   pii = {S1386-6532(09)00255-8},
@@ -1613,8 +1613,8 @@
 	Gerhard Prause and Wolfgang Schreiber},
   edition = {1},
   month = mar,
-  isbn = {3700314671},
   language = {german},
+  isbn = {3700314671},
   owner = {grissu},
   timestamp = {2009.05.03}
 }
@@ -1626,8 +1626,8 @@
   year = {2006},
   author = {Herbert {Renz-Polster} and Steffen Krautzig and J\"org Braun},
   edition = {3},
-  isbn = {3437444603},
   language = {german},
+  isbn = {3437444603},
   owner = {grissu},
   timestamp = {2009.05.03}
 }
@@ -1638,10 +1638,10 @@
   year = {2007},
   author = {Norbert Roewer and Holger Thiel},
   edition = {3},
-  workflow = {ok},
   language = {german},
   owner = {grissu},
-  timestamp = {2009.03.21}
+  timestamp = {2009.03.21},
+  workflow = {ok}
 }
 
 @BOOK{Sachsenweger2003,
@@ -1650,8 +1650,8 @@
   year = {2003},
   author = {Matthias Sachsenweger},
   edition = {2},
-  isbn = {3131283122},
   language = {german},
+  isbn = {3131283122},
   owner = {grissu},
   timestamp = {2009.05.03}
 }
@@ -1663,8 +1663,8 @@
   author = {Robert F. Schmidt and Gerhard Thews and Florian Lang},
   edition = {28},
   month = feb,
-  isbn = {3540667334},
-  language = {ngerman}
+  language = {ngerman},
+  isbn = {3540667334}
 }
 
 @ARTICLE{Erc2005Sec7,
@@ -1678,6 +1678,7 @@
   volume = {67 Suppl 1},
   pages = {S135--S170},
   month = {Dec},
+  language = {english},
   file = {:./Literatur/Erc2005Sec7.pdf:PDF},
   keywords = {Anaphylaxis, complications; Arrhythmias, Cardiac, complications; Asthma,
 	complications; Cardiopulmonary Resuscitation, standards; Cardiovascular
@@ -1686,7 +1687,6 @@
 	Hypothermia, complications; Poisoning, complications; Pregnancy;
 	Pregnancy Complications; Water-Electrolyte Imbalance, complications;
 	Wounds and Injuries, complications},
-  language = {english},
   owner = {grissu},
   pmid = {16321711},
   timestamp = {2009.05.19}
@@ -1701,9 +1701,9 @@
   year = {2006},
   volume = {9},
   pages = {123-145},
+  language = {german},
   doi = {10.1007/s10049-006-0798-y},
   file = {:./Literatur/Erc2005fullDe.pdf:PDF},
-  language = {german},
   owner = {grissu},
   timestamp = {2009.05.20}
 }
@@ -1716,25 +1716,25 @@
   volume = {336},
   pages = {150--153},
   number = {7636},
-  doi = {{10.1136/bmj.39308.610081.AD}},
   language = {english},
+  doi = {{10.1136/bmj.39308.610081.AD}},
   owner = {grissu},
   timestamp = {2009.06.11},
   url = {http://www.bmj.com}
 }
 
 @MISC{Strauss0000,
-  title = {Influenza in Österreich – Epidemiologie und Durchimpfungsraten},
   author = {Reinhild Strauss and Gerhard Fülöp},
+  title = {Influenza in Österreich – Epidemiologie und Durchimpfungsraten},
   howpublished = {Homepage des österreichischen Bundesministeriums für Gesundheit und
 	Frauen (BMGF)},
-  lastchecked = {2009-09-23},
   file = {:home/grissu/Workspace/eclipse-workspace/aass/trunk/Literatur/Strauss0000.pdf:PDF},
   language = {german},
+  lastchecked = {2009-09-23},
   owner = {grissu},
   publisher = {Bundesministeriums für Gesundheit und Frauen},
   timestamp = {2009.09.23},
-  url = {http://www.bmg.gv.at/cms/site/attachments/7/9/0/CH0742/CMS1075899626901/influenza-epidemiologie\_bmgf.pdf}
+  url = {\url{http://www.bmg.gv.at/cms/site/attachments/7/9/0/CH0742/CMS1075899626901/influenza-epidemiologie\_bmgf.pdf}}
 }
 
 @BOOK{StriebelAn7,
@@ -1743,11 +1743,11 @@
   year = {2009},
   author = {Hans Walter Striebel},
   edition = {7},
-  workflow = {ok},
-  isbn = {379452635X},
   language = {german},
+  isbn = {379452635X},
   owner = {grissu},
-  timestamp = {2009.03.21}
+  timestamp = {2009.03.21},
+  workflow = {ok}
 }
 
 @BOOK{Striebel2008,
@@ -1757,8 +1757,8 @@
   year = {2008},
   author = {Hans Walter Striebel},
   edition = {7},
-  isbn = {379452635X},
   language = {german},
+  isbn = {379452635X},
   owner = {grissu},
   timestamp = {2009.05.03}
 }
@@ -1824,6 +1824,7 @@
   pages = {2605--2615},
   number = {25},
   month = {Jun},
+  language = {english},
   abstract = {BACKGROUND: On April 15 and April 17, 2009, novel swine-origin influenza
 	A (H1N1) virus (S-OIV) was identified in specimens obtained from
 	two epidemiologically unlinked patients in the United States. The
@@ -1860,7 +1861,6 @@
 	Male; Mexico, epidemiology; Middle Aged; Phylogeny; Population Surveillance;
 	Reverse Transcriptase Polymerase Chain Reaction; Sequence Analysis,
 	DNA; United States, epidemiology; Young Adult},
-  language = {english},
   medline-pst = {ppublish},
   owner = {grissu},
   pii = {NEJMoa0903810},
@@ -1930,6 +1930,7 @@
   pages = {657--662},
   number = {4},
   month = {Apr},
+  language = {english},
   abstract = {OBJECTIVE: To determine whether patients with hypertensive urgency
 	have a higher risk for subsequent cardiovascular events compared
 	with hypertensive patients without this event. METHODS: Overall,
@@ -1965,12 +1966,11 @@
 	Studies; Humans; Hypertension, epidemiology; Male; Middle Aged; Risk
 	Factors; Severity of Illness Index; Stroke, epidemiology; Ventricular
 	Dysfunction, Left, epidemiology},
-  language = {english},
   owner = {grissu},
   pii = {00004872-200804000-00009},
   pmid = {18327073},
   timestamp = {2009.05.08},
-  url = {http://dx.doi.org/10.1097/HJH.0b013e3282f4e8b6}
+  url = {\url{http://dx.doi.org/10.1097/HJH.0b013e3282f4e8b6}}
 }
 
 @ARTICLE{Wells2000,
@@ -2047,6 +2047,7 @@
   pages = {1983--1992},
   number = {11},
   month = {Nov},
+  language = {english},
   abstract = {OBJECTIVE: Hypertension is estimated to cause 4.5\% of current global
 	disease burden and is as prevalent in many developing countries,
 	as in the developed world. Blood pressure-induced cardiovascular
@@ -2079,7 +2080,6 @@
 	Canberra, Australia. judith.whitworth@anu.edu.au},
   keywords = {Antihypertensive Agents, economics/therapeutic use; Cost-Benefit Analysis;
 	Drug Costs; Humans; Hypertension, therapy; Life Style; Risk Assessment},
-  language = {english},
   medline-pst = {ppublish},
   owner = {grissu},
   pmid = {14597836},
@@ -2088,14 +2088,25 @@
 
 @ELECTRONIC{wikiSpanischeGrippe,
   author = {Wikipedia},
-  title = {Spanische Grippe},
   year = {2009},
-  note = {Online{,} Stand 23. September 2009},
-    url = {http://de.wikipedia.org/wiki/Spanische\_Grippe},
-  __markedentry = {[grissu]},
+  title = {Spanische Grippe},
   language = {german},
+  note = {Online{,} Stand 23. September 2009},
+  url = {\url{http://de.wikipedia.org/wiki/Spanische\_Grippe}},
+  __markedentry = {[grissu]},
   owner = {grissu},
   timestamp = {2009.09.23}
+}
+
+@ELECTRONIC{wikiVanGogh,
+  author = {Wikipedia},
+  year = {2009},
+  title = {Vincent van Gogh --- Wikipedia{,} Die freie Enzyklopädie},
+  language = {german},
+  note = {[Online; Stand 7. Dezember 2009]},
+  url = {\url{http://de.wikipedia.org/w/index.php?title=Vincent_van_Gogh&oldid=67700470}},
+  owner = {grissu},
+  timestamp = {2009.12.07}
 }
 
 @ARTICLE{Wolf2009,
@@ -2107,13 +2118,13 @@
   pages = {1539--1541},
   number = {30},
   month = {Jul},
+  language = {ngerman},
   doi = {10.1055/s-0029-1233976},
   institution = {Medizinische Klinik II - Infektiologie, Johann Wolfgang Goethe-Universität,
 	Theodor-Stern-Kai 7, 60590 Frankfurt. timo.wolf@kgu.de},
   keywords = {Animals; Disease Outbreaks, prevention /&/ control; Germany, epidemiology;
 	Humans; Influenza A Virus, H1N1 Subtype; Influenza, Human, epidemiology/therapy/virology;
 	Swine; Swine Diseases, epidemiology/virology; World Health Organization},
-  language = {ngerman},
   medline-pst = {ppublish},
   owner = {grissu},
   pmid = {19603372},
@@ -2163,8 +2174,8 @@
   year = {2006},
   editor = {Judith Collier and Murray Longmore ans Mark Brinsden},
   edition = {7},
-  isbn = {0-19-853085-4},
   language = {english},
+  isbn = {0-19-853085-4},
   owner = {grissu},
   timestamp = {2009.07.13}
 }
@@ -2197,11 +2208,11 @@
   year = {2001},
   editor = {R Klinke and St Silbernagl},
   edition = {3},
-  workflow = {ok},
-  isbn = {3-13-796003-7},
   language = {german},
+  isbn = {3-13-796003-7},
   owner = {grissu},
-  timestamp = {2009.03.03}
+  timestamp = {2009.03.03},
+  workflow = {ok}
 }
 
 @BOOK{Silbernagl3,
@@ -2210,11 +2221,11 @@
   year = {2001},
   editor = {R Klinke and St Silbernagl},
   edition = {3},
-  workflow = {ok},
-  isbn = {3-13-796003-7},
   language = {german},
+  isbn = {3-13-796003-7},
   owner = {grissu},
-  timestamp = {2009.03.03}
+  timestamp = {2009.03.03},
+  workflow = {ok}
 }
 
 @BOOK{KlinLeitAlle3,
@@ -2244,14 +2255,26 @@
   timestamp = {2009.05.05}
 }
 
+@BOOK{Pschy256,
+  title = {Pschyrembel Klinisches Wörterbuch},
+  publisher = {de Gruyter},
+  year = {2002},
+  editor = {Willibald Pschyrembel},
+  edition = {256},
+  language = {german},
+  isbn = {3-11-017213-5},
+  owner = {grissu},
+  timestamp = {2009.10.24}
+}
+
 @BOOK{SiewertChirurgie8,
   title = {Chirurgie},
   publisher = {Springer-Verlag},
   year = {2006},
   editor = {Rüdiger Siewert},
   edition = {8},
-  isbn = {3-540-30450-9},
   language = {german},
+  isbn = {3-540-30450-9},
   owner = {grissu},
   timestamp = {2009.08.27}
 }

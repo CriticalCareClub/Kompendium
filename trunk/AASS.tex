@@ -34,6 +34,17 @@
 \newcommand*{\@minipagerestore}{\parskip@update}
 \makeatother
 
+% Hat man den Wunsch, auf eine Fußnote mehrfach zu verweisen, bietet LATEX dafür keine direkte Möglichkeit.
+% Man muss hier die folgende Definition, eingerahmt von \makeatletter und \makeatother, in den Vorspann des Dokuments einfügen.
+% Im Text muss bei der Fußnote, auf die ein zweites mal verwiesen werden soll, ein Label (hier: \label{fn:wichtig})eingefügt werden.
+% Mit \footref{fn:wichtig} verweist man dann ein weiteres mal auf sie.
+% http://www2.informatik.hu-berlin.de/~piefel/LaTeX-PS/Archive-2004/V07-footnote.pdf
+\makeatletter
+\providecommand*{\footref}[1]{% \begingroup 
+\unrestored@protected@xdef\@thefnmark{\ref{#1}}% \endgroup 
+\@footnotemark}
+\makeatother
+
 \usepackage{aass-common}
 
 %\usepackage{excludeonly}

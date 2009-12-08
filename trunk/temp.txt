@@ -22,9 +22,10 @@ cum no.}}
 }
 {
 % TODO VIT: Slide fehlt!
-\begin{itemize}
-    \item \gZ{Point}
-\end{itemize}
+% \begin{itemize}
+%     \item \gZ{Point}
+% \end{itemize}
+{\gSymbolText}
 
 }
 

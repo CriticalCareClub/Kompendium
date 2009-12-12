@@ -489,21 +489,22 @@ saluti et solatio aegrorum}
 % worden sein.
 \bibliographystyle{babunsrt}
 \usepackage{cite}
-\usepackage{chapterbib} % Literaturverzeichnisse für Kapitel
+%\usepackage{chapterbib} % Literaturverzeichnisse für Kapitel
 
 % \gChapterBibliography muss in der jeweiligen Kapiteldatei aufgerufen werden
 % um dort ein entsprechend formatiertes Literaturverzeichnis zu erstellen.
-\newcommand{\gChapterBibliography}
-	{\bibliographystyle{babunsrt}
-	\begin{multicols}{2}
-    	{
-    		\scriptsize
-    		\setlength{\parskip}{1pt}
-    		\bibliography{./Literatur-AASS}
-    	}
-    \end{multicols}
-	}
+% \newcommand{\gChapterBibliography}
+% 	{\bibliographystyle{babunsrt}
+% 	\begin{multicols}{2}
+%     	{
+%     		\scriptsize
+%     		\setlength{\parskip}{1pt}
+%     		\bibliography{./Literatur-AASS}
+%     	}
+%     \end{multicols}
+% 	}
 
+\newcommand{\gChapterBibliography}{}
 
 \input{input-hyphenation}
 
@@ -869,7 +870,7 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 \include{./chapters/inc-VIT-chapter}
 
 \include{./chapters/inc-HYG-chapter}
-
+ 
 \include{./chapters/inc-MED-chapter}
 
 \include{./chapters/inc-TRA-chapter}
@@ -891,7 +892,10 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 \chapter{Wissenschaft und Forschung}
 
-
+{
+\scriptsize \setlength{\parskip}{1pt}
+\bibliography{Literatur-AASS}
+}
 
 SO LONG..........
 

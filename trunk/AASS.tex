@@ -55,8 +55,8 @@
 ./chapters/inc-BET-chapter,
 ./chapters/inc-REG-chapter,
 ./chapters/inc-JUS-chapter,
-% ./chapters/inc-EHI-chapter,
-% ./chapters/inc-AED-chapter,
+./chapters/inc-EHI-chapter,
+./chapters/inc-AED-chapter,
 ./chapters/inc-GER-chapter,
 ./chapters/inc-SAN-chapter,
 ./chapters/inc-KHD-chapter,
@@ -68,8 +68,9 @@
 ./chapters/inc-MED-chapter,
 ./chapters/inc-TRA-chapter,
 ./chapters/inc-RES-ende,
-% ./chapters/inc-MPG-chapter,
-% ./chapters/inc-ALS-chapter,
+./chapters/inc-MPG-chapter,
+./chapters/inc-ALS-chapter,
+./chapters/inc-INT,
 ./chapters/inc-APP
 }
 
@@ -157,7 +158,8 @@ MPG-WEINMANN-MEDUMAT-TRANSPORT %
 \usepackage{array}
 \usepackage{booktabs}
 \usepackage{longtable}
-\usepackage{supertabular}
+%\usepackage{supertabular}
+\usepackage{xtab}
 \usepackage{tabularx,tabulary}
 \usepackage{multicol,multirow}
 \usepackage{hhline}
@@ -888,9 +890,10 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 \chapter{Pharmakologie}
 
-\include{./chapters/inc-APP}
-
 \chapter{Wissenschaft und Forschung}
+
+\include{./chapters/inc-INT}
+\include{./chapters/inc-APP}
 
 {
 \scriptsize \setlength{\parskip}{1pt}

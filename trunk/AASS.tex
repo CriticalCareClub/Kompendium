@@ -147,6 +147,17 @@ MPG-WEINMANN-MEDUMAT-TRANSPORT %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Verzeichnisse
 \usepackage{shorttoc}
+\usepackage{titletoc}
+%%% --- BEGIN --- %%%
+\titlecontents{chapter} [6pc]
+   {\addvspace{1.5pc}\bfseries
+   \titlerule[1pt]\filright\addvspace{1mm}}
+   {\contentslabel
+      [{\sffamily\bfseries\color{ubuntured}\chaptername{}~
+       \thecontentslabel}]{6pc}}
+   {}{\hfill\contentspage}
+   [\addvspace{0.5pc}]
+%%% --- END --- %%%
 \usepackage{makeidx}
 \setcounter{secnumdepth}{3}
 \makeindex

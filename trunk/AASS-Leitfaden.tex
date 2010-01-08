@@ -29,8 +29,7 @@
 
 \usepackage{units}
 
-\usepackage{booktabs,longtable,supertabular,tabularx,tabulary}
-\usepackage{multicol,multirow}
+
 %Tabellen
 % Floats
 %\usepackage{float,wrapfig}
@@ -40,6 +39,8 @@
 
 \usepackage{soul}
 \usepackage{array}
+\usepackage{booktabs,longtable,supertabular,tabularx,tabulary}
+\usepackage{multicol,multirow}
 \usepackage{scalefnt}
 
 \usepackage{hhline}
@@ -168,7 +169,7 @@ bindingoffset=1.5cm]
 \addtokomafont{chapter}{\Huge\sffamily\fontfamily{phv}\bfseries\color{ubuntured}}
 \addtokomafont{section}{\Huge\color{ubuntured}}
 \addtokomafont{subsection}{\huge\color{ubuntured}}
-\addtokomafont{subsubsection}{\LARGE\color{darkBlue}}
+\addtokomafont{subsubsection}{\LARGE\color{ubuntured!80}}
 \addtokomafont{paragraph}{\large\color{darkBlue}}
 \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 % \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
@@ -227,9 +228,10 @@ bindingoffset=1.5cm]
 
 % %%% DRAFT %%%
 \fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
-Entwicklungszweig:
-\input{./tmp/git-current-branch.tmp} -- Letztes Commit:
-\input{./tmp/git-lastcommit.tmp}}}}
+% Entwicklungszweig:
+% \input{./tmp/git-current-branch.tmp} -- Letztes Commit:
+% \input{./tmp/git-lastcommit.tmp}
+}}}
 
 %%% FINAL %%%
 % \fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den

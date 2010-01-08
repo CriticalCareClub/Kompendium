@@ -147,6 +147,17 @@ MPG-WEINMANN-MEDUMAT-TRANSPORT %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Verzeichnisse
 \usepackage{shorttoc}
+\usepackage{titletoc}
+%%% --- BEGIN --- %%%
+\titlecontents{chapter} [6pc]
+   {\addvspace{1.5pc}\bfseries
+   \titlerule[1pt]\filright\addvspace{1mm}}
+   {\contentslabel
+      [{\sffamily\bfseries\color{ubuntured}\chaptername{}~
+       \thecontentslabel}]{6pc}}
+   {}{\hfill\contentspage}
+   [\addvspace{0.5pc}]
+%%% --- END --- %%%
 \usepackage{makeidx}
 \setcounter{secnumdepth}{3}
 \makeindex
@@ -238,6 +249,14 @@ bindingoffset=1.5cm]
 % bindingoffset=1.5cm
 % }
 
+\newlength{\gTextspalte}
+\newlength{\gRandspalte}
+\newlength{\gTrenner}
+\setlength{\gTextspalte}{\textwidth}
+\setlength{\gRandspalte}{\marginparwidth}
+\setlength{\gTrenner}{6pt}
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Pargragraphensatzregeln
 %Dann darst du die parskip und \parindent gar nicht verändern, sondern Koma Script in der Klasse die entsprechende Option übergeben. 
@@ -316,6 +335,9 @@ bindingoffset=1.5cm]
 %\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
 \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
 %\addtokomafont{chapter}{\Huge\color{ubuntured}\fontfamily{augie}\selectfont}
+
+% \usepackage[Bjornstrup]{fncychap}
+% \ChNumVar{\fontsize{76}{80}\usefont{OT1}{lmdh}{m}{n}\selectfont\color{darkBlue}}
 
 \usepackage{minitoc} %The quotchap package should be loaded BEFORE the minitoc package.
 
@@ -835,7 +857,7 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 
 % \include{include-autoreninfo}
- 
+
 
 \part{Allgemeiner Teil}
 

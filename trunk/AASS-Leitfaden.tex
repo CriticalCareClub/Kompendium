@@ -29,8 +29,7 @@
 
 \usepackage{units}
 
-\usepackage{booktabs,longtable,supertabular,tabularx,tabulary}
-\usepackage{multicol,multirow}
+
 %Tabellen
 % Floats
 %\usepackage{float,wrapfig}
@@ -40,6 +39,8 @@
 
 \usepackage{soul}
 \usepackage{array}
+\usepackage{booktabs,longtable,supertabular,tabularx,tabulary}
+\usepackage{multicol,multirow}
 \usepackage{scalefnt}
 
 \usepackage{hhline}
@@ -168,7 +169,7 @@ bindingoffset=1.5cm]
 \addtokomafont{chapter}{\Huge\sffamily\fontfamily{phv}\bfseries\color{ubuntured}}
 \addtokomafont{section}{\Huge\color{ubuntured}}
 \addtokomafont{subsection}{\huge\color{ubuntured}}
-\addtokomafont{subsubsection}{\LARGE\color{darkBlue}}
+\addtokomafont{subsubsection}{\LARGE\color{ubuntured!80}}
 \addtokomafont{paragraph}{\large\color{darkBlue}}
 \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 % \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
@@ -227,9 +228,10 @@ bindingoffset=1.5cm]
 
 % %%% DRAFT %%%
 \fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
-Entwicklungszweig:
-\input{./tmp/git-current-branch.tmp} -- Letztes Commit:
-\input{./tmp/git-lastcommit.tmp}}}}
+% Entwicklungszweig:
+% \input{./tmp/git-current-branch.tmp} -- Letztes Commit:
+% \input{./tmp/git-lastcommit.tmp}
+}}}
 
 %%% FINAL %%%
 % \fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
@@ -1159,166 +1161,625 @@ gA\{\}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
+\clearpage
 \subsection{Standardlayouts und "`Verheirateter Text"'}
 
+\#1: Paragraphenueberschrift
 
+\#2: Fliesstext
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+\#3: Stichworte
 
-\subsubsection{Standardlayout 1 -- \gCode{\tbs
-gMarriedNG\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMarriedNG\{\}\{\}\{\}}}
+\#4: Bild oder Objekt
 
-\begin{description}
-    \item[Syntax:]
-    \lstinline$\gMarriedNG{<Paragraphenueberschrift>}{<Fliesstext>}{<Stichworte>}$
-    \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung
+\#5: Beschriftung
+
+\#6: Copyright
+
+\begin{gWideParEnv}
+\gCaptionof{table}{Standardlayouts}
+
+\begin{tabular}{rp{10cm}l}
+\noindent\gTabHeading{\#}
+&
+\noindent\gTabHeading{Beschreibung}
+&
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\gTabHeading{Textlastiges Layout}}
+\\\addlinespace\midrule\addlinespace
+0
+&
+Die Rechte Spalte ist die Kurzfassung
 von der linken Spalte und soll in etwa einer
-Präsentations-Folie entsprechen    
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-%     
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-\end{description}
+Präsentations-Folie entsprechen 
+&
+Test
+\\
+1
+&
+ohne Überschrift
+&
+
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\gTabHeading{Textlastige Layouts über gesamte Seite}}
+\\\addlinespace\midrule\addlinespace
+10
+&
+
+&
+
+\\
+11
+&
+
+&
 
 
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\gTabHeading{Layout mit Bild}}
+\\\addlinespace\midrule\addlinespace
+20 & Bild + Fließtext, Punkte & 
+\\
+21 & Bild + Fließtext, Punkte, ohne Überschrift & 
+\\
+22 & Bild + Fließtext & 
+\\
+23 & Bild + Fließtext, ohne Überschrift & 
+\\
+24 & Bild + Punkte & 
+\\
+25 & Bild + Punkte, ohne Überschrift & 
+\\
+26 & Bild & 
+\\
+27 & Bild, ohne Überschrift &
+\\
+28 & Teaser + Fließtext, Punkte &
+\\
+29 & Teaser + Fließtext, Punkte, ohne Überschrift &
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\gTabHeading{Layouts mit Bild über gesamte Seite}}
+\\\addlinespace\midrule\addlinespace
+30 & Bild + Fließtext, Punkte & 
+\\
+31 & Bild + Fließtext, Punkte, ohne Überschrift & 
+\\
+32 & Bild + Fließtext & 
+\\
+33 & Bild + Fließtext, ohne Überschrift & 
+\\
+34 & Bild + Punkte & 
+\\
+35 & Bild + Punkte, ohne Überschrift & 
+\\
+36 & Bild & 
+\\
+37 & Bild, ohne Überschrift &
+\\
+38 & Teaser + Fließtext, Punkte &
+\\
+39 & Teaser + Fließtext, Punkte, ohne Überschrift &
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\gTabHeading{Layouts mit Objekt (Tabelle o.ä.)}}
+\\\addlinespace\midrule\addlinespace
+40 & Objekt + Fließtext, Punkte & 
+\\
+41 & Objekt + Fließtext, Punkte, ohne Überschrift & 
+\\
+42 & Objekt + Fließtext & 
+\\
+43 & Objekt + Fließtext, ohne Überschrift & 
+\\
+44 & Objekt + Punkte & 
+\\
+45 & Objekt + Punkte, ohne Überschrift & 
+\\
+46 & Objekt & 
+\\
+47 & Objekt, ohne Überschrift &
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\gTabHeading{Layouts mit Objekt (Tabelle o.ä.) über ganze
+Seite}} 
+\\\addlinespace\midrule\addlinespace
+50 & Objekt + Fließtext, Punkte & 
+\\
+51 & Objekt + Fließtext, Punkte, ohne Überschrift & 
+\\
+52 & Objekt + Fließtext & 
+\\
+53 & Objekt + Fließtext, ohne Überschrift & 
+\\
+54 & Objekt + Punkte & 
+\\
+55 & Objekt + Punkte, ohne Überschrift & 
+\\
+56 & Objekt & 
+\\
+57 & Bild, ohne Überschrift &
+\\\addlinespace\bottomrule
+\end{tabular}
+\end{gWideParEnv}
 
-\begin{minipage}{0.48\linewidth}
-
-\end{minipage}
-\hspace{0.04\linewidth}
-\begin{minipage}{0.48\linewidth}
-\begin{lstlisting}
-
-\end{lstlisting}
-\end{minipage}
-
-
+% \subsubsection{Textlastige Layouts}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 1}\marginpar{\gT{\tbs gMarriedLi\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+%     \item[Syntax:]
+%     \lstinline$\gMarriedNG{<Paragraphenueberschrift>}{<Fliesstext>}{<Stichworte>}$
+%     \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung
+% von der linken Spalte und soll in etwa einer
+% Präsentations-Folie entsprechen    
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% 
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 2 -- ohne Überschrift}\marginpar{\gT{\tbs
+% gMarriedLii\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung von der linken Spalte und soll in etwa einer Präsentations-Folie entsprechen.
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% \subsubsection{Layouts mit Bild}
+% 
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 11 -- Mit Teaser}\marginpar{\gT{\tbs gMarriedLxi\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] Mit Teaser-Bild.
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 12 -- Mit Teaser ohne Überschrift}\marginpar{\gT{\tbs gMarriedLxi\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] Mit Teaser-Bild, ohne Überschrift.
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 13 -- Mit Bild}\marginpar{\gT{\tbs
+% gMarriedLxii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] Mit größerem Bild.
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 14 -- Mit Bild, ohne Überschrift}\marginpar{\gT{\tbs
+% gMarriedLxii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] Mir größerem Bild, ohne Überschrift.
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 15 -- Nur Bild}\marginpar{\gT{\tbs
+% gMarriedLxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] Nur Bild.
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 16 -- Nur Bild ohne Überschrift}\marginpar{\gT{\tbs
+% gMarriedLxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] Nur Bild, ohne Überschrift.
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% \subsubsection{Textlastige Layouts über gesamte Seite}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 31}\marginpar{\gT{\tbs gMarriedLxxxi\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+%     \item[Syntax:]
+%     \lstinline$\gMarriedNG{<Paragraphenueberschrift>}{<Fliesstext>}{<Stichworte>}$
+%     \item[Beschreibung:] 
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% 
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 32}\marginpar{\gT{\tbs gMarriedLxxxii\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] 
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% 
+% \subsubsection{Layouts mit Bild über gesamte Seite}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 41 -- Mit Bild und Punkten} \marginpar{\gT{\tbs
+% gMarriedLxli\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] 
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 42 -- Mit Bild und Punkten, ohne Überschrift}
+% \marginpar{\gT{\tbs gMarriedLxlii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] 
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 43 -- Mit Bild, Punkten und Fließtext}
+% \marginpar{\gT{\tbs gMarriedLxliii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] 
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 44 -- Mit Bild, Punkten und Fließtext, ohne
+% Überschrift} \marginpar{\gT{\tbs gMarriedLxxxii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] 
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 45 -- Nur Bild (und Beschriftung)}
+% \marginpar{\gT{\tbs gMarriedLxxxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] 
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \paragraph{Standardlayout 46 -- Nur Bild (und Beschriftung), ohne Überschrift}
+% \marginpar{\gT{\tbs gMarriedLxxxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% 
+% \begin{description}
+% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+%     \item[Beschreibung:] 
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+% 
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
-\subsubsection{Standardlayout 2 -- \gCode{\tbs
-gMarried\{\}}}\marginpar{\gT{\tbs gMarried\{\}}}
-
-\begin{description}
-    \item[Syntax:] \lstinline$\gMarried{<text>}$
-    \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung von der linken Spalte und soll in etwa einer Präsentations-Folie entsprechen.
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-%     
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-\end{description}
-
-
-
-\begin{minipage}{0.48\linewidth}
-
-\end{minipage}
-\hspace{0.04\linewidth}
-\begin{minipage}{0.48\linewidth}
-\begin{lstlisting}
-
-\end{lstlisting}
-\end{minipage}
-
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
-\subsubsection{Standardlayout 3 -- Mit Teaser -- \gCode{\tbs
-gMarriedLIII\{\}\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMarriedLIII\{\}\{\}\{\}\{\}}}
-
-\begin{description}
-    \item[Syntax:] \lstinline$\gMarried{<text>}$
-    \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung von der linken Spalte und soll in etwa einer Präsentations-Folie entsprechen.
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-%     
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-\end{description}
-
-
-
-\begin{minipage}{0.48\linewidth}
-
-\end{minipage}
-\hspace{0.04\linewidth}
-\begin{minipage}{0.48\linewidth}
-\begin{lstlisting}
-
-\end{lstlisting}
-\end{minipage}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
-\subsubsection{Standardlayout 4 -- Mit Bild -- \gCode{\tbs
-gMarriedLIV\{\}\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMarriedLIV\{\}\{\}\{\}\{\}}}
-
-\begin{description}
-    \item[Syntax:] \lstinline$\gMarried{<text>}$
-    \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung von der linken Spalte und soll in etwa einer Präsentations-Folie entsprechen.
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-%     
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-\end{description}
-
-
-
-\begin{minipage}{0.48\linewidth}
-
-\end{minipage}
-\hspace{0.04\linewidth}
-\begin{minipage}{0.48\linewidth}
-\begin{lstlisting}
-
-\end{lstlisting}
-\end{minipage}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
-\subsubsection{Standardlayout 5 -- Nur Bild -- \gCode{\tbs
-gMarriedLV\{\}\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMarriedLV\{\}\{\}\{\}\{\}}}
-
-\begin{description}
-    \item[Syntax:] \lstinline$\gMarried{<text>}$
-    \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung von der linken Spalte und soll in etwa einer Präsentations-Folie entsprechen.
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-%     
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-\end{description}
-
-
-
-\begin{minipage}{0.48\linewidth}
-
-\end{minipage}
-\hspace{0.04\linewidth}
-\begin{minipage}{0.48\linewidth}
-\begin{lstlisting}
-
-\end{lstlisting}
-\end{minipage}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
+\clearpage
 \subsection{Spezielle Bereiche}
 
 \begin{minipage}{0.48\linewidth}
@@ -1578,7 +2039,10 @@ Die Cave-Box kann auch mit der \gCa{\tbs gCa\{\}-Formatierung} kombiniert werden
 
 \subsubsection{aass-common.sty}
 
+\begin{gWideParEnv}
 \lstinputlisting{aass-common.sty}
+\end{gWideParEnv}
+
 
 
 \end{document}

@@ -392,7 +392,9 @@ Gebrauch!
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen
-\renewcommand{\tableformat}{Tafel~\thetable\autodot}
+% \renewcommand{\tableformat}{Tafel~\thetable\autodot}
+\renewcommand{\tableformat}{{\sffamily\mdseries\color{darkBlue}\ovalbox{T}}~\thetable\autodot}
+
 % Non-floating captions
 \usepackage[labelsep=newline,font={sf,bf},textfont={sf,md,it},singlelinecheck=false]{caption}
 

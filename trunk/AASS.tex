@@ -166,6 +166,64 @@ MPG-WEINMANN-MEDUMAT-TRANSPORT %
 %%% --- END --- %%%
 \usepackage{makeidx}
 \setcounter{secnumdepth}{3}
+% LaTeX-Begleiter S.676
+\makeatletter
+\renewenvironment{theindex}
+   {
+   \begin{gWideParEnv}
+   ~
+
+   \begin{multicols}{3}[\section*{\indexname}]
+      \setlength\parindent{0pt}\setlength\parskip{0pt}\let\item\@idxitem
+   }
+   {
+   \end{multicols}
+   \end{gWideParEnv}
+   }
+\makeatother
+
+% %  
+% \makeatletter
+%     \renewenvironment{theindex}{%
+%         \edef\indexname{\the\@nameuse{idxtitle@\@indextype}}%
+% %         \if@twocolumn
+% %             \@restonecolfalse
+% %         \else
+% % %             \@restonecoltrue
+% %             \@restonecolfalse
+% %         \fi
+% %         \columnseprule \z@
+% %         \columnsep 35\p@
+% %         \twocolumn[%
+% %             \@makeschapterhead{\indexname}%
+% %             \ifx\index@prologue\@empty\else
+% %                 \index@prologue
+% %                 \bigskip
+% %             \fi
+% %         ]%
+% %         \@mkboth{\MakeUppercase\indexname}%
+% %                 {\MakeUppercase\indexname}%
+%         \thispagestyle{plain}%
+%         \parindent\z@
+%         \parskip\z@ \@plus .3\p@%\relax
+%         \begin{gWideParEnv}
+%         ~
+%         
+%         \begin{multicols}{3}[\section*{\indexname}]
+%         \let\item\@idxitem
+%     }{%
+%         \end{multicols}
+%         \end{gWideParEnv}
+% %         \if@restonecol
+% %             \onecolumn
+% %         \else
+% %             \clearpage
+% %         \fi
+%     }
+% \makeatother
+
+
+% \usepackage{scrindex}
 \makeindex
 
 

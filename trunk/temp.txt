@@ -1,11 +1,9 @@
-\gMarriedNG{}
+\gLayout{0}{}
 {
-% TODO Fließtext fehlt.
 
 }{
-% TODO Slide fehlt.
 
-}
+}{}{}{}
 
 
 

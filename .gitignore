@@ -19,3 +19,4 @@ AASS-*.pdf
 tempPartial*
 *.toc
 *.tmp
+trunk/tmp/*

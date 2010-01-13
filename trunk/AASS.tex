@@ -1,4 +1,4 @@
-\documentclass[ngerman,paper=a4,fontsize=9pt,headings=big,draft=no,parskip=half,noonelinecaption]{scrbook}
+\documentclass[ngerman,paper=a4,asymmetric,fontsize=9pt,headings=big,draft=no,parskip=half,noonelinecaption]{scrbook}
 
 % UTF-8 Schriftkodierung
 \usepackage[utf8]{inputenc}
@@ -44,6 +44,12 @@
 \unrestored@protected@xdef\@thefnmark{\ref{#1}}% \endgroup 
 \@footnotemark}
 \makeatother
+
+\usepackage{prettyref}
+\newrefformat{sec}{\emph{\ref{#1}}}
+\newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
+\newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
+\newrefformat{tab}{{\sffamily\mdseries\color{darkBlue}{\ovalbox{T}}}\,\ref{#1}}
 
 \usepackage{aass-common}
 
@@ -160,6 +166,64 @@ MPG-WEINMANN-MEDUMAT-TRANSPORT %
 %%% --- END --- %%%
 \usepackage{makeidx}
 \setcounter{secnumdepth}{3}
+% LaTeX-Begleiter S.676
+\makeatletter
+\renewenvironment{theindex}
+   {
+   \begin{gWideParEnv}
+   ~
+
+   \begin{multicols}{3}[\section*{\indexname}]
+      \setlength\parindent{0pt}\setlength\parskip{0pt}\let\item\@idxitem
+   }
+   {
+   \end{multicols}
+   \end{gWideParEnv}
+   }
+\makeatother
+
+% %  
+% \makeatletter
+%     \renewenvironment{theindex}{%
+%         \edef\indexname{\the\@nameuse{idxtitle@\@indextype}}%
+% %         \if@twocolumn
+% %             \@restonecolfalse
+% %         \else
+% % %             \@restonecoltrue
+% %             \@restonecolfalse
+% %         \fi
+% %         \columnseprule \z@
+% %         \columnsep 35\p@
+% %         \twocolumn[%
+% %             \@makeschapterhead{\indexname}%
+% %             \ifx\index@prologue\@empty\else
+% %                 \index@prologue
+% %                 \bigskip
+% %             \fi
+% %         ]%
+% %         \@mkboth{\MakeUppercase\indexname}%
+% %                 {\MakeUppercase\indexname}%
+%         \thispagestyle{plain}%
+%         \parindent\z@
+%         \parskip\z@ \@plus .3\p@%\relax
+%         \begin{gWideParEnv}
+%         ~
+%         
+%         \begin{multicols}{3}[\section*{\indexname}]
+%         \let\item\@idxitem
+%     }{%
+%         \end{multicols}
+%         \end{gWideParEnv}
+% %         \if@restonecol
+% %             \onecolumn
+% %         \else
+% %             \clearpage
+% %         \fi
+%     }
+% \makeatother
+
+
+% \usepackage{scrindex}
 \makeindex
 
 
@@ -177,7 +241,7 @@ MPG-WEINMANN-MEDUMAT-TRANSPORT %
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Floats
-\usepackage{float,wrapfig}
+\usepackage{float,wrapfig,picins}
 
 % watches margin paragraphs and
 % gives warnings
@@ -186,6 +250,7 @@ MPG-WEINMANN-MEDUMAT-TRANSPORT %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Textauszeichnungen
 \usepackage{soul}
+\usepackage{soulutf8}
 \usepackage{scalefnt}
 
 
@@ -216,7 +281,7 @@ lmargin=13mm,
 rmargin=70mm,
 % outer  = 56mm,
 % inner  = 56mm,
-top    = 25mm,
+top    = 20mm,
 bottom = 20mm,
 % hmarginratio=2:1,
 marginparwidth = 60mm,
@@ -252,9 +317,11 @@ bindingoffset=1.5cm]
 \newlength{\gTextspalte}
 \newlength{\gRandspalte}
 \newlength{\gTrenner}
+\newlength{\gKorrektur}
 \setlength{\gTextspalte}{\textwidth}
 \setlength{\gRandspalte}{\marginparwidth}
 \setlength{\gTrenner}{6pt}
+\setlength{\gKorrektur}{{\fboxrule} + {\fboxsep}}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -276,10 +343,11 @@ bindingoffset=1.5cm]
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Schriftarten
-\usepackage[scaled]{helvet} 
+%\usepackage[scaled]{helvet} 
 %%% Latin Modern                                                       
 \usepackage{lmodern}
 \renewcommand{\rmdefault}{lmr} % Latin Modern Roman 
+%\renewcommand{\bfdefault}{b} % bold und nciht bold extended
 \renewcommand{\sfdefault}{lmss} % Latin Modern Sans Serif
 \renewcommand{\ttdefault}{lmtt} % Latin Modern Typewriter 
 
@@ -318,7 +386,7 @@ bindingoffset=1.5cm]
 
 % No bottom titles !!!
 \usepackage[nobottomtitles]{titlesec}
-\renewcommand{\bottomtitlespace}{.1\textheight}
+\renewcommand{\bottomtitlespace}{.08\textheight}
 
 
 
@@ -382,7 +450,10 @@ Gebrauch!
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen
-\renewcommand{\tableformat}{Tafel~\thetable\autodot}
+% \renewcommand{\tableformat}{Tafel~\thetable\autodot}
+\newcommand{\gSignTable}{{\sffamily\mdseries\color{darkBlue}\ovalbox{T}}}
+\renewcommand{\tableformat}{{\sffamily\mdseries\color{darkBlue}\ovalbox{T}}~\thetable\autodot}
+
 % Non-floating captions
 \usepackage[labelsep=newline,font={sf,bf},textfont={sf,md,it},singlelinecheck=false]{caption}
 
@@ -543,7 +614,7 @@ saluti et solatio aegrorum}
 
 %\nocite{*} 
 
-\layout
+% \layout
 
 % \paragraph*{Mission Statement} \textperiodcentered Das Ausbildungszentrum (ABZ) ist
 % eine Dienst\-leistungs\-ein\-richtung des ASB Floridsdorf-Donau\-stadt
@@ -622,7 +693,7 @@ handelt.
 
 \clearpage
 \section*{Herausgeber und Redakteure}
-
+% \begin{gWideParEnv}
 \emph{\tiny{(in alphabetischer Reihenfolge)}}
 
 
@@ -695,13 +766,17 @@ Hinaysgasse 1, A-1210 Wien
     Langobardenstra{\ss}e 122, A-1220 Wien
     
 \end{multicols}
+% \end{gWideParEnv}
 
 \section*{Autoren}
+
+% \begin{gWideParEnv}
+
 
 \emph{\tiny{(in alphabetischer Reihenfolge)}}
 
 
-\begin{multicols}{2}
+\begin{multicols}{3}
     
     \paragraph{David Hauer}
     Dr. med. univ.
@@ -721,12 +796,13 @@ Hinaysgasse 1, A-1210 Wien
     
     Facharzt für Innere Medizin, Langenzersdorf
     
-
-
 \end{multicols}
+% \end{gWideParEnv}
+
 
 \section*{Mitwirkende}
 
+% \begin{gWideParEnv}
 \begin{multicols}{2}
 Mario Artlieb
 
@@ -741,6 +817,7 @@ Ihrer konstruktiven Kritik unterstützt haben.
 
 \end{multicols}
 
+% \end{gWideParEnv}
 \section*{Spezieller Dank}
 
 \gMarried{
@@ -834,18 +911,20 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 % \tableofcontents
 
 % \begin{multicols}{2}
-% \scriptsize
-% \listoffigures
+{\small
+\listoffigures}
 % \end{multicols}
 % 
 % 
 % \begin{multicols}{2}
-% \scriptsize
-% \listoftables
+{\small
+\listoftables}
 % \end{multicols}
 
-
+% \begin{gWideParEnv}
 \printindex
+% \end{gWideParEnv}
+
 
 % \nocite{*}
 % \begin{multicols}{2}
@@ -916,10 +995,13 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 \include{./chapters/inc-INT}
 \include{./chapters/inc-APP}
 
+\begin{gWideParEnv}
 {
 \scriptsize \setlength{\parskip}{1pt}
 \bibliography{Literatur-AASS}
 }
+\end{gWideParEnv}
+
 
 SO LONG..........
 

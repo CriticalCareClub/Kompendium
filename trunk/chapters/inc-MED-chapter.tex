@@ -249,7 +249,7 @@ das Spital {\quotedblbase}um{\textquotesingle}s Eck{\textquotedblleft}
 ist.}
 
 
-\gLayout{1}{Symptome}{
+\gLayout{1}{\gTxSymptome}{
 Der Patient klagt über Atemnot (\gEs{Dyspnoe}). Oft
 berichten die Patienten dass sie nur mehr im Sitzen Luft
 bekommen, sie können nicht flach liegen (\gZ{Orthopnoe}).
@@ -307,7 +307,7 @@ des rechten Herzens.
 \index{Rechtsherzinsuffizienz}\index{Herzinsuffizienz!Rechts-}
 \index{Insuffizienz!Rechtsherz-}
 
-\gLayout{1}{Symptome}
+\gLayout{1}{\gTxSymptome}
 {
 Durch den Rückstau des Blutes in das venöse Gefäßsystem
 kommt es oft zu Ödemen (Beine, \ldots) und
@@ -400,7 +400,7 @@ des Herzmuskels und zu den Symptomen der Angina pectoris.
 
 \end{center}
 
-\gLayout{1}{Symptome}
+\gLayout{1}{\gTxSymptome}
 {
 % TODO MED: Fließtext fehlt!
 \gZ{\emph{Lorem ipsum brute docendi expetenda his ut, graecis detracto et nec! Possim
@@ -739,7 +739,7 @@ Arzt wichtig um eine rasche, zielführende Behandlung einzuleiten.
 \end{itemize}
 }{}{}{}
 
-\gLayout{1}{Symptome}
+\gLayout{1}{\gTxSymptome}
 {Es liegt klarerweise eine \gEs{Tachykardie} vor. Die Frequenz ist i.d.R. hoch,
 meist über 160\,\,\nicefrac{}{min}. Der Patient klagt oft über ein
 \gEs{"`Herzklopfen"'} und ist unruhig. Manchmal wird der Anfall von
@@ -923,7 +923,7 @@ andere Werte.
 %     \item Schock
 % \end{itemize}
 % 
-% \paragraph{Symptome}
+% \paragraph{\gTxSymptome}
 % 
 % \begin{itemize}
 %     \item Müdigkeit bis Kollaps
@@ -938,7 +938,7 @@ andere Werte.
 \gDefinition{passagere Kreislaufregulationsstörung  mit RR-Abfall,
     Blutverteilungsstörung  ohne Volumsverlust}
 
-\paragraph{Symptome}
+\paragraph{\gTxSymptome}
 
 \begin{itemize}
     \item RR ${\downarrow}$
@@ -1267,7 +1267,9 @@ Ver\-schluss\-krank\-heit.
 "`\emph{Verschluss}krankheit"' heißt, sind die Gefäße nicht komplett
 verschlossen, sondern nur verengt!)
 
-\gLayout{1}{Symptome}
+\gLayout{}{}{}{}{}{}{}
+
+\gLayout{1}{\gTxSymptome}
 {
 Die Symptome ergeben sich aus der Unterversorgung der
 Extremität mit sauerstoffreichem Blut: sie ist blass,
@@ -1293,7 +1295,6 @@ englischen P's"'})}.
 \centering 5. & \noindent\gZ{Paralysis}   & \noindent\gEs{gelähmt}
 \\\addlinespace\bottomrule
 \end{tabulary}
-
 }{}{}{}
 
 
@@ -1313,9 +1314,9 @@ englischen P's"'})}.
 Gegensatz dazu \gT{Embolus}: Losgelöster Thrombus, welcher woanders ein Gefäß
 verstopft und eine \gT{Embolie} verursacht.}) verstopft Vene}
 
-\gParallel{
-\paragraph{Ursachen}
 
+\gLayout{2}{Ursachen}
+{
 \begin{itemize}
     \item Venöse Insuffizienz (Krampfadern = Venenaussackungen aufgrund
     gestörten  Blutrückflusses, Venenklappeninsuffizienz), Rückstau
@@ -1325,15 +1326,20 @@ verstopft und eine \gT{Embolie} verursacht.}) verstopft Vene}
     Syndrom}\gT{Economy class Syndrom}
 \end{itemize}
 }{
-\paragraph{Symptome}
 
+}{}{}{}
+
+\gLayout{2}{\gTxSymptome}
+{
 \begin{itemize}
     \item Schmerzen
     \item Schwellung (einseitig, anderes Bein auch ansehen zum Vergleich!)
     \item Dunkel-bläuliche (livide ) Verfärbung
     \item Überwärmung    
 \end{itemize}
-}
+}{
+
+}{}{}{}
 
 \paragraph{Gefahr}
 
@@ -1368,9 +1374,7 @@ entstehen können. Die Substanz wird unter die Haut ("`subkutan"') gespritzt.
         hochlagern
         \item Bewegungsverbot: Pat. nicht mehr gehen lassen  (Emboliegefahr!)
     \end{itemize}
-    
 }
-
 
 
 
@@ -1416,7 +1420,7 @@ sind:
     \item Z.n. Bienenstich bei Allergiker (Kehldeckelödem)
 \end{itemize}
 
-\paragraph{Symptome}
+\paragraph{\gTxSymptome}
 
 \begin{itemize} 
     \item Dyspnoe, Husten
@@ -1661,7 +1665,7 @@ nachweisen kann spricht man von der chronisch-obstruktiven
 Lungenerkrankung (\gAbk{COPD}). 
 
 
-\gLayout{1}{Symptome}{
+\gLayout{1}{\gTxSymptome}{
 Die \gAbk{COPD} ist durch eine voranschreitende
 Verschlechterung der Atemleistung gekennzeichnet, erste Anzeichen sind ein
 Husten mit Auswurf, der klassische "`Raucherhusten"'.
@@ -2135,7 +2139,7 @@ Beispiel dafür (\gSee{topic:koma-diabetisches}).
 }{}{}{}
 
 
-% \paragraph{Symptome}
+% \paragraph{\gTxSymptome}
 % 
 % \begin{itemize}
 % \item Unruhe, Aufregung, evt. Angstgefühle, Panik
@@ -2743,7 +2747,7 @@ Wurzeln verursacht werden können.
 im Bereich der Lendenwirbel bzw. der Kreuzbeinwirbel,
 ein Bandscheibenvorfall, sowie andere Erkrankungen der Wirbelsäule, aber auch ein Unfall sein. 
 
-\paragraph{Symptome} sind Schmerzen in der
+\paragraph{\gTxSymptome} sind Schmerzen in der
 Lendengegend, die in das betroffene Bein bis zum Fußaußenrand ausstrahlen, 
 Schonhaltung, lokale Druck- und Klopfempfindlichkeit der Wirbelsäule,
 Sensibilitätsstörungen und eventuell Lähmung der Zehenmuskulatur. Je nach
@@ -3481,7 +3485,7 @@ etc.)
 
 }{}{}{}
 
-\gLayout{2}{Symptome}
+\gLayout{2}{\gTxSymptome}
 {
 \begin{itemize}
     \item Schmerzen
@@ -3530,7 +3534,7 @@ Abdomen, siehe \ref{topic:akutes-abdomen}.
 
 Der Verlauf einer akuten Appendizitis ist
 jeweils durch individuelle Faktoren wie Lebensalter und Allgemeinzustand des
-Patienten geprägt. } {\gSlideHeading{Symptome}
+Patienten geprägt. } {\gSlideHeading{\gTxSymptome}
 
 \begin{itemize}
     \item Schmerzen im re. Unterbauch
@@ -3616,7 +3620,7 @@ es wird bräunlich, ähnlich dem Kaffeesatz im Kaffeefilter.}
 \end{itemize}
 }{}{}{}
 
-\gLayout{0}{Symptome}
+\gLayout{0}{\gTxSymptome}
 {
 \begin{itemize}
     \item Bluterbrechen im Schwall (Hämatemesis)
@@ -3817,7 +3821,7 @@ Situation nüchtern zu belassen!}
 % Die genannten Ursachen sind natürlich nur ein kleiner Teil von sehr vielen
 % Möglichkeiten.
 % 
-% \gTagPar{Symptome}Der Patient wirkt allgemein \gE{geschwächt
+% \gTagPar{\gTxSymptome}Der Patient wirkt allgemein \gE{geschwächt
 % bis apathisch}, oft \gEs{verwirrt}, klagt über mehr oder minder heftiges
 % Durstgefühl, ev. über Wadenkrämpfe und Erbrechen. Die Haut
 % ist auffallend trocken, \gEs{Falten sind abhebbar und
@@ -3857,7 +3861,7 @@ Situation nüchtern zu belassen!}
 % Die genannten Ursachen sind natürlich nur ein kleiner Teil von sehr vielen
 % Möglichkeiten.
 % 
-% \gTagPar{Symptome}Der Patient wirkt allgemein \gE{geschwächt
+% \gTagPar{\gTxSymptome}Der Patient wirkt allgemein \gE{geschwächt
 % bis apathisch}, oft \gEs{verwirrt}, klagt über mehr oder minder heftiges
 % Durstgefühl, ev. über Wadenkrämpfe und Erbrechen. Die Haut
 % ist auffallend trocken, \gEs{Falten sind abhebbar und
@@ -3898,7 +3902,7 @@ Situation nüchtern zu belassen!}
 % Die genannten Ursachen sind natürlich nur ein kleiner Teil von sehr vielen
 % Möglichkeiten.
 % }{
-% \gTagPar{Symptome}Der Patient wirkt allgemein \gE{geschwächt
+% \gTagPar{\gTxSymptome}Der Patient wirkt allgemein \gE{geschwächt
 % bis apathisch}, oft \gEs{verwirrt}, klagt über mehr oder minder heftiges
 % Durstgefühl, ev. über Wadenkrämpfe und Erbrechen. Die Haut
 % ist auffallend trocken, \gEs{Falten sind abhebbar und
@@ -4030,7 +4034,7 @@ Medikamente (z.B. Paracetamol) zu nennen.
 \end{itemize}
 }{}{}{}
 
-\gLayout{1}{Symptome}
+\gLayout{1}{\gTxSymptome}
 {
 Die Symptomatik einer Hepatitis ist
 uncharakteristisch und eher allgemein: Unspezifisches mehr oder minder
@@ -4078,7 +4082,7 @@ Blinddarmdurchbruch, \ldots) Ursache der Entzündung. }
     über Fremdkörper
 \end{itemize}
 
-\gSlideHeading{Symptome}
+\gSlideHeading{\gTxSymptome}
 
 \begin{itemize}
     \item Symptome eines Akuten Abdomens
@@ -4486,7 +4490,7 @@ Die Diagnose ist durch einen Sanitäter nicht sicher zu stellen. Im
 Vordergrund steht daher die Behandlung der Symptome (Schock) und ein
 zügiger Transport. 
 
-\paragraph{Symptome}
+\paragraph{\gTxSymptome}
 
 \begin{itemize}
     \item unspezifisch:
@@ -4547,7 +4551,7 @@ führen.
 \gFazit{Die \emph{Prä}eklampsie (EPH-Gestose) kann zu einem
 lebensgefährlichen Krampfanfall (Eklampsie) führen.}
 
-\paragraph{Symptome}
+\paragraph{\gTxSymptome}
 
 \begin{enumerate}
     \item \gEs{E}dema (Ödeme)
@@ -5214,7 +5218,7 @@ z.B. Nahrungsmittel, Spielzeug o.ä.}
 
 \gMarginNo{\cite{Erc2005Sec6}} % p 102
 
-\gLayout{1}{Symptome}
+\gLayout{1}{\gTxSymptome}
 {
 % TODO MED: Fließtext fehlt.
 Lorem ipsum brute docendi expetenda his ut, graecis detracto et nec! Possim
@@ -5267,7 +5271,7 @@ Dabei handelt es sich um eine Entzündung des Kehlkopfes. Es können auch die
 oberen Atemwege durch das Anschwellen der Schleimhäute behindert sein
 (Pseudokrupp/Kruppsyndrom). Diese Infektion wird durch Viren verursacht.
 
-\gLayout{1}{Symptome}
+\gLayout{1}{\gTxSymptome}
 {
 % TODO MED: Fließtext fehlt.
 Lorem ipsum brute docendi expetenda his ut, graecis detracto et nec! Possim
@@ -5314,7 +5318,7 @@ richtiger  Behandlung besteht aber meist eine gute Prognose.
 
 
 
-\gLayout{1}{Symptome}
+\gLayout{1}{\gTxSymptome}
 {
 % TODO MED: Fließtext fehlt.
 Lorem ipsum brute docendi expetenda his ut, graecis detracto et nec! Possim
@@ -5727,7 +5731,7 @@ Diese Punkte sind grundsätzlich für jeden Einsatz sinnvoll!
 
 
 
-\subsection{Symptome}
+\subsection{\gTxSymptome}
 
 \subsubsection{Der Patient mit \emph{Wahnvorstellungen}}
 
@@ -5926,7 +5930,7 @@ Patient}}
 
 %\gDefinition{Stupor: Erschlaffung}
 % 
-% \paragraph{Symptome}
+% \paragraph{\gTxSymptome}
 % 
 % \begin{itemize}
 %     \item ausdrucksloser Patient
@@ -6175,7 +6179,7 @@ Altersdemenz.}
     \item Persönlichkeitsstruktur
 \end{itemize}
 }{
-\paragraph{Symptome}
+\paragraph{\gTxSymptome}
 
 \begin{itemize}
     \item Zeitliche und örtliche Desorientierung
@@ -6267,7 +6271,7 @@ Altersdemenz.}
 \label{topic:alkohol-entzug}
 
 \gParallel{
-\paragraph{Symptome}
+\paragraph{\gTxSymptome}
 
 \begin{itemize}
     \item Schwitzen
@@ -6779,12 +6783,9 @@ bezüglich des weiteren Vorgehens
 \end{enumerate}
 \end{multicols}
 \end{enumerate}
-
 }
 
-\begin{multicols}{2}
 
-\end{multicols}
 
 \subsection{Vergiftungen mit Alkohol}
 
@@ -6796,11 +6797,21 @@ Zuständen kommen.
 \gZ{Die akute Alkoholvergiftung ist von der chronischen
 Alkoholabhängigkeit (Alkoholkrankheit) zu unterscheiden.}
 
-\gMarried{
+\gLayout{0}{Wirkung}
+{
 Alkohol  wirkt enthemmend, z.T. stimulierend und
 stimmungsmodulatorisch. Weiters kommt es zu einer Sprach- 
 und Gangunsicherheit. 
+}{
+\begin{itemize}
+    \item Enthemmend, stimmungsmodulatorisch
+    \item Sprach- und Gangunsicherheit
+    \item Bewusstseinstrübung
+\end{itemize}
+}{}{}{}
 
+\gLayout{0}{\gTxGefahren}
+{
 Mit zunehmender Menge kommt es zu einem totalen
 Kontrollverlust, Bewusstseinstrübung,
 Schmerzunempfindlichkeit, Temperaturregulationsstörung,
@@ -6812,14 +6823,7 @@ Gefahren sind Atemdepression, Aspiration (Ausfall der
 Schutzreflexe) und -- besonders in der kalten Jahreszeit --
 Unterkühlung.
 }{
-\gSlideHeading{Wirkung}
-\begin{itemize}
-    \item Enthemmend, stimmungsmodulatorisch
-    \item Sprach-
-    und Gangunsicherheit
-    \item Bewusstseinstrübung
-\end{itemize}
-\gSlideHeading{Gefahren}
+\gSlideHeading{}
 \begin{itemize}
     \item Koma
     \item Atemdepression
@@ -6829,8 +6833,7 @@ Unterkühlung.
     \item Schmerzunempfindlichkeit
     \item Unterkühlung
 \end{itemize}
-}
-
+}{}{}{}
 
 
 Es ist unbedingt zu erheben ob noch andere Substanzen
@@ -6839,7 +6842,7 @@ Es ist unbedingt zu erheben ob noch andere Substanzen
 Schmerzempfindlichkeit ist besonders auf Verletzungen zu
 achten.
 
-Die vitale Bedrohung ist vor allem anhand der
+Die \gEs{vitale Bedrohung} ist vor allem anhand der
 Vitalparameter, der körperlichen Untersuchung und des
 Bewusstseinszustandes zu beurteilen.
 
@@ -6849,15 +6852,14 @@ Bewusstseinszustandes zu beurteilen.
     (\gSee{vergiftung-allgemein-massnahmen})
     \item \gTxBeiVit \gTxMassVit
 \end{itemize}
-
 }
 
 
 Der Alkoholentzug und das Entzugsdelir wird unter
 \gSee{topic:alkohol-entzug} abgehandelt.
 
-\paragraph{Chronische Schäden}
-
+\gLayout{2}{Chronische Schäden}
+{
 \begin{itemize}
     \item Leberschäden, Zirrhose
     \item Aszites (Wasserbauch)
@@ -6869,6 +6871,12 @@ Der Alkoholentzug und das Entzugsdelir wird unter
     \item Anämie
     \item Pankreatitis
 \end{itemize}
+}{
+
+}{}{}{}
+
+
+
 
 
 
@@ -6881,9 +6889,8 @@ Der Alkoholentzug und das Entzugsdelir wird unter
 
 \subsection{Vergiftungen durch Medikamente}
 
-\begin{wrapfigure}{r}{4cm}
-\includegraphics[width=\linewidth]{./images/teaser/imgp0482.jpg}
-\end{wrapfigure}
+\gLayout{28}{}
+{
 Überdosierungen von Medikamenten können komplett
 unterschiedliche Symptome erzeugen, je nach eingenommenen
 Medikament. Manchmal können die Symptome sogar erst Stunden
@@ -6895,6 +6902,9 @@ Neben unabsichtlichen Fehleinnahmen oder Überdosierungen
 werden Arzneimittel oft auch in Selbstmordabsicht
 eingenommen. Die Umstände der Einnahme müssen daher
 abgeklärt werden.
+}{
+
+}{./images/teaser/imgp0482.jpg}{}{Gabriel}
 
 \gZ{
 \paragraph{Paracetamol (Mexalen\texttrademark,
@@ -6922,7 +6932,8 @@ Heroin und Morphium gehören zu der Gruppe der Opiate und
 sind im Drogenmilieu weit verbreitet, die Anwendung erfolgt
 i.d.R. intravenös. 
 
-\gMarried{
+\gLayout{0}{\gTxSymptome{} Opiatvergiftung}
+{
 Die gefährlichste Wirkung der Opiate ist die
 Atemdepressionen, d.h. die Atemfrequenz wird dosisabhängig
 immer weiter reduziert bis es schließlich zu einem
@@ -6936,10 +6947,8 @@ findet man alte Einstichstellen in der Armbeuge. Da in der
 verwendet wird besteht eine erhöhte Erkrankungsrate an HIV
 und Hepatitis C. Eine weitere Gefahr geht vom Spritzbesteck
 aus wenn es nicht sicher verwahrt wird (\gCa{Vorsicht vor
-der Nadel!}).
-
- }{
-\gSlideHeading{Heroin \& Co.}
+der Nadel!}
+}{
 \begin{itemize}
     \item Atemdepression
     \item Hypoxie
@@ -6948,16 +6957,21 @@ der Nadel!}).
     \item \gCa{Vorsicht Spritzbesteck!}
     \item Gegenmittel verfügbar, wirkt aber nicht so lang
 \end{itemize}
-}
+}{}{}{}
 
-
-
+\gLayout{2}{Gegenmittel}
+{
 Jedes Notarztmittel führt ein Opiat-Gegenmittel mit sich,
 dieses ist sehr effektiv\footnote{\gZ{Naloxon. Im Handel
 als: \emph{Narcanti}\texttrademark,
 \emph{Naloxon-ratiopharm}\texttrademark, u.a.}}. Es ist
 jedoch wichtig zu wissen, dass dieses Gegenmittel nicht so
 lange wirkt wie das Opiat, d.h. es kann wieder zu einer verminderten Atmung kommen wenn die Wirkung des Gegenmittels nachlässt. Daher soll der Transport nur mit Arztbegleitung erfolgen.
+
+}{
+
+}{}{}{}
+
 
 \gMassnahmenNG{Spezielle Maßnahmen}{Opiatvergiftung}{
 \begin{itemize}
@@ -6975,7 +6989,8 @@ lange wirkt wie das Opiat, d.h. es kann wieder zu einer verminderten Atmung komm
 \subsubsection{'Clubber' -- Ecstacy, Schwammerl,
 Special K \ldots}
 
-\gMarried{
+\gLayout{0}{\gTxBeschreibung}
+{
 \gZ{MDMA (3,4-Methylen\-dioxy\-meth\-amphet\-amin),} bekannt
 unter dem Namen \gE{"`Ecstasy"' (XTC, E, X)}, ist eine der
 bekanntesten \gE{"`Partydrogen"'}. Auf den ersten Blick
@@ -6983,25 +6998,31 @@ scheint die Substanz auch perfekt für diesen Zweck zu sein:
 Der Patient erlebt ein gesteigertes Glücksgefühl, ein
 Gefühl von unerschöpflicher Energie und ein gesteigertes
 Erleben der Umwelt. 
+}{
+\begin{itemize}
+    \item Ecstasy"' (XTC, E, X).
+        \item Gesteigertes "`Glücksgefühl"'.
+        \item Gefühl von unerschöpflicher Energie.
+        \item Gesteigertes Erleben der Umwelt.
+\end{itemize}
+}{}{}{}
 
+\gLayout{0}{\gTxSymptome}
+{
 Die Nebenwirkungen sind jedoch
 gravierend und können lebensgefährlich sein. Man kann sie
 Unterteilen in körperliche und psychische Nebenwirkungen. 
 Psychisch kommt es dosisabhängig zu Halluzinationen
-und Panik-Attacken. Körperlich können Patienten tachykarde
+und Panik-Attacken. 
+
+Körperlich können Patienten tachykarde
 Herzrhythmusstörungen zeigen, Krampfanfälle, hypertensive
 Krisen, massiver Körpertemperaturanstieg über
 40\textdegree{} und Muskelzerfall.
-}{
+
+Bei einer ausgeprägten Vergiftung kann eine vitale
+Bedrohung bestehen. }{
 \begin{itemize}
-    \item Ecstasy"' (XTC, E, X)
-    \item Wirkungen
-    \begin{itemize}
-        \item gesteigertes Glücksgefühl
-        \item Gefühl von unerschöpflicher Energie
-        \item gesteigertes
-        Erleben der Umwelt
-    \end{itemize}
     \item Nebenwirkungen Psychisch
     \begin{itemize}
         \item Halluzinationen
@@ -7009,20 +7030,22 @@ Krisen, massiver Körpertemperaturanstieg über
     \end{itemize}
     \item Nebenwirkungen Körperlich
     \begin{itemize}
-        \item tachykarde Herzrhythmusstörungen
-        \item Krampfanfälle,
-        \item hypertensive Krisen
-        \item massiver Körpertemperaturanstieg über
-        40\textdegree{}
+        \item Tachykarde Herzrhythmusstörungen.
+        \item Hypertensive Krisen.
+        \item Krampfanfälle.
+        \item Massiver Temperaturanstieg über
+        {\textgreater}\,40\textdegree{}
     \end{itemize}
 \end{itemize}
+}{}{}{}
 
-}
 
-\gMassnahmenNG{Spezielle Maßnahmen}{}{
+\gMassnahmenNG{Spezielle Maßnahmen}{Vergiftung mit
+Szenedrogen}{
 \begin{itemize}
     \item Allgemeine Maßnahmen bei Vergiftungen
-    (\ref{vergiftung-allgemein-massnahmen})und symptomatische Therapie
+    (\ref{vergiftung-allgemein-massnahmen}) und
+    symptomatische Therapie
     \item \gTxBeiVit \gTxMassVit
 \end{itemize}
 
@@ -7085,42 +7108,54 @@ roten Blutfarbstoff Hämoglobin als $O2$, daher verdrängen
 schon kleine Mengen den Sauerstoff aus dem Blut! Die Folge
 ist logischerweise eine Unterversorgung mit Sauerstoff.
 
+
+\gLayout{2}{Anamnese und Szene}
+{
+\begin{itemize}
+    \item Mehrere, unerklärliche Opfer, leblose Haustiere
+    \item Gasofen, Durchlauferhitzer
+    \item \emph{"`Immer beim duschen!"'}
+\end{itemize}
+}{
+
+}{}{}{}
+
+\gLayout{0}{\gTxSymptome}
+{
 Kohlenmonoxid-beladenes Blut ist -- wie
 Sauerstoff-beladenes -- hellrot. Der Patient ist
 daher eher nicht bleich oder zyanotisch, sondern
 die Haut ist oft rosig. Pulsoxymeter älterer Bauart
 verwechseln Kohlenmonoxid-beladenes und Sauerstoff-beladenes Blut, daher wird ein falsch hoher Sauerstoffsättigungswert angezeigt!
 
-\paragraph{Symptome}
+Es stehen die Symptome des Sauerstoffmangels im Vordergrund
+(Hypoxie): Der Patient leidet Atemnot, allerdings ohne
+Zyanose, begleitet von Allgemeinsymptomen wie Schwindel,
+Kopfschmerz, Übelkeit und Erbrechen, evt. besteht auch eine
+Tachykardie. 
 
+Es können sich rasch Bewusstseinsstörungen bis hin zur
+Bewusstlosigkeit entwickeln, auch Krämpfe sind gut möglich.
+}{
 \begin{itemize}
-    \item Dyspnoe  ohne  Zyanose (rosige Hautfarbe)
-    \item Tachykardie
+    \item Dyspnoe  \gE{ohne}  Zyanose.
+    \item Tachykardie.
     \item Schwindel, Kopfschmerz, Übelkeit, Erbrechen
-    \item evt. Krämpfe bis Koma
-    \item Anamnese \& Umgebung
-\begin{itemize}
-    \item \emph{"`Immer beim duschen!"'}
-    \item Mehrere, unerklärliche Opfer, leblose Haustiere
-    \item Gasofen, Durchlauferhitzer
+    \item Bewusstseinsstörungen, Koma. 
+    \item Krämpfe.
+    \item Pulsoxymeter zeigt falsche Werte an!
 \end{itemize}
-\end{itemize}
-
-
-
- 
-
-
-
-
+}{}{}{}
 
 
 \gMassnahmenNG{Spezielle Maßnahmen}{Kohlenmonoxid-Vergiftung}{
-Allgemeine Maßnahmen bei
+
+\begin{itemize}
+    \item Allgemeine Maßnahmen bei
 Stickgas-Vergiftungen
 (\ref{stickgase-allgemeine-massnahmen})
-
-\gZ{Hyperbare $O2$-Therapie in der Druckkammer erwägen}
+\item \gZ{Hyperbare $O2$-Therapie in der Druckkammer erwägen}
+\end{itemize}
 }
 
 
@@ -7171,8 +7206,8 @@ der Landwirtschaft und der Industrie an. Es ist schwerer als
 Luft und sammelt sich in Mulden, Weinkellern, Silos, etc.
 
 
-\paragraph{Symptome}~
-
+\gLayout{0}{\gTxSymptome}
+{
 \begin{itemize}
     \item Kopfschmerz, Schwindel, Übelkeit
     \item Krämpfe
@@ -7180,6 +7215,9 @@ Luft und sammelt sich in Mulden, Weinkellern, Silos, etc.
     \item Hyperventilation, da der hohe
 \ce{CO2}-Spiegel im Blut das Atemzentrum stimuliert 
 \end{itemize}
+}{
+
+}{}{}{}
 
 
 \gMassnahmenNG{Spezielle Maßnahmen}{Kohlendioxid-Vergiftung}{
@@ -7188,15 +7226,17 @@ Stickgas-Vergiftungen
 (\ref{stickgase-allgemeine-massnahmen})
 }
 
-\subparagraph*{
+\gCave{
 Bei Gasunfällen hat der \gEs{Selbstschutz} Vorrang.
 Oft ist die Bergung nur mit \gEs{schwerem
 Atemschutz} möglich ${\rightarrow}$ FEUERWEHR!}
 
-Ein toter Helfer ist kein Helfer.
+\gFazit{Ein toter Helfer ist keine Hilfe.}
 
 \subsection{Reizgase}
 
+\gLayout{2}{Typen}
+{
 \begin{description}
     \item[Soforttyp] (z.B. Tränengas,...) Augenrötung, starker Hustenreiz
     \item[Verzögerungstyp] \gZ{(z.B. Nitrosegase)} kaum
@@ -7204,12 +7244,18 @@ Ein toter Helfer ist kein Helfer.
     später: toxisches Lungenödem}; bei Nichtbehandlung evt.
     irreversible Lungenschäden
 \end{description}
+}{
 
-\paragraph{Vorkommen}~
+}{}{}{}
 
+\gLayout{46}{Vorkommen}
+{
+
+}{
+
+}{
 \begin{tabulary}{\linewidth}{LL}
-\toprule
-Vorkommen & Art
+\gTabHeading{Vorkommen} & \gTabHeading{Art}
 \\\midrule
 Chemische Industrie 
 &
@@ -7229,6 +7275,9 @@ Chlorgas (Kombination von best.  Haushaltsreinigern mit
 Essig), Lacke,  Imprägniersprays, ...
 \\\bottomrule
 \end{tabulary}
+}{Vorkommen von Reizgasen.}{}
+
+
 
 
 
@@ -7268,14 +7317,14 @@ Essig), Lacke,  Imprägniersprays, ...
 
 \subsubsection{Kampfgase}
 
-\gParallel{
+\gLayout{28}{}
+{
 Kurz und bündig: Hier gehören Spezialisten her.
 Selbstschutz und Expertenrat einholen.
 }{
-\begin{flushright}
-\includegraphics[width=0.8\linewidth]{./images/med/schild-atemschutzmaske-abnehmen.jpg}
-\end{flushright}
-}
+
+}{./images/med/schild-atemschutzmaske-abnehmen.jpg}{}{}
+
 
 
 
@@ -7299,9 +7348,8 @@ Eiweißstoffen.}
 %     \item Augen
 % \end{itemize}
 
-
-\paragraph{Symptome bei Einnahme}
-
+\gLayout{2}{Symptome bei Einnahme}
+{
 \begin{itemize}
     \item Ätzspuren (Mund/Rachen), Abrinnspuren
     \item Würgen
@@ -7309,6 +7357,9 @@ Eiweißstoffen.}
     \item Schmerzen
     \item Vorsicht: Ruptur/Perforation/Blutungsgefahr!
 \end{itemize}
+}{
+
+}{}{}{}
 
 
 
@@ -7330,13 +7381,37 @@ obsolet!)}
 
 
 \subsection{Schaumbildner (Wasch-/Putzmittel)}
-\paragraph{Symptome}~
 
+
+\gLayout{2}{\gTxBeschreibung}
+{
+Schaumbildner vermindern die Oberflächenspannung, dadurch
+werden entspannende Schaumbäder mit Tannenwaldduft möglich,
+genauso wie eine effektive Geschirrwäsche. }{
+
+}{}{}{}
+
+\gLayout{2}{\gTxGefahren{} und \gTxKomplikationen{}}
+{
 \begin{itemize}
-    \item verminderte Oberflächenspannung:  Aspirationsgefahr ${\uparrow}$
-    \item \gEs{Verlegung der Atemwege}
-    \item Übelkeit/Erbrechen
+    \item Verminderte Oberflächenspannung: 
+    Aspirationsgefahr ${\uparrow}$.
+    \item \gEs{Verlegung der Atemwege}.
 \end{itemize}
+}{
+
+}{}{}{}
+
+\gLayout{2}{\gTxSymptome}
+{
+\begin{itemize}
+    \item Schaum
+    \item Übelkeit/Erbrechen.
+\end{itemize}
+}{
+
+}{}{}{}
+
 
 
 

@@ -540,6 +540,7 @@ Spontanatmung!
 
 
 \begin{table}[H]
+\begin{gWideParEnv}
 \gCaptionof{table}{Verabreichungsarten von Sauerstoff.}
 
 \begin{tabulary}{\linewidth}[H]{CLLL}
@@ -593,6 +594,7 @@ Wie oben.
 Reservoir muss zuerst händisch befüllt werden.
 \\\addlinespace\bottomrule
 \end{tabulary}
+\end{gWideParEnv}
 \end{table}
 
 \gDias{Bilderserie: Mittel zur Verabreichung von Sauerstoff.}
@@ -645,21 +647,28 @@ durchgeführt.
 \subsection{Beatmungsbeutel}
 \label{topic:beatmungsbeutel}
 
-\gMarried{
-Im Rettungsdienst sollte jede Beatmung mit einem
-Beatmungsbeutel oder einem Beatmungsgerät durchgeführt
-werden. 
 
-Wenn vorhanden soll über einen Verbindungsschlauch
- und ein Reservoir zusätzlich eine
-\ce{O2}-Berieselungseinheit mit einem Flow von 15\gLMin{} angeschlossen werden um die höchstmögliche \ce{O2}-Konzentration der Einatemluft zu
-erreichen. 
-}{
-\includegraphics[width=\linewidth]{./images/geraete/ger-ambu.jpg}
 
-\gCaptionof{figure}{Beatmungsbeutel mit Reservoir,
-Bakterienfilter und Masken unterschiedlicher Größe.}
-}
+\gLayout{22}{}
+{
+Eine Beatmung durch Fachpersonal sollte wenn möglich immer mit Hilfmitteln wie
+dem \gE{Beatmungsbeutel} oder einem \gE{Beatmungsgerät} durchgeführt werden.
+Der beatmungsbeutel ist das einfachste Hilfmittel welches dem Fachpersonal zur
+Verfügung steht und kommt in vielen Bereichen (Rettungsdienst, Krankenhaus,
+\ldots) zum Einsatz. Er ermöglichst die kontrollierte oder unterstützende
+Beatmung eines Patienten.
+
+Wenn vorhanden soll der Beutel mit einer Sauerstoffzufuhr verbunden werden. Am
+einfachsten erfolgt dies über einen Verbindungsschlauch und ein eine
+\ce{O2}-Berieselungseinheit, welches mit einem Flow von 15\gLMin{}
+eingestellt ist. Mit Hilfe eines Reservoirs, welches Sauerstoff während der
+Beatmungspausen zwischenspeichert,  kann die \ce{O2}-Konzentration der
+Einatemluft weiter gesteigert werden. 
+
+\gZ{Andere \ce{O2}-Systeme sind am Markt
+verfügbar (Demand-Ventile, etc.), aber nur begrenzt verbreitet.}
+}{}{./images/geraete/ger-ambu.jpg}{Beatmungsbeutel mit Reservoir, Bakterienfilter und Masken unterschiedlicher Größe.}{}
+
 
 
 
@@ -687,7 +696,9 @@ fast 100\,\%
 \hrule
 \end{table}
 
-\gMarried{
+
+\gLayout{22}{Bestandteile}
+{
 Ein Beatmungsbeutel besteht im Idealfall aus folgenden Teilen:
 \begin{itemize}
 	\item Beatmungsmaske 
@@ -698,13 +709,13 @@ Ein Beatmungsbeutel besteht im Idealfall aus folgenden Teilen:
 	(\gE{\ce{O2}-Line}) mit einer Berieselungseinheit verbunden
 	ist.
 \end{itemize}
-}{
-\includegraphics[width=\linewidth]{./images/geraete/ambu-komplett-zerlegt.jpg}
-}
+}{}{./images/geraete/ambu-komplett-zerlegt.jpg}{Bestandteile eines
+Beatmungsbeutels.}{}
+
 
 \subsection{Beatmungsgerät}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \begin{center}
 \includegraphics[width=7.189cm,height=4.94cm]{./images/beatmungsgeraet-medumat.png}
 \gCaptionof{figure}{Beatmungsgerät \emph{Medumat
@@ -774,7 +785,8 @@ und schwache Batterie.} }
 \gDefinition{PEEP = Positive EndExspiratory Pressure =
 positiver end-exspiratorischer Druck}
 
-\gMarried{
+\gLayout{22}{}
+{
 Das PEEP-Ventil wird auf der Ausatemöffnung des
 Beatmungsbeutels bzw. Beatmungsgerätes aufgesteckt. Es hält
 einen positiven Druck in der Lunge am Ende der
@@ -788,11 +800,14 @@ immer auf Null stehen}.
 
 \gZ{Mögliche Einstellungen für das
 PEEP-Ventil sind 5 bzw. 10\,cm\,H\textsubscript{2}O (cm
-Wassersäule).} }{
-\includegraphics[width=0.6\linewidth]{./images/geraete/peep-ventil.jpg}
-}
+Wassersäule).}
 
 \gCave{Ein PEEP-Ventil ist kein Einmalprodukt!}
+}{}{./images/geraete/peep-ventil.jpg}{}{}
+
+
+
+
 
 
 \section{Absauggeräte}
@@ -1297,7 +1312,7 @@ und aVF).}
 
 
 
-
+\begin{figure}[H]
 \begin{center}
 \includegraphics[width=7cm]{./images/geraete/ECGcolor.png}
 \gCaptionof{figure}{\gAuthNotesPicLegalOk{}{PD}Extremitätenableitungen
@@ -1306,7 +1321,7 @@ und aVF).}
 domain}\gAuthNotes{GABS: Bessere Beschriftung wäre
 wünschenswert, Dringlichkeit: niedrig}}
 \end{center}
-
+\end{figure}
 
 
 \begin{table}[H]
@@ -1418,6 +1433,26 @@ zuerst auf den Patienten schauen (Symptome) und erst dann auf das Pulsoxymeter!
 \subsection{Fieberthermometer}
 
 % TODO INHALT: GER Fieberthermeter
+
+\gLayout{2}{Ohrtermometer}
+{~
+
+\gTakeNotesLarge
+
+\subparagraph{Hygienische Maßnahmen}~
+
+\gTakeNotesMedium
+}{}{}{}{}
+
+\gLayout{2}{Standardthermometer}
+{~
+
+\gTakeNotesLarge
+
+\subparagraph{Hygienische Maßnahmen}~
+
+\gTakeNotesMedium
+}{}{}{}{}
 
 \subsection{Blutzuckermessung}
 

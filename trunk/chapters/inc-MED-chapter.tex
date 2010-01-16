@@ -1380,35 +1380,37 @@ entstehen können. Die Substanz wird unter die Haut ("`subkutan"') gespritzt.
 
 
 \clearpage
-\section{Respiratorische / Pulmologische  Notfälle}
-\subparagraph{Störungen der Atmung -- Übersicht}
+\section{Respiratorische Notfälle}
 
-\begin{center}
- \marginpar{\includegraphics[width=\linewidth]{./images/noauth/AASdev20090228-img75.png}
- \gAuthNotesPicLegalNotOk{img75}{Splash Pulmo Notfälle }}
 
-\end{center}
+% \begin{center}
+%  \marginpar{\includegraphics[width=\linewidth]{./images/noauth/AASdev20090228-img75.png}
+%  \gAuthNotesPicLegalNotOk{img75}{Splash Pulmo Notfälle }}
+% 
+% \end{center}
+
+\minisec{Querverweise}
 
 \begin{itemize}
-    \item Mechanische Verlegung / Aspiration    
-    \item Asthma bronchiale  / \gAbk{COPD}
-    \item Lungenembolie
-    \item Lungenödem
-    \item Lungenentzündung (Pneumonie)
-    \item Verletzungsbedingte Störungen
+    \item Lungenentzündung (Pneumonie): \gSee{topic:pneumonie}
+    \item Tuberkulose: \gSee{topic:tuberkulose}
 \end{itemize}
+
+
+
 
 \subsection{Mechanische Verlegung}
 
-\gMarried{
+\gLayout{23}{}
+{
 Durch eine Verlegung der Atemwege ist die Ventilation behindert bzw. aufgehoben.
 
 Spezialfall: \index{Aspiration}\gT{Aspiration} =
 Fremdkörper/-säfte (Magensaft, Erbrochenes, Nahrung) gelangt in die
 unteren Atemwege
-}{
- \includegraphics[width=\linewidth]{./images/pharynx-schema.png}
- \gCaptionof{figure}{\gAuthNotesPicLegalNotOk{pharynx-schema}{}Atemwegsverlegung (Schema). } }
+}{}{./images/pharynx-schema.png}
+{\gAuthNotesPicLegalNotOk{pharynx-schema}{}Atemwegsverlegung (Schema). }
+{}
 
 
 
@@ -2149,6 +2151,14 @@ Eine Übersicht und willkürliche Einteilung:
     \item [Krampfanfälle] können vom zentralen Nervensystem ausgehen
     \item [Erkrankungen des Stützapparates] Aufgrund der räumlichen Nähe zum Stütz- und Bewegungsapparates kann das Nervensystem in Mitleidenschaft gezogen werden, z.B. bei Bandscheibenvorfällen
 \end{description}
+
+\minisec{Querverweise}
+
+\begin{itemize}
+    \item Infektiöse (bakterielle) Meningitis:
+    \gSee{topic:meningitis}
+\end{itemize}
+
 \gAuthNotes{Es fehlt: Lumbago, BWS/HWS}
 
 \subsection{Schlaganfall --- Apoplektischer Insult --- Hirninfarkt}
@@ -3087,7 +3097,7 @@ werden!
 %%% Infektionskrankheiten                               %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Infektionskrankheiten}
+\section{Infektions- und Entzündungskrankheiten}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -3099,12 +3109,16 @@ werden!
 \gDefinition{Eine schwere, durch Viren verursachte
 Infektionskrankheit.}
 
+\gLayout{2}{\gTxBeschreibung}
+{
 Die Grippe ist eine \gE{virale} Erkrankung, welche je nach
 Patient und Virenstamm (s.u.) einen sehr schweren
 Verlauf nehmen und auch tödlich enden kann. Gefürchtet sind
 \gEs{Komplikationen} wie Lungen- oder
 Herzmuskelentzündungen oder weitere (Folge-)Infektionen.
 Besonders gefährdet sind ältere und immunsupprimierte Personen.
+}{}{}{}{}
+
 
 \gFazit{Da es sich bei der Grippe um eine durch Viren
 verursachte Krankheit handelt sind \gEs{Antibiotika
@@ -3128,7 +3142,7 @@ Folgen\cite{Strauss0000}.
 \gFazit{Die Grippe tritt in Wellen auf und kann tödlich
 enden.}
 
-\gLayout{2}{Symptome}
+\gLayout{2}{\gTxSymptome}
 {
 Typisch für die Grippe ist ist das \gEs{rasche, hohe
 anfiebern (38{\textdegree}-40{\textdegree}C) mit Schüttelfrost,  Kopf-, Hals-,
@@ -3184,9 +3198,9 @@ Personal im Gesundheitsbereich) empfohlen.
 {}
 {}
 
+\cite{Gallaher2009,H1N1InvTeam2009,Peiris2009,Wolf2009,Cutler2009}
 
-\paragraph{}~
-\marginlabel{\cite{Gallaher2009,H1N1InvTeam2009,Peiris2009,Wolf2009,Cutler2009}}
+
 
 \gLayout{2}{Schweinegrippe, Vogelgrippe -- Warum die große
 Aufregung?}
@@ -3281,31 +3295,44 @@ Infekt}
 \emph{Syn.: \index{Verkühlung}Verkühlung,
  \index{Erkältung}Erkältung} 
 
+\gLayout{2}{\gTxBeschreibung}
+{
 Die Verkühlung ist eine Infektion der oberen Luftwege mit Viren,
 allerdings mit anderen als bei der {\quotedblbase}echten
 Grippe{\textquotedblleft} (Influenza). Die Symptome ähneln denen der
 Grippe, allerdings sind sie bei weitem nicht so stark ausgeprägt. Im
 Vordergrund stehen Halsschmerzen, Husten, rinnende oder verstopfte Nase
 und eine eher leicht erhöhte Temperatur. 
+}{}{}{}{}
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Lungenentzündung --- \gT{Pneumonie}}
+\subsection{Lungenentzündung -- \gT{Pneumonie}}
+\label{topic:pneumonie}
 
+Streng genommen ist die Lungenetzündung eine Erkrankung der
+Atemwege. Meistens steht bei den Symptomen eher die
+entzündliche Komponente im Vordergrund (Fieber, allgemeine
+Schwäche, \ldots).
+
+\gLayout{2}{Ursachen}
+{
 \begin{itemize}
-    \item durch Keime: Bakterien, Pilze
+    \item Infektiös: Bakterien, Pilze
     \gZ{(Pneumokokken,Chlamyden, Candida bei
     HIV/Immunsupression)}
-    
-    \item durch \index{Pneumonie!Aspiration}Aspiration
-    
+    \item Chemische Schädigung: Spätfolge nach
+    \index{Pneumonie!Aspiration}Aspiration
 \end{itemize}
 
 Höheres Lebensalter begünstigt Infektionen wie z.B.
 Pneumonien, da ältere Patient ein zunehmend schwächeres
 Abwehrsystem haben.
+}{}{}{}{}
+
 
 \gLayout{2}{\gTxSymptome}
 {
@@ -3373,16 +3400,17 @@ Meningokokken-Meningitis.}
 
 }{}{}{}
 
-
-\gParallel{
-\includegraphics[width=\linewidth]{./images/meningitis-kind-waterhouse.png}
-}{
-\gCaptionof{figure}{Endstadium einer bakteriellen Meningitis.
+\gLayout{22}{}
+{
+Endstadium einer bakteriellen Meningitis.
 Die Flecken auf der Haut sind Blutungen in Folge einer nicht mehr
 funktionierenden Blutgerinnung. Der Tod ist bei dieser
-Patientin innerhalb weniger Stunden zu erwarten.\newline
-\gSourcePicture{unbekannt}\label{fig:meningitis-baby}}
-}
+Patientin innerhalb weniger Stunden zu erwarten.
+}{}
+{./images/meningitis-kind-waterhouse.png}
+{\label{fig:meningitis-baby}}
+{unbekannt}
+
 
 
 
@@ -3474,6 +3502,7 @@ Kunstfehler.}
 
 
 \subsection{Tuberkulose}
+\label{topic:tuberkulose}
 
 \emph{\gZ{Mykobacterium Tuberculosis, "`Schwindsucht"'.}}
 Abk.: "`\gT{Tbc}"'
@@ -3498,7 +3527,7 @@ XDR-TB)\footnote{Quelle: AGES}}
 ersetzen}Röntgenbild eines TB-Pat\-ient\-en.}{}
 
 
-\gLayout{0}{Symptome}
+\gLayout{0}{\gTxSymptome}
 {
 Es dominieren vor allem Allgemeinsymtptome wie subfebrile
 Temperatur, Nachtschweiß, Lymphknotenschwellung und Husten.
@@ -3697,30 +3726,84 @@ bedeutet dass der \gEs{HIV-Test nicht
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Infektiöse Hepatitis}
-\label{topic:hepatitis-virale}\index{Hepatitis!infektiöse}
+\subsection{Hepatitis}
+\label{topic:hepatitis-virale}\label{topic:hepatitis-toxisch}\label{topic:hepatitis}
+\index{Hepatitis!infektiöse}\index{Hepatitis!toxische}
 
 \gDefinition{Leberentzündung durch verschiedene (virale)
-Erreger (A -- E)}
+Erreger (A -- E) oder durch sonstige
+(chrinische) Schädigung.}
 
-Auch Schädigungen der Leber aufgrund von toxischen Substanzen (Alkohol, etc.)
-können eine Hepatitis auslösen, diese Form ist unter
-\gSee{topic:hepatitis-toxisch} beschrieben.
 
-\paragraph{Klinik und Verlauf}
 
+\gLayout{1}{\gTxBeschreibung{} und Ursachen}
+{%%% Gerhard Gabriel <gerhard.gabriel@grissu.org> 
+Hepatitis ist eine
+entzündliche Erkrankung der Leber. Diese Entzündung kann durch Erreger wie
+Viren, oder Mikroorganismen hervorgerufen werden
+(infektiöse, virale Hepatitis). Aber auch
+regelmäßige Schädigungen der Leber durch Giftstoffe wie
+Alkohol, Medikamente \gZ{(z.B. Paracetamol)}, etc. können
+zu einer (chronischen) Entzündung führen. Auch ein lönger
+bestehender Rückstau der Gallenflüssigkeit, z.B. bei einer
+Verstopfung des Gallenganges, kann zu einer Entzündung
+führen.
+
+Je nach Ursache der Hepatitis kann es vorkommen dass es zu
+keiner Abheilung kommt und die Hepatitis dauerhaft bestehen
+bleibt. Man spricht dann von der \gT{chronischen
+Hepatitis}.} 
+{
 \begin{itemize}
-    \item Vergrößerte, schmerzhafte Leber
-    \item Ikterus (Gelbsucht)
-    \item Dunkler Urin (heller Schüttelschaum),
-    \item evt. heller Stuhl (Acholie)
-    \item Unterscheide {\textquotedblleft}akut{\textquotedblright} und
-    {\textquotedblleft}chronisch{\textquotedblright}
-    \begin{itemize}
-        \item Chronisch: wenn Hepatitis nicht abheilt
-    \end{itemize}
-    \item Ende: Leberversagen, Tod
+    \item Virusinfektionen (Hep A, B, C, \ldots ).
+    \item Gallen-Abflussstau.
+    \item Vergiftungen Lebensmittel(Pilze)~/
+    Medikamente (Paracetamol)~/ chron. Alkoholismus.
+    \item Chronische Verlaufsform möglich.
 \end{itemize}
+}{}{}{}
+
+\gLayout{1}{\gTxSymptome}
+{
+Die Symptomatik einer Hepatitis ist
+uncharakteristisch und eher allgemein: Unspezifisches mehr oder minder
+ausgeprägtes Krankheitsgefühl, ähnlich einem grippalem Infekt, Appetitlosigkeit.
+Auch erhöhte Körpertemperatur und Schmerzen im
+rechten Oberbauch kommen bisweilen vor. Die Leber ist oft
+vergrößert.
+
+Im
+fortgeschrittenem Stadium kann es zu einer Gelbfärbung
+des Augenweiß und eine gelbliche Verfärbung der Haut
+(Ikterus) kommen. 
+
+Bei einem chronischen
+Verlauf kommt es zu einem Umbau von
+funktionierendem Lebergewebe zu
+funktionslosem Bindegewebe. Man spricht
+dann von der
+\gT{Leberzirrhose}\label{topic:leberzirrhose}\index{Leberzirrhose}.
+Schließlich kann es zu einem Leberversagen und in kurzer
+Folge zum Tod kommen, da die Leber ein überlebenswichtiges
+Organ ist. 
+}{
+\begin{itemize}
+    \item uncharakteristische Allgemeinsymptome (grippale Symptome,
+    Appetitlosigkeit).
+    \item Schmerzen im re. Oberbauch.
+    \item Gelbfärbung Augen/Haut (Ikterus ).
+\item Vergrößerte, schmerzhafte Leber.
+    \item Ikterus (Gelbsucht).
+    \item Unterscheide {\textquotedblleft}akut{\textquotedblright} und
+    {\textquotedblleft}chronisch{\textquotedblright}.
+    \begin{itemize}
+        \item Chronisch: wenn Hepatitis nicht abheilt.
+    \end{itemize}
+    \item Ende: Leberversagen, Tod.
+\end{itemize}
+}{}{}{}
+
+
 
 \paragraph{Verschiedene Arten der viralen Hepatitis}~
 
@@ -3778,18 +3861,21 @@ Hepatitis-C-Virus (HCV)
 
 
 
-\gLayout{2}{Impfung}
+\gLayout{0}{Impfung}
 {
-Impfung nur für Hepatitis A und B
+Für die Hepatitis A und B ist eine Impfung
 verfügbar (z.B. Twinrix{\texttrademark}). Für die Hepatitis
-C ist derzeit noch keine Impfung regulär am Markt.
+C ist derzeit noch keine Impfung regulär am Markt. Gegen
+die toxischen Formen der Hepatitis gibt es natürlich auch keine Impfung.
 
 Achtung: Non-Responder möglich!
-
 % FEATURE Hepatitis Laborwerte Interpretation einfügen.
 }
 {
-% TODO VIT: Slide fehlt!
+\begin{itemize}
+    \item Für Hep. A \& B.
+    \item Nicht für Hep. C.
+\end{itemize}
 }
 {}
 {}
@@ -3828,29 +3914,26 @@ und Immunsystems
 \end{itemize}\end{itemize}
 
 
-\paragraph{Klinik} Klinik abhängig vom Fortschritt und
-körperlichen Abbau.
+\gLayout{2}{\gTxSymptome}
+{
+Die Symptome sind sehr vom Fortschritt und
+körperlichen Abbau abhängig. Grundsätzlich:
 
 
 \begin{itemize}
-\item Sehr stark reduzierter Allgemeinzustand
-
-\item Fieber ({\textgreater}\,38{\textdegree} C) oder
-Hypothermie ({\textless}\,36{\textdegree} C)
-
-\item Herzfrequenz {\textgreater}\,90/min
-
-\item Atemfrequenz {\textgreater}\,20/min oder
-Hyperventilation
-
-\item unkontrollierbare Gerinnung/Blutung
-
-\item Hypotonie ${\rightarrow}$ Septischer Schock
-
-\item Organversagen  
-
+    \item Sehr stark reduzierter Allgemeinzustand
+    \item Fieber ({\textgreater}\,38{\textdegree} C) oder
+    Hypothermie ({\textless}\,36{\textdegree} C)
+    \item Herzfrequenz {\textgreater}\,90/min
+    \item Atemfrequenz {\textgreater}\,20/min oder
+    Hyperventilation
+    \item unkontrollierbare Gerinnung/Blutung
+    \item Hypotonie ${\rightarrow}$ Septischer Schock
+    \item Organversagen
 \end{itemize}
 
+}{}{}{}{}
+\paragraph{} 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -3963,9 +4046,9 @@ weich, keine Druck- oder Loslassschmerzen}
 
 
 
-Dennoch muss man bei jeden Patienten versuchen so gut als
-möglich die möglichen Krankheitsbilder einzugrenzen und
-gefährliche Erkrankungen nach Möglichkeit auszuschließen. Im
+Dennoch muss man bei jeden Patienten versuchen, so gut als
+möglich die in Frage kommenden Krankheitsbilder einzugrenzen
+und gefährliche Erkrankungen nach Möglichkeit auszuschließen. Im
 folgenden sind einige häufige Krankheitsbilder beschrieben,
 die \gE{erkennbar}  und relativ häufig sind.
 
@@ -4586,14 +4669,18 @@ Situation nüchtern zu belassen!}
 
 \subsection{Weniger häufige oder nicht-so-gut-erkennbare Erkrankungen}
 
+\minisec{Querverweise}
 
+\begin{itemize}
+    \item Hepatitis: \gSee{topic:hepatitis}
+\end{itemize}
 
 \subsubsection{Bauchaortenaneurysma}
 
 Zerreißung der Bauchaorta / Platzen  einer Aussackung
 (Schwachstelle)
 
-\gLayout{1}{\gTxBeschreibung und Ursachen}
+\gLayout{1}{\gTxBeschreibung{} und Ursachen}
 {%%% Gerhard Gabriel <gerhard.gabriel@grissu.org>
 Bei der Entwicklung eines Bauchaortenaneurysmas ist zumeist
 eine krankhafte Veränderung der Aortenwand
@@ -4678,53 +4765,6 @@ oder kaffeesatz-artiges Erbrechen zu beobachten.
 
 
 
-\subsubsection{Hepatitis}
-\label{topic:hepatitis-toxisch}
-
-\gDefinition{Entzündung der Leber.}
-
-Die infektiöse (virale) Hepatitis wird unter \gSee{topic:hepatitis-virale} besprochen.
-
-\gLayout{1}{\gTxBeschreibung{} und Ursachen}
-{%%% Gerhard Gabriel <gerhard.gabriel@grissu.org> 
-Hepatitis bedeutet eine
-entzündliche Erkrankung der Leber. Diese Entzündung kann durch Erreger wie
-Viren, oder Mikroorganismen hervorgerufen werden (infektiöse Hepatitis,
-\gSee{topic:hepatitis-virale}). Aber auch Schädigungen der Leber
-durch Geiftstoffe wie Alkohol, Medikamente \gZ{(z.B. Paracetamol)}, etc. können
-zu einer (chrinischen) Entzündung führen. } {
-\begin{itemize}
-    \item Gallen-Abflussstau
-    \item Vergiftungen Lebensmittel(Pilze)~/
-    Medikamente(Paracetamol)~/ chron. Alkoholismus
-    \item Virusinfektionen (Hep A, B, C, \ldots )
-\end{itemize}
-}{}{}{}
-
-\gLayout{1}{\gTxSymptome}
-{
-Die Symptomatik einer Hepatitis ist
-uncharakteristisch und eher allgemein: Unspezifisches mehr oder minder
-ausgeprägtes Krankheitsgefühl, ähnlich einem grippalem Infekt, Appetitlosigkeit.
-Eine Gelbfärbung der Hornhaut im Auge und eine ebensolche Verfärbung der Haut
-(Ikterus) sind Verdachtsmomente. Auch erhöhte Körpertemperatur und Schmerzen im
-rechten Oberbauch kommen bisweilen vor.
-}{
-\begin{itemize}
-    \item uncharakteristische Allgemeinsymptome (grippale Symptome,
-    Appetitlosigkeit)
-    \item Schmerzen im re. Oberbauch
-    \item Gelbfärbung Augen/Haut (Ikterus )
-\end{itemize}
-}{}{}{}
-
-
-Bei einem chronischen
-Verlauf kommt es zu einem Umbau von
-funktionierendem Lebergewebe zu
-funktionslosem Bindegewebe. Man spricht
-dann von der
-\gT{Leberzirrhose}\label{topic:leberzirrhose}\index{Leberzirrhose}.
 
 
 
@@ -4759,16 +4799,18 @@ Blinddarmdurchbruch, \ldots) Ursache der Entzündung. }
 \end{itemize}}
 
 
-\gZ{
-\subsection{Reserviert \gA{Sonstige -- nicht akute --
-Erkrankungen}}
-\subsubsection{Reserviert \gA{Chronisch entzündliche
-Darmerkrankungen}} }
-
+% \gZ{
+% \subsection{Reserviert \gA{Sonstige -- nicht akute --
+% Erkrankungen}}
+% \subsubsection{Reserviert \gA{Chronisch entzündliche
+% Darmerkrankungen}} }
+% 
 
 
 
 \section{Urologische Erkrankungen}
+
+\gDefinition{Erkrankungen des harnableitenden Systems.}
 
 
 \subsection{Nierenkolik}

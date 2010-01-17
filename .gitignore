@@ -13,6 +13,7 @@
 *.maf
 *.mtc
 *.mtc*
+*.rx
 AAS.pdf
 AASS.pdf
 AASS-*.pdf

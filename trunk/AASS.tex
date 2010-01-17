@@ -4,7 +4,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
-\usepackage[draft]{graphicx} % Bilder-Support
+\usepackage[final]{graphicx} % Bilder-Support
 %
 % Optionen für Bilder:
 %
@@ -228,7 +228,6 @@ MPG-WEINMANN-MEDUMAT-TRANSPORT %
 % \usepackage{scrindex}
 \makeindex
 
-\usepackage{algorithm}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -249,6 +248,11 @@ MPG-WEINMANN-MEDUMAT-TRANSPORT %
 % watches margin paragraphs and
 % gives warnings
 %\usepackage{mparhack} 
+
+% \usepackage[algo2e,algochapter]{algorithm}
+% \usepackage{listings}
+\newfloat{massnahmen}{h}{rx}[chapter]
+\floatname{massnahmen}{\ovalbox{\textrecipe}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Textauszeichnungen
@@ -397,9 +401,9 @@ bindingoffset=1.5cm]
 
 
 
-\usepackage{hyperref}
-\hypersetup{colorlinks=true, linkcolor=darkBlue, citecolor=darkBlue, filecolor=darkBlue, pagecolor=darkBlue, urlcolor=darkBlue}
-
+% \usepackage{hyperref}
+% \hypersetup{colorlinks=true, linkcolor=darkBlue, citecolor=darkBlue, filecolor=darkBlue, pagecolor=darkBlue, urlcolor=darkBlue}
+\newcommand{\url}[1]{\ttfamily #1}
 
 
 \usepackage[grey,helvetica]{quotchap}

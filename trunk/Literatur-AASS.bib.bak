@@ -1633,6 +1633,18 @@
   url = {http://dx.doi.org/10.1016/j.jcv.2009.06.006}
 }
 
+@BOOK{RueckerBildatlas1,
+  title = {Bildatlas Notfall- und Rettungsmedizin},
+  publisher = {Springer},
+  year = {2005},
+  author = {Gernot R\"uecker},
+  edition = {1},
+  isbn = {3-540-23737-2},
+  language = {ngerman},
+  owner = {grissu},
+  timestamp = {2010.01.18}
+}
+
 @BOOK{RedelsteinerHRNS1,
   title = {Das Handbuch f\"ur Notfall- und Rettungssanit\"ater. Patientenbetreuung
 	nach Leitsymptomen},
@@ -1707,6 +1719,17 @@
   language = {ngerman},
   owner = {grissu},
   timestamp = {2009.12.12}
+}
+
+@BOOK{HouseOfGodDe,
+  title = {House of God},
+  publisher = {Knaur Taschenbuch Verlag},
+  year = {1998},
+  author = {Samuel Shem},
+  note = {Aus dem Amerikanischen von Dr. Heidrun Adler},
+  language = {ngerman},
+  owner = {grissu},
+  timestamp = {2010.01.09}
 }
 
 @ARTICLE{Erc2005Sec7,
@@ -2248,6 +2271,18 @@
   timestamp = {2009.07.13}
 }
 
+@BOOK{ArbeitstechnikenAZ1,
+  title = {Arbeitstechniken A-Z für den Rettungsdienst -- Bildatlas Rettungsdienst},
+  publisher = {Elsevier},
+  year = {2008},
+  editor = {Frank Flake and Klaus Runggaldier},
+  edition = {1},
+  isbn = {978-3-437-48320-2},
+  language = {ngerman},
+  owner = {grissu},
+  timestamp = {2010.01.18}
+}
+
 @BOOK{HahnMikrobio6,
   title = {Medizinische Mikrobiologie und Infektiologie},
   publisher = {Springer},
@@ -2365,6 +2400,7 @@
   year = {2008},
   editor = {Jens Scholz and Peter Sefrin and Bernd B\"ottiger and Volker D\"orges
 	and Volker Wenzel},
+  pages = {329},
   edition = {2},
   isbn = {978-3-13-112782-2},
   language = {ngerman},
@@ -2404,16 +2440,6 @@
   __markedentry = {[grissu]},
   owner = {grissu},
   timestamp = {2009.09.22}
-}
-
-@BOOK{HouseOfGodDe,
-  title = {House of God},
-  publisher = {Knaur Taschenbuch Verlag},
-  year = {1998},
-  note = {Aus dem Amerikanischen von Dr. Heidrun Adler},
-  language = {ngerman},
-  owner = {grissu},
-  timestamp = {2010.01.09}
 }
 
 @comment{jabref-meta: selector_publisher:}

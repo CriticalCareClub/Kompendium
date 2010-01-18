@@ -627,15 +627,18 @@ Beispiel psychiatrische Patienten). Zu den Vitalwerten zählt man
 \end{itemize}
 
 Die Messung der Herzfrequenz erfolgt mittels Puls fühlen oder
-mittels Pulsoxymeter. Beim Puls fühlen wird für 15~Sekunden
-der Puls gefühlt und die Pulsschläge gezählt. Anschließend wird
-das Ergebnis mit vier multipliziert, man erhält die
-Pulsschläge pro Minute. Bei der Pulsoxymetrie wird der
-entsprechende Wert abgelesen. Es ist zu beachten was bei
-Notfallpatienten die Pulsoxymetrie oft nicht funktioniert (z.B.
-Zentralisation bei Schock, kalte Finger,\ldots). Neben der
-Frequenz wird auch die Regelmäßigkeit beurteilt, das heißt ob
-der Puls rhythmisch oder arrhythmisch ist.
+mittels Pulsoxymeter. Beim Puls fühlen wird für
+\gEs{15~Sekunden} der Puls gefühlt und die Pulsschläge
+gezählt. Anschließend wird das Ergebnis \gEs{mit vier
+multipliziert}, man erhält die Pulsschläge \gEs{pro Minute}
+(\nicefrac{x}{min}). Neben der Frequenz wird auch die
+Regelmäßigkeit beurteilt, das heißt ob der Puls \gE{rhythmisch} oder \gE{arrhythmisch} ist.
+
+Alternativ kann die Messung mittels des \gE{Pulsoxymeters}
+erfolgen (\prettyref{topic:pulsoxymetrie}). Dabei misst ein
+Gerät die Herzfrequnz und zeigt diese an. Es ist jedoch zu
+beachten, dass bei Notfallpatienten die Pulsoxymetrie oft
+nicht funktioniert (z.B. Zentralisation bei Schock, kalte Finger,\ldots).
 
 Die Messung des Blutdrucks ist unter \gSee{topic:rr-messung} beschrieben.
 
@@ -646,33 +649,44 @@ Bei der Messung der Atemfrequenz wird die Anzahl der Atemzüge pro Minute gezäh
 \subsection{Apparative Untersuchungen}
 
 \subsubsection{Pulsoxymetrie}
+\label{topic:pulsoxymetrie}
 
-\gMarriedNG{Beschreibung}
+
+
+\gMarriedNG{\gTxBeschreibung}
 {
 Die Pulsoxymetrie ist eine einfache apparative
 Untersuchungsmethode, welche mithilfe eines
 \gE{Pulsoxymeters} durchgeführt wird. 
+Sie dient zur nicht-invasiven Überwachung der
+\gT{Sauerstoffsättigung} (\gT{Sp\ce{O2}}) des kapillären
+Blutes. Dies geschieht mittels Photorezeptoren und
+Infrarotlicht, mit deren Hilfe das Verhältnis der mit
+Sauerstoff beladenen roten Blutkörperchen zu den nicht
+beladenen bestimmt wird. 
 
-Dabei wird ein Sensor auf den Finger des
-Patienten geklipt, welcher Licht ausstrahlt. Dieses Licht
-wird von einem anderen Sensor aufgefangen, das Gerät kann
-aus den daraus gewonnenen Informationen auf den Sauerstoffgehalt des
-Blutes und die Pulsfrequenz schließen. Dies setzt jedoch
-voraus das der Patient in der Peripherie über eine
-ausreichende Durchblutung verfügt, da das Gerät sonst keine
-Informationen gewinnen kann (mangels Blut zur
-Beurteilung). Weitere Hindernisse sind z.B. kalte
-Finger (verringerte Durchblutung) oder Nagellack (Licht kann
-den Nagellack nicht durchdringen, eventuell mit
-Nagellack-Entferner reinigen).
+Als weiteren Wert zeigt das Pulsoxymeter die
+\gEs{Pulsfrequenz} an.
+\cite{LoefflerBiochemie7,ArbeitstechnikenAZ1}
+
 }{
 % TODO Slide fehlt.
-% \begin{itemize}
-%     \item \gZ{Point}
-% \end{itemize}
 {\gSymbolText}
 }
 
+\gLayout{2}{Durchführung}
+{
+Es wird ein eine Klemme mit einer besonderen Lichtquelle
+und einem Sensor auf den Finger des Patienten
+geklipt. Das Licht wird vom
+gegenüberleigenden Sensor aufgefangen, das Gerät kann aus den daraus gewonnenen Informationen auf den Sauerstoffgehalt des Blutes und die Pulsfrequenz schließen. 
+
+Dies setzt jedoch
+voraus das der Patient in der Peripherie über eine
+ausreichende Durchblutung verfügt, da das Gerät sonst keine
+Informationen gewinnen kann (mangels Blut zur
+Beurteilung). 
+}{}{}{}{}
 
 
 \gFazit{Eine ausreichende Blutversorgung der Körperstelle,
@@ -685,10 +699,10 @@ ersetzt aber niemals das wachsame Auge auf den Patienten!
 \gMarriedNG{Ermittelte Werte}
 {
 Wie Sauerstoffsättigung wird in Prozent
-angegeben und wird mit $SpO_2$ abgekürzt. Der Normalwert
-beträgt \gEs{95-100 \%}. Bei Patienten mit COPD findet man
-jedoch oft sehr niedrige Werte (z.B. 90\%).
-}{
+angegeben und wird mit \gT{Sp\ce{O2}} abgekürzt. Der Normalwert
+liegt zwischen \gEs{96-100\,\%}. Bei Patienten mit COPD
+findet man jedoch oft sehr niedrige Werte (z.B.
+90\,\%), ohne dass die Patienten Beschwerden haben. }{
 % TODO Slide fehlt.
 % \begin{itemize}
 %     \item \gZ{Point}
@@ -705,9 +719,9 @@ genug Sauerstoff hat beziehungsweise, dass keine
 Sauerstoffgabe erfolgen soll. Die Sauerstoffgabe richtet
 sich immer nach dem klinischen
 Zustandsbild des Patienten und dessen Diagnose, und nur in
-Ausnahmefällen (COPD) nach dem Sp\ce{O2}-Wert. Der
-Sp\ce{O2}-Wert soll immer im Verlauf beurteilt werden.
-}{
+Ausnahmefällen (z.B. Asthma bronchiale,
+\prettyref{topic:asthma-bronchiale}) nach dem
+Sp\ce{O2}-Wert. Der Sp\ce{O2}-Wert soll immer im Verlauf beurteilt werden. }{
 % TODO Slide fehlt.
 % \begin{itemize}
 %     \item \gZ{Point}
@@ -715,22 +729,44 @@ Sp\ce{O2}-Wert soll immer im Verlauf beurteilt werden.
 {\gSymbolText}
 }
 
+\gFazit{Behandle den Patienten und nicht das Gerät!}
 
-\gMarriedNG{Besondere Fehlerquellen}
+Immer
+zuerst auf den Patienten schauen (Symptome) und erst dann auf das Pulsoxymeter!
+
+
+
+\gLayout{0}{\gTxGefahren{} und Fehlerquellen}
 {
-Eine besondere Fehlerquelle ist die Kohlenmonoxid-(\ce{CO})-Vergiftung, bei ihr wird nicht nur der Patient
-schweinchenrosa obwohl er eigentlich zu wenig Sauerstoff
-hat, auch das Pulsoxymeter verwechselt Kohlenmonoxid mit
-Sauerstoff und zeigt falsch hohe Werte an!
+Eine besondere Fehlerquelle ist die
+Kohlenmonoxid-(\ce{CO})-Vergiftung, bei ihr wird nicht nur
+der Patient schweinchenrosa obwohl er eigentlich zu wenig
+Sauerstoff hat, auch das Pulsoxymeter verwechselt
+Kohlenmonoxid mit Sauerstoff und zeigt falsch hohe Werte an!
+
+Voraussetzung für eine korrekte Messung ist eine ausreichende
+Durchblutung der entsprechenden Meßstelle. Z.B. durch Kälte,
+Schock oder auch eine Blutdruckmessung kann die Messung
+gestört oder unmöglich gemacht werden. Weitere Hindernisse
+sind z.B. kalte Finger (verringerte Durchblutung) oder
+Nagellack (Licht kann den Nagellack nicht durchdringen,
+bzw. dessen Farbe wird verfälscht.) Mit
+Nagellack-Entferner kann der Nagel eventuell
+gereinigt werden. Alternativ kann der Sensor auch
+um 90\textdegree gedreht werden. 
+
+Von der Seite einstrahlendes Licht kann ebenso das Ergebnis
+verfälschen, da es sich ja um eine lichtabhängige
+Meßmethode handelt.
 }{
-% TODO Slide fehlt.
-% \begin{itemize}
-%     \item \gZ{Point}
-% \end{itemize}
-{\gSymbolText}
-}
-
-
+\begin{itemize}
+	\item \ce{CO}-Vergiftungen (falsch hohe Wert)
+	\item Minderdurchblutung der Peripherie; Entweder durch Zentralisation beim Schock oder Unterkühlung.
+	\item Nagellack
+	\item Künstliche Fingernägel
+	\item Sonneneinstrahlung von der Seite
+\end{itemize}
+}{}{}{}
 
 
 

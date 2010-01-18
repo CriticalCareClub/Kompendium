@@ -2199,6 +2199,18 @@
   timestamp = {2009.05.03}
 }
 
+@BOOK{AlbertsMolZellbiologie2,
+  title = {Lehrbuch der Molekularen Zellbiologie},
+  publisher = {Wiley-VCH},
+  year = {2001},
+  editor = {B. Alberts and D. Bray and A. Johnson and J. Lewis and M. Raff and
+	K. Roberts and P. Walter},
+  isbn = {3-527-30493-2},
+  language = {german},
+  owner = {grissu},
+  timestamp = {2010.01.17}
+}
+
 @BOOK{ClassenInnere5,
   title = {Innere Medizin},
   publisher = {Urban \& Fischer},

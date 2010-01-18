@@ -348,6 +348,18 @@
   timestamp = {2009.03.03}
 }
 
+@BOOK{BuchfelderErsteHilfe4,
+  title = {Handbuch der Ersten Hilfe},
+  publisher = {Schattauer},
+  year = {2006},
+  author = {Michael Buchfelder and Albert Buchfelder},
+  edition = {4},
+  isbn = {3-7945-2404-7},
+  language = {ngerman},
+  owner = {grissu},
+  timestamp = {2010.01.18}
+}
+
 @ARTICLE{JNC7Report,
   author = {Aram V Chobanian and George L Bakris and Henry R Black and William
 	C Cushman and Lee A Green and Joseph L Izzo and Daniel W Jones and

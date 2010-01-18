@@ -1,10 +1,19 @@
-\documentclass[ngerman,paper=a4,asymmetric,fontsize=9pt,headings=big,draft=no,parskip=half,noonelinecaption]{scrbook}
+\documentclass[
+ngerman,
+paper=a4,
+asymmetric,
+fontsize=9pt,
+headings=big,
+draft=false,
+parskip=half,
+% noonelinecaption
+]{scrbook}
 
 % UTF-8 Schriftkodierung
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
-\usepackage[final]{graphicx} % Bilder-Support
+\usepackage[draft]{graphicx} % Bilder-Support
 %
 % Optionen für Bilder:
 %
@@ -241,18 +250,7 @@ MPG-WEINMANN-MEDUMAT-TRANSPORT %
 \usepackage{multicol,multirow}
 \usepackage{hhline}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Floats
-\usepackage{float,wrapfig,picins}
 
-% watches margin paragraphs and
-% gives warnings
-%\usepackage{mparhack} 
-
-% \usepackage[algo2e,algochapter]{algorithm}
-% \usepackage{listings}
-\newfloat{massnahmen}{h}{rx}[chapter]
-\floatname{massnahmen}{\ovalbox{\textrecipe}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Textauszeichnungen
@@ -474,7 +472,7 @@ Gebrauch!
 
 
 
-\usepackage[noauto]{chappg}
+\usepackage[noauto]{chappg} % nach hyperref!
 \makeatletter
 %%\@addtoreset{chapter}{part}
 %\@addtoreset{page}{chapter}%
@@ -489,7 +487,12 @@ Gebrauch!
 \renewcommand{\tableformat}{{\sffamily\mdseries\color{darkBlue}\ovalbox{T}}~\thetable\autodot}
 
 % Non-floating captions
-\usepackage[labelsep=newline,font={sf,bf},textfont={sf,md,it},singlelinecheck=false]{caption}
+\usepackage[
+% labelsep=newline,
+font={sf,bf},
+textfont={sf,md,it},
+singlelinecheck=false
+]{caption}
 
 
 % \makeatletter

@@ -1181,8 +1181,9 @@ Anamnese und Versorgung}
 
 \subsubsection{Erster Schritt: Ersteinsch\"atzung}
 
-\gLayout{57}{}{}{}
-{\noindent\begin{minipage}[t]{\linewidth -
+\begin{gWideParEnv}
+\gMassnahmenNG{Standardmaßnahmen}{Ersteinschätzungsblock}{}{
+\noindent\begin{minipage}[t]{\linewidth -
 {2\fboxrule} - {2\fboxsep}}
     	\noindent\fcolorbox{green!10}{green!10}{\begin{minipage}[t]{\linewidth}
     	{\vspace{-0.8em} 
@@ -1269,7 +1270,10 @@ Bewusstsein, Hautfarbe, Radialispuls, Rekap-Zeit
     	}
       		\end{minipage}}
 		\end{minipage}
-}{Ersteinschätzungsblock.}{}
+
+}
+\end{gWideParEnv}
+
 
 
 
@@ -1458,13 +1462,13 @@ Bei vital bedrohten Patienten gibt es \gEs{5
 noch vor Abschluß des Ersteinschätzungsblockes) zu erfolgen haben. 
 
 
-\gMassnahmen{
-\captionof{table}{\gTxMassVit \label{tab:standardmassnahmen-vital}}
+\gMassnahmenNG{Standardmaßnahmen}{\gTxMassVit}{}{
+\label{tab:standardmassnahmen-vital}\label{topic:standardmassnahmen-vital}
 \begin{center}
 
 \begin{tabulary}{\linewidth}{LL}
 \toprule
-\multicolumn{2}{c}{\gTabHeading{\gTxMassVit}\label{topic:standardmassnahmen-vital}}
+\multicolumn{2}{c}{\gTabHeading{\gTxMassVit}}
 \\\midrule
 Situationsgerechte Lagerung
  &

@@ -848,9 +848,16 @@ Mario Artlieb
 
 Mirko Fina
 
+Fritz Dominik
+
 Manfred Janisi
 
+Michaela Machowetz
+
 Christian Protz
+
+Dominik Rumler
+
 
 Weiters danken wir allen Einsendern, welche uns Fehler gemeldet und uns mit
 Ihrer konstruktiven Kritik unterstützt haben.
@@ -1002,8 +1009,12 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 % 
 % \end{tabular}
 % }
-
+% \begin{gWideParEnv}
+% \begin{multicols}{2}
 \tableofcontents
+% \end{multicols}
+% \end{gWideParEnv}
+
 %\end{multicols}
 % 2\setcounter{tocdepth}{3}
 % %\renewcommand\contentsname{Inhalt - Detail\"ubersicht}
@@ -1021,12 +1032,15 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 \listoftables}
 % \end{multicols}
 
-
+{\small
 \listof{massnahmen}{Verzeichnis der Maßnahmen}
+}
 
 \clearpage
 % \begin{gWideParEnv}
+{\small
 \printindex
+}
 % \end{gWideParEnv}
 
 
@@ -1040,10 +1054,12 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 % \include{include-autoreninfo}
 
+
 \begin{gWideParEnv}
 \section*{Abk\"urzungsverzeichnis}
-\begin{multicols}{3}
-\begin{description}
+\begin{multicols}{4}
+{\small
+\begin{compactdesc}
     \item[ABGB]  Allgemeines B\"urgerliches Gesetzbuch
     
     \item[AIDS]  acquired immune deficiency syndrome
@@ -1150,7 +1166,8 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
     
     \item[ZR]  Zivilrecht
     
-\end{description}
+\end{compactdesc}
+}
 
 \end{multicols}
 \end{gWideParEnv}

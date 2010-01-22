@@ -1,4 +1,4 @@
-#Sun Jan 17 15:13:55 CET 2010
+#Fri Jan 22 00:54:53 CET 2010
 eclipse.preferences.version=1
 encoding//trunk/AASS-Leitfaden.tex=UTF-8
 encoding//trunk/AASS.tex=UTF-8
@@ -21,7 +21,7 @@ encoding//trunk/chapters/inc-SAN-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-TAE-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-TRA-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-VIT-chapter.tex=UTF-8
-encoding//trunk/input-hyphenation.tex=UTF-8
-encoding//trunk/input-styles.tex=UTF-8
+encoding//trunk/inputs/input-hyphenation.tex=UTF-8
+encoding//trunk/inputs/input-styles.tex=UTF-8
 encoding/<project>=UTF-8
 encoding/Autoren.info=UTF-8

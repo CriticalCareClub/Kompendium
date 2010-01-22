@@ -509,18 +509,7 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 \listof{massnahmen}{Verzeichnis der Maßnahmen}
 }
 
-\clearpage
-% \begin{gWideParEnv}
-{\small
-\printindex
-}
-% \end{gWideParEnv}
 
-
-% \nocite{*}
-% \begin{multicols}{2}
-% {\scriptsize \bibliography{Literatur-AASS}}
-% \end{multicols}
 
 
 
@@ -529,7 +518,7 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 
 \begin{gWideParEnv}
-\section*{Abk\"urzungsverzeichnis}
+\addsec{Abk\"urzungsverzeichnis}
 \begin{multicols}{4}
 {\small
 \begin{compactdesc}
@@ -703,6 +692,12 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 \include{./chapters/inc-INT}
 \include{./chapters/inc-APP}
 
+
+\appendix
+\part{Appendix}
+
+\pagenumbering[Appendix]{bychapter}
+
 % \begin{gWideParEnv}
 {
 % \sffamily
@@ -711,6 +706,14 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 \bibliography{Literatur-AASS}
 }
 % \end{gWideParEnv}
+
+\clearpage
+% \begin{gWideParEnv}
+{\small
+\printindex
+}
+% \end{gWideParEnv}
+
 
 
 SO LONG..........

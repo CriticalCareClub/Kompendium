@@ -367,30 +367,7 @@ pdfpagelayout=TwoPageRight,
 %%% Kopf- und Fußzeilen
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\fancyheadoffset[RE,RO]{\marginparsep+\marginparwidth}
-\fancyfootoffset[RE,RO]{\marginparsep+\marginparwidth}
-\fancyhead[LE,RO]{\thepage}
-%\fancyhead[LO]{}
-\fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
-\fancyhead[RE]{\gEs{\gAuthNotes{ --- \today -- ENTWURF --- }}}
-\fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---}}}
-\fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
 
-
-% %%% DRAFT %%%
-\fancyfoot[CE,CO]{{\color{red}\ttfamily\small
-\upshape{\gDocVersionTyp} -- \today{}  -- Nur für den internen
-Gebrauch!
-% {\tiny
-% Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny
-% Letztes Commit: }\input{./tmp/git-lastcommit.tmp}
-}}
-% 
-% %% FINAL %%%
-% \fancyfoot[CE,CO]{\gEs{{\itshape {\gDocVersionTyp} -- Nur für den internen Gebrauch!}}}
-\fancyfoot[LE]{{\AASS{}~ \itshape v.\,\gDocVersion}}
-\fancyfoot[RO]{{\AASS{}~ \itshape v.\gDocVersion}}
-% %
 
 
 

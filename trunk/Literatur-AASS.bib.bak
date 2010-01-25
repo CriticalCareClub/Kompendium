@@ -1030,6 +1030,15 @@
   timestamp = {2009.07.13}
 }
 
+@BOOK{HolaubekASB16h,
+  title = {Erste Hilfe. 16 Stunden für das Leben},
+  publisher = {Arbeiter-Samariter-Bund Österreichs},
+  year = {2005},
+  author = {Karl Holaubeck and Kurt Nistler and Nicolas Scherer},
+  owner = {grissu},
+  timestamp = {2010.01.21}
+}
+
 @ARTICLE{Juurlink2005,
   author = {D N Juurlink and N A Buckley and M B Stanbrook and G K Isbister and
 	M Bennett and M A {McGuigan}},
@@ -1495,6 +1504,21 @@
   isbn = {0323033318},
   owner = {grissu},
   timestamp = {2009.07.08}
+}
+
+@INCOLLECTION{Cicero911CommissionReport,
+  author = {{National Commission on Terrorist Attacks upon the United States}},
+  title = {The 9/11 Commission Report},
+  booktitle = {The 9/11 Commission Report - Die offizielle Untersuchung zu den Terrorattacken
+	vom 11. September 2001},
+  publisher = {Cicero Magazin für politische Kultur},
+  year = {2004},
+  editor = {Wolfram Weimer},
+  type = {Dossier},
+  language = {german},
+  isbn = {3-938250-11-9},
+  owner = {grissu},
+  timestamp = {2010.01.24}
 }
 
 @BOOK{Nilsson1997,
@@ -1967,6 +1991,14 @@
   url = {http://dx.doi.org/10.1056/NEJMoa0903810}
 }
 
+@BOOK{,
+  title = {The 9/11 Commission Report - Die offizielle Untersuchung zu den Terrorattacken
+	vom 11. September 2001},
+  author = {National Commission on Terrorist Attacks upon the United States},
+  owner = {grissu},
+  timestamp = {2010.01.24}
+}
+
 @BOOK{Jolesch2,
   title = {Die Erben der Tante Jolesch},
   publisher = {dtv},
@@ -1977,6 +2009,18 @@
   owner = {grissu},
   review = {S. 83: "Der, der den Schl\"ussel hat, ist der Arzt" (Otto P\"otzl)},
   timestamp = {2009.04.10}
+}
+
+@BOOK{UlfigHistologie1,
+  title = {Kurzlehrbuch Histologie},
+  publisher = {Thieme},
+  year = {2003},
+  author = {Norbert Ulfig},
+  edition = {1},
+  language = {german},
+  isbn = {3-13-135571-9},
+  owner = {grissu},
+  timestamp = {2010.01.24}
 }
 
 @ARTICLE{Uray2008,
@@ -2461,6 +2505,17 @@
   timestamp = {2009.08.27}
 }
 
+@BOOK{U61989,
+  title = {Die U-Bahnlinie U6. 1983-1989.},
+  publisher = {Compress Verlag},
+  year = {1989},
+  editor = {{Stadt Wien, Magistratsabteilung 38 -- U-Bahn-Bau}},
+  language = {german},
+  isbn = {3-900607-19-2},
+  owner = {grissu},
+  timestamp = {2010.01.24}
+}
+
 @BOOK{IntroClinEmergMed4,
   title = {An introduction to clinical emergency medicine -- guide for practitioners
 	in the emergency department},
@@ -2483,6 +2538,21 @@
   isbn = {3-932750-95-0},
   owner = {grissu},
   timestamp = {2010.01.18}
+}
+
+@BOOK{ThomasHistopathologie13,
+  title = {Histopathologie -- Lehrbuch und Atlas zur allgemeinen und speziellen
+	Pathologie},
+  publisher = {Schattauer},
+  year = {2001},
+  editor = {C. Thomas},
+  pages = {464},
+  series = {C. Thomas Pathologie},
+  edition = {13},
+  language = {german},
+  isbn = {3-7945-2120-X},
+  owner = {grissu},
+  timestamp = {2010.01.24}
 }
 
 @ELECTRONIC{mrsanet,

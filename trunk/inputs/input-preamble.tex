@@ -372,13 +372,13 @@ pdfpagelayout=TwoPageRight,
 
 
 \usepackage[noauto]{chappg} % nach hyperref!
-\makeatletter
+% \makeatletter
 %%\@addtoreset{chapter}{part}
 %\@addtoreset{page}{chapter}%
-\makeatother
+% \makeatother
 % \newcommand*\leadzeros[1]{\ifnum#1<10 00\else0\fi#1}
 \pagenumbering{bychapter}
-% \renewcommand{\chappgsep}{/}
+\renewcommand{\chappgsep}{-}
 % \newcommand{\leadpage}{\thechapter\,\ifnum\thepage<10 00\else0\fi\thepage}
 % \newcommand{\gLeadzeros}[1]{\ifthenelse{\value{#1} < 10}{00}{\ifthenelse{\value{#1}< 100}{0}{}}}
 % \renewcommand{\thepage}{\thechapter\,\thepage}

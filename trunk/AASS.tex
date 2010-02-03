@@ -24,7 +24,7 @@ parskip=half,
 % draft .. Es werden nur Rahmen angezeigt
 % final .. Es werden Bilder normal angezeigt
 % (demo .. keine Bilder)
-\usepackage[final]{graphicx} % Bilder-Support
+\usepackage[demo]{graphicx} % Bilder-Support
 
 % \usepackage{showidx} % shows index entries on page margin
 % \usepackage{showkeys}
@@ -46,23 +46,24 @@ parskip=half,
 \fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---}}}
 \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
 
-% %%% DRAFT %%%
-% \fancyfoot[CE,CO]{{\color{red}\ttfamily\small
-% \upshape{\gDocVersionTyp} -- \today{}  -- Nur für den internen
-% Gebrauch!
+%%% IMMER %%%
+\fancyfoot[RO]{{\noindent\AASS{}~ \itshape v.\gDocVersion}}
+\fancyfoot[LE]{{\noindent\AASS{}~ \itshape v.\,\gDocVersion}}
+%%% DRAFT %%%
+\fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\small
+\upshape{\gDocVersionTyp} -- \today{}  -- Nur für den internen
+Gebrauch!}}
 % 
 % % {\tiny
 % % Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny
 % % Letztes Commit: }\input{./tmp/git-lastcommit.tmp}
 % }}
 % 
-% %% FINAL %%%
-\fancyfoot[CE,CO]{\gEs{{\itshape {\gDocVersionTyp} -- Nur für den internen Gebrauch!}}}
-\fancyfoot[LE]{{\noindent\AASS{}~ \itshape v.\,\gDocVersion}}
-\fancyfoot[RE]{{\noindent\tiny\ttfamily\input{./tmp/git-lastcommitsha1.tmp}}}
-\fancyfoot[RO]{{\noindent\AASS{}~ \itshape v.\gDocVersion}}
+% %%% FINAL %%%
+% \fancyfoot[CE,CO]{\gEs{{\itshape {\gDocVersionTyp} -- Nur für den internen Gebrauch!}}}
+\fancyfoot[RE]{{\noindent\DocGitCommitTiny}}
 \fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
-% %
+% % %
 
 %\usepackage{excludeonly}
 %\excludeonly{include-betriebsintern-chapter,include-regional-chapter,include-taetigkeitsbild-chapter,include-erstehilfe-chapter,include-recht-chapter,include-reserve-ende}
@@ -427,6 +428,7 @@ Kritik maßgeblich an der kontinuierlichen Verbesserung beteiligt haben.
 
 \section*{Die Technik}
 
+\begin{gWideParEnv}
 \begin{tabulary}{\linewidth}{LL}
 \gTabSub{Satz und Druckvorstufe}
 &
@@ -456,8 +458,8 @@ Rohentwurf: Linux (Debian, Gentoo, Ubuntu), MacOS X, MS Windows XP, Vista
 
 Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.ubuntu.com}
 \\\addlinespace
-
 \end{tabulary}
+\end{gWideParEnv}
 
 % % TODO FORMAT TEST gBox Beispiel 
 % \gBox{BOX}{Beispiel}{Beige}{Das ist ein Beispiel für eine

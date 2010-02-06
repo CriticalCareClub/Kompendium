@@ -1,4 +1,4 @@
-\documentclass[ngerman,paper=a4,fontsize=9pt,headings=big,draft=no,parskip=half,noonelinecaption]{scrreprt}
+\documentclass[ngerman,paper=a4,fontsize=8pt,headings=small,draft=no,parskip=half,noonelinecaption]{scrreprt}
 % \setlength{\voffset}{-15pt}
 % \setlength{\textheight}{720pt}
 % \setlength{\marginparwidth}{5cm}
@@ -10,15 +10,35 @@
 \usepackage[ngerman]{babel}
 
 
-\usepackage{amsmath,amssymb,amsfonts,textcomp,marvosym,txfonts,skull}
+\usepackage{prettyref}
+\newrefformat{sec}{\emph{\ref{#1}}}
+% \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
+% \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
+\newrefformat{fig}{Abb.~#1}
+\newrefformat{tab}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
+\newrefformat{m}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
+\newrefformat{topic}{\Pointinghand\,\ref{#1}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Mathemathik
+\usepackage{amsmath,amssymb,amsfonts,}
+\usepackage{units}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Symbole
+\usepackage{textcomp,marvosym,txfonts,skull}
+
 % resolv symbol clashes 
 \usepackage{savesym}
 \savesymbol{checkmark}
 \savesymbol{Cross} % ifsym
-\usepackage[geometry,alpine]{ifsym}
-
+\savesymbol{Sun} % ifsym
+\savesymbol{Lightning} % ifsym
+\usepackage[geometry,alpine,weather]{ifsym}
 \usepackage{dingbat}
 \restoresymbol{DINGBAT}{checkmark}
+
 
 
 %\usepackage{shorttoc}
@@ -37,11 +57,14 @@
 %\usepackage{mparhack} % watches margin paragraphs and
 %gives warnings
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Textauszeichnungen
 \usepackage{soul}
+\usepackage{soulutf8}
+\usepackage{scalefnt}
 \usepackage{array}
 \usepackage{booktabs,longtable,supertabular,tabularx,tabulary}
 \usepackage{multicol,multirow}
-\usepackage{scalefnt}
 
 \usepackage{hhline}
 
@@ -49,29 +72,35 @@
 %\usepackage{ooomath}
 
 
+\usepackage{float}
+\newfloat{massnahmen}{h}{ry}[chapter]
+% \floatname{massnahmen}{\ovalbox{\sffamily M}}
+\floatname{massnahmen}{M}
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
 \usepackage[svgnames,hyperref]{xcolor}
-\definecolor{pink}{rgb}{1,0.5,0.5}
-\definecolor{LightSkyBlue}{rgb}{0.5,0.5,1}
-\definecolor{MidnightBlue}{rgb}{0,0,0.5}
-\definecolor{darkBlue}{rgb}{0,0,0.4}
-\definecolor{paleBlue}{rgb}{0.8,0.8,1}
-\definecolor{darkGreen}{rgb}{0,0.4,0}
-\definecolor{Terminus}{rgb}{0,0.5,0}
-\definecolor{Definition}{rgb}{1,0.5,0.5}
-\definecolor{shade1}{rgb}{1,0.5,0.5}
-\definecolor{shade2}{rgb}{1,0.5,0.5}
-\definecolor{shade3}{rgb}{1,0.5,0.5}
-\definecolor{Emphasis}{rgb}{1,0.5,0.5}
-\definecolor{ubuntured}{rgb}{0.788235294,0,0.08627451}
-\definecolor{ubuntuorange}{rgb}{1,0.388235294,0.035294118}
-\definecolor{ubuntuyellow}{rgb}{1,0.709803922,0.082352941}
-\definecolor{paleyellow}{rgb}{1,1,0.8}
-\definecolor{black}{rgb}{0,0,0}
-\definecolor{RED}{rgb}{1,0,0}
-\definecolor{Mulberry}{rgb}{1,1,0.8}
+% \definecolor{pink}{rgb}{1,0.5,0.5}
+% \definecolor{LightSkyBlue}{rgb}{0.5,0.5,1}
+% \definecolor{MidnightBlue}{rgb}{0,0,0.5}
+% \definecolor{darkBlue}{rgb}{0,0,0.4}
+% \definecolor{paleBlue}{rgb}{0.8,0.8,1}
+% \definecolor{darkGreen}{rgb}{0,0.4,0}
+% \definecolor{Terminus}{rgb}{0,0.5,0}
+% \definecolor{Definition}{rgb}{1,0.5,0.5}
+% \definecolor{shade1}{rgb}{1,0.5,0.5}
+% \definecolor{shade2}{rgb}{1,0.5,0.5}
+% \definecolor{shade3}{rgb}{1,0.5,0.5}
+% \definecolor{Emphasis}{rgb}{1,0.5,0.5}
+% \definecolor{ubuntured}{rgb}{0.788235294,0,0.08627451}
+% \definecolor{ubuntuorange}{rgb}{1,0.388235294,0.035294118}
+% \definecolor{ubuntuyellow}{rgb}{1,0.709803922,0.082352941}
+% \definecolor{paleyellow}{rgb}{1,1,0.8}
+% \definecolor{black}{rgb}{0,0,0}
+% \definecolor{RED}{rgb}{1,0,0}
+% \definecolor{Mulberry}{rgb}{1,1,0.8}
+\input{./inputs/input-colors}
 
 
 
@@ -347,7 +376,7 @@ bindingoffset=1.5cm]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
 
 
-\input{input-hyphenation}
+\input{./inputs/input-hyphenation}
 
 
 
@@ -429,14 +458,16 @@ showstringspaces=false,
     0.2.0.
     \item[0.3.x] Entwicklungsversionen (aufbauend auf
     0.2.1-x), für 0.4.0 (ET 2009/09)
-        \item[0.3.x] Entwicklungsversionen (aufbauend auf
+    \item[0.3.x] Entwicklungsversionen (aufbauend auf
     0.2.1-x), für 0.4.0 (ET 2009/09)
-    \item[0.4.x] Vorabversion für ET 2009/09
+    \item[0.4.0] Vorabversion für ET 2009/09
     \item[0.5.x] Entwicklungsversionen (aufbauend auf
     0.4.0), für 0.6.0 (ET 2009/09)
-    \item[0.6.x] Vorabversion für ET 2009/11
+    \item[0.6.0] Vorabversion für ET 2009/11
     \item[0.7.x] Entwicklungsversionen (aufbauend auf
-    0.6.0), für 0.8.0 (ET 2009/09)    \item[]
+    0.6.0), für 0.8.0 (ET 2009/09)
+    \item[0.8.0] Vorabversion für ET 2010/02
+    \item[0.9.x]
 \end{description}
 
 \paragraph{Geplante Versionen}~
@@ -468,7 +499,7 @@ Abkürzung gekennzeichnet:
 \gTabSub{ALS} & Erweiterte Reanimation & \caps{? Kichler} &
 \gCode{trunk/chapters/inc-ALS-chapter.tex} 
 \\\addlinespace
-\gTabSub{ANA} & Anatomie & \caps{Gabriel} &
+\gTabSub{ANA} & Anatomie & \caps{Hirtler} &
 \gCode{trunk/chapters/inc-ANA-chapter.tex} 
 \\\addlinespace
 \gTabSub{APP} & Appendix &  \caps{---} &
@@ -498,9 +529,13 @@ Abkürzung gekennzeichnet:
 \gTabSub{JUS}  & Recht &  \caps{Koller} &
 \\\addlinespace
 \gTabSub{KHD} & Katastrophen, Großschaden, Gefahrgutunfall & 
-\caps{Koch} & \\\addlinespace
+\caps{Koch} & 
+\\\addlinespace
 \gTabSub{MED} & Medizinische Erkrankungen und Notfälle & 
 \caps{Gabriel} & 
+\\\addlinespace
+\gTabSub{MPG} & Spezielle Medizinprodukte & 
+\caps{---} & 
 \\\addlinespace
 \gTabSub{REG} & Regionale Besonderheiten &  \caps{---} &
 \\\addlinespace
@@ -515,6 +550,9 @@ Abkürzung gekennzeichnet:
 \gTabSub{TRA} & Trauma &  \caps{Motal} &
 \\\addlinespace
 \gTabSub{VIT} & Vitalfunktionen &  \caps{Gabriel} &
+\\\addlinespace
+\gTabSub{WIS} & Wissenschaft & 
+\caps{---} & 
 \\\bottomrule
 \end{tabulary}
 
@@ -686,136 +724,136 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 
 \minitoc
 
-\section{Beispiel}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \section{Beispiel}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% \subsubsection{Abschnitt oder Unterabschnitt}
+% 
+% \gDefinition{Defnitionstext --- Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.}
+% 
+% \gMarriedNG{Beschreibung}{
+% \gE{Fließtext} -- Das Standardlayout 1 kennt 3 Argumente:
+% Die Paragraphenüberschrift (hier \emph{"`Beschreibung"'}),
+% den Fließtext (diese Kolumne) und die Stichworte
+% (Randspalte). Aus den Stichworten sollen in späterer Folge
+% automatisch folien erstellt werden. 
+% 
+% Mirum est notare quam
+% littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+% euismod tincidunt ut laoreet dolore magna aliquam erat
+% volutpat. 
+% }
+% {\gE{Stichworte}
+% 
+% \begin{itemize}
+%     \item Punkt 1
+%     \item Punkt 2
+%     \begin{itemize}
+%         \item a
+%         \item b
+%         \item a + b
+%     \end{itemize}
+%     \item Lorem
+% \end{itemize}
+% }
+% 
+% 
+% \gMarriedNG{Ursachen}
+% {
+% Lorem ipsum brute docendi expetenda his ut, graecis detracto et nec! Possim
+% fabulas complectitur ei quo, suas ornatus omnesque et mea. Velit error laoreet ex
+% eum, no diceret democritum vis? Vel et unum nullam dissentiet, his dicat solet
+% placerat te! Ut per sanctus accusamus delicatissimi, tempor euripidis posidonium
+% cum no.
+% 
+% }
+% {
+% \begin{itemize}
+%     \item Lorem
+%     \item ipsum
+%     \item Dolor
+% \end{itemize}
+% 
+% }
+% 
+% \gMarriedNG{Symptome}
+% {
+% Klassisch \ldots \gEs{Claritas} est
+% etiam processus dynamicus, qui sequitur mutationem
+% consuetudium lectorum. Mirum est notare quam littera gothica,
+% quam nunc putamus parum claram, anteposuerit litterarum
+% formas humanitatis per seacula quarta decima et quinta
+% decima. Eodem modo typi, qui nunc nobis videntur parum clari,
+% fiant sollemnes in futurum.
+% 
+% Häufig \ldots Lorem ipsum brute docendi expetenda his ut, graecis detracto
+% et nec! Possim fabulas complectitur ei quo, suas ornatus omnesque et mea. Velit error laoreet ex
+% eum, no diceret democritum vis!
+% 
+% Manchmal/Mitunter \ldots am liber tempor cum soluta nobis eleifend
+% option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+% Typi non habent claritatem insitam; 
+% 
+% Eventuell \ldots Lorem ipsum brute docendi expetenda his ut, graecis detracto
+% et nec! Possim fabulas complectitur ei quo, suas ornatus omnesque et mea. 
+% cum no.
+% 
+% }
+% {
+% % TODO VIT: Slide fehlt!
+% \begin{itemize}
+%     \item Lorem
+%     \item ipsum
+%     \item Dolor
+% \end{itemize}
+% 
+% }
+% 
+% \gMarriedNG{Komplikationen, Gefahren}
+% {
+% --- am liber tempor cum soluta nobis eleifend
+% option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+% Typi non habent claritatem insitam; est usus legentis in iis
+% qui facit eorum claritatem. Investigationes demonstraverunt
+% lectores legere me lius quod ii legunt saepius. \gEs{Claritas} est
+% etiam processus dynamicus, qui sequitur mutationem
+% consuetudium lectorum. Mirum est notare quam littera gothica,
+% quam nunc putamus parum claram, anteposuerit litterarum
+% formas humanitatis per seacula quarta decima et quinta
+% decima. Eodem modo typi, qui nunc nobis videntur parum clari,
+% fiant sollemnes in futurum.
+% }
+% {
+% \begin{itemize}
+%     \item Lorem
+%     \item ipsum
+%     \item Dolor
+% \end{itemize}
+% }
+% 
+% \gMassnahmen{
+%     \paragraph{Spezielle Maßnahmen}
+%     
+%     \begin{itemize}
+%     \item \gTxMassVitBes (gTxMassVitBes)
+%     \begin{itemize}
+%         \item Lagerung: Oberkörper hoch
+%         \item $O_2$: 12\gLMin
+%         \item Ursachenforschung
+%     \end{itemize}
+%     \item Claritas
+%     \item Investigationes
+%     \item seacula
+%     \item futurum
+% \end{itemize}
+%     
+% }
 
-\subsubsection{Abschnitt oder Unterabschnitt}
-
-\gDefinition{Defnitionstext --- Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.}
-
-\gMarriedNG{Beschreibung}{
-\gE{Fließtext} -- Das Standardlayout 1 kennt 3 Argumente:
-Die Paragraphenüberschrift (hier \emph{"`Beschreibung"'}),
-den Fließtext (diese Kolumne) und die Stichworte
-(Randspalte). Aus den Stichworten sollen in späterer Folge
-automatisch folien erstellt werden. 
-
-Mirum est notare quam
-littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-euismod tincidunt ut laoreet dolore magna aliquam erat
-volutpat. 
-}
-{\gE{Stichworte}
-
-\begin{itemize}
-    \item Punkt 1
-    \item Punkt 2
-    \begin{itemize}
-        \item a
-        \item b
-        \item a + b
-    \end{itemize}
-    \item Lorem
-\end{itemize}
-}
 
 
-\gMarriedNG{Ursachen}
-{
-Lorem ipsum brute docendi expetenda his ut, graecis detracto et nec! Possim
-fabulas complectitur ei quo, suas ornatus omnesque et mea. Velit error laoreet ex
-eum, no diceret democritum vis? Vel et unum nullam dissentiet, his dicat solet
-placerat te! Ut per sanctus accusamus delicatissimi, tempor euripidis posidonium
-cum no.
-
-}
-{
-\begin{itemize}
-    \item Lorem
-    \item ipsum
-    \item Dolor
-\end{itemize}
-
-}
-
-\gMarriedNG{Symptome}
-{
-Klassisch \ldots \gEs{Claritas} est
-etiam processus dynamicus, qui sequitur mutationem
-consuetudium lectorum. Mirum est notare quam littera gothica,
-quam nunc putamus parum claram, anteposuerit litterarum
-formas humanitatis per seacula quarta decima et quinta
-decima. Eodem modo typi, qui nunc nobis videntur parum clari,
-fiant sollemnes in futurum.
-
-Häufig \ldots Lorem ipsum brute docendi expetenda his ut, graecis detracto
-et nec! Possim fabulas complectitur ei quo, suas ornatus omnesque et mea. Velit error laoreet ex
-eum, no diceret democritum vis!
-
-Manchmal/Mitunter \ldots am liber tempor cum soluta nobis eleifend
-option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
-Typi non habent claritatem insitam; 
-
-Eventuell \ldots Lorem ipsum brute docendi expetenda his ut, graecis detracto
-et nec! Possim fabulas complectitur ei quo, suas ornatus omnesque et mea. 
-cum no.
-
-}
-{
-% TODO VIT: Slide fehlt!
-\begin{itemize}
-    \item Lorem
-    \item ipsum
-    \item Dolor
-\end{itemize}
-
-}
-
-\gMarriedNG{Komplikationen, Gefahren}
-{
---- am liber tempor cum soluta nobis eleifend
-option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
-Typi non habent claritatem insitam; est usus legentis in iis
-qui facit eorum claritatem. Investigationes demonstraverunt
-lectores legere me lius quod ii legunt saepius. \gEs{Claritas} est
-etiam processus dynamicus, qui sequitur mutationem
-consuetudium lectorum. Mirum est notare quam littera gothica,
-quam nunc putamus parum claram, anteposuerit litterarum
-formas humanitatis per seacula quarta decima et quinta
-decima. Eodem modo typi, qui nunc nobis videntur parum clari,
-fiant sollemnes in futurum.
-}
-{
-\begin{itemize}
-    \item Lorem
-    \item ipsum
-    \item Dolor
-\end{itemize}
-}
-
-\gMassnahmen{
-    \paragraph{Spezielle Maßnahmen}
-    
-    \begin{itemize}
-    \item \gTxMassVitBes (gTxMassVitBes)
-    \begin{itemize}
-        \item Lagerung: Oberkörper hoch
-        \item $O_2$: 12\gLMin
-        \item Ursachenforschung
-    \end{itemize}
-    \item Claritas
-    \item Investigationes
-    \item seacula
-    \item futurum
-\end{itemize}
-    
-}
-
-
-
-\subsection{Schnellübersicht}
+\section{Schnellübersicht}
 
 % \begin{tabularx}{\linewidth}{@{}lX@{}}
 % sdvadsvadsd dfhsigdfsiug ndsfiugn disfuh gidf gidfgidsfiug
@@ -905,47 +943,70 @@ Handschrift
 \vspace{-1\medskipamount}
 
 \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-\gMarried
+\gLayout
 {
- % #1: Fliesstext
+ % #1: Nummer
 }{
- % #2: Stichworte
+ % #2: Ueberschrift
+}{
+ % #3: Fliesstext
+}{
+ % #4: Stichworte
+}{
+ % #5: Bild-Pfad/Objekt
+}{
+ % #6: Bild/Objekt-Beschreibung
+}{
+ % #7: credits
 }
 \end{lstlisting}
 &
-Verheirateter Text. Die Rechte Spalte ist die Kurzfassung
-von der linken Spalte und soll in etwa einer
-Präsentations-Folie entsprechen 
-\\\addlinespace
-\vspace{-1\medskipamount}
-
-\begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-\gMarriedNG
-{
- % #1: Ueberschrift
-}{
- % #2: Fliesstext
-}{
- % #3: Stichworte
-}
-\end{lstlisting}
-&
-Verheirateter Text mir Paragraphenüberschrift. Die Rechte Spalte ist die
-Kurzfassung von der linken Spalte und soll in etwa einer
-Präsentations-Folie entsprechen 
-\\\addlinespace
-\vspace{-1\medskipamount}
-
-\begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-\gParallel{
- % li. Spalte
-}{
- % re. Spalte 
-}
-\end{lstlisting}
-&
-wie \lstinline$\gMarried$, der Inhalt von rechter und
-linker Spalte hat jedoch keinen Bezug zueinander 
+Standardlayout
+% \\\addlinespace
+% \vspace{-1\medskipamount}
+% 
+% \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+% \gMarried
+% {
+%  % #1: Fliesstext
+% }{
+%  % #2: Stichworte
+% }
+% \end{lstlisting}
+% &
+% Verheirateter Text. Die Rechte Spalte ist die Kurzfassung
+% von der linken Spalte und soll in etwa einer
+% Präsentations-Folie entsprechen 
+% \\\addlinespace
+% \vspace{-1\medskipamount}
+% 
+% \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+% \gMarriedNG
+% {
+%  % #1: Ueberschrift
+% }{
+%  % #2: Fliesstext
+% }{
+%  % #3: Stichworte
+% }
+% \end{lstlisting}
+% &
+% Verheirateter Text mir Paragraphenüberschrift. Die Rechte Spalte ist die
+% Kurzfassung von der linken Spalte und soll in etwa einer
+% Präsentations-Folie entsprechen 
+% \\\addlinespace
+% \vspace{-1\medskipamount}
+% 
+% \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+% \gParallel{
+%  % li. Spalte
+% }{
+%  % re. Spalte 
+% }
+% \end{lstlisting}
+% &
+% wie \lstinline$\gMarried$, der Inhalt von rechter und
+% linker Spalte hat jedoch keinen Bezug zueinander 
 \\\bottomrule
 \end{tabular}
 \end{gWideParEnv}
@@ -960,16 +1021,16 @@ linker Spalte hat jedoch keinen Bezug zueinander
 
 \section{Konventionen}
 
-\begin{description}
-    \item[Beschreibung:]
-    \item[Anwendung:]
-    \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] 
-    \item[Cave:]
-    \item[Syntax:] \lstinline$\Befehl{<text>}$
-    \item[Formatierung:]
-    \item[Beispiel:]
-\end{description}
+% \begin{description}
+%     \item[Beschreibung:]
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     \item[Syntax:] \lstinline$\Befehl{<text>}$
+%     \item[Formatierung:]
+%     \item[Beispiel:]
+% \end{description}
 
 
 
@@ -1164,19 +1225,29 @@ gA\{\}}}
 \clearpage
 \subsection{Standardlayouts und "`Verheirateter Text"'}
 
-\#1: Paragraphenueberschrift
+\begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+\gLayout
+{
+ % #1: Nummer
+}{
+ % #2: Ueberschrift
+}{
+ % #3: Fliesstext
+}{
+ % #4: Stichworte
+}{
+ % #5: Bild-Pfad/Objekt
+}{
+ % #6: Bild/Objekt-Beschreibung
+}{
+ % #7: credits
+}
+\end{lstlisting}
 
-\#2: Fliesstext
 
-\#3: Stichworte
-
-\#4: Bild oder Objekt
-
-\#5: Beschriftung
-
-\#6: Copyright
 
 \begin{gWideParEnv}
+\begin{minipage}{\linewidth}
 \gCaptionof{table}{Standardlayouts}
 
 \begin{tabular}{rp{10cm}l}
@@ -1295,9 +1366,11 @@ Seite}}
 \\
 56 & Objekt & 
 \\
-57 & Bild, ohne Überschrift &
+57 & Objekt, ohne Überschrift &
 \\\addlinespace\bottomrule
 \end{tabular}
+
+\end{minipage}
 \end{gWideParEnv}
 
 % \subsubsection{Textlastige Layouts}
@@ -1815,17 +1888,13 @@ gDefinition\{\}}}
 %     \item[Beispiel:]
 \end{description}
 
-
-
-\begin{minipage}{0.48\linewidth}
-\gDefinition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
-\end{minipage}
-\hspace{0.04\linewidth}
-\begin{minipage}{0.48\linewidth}
 \begin{lstlisting}
 \gDefinition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
 \end{lstlisting}
-\end{minipage}
+
+\gDefinition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
@@ -1845,19 +1914,13 @@ gFazit\{\}}}
 %     \item[Beispiel:]
 \end{description}
 
-
-
-\begin{minipage}{0.48\linewidth}
-\gFazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell
-hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine enstprechende
-Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
-\end{minipage}
-\hspace{0.04\linewidth}
-\begin{minipage}{0.48\linewidth}
 \begin{lstlisting}
 \gFazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine enstprechende  Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
 \end{lstlisting}
-\end{minipage}
+
+\gFazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell
+hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine enstprechende
+Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
 
 
 
@@ -1902,11 +1965,11 @@ linker Spalte hat jedoch keinen Bezug zueinander
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Massnahmen-Box -- \gCode{\tbs gMassnahmen\{\}}}\marginpar{\gT{\tbs
-gMassnahmen\{\}}}
+\subsubsection{Massnahmen-Box -- \gCode{\tbs
+gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMassnahmen\{\}\{\}\{\}\{\}}}
 
 \begin{description}
-    \item[Syntax:] \lstinline$\gMassnahmen{<text>}$
+    \item[Syntax:] \lstinline$\gMassnahmenNG{<Art>}{<bei>}{<Kommandos>}{<text>}$
 %     \item[Beschreibung:]
 %     \item[Anwendung:]
 %     \item[Nicht anzuwenden bei:]
@@ -1917,12 +1980,29 @@ gMassnahmen\{\}}}
 %     \item[Beispiel:]
 \end{description}
 
+% \captionof{massnahmen}{test}\ovalbox{\sffamily M}
+% 
+% \gMassnahmenNG{}{}{}
+% {
+% \begin{enumerate}
+%     \item Bla
+%     \item Blabla
+%     \item Blabla
+%     \item Punkt
+% \end{enumerate}
+% }
+% 
+% \gMassnahmenNG{Spezielle Maßnahmen}{Darmverschluß}{}{
+% \begin{itemize}
+%     \item Patient nüchtern lassen.
+%     \item Hospitalisierung: Abt. f. Chirurgie.
+% \end{itemize}
+% }
 
 
-\begin{minipage}{0.48\linewidth}
-\gMassnahmen{
-\paragraph{Spezielle Massnahmen bei einem Muster}~
-
+\begin{lstlisting}
+\gMassnahmenNG{Spezielle Massnahmen}{Muster}{}
+{
 \begin{enumerate}
     \item Bla
     \item Blabla
@@ -1930,21 +2010,8 @@ gMassnahmen\{\}}}
     \item Punkt.
 \end{enumerate}
 }
-\end{minipage}
-\hspace{0.04\linewidth}
-\begin{minipage}{0.48\linewidth}
-\begin{lstlisting}
-\gMassnahmen{
-\paragraph{Spezielle Massnahmen bei einem Muster}~
-
-\begin{enumerate}
-    \item Bla
-    \item Blabla
-    \item Blabla!
-    \item Punkt.
-\end{enumerate}
 \end{lstlisting}
-\end{minipage}
+
 
 
 
@@ -1968,16 +2035,6 @@ gCave\{\}}}
 %     \item[Beispiel:] 
 \end{description}
 
-
-\begin{minipage}{0.48\linewidth}
-\gCave{
-Dies ist eine Cave-Box!
-
-Die Cave-Box kann auch mit der \gCa{\tbs gCa\{\}-Formatierung} kombiniert werden!
-}
-\end{minipage}
-\hspace{0.04\linewidth}
-\begin{minipage}{0.48\linewidth}
 \begin{lstlisting}
 \gCave{
 Dies ist eine Cave-Box!
@@ -1985,7 +2042,6 @@ Dies ist eine Cave-Box!
 Die Cave-Box kann auch mit der \gCa{\tbs gCa\{\}-Formatierung} kombiniert werden!
 }
 \end{lstlisting}
-\end{minipage}
 
 \gCave{
 Dies ist eine Cave-Box!
@@ -1993,16 +2049,16 @@ Dies ist eine Cave-Box!
 Die Cave-Box kann auch mit der \gCa{\tbs gCa\{\}-Formatierung} kombiniert werden!
 }
 
-\subsection{Textkürzel}
-
-\begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
-\gTabHeading{Befehl} & \gTabHeading{Beschreibung}
-\\\midrule
-\lstinline$\gEs{Hallo}$
-& Erklärung
-\\\addlinespace
-\end{tabular}
-
+% \subsection{Textkürzel}
+% 
+% \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
+% \gTabHeading{Befehl} & \gTabHeading{Beschreibung}
+% \\\midrule
+% \lstinline$\gEs{Hallo}$
+% & Erklärung
+% \\\addlinespace
+% \end{tabular}
+% 
 
 
 % 
@@ -2035,12 +2091,18 @@ Die Cave-Box kann auch mit der \gCa{\tbs gCa\{\}-Formatierung} kombiniert werden
 
 \subsubsection{input-colors.tex}
 
-\lstinputlisting{input-colors.tex}
+{\scriptsize
+
+\lstinputlisting{./inputs/input-colors.tex}
+
+}
 
 \subsubsection{aass-common.sty}
 
 \begin{gWideParEnv}
+{\scriptsize
 \lstinputlisting{aass-common.sty}
+}
 \end{gWideParEnv}
 
 

@@ -100,7 +100,7 @@
    \begin{gWideParEnv}
    ~
 
-   \begin{multicols}{3}[\addchap{\indexname}]
+   \begin{multicols}{3}[\chapter{\indexname}]
       \setlength\parindent{0pt}\setlength\parskip{0pt}\let\item\@idxitem
    }
    {
@@ -302,7 +302,9 @@ bindingoffset=1.5cm]
 % \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
 
 % User page numbering with chapter number in it
-\renewcommand{\thechapter}{\Alph{chapter}}
+
+% \renewcommand{\thechapter}{\Alph{chapter}}
+
 % \renewcommand{\thechapter}{{\ttfamily\Alph{chapter}}}
 % \renewcommand{\thesection}{{\color{ubuntured}\thechapter .\arabic{section}}}
 % \renewcommand{\thesubsection}{{\color{ubuntured}\thesection .\arabic{subsection}}}
@@ -378,12 +380,21 @@ pdfpagelayout=TwoPageRight,
 % \makeatother
 % \newcommand*\leadzeros[1]{\ifnum#1<10 00\else0\fi#1}
 \pagenumbering{bychapter}
-\renewcommand{\chappgsep}{-}
-% \newcommand{\leadpage}{\thechapter\,\ifnum\thepage<10 00\else0\fi\thepage}
-% \newcommand{\gLeadzeros}[1]{\ifthenelse{\value{#1} < 10}{00}{\ifthenelse{\value{#1}< 100}{0}{}}}
-% \renewcommand{\thepage}{\thechapter\,\thepage}
-% \renewcommand{\thepage}{\thechapter\,\gLeadzeros{\thepage}\thepage}
+\renewcommand{\chappgsep}{/}
+% % \newcommand{\leadpage}{\thechapter\,\ifnum\thepage<10 00\else0\fi\thepage}
+% % \newcommand{\gLeadzeros}[1]{\ifthenelse{\value{#1} < 10}{00}{\ifthenelse{\value{#1}< 100}{0}{}}}
+% % \newcommand{\gLeadzeros}[1]{\protect\ifthenelse{#1 < 10}{00}{\relax}}
+% \newcommand\gLeadzeros[1]{\ifnum#1<10 00#1\else0#1\fi#1}
+% % \renewcommand{\thepage}{\thechapter\,\thepage}
+% \renewcommand{\thepage}{
+% \thechapter -
+% % \protect\ifthenelse{\value{page}<10}{00}{\protect\ifthenelse{\value{page}<
+% % 100}{0}{}}
+% \gLeadzeros{\value{page}}
 % 
+% - 
+% \arabic{page}}
+% % 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen

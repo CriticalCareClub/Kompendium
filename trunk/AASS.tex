@@ -29,6 +29,10 @@ parskip=half,
 \usepackage[demo]{graphicx} % Bilder-Support
 
 % \usepackage{showidx} % shows index entries on page margin
+\renewcommand*{\index}[1]{%
+  \mbox{{\color{ForestGreen}\textsuperscript{{\sffamily\tiny INDEX: }{\ttfamily
+  #1}}}}}
+
 % \usepackage{showkeys}
 
 \input{./inputs/input-preamble}

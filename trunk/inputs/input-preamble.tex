@@ -100,7 +100,7 @@
    \begin{gWideParEnv}
    ~
 
-   \begin{multicols}{3}[\addchap{\indexname}]
+   \begin{multicols}{3}[\chapter{\indexname}]
       \setlength\parindent{0pt}\setlength\parskip{0pt}\let\item\@idxitem
    }
    {
@@ -302,7 +302,9 @@ bindingoffset=1.5cm]
 % \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
 
 % User page numbering with chapter number in it
-\renewcommand{\thechapter}{\Alph{chapter}}
+
+% \renewcommand{\thechapter}{\Alph{chapter}}
+
 % \renewcommand{\thechapter}{{\ttfamily\Alph{chapter}}}
 % \renewcommand{\thesection}{{\color{ubuntured}\thechapter .\arabic{section}}}
 % \renewcommand{\thesubsection}{{\color{ubuntured}\thesection .\arabic{subsection}}}
@@ -358,6 +360,83 @@ pdfpagelayout=TwoPageRight,
 \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
 \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{ubuntured}}
 
+
+
+
+% % http://texblog.net/latex/layout/
+% \usepackage{tikz}
+% % \usepackage{kpfonts}
+% % \usepackage[explicit]{titlesec}
+% \newcommand*\chapterlabel{}
+% \titleformat{\chapter}
+%   {\gdef\chapterlabel{}
+%    \normalfont\sffamily\Huge\bfseries\scshape}
+%   {\gdef\chapterlabel{\thechapter\ lala}}{0pt}
+%   {\begin{tikzpicture}[remember picture,overlay]
+%     \node[yshift=-3cm] at (current page.north west)
+%       {\begin{tikzpicture}[remember picture, overlay]
+%         \draw[fill=LightSkyBlue] (0,0) rectangle
+%           (\paperwidth,3cm);
+%         \node[anchor=east,xshift=.9\paperwidth,rectangle,
+%               rounded corners=10pt,inner sep=11pt,
+%               fill=MidnightBlue]
+%               {\color{white}\chapterlabel#1};
+%        \end{tikzpicture}
+%       };
+%    \end{tikzpicture}
+%   }
+% 
+% % \titlespacing*{\chapter}{0pt}{50pt}{-60pt}
+% 
+% % \usepackage[automark]{scrpage2}
+% % \usepackage{tikz}
+% % \newcommand*\tikzhead[1]{%
+% %   \begin{tikzpicture}[remember picture,overlay]
+% %     \node[yshift=-2cm] at (current page.north west)
+% %       {\begin{tikzpicture}[remember picture, overlay]
+% %         \draw[fill=LightSkyBlue] (0,0) rectangle
+% %           (\paperwidth,2cm);
+% %         \node[anchor=east,xshift=.9\paperwidth,rectangle,
+% %               rounded corners=15pt,inner sep=11pt,
+% %               fill=MidnightBlue]
+% %               {\color{white}#1};
+% %        \end{tikzpicture}
+% %       };
+% %    \end{tikzpicture}}
+% % \clearscrheadings
+% % \ihead{\tikzhead{\headmark}}
+% % \pagestyle{scrheadings}
+
+
+% \usepackage[automark]{scrpage2}
+% 
+% \usepackage{tikz}
+% \newcommand*\tikzhead[1]{%
+%   \begin{tikzpicture}[remember picture,overlay]
+%     \node[yshift=-2cm] at (current page.north west)
+%       {\begin{tikzpicture}[remember picture, overlay]
+%         \draw[fill=LightSkyBlue] (0,0) rectangle
+%           (\paperwidth,2cm);
+%         \node[anchor=east,xshift=.9\paperwidth,rectangle,
+%               rounded corners=15pt,inner sep=11pt,
+%               fill=MidnightBlue]
+%               {\color{white}#1};
+%        \end{tikzpicture}
+%       };
+%    \end{tikzpicture}}
+% \clearscrheadings
+% \ihead{\tikzhead{\headmark}}
+% \pagestyle{scrheadings}
+
+
+
+
+% \newenvironment{savequote}{}{}
+
+
+
+
+
 % \usepackage[Bjornstrup]{fncychap}
 % \ChNumVar{\fontsize{76}{80}\usefont{OT1}{lmdh}{m}{n}\selectfont\color{darkBlue}}
 
@@ -378,12 +457,21 @@ pdfpagelayout=TwoPageRight,
 % \makeatother
 % \newcommand*\leadzeros[1]{\ifnum#1<10 00\else0\fi#1}
 \pagenumbering{bychapter}
-\renewcommand{\chappgsep}{-}
-% \newcommand{\leadpage}{\thechapter\,\ifnum\thepage<10 00\else0\fi\thepage}
-% \newcommand{\gLeadzeros}[1]{\ifthenelse{\value{#1} < 10}{00}{\ifthenelse{\value{#1}< 100}{0}{}}}
-% \renewcommand{\thepage}{\thechapter\,\thepage}
-% \renewcommand{\thepage}{\thechapter\,\gLeadzeros{\thepage}\thepage}
+\renewcommand{\chappgsep}{/}
+% % \newcommand{\leadpage}{\thechapter\,\ifnum\thepage<10 00\else0\fi\thepage}
+% % \newcommand{\gLeadzeros}[1]{\ifthenelse{\value{#1} < 10}{00}{\ifthenelse{\value{#1}< 100}{0}{}}}
+% % \newcommand{\gLeadzeros}[1]{\protect\ifthenelse{#1 < 10}{00}{\relax}}
+% \newcommand\gLeadzeros[1]{\ifnum#1<10 00#1\else0#1\fi#1}
+% % \renewcommand{\thepage}{\thechapter\,\thepage}
+% \renewcommand{\thepage}{
+% \thechapter -
+% % \protect\ifthenelse{\value{page}<10}{00}{\protect\ifthenelse{\value{page}<
+% % 100}{0}{}}
+% \gLeadzeros{\value{page}}
 % 
+% - 
+% \arabic{page}}
+% % 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen

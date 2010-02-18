@@ -16,6 +16,8 @@ parskip=half,
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
+\usepackage{blindtext}
+\usepackage{microtype}
 
 \usepackage{xindy}
 
@@ -27,6 +29,10 @@ parskip=half,
 \usepackage[demo]{graphicx} % Bilder-Support
 
 % \usepackage{showidx} % shows index entries on page margin
+\renewcommand*{\index}[1]{%
+  \mbox{{\color{ForestGreen}\textsuperscript{{\sffamily\tiny INDEX: }{\ttfamily
+  #1}}}}}
+
 % \usepackage{showkeys}
 
 \input{./inputs/input-preamble}
@@ -65,6 +71,7 @@ Gebrauch!}}
 \fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
 % % %
 
+
 %\usepackage{excludeonly}
 %\excludeonly{include-betriebsintern-chapter,include-regional-chapter,include-taetigkeitsbild-chapter,include-erstehilfe-chapter,include-recht-chapter,include-reserve-ende}
 \includeonly{
@@ -101,6 +108,12 @@ Gebrauch!}}
 % optional --- Optionaler Text. 
 \usepackage
 [
+%%% Status
+STATUS-DRAFT,
+STATUS-DRAFT-WITHINDEX,
+STATUS-DRAFT-WITHPICTURES,
+% STATUS-FINAL,
+STATUS-EXPERIMENTAL,
 %%% Organisation
 ORGASBFLO,
 %%% Niveau
@@ -139,7 +152,6 @@ MPG-WEINMANN-MEDUMAT-TRANSPORT %
 
 
 
-
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -150,6 +162,12 @@ MPG-WEINMANN-MEDUMAT-TRANSPORT %
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
+
+
+
+
+
+
 
 
 \maketitle
@@ -235,6 +253,8 @@ handelt.
 
 {\scriptsize \textbf{Vorabversionen:} 0.2.0 2009-07 / 0.4.0 2009-09 / 0.6.0
 2009-10 / 0.8.0 2010-01}
+
+\blindtext
 
 \clearpage
 \section*{Herausgeber und Redakteure}
@@ -643,7 +663,19 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 \include{./chapters/inc-REG-chapter}
 
-\addtocounter{chapter}{2}
+
+\chapter{Naturwissenschaftliche Grundlagen}
+
+\section{Maßeinheiten}
+\section{Physikalische Grundlagen}
+\subsection{Licht und Optik}
+\section{Chemie}
+
+
+\subsection{Beispiele gefährlicher Substanzen}
+
+\setcounter{chapter}{10}
+\setcounter{page}{0}
 
 \part{Grundlagen}
 
@@ -653,11 +685,16 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 \include{./chapters/inc-AED-chapter}
 
-\include{./chapters/inc-GER-chapter}
+\include{./chapters/inc-MP1-chapter}
+
+\include{./chapters/inc-BAU-chapter}
 
 \include{./chapters/inc-SAN-chapter}
 
 \include{./chapters/inc-KHD-chapter}
+
+\setcounter{chapter}{20}
+\setcounter{page}{0}
 
 \part{Medizinisch-Wissenschaftlicher Teil}
 
@@ -679,10 +716,11 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 \include{./chapters/inc-RES-ende}
 
-
+\setcounter{chapter}{40}
+\setcounter{page}{0}
 \part{Erweitertes Wissen}
 
-\include{./chapters/inc-MPG-chapter}
+\include{./chapters/inc-MP2-chapter}
 
 \include{./chapters/inc-ALS-chapter}
 
@@ -690,13 +728,18 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 \include{./chapters/inc-WIS-chapter}
 
-\include{./chapters/inc-INT}
-\include{./chapters/inc-APP}
+
 
 
 \appendix
+\setcounter{page}{0}
 \part{Appendix}
-\pagenumbering[Appendix]{bychapter}
+
+% \pagenumbering[Appendix]{bychapter}
+
+
+\chapter{Übersicht Referenz- und Normalwerte}
+
 % \begin{gWideParEnv}
 {
 % \sffamily
@@ -706,14 +749,17 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 }
 % \end{gWideParEnv}
 
+
+
+\include{./chapters/inc-INT}
+\include{./chapters/inc-APP}
+
 \clearpage
 % \begin{gWideParEnv}
 {\small
 \printindex
 }
 % \end{gWideParEnv}
-
-
 
 SO LONG..........
 

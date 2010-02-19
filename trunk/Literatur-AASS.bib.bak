@@ -1991,14 +1991,6 @@
   url = {http://dx.doi.org/10.1056/NEJMoa0903810}
 }
 
-@BOOK{,
-  title = {The 9/11 Commission Report - Die offizielle Untersuchung zu den Terrorattacken
-	vom 11. September 2001},
-  author = {National Commission on Terrorist Attacks upon the United States},
-  owner = {grissu},
-  timestamp = {2010.01.24}
-}
-
 @BOOK{Jolesch2,
   title = {Die Erben der Tante Jolesch},
   publisher = {dtv},
@@ -2226,6 +2218,14 @@
   owner = {grissu},
   pmid = {14597836},
   timestamp = {2009.07.28}
+}
+
+@STANDARD{wiki:pseudokrupp,
+  title = {Pseudokrupp --- Wikipedia{,} Die freie Enzyklopädie},
+  author = {Wikipedia},
+  year = {2010},
+  note = {[Online; Stand 19. Februar 2010]},
+  url = {\url{http://de.wikipedia.org/w/index.php?title=Pseudokrupp&oldid=70531371}}
 }
 
 @ELECTRONIC{wikiSpanischeGrippe,

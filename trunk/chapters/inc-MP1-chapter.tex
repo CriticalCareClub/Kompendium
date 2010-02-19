@@ -68,11 +68,281 @@ ihnen bei ihrer Ausbildung bzw. Unterweisung gelehrt wurde.
 Außerdem sind sie verpflichtet die Geräte vor dem Gebrauch
 mittels eines Gerätecheck auf ihre Funktion zu überprüfen.
 
+% In diesem Abschnitt werden weitere Maßnahmen und Geräte für die Diagnostik und
+% Patientenüberwachung (Monitoring) besprochen. Manche Maßnahmen werden in anderen
+% Abschnitten besprochen (z.B. Blutdruckmessung
+% (\prettyref{topic:blutdruckmessung}), Messung der Herzfrequenz (Pulsmessung,
+% \prettyref{topic:pulsmessung}), \ldots). 
+
+\section{Diagnostik und Monitoring}
 
 
-\section{Stethoskop}
+\subsection{Stethoskop}
 
-\section{Manuelle Blutdruckmessgeräte}
+\subsection{Manuelle Blutdruckmessgeräte}
+
+
+
+
+\subsection{EKG}
+\label{topic:ekg}
+\index{EKG}
+
+Das Elektrokardiogramm (EKG) zeigt mittels eines entsprechenden
+Gerätes die elektrische Herzaktivität des
+Reizbildungs- und Reizleitungssystems an. Dazu werden auf
+dem Körper nach einem bestimmten Muster Elektroden
+aufgeklebt und mittels eines Kabels mit dem EKG-Gerät
+verbunden. Im Rettungsdienst werden fast ausschließlich
+Klebeelektroden für den einmaligen Gebrauch verwendet. 
+
+\gAuthNotes{GABS: Sollte im Defi-Teil durchgenommen
+werden?:} \gZ{EKG -- Ablauf einer Erregung
+
+\begin{itemize}
+    \item P-Welle $\approx$ Vorhoferregung
+    \item PQ-Zeit $\approx$ AV-\"Uberleitung
+    \item QRS-Komplex $\approx$ Kammererregung
+    \item ST-Strecke + T-Welle $\approx$ Erregungsrückbildung
+\end{itemize}}
+
+\gCave{Das EKG zeigt nur die \gE{elektrische} Aktivität,
+nicht aber die tatsächliche Muskelarbeit an! 
+
+\gEs{Es erlaubt
+keine Aussage über die Auswurfleistung! }}
+
+\gFazit{Grundsatz: \gEs{Selbst ein pulsloser Patient kann ein
+{\quotedblbase}schönes{\textquotedblleft} EKG haben (allerdings nicht lange)!}}
+
+\subsubsection{EKG -- Ableitungen}
+\label{topic:ekg-ableitungen}
+Grundsätzlich unterscheidet man zwischen den Extremitätenableitungen
+und den Brustwandableitungen. 
+
+\begin{itemize}
+    \item Extremitätenableitungen\gZ{: I, II, III, aVL, aVR, aVF}
+    \item Brustwandableitungen\gZ{: V1 -- V6}
+\end{itemize}
+
+Es haben sich folgende Begriffe eingebürgert:
+
+\begin{description}
+    \item[Extremitätenableitung] "`\gT{Rhythmusstreifen}"'
+    zur Beurteilung des Herzrhythmus und zum Monitoring
+    \item[Extremitätenableitung\,+\,Brustwandableitung]
+    "`\gT{12-Kanal-EKG}"' -- Damit können Schäden der
+    jeweiligen Herzregion zugeordnet werden. Wenn vorhanden,
+    ist das 12-Kanal-EKG (\emph{"`12er"'}) für die
+    Diagnostik das Mittel der Wahl. 
+\end{description}
+
+\gMarriedNG{Extremitätenableitungen}
+{
+Die Extremitätenableitungen werden mittels 4 Elektroden abgeleitet. Je
+eine Elektrode wird an den Enden der Extremitäten angebracht. Zur
+Vereinfachung können die Elektroden auch am \"Ubergang vom Rumpf zu
+den Extremitäten angebracht werden (z.B. statt dem rechten Arm an der
+rechten Schulter). Wichtig ist, dass die 
+Elektrodenpärchen immer auf \gEs{gleicher Höhe} angebracht
+werden!
+
+Aus den Informationen der 4 Elektroden erzeugt das
+EKG-Gerät \gEs{6 Ableitungen} \gZ{(I, II, III, aVL, aVR
+und aVF).}
+}{
+\begin{itemize}
+    \item 4 Elektroden an den Extremitäten
+    \item (bzw. am Übergang Rumpf -- Extremitäten)
+    \item 6 Ableitungen
+\end{itemize}
+}
+
+
+
+
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=7cm]{./images/geraete/ECGcolor.png}
+\gCaptionof{figure}{\gAuthNotesPicLegalOk{}{PD}Extremitätenableitungen
+(schwarze Kabel) und Brustwandableitungen (blaue Kabel).
+\gSourcePicture{Madhero88 (Wikimedia Commons), Public
+domain}\gAuthNotes{GABS: Bessere Beschriftung wäre
+wünschenswert, Dringlichkeit: niedrig}}
+\end{center}
+\end{figure}
+
+
+\begin{table}[H]
+\gCaptionof{table}{Farbe und Positionen der EKG-Elektroden
+für die Extremitätenableitung.}
+
+\begin{tabular}{lll}
+\gTabHeading{Elektrode} 
+& 
+\gTabHeading{Position} 
+&
+\gTabHeading{Alternative Postion}
+\\\midrule
+\colorbox{red}{\sffamily\bfseries\textcolor{white}{Rot}} & Rechte Hand & Rechte
+Schulter
+\\
+\colorbox{yellow}{\sffamily\bfseries Gelb} & Linke Hand & Linke
+Schulter
+\\
+\colorbox{green}{\sffamily\bfseries Grün} & Linker Fuß  &
+Linke Leiste
+\\
+\colorbox{black}{\sffamily\bfseries\textcolor{white}{Schwarz}} & Rechter Fuß &
+Rechte Leiste \\\bottomrule
+\end{tabular}
+\end{table}
+
+\gMarriedNG{Brustwandableitungen}
+{
+Die Brustwandableitungen werden mittels 6 Elektroden abgeleitet und
+erlauben eine genauere Zuordnung von Störungen zu der jeweiligen
+Region des Herzens. Aus den Informationen der 6 Elektroden erzeugt das
+EKG-Gerät 6 Ableitungen: \gZ{V1 -- V6}. 
+}{
+\begin{itemize}
+    \item 6 Elektroden am Brustkorb.
+    \item 6 Ableitungen
+\end{itemize}
+}
+
+
+
+
+
+\begin{table}[H]
+\gZ{
+\gCaptionof{table}{Position der EKG-Elektroden bei der Brustwandableitung.}
+
+\begin{tabulary}{\linewidth}[H]{CL}
+Elektrode
+ &
+Position
+\\\midrule
+V1 & 4. Zwischenrippenraum rechts vom Sternum
+\\
+V2 & 4. Zwischenrippenraum links vom Sternum
+\\
+V3 & Mitte zwischen V2 und V4
+\\
+V4 & 5. Zwischenrippenraum links in der Verlängerung der
+Schlüsselbein-Mittellinie
+\\
+V5 & Mitte zwischen V4 und V6
+\\
+V6 & 6. Zwischenrippenraum in der mittleren Achsellinie
+\\\bottomrule
+\end{tabulary}
+}
+\end{table}
+
+\subsection{Pulsoxymetrie}
+
+% \subsubsection{Pulsoxymetrie}
+% 
+% \index{Pulsoxymetrie}\begin{center}
+%  [Warning: Image ignored] % Unhandled or unsupported graphics:
+% %\includegraphics[width=3.516cm,height=3.516cm]{AASdev20090228-img13.png}
+% \gTempPicMissing{Pulsoxy img13}
+% 
+% \end{center}
+% Das Pulsoxymeter (kurz: Pulsoxy) mißt dden Puls und die
+% Sauerstoffsättigung (\index{SpO2}SpO2)des Blutes (Verhältnis
+% O2-beladene/ nichtbeladene Erythrozyten). 
+% 
+% Normalwert 96-99\%, 
+% 
+% [F078?] Achtung: Ein {\quotedblbase}guter{\textquotedblleft}
+% \index{SpO2}Sp\ce{O2}-Wert bedeutet nicht {\quotedblbase}keinen Sauerstoff
+% geben{\textquotedblleft}. Die Entscheidung bezüglich Sauerstoffgabe
+% berücksichtigt die Diagnose und den Zustand des Patienten, der
+% \index{SpO2}Sp\ce{O2}-Wert hat wenig bis gar nichts zu sagen! 
+% 
+% Achtung: Das Pulsoxymeter verwechselt \ce{O2} und
+% \ce{CO}-Moleküle, bei einer \ce{CO}-Vergiftung zeigt das Pulsoxy
+% falsch-hohe Sättigungswerte an!
+% 
+% Weitere Fehlerquellen: kein Signal: Nagellack, Zentralisation
+% 
+% Das Pulsoxymeter misst die Herzfrequenz und die Sauerstoffsättigung
+% (=Sp\ce{O2}) des Blutes, aber es gilt:
+% 
+% [F078?] Ein {\quotedblbase}guter{\textquotedblleft} Sättigungswert ist
+% keine Begründung keinen Sauerstoff zu verabreichen!
+
+Die Pulsoxymetrie wird unter
+\prettyref{topic:pulsoxymetrie} besprochen.
+
+\subsubsection{Allgemein}
+
+\gLayout{2}{\gTxBeschreibung}
+{
+
+}{}{}{}{}
+
+\gLayout{2}{Funktionen}
+{
+
+}{}{}{}{}
+
+\gLayout{2}{Anwendung}
+{
+
+}{}{}{}{}
+
+\gLayout{2}{Hygienische Wiederaufbereitung}
+{
+
+}{}{}{}{}
+
+\gLayout{2}{\gTxGefahren}
+{
+
+}{}{}{}{}
+
+\subsubsection{Gelbes Pulsoxy}
+
+\subsubsection{Rotes Pulsoxy}
+
+
+\subsection{Blutzuckermessung}
+
+Die Blutzuckermessung wird unter
+\prettyref{topic:blutzucker-messung} besprochen.
+
+\subsubsection{AccuCheck}
+
+\subsection{Fieberthermometer}
+
+% TODO INHALT: GER Fieberthermeter
+
+\gLayout{2}{Ohrtermometer}
+{~
+
+\gTakeNotesLarge
+
+\subparagraph{Hygienische Maßnahmen}~
+
+\gTakeNotesMedium
+}{}{}{}{}
+
+\gLayout{2}{Standardthermometer}
+{~
+
+\gTakeNotesLarge
+
+\subparagraph{Hygienische Maßnahmen}~
+
+\gTakeNotesMedium
+}{}{}{}{}
+
+
 
 
 \section{Sauerstoff -- \ce{O2}}
@@ -1070,271 +1340,7 @@ Oberschenkel verwendet. }{
 {}
 
 
-% \subsubsection{Pulsoxymetrie}
-% 
-% \index{Pulsoxymetrie}\begin{center}
-%  [Warning: Image ignored] % Unhandled or unsupported graphics:
-% %\includegraphics[width=3.516cm,height=3.516cm]{AASdev20090228-img13.png}
-% \gTempPicMissing{Pulsoxy img13}
-% 
-% \end{center}
-% Das Pulsoxymeter (kurz: Pulsoxy) mißt dden Puls und die
-% Sauerstoffsättigung (\index{SpO2}SpO2)des Blutes (Verhältnis
-% O2-beladene/ nichtbeladene Erythrozyten). 
-% 
-% Normalwert 96-99\%, 
-% 
-% [F078?] Achtung: Ein {\quotedblbase}guter{\textquotedblleft}
-% \index{SpO2}Sp\ce{O2}-Wert bedeutet nicht {\quotedblbase}keinen Sauerstoff
-% geben{\textquotedblleft}. Die Entscheidung bezüglich Sauerstoffgabe
-% berücksichtigt die Diagnose und den Zustand des Patienten, der
-% \index{SpO2}Sp\ce{O2}-Wert hat wenig bis gar nichts zu sagen! 
-% 
-% Achtung: Das Pulsoxymeter verwechselt \ce{O2} und
-% \ce{CO}-Moleküle, bei einer \ce{CO}-Vergiftung zeigt das Pulsoxy
-% falsch-hohe Sättigungswerte an!
-% 
-% Weitere Fehlerquellen: kein Signal: Nagellack, Zentralisation
-% 
-% Das Pulsoxymeter misst die Herzfrequenz und die Sauerstoffsättigung
-% (=Sp\ce{O2}) des Blutes, aber es gilt:
-% 
-% [F078?] Ein {\quotedblbase}guter{\textquotedblleft} Sättigungswert ist
-% keine Begründung keinen Sauerstoff zu verabreichen!
 
-\section{Diagnostik und Monitoring}
-
-In diesem Abschnitt werden weitere Maßnahmen und Geräte für die Diagnostik und
-Patientenüberwachung (Monitoring) besprochen. Manche Maßnahmen werden in anderen
-Abschnitten besprochen (z.B. Blutdruckmessung
-(\prettyref{topic:blutdruckmessung}), Messung der Herzfrequenz (Pulsmessung,
-\prettyref{topic:pulsmessung}), \ldots). 
-
-\subsection{Das EKG}
-\label{topic:ekg}
-\index{EKG}
-
-Das Elektrokardiogramm (EKG) zeigt mittels eines entsprechenden
-Gerätes die elektrische Herzaktivität des
-Reizbildungs- und Reizleitungssystems an. Dazu werden auf
-dem Körper nach einem bestimmten Muster Elektroden
-aufgeklebt und mittels eines Kabels mit dem EKG-Gerät
-verbunden. Im Rettungsdienst werden fast ausschließlich
-Klebeelektroden für den einmaligen Gebrauch verwendet. 
-
-\gAuthNotes{GABS: Sollte im Defi-Teil durchgenommen
-werden?:} \gZ{EKG -- Ablauf einer Erregung
-
-\begin{itemize}
-    \item P-Welle $\approx$ Vorhoferregung
-    \item PQ-Zeit $\approx$ AV-\"Uberleitung
-    \item QRS-Komplex $\approx$ Kammererregung
-    \item ST-Strecke + T-Welle $\approx$ Erregungsrückbildung
-\end{itemize}}
-
-\gCave{Das EKG zeigt nur die \gE{elektrische} Aktivität,
-nicht aber die tatsächliche Muskelarbeit an! 
-
-\gEs{Es erlaubt
-keine Aussage über die Auswurfleistung! }}
-
-\gFazit{Grundsatz: \gEs{Selbst ein pulsloser Patient kann ein
-{\quotedblbase}schönes{\textquotedblleft} EKG haben (allerdings nicht lange)!}}
-
-\subsubsection{EKG -- Ableitungen}
-\label{topic:ekg-ableitungen}
-Grundsätzlich unterscheidet man zwischen den Extremitätenableitungen
-und den Brustwandableitungen. 
-
-\begin{itemize}
-    \item Extremitätenableitungen\gZ{: I, II, III, aVL, aVR, aVF}
-    \item Brustwandableitungen\gZ{: V1 -- V6}
-\end{itemize}
-
-Es haben sich folgende Begriffe eingebürgert:
-
-\begin{description}
-    \item[Extremitätenableitung] "`\gT{Rhythmusstreifen}"'
-    zur Beurteilung des Herzrhythmus und zum Monitoring
-    \item[Extremitätenableitung\,+\,Brustwandableitung]
-    "`\gT{12-Kanal-EKG}"' -- Damit können Schäden der
-    jeweiligen Herzregion zugeordnet werden. Wenn vorhanden,
-    ist das 12-Kanal-EKG (\emph{"`12er"'}) für die
-    Diagnostik das Mittel der Wahl. 
-\end{description}
-
-\gMarriedNG{Extremitätenableitungen}
-{
-Die Extremitätenableitungen werden mittels 4 Elektroden abgeleitet. Je
-eine Elektrode wird an den Enden der Extremitäten angebracht. Zur
-Vereinfachung können die Elektroden auch am \"Ubergang vom Rumpf zu
-den Extremitäten angebracht werden (z.B. statt dem rechten Arm an der
-rechten Schulter). Wichtig ist, dass die 
-Elektrodenpärchen immer auf \gEs{gleicher Höhe} angebracht
-werden!
-
-Aus den Informationen der 4 Elektroden erzeugt das
-EKG-Gerät \gEs{6 Ableitungen} \gZ{(I, II, III, aVL, aVR
-und aVF).}
-}{
-\begin{itemize}
-    \item 4 Elektroden an den Extremitäten
-    \item (bzw. am Übergang Rumpf -- Extremitäten)
-    \item 6 Ableitungen
-\end{itemize}
-}
-
-
-
-
-
-\begin{figure}[H]
-\begin{center}
-\includegraphics[width=7cm]{./images/geraete/ECGcolor.png}
-\gCaptionof{figure}{\gAuthNotesPicLegalOk{}{PD}Extremitätenableitungen
-(schwarze Kabel) und Brustwandableitungen (blaue Kabel).
-\gSourcePicture{Madhero88 (Wikimedia Commons), Public
-domain}\gAuthNotes{GABS: Bessere Beschriftung wäre
-wünschenswert, Dringlichkeit: niedrig}}
-\end{center}
-\end{figure}
-
-
-\begin{table}[H]
-\gCaptionof{table}{Farbe und Positionen der EKG-Elektroden
-für die Extremitätenableitung.}
-
-\begin{tabular}{lll}
-\gTabHeading{Elektrode} 
-& 
-\gTabHeading{Position} 
-&
-\gTabHeading{Alternative Postion}
-\\\midrule
-\colorbox{red}{\sffamily\bfseries\textcolor{white}{Rot}} & Rechte Hand & Rechte
-Schulter
-\\
-\colorbox{yellow}{\sffamily\bfseries Gelb} & Linke Hand & Linke
-Schulter
-\\
-\colorbox{green}{\sffamily\bfseries Grün} & Linker Fuß  &
-Linke Leiste
-\\
-\colorbox{black}{\sffamily\bfseries\textcolor{white}{Schwarz}} & Rechter Fuß &
-Rechte Leiste \\\bottomrule
-\end{tabular}
-\end{table}
-
-\gMarriedNG{Brustwandableitungen}
-{
-Die Brustwandableitungen werden mittels 6 Elektroden abgeleitet und
-erlauben eine genauere Zuordnung von Störungen zu der jeweiligen
-Region des Herzens. Aus den Informationen der 6 Elektroden erzeugt das
-EKG-Gerät 6 Ableitungen: \gZ{V1 -- V6}. 
-}{
-\begin{itemize}
-    \item 6 Elektroden am Brustkorb.
-    \item 6 Ableitungen
-\end{itemize}
-}
-
-
-
-
-
-\begin{table}[H]
-\gZ{
-\gCaptionof{table}{Position der EKG-Elektroden bei der Brustwandableitung.}
-
-\begin{tabulary}{\linewidth}[H]{CL}
-Elektrode
- &
-Position
-\\\midrule
-V1 & 4. Zwischenrippenraum rechts vom Sternum
-\\
-V2 & 4. Zwischenrippenraum links vom Sternum
-\\
-V3 & Mitte zwischen V2 und V4
-\\
-V4 & 5. Zwischenrippenraum links in der Verlängerung der
-Schlüsselbein-Mittellinie
-\\
-V5 & Mitte zwischen V4 und V6
-\\
-V6 & 6. Zwischenrippenraum in der mittleren Achsellinie
-\\\bottomrule
-\end{tabulary}
-}
-\end{table}
-
-\subsection{Pulsoxymetrie}
-
-Die Pulsoxymetrie wird unter
-\prettyref{topic:pulsoxymetrie} besprochen.
-
-\subsubsection{Allgemein}
-
-\gLayout{2}{\gTxBeschreibung}
-{
-
-}{}{}{}{}
-
-\gLayout{2}{Funktionen}
-{
-
-}{}{}{}{}
-
-\gLayout{2}{Anwendung}
-{
-
-}{}{}{}{}
-
-\gLayout{2}{Hygienische Wiederaufbereitung}
-{
-
-}{}{}{}{}
-
-\gLayout{2}{\gTxGefahren}
-{
-
-}{}{}{}{}
-
-\subsubsection{Gelbes Pulsoxy}
-
-\subsubsection{Rotes Pulsoxy}
-
-
-\subsection{Blutzuckermessung}
-
-Die Blutzuckermessung wird unter
-\prettyref{topic:blutzucker-messung} besprochen.
-
-\subsubsection{AccuCheck}
-
-\subsection{Fieberthermometer}
-
-% TODO INHALT: GER Fieberthermeter
-
-\gLayout{2}{Ohrtermometer}
-{~
-
-\gTakeNotesLarge
-
-\subparagraph{Hygienische Maßnahmen}~
-
-\gTakeNotesMedium
-}{}{}{}{}
-
-\gLayout{2}{Standardthermometer}
-{~
-
-\gTakeNotesLarge
-
-\subparagraph{Hygienische Maßnahmen}~
-
-\gTakeNotesMedium
-}{}{}{}{}
 
 
 %%%

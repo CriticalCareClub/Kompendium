@@ -6,8 +6,8 @@ fontsize=9pt,
 headings=small,
 draft=false,
 parskip=half,
-% listof=totoc,
-% bibliography=totoc,
+% listof=totoc,         % verschiebt Minitoc/Hyperref
+% bibliography=totoc,   % verschiebt Minitoc/Hyperref
 % index=totoc,
 % noonelinecaption
 ]{scrbook}
@@ -25,7 +25,7 @@ parskip=half,
 % draft .. Es werden nur Rahmen angezeigt
 % final .. Es werden Bilder normal angezeigt
 % (demo .. keine Bilder)
-\usepackage[final]{graphicx} % Bilder-Support
+\usepackage[draft]{graphicx} % Bilder-Support
 
 % \usepackage{showidx} % shows index entries on page margin
 

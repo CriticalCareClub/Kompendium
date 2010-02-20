@@ -5,6 +5,7 @@
 .DS_Store
 *.out
 *.dvi
+*.err
 *.idx
 *.ilg
 *.ind

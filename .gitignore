@@ -12,6 +12,7 @@
 *.log
 *.lof
 *.lot
+*.lox
 *.maf
 *.mtc
 *.mtc*
@@ -22,6 +23,7 @@ AASS-*.pdf
 tempPartial*
 *.toc
 *.tmp
+trunk/out/*.pdf
 trunk/tmp/*
 latexcheatsheet.pdf
 scrindex.sty

@@ -29,6 +29,13 @@ parskip=half,
 
 % \usepackage{showidx} % shows index entries on page margin
 
+\usepackage[margin=false,inline=true,index=true,status=draft,multiuser,lang=english]{fixme}
+% \fxnote
+% \fxwarning
+% \fxerror
+% \fxfatal
+\fxsetface{inline}{\ttfamily\color{red}}
+\fxsetface{env}{\ttfamily\color{Fuchsia}}
 
 % \usepackage{showkeys}
 
@@ -172,6 +179,8 @@ MP-WEINMANN-MEDUMAT-TRANSPORT %
 
 
 \maketitle
+
+\listoffixmes
 
 %\nocite{*} 
 
@@ -582,6 +591,8 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 \listof{error}{Verzeichnis der Fehler}
 }
 }
+
+
 
 
 

@@ -1,3 +1,29 @@
+
+% TODO : 
+% \fxnote[author=GABS]{}
+\fxwarning[author=GABS]{}
+% \fxerror[author=GABS]{}
+% \fxcritical[author=GABS]{}
+
+
+
+% TODO : Überarbeitung
+\begin{anfxwarning}[author=GABS]{Überarbeitung notwendig.}
+Dieser Teil ist nicht gut formuliert und/oder unvollständig, er benötigt eine Überarbeitung!
+\end{anfxwarning}
+
+% TODO : Section: Layout-Anpassung
+\begin{anfxwarning}[author=GABS]{Section: Layout-Anpassung notwendig.}
+Dieser Abschnitt entspricht nicht dem Standard-Layout!
+\end{anfxwarning}
+
+
+% TODO : Fehlerhafter Text
+\begin{anfxerror}[author=GABS]{Fehlerhafter Text.}
+Dieser Teil ist fehlerhaft oder sehr unvollständig. Die Aussagen sind unklar oder verwirrend. Eine Überarbeitung ist dringend notwendig!
+\end{anfxerror}
+
+
 \gLayout{2}{}
 {
 

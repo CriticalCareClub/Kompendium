@@ -1,3 +1,51 @@
+
+% TODO : 
+% \fxnote[author=GABS]{}
+\fxwarning[author=GABS]{}
+% \fxerror[author=GABS]{}
+% \fxcritical[author=GABS]{}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TODO : Überarbeitung
+\begin{anfxwarning}[author=GABS]{Überarbeitung notwendig.}
+   Dieser Teil ist nicht gut formuliert und/oder unvollständig, 
+   er benötigt eine Überarbeitung!
+\end{anfxwarning}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TODO : Layout-Anpassung
+\begin{anfxwarning}[author=GABS]{Layout-Anpassung notwendig.}
+   Dieser Abschnitt entspricht nicht dem Standard-Layout!
+\end{anfxwarning}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TODO : Fließtext fehlt!
+\begin{anfxwarning}[author=GABS]{Fließtext fehlt!}
+   Der Fließtext fehlt!
+\end{anfxwarning}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TODO : Fließtext/Slide fehlt!
+\begin{anfxwarning}[author=GABS]{Fließtext/Slide fehlt!}
+   Fließtext/Slide fehlt!
+\end{anfxwarning}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TODO : Fehlerhafter Text
+\begin{anfxerror}[author=GABS]{Fehlerhafter Text.}
+   Dieser Teil ist fehlerhaft oder sehr unvollständig. 
+   Die Aussagen sind unklar oder verwirrend. Eine Überarbeitung ist dringend notwendig!
+\end{anfxerror}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 \gLayout{2}{}
 {
 

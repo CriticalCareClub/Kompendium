@@ -16,6 +16,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TODO : Vervollständigen
+\begin{anfxwarning}[author=GABS]{Vervollständigung notwendig.}
+   Vervollständigung notwendig! \par Dieser Teil ist unvollständig, 
+   er benötigt eine Überarbeitung!
+\end{anfxwarning}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % TODO : Layout-Anpassung
 \begin{anfxwarning}[author=GABS]{Layout-Anpassung notwendig.}
    Dieser Abschnitt entspricht nicht dem Standard-Layout!

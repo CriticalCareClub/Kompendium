@@ -267,10 +267,27 @@ bindingoffset=1.5cm]
 %\usepackage[scaled]{helvet} 
 %%% Latin Modern                                                       
 \usepackage{lmodern}
+% \usepackage{yfonts}
+% % The package yfonts.sty supports the following fonts:
+% % 
+% % ygoth    Gotisch            from <ctan>/fonts/gothic/ygoth
+% % yswab    Schwabacher             <ctan>/fonts/gothic/yswab
+% % yfrak    Fraktur                 <ctan>/fonts/gothic/yfrak
+% % ysmfrak  Fraktur (variant)       <ctan>/fonts/gothic/yfrak
+% % yinitas  initials                <ctan>/fonts/gothic/yinit
+
+
+\usepackage{ocr}
+
+
+% \renewcommand{\rmdefault}{lmr} % Latin Modern Roman 
 \renewcommand{\rmdefault}{lmr} % Latin Modern Roman 
 %\renewcommand{\bfdefault}{b} % bold und nciht bold extended
 \renewcommand{\sfdefault}{lmss} % Latin Modern Sans Serif
-\renewcommand{\ttdefault}{lmtt} % Latin Modern Typewriter 
+\renewcommand{\ttdefault}{lmtt} % Latin Modern Typewriter
+% \renewcommand{\ttdefault}{ocrb} % OCR-B
+
+
 
 % \renewcommand{\rmdefault}{ugm} % URW Garamond
 % \renewcommand{\sfdefault}{uop} % URW Utopia
@@ -293,8 +310,11 @@ bindingoffset=1.5cm]
 % chapter wird nach Paket quotechp gesetzt
 % \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{ubuntured}} 
 \addtokomafont{section}{\huge\color{ubuntured}}
+% \addtokomafont{section}{\ocrfamily\selectfont\huge\color{ubuntured}}
 \addtokomafont{subsection}{\LARGE\color{ubuntured}}
+% \addtokomafont{subsection}{\ocrfamily\selectfont\LARGE\color{ubuntured}}
 \addtokomafont{subsubsection}{\large\color{ubuntured!80}}
+% \addtokomafont{subsubsection}{\ocrfamily\large\color{ubuntured!80}}
 % \addtokomafont{subsubsection}{\LARGE\color{darkBlue}}
 % \addtokomafont{subsubsection}{\LARGE\color{black}}
 \addtokomafont{paragraph}{\large\color{darkBlue}}
@@ -360,8 +380,19 @@ pdfpagelayout=TwoPageRight,
 \usepackage[grey,helvetica]{quotchap}
 %\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
 \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
+% \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
+% \newenvironment{savequote}{}{}
+
+% \usepackage[Rejne]{fncychap}
+% \ChNameVar{\centering\LARGE\sf} 
+% \ChNumVar{\Huge\color{darkBlue}} 
+% \ChTitleVar{\centering\Large\sf\color{ubuntured}}
+% \ChRuleWidth{2pt} 
+% \ChNameUpperCase
+% % \ChNumVar{\fontsize{76}{80}\usefont{OT1}{lmdh}{m}{n}\selectfont\color{darkBlue}}
 \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{ubuntured}}
 
+% \addtokomafont{chapter}{\fontfamily{lmdh}\selectfont\Huge\color{ubuntured}}
 
 
 
@@ -387,29 +418,29 @@ pdfpagelayout=TwoPageRight,
 %       };
 %    \end{tikzpicture}
 %   }
-% 
-% % \titlespacing*{\chapter}{0pt}{50pt}{-60pt}
-% 
-% % \usepackage[automark]{scrpage2}
-% % \usepackage{tikz}
-% % \newcommand*\tikzhead[1]{%
-% %   \begin{tikzpicture}[remember picture,overlay]
-% %     \node[yshift=-2cm] at (current page.north west)
-% %       {\begin{tikzpicture}[remember picture, overlay]
-% %         \draw[fill=LightSkyBlue] (0,0) rectangle
-% %           (\paperwidth,2cm);
-% %         \node[anchor=east,xshift=.9\paperwidth,rectangle,
-% %               rounded corners=15pt,inner sep=11pt,
-% %               fill=MidnightBlue]
-% %               {\color{white}#1};
-% %        \end{tikzpicture}
-% %       };
-% %    \end{tikzpicture}}
-% % \clearscrheadings
-% % \ihead{\tikzhead{\headmark}}
-% % \pagestyle{scrheadings}
 
-
+% \titlespacing*{\chapter}{0pt}{50pt}{-60pt}
+% 
+% \usepackage[automark]{scrpage2}
+% \usepackage{tikz}
+% \newcommand*\tikzhead[1]{%
+%   \begin{tikzpicture}[remember picture,overlay]
+%     \node[yshift=-2cm] at (current page.north west)
+%       {\begin{tikzpicture}[remember picture, overlay]
+%         \draw[fill=LightSkyBlue] (0,0) rectangle
+%           (\paperwidth,2cm);
+%         \node[anchor=east,xshift=.9\paperwidth,rectangle,
+%               rounded corners=15pt,inner sep=11pt,
+%               fill=MidnightBlue]
+%               {\color{white}#1};
+%        \end{tikzpicture}
+%       };
+%    \end{tikzpicture}}
+% \clearscrheadings
+% \ihead{\tikzhead{\headmark}}
+% \pagestyle{scrheadings}
+% 
+% 
 % \usepackage[automark]{scrpage2}
 % 
 % \usepackage{tikz}
@@ -429,8 +460,8 @@ pdfpagelayout=TwoPageRight,
 % \clearscrheadings
 % \ihead{\tikzhead{\headmark}}
 % \pagestyle{scrheadings}
-
-
+% 
+% 
 
 
 % \newenvironment{savequote}{}{}
@@ -439,8 +470,7 @@ pdfpagelayout=TwoPageRight,
 
 
 
-% \usepackage[Bjornstrup]{fncychap}
-% \ChNumVar{\fontsize{76}{80}\usefont{OT1}{lmdh}{m}{n}\selectfont\color{darkBlue}}
+
 
 \usepackage{minitoc} %The quotchap package should be loaded BEFORE the minitoc package.
 

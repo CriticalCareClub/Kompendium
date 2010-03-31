@@ -8,7 +8,8 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % TODO : Neuerstellung
-\fxwarning[author=GABS]{: Neuerstellung von Text notwendig}
+\fxwarning[author=GABS]{: Neuerstellung von Grafik/Text 
+                          notwendig}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 

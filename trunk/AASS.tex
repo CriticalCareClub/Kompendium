@@ -2,7 +2,7 @@
 ngerman,
 paper=a4,
 asymmetric,
-fontsize=10pt,
+fontsize=9pt,
 headings=small,
 draft=false,
 parskip=half,
@@ -15,6 +15,10 @@ parskip=half,
 % UTF-8 Schriftkodierung
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+
+
+\pdfcompresslevel=9
+\pdfimageresolution=72
 
 \usepackage{blindtext}
 \usepackage{microtype}
@@ -41,8 +45,8 @@ multiuser,
 % \fxwarning
 % \fxerror
 % \fxfatal
-\fxsetface{inline}{\ttfamily\color{OrangeRed}}
-\fxsetface{env}{\ttfamily\color{OrangeRed}}
+\fxsetface{inline}{\fontfamily{phv}\selectfont\itshape\color{OrangeRed}}
+\fxsetface{env}{\fontfamily{phv}\selectfont\itshape\color{OrangeRed}}
 
 % \usepackage{showkeys}
 
@@ -126,9 +130,9 @@ Gebrauch!}}
 \usepackage
 [
 %%% Status
-% STATUS-DRAFT,
-% STATUS-DRAFT-WITHINDEX,
-% STATUS-DRAFT-WITHPICTURES,
+STATUS-DRAFT,
+STATUS-DRAFT-WITHINDEX,
+STATUS-DRAFT-WITHPICTURES,
 % STATUS-FINAL,
 STATUS-EXPERIMENTAL,
 %%% Organisation
@@ -183,6 +187,7 @@ MP-WEINMANN-MEDUMAT-TRANSPORT %
 
 \newgeometry{left=3cm,right=1cm,bottom=0.1cm}
 
+
 \opt{STATUS-DRAFT}{
 \renewcommand{\index}[1]{%
   {\color{ForestGreen}\fbox{{\sffamily\tiny INDEX: }{\ttfamily\tiny
@@ -208,6 +213,30 @@ MP-WEINMANN-MEDUMAT-TRANSPORT %
 % Schulung der Bev\"olkerung verantwortlich. In Zusammenarbeit mit der
 % \"Arztlichen Leitung und den \"ubergeordneten Gremien  entwickeln wir
 % Arbeitsstandards und Lehrmeinungen. ü 
+
+\newgeometry{verbose,
+a4paper,
+asymmetric,
+% reversemp,
+reversemarginpar,
+% % includemp,
+% % tmargin=25mm,
+% % bmargin=20mm,
+rmargin=13mm,
+lmargin=13mm,
+% % outer  = 56mm,
+% % inner  = 56mm,
+top    = 20mm,
+bottom = 15mm,
+% % hmarginratio=2:1,
+marginparwidth = 0mm,
+% % headheight=0.5cm,
+% % headsep=0.5cm,
+footskip = 5mm,
+% % includehead,
+bindingoffset=1.5cm}
+\savegeometry{FullPage}
+\restoregeometry
 
 \section*{Impressum, Nutzungsbedingungen und Hinweise}
 \begin{multicols}{2}
@@ -836,12 +865,18 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 \chapter{Übersicht Referenz- und Normalwerte}
 
 % \begin{gWideParEnv}
-{
-% \sffamily
-% \itshape
-\scriptsize \setlength{\parskip}{1pt}
+% {
+% \loadgeometry{FullPage}
+% 
+% % \sffamily
+% % \itshape
+% \begin{multicols}{2}
+% \scriptsize \setlength{\parskip}{1pt}
 % \bibliography{Literatur-AASS}
-}
+% \end{multicols}
+% 
+% \restoregeometry
+% }
 % \end{gWideParEnv}
 
 

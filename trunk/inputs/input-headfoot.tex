@@ -1,0 +1,27 @@
+\fancyheadoffset[RE,RO]{\marginparsep+\marginparwidth}
+\fancyfootoffset[RE,RO]{\marginparsep+\marginparwidth}
+\fancyhead[LE,RO]{\thepage}
+%\fancyhead[LO]{}
+\fancyhead[LE]{{\sffamily{\color{ubuntured}\thepage} -- \leftmark}}
+\fancyhead[RE]{\gEs{\gAuthNotes{ --- \today -- ENTWURF --- }}}
+\fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---}}}
+\fancyhead[RO]{{\sffamily\rightmark -- {\color{ubuntured}\thepage}}}
+
+%%% IMMER %%%
+\fancyfoot[RO]{{\noindent\AASS{}~ \itshape v.\gDocVersion}}
+\fancyfoot[LE]{{\noindent\AASS{}~ \itshape v.\,\gDocVersion}}
+%%% DRAFT %%%
+\fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\small
+\upshape{\gDocVersionTyp} -- \today{}  -- Nur für den internen
+Gebrauch!}}
+% 
+% % {\tiny
+% % Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny
+% % Letztes Commit: }\input{./tmp/git-lastcommit.tmp}
+% }}
+%
+% %%% FINAL %%%
+% \fancyfoot[CE,CO]{\gEs{{\itshape {\gDocVersionTyp} -- Nur für den internen Gebrauch!}}}
+\fancyfoot[RE]{{\noindent\DocGitCommitTiny}}
+\fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
+% % %

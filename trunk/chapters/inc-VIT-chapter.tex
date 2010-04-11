@@ -312,8 +312,6 @@ aber genauso regelmäßig umstritten.}.
 Tafel \ref{tab:gcs}.}{}{}{}
 
 
-
-
 \begin{table}[H]
 \gCaptionof{table}{GCS - Glasgow Coma Scale.\label{tab:gcs}}
 
@@ -512,28 +510,50 @@ soporöse Patienten}{}{
 
 \gLayout{0}{Kennzahlen}
 {
-\index{Atemfrequenz}\index{AF}
+\index{Atemfrequenz}
+\index{AF}
 \index{Atemzugsvolumen}
-\index{AZV}\index{Atemminutenvolumen}  \index{AMV} Die
-\gT{Atemfrequenz} (\gT{AF}) gibt die Anzahl der Atemzüge pro
-Minute an. Das \gT{Atemzugsvolumen} (\gT{AZV}) gibt die Menge
-an Luft an die eingeatmet wird. Das \gT{Atemminutenvolumen}
-(\gT{AMV}) errechnet sich aus der Atemfrequenz und dem
-Atemzugsvolumen. Es gibt die Menge an \gE{pro Minute}
-eingeatmeter Luft an.
+\index{AZV}
+\index{Atemminutenvolumen}  
+\index{AMV} 
+
+Es gibt 3 elementare Kennzahlen, welche die wichtigsten Atmungsparameter
+beschreiben:
+
+\begin{labeling}[\dots{}]{Atemminutenwolumen (AMV)}
+  \item[\gT{Atemfrequenz} (\gT{AF})] gibt die Anzahl der Atemzüge pro
+  Minute an.
+  \item[\gT{Atemzugsvolumen} (\gT{AZV})] gibt die Menge
+  Luft an, die \gE{pro Atemzug} eingeatmet wird.
+  \item[\gT{Atemminutenvolumen} (\gT{AMV})] gibt die Menge an \gE{pro Minute}
+  eingeatmeter Luft an.
+\end{labeling}
+
+Das Atemminutenvolumen kann aus der Atemfrequenz und dem Atemzugsvolumen
+errechnet werden: 
+
+\begin{equation}
+\mbox{AMV} = \mbox{AZV} \times \mbox{AF}
+\end{equation}
+
+% Die
+% \gT{Atemfrequenz} (\gT{AF}) gibt die Anzahl der Atemzüge pro
+% Minute an. Das \gT{Atemzugsvolumen} (\gT{AZV}) gibt die Menge
+% an Luft an die eingeatmet wird. Das \gT{Atemminutenvolumen}
+% (\gT{AMV}) errechnet sich aus der Atemfrequenz und dem
+% Atemzugsvolumen. Es gibt die Menge an \gE{pro Minute}
+% eingeatmeter Luft an.
 }{
 \begin{description}
     \item[AF] {\dotfill} Atemfrequenz
     \item[AZV] {\dotfill} Atemzugsvolumen
     \item[AMV] {\dotfill} Atemminutenvolumen
 \end{description}
+
+$\mbox{AMV} = \mbox{AZV} \times \mbox{AF}$
 }{}{}{}
 
-Berechnung des Atemminutenvolumens (AMV): 
 
-\begin{equation}
-\mbox{AMV} = \mbox{AZV} \times \mbox{AF}
-\end{equation}
 
 \gLayout{0}{Normalwerte Atmung}
 {

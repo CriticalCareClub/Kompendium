@@ -10,6 +10,8 @@
 \usepackage[ngerman]{babel}
 
 
+\input{./inputs/input-optkeys}
+
 \usepackage{prettyref}
 \newrefformat{sec}{\emph{\ref{#1}}}
 % \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
@@ -214,12 +216,12 @@ bindingoffset=1.5cm]
 %\widowpenalty = 10000 \displaywidowpenalty = 10000
 
 
-\setcounter{secnumdepth}{3}
+\setcounter{secnumdepth}{2}
 \setcounter{tocdepth}{3}
 
 
-%\usepackage{hyperref}
-%\hypersetup{colorlinks=true, linkcolor=darkBlue, citecolor=darkBlue, filecolor=darkBlue, pagecolor=darkBlue, urlcolor=darkBlue}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=darkBlue, citecolor=darkBlue, filecolor=darkBlue, pagecolor=darkBlue, urlcolor=darkBlue}
  
 % User page numbering with chapter number in it
 \renewcommand{\thechapter}{\Alph{chapter}}
@@ -227,8 +229,8 @@ bindingoffset=1.5cm]
 
 
 % No bottom titles !!!
-\usepackage[nobottomtitles]{titlesec}
-%\renewcommand{\bottomtitlespace}{.2\textheight}
+\usepackage[nobottomtitles,compact]{titlesec}
+\renewcommand{\bottomtitlespace}{.1\textheight}
 
 \usepackage[grey,helvetica]{quotchap}
 %\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
@@ -418,22 +420,29 @@ stringstyle=\ttfamily, % typewriter type for strings
 texcsstyle=\color{ubuntured},
 moretexcs={textcolor,itemhook},
 emph={
+AASS,
+ARGE,
 gA,
+gaCh,
 gAuthorNotes,
 gCa,
 gCave,
 gDefinition,
 gE,
 gEs,
+gERROR,
 gFazit,
 gH,
+gLayout,
 gMarried,
 gMarriedNG,
 gMarriedLI,
 gMassnahmen,
 gParallel,
 gT,
-gZ},
+gTODO,
+gZ,
+gZFootnote},
 emphstyle=\color{Terminus}\bfseries,
 %directivestyle=color{Red},
 showstringspaces=false,
@@ -446,6 +455,123 @@ showstringspaces=false,
 \maketitle
 \tableofcontents
 \listoffixmes
+
+
+\chapter{Über das Projekt}
+
+\section{Die \ARGE}
+
+
+
+Die \emph{'Arbeitsgemeinschaft Arbeits- und
+    Ausbildungsstandards für den Sanitätsdienst'}, abgekürzt {\ARGE},
+    \footnote{Die englische Übersetzung lautet \emph{'Association for
+    operational and
+    educational standards for emergency medical services'}.}
+    ist ein gemeinnütziger\footnote{Der Verein verfolgt gemeinnützige Ziele gem.
+    \emph{\S\S\,34-47~BAO}, seine Tätigkeiten sind nicht auf Gewinn
+    ausgerichtet.} Verein mit Sitz in Wien. 
+    Die \ARGE{} bezweckt die Entwicklung, Wartung,
+    Qualitätssicherung, Anpassung, Verbreitung und Lehre von wissenschaftlich und sachlich fundierten Arbeits- und
+    Ausbildungsstandards für den Sanitätsdienst (\AASS{}), sowie
+    die wissenschaftliche Forschungstätigkeit in diesem
+    Gebiet. Die Arbeits- und Ausbildungsstandards sollen der
+    Allgemeinheit zu Gute kommen und in dazu geeigneter Form
+    zugänglich gemacht werden.
+    
+    Ferner bezweckt der Verein die Weiterentwicklung
+    der Entwicklungswerkzeuge, die bei der Erstellung der
+    Arbeits- und Ausbildungsstandards zum Einsatz kommen.
+    Diese Weiterentwicklungen sollen ebenfalls der
+    Allgemeinheit zu Gute kommen und frei zugänglich gemacht
+    werden.
+        
+
+\subsection{Mitarbeit}
+
+\subsubsection{Mitgliedschaft}
+Mitglieder des Vereins können grundsätzlich alle physischen Personen sowie
+juristische Personen und rechtsfähige
+Personengesellschaften werden.
+
+Die Mitglieder des Vereins gliedern sich in ordentliche,
+außerordentliche, fördernde  und Ehrenmitglieder.
+
+Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit
+beteiligen. Über deren Aufnahme
+entscheidet der Vorstand. Der Vorstand hat bei der Entscheidung insbesonders zu berücksichtigen:
+\begin{inparaenum}
+  \item Die fachliche und persönliche Eignung zum
+  Erreichen des Vereinszweckes.
+  \item Die einschlägige Berufs- und
+  Tätigkeitserfahrung.
+  \item Die persönliche Integrität und
+  Zuverlässigkeit.
+  \item Die Gesinnung gegenüber Mitmenschen und das
+  Bekenntnis zum Altruismus.
+  \item Die Beweggründe dem Verein beizutreten.
+\end{inparaenum}
+
+Außerordentliche Mitglieder sind solche, die persönliches Interesse an der
+Vereinstätigkeit haben ohne sich jedoch in vollem Umfang zu beteiligen. Über die Aufnahme von außerordentlichen Mitgliedern
+entscheidet der Vorstandsvorsitzende, in zweiter Insatnz der Vorstand.
+
+Fördernde Mitglieder sind solche, die die
+Vereinstätigkeit  vor allem durch Zahlung eines erhöhten Mitgliedsbeitrags
+fördern.
+Ehrenmitglieder sind Personen, die hiezu wegen besonderer
+Verdienste  um den Verein ernannt werden. Die Ernennung zum Ehrenmitglied
+erfolgt durch den Vorstand.
+
+    
+    
+
+
+
+\section{Mission}
+
+\section{Zielpublikum}
+
+Im Folgenden ist das derzeitigge Zielpublikum näher definiert. Es wird
+nach Priorität zwischen primären, sekundären und tertiärem Publikum
+unterschieden.
+
+\begin{tabulary}{\linewidth}{LLL}
+\toprule\addlinespace
+\gTabHeading{Zielpublikum}
+&
+\gTabHeading{P}
+&
+\gTabHeading{Abeschreibungs, Anwendbarkeit}
+\\\addlinespace\midrule\addlinespace
+\gTabSub{Rettungssanitäter in Ausbildung} (RSiA)
+&
+1
+&
+Die \AASS{} dienen als Kursunterlage für den Kurs des Moduls 1 laut
+SanG/SanAVO. Sie ermöglichen sowohl eine praxisorientierte Ausbildung, als auch
+eine Versorgung der Lernenden mit obligaten und optionalen
+Hintergrundinformationen.
+
+Praxisorientierte Handlungsanweisungen und substantielle
+Hintergrundinformationen sind einander gleichwertig. 
+\\\addlinespace
+\gTabSub{Rettungssanitäter} (RS) & 2
+&
+Der RS findet in den \AASS{} eine solide Wissensbasis, die ihm hilft seine
+Alltagsprobleme zu lösen. Darüber hinaus findet er erklärende
+Hintergrundinformationen und Informationen zu weiteren Recherche- und
+Wissenquellen. 
+\\\addlinespace \gTabSub{Notfallsanitäter} (NFS) &
+
+&
+
+
+\\\addlinespace\bottomrule
+\end{tabulary}
+
+
+
 
 \chapter{Projektdetails}
 
@@ -536,6 +662,24 @@ Abkürzung gekennzeichnet:
 \caps{Koch} & 
 \\\addlinespace
 \gTabSub{MED} & Medizinische Erkrankungen und Notfälle & 
+\caps{Gabriel} & 
+\\\addlinespace
+\gTabSub{MED} & Medizinische Erkrankungen und Notfälle & 
+\caps{Gabriel} & 
+\\\addlinespace
+\gTabSub{MED-INF} & Infektionskrankheiten & 
+\caps{Gabriel} & 
+\\\addlinespace
+\gTabSub{MED-GYN} & Spezielle Patientengruppe: Frauen und Schwangere & 
+\caps{Gabriel} & 
+\\\addlinespace
+\gTabSub{MED-KIN} & Spezielle Patientengruppe: Kinder & 
+\caps{Gabriel} & 
+\\\addlinespace
+\gTabSub{MED-PSY} & Psychologie und Psychiatrie & 
+\caps{Gabriel} & 
+\\\addlinespace
+\gTabSub{MED-TOX} & Vergiftungen & 
 \caps{Gabriel} & 
 \\\addlinespace
 \gTabSub{MPG} & Spezielle Medizinprodukte & 
@@ -682,6 +826,420 @@ Git und im Bugtracker verwenden!
 }
 \end{multicols}
 \end{minipage}
+
+
+
+\chapter{Projektorganisation -- Agile Distributed Content Development}
+
+\gT{Agile Distributed Content Development} (\ADCD{}) ist ein Vorgehensmodell für
+die Erstellung von Inhalten, bei dem man sich den Anforderungen eines Kunden -- und
+damit dem Projektziel -- \gEs{in kleinen Schritten} annähert.
+
+Die Grundmaxime dabei lautet  
+
+\begin{quote}
+\emph{"`Viel Wenig statt wenig Viel."'}
+\end{quote}
+
+ Das
+bedeutet, dass der häufigen Entwickung kleiner Teile gegenüber dem seltenen
+Entwickeln großer Teile der Vorzug gegeben wird. 
+
+\ADCD{} hat als Vorbilder die aus der Softwareentwicklungswelt stammenden
+Modelle \gE{Extreme Programming} (XP) und \gE{Scrum}, richtet sich jedoch
+speziell an die Bedürnisse von Inhaltsentwicklern (Buchautoren, etc.) und verteilten und evt.
+auch nebenberuflichen Teams.
+
+\begin{tabularx}{\linewidth}{XX}
+\toprule\addlinespace
+\multicolumn{2}{c}{\gTabHeading{Wozu \ADCD{}?}}
+\\\addlinespace\midrule\addlinespace
+\multicolumn{1}{c}{\gTabSub{Ziele}}
+&
+\multicolumn{1}{c}{\gTabSub{Lösungsansätze}}
+\\\addlinespace\midrule\addlinespace
+\begin{enumerate}
+  \item Unkomplizierte Einbindung neuer Autoren und Reviewer
+  \item Schnelle Antwort auf die Frage \emph{"`Was gibt es gerade zu tun?"'}
+  \item Rasches Erkennen von Verzögerungen und Gegensteuern
+  \item 
+\end{enumerate}
+&
+\begin{enumerate}
+  \item Übersichtliche Aufgaben
+  \item Schleifen 
+  \item Reden
+  \item Einfach Tun
+\end{enumerate}
+\\\addlinespace\bottomrule
+\end{tabularx}
+
+
+
+\begin{gWideParEnv}
+\begin{tabularx}{\linewidth}{XXXX}
+\toprule\addlinespace
+\multicolumn{4}{c}{\gTabHeading{Die 4 Säulen von \ADCD{}}}
+\\\addlinespace\midrule\addlinespace
+\multicolumn{1}{c}{\gTabSub{Übersichtliche Aufgaben}}
+&
+\multicolumn{1}{c}{\gTabSub{Schleifen}}
+&
+\multicolumn{1}{c}{\gTabSub{Reden}}
+&
+\multicolumn{1}{c}{\gTabSub{Einfach Tun}}
+\\\addlinespace\midrule\addlinespace
+\begin{itemize}
+  \item Definieren von Anwendungsfällen (Stories)
+  \item Herunterbrechen auf einzelne Aufgaben
+  \item Visualisieren
+  \item Übersichtstafel	
+\end{itemize}
+&
+\begin{itemize}
+  \item Planung
+  \begin{itemize}
+  \item Resourcenschätzung
+  \item Aufwandabschätzung
+  \item Aufgabenauswahl
+\end{itemize}
+  \item Arbeit
+  \item Evaluation \& Review
+  \item → Zwischenversion
+\end{itemize}
+
+&
+
+\begin{itemize}
+  \item Planungstreffen
+  \item Anwendungsfälle und Aufgaben diskutieren
+  \item Kollektive Schätzungen
+  \item Stete Kommunikation vor, während und nach der Entwicklung
+\end{itemize}
+
+
+&
+\begin{itemize}
+  \item Machen und danach darüber diskutieren statt lange nachdenken und dann
+  nicht zum arbeiten kommen.
+\end{itemize}
+
+\\\addlinespace\bottomrule
+\end{tabularx}
+\end{gWideParEnv}
+
+
+
+\fcolorbox{Black}{LightYellow}{
+\begin{minipage}{6cm}
+{\Large Story: \gH{Bla!}}\vspace{0,5em}
+
+\hrule
+
+\vspace{1em}
+
+\gH{kjsbfkjsd dsfs dflsdf sdg.}
+
+\gH{~(2h)}
+
+\vspace{3em}
+\scriptsize\gH{Emhofer}
+\end{minipage}
+}
+
+
+
+
+\ADCD{} ist ein durch fortlaufende Iterationen und den Einsatz mehrerer
+Einzelmethoden strukturierendes Vorgehensmodell. Es folgt einem strukturierten
+Vorgehen und stellt die Teamarbeit, Offenheit und stete Kommunikation zwischen
+allen Beteiligten in den Vordergrund.
+
+ Bei \ADCD{}
+wird der Inhalt in kleinen Schritten auf- und ausgebaut. Grundlage sind
+ständig sich wiederholende Zyklen bestehend aus Plaung, Arbeit und Review, an
+deren Ende jeweils die Erstellung einer einsetzbaren Zwischenversion steht. 
+
+% Kommunikation
+% ist dabei eine Grundsäule.
+
+Man geht davon aus, dass der Kunde  zu Projektbeginn die Anforderungen 
+noch nicht komplett kennt,
+beziehungsweise das Entwicklerteam nicht  über
+alle Informationen verfügt, um eine verlässliche endgültige Aufwandsschätzung
+abzugeben. 
+
+Im Laufe eines  Projektes ändern
+sich nicht selten Prioritäten und Anforderungen. Zu Beginn geforderte Funktionen
+und Inhalte werden möglicherweise in einer anderen als der ursprünglichen Form
+benötigt, oder im Laufe der Zeit sogar komplett hinfällig.
+
+Ziel von  \ADCD{} ist dass das zu erstellende Werk
+schneller bereitgestellt wird, sowie eine höhere Qualität, Aktualität und
+Zufriedenheit des Kunden ermöglicht wird als mit traditionellen Ansätzen.  Der
+Kunde soll frühzeitig ein einsatzbereites, wenn auch noch nicht vollständiges,
+Werk erhalten, an dessen Herstellung er aktiv teilnimmt. 
+
+Dem Kunden bietet \ADCD{} somit
+die Möglichkeit, steuernd und richtungsweisend auf das Projekt einzuwirken.
+Dadurch soll erreicht werden, dass sich das Produkt aktuellen Anforderungen
+anpasst, statt sich an vor Unzeiten definierten und längst überholten
+Anforderungen zu orientieren. Zudem kann der Kunde bereits nach kurzer
+Zeit ein unvollständiges aber zumindest funktionstüchtiges Produkt einsetzen. Der
+Kunde ist im besten Fall jederzeit auf demselben aktuellen Informationsstand
+bezüglich des Projektes wie das Entwicklerteam.
+
+
+Um zu der endgültig zu entwickelnden Funktionalität zu gelangen, werden jeweils
+die Schritte Risikoanalyse, Nutzenanalyse, die Bereitstellung einer ersten anwendbaren
+Version (Prototyping) und ein Akzeptanztest in sich ständig
+wiederholenden Schlaifen (Iterationen) durchgeführt.Neue Inhalte und
+Funktionalität werden permanent entwickelt, integriert und getestet. 
+
+
+
+\paragraph{Gegen Featureitis} Ein häufiger Ansatz traditioneller
+Inhaltserstellung ist: „Vielleicht brauchen wir irgendwann einmal dieses oder jenes Wissen/Aussage“. \ADCD{} stellt dem
+gegenüber: Lass es! (vgl. auch YAGNI –„You Ain’t Gonna Need It”)).  Vor jedem
+der kurzen Entwicklungsschritte wird zusammen mit dem Kunden genau festgelegt, 
+was wirklich sinnvoll ist entwickelt zu werden und abgeschätzt ob sich ein
+Aufwand lohnt. 
+
+
+\paragraph{Entwicklersicht}
+
+Es existiert keine strikte Rollentrennung, da die Aufgabenverteilung abhängig von
+Situation und Fähigkeiten geschieht. Der allgemeine Wissensaustausch und die
+stetige Kommunikation beugen einem Wissensmonopol vor und haben gelichzeitig
+die Funktion einer permanenten Fortbildung. Dies soll den Einzelnen entlasten,
+wohingegen sonst der Druck auf einer Person lastet, wenn diese sich als Einzige in einem Themenbereich auskennt. D
+
+
+Da die meisten Einzelmethoden gerade auf den Alltag der Entwickler
+ausgerichtet sind, bedeutet \ADCD{} zugleich auch ein hohes Maß
+an Herausforderung und ggf. Umstellung der Beteiligten. Auf diese Aspekte wird ausführlicher im
+Abschnitt Der ideale Programmierer eingegangen. 
+
+\paragraph{Projektsicht}	
+
+Dem Projekt bietet \ADCD{} die Möglichkeit, Risiken zu minimieren. Unter richtiger
+Anwendung von \ADCD{} soll der Kunde Software erhalten, deren Umfang ihn nicht
+überrascht. Das Team soll ferner gegen Ausfall einzelner Eintwickler robuster
+gemacht werden. 
+
+Aufwandsabschätzungen werden verlässlicher, da sie im Team getroffen und ständig
+einer kritischen Überprüfung (Review) unterzogen werden. Teamgeist wird laut XP
+gefördert. Jedem im Team sollte klar sein, dass das Ziel nur als Einheit
+erreichbar ist. Sollte ein Projekt, zum Beispiel aus Kostengründen, vorzeitig
+eingestellt werden, besteht durch die regelmäßigen Iterationen dennoch ein
+zumeist einsatzfähiges Produkt.
+
+In vielen Projekten gelingt es nicht, das Produkt in der gewünschten Zeit im
+gewünschten Umfang und mit den geplanten Ressourcen fertig zu stellen. In XP soll
+nur das verwirklicht werden, was tatsächlich einen Nutzen für den Kunden hat.
+Durch ständigen Austausch mit dem Kunden sowie Prioritätsanalysen sollen die
+unbedingt zu erstellenden Funktionen identifiziert werden. Dabei sollte mit den
+Funktionen begonnen werden, die den größten Nutzen haben und das größte
+(technische) Risiko beinhalten.
+
+
+
+
+
+
+\subsection{User-Stories}
+
+Die innerhalb der Iterationen umzusetzenden einzelnen Neuerungen werden mit dem
+Kunden durch \gT{User-Stories} (Anwendungsfälle\footnote{Eine schlankere Form
+der aus der Software-Entwicklung bakennten "`Use Cases"'.}) beschrieben.
+User-Stories \gEs{beschreiben die Funktionsanforderungen % an ein System 
+aus Sicht
+eines Akteurs}. Eine User-Story folgt dem Muster 
+
+\begin{quote}
+„Als x möchte ich y, um z zu erreichen\footnote{Dabei kann der um-Zweig auch
+weggelassen werden kann, falls die dahinterstehende Absicht klar erkennbar
+ist.}
+\end{quote}
+
+Diese Formulierung dient als Vorlage der abzuarbeitenden
+Anforderungen und ist situationsabhängig änderbar..“
+
+\gA{Hinweis auf Granularität}
+ 
+
+Das ganze Team ist bei der Erstellung beteiligt. Die abzuarbeitenden
+Anforderungen werden auf einzelnen Karten (Story-Cards) geschrieben und für alle
+sichtbar platziert. 
+
+Den User-Stories werden \gEs{Prioritätswerte} zugeordnet. Dazu muss das Team
+zusammen mit dem Kunden zunächst Klarheit gewinnen, welche User-Stories das höchste Risiko
+bezüglich Zeitplan, Kosten oder Funktionalität besitzen und welche User-Stories
+dem Produkt den höchsten, respektive den niedrigsten Mehrwert bieten, wobei ein
+Diagramm hilfreich sein kann. Das Release sollte mit den User-Stories begonnen
+werden, die das höchste Risiko und den höchsten Nutzen auf sich vereinen. Danach
+sind diejenige User-Stories zu verwirklichen, die geringes Risiko aber hohen
+Nutzen haben. Anschließend geht das Team die User-Stories an, die geringes Risiko
+und geringen Nutzen auf sich vereinen. Die Fertigstellung von User-Stories mit
+geringem Nutzen aber hohem Risiko ist zu vermeiden. Kundenzufriedenheit
+
+Neben einer Abschätzung nach Nutzen und Risiko ist für die Entscheidung, welche
+User-Stories in dem Release beziehungsweise in den ersten Iterationen umgesetzt
+werden sollen, noch eine Analyse der Kundenwünsche von Bedeutung. 
+
+Dabei bedient
+sich ein \ADCD{}-Projekt häufig des Kano-Modells. Dabei werden in einer
+systematischen Kundenbefragung Fragen in funktionaler Form und in dysfunktionaler Form gestellt.
+Es lässt sich anschließend bestimmen, welche User-Stories unbedingt
+fertiggestellt werden müssen (Must-haves), welche linearer Natur sind (Je mehr,
+desto besser. Die Kundenzufriedenheit steigt linear.) und welche Exciters sind
+(Der Kunde rechnet nicht mit diesen Merkmalen, nutzt das Produkt auch ohne. Es
+lässt sich dadurch der Preis erhöhen.). Die so gewonnenen Erkenntnisse werden
+diskutiert.
+
+% XP zeichnet sich dadurch aus, dass die Betrachtung der Größe einer Einheit, wie
+% Release oder Iteration, unabhängig von ihrer Dauer ist. Aufwandsabschätzung
+% [Bearbeiten]
+
+Bei der Release-Planung sind User-Stories noch recht grobkörnig. Beschäftigt sich
+ein Team mit einer User-Story genauer, so wird sie, zusammen mit dem Kunden,
+detaillierter beschrieben. User-Stories werden gewöhnlich in Story-Points
+abgeschätzt, wobei auch eine Abschätzung in idealen Tagen oder Stunden möglich
+ist. Story-Points sind relative Aufwandsabschätzungen, also der Entwicklungsaufwand
+für eine Story im Vergleich zu anderen. Dabei kann es sein, dass erste
+Abschätzungen im Verlaufe des Projektes geändert werden. Es wird vom ganzen Team,
+in mehreren Runden, in einem Planning-Game eine Punkteanzahl für die User-Stories
+geschätzt.
+
+Nachdem User-Stories abgeschätzt, priorisiert und einer Iteration zugewiesen
+wurden, beginnt das Team mit der Umsetzung. User-Stories werden zu Beginn der
+Iteration in feinkörnige Arbeitspakete (Tasks) zerlegt, die
+gewöhnlich einen Umfang von Stunden besitzen. Das Team führt diese Zerlegung
+durch und schätzt die Dauer eines jeden Tasks. Es wird allerdings noch nicht
+festgelegt wer den Task zugeteilt bekommt. 
+
+Zu Beginn der Arbeiten nehmen sich die
+Entwickler je nach Fähigkeiten jeweils ein Arbeitspaket vor.  
+
+
+
+
+Der Begriff \gT{Velocity} (Geschwindigkeit) beschreibt den \gEs{Durchsatz} des
+Teams, d.h. die Anzahl der innerhalb einer Iteration umgesetzten Stunden.
+Die Bestimmung der Velocity hilft abzuschätzen, wie lange die Entwicklung  der
+gewünschten Funktionalität für ein Release dauert, beziehungsweise wie viele Iterationen
+notwendig sind. Es ist normal, dass die Geschwindigkeit des Teams nicht immer die
+gleiche ist.
+
+
+
+
+\subsection{Konkrete Praktiken}
+
+
+
+\paragraph{Pair/Group-Writing:} Beim Pair-Writing teilen sich zwei
+Programmierer einen Computer – einer codiert (der Driver) und der andere denkt mit und hat das
+Gesamtbild im Kopf (der Partner). Die Rollen werden regelmäßig getauscht. Dieses
+Vorgehen steigert den Wissenstransfer. Anfänger sollen schneller von der Arbeit
+eines Spezialisten lernen. Das Wissen wird verteilt. Das Projekt ist nicht mehr
+so anfällig gegen den Ausfall eines einzelnen. Durch ständigen Codereview der
+Entwicklung und Kommunikation wird das Design verbessert und Fehler schneller
+gefunden (siehe auch Vier-Augen-Prinzip).
+
+\paragraph{Kollektives Eigentum:} Aktivitäten werden zunächst nicht an einzelne
+Personen verteilt, sondern an das ganze Team. Es existiert laut Methodik das Bewusstsein
+und die Verpflichtung nur als Team erfolgreich sein zu können. Einzelne
+Teammitglieder besitzen kein Wissensmonopol. Pair-Programming und wechselhafte
+Einsatzgebiete sollen der Strömung entgegenwirken, dass einzelne Personen Teile
+als ihren Besitz betrachten.
+
+\subparagraph{Einschränkung:} Wenn ein fachlicher Standard eingehalten werden
+muss, müssen für die jeweiligen Komponenten Fachverantwortliche (Redakteure)
+ernannt werden, welche die Beiträge sichten und bewerten.
+
+\paragraph{Permanente Integration:} Integration der einzelnen Komponenten zu
+einem funktionierenden Gesamtsystem in kurzen Zeitabständen. Je häufiger
+integriert wird, desto höher wird laut \ADCD{} die eintretende Routine. 
+
+\paragraph{Permanentes Testen:} 
+Die Art des Testens ist je nach Werk unterschiedlich und muss situationsgerecht
+definiert werden. Die Definition muss im Laufe des Projektes ggfs. laufend
+angepasst werden.
+
+\AASS{}: Als Tests dienen der Abgleich mit der SanAVO, mit dem MC-Test der
+Zwischenprüfung, die laufenden RS-Kurse des ABZ\,921 und die dazugehörigen
+Prüfungen.
+
+Ein Akzeptanztest ist die Präsentation des Standes des
+Produktes, um die Zufriedenheit des Kunden und die Nutzbarkeit zu validieren.
+\ADCD{} Best Practices
+
+\paragraph{Kundeneinbeziehung:} Enge Einbeziehung des Kunden, das heißt der
+Kunde gibt das Iterationsziel mit einer Auswahl der zu realisierenden User-Stories vor und hat
+kurz danach die Möglichkeit, Akzeptanztests durchzuführen. Story-Cards dienen als
+Medium, um die kurzen Anwendungsfälle in Form von User-Stories aufzunehmen. Der
+Kunde muss immer anwesend oder zumindest erreichbar sein. Neben User-Stories auf
+Story-Cards existiert noch der Ansatz, CRC-Modelle auf CRC-Karten zu verfassen.
+
+\paragraph{Refactoring:} Laufendes Refactoring, ständige Architektur-, Design-
+und Code-Verbesserungen, auch um Anti-Patterns umgehend erkennen und beseitigen zu
+können. XP bejaht die Existenz von Code, der am Beginn nicht perfekt ist.
+Stattdessen sind sämtliche Teile einem stetigen Review unterworfen. Die Behebung
+von gefundenen, optimierungsfähigen Stellen wird gewöhnlich sofort durchgeführt
+oder als Fehler (Bug) definiert, der in einer späteren Iteration behoben wird.
+
+\paragraph{Keine Überstunden:} 40-Stunden-Woche, d. h. Überstunden sind zu
+vermeiden, weil darunter die Freude an der Arbeit, mittelfristig die Konzentrationsfähigkeit der
+Programmierer und somit auch die Qualität des Produktes leidet. Nachweislich
+sinkt die Produktivität eines Entwicklers durch Überstunden. Arbeit außerhalb der
+regulären Arbeitszeit wird im Einzelfall zwar geduldet, aber auf keinen Fall
+besonders entlohnt oder erwartet. Überstunden zeugen gewöhnlich einfach nur von
+falscher Planung.
+
+\paragraph{Iterationen:} Kurze Iterationen, um dem Kunden in regelmäßigen
+Zeitabständen einen lauffähigen Zwischenstand des Produkts zu liefern. Eine Iteration ist eine
+zeitlich und fachlich in sich abgeschlossene Einheit. Kurze Iterationen und damit
+verbundene Akzeptanztests erlauben schnelle Feedbackschleifen zwischen
+Entwicklung und Kunde.
+
+\paragraph{Metapher:} Da in traditionell aufgesetzten Softwareprojekten ein
+latentes Missverständnis zwischen Kunde und Entwicklungsteam ein häufiges Problem
+darstellt – der Entwickler hat Schwierigkeiten mit der Fachsprache des Kunden und
+umgekehrt – werden die Anforderungen im fachlichen Vokabular des Kunden,
+idealerweise auch von ihm selbst, in Form von User-Stories beschrieben. Alle
+sprechen eine Sprache, was durch ein Glossar noch verstärkt werden kann. Es wird
+eine Metapher gewählt, eine inhaltlich ähnliche, für beide Seiten verständliche
+Alltagsgeschichte.
+
+\paragraph{Coding-Standards:} Das Team hält sich bei der Programmierarbeit an
+Standards, welche erst die gemeinschaftliche Verantwortung des Teams bei dieser Aufgabe
+ermöglichen. Wechselnder Einsatz der Entwickler in allen Bereichen der Software
+ist laut XP nur durch gemeinsame Standards sinnvoll möglich.
+
+\paragraph{Einfaches Design:} Es soll die einfachste Lösung angestrebt werden,
+also diejenige, die genau das Gewünschte erreicht (und nicht mehr). Bewusst allgemein
+(generisch) gehaltene Lösungen oder vorbereitende Maßnahmen für potentiell
+zukünftige Anforderungen werden vermieden. Zum Thema Einfachheit sind die
+umgangssprachlichen Akronyme KISS („Keep it small and simple“) und YAGNI („You
+Ain’t Gonna Need It”) verbreitet.
+
+\paragraph{Planning-Game:} Neue Versionen der Software werden in einem
+Planning-Game, auch als Planning-Poker bekannt, spezifiziert und der Aufwand zu deren Umsetzung
+abgeschätzt. An diesem iterativen Prozess sind sowohl Entwicklungsmannschaft als
+auch Kunde beteiligt.
+
+
+
+\section{Iterationen}
+
+\section{Aufgliederung der Aufgaben in übersichtliche Teile}
+
+
+
+\url{http://scrumy.com/aass}
+
+
 
 \chapter{Das Versionsverwaltungssystem Git}
 % \lstinline$var i:integer;$
@@ -1004,21 +1562,13 @@ Handschrift
 
 \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
 \gLayout
-{
- % #1: Nummer
-}{
- % #2: Ueberschrift
-}{
- % #3: Fliesstext
-}{
- % #4: Stichworte
-}{
- % #5: Bild-Pfad/Objekt
-}{
- % #6: Bild/Objekt-Beschreibung
-}{
- % #7: credits
-}
+{1: Nummer}
+{2: Ueberschrift}
+{3: Fliesstext}
+{4: Stichworte}
+{5: Bild-Pfad/Objekt}
+{6: Bild/Objekt-Beschreibung}
+{7: credits}
 \end{lstlisting}
 &
 Standardlayout
@@ -1098,25 +1648,55 @@ Standardlayout
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsection{Hervorhebungen und Textauszeichnungen}
+\section{Hervorhebungen und Textauszeichnungen}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
+
+
+% Bla!
+% \begin{labeling}[~--]{Formatierung~~~}
+%   \item[Syntax:] \lstinline$\gT{<text>}$
+%   \item[Beschreibung:]
+%   \item[Ja:] 
+%   \item[Nein:] 
+%   \item[Anmerkungen:] 
+%   \item[Formatierung:] 
+%   \item[Cave:] 
+% \end{labeling}
+% 
+% 
+% \gBox{Beispiel}{Befehl}{black}
+% {
+% 
+% Text}
+
+
+
+
+
+
+
 \subsubsection{Schwache Betonung -- \gCode{\tbs gE\{\}}}\marginpar{\gT{\tbs
 gE\{\}}}
 
-\begin{description}
-    \item[Syntax:] \lstinline$\gE{<text>}$
-%     \item[Beschreibung:]
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-%     
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-\end{description}
+Bla!
+\begin{labeling}[~--]{Formatierung~~~}
+  \item[Syntax:] \lstinline$\gT{<text>}$
+  \item[Beschreibung:]
+  \item[Ja:] 
+  \item[Nein:] 
+  \item[Anmerkungen:] 
+  \item[Formatierung:] 
+  \item[Cave:] 
+\end{labeling}
+
+
+\gBox{Beispiel}{Befehl}{black}
+{
+
+Text}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
@@ -1124,49 +1704,61 @@ gE\{\}}}
 \subsubsection{Starke Betonung -- \gCode{\tbs gEs\{\}}}\marginpar{\gT{\tbs
 gEs\{\}}}
 
-\begin{description}
-    \item[Syntax:] \lstinline$\gEs{<text>}$
-%     \item[Beschreibung:]
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-% 
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-\end{description}
+Bla!
+\begin{labeling}[~--]{Formatierung~~~}
+  \item[Syntax:] \lstinline$\gT{<text>}$
+  \item[Beschreibung:]
+  \item[Ja:] 
+  \item[Nein:] 
+  \item[Anmerkungen:] 
+  \item[Formatierung:] 
+  \item[Cave:] 
+\end{labeling}
+
+
+\gBox{Beispiel}{Befehl}{black}
+{
+
+Text}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
 \subsubsection{Terminus -- \gCode{\tbs gT\{\}}}\marginpar{\gT{\tbs gT\{\}}}
 
-\begin{description}
-    \item[Syntax:] \lstinline$\gT{<text>}$
-    \item[Beschreibung:] Spezielle Hervorhebung für Fachbegriffe. \gZ{Früher
-    sollte sie für alle Fachbegriffe verwendet werden, im August 2009 hat sich
-    die Definition geändert, s.u.}
-    \item[Anwendung:] Terminus-Formatierungen sollen nur mehr angewendet werden
-    wenn der entsprechende Begriff an der Stelle erklärt wird! Sonst soll auch
-    ein Fachbegriff normal formatiert werden, wenn eine Hervorhebung geünscht
-    ist kommen z.B. die starke Betunung oder die schwache
-    Betonung -- wie im normalen Text -- in Frage.
-    \item[Nicht anzuwenden bei:] Begriffe die an der Stelle nicht
-    abchließend erklärt werden. Lange Begriffe bei denen ein Zeilenumbruch
-    nötig ist.
-    \item[Anmerkungen:] Die didaktische Überlgung ist dass für den Leser
-    nachvollziehbar sein soll dass der Begriff an dieser Stelle neu ist und er
-    hier erklärt wird (und er an dieser Stelle zu lernen ist).
-    \item[Cave:] Zeilenumbrüche sind in \lstinline$\gT$ nicht mehr vorgesehen, die Termini sollen
-immer in einer Zeile stehen! Wenn Termini lt. obiger Definition in einer
-Tabelle, etc. vorkommen (also nicht im Fließtext) dann sollen sie als
-\lstinline$\marginpar{}$ in der Randspalete gesetzt werden! Es besteht sonst
-die Gefahr dass der Terminus in die benachbarte Spalte hineinreicht.
-    \item[Formatierung:] Wie starke Hervorhebungen formatiert,
-jedoch hellgrün hinterlegt
-    \item[Beispiel:] \gT{Claritas} est etiam processus dynamicus, qui sequitur
-\gE{mutationem} consuetudium \gE{lectorum}.  
-\end{description}
+Spezielle Hervorhebung für Fachbegriffe. \gZ{Früher
+sollte sie für alle Fachbegriffe verwendet werden, im August 2009 hat sich
+die Definition geändert, s.u.}
+
+\begin{labeling}[~--]{Formatierung~~~}
+  \item[Syntax:] \lstinline$\gT{<text>}$
+  \item[Beschreibung:]
+  \item[Ja:] Terminus-Formatierungen sollen nur mehr angewendet werden
+  wenn der entsprechende Begriff an der Stelle erklärt wird! Sonst soll auch
+  ein Fachbegriff normal formatiert werden, wenn eine Hervorhebung geünscht
+  ist kommen z.B. die starke Betunung oder die schwache
+  Betonung -- wie im normalen Text -- in Frage.
+  \item[Nein:] Begriffe, die an der Stelle nicht
+  abschließend erklärt werden. Lange Begriffe bei denen ein Zeilenumbruch
+  nötig ist.
+  \item[Anmerkungen:] Die didaktische Überlgung ist dass für den Leser
+  nachvollziehbar sein soll dass der Begriff an dieser Stelle neu ist und er
+  hier erklärt wird (und er an dieser Stelle zu lernen ist).
+  \item[Formatierung:] Wie starke Hervorhebungen formatiert,
+  jedoch hellgrün hinterlegt.
+  \item[Cave:] Zeilenumbrüche sind in \lstinline$\gT$ nicht mehr vorgesehen, die Termini sollen
+  immer in einer Zeile stehen! Wenn Termini lt. obiger Definition in einer
+  Tabelle, etc. vorkommen (also nicht im Fließtext) dann sollen sie als
+  \lstinline$\marginpar{}$ in der Randspalete gesetzt werden! Es besteht sonst
+  die Gefahr dass der Terminus in die benachbarte Spalte hineinreicht.
+\end{labeling}
+
+
+\gBox{Beispiel}{Terminus -- \gCode{\tbs gT\{\}}}{black}
+{
+
+Es kann zu einer Loslösung von Teilen des Thrombus kommen, dieser
+losgelöste Teil wird \gT{Embolus} genannt.}
 
 
 
@@ -1176,17 +1768,29 @@ jedoch hellgrün hinterlegt
 \subsubsection{Zusatzinformation -- \gCode{\tbs gZ\{\}}}\marginpar{\gT{\tbs
 gZ\{\}}}
 
-\begin{description}
-    \item[Syntax:] \lstinline$\gZ{<text>}$
-%     \item[Beschreibung:]
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-% 
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-\end{description}
+
+
+
+Bla!
+\begin{labeling}[~--]{Formatierung~~~}
+  \item[Syntax:] \lstinline$\gT{<text>}$
+  \item[Beschreibung:]
+  \item[Ja:] 
+  \item[Nein:] 
+  \item[Anmerkungen:] 
+  \item[Formatierung:] 
+  \item[Cave:] 
+\end{labeling}
+
+
+\gBox{Beispiel}{Befehl}{black}
+{
+
+Text}
+
+
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
@@ -1194,20 +1798,28 @@ gZ\{\}}}
 \subsubsection{Cave (Fließtext) -- \gCode{\tbs gCa\{\}}}\marginpar{\gT{\tbs
 gCa\{\}}}
 
-\begin{description}
-    \item[Syntax:] \lstinline$\gCa{<text>}$
-%     \item[Beschreibung:]
-    \item[Anwendung:] Aussagen über eine massive Gefahr.
-%     \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] Für einen ganzen Absatz steht der
+
+
+Bla!
+\begin{labeling}[~--]{Formatierung~~~}
+  \item[Syntax:] \lstinline$\gCa{<text>}$
+  \item[Beschreibung:]
+  \item[Ja:] Aussagen über eine massive Gefahr.
+  \item[Nein:] 
+  \item[Anmerkungen:] Für einen ganzen Absatz steht der
     \lstinline$\gCave{}$-Befehl zur Verfügung, er erstellt eine ganze (rot
     umrandete) Absatzbox!
-%     \item[Cave:]
-% 
-%     \item[Formatierung:]
-    \item[Beispiel:] \gCa{Nitro kann zu einer rapiden Senkung des Blutdrucks
-    führen!}
-\end{description}
+  \item[Formatierung:] 
+  \item[Cave:] 
+\end{labeling}
+
+
+\gBox{Beispiel}{Cave}{black}
+{
+
+ \gCa{Nitro kann zu einer rapiden Senkung des Blutdrucks
+    führen!}}
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
@@ -1215,23 +1827,33 @@ gCa\{\}}}
 \subsubsection{Handschrift -- \gCode{\tbs gH\{\}}}\marginpar{\gT{\tbs
 gH\{\}}}
 
-\begin{description}
-    \item[Syntax:] \lstinline$\gH{<text>}$
-    \item[Beschreibung:] Handschriftliche Notiz!
-    \item[Anwendung:] ~
-    \begin{enumerate}
+
+
+Handschriftliche Notiz!
+
+\begin{labeling}[~--]{Formatierung~~~}
+  \item[Syntax:] \lstinline$\gH{<text>}$
+  \item[Beschreibung:]
+  \item[Ja:] Aussagen über eine massive Gefahr.
+  \item[Nein:] 
+  \item[Anmerkungen:] \begin{enumerate}
         \item Handschriftliche Notizen, z.B. auf Beispiel-"'Transportscheinen"'
-        \item Anmelungen des "`Allwissenden Erzählers"'
+        \item Anmerkungen des "`Allwissenden Erzählers"'
     \end{enumerate}
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-    \item[Cave:] Aufgrund der gewählten Schriftart kann es zu Problemen mit
-    deutschen Sonderzeichen (ß, Umlaute) kommen!
-    
-    \item[Formatierung:] Schriftartumstellung auf ECFAugie, Farbumstellung auf
+  \item[Formatierung:] Schriftartumstellung auf ECFAugie, Farbumstellung auf
     darkBlue.
-    \item[Beispiel:] \gH{Das ist eine Handschrift!}
-\end{description}
+  \item[Cave:] Aufgrund der gewählten Schriftart kann es zu Problemen mit
+    deutschen Sonderzeichen (ß, Umlaute) kommen!  
+\end{labeling}
+
+
+\gBox{Beispiel}{Handscrift}{black}
+{
+
+\gH{Das ist eine Handschrift!}}
+
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
@@ -1239,17 +1861,22 @@ gH\{\}}}
 \subsubsection{Dokument -- \gCode{\{\tbs ttfamily\}}}\marginpar{\gT{\{\tbs
 ttfamily\}}}
 
-\begin{description}
-    \item[Syntax:] \lstinline$\?{<text>}$
-%     \item[Beschreibung:]
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-%     
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-\end{description}
+% Bla!
+% \begin{labeling}[~--]{Formatierung~~~}
+%   \item[Syntax:] \lstinline$\gT{<text>}$
+%   \item[Beschreibung:]
+%   \item[Ja:] 
+%   \item[Nein:] 
+%   \item[Anmerkungen:] 
+%   \item[Formatierung:] 
+%   \item[Cave:] 
+% \end{labeling}
+% 
+% 
+% \gBox{Beispiel}{Befehl}{black}
+% {
+% 
+% Text}
 
 
 
@@ -1257,7 +1884,7 @@ ttfamily\}}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsection{Kommentare und Notizen für Autoren und Entwickler}
+\section{Kommentare, Notizen und Tags für Autoren und Entwickler}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
@@ -1265,25 +1892,29 @@ ttfamily\}}}
 \subsubsection{Allgemeine Autorennotizen -- \gCode{\tbs gA\{\}}}\marginpar{\gT{\tbs
 gA\{\}}}
 
-\begin{description}
-    \item[Syntax:] \lstinline$\gA{<text>}$
-%     \item[Beschreibung:]
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-%     
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-\end{description}
-
+% Bla!
+% \begin{labeling}[~--]{Formatierung~~~}
+%   \item[Syntax:] \lstinline$\gT{<text>}$
+%   \item[Beschreibung:]
+%   \item[Ja:] 
+%   \item[Nein:] 
+%   \item[Anmerkungen:] 
+%   \item[Formatierung:] 
+%   \item[Cave:] 
+% \end{labeling}
+% 
+% 
+% \gBox{Beispiel}{Befehl}{black}
+% {
+% 
+% Text}
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 \clearpage
-\subsection{Standardlayouts und "`Verheirateter Text"'}
+\section{Standardlayouts und "`Verheirateter Text"'}
 
 \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
 \gLayout
@@ -1349,9 +1980,10 @@ ohne Überschrift
 \\\addlinespace\midrule\addlinespace
 \multicolumn{3}{c}{\gTabHeading{Layout mit Bild}}
 \\\addlinespace\midrule\addlinespace
-20 & Bild + Fließtext, Punkte & 
+20 & Bild + Fließtext, Punkte & Bild \nicefrac{1}{2} Textkolumne
 \\
-21 & Bild + Fließtext, Punkte, ohne Überschrift & 
+21 & Bild + Fließtext, Punkte, ohne Überschrift & Bild \nicefrac{1}{2}
+Textkolumne
 \\
 22 & Bild + Fließtext & 
 \\
@@ -1365,9 +1997,9 @@ ohne Überschrift
 \\
 27 & Bild, ohne Überschrift &
 \\
-28 & Teaser + Fließtext, Punkte &
+28 & Teaser + Fließtext, Punkte & wird 60
 \\
-29 & Teaser + Fließtext, Punkte, ohne Überschrift &
+29 & Teaser + Fließtext, Punkte, ohne Überschrift & wird 61
 \\\addlinespace\midrule\addlinespace
 \multicolumn{3}{c}{\gTabHeading{Layouts mit Bild über gesamte Seite}}
 \\\addlinespace\midrule\addlinespace
@@ -1427,6 +2059,12 @@ Seite}}
 56 & Objekt & 
 \\
 57 & Objekt, ohne Überschrift &
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\gTabHeading{Teaser}} 
+\\\addlinespace\midrule\addlinespace
+60 & &
+\\
+61 & & 
 \\\addlinespace\bottomrule
 \end{tabular}
 
@@ -2276,14 +2914,14 @@ Traktionsspannung werden oft Spannungen um die 700\,V eingesetzt. \cite{U61989}
 \lstinputlisting{./inputs/input-colors.tex}
 
 }
-
-\subsubsection{aass-common.sty}
-
-\begin{gWideParEnv}
-{\scriptsize
-\lstinputlisting{./packages/aass-common.sty}
-}
-\end{gWideParEnv}
+% 
+% \subsubsection{aass-common.sty}
+% 
+% \begin{gWideParEnv}
+% {\scriptsize
+% \lstinputlisting{./packages/aass-common.sty}
+% }
+% \end{gWideParEnv}
 
 
 

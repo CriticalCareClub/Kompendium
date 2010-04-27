@@ -16,6 +16,7 @@
 *.maf
 *.mtc
 *.mtc*
+*.refactorings
 *.rx
 AAS.pdf
 AASS.pdf

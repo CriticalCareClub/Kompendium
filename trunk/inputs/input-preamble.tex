@@ -12,67 +12,14 @@
 % test
 %\usepackage{flafter}
 % 
+
 % http://mrunix.de/forums/showthread.php?p=301707
 % Abstand zwischen Absätzen in minipage-Umgebung:
 \makeatletter
 \newcommand*{\@minipagerestore}{\parskip@update}
 \makeatother
 
-% Hat man den Wunsch, auf eine Fußnote mehrfach zu verweisen, bietet LATEX dafür keine direkte Möglichkeit.
-% Man muss hier die folgende Definition, eingerahmt von \makeatletter und \makeatother, in den Vorspann des Dokuments einfügen.
-% Im Text muss bei der Fußnote, auf die ein zweites mal verwiesen werden soll, ein Label (hier: \label{fn:wichtig})eingefügt werden.
-% Mit \footref{fn:wichtig} verweist man dann ein weiteres mal auf sie.
-% http://www2.informatik.hu-berlin.de/~piefel/LaTeX-PS/Archive-2004/V07-footnote.pdf
-\makeatletter
-\providecommand*{\footref}[1]{% \begingroup 
-\unrestored@protected@xdef\@thefnmark{\ref{#1}}% \endgroup 
-\@footnotemark}
-\makeatother
 
-\usepackage{prettyref}
-\newrefformat{sec}{\emph{\ref{#1}}}
-% \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
-% \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
-\newrefformat{fig}{Abb.~#1}
-\newrefformat{tab}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
-\newrefformat{m}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
-\newrefformat{topic}{\Pointinghand\,\ref{#1}}
-
-\usepackage{./packages/aass-common}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% %%% Symbole
-% \usepackage{textcomp,marvosym,txfonts,skull}
-% 
-% % resolv symbol clashes 
-% \usepackage{savesym}
-% \savesymbol{checkmark}
-% \savesymbol{Cross} % ifsym
-% \savesymbol{Sun} % ifsym
-% \savesymbol{Lightning} % ifsym
-% \usepackage[geometry,alpine,weather]{ifsym}
-% \usepackage{dingbat}
-% \restoresymbol{DINGBAT}{checkmark}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Verzeichnisse
@@ -106,45 +53,85 @@
    }
 \makeatother
 
-% %  
-% \makeatletter
-%     \renewenvironment{theindex}{%
-%         \edef\indexname{\the\@nameuse{idxtitle@\@indextype}}%
-% %         \if@twocolumn
-% %             \@restonecolfalse
-% %         \else
-% % %             \@restonecoltrue
-% %             \@restonecolfalse
-% %         \fi
-% %         \columnseprule \z@
-% %         \columnsep 35\p@
-% %         \twocolumn[%
-% %             \@makeschapterhead{\indexname}%
-% %             \ifx\index@prologue\@empty\else
-% %                 \index@prologue
-% %                 \bigskip
-% %             \fi
-% %         ]%
-% %         \@mkboth{\MakeUppercase\indexname}%
-% %                 {\MakeUppercase\indexname}%
-%         \thispagestyle{plain}%
-%         \parindent\z@
-%         \parskip\z@ \@plus .3\p@%\relax
-%         \begin{gWideParEnv}
-%         ~
-%         
-%         \begin{multicols}{3}[\section*{\indexname}]
-%         \let\item\@idxitem
-%     }{%
-%         \end{multicols}
-%         \end{gWideParEnv}
-% %         \if@restonecol
-% %             \onecolumn
-% %         \else
-% %             \clearpage
-% %         \fi
-%     }
-% \makeatother
+% Hat man den Wunsch, auf eine Fußnote mehrfach zu verweisen, bietet LATEX dafür keine direkte Möglichkeit.
+% Man muss hier die folgende Definition, eingerahmt von \makeatletter und \makeatother, in den Vorspann des Dokuments einfügen.
+% Im Text muss bei der Fußnote, auf die ein zweites mal verwiesen werden soll, ein Label (hier: \label{fn:wichtig})eingefügt werden.
+% Mit \footref{fn:wichtig} verweist man dann ein weiteres mal auf sie.
+% http://www2.informatik.hu-berlin.de/~piefel/LaTeX-PS/Archive-2004/V07-footnote.pdf
+\makeatletter
+\providecommand*{\footref}[1]{% \begingroup 
+\unrestored@protected@xdef\@thefnmark{\ref{#1}}% \endgroup 
+\@footnotemark}
+\makeatother
+
+\usepackage{prettyref}
+\newrefformat{sec}{\emph{\ref{#1}}}
+% \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
+% \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
+\newrefformat{fig}{Abb.~#1}
+\newrefformat{tab}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
+\newrefformat{m}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
+\newrefformat{topic}{\Pointinghand\,\ref{#1}}
+
+\usepackage[AASS,stylelayout]{aass-common}
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Seitenlayout
+\usepackage[
+verbose,
+a4paper,
+asymmetric,
+% reversemp,
+% includemp,
+% tmargin=25mm,
+% bmargin=20mm,
+lmargin=13mm,
+rmargin=70mm,
+% outer  = 56mm,
+% inner  = 56mm,
+top    = 20mm,
+bottom = 15mm,
+% % hmarginratio=2:1,
+marginparwidth = 60mm,
+% % headheight=0.5cm,
+% % headsep=0.5cm,
+footskip = 5mm,
+% includehead,
+bindingoffset=1.5cm]
+{geometry}
+
+
+
+
+
+
+
+
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%% Symbole
+% \usepackage{textcomp,marvosym,txfonts,skull}
+% 
+% % resolv symbol clashes 
+% \usepackage{savesym}
+% \savesymbol{checkmark}
+% \savesymbol{Cross} % ifsym
+% \savesymbol{Sun} % ifsym
+% \savesymbol{Lightning} % ifsym
+% \usepackage[geometry,alpine,weather]{ifsym}
+% \usepackage{dingbat}
+% \restoresymbol{DINGBAT}{checkmark}
+
 
 
 % \usepackage{scrindex}
@@ -174,40 +161,13 @@
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Colors
-\usepackage[svgnames,hyperref,cymk]{xcolor}
+
 
 
 %%% Tables
 
 \usepackage{boxedminipage}
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Seitenlayout
-\usepackage
-[verbose,
-a4paper,
-asymmetric,
-% reversemp,
-% includemp,
-% tmargin=25mm,
-% bmargin=20mm,
-lmargin=13mm,
-rmargin=70mm,
-% outer  = 56mm,
-% inner  = 56mm,
-top    = 20mm,
-bottom = 15mm,
-% % hmarginratio=2:1,
-marginparwidth = 60mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
-footskip = 5mm,
-% includehead,
-bindingoffset=1.5cm]
-{geometry}
 \usepackage{layout}
 % \usepackage{calc}
 % \usepackage[strict]{changepage}
@@ -231,6 +191,7 @@ bindingoffset=1.5cm]
 % includemp,
 % bindingoffset=1.5cm
 % }
+
 
 \newlength{\Textspalte}
 \newlength{\Randspalte}

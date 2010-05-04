@@ -1,10 +1,11 @@
-#Wed Feb 10 21:52:19 CET 2010
+#Tue May 04 13:10:59 CEST 2010
 eclipse.preferences.version=1
 encoding//trunk/AASS-Leitfaden.tex=UTF-8
 encoding//trunk/AASS.tex=UTF-8
 encoding//trunk/Literatur-AASS.bib=UTF-8
+encoding//trunk/chapters/chapter-ANA.tex=UTF-8
+encoding//trunk/chapters/chapter-TRA.tex=UTF-8
 encoding//trunk/chapters/inc-AED-chapter.tex=UTF-8
-encoding//trunk/chapters/inc-ANA-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-APP.tex=UTF-8
 encoding//trunk/chapters/inc-AUU-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-BAU-chapter.tex=UTF-8
@@ -20,7 +21,6 @@ encoding//trunk/chapters/inc-REG-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-RES-ende.tex=UTF-8
 encoding//trunk/chapters/inc-SAN-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-TAE-chapter.tex=UTF-8
-encoding//trunk/chapters/inc-TRA-chapter.tex=UTF-8
 encoding//trunk/chapters/inc-VIT-chapter.tex=UTF-8
 encoding//trunk/inputs/input-hyphenation.tex=UTF-8
 encoding//trunk/inputs/input-styles.tex=UTF-8

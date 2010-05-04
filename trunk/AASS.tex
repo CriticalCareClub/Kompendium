@@ -12,12 +12,15 @@ parskip=half,
 % noonelinecaption
 footnotes=multiple,
 ]{scrbook}
+\setlength{\parindent}{2em}
 \usepackage{scrhack}
 
 % UTF-8 Schriftkodierung
 \usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}
 
-\pdfcompresslevel=9 \pdfimageresolution=72
+\pdfcompresslevel=9 
+\pdfimageresolution=72 
+% \pdfpkresolution=72
 
 \usepackage{blindtext}
 \usepackage{microtype}
@@ -28,7 +31,7 @@ footnotes=multiple,
 % draft .. Es werden nur Rahmen angezeigt
 % final .. Es werden Bilder normal angezeigt
 % (demo .. keine Bilder)
-\usepackage[demo]{graphicx} % Bilder-Support
+\usepackage[draft]{graphicx} % Bilder-Support
 
 % \usepackage{showidx} % shows index entries on page margin
 
@@ -44,15 +47,15 @@ multiuser,
 % \fxwarning
 % \fxerror
 % \fxfatal
-\fxsetface{inline}{\fontfamily{phv}\selectfont\itshape\color{OrangeRed}}
-\fxsetface{env}{\fontfamily{phv}\selectfont\itshape\color{OrangeRed}}
+\fxsetface{inline}{\fontfamily{lmtt}\selectfont\itshape\color{OrangeRed}}
+\fxsetface{env}{\fontfamily{lmtt}\selectfont\itshape\color{OrangeRed}}
 
 % \usepackage{showkeys}
 
 \input{./inputs/input-preamble}
 
 % Farbdefinitionen
-\input{./inputs/input-colors}
+% \input{./inputs/input-colors}
 
 % Trennungen
 \input{./inputs/input-hyphenation}
@@ -90,11 +93,7 @@ multiuser,
 \newgeometry{left=3cm,right=1cm,bottom=0.1cm}
 % \titleformat{subsubsection}[rightmargin,display]{}{}{}{}[]
 
-\opt{STATUS-DRAFT-SHOWINDEX}{
-\renewcommand{\index}[1]{%
-  {\color{ForestGreen}\fbox{{\sffamily\tiny INDEX: }{\ttfamily\tiny
-  #1}}}}
-}
+
 
 \opt{STATUS-DRAFT-SHOWKEYS}{
 \renewcommand{\label}[1]{%
@@ -114,7 +113,7 @@ multiuser,
 % \paragraph*{Mission Statement} \textperiodcentered Das Ausbildungszentrum (ABZ) ist
 % eine Dienst\-leistungs\-ein\-richtung des ASB Floridsdorf-Donau\-stadt
 % und orientiert sein Angebot an den Be\-d\"urf\-nissen unserer Partner
-% und an den strategischen Zielen des \gT{ASB}. Wir sind sowohl f\"ur die 
+% und an den strategischen Zielen des \T{ASB}. Wir sind sowohl f\"ur die 
 % medizinische und sanitätsdienstliche Ausbildung unserer Mitarbeiter
 % als auch f\"ur die Durchf\"uhrung von Schulungen und Lehrgängen zur
 % Schulung der Bev\"olkerung verantwortlich. In Zusammenarbeit mit der
@@ -273,7 +272,7 @@ Gemeinfreiheit bezeichnet alle Werke, die keinem Urheberrecht mehr unterliegen o
   \url{http://de.wikipedia.org/wiki/Gemeinfreiheit}
 
 
-\gCa{Die Auflistung dieser Lizenzen bedeutet \underline{nicht}, dass die \AASS{}
+\Ca{Die Auflistung dieser Lizenzen bedeutet \underline{nicht}, dass die \AASS{}
 als Ganzes unter diesen Lizenzen lizensiert werden!}  
   }
 % \end{compactdesc}
@@ -440,7 +439,7 @@ Ihrer konstruktiven Kritik unterstützt haben.
 \restoregeometry
 \section*{Spezieller Dank}
 
-\gMarried{
+\Married{
     \begin{center} 
         Dieses Projekt enstand in Zusammenarbeit mit dem
         
@@ -480,11 +479,11 @@ Medizinische Mikrobiologie entstanden ist.
 Wir danken Hrn. ao.Univ.Prof. Dr. Michael Schmidts und
 seinem Team für die Unterstützung!
 
-Wir danken dem \gE{Pathologisch-Bakteriologischen Institut der Krankananstalt
+Wir danken dem \E{Pathologisch-Bakteriologischen Institut der Krankananstalt
 Rudolfstiftung der Stadt Wien}, insbesonders dessen Vorstand, Hrn. Univ.Doz. Dr.
 Johann Feichtinger, für die gute Zusammenarbeit und erhaltene Unterstützung. 
 
-Nicht vergessen möchten wir auf die motivierten \gE{Zivildienstleistenden} des
+Nicht vergessen möchten wir auf die motivierten \E{Zivildienstleistenden} des
 ASB Floridsdorf-Donaustadt, die sich durch ihre Anregungen und konstruktive
 Kritik maßgeblich an der kontinuierlichen Verbesserung beteiligt haben.   
 
@@ -492,29 +491,29 @@ Kritik maßgeblich an der kontinuierlichen Verbesserung beteiligt haben.
 
 \begin{gWideParEnv}
 \begin{tabulary}{\linewidth}{LL}
-\gTabSub{Satz und Druckvorstufe}
+\TabSub{Satz und Druckvorstufe}
 &
 \LaTeX{} mit {\sffamily KOMA-Script} 
 \\\addlinespace
-\gTabSub{Entwicklungsumgebung}
+\TabSub{Entwicklungsumgebung}
 &
 Eclipse Ganymed mit Texlipse- und JGit-Plugin,
 Texmaker
 \\\addlinespace
-\gTabSub{Versionsverwaltung}
+\TabSub{Versionsverwaltung}
 &
 Git
 \\\addlinespace
-\gTabSub{Literaturverzeichnis}
+\TabSub{Literaturverzeichnis}
 &
 JabRef 2.5.0, Zotero,
 BibTeX
 \\\addlinespace
-\gTabSub{Textverarbeitung und Rohentwurf}
+\TabSub{Textverarbeitung und Rohentwurf}
 &
 OpenOffice 
 \\\addlinespace
-\gTabSub{Betriebssysteme}
+\TabSub{Betriebssysteme}
 &
 Rohentwurf: Linux (Debian, Gentoo, Ubuntu), MacOS X, MS Windows XP, Vista
 
@@ -524,7 +523,7 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 \end{gWideParEnv}
 
 % % TODO FORMAT TEST gBox Beispiel 
-% \gBox{BOX}{Beispiel}{Beige}{Das ist ein Beispiel für eine
+% \Box{BOX}{Beispiel}{Beige}{Das ist ein Beispiel für eine
 % gBox.}
 
 \shorttableofcontents{Übersicht}{0}
@@ -536,57 +535,57 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 % {\sffamily\Large\color{ubuntured}
 % \begin{tabular}{cl}
-% {\color{ubuntured}\gTabHeading{\ref{chp:TAE}}} & Tätigkeitsbild und Orientierung
+% {\color{ubuntured}\TabHeading{\ref{chp:TAE}}} & Tätigkeitsbild und Orientierung
 % 
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:BET}}} & Betriebsinterne Regelungen
+% {\color{ubuntured}\TabHeading{\ref{chp:BET}}} & Betriebsinterne Regelungen
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:REG}}} & Regionale Besonderheiten
+% {\color{ubuntured}\TabHeading{\ref{chp:REG}}} & Regionale Besonderheiten
 % \\\addlinespace\midrule\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:JUS}}} & Rechtliche Grundlagen – RS III
+% {\color{ubuntured}\TabHeading{\ref{chp:JUS}}} & Rechtliche Grundlagen – RS III
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:EHI}}} & Erste Hilfe und erweiterte Erste
+% {\color{ubuntured}\TabHeading{\ref{chp:EHI}}} & Erste Hilfe und erweiterte Erste
 % Hilfe — RS I \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:AED}}} & Defibrillation mit
+% {\color{ubuntured}\TabHeading{\ref{chp:AED}}} & Defibrillation mit
 % halbautomatischen Geräten — RS VIII
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:GER}}} & Gerätelehre — RS IX
+% {\color{ubuntured}\TabHeading{\ref{chp:GER}}} & Gerätelehre — RS IX
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:SAN}}} & Angewandte Sanitätshilfe — RS
+% {\color{ubuntured}\TabHeading{\ref{chp:SAN}}} & Angewandte Sanitätshilfe — RS
 % XIII \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:KHD}}} & Katastrophen,
+% {\color{ubuntured}\TabHeading{\ref{chp:KHD}}} & Katastrophen,
 % Großschadensereignisse, Gefahrengutunfall — RS XI
 % \\\addlinespace\midrule\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:EIN}}} & Einführung in die Medizin
+% {\color{ubuntured}\TabHeading{\ref{chp:EIN}}} & Einführung in die Medizin
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:AUU}}} & Untersuchung und Anamnese
+% {\color{ubuntured}\TabHeading{\ref{chp:AUU}}} & Untersuchung und Anamnese
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:ANA}}} & Anatomie und Physiologie
+% {\color{ubuntured}\TabHeading{\ref{chp:ANA}}} & Anatomie und Physiologie
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:VIT}}} & Vitalfunktionen — RS V
+% {\color{ubuntured}\TabHeading{\ref{chp:VIT}}} & Vitalfunktionen — RS V
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:HYQ}}} & Hygiene — RS II
+% {\color{ubuntured}\TabHeading{\ref{chp:HYQ}}} & Hygiene — RS II
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:MED}}} & Krankheiten und andere
+% {\color{ubuntured}\TabHeading{\ref{chp:MED}}} & Krankheiten und andere
 % Medizinische Herausforderungen — RS VI
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:TRA}}} & Traumatologische Notfälle – RS
+% {\color{ubuntured}\TabHeading{\ref{chp:TRA}}} & Traumatologische Notfälle – RS
 % VII \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:}}} & Reserviert
+% {\color{ubuntured}\TabHeading{\ref{chp:}}} & Reserviert
 % \\\addlinespace\midrule\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:MPG}}} & Spezielle Medizinprodukte
+% {\color{ubuntured}\TabHeading{\ref{chp:MPG}}} & Spezielle Medizinprodukte
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:ALS}}} & Erweiterte Reanimation (ALS)
+% {\color{ubuntured}\TabHeading{\ref{chp:ALS}}} & Erweiterte Reanimation (ALS)
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:PHA}}} & Pharmakologie
+% {\color{ubuntured}\TabHeading{\ref{chp:PHA}}} & Pharmakologie
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:WIS}}} & Wissenschaft und Forschung
+% {\color{ubuntured}\TabHeading{\ref{chp:WIS}}} & Wissenschaft und Forschung
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:INT}}} & 
+% {\color{ubuntured}\TabHeading{\ref{chp:INT}}} & 
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:}}} & 
+% {\color{ubuntured}\TabHeading{\ref{chp:}}} & 
 % \\\addlinespace
-% {\color{ubuntured}\gTabHeading{\ref{chp:}}} & 
+% {\color{ubuntured}\TabHeading{\ref{chp:}}} & 
 % \\\addlinespace
 % 
 % \end{tabular}
@@ -665,7 +664,7 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
     \item[KTW]  Krankentransportwagen
     \item[MA]  Magistratsabteilung
     \item[MCI]  Myocardinfarkt = Herz\-infarkt
-    \item[MONA]  Morphin + O\gSub{2} +
+    \item[MONA]  Morphin + O\Sub{2} +
     Nitro\-lingual-Spray + Aspirin/Aspisol medikament\-\"ose
     Herz\-infarkt\-be\-handlung
     \item[MPG]  Medizinproduktegesetz
@@ -708,17 +707,17 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 \part{Allgemeiner Teil}
 
-\include{./chapters/inc-TAE-chapter} 
+\include{./chapters/chapter-TAE} 
 
-\include{./chapters/inc-BET-chapter}
+\include{./chapters/chapter-BET}
 
-\include{./chapters/inc-REG-chapter}
+\include{./chapters/chapter-REG}
 
-% \include{./chapters/inc-LER-chapter}
+% \include{./chapters/chapter-LER}
 % 
-% \include{./chapters/inc-NWG-chapter}
+% \include{./chapters/chapter-NWG}
 
-
+\include{./chapters/chapter-RWT}
 
 
 
@@ -728,52 +727,57 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 \part{Grundlagen}
 
-\include{./chapters/inc-JUS-chapter}
+\include{./chapters/chapter-JUS}
 
-\include{./chapters/inc-EHI-chapter}
+\include{./chapters/chapter-EHI}
 
-\include{./chapters/inc-AED-chapter}
+\include{./chapters/chapter-AED}
 
-\include{./chapters/inc-MP1-chapter}
+\include{./chapters/chapter-MP1}
 
-\include{./chapters/inc-BAU-chapter}
+\include{./chapters/chapter-BAU}
 
-\include{./chapters/inc-SAN-chapter}
+\include{./chapters/chapter-SAN}
 
-\include{./chapters/inc-KHD-chapter}
+\include{./chapters/chapter-KHD}
 
 \setcounter{chapter}{20}
 \setcounter{page}{0}
 
 \part{Medizinisch-Wissenschaftlicher Teil}
 
-\include{./chapters/inc-EIN-chapter}
+\include{./chapters/chapter-EIN}
 
-\include{./chapters/inc-AUU-chapter}
+\include{./chapters/chapter-AUU}
 
 \include{./chapters/chapter-ANA}
 
-\include{./chapters/inc-VIT-chapter}
+\include{./chapters/chapter-VIT}
 
-\include{./chapters/inc-HYG-chapter}
+\include{./chapters/chapter-HYG}
  
-\include{./chapters/inc-MED-chapter}
+\include{./chapters/chapter-MED}
+\include{./chapters/chapter-MED-GYN}
+\include{./chapters/chapter-MED-KIN}
+\include{./chapters/chapter-MED-PSY}
+\include{./chapters/chapter-MED-THE}
+\include{./chapters/chapter-MED-TOX}
 
 \include{./chapters/chapter-TRA}
 
-% \include{./chapters/inc-SYM-chapter}
+% \include{./chapters/chapter-SYM}
 
 \setcounter{chapter}{40}
 \setcounter{page}{0}
 \part{Erweitertes Wissen}
 
-% \include{./chapters/inc-MP2-chapter}
+\include{./chapters/chapter-MP2}
 
-\include{./chapters/inc-ALS-chapter}
+\include{./chapters/chapter-ALS}
 
-\include{./chapters/inc-PHA-chapter}
+\include{./chapters/chapter-PHA}
 % 
-\include{./chapters/inc-WIS-chapter}
+\include{./chapters/chapter-WIS}
 
 \include{./chapters/inc-RES-ende}
 
@@ -797,11 +801,11 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
     {
     \loadgeometry{FullPage}
 %     \sffamily\itshape
-      \begin{multicols}{2}
+%       \begin{multicols}{2}
         \scriptsize
         \setlength{\parskip}{1pt}
         \bibliography{Literatur-AASS}
-      \end{multicols}
+%       \end{multicols}
     \restoregeometry
     }
   \end{gWideParEnv}
@@ -809,7 +813,7 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 
 
 
-\include{./chapters/inc-INT}
+% \include{./chapters/chapter-INT}
 \include{./chapters/inc-APP}
 
 \clearpage

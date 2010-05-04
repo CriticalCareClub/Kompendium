@@ -12,67 +12,14 @@
 % test
 %\usepackage{flafter}
 % 
+
 % http://mrunix.de/forums/showthread.php?p=301707
 % Abstand zwischen Absätzen in minipage-Umgebung:
 \makeatletter
 \newcommand*{\@minipagerestore}{\parskip@update}
 \makeatother
 
-% Hat man den Wunsch, auf eine Fußnote mehrfach zu verweisen, bietet LATEX dafür keine direkte Möglichkeit.
-% Man muss hier die folgende Definition, eingerahmt von \makeatletter und \makeatother, in den Vorspann des Dokuments einfügen.
-% Im Text muss bei der Fußnote, auf die ein zweites mal verwiesen werden soll, ein Label (hier: \label{fn:wichtig})eingefügt werden.
-% Mit \footref{fn:wichtig} verweist man dann ein weiteres mal auf sie.
-% http://www2.informatik.hu-berlin.de/~piefel/LaTeX-PS/Archive-2004/V07-footnote.pdf
-\makeatletter
-\providecommand*{\footref}[1]{% \begingroup 
-\unrestored@protected@xdef\@thefnmark{\ref{#1}}% \endgroup 
-\@footnotemark}
-\makeatother
 
-\usepackage{prettyref}
-\newrefformat{sec}{\emph{\ref{#1}}}
-% \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
-% \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
-\newrefformat{fig}{Abb.~#1}
-\newrefformat{tab}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
-\newrefformat{m}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
-\newrefformat{topic}{\Pointinghand\,\ref{#1}}
-
-\usepackage{./packages/aass-common}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% %%% Symbole
-% \usepackage{textcomp,marvosym,txfonts,skull}
-% 
-% % resolv symbol clashes 
-% \usepackage{savesym}
-% \savesymbol{checkmark}
-% \savesymbol{Cross} % ifsym
-% \savesymbol{Sun} % ifsym
-% \savesymbol{Lightning} % ifsym
-% \usepackage[geometry,alpine,weather]{ifsym}
-% \usepackage{dingbat}
-% \restoresymbol{DINGBAT}{checkmark}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Verzeichnisse
@@ -106,45 +53,85 @@
    }
 \makeatother
 
-% %  
-% \makeatletter
-%     \renewenvironment{theindex}{%
-%         \edef\indexname{\the\@nameuse{idxtitle@\@indextype}}%
-% %         \if@twocolumn
-% %             \@restonecolfalse
-% %         \else
-% % %             \@restonecoltrue
-% %             \@restonecolfalse
-% %         \fi
-% %         \columnseprule \z@
-% %         \columnsep 35\p@
-% %         \twocolumn[%
-% %             \@makeschapterhead{\indexname}%
-% %             \ifx\index@prologue\@empty\else
-% %                 \index@prologue
-% %                 \bigskip
-% %             \fi
-% %         ]%
-% %         \@mkboth{\MakeUppercase\indexname}%
-% %                 {\MakeUppercase\indexname}%
-%         \thispagestyle{plain}%
-%         \parindent\z@
-%         \parskip\z@ \@plus .3\p@%\relax
-%         \begin{gWideParEnv}
-%         ~
-%         
-%         \begin{multicols}{3}[\section*{\indexname}]
-%         \let\item\@idxitem
-%     }{%
-%         \end{multicols}
-%         \end{gWideParEnv}
-% %         \if@restonecol
-% %             \onecolumn
-% %         \else
-% %             \clearpage
-% %         \fi
-%     }
-% \makeatother
+% Hat man den Wunsch, auf eine Fußnote mehrfach zu verweisen, bietet LATEX dafür keine direkte Möglichkeit.
+% Man muss hier die folgende Definition, eingerahmt von \makeatletter und \makeatother, in den Vorspann des Dokuments einfügen.
+% Im Text muss bei der Fußnote, auf die ein zweites mal verwiesen werden soll, ein Label (hier: \label{fn:wichtig})eingefügt werden.
+% Mit \footref{fn:wichtig} verweist man dann ein weiteres mal auf sie.
+% http://www2.informatik.hu-berlin.de/~piefel/LaTeX-PS/Archive-2004/V07-footnote.pdf
+\makeatletter
+\providecommand*{\footref}[1]{% \begingroup 
+\unrestored@protected@xdef\@thefnmark{\ref{#1}}% \endgroup 
+\@footnotemark}
+\makeatother
+
+\usepackage{prettyref}
+\newrefformat{sec}{\emph{\ref{#1}}}
+% \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
+% \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
+\newrefformat{fig}{Abb.~#1}
+\newrefformat{tab}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
+\newrefformat{m}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
+\newrefformat{topic}{\Pointinghand\,\ref{#1}}
+
+\usepackage[AASS,stylelayout]{aass-common}
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Seitenlayout
+\usepackage[
+verbose,
+a4paper,
+asymmetric,
+% reversemp,
+% includemp,
+% tmargin=25mm,
+% bmargin=20mm,
+lmargin=13mm,
+rmargin=70mm,
+% outer  = 56mm,
+% inner  = 56mm,
+top    = 20mm,
+bottom = 15mm,
+% % hmarginratio=2:1,
+marginparwidth = 60mm,
+% % headheight=0.5cm,
+% % headsep=0.5cm,
+footskip = 5mm,
+% includehead,
+bindingoffset=1.5cm]
+{geometry}
+
+
+
+
+
+
+
+
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%% Symbole
+% \usepackage{textcomp,marvosym,txfonts,skull}
+% 
+% % resolv symbol clashes 
+% \usepackage{savesym}
+% \savesymbol{checkmark}
+% \savesymbol{Cross} % ifsym
+% \savesymbol{Sun} % ifsym
+% \savesymbol{Lightning} % ifsym
+% \usepackage[geometry,alpine,weather]{ifsym}
+% \usepackage{dingbat}
+% \restoresymbol{DINGBAT}{checkmark}
+
 
 
 % \usepackage{scrindex}
@@ -174,45 +161,18 @@
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Colors
-\usepackage[svgnames,hyperref,cymk]{xcolor}
+
 
 
 %%% Tables
 
 \usepackage{boxedminipage}
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Seitenlayout
-\usepackage
-[verbose,
-a4paper,
-asymmetric,
-% reversemp,
-% includemp,
-% tmargin=25mm,
-% bmargin=20mm,
-lmargin=13mm,
-rmargin=70mm,
-% outer  = 56mm,
-% inner  = 56mm,
-top    = 20mm,
-bottom = 15mm,
-% % hmarginratio=2:1,
-marginparwidth = 60mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
-footskip = 5mm,
-% includehead,
-bindingoffset=1.5cm]
-{geometry}
 \usepackage{layout}
 % \usepackage{calc}
 % \usepackage[strict]{changepage}
 %\usepackage{gmeometric}
-% \geometry{verbose,
+% \eometry{verbose,
 % a4paper,
 % asymmetric,
 % % tmargin=25mm,
@@ -232,14 +192,15 @@ bindingoffset=1.5cm]
 % bindingoffset=1.5cm
 % }
 
-\newlength{\gTextspalte}
-\newlength{\gRandspalte}
-\newlength{\gTrenner}
-\newlength{\gKorrektur}
-\setlength{\gTextspalte}{\textwidth}
-\setlength{\gRandspalte}{\marginparwidth}
-\setlength{\gTrenner}{6pt}
-\setlength{\gKorrektur}{{\fboxrule} + {\fboxsep}}
+
+\newlength{\Textspalte}
+\newlength{\Randspalte}
+\newlength{\Trenner}
+\newlength{\Korrektur}
+\setlength{\Textspalte}{\textwidth}
+\setlength{\Randspalte}{\marginparwidth}
+\setlength{\Trenner}{6pt}
+\setlength{\Korrektur}{{\fboxrule} + {\fboxsep}}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -372,7 +333,7 @@ pagecolor=darkBlue,
 urlcolor=darkBlue,
 pdftitle=Arbeits- und Ausbildungsstandards für den Sanitätsdienst,
 % Sets the document information Title field pdfauthor=ARGE AASS, % Sets the document information Author field
-pdfsubject=v-0.8.0, % Sets the document information Subject field
+pdfsubject=v-0.9.x, % Sets the document information Subject field
 pdfcreator=ARGE AASS, % Sets the document information Creator field
 pdfproducer=ARGE AASS, % Sets the document information Producer field
 pdfkeywords=ARGE AASS, % Sets the document information Keywords field
@@ -410,9 +371,9 @@ pdfpagelayout=TwoPageRight,
 % % \usepackage[explicit]{titlesec}
 % \newcommand*\chapterlabel{}
 % \titleformat{\chapter}
-%   {\gdef\chapterlabel{}
+%   {\def\chapterlabel{}
 %    \normalfont\sffamily\Huge\bfseries\scshape}
-%   {\gdef\chapterlabel{\thechapter\ lala}}{0pt}
+%   {\def\chapterlabel{\thechapter\ lala}}{0pt}
 %   {\begin{tikzpicture}[remember picture,overlay]
 %     \node[yshift=-3cm] at (current page.north west)
 %       {\begin{tikzpicture}[remember picture, overlay]
@@ -499,15 +460,15 @@ pdfpagelayout=TwoPageRight,
 \pagenumbering{bychapter}
 \renewcommand{\chappgsep}{/}
 % % \newcommand{\leadpage}{\thechapter\,\ifnum\thepage<10 00\else0\fi\thepage}
-% % \newcommand{\gLeadzeros}[1]{\ifthenelse{\value{#1} < 10}{00}{\ifthenelse{\value{#1}< 100}{0}{}}}
-% % \newcommand{\gLeadzeros}[1]{\protect\ifthenelse{#1 < 10}{00}{\relax}}
-% \newcommand\gLeadzeros[1]{\ifnum#1<10 00#1\else0#1\fi#1}
+% % \newcommand{\Leadzeros}[1]{\ifthenelse{\value{#1} < 10}{00}{\ifthenelse{\value{#1}< 100}{0}{}}}
+% % \newcommand{\Leadzeros}[1]{\protect\ifthenelse{#1 < 10}{00}{\relax}}
+% \newcommand\Leadzeros[1]{\ifnum#1<10 00#1\else0#1\fi#1}
 % % \renewcommand{\thepage}{\thechapter\,\thepage}
 % \renewcommand{\thepage}{
 % \thechapter -
 % % \protect\ifthenelse{\value{page}<10}{00}{\protect\ifthenelse{\value{page}<
 % % 100}{0}{}}
-% \gLeadzeros{\value{page}}
+% \Leadzeros{\value{page}}
 % 
 % - 
 % \arabic{page}}
@@ -516,7 +477,7 @@ pdfpagelayout=TwoPageRight,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen
 % \renewcommand{\tableformat}{Tafel~\thetable\autodot}
-\newcommand{\gSignTable}{{\sffamily\mdseries\color{darkBlue}\ovalbox{T}}}
+\newcommand{\SignTable}{{\sffamily\mdseries\color{darkBlue}\ovalbox{T}}}
 \renewcommand{\tableformat}{{\sffamily\mdseries\color{darkBlue}\ovalbox{T}}~\thetable\autodot}
 
 % Non-floating captions
@@ -571,9 +532,9 @@ singlelinecheck=false
 \usepackage{cite}
 %\usepackage{chapterbib} % Literaturverzeichnisse für Kapitel
 
-% \gChapterBibliography muss in der jeweiligen Kapiteldatei aufgerufen werden
+% \ChapterBibliography muss in der jeweiligen Kapiteldatei aufgerufen werden
 % um dort ein entsprechend formatiertes Literaturverzeichnis zu erstellen.
-% \newcommand{\gChapterBibliography}
+% \newcommand{\ChapterBibliography}
 % 	{\bibliographystyle{babunsrt}
 % 	\begin{multicols}{2}
 %     	{
@@ -584,7 +545,7 @@ singlelinecheck=false
 %     \end{multicols}
 % 	}
 
-\newcommand{\gChapterBibliography}{}
+\newcommand{\ChapterBibliography}{}
 
 
 \usepackage[version=3]{mhchem}

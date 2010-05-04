@@ -24,6 +24,8 @@ AASS-*.pdf
 tempPartial*
 *.toc
 *.tmp
+out/*
+tmp/*
 trunk/out/*.pdf
 trunk/tmp/*
 latexcheatsheet.pdf

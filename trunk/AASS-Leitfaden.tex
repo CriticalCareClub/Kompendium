@@ -251,22 +251,22 @@ bindingoffset=1.5cm]
 \fancyhead[LE,RO]{\thepage} 
 %\fancyhead[LO]{}
 \fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
-\fancyhead[RE]{\gEs{\gAuthNotes{ --- \today -- ENTWURF
+\fancyhead[RE]{\Es{\AuthNotes{ --- \today -- ENTWURF
 --- }}}
-\fancyhead[LO]{\gEs{\gAuthNotes{ --- ENTWURF -- \today ---
+\fancyhead[LO]{\Es{\AuthNotes{ --- ENTWURF -- \today ---
 }}}
 \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
 
 
 % %%% DRAFT %%%
-\fancyfoot[CE,CO]{\gEs{\gAuthNotes{ -- ENTWURF --
+\fancyfoot[CE,CO]{\Es{\AuthNotes{ -- ENTWURF --
 % Entwicklungszweig:
 % \input{./tmp/git-current-branch.tmp} -- Letztes Commit:
 % \input{./tmp/git-lastcommit.tmp}
 }}}
 
 %%% FINAL %%%
-% \fancyfoot[CE,CO]{\gEs{{\itshape Vorabversion -- Nur für den
+% \fancyfoot[CE,CO]{\Es{{\itshape Vorabversion -- Nur für den
 % internen Gebrauch!}}}
 % \fancyfoot[LE]{{\AASS{}~ \itshape v.\,0.2.1-x}}
 % \fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.1-x}}
@@ -361,7 +361,7 @@ bindingoffset=1.5cm]
 % %\defaultbibliographystyle{unsrtdin2}
 % %\defaultbibliographystyle{plain}
 % \usepackage{chapterbib}
-% \newcommand{\gChapterBibliography}{\bibliographystyle{plain}{\begin{multicols}{2}\scriptsize\setlength{\parskip}{1pt}
+% \newcommand{\ChapterBibliography}{\bibliographystyle{plain}{\begin{multicols}{2}\scriptsize\setlength{\parskip}{1pt}
 % \bibliography{./Literatur-AASS}\end{multicols}}}
 
 
@@ -538,13 +538,13 @@ unterschieden.
 
 \begin{tabulary}{\linewidth}{LLL}
 \toprule\addlinespace
-\gTabHeading{Zielpublikum}
+\TabHeading{Zielpublikum}
 &
-\gTabHeading{P}
+\TabHeading{P}
 &
-\gTabHeading{Abeschreibungs, Anwendbarkeit}
+\TabHeading{Abeschreibungs, Anwendbarkeit}
 \\\addlinespace\midrule\addlinespace
-\gTabSub{Rettungssanitäter in Ausbildung} (RSiA)
+\TabSub{Rettungssanitäter in Ausbildung} (RSiA)
 &
 1
 &
@@ -556,13 +556,13 @@ Hintergrundinformationen.
 Praxisorientierte Handlungsanweisungen und substantielle
 Hintergrundinformationen sind einander gleichwertig. 
 \\\addlinespace
-\gTabSub{Rettungssanitäter} (RS) & 2
+\TabSub{Rettungssanitäter} (RS) & 2
 &
 Der RS findet in den \AASS{} eine solide Wissensbasis, die ihm hilft seine
 Alltagsprobleme zu lösen. Darüber hinaus findet er erklärende
 Hintergrundinformationen und Informationen zu weiteren Recherche- und
 Wissenquellen. 
-\\\addlinespace \gTabSub{Notfallsanitäter} (NFS) &
+\\\addlinespace \TabSub{Notfallsanitäter} (NFS) &
 
 &
 
@@ -616,90 +616,90 @@ Abkürzung gekennzeichnet:
 
 
 \begin{tabulary}{\linewidth}{cLlL}\toprule
-\noindent\gTabHeading{Krz.} 
+\noindent\TabHeading{Krz.} 
 & 
-\noindent\gTabHeading{Bezeichnung} 
+\noindent\TabHeading{Bezeichnung} 
 & 
-\noindent\gTabHeading{Maintainer}
+\noindent\TabHeading{Maintainer}
 & 
-\noindent\gTabHeading{Pfad}
+\noindent\TabHeading{Pfad}
 \\\midrule
-\gTabSub{AAS} &  \noindent\AASS{} allgemein  & & 
+\TabSub{AAS} &  \noindent\AASS{} allgemein  & & 
 \\\addlinespace
-\gTabSub{ALS} & Erweiterte Reanimation & \caps{? Kichler} &
-\gCode{trunk/chapters/inc-ALS-chapter.tex} 
+\TabSub{ALS} & Erweiterte Reanimation & \caps{? Kichler} &
+\Code{trunk/chapters/inc-ALS-chapter.tex} 
 \\\addlinespace
-\gTabSub{ANA} & Anatomie & \caps{Hirtler} &
-\gCode{trunk/chapters/inc-ANA-chapter.tex} 
+\TabSub{ANA} & Anatomie & \caps{Hirtler} &
+\Code{trunk/chapters/inc-ANA-chapter.tex} 
 \\\addlinespace
-\gTabSub{APP} & Appendix &  \caps{---} &
+\TabSub{APP} & Appendix &  \caps{---} &
 \\\addlinespace
-\gTabSub{AUU} & Anamnese und Untersuchung &  \caps{Gabriel} &
-\gCode{trunk/chapters/inc-AUU-chapter.tex} 
+\TabSub{AUU} & Anamnese und Untersuchung &  \caps{Gabriel} &
+\Code{trunk/chapters/inc-AUU-chapter.tex} 
 \\\addlinespace
-\gTabSub{BET} & Betriebsinterne Regelungen &  \caps{---} &
+\TabSub{BET} & Betriebsinterne Regelungen &  \caps{---} &
 \\\addlinespace
-\gTabSub{COL} &  Farbdefinitionsdatei &  \caps{---} &
+\TabSub{COL} &  Farbdefinitionsdatei &  \caps{---} &
 \\\addlinespace
-\gTabSub{EHI} & Erste Hilfe &  \caps{Koch} &
+\TabSub{EHI} & Erste Hilfe &  \caps{Koch} &
 \\\addlinespace
-\gTabSub{EIN} & Einführung in die Medizin &  \caps{Gabriel} &
+\TabSub{EIN} & Einführung in die Medizin &  \caps{Gabriel} &
 \\\addlinespace
-\gTabSub{EUR} & Einsatztaktik und Rettungswesen & \caps{?? Pirker} &
-\gCode{trunk/chapters/inc-ANA-chapter.tex} 
+\TabSub{EUR} & Einsatztaktik und Rettungswesen & \caps{?? Pirker} &
+\Code{trunk/chapters/inc-ANA-chapter.tex} 
 \\\addlinespace
-\gTabSub{GER} & Gerätelehre &  \caps{Koch} &
+\TabSub{GER} & Gerätelehre &  \caps{Koch} &
 \\\addlinespace
-\gTabSub{HYG} & Hygiene &  \caps{Gabriel} &
+\TabSub{HYG} & Hygiene &  \caps{Gabriel} &
 \\\addlinespace
-\gTabSub{HYP} &  Hyphenation (Trennungskorrekturen) &  \caps{---} &
+\TabSub{HYP} &  Hyphenation (Trennungskorrekturen) &  \caps{---} &
 \\\addlinespace
-\gTabSub{INF} & Autoreninformation &  \caps{Gabriel} &
+\TabSub{INF} & Autoreninformation &  \caps{Gabriel} &
 \\\addlinespace
-\gTabSub{JUS}  & Recht &  \caps{Koller} &
+\TabSub{JUS}  & Recht &  \caps{Koller} &
 \\\addlinespace
-\gTabSub{KHD} & Katastrophen, Großschaden, Gefahrgutunfall & 
+\TabSub{KHD} & Katastrophen, Großschaden, Gefahrgutunfall & 
 \caps{Koch} & 
 \\\addlinespace
-\gTabSub{MED} & Medizinische Erkrankungen und Notfälle & 
+\TabSub{MED} & Medizinische Erkrankungen und Notfälle & 
 \caps{Gabriel} & 
 \\\addlinespace
-\gTabSub{MED} & Medizinische Erkrankungen und Notfälle & 
+\TabSub{MED} & Medizinische Erkrankungen und Notfälle & 
 \caps{Gabriel} & 
 \\\addlinespace
-\gTabSub{MED-INF} & Infektionskrankheiten & 
+\TabSub{MED-INF} & Infektionskrankheiten & 
 \caps{Gabriel} & 
 \\\addlinespace
-\gTabSub{MED-GYN} & Spezielle Patientengruppe: Frauen und Schwangere & 
+\TabSub{MED-GYN} & Spezielle Patientengruppe: Frauen und Schwangere & 
 \caps{Gabriel} & 
 \\\addlinespace
-\gTabSub{MED-KIN} & Spezielle Patientengruppe: Kinder & 
+\TabSub{MED-KIN} & Spezielle Patientengruppe: Kinder & 
 \caps{Gabriel} & 
 \\\addlinespace
-\gTabSub{MED-PSY} & Psychologie und Psychiatrie & 
+\TabSub{MED-PSY} & Psychologie und Psychiatrie & 
 \caps{Gabriel} & 
 \\\addlinespace
-\gTabSub{MED-TOX} & Vergiftungen & 
+\TabSub{MED-TOX} & Vergiftungen & 
 \caps{Gabriel} & 
 \\\addlinespace
-\gTabSub{MPG} & Spezielle Medizinprodukte & 
+\TabSub{MPG} & Spezielle Medizinprodukte & 
 \caps{---} & 
 \\\addlinespace
-\gTabSub{REG} & Regionale Besonderheiten &  \caps{---} &
+\TabSub{REG} & Regionale Besonderheiten &  \caps{---} &
 \\\addlinespace
-\gTabSub{RES} & Reserve &  \caps{---} &
+\TabSub{RES} & Reserve &  \caps{---} &
 \\\addlinespace
-\gTabSub{SAN} & Angewandte Sanitätshilfe &  \caps{diverse} &
+\TabSub{SAN} & Angewandte Sanitätshilfe &  \caps{diverse} &
 \\\addlinespace
-\gTabSub{STY}  & Stildefinitionsdatei &  \caps{---} &
+\TabSub{STY}  & Stildefinitionsdatei &  \caps{---} &
 \\\addlinespace
-\gTabSub{TAE} & Tätigkeitsbild &  \caps{---} &
+\TabSub{TAE} & Tätigkeitsbild &  \caps{---} &
 \\\addlinespace
-\gTabSub{TRA} & Trauma &  \caps{Motal} &
+\TabSub{TRA} & Trauma &  \caps{Motal} &
 \\\addlinespace
-\gTabSub{VIT} & Vitalfunktionen &  \caps{Gabriel} &
+\TabSub{VIT} & Vitalfunktionen &  \caps{Gabriel} &
 \\\addlinespace
-\gTabSub{WIS} & Wissenschaft & 
+\TabSub{WIS} & Wissenschaft & 
 \caps{---} & 
 \\\bottomrule
 \end{tabulary}
@@ -846,7 +846,7 @@ Git und im Bugtracker verwenden!
 % Write('Pascal keywords.');
 % \end{lstlisting}
 % 
-% \lstinline$\gEs{Hallo}$
+% \lstinline$\Es{Hallo}$
 
 \section{Einführung in Git}
 
@@ -856,10 +856,10 @@ Git und im Bugtracker verwenden!
     \item[Repository] \emph{} \par Als Repository wird die
     Datenbank der Versionsverwaltungssoftware bezeichnet.
     Ein Git-Repository besteht aus einem Wurzelordner. In
-    diesem Ordner befindet ich ein Unterordner namen \gCode{.git},
+    diesem Ordner befindet ich ein Unterordner namen \Code{.git},
     in diesem liegen die Daten für die
     Versionsverwaltungssoftware. \par Alle anderen Ordner
-    und Dateien im Wurzelornder stellen den \gT{Arbeitsbereich}
+    und Dateien im Wurzelornder stellen den \T{Arbeitsbereich}
     dar. Sie können beliebig verändert werden, die Änderungen
     werden dann in das Versionsverwaltungssystem
     eingecheckt. 
@@ -892,24 +892,24 @@ Git und im Bugtracker verwenden!
 
 \subsection{Zweige}
 
-\subsubsection{Der Zweig \gCode{master}}
+\subsubsection{Der Zweig \Code{master}}
 
-Der Zweig \gCode{master} ist der Hauptentwicklungszweig. Er soll nur vom
+Der Zweig \Code{master} ist der Hauptentwicklungszweig. Er soll nur vom
 Chefredakteur bespielt werden! Die Autoren und Redaktuere können/sollen
-Beiträge am \gCode{master}-Zweig ihn ihren Zweig übernehmen (mergen).
+Beiträge am \Code{master}-Zweig ihn ihren Zweig übernehmen (mergen).
 
-\gCave{Der \gCode{master}-Zweig soll nur vom Chefredakteur bespielt werden.}
+\Cave{Der \Code{master}-Zweig soll nur vom Chefredakteur bespielt werden.}
 
 \subsubsection{Autorenzweige}
 
 Jeder direkte Autor\footnote{Als direkter Autor gilt ein Autor dann wenn er
 Schreibberechtigung für das Repository besitzt.} und Redakteur soll einen
-eignen Zwei erhalten der von \gCode{master} abstammt. In diesem Zweig kann er
+eignen Zwei erhalten der von \Code{master} abstammt. In diesem Zweig kann er
 seine Ändeurngen und Beiträge vornehmen. 
 
-Der Chefredaktuer übernimmt dann ggfs. die Beiträge in \gCode{master}. 
+Der Chefredaktuer übernimmt dann ggfs. die Beiträge in \Code{master}. 
 
-Die Autoren sollen die Beiträge in \gCode{master} regelmäßig (= möglichst
+Die Autoren sollen die Beiträge in \Code{master} regelmäßig (= möglichst
 häufig) in ihren Zweig übernehmen um Doppelgleisigkeiten zu verhindern. 
 
 In die Autorenzweige sollen nur die jeweiligen Autoren, der Chefredakteur, der
@@ -941,10 +941,10 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 % 
 % \subsubsection{Abschnitt oder Unterabschnitt}
 % 
-% \gDefinition{Defnitionstext --- Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.}
+% \Definition{Defnitionstext --- Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.}
 % 
-% \gMarriedNG{Beschreibung}{
-% \gE{Fließtext} -- Das Standardlayout 1 kennt 3 Argumente:
+% \MarriedNG{Beschreibung}{
+% \E{Fließtext} -- Das Standardlayout 1 kennt 3 Argumente:
 % Die Paragraphenüberschrift (hier \emph{"`Beschreibung"'}),
 % den Fließtext (diese Kolumne) und die Stichworte
 % (Randspalte). Aus den Stichworten sollen in späterer Folge
@@ -955,7 +955,7 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 % euismod tincidunt ut laoreet dolore magna aliquam erat
 % volutpat. 
 % }
-% {\gE{Stichworte}
+% {\E{Stichworte}
 % 
 % \begin{itemize}
 %     \item Punkt 1
@@ -970,7 +970,7 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 % }
 % 
 % 
-% \gMarriedNG{Ursachen}
+% \MarriedNG{Ursachen}
 % {
 % Lorem ipsum brute docendi expetenda his ut, graecis detracto et nec! Possim
 % fabulas complectitur ei quo, suas ornatus omnesque et mea. Velit error laoreet ex
@@ -988,9 +988,9 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 % 
 % }
 % 
-% \gMarriedNG{Symptome}
+% \MarriedNG{Symptome}
 % {
-% Klassisch \ldots \gEs{Claritas} est
+% Klassisch \ldots \Es{Claritas} est
 % etiam processus dynamicus, qui sequitur mutationem
 % consuetudium lectorum. Mirum est notare quam littera gothica,
 % quam nunc putamus parum claram, anteposuerit litterarum
@@ -1021,13 +1021,13 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 % 
 % }
 % 
-% \gMarriedNG{Komplikationen, Gefahren}
+% \MarriedNG{Komplikationen, Gefahren}
 % {
 % --- am liber tempor cum soluta nobis eleifend
 % option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
 % Typi non habent claritatem insitam; est usus legentis in iis
 % qui facit eorum claritatem. Investigationes demonstraverunt
-% lectores legere me lius quod ii legunt saepius. \gEs{Claritas} est
+% lectores legere me lius quod ii legunt saepius. \Es{Claritas} est
 % etiam processus dynamicus, qui sequitur mutationem
 % consuetudium lectorum. Mirum est notare quam littera gothica,
 % quam nunc putamus parum claram, anteposuerit litterarum
@@ -1043,14 +1043,14 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 % \end{itemize}
 % }
 % 
-% \gMassnahmen{
+% \Massnahmen{
 %     \paragraph{Spezielle Maßnahmen}
 %     
 %     \begin{itemize}
-%     \item \gTxMassVitBes (gTxMassVitBes)
+%     \item \TxMassVitBes (gTxMassVitBes)
 %     \begin{itemize}
 %         \item Lagerung: Oberkörper hoch
-%         \item $O_2$: 12\gLMin
+%         \item $O_2$: 12\LMin
 %         \item Ursachenforschung
 %     \end{itemize}
 %     \item Claritas
@@ -1081,17 +1081,17 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 % \begin{syntax}
 % \item[1.0,default,Wichtig!] \texttt{command},
 % \texttt{environment} or
-% \item[,,] \lstinline!\gEs{}!     starke Betonung.
+% \item[,,] \lstinline!\Es{}!     starke Betonung.
 % \begin{description}
 %     \item[Anwendung] starke Betonung
-%     \item[Beispiel] \gEs{starke Betonung}
+%     \item[Beispiel] \Es{starke Betonung}
 %     \end{description}
-% \item[,,] \lstinline!\gE{}!     starke Betonung.
+% \item[,,] \lstinline!\E{}!     starke Betonung.
 % \begin{description}
 %     \item[Anwendung] starke Betonung
-%     \item[Beispiel] \gE{schwache Betonung}
+%     \item[Beispiel] \E{schwache Betonung}
 % \end{description}
-% \gEs{starke Betonung}
+% \Es{starke Betonung}
 % 
 % 
 % \end{syntax}
@@ -1101,40 +1101,40 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 \paragraph{Simple Textauszeichnungen}~
 
 \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
-\gTabHeading{Befehl} & \gTabHeading{Beschreibung}
+\TabHeading{Befehl} & \TabHeading{Beschreibung}
 \\\midrule
-\lstinline$\gEs{Hallo}$
+\lstinline$\Es{Hallo}$
 & 
-starke Betonung \gZ{(emphasis, strong)}
+starke Betonung \Z{(emphasis, strong)}
 
 Sind jetzt serifenlos und fett.
 &
-\gEs{starke Betonung}
+\Es{starke Betonung}
 \\\addlinespace
-\lstinline$\gE{}$
+\lstinline$\E{}$
 &
-schwache Betonung \gZ{(emphasis)}
+schwache Betonung \Z{(emphasis)}
 &
-\gE{schwache Betonung}
+\E{schwache Betonung}
 \\\addlinespace
-\lstinline$\gT{}$
+\lstinline$\T{}$
 &
 Terminus
 
 &
-\gT{Terminus}
+\T{Terminus}
 \\\addlinespace
-\lstinline$\gZ{}$
+\lstinline$\Z{}$
 &
 Zusatzinfo
 &
-\gZ{Zusatzinfo}
+\Z{Zusatzinfo}
 \\\addlinespace
-\lstinline$\gH{}$
+\lstinline$\H{}$
 &
 Handschrift
 &
-\gH{Handschrift}
+\H{Handschrift}
 \\\addlinespace
 
 &
@@ -1148,12 +1148,12 @@ Handschrift
 
 \begin{gWideParEnv}
 \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
-\gTabHeading{Befehl} & \gTabHeading{Beschreibung}
+\TabHeading{Befehl} & \TabHeading{Beschreibung}
 \\\midrule\addlinespace
 \vspace{-1\medskipamount}
 
 \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-\gLayout
+\Layout
 {1: Nummer}
 {2: Ueberschrift}
 {3: Fliesstext}
@@ -1168,7 +1168,7 @@ Standardlayout
 % \vspace{-1\medskipamount}
 % 
 % \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-% \gMarried
+% \Married
 % {
 %  % #1: Fliesstext
 % }{
@@ -1183,7 +1183,7 @@ Standardlayout
 % \vspace{-1\medskipamount}
 % 
 % \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-% \gMarriedNG
+% \MarriedNG
 % {
 %  % #1: Ueberschrift
 % }{
@@ -1200,14 +1200,14 @@ Standardlayout
 % \vspace{-1\medskipamount}
 % 
 % \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-% \gParallel{
+% \Parallel{
 %  % li. Spalte
 % }{
 %  % re. Spalte 
 % }
 % \end{lstlisting}
 % &
-% wie \lstinline$\gMarried$, der Inhalt von rechter und
+% wie \lstinline$\Married$, der Inhalt von rechter und
 % linker Spalte hat jedoch keinen Bezug zueinander 
 \\\bottomrule
 \end{tabular}
@@ -1249,7 +1249,7 @@ Standardlayout
 
 % Bla!
 % \begin{labeling}[~--]{Formatierung~~~}
-%   \item[Syntax:] \lstinline$\gT{<text>}$
+%   \item[Syntax:] \lstinline$\T{<text>}$
 %   \item[Beschreibung:]
 %   \item[Ja:] 
 %   \item[Nein:] 
@@ -1259,7 +1259,7 @@ Standardlayout
 % \end{labeling}
 % 
 % 
-% \gBox{Beispiel}{Befehl}{black}
+% \Box{Beispiel}{Befehl}{black}
 % {
 % 
 % Text}
@@ -1270,12 +1270,12 @@ Standardlayout
 
 
 
-\subsubsection{Schwache Betonung -- \gCode{\tbs gE\{\}}}\marginpar{\gT{\tbs
+\subsubsection{Schwache Betonung -- \Code{\tbs gE\{\}}}\marginpar{\T{\tbs
 gE\{\}}}
 
 Bla!
 \begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\gT{<text>}$
+  \item[Syntax:] \lstinline$\T{<text>}$
   \item[Beschreibung:]
   \item[Ja:] 
   \item[Nein:] 
@@ -1285,7 +1285,7 @@ Bla!
 \end{labeling}
 
 
-\gBox{Beispiel}{Befehl}{black}
+\Box{Beispiel}{Befehl}{black}
 {
 
 Text}
@@ -1293,12 +1293,12 @@ Text}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Starke Betonung -- \gCode{\tbs gEs\{\}}}\marginpar{\gT{\tbs
+\subsubsection{Starke Betonung -- \Code{\tbs gEs\{\}}}\marginpar{\T{\tbs
 gEs\{\}}}
 
 Bla!
 \begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\gT{<text>}$
+  \item[Syntax:] \lstinline$\T{<text>}$
   \item[Beschreibung:]
   \item[Ja:] 
   \item[Nein:] 
@@ -1308,7 +1308,7 @@ Bla!
 \end{labeling}
 
 
-\gBox{Beispiel}{Befehl}{black}
+\Box{Beispiel}{Befehl}{black}
 {
 
 Text}
@@ -1316,14 +1316,14 @@ Text}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Terminus -- \gCode{\tbs gT\{\}}}\marginpar{\gT{\tbs gT\{\}}}
+\subsubsection{Terminus -- \Code{\tbs gT\{\}}}\marginpar{\T{\tbs gT\{\}}}
 
-Spezielle Hervorhebung für Fachbegriffe. \gZ{Früher
+Spezielle Hervorhebung für Fachbegriffe. \Z{Früher
 sollte sie für alle Fachbegriffe verwendet werden, im August 2009 hat sich
 die Definition geändert, s.u.}
 
 \begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\gT{<text>}$
+  \item[Syntax:] \lstinline$\T{<text>}$
   \item[Beschreibung:]
   \item[Ja:] Terminus-Formatierungen sollen nur mehr angewendet werden
   wenn der entsprechende Begriff an der Stelle erklärt wird! Sonst soll auch
@@ -1338,7 +1338,7 @@ die Definition geändert, s.u.}
   hier erklärt wird (und er an dieser Stelle zu lernen ist).
   \item[Formatierung:] Wie starke Hervorhebungen formatiert,
   jedoch hellgrün hinterlegt.
-  \item[Cave:] Zeilenumbrüche sind in \lstinline$\gT$ nicht mehr vorgesehen, die Termini sollen
+  \item[Cave:] Zeilenumbrüche sind in \lstinline$\T$ nicht mehr vorgesehen, die Termini sollen
   immer in einer Zeile stehen! Wenn Termini lt. obiger Definition in einer
   Tabelle, etc. vorkommen (also nicht im Fließtext) dann sollen sie als
   \lstinline$\marginpar{}$ in der Randspalete gesetzt werden! Es besteht sonst
@@ -1346,18 +1346,18 @@ die Definition geändert, s.u.}
 \end{labeling}
 
 
-\gBox{Beispiel}{Terminus -- \gCode{\tbs gT\{\}}}{black}
+\Box{Beispiel}{Terminus -- \Code{\tbs gT\{\}}}{black}
 {
 
 Es kann zu einer Loslösung von Teilen des Thrombus kommen, dieser
-losgelöste Teil wird \gT{Embolus} genannt.}
+losgelöste Teil wird \T{Embolus} genannt.}
 
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Zusatzinformation -- \gCode{\tbs gZ\{\}}}\marginpar{\gT{\tbs
+\subsubsection{Zusatzinformation -- \Code{\tbs gZ\{\}}}\marginpar{\T{\tbs
 gZ\{\}}}
 
 
@@ -1365,7 +1365,7 @@ gZ\{\}}}
 
 Bla!
 \begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\gT{<text>}$
+  \item[Syntax:] \lstinline$\T{<text>}$
   \item[Beschreibung:]
   \item[Ja:] 
   \item[Nein:] 
@@ -1375,7 +1375,7 @@ Bla!
 \end{labeling}
 
 
-\gBox{Beispiel}{Befehl}{black}
+\Box{Beispiel}{Befehl}{black}
 {
 
 Text}
@@ -1387,36 +1387,36 @@ Text}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Cave (Fließtext) -- \gCode{\tbs gCa\{\}}}\marginpar{\gT{\tbs
+\subsubsection{Cave (Fließtext) -- \Code{\tbs gCa\{\}}}\marginpar{\T{\tbs
 gCa\{\}}}
 
 
 
 Bla!
 \begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\gCa{<text>}$
+  \item[Syntax:] \lstinline$\Ca{<text>}$
   \item[Beschreibung:]
   \item[Ja:] Aussagen über eine massive Gefahr.
   \item[Nein:] 
   \item[Anmerkungen:] Für einen ganzen Absatz steht der
-    \lstinline$\gCave{}$-Befehl zur Verfügung, er erstellt eine ganze (rot
+    \lstinline$\Cave{}$-Befehl zur Verfügung, er erstellt eine ganze (rot
     umrandete) Absatzbox!
   \item[Formatierung:] 
   \item[Cave:] 
 \end{labeling}
 
 
-\gBox{Beispiel}{Cave}{black}
+\Box{Beispiel}{Cave}{black}
 {
 
- \gCa{Nitro kann zu einer rapiden Senkung des Blutdrucks
+ \Ca{Nitro kann zu einer rapiden Senkung des Blutdrucks
     führen!}}
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Handschrift -- \gCode{\tbs gH\{\}}}\marginpar{\gT{\tbs
+\subsubsection{Handschrift -- \Code{\tbs gH\{\}}}\marginpar{\T{\tbs
 gH\{\}}}
 
 
@@ -1424,7 +1424,7 @@ gH\{\}}}
 Handschriftliche Notiz!
 
 \begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\gH{<text>}$
+  \item[Syntax:] \lstinline$\H{<text>}$
   \item[Beschreibung:]
   \item[Ja:] Aussagen über eine massive Gefahr.
   \item[Nein:] 
@@ -1439,10 +1439,10 @@ Handschriftliche Notiz!
 \end{labeling}
 
 
-\gBox{Beispiel}{Handscrift}{black}
+\Box{Beispiel}{Handscrift}{black}
 {
 
-\gH{Das ist eine Handschrift!}}
+\H{Das ist eine Handschrift!}}
 
 
 
@@ -1450,12 +1450,12 @@ Handschriftliche Notiz!
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Dokument -- \gCode{\{\tbs ttfamily\}}}\marginpar{\gT{\{\tbs
+\subsubsection{Dokument -- \Code{\{\tbs ttfamily\}}}\marginpar{\T{\{\tbs
 ttfamily\}}}
 
 % Bla!
 % \begin{labeling}[~--]{Formatierung~~~}
-%   \item[Syntax:] \lstinline$\gT{<text>}$
+%   \item[Syntax:] \lstinline$\T{<text>}$
 %   \item[Beschreibung:]
 %   \item[Ja:] 
 %   \item[Nein:] 
@@ -1465,7 +1465,7 @@ ttfamily\}}}
 % \end{labeling}
 % 
 % 
-% \gBox{Beispiel}{Befehl}{black}
+% \Box{Beispiel}{Befehl}{black}
 % {
 % 
 % Text}
@@ -1481,12 +1481,12 @@ ttfamily\}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Allgemeine Autorennotizen -- \gCode{\tbs gA\{\}}}\marginpar{\gT{\tbs
+\subsubsection{Allgemeine Autorennotizen -- \Code{\tbs gA\{\}}}\marginpar{\T{\tbs
 gA\{\}}}
 
 % Bla!
 % \begin{labeling}[~--]{Formatierung~~~}
-%   \item[Syntax:] \lstinline$\gT{<text>}$
+%   \item[Syntax:] \lstinline$\T{<text>}$
 %   \item[Beschreibung:]
 %   \item[Ja:] 
 %   \item[Nein:] 
@@ -1496,7 +1496,7 @@ gA\{\}}}
 % \end{labeling}
 % 
 % 
-% \gBox{Beispiel}{Befehl}{black}
+% \Box{Beispiel}{Befehl}{black}
 % {
 % 
 % Text}
@@ -1509,7 +1509,7 @@ gA\{\}}}
 \section{Standardlayouts und "`Verheirateter Text"'}
 
 \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-\gLayout
+\Layout
 {
  % #1: Nummer
 }{
@@ -1531,15 +1531,15 @@ gA\{\}}}
 
 \begin{gWideParEnv}
 \begin{minipage}{\linewidth}
-\gCaptionof{table}{Standardlayouts}
+\Captionof{table}{Standardlayouts}
 
 \begin{tabular}{rp{10cm}l}
-\noindent\gTabHeading{\#}
+\noindent\TabHeading{\#}
 &
-\noindent\gTabHeading{Beschreibung}
+\noindent\TabHeading{Beschreibung}
 &
 \\\addlinespace\midrule\addlinespace
-\multicolumn{3}{c}{\gTabHeading{Textlastiges Layout}}
+\multicolumn{3}{c}{\TabHeading{Textlastiges Layout}}
 \\\addlinespace\midrule\addlinespace
 0
 &
@@ -1555,7 +1555,7 @@ ohne Überschrift
 &
 
 \\\addlinespace\midrule\addlinespace
-\multicolumn{3}{c}{\gTabHeading{Textlastige Layouts über gesamte Seite}}
+\multicolumn{3}{c}{\TabHeading{Textlastige Layouts über gesamte Seite}}
 \\\addlinespace\midrule\addlinespace
 10
 &
@@ -1570,7 +1570,7 @@ ohne Überschrift
 
 
 \\\addlinespace\midrule\addlinespace
-\multicolumn{3}{c}{\gTabHeading{Layout mit Bild}}
+\multicolumn{3}{c}{\TabHeading{Layout mit Bild}}
 \\\addlinespace\midrule\addlinespace
 20 & Bild + Fließtext, Punkte & Bild \nicefrac{1}{2} Textkolumne
 \\
@@ -1593,7 +1593,7 @@ Textkolumne
 \\
 29 & Teaser + Fließtext, Punkte, ohne Überschrift & wird 61
 \\\addlinespace\midrule\addlinespace
-\multicolumn{3}{c}{\gTabHeading{Layouts mit Bild über gesamte Seite}}
+\multicolumn{3}{c}{\TabHeading{Layouts mit Bild über gesamte Seite}}
 \\\addlinespace\midrule\addlinespace
 30 & Bild + Fließtext, Punkte & 
 \\
@@ -1615,7 +1615,7 @@ Textkolumne
 \\
 39 & Teaser + Fließtext, Punkte, ohne Überschrift &
 \\\addlinespace\midrule\addlinespace
-\multicolumn{3}{c}{\gTabHeading{Layouts mit Objekt (Tabelle o.ä.)}}
+\multicolumn{3}{c}{\TabHeading{Layouts mit Objekt (Tabelle o.ä.)}}
 \\\addlinespace\midrule\addlinespace
 40 & Objekt + Fließtext, Punkte & 
 \\
@@ -1633,7 +1633,7 @@ Textkolumne
 \\
 47 & Objekt, ohne Überschrift &
 \\\addlinespace\midrule\addlinespace
-\multicolumn{3}{c}{\gTabHeading{Layouts mit Objekt (Tabelle o.ä.) über ganze
+\multicolumn{3}{c}{\TabHeading{Layouts mit Objekt (Tabelle o.ä.) über ganze
 Seite}} 
 \\\addlinespace\midrule\addlinespace
 50 & Objekt + Fließtext, Punkte & 
@@ -1652,7 +1652,7 @@ Seite}}
 \\
 57 & Objekt, ohne Überschrift &
 \\\addlinespace\midrule\addlinespace
-\multicolumn{3}{c}{\gTabHeading{Teaser}} 
+\multicolumn{3}{c}{\TabHeading{Teaser}} 
 \\\addlinespace\midrule\addlinespace
 60 & &
 \\
@@ -1667,11 +1667,11 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 1}\marginpar{\gT{\tbs gMarriedLi\{\}\{\}\{\}}}~
+% \paragraph{Standardlayout 1}\marginpar{\T{\tbs gMarriedLi\{\}\{\}\{\}}}~
 % 
 % \begin{description}
 %     \item[Syntax:]
-%     \lstinline$\gMarriedNG{<Paragraphenueberschrift>}{<Fliesstext>}{<Stichworte>}$
+%     \lstinline$\MarriedNG{<Paragraphenueberschrift>}{<Fliesstext>}{<Stichworte>}$
 %     \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung
 % von der linken Spalte und soll in etwa einer
 % Präsentations-Folie entsprechen    
@@ -1700,11 +1700,11 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 2 -- ohne Überschrift}\marginpar{\gT{\tbs
+% \paragraph{Standardlayout 2 -- ohne Überschrift}\marginpar{\T{\tbs
 % gMarriedLii\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung von der linken Spalte und soll in etwa einer Präsentations-Folie entsprechen.
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -1732,10 +1732,10 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 11 -- Mit Teaser}\marginpar{\gT{\tbs gMarriedLxi\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% \paragraph{Standardlayout 11 -- Mit Teaser}\marginpar{\T{\tbs gMarriedLxi\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] Mit Teaser-Bild.
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -1760,10 +1760,10 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 12 -- Mit Teaser ohne Überschrift}\marginpar{\gT{\tbs gMarriedLxi\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% \paragraph{Standardlayout 12 -- Mit Teaser ohne Überschrift}\marginpar{\T{\tbs gMarriedLxi\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] Mit Teaser-Bild, ohne Überschrift.
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -1788,11 +1788,11 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 13 -- Mit Bild}\marginpar{\gT{\tbs
+% \paragraph{Standardlayout 13 -- Mit Bild}\marginpar{\T{\tbs
 % gMarriedLxii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] Mit größerem Bild.
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -1817,11 +1817,11 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 14 -- Mit Bild, ohne Überschrift}\marginpar{\gT{\tbs
+% \paragraph{Standardlayout 14 -- Mit Bild, ohne Überschrift}\marginpar{\T{\tbs
 % gMarriedLxii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] Mir größerem Bild, ohne Überschrift.
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -1846,11 +1846,11 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 15 -- Nur Bild}\marginpar{\gT{\tbs
+% \paragraph{Standardlayout 15 -- Nur Bild}\marginpar{\T{\tbs
 % gMarriedLxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] Nur Bild.
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -1875,11 +1875,11 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 16 -- Nur Bild ohne Überschrift}\marginpar{\gT{\tbs
+% \paragraph{Standardlayout 16 -- Nur Bild ohne Überschrift}\marginpar{\T{\tbs
 % gMarriedLxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] Nur Bild, ohne Überschrift.
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -1906,11 +1906,11 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 31}\marginpar{\gT{\tbs gMarriedLxxxi\{\}\{\}\{\}}}~
+% \paragraph{Standardlayout 31}\marginpar{\T{\tbs gMarriedLxxxi\{\}\{\}\{\}}}~
 % 
 % \begin{description}
 %     \item[Syntax:]
-%     \lstinline$\gMarriedNG{<Paragraphenueberschrift>}{<Fliesstext>}{<Stichworte>}$
+%     \lstinline$\MarriedNG{<Paragraphenueberschrift>}{<Fliesstext>}{<Stichworte>}$
 %     \item[Beschreibung:] 
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -1937,10 +1937,10 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 32}\marginpar{\gT{\tbs gMarriedLxxxii\{\}\{\}\{\}}}~
+% \paragraph{Standardlayout 32}\marginpar{\T{\tbs gMarriedLxxxii\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] 
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -1968,11 +1968,11 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 41 -- Mit Bild und Punkten} \marginpar{\gT{\tbs
+% \paragraph{Standardlayout 41 -- Mit Bild und Punkten} \marginpar{\T{\tbs
 % gMarriedLxli\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] 
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -1998,10 +1998,10 @@ Seite}}
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
 % \paragraph{Standardlayout 42 -- Mit Bild und Punkten, ohne Überschrift}
-% \marginpar{\gT{\tbs gMarriedLxlii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% \marginpar{\T{\tbs gMarriedLxlii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] 
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -2027,10 +2027,10 @@ Seite}}
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
 % \paragraph{Standardlayout 43 -- Mit Bild, Punkten und Fließtext}
-% \marginpar{\gT{\tbs gMarriedLxliii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% \marginpar{\T{\tbs gMarriedLxliii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] 
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -2056,10 +2056,10 @@ Seite}}
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
 % \paragraph{Standardlayout 44 -- Mit Bild, Punkten und Fließtext, ohne
-% Überschrift} \marginpar{\gT{\tbs gMarriedLxxxii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% Überschrift} \marginpar{\T{\tbs gMarriedLxxxii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] 
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -2085,10 +2085,10 @@ Seite}}
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
 % \paragraph{Standardlayout 45 -- Nur Bild (und Beschriftung)}
-% \marginpar{\gT{\tbs gMarriedLxxxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% \marginpar{\T{\tbs gMarriedLxxxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] 
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -2114,10 +2114,10 @@ Seite}}
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
 % \paragraph{Standardlayout 46 -- Nur Bild (und Beschriftung), ohne Überschrift}
-% \marginpar{\gT{\tbs gMarriedLxxxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% \marginpar{\T{\tbs gMarriedLxxxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
-% %     \item[Syntax:] \lstinline$\gMarried{<text>}$
+% %     \item[Syntax:] \lstinline$\Married{<text>}$
 %     \item[Beschreibung:] 
 % %     \item[Anwendung:]
 % %     \item[Nicht anzuwenden bei:]
@@ -2162,11 +2162,11 @@ Code
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Definitions-Box -- \gCode{\tbs gDefinition\{\}}}\marginpar{\gT{\tbs
+\subsubsection{Definitions-Box -- \Code{\tbs gDefinition\{\}}}\marginpar{\T{\tbs
 gDefinition\{\}}}
 
 \begin{description}
-    \item[Syntax:] \lstinline$\gDefinition{<text>}$
+    \item[Syntax:] \lstinline$\Definition{<text>}$
 %     \item[Beschreibung:]
 %     \item[Anwendung:] Definitionen.
 %     \item[Nicht anzuwenden bei:]
@@ -2179,21 +2179,21 @@ gDefinition\{\}}}
 \end{description}
 
 \begin{lstlisting}
-\gDefinition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
+\Definition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
 \end{lstlisting}
 
-\gDefinition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
+\Definition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
 
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Fazit-Box -- \gCode{\tbs gFazit\{\}}}\marginpar{\gT{\tbs
+\subsubsection{Fazit-Box -- \Code{\tbs gFazit\{\}}}\marginpar{\T{\tbs
 gFazit\{\}}}
 
 \begin{description}
-    \item[Syntax:] \lstinline$\gFazit{<text>}$
+    \item[Syntax:] \lstinline$\Fazit{<text>}$
 %     \item[Beschreibung:]
 %     \item[Anwendung:]
 %     \item[Nicht anzuwenden bei:]
@@ -2205,10 +2205,10 @@ gFazit\{\}}}
 \end{description}
 
 \begin{lstlisting}
-\gFazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine enstprechende  Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
+\Fazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine enstprechende  Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
 \end{lstlisting}
 
-\gFazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell
+\Fazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell
 hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine enstprechende
 Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
 
@@ -2224,12 +2224,12 @@ Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Parallel-Box -- \gCode{\tbs gParallel\{\}}}\marginpar{\gT{\tbs
+\subsubsection{Parallel-Box -- \Code{\tbs gParallel\{\}}}\marginpar{\T{\tbs
 gParallel\{\}}}
 
 \begin{description}
-    \item[Syntax:] \lstinline$\gParallel{<text>}$
-    \item[Beschreibung:] wie \lstinline$\gMarried$, der Inhalt von rechter und
+    \item[Syntax:] \lstinline$\Parallel{<text>}$
+    \item[Beschreibung:] wie \lstinline$\Married$, der Inhalt von rechter und
 linker Spalte hat jedoch keinen Bezug zueinander     
 %     \item[Anwendung:]
 %     \item[Nicht anzuwenden bei:]
@@ -2255,11 +2255,11 @@ linker Spalte hat jedoch keinen Bezug zueinander
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Massnahmen-Box -- \gCode{\tbs
-gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMassnahmen\{\}\{\}\{\}\{\}}}
+\subsubsection{Massnahmen-Box -- \Code{\tbs
+gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\T{\tbs gMassnahmen\{\}\{\}\{\}\{\}}}
 
 \begin{description}
-    \item[Syntax:] \lstinline$\gMassnahmenNG{<Art>}{<bei>}{<Kommandos>}{<text>}$
+    \item[Syntax:] \lstinline$\MassnahmenNG{<Art>}{<bei>}{<Kommandos>}{<text>}$
 %     \item[Beschreibung:]
 %     \item[Anwendung:]
 %     \item[Nicht anzuwenden bei:]
@@ -2272,7 +2272,7 @@ gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMassnahmen\{\}\{\}\{\}\{\}}}
 
 % \captionof{massnahmen}{test}\ovalbox{\sffamily M}
 % 
-% \gMassnahmenNG{}{}{}
+% \MassnahmenNG{}{}{}
 % {
 % \begin{enumerate}
 %     \item Bla
@@ -2282,7 +2282,7 @@ gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMassnahmen\{\}\{\}\{\}\{\}}}
 % \end{enumerate}
 % }
 % 
-% \gMassnahmenNG{Spezielle Maßnahmen}{Darmverschluß}{}{
+% \MassnahmenNG{Spezielle Maßnahmen}{Darmverschluß}{}{
 % \begin{itemize}
 %     \item Patient nüchtern lassen.
 %     \item Hospitalisierung: Abt. f. Chirurgie.
@@ -2291,7 +2291,7 @@ gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMassnahmen\{\}\{\}\{\}\{\}}}
 
 
 \begin{lstlisting}
-\gMassnahmenNG{Spezielle Massnahmen}{Muster}{}
+\MassnahmenNG{Spezielle Massnahmen}{Muster}{}
 {
 \begin{enumerate}
     \item Bla
@@ -2309,16 +2309,16 @@ gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\gT{\tbs gMassnahmen\{\}\{\}\{\}\{\}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Cave-Box -- \gCode{\tbs gCave\{\}}}\marginpar{\gT{\tbs
+\subsubsection{Cave-Box -- \Code{\tbs gCave\{\}}}\marginpar{\T{\tbs
 gCave\{\}}}
 
 \begin{description}
-    \item[Syntax:] \lstinline$\gCave{<text>}$
+    \item[Syntax:] \lstinline$\Cave{<text>}$
 %     \item[Beschreibung:]
     \item[Anwendung:] Aussagen über eine massive Gefahr.
 %     \item[Nicht anzuwenden bei:]
     \item[Anmerkungen:] Für die Auszeichnung einzelner Wörter steht der
-    \lstinline$\gCa{}$-Befehl zur Verfügung.
+    \lstinline$\Ca{}$-Befehl zur Verfügung.
 %     \item[Cave:]
 %     
 %     \item[Formatierung:]
@@ -2326,25 +2326,25 @@ gCave\{\}}}
 \end{description}
 
 \begin{lstlisting}
-\gCave{
+\Cave{
 Dies ist eine Cave-Box!
 
-Die Cave-Box kann auch mit der \gCa{\tbs gCa\{\}-Formatierung} kombiniert werden!
+Die Cave-Box kann auch mit der \Ca{\tbs gCa\{\}-Formatierung} kombiniert werden!
 }
 \end{lstlisting}
 
-\gCave{
+\Cave{
 Dies ist eine Cave-Box!
 
-Die Cave-Box kann auch mit der \gCa{\tbs gCa\{\}-Formatierung} kombiniert werden!
+Die Cave-Box kann auch mit der \Ca{\tbs gCa\{\}-Formatierung} kombiniert werden!
 }
 
 % \subsection{Textkürzel}
 % 
 % \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
-% \gTabHeading{Befehl} & \gTabHeading{Beschreibung}
+% \TabHeading{Befehl} & \TabHeading{Beschreibung}
 % \\\midrule
-% \lstinline$\gEs{Hallo}$
+% \lstinline$\Es{Hallo}$
 % & Erklärung
 % \\\addlinespace
 % \end{tabular}
@@ -2397,43 +2397,43 @@ Wirkung auf den Körper}
 Die Gefährdung bei Stromunfällen
 hängt von verschiedenen Faktoren ab:
 \begin{itemize}
-	\item \gEs{Elektrische Spannung:} Die elektrische Spannung
+	\item \Es{Elektrische Spannung:} Die elektrische Spannung
 	ist die Ursache für den elektrischen Stromfluss und wird
 	in der Einheit Volt (V) gemessen. Wie gefährlich eine Spannung ist hängt nicht nur von der Höhe der Spannung selbst, sondern wesentlich auch vom elektrischen Strom, der von ihr hervorgerufen wird, ab. So kann z.B. die 12 V-Spannung einer Modelleisenbahn völlig ungefährlich sein, gibt es jedoch im Auto bei einer (großen) 12 V-Batterie einen Kurzschluss, kann ein gefährlich großer Strom fließen!
 		\begin{itemize}
-		\item \gT{Niederspannung}: Von Niederspannung spricht man bei Spannungen bis 1000 V. An einer Autobatterie liegt eine Spannung von 12 V. An einer Steckdose liegt eine Spannung von 230 V, in Industriebetrieben wird zusätzlich oft eine Spannung von 400 V verwendet. Diese Spannungen sind auf jeden Fall lebensgefährlich. \gZ{Ein Defibrillator schockt mit etwa 1000 V (!), ein externer Herzschrittmacher arbeitet mit bis zu 400 V.}
-		\item \gT{Hochspannung}: Hochspannung ist eine Spannung über 1000 V. \gZ{Über Hochspannungsleitungen wird die elektrische Energie mit einer Spannung von 110 000 V (= 110 kV) bis 380 000 V (= 380 kV) übertragen. An den Oberleitungen der Eisenbahn liegen 15 000 V (= 15 kV). Bei Gewitterblitzen treten Spannungen von 10-30 Millionen Volt (10-30 Megavolt) auf.}
+		\item \T{Niederspannung}: Von Niederspannung spricht man bei Spannungen bis 1000 V. An einer Autobatterie liegt eine Spannung von 12 V. An einer Steckdose liegt eine Spannung von 230 V, in Industriebetrieben wird zusätzlich oft eine Spannung von 400 V verwendet. Diese Spannungen sind auf jeden Fall lebensgefährlich. \Z{Ein Defibrillator schockt mit etwa 1000 V (!), ein externer Herzschrittmacher arbeitet mit bis zu 400 V.}
+		\item \T{Hochspannung}: Hochspannung ist eine Spannung über 1000 V. \Z{Über Hochspannungsleitungen wird die elektrische Energie mit einer Spannung von 110 000 V (= 110 kV) bis 380 000 V (= 380 kV) übertragen. An den Oberleitungen der Eisenbahn liegen 15 000 V (= 15 kV). Bei Gewitterblitzen treten Spannungen von 10-30 Millionen Volt (10-30 Megavolt) auf.}
 		\end{itemize}
-	\item \gEs{Elektrische Stromstärke:} Elektrischer Strom ist der Fluss von Elektronen. Die treibende Kraft hinter dem Stromfluss ist die elektrische Spannung. Der elektrische Strom wird durch die elektrische Stromstärke beschrieben, welche mit der Einheit Ampere (A) gemessen wird. Kommt es zu einem Stromunfall ist die Schädigung im Körper von der Höhe der Stromstärke abhängig \footnote{Die Werte beziehen sich auf Wechselstrom, die Grenzwerte für Gleichstrom sind höher. Da oft die Stromart nicht bekannt ist, ist es prinzipiell sinnvoll von der gefährlicheren Stromart auszugehen!}:
-\gZ{
+	\item \Es{Elektrische Stromstärke:} Elektrischer Strom ist der Fluss von Elektronen. Die treibende Kraft hinter dem Stromfluss ist die elektrische Spannung. Der elektrische Strom wird durch die elektrische Stromstärke beschrieben, welche mit der Einheit Ampere (A) gemessen wird. Kommt es zu einem Stromunfall ist die Schädigung im Körper von der Höhe der Stromstärke abhängig \footnote{Die Werte beziehen sich auf Wechselstrom, die Grenzwerte für Gleichstrom sind höher. Da oft die Stromart nicht bekannt ist, ist es prinzipiell sinnvoll von der gefährlicheren Stromart auszugehen!}:
+\Z{
 		\begin{itemize}
-		\item Bei geringen Stromstärken \gEs{unter 1 Milliampere (mA)} ist nur ein elektrischer Schlag spürbar.
-		\item Bei Stromstärken \gEs{ab ca. 10 Milliampere (mA)} kommt es zu Schmerzempfindungen und Muskelkontraktionen. \cite{Jaros1}
-		\item Bei Stromstärken \gEs{ab 15-25 mA} kommt es aufgrund der Muskelkontraktionen zu krampfhaften Festhalten der berührten Stromquelle. \cite{BoehmerTaschRett6}
-		\item Stromstärken \gEs{ab 25-50 mA} sind \gEs{lebensgefährlich}! \cite{BoehmerTaschRett6}
-		\item Stromstärken \gEs{ab 80 mA} führen zu Atemlähmungen und Kammerflimmern! \cite{Jaros1}
-		\item Stromstärken \gEs{ab 3 A} führen zusätzlich zu Verbrennungen, Verkochungen und Verkohlungen. \cite{LPN3}
+		\item Bei geringen Stromstärken \Es{unter 1 Milliampere (mA)} ist nur ein elektrischer Schlag spürbar.
+		\item Bei Stromstärken \Es{ab ca. 10 Milliampere (mA)} kommt es zu Schmerzempfindungen und Muskelkontraktionen. \cite{Jaros1}
+		\item Bei Stromstärken \Es{ab 15-25 mA} kommt es aufgrund der Muskelkontraktionen zu krampfhaften Festhalten der berührten Stromquelle. \cite{BoehmerTaschRett6}
+		\item Stromstärken \Es{ab 25-50 mA} sind \Es{lebensgefährlich}! \cite{BoehmerTaschRett6}
+		\item Stromstärken \Es{ab 80 mA} führen zu Atemlähmungen und Kammerflimmern! \cite{Jaros1}
+		\item Stromstärken \Es{ab 3 A} führen zusätzlich zu Verbrennungen, Verkochungen und Verkohlungen. \cite{LPN3}
 		\end{itemize}
 }
-	\item \gEs{Elektrischer Widerstand:} Jeder Körper und
+	\item \Es{Elektrischer Widerstand:} Jeder Körper und
 	jeder Stoff setzt dem elektrischen Stromfluss einen
 	Widerstand entgegen. Dieser elektrische Widerstand wird in
 	Ohm ($\Omega$) gemessen. Je größer der Widerstand eines
 	Körpers, desto kleiner ist der elektrische Strom. Trockene
 	Haut hat einen elektrischen Widerstand von 100 000 Ohm,
-	\gEs{feuchte Haut hat einen geringeren Widerstand} von
+	\Es{feuchte Haut hat einen geringeren Widerstand} von
 	weniger als 1000 Ohm. Der Widerstand von geschädigter
-	(z.B. verbrannter) Haut ist noch geringer. \gZ{Greift man z.B. mit feuchten Händen in die Steckdose (230 V) so stellt sich durch den Körperwiderstand von ca. 1000 Ohm ein elektrischer Strom der Stärke 230 mA ein.}\footnote{Der Leser kann dies durch das Ohmsche Gesetz leicht selbst nachrechnen! Die Spannung $U$ ist das Produkt aus dem Widerstand $R$ und der elektrischen Stromstärke $I$: $U=R \cdot I$} Diese Stromstärke ist absolut lebensgefährlich, wie man aus der Übersicht oben schnell entnehmen kann.
-	\item \gEs{Einwirkdauer:} Je länger die Einwirkzeit (Kontaktzeit), desto größer ist die Schädigung.
-	\item \gEs{Stromweg:} Die Schädigung im Körper hängt auch vom Weg des Stromes durch den Körper ab. Fließt der Strom z.B. von einer Hand zur anderen Hand durch den Körper ist dies gefährlicher, als wenn der Strom von einer Hand zum Fuß fließt.
-	\item \gEs{Stromart:} Wechselstrom ist gefährlicher als Gleichstrom. An den Steckdosen im Haushalt liegt Wechselspannung an. Dieser ändert die Stromrichtung 50 mal pro Sekunde (\gZ{Frequenz = 50 Hz}), weshalb die Wahrscheinlichkeit für Kammerflimmern auch bei kurzen Stromkontakten steigt. \cite{RedelsteinerHRNS1} \footnote{Bei monophasischen Defibrillatoren wird mit Gleichstrom gearbeitet, biphasische Defibrillatoren polen die Stromrichtung einmal um (Wechselstrom).} 
+	(z.B. verbrannter) Haut ist noch geringer. \Z{Greift man z.B. mit feuchten Händen in die Steckdose (230 V) so stellt sich durch den Körperwiderstand von ca. 1000 Ohm ein elektrischer Strom der Stärke 230 mA ein.}\footnote{Der Leser kann dies durch das Ohmsche Gesetz leicht selbst nachrechnen! Die Spannung $U$ ist das Produkt aus dem Widerstand $R$ und der elektrischen Stromstärke $I$: $U=R \cdot I$} Diese Stromstärke ist absolut lebensgefährlich, wie man aus der Übersicht oben schnell entnehmen kann.
+	\item \Es{Einwirkdauer:} Je länger die Einwirkzeit (Kontaktzeit), desto größer ist die Schädigung.
+	\item \Es{Stromweg:} Die Schädigung im Körper hängt auch vom Weg des Stromes durch den Körper ab. Fließt der Strom z.B. von einer Hand zur anderen Hand durch den Körper ist dies gefährlicher, als wenn der Strom von einer Hand zum Fuß fließt.
+	\item \Es{Stromart:} Wechselstrom ist gefährlicher als Gleichstrom. An den Steckdosen im Haushalt liegt Wechselspannung an. Dieser ändert die Stromrichtung 50 mal pro Sekunde (\Z{Frequenz = 50 Hz}), weshalb die Wahrscheinlichkeit für Kammerflimmern auch bei kurzen Stromkontakten steigt. \cite{RedelsteinerHRNS1} \footnote{Bei monophasischen Defibrillatoren wird mit Gleichstrom gearbeitet, biphasische Defibrillatoren polen die Stromrichtung einmal um (Wechselstrom).} 
 \end{itemize}
 
-\gAuthNotes{\#9: EMHOFER: Bilder von verschiedenen
+\AuthNotes{\#9: EMHOFER: Bilder von verschiedenen
 Steckdosen, Kabel und Hinweisschildern einfügen}
 
-%\gT{Niederspannung}: bis 1000\,Volt (Steckdose:  230 Volt)
-%\gT{Hochspannung}: \"uber 1000\,Volt, Stromst\"arke
+%\T{Niederspannung}: bis 1000\,Volt (Steckdose:  230 Volt)
+%\T{Hochspannung}: \"uber 1000\,Volt, Stromst\"arke
 %{\textgreater}  3 Ampere (\"Uberlandleitungen) 
 
 \subsubsection{Besonderer Gefahrenbereich}

@@ -103,7 +103,7 @@
 % \definecolor{black}{rgb}{0,0,0}
 % \definecolor{RED}{rgb}{1,0,0}
 % \definecolor{Mulberry}{rgb}{1,1,0.8}
-\input{./inputs/input-colors}
+% \input{./inputs/input-colors}
 
 
 
@@ -332,7 +332,7 @@ bindingoffset=1.5cm]
 
 
 
-\usepackage{./packages/aass-common}
+\usepackage{aass-common}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
@@ -422,27 +422,27 @@ moretexcs={textcolor,itemhook},
 emph={
 AASS,
 ARGE,
-gA,
-gaCh,
-gAuthorNotes,
-gCa,
-gCave,
-gDefinition,
-gE,
-gEs,
-gERROR,
-gFazit,
-gH,
-gLayout,
-gMarried,
-gMarriedNG,
-gMarriedLI,
-gMassnahmen,
-gParallel,
-gT,
-gTODO,
-gZ,
-gZFootnote},
+A,
+aCh,
+AuthorNotes,
+Ca,
+Cave,
+Definition,
+E,
+Es,
+ERROR,
+Fazit,
+H,
+Layout,
+Married,
+MarriedNG,
+MarriedLI,
+Massnahmen,
+Parallel,
+T,
+TODO,
+Z,
+ZFootnote},
 emphstyle=\color{Terminus}\bfseries,
 %directivestyle=color{Red},
 showstringspaces=false,
@@ -627,15 +627,15 @@ Abkürzung gekennzeichnet:
 \TabSub{AAS} &  \noindent\AASS{} allgemein  & & 
 \\\addlinespace
 \TabSub{ALS} & Erweiterte Reanimation & \caps{? Kichler} &
-\Code{trunk/chapters/inc-ALS-chapter.tex} 
+\Code{trunk/chapters/chapter-ALS.tex} 
 \\\addlinespace
 \TabSub{ANA} & Anatomie & \caps{Hirtler} &
-\Code{trunk/chapters/inc-ANA-chapter.tex} 
+\Code{trunk/chapters/chapter-ANA.tex} 
 \\\addlinespace
 \TabSub{APP} & Appendix &  \caps{---} &
 \\\addlinespace
 \TabSub{AUU} & Anamnese und Untersuchung &  \caps{Gabriel} &
-\Code{trunk/chapters/inc-AUU-chapter.tex} 
+\Code{trunk/chapters/chapter-AUU.tex} 
 \\\addlinespace
 \TabSub{BET} & Betriebsinterne Regelungen &  \caps{---} &
 \\\addlinespace
@@ -646,7 +646,7 @@ Abkürzung gekennzeichnet:
 \TabSub{EIN} & Einführung in die Medizin &  \caps{Gabriel} &
 \\\addlinespace
 \TabSub{EUR} & Einsatztaktik und Rettungswesen & \caps{?? Pirker} &
-\Code{trunk/chapters/inc-ANA-chapter.tex} 
+\Code{trunk/chapters/chapter-ANA.tex} 
 \\\addlinespace
 \TabSub{GER} & Gerätelehre &  \caps{Koch} &
 \\\addlinespace
@@ -710,7 +710,7 @@ Git und im Bugtracker verwenden!
 \section{Datei- und Verzeichnislayout}
 
 \begin{minipage}{\linewidth}
-\emph{Stand 2009/08, vereinfacht.}
+\emph{Stand 2010/05, vereinfacht.}
 \begin{multicols}{2}
 
 % \dirtree{
@@ -730,23 +730,23 @@ Git und im Bugtracker verwenden!
 % 3.  alphadin.bst
 % 3.  changepage.sty
 % 3.  chapters
-% 4.  inc-ANA-chapter.tex
-% 4.  inc-APP.tex
-% 4.  inc-BET-chapter.tex
-% 4.  inc-EHI-chapter.tex
-% 4.  inc-EIN-chapter.tex
-% 4.  inc-GER-chapter.tex
-% 4.  inc-HYG-chapter.tex
-% 4.  inc-INF.tex
-% 4.  inc-JUS-chapter.tex
-% 4.  inc-KHD-chapter.tex
-% 4.  inc-MED-chapter.tex
-% 4.  inc-REG-chapter.tex
-% 4.  inc-RES-ende.tex
-% 4.  inc-SAN-chapter.tex
-% 4.  inc-TAE-chapter.tex
-% 4.  inc-TRA-chapter.tex
-% 4.  inc-VIT-chapter.tex
+% 4.  chapter-ANA.tex
+% 4.  chapter-APP.tex
+% 4.  chapter-BET.tex
+% 4.  chapter-EHI.tex
+% 4.  chapter-EIN.tex
+% 4.  chapter-GER.tex
+% 4.  chapter-HYG.tex
+% 4.  chapter-INF.tex
+% 4.  chapter-JUS.tex
+% 4.  chapter-KHD.tex
+% 4.  chapter-MED.tex
+% 4.  chapter-REG.tex
+% 4.  chapter-RES-ende.tex
+% 4.  chapter-SAN.tex
+% 4.  chapter-TAE.tex
+% 4.  chapter-TRA.tex
+% 4.  chapter-VIT.tex
 % 3.  extern
 % 4.  Arztbriefe
 % 3.  icons
@@ -786,23 +786,23 @@ Git und im Bugtracker verwenden!
     |-- alphadin.bst
     |-- changepage.sty
     |-- chapters
-    |   |-- inc-ANA-chapter.tex
-    |   |-- inc-APP.tex
-    |   |-- inc-BET-chapter.tex
-    |   |-- inc-EHI-chapter.tex
-    |   |-- inc-EIN-chapter.tex
-    |   |-- inc-GER-chapter.tex
-    |   |-- inc-HYG-chapter.tex
-    |   |-- inc-INF.tex
-    |   |-- inc-JUS-chapter.tex
-    |   |-- inc-KHD-chapter.tex
-    |   |-- inc-MED-chapter.tex
-    |   |-- inc-REG-chapter.tex
-    |   |-- inc-RES-ende.tex
-    |   |-- inc-SAN-chapter.tex
-    |   |-- inc-TAE-chapter.tex
-    |   |-- inc-TRA-chapter.tex
-    |   `-- inc-VIT-chapter.tex
+    |   |-- chapter-ANA.tex
+    |   |-- chapter-APP.tex
+    |   |-- chapter-BET.tex
+    |   |-- chapter-EHI.tex
+    |   |-- chapter-EIN.tex
+    |   |-- chapter-GER.tex
+    |   |-- chapter-HYG.tex
+    |   |-- chapter-INF.tex
+    |   |-- chapter-JUS.tex
+    |   |-- chapter-KHD.tex
+    |   |-- chapter-MED.tex
+    |   |-- chapter-REG.tex
+    |   |-- chapter-RES-ende.tex
+    |   |-- chapter-SAN.tex
+    |   |-- chapter-TAE.tex
+    |   |-- chapter-TRA.tex
+    |   `-- chapter-VIT.tex
     |-- extern
     |   `-- Arztbriefe
     |-- icons
@@ -1259,7 +1259,7 @@ Standardlayout
 % \end{labeling}
 % 
 % 
-% \Box{Beispiel}{Befehl}{black}
+% \aBox{Beispiel}{Befehl}{black}
 % {
 % 
 % Text}
@@ -1270,7 +1270,7 @@ Standardlayout
 
 
 
-\subsubsection{Schwache Betonung -- \Code{\tbs gE\{\}}}\marginpar{\T{\tbs
+\subsubsection{Schwache Betonung -- \Code{\tbs E\{\}}}\marginpar{\T{\tbs
 gE\{\}}}
 
 Bla!
@@ -1285,7 +1285,7 @@ Bla!
 \end{labeling}
 
 
-\Box{Beispiel}{Befehl}{black}
+\aBox{Beispiel}{Befehl}{black}
 {
 
 Text}
@@ -1293,7 +1293,7 @@ Text}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Starke Betonung -- \Code{\tbs gEs\{\}}}\marginpar{\T{\tbs
+\subsubsection{Starke Betonung -- \Code{\tbs Es\{\}}}\marginpar{\T{\tbs
 gEs\{\}}}
 
 Bla!
@@ -1308,7 +1308,7 @@ Bla!
 \end{labeling}
 
 
-\Box{Beispiel}{Befehl}{black}
+\aBox{Beispiel}{Befehl}{black}
 {
 
 Text}
@@ -1316,7 +1316,7 @@ Text}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Terminus -- \Code{\tbs gT\{\}}}\marginpar{\T{\tbs gT\{\}}}
+\subsubsection{Terminus -- \Code{\tbs T\{\}}}\marginpar{\T{\tbs T\{\}}}
 
 Spezielle Hervorhebung für Fachbegriffe. \Z{Früher
 sollte sie für alle Fachbegriffe verwendet werden, im August 2009 hat sich
@@ -1346,7 +1346,7 @@ die Definition geändert, s.u.}
 \end{labeling}
 
 
-\Box{Beispiel}{Terminus -- \Code{\tbs gT\{\}}}{black}
+\aBox{Beispiel}{Terminus -- \Code{\tbs T\{\}}}{black}
 {
 
 Es kann zu einer Loslösung von Teilen des Thrombus kommen, dieser
@@ -1357,7 +1357,7 @@ losgelöste Teil wird \T{Embolus} genannt.}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Zusatzinformation -- \Code{\tbs gZ\{\}}}\marginpar{\T{\tbs
+\subsubsection{Zusatzinformation -- \Code{\tbs Z\{\}}}\marginpar{\T{\tbs
 gZ\{\}}}
 
 
@@ -1375,7 +1375,7 @@ Bla!
 \end{labeling}
 
 
-\Box{Beispiel}{Befehl}{black}
+\aBox{Beispiel}{Befehl}{black}
 {
 
 Text}
@@ -1387,7 +1387,7 @@ Text}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Cave (Fließtext) -- \Code{\tbs gCa\{\}}}\marginpar{\T{\tbs
+\subsubsection{Cave (Fließtext) -- \Code{\tbs Ca\{\}}}\marginpar{\T{\tbs
 gCa\{\}}}
 
 
@@ -1406,7 +1406,7 @@ Bla!
 \end{labeling}
 
 
-\Box{Beispiel}{Cave}{black}
+\aBox{Beispiel}{Cave}{black}
 {
 
  \Ca{Nitro kann zu einer rapiden Senkung des Blutdrucks
@@ -1416,7 +1416,7 @@ Bla!
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Handschrift -- \Code{\tbs gH\{\}}}\marginpar{\T{\tbs
+\subsubsection{Handschrift -- \Code{\tbs H\{\}}}\marginpar{\T{\tbs
 gH\{\}}}
 
 
@@ -1439,7 +1439,7 @@ Handschriftliche Notiz!
 \end{labeling}
 
 
-\Box{Beispiel}{Handscrift}{black}
+\aBox{Beispiel}{Handschrift}{black}
 {
 
 \H{Das ist eine Handschrift!}}
@@ -1465,7 +1465,7 @@ ttfamily\}}}
 % \end{labeling}
 % 
 % 
-% \Box{Beispiel}{Befehl}{black}
+% \aBox{Beispiel}{Befehl}{black}
 % {
 % 
 % Text}
@@ -1481,7 +1481,7 @@ ttfamily\}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Allgemeine Autorennotizen -- \Code{\tbs gA\{\}}}\marginpar{\T{\tbs
+\subsubsection{Allgemeine Autorennotizen -- \Code{\tbs A\{\}}}\marginpar{\T{\tbs
 gA\{\}}}
 
 % Bla!
@@ -1496,7 +1496,7 @@ gA\{\}}}
 % \end{labeling}
 % 
 % 
-% \Box{Beispiel}{Befehl}{black}
+% \aBox{Beispiel}{Befehl}{black}
 % {
 % 
 % Text}
@@ -1667,7 +1667,7 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 1}\marginpar{\T{\tbs gMarriedLi\{\}\{\}\{\}}}~
+% \paragraph{Standardlayout 1}\marginpar{\T{\tbs MarriedLi\{\}\{\}\{\}}}~
 % 
 % \begin{description}
 %     \item[Syntax:]
@@ -1732,7 +1732,7 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 11 -- Mit Teaser}\marginpar{\T{\tbs gMarriedLxi\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% \paragraph{Standardlayout 11 -- Mit Teaser}\marginpar{\T{\tbs MarriedLxi\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
 % %     \item[Syntax:] \lstinline$\Married{<text>}$
@@ -1760,7 +1760,7 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 12 -- Mit Teaser ohne Überschrift}\marginpar{\T{\tbs gMarriedLxi\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% \paragraph{Standardlayout 12 -- Mit Teaser ohne Überschrift}\marginpar{\T{\tbs MarriedLxi\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
 % %     \item[Syntax:] \lstinline$\Married{<text>}$
@@ -1906,7 +1906,7 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 31}\marginpar{\T{\tbs gMarriedLxxxi\{\}\{\}\{\}}}~
+% \paragraph{Standardlayout 31}\marginpar{\T{\tbs MarriedLxxxi\{\}\{\}\{\}}}~
 % 
 % \begin{description}
 %     \item[Syntax:]
@@ -1937,7 +1937,7 @@ Seite}}
 % 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
-% \paragraph{Standardlayout 32}\marginpar{\T{\tbs gMarriedLxxxii\{\}\{\}\{\}}}~
+% \paragraph{Standardlayout 32}\marginpar{\T{\tbs MarriedLxxxii\{\}\{\}\{\}}}~
 % 
 % \begin{description}
 % %     \item[Syntax:] \lstinline$\Married{<text>}$
@@ -1998,7 +1998,7 @@ Seite}}
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
 % \paragraph{Standardlayout 42 -- Mit Bild und Punkten, ohne Überschrift}
-% \marginpar{\T{\tbs gMarriedLxlii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% \marginpar{\T{\tbs MarriedLxlii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
 % %     \item[Syntax:] \lstinline$\Married{<text>}$
@@ -2027,7 +2027,7 @@ Seite}}
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
 % \paragraph{Standardlayout 43 -- Mit Bild, Punkten und Fließtext}
-% \marginpar{\T{\tbs gMarriedLxliii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% \marginpar{\T{\tbs MarriedLxliii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
 % %     \item[Syntax:] \lstinline$\Married{<text>}$
@@ -2056,7 +2056,7 @@ Seite}}
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
 % \paragraph{Standardlayout 44 -- Mit Bild, Punkten und Fließtext, ohne
-% Überschrift} \marginpar{\T{\tbs gMarriedLxxxii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% Überschrift} \marginpar{\T{\tbs MarriedLxxxii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
 % %     \item[Syntax:] \lstinline$\Married{<text>}$
@@ -2085,7 +2085,7 @@ Seite}}
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
 % \paragraph{Standardlayout 45 -- Nur Bild (und Beschriftung)}
-% \marginpar{\T{\tbs gMarriedLxxxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% \marginpar{\T{\tbs MarriedLxxxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
 % %     \item[Syntax:] \lstinline$\Married{<text>}$
@@ -2114,7 +2114,7 @@ Seite}}
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % 
 % \paragraph{Standardlayout 46 -- Nur Bild (und Beschriftung), ohne Überschrift}
-% \marginpar{\T{\tbs gMarriedLxxxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
+% \marginpar{\T{\tbs MarriedLxxxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
 % 
 % \begin{description}
 % %     \item[Syntax:] \lstinline$\Married{<text>}$
@@ -2162,7 +2162,7 @@ Code
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Definitions-Box -- \Code{\tbs gDefinition\{\}}}\marginpar{\T{\tbs
+\subsubsection{Definitions-Box -- \Code{\tbs Definition\{\}}}\marginpar{\T{\tbs
 gDefinition\{\}}}
 
 \begin{description}
@@ -2189,7 +2189,7 @@ gDefinition\{\}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Fazit-Box -- \Code{\tbs gFazit\{\}}}\marginpar{\T{\tbs
+\subsubsection{Fazit-Box -- \Code{\tbs Fazit\{\}}}\marginpar{\T{\tbs
 gFazit\{\}}}
 
 \begin{description}
@@ -2224,7 +2224,7 @@ Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Parallel-Box -- \Code{\tbs gParallel\{\}}}\marginpar{\T{\tbs
+\subsubsection{Parallel-Box -- \Code{\tbs Parallel\{\}}}\marginpar{\T{\tbs
 gParallel\{\}}}
 
 \begin{description}
@@ -2256,7 +2256,7 @@ linker Spalte hat jedoch keinen Bezug zueinander
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
 \subsubsection{Massnahmen-Box -- \Code{\tbs
-gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\T{\tbs gMassnahmen\{\}\{\}\{\}\{\}}}
+gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\T{\tbs Massnahmen\{\}\{\}\{\}\{\}}}
 
 \begin{description}
     \item[Syntax:] \lstinline$\MassnahmenNG{<Art>}{<bei>}{<Kommandos>}{<text>}$
@@ -2309,7 +2309,7 @@ gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\T{\tbs gMassnahmen\{\}\{\}\{\}\{\}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Cave-Box -- \Code{\tbs gCave\{\}}}\marginpar{\T{\tbs
+\subsubsection{Cave-Box -- \Code{\tbs Cave\{\}}}\marginpar{\T{\tbs
 gCave\{\}}}
 
 \begin{description}
@@ -2329,14 +2329,14 @@ gCave\{\}}}
 \Cave{
 Dies ist eine Cave-Box!
 
-Die Cave-Box kann auch mit der \Ca{\tbs gCa\{\}-Formatierung} kombiniert werden!
+Die Cave-Box kann auch mit der \Ca{\tbs Ca\{\}-Formatierung} kombiniert werden!
 }
 \end{lstlisting}
 
 \Cave{
 Dies ist eine Cave-Box!
 
-Die Cave-Box kann auch mit der \Ca{\tbs gCa\{\}-Formatierung} kombiniert werden!
+Die Cave-Box kann auch mit der \Ca{\tbs Ca\{\}-Formatierung} kombiniert werden!
 }
 
 % \subsection{Textkürzel}
@@ -2485,7 +2485,7 @@ Traktionsspannung werden oft Spannungen um die 700\,V eingesetzt. \cite{U61989}
 
 
 
-\chapter{Anhang}
+% \chapter{Anhang}
 
 
 
@@ -2497,15 +2497,15 @@ Traktionsspannung werden oft Spannungen um die 700\,V eingesetzt. \cite{U61989}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\section{Dateien}
+% \section{Dateien}
 
-\subsubsection{input-colors.tex}
-
-{\scriptsize
-
-\lstinputlisting{./inputs/input-colors.tex}
-
-}
+% \subsubsection{input-colors.tex}
+% 
+% {\scriptsize
+% 
+% \lstinputlisting{./inputs/input-colors.tex}
+% 
+% }
 % 
 % \subsubsection{aass-common.sty}
 % 

@@ -477,8 +477,8 @@ pdfpagelayout=TwoPageRight,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen
 % \renewcommand{\tableformat}{Tafel~\thetable\autodot}
-\newcommand{\SignTable}{{\sffamily\mdseries\color{darkBlue}\ovalbox{T}}}
-\renewcommand{\tableformat}{{\sffamily\mdseries\color{darkBlue}\ovalbox{T}}~\thetable\autodot}
+\newcommand{\SignTable}{{\noindent\sffamily\mdseries\color{darkBlue}\ovalbox{T}}}
+\renewcommand{\tableformat}{{\SignTable}~\thetable\autodot}
 
 % Non-floating captions
 \usepackage[

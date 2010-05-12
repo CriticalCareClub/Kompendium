@@ -10,4 +10,4 @@ mainTexFile=AASS.tex
 outputFile=AASS.pdf
 langSpell=de
 markDer=true
-srcDir=trunk/
+srcDir=trunk

@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.5.
+% This file was created with JabRef 2.6.
 % Encoding: UTF8
 
 @BOOK{emergency9,
@@ -795,7 +795,7 @@
   volume = {44},
   number = {2},
   pages = {108--114},
-  language = {eng},
+  language = {english},
   __markedentry = {[grissu]},
   abstract = {The term 'Foetal Alcohol Spectrum Disorders (FASD)' refers to the
 	range of disabilities that may result from prenatal alcohol exposure.
@@ -1133,7 +1133,7 @@
   volume = {302},
   number = {7836},
   pages = {999--1001},
-  language = {eng},
+  language = {english},
   month = {Nov},
   keywords = {Abnormalities, Drug-Induced; Adult; Alcoholism, complications; Brain,
 	abnormalities; Craniofacial Dysostosis, chemically induced; Female;
@@ -2683,6 +2683,17 @@
   timestamp = {2010.01.16}
 }
 
+@BOOK{BertelsmannVolkslexikon25,
+  title = {Bertelsmann Volkslexikon},
+  publisher = {Bertelsmann},
+  year = {1964},
+  editor = {Bertelsmann Lexikon-Redaktion},
+  edition = {25},
+  language = {german},
+  owner = {grissu},
+  timestamp = {2010.05.12}
+}
+
 @BOOK{KlinLeitAlle3,
   title = {Klinikleitfaden für alle Stationen: Leitsymptome - Krankheitsbilder
 	- Praxistipps},
@@ -2798,6 +2809,72 @@
   timestamp = {2010.01.24}
 }
 
+@BOOK{BrockhausDrei1Bd2,
+  title = {Der Brockhaus in drei B\"anden},
+  publisher = {F.A. Brockhaus},
+  year = {1995},
+  editor = {Joachin Wei{\ss} 
+	
+	and Sabine-Walburga Anders
+	
+	and Ellen Astor
+	
+	and Ariana Braunbehrens
+	
+	and Ursula Butzek
+	
+	and Silke Garotti
+	
+	and Dieter Gei{\ss}
+	
+	and J\"urgen Hotz
+	
+	and Erika Retzlaff
+	
+	and Barbara Schuller
+	
+	and Marianne Strzysch},
+  volume = {1},
+  edition = {2},
+  isbn = {3-7653-1512-5},
+  language = {german},
+  owner = {grissu},
+  timestamp = {2010.05.12}
+}
+
+@BOOK{BrockhausDrei2Bd2,
+  title = {Der Brockhaus in drei B\"anden},
+  publisher = {F.A. Brockhaus},
+  year = {1995},
+  editor = {Joachin Wei{\ss} 
+	
+	and Sabine-Walburga Anders
+	
+	and Ellen Astor
+	
+	and Ariana Braunbehrens
+	
+	and Ursula Butzek
+	
+	and Silke Garotti
+	
+	and Dieter Gei{\ss}
+	
+	and J\"urgen Hotz
+	
+	and Erika Retzlaff
+	
+	and Barbara Schuller
+	
+	and Marianne Strzysch},
+  volume = {2},
+  edition = {2},
+  isbn = {3-7653-1522-2},
+  language = {german},
+  owner = {grissu},
+  timestamp = {2010.05.12}
+}
+
 @ELECTRONIC{mrsanet,
   title = {EUREGIO MRSA-net: Gemeinsam gegen MRSA},
   language = {german},
@@ -2805,6 +2882,12 @@
   url = {http://www.mrsa-net.org/},
   owner = {grissu},
   timestamp = {2009.09.22}
+}
+
+@BOOK{,
+  title = {Der Brockhaus in drei B\"anden},
+  owner = {grissu},
+  timestamp = {2010.05.12}
 }
 
 @comment{jabref-meta: selector_publisher:}

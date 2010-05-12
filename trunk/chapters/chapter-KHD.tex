@@ -682,14 +682,14 @@ Nur wenn keine Gefahrenzone und genügend Personal/Zeit vorhanden ist!
 }
 
 Die Zuordnung zu einer Triagegruppe kann sich im Verlauf verändern,
-    eine ständige Nachtriage ist erforderlich! Änderungen ergeben sich besonders
-    durch:
+eine ständige Nachtriage ist erforderlich! Änderungen ergeben sich besonders durch:
 
 \begin{enumerate}
     \item \Margin{z.\,B. III → I}Verschlechterung des Patientenzustandes.
-    \item \Margin{z.\,B. I → III}Verbesserung des Patientenzustandes (Behandlung).
-    \item \Margin{z.\,B. IV → I}Verbesserung der Versorgung wegen nachgerücktem 
-    Personal und Material.
+    \item \Margin{z.\,B. I → III}Verbesserung des Patientenzustandes
+    (z.\,B. nach erfolgter Behandlung).
+    \item \Margin{z.\,B. IV → I}Verbesserung der Versorgungslage (zusätzliches 
+    Personal bzw. Material verfügbar, oder Behandlungskapazitäten sind frei geworden).
 \end{enumerate}
 
 \Parallel
@@ -712,186 +712,338 @@ triagieren kann
 
 
 
-\begin{tabulary}{\linewidth}{lL}
-\toprule
-\begin{minipage}{3.5cm}
-\includegraphics[width=1.489cm,height=1.61cm]{./images/noauth/sanhist-behandlung.png}
-\end{minipage}
- &
-Es werden drei Behandlungsstellen eingerichtet
-\\
-\begin{minipage}{3.5cm}
-\includegraphics[width=1.629cm,height=1.489cm]{./images/noauth/sanhist-triage-1}
-\end{minipage}
+\Layout{60}{Behandlungsstellen}{
+Es werden vier Behandlungsstellen entsprechend der Triagegruppen eingerichtet.
+\prettyref{tab:khd-behandlungsstellen-uebersicht} gibt eine Übersicht über
+deren Aufgaben und Eigenschaften. 
 
+\vspace{2cm}
 
- &
-Sofortbehandlung vor Ort
-
-T1 Lebensrettende Soforteingriffe 
-\\
-\begin{minipage}{3.5cm}
-\includegraphics[width=1.669cm,height=1.578cm]{./images/noauth/sanhist-triage-2.png}
-\end{minipage}
- &
-Dringende Behandlung
-
-T2 Schwerverletzte
-\\
-\begin{minipage}{3.5cm}
-\includegraphics[width=1.601cm,height=1.587cm]{./images/noauth/sanhist-triage-3.png}
-\includegraphics[width=1.587cm,height=1.641cm]{./images/noauth/sanhist-triage-4.png}
-\end{minipage}
-
- &
-Warten
-
-T3 Warten Leichtverletzte
-
-T4 Warten Schwerverletzte
-\\\bottomrule
-\end{tabulary}
+} {}
+{./images/noauth/sanhist-behandlung.png}
+{Symbol Behandlungsraum.}
+{\Abk{BMI}}
 
 
 
 
-\subsubsection{I -- Sofortbehandlung vor Ort}
+% \begin{tabulary}{\linewidth}{lL}
+% \toprule
+% \begin{minipage}{3.5cm}
+% \includegraphics[width=1.489cm,height=1.61cm]{./images/noauth/sanhist-behandlung.png}
+% \end{minipage}
+%  &
+% Es werden drei Behandlungsstellen eingerichtet
+% \\
+% \begin{minipage}{3.5cm}
+% \includegraphics[width=1.629cm,height=1.489cm]{./images/noauth/sanhist-triage-1}
+% \end{minipage}
+% 
+% 
+%  &
+% Sofortbehandlung vor Ort
+% 
+% T1 Lebensrettende Soforteingriffe 
+% \\
+% \begin{minipage}{3.5cm}
+% \includegraphics[width=1.669cm,height=1.578cm]{./images/noauth/sanhist-triage-2.png}
+% \end{minipage}
+%  &
+% Dringende Behandlung
+% 
+% T2 Schwerverletzte
+% \\
+% \begin{minipage}{3.5cm}
+% \includegraphics[width=1.601cm,height=1.587cm]{./images/noauth/sanhist-triage-3.png}
+% \includegraphics[width=1.587cm,height=1.641cm]{./images/noauth/sanhist-triage-4.png}
+% \end{minipage}
+% 
+%  &
+% Warten
+% 
+% T3 Warten Leichtverletzte
+% 
+% T4 Warten Schwerverletzte
+% \\\bottomrule
+% \end{tabulary}
 
-Alle Patienten, welche ohne sofortige Behandlung sterben bzw. schwere
-Schäden erleiden
 
-\begin{flushleft}
-\begin{tabular}{m{5.642cm}m{4.379cm}m{3.076cm}}
-Welche Patienten?
 
-\begin{itemize}
-    \item Atemstörungen
-    \item Spannungspneumothorax
-    \item schwere äu{\ss}ere Blutungen
-    \item schwerer traumatischer Schock
-\end{itemize}
+
+
+
+
+
+
+
+
+\begin{table}[H]
+\small
+\noindent\begin{gWideParEnv}
+\Captionof{table}{Behandlungsstellen,
+Übersicht.\label{tab:khd-behandlungsstellen-uebersicht}}
+\noindent\begin{tabularx}{\linewidth}{XXXX}
+\TabHeading{I -- Sofortbehandlung vor Ort}
 &
-Ma{\ss}nahmen
-
-\begin{itemize}
-    \item \"Uberprüfung der Triage
-    \item Volumenersatz
-    \item Intubation
-    \item Thoraxdrainage
-    \item Noteingriffe
-\end{itemize}
+\TabHeading{II -- Dringliche Behandlung}
 &
+\TabHeading{III -- Warten Leichtverletzte}
+&
+\TabHeading{IV -- Warten Schwerverletzte}
+\\\addlinespace\midrule\addlinespace
+Lebensrettende Soforteingriffe
+&
+Schwerverletzte
+&
+Leichtverletzte
+&
+Schwerverletzte
+\\\addlinespace
 \includegraphics[width=3cm]{./images/noauth/sanhist-triage-1.png}
-\\
-\end{tabular}
-\end{flushleft}
-
-
-\subsubsection{II -- Dringende Behandlung}
-
-Behandlung und Herstellung der Transportfähigkeit von schwer
-verletzten/erkrankten Personen, eine weitere Behandlung im Krankenhaus
-ist i.d.R. notwendig.
-
-\begin{flushleft}
-\begin{tabular}{m{5.642cm}m{4.379cm}m{3.076cm}}
-Welche Patienten?
-
-keine unmittelbare Lebensbedrohung
-
-\begin{itemize}
-    \item SHT
-    \item Wirbelverletzungen mit Lähmungen
-    \item Bauchtrauma, innere Blutungen
-    \item schwere Thoraxtraumen
-    \item gro{\ss}e Gefä{\ss}verletzungen
-    \item offene Knochenbrüche und  Gelenks\-verletzungen
-    \item Augenverletzungen
-    \item gro{\ss}e Weichteilverletzungen
-    \item Verbrennungen 15 - 30\%
-    \item geschlossene Knochenbrüche und Gelenks\-ver\-letzungen
-\end{itemize}
-&
-Ma{\ss}nahmen
-
-\begin{itemize}
-    \item Verbände
-    \item Schockbehandlung
-    \item Fixierung/Schienung
-    \item Schmerzbekämpfung
-    \item pflegerische Ma{\ss}nahmen
-    \item LRSM wenn nötig
-\end{itemize}
 &
 \includegraphics[width=3cm]{./images/noauth/sanhist-triage-2.png}
-
-\\
-\end{tabular}
-\end{flushleft}
-
-
-\subsubsection{III -- Warten Leichtverletzte}
-
-Alle Patienten, welche nur einer Minimalbehandlung bedürfen.
-
-\begin{flushleft}
-\begin{tabular}{m{5.642cm}m{4.379cm}m{3.076cm}}
-Welche Patienten?
-
-\begin{itemize}
-    \item Verbrennungen bis 15\%
-    \item kleine Weichteilwunden
-    \item einfache Knochenbrüche
-    \item Prellungen, Zerrungen
-    \item leichtes SHT
-\end{itemize}
-&
-Ma{\ss}nahmen
-
-\begin{itemize}
-    \item \"Uberprüfung der Triage
-    \item pflegerische Ma{\ss}nahmen
-    \item Betreuung (Kriseninterventionsteam (\Abk{KIT})
-    \item Entlassung ambulant Behandelter zur SaStU
-\end{itemize}
 &
 \includegraphics[width=3cm]{./images/noauth/sanhist-triage-3.png}
-\\
-\end{tabular}
-\end{flushleft}
-
-
-\subsubsection{IV -- Warten Schwerverletzte}
-
-Alle Patienten, welche mit dem zur Verfügung stehenden Mitteln
-(Personal, Material) noch nicht versorgt werden können . Abwartende
+&
+\includegraphics[width=3cm]{./images/noauth/sanhist-triage-4.png} 
+\\\addlinespace\midrule\addlinespace
+\multicolumn{4}{c}{\TabSub{Welche Patienten?}}
+\\\addlinespace\midrule\addlinespace
+Patienten, welche ohne sofortige Behandlung sterben bzw. schwere
+Schäden erleiden
+&
+Behandlung und Herstellung der Transportfähigkeit von schwer
+verletzten/erkrankten Personen, eine weitere Behandlung im Krankenhaus
+ist i.\,d.\,R. notwendig.
+&
+Patienten, welche nur einer Minimalbehandlung bedürfen.
+&
+Patienten, welche mit dem zur Verfügung stehenden Mitteln
+(Personal, Material) \Es{noch nicht} versorgt werden können. Abwartende
 Behandlung.
-
-\begin{center}
-\begin{tabular}{m{5.702cm}m{4.0550003cm}m{3.3439999cm}}
-Welche Patienten?
-
+\\\addlinespace\midrule\addlinespace
+\multicolumn{4}{c}{\TabSub{Zum Beispiel}}
+\\\addlinespace\midrule\addlinespace
 \begin{itemize}
-    \item schweres Polytrauma
-    \item schwerstes \Abk{SHT}
-    \item offene Körperhöhlentraumen
-    \item Mehrhöhlenverletzungen
-    \item Verbrennungen über 50\%
+    \item[--] Atemstörungen
+    \item[--] Spannungs\-pneu\-mo\-thorax
+    \item[--] schwere äu{\ss}ere Blutungen
+    \item[--] schwerer traumatischer Schock
 \end{itemize}
 &
-Ma{\ss}nahmen
-
 \begin{itemize}
-    \item \"Uberprüfung der Triage
-    \item Behandlung  (Schmerzbekämpfung)
-    \item Psychologische Betreuung, evtl. durch \Abk{KIT}
-    \item \"Uberwachung
+    \item[--] SHT
+    \item[--] Wirbelverletzungen mit Lähmungen
+    \item[--] Bauchtrauma, innere Blutungen
+    \item[--] schwere Thoraxtraumen
+    \item[--] gro{\ss}e Gefä{\ss}verletzungen
+    \item[--] offene Knochenbrüche und  Gelenks\-verletzungen
+    \item[--] Augenverletzungen
+    \item[--] gro{\ss}e Weichteilverletzungen
+    \item[--] Verbrennungen 15 - 30\%
+    \item[--] geschlossene Knochenbrüche und Gelenks\-ver\-letzungen
 \end{itemize}
- &
-\includegraphics[width=3cm]{./images/noauth/sanhist-triage-4.png}
-\\
-\end{tabular}
-\end{center}
+&
+\begin{itemize}
+    \item[--] Verbrennungen bis 15\%
+    \item[--] kleine Weichteilwunden
+    \item[--] einfache Knochenbrüche
+    \item[--] Prellungen, Zerrungen
+    \item[--] leichtes SHT
+\end{itemize}
+&
+\begin{itemize}
+    \item[--] schweres Polytrauma
+    \item[--] schwerstes \Abk{SHT}
+    \item[--] offene Körperhöhlentraumen
+    \item[--] Mehrhöhlenverletzungen
+    \item[--] Verbrennungen über 50\%
+\end{itemize}
+\\\addlinespace\midrule\addlinespace
+\multicolumn{4}{c}{\TabSub{Massnahmen, Beispiele}}
+\\\addlinespace\midrule\addlinespace
+\begin{itemize}
+    \item[--] \"Uberprüfung der Triage
+    \item[--] Volumenersatz
+    \item[--] Intubation
+    \item[--] Thoraxdrainage
+    \item[--] Noteingriffe
+\end{itemize}
+&
+\begin{itemize}
+    \item[--] Verbände
+    \item[--] Schockbehandlung
+    \item[--] Fixierung/Schienung
+    \item[--] Schmerzbekämpfung
+    \item[--] pflegerische Ma{\ss}nahmen
+    \item[--] Lebenrettende Sofortmassnahmen
+\end{itemize}
+&
+\begin{itemize}
+    \item[--] \"Uberprüfung der Triage
+    \item[--] pflegerische Ma{\ss}nahmen
+    \item[--] Betreuung (Kriseninterventionsteam (\Abk{KIT})
+    \item[--] Entlassung ambulant Behandelter zur "`Sammelstelle Unverletzte"'
+\end{itemize}
+&
+\begin{itemize}
+    \item[--] \"Uberprüfung der Triage
+    \item[--] Behandlung  (Schmerzbekämpfung)
+    \item[--] Psychologische Betreuung, evtl. durch \Abk{KIT}
+    \item[--] \"Uberwachung
+\end{itemize}
+\\\addlinespace\bottomrule
+
+\end{tabularx}
+\end{gWideParEnv}
+\end{table}
+
+
+
+
+
+
+
+
+% 
+% 
+% \subsubsection{I -- Sofortbehandlung vor Ort}
+% 
+% Alle Patienten, welche ohne sofortige Behandlung sterben bzw. schwere
+% Schäden erleiden
+% 
+% \begin{flushleft}
+% \begin{tabular}{m{5.642cm}m{4.379cm}m{3.076cm}}
+% Welche Patienten?
+% 
+% \begin{itemize}
+%     \item Atemstörungen
+%     \item Spannungspneumothorax
+%     \item schwere äu{\ss}ere Blutungen
+%     \item schwerer traumatischer Schock
+% \end{itemize}
+% &
+% Ma{\ss}nahmen
+% 
+% \begin{itemize}
+%     \item \"Uberprüfung der Triage
+%     \item Volumenersatz
+%     \item Intubation
+%     \item Thoraxdrainage
+%     \item Noteingriffe
+% \end{itemize}
+% &
+% \includegraphics[width=3cm]{./images/noauth/sanhist-triage-1.png}
+% \\
+% \end{tabular}
+% \end{flushleft}
+% 
+% 
+% \subsubsection{II -- Dringende Behandlung}
+% 
+% Behandlung und Herstellung der Transportfähigkeit von schwer
+% verletzten/erkrankten Personen, eine weitere Behandlung im Krankenhaus
+% ist i.d.R. notwendig.
+% 
+% \begin{flushleft}
+% \begin{tabular}{m{5.642cm}m{4.379cm}m{3.076cm}}
+% Welche Patienten?
+% 
+% keine unmittelbare Lebensbedrohung
+% 
+% \begin{itemize}
+%     \item SHT
+%     \item Wirbelverletzungen mit Lähmungen
+%     \item Bauchtrauma, innere Blutungen
+%     \item schwere Thoraxtraumen
+%     \item gro{\ss}e Gefä{\ss}verletzungen
+%     \item offene Knochenbrüche und  Gelenks\-verletzungen
+%     \item Augenverletzungen
+%     \item gro{\ss}e Weichteilverletzungen
+%     \item Verbrennungen 15 - 30\%
+%     \item geschlossene Knochenbrüche und Gelenks\-ver\-letzungen
+% \end{itemize}
+% &
+% Ma{\ss}nahmen
+% 
+% \begin{itemize}
+%     \item Verbände
+%     \item Schockbehandlung
+%     \item Fixierung/Schienung
+%     \item Schmerzbekämpfung
+%     \item pflegerische Ma{\ss}nahmen
+%     \item LRSM wenn nötig
+% \end{itemize}
+% &
+% \includegraphics[width=3cm]{./images/noauth/sanhist-triage-2.png}
+% 
+% \\
+% \end{tabular}
+% \end{flushleft}
+% 
+% 
+% \subsubsection{III -- Warten Leichtverletzte}
+% 
+% Alle Patienten, welche nur einer Minimalbehandlung bedürfen.
+% 
+% \begin{flushleft}
+% \begin{tabular}{m{5.642cm}m{4.379cm}m{3.076cm}}
+% Welche Patienten?
+% 
+% \begin{itemize}
+%     \item Verbrennungen bis 15\%
+%     \item kleine Weichteilwunden
+%     \item einfache Knochenbrüche
+%     \item Prellungen, Zerrungen
+%     \item leichtes SHT
+% \end{itemize}
+% &
+% Ma{\ss}nahmen
+% 
+% \begin{itemize}
+%     \item \"Uberprüfung der Triage
+%     \item pflegerische Ma{\ss}nahmen
+%     \item Betreuung (Kriseninterventionsteam (\Abk{KIT})
+%     \item Entlassung ambulant Behandelter zur SaStU
+% \end{itemize}
+% &
+% \includegraphics[width=3cm]{./images/noauth/sanhist-triage-3.png}
+% \\
+% \end{tabular}
+% \end{flushleft}
+% 
+% 
+% \subsubsection{IV -- Warten Schwerverletzte}
+% 
+% Alle Patienten, welche mit dem zur Verfügung stehenden Mitteln
+% (Personal, Material) noch nicht versorgt werden können . Abwartende
+% Behandlung.
+% 
+% \begin{center}
+% \begin{tabular}{m{5.702cm}m{4.0550003cm}m{3.3439999cm}}
+% Welche Patienten?
+% 
+% \begin{itemize}
+%     \item schweres Polytrauma
+%     \item schwerstes \Abk{SHT}
+%     \item offene Körperhöhlentraumen
+%     \item Mehrhöhlenverletzungen
+%     \item Verbrennungen über 50\%
+% \end{itemize}
+% &
+% Ma{\ss}nahmen
+% 
+% \begin{itemize}
+%     \item \"Uberprüfung der Triage
+%     \item Behandlung  (Schmerzbekämpfung)
+%     \item Psychologische Betreuung, evtl. durch \Abk{KIT}
+%     \item \"Uberwachung
+% \end{itemize}
+%  &
+% \includegraphics[width=3cm]{./images/noauth/sanhist-triage-4.png}
+% \\
+% \end{tabular}
+% \end{center}
 
 
 \subsubsection{Die Transportpriorität ist unabhängig von der Triagegruppe}

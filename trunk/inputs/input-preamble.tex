@@ -30,7 +30,7 @@
    {\addvspace{1.5pc}\bfseries
    \titlerule[1pt]\filright\addvspace{1mm}}
    {\contentslabel
-      [{\sffamily\bfseries\color{ubuntured}\chaptername{}~
+      [{\sffamily\bfseries\color{DefaultContrast}\chaptername{}~
        \thecontentslabel}]{6pc}}
    {}{\hfill\contentspage}
    [\addvspace{0.5pc}]
@@ -69,8 +69,8 @@
 % \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
 % \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
 \newrefformat{fig}{Abb.~#1}
-\newrefformat{tab}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
-\newrefformat{m}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
+\newrefformat{tab}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
+\newrefformat{m}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
 \newrefformat{topic}{\Pointinghand\,\ref{#1}}
 
 \usepackage[AASS,stylelayout]{aass-common}
@@ -264,26 +264,26 @@ bindingoffset=1.5cm]
 \setkomafont{subject}{\mdseries\Huge\itshape}
 \setkomafont{descriptionlabel}{\bfseries}
 
-\addtokomafont{part}{\Huge\color{darkBlue}}
-\addtokomafont{partnumber}{\Huge\color{ubuntured}}
+\addtokomafont{part}{\Huge\color{DefaultB}}
+\addtokomafont{partnumber}{\Huge\color{DefaultContrast}}
 % chapter wird nach Paket quotechp gesetzt
-% \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{ubuntured}} 
-\addtokomafont{section}{\LARGE\color{ubuntured}}
-% \addtokomafont{section}{\ocrfamily\selectfont\huge\color{ubuntured}}
-\addtokomafont{subsection}{\Large\color{ubuntured}}
-% \addtokomafont{subsection}{\ocrfamily\selectfont\LARGE\color{ubuntured}}
-\addtokomafont{subsubsection}{\large\color{ubuntured!80}}
-% \addtokomafont{subsubsection}{\ocrfamily\large\color{ubuntured!80}}
-% \addtokomafont{subsubsection}{\LARGE\color{darkBlue}}
+% \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}} 
+\addtokomafont{section}{\LARGE\color{DefaultA}}
+% \addtokomafont{section}{\ocrfamily\selectfont\huge\color{DefaultA}}
+\addtokomafont{subsection}{\Large\color{DefaultA}}
+% \addtokomafont{subsection}{\ocrfamily\selectfont\LARGE\color{DefaultA}}
+\addtokomafont{subsubsection}{\large\color{DefaultA!80}}
+% \addtokomafont{subsubsection}{\ocrfamily\large\color{DefaultA!80}}
+% \addtokomafont{subsubsection}{\LARGE\color{DefaultB}}
 % \addtokomafont{subsubsection}{\LARGE\color{black}}
-\addtokomafont{paragraph}{\scalefont{1.1}\color{darkBlue}}
+\addtokomafont{paragraph}{\scalefont{1.1}\color{DefaultB}}
 \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 % \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
 
-\setkomafont{section}{\usefont{T1}{lmss}{bx}{n}\selectfont\LARGE\color{ubuntured}}
-\setkomafont{subsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\Large\color{ubuntured}}
-\setkomafont{subsubsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\large\color{ubuntured!80}}
-\setkomafont{paragraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\scalefont{1.1}\color{darkBlue}}
+\setkomafont{section}{\usefont{T1}{lmss}{bx}{n}\selectfont\LARGE\color{DefaultA}}
+\setkomafont{subsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\Large\color{DefaultA}}
+\setkomafont{subsubsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\large\color{DefaultA!80}}
+\setkomafont{paragraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\scalefont{1.1}\color{DefaultB}}
 \setkomafont{subparagraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\normalsize\color{black}}
 
 \setkomafont{labelinglabel}{\bfseries}
@@ -295,8 +295,8 @@ bindingoffset=1.5cm]
 % \renewcommand{\thechapter}{\Alph{chapter}}
 
 % \renewcommand{\thechapter}{{\ttfamily\Alph{chapter}}}
-% \renewcommand{\thesection}{{\color{ubuntured}\thechapter .\arabic{section}}}
-% \renewcommand{\thesubsection}{{\color{ubuntured}\thesection .\arabic{subsection}}}
+% \renewcommand{\thesection}{{\color{DefaultA}\thechapter .\arabic{section}}}
+% \renewcommand{\thesubsection}{{\color{DefaultA}\thesection .\arabic{subsection}}}
 % \renewcommand{\thesubsection}{{\color{aassgrey}\thesection.}\arabic{subsection}}
 \renewcommand{\thesubsubsection}{{\thesubsection .\alph{subsubsection}}}
 
@@ -347,21 +347,22 @@ pdfpagelayout=TwoPageRight,
 \floatname{error}{\ovalbox{\sffamily ERROR}}
 
 \usepackage[grey,helvetica]{quotchap}
-%\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
+%\renewcommand{\sectfont}{\large\color{DefaultA}\sffamily\fontfamily{phv}\selectfont}
 \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
+\definecolor{chaptergrey}{named}{DefaultContrast}
 % \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
 % \newenvironment{savequote}{}{}
 
 % \usepackage[Rejne]{fncychap}
 % \ChNameVar{\centering\LARGE\sf} 
-% \ChNumVar{\Huge\color{darkBlue}} 
-% \ChTitleVar{\centering\Large\sf\color{ubuntured}}
+% \ChNumVar{\Huge\color{DefaultB}} 
+% \ChTitleVar{\centering\Large\sf\color{DefaultA}}
 % \ChRuleWidth{2pt} 
 % \ChNameUpperCase
-% % \ChNumVar{\fontsize{76}{80}\usefont{OT1}{lmdh}{m}{n}\selectfont\color{darkBlue}}
-\addtokomafont{chapter}{\Huge\sffamily\bfseries\color{ubuntured}}
+% % \ChNumVar{\fontsize{76}{80}\usefont{OT1}{lmdh}{m}{n}\selectfont\color{DefaultB}}
+\addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}}
 
-% \addtokomafont{chapter}{\fontfamily{lmdh}\selectfont\Huge\color{ubuntured}}
+% \addtokomafont{chapter}{\fontfamily{lmdh}\selectfont\Huge\color{DefaultA}}
 
 
 
@@ -477,7 +478,7 @@ pdfpagelayout=TwoPageRight,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen
 % \renewcommand{\tableformat}{Tafel~\thetable\autodot}
-\newcommand{\SignTable}{{\noindent\sffamily\mdseries\color{darkBlue}\ovalbox{T}}}
+\newcommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
 \renewcommand{\tableformat}{{\SignTable}~\thetable\autodot}
 
 % Non-floating captions

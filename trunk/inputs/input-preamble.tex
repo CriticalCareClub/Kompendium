@@ -23,15 +23,26 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Verzeichnisse
-\usepackage{shorttoc}
+\usepackage[tight]{shorttoc}
 \usepackage{titletoc}
 %%% --- BEGIN --- %%%
-\titlecontents{chapter} [6pc]
-   {\addvspace{1.5pc}\bfseries
-   \titlerule[1pt]\filright\addvspace{1mm}}
-   {\contentslabel
-      [{\sffamily\bfseries\color{DefaultContrast}\chaptername{}~
-       \thecontentslabel}]{6pc}}
+\titlecontents{chapter} [5pc]
+   {\addvspace{1.0pc}\bfseries
+%    \titlerule[0.5pt]\filright\addvspace{1mm}
+   }
+   {\sffamily\contentslabel
+      [{\sffamily\bfseries\color{DefaultContrastA}\chaptername{}~
+       \thecontentslabel}]{4pc}}
+   {}{\hfill\contentspage}
+   [\addvspace{0.5pc}]
+
+\titlecontents{part} [5pc]
+   {\addvspace{1.0pc}\bfseries
+   \color{DefaultContrastA}\titlerule[1pt]\filright\addvspace{1mm}
+   }
+   {\sffamily\color{DefaultContrastA}\large\contentslabel
+      [{\sffamily\bfseries\color{ubuntured}\partname{}~
+       \thecontentslabel}]{4pc}}
    {}{\hfill\contentspage}
    [\addvspace{0.5pc}]
 %%% --- END --- %%%

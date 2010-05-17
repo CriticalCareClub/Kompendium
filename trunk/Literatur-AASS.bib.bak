@@ -56,6 +56,18 @@
   workflow = {ok}
 }
 
+@BOOK{ArgelanderErstinterview8,
+  title = {Das Erstinterview in der Psychotherapie},
+  publisher = {WBG -- Wissenschaftliche Buchgesellschaft},
+  year = {2009},
+  author = {Hermann Argelander},
+  edition = {8},
+  isbn = {978-3-534-22249-0},
+  language = {german},
+  owner = {grissu},
+  timestamp = {2010.05.17}
+}
+
 @ARTICLE{Erc2005DeSec5,
   author = {H.R. Arntz and L. Bossaert and G. Fillipatos},
   title = {Initiales Management von Patienten mit akutem Koronarsyndrom -- Abschnitt
@@ -796,7 +808,6 @@
   number = {2},
   pages = {108--114},
   language = {english},
-  __markedentry = {[grissu]},
   abstract = {The term 'Foetal Alcohol Spectrum Disorders (FASD)' refers to the
 	range of disabilities that may result from prenatal alcohol exposure.
 	This article reviews the effects of ethanol on the developing brain
@@ -1424,6 +1435,19 @@
   timestamp = {2009.06.02}
 }
 
+@ARTICLE{Kucera2010,
+  author = {Mrtin Kucera},
+  title = {Schlampigkeit kostet},
+  journal = {kma Das Gesundheitswirtschaftsmagazin},
+  year = {2010},
+  volume = {15},
+  pages = {56-59},
+  language = {ngerman},
+  month = {Februar},
+  owner = {grissu},
+  timestamp = {2010.05.17}
+}
+
 @ARTICLE{Loennecker2001,
   author = {S. L\"onnecker and V. Schoder},
   title = {[Hypothermia in patients with burn injuries: influence of prehospital
@@ -1512,6 +1536,33 @@
   language = {english},
   owner = {grissu},
   timestamp = {2009.05.03}
+}
+
+@ARTICLE{Malfertheiner2004,
+  author = {P. Malfertheiner and U. Peitz and K. Wolle and G. Treiber},
+  title = {[Helicobacter pylori infection--an update for 2004]},
+  journal = {Dtsch Med Wochenschr},
+  year = {2004},
+  volume = {129},
+  number = {34-35},
+  pages = {1821--1826},
+  language = {german},
+  month = {Aug},
+  __markedentry = {[grissu]},
+  doi = {10.1055/s-2004-831344},
+  institution = {Klinik für Gastroenterologie, Hepatologie und Infektiologie der Otto-von-Guericke-Universität
+	Magdeburg. peter.malfertheiner@medizin.uni-magdeburg.de},
+  keywords = {Adolescent; Adult; Anti-Bacterial Agents, therapeutic use; Antibodies,
+	Bacterial, blood; Child; Child, Preschool; Dyspepsia, microbiology;
+	Gastroesophageal Reflux, microbiology; Helicobacter Infections, diagnosis/epidemiology/therapy/transmission;
+	Helicobacter pylori, immunology/isolation /&/ purification; Humans;
+	Peptic Ulcer Hemorrhage, microbiology; Prevalence; Proton Pumps,
+	antagonists /&/ inhibitors; Stomach Neoplasms, prevention /&/ control},
+  medline-pst = {ppublish},
+  owner = {grissu},
+  pmid = {15314747},
+  timestamp = {2010.05.17},
+  url = {http://dx.doi.org/10.1055/s-2004-831344}
 }
 
 @ARTICLE{Meron2004,
@@ -2875,6 +2926,39 @@
   timestamp = {2010.05.12}
 }
 
+@BOOK{BrockhausDrei3Bd2,
+  title = {Der Brockhaus in drei B\"anden},
+  publisher = {F.A. Brockhaus},
+  year = {1995},
+  editor = {Joachin Wei{\ss} 
+	
+	and Sabine-Walburga Anders
+	
+	and Ellen Astor
+	
+	and Ariana Braunbehrens
+	
+	and Ursula Butzek
+	
+	and Silke Garotti
+	
+	and Dieter Gei{\ss}
+	
+	and J\"urgen Hotz
+	
+	and Erika Retzlaff
+	
+	and Barbara Schuller
+	
+	and Marianne Strzysch},
+  volume = {3},
+  edition = {2},
+  isbn = {3-7653-1532-X},
+  language = {german},
+  owner = {grissu},
+  timestamp = {2010.05.12}
+}
+
 @ELECTRONIC{mrsanet,
   title = {EUREGIO MRSA-net: Gemeinsam gegen MRSA},
   language = {german},
@@ -2882,12 +2966,6 @@
   url = {http://www.mrsa-net.org/},
   owner = {grissu},
   timestamp = {2009.09.22}
-}
-
-@BOOK{,
-  title = {Der Brockhaus in drei B\"anden},
-  owner = {grissu},
-  timestamp = {2010.05.12}
 }
 
 @comment{jabref-meta: selector_publisher:}

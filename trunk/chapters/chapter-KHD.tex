@@ -93,11 +93,6 @@ Leicht- und Unverletzte:106
 
 
 \subsubsection{Unfall (Bagatelle, Notfall)}
-% TODO : Layout-Anpassung
-\begin{anfxwarning}[author=GABS]{Layout-Anpassung notwendig.}
-   Dieser Teil entspricht nicht dem Standard-Layout!
-\end{anfxwarning}
-
 
 \Layout{0}{\TxBeschreibung}{
 Der unfall ist plötzlich und unerwartet, die Dauer des Einsatzes wird in
@@ -162,10 +157,7 @@ des Rettungs- und Krankentransportes.
 \subsubsection{Gro{\ss}unfall (Gro{\ss}schadensereignis)}
 \index{Gro{\ss}unfall}
 \index{Gro{\ss}schadensereignis}
-% TODO : Layout-Anpassung
-\begin{anfxwarning}[author=GABS]{Layout-Anpassung notwendig.}
-   Dieser Teil entspricht nicht dem Standard-Layout!
-\end{anfxwarning}
+
 \Definition{{\quotedblbase}Ein Gro{\ss}unfall liegt vor, wenn anzunehmen ist,
 dass das Ereignis mit den normalen örtlichen personellen und materiellen
 Kräften und Mitteln nicht bewältigt werden kann, aber keine
@@ -228,10 +220,6 @@ wird zusätzliches Material eingetzt.
 
 \subsubsection{Katastrophe (au{\ss}ergewöhnliche Lage)}
 \index{Katastrophe}
-% TODO : Layout-Anpassung
-\begin{anfxwarning}[author=GABS]{Layout-Anpassung notwendig.}
-   Dieser Teil entspricht nicht dem Standard-Layout!
-\end{anfxwarning}
 
 \noindent Katastrophe {\flq}griech.{\frq}: schweres Unglück, Zusammenbruch,
 Wendung zum Schlimmen \cite{BertelsmannVolkslexikon25,BrockhausDrei2Bd2}.
@@ -306,47 +294,7 @@ internationaler Hilfe.
 % \end{center}
 % \footnotetext{KHD: Katastrophenhilfsdienst}
 
-\subsubsection{Individualmedizin}
-\index{Individualmedizin}
-% TODO : Layout-Anpassung
-\begin{anfxwarning}[author=GABS]{Layout-Anpassung notwendig.}
-   Dieser Teil entspricht nicht dem Standard-Layout!
-\end{anfxwarning}
-
-\Definition{Bedarfsgerechte und bestmögliche Versorgung jedes Patienten.} 
-% TODO : Layout-Anpassung
-\begin{anfxwarning}[author=GABS]{Layout-Anpassung notwendig.}
-   Dieser Teil entspricht nicht dem Standard-Layout!
-\end{anfxwarning}
-
-Es besteht freie Arztwahl, welche auf das Vertrauensverhältnis zwischen
-Patient und Arzt ausgerichtet ist.
-
-\subsubsection{Katastrophenmedizin}
-\index{Katastrophenmedizin}
-
-\Definition{Massenversorgung von Verletzten und
-Erkrankten mit beschränkten Mitteln und dem Zwang zur Einteilung nach
-Dringlichkeit.}
-
-Eine Vielzahl von Hilfsbedürftigen stehen wenigen \"Arzten,
-Sanitätern und sonstigen Helfern mit oft unzureichenden Mitteln
-gegenüber. Ziel muss es sein, unter den gegebenen Umständen so
-viele Leben wie möglich zu retten, \Es{mit bewusstem Verzicht auf zeit-
-und personalaufwendige Maximalversorgung des Einzelnen zugunsten der
-lebensrettenden Minimalversorgung Vieler.}
-
-
-
-
-
-
-
-
-
-
-
-
+\begin{table}[H]
 \begin{gWideParEnv}
 \Captionof{table}{Übersicht
 Unfall\,--\,Grossunfall\,--\,Katasptrophe\label{tab:uebersicht-unfall-grossunfall-katastrophe}}
@@ -436,6 +384,53 @@ internationale Hilfe
 \end{tabularx}
 \footnotetext{KHD: Katastrophenhilfsdienst}
 \end{gWideParEnv}
+\end{table}
+
+
+
+\subsubsection{Individualmedizin}
+\index{Individualmedizin}
+
+\Definition{Bedarfsgerechte, maximal- und bestmögliche Versorgung jedes
+Patienten.}
+
+\Layout{0}{\TxBeschreibung}{
+Es besteht freie Arztwahl, welche auf das Vertrauensverhältnis zwischen
+Patient und Arzt ausgerichtet ist.
+}{
+\begin{itemize}
+  \item Bedarfsgerechte, maximal- und bestmögliche Versorgung jedes
+Patienten, wobei örtlich vorhandene Resourcen für den Einzelnen ausgeschöpft
+werden.
+\end{itemize}
+}{}{}{}
+
+
+
+\subsubsection{Katastrophenmedizin}
+\index{Katastrophenmedizin}
+
+\Definition{Massenversorgung von Verletzten und
+Erkrankten mit beschränkten Mitteln und dem Zwang zur Einteilung nach
+Dringlichkeit.}
+
+\Layout{0}{\TxBeschreibung}{
+Eine Vielzahl von Hilfsbedürftigen stehen wenigen \"Arzten,
+Sanitätern und sonstigen Helfern mit oft unzureichenden Mitteln
+gegenüber. Ziel muss es sein, unter den gegebenen Umständen so
+viele Leben wie möglich zu retten, \Es{mit bewusstem Verzicht auf zeit-
+und personalaufwendige Maximalversorgung des Einzelnen zugunsten der
+lebensrettenden Minimalversorgung Vieler.}
+
+Ein wesentliches Element der Katastrophenmedizin ist die Einteilung der
+Patienten gemäß der Dringlichkeit und Druchführbarkeit ihrer Behandlung oder
+ihres Transportes. Diese Einteilunge nennt man Triage.
+}{
+\begin{itemize}
+  \item Aus beschränkten Mitteln das Beste für Viele herausholen, wobei auf
+  maximale Versorgung Einzelner bewusst verzichtet werden muss.
+\end{itemize}
+}{}{}{}
 
 
 
@@ -449,7 +444,150 @@ internationale Hilfe
 
 
 
-\subsection{Regeln und Ziele Bei Katastrophen und Großschadenslagen}
+
+
+
+
+
+
+
+\subsubsection{Triage und Triagegruppen}
+
+\Z{\emph{Triage \Lang{franz.}: Sichtung, Auswahl}}
+
+\Definition{Triage ist das Begutachten aller Patienten mit geringen Mitteln und
+Aufwand sowie das Einteilen in Triagegruppen mit dem Ziel möglichst
+viele Leben zu retten!}
+
+{\quotedblbase}Life before Limbs{\textquotedblleft} = Leben vor
+Gliedma{\ss}en, Funktion vor Schönheit!
+
+\begin{table}[H]
+\small
+\noindent\begin{gWideParEnv}
+\Captionof{table}{Behandlungsstellen,
+Übersicht.\label{tab:khd-behandlungsstellen-uebersicht}}
+\noindent\begin{tabularx}{\linewidth}{XXXX}
+\TabHeading{I -- Sofortbehandlung vor Ort}
+&
+\TabHeading{II -- Dringliche Behandlung}
+&
+\TabHeading{III -- Warten Leichtverletzte}
+&
+\TabHeading{IV -- Warten Schwerverletzte}
+\\\addlinespace\midrule\addlinespace
+Lebensrettende Soforteingriffe
+&
+Schwerverletzte
+&
+Leichtverletzte
+&
+Schwerverletzte
+\\\addlinespace
+\includegraphics[width=3cm]{./images/noauth/sanhist-triage-1.png}
+&
+\includegraphics[width=3cm]{./images/noauth/sanhist-triage-2.png}
+&
+\includegraphics[width=3cm]{./images/noauth/sanhist-triage-3.png}
+&
+\includegraphics[width=3cm]{./images/noauth/sanhist-triage-4.png} 
+\\\addlinespace\midrule\addlinespace
+\multicolumn{4}{c}{\TabSub{Welche Patienten?}}
+\\\addlinespace\midrule\addlinespace
+Patienten, welche ohne sofortige Behandlung sterben bzw. schwere
+Schäden erleiden
+&
+Behandlung und Herstellung der Transportfähigkeit von schwer
+verletzten/erkrankten Personen, eine weitere Behandlung im Krankenhaus
+ist i.\,d.\,R. notwendig.
+&
+Patienten, welche nur einer Minimalbehandlung bedürfen.
+&
+Patienten, welche mit dem zur Verfügung stehenden Mitteln
+(Personal, Material) \Es{noch nicht} versorgt werden können. Abwartende
+Behandlung.
+\\\addlinespace\midrule\addlinespace
+\multicolumn{4}{c}{\TabSub{Zum Beispiel}}
+\\\addlinespace\midrule\addlinespace
+\begin{itemize}
+    \item[--] Atemstörungen
+    \item[--] Spannungs\-pneu\-mo\-thorax
+    \item[--] schwere äu{\ss}ere Blutungen
+    \item[--] schwerer traumatischer Schock
+\end{itemize}
+&
+\begin{itemize}
+    \item[--] SHT
+    \item[--] Wirbelverletzungen mit Lähmungen
+    \item[--] Bauchtrauma, innere Blutungen
+    \item[--] schwere Thoraxtraumen
+    \item[--] gro{\ss}e Gefä{\ss}verletzungen
+    \item[--] offene Knochenbrüche und  Gelenks\-verletzungen
+    \item[--] Augenverletzungen
+    \item[--] gro{\ss}e Weichteilverletzungen
+    \item[--] Verbrennungen 15 - 30\%
+    \item[--] geschlossene Knochenbrüche und Gelenks\-ver\-letzungen
+\end{itemize}
+&
+\begin{itemize}
+    \item[--] Verbrennungen bis 15\%
+    \item[--] kleine Weichteilwunden
+    \item[--] einfache Knochenbrüche
+    \item[--] Prellungen, Zerrungen
+    \item[--] leichtes SHT
+\end{itemize}
+&
+\begin{itemize}
+    \item[--] schweres Polytrauma
+    \item[--] schwerstes \Abk{SHT}
+    \item[--] offene Körperhöhlentraumen
+    \item[--] Mehrhöhlenverletzungen
+    \item[--] Verbrennungen über 50\%
+\end{itemize}
+\\\addlinespace\midrule\addlinespace
+\multicolumn{4}{c}{\TabSub{Massnahmen, Beispiele}}
+\\\addlinespace\midrule\addlinespace
+\begin{itemize}
+    \item[--] \"Uberprüfung der Triage
+    \item[--] Volumenersatz
+    \item[--] Intubation
+    \item[--] Thoraxdrainage
+    \item[--] Noteingriffe
+\end{itemize}
+&
+\begin{itemize}
+    \item[--] Verbände
+    \item[--] Schockbehandlung
+    \item[--] Fixierung/Schienung
+    \item[--] Schmerzbekämpfung
+    \item[--] pflegerische Ma{\ss}nahmen
+    \item[--] Lebenrettende Sofortmassnahmen
+\end{itemize}
+&
+\begin{itemize}
+    \item[--] \"Uberprüfung der Triage
+    \item[--] pflegerische Ma{\ss}nahmen
+    \item[--] Betreuung (Kriseninterventionsteam (\Abk{KIT})
+    \item[--] Entlassung ambulant Behandelter zur "`Sammelstelle Unverletzte"'
+\end{itemize}
+&
+\begin{itemize}
+    \item[--] \"Uberprüfung der Triage
+    \item[--] Behandlung  (Schmerzbekämpfung)
+    \item[--] Psychologische Betreuung, evtl. durch \Abk{KIT}
+    \item[--] \"Uberwachung
+\end{itemize}
+\\\addlinespace\bottomrule
+
+\end{tabularx}
+\end{gWideParEnv}
+\end{table}
+
+
+
+
+
+\subsection{Regeln und Ziele bei Katastrophen und Großschadenslagen}
 
 \subsubsection{Bei Gro{\ss}unfällen und Katastrophen versucht man das beste
 herauszuholen}
@@ -822,35 +960,33 @@ Gro{\ss}unfälle.
 
 \subsection{Triageraum}
 
-\Z{\emph{Triage (frz.) = Sichtung, Auswahl}}
-
-\Definition{Triage ist das Begutachten aller Patienten mit geringen Mitteln und
-Aufwand sowie das Einteilen in Triagegruppen mit dem Ziel möglichst
-viele Leben zu retten!}
-
-{\quotedblbase}Life before Limbs{\textquotedblleft} = Leben vor
-Gliedma{\ss}en, Funktion vor Schönheit!
-
-\subsubsection{Bergetriage}~
 
 
-\Parallel{
-Nur wenn keine Gefahrenzone und genügend Personal/Zeit vorhanden ist!
 
+\Layout{60}{Bergetriage}{
+Die Bergetriage nimmt die Festlegung der Bergepriorität fest, d.\,h. in
+weclher Reihenfolge die Patienten zur Triagestelle gebracht werden sollen.
+Sie wird nur gebildet wenn keine Gefahrenzone und genügend Personal/Zeit
+vorhanden ist.
+
+Das Team muss mind. aus einem NFS bestehen. 
+Erst erfolgt eine Sichtung der Betroffenen und dann eine Festlegung 
+der Dringlichkeit. Die Bertriage behandelt nicht!
+}{
 \begin{itemize}
+    \item Festlegung der Bergepriorität
     \item BT Team muss mind. aus einem NFS bestehen
     \item Gefahren beachten
     \item Erst Sichtung der Betroffenen und Festlegung der Dringlichkeit
     \item Nicht behandeln!
 \end{itemize}
-}{
-\begin{center}
-\includegraphics[width=2cm]{./images/noauth/sanhist-bergetriage.png}
-\end{center}
 }
+{./images/noauth/sanhist-bergetriage.png}
+{}{}
 
 
-\subsubsection{Triage (Sichtung)}~
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % TODO Dynamik I-IV: Überarbeitung notwendig.
@@ -860,59 +996,71 @@ Nur wenn keine Gefahrenzone und genügend Personal/Zeit vorhanden ist!
 \end{anfxwarning}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\Layout{0}{Triage (Sichtung)}{
+Aufgabe der Triagestelle ist die Zuordnung der Patienten zu den Triagegruppen
+(\begin{inparadesc}
+\item[\Code{I~~}] Sofortbehandlung, lebensrettende Noteingriffe
+\item[\Code{II~}] Dringende Behandlung, Schwerverletzte
+\item[\Code{III}] Minimalbehandlung
+\item[\Code{IV~}] Abwartende Behandlung
+\end{inparadesc}). \E{Spätestens} hier erfolgt die zentrale Registrierung
+aller Patienten mittels Patientenleitsystem (PLS). 
 
-\Parallel{
+Die Triage erfolgt schnell, mit geringem Aufwand und unter hohem hoher
+Zeitdruck. Der maximale Zeitaufwand pro Patient beträgt bei gehenden Patienten
+1 Minute und bei liegenden Patienten 3 Minuten. Es ist keine detaillierte
+Diagnostik möglich.
+
+\begin{center}
+% \includegraphics[width=2.cm]{./images/noauth/sanhist-triage.png}
+\TODO{GABS}{2010-04-27}{Foto Triageplatz}{}
+\end{center}
+
+Es werden zwei Triageplätze eingerichtet, damit sich der Notarzt nur zum
+nächsten Patienten umdrehen braucht und abwechselnd triagieren kann. 
+Die Vorbereitung des Patienten erfolgt durch Sanitätsfachpersonal und umfasst
+das Entkleiden sowei die Vornahme des Ersteinschätzungsblockes. 
+
+}{
 \begin{itemize}
         \item Zentrale Registrierung aller Patienten mittels Patientenleitsystem
     (PLS)
-        \item Zuordnung der Patienten zu Triagegruppen
-    \begin{description}
-        \item[\Code{I~~}] Sofortbehandlung, lebensrettende Noteingriffe
-        \item[\Code{II~}] Dringende Behandlung, Schwerverletzte
-        \item[\Code{III}] Minimalbehandlung
-        \item[\Code{IV~}] Abwartende Behandlung
-    \end{description}
-    \item Bei Missverhältnis zwischen der Zahl der Betroffenen und den
-    Be\-handlungs\-möglich\-keiten
-    \item Schnell, mit geringem Aufwand, hoher Zeitdruck
+        \item Zuordnung der Patienten zu Triagegruppen I\,--\,IV
+    \item Schnell, mit geringem Aufwand, hoher Zeitdruck.
 
   Maximaler Zeitaufwand pro Patient gesamt:
     \begin{itemize}
         \item Gehender 1 Minute
         \item Liegender 3 Minuten
     \end{itemize}    
-    \item Keine detaillierte Diagnostik möglich
+    \item Keine detaillierte Diagnostik 
 \end{itemize}
-}{
-\begin{center}
-% \includegraphics[width=2.cm]{./images/noauth/sanhist-triage.png}
-\TODO{GABS}{2010-04-27}{Foto Triageplatz}{}
-\end{center}
 }
+{./images/noauth/sanhist-tragestelle-pic.jpg}
+{}
+{}
 
+
+
+\Layout{0}{Exkurs: Triagegruppen}{
 Die Zuordnung zu einer Triagegruppe kann sich im Verlauf verändern,
 eine ständige Nachtriage ist erforderlich! Änderungen ergeben sich besonders durch:
 
 \begin{enumerate}
-    \item \Margin{z.\,B. III → I}Verschlechterung des Patientenzustandes.
-    \item \Margin{z.\,B. I → III}Verbesserung des Patientenzustandes
-    (z.\,B. nach erfolgter Behandlung).
-    \item \Margin{z.\,B. IV → I}Verbesserung der Versorgungslage (zusätzliches 
-    Personal bzw. Material verfügbar, oder Behandlungskapazitäten sind frei geworden).
+    \item Verschlechterung des Patientenzustandes: z.\,B. III → I.
+    \item Verbesserung des Patientenzustandes
+    (z.\,B. nach erfolgter Behandlung): z.\,B. I → III.
+    \item Verbesserung der Versorgungslage (zusätzliches 
+    Personal bzw. Material verfügbar, oder Behandlungskapazitäten sind frei
+    geworden): z.\,B. IV → I.
 \end{enumerate}
+}{
 
-\Parallel
-{Zwei Triageplätze, damit der NA abwechselnd
-triagieren kann
-\begin{itemize}
-    \item Vorbereitung durch RS/NFS
-    \item Entkleiden
-    \item Vitalparameter erheben %\footnote{RR, HF, AF, Sp$O_2$}
-    \item Untersuchung durch den Notarzt
-\end{itemize}}
-{
-\includegraphics[width=5.132cm,height=3.783cm]{./images/noauth/sanhist-tragestelle-pic.jpg}
-}
+}{}{}{}
+
+
+
+
 
 
 
@@ -928,7 +1076,9 @@ deren Aufgaben und Eigenschaften.
 
 \vspace{2cm}
 
-} {}
+}{
+
+}
 {./images/noauth/sanhist-behandlung.png}
 {Symbol Behandlungsraum.}
 {\Abk{BMI}}
@@ -986,126 +1136,6 @@ deren Aufgaben und Eigenschaften.
 
 
 
-\begin{table}[H]
-\small
-\noindent\begin{gWideParEnv}
-\Captionof{table}{Behandlungsstellen,
-Übersicht.\label{tab:khd-behandlungsstellen-uebersicht}}
-\noindent\begin{tabularx}{\linewidth}{XXXX}
-\TabHeading{I -- Sofortbehandlung vor Ort}
-&
-\TabHeading{II -- Dringliche Behandlung}
-&
-\TabHeading{III -- Warten Leichtverletzte}
-&
-\TabHeading{IV -- Warten Schwerverletzte}
-\\\addlinespace\midrule\addlinespace
-Lebensrettende Soforteingriffe
-&
-Schwerverletzte
-&
-Leichtverletzte
-&
-Schwerverletzte
-\\\addlinespace
-\includegraphics[width=3cm]{./images/noauth/sanhist-triage-1.png}
-&
-\includegraphics[width=3cm]{./images/noauth/sanhist-triage-2.png}
-&
-\includegraphics[width=3cm]{./images/noauth/sanhist-triage-3.png}
-&
-\includegraphics[width=3cm]{./images/noauth/sanhist-triage-4.png} 
-\\\addlinespace\midrule\addlinespace
-\multicolumn{4}{c}{\TabSub{Welche Patienten?}}
-\\\addlinespace\midrule\addlinespace
-Patienten, welche ohne sofortige Behandlung sterben bzw. schwere
-Schäden erleiden
-&
-Behandlung und Herstellung der Transportfähigkeit von schwer
-verletzten/erkrankten Personen, eine weitere Behandlung im Krankenhaus
-ist i.\,d.\,R. notwendig.
-&
-Patienten, welche nur einer Minimalbehandlung bedürfen.
-&
-Patienten, welche mit dem zur Verfügung stehenden Mitteln
-(Personal, Material) \Es{noch nicht} versorgt werden können. Abwartende
-Behandlung.
-\\\addlinespace\midrule\addlinespace
-\multicolumn{4}{c}{\TabSub{Zum Beispiel}}
-\\\addlinespace\midrule\addlinespace
-\begin{itemize}
-    \item[--] Atemstörungen
-    \item[--] Spannungs\-pneu\-mo\-thorax
-    \item[--] schwere äu{\ss}ere Blutungen
-    \item[--] schwerer traumatischer Schock
-\end{itemize}
-&
-\begin{itemize}
-    \item[--] SHT
-    \item[--] Wirbelverletzungen mit Lähmungen
-    \item[--] Bauchtrauma, innere Blutungen
-    \item[--] schwere Thoraxtraumen
-    \item[--] gro{\ss}e Gefä{\ss}verletzungen
-    \item[--] offene Knochenbrüche und  Gelenks\-verletzungen
-    \item[--] Augenverletzungen
-    \item[--] gro{\ss}e Weichteilverletzungen
-    \item[--] Verbrennungen 15 - 30\%
-    \item[--] geschlossene Knochenbrüche und Gelenks\-ver\-letzungen
-\end{itemize}
-&
-\begin{itemize}
-    \item[--] Verbrennungen bis 15\%
-    \item[--] kleine Weichteilwunden
-    \item[--] einfache Knochenbrüche
-    \item[--] Prellungen, Zerrungen
-    \item[--] leichtes SHT
-\end{itemize}
-&
-\begin{itemize}
-    \item[--] schweres Polytrauma
-    \item[--] schwerstes \Abk{SHT}
-    \item[--] offene Körperhöhlentraumen
-    \item[--] Mehrhöhlenverletzungen
-    \item[--] Verbrennungen über 50\%
-\end{itemize}
-\\\addlinespace\midrule\addlinespace
-\multicolumn{4}{c}{\TabSub{Massnahmen, Beispiele}}
-\\\addlinespace\midrule\addlinespace
-\begin{itemize}
-    \item[--] \"Uberprüfung der Triage
-    \item[--] Volumenersatz
-    \item[--] Intubation
-    \item[--] Thoraxdrainage
-    \item[--] Noteingriffe
-\end{itemize}
-&
-\begin{itemize}
-    \item[--] Verbände
-    \item[--] Schockbehandlung
-    \item[--] Fixierung/Schienung
-    \item[--] Schmerzbekämpfung
-    \item[--] pflegerische Ma{\ss}nahmen
-    \item[--] Lebenrettende Sofortmassnahmen
-\end{itemize}
-&
-\begin{itemize}
-    \item[--] \"Uberprüfung der Triage
-    \item[--] pflegerische Ma{\ss}nahmen
-    \item[--] Betreuung (Kriseninterventionsteam (\Abk{KIT})
-    \item[--] Entlassung ambulant Behandelter zur "`Sammelstelle Unverletzte"'
-\end{itemize}
-&
-\begin{itemize}
-    \item[--] \"Uberprüfung der Triage
-    \item[--] Behandlung  (Schmerzbekämpfung)
-    \item[--] Psychologische Betreuung, evtl. durch \Abk{KIT}
-    \item[--] \"Uberwachung
-\end{itemize}
-\\\addlinespace\bottomrule
-
-\end{tabularx}
-\end{gWideParEnv}
-\end{table}
 
 
 
@@ -1260,13 +1290,13 @@ Behandlung.
 Nach einer erfolgten Behandlung kann eine Transporpriorität zugewiesen
 werden. Man unterscheidet hierbei: 
 
-\begin{itemize}
-\item A: Hohe Transportpriorität: Der rasche Transport zur
+\begin{description}
+\item[A:] Hohe Transportpriorität: Der rasche Transport zur
 frühzeitigen Fachbehandlung nach ärztlicher Notversorgung ist
 angesagt. 
-\item B: Niedrige Transportpriorität: Der Transport zur Fachbehandlung
+\item[B:] Niedrige Transportpriorität: Der Transport zur Fachbehandlung
 kann verzögert erfolgen. 
-\end{itemize}
+\end{description}
 
 
 
@@ -1275,44 +1305,52 @@ kann verzögert erfolgen.
 
 \subsection{Transportraum}
 
-\subsubsection{Verladestelle}
-
-\Parallel{
-Sollte in der Nähe der Behandlungsstelle II errichtet werden.
-
-Es muss protokolliert werden, welcher Patient mit welchem
+\Layout{60}{Verladestelle}{
+Die Verladestelle sollte -- sofern möglich -- in der Nähe der Behandlungsstelle
+II errichtet werden. Es muss protokolliert werden, welcher Patient mit welchem
 Transportmittel in welches Krankenhaus eingeliefert wird.
 
-Einbahnregelung!
+Es gibt eine definierte Ein- und Ausfahrt, es herrscht eine Einbahnregelung!
 }{
-\begin{center}
-\includegraphics[width=3cm]{./images/noauth/sanhist-verladestelle.png}
-\end{center}
+
 }
+{./images/noauth/sanhist-verladestelle.png}
+{}
+{}
 
 
 
-\subsubsection{Wagenhalte\-platz}
 
 
-\Parallel{
-\begin{itemize}
-    \item Groß genug
-    \item Schrägparkordnung, freies Heck zum Ent-/Beladen
-    \item Sortiert nach Einsatzmittel (\Abk{NAW}, \Abk{RTW}, \ldots)
-    \item Schlüssel stecken lassen
-\end{itemize}
-}{
-\begin{center}
-\includegraphics[width=3cm]{./images/noauth/sanhist-wagenhalteplatz.png}
-\end{center}
-}
-
-
+\Layout{60}{Wagenhalte\-platz}{
 Der Wagenhalteplatz muss \Es{frühzeitig} bestimmt werden, da weitere Kräfte
 rasch nachfolgen werden. Er sollte in ausreichender \Es{Entfernung} festgelegt
-werden um den späteren Aufbau der weiteren SanHiSt nicht zu behindern. Bedenke:
-Triage- und Behandlungsraum (und die Verladestelle) brauchen viel Platz!
+werden um den späteren Aufbau der weiteren SanHiSt nicht zu behindern. Bedenke
+dabei, dass der Triage- und Behandlungsraum (und die Verladestelle) 
+viel Platz brauchen! Der Wagenhalteplatz selber muss allerdings auch groß genug
+angelegt sein. Auch die Witterung und die Beschaffenheit des Untergrunds ist zu
+beachten.
+
+Wenn
+möglich herrscht Schrägparkordnung,  um ein freies Heck zum Ent-/Beladen zu gewährleisten. Die
+Fahrzeuge sollen nach Einsatzmittelkategorien (\Abk{NAW}, \Abk{RTW}, \ldots)s
+ortiert abgestellt werden. Die Schlüssel müssen stecken gelassen werden!
+}{
+\begin{itemize}
+    \item Frühzeitig, Abstand von SanHiSt. 
+    \item Groß genug; Bodenbeschaffenheit und Witterung bedenken!
+    \item Schrägparkordnung, freies Heck zum Ent-/Beladen. 
+    \item Sortiert nach Einsatzmittel. 
+    \item Schlüssel stecken lassen. 
+\end{itemize}
+}
+{./images/noauth/sanhist-wagenhalteplatz.png}
+{}
+{}
+
+
+
+
 
 
 
@@ -1328,37 +1366,38 @@ Triage- und Behandlungsraum (und die Verladestelle) brauchen viel Platz!
 
 
 
-\subsubsection{Hubschrauber\-landestelle}
-
-\Parallel{
-\begin{itemize}
+\Layout{0}{Hubschrauberlandestelle}{
+\begin{inparaitem}
     \item Die allgemeinen Vorschriften für Hubschrauberlandeplätze sind zu beachten
     \item Freie ebene Fläche
     \item Sichere Umgebung (Stromleitungen!)
     \item Weit genug weg vom Behandlungsraum (Luftwirbel!)
-\end{itemize}
-}{
-~
+\end{inparaitem}
 % TODO BILD: Hubschrauberlandestelle
-}
+}{
+
+}{}{}{}
 
 
 
 
 
 
-\subsubsection{Exkurs: Transportmanagement}~
 
-\Parallel{
-\begin{itemize}
+\Layout{22}{Exkurs: Transportmanagement}{
+\begin{inparaitem}
     \item Spiralförmige Verteilung
     \item Zeitliche Staffelung
     \item Fachliche Zuordnung
     \item Katastrophe nicht ins Spital verlagern!
-\end{itemize}
+\end{inparaitem}
 }{
-\includegraphics[width=\linewidth]{./images/noauth/khd-transportmanagement.png}
+
 }
+{./images/noauth/khd-transportmanagement.png}
+{}
+{}
+
 
 
 
@@ -1366,39 +1405,41 @@ Triage- und Behandlungsraum (und die Verladestelle) brauchen viel Platz!
 
 \subsection{Sammelstellen}
 
-\subsubsection{Sammelstelle Unverletzte}
-
-
-\Parallel{
+\Layout{60}{Sammelstelle Unverletzte}{
 Ziel: Betreuung Unverletzter und Betroffener
 
-\begin{itemize}
+\begin{inparaitem}
     \item Betreuen
     \item Beruhigen
     \item Informieren
     \item \Abk{KIT}\footnote{In Wien ist die Akutbetreuung Wien (\Abk{ABW})
     zuständig.} integrieren
-\end{itemize}
+\end{inparaitem}
 }{
-\begin{center}
-\includegraphics[origin=t,width=2.01cm,height=2.154cm]{./images/noauth/sanhist-sammelstelle-unverletzte.png}
-\end{center}
+
 }
+{./images/noauth/sanhist-sammelstelle-unverletzte.png}
+{}
+{}
 
 
-\subsubsection{Sammelstelle Tote}
 
-\Parallel{
+
+\Layout{60}{Sammelstelle Tote}{
 Sollte diskret eingerichtet werden.
 
 Abgeschirmt von der Sammel\-stelle Unverletzte, dem Be\-handlungs\-raum
 und der Au{\ss}en\-welt
-}{
-\begin{center}
 
-\includegraphics[width=1.906cm,height=1.9cm]{./images/noauth/sanhist-sammelstelle-tote.png}
-\end{center}
+\vspace{1.5cm}
+}{
+
 }
+{./images/noauth/sanhist-sammelstelle-tote.png}
+{}
+{}
+
+
 
 
 
@@ -1406,42 +1447,42 @@ und der Au{\ss}en\-welt
 
 \subsection{Organisation}
 
-\subsubsection{Material- / Meldestelle}
 
-\Parallel{
-\begin{itemize}
-    \item Dient zur Registrierung des Personals und Materials
-    \item Eintreffende Einheiten haben sich bei dieser zu melden
-    \item Steht im engen Kontakt zum Leiter SanHist und EL
-\end{itemize}
+\Layout{60}{Material- / Meldestelle}{
+Sie dient zur Registrierung des Personals und Materials.  Eintreffende
+Einheiten haben sich bei dieser zu melden.
+Sie steht im engen Kontakt zum Leiter SanHist und EL. 
+
+\vspace{1.5cm}
+
 }{
-\begin{center}
-\includegraphics[width=2.176cm,height=2.126cm]{./images/noauth/sanhist-material-meldestelle.png}
-\end{center}
+
 }
+{./images/noauth/sanhist-material-meldestelle.png}
+{}
+{}
 
 
 
-\subsubsection{Mobile Leitstelle (MLS)}
 
-\Parallel{
-\begin{itemize}
-    \item Die \Abk{MLS} beherbergt i.d.R. die Ein\-satz\-leitung sowie wichtige
+\Layout{60}{Mobile Leitstelle (MLS)}{
+Die \Abk{MLS} beherbergt i.d.R. die Ein\-satz\-leitung sowie wichtige
     Administrations-, Tele\-kom\-munikations- und Funkeinrichtungen.
-    \item Bei Bedarf werden u.U. hier Handfunkgeräte an die Bereichsleiter
+   Bei Bedarf werden u.U. hier Handfunkgeräte an die Bereichsleiter
     ausgegeben.
-    \item MLS ist die Brücke zwischen verschiedenen Funkkanälen und
+    Die MLS ist die Brücke zwischen verschiedenen Funkkanälen und
     zuständig.
-    \item Wenn die MLS die Einsatzleitung beinhaltet wird sie mit einem
+     Wenn die MLS die Einsatzleitung beinhaltet wird sie mit einem
     rotem Dreh- oder Blinklicht markiert.
-\end{itemize}
+
 }{
-\begin{center}
-\begin{center}
-\includegraphics[width=\linewidth]{./images/khd/khd-mls.jpg}
-\end{center}
-\end{center}
+
 }
+{./images/khd/khd-mls.jpg}
+{}
+{}
+
+
 
 
 \subsection{Führungsstruktur in der SanHist}

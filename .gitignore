@@ -19,6 +19,7 @@
 *.refactorings
 *.rx
 AAS.pdf
+AASS.ist
 AASS.pdf
 AASS-*.pdf
 tempPartial*

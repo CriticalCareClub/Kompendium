@@ -129,36 +129,6 @@ sanitize=none,
 % #######################################################################################################
 \begin{document}
 
-\newgeometry{left=3cm,right=1cm,bottom=0.1cm}
-% \titleformat{subsubsection}[rightmargin,display]{}{}{}{}[]
-
-
-
-\opt{STATUS-DRAFT-SHOWKEYS}{
-\renewcommand{\label}[1]{%
-  {\color{black}\fbox{{\ttfamily #1 }}}}
-}
-
-
-
-\maketitle
-
-\listoffixmes
-
-%\nocite{*} 
-
-% \layout
-
-% \paragraph*{Mission Statement} \textperiodcentered Das Ausbildungszentrum (ABZ) ist
-% eine Dienst\-leistungs\-ein\-richtung des ASB Floridsdorf-Donau\-stadt
-% und orientiert sein Angebot an den Be\-d\"urf\-nissen unserer Partner
-% und an den strategischen Zielen des \T{ASB}. Wir sind sowohl f\"ur die 
-% medizinische und sanitätsdienstliche Ausbildung unserer Mitarbeiter
-% als auch f\"ur die Durchf\"uhrung von Schulungen und Lehrgängen zur
-% Schulung der Bev\"olkerung verantwortlich. In Zusammenarbeit mit der
-% \"Arztlichen Leitung und den \"ubergeordneten Gremien  entwickeln wir
-% Arbeitsstandards und Lehrmeinungen. ü 
-
 \newgeometry{verbose,
 a4paper,
 asymmetric,
@@ -182,6 +152,36 @@ footskip = 5mm,
 bindingoffset=1.5cm}
 \savegeometry{FullPage}
 \restoregeometry
+% \titleformat{subsubsection}[rightmargin,display]{}{}{}{}[]
+
+
+
+\opt{STATUS-DRAFT-SHOWKEYS}{
+\renewcommand{\label}[1]{%
+  {\color{black}\fbox{{\ttfamily #1 }}}}
+}
+
+
+\loadgeometry{FullPage}
+\maketitle
+
+\listoffixmes
+\restoregeometry
+%\nocite{*} 
+
+% \layout
+
+% \paragraph*{Mission Statement} \textperiodcentered Das Ausbildungszentrum (ABZ) ist
+% eine Dienst\-leistungs\-ein\-richtung des ASB Floridsdorf-Donau\-stadt
+% und orientiert sein Angebot an den Be\-d\"urf\-nissen unserer Partner
+% und an den strategischen Zielen des \T{ASB}. Wir sind sowohl f\"ur die 
+% medizinische und sanitätsdienstliche Ausbildung unserer Mitarbeiter
+% als auch f\"ur die Durchf\"uhrung von Schulungen und Lehrgängen zur
+% Schulung der Bev\"olkerung verantwortlich. In Zusammenarbeit mit der
+% \"Arztlichen Leitung und den \"ubergeordneten Gremien  entwickeln wir
+% Arbeitsstandards und Lehrmeinungen. ü 
+
+
 
 \section*{Impressum, Nutzungsbedingungen und Hinweise}
 \begin{multicols}{2}

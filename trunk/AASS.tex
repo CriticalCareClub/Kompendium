@@ -30,7 +30,7 @@ footnotes=multiple,
 % [draft] .. Es werden nur Rahmen angezeigt
 % [final] .. Es werden Bilder normal angezeigt
 % [demo} .. keine Bilder
-\usepackage[draft]{graphicx} % Bilder-Support
+\usepackage[final]{graphicx} % Bilder-Support
 
 % \usepackage{showidx} % shows index entries on page margin
 
@@ -105,6 +105,11 @@ style=listgroup,
 % switched off using the sanitize package option. You can use sanitize=none as a
 % shortcut for sanitize={name=false,description=false,symbol=false}.
 sanitize=none,
+% By default, only the acronym glossary is considered to be a list of
+% acronyms. If you have other lists of acronyms, you can specify them as a
+% comma-separated list in the value of acronymlists. For example, if you want
+% the main glossary to also contain a list of acronyms, you can do:
+% acronymlists={main},
 ]{glossaries}
 \glsSetCompositor{/}
 \renewcommand{\glspostdescription}{}
@@ -746,6 +751,7 @@ Rudolfstiftung der Stadt Wien.
     \item[lat.] latein, lateinisch.
     \item[MA]  Magistratsabteilung. 
     \item[MCI]  Myocardinfarkt = Herzinfarkt. 
+    \item[\gls{mmHg}] \glsentrydesc{mmHg}
     \item[MONA]  Behandlungsschema für Patienten mit Herzinfarkt,
     bestehend aus Morphin, O\Sub{2}-Gabe, Nitrat-Gabe (z.\,B. Nitrolingual) und
     Gabe von Acetylsalicysäure (Aspirin{\texttrademark},
@@ -754,6 +760,7 @@ Rudolfstiftung der Stadt Wien.
     \item[NA]  Notarzt. 
     \item[\ce{NaCl}]  Natrium-Chlorid. 
     \item[NEF]  Notarzteinsatzfahrzeug. 
+    \item[neurol.] neurologisch; das Nervensystem betreffend.
     \item[NFS]  Notfallsanitäter. 
     \item[NKA]  Notfallsanitäter mit Kompetenzen der
     Arzneimittel. 

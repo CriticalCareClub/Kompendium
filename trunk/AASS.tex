@@ -105,6 +105,7 @@ style=listgroup,
 % switched off using the sanitize package option. You can use sanitize=none as a
 % shortcut for sanitize={name=false,description=false,symbol=false}.
 sanitize=none,
+% acronym,
 % By default, only the acronym glossary is considered to be a list of
 % acronyms. If you have other lists of acronyms, you can specify them as a
 % comma-separated list in the value of acronymlists. For example, if you want
@@ -117,7 +118,10 @@ sanitize=none,
 
 
 
-\input{./inputs/glossaries.tex}
+\input{./inputs/glossar-Termini.tex}
+\input{./inputs/glossar-Abkz.tex}
+\input{./inputs/glossar-m.tex}
+
 
 \makeglossaries
 
@@ -967,6 +971,16 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 }
 % \end{gWideParEnv}
 
+\glsaddall%[type=\acronymtype]
+
+\renewcommand{\glossarypreamble}{
+\begin{gWideParEnv}
+\begin{multicols}{3}
+}
+\renewcommand{\glossarypostamble}{
+\end{multicols}
+\end{gWideParEnv}
+}
 
 \printglossaries
 

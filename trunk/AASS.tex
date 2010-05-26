@@ -105,12 +105,14 @@ style=listgroup,
 % switched off using the sanitize package option. You can use sanitize=none as a
 % shortcut for sanitize={name=false,description=false,symbol=false}.
 sanitize=none,
-% acronym,
+acronym,
 % By default, only the acronym glossary is considered to be a list of
 % acronyms. If you have other lists of acronyms, you can specify them as a
 % comma-separated list in the value of acronymlists. For example, if you want
 % the main glossary to also contain a list of acronyms, you can do:
-% acronymlists={main},
+acronymlists={main},
+nosuper,
+nolong,
 ]{glossaries}
 \glsSetCompositor{/}
 \renewcommand{\glspostdescription}{}
@@ -982,7 +984,10 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 \end{gWideParEnv}
 }
 
-\printglossaries
+\printglossary[type=acronym,title={Abkürzungen}]
+
+\printglossary[type=main,title={Lexikon}]
+
 
 SO LONG..........
 

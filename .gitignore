@@ -27,6 +27,7 @@ tempPartial*
 *.toc
 *.tmp
 out/*
+skull.720pk
 tmp/*
 trunk/out/*.pdf
 trunk/tmp/*

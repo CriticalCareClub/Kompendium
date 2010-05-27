@@ -978,14 +978,14 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 % \include{./chapters/chapter-INT}
 \include{./chapters/inc-APP}
 
-\clearpage
-\chapter{Glossar}
-
-\begin{description}
-  \item[Anatomie]
-  \item[Chirurgie]
-  \item[Hygiene]
-\end{description}
+% \clearpage
+% \chapter{Glossar}
+% 
+% \begin{description}
+%   \item[Anatomie]
+%   \item[Chirurgie]
+%   \item[Hygiene]
+% \end{description}
 
 \clearpage
 % \begin{gWideParEnv}
@@ -994,7 +994,7 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 }
 % \end{gWideParEnv}
 
-\glsaddall%[type=\acronymtype]
+\glsaddall[types={\acronymtype}]
 
 \renewcommand{\glossarypreamble}{
 \begin{gWideParEnv}
@@ -1005,7 +1005,7 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 \end{gWideParEnv}
 }
 
-\printglossary[type=acronym,title={Abkürzungen}]
+\printglossary[type=acronym,title={Abkürzungen},nonumberlist=false]
 
 \printglossary[type=main,title={Lexikon}]
 

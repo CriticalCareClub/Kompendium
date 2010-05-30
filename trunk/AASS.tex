@@ -34,20 +34,20 @@ footnotes=multiple,
 
 % \usepackage{showidx} % shows index entries on page margin
 
-\usepackage[
-margin=false,
-inline=true,
-index=false,
-status=draft,
-multiuser,
-% lang=english,
-]{fixme}
-% \fxnote
-% \fxwarning
-% \fxerror
-% \fxfatal
-\fxsetface{inline}{\fontfamily{lmtt}\selectfont\itshape\color{OrangeRed}}
-\fxsetface{env}{\fontfamily{lmtt}\selectfont\itshape\color{OrangeRed}}
+% \usepackage[
+% margin=false,
+% inline=true,
+% index=false,
+% status=draft,
+% multiuser,
+% % lang=english,
+% ]{fixme}
+% % \fxnote
+% % \fxwarning
+% % \fxerror
+% % \fxfatal
+% \fxsetface{inline}{\fontfamily{lmtt}\selectfont\itshape\color{OrangeRed}}
+% \fxsetface{env}{\fontfamily{lmtt}\selectfont\itshape\color{OrangeRed}}
 
 % \usepackage{showkeys}
 
@@ -176,7 +176,22 @@ bindingoffset=1.5cm}
 \loadgeometry{FullPage}
 \maketitle
 
-\listoffixmes
+
+\opt{STATUS-DRAFT}{
+
+{\small
+\listof{todo}{Verzeichnis der TODO's}
+}
+{\small
+\listof{warning}{Verzeichnis der Warnungen}
+}
+{\small
+\listof{error}{Verzeichnis der Fehler}
+}
+}
+
+
+% \listoffixmes
 \restoregeometry
 %\nocite{*} 
 
@@ -266,10 +281,9 @@ handelt.
 folgenden Lizenzen wiederverwendet:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % TODO Lizenzen, verwendete: Vervollständigen
-\begin{anfxerror}[author=GABS]{Lizenzen, verwendete: Vervollständigung
-notwendig.} Vervollständigung notwendig! \par Dieser Teil ist unvollständig, 
-   er benötigt eine Überarbeitung!
-\end{anfxerror}
+\ERROR{GABS}{yyyy-mm-dd}{Lizenzen, verwendete: Vervollständigung
+notwendig.}{Vervollständigung notwendig! \par Dieser Teil ist unvollständig, 
+   er benötigt eine Überarbeitung!}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{multicols}{2}
@@ -705,11 +719,7 @@ Endproduktion: Ubuntu Linux 9.04 \textit{"`Jaunty Jackalope"'}, \url{http://www.
 \listof{massnahmen}{Verzeichnis der Maßnahmen}
 }
 
-\opt{STATUS-DRAFT}{
-{\small
-\listof{error}{Verzeichnis der Fehler}
-}
-}
+
 
 
 

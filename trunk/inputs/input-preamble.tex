@@ -440,6 +440,9 @@ bindingoffset=1.5cm]
 
 
 \usepackage{minitoc} %The quotchap package should be loaded BEFORE the minitoc package.
+\newcounter{DefaultMinitocDepth}
+\setcounter{DefaultMinitocDepth}{3}
+\mtcsetdepth{minitoc}{\value{DefaultMinitocDepth}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Kopf- und Fußzeilen

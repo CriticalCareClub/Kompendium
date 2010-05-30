@@ -5,7 +5,7 @@ asymmetric,
 fontsize=9pt,
 headings=small,
 draft=false,
-parskip=false,
+parskip=half,
 % listof=totoc,         % verschiebt Minitoc/Hyperref
 % bibliography=totoc,   % verschiebt Minitoc/Hyperref
 % index=totoc,
@@ -118,6 +118,7 @@ nolong,
 \renewcommand{\glspostdescription}{}
 \renewcommand{\glstextformat}[1]{\T{#1}}
 
+\usepackage[normalem]{ulem}
 
 
 \input{./inputs/glossar-Termini.tex}

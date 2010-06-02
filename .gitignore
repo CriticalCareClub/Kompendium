@@ -8,6 +8,7 @@
 *.out
 *.dvi
 *.err
+*.gal
 *.idx
 *.ilg
 *.ind

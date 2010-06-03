@@ -83,7 +83,7 @@ footnotes=multiple,
 % unit (e.g. chapter). This will make the glossaries appear in the named
 % sectional unit, otherwise each glossary will appear in a chapter, if chapters
 % exist, otherwise in a section.
-section=chapter,
+section=section,
 % The glossaries are placed in unnumbered sectional units by default,
 % but this can be changed using numberedsection. This option can take
 % three possible values: false (no number, i.e. use starred form), nolabel (numbered,
@@ -117,6 +117,7 @@ nolong,
 \glsSetCompositor{/}
 \renewcommand{\glspostdescription}{}
 \renewcommand{\glstextformat}[1]{\T{#1}}
+\newglossary{licenses}{glo-licenses-in}{glo-licenses-out}{Lizenzen}
 
 \usepackage[normalem]{ulem}
 
@@ -124,6 +125,7 @@ nolong,
 \input{./inputs/glossar-Termini.tex}
 \input{./inputs/glossar-Abkz.tex}
 \input{./inputs/glossar-m.tex}
+\input{./inputs/glossar-Lizenzen.tex}
 
 
 \makeglossaries
@@ -966,7 +968,24 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 % \pagenumbering[Appendix]{bychapter}
 
 
+\chapter{Verzeichnisse}
 
+
+\glsaddall[types={\acronymtype,licenses}]
+
+
+
+\renewcommand{\glossarypreamble}{
+\begin{gWideParEnv}
+\begin{multicols}{3}
+}
+\renewcommand{\glossarypostamble}{
+\end{multicols}
+\end{gWideParEnv}
+}
+\printglossary[type=licenses,title={Lizenzen},nonumberlist=true]
+
+\printglossary[type=acronym,title={Abkürzungen},nonumberlist=true]
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1002,6 +1021,13 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 %   \item[Hygiene]
 % \end{description}
 
+
+
+
+\setglossarysection{chapter}
+
+\printglossary[type=main,title={Lexikon}]
+
 \clearpage
 % \begin{gWideParEnv}
 {\small
@@ -1009,20 +1035,7 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 }
 % \end{gWideParEnv}
 
-\glsaddall[types={\acronymtype}]
-
-\renewcommand{\glossarypreamble}{
-\begin{gWideParEnv}
-\begin{multicols}{3}
-}
-\renewcommand{\glossarypostamble}{
-\end{multicols}
-\end{gWideParEnv}
-}
-
-\printglossary[type=acronym,title={Abkürzungen},nonumberlist=false]
-
-\printglossary[type=main,title={Lexikon}]
+\include{./chapters/inc-APP}
 
 
 SO LONG..........

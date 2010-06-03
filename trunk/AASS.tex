@@ -964,14 +964,44 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 
 
 \renewcommand{\glossarypreamble}{
-\begin{gWideParEnv}
-\begin{multicols}{3}
-}
+  \begin{gWideParEnv}
+  \begin{multicols}{3}
+  }
 \renewcommand{\glossarypostamble}{
-\end{multicols}
-\end{gWideParEnv}
-}
+  \end{multicols}
+  \end{gWideParEnv}
+  }
+
+
+\renewcommand{\glossarypreamble}{
+  \noindent In den AASS werden Inhalte (Bilder, Texte, \ldots) mit
+  folgenden Lizenzen wiederverwendet:
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  % TODO Lizenzen, verwendete: Vervollständigen
+  \TODOCRITICAL{GABS}{yyyy-mm-dd}{Lizenzen, verwendete: Vervollständigung
+  notwendig.}{Vervollständigung notwendig! \par Dieser Teil ist unvollständig, 
+  er benötigt eine Überarbeitung!}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \noindent\Ca{Die Auflistung dieser Lizenzen bedeutet \underline{nicht}, dass
+  die
+  \AASS{} als Ganzes unter diesen Lizenzen lizensiert sind!}  
+  \begin{gWideParEnv}
+  \begin{multicols}{3}
+  }
+
+
+
 \printglossary[type=licenses,title={Lizenzen},nonumberlist=true]
+
+\noindent\Ca{Die Auflistung dieser Lizenzen bedeutet \underline{nicht}, dass die
+\AASS{} als Ganzes unter diesen Lizenzen lizensiert sind!}  
+
+\renewcommand{\glossarypreamble}{
+  \begin{gWideParEnv}
+  \begin{multicols}{3}
+  }
+
+  
 
 \printglossary[type=acronym,title={Abkürzungen},nonumberlist=true]
 

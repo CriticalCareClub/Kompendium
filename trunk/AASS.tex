@@ -83,7 +83,7 @@ footnotes=multiple,
 % unit (e.g. chapter). This will make the glossaries appear in the named
 % sectional unit, otherwise each glossary will appear in a chapter, if chapters
 % exist, otherwise in a section.
-section=chapter,
+section=section,
 % The glossaries are placed in unnumbered sectional units by default,
 % but this can be changed using numberedsection. This option can take
 % three possible values: false (no number, i.e. use starred form), nolabel (numbered,
@@ -97,14 +97,14 @@ numberedsection=autolabel,
 % This is a boolean option that specifies whether each term has a hyperlink
 % on first use.
 hyperfirst=false,
-style=listgroup,
+style=list,
 % By default, the glossaries package sanitizes the values of the name, description
 % and symbol keys used when defining a new glossary entry. This means that you can
 % use fragile commands in those keys, but it may lead to unexpected results if you
 % try to display these values within the document text. This sanitization can be
 % switched off using the sanitize package option. You can use sanitize=none as a
 % shortcut for sanitize={name=false,description=false,symbol=false}.
-sanitize=none,
+% sanitize=none,
 acronym,
 % By default, only the acronym glossary is considered to be a list of
 % acronyms. If you have other lists of acronyms, you can specify them as a
@@ -117,6 +117,7 @@ nolong,
 \glsSetCompositor{/}
 \renewcommand{\glspostdescription}{}
 \renewcommand{\glstextformat}[1]{\T{#1}}
+\newglossary{licenses}{glo-licenses-in}{glo-licenses-out}{Lizenzen}
 
 \usepackage[normalem]{ulem}
 
@@ -124,6 +125,7 @@ nolong,
 \input{./inputs/glossar-Termini.tex}
 \input{./inputs/glossar-Abkz.tex}
 \input{./inputs/glossar-m.tex}
+\input{./inputs/glossar-Lizenzen.tex}
 
 
 \makeglossaries
@@ -180,15 +182,15 @@ bindingoffset=1.5cm}
 
 \opt{STATUS-DRAFT}{
 
-{\small
-\listof{todo}{Verzeichnis der TODO's}
-}
+% {\small
+% \listof{todo}{Verzeichnis der TODO's}
+% }
 {\small
 \listof{warning}{Verzeichnis der Warnungen}
 }
-{\small
-\listof{error}{Verzeichnis der Fehler}
-}
+% {\small
+% \listof{error}{Verzeichnis der Fehler}
+% }
 }
 
 
@@ -278,70 +280,58 @@ handelt.
 \noindent{}{\scriptsize \textbf{Vorabversionen:} 0.2.0 2009-07 / 0.4.0 2009-09
 / 0.6.0 2009-10 / 0.8.0 2010-01}
 
-\paragraph{Lizenzen} In den AASS werden Inhalte (Bilder, Texte, \ldots) mit
-folgenden Lizenzen wiederverwendet:
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TODO Lizenzen, verwendete: Vervollständigen
-\ERROR{GABS}{yyyy-mm-dd}{Lizenzen, verwendete: Vervollständigung
-notwendig.}{Vervollständigung notwendig! \par Dieser Teil ist unvollständig, 
-   er benötigt eine Überarbeitung!}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{multicols}{2}
-{\scriptsize
 
 
-% \begin{compactdesc}
-\subparagraph{CC} Creative-Commons-Lizenzen
+% \begin{multicols}{2}
+% {\scriptsize
+% 
+% 
+% % \begin{compactdesc}
+% \subparagraph{CC} Creative-Commons-Lizenzen, nicht näher spzifiziert.
+% 
+% \subparagraph{CC-BY} \emph{"`Creative-Commons Attribution Unported."'}
+%   \begin{inparadesc}
+%     \item[Lizenztext (Link):]
+%     Version 1.0: \url{http://creativecommons.org/licenses/by/1.0/};
+%     Version 2.0: \url{http://creativecommons.org/licenses/by/2.0/};
+%     Version 2.1: \url{http://creativecommons.org/licenses/by/2.1/};
+%     Version 2.5: \url{http://creativecommons.org/licenses/by/2.5/};
+%     Version 3.0: \url{http://creativecommons.org/licenses/by/3.0/}.
+%     \item[Kurzfassung (ohne Gewähr):] "`You let others copy, distribute,
+%     display, and perform your copyrighted work — and derivative works based
+%     upon it — but only if they give credit the way you request."'
+%   \end{inparadesc}  
+%   
+% \subparagraph{CC-BY-.at-3.0} \emph{"`Creative-Commons Namensnennung 3.0
+%   Österreich"'},
+%   \begin{inparadesc}
+%     \item[Lizenztext (Link):]
+%     \url{http://creativecommons.org/licenses/by/3.0/at/}
+%     \item[Kurzfassung (ohne Gewähr):] \emph{Sie dürfen:}
+%     \begin{inparaitem}
+%       \item das Werk vervielfältigen, verbreiten und öffentlich zugänglich machen
+%       \item Bearbeitungen des Werkes anfertigen;
+%     \end{inparaitem}
+%     \emph{Zu den folgenden Bedingungen:}
+%     \begin{inparaitem}
+%       \item  Namensnennung: Sie müssen den Namen des Autors/Rechteinhabers in
+%       der von ihm festgelegten Weise nennen.
+%     \end{inparaitem}
+%   \end{inparadesc}
+% 
+% \subparagraph{CC-BY-NC}
+% 
+% \subparagraph{CC-BY-ND}
+% 
+% \subparagraph{CC-BY-NC-ND}
+%   
+% \subparagraph{PD} \emph{"`Gemeinfrei"'}, \emph{"`Public Domain"'}. Die
+% Gemeinfreiheit bezeichnet alle Werke, die keinem Urheberrecht mehr unterliegen oder ihm nie
+%   unterlegen haben. Das im angloamerikanischen Raum anzutreffende Public Domain
+%   ist ähnlich, aber nicht identisch mit der europäischen Gemeinfreiheit.
+%   \url{http://de.wikipedia.org/wiki/Gemeinfreiheit}
 
-\subparagraph{CC-BY} \emph{"`Creative-Commons Attribution Unported."'}
-  \begin{inparadesc}
-    \item[Lizenztext (Link):]
-    Version 1.0: \url{http://creativecommons.org/licenses/by/1.0/};
-    Version 2.0: \url{http://creativecommons.org/licenses/by/2.0/};
-    Version 2.1: \url{http://creativecommons.org/licenses/by/2.1/};
-    Version 2.5: \url{http://creativecommons.org/licenses/by/2.5/};
-    Version 3.0: \url{http://creativecommons.org/licenses/by/3.0/}.
-    \item[Kurzfassung (ohne Gewähr):] "`You let others copy, distribute,
-    display, and perform your copyrighted work — and derivative works based
-    upon it — but only if they give credit the way you request."'
-  \end{inparadesc}  
-  
-\subparagraph{CC-BY-.at-3.0} \emph{"`Creative-Commons Namensnennung 3.0
-  Österreich"'},
-  \begin{inparadesc}
-    \item[Lizenztext (Link):]
-    \url{http://creativecommons.org/licenses/by/3.0/at/}
-    \item[Kurzfassung (ohne Gewähr):] \emph{Sie dürfen:}
-    \begin{inparaitem}
-      \item das Werk vervielfältigen, verbreiten und öffentlich zugänglich machen
-      \item Bearbeitungen des Werkes anfertigen;
-    \end{inparaitem}
-    \emph{Zu den folgenden Bedingungen:}
-    \begin{inparaitem}
-      \item  Namensnennung: Sie müssen den Namen des Autors/Rechteinhabers in
-      der von ihm festgelegten Weise nennen.
-    \end{inparaitem}
-  \end{inparadesc}
 
-\subparagraph{CC-BY-NC}
-
-\subparagraph{CC-BY-ND}
-
-\subparagraph{CC-BY-NC-ND}
-  
-\subparagraph{PD} \emph{"`Gemeinfrei"'}, \emph{"`Public Domain"'}. Die
-Gemeinfreiheit bezeichnet alle Werke, die keinem Urheberrecht mehr unterliegen oder ihm nie
-  unterlegen haben. Das im angloamerikanischen Raum anzutreffende Public Domain
-  ist ähnlich, aber nicht identisch mit der europäischen Gemeinfreiheit.
-  \url{http://de.wikipedia.org/wiki/Gemeinfreiheit}
-
-
-\Ca{Die Auflistung dieser Lizenzen bedeutet \underline{nicht}, dass die \AASS{}
-als Ganzes unter diesen Lizenzen lizensiert sind!}  
-  }
-% \end{compactdesc}
-\end{multicols}
 
 
 
@@ -593,7 +583,7 @@ Kritik maßgeblich an der kontinuierlichen Verbesserung beteiligt haben.
 \\\addlinespace
 \TabSub{Entwicklungsumgebung}
 &
-Eclipse Ganymed mit Texlipse- und JGit-Plugin,
+Eclipse Ganymed mit Texlipse- und JGit/EGit-Plugin,
 Texmaker
 \\\addlinespace
 \TabSub{Versionsverwaltung}
@@ -966,7 +956,54 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 % \pagenumbering[Appendix]{bychapter}
 
 
+\chapter{Verzeichnisse}
 
+
+\glsaddall[types={\acronymtype,licenses}]
+
+
+
+\renewcommand{\glossarypreamble}{
+  \begin{gWideParEnv}
+  \begin{multicols}{3}
+  }
+\renewcommand{\glossarypostamble}{
+  \end{multicols}
+  \end{gWideParEnv}
+  }
+
+
+\renewcommand{\glossarypreamble}{
+  \noindent In den AASS werden Inhalte (Bilder, Texte, \ldots) mit
+  folgenden Lizenzen wiederverwendet:
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  % TODO Lizenzen, verwendete: Vervollständigen
+  \TODOCRITICAL{GABS}{yyyy-mm-dd}{Lizenzen, verwendete: Vervollständigung
+  notwendig.}{Vervollständigung notwendig! \par Dieser Teil ist unvollständig, 
+  er benötigt eine Überarbeitung!}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \noindent\Ca{Die Auflistung dieser Lizenzen bedeutet \underline{nicht}, dass
+  die
+  \AASS{} als Ganzes unter diesen Lizenzen lizensiert sind!}  
+  \begin{gWideParEnv}
+  \begin{multicols}{3}
+  }
+
+
+
+\printglossary[type=licenses,title={Lizenzen},nonumberlist=true]
+
+\noindent\Ca{Die Auflistung dieser Lizenzen bedeutet \underline{nicht}, dass die
+\AASS{} als Ganzes unter diesen Lizenzen lizensiert sind!}  
+
+\renewcommand{\glossarypreamble}{
+  \begin{gWideParEnv}
+  \begin{multicols}{3}
+  }
+
+  
+
+\printglossary[type=acronym,title={Abkürzungen},nonumberlist=true]
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -991,7 +1028,7 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 
 
 % \include{./chapters/chapter-INT}
-\include{./chapters/inc-APP}
+
 
 % \clearpage
 % \chapter{Glossar}
@@ -1002,6 +1039,13 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 %   \item[Hygiene]
 % \end{description}
 
+
+
+
+\setglossarysection{chapter}
+
+\printglossary[type=main,title={Lexikon}]
+
 \clearpage
 % \begin{gWideParEnv}
 {\small
@@ -1009,20 +1053,7 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 }
 % \end{gWideParEnv}
 
-\glsaddall[types={\acronymtype}]
-
-\renewcommand{\glossarypreamble}{
-\begin{gWideParEnv}
-\begin{multicols}{3}
-}
-\renewcommand{\glossarypostamble}{
-\end{multicols}
-\end{gWideParEnv}
-}
-
-\printglossary[type=acronym,title={Abkürzungen},nonumberlist=false]
-
-\printglossary[type=main,title={Lexikon}]
+\include{./chapters/inc-APP}
 
 
 SO LONG..........

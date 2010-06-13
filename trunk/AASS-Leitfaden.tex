@@ -1,4 +1,12 @@
-\documentclass[ngerman,paper=a4,fontsize=8pt,headings=small,draft=no,parskip=half,noonelinecaption]{scrreprt}
+\documentclass[
+ngerman,
+paper=a4,
+fontsize=8pt,
+headings=small,
+draft=no,
+parskip=half,
+noonelinecaption
+]{scrbook}
 % \setlength{\voffset}{-15pt}
 % \setlength{\textheight}{720pt}
 % \setlength{\marginparwidth}{5cm}
@@ -83,7 +91,7 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
-\usepackage[svgnames,hyperref]{xcolor}
+% \usepackage[svgnames,hyperref]{xcolor}
 % \definecolor{pink}{rgb}{1,0.5,0.5}
 % \definecolor{LightSkyBlue}{rgb}{0.5,0.5,1}
 % \definecolor{MidnightBlue}{rgb}{0,0,0.5}
@@ -128,18 +136,18 @@ lmargin=13mm,
 rmargin=70mm,
 % outer  = 56mm,
 % inner  = 56mm,
-top    = 25mm,
-bottom = 20mm,
-% hmarginratio=2:1,
+top    = 20mm,
+bottom = 15mm,
+% % hmarginratio=2:1,
 marginparwidth = 60mm,
-% headheight=0.5cm,
-% headsep=0.5cm,
-footskip = 10mm,
+% % headheight=0.5cm,
+% % headsep=0.5cm,
+footskip = 5mm,
 % includehead,
 bindingoffset=1.5cm]
 {geometry}
 \usepackage{layout,calc}
-\usepackage[strict]{changepage}
+% \usepackage[strict]{changepage}
 %\usepackage{gmeometric}
 
 
@@ -180,31 +188,36 @@ bindingoffset=1.5cm]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Headings
 
 % %\setkomafont{disposition}{\mdseries\sffamily\fontfamily{augie}\selectfont}
-\setkomafont{captionlabel}{\mdseries\rmfamily\bfseries}
-% \setkomafont{caption}{\mdseries\rmfamily}
+\setkomafont{disposition}{\mdseries\sffamily\bfseries}
+\setkomafont{captionlabel}{\mdseries\upshape\bfseries}
+\setkomafont{caption}{\mdseries\itshape}
 \setkomafont{subject}{\mdseries\Huge\itshape}
-% \addtokomafont{part}{\Huge\color{darkBlue}}
-% \addtokomafont{partnumber}{\Huge\color{ubuntured}}
-% %\addtokomafont{chapter}{\Huge\sffamily\fontfamily{phv}\bfseries\color{ubuntured}}
-% \addtokomafont{section}{\Huge\rmfamily\fontfamily{lmdh}\selectfont\color{ubuntured}}
-% \addtokomafont{subsection}{\huge\rmfamily\fontfamily{lmdh}\selectfont\color{ubuntured}}
-% \addtokomafont{subsubsection}{\LARGE\rmfamily\fontfamily{lmdh}\selectfont\color{darkBlue}}
-% \addtokomafont{paragraph}{\large\sffamily\color{darkBlue}}
-% \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
-% \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
+\setkomafont{descriptionlabel}{\bfseries}
 
-
-
-\addtokomafont{part}{\Huge\color{darkBlue}}
-\addtokomafont{partnumber}{\Huge\color{ubuntured}}
-
-\addtokomafont{chapter}{\Huge\sffamily\fontfamily{phv}\bfseries\color{ubuntured}}
-\addtokomafont{section}{\Huge\color{ubuntured}}
-\addtokomafont{subsection}{\huge\color{ubuntured}}
-\addtokomafont{subsubsection}{\LARGE\color{ubuntured!80}}
-\addtokomafont{paragraph}{\large\color{darkBlue}}
+\addtokomafont{part}{\Huge\color{DefaultB}}
+\addtokomafont{partnumber}{\Huge\color{DefaultContrast}}
+% chapter wird nach Paket quotechp gesetzt
+% \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}} 
+\addtokomafont{section}{\LARGE\color{DefaultA}}
+% \addtokomafont{section}{\ocrfamily\selectfont\huge\color{DefaultA}}
+\addtokomafont{subsection}{\Large\color{DefaultA}}
+% \addtokomafont{subsection}{\ocrfamily\selectfont\LARGE\color{DefaultA}}
+\addtokomafont{subsubsection}{\large\color{DefaultA!80}}
+% \addtokomafont{subsubsection}{\ocrfamily\large\color{DefaultA!80}}
+% \addtokomafont{subsubsection}{\LARGE\color{DefaultB}}
+% \addtokomafont{subsubsection}{\LARGE\color{black}}
+\addtokomafont{paragraph}{\scalefont{1.1}\color{DefaultB}}
 \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 % \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
+
+\setkomafont{section}{\usefont{T1}{lmss}{bx}{n}\selectfont\LARGE\color{DefaultA}}
+\setkomafont{subsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\Large\color{DefaultA}}
+\setkomafont{subsubsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\large\color{DefaultA!80}}
+\setkomafont{paragraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\scalefont{1.1}\color{DefaultB}}
+\setkomafont{subparagraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\normalsize\color{black}}
+
+\setkomafont{labelinglabel}{\bfseries}
+\setkomafont{labelingseparator}{\normalfont}
 
 
 
@@ -1098,120 +1111,56 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 % } 
 
 
-\paragraph{Simple Textauszeichnungen}~
-
-\begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
-\TabHeading{Befehl} & \TabHeading{Beschreibung}
-\\\midrule
-\lstinline$\Es{Hallo}$
-& 
-starke Betonung \Z{(emphasis, strong)}
-
-Sind jetzt serifenlos und fett.
-&
-\Es{starke Betonung}
-\\\addlinespace
-\lstinline$\E{}$
-&
-schwache Betonung \Z{(emphasis)}
-&
-\E{schwache Betonung}
-\\\addlinespace
-\lstinline$\T{}$
-&
-Terminus
-
-&
-\T{Terminus}
-\\\addlinespace
-\lstinline$\Z{}$
-&
-Zusatzinfo
-&
-\Z{Zusatzinfo}
-\\\addlinespace
-\lstinline$\H{}$
-&
-Handschrift
-&
-\H{Handschrift}
-\\\addlinespace
-
-&
-
-&
-
-\\\bottomrule
-\end{tabular}
+% \paragraph{Simple Textauszeichnungen}~
+% 
+% \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}
+% \toprule\addlinespace
+% \TabHeading{Befehl} & \TabHeading{Beschreibung}
+% \\\addlinespace\midrule\addlinespace
+% \lstinline$\Es{Hallo}$
+% & 
+% starke Betonung \Z{(emphasis, strong)}
+% 
+% Sind jetzt serifenlos und fett.
+% &
+% \Es{starke Betonung}
+% \\\addlinespace
+% \lstinline$\E{}$
+% &
+% schwache Betonung \Z{(emphasis)}
+% &
+% \E{schwache Betonung}
+% \\\addlinespace
+% \lstinline$\T{}$
+% &
+% Terminus
+% 
+% &
+% \T{Terminus}
+% \\\addlinespace
+% \lstinline$\Z{}$
+% &
+% Zusatzinfo
+% &
+% \Z{Zusatzinfo}
+% \\\addlinespace
+% \lstinline$\H{}$
+% &
+% Handschrift
+% &
+% \H{Handschrift}
+% \\\addlinespace
+% 
+% &
+% 
+% &
+% 
+% \\\bottomrule
+% \end{tabular}
 
 \paragraph{Standardlayouts}~
 
-\begin{gWideParEnv}
-\begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
-\TabHeading{Befehl} & \TabHeading{Beschreibung}
-\\\midrule\addlinespace
-\vspace{-1\medskipamount}
 
-\begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-\Layout
-{1: Nummer}
-{2: Ueberschrift}
-{3: Fliesstext}
-{4: Stichworte}
-{5: Bild-Pfad/Objekt}
-{6: Bild/Objekt-Beschreibung}
-{7: credits}
-\end{lstlisting}
-&
-Standardlayout
-% \\\addlinespace
-% \vspace{-1\medskipamount}
-% 
-% \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-% \Married
-% {
-%  % #1: Fliesstext
-% }{
-%  % #2: Stichworte
-% }
-% \end{lstlisting}
-% &
-% Verheirateter Text. Die Rechte Spalte ist die Kurzfassung
-% von der linken Spalte und soll in etwa einer
-% Präsentations-Folie entsprechen 
-% \\\addlinespace
-% \vspace{-1\medskipamount}
-% 
-% \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-% \MarriedNG
-% {
-%  % #1: Ueberschrift
-% }{
-%  % #2: Fliesstext
-% }{
-%  % #3: Stichworte
-% }
-% \end{lstlisting}
-% &
-% Verheirateter Text mir Paragraphenüberschrift. Die Rechte Spalte ist die
-% Kurzfassung von der linken Spalte und soll in etwa einer
-% Präsentations-Folie entsprechen 
-% \\\addlinespace
-% \vspace{-1\medskipamount}
-% 
-% \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-% \Parallel{
-%  % li. Spalte
-% }{
-%  % re. Spalte 
-% }
-% \end{lstlisting}
-% &
-% wie \lstinline$\Married$, der Inhalt von rechter und
-% linker Spalte hat jedoch keinen Bezug zueinander 
-\\\bottomrule
-\end{tabular}
-\end{gWideParEnv}
 
 
 
@@ -1286,9 +1235,11 @@ Bla!
 
 
 \aBox{Beispiel}{Befehl}{black}
-{
-
-Text}
+{%
+Ein Mann ging von \E{Jerusalem} nach \E{Jericho} hinab und wurde von Räubern
+überfallen. Sie plünderten ihn aus und \E{schlugen ihn nieder}; dann gingen sie
+weg und ließen ihn \E{halbtot} liegen.
+}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
@@ -1309,9 +1260,11 @@ Bla!
 
 
 \aBox{Beispiel}{Befehl}{black}
-{
-
-Text}
+{%
+Ein Mann ging von \Es{Jerusalem} nach Jericho hinab und wurde von Räubern
+überfallen. Sie plünderten ihn aus und schlugen ihn nieder; dann gingen sie weg und ließen
+ihn halbtot liegen.
+}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
@@ -1327,13 +1280,13 @@ die Definition geändert, s.u.}
   \item[Beschreibung:]
   \item[Ja:] Terminus-Formatierungen sollen nur mehr angewendet werden
   wenn der entsprechende Begriff an der Stelle erklärt wird! Sonst soll auch
-  ein Fachbegriff normal formatiert werden, wenn eine Hervorhebung geünscht
-  ist kommen z.B. die starke Betunung oder die schwache
+  ein Fachbegriff normal formatiert werden, wenn eine Hervorhebung gewünscht
+  ist kommen z.B. die starke Betonung oder die schwache
   Betonung -- wie im normalen Text -- in Frage.
   \item[Nein:] Begriffe, die an der Stelle nicht
   abschließend erklärt werden. Lange Begriffe bei denen ein Zeilenumbruch
   nötig ist.
-  \item[Anmerkungen:] Die didaktische Überlgung ist dass für den Leser
+  \item[Anmerkungen:] Die didaktische Überlegung ist dass für den Leser
   nachvollziehbar sein soll dass der Begriff an dieser Stelle neu ist und er
   hier erklärt wird (und er an dieser Stelle zu lernen ist).
   \item[Formatierung:] Wie starke Hervorhebungen formatiert,
@@ -1347,8 +1300,7 @@ die Definition geändert, s.u.}
 
 
 \aBox{Beispiel}{Terminus -- \Code{\tbs T\{\}}}{black}
-{
-
+{%
 Es kann zu einer Loslösung von Teilen des Thrombus kommen, dieser
 losgelöste Teil wird \T{Embolus} genannt.}
 
@@ -1376,9 +1328,9 @@ Bla!
 
 
 \aBox{Beispiel}{Befehl}{black}
-{
-
-Text}
+{%
+\Code{Patient sitzend vorgefunden.}
+}
 
 
 
@@ -1407,8 +1359,7 @@ Bla!
 
 
 \aBox{Beispiel}{Cave}{black}
-{
-
+{%
  \Ca{Nitro kann zu einer rapiden Senkung des Blutdrucks
     führen!}}
 
@@ -1440,9 +1391,9 @@ Handschriftliche Notiz!
 
 
 \aBox{Beispiel}{Handschrift}{black}
-{
-
-\H{Das ist eine Handschrift!}}
+{%
+\H{Das ist eine Handschrift!}
+}
 
 
 
@@ -1473,34 +1424,6 @@ ttfamily\}}}
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
-\section{Kommentare, Notizen und Tags für Autoren und Entwickler}
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
-\subsubsection{Allgemeine Autorennotizen -- \Code{\tbs A\{\}}}\marginpar{\T{\tbs
-gA\{\}}}
-
-% Bla!
-% \begin{labeling}[~--]{Formatierung~~~}
-%   \item[Syntax:] \lstinline$\T{<text>}$
-%   \item[Beschreibung:]
-%   \item[Ja:] 
-%   \item[Nein:] 
-%   \item[Anmerkungen:] 
-%   \item[Formatierung:] 
-%   \item[Cave:] 
-% \end{labeling}
-% 
-% 
-% \aBox{Beispiel}{Befehl}{black}
-% {
-% 
-% Text}
-
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
@@ -1527,13 +1450,79 @@ gA\{\}}}
 }
 \end{lstlisting}
 
+% \begin{gWideParEnv}
+% \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
+% \TabHeading{Befehl} & \TabHeading{Beschreibung}
+% \\\midrule\addlinespace
+% \vspace{-1\medskipamount}
+% 
+% \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+% \Layout
+% {1: Nummer}
+% {2: Ueberschrift}
+% {3: Fliesstext}
+% {4: Stichworte}
+% {5: Bild-Pfad/Objekt}
+% {6: Bild/Objekt-Beschreibung}
+% {7: credits}
+% \end{lstlisting}
+% &
+% Standardlayout
+% % \\\addlinespace
+% % \vspace{-1\medskipamount}
+% % 
+% % \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+% % \Married
+% % {
+% %  % #1: Fliesstext
+% % }{
+% %  % #2: Stichworte
+% % }
+% % \end{lstlisting}
+% % &
+% % Verheirateter Text. Die Rechte Spalte ist die Kurzfassung
+% % von der linken Spalte und soll in etwa einer
+% % Präsentations-Folie entsprechen 
+% % \\\addlinespace
+% % \vspace{-1\medskipamount}
+% % 
+% % \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+% % \MarriedNG
+% % {
+% %  % #1: Ueberschrift
+% % }{
+% %  % #2: Fliesstext
+% % }{
+% %  % #3: Stichworte
+% % }
+% % \end{lstlisting}
+% % &
+% % Verheirateter Text mir Paragraphenüberschrift. Die Rechte Spalte ist die
+% % Kurzfassung von der linken Spalte und soll in etwa einer
+% % Präsentations-Folie entsprechen 
+% % \\\addlinespace
+% % \vspace{-1\medskipamount}
+% % 
+% % \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+% % \Parallel{
+% %  % li. Spalte
+% % }{
+% %  % re. Spalte 
+% % }
+% % \end{lstlisting}
+% % &
+% % wie \lstinline$\Married$, der Inhalt von rechter und
+% % linker Spalte hat jedoch keinen Bezug zueinander 
+% \\\bottomrule
+% \end{tabular}
+% \end{gWideParEnv}
 
 
 \begin{gWideParEnv}
 \begin{minipage}{\linewidth}
 \Captionof{table}{Standardlayouts}
 
-\begin{tabular}{rp{10cm}l}
+\begin{tabular}{rp{10cm}l}\toprule\addlinespace
 \noindent\TabHeading{\#}
 &
 \noindent\TabHeading{Beschreibung}
@@ -1663,487 +1652,12 @@ Seite}}
 \end{minipage}
 \end{gWideParEnv}
 
-% \subsubsection{Textlastige Layouts}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 1}\marginpar{\T{\tbs MarriedLi\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-%     \item[Syntax:]
-%     \lstinline$\MarriedNG{<Paragraphenueberschrift>}{<Fliesstext>}{<Stichworte>}$
-%     \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung
-% von der linken Spalte und soll in etwa einer
-% Präsentations-Folie entsprechen    
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% 
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 2 -- ohne Überschrift}\marginpar{\T{\tbs
-% gMarriedLii\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] Die Rechte Spalte ist die Kurzfassung von der linken Spalte und soll in etwa einer Präsentations-Folie entsprechen.
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% \subsubsection{Layouts mit Bild}
-% 
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 11 -- Mit Teaser}\marginpar{\T{\tbs MarriedLxi\{\}\{\}\{\}\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] Mit Teaser-Bild.
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 12 -- Mit Teaser ohne Überschrift}\marginpar{\T{\tbs MarriedLxi\{\}\{\}\{\}\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] Mit Teaser-Bild, ohne Überschrift.
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 13 -- Mit Bild}\marginpar{\T{\tbs
-% gMarriedLxii\{\}\{\}\{\}\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] Mit größerem Bild.
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 14 -- Mit Bild, ohne Überschrift}\marginpar{\T{\tbs
-% gMarriedLxii\{\}\{\}\{\}\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] Mir größerem Bild, ohne Überschrift.
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 15 -- Nur Bild}\marginpar{\T{\tbs
-% gMarriedLxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] Nur Bild.
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 16 -- Nur Bild ohne Überschrift}\marginpar{\T{\tbs
-% gMarriedLxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] Nur Bild, ohne Überschrift.
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% \subsubsection{Textlastige Layouts über gesamte Seite}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 31}\marginpar{\T{\tbs MarriedLxxxi\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-%     \item[Syntax:]
-%     \lstinline$\MarriedNG{<Paragraphenueberschrift>}{<Fliesstext>}{<Stichworte>}$
-%     \item[Beschreibung:] 
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% 
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 32}\marginpar{\T{\tbs MarriedLxxxii\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] 
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% 
-% \subsubsection{Layouts mit Bild über gesamte Seite}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 41 -- Mit Bild und Punkten} \marginpar{\T{\tbs
-% gMarriedLxli\{\}\{\}\{\}\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] 
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 42 -- Mit Bild und Punkten, ohne Überschrift}
-% \marginpar{\T{\tbs MarriedLxlii\{\}\{\}\{\}\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] 
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 43 -- Mit Bild, Punkten und Fließtext}
-% \marginpar{\T{\tbs MarriedLxliii\{\}\{\}\{\}\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] 
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 44 -- Mit Bild, Punkten und Fließtext, ohne
-% Überschrift} \marginpar{\T{\tbs MarriedLxxxii\{\}\{\}\{\}\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] 
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 45 -- Nur Bild (und Beschriftung)}
-% \marginpar{\T{\tbs MarriedLxxxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] 
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \paragraph{Standardlayout 46 -- Nur Bild (und Beschriftung), ohne Überschrift}
-% \marginpar{\T{\tbs MarriedLxxxiii\{\}\{\}\{\}\{\}\{\}\{\}}}~
-% 
-% \begin{description}
-% %     \item[Syntax:] \lstinline$\Married{<text>}$
-%     \item[Beschreibung:] 
-% %     \item[Anwendung:]
-% %     \item[Nicht anzuwenden bei:]
-% %     \item[Anmerkungen:] 
-% %     \item[Cave:]
-% %     
-% %     \item[Formatierung:]
-% %     \item[Beispiel:]
-% \end{description}
-% 
-% 
-% 
-% \begin{minipage}{0.48\linewidth}
-% 
-% \end{minipage}
-% \hspace{0.04\linewidth}
-% \begin{minipage}{0.48\linewidth}
-% \begin{lstlisting}
-% 
-% \end{lstlisting}
-% \end{minipage}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 \clearpage
-\subsection{Spezielle Bereiche}
+\section{Spezielle Bereiche}
 
 \begin{minipage}{0.48\linewidth}
 Ergebnis
@@ -2205,12 +1719,14 @@ gFazit\{\}}}
 \end{description}
 
 \begin{lstlisting}
-\Fazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine enstprechende  Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
+\Fazit{Diese Aussage fasst etwas zusammen oder trifft eine Aussage die Speziell
+hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine entsprechende 
+Bedeutung haben. Wir sind froh die rote Fahne zu haben! }
 \end{lstlisting}
 
-\Fazit{Diese Aussage fasst etwas zusammen oder trift eine Aussage die Speziell
-hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine enstprechende
-Bedeutng haben. Wir sind froh die rote Fahne zu haben! }
+\Fazit{Diese Aussage fasst etwas zusammen oder trifft eine Aussage die Speziell
+hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine entsprechende
+Bedeutung haben. Wir sind froh die rote Fahne zu haben! }
 
 
 
@@ -2339,6 +1855,55 @@ Dies ist eine Cave-Box!
 Die Cave-Box kann auch mit der \Ca{\tbs Ca\{\}-Formatierung} kombiniert werden!
 }
 
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\section{Kommentare, Notizen und Tags für Autoren und Entwickler}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Allgemeine Autorennotizen -- \Code{\tbs A\{\}}}\marginpar{\T{\tbs
+gA\{\}}}
+
+% Bla!
+% \begin{labeling}[~--]{Formatierung~~~}
+%   \item[Syntax:] \lstinline$\T{<text>}$
+%   \item[Beschreibung:]
+%   \item[Ja:] 
+%   \item[Nein:] 
+%   \item[Anmerkungen:] 
+%   \item[Formatierung:] 
+%   \item[Cave:] 
+% \end{labeling}
+% 
+% 
+% \aBox{Beispiel}{Befehl}{black}
+% {
+% 
+% Text}
+
+
+
+
+
+
+
+
+
+
+
+
 % \subsection{Textkürzel}
 % 
 % \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
@@ -2368,118 +1933,118 @@ Die Cave-Box kann auch mit der \Ca{\tbs Ca\{\}-Formatierung} kombiniert werden!
 
 
 
-\chapter{Showroom}
-
-\section{}
-
-\subsection{}
-
-
-
-\section{Unfälle durch Strom- und Blitzschlag}
-
-\marginpar{\includegraphics[width=\linewidth]{./images/electricity_japan.jpg}
-\small\emph{Foto: Fina}}
-
-Stromunfälle kommen typischerweise in folgenden Situationen vor:
-\begin{itemize}
-	\item Spielende Jugendliche oder Arbeiter auf Eisenbahnwagons
-	\item LKW-Hebekräne oder Bagger geraten in Freileitungen
-	\item Unachtsamer Umgang mit Elektrogeräten im Badezimmer
-	\item Unsachgemäße Reparatur von Elektrogeräten
-	\item Arbeitsunfälle (Elektriker, Heimwerker)
-	\item Tragen von  Metallteilen in der Nähe von Hochspannungsleitungen
-\end{itemize}
-
-\subsubsection{Allgemeines zum elektrischen Strom und seine
-Wirkung auf den Körper} 
-
-Die Gefährdung bei Stromunfällen
-hängt von verschiedenen Faktoren ab:
-\begin{itemize}
-	\item \Es{Elektrische Spannung:} Die elektrische Spannung
-	ist die Ursache für den elektrischen Stromfluss und wird
-	in der Einheit Volt (V) gemessen. Wie gefährlich eine Spannung ist hängt nicht nur von der Höhe der Spannung selbst, sondern wesentlich auch vom elektrischen Strom, der von ihr hervorgerufen wird, ab. So kann z.B. die 12 V-Spannung einer Modelleisenbahn völlig ungefährlich sein, gibt es jedoch im Auto bei einer (großen) 12 V-Batterie einen Kurzschluss, kann ein gefährlich großer Strom fließen!
-		\begin{itemize}
-		\item \T{Niederspannung}: Von Niederspannung spricht man bei Spannungen bis 1000 V. An einer Autobatterie liegt eine Spannung von 12 V. An einer Steckdose liegt eine Spannung von 230 V, in Industriebetrieben wird zusätzlich oft eine Spannung von 400 V verwendet. Diese Spannungen sind auf jeden Fall lebensgefährlich. \Z{Ein Defibrillator schockt mit etwa 1000 V (!), ein externer Herzschrittmacher arbeitet mit bis zu 400 V.}
-		\item \T{Hochspannung}: Hochspannung ist eine Spannung über 1000 V. \Z{Über Hochspannungsleitungen wird die elektrische Energie mit einer Spannung von 110 000 V (= 110 kV) bis 380 000 V (= 380 kV) übertragen. An den Oberleitungen der Eisenbahn liegen 15 000 V (= 15 kV). Bei Gewitterblitzen treten Spannungen von 10-30 Millionen Volt (10-30 Megavolt) auf.}
-		\end{itemize}
-	\item \Es{Elektrische Stromstärke:} Elektrischer Strom ist der Fluss von Elektronen. Die treibende Kraft hinter dem Stromfluss ist die elektrische Spannung. Der elektrische Strom wird durch die elektrische Stromstärke beschrieben, welche mit der Einheit Ampere (A) gemessen wird. Kommt es zu einem Stromunfall ist die Schädigung im Körper von der Höhe der Stromstärke abhängig \footnote{Die Werte beziehen sich auf Wechselstrom, die Grenzwerte für Gleichstrom sind höher. Da oft die Stromart nicht bekannt ist, ist es prinzipiell sinnvoll von der gefährlicheren Stromart auszugehen!}:
-\Z{
-		\begin{itemize}
-		\item Bei geringen Stromstärken \Es{unter 1 Milliampere (mA)} ist nur ein elektrischer Schlag spürbar.
-		\item Bei Stromstärken \Es{ab ca. 10 Milliampere (mA)} kommt es zu Schmerzempfindungen und Muskelkontraktionen. \cite{Jaros1}
-		\item Bei Stromstärken \Es{ab 15-25 mA} kommt es aufgrund der Muskelkontraktionen zu krampfhaften Festhalten der berührten Stromquelle. \cite{BoehmerTaschRett6}
-		\item Stromstärken \Es{ab 25-50 mA} sind \Es{lebensgefährlich}! \cite{BoehmerTaschRett6}
-		\item Stromstärken \Es{ab 80 mA} führen zu Atemlähmungen und Kammerflimmern! \cite{Jaros1}
-		\item Stromstärken \Es{ab 3 A} führen zusätzlich zu Verbrennungen, Verkochungen und Verkohlungen. \cite{LPN3}
-		\end{itemize}
-}
-	\item \Es{Elektrischer Widerstand:} Jeder Körper und
-	jeder Stoff setzt dem elektrischen Stromfluss einen
-	Widerstand entgegen. Dieser elektrische Widerstand wird in
-	Ohm ($\Omega$) gemessen. Je größer der Widerstand eines
-	Körpers, desto kleiner ist der elektrische Strom. Trockene
-	Haut hat einen elektrischen Widerstand von 100 000 Ohm,
-	\Es{feuchte Haut hat einen geringeren Widerstand} von
-	weniger als 1000 Ohm. Der Widerstand von geschädigter
-	(z.B. verbrannter) Haut ist noch geringer. \Z{Greift man z.B. mit feuchten Händen in die Steckdose (230 V) so stellt sich durch den Körperwiderstand von ca. 1000 Ohm ein elektrischer Strom der Stärke 230 mA ein.}\footnote{Der Leser kann dies durch das Ohmsche Gesetz leicht selbst nachrechnen! Die Spannung $U$ ist das Produkt aus dem Widerstand $R$ und der elektrischen Stromstärke $I$: $U=R \cdot I$} Diese Stromstärke ist absolut lebensgefährlich, wie man aus der Übersicht oben schnell entnehmen kann.
-	\item \Es{Einwirkdauer:} Je länger die Einwirkzeit (Kontaktzeit), desto größer ist die Schädigung.
-	\item \Es{Stromweg:} Die Schädigung im Körper hängt auch vom Weg des Stromes durch den Körper ab. Fließt der Strom z.B. von einer Hand zur anderen Hand durch den Körper ist dies gefährlicher, als wenn der Strom von einer Hand zum Fuß fließt.
-	\item \Es{Stromart:} Wechselstrom ist gefährlicher als Gleichstrom. An den Steckdosen im Haushalt liegt Wechselspannung an. Dieser ändert die Stromrichtung 50 mal pro Sekunde (\Z{Frequenz = 50 Hz}), weshalb die Wahrscheinlichkeit für Kammerflimmern auch bei kurzen Stromkontakten steigt. \cite{RedelsteinerHRNS1} \footnote{Bei monophasischen Defibrillatoren wird mit Gleichstrom gearbeitet, biphasische Defibrillatoren polen die Stromrichtung einmal um (Wechselstrom).} 
-\end{itemize}
-
-\AuthNotes{\#9: EMHOFER: Bilder von verschiedenen
-Steckdosen, Kabel und Hinweisschildern einfügen}
-
-%\T{Niederspannung}: bis 1000\,Volt (Steckdose:  230 Volt)
-%\T{Hochspannung}: \"uber 1000\,Volt, Stromst\"arke
-%{\textgreater}  3 Ampere (\"Uberlandleitungen) 
-
-\subsubsection{Besonderer Gefahrenbereich}
-\index{Gefahrenbereich!Strom}\label{topic:gefahrenbereich-strom}
-Starkstrom/Hochspannung durch Fachmann (E-Werk, ÖBB,
-Betriebsleitung, ...) abschalten bzw. erden lassen. 
-
-Strom
-gegen Wiedereinschalten sichern! Patient mit isolierendem
-Material aus dem Stromkreis befreien. Sicherheitsabstand zu
-stromführenden Freileitungen einhalten! 
-
-\subparagraph{Freileitungen}
-
-
-Bei Freileitungen mit
-220 000 Volt (220\,kV) sind mindestens 4\,m Abstand zu halten.
-\cite{Jaros1} 
-
-Bei herabhängenden Hochspannungsleitungen oder
-nach Blitzeinschlägen auf die Schrittspannung achten: Die
-Spannung fällt im Boden nicht sofort auf 0 Volt ab, innerhalb
-eines gewissen Umkreises kann daher zwischen den beiden
-Beinen am Boden eine so genannte Schrittspannung auftreten.
-Befinden Sie sich innerhalb eines solchen Gebietes lassen Sie
-Ihre Beine eng beisammen und springen aus diesem Bereich
-heraus. Je nach Bodenbeschaffenheit können Schrittspannungen
-bis zu einer Distanz von 20\,m von der herunterhängenden
-Hochspannungsleitung auftreten. \cite{RedelsteinerHRNS1} 
-
-\subparagraph{Bahnanlagen}
-Bei
-Notfällen auf Bahngleisen ist auf jeden Fall der
-Streckenabschnitt von der ÖBB sperren zu lassen (über die
-Leitstelle)! An den Masten der Oberleitungen der ÖBB sind
-entsprechende Mastennummer angebracht. Diese müssen bei der Leitstelle gemeldet
-werden. 
-
-Ähnliches gilt für Stadt- und U-Bahn-Anlagen. Da die Stromversorgung oft nicht
-durch eine Oberleitung, sondern durch andere Vorrichtungen in
-Bodennähe (Stromschiene, etc.) erfolgt, besteht auch bei intakten Anlagen die
-Gefahr eines Stromschlages, sofern die Gleisanlagen betreten werden. Als
-Traktionsspannung werden oft Spannungen um die 700\,V eingesetzt. \cite{U61989}
- 
-\subsection{nachher}
-
+% \chapter{Showroom}
+% 
+% \section{}
+% 
+% \subsection{}
+% 
+% 
+% 
+% \section{Unfälle durch Strom- und Blitzschlag}
+% 
+% \marginpar{\includegraphics[width=\linewidth]{./images/electricity_japan.jpg}
+% \small\emph{Foto: Fina}}
+% 
+% Stromunfälle kommen typischerweise in folgenden Situationen vor:
+% \begin{itemize}
+% 	\item Spielende Jugendliche oder Arbeiter auf Eisenbahnwagons
+% 	\item LKW-Hebekräne oder Bagger geraten in Freileitungen
+% 	\item Unachtsamer Umgang mit Elektrogeräten im Badezimmer
+% 	\item Unsachgemäße Reparatur von Elektrogeräten
+% 	\item Arbeitsunfälle (Elektriker, Heimwerker)
+% 	\item Tragen von  Metallteilen in der Nähe von Hochspannungsleitungen
+% \end{itemize}
+% 
+% \subsubsection{Allgemeines zum elektrischen Strom und seine
+% Wirkung auf den Körper} 
+% 
+% Die Gefährdung bei Stromunfällen
+% hängt von verschiedenen Faktoren ab:
+% \begin{itemize}
+% 	\item \Es{Elektrische Spannung:} Die elektrische Spannung
+% 	ist die Ursache für den elektrischen Stromfluss und wird
+% 	in der Einheit Volt (V) gemessen. Wie gefährlich eine Spannung ist hängt nicht nur von der Höhe der Spannung selbst, sondern wesentlich auch vom elektrischen Strom, der von ihr hervorgerufen wird, ab. So kann z.B. die 12 V-Spannung einer Modelleisenbahn völlig ungefährlich sein, gibt es jedoch im Auto bei einer (großen) 12 V-Batterie einen Kurzschluss, kann ein gefährlich großer Strom fließen!
+% 		\begin{itemize}
+% 		\item \T{Niederspannung}: Von Niederspannung spricht man bei Spannungen bis 1000 V. An einer Autobatterie liegt eine Spannung von 12 V. An einer Steckdose liegt eine Spannung von 230 V, in Industriebetrieben wird zusätzlich oft eine Spannung von 400 V verwendet. Diese Spannungen sind auf jeden Fall lebensgefährlich. \Z{Ein Defibrillator schockt mit etwa 1000 V (!), ein externer Herzschrittmacher arbeitet mit bis zu 400 V.}
+% 		\item \T{Hochspannung}: Hochspannung ist eine Spannung über 1000 V. \Z{Über Hochspannungsleitungen wird die elektrische Energie mit einer Spannung von 110 000 V (= 110 kV) bis 380 000 V (= 380 kV) übertragen. An den Oberleitungen der Eisenbahn liegen 15 000 V (= 15 kV). Bei Gewitterblitzen treten Spannungen von 10-30 Millionen Volt (10-30 Megavolt) auf.}
+% 		\end{itemize}
+% 	\item \Es{Elektrische Stromstärke:} Elektrischer Strom ist der Fluss von Elektronen. Die treibende Kraft hinter dem Stromfluss ist die elektrische Spannung. Der elektrische Strom wird durch die elektrische Stromstärke beschrieben, welche mit der Einheit Ampere (A) gemessen wird. Kommt es zu einem Stromunfall ist die Schädigung im Körper von der Höhe der Stromstärke abhängig \footnote{Die Werte beziehen sich auf Wechselstrom, die Grenzwerte für Gleichstrom sind höher. Da oft die Stromart nicht bekannt ist, ist es prinzipiell sinnvoll von der gefährlicheren Stromart auszugehen!}:
+% \Z{
+% 		\begin{itemize}
+% 		\item Bei geringen Stromstärken \Es{unter 1 Milliampere (mA)} ist nur ein elektrischer Schlag spürbar.
+% 		\item Bei Stromstärken \Es{ab ca. 10 Milliampere (mA)} kommt es zu Schmerzempfindungen und Muskelkontraktionen. \cite{Jaros1}
+% 		\item Bei Stromstärken \Es{ab 15-25 mA} kommt es aufgrund der Muskelkontraktionen zu krampfhaften Festhalten der berührten Stromquelle. \cite{BoehmerTaschRett6}
+% 		\item Stromstärken \Es{ab 25-50 mA} sind \Es{lebensgefährlich}! \cite{BoehmerTaschRett6}
+% 		\item Stromstärken \Es{ab 80 mA} führen zu Atemlähmungen und Kammerflimmern! \cite{Jaros1}
+% 		\item Stromstärken \Es{ab 3 A} führen zusätzlich zu Verbrennungen, Verkochungen und Verkohlungen. \cite{LPN3}
+% 		\end{itemize}
+% }
+% 	\item \Es{Elektrischer Widerstand:} Jeder Körper und
+% 	jeder Stoff setzt dem elektrischen Stromfluss einen
+% 	Widerstand entgegen. Dieser elektrische Widerstand wird in
+% 	Ohm ($\Omega$) gemessen. Je größer der Widerstand eines
+% 	Körpers, desto kleiner ist der elektrische Strom. Trockene
+% 	Haut hat einen elektrischen Widerstand von 100 000 Ohm,
+% 	\Es{feuchte Haut hat einen geringeren Widerstand} von
+% 	weniger als 1000 Ohm. Der Widerstand von geschädigter
+% 	(z.B. verbrannter) Haut ist noch geringer. \Z{Greift man z.B. mit feuchten Händen in die Steckdose (230 V) so stellt sich durch den Körperwiderstand von ca. 1000 Ohm ein elektrischer Strom der Stärke 230 mA ein.}\footnote{Der Leser kann dies durch das Ohmsche Gesetz leicht selbst nachrechnen! Die Spannung $U$ ist das Produkt aus dem Widerstand $R$ und der elektrischen Stromstärke $I$: $U=R \cdot I$} Diese Stromstärke ist absolut lebensgefährlich, wie man aus der Übersicht oben schnell entnehmen kann.
+% 	\item \Es{Einwirkdauer:} Je länger die Einwirkzeit (Kontaktzeit), desto größer ist die Schädigung.
+% 	\item \Es{Stromweg:} Die Schädigung im Körper hängt auch vom Weg des Stromes durch den Körper ab. Fließt der Strom z.B. von einer Hand zur anderen Hand durch den Körper ist dies gefährlicher, als wenn der Strom von einer Hand zum Fuß fließt.
+% 	\item \Es{Stromart:} Wechselstrom ist gefährlicher als Gleichstrom. An den Steckdosen im Haushalt liegt Wechselspannung an. Dieser ändert die Stromrichtung 50 mal pro Sekunde (\Z{Frequenz = 50 Hz}), weshalb die Wahrscheinlichkeit für Kammerflimmern auch bei kurzen Stromkontakten steigt. \cite{RedelsteinerHRNS1} \footnote{Bei monophasischen Defibrillatoren wird mit Gleichstrom gearbeitet, biphasische Defibrillatoren polen die Stromrichtung einmal um (Wechselstrom).} 
+% \end{itemize}
+% 
+% \AuthNotes{\#9: EMHOFER: Bilder von verschiedenen
+% Steckdosen, Kabel und Hinweisschildern einfügen}
+% 
+% %\T{Niederspannung}: bis 1000\,Volt (Steckdose:  230 Volt)
+% %\T{Hochspannung}: \"uber 1000\,Volt, Stromst\"arke
+% %{\textgreater}  3 Ampere (\"Uberlandleitungen) 
+% 
+% \subsubsection{Besonderer Gefahrenbereich}
+% \index{Gefahrenbereich!Strom}\label{topic:gefahrenbereich-strom}
+% Starkstrom/Hochspannung durch Fachmann (E-Werk, ÖBB,
+% Betriebsleitung, ...) abschalten bzw. erden lassen. 
+% 
+% Strom
+% gegen Wiedereinschalten sichern! Patient mit isolierendem
+% Material aus dem Stromkreis befreien. Sicherheitsabstand zu
+% stromführenden Freileitungen einhalten! 
+% 
+% \subparagraph{Freileitungen}
+% 
+% 
+% Bei Freileitungen mit
+% 220 000 Volt (220\,kV) sind mindestens 4\,m Abstand zu halten.
+% \cite{Jaros1} 
+% 
+% Bei herabhängenden Hochspannungsleitungen oder
+% nach Blitzeinschlägen auf die Schrittspannung achten: Die
+% Spannung fällt im Boden nicht sofort auf 0 Volt ab, innerhalb
+% eines gewissen Umkreises kann daher zwischen den beiden
+% Beinen am Boden eine so genannte Schrittspannung auftreten.
+% Befinden Sie sich innerhalb eines solchen Gebietes lassen Sie
+% Ihre Beine eng beisammen und springen aus diesem Bereich
+% heraus. Je nach Bodenbeschaffenheit können Schrittspannungen
+% bis zu einer Distanz von 20\,m von der herunterhängenden
+% Hochspannungsleitung auftreten. \cite{RedelsteinerHRNS1} 
+% 
+% \subparagraph{Bahnanlagen}
+% Bei
+% Notfällen auf Bahngleisen ist auf jeden Fall der
+% Streckenabschnitt von der ÖBB sperren zu lassen (über die
+% Leitstelle)! An den Masten der Oberleitungen der ÖBB sind
+% entsprechende Mastennummer angebracht. Diese müssen bei der Leitstelle gemeldet
+% werden. 
+% 
+% Ähnliches gilt für Stadt- und U-Bahn-Anlagen. Da die Stromversorgung oft nicht
+% durch eine Oberleitung, sondern durch andere Vorrichtungen in
+% Bodennähe (Stromschiene, etc.) erfolgt, besteht auch bei intakten Anlagen die
+% Gefahr eines Stromschlages, sofern die Gleisanlagen betreten werden. Als
+% Traktionsspannung werden oft Spannungen um die 700\,V eingesetzt. \cite{U61989}
+%  
+% \subsection{nachher}
+% 
 
 
 

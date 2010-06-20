@@ -79,6 +79,7 @@
 \newrefformat{sec}{\emph{\ref{#1}}}
 % \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
 % \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
+\newrefformat{chp}{Kap.~#1}
 \newrefformat{fig}{Abb.~#1}
 \newrefformat{tab}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
 \newrefformat{m}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
@@ -483,14 +484,14 @@ bindingoffset=1.5cm]
 %%% Beschriftungen
 % \renewcommand{\tableformat}{Tafel~\thetable\autodot}
 \newcommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
-\renewcommand{\tableformat}{{\SignTable}~\thetable\autodot}
+\renewcommand{\tableformat}{\noindent{\SignTable}~\thetable\autodot}
 
 % Non-floating captions
 \usepackage[
 % labelsep=newline,
 font={sf,bf},
 textfont={sf,md,it},
-singlelinecheck=false
+singlelinecheck=false,
 ]{caption}
 
 

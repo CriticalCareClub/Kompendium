@@ -9,13 +9,13 @@ Gefahrengutunfall]{[GEF]\\Gefahrenzonen, \\Gefahrentransporte,
 \TODO{GABS}{yyyy-mm-dd}{Layout-Anpassung notwendig.}{Dieser Teil entspricht nicht dem Standard-Layout!}
 
 
-\noindent\Parallel{
-% \includegraphics[width=\linewidth]{./images/noauth/AASdev20090228-img149.jpg}
-\includegraphics[width=\linewidth]{./icons/under-construction.png}
-}{
-% \includegraphics[width=\linewidth]{./images/noauth/AASdev20090228-img150.jpg}
-\includegraphics[width=\linewidth]{./icons/under-construction.png}
-}
+% \noindent\Parallel{
+% % \includegraphics[width=\linewidth]{./images/noauth/AASdev20090228-img149.jpg}
+% \includegraphics[width=\linewidth]{./icons/under-construction.png}
+% }{
+% % \includegraphics[width=\linewidth]{./images/noauth/AASdev20090228-img150.jpg}
+% \includegraphics[width=\linewidth]{./icons/under-construction.png}
+% }
 
 \TODO{GABS}{2010-04-27}{Bilder 2x Gefahrengutunfall/LKW}{}
 
@@ -271,6 +271,8 @@ Stoffnummer\par (\T{UN-Nummer})
  8 & \"Atzwirkung
 \\\addlinespace
  9 & Gefahr einer spontan heftigen Reaktion
+\\\addlinespace
+ {\sffamily X} & Reagiert gefährlich mit Wasser
 \\\addlinespace\bottomrule
 \end{tabular}
 \end{table}
@@ -279,13 +281,13 @@ Stoffnummer\par (\T{UN-Nummer})
 Die Verdopplung einer Ziffer weist auf die Zunahme der entsprechenden 
 Gefahr hin.
 
-X  vor der Nummer zur Kennzeichnung der Gefahr ${\rightarrow}$ Stoff
-reagiert in  gefährlicher Weise mit Wasser
+\Cave{Ein "`{\sffamily X}"'  vor der Nummer zur Kennzeichnung der Gefahr
+bedeutet, dass der Stoff in  gefährlicher Weise \Ca{mit Wasser reagiert}!}
 
 Wenn die Gefahr eines Stoffes ausreichend von einer einzigen Ziffer 
 angegeben werden kann, wird dieser Ziffer eine Null angefügt.
 
-Folgende Ziffernkombinationen haben eine besondere Bedeutung
+Folgende Ziffernkombinationen haben eine besondere Bedeutung:
 
 \begin{table}[H]
 \Captionof{table}{Spezielle Ziffernkombinationen bei der Gefahrennummer.}
@@ -379,6 +381,8 @@ Informationen angeben (Kemmler-Nummer, etc.)
 
 \subsection{Gefahr erkennen}
 
+{\TakeNotesLarge}
+
 
 \subsection{Absperrmaßnahmen durchführen}
 % TODO : Layout-Anpassung
@@ -409,7 +413,7 @@ verliert ihren Zweck!  \SourcePicture{Gabriel}}
 \end{gWideParEnv}
 \end{table}
 
-\TakeNotesLarge
+{\TakeNotesLarge}
 
 
 \subsection{Spezialkräfte anfordern}

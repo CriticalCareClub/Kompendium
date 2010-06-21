@@ -3,7 +3,7 @@ ngerman,
 paper=a4,
 asymmetric,
 fontsize=9pt,
-headings=small,
+% headings=small,
 draft=false,
 parskip=false,
 % listof=totoc,         % verschiebt Minitoc/Hyperref
@@ -248,11 +248,12 @@ Druckwerken erfolgt durch den autorisierten Nutzer.
 
 {\scriptsize %
 \begin{description}
-  \item[0.2.0] 2009-07 (VV)
-  \item[0.4.0] 2009-09 (VV)
-  \item[0.6.0] 2009-10 (VV)
-  \item[0.8.0] 2010-01 (VV)
-  \item[0.10.0] 2010-06 (VV)
+  \item[0.2.0] 2009-07 (VV\footnote{Vorabversion}, 349 Änderungen\footnote{Seit
+  Übernahme in das Versionsverwaltungssystem.})
+  \item[0.4.0] 2009-09 (VV, 284 Änderungen)
+  \item[0.6.0] 2009-10 (VV, 322 Änderungen)
+  \item[0.8.0] 2010-01 (VV, 653 Änderungen)
+  \item[0.10.0] 2010-06 (VV, ~900)
 \end{description}
 }
 \end{description}
@@ -313,8 +314,8 @@ nicht geschlossen werden, dass es sich um einen freien Warennamen
 handelt.
 \end{multicols}
 
-\noindent{}{\scriptsize \textbf{Vorabversionen:} 0.2.0 2009-07 / 0.4.0 2009-09
-/ 0.6.0 2009-10 / 0.8.0 2010-01 / 0.10.0 2010-06}
+% \noindent{}{\scriptsize \textbf{Vorabversionen:} 0.2.0 2009-07 / 0.4.0 2009-09
+% / 0.6.0 2009-10 / 0.8.0 2010-01 / 0.10.0 2010-06}
 
 
 
@@ -844,7 +845,7 @@ Endproduktion: Ubuntu Linux 10.04 \textit{"`Lucid Lynx"'},
 \end{multicols}
 \end{gWideParEnv}
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
-\dominitoc
+\dominitoc[n]
 
 % {\sffamily\Large\color{DefaultA}
 % \begin{tabular}{cl}
@@ -1068,6 +1069,7 @@ Endproduktion: Ubuntu Linux 10.04 \textit{"`Lucid Lynx"'},
 % \end{multicols}
 % \end{gWideParEnv}
 
+\opt{STATUS-DRAFT}{
 \subsection*{Projektorthographie}
 
 \subsubsection*{Abkürzungen und Kurzwörter}
@@ -1083,6 +1085,7 @@ Kapitälchen, ohne Abstand oder Punkte geschrieben. Zum Beispiel: \Abk{IV} (intr
 Schriftart nicht möglich ist, wird die Schreibweise mit Punkten und halbem
 Abstand (Achtelgeviert, sofern möglich) gewählt; z.\,B.: {\ttfamily i.\,v.,
 i.\,m.}
+}
 
 \opt{STATUS-EXPERIMENTAL}{
 \paragraph{dfklnsdalf} dfgfd  sdafmkladfm df dflkgdslfkg dsflkgj dslfkg ldfskjg lkdsfjg lkdsfjgl ksdfghjo irtlksn lknoklsfdng odfs godsfi godsfg lkdsfg jlfsdkng lfsnhlkfgnh lkfgnh lfdgn hlfdgh fdgh ghjdgfh jgfhj fghj ghj hjkhfjgk hjgzj zt
@@ -1229,7 +1232,7 @@ utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 
 
 
-\setglossarysection{chapter}
+% \setglossarysection{chapter}
 
 % \printglossary[type=main,title={Lexikon}]
 

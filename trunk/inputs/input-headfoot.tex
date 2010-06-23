@@ -21,9 +21,10 @@
 \fancyfoot[RO]{{\noindent\AASS{}~ \itshape v.\,\DocVersion}}
 \fancyfoot[LE]{{\noindent\AASS{}~ \itshape v.\,\DocVersion}}
 %%% DRAFT %%%
-\fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\small
-\upshape{\DocVersionTyp} | Nur für den internen
-Gebrauch!}}
+% \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\small
+% \upshape{\DocVersionTyp} | Nur für den internen
+% Gebrauch!}}
+
 % 
 % % {\tiny
 % % Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny
@@ -31,7 +32,9 @@ Gebrauch!}}
 % }}
 %
 % %%% FINAL %%%
-% \fancyfoot[CE,CO]{\Es{{\itshape {\DocVersionTyp} -- Nur für den internen Gebrauch!}}}
+\fancyfoot[CE,CO]{{{\tiny {\DocVersionTyp} | Nur für den internen
+Gebrauch!}}}
+
 \fancyfoot[RE]{{\noindent\DocGitCommitTiny}}
 \fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
 % % %

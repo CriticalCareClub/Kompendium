@@ -576,22 +576,37 @@ sort&compress, % as sort but in addition multiple numerical citations are
 % % overfull hboxes but helps with some hyperref problems.
 ]{natbib}
 
-%\usepackage{chapterbib} % Literaturverzeichnisse für Kapitel
-
-% \ChapterBibliography muss in der jeweiligen Kapiteldatei aufgerufen werden
-% um dort ein entsprechend formatiertes Literaturverzeichnis zu erstellen.
+% \usepackage[sectionbib]{chapterbib} % Literaturverzeichnisse für Kapitel
+% 
+% % \ChapterBibliography muss in der jeweiligen Kapiteldatei aufgerufen werden
+% % um dort ein entsprechend formatiertes Literaturverzeichnis zu erstellen.
 % \newcommand{\ChapterBibliography}
-% 	{\bibliographystyle{babunsrt}
-% 	\begin{multicols}{2}
-%     	{
-%     		\scriptsize
-%     		\setlength{\parskip}{1pt}
-%     		\bibliography{./Literatur-AASS}
-%     	}
-%     \end{multicols}
-% 	}
+% 	{\bibliographystyle{babunsrt-fl}
+% 	    {
+%     \loadgeometry{FullPage}\twocolumn
+% %     \sffamily\itshape
+% %       \begin{multicols}{2}
+% 
+%         \scriptsize
+%         \setlength{\parskip}{1pt}
+%         \bibliography{Literatur-AASS}
+% %       \end{multicols}
+% 
+% 
+%     \restoregeometry
+%     }
+% %    \end{gWideParEnv}
+%    \onecolumn
+% % 	\begin{multicols}{2}
+% %     	{
+% %     		\scriptsize
+% %     		\setlength{\parskip}{1pt}
+% %     		\bibliography{./Literatur-AASS}
+% %     	}
+% %     \end{multicols}
+%  	}
 
-\newcommand{\ChapterBibliography}{}
+\newcommand{\ChapterBibliography}{\relax}
 
 
 \usepackage[version=3]{mhchem}

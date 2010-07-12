@@ -157,6 +157,15 @@ toc=flat,
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
+% % When you want to set only the table of contents of a document in two (or
+% % more columns), there is one known way1: Add an
+% % \addtocontents{toc}{\protect\begin{multicols}{2}}
+% % before the \tableofcontents and an
+% % \addtocontents{toc}{\protect\end{multicols}}
+% % at the end of the document. This way your .toc will start with
+% % \begin{multicols}{2} and end with \end{multicols}.
+% \addtocontents{toc}{\protect\begin{multicols}{2}}
+
 \nobibliography*
 
 \newgeometry{verbose,
@@ -197,20 +206,11 @@ bindingoffset=1.5cm}
 
 
 \opt{STATUS-DRAFT}{
-
-% {\small
-% \listof{todo}{Verzeichnis der TODO's}
-% }
 {\small
 \listof{warning}{Verzeichnis der Warnungen}
 }
-% {\small
-% \listof{error}{Verzeichnis der Fehler}
-% }
 }
 
-
-% \listoffixmes
 \restoregeometry
 %\nocite{*} 
 
@@ -845,14 +845,24 @@ Endproduktion: Ubuntu Linux 10.04 \textit{"`Lucid Lynx"'},
 
 
 \begin{gWideParEnv}
-% 2 Spalten, macht erst Sinn wenn Seite ohne Rand ist.
-\begin{multicols}{2}
 \setcounter{tocdepth}{2}
 \shorttableofcontents{Übersicht}{0}
-\end{multicols}
 \end{gWideParEnv}
+
+
+% {
+% \loadgeometry{FullPage}\twocolumn
+% \setcounter{tocdepth}{2}
+% \shorttableofcontents{Übersicht}{0}
+% \onecolumn\restoregeometry
+% }
+
+
+
+
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
 \dominitoc[n]
+% \setcounter{tocdepth}{3}
 
 % {\sffamily\Large\color{DefaultA}
 % \begin{tabular}{cl}
@@ -912,31 +922,23 @@ Endproduktion: Ubuntu Linux 10.04 \textit{"`Lucid Lynx"'},
 % \end{tabular}
 % }
 \begin{gWideParEnv}
-\begin{multicols}{2}
 {\scriptsize
 \tableofcontents
 }
-\end{multicols}
 \end{gWideParEnv}
 
-%\end{multicols}
-% 2\setcounter{tocdepth}{3}
-% %\renewcommand\contentsname{Inhalt - Detail\"ubersicht}
-% \tableofcontents
 
-% \begin{multicols}{2}
+
+
 % {\small
 % \listoffigures
 % }
-% \end{multicols}
-% 
-% 
-% \begin{multicols}{2}
+
+
 \opt{STATUS-DRAFT}{
 {\small
 \listoftables}
 }
-% \end{multicols}
 
 {\small
 \listof{massnahmen}{Verzeichnis der Maßnahmen}
@@ -1257,4 +1259,5 @@ SO LONG..........
 
 AND THANKS FOR ALL THE FISH
 
+% \addtocontents{toc}{\protect\end{multicols}}
 \end{document}

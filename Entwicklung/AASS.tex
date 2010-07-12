@@ -11,12 +11,16 @@ parskip=half,
 % index=totoc,
 % noonelinecaption
 footnotes=multiple,
+toc=flat,
 ]{scrbook}
 % \setlength{\parindent}{1.5em}
 \usepackage{scrhack}
 
 % UTF-8 Schriftkodierung
 \usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}
+% get rid of the "no room for new \ldots"
+% standard TeX registers are limitied to 256, etex increases the max.
+\usepackage{etex}
 
 \pdfcompresslevel=9 
 \pdfimageresolution=72

@@ -26,28 +26,56 @@
 \usepackage[
 % tight,
 ]{shorttoc}
-\usepackage{titletoc}
-%%% --- BEGIN --- %%%
-\titlecontents{chapter} [5pc]
-   {\addvspace{1.0pc}\bfseries
-%    \titlerule[0.5pt]\filright\addvspace{1mm}
-   }
-   {\sffamily\contentslabel
-      [{\sffamily\bfseries\color{DefaultContrastA}\chaptername{}~
-       \thecontentslabel}]{4pc}}
-   {}{\hfill\contentspage}
-   [\addvspace{0.5pc}]
+%
+% % When you want to set only the table of contents of a document in two (or
+% % more columns), there is one known way1: Add an
+% % \addtocontents{toc}{\protect\begin{multicols}{2}}
+% % before the \tableofcontents and an
+% % \addtocontents{toc}{\protect\end{multicols}}
+% % at the end of the document. This way your .toc will start with
+% % \begin{multicols}{2} and end with \end{multicols}.
+%
+% \usepackage[toc]{multitoc}
 
-\titlecontents{part} [5pc]
-   {\addvspace{1.0pc}\bfseries
-   \color{AliceBlue}\titlerule[1pt]\filright\addvspace{1mm}
-   }
-   {\sffamily\color{DefaultContrastA}\large\contentslabel
-      [{\sffamily\bfseries\color{ubuntured}\partname{}~
-       \thecontentslabel}]{4pc}}
-   {}{\hfill\contentspage}
-   [\addvspace{0.5pc}]
-%%% --- END --- %%%
+% increase width for large page numbers in TOC
+\makeatletter 
+\renewcommand*{\@pnumwidth}{4em}
+\makeatother
+
+% /part ohne Seitenzahl im TOC?
+% http://mrunix.de/forums/showthread.php?t=61596
+\makeatletter
+\let\partbackup\l@part
+\renewcommand*\l@part[2]{\partbackup{#1}{}}
+\makeatother
+
+\makeatletter
+\let\chapterbackup\l@chapter
+\renewcommand*\l@chapter[2]{\chapterbackup{#1}{}}
+\makeatother
+
+% \usepackage{titletoc}
+% %%% --- BEGIN --- %%%
+% \titlecontents{chapter} [5pc]
+%    {\addvspace{1.0pc}\bfseries
+% %    \titlerule[0.5pt]\filright\addvspace{1mm}
+%    }
+%    {\sffamily\contentslabel
+%       [{\sffamily\bfseries\color{DefaultContrastA}\chaptername{}~
+%        \thecontentslabel}]{4pc}}
+%    {}{\hfill\contentspage}
+%    [\addvspace{0.5pc}]
+% 
+% \titlecontents{part} [5pc]
+%    {\addvspace{1.0pc}\bfseries
+%    \color{AliceBlue}\titlerule[1pt]\filright\addvspace{1mm}
+%    }
+%    {\sffamily\color{DefaultContrastA}\large\contentslabel
+%       [{\sffamily\bfseries\color{ubuntured}\partname{}~
+%        \thecontentslabel}]{4pc}}
+%    {}{\hfill\contentspage}
+%    [\addvspace{0.5pc}]
+% %%% --- END --- %%%
 \usepackage{makeidx}
 \setcounter{secnumdepth}{3}
 % LaTeX-Begleiter S.676

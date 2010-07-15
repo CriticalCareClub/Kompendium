@@ -322,8 +322,11 @@ footskip = 7mm,
 
 % %\setkomafont{disposition}{\mdseries\sffamily\fontfamily{augie}\selectfont}
 \setkomafont{disposition}{\mdseries\sffamily\bfseries}
-\setkomafont{captionlabel}{\mdseries\upshape\bfseries}
-\setkomafont{caption}{\mdseries\itshape}
+% % font for captionlabel and caption are set by the caption package.
+% \setkomafont{captionlabel}{\mdseries\upshape\bfseries\small}
+% \setkomafont{caption}{\mdseries\small}
+\setkomafont{captionlabel}{}
+\setkomafont{caption}{}
 \setkomafont{subject}{\mdseries\Huge\itshape}
 
 \setkomafont{descriptionlabel}{\sffamily\bfseries}
@@ -555,10 +558,13 @@ footskip = 7mm,
 
 % Non-floating captions
 \usepackage[
-% labelsep=newline,
-font={sf,bf},
-textfont={sf,md,it},
+format=plain,
+labelsep=endash,
+font={sf,md,small},
+labelfont={sf,bf,small},
+textfont={sf,md,small},
 singlelinecheck=false,
+skip=1pt,
 ]{caption}
 
 

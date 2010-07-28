@@ -1,7 +1,7 @@
 #TeXlipse project settings
-#Thu Apr 29 14:13:59 CEST 2010
+#Mon Jun 28 14:08:07 CEST 2010
 builderNum=2
-outputDir=out/
+outputDir=Ausgabe/
 makeIndSty=
 bibrefDir=
 outputFormat=pdf
@@ -10,4 +10,4 @@ mainTexFile=AASS.tex
 outputFile=AASS.pdf
 langSpell=de
 markDer=true
-srcDir=trunk
+srcDir=Entwicklung

@@ -1,0 +1,680 @@
+\hbadness=9000
+% Sprachunterstützung 
+% Mehrere Sprachen für angepasstes Literaturverzeichnis (babelbib) 
+\usepackage[english,german,ngerman]{babel}
+% Internationales Literaturverzeichnis
+\usepackage{babelbib}
+\setbtxfallbacklanguage{english}
+
+% Logik
+\usepackage{ifthen}
+
+% test
+%\usepackage{flafter}
+% 
+
+% http://mrunix.de/forums/showthread.php?p=301707
+% Abstand zwischen Absätzen in minipage-Umgebung:
+\makeatletter
+\newcommand*{\@minipagerestore}{\parskip@update}
+\makeatother
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Verzeichnisse
+\usepackage[
+% tight,
+]{shorttoc}
+%
+% % When you want to set only the table of contents of a document in two (or
+% % more columns), there is one known way1: Add an
+% % \addtocontents{toc}{\protect\begin{multicols}{2}}
+% % before the \tableofcontents and an
+% % \addtocontents{toc}{\protect\end{multicols}}
+% % at the end of the document. This way your .toc will start with
+% % \begin{multicols}{2} and end with \end{multicols}.
+%
+% \usepackage[toc]{multitoc}
+
+% increase width for large page numbers in TOC
+\makeatletter 
+\renewcommand*{\@pnumwidth}{4em}
+\makeatother
+
+% /part ohne Seitenzahl im TOC?
+% http://mrunix.de/forums/showthread.php?t=61596
+% \makeatletter
+% \let\partbackup\l@part
+% \renewcommand*\l@part[2]{\partbackup{#1}{}}
+% \makeatother
+% 
+% \makeatletter
+% \let\chapterbackup\l@chapter
+% \renewcommand*\l@chapter[2]{\chapterbackup{#1}{}}
+% \makeatother
+
+% \usepackage{titletoc}
+% %%% --- BEGIN --- %%%
+% \titlecontents{chapter} [5pc]
+%    {\addvspace{1.0pc}\bfseries
+% %    \titlerule[0.5pt]\filright\addvspace{1mm}
+%    }
+%    {\sffamily\contentslabel
+%       [{\sffamily\bfseries\color{DefaultContrastA}\chaptername{}~
+%        \thecontentslabel}]{4pc}}
+%    {}{\hfill\contentspage}
+%    [\addvspace{0.5pc}]
+% 
+% \titlecontents{part} [5pc]
+%    {\addvspace{1.0pc}\bfseries
+%    \color{AliceBlue}\titlerule[1pt]\filright\addvspace{1mm}
+%    }
+%    {\sffamily\color{DefaultContrastA}\large\contentslabel
+%       [{\sffamily\bfseries\color{ubuntured}\partname{}~
+%        \thecontentslabel}]{4pc}}
+%    {}{\hfill\contentspage}
+%    [\addvspace{0.5pc}]
+% %%% --- END --- %%%
+\usepackage{makeidx}
+\setcounter{secnumdepth}{3}
+% LaTeX-Begleiter S.676
+\makeatletter
+\renewenvironment{theindex}
+   {
+   \begin{gWideParEnv}
+   ~
+
+   \begin{multicols}{3}[\chapter{\indexname}]
+      \setlength\parindent{0pt}\setlength\parskip{0pt}\let\item\@idxitem
+   }
+   {
+   \end{multicols}
+   \end{gWideParEnv}
+   }
+\makeatother
+
+% Hat man den Wunsch, auf eine Fußnote mehrfach zu verweisen, bietet LATEX dafür keine direkte Möglichkeit.
+% Man muss hier die folgende Definition, eingerahmt von \makeatletter und \makeatother, in den Vorspann des Dokuments einfügen.
+% Im Text muss bei der Fußnote, auf die ein zweites mal verwiesen werden soll, ein Label (hier: \label{fn:wichtig})eingefügt werden.
+% Mit \footref{fn:wichtig} verweist man dann ein weiteres mal auf sie.
+% http://www2.informatik.hu-berlin.de/~piefel/LaTeX-PS/Archive-2004/V07-footnote.pdf
+\makeatletter
+\providecommand*{\footref}[1]{% \begingroup 
+\unrestored@protected@xdef\@thefnmark{\ref{#1}}% \endgroup 
+\@footnotemark}
+\makeatother
+
+\usepackage{prettyref}
+\newrefformat{sec}{\emph{\ref{#1}}}
+% \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
+% \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
+\newrefformat{chp}{Kap.~#1}
+\newrefformat{fig}{Abb.~#1}
+\newrefformat{tab}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
+\newrefformat{m}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
+\newrefformat{topic}{\Pointinghand\,\ref{#1}}
+
+\usepackage[AASS,stylelayout]{aass-common}
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Seitenlayout
+\usepackage[
+verbose,
+a4paper,
+asymmetric,
+% reversemp,
+includemp,   % incl. marginpar
+includehead, % incl. header
+includefoot, % incl. footer
+inner  = 11mm,
+outer  = 11mm,
+top    = 10mm,
+bottom =  8mm,
+bindingoffset=15mm,
+marginparwidth = 60mm,
+footskip = 7mm,
+% % headheight=0.5cm,
+% % headsep=0.5cm,
+% showframe,
+]
+{geometry}
+
+
+% \usepackage[
+% verbose,
+% a4paper,
+% asymmetric,
+% % reversemp,
+% % includemp,
+% % tmargin=25mm,
+% % bmargin=20mm,
+% lmargin=13mm,
+% rmargin=70mm,
+% % outer  = 56mm,
+% % inner  = 56mm,
+% top    = 20mm,
+% bottom = 15mm,
+% % % hmarginratio=2:1,
+% marginparwidth = 60mm,
+% % % headheight=0.5cm,
+% % % headsep=0.5cm,
+% footskip = 5mm,
+% % includehead,
+% bindingoffset=1.5cm,
+% showframe
+% ]
+% {geometry}
+
+
+
+
+
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%% Symbole
+% \usepackage{textcomp,marvosym,txfonts,skull}
+% 
+% % resolv symbol clashes 
+% \usepackage{savesym}
+% \savesymbol{checkmark}
+% \savesymbol{Cross} % ifsym
+% \savesymbol{Sun} % ifsym
+% \savesymbol{Lightning} % ifsym
+% \usepackage[geometry,alpine,weather]{ifsym}
+% \usepackage{dingbat}
+% \restoresymbol{DINGBAT}{checkmark}
+
+
+
+% \usepackage{scrindex}
+\makeindex
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Tabellen
+% \usepackage{array}
+% \usepackage{booktabs}
+% \usepackage{longtable}
+%\usepackage{supertabular}
+% \usepackage{xtab}
+% \usepackage{tabularx,tabulary}
+% \usepackage{multicol,multirow}
+% \usepackage{hhline}
+
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%% Textauszeichnungen
+% \usepackage{soul}
+% \usepackage{soulutf8}
+% \usepackage{scalefnt}
+
+
+
+
+
+
+
+%%% Tables
+
+\usepackage{boxedminipage}
+
+\usepackage{layout}
+% \usepackage{calc}
+% \usepackage[strict]{changepage}
+%\usepackage{gmeometric}
+% \eometry{verbose,
+% a4paper,
+% asymmetric,
+% % tmargin=25mm,
+% % bmargin=20mm,
+% % lmargin=56mm,
+% % rmargin=56mm,
+% % outer  = 56mm,
+% % inner  = 56mm,
+% % top    = 25mm,
+% % bottom = 20mm,
+% marginparwidth = 40mm,
+% % headheight=0.5cm,
+% % headsep=0.5cm,
+% footskip = 10mm,
+% % includehead,
+% includemp,
+% bindingoffset=1.5cm
+% }
+
+
+\newlength{\Textspalte}
+\newlength{\Randspalte}
+\newlength{\Trenner}
+\newlength{\Korrektur}
+\setlength{\Textspalte}{\textwidth}
+\setlength{\Randspalte}{\marginparwidth}
+\setlength{\Trenner}{6pt}
+\setlength{\Korrektur}{{\fboxrule} + {\fboxsep}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Pargragraphensatzregeln
+%Dann darst du die parskip und \parindent gar nicht verändern, sondern Koma Script in der Klasse die entsprechende Option übergeben. 
+%\setlength{\parindent}{0pt}
+%\setlength{\parskip}{5pt}
+\raggedbottom
+\tolerance=1000
+\emergencystretch=10pt
+%schusterjungen
+% Disable single lines at the start of a paragraph (Schusterjungen)
+%\clubpenalty = 10000
+%
+% Disable single lines at the end of a paragraph (Hurenkinder)
+%\widowpenalty = 10000 \displaywidowpenalty = 10000
+
+\usepackage{fancybox}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Schriftarten
+%\usepackage[scaled]{helvet} 
+%%% Latin Modern                                                       
+\usepackage{lmodern}
+% \usepackage{yfonts}
+% % The package yfonts.sty supports the following fonts:
+% % 
+% % ygoth    Gotisch            from <ctan>/fonts/gothic/ygoth
+% % yswab    Schwabacher             <ctan>/fonts/gothic/yswab
+% % yfrak    Fraktur                 <ctan>/fonts/gothic/yfrak
+% % ysmfrak  Fraktur (variant)       <ctan>/fonts/gothic/yfrak
+% % yinitas  initials                <ctan>/fonts/gothic/yinit
+
+
+\usepackage{ocr}
+
+
+% \renewcommand{\rmdefault}{lmr} % Latin Modern Roman 
+\renewcommand{\rmdefault}{lmr} % Latin Modern Roman 
+%\renewcommand{\bfdefault}{b} % bold und nciht bold extended
+\renewcommand{\sfdefault}{lmss} % Latin Modern Sans Serif
+\renewcommand{\ttdefault}{lmtt} % Latin Modern Typewriter
+% \renewcommand{\ttdefault}{ocrb} % OCR-B
+
+
+
+% \renewcommand{\rmdefault}{ugm} % URW Garamond
+% \renewcommand{\sfdefault}{uop} % URW Utopia
+% \renewcommand{\sfdefault}{pag} % Adobe Avantgarde
+% \renewcommand{\sfdefault}{phv} % Adobe Helvetica
+% \renewcommand{\ttdefault}{pcr}
+% \renewcommand{\bfseries}{\fontseries{b}\selectfont}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Überschriften
+
+% %\setkomafont{disposition}{\mdseries\sffamily\fontfamily{augie}\selectfont}
+\setkomafont{disposition}{\mdseries\sffamily\bfseries}
+% % font for captionlabel and caption are set by the caption package.
+% \setkomafont{captionlabel}{\mdseries\upshape\bfseries\small}
+% \setkomafont{caption}{\mdseries\small}
+\setkomafont{captionlabel}{}
+\setkomafont{caption}{}
+\setkomafont{subject}{\mdseries\Huge\itshape}
+
+\setkomafont{descriptionlabel}{\sffamily\bfseries}
+\setkomafont{labelinglabel}{\sffamily\bfseries}
+\setkomafont{labelingseparator}{\normalfont}
+
+\addtokomafont{part}{\Huge\color{DefaultB}}
+\addtokomafont{partnumber}{\Huge\color{DefaultContrast}}
+% chapter wird nach Paket quotechp gesetzt
+% \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}} 
+% \addtokomafont{section}{\LARGE\color{DefaultA}}
+% \addtokomafont{section}{\ocrfamily\selectfont\huge\color{DefaultA}}
+% \addtokomafont{subsection}{\Large\color{DefaultA}}
+% \addtokomafont{subsection}{\ocrfamily\selectfont\LARGE\color{DefaultA}}
+% \addtokomafont{subsubsection}{\large\color{DefaultA!80}}
+% \addtokomafont{subsubsection}{\ocrfamily\large\color{DefaultA!80}}
+% \addtokomafont{subsubsection}{\LARGE\color{DefaultB}}
+% \addtokomafont{subsubsection}{\LARGE\color{black}}
+% \addtokomafont{paragraph}{\scalefont{1.1}\color{DefaultB}}
+% \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
+% \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
+
+\setkomafont{section}{\usefont{T1}{lmss}{bx}{n}\selectfont\LARGE\color{DefaultA}}
+\setkomafont{subsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\Large\color{DefaultA}}
+\setkomafont{subsubsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\large\color{DefaultA!80}}
+\setkomafont{paragraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\scalefont{1.1}\color{DefaultB}}
+\setkomafont{subparagraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\normalsize\color{black}}
+
+
+
+
+% User page numbering with chapter number in it
+
+% \renewcommand{\thechapter}{\Alph{chapter}}
+
+% \renewcommand{\thechapter}{{\ttfamily\Alph{chapter}}}
+% \renewcommand{\thesection}{{\color{DefaultA}\thechapter .\arabic{section}}}
+% \renewcommand{\thesubsection}{{\color{DefaultA}\thesection .\arabic{subsection}}}
+% \renewcommand{\thesubsection}{{\color{aassgrey}\thesection.}\arabic{subsection}}
+\renewcommand{\thesubsubsection}{{\thesubsection .\alph{subsubsection}}}
+
+
+
+% No bottom titles !!!
+\usepackage[nobottomtitles]{titlesec}
+\renewcommand{\bottomtitlespace}{.10\textheight}
+
+% \titleformat{\section}[rightmargin]{\usefont{T1}{lmss}{bx}{n}\selectfont\LARGE\color{DefaultA}}{}{0em}{}
+% \titleformat{\section}{\large\scshape\raggedright}{}{1em}{}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Floats
+\usepackage{wrapfig,picins}
+
+% watches margin paragraphs and
+% gives warnings
+%\usepackage{mparhack} 
+
+% \usepackage[algo2e,algochapter]{algorithm}
+% \usepackage{listings}
+\usepackage{float}
+
+
+
+\usepackage{hyperref}
+
+% \newcommand{\url}[1]{\ttfamily #1}
+
+\newfloat{massnahmen}{h}{rx}[chapter]
+\floatname{massnahmen}{\ovalbox{\sffamily M}}
+% \newfloat{todo}{h}{2do}[chapter]
+% \floatname{todo}{\color{OrangeRed}\ovalbox{\sffamily TODO}}
+\newfloat{warning}{h}{war}[chapter]
+\floatname{warning}{\color{OrangeRed}\ovalbox{\sffamily NOTIZ}}
+% \newfloat{error}{h}{err}[chapter]
+% \floatname{error}{\ovalbox{\sffamily ERROR}}
+
+\usepackage[grey,helvetica]{quotchap}
+%\renewcommand{\sectfont}{\large\color{DefaultA}\sffamily\fontfamily{phv}\selectfont}
+\definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
+\definecolor{chaptergrey}{named}{DefaultContrast}
+% \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
+% \newenvironment{savequote}{}{}
+
+% \usepackage[Rejne]{fncychap}
+% \ChNameVar{\centering\LARGE\sf} 
+% \ChNumVar{\Huge\color{DefaultB}} 
+% \ChTitleVar{\centering\Large\sf\color{DefaultA}}
+% \ChRuleWidth{2pt} 
+% \ChNameUpperCase
+% % \ChNumVar{\fontsize{76}{80}\usefont{OT1}{lmdh}{m}{n}\selectfont\color{DefaultB}}
+\addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}}
+
+% \addtokomafont{chapter}{\fontfamily{lmdh}\selectfont\Huge\color{DefaultA}}
+
+
+
+% % http://texblog.net/latex/layout/
+% \usepackage{tikz}
+% % \usepackage{kpfonts}
+% % \usepackage[explicit]{titlesec}
+% \newcommand*\chapterlabel{}
+% \titleformat{\chapter}
+%   {\def\chapterlabel{}
+%    \normalfont\sffamily\Huge\bfseries\scshape}
+%   {\def\chapterlabel{\thechapter\ lala}}{0pt}
+%   {\begin{tikzpicture}[remember picture,overlay]
+%     \node[yshift=-3cm] at (current page.north west)
+%       {\begin{tikzpicture}[remember picture, overlay]
+%         \draw[fill=LightSkyBlue] (0,0) rectangle
+%           (\paperwidth,3cm);
+%         \node[anchor=east,xshift=.9\paperwidth,rectangle,
+%               rounded corners=10pt,inner sep=11pt,
+%               fill=MidnightBlue]
+%               {\color{white}\chapterlabel#1};
+%        \end{tikzpicture}
+%       };
+%    \end{tikzpicture}
+%   }
+
+% \titlespacing*{\chapter}{0pt}{50pt}{-60pt}
+% 
+% \usepackage[automark]{scrpage2}
+% \usepackage{tikz}
+% \newcommand*\tikzhead[1]{%
+%   \begin{tikzpicture}[remember picture,overlay]
+%     \node[yshift=-2cm] at (current page.north west)
+%       {\begin{tikzpicture}[remember picture, overlay]
+%         \draw[fill=LightSkyBlue] (0,0) rectangle
+%           (\paperwidth,2cm);
+%         \node[anchor=east,xshift=.9\paperwidth,rectangle,
+%               rounded corners=15pt,inner sep=11pt,
+%               fill=MidnightBlue]
+%               {\color{white}#1};
+%        \end{tikzpicture}
+%       };
+%    \end{tikzpicture}}
+% \clearscrheadings
+% \ihead{\tikzhead{\headmark}}
+% \pagestyle{scrheadings}
+% 
+% 
+% \usepackage[automark]{scrpage2}
+% 
+% \usepackage{tikz}
+% \newcommand*\tikzhead[1]{%
+%   \begin{tikzpicture}[remember picture,overlay]
+%     \node[yshift=-2cm] at (current page.north west)
+%       {\begin{tikzpicture}[remember picture, overlay]
+%         \draw[fill=LightSkyBlue] (0,0) rectangle
+%           (\paperwidth,2cm);
+%         \node[anchor=east,xshift=.9\paperwidth,rectangle,
+%               rounded corners=15pt,inner sep=11pt,
+%               fill=MidnightBlue]
+%               {\color{white}#1};
+%        \end{tikzpicture}
+%       };
+%    \end{tikzpicture}}
+% \clearscrheadings
+% \ihead{\tikzhead{\headmark}}
+% \pagestyle{scrheadings}
+% 
+% 
+
+
+% \newenvironment{savequote}{}{}
+
+
+
+
+
+
+
+\usepackage[tight]{minitoc} 
+%The quotchap package should be loaded BEFORE the minitoc package.
+\newcounter{DefaultMinitocDepth}
+\setcounter{DefaultMinitocDepth}{3}
+\mtcsetdepth{minitoc}{\value{DefaultMinitocDepth}}
+
+% \nomtcrule
+
+\setlength{\mtcindent}{0pt}
+% \renewcommand{\mtcfont}{\small\sffamily}
+% \renewcommand{\mtcSfont}{\small\sffamily\bfseries}
+% \renewcommand{\mtcSSfont}{\small\sffamily}
+% \renewcommand{\mtcSSSfont}{\small\sffamily}
+
+% \renewcommand{\@pnumwidth}{5em}
+
+% \mtcfont
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Kopf- und Fußzeilen
+\usepackage{fancyhdr}
+% \pagestyle{fancy}
+
+
+
+
+\usepackage[noauto]{chappg} % nach hyperref!
+% \makeatletter
+%%\@addtoreset{chapter}{part}
+%\@addtoreset{page}{chapter}%
+% \makeatother
+% \newcommand*\leadzeros[1]{\ifnum#1<10 00\else0\fi#1}
+\pagenumbering{bychapter}
+\renewcommand{\chappgsep}{/}
+% % \newcommand{\leadpage}{\thechapter\,\ifnum\thepage<10 00\else0\fi\thepage}
+% % \newcommand{\Leadzeros}[1]{\ifthenelse{\value{#1} < 10}{00}{\ifthenelse{\value{#1}< 100}{0}{}}}
+% % \newcommand{\Leadzeros}[1]{\protect\ifthenelse{#1 < 10}{00}{\relax}}
+% \newcommand\Leadzeros[1]{\ifnum#1<10 00#1\else0#1\fi#1}
+% % \renewcommand{\thepage}{\thechapter\,\thepage}
+% \renewcommand{\thepage}{
+% \thechapter -
+% % \protect\ifthenelse{\value{page}<10}{00}{\protect\ifthenelse{\value{page}<
+% % 100}{0}{}}
+% \Leadzeros{\value{page}}
+% 
+% - 
+% \arabic{page}}
+% % 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Beschriftungen
+% \renewcommand{\tableformat}{Tafel~\thetable\autodot}
+\newcommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
+\renewcommand{\tableformat}{\noindent{\SignTable}~\thetable}
+
+% Non-floating captions
+\usepackage[
+format=plain,
+labelsep=endash,
+font={sf,md,small},
+labelfont={sf,bf,small},
+textfont={sf,md,small},
+singlelinecheck=false,
+skip=1pt,
+]{caption}
+
+
+% \makeatletter
+% \newcommand\captionof[1]{\def\@captype{#1}\caption}
+% \makeatother
+% \newcounter{Drawing}
+% \renewcommand\theDrawing{\arabic{Drawing}}
+% \floatstyle{ruled}
+% \newfloat{bilderserie}{h}{bs}[chapter]
+
+% \floatname{bilderserie}{Bilderserie}
+
+
+%\renewcommand\thebilderserie{Bilderserie \thechapter .\arabic{bilderserie}}
+
+
+% Abbildungsbeschreibung mit hängendem Einzug
+\setcapindent*{0em}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Styles
+\newcommand{\strongemph}[1]{\emph{\textbf{#1}}}
+\newcommand{\Terminus}[1]{\textcolor{Terminus}{#1}}
+
+% \input{input-styles}
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Bibliographie
+
+% Bibliographie-Stile babxxx unterstützen internationale Bibliographien, Paket
+% 'babelbib'.
+% Die Sprache muss in BibTeX-Datei im Feld 'language' stehen (dzt. erlaubt:
+% english, german, ngerman). Die entsprechende Sprache muss in babel geladen
+% worden sein.
+\bibliographystyle{babunsrt-fl}
+% \bibliographystyle{plainnat}
+% \usepackage{cite}
+\usepackage{bibentry}
+\usepackage[
+% round, % (default) for round parentheses;
+% square, % for square brackets;
+% curly, % for curly braces;
+% angle, % for angle brackets;
+% colon, % (default) to separate multiple citations with colons;
+% comma, % to use commas as separaters;
+% authoryear, % (default) for author-year citations;
+numbers, % for numerical citations;
+% super, % for superscripted numerical citations, as in Nature;
+% sort, % orders multiple citations into the sequence in which they appear in the
+% % list of references; 
+sort&compress, % as sort but in addition multiple numerical citations are
+% compressed if possible ; 
+% longnamesfirst, % makes the first citation of any reference the equivalent of
+% % the starred variant (full author list) and subsequent citations normal (abbreviated list); 
+% sectionbib, % redefines \thebibliography to issue \section* instead of
+% % \chapter*; valid only for classes with a \chapter command; to be used with the chapterbib package; 
+% nonamebreak, % keeps all the authors' names in a citation on one line; causes
+% % overfull hboxes but helps with some hyperref problems.
+]{natbib}
+
+% \usepackage[sectionbib]{chapterbib} % Literaturverzeichnisse für Kapitel
+% 
+% % \ChapterBibliography muss in der jeweiligen Kapiteldatei aufgerufen werden
+% % um dort ein entsprechend formatiertes Literaturverzeichnis zu erstellen.
+% \newcommand{\ChapterBibliography}
+% 	{\bibliographystyle{babunsrt-fl}
+% 	    {
+%     \loadgeometry{FullPage}\twocolumn
+% %     \sffamily\itshape
+% %       \begin{multicols}{2}
+% 
+%         \scriptsize
+%         \setlength{\parskip}{1pt}
+%         \bibliography{Literatur-AASS}
+% %       \end{multicols}
+% 
+% 
+%     \restoregeometry
+%     }
+% %    \end{gWideParEnv}
+%    \onecolumn
+% % 	\begin{multicols}{2}
+% %     	{
+% %     		\scriptsize
+% %     		\setlength{\parskip}{1pt}
+% %     		\bibliography{./Literatur-AASS}
+% %     	}
+% %     \end{multicols}
+%  	}
+
+\newcommand{\ChapterBibliography}{\relax}
+
+
+\usepackage[version=3]{mhchem}
+
+
+
+
+
+
+
+
+% Test PLAYGROUND
+
+\newcommand{\FullRef}[1]{{\ttfamily\ref{#1} (S.\,\pageref{#1})}}

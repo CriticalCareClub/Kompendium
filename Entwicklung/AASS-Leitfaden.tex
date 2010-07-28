@@ -1,0 +1,2085 @@
+\documentclass[
+ngerman,
+paper=a4,
+fontsize=8pt,
+headings=small,
+draft=no,
+parskip=half,
+noonelinecaption
+]{scrbook}
+% \setlength{\voffset}{-15pt}
+% \setlength{\textheight}{720pt}
+% \setlength{\marginparwidth}{5cm}
+
+% Hallo! 
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+
+
+\input{./inputs/input-optkeys}
+
+\usepackage{prettyref}
+\newrefformat{sec}{\emph{\ref{#1}}}
+% \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
+% \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
+\newrefformat{fig}{Abb.~#1}
+\newrefformat{tab}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
+\newrefformat{m}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
+\newrefformat{topic}{\Pointinghand\,\ref{#1}}
+
+% \usepackage{dirtree}
+\usepackage[draft]{fixme}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Mathemathik
+\usepackage{amsmath,amssymb,amsfonts,}
+\usepackage{units}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Symbole
+\usepackage{textcomp,marvosym,txfonts,skull}
+
+% resolv symbol clashes 
+\usepackage{savesym}
+\savesymbol{checkmark}
+\savesymbol{Cross} % ifsym
+\savesymbol{Sun} % ifsym
+\savesymbol{Lightning} % ifsym
+\usepackage[geometry,alpine,weather]{ifsym}
+\usepackage{dingbat}
+\restoresymbol{DINGBAT}{checkmark}
+
+
+
+%\usepackage{shorttoc}
+%Symbole
+\usepackage{makeidx}
+%\usepackage{showidx} % shows index entries on page margin
+%\usepackage{showkeys}
+
+\usepackage{units}
+
+
+%Tabellen
+% Floats
+%\usepackage{float,wrapfig}
+
+%\usepackage{mparhack} % watches margin paragraphs and
+%gives warnings
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Textauszeichnungen
+\usepackage{soul}
+\usepackage{soulutf8}
+\usepackage{scalefnt}
+\usepackage{array}
+\usepackage{booktabs,longtable,supertabular,tabularx,tabulary}
+\usepackage{multicol,multirow}
+
+\usepackage{hhline}
+
+\usepackage[draft]{graphicx} % Bilder-Support
+%\usepackage{ooomath}
+
+
+\usepackage{float}
+\newfloat{massnahmen}{h}{ry}[chapter]
+% \floatname{massnahmen}{\ovalbox{\sffamily M}}
+\floatname{massnahmen}{M}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Colors
+% \usepackage[svgnames,hyperref]{xcolor}
+% \definecolor{pink}{rgb}{1,0.5,0.5}
+% \definecolor{LightSkyBlue}{rgb}{0.5,0.5,1}
+% \definecolor{MidnightBlue}{rgb}{0,0,0.5}
+% \definecolor{darkBlue}{rgb}{0,0,0.4}
+% \definecolor{paleBlue}{rgb}{0.8,0.8,1}
+% \definecolor{darkGreen}{rgb}{0,0.4,0}
+% \definecolor{Terminus}{rgb}{0,0.5,0}
+% \definecolor{Definition}{rgb}{1,0.5,0.5}
+% \definecolor{shade1}{rgb}{1,0.5,0.5}
+% \definecolor{shade2}{rgb}{1,0.5,0.5}
+% \definecolor{shade3}{rgb}{1,0.5,0.5}
+% \definecolor{Emphasis}{rgb}{1,0.5,0.5}
+% \definecolor{ubuntured}{rgb}{0.788235294,0,0.08627451}
+% \definecolor{ubuntuorange}{rgb}{1,0.388235294,0.035294118}
+% \definecolor{ubuntuyellow}{rgb}{1,0.709803922,0.082352941}
+% \definecolor{paleyellow}{rgb}{1,1,0.8}
+% \definecolor{black}{rgb}{0,0,0}
+% \definecolor{RED}{rgb}{1,0,0}
+% \definecolor{Mulberry}{rgb}{1,1,0.8}
+% \input{./inputs/input-colors}
+
+
+
+
+
+%\usepackage{pst-all}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Tables
+
+\usepackage{boxedminipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Seitenlayout
+\usepackage
+[verbose,
+a4paper,
+asymmetric,
+% reversemp,
+% includemp,
+% tmargin=25mm,
+% bmargin=20mm,
+lmargin=13mm,
+rmargin=70mm,
+% outer  = 56mm,
+% inner  = 56mm,
+top    = 20mm,
+bottom = 15mm,
+% % hmarginratio=2:1,
+marginparwidth = 60mm,
+% % headheight=0.5cm,
+% % headsep=0.5cm,
+footskip = 5mm,
+% includehead,
+bindingoffset=1.5cm]
+{geometry}
+\usepackage{layout,calc}
+% \usepackage[strict]{changepage}
+%\usepackage{gmeometric}
+
+
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+\raggedbottom
+
+\tolerance=1000
+\emergencystretch=10pt
+
+\usepackage{fancybox}
+% \usepackage[Sonny]{fncychap}
+% \ChNameVar{\Large\sf} \ChNumVar{\Huge} \ChTitleVar{\Large\sf}
+% \ChRuleWidth{0.5pt} \ChNameUpperCase
+
+
+%\usepackage{augie} 
+%\usepackage{emerald}                                                          
+\usepackage{lmodern}                                                          
+                                                               % % % set fonts
+%\renewcommand{\rmdefault}{ugm} % URW Garamond
+\renewcommand{\rmdefault}{lmr} % Latin Modern Roman 
+%\renewcommand{\sfdefault}{uop} % URW Utopia
+% \renewcommand{\sfdefault}{pag} % Adobe Avantgarde
+\usepackage[scaled]{helvet}
+
+%\renewcommand{\bfseries}{\fontseries{b}\selectfont}
+%\renewcommand{\sfdefault}{phv} % Adobe Helvetica
+\renewcommand{\sfdefault}{lmss} % Latin Modern Syns Serif
+
+%\renewcommand{\ttdefault}{pcr}
+\renewcommand{\ttdefault}{lmtt} % Latin Modern Typewriter 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Headings
+
+% %\setkomafont{disposition}{\mdseries\sffamily\fontfamily{augie}\selectfont}
+\setkomafont{disposition}{\mdseries\sffamily\bfseries}
+\setkomafont{captionlabel}{\mdseries\upshape\bfseries}
+\setkomafont{caption}{\mdseries\itshape}
+\setkomafont{subject}{\mdseries\Huge\itshape}
+\setkomafont{descriptionlabel}{\bfseries}
+
+\addtokomafont{part}{\Huge\color{DefaultB}}
+\addtokomafont{partnumber}{\Huge\color{DefaultContrast}}
+% chapter wird nach Paket quotechp gesetzt
+% \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}} 
+\addtokomafont{section}{\LARGE\color{DefaultA}}
+% \addtokomafont{section}{\ocrfamily\selectfont\huge\color{DefaultA}}
+\addtokomafont{subsection}{\Large\color{DefaultA}}
+% \addtokomafont{subsection}{\ocrfamily\selectfont\LARGE\color{DefaultA}}
+\addtokomafont{subsubsection}{\large\color{DefaultA!80}}
+% \addtokomafont{subsubsection}{\ocrfamily\large\color{DefaultA!80}}
+% \addtokomafont{subsubsection}{\LARGE\color{DefaultB}}
+% \addtokomafont{subsubsection}{\LARGE\color{black}}
+\addtokomafont{paragraph}{\scalefont{1.1}\color{DefaultB}}
+\addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
+% \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
+
+\setkomafont{section}{\usefont{T1}{lmss}{bx}{n}\selectfont\LARGE\color{DefaultA}}
+\setkomafont{subsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\Large\color{DefaultA}}
+\setkomafont{subsubsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\large\color{DefaultA!80}}
+\setkomafont{paragraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\scalefont{1.1}\color{DefaultB}}
+\setkomafont{subparagraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\normalsize\color{black}}
+
+\setkomafont{labelinglabel}{\bfseries}
+\setkomafont{labelingseparator}{\normalfont}
+
+
+
+%schusterjungen
+% Disable single lines at the start of a paragraph (Schusterjungen)
+%\clubpenalty = 10000
+%
+% Disable single lines at the end of a paragraph (Hurenkinder)
+%\widowpenalty = 10000 \displaywidowpenalty = 10000
+
+
+\setcounter{secnumdepth}{2}
+\setcounter{tocdepth}{3}
+
+
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=darkBlue, citecolor=darkBlue, filecolor=darkBlue, pagecolor=darkBlue, urlcolor=darkBlue}
+ 
+% User page numbering with chapter number in it
+\renewcommand{\thechapter}{\Alph{chapter}}
+\renewcommand{\thesubsubsection}{\thesubsection .\alph{subsubsection}}
+
+
+% No bottom titles !!!
+\usepackage[nobottomtitles,compact]{titlesec}
+\renewcommand{\bottomtitlespace}{.1\textheight}
+
+\usepackage[grey,helvetica]{quotchap}
+%\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
+%\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
+\definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
+\addtokomafont{chapter}{\Huge\color{ubuntured}\fontfamily{augie}\selectfont}
+%\addtokomafont{chapter}{}
+
+\usepackage{minitoc} %The quotchap package should be loaded BEFORE the minitoc package.
+\setcounter{minitocdepth}{3}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Header
+\usepackage{fancyhdr}
+
+\pagestyle{fancy} 
+\fancyheadoffset[RE,RO]{\marginparsep+\marginparwidth}
+\fancyfootoffset[RE,RO]{\marginparsep+\marginparwidth}
+\fancyhead[LE,RO]{\thepage} 
+%\fancyhead[LO]{}
+\fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
+\fancyhead[RE]{\Es{\AuthNotes{ --- \today -- ENTWURF
+--- }}}
+\fancyhead[LO]{\Es{\AuthNotes{ --- ENTWURF -- \today ---
+}}}
+\fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
+
+
+% %%% DRAFT %%%
+\fancyfoot[CE,CO]{\Es{\AuthNotes{ -- ENTWURF --
+% Entwicklungszweig:
+% \input{./tmp/git-current-branch.tmp} -- Letztes Commit:
+% \input{./tmp/git-lastcommit.tmp}
+}}}
+
+%%% FINAL %%%
+% \fancyfoot[CE,CO]{\Es{{\itshape Vorabversion -- Nur für den
+% internen Gebrauch!}}}
+% \fancyfoot[LE]{{\AASS{}~ \itshape v.\,0.2.1-x}}
+% \fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.1-x}}
+%%
+
+
+% % leading zeros
+% \usepackage{numprint}
+% % %%%%%%%%%%% Anzahl einzufügender führender Nullen %%%%%%%
+% \nplpadding[0]{2}
+% % %%%%%%%%%%%%% Zeilenzähler umdefinieren %%%%%%%%%%%%%%%%%
+% \renewcommand{\thepage}{{\color{red}\thechapter}\cntprint{page}}
+
+% \usepackage[noauto]{chappg}
+% \makeatletter
+% %%\@addtoreset{chapter}{part}
+% %\@addtoreset{page}{chapter}%
+% 
+% \makeatother
+% 	\pagenumbering{bychapter}
+% 
+
+%\pagenumbering[\thepart]{bychapter}
+%\pagenumbering[\thepart]{bychapter}
+%\renewcommand{\thepage}{\thepart.\thepage}
+
+
+
+% \makeatletter
+% \newcommand\arraybslash{\let\\\@arraycr}
+% \makeatother
+% 
+% \makeindex
+% 
+% \setlength\tabcolsep{1mm}
+% \renewcommand\arraystretch{1.3}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Captions
+																% Non-floating captions
+\makeatletter
+%\newcommand\captionof[1]{\def\@captype{#1}\caption}
+\makeatother
+\newcounter{Drawing}
+\renewcommand\theDrawing{\arabic{Drawing}}
+ 
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Styles
+\newcommand{\strongemph}[1]{\emph{\textbf{#1}}}
+\newcommand{\Terminus}[1]{\textcolor{Terminus}{#1}}
+
+                
+
+% Define Grissu.org \latex commands
+% Character styles names are single letters, 
+% Paragraph styles are words
+
+% Abbildungsbeschreibung mit hängendem Einzug
+\setcapindent*{0em}
+
+
+
+\usepackage{aass-common}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Title
+
+% \title{Arbeits- und Ausbildungsstandards f\"ur den Sanitätsdienst}
+% \subject{und eine Einf\"uhrung in die Welt der Medizin und Sanitätshilfe}
+% \titlehead{Version f\"ur \"Osterreich, Stand Februar 2009 \par 
+% \LaTeX -Version, die Teile aus der OpenOffice-Version werden en detail \"ubernommen}
+% 
+% \lowertitleback{\centering\begin{minipage}{5cm}
+% \begin{center}
+% {\Huge Grissu.org}\par\vspace{1em}
+% \textit{serving the community} \par \textit{since 1999} 
+% \end{center}
+% \end{minipage}}
+% 
+% \author{Emhofer, Gabriel, Hochreiter, Koch, Koller, Motal, Steuer, Withofner}
+
+% \bibliographystyle{plain}
+% %\bibliographystyle{unsrtdin}
+% %\bibliographystyle{plaindin}
+% %\usepackage{bibunits}
+% %\bibliographyunit[\chapter]
+% %\defaultbibliography{../Literatur-AASS}
+% %\defaultbibliography{Literatur-AASS}
+% %\defaultbibliographystyle{unsrtdin2}
+% %\defaultbibliographystyle{plain}
+% \usepackage{chapterbib}
+% \newcommand{\ChapterBibliography}{\bibliographystyle{plain}{\begin{multicols}{2}\scriptsize\setlength{\parskip}{1pt}
+% \bibliography{./Literatur-AASS}\end{multicols}}}
+
+
+
+\makeindex
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Page
+
+% set by geometry package
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
+
+
+\input{./inputs/input-hyphenation}
+
+
+
+
+
+
+
+\title{Leitfaden für Autoren}
+\subtitle{für die Arbeits- und Ausbildungsstandards für den
+Sanitätsdienst}
+\author{\AASS}
+
+
+
+
+%\usepackage{lstdoc}
+\usepackage{listings}
+%\usepackage{textcomp}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% BEGIN DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+
+\begin{document}
+ 
+\lstset{% general command to set parameter(s)
+language=[LaTeX]TeX,
+%language=C,
+extendedchars=true,
+inputencoding=utf8,
+breaklines=true;
+basicstyle=\ttfamily\small, % print whole listing small
+keywordstyle=\color{ubuntured}\bfseries\underbar,
+% underlined bold black keywords
+identifierstyle=\color{darkBlue}\bfseries, % nothing happens
+commentstyle=\color{Grey}, % white comments
+stringstyle=\ttfamily, % typewriter type for strings
+texcsstyle=\color{ubuntured},
+moretexcs={textcolor,itemhook},
+emph={
+AASS,
+ARGE,
+A,
+aCh,
+AuthorNotes,
+Ca,
+Cave,
+Definition,
+E,
+Es,
+ERROR,
+Fazit,
+H,
+Layout,
+Married,
+MarriedNG,
+MarriedLI,
+Massnahmen,
+Parallel,
+T,
+TODO,
+Z,
+ZFootnote},
+emphstyle=\color{Terminus}\bfseries,
+%directivestyle=color{Red},
+showstringspaces=false,
+%morecomment=[s][\color{SandyBrown}]{\{}{\}},
+%moredelim=[s][\color{DarkViolet}]{\{}{\}},
+%morecomment=[l][\color{Grey}]{\%}
+}
+
+\dominitoc
+\maketitle
+\tableofcontents
+\listoffixmes
+
+
+\chapter{Über das Projekt}
+
+\section{Die \ARGE}
+
+
+
+Die \emph{'Arbeitsgemeinschaft Arbeits- und
+    Ausbildungsstandards für den Sanitätsdienst'}, abgekürzt {\ARGE},
+    \footnote{Die englische Übersetzung lautet \emph{'Association for
+    operational and
+    educational standards for emergency medical services'}.}
+    ist ein gemeinnütziger\footnote{Der Verein verfolgt gemeinnützige Ziele gem.
+    \emph{\S\S\,34-47~BAO}, seine Tätigkeiten sind nicht auf Gewinn
+    ausgerichtet.} Verein mit Sitz in Wien. 
+    Die \ARGE{} bezweckt die Entwicklung, Wartung,
+    Qualitätssicherung, Anpassung, Verbreitung und Lehre von wissenschaftlich und sachlich fundierten Arbeits- und
+    Ausbildungsstandards für den Sanitätsdienst (\AASS{}), sowie
+    die wissenschaftliche Forschungstätigkeit in diesem
+    Gebiet. Die Arbeits- und Ausbildungsstandards sollen der
+    Allgemeinheit zu Gute kommen und in dazu geeigneter Form
+    zugänglich gemacht werden.
+    
+    Ferner bezweckt der Verein die Weiterentwicklung
+    der Entwicklungswerkzeuge, die bei der Erstellung der
+    Arbeits- und Ausbildungsstandards zum Einsatz kommen.
+    Diese Weiterentwicklungen sollen ebenfalls der
+    Allgemeinheit zu Gute kommen und frei zugänglich gemacht
+    werden.
+        
+
+\subsection{Mitarbeit}
+
+\subsubsection{Mitgliedschaft}
+Mitglieder des Vereins können grundsätzlich alle physischen Personen sowie
+juristische Personen und rechtsfähige
+Personengesellschaften werden.
+
+Die Mitglieder des Vereins gliedern sich in ordentliche,
+außerordentliche, fördernde  und Ehrenmitglieder.
+
+Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit
+beteiligen. Über deren Aufnahme
+entscheidet der Vorstand. Der Vorstand hat bei der Entscheidung insbesonders zu berücksichtigen:
+\begin{inparaenum}
+  \item Die fachliche und persönliche Eignung zum
+  Erreichen des Vereinszweckes.
+  \item Die einschlägige Berufs- und
+  Tätigkeitserfahrung.
+  \item Die persönliche Integrität und
+  Zuverlässigkeit.
+  \item Die Gesinnung gegenüber Mitmenschen und das
+  Bekenntnis zum Altruismus.
+  \item Die Beweggründe dem Verein beizutreten.
+\end{inparaenum}
+
+Außerordentliche Mitglieder sind solche, die persönliches Interesse an der
+Vereinstätigkeit haben ohne sich jedoch in vollem Umfang zu beteiligen. Über die Aufnahme von außerordentlichen Mitgliedern
+entscheidet der Vorstandsvorsitzende, in zweiter Insatnz der Vorstand.
+
+Fördernde Mitglieder sind solche, die die
+Vereinstätigkeit  vor allem durch Zahlung eines erhöhten Mitgliedsbeitrags
+fördern.
+Ehrenmitglieder sind Personen, die hiezu wegen besonderer
+Verdienste  um den Verein ernannt werden. Die Ernennung zum Ehrenmitglied
+erfolgt durch den Vorstand.
+
+    
+    
+
+
+
+\section{Mission}
+
+\section{Zielpublikum}
+
+Im Folgenden ist das derzeitigge Zielpublikum näher definiert. Es wird
+nach Priorität zwischen primären, sekundären und tertiärem Publikum
+unterschieden.
+
+\begin{tabulary}{\linewidth}{LLL}
+\toprule\addlinespace
+\TabHeading{Zielpublikum}
+&
+\TabHeading{P}
+&
+\TabHeading{Abeschreibungs, Anwendbarkeit}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Rettungssanitäter in Ausbildung} (RSiA)
+&
+1
+&
+Die \AASS{} dienen als Kursunterlage für den Kurs des Moduls 1 laut
+SanG/SanAVO. Sie ermöglichen sowohl eine praxisorientierte Ausbildung, als auch
+eine Versorgung der Lernenden mit obligaten und optionalen
+Hintergrundinformationen.
+
+Praxisorientierte Handlungsanweisungen und substantielle
+Hintergrundinformationen sind einander gleichwertig. 
+\\\addlinespace
+\TabSub{Rettungssanitäter} (RS) & 2
+&
+Der RS findet in den \AASS{} eine solide Wissensbasis, die ihm hilft seine
+Alltagsprobleme zu lösen. Darüber hinaus findet er erklärende
+Hintergrundinformationen und Informationen zu weiteren Recherche- und
+Wissenquellen. 
+\\\addlinespace \TabSub{Notfallsanitäter} (NFS) &
+
+&
+
+
+\\\addlinespace\bottomrule
+\end{tabulary}
+
+
+
+
+\chapter{Projektdetails}
+
+\section{Versionsbezeichnungen}
+
+\paragraph{Bisherige Versionen}~
+
+\begin{description}
+    \item[0.1.x] Entwicklungsversionen
+    \item[0.2.0] Erste Vorabversion für ET 2009/07
+    \item[0.2.1-x] Entwicklungsversionen aufbauend auf
+    0.2.0.
+    \item[0.3.x] Entwicklungsversionen (aufbauend auf
+    0.2.1-x), für 0.4.0 (ET 2009/09)
+    \item[0.3.x] Entwicklungsversionen (aufbauend auf
+    0.2.1-x), für 0.4.0 (ET 2009/09)
+    \item[0.4.0] Vorabversion für ET 2009/09
+    \item[0.5.x] Entwicklungsversionen (aufbauend auf
+    0.4.0), für 0.6.0 (ET 2009/09)
+    \item[0.6.0] Vorabversion für ET 2009/11
+    \item[0.7.x] Entwicklungsversionen (aufbauend auf
+    0.6.0), für 0.8.0 (ET 2009/09)
+    \item[0.8.0] Vorabversion für ET 2010/02
+    \item[0.9.x]
+\end{description}
+
+\fxnote{Neue Versionen}
+
+\paragraph{Geplante Versionen}~
+
+\begin{description}
+
+    \item[0.8.x] Vorabversion für ET 2010/02
+    \item[1.0.0~RC\,1] Öffentliche Vorabversion (Release
+    Candidate, Review)
+    \item[1.0.0] Erste öffentliche Version
+\end{description}
+
+\section{Gliederung}
+Die Kapitel bzw. Systemdateien werden mittel 3-stelliger
+Abkürzung gekennzeichnet:
+
+
+\begin{tabulary}{\linewidth}{cLlL}\toprule
+\noindent\TabHeading{Krz.} 
+& 
+\noindent\TabHeading{Bezeichnung} 
+& 
+\noindent\TabHeading{Maintainer}
+& 
+\noindent\TabHeading{Pfad}
+\\\midrule
+\TabSub{AAS} &  \noindent\AASS{} allgemein  & & 
+\\\addlinespace
+\TabSub{ALS} & Erweiterte Reanimation & \caps{? Kichler} &
+\Code{trunk/chapters/chapter-ALS.tex} 
+\\\addlinespace
+\TabSub{ANA} & Anatomie & \caps{Hirtler} &
+\Code{trunk/chapters/chapter-ANA.tex} 
+\\\addlinespace
+\TabSub{APP} & Appendix &  \caps{---} &
+\\\addlinespace
+\TabSub{AUU} & Anamnese und Untersuchung &  \caps{Gabriel} &
+\Code{trunk/chapters/chapter-AUU.tex} 
+\\\addlinespace
+\TabSub{BET} & Betriebsinterne Regelungen &  \caps{---} &
+\\\addlinespace
+\TabSub{COL} &  Farbdefinitionsdatei &  \caps{---} &
+\\\addlinespace
+\TabSub{EHI} & Erste Hilfe &  \caps{Koch} &
+\\\addlinespace
+\TabSub{EIN} & Einführung in die Medizin &  \caps{Gabriel} &
+\\\addlinespace
+\TabSub{EUR} & Einsatztaktik und Rettungswesen & \caps{?? Pirker} &
+\Code{trunk/chapters/chapter-ANA.tex} 
+\\\addlinespace
+\TabSub{GER} & Gerätelehre &  \caps{Koch} &
+\\\addlinespace
+\TabSub{HYG} & Hygiene &  \caps{Gabriel} &
+\\\addlinespace
+\TabSub{HYP} &  Hyphenation (Trennungskorrekturen) &  \caps{---} &
+\\\addlinespace
+\TabSub{INF} & Autoreninformation &  \caps{Gabriel} &
+\\\addlinespace
+\TabSub{JUS}  & Recht &  \caps{Koller} &
+\\\addlinespace
+\TabSub{KHD} & Katastrophen, Großschaden, Gefahrgutunfall & 
+\caps{Koch} & 
+\\\addlinespace
+\TabSub{MED} & Medizinische Erkrankungen und Notfälle & 
+\caps{Gabriel} & 
+\\\addlinespace
+\TabSub{MED} & Medizinische Erkrankungen und Notfälle & 
+\caps{Gabriel} & 
+\\\addlinespace
+\TabSub{MED-INF} & Infektionskrankheiten & 
+\caps{Gabriel} & 
+\\\addlinespace
+\TabSub{MED-GYN} & Spezielle Patientengruppe: Frauen und Schwangere & 
+\caps{Gabriel} & 
+\\\addlinespace
+\TabSub{MED-KIN} & Spezielle Patientengruppe: Kinder & 
+\caps{Gabriel} & 
+\\\addlinespace
+\TabSub{MED-PSY} & Psychologie und Psychiatrie & 
+\caps{Gabriel} & 
+\\\addlinespace
+\TabSub{MED-TOX} & Vergiftungen & 
+\caps{Gabriel} & 
+\\\addlinespace
+\TabSub{MPG} & Spezielle Medizinprodukte & 
+\caps{---} & 
+\\\addlinespace
+\TabSub{REG} & Regionale Besonderheiten &  \caps{---} &
+\\\addlinespace
+\TabSub{RES} & Reserve &  \caps{---} &
+\\\addlinespace
+\TabSub{SAN} & Angewandte Sanitätshilfe &  \caps{diverse} &
+\\\addlinespace
+\TabSub{STY}  & Stildefinitionsdatei &  \caps{---} &
+\\\addlinespace
+\TabSub{TAE} & Tätigkeitsbild &  \caps{---} &
+\\\addlinespace
+\TabSub{TRA} & Trauma &  \caps{Motal} &
+\\\addlinespace
+\TabSub{VIT} & Vitalfunktionen &  \caps{Gabriel} &
+\\\addlinespace
+\TabSub{WIS} & Wissenschaft & 
+\caps{---} & 
+\\\bottomrule
+\end{tabulary}
+
+Diese Abkürzungen bitte auch im Versionsverwaltungssystem
+Git und im Bugtracker verwenden!
+
+\section{Datei- und Verzeichnislayout}
+
+\begin{minipage}{\linewidth}
+\emph{Stand 2010/05, vereinfacht.}
+\begin{multicols}{2}
+
+% \dirtree{
+% 1. ./aass
+% 2. draft0
+% 3. AAS-LaTeX-Export
+% 4. clean
+% 4. ultraclean
+% 2. trunk
+% 3. AASS-Leitfaden.pdf
+% 3. AASS-Leitfaden.tex
+% 3. Literatur
+% 4.  .pdf
+% 4.  ...
+% 3.  Literatur-AASS.bib
+% 3.  abbrvdin.bst
+% 3.  alphadin.bst
+% 3.  changepage.sty
+% 3.  chapters
+% 4.  chapter-ANA.tex
+% 4.  chapter-APP.tex
+% 4.  chapter-BET.tex
+% 4.  chapter-EHI.tex
+% 4.  chapter-EIN.tex
+% 4.  chapter-GER.tex
+% 4.  chapter-HYG.tex
+% 4.  chapter-INF.tex
+% 4.  chapter-JUS.tex
+% 4.  chapter-KHD.tex
+% 4.  chapter-MED.tex
+% 4.  chapter-REG.tex
+% 4.  chapter-RES-ende.tex
+% 4.  chapter-SAN.tex
+% 4.  chapter-TAE.tex
+% 4.  chapter-TRA.tex
+% 4.  chapter-VIT.tex
+% 3.  extern
+% 4.  Arztbriefe
+% 3.  icons
+% 3.  images
+% 4.  anatomie
+% 4.  angewsanhilfe
+% 4.  geraete
+% 4.  hygiene
+% 4.  khd
+% 4.  logos
+% 4.  med
+% 4.  noauth
+% 4.  shared
+% 4.  trauma
+% 3.  src
+% 4.  dia
+% 3.  tmp
+% 4.  ...
+% 3.  ...
+% }
+
+{\small
+\begin{verbatim}
+./aass
+|-- draft0
+|   `-- AAS-LaTeX-Export
+|       |-- clean
+|       `-- ultraclean
+`-- trunk
+    |-- AASS-Leitfaden.pdf
+    |-- AASS-Leitfaden.tex
+    |-- Literatur
+    |   |-- ....pdf
+    |   ...
+    |-- Literatur-AASS.bib
+    |-- abbrvdin.bst
+    |-- alphadin.bst
+    |-- changepage.sty
+    |-- chapters
+    |   |-- chapter-ANA.tex
+    |   |-- chapter-APP.tex
+    |   |-- chapter-BET.tex
+    |   |-- chapter-EHI.tex
+    |   |-- chapter-EIN.tex
+    |   |-- chapter-GER.tex
+    |   |-- chapter-HYG.tex
+    |   |-- chapter-INF.tex
+    |   |-- chapter-JUS.tex
+    |   |-- chapter-KHD.tex
+    |   |-- chapter-MED.tex
+    |   |-- chapter-REG.tex
+    |   |-- chapter-RES-ende.tex
+    |   |-- chapter-SAN.tex
+    |   |-- chapter-TAE.tex
+    |   |-- chapter-TRA.tex
+    |   `-- chapter-VIT.tex
+    |-- extern
+    |   `-- Arztbriefe
+    |-- icons
+    |-- images
+    |   |-- anatomie
+    |   |-- angewsanhilfe
+    |   |-- geraete
+    |   |-- hygiene
+    |   |-- khd
+    |   |-- logos
+    |   |-- med
+    |   |-- noauth
+    |   |-- shared
+    |   `-- trauma
+    |-- src
+    |   `-- dia
+    `-- tmp
+        |-- ...
+        ...
+\end{verbatim}
+}
+\end{multicols}
+\end{minipage}
+
+
+
+
+
+
+
+\chapter{Das Versionsverwaltungssystem Git}
+% \lstinline$var i:integer;$
+%  
+% 
+% \begin{lstlisting}
+% for i:=maxint to 0 do
+% begin
+% { do nothing }
+% end;
+% Write('Case insensitive '); 
+% Write('Pascal keywords.');
+% \end{lstlisting}
+% 
+% \lstinline$\Es{Hallo}$
+
+\section{Einführung in Git}
+
+\section{Vokabel}
+
+\begin{description}
+    \item[Repository] \emph{} \par Als Repository wird die
+    Datenbank der Versionsverwaltungssoftware bezeichnet.
+    Ein Git-Repository besteht aus einem Wurzelordner. In
+    diesem Ordner befindet ich ein Unterordner namen \Code{.git},
+    in diesem liegen die Daten für die
+    Versionsverwaltungssoftware. \par Alle anderen Ordner
+    und Dateien im Wurzelornder stellen den \T{Arbeitsbereich}
+    dar. Sie können beliebig verändert werden, die Änderungen
+    werden dann in das Versionsverwaltungssystem
+    eingecheckt. 
+    \item[Remote (repository)] \emph{Entferntes
+    Repository.} \par Ein anderes Repository, mit welchem,
+    z.B. über das Netzwerk, Beiträge ausgetauscht werden
+    können.
+    \item[Origin] \emph{Quelle.} \par Origin ist der Name
+    für das entfernte Quellrepository, in unserem Fall ist
+    das der Hauptserver.
+    \item[Commit] \emph{Beitrag.} 
+    \item[Zweig] \emph{Branch.} \par Man unterschiedet in
+    \begin{description}
+    \item[Lokaler Zweig]
+    \item[Entfernter Zweig]
+    \item[Verbundener Zweig]
+\end{description}    
+    \item[Merge]  \emph{Zusammenführen.}\par Zwei Zweige
+    werden zusammengeführt und die Änderungen kombiniert.
+    \item[Fetch] \emph{Abholen.} \par Text   
+    \item[Pull] \emph{Abholen und zusammenführen.} \par
+    Text  
+    \item[Push] \emph{Versenden.} \par Beiträge werden an
+    ein entferntes Repository verschickt. 
+\end{description}
+
+
+
+\section{Richtlinien für das AASS-Repository}
+
+\subsection{Zweige}
+
+\subsubsection{Der Zweig \Code{master}}
+
+Der Zweig \Code{master} ist der Hauptentwicklungszweig. Er soll nur vom
+Chefredakteur bespielt werden! Die Autoren und Redaktuere können/sollen
+Beiträge am \Code{master}-Zweig ihn ihren Zweig übernehmen (mergen).
+
+\Cave{Der \Code{master}-Zweig soll nur vom Chefredakteur bespielt werden.}
+
+\subsubsection{Autorenzweige}
+
+Jeder direkte Autor\footnote{Als direkter Autor gilt ein Autor dann wenn er
+Schreibberechtigung für das Repository besitzt.} und Redakteur soll einen
+eignen Zwei erhalten der von \Code{master} abstammt. In diesem Zweig kann er
+seine Ändeurngen und Beiträge vornehmen. 
+
+Der Chefredaktuer übernimmt dann ggfs. die Beiträge in \Code{master}. 
+
+Die Autoren sollen die Beiträge in \Code{master} regelmäßig (= möglichst
+häufig) in ihren Zweig übernehmen um Doppelgleisigkeiten zu verhindern. 
+
+In die Autorenzweige sollen nur die jeweiligen Autoren, der Chefredakteur, der
+zuständige Redaktuer und der Administrator eingreifen. Andere Autoren und
+Redaktuere dürfen das nur mit Absprache mit dem Autor. 
+
+\subparagraph{Benennung} Die Zweige werden in Kleinschreibung nach dem
+Familiennamen des Autors benannt, bei Mehrdeutigkeit werden die ersten Buchstaben des Vornamens
+hintangestellt. 
+
+\subsubsection{Release- und Wartungszweige}
+
+
+
+\section{Der Hauptserver}
+
+Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
+
+
+
+\chapter{Textgestaltung}
+
+\minitoc
+
+% \section{Beispiel}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% \subsubsection{Abschnitt oder Unterabschnitt}
+% 
+% \Definition{Defnitionstext --- Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.}
+% 
+% \MarriedNG{Beschreibung}{
+% \E{Fließtext} -- Das Standardlayout 1 kennt 3 Argumente:
+% Die Paragraphenüberschrift (hier \emph{"`Beschreibung"'}),
+% den Fließtext (diese Kolumne) und die Stichworte
+% (Randspalte). Aus den Stichworten sollen in späterer Folge
+% automatisch folien erstellt werden. 
+% 
+% Mirum est notare quam
+% littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+% euismod tincidunt ut laoreet dolore magna aliquam erat
+% volutpat. 
+% }
+% {\E{Stichworte}
+% 
+% \begin{itemize}
+%     \item Punkt 1
+%     \item Punkt 2
+%     \begin{itemize}
+%         \item a
+%         \item b
+%         \item a + b
+%     \end{itemize}
+%     \item Lorem
+% \end{itemize}
+% }
+% 
+% 
+% \MarriedNG{Ursachen}
+% {
+% Lorem ipsum brute docendi expetenda his ut, graecis detracto et nec! Possim
+% fabulas complectitur ei quo, suas ornatus omnesque et mea. Velit error laoreet ex
+% eum, no diceret democritum vis? Vel et unum nullam dissentiet, his dicat solet
+% placerat te! Ut per sanctus accusamus delicatissimi, tempor euripidis posidonium
+% cum no.
+% 
+% }
+% {
+% \begin{itemize}
+%     \item Lorem
+%     \item ipsum
+%     \item Dolor
+% \end{itemize}
+% 
+% }
+% 
+% \MarriedNG{Symptome}
+% {
+% Klassisch \ldots \Es{Claritas} est
+% etiam processus dynamicus, qui sequitur mutationem
+% consuetudium lectorum. Mirum est notare quam littera gothica,
+% quam nunc putamus parum claram, anteposuerit litterarum
+% formas humanitatis per seacula quarta decima et quinta
+% decima. Eodem modo typi, qui nunc nobis videntur parum clari,
+% fiant sollemnes in futurum.
+% 
+% Häufig \ldots Lorem ipsum brute docendi expetenda his ut, graecis detracto
+% et nec! Possim fabulas complectitur ei quo, suas ornatus omnesque et mea. Velit error laoreet ex
+% eum, no diceret democritum vis!
+% 
+% Manchmal/Mitunter \ldots am liber tempor cum soluta nobis eleifend
+% option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+% Typi non habent claritatem insitam; 
+% 
+% Eventuell \ldots Lorem ipsum brute docendi expetenda his ut, graecis detracto
+% et nec! Possim fabulas complectitur ei quo, suas ornatus omnesque et mea. 
+% cum no.
+% 
+% }
+% {
+% % TODO VIT: Slide fehlt!
+% \begin{itemize}
+%     \item Lorem
+%     \item ipsum
+%     \item Dolor
+% \end{itemize}
+% 
+% }
+% 
+% \MarriedNG{Komplikationen, Gefahren}
+% {
+% --- am liber tempor cum soluta nobis eleifend
+% option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+% Typi non habent claritatem insitam; est usus legentis in iis
+% qui facit eorum claritatem. Investigationes demonstraverunt
+% lectores legere me lius quod ii legunt saepius. \Es{Claritas} est
+% etiam processus dynamicus, qui sequitur mutationem
+% consuetudium lectorum. Mirum est notare quam littera gothica,
+% quam nunc putamus parum claram, anteposuerit litterarum
+% formas humanitatis per seacula quarta decima et quinta
+% decima. Eodem modo typi, qui nunc nobis videntur parum clari,
+% fiant sollemnes in futurum.
+% }
+% {
+% \begin{itemize}
+%     \item Lorem
+%     \item ipsum
+%     \item Dolor
+% \end{itemize}
+% }
+% 
+% \Massnahmen{
+%     \paragraph{Spezielle Maßnahmen}
+%     
+%     \begin{itemize}
+%     \item \TxMassVitBes (gTxMassVitBes)
+%     \begin{itemize}
+%         \item Lagerung: Oberkörper hoch
+%         \item $O_2$: 12\LMin
+%         \item Ursachenforschung
+%     \end{itemize}
+%     \item Claritas
+%     \item Investigationes
+%     \item seacula
+%     \item futurum
+% \end{itemize}
+%     
+% }
+
+
+
+\section{Schnellübersicht}
+
+% \begin{tabularx}{\linewidth}{@{}lX@{}}
+% sdvadsvadsd dfhsigdfsiug ndsfiugn disfuh gidf gidfgidsfiug
+% odisfgl sfg &
+% ifgh iudfs hgusdfiuhdfiug hdfsiuhsiuhg   iuhiughiudsfh
+% giudfg
+% \\
+% c
+% &
+% d
+% \\
+% \end{tabularx}
+
+% {
+% \begin{syntax}
+% \item[1.0,default,Wichtig!] \texttt{command},
+% \texttt{environment} or
+% \item[,,] \lstinline!\Es{}!     starke Betonung.
+% \begin{description}
+%     \item[Anwendung] starke Betonung
+%     \item[Beispiel] \Es{starke Betonung}
+%     \end{description}
+% \item[,,] \lstinline!\E{}!     starke Betonung.
+% \begin{description}
+%     \item[Anwendung] starke Betonung
+%     \item[Beispiel] \E{schwache Betonung}
+% \end{description}
+% \Es{starke Betonung}
+% 
+% 
+% \end{syntax}
+% } 
+
+
+% \paragraph{Simple Textauszeichnungen}~
+% 
+% \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}
+% \toprule\addlinespace
+% \TabHeading{Befehl} & \TabHeading{Beschreibung}
+% \\\addlinespace\midrule\addlinespace
+% \lstinline$\Es{Hallo}$
+% & 
+% starke Betonung \Z{(emphasis, strong)}
+% 
+% Sind jetzt serifenlos und fett.
+% &
+% \Es{starke Betonung}
+% \\\addlinespace
+% \lstinline$\E{}$
+% &
+% schwache Betonung \Z{(emphasis)}
+% &
+% \E{schwache Betonung}
+% \\\addlinespace
+% \lstinline$\T{}$
+% &
+% Terminus
+% 
+% &
+% \T{Terminus}
+% \\\addlinespace
+% \lstinline$\Z{}$
+% &
+% Zusatzinfo
+% &
+% \Z{Zusatzinfo}
+% \\\addlinespace
+% \lstinline$\H{}$
+% &
+% Handschrift
+% &
+% \H{Handschrift}
+% \\\addlinespace
+% 
+% &
+% 
+% &
+% 
+% \\\bottomrule
+% \end{tabular}
+
+\paragraph{Standardlayouts}~
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\section{Konventionen}
+
+% \begin{description}
+%     \item[Beschreibung:]
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     \item[Syntax:] \lstinline$\Befehl{<text>}$
+%     \item[Formatierung:]
+%     \item[Beispiel:]
+% \end{description}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\section{Hervorhebungen und Textauszeichnungen}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+
+
+% Bla!
+% \begin{labeling}[~--]{Formatierung~~~}
+%   \item[Syntax:] \lstinline$\T{<text>}$
+%   \item[Beschreibung:]
+%   \item[Ja:] 
+%   \item[Nein:] 
+%   \item[Anmerkungen:] 
+%   \item[Formatierung:] 
+%   \item[Cave:] 
+% \end{labeling}
+% 
+% 
+% \aBox{Beispiel}{Befehl}{black}
+% {
+% 
+% Text}
+
+
+
+
+
+
+
+\subsubsection{Schwache Betonung -- \Code{\tbs E\{\}}}\marginpar{\T{\tbs
+gE\{\}}}
+
+Bla!
+\begin{labeling}[~--]{Formatierung~~~}
+  \item[Syntax:] \lstinline$\T{<text>}$
+  \item[Beschreibung:]
+  \item[Ja:] 
+  \item[Nein:] 
+  \item[Anmerkungen:] 
+  \item[Formatierung:] 
+  \item[Cave:] 
+\end{labeling}
+
+
+\aBox{Beispiel}{Befehl}{black}
+{%
+Ein Mann ging von \E{Jerusalem} nach \E{Jericho} hinab und wurde von Räubern
+überfallen. Sie plünderten ihn aus und \E{schlugen ihn nieder}; dann gingen sie
+weg und ließen ihn \E{halbtot} liegen.
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Starke Betonung -- \Code{\tbs Es\{\}}}\marginpar{\T{\tbs
+gEs\{\}}}
+
+Bla!
+\begin{labeling}[~--]{Formatierung~~~}
+  \item[Syntax:] \lstinline$\T{<text>}$
+  \item[Beschreibung:]
+  \item[Ja:] 
+  \item[Nein:] 
+  \item[Anmerkungen:] 
+  \item[Formatierung:] 
+  \item[Cave:] 
+\end{labeling}
+
+
+\aBox{Beispiel}{Befehl}{black}
+{%
+Ein Mann ging von \Es{Jerusalem} nach Jericho hinab und wurde von Räubern
+überfallen. Sie plünderten ihn aus und schlugen ihn nieder; dann gingen sie weg und ließen
+ihn halbtot liegen.
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Terminus -- \Code{\tbs T\{\}}}\marginpar{\T{\tbs T\{\}}}
+
+Spezielle Hervorhebung für Fachbegriffe. \Z{Früher
+sollte sie für alle Fachbegriffe verwendet werden, im August 2009 hat sich
+die Definition geändert, s.u.}
+
+\begin{labeling}[~--]{Formatierung~~~}
+  \item[Syntax:] \lstinline$\T{<text>}$
+  \item[Beschreibung:]
+  \item[Ja:] Terminus-Formatierungen sollen nur mehr angewendet werden
+  wenn der entsprechende Begriff an der Stelle erklärt wird! Sonst soll auch
+  ein Fachbegriff normal formatiert werden, wenn eine Hervorhebung gewünscht
+  ist kommen z.B. die starke Betonung oder die schwache
+  Betonung -- wie im normalen Text -- in Frage.
+  \item[Nein:] Begriffe, die an der Stelle nicht
+  abschließend erklärt werden. Lange Begriffe bei denen ein Zeilenumbruch
+  nötig ist.
+  \item[Anmerkungen:] Die didaktische Überlegung ist dass für den Leser
+  nachvollziehbar sein soll dass der Begriff an dieser Stelle neu ist und er
+  hier erklärt wird (und er an dieser Stelle zu lernen ist).
+  \item[Formatierung:] Wie starke Hervorhebungen formatiert,
+  jedoch hellgrün hinterlegt.
+  \item[Cave:] Zeilenumbrüche sind in \lstinline$\T$ nicht mehr vorgesehen, die Termini sollen
+  immer in einer Zeile stehen! Wenn Termini lt. obiger Definition in einer
+  Tabelle, etc. vorkommen (also nicht im Fließtext) dann sollen sie als
+  \lstinline$\marginpar{}$ in der Randspalete gesetzt werden! Es besteht sonst
+  die Gefahr dass der Terminus in die benachbarte Spalte hineinreicht.
+\end{labeling}
+
+
+\aBox{Beispiel}{Terminus -- \Code{\tbs T\{\}}}{black}
+{%
+Es kann zu einer Loslösung von Teilen des Thrombus kommen, dieser
+losgelöste Teil wird \T{Embolus} genannt.}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Zusatzinformation -- \Code{\tbs Z\{\}}}\marginpar{\T{\tbs
+gZ\{\}}}
+
+
+
+
+Bla!
+\begin{labeling}[~--]{Formatierung~~~}
+  \item[Syntax:] \lstinline$\T{<text>}$
+  \item[Beschreibung:]
+  \item[Ja:] 
+  \item[Nein:] 
+  \item[Anmerkungen:] 
+  \item[Formatierung:] 
+  \item[Cave:] 
+\end{labeling}
+
+
+\aBox{Beispiel}{Befehl}{black}
+{%
+\Code{Patient sitzend vorgefunden.}
+}
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Cave (Fließtext) -- \Code{\tbs Ca\{\}}}\marginpar{\T{\tbs
+gCa\{\}}}
+
+
+
+Bla!
+\begin{labeling}[~--]{Formatierung~~~}
+  \item[Syntax:] \lstinline$\Ca{<text>}$
+  \item[Beschreibung:]
+  \item[Ja:] Aussagen über eine massive Gefahr.
+  \item[Nein:] 
+  \item[Anmerkungen:] Für einen ganzen Absatz steht der
+    \lstinline$\Cave{}$-Befehl zur Verfügung, er erstellt eine ganze (rot
+    umrandete) Absatzbox!
+  \item[Formatierung:] 
+  \item[Cave:] 
+\end{labeling}
+
+
+\aBox{Beispiel}{Cave}{black}
+{%
+ \Ca{Nitro kann zu einer rapiden Senkung des Blutdrucks
+    führen!}}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Handschrift -- \Code{\tbs H\{\}}}\marginpar{\T{\tbs
+gH\{\}}}
+
+
+
+Handschriftliche Notiz!
+
+\begin{labeling}[~--]{Formatierung~~~}
+  \item[Syntax:] \lstinline$\H{<text>}$
+  \item[Beschreibung:]
+  \item[Ja:] Aussagen über eine massive Gefahr.
+  \item[Nein:] 
+  \item[Anmerkungen:] \begin{enumerate}
+        \item Handschriftliche Notizen, z.B. auf Beispiel-"'Transportscheinen"'
+        \item Anmerkungen des "`Allwissenden Erzählers"'
+    \end{enumerate}
+  \item[Formatierung:] Schriftartumstellung auf ECFAugie, Farbumstellung auf
+    darkBlue.
+  \item[Cave:] Aufgrund der gewählten Schriftart kann es zu Problemen mit
+    deutschen Sonderzeichen (ß, Umlaute) kommen!  
+\end{labeling}
+
+
+\aBox{Beispiel}{Handschrift}{black}
+{%
+\H{Das ist eine Handschrift!}
+}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Dokument -- \Code{\{\tbs ttfamily\}}}\marginpar{\T{\{\tbs
+ttfamily\}}}
+
+% Bla!
+% \begin{labeling}[~--]{Formatierung~~~}
+%   \item[Syntax:] \lstinline$\T{<text>}$
+%   \item[Beschreibung:]
+%   \item[Ja:] 
+%   \item[Nein:] 
+%   \item[Anmerkungen:] 
+%   \item[Formatierung:] 
+%   \item[Cave:] 
+% \end{labeling}
+% 
+% 
+% \aBox{Beispiel}{Befehl}{black}
+% {
+% 
+% Text}
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+\clearpage
+\section{Standardlayouts und "`Verheirateter Text"'}
+
+\begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+\Layout
+{
+ % #1: Nummer
+}{
+ % #2: Ueberschrift
+}{
+ % #3: Fliesstext
+}{
+ % #4: Stichworte
+}{
+ % #5: Bild-Pfad/Objekt
+}{
+ % #6: Bild/Objekt-Beschreibung
+}{
+ % #7: credits
+}
+\end{lstlisting}
+
+% \begin{gWideParEnv}
+% \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
+% \TabHeading{Befehl} & \TabHeading{Beschreibung}
+% \\\midrule\addlinespace
+% \vspace{-1\medskipamount}
+% 
+% \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+% \Layout
+% {1: Nummer}
+% {2: Ueberschrift}
+% {3: Fliesstext}
+% {4: Stichworte}
+% {5: Bild-Pfad/Objekt}
+% {6: Bild/Objekt-Beschreibung}
+% {7: credits}
+% \end{lstlisting}
+% &
+% Standardlayout
+% % \\\addlinespace
+% % \vspace{-1\medskipamount}
+% % 
+% % \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+% % \Married
+% % {
+% %  % #1: Fliesstext
+% % }{
+% %  % #2: Stichworte
+% % }
+% % \end{lstlisting}
+% % &
+% % Verheirateter Text. Die Rechte Spalte ist die Kurzfassung
+% % von der linken Spalte und soll in etwa einer
+% % Präsentations-Folie entsprechen 
+% % \\\addlinespace
+% % \vspace{-1\medskipamount}
+% % 
+% % \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+% % \MarriedNG
+% % {
+% %  % #1: Ueberschrift
+% % }{
+% %  % #2: Fliesstext
+% % }{
+% %  % #3: Stichworte
+% % }
+% % \end{lstlisting}
+% % &
+% % Verheirateter Text mir Paragraphenüberschrift. Die Rechte Spalte ist die
+% % Kurzfassung von der linken Spalte und soll in etwa einer
+% % Präsentations-Folie entsprechen 
+% % \\\addlinespace
+% % \vspace{-1\medskipamount}
+% % 
+% % \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
+% % \Parallel{
+% %  % li. Spalte
+% % }{
+% %  % re. Spalte 
+% % }
+% % \end{lstlisting}
+% % &
+% % wie \lstinline$\Married$, der Inhalt von rechter und
+% % linker Spalte hat jedoch keinen Bezug zueinander 
+% \\\bottomrule
+% \end{tabular}
+% \end{gWideParEnv}
+
+
+\begin{gWideParEnv}
+\begin{minipage}{\linewidth}
+\Captionof{table}{Standardlayouts}
+
+\begin{tabular}{rp{10cm}l}\toprule\addlinespace
+\noindent\TabHeading{\#}
+&
+\noindent\TabHeading{Beschreibung}
+&
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\TabHeading{Textlastiges Layout}}
+\\\addlinespace\midrule\addlinespace
+0
+&
+Die Rechte Spalte ist die Kurzfassung
+von der linken Spalte und soll in etwa einer
+Präsentations-Folie entsprechen 
+&
+Test
+\\
+1
+&
+ohne Überschrift
+&
+
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\TabHeading{Textlastige Layouts über gesamte Seite}}
+\\\addlinespace\midrule\addlinespace
+10
+&
+
+&
+
+\\
+11
+&
+
+&
+
+
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\TabHeading{Layout mit Bild}}
+\\\addlinespace\midrule\addlinespace
+20 & Bild + Fließtext, Punkte & Bild \nicefrac{1}{2} Textkolumne
+\\
+21 & Bild + Fließtext, Punkte, ohne Überschrift & Bild \nicefrac{1}{2}
+Textkolumne
+\\
+22 & Bild + Fließtext & 
+\\
+23 & Bild + Fließtext, ohne Überschrift & 
+\\
+24 & Bild + Punkte & 
+\\
+25 & Bild + Punkte, ohne Überschrift & 
+\\
+26 & Bild & 
+\\
+27 & Bild, ohne Überschrift &
+\\
+28 & Teaser + Fließtext, Punkte & wird 60
+\\
+29 & Teaser + Fließtext, Punkte, ohne Überschrift & wird 61
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\TabHeading{Layouts mit Bild über gesamte Seite}}
+\\\addlinespace\midrule\addlinespace
+30 & Bild + Fließtext, Punkte & 
+\\
+31 & Bild + Fließtext, Punkte, ohne Überschrift & 
+\\
+32 & Bild + Fließtext & 
+\\
+33 & Bild + Fließtext, ohne Überschrift & 
+\\
+34 & Bild + Punkte & 
+\\
+35 & Bild + Punkte, ohne Überschrift & 
+\\
+36 & Bild & 
+\\
+37 & Bild, ohne Überschrift &
+\\
+38 & Teaser + Fließtext, Punkte &
+\\
+39 & Teaser + Fließtext, Punkte, ohne Überschrift &
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\TabHeading{Layouts mit Objekt (Tabelle o.ä.)}}
+\\\addlinespace\midrule\addlinespace
+40 & Objekt + Fließtext, Punkte & 
+\\
+41 & Objekt + Fließtext, Punkte, ohne Überschrift & 
+\\
+42 & Objekt + Fließtext & 
+\\
+43 & Objekt + Fließtext, ohne Überschrift & 
+\\
+44 & Objekt + Punkte & 
+\\
+45 & Objekt + Punkte, ohne Überschrift & 
+\\
+46 & Objekt & 
+\\
+47 & Objekt, ohne Überschrift &
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\TabHeading{Layouts mit Objekt (Tabelle o.ä.) über ganze
+Seite}} 
+\\\addlinespace\midrule\addlinespace
+50 & Objekt + Fließtext, Punkte & 
+\\
+51 & Objekt + Fließtext, Punkte, ohne Überschrift & 
+\\
+52 & Objekt + Fließtext & 
+\\
+53 & Objekt + Fließtext, ohne Überschrift & 
+\\
+54 & Objekt + Punkte & 
+\\
+55 & Objekt + Punkte, ohne Überschrift & 
+\\
+56 & Objekt & 
+\\
+57 & Objekt, ohne Überschrift &
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\TabHeading{Teaser}} 
+\\\addlinespace\midrule\addlinespace
+60 & &
+\\
+61 & & 
+\\\addlinespace\bottomrule
+\end{tabular}
+
+\end{minipage}
+\end{gWideParEnv}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+\clearpage
+\section{Spezielle Bereiche}
+
+\begin{minipage}{0.48\linewidth}
+Ergebnis
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+Code
+\end{lstlisting}
+\end{minipage}
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Definitions-Box -- \Code{\tbs Definition\{\}}}\marginpar{\T{\tbs
+gDefinition\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\Definition{<text>}$
+%     \item[Beschreibung:]
+%     \item[Anwendung:] Definitionen.
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+    
+    \item[Formatierung:] Eingerückt, kursiv, grüne Schriftfarbe, beginnend mit
+    "`Definition: "`
+%     \item[Beispiel:]
+\end{description}
+
+\begin{lstlisting}
+\Definition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
+\end{lstlisting}
+
+\Definition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Fazit-Box -- \Code{\tbs Fazit\{\}}}\marginpar{\T{\tbs
+gFazit\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\Fazit{<text>}$
+%     \item[Beschreibung:]
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
+\end{description}
+
+\begin{lstlisting}
+\Fazit{Diese Aussage fasst etwas zusammen oder trifft eine Aussage die Speziell
+hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine entsprechende 
+Bedeutung haben. Wir sind froh die rote Fahne zu haben! }
+\end{lstlisting}
+
+\Fazit{Diese Aussage fasst etwas zusammen oder trifft eine Aussage die Speziell
+hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine entsprechende
+Bedeutung haben. Wir sind froh die rote Fahne zu haben! }
+
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Parallel-Box -- \Code{\tbs Parallel\{\}}}\marginpar{\T{\tbs
+gParallel\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\Parallel{<text>}$
+    \item[Beschreibung:] wie \lstinline$\Married$, der Inhalt von rechter und
+linker Spalte hat jedoch keinen Bezug zueinander     
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
+\end{description}
+
+
+
+\begin{minipage}{0.48\linewidth}
+
+
+\end{minipage}
+\hspace{0.04\linewidth}
+\begin{minipage}{0.48\linewidth}
+\begin{lstlisting}
+
+\end{lstlisting}
+\end{minipage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Massnahmen-Box -- \Code{\tbs
+gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\T{\tbs Massnahmen\{\}\{\}\{\}\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\MassnahmenNG{<Art>}{<bei>}{<Kommandos>}{<text>}$
+%     \item[Beschreibung:]
+%     \item[Anwendung:]
+%     \item[Nicht anzuwenden bei:]
+%     \item[Anmerkungen:] 
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:]
+\end{description}
+
+% \captionof{massnahmen}{test}\ovalbox{\sffamily M}
+% 
+% \MassnahmenNG{}{}{}
+% {
+% \begin{enumerate}
+%     \item Bla
+%     \item Blabla
+%     \item Blabla
+%     \item Punkt
+% \end{enumerate}
+% }
+% 
+% \MassnahmenNG{Spezielle Maßnahmen}{Darmverschluß}{}{
+% \begin{itemize}
+%     \item Patient nüchtern lassen.
+%     \item Hospitalisierung: Abt. f. Chirurgie.
+% \end{itemize}
+% }
+
+
+\begin{lstlisting}
+\MassnahmenNG{Spezielle Massnahmen}{Muster}{}
+{
+\begin{enumerate}
+    \item Bla
+    \item Blabla
+    \item Blabla!
+    \item Punkt.
+\end{enumerate}
+}
+\end{lstlisting}
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Cave-Box -- \Code{\tbs Cave\{\}}}\marginpar{\T{\tbs
+gCave\{\}}}
+
+\begin{description}
+    \item[Syntax:] \lstinline$\Cave{<text>}$
+%     \item[Beschreibung:]
+    \item[Anwendung:] Aussagen über eine massive Gefahr.
+%     \item[Nicht anzuwenden bei:]
+    \item[Anmerkungen:] Für die Auszeichnung einzelner Wörter steht der
+    \lstinline$\Ca{}$-Befehl zur Verfügung.
+%     \item[Cave:]
+%     
+%     \item[Formatierung:]
+%     \item[Beispiel:] 
+\end{description}
+
+\begin{lstlisting}
+\Cave{
+Dies ist eine Cave-Box!
+
+Die Cave-Box kann auch mit der \Ca{\tbs Ca\{\}-Formatierung} kombiniert werden!
+}
+\end{lstlisting}
+
+\Cave{
+Dies ist eine Cave-Box!
+
+Die Cave-Box kann auch mit der \Ca{\tbs Ca\{\}-Formatierung} kombiniert werden!
+}
+
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\section{Kommentare, Notizen und Tags für Autoren und Entwickler}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\subsubsection{Allgemeine Autorennotizen -- \Code{\tbs A\{\}}}\marginpar{\T{\tbs
+gA\{\}}}
+
+% Bla!
+% \begin{labeling}[~--]{Formatierung~~~}
+%   \item[Syntax:] \lstinline$\T{<text>}$
+%   \item[Beschreibung:]
+%   \item[Ja:] 
+%   \item[Nein:] 
+%   \item[Anmerkungen:] 
+%   \item[Formatierung:] 
+%   \item[Cave:] 
+% \end{labeling}
+% 
+% 
+% \aBox{Beispiel}{Befehl}{black}
+% {
+% 
+% Text}
+
+
+
+
+
+
+
+
+
+
+
+
+% \subsection{Textkürzel}
+% 
+% \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
+% \TabHeading{Befehl} & \TabHeading{Beschreibung}
+% \\\midrule
+% \lstinline$\Es{Hallo}$
+% & Erklärung
+% \\\addlinespace
+% \end{tabular}
+% 
+
+
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \section{Das Dateilayout}
+% 
+% \subsection{Die Kürzel}
+% 
+% Kapitel kommen ins Verzeichnis chapters.
+% 
+
+
+
+
+
+% \chapter{Showroom}
+% 
+% \section{}
+% 
+% \subsection{}
+% 
+% 
+% 
+% \section{Unfälle durch Strom- und Blitzschlag}
+% 
+% \marginpar{\includegraphics[width=\linewidth]{./images/electricity_japan.jpg}
+% \small\emph{Foto: Fina}}
+% 
+% Stromunfälle kommen typischerweise in folgenden Situationen vor:
+% \begin{itemize}
+% 	\item Spielende Jugendliche oder Arbeiter auf Eisenbahnwagons
+% 	\item LKW-Hebekräne oder Bagger geraten in Freileitungen
+% 	\item Unachtsamer Umgang mit Elektrogeräten im Badezimmer
+% 	\item Unsachgemäße Reparatur von Elektrogeräten
+% 	\item Arbeitsunfälle (Elektriker, Heimwerker)
+% 	\item Tragen von  Metallteilen in der Nähe von Hochspannungsleitungen
+% \end{itemize}
+% 
+% \subsubsection{Allgemeines zum elektrischen Strom und seine
+% Wirkung auf den Körper} 
+% 
+% Die Gefährdung bei Stromunfällen
+% hängt von verschiedenen Faktoren ab:
+% \begin{itemize}
+% 	\item \Es{Elektrische Spannung:} Die elektrische Spannung
+% 	ist die Ursache für den elektrischen Stromfluss und wird
+% 	in der Einheit Volt (V) gemessen. Wie gefährlich eine Spannung ist hängt nicht nur von der Höhe der Spannung selbst, sondern wesentlich auch vom elektrischen Strom, der von ihr hervorgerufen wird, ab. So kann z.B. die 12 V-Spannung einer Modelleisenbahn völlig ungefährlich sein, gibt es jedoch im Auto bei einer (großen) 12 V-Batterie einen Kurzschluss, kann ein gefährlich großer Strom fließen!
+% 		\begin{itemize}
+% 		\item \T{Niederspannung}: Von Niederspannung spricht man bei Spannungen bis 1000 V. An einer Autobatterie liegt eine Spannung von 12 V. An einer Steckdose liegt eine Spannung von 230 V, in Industriebetrieben wird zusätzlich oft eine Spannung von 400 V verwendet. Diese Spannungen sind auf jeden Fall lebensgefährlich. \Z{Ein Defibrillator schockt mit etwa 1000 V (!), ein externer Herzschrittmacher arbeitet mit bis zu 400 V.}
+% 		\item \T{Hochspannung}: Hochspannung ist eine Spannung über 1000 V. \Z{Über Hochspannungsleitungen wird die elektrische Energie mit einer Spannung von 110 000 V (= 110 kV) bis 380 000 V (= 380 kV) übertragen. An den Oberleitungen der Eisenbahn liegen 15 000 V (= 15 kV). Bei Gewitterblitzen treten Spannungen von 10-30 Millionen Volt (10-30 Megavolt) auf.}
+% 		\end{itemize}
+% 	\item \Es{Elektrische Stromstärke:} Elektrischer Strom ist der Fluss von Elektronen. Die treibende Kraft hinter dem Stromfluss ist die elektrische Spannung. Der elektrische Strom wird durch die elektrische Stromstärke beschrieben, welche mit der Einheit Ampere (A) gemessen wird. Kommt es zu einem Stromunfall ist die Schädigung im Körper von der Höhe der Stromstärke abhängig \footnote{Die Werte beziehen sich auf Wechselstrom, die Grenzwerte für Gleichstrom sind höher. Da oft die Stromart nicht bekannt ist, ist es prinzipiell sinnvoll von der gefährlicheren Stromart auszugehen!}:
+% \Z{
+% 		\begin{itemize}
+% 		\item Bei geringen Stromstärken \Es{unter 1 Milliampere (mA)} ist nur ein elektrischer Schlag spürbar.
+% 		\item Bei Stromstärken \Es{ab ca. 10 Milliampere (mA)} kommt es zu Schmerzempfindungen und Muskelkontraktionen. \cite{Jaros1}
+% 		\item Bei Stromstärken \Es{ab 15-25 mA} kommt es aufgrund der Muskelkontraktionen zu krampfhaften Festhalten der berührten Stromquelle. \cite{BoehmerTaschRett6}
+% 		\item Stromstärken \Es{ab 25-50 mA} sind \Es{lebensgefährlich}! \cite{BoehmerTaschRett6}
+% 		\item Stromstärken \Es{ab 80 mA} führen zu Atemlähmungen und Kammerflimmern! \cite{Jaros1}
+% 		\item Stromstärken \Es{ab 3 A} führen zusätzlich zu Verbrennungen, Verkochungen und Verkohlungen. \cite{LPN3}
+% 		\end{itemize}
+% }
+% 	\item \Es{Elektrischer Widerstand:} Jeder Körper und
+% 	jeder Stoff setzt dem elektrischen Stromfluss einen
+% 	Widerstand entgegen. Dieser elektrische Widerstand wird in
+% 	Ohm ($\Omega$) gemessen. Je größer der Widerstand eines
+% 	Körpers, desto kleiner ist der elektrische Strom. Trockene
+% 	Haut hat einen elektrischen Widerstand von 100 000 Ohm,
+% 	\Es{feuchte Haut hat einen geringeren Widerstand} von
+% 	weniger als 1000 Ohm. Der Widerstand von geschädigter
+% 	(z.B. verbrannter) Haut ist noch geringer. \Z{Greift man z.B. mit feuchten Händen in die Steckdose (230 V) so stellt sich durch den Körperwiderstand von ca. 1000 Ohm ein elektrischer Strom der Stärke 230 mA ein.}\footnote{Der Leser kann dies durch das Ohmsche Gesetz leicht selbst nachrechnen! Die Spannung $U$ ist das Produkt aus dem Widerstand $R$ und der elektrischen Stromstärke $I$: $U=R \cdot I$} Diese Stromstärke ist absolut lebensgefährlich, wie man aus der Übersicht oben schnell entnehmen kann.
+% 	\item \Es{Einwirkdauer:} Je länger die Einwirkzeit (Kontaktzeit), desto größer ist die Schädigung.
+% 	\item \Es{Stromweg:} Die Schädigung im Körper hängt auch vom Weg des Stromes durch den Körper ab. Fließt der Strom z.B. von einer Hand zur anderen Hand durch den Körper ist dies gefährlicher, als wenn der Strom von einer Hand zum Fuß fließt.
+% 	\item \Es{Stromart:} Wechselstrom ist gefährlicher als Gleichstrom. An den Steckdosen im Haushalt liegt Wechselspannung an. Dieser ändert die Stromrichtung 50 mal pro Sekunde (\Z{Frequenz = 50 Hz}), weshalb die Wahrscheinlichkeit für Kammerflimmern auch bei kurzen Stromkontakten steigt. \cite{RedelsteinerHRNS1} \footnote{Bei monophasischen Defibrillatoren wird mit Gleichstrom gearbeitet, biphasische Defibrillatoren polen die Stromrichtung einmal um (Wechselstrom).} 
+% \end{itemize}
+% 
+% \AuthNotes{\#9: EMHOFER: Bilder von verschiedenen
+% Steckdosen, Kabel und Hinweisschildern einfügen}
+% 
+% %\T{Niederspannung}: bis 1000\,Volt (Steckdose:  230 Volt)
+% %\T{Hochspannung}: \"uber 1000\,Volt, Stromst\"arke
+% %{\textgreater}  3 Ampere (\"Uberlandleitungen) 
+% 
+% \subsubsection{Besonderer Gefahrenbereich}
+% \index{Gefahrenbereich!Strom}\label{topic:gefahrenbereich-strom}
+% Starkstrom/Hochspannung durch Fachmann (E-Werk, ÖBB,
+% Betriebsleitung, ...) abschalten bzw. erden lassen. 
+% 
+% Strom
+% gegen Wiedereinschalten sichern! Patient mit isolierendem
+% Material aus dem Stromkreis befreien. Sicherheitsabstand zu
+% stromführenden Freileitungen einhalten! 
+% 
+% \subparagraph{Freileitungen}
+% 
+% 
+% Bei Freileitungen mit
+% 220 000 Volt (220\,kV) sind mindestens 4\,m Abstand zu halten.
+% \cite{Jaros1} 
+% 
+% Bei herabhängenden Hochspannungsleitungen oder
+% nach Blitzeinschlägen auf die Schrittspannung achten: Die
+% Spannung fällt im Boden nicht sofort auf 0 Volt ab, innerhalb
+% eines gewissen Umkreises kann daher zwischen den beiden
+% Beinen am Boden eine so genannte Schrittspannung auftreten.
+% Befinden Sie sich innerhalb eines solchen Gebietes lassen Sie
+% Ihre Beine eng beisammen und springen aus diesem Bereich
+% heraus. Je nach Bodenbeschaffenheit können Schrittspannungen
+% bis zu einer Distanz von 20\,m von der herunterhängenden
+% Hochspannungsleitung auftreten. \cite{RedelsteinerHRNS1} 
+% 
+% \subparagraph{Bahnanlagen}
+% Bei
+% Notfällen auf Bahngleisen ist auf jeden Fall der
+% Streckenabschnitt von der ÖBB sperren zu lassen (über die
+% Leitstelle)! An den Masten der Oberleitungen der ÖBB sind
+% entsprechende Mastennummer angebracht. Diese müssen bei der Leitstelle gemeldet
+% werden. 
+% 
+% Ähnliches gilt für Stadt- und U-Bahn-Anlagen. Da die Stromversorgung oft nicht
+% durch eine Oberleitung, sondern durch andere Vorrichtungen in
+% Bodennähe (Stromschiene, etc.) erfolgt, besteht auch bei intakten Anlagen die
+% Gefahr eines Stromschlages, sofern die Gleisanlagen betreten werden. Als
+% Traktionsspannung werden oft Spannungen um die 700\,V eingesetzt. \cite{U61989}
+%  
+% \subsection{nachher}
+% 
+
+
+
+
+
+% \chapter{Anhang}
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+% \section{Dateien}
+
+% \subsubsection{input-colors.tex}
+% 
+% {\scriptsize
+% 
+% \lstinputlisting{./inputs/input-colors.tex}
+% 
+% }
+% 
+% \subsubsection{aass-common.sty}
+% 
+% \begin{gWideParEnv}
+% {\scriptsize
+% \lstinputlisting{./packages/aass-common.sty}
+% }
+% \end{gWideParEnv}
+
+
+
+\end{document}

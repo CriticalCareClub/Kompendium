@@ -1,4 +1,6 @@
 *~
+*.2do
+*.acn
 *.aux
 *.bbl
 *.blg
@@ -6,6 +8,8 @@
 *.out
 *.dvi
 *.err
+*.gal
+*.glo-*
 *.idx
 *.ilg
 *.ind
@@ -16,15 +20,19 @@
 *.maf
 *.mtc
 *.mtc*
+*.war
 *.refactorings
 *.rx
 AAS.pdf
+AASS.ist
 AASS.pdf
 AASS-*.pdf
+Ausgabe/*
 tempPartial*
 *.toc
 *.tmp
 out/*
+skull.720pk
 tmp/*
 trunk/out/*.pdf
 trunk/tmp/*

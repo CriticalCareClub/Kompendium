@@ -62,8 +62,21 @@ toc=flat,
 \input{./inputs/input-hyphenation}
 
 % Titel
-\input{./inputs/input-title}
-\title{Exams}
+% \input{./inputs/input-title}
+\titlehead{{\DocVersionTyp} {\DocVersion} (Var. ASB\,921 --
+{\DocVersionInfo}) \par\DocGitCommitTiny}
+
+\author{{\normalsize Herausgeber} \vspace{0.5em}\\Gabriel, Koch, Emhofer, Motal, Steuer
+\vspace{1em}\\{\itshape\normalsize{ Mit Beiträgen von
+Christof Koller, Michael Withofner u.a.}}}
+
+\title{Examen}
+\subtitle{Angepasste Variante für das Ausbildungszentrum des ASB
+Floridsdorf-Donaustadt}
+\subject{\Huge{\AASS}}
+\date{\today}
+% \date{November 2009}
+\publishers{{\fontfamily{lmss}\selectfont ARGE \AASS}}
 
 % Dokumenteinfos (Status, Version, ...)
 \input{./inputs/input-docinfo}
@@ -308,11 +321,11 @@ bindingoffset=1.5cm}
 \maketitle
 
 
-\opt{STATUS-DRAFT}{
-{\small
-\listof{warning}{Verzeichnis der Warnungen}
-}
-}
+% \opt{STATUS-DRAFT}{
+% {\small
+% \listof{warning}{Verzeichnis der Warnungen}
+% }
+% }
 
 \restoregeometry
 
@@ -344,327 +357,327 @@ bindingoffset=1.5cm}
 % 
 % \tocdesign
 
-
-
-
-\section{Offenlegung, Impressum, Nutzungsbedingungen und Hinweise}
+% 
+% 
+% 
+% \section{Offenlegung, Impressum, Nutzungsbedingungen und Hinweise}
+% % \begin{gWideParEnv}
+% \begin{multicols}{2}
+% \paragraph{Gesamtherausgeber und Medieninhaber}~
+% 
+% {\noindent\sffamily Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für
+% den Sanitätsdienst -- }{\ARGEAASS}
+% 
+% \noindent{}Engerthstraße 146\,/\,8\,/\,13 \\ A-1200 Wien -- AUSTRIA
+% 
+% \noindent{}E-Mail: office@aass.at
+% 
+% \noindent{}Homepage: \url{http://www.aass.at}
+% 
+% \noindent{}ZVR: 846678982
+% 
+% \paragraph{Weitere Informationen}~
+% 
+% \begin{description}
+%   \item[Verlags- und Herstellungsort:] Wien
+%   \item[Publikationsart:] elektronisch. Die etwaige Herstellung von
+%   Druckwerken erfolgt durch den autorisierten Nutzer.
+%   \item[ISBN:] ---
+%   \item[ISSN:] ---
+%   \item[Status:] \DocVersionTyp{} (\DocVersionInfo{})
+%   \item[Versionsgeschichte:]~
+%   
+%   {\scriptsize %
+%   \begin{description}
+%     \item[0.2.0] 2009-07 (VV\footnote{Vorabversion}, 349 Änderungen\footnote{Seit
+%     Übernahme in das Versionsverwaltungssystem.})
+%     \item[0.4.0] 2009-09 (VV, 284 Änderungen)
+%     \item[0.6.0] 2009-10 (VV, 322 Änderungen)
+%     \item[0.8.0] 2010-01 (VV, 653 Änderungen)
+%     \item[0.10.0] 2010-06 (VV, 935 Änderungen\footnote{Lt. vorläufiger
+%     Statistik, Änderungen nach Redaktionsschluss möglich.})
+%   \end{description}
+%   }
+% \end{description}
+% \noindent{}
+% 
+% 
+% \vspace{1em}
+% 
+% \noindent{}Die {\ARGEAASS} ist ein gemeinnütziger Verein mit Sitz in Wien,
+% welcher die Entwicklung, Wartung, Qualitätssicherung, Anpassung, Verbreitung und Lehre von
+% wissenschaftlich und sachlich fundierten Arbeits- und Ausbildungsstandards für
+% den Sanitätsdienst (AASS), sowie die wissenschaftliche Forschungstätigkeit in
+% diesem Gebiet bezweckt.
+% 
+% \paragraph{Mitarbeit und Meldung von Fehlern}~
+% 
+% \noindent{}Wünsche, Anregungen, Beschwerden und Fehlermeldungen nehmen wir
+% gerne unter 
+% % \url{http://www.aass.at/bugs}
+% \href{mailto:anregungen@aass.at}{\nolinkurl{anregungen@aass.at}} entgegen.
+% 
+% \paragraph{Nutzungsbestimmungen}~
+% 
+% \noindent{}Dieses Werk ist nur für den internen Gebrauch gem. §\,42
+% Abs.\,6 UrheberG bestimmt. Die Weitergabe ist nicht
+% gestattet. 
+% 
+% Sollten Sie Interesse an den Arbeits- und
+% Ausbildungsstandards für den Sanitätsdienst haben, setzen
+% Sie sich bitte mit uns in Verbindung.
+% 
+% \paragraph{Hinweise}~
+% 
+% \noindent{}Wie jede Wissenschaft ist die Medizin ständigen Entwicklungen
+% unterworfen. Soweit fachliche Angaben gemacht werden, darf der Leser
+% zwar darauf vertrauen, dass die Autoren große Sorgfalt
+% darauf verwandt haben, dass diese Angaben dem Wissensstand bei
+% Fertigstellung des Werkes entspricht. Für Angaben, speziell
+% über Dosierungsanweisungen und Applikationsformen, kann jedoch
+% keine Gewähr übernommen werden. 
+% 
+% Jeder Leser ist angehalten, durch
+% sorgfältige Prüfung der Literatur, der Lehrmeinung so\-wie der
+% Beipackzettel der verwendeten Präparate und gegebenenfalls nach
+% Konsultation eines Spezialisten festzustellen, ob die gegebene
+% Aussage oder Empfehlung für Dosierungen oder die Beachtung von
+% Kontraindikationen gegenüber der Angabe in diesem
+% Werk abweicht. Jede Dosierung oder Applikation erfolgt
+% auf eigene Gefahr des Benutzers. 
+% 
+% Die {\ARGEAASS} bittet jeden Leser, ihm aufgefallene Ungenauigkeiten und
+% Fehler, sowie Anregungen und konstruktive Kritik, über die Email-Adresse
+% \href{mailto:anregungen@aass.at}{\nolinkurl{anregungen@aass.at}} mitzuteilen.
+% 
+% Geschützte Warennamen und Warenzeichen werden nicht durchgehend besonders
+% kenntlich gemacht. Aus dem Fehlen eines solchen Hinweises kann also
+% nicht geschlossen werden, dass es sich um einen freien Warennamen
+% handelt.
+% \end{multicols}
+% % \end{gWideParEnv}
+% 
+% % \noindent{}{\scriptsize \textbf{Vorabversionen:} 0.2.0 2009-07 / 0.4.0 2009-09
+% % / 0.6.0 2009-10 / 0.8.0 2010-01 / 0.10.0 2010-06}
+% 
+% 
+% 
+% \clearpage
+% \section{Herausgeber und Redakteure}
 % \begin{gWideParEnv}
-\begin{multicols}{2}
-\paragraph{Gesamtherausgeber und Medieninhaber}~
-
-{\noindent\sffamily Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für
-den Sanitätsdienst -- }{\ARGEAASS}
-
-\noindent{}Engerthstraße 146\,/\,8\,/\,13 \\ A-1200 Wien -- AUSTRIA
-
-\noindent{}E-Mail: office@aass.at
-
-\noindent{}Homepage: \url{http://www.aass.at}
-
-\noindent{}ZVR: 846678982
-
-\paragraph{Weitere Informationen}~
-
-\begin{description}
-  \item[Verlags- und Herstellungsort:] Wien
-  \item[Publikationsart:] elektronisch. Die etwaige Herstellung von
-  Druckwerken erfolgt durch den autorisierten Nutzer.
-  \item[ISBN:] ---
-  \item[ISSN:] ---
-  \item[Status:] \DocVersionTyp{} (\DocVersionInfo{})
-  \item[Versionsgeschichte:]~
-  
-  {\scriptsize %
-  \begin{description}
-    \item[0.2.0] 2009-07 (VV\footnote{Vorabversion}, 349 Änderungen\footnote{Seit
-    Übernahme in das Versionsverwaltungssystem.})
-    \item[0.4.0] 2009-09 (VV, 284 Änderungen)
-    \item[0.6.0] 2009-10 (VV, 322 Änderungen)
-    \item[0.8.0] 2010-01 (VV, 653 Änderungen)
-    \item[0.10.0] 2010-06 (VV, 935 Änderungen\footnote{Lt. vorläufiger
-    Statistik, Änderungen nach Redaktionsschluss möglich.})
-  \end{description}
-  }
-\end{description}
-\noindent{}
-
-
-\vspace{1em}
-
-\noindent{}Die {\ARGEAASS} ist ein gemeinnütziger Verein mit Sitz in Wien,
-welcher die Entwicklung, Wartung, Qualitätssicherung, Anpassung, Verbreitung und Lehre von
-wissenschaftlich und sachlich fundierten Arbeits- und Ausbildungsstandards für
-den Sanitätsdienst (AASS), sowie die wissenschaftliche Forschungstätigkeit in
-diesem Gebiet bezweckt.
-
-\paragraph{Mitarbeit und Meldung von Fehlern}~
-
-\noindent{}Wünsche, Anregungen, Beschwerden und Fehlermeldungen nehmen wir
-gerne unter 
-% \url{http://www.aass.at/bugs}
-\href{mailto:anregungen@aass.at}{\nolinkurl{anregungen@aass.at}} entgegen.
-
-\paragraph{Nutzungsbestimmungen}~
-
-\noindent{}Dieses Werk ist nur für den internen Gebrauch gem. §\,42
-Abs.\,6 UrheberG bestimmt. Die Weitergabe ist nicht
-gestattet. 
-
-Sollten Sie Interesse an den Arbeits- und
-Ausbildungsstandards für den Sanitätsdienst haben, setzen
-Sie sich bitte mit uns in Verbindung.
-
-\paragraph{Hinweise}~
-
-\noindent{}Wie jede Wissenschaft ist die Medizin ständigen Entwicklungen
-unterworfen. Soweit fachliche Angaben gemacht werden, darf der Leser
-zwar darauf vertrauen, dass die Autoren große Sorgfalt
-darauf verwandt haben, dass diese Angaben dem Wissensstand bei
-Fertigstellung des Werkes entspricht. Für Angaben, speziell
-über Dosierungsanweisungen und Applikationsformen, kann jedoch
-keine Gewähr übernommen werden. 
-
-Jeder Leser ist angehalten, durch
-sorgfältige Prüfung der Literatur, der Lehrmeinung so\-wie der
-Beipackzettel der verwendeten Präparate und gegebenenfalls nach
-Konsultation eines Spezialisten festzustellen, ob die gegebene
-Aussage oder Empfehlung für Dosierungen oder die Beachtung von
-Kontraindikationen gegenüber der Angabe in diesem
-Werk abweicht. Jede Dosierung oder Applikation erfolgt
-auf eigene Gefahr des Benutzers. 
-
-Die {\ARGEAASS} bittet jeden Leser, ihm aufgefallene Ungenauigkeiten und
-Fehler, sowie Anregungen und konstruktive Kritik, über die Email-Adresse
-\href{mailto:anregungen@aass.at}{\nolinkurl{anregungen@aass.at}} mitzuteilen.
-
-Geschützte Warennamen und Warenzeichen werden nicht durchgehend besonders
-kenntlich gemacht. Aus dem Fehlen eines solchen Hinweises kann also
-nicht geschlossen werden, dass es sich um einen freien Warennamen
-handelt.
-\end{multicols}
+% \emph{\tiny{(in alphabetischer Reihenfolge)}}
+% 
+% 
+% \begin{multicols}{2}
+%     
+%  \paragraph{Josef Emhofer}
+%     Mag. 
+%     
+%     \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
+%     Wallenberggasse 2, A-1220 Wien.
+% 
+%     \paragraph{Sebastian Gabriel}~
+%     
+%     \noindent{}Department für medizinische Aus- und Weiterbildung --
+%     Medizinische Universität Wien, 
+%     Spitalgasse 23, A-1090 Wien.
+% 
+%     \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
+%     Wallenberggasse 2, A-1220 Wien.
+% 
+%     
+%     \paragraph{Lena Hirtler}~
+%     
+%     \noindent{}Medizinische Universität Wien -- Zentrum für Anatomie und
+%     Zellbiologie, Abt. für systmatische Anatomie,    
+%     Währingerstraße 13, A-1090 Wien.
+%     
+%     \paragraph{Roman Koch} 
+%     Ing.
+%     
+%     \noindent{}Leiter Ausbildungszentrum des ASB
+%     Floridsdorf-Donaustadt, Wallenberggasse 2, A-1220 Wien.
+%     
+%     \paragraph{Christof Koller}~
+%     
+%     \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,
+%     Wallenberggasse 2, A-1220 Wien.
+%     
+%     \paragraph{Michael Motal}~
+%     
+%     \noindent{}Department für medizinische Aus- und Weiterbildung --
+%     Medizinische Universität Wien,   
+%     Spitalgasse 23, A-1090 Wien.
+%     
+%     \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,
+%     Wallenberggasse 2, A-1220 Wien.
+%     
+%     \paragraph{Johannes Steuer}
+%     Dr.\,med.\,univ., M.Sc.
+%     
+%     \noindent{}Ärztlicher Leiter und Medizinisch-wissenschaftlicher Leiter der
+%     Curricula\\    
+%     ASB Floridsdorf-Donaustadt
+%     Wallenberggasse 2, A-1220 Wien.
+%     
+%     \noindent{}Sozialmedizinisches Zentrum Ost der Stadt Wien -- Donauspital,
+%     Abteilung für Anästhesiologie und Intensivmedizin,
+%     Langobardenstra{\ss}e 122, A-1220 Wien.
+%     
+% 
+%     
+% \end{multicols}
 % \end{gWideParEnv}
-
-% \noindent{}{\scriptsize \textbf{Vorabversionen:} 0.2.0 2009-07 / 0.4.0 2009-09
-% / 0.6.0 2009-10 / 0.8.0 2010-01 / 0.10.0 2010-06}
-
-
-
-\clearpage
-\section{Herausgeber und Redakteure}
-\begin{gWideParEnv}
-\emph{\tiny{(in alphabetischer Reihenfolge)}}
-
-
-\begin{multicols}{2}
-    
- \paragraph{Josef Emhofer}
-    Mag. 
-    
-    \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
-    Wallenberggasse 2, A-1220 Wien.
-
-    \paragraph{Sebastian Gabriel}~
-    
-    \noindent{}Department für medizinische Aus- und Weiterbildung --
-    Medizinische Universität Wien, 
-    Spitalgasse 23, A-1090 Wien.
-
-    \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
-    Wallenberggasse 2, A-1220 Wien.
-
-    
-    \paragraph{Lena Hirtler}~
-    
-    \noindent{}Medizinische Universität Wien -- Zentrum für Anatomie und
-    Zellbiologie, Abt. für systmatische Anatomie,    
-    Währingerstraße 13, A-1090 Wien.
-    
-    \paragraph{Roman Koch} 
-    Ing.
-    
-    \noindent{}Leiter Ausbildungszentrum des ASB
-    Floridsdorf-Donaustadt, Wallenberggasse 2, A-1220 Wien.
-    
-    \paragraph{Christof Koller}~
-    
-    \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,
-    Wallenberggasse 2, A-1220 Wien.
-    
-    \paragraph{Michael Motal}~
-    
-    \noindent{}Department für medizinische Aus- und Weiterbildung --
-    Medizinische Universität Wien,   
-    Spitalgasse 23, A-1090 Wien.
-    
-    \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,
-    Wallenberggasse 2, A-1220 Wien.
-    
-    \paragraph{Johannes Steuer}
-    Dr.\,med.\,univ., M.Sc.
-    
-    \noindent{}Ärztlicher Leiter und Medizinisch-wissenschaftlicher Leiter der
-    Curricula\\    
-    ASB Floridsdorf-Donaustadt
-    Wallenberggasse 2, A-1220 Wien.
-    
-    \noindent{}Sozialmedizinisches Zentrum Ost der Stadt Wien -- Donauspital,
-    Abteilung für Anästhesiologie und Intensivmedizin,
-    Langobardenstra{\ss}e 122, A-1220 Wien.
-    
-
-    
-\end{multicols}
-\end{gWideParEnv}
-
-\section{Autoren und Reviewer}
-
-\begin{gWideParEnv}
-
-\emph{\tiny{(in alphabetischer Reihenfolge)}}
-
-
-\begin{multicols}{2} 
-
-    \paragraph{Alexander Blacky}
-    Dr.\,med.\,univ.\\
-    Klinisches Institut für Krankenhaushygiene, AKH Wien\\    
-    Währinger Gürtel 18-20, A-1090 Wien.
-    
-    \paragraph{Elisabeth Hartl}
-    Dr.\,med.\,univ.\\    
-    Stv. ärztliche Leiterin und stv. medizinisch-wissenschaftliche Leiterin der
-    Curricula\\    
-    ASB Floridsdorf-Donaustadt,
-    Wallenberggasse 2, A-1220 Wien.
-    
-    \paragraph{David Hauer}
-    Dr.\,med.\,univ.\\    
-    Landeskrankenhaus St. Pölten.
-    
-
-
-
-    \paragraph{Gerhard Gabriel}
-    Dr.\,med.\,univ. \\    
-    Facharzt für Innere Medizin, Langenzersdorf.
-    
-    \paragraph{Thomas Hochreiter}
-    DGKP\\
-    Sozialmedizinisches Zentrum Floridsdorf, Krankenhaus und
-    Geriatriezentrum Hinaysgasse 1, A-1210 Wien.\\
-    Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
-    Wallenberggasse 2, A-1220 Wien.
-    
-    \paragraph{Michael Neuhold}
-    Ing.\\
-    Technischer Leiter, ASB Floridsdorf-Donaustadt,
-    Wallenberggasse 2, A-1220 Wien.
-    
-    \paragraph{Michael Withofner}
-    Dr.\,med.\,univ.\\    
-    Sozialmedizinisches Zentrum Ost der Stadt Wien -- Donauspital, 
-    Langobardenstra{\ss}e 122, A-1220 Wien.
-    
-    \paragraph{Elisabeth Zwingraf}
-    Mag. \\    
-    Leiterin Landesschulung, ASBÖ, Landesverband Wien\\    
-    Pillergasse 24, A-1150 Wien.
-    
-    
-\end{multicols}
-\end{gWideParEnv}
-
-\section{Technische und künstlerische Mitarbeiter und Berater}
-
-\begin{gWideParEnv}
-
-
-\emph{\tiny{(in alphabetischer Reihenfolge)}}
-
-
-\begin{multicols}{2} 
-
-\begin{itemize}
-  \item Mirko Fina, Mag. 
-  \item Christoph Pallinger
-  \item Ulrich Zehl
-\end{itemize}
-  
-\end{multicols}
-
-
-\section{Mitwirkende}
-
+% 
+% \section{Autoren und Reviewer}
+% 
 % \begin{gWideParEnv}
-\begin{multicols}{2}
-
-\begin{compactitem}
-\item Mario Artlieb
-
-\item Department für medizinische Aus- und Weiterbildung -- Medizinische
-Universität Wien, Abt. Methodik und Entwicklung
-
-\item Fritz Dominik
-
-\item Christine Gabriel, Dr.\,med.\,univ.
-
-\item Bernhard Göritzer, Dr.\,med.\,univ.
-
-\item Gerald Höritzmiller
-
-\item Manfred Janisi
-
-\item Michaela Machowetz
-
-\item Marina Marinkovic
-
-\item Christian Protz
-
-\item Dominik Rumler
-\end{compactitem}
-
-
-
-\noindent{}Weiters danken wir allen Einsendern, welche uns Fehler gemeldet und
-uns mit Ihrer konstruktiven Kritik unterstützt haben.
-
-\end{multicols}
-
-\end{gWideParEnv}
-% \restoregeometry
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\begin{gWideParEnv}
-\setcounter{tocdepth}{2}
-\shorttableofcontents{Übersicht}{0}
-\end{gWideParEnv}
+% 
+% \emph{\tiny{(in alphabetischer Reihenfolge)}}
+% 
+% 
+% \begin{multicols}{2} 
+% 
+%     \paragraph{Alexander Blacky}
+%     Dr.\,med.\,univ.\\
+%     Klinisches Institut für Krankenhaushygiene, AKH Wien\\    
+%     Währinger Gürtel 18-20, A-1090 Wien.
+%     
+%     \paragraph{Elisabeth Hartl}
+%     Dr.\,med.\,univ.\\    
+%     Stv. ärztliche Leiterin und stv. medizinisch-wissenschaftliche Leiterin der
+%     Curricula\\    
+%     ASB Floridsdorf-Donaustadt,
+%     Wallenberggasse 2, A-1220 Wien.
+%     
+%     \paragraph{David Hauer}
+%     Dr.\,med.\,univ.\\    
+%     Landeskrankenhaus St. Pölten.
+%     
+% 
+% 
+% 
+%     \paragraph{Gerhard Gabriel}
+%     Dr.\,med.\,univ. \\    
+%     Facharzt für Innere Medizin, Langenzersdorf.
+%     
+%     \paragraph{Thomas Hochreiter}
+%     DGKP\\
+%     Sozialmedizinisches Zentrum Floridsdorf, Krankenhaus und
+%     Geriatriezentrum Hinaysgasse 1, A-1210 Wien.\\
+%     Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
+%     Wallenberggasse 2, A-1220 Wien.
+%     
+%     \paragraph{Michael Neuhold}
+%     Ing.\\
+%     Technischer Leiter, ASB Floridsdorf-Donaustadt,
+%     Wallenberggasse 2, A-1220 Wien.
+%     
+%     \paragraph{Michael Withofner}
+%     Dr.\,med.\,univ.\\    
+%     Sozialmedizinisches Zentrum Ost der Stadt Wien -- Donauspital, 
+%     Langobardenstra{\ss}e 122, A-1220 Wien.
+%     
+%     \paragraph{Elisabeth Zwingraf}
+%     Mag. \\    
+%     Leiterin Landesschulung, ASBÖ, Landesverband Wien\\    
+%     Pillergasse 24, A-1150 Wien.
+%     
+%     
+% \end{multicols}
+% \end{gWideParEnv}
+% 
+% \section{Technische und künstlerische Mitarbeiter und Berater}
+% 
+% \begin{gWideParEnv}
+% 
+% 
+% \emph{\tiny{(in alphabetischer Reihenfolge)}}
+% 
+% 
+% \begin{multicols}{2} 
+% 
+% \begin{itemize}
+%   \item Mirko Fina, Mag. 
+%   \item Christoph Pallinger
+%   \item Ulrich Zehl
+% \end{itemize}
+%   
+% \end{multicols}
+% 
+% 
+% \section{Mitwirkende}
+% 
+% % \begin{gWideParEnv}
+% \begin{multicols}{2}
+% 
+% \begin{compactitem}
+% \item Mario Artlieb
+% 
+% \item Department für medizinische Aus- und Weiterbildung -- Medizinische
+% Universität Wien, Abt. Methodik und Entwicklung
+% 
+% \item Fritz Dominik
+% 
+% \item Christine Gabriel, Dr.\,med.\,univ.
+% 
+% \item Bernhard Göritzer, Dr.\,med.\,univ.
+% 
+% \item Gerald Höritzmiller
+% 
+% \item Manfred Janisi
+% 
+% \item Michaela Machowetz
+% 
+% \item Marina Marinkovic
+% 
+% \item Christian Protz
+% 
+% \item Dominik Rumler
+% \end{compactitem}
+% 
+% 
+% 
+% \noindent{}Weiters danken wir allen Einsendern, welche uns Fehler gemeldet und
+% uns mit Ihrer konstruktiven Kritik unterstützt haben.
+% 
+% \end{multicols}
+% 
+% \end{gWideParEnv}
+% % \restoregeometry
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% \begin{gWideParEnv}
+% \setcounter{tocdepth}{2}
+% \shorttableofcontents{Übersicht}{0}
+% \end{gWideParEnv}
 
 
 % {
@@ -680,16 +693,16 @@ uns mit Ihrer konstruktiven Kritik unterstützt haben.
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
 \dominitoc[n]
 % \setcounter{tocdepth}{3}
+% 
+% \begin{gWideParEnv}
+% {\scriptsize
+% \tableofcontents
+% }
+% \end{gWideParEnv}
 
-\begin{gWideParEnv}
-{\scriptsize
-\tableofcontents
-}
-\end{gWideParEnv}
 
 
-
-\chapter{Fallbeispiele AUT SanG Modul 1}
+% \chapter{Fallbeispiele AUT SanG Modul 1}
 
 \ExamProtTypA{Lungenembolie}
 {Patient mit Atemnot und atemabhängigen

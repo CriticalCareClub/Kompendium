@@ -5,7 +5,7 @@
   title = {Emergency Care and Transportation of the Sick and Injured},
   publisher = {Jones and Bartlett Publishers, Inc},
   year = {2006},
-  author = {Aaos},
+  author = {{AAOS}},
   edition = {9},
   month = jun,
   language = {english},
@@ -3060,6 +3060,54 @@
   language = {german},
   owner = {grissu},
   timestamp = {2010.06.30}
+}
+
+@ARTICLE{ASBOEAkademieUpdate2010Verbrennung,
+  author = {ASB\"O Akademie},
+  title = {Verbrennung -- Aktuelle Lehrmeinung},
+  journal = {ASB\"O Akademie update},
+  volume = {1},
+  pages = {3--4},
+  number = {0},
+  language = {ngerman},
+  owner = {grissu},
+  timestamp = {2010.08.01}
+}
+
+@ARTICLE{ASBOEAkademieUpdate2010Sturzhelm,
+  author = {ASB\"O Akademie},
+  title = {Abnahme eines Sturzhelmes -- Lehrmeinung},
+  journal = {ASB\"O Akademie update},
+  volume = {1},
+  pages = {6--7},
+  number = {0},
+  language = {ngerman},
+  owner = {grissu},
+  timestamp = {2010.08.01}
+}
+
+@BOOK{HampLehrbuchTertialeNotfallIntensivmedizin1,
+  title = {Lehrbuch Tertiale Notfall- und Intensivmedizin},
+  publisher = {Springer},
+  year = {2010},
+  editor = {Hamp and Weidenauer},
+  language = {ngerman},
+  isbn = {978-3-211-75604-1},
+  owner = {grissu},
+  timestamp = {2010.08.01}
+}
+
+@INBOOK{HampLehrbuchTertialeNotfallIntensivmedizin1Brandverletzungen,
+  chapter = {Brandverletzungen},
+  pages = {236--248},
+  title = {Lehrbuch Tertiale Notfall- und Intensivmedizin},
+  publisher = {Springer},
+  year = {2010},
+  editor = {Hamp and Weidenauer},
+  language = {ngerman},
+  isbn = {978-3-211-75604-1},
+  owner = {grissu},
+  timestamp = {2010.08.02}
 }
 
 @comment{jabref-meta: selector_publisher:}

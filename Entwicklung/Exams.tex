@@ -1,0 +1,821 @@
+\documentclass[
+ngerman,
+paper=a4,
+asymmetric,
+fontsize=9pt,
+% headings=small,
+draft=false,
+parskip=half,
+% listof=totoc,         % verschiebt Minitoc/Hyperref
+% bibliography=totoc,   % verschiebt Minitoc/Hyperref
+% index=totoc,
+% noonelinecaption
+footnotes=multiple,
+toc=flat,
+]{scrbook}
+% \setlength{\parindent}{1.5em}
+% \usepackage{scrhack}
+
+% UTF-8 Schriftkodierung
+\usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}
+% get rid of the "no room for new \ldots"
+% standard TeX registers are limitied to 256, etex increases the max.
+\usepackage{etex}
+
+\pdfcompresslevel=9
+\pdfimageresolution=72
+% \pdfpkresolution=72
+
+% \usepackage[a-1b]{pdfx}
+% \def\Keywords{AASS}
+% \def\Title{AASS}
+% \def\Author{ARGE AASS}
+% \def\Org{ARGE AASS}
+% % \input glyphtounicode.tex
+% \input glyphtounicode-cmr.tex
+% \pdfgentounicode=1
+
+% \usepackage[xcolor]{rvdtx}
+
+\usepackage{blindtext}
+\usepackage{microtype,fixltx2e,ellipsis}
+% \usepackage{xindy}
+
+% Optionen für Bilder:
+% [draft] .. Es werden nur Rahmen angezeigt
+% [final] .. Es werden Bilder normal angezeigt
+% [demo} .. keine Bilder
+\usepackage[draft]{graphicx} % Bilder-Support
+
+% \usepackage{showidx} % shows index entries on page margin
+
+
+% \usepackage{showkeys}
+% \usepackage[normalem]{ulem}
+
+\input{./inputs/input-preamble}
+
+% Farbdefinitionen
+% \input{./inputs/input-colors}
+
+% Trennungen
+\input{./inputs/input-hyphenation}
+
+% Titel
+\input{./inputs/input-title}
+\title{Exams}
+
+% Dokumenteinfos (Status, Version, ...)
+\input{./inputs/input-docinfo}
+
+% Kopf- und Fusszeilen
+\input{./inputs/input-headfoot}
+
+% Ausgeschlossene Kapitel
+\input{./inputs/input-excludeonly}
+
+% Schliesse nur bestimmte Kapitel ein ...
+\input{./inputs/input-includeonly}
+
+% optional --- Optionaler Text. 
+\input{./inputs/input-optkeys}
+
+
+
+
+
+
+% \input{./inputs/glossar-Termini.tex}
+% \input{./inputs/glossar-Abkz.tex}
+% \input{./inputs/glossar-m.tex}
+% \input{./inputs/glossar-Lizenzen.tex}
+
+
+% \makeglossaries
+
+% \usepackage{xtab}
+
+
+
+
+% 1: FB
+% 2: Regie
+% 3: Wichtige
+% 4: Relevante
+% 5: Sonstige
+% 6: Muss
+
+\newcommand{\ExamProtTypA}[6]{
+\cleardoublepage
+
+\addsec{#1}
+
+{\ttfamily #2}
+\begin{gWideParEnv}
+
+\begin{multicols}{2}
+Zeitleiste
+
+\BoxRoundedBorderFilled{Beige}{Beige}{%
+\sffamily\small\color{Grey}\hrule
+0 \hrulefill\par
+
+\mbox{}\hrulefill\par
+
+1 \hrulefill\par
+
+\mbox{}\hrulefill\par
+
+2 \hrulefill\par
+
+\mbox{}\hrulefill\par
+
+3 \hrulefill\par
+
+\mbox{}\hrulefill\par
+
+4 \hrulefill\par
+
+\mbox{}\hrulefill\par
+
+5 \hrulefill\par
+
+\mbox{}\hrulefill\par
+
+
+6 \hrulefill\par
+
+\mbox{}\hrulefill\par
+
+
+7 \hrulefill\par
+
+\mbox{}\hrulefill\par
+
+
+8 \hrulefill\par
+
+\mbox{}\hrulefill\par
+
+
+9 \hrulefill\par
+
+\mbox{}\hrulefill\par
+
+
+10 \hrulefill\par
+
+\mbox{}\hrulefill\par
+
+}
+
+
+\paragraph{E-Block}
+
+\begin{compactitem}
+  \item Szeneüberblick
+  \item Eindruck
+  \item Bewußtsein
+  \item Hauptbeschwerde
+  \item Atemweg
+  \item B
+  \item C
+  \item D
+  \begin{compactitem}
+    \item HF
+    \item RR
+    \item TCh1
+  \end{compactitem}
+  \item
+\end{compactitem}
+
+\columnbreak
+
+\paragraph{Wichtige Maßnahmen}
+{\scriptsize #3}
+
+
+Bewertung: ~~~/~~~
+
+\paragraph{Relevante Maßnahmen}
+#4
+
+Bewertung: ~~~/~~~
+
+\paragraph{Sonstige Maßnahmen}
+#5
+
+
+\paragraph{Muss-Felder}
+#6
+
+\paragraph{Bewertung Qualität} nach Globalskala
+
+I: ~~~/\,5 ~~~ B: ~~~/\,5 → Q: ~~~/\,5
+
+\paragraph{Bewertung Reihenfolge} nach Globalskala
+
+R: ~~~/\,5 
+
+\end{multicols}
+
+Bewertung:
+
+\begin{tabulary}{\linewidth}{LLLLLL}
+\toprule
+Reihenfolge & Vollst. & Gründlichkeit & Qualität & ~ & Summe
+\\\midrule
+(2x ~~/5+ 
+& 
+2x ~~/5+ 
+& 
+~~/5+ 
+& 
+~~/5 
+& 
+)/6= 
+& 
+~~~
+\\\bottomrule
+\end{tabulary}
+
+
+
+\end{gWideParEnv}
+
+}
+
+
+\renewcommand{\labelitemi}{\textcolor{DefaultB!30}{\small\BigSquare}}
+\renewcommand{\labelitemii}{\textcolor{DefaultB!30}{\small\Square}}
+\renewcommand{\labelitemiii}{$\hookrightarrow$}
+
+% #######################################################################################################
+% #######################################################################################################
+% #######################################################################################################
+% #######################################################################################################
+% #######################################################################################################
+% #######################################################################################################
+% #######################################################################################################
+% BEGIN DOCUMENT ########################################################################################
+% #######################################################################################################
+\begin{document}
+% % When you want to set only the table of contents of a document in two (or
+% % more columns), there is one known way1: Add an
+% % \addtocontents{toc}{\protect\begin{multicols}{2}}
+% % before the \tableofcontents and an
+% % \addtocontents{toc}{\protect\end{multicols}}
+% % at the end of the document. This way your .toc will start with
+% % \begin{multicols}{2} and end with \end{multicols}.
+% \addtocontents{toc}{\protect\begin{multicols}{2}}
+\StartMulticolTOC{2}
+
+\nobibliography*
+
+\newgeometry{verbose,
+a4paper,
+asymmetric,
+% reversemp,
+reversemarginpar,
+% % includemp,
+% % tmargin=25mm,
+% % bmargin=20mm,
+rmargin=13mm,
+lmargin=13mm,
+% % outer  = 56mm,
+% % inner  = 56mm,
+top    = 20mm,
+bottom = 15mm,
+% % hmarginratio=2:1,
+marginparwidth = 0mm,
+% % headheight=0.5cm,
+% % headsep=0.5cm,
+footskip = 5mm,
+% % includehead,
+bindingoffset=1.5cm}
+\savegeometry{FullPage}
+\restoregeometry
+
+
+
+\opt{STATUS-DRAFT-SHOWKEYS}{
+\renewcommand{\label}[1]{%
+  {\color{black}\fbox{{\ttfamily #1 }}}}
+}
+
+
+\loadgeometry{FullPage}
+\maketitle
+
+
+\opt{STATUS-DRAFT}{
+{\small
+\listof{warning}{Verzeichnis der Warnungen}
+}
+}
+
+\restoregeometry
+
+%\nocite{*} 
+
+% \layout
+%
+% \pagediagram 
+% 
+% \pagedesign
+% 
+% \paragraphdiagram 
+% 
+% \paragraphdesign
+% 
+% \floatpagediagram 
+% 
+% \floatpagedesign
+% 
+% \listdiagram 
+% 
+% \listdesign
+% 
+% \footnotediagram 
+% 
+% \footnotedesign
+% 
+% \tocdiagram 
+% 
+% \tocdesign
+
+
+
+
+\section{Offenlegung, Impressum, Nutzungsbedingungen und Hinweise}
+% \begin{gWideParEnv}
+\begin{multicols}{2}
+\paragraph{Gesamtherausgeber und Medieninhaber}~
+
+{\noindent\sffamily Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für
+den Sanitätsdienst -- }{\ARGEAASS}
+
+\noindent{}Engerthstraße 146\,/\,8\,/\,13 \\ A-1200 Wien -- AUSTRIA
+
+\noindent{}E-Mail: office@aass.at
+
+\noindent{}Homepage: \url{http://www.aass.at}
+
+\noindent{}ZVR: 846678982
+
+\paragraph{Weitere Informationen}~
+
+\begin{description}
+  \item[Verlags- und Herstellungsort:] Wien
+  \item[Publikationsart:] elektronisch. Die etwaige Herstellung von
+  Druckwerken erfolgt durch den autorisierten Nutzer.
+  \item[ISBN:] ---
+  \item[ISSN:] ---
+  \item[Status:] \DocVersionTyp{} (\DocVersionInfo{})
+  \item[Versionsgeschichte:]~
+  
+  {\scriptsize %
+  \begin{description}
+    \item[0.2.0] 2009-07 (VV\footnote{Vorabversion}, 349 Änderungen\footnote{Seit
+    Übernahme in das Versionsverwaltungssystem.})
+    \item[0.4.0] 2009-09 (VV, 284 Änderungen)
+    \item[0.6.0] 2009-10 (VV, 322 Änderungen)
+    \item[0.8.0] 2010-01 (VV, 653 Änderungen)
+    \item[0.10.0] 2010-06 (VV, 935 Änderungen\footnote{Lt. vorläufiger
+    Statistik, Änderungen nach Redaktionsschluss möglich.})
+  \end{description}
+  }
+\end{description}
+\noindent{}
+
+
+\vspace{1em}
+
+\noindent{}Die {\ARGEAASS} ist ein gemeinnütziger Verein mit Sitz in Wien,
+welcher die Entwicklung, Wartung, Qualitätssicherung, Anpassung, Verbreitung und Lehre von
+wissenschaftlich und sachlich fundierten Arbeits- und Ausbildungsstandards für
+den Sanitätsdienst (AASS), sowie die wissenschaftliche Forschungstätigkeit in
+diesem Gebiet bezweckt.
+
+\paragraph{Mitarbeit und Meldung von Fehlern}~
+
+\noindent{}Wünsche, Anregungen, Beschwerden und Fehlermeldungen nehmen wir
+gerne unter 
+% \url{http://www.aass.at/bugs}
+\href{mailto:anregungen@aass.at}{\nolinkurl{anregungen@aass.at}} entgegen.
+
+\paragraph{Nutzungsbestimmungen}~
+
+\noindent{}Dieses Werk ist nur für den internen Gebrauch gem. §\,42
+Abs.\,6 UrheberG bestimmt. Die Weitergabe ist nicht
+gestattet. 
+
+Sollten Sie Interesse an den Arbeits- und
+Ausbildungsstandards für den Sanitätsdienst haben, setzen
+Sie sich bitte mit uns in Verbindung.
+
+\paragraph{Hinweise}~
+
+\noindent{}Wie jede Wissenschaft ist die Medizin ständigen Entwicklungen
+unterworfen. Soweit fachliche Angaben gemacht werden, darf der Leser
+zwar darauf vertrauen, dass die Autoren große Sorgfalt
+darauf verwandt haben, dass diese Angaben dem Wissensstand bei
+Fertigstellung des Werkes entspricht. Für Angaben, speziell
+über Dosierungsanweisungen und Applikationsformen, kann jedoch
+keine Gewähr übernommen werden. 
+
+Jeder Leser ist angehalten, durch
+sorgfältige Prüfung der Literatur, der Lehrmeinung so\-wie der
+Beipackzettel der verwendeten Präparate und gegebenenfalls nach
+Konsultation eines Spezialisten festzustellen, ob die gegebene
+Aussage oder Empfehlung für Dosierungen oder die Beachtung von
+Kontraindikationen gegenüber der Angabe in diesem
+Werk abweicht. Jede Dosierung oder Applikation erfolgt
+auf eigene Gefahr des Benutzers. 
+
+Die {\ARGEAASS} bittet jeden Leser, ihm aufgefallene Ungenauigkeiten und
+Fehler, sowie Anregungen und konstruktive Kritik, über die Email-Adresse
+\href{mailto:anregungen@aass.at}{\nolinkurl{anregungen@aass.at}} mitzuteilen.
+
+Geschützte Warennamen und Warenzeichen werden nicht durchgehend besonders
+kenntlich gemacht. Aus dem Fehlen eines solchen Hinweises kann also
+nicht geschlossen werden, dass es sich um einen freien Warennamen
+handelt.
+\end{multicols}
+% \end{gWideParEnv}
+
+% \noindent{}{\scriptsize \textbf{Vorabversionen:} 0.2.0 2009-07 / 0.4.0 2009-09
+% / 0.6.0 2009-10 / 0.8.0 2010-01 / 0.10.0 2010-06}
+
+
+
+\clearpage
+\section{Herausgeber und Redakteure}
+\begin{gWideParEnv}
+\emph{\tiny{(in alphabetischer Reihenfolge)}}
+
+
+\begin{multicols}{2}
+    
+ \paragraph{Josef Emhofer}
+    Mag. 
+    
+    \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
+    Wallenberggasse 2, A-1220 Wien.
+
+    \paragraph{Sebastian Gabriel}~
+    
+    \noindent{}Department für medizinische Aus- und Weiterbildung --
+    Medizinische Universität Wien, 
+    Spitalgasse 23, A-1090 Wien.
+
+    \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
+    Wallenberggasse 2, A-1220 Wien.
+
+    
+    \paragraph{Lena Hirtler}~
+    
+    \noindent{}Medizinische Universität Wien -- Zentrum für Anatomie und
+    Zellbiologie, Abt. für systmatische Anatomie,    
+    Währingerstraße 13, A-1090 Wien.
+    
+    \paragraph{Roman Koch} 
+    Ing.
+    
+    \noindent{}Leiter Ausbildungszentrum des ASB
+    Floridsdorf-Donaustadt, Wallenberggasse 2, A-1220 Wien.
+    
+    \paragraph{Christof Koller}~
+    
+    \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,
+    Wallenberggasse 2, A-1220 Wien.
+    
+    \paragraph{Michael Motal}~
+    
+    \noindent{}Department für medizinische Aus- und Weiterbildung --
+    Medizinische Universität Wien,   
+    Spitalgasse 23, A-1090 Wien.
+    
+    \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,
+    Wallenberggasse 2, A-1220 Wien.
+    
+    \paragraph{Johannes Steuer}
+    Dr.\,med.\,univ., M.Sc.
+    
+    \noindent{}Ärztlicher Leiter und Medizinisch-wissenschaftlicher Leiter der
+    Curricula\\    
+    ASB Floridsdorf-Donaustadt
+    Wallenberggasse 2, A-1220 Wien.
+    
+    \noindent{}Sozialmedizinisches Zentrum Ost der Stadt Wien -- Donauspital,
+    Abteilung für Anästhesiologie und Intensivmedizin,
+    Langobardenstra{\ss}e 122, A-1220 Wien.
+    
+
+    
+\end{multicols}
+\end{gWideParEnv}
+
+\section{Autoren und Reviewer}
+
+\begin{gWideParEnv}
+
+\emph{\tiny{(in alphabetischer Reihenfolge)}}
+
+
+\begin{multicols}{2} 
+
+    \paragraph{Alexander Blacky}
+    Dr.\,med.\,univ.\\
+    Klinisches Institut für Krankenhaushygiene, AKH Wien\\    
+    Währinger Gürtel 18-20, A-1090 Wien.
+    
+    \paragraph{Elisabeth Hartl}
+    Dr.\,med.\,univ.\\    
+    Stv. ärztliche Leiterin und stv. medizinisch-wissenschaftliche Leiterin der
+    Curricula\\    
+    ASB Floridsdorf-Donaustadt,
+    Wallenberggasse 2, A-1220 Wien.
+    
+    \paragraph{David Hauer}
+    Dr.\,med.\,univ.\\    
+    Landeskrankenhaus St. Pölten.
+    
+
+
+
+    \paragraph{Gerhard Gabriel}
+    Dr.\,med.\,univ. \\    
+    Facharzt für Innere Medizin, Langenzersdorf.
+    
+    \paragraph{Thomas Hochreiter}
+    DGKP\\
+    Sozialmedizinisches Zentrum Floridsdorf, Krankenhaus und
+    Geriatriezentrum Hinaysgasse 1, A-1210 Wien.\\
+    Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
+    Wallenberggasse 2, A-1220 Wien.
+    
+    \paragraph{Michael Neuhold}
+    Ing.\\
+    Technischer Leiter, ASB Floridsdorf-Donaustadt,
+    Wallenberggasse 2, A-1220 Wien.
+    
+    \paragraph{Michael Withofner}
+    Dr.\,med.\,univ.\\    
+    Sozialmedizinisches Zentrum Ost der Stadt Wien -- Donauspital, 
+    Langobardenstra{\ss}e 122, A-1220 Wien.
+    
+    \paragraph{Elisabeth Zwingraf}
+    Mag. \\    
+    Leiterin Landesschulung, ASBÖ, Landesverband Wien\\    
+    Pillergasse 24, A-1150 Wien.
+    
+    
+\end{multicols}
+\end{gWideParEnv}
+
+\section{Technische und künstlerische Mitarbeiter und Berater}
+
+\begin{gWideParEnv}
+
+
+\emph{\tiny{(in alphabetischer Reihenfolge)}}
+
+
+\begin{multicols}{2} 
+
+\begin{itemize}
+  \item Mirko Fina, Mag. 
+  \item Christoph Pallinger
+  \item Ulrich Zehl
+\end{itemize}
+  
+\end{multicols}
+
+
+\section{Mitwirkende}
+
+% \begin{gWideParEnv}
+\begin{multicols}{2}
+
+\begin{compactitem}
+\item Mario Artlieb
+
+\item Department für medizinische Aus- und Weiterbildung -- Medizinische
+Universität Wien, Abt. Methodik und Entwicklung
+
+\item Fritz Dominik
+
+\item Christine Gabriel, Dr.\,med.\,univ.
+
+\item Bernhard Göritzer, Dr.\,med.\,univ.
+
+\item Gerald Höritzmiller
+
+\item Manfred Janisi
+
+\item Michaela Machowetz
+
+\item Marina Marinkovic
+
+\item Christian Protz
+
+\item Dominik Rumler
+\end{compactitem}
+
+
+
+\noindent{}Weiters danken wir allen Einsendern, welche uns Fehler gemeldet und
+uns mit Ihrer konstruktiven Kritik unterstützt haben.
+
+\end{multicols}
+
+\end{gWideParEnv}
+% \restoregeometry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{gWideParEnv}
+\setcounter{tocdepth}{2}
+\shorttableofcontents{Übersicht}{0}
+\end{gWideParEnv}
+
+
+% {
+% \loadgeometry{FullPage}\twocolumn
+% \setcounter{tocdepth}{2}
+% \shorttableofcontents{Übersicht}{0}
+% \onecolumn\restoregeometry
+% }
+
+
+
+
+%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
+\dominitoc[n]
+% \setcounter{tocdepth}{3}
+
+\begin{gWideParEnv}
+{\scriptsize
+\tableofcontents
+}
+\end{gWideParEnv}
+
+
+
+\chapter{Fallbeispiele AUT SanG Modul 1}
+
+\ExamProtTypA{Lungenembolie}
+{Patient mit Atemnot und atemabhängigen
+Schmerzen}
+{S: Schemrzen}
+{}
+{}
+{}
+
+\ExamProtTypA{Status Epilepticus}
+{Pat. hat vor Eintreffen 2x gekrampft (Fremdanamnese), wird in Nachschlafphase
+vorgefunden. In Minute 10 krampft der Pat. neuerlich.}
+{
+\begin{compactitem}
+  \item \Ca{Traumacheck 1}
+  \item Traumacheck nach 2ten Anfall
+  \item[→] Neuro
+  \begin{inparaitem}
+    \item \Ca{Pupillen}
+    \item \Ca{grobe Kraft}
+    \item Meningismus
+    \item Orientierung
+  \end{inparaitem}
+  \item \Ca{Ereignisse}
+  \item Krankheiten
+\end{compactitem}
+}
+{
+\begin{compactitem}
+  \item Lagerung
+  \item Helmabnahme
+  \item Blutstillung
+  \item psychischer Beistand
+  \item Wärmeerhaltung / Kühlung
+  \item Anamnese
+  \begin{compactitem}
+    \item Symptome \& Schmerzen
+    \begin{inparaitem}
+      \item Zeit/Verlauf, Stärke, Art/Qualität,
+      Lokalisation/Ausstrahlung, Provokation
+    \end{inparaitem}
+    \item Allergien
+    \item Medikamente
+    \item Letzte
+    \begin{inparaitem}
+      \item Regel
+      \item Mahlzeit
+      \item Stuhlgang
+      \item KH-Aufenthalt
+    \end{inparaitem}
+  \end{compactitem}
+  \item[+] Untersuchungen
+  \begin{compactitem}
+    \item AF
+    \item SpO2
+    \item BZ
+    
+    \item Traumacheck schnell
+    \item Traumacheck ausführlich
+    \item Temp
+  \end{compactitem}
+  \item Spital: Abteilungsauswahl
+  \item Übergabe
+\end{compactitem}
+}
+{
+
+}
+{}
+
+
+\cleardoublepage
+Maßnahmen Muster:
+
+\begin{compactitem}
+  \item Lagerung
+  \item Helmabnahme
+  \item Blutstillung
+  \item psychischer Beistand
+  \item Wärmeerhaltung / Kühlung 
+  \item Anamnese
+  \begin{compactitem}
+  \item Symptome \& Schmerzen 
+\begin{compactitem}
+  \item Zeit/Verlauf, Stärke, Art/Qualität,
+Lokalisation/Ausstrahlung, Provokation
+\end{compactitem}
+  \item Krankheiten
+  \item Allergien
+  \item Medikamente
+  \item Ereignisse
+  \item Letzte
+  \begin{compactitem}
+  \item Regel
+  \item Mahlzeit
+  \item Stuhlgang
+  \item KH-Aufenthalt
+\end{compactitem}
+\end{compactitem}
+\item[+] Untersuchungen
+\begin{compactitem}
+  \item AF
+  \item SpO2
+  \item BZ
+  \item[→] Neuro
+  \begin{compactitem}
+  \item Pupillen
+  \item grobe Kraft
+  \item Meningismus
+  \item Orientierung
+\end{compactitem}
+  \item Traumacheck schnell
+  \item Traumacheck ausführlich
+  \item Temp
+\end{compactitem}
+\item Spital: Abteilungsauswahl
+\item Übergabe
+\end{compactitem}
+
+
+
+
+SO LONG..........
+
+AND THANKS FOR ALL THE FISH
+
+% \addtocontents{toc}{\protect\end{multicols}}
+\EndMulticolTOC
+\end{document}

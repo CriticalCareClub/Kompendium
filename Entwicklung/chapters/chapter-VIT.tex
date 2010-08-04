@@ -2452,14 +2452,17 @@ Elektrolytstörungen}
 \index{Lauge}
 \index{Base}
 \T{Säuren} sind Stoffe, die 
-Wasserstoffionen (\ce{H^+}) abgeben können, \T{Basen} sind 
-Stoffe, die Wasserstoffionen (\ce{H^+}) abgeben können. Der Begriff
+Protonen\footnote{\E{Protonen}: positiv geladene Teile eines Atoms.} 
+abgeben können, \T{Basen} sind Stoffe, die Protonen aufnehmen können. Der Begriff
 \T{Lauge} ist gleichbedeutend mit dem Begriff Base. \cite{LoefflerBiochemie7}
+
+Ein positiv geladenes Wasserstoffion (\ce{H^+}) entspricht der Ladung eines
+Protons, daher kann man vereinfacht sagen, dass \ce{H^+} Säure entspricht.
 }{%
 \begin{description}
-  \item[\T{Säuren}] Stoffe, die
+  \item[\T{Säuren}]: Stoffe, die
   Wasserstoffionen (\ce{H^+}) abgeben können
-  \item[\T{Basen}\,/\,\T{Laugen}] Stoffe, die \ce{H^+} aufnehmen können
+  \item[\T{Basen}\,/\,\T{Laugen}]: Stoffe, die \ce{H^+} aufnehmen können
 \end{description}
 }{}{}{}
 
@@ -2472,13 +2475,9 @@ Stoffe, die Wasserstoffionen (\ce{H^+}) abgeben können. Der Begriff
 % TODO : Fließtext/Slide fehlt!
 \TODO{GABS}{2010-mm-yy}{Fließtext/Slide fehlt!}{Fließtext/Slide fehlt!}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-\Definition{Der pH-Wert gibt an, wie \E{sauer} oder \E{basisch} eine
-Lösung ist.}
-
-pH\,{\textless}\,7 ist sauer, pH\,=\,7 ist neutral,
-pH\,{\textgreater}\,7 ist basisch
+Der pH-Wert gibt an, wie \E{sauer} oder \E{basisch} eine
+Lösung ist. Ein pH-Wert {\textless}\,7 gilt als \E{sauer}, =\,7 als \E{neutral}
+und und {\textgreater}\,7 als \E{basisch}.
 
 
 
@@ -2498,7 +2497,14 @@ von einer \index{Alkalose}\T{Alkalose}.
 \Z{Der pH-Wert beim Menschen wird normalerweise vom Körper sehr konstant um ca
 7,4 gehalten. Bereits einen pH-Wert unter 7,35 (!)  bezeichnet man als
 \E{Azidose}, bzw. über 7,45  als \E{Alkalose}} 
-}{}{}{}{}
+}{
+\begin{itemize}
+  \item Gibt an, wie sauer etwas ist.
+  \item pH\,{\textless}\,7 {\dotfill} sauer, 
+  pH\,=\,7 ist neutral,
+  \item pH\,{\textgreater}\,7 {\dotfill} basisch
+\end{itemize}
+}{}{}{}
 
 \Layout{2}{Regulationsmechanismen}
 {%
@@ -2537,44 +2543,35 @@ Der Mechanismus des \Z{Bicarbonat-}Puffers wandelt Säure \Z{(Bikarbonat und
         
 Das \ce{CO2} wird normalerweise über die Lunge abgeatmet. Daraus folgt: 
 
-\begin{enumerate}
-  \item Atmet der Patient nicht (genug), staut
-  sich das \ce{CO2} und \ce{H^+} (Säure) wird auf der anderen Seite nicht
-  abgebaut.
+\begin{itemize}
+  \item Atmet der Patient nicht (genug), \E{staut}
+  sich das \ce{CO2} und Säure (\ce{H^+}) wird auf der anderen Seite \E{nicht
+  abgebaut}. Es entsteht eine \Es{atmungsbedingte Übersäuerung}.
+  \item Atmet der Patient zu viel, wird zu viel
+  \ce{CO2} abgeatmet und wird nachgebildet; dabei wird \ce{H^+} zu Wasser und
+  geht "`verloren"'. Da nun das \ce{H^+} (=\,Säure) 
+  \E{fehlt}, kommt es zu einer \Es{atmungsbedingten Alkalose}.
+  \item Fällt zu viel Säure (\ce{H^+}) im
+  Körper an (Stoffwechsel-bedingte Übersäuerung), wird
+  es zu  \ce{CO2} (und Wasser) umgewandelt, \E{das \ce{CO2} wird
+  abgeatmet.} Es kommt zu einer \Es{tiefen, schnellen Atmung}.
+\end{itemize}
+}{%
+\ce{$\text{\Z{\tiny Bik. + }}$ $\text{Säure}$
+  <->[\text{Gleichgewicht}] CO2 $\text{\Z{\tiny + Wasser}}$  }
+
+\ce{CO2} wird von Lunge abgeatmet.
+\begin{itemize}
+  \item Zu wenig Atmung: \ce{CO2} staut
+  sich, \ce{H^+} wird nicht abgebaut
   
   → \Es{Atmungsbedingte Übersäuerung}
-  \item Atmet der Patient zu viel, wird zu viel
-  \ce{CO2} abgeatmet und wird von \ce{H^+} und dem
-  anderen Stoff nachgebildet 
+  \item Zu viel Atmung:  zu viel \ce{CO2} abgeatmet, \ce{CO2} wird
+  nachgebildet, \ce{H^+} wird zu Wasser und fehlt
   
-  → \ce{H^+}
-  fehlt → \Es{Atmungsbedingte Alkalose}
-  \item Fällt zu viel \ce{H^+} (Säure) im
-  Körper an (durch den Stoffwechsel, Stoffwechselbedingte Übersäuerung), wird
-  es zu (Wasser und) \ce{CO2} umgewandelt, \Es{das \ce{CO2} wird
-  abgeatmet.}
-\end{enumerate}
-}{%
-\begin{itemize}
-  \item \ce{$\text{\Z{\tiny Bik. + }}$ $\text{Säure}$
-  <->[\text{Gleichgewicht}] CO2 $\text{\Z{\tiny + Wasser}}$  }
-  \item \ce{CO2} wird von Lunge abgeatmet.
-  \begin{itemize}
-    \item Zu wenig Atmung → \ce{CO2} staut
-    sich → \ce{H^+} wird nicht abgebaut
-    
-    → \Es{Atmungsbedingte Übersäuerung}
-    \item Zu viel Atmung → zu viel \ce{CO2} abgeatmet → \ce{CO2} wird
-    nachgebildet → \ce{H^+}
-    fehlt 
-    
-    → \Es{Atmungsbedingte Alkalose}
-    \item Zu viel \ce{H^+} (Säure) im
-    Körper → zu \ce{CO2} umgewandelt 
-    
-    → \Es{das \ce{CO2} wird
-    abgeatmet.}
-  \end{itemize}
+  → \Es{Atmungsbedingte Alkalose}
+  \item Zu viel Säure (\ce{H^+}) im
+  Körper: zu \ce{CO2} umgewandelt und wird abgeatmet
 \end{itemize}
 }{}{}{}
 

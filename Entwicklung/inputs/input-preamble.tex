@@ -44,18 +44,18 @@
 
 % /part ohne Seitenzahl im TOC?
 % http://mrunix.de/forums/showthread.php?t=61596
-% \makeatletter
-% \let\partbackup\l@part
-% \renewcommand*\l@part[2]{\partbackup{#1}{}}
-% \makeatother
-% 
-% \makeatletter
-% \let\chapterbackup\l@chapter
-% \renewcommand*\l@chapter[2]{\chapterbackup{#1}{}}
-% \makeatother
+\makeatletter
+\let\partbackup\l@part
+\renewcommand*\l@part[2]{\partbackup{#1}{}}
+\makeatother
+
+\makeatletter
+\let\chapterbackup\l@chapter
+\renewcommand*\l@chapter[2]{\chapterbackup{#1}{}}
+\makeatother
 
 % \usepackage{titletoc}
-% %%% --- BEGIN --- %%%
+%%% --- BEGIN --- %%%
 % \titlecontents{chapter} [5pc]
 %    {\addvspace{1.0pc}\bfseries
 % %    \titlerule[0.5pt]\filright\addvspace{1mm}
@@ -75,7 +75,7 @@
 %        \thecontentslabel}]{4pc}}
 %    {}{\hfill\contentspage}
 %    [\addvspace{0.5pc}]
-% %%% --- END --- %%%
+%%% --- END --- %%%
 \usepackage{makeidx}
 \setcounter{secnumdepth}{3}
 % LaTeX-Begleiter S.676

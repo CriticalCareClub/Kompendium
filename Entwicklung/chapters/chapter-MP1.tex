@@ -32,7 +32,7 @@ zugänglich zu machen und muss von den Anwendern konsultiert werden.
 }{}{}{}{}
 
 
-\Layout{2}{Querverweise}{%
+\Layout{2}{{\TxQuerverweise}}{%
 \begin{compactdesc}
   \item[Beschreibung der Medizinprodukte:] Kapitel [MP1, MP2] 
   (\ref{chp:MP1}, \ref{chp:MP2}).
@@ -684,157 +684,35 @@ geöffnet werden! } }{
 \Fazit{Die Sauerstoffflaschen sind pfleglich zu behandeln!}
 
 
-\subsection{Verabreichungsarten}
-% TODO : Layout-Anpassung
-\TODO{GABS}{2010-mm-dd}{Layout-Anpassung notwendig.}
-{Dieser Teil entspricht nicht dem Standard-Layout!}
-
-Grundsätzlich unterscheidet man zwischen Berieselung und
-Beatmung: 
-
-\subsubsection{Berieselung}
-\index{Berieselung}
-
-Die \ce{O2}-Berieselung kann \Es{nur bei vorhandener
-Spontanatmung} durchgeführt werden!
-
-% \marginpar{\T{Sauerstoff\-brille}}
-% \marginpar{\T{Sauerstoff\-maske}}
-% \marginpar{\T{Sauerstoff\-maske + Reservoir}}
-
-% zwei kurze, in die Nasenöffnungen  eingeführte Kunst\-stoff\-stutzen
-% 
-% bei ca. 4\,l O2 /min bis 40\% \ce{O2}  in Atemgas  möglich
-% 
-% 
-% Bei behinderter Nasenatmung kann die  Sauerstoffbrille im Mundwinkel
-% plaziert werden. 
-
-
-
-\begin{table}[H]
-\begin{gWideParEnv}
-\Captionof{table}{Verabreichungsarten von Sauerstoff.}
-
-\begin{tabulary}{\linewidth}[H]{CLLL}
-\TabHeading{Was}
- &
-\TabHeading{Wann}
- &
-\TabHeading{Vorteile}
-&
-\TabHeading{Nachteile}
-\\\addlinespace\toprule\addlinespace 
-\TabSub{Sauerstoff\-brille}
- &
-Spontanatmung
-
-\ce{O2}-Flow {\textless}~5\LMin
- &
-gute Toleranz
-
-fehlendes Engegefühl
-
-Sprechen \& Husten möglich
- &
-ungenaue Dosierung
-
-Austrocknung  der Schleimhäute 
-\\\addlinespace\midrule\addlinespace
-\TabSub{Sauerstoff\-maske}
- &
-Spontanatmung
-
-\ce{O2}-Flow ab 5\LMin
- &
-höhere \ce{O2}-Konzentration
- &
-\ce{CO2}-Rückatmung  wenn \ce{O2}-Durchfluss
-{\textless}~5\LMin!) 
-
-für Patienten evtl. unangenehm bzw. gewöhnungsbedürftig
-\\\addlinespace\midrule\addlinespace
-\TabSub{Sauerstoff\-maske mit Reservoir}
- &
-Spontanatmung
-
-\ce{O2}-Flow ab 5\LMin
- &
-Noch höhere \ce{O2}-Konzentration
- &
-Wie oben.
-
-Reservoir muss zuerst händisch befüllt werden.
-\\\addlinespace\bottomrule
-\end{tabulary}
-\end{gWideParEnv}
-\end{table}
-
-\Dias{Bilderserie: Mittel zur Verabreichung von Sauerstoff.}
-{\includegraphics[width=2.5cm]{./images/o2-brille.png}
-\Captionof{figure}{Sauerstoffbrille}}
-{\includegraphics[width=2.5cm]{./images/o2-maske.png}
-\Captionof{figure}{Sauerstoffmaske}}
-{\includegraphics[width=2.5cm]{./images/o2-maske-reservoir.png}
-\Captionof{figure}{Sauerstoffmaske mit Reservoir}}
 
 
 
 
-\subsubsection{Beatmung}
-\index{Beatmung!Grundsätzliches}
-% TODO : Layout-Anpassung
-\TODO{GABS}{2010-mm-dd}{Layout-Anpassung notwendig.}
-{Dieser Teil entspricht nicht dem Standard-Layout!}
 
-Bei \Es{fehlender} oder unzureichender \Es{Spontanatmung} (Eigenatmung) wird
-eine künstliche Beatmung mittels
-\Es{Beatmungsbeutel} (\prettyref{topic:beatmungsbeutel}) oder \Es{Beatmungsgerät}
-durchgeführt. Dabei handelt es sich um eine \E{Überdruckbeatmung}, d.h. es
-wird mit Druck Luft in die Atemwege des Patienten gepumpt. (Im Unterschied dazu
-wird bei der natürlichen Atmung Luft mit Unterdruck in den Patienten
-eingesogen.) 
+\Layout{22}{Bestandteile}
+{
+Ein Beatmungsbeutel besteht im Idealfall aus folgenden Teilen:
+\begin{itemize}
+	\item Beatmungsmaske 
+	\item Bakterienfilter
+	\item Ein-/Ausatemventil mit angeschlossenem PEEP-Ventil
+	\item Beatmungsbeutel
+	\item Reservoir, welches mit einem Verbindungsschlauch
+	(\E{\ce{O2}-Line}) mit einer Berieselungseinheit verbunden
+	ist.
+\end{itemize}
+}{}{./images/geraete/ambu-komplett-zerlegt.jpg}{Bestandteile eines
+Beatmungsbeutels.}{}
 
-Der notwendige Überdruck kann zu Problemen führen, wie z.\,B. Überschreiten des
-Speiseröhren-Öffnungsdrucks (Magenbeatmung, Magenblähung, Erbrechen) oder
-Lungenschäden.
-
-
-
-% \Cave{JEDE BEATMUNG SOLLTE MIT RESERVOIRBEUTEL UND 10-15\LMin
-% \ce{O2} DURCHGEF\"UHRT WERDEN!}
-% 
-% Beatmungsfrequenz beim Erwachsenen: 12-15\,x\,/\,min (Eigenfrequenz)
-% 
-% Achtung! Zuviel ist schlecht! Nicht zu schnell beatmen ${\rightarrow}$
-% Hyperventilationsgefahr!
-% 
-% \subsection{Sauerstofftherapie}
-% Prinzipiell sollte sich die gewählte Therapie an der Diagnose und am
-% Schweregrad orientieren!
-% 
-% Bedenke: 
-% 
-% \begin{itemize}
-% \item Diagnose!
-% 
-% \item Schockbekämpfung
-% 
-% \item Ischämie (bei Akutem Koronoarsyndrom, Insult, ..)
-% 
-% \item Atemstörungen (Fremdkörper, Atemnot, {\dots})
-% 
-% \end{itemize}
 
 
 \section{Hilfsmittel für die Beatmung}
 \label{topic:beatmung-hilfsmittel}
 
+
 \subsection{Beatmungsbeutel}
 \label{topic:beatmungsbeutel}
 \index{Beatmungs!-beutel}
-
-
 
 \Layout{22}{Material}
 {
@@ -857,9 +735,6 @@ verfügbar (Demand-Ventile, etc.), aber nur begrenzt verbreitet.}
 }{}{./images/geraete/ger-ambu-00800.jpg}
 {Beatmungsbeutel mit Reservoir, Bakterienfilter und Masken unterschiedlicher Größe.}
 {}
-
-
-
 
 \begin{table}[H]
 \Captionof{table}{Mögliche Sauerstoffkonzentrationen bei der Beatmung.}
@@ -884,22 +759,6 @@ fast 100\,\%
 \end{tabulary}
 \hrule
 \end{table}
-
-
-\Layout{22}{Bestandteile}
-{
-Ein Beatmungsbeutel besteht im Idealfall aus folgenden Teilen:
-\begin{itemize}
-	\item Beatmungsmaske 
-	\item Bakterienfilter
-	\item Ein-/Ausatemventil mit angeschlossenem PEEP-Ventil
-	\item Beatmungsbeutel
-	\item Reservoir, welches mit einem Verbindungsschlauch
-	(\E{\ce{O2}-Line}) mit einer Berieselungseinheit verbunden
-	ist.
-\end{itemize}
-}{}{./images/geraete/ambu-komplett-zerlegt.jpg}{Bestandteile eines
-Beatmungsbeutels.}{}
 
 
 \subsection{Beatmungsgerät}
@@ -1018,6 +877,7 @@ Wassersäule).}
 \index{Accuvac{\texttrademark}}
 \index{Laerdal Suction Unit{\texttrademark}}
 \label{topic:absaugung}
+\label{topic:absauggeraete}
 
 Blut oder Schleim kann vom Fachpersonal mittels Absaugpumpen
 und entsprechender Absaugkatheter aus dem
@@ -1156,94 +1016,27 @@ abgenommen werden. Die Ladestandsanzeige und evtl. vorhandene
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Absaugkatheter}
-{
-\index{Absaugkatheter}
-Die Absaugkatheter sind steril verpackt und sollten
-auch dementsprechend behandelt werden. Wenn 
-\Es{Absaugbereitschaft} hergestellt werden soll, wird nur
-der farbige Teil des Katheters ausgepackt und an den
-Konnektor bzw. \T{Fingertip} der Absaugpumpe angeschlossen.
-Der restliche Katheter bleibt jedoch noch in der Verpackung. 
-
-Die farbige Kennung gibt
-den Durchmesser des Absaugkatheters an. Damit der
-Absaugkatheter nicht zu tief eingeführt wird, kann die
-einzuführende Katheterlänge durch Abmessen der Distanz
-zwischen \Es{Mundwinkel und Ohrläppchen} bzw. zwischen \Es{Nasenspitze
-und Ohrläppchen} bestimmt werden. Es darf \Es{maximal auf Sicht} abgesaugt
-werden! }{
-\begin{itemize}
-    \item Auf Sicht.
-    \item Mund: Mundwinkel -- Ohrläppchen.
-    \item Nase: Mundwinkel -- Ohrläppchen.
-\end{itemize}
-}
-{}
-{}
-{}
-
-\Cave{Es darf nur auf Sicht abgesaugt werden!}
-
-\begin{figure}[H]
-    \begin{center}
-    \includegraphics[width=10cm]{./images/noauth/GER-absaugen.png}
-    \Captionof{figure}{\AuthNotesPicLegalNotOk{GER-absaugen.png}{}Absaugung. 
-    Es darf nur auf Sicht abgesaugt werden. Die maximale
-    Länge ist vom Ohrläppchen bis zur Nasenspitze bzw. zum
-    Mundwinkel abzumessen.}
-    \end{center}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TODO Absaugung, Bild:: Überarbeitung: Bild verwirrend
-\TODO{GABS}{2010-mm-dd}{Absaugung, Bild:: Überarbeitung: Bild
-verwirrend}
-{Absaugung, Bild:: Überarbeitung: Bild verwirrend; 
-KOCH:Bilder verwirrend; 
-Abmessen Nase--Ohr; 
-Absaugen Mund}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\end{figure}
-
+\Layout{2}{{\TxQuerverweise}}{%
+\begin{inparaitem}
+  \item Absaugkatheter: \prettyref{topic:absaugkatheter};
+  \item Absaugtechnik: \prettyref{topic:absaugung-taetigkeit}
+\end{inparaitem}
+}{}{}{}{}
 
 \section{Transporthilfsmittel}
 
-Das Fachpersonal hat während des gesamten Transports die
-Verantwortung für den Patienten, dies gilt auch für gehfähige
-Patienten. Sollte der Patient auf Grund seines hohen Alters
-oder seiner Kreislaufsituation nicht selbstständig gehen
-können, muss er entweder \Es{sitzend} oder \Es{liegend}
-transportiert werden.
+\Layout{2}{{\TxQuerverweise}}{%
+\begin{inparaitem}
+  \item Tragen mit dem Tragering: \prettyref{topic:tragering};
+  \item Umgang mit dem Rollstuhl: \prettyref{topic:rollstuhl};
+  \item Tragen mit dem Tragetuch: \prettyref{topic:tragetuch-taetigkeit}
+\end{inparaitem}
+}{}{}{}{}
 
-\subsection{Techniken bzw. Geräte für den sitzenden Transport}
-\label{topic:tragsessel}
-
-\paragraph{Tragen mit dem Tragering}
-
-Das Tragen mit dem Tragering funktioniert nur bei bewusstseinsklaren und
-kooperativen Patienten, außerdem sollte das Stiegenhaus, oder die zurück
-zulegende Strecke, breit genug sein. Die Technik eignet sich nur für kurze
-Distanzen.
-
-\Layout{57}{}
-{}{}
-{
-\begin{tabularx}{\linewidth}{XXX}
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragering1b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragering2b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragering3b.jpg}
-\\
-Tragering &
-Transport mit dem Tragering &
-Transport mit dem Tragering 
-\\\addlinespace\bottomrule
-\end{tabularx}
-}{Bilderserie: Transport mit einem Tragering}{}
 
 \Layout{22}{Umgang mit dem Tragsessel}
-{
-Der Patient ist immer anzuschnallen.Beim Transport über
+{\label{topic:tragsessel}%
+Der Patient ist immer anzuschnallen. Beim Transport über
 Stiegen hat der Patient immer talwärts zu blicken.
 
 {\TakeNotesLarge}
@@ -1253,87 +1046,6 @@ Stiegen hat der Patient immer talwärts zu blicken.
 {./images/noauth/GER-tragsessel.jpg}
 {\AuthNotesPicLegalNotOk{GER-tragsessel.jpg}{}Tragsessel}
 {}
-
-
-\paragraph{Umgang mit einem Rollstuhl}
-\index{Rollstuhl}
-
-Siehe Abb. \ref{fig:rollstuhl-umgang}.
-
-{\TakeNotesLarge}
-
-
-\subsection{Techniken bzw. Geräte für den liegenden Transport}
-\label{topic:bergetuch}
-
-\paragraph{Tragetuch}
-\index{Tragetuch}
-
-Das Tragetuch (ESE-Tuch) eignet sich ideal für den Transport
-von liegenden Patienten wo der Einsatz einer Krankentrage
-eventuell aus Platzgründen nicht möglich ist. Es wird auch
-gerne zum Umlagern von Patienten oder zum Retten aus einer
-Gefahrenzone verwendet. Die Füße des Patienten zeigen
-talwärts, in der Ebene wird der Patient wird immer mit den
-Füßen in Transportrichtung getragen.
-
-Der Transport mit Hilfe des Tragetuchs ist jedoch nicht
-wirbelsäulenschonend. Ist eine Immobilisation der
-Wirbelsäule notwendig soll stattdessen eine andere Technik
-(Vakuummatratze, etc.) angewandt werden.)
-
-\Layout{57}{}
-{}{}
-{
-\begin{tabularx}{\linewidth}{XXX}
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragetuch1b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragetuch2b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragetuch3b.jpg}
-\\
-Tuch aufbreiten \ldots &
-\ldots die näher zum Patient liegende Hälfte
-umschlagen\ldots 
-& \ldots die obere Hälfte nochmals
-umschlagen\ldots 
-\\\addlinespace
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragetuch4b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragetuch5b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragetuch6b.jpg}
-\\
-\ldots und das Tuch an den Patienten legen. 
-&
-Patient leicht anheben und Tuch bis zur Hälfte
-unterschieben\ldots 
-& \ldots Patient schonend zurück legen.
-\\\addlinespace
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragetuch7b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragetuch8b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragetuch9b.jpg}
-\\
-Von der anderen Seite ebenfalls leicht anheben und
-Tuch ausbreiten. 
-& 
-Zu dritt das Tuch fest anpacken\ldots 
-&
-\ldots und auf Kommando gemeinsam anheben
-\\\addlinespace\bottomrule
-\end{tabularx}
-}{Bilderserie: Transport mit dem Tragetuch\index{Tragetuch!Bilderserie}}{}
-
-% \begin{figure}[H]
-%     \begin{center}
-%  TODO BILD: Bilderserie: Tragetuch 
-%     \includegraphics[width=10cm]{./images/noauth/GER-tragetuch-tragen.png}
-% 
-%     \Captionof{figure}{\AuthNotesPicLegalNotOk{GER-tragetuch-tragen.png}{}}
-%     \end{center}
-% \end{figure}
 
 
 \subsection{Krankentragen}

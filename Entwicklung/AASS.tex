@@ -1165,7 +1165,8 @@ i.\,m.}
 
 
 \appendix
-\part{Appendix}\setcounter{page}{0}
+\part{Appendix}
+%\setcounter{page}{0}
 
 % \pagenumbering[Appendix]{bychapter}
 
@@ -1173,35 +1174,26 @@ i.\,m.}
 % \chapter{Verzeichnisse}
 
 
-
+\include{./chapters/chapter-INT}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Literaturverzeichnis
 
 \opt{STATUS-WITH-BIBLIO}
-{
-%    \begin{gWideParEnv}
-    {
-    \loadgeometry{FullPage}\twocolumn
+{{\loadgeometry{FullPage}\twocolumn
 %     \sffamily\itshape
 %       \begin{multicols}{2}
-
-        \scriptsize
-        \setlength{\parskip}{1pt}
-        \bibliography{Literatur-AASS}
+\scriptsize\setlength{\parskip}{1pt}\bibliography{Literatur-AASS}%
 %       \end{multicols}
-
-
-    \restoregeometry
-    }
+\restoregeometry}
 %    \end{gWideParEnv}
-   \onecolumn
+\onecolumn
 }
 
 
 
-\include{./chapters/chapter-INT}
+
 
 
 % \clearpage
@@ -1227,7 +1219,7 @@ i.\,m.}
 }
 % \end{gWideParEnv}
 
-\include{./chapters/inc-APP}
+\input{./chapters/inc-APP}
 
 % \begin{tikzpicture}
 % \node[rounded rectangle, draw, width=\linewidth, fill=red!20]{Hallo}

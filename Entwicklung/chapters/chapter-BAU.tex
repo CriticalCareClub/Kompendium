@@ -169,9 +169,8 @@ die ungefähre Temperatur fühlen. }{
 
 \section{Vitalwerte}
 \label{topic:vitalwerte}
-% TODO : Layout-Anpassung
-\TODO{GABS}{2010-mm-dd}{Layout-Anpassung notwendig.}
-{Dieser Teil entspricht nicht dem Standard-Layout!}
+
+\Layout{0}{\TxBeschreibung}{
 Das Erheben von Vitalwerten ist eine Routinetätigkeit und
 sollte bei jedem Notfallpatienten erfolgen. Es gibt nur wenig
 Situationen bei denen man darauf verzichten kann (zum
@@ -200,6 +199,14 @@ nicht funktioniert (z.\,B. Zentralisation bei Schock, kalte Finger,\ldots).
 Die Messung des Blutdrucks ist unter \prettyref{topic:rr-messung} beschrieben.
 
 Bei der Messung der Atemfrequenz wird die Anzahl der Atemzüge pro Minute gezählt.\index{Atemfrequenz}
+}{
+\begin{itemize}
+  \item Herzfrequenz
+  \item Blutdruck
+  \item Atemfrequenz
+\end{itemize}
+}{}{}{}
+
 
 % TODO Atmung
 
@@ -234,19 +241,22 @@ gleichzeitig gemessen werden, da sonst die Gefahr besteht,
 dass es zu einer Unterversorgung des Gehirn durch Blut kommen
 kann.
 
-\paragraph{Durchführung}
-% TODO : Layout-Anpassung
-\TODO{GABS}{2010-mm-dd}{Layout-Anpassung notwendig.}
-{Dieser Teil entspricht nicht dem Standard-Layout!}
-
+\Layout{2}{Durchführung}{
 Es wird an der Radialarterie (A. \E{radialis}) der Puls mit
 zwei bis drei Fingern ertastet. Nun werden 15 Sekunden lang
-die Schläge gezählt. Multipliziert man den Messwert mit vier, erhält man  die Herzfrequenz (HF) des Patienten. Der Normalwert liegt beim Erwachsenen zwischen 60 und 100 Schlägen pro Minute.
-Dokumentiert wird sie mit einem HF (z.\,B.: HF\,=\,70)
+die Schläge gezählt. Multipliziert man den Messwert mit vier,
+erhält man  die Herzfrequenz (HF) des Patienten. Der
+Normalwert liegt beim Erwachsenen zwischen 60 und 100
+Schlägen pro Minute. Dokumentiert wird sie mit einem HF
+(z.\,B.: HF\,=\,70)
+}{
+}{}{}{}
+
 
 \subsection{Messung des Blutdrucks -- RR}
 \label{topic:blutdruckmessung}
 
+\Layout{0}{\TxBeschreibung}{
 Der Blutdruck ist jener Druck, welcher in unseren Blutgefäßen
 herrscht. Wenn wir vom \emph{"`Blutdruck"'} sprechen beziehen wir
 uns auf den Blutdruck in den
@@ -268,8 +278,18 @@ Die \Es{Einheit}, in der der Blutdruck angegeben wird, ist
 \T{Millimeter Quecksilbersäule}
 (\T{mm\,Hg}).\index{Millimeter Quecksilbersäule}\index{mm\,Hg}\footnote{\ce{Hg}
 ist das chemische Symbol für Quecksilber.}
+}{
+\begin{itemize}
+  \item Druck in den Arterien
+  \begin{itemize}
+    \item systolischer Wert (Auswurfphase des Herzens)
+    \item diastolischer Wert (Entspannungsphase des Herzens)
+  \end{itemize}
+  \item Einheit mmHg
+\end{itemize}
+}{}{}{}
 
-\Layout{1}{}{%
+\Layout{0}{Arten der Blutdruckmessung}{%
 Der Blutdruck kann auf verschiedene Arten gemessen werden. Üblich ist die
 unblutige, \E{indirekte Methode}, mittels einer an der Extremität angelegten
 Druckmanschette\ZFootnote{Mittels einer Druckmanschette wird gemessen, bei
@@ -314,9 +334,16 @@ Stethoskop verwendet.
 \TODO{GABS}{2010-04-27}{Bilder Blutdruckmesser}{Verschiedene Typen}
 \end{center}
 }{
-
+\begin{itemize}
+  \item unblutige, indirekte Messung
+  \begin{itemize}
+    \item mechanische Messung
+    \item elektronische Messung
+  \end{itemize}
+  \item invasive Messung
+\end{itemize}
 }
-{./icons/under-construction.png}
+{}
 {}
 {}
 
@@ -493,12 +520,7 @@ Der "`Nicht-invasive Blutdruck"' wird auf manchen Überwachungsmonitoren mit
 % TODO: Pulsoxymetrie: Sättigung sackst rasch ab, bezug zu Gas-Partialdrücken
 % einfügen [GABS]
 
-
-
-% TODO : Layout-Anpassung
-\TODO{GABS}{2010-mm-dd}{Layout-Anpassung notwendig.}
-{Dieser Teil entspricht nicht dem Standard-Layout!}
-\MarriedNG{\TxBeschreibung}
+\Layout{2}{\TxBeschreibung}
 {%
 Die Pulsoxymetrie ist eine einfache apparative
 Untersuchungsmethode, welche mithilfe eines
@@ -516,8 +538,7 @@ Als weiteren Wert zeigt das Pulsoxymeter die
 
 }{
 % TODO Slide fehlt.
-{\SymbolText}
-}
+}{}{}{}
 
 \Layout{2}{Durchführung}
 {%
@@ -560,7 +581,7 @@ findet man jedoch oft sehr niedrige Werte (z.\,B.
 }{}{}{}
 
 
-\MarriedNG{Beurteilung}
+\Layout{2}{Beurteilung}
 {
 Bei der Interpretation des
 $SpO_2$ muss man sehr vorsichtig sein! Auch ein Normalwert bedeutet nicht, dass der Patient
@@ -574,11 +595,7 @@ Sp\ce{O2}-Wert. Der Sp\ce{O2}-Wert soll immer im Verlauf beurteilt werden.
 \cite{Soehnke200607}
 }{
 % TODO Slide fehlt.
-% \begin{itemize}
-%     \item \Z{Point}
-% \end{itemize}
-{\SymbolText}
-}
+}{}{}{}
 
 \Fazit{Behandle den Patienten und nicht das Gerät!}
 
@@ -653,10 +670,10 @@ Notfallsymptome auftreten.
 \end{itemize}
 }{}{}{}
 
-\MarriedNG{Material \& Personal}
+\Layout{2}{Material \& Personal}
 {
 \begin{enumerate}
-  \item 1 eingeschulte Person
+  \item eine eingeschulte Person
   \item Handschuhe
   \item Kontamed-Box
   \item Alkoholtupfer
@@ -666,10 +683,10 @@ Notfallsymptome auftreten.
   \item Lanzette
 \end{enumerate}
 }
-{}
+{}{}{}{}
 
 
-\MarriedNG{Durchführung}
+\Layout{2}{Durchführung}
 {
 %\begin{multicols}{2}
 \begin{enumerate}
@@ -708,7 +725,7 @@ Notfallsymptome auftreten.
 %\end{multicols}
 }{
 
-}
+}{}{}{}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -719,17 +736,17 @@ Notfallsymptome auftreten.
 
 \subsection{Körpertemperatur}
 
-Die Körpertemperatur kann mit unterschiedlichen Mitteln und
-an unterschiedlichen Stellen bestimmt werden. 
+Die Körpertemperatur kann an unterschiedlichen Stellen und
+mit unterschiedlichen Mitteln bestimmt werden. 
 
-\MarriedNG{Messarten}
+\Layout{0}{Messarten}
 {
 Mit dem
-\Es{herkömmlichen Fieberthermometer} kann die Temperatur
-unter der \E{Achsel} (\E{axillär}) oder im \E{Enddarm}
-(\E{rektal}, vor allem bei Kleinkindern) bestimmt werden. Die
-Messung im Mund ist in der Praxis eher unüblich. Es ist bei der Messung eine
-Schutzhülle zu verwenden. 
+\Es{herkömmlichen Fieberthermometer}\footnote{Unter
+herkömmlichen Fieberthermometern versteht man heute
+elektronische Messgeräte. Quecksilberthermometer werden
+wegen des darin enthaltenen, giftigen Schwermetalls
+Quecksilber nicht mehr verwendet!} kann die Temperatur unter der \E{Achsel} (\E{axillär}) oder im \E{Enddarm} (\E{rektal}, vor allem bei Kleinkindern) bestimmt werden. Die Messung im Mund ist in der Praxis eher unüblich. Es ist bei der Messung eine Schutzhülle zu verwenden. 
 
 Mit dem \Es{Ohrthermometer} kann mittels Infrarot die
 Temperatur im \E{Mittelohr} bestimmt werden. Es sind die
@@ -740,12 +757,19 @@ als \T{Körperkerntemperatur}, diese beträgt um die
 37\,\textcelsius. Die unter der Achsel gemessene Temperatur
 kann ca. \nicefrac{1}{2}\,\textcelsius{} niedriger sein.
 }{
-% TODO Slide fehlt.
-% \begin{itemize}
-%     \item \Z{Point}
-% \end{itemize}
-{\SymbolText}
-}
+\begin{itemize}
+    \item nach dem Ort der Messung
+    \begin{itemize}
+      \item axillär
+      \item rektal
+    \end{itemize}
+    \item nach dem Gerätetyp
+    \begin{itemize}
+      \item herkömmliches (elektronisches) Thermometer
+      \item Ohrthermometer
+    \end{itemize}
+\end{itemize}
+}{}{}{}
 
 
 
@@ -784,6 +808,8 @@ keine Aussage über die Auswurfleistung! }}
 
 \subsubsection{EKG -- Ableitungen}
 \label{topic:ekg-ableitungen}
+
+\Layout{0}{\TxBeschreibung}{
 Grundsätzlich unterscheidet man zwischen den Extremitätenableitungen
 und den Brustwandableitungen. 
 
@@ -791,6 +817,12 @@ und den Brustwandableitungen.
     \item Extremitätenableitungen\Z{: I, II, III, aVL, aVR, aVF}
     \item Brustwandableitungen\Z{: V1 -- V6}
 \end{itemize}
+}{
+\begin{itemize}
+    \item Extremitätenableitungen
+    \item Brustwandableitungen
+\end{itemize}
+}{}{}{}
 
 Es haben sich folgende Begriffe eingebürgert:
 
@@ -804,18 +836,18 @@ Es haben sich folgende Begriffe eingebürgert:
     Diagnostik das Mittel der Wahl. 
 \end{description}
 
-\MarriedNG{Extremitätenableitungen}
+\Layout{0}{Extremitätenableitungen}
 {
-Die Extremitätenableitungen werden mittels 4 Elektroden abgeleitet. Je
-eine Elektrode wird an den Enden der Extremitäten angebracht. Zur
+Die Extremitätenableitungen werden mittels vier Elektroden
+abgeleitet. Je eine Elektrode wird an den Enden der Extremitäten angebracht. Zur
 Vereinfachung können die Elektroden auch am Übergang vom Rumpf zu
 den Extremitäten angebracht werden (z.\,B. statt dem rechten Arm an der
 rechten Schulter). Wichtig ist, dass die 
 Elektrodenpärchen immer auf \Es{gleicher Höhe} angebracht
 werden!
 
-Aus den Informationen der 4 Elektroden erzeugt das
-EKG-Gerät \Es{6 Ableitungen} \Z{(I, II, III, aVL, aVR
+Aus den Informationen der vier Elektroden erzeugt das
+EKG-Gerät \Es{sechs Ableitungen} \Z{(I, II, III, aVL, aVR
 und aVF).}
 }{
 \begin{itemize}
@@ -824,7 +856,7 @@ und aVF).}
      (bzw. am Übergang Rumpf -- Extremitäten).
     \item 6 Ableitungen.
 \end{itemize}
-}
+}{}{}{}
 
 
 
@@ -866,18 +898,18 @@ Rechte Leiste \\\bottomrule
 \end{tabular}
 \end{table}
 
-\MarriedNG{Brustwandableitungen}
+\Layout{0}{Brustwandableitungen}
 {
-Die Brustwandableitungen werden mittels 6 Elektroden abgeleitet und
-erlauben eine genauere Zuordnung von Störungen zu der jeweiligen
-Region des Herzens. Aus den Informationen der 6 Elektroden erzeugt das
-\Abk{EKG}-Gerät \Es{6 Ableitungen}: \Z{V1 -- V6}. 
-}{
+Die Brustwandableitungen werden mittels sechs Elektroden
+abgeleitet und erlauben eine genauere Zuordnung von Störungen zu der jeweiligen
+Region des Herzens. Aus den Informationen der sechs
+Elektroden erzeugt das \Abk{EKG}-Gerät \Es{sechs
+Ableitungen}: \Z{V1 -- V6}. }{
 \begin{itemize}
     \item 6 Elektroden am Brustkorb.
     \item 6 Ableitungen.
 \end{itemize}
-}
+}{}{}{}
 
 
 
@@ -925,7 +957,7 @@ wurde untersucht, wie sich die Anbringungsstelle der Elektroden auf das
 
 \subsection{Abtasten des Abdomens}
 
-\Layout{2}{Abtasten des Abdomens}
+\Layout{0}{Abtasten des Abdomens}
 {\label{topic:untersuchung-abdomen-abtasten}
 Das Abdomen kann man abtasten um die Anspannung der
 Bauchdecke zu beurteilen, Schmerzen zu
@@ -948,18 +980,25 @@ Loslassen bekommt
 (\T{Loslassschmerz}\index{Loslassschmerz}).
 }
 {
-% TODO VIT: Slide fehlt!
-% \begin{itemize}
-%     \item \Z{Point}
-% \end{itemize}
-{\SymbolText}
+\begin{itemize}
+    \item Fremdkörper? Wunden?
+    \item Schmerzen?
+    \item Einteilung in 4 Quadranten
+    \item Abtasten der 4 Quadranten, beginnen dort wo kein
+    Schmerz
+    \item harter oder weicher Bauch?
+    \item Druck- oder Loslassschmerz?
+\end{itemize}
 }{}{}{}
 
 \subsection{Neurocheck}
 
 %\begin{multicols}{2}
 
-\Layout{1}{}{
+\Definition{Einfache, überblickshafte ("`grobe"')
+Untersuchung der wichtigsten neurologischen Funktionen.}
+
+\Layout{0}{Neurocheck}{
 \begin{enumerate}
   \item \Es{Bewusstseinslage}: Für eine grobe Einschätzung
   ist folgende Differenzierung ausreichend:
@@ -1184,7 +1223,7 @@ Wärmeverlust schützen.
 % {\SymbolText}
 % }
 
-\MarriedNG{\Ca{Schneller} Traumacheck}
+\Layout{0}{\Ca{Schneller} Traumacheck}
 {
 Um rasch zu erkennen, ob der Patient vital bedroht ist, werden in der Praxis
 wichtige Schritte vorgezogen.
@@ -1213,7 +1252,7 @@ wichtige Schritte vorgezogen.
     \item Rasches Erkennen von schweren, lebensbedrohlichen Verletzungen.
 \end{itemize}
 {\SymbolText}
-}
+}{}{}{}
 
 
 

@@ -3104,10 +3104,23 @@
   publisher = {Springer},
   year = {2010},
   editor = {Hamp and Weidenauer},
+  author = {Weidenauer and Metnitz},
   language = {ngerman},
   isbn = {978-3-211-75604-1},
   owner = {grissu},
   timestamp = {2010.08.02}
+}
+
+@ELECTRONIC{OeBBRettEinGleis2009,
+  month = {10},
+  year = {2009},
+  title = {Handbuch Rettungseinsatz im \"OBB-Gleisbereich},
+  language = {german},
+  howpublished = {online},
+  organization = {\"OBB Infratstruktur},
+  url = {http://www.roteskreuz.at/uploads/media/Handbuch_Einsatz_Gleisbereich.pdf},
+  owner = {grissu},
+  timestamp = {2010.08.08}
 }
 
 @comment{jabref-meta: selector_publisher:}

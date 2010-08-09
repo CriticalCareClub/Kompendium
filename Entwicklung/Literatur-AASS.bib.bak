@@ -2996,7 +2996,7 @@
 
 @ARTICLE{Gross2009,
   author = {Horst Gross},
-  title = {Süßer Foetor, bittere Diagnose -- Notfall: Camo diabeticum},
+  title = {S\"u{\ss}er Foetor, bittere Diagnose -- Notfall: Camo diabeticum},
   journal = {Via medici},
   year = {2009},
   volume = {14},
@@ -3118,7 +3118,7 @@
   language = {german},
   howpublished = {online},
   organization = {\"OBB Infratstruktur},
-  url = {http://www.roteskreuz.at/uploads/media/Handbuch_Einsatz_Gleisbereich.pdf},
+  url = {http://www.roteskreuz.at/uploads/media/Handbuch{_}Einsatz{_}Gleisbereich.pdf},
   owner = {grissu},
   timestamp = {2010.08.08}
 }

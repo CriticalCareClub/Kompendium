@@ -8,9 +8,10 @@
 
 \minitoc
 
-\includegraphics[angle=270,width=\linewidth]{./images/leitsystem/Leitschema-PAM_gesamt.pdf}
-
-\Layout{2}{Inhalt}{%
+\begin{gWideParEnv}
+\Parallel{
+\minisec{Inhalt}
+%
 Dieses Kapitel behandelt den grundsätzlichen Ablauf eines
 Einsatzes und der Versorgung von Patienten. Grundbausteine sind dabei die
 Kenntnis der richtigen Reihenfolge der Maßnahmen und die Fähigkeit die
@@ -18,19 +19,19 @@ Kenntnis der richtigen Reihenfolge der Maßnahmen und die Fähigkeit die
 Patientengespräch und Untersuchungen sowie das Beherrschen der theoretischen
 medizinischen Grundlagen sind weitere Voraussetzungen für die erfolgreiche
 Patientenbetreuung und effektives, professionelles Arbeiten.
-}{}{}{}{}
 
-
-\Layout{2}{Querverweise}{%
-\begin{compactdesc}
-  \item[Beschreibung der Medizinprodukte:] Kapitel [MP1, MP2] 
+\minisec{{\TxQuerverweise}}
+\begin{itemize}
+  \item \Es{Beschreibung der Medizinprodukte}: \CO{[MP1, MP2]} 
   (\ref{chp:MP1}, \ref{chp:MP2}).
-  \item[Untersuchungen:] Kapitel [BAU] (\ref{chp:BAU}).
-  \item[Sanitätshilfemaßnahmen:]  Kapitel [SAN] (\ref{chp:SAN}).
-  \item[Anamnese und Patientengespräch:]  Kapitel [AUP] (\ref{chp:AUP}).
-\end{compactdesc}
-}{}{}{}{}
-
+  \item \Es{Untersuchungen}:                 \CO{[BAU]} (\ref{chp:BAU}).
+  \item \Es{Sanitätshilfemaßnahmen}:         \CO{[SAN]} (\ref{chp:SAN}).
+  \item \Es{Anamnese und Patientengespräch}: \CO{[AUP]} (\ref{chp:AUP}).
+\end{itemize}
+}{
+\includegraphics[angle=270,width=\linewidth]{./images/leitsystem/Leitschema-PAM_gesamt.pdf}
+}
+\end{gWideParEnv}
 
 
 \section{"`Hilfe, ein Patient!"' - Was mach{\textquotesingle} ich jetzt?}
@@ -940,7 +941,7 @@ Arztübergabe (Anamnese, Befunde, Maßnahmen, Hinweise)
 \end{wrapfigure}Die Übergabe des Patienten in den Verantwortungsbereich
 eines anderen Sanitäters, eines Notarztes oder des Spitalspersonals hat geordnet
 und gewissenhaft zu erfolgen, damit keine wichtigen Informationen verloren
-gehen. Diese \E{Schnittstelle} zwischen Sanitäter und Arzt bzw. Krankenschwester
+gehen. Diese \E{Schnittstelle} zwischen Sanitäter und Arzt bzw. Pflegepersonal
 kann auf den weiteren Behandlungsverlauf einen großen Einfluss nehmen und darf daher in seiner Bedeutung nicht unterschätzt werden! Es empfiehlt
 sich -- so Zeit dafür ist -- sich bereits vor Eintreffen des Notarztes oder vor
 Ankunft im Krankenhaus zu überlegen, welche Informationen wesentlich sind und
@@ -1012,34 +1013,18 @@ aufgeschoben werden (Selbstschutz, "`Aufklärung"' eines bewusstlosen Patienten,
 
 \MassnahmenNG{Standardmaßnahmen}{\TxMassVit}{\label{m:standardmassnahmen-vital}}{
 
-\begin{center}
-
-\begin{tabulary}{\linewidth}{LL}
-\toprule
-\multicolumn{2}{c}{\TabHeading{\TxMassVit}}
-\\\midrule
-Situationsgerechte Lagerung
- &
-\\\addlinespace
-Sauerstoffgabe
- &
-je nach Indikation, Vorsicht bei COPD und Hyper\-ventilation
-\\\addlinespace
-Notarzt{}-Nachforderung
- &
-mit kurzer Begründung
-\\\addlinespace
-Reanimationsbereitschaft
- &
-Platz schaffen, Beatmungsbeutel zu\-sammen\-bauen, ggfs. Defi und
-Absaugung holen und in Griffweite stellen
-\\\addlinespace
-Engmaschiges, bestmögliches Monitoring
- &
-RR, HF, Pulsoxymetrie wenn vor\-handen, Sitzwache. 
-\\\bottomrule
-\end{tabulary}
-\end{center}
+\begin{enumerate}
+  \item \Es{Situationsgerechte Lagerung}
+  \item \Es{Sauerstoffgabe}:
+  je nach Indikation, Vorsicht bei COPD und Hyper\-ventilation
+  \item \Es{Notarzt-Nachforderung}:
+  mit kurzer Begründung
+  \item \Es{Reanimationsbereitschaft}:
+  Platz schaffen, Beatmungsbeutel zu\-sammen\-bauen, ggfs. Defi und
+  Absaugung holen und in Griffweite stellen
+  \item \Es{Engmaschiges, bestmögliches Monitoring}:
+  RR, HF, Pulsoxymetrie wenn vor\-handen, Sitzwache.
+\end{enumerate}
 }
 
 \clearpage

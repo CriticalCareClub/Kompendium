@@ -8,9 +8,10 @@
 
 \minitoc
 
-\includegraphics[angle=270,width=\linewidth]{./images/leitsystem/Leitschema-PAM_gesamt.pdf}
-
-\Layout{2}{Inhalt}{%
+\begin{gWideParEnv}
+\Parallel{
+\minisec{Inhalt}
+%
 Dieses Kapitel behandelt den grundsätzlichen Ablauf eines
 Einsatzes und der Versorgung von Patienten. Grundbausteine sind dabei die
 Kenntnis der richtigen Reihenfolge der Maßnahmen und die Fähigkeit die
@@ -18,19 +19,19 @@ Kenntnis der richtigen Reihenfolge der Maßnahmen und die Fähigkeit die
 Patientengespräch und Untersuchungen sowie das Beherrschen der theoretischen
 medizinischen Grundlagen sind weitere Voraussetzungen für die erfolgreiche
 Patientenbetreuung und effektives, professionelles Arbeiten.
-}{}{}{}{}
 
-
-\Layout{2}{Querverweise}{%
-\begin{compactdesc}
-  \item[Beschreibung der Medizinprodukte:] Kapitel [MP1, MP2] 
+\minisec{{\TxQuerverweise}}
+\begin{itemize}
+  \item \Es{Beschreibung der Medizinprodukte}: \CO{[MP1, MP2]} 
   (\ref{chp:MP1}, \ref{chp:MP2}).
-  \item[Untersuchungen:] Kapitel [BAU] (\ref{chp:BAU}).
-  \item[Sanitätshilfemaßnahmen:]  Kapitel [SAN] (\ref{chp:SAN}).
-  \item[Anamnese und Patientengespräch:]  Kapitel [AUP] (\ref{chp:AUP}).
-\end{compactdesc}
-}{}{}{}{}
-
+  \item \Es{Untersuchungen}:                 \CO{[BAU]} (\ref{chp:BAU}).
+  \item \Es{Sanitätshilfemaßnahmen}:         \CO{[SAN]} (\ref{chp:SAN}).
+  \item \Es{Anamnese und Patientengespräch}: \CO{[AUP]} (\ref{chp:AUP}).
+\end{itemize}
+}{
+\includegraphics[angle=270,width=\linewidth]{./images/leitsystem/Leitschema-PAM_gesamt.pdf}
+}
+\end{gWideParEnv}
 
 
 \section{"`Hilfe, ein Patient!"' - Was mach{\textquotesingle} ich jetzt?}

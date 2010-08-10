@@ -49,20 +49,7 @@ toc=flat,
 
 % \usepackage{showidx} % shows index entries on page margin
 
-% \usepackage[
-% margin=false,
-% inline=true,
-% index=false,
-% status=draft,
-% multiuser,
-% % lang=english,
-% ]{fixme}
-% % \fxnote
-% % \fxwarning
-% % \fxerror
-% % \fxfatal
-% \fxsetface{inline}{\fontfamily{lmtt}\selectfont\itshape\color{OrangeRed}}
-% \fxsetface{env}{\fontfamily{lmtt}\selectfont\itshape\color{OrangeRed}}
+
 
 % \usepackage{showkeys}
 % \usepackage[normalem]{ulem}
@@ -93,47 +80,7 @@ toc=flat,
 % optional --- Optionaler Text. 
 \input{./inputs/input-optkeys}
 
-% % glossaries
-% \usepackage[
-% % This is a ⟨key⟩=⟨value⟩ option. Its value should be the name of a sectional
-% % unit (e.g. chapter). This will make the glossaries appear in the named
-% % sectional unit, otherwise each glossary will appear in a chapter, if chapters
-% % exist, otherwise in a section.
-% section=section,
-% % The glossaries are placed in unnumbered sectional units by default,
-% % but this can be changed using numberedsection. This option can take
-% % three possible values: false (no number, i.e. use starred form), nolabel (numbered,
-% % i.e. unstarred form, but not labelled) and autolabel (numbered with
-% % automatic labelling). If numberedsection=autolabel is used, each glossary is
-% % given a label that matches the glossary type, so the main (default) glossary is
-% % labelled main, the list of acronyms is labelled acronym4 and additional glossaries
-% % are labelled using the value specified in the first mandatory argument
-% % to \newglossary.
-% numberedsection=autolabel,
-% % This is a boolean option that specifies whether each term has a hyperlink
-% % on first use.
-% hyperfirst=false,
-% style=list,
-% % By default, the glossaries package sanitizes the values of the name, description
-% % and symbol keys used when defining a new glossary entry. This means that you can
-% % use fragile commands in those keys, but it may lead to unexpected results if you
-% % try to display these values within the document text. This sanitization can be
-% % switched off using the sanitize package option. You can use sanitize=none as a
-% % shortcut for sanitize={name=false,description=false,symbol=false}.
-% % sanitize=none,
-% acronym,
-% % By default, only the acronym glossary is considered to be a list of
-% % acronyms. If you have other lists of acronyms, you can specify them as a
-% % comma-separated list in the value of acronymlists. For example, if you want
-% % the main glossary to also contain a list of acronyms, you can do:
-% acronymlists={main},
-% nosuper,
-% nolong,
-% ]{glossaries}
-% \glsSetCompositor{/}
-% \renewcommand{\glspostdescription}{}
-% \renewcommand{\glstextformat}[1]{\T{#1}}
-% \newglossary{licenses}{glo-licenses-in}{glo-licenses-out}{Lizenzen}
+
 
 
 
@@ -169,6 +116,7 @@ toc=flat,
 % % \begin{multicols}{2} and end with \end{multicols}.
 % \addtocontents{toc}{\protect\begin{multicols}{2}}
 \StartMulticolTOC{2}
+% \addtocontents{rx}{\protect\begin{multicols}{2}}
 
 \nobibliography*
 
@@ -684,5 +632,6 @@ AND THANKS FOR ALL THE FISH
 
 
 % \addtocontents{toc}{\protect\end{multicols}}
+% \addtocontents{rx}{\protect\end{multicols}}
 \EndMulticolTOC
 \end{document}

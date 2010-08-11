@@ -118,56 +118,20 @@ bindingoffset=1.5cm}
 
 
 
-\opt{STATUS-DRAFT-SHOWKEYS}{
-\renewcommand{\label}[1]{%
-  {\color{black}\fbox{{\ttfamily #1 }}}}
-}
+\opt{STATUS-DRAFT-SHOWKEYS}{\renewcommand{\label}[1]{{\color{black}\fbox{{\ttfamily #1 }}}}}
 
 
 \loadgeometry{FullPage}
 \maketitle
 
 
-\opt{STATUS-DRAFT}{
-{\small
-\listof{warning}{Verzeichnis der Warnungen}
-}
-}
+\opt{STATUS-DRAFT}{{\small\listof{warning}{Verzeichnis der Warnungen}}}
 
 \restoregeometry
 
 %\nocite{*} 
 
-% \layout
-%
-% \pagediagram 
-% 
-% \pagedesign
-% 
-% \paragraphdiagram 
-% 
-% \paragraphdesign
-% 
-% \floatpagediagram 
-% 
-% \floatpagedesign
-% 
-% \listdiagram 
-% 
-% \listdesign
-% 
-% \footnotediagram 
-% 
-% \footnotedesign
-% 
-% \tocdiagram 
-% 
-% \tocdesign
-
-
-
-
-
+% \layout\pagediagram\pagedesign\paragraphdiagram\paragraphdesign\floatpagediagram\floatpagedesign\listdiagram\listdesign\footnotediagram\footnotedesign\tocdiagram\tocdesign
 
 
 \input{./inputs/input-Impressum}
@@ -238,7 +202,6 @@ Kritik maßgeblich an der kontinuierlichen Verbesserung beteiligt haben.
 
 
 \section{Lizenzen}
-
 
 \input{./inputs/input-Lizenzen.tex}
 
@@ -316,60 +279,31 @@ Wohl des Kranken ist oberstes Gebot.}}.
 
 
 \begin{gWideParEnv}
-\setcounter{tocdepth}{2}
-\shorttableofcontents{Übersicht}{0}
+  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
 \end{gWideParEnv}
-
-
-% {
-% \loadgeometry{FullPage}\twocolumn
-% \setcounter{tocdepth}{2}
-% \shorttableofcontents{Übersicht}{0}
-% \onecolumn\restoregeometry
-% }
-
-
+% {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
 
 
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
 \dominitoc[n]
-% \setcounter{tocdepth}{3}
+\begin{gWideParEnv}
+  {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
+\end{gWideParEnv}
+
+
+
+
+% {\small\listoffigures}
+% \opt{STATUS-DRAFT}{{\small\listoftables}}
 
 \begin{gWideParEnv}
-{\scriptsize
-\tableofcontents
-}
+  {\small\listof{massnahmen}{Verzeichnis der Maßnahmen}}
 \end{gWideParEnv}
 
-
-
-
-% {\small
-% \listoffigures
-% }
-
-
-\opt{STATUS-DRAFT}{
-{\small
-\listoftables}
-}
-
-{\small\begin{gWideParEnv}
-\begin{flushleft}
-\listof{massnahmen}{Verzeichnis der Maßnahmen}
-\end{flushleft}
-\end{gWideParEnv}
-}
 
 
 
 \input{./inputs/input-Abkz}
-
-
-
-% \include{include-autoreninfo}
-
-
 
 
 \opt{STATUS-DRAFT}{

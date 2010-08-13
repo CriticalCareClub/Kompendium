@@ -27,13 +27,8 @@ toc=flat,
 % \pdfpkresolution=72
 
 % \usepackage[a-1b]{pdfx}
-% \def\Keywords{AASS}
-% \def\Title{AASS}
-% \def\Author{ARGE AASS}
-% \def\Org{ARGE AASS}
-% % \input glyphtounicode.tex
-% \input glyphtounicode-cmr.tex
-% \pdfgentounicode=1
+% \def\Keywords{AASS} \def\Title{AASS} \def\Author{ARGE AASS} \def\Org{ARGE AASS}
+% % \input glyphtounicode.tex \input glyphtounicode-cmr.tex \pdfgentounicode=1
 
 % \usepackage[xcolor]{rvdtx}
 
@@ -49,20 +44,7 @@ toc=flat,
 
 % \usepackage{showidx} % shows index entries on page margin
 
-% \usepackage[
-% margin=false,
-% inline=true,
-% index=false,
-% status=draft,
-% multiuser,
-% % lang=english,
-% ]{fixme}
-% % \fxnote
-% % \fxwarning
-% % \fxerror
-% % \fxfatal
-% \fxsetface{inline}{\fontfamily{lmtt}\selectfont\itshape\color{OrangeRed}}
-% \fxsetface{env}{\fontfamily{lmtt}\selectfont\itshape\color{OrangeRed}}
+
 
 % \usepackage{showkeys}
 % \usepackage[normalem]{ulem}
@@ -93,61 +75,6 @@ toc=flat,
 % optional --- Optionaler Text. 
 \input{./inputs/input-optkeys}
 
-% % glossaries
-% \usepackage[
-% % This is a ⟨key⟩=⟨value⟩ option. Its value should be the name of a sectional
-% % unit (e.g. chapter). This will make the glossaries appear in the named
-% % sectional unit, otherwise each glossary will appear in a chapter, if chapters
-% % exist, otherwise in a section.
-% section=section,
-% % The glossaries are placed in unnumbered sectional units by default,
-% % but this can be changed using numberedsection. This option can take
-% % three possible values: false (no number, i.e. use starred form), nolabel (numbered,
-% % i.e. unstarred form, but not labelled) and autolabel (numbered with
-% % automatic labelling). If numberedsection=autolabel is used, each glossary is
-% % given a label that matches the glossary type, so the main (default) glossary is
-% % labelled main, the list of acronyms is labelled acronym4 and additional glossaries
-% % are labelled using the value specified in the first mandatory argument
-% % to \newglossary.
-% numberedsection=autolabel,
-% % This is a boolean option that specifies whether each term has a hyperlink
-% % on first use.
-% hyperfirst=false,
-% style=list,
-% % By default, the glossaries package sanitizes the values of the name, description
-% % and symbol keys used when defining a new glossary entry. This means that you can
-% % use fragile commands in those keys, but it may lead to unexpected results if you
-% % try to display these values within the document text. This sanitization can be
-% % switched off using the sanitize package option. You can use sanitize=none as a
-% % shortcut for sanitize={name=false,description=false,symbol=false}.
-% % sanitize=none,
-% acronym,
-% % By default, only the acronym glossary is considered to be a list of
-% % acronyms. If you have other lists of acronyms, you can specify them as a
-% % comma-separated list in the value of acronymlists. For example, if you want
-% % the main glossary to also contain a list of acronyms, you can do:
-% acronymlists={main},
-% nosuper,
-% nolong,
-% ]{glossaries}
-% \glsSetCompositor{/}
-% \renewcommand{\glspostdescription}{}
-% \renewcommand{\glstextformat}[1]{\T{#1}}
-% \newglossary{licenses}{glo-licenses-in}{glo-licenses-out}{Lizenzen}
-
-
-
-
-% \input{./inputs/glossar-Termini.tex}
-% \input{./inputs/glossar-Abkz.tex}
-% \input{./inputs/glossar-m.tex}
-% \input{./inputs/glossar-Lizenzen.tex}
-
-
-% \makeglossaries
-
-% \usepackage{xtab}
-
 \setcounter{errorcontextlines}{1}
 
 % #######################################################################################################
@@ -160,15 +87,8 @@ toc=flat,
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
-% % When you want to set only the table of contents of a document in two (or
-% % more columns), there is one known way1: Add an
-% % \addtocontents{toc}{\protect\begin{multicols}{2}}
-% % before the \tableofcontents and an
-% % \addtocontents{toc}{\protect\end{multicols}}
-% % at the end of the document. This way your .toc will start with
-% % \begin{multicols}{2} and end with \end{multicols}.
-% \addtocontents{toc}{\protect\begin{multicols}{2}}
 \StartMulticolTOC{2}
+% \addtocontents{rx}{\protect\begin{multicols}{2}}
 
 \nobibliography*
 
@@ -198,526 +118,29 @@ bindingoffset=1.5cm}
 
 
 
-\opt{STATUS-DRAFT-SHOWKEYS}{
-\renewcommand{\label}[1]{%
-  {\color{black}\fbox{{\ttfamily #1 }}}}
-}
+\opt{STATUS-DRAFT-SHOWKEYS}{\renewcommand{\label}[1]{{\color{black}\fbox{{\ttfamily #1 }}}}}
 
 
 \loadgeometry{FullPage}
 \maketitle
 
 
-\opt{STATUS-DRAFT}{
-{\small
-\listof{warning}{Verzeichnis der Warnungen}
-}
-}
+\opt{STATUS-DRAFT}{{\small\listof{warning}{Verzeichnis der Warnungen}}}
 
 \restoregeometry
 
 %\nocite{*} 
 
-% \layout
-%
-% \pagediagram 
-% 
-% \pagedesign
-% 
-% \paragraphdiagram 
-% 
-% \paragraphdesign
-% 
-% \floatpagediagram 
-% 
-% \floatpagedesign
-% 
-% \listdiagram 
-% 
-% \listdesign
-% 
-% \footnotediagram 
-% 
-% \footnotedesign
-% 
-% \tocdiagram 
-% 
-% \tocdesign
+% \layout\pagediagram\pagedesign\paragraphdiagram\paragraphdesign\floatpagediagram\floatpagedesign\listdiagram\listdesign\footnotediagram\footnotedesign\tocdiagram\tocdesign
 
 
-
-
-% \paragraph*{Mission Statement} \textperiodcentered Das Ausbildungszentrum (ABZ) ist
-% eine Dienst\-leistungs\-ein\-richtung des ASB Floridsdorf-Donau\-stadt
-% und orientiert sein Angebot an den Be\-d\"urf\-nissen unserer Partner
-% und an den strategischen Zielen des \T{ASB}. Wir sind sowohl f\"ur die 
-% medizinische und sanitätsdienstliche Ausbildung unserer Mitarbeiter
-% als auch f\"ur die Durchf\"uhrung von Schulungen und Lehrgängen zur
-% Schulung der Bev\"olkerung verantwortlich. In Zusammenarbeit mit der
-% \"Arztlichen Leitung und den \"ubergeordneten Gremien  entwickeln wir
-% Arbeitsstandards und Lehrmeinungen. ü 
-
-
-
-\section{Offenlegung, Impressum, Nutzungsbedingungen und Hinweise}
-
-\begin{gWideParEnv}
-
-\begin{multicols}{2}
-\minisec{Medieninhaber}
-
-{\noindent\sffamily Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für
-den Sanitätsdienst -- }{\ARGEAASS}
-\\
-\noindent{}Engerthstraße 146\,/\,8\,/\,13 \\
-A-1200 Wien -- AUSTRIA
-
-\begin{inparadesc}
-  \item[E-Mail:] office@aass.at
-  \item[Homepage:] \url{http://www.aass.at}
-  \item[ZVR:] 846678982
-\end{inparadesc}
-
-
-\minisec{Weitere Informationen}
-
-\begin{compactdesc}
-  \item[Verlags- und Herstellungsort:] Wien
-  \item[Publikationsart:] Elektronisch. Die etwaige Herstellung von
-  Druckwerken erfolgt durch den autorisierten Nutzer.
-  \item[ISBN:] ---
-  \item[ISSN:] ---
-  \item[Status:] \DocVersionTyp{} (\DocVersionInfo{})
-  \item[Versionsgeschichte:]~
-  
-  {\scriptsize %
-  \begin{description}
-    \item[0.2.0] 2009-07 (VV\footnote{Vorabversion}, 349 Änderungen\footnote{Seit
-    Übernahme in das Versionsverwaltungssystem.})
-    \item[0.4.0] 2009-09 (VV, 284 Änderungen)
-    \item[0.6.0] 2009-10 (VV, 322 Änderungen)
-    \item[0.8.0] 2010-01 (VV, 653 Änderungen)
-    \item[0.10.0] 2010-06 (VV, 935 Änderungen\footnote{Lt. vorläufiger
-    Statistik, Änderungen nach Redaktionsschluss möglich.})
-    \item[0.12.0] in Bearbeitung
-  \end{description}
-  }
-\end{compactdesc}
-
-\noindent{}Die {\ARGEAASS} ist ein gemeinnütziger Verein mit Sitz in Wien,
-welcher die Entwicklung, Wartung, Qualitätssicherung, Anpassung, Verbreitung und Lehre von
-wissenschaftlich und sachlich fundierten Arbeits- und Ausbildungsstandards für
-den Sanitätsdienst (AASS), sowie die wissenschaftliche Forschungstätigkeit in
-diesem Gebiet bezweckt.
-
-\minisec{Mitarbeit und Meldung von Fehlern}
-
-\noindent{}Wünsche, Anregungen, Beschwerden und Fehlermeldungen nehmen wir
-gerne unter 
-% \url{http://www.aass.at/bugs}
-\href{mailto:anregungen@aass.at}{\nolinkurl{anregungen@aass.at}} entgegen.
-
-\minisec{Nutzungsbestimmungen}
-
-\noindent{}Dieses Werk ist nur für den internen Gebrauch gem. §\,42
-Abs.\,6 UrheberG bestimmt. Die Weitergabe ist nicht
-gestattet. 
-
-Sollten Sie Interesse an den Arbeits- und
-Ausbildungsstandards für den Sanitätsdienst haben, setzen
-Sie sich bitte mit uns in Verbindung.
-
-\minisec{Hinweise}
-
-\noindent{}Wie jede Wissenschaft ist die Medizin ständigen Entwicklungen
-unterworfen. Soweit fachliche Angaben gemacht werden, darf der Leser
-zwar darauf vertrauen, dass die Autoren große Sorgfalt
-darauf verwandt haben, dass diese Angaben dem Wissensstand bei
-Fertigstellung des Werkes entspricht. Für Angaben, speziell
-über Dosierungsanweisungen und Applikationsformen, kann jedoch
-keine Gewähr übernommen werden. 
-
-Jeder Leser ist angehalten, durch
-sorgfältige Prüfung der Literatur, der Lehrmeinung so\-wie der
-Beipackzettel der verwendeten Präparate und gegebenenfalls nach
-Konsultation eines Spezialisten festzustellen, ob die gegebene
-Aussage oder Empfehlung für Dosierungen oder die Beachtung von
-Kontraindikationen gegenüber der Angabe in diesem
-Werk abweicht. Jede Dosierung oder Applikation erfolgt
-auf eigene Gefahr des Benutzers. 
-
-Die {\ARGEAASS} bittet jeden Leser, ihm aufgefallene Ungenauigkeiten und
-Fehler, sowie Anregungen und konstruktive Kritik, über die Email-Adresse
-\href{mailto:anregungen@aass.at}{\nolinkurl{anregungen@aass.at}} mitzuteilen.
-
-Geschützte Warennamen und Warenzeichen werden nicht durchgehend besonders
-kenntlich gemacht. Aus dem Fehlen eines solchen Hinweises kann also
-nicht geschlossen werden, dass es sich um einen freien Warennamen
-handelt.
-
-\minisec{Die Technik}
-
-\begin{compactdesc}
-  \item[Satz und Druckvorstufe] \LaTeX{} mit {\sffamily KOMA-Script}
-  
-  u.\,a. mit den Paketen:
-  \Code{microtype},
-  \Code{babel},
-  \Code{babelbib} (mehrsprachiges Literaturverzeichnis),
-  \Code{shorttoc} (Inhaltsübersicht),
-  \Code{titeltoc},
-  \Code{makeidx} (Index),
-  \Code{prettyref},
-  \Code{units},
-  \Code{nicefrac},
-  \Code{soul},
-  \Code{soulutf8},
-  \Code{booktabs},
-  \Code{marvosym} (Symbole),
-  \Code{txfonts} (Symbole),
-  \Code{skul} (Symbole),
-  \Code{ifsym} (Symbole),
-  \Code{dingbat} (Symbole),
-  \Code{paralist},
-  \Code{geometry} (Seitenlayout),
-  \Code{fancybox},
-  \Code{lmodern} (Latin Modern Fonts),
-  \Code{titlesec} (Sectioning titles),
-  \Code{float},
-  \Code{hyperref} (Hypertext links),
-  \Code{url} (URL's),
-  \Code{quotchap},
-  \Code{minitoc} (Inhaltsverzeichnisse für Kapitel),
-  \Code{chappg} (Seitennummerierung pro Kapitel),
-  \Code{caption} (Customizing captions),
-  \Code{caption3},
-  \Code{mhchem} (chemische Formeln),
-  \Code{optional} (optionaler Text),
-  \Code{ulem},
-  \Code{nameref},
-  \Code{refcount} (Data extraction from references),
-  \item[Entwicklungsumgebung] Eclipse Ganymed mit Texlipse- und JGit/EGit-Plugin,
-  Texmaker
-  \item[Versionsverwaltung] Git
-  \item[Literaturverzeichnis] JabRef 2.5.0, BibTeX, Babelbib
-  \item[Textverarbeitung und Rohentwurf] OpenOffice
-  \item[Betriebssysteme] \E{Rohentwurf}: Linux (Debian, Gentoo, Ubuntu), MacOS X,
-  MS Windows XP, Vista
-  
-  \E{Endproduktion}: Ubuntu Linux 10.04 \textit{"`Lucid Lynx"'},
-  \url{http://www.ubuntu.com}, Linux Mint 9 "`Isidora"',
-  \url{http://www.linuxmint.com}
-\end{compactdesc}
-
-
-
-
-
-% {\tiny
-% scrkbase  v3.04a KOMA-Script package,
-% scrbase   v3.04a KOMA-Script package,
-% keyval   key=value parser (DPC),
-% scrlfile KOMA-Script package (loading files),
-% tocbasic  KOMA-Script package (handling toc-files),
-% typearea a KOMA-Script package (type area),
-% scrhack KOMA-Script package (hacking other packages),
-% inputenc  Input encoding file,
-% fontenc Standard LaTeX package,
-% blindtext blindtext-Package,
-% xspace Space after command names (DPC,MH),
-% microtype  Micro-typography with pdfTeX (RS),
-% fixltx2e 2006/09/13 v1.1m fixes to LaTeX,
-% ellipsis 2004/9/28 v1.6 ellipsis: fixes spacing, 
-% graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR),
-% graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR),
-% trig 1999/03/16 v1.09 sin cos tan (DPC),
-% babel 2008/07/06 v3.8l The Babel package,
-% babelbib 2009/10/10 v1.29 babelbib: multilingual bibliographies (HH),
-% ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC),
-% shorttoc 2002/08/20 v1.3 Short table of contents (JPFD),
-% titletoc 2007/08/12 v1.6 TOC entries,
-% makeidx 2000/03/29 v1.0m Standard LaTeX package,
-% prettyref 1998/07/09 v3.0,
-% aass-common,
-% xcolor 2007/01/21 v2.11 LaTeX color extensions (UK),
-% amsmath 2000/07/18 v2.13 AMS math features,
-% amstext 2000/06/29 v2.01,
-% amsbsy 1999/11/29 v1.2d,
-% amsopn 1999/12/14 v2.01 operator names,
-% amssymb 2009/06/22 v3.00,
-% amsfonts 2009/06/22 v3.00 Basic AMSFonts support,
-% units 1998/08/04 v0.9b Typesetting units,
-% nicefrac 1998/08/04 v0.9b Nice fractions,
-% soul 2003/11/17 v2.4 letterspacing/underlining (mf),
-% soulutf8 2007/09/09 v1.0 Adding support for UTF-8 to soul (HO),
-% infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO),
-% etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO),
-% chngpage 2009/10/20 v1.2b change page layout,
-% calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ),
-% booktabs 2005/04/14 v1.61803 publication quality tables,
-% longtable 2004/02/01 v4.11 Multi-page Table package (DPC),
-% supertabular 2004/02/20 v4.1e the supertabular environment,
-% tabularx 1999/01/07 v2.07 `tabularx' package (DPC),
-% array 2008/09/09 v2.4c Tabular extension package (FMi),
-% tabulary 2008/12/01 v0.9 tabulary package (DPC),
-% multicol 2008/12/05 v1.6h multicolumn formatting (FMi),
-% hhline 1994/05/23 v2.03 Table rule package (DPC),
-% textcomp 2005/09/27 v1.99g Standard LaTeX package,
-% marvosym 2006/05/11 v2.1 Martin Vogel's Symbols font definitions,
-% txfonts 2008/01/22 v3.2.1,
-% skull 2002/01/23 v0.1 (c) Henrik Christian Grove <grove@math.ku.dk>,
-% savesymbol 2003/06/01 v1.1 Saves and restores symbols,
-% ifsym 2000/04/18 I.Kloeckl,
-% dingbat 2001/04/27 v1.00 Hands and other dingbats,
-% paralist 2002/03/18 v2.3b Extended list environments (BS),
-% marginnote 2009/05/06 v1.1d non floating margin notes for LaTeX,
-% geometry 2010/03/01 v5.2 Page Geometry,
-% ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO),
-% ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO),
-% layout 2000/09/25 v1.2c Show layout parameters,
-% fancybox 2000/09/19 1.3,
-% lmodern 2009/10/30 v1.6 Latin Modern Fonts,
-% ocr 2006/09/18 LaTeX support for the various OCR fonts. Created by Pal,
-% titlesec 2007/08/12 v2.8 Sectioning titles,
-% wrapfig 2003/01/31  v 3.6,
-% float 2001/11/08 v1.3d Float enhancements (AL),
-% hyperref 2009/10/09 v6.79a Hypertext links for LaTeX,
-% ifxetex 2009/01/23 v0.5 Provides ifxetex conditional,
-% hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark,
-% xcolor-patch 2009/10/02 xcolor patch,
-% kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO),
-% kvsetkeys 2009/07/30 v1.5 Key value parser with default handler support,
-% url 2006/04/12  ver 3.3  Verb mode for urls, etc.,
-% bitset 2007/09/28 v1.0 Data type bit set (HO),
-% intcalc 2007/09/27 v1.1 Expandable integer calculations (HO),
-% bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO),
-% pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions,
-% ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO),
-% ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use,
-% atbegshi 2008/07/31 v1.9 At begin shipout hook (HO),
-% quotchap 1998/02/09 v0.9f Decorative Chapter Headings with Quotes,
-% minitoc 2008/07/16 v60 Package minitoc (JPFD),
-% mtcmess 2006/03/14,
-% chappg 2006/05/09 v2.1b page numbering by chapter number pages by chapter,
-% caption 2009/10/09 v3.1k Customizing captions (AR),
-% caption3 2009/10/09 v3.1k caption3 kernel (AR),
-% ltcaption 2008/03/28 v1.2 longtable captions (AR),
-% cite 2009/08/29  v 5.2,
-% mhchem 2007/05/19 v3.07 for typesetting chemical formulae,
-% twoopt 2008/08/11 v1.5 Definitions with two optional arguments (HO),
-% excludeonly 2003/03/14 v1.0 eponymous command opposite to includeonly,
-% optional 2005/01/26 ver 2.2b;  Optional inclusion/omission,
-% glossaries 2010/02/06 v2.05 (NLCT),
-% xkeyval 2008/08/13 v2.6a package option processing (HA),
-% mfirstuc 2009/11/03 v1.04 (NLCT),
-% xfor 2009/02/05 v1.05 (NLCT),
-% translator 2007/03/11 ver 1.00,
-% glossary-hypernav 2007/07/04 v1.01 (NLCT),
-% glossary-list 2009/05/30 v2.01 (NLCT),
-% glossary-tree 2009/01/14 v1.01 (NLCT),
-% ulem 2000/05/26,
-% nameref 2007/05/29 v2.31 Cross-referencing by name of section,
-% refcount 2008/08/11 v3.1 Data extraction from references (HO),
-% }
-\end{multicols}
-\end{gWideParEnv}
-
-% \noindent{}{\scriptsize \textbf{Vorabversionen:} 0.2.0 2009-07 / 0.4.0 2009-09
-% / 0.6.0 2009-10 / 0.8.0 2010-01 / 0.10.0 2010-06}
-
+\input{./inputs/input-Impressum}
 
 
 \clearpage
-\section{Herausgeber und Redakteure}
-\begin{gWideParEnv}
-\emph{\tiny{In alphabetischer Reihenfolge. Die angeführten Einrichtungen
-sind zwecks Referenz angegeben. Es kann daraus nicht geschlossen werden, dass
-der jeweilige Autor im Rahmen seines dortigen Arbeitsverhältnisses für die
-{\AASS} tätig geworden ist.}}
 
+\input{./inputs/input-Credits}
 
-\begin{multicols}{2}
-    
- \paragraph{Josef Emhofer}
-    Mag. 
-    
-    \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
-    Wallenberggasse 2, A-1220 Wien.
-
-    \paragraph{Sebastian Gabriel}~
-    
-    \noindent{}Department für medizinische Aus- und Weiterbildung --
-    Medizinische Universität Wien, 
-    Spitalgasse 23, A-1090 Wien.
-
-    \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
-    Wallenberggasse 2, A-1220 Wien.
-
-    
-    \paragraph{Lena Hirtler}
-    Dr.\,med.\,univ.
-    
-    \noindent{}Medizinische Universität Wien -- Zentrum für Anatomie und
-    Zellbiologie, Abt. für systematische Anatomie,    
-    Währingerstraße 13, A-1090 Wien.
-    
-    \paragraph{Roman Koch} 
-    Ing.
-    
-    \noindent{}Leiter Ausbildungszentrum des ASB
-    Floridsdorf-Donaustadt, Wallenberggasse 2, A-1220 Wien.
-    
-    \paragraph{Christof Koller}~
-    
-    \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,
-    Wallenberggasse 2, A-1220 Wien.
-    
-    \paragraph{Michael Motal}~
-    
-    \noindent{}Department für medizinische Aus- und Weiterbildung --
-    Medizinische Universität Wien,   
-    Spitalgasse 23, A-1090 Wien.
-    
-    \noindent{}Ausbildungszentrum des ASB Floridsdorf-Donaustadt,
-    Wallenberggasse 2, A-1220 Wien.
-    
-    \paragraph{Johannes Steuer}
-    Dr.\,med.\,univ., M.Sc.
-    
-    \noindent{}Ärztlicher Leiter und Medizinisch-wissenschaftlicher Leiter der
-    Curricula\\    
-    ASB Floridsdorf-Donaustadt
-    Wallenberggasse 2, A-1220 Wien.
-    
-    \noindent{}Sozialmedizinisches Zentrum Ost der Stadt Wien -- Donauspital,
-    Abteilung für Anästhesiologie und Intensivmedizin,
-    Langobardenstra{\ss}e 122, A-1220 Wien.
-    
-
-    
-\end{multicols}
-\end{gWideParEnv}
-
-\section{Autoren und Reviewer}
-
-\begin{gWideParEnv}
-
-\emph{\tiny{In alphabetischer Reihenfolge. Die angeführten Einrichtungen
-sind zwecks Referenz angegeben. Es kann daraus nicht geschlossen werden, dass
-der jeweilige Autor im Rahmen seines dortigen Arbeitsverhältnisses für die
-{\AASS} tätig geworden ist.}}
-
-
-\begin{multicols}{2} 
-
-    \paragraph{Michael Auer}
-    Mag.\\
-    Klinischer und Gesundheitspsychologe\\
-    Sucht- und Drogenkoordination Wien, Institut für Suchtdiagnostik,
-    Modecenterstraße 16, A-1030 Wien.
-    
-
-    \paragraph{Alexander Blacky}
-    Dr.\,med.\,univ.\\
-    Klinisches Institut für Krankenhaushygiene, AKH Wien\\    
-    Währinger Gürtel 18-20, A-1090 Wien.
-    
-    \paragraph{Elisabeth Hartl}
-    Dr.\,med.\,univ.\\    
-    Stv. ärztliche Leiterin und stv. medizinisch-wissenschaftliche Leiterin der
-    Curricula\\    
-    ASB Floridsdorf-Donaustadt,
-    Wallenberggasse 2, A-1220 Wien.
-    
-    \paragraph{David Hauer}
-    Dr.\,med.\,univ.\\    
-    Landeskrankenhaus St. Pölten.
-    
-    \paragraph{Gerhard Gabriel}
-    Dr.\,med.\,univ. \\    
-    Facharzt für Innere Medizin, Langenzersdorf.
-    
-    \paragraph{Thomas Hochreiter}
-    DGKP\\
-    Sozialmedizinisches Zentrum Floridsdorf, Krankenhaus und
-    Geriatriezentrum Hinaysgasse 1, A-1210 Wien.\\
-    Ausbildungszentrum des ASB Floridsdorf-Donaustadt,    
-    Wallenberggasse 2, A-1220 Wien.
-    
-    \paragraph{Michael Neuhold}
-    Ing.\\
-    Technischer Leiter, ASB Floridsdorf-Donaustadt,
-    Wallenberggasse 2, A-1220 Wien.
-    
-    \paragraph{Michael Withofner}
-    Dr.\,med.\,univ.\\    
-    Sozialmedizinisches Zentrum Ost der Stadt Wien -- Donauspital, 
-    Langobardenstra{\ss}e 122, A-1220 Wien.
-    
-    \paragraph{Elisabeth Zwingraf}
-    Mag. \\    
-    Leiterin Landesschulung, ASBÖ, Landesverband Wien\\    
-    Pillergasse 24, A-1150 Wien.
-    
-    
-\end{multicols}
-\end{gWideParEnv}
-
-\section{Technische und künstlerische Mitarbeiter und Berater}
-\begin{gWideParEnv}
-\begin{multicols}{2}[\emph{\tiny{In alphabetischer Reihenfolge. Die angeführten Einrichtungen
-sind zwecks Referenz angegeben. Es kann daraus nicht geschlossen werden, dass
-der jeweilige Autor im Rahmen seines dortigen Arbeitsverhältnisses für die
-{\AASS} tätig geworden ist.}}] 
-
-\begin{itemize}
-  \item Mirko Fina, Mag. 
-  \item Christoph Pallinger
-  \item Ulrich Zehl, MSc.
-\end{itemize}
-  
-\end{multicols}
-
-
-\section{Mitwirkende}
-
-% \begin{gWideParEnv}
-\begin{multicols}{2}
-
-\begin{compactitem}
-\item Mario Artlieb
-
-\item Department für medizinische Aus- und Weiterbildung -- Medizinische
-Universität Wien, Abt. Methodik und Entwicklung
-
-\item Fritz Dominik
-
-\item Christine Gabriel, Dr.\,med.\,univ.
-
-\item Bernhard Göritzer, Dr.\,med.\,univ.
-
-\item Gerald Höritzmiller, Ing.
-
-\item Manfred Janisi
-
-\item Michaela Machowetz
-
-\item Marina Marinkovic
-
-\item Christian Protz
-
-\item Dominik Rumler
-\end{compactitem}
-
-
-
-\noindent{}Weiters danken wir allen Einsendern, welche uns Fehler gemeldet und
-uns mit Ihrer konstruktiven Kritik unterstützt haben.
-
-\end{multicols}
-
-\end{gWideParEnv}
-% \restoregeometry
 
 \section{Spezieller Dank}
 
@@ -777,131 +200,10 @@ Kritik maßgeblich an der kontinuierlichen Verbesserung beteiligt haben.
 
 
 
-% \glsaddall[types={\acronymtype,licenses}]
-% 
-% 
-% 
-% \renewcommand{\glossarypreamble}{
-%   \begin{gWideParEnv}
-%   \begin{multicols}{3}
-%   }
-% \renewcommand{\glossarypostamble}{
-%   \end{multicols}
-%   \end{gWideParEnv}
-%   }
-% 
-% 
-% %%% Lizenzen
-% 
-% \renewcommand{\glossarypreamble}{
-%   \noindent In den AASS werden Inhalte (Bilder, Texte, \ldots) mit
-%   folgenden Lizenzen wiederverwendet:
-%   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%   % TODO Lizenzen, verwendete: Vervollständigen
-%   \TODOCRITICAL{GABS}{yyyy-mm-dd}{Lizenzen, verwendete: Vervollständigung
-%   notwendig.}{Vervollständigung notwendig! \par Dieser Teil ist unvollständig, 
-%   er benötigt eine Überarbeitung!}
-%   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%   \noindent\Ca{Die Auflistung dieser Lizenzen bedeutet \underline{nicht}, dass
-%   die
-%   \AASS{} als Ganzes unter diesen Lizenzen lizensiert sind!}  
-%   \begin{gWideParEnv}
-%   \begin{multicols}{3}
-%   }
-% 
-% \printglossary[type=licenses,title={Lizenzen},nonumberlist=true]
-
-
-
-
 
 \section{Lizenzen}
 
-\begin{gWideParEnv}
-\begin{multicols}{3}
-[\noindent\Ca{Die Auflistung dieser Lizenzen bedeutet \underline{nicht}, dass die
-\AASS{} als Ganzes unter diesen Lizenzen lizensiert sind!} ]
-
-\begin{description}
-  \item[CC]
-  \emph{Creative Commons}. Sammelbegriff für die Lizenzen der
-  Creative Commons-Initiative, ohne nähere Angabe der Sublizenz.
-  
-  \item[CC-BY]
-  \Speech{Creative-Commons Attribution Unported}
-  \begin{inparadesc}
-    \item[Lizenztext (Link):]
-    Version 1.0: \url{http://creativecommons.org/licenses/by/1.0/};
-    Version 2.0: \url{http://creativecommons.org/licenses/by/2.0/};
-    Version 2.1: \url{http://creativecommons.org/licenses/by/2.1/};
-    Version 2.5: \url{http://creativecommons.org/licenses/by/2.5/};
-    Version 3.0: \url{http://creativecommons.org/licenses/by/3.0/}.
-    \item[Kurzfassung (ohne Gewähr):] "`You let others copy, distribute,
-    display, and perform your copyrighted work — and derivative works based
-    upon it — but only if they give credit the way you request."'
-  \end{inparadesc}
-  
-  \item[CC-BY-1.0]
-  \Speech{Creative-Commons Attribution Unported},    % default = name
-  \emph{"`Creative-Commons Attribution Unported 1.0."'}.
-  \item[CC-BY-2.0]
-  \Speech{Creative-Commons Attribution Unported},    % default = name
-  \emph{"`Creative-Commons Attribution Unported 2.0."'}.
-  \item[CC-BY-2.1]
-  \Speech{Creative-Commons Attribution Unported},    % default = name
-  \emph{"`Creative-Commons Attribution Unported 2.1."'}.
-  \item[CC-BY-.at-3.0]
-  \Speech{Creative-Commons Namensnennung 3.0 Österreich},
-  \emph{Creative-Commons Namensnennung 3.0
-  Österreich}. {\begin{inparadesc}
-\item[Lizenztext (Link):]
-\url{http://creativecommons.org/licenses/by/3.0/at/}
-\item[Kurzfassung (ohne Gewähr):] \emph{Sie dürfen:}
-\begin{inparaitem}
-  \item das Werk vervielfältigen, verbreiten und öffentlich zugänglich machen
-  \item Bearbeitungen des Werkes anfertigen;
-\end{inparaitem}
-\emph{Zu den folgenden Bedingungen:}
-\begin{inparaitem}
-  \item  Namensnennung: Sie müssen den Namen des Autors/Rechteinhabers in
-  der von ihm festgelegten Weise nennen.
-\end{inparaitem}
-\end{inparadesc}}
-\item[CC-BY-NC]
-\Speech{Creative-Commons Attribution Non-Commercial},
-\emph{Creative-Commons Attribution Non-Commercial}.
-\begin{inparadesc}
-  \item[Lizenztext (Link):]
-  \url{http://creativecommons.org/licenses/by-nc/3.0/legalcode};
-  \item[Kurzfassung (ohne Gewähr):] "`"'
-\end{inparadesc}
-\item[CC-BY-NC-ND]
-\Speech{Creative-Commons Attribution Non-Commercial No Derivatives},
-\emph{Creative-Commons Attribution Non-Commercial No Derivatives}.
-\begin{inparadesc}
-  \item[Lizenztext (Link):]
-  \url{http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode};
-  \item[Kurzfassung (ohne Gewähr):] "`"'
-\end{inparadesc}
-\item[CC-BY-ND]
-\Speech{Creative-Commons Attribution No Derivatives},
-\emph{Creative-Commons Attribution No Derivatives}.
-\begin{inparadesc}
-  \item[Lizenztext (Link):]
-  \url{http://creativecommons.org/licenses/by-nd/3.0/legalcode};
-  \item[Kurzfassung (ohne Gewähr):] "`"'
-\end{inparadesc}
-\item[PD]
-\emph{Public domain}, \emph{"`Gemeinfrei"'}.
-Die Gemeinfreiheit bezeichnet alle Werke, die keinem Urheberrecht mehr unterliegen
-oder ihm nie unterlegen haben. Das im angloamerikanischen Raum anzutreffende
-Public Domain ist ähnlich, aber nicht identisch mit der europäischen
-Gemeinfreiheit.
-\end{description}
-\end{multicols}
-\end{gWideParEnv}
-
-
+\input{./inputs/input-Lizenzen.tex}
 
 
 \clearpage
@@ -957,8 +259,6 @@ fachlichen Erfahrung und Kenntnisse zu interpretieren, einzusetzen oder
 anzupassen -- \Speech{salus aegroti suprema lex}\footnote{salus aegroti suprema lex \Lang{lat.}: \Speech{Das
 Wohl des Kranken ist oberstes Gebot.}}.
 
-
-
 \paragraph{Wie geht es weiter?}~
 
 
@@ -970,188 +270,31 @@ Wohl des Kranken ist oberstes Gebot.}}.
 
 
 
-
-
-
-
-
-
 \begin{gWideParEnv}
-\setcounter{tocdepth}{2}
-\shorttableofcontents{Übersicht}{0}
+  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
 \end{gWideParEnv}
-
-
-% {
-% \loadgeometry{FullPage}\twocolumn
-% \setcounter{tocdepth}{2}
-% \shorttableofcontents{Übersicht}{0}
-% \onecolumn\restoregeometry
-% }
-
-
-
+% {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
 
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
 \dominitoc[n]
-% \setcounter{tocdepth}{3}
 
 \begin{gWideParEnv}
-{\scriptsize
-\tableofcontents
-}
+  {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
+\end{gWideParEnv}
+
+% {\small\listoffigures}
+
+% \opt{STATUS-DRAFT}{{\small\listoftables}}
+
+\begin{gWideParEnv}
+  {\small\listof{massnahmen}{Verzeichnis der Maßnahmen}}
 \end{gWideParEnv}
 
 
 
 
-% {\small
-% \listoffigures
-% }
+\input{./inputs/input-Abkz}
 
-
-\opt{STATUS-DRAFT}{
-{\small
-\listoftables}
-}
-
-{\small
-\listof{massnahmen}{Verzeichnis der Maßnahmen}
-}
-
-
-
-
-
-
-
-% \include{include-autoreninfo}
-
-
-% \begin{gWideParEnv}
-% \addsec{Abkürzungsverzeichnis und Nomenklatur}
-% \begin{multicols}{3}
-% {\small
-% \begin{description}
-% %     \setlength{\itemindent}{5em}
-% % %     \setlength{\listparindent}{5em}
-% %   \setlength{\leftmargin}{0pt}
-% %   \setlength{\labelwidth}{0pt}
-%   \item[\SignTable] Tabelle, Tafel.
-%   \item[{\texttrademark}] Trademark. Zeigt an, ob es sich um einen Handelsnamen,
-%   Produktbezeichnung o.\,ä. handelt, unabhängig davon, ob die Bezeichnung
-%   tatsächlich als Handelsmarke registriert oder auf eine andere Weise
-%   geschützt ist. Aus dem Fehlen des Zeichens darf nicht geschlossen werden, dass
-%   es sich um eine ungeschützte, freie Bezeichnung handelt. 
-%   \item[\AASS] Arbeits- und Ausbildungsstandards für den Sanitätsdienst. 
-%     \item[ABGB]  Allgemeines Bürgerliches Gesetzbuch. 
-%     \item[Abs.] Absatz. 
-%     \item[AF] Atemfrequenz.
-%     \item[AIDS]  Acquired Immune Deficiency Syndrome. 
-%     \item[allg.] allgemein. 
-%     \item[AMV] Atemminutenvolumen. 
-%     \item[ARGE] Arbeitsgemeinschaft. 
-%     \item[ASVG] Arbeits- und Sozialversicherungsgesetz. 
-%     \item[AUVA] Allgemeine Unfallversicherungsanstalt. 
-%     \item[AO]  Abgabeort. 
-%     \item[AR]  Arbeitsrecht. 
-%     \item[AZV] Atemzugsvolumen. 
-%     \item[B-VG] Bundesverfassungsgesetz. 
-%     \item[BKA] Bundeskanzleramt, Bundeskriminalamt. 
-%     \item[BMI] Bundesministerium für Inneres. 
-%     \item[BO]  Berufungsort. 
-%     \item[BGBl] Bundesgesetzblatt. 
-%     \item[Cave] {$\langle$}lat.{$\rangle$} \Speech{"`Hüte Dich vor \dots "'}.
-%     Auch: "`Achtung, gib Acht!"'
-%     \item[DNHG]  Dienstnehmerhaftpflichtgesetz. 
-%     \item[EGC] Europäische Grundrechtecharta. 
-%     \item[EMRK] Europäische Menschenrechtskonvention. 
-%     \item[engl.] englisch. 
-%     \item[evtl.] eventuell. 
-%     \item[EU] Europäische Union. 
-%     \item[franz.] französisch. 
-%     \item[FW] Feuerwehr. 
-%     \item[griech.] griechisch. 
-%     \item[gt.] \Lang{lat., Abkz.}: gutta: der Tropfen; \Lang{Pl.} gtt. (guttae):
-%     die Tropfen. (Nicht genormte) Maßeinheit. 
-%     \item[HB]   Heilbehandlung. 
-%     \item[HF] Herzfrequenz. 
-%     \item[HIV]  Human Immundeficiency Virus. 
-%     \item[i.\,d.\,R.] in der Regel. 
-%     \item[i.\,V.\,m.] in Verbindung mit. 
-%     \item[KA]  Krankenanstalt. 
-%     \item[KAKuG]  Krankenanstalten- und Kuranstaltengesetz. 
-%     \item[KARPAT] Pathologisch-Bakteriologischen Institut der Krankananstalt
-% Rudolfstiftung der Stadt Wien. 
-%     \item[KFG]  Kraftfahrgesetz. 
-%     \item[KG] Körpergewicht. 
-%     \item[KH]  Krankenhaus. 
-%     \item[KHD] Katastrophen- und Großschadenshilfsdienst. 
-%     \item[KIT] Kriseninterventionsteam. 
-%     \item[KTW]  Krankentransportwagen. 
-%     \item[lat.] latein, lateinisch.
-%     \item[MA]  Magistratsabteilung. 
-%     \item[MCI]  Myocardinfarkt = Herzinfarkt. 
-%     \item[\gls{mmHg}] \glsentrydesc{mmHg}
-%     \item[MONA]  Behandlungsschema für Patienten mit Herzinfarkt,
-%     bestehend aus Morphin, O\Sub{2}-Gabe, Nitrat-Gabe (z.\,B. Nitrolingual) und
-%     Gabe von Acetylsalicysäure (Aspirin{\texttrademark},
-%     Aspisol{\texttrademark}).
-%     \item[MPG]  Medizinproduktegesetz. 
-%     \item[NA]  Notarzt. 
-%     \item[\ce{NaCl}]  Natrium-Chlorid. 
-%     \item[NEF]  Notarzteinsatzfahrzeug. 
-%     \item[neurol.] neurologisch; das Nervensystem betreffend.
-%     \item[NFS]  Notfallsanitäter. 
-%     \item[NKA]  Notfallsanitäter mit Kompetenzen der
-%     Arzneimittel. 
-%     \item[NKI]  Notfallsanitäter mit Kompetenzen der
-%     Intubation. 
-%     \item[NKV]  Notfallsanitäter mit Kompetenzen des
-%     ven\"osen Zugangs. 
-%     \item[NKx] Notfallsanitäter mit Notfallkompetenzen, ohne nähere
-%     Spezifizierung welche Notfallkompetenzen gemeint sind. 
-%     \item[OGH]  Oberster Gerichtshof. 
-%     \item[OLG] Oberlandesgericht. 
-%     \item[OSR]  Oberster Sanitätsrat. 
-%     %\item[Pat]  Patient
-%     \item[PatVG]  Patientenverfügungsgesetz. 
-%     \item[PI] Polizeiinspektion. 
-%     \item[PLS] Patientenleitsystem. 
-%     \item[PLT] Patientenleittasche.
-%     \item[RM] Rettungsmittel. 
-%     \item[RQW]  Rissquetschwunde. 
-%     \item[RR] Blutdruck nach Riva Rocci, oft allgemein für Blutdruck.
-%     \item[RS]  Rettungssanitäter. 
-%     \item[RTW]  Rettungstransportwagen. 
-%     \item[Rz.] Randzahl. 
-%     \item[S.] Seite
-%     \item[SanAVO] Sanitäter-Ausbildungsverodnung. 
-%     \item[SanG]  Sanitätergesetz. 
-%     \item[SHT] Schädel-Hirn-Trauma. 
-%     \item[SMG] Suchtmittelgesetz. 
-%     \item[spez.] speziell. 
-%     \item[StGB]  Strafgesetzbuch. 
-%     \item[StGG]  Staatsgrundgesetz. 
-%     \item[StPO]  Strafprozessordnung. 
-%     \item[StrR]  Strafrecht. 
-%     \item[StVO]  Stra{\ss}enverkehrsordnung. 
-%     \item[SV]  Sozialversicherung. 
-%     \item[Syn.] Synonym. 
-%     \item[UbG]  Unterbringungsgesetz. 
-%     \item[VfGH]  Verfassungsgerichtshof. 
-%     \item[VfR]  Verfassungsrecht. 
-%     \item[VwGH]  Verwaltungsgerichtshof. 
-%     \item[VwR]  Verwaltungsrecht. 
-%     \item[Z.] Zahl, Ziffer.
-%     \item[ZDG]  Zivildienstgesetz. 
-%     \item[ZDL] Zivildienstleistender. 
-%     \item[ZR]  Zivilrecht. 
-% \end{description}
-% }
-% 
-% \end{multicols}
-% \end{gWideParEnv}
 
 \opt{STATUS-DRAFT}{
 \subsection*{Projektorthographie}
@@ -1182,7 +325,8 @@ i.\,m.}
 
 \include{./chapters/chapter-TAE} 
 
-\include{./chapters/chapter-NEW}
+% \include{./chapters/chapter-NEW}
+\addtocounter{chapter}{1}
 
 \include{./chapters/chapter-LER}
 
@@ -1378,12 +522,24 @@ i.\,m.}
 % 
 % \RoundedBoxExp{Beige}{Hallo!}
 
+\begin{figure}[H]
+\begin{gWideParEnv}
+\includegraphics[width=\linewidth]{./images/nasa-pd/114125main_image_feature_323_ys_full-00800.jpg}
+
+\Captionof{figure}{Orbital 'Thumbs Up'.
+The Expedition 10 and 11 crews give the "thumbs up" after the change of command
+ceremony on the International Space Station on April 22, 2005. From left:
+Expedition 11 Flight Engineer John L. Phillips, Expedition 11 Commander Sergei K.
+Krikalev, Expedition 10 Commander Leroy Chiao, European Space Agency (ESA)
+astronaut Roberto Vittori of Italy; and Expedition 10 Flight Engineer Salizhan S.
+Sharipov. \SourcePicture{NASA/JSC}}
+\end{gWideParEnv}
+\end{figure}
 
 SO LONG..........
 
 AND THANKS FOR ALL THE FISH
-
-
 % \addtocontents{toc}{\protect\end{multicols}}
+% \addtocontents{rx}{\protect\end{multicols}}
 \EndMulticolTOC
 \end{document}

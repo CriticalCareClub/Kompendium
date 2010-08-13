@@ -18,7 +18,6 @@
 {\CC{[MP1]}\\Medizinprodukte 1}
 \label{chp:GER}
 \label{chp:MP1}
-% \AasRsN{RS~IX}
 \emph{Maintainer: Ing. Roman Koch}
 
 \minitoc
@@ -258,7 +257,7 @@ nach vorne verläuft.
 }{}{}{}{}
 
 \Layout{2}{Funktionen}
-{
+{%
 Manche Typen verfügen über einen zweiseitigen Kopf. Meistens haben sie sowohl
 eine Membran, als auch einen Schalltrichter.~\ZFootnote{Der Unterschied besteht
 in einer unterschiedlichen Verstärkung von hohen oder tiefen Frequenzen, was für den
@@ -269,7 +268,7 @@ verstärken kann.} Durch Drehen am Kopf kann man die gewünschte Seite einstelle
 }{}{}{}{}
 
 \Layout{2}{Funktionsprüfung}
-{
+{%
 Vor der Verwendung muss mittels Beklopfen der Membran oder des
 Schalltrichters geprüft werden, ob der Kopf des Stethoskops auf die gewünschte
 Seite eingestellt ist und ob die Schallleitung funktioniert. 
@@ -344,7 +343,7 @@ Es gibt Manschetten in unterschiedlichen Größen.
 % [F078?] Ein "`guter"' Sättigungswert ist
 % keine Begründung keinen Sauerstoff zu verabreichen!
 
-Die Pulsoxymetrie wird unter
+Die Pulsoxymetrie als Untersuchung wird unter
 \prettyref{topic:pulsoxymetrie} besprochen.
 
 \subsubsection{Allgemein}
@@ -545,7 +544,7 @@ Die Blutzuckermessung wird unter
 \index{O2@\ce{O2}}
 
 \Definition{\T{Sauerstoff} ist ein
-lebenswichtiges Gas welches zu 21\% in unserer Atemluft
+lebenswichtiges Gas welches zu 21\,\% in unserer Atemluft
 vorkommt und außerdem ein essentielles
 Notfall"`medikament"'.
 Das chemische Symbol lautet \T{\ce{O2}}.}
@@ -731,20 +730,7 @@ geöffnet werden! } }{
 
 
 
-\Layout{22}{Bestandteile}
-{
-Ein Beatmungsbeutel besteht im Idealfall aus folgenden Teilen:
-\begin{itemize}
-	\item Beatmungsmaske 
-	\item Bakterienfilter
-	\item Ein-/Ausatemventil mit angeschlossenem PEEP-Ventil
-	\item Beatmungsbeutel
-	\item Reservoir, welches mit einem Verbindungsschlauch
-	(\E{\ce{O2}-Line}) mit einer Berieselungseinheit verbunden
-	ist.
-\end{itemize}
-}{}{./images/geraete/ambu-komplett-zerlegt.jpg}{Bestandteile eines
-Beatmungsbeutels.}{}
+
 
 
 
@@ -756,26 +742,82 @@ Beatmungsbeutels.}{}
 \label{topic:beatmungsbeutel}
 \index{Beatmungs!-beutel}
 
-\Layout{22}{Material}
-{
 Eine Beatmung durch Fachpersonal sollte wenn möglich immer mit Hilfsmitteln wie
 dem \E{Beatmungsbeutel} oder einem \E{Beatmungsgerät} durchgeführt werden.
-Der Beatmungsbeutel ist das einfachste Hilfsmittel welches dem Fachpersonal zur
-Verfügung steht und kommt in vielen Bereichen (Rettungsdienst, Krankenhaus,
+
+\Layout{20}{\TxBeschreibung}
+{%
+Der Beatmungsbeutel ist das einfachste Hilfsmittel, welches dem Fachpersonal zur
+Verfügung steht, und kommt in vielen Bereichen (Rettungsdienst, Krankenhaus,
 \ldots) zum Einsatz. Er ermöglichst die kontrollierte oder unterstützende
 Beatmung eines Patienten.
+}
+{%
+\begin{itemize}
+  \item Hilfsmittel zur kontrollierten und unterstützenden Beatmung
+\end{itemize}
+}
+{./images/geraete/ger-ambu-00800.jpg}
+{Beatmungsbeutel mit Reservoir, Bakterienfilter und Masken unterschiedlicher Größe.}
+{}
 
-Wenn vorhanden soll der Beutel mit einer Sauerstoffzufuhr verbunden werden. Am
+% \Layout{22}{Bestandteile}
+% {
+% Ein Beatmungsbeutel besteht im Idealfall aus folgenden Teilen:
+% \begin{itemize}
+% 	\item Beatmungsmaske 
+% 	\item Bakterienfilter
+% 	\item Ein-/Ausatemventil mit angeschlossenem PEEP-Ventil
+% 	\item Beatmungsbeutel
+% 	\item Reservoir, welches mit einem Verbindungsschlauch
+% 	(\E{\ce{O2}-Line}) mit einer Berieselungseinheit verbunden
+% 	ist.
+% \end{itemize}
+% }{}{}{}
+
+\Layout{20}{Bestandteile}{%
+Ein Beatmungsbeutel besteht üblicherweise aus einem \Es{Luftzufuhrventil}, einem
+\Es{Balg} und einem \Es{T-Stück} mit einem Ventil. 
+
+An der Luftzufuhr kann eine
+\Es{Sauerstoffleitung} und/oder ein \Es{Sauerstoffreservoir} angeschlossen
+werden, um den Sauerstoffgehalt des Einatemgases zu erhöhen. Am
 einfachsten erfolgt dies über einen Verbindungsschlauch und eine
 \ce{O2}-Berieselungseinheit, welches mit einem Flow von 15\LMin{}
 eingestellt ist. Mit Hilfe eines Reservoirs, welches Sauerstoff während der
-Beatmungspausen zwischenspeichert,  kann die \ce{O2}-Konzentration der
-Einatemluft weiter gesteigert werden. 
-
-\Z{Andere \ce{O2}-Systeme sind am Markt
+Beatmungspausen zwischenspeichert,  kann die \ce{O2}-Konzentration des
+Einatemgases weiter gesteigert werden.~\Z{Andere \ce{O2}-Systeme sind am Markt
 verfügbar (Demand-Ventile, etc.), aber nur begrenzt verbreitet.}
-}{}{./images/geraete/ger-ambu-00800.jpg}
-{Beatmungsbeutel mit Reservoir, Bakterienfilter und Masken unterschiedlicher Größe.}
+
+\Fazit{Wenn vorhanden soll der Beutel mit einer Sauerstoffzufuhr verbunden
+werden.}
+
+Am T-Stück gibt es
+\E{3 Schenkel}: Einer kommt vom Beatmungsbalg, ein führt zum Patienten und einer
+zum Auslass. Das \Es{Ventil} des T-Stückes \E{trennt die Ein- von der 
+Ausatemluft} des Patienten. Am Patientenschenkel kann ein \Es{Bakterienfilter}
+und Messvorrichtungen (z.\,B. zur \ce{CO2}-Messung) angebracht werden. Er wird
+mit einer \Es{Beatmungsmaske} oder einem Tubus -- je nach Bedarf -- verbunden.
+Am Ausführungsschenkel kann ein \Es{PEEP}-Ventil aufgesteckt werden. 
+}{%
+\begin{itemize}
+  \item Luftzufuhrventil
+  \begin{itemize}
+    \item \ce{O2}-Leitung
+    \item Reservoir
+  \end{itemize}
+  \item Balg
+  \item T-Stück
+  \begin{enumerate}
+    \item Vom Balg kommend
+    \item Zum/vom Patienten: + Bakterienfilter, Beatmungsmaske od. Tubus
+    \item Ausführung, evt. mit PEEP-Ventil
+  \end{enumerate}
+\end{itemize}
+}
+{./images/geraete/ambu-komplett-zerlegt.jpg}
+{Bestandteile eines
+Beatmungsbeutels.}
 {}
 
 \begin{table}[H]
@@ -804,6 +846,31 @@ fast 100\,\%
 \end{tabulary}
 \hrule
 \end{table}
+
+
+
+
+\Layout{0}{Hygienische Wiederaufbereitung}
+{%
+Es gibt Beatmungsbeutel als Einweg- und Mehrwegprodukt. Einwegprodukte müssen
+nach Gebrauch entsorgt werden. 
+
+Mehrwegprodukte können i.\,d.\,R. durch Desinfektion im
+Einlegebad\ZFootnote{Autoklavierung ist meistens auch möglich und
+wünschenswert, sofern die entsprechenden Einrichtungen vorhanden sind.}
+wiederaufbereitet werden. Es ist unbedingt notwendig, dass der Beatmungsbeutel dazu \Es{komplett zerlegt} wird!
+
+Die Herstellerhinweise sind zu beachten.
+}{
+\begin{itemize}
+  \item Einweg- und Mehrwegprodukte
+  \item I.\,d.\,R. Desinfektion mittels Einlegebad
+  \begin{itemize}
+    \item \Ca{Beutel komplett zerlegen!}
+  \end{itemize}
+\end{itemize}
+}{}{}
+
 
 
 \subsection{Beatmungsgerät}
@@ -889,7 +956,7 @@ und schwache Batterie.} }
 positiver end-exspiratorischer Druck}
 
 \Layout{60}{\TxBeschreibung{}}
-{
+{%
 Das PEEP-Ventil wird auf der Ausatemöffnung des
 Beatmungsbeutels bzw. Beatmungsgerätes aufgesteckt. Es hält
 einen positiven Druck in der Lunge am Ende der
@@ -899,7 +966,7 @@ der angebrachten Skala abgelesen werden.
 
 Die Anwendung des PEEP ist eine \Es{ärztliche Maßnahme},
 daher muss es \Es{bei der Anwendung durch einen Sanitäter
-immer auf Null stehen}. 
+auf Null} gestellt sein. 
 
 \Z{Mögliche Einstellungen für das
 PEEP-Ventil sind 5 bzw. 10\,cm\,H\textsubscript{2}O (cm
@@ -925,21 +992,27 @@ Wassersäule).}
 \label{topic:absaugung}
 \label{topic:absauggeraete}
 
+\Layout{2}{{\TxQuerverweise}}{%
+\begin{inparaitem}
+  \item Absaugkatheter: \prettyref{topic:absaugkatheter};
+  \item Absaugtechnik: \prettyref{topic:absaugung-taetigkeit}
+\end{inparaitem}
+}{}{}{}{}
+
 Blut oder Schleim kann vom Fachpersonal mittels Absaugpumpen aus dem
 Mund-Rachen-Raum abgesaugt werden. Es gibt unterschiedliche
 Modelle; grundsätzlich wird nach der
 Betriebsart unterschieden zwischen \Es{elektrischer
 Absaugeinheit}, \Es{manueller Absaugpumpe} und als
-Sonderfall nur für eine bestimmte Patientengruppe geeignet
-der \Es{Oro-Sauger} oder Schleimabsauger.
+Sonderfall der \Es{Oro-Sauger} oder Schleimabsauger.
 
 Ein \Es{Absaugkatheter} ist jenes Zubehör zur Absaugpumpe,
 mit welchem die Sekrete aus Mund oder Nase abgesaugt werden.
 Es ist ein flexibler, ca. 50\,cm langer Schlauch, der direkt
 an die Absaugpumpe angeschlossen wird (siehe Abbildung
 in \prettyref{tab:absaugvorrichtungen}). Die
-meisten Absaugkatheter haben an jenem Ende das in Mund oder Nase
-eingeführt wird eine kleine Öffnung, die das Festsaugen an
+meisten Absaugkatheter haben an jenem Ende, das in Mund oder Nase
+eingeführt wird, eine kleine Öffnung, die das Festsaugen an
 den Patienten verhindert. Die Absaugkatheter sind steril
 verpackt und sollten auch dementsprechend behandelt werden.
 Die farbige Kennung gibt den Durchmesser des Absaugkatheters
@@ -948,27 +1021,27 @@ entnommen werden.}
 
 \Layout{57}{}
 {}{}
-{\Z{
+{\Z{\scriptsize%
 \begin{tabulary}{\linewidth}{LCCCCCCCCC}
-\TabHeading{Farbe}
+\noindent\TabHeading{Farbe}
 &
-\TabHeading{grau}
+\noindent\TabHeading{grau}
 &
-\TabHeading{hellgrün}
+\noindent\TabHeading{hellgrün}
 &
-\TabHeading{blau}
+\noindent\TabHeading{blau}
 &
-\TabHeading{schwarz}
+\noindent\TabHeading{schwarz}
 &
-\TabHeading{weiß}
+\noindent\TabHeading{weiß}
 &
-\TabHeading{grün}
+\noindent\TabHeading{grün}
 &
-\TabHeading{orange}
+\noindent\TabHeading{orange}
 &
-\TabHeading{rot}
+\noindent\TabHeading{rot}
 &
-\TabHeading{gelb}
+\noindent\TabHeading{gelb}
 \\\addlinespace\midrule
 Durchmesser in mm
 & 1,7 & 2,0 & 2,7 & 3,3 & 4,1 & 4,7 & 5,3 & 6,1 & 6,6
@@ -985,10 +1058,8 @@ Größe in Charrière
 \opt{ORGASBFLO}{\ASBFLO{Beim ASB Floridsdorf-Donaustadt werden folgende Geräte
 eingesetzt:
 
-
-\Layout{57}{}
-{}{}
-{
+\Layout{57}{}{}{}
+{%
 \begin{tabulary}{\linewidth}{LLLL}
 \TabHeading{Hersteller}
 &
@@ -1034,17 +1105,13 @@ Orosauger
 \\\addlinespace\bottomrule
 \end{tabulary}
 }
-{ASB921: Eingesetzte Absauggeräte.}{}
-}
-}
+{ASB921: Eingesetzte Absauggeräte.}
+{}
+}}%Ende opt
 
-
-\begin{table}[H]
-\begin{gWideParEnv}
-\Captionof{table}{Verschiedene
-Absaugvorrichtungen.\label{tab:absaugvorrichtungen}}
-
-\begin{tabular}{p{\linewidth - 10cm}p{4cm}p{4cm}}
+\Layout{57}{}{}{}
+{
+\begin{tabulary}{\linewidth}{LLL}
 \TabHeading{Elektrische Absaugeinheit}
 
 Älteres Modell von der Fa. Laerdal (Laerdal Suction Unit{\texttrademark})
@@ -1082,9 +1149,18 @@ zum Einführen in Mund oder Nase
 &
 \vspace{0.1pt}
  \includegraphics[width=4cm]{./images/geraete/absaugkatheter.jpg} \\\bottomrule
-\end{tabular}
-\end{gWideParEnv}
-\end{table}
+\end{tabulary}
+}
+{Verschiedene Absaugvorrichtungen.\label{tab:absaugvorrichtungen}}
+{}
+
+% \begin{table}[H]
+% \begin{gWideParEnv}
+% \Captionof{table}{}
+% 
+% 
+% \end{gWideParEnv}
+% \end{table}
 
 % TODO Erratum: 0.8.0: Absaugung Funktionskontrolle
 \Layout{0}{Funktionskontrolle}
@@ -1097,7 +1173,8 @@ Bei Geräten, welche über Akkus verfügen, muss die \Es{Akku-Ladung} und
 Saugfunktionsprüfung \E{ohne Anschluss an eine externe Stromquelle}
 erfolgen, d.h. das Gerät muss für die Funktionsprüfung von einer Ladehalterung
 abgenommen werden. Die Ladestandsanzeige und evtl. vorhandene
-\Es{Warnleuchten} müssen kontrolliert werden. }{
+\Es{Warnleuchten} müssen kontrolliert werden. 
+}{
 \begin{itemize}
    \item Prüfung von
    \begin{itemize}
@@ -1113,12 +1190,7 @@ abgenommen werden. Die Ladestandsanzeige und evtl. vorhandene
 \end{itemize}
 }{}{}{}
 
-\Layout{2}{{\TxQuerverweise}}{%
-\begin{inparaitem}
-  \item Absaugkatheter: \prettyref{topic:absaugkatheter};
-  \item Absaugtechnik: \prettyref{topic:absaugung-taetigkeit}
-\end{inparaitem}
-}{}{}{}{}
+
 
 \section{Transporthilfsmittel}
 
@@ -1130,6 +1202,7 @@ abgenommen werden. Die Ladestandsanzeige und evtl. vorhandene
 \end{inparaitem}
 }{}{}{}{}
 
+\subsection{Tragsessel}
 
 \Layout{22}{Umgang mit dem Tragsessel}
 {\label{topic:tragsessel}%
@@ -1142,6 +1215,16 @@ Stiegen hat der Patient immer talwärts zu blicken.
 }
 {./images/noauth/GER-tragsessel.jpg}
 {\AuthNotesPicLegalNotOk{GER-tragsessel.jpg}{}Tragsessel}
+{}
+
+\Layout{2}{Zutragestuhl}
+{\label{topic:zutragestuhl-mp}%
+{\TakeNotesLarge}
+}{
+
+}
+{}
+{}
 {}
 
 
@@ -1212,22 +1295,16 @@ werden!}
 
 \Layout{2}{Anwendung}
 {%
-~
-
 {\TakeNotesLarge}
 }{}{}{}{}
 
 \Layout{2}{Hygienische Wiederaufbereitung}
 {%
-~
-
 {\TakeNotesLarge}
 }{}{}{}{}
 
 \Layout{2}{\TxGefahren}
 {%
-~
-
 {\TakeNotesLarge}
 }{}{}{}{}
 
@@ -1253,22 +1330,16 @@ werden!}
 
 \Layout{2}{Anwendung}
 {%
-~
-
 {\TakeNotesLarge}
 }{}{}{}{}
 
 \Layout{2}{Hygienische Wiederaufbereitung}
 {%
-~
-
 {\TakeNotesLarge}
 }{}{}{}{}
 
 \Layout{2}{\TxGefahren}
 {%
-~
-
 {\TakeNotesLarge}
 }{}{}{}{}
 
@@ -1284,7 +1355,7 @@ werden!}
 \label{topic:schaufeltrage-beschreibung}
 
 \Layout{60}{}
-{
+{%
 Anwendung: \prettyref{topic:schaufeltrage-handhabung}
 
 Die Schaufeltrage wird primär für das Umlagern von liegenden
@@ -1324,7 +1395,7 @@ Standardausstattung und wird nicht routinemäßig verwendet.}
 Anwendung: \prettyref{topic:rettungskorsett-anwendung}
 
 \Layout{61}{}
-{
+{%
 Das Rettungskorsett wird primär für das Umlagern von
 sitzenden Patienten mit dem Verdacht auf eine Verletzung der
 Wirbelsäule verwendet. Es kann aber auch für das Retten
@@ -1352,7 +1423,7 @@ werden.
 
 Anwendung: \prettyref{topic:hws-schiene-anlegen}
 \Layout{61}{}
-{
+{%
 Dient zum Ruhigstellen der {\bfseries H}als{\bfseries
 W}irbel{\bfseries S}äule (HWS). Es sind verschiedene
 Fabrikate im Einsatz (z.\,B. Stifneck\texttrademark). Es gibt
@@ -1379,7 +1450,7 @@ select{\texttrademark} für Kinder).
 Anwendung: \prettyref{topic:sam-splint-anwendung}
 
 \Layout{61}{}
-{
+{%
 Der SAM-Splint ist eine flexible, vom Kunststoff umgebene
 Metallschiene und ermöglicht das Ruhigstellen von Extremitätenverletzungen mit
 abnormer Stellung. Er lässt sich leicht an den Arm anformen, muss jedoch noch
@@ -1398,7 +1469,7 @@ mit einer Mullbinde oder mit Dreiecktüchern fixiert werden. Die Anpassung erfol
 \label{topic:vacuumbeinschiene-beschreibung}
 
 \Layout{61}{}
-{
+{%
 % TODO : Neufassung
 \TODO{GABS}{yyyy-mm-dd}{Fehlender Text.}{}
 Die Vakuumbeinschiene dient zum Ruhigstellen von Verletzungen \Es{unterhalb des
@@ -1421,7 +1492,7 @@ werden!
 \label{topic:vakuummatratze-beschreibung}
 
 \Layout{61}{}
-{
+{%
 % TODO : Neufassung
 \TODO{GABS}{yyyy-mm-dd}{Fehlender Text.}{}
 Die Vakuummatratze wird zum Ruhigstellen von Wirbelsäule, Becken und

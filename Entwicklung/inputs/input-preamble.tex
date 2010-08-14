@@ -82,7 +82,7 @@
 \makeatletter
 \renewenvironment{theindex}
    {
-   \begin{gWideParEnv}
+   \begin{WidePar}
    ~
 
    \begin{multicols}{3}[\chapter{\indexname}]
@@ -90,7 +90,7 @@
    }
    {
    \end{multicols}
-   \end{gWideParEnv}
+   \end{WidePar}
    }
 \makeatother
 
@@ -663,7 +663,7 @@ sort&compress, % as sort but in addition multiple numerical citations are
 % 
 %     \restoregeometry
 %     }
-% %    \end{gWideParEnv}
+% %    \end{WidePar}
 %    \onecolumn
 % % 	\begin{multicols}{2}
 % %     	{

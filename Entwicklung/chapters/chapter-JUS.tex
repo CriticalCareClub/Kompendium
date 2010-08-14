@@ -558,12 +558,12 @@ er sich den Sanitätern und droht jeden Moment anzugreifen.
 
 \Layout{2}{Rechtslage}{}{}{}{}{} ~
 
-\begin{WidePar}
-\begin{table}[H]
+
+\begin{table}[H]\begin{WidePar}
 \Captionof{table}{Rechtslage: Gegenüberstellung rechtfertigender vs.
 entschuldigender Notstand.}
 
-\begin{tabularx}{\textwidth}{XX}
+\begin{tabularx}{\linewidth}{XX}
 \EE{Rechtfertigender Notstand}
 &
 \EE{Entschuldigender Notstand}
@@ -621,9 +621,9 @@ entschuldigender Notstand.}
   Ergebnis der Abwehrhandlung sein.
 \end{itemize}
 \\\bottomrule
-\end{tabularx}
+\end{tabularx}\end{WidePar}
 \end{table}
-\end{WidePar}
+
 
 \Layout{2}{Rechtsfolge}{}{}{}{}{}
 
@@ -950,7 +950,7 @@ Was ist eine Patientenverfügung? Ab wann und wie weit ist sie bindend?
   \end{itemize}
 \end{itemize}
 
-\subparagraph{\EE{zwei Arten der Patientenverfügung}:}
+\subparagraph{zwei Arten der Patientenverfügung:}
 
 \begin{enumerate}
   \item \T{Verbindliche Patientenverfügung}:
@@ -986,7 +986,7 @@ Was ist eine Patientenverfügung? Ab wann und wie weit ist sie bindend?
   \end{itemize}
 \end{enumerate}
 
-\subparagraph{\EE{Absolute Unwirksamkeit/Unbeachtlichkeit bei}:}
+\subparagraph{Absolute Unwirksamkeit/Unbeachtlichkeit bei:}
 
 \begin{itemize}
   \item zu allgemeine oder widersprüchliche Formulierungen
@@ -996,13 +996,11 @@ Was ist eine Patientenverfügung? Ab wann und wie weit ist sie bindend?
 \end{itemize}
 
 
-\subparagraph{\EE{Suche nach Patientenverfügung} --
-\Z{{\S}\,12 PatVG:}}~
-
+\subparagraph{Suche nach Patientenverfügung:}
 Bei Notfallversorgungen muss nicht nach einer Verfügung gesucht
 werden, wenn die Suche das Leben oder die Gesundheit des Patienten ernstlich
 gefährden würde. Daher wird für das Rettungswesen idR. keine
-Verpflichtung zur Suche, sondern zur Behandlung bestehen.
+Verpflichtung zur Suche, sondern zur Behandlung bestehen.\ZFootnote{{\S}\,12 PatVG}
 
 %\end{multicols}
 
@@ -1061,9 +1059,9 @@ hätte und sowieso noch eine ca. 20 Minuten lange
 Anfahrtszeit zur Krankenanstalt durch den schon einsetzende Morgenstau
 bewältigen müsste.
 
-\Layout{2}{Rechtsfrage}{}{}{}{}{}
-
-Besteht die Pflicht für Sanitäter zur Nachforderung eines Notarztes?
+\Layout{2}{Rechtsfrage}{%
+Besteht die Pflicht für Sanitäter zur Nachforderung eines Notarztes?}
+{}{}{}{}
 
 \Layout{2}{Rechtslage}{
 
@@ -1147,6 +1145,7 @@ Verzug}) überschreiten?}{}{}{}{}
 Die \EE{Kompetenzstufen} sind im SanG\ZFootnote{{\S}{\S}\,9--12 SanG}
 geregelt:
 
+\clearpage % TODO temporäres clearpage
 \begin{labeling}[~:]{XXXX}
   \item[\T{RS}] \marginlabel{{\S}\,9 SanG}
   \begin{itemize}

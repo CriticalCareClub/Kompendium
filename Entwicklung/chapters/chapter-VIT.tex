@@ -227,10 +227,19 @@ vorhanden?"'). Er muss bei jedem Patienten festgestellt werden.
 
 Die folgende Tabelle (\prettyref{tab:bewusstseinsgrade}) listet die möglichen
 Bewusstseinsgrade auf:
+}{
+\begin{itemize}
+  \item Klar.
+  \item Getrübt.
+  \begin{itemize}
+    \item Somnolent.
+    \item Soporös.
+  \end{itemize}
+  \item Bewusstlos -- Koma.
+\end{itemize}
+}{}{}{}
 
-\noindent\begin{minipage}{\linewidth}
-\Captionof{table}{Bewusstseinsgrade\label{tab:bewusstseinsgrade}}
-
+\Layout{57}{}{}{}{%
 \begin{tabulary}{\linewidth}{LLLL}
 \addlinespace
 \TabSub{Bewusstseinsklar}
@@ -263,20 +272,9 @@ schläfrig, aber leicht erweckbar.
 \noindent\Ca{Lebensgefahr!}
 \\\addlinespace\bottomrule
 \end{tabulary}
-\end{minipage}
-
-}{
-\begin{itemize}
-  \item Klar.
-  \item Getrübt.
-  \begin{itemize}
-    \item Somnolent.
-    \item Soporös.
-  \end{itemize}
-  \item Bewusstlos -- Koma.
-\end{itemize}
-
-}{}{}{}
+}
+{Bewusstseinsgrade\label{tab:bewusstseinsgrade}}
+{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \Layout{2}{Orientierung}
@@ -312,12 +310,10 @@ Man unterscheidet dabei die Orientierung zu:
 \label{topic:gcs}
 %
 Die Glasgow Coma Scale ist eine spezielle Skala, welche der 'objektiven'
-Einschätzung der Bewusstseinslage  dient. Sie hat einen Wertebereich von mind.~3
-bis max.~15 Punkten. Bewertet werden die Augenöffnung, die beste verbale und
-die beste motorische Reaktion des Patienten. 
-
-Ein voll bewusstseinsklarer Patient hat 15 Punkte, ein schwerst
-bewusstseinsgestörter oder toter Patient 3 Punkte (nicht 0!).
+Einschätzung der Bewusstseinslage  dient. Sie hat einen Wertebereich von
+\VonBis{3}{15} Punkten. Ein voll bewusstseinsklarer Patient hat 15 Punkte, ein schwerst
+bewusstseinsgestörter oder toter Patient 3 Punkte (nicht 0!). Bewertet werden
+die Augenöffnung, die beste verbale und die beste motorische Reaktion des Patienten. 
 
 Heutzutage dient die \Abk{GCS} vorwiegend statistischen
 Zwecken\ZFootnote{Regelmäßig findet man Handlungsanweisungen -- überwiegend
@@ -339,8 +335,8 @@ Tafel \ref{tab:gcs}.
 \Captionof{table}{GCS - Glasgow Coma Scale.\label{tab:gcs}}
 
 \begin{tabulary}{\linewidth}{LCCL}
-~ & \TabHeading{Max.} & \TabHeading{Punkte} &
-\TabHeading{Reaktion}
+\noindent ~ & \noindent\TabHeading{Max.} & \noindent\TabHeading{Punkte} &
+\noindent\TabHeading{Reaktion}
 \\\midrule
 \TabSub{Augenöffnung} & 4 & 4 & spontan
 \\
@@ -392,7 +388,8 @@ listet typische Ursachen auf.
 Bewusstseinsstörungen.\label{tab:bewusstseinsstoerungen-ursachen}}
 
 \begin{tabularx}{\linewidth}[H]{XX}
-\TabHeading{Primäre Ursachen} & \TabHeading{Sekundäre Ursachen}
+\noindent\TabHeading{Primäre Ursachen} & \noindent\TabHeading{Sekundäre
+Ursachen}
 \\
 {\tiny betreffen direkt das ZNS} & {\tiny betreffen über
 Umwege das ZNS} 
@@ -457,7 +454,6 @@ Umwege das ZNS}
 % bei getrübten Patienten}~
 
 \begin{itemize}
-  \item BAK-Schema  (Bewusstsein/Atmung/Kreislauf)
   \item Lagerung: situationsgerecht je nach
   Verdachtsdiagnose, im Zweifel \EE{stabile
   Seitenlage}, bei hochschwangeren Frauen auf die
@@ -475,10 +471,7 @@ Umwege das ZNS}
   \item Wärmeerhalt
   \item \EE{Ursachenforschung} -- Warum ist der
   Patient eingetrübt?
-  \item \EE{Neurocheck}
-  \begin{itemize}
-    \item Immer auch an \EE{BZ} denken!
-  \end{itemize}
+  \item \EE{Neurocheck}, inkl. \EE{BZ}-Messung!
   \item \EE{Traumacheck}. Suche nach Primär- und
   Folgeverletzungen!
 \end{itemize}
@@ -489,7 +482,6 @@ Umwege das ZNS}
 soporöse Patienten}{}
 {
 \begin{itemize}
-  \item BAK-Schema  (Bewusstsein/Atmung/Kreislauf)
   \item \TxMassVitBes
   \begin{itemize}
     \item Lagerung: stabile Seitenlage, bei hochschwangeren Frauen auf die
@@ -502,10 +494,7 @@ soporöse Patienten}{}
   \item Wärmeerhalt
   \item \EE{Ursachenforschung} -- Warum ist der Patient bewusstlos oder
   soporös?
-  \item \EE{Neurocheck}
-  \begin{itemize}
-    \item Immer auch an \EE{BZ} denken!
-  \end{itemize}
+  \item \EE{Neurocheck}, inkl. \EE{BZ}-Messung!
   \item \EE{Traumacheck}. Suche nach Primär- und
   Folgeverletzungen!
 \end{itemize}
@@ -1871,7 +1860,7 @@ Schock}{}{
 }
 
 
-
+\clearpage % TODO temporäres clearpage
 \subsubsection{Septischer Schock und Toxischer Schock}
 \index{Schock!Septischer}
 \index{Schock!Toxischer}
@@ -2673,7 +2662,7 @@ Stoffe gebildet \Z{Ketonkörper}, welche ein Ungleichgewicht verursachen.
 }{}{}{}
 
 
-\Layout{2}{Gefahren}
+\Layout{2}{\TxGefahren}
 {%
 Es kann zu einer Schädigung des Zellstoffwechsels und des Herzmuskels kommen.
 }{%
@@ -2859,8 +2848,7 @@ wurde.}
 
               
 
-\begin{WidePar}
-\MassnahmenNG{Spezielle Maßnahmen:}{Unterlassung der Reanimation}
+\MassnahmenWide{Spezielle Maßnahmen:}{Unterlassung der Reanimation}
 {\label{m:reanimation-unterlassung}}
 {%
 \fcolorbox{ubuntured}{White}{
@@ -2904,7 +2892,6 @@ der}\index{Wiederbelebung|see{Reanimation}}}
 \end{minipage}
 }
 }
-\end{WidePar}
 
 
 

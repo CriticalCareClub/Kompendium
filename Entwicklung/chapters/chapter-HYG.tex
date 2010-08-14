@@ -13,41 +13,41 @@
 % Hyg-Fortbildung 2009/11 Graz
 
 
-\begin{tabularx}{\linewidth}{|lXlX|}
-\hline
-\TabSub{Kapitelcode:}
-&
-\Code{HYG}
-&
-Sachgebiet:
-&
-1
-\\\hline
-\TabSub{Maintainer:}
-&
-Sebastian Gabriel
-&
-\TabSub{Co-Maintainer:}
-&
----
-\\
-\TabSub{Reviewer:}
-&
-Alexander Blacky 
-&
-\TabSub{Autoren:}
-&
-diverse. 
+% \begin{tabularx}{\linewidth}{|lXlX|}
+% \hline
+% \TabSub{Kapitelcode:}
+% &
+% \Code{HYG}
+% &
+% Sachgebiet:
+% &
+% 1
 % \\\hline
-% \multicolumn{4}{|l|}{
-% % \begin{minipage}{\linewidth - {4\fboxrule} - {4\fboxsep}}
-% % \blindtext
-% % \end{minipage}
-% \parbox{\linewidth}{\blindtext}
-% }
-\\\hline
-\end{tabularx}
-
+% \TabSub{Maintainer:}
+% &
+% Sebastian Gabriel
+% &
+% \TabSub{Co-Maintainer:}
+% &
+% ---
+% \\
+% \TabSub{Reviewer:}
+% &
+% Alexander Blacky 
+% &
+% \TabSub{Autoren:}
+% &
+% diverse. 
+% % \\\hline
+% % \multicolumn{4}{|l|}{
+% % % \begin{minipage}{\linewidth - {4\fboxrule} - {4\fboxsep}}
+% % % \blindtext
+% % % \end{minipage}
+% % \parbox{\linewidth}{\blindtext}
+% % }
+% \\\hline
+% \end{tabularx}
+\emph{Maintainer: Sebastian Gabriel}
 \minitoc
 
 \nocite{Longmore2007}
@@ -427,8 +427,10 @@ Patient 1 ${\rightarrow}$ \emph{Sanitäter} ${\rightarrow}$ Patient 2
 \section{Multiresistente Keime}
 \label{topic:multiresistente-keime}
 
-\marginlabel{Linktip: \emph{EUREGIO MRSA-net}
-\url{http://www.mrsa-net.org/}\cite{mrsanet}}
+\Layout{2}{Linktip}{%
+\cite{mrsanet} \emph{EUREGIO MRSA-net}
+\url{http://www.mrsa-net.org/}
+}{}{}{}{}
 
 \Layout{60}{Geschichte und Bedeutung der Antibiotika}
 {%
@@ -442,8 +444,8 @@ häufig ein Todesurteil.
 Im Jahr 1928 verschimmelte dem englischen Wissenschaftler Alexander Fleming
 versehentlich eine Nährplatte mit Bakterienkulturen. Er bemerkte, dass in der
 Umgebung des Pilzes die Bakterien nicht wachsen konnten: das \E{Penicillin} war
-entdeckt. Zuvor hatten bereits deutsche Wissenschaftler eine andere
-Antibiotika-Art entwickelt, die Sulfonamide. Der erste Patient der mit
+entdeckt.\ZFootnote{Zuvor hatten bereits deutsche Wissenschaftler eine andere
+Antibiotika-Art entwickelt, die Sulfonamide.} Der erste Patient der mit
 Penicillin behandelt wurde war ein Londoner Polizist. Er hatte sich beim Rasieren verletzt und eine Blutvergiftung zugezogen -- er galt als unrettbar.~\ZFootnote{Leider wusste man damals noch nicht, wieviel
 Penicillin ein Mensch für eine erfolgreiche Behandlung benötigte. Der Polizist
 verstarb -- nach anfänglicher deutlicher Besserung -- als das experimentell hergestellte Penicillin aufgebraucht war.}
@@ -590,6 +592,9 @@ auch die Haut (Achselhöhle, Analregion) und die Schleimhäute können ihn
 beherbergen. Auch im Spital ist er häufig, aufgrund des hohen
 Antibiotikaverbrauchs ist er dort aber oft schon Antibiotika-resistent: Man
 spricht dann vom \T{MRSA}.
+
+\vspace{1cm}
+
 }{
 \begin{itemize}
     \item Staph aureus = "`Allerweltskeim"'
@@ -748,7 +753,7 @@ die korrekte Konzentration der Lösung und die vorgeschriebene Einwirkzeit
 beachtet werden.
 
 Eine Desinfektion ist i.d.R. für Gegenstände ausreichend, die \EE{nur mit
-intakter Haut} in Berührung kommen.
+intakter Haut} in Berührung kommen. 
 
 Voraussetzung für eine Desinfektion ist eine \E{vorhergehende Reinigung} des
 Gegenstandes.
@@ -761,6 +766,7 @@ Gegenstandes.
 \end{itemize}
 }{}{}{}
 
+\clearpage % TODO temporäres clearpage
 \Layout{0}{Wirkung von Desinfektionsmitteln}
 {
 Desinfektionsmittel haben grundsätzlich eine keimabtötende Wirkung. Diese ist
@@ -1131,25 +1137,20 @@ Verhütung von Kreuzinfektionen. Sie ist eine Standardmaßnahme und wird unter
 \subsection*{Literaturempfehlung}
 
 \Z{
-
-\begin{compactdesc}
-  \item[Axel Kramer und Ojan Assadian:] \cite{KramerWallhaeusersPraxis1}
-  \emph{Wallhäußers Praxis der Sterilisation, Desinfektion, Antiseptik und Konservierung.} 1. Auflage 2008,
-  Thieme. ISBN: 313-141-121-X. 
-  \par Standardwerk.
-  \item[Kramer, Heeg, Botzenhart (Hrsg.):]
-  \cite{KramerKrankenhausPraxishygiene1} \emph{Krankenhaus- und Praxishygiene.}
-  1. Auflage, Urban \& Fischer, 2001. ISBN: 3-437-22310-0. \par Übersichtswerk
-  mit speziellem Kapitel bezüglich Hygiene im Rettungs- und Krankentransport und exemplarischen Desinfektionsplänen.
-  \item[Heinz Flamm und Manfred Rotter (Hrsg):] \cite{FlammAngewandteHygiene4}
-  Angewandte Hygiene in Krankenhaus und Arztpraxis. 4. Auflage, Verlag Wilhelm Maudrich, 1999. ISBN:
-  3-85175-714-9.
-  \par Werk mit Österreich-Bezug.
-\end{compactdesc}
-
+\begin{labeling}{mmm}
+  \item[\cite{KramerWallhaeusersPraxis1}] \EE{Standardwerk}:
+  \emph{\bibentry{KramerWallhaeusersPraxis1}} 
+  \item[\cite{KramerKrankenhausPraxishygiene1}] \EE{Übersichtswerk} mit
+  speziellem Kapitel bezüglich Hygiene im Rettungs- und Krankentransport und exemplarischen
+  Desinfektionsplänen: 
+  \emph{\bibentry{KramerKrankenhausPraxishygiene1}}
+  \item[\cite{FlammAngewandteHygiene4}] Werk mit Österreich-Bezug:
+  \emph{\bibentry{FlammAngewandteHygiene4}} 
+\end{labeling}
 }
 
 
+\clearpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1224,13 +1225,11 @@ hat Patientenkontakt, der andere reicht zu!}
 
 \Layout{20}{Umgang mit spitzen Gegenständen}
 {%
-\index{Kontamed}
-\index{Spitze Gegenstände!Entsorgung}
+\index{Kontamed}%
+\index{Spitze Gegenstände!Entsorgung}%
 Spitze Gegenstände (Nadeln, Lanzetten, \ldots ) sind sofort in den
 Nadelabwurfbehälter ("`Gelbe Box", "`Kontamed\texttrademark", "`Sharp",
 \ldots ) zu entsorgen! 
-
-\Fazit{"`Wer sticht, der entsorgt!"'}
 
 Es gibt jedoch \EE{eine Ausnahme}: wenn aus einer Kanüle Blut für diagnostische
 Zwecke entnommen werden soll darf diese nicht gleich verworfen werden. In der
@@ -1238,15 +1237,10 @@ Praxis wir manchmal der \E{Blutzuckerwert mit Blut aus der Kanüle} bestimmt, um
 den Patienten einen weiteren Stich zu ersparen. Dies muss jedoch vorher
 ausdrücklich kund getan werden.
 
-\Fazit{
-\begin{itemize}
-  \item NIE Nachstopfen. 
-  \item NIE ausleeren.
-  \item Wenn die Box voll ist wird sie verschlossen und ausgetauscht.
-\end{itemize}
-}
+\Fazit{"`Wer sticht, der entsorgt!"'}
 
-
+\Fazit{NIE Nachstopfen, NIE ausleeren. -- 
+Wenn die Box voll ist wird sie verschlossen und ausgetauscht.}
 }{
 \begin{itemize}
   \item Nadelabwurfbehälter.
@@ -1271,7 +1265,7 @@ ausdrücklich kund getan werden.
 % \end{figure}
 
 \Layout{0}{Keimvehikel}
-{
+{%
 \ldots\ wie z.\,B. Kugelschreiber, Haltegriffe, etc. sind nicht nur für den
 Patienten im Sinne einer Kreuzinfektion ein Problem, sondern auch für das
 Personal. Daher sind auch in Hinblick auf den Selbstschutz die entsprechenden
@@ -1338,7 +1332,7 @@ Hygienemaßnahmen zu ergreifen!
 % \end{figure}
 
 
-\clearpage
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1355,7 +1349,7 @@ September 2007] \emph{Dtsch Med Wochenschr}, 2009, 134 Suppl
 1, S16-S33}\cite{OeAG2007}}
 
 \MassnahmenNG{Spezielle Maßnahmen}{Nadelstichverletzung}{}{
-
+\Z{Basiernd auf \cite{OeAG2007}.}
 \begin{itemize}
     \item Erstmaßnahmen durchführen: \nocite{OeAG2007}
     \begin{itemize}

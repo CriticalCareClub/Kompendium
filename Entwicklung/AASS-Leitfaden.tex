@@ -264,22 +264,22 @@ bindingoffset=1.5cm]
 \fancyhead[LE,RO]{\thepage} 
 %\fancyhead[LO]{}
 \fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
-\fancyhead[RE]{\Es{\AuthNotes{ --- \today -- ENTWURF
+\fancyhead[RE]{\EE{\AuthNotes{ --- \today -- ENTWURF
 --- }}}
-\fancyhead[LO]{\Es{\AuthNotes{ --- ENTWURF -- \today ---
+\fancyhead[LO]{\EE{\AuthNotes{ --- ENTWURF -- \today ---
 }}}
 \fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
 
 
 % %%% DRAFT %%%
-\fancyfoot[CE,CO]{\Es{\AuthNotes{ -- ENTWURF --
+\fancyfoot[CE,CO]{\EE{\AuthNotes{ -- ENTWURF --
 % Entwicklungszweig:
 % \input{./tmp/git-current-branch.tmp} -- Letztes Commit:
 % \input{./tmp/git-lastcommit.tmp}
 }}}
 
 %%% FINAL %%%
-% \fancyfoot[CE,CO]{\Es{{\itshape Vorabversion -- Nur für den
+% \fancyfoot[CE,CO]{\EE{{\itshape Vorabversion -- Nur für den
 % internen Gebrauch!}}}
 % \fancyfoot[LE]{{\AASS{}~ \itshape v.\,0.2.1-x}}
 % \fancyfoot[RO]{{\AASS{}~ \itshape v.\,0.2.1-x}}
@@ -442,7 +442,7 @@ Ca,
 Cave,
 Definition,
 E,
-Es,
+EE,
 ERROR,
 Fazit,
 H,
@@ -859,7 +859,7 @@ Git und im Bugtracker verwenden!
 % Write('Pascal keywords.');
 % \end{lstlisting}
 % 
-% \lstinline$\Es{Hallo}$
+% \lstinline$\EE{Hallo}$
 
 \section{Einführung in Git}
 
@@ -1003,7 +1003,7 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 % 
 % \MarriedNG{Symptome}
 % {
-% Klassisch \ldots \Es{Claritas} est
+% Klassisch \ldots \EE{Claritas} est
 % etiam processus dynamicus, qui sequitur mutationem
 % consuetudium lectorum. Mirum est notare quam littera gothica,
 % quam nunc putamus parum claram, anteposuerit litterarum
@@ -1040,7 +1040,7 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 % option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
 % Typi non habent claritatem insitam; est usus legentis in iis
 % qui facit eorum claritatem. Investigationes demonstraverunt
-% lectores legere me lius quod ii legunt saepius. \Es{Claritas} est
+% lectores legere me lius quod ii legunt saepius. \EE{Claritas} est
 % etiam processus dynamicus, qui sequitur mutationem
 % consuetudium lectorum. Mirum est notare quam littera gothica,
 % quam nunc putamus parum claram, anteposuerit litterarum
@@ -1094,17 +1094,17 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 % \begin{syntax}
 % \item[1.0,default,Wichtig!] \texttt{command},
 % \texttt{environment} or
-% \item[,,] \lstinline!\Es{}!     starke Betonung.
+% \item[,,] \lstinline!\EE{}!     starke Betonung.
 % \begin{description}
 %     \item[Anwendung] starke Betonung
-%     \item[Beispiel] \Es{starke Betonung}
+%     \item[Beispiel] \EE{starke Betonung}
 %     \end{description}
 % \item[,,] \lstinline!\E{}!     starke Betonung.
 % \begin{description}
 %     \item[Anwendung] starke Betonung
 %     \item[Beispiel] \E{schwache Betonung}
 % \end{description}
-% \Es{starke Betonung}
+% \EE{starke Betonung}
 % 
 % 
 % \end{syntax}
@@ -1117,13 +1117,13 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 % \toprule\addlinespace
 % \TabHeading{Befehl} & \TabHeading{Beschreibung}
 % \\\addlinespace\midrule\addlinespace
-% \lstinline$\Es{Hallo}$
+% \lstinline$\EE{Hallo}$
 % & 
 % starke Betonung \Z{(emphasis, strong)}
 % 
 % Sind jetzt serifenlos und fett.
 % &
-% \Es{starke Betonung}
+% \EE{starke Betonung}
 % \\\addlinespace
 % \lstinline$\E{}$
 % &
@@ -1244,12 +1244,12 @@ weg und ließen ihn \E{halbtot} liegen.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Starke Betonung -- \Code{\tbs Es\{\}}}\marginpar{\T{\tbs
+\subsubsection{Starke Betonung -- \Code{\tbs EE\{\}}}\marginpar{\T{\tbs
 gEs\{\}}}
 
 Bla!
 \begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\T{<text>}$
+  \item[Syntax:] \lstinline$\EE{<text>}$
   \item[Beschreibung:]
   \item[Ja:] 
   \item[Nein:] 
@@ -1261,7 +1261,7 @@ Bla!
 
 \aBox{Beispiel}{Befehl}{black}
 {%
-Ein Mann ging von \Es{Jerusalem} nach Jericho hinab und wurde von Räubern
+Ein Mann ging von \EE{Jerusalem} nach Jericho hinab und wurde von Räubern
 überfallen. Sie plünderten ihn aus und schlugen ihn nieder; dann gingen sie weg und ließen
 ihn halbtot liegen.
 }
@@ -1909,7 +1909,7 @@ gA\{\}}}
 % \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
 % \TabHeading{Befehl} & \TabHeading{Beschreibung}
 % \\\midrule
-% \lstinline$\Es{Hallo}$
+% \lstinline$\EE{Hallo}$
 % & Erklärung
 % \\\addlinespace
 % \end{tabular}
@@ -1962,36 +1962,36 @@ gA\{\}}}
 % Die Gefährdung bei Stromunfällen
 % hängt von verschiedenen Faktoren ab:
 % \begin{itemize}
-% 	\item \Es{Elektrische Spannung:} Die elektrische Spannung
+% 	\item \EE{Elektrische Spannung:} Die elektrische Spannung
 % 	ist die Ursache für den elektrischen Stromfluss und wird
 % 	in der Einheit Volt (V) gemessen. Wie gefährlich eine Spannung ist hängt nicht nur von der Höhe der Spannung selbst, sondern wesentlich auch vom elektrischen Strom, der von ihr hervorgerufen wird, ab. So kann z.B. die 12 V-Spannung einer Modelleisenbahn völlig ungefährlich sein, gibt es jedoch im Auto bei einer (großen) 12 V-Batterie einen Kurzschluss, kann ein gefährlich großer Strom fließen!
 % 		\begin{itemize}
 % 		\item \T{Niederspannung}: Von Niederspannung spricht man bei Spannungen bis 1000 V. An einer Autobatterie liegt eine Spannung von 12 V. An einer Steckdose liegt eine Spannung von 230 V, in Industriebetrieben wird zusätzlich oft eine Spannung von 400 V verwendet. Diese Spannungen sind auf jeden Fall lebensgefährlich. \Z{Ein Defibrillator schockt mit etwa 1000 V (!), ein externer Herzschrittmacher arbeitet mit bis zu 400 V.}
 % 		\item \T{Hochspannung}: Hochspannung ist eine Spannung über 1000 V. \Z{Über Hochspannungsleitungen wird die elektrische Energie mit einer Spannung von 110 000 V (= 110 kV) bis 380 000 V (= 380 kV) übertragen. An den Oberleitungen der Eisenbahn liegen 15 000 V (= 15 kV). Bei Gewitterblitzen treten Spannungen von 10-30 Millionen Volt (10-30 Megavolt) auf.}
 % 		\end{itemize}
-% 	\item \Es{Elektrische Stromstärke:} Elektrischer Strom ist der Fluss von Elektronen. Die treibende Kraft hinter dem Stromfluss ist die elektrische Spannung. Der elektrische Strom wird durch die elektrische Stromstärke beschrieben, welche mit der Einheit Ampere (A) gemessen wird. Kommt es zu einem Stromunfall ist die Schädigung im Körper von der Höhe der Stromstärke abhängig \footnote{Die Werte beziehen sich auf Wechselstrom, die Grenzwerte für Gleichstrom sind höher. Da oft die Stromart nicht bekannt ist, ist es prinzipiell sinnvoll von der gefährlicheren Stromart auszugehen!}:
+% 	\item \EE{Elektrische Stromstärke:} Elektrischer Strom ist der Fluss von Elektronen. Die treibende Kraft hinter dem Stromfluss ist die elektrische Spannung. Der elektrische Strom wird durch die elektrische Stromstärke beschrieben, welche mit der Einheit Ampere (A) gemessen wird. Kommt es zu einem Stromunfall ist die Schädigung im Körper von der Höhe der Stromstärke abhängig \footnote{Die Werte beziehen sich auf Wechselstrom, die Grenzwerte für Gleichstrom sind höher. Da oft die Stromart nicht bekannt ist, ist es prinzipiell sinnvoll von der gefährlicheren Stromart auszugehen!}:
 % \Z{
 % 		\begin{itemize}
-% 		\item Bei geringen Stromstärken \Es{unter 1 Milliampere (mA)} ist nur ein elektrischer Schlag spürbar.
-% 		\item Bei Stromstärken \Es{ab ca. 10 Milliampere (mA)} kommt es zu Schmerzempfindungen und Muskelkontraktionen. \cite{Jaros1}
-% 		\item Bei Stromstärken \Es{ab 15-25 mA} kommt es aufgrund der Muskelkontraktionen zu krampfhaften Festhalten der berührten Stromquelle. \cite{BoehmerTaschRett6}
-% 		\item Stromstärken \Es{ab 25-50 mA} sind \Es{lebensgefährlich}! \cite{BoehmerTaschRett6}
-% 		\item Stromstärken \Es{ab 80 mA} führen zu Atemlähmungen und Kammerflimmern! \cite{Jaros1}
-% 		\item Stromstärken \Es{ab 3 A} führen zusätzlich zu Verbrennungen, Verkochungen und Verkohlungen. \cite{LPN3}
+% 		\item Bei geringen Stromstärken \EE{unter 1 Milliampere (mA)} ist nur ein elektrischer Schlag spürbar.
+% 		\item Bei Stromstärken \EE{ab ca. 10 Milliampere (mA)} kommt es zu Schmerzempfindungen und Muskelkontraktionen. \cite{Jaros1}
+% 		\item Bei Stromstärken \EE{ab 15-25 mA} kommt es aufgrund der Muskelkontraktionen zu krampfhaften Festhalten der berührten Stromquelle. \cite{BoehmerTaschRett6}
+% 		\item Stromstärken \EE{ab 25-50 mA} sind \EE{lebensgefährlich}! \cite{BoehmerTaschRett6}
+% 		\item Stromstärken \EE{ab 80 mA} führen zu Atemlähmungen und Kammerflimmern! \cite{Jaros1}
+% 		\item Stromstärken \EE{ab 3 A} führen zusätzlich zu Verbrennungen, Verkochungen und Verkohlungen. \cite{LPN3}
 % 		\end{itemize}
 % }
-% 	\item \Es{Elektrischer Widerstand:} Jeder Körper und
+% 	\item \EE{Elektrischer Widerstand:} Jeder Körper und
 % 	jeder Stoff setzt dem elektrischen Stromfluss einen
 % 	Widerstand entgegen. Dieser elektrische Widerstand wird in
 % 	Ohm ($\Omega$) gemessen. Je größer der Widerstand eines
 % 	Körpers, desto kleiner ist der elektrische Strom. Trockene
 % 	Haut hat einen elektrischen Widerstand von 100 000 Ohm,
-% 	\Es{feuchte Haut hat einen geringeren Widerstand} von
+% 	\EE{feuchte Haut hat einen geringeren Widerstand} von
 % 	weniger als 1000 Ohm. Der Widerstand von geschädigter
 % 	(z.B. verbrannter) Haut ist noch geringer. \Z{Greift man z.B. mit feuchten Händen in die Steckdose (230 V) so stellt sich durch den Körperwiderstand von ca. 1000 Ohm ein elektrischer Strom der Stärke 230 mA ein.}\footnote{Der Leser kann dies durch das Ohmsche Gesetz leicht selbst nachrechnen! Die Spannung $U$ ist das Produkt aus dem Widerstand $R$ und der elektrischen Stromstärke $I$: $U=R \cdot I$} Diese Stromstärke ist absolut lebensgefährlich, wie man aus der Übersicht oben schnell entnehmen kann.
-% 	\item \Es{Einwirkdauer:} Je länger die Einwirkzeit (Kontaktzeit), desto größer ist die Schädigung.
-% 	\item \Es{Stromweg:} Die Schädigung im Körper hängt auch vom Weg des Stromes durch den Körper ab. Fließt der Strom z.B. von einer Hand zur anderen Hand durch den Körper ist dies gefährlicher, als wenn der Strom von einer Hand zum Fuß fließt.
-% 	\item \Es{Stromart:} Wechselstrom ist gefährlicher als Gleichstrom. An den Steckdosen im Haushalt liegt Wechselspannung an. Dieser ändert die Stromrichtung 50 mal pro Sekunde (\Z{Frequenz = 50 Hz}), weshalb die Wahrscheinlichkeit für Kammerflimmern auch bei kurzen Stromkontakten steigt. \cite{RedelsteinerHRNS1} \footnote{Bei monophasischen Defibrillatoren wird mit Gleichstrom gearbeitet, biphasische Defibrillatoren polen die Stromrichtung einmal um (Wechselstrom).} 
+% 	\item \EE{Einwirkdauer:} Je länger die Einwirkzeit (Kontaktzeit), desto größer ist die Schädigung.
+% 	\item \EE{Stromweg:} Die Schädigung im Körper hängt auch vom Weg des Stromes durch den Körper ab. Fließt der Strom z.B. von einer Hand zur anderen Hand durch den Körper ist dies gefährlicher, als wenn der Strom von einer Hand zum Fuß fließt.
+% 	\item \EE{Stromart:} Wechselstrom ist gefährlicher als Gleichstrom. An den Steckdosen im Haushalt liegt Wechselspannung an. Dieser ändert die Stromrichtung 50 mal pro Sekunde (\Z{Frequenz = 50 Hz}), weshalb die Wahrscheinlichkeit für Kammerflimmern auch bei kurzen Stromkontakten steigt. \cite{RedelsteinerHRNS1} \footnote{Bei monophasischen Defibrillatoren wird mit Gleichstrom gearbeitet, biphasische Defibrillatoren polen die Stromrichtung einmal um (Wechselstrom).} 
 % \end{itemize}
 % 
 % \AuthNotes{\#9: EMHOFER: Bilder von verschiedenen

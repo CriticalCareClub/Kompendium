@@ -1244,7 +1244,7 @@ Bevölkerung hat.
 \label{topic:hypertensiver-notfall}
 
 \Layout{2}{\TxBeschreibung}
-{
+{%
 Eine plötzliche, sehr starke Erhöhung des Blutdrucks wird als hypertensive
 Krise oder hypertensiver Notfall bezeichnet. Der Unterschied zwischen den
 beiden Diagnosen ist das Fehlen bzw. Vorhandensein von typischen Symptomen, s.
@@ -1253,8 +1253,8 @@ beiden Diagnosen ist das Fehlen bzw. Vorhandensein von typischen Symptomen, s.
 }{}{}{}{}
 
 \Layout{0}{\TxSymptome}
-{
-S. \prettyref{tab:hxpertension-krise-notfall}. Kopfschmerzen und Nasenbluten
+{%
+Siehe \prettyref{tab:hxpertension-krise-notfall}. Kopfschmerzen und Nasenbluten
 (\T{Epistaxis}\index{Epistaxis}) sind häufige Leitsymptome für einen
 hypertensiven Notfall. 
 
@@ -1262,20 +1262,17 @@ hypertensiven Notfall.
 S. \prettyref{tab:hxpertension-krise-notfall}.
 }{}{}{}
 
-\begin{table}[H]
-\Captionof{table}{Unterscheidung Hypertensive Krise und Hypertensiver
-Notfall.\label{tab:hxpertension-krise-notfall}}
-
+\Layout{57}{}{}{}{
 \begin{tabularx}{\textwidth}{XX}
-\TabHeading{Hypertensive Krise}
+\noindent\TabHeading{Hypertensive Krise}
 &
-\TabHeading{Hypertensiver Notfall}
+\noindent\TabHeading{Hypertensiver Notfall}
 \\\addlinespace\midrule\addlinespace
-\Abk{RR}\,{\textgreater}\,230/130\,mmHg\footnote{Richtwert}
+\Abk{RR} {\textgreater}\,\RRmmHg{230}{130} (Richtwert)
 
 \EE{Patient fühlt sich gut}
  &
-\Abk{RR}\,{\textgreater}\,230/130\,mmHg\footnote{Richtwert}
+\Abk{RR} {\textgreater}\,\RRmmHg{230}{130} (Richtwert)
 
 \EE{+ Symptome}
 \\\addlinespace
@@ -1289,11 +1286,7 @@ er Sie dann überhaupt gerufen?
 
 Wenn es wirklich nur ein Zufallsbefund ist ("`Gesundheitstage"',
 "`Vorsorgeuntersuchung"'):
-
-
 &
-\subparagraph{\Ca{Symptome:}}
-
 \begin{itemize}
     \item Kopfschmerz.
     \item Sehstörungen.
@@ -1301,24 +1294,22 @@ Wenn es wirklich nur ein Zufallsbefund ist ("`Gesundheitstage"',
     \item Evtl. Nasenbluten.
     \item Übelkeit, Erbrechen, Schwindel.
 \end{itemize}
-
-\Cave{Gefahr des Herzversagens -- Das Herz muss
-plötzlich gegen großen Druck pumpen}
-
 \\\addlinespace
 Maßnahmen: Eine notfallmäßige Blutdrucksenkung ist (eher) nicht erforderlich.
-
 &
-Vitale Bedrohung
+Vitale Bedrohung: \Ca{Gefahr des Herzversagens: Das Herz muss
+plötzlich gegen großen Druck pumpen}
 
 Eine frühzeitige Blutdrucksenkung (\caps{na}, \caps{nfs})
 ist notwendig. 
 
 Evtl. Anwendung der Notkompetenz gem. SanG. 
 \\\addlinespace\bottomrule
-\end{tabularx}
-\end{table}
-\marginpar{\cite{WHOISH2003,JNC7Report,BLIM3,IntroClinEmergMed4,Vlcek2008}}
+\end{tabularx} 
+}
+{Unterscheidung Hypertensive Krise und Hypertensiver Notfall
+\protect\cite{WHOISH2003,JNC7Report,BLIM3,IntroClinEmergMed4,Vlcek2008}.\label{tab:hxpertension-krise-notfall}}
+{}
 
 \Co{\Z{Die Unterscheidung zwischen "`Hypertensiver
 Krise"' und "`Hypertensiven Notfall"' ist in der
@@ -1340,7 +1331,6 @@ entscheidendes Kriterium.
   \item Lagerung: Oberkörper hoch.
   \item Evtl. \ce{O2}-Gabe.
   \item Beengende Kleidung öffnen.
-  \item Monitoring.
   \item  Hospitalisierung oder Notarzt zur
   Behandlung/Belassung.
 \end{itemize}
@@ -1923,7 +1913,7 @@ Durch Anwendung des Heimlich-Handgriffes kann es zu
 }{}{}{}{}
 
 
-
+\clearpage % TODO temporäres clearpage
 \subsection{Asthma bronchiale}
 \label{topic:asthma-bronchiale}
 

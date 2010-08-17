@@ -9,34 +9,36 @@
 \fancyheadoffset[RE,RO]{\marginparsep+\marginparwidth}
 \fancyfootoffset[RE,RO]{\marginparsep+\marginparwidth}
 
-\fancyhead[LE,RO]{\thepage}
 
-\fancyhead[RE]{\EE{\AuthNotes{ | {\today} | ENTWURF |}}}
-\fancyhead[LO]{\EE{\AuthNotes{ | ENTWURF | {\today} |}}}
-
-\fancyhead[LE]{{\sffamily{\color{ubuntured}\thepage} | \leftmark}}
+%%% HEADER %%%
+% right
 \fancyhead[RO]{{\sffamily{\rightmark} | {\color{ubuntured}\thepage}}}
+\fancyhead[RE]{\EE{\AuthNotes{ | {\today} | ENTWURF |}}}
+% left
+\fancyhead[LO]{\EE{\AuthNotes{ | ENTWURF | {\today} |}}}
+\fancyhead[LE]{{\sffamily{\color{ubuntured}\thepage} | \leftmark}}
 
-%%% IMMER %%%
+%%% FOOTER %%%
+% right
 \fancyfoot[RO]{{\noindent\AASS{}~ \itshape v.\,\DocVersion}}
+\fancyfoot[RE]{{\noindent\DocGitCommitTiny}}
+% left
+\fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
 \fancyfoot[LE]{{\noindent\AASS{}~ \itshape v.\,\DocVersion}}
-%%% DRAFT %%%
-% \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\small
-% \upshape{\DocVersionTyp} | Nur für den internen
-% Gebrauch!}}
 
-% 
-% % {\tiny
-% % Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny
-% % Letztes Commit: }\input{./tmp/git-lastcommit.tmp}
-% }}
-%
-% %%% FINAL %%%
 \fancyfoot[CE,CO]{{{\tiny {\DocVersionTyp} | Nur für den internen
 Gebrauch!}}}
 
-\fancyfoot[RE]{{\noindent\DocGitCommitTiny}}
-\fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
+%%% OVERWRITE SETTINGS FOR DRAFT %%%
+\fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\small
+\upshape{\DocVersionTyp} | Nur für den internen
+Gebrauch!}}
+
+% 
+
+
+
+
 % % %
 
 

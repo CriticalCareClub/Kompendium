@@ -698,3 +698,10 @@ sort&compress, % as sort but in addition multiple numerical citations are
 \setlength\columnseprule{0.4pt}
 \setlength\premulticols{10\baselineskip}
 \renewcommand{\columnseprulecolor}{\color{DefaultGrey}}
+
+\setkomafont{footnote}{\sffamily}
+\deffootnotemark{\textsuperscript{\sffamily\thefootnotemark}}
+% \setlength{\footnotesep}{1pt}
+\usepackage[hang,multiple]{footmisc}
+\renewcommand\footnotelayout{\sffamily}
+

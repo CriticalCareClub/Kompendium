@@ -299,7 +299,9 @@ footskip = 7mm,
 
 % \usepackage{ocr}
 
-% \usepackage[urw-garamond]{mathdesign}
+\usepackage[urw-garamond]{mathdesign}
+% \renewcommand{\sfdefault}{uop} % URW Classico a.k.a. Optima
+
 
 
 
@@ -540,8 +542,10 @@ footskip = 7mm,
 \setkomafont{section}{\usefont{T1}{lmss}{dc}{n}\selectfont\LARGE\color{DefaultB}}
 \setkomafont{subsection}{\usefont{T1}{lmss}{dc}{n}\selectfont\Large\color{DefaultB}}
 \setkomafont{subsubsection}{\usefont{T1}{lmss}{dc}{n}\selectfont\large\color{DefaultB!80}}
-\setkomafont{paragraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\scalefont{1.1}\color{DefaultB}}
-\setkomafont{subparagraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\normalsize\color{black}}
+% \setkomafont{paragraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\scalefont{1.1}\color{DefaultB}}
+% \setkomafont{subparagraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\normalsize\color{black}}
+\setkomafont{paragraph}{\sffamily\scalefont{1.1}\color{DefaultB}}
+\setkomafont{subparagraph}{\sffamily\normalsize\color{black}}
 
 % \setkomafont{section}{\usefont{T1}{fvm}{m}{n}\selectfont\LARGE\color{DefaultA}}
 % \setkomafont{subsection}{\usefont{T1}{fvm}{m}{n}\selectfont\Large\color{DefaultA}}

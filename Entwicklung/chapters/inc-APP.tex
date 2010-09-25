@@ -32,12 +32,15 @@
 
 \Layout{57}{}{}{}{
 
-\begin{tabularx}{\linewidth}{lXXXXXX}%
+\begin{tabularx}{\linewidth}{llXXXXXXX}%
 \noindent
+&
 &
 \noindent\TabHeading{NG}
 &
 \noindent\TabHeading{Sg}
+&
+\noindent\TabHeading{KK}
 &
 \noindent\TabHeading{SK}
 &
@@ -48,6 +51,10 @@
 \noindent\TabHeading{Erw \Female}
 \\\addlinespace\midrule\addlinespace
 \TabSub{RR}
+&
+[\MetricUnit{mmHg}]
+&
+
 &
 
 &
@@ -61,27 +68,35 @@
 &
 = \Male
 \\\addlinespace
-\TabSub{HF}
+\TabSub{HF} 
 &
-
+[\PerMin]
 &
-
+\VonBis{140}{180}
 &
-
+\VonBis{110}{160}\nocite{Lissauer2007}
 &
-
+\VonBis{95}{140}\nocite{Lissauer2007}
+&
+\VonBis{80}{120}\nocite{Lissauer2007}
+&
+\VonBis{60}{100}\nocite{Lissauer2007}
 &
 \VonBis{60}{100}
 &
 ←
 \\\addlinespace\midrule\addlinespace
-\TabSub{AF}
+\TabSub{AF} 
 &
-
+[\PerMin]
 &
-
+\VonBis{30}{50}\nocite{Lissauer2007}
 &
-
+\VonBis{20}{30}\nocite{Lissauer2007}
+&
+\VonBis{20}{30}\nocite{Lissauer2007}
+&
+\VonBis{15}{20}\nocite{Lissauer2007}
 &
 
 &
@@ -89,7 +104,11 @@
 &
 
 \\\addlinespace
-\TabSub{AZV}
+\TabSub{AZV} 
+&
+[\nicefrac{\Ml}{\Min}]
+&
+
 &
 
 &
@@ -104,7 +123,12 @@
 
 \\\addlinespace
 \TabSub{AZV}\footnote{Bezogen auf Normalgewicht, \E{nicht}
-auf Ist-Gewicht!} &
+auf Ist-Gewicht!} 
+&
+[]
+&
+
+&
 
 &
 
@@ -117,7 +141,11 @@ auf Ist-Gewicht!} &
 &
 
 \\\addlinespace
-\TabSub{AMV}
+\TabSub{AMV} 
+&
+[\nicefrac{\Liter}{\Min}]
+&
+
 &
 
 &
@@ -133,6 +161,10 @@ auf Ist-Gewicht!} &
 \\\addlinespace\midrule\addlinespace
 \TabSub{BZ}\footnote{nüchtern}
 &
+[\MgDl]
+&
+
+&
 
 &
 
@@ -147,7 +179,7 @@ auf Ist-Gewicht!} &
 \\\addlinespace
 \TabSub{Sp\ce{O2}}
 &
-
+[\PC]
 &
 
 &
@@ -156,10 +188,18 @@ auf Ist-Gewicht!} &
 
 &
 
+&
+
+&
+\VonBis{95}{100}
 &
 
 \\\addlinespace
 \TabSub{Temp}\footnote{Körperkerntemperatur}
+&
+[\textcelsius]
+&
+
 &
 
 &

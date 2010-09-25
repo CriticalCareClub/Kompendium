@@ -1,6 +1,21 @@
 % This file was created with JabRef 2.6.
 % Encoding: UTF8
 
+@INBOOK{HampLehrbuchTertialeNotfallIntensivmedizin1Brandverletzungen,
+  chapter = {Brandverletzungen},
+  pages = {236--248},
+  title = {Lehrbuch Tertiale Notfall- und Intensivmedizin},
+  publisher = {Springer},
+  year = {2010},
+  editor = {Hamp and Weidenauer},
+  author = {Weidenauer and Metnitz},
+  language = {ngerman},
+  crossref = {TertialeNotfallIntensivmed1},
+  isbn = {978-3-211-75604-1},
+  owner = {grissu},
+  timestamp = {2010.08.02}
+}
+
 @BOOK{emergency9,
   title = {Emergency Care and Transportation of the Sick and Injured},
   publisher = {Jones and Bartlett Publishers, Inc},
@@ -12,6 +27,44 @@
   isbn = {0763744050},
   owner = {grissu},
   timestamp = {2009.07.08}
+}
+
+@BOOK{PraxisleitAllgemeinmed6,
+  title = {Praxisleitfaden Allgemeinmedizin},
+  publisher = {Uraban \& Fischer},
+  year = {2010},
+  editor = {Stefan Gesenhues and Rainer Ziesch{´e}},
+  edition = {6},
+  language = {german},
+  isbn = {978-3-437-2243-0},
+  owner = {grissu},
+  timestamp = {2010.08.14}
+}
+
+@ARTICLE{ASBOEAkademieUpdate2010Sturzhelm,
+  author = {ASB\"O Akademie},
+  title = {Abnahme eines Sturzhelmes -- Lehrmeinung},
+  journal = {ASB\"O Akademie update},
+  year = {2010},
+  volume = {1},
+  pages = {6--7},
+  number = {0},
+  language = {ngerman},
+  owner = {grissu},
+  timestamp = {2010.08.01}
+}
+
+@ARTICLE{ASBOEAkademieUpdate2010Verbrennung,
+  author = {ASB\"O Akademie},
+  title = {Verbrennung -- Aktuelle Lehrmeinung},
+  journal = {ASB\"O Akademie update},
+  year = {2010},
+  volume = {1},
+  pages = {3--4},
+  number = {0},
+  language = {ngerman},
+  owner = {grissu},
+  timestamp = {2010.08.01}
 }
 
 @ARTICLE{Allison2004,
@@ -798,6 +851,19 @@
   timestamp = {2009.06.22}
 }
 
+@ARTICLE{Glatz2009,
+  author = {Uwe Glatz},
+  title = {Mit Netz und doppeltem Boden -- OP-Techniken: Reparation von Leistenhernien},
+  journal = {Via medici},
+  year = {2009},
+  volume = {14},
+  pages = {38--42},
+  number = {4},
+  language = {german},
+  owner = {grissu},
+  timestamp = {2010.06.30}
+}
+
 @BOOK{Gorgass7,
   title = {Rettungsassistent und Rettungssanit\"ater},
   publisher = {Springer},
@@ -809,6 +875,20 @@
   isbn = {3540214879},
   owner = {grissu},
   timestamp = {2009.07.16}
+}
+
+@ARTICLE{Gross2009,
+  author = {Horst Gross},
+  title = {S\"u{\ss}er Foetor, bittere Diagnose -- Notfall: Camo diabeticum},
+  journal = {Via medici},
+  year = {2009},
+  volume = {14},
+  pages = {44--46},
+  number = {4},
+  language = {german},
+  keywords = {internal medicine, condition},
+  owner = {grissu},
+  timestamp = {2010.06.29}
 }
 
 @ARTICLE{Guerri2009,
@@ -1086,6 +1166,20 @@
   timestamp = {2009.06.19}
 }
 
+@ARTICLE{Hesse2009,
+  author = {Maike Hesse},
+  title = {Simple Spritze, fatale Folge -- Der interessante Fall: Sepsis nach
+	Knieinjektion},
+  journal = {Via medici},
+  year = {2009},
+  volume = {14},
+  pages = {52--53},
+  number = {4},
+  language = {german},
+  owner = {grissu},
+  timestamp = {2010.06.30}
+}
+
 @ARTICLE{Hierl2005,
   author = {T. Hierl and D. Nowak},
   title = {[What therapy options are reliable in smoke inhalation?]},
@@ -1146,6 +1240,20 @@
   language = {ngerman},
   owner = {grissu},
   timestamp = {2010.01.21}
+}
+
+@ARTICLE{Huber2009,
+  author = {Doris Patricia Huber},
+  title = {Irren ist ärztlich -- Stichwort: Fehlermanagement in der Medizin},
+  journal = {Via medici},
+  year = {2009},
+  volume = {14},
+  pages = {24--26},
+  number = {4},
+  language = {german},
+  keywords = {error management},
+  owner = {grissu},
+  timestamp = {2010.06.29}
 }
 
 @ARTICLE{Jones1973,
@@ -2495,6 +2603,7 @@
   title = {Pseudokrupp --- Wikipedia{,} Die freie Enzyklopädie},
   year = {2010},
   note = {[Online; Stand 19. Februar 2010]},
+  language = {german},
   url = {http://de.wikipedia.org/w/index.php?title=Pseudokrupp&oldid=70531371}
 }
 
@@ -2565,6 +2674,20 @@
   timestamp = {2009.07.13}
 }
 
+@ARTICLE{Wuttig2009,
+  author = {Björn Wuttig},
+  title = {Verflixt verschluckt -- Tipps für Ersthelfer: Aspiration},
+  journal = {Via medici},
+  year = {2009},
+  volume = {14},
+  pages = {54},
+  number = {4},
+  language = {german},
+  keywords = {condition},
+  owner = {grissu},
+  timestamp = {2010.06.30}
+}
+
 @BOOK{Zeiler2001,
   title = {Grundlagen der Klinischen Neurologie 1. Grundlagen f\"ur Human- und
 	Zahnmediziner},
@@ -2576,6 +2699,19 @@
   isbn = {{385076527X}},
   owner = {grissu},
   timestamp = {2009.05.03}
+}
+
+@ARTICLE{Ziesenitz2009,
+  author = {Victoria Ziesenitz},
+  title = {ABC auf halber Treppe -- Mein erstes Mal: Versorgung eines Schädel-Hirn-Traumas},
+  journal = {Via medici},
+  year = {2009},
+  volume = {14},
+  pages = {12--13},
+  number = {4},
+  language = {german},
+  owner = {grissu},
+  timestamp = {2010.06.30}
 }
 
 @BOOK{AlbertsMolZellbiologie2,
@@ -2649,6 +2785,17 @@
   isbn = {978-3-540-46359-7},
   owner = {grissu},
   timestamp = {2009.12.12}
+}
+
+@BOOK{TertialeNotfallIntensivmed1,
+  title = {Lehrbuch Tertiale Notfall- und Intensivmedizin},
+  publisher = {Springer},
+  year = {2010},
+  editor = {Hamp and Weidenauer},
+  language = {ngerman},
+  isbn = {978-3-211-75604-1},
+  owner = {grissu},
+  timestamp = {2010.08.01}
 }
 
 @BOOK{Jaros1,
@@ -2980,148 +3127,30 @@
   timestamp = {2009.09.22}
 }
 
-@ARTICLE{Huber2009,
-  author = {Doris Patricia Huber},
-  title = {Irren ist ärztlich -- Stichwort: Fehlermanagement in der Medizin},
-  journal = {Via medici},
-  year = {2009},
-  volume = {14},
-  pages = {24--26},
-  number = {4},
-  language = {german},
-  keywords = {error management},
-  owner = {grissu},
-  timestamp = {2010.06.29}
-}
-
-@ARTICLE{Gross2009,
-  author = {Horst Gross},
-  title = {S\"u{\ss}er Foetor, bittere Diagnose -- Notfall: Camo diabeticum},
-  journal = {Via medici},
-  year = {2009},
-  volume = {14},
-  pages = {44--46},
-  number = {4},
-  language = {german},
-  keywords = {internal medicine, condition},
-  owner = {grissu},
-  timestamp = {2010.06.29}
-}
-
-@ARTICLE{Hesse2009,
-  author = {Maike Hesse},
-  title = {Simple Spritze, fatale Folge -- Der interessante Fall: Sepsis nach
-	Knieinjektion},
-  journal = {Via medici},
-  year = {2009},
-  volume = {14},
-  pages = {52--53},
-  number = {4},
-  language = {german},
-  owner = {grissu},
-  timestamp = {2010.06.30}
-}
-
-@ARTICLE{Wuttig2009,
-  author = {Björn Wuttig},
-  title = {Verflixt verschluckt -- Tipps für Ersthelfer: Aspiration},
-  journal = {Via medici},
-  year = {2009},
-  volume = {14},
-  pages = {54},
-  number = {4},
-  language = {german},
-  keywords = {condition},
-  owner = {grissu},
-  timestamp = {2010.06.30}
-}
-
-@ARTICLE{Glatz2009,
-  author = {Uwe Glatz},
-  title = {Mit Netz und doppeltem Boden -- OP-Techniken: Reparation von Leistenhernien},
-  journal = {Via medici},
-  year = {2009},
-  volume = {14},
-  pages = {38--42},
-  number = {4},
-  language = {german},
-  owner = {grissu},
-  timestamp = {2010.06.30}
-}
-
-@ARTICLE{Ziesenitz2009,
-  author = {Victoria Ziesenitz},
-  title = {ABC auf halber Treppe -- Mein erstes Mal: Versorgung eines Schädel-Hirn-Traumas},
-  journal = {Via medici},
-  year = {2009},
-  volume = {14},
-  pages = {12--13},
-  number = {4},
-  language = {german},
-  owner = {grissu},
-  timestamp = {2010.06.30}
-}
-
-@ARTICLE{ASBOEAkademieUpdate2010Verbrennung,
-  author = {ASB\"O Akademie},
-  title = {Verbrennung -- Aktuelle Lehrmeinung},
-  journal = {ASB\"O Akademie update},
-  volume = {1},
-  pages = {3--4},
-  number = {0},
-  language = {ngerman},
-  owner = {grissu},
-  timestamp = {2010.08.01}
-}
-
-@ARTICLE{ASBOEAkademieUpdate2010Sturzhelm,
-  author = {ASB\"O Akademie},
-  title = {Abnahme eines Sturzhelmes -- Lehrmeinung},
-  journal = {ASB\"O Akademie update},
-  volume = {1},
-  pages = {6--7},
-  number = {0},
-  language = {ngerman},
-  owner = {grissu},
-  timestamp = {2010.08.01}
-}
-
-@BOOK{HampLehrbuchTertialeNotfallIntensivmedizin1,
-  title = {Lehrbuch Tertiale Notfall- und Intensivmedizin},
-  publisher = {Springer},
-  year = {2010},
-  editor = {Hamp and Weidenauer},
-  language = {ngerman},
-  isbn = {978-3-211-75604-1},
-  owner = {grissu},
-  timestamp = {2010.08.01}
-}
-
-@INBOOK{HampLehrbuchTertialeNotfallIntensivmedizin1Brandverletzungen,
-  chapter = {Brandverletzungen},
-  pages = {236--248},
-  title = {Lehrbuch Tertiale Notfall- und Intensivmedizin},
-  publisher = {Springer},
-  year = {2010},
-  editor = {Hamp and Weidenauer},
-  author = {Weidenauer and Metnitz},
-  language = {ngerman},
-  isbn = {978-3-211-75604-1},
-  owner = {grissu},
-  timestamp = {2010.08.02}
-}
-
 @ELECTRONIC{OeBBRettEinGleis2009,
   month = {10},
   year = {2009},
   title = {Handbuch Rettungseinsatz im \"OBB-Gleisbereich},
   language = {german},
   howpublished = {online},
-  file = {:./Literatur/OeBBRettEinGleis2009.pdf:PDF},
   organization = {\"OBB Infratstruktur},
   url = {http://www.roteskreuz.at/uploads/media/Handbuch{\_}Einsatz{\_}Gleisbereich.pdf},
+  file = {:./Literatur/OeBBRettEinGleis2009.pdf:PDF},
   owner = {grissu},
   timestamp = {2010.08.08}
+}
+
+@BOOK{SMEDRIX2,
+  title = {SMEDRIX 2.0: Algorithmen f\"ur professionelle Helfer in pr\"aklinischen
+	Notfallsituationen},
+  author = {Swiss Medical Rescue Commission},
+  language = {german},
+  file = {:/home/grissu-old/./Literatur/SMEDRIX2.pdf:PDF},
+  howpublished = {online},
+  keywords = {EMS, SOP},
+  owner = {grissu},
+  timestamp = {2010.09.24},
+  url = {http://2010.smedrec.ch/uploads/media/smedrix_unveraenderbar_deutsch_01.pdf}
 }
 
 @comment{jabref-meta: selector_publisher:}

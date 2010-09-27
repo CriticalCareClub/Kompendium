@@ -82,7 +82,7 @@ toc=flat,
 
 \newcommand{\FontExperimental}{\color{Green}\fontfamily{lmtt}\fontseries{lc}\selectfont}
 % \newcommand{\FontTableBase}{\small\fontfamily{lmss}\fontseries{dc}\linespread{1.2}\selectfont}
-\newcommand{\FontTableBase}{\small\fontfamily{lmss}\fontseries{dc}\selectfont}
+\newcommand{\FontTableBase}{\small\fontfamily{lmss}\selectfont}
 \usepackage{ragged2e}
 
 % #######################################################################################################
@@ -95,6 +95,13 @@ toc=flat,
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
+
+% \setmainfont[SmallCapsFont={* Caps},
+% Mapping=tex-text]{Latin Modern Roman}
+% \setsansfont[Mapping=tex-text]{Latin Modern Sans}
+% \setmonofont[SmallCapsFont={* Caps}]{Latin Modern Mono}
+
+% \defaultfontfeatures{Numbers=OldStyle}
 \StartMulticolTOC{2}
 % \addtocontents{rx}{\protect\begin{multicols}{2}}
 
@@ -268,6 +275,17 @@ Kapitälchen, ohne Abstand oder Punkte geschrieben. Zum Beispiel: \Abk{IV} (intr
 Schriftart nicht möglich ist, wird die Schreibweise mit Punkten und halbem
 Abstand (Achtelgeviert, sofern möglich) gewählt; z.\,B.: {\ttfamily i.\,v.,
 i.\,m.}
+
+{\mdseries Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
+
+{\bfseries Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
+
+{\itshape Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
+
+{\bfseries\itshape Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung
+mMxX}
+
+{\scshape Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
 }
 
 % \opt{STATUS-EXPERIMENTAL}{
@@ -281,7 +299,7 @@ i.\,m.}
 
 \include{./chapters/chapter-TAE} 
 
-\include{./chapters/chapter-NEW}
+% \include{./chapters/chapter-NEW}
 % \addtocounter{chapter}{1}
 
 \include{./chapters/chapter-LER}
@@ -292,7 +310,7 @@ i.\,m.}
 
 \include{./chapters/chapter-RWT}
 
-
+\include{./chapters/chapter-NWG}
 
 
 
@@ -350,7 +368,7 @@ i.\,m.}
 
 \include{./chapters/chapter-TRA}
 
-% \include{./chapters/chapter-SYM}
+\include{./chapters/chapter-SYM}
 
 
 \part{Erweitertes Wissen}
@@ -361,6 +379,10 @@ i.\,m.}
 \include{./chapters/chapter-ALS}
 
 \include{./chapters/chapter-ARZ}
+
+\include{./chapters/chapter-PKU}
+
+\include{./chapters/chapter-EKG}
 % 
 \include{./chapters/chapter-WIS}
 
@@ -481,9 +503,9 @@ i.\,m.}
 \begin{WidePar}
 \includegraphics[width=\linewidth]{./images/nasa-pd/114125main_image_feature_323_ys_full-00800.jpg}
 
-\Captionof{figure}{Orbital 'Thumbs Up'.
-The Expedition 10 and 11 crews give the "thumbs up" after the change of command
-ceremony on the International Space Station on April 22, 2005. From left:
+\Captionof{figure}{Orbital ›Thumbs Up‹.
+The Expedition 10 and 11 crews give the >>thumbs up<< after the change of
+command ceremony on the International Space Station on April 22, 2005. From left:
 Expedition 11 Flight Engineer John L. Phillips, Expedition 11 Commander Sergei K.
 Krikalev, Expedition 10 Commander Leroy Chiao, European Space Agency (ESA)
 astronaut Roberto Vittori of Italy; and Expedition 10 Flight Engineer Salizhan S.

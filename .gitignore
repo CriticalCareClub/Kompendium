@@ -4,6 +4,7 @@
 *.aux
 *.bbl
 *.blg
+*.cb*
 .DS_Store
 *.out
 *.dvi

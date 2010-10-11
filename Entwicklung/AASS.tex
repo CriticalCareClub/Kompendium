@@ -9,7 +9,7 @@ parskip=half,
 % listof=totoc,         % verschiebt Minitoc/Hyperref
 % bibliography=totoc,   % verschiebt Minitoc/Hyperref
 % index=totoc,
-% noonelinecaption
+% noonelinecaption,
 footnotes=multiple,
 toc=flat,
 ]{scrbook}
@@ -80,10 +80,15 @@ toc=flat,
 % \usepackage{fontspec}
 % \usepackage{setspace}
 
-\newcommand{\FontExperimental}{\color{Green}\fontfamily{lmtt}\fontseries{lc}\selectfont}
-% \newcommand{\FontTableBase}{\small\fontfamily{lmss}\fontseries{dc}\linespread{1.2}\selectfont}
-\newcommand{\FontTableBase}{\small\fontfamily{lmss}\selectfont}
+
 \usepackage{ragged2e}
+\usepackage[xcolor]{changebar}
+% \driver{PDFTeX} % changebar
+
+% Randnummernzähler einrichten 
+\newcounter{randnr} 
+\newcommand{\newrandnummer}{\refstepcounter{randnr}} 
+\newcommand{\rdnr}{\newrandnummer\marginnote{{\sffamily\bfseries\scriptsize\therandnr}}} 
 
 % #######################################################################################################
 % #######################################################################################################
@@ -299,7 +304,7 @@ mMxX}
 
 \include{./chapters/chapter-TAE} 
 
-\include{./chapters/chapter-NEW}
+% \include{./chapters/chapter-NEW}
 % \addtocounter{chapter}{1}
 
 \include{./chapters/chapter-LER}
@@ -310,7 +315,7 @@ mMxX}
 
 \include{./chapters/chapter-RWT}
 
-
+\include{./chapters/chapter-NWG}
 
 
 
@@ -354,6 +359,8 @@ mMxX}
 
 \include{./chapters/chapter-MED}
 
+\include{./chapters/chapter-INK}
+
 \include{./chapters/chapter-GYN}
 
 \include{./chapters/chapter-KIN}
@@ -368,10 +375,10 @@ mMxX}
 
 \include{./chapters/chapter-TRA}
 
-% \include{./chapters/chapter-SYM}
+\include{./chapters/chapter-SYM}
 
 
-\part{Erweitertes Wissen}
+\part{"`Intermediate"' (Erweitertes Wissen)}
 \setcounter{chapter}{50}\setcounter{page}{1}
 
 \include{./chapters/chapter-MP2}
@@ -379,13 +386,24 @@ mMxX}
 \include{./chapters/chapter-ALS}
 
 \include{./chapters/chapter-ARZ}
+
+\include{./chapters/chapter-PKU}
+
+\include{./chapters/chapter-EKG}
 % 
 \include{./chapters/chapter-WIS}
 
 \include{./chapters/chapter-SPE}
 
-\include{./chapters/inc-RES-ende}
 
+\part{"`Advanced"' (Fortgeschrittenes Wissen)}
+\setcounter{chapter}{70}\setcounter{page}{1}
+
+\chapter{Präklinische Narkose}
+
+\SectionUnderDevelopment
+
+\include{./chapters/inc-RES-ende}
 
 \appendix
 \part{Appendix}

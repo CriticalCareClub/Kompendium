@@ -93,12 +93,12 @@ im Einzelnen vorgestellt.
 % \begin{minipage}{\linewidth}
 \begin{tabular}{lll}
 \toprule\addlinespace
-\TabSub{}
+\TabSub{SmS}
 &
 &
-\TabSub{Szeneüberblick}
+\TabSub{Szeneüberblick m. Schutz}
 \\\addlinespace\midrule\addlinespace
-\TabSub{\Z{GI}}
+\TabSub{\Z{GI}} 
 &
 \TabSub{\Z{General Impression}}
 &
@@ -139,6 +139,12 @@ im Einzelnen vorgestellt.
 \TabSub{\Z{Disability}}
 &
 \TabSub{Schnelle Untersuchung}
+\\\addlinespace\midrule\addlinespace
+\TabSub{\Z{E}}
+&
+\Z{Exposure}
+&
+\TabSub{Erweiterte Untersuchung}
 \\\addlinespace\bottomrule
 \end{tabular}
 % \end{minipage}
@@ -163,7 +169,7 @@ ${\downarrow}$
 &
 \\\addlinespace
 \noindent\TabHeading{Weitere Untersuchung,
-Anamnese und Versorgung}
+Anamnese \& Versorgung}
 &
 Übersicht Tafel \prettyref{tab:checkliste-patientenmanagement}
 \\\addlinespace
@@ -197,7 +203,7 @@ Anamnese und Versorgung}
 \subsubsection{Erster Schritt: Einschätzung}
 \label{topic:ersteinschaetzung}
 
-\Layout{60}{Szeneüberblick}{%
+\Layout{60}{SmS -- Szeneüberblick mit (Selbst-)Schutz}{%
 Schon \E{vor} Eintreffen am Einsatzort beginnt der
 Szeneüberblick. Das Einsatzpersonal muss sich die äußeren
 Umstände des Einsatzes bewusst machen: \EE{Wo} befindet sich
@@ -340,21 +346,82 @@ Fingerkuppen.
 {}
 {Hirtler}
 
-\Layout{2}{D -- Schnelle Untersuchung}{%
-\Z{(\Lang{engl.} Disability.)} Hier unterscheidet man im
-Untersuchungsablauf zwischen Traumapatienten und Nicht-Traumapatienten: 
+\Layout{0}{D -- Schnelle Untersuchung}{%
+\Z{(\Lang{engl.} Disability.)} Hier finden die wichtigsten
+Untersuchungen statt. Es werden unter anderem \E{Teile} des
+Neurochecks und Traumachecks durchgeführt.
 
-\begin{labeling}[]{Nicht-Traumapatienten:}
-\item[Bei Traumapatienten:] \begin{compactdesc}
-    \item[1. Helfer:] Vitalwerte
-    \item[2. Helfer:] Schneller Traumacheck
-% \item Suche nach: Schwere Verletzungen, Becken-, Oberschenkel-,
-% Serienrippenfraktur, massive Blutung, hartes Abdomen.
-\end{compactdesc}
-\item[Nicht-Traumapatienten:] \begin{itemize}
-    \item Vitalwerte
+Es werden die \EE{Vitalwerte} (\Abk{HF}, \Abk{RR}) gemessen
+und \EE{Bewusstseinsgrad} und \EE{-qualität} (Orientierung zur
+Person, Raum, Zeit und Situation) bestimmt. Anschließend werden die
+\EE{Pupillen} und deren Lichtreaktion untersucht. Die
+\EE{grobe Motorik} wird an der oberen Extremität mittels
+Händedruck überprüft.
+
+Ist ein \EE{Trauma} zu vermuten werden 
+\begin{inparaenum}
+  \item Kopf,
+  \item Hals,
+  \item Thorax inkl. Atemprobe,
+  \item Bauch,
+  \item Becken und
+  \item Oberschenkel
+\end{inparaenum}
+\EE{inspiziert} und \EE{abgetastet} (\E{schneller
+Traumacheck},
+\prettyref{topic:traumacheck}). \EE{Mund, Nase und Ohren}
+werden, unter Zuhilfenahme einer Lampe, auf Blutungen
+kontrolliert. Zuletzt wird kontrolliert, ob der Patient
+\E{Hände} und \E{Füße} \EE{spüren und bewegen} kann.
+
+Bei Bagatellverletzungen können u.\,U. manche Untersuchungen
+entfallen. Es muss aber bedacht werden, dass auch kleine
+Verletzungen aufgrund von zugrundeliegenden Erkrankungen
+entstehen können!
+
+% Hier unterscheidet man im
+% Untersuchungsablauf zwischen Traumapatienten und Nicht-Traumapatienten: 
+% 
+% \begin{labeling}[]{Nicht-Traumapatienten:}
+% \item[Bei Traumapatienten:] \begin{compactdesc}
+%     \item[1. Helfer:] Vitalwerte
+%     \item[2. Helfer:] Schneller Traumacheck
+% % \item Suche nach: Schwere Verletzungen, Becken-, Oberschenkel-,
+% % Serienrippenfraktur, massive Blutung, hartes Abdomen.
+% \end{compactdesc}
+% \item[Nicht-Traumapatienten:] \begin{itemize}
+%     \item Vitalwerte
+% \end{itemize}
+% \end{labeling}
+}{
+\begin{itemize}
+  \item Vitalwerte (HF, RR)
+  \item Bewusstseinsgrad, -qualität
+  \item Pupillen
+  \item Grobe Motorik (OE)
+  \item Wenn Trauma: \begin{itemize}
+    \item Inspektion \& Abtasten von
+  
+  \begin{inparaenum}
+    \item Kopf,
+    \item Hals,
+    \item Thorax inkl. Atemprobe,
+    \item Bauch,
+    \item Becken und
+    \item Oberschenkel
+  \end{inparaenum}
+  \item Kontrolle Mund, Nase und Ohren auf Blutungen (Lampe)
+  \item \E{Hände} und \E{Füße} spüren und bewegen?
+  \end{itemize}
 \end{itemize}
-\end{labeling}
+}{}{}{}
+
+\Layout{2}{E -- Erweiterte Untersuchung}{%
+\Z{(\Lang{engl.} Exposure.)} Ist die vitale Bedrohung noch
+nicht klar einzuschätzen müssen hier die notwendigen
+Unterschungen durchgeführt werden. Dies inkludiert auch
+in der Situation besonders relevante Teile der Anamnese,
+u.\,U. auch eine Fremdanmnese.
 }{
 
 }{}{}{}
@@ -364,91 +431,178 @@ Untersuchungsablauf zwischen Traumapatienten und Nicht-Traumapatienten:
 \MassnahmenWide{Standardmaßnahmen}{Einschätzungsblock}{\label{m:ersteinschaetzung}}{
 \noindent\begin{minipage}[t]{\linewidth -
 {2\fboxrule} - {2\fboxsep}}
-    	\noindent\fcolorbox{green!10}{green!10}{\begin{minipage}[t]{\linewidth}
-    	{\vspace{-0.8em} 
+Ziel: Rasches Erkennen einer vitalen Bedrohung, Überblick
+gewinnen und Hauptbeschwerden/Leitsymptome ermitteln.
+
+\noindent\begin{minipage}[t]{\linewidth}
+{\vspace{-0.8em} 
 % \begin{tabulary}{\linewidth}[H]{cp{8em}p{8.5cm}}
-\begin{tabulary}{\linewidth}[H]{llL}
+\begin{tabularx}{\linewidth}[H]{p{2cm}XXX}
 \toprule\addlinespace
-\TabSub{}
 &
-\TabSub{Szeneüberblick}
+&
+\TabHeading{{\eye}}
+&
+\TabHeading{Typische Maßnahmen}
+\\\addlinespace\midrule\addlinespace
+\noindent\T{SmS}
+
+\TabSub{Szeneüberblick m. Schutz}
 &
 Sicherheit, Selbstschutz; Großschaden?; Umgebung, Ort, Zeit; Umstände,
 Hinweise auf Unfallmechanismus
 \\\addlinespace\midrule\addlinespace
-\TabSub{\Z{GI}}
+\noindent\T{GI}
+
+\TabSub{Eindruck}
 &
- \TabSub{Eindruck}
- &
 Aussehen, Gesichtsausdruck, Haltung, Sprache
-
-Blässe, Zyanose, Schweiß, Schonhaltung, Atemnot, verwaschene
-Sprache, Des\-orientiertheit, Krämpfe 
-\\\addlinespace
-\TabSub{\Z{}}
 &
- \TabSub{Bewusstsein}
- &
+{\eye} \emph{Blässe, Zyanose, Schweiß,
+Schonhaltung, Atemnot, verwaschene Sprache,
+Des\-orientiertheit, Krämpfe}
+\\\addlinespace
+\noindent\TabSub{\Z{}}
+
+\TabSub{Bewusstsein}
+&
 Reaktion auf verbale Ansprache, Weckversuch, Schmerzreiz
-
-klar, somnolent, soporös, komatös/bewusstlos
-\\\addlinespace
-\TabSub{\Z{}}
 &
+{\eye} vorhanden, nicht vorhanden
+\\\addlinespace
+\noindent\TabSub{\Z{}}
+
 \TabSub{Hauptbeschwerde}
 &
 Grund der Berufung, Schmerzen und andere für den Patienten dringliche
 Symptome
 \\\addlinespace\midrule\addlinespace
-\TabSub{\Z{A}}
-&
- \TabSub{Atemweg}
- &
-Atemgeräusch, Gestik
+\noindent\T{A}
 
-frei oder verlegt
-\\\addlinespace
-\TabSub{\Z{B}}
+\TabSub{Atemweg}
 &
+Atemwege Frei?
+
+Atemgeräusch, Gestik
+&
+{\eye} \emph{frei oder verlegt}
+\\\addlinespace
+\noindent\T{B}
+
 \TabSub{Atmung}
 &
-Frequenz, Atemmuster, Anstrengung beim Atmen, Atemgeräusche,
-Heimsauerstoff
-\\\addlinespace
-\TabSub{\Z{C}}
+Atmung ausreichend? 
+
+Frequenz (geschätzt)
+
+Tiefe, Thorax-/Bauchbewegungen
+
+Atemmuster
+
+Anstrengung beim Atmen, Atemhilfsmuskulatur, Zeichen der
+Atemnot (\prettyref{topic:atemnot-zeichen-kinder})
+
+Atemgeräusche
+
+Hautfarbe
+
+Heimsauerstoff, Sp\ce{O2}
+
+\Z{Seitenvergleichende Auskultation}
 &
- \TabSub{Kreislauf}
+Zyanose
+
+Atemnot
+
+Schnelle oder flache Atmung
+
+Paradoxe Atmung
+
+Fehlende Atmung
+&
+Reanimation
+
+\ce{O2}-Gabe
+
+Beatmung
+
+\Z{Entlastung Spannungspneumothorax}
+\\\addlinespace
+\noindent\T{C}
+
+\TabSub{Kreislauf}
 \TabSub{\Z{}}
 &
-Bewusstsein, Hautfarbe, Radialispuls, Rekap-Zeit
+Blutungszeichen,
+
+Hautfarbe, -temperatur, Schweiß
+
+Rekap-Zeit, 
+
+Radialispuls, 
 \\\addlinespace
-\TabSub{\Z{D}}
-&
+\noindent\T{D}
+
 \TabSub{Schnelle Untersuchung}
 &
 \begin{minipage}[t]{\linewidth}
-\protect\Parallel{
-\EE{Bei Traumapatienten:} 
 \begin{itemize}
-    \item 1. Helfer: Vitalwerte 
-    \item 2. Helfer: Schneller Traumacheck
-% \item Suche nach: Schwere Verletzungen, Becken-, Oberschenkel-,
-% Serienrippenfraktur, massive Blutung, hartes Abdomen.
+  \item Vitalwerte (HF, RR, evtl. AF)
+  \item Bewusstseinsgrad, -qualität
+  \item Pupillen
+  \item Grobe Motorik (OE)
+  \item Wenn Trauma: \begin{itemize}
+    \item Inspektion und Abtasten von
+  
+  \begin{inparaenum}
+    \item Kopf,
+    \item Hals,
+    \item Thorax inkl. Atemprobe,
+    \item Bauch,
+    \item Becken und
+    \item Oberschenkel
+  \end{inparaenum}
+  \item Kontrolle von Mund, Nase und Ohren auf Blutungen (mit einer
+  Lampe)
+  \item Kann der Patient \E{Hände} und \E{Füße} spüren und bewegen?
+  \end{itemize}
 \end{itemize}
-}{
-\EE{Bei Nicht-Traumapatienten:} 
+% \protect\Parallel{
+% \EE{Bei Traumapatienten:} 
+% \begin{itemize}
+%     \item 1. Helfer: Vitalwerte 
+%     \item 2. Helfer: Schneller Traumacheck
+% % \item Suche nach: Schwere Verletzungen, Becken-, Oberschenkel-,
+% % Serienrippenfraktur, massive Blutung, hartes Abdomen.
+% \end{itemize}
+% }{
+% \EE{Bei Nicht-Traumapatienten:} 
+% 
+% \begin{itemize}
+%     \item Vitalwerte.
+% \end{itemize}
+% }
+\end{minipage}
+&
+\emph{klar, somnolent, soporös,
+komatös/bewusstlos}
+\\\addlinespace\midrule\addlinespace
+\noindent\T{E}
 
-\begin{itemize}
-    \item Vitalwerte.
-\end{itemize}
+\TabSub{Erweiterte Untersuchung}
+&
+{\ldots} situationsgerecht, wenn Einschätzung der vitalen
+Bedrohung unklar ist.
+
+Inkludiert relevante Teile der (Fremd-)Anamnese
+
+Ggfs. entkleiden (in warmer Umgebung)
+\\\addlinespace\bottomrule
+\end{tabularx}
+
 }
 \end{minipage}
-\\\addlinespace\bottomrule
-\end{tabulary}
-
-    	}
-      		\end{minipage}}
-		\end{minipage}
+\end{minipage}
 
 }
 
@@ -483,7 +637,7 @@ auch wenn eventuell Symptome fehlen oder nur schwach
 ausgeprägt sind.
 
 \EE{Sobald eine vitale Bedrohung erkannt wird, müssen die \TxMassVit{}
- (\prettyref{m:standardmassnahmen-vital}) \E{frühzeitig}
+\E{frühzeitig}
 ergriffen werden (evt. sogar noch vor Abschluss des
 Einschätzungsblockes)!}}{\vspace{1em}
 
@@ -570,7 +724,7 @@ Einschätzungsblockes)!}}{\vspace{1em}
 % }
 
 \Layout{57}{Alarmzeichen {\color{DefaultRed}\bfseries{\VarFlag ~}} --
-Übersicht}{}{} {
+Übersicht}{}{}{%
 \begin{tabularx}{\linewidth}{XXX}
 \TabHeading{Massive Störung}
 &
@@ -613,16 +767,17 @@ Beckenfraktur
 wahrscheinlich? Eine Übersicht.\label{tab:alarmzeichen}}{}
 
 
-
-\marginpar{\scriptsize\Hand{Bei der Prüfung "`blind"' auf
-Nummer sicher gehen und alle gleich für "`vital bedroht"'
-erklären gilt nicht!}
-
-Viele Patienten bei der Prüfung sind nicht vital bedroht und
-brauchen keinen Notarzt.
-
-Erklärt man einen Patienten für vital bedroht muss man das
-begründen können! } \noindent Während des weiteren Verlaufs
+% 
+% \marginpar{\scriptsize\Hand{Bei der Prüfung "`blind"' auf
+% Nummer sicher gehen und alle gleich für "`vital bedroht"'
+% erklären gilt nicht!}
+% 
+% Viele Patienten bei der Prüfung sind nicht vital bedroht und
+% brauchen keinen Notarzt.
+% 
+% Erklärt man einen Patienten für vital bedroht muss man das
+% begründen können! } 
+\noindent Während des weiteren Verlaufs
 (Anamnesegespräch, etc.) kann man auf weitere Befunde stoßen
 welche auf eine vitale Bedrohung hinweisen (zB. massiv
 erhöhter Blutdruck bei vorgeschädigtem Herzen, plötzliche
@@ -647,11 +802,9 @@ müssen zuerst erfolgen?
 
 \Layout{2}{Vital bedrohte Patienten}{%
 Bei vital bedrohten Patienten gibt es 
-\EE{5 {\TxMassVit}} (\prettyref{m:standardmassnahmen-vital}, Seite 
-\pageref{m:standardmassnahmen-vital}),
+\EE{5 {\TxMassVit}},
 die \E{sobald als möglich} (evt. sogar
-noch vor Abschluss des Ersteinschätzungsblockes) zu erfolgen haben (
-\begin{inparaenum}
+noch vor Abschluss des Ersteinschätzungsblockes) zu erfolgen haben (\begin{inparaenum}
 \item Situationsgerechte Lagerung, 
 \item Sauerstoffgabe (sofern keine Kontraindikation), 
 \item Notarztnachforderung (mit Ausnahmen), 
@@ -694,21 +847,23 @@ Untersuchungen und Fragen am dringlichsten sind und zuerst
 durchgeführt werden müssen, und was eher in der Abfolge nach
 hinten ver\-schoben wird.
 
-Die Checkliste in Tabelle
-\ref{tab:checkliste-patientenmanagement} gibt einen Überblick
-über die Maßnahmen und das Anamnese\-ge\-spräch, die
+Die Checkliste in 
+\prettyref{tab:checkliste-patientenmanagement} gibt einen
+Überblick über die Maßnahmen und das Anamnese\-ge\-spräch, die
 Reihenfolge ist bei jedem Patienten anders!
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\begin{table}[ht]
 \begin{WidePar}
 \begin{minipage}{\linewidth}
 \Captionof{table}{Checkliste Patientenmanagement --
 Mögliche Maßnahmen, die Reihenfolge ist je nach Patient
 unterschiedlich\label{tab:checkliste-patientenmanagement}}
 
-{\sffamily
+{\sffamily\FontTableBase
 \begin{tabulary}{\linewidth}[H]{CCL}
+
 \toprule\addlinespace
 \EE{Selbstschutz}
 %\includegraphics[width=1.005cm,height=0.9cm]{AASdev20090228-img14.gif}
@@ -884,8 +1039,8 @@ Arztübergabe (Anamnese, Befunde, Maßnahmen, Hinweise)
 \end{tabulary}}
 \end{minipage}
 \end{WidePar}
+\end{table}
 
-\cite{AMLS3}, \cite{PHTLS6}, \cite{emergency9}, \cite{SemmelABC1}
 
 
 % \subsection{Der Patient endet nicht mit der Übergabe}
@@ -932,11 +1087,32 @@ Arztübergabe (Anamnese, Befunde, Maßnahmen, Hinweise)
 
 \subsection{Sekundäreinsatz}
 
-{\TakeNotesLarge}
+Für den Sekundäreinsatz (insbesonders Transferierungen von
+behandlungspflichtigen Patienten) gilt grundsätzlich das
+gleiche Vorgehen wie beim Primäreinsatz. Die Informationen
+der abgebenden Stelle bezüglich des Patienten und des
+Transports müssen besonders berücksichtigt werden. Die
+einzelnen Handlungen müssen sinngemäß an die Situation
+angepasst werden.
+
+Auch im Krankentransportdienst (inkl. Heimtransporte) soll
+der Einschätzungsblock bis zu Punkt \EE{C} in
+angemessener Weise durchgeführt werden. In der Praxis ist
+das binnen weniger Sekunden möglich. 
+
+An dieser Stelle sei nochmals auf die besondere Gefährdung
+von \E{Dialysepatienten} durch Elektrolytstörungen
+hingewiesen!
+
 
 \subsection{Ambulanzdienst}
 
-{\TakeNotesLarge}
+Für Ambulanzdienste gilt grundsätzlich das gleiche Vorgehen
+wie beim Primäreinsatz, die einzelnen Handlungen müssen
+sinngemäß an die Situation angepasst werden. Auch hier soll
+der Einschätzungsblock bis zu Punkt \EE{C} in
+angemessener Weise durchgeführt werden.
+
 
 
 % \clearpage
@@ -990,48 +1166,47 @@ allerdings notwendig oder sinnvoll sein, dass manche Maßnahmen unterbleiben ode
 aufgeschoben werden (Selbstschutz, "`Aufklärung"' eines bewusstlosen Patienten,
 \ldots{}) oder angepasst werden müssen.
 
-\MassnahmenNG{Standardmaßnahmen}{Immer durchzuführende Standardmaßnahmen}
+\MassnahmenTwoColumn{Standardmaßnahmen}{Immer durchzuführende Standardmaßnahmen}
 {\label{m:standardmassnahmen-immer}}{%
-
+{\scriptsize (Die Reihenfolge ist der jeweiligen Situation anzupassen!)}
 \begin{itemize}
-  \item Ersteinschätzungsblock
-  \item Erhebung der Anamnese.
+  \item Einschätzungsblock
+  \item Beengende oder behindernde Kleidung entfernen bzw.
+  öffnen
+  \item Situationsgerechte Lagerung
+  \item \E{Wärmeerhalt} oder \E{Kühlung}!
+  \item Erhebung der Anamnese
   \item Angemessene Untersuchung
   \item Spezielle Maßnahmen gemäß Verdachtsdiagnose(n)
-  \item Situationsgerechte Lagerung
   \item Patientenidentifkation
   \item Dokumentation, Aufklärung
-  \item \E{Wärmeerhalt oder Kühlung.}
   \item Psychischer Beistand
   \item Verlaufskontrolle, Patientenbeobachtung\,/\,Monitoring
-  
+  \columnbreak
   \item Weiteres Vorgehen, je nach Bedarf und Situation:
   \begin{itemize}
-  \item Transport an eine geeignete Einrichtung (Krankenanstalt).
-  \item Notarzt-Nachforderung (bei Bedarf, z.\,B. Schmerztherapie,
-  Aufklärung zwecks Belassung auf Patientenwunsch \E{trotz 
-  Behandlungsnotwendigkeit}, \ldots)
-  \item Belassung wenn \E{offensichtlich} kein Behandlungsbedarf
-  besteht und eine gesundheitliche Gefährdung des Patienten ausgeschlossen
-  werden kann.
-  \Ca{Rechtliche Hinweise beachten (\prettyref{topic:revers})!}
-  \item Bei Bagatellverletzungen (z.\,B. oberflächliche Schürfwunde) ist es
-  zulässig, dass sich der Patient selbständig in ärztliche
-  Behandlung begibt. Das Anraten, eine ärztliche Behandlung aufzusuchen, ist
-  zu dokumentieren und ggfs. vom Patienten per Unterschrift bestätigen zu
-  lassen (Revers).
+    \item Transport an eine geeignete Einrichtung (Krankenanstalt).
+    \item Notarzt-Nachforderung (bei Bedarf, z.\,B. Schmerztherapie,
+    Aufklärung zwecks Belassung auf Patientenwunsch \E{trotz
+    Behandlungsnotwendigkeit}, \ldots)
+    \item Belassung wenn \E{offensichtlich} kein Behandlungsbedarf/-wunsch
+    besteht und eine gesundheitliche Gefährdung des Patienten ausgeschlossen
+    werden kann.
+    \Ca{Rechtliche Hinweise beachten (\prettyref{topic:revers})!}
+    \item Bei Bagatellverletzungen (z.\,B. oberflächliche Schürfwunde) ist es
+    zulässig, dass sich der Patient selbständig in ärztliche
+    Behandlung begibt. Das Anraten, eine ärztliche Behandlung aufzusuchen, ist
+    zu dokumentieren und ggfs. vom Patienten per Unterschrift bestätigen zu
+    lassen (Revers).
   \end{itemize}
   \item Ggfs. Übergabe an weiterbehandelndes Personal
 \end{itemize}
-
-{\scriptsize (Die Reihenfolge ist der jeweiligen Situation anzupassen!)}
-
 }
 
 \subsection{Standardmaßnahmen bei vital bedrohten Patienten}
 \label{topic:standardmassnahmen-vital}
 
-\MassnahmenNG{Standardmaßnahmen}{\TxMassVit}{\label{m:standardmassnahmen-vital}}{
+\MassnahmenNG{Standardmaßnahmen}{Standardmaßnahmen bei vital bedrohten Patienten}{\label{m:standardmassnahmen-vital}}{
 
 \begin{enumerate}
   \item \EE{Situationsgerechte Lagerung}
@@ -1153,59 +1328,60 @@ An welche Differentialdiagnosen müssen Sie nun denken?
 
 % \clearpage
 % CHECK gWideParEnv Thoraxschmerz: Differentialdiagnosen unseres Patienten
-\begin{WidePar}
+\begin{WidePar}\FontTableBase
 \begin{tabularx}{\linewidth}[H]{XXXc}
-\toprule
-\multicolumn{4}{c}{\centering\TabHeading{Thoraxschmerz: Differentialdiagnosen unseres
+\addlinespace\toprule\addlinespace
+\multicolumn{4}{c}{\centering\TabHeading{Thoraxschmerz: Differentialdiagnosen des
 Patienten} }
-\\\midrule
+\\\addlinespace
+\centering \TabSub{Verdachtsdiagnose}
  &
 \centering \TabSub{dafür spricht}
  &
 \centering \TabSub{dagegen spricht}
  &
 \TabSub{Bewertung}
-\\\midrule
-\emph{Herzinfarkt, Angina pectoris}
+\\\addlinespace\midrule\addlinespace
+\EE{Herzinfarkt, Angina pectoris}
  &
 Schmerzen hinter dem Brustbein, Ausstrahlung, nicht atemabhängig,
 Druck-/Engegefühl, Atemnot
  &
  &
 sehr wahrscheinlich
-\\\midrule
-\emph{Lungenembolie}
+\\\addlinespace
+\EE{Lungenembolie}
  &
 Schmerzen hinter dem Brustbein, Atemnot
  &
 untypische Ausstrahlung, 
  &
 gut möglich
-\\\midrule
-\emph{Pneumothorax}
+\\\addlinespace
+\EE{Pneumothorax}
  &
 Schmerzen im Brustbereich, Atemnot
  &
 plötzliche stärkste Schmerzen
  &
 eher unwahrscheinlich
-\\\midrule
-\emph{Trauma}
+\\\addlinespace
+\EE{Trauma}
  &
 Schmerzen
  &
 kein Hinweis
  &
 unwahrscheinlich
-\\\midrule
-\emph{Erkrankung des Stütz- und Bewegungsapparats}
+\\\addlinespace
+\EE{Erkrankung des Stütz- und Bewegungsapparats}
  &
 Schmerzen 
  &
 untypische Ausstrahlung, Atemnot, nicht bewegungsabhängig
  &
 sehr unwahrscheinlich
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabularx}
 \end{WidePar}
 

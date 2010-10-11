@@ -109,6 +109,7 @@ toc=flat,
 % \defaultfontfeatures{Numbers=OldStyle}
 \StartMulticolTOC{2}
 % \addtocontents{rx}{\protect\begin{multicols}{2}}
+% \addtocontents{fz}{\protect\begin{multicols}{2}}
 
 \nobibliography*
 
@@ -146,6 +147,8 @@ bindingoffset=1.5cm}
 
 
 \opt{STATUS-DRAFT}{{\small\listof{warning}{Verzeichnis der Warnungen}}}
+
+
 
 \restoregeometry
 
@@ -256,6 +259,8 @@ Wohl des Kranken ist oberstes Gebot.}}.
 
 \begin{WidePar}
   {\small\listof{massnahmen}{Verzeichnis der Maßnahmen}}
+  
+  {\small\sffamily\listof{fazit}{Leitsätze}}
 \end{WidePar}
 
 
@@ -531,6 +536,7 @@ SO LONG..........
 
 AND THANKS FOR ALL THE FISH
 % \addtocontents{toc}{\protect\end{multicols}}
+% \addtocontents{fz}{\protect\end{multicols}}
 % \addtocontents{rx}{\protect\end{multicols}}
 \EndMulticolTOC
 \end{document}

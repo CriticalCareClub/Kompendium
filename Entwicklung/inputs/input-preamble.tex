@@ -110,9 +110,12 @@
 % \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
 % \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
 \newrefformat{chp}{Kap.~#1}
-\newrefformat{fig}{Abb.~#1}
-\newrefformat{tab}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
-\newrefformat{m}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
+% \newrefformat{fig}{Abb.~#1}
+\newrefformat{fig}{\SignFigureSmall\,\ref{#1}}
+\newrefformat{tab}{\SignTableSmall\,\ref{#1}}
+% \newrefformat{tab}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
+% \newrefformat{m}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
+\newrefformat{m}{\SignMassnahmeSmall\,\ref{#1}}
 \newrefformat{topic}{\Pointinghand\,\ref{#1}}
 
 \usepackage[AASS,stylelayout]{aass-common}
@@ -753,19 +756,62 @@ footskip = 7mm,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen
 % \renewcommand{\tableformat}{Tafel~\thetable\autodot}
-\newcommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
+\DeclareRobustCommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
+\DeclareRobustCommand{\SignTableSmall}{{\scalefont{0.7}\SignTable}}
+
+\DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
+\DeclareRobustCommand{\SignFazitSmall}{\scalefont{0.7}\SignFazit}
+
+\DeclareRobustCommand{\SignLeitsatz}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{L}}}
+\DeclareRobustCommand{\SignLeitsatzSmall}{{\scalefont{0.7}\SignLeitsatz}}
+
+\DeclareRobustCommand{\SignFigure}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{A}}}
+\DeclareRobustCommand{\SignFigureSmall}{{\scalefont{0.7}\SignFigure}}
+
+\DeclareRobustCommand{\SignMassnahme}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{M}}}
+\DeclareRobustCommand{\SignMassnahmeSmall}{{\scalefont{0.7}\SignMassnahme}}
+
 \renewcommand{\tableformat}{\noindent{\SignTable}~\thetable}
+\renewcommand{\figureformat}{\noindent{\SignFigure}~\thetable}
 
 % Non-floating captions
-\usepackage[
+\usepackage{caption}
+\DeclareCaptionLabelSeparator{strike}{~|~}
+\captionsetup{%
 format=plain,
-labelsep=endash,
+labelsep={strike},
 font={sf,md,small},
 labelfont={sf,bf,small},
 textfont={sf,md,small},
 singlelinecheck=false,
 skip=1pt,
-]{caption}
+}
+\captionsetup[figure]{%
+format=plain,
+labelsep={strike},
+font={sf,md,small},
+labelfont={sf,bf,small},
+textfont={sf,md,small},
+singlelinecheck=false,
+skip=1pt,
+}
+\captionsetup[table]{%
+format=plain,
+labelsep={strike},
+font={sf,md,small},
+labelfont={sf,bf,small},
+textfont={sf,md,small},
+singlelinecheck=false,
+skip=1pt,
+}
+\captionsetup[fazit]{%
+format=hang,
+labelsep={strike},
+font={sf,md},
+labelfont={sf,bf},
+textfont={sf,md},
+singlelinecheck=false,
+skip=1pt,}
 
 
 % \makeatletter

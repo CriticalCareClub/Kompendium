@@ -3143,7 +3143,9 @@
 @BOOK{SMEDRIX2,
   title = {SMEDRIX 2.0: Algorithmen f\"ur professionelle Helfer in pr\"aklinischen
 	Notfallsituationen},
-  author = {Swiss Medical Rescue Commission},
+  publisher = {Swiss Medical Rescue Commission},
+  year = {2010},
+  editor = {Swiss Medical Rescue Commission},
   language = {german},
   file = {:/home/grissu-old/./Literatur/SMEDRIX2.pdf:PDF},
   howpublished = {online},

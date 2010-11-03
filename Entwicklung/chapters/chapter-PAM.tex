@@ -456,8 +456,16 @@ gewinnen und Hauptbeschwerden/Leitsymptome ermitteln.
 
 \TabSub{Szeneüberblick m. Schutz}
 &
-Sicherheit, Selbstschutz; Großschaden?; Umgebung, Ort, Zeit;
-Trauma?; Umstände, Hinweise auf Unfallmechanismus
+Sicherheit, Selbstschutz; Patientenanzahl; Umgebung, Ort,
+Zeit; Trauma?; 
+&
+{\eye} \itshape Gefahrenzonen, Umstände, weitere
+Resourcen erforderlich, Unfallmechanismus, Großschaden 
+&
+GAS-Maßnahmen (\prettyref{topic:gefahrengutunfall}),
+Schutzausrüstung,
+
+Nachforderung weiterer Kräfte
 \\\addlinespace\midrule\addlinespace
 \noindent\T{GI}
 
@@ -465,9 +473,11 @@ Trauma?; Umstände, Hinweise auf Unfallmechanismus
 &
 Aussehen, Gesichtsausdruck, Haltung, Sprache
 &
-{\eye} \emph{Blässe, Zyanose, Schweiß,
+{\eye} \itshape Blässe, Zyanose, Schweiß,
 Schonhaltung, Atemnot, verwaschene Sprache,
-Des\-orientiertheit, Krämpfe, sichtbare Verletzungen}
+Des\-orientiertheit, Krämpfe, sichtbare Verletzungen
+
+Trauma
 &
 WS-Immobilisation?
 \prettyref{m:einschaetzung-indikation-ws-immobilisation} 
@@ -485,6 +495,12 @@ Reaktion auf verbale Ansprache, Weckversuch, Schmerzreiz
 &
 Grund der Berufung, Schmerzen und andere für den Patienten dringliche
 Symptome
+&
+{\eye} \itshape Kritische Symptome
+
+Trauma
+&
+\TxMassVit
 \\\addlinespace\midrule\addlinespace
 \noindent\T{A}
 
@@ -519,7 +535,7 @@ Heimsauerstoff, Sp\ce{O2}
 
 \Z{Seitenvergleichende Auskultation}
 &
-Zyanose
+{\eye} \itshape Zyanose
 
 Atemnot
 
@@ -559,10 +575,10 @@ Radialispuls,
   \item Vitalwerte (HF, RR, evtl. AF)
   \item Bewusstseinsgrad, -qualität
   \item Pupillen
-  \item Grobe Motorik (OE)
-  \item Wenn Trauma: \begin{itemize}
-    \item Inspektion und Abtasten von
-  
+  \item \EE{Trauma, Bewusstseinsstörung}: Kontrolle von
+  Mund, Nase und Ohren auf Blutungen (Lampe)
+  \item \EE{Trauma}: Inspektion und
+  Abtasten von
   \begin{inparaenum}
     \item Kopf,
     \item Hals,
@@ -571,10 +587,9 @@ Radialispuls,
     \item Becken und
     \item Oberschenkel
   \end{inparaenum}
-  \item Kontrolle von Mund, Nase und Ohren auf Blutungen (mit einer
-  Lampe)
-  \item Kann der Patient \E{Hände} und \E{Füße} spüren und bewegen?
-  \end{itemize}
+  \item Grobe Motorik (OE)
+  \item \EE{Trauma}: Kann der Patient
+  \E{Hände} und \E{Füße} spüren und bewegen?
 \end{itemize}
 % \protect\Parallel{
 % \EE{Bei Traumapatienten:} 
@@ -593,22 +608,34 @@ Radialispuls,
 % }
 \end{minipage}
 &
-\emph{klar, somnolent, soporös,
-komatös/bewusstlos}
+{\eye} \itshape Entgleiste Vitawerte
+
+Bewusstseinsgrad klar, somnolent, soporös,
+komatös/bewusstlos
+
+Abnorme Pupillenweite, -differenz, -reaktionslosigkeit,
+-entrundung
+
+Motorische und sensible Ausfälle
+
+Kritische Verletzungen
 \\\addlinespace\midrule\addlinespace
 \noindent\T{E}
 
 \TabSub{Erweiterte Untersuchung}
 &
 {\ldots} situationsgerecht, wenn Einschätzung der vitalen
-Bedrohung unklar ist.
+Bedrohung oder Hauptbeschwerde unklar ist.
 
-Inkludiert relevante Teile der (Fremd-)Anamnese
+Inkl. relevante Teile der (Fremd-)Anamnese
 
 Ggfs. entkleiden (in warmer Umgebung)
 \\\addlinespace\bottomrule
 \end{tabularx}
 
+Der Einschätzungsblock muss in regelmäßigen Abständen
+sowie bei Verdacht in angemessenem Umfang wiederholt werden,
+um Verschlechterungen des Patientenzustandes rechtzeitig zu erkennen!
 }
 \end{minipage}
 \end{minipage}
@@ -798,16 +825,16 @@ Befunde und der Zustand des Patienten können die Situation
 
 \subsubsection{Zweiter Schritt: Erstmaßnahmen}
 \label{topic:patientenmanagement-erstmassnahmen}
-
-Welche Maßnahmen sind für den Patienten am wichtigsten und
-müssen zuerst erfolgen? 
-
-
-
-
-
-
-
+% 
+% Welche Maßnahmen sind für den Patienten am wichtigsten und
+% müssen zuerst erfolgen? 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
 
 \Layout{2}{Vital bedrohte Patienten}{%
 Bei vital bedrohten Patienten gibt es 
@@ -1131,9 +1158,8 @@ angemessener Weise durchgeführt werden.
 
 \subsection{Übergabegespräch an weiterbehandelndes Fachpersonal}  
 
-\begin{wrapfigure}{r}{4cm}
-\includegraphics[width=\linewidth]{./images/shared/aufnahmearzt-ihres-vertrauens-edited2-0500.jpg}
-\end{wrapfigure}Die Übergabe des Patienten in den
+\Layout{61}{}{%
+Die Übergabe des Patienten in den
 Verantwortungsbereich eines anderen Sanitäters, eines
 Notarztes oder des Spitalspersonals hat geordnet und
 gewissenhaft zu erfolgen, damit keine wichtigen Informationen
@@ -1146,10 +1172,8 @@ Eintreffen des Notarztes oder vor Ankunft im Krankenhaus zu
 überlegen, welche Informationen wesentlich sind und daher auf
 keinen Fall vergessen werden dürfen.
 
-\vspace{1em}
-
-\noindent Das Übergabegespräch muss mindestens folgende Informationen
-beinhalten:
+\noindent Das Übergabegespräch muss mindestens \E{folgende
+Informationen} beinhalten:
 \begin{itemize}
     \item Name des Patienten
     \item Alter
@@ -1160,23 +1184,34 @@ beinhalten:
     \item Sonstige, wichtige Hinweise (z.B. Infektionsgefahren,
     Bluterkrankheit, Allergien etc.)
 \end{itemize}
+}
+{}
+{./images/shared/aufnahmearzt-ihres-vertrauens-edited2-0500.jpg}
+{}
+{GABS}
 
 %=========Ende Abschnitt Emhofer==========================================================
 
 \clearpage
 \section{Standardmaßnahmen}
 
-\subsection{Immer durchzuführende Standardmaßnahmen}
+% \subsection{Immer durchzuführende Standardmaßnahmen}
 \label{topic:standardmassnahmen-immer}
 
+% Die folgenden Maßnahmen sind grundsätzlich immer in einer \E{der Situation
+% angemessenen} Art und Weise durchzuführen. Im begründeten Ausnahmefall kann es
+% allerdings notwendig oder sinnvoll sein, dass manche Maßnahmen unterbleiben oder
+% aufgeschoben werden (Selbstschutz, "`Aufklärung"' eines bewusstlosen Patienten,
+% \ldots{}) oder angepasst werden müssen.
+
+\MassnahmenTwoColumn{Standardmaßnahmen}{Immer durchzuführende Standardmaßnahmen}
+{\label{m:standardmassnahmen-immer}}{%
 Die folgenden Maßnahmen sind grundsätzlich immer in einer \E{der Situation
 angemessenen} Art und Weise durchzuführen. Im begründeten Ausnahmefall kann es
 allerdings notwendig oder sinnvoll sein, dass manche Maßnahmen unterbleiben oder
 aufgeschoben werden (Selbstschutz, "`Aufklärung"' eines bewusstlosen Patienten,
 \ldots{}) oder angepasst werden müssen.
 
-\MassnahmenTwoColumn{Standardmaßnahmen}{Immer durchzuführende Standardmaßnahmen}
-{\label{m:standardmassnahmen-immer}}{%
 {\scriptsize (Die Reihenfolge ist der jeweiligen Situation anzupassen!)}
 \begin{itemize}
   \item Einschätzungsblock
@@ -1212,7 +1247,7 @@ aufgeschoben werden (Selbstschutz, "`Aufklärung"' eines bewusstlosen Patienten,
 \end{itemize}
 }
 
-\subsection{Standardmaßnahmen bei vital bedrohten Patienten}
+% \subsection{Standardmaßnahmen bei vital bedrohten Patienten}
 \label{topic:standardmassnahmen-vital}
 
 \MassnahmenNG{Standardmaßnahmen}{Standardmaßnahmen bei vital bedrohten Patienten}{\label{m:standardmassnahmen-vital}}{
@@ -1231,7 +1266,9 @@ aufgeschoben werden (Selbstschutz, "`Aufklärung"' eines bewusstlosen Patienten,
 \end{enumerate}
 }
 
-\MassnahmenNG{Stabdardmaßnahmen}{Reanimationsbereitschaft}
+\MassnahmenNG{Standardmaßnahmen}
+{Reanimationsbereitschaft}
+{}
 {%
 \begin{enumerate}
   \item Geräte vorbereiten:
@@ -1529,15 +1566,20 @@ Was glauben Sie wie es weiter geht?
 % ========Subsection eingefügt vom Emhofer 1.5.2009===============================
 
 \section*{\protect\dsliterary{} Weiterführende Literatur}
+\begin{WidePar}
+\begin{multicols}{2}
 \begin{labeling}{mmm}
-  \item[\cite{SudoweProfHandelnRD1}]
-  \emph{\bibentry{SudoweProfHandelnRD1}}
   \item[\cite{AMLS3}] \emph{\bibentry{AMLS3}}
-  \item[\cite{PHTLS6}] \emph{\bibentry{PHTLS6}}
   \item[\cite{emergency9}] \emph{\bibentry{emergency9}}
+  \item[\cite{ITLSde6}] \emph{\bibentry{ITLSde6}}
+  \item[\cite{PHTLS6}] \emph{\bibentry{PHTLS6}}
   \item[\cite{SemmelABC1}] \emph{\bibentry{SemmelABC1}}
+  \item[\cite{SudoweProfHandelnRD1}] \emph{\bibentry{SudoweProfHandelnRD1}}
   \item[\cite{KirschnickPflege2}] \emph{\bibentry{KirschnickPflege2}}
   \item[\cite{RueckerBildatlas1}] \emph{\bibentry{RueckerBildatlas1}}
   \item[\cite{Ziesenitz2009}] \emph{\bibentry{Ziesenitz2009}}
 \end{labeling}
+\end{multicols}
+\end{WidePar}
+
 

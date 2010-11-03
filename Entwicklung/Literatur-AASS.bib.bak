@@ -3246,6 +3246,20 @@
   timestamp = {2010.10.14}
 }
 
+@BOOK{BuehlingGynaekologie1,
+  title = {Intensivkurs Gyn\"akologie und Geburtshilfe},
+  publisher = {Urban \& Fischer},
+  year = {2004},
+  editor = {Kaim Joachim B\"uhling and
+	
+	Wolfgang Friedmann},
+  edition = {1},
+  language = {german},
+  isbn = {3-437-42400-9},
+  owner = {grissu},
+  timestamp = {2010.10.15}
+}
+
 @comment{jabref-meta: selector_publisher:}
 
 @comment{jabref-meta: selector_author:}

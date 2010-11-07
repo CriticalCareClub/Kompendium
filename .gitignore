@@ -4,10 +4,10 @@
 *.aux
 *.bbl
 *.blg
-.DS_Store
-*.out
+*.cb*
 *.dvi
 *.err
+*.fz
 *.gal
 *.glo
 *.glo-*
@@ -21,9 +21,11 @@
 *.maf
 *.mtc
 *.mtc*
+*.out
 *.war
 *.refactorings
 *.rx
+.DS_Store
 AAS.pdf
 AASS.ist
 AASS.pdf

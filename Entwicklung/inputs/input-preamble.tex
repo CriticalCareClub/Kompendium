@@ -110,12 +110,16 @@
 % \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
 % \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
 \newrefformat{chp}{Kap.~#1}
-\newrefformat{fig}{Abb.~#1}
-\newrefformat{tab}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
-\newrefformat{m}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
+% \newrefformat{fig}{Abb.~#1}
+\newrefformat{fig}{\SignFigureSmall\,\ref{#1}}
+\newrefformat{tab}{\SignTableSmall\,\ref{#1}}
+% \newrefformat{tab}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
+% \newrefformat{m}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
+\newrefformat{m}{\SignMassnahmeSmall\,\ref{#1}}
 \newrefformat{topic}{\Pointinghand\,\ref{#1}}
 
 \usepackage[AASS,stylelayout]{aass-common}
+\usepackage{aass-units}
 
 
 
@@ -315,7 +319,7 @@ footskip = 7mm,
 \usepackage[scaled]{beramono}
 % \usepackage[scaled]{bera}
 
-% \renewcommand{\familydefault}{\ttdefault}
+% \renewcommand{\familydefault}{\sfdefault}
 
 % \renewcommand{\ttdefault}{ocrb} % OCR-B
 % \usepackage[scaled]{bera}
@@ -540,9 +544,9 @@ footskip = 7mm,
 % \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
 % \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
 
-\setkomafont{section}{\usefont{T1}{lmss}{bx}{n}\selectfont\LARGE\color{DefaultB}}
-\setkomafont{subsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\Large\color{DefaultB}}
-\setkomafont{subsubsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\large\color{DefaultB!80}}
+\setkomafont{section}{\usefont{T1}{lmss}{bx}{n}\selectfont\LARGE\color{DefaultA}}
+\setkomafont{subsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\Large\color{DefaultA}}
+\setkomafont{subsubsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\large\color{DefaultA!80}}
 % \setkomafont{paragraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\scalefont{1.1}\color{DefaultB}}
 % \setkomafont{subparagraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\normalsize\color{black}}
 \setkomafont{paragraph}{\sffamily\scalefont{1.1}\color{DefaultB}}
@@ -601,6 +605,8 @@ footskip = 7mm,
 \floatname{warning}{\color{OrangeRed}\ovalbox{\sffamily NOTIZ}}
 % \newfloat{error}{h}{err}[chapter]
 % \floatname{error}{\ovalbox{\sffamily ERROR}}
+\newfloat{fazit}{h}{fz}[chapter]
+\floatname{fazit}{\SignFazit}
 
 \usepackage[grey,helvetica]{quotchap}
 %\renewcommand{\sectfont}{\large\color{DefaultA}\sffamily\fontfamily{phv}\selectfont}
@@ -750,19 +756,62 @@ footskip = 7mm,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen
 % \renewcommand{\tableformat}{Tafel~\thetable\autodot}
-\newcommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
+\DeclareRobustCommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
+\DeclareRobustCommand{\SignTableSmall}{{\scalefont{0.7}\SignTable}}
+
+\DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
+\DeclareRobustCommand{\SignFazitSmall}{\scalefont{0.7}\SignFazit}
+
+\DeclareRobustCommand{\SignLeitsatz}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{L}}}
+\DeclareRobustCommand{\SignLeitsatzSmall}{{\scalefont{0.7}\SignLeitsatz}}
+
+\DeclareRobustCommand{\SignFigure}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{A}}}
+\DeclareRobustCommand{\SignFigureSmall}{{\scalefont{0.7}\SignFigure}}
+
+\DeclareRobustCommand{\SignMassnahme}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{M}}}
+\DeclareRobustCommand{\SignMassnahmeSmall}{{\scalefont{0.7}\SignMassnahme}}
+
 \renewcommand{\tableformat}{\noindent{\SignTable}~\thetable}
+\renewcommand{\figureformat}{\noindent{\SignFigure}~\thetable}
 
 % Non-floating captions
-\usepackage[
+\usepackage{caption}
+\DeclareCaptionLabelSeparator{strike}{~|~}
+\captionsetup{%
 format=plain,
-labelsep=endash,
+labelsep={strike},
 font={sf,md,small},
 labelfont={sf,bf,small},
 textfont={sf,md,small},
 singlelinecheck=false,
 skip=1pt,
-]{caption}
+}
+\captionsetup[figure]{%
+format=plain,
+labelsep={strike},
+font={sf,md,small},
+labelfont={sf,bf,small},
+textfont={sf,md,small},
+singlelinecheck=false,
+skip=1pt,
+}
+\captionsetup[table]{%
+format=plain,
+labelsep={strike},
+font={sf,md,small},
+labelfont={sf,bf,small},
+textfont={sf,md,small},
+singlelinecheck=false,
+skip=1pt,
+}
+\captionsetup[fazit]{%
+format=hang,
+labelsep={strike},
+font={sf,md},
+labelfont={sf,bf},
+textfont={sf,md},
+singlelinecheck=false,
+skip=1pt,}
 
 
 % \makeatletter
@@ -805,6 +854,7 @@ skip=1pt,
 % english, german, ngerman). Die entsprechende Sprache muss in babel geladen
 % worden sein.
 \bibliographystyle{babunsrt-fl}
+% \bibliographystyle{bababbrv-fl}
 % \bibliographystyle{plainnat}
 % \usepackage{cite}
 \usepackage{bibentry}

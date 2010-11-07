@@ -9,9 +9,9 @@ parskip=half,
 % listof=totoc,         % verschiebt Minitoc/Hyperref
 % bibliography=totoc,   % verschiebt Minitoc/Hyperref
 % index=totoc,
-% noonelinecaption
+% noonelinecaption,
 footnotes=multiple,
-toc=flat,
+% toc=flat,
 ]{scrbook}
 % \setlength{\parindent}{1.5em}
 % \usepackage{scrhack}
@@ -80,10 +80,15 @@ toc=flat,
 % \usepackage{fontspec}
 % \usepackage{setspace}
 
-\newcommand{\FontExperimental}{\color{Green}\fontfamily{lmtt}\fontseries{lc}\selectfont}
-% \newcommand{\FontTableBase}{\small\fontfamily{lmss}\fontseries{dc}\linespread{1.2}\selectfont}
-\newcommand{\FontTableBase}{\small\fontfamily{lmss}\selectfont}
+
 \usepackage{ragged2e}
+\usepackage[xcolor]{changebar}
+% \driver{PDFTeX} % changebar
+
+% Randnummernzähler einrichten 
+\newcounter{randnr} 
+\newcommand{\newrandnummer}{\refstepcounter{randnr}} 
+\newcommand{\rdnr}{\newrandnummer\marginnote{{\sffamily\bfseries\scriptsize\therandnr}}} 
 
 % #######################################################################################################
 % #######################################################################################################
@@ -104,6 +109,7 @@ toc=flat,
 % \defaultfontfeatures{Numbers=OldStyle}
 \StartMulticolTOC{2}
 % \addtocontents{rx}{\protect\begin{multicols}{2}}
+% \addtocontents{fz}{\protect\begin{multicols}{2}}
 
 \nobibliography*
 
@@ -141,6 +147,8 @@ bindingoffset=1.5cm}
 
 
 \opt{STATUS-DRAFT}{{\small\listof{warning}{Verzeichnis der Warnungen}}}
+
+
 
 \restoregeometry
 
@@ -183,15 +191,19 @@ einem Jahr als Lern- und Ausbildungsunterlage bewähren.
 \paragraph{Dieses Werk ist keine "`Dienstanweisung"'!}~~
 
 \parpic[r][r]{\includegraphics[width=2cm]{./images/EIN/affe-sama-ambas-schein.jpg}}
-Eines muss vorweg klargestellt werden: Auch wenn es sehr in Mode gekommen ist,
-Abläufe zu standardisieren und festzuschreiben, so ist dies keine taugliche Herangehensweise, um komplexe
-Probleme in der Medizin oder im Sanitätsdienst zu bewältigen. Zu komplex sind
-die Variablen, und zu gering bzw. zu unangepasst an konkrete Situationen ist
-das gesicherte Wissen, auf dem festgeschriebene Prozesse basieren. Der
-menschliche Faktor, insbesonders die jeweilige Erfahrungen, ist und bleibt der
-entscheidende Faktor jeglichen Handelns. Kein Lehrbuch oder standardisierter
-Prozess kann das ändern, sofern das Ziel ein "`gutes"' Ergebnis, und keine
-statistische Kennziffer ist. 
+Eines muss vorweg klargestellt werden: Auch wenn es sehr in
+Mode gekommen ist, Abläufe zu standardisieren und
+festzuschreiben, so ist dies keine taugliche
+Herangehensweise, um komplexe Probleme in der Medizin oder
+im Sanitätsdienst zu bewältigen. Zu komplex sind die
+Variablen, und zu gering bzw. zu unangepasst an konkrete
+Situationen ist das gesicherte Wissen, auf dem
+festgeschriebene Prozesse basieren. Der menschliche Faktor,
+insbesonders die jeweilige Erfahrungen, ist und bleibt der
+entscheidende Faktor jeglichen Handelns. Kein Lehrbuch oder
+standardisierter Prozess kann das ändern, sofern das Ziel
+ein "`gutes"' Ergebnis, und keine statistische Kennziffer
+ist.
 
 In diesem Sinne ist der Titel dieses Werkes nicht im Sinne eines
 standardisierten Prozessmanagements zu verstehen, sondern soll einen
@@ -251,6 +263,8 @@ Wohl des Kranken ist oberstes Gebot.}}.
 
 \begin{WidePar}
   {\small\listof{massnahmen}{Verzeichnis der Maßnahmen}}
+  
+  {\small\sffamily\listof{fazit}{Leitsätze}}
 \end{WidePar}
 
 
@@ -354,6 +368,8 @@ mMxX}
 
 \include{./chapters/chapter-MED}
 
+\include{./chapters/chapter-INK}
+
 \include{./chapters/chapter-GYN}
 
 \include{./chapters/chapter-KIN}
@@ -371,7 +387,7 @@ mMxX}
 \include{./chapters/chapter-SYM}
 
 
-\part{Erweitertes Wissen}
+\part{"`Intermediate"' (Erweitertes Wissen)}
 \setcounter{chapter}{50}\setcounter{page}{1}
 
 \include{./chapters/chapter-MP2}
@@ -388,8 +404,15 @@ mMxX}
 
 \include{./chapters/chapter-SPE}
 
-\include{./chapters/inc-RES-ende}
 
+\part{"`Advanced"' (Fortgeschrittenes Wissen)}
+\setcounter{chapter}{70}\setcounter{page}{1}
+
+\chapter{Präklinische Narkose}
+
+\SectionUnderDevelopment
+
+\include{./chapters/inc-RES-ende}
 
 \appendix
 \part{Appendix}
@@ -512,11 +535,61 @@ astronaut Roberto Vittori of Italy; and Expedition 10 Flight Engineer Salizhan S
 Sharipov. \SourcePicture{NASA/JSC}}
 \end{WidePar}
 \end{figure}
-
 SO LONG..........
 
 AND THANKS FOR ALL THE FISH
 % \addtocontents{toc}{\protect\end{multicols}}
+% \addtocontents{fz}{\protect\end{multicols}}
 % \addtocontents{rx}{\protect\end{multicols}}
 \EndMulticolTOC
+\begingroup
+\pagestyle{empty}
+\cleardoublepage
+\endgroup
+\emph{Notizen}
+
+\clearpage
+\thispagestyle{empty}
+\sffamily
+
+{\marginline{\flushright{\scalefont{5}\AASS}}\sffamily\Large{\color{ubuntured}%
+Arbeits- und Ausbildungsstandards}\\ 
+{\color{darkBlue}für den
+Sanitätsdienst}}
+
+\vspace{\baselineskip}
+
+\DocVersion\\
+\DocVersionInfo
+
+\parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
+Das vorliegende Werk ist das (Zwischen-)Ergebnis einer seit mehr als zwei Jahren
+andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig
+sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
+ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
+und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
+leisten könnte, still zu stehen.
+
+Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
+bereits breitgetretener Pfade darzustellen, und sowohl eine Unterlage für die
+Ausbildung, als auch ein Hilfsmittel für die Praxis zu schaffen.  Besonderen
+Wert haben wir dabei nicht nur auf die Praxis, sondern auch -- heutzutage nicht
+mehr ganz modern -- auf das Hintergrundwissen und relevante Randbereiche gelegt.
+Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
+wieder veraltet ist, bildet dieses Fundament die Chance für eine
+langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
+(anstatt strikten, regel\E{gebundenen} Handelns). 
+
+In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
+Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
+österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
+Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
+schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
+einem Jahr als Lern- und Ausbildungsunterlage bewähren.
+
+\begin{labeling}[:]{mmmmm}\ttfamily
+  \item[APID] 1/000013020/1
+  \item[ISBN] --
+  \item[]
+\end{labeling}
 \end{document}

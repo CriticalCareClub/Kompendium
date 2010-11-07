@@ -305,6 +305,7 @@ Wischdesinfektion mit Flächendesinfektionsmittel.
 \TODO{GABS}{}{Fehlender Text.}{Text fehlt! Hier muss neuer Text
 geschrieben werden!}
 
+\Layout{20}{\TxBeschreibung}{%
 Ein manuelles Blutdruckmessgerät besteht aus einer
 Manschette, einem Schlauch, einem Auslassventil, einem Pumpballen und einer
 Druckanzeige. 
@@ -312,6 +313,13 @@ Druckanzeige.
 Es gibt Manschetten in unterschiedlichen Größen.
 
 {\TakeNotesLarge}
+}
+{}
+{./images/pallinger-christoph-aass/Blutdruck_32763_v2-AASS-0112mm.jpg}
+{Blutdruckmanschette mit Stethoskop.}
+{Ch. Pallinger}
+
+
 
 
 
@@ -561,7 +569,7 @@ Die Blutzuckermessung wird unter
 \index{O2@\ce{O2}}
 
 \Definition{\T{Sauerstoff} ist ein
-lebenswichtiges Gas welches zu 21\,\% in unserer Atemluft
+lebenswichtiges Gas welches zu 21\PC* in unserer Atemluft
 vorkommt und außerdem ein essentielles
 Notfall"`medikament"'.
 Das chemische Symbol lautet \T{\ce{O2}}.}
@@ -581,6 +589,7 @@ Patienten!
 \TODO{GABS}{2010-mm-dd}{Layout-Anpassung notwendig.}
 {Dieser Teil entspricht nicht dem Standard-Layout!}
 \TODO{GABS}{2010-08-04}{Bild: Sauerstofffl., Druckminderer fehlt.}{}
+\TODO{KOCH}{2010-11-06}{Kennzeichnung O2-Flasche ohne "`N"'?}{}
 %
 Sauerstoff wird in Druckflaschen  gelagert. Laut EU-Norm sind diese
 Flaschen weiß und mit einem
@@ -775,9 +784,9 @@ Beatmung eines Patienten.
   \item Hilfsmittel zur kontrollierten und unterstützenden Beatmung
 \end{itemize}
 }
-{./images/geraete/ger-ambu-00800.jpg}
+{./images/pallinger-christoph-aass/Ambubeutel_32741-AASS-0112mm.jpg}
 {Beatmungsbeutel mit Reservoir, Bakterienfilter und Masken unterschiedlicher Größe.}
-{}
+{Ch. Pallinger}
 
 % \Layout{22}{Bestandteile}
 % {
@@ -793,7 +802,7 @@ Beatmung eines Patienten.
 % \end{itemize}
 % }{}{}{}
 
-\Layout{20}{Bestandteile}{%
+\Layout{0}{Bestandteile}{%
 Ein Beatmungsbeutel besteht üblicherweise aus einem \EE{Luftzufuhrventil}, einem
 \EE{Balg} und einem \EE{T-Stück} mit einem Ventil. 
 
@@ -844,6 +853,7 @@ Beatmungsbeutels.}
 
 \begin{table}[H]
 \Captionof{table}{Mögliche Sauerstoffkonzentrationen bei der Beatmung.}
+\FontTableBase
 \begin{tabulary}{\linewidth}{Lc}
 %\addlinespace 
 \noindent\TabHeading{Art der Beatmung} &
@@ -851,24 +861,43 @@ Beatmungsbeutels.}
 \\\addlinespace\midrule
 Mund-zu-Mund Beatmung
 &
-17\,\%
+17\PC*
 \\\addlinespace
 Beutel-Masken-Beatmung
 &
-21\,\%
+21\PC*
 \\\addlinespace
 Beutel-Masken-Beatmung mit angeschlossenem \ce{O2} (15\LMin)
 &
-40 - 70\,\%
+\VonBis{40}{70}\PC*
 \\\addlinespace
 Beutel-Masken-Beatmung mit angeschlossenem \ce{O2} (15\LMin) und
 Reservoir &
-fast 100\,\%
+fast 100\PC*
 \\
 \end{tabulary}
 \hrule
 \end{table}
 
+
+\Layout{57}{}{}{}{
+\begin{tabularx}{\linewidth}{XXX}
+{\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Ambubeutel_32741-AASS-0112mm.jpg}
+\Captionof{figure}{Beamtungsbeutel "`Ambu{\texttrademark} Mark
+IV"' mit Reservoir, \ce{O2}-Verbindungsschlauch,
+Bakterienfilter und aufgestecktem PEEP-Ventil.
+\SourcePicture{Ch. Pallinger}}} & {\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Beatmungsmaske_32906_v2-AASS-0112mm.jpg}
+\Captionof{figure}{Eine \E{Beatmungs}maske.
+\SourcePicture{Ch. Pallinger}}} &
+{\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Mundstuecke_32723-AASS-0112mm.jpg}
+\Captionof{figure}{Beatmungsmasken unterschiedlicher Größen:
+0, 2, 3/4, 5. Die Farben der Masken haben
+keine besondere Bedeutung. \SourcePicture{Ch. Pallinger}}}
+\\\addlinespace\bottomrule
+\end{tabularx}
+}
+{Bilderserie: Beatmungsbeutel und Beatmungsmasken.}
+{}
 
 
 
@@ -979,33 +1008,55 @@ und schwache Batterie.} } {Bedienfelder Berieselungseinheit
 
 
 
-\subsection{PEEP - Ventil}
-\index{PEEP-Ventil}
+\subsection{PEEP und PEEP-Ventil}
+% \index{PEEP-Ventil}
 
-\Definition{PEEP = Positive EndExspiratory Pressure =
-positiver end-exspiratorischer Druck}
+\Definition{\T{PEEP} steht für "`Positive End-Exspiratory
+Pressure"' (positiver end-exspiratorischer Druck), d.\,h.
+positiver Druck in den Atemwegen am Ende der
+Ausatmungsphase.}
 
-\Layout{60}{\TxBeschreibung{}}
+\Layout{20}{\TxBeschreibung{}}
 {%
-Das PEEP-Ventil wird auf der Ausatemöffnung des
-Beatmungsbeutels bzw. Beatmungsgerätes aufgesteckt. Es hält
-einen positiven Druck in der Lunge am Ende der
-Ausatmung aufrecht. Durch Drehen der Kappe kann der
-gewünschte PEEP eingestellt werden. Die Einstellung kann an
-der angebrachten Skala abgelesen werden. 
+Der \T{PEEP} sorgt dafür, dass am Ende der Ausatmungsphase
+(Exspiration) der Druck in den Atemwegen nicht auf 0
+absinkt, sondern stattdessen ein positiver Druck aufrecht
+erhalten wird. Dadurch wird das Zusammenfallen der
+Lungenbläschen (Alveolen, \prettyref{topic:alveolen})
+verhindert.
 
-Die Anwendung des PEEP ist eine \EE{ärztliche Maßnahme},
-daher muss es \EE{bei der Anwendung durch einen Sanitäter
-auf Null} gestellt sein. 
+\Z{Der Druck wird je nach Modell in \MetricUnit{cm}
+Wassersäule (\MetricUnit{cm\,\ce{H2O}}) oder Millibar
+(\MetricUnit{mbar}) angebeben. Typische Werte sind z.\,B. 5
+oder 10\,\MetricUnit{cm\,\ce{H2O}}.}
 
-\Z{Mögliche Einstellungen für das
-PEEP-Ventil sind 5 bzw. 10\,cm\,H\textsubscript{2}O (cm
-Wassersäule).}
+Ein \Abk{PEEP} kann mittels eines
+\T[PEEP-Ventil]{PEEP-Ventils} erreicht werden. Es wird dabei
+auf die Ausatemöffnung des Beatmungsbeutels bzw.
+Beatmungsschlauches aufgesteckt. Durch Drehen der Kappe kann
+der gewünschte \Abk{PEEP} eingestellt werden. Die
+Einstellung kann an der angebrachten \E{Skala} abgelesen
+werden. Es gibt \Abk{PEEP}-Ventil-Produkte sowohl als
+\EE{Einweg-}, als auch als \EE{Mehrweg}material! \Z{Moderne
+Beatmungsgeräte verfügen oft über eine integrierte
+PEEP-Funktion und benötigen kein zusätzliches
+\Abk{PEEP-Ventil.}
 
-\Cave{Es gibt PEEP-Ventil-Produkte als \E{Einweg-} oder als
-\E{Mehrweg}material!} 
+Bei der Maskenbeatmung ist zu beachten, dass der PEEP nur
+erreicht werden kann, wenn das Beatmungssystem \E{luftdicht}
+ist. Sobald die Maske nicht mehr dicht aufsitzt,
+verliert das \Abk{PEEP}-Ventil seine Wirkung, da die
+Ausatemluft unkontrolliert über das \E{Leck} entweichen
+kann.
+
+\Cave{Die Anwendung des \Abk{PEEP} ist grundsätzlich eine
+\EE{ärztliche Maßnahme}, daher muss es \EE{bei der Anwendung
+durch nicht-ärztliches Personal auf Null} gestellt sein. } 
 }
-{}{./images/geraete/peep-ventil.jpg}{PEEP-Ventil.}{GABS}
+}
+{}{./images/pallinger-christoph-aass/Peep_32909-AASS-0112mm.jpg}
+{PEEP-Ventil.}
+{Ch. Pallinger}
 
 
 
@@ -1038,7 +1089,7 @@ der \EE{Oro-Sauger} oder Schleimabsauger.
 
 Ein \EE{Absaugkatheter} ist jenes Zubehör zum Absauggerät,
 mit welchem die Sekrete aus Mund oder Nase abgesaugt werden
-können. Es ist ein flexibler, ca. 50\,cm langer Schlauch, der
+können. Es ist ein flexibler, ca. 50\CM* langer Schlauch, der
 direkt an die Absaugpumpe angeschlossen wird (siehe Abbildung
 in \prettyref{tab:absaugvorrichtungen}). Die meisten
 Absaugkatheter haben auf Patientenseite eine kleine Öffnung,
@@ -1151,7 +1202,7 @@ Neueres Modell von der Fa. Weinmann (Accuvac{\texttrademark})
 \includegraphics[width=\linewidth]{./images/geraete/lsu-alt.jpg}
 &
 \vspace{0.1pt}
-\includegraphics[width=\linewidth]{./images/geraete/accuvac.jpg}
+\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Accuvac_32820-AASS-0112mm.jpg}
 \\\midrule
 \TabHeading{Manuelle Absaugpumpen}
 
@@ -1272,8 +1323,9 @@ Stiegen hat der Patient immer talwärts zu blicken.
 Der Patient ist immer anzuschnallen (Schultern, Becken und Beine!). Beim
 Transport über Stiegen hat der Patient immer talwärts zu blicken. 
 
-Wenn ein Patient auf der Trage liegt darf immer nur \E{ein Ende} gleichzeitig
-gehoben oder gesenkt werden, da sonst die Gefahr des Kippens besteht. 
+Wenn ein Patient auf der Trage liegt darf immer nur
+\E{\EE{ein} Ende} gleichzeitig gehoben oder gesenkt werden,
+da sonst die Gefahr des Kippens besteht.
 
 \opt{ORGASBFLO}{Eingesetzte Geräte:
 
@@ -1285,9 +1337,9 @@ gehoben oder gesenkt werden, da sonst die Gefahr des Kippens besteht.
 }{
 
 }
-{./images/noauth/GER-fahrtrage-stollenwerk.jpg}
-{\AuthNotesPicLegalNotOk{GER-fahrtrage-stollenwerk.jpg}{}Krankentrage mit Fahrgestell.}
-{}
+{./images/pallinger-christoph-aass/Trage_32970-AASS-0112mm.jpg}
+{Krankentrage der Firma Stollenwerk mit Fahrgestell.}
+{Ch. Pallinger}
 
 \subsubsection{Krankentrage mit Fahrgestell der Fa. Stollenwerk}
 % TODO : Neufassung
@@ -1420,6 +1472,24 @@ Standardausstattung und wird nicht routinemäßig verwendet.}
 
 % \TakeNotesMedium
 
+\subsection{Gurtensysteme für Schaufeltrage und Spineboards}
+\index{SpiderStraps!Beschreibung}
+\label{topic:spiderstraps-beschreibung}
+
+\Layout{60}{}
+{%
+% Anwendung: \prettyref{topic:schaufeltrage-anwendung}
+SpiderStraps können sowohl zusammen mit einer Schaufeltrage,
+als auch mit einem Spineboard verwendet werden.
+
+{\TakeNotesLarge}
+}{
+
+}
+{./images/pallinger-christoph-aass/Spiderstrap_32954_v2-AASS-0112mm.jpg}
+{SpiderStraps{\texttrademark}}
+{Ch. Pallinger}
+
 \subsection{Rettungskorsett}
 \index{Rettungskorsett!Beschreibung}\label{topic:rettungskorsett-beschreibung}
 
@@ -1501,7 +1571,7 @@ Anpassung erfolgt an der \E{gesunden} Extremität.
 \subsection{Vakuumbeinschiene}
 \label{topic:vacuumbeinschiene-beschreibung}
 
-\Layout{61}{}
+\Layout{20}{}
 {%
 % TODO : Neufassung
 \TODO{GABS}{yyyy-mm-dd}{Fehlender Text.}{}
@@ -1513,9 +1583,9 @@ können mit ihr \E{nicht} ruhiggestellt werden!
 }{
 
 }
-{./images/geraete/vakuumbeinschiene.jpg}
-{\AuthNotesPicLegalOk{}{}Vakuumbeinschiene.}
-{}
+{./images/pallinger-christoph-aass/Beinschiene_32977_v2-AASS-0112mm.jpg}
+{Vakuumbeinschiene.}
+{Ch. Pallinger}
 
 
 

@@ -1668,7 +1668,6 @@
   number = {34-35},
   month = {Aug},
   language = {german},
-  __markedentry = {[grissu]},
   doi = {10.1055/s-2004-831344},
   institution = {Klinik für Gastroenterologie, Hepatologie und Infektiologie der Otto-von-Guericke-Universität
 	Magdeburg. peter.malfertheiner@medizin.uni-magdeburg.de},
@@ -3143,7 +3142,9 @@
 @BOOK{SMEDRIX2,
   title = {SMEDRIX 2.0: Algorithmen f\"ur professionelle Helfer in pr\"aklinischen
 	Notfallsituationen},
-  author = {Swiss Medical Rescue Commission},
+  publisher = {Swiss Medical Rescue Commission},
+  year = {2010},
+  editor = {Swiss Medical Rescue Commission},
   language = {german},
   file = {:/home/grissu-old/./Literatur/SMEDRIX2.pdf:PDF},
   howpublished = {online},
@@ -3151,6 +3152,112 @@
   owner = {grissu},
   timestamp = {2010.09.24},
   url = {http://2010.smedrec.ch/uploads/media/smedrix_unveraenderbar_deutsch_01.pdf}
+}
+
+@ARTICLE{Sandroni2008,
+  author = {Claudio Sandroni and Tommaso Sanna and Fabio Cavallaro and Anselmo
+	Caricato},
+  title = {Myocardial stunning after successful defibrillation.},
+  journal = {Resuscitation},
+  year = {2008},
+  volume = {76},
+  pages = {3--4},
+  number = {1},
+  month = {Jan},
+  language = {english},
+  doi = {10.1016/j.resuscitation.2007.06.020},
+  file = {:./Literatur/Sandroni2008.pdf:PDF},
+  institution = {Department of Anaesthesiology and Intensive Care, Catholic University
+	School of Medicine, Rome, Italy. sandroni@rm.unicatt.it},
+  keywords = {Aged; Cardiopulmonary Resuscitation; Electric Countershock; Electrocardiography;
+	Humans; Male; Myocardial Stunning, physiopathology; Ventricular Fibrillation,
+	therapy},
+  medline-pst = {ppublish},
+  owner = {grissu},
+  pii = {S0300-9572(07)00357-7},
+  pmid = {17698278},
+  timestamp = {2010.10.13},
+  url = {http://dx.doi.org/10.1016/j.resuscitation.2007.06.020}
+}
+
+@ARTICLE{Skhirtladze2010,
+  author = {Keso Skhirtladze and Bruno Mora and Andrea Moritz and Beatrice Birkenberg
+	and Hendrik Jan Ankersmit and Martin Dworschak},
+  title = {Impaired recovery of cardiac output and mean arterial pressure after
+	successful defibrillation in patients with low left ventricular ejection
+	fraction.},
+  journal = {Resuscitation},
+  year = {2010},
+  volume = {81},
+  pages = {1123--1127},
+  number = {9},
+  month = {Sep},
+  language = {english},
+  __markedentry = {[grissu]},
+  abstract = {BACKGROUND: Early defibrillation clearly improves survival from malignant
+	arrhythmia. However, in some cases the cause of death will only be
+	altered from arrhythmic to nonarrhythmic. We evaluated the impact
+	of left ventricular ejection fraction (LVEF) on trend and recovery
+	profile of beat-to-beat cardiac output (CO) and mean arterial blood
+	pressure (MAP) after successful defibrillation. METHODS: We investigated
+	63 NYHA class I-III patients undergoing threshold testing in the
+	course of insertion of an implantable cardioverter defibrillator
+	(ICD) in monitored anaesthesia care. Preoperatively, LVEF was classified
+	as either normal (>50\%), moderately (30-50\%) or severely impaired
+	(<30\%). CO and MAP were measured continuously throughout the implantation
+	procedure. RESULTS: Arrest time and body mass index were not different
+	between groups. CO in patients with severely and moderately reduced
+	LVEF dropped 21\% and 13\% below baseline (P<0.05), respectively.
+	MAP also decreased by 26\% and 17\%, respectively. In contrast, 45\%
+	of patients with LVEF>50\% showed sympathetic activation that resulted
+	in a 12\% and 2\% increase in mean values for CO and MAP, respectively.
+	In relation to patients with LVEF<50\%, CO and MAP values were significantly
+	higher after defibrillation (P<0.05). Additionally, recovery of CO
+	was prolonged in the groups with ventricular dysfunction (P<0.05).
+	Temporary post-shock pacing was observed in 40\% of patients. CONCLUSIONS:
+	A large number of ICD patients with restricted LVEF appears to lack
+	the ability to quickly restore CO and MAP after successful defibrillation.
+	Organ reperfusion may thus still be compromised.},
+  doi = {10.1016/j.resuscitation.2010.06.004},
+  institution = {Division of Cardiothoracic and Vascular Anaesthesia and Intensive
+	Care Medicine, Medical University of Vienna, Waehringer Guertel 18-20,
+	A-1090, Vienna, Austria.},
+  medline-pst = {ppublish},
+  owner = {grissu},
+  pii = {S0300-9572(10)00324-2},
+  pmid = {20615600},
+  review = {A large number of ICD patients with restricted LVEF appears to lack
+	the ability to quickly restore CO and MAP after successful defibrillation.},
+  timestamp = {2010.10.13},
+  url = {http://dx.doi.org/10.1016/j.resuscitation.2010.06.004}
+}
+
+@BOOK{StriebelAnaesthesie2,
+  title = {Die An\"asthesie: Grundlagen und Praxis},
+  publisher = {Schattauer},
+  year = {2010},
+  author = {Hans Walter Striebel},
+  pages = {1808},
+  edition = {2},
+  note = {in 2 B\"anden},
+  language = {german},
+  isbn = {3794526368},
+  owner = {grissu},
+  timestamp = {2010.10.14}
+}
+
+@BOOK{BuehlingGynaekologie1,
+  title = {Intensivkurs Gyn\"akologie und Geburtshilfe},
+  publisher = {Urban \& Fischer},
+  year = {2004},
+  editor = {Kaim Joachim B\"uhling and
+	
+	Wolfgang Friedmann},
+  edition = {1},
+  language = {german},
+  isbn = {3-437-42400-9},
+  owner = {grissu},
+  timestamp = {2010.10.15}
 }
 
 @comment{jabref-meta: selector_publisher:}

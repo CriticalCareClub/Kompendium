@@ -90,6 +90,24 @@ footnotes=multiple,
 \newcommand{\newrandnummer}{\refstepcounter{randnr}} 
 \newcommand{\rdnr}{\newrandnummer\marginnote{{\sffamily\bfseries\scriptsize\therandnr}}} 
 
+\usepackage[toc]{multitoc}
+\renewcommand{\multicolumntoc}{2}
+%%%%%%%%%%%%%%%%%%%%
+\usepackage[tight]{minitoc}
+\setlength{\mtcindent}{0pt}
+\mtcsetformat{minitoc}{tocrightmargin}{2.55em plus 1fil}
+\newcommand{\multicolumnmtc}{2}
+\makeatletter
+\let\SV@mtc@verse\mtc@verse
+\let\SV@endmtc@verse\endmtc@verse
+\def\mtc@verse#1{\SV@mtc@verse#1\removelastskip%
+ \begin{WidePar}\begin{multicols}{\multicolumnmtc}\raggedcolumns\leavevmode\unskip
+ \vskip -1.5ex \vskip -1\baselineskip}
+\def\endmtc@verse{\end{multicols}\end{WidePar}\SV@endmtc@verse}
+\makeatother
+\mtcsetrules{*}{off}
+%%%%%%%%%%%%%%%%%%%%
+
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -107,7 +125,7 @@ footnotes=multiple,
 % \setmonofont[SmallCapsFont={* Caps}]{Latin Modern Mono}
 
 % \defaultfontfeatures{Numbers=OldStyle}
-\StartMulticolTOC{2}
+% \StartMulticolTOC{2}
 % \addtocontents{rx}{\protect\begin{multicols}{2}}
 % \addtocontents{fz}{\protect\begin{multicols}{2}}
 
@@ -541,7 +559,7 @@ AND THANKS FOR ALL THE FISH
 % \addtocontents{toc}{\protect\end{multicols}}
 % \addtocontents{fz}{\protect\end{multicols}}
 % \addtocontents{rx}{\protect\end{multicols}}
-\EndMulticolTOC
+% \EndMulticolTOC
 \begingroup
 \pagestyle{empty}
 \cleardoublepage

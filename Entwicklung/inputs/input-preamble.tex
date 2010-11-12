@@ -704,19 +704,54 @@ footskip = 7mm,
 
 
 
-\usepackage[tight]{minitoc} 
+\usepackage{minitoc} 
 %The quotchap package should be loaded BEFORE the minitoc package.
 \newcounter{DefaultMinitocDepth}
 \setcounter{DefaultMinitocDepth}{3}
 \mtcsetdepth{minitoc}{\value{DefaultMinitocDepth}}
 
-% \nomtcrule
+\nomtcrule
+
+% \setlength{\mtcindent}{0pt}
+% \setlength{\stcindent}{0pt}
+% \mtcindent{0pt}
+% \stcindent{0pt}
+\renewcommand{\mtcfont}{\sffamily\small}
+\renewcommand{\mtcSfont}{\sffamily\small\bfseries}
+\renewcommand{\mtcSSfont}{\sffamily\scriptsize}
+\renewcommand{\mtcSSSfont}{\sffamily\scriptsize}
+% \mtcsetoffset{minitoc}{-4em}
+% \mtcsetformat{mini-table}{mtcindent}{0pt}
 
 \setlength{\mtcindent}{0pt}
-% \renewcommand{\mtcfont}{\small\sffamily}
-% \renewcommand{\mtcSfont}{\small\sffamily\bfseries}
-% \renewcommand{\mtcSSfont}{\small\sffamily}
-% \renewcommand{\mtcSSSfont}{\small\sffamily}
+\mtcsetfeature{minitoc}{open}{\kern1sp\vspace*{-.1ex}\begin{multicols}{2}[\kern-2.5ex]}
+\mtcsetfeature{minitoc}{close}{\end{multicols}\kern-2.ex}
+% \mtcsetfeature{minitoc}{open}{\begin{multicols}{2}}
+% \mtcsetfeature{minitoc}{close}{\end{multicols}}
+\mtcsetfeature{minitoc}{before}{\begin{WidePar}\raggedcolumns}
+\mtcsetfeature{minitoc}{after}{\flushcolumns\end{WidePar}}
+\mtcsetoffset{minitoc}{-0.7em}
+\setlength{\mtcindent}{-0.7em}
+% \mtcsetformat{minitoc}{tocrightmargin}{2cm}
+
+
+\usepackage[toc]{multitoc}
+\renewcommand{\multicolumntoc}{2}
+% %%%%%%%%%%%%%%%%%%%%
+% \usepackage[tight]{minitoc}
+% % \setlength{\mtcindent}{0pt}
+% \mtcsetformat{minitoc}{tocrightmargin}{2.55em plus 1fil}
+% \newcommand{\multicolumnmtc}{2}
+% \makeatletter
+% \let\SV@mtc@verse\mtc@verse
+% \let\SV@endmtc@verse\endmtc@verse
+% \def\mtc@verse#1{\SV@mtc@verse#1\removelastskip%
+%  \begin{WidePar}\begin{multicols}{\multicolumnmtc}\raggedcolumns\leavevmode\unskip
+%  \vskip -1.5ex \vskip -1\baselineskip}
+% \def\endmtc@verse{\end{multicols}\end{WidePar}\SV@endmtc@verse}
+% \makeatother
+% \mtcsetrules{*}{off}
+% %%%%%%%%%%%%%%%%%%%%
 
 % \renewcommand{\@pnumwidth}{5em}
 
@@ -944,3 +979,9 @@ sort&compress, % as sort but in addition multiple numerical citations are
 % \setlength{\footnotesep}{1pt}
 \usepackage[hang,multiple]{footmisc}
 \renewcommand\footnotelayout{\sffamily}
+
+
+
+
+
+

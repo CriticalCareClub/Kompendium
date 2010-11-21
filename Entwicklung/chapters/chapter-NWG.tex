@@ -24,114 +24,95 @@ Intro
 
 \section{Maßeinheiten}
 
-\begin{tabularx}{\linewidth}{XXXX}\FontTableBase
-Bereich
-&
-Bezeichnung
-&
-Symbol Einheit
-&
-Werte
-\\
-Zeit
-&
-Minute
-& 
-min
-&
-% 1\Min = 60\Sek
-\end{tabularx}
-
-\begin{table}\FontTableBase
-\caption{SI base units.}
-\label{tab:unit:base}
-\centering
-\begin{tabular}{llll}
-\toprule
-\TabHeading{Maß} & \Z{\TabHeading{Symbol}} & \TabHeading{Einheit} & \TabHeading{Symbol} \\
-\midrule
-Stromfluß 	& $I$, $i$ &  Ampere 		& \MetricUnit{A} \\
-			& $I_v$ & \Z{Candela} 	& \Z{\MetricUnit{cd}} \\
-Temperatur 	& $T$ & Kelvin 		& \MetricUnit{K} \\
-Masse 		& $m$ & Kilogramm 	& \MetricUnit{kg} \\
-Weg 		& & Meter 		& \MetricUnit{m} \\
-Stoffmenge 	& $n$ & Mol 			& \MetricUnit{mol} \\
-Zeit 		& $t$ & Sekunde 		& \MetricUnit{s} \\
-\bottomrule
-\end{tabular}
-\end{table}
+% \begin{table}\FontTableBase
+% \caption{SI Basiseinheiten.}
+% \label{tab:unit:base}
+% \centering
+% \begin{tabular}{llll}
+% \toprule
+% \TabHeading{Maß} & \Z{\TabHeading{Symbol}} & \TabHeading{Einheit} & \TabHeading{Symbol} \\
+% \midrule
+% Stromfluß 	& $I$, $i$ &  Ampere 		& \MetricUnit{A} \\
+% 			& $I_v$ & \Z{Candela} 	& \Z{\MetricUnit{cd}} \\
+% Temperatur 	& $T$ & Kelvin 		& \MetricUnit{K} \\
+% Masse 		& $m$ & Kilogramm 	& \MetricUnit{kg} \\
+% Weg 		& & Meter 		& \MetricUnit{m} \\
+% Stoffmenge 	& $n$ & Mol 			& \MetricUnit{mol} \\
+% Zeit 		& $t$ & Sekunde 		& \MetricUnit{s} \\
+% \bottomrule
+% \end{tabular}
+% \end{table}
 
 \begin{WidePar}
 \begin{tabular}{lllllll}
-\toprule
-Maß 					& Symbol 	& Einheit 		& Zeichen 						& Typ 	& Anmerkungen & \\\addlinespace\midrule\addlinespace
+\toprule\addlinespace
+\TabHeading{Maß}		& \TabHeading{Symbol}& \TabHeading{Einheit}	& \TabHeading{Zeichen}& \TabHeading{Typ}& \TabHeading{Anmerkungen} & \TabHeading{}\\\addlinespace\midrule\addlinespace
+\EE{Stromfluß} 			& $I$, $i$ 	&  \EE{Ampere} 		& \MetricUnit{A} 		& SI Basis \\
+\EE{}					& $I_v$ 	& \Z{Candela} 	& \Z{\MetricUnit{cd}}  	& SI Basis \\
+\EE{Temperatur} 		& $T$ 		& \EE{Kelvin} 		& \MetricUnit{K}  		& SI Basis \\
+\EE{Masse} 				& $m$ 		& \EE{Kilogramm} 	& \MetricUnit{kg} 		& SI Basis  \\
+\EE{Weg} 				& $s$		& \EE{Meter} 		& \MetricUnit{m}  		& SI Basis \\
+\EE{Stoffmenge} 		& $n$ 		& \EE{Mol} 			& \MetricUnit{mol}  	& SI Basis \\
+\EE{Zeit} 				& $t$ 		& \EE{Sekunde} 		& \MetricUnit{s}  		& SI Basis \\\addlinespace\midrule\addlinespace
 \Z{Absorptionsdosis}	&  			& \Z{Gray} 		&  \Z{\MetricUnit{Gy}} 			& \\
-						& $I_v$ 	& \Z{Candela} 	& \Z{\MetricUnit{cd}} 			& SI 	& \\
-Dosisäquivalent			&  			& Sievert 		& \MetricUnit{Sv} \\
+% \A{???}					& $I_v$ 	& \Z{Candela} 	& \Z{\MetricUnit{cd}} 			& SI 	& \\
+Dosisäquivalent			&  			& Sievert 		& \MetricUnit{Sv} \\\addlinespace
+Druck 					& $p$ 		& \T{Bar} 		& \MetricUnit{bar} \\
 Druck 					&  			& Pascal 		& \MetricUnit{Pa} \\
-Elektr. Leitfähigkeit	&  			& Siemens 		& \MetricUnit{S} \\
+Druck 					& 			&\T{Millimeter Quecksilbersäule} & \MetricUnit{mmHg} \\
+Druck 					& 			&\T{Zentimeter Wassersäule} & \MetricUnit{cm\ce{H2O}} \\\addlinespace
+% Elektr. Leitfähigkeit	&  			& Siemens 		& \MetricUnit{S} \\
 Elektr. Ladung			& 			& \Z{Coulomb}	&  \Z{\MetricUnit{C}}   		& \\
-Elektr. Widerstand 		& 			& Ohm 			& \MetricUnit{$\Omega$}\\
-Energie, Arbeit			& 			&  Joule 		&  \MetricUnit{J}     			& \\
+Elektr. Widerstand 		& 			& Ohm 			& \MetricUnit{$\Omega$} 		& \\\addlinespace
+Energie, Arbeit			& 			& \T{Joule}		&  \MetricUnit{J}     			& \\
 Frequenz				&  			& Hertz 		&  \MetricUnit{Hz}     			& \\
-\Z{Kapazität} 			&  			& \Z{Farad} 	&  \Z{\MetricUnit{F}}    		& \\
- 						&  			& \Z{Katal} 	& \Z{\MetricUnit{kat}}  		& \\
-\Z{Indukktivität} 		&  			& \Z{Henry} 	&  \Z{\MetricUnit{H}}    		& \\
-Leistung 				& 			& Watt 			& \MetricUnit{W} \\
- 						&  			& \Z{Lumen} 	& \Z{\MetricUnit{lm}}   		& \\
- 						&  			& \Z{Lux} 		& \Z{\MetricUnit{lx}}   		& \\
-Magn. Feldstärke 		& 			&  Tesla 		& \MetricUnit{T} \\
-Magn. Fluß 				&  			& \Z{Weber} 	& \Z{\MetricUnit{}} \\
-Masse 					& $m$ 		& Kilogramm 	& \MetricUnit{kg} 				& SI 	& \\
-Masse					& $m$		& Tonne			& \MetricUnit{t}\\
-Spannung 				&  			& Volt 			& \MetricUnit{V} \\
-Stoffmenge 				& $n$ 		& Mol 			& \MetricUnit{mol} 				& SI 	& \\
-Stromfluß 				& $I$, $i$ 	& Ampere 		& \MetricUnit{A} 				& SI 	& \\
+% \Z{Kapazität} 			&  			& \Z{Farad} 	&  \Z{\MetricUnit{F}}    		& \\
+% \A{???}	 				&  			& \Z{Katal} 	& \Z{\MetricUnit{kat}}  		& \\
+% \Z{Indukktivität} 		&  			& \Z{Henry} 	&  \Z{\MetricUnit{H}}    		& \\
+Leistung 				& 			& Watt 			& \MetricUnit{W} \\\addlinespace
+% \A{???}					&  			& \Z{Lumen} 	& \Z{\MetricUnit{lm}}   		& \\
+% \A{???}					&  			& \Z{Lux} 		& \Z{\MetricUnit{lx}}   		& \\
+Magn. Feldstärke 		& 			&  Tesla 		& \MetricUnit{T} \\\addlinespace
+% Magn. Fluß 				&  			& \Z{Weber} 	& \Z{\MetricUnit{}} \\
+Masse					& $m$		& Tonne			& \MetricUnit{t}\\\addlinespace
+Spannung 				&  			& Volt 			& \MetricUnit{V} \\\addlinespace
+Stoffmenge 				& $n$ 		& Mol 			& \MetricUnit{mol} 				& SI 	& \\\addlinespace
 Temperatur 				& $T$		& Grad Celsius 	& \MetricUnit{\textcelsius} 	& NONSI	& \\
-Temperatur 				& $T$ 		& Kelvin 		& \MetricUnit{K} 				& SI 	& \\
-Weg 					& 			& Meter 		& \MetricUnit{m} 				& SI 	& \\
-Zeit 					& $t$ 		& Sekunde 		& \MetricUnit{s} 				& SI 	& \\
+Temperatur 				& $T$ 		& Kelvin 		& \MetricUnit{K} 				& SI 	& \\\addlinespace
+Volumen 				&			& Liter			& \MetricUnit{l}, {\Liter}\\\addlinespace
+Winkel 					&			& Grad 			& {\textdegree}\\
+Winkel 					&			& Winkelminute 	& \\
+Winkel 					&			& Winkelsekunde & \\\addlinespace
 Zeit					& $t$		& Tag 			& {\Day}\\
 Zeit					& $t$		& Stunde 			& {\Hour}\\
-Zeit					& $t$		& Minute (Zeit) 	& {\Min}\\
-Winkel 					&			& Grad 			& {\textdegree}\\
+Zeit					& $t$		& Minute (Zeit) 	& {\Min}\\\addlinespace
 
-Volumen 				&			& Liter			& \MetricUnit{l}, {\Liter}\\
-Winkel 					&			& Winkelminute 	& \\
-Winkel 					&			& Winkelsekunde & \\
 
 
 % {astronomical unit}{astronomicalunit} &  & \MetricUnit{} \\
 % {atomic mass unit}{atomicmassunit} &  & \MetricUnit{} \\
-						&			& Bohr 			& \MetricUnit{} \\
-Geschwindigtkeit 		&			& Lichtgeschwindigkeit	& $c_0$ 				& NU\\
+% \A{???}					&			& \Z{Bohr} 			& \MetricUnit{} \\
+\Z{Geschwindigtkeit} 		&			& \Z{Lichtgeschwindigkeit}	& $c_0$ 				& NU\\\addlinespace
 
-Masse					& 			& Dalton 		& \MetricUnit{Da}       		& EXP\\
+Masse					& 			& Dalton 		& \MetricUnit{Da}       		& EXP \\\addlinespace
 % {electron mass}{electronmass} &  & \MetricUnit{}  \\
-{electronvolt} &  & \MetricUnit{eV} \\
+ 						& 			& {Elektronenvolt} & \MetricUnit{eV} \\\addlinespace
 % {elementary charge}{elementarycharge} &  & \MetricUnit{}  \\
 % {hartree} &  & \MetricUnit{}  \\
 % {reduced Planck constant}{planckbar} &  & \MetricUnit{}  \\
 
 
 % Distanz					& 			&{{\aa}ngstr{\"o}m} 	& \MetricUnit{°A} &  & \\
-{bar} & Druck & \MetricUnit{bar} \\
-{barn} &  & \\
-{bel} &  & \\
-Dezibel &  & \MetricUnit{dB}\\
-{knot} &  & \\
-{millimetre of mercury}& Druck & \MetricUnit{mmHg} \\
-{nautical mile}{nauticalmile} \\
-{neper} &  & \\
-{{\aa}ngstr{\"o}m}{angstrom} &  & \\
-{bar} & Druck & \MetricUnit{bar} \\
-{barn} &  & \\
-{bel} &  & \\
-Dezibel &  & \MetricUnit{dB}\\
-{knot} &  & \\
-{millimetre of mercury}& Druck & \MetricUnit{mmHg} \\
-{nautical mile}{nauticalmile} \\
-{neper} &  & \\
+
+% {barn} &  & \\
+&& {Bel}   \\
+Schalldruck &  & Dezibel& \MetricUnit{dB}\\\addlinespace
+% {knot} &  & \\
+
+% {nautical mile}{nauticalmile} \\
+% {neper} &  & \\
+% {{\aa}ngstr{\"o}m}{angstrom} &  & \\
+\\\addlinespace\bottomrule
 \end{tabular}
 \end{WidePar}
 
@@ -207,25 +188,7 @@ Dezibel &  & \MetricUnit{dB}\\
 % \end{tabular}
 % \end{table}
 
-\begin{table}
-\caption{Other non-SI units.}
-\label{tab:unit:other}
-\centering
-\begin{tabular}{lll}
-\toprule
-Unit & Macro & Symbol  \\\midrule
-{{\aa}ngstr{\"o}m}{angstrom} &  & \\
-{bar} & Druck & \MetricUnit{bar} \\
-{barn} &  & \\
-{bel} &  & \\
-Dezibel &  & \MetricUnit{dB}\\
-{knot} &  & \\
-{millimetre of mercury}& Druck & \MetricUnit{mmHg} \\
-{nautical mile}{nauticalmile} \\
-{neper} &  & \\
-\bottomrule
-\end{tabular}
-\end{table}
+
 
 
 \begin{table}\FontTableBase

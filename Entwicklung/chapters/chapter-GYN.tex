@@ -7,7 +7,24 @@
 \chapter
 [\CO{[GYN]} \emph{Spezielle Patientengruppe:} Frauen und Schwangere]
 {\CC{[GYN]} \emph{Spezielle Patientengruppe:} Frauen und Schwangere}
-\minitoc
+
+\ChapterIntro
+{%
+Intro 
+
+\TODO{GABS}{2010-11-11}{Intro fehlt}{}
+}
+{%
+\begin{description}
+  \item[Maintainer:] Sebastian Gabriel
+  \item[Autoren:] Diverse
+  \item[Reviewer:] Standard-Reviewprozess
+  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[SHA1:] {\DocGitCommit}
+\end{description}
+
+{\TxTeilkapitelAASS}
+}
 
 
 \section{Schwangerschaft}
@@ -984,31 +1001,42 @@ und für das Kind wegen des \ce{O2}-Mangels.
 %     \item Zügiger Transport mit Voranmeldung
 % \end{itemize}
 
+\cleardoublepage
+\thispagestyle{fancy}
 \subsubsection{Asphyxie während der Geburt}
-
-\Layout{2}{\TxBeschreibung}{%
 \TODO{GABS}{2010-07-20}{Überarbeitung dringend notwendig!}{}
 
-Atem- oder kreislaufbedingte Störungen des Neugeborenen,
-welche zu einer Sauerstoffunterversorgung (Hypoxie) führen.
-Die Asphyxie kann vor, während und nach der Geburt
-auftreten.
+\Definition{Sauerstoffunterversorgung (Hypoxie) des
+Neugeborenen infolge einer atem- oder kreislaufbedingten
+Störung vor, während oder nach der Geburt.}
 
-Ursachen können u.\,a. eine Placenta praevia,
-ein Nabelschnurvorfall, Lageanomalien, eine Frühgeburt,
-u.\,v.\,a.\,m. sein.
-
-Kennzeichen einer Asphyxie sind: 
-\begin{itemize}
-  \item Fruchtwasser trüb/grünlich
-  \item Atmung/Schreien fehlt
-  \item Schlaffer Muskeltonus
-  \item Fortbestehende Zyanose (eine Zyanose unmittelbar
-  nach der Geburt ist normal)
-  \item \Abk{HF} < 100\,\nicefrac{x}{min}
-\end{itemize}
+\Layout{2}{\TxBeschreibung}{%
+Die möglichen Ursachen für die Hypoxie sind vielfältig und
+umfassen u.\,a. eine Placenta praevia, einen
+Nabelschnurvorfall, Lage\-ano\-malien, eine Frühgeburt,
+u.\,v.\,a.\,m. Wird die Ursache nicht rechtzeitig behoben
+und bleibt die Hypoxie bestehen, kommt es zu
+einer irreperablen Hirnschädigung.
 }{%
 
+}{}{}{}
+
+\Layout{0}{\TxSymptome}{%
+Das Leitsymptom einer Asphyxie ist eine \EE{Herzfrequenz <
+100\PerMin*}, eine \EE{unzureichende Atmung}
+(Schnappatmung, fehlende Atmung) und/oder ein \EE{schlaffer
+Muskeltonus} des Kindes
+
+Weitere Hinweise auf  eine Asphyxie sind eine grünlich-trübe
+Verfärbung des Fruchtwassers sowie eine \E{fortbestehende
+Zyanose} (eine Zyanose unmittelbar nach der Geburt ist
+normal).
+}{%
+\begin{itemize}
+  \item HF < 100\PerMin*
+  \item Unzureichende Atmung
+  \item Schlaffer Muskeltonus
+\end{itemize}
 }{}{}{}
 
 
@@ -1016,16 +1044,28 @@ Kennzeichen einer Asphyxie sind:
 Neugeborenen} {\label{m:asphyxie}}
 {%
 \begin{itemize}
+  \item \TxMassVit
   \item Warmhalten
-  \item Atemwege freimachen, absaugen
   \item Abtrocknen/abrubbeln; stimulieren: Fußsohlen und
   Rücken klopfen, reiben
-  \item Atmung vorhanden? \begin{itemize}
-    \item \ce{O2}-Gabe ("`\ce{O2}-Dusche"') für 30\,Sek.
+  \item Atmung und Herzfrequenz beurteilen
+  \item Bei Schnappatmung, fehlender Atmung oder HF <
+  100\PerMin*:  \begin{itemize}
+%     \item \ce{O2}-Gabe ("`\ce{O2}-Dusche"') für 30\,Sek.
+    \item Atemwege freimachen, absaugen
+    \item 5 Beatmungen
   \end{itemize}
-  \item Wenn weiterhin \EE{Atemstillstand} oder
-  \EE{Herzfrequenz < 100\,\nicefrac{x}{min}} → Reanimation
-  des Neugeborenen
+  \item Wenn keine Steigerung der Herzfrequenz: 
+  \begin{itemize}
+%     \item \ce{O2}-Gabe ("`\ce{O2}-Dusche"') für 30\,Sek.
+    \item Lagerung und Atemwege überprüfen 
+    \item 5 Beatmungen wiederholen
+    \item \ce{O2}-Gabe
+    \end{itemize}
+  \item Wenn weiterhin keine ausreichende Atmung oder
+  \EE{Herzfrequenz < 60\PerMin*} 
+  
+  → Reanimation des Neugeborenen
 \end{itemize}
 }
 

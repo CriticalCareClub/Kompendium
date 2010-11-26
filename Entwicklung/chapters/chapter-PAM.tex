@@ -6,14 +6,8 @@
 [\CO{[PAM]} Patientenmanagement]
 {\CC{[PAM]} Patientenmanagement}
 
-\minitoc
-
-\includegraphics[width=\linewidth]{./images/emhofer-josef-aass/Anamnese_Symbolbild_75pc.jpg}
-
-\begin{WidePar}
-\Parallel{
-\minisec{Inhalt}
-%
+\ChapterIntro
+{%
 Dieses Kapitel behandelt den grundsätzlichen Ablauf eines
 Einsatzes und der Versorgung von Patienten. Grundbausteine sind dabei die
 Kenntnis der richtigen Reihenfolge der Maßnahmen und die Fähigkeit die
@@ -21,7 +15,24 @@ Kenntnis der richtigen Reihenfolge der Maßnahmen und die Fähigkeit die
 Patientengespräch und Untersuchungen sowie das Beherrschen der theoretischen
 medizinischen Grundlagen sind weitere Voraussetzungen für die erfolgreiche
 Patientenbetreuung und effektives, professionelles Arbeiten.
+}
+{%
+\begin{description}
+  \item[Maintainer:] Sebastian Gabriel
+  \item[Autoren:] Diverse
+  \item[Reviewer:] --
+  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[SHA1:] {\DocGitCommit}
+\end{description}
 
+{\TxTeilkapitelAASS}
+}
+
+% \includegraphics[width=\linewidth]{./images/emhofer-josef-aass/Anamnese_Symbolbild_75pc.jpg}
+
+
+\begin{WidePar}
+\Parallel{%
 \minisec{{\TxQuerverweise}}
 \begin{itemize}
   \item \EE{Beschreibung der Medizinprodukte}: \CO{[MP1, MP2]} 
@@ -200,8 +211,17 @@ Anamnese \& Versorgung}
 
 
 
-\subsubsection{Erster Schritt: Einschätzung}
+\subsubsection{Erster Schritt: Einschätzungsblock}
 \label{topic:ersteinschaetzung}
+
+Ziel des Einschätzungsblockes ist das rasche Erkennen einer
+vitalen Bedrohung, Überblick zu gewinnen und
+Hauptbeschwerden/Leitsymptome zu ermitteln. Der
+Einschätzungsblock muss in regelmäßigen Abständen sowie bei
+Verdacht in angemessenem Umfang wiederholt werden, um
+Verschlechterungen des Patientenzustandes rechtzeitig zu
+erkennen.
+
 
 \Layout{60}{SmS -- Szeneüberblick mit (Selbst-)Schutz}{%
 Schon \E{vor} Eintreffen am Einsatzort beginnt der
@@ -437,159 +457,238 @@ u.\,U. auch eine Fremdanmnese.
 \MassnahmenWide{Standardmaßnahmen}{Einschätzungsblock}{\label{m:ersteinschaetzung}}{
 \noindent\begin{minipage}[t]{\linewidth -
 {2\fboxrule} - {2\fboxsep}}
-Ziel: Rasches Erkennen einer vitalen Bedrohung, Überblick
-gewinnen und Hauptbeschwerden/Leitsymptome ermitteln.
-
 \noindent\begin{minipage}[t]{\linewidth}
 {\vspace{-0.8em} 
 % \begin{tabulary}{\linewidth}[H]{cp{8em}p{8.5cm}}
 \begin{tabularx}{\linewidth}[H]{p{2cm}XXX}
-\toprule\addlinespace
+% \toprule\addlinespace
 &
-\TabHeading{Beschreibung}
+\TabHeading{Beurteilung / Untersuchung}
 &
 \TabHeading{{\eye} Erkenne}
 &
 \TabHeading{Typische Maßnahmen}
-\\\addlinespace\midrule\addlinespace
+\\\addlinespace\toprule\addlinespace
 \noindent\T{SmS}
 
-\TabSub{Szeneüberblick m. Schutz}
-&
-Sicherheit, Selbstschutz; Patientenanzahl; Umgebung, Ort,
-Zeit; Trauma?; 
-&
-{\eye} \itshape Gefahrenzonen, Umstände, weitere
-Resourcen erforderlich, Unfallmechanismus, Großschaden 
-&
-GAS-Maßnahmen (\prettyref{topic:gefahrengutunfall}),
-Schutzausrüstung,
-
-Nachforderung weiterer Kräfte
-\\\addlinespace\midrule\addlinespace
-\noindent\T{GI}
-
-\TabSub{Eindruck}
-&
-Aussehen, Gesichtsausdruck, Haltung, Sprache
-&
-{\eye} \itshape Blässe, Zyanose, Schweiß,
-Schonhaltung, Atemnot, verwaschene Sprache,
-Des\-orientiertheit, Krämpfe, sichtbare Verletzungen
-
-Trauma
-&
-WS-Immobilisation?
-\prettyref{m:einschaetzung-indikation-ws-immobilisation} 
-\\\addlinespace \noindent\TabSub{\Z{}}
-
-\TabSub{Bewusstsein}
-&
-Reaktion auf verbale Ansprache, Weckversuch, Schmerzreiz
-&
-{\eye} vorhanden, nicht vorhanden
-\\\addlinespace
-\noindent\TabSub{\Z{}}
-
-\TabSub{Hauptbeschwerde}
-&
-Grund der Berufung, Schmerzen und andere für den Patienten dringliche
-Symptome
-&
-{\eye} \itshape Kritische Symptome
-
-Trauma
-&
-\TxMassVit
-\\\addlinespace\midrule\addlinespace
-\noindent\T{A}
-
-\TabSub{Atemweg}
-&
-Atemwege Frei?
-
-Atemgeräusch, Gestik
-&
-{\eye} \emph{frei oder verlegt}
-\\\addlinespace
-\noindent\T{B}
-
-\TabSub{Atmung}
-&
-Atmung ausreichend? 
-
-Frequenz (geschätzt)
-
-Tiefe, Thorax-/Bauchbewegungen
-
-Atemmuster
-
-Anstrengung beim Atmen, Atemhilfsmuskulatur, Zeichen der
-Atemnot (\prettyref{topic:atemnot-zeichen-kinder})
-
-Atemgeräusche
-
-Hautfarbe
-
-Heimsauerstoff, Sp\ce{O2}
-
-\Z{Seitenvergleichende Auskultation}
-&
-{\eye} \itshape Zyanose
-
-Atemnot
-
-Schnelle oder flache Atmung
-
-Paradoxe Atmung
-
-Fehlende Atmung
-&
-Reanimation
-
-\ce{O2}-Gabe
-
-Beatmung
-
-\Z{Entlastung Spannungspneumothorax}
-\\\addlinespace
-\noindent\T{C}
-
-\TabSub{Kreislauf}
-\TabSub{\Z{}}
-&
-Blutungszeichen,
-
-Hautfarbe, -temperatur, Schweiß
-
-Rekap-Zeit, 
-
-Radialispuls, 
-\\\addlinespace
-\noindent\T{D}
-
-\TabSub{Schnelle Untersuchung}
+\TabHeading{Szeneüberblick m. Schutz}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Vitalwerte (HF, RR, evtl. AF)
-  \item Bewusstseinsgrad, -qualität
+  \item Sicherheit, Selbstschutz; Patientenanzahl; Umgebung, Ort,
+Zeit
+\item Trauma? 
+\end{itemize}
+\end{minipage}
+
+&
+\noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Gefahrenzonen, Umstände,
+weitere Resourcen erforderlich, Unfallmechanismus, Großschaden 
+\end{itemize}
+\end{minipage} 
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item GAS-Maßnahmen (\prettyref{topic:gefahrengutunfall})
+  \item Schutzausrüstung
+  \item Nachforderung weiterer Kräfte
+\end{itemize}
+\end{minipage}
+\\\addlinespace\toprule\addlinespace
+\noindent\T{GI}
+
+\TabHeading{Eindruck}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Hautfarbe, Gesichtsausdruck, Haltung, Sprache
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Blässe, Zyanose, 
+  Schonhaltung, verwaschene Sprache,
+  Krämpfe, sichtbare Verletzungen
+  \item Trauma
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item WS-Immobilisation?
+\prettyref{m:einschaetzung-indikation-ws-immobilisation} 
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\noindent\TabHeading{Bewusstsein}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Bewusstseinsgrad
+\end{itemize}
+\end{minipage}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Somnolenz, Sopor, Koma
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item \TxMassVit
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\noindent\TabHeading{Hauptbeschwerde}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Grund der Berufung, Schmerzen und andere dringliche Symptome
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Kritische Symptome
+  \item Trauma
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item \TxMassVit
+\end{itemize}
+\end{minipage}
+\\\addlinespace\toprule\addlinespace
+\noindent\T{A}
+
+\TabHeading{Atemweg}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Atemwege frei?
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Atemgeräusch, Gestik
+  \item[→] frei oder verlegt?
+\end{itemize}
+\end{minipage} 
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Absaugung
+  \item Fremdkörper entfernen
+  \item \Z{Erweiterte Maßnahmen}
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\noindent\T{B}
+
+\TabHeading{Atmung}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Schätzen: \E{Frequenz} und \E{Tiefe}
+  \item Atemgeräusche
+  \item Anzeichen: \\
+  Hautfarbe, Bauch-/Thorax\-bewegungen,
+  Anstrengung beim Atmen, Atemhilfsmuskulatur, Zeichen der Atemnot 
+%   (\prettyref{topic:atemnot-zeichen-kinder})
+  \item Sp\ce{O2}
+  \item \Z{(Auskultation: Seitenvergleich, Lungenbasen)}
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Zyanose
+  \item Atemnot
+  \item Tachy-/Bradypnoe
+  \item Flache oder tiefe Atmung
+  \item Atemmuster
+  \item Schnappatmung
+  \item Paradoxe Atmung
+  \item Fehlende Atmung
+  \item Heimsauerstoff, Atemhilfen
+\end{itemize}
+\end{minipage}%Zyanose
+% 
+% Atemnot
+% 
+% Schnelle oder verlangsamte Atmung
+% 
+% Flache oder tiefe Atmung
+% 
+% Schnappatmung
+% 
+% Paradoxe Atmung
+% 
+% Fehlende Atmung
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Reanimation
+  \item \ce{O2}-Gabe
+  \item Beatmung
+  \item Situationsgerechte Lagerung
+  \item \Z{Erweiterte Maßnahmen\\(Entlastung
+  Spannungspneumothorax, \ldots )}
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\noindent\T{C}
+
+\TabHeading{Kreislauf}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Hautfarbe, -temperatur 
+  \item Schweiß
+  \item Rekap-Zeit 
+  \item Radialispuls 
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Sichtbare Blutungen
+  \item Tachy-/Bradykardie
+  \item Schockzeichen
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\noindent\T{D}
+
+\TabHeading{Schnelle\newline Untersuchung}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Vitalwerte (\E{HF}, \E{RR})
+  \item Bewusstseinsqualität
   \item Pupillen
-  \item \EE{Trauma, Bewusstseinsstörung}: Kontrolle von
-  Mund, Nase und Ohren auf Blutungen (Lampe)
-  \item \EE{Trauma}: Inspektion und
-  Abtasten von
-  \begin{inparaenum}
-    \item Kopf,
-    \item Hals,
-    \item Thorax inkl. Atemprobe,
-    \item Bauch,
-    \item Becken und
-    \item Oberschenkel
-  \end{inparaenum}
   \item Grobe Motorik (OE)
-  \item \EE{Trauma}: Kann der Patient
-  \E{Hände} und \E{Füße} spüren und bewegen?
+  \item[{\tiny\color{Indigo}\ovalbox{Trauma \&
+  Bewusstseinsstörung}}] Kontrolle von \E{Mund}, \E{Nase}
+  und \E{Ohren} auf Blutungen (Lampe)
+  \item[{\tiny\color{Indigo}\ovalbox{Trauma}}] Inspektion
+  und Abtasten von
+  \begin{inparaenum}
+    \item \E{Kopf},
+    \item \E{Hals},
+    \item \E{Thorax} inkl. Atemprobe,
+    \item \E{Bauch},
+    \item \E{Becken} und
+    \item \E{Oberschenkel}
+  \end{inparaenum}
+  \item[{\tiny\color{Indigo}\ovalbox{Trauma}}] Kann der
+  Patient \E{Hände} und \E{Füße} spüren und bewegen?
 \end{itemize}
 % \protect\Parallel{
 % \EE{Bei Traumapatienten:} 
@@ -608,28 +707,56 @@ Radialispuls,
 % }
 \end{minipage}
 &
-{\eye} \itshape Entgleiste Vitawerte
-
-Bewusstseinsgrad klar, somnolent, soporös,
-komatös/bewusstlos
-
-Abnorme Pupillenweite, -differenz, -reaktionslosigkeit,
--entrundung
-
-Motorische und sensible Ausfälle
-
-Kritische Verletzungen
+\noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Entgleiste Vitawerte
+  \item Bewusstseinsqualität: \E{Person}, \E{Raum},
+  \E{Zeit}, \E{Situation}
+  \item Pupillen: Abnorme \E{Weite}, \E{Differenz},
+  \E{Reaktion}, \E{Entrundung}
+  \item Motorische und sensible Ausfälle
+  \item Kritische Verletzungen
+\end{itemize}
+\end{minipage}
 \\\addlinespace\midrule\addlinespace
 \noindent\T{E}
 
-\TabSub{Erweiterte Untersuchung}
+\TabHeading{Erweiterte\newline Untersuchung}
 &
-{\ldots} situationsgerecht, wenn Einschätzung der vitalen
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item {\ldots} situationsgerecht, wenn Einschätzung der vitalen
 Bedrohung oder Hauptbeschwerde unklar ist.
+\item Inkl. relevante Teile der (Fremd-)Anamnese
+\item Ggfs. entkleiden (in warmer Umgebung)
+\end{itemize}
+\end{minipage}
 
-Inkl. relevante Teile der (Fremd-)Anamnese
+\\\addlinespace\bottomrule\addlinespace
+\TabHeading{Beurteilung}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item \EE{Einschätzen der vitalen Bedrohung}
+  \item Vorläufige Verdachtsdiagnose
+\end{itemize}
+\end{minipage}
 
-Ggfs. entkleiden (in warmer Umgebung)
+&
+\noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item \noindent\Ca{Alarmzeichen}
+  \item Hinweise auf mögliche Diagnosen
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item \TxMassVit
+  \item Reihenfolge der weiteren Untersuchungen und
+  Maßnahmen festlegen
+\end{itemize}
+\end{minipage}
 \\\addlinespace\bottomrule
 \end{tabularx}
 
@@ -651,11 +778,13 @@ um Verschlechterungen des Patientenzustandes rechtzeitig zu erkennen!
 
 \begin{enumerate}
   \item \Speech{Was ist das Problem des Patienten?}
-  \item \Speech{Ist der Patient akut vital bedroht?} (Alarmzeichen, s.u.)
-  \item \Speech{\ldots oder sind noch weitere Untersuchungen zur Lagebeurteilung
-  nötig? (z.B. Vitalwerte)}
-  \item \Speech{Welche weiteren Untersuchungen, Maßnahmen und Fragen stehen an
-  erster Stelle?}
+  \item \Speech{Ist der Patient akut vital bedroht?}
+  (Alarmzeichen, s.\,u.)
+  \item \Speech{\ldots oder sind noch weitere Untersuchungen
+  oder Fragen zur Lagebeurteilung nötig? (z.\,B.
+  Anzahl der Krampfanfälle, \ldots )}
+  \item \Speech{Welche weiteren Untersuchungen, Maßnahmen
+  und Fragen sind wichtig?}
 \end{enumerate}
 
     	

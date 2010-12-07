@@ -6,6 +6,7 @@
 *.blg
 *.cb*
 *.dvi
+*.ent
 *.err
 *.fz
 *.gal

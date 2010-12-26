@@ -430,44 +430,8 @@ footskip = 7mm,
 \renewcommand{\tableformat}{\noindent{\SignTable}~\thetable}
 \renewcommand{\figureformat}{\noindent{\SignFigure}~\thetable}
 
-% Non-floating captions
-\usepackage{caption}
-\DeclareCaptionLabelSeparator{strike}{~|~}
-\captionsetup{%
-format=plain,
-labelsep={strike},
-font={sf,md,small},
-labelfont={sf,bf,small},
-textfont={sf,md,small},
-singlelinecheck=false,
-skip=1pt,
-}
-\captionsetup[figure]{%
-format=plain,
-labelsep={strike},
-font={sf,md,small},
-labelfont={sf,bf,small},
-textfont={sf,md,small},
-singlelinecheck=false,
-skip=1pt,
-}
-\captionsetup[table]{%
-format=plain,
-labelsep={strike},
-font={sf,md,small},
-labelfont={sf,bf,small},
-textfont={sf,md,small},
-singlelinecheck=false,
-skip=1pt,
-}
-\captionsetup[fazit]{%
-format=hang,
-labelsep={strike},
-font={sf,md},
-labelfont={sf,bf},
-textfont={sf,md},
-singlelinecheck=false,
-skip=1pt,}
+
+
 
 
 
@@ -476,10 +440,7 @@ skip=1pt,}
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Styles
-\newcommand{\strongemph}[1]{\emph{\textbf{#1}}}
-\newcommand{\Terminus}[1]{\textcolor{Terminus}{#1}}
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

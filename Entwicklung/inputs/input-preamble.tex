@@ -411,7 +411,6 @@ footskip = 7mm,
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen
-% \renewcommand{\tableformat}{Tafel~\thetable\autodot}
 \DeclareRobustCommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
 \DeclareRobustCommand{\SignTableSmall}{{\scalefont{0.7}\SignTable}}
 
@@ -427,16 +426,8 @@ footskip = 7mm,
 \DeclareRobustCommand{\SignMassnahme}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{M}}}
 \DeclareRobustCommand{\SignMassnahmeSmall}{{\scalefont{0.7}\SignMassnahme}}
 
-\renewcommand{\tableformat}{\noindent{\SignTable}~\thetable}
-\renewcommand{\figureformat}{\noindent{\SignFigure}~\thetable}
 
 
-
-
-
-
-% Abbildungsbeschreibung mit hängendem Einzug
-\setcapindent*{0em}
 
 
 

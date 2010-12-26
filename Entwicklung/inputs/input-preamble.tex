@@ -34,9 +34,18 @@
 % \usepackage[toc]{multitoc}
 
 % increase width for large page numbers in TOC
+%% http://www.kronto.org/thesis/tips/format-toc.html
+%% Because of the font change, the page number becomes too large for the
+%% horizontal space LaTeX reserves for it by default. Without the following
+%% redefines to fix it, this would cause the Chapter entry page numbers
+%% to extend a few points into the right margin. The horror!
+
 \makeatletter 
-\renewcommand*{\@pnumwidth}{4em}
+\renewcommand*{\@pnumwidth}{3.5em}
+\renewcommand{\@tocrmarg}{4.5em}
+
 \makeatother
+
 
 % /part ohne Seitenzahl im TOC?
 % http://mrunix.de/forums/showthread.php?t=61596

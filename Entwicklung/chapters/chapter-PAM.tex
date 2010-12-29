@@ -79,9 +79,9 @@ Patienten entsprechend den Symptomen. Im Folgenden werden die Schritte
 im Einzelnen vorgestellt.
 
 % \clearpage
-\section{Vorgehen in der Praxis}
 
-\subsection{Primäreinsatz}
+
+
 
 %\paragraph{Szeneüberblick}
 % \paragraph{Die ersten  30 Sekunden }
@@ -233,9 +233,9 @@ Anamnese \& Versorgung}
 }
 \end{WidePar}
 
+\subsection{Der Ablauf im Detail}
 
-
-\subsubsection{Erster Schritt: Einschätzungsblock}
+\subsubsection{Einschätzungsblock}
 \label{topic:ersteinschaetzung}
 
 Ziel des Einschätzungsblockes ist das rasche Erkennen einer
@@ -976,7 +976,7 @@ Die Ersteinschätzung muss ständig überprüft werden. Neue
 Befunde und der Zustand des Patienten können die Situation
 ändern.
 
-\subsubsection{Zweiter Schritt: Erstmaßnahmen}
+\subsubsection{Sofortmaßnahmen}
 \label{topic:patientenmanagement-erstmassnahmen}
 % 
 % Welche Maßnahmen sind für den Patienten am wichtigsten und
@@ -1025,8 +1025,7 @@ Patientenbetreuung -- sofern angemessen -- durchgeführt werden müssen.
 }{}{}{}
 
 
-\subsubsection{Dritter Schritt: Durchatmen, nachdenken,
-planen}
+\subsubsection{Prioritäten setzen, weiterführende Diagnostik und Maßnahmen}
 
 \emph{Was ist wichtig, was kann warten?} -- Weitere
 Untersuchungen, S-KAMEL und Maßnahmen.
@@ -1036,9 +1035,9 @@ Untersuchungen und Fragen am dringlichsten sind und zuerst
 durchgeführt werden müssen, und was eher in der Abfolge nach
 hinten ver\-schoben wird.
 
-Die Checkliste in 
+Die Kurzübersicht in 
 \prettyref{tab:checkliste-patientenmanagement} gibt einen
-Überblick über die Maßnahmen und das Anamnese\-ge\-spräch, die
+Überblick über die weiterführenden Maßnahmen und das Anamnese\-ge\-spräch, die
 Reihenfolge ist bei jedem Patienten anders!
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1046,52 +1045,22 @@ Reihenfolge ist bei jedem Patienten anders!
 \begin{table}[ht]
 \begin{WidePar}
 \begin{minipage}{\linewidth}
-\Captionof{table}{Checkliste Patientenmanagement --
-Mögliche Maßnahmen, die Reihenfolge ist je nach Patient
-unterschiedlich\label{tab:checkliste-patientenmanagement}}
+\FontTableBase
+\Captionof{table}{Kurzübersicht: Weiterführende Untersuchungen und Anamnese.
+Die Reihenfolge ist je nach Patient
+unterschiedlich!\label{tab:checkliste-patientenmanagement}. }
 
 {\sffamily\FontTableBase
 \begin{tabulary}{\linewidth}[H]{CCL}
 
 \toprule\addlinespace
-\EE{Selbstschutz}
-%\includegraphics[width=1.005cm,height=0.9cm]{AASdev20090228-img14.gif}
- &
- &
-Schutzausrüstung (Handschuhe, Uniform, Helm)
-Gefahrenbereich, Unfallstelle absichern, Hunde wegsperren lassen
-ggfs. Rückzug, Spezialkräfte anfordern, {\dots}
-{\dots}
-\\\addlinespace\midrule\addlinespace
-\EE{Erkennen}
-
-\includegraphics[width=1cm]{icons/eye.png}
- &
- &
-Situation/Milieu {\tiny(zB Alter, soziales Umfeld, SMV,
-Alkohol, Pensionistenheim, ...)}
-
-offensichtliche Symptome {\tiny(zB Zyanose,
-Bewusstlosigkeit, starke Blutung, ...)}
-
-Schockgefahr {\tiny(Zyanose, kalter Schweiß,
-Radialispuls tastbar/nicht tastbar, Puls beschleunigt)}
-\\\addlinespace\midrule\addlinespace
-\EE{Erste Hilfe}
-
-\includegraphics[width=1cm]{icons/firstAid.png}
- &
- &
-Lagerung
-
-Helmabnahme
-
-Blutstillung
-
-psychischer Beistand
-
-Wärmeerhaltung / Kühlung
-\\\addlinespace\midrule\addlinespace
+% \EE{Erste Hilfe}
+% 
+% \includegraphics[width=1cm]{icons/firstAid.png}
+%  &
+%  &
+% 
+% \\\addlinespace\midrule\addlinespace
 {\multirow{6}{2cm}{\centering\includegraphics[width=1cm]{icons/exclamationMark.png}
 \EE{Anamnese}}}
  &
@@ -1134,24 +1103,14 @@ Regelblutung, letzter Spitalsaufenthalt)
 \\\addlinespace\midrule\addlinespace
 
 {\multirow{8}{2cm}{\centering\includegraphics[width=1cm]{icons/stethoskop.jpg}
-\EE{Befunde}}}
- &
-{\sffamily\textbf RR}
- &
-auskultatorische und palpatorische Messung
-\\\addlinespace
- &
-{\sffamily\textbf HF}
- &
-Herzfrequenz (Puls), Puls rhythmisch oder arrhythmisch
-\\\addlinespace
+\EE{Diagnostik}}}
  &
 {\sffamily AF}
  &
 Atemfrequenz auszählen
 \\\addlinespace
  &
-{\sffamily Sp\ce{O2}}
+({\sffamily Sp\ce{O2}})
  &
 Sauerstoffsättigung im Blut, Monitoring
 \\\addlinespace
@@ -1169,7 +1128,7 @@ Körpertemperatur/Fieber
  &
  {\sffamily\small Neuro\-status}
  &
-Bewusstsein (ev. GCS), Orientierung,
+(Bewusstseinsgrad), Orientierung,
 Pupillen, Halbseitenzeichen, Herdblick, Meningismus, retrograde Amnesie
 \\\addlinespace
  &
@@ -1178,54 +1137,70 @@ Pupillen, Halbseitenzeichen, Herdblick, Meningismus, retrograde Amnesie
 abnorme Beweglichkeit, DMS an allen
 Extremitäten (Nagelbettprobe), Wunden, paradoxe Atmung,
 Abwehrspannung des Bauches, ...
+\\\addlinespace
+ &
+{\sffamily\small Körp. Unt.}
+ &
+Sonstige körperliche Untersuchungen: Abdomen abtasten, Körperstellen inspizieren, \ldots
 \\\addlinespace\midrule\addlinespace
- \EE{Sanitäts\-hilfe}
+ \EE{Maßnahmen}
 
 \includegraphics[width=1cm]{icons/san.png}
 &
 &
-Entscheidung Notarzt-Nachforderung
+\begin{minipage}{\linewidth}
+\begin{itemize}
+  \item (Lagerung)
+  \item Verband, Blutstillung
+  \item Schienung
+  \item psychischer Beistand
+  \item \EE{Wärmeerhaltung / Kühlung}
+  \item Entscheidung Notarzt-Nachforderung wegen Schmerztherapie oder Aufklärung/Belassung
+  \item Sauerstoffgabe
+  \item Regelmäßige \EE{Wiederholung des Einschtzungsblockes} {\tiny(in angemessenem Umfang)}
+  \item \EE{Immer durchzuführende Standardmaßnahmen} (\prettyref{topic:standardmassnahmen-immer})
+\end{itemize}
+\end{minipage}
 
-Fortführung der Ersten Hilfe
 
-Schienung
-
-Sauerstoffgabe
-
-Reanimationsbereitschaft
-
-Verlaufskontrolle
 
 \ldots
 \\\addlinespace\midrule\addlinespace
-\EE{Notarzt\-assistenz}
+\EE{Assistenz}
 \includegraphics[width=1cm]{icons/asb.png}
 &
  &
-Infusion/periphervenösen Zugang vorbereiten
-
-Intubation vorbereiten
-
-Medikamente vorbereiten
-
-EKG anlegen
+ \begin{minipage}{\linewidth}
+\begin{itemize}
+  \item Infusion/periphervenösen Zugang vorbereiten
+  \item Intubation vorbereiten
+  \item Medikamente vorbereiten
+  \item EKG anlegen
+\end{itemize}
+\end{minipage}
 
 \ldots
 \\\addlinespace\midrule\addlinespace
-\EE{Krankenhaus}
+\EE{Transport}
 
 \includegraphics[width=1cm]{icons/hospitalStaff.png}
  &
  &
-Welches Spital/Bett buche ich ab? (Arbeitsunfall? Welche Abteilung
+\begin{minipage}{\linewidth}
+\begin{itemize}
+  \item Welches Spital/Bett buche ich ab? (Arbeitsunfall? Welche Abteilung
 fahre ich an? Ist der Patient bereits in einem Spital in Behandlung?)
 
 Brauche ich eine Spezialabteilung? (Schockraum, Stroke Unit, PTCA,
 Verbrennungsstation)
+\item Übergabe (Anamnese, Befunde, Maßnahmen, Hinweise)
+\end{itemize}
+\end{minipage}
 
-Arztübergabe (Anamnese, Befunde, Maßnahmen, Hinweise)
 \\\addlinespace\bottomrule
 \end{tabulary}}
+
+{\scriptsize\EE{Fett} gedruckte Punkte haben eine hohe Priorität, (eingeklammerte) Punkte sollten schon als Teil des Einschätzungsblockes abgehandelt worden sein, und werden nur der Vollständigkeit halber erwähnt.}
 \end{minipage}
 \end{WidePar}
 \end{table}
@@ -1274,42 +1249,18 @@ Arztübergabe (Anamnese, Befunde, Maßnahmen, Hinweise)
 % Notarztes 25\,mg {\ldots} }
 % \end{quote}
 
-\subsection{Sekundäreinsatz}
-
-Für den Sekundäreinsatz (insbesonders Transferierungen von
-behandlungspflichtigen Patienten) gilt grundsätzlich das
-gleiche Vorgehen wie beim Primäreinsatz. Die Informationen
-der abgebenden Stelle bezüglich des Patienten und des
-Transports müssen besonders berücksichtigt werden. Die
-einzelnen Handlungen müssen sinngemäß an die Situation
-angepasst werden.
-
-Auch im Krankentransportdienst (inkl. Heimtransporte) soll
-der Einschätzungsblock bis zu Punkt \EE{C} in
-angemessener Weise durchgeführt werden. In der Praxis ist
-das binnen weniger Sekunden möglich. 
-
-An dieser Stelle sei nochmals auf die besondere Gefährdung
-von \E{Dialysepatienten} durch Elektrolytstörungen
-hingewiesen!
 
 
-\subsection{Ambulanzdienst}
 
-Für Ambulanzdienste gilt grundsätzlich das gleiche Vorgehen
-wie beim Primäreinsatz, die einzelnen Handlungen müssen
-sinngemäß an die Situation angepasst werden. Auch hier soll
-der Einschätzungsblock bis zu Punkt \EE{C} in
-angemessener Weise durchgeführt werden.
 
 
 
 % \clearpage
 
 
+\subsubsection{Transport}
 
-
-\subsection{Übergabegespräch an weiterbehandelndes Fachpersonal}  
+\subsubsection{Übergabegespräch an weiterbehandelndes Fachpersonal}  
 
 \Layout{61}{}{%
 Die Übergabe des Patienten in den
@@ -1342,6 +1293,40 @@ Informationen} beinhalten:
 {./images/shared/aufnahmearzt-ihres-vertrauens-edited2-0500.jpg}
 {}
 {GABS}
+
+\subsubsection{Anwendung in der Praxis}
+
+\Layout{2}{Primäreinsatz}{%
+
+}{}{}{}{}
+
+\Layout{2}{Sekundäreinsatz}{%
+Für den Sekundäreinsatz (insbesonders Transferierungen von
+behandlungspflichtigen Patienten) gilt grundsätzlich das
+gleiche Vorgehen wie beim Primäreinsatz. Die Informationen
+der abgebenden Stelle bezüglich des Patienten und des
+Transports müssen besonders berücksichtigt werden. Die
+einzelnen Handlungen müssen sinngemäß an die Situation
+angepasst werden.
+
+Auch im Krankentransportdienst (inkl. Heimtransporte) soll
+der Einschätzungsblock bis zu Punkt \EE{C} in
+angemessener Weise durchgeführt werden. In der Praxis ist
+das binnen weniger Sekunden möglich. 
+
+An dieser Stelle sei nochmals auf die besondere Gefährdung
+von \E{Dialysepatienten} durch Elektrolytstörungen
+hingewiesen!
+}{}{}{}{}
+
+
+\Layout{2}{Ambulanzdienst}{%
+Für Ambulanzdienste gilt grundsätzlich das gleiche Vorgehen
+wie beim Primäreinsatz, die einzelnen Handlungen müssen
+sinngemäß an die Situation angepasst werden. Auch hier soll
+der Einschätzungsblock bis zu Punkt \EE{C} in
+angemessener Weise durchgeführt werden.
+}{}{}{}{}
 
 %=========Ende Abschnitt Emhofer==========================================================
 

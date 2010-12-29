@@ -25,10 +25,16 @@ Patientenbetreuung und effektives, professionelles Arbeiten.
   \item[SHA1:] {\DocGitCommit}
 \end{description}
 
-{\TxTeilkapitelAASS}
-}
+{\TxTeilkapitelAASS}}
 
 % \includegraphics[width=\linewidth]{./images/emhofer-josef-aass/Anamnese_Symbolbild_75pc.jpg}
+
+
+% \the\textwidth
+% 
+% \the\marginparsep
+% 
+% \the\marginparwidth
 
 
 \begin{WidePar}
@@ -46,8 +52,13 @@ Patientenbetreuung und effektives, professionelles Arbeiten.
 }
 \end{WidePar}
 
+% 
+% \section{"`Hilfe, ein Patient!"' - Was mach{\textquotesingle} ich jetzt?}
 
-\section{"`Hilfe, ein Patient!"' - Was mach{\textquotesingle} ich jetzt?}
+
+\section{Grundsätzlicher Ablauf einer präklinischen Hilfeleistung}
+
+\section{Präklinisches Patientenmanagement im Detail}
 
 Gerade zu Beginn der Tätigkeit als medizinische Fachkraft
 fühlt man sich beim Eintreffen am Notfallort durch die große Menge an Sinneseindrücken und
@@ -58,17 +69,25 @@ dem Patienten -- Sicherheit geben.
 
 \Layout{0}{Vorgehen am Notfallort:}{%
 \begin{itemize}
-  \item Bevor es los geht: Szeneüberblick und Selbstschutzmaßnahmen
-  \item 1. Schritt: \EE{Einschätzung des Patienten}
-  \item 2. Schritt: \EE{Erstmaßnahmen}
-  \item 3. Schritt: \EE{Durchatmen, nachdenken, planen}
+  \item Szeneüberblick und Selbstschutzmaßnahmen
+  \item \EE{Einschätzung} des Patienten
+  \begin{itemize}
+    \item Parallel dazu \EE{Sofortmaßnahmen}
+  \end{itemize}
+  \item Prioritäten setzen und Plan zurechtlegen
+  \item Weiterführende Untersuchungen, Anamnese und Maßnahmen
+  \item Ggfs. Transport und Übergabe
 \end{itemize}
 }{
 \begin{itemize}
   \item Szeneüberblick und Selbstschutzmaßnahmen
-  \item Einschätzung des Patienten
-  \item Erstmaßnahmen
-  \item Durchatmen, nachdenken, planen
+  \item Einschätzung
+  \begin{itemize}
+    \item Parallel dazu Sofortmaßnahmen
+  \end{itemize}
+  \item Prioritäten setzen, Plan zurechtlegen
+  \item Weiterführende Untersuchungen, Anamnese und Maßnahmen
+  \item Ggfs. Transport und Übergabe
 \end{itemize}
 }{}{}{}
 
@@ -233,9 +252,8 @@ Anamnese \& Versorgung}
 }
 \end{WidePar}
 
-\subsection{Der Ablauf im Detail}
 
-\subsubsection{Einschätzungsblock}
+\subsection{Einschätzungsblock}
 \label{topic:ersteinschaetzung}
 
 Ziel des Einschätzungsblockes ist das rasche Erkennen einer
@@ -247,7 +265,7 @@ Verschlechterungen des Patientenzustandes rechtzeitig zu
 erkennen.
 
 
-\Layout{60}{SmS -- Szeneüberblick mit (Selbst-)Schutz}{%
+\Layout{60}{Szeneüberblick und (Selbst-)Schutz}{%
 Schon \E{vor} Eintreffen am Einsatzort beginnt der
 Szeneüberblick. Das Einsatzpersonal muss sich die äußeren
 Umstände des Einsatzes bewusst machen: \EE{Wo} befindet sich
@@ -280,7 +298,7 @@ Inspektion des Einsatzortes oft auch Aufschluss  über den
 {}
 {}
 
-\Layout{0}{GI -- Eindruck}{%
+\Layout{0}{Eindruck}{%
 \Z{(\Lang{engl.} General Impression.)} Hier wird v.\,a. das 
 \EE{Aussehen}, der Gesichtsausdruck, die \EE{Körperhaltung} und die \EE{Sprache}
 des Patienten beurteilt. Ebenso stellt sich die Frage, ob
@@ -305,7 +323,7 @@ Verletzungen, u.\,v\,a.\,m.
 {}
 {}
 
-\Layout{0}{GI -- Bewusstsein}
+\Layout{0}{Bewusstsein}
 {%
 Beurteilt wird der \EE{quantitative
 \E{Bewusstseinsgrad}} (\Speech{"`\EE{Wieviel} Bewusstsein ist vorhanden?"'},
@@ -320,7 +338,7 @@ Bewusstseinsgrade, vgl. \prettyref{topic:bewusstsein})
 \end{itemize}
 }{./icons/dead.png}{}{}
 
-\Layout{0}{GI -- Hauptbeschwerde}{%
+\Layout{0}{Hauptbeschwerde}{%
 Die \EE{Hauptbeschwerde} des Patienten, bzw. der \EE{Grund der Berufung}, sowie 
 Schmerzen und andere für den Patienten dringliche Symptome müssen herausgefunden
 werden. I.\,d.\,R. wird hier auf den "`S"'-Teil des \Abk{S-KAMEL} vorgegriffen.
@@ -341,7 +359,7 @@ Eventuell ist auch die Umgebung (Angehörige, Dritte) einzubeziehen
 
 }{./icons/crying.png}{}{}
 
-\Layout{0}{A -- Atemweg}{%
+\Layout{0}{A | Atemweg}{%
 \Z{(\Lang{engl.} Airway.)}
 Erhoben bzw. beobachtet werden \EE{Atemgeräusche} und die \EE{Gestik} des
 Patienten.
@@ -358,7 +376,7 @@ Die Atemwege können \E{frei} oder \E{verlegt} sein.
 {}
 {Hirtler}
 
-\Layout{0}{B -- Atmung}{%
+\Layout{0}{B | Atmung}{%
 \Z{(\Lang{engl.} Breathing.)}
 Untersucht wird die \EE{Frequenz}, das \EE{Atemmuster}, die
 \EE{Anstrengung} des Patienten beim Atmen, andere als die bei
@@ -381,7 +399,7 @@ Atmung besser einschätzen.}
 {}
 {Hirtler}
 
-\Layout{0}{C -- Kreislauf}{%
+\Layout{0}{C | Kreislauf}{%
 \Z{(\Lang{engl.} Circulation.)}
 Die erste Einschätzung des Kreislaufes dauert nur wenige Sekunden.
 Beurteilt wird die \EE{Hautfarbe} und \EE{-temperatur}, ob und wie gut
@@ -396,7 +414,7 @@ Fingerkuppen.
 {}
 {Hirtler}
 
-\Layout{0}{D -- Schnelle Untersuchung}{%
+\Layout{0}{D | Schnelle Untersuchung}{%
 \Z{(\Lang{engl.} Disability.)} Hier finden die wichtigsten
 Untersuchungen statt. Es werden unter anderem \E{Teile} des
 Neurochecks und Traumachecks durchgeführt.
@@ -466,9 +484,9 @@ entstehen können!
 \end{itemize}
 }{}{}{}
 
-\Layout{2}{E -- Erweiterte Untersuchung}{%
-\Z{(\Lang{engl.} Exposure.)} Ist die vitale Bedrohung noch
-nicht klar einzuschätzen müssen hier die notwendigen
+\Layout{2}{E | Erweiterte Untersuchung}{%
+\ZFootnote{(\Lang{engl.} Exposure.)} Ist die vitale
+Bedrohung noch nicht klar einzuschätzen müssen hier die notwendigen
 Unterschungen durchgeführt werden. Dies inkludiert auch
 in der Situation besonders relevante Teile der Anamnese,
 u.\,U. auch eine Fremdanmnese.
@@ -476,9 +494,30 @@ u.\,U. auch eine Fremdanmnese.
 
 }{}{}{}
 
+\Layout{2}{Beurteilung}{%
+\noindent Nun stellen sich folgende Fragen:
+
+\begin{enumerate}
+  \item \Speech{Was ist das Problem des Patienten?}
+  \item \Speech{Ist der Patient akut vital bedroht?}
+  (Alarmzeichen, s.\,u.)
+  \item \Speech{\ldots oder sind noch weitere Untersuchungen
+  oder Fragen zur Lagebeurteilung nötig? (z.\,B.
+  Anzahl der Krampfanfälle, \ldots )}
+  \item \Speech{Welche weiteren Untersuchungen, Maßnahmen
+  und Fragen sind wichtig?}
+\end{enumerate}
+}{
+
+}{}{}{}
 
 
-\MassnahmenWide{Standardmaßnahmen}{Einschätzungsblock}{\label{m:ersteinschaetzung}}{
+
+
+% \clearpage
+\loadgeometry{WholePage}\pagestyle{empty}
+\MassnahmenWide{Standardmaßnahmen}{Einschätzungsblock}{\label{m:ersteinschaetzung}}{%
+\CorrectionItemizeBox
 \noindent\begin{minipage}[t]{\linewidth -
 {2\fboxrule} - {2\fboxsep}}
 \noindent\begin{minipage}[t]{\linewidth}
@@ -491,11 +530,9 @@ u.\,U. auch eine Fremdanmnese.
 &
 \TabHeading{{\eye} Erkenne}
 &
-\TabHeading{Typische Maßnahmen}
+\TabHeading{Typische Sofortmaßnahmen}
 \\\addlinespace\toprule\addlinespace
-\noindent\T{SmS}
-
-\TabHeading{Szeneüberblick m. Schutz}
+\noindent\TabHeading{Szeneüberblick m. Schutz}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
@@ -521,13 +558,12 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 \end{itemize}
 \end{minipage}
 \\\addlinespace\toprule\addlinespace
-\noindent\T{GI}
-
-\TabHeading{Eindruck}
+\noindent\TabHeading{Eindruck}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
   \item Hautfarbe, Gesichtsausdruck, Haltung, Sprache
+  \item Sonstige Auffälligkeiten
 \end{itemize}
 \end{minipage}
 &
@@ -535,15 +571,15 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 \begin{itemize}
   \item Blässe, Zyanose, 
   Schonhaltung, verwaschene Sprache,
-  Krämpfe, sichtbare Verletzungen
-  \item Trauma
+  Krämpfe
+  \item Trauma, insb. Hinweise auf WS-Verletzungen od. starke Blutungen
 \end{itemize}
 \end{minipage}
 &
 \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item WS-Immobilisation?
-\prettyref{m:einschaetzung-indikation-ws-immobilisation} 
+  \item Manuelle HWS-Fixierung
+  \item Bewegungsverbot
 \end{itemize}
 \end{minipage}
 \\\addlinespace\midrule\addlinespace
@@ -555,7 +591,7 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 \end{itemize}
 \end{minipage}
 &
-\begin{minipage}[t]{\linewidth}
+\noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
 \begin{itemize}
   \item Somnolenz, Sopor, Koma
 \end{itemize}
@@ -563,7 +599,7 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 &
 \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item \TxMassVit
+  \item NA-Nachforderung
 \end{itemize}
 \end{minipage}
 \\\addlinespace\midrule\addlinespace
@@ -583,9 +619,9 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 \end{minipage}
 &
 \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
-\begin{itemize}
-  \item \TxMassVit
-\end{itemize}
+% \begin{itemize}
+%   \item \TxMassVit
+% \end{itemize}
 \end{minipage}
 \\\addlinespace\toprule\addlinespace
 \noindent\T{A}
@@ -594,13 +630,14 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Atemwege frei?
+  \item Inspektion (und Abtasten) von Mund, Nase und Hals
+  \item Atemgeräusche
 \end{itemize}
 \end{minipage}
 &
 \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Atemgeräusch, Gestik
+  \item Pfeifendes Atemgeräusch, Gestik
   \item[→] frei oder verlegt?
 \end{itemize}
 \end{minipage} 
@@ -621,6 +658,7 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 \begin{itemize}
   \item Schätzen: \E{Frequenz} und \E{Tiefe}
   \item Atemgeräusche
+  \item Inspektion (und Abtasten) von Thorax inkl. Atemprobe
   \item Anzeichen: \\
   Hautfarbe, Bauch-/Thorax\-bewegungen,
   Anstrengung beim Atmen, Atemhilfsmuskulatur, Zeichen der Atemnot 
@@ -659,7 +697,7 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 \begin{itemize}
   \item Reanimation
   \item \ce{O2}-Gabe
-  \item Beatmung
+%   \item Beatmung
   \item Situationsgerechte Lagerung
   \item \Z{Erweiterte Maßnahmen\\(Entlastung
   Spannungspneumothorax, \ldots )}
@@ -676,14 +714,30 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
   \item Schweiß
   \item Rekap-Zeit 
   \item Radialispuls 
+  \item[{\tiny\color{Indigo}\ovalbox{Trauma}}] Inspektion
+  und Abtasten von
+  \begin{inparaenum}
+    \item \E{Bauch},
+    \item \E{Becken} und
+    \item \E{Oberschenkel}
+  \end{inparaenum}
 \end{itemize}
 \end{minipage}
 &
 \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
 \begin{itemize}
   \item Sichtbare Blutungen
-  \item Tachy-/Bradykardie
   \item Schockzeichen
+  \item Rhythmus 
+  
+  (Tachy-/Bradykardie, Arrhytmie)
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\itshape\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Blutstillung
+  \item Situationsgerechte Lagerung
 \end{itemize}
 \end{minipage}
 \\\addlinespace\midrule\addlinespace
@@ -695,40 +749,22 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 \begin{itemize}
   \item Vitalwerte (\E{HF}, \E{RR})
   \item Sp\ce{O2}
-  \item Bewusstseinsqualität
+  \item Orientierung
   \item Pupillen
-  \item Grobe Motorik (OE)
-  \item[{\tiny\color{Indigo}\ovalbox{Trauma \&
-  Bewusstseinsstörung}}] Kontrolle von \E{Mund}, \E{Nase}
-  und \E{Ohren} auf Blutungen (Lampe)
+  \item Kraftprobe (OE)
   \item[{\tiny\color{Indigo}\ovalbox{Trauma}}] Inspektion
   und Abtasten von
   \begin{inparaenum}
-    \item \E{Kopf},
+    \item \E{Kopf} inkl. Ohren,
     \item \E{Hals},
-    \item \E{Thorax} inkl. Atemprobe,
-    \item \E{Bauch},
-    \item \E{Becken} und
-    \item \E{Oberschenkel}
+%     \item \E{Thorax} inkl. Atemprobe,
+%     \item \E{Bauch},
+%     \item \E{Becken} und
+%     \item \E{Oberschenkel}
   \end{inparaenum}
   \item[{\tiny\color{Indigo}\ovalbox{Trauma}}] Kann der
   Patient \E{Hände} und \E{Füße} spüren und bewegen?
 \end{itemize}
-% \protect\Parallel{
-% \EE{Bei Traumapatienten:} 
-% \begin{itemize}
-%     \item 1. Helfer: Vitalwerte 
-%     \item 2. Helfer: Schneller Traumacheck
-% % \item Suche nach: Schwere Verletzungen, Becken-, Oberschenkel-,
-% % Serienrippenfraktur, massive Blutung, hartes Abdomen.
-% \end{itemize}
-% }{
-% \EE{Bei Nicht-Traumapatienten:} 
-% 
-% \begin{itemize}
-%     \item Vitalwerte.
-% \end{itemize}
-% }
 \end{minipage}
 &
 \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
@@ -746,13 +782,23 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 \noindent\T{E}
 
 \TabHeading{Erweiterte\newline Untersuchung}
+
+{\tiny (Wenn Einschätzung der vitalen
+Bedrohung oder Hauptbeschwerde unklar ist.)}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item {\ldots} situationsgerecht, wenn Einschätzung der vitalen
-Bedrohung oder Hauptbeschwerde unklar ist.
+  \item Zielgerichtete Fragen auf Alarmzeichen, insb. Alarm-Diagnosen und rel. Begleiterkrankungen
 \item Inkl. relevante Teile der (Fremd-)Anamnese
 \item Ggfs. entkleiden (in warmer Umgebung)
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Sonst. Hinweise auf vitale Bedrohung (z.\,B. $\geq$ 2 Krämpfe/24\Hour*)
+  \item Prellmarken
+  \item Einstiche
 \end{itemize}
 \end{minipage}
 \\\addlinespace\bottomrule\addlinespace
@@ -784,36 +830,31 @@ Bedrohung oder Hauptbeschwerde unklar ist.
 \\\addlinespace\bottomrule
 \end{tabularx}
 
-Der Einschätzungsblock muss in regelmäßigen Abständen
-sowie bei Verdacht in angemessenem Umfang wiederholt werden,
+\begin{center}
+  \EE{Der Einschätzungsblock muss in regelmäßigen Abständen
+sowie bei Verdacht in angemessenem Umfang wiederholt werden},
 um Verschlechterungen des Patientenzustandes rechtzeitig zu erkennen!
+\end{center}
+
+(Eingeklammerte) Punkte werden nur durchgeführt, wenn sie
+situationsentsprechend sind. Die Punkte unter "`Typische Maßnahmen"' sind als \E{Beispiele} zu verstehen.
 }
 \end{minipage}
 \end{minipage}
-
 }
 
+\restoregeometry
+% \clearpage
+\pagestyle{fancy}
 
 
 
-\vspace{1em}
 
-\noindent Nun stellen sich folgende Fragen:
-
-\begin{enumerate}
-  \item \Speech{Was ist das Problem des Patienten?}
-  \item \Speech{Ist der Patient akut vital bedroht?}
-  (Alarmzeichen, s.\,u.)
-  \item \Speech{\ldots oder sind noch weitere Untersuchungen
-  oder Fragen zur Lagebeurteilung nötig? (z.\,B.
-  Anzahl der Krampfanfälle, \ldots )}
-  \item \Speech{Welche weiteren Untersuchungen, Maßnahmen
-  und Fragen sind wichtig?}
-\end{enumerate}
 
     	
+\subsubsection{Vitale Bedrohung}
 
-\Layout{60}{Vitale Bedrohung -- Alarmzeichen
+\Layout{60}{Alarmzeichen
 {\color{DefaultRed}\bfseries{\VarFlag ~}}} {%
 Das rasche Feststellen einer vitalen Bedrohung ist besonders
 wichtig. Anzeichen einer vitalen Bedrohung können u.\,a.
@@ -966,15 +1007,13 @@ wahrscheinlich? Eine Übersicht.\label{tab:alarmzeichen}}{}
 % 
 % Erklärt man einen Patienten für vital bedroht muss man das
 % begründen können! } 
-\noindent Während des weiteren Verlaufs
-(Anamnesegespräch, etc.) kann man auf weitere Befunde stoßen
-welche auf eine vitale Bedrohung hinweisen (zB. massiv
-erhöhter Blutdruck bei vorgeschädigtem Herzen, plötzliche
-oder schleichende Zustandsverschlechterung, etc.).
+\noindent Während des weiteren Behandlungsverlaufs
+kann man auf weitere Befunde oder Fakten stoßen,
+welche auf eine vitale Bedrohung hinweisen.
 
-Die Ersteinschätzung muss ständig überprüft werden. Neue
-Befunde und der Zustand des Patienten können die Situation
-ändern.
+Der Einschätzungsblock muss regelmäßig -- in angemessenem
+Umfang -- wiederholt werden, um eine Verschlechterung des
+Patientenzustandes rechtzeitig zu erkennen. 
 
 \subsubsection{Sofortmaßnahmen}
 \label{topic:patientenmanagement-erstmassnahmen}
@@ -992,7 +1031,7 @@ Befunde und der Zustand des Patienten können die Situation
 \Layout{2}{Vital bedrohte Patienten}{%
 Bei vital bedrohten Patienten gibt es 
 \EE{5 {\TxMassVit}},
-die \E{sobald als möglich} (evt. sogar
+die \E{sobald als möglich} (evtl. sogar
 noch vor Abschluss des Ersteinschätzungsblockes) zu erfolgen haben (\begin{inparaenum}
 \item Situationsgerechte Lagerung, 
 \item Sauerstoffgabe (sofern keine Kontraindikation), 
@@ -1008,13 +1047,39 @@ noch vor Abschluss des Ersteinschätzungsblockes) zu erfolgen haben (\begin{inpa
 
 
 \Layout{2}{Nicht vital bedrohte Patienten}{
-Bei
-nicht vital bedrohten Patienten muss individuell überlegt werden welche
-Maßnahmen zuerst zu treffen sind. 
+Auch bei
+nicht vital bedrohten Patienten können Sofortmaßnahmen
+ergriffen werden (z.\,B. Lagerung). Es muss individuell
+überlegt werden, welche Maßnahmen zuerst zu treffen sind
+und welche warten können. 
 }{
 
 }{}{}{}
 
+
+
+
+\subsection{Prioritäten setzen und Plan zurechtlegen}
+
+Nach dem Einschätzungsblock (und der Sofortmaßnahmen) müssen
+nun die Prioritäten des Patienten gesetzt und der weitere
+Plan erstellt werden. Daraus ergeben sich die weiteren
+Handlungsschritte. Ziel ist es, zu erkennen, welche
+Maßnahmen, Untersuchungen und Fragen am dringlichsten sind
+und zuerst durchgeführt werden müssen, und was eher in der
+Abfolge nach hinten ver\-schoben wird.
+
+\emph{Was ist wichtig, was kann warten?} -- Der weitere Ablauf
+ist situations- und patientenabhängig.
+
+\subsection{Weiterführende Diagnostik, Anamnese und Maßnahmen}
+
+
+Die Kurzübersicht in 
+\prettyref{tab:checkliste-patientenmanagement} gibt einen
+Überblick über die mögliche weiterführende Diagnosti, die
+Anamnese und Maßnahmen, die
+Reihenfolge ist bei jedem Patienten anders!
 
 \Layout{2}{Immer durchzuführende Standardmaßnahmen}{%
 \prettyref{m:standardmassnahmen-immer} auf Seite
@@ -1024,31 +1089,15 @@ Patientenbetreuung -- sofern angemessen -- durchgeführt werden müssen.
 
 }{}{}{}
 
-
-\subsubsection{Prioritäten setzen, weiterführende Diagnostik und Maßnahmen}
-
-\emph{Was ist wichtig, was kann warten?} -- Weitere
-Untersuchungen, S-KAMEL und Maßnahmen.
-
-Nach den Erstmaßnahmen muss man nun planen, welche Maßnahmen,
-Untersuchungen und Fragen am dringlichsten sind und zuerst
-durchgeführt werden müssen, und was eher in der Abfolge nach
-hinten ver\-schoben wird.
-
-Die Kurzübersicht in 
-\prettyref{tab:checkliste-patientenmanagement} gibt einen
-Überblick über die weiterführenden Maßnahmen und das Anamnese\-ge\-spräch, die
-Reihenfolge ist bei jedem Patienten anders!
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{table}[ht]
-\begin{WidePar}
+\Layout{57}{}
+{}
+{}
+{%
 \begin{minipage}{\linewidth}
 \FontTableBase
-\Captionof{table}{Kurzübersicht: Weiterführende Untersuchungen und Anamnese.
-Die Reihenfolge ist je nach Patient
-unterschiedlich!\label{tab:checkliste-patientenmanagement}. }
+
 
 {\sffamily\FontTableBase
 \begin{tabulary}{\linewidth}[H]{CCL}
@@ -1159,12 +1208,9 @@ Sonstige körperliche Untersuchungen: Abdomen abtasten, Körperstellen inspizier
   \item Sauerstoffgabe
   \item Regelmäßige \EE{Wiederholung des Einschtzungsblockes} {\tiny(in angemessenem Umfang)}
   \item \EE{Immer durchzuführende Standardmaßnahmen} (\prettyref{topic:standardmassnahmen-immer})
+  \item \ldots
 \end{itemize}
 \end{minipage}
-
-
-
-\ldots
 \\\addlinespace\midrule\addlinespace
 \EE{Assistenz}
 \includegraphics[width=1cm]{icons/asb.png}
@@ -1176,10 +1222,9 @@ Sonstige körperliche Untersuchungen: Abdomen abtasten, Körperstellen inspizier
   \item Intubation vorbereiten
   \item Medikamente vorbereiten
   \item EKG anlegen
+  \item \ldots
 \end{itemize}
 \end{minipage}
-
-\ldots
 \\\addlinespace\midrule\addlinespace
 \EE{Transport}
 
@@ -1202,8 +1247,11 @@ Verbrennungsstation)
 
 {\scriptsize\EE{Fett} gedruckte Punkte haben eine hohe Priorität, (eingeklammerte) Punkte sollten schon als Teil des Einschätzungsblockes abgehandelt worden sein, und werden nur der Vollständigkeit halber erwähnt.}
 \end{minipage}
-\end{WidePar}
-\end{table}
+}
+{Kurzübersicht: Weiterführende Untersuchungen und Anamnese.
+Die Reihenfolge ist je nach Patient
+unterschiedlich!\label{tab:checkliste-patientenmanagement}.}
+{}
 
 
 
@@ -1258,9 +1306,9 @@ Verbrennungsstation)
 % \clearpage
 
 
-\subsubsection{Transport}
+\subsection{Transport}
 
-\subsubsection{Übergabegespräch an weiterbehandelndes Fachpersonal}  
+\subsection{Übergabegespräch an weiterbehandelndes Fachpersonal}  
 
 \Layout{61}{}{%
 Die Übergabe des Patienten in den
@@ -1294,7 +1342,7 @@ Informationen} beinhalten:
 {}
 {GABS}
 
-\subsubsection{Anwendung in der Praxis}
+\subsection{Anwendung in der Praxis}
 
 \Layout{2}{Primäreinsatz}{%
 

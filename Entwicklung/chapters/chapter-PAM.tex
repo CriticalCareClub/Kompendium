@@ -1295,11 +1295,11 @@ Körperstellen inspizieren, \ldots
   \item \EE{Wärmeerhaltung / Kühlung}
   \item Entscheidung Notarzt-Nachforderung wegen
   Schmerztherapie oder Aufklärung/Belassung
-  \item Sauerstoffgabe
+  \item {\TxMassOGabe}
   \item Regelmäßige \EE{Wiederholung des
   Einschätzungsblockes} {\tiny(in angemessenem Umfang)}
   \item \EE{Immer durchzuführende Standardmaßnahmen}
-  (\prettyref{topic:standardmassnahmen-immer})
+  (\prettyref{m:standardmassnahmen-immer})
   \item \ldots
 \end{itemize}
 \end{minipage}
@@ -1340,7 +1340,7 @@ Körperstellen inspizieren, \ldots
 }
 {Kurzübersicht: Weiterführende Untersuchungen und Anamnese.
 Die Reihenfolge ist je nach Patient
-unterschiedlich!\label{tab:checkliste-patientenmanagement}.}
+unterschiedlich!\label{tab:checkliste-patientenmanagement}\label{tab:pam-weiterfuehrende}.}
 {}
 
 
@@ -1546,34 +1546,42 @@ aufgeschoben werden (Selbstschutz, "`Aufklärung"' eines bewusstlosen Patienten,
 
 {\scriptsize (Die Reihenfolge ist der jeweiligen Situation anzupassen!)}
 \begin{itemize}
-  \item Einschätzungsblock
+  \item Einschätzungsblock \prettyref{m:einschaetzungsblock}
   \item Beengende oder behindernde Kleidung entfernen bzw.
   öffnen
   \item Situationsgerechte Lagerung
   \item \E{Wärmeerhalt} oder \E{Kühlung}!
-  \item Erhebung der Anamnese
-  \item Angemessene Untersuchung
+  \item Erhebung der Anamnese \ref{chp:AUP}
+  \item Angemessene Untersuchung \prettyref{tab:pam-weiterfuehrende}
   \item Spezielle Maßnahmen gemäß Verdachtsdiagnose(n)
+  \prettyref{tab:pam-weiterfuehrende}
   \item Patientenidentifkation
   \item Dokumentation, Aufklärung
   \item Psychischer Beistand
   \item Verlaufskontrolle, Patientenbeobachtung\,/\,Monitoring
   \columnbreak
   \item Weiteres Vorgehen, je nach Bedarf und Situation:
-  \begin{itemize}
-    \item Transport an eine geeignete Einrichtung (Krankenanstalt).
+  \begin{itemize}\label{tab:pam-weiterfuehrende}
+    \item Transportentscheidung und ggfs. Transport an eine
+    geeignete Einrichtung (Krankenanstalt).
     \item Notarzt-Nachforderung (bei Bedarf, z.\,B. Schmerztherapie,
-    Aufklärung zwecks Belassung auf Patientenwunsch \E{trotz
-    Behandlungsnotwendigkeit}, \ldots)
-    \item Belassung wenn \E{offensichtlich} kein Behandlungsbedarf/-wunsch
-    besteht und eine gesundheitliche Gefährdung des Patienten ausgeschlossen
-    werden kann.
+    Aufklärung zwecks \E{Belassung}\index{Belassung} auf
+    Patientenwunsch \E{trotz Behandlungsnotwendigkeit}, \ldots)
+    \item Unterlassung der Intervention wenn
+    \E{offensichtlich} kein sanitätsdienstliches Problem
+    besteht (Fehlalarmierung) 
+%     Behandlungsbedarf/-wunsch
+%     besteht und eine gesundheitliche Gefährdung des Patienten ausgeschlossen werden kann.
     \Ca{Rechtliche Hinweise beachten (\prettyref{topic:revers})!}
-    \item Bei Bagatellverletzungen (z.\,B. oberflächliche Schürfwunde) ist es
-    zulässig, dass sich der Patient selbständig in ärztliche
-    Behandlung begibt. Das Anraten, eine ärztliche Behandlung aufzusuchen, ist
-    zu dokumentieren und ggfs. vom Patienten per Unterschrift bestätigen zu
-    lassen (Revers).
+    \item Patient begibt sich selbstständig in weitere
+    Behandlung. Z.\,B. Bagatellverletzungen (z.\,B.
+    oberflächliche Schürfwunde) ist es zulässig, dass sich
+    der Patient selbständig in ärztliche Behandlung begibt.
+    Das Anraten, eine ärztliche Behandlung aufzusuchen, ist
+    zu dokumentieren und ggfs. vom Patienten per
+    Unterschrift bestätigen zu lassen (Revers). Über Risiken
+    muss aufgeklärt (und diese Aufklärung ebenfalls
+    dokumentiert) werden.
   \end{itemize}
   \item Ggfs. Übergabe an weiterbehandelndes Personal
 \end{itemize}
@@ -1584,32 +1592,45 @@ aufgeschoben werden (Selbstschutz, "`Aufklärung"' eines bewusstlosen Patienten,
 
 \MassnahmenNG{Standardmaßnahmen}{Standardmaßnahmen bei vital bedrohten Patienten}{\label{m:standardmassnahmen-vital}}{
 
+
+
 \begin{enumerate}
   \item \EE{Situationsgerechte Lagerung}
-  \item \EE{Sauerstoffgabe}:
-  je nach Indikation, Vorsicht bei COPD und Hyper\-ventilation
+  \item \EE{Sauerstoffgabe}
+  (\prettyref{m:sauerstoffberieselung}): je nach Indikation,
   \item \EE{Notarzt-Nachforderung}:
   mit kurzer Begründung
-  \item \EE{Reanimationsbereitschaft}:
-  Platz schaffen, Beatmungsbeutel zu\-sammen\-bauen, ggfs. Defi und
-  Absaugung holen und in Griffweite stellen
-  \item \EE{Engmaschiges, bestmögliches Monitoring}:
-  RR, HF, Pulsoxymetrie wenn vor\-handen, Sitzwache
+  \item \EE{Engmaschiges, bestmögliches Monitoring}: Je nach
+  vorhandenem Material 
+  
+  RR, HF, Pulsoxymetrie, EKG,
+  Sitzwache/Patientenbeobachtung, etc.\footnote{Zuerst werden die Patientenbeobachtung
+  und -- wenn vorhanden -- die
+  Pulsoxymetrie eingesetzt. Überwachungsgeräte, deren Anlage
+  zeitintensiv ist (EKG, \ldots), sollen erst dann verwendet
+  werden, wenn alle dringlicheren Maßnahmen durchgeführt und
+  der Einschätzungsblock beendet ist!}
+  \item \EE{Reanimationsbereitschaft} hertsellen
+  (\prettyref{m:reanimationsbereitschaft})
 \end{enumerate}
+
+{\scriptsize(Reihenfolge zählt!)}
 }
 
 \MassnahmenNG{Standardmaßnahmen}
 {Reanimationsbereitschaft}
-{}
+{\label{m:reanimationsbereitschaft}}
 {%
 \begin{enumerate}
+  \item Ggfs. Platz schaffen\footnote{Z.\,B. }
   \item Geräte vorbereiten:
 \begin{enumerate}
-    \item Beatmungsbeutel
-    \item Absaugeinheit
-    \item Defibrillator 
+    \item \EE{Beatmungsbeutel}
+    \item \EE{Absaugeinheit} und passenden Katheter  in
+    Griffweite stellen. Steriles Material bleibt verpackt.
+    \item \EE{Defibrillator} in Griffweite stellen,
+    Lelektroden und Verbrauchsmaterial bleibt verpackt.
   \end{enumerate}
-  \item Ggfs. Platz schaffen\footnote{Z.\,B. }
 \end{enumerate}
 
 }

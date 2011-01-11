@@ -1411,11 +1411,10 @@ spätestens dann akute \EE{Lebensgefahr}!
 
 
 
-Beachte: 
 
-\Cave{Bei jedem Patienten ist zu erheben, ob ein Schock
-oder eine realistische Schockgefahr besteht oder nicht bzw. festzustellen um welche Art von
-Schock es sich handelt (s.\,u.)!}
+% \Cave{Bei jedem Patienten ist zu erheben, ob ein Schock
+% oder eine realistische Schockgefahr besteht oder nicht bzw. festzustellen um welche Art von
+% Schock es sich handelt (s.\,u.)!}
 
 \Cave{Ein Schockzustand ist grundsätzlich als vitale
 Bedrohung einzustufen!}
@@ -1427,11 +1426,27 @@ Bedrohung einzustufen!}
 \label{topic:schock-allgemeine-symptomatik}
 \index{Schock!allgemeine Symptomatik}
 
+Die Symptome eine Schocks sind abhängig vom jeweiligen
+Stadium. Problematisch ist, dass am Anfang die Symptome
+eher diskret sind. 
+\Fazit{Das erste Anzeichen eines beginnenden Schocks ist
+oft eine kühle
+Haut\cite{Kaplan2001}!}
+
+Natürlich kann es
+auch andere Ursachen für eine kühle Haut geben, z.\,B. eine
+kalte Umgebungstemperatur.
+
+Die Tabelle
+\prettyref{tab:schocksymptomatik} gibt eine entsprechende Übersicht.
+
 \begin{table}[H]
-\Captionof{table}{Allgemeine Schocksymptomatik.}
+\begin{WidePar}
+\Captionof{table}{Allgemeine
+Schocksymptomatik.\label{tab:schocksymptomatik}}
 \CorrectionItemizeBox\FontTableBase
 
-\begin{tabular}{p{3.5cm}m{1,2cm}p{8cm}}
+\begin{tabularx}{\linewidth}{p{3.5cm}m{1,2cm}X}
 \addlinespace
 \TabHeading{Stadium}
 &
@@ -1502,13 +1517,11 @@ Vollbild}
   \item Patient ist dabei zu sterben.
 \end{itemize}
 \\\addlinespace\bottomrule
-\end{tabular}
+\end{tabularx}
+\end{WidePar}
 \end{table}
 
-\Fazit{Das erste Anzeichen eines beginnenden Schocks ist
-oft eine kühle Haut\cite{Kaplan2001}!}\footnote{Natürlich kann es auch andere
-Ursachen für eine kühle Haut geben, z.\,B. eine kalte
-Umgebungstemperatur}
+
 
 \Layout{0}{Schockschere}
 {
@@ -1543,8 +1556,8 @@ befinden!}
   \item RR\textsubscript{syst}\,{\textless}\,HF
   \item Dann bereits \E{schwerer} Schock
   \item Spätzeichen, auch ohne Schockschere kann Schock bestehen.
-  \item[\Ca{!}] Schockbeurteilung: Schocksymptome und Verdachtsdiagnose,
-  \E{nicht} primär Schockschere!
+  \item[\Ca{!}] \EE{Schockbeurteilung}: Schocksymptome und
+  Verdachtsdiagnose, \E{nicht} primär Schockschere!
   \item Für Kinder nicht anwendbar
 \end{itemize}
 }{}{}{}
@@ -1559,36 +1572,29 @@ befinden!}
 \index{Schock!Arten}
 \label{topic:schock-arten}
 
-\begin{center}
-\CorrectionItemizeBox\FontTableBase
-\begin{tabularx}{\linewidth}[H]{XX}
-\toprule
-\EE{Mechanismus}
- &
-\EE{Schockart}
-\\\midrule
-Herz pumpt zu wenig
-&
-{\begin{itemize}
-    \item Kardiogener Schock
-\end{itemize}}
-\\
-Zu wenig Flüssigkeit\,/\,Blut vorhanden 
- &
-{\begin{itemize}
-    \item Hypovolämischer Schock
-\end{itemize}}
-\\
-Gefäße inadäquat weitgestellt, Blut versackt
- &
-{\begin{itemize}
-    \item Anaphylaktischer Schock
-    \item Septischer Schock, toxischer Schock
-    \item Neurogener Schock
-\end{itemize}}
-\\\bottomrule
-\end{tabularx}
-\end{center}
+Je nach dem zugrunde liegenden Mechanismus unterscheidet man
+verschiedene Schockarten:
+
+\begin{labeling}[~:]{Volumenmm}
+  \item[Volumen] Es ist \E{zu wenig Flüssigkeit} bzw. Blut
+  vorhanden im Gefäßsystem vorhanden
+  \begin{itemize}
+    \item \EE{Hypovolämischer} Schock
+  \end{itemize}
+  \item[Herz] Der \E{Herzauswurf} (bei normalem Volumen) ist
+  zu gering.
+  \begin{itemize}
+    \item \EE{Kardiogener} Schock
+  \end{itemize}
+  \item[Gefäße] Die Gefäße sind inadäquat \E{weitgestellt},
+  das Blut versackt
+  \begin{itemize}
+    \item \EE{Anaphylaktischer} Schock
+    \item \EE{Septischer} bzw. \EE{toxischer} Schock
+    \item \EE{Neurogener} Schock
+  \end{itemize}
+\end{labeling}
+
 
 
 \subsubsection{Hypovolämischer Schock}
@@ -1685,27 +1691,19 @@ STEU: ja, Flachlagerung wenn KI. 2009-06-28}
 \index{Schock!Kardiogener}
 \label{topic:schock-kardiogener}
 
-\Definition{Schock infolge mangelnder Herzpumpleistung.}
-(Die \E{Pulmonalembolie} als Auslöser eines Schocks wird
-auch zum kardiogenen Schock gerechnet, da es durch die
+\Definition{Schock infolge mangelndem Herzauswurfes durch
+insuffiziente Pumpleistung.} 
+
+\Layout{0}{\TxBeschreibung}{%
+Zu einem kardiogenen Schock kann es bei einem \EE{akut
+auftretenden Herzversagen}, z.\,B. durch einem akuten
+\E{Myokardinfarkt} (häufigste Ursache) oder
+\E{Herzrhythmusstörungen}, kommen. Die \E{Lungenembolie} als
+Auslöser eines Schocks wird auch zum kardiogenen Schock gerechnet, da es durch die
 Verstopfung des kleinen Kreislaufes zu einer mangelhaften
 Füllung des Herzens und damit zu einer mangelhaften
-Auswurfleistung kommt.)
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TODO : Überarbeitung
-\TODO{GABS}{2010-mm-yy}{Kardiogener Schock: Überarbeitung
-notwendig.} {Dieser Teil ist nicht gut formuliert und/oder unvollständig, 
-er benötigt eine Überarbeitung!}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{center}
-\CorrectionItemizeBox\FontTableBase
-\begin{tabularx}{\linewidth}[H]{XX}
-\toprule
-Ursachen &
-charakterisiert durch
-\\\midrule
+Auswurfleistung kommt.
+}{%
 \begin{itemize}
   \item Herzversagen, Herzinsuffizienz
   \begin{itemize}
@@ -1714,17 +1712,57 @@ charakterisiert durch
   \end{itemize}
   \item Lungenembolie
 \end{itemize}
-&
+}{}{}{}
+
+\Layout{0}{\TxSymptome}{%
+Typisch ist ein Blutdruckabfall. Durch die den
+\EE{Blutrückstau} kann es zu Stauungszeichen kommen
+(Lungenödem bei Linksherzversagen, Beinödeme und gestaute
+Halsvenen bei Rechtsherzversagen). Häufig klagen die
+Patienten über \EE{Atemnot}.
+
+\vspace{2\baselineskip}
+
+}{%
 \begin{itemize}
   \item RR-Abfall
-  \item Eingeschränkte Pumpleistung
+  \item Stauungszeichen
   \begin{itemize}
-    \item Blut staut sich zurück
+    \item Lungenödem
+    \item Beinödeme, gestaute Halsvenen
   \end{itemize}
+  \item Atemnot
 \end{itemize}
-\\\bottomrule
-\end{tabularx}
-\end{center}
+}{}{}{}
+
+% \begin{center}
+% \CorrectionItemizeBox\FontTableBase
+% \begin{tabularx}{\linewidth}[H]{XX}
+% \toprule
+% Ursachen &
+% charakterisiert durch
+% \\\midrule
+% \begin{itemize}
+%   \item Herzversagen, Herzinsuffizienz
+%   \begin{itemize}
+%     \item Myokardinfarkt (häufigste Ursache)
+%     \item Herzrhythmusstörungen
+%   \end{itemize}
+%   \item Lungenembolie
+% \end{itemize}
+% &
+% \begin{itemize}
+%   \item RR-Abfall
+%   \item Eingeschränkte Pumpleistung
+%   \begin{itemize}
+%     \item Blut staut sich zurück
+%   \end{itemize}
+% \end{itemize}
+% \\\bottomrule
+% \end{tabularx}
+% \end{center}
+
+
 
 % \MassnahmenNG{Spezielle Maßnahmen}{Kardiogener Schock}{}{
 % 
@@ -1757,27 +1795,28 @@ charakterisiert durch
 allergischen Reaktion -- "`Allergischer
 Schock"'.}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TODO : Section: Layout-Anpassung
-\TODO{GABS}{2010-mm-yy}{Allergischer Schock:
-Layout-Anpassung notwendig.}{Dieser Abschnitt entspricht nicht dem Standard-Layout! }
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
- Ausgelöst durch überschießende Reaktion der Körperabwehr (Immunreaktion) auf
-bestimmte Stoffe (Antigene). 
 
-% \begin{center}
-%  [Warning: Image ignored] % Unhandled or unsupported graphics:
-% %\includegraphics[width=2.641cm,height=3.837cm]{AASdev20090228-img70.jpg}
-% \TempPicMissing{Allergischer Schock}
-% \end{center}
+\Layout{0}{\TxBeschreibung}{%
+Ein anaphylaktischer Schock wird durch eine
+über\-schieß\-ende Reaktion der Körperabwehr (Immunreaktion)
+auf bestimmte Stoffe (Antigene) ausgelöst.
 
-Es werden sämtliche Gefäße maximal erweitert, zusätzlich
-steigt die Durchlässigkeit der Gefäße
-(Gefäßpermeabilität ${\uparrow}$) ${\rightarrow}$ 
-Plasmaverlust in den Zwischengewebsraum \Z{(Interstitium)}
-${\rightarrow}$ RR fällt massiv ab!
-
+Durch von den Immunzellen gebildete Stoffe werden
+die Gefäße erweitert, zusätzlich steigt die
+Durchlässigkeit der Gefäße \Z{(Gefäßpermeabilität)}
+Das Blut versackt und es kommt zu einem  Plasmaverlust in
+den Zwischengewebsraum \Z{(Interstitium)}; der Blutdruck
+fällt massiv ab!
+}{%
+\begin{itemize}
+  \item Überschießende
+  Reaktion der Körperabwehr
+  \item Gefäße erweitert, Blut versackt
+  \item Durchlässigkeit der Gefäße ↑, Plasmaverlust in
+  Zwischengewebsraum
+\end{itemize}
+}{}{}{}
 
 
 \Layout{0}{Mögliche Auslöser}
@@ -2089,15 +2128,13 @@ Intensivstation
 \label{topic:temperaturregulation}
 \index{Temperatur!-regulation}
 
-\A{KOCH: \#19: dient nur zur Info, wird nicht geprüft!}
-
 Die normale Körper-Kerntemperatur beträgt
 \EE{37\textcelsius}. Verschiedene Mechanismen sorgen für
 Wärmeerzeugung und -abgabe:
 
 
-
-\begin{tabularx}{\linewidth}{XX}\CorrectionItemizeBox\FontTableBase
+\begin{table}[H]\FormatTable
+\begin{tabularx}{\linewidth}{XX}\FormatTable
 \TabHeading{Wärmeproduktion durch}
 &
 \TabHeading{Wärmeabgabe über}
@@ -2114,13 +2151,14 @@ Wärmeerzeugung und -abgabe:
   
   \begin{itemize}
     \item Wirkung durch Verdunstungskälte
-    \item Ca. 0,5\,{\FontUnits\nicefrac{l}{d}}
-    \item Bis max. 1,5\,{\FontUnits\nicefrac{l}{h}} bei
+    \item Ca. 0,5\,{\FontUnits\nicefrac{\Liter}{d}}
+    \item Bis max. 1,5\,{\FontUnits\nicefrac{\Liter}{h}} bei
     schwerer körperlicher  Arbeit
   \end{itemize}
 \end{itemize}
+\\\addlinespace\bottomrule
 \end{tabularx}
-
+\end{table}
 
 
 

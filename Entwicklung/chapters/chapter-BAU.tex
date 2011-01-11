@@ -479,6 +479,11 @@ muss man den Messwert am Manometer ablesen. Dies ist der
 dieser Methode nicht ermittelt werden.} In der
 Notfallmedizin ist der systolische Wert jedoch ohnehin in der
 Regel der wichtigere.
+
+\bigskip
+
+\bigskip
+
 }{
 \begin{itemize}
   \item Manschette faltenfrei anlegen
@@ -778,13 +783,14 @@ Notfallsymptome auftreten.
 \begin{WidePar}
 \Captionof{table}{Bilderserie: Blutzuckermessung}
 \begin{tabularx}{\linewidth}{XXX}
+\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Blutzucker_32796_export_01312.jpg}
+\Captionof{figure}{Material \SourcePicture{Ch. Pallinger}}
+&
 \includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro6.jpg}
 \Captionof{figure}{BZ-Messung \SourcePicture{Motal}}
 &
 \includegraphics[width=\linewidth]{./images/gabriel-sebastian-aass/bz-wert_1214-00800.jpg}
 \Captionof{figure}{"`90\MgDl*."' \SourcePicture{GABS}}
-&
-
 \\\bottomrule
 \end{tabularx}
 \end{WidePar}
@@ -872,8 +878,8 @@ Grundsätzlich unterscheidet man zwischen den Extremitätenableitungen
 und den Brustwandableitungen. 
 
 \begin{itemize}
-    \item Extremitätenableitungen\Z{: I, II, III, aVL, aVR, aVF}
-    \item Brustwandableitungen\Z{: V1 -- V6}
+    \item Extremitätenableitungen\Z{: \EKG{I}, \EKG{II}, \EKG{III}, \EKG{aVL}, \EKG{aVR}, \EKG{aVF}}
+    \item Brustwandableitungen\Z{: \VonBis{\EKG{V1}}{\EKG{V6}}}
 \end{itemize}
 }{
 \begin{itemize}
@@ -888,7 +894,7 @@ Es haben sich folgende Begriffe eingebürgert:
     \item[Extremitätenableitung] "`\T{Rhythmusstreifen}"'
     zur Beurteilung des Herzrhythmus und zum Monitoring
     \item[Extremitätenableitung\,+\,Brustwandableitung]
-    "`\T{12-Kanal-EKG}"' -- Damit können Schäden der
+    (\T{12-Kanal-EKG}"') -- Damit können Schäden der
     jeweiligen Herzregion zugeordnet werden. Wenn vorhanden,
     ist das 12-Kanal-\Abk{EKG} (\emph{"`12er"'}) für die
     Diagnostik das Mittel der Wahl. 
@@ -905,8 +911,7 @@ Elektrodenpärchen immer auf \EE{gleicher Höhe} angebracht
 werden!
 
 Aus den Informationen der vier Elektroden erzeugt das
-EKG-Gerät \EE{sechs Ableitungen} \Z{(I, II, III, aVL, aVR
-und aVF).}
+EKG-Gerät \EE{sechs Ableitungen} \Z{(\EKG{I}, \EKG{II}, \EKG{III}, \EKG{aVL}, \EKG{aVR} und \EKG{aVF}).}
 }{
 \begin{itemize}
     \item 4 Elektroden an den Extremitäten
@@ -932,6 +937,7 @@ wünschenswert, Dringlichkeit: niedrig}}
 
 
 \begin{table}[H]
+\FormatTable
 \Captionof{table}{Farbe und Positionen der EKG-Elektroden
 für die Extremitätenableitung.}
 
@@ -962,7 +968,7 @@ Die Brustwandableitungen werden mittels sechs Elektroden
 abgeleitet und erlauben eine genauere Zuordnung von Störungen zu der jeweiligen
 Region des Herzens. Aus den Informationen der sechs
 Elektroden erzeugt das \Abk{EKG}-Gerät \EE{sechs
-Ableitungen}: \Z{\VonBis{V1}{V6}}. 
+Ableitungen}: \Z{\VonBis{\EKG{V1}}{\EKG{V6}}}. 
 }{
 \begin{itemize}
     \item 6 Elektroden am Brustkorb.
@@ -975,26 +981,27 @@ Ableitungen}: \Z{\VonBis{V1}{V6}}.
 
 
 \begin{table}[H]
+\FormatTable
 \Z{
 \Captionof{table}{Position der EKG-Elektroden bei der Brustwandableitung.}
 
 \begin{tabulary}{\linewidth}[H]{CL}
-Elektrode
+\TabSub{Elektrode}
  &
-Position
+\TabSub{Position}
 \\\midrule
-V1 & 4. Zwischenrippenraum rechts vom Sternum
+\EKG{V1} & 4. Zwischenrippenraum rechts vom Sternum
 \\
-V2 & 4. Zwischenrippenraum links vom Sternum
+\EKG{V2} & 4. Zwischenrippenraum links vom Sternum
 \\
-V3 & Mitte zwischen V2 und V4
+\EKG{V3} & Mitte zwischen \EKG{V2} und \EKG{V4}
 \\
-V4 & 5. Zwischenrippenraum links in der Verlängerung der
+\EKG{V4} & 5. Zwischenrippenraum links in der Verlängerung der
 Schlüsselbein-Mittellinie
 \\
-V5 & Mitte zwischen V4 und V6
+\EKG{V5} & Mitte zwischen \EKG{V4} und \EKG{V6}
 \\
-V6 & 6. Zwischenrippenraum in der mittleren Achsellinie
+\EKG{V6} & 6. Zwischenrippenraum in der mittleren Achsellinie
 \\\bottomrule
 \end{tabulary}
 }
@@ -1128,7 +1135,7 @@ Untersuchung der wichtigsten neurologischen Funktionen.}
   \item Lichtscheue, Sehstörungen
   \item Kraftprobe
   \item Nackensteifigkeit
-  \item Blutzuckermessung
+  \item[+] Blutzuckermessung
 \end{itemize}
 }{}{}{}
 

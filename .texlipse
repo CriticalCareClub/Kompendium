@@ -1,8 +1,8 @@
 #TeXlipse project settings
-#Sat Dec 04 13:17:36 CET 2010
+#Sun Jan 16 12:31:04 CET 2011
 builderNum=2
 outputDir=Ausgabe/
-makeIndSty=indexstyle.ist
+makeIndSty=aass.ist
 bibrefDir=
 outputFormat=pdf
 tempDir=tmp
@@ -10,4 +10,4 @@ mainTexFile=AASS.tex
 outputFile=AASS.pdf
 langSpell=de
 markDer=true
-srcDir=Entwicklung
+srcDir=Entwicklung/

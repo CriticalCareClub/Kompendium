@@ -9,30 +9,35 @@
 \fancyheadoffset[RE,RO]{\marginparsep+\marginparwidth}
 \fancyfootoffset[RE,RO]{\marginparsep+\marginparwidth}
 
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
+\renewcommand{\headrule}{{\color{Grey}%
+\hrule width\headwidth height\headrulewidth \vskip-\headrulewidth}}
+
 
 %%% HEADER %%%
 % right
-\fancyhead[RO]{{\sffamily{\rightmark} | {\color{ubuntured}\thepage}}}
+\fancyhead[RO]{{\sffamily{\color{Grey}\rightmark~|~}{\color{ubuntured}\thepage}}}
 \fancyhead[RE]{\EE{\AuthNotes{ | {\today} | ENTWURF |}}}
 % left
 \fancyhead[LO]{\EE{\AuthNotes{ | ENTWURF | {\today} |}}}
-\fancyhead[LE]{{\sffamily{\color{ubuntured}\thepage} | \leftmark}}
+\fancyhead[LE]{{\sffamily{\color{ubuntured}\thepage}{\color{Grey}~|~\leftmark}}}
 
 %%% FOOTER %%%
 % right
-\fancyfoot[RO]{{\noindent\AASS{}~ \itshape v.\,\DocVersion}}
+\fancyfoot[RO]{{\noindent\AASS{}~ \sffamily\small v.\,\DocVersion}}
 \fancyfoot[RE]{{\noindent\DocGitCommitTiny}}
 % left
 \fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
-\fancyfoot[LE]{{\noindent\AASS{}~ \itshape v.\,\DocVersion}}
+\fancyfoot[LE]{{\noindent\AASS{}~ \ttfamily\small v.\,\DocVersion}}
 
-\fancyfoot[CE,CO]{{{\tiny {\DocVersionTyp} | Nur für den internen
-Gebrauch!}}}
+\fancyfoot[CE,CO]{{{\sffamily\tiny {\DocVersionTyp} | Nur für den internen
+Gebrauch! \url{http://www.aass.at}}}}
 
-%%% OVERWRITE SETTINGS FOR DRAFT %%%
-\fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\small
-\upshape{\DocVersionTyp} | Nur für den internen
-Gebrauch!}}
+% %%% OVERWRITE SETTINGS FOR DRAFT %%%
+% \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\tiny
+% \upshape{\DocVersionTyp} | Nur für den internen
+% Gebrauch! \url{http://www.aass.at}}}
 
 % 
 
@@ -47,8 +52,8 @@ Gebrauch!}}
 \fancypagestyle{plain}{%
 \fancyhf{} % clear all header and footer fields
 %%% IMMER %%%
-\fancyfoot[RO]{{\noindent\AASS{}~ \itshape v.\DocVersion}}
-\fancyfoot[LE]{{\noindent\AASS{}~ \itshape v.\,\DocVersion}}
+\fancyfoot[RO]{{\noindent\AASS{}~ \sffamily\small v.\DocVersion}}
+\fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\small v.\,\DocVersion}}
 %%% DRAFT %%%
 % \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\small
 % \upshape{\DocVersionTyp} -- \today{}  -- Nur für den internen

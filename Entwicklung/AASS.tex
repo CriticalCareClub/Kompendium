@@ -93,6 +93,20 @@ footnotes=multiple,
 
 \makepagenote
 
+% \newcommand{\MultiColMassnahmenStart}[1]{\addtocontents{lomassnahmen}{\protect\begin{multicols}{#1}}}
+% \newcommand{\MultiColMassnahmenEnd}{\addtocontents{lomassnahmen}{\protect\end{multicols}}}
+% \newcommand{\MultiColFazitStart}[1]{\addtocontents{lofazit}{\protect\begin{multicols}{#1}}}
+% \newcommand{\MultiColFazitEnd}{\addtocontents{lofazit}{\protect\end{multicols}}}
+  
+\newcommand{\MultiColListStart}[2]{\addtocontents{#1}{\protect\begin{multicols}{#2}}}
+\newcommand{\MultiColListEnd}[1]{\addtocontents{#1}{\protect\end{multicols}}}
+
+
+
+
+
+
+
 
 % #######################################################################################################
 % #######################################################################################################
@@ -111,9 +125,9 @@ footnotes=multiple,
 % \setmonofont[SmallCapsFont={* Caps}]{Latin Modern Mono}
 
 % \defaultfontfeatures{Numbers=OldStyle}
-\StartMulticolTOC{2}
-% \addtocontents{lomassnahmen}{\protect\begin{multicols}{2}}
-% \addtocontents{lofazit}{\protect\begin{multicols}{2}}
+\MultiColListStart{toc}{2}
+\MultiColListStart{lofazit}{2}
+\MultiColListStart{lomassnahmen}{2}
 
 \nobibliography*
 
@@ -551,10 +565,9 @@ Sharipov. \SourcePicture{NASA/JSC}}
 SO LONG..........
 
 AND THANKS FOR ALL THE FISH
-% \addtocontents{toc}{\protect\end{multicols}}
-% \addtocontents{lofazit}{\protect\end{multicols}}
-% \addtocontents{lomassnahmen}{\protect\end{multicols}}
-\EndMulticolTOC
+\MultiColListEnd{lomassnahmen}
+\MultiColListEnd{lofazit}
+\MultiColListEnd{toc}
 \begingroup
 \pagestyle{empty}
 \cleardoublepage

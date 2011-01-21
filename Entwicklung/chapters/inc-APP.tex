@@ -191,32 +191,10 @@ $\hookleftarrow$
 \end{tabularx}
 }{Übersicht Normalwerte}{}
 
-
-
-
-
-
-% \begin{table}\FontTableBase
-% \caption{SI Basiseinheiten.}
-% \label{tab:unit:base}
-% \centering
-% \begin{tabular}{llll}
-% \toprule
-% \TabHeading{Maß} & \Z{\TabHeading{Symbol}} & \TabHeading{Einheit} & \TabHeading{Symbol} \\
-% \midrule
-% Stromfluß 	& $I$, $i$ &  Ampere 		& \MetricUnit{A} \\
-% 			& $I_v$ & \Z{Candela} 	& \Z{\MetricUnit{cd}} \\
-% Temperatur 	& $T$ & Kelvin 		& \MetricUnit{K} \\
-% Masse 		& $m$ & Kilogramm 	& \MetricUnit{kg} \\
-% Weg 		& & Meter 		& \MetricUnit{m} \\
-% Stoffmenge 	& $n$ & Mol 			& \MetricUnit{mol} \\
-% Zeit 		& $t$ & Sekunde 		& \MetricUnit{s} \\
-% \bottomrule
-% \end{tabular}
-% \end{table}
+\bigskip
 
 \Layout{57}{}{}{}{
-\begin{tabulary}{\linewidth}{llllllL}
+\begin{tabularx}{\linewidth}{llllllX}
 \toprule\addlinespace
 \TabHeading{Maß}		& \TabHeading{Symbol}& \TabHeading{Einheit}	& \TabHeading{Zeichen}& \TabHeading{Typ}& \TabHeading{Anmerkungen, Anwendungen} & \TabHeading{}\\\addlinespace\midrule\addlinespace
 \EE{Stromfluß} 			& $I$, $i$ 	&  \EE{Ampere} 		& \MetricUnit{A} 		& SI Basis \\
@@ -248,10 +226,10 @@ Leistung 				& 			& Watt 			& \MetricUnit{W} \\\addlinespace
 % \A{???}					&  			& \Z{Lux} 		& \Z{\MetricUnit{lx}}   		& \\
 Magn. Feldstärke 		& 			&  Tesla 		& \MetricUnit{T} & & MRT\\\addlinespace
 % Magn. Fluß 				&  			& \Z{Weber} 	& \Z{\MetricUnit{}} \\
-Masse					& 			& Dalton 		& \MetricUnit{Da}       		& & Angabe der Molekulargröße bei kolloidalen Infusionslösungen \\
+Masse					& 			& Dalton 		& \MetricUnit{Da}       		& & kolloidale Infusionslösungen \\
 Masse					& $m$		& Tonne			& \MetricUnit{t}\\\addlinespace
 Schalldruck 			&  			& Dezibel		& \MetricUnit{dB}\\\addlinespace
-Stoffmenge 				& $n$ 		& Mol 			& \MetricUnit{mol} 				& 	& Stoffmenge bei Infusionszubereitung\\\addlinespace
+Stoffmenge 				& $n$ 		& Mol 			& \MetricUnit{mol} 				& 	& Stoffmenge bei Infusionszubereitung, BZ-Messung\\\addlinespace
 Temperatur 				& $T$		& Grad Celsius 	& \MetricUnit{\textcelsius} 	& 	& \\
 Temperatur 				& $T$ 		& Kelvin 		& \MetricUnit{K} 				& 	& \\\addlinespace
 Volumen 				&			& Liter			& \MetricUnit{l}, {\Liter}\\\addlinespace
@@ -260,109 +238,19 @@ Winkel 					&			& Winkelminute 	& \\
 Winkel 					&			& Winkelsekunde & \\\addlinespace
 Zeit					& $t$		& Tag 			& {\Day}\\
 Zeit					& $t$		& Stunde 			& {\Hour}\\
-Zeit					& $t$		& Minute (Zeit) 	& {\Min}\\\addlinespace
-
-
-
-% {astronomical unit}{astronomicalunit} &  & \MetricUnit{} \\
-% {atomic mass unit}{atomicmassunit} &  & \MetricUnit{} \\
-% \A{???}					&			& \Z{Bohr} 			& \MetricUnit{} \\
-
-
-% {electron mass}{electronmass} &  & \MetricUnit{}  \\
-%  						& 			& {Elektronenvolt} & \MetricUnit{eV} \\\addlinespace
-% {elementary charge}{elementarycharge} &  & \MetricUnit{}  \\
-% {hartree} &  & \MetricUnit{}  \\
-% {reduced Planck constant}{planckbar} &  & \MetricUnit{}  \\
-
-
-% Distanz					& 			&{{\aa}ngstr{\"o}m} 	& \MetricUnit{°A} &  & \\
-
-% {barn} &  & \\
-% && {Bel}   \\
-
-% {knot} &  & \\
-
-% {nautical mile}{nauticalmile} \\
-% {neper} &  & \\
-% {{\aa}ngstr{\"o}m}{angstrom} &  & \\
-\\\addlinespace\bottomrule
-\end{tabulary}
+Zeit					& $t$		& Minute (Zeit) 	& {\Min}\\\addlinespace\midrule\addlinespace
+Dosierung				&			&					& \MgKg 					& & Bezogen auf Körpergewicht, analog {\Gramm}, \MetricUnit{\textmu\Gramm}, {\Ml}, \ldots\\
+Flussrate				&			& 					& \LPerMin 					& & entspricht Dosierung\\
+Infusionsrate			&			&					& \MgKgH 					& & bezogen auf Körpergewicht\\
+Infusionsrate			&			&					& \MugKgH 					& & bezogen auf Körpergewicht\\
+Infusionsrate			&			&					& \MugKgMin 				& & bezogen auf Körpergewicht\\\addlinespace
+Masseanteil				& 			&					& \MgDl 					& & Blutzuckermessung\\
+Masseanteil				&			&					& \MetricUnit{\nicefrac{\Mg}{\PC}}& & gleichbedeutend mit \MgDl\\\addlinespace\bottomrule
+\end{tabularx}
 }{Übersicht Gebräuchliche Einheiten}{}
 
 
-% \begin{table}\FontTableBase
-% \caption{Coherent derived units in the SI with special names and
-% symbols.}
-% \label{tab:unit:derived}
-% \centering
-% \begin{tabular}{lll>{\qquad}lll}
-% \toprule
-% \TabHeading{Unit} & \TabHeading{Macro} & \TabHeading{Symbol} & \TabHeading{Unit} & \TabHeading{Macro} & \TabHeading{Symbol}
-% \\
-% \midrule
-% &&\MetricUnit{} 		& &&\MetricUnit{N}    \\
-% Grad Celsius & Temperatur 			&\MetricUnit{\textcelsius} & Ohm 	& Elektr. Widerstand 		&\MetricUnit{$\Omega$}\\
-% \Z{Coulomb}	& Elektr. Ladung		& \Z{\MetricUnit{C}}   	& Pascal 	& Druck 					&\MetricUnit{Pa} \\
-% \Z{Farad} 	& \Z{Kapazität} 		& \Z{\MetricUnit{F}}    & 			&  							&\MetricUnit{} \\
-% \Z{Gray} 	& \Z{Absorptionsdosis} 	& \Z{\MetricUnit{Gy}} 	& Siemens 	& Elektr. Konduktivität		&\MetricUnit{S} \\
-% Hertz 		& Frequenz				& \MetricUnit{Hz}     	& Sievert 	& Dosisäquivalent			&\MetricUnit{Sv} \\
-% \Z{Henry} 	& \Z{Indukktivität} 	& \Z{\MetricUnit{H}}    & 			&  							&\MetricUnit{} \\
-% Joule 		& Energie, Arbeit		& \MetricUnit{J}     	& Tesla 	& magnetsiche Feldstärke 	&\MetricUnit{T} \\
-% \Z{Katal} 	&  						& \Z{\MetricUnit{kat}}  & Volt 		& Spannung 					&\MetricUnit{V} \\
-% \Z{Lumen} 	&  						& \Z{\MetricUnit{lm}}   & Watt 		& Leistung 					&\MetricUnit{W} \\
-% \Z{Lux} 	&  						& \Z{\MetricUnit{lx}}   & \Z{Weber} & Magn. Fluß 				&\Z{\MetricUnit{}} \\
-% \bottomrule
-% \end{tabular}
-% \end{table}
-
-
-% \begin{table}\FontTableBase
-% \caption{Non-SI units accepted for use with the
-%    International System of Units.}
-% \label{tab:unit:accepted}
-% \centering
-% \begin{tabular}{ll}
-% \toprule
-% Unit &  Symbol
-% \\\midrule
-% % Tag 			& {\day}\\
-% Grad 			& {\textdegree}\\
-% 				& {} \\
-% Stunde 			& {\Hour}\\
-% Liter 			& \MetricUnit{l}, {\Liter}\\
-% Winkelminute 	& \\
-% Minute (Zeit) 	& {\Min}\\
-% Winkelsekunde 	& \\
-% 				& \MetricUnit{t}
-% \\\bottomrule
-% \end{tabular}
-% \end{table}
-% 
-% \begin{table}\FontTableBase
-% \caption{Non-SI units whose values in SI units must be obtained
-% experimentally.}
-% \label{tab:unit:physical}
-% \centering
-% \begin{tabular}{lll}
-% \toprule
-% \TabHeading{Unit} & \TabHeading{Macro} & \TabHeading{Symbol} \\
-% \midrule
-% % {astronomical unit}{astronomicalunit} &  & \MetricUnit{} \\
-% % {atomic mass unit}{atomicmassunit} &  & \MetricUnit{} \\
-% {bohr} &  & \MetricUnit{} \\
-% % {speed of light}{clight} &  & \MetricUnit{} \\
-% Dalton &  & \MetricUnit{Da}       \\
-% % {electron mass}{electronmass} &  & \MetricUnit{}  \\
-% {electronvolt} &  & \MetricUnit{eV} \\
-% % {elementary charge}{elementarycharge} &  & \MetricUnit{}  \\
-% % {hartree} &  & \MetricUnit{}  \\
-% % {reduced Planck constant}{planckbar} &  & \MetricUnit{}  \\
-% \bottomrule
-% \end{tabular}
-% \end{table}
-
-
+\bigskip
 
 
 \Layout{57}{}{}{}{
@@ -400,6 +288,17 @@ Zeit					& $t$		& Minute (Zeit) 	& {\Min}\\\addlinespace
 \nocite{Erc2005Sec7}
 \nocite{Erc2005Sec8}
 \nocite{Erc2005Sec9}
+
+\nocite{Erc2010Sec1}
+\nocite{Erc2010Sec2}
+\nocite{Erc2010Sec3}
+\nocite{Erc2010Sec4}
+\nocite{Erc2010Sec5}
+\nocite{Erc2010Sec6}
+\nocite{Erc2010Sec7}
+\nocite{Erc2010Sec8}
+\nocite{Erc2010Sec9}
+\nocite{Erc2010Sec10}
 
 \nocite{Erc2005DeSec1}
 \nocite{Erc2005DeSec2}

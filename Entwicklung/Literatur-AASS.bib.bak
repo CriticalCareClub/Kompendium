@@ -3710,10 +3710,71 @@
   note = {Wien, am 3.Dezember 2010},
   institution = {Arbeiter-Samariter-Bund \"Osterreichs},
   organization = {Arbeiter-Samariter-Bund \"Osterreichs},
+  file = {:/home/grissu/Workspace/eclipse-workspace/aass/Entwicklung/Literatur/ASBOeRundschreiben2010Nr11.pdf:PDF},
   language = {ngerman},
   number = {11},
   owner = {grissu},
   timestamp = {2011.01.21}
+}
+
+@BOOK{ThunRedenI46,
+  title = {St\"orungen und Kl\"arungen. Allgemeine Psychologie der Kommunikation},
+  publisher = {rororo},
+  year = {1981},
+  author = {Friedemann Schulz von Thun},
+  volume = {1},
+  pages = {272},
+  series = {Miteinander reden. Differentielle Psychologie der Kommunikation},
+  edition = {46},
+  language = {german},
+  isbn = {3499174898},
+  owner = {grissu},
+  timestamp = {2010.11.05}
+}
+
+@BOOK{ThunRedenII30,
+  title = {Stile, Werte und Pers\"onlichkeitsentwicklung. Differentielle Psychologie
+	der Kommunikation},
+  publisher = {rororo},
+  year = {1989},
+  author = {Friedemann Schulz von Thun},
+  volume = {2},
+  series = {Miteinander reden},
+  edition = {30},
+  language = {german},
+  isbn = {3499184966},
+  owner = {grissu},
+  timestamp = {2010.11.05}
+}
+
+@BOOK{ThunRedenIII19,
+  title = {Das "`Innere Team"' und situationsgerechte Kommunikation. Differentielle
+	Psychologie der Kommunikation},
+  publisher = {rororo},
+  year = {2010},
+  author = {Friedemann Schulz von Thun},
+  volume = {3},
+  series = {Miteinander reden},
+  edition = {19},
+  language = {german},
+  isbn = {3499605457},
+  owner = {grissu},
+  timestamp = {2010.11.05}
+}
+
+@ELECTRONIC{FamPropAeGeFue2010,
+  author = {Oskar Frischenschlager and Ingrid Pucher and Michael Schmidts and
+	Andrea Weghofer and Sebastian Gabriel and Gabriele Mayerhofer},
+  year = {2010},
+  title = {\"Arztliche Gespr\"achsf\"uhrung, Teil A: Das Erstgespr\"ach},
+  language = {ngerman},
+  howpublished = {online},
+  organization = {DEMAW},
+  note = {Version 0.2.0},
+  url = {https://m3e.meduniwien.ac.at/studyguide/learningmaterial/2/1899/lernunterlage-fuer-praktikum-und-kos-test.pdf},
+  file = {:/home/grissu/Workspace/eclipse-workspace/aass/Entwicklung/Literatur/FamPropAeGeFue2010.pdf:PDF},
+  owner = {grissu},
+  timestamp = {2011.01.22}
 }
 
 @comment{jabref-meta: selector_publisher:}

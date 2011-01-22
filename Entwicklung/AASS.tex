@@ -541,70 +541,34 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \include{./chapters/chapter-INT}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Kommentare
 \printnotes
-
-
-
-\input{./chapters/inc-APP}
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Literaturverzeichnis
+\opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\scriptsize\setlength{\parskip}{0pt}\cleardoublepage\bibliography{Literatur-AASS}\restoregeometry}\onecolumn}
 
-\opt{STATUS-WITH-BIBLIO}
-{{\loadgeometry{FullPage}\twocolumn
-\scriptsize\setlength{\parskip}{1pt}\cleardoublepage\bibliography{Literatur-AASS}%
-\restoregeometry}
-%    \end{WidePar}
-\onecolumn
-}
-
-
-
-
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Index
 % \clearpage
-% \chapter{Glossar}
-% 
-% \begin{description}
-%   \item[Anatomie]
-%   \item[Chirurgie]
-%   \item[Hygiene]
-% \end{description}
+{\small\printindex}
 
+\input{./chapters/inc-APP}
 
-
-
-% \setglossarysection{chapter}
-
-% \printglossary[type=main,title={Lexikon}]
-
-\clearpage
+% \begin{figure}[H]
 % \begin{WidePar}
-{\small
-\printindex
-}
+% \includegraphics[width=\linewidth]{./images/nasa-pd/114125main_image_feature_323_ys_full-00800.jpg}
+% 
+% \Captionof{figure}{Orbital ›Thumbs Up‹.
+% The Expedition 10 and 11 crews give the >>thumbs up<< after the change of
+% command ceremony on the International Space Station on April 22, 2005. From left:
+% Expedition 11 Flight Engineer John L. Phillips, Expedition 11 Commander Sergei K.
+% Krikalev, Expedition 10 Commander Leroy Chiao, European Space Agency (ESA)
+% astronaut Roberto Vittori of Italy; and Expedition 10 Flight Engineer Salizhan S.
+% Sharipov. \SourcePicture{NASA/JSC}}
 % \end{WidePar}
-
-
-
-
-
-
-\begin{figure}[H]
-\begin{WidePar}
-\includegraphics[width=\linewidth]{./images/nasa-pd/114125main_image_feature_323_ys_full-00800.jpg}
-
-\Captionof{figure}{Orbital ›Thumbs Up‹.
-The Expedition 10 and 11 crews give the >>thumbs up<< after the change of
-command ceremony on the International Space Station on April 22, 2005. From left:
-Expedition 11 Flight Engineer John L. Phillips, Expedition 11 Commander Sergei K.
-Krikalev, Expedition 10 Commander Leroy Chiao, European Space Agency (ESA)
-astronaut Roberto Vittori of Italy; and Expedition 10 Flight Engineer Salizhan S.
-Sharipov. \SourcePicture{NASA/JSC}}
-\end{WidePar}
-\end{figure}
+% \end{figure}
 SO LONG..........
 
 AND THANKS FOR ALL THE FISH

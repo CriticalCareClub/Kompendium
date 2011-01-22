@@ -46,22 +46,27 @@ Betreuung}.
 {\TxTeilkapitelAASS}
 }
 
-\begin{WidePar}
-\Parallel{
-\minisec{{\TxQuerverweise}}
-\begin{itemize}
+% \begin{WidePar}
+% \Parallel{
+% \minisec{{}}
+% 
+% }{
+% 
+% }
+% \end{WidePar}
+
+\Layout{0}{\TxQuerverweise}
+{~
+
+\noindent\includegraphics[angle=270,width=\linewidth]{./images/leitsystem/Leitschema-PAM_AUP.pdf}
+}{\begin{itemize}
   \item \EE{Beschreibung der Medizinprodukte}: \CO{[MP1, MP2]} 
   (\ref{chp:MP1}, \ref{chp:MP2}).
   \item \EE{Untersuchungen}:                 \CO{[BAU]} (\ref{chp:BAU}).
   \item \EE{Sanitätshilfemaßnahmen}:         \CO{[SAN]} (\ref{chp:SAN}).
 %   \item \EE{Anamnese und Patientengespräch}: \CO{[AUP]} (\ref{chp:AUP}).
 \end{itemize}
-}{
-\includegraphics[angle=270,width=\linewidth]{./images/leitsystem/Leitschema-PAM_AUP.pdf}
-}
-\end{WidePar}
-
-
+}{}{}{}{}
 
 
 
@@ -120,11 +125,11 @@ aufbauen können:
     Verlauf an, dass er sie bereits gesagt und das
     Fachpersonal sie verstanden hat.
     
-    Negativbeispiel: \begin{inparadesc}
+    Negativbeispiel: \begin{quote}\begin{inparadesc}
                      \item[Sanitäter:] \Speech{"`Haben Sie Schmerzen?"'}
                      \item[Patient:] \Speech{"`Nein."'}
                      \item[Sanitäter:] \Speech{"`Wie stark ist der Schmerz?"'}
-                     \end{inparadesc}
+                     \end{inparadesc}\end{quote}
     \item[Verstehen] Versuchen Sie zu verstehen was der
     Patient \E{meint}! Wiederholen Sie wichtige
     Informationen um sicher zu gehen dass Sie es richtig
@@ -172,19 +177,10 @@ sind.
 \begin{quote}
   \Speech{"`Was haben Sie für ein Problem?"'}
   
-  \Speech{"`Bitte beschreiben Sie den Schmerz"'}
+  \Speech{"`Bitte beschreiben Sie den Schmerz."'}
 \end{quote}
 
-\subparagraph{Gezielte Fragen} fokussieren die Antwort des
-Patienten und
-  lassen sich nur schwer "`umgehen"'. Sie dienen der
-  Präzisierung. Werden zu
-viele von diesen Fragen gestellt, kann das Gespräch leicht
-in eine "`Einbahnstraße"' abgleiten.
-\begin{quote}
-  \Speech{"`Wohin strahlt der
-  Schmerz aus?"'}
-\end{quote}
+
 
 \subparagraph{Geschlossene Fragen} sind sehr direkt und
 speziell, der Patient kann i.\,d.\,R. nur mit \emph{"`ja"'},
@@ -200,8 +196,22 @@ ohne dass sie die Frage wirklich verstanden haben!
   \Speech{"`Haben Sie das schon einmal gehabt?"'}
 \end{quote}
 
+\subparagraph{Gezielte Fragen} fokussieren die Antwort des
+Patienten und
+  lassen sich nur schwer "`umgehen"'. Sie dienen der
+  Präzisierung. Werden zu
+viele von diesen Fragen gestellt, kann das Gespräch leicht
+in eine "`Einbahnstraße"' abgleiten. Gezielte Fragen können
+sowohl offen, als auch geschlossen sein.
+\begin{quote}
+  \Speech{"`Wohin strahlt der
+  Schmerz aus?"'}
+\end{quote}
+
 \subparagraph{Suggestivfragen} sind "`böse"': Hier
-legt der Gesprächsführende den Patienten die Antworten "`in den Mund"'. 
+legt der Gesprächsführende den Patienten die Antworten "`in
+den Mund"'. Sie können sowohl als offene, als auch als
+geschlossene Fragen formuliert werden.
 
 \begin{quote}
   \Speech{"`Haben Sie \emph{eh keine} Schmerzen?"'}
@@ -217,9 +227,9 @@ soll nicht -- oder nur im begründeten Ausnahmefall -- angewendet werden.
 % TODO VIT: Slide fehlt!
 \begin{itemize}
     \item Offene Fragen
-    \item Gezielte Fragen
     \item Geschlossene Fragen
-    \item Suggestivfragen (böse!)
+    \item Gezielte Fragen
+    \item Suggestivfragen $\skull$
 \end{itemize}
 }{}{}{}
 

@@ -279,40 +279,6 @@ Wohl des Kranken ist oberstes Gebot.}}.
 
 \input{./inputs/input-Lizenzen.tex}
 
-
-
-
-
-
-
-
-
-\begin{WidePar}
-  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
-\end{WidePar}
-% {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
-
-%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
-\dominitoc[n]
-
-\begin{WidePar}
-  {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
-
-% {\small\listoffigures}
-% 
-% {\small\listoftables}
-
-{\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
-
-{\scriptsize\kern-2.ex\listof{fazit}{Leitsätze}}
-\end{WidePar}
-
-
-
-
-
-
-
 \opt{STATUS-DRAFT}{
 \subsection*{Projektorthographie}
 
@@ -344,28 +310,6 @@ mMxX}
 
 \section{Benutzungshinweise}
 
-
-\Layout{2}{Symbole}{%
-\begin{labeling}{mmm}
-  \item[\SignFigure] \ Abbildungen
-  \item[\SignLeitsatz] \ Leitsätze
-  \item[\SignMassnahme] \ Maßnahmen
-  \item[\SignTable] \ Tafeln
-\end{labeling}
-}{}{}{}{}
-
-
-
-\Layout{2}{Index}{%
-\begin{description}
-  \item[Zusammengesetzte Begriffe] Eigenschaftswort
-  Hauptwort → Hauptwort, Eigenschaftswort; "`Begriffe,
-  zusammengesetzte"'
-  \item[Umlaute] Ä, Ö, Ü → Ae, Oe, Ue
-\end{description}
-}{}{}{}{}
-
-
 \Layout{2}{Im Text}{%
 \E{Betonte} Textteile sind kursiv, \EE{Besonders stark
 betonte} sind fett gedruckt. \T{Fachbegriffe}, welche an
@@ -391,12 +335,62 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 }{}{}{}{}
 
+\Layout{2}{Symbole}{%
+\begin{multicols}{2}
+\begin{labeling}{mmm}
+  \item[\SignFigure] \ Abbildungen
+  \item[\SignLeitsatz] \ Leitsätze
+  \item[\SignMassnahme] \ Maßnahmen
+  \item[\SignTable] \ Tafeln
+\end{labeling}
+\end{multicols}
+}{}{}{}{}
+
+
+
+\Layout{2}{Index}{%
+\begin{description}
+  \item[Zusammengesetzte Begriffe] Eigenschaftswort
+  Hauptwort → Hauptwort, Eigenschaftswort; "`Begriffe,
+  zusammengesetzte"'
+  \item[Umlaute] Ä, Ö, Ü → Ae, Oe, Ue
+\end{description}
+}{}{}{}{}
+
+
 % \opt{STATUS-EXPERIMENTAL}{
 % \paragraph{dfklnsdalf} dfgfd  sdafmkladfm df dflkgdslfkg dsflkgj dslfkg ldfskjg lkdsfjg lkdsfjgl ksdfghjo irtlksn lknoklsfdng odfs godsfi godsfg lkdsfg jlfsdkng lfsnhlkfgnh lkfgnh lfdgn hlfdgh fdgh ghjdgfh jgfhj fghj ghj hjkhfjgk hjgzj zt
 % utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
 % \parpic[r]{\includegraphics[width=3cm]{./icons/under-construction.png}}
 % 
 % }
+
+
+
+
+
+
+
+\begin{WidePar}
+  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
+\end{WidePar}
+% {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
+
+%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
+\dominitoc[n]
+
+\begin{WidePar}
+  {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
+
+% {\small\listoffigures}
+% 
+% {\small\listoftables}
+
+{\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
+
+{\scriptsize\kern-2.ex\listof{fazit}{Leitsätze}}
+\end{WidePar}
+
 
 % \begin{WidePar}
 \part{Allgemeiner Teil}

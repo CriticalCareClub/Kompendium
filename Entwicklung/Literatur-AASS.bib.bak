@@ -4365,6 +4365,61 @@
   url = {http://dx.doi.org/10.1503/cmaj.071154}
 }
 
+@ARTICLE{Wang2008,
+  author = {Henry E Wang and Lawrence J Cook and Chung-Chou H Chang and Donald
+	M Yealy and Judith R Lave},
+  title = {Outcomes after out-of-hospital endotracheal intubation errors.},
+  journal = {Resuscitation},
+  year = {2008},
+  month = {Oct},
+  abstract = {INTRODUCTION: We sought to evaluate the association between three
+	key out-of-hospital endotracheal intubation (ETI) errors and patient
+	outcomes. METHODS: We prospectively collected multicenter data on
+	out-of-hospital ETI attempted by Emergency Medical Service (EMS)
+	rescuers. We probabilistically linked these data to statewide EMS,
+	death and hospital discharge data sets. The key ETI error events
+	were (1) endotracheal tube misplacement or dislodgement, (2) multiple
+	ETI attempts (>/=4 laryngoscopies) and (3) failed ETI. The primary
+	outcomes were death (survival to hospital discharge) and secondary
+	complications identified through ICD-9 discharge diagnoses. Using
+	Cox regression with heavyside functions, we identified the associations
+	between out-of-hospital ETI errors and early (in the field or emergency
+	department) and later (on or after hospital admission) death. We
+	censored non-linked cases, adjusted for important clinical covariates,
+	and used a shared frailty regression model to account for clustering
+	by EMS agency. We evaluated the associations between out-of-hospital
+	ETI errors and secondary complications using univariable odds ratios
+	with exact 95\% confidence intervals. 
+	
+	
+	RESULTS: Of 1954 out-of-hospital ETI, 444 (22.7\%) patients experienced
+	one or more ETI errors, including tube misplacement or dislodgement
+	in 61 (3\%), multiple ETI attempts in 62 (3\%) and failed ETI in
+	359 (15\%). Of the 1196 (61\%) cases linked to outcomes, 872 (73\%)
+	died and 323 (27\%) survived to hospital discharge. ETI errors were
+	not associated with early death (tube misplacement or dislodgement:
+	Hazard Ratio 0.98, 95\% CI 0.65-1.47; multiple ETI attempts: 1.22,
+	0.80-1.85; failed ETI: 1.10, 0.88-1.39) or later death (tube misplacement
+	or dislodgement: 0.40, 0.10-1.62; multiple ETI attempts: 1.77, 0.23-13.30;
+	failed ETI: 0.76, 0.47-1.25). Pneumonitis was associated with failed
+	ETI (n=20, 19\%; univariable OR 2.54; 95\% CI 1.24-5.25). 
+	
+	
+	CONCLUSION: Out-of-hospital ETI errors are not associated with mortality.
+	Failed out-of-hospital ETI increases the odds of pneumonitis.},
+  doi = {10.1016/j.resuscitation.2008.08.016},
+  file = {:/home/grissu/Workspace/eclipse-workspace/aass/Entwicklung/Literatur/Wang2008.pdf:PDF},
+  institution = {Department of Emergency Medicine, University of Pittsburgh, Pittsburgh,
+	PA, United States.},
+  owner = {grissu},
+  pii = {S0300-9572(08)00650-3},
+  pmid = {18952357},
+  review = {Out-of-hospital ETI errors are not associated with mortality. Failed
+	out-of-hospital ETI increases the odds of pneumonitis.},
+  timestamp = {2008.12.07},
+  url = {http://dx.doi.org/10.1016/j.resuscitation.2008.08.016}
+}
+
 @comment{jabref-meta: selector_publisher:}
 
 @comment{jabref-meta: selector_author:}

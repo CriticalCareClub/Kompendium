@@ -25,11 +25,13 @@
 }
 
 
+\clearpage % TODO temp clearpage
 \section{Schwangerschaft}
+\HeadingSub{\Lang{Term.} {Gestation}}
 
-\subsection{Weiblicher Zyklus}
+\subsection{Allgemeines}
 
-\Layout{0}{\TxBeschreibung}{%
+\Layout{0}{Exkurs: Weiblicher Zyklus}{%
 Der Begriff Zyklus oder Periode beschreibt in diesem
 Zusammenhang den Vorgang des rund alle \EE{28 Tage}
 stattfindenden Reifens mindestens einer Eizelle, dem
@@ -48,10 +50,6 @@ unter
 
 
 
-
-\subsection{Schwangerschaft}
-
-\HeadingSub{\Lang{Term.} {Gestation}}
 
 \Layout{0}{Schwangerschaftsdauer}{%
 Die normale Schwangerschaft dauert \EE{40 Wochen $\pm$ 2
@@ -173,7 +171,7 @@ Frühgeburt als reanimationspflichtig.
 % SSW erfolgt.
 
 
-
+\clearpage % TODO temp clearpage
 \subsection{Notfälle -- Frühschwangerschaft}
 \label{topic:notfall-fruehschwangerschaft}
 
@@ -324,7 +322,7 @@ Schwangerschaft abgeklärt werden!}
 }
 
 
-
+\clearpage % TODO temp clearpage
 \subsection{Notfälle -- Spätschwangerschaft}
 \label{topic:notfall-spaetschwangerschaft}
 
@@ -1122,6 +1120,7 @@ Neugeborenen} {\label{m:asphyxie}}
 \end{itemize}
 }
 
+\clearpage % TODO temp clearpage
 \section{Sonstige gynäkologische Erkrankungen und
 Notfälle}
 
@@ -1165,9 +1164,25 @@ Vitalwerte eingeschätzt werden.
 }
 
 
-\section*{Weiterführende Literatur}
-\noindent\SymbolLiteratur{} 
-\cite{HaagGyn2007,
+\section*{\protect\dsliterary{} Weiterführende Literatur}
+\begin{WidePar}
+\begin{multicols}{2}
+\Z{%
+\begin{labeling}{mmm}
+  \item[\cite{HaagGyn2007}]
+  \emph{\bibentry{HaagGyn2007}} 
+  \item[\cite{BuehlingGynaekologie1}] 
+  \emph{\bibentry{BuehlingGynaekologie1}}
+    \item[\cite{OHCSP7}] 
+  \emph{\bibentry{OHCSP7}}
+  \item[\cite{Nilsson1997}] 
+  \emph{\bibentry{Nilsson1997}} 
+\end{labeling}
+}
+\end{multicols}
+\end{WidePar}
+\paragraph{Weiters}
+\cite{
 SiewertChirurgie8,
 AMLS3,
 % Erc2005DeSec5,
@@ -1175,19 +1190,12 @@ AMLS3,
 % Erc2005DeSec6,
 % Erc2005DeSec3,
 % Erc2005Sec3,
-Juurlink2005,
-Kalla2006,
-Vlcek2008,
-Wells2000,
 BoehmerTaschRett6,
 Fauci2008,
 LPN3,
 Boecker2,
 % Helfen2008,
 LippertAnatomie7,
-Nilsson1997,
-Patzelt2005,
-Sachsenweger2003,
 RedelsteinerHRNS1,
 ForMed2,
 StriebelAn7,
@@ -1197,5 +1205,13 @@ ForthPharma8,
 LuellmannPharma16,
 AnCompact3,
 RueckerBildatlas1}
+
+\nocite{Juurlink2005,
+Kalla2006,
+Vlcek2008,
+Wells2000,
+Patzelt2005,
+Sachsenweger2003,
+}
 
 \ChapterBibliography

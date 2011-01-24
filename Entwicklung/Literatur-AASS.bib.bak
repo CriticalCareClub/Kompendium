@@ -3952,7 +3952,7 @@
   volume = {25},
   pages = {501--509},
   number = {2},
-  language = {eng},
+  language = {english},
   abstract = {Paramedics provide life-saving emergency medical care to patients
 	in the out-of-hospital setting, but only selected emergency interventions
 	have proved to be safe or effective. Endotracheal intubation (the
@@ -3990,7 +3990,7 @@
   pages = {532--541},
   number = {6},
   month = {Jun},
-  language = {eng},
+  language = {english},
   abstract = {While remaining prominent in paramedic care and beneficial to some
 	patients, out-of-hospital endotracheal intubation has not clearly
 	improved survival or reduced morbidity from critical illness or injury
@@ -4094,7 +4094,7 @@
   pages = {619--623},
   number = {3},
   month = {Mar},
-  language = {eng},
+  language = {english},
   abstract = {Rapid establishment of a patent airway in ill or injured patients
 	is a priority for prehospital rescue personnel. Out-of-hospital tracheal
 	intubation can be challenging. Unrecognized esophageal intubation
@@ -4147,7 +4147,7 @@
   pages = {1167; author reply 1169},
   number = {4},
   month = {Oct},
-  language = {eng},
+  language = {english},
   abstract = {Unavailability of Capnometry: A Legal Issue
 	
 	
@@ -4309,7 +4309,7 @@
   pages = {1141--1152},
   number = {9},
   month = {Apr},
-  language = {eng},
+  language = {english},
   __markedentry = {[grissu]},
   abstract = {To date, the benefit of prehospital advanced life-support programs
 	on trauma-related mortality and morbidity has not been establishedThe
@@ -4372,6 +4372,7 @@
   journal = {Resuscitation},
   year = {2008},
   month = {Oct},
+  language = {english},
   abstract = {INTRODUCTION: We sought to evaluate the association between three
 	key out-of-hospital endotracheal intubation (ETI) errors and patient
 	outcomes. METHODS: We prospectively collected multicenter data on
@@ -4418,6 +4419,42 @@
 	out-of-hospital ETI increases the odds of pneumonitis.},
   timestamp = {2008.12.07},
   url = {http://dx.doi.org/10.1016/j.resuscitation.2008.08.016}
+}
+
+@BOOK{NetterPaediatrie1,
+  title = {Netters P\"adiatrie},
+  publisher = {Thieme},
+  editor = {Frank H. Netter},
+  edition = {1},
+  language = {ngerman},
+  isbn = {3-13-124581-6},
+  owner = {grissu},
+  timestamp = {2011.01.24}
+}
+
+@BOOK{ZechaOpGehilfe1,
+  title = {Der Operationsgehilfe. Theorie und Praxis},
+  publisher = {Maudrich},
+  year = {2000},
+  author = {Hermann Zecha},
+  edition = {1},
+  language = {ngerman},
+  isbn = {3-85175-742-4},
+  owner = {grissu},
+  timestamp = {2011.01.24}
+}
+
+@BOOK{SitzmannPaediatrie2,
+  title = {P\"adiatrie},
+  publisher = {Thieme},
+  year = {2002},
+  editor = {Friedrich Carl Sitzmann},
+  series = {Duale Reihe},
+  edition = {2},
+  language = {ngerman},
+  isbn = {3-13-125332-0},
+  owner = {grissu},
+  timestamp = {2011.01.24}
 }
 
 @comment{jabref-meta: selector_publisher:}

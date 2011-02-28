@@ -5,7 +5,7 @@ asymmetric,
 fontsize=9pt,
 % headings=small,
 draft=false,
-% parskip=half,
+parskip=half,
 % listof=totoc,         % verschiebt Minitoc/Hyperref
 % bibliography=totoc,   % verschiebt Minitoc/Hyperref
 bibtotocnumbered,
@@ -101,6 +101,7 @@ footnotes=multiple,
   
 \newcommand{\MultiColListStart}[2]{\addtocontents{#1}{\protect\begin{multicols}{#2}}}
 \newcommand{\MultiColListEnd}[1]{\addtocontents{#1}{\protect\end{multicols}}}
+\newcommand{\Sign}[1]{{\sffamily#1}}
 
 
 
@@ -119,6 +120,7 @@ footnotes=multiple,
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
+\pagestyle{scrheadings}
 
 % \setmainfont[SmallCapsFont={* Caps},
 % Mapping=tex-text]{Latin Modern Roman}
@@ -279,40 +281,6 @@ Wohl des Kranken ist oberstes Gebot.}}.
 
 \input{./inputs/input-Lizenzen.tex}
 
-
-
-
-
-
-
-
-
-\begin{WidePar}
-  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
-\end{WidePar}
-% {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
-
-%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
-\dominitoc[n]
-
-\begin{WidePar}
-  {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
-
-% {\small\listoffigures}
-% 
-% {\small\listoftables}
-
-{\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
-
-{\scriptsize\kern-2.ex\listof{fazit}{Leitsätze}}
-\end{WidePar}
-
-
-
-
-
-
-
 \opt{STATUS-DRAFT}{
 \subsection*{Projektorthographie}
 
@@ -344,28 +312,6 @@ mMxX}
 
 \section{Benutzungshinweise}
 
-
-\Layout{2}{Symbole}{%
-\begin{labeling}{mmm}
-  \item[\SignFigure] \ Abbildungen
-  \item[\SignLeitsatz] \ Leitsätze
-  \item[\SignMassnahme] \ Maßnahmen
-  \item[\SignTable] \ Tafeln
-\end{labeling}
-}{}{}{}{}
-
-
-
-\Layout{2}{Index}{%
-\begin{description}
-  \item[Zusammengesetzte Begriffe] Eigenschaftswort
-  Hauptwort → Hauptwort, Eigenschaftswort; "`Begriffe,
-  zusammengesetzte"'
-  \item[Umlaute] Ä, Ö, Ü → Ae, Oe, Ue
-\end{description}
-}{}{}{}{}
-
-
 \Layout{2}{Im Text}{%
 \E{Betonte} Textteile sind kursiv, \EE{Besonders stark
 betonte} sind fett gedruckt. \T{Fachbegriffe}, welche an
@@ -391,6 +337,29 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 }{}{}{}{}
 
+\Layout{2}{Symbole}{%
+\begin{multicols}{2}
+\begin{labeling}{mmm}
+  \item[\SignFigure] \ Abbildungen
+  \item[{\ovalbox{\sffamily !}}] \ Leitsätze
+  \item[\SignMassnahme] \ Maßnahmen
+  \item[\SignTable] \ Tafeln
+\end{labeling}
+\end{multicols}
+}{}{}{}{}
+
+
+
+\Layout{2}{Index}{%
+\begin{description}
+  \item[Zusammengesetzte Begriffe] Eigenschaftswort
+  Hauptwort \Sign{→} Hauptwort, Eigenschaftswort; "`Begriffe,
+  zusammengesetzte"'
+  \item[Umlaute] Ä, Ö, Ü \Sign{→} Ae, Oe, Ue
+\end{description}
+}{}{}{}{}
+
+
 % \opt{STATUS-EXPERIMENTAL}{
 % \paragraph{dfklnsdalf} dfgfd  sdafmkladfm df dflkgdslfkg dsflkgj dslfkg ldfskjg lkdsfjg lkdsfjgl ksdfghjo irtlksn lknoklsfdng odfs godsfi godsfg lkdsfg jlfsdkng lfsnhlkfgnh lkfgnh lfdgn hlfdgh fdgh ghjdgfh jgfhj fghj ghj hjkhfjgk hjgzj zt
 % utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
@@ -398,9 +367,36 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 % 
 % }
 
-% \begin{WidePar}
+
+
+
+
+
+
+\begin{WidePar}
+  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
+\end{WidePar}
+% {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
+
+%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
+\dominitoc[n]
+
+\begin{WidePar}
+  {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
+
+% {\small\listoffigures}
+% 
+% {\small\listoftables}
+
+{\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
+
+{\scriptsize\kern-2.ex\listof{fazit}{Leitsätze}}
+\end{WidePar}
+
+
+% {\WideParBegin}
 \part{Allgemeiner Teil}
-% \end{WidePar}
+% {\WideParEnd}
 
 
 \include{./chapters/chapter-TAE} 
@@ -422,9 +418,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 } % STATUS-EXPERIMENTAL
 
 
-% \begin{WidePar}
+% {\WideParBegin}
 \part{Grundlagen}
-% \end{WidePar}
+% {\WideParEnd}
 \setcounter{chapter}{10}\setcounter{page}{1}
 
 \include{./chapters/chapter-JUS}
@@ -450,9 +446,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \include{./chapters/chapter-GEF}
 
-% \begin{WidePar}
+% {\WideParBegin}
 \part{Medizinisch-Wissenschaftlicher Basisteil}
-% \end{WidePar}
+% {\WideParEnd}
 \setcounter{chapter}{30}\setcounter{page}{1}
 
 \include{./chapters/chapter-EIN}
@@ -484,9 +480,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \include{./chapters/chapter-SYM}
 
 
-% \begin{WidePar}
+% {\WideParBegin}
 \part{"`Intermediate"' (Erweitertes Wissen)}
-% \end{WidePar}
+% {\WideParEnd}
 \setcounter{chapter}{50}\setcounter{page}{1}
 
 \include{./chapters/chapter-MP2}
@@ -514,9 +510,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 } % STATUS-EXPERIMENTAL
 
 
-\begin{WidePar}
+% {\WideParBegin}
 \part{"`Advanced"' (Fortgeschrittenes Wissen)}
-\end{WidePar}
+% {\WideParEnd}
 \setcounter{chapter}{70}\setcounter{page}{1}
 
 \opt{STATUS-EXPERIMENTAL}{
@@ -528,9 +524,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \include{./chapters/inc-RES-ende}
 
 \appendix
-% \begin{WidePar}
+% {\WideParBegin}
 \part{Appendix}
-% \end{WidePar}
+% {\WideParEnd}
 %\setcounter{page}{0}
 
 % \pagenumbering[Appendix]{bychapter}
@@ -581,48 +577,48 @@ AND THANKS FOR ALL THE FISH
 \endgroup
 \emph{Notizen}
 
-\clearpage
-\thispagestyle{empty}
-\sffamily
-
-{\marginline{\flushright{\scalefont{5}\AASS}}\sffamily\Large{\color{ubuntured}%
-Arbeits- und Ausbildungsstandards}\\ 
-{\color{darkBlue}für den
-Sanitätsdienst}}
-
-\vspace{\baselineskip}
-
-\DocVersion\\
-\DocVersionInfo
-
-\parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
-Das vorliegende Werk ist das (Zwischen-)Ergebnis einer seit mehr als zwei Jahren
-andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig
-sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
-ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
-und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
-leisten könnte, still zu stehen.
-
-Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
-bereits breitgetretener Pfade darzustellen, und sowohl eine Unterlage für die
-Ausbildung, als auch ein Hilfsmittel für die Praxis zu schaffen.  Besonderen
-Wert haben wir dabei nicht nur auf die Praxis, sondern auch -- heutzutage nicht
-mehr ganz modern -- auf das Hintergrundwissen und relevante Randbereiche gelegt.
-Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
-wieder veraltet ist, bildet dieses Fundament die Chance für eine
-langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
-(anstatt strikten, regel\E{gebundenen} Handelns). 
-
-In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
-Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
-österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
-Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
-schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
-einem Jahr als Lern- und Ausbildungsunterlage bewähren.
-
-\begin{labeling}[:]{mmmmm}\ttfamily
-  \item[APID] 1/000013020/1
-  \item[ISBN] --
-  \item[]
-\end{labeling}
+% \clearpage
+% \thispagestyle{empty}
+% \sffamily
+% 
+% {\marginline{\flushright{\scalefont{5}\AASS}}\sffamily\Large{\color{ubuntured}%
+% \noindent Arbeits- und Ausbildungsstandards}\\ 
+% {\color{darkBlue}für den
+% Sanitätsdienst}}
+% 
+% \noindent\vspace{\baselineskip}
+% 
+% \DocVersion\\
+% \DocVersionInfo
+% 
+% \parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
+% Das vorliegende Werk ist das (Zwischen-)Ergebnis einer seit mehr als zwei Jahren
+% andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig
+% sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
+% ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
+% und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
+% leisten könnte, still zu stehen.
+% 
+% Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
+% bereits breitgetretener Pfade darzustellen, und sowohl eine Unterlage für die
+% Ausbildung, als auch ein Hilfsmittel für die Praxis zu schaffen.  Besonderen
+% Wert haben wir dabei nicht nur auf die Praxis, sondern auch -- heutzutage nicht
+% mehr ganz modern -- auf das Hintergrundwissen und relevante Randbereiche gelegt.
+% Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
+% wieder veraltet ist, bildet dieses Fundament die Chance für eine
+% langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
+% (anstatt strikten, regel\E{gebundenen} Handelns). 
+% 
+% In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
+% Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
+% österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
+% Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
+% schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
+% einem Jahr als Lern- und Ausbildungsunterlage bewähren.
+% 
+% \begin{labeling}[:]{mmmmm}\ttfamily
+%   \item[APID] ---
+%   \item[ISBN] ---
+%   \item[DOI] ---
+% \end{labeling}
 \end{document}

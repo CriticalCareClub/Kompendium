@@ -1,4 +1,12 @@
-\newcommand{\DocVersion}{0.13.x}
+% \RequirePackage[iso]{isodateo}
+\RequirePackage{datetime}
+\renewcommand{\dateseparator}{-}
+\newdateformat{iso}{\THEYEAR-\twodigit{\THEMONTH}-\twodigit{\THEDAY}}
+\newtimeformat{nummeric}{\twodigit{\THEHOUR}\twodigit{\THEMINUTE}}
+\settimeformat{nummeric}
+
+
+\newcommand{\DocVersion}{0.5.x-{\pdfdate}}
 \newcommand{\DocVersionTyp}{Entwicklungsversion}
 \newcommand{\DocVersionInfo}{Entwicklungsversion -- Für den internen Gebrauch.}
 \hypersetup{
@@ -8,9 +16,9 @@ citecolor=darkBlue,
 filecolor=darkBlue,
 pagecolor=darkBlue,
 urlcolor=darkBlue,
-pdftitle=Arbeits- und Ausbildungsstandards für den Sanitätsdienst,
+pdftitle={Arbeits- und Ausbildungsstandards für den Sanitätsdienst \DocVersion},
 % Sets the document information Title field pdfauthor=ARGE AASS, % Sets the document information Author field
-pdfsubject=v-0.13.x, % Sets the document information Subject field
+pdfsubject={AASS \DocVersion}, % Sets the document information Subject field
 pdfcreator=ARGE AASS, % Sets the document information Creator field
 pdfproducer=ARGE AASS, % Sets the document information Producer field
 pdfkeywords=ARGE AASS, % Sets the document information Keywords field
@@ -23,7 +31,7 @@ pdfkeywords=ARGE AASS, % Sets the document information Keywords field
 % DraftFull			- Bilder, + Kommenatre
 % DraftSuper			- Bilder, + Kommenatare, + draft=yes
 \newcommand{\DocStatus}{DraftFull}
-% \newcommand{\DocGitCommit}{\input{../tmp/git-lastcommitsha1.tmp}}
 \newcommand{\DocGitCommit}{Unofficial build, no SHA1 included!}
+% \renewcommand{\DocGitCommit}{\input{../tmp/git-lastcommitsha1.tmp}}
 \newcommand{\DocGitCommitFormatted}{\ttfamily\DocGitCommit}
 \newcommand{\DocGitCommitTiny}{\tiny\DocGitCommitFormatted}

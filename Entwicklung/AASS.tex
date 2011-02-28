@@ -101,6 +101,7 @@ footnotes=multiple,
   
 \newcommand{\MultiColListStart}[2]{\addtocontents{#1}{\protect\begin{multicols}{#2}}}
 \newcommand{\MultiColListEnd}[1]{\addtocontents{#1}{\protect\end{multicols}}}
+\newcommand{\Sign}[1]{{\sffamily#1}}
 
 
 
@@ -119,6 +120,7 @@ footnotes=multiple,
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
+\pagestyle{scrheadings}
 
 % \setmainfont[SmallCapsFont={* Caps},
 % Mapping=tex-text]{Latin Modern Roman}
@@ -351,9 +353,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \Layout{2}{Index}{%
 \begin{description}
   \item[Zusammengesetzte Begriffe] Eigenschaftswort
-  Hauptwort → Hauptwort, Eigenschaftswort; "`Begriffe,
+  Hauptwort \Sign{→} Hauptwort, Eigenschaftswort; "`Begriffe,
   zusammengesetzte"'
-  \item[Umlaute] Ä, Ö, Ü → Ae, Oe, Ue
+  \item[Umlaute] Ä, Ö, Ü \Sign{→} Ae, Oe, Ue
 \end{description}
 }{}{}{}{}
 

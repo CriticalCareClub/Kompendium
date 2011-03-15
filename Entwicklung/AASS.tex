@@ -19,24 +19,20 @@ footnotes=multiple,
 
 % UTF-8 Schriftkodierung
 \usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}
-% get rid of the "no room for new \ldots"
-% standard TeX registers are limitied to 256, etex increases the max.
+% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
 \usepackage{etex}
 
 \pdfcompresslevel=9
 \pdfimageresolution=72
 % \pdfpkresolution=72
-
 % \usepackage[a-1b]{pdfx}
 % \def\Keywords{AASS} \def\Title{AASS} \def\Author{ARGE AASS} \def\Org{ARGE AASS}
 % % \input glyphtounicode.tex \input glyphtounicode-cmr.tex \pdfgentounicode=1
-
 % \usepackage[xcolor]{rvdtx}
 
 
 \usepackage{blindtext}
 \usepackage{microtype,fixltx2e,ellipsis}
-% \usepackage{xindy}
 
 % Optionen für Bilder:
 % [draft] .. Es werden nur Rahmen angezeigt
@@ -45,16 +41,9 @@ footnotes=multiple,
 \usepackage[draft]{graphicx} % Bilder-Support
 
 % \usepackage{showidx} % shows index entries on page margin
-
-
-
 % \usepackage{showkeys}
-% \usepackage[normalem]{ulem}
 
 \input{./inputs/input-preamble}
-
-% Farbdefinitionen
-% \input{./inputs/input-colors}
 
 % Trennungen
 \input{./inputs/input-hyphenation}
@@ -77,7 +66,7 @@ footnotes=multiple,
 % optional --- Optionaler Text. 
 \input{./inputs/input-optkeys}
 
-\setcounter{errorcontextlines}{1}
+\setcounter{errorcontextlines}{10}
 
 % \usepackage{fontspec}
 % \usepackage{setspace}

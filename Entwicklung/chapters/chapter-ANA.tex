@@ -10,9 +10,12 @@
 
 \ChapterIntro
 {%
-Die Anatomie ist die Lehre vom Bau des Körpers, die Physiologie die Lehre von dessen Funktionweise.
-}
-{%
+Die Anatomie ist die Lehre vom Bau des Körpers, die
+Physiologie die Lehre von dessen Funktionweise. Dieses
+Kapitel stellt daher die Grundlage für die in den
+Folgekapiteln beschriebenen Erkrankungen und Verletzungen
+dar.
+} {%
 \begin{description}
   \item[Maintainer:] Lena Hirtler
   \item[Autoren:] Diverse
@@ -42,6 +45,10 @@ Die Anatomie ist die Lehre vom Bau des Körpers, die Physiologie die Lehre von d
 % }
 
 \Layout{2}{Richtungsangaben}{
+Die Medizin benutzt für anatomische Beschreibungen oft
+bestimmte Richtungsangaben oder deren Abkürzungen. Im
+Sanitätsdienst wird man damit meist in Arzt- und
+Entlassungsbriefen konfroniert.
 
 \begin{multicols}{2}
 \Z{%
@@ -80,6 +87,28 @@ beziehen sich immer auf die betreffende Person (Patienten)!}
 \end{multicols}
 }{}{}{}{}
 
+
+\Layout{0}{Gliederung des Körpers}{%
+Der menschliche Körper wird grob in den \EE{Stamm} (Rumpf),
+die \EE{Gliedmaßen} (\EE{Extremitäten}) sowie in \EE{Hals
+und Kopf} unterteilt. Der Stamm gliedert sich in Brust
+(Thorax) und Bauch (Abdomen). Der Schultergürtel und das
+Becken stellen jeweils  den Übergang zwischen Rumpf und
+oberen und unteren Extremitäten dar. 
+\TODO{GABS}{2011-03-20}{Blumig ausformulieren}{Erfüllt Scutz Anknüpfungspunkte, }
+
+}{
+\begin{itemize}
+    \item Stamm (Rumpf)
+    \begin{itemize}
+      \item Brust
+      \item Bauch
+    \end{itemize}
+    \item Gliedmaßen (Extremitäten)
+    \item Hals und Kopf
+\end{itemize}
+}{}{}{}
+
 \section{Die Zelle}\index{Zelle}
 \Layout{0}{\TxBeschreibung}
 {%
@@ -87,7 +116,7 @@ Die Zelle ist die kleinste lebende Einheit in unserem
 Körper. Sie besteht u.\,a. aus einem
 \E{Zellkern}\index{Zellkern}, der die gesamten
 Erbinformationen in Form des Riesenmoleküls
-\E{DNS}\ZFootnote{Desoxyribonukleinsäure, \Lang{engl.}
+\E{DNS}\ZFootnote{Desoxyribonukleinsäure; \Lang{engl.}
 \E{DNA}.} enthält, sowie verschiedenen
 Zellorganellen\index{Zellorganellen}. Die Zellorganellen
 sind wichtig für den Zellstoffwechsel, man kann sie mit der
@@ -141,11 +170,28 @@ ausständig ist \ldots{}
 }
 }
 
+\Z{Durch krankhafte Vorgänge kann es im Gewebe zu
+\begin{inparaitem}
+    \item Ödemen (Wasseransammlung im Gewebe),
+    \item Emphysemen (Luftansammlung im Gewebe),
+    \item Entzündungen (\prettyref{topic:entzuendung}),
+    \item Tumoren oder
+    \item Nekrosen (Absterben von Zellen bzw. Gewebe)
+\end{inparaitem}
+kommen.}
 
 }{
 \begin{itemize}
     \item Zellverband
     \item → größere Strukturen
+    \item \Z{krankhaft:}
+    \begin{itemize}
+      \item \Z{Ödem}
+      \item \Z{Emphysem}
+      \item \Z{Entzündung}
+      \item \Z{Tumor}
+      \item \Z{Nekrose}
+    \end{itemize}
 \end{itemize}
 }{}{}{}
 
@@ -167,30 +213,24 @@ ausständig ist \ldots{}
 {
 Das Skelettsystem besteht aus \E{Knochen} und \E{Knorpeln} und dient 
 hauptsächlich als
-
-\begin{itemize}
-    \item Stützgerüst  des Körpers, wichtig für die aufrechte Haltung
+   Stützgerüst der \EE{Haltung} des Körpers (aufrechte Haltung)
     \ACh{GABS}{2010-03-09}{Auch für nicht-aufrechte Haltung wichtig?}
     \ACh{HIRT}{2010-03-09}{Hier geht es um die grundsätzliche Vorstellung,
     dass wir ohne Knochen nur ein Haufen Gatsch sind.}
-    \item Ursprungs- und Ansatzfläche für die Muskulatur, wichtig für
-    Wirkungsentfaltung der Muskel
-\end{itemize}
+    und als \E{Ursprungs- und Ansatzfläche für die Muskulatur}. Dies ist Voraussetzung für die
+    Wirkungsentfaltung der Muskeln. Weiters  dient es als
 
-und weiters als
-
-\begin{itemize}
-    \item Kalziumspeicher (\ce{Ca++})
-    \item Bildung von roten und weißen Blutkörperchen sowie den Blutplättchen
-    (im roten Knochenmark!) \ACh{GABS}{2010-03-09}{Wenn man die Körperchen aufzählt müssen die
+\EE{Kalziumspeicher} (\ce{Ca++}) und der \EE{Blutbildung},
+d.\,h. von roten und weißen Blutkörperchen sowie den
+Blutplättchen (im roten Knochenmark).
+     \ACh{GABS}{2010-03-09}{Wenn man die Körperchen aufzählt müssen die
     Thrombos aber auch hinein \ldots}
     \ACh{HIRT}{2010-03-09}{Vielen vielen Dank für den Hinweis\ldots}
-\end{itemize}
 }
 {
 \begin{itemize}
   \item Haltung
-  \item Muskelbewegung
+  \item Ursprungs- und Ansatzfläche für Muskulatur
   \item Kalziumspeicher
   \item Blutbildung
 \end{itemize}
@@ -200,19 +240,22 @@ und weiters als
 \subsection{Der Knochen}
 \index{Knochen}
 
+\A{Vorschlag: "`Der menschliche Körper besteht aus ???
+Knochen."' Lena: nein, weil unklar wegen Sesambeinchen. }
+
 \Layout{0}
 {Knocheneinteilung}
 {%
 Man kann die Knochen anhand ihrer Form einteilen in: 
 \index{Knochen!platte}\index{Knochen!Röhren-}\index{Knochen!Würfel-}
-\begin{description}
-    \item[\T{Platte Knochen}] (z.\,B. Beckenknochen,
+\begin{itemize}
+    \item \T{Platte Knochen} (z.\,B. Beckenknochen,
     Schulterblatt, Brustbein, Schädel),
-    \item[\T{Röhrenknochen}] (Oberarmknochen, Schienbein)
+    \item \T{Röhrenknochen} (Oberarmknochen, Schienbein)
     und
-    \item[\T{Würfelknochen}] (z.\,B. Hand-, Fußwurzelwurzelknochen,
+    \item \T{Würfelknochen} (z.\,B. Hand-, Fußwurzelwurzelknochen,
     Wirbelknochen)
-\end{description}
+\end{itemize}
 }
 {
 \begin{itemize}
@@ -232,10 +275,10 @@ bezeichnen.}
 {%
 \subparagraph{\T{Periost}} \E{Beinhaut}, überzieht den Knochen und
 ist sehr gut mit Nerven versorgt. Es ist daher die einzige Struktur des Knochens die
-schmerzempfindlich ist. Verantwortlich für Dickenwachstum und Frakturheilung
-\subparagraph{\T{Kompakta}} (Kortikalis, "`Knochenrinde"'),
-\index{Kortikalis}feste äußere Schicht,
-äußere Form, Verantwortlich für Stabilität des Knochens
+schmerzempfindlich ist. Sie ist verantwortlich für
+Dickenwachstum und Frakturheilung\footnote{\T{Fraktur}:
+Bruch.}. \subparagraph{\T{Kompakta}} (Kortikalis, "`Knochenrinde"'), \index{Kortikalis}feste äußere Schicht,
+äußere Form, verantwortlich für Stabilität des Knochens
 \subparagraph{\T{Spongiosa}} \index{Knochenbälkchen}Knochenbälkchen
 ${\rightarrow}$ Zug- und Druckfestigkeit
 \subparagraph{\T{Markhöhle}} s.\,u.
@@ -285,13 +328,14 @@ unterteilen.
 \index{Knochenmark!rotes}
 Es ist das wichtigste blutbildende Organ
 des Körpers. Hier werden die \EE{zellulären Bestandteile des Blutes
-gebildet}. Dazu gehören die \E{Roten Blutkörperchen} (\E{Erythrozyten}), die
+gebildet}. Dazu gehören die \E{roten Blutkörperchen}
+(\E{Erythrozyten}), die
 \E{weißen Blutkörperchen} (\E{Leukozyten}) sowie die \E{Blutplättchen}
 (\E{Thrombozyten}) -- \prettyref{topic:blut}. 
 
 Bei Neugeborenen findet man das rote Knochenmark in
 sämtlichen Knochen, im Laufe des Lebens bildet es sich zurück und verwandelt
-sich in {\quotedblbase}Gelbes Fettmark{\textquotedblleft}. Rotes Knochenmark
+sich in {\quotedblbase}gelbes Fettmark{\textquotedblleft}. Rotes Knochenmark
 findet man dann lediglich in platten Knochen wie Becken, Brustbein und
 Schädel, wo es für die Blutbildung verantwortlich ist und normalerweise
 zeitlebens erhalten bleibt.
@@ -325,8 +369,7 @@ Bestrahlung, Chemotherapien bei Krebspatienten ("`onkologische
 Patienten"'), etc.). Diese Patienten leiden neben einer
 Blutarmut auch an einem schwachen Immunsystem, da nicht genügend weiße
 Blutkörperchen gebildet werden. Sie können daher sehr leicht schwerwiegende
-Infektionen bekommen.
-
+Infektionen bekommen. 
 Diese Patienten
 sind im Krankentransport häufig anzutreffen.
 
@@ -350,10 +393,11 @@ Das gelbe Fettmark kann bei schweren Knochenverletzungen von Bedeutung
 sein, da verletzungs\-bedingt kleine Fetttröpfchen in die
 Blutbahn gelangen können, die dann als Fettgerinnsel zu ernsten
 Komplikationen führen können
-(Fettembolie\AuthNotes{+ KOCH}).
+(Fettembolie\AuthNotes{+ KOCH}\footnote{\I{Fettembolie}:
+Vertopfungs eines Blutgefäßes durch ein Fettgerinsel.}).
 
-Dieses Knochenmark ist nicht unbedingt für den Körper notwendig - deshalb kann
-man nach Frakturen auch Nägel in die Markhöhle einsetzen ohne größere
+Dieses Knochenmark ist nicht unbedingt für den Körper
+notwendig. Deshalb kann man nach Frakturen auch Nägel in die Markhöhle einsetzen ohne größere
 Auswirkungen auf den Knochen zu verursachen.
 
 
@@ -409,7 +453,7 @@ Gelenk"', \Z{Synarthrose}) unterscheiden.
 
 Zu den Gelenken ohne Gelenksspalt gehören alle Knochenverbindungen die \E{nicht}
 frei beweglich sind, z.\,B. die Schädelnähte, die Schambeinfuge und die
-Rippen-Brustbein-Verbindungen des Thorax \Z{(Syndesmose, Synchondrose,
+Rippen-Brustbein-Verbindungen des Brustkorbes (Thorax, \prettyref{topic:thorax}) \Z{(Syndesmose, Synchondrose,
 Synostose)}.
 \ACh{HIRT}{2010-03-11}{Um allen Diskussionen zuvorzukommen: ich finde es
 wichtig, dass zumindest diese Tatsachen erwähnt werden.}
@@ -431,10 +475,9 @@ sind "`echte"' Gelenke mit Gelenksspalt.}
 {%
 Ein Gelenk ist von einer bindegewebigen \EE{Kapsel} umgeben
 und durch Sehnen und Bänder stabil verbunden.
-
 Die Gelenksflächen sind zur Reibungs\-ver\-minderung mit 
-\EE{Knorpel} überzogen und der \EE{Gelenksspalt} mit einer
-dünnen Schicht \EE{Schmierflüssigkeit}
+\EE{Knorpel} überzogen und der \EE{Gelenksspalt} ist mit
+einer dünnen Schicht \EE{Schmierflüssigkeit}
 \Z{(Synovialflüssigkeit)} gefüllt. }{%
 \begin{itemize}
   \item Kapsel
@@ -466,7 +509,7 @@ dünnen Schicht \EE{Schmierflüssigkeit}
 Klassische Beispiele sind das 
 \T{Kugelgelenk} (Hüftgelenk),
  das \T{Eigelenk} (z.\,B. Handwurzelgelenk),
-das das \T{Sattelgelenk} (Daumengrundgelenk), 
+das \T{Sattelgelenk} (Daumengrundgelenk), 
 das \T{Scharniergelenk} (Fingergliedgelenke, Ellbogengelenk) \Z{sowie das
 Zapfengelenk (z.\,B. Radioulnargelenk)}.
 \Commentary[Gelenksarten, Beispiel Scharniergelenk]{Scharniergelenk ist nur das Gelenk, welches von Ellle und Oberarmknochen gebildet wird.}
@@ -538,7 +581,8 @@ beim Erwachsenen durch \E{Schädelnähte}
 \begin{itemize}
     \item Schädelbasis
     \item Schädeldach (Kalotte)
-    \item Platte Knochen, durch Schädelnähte verzahnt \& verknöchert
+    \item Platte Knochen, durch Schädelnähte verzahnt und
+    verknöchert
 \end{itemize}
 }
 {}{}{}
@@ -570,8 +614,8 @@ unterscheiden kann in welche Richtung der Kopf des Kindes schaut.}
 {
 \begin{itemize}
   \item Verschluss bis 18. Lebensmonat
-  \item große Fontanelle
-  \item kleine Fontanelle
+  \item \Z{große Fontanelle}
+  \item \Z{kleine Fontanelle}
 \end{itemize}
 }
 {./images/anatomie/fontanelle-dt.jpg}
@@ -598,7 +642,7 @@ Schädel, Schutz  für Gehirn.}
 % 
 % g ... großes Hinterhauptsloch (Foramen magnum)
 Das Gehirn liegt auf der Schädelbasis \index{Schädelbasis}
-auf \Z{(außer wenn man auf dem Kopf steht)}. Hirnnerven treten durch die diversen Löcher aus dem
+auf \Z{(außer wenn man auf dem Kopf steht)}. Hirnnerven treten durch diverse Löcher aus dem
 Schädel aus. \EE{Das \T[Großes Hinterhauptsloch]{große
 Hinterhauptsloch}\index{Hinterhauptsloch!Großes}  \Z{(Foramen magnum)} ist die
 Durchtrittsstelle des Rückenmarks.} 
@@ -608,16 +652,20 @@ Durchtrittsstelle des Rückenmarks.}
 Das \EE{große Hinterhauptsloch} ist die Durchtrittsstelle des Rückenmarks. Bei
 einer \EE{Hirndrucksteigerung} (\E{Hirnödem, Hirnblutung}) ist es die einzige
 Möglichkeit zur Ausdehnung des Gehirns! \EE{Dabei drückt sich das Gehirn
-allerdings selber ab}, es kommt zu einer tödlichen \Ca{Hirnstammeinklemmung!}
-${\rightarrow}$ \Ca{Lebensgefahr}, da das Kreislauf- und Atemzentrum abgedrückt
+allerdings selbst ab}, es kommt zu einer tödlichen
+\Ca{Hirnstammeinklemmung!} ${\rightarrow}$ \Ca{Lebensgefahr}, da das Kreislauf- und Atemzentrum abgedrückt
 wird.
 }
 {
 \begin{itemize}
   \item Auflagefläche des Gehirns
   \item Hirnnerven
-  \item großes Hinterhauptsloch (Foramen magnum)
-  \item Hirnstammeinklemmung
+  \item Großes Hinterhauptsloch \Z{(Foramen magnum)}
+  \begin{itemize}
+    \item Durchtritt Rückenmark
+    \item Hirnstammeinklemmung
+  \end{itemize}
+
 \end{itemize}
 }
 {./images/anatomie/cavernous_sinus.png}
@@ -631,9 +679,9 @@ wird.
 \Layout{20}{\TxBeschreibung}
 {%
 Die Wirbelsäule bildet das knöcherne Rückgrat des Körpers
-und ist damit eine der wichtigsten Stützen des Körpers,
-andererseits ist sie auch Ansatzfläche vieler wichtiger
-Muskeln. Sie hat eine doppelt \E{S-förmig gekrümmte Form},
+und ist damit eine der wichtigsten Stützen des Körpers.
+Andererseits ist sie auch Ansatzfläche vieler wichtiger
+Muskeln. Sie hat eine \E{doppelt S-förmig gekrümmte Form},
 welche den \E{aufrechten Gang} ermöglicht.
 
 \subparagraph{Bestandteile}
@@ -645,9 +693,9 @@ gewissen Umfang \E{beweglich}.
 
 Zwischen den einzelnen Wirbeln finden sich \T{Bandscheiben}
 (\T{Discus}), welche als \EE{Stoßdämpfer} dienen. Mit
-zunehmenden Alter können diese \E{verschleißen}.
+zunehmendem Alter können diese \E{verschleißen}.
     
-Von den Wirbeln wird ein Kanal, der sog. \T{Wirbelkanal}
+Von den Wirbeln wird ein Kanal, der sog. \T{Wirbelkanal},
 gebildet. In diesem ist das \EE{Rückenmark} eingebettet.
 
 \subparagraph{Gliederung} Die Wirbelsäule gliedert sich in
@@ -659,10 +707,10 @@ verschiedene Abschnitte:
 \index{Steißbeinwirbel}
 Es gibt 
 \begin{inparaitem}
-    \item 7 \EE{Hals}wirbel \Z{(Cervical-Wirbel)},
-    \item 12 \EE{Brust}wirbel  \Z{(Thorakal-Wirbel)},
-    \item 5 \EE{Lenden}wirbel  \Z{(Lumbal-Wirbel)},
-    \item 5 verschmolzene \EE{Kreuzbein}wirbel \Z{(Os sacrum)}, sowie
+    \item 7 \EE{Hals}wirbel \Z{(Cervical-Wirbel, \VonBis{C1}{7})},
+    \item 12 \EE{Brust}wirbel  \Z{(Thorakal-Wirbel, \VonBis{Th1}{12})},
+    \item 5 \EE{Lenden}wirbel  \Z{(Lumbal-Wirbel, \VonBis{L1}{5})},
+    \item 5 verschmolzene \EE{Kreuzbein}wirbel \Z{(Os sacrum, \VonBis{S1}{5})}, sowie
     \item \VonBis{3}{4} \EE{Steißbein}"`wirbel"' \Z{(Os coccygis)}.
 \end{inparaitem}
 
@@ -761,14 +809,15 @@ Aufbau:
 
 
 
-\subsection{Der Brustkorb -- Thorax}
+\subsection{Der Brustkorb}
 \index{Brustkorb}
 \index{Thorax}
 \index{Brustbein}
 \index{Sternum}
 \label{topic:brustkorb-skelett}
+\label{topic:thorax}
 
-
+\HeadingSub{\Lang{Term.} \T{Thorax}}
 
 \Layout{20}{\TxBeschreibung}
 {%
@@ -890,7 +939,7 @@ befestigt.
 {
 Der Arm beginnt mit dem \T{Schultergelenk}. Dieses ist ein
 klassisches \E{Kugelgelenk}, es ermöglicht die Bewegung in
-alle drei Raumebenen. Die beteiligten Knochen im
+allen drei Raumebenen. Die beteiligten Knochen im
 Schulterglenk sind das \E{Schulterblatt} (Scapula) und
 \T{Oberarmknochen} (Humerus). Letzterer bildet als einzelner
 Knochen den Oberarm.
@@ -997,7 +1046,7 @@ durch Bänder im Gelenk gehalten.
 
 \noindent Nach einem Unfall kann es zu einer Fraktur des
 Beckengürtels kommen (Beckentrauma,
-\prettyref{topic:beckentrauma}. Stehen und Gehen ist dann
+\prettyref{topic:beckentrauma}). Stehen und Gehen ist dann
 nicht mehr möglich, der Patient verspürt starke Schmerzen
 bei jeder passiven Bewegung \E{beider} Beine.
 
@@ -1162,9 +1211,9 @@ ein \E{anderer} beugt ihn).
 
 Jeder Muskel hat einen \EE{Ursprung} (\Speech{"`Wo kommt er
 her?"'}) und einen \EE{Ansatz} (\Speech{"`Wo geht er
-hin?"'}), diese beiden Punkte bestimmen die Bewegung, die
-der Muskel machen kann. Der Ursprung ist definitionsgemäß
-immer der Punkt, der stillgehalten wird. Der Ansatz dagegen
+hin?"'}). Diese beiden Punkte bestimmen die Bewegung, die
+der Muskel durchführen kann. Der Ursprung ist
+definitionsgemäß immer der Punkt, der stillgehalten wird. Der Ansatz dagegen
 wird durch den Muskelzug auf ihn zu bewegt. Normalerweise
 liegt der Ursprung eines Muskels näher beim Körper, der
 Ansatz ist der Punkt, der weiter entfernter ist. Für alle
@@ -1198,7 +1247,7 @@ Unterstützung der Atemmuskulatur als
 {%
 Das Herz ist ein etwa faustgroßer\ZFootnote{Faustgröße des
 \E{Patienten!}} \EE{Hohlmuskel} und hat die Funktion einer
-\EE{Pumpe}. Es liegt \EE{hinter dem Sternum\footnote{Brustbein}}
+\EE{Pumpe}. Es ist somit Teil des \E{Blutkreislaufs}. Es liegt \EE{hinter dem Sternum\footnote{Brustbein}}
 \A{\footnote{\A{EMHO: statt Fußzeile: "`Brustbein
 (Sternum)"'. damit einheitlich.\par GABS: nein. Hier sollen
 sie bereits primär den Begriff "`Sternum"' verwenden und
@@ -1231,7 +1280,7 @@ Aortenklappe beim Ausgang des linken Ventrikels -- abgehen.
 
 \subparagraph{Schichten}
 
-3 Schichten (von innen nach außen):
+Das Herz ist in mehreren Schichten aufgebaut (von innen nach außen):
 \AuthNotes{\footnote{GABS: Schichten relevant? KOCH: ja!}}
 \begin{itemize}
 \item Endokard (innen) \index{Endokard}     
@@ -1240,8 +1289,8 @@ Aortenklappe beim Ausgang des linken Ventrikels -- abgehen.
 \item Perikard (ganz aussen), bildet den Herzbeutel.
 \end{itemize}
 
-\noindent Im Herzbeutel befindet sich eine geringe Menge Flüssigkeit, die die
-reibungslose Bewegung des Herzens ermöglicht. Wenn durch Eintritt von z.\,B. Blut nach einer Verletzung der
+\noindent Im Herzbeutel befindet sich eine geringe Menge Flüssigkeit, die eine
+reibungsarme Bewegung des Herzens ermöglicht. Wenn durch Eintritt von z.\,B. Blut nach einer Verletzung der
 Herzbeutel zu viel gefüllt ist, kann es dadurch zu einer Einschränkung der
 Herzbewegung und schlimmstenfalls zum Tod kommen.
 }
@@ -1282,7 +1331,7 @@ die Nennung der Aorten- und
 Mitralklappe.}}% 
 Insgesamt \EE{4} \T{Herzklappen} sorgen als \EE{Ventile}
 dafür, dass das Blut nur \E{in eine Richtung} strömt. Es
-gibt 2 Segelklappen und 2 Taschenklappen, jewils eine auf
+gibt 2 Segelklappen und 2 Taschenklappen, jeweils eine auf
 jeder Seite des Herzens. Die Segelklappen befinden sich
 zwischen den Vorhöfen und den Herzkammern, die
 Taschenklappen befinden sich an den Ausflussöffnungen der
@@ -1390,7 +1439,7 @@ Herzfunktion
 \Layout{20}{Aufbau und Verlauf}
 {%
 Der \T{Sinusknoten} \EE{(1)} ist normalerweise der Impulsgeber
-(\E{natürlicher "`Schrittmacher"'}), er feuert mit einer Eigenfrequenz von ca.
+(\E{natürlicher "`Schrittmacher"'}). Er feuert mit einer Eigenfrequenz von ca.
 \VonBis{60}{100}\PerMin* elektrische Impulse (Erregungen) ab. 
 
 Eine solche Erregung wird über den rechten Vorhof zum  \T{AV-Knoten} \EE{(2)}
@@ -1406,7 +1455,7 @@ erreichen.
 
 Bei einem \E{Ausfall} eines Knotens, bzw. bei Unterbrechung der Erregungsleitung
 (z.\,B. durch Gewebeschädigung nach einem Herzinfarkt), kann die jeweils
-\E{nächste Station als Impulsgeber übernehmen} -- allerdings mit deutlich
+\E{nachfolgende Station als Impulsgeber übernehmen} -- allerdings mit deutlich
 langsamerer Frequenz\ZFootnote{D.\,h. jede der Stationen ist zur eigenständigen Erregungsbildung
 fähig, sofern ihr nicht die übergeordnete Station zuvor kommt.}. Im
 Extremfall, wenn das gesamte Leitungssystem ausfällt, können auch die
@@ -1454,25 +1503,19 @@ Advanced Instructional Media. Lizenz: CC-BY}
 \index{Kreislauf}
 \label{topic:blutkreislauf} 
 
-\Fazit{\EE{Herz + Gefäßsystem + Blut = Kreislauf}}
-
 \Layout{0}{\TxBeschreibung}
-{
-Der Blutdruck und die Pumpfunktion des Herzens werden unter \prettyref{topic:blutdruck}
-und \prettyref{topic:herzfunktion}
-besprochen.
-
-\index{Körperkreislauf}  \index{Kreislauf!großer} 
-\index{Kreislauf!kleiner}
-\index{Lungenkreislauf}
-\index{Hochdrucksystem}  \index{Niederdrucksystem}
-Es wird der \T{Körperkreislauf} (\E{"`Großer
-Kreislauf"'}, "`Hochdrucksystem"') vom
-\T{Lungenkreislauf} (\E{"`Kleiner Kreislauf"'},
-"`Niederdrucksystem"') unterschieden. Das Herz ist für 
+{Der Kreislauf besteht aus dem Herz, dem Gefäßsystem und dem Blut.
+Es wird der \T{Körperkreislauf} (\I[Kreislauf!großer]{Großer
+Kreislauf}, \I{Hochdrucksystem}) vom
+\T{Lungenkreislauf} (\I[Kreislauf!kleiner]{Kleiner Kreislauf},
+\I{Niederdrucksystem}) unterschieden. Das Herz ist für 
 beide Systeme die gemeinsame Pumpe.
 Gesteuert wird der Kreislauf vom \EE{Stammhirn}
 (Herzfrequenz, Blutdruckregulation, etc.).
+
+Der Blutdruck und die Pumpfunktion des Herzens werden unter \prettyref{topic:blutdruck}
+und \prettyref{topic:herzfunktion}
+besprochen.
 }
 {
 \begin{itemize}
@@ -1485,6 +1528,8 @@ Gesteuert wird der Kreislauf vom \EE{Stammhirn}
 \end{itemize}
 }
 {}{}{}
+
+\Fazit{\EE{Kreislauf = Herz + Gefäßsystem + Blut}}
 
 \subsection{Abschnitte des Kreislaufs}
 \vspace{-1em} \index{Gasaustausch} 
@@ -1499,7 +1544,7 @@ dem Körper an. Von hier wird das Blut in die \EE{rechte
 Herzkammer} gepumpt, um dann in die \EE{Lungenarterie} zu
 gelangen. In der Lunge verästeln sich die Lungenarterien
 zu haardünnen Gefäßen, den \EE{Kapillaren}. Diese
-umspannen die Lungenbläschen es findet ein
+umspannen die Lungenbläschen. Es findet ein
 \EE{Gasaustausch} statt: Sauerstoff wird aufgenommen und
 Kohlendioxid abgegeben. Das jetzt mit Sauerstoff
 angereicherte Blut wird über die \EE{Lungenvenen} in den
@@ -1508,32 +1553,32 @@ angereicherte Blut wird über die \EE{Lungenvenen} in den
 
 \vspace{1em}
 
-\subsubsection{Großer Kreislauf}
+\subsubsection{Großer (Körper-)Kreislauf}
 Das Blut wird aus der linken Herzkammer ausgestoßen und
-gelangt über die die Hauptschlagader
-("`\EE{Aorta}"') in den
+gelangt über die Hauptschlagader
+(\II{Aorta}) in den
 Körperkreislauf. Aus der Aorta entspringen \EE{Arterien}
 ({\quotedblbase}Schlagadern{\textquotedblleft}), die sich
 immer weiter verzweigen und an Durchmesser abnehmen. Sie
 versorgen den gesamten Körper mit Blut. Der durch die
 Pumpleistung des Herzens erzeugte Puls ist an oberflächlich
-gelegenen Arterien tastbar (Radialis-Puls, Carotis-Puls, ..).
-Daher rührt auch der Name
+gelegenen Arterien tastbar (Radialis-Puls, Carotis-Puls,
+...). Daher rührt auch der Name
 "`Schlagader"'.
 
-Sie verzweigen sich, weiter an Durchmesser abnehmend,
+Die Arterien verzweigen sich, weiter an Durchmesser abnehmend,
 ähnlich dem Geäst eines Baumes, bis hin zu
 \EE{Arteriolen} und haardünnen Gefäßen, den
-Haargefäßen ("`\EE{Kapillaren}"').
+\EE{Kapillaren}.
 Hier findet wieder ein \EE{Gasaustausch} statt, diesmal
 allerdings spiegelbildlich zum Lungenkreislauf:
 \EE{Sauerstoff wird an das Gewebe abgegeben, im Gegenzug
-wird Kohlendioxid abtransportiert}.
+wird Kohlendioxid (\ce{CO2}) aufgenommen und abtransportiert}.
 
-Das nun sauerstoffarme Blut gelangt über kleine
+Das nun sauerstoffarme (und \ce{CO2}-reiche) Blut gelangt über kleine
 \EE{Venolen} in das Venensystem und fließt in den
 \EE{Venen} herzwärts. Am Weg zum Herzen nehmen die Venen
-an Umfang immer mehr zu, bis sie letztendlich in die großen Venen
+an Durchmesser immer mehr zu, bis sie letztendlich in die großen Venen
 ({\quotedblbase}\EE{obere} und \EE{untere
 Hohlvene}{\textquotedblleft}, Vena cava \Z{superior und inferior}) münden. 
 }
@@ -1594,7 +1639,7 @@ muskulösen Arterien.
 \label{topic:shunt}
 \index{Dialyse-Patient!Shunt}
 Ein \T{Shunt} \index{Shunt}  ist eine Verbindung zwischen Arterien und Venen. Er
-kann künstlich (chirurgisch) angelegt, angeboren oder akzidentiell entstanden
+kann künstlich (chirurgisch) angelegt, angeboren oder akzidentiell\TODO{GABS}{2011-03-07}{akzidentiell erklären}{} entstanden
 sein. Bei \EE{Dialyse-Patienten}  wird oft künstlich -- mittels einer Operation
 -- ein Shunt gelegt\ZFootnote{Dadurch dass durch die Vene umgeleitetes,
 arterielles, Blut mit höherem Druck fließt, verdickt sich die Vene und man kann
@@ -1629,7 +1674,7 @@ außen gibt es drei Schichten:
 }
 
 \Z{Die größten Gefäße, wie zum Beispiel die Aorta, haben zur
-geeigneten Blutversorgung ihrer Wand dort eigene Gefäße (Vasa vasorum). Arterien die
+geeigneten Blutversorgung ihrer Wand dort eigene Gefäße \Z{(Vasa vasorum)}. Arterien die
 herznah sind, besitzen in ihrer Wand eher elastische Fasern. Arterien die der
 Organversorgung dienen sind muskulärer aufgebaut.}
 \Commentary[Blutgefäße / Aufbau / Schichten]{Der Erwähnung
@@ -1826,8 +1871,8 @@ hin zu Leber oder Niere.
 
 Eine weitere wichtige Aufgabe ist die \EE{Regulation der
 Körpertemperatur} gemeinsam mit den Blutgefäßen. Bei Kälte werden die Blutgefäße
-in den Extremitäten enger gestellt - weniger Wärme geht nach ausen verloren,
-das Blut und dementsprechend die Wärme wird "`zentralisiert"'. Andersrum
+in den Extremitäten enger gestellt -- weniger Wärme geht
+nach außen verloren, das Blut und dementsprechend die Wärme wird "`zentralisiert"'. Andersrum
 funktioniert es bei großer Hitze. Über eine Weitstellung der Gefäße versucht der
 Körper soviel Hitze wie möglich loszuwerden.
 
@@ -1931,10 +1976,10 @@ Die festen Bestandteile des Blutes beinhalten rote Blutkörperchen
 \index{Blutkörperchen!rote}%
 \index{Blutkonserve!Erythrozytenkonzentrat}
 \index{Erythrozytenkonzentrat}
-Die roten Blutkörperchen sind quasi die wichtigsten des ganzen Körpers - ohne
-ihren Sauerstofftransport funktioniert im Körper gar nichts. Das Protein, das
+Die roten Blutkörperchen sind quasi die wichtigsten des
+ganzen Körpers -- ohne ihren Sauerstofftransport funktioniert im Körper gar nichts. Das Protein, das
 für die Bindung des Sauerstoffes an die Erythrozyten verantwortlich ist, heißt
-\E{Hämoglobin}. Es ist auch der \E{Blutfarbstoff}.
+\E{Hämoglobin}. Es ist auch der \E{Blutfarbstoff}. Ein Mangel an Hämoglobin wird als \T{Anämie} bezeichnet.
 
 Die Erythrozyten sind außerdem die häufigsten festen Blutbestandteile
 (4\,000\,000\,/$\mu$l) und tragen die \EE{Blutgruppenmerkmale} (A, B bzw. 0 bei
@@ -2024,7 +2069,7 @@ enthält Proteine, Enzyme, Hormone, Elektrolyte, Glukose und Fette.
 
 Die wesentliche Aufgabe des Plasmas ist der Transport von Nährstoffen an ihren
 Zielort im Körper. Es enthält weiters die Bestandteile für die plasmatische
-Blutgerinnung und das Immunsystem (Antikörper, Immunglobuline). Durch die
+Blutgerinnung und das Immunsystem (Antikörper, \Z{Immunglobuline}). Durch die
 Elektrolyte ist es am Wasserhaushalt beteiligt und sorgt mit
 Puffersubstanzen für einen ausgeglichenen pH-Wert im menschlichen Körper.
 Schlußendlich sorgt es auch für die Wärmeverteilung im Körper.
@@ -2179,7 +2224,7 @@ wieder.
 \label{topic:zns}
 
 
-\EE{Gehirn} und \EE{Rückenmark} sind morphologisch und funktionell eine
+\EE{Gehirn} und \EE{Rückenmark} bilden morphologisch\TODO{GABS}{2011-03-07}{morphologie erklären}{} und funktionell eine
 Einheit. Gemeinsam verwerten und verarbeiten sie die Signale aus der Peripherie
 und wählen diejenigen aus, die entweder unterbewusst verarbeitet oder bewusst
 wahrgenommen werden sollen. Das Zentralnervensystem erzeugt schließlich
@@ -2230,8 +2275,7 @@ cardiologist. Lizenz: CC-BY 2.5}
     \item Aufnahme  und Verarbeitung  von äußeren und internen  Reizen
     (Schmerz, Fühlen, Sehen, Hören, {\dots})
     \item Bewusstsein und {\quotedblbase}Bewusstmachung{\textquotedblleft}
-    \item Abgabe  von zweckentsprechenden Impulsen (Steuerung, Reaktion
-    etc.)
+    \item Abgabe  von zweckentsprechenden Impulsen (Steuerung, Reaktion, {\dots})
 \end{itemize}
 
 
@@ -2331,7 +2375,7 @@ Bewegung ist allerdings dadurch nicht möglich.
 \Z{Das Rückenmark lässt sich durch abgehende Spinalnerven in \E{Segmente} (insg.
 31) einteilen. Es gibt 8 Halssegmente (es gibt 8
 Halssegmente, aber nur 7 Halswirbel!), 12 Thorakalsegmente,
-5 Lumbalsegmente und 5 Sakralsegmente. Das Rückenmark selber
+5 Lumbalsegmente und 5 Sakralsegmente. Das Rückenmark selbst
 endet auf Höhe des 1. bzw. 2. Lumbalwirbels, da es kürzer
 als die Wirbelsäule ist; es ziehen jedoch die Nervenstränge
 entsprechend der zugehörigen Wirbelkörper weiter nach unten 
@@ -2521,8 +2565,8 @@ weniger offensichtliche Dinge, wie z.\,B. die Gelenksstellung gehören dazu.
 \T{Vegetative Nerven} sind sozusagen die Drahtzieher im Hintergrund. Sie sorgen
 für den reibungslosen \EE{Ablauf unbewusster Funktionen}, wie z.\,B. die
 Herzfunktion, die Verdauung und die Nierenfunktion. Die vegetativen Nerven können je nach ihrer
-Funktion - global stimulierend oder hemmend -  in zwei Systeme unterteilt
-werden: In den \EE{Sympathikus} und \EE{Parasympathikus}.
+Funktion -- global stimulierend oder hemmend --  in zwei
+Systeme unterteilt werden: In den \EE{Sympathikus} und \EE{Parasympathikus}.
 }
 {
 \begin{itemize}
@@ -2559,7 +2603,7 @@ werden: In den \EE{Sympathikus} und \EE{Parasympathikus}.
 
 Aktiviert den Aufmerksamkeits- und Kampfmodus.
 
-\emph{"`Fight or flight"'} -- \emph{"`Kampf und Flucht"'}
+\emph{"`Fight and flight"'} -- \emph{"`Kampf und Flucht"'}
 }{%
 \T{Parasympathikus} 
 
@@ -2675,7 +2719,7 @@ Augenmuskeln: Sie drehen das Auge in jede Richtung und
 liegen ebenfalls in der Augenhöhle. Für die Befeuchtung des
 Auges gibt es die Tränendrüse, die einen Flüssigkeitsfilm
 auf dem Auge produziert und der über den Tränen-Nasengang
-abfließen kann, und die \T{Bindehaut} \Z{(Konjunktiva)}, die
+abfließen kann, und die \T{Bindehaut} (Konjunktiva), die
 bis auf die Hornhaut die gesamte Vorderseite des Auges und die
 Innenseite der Lider überzieht. Um das Auge beim Schlafen
 vor Austrocknung zu schützen und den Tränenfilm gleichzeitig
@@ -3122,7 +3166,7 @@ abgegeben.
 Dabei besteht zwischen Luft und Blut kein direkter Kontakt, die Gase
 müssen Hindernisse wie die Alveolenwand und die Blutgefäßwand
 überwinden. \E{Vergrößert sich dieser Weg aufgrund
-einer Erkrankung ist die Sauerstoffaufnahme vermindert!} 
+einer Erkrankung (z.\,B. beim Lungenödem, \prettyref{topic:lungenoedem}), ist die Sauerstoffaufnahme vermindert!} 
 
 \Fazit{Lunge: Sauerstoff (\ce{O2}):   Alveolen ${\rightarrow}$ Blut}
 
@@ -3137,6 +3181,8 @@ Alveolen } }
 
 \subsubsection{Die Pleura}\label{topic:pleura}
 
+\TODO{GABS}{2011-03-07}{Pleura: zuviel Text? Redundant? kürzen?}{}
+
 \Layout{20}{\TxBeschreibung{} und Funktion}
 {%
 \index{Rippenfell}%
@@ -3147,7 +3193,10 @@ Die Pleura hat zwei "`Blätter"'. Eine Seite  liegt an der
 Rippenseite (\T{Rippenfell}) an und ist fest mit dem Zwerchfell und der Brustwand
 verwachsen. Die zweite Seite  überzieht die Lungenoberfläche (\T{Lungenfell}).
 Zwischen beiden Pleurablättern befindet sich ein \E{Flüssigkeitsfilm}. Dieser
-sorgt dafür, dass die beiden Blätter seitlich gleiten können. 
+sorgt dafür, dass die beiden Blätter seitlich gleiten können. (Es gibt
+keine Verwachsungen der beiden Seiten und die
+Pleuraflüssigkeit fungiert sogar ein bisschen als
+"`Schmiermittel"'.)
 
 Der Zwischenraum ist
 \EE{dicht abgeschlossen}, es kommt von außen keine Luft dazu. Dadurch haften die
@@ -3155,10 +3204,7 @@ beiden Blätter aneinander, bei Zug (durch Unterdruck während der Einatmung) an
 einem der beiden Blätter lassen sich diese nicht trennen, folglich wird das Zweite passiv
 mitbewegt.\footnote{Wie bei zwei Glasplatten mit Wasser dazwischen.} 
 
-\Fazit{Wenn
-der Brustkorb mit dem daran verwachsenen Rippenfell "`anzieht"', folgt das
-Lungenfell mit der Lunge der Bewegung \Sign{→} die Lunge wird wie eine Ziehharmonika
-aufgezogen und Luft angesaugt.}
+
 
 Der Vorteil dieser Konstruktion ist dass zwar die Lunge jeder Bewegung des
 Brustkorbs folgt, jedoch nicht fixiert ist, sondern verschieblich bleibt. 
@@ -3188,37 +3234,33 @@ würde in sich zusammenfallen, da sie ja nicht mehr aufgespannt wird. Siehe
 \index{Pneumothorax!anatomische Erklärung}})
 
 
-\Layout{0}{Welche Funktion hat aber nun die Pleura?}
-{%
-Da die eine Seite mit dem Brustkorb, die andere Seite mit
-der Lunge verwachsen ist und der Raum zwischen den beiden
-Seiten luftdicht abgeschlossen ist haften die beiden Seiten
-aneinander, aber sind gegeneinander verschieblich. (Es gibt
-keine Verwachsungen der beiden Seiten und die
-Pleuraflüssigkeit fungiert sogar ein bisschen als
-"`Schmiermittel"'.)
+% \Layout{0}{Welche Funktion hat aber nun die Pleura?}
+% {%
+% Da die eine Seite mit dem Brustkorb, die andere Seite mit
+% der Lunge verwachsen ist und der Raum zwischen den beiden
+% Seiten luftdicht abgeschlossen ist, haften die beiden Seiten
+% aneinander, aber sind gegeneinander verschieblich. (Es gibt
+% keine Verwachsungen der beiden Seiten und die
+% Pleuraflüssigkeit fungiert sogar ein bisschen als
+% "`Schmiermittel"'.)
+% 
+% Wenn sich nun der Brustkorb oder das Zwerchfell bei der
+% Atmung bewegt, bewegt sich natürlich das Rippenfell mit (es
+% ist ja mit dem Brustkorb und dem Zwerchfell verwachsen). 
+% }
+% {
+% \begin{itemize}
+%   \item Leine Luft zwischen beiden Pleuren
+%   \item Pleuraflüssigkeit = Schmiermittel
+%   \item Unterdruck bei Atmung
+%   \item bei Verletzung bzw. Lufteindringen in den Pleuraspalt Pneumothorax
+% \end{itemize}
+% }{}{}{}
 
-Wenn sich nun der Brustkorb oder das Zwerchfell bei der
-Atmung bewegt, bewegt sich natürlich das Rippenfell mit (es
-ist ja mit dem Brustkorb und dem Zwerchfell verwachsen). Da
-der Pleurazwischenraum luftdicht ist, muss sich zwangsläufig
-aber auch das Lungenfell (an dem wiederum die Lunge
-angewachsen ist) mitbewegen. Und wenn sich das Lungenfell
-mitbewegt wird automatisch auch die Lunge wie eine
-Ziehharmonika "`aufgezogen"' und Luft "`angesaugt"'.
-
-
-}
-{
-\begin{itemize}
-  \item Leine Luft zwischen beiden Pleuren
-  \item Pleuraflüssigkeit = Schmiermittel
-  \item Unterdruck bei Atmung
-  \item bei Verletzung bzw. Lufteindringen in den Pleuraspalt Pneumothorax
-\end{itemize}
-}{}{}{}
-
-
+\Fazit{Wenn
+der Brustkorb mit dem daran verwachsenen Rippenfell "`anzieht"', folgt das
+Lungenfell mit der Lunge der Bewegung \Sign{→} die Lunge wird wie eine Ziehharmonika
+aufgezogen und Luft angesaugt.}
 
 \subsection{Atemmechanik}
 \label{topic:atemmechanik} 
@@ -3398,12 +3440,10 @@ aufgenommenen Nährstoffe.
 Er beginnt im Mund mit der Nahrungsaufnahme und deren Zerkleinerung. Durch
 diverse Enzyme erfolgt die Weiterverarbeitung im Magen-Darm-Trakt. Wenn sie
 klein genug zerlegt sind, werden sie durch die Darmzellen aufgenommen und in
-das Blut überstellt.
+das Blut überstellt. Über das Blut werden die Nährstoffe an
+ihre Zielzellen transportiert.
 
-Über das Blut werden die Nährstoffe an ihre Zielzellen
-transportiert.
-
-Abfallstoffe landen schlußendlich wieder im Darm (bzw. den Nieren) um wiederum
+Abfallstoffe landen schlußendlich wieder im Darm (bzw. den Nieren) um 
 ausgeschieden zu werden.
 }
 {
@@ -3575,10 +3615,10 @@ in die Luftröhre und damit zu einer Aspiration kommen kann.
 Die Speiseröhre (\T[Ösophagus@Oesophagus]{Ösophagus}) ist ein
 ungefähr 25\CM* langer Muskelschlauch. Er dient dem \EE{Transport} über den Mund
 aufgenommener Nahrung vom Rachen in den Magen. Diese
-Fortbewegung funktioniert über eine wellenförmige Kontraktur
+Fortbewegung funktioniert über eine wellenförmige Kontraktion
 der Wandmuskeln der Speiseröhre. Im Ösophagus werden keine
-verdauenden Enzyme ausgeschieden -- er dient rein zur
-Fortbewegung des Speisebreies.
+verdauenden Enzyme ausgeschieden -- er dient rein zum Weitertransport
+des Speisebreies.
 
 \Z{Die Speiseröhre weist \E{drei Engstellen} auf, welche die
 Nahrung überwinden muss. Die erste ist hinter dem Kehlkopf
@@ -3636,7 +3676,7 @@ schützt.
 Nachdem die Wandmuskulatur den Speisebrei mit dem Magensaft
 \EE{durchmischt} hat, gibt der \EE{Magenpförtner}
 \Z{(Pylorus)} den Speisebrei portionsweise an den Dünndarm
--- genauer: den Zwölffingerdarm -- weiter.
+-- genauer: an den Zwölffingerdarm -- weiter.
 }{
 \begin{itemize}
   \item Magensaft mit Salzsäure
@@ -3721,7 +3761,7 @@ Zwölffingerdarm und die Bauchspeicheldrüse.}
 \index{Gallenblase}
 \label{topic:gallenblase}
 
-\HeadingSub{\Z{\Lang{Term.} Hepar}}
+\HeadingSub{\Lang{Term.} Hepar}
 
 \Layout{2}{\TxBeschreibung}{%
 Die Leber ist ein solides Organ und befindet sich im
@@ -3778,10 +3818,10 @@ Außerdem dient die Leber der \EE{Speicherung} von Fetten und Zucker.
   \begin{itemize}
     \item Produziert Gallenflüssigkeit  →
     Fettverdauung
-    \item Gallengänge richtung Zwölffigedarm
+    \item Gallengänge Richtung Zwölffigedarm
     \item An Gallengängen: Gallenblase (Speicherung)
   \end{itemize}
-  \item Speicherung von Fett \& Zucker
+  \item Speicherung von Fett und Zucker
 \end{enumerate}
 }
 {}
@@ -3827,7 +3867,7 @@ Das Pankreas ist ca. \VonBis{15}{22}\CM* lang und liegt
 hinter dem Magen. Es hat einen \EE{Ausführungsgang}, welcher
 zusammen mit dem Gallengang \EE{in den Zwölffingerdarm}
 (Duodenum) mündet. Man kann es grob unterteilen in Kopf und
-Schwanz - der Pankreaskopf liegt in der C-Schlaufe des
+Schwanz. Der Pankreaskopf liegt in der C-Schlaufe des
 Zwölffingerdarmes, die Spitze des Pankeas reicht bis zur
 Milz.
 
@@ -3874,8 +3914,8 @@ Blut.}
 {%
 Jejunum (Krummdarm) und Ileum (Leerdarm) sind die zwei
 weiteren Teile des Dünndarmes. Ihre Gesamtlänge beträgt ca.
-3\Meter* Ihre Hauptaufgabe besteht in der weiteren Verdauung
-der Nahrung und der Nährstoffaufnahme. Hierfür dienen Darmzotten
+3\Meter* . Ihre Hauptaufgabe besteht in der weiteren
+Verdauung der Nahrung und der Nährstoffaufnahme. Hierfür dienen Darmzotten
 -- kleine "`Ausstülpungen der Oberfläche"' -- zur
 Oberflächenvergrößerung.
 
@@ -3992,7 +4032,7 @@ Darmbakterien (Escherichia coli).}
 {
 \begin{itemize}
   \item T-Kreuzung
-  \item Blinddarm \= Sackgasse
+  \item Blinddarm = Sackgasse
   \item Wurmfortsatz
   \item Funktion des Dickdarms: Stuhleindickung
 \end{itemize}
@@ -4028,7 +4068,7 @@ erste Struktur, die man bei einer Baucheröffnung sieht. Es
 ermöglicht die Abkapselung von Entzündungen, sodass sich
 diese nicht sofort auf den ganzen Bauchraum ausbreiten
 können.
-}.
+}
 \ACh{GABS}{2010-03-09}{Unter großem und kleinen Netz wird sich kaum wer was vorstellen können \ldots} 
 
 Es sorgt durch seine feuchte und glatte Oberfläche dafür,
@@ -4071,9 +4111,9 @@ Die Milz ist ca. 12\CM* groß, oval geformt und und liegt im
 linken Oberbauch, verdeckt von den Rippen. Sie hat nichts 
 mit der Verdauung  zu tun.
 
-\Z{Sie dient der immunologischen Überwachung des Blutes und
-ist daher Teil des Immunsystems. Die Milz filtert das Blut, zu
-alte Erythrozyten werden durch weiße Blutkörperchen in der
+\Z{Die Milz dient der immunologischen Überwachung des
+Blutes und ist daher Teil des Immunsystems. Sie filtert das
+Blut, zu alte Erythrozyten werden durch weiße Blutkörperchen in der
 Milz erkannt und entfernt. Beim Embryo fungiert sie auch an
 der Blutbildung beteiligt. Ihre Vene mündet in
 die Pfortader.} Damit sie ihre Aufgaben erfüllen
@@ -4103,7 +4143,6 @@ Lage.}
 Aus den Tatsachen, dass die Milz gut durchblutet ist, und
 über eine feste Kapsel verfügt, ergibt sich bei Verletzungen
 eine besondere Gefahr:
-
 Es kann vorkommen, dass bei einem Unfall die Milz einreisst,
 die Kapsel aber erhalten bleibt: Es blutet zuerst in die
 Kapsel ein und der Druck steigt, die Kapsel wirkt als eine
@@ -4135,21 +4174,23 @@ besitzen wie die Milz eine Bindegewebskapsel.
 
 Die Niere filtert ausscheidungspflichtige  (z.\,B. Stickstoff und Abfallstoffe
 von Medikamenten) aus dem Blut. Daher ist auch sie äußerst gut durchblutet und
-reagiert sehr empfindlich auf einen Blutdruckabfall. Aus diesem Grund kann
-auch sie den Blutdruck regulieren.
+reagiert sehr empfindlich auf einen Blutdruckabfall. Aus
+diesem Grund hat sie auch einen Einfluss auf die
+Blutdruckregulation.
 
-Weiters ist sie Verantwortlich für die Verhältnisse der
+Weiters ist sie verantwortlich für die Verhältnisse der
 Elektrolytkonzentrationen im Blut und in den Geweben und damit für den
-Säure-Basen-Hasuhalt im Körper (pH!) sowie für den Wasserhaushalt.
+Säure-Basen-Haushalt im Körper (pH) sowie für den
+Wasserhaushalt.
 
-Zusätzlich bildet die Niere Hormone für die Blutdruckregulierung (Renin) und für
-die Blutbildung (Erythropoetin).
+Zusätzlich bildet die Niere Hormone für die Blutdruckregulierung \Z{(Renin)} und für
+die Blutbildung \Z{(Erythropoetin)}.
 
 Mit zunehemendem Alter, insbesondere bei Diabetikern, ist die Niere eines der
-Hauptorgane, die "`den Geist aufgeben"'. Dadurch resultiert eine chronische
-Niereninsuffizienz, die Patienten müssen regelmäßig zur Dialyse
-("`Blutwäsche"'). Außerdem zeigen diese Personen häufig eine Anämie durch den
-Mangel an Erythropoetin.
+Hauptorgane, die "`den Geist aufgeben"'. Daraus resultiert
+eine chronische Niereninsuffizienz, die Patienten müssen regelmäßig zur Dialyse
+("`Blutwäsche"'). Außerdem zeigen diese Personen häufig eine Anämie (Blutarmut) durch den
+Mangel an dem Blutbildungshormon \Z{Erythropoetin}.
 
 
 }{
@@ -4214,8 +4255,8 @@ gibt davon ca. 1 Mio in jeder Niere. Im Nephron kann man unterscheiden:
   abgepresst (ca.
   150\,\nicefrac{\Liter}{\Day})
   \item Schleifenapparat (Tubulus): Das abgepresste Plasma\-wasser wandert
-  den Schleifen\-apparat entlang, hier werden die meisten wichtigen
-  Stoffe und der Groß\-teil des Wassers wiederum zurückgeholt,
+  den Schleifen\-apparat entlang. Hier werden die meisten
+  wichtigen Stoffe und der Groß\-teil des Wassers wiederum zurückgeholt,
   sodass am Ende nur mehr \VonBis{1,5}{2}\Liter*
   Harn pro Tag in der Harnblasen landen.
 \end{itemize}
@@ -4317,7 +4358,7 @@ Außer den "`klassischen Bauchorganen"' liegen auch andere
 Organsysteme im Bauchraum auf die nicht vergessen werden
 sollte. Besonders betrifft das die weiblichen und männlichen
 Fortpflanzungsorgane wie Eierstöcke, Eileiter und Uterus
-bzw. Prostata, Samenbläschen. Diese werden allerdings im
+bzw. Prostata und Samenbläschen. Diese werden allerdings im
 Kapitel "`Geschlechtsorgane"' gesondert besprochen.
 
 \clearpage
@@ -4340,9 +4381,9 @@ Querschnitt. \SourcePicture{Lena Hirtler}}
 
 \Layout{0}{Hoden}
 {%
-Im Hoden findet die Spermiogenese - also die Bildung der
-Spermien statt. Der Hoden hat eine Pflaumenform mit einem
-ungefähren Längsdurchmesser von 5\CM* und paarig ist
+Im Hoden findet die Spermiogenese, also die Bildung der
+Spermien, statt. Der Hoden hat eine Pflaumenform mit einem
+ungefähren Längsdurchmesser von 5\CM* und ist paarig 
 angelegt. Er steht über die Nebenhoden in Verbindung mit den
 ableitenden Samenwegen.
 
@@ -4383,8 +4424,7 @@ im Nebenhoden ihre volle Befruchtungsfähigkeit.
 \Layout{0}{Samenstrang}
 {
 Unter Samenstrang versteht man die Struktur, die vom Hoden durch den
-Leistenkanal in Richtung Prostata und dann Penis führt.
-
+Leistenkanal in Richtung Prostata und Penis führt.
 In ihm verlaufen folgende Strukturen:
 \begin{itemize}
   \item Hodengefäße
@@ -4410,8 +4450,8 @@ Bauchraum).
 {%
 Die Prostata ist eine etwa kastaninengroße Drüse. Sie liegt
 direkt der Harnblase an und die Harnröhre läuft durch sie
-hindurch. Die Prostata liegt außerdem dem Enddarm an - sie
-ist so tastbar und jeder Mann über 50 sollte sich regelmäßig
+hindurch. Die Prostata liegt außerdem dem Enddarm an -- sie
+ist so tastbar und jeder Mann über 50 sollte sie regelmäßig
 untersuchen lassen. Mit dem zunehmenden Alter kann sie
 nämlich entarten. Postatakrebs ist eine der häufigsten
 Tumorarten beim Mann.
@@ -4441,7 +4481,7 @@ Der wichtigste Bestandteil des Penis ist der Schwellkörper.
 \begin{itemize}
   \item Corpus cavernosum: Ist in zwei Teile geteilt und
   befindet sich an der Oberseite. Es sorgt durch
-  Blutaufnahme für das steif-werden des Penis
+  Blutaufnahme für das Steif-werden des Penis
   \item Corpus spongiosum: liegt an der Unterseite. In ihm
   liegt die Harnröhre, die in der Eichel endet. Dadurch dass
   sich dieser Körper nicht so sehr mit Blut füllt, wird die
@@ -4567,7 +4607,7 @@ In den Körper münden die beiden Eileiter, die die
 befruchtete Eizelle in den Uterus führen sollen.
 
 Der Körper der Gebärmutter ist äußerst muskulös um bei der
-Geburt die Autreibung des Fetus zu ermöglichen.
+Geburt die Austreibung des Fetus zu ermöglichen.
 
 Die Schleimhaut unterliegt bei der geschlechtsreifen Frau
 zyklischen Veränderungen (siehe "`der weibliche Zyklus"').

@@ -786,6 +786,383 @@ Arbeits- und Ausbildungsstandards} {\color{darkBlue}für den Sanitätsdienst}} |
 
 \Layout{57}{Alarmzeichen {\color{DefaultRed}\bfseries{\VarFlag ~}} --
 Übersicht}{}{}{%
+% \begin{tabularx}{\linewidth}{XXX}
+% \TabHeading{Massive Störung}
+% &
+% \TabHeading{Alarm-Symptome}
+% &
+% \TabHeading{Alarm-Diagnosen}
+% \\\midrule
+% Bewusstsein
+% 
+% Atemweg / Atmung 
+% 
+% Kreislauf 
+% &
+% Atemnot, die sich nicht bessert 
+% 
+% Brodelndes Atemgeräusch 
+% 
+% Thoraxschmerz  
+% 
+% Schocksymptome 
+% 
+% entgleiste Vitalwerte
+% 
+% schwere Verletzungen
+% 
+% Hirndruckzeichen
+% 
+% {\dots} 
+% &
+% Herzinfarkt
+% 
+% Kardiales Lungenödem
+% 
+% Status Epilepticus
+% 
+% Beckenfraktur
+% 
+% \ldots
+% \\\bottomrule
+% \end{tabularx}
+% }{{\color{DefaultRed}\bfseries{\VarFlag}} \Ca{Alarmzeichen:}
+% Wann ist eine vitale Bedrohung
+% wahrscheinlich? Eine Übersicht.\label{tab:alarmzeichen}}{}
+% 
+% \vfill
+% \noindent{\sffamily\small{\textcopyright} \today\ \ARGEAASS \hfill \url{http://www.aass.at}}
+% 
+% \clearpage
+% % 
+% % \vspace{-\baselineskip}~
+% ~
+% \vfill
+% 
+% \MassnahmenWide{Standardmaßnahmen}{Einschätzungsblock}
+% {\label{m:ersteinschaetzung}\label{m:einschaetzungsblock}}
+% {%
+% \CorrectionItemizeBox\renewcommand{\itemhook}{%
+% %   \setlength{\topsep}{0pt}%
+%   \setlength{\itemsep}{0.004\baselineskip}
+% %   \setlength{\parskip}{\baselineskip}
+%   \setlength{\leftmargin}{1.4em}
+%   \setlength{\labelwidth}{0.9em}
+% }
+% \noindent\begin{minipage}[t]{\linewidth -
+% {2\fboxrule} - {2\fboxsep}}
+% \noindent\begin{minipage}[t]{\linewidth}
+% {\vspace{-0.8em} 
+% % \begin{tabulary}{\linewidth}[H]{cp{8em}p{8.5cm}}
+% \begin{tabularx}{\linewidth}[H]{p{2cm}XXX}
+% % \toprule\addlinespace
+% &
+% \TabHeading{Beurteilung / Untersuchung}
+% &
+% \TabHeading{{\eye} Erkenne}
+% &
+% \TabHeading{Typische Sofortmaßnahmen}
+% \\\addlinespace\toprule\addlinespace
+% \noindent\TabHeading{Szeneüberblick m. Schutz}
+% &
+% \begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Sicherheit, Selbstschutz; Patientenanzahl; Umgebung, Ort,
+% Zeit
+% \item Trauma? 
+% \end{itemize}
+% \end{minipage}
+% 
+% &
+% \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Gefahrenzonen, Umstände,
+% weitere Resourcen erforderlich, Unfallmechanismus, Großschaden 
+% \end{itemize}
+% \end{minipage} 
+% &
+% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item GAS-Maßnahmen (\prettyref{topic:gefahrengutunfall})
+%   \item Schutzausrüstung
+%   \item Nachforderung weiterer Kräfte
+% \end{itemize}
+% \end{minipage}
+% \\\addlinespace\toprule\addlinespace
+% \noindent\TabHeading{Eindruck}
+% &
+% \begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Hautfarbe, Gesichtsausdruck, Haltung, Sprache
+%   \item Sonstige Auffälligkeiten
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Blässe, Zyanose, 
+%   Schonhaltung, verwaschene Sprache,
+%   Krämpfe
+%   \item Trauma, insb. Hinweise auf WS-Verletzungen starke Blutungen
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Manuelle HWS-Fixierung
+%   \item Bewegungsverbot
+% \end{itemize}
+% \end{minipage}
+% \\\addlinespace\midrule\addlinespace
+% \noindent\TabHeading{Bewusstsein}
+% &
+% \begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Bewusstseinsgrad
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Somnolenz, Sopor, Koma
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item NA-Nachforderung
+% \end{itemize}
+% \end{minipage}
+% \\\addlinespace\midrule\addlinespace
+% \noindent\TabHeading{Hauptbeschwerde}
+% &
+% \begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Grund der Berufung, Schmerzen und andere dringliche
+%   Symptome
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Kritische Symptome
+%   \item Trauma
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+% % \begin{itemize}
+% %   \item \TxMassVit
+% % \end{itemize}
+% \end{minipage}
+% \\\addlinespace\toprule\addlinespace
+% \noindent\T{A}
+% 
+% \TabHeading{Atemweg}
+% &
+% \begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Inspektion (und Abtasten) von Mund, Nase und Hals
+%   \item Atemgeräusche
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Pfeifendes, gurgelndes oder schnarchendes
+%   Atemgeräusch, Gestik
+%   \item[→] frei oder verlegt?
+% \end{itemize}
+% \end{minipage} 
+% &
+% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Absaugung
+%   \item Fremdkörper entfernen
+%   \item \Z{Erweiterte Maßnahmen}
+% \end{itemize}
+% \end{minipage}
+% \\\addlinespace\midrule\addlinespace
+% \noindent\T{B}
+% 
+% \TabHeading{Atmung}
+% &
+% \begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Schätzen: \E{Frequenz} und \E{Tiefe}
+%   \item Atemgeräusche
+%   \item Inspektion (und Abtasten) von Thorax inkl. Atemprobe
+%   \item Anzeichen: \\
+%   Hautfarbe, Bauch-/Thorax\-bewegungen,
+%   Anstrengung beim Atmen, Atemhilfsmuskulatur, Zeichen der
+%   Atemnot
+% %   (\prettyref{topic:atemnot-zeichen-kinder})
+%   \item \Z{(Auskultation: Seitenvergleich, Lungenbasen)}
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Zyanose
+%   \item Atemnot
+%   \item Tachy-/Bradypnoe
+%   \item Flache oder tiefe Atmung
+%   \item Atemmuster
+%   \item Schnappatmung
+%   \item Paradoxe Atmung
+%   \item Fehlende Atmung
+%   \item Heimsauerstoff, Atemhilfen
+% \end{itemize}
+% \end{minipage}%Zyanose
+% % 
+% % Atemnot
+% % 
+% % Schnelle oder verlangsamte Atmung
+% % 
+% % Flache oder tiefe Atmung
+% % 
+% % Schnappatmung
+% % 
+% % Paradoxe Atmung
+% % 
+% % Fehlende Atmung
+% &
+% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Reanimation
+%   \item \ce{O2}-Gabe
+% %   \item Beatmung
+%   \item Situationsgerechte Lagerung
+%   \item \Z{Erweiterte Maßnahmen\\(Entlastung
+%   Spannungspneumothorax, \ldots )}
+% \end{itemize}
+% \end{minipage}
+% \\\addlinespace\midrule\addlinespace
+% \noindent\T{C}
+% 
+% \TabHeading{Kreislauf}
+% &
+% \begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Hautfarbe, -temperatur 
+%   \item Schweiß
+%   \item Rekap-Zeit 
+%   \item Radialispuls 
+%   \item[{\tiny\color{Indigo}\ovalbox{Trauma}}] Inspektion
+%   und Abtasten von
+%   \begin{inparaenum}
+%     \item \E{Bauch},
+%     \item \E{Becken} und
+%     \item \E{Oberschenkel}
+%   \end{inparaenum}
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Sichtbare Blutungen
+%   \item Schockzeichen
+%   \item Rhythmus 
+%   
+%   (Tachy-/Bradykardie, Arrhythmie)
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{Indigo}\itshape\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Blutstillung
+%   \item Situationsgerechte Lagerung
+% \end{itemize}
+% \end{minipage}
+% \\\addlinespace\midrule\addlinespace
+% \noindent\T{D}
+% 
+% \TabHeading{Schnelle\newline Untersuchung}
+% &
+% \begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Vitalwerte (\E{HF}, \E{RR})
+%   \item Sp\ce{O2}
+%   \item Orientierung
+%   \item Pupillen
+%   \item Kraftprobe (OE)
+%   \item[{\tiny\color{Indigo}\ovalbox{Trauma}}] Inspektion
+%   und Abtasten von
+%   \begin{inparaenum}
+%     \item \E{Kopf} inkl. Ohren,
+%     \item \E{Hals},
+% %     \item \E{Thorax} inkl. Atemprobe,
+% %     \item \E{Bauch},
+% %     \item \E{Becken} und
+% %     \item \E{Oberschenkel}
+%   \end{inparaenum}
+%   \item[{\tiny\color{Indigo}\ovalbox{Trauma}}] Kann der
+%   Patient \E{Hände} und \E{Füße} spüren und aktiv bewegen?
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Entgleiste Vitawerte
+%   \item Verwirrtheit
+%   \item Pupillen: Abnorme \E{Weite}, \E{Differenz},
+%   \E{Reaktion}, \E{Entrundung}
+%   \item Motorische und sensible Ausfälle
+%   \item Kritische Verletzungen
+% \end{itemize}
+% \end{minipage}
+% \\\addlinespace\midrule\addlinespace
+% \noindent\T{E}
+% 
+% \TabHeading{Erweiterte\newline Untersuchung}
+% 
+% {\tiny (Wenn Einschätzung der vitalen
+% Bedrohung oder Hauptbeschwerde unklar ist.)}
+% &
+% \begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Zielgerichtete Fragen auf Alarmzeichen, insb.
+%   Alarm-Diagnosen und rel. Begleiterkrankungen
+%   \item Inkl. relevante Teile der (Fremd-)Anamnese
+%   \item Ggfs. entkleiden (in warmer Umgebung)
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item Sonst. Hinweise auf vitale Bedrohung (z.\,B. $\geq$ 2 Krämpfe/24\Hour*)
+%   \item Kombinationen von Er\-krank\-ung\-en
+%   \item Prellmarken, Einstiche
+% \end{itemize}
+% \end{minipage}
+% \\\addlinespace\bottomrule\addlinespace
+% \TabHeading{Beurteilung}
+% &
+% \begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item \EE{Einschätzen der vitalen Bedrohung}
+%   ständig während des gesamten Blocks
+%   \item Vorläufige Verdachtsdiagnose formulieren
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{darkBlue}\itshape\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item \noindent\Ca{Alarmzeichen}
+%   \item Hinweise auf mögliche Diagnosen
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item {\TxMassVit} (unverzüglich, sobald Bedrohung
+%   erkannt!)
+%   \item Reihenfolge der weiteren Untersuchungen und
+%   Maßnahmen festlegen
+% \end{itemize}
+% \end{minipage}
+% \\\addlinespace\bottomrule
+% \end{tabularx}
 \begin{tabularx}{\linewidth}{XXX}
 \TabHeading{Massive Störung}
 &

@@ -6,9 +6,12 @@
 \settimeformat{nummeric}
 
 
-\newcommand{\DocVersion}{0.5.x-{\pdfdate}}
-\newcommand{\DocVersionTyp}{Entwicklungsversion}
-\newcommand{\DocVersionInfo}{Entwicklungsversion -- Für den internen Gebrauch.}
+% \newcommand{\DocVersion}{0.15.x-{\pdfdate}}
+\newcommand{\DocVersion}{0.16.0}
+% \newcommand{\DocVersionTyp}{Entwicklungsversion}
+\newcommand{\DocVersionTyp}{Vorabversion}
+% \newcommand{\DocVersionInfo}{Entwicklungsversion -- Für den internen Gebrauch.}
+\newcommand{\DocVersionInfo}{Vorabversion -- Für den internen Gebrauch.} 
 \hypersetup{
 colorlinks=false,
 linkcolor=darkBlue,
@@ -38,6 +41,6 @@ pdfkeywords=ARGE AASS, % Sets the document information Keywords field
 % DraftSuper			- Bilder, + Kommenatare, + draft=yes
 \newcommand{\DocStatus}{DraftFull}
 \newcommand{\DocGitCommit}{Unofficial build, no SHA1 included!}
-% \renewcommand{\DocGitCommit}{\input{../tmp/git-lastcommitsha1.tmp}}
+\renewcommand{\DocGitCommit}{\input{../tmp/git-lastcommitsha1.tmp}}
 \newcommand{\DocGitCommitFormatted}{\ttfamily\DocGitCommit}
 \newcommand{\DocGitCommitTiny}{\tiny\DocGitCommitFormatted}

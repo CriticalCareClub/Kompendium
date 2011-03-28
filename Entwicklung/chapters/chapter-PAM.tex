@@ -46,6 +46,7 @@ Voraussetzungen für effektives und professionelles Arbeiten.
 % 
 % \the\marginparwidth
 
+\clearpage % TODO temp clearpage
 \Layout{0}{\TxQuerverweise}
 {~
 
@@ -766,12 +767,12 @@ und welche warten können.
 % \includegraphics[width=\linewidth]{./images/emhofer-josef-aass/PAM.pdf}
 % \end{WidePar}
 \clearpage
-
-\minisec{Graphische Übersicht: Patientenmanagement}
-
-\bigskip
-
+% \minisec{Graphische Übersicht: Patientenmanagement}
+% 
 \noindent{\sffamily{\color{ubuntured}%
+{\bfseries\Huge\color{DefaultA}
+Patientenmanagement}\bigskip 
+
 Arbeits- und Ausbildungsstandards} {\color{darkBlue}für den Sanitätsdienst}} | {\AASS} 
 \hfill\textsf{\DocVersion}
 
@@ -1229,16 +1230,16 @@ wahrscheinlich? Eine Übersicht.\label{tab:alarmzeichen}}{}
 \noindent\begin{minipage}[t]{\linewidth -
 {2\fboxrule} - {2\fboxsep}}
 \noindent\begin{minipage}[t]{\linewidth}
-{\vspace{-0.8em} 
+{\vspace{-2em} 
 % \begin{tabulary}{\linewidth}[H]{cp{8em}p{8.5cm}}
-\begin{tabularx}{\linewidth}[H]{p{2.5cm}XX}
+\begin{tabularx}{\linewidth}[H]{p{2cm}XXX}
 % \toprule\addlinespace
 &
 \TabHeading{Beurteilung / Untersuchung}
 &
 \TabHeading{{\eye} Erkenne}
-% &
-% \TabHeading{Typische Sofortmaßnahmen}
+&
+\TabHeading{Typische Sofortmaßnahmen}
 \\\addlinespace\toprule\addlinespace
 \noindent\TabHeading{Szeneüberblick m. Schutz}
 &
@@ -1246,7 +1247,7 @@ wahrscheinlich? Eine Übersicht.\label{tab:alarmzeichen}}{}
 \begin{itemize}
   \item Sicherheit, Selbstschutz; Patientenanzahl; Umgebung, Ort,
 Zeit
-\item Trauma? 
+\item \EE{Trauma?}
 \end{itemize}
 \end{minipage}
 
@@ -1257,21 +1258,22 @@ Zeit
 weitere Resourcen erforderlich, Unfallmechanismus, Großschaden 
 \end{itemize}
 \end{minipage} 
-% &
-% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
-% \begin{itemize}
-%   \item GAS-Maßnahmen (\prettyref{topic:gefahrengutunfall})
-%   \item Schutzausrüstung
-%   \item Nachforderung weiterer Kräfte
-% \end{itemize}
-% \end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item GAS-Maßnahmen (\prettyref{topic:gefahrengutunfall})
+  \item Schutzausrüstung
+  \item Nachforderung weiterer Kräfte
+\end{itemize}
+\end{minipage}
 \\\addlinespace\toprule\addlinespace
 \noindent\TabHeading{Eindruck}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Hautfarbe, Gesichtsausdruck, Haltung, Sprache
-  \item Sonstige Auffälligkeiten
+  \item \EE{Hautfarbe}, Gesichtsausdruck, \EE{Haltung},
+  Sprache
+  \item Sonstige \EE{Auffälligkeiten}
 \end{itemize}
 \end{minipage}
 &
@@ -1283,19 +1285,19 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
   \item Trauma, insb. Hinweise auf WS-Verletzungen starke Blutungen
 \end{itemize}
 \end{minipage}
-% &
-% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
-% \begin{itemize}
-%   \item Manuelle HWS-Fixierung
-%   \item Bewegungsverbot
-% \end{itemize}
-% \end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Manuelle HWS-Fixierung
+  \item Bewegungsverbot
+\end{itemize}
+\end{minipage}
 \\\addlinespace\midrule\addlinespace
 \noindent\TabHeading{Bewusstsein}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Bewusstseinsgrad
+  \item \EE{Bewusstseinsgrad}
 \end{itemize}
 \end{minipage}
 &
@@ -1304,19 +1306,19 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
   \item Somnolenz, Sopor, Koma
 \end{itemize}
 \end{minipage}
-% &
-% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
-% \begin{itemize}
-%   \item NA-Nachforderung
-% \end{itemize}
-% \end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item NA-Nachforderung
+\end{itemize}
+\end{minipage}
 \\\addlinespace\midrule\addlinespace
 \noindent\TabHeading{Hauptbeschwerde}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Grund der Berufung, Schmerzen und andere dringliche
-  Symptome
+  \item \EE{Berufungsgrund}, Schmerzen und andere dringliche
+  \EE{Symptome}
 \end{itemize}
 \end{minipage}
 &
@@ -1326,12 +1328,12 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
   \item Trauma
 \end{itemize}
 \end{minipage}
-% &
-% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
-% % \begin{itemize}
-% %   \item \TxMassVit
-% % \end{itemize}
-% \end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item \TxMassVit
+% \end{itemize}
+\end{minipage}
 \\\addlinespace\toprule\addlinespace
 \noindent\T{A}
 
@@ -1339,8 +1341,10 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Inspektion (und Abtasten) von Mund, Nase und Hals
-  \item Atemgeräusche
+  \item Inspektion (und Abtasten) von \EE{Mund}, \EE{Nase}
+  und
+  \EE{Hals}
+  \item \EE{Atemgeräusche}
 \end{itemize}
 \end{minipage}
 &
@@ -1351,14 +1355,14 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
   \item[→] frei oder verlegt?
 \end{itemize}
 \end{minipage} 
-% &
-% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
-% \begin{itemize}
-%   \item Absaugung
-%   \item Fremdkörper entfernen
-%   \item \Z{Erweiterte Maßnahmen}
-% \end{itemize}
-% \end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Absaugung
+  \item Fremdkörper entfernen
+  \item \Z{Erweiterte Maßnahmen}
+\end{itemize}
+\end{minipage}
 \\\addlinespace\midrule\addlinespace
 \noindent\T{B}
 
@@ -1366,13 +1370,13 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Schätzen: \E{Frequenz} und \E{Tiefe}
+  \item Schätzen: \EE{Atemfrequenz},\,\EE{-tiefe}
   \item Atemgeräusche
-  \item Inspektion (und Abtasten) von Thorax inkl. Atemprobe
-  \item Anzeichen: \\
-  Hautfarbe, Bauch-/Thorax\-bewegungen,
-  Anstrengung beim Atmen, Atemhilfsmuskulatur, Zeichen der
-  Atemnot
+  \item Inspektion (und Abtasten) von \EE{Thorax} inkl.
+  Atemprobe
+  \item \E{Zeichen der
+  Atemnot}: Hautfarbe, Bauch-/Thorax\-bewegungen,
+  Anstrengung beim Atmen, Atemhilfsmuskulatur, \ldots
 %   (\prettyref{topic:atemnot-zeichen-kinder})
   \item \Z{(Auskultation: Seitenvergleich, Lungenbasen)}
 \end{itemize}
@@ -1385,23 +1389,21 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
   \item Tachy-/Bradypnoe
   \item Flache oder tiefe Atmung
   \item Atemmuster
-  \item Schnappatmung
-  \item Paradoxe Atmung
-  \item Fehlende Atmung
+  \item Fehlende, paradoxe, Schnappatmung 
   \item Heimsauerstoff, Atemhilfen
 \end{itemize}
 \end{minipage}
-% &
-% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
-% \begin{itemize}
-%   \item Reanimation
-%   \item \ce{O2}-Gabe
-% %   \item Beatmung
-%   \item Situationsgerechte Lagerung
-%   \item \Z{Erweiterte Maßnahmen\\(Entlastung
-%   Spannungspneumothorax, \ldots )}
-% \end{itemize}
-% \end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Reanimation
+  \item \ce{O2}-Gabe
+%   \item Beatmung
+  \item Situationsgerechte Lagerung
+  \item \Z{Erweiterte Maßnahmen\\(Entlastung
+  Spannungspneumothorax, \ldots )}
+\end{itemize}
+\end{minipage}
 \\\addlinespace\midrule\addlinespace
 \noindent\T{C}
 
@@ -1409,16 +1411,16 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Hautfarbe, -temperatur 
+  \item \EE{Hautfarbe}, \EE{-temperatur} 
   \item Schweiß
-  \item Rekap-Zeit 
-  \item Radialispuls 
+  \item \EE{Rekap}-Zeit 
+  \item \EE{Radialispuls}
   \item[{\tiny\color{Indigo}\ovalbox{Trauma}}] Inspektion
   und Abtasten von
   \begin{inparaenum}
-    \item \E{Bauch},
-    \item \E{Becken} und
-    \item \E{Oberschenkel}
+    \item \EE{Bauch},
+    \item \EE{Becken} und
+    \item \EE{Oberschenkel}
   \end{inparaenum}
 \end{itemize}
 \end{minipage}
@@ -1432,13 +1434,13 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
   (Tachy-/Bradykardie, Arrhythmie)
 \end{itemize}
 \end{minipage}
-% &
-% \noindent\color{Indigo}\itshape\begin{minipage}[t]{\linewidth}
-% \begin{itemize}
-%   \item Blutstillung
-%   \item Situationsgerechte Lagerung
-% \end{itemize}
-% \end{minipage}
+&
+\noindent\color{Indigo}\itshape\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Blutstillung
+  \item Situationsgerechte Lagerung
+\end{itemize}
+\end{minipage}
 \\\addlinespace\midrule\addlinespace
 \noindent\T{D}
 
@@ -1446,23 +1448,19 @@ weitere Resourcen erforderlich, Unfallmechanismus, Großschaden
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Vitalwerte (\E{HF}, \E{RR})
-  \item Sp\ce{O2}
-  \item Orientierung
-  \item Pupillen
-  \item Kraftprobe (OE)
+  \item Vitalwerte (\EE{HF}, \EE{RR})
+  \item \EE{Sp\ce{O2}}
+  \item \EE{Orientierung}
+  \item \EE{Pupillen}
+  \item \EE{Kraftprobe OE}
   \item[{\tiny\color{Indigo}\ovalbox{Trauma}}] Inspektion
   und Abtasten von
   \begin{inparaenum}
-    \item \E{Kopf} inkl. Ohren,
-    \item \E{Hals},
-%     \item \E{Thorax} inkl. Atemprobe,
-%     \item \E{Bauch},
-%     \item \E{Becken} und
-%     \item \E{Oberschenkel}
+    \item \EE{Kopf} inkl. Ohren,
+    \item \EE{Hals}
   \end{inparaenum}
   \item[{\tiny\color{Indigo}\ovalbox{Trauma}}] Kann der
-  Patient \E{Hände} und \E{Füße} spüren und aktiv bewegen?
+  Patient \EE{Hände} und \EE{Füße} spüren und aktiv bewegen?
 \end{itemize}
 \end{minipage}
 &
@@ -1486,10 +1484,10 @@ Bedrohung oder Hauptbeschwerde unklar ist.)}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Zielgerichtete Fragen auf Alarmzeichen, insb.
-  Alarm-Diagnosen und rel. Begleiterkrankungen
-  \item Inkl. relevante Teile der (Fremd-)Anamnese
-  \item Ggfs. entkleiden (in warmer Umgebung)
+  \item \EE{Zielgerichtete Fragen u. Untersuchungen} auf
+  Alarmzeichen, insb. Alarm-Diagnosen und rel. Begleiterkrankungen
+  \item (Fremd-)Anamnese
+  \item Ggfs. entkleiden (Wärmeerhalt!)
 \end{itemize}
 \end{minipage}
 &
@@ -1517,15 +1515,16 @@ Bedrohung oder Hauptbeschwerde unklar ist.)}
   \item Hinweise auf mögliche Diagnosen
 \end{itemize}
 \end{minipage}
-% &
-% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
-% \begin{itemize}
-%   \item {\TxMassVit} (unverzüglich, sobald Bedrohung
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item {\TxMassVit} 
+%   (unverzüglich, sobald Bedrohung
 %   erkannt!)
-%   \item Reihenfolge der weiteren Untersuchungen und
-%   Maßnahmen festlegen
-% \end{itemize}
-% \end{minipage}
+  \item Reihenfolge der weiteren Untersuchungen und
+  Maßnahmen festlegen
+\end{itemize}
+\end{minipage}
 \\\addlinespace\bottomrule
 \end{tabularx}
 
@@ -1537,7 +1536,7 @@ rechtzeitig zu erkennen!
 \end{center}
 
 {\footnotesize(Eingeklammerte) Punkte werden nur durchgeführt, wenn sie
-situationsentsprechend sind. Die Punkte unter "`Typische
+\E{situationsentsprechend} sind. "`Typische
 Sofortmaßnahmen"' sind als \E{Beispiele} zu verstehen.}
 }
 \end{minipage}

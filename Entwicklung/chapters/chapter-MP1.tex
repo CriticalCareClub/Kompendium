@@ -840,15 +840,38 @@ ausreichende \EE{Zeitreserve} einzuplanen!}
 \begin{quote}
 Man hat eine Flasche mit einer Füllgröße von 10\Liter*. Diese
 steht unter einem Druck von 150\Bar*: Daraus ergibt
-sich, dass in der Flasche 1500\Liter* \ce{O2} sind.
+sich, dass in der Flasche 1\,500\Liter* \ce{O2} sind.
 
 Der Patient benötigt 5\,\unitfrac{\Liter}{\Min} \ce{O2} : 
 
-Der Inhalt würde theoretisch für 300 Minuten reichen. Ein
-Reservevolumen ist dabei aber noch nicht berücksichtigt!
+Der Inhalt würde theoretisch für 300 Minuten reichen. Der
+Restdruck sowie eine Zeitreserve sind dabei
+aber noch \E{nicht} berücksichtigt!
 \end{quote}
 
+\minisec{Beispiel}
 
+\begin{quote}
+Gegeben ist: 
+\begin{itemize}
+  \item \ce{O2}-Flasche mit Füllgröße von 10\Liter*, Druck von
+160\Bar*
+\item Patient: \ce{O2}-Bedarf von 5\LPerMin*
+\item Fahrtdauer laut Routenplaner:
+4\Hour*~58\Min*
+\end{itemize}
+
+Nach Abzug des Restdruckes ergibt sich ein nutzbarer Druck
+von 150\Bar* und folglich eine nutzbare \ce{O2}-Menge von
+1\,500\Liter*. Der Patient könnte daher für 300\Min* mit
+Sauerstoff versorgt werden. Die (geschätzte) Fahrtdauer
+von 4\Hour*~58\Min* entspricht 298\Min*, es ergibt sich
+eine Zeitreserve von 2\Min*.
+
+Da die Zeitreserve von 2\Min* zu kurz ist, kann der
+Transport mit dieser Ausstattung \E{nicht} durchgeführt
+werden. 
+\end{quote}
 
 
 

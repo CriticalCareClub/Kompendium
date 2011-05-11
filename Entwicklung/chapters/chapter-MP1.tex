@@ -308,7 +308,7 @@ Es gibt Manschetten in unterschiedlichen Größen.
 {}
 
 
-\Layout{27}{Abbildung}
+\Layout{37}{Abbildung}
 {}
 {}
 {./images/pallinger-christoph-aass/Blutdruck_32768_export_01024.jpg}
@@ -586,11 +586,12 @@ Patienten!
 \TODO{GABS}{2010-08-04}{Bild: Sauerstofffl., Druckminderer fehlt.}{}
 \TODO{KOCH}{2010-11-06}{Kennzeichnung O2-Flasche ohne "`N"'?}{}
 %
-Sauerstoff wird in Druckflaschen gelagert.
+Sauerstoff ist ein farb- und geruchsloses Gas und wird in
+Druckflaschen gelagert.
 
-\Layout{0}{Farbkennzeichnung}
-{Die Farbe von Gasflaschen ist normiert\ZFootnote{Normen zur Kennzeichnung von
-Gasflaschen: EN~1089-3, in der jeweiligen nationalen
+\Layout{0}{Kennzeichnung}
+{Die \EE{Farbe} von Gasflaschen ist
+normiert\ZFootnote{Normen zur Kennzeichnung von Gasflaschen: EN~1089-3, in der jeweiligen nationalen
 Umsetzung (z.\,B. DIN EN~1089-3, ÖNORM EN~1089-3
 (Verbindlichkeit gem. Versandbehälterverordnung~2002 (VBV~2002)), \ldots).}.
 Flaschen mit Sauerstoffbefüllung werden an der
@@ -603,7 +604,10 @@ Gasflaschen mit \EE{medizinischem Sauerstoff} sind daher
 Flaschenschulter, jedoch einen \E{blauen Flaschenkörper}.
 Technischer Sauerstoff darf Patienten nicht verabreicht
 werden.}.
-\cite{AUT-LAW-VBV2002-1,Igv2010}
+\cite{AUT-LAW-VBV2002-1,Igv2010} 
+
+Weiters ist auf Druckgasflaschen ein
+\EE{Gefahrengutaufkleber} angebracht.
 
 \Fazit{Gasflaschen mit \EE{\E{medizinischem} Sauerstoff}
 sind
@@ -649,6 +653,7 @@ medizinischen Gase) nicht festgelegt.
 {
 \begin{itemize}
   \item Medizinischer Sauerstoff: Vollständig weiß
+  \item Gefahrengutaufkleber
 \end{itemize}
 }
 {}
@@ -722,23 +727,7 @@ Flasche eine enorme Kraft entwickeln und zu einer Rakete
 werden. Die Kraft einer mit 200\Bar* gefüllten Flasche reicht
 aus, um Mauern zu durchbrechen!
 
-\Cave{
-\Ca{Achtung! Vorsicht beim Hantieren -- Zerknall- und
-Explosionsgefahr!}
-\begin{enumerate}
-    \item Sauerstoff ist zusammen mit Fett selbstentzündlich!
-    \begin{enumerate}
-        \item Die Armaturen und Gewinde sind fettfrei zu
-        halten!
-        \item Ventile dürfen nicht mit fetten oder öligen Händen
-        bedient werden! 
-    \end{enumerate}
-    \item Das Hantieren mit Feuer und offenem
-    Licht ist in der Nähe von Sauerstoffflaschen verboten!
-    \item Die Druckflaschen sind immer zu sichern und vor
-    Umfallen, etc. zu schützen!
-\end{enumerate}
-}
+
 }{
 \Ca{← Siehe Fließtext!}
 }{}{}{}
@@ -757,17 +746,42 @@ muss dies auf alle Fälle \EE{extra am Manometer kontrolliert
 werden}! Das \EE{Abgabeventil} muss beim Abmontieren
 \EE{geöffnet} sein.
 
-\Cave{\Ca{Lebensgefahr!} Vor der Abmontage eines
-Druckminderers oder einer Druckleitung muss die
-Überdruckfreiheit geprüft und das Abgabeventil geöffnet
-werden!}
+
+
 }{
 \Ca{← Siehe Fließtext!}
 }{}{}{}
 
+
+
+\Layout{2}{\Ca{Sicherheitshinweise}}
+{\Cave{\Ca{Achtung! Vorsicht beim Hantieren -- Zerknall- und
+Explosionsgefahr!}
+\begin{enumerate}
+    \item Sauerstoff ist zusammen mit Fett selbstentzündlich!
+    \begin{enumerate}
+        \item Die Armaturen und Gewinde sind fettfrei zu
+        halten!
+        \item Ventile dürfen nicht mit fetten oder öligen Händen
+        bedient werden! 
+    \end{enumerate}
+    \item Das Hantieren mit Feuer und offenem
+    Licht ist in der Nähe von Sauerstoffflaschen verboten!
+    \item Die Druckflaschen sind immer zu sichern und vor
+    Umfallen, etc. zu schützen!
+\end{enumerate}
+
+\Ca{Lebensgefahr!} Vor der Abmontage eines
+Druckminderers oder einer Druckleitung muss die
+Überdruckfreiheit geprüft und das Abgabeventil geöffnet
+werden!
+
 \Fazit{Die Sauerstoffflaschen sind pfleglich zu behandeln!}
-
-
+}}
+{}
+{}
+{}
+{}
 
 \subsection{Heiteres Rechnen mit Sauerstoff}
 
@@ -775,7 +789,9 @@ Mit Sauerstoff lässt sich gut rechnen ...
 
 Die insgesamt verfügbare Menge wird errechnet, indem man
 die Füllgröße der Flasche (in Liter) mit dem
-Flaschendruck (in Bar) multipliziert.
+Flaschendruck (in Bar) multipliziert. Wenn man wissen möchte, wie lange die vorhandene Sauerstoffmenge bei
+einer bestimmten Abgaberate reicht, dividiert man einfach
+die gesamt verfügbare Menge durch die Abgaberate. 
 
 \Formula{
 \begin{displaymath}
@@ -787,6 +803,11 @@ Flaschendruck (in Bar) multipliziert.
 \mbox{(Flaschendruck)}
 \end{array}
 \end{displaymath}
+
+\begin{displaymath}
+\mbox{Zeit} = \frac{\mbox{Verfügbare
+Menge}}{\mbox{Abgaberate}}
+\end{displaymath}
 }
 
 
@@ -796,22 +817,16 @@ Flaschendruck (in Bar) multipliziert.
 %l = {Volumen} \times {Druck}
 %\end{equation}
 
-Wenn man wissen möchte, wie lange die vorhandene Sauerstoffmenge bei
-einer bestimmten Abgaberate reicht, dividiert man einfach
-die gesamt verfügbare Menge durch die Abgaberate. 
 
-\Ca{Achtung!} Es ist eine \EE{ausreichende Reserve}
-einzuplanen, in der Flasche sollten min. \EE{10\Bar*
-Restdruck} verbleiben! 
 
-\Fazit{Es ist eine \EE{Zeitreserve} und der \EE{Restdruck} abzuziehen!}
+\Ca{Achtung!} In der Flasche sollten min. \EE{10\Bar*
+Restdruck} verbleiben und es ist eine \EE{ausreichende
+Zeitreserve} einzuplanen!  
 
-\Formula{
-\begin{displaymath}
-\mbox{Zeit} = \frac{\mbox{Verfügbare
-Menge}}{\mbox{Abgaberate}}
-\end{displaymath}
-}
+\Fazit{Es ist ein \EE{Restdruck} abzuziehen und eine
+ausreichende \EE{Zeitreserve} einzuplanen!}
+
+
 
 %oder kurz: 
 

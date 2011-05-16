@@ -1,19 +1,20 @@
-\documentclass[
-ngerman,
-paper=a4,
-asymmetric,
-fontsize=9pt,
-% headings=small,
-draft=false,
-parskip=half,
-% listof=totoc,         % verschiebt Minitoc/Hyperref
-% bibliography=totoc,   % verschiebt Minitoc/Hyperref
-bibtotocnumbered,
-% index=totoc,
-% noonelinecaption,
-footnotes=multiple,
-% toc=flat,
-]{scrbook}
+% \documentclass[
+% ngerman,
+% paper=a4,
+% asymmetric,
+% fontsize=9pt,
+% % headings=small,
+% draft=false,
+% parskip=half,
+% % listof=totoc,         % verschiebt Minitoc/Hyperref
+% % bibliography=totoc,   % verschiebt Minitoc/Hyperref
+% bibtotocnumbered,
+% % index=totoc,
+% % noonelinecaption,
+% footnotes=multiple,
+% % toc=flat,
+% ]{scrreprt}
+\documentclass[fontsize=9pt,paper=a4,parskip=half,DIV=15,twocolumn=no]{scrartcl}
 % \setlength{\parindent}{1.5em}
 % \usepackage{scrhack}
 
@@ -43,7 +44,7 @@ footnotes=multiple,
 % \usepackage{showidx} % shows index entries on page margin
 % \usepackage{showkeys}
 
-\input{./inputs/input-preamble}
+\input{./inputs/input-preamble-dossier}
 
 % Trennungen
 \input{./inputs/input-hyphenation}
@@ -104,6 +105,7 @@ footnotes=multiple,
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
+\flushbottom
 % \pagestyle{scrheadings}
 
 % \setmainfont[SmallCapsFont={* Caps},
@@ -112,151 +114,84 @@ footnotes=multiple,
 % \setmonofont[SmallCapsFont={* Caps}]{Latin Modern Mono}
 
 % \defaultfontfeatures{Numbers=OldStyle}
-\MultiColListStart{toc}{2}
-\MultiColListStart{lofazit}{2}
-\MultiColListStart{lomassnahmen}{2}
+% \MultiColListStart{toc}{2}
+% \MultiColListStart{lofazit}{2}
+% \MultiColListStart{lomassnahmen}{2}
 
 \nobibliography*
 
-\newgeometry{verbose,
-a4paper,
-asymmetric,
-% reversemp,
-reversemarginpar,
-% % includemp,
-% % tmargin=25mm,
-% % bmargin=20mm,
-rmargin=13mm,
-lmargin=13mm,
-% % outer  = 56mm,
-% % inner  = 56mm,
-top    = 20mm,
-bottom = 15mm,
-% % hmarginratio=2:1,
-marginparwidth = 0mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
-footskip = 5mm,
-% % includehead,
-bindingoffset=1.5cm}
-\savegeometry{FullPage}
-\newgeometry{verbose,
-a4paper,
-asymmetric,
-% reversemp,
-reversemarginpar,
-% % includemp,
-% % tmargin=25mm,
-% % bmargin=20mm,
-rmargin=13mm,
-lmargin=13mm,
-% % outer  = 56mm,
-% % inner  = 56mm,
-top    = 10mm,
-bottom = 10mm,
-% % hmarginratio=2:1,
-marginparwidth = 0mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
-footskip = 5mm,
-% % includehead,
-bindingoffset=1.5cm}
-\savegeometry{WholePage}
-\restoregeometry
+% \newgeometry{verbose,
+% a4paper,
+% asymmetric,
+% % reversemp,
+% reversemarginpar,
+% % % includemp,
+% % % tmargin=25mm,
+% % % bmargin=20mm,
+% rmargin=13mm,
+% lmargin=13mm,
+% % % outer  = 56mm,
+% % % inner  = 56mm,
+% top    = 20mm,
+% bottom = 15mm,
+% % % hmarginratio=2:1,
+% marginparwidth = 0mm,
+% % % headheight=0.5cm,
+% % % headsep=0.5cm,
+% footskip = 5mm,
+% % % includehead,
+% bindingoffset=1.5cm}
+% \savegeometry{FullPage}
+% \newgeometry{verbose,
+% a4paper,
+% asymmetric,
+% % reversemp,
+% reversemarginpar,
+% % % includemp,
+% % % tmargin=25mm,
+% % % bmargin=20mm,
+% rmargin=13mm,
+% lmargin=13mm,
+% % % outer  = 56mm,
+% % % inner  = 56mm,
+% top    = 10mm,
+% bottom = 10mm,
+% % % hmarginratio=2:1,
+% marginparwidth = 0mm,
+% % % headheight=0.5cm,
+% % % headsep=0.5cm,
+% footskip = 5mm,
+% % % includehead,
+% bindingoffset=1.5cm}
+% \savegeometry{WholePage}
+% \restoregeometry
 
 
 
-\opt{STATUS-DRAFT-SHOWKEYS}{\renewcommand{\label}[1]{{\color{black}\fbox{{\ttfamily #1 }}}}}
-
-
-\loadgeometry{FullPage}
+% \loadgeometry{FullPage}
 \maketitle
 
+\begin{multicols}{2}
 
-\opt{STATUS-DRAFT}{{\scriptsize\listof{warning}{Verzeichnis der Warnungen}}}
-
-
-
-\restoregeometry
+% \restoregeometry
 
 %\nocite{*} 
 
 % \layout\pagediagram\pagedesign\paragraphdiagram\paragraphdesign\floatpagediagram\floatpagedesign\listdiagram\listdesign\footnotediagram\footnotedesign\tocdiagram\tocdesign
 
-\clearpage
-\section{Vorwort}
-
-
-
-\parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
-Die Arbiets- und Ausbildungsstandards -- gegenwärtige in der
-Version 0.16.0 (8. Vorabversion) -- sind das
-(Zwischen-)Ergebnis einer seit mehr als zwei Jahren andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
-ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
-und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
-leisten könnte, still zu stehen.
-
-Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
-bereits breitgetretener Pfade darzustellen, und sowohl eine Unterlage für die
-Ausbildung, als auch ein Hilfsmittel für die Praxis zu schaffen.  Besonderen
-Wert haben wir dabei nicht nur auf die Praxis, sondern auch -- heutzutage nicht
-mehr ganz modern -- auf das Hintergrundwissen und relevante Randbereiche gelegt.
-Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
-wieder veraltet ist, bildet dieses Fundament die Chance für eine
-langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
-(anstatt strikten, regel\E{gebundenen} Handelns). 
-
-In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
-Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
-österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
-Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
-schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
-einem Jahr als Lern- und Ausbildungsunterlage
-bewähren.
-
-
-
-\paragraph{Dieses Werk ist keine "`Dienstanweisung"'!}~~
-
-\parpic[r][r]{\includegraphics[width=2cm]{./images/teaser/affe-sama-ambas-schein_00800.jpg}}
-Eines muss vorweg klargestellt werden: Auch wenn es sehr in
-Mode gekommen ist, Abläufe zu standardisieren und
-festzuschreiben, so ist dies keine taugliche
-Herangehensweise, um komplexe Probleme in der Medizin oder
-im Sanitätsdienst zu bewältigen. Zu komplex sind die
-Variablen, und zu gering bzw. zu unangepasst an konkrete
-Situationen ist das gesicherte Wissen, auf dem
-festgeschriebene Prozesse basieren. Der menschliche Faktor,
-insbesonders die jeweilige Erfahrungen, ist und bleibt der
-entscheidende Faktor jeglichen Handelns. Kein Lehrbuch oder
-standardisierter Prozess kann das ändern, sofern das Ziel
-ein "`gutes"' Ergebnis, und keine statistische Kennziffer
-ist.
-
-In diesem Sinne ist der Titel dieses Werkes nicht im Sinne eines
-standardisierten Prozessmanagements zu verstehen, sondern soll einen
-\E{Basisstandard} bezüglich medizinisch-sanitätsdienstlichem Wissen und
-Kompetenz bilden, der individuell -- je nach Situation bzw. durch vom Helfer
-andernorts erworbenen Wissens -- grundsätzlich verbesserbar ist. Die {\AASS}
-geben Empfehlungen, es obliegt dem Helfer diese gemäß seiner 
-fachlichen Erfahrung und Kenntnisse zu interpretieren, einzusetzen oder
-anzupassen -- 
-
-\Speech{salus aegroti suprema lex}\footnote{salus aegroti suprema lex \Lang{lat.}: \Speech{Das
-Wohl des Kranken ist oberstes Gebot.}}.
-
-\bigskip
-
-\bigskip
-
-\emph{Wien, im Frühjar 2011}
-
+% \clearpage
+% \section{Vorwort}
+% 
+% 
+% 
 
 % 
+% 
+% % 
+% % \clearpage
+% % \input{./inputs/input-Impressum}
+% 
 % \clearpage
-% \input{./inputs/input-Impressum}
-
-\clearpage
 % \input{./inputs/input-Credits}
 
 
@@ -342,12 +277,150 @@ Wohl des Kranken ist oberstes Gebot.}}.
 
 
 
+\tableofcontents
 
 
 
 
+\section{Über das Projekt}
 
-\chapter{Über das Projekt}
+Die Arbeits- und Ausbildungsstandards -- gegenwärtige in
+der Version 0.16.0 (8. Vorabversion) -- sind das
+(Zwischen-)Ergebnis einer seit mehr als zwei Jahren andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
+ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
+und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
+leisten könnte, still zu stehen.
+
+Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
+bereits breitgetretener Pfade darzustellen, und sowohl eine Unterlage für die
+Ausbildung, als auch ein Hilfsmittel für die Praxis zu schaffen.  Besonderen
+Wert haben wir dabei nicht nur auf die Praxis, sondern auch -- heutzutage nicht
+mehr ganz modern -- auf das Hintergrundwissen und relevante Randbereiche gelegt.
+Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
+wieder veraltet ist, bildet dieses Fundament die Chance für eine
+langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
+(anstatt strikten, regel\E{gebundenen} Handelns).
+
+In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
+Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung
+österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
+Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
+schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
+einem Jahr als Lern- und Ausbildungsunterlage
+bewähren.
+
+\begin{tabularx}{\linewidth}{XXX}\toprule\addlinespace
+\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}
+&
+\includegraphics[width=2cm]{./images/teaser/affe-sama-ambas-schein_00800.jpg}
+&
+
+\\\addlinespace\bottomrule
+\end{tabularx}
+
+\paragraph{Dieses Werk ist keine "`Dienstanweisung"'!}~~
+
+Eines muss vorweg klargestellt werden: Auch wenn es sehr in
+Mode gekommen ist, Abläufe zu standardisieren und
+festzuschreiben, so ist dies keine taugliche
+Herangehensweise, um komplexe Probleme in der Medizin oder
+im Sanitätsdienst zu bewältigen. Zu komplex sind die
+Variablen, und zu gering bzw. zu unangepasst an konkrete
+Situationen ist das gesicherte Wissen, auf dem
+festgeschriebene Prozesse basieren. Der menschliche Faktor,
+insbesonders die jeweilige Erfahrungen, ist und bleibt der
+entscheidende Faktor jeglichen Handelns. Kein Lehrbuch oder
+standardisierter Prozess kann das ändern, sofern das Ziel
+ein "`gutes"' Ergebnis, und keine statistische Kennziffer
+ist.
+
+In diesem Sinne ist der Titel dieses Werkes nicht im Sinne eines
+standardisierten Prozessmanagements zu verstehen, sondern soll einen
+\E{Basisstandard} bezüglich medizinisch-sanitätsdienstlichem Wissen und
+Kompetenz bilden, der individuell -- je nach Situation bzw. durch vom Helfer
+andernorts erworbenen Wissens -- grundsätzlich verbesserbar ist. Die {\AASS}
+geben Empfehlungen, es obliegt dem Helfer diese gemäß seiner
+fachlichen Erfahrung und Kenntnisse zu interpretieren, einzusetzen oder
+anzupassen -- 
+\Speech{salus aegroti suprema lex}\footnote{salus aegroti suprema lex \Lang{lat.}: \Speech{Das
+Wohl des Kranken ist oberstes Gebot.}}.
+    
+    
+
+
+Die {\AASS} wenden sich an ein weit gefasstes Publikum, sie
+sollen die wissensmäßigen Grundbedürfnisse  von allen im
+Sanitätsdienst tätigen Personen abdecken können. 
+
+Eine besondere Herausforderung ist dabei, 
+
+\subsection{Zielpublikum}
+Im Folgenden ist das derzeitigge Zielpublikum näher definiert. Es wird
+nach Priorität zwischen primären, sekundären und tertiärem Publikum
+unterschieden.
+
+
+\paragraph{Rettungssanitäter in Ausbildung} 
+Die \AASS{} dienen als Kursunterlage für den Kurs des Moduls 1 laut
+SanG/SanAVO. Sie ermöglichen sowohl eine praxisorientierte Ausbildung, als auch
+eine Versorgung der Lernenden mit obligaten und optionalen
+Hintergrundinformationen.
+
+Praxisorientierte Handlungsanweisungen und substantielle
+Hintergrundinformationen sind einander gleichwertig. 
+
+\paragraph{Rettungssanitäter} (RS) 
+Der RS findet in den \AASS{} eine solide Wissensbasis, die ihm hilft seine
+Alltagsprobleme zu lösen. Darüber hinaus findet er erklärende
+Hintergrundinformationen und Informationen zu weiteren Recherche- und
+Wissenquellen. 
+\paragraph{Notfallsanitäter} (NFS) 
+
+
+
+% \end{table*}
+
+
+
+\section{Projektdetails}
+
+% \subsection{Versionsbezeichnungen}
+
+\paragraph{Bisherige Versionen}~
+
+\begin{description}
+    \item[0.2.0] 2009-07 (VV\footnote{Vorabversion}, 349 Änderungen\footnote{Seit
+    Übernahme in das Versionsverwaltungssystem.})
+    \item[0.4.0] 2009-09 (VV, 284 Änderungen)
+    \item[0.6.0] 2009-10 (VV, 322 Änderungen)
+    \item[0.8.0] 2010-01 (VV, 653 Änderungen)
+    \item[0.10.0] 2010-06 (VV, 935 Änderungen)
+    \item[0.12.0] 2010-08 (VV, 489 Änderungen)
+    \item[0.14.0] 2011-01 (VV, 706 Änderungen)
+    \item[0.16.0] 2011-03 (VV, 141 Änderungen)
+  \end{description}
+
+\paragraph{Geplante Versionen}~
+
+\begin{description}
+    \item[1.0.0~RC\,1] Öffentliche Vorabversion (Release
+    Candidate, Review)
+    
+    Sommer 2011
+    \item[1.0.0] Erste öffentliche Version, Herbst 2011
+\end{description}
+
+\subsection{Gliederung}
+Die Kapitel bzw. Systemdateien werden mittel 3-stelliger
+Abkürzung gekennzeichnet:
+
+DIe {\AASS} gliedern sich in 
+
+
+
+\section{Die Herangehensweise}
+
+
 
 \section{Die \ARGE}
 
@@ -355,12 +428,8 @@ Wohl des Kranken ist oberstes Gebot.}}.
 
 Die \emph{'Arbeitsgemeinschaft Arbeits- und
     Ausbildungsstandards für den Sanitätsdienst'}, abgekürzt {\ARGE},
-    \footnote{Die englische Übersetzung lautet \emph{'Association for
-    operational and
-    educational standards for emergency medical services'}.}
-    ist ein gemeinnütziger\footnote{Der Verein verfolgt gemeinnützige Ziele gem.
-    \emph{\S\S\,34-47~BAO}, seine Tätigkeiten sind nicht auf Gewinn
-    ausgerichtet.} Verein mit Sitz in Wien. 
+    ist ein gemeinnütziger Verein mit Sitz in Wien, seine Tätigkeiten sind nicht
+    auf Gewinn ausgerichtet. 
     Die \ARGE{} bezweckt die Entwicklung, Wartung,
     Qualitätssicherung, Anpassung, Verbreitung und Lehre von wissenschaftlich und sachlich fundierten Arbeits- und
     Ausbildungsstandards für den Sanitätsdienst (\AASS{}), sowie
@@ -377,207 +446,45 @@ Die \emph{'Arbeitsgemeinschaft Arbeits- und
     werden.
         
 
-\subsection{Mitarbeit}
+\paragraph{Mitarbeit}
 
-\subsubsection{Mitgliedschaft}
-Mitglieder des Vereins können grundsätzlich alle physischen Personen sowie
-juristische Personen und rechtsfähige
-Personengesellschaften werden.
-
-Die Mitglieder des Vereins gliedern sich in ordentliche,
-außerordentliche, fördernde  und Ehrenmitglieder.
-
-Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit
-beteiligen. Über deren Aufnahme
-entscheidet der Vorstand. Der Vorstand hat bei der Entscheidung insbesonders zu berücksichtigen:
-\begin{inparaenum}
-  \item Die fachliche und persönliche Eignung zum
-  Erreichen des Vereinszweckes.
-  \item Die einschlägige Berufs- und
-  Tätigkeitserfahrung.
-  \item Die persönliche Integrität und
-  Zuverlässigkeit.
-  \item Die Gesinnung gegenüber Mitmenschen und das
-  Bekenntnis zum Altruismus.
-  \item Die Beweggründe dem Verein beizutreten.
-\end{inparaenum}
-
-Außerordentliche Mitglieder sind solche, die persönliches Interesse an der
-Vereinstätigkeit haben ohne sich jedoch in vollem Umfang zu beteiligen. Über die Aufnahme von außerordentlichen Mitgliedern
-entscheidet der Vorstandsvorsitzende, in zweiter Insatnz der Vorstand.
-
-Fördernde Mitglieder sind solche, die die
-Vereinstätigkeit  vor allem durch Zahlung eines erhöhten Mitgliedsbeitrags
-fördern.
-Ehrenmitglieder sind Personen, die hiezu wegen besonderer
-Verdienste  um den Verein ernannt werden. Die Ernennung zum Ehrenmitglied
-erfolgt durch den Vorstand.
-
-    
-    
+% \paragraph{Mitgliedschaft}
+% Mitglieder des Vereins können grundsätzlich alle physischen Personen sowie
+% juristische Personen und rechtsfähige
+% Personengesellschaften werden.
+% 
+% Die Mitglieder des Vereins gliedern sich in ordentliche,
+% außerordentliche, fördernde  und Ehrenmitglieder.
+% 
+% Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit
+% beteiligen. Über deren Aufnahme
+% entscheidet der Vorstand. Der Vorstand hat bei der Entscheidung insbesonders zu berücksichtigen:
+% \begin{inparaenum}
+%   \item Die fachliche und persönliche Eignung zum
+%   Erreichen des Vereinszweckes.
+%   \item Die einschlägige Berufs- und
+%   Tätigkeitserfahrung.
+%   \item Die persönliche Integrität und
+%   Zuverlässigkeit.
+%   \item Die Gesinnung gegenüber Mitmenschen und das
+%   Bekenntnis zum Altruismus.
+%   \item Die Beweggründe dem Verein beizutreten.
+% \end{inparaenum}
+% 
+% Außerordentliche Mitglieder sind solche, die persönliches Interesse an der
+% Vereinstätigkeit haben ohne sich jedoch in vollem Umfang zu beteiligen. Über die Aufnahme von außerordentlichen Mitgliedern
+% entscheidet der Vorstandsvorsitzende, in zweiter Insatnz der Vorstand.
+% 
+% Fördernde Mitglieder sind solche, die die
+% Vereinstätigkeit  vor allem durch Zahlung eines erhöhten Mitgliedsbeitrags
+% fördern.
+% Ehrenmitglieder sind Personen, die hiezu wegen besonderer
+% Verdienste  um den Verein ernannt werden. Die Ernennung zum Ehrenmitglied
+% erfolgt durch den Vorstand.
 
 
 
-\section{Mission}
-
-\section{Zielpublikum}
-
-Im Folgenden ist das derzeitigge Zielpublikum näher definiert. Es wird
-nach Priorität zwischen primären, sekundären und tertiärem Publikum
-unterschieden.
-
-\begin{tabulary}{\linewidth}{LLL}
-\toprule\addlinespace
-\TabHeading{Zielpublikum}
-&
-\TabHeading{P}
-&
-\TabHeading{Abeschreibungs, Anwendbarkeit}
-\\\addlinespace\midrule\addlinespace
-\TabSub{Rettungssanitäter in Ausbildung} (RSiA)
-&
-1
-&
-Die \AASS{} dienen als Kursunterlage für den Kurs des Moduls 1 laut
-SanG/SanAVO. Sie ermöglichen sowohl eine praxisorientierte Ausbildung, als auch
-eine Versorgung der Lernenden mit obligaten und optionalen
-Hintergrundinformationen.
-
-Praxisorientierte Handlungsanweisungen und substantielle
-Hintergrundinformationen sind einander gleichwertig. 
-\\\addlinespace
-\TabSub{Rettungssanitäter} (RS) & 2
-&
-Der RS findet in den \AASS{} eine solide Wissensbasis, die ihm hilft seine
-Alltagsprobleme zu lösen. Darüber hinaus findet er erklärende
-Hintergrundinformationen und Informationen zu weiteren Recherche- und
-Wissenquellen. 
-\\\addlinespace \TabSub{Notfallsanitäter} (NFS) &
-
-&
-
-
-\\\addlinespace\bottomrule
-\end{tabulary}
-
-
-
-
-\chapter{Projektdetails}
-
-\section{Versionsbezeichnungen}
-
-\paragraph{Bisherige Versionen}~
-
-\begin{description}
-    \item[0.2.0] 2009-07 (VV\footnote{Vorabversion}, 349 Änderungen\footnote{Seit
-    Übernahme in das Versionsverwaltungssystem.})
-    \item[0.4.0] 2009-09 (VV, 284 Änderungen)
-    \item[0.6.0] 2009-10 (VV, 322 Änderungen)
-    \item[0.8.0] 2010-01 (VV, 653 Änderungen)
-    \item[0.10.0] 2010-06 (VV, 935 Änderungen)
-    \item[0.12.0] 2010-08 (VV, 489 Änderungen)
-    \item[0.14.0] 2011-01 (VV, 706 Änderungen)
-    \item[0.16.0] 2011-03 (VV, 141 Änderungen\footnote{Lt.
-    vorläufiger Statistik, Änderungen nach Redaktionsschluss möglich.})
-  \end{description}
-
-\paragraph{Geplante Versionen}~
-
-\begin{description}
-
-    \item[0.8.x] Vorabversion für ET 2010/02
-    \item[1.0.0~RC\,1] Öffentliche Vorabversion (Release
-    Candidate, Review)
-    \item[1.0.0] Erste öffentliche Version
-\end{description}
-
-\section{Gliederung}
-Die Kapitel bzw. Systemdateien werden mittel 3-stelliger
-Abkürzung gekennzeichnet:
-
-
-\begin{tabulary}{\linewidth}{lLL}\toprule
-\noindent\TabHeading{Krz.} 
-& 
-\noindent\TabHeading{Bezeichnung} 
-& 
-\noindent\TabHeading{Anmerkungen}
-\\\midrule
-\TabSub{AAS} &  \noindent\AASS{} allgemein  & 
-\\\addlinespace
-\TabSub{ALS} & Erweiterte Reanimation  &
-\\\addlinespace
-\TabSub{ANA} & Anatomie  &
-\\\addlinespace
-\TabSub{APP} & Appendix  &
-\\\addlinespace
-\TabSub{AUU} & Anamnese und Untersuchung  &
-\\\addlinespace
-\TabSub{BET} & Betriebsinterne Regelungen  &
-\\\addlinespace
-\TabSub{COL} &  Farbdefinitionsdatei  &
-\\\addlinespace
-\TabSub{EHI} & Erste Hilfe  &
-\\\addlinespace
-\TabSub{EIN} & Einführung in die Medizin  &
-\\\addlinespace
-\TabSub{EUR} & Einsatztaktik und Rettungswesen  &
-\\\addlinespace
-\TabSub{GER} & Gerätelehre  &
-\\\addlinespace
-\TabSub{HYG} & Hygiene  &
-\\\addlinespace
-\TabSub{HYP} &  Hyphenation (Trennungskorrekturen)  &
-\\\addlinespace
-\TabSub{INF} & Autoreninformation  &
-\\\addlinespace
-\TabSub{JUS}  & Recht  &
-\\\addlinespace
-\TabSub{KHD} & Katastrophen, Großschaden, Gefahrgutunfall & 
-\\\addlinespace
-\TabSub{MED} & Medizinische Erkrankungen und Notfälle  & 
-\\\addlinespace
-\TabSub{MED} & Medizinische Erkrankungen und Notfälle  & 
-\\\addlinespace
-\TabSub{MED-INF} & Infektionskrankheiten  & 
-\\\addlinespace
-\TabSub{MED-GYN} & Spezielle Patientengruppe: Frauen und Schwangere  & 
-\\\addlinespace
-\TabSub{MED-KIN} & Spezielle Patientengruppe: Kinder  & 
-\\\addlinespace
-\TabSub{MED-PSY} & Psychologie und Psychiatrie & 
-\\\addlinespace
-\TabSub{MED-TOX} & Vergiftungen & 
-\\\addlinespace
-\TabSub{MPG} & Spezielle Medizinprodukte & 
-\\\addlinespace
-\TabSub{REG} & Regionale Besonderheiten &  
-\\\addlinespace
-\TabSub{RES} & Reserve &  
-\\\addlinespace
-\TabSub{SAN} & Angewandte Sanitätshilfe &  
-\\\addlinespace
-\TabSub{STY}  & Stildefinitionsdatei &  
-\\\addlinespace
-\TabSub{TAE} & Tätigkeitsbild &  
-\\\addlinespace
-\TabSub{TRA} & Trauma &  
-\\\addlinespace
-\TabSub{VIT} & Vitalfunktionen &  
-\\\addlinespace
-\TabSub{WIS} & Wissenschaft & 
-\\\bottomrule
-\end{tabulary}
-
-Diese Abkürzungen bitte auch im Versionsverwaltungssystem
-Git und im Bugtracker verwenden!
-
-
-
-\chapter{Die Herangehensweise}
-
-\chapter{Ausblick}
+\section{Ausblick}
 
 
 
@@ -644,4 +551,7 @@ Git und im Bugtracker verwenden!
 %   \item[ISBN] ---
 %   \item[DOI] ---
 % \end{labeling}
+
+  
+\end{multicols}
 \end{document}

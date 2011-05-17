@@ -54,10 +54,10 @@
 \renewcommand*\l@part[2]{\partbackup{#1}{}}
 \makeatother
 
-\makeatletter
-\let\chapterbackup\l@chapter
-\renewcommand*\l@chapter[2]{\chapterbackup{#1}{}}
-\makeatother
+% \makeatletter
+% \let\chapterbackup\l@chapter
+% \renewcommand*\l@chapter[2]{\chapterbackup{#1}{}}
+% \makeatother
 
 
 \usepackage{makeidx}
@@ -118,26 +118,26 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Seitenlayout
-\usepackage[
-verbose,
-a4paper,
-asymmetric,
-% reversemp,
-includemp,   % incl. marginpar
-includehead, % incl. header
-includefoot, % incl. footer
-inner  = 11mm,
-outer  = 11mm,
-top    = 10mm,
-bottom =  8mm,
-bindingoffset=15mm,
-marginparwidth = 60mm,
-footskip = 7mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
-% showframe,
-]
-{geometry}
+% \usepackage[
+% verbose,
+% a4paper,
+% asymmetric,
+% % reversemp,
+% includemp,   % incl. marginpar
+% includehead, % incl. header
+% includefoot, % incl. footer
+% inner  = 11mm,
+% outer  = 11mm,
+% top    = 10mm,
+% bottom =  8mm,
+% bindingoffset=15mm,
+% marginparwidth = 60mm,
+% footskip = 7mm,
+% % % headheight=0.5cm,
+% % % headsep=0.5cm,
+% % showframe,
+% ]
+% {geometry}
 
 
 % \usepackage[
@@ -273,21 +273,21 @@ footskip = 7mm,
 
 % floats waren hier
 
-\usepackage[grey,helvetica]{quotchap}
-%\renewcommand{\sectfont}{\large\color{DefaultA}\sffamily\fontfamily{phv}\selectfont}
-\definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
-\definecolor{chaptergrey}{named}{DefaultContrast}
+% \usepackage[grey,helvetica]{quotchap}
+% %\renewcommand{\sectfont}{\large\color{DefaultA}\sffamily\fontfamily{phv}\selectfont}
 % \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
-% \newenvironment{savequote}{}{}
-
-% \usepackage[Rejne]{fncychap}
-% \ChNameVar{\centering\LARGE\sf} 
-% \ChNumVar{\Huge\color{DefaultB}} 
-% \ChTitleVar{\centering\Large\sf\color{DefaultA}}
-% \ChRuleWidth{2pt} 
-% \ChNameUpperCase
-% % \ChNumVar{\fontsize{76}{80}\usefont{OT1}{lmdh}{m}{n}\selectfont\color{DefaultB}}
-\addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}}
+% \definecolor{chaptergrey}{named}{DefaultContrast}
+% % \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
+% % \newenvironment{savequote}{}{}
+% 
+% % \usepackage[Rejne]{fncychap}
+% % \ChNameVar{\centering\LARGE\sf} 
+% % \ChNumVar{\Huge\color{DefaultB}} 
+% % \ChTitleVar{\centering\Large\sf\color{DefaultA}}
+% % \ChRuleWidth{2pt} 
+% % \ChNameUpperCase
+% % % \ChNumVar{\fontsize{76}{80}\usefont{OT1}{lmdh}{m}{n}\selectfont\color{DefaultB}}
+% \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}}
 
 % \addtokomafont{chapter}{\fontfamily{lmdh}\selectfont\Huge\color{DefaultA}}
 
@@ -373,7 +373,7 @@ footskip = 7mm,
 %The quotchap package should be loaded BEFORE the minitoc package.
 \newcounter{DefaultMinitocDepth}
 \setcounter{DefaultMinitocDepth}{3}
-\mtcsetdepth{minitoc}{\value{DefaultMinitocDepth}}
+% \mtcsetdepth{minitoc}{\value{DefaultMinitocDepth}}
 
 \nomtcrule
 
@@ -381,10 +381,10 @@ footskip = 7mm,
 % \setlength{\stcindent}{0pt}
 % \mtcindent{0pt}
 % \stcindent{0pt}
-\renewcommand{\mtcfont}{\sffamily\small}
-\renewcommand{\mtcSfont}{\sffamily\small\bfseries}
-\renewcommand{\mtcSSfont}{\sffamily\scriptsize}
-\renewcommand{\mtcSSSfont}{\sffamily\scriptsize}
+% \renewcommand{\mtcfont}{\sffamily\small}
+% \renewcommand{\mtcSfont}{\sffamily\small\bfseries}
+% \renewcommand{\mtcSSfont}{\sffamily\scriptsize}
+% \renewcommand{\mtcSSSfont}{\sffamily\scriptsize}
 % \mtcsetoffset{minitoc}{-4em}
 % \mtcsetformat{mini-table}{mtcindent}{0pt}
 
@@ -409,10 +409,10 @@ footskip = 7mm,
 
 
 
-\usepackage[noauto]{chappg} % nach hyperref!
-
-\pagenumbering{bychapter}
-\renewcommand{\chappgsep}{/}
+% \usepackage[noauto]{chappg} % nach hyperref!
+% 
+% \pagenumbering{bychapter}
+% \renewcommand{\chappgsep}{/}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

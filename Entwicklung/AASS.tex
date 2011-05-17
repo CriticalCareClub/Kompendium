@@ -19,42 +19,31 @@ footnotes=multiple,
 
 % UTF-8 Schriftkodierung
 \usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}
-% get rid of the "no room for new \ldots"
-% standard TeX registers are limitied to 256, etex increases the max.
+% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
 \usepackage{etex}
 
 \pdfcompresslevel=9
 \pdfimageresolution=72
 % \pdfpkresolution=72
-
 % \usepackage[a-1b]{pdfx}
 % \def\Keywords{AASS} \def\Title{AASS} \def\Author{ARGE AASS} \def\Org{ARGE AASS}
 % % \input glyphtounicode.tex \input glyphtounicode-cmr.tex \pdfgentounicode=1
-
 % \usepackage[xcolor]{rvdtx}
 
 
 \usepackage{blindtext}
 \usepackage{microtype,fixltx2e,ellipsis}
-% \usepackage{xindy}
 
 % Optionen für Bilder:
 % [draft] .. Es werden nur Rahmen angezeigt
 % [final] .. Es werden Bilder normal angezeigt
 % [demo} .. keine Bilder
-\usepackage[draft]{graphicx} % Bilder-Support
+\usepackage[final]{graphicx} % Bilder-Support
 
 % \usepackage{showidx} % shows index entries on page margin
-
-
-
 % \usepackage{showkeys}
-% \usepackage[normalem]{ulem}
 
 \input{./inputs/input-preamble}
-
-% Farbdefinitionen
-% \input{./inputs/input-colors}
 
 % Trennungen
 \input{./inputs/input-hyphenation}
@@ -77,15 +66,15 @@ footnotes=multiple,
 % optional --- Optionaler Text. 
 \input{./inputs/input-optkeys}
 
-\setcounter{errorcontextlines}{1}
+\setcounter{errorcontextlines}{10}
 
 % \usepackage{fontspec}
 % \usepackage{setspace}
 
 
 \usepackage{ragged2e}
-\usepackage[xcolor]{changebar}
-% \driver{PDFTeX} % changebar
+% \usepackage[xcolor]{changebar}
+% % \driver{PDFTeX} % changebar
 
 % Randnummernzähler einrichten 
 \newcounter{randnr} 
@@ -104,9 +93,9 @@ footnotes=multiple,
 \newcommand{\Sign}[1]{{\sffamily#1}}
 
 
-
-
-
+\newcommand{\KAMEL}[1]{{\color{DefaultB}\textcircled{\ttfamily\bfseries\scriptsize#1}}}
+\newcommand{\TxKAMEL}{(S-)KAMEL}
+\newcommand{\SpeechMargin}[1]{\marginpar{{\small\Speech{#1}}}}
 
 
 
@@ -120,7 +109,7 @@ footnotes=multiple,
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
-\pagestyle{scrheadings}
+% \pagestyle{scrheadings}
 
 % \setmainfont[SmallCapsFont={* Caps},
 % Mapping=tex-text]{Latin Modern Roman}
@@ -360,16 +349,6 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 }{}{}{}{}
 
 
-% \opt{STATUS-EXPERIMENTAL}{
-% \paragraph{dfklnsdalf} dfgfd  sdafmkladfm df dflkgdslfkg dsflkgj dslfkg ldfskjg lkdsfjg lkdsfjgl ksdfghjo irtlksn lknoklsfdng odfs godsfi godsfg lkdsfg jlfsdkng lfsnhlkfgnh lkfgnh lfdgn hlfdgh fdgh ghjdgfh jgfhj fghj ghj hjkhfjgk hjgzj zt
-% utz jgfhj fghkjfgh khjhg jfhkfgh khjffkfhj kghjk ghkghjkfghkghjlkghkhjk f hjk.
-% \parpic[r]{\includegraphics[width=3cm]{./icons/under-construction.png}}
-% 
-% }
-
-
-
-
 
 
 
@@ -429,6 +408,8 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \include{./chapters/chapter-AED}
 
+\include{./chapters/chapter-BLS}
+
 % zuerst die Kapitel in denen Geräte eine Rolle spielen:
 \include{./chapters/chapter-MP1}
 
@@ -451,9 +432,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 % {\WideParEnd}
 \setcounter{chapter}{30}\setcounter{page}{1}
 
-\include{./chapters/chapter-EIN}
-
 \include{./chapters/chapter-ANA}
+
+\include{./chapters/chapter-EIN}
 
 \include{./chapters/chapter-VIT}
 
@@ -477,7 +458,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \include{./chapters/chapter-TRA}
 
+\opt{STATUS-EXPERIMENTAL}{%
 \include{./chapters/chapter-SYM}
+}
 
 
 % {\WideParBegin}

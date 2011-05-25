@@ -66,9 +66,7 @@
 
 @STANDARD{AsboeLehrmeinung2011-21,
   title = {Lehrmeinung Nr. 21/2011: Verbrennung im Rettungsdienst},
-  crossref = {Geburt und Dammschutz im Rettungsdienst
-	
-	AsboeLehrmeinung2011},
+  crossref = {AsboeLehrmeinung2011},
   file = {AsboeLehrmeinung2011-21.pdf:AsboeLehrmeinung2011-21.pdf:PDF},
   owner = {grissu},
   timestamp = {2011.05.11}
@@ -4718,11 +4716,6 @@
   howpublished = {Rundschreiben, online},
   type = {Lehrmeinung},
   address = {Hollergasse 2-6, A-1150 Wien},
-  owner = {grissu},
-  timestamp = {2011.05.11}
-}
-
-@STANDARD{,
   owner = {grissu},
   timestamp = {2011.05.11}
 }

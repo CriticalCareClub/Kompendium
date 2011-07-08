@@ -90,9 +90,9 @@
 %%% HEADER %%%
 % right
 \fancyhead[RO]{{\sffamily{\color{Grey}\rightmark~|~}{\color{ubuntured}\thepage}}}
-\fancyhead[RE]{\EE{\AuthNotes{ | {\today} | ENTWURF |}}}
+% \fancyhead[RE]{\EE{\protect\AuthNotes{ | {\protect\today} | ENTWURF |}}}
 % left
-\fancyhead[LO]{\EE{\AuthNotes{ | ENTWURF | {\today} |}}}
+% \fancyhead[LO]{\EE{\protect\AuthNotes{ | ENTWURF | {\protect\today} |}}}
 \fancyhead[LE]{{\sffamily{\color{ubuntured}\thepage}{\color{Grey}~|~\leftmark}}}
 
 %%% FOOTER %%%
@@ -130,7 +130,7 @@
 
 \fancyfoot[CE,CO]{{{\sffamily\tiny {\DocVersionTyp} | Nur für den internen Gebrauch!}}}
 %%% DRAFT %%%
-\fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\tiny\upshape{\textbf{\DocVersionTyp}} | \today{} | \textbf{Nur für den internen Gebrauch!}}}
+\fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\tiny\upshape{\textbf{\DocVersionTyp}} | \protect\today{} | \textbf{Nur für den internen Gebrauch!}}}
 %
 % % {\tiny
 % % Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny

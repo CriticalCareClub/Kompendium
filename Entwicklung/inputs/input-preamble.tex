@@ -558,4 +558,62 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 
 
 
+\newcommand{\papertexinexpandedtitle}[1]{
+\begin{minipage}{.95\textwidth}
+\begin{center}
+\noindent\Large\textbf{#1}
+\end{center}
+\end{minipage}
+}
 
+\newcommand{\expandedtitle}[2]{
+% \end{multicols}
+
+\begin{center}
+\setlength{\fboxsep}{5pt}
+\setlength{\shadowsize}{2pt}
+\ifthenelse{\equal{#1}{shadowbox}}{%
+\shadowbox{%
+\papertexinexpandedtitle{#2}%
+}%
+}{}
+\ifthenelse{\equal{#1}{doublebox}}{%
+\doublebox{%
+\papertexinexpandedtitle{#2}%
+}%
+}{}
+\ifthenelse{\equal{#1}{ovalbox}}{%
+\ovalbox{%
+\papertexinexpandedtitle{#2}%
+}%
+}{}
+\ifthenelse{\equal{#1}{Ovalbox}}{%
+\Ovalbox{%
+\papertexinexpandedtitle{#2}%
+}%
+}{}
+\ifthenelse{\equal{#1}{lines}}{
+{\color{DefaultB}\hrule}
+\vspace*{1em}
+\begin{center}
+\noindent\sffamily\textit{#2}
+\end{center}
+\vspace*{1em}
+{\color{DefaultB}\hrule}
+}{}
+\ifthenelse{\equal{#1}{roundbox}}{
+% {\color{DefaultB}\hrule}
+% \vspace*{8pt}
+\begin{center}
+\BoxRoundedBorderFilled{DefaultD}{White}{\center\hspace{0pt}\normalsize{\SlideHeading{#2}}}
+\end{center}
+% \vspace*{8pt}
+%{\color{DefaultB}\hrule}
+}{}
+\end{center}
+
+% \begin{multicols}{\papertex@ncolumns{}}
+% \ifnum \papertex@ncolumns > \minraggedcols
+% \raggedFormat
+% \fi
+}

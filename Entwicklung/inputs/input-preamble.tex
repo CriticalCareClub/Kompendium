@@ -568,8 +568,7 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 
 \newcommand{\expandedtitle}[2]{
 % \end{multicols}
-
-\begin{center}
+% \begin{center}
 \setlength{\fboxsep}{5pt}
 \setlength{\shadowsize}{2pt}
 \ifthenelse{\equal{#1}{shadowbox}}{%
@@ -604,14 +603,20 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 \ifthenelse{\equal{#1}{roundbox}}{
 % {\color{DefaultB}\hrule}
 % \vspace*{8pt}
-\begin{center}
-\BoxRoundedBorderFilled{DefaultD}{White}{\center\hspace{0pt}\normalsize{\SlideHeading{#2}}}
-\end{center}
+% \begin{center}
+% \\[0.5\baselineskip]\BoxRoundedBorderFilled{DefaultD}{White}{\center\hspace{0pt}\normalsize{\SlideHeading{#2}}}\\[0.5\baselineskip]
+\BoxRoundedBorderFilled{DefaultD}{White}{\center\hspace{0pt}\bfseries#2}
+% \vspace{-0.5\baselineskip}
+% \end{center}
 % \vspace*{8pt}
 %{\color{DefaultB}\hrule}
 }{}
+\ifthenelse{\equal{#1}{simple}}{
+\begin{center}
+\bfseries#2
 \end{center}
-
+}{}
+% \end{center}
 % \begin{multicols}{\papertex@ncolumns{}}
 % \ifnum \papertex@ncolumns > \minraggedcols
 % \raggedFormat

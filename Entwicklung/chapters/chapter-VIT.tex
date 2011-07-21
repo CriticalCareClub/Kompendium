@@ -296,8 +296,12 @@ Bewusstseinsgrade auf:
 \end{itemize}
 }{}{}{}
 
-\Layout{57}{}{}{}{%
-\begin{tabulary}{\linewidth}{LLLL}
+\begin{table}[H]
+\FormatTable
+\Captionof{table}{Bewusstseinsgrade\label{tab:bewusstseinsgrade}}
+
+\begin{tabulary}{\linewidth}{LlLL}
+% \toprule
 \addlinespace
 \TabSub{Bewusstseinsklar}
  &
@@ -329,9 +333,7 @@ schläfrig, aber leicht erweckbar.
 \noindent\Ca{Lebensgefahr!}
 \\\addlinespace\bottomrule
 \end{tabulary}
-}
-{Bewusstseinsgrade\label{tab:bewusstseinsgrade}}
-{}
+\end{table}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \Layout{2}{Orientierung}
@@ -1218,9 +1220,7 @@ Atemminutenvolumen
 \subsection{Blutdruck} 
 \label{topic:blutdruck}
 
-Durch die Pumpfunktion des Herzens entsteht ein
-lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
-\E{Blutdruck}.\index{Blutdruck}
+
 
 % test:
 % 
@@ -1228,15 +1228,17 @@ lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
 % 
 % :ende test
 
-\Layout{0}{Blutdruck}
-{
-Durch die rhythmische Kontraktion des Herzens kommt es
-infolge des Blutauswurfes zu synchronen rhythmischen
-Druckveränderungen. Während des Auswurfs von Blut in das
-Gefäßsystem (Herzanspannung, Systole) spricht man vom
-systolischen Blutdruck, während der Entspannungsphase des
-Herzens (Diastole) vom diastolischen Blutdruck. Natürlich
-ist der Blutdruck bei der Anspannung des Herzens höher als
+\Layout{0}{\TxBeschreibung}
+{Durch die Pumpfunktion des Herzens entsteht ein
+lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
+\I{Blutdruck}.
+Da das Herz rhythmische kontrahiert, kommt es
+infolge des Blutauswurfes zu synchronen -- ebenfalls
+rhythmischen -- Druckveränderungen. Während des Auswurfs von
+Blut in das Gefäßsystem (Herzanspannung, \I{Systole})
+spricht man vom systolischen Blutdruck, während der Entspannungsphase des
+Herzens (\I{Diastole}) vom diastolischen Blutdruck.
+Natürlich ist der Blutdruck bei der Anspannung des Herzens höher als
 bei der Entspannung (\E{Systolischer Blutdruck >
 Diastolische Blutdruck)}.
 }{
@@ -1249,7 +1251,7 @@ Kammerkontraktion
 
 
 Zur Durchführung der Blutdruckmessung vgl.
-\prettyref{topic:rr-messung}.
+\FullPrettyRef{topic:rr-messung}.
 
 
 
@@ -1382,14 +1384,8 @@ Das Pumpversagen kann entstehen durch:
 \end{itemize}
 }{}{}{}{}
 
-\Layout{2}{Folgen und Symptome}
-{
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TODO : Fließtext/Slide fehlt!
-\TODO{GABS}{2010-mm-yy}{Kreislaufstillstand: Fließtext/Slide
-fehlt!} {Fließtext/Slide fehlt!}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Unmittelbar anch AUssetzen des Herzschlages ist der Patient
+\Layout{0}{Folgen und Symptome}
+{Unmittelbar anch Aussetzen des Herzschlages ist der Patient
 \E{pulslos} und der Blutkreislauf steht still. Es wird im
 schwindlig und schlecht, nach kurzer Zeit (ca. \VonBis{15}{20}\Sek*) wird er
 \E{bewusstlos}. Nach weiteren 10\Sek* tritt ein

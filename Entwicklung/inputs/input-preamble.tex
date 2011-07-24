@@ -221,14 +221,119 @@ footskip = 7mm,
 %\setlength{\parindent}{0pt}
 %\setlength{\parskip}{5pt}
 \raggedbottom
-\tolerance=9999
-\emergencystretch=20pt
-%schusterjungen
-% Disable single lines at the start of a paragraph (Schusterjungen)
-%\clubpenalty = 10000
-%
-% Disable single lines at the end of a paragraph (Hurenkinder)
-%\widowpenalty = 10000 \displaywidowpenalty = 10000
+
+
+% \@beginparpenalty - Strafpunkte für einen Umbruch vor einer Liste 
+% \@endparpenalty - Strafpunkte für einen Umbruch nach einer Liste 
+% \@itempenalty - Strafpunkte für einen Umbruch zwischen Listeneinträgen 
+\makeatletter% --> Wiki 
+\@itempenalty=500 
+\makeatother% --> Wiki
+
+
+% % (Anm.: Werte von -10000 bzw. 10000 gelten bei TeX als
+% % negativ unendlich bzw. positiv unendlich.) 
+% % Textsatz: interner Parameter zur Steuerung des Zeilenumbruchs. Er
+% % enthält die maximale Minuspunktzahl, die ein Absatz beim
+% % Umbruch haben darf, wobei diese für den ersten Durchgang
+% % ohne Trennungen gilt. Setzt man \pretolerance=10000, gilt
+% % der Absatz immer als akzeptiert; es wird also nicht
+% % getrennt.
+% \pretolerance=100
+% % Bewertungsgrenzwert für noch zu akzeptierende schlecht
+% % umgebrochene Zeilen, und zwar mit erlaubten Trennungen
+% % (zweiter Durchgang). Wird \tolerance vergrößert, so kommt es
+% % auch zu mehr Leerraum zwichen einzelnen Wörtern. Bei
+% % \tolerance=10000 wird auf den dritten Durchgang verzichtet.
+% \tolerance=300
+% % Grenze, ab der eine overfull hbox gemeldet wird. (Wert, den
+% % eine Zeile mit der Länge \hsize überschreiten darf.)
+% \hfuzz=0.1pt
+% % Grenzwert, ab dem die Überfüllung einer \vbox protokolliert
+% % wird.
+% \vfuzz=0.1pt
+% % Grenzwert für »schlechte« Zeilen, bzw. Boxen, der angibt,
+% % ab welcher Negativbewertung eine \hbox protokolliert wird.
+% \hbadness=1000
+% % Grenzwert, ab dem eine »schlechte« \vbox protokolliert wird.
+% \vbadness=1000 
+% % Definiert zusätzlichen dynamischen Leerraum, der falls er
+% % von 0 Punkten verschieden ist, beim Absatzumbruch einen
+% % dritten Versuch bewirkt, wenn bei den beiden ersten
+% % Durchläufen kein Umbruch ohne eine overfull hbox gelungen
+% % ist. \emergencystretch definiert dann den Leerraum, der
+% % innerhalb einer Zeile zusätzlich verteilt werden darf.
+% % \emergencystretch=20pt
+% \emergencystretch=10em
+
+% Strafpunkte (penalties)
+% 
+% Zusätzlich zu den Dehnungspunkten gibt es noch sogenannte
+% Strafpunkteregister (penalties). Sie enthalten
+% Minuspunkte, die für bestimmte Umbruchkonstellationen zu
+% dem »Unschönheitsfaktor« hinzuaddiert werden und damit
+% letztendlich die Bewertung dieser Konstellation bilden: Es
+% wird diejenige Alternative gewählt, die die wenigsten
+% Strafpunkte ergibt. 
+% 
+% % Grundlast, die für jede Zeile
+% % berechnet wird. Wird dieser Wert erhöht, so versucht das
+% % Programm, die Zeilenanzahl für einen Absatz möglichst
+% % klein zu halten.
+% \linepenalty=10
+% % Wird für eine einfache Trennung beim Absatzumbruch aufgerechnet.
+% \hyphenpenalty=50
+% % Wird für einen Zeilenwechsel nach einem expliziten
+% % Trennstrich aufgerechnet.
+% \exhyphenpenalty=50
+% % Mathematiksatz: Gibt es für das Trennen einer Formel im
+% % text-style nach einem binären Operator.
+% \binoppenalty=700
+% % Wird beim Trennen einer mathematischen Formel im
+% % text-style (nach einer Relation) aufgerechnet.
+% \relpenalty=500
+% % Wird beim Seitenumbruch vergeben, falls die erste Zeile
+% % eines Absatzes allein auf der vorangehenden Seite verbleibt.
+% % Disable single lines at the start of a paragraph (Schusterjungen)
+% \clubpenalty=150
+% % Wird beim Seitenumbruch aufgerechnet, falls die letzte Zeile
+% % gerade noch auf die nächste Seite umgebrochen wird.
+% % Disable single lines at the end of a paragraph (Hurenkinder)
+% \widowpenalty=150
+% % Wird während des Seitenumbruchs für einen Seitenwechsel
+% % angerechnet, falls die letzte Zeile eines Absatzes gerade
+% % noch auf die nächste Seite kommt, und zwar in dem
+% % Spezialfall, dass direkt danach eine hervorgehobene Formel
+% % folgt.
+% \displaywidowpenalty=50
+% % Wird während des Seitenumbruchs für einen Seitenwechsel
+% % angerechnet, bei dem die letzte Zeile einer Seite mit einer
+% % Trennung endet.
+% \brokenpenalty=100
+% % Für zwei aufeinanderfolgende Zeilen, wobei in beiden getrennt wird.
+% \doublehyphendemerits=10000
+% % Wird für die Trennung in der vorletzten Zeile eines Absatzes aufgerechnet.
+% \finalhyphendemerits=5000
+% % Wird beim Absatzumbruch für zwei »visuell inkompatible«
+% % Zeilen aufgerechnet. Dies sind zwei aufeinanderfolgende
+% % Zeilen, bei denen die eine mit extra viel Leerraum
+% % durchgeschossen wurde und die andere mit wenig.
+% \adjdemerits=10000
+% % Wird für das Umbrechen einer mit \displaylines
+% % entstandenen Formelfolge über eine Seitengrenze hinweg
+% % berechnet.
+% \interdisplaylinepenalty=100
+% % Wird für das Umbrechen einer Fußnote über Seitengrenzen
+% % hinweg berechnet. Der Befehl \footnote setzt die
+% % \interlinepenalty auf den angegebenen Wert.
+% \interfootnotelinepenalty=100
+% % Für den Umbruch eines Absatzes über eine Seitengrenze.
+% \interlinepenalty
+% % Für einen Seitenwechsel direkt vor einer Formel im display-style.
+% \predisplaypenalty=10000
+% % Für einen Seitenwechsel direkt nach einer Formel im display-style.
+% \postdisplaypenalty=0
+
 
 \usepackage{fancybox}
 

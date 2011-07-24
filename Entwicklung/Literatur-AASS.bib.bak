@@ -110,6 +110,7 @@
 
 @INBOOK{SiewertChirurgie8-06-Gefaesschirurgie,
   chapter = {6 Gef"a{\ss}chirugie},
+  pages = {434--492},
   author = {H.-H. Eckstein and P. Heider and O. Wolf and M. Hanke},
   crossref = {SiewertChirurgie8},
   owner = {grissu},
@@ -4964,7 +4965,6 @@
   pages = {565--573},
   number = {6},
   language = {english},
-  __markedentry = {[grissu]},
   abstract = {During 2002 the International Association of Pancreatology developed
 	evidenced-based guidelines on the surgical management of acute pancreatitis.
 	There were 11 guidelines, 10 of which were recommendations grade
@@ -5016,6 +5016,230 @@
   language = {ngerman},
   owner = {grissu},
   timestamp = {2011.07.23}
+}
+
+@ARTICLE{Asanger2010,
+  author = {J"org Asanger and J"org Breitwieser and Adi Deixler and Herbert Haller
+	and Markus Haase and Andreas Heinz and Lars-Peter Kamolz and Stephan
+	Kapral and Albert Kr"opfl and Marija Trop and Friedrich Weyer and
+	Andreas Ziegler},
+  title = {Brandverletzungen - Empfehlungen zur Erstversorgung},
+  journal = {"Osterreichieche "Arztezeitung},
+  year = {2010},
+  volume = {13},
+  number = {5},
+  month = {3},
+  note = {Empfehlungen zur Erstversorgung von Brandverletzungen der "Osterreichischen
+	Gesellschaft für Notfall- und Katastrophenmedizin},
+  language = {ngerman},
+  file = {Asanger2010.pdf:Asanger2010.pdf:PDF},
+  owner = {grissu},
+  timestamp = {2011.07.24},
+  url = {http://www.aerztezeitung.at/archiv/oeaez-2010/oeaez-5-10032010/brandverletzungen-empfehlungen-zur-erstversorgung.html}
+}
+
+@ARTICLE{Erc2010Sek01De,
+  author = {J.P. Nolan and J. Soar and D.A. Zideman and D. Biarent and L.L. Bossaert
+	and C. Deakin and R.W. Koster and J. Wyllie and B. B"ottiger {on
+	behalf of the ERC Guidelines Writing Group}},
+  title = {Kurzdarstellung Sektion 1 der Leitlinien zur Reanimation 2010 des
+	European Resuscitation Council},
+  journal = {Notfall + Rettungsmedizin},
+  year = {2010},
+  volume = {13},
+  pages = {515--522},
+  number = {1},
+  language = {ngerman},
+  doi = {10.1007/s10049-010-1367-y},
+  file = {Erc2010Sek01De.pdf:Erc2010Sek01De.pdf:PDF},
+  owner = {grissu},
+  timestamp = {2011.07.24}
+}
+
+@ARTICLE{Erc2010Sek02De,
+  author = {R.W. Koster and M.A. Baubin and L.L. Bossaert and A. Caballero and
+	P. Cassan and M. Castrén and C. Granja and A.J. Handley and K.G.
+	Monsieurs and G.D. Perkins and V. Raffay and C. Sandroni},
+  title = {Basisma{\ss}nahmen zur Wiederbelebung Erwachsener und Verwendung
+	automatisierter externer Defibrillatoren -- Sektion 2 der Leitlinien
+	zur Reanimation 2010 des European Resuscitation Council},
+  journal = {Notfall + Rettungsmedizin},
+  year = {2010},
+  pages = {523--542},
+  language = {ngerman},
+  doi = {10.1007/s10049-010-1368-x},
+  file = {Erc2010Sek02De.pdf:Erc2010Sek02De.pdf:PDF},
+  owner = {grissu},
+  timestamp = {2011.07.24}
+}
+
+@ARTICLE{Erc2010Sek03De,
+  author = {Deakin, C.D. and Nolan, J.P. and Sunde, K. and Koster, R.W.},
+  title = {Elektrotherapie: automatisierte externe Defibrillatoren, Defibrillation,
+	Kardioversion und Schrittmachertherapie -- Sektion 3 der Leitlinien
+	zur Reanimation 2010 des European Resuscitation Council},
+  journal = {Notfall + Rettungsmedizin},
+  year = {2010},
+  volume = {13},
+  pages = {543--558},
+  language = {ngerman},
+  affiliation = {Southampton University Hospital NHS Trust, Southampton, Großbritannien},
+  file = {Erc2010Sek03De.pdf:Erc2010Sek03De.pdf:PDF},
+  issn = {1434-6222},
+  issue = {7},
+  keyword = {Medicine},
+  publisher = {Springer Berlin / Heidelberg},
+  timestamp = {2011.07.24},
+  url = {http://dx.doi.org/10.1007/s10049-010-1369-9}
+}
+
+@ARTICLE{Erc2010Sek04De,
+  author = {Deakin, C.D. and Nolan, J.P. and Soar, J. and Sunde, K. and Koster,
+	R.W. and Smith, G.B. and Perkins, G.D.},
+  title = {Erweiterte Reanimationsmaßnahmen für Erwachsene („advanced life support“)
+	-- Sektion 4 der Leitlinien zur Reanimation 2010 des European Resuscitation
+	Council},
+  journal = {Notfall + Rettungsmedizin},
+  year = {2010},
+  volume = {13},
+  pages = {559-620},
+  note = {10.1007/s10049-010-1370-3},
+  language = {ngerman},
+  affiliation = {Southampton General Hospital, Southampton, Großbritannien},
+  file = {Erc2010Sek04De.pdf:Erc2010Sek04De.pdf:PDF},
+  issn = {1434-6222},
+  issue = {7},
+  keyword = {Medicine},
+  publisher = {Springer Berlin / Heidelberg},
+  url = {http://dx.doi.org/10.1007/s10049-010-1370-3}
+}
+
+@ARTICLE{Erc2010Sek05De,
+  author = {Arntz, H.-R. and Bossaert, L.L. and Danchin, N. and Nicolau, N.},
+  title = {Initiales Management des akuten Koronarsyndroms -- Sektion 5 der
+	Leitlinien zur Reanimation 2010 des European Resuscitation Council},
+  journal = {Notfall + Rettungsmedizin},
+  year = {2010},
+  volume = {13},
+  pages = {621-634},
+  note = {10.1007/s10049-010-1371-2},
+  language = {ngerman},
+  affiliation = {Medzinische Klinik 2, Kardiologie und Pulmologie, Charité – Campus
+	Benjamin Franklin, Berlin, Deutschland},
+  file = {Erc2010Sek05De.pdf:Erc2010Sek05De.pdf:PDF},
+  issn = {1434-6222},
+  issue = {7},
+  keyword = {Medicine},
+  publisher = {Springer Berlin / Heidelberg},
+  url = {http://dx.doi.org/10.1007/s10049-010-1371-2}
+}
+
+@ARTICLE{Erc2010Sek06De,
+  author = {Biarent, D. and Bingham, R. and Eich, C. and L\’opez-Herce, J. and
+	Maconochie, I. and Rodr\’iguez-N\’u\~nez, A. and Rajka, T. and Zideman,
+	D.},
+  title = {Lebensrettende Maßnahmen bei Kindern („paediatric life support“)
+	-- Sektion 6 der Leitlinien zur Reanimation 2010 des European Resuscitation
+	Council},
+  journal = {Notfall + Rettungsmedizin},
+  year = {2010},
+  volume = {13},
+  pages = {635-664},
+  note = {10.1007/s10049-010-1372-1},
+  language = {ngerman},
+  affiliation = {Paediatric Intensive Care, Hôpital Universitaire des Enfants, Brüssel,
+	Belgien},
+  file = {Erc2010Sek06De.pdf:Erc2010Sek06De.pdf:PDF},
+  issn = {1434-6222},
+  issue = {7},
+  keyword = {Medicine},
+  publisher = {Springer Berlin / Heidelberg},
+  url = {http://dx.doi.org/10.1007/s10049-010-1372-1}
+}
+
+@ARTICLE{Erc2010Sek07De,
+  author = {Richmond, S. and Wyllie, J.},
+  title = {Versorgung und Reanimation des Neugeborenen -- Sektion 7 der Leitlinien
+	zur Reanimation 2010 des European Resuscitation Council},
+  journal = {Notfall + Rettungsmedizin},
+  year = {2010},
+  volume = {13},
+  pages = {665-678},
+  note = {10.1007/s10049-010-1373-0},
+  language = {ngerman},
+  affiliation = {Sunderland Royal Hospital, Sunderland, Großbritannien},
+  file = {Erc2010Sek07De.pdf:Erc2010Sek07De.pdf:PDF},
+  issn = {1434-6222},
+  issue = {7},
+  keyword = {Medicine},
+  publisher = {Springer Berlin / Heidelberg},
+  url = {http://dx.doi.org/10.1007/s10049-010-1373-0}
+}
+
+@ARTICLE{Erc2010Sek08De,
+  author = {Soar, J. and Perkins, G.D. and Abbas, G. and Alfonzo, A. and Barelli,
+	A. and Bierens, J.J.L.M. and Brugger, H. and Deakin, C.D. and Dunning,
+	J. and Georgiou, M. and Handley, A.J. and Lockey, D.J. and Paal,
+	P. and Sandroni, C. and Thies, K.-C. and Zideman, D.A. and Nolan,
+	J.P.},
+  title = {Kreislaufstillstand unter besonderen Umst"anden: Elektrolytst"orungen,
+	Vergiftungen, Ertrinken, Unterk"uhlung, Hitzekrankheit, Asthma, Anaphylaxie,
+	Herzchirurgie, Trauma, Schwangerschaft, Stromunfall -- Sektion 8
+	der Leitlinien zur Reanimation 2010 des European Resuscitation Council},
+  journal = {Notfall + Rettungsmedizin},
+  year = {2010},
+  volume = {13},
+  pages = {679-722},
+  note = {10.1007/s10049-010-1374-z},
+  language = {ngerman},
+  affiliation = {Southmead Hospital,North Bristol NHS Trust, Bristol, Großbritannien},
+  file = {Erc2010Sek08De.pdf:Erc2010Sek08De.pdf:PDF},
+  issn = {1434-6222},
+  issue = {7},
+  keyword = {Medicine},
+  publisher = {Springer Berlin / Heidelberg},
+  url = {http://dx.doi.org/10.1007/s10049-010-1374-z}
+}
+
+@ARTICLE{Erc2010Sek09De,
+  author = {Soar, J. and Monsieurs, K. and Ballance, J. and Barelli, A. and Biarent,
+	D. and Greif, R. and Handley, A. and Lockey, A. and Richmond, S.
+	and Ringsted, C. and Wyllie, J. and Nolan, J. and Perkins, G.},
+  title = {Unterrichtsprinzipien zur Wiederbelebung},
+  journal = {Notfall + Rettungsmedizin},
+  year = {2010},
+  volume = {13},
+  pages = {723-736},
+  note = {10.1007/s10049-010-1375-y},
+  language = {ngerman},
+  affiliation = {Southmead Hospital, North Bristol NHS Trust Bristol, Bristol, Großbritannien},
+  file = {Erc2010Sek09De.pdf:Erc2010Sek09De.pdf:PDF},
+  issn = {1434-6222},
+  issue = {7},
+  keyword = {Medicine},
+  publisher = {Springer Berlin / Heidelberg},
+  url = {http://dx.doi.org/10.1007/s10049-010-1375-y}
+}
+
+@ARTICLE{Erc2010Sek10De,
+  author = {Lippert, F.K. and Raffay, V. and Georgiou, M. and Steen, P.A. and
+	Bossaert, L.},
+  title = {Ethik der Reanimation und Entscheidungen am Lebensende -- Sektion
+	10 der Leitlinien zur Reanimation 2010 des European Resuscitation
+	Council},
+  journal = {Notfall + Rettungsmedizin},
+  year = {2010},
+  volume = {13},
+  pages = {737-744},
+  note = {10.1007/s10049-010-1376-x},
+  language = {ngerman},
+  affiliation = {The Capital Region of Denmark, Kopenhagen, Dänemark},
+  file = {Erc2010Sek10De.pdf:Erc2010Sek10De.pdf:PDF},
+  issn = {1434-6222},
+  issue = {7},
+  keyword = {Medicine},
+  publisher = {Springer Berlin / Heidelberg},
+  url = {http://dx.doi.org/10.1007/s10049-010-1376-x}
 }
 
 @comment{jabref-meta: selector_publisher:}

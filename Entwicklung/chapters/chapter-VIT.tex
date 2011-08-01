@@ -34,8 +34,15 @@ Bild: NASA
 
 \ChapterIntro
 {Diese Kapitel behandelt die Vitalfunktionen
-des menschlichen Körpers}
-{%
+des menschlichen Körpers. Sie ermöglichen die
+Funktion des Körpers. Es gibt grundlegende Vitalfunktionen 1. Ordnung (Bewusstsein,
+Atmung, Kreislauf), deren Ausfall binnen kurzem zum
+Tod führen können, und Vitalfunktionen 2. Ordnung, deren
+Störung längere Zeit toleriert werden kann.
+
+Die Beurteilung und Erhaltung von Vitalfunktionen ist eine
+wesentliche Aufgabe in der Sanitätshilfe.
+}{%
 \begin{description}
   \item[Maintainer:] S. Gabriel
   \item[Autoren:] Diverse
@@ -57,10 +64,20 @@ des menschlichen Körpers}
 % Kapitel Einleitung hinzugeführt, um label sinnvoll setzen
 % zu können (Emhofer)
 
-\paragraph{Überblick}~
+
+
+\paragraph{Überblick}
+
+Die Vitalfunktionen ermöglichen die
+Funktion des Körpers. Man unterscheidet grundlegende
+Vitalfunktionen 1. Ordnung (Bewusstsein, Atmung, Kreislauf), deren Ausfall binnen kurzem zum
+Tod führen können, und Vitalfunktionen 2. Ordnung, deren
+Störung längere Zeit toleriert werden kann:
 
 \begin{table}[H]
-\Captionof{table}{Vitalfunktionen.}
+\FormatTable
+\Captionof{table}{Übersicht über die Vitalfunktionen 1. und
+2. Ordnung}
 
 \begin{tabularx}{\linewidth}[H]{XX}
 \TabHeading{Vitalfunktionen I. Ordnung}
@@ -91,41 +108,50 @@ Lebensgefahr und muss dringlich behandelt werden!}
 
 
 \Layout{2}{NACA-Score}
-{
-\index{NACA-Score}
-\Z{\index{NACA}National Advisory Committee for Aeronautics
+{\index{NACA-Score}
+\Z{\Lang{Abkz.} National Advisory Committee for Aeronautics
 
-Diente ursprünglich der Bewertung von  Erkrankungen /
-Verletzungen und der Entscheidung welche Soldaten zuerst
-auszufliegen wären. Heute dient der NACA-Score der groben
-statistischen Erfassung.
-}
-1 bis 7:
+Der NACA-Score diente ursprünglich der Bewertung von 
+Erkrankungen / Verletzungen als Entscheidungshilfe
+welche Soldaten zuerst auszufliegen wären.} Heutzutage dient
+der NACA-Score der groben statistischen Erfassung.
+
+Man unterscheidet die Stufen 1 bis 7:
 
 
 \begin{table}[H]
+\FormatTable
 \Captionof{table}{NACA-Score.}
 
-\begin{tabular}{cl}\addlinespace
+\begin{tabular}{clrr}\addlinespace
 \TabHeading{NACA}
 &
 \TabHeading{Bedeutung}
+&
+\TabHeading{Anteil Pat.}
+&
+\TabHeading{Anteil \PC}
 \\\addlinespace\midrule\addlinespace
- I & keine ärztliche Therapie erforderlich
+ I & keine ärztliche Therapie erforderlich & 10\,217 & 8,7
 \\\addlinespace
- II & ambulante Abklärung
+ II & ambulante Abklärung & 62\,207 & 52,8
 \\\addlinespace
- III & stationäre Abklärung
+ III & stationäre Abklärung & 38\,307 & 32,5
 \\\addlinespace
- IV & akute Lebensgefahr nicht ausgeschlossen
+ IV & akute Lebensgefahr nicht ausgeschlossen & 2\,830 & 2,4
 \\\addlinespace
- V & akute Lebensgefahr
+ V & akute Lebensgefahr & 1\,022 & 0,9
 \\\addlinespace
- VI & Reanimation
+ VI & Reanimation & 34 & 0,03	
 \\\addlinespace
- VII & Tod
+ VII & Tod & 312 & 0,3
+ \\\addlinespace\midrule\addlinespace
+ &&117\,849 & 100
 \\\addlinespace\bottomrule
 \end{tabular}
+
+\Z{Die angegebenen Fallzahlen beziehen sich auf Wien im Jahr
+2009, nach  \citep{KontrollamtWienKA-K-13-09}.}
 \end{table}
 }{}{}{}{}
 
@@ -142,7 +168,19 @@ statistischen Erfassung.
 
 \Definition{Oberbegriff für u.\,a. Wachheit,
 Orientierung, Aufmerksamkeit, Auffassungsgabe, Denkverlauf und
-Merkfähigkeit\cite{Pschy259}.}
+Merkfähigkeit \cite{Pschy259}.}
+
+\Layout{abstract}{}
+{Das Bewusstsein ist eine grundlegende Vitalfunktion erster
+Ordnung. Bei der Diagnose beurteilt man die
+Bewusstseinsgrade (klar, somnolent, soporör, komatös) und
+die Orientierung (zeitlich, örtlich, zur Situation und zur
+Person). Bewusstseinsstörungen sind aufgrund des Ausfalls
+der Schutzreflexe und des Zurückfallens der Zunge
+gefährlich. Es gibt Ursachen für Störungen, welche primär
+direkt (Verletzung, Schlaganfall, \ldots), und Ursachen, die sekundär, also über Umwege (Zuckerstoffwechsel, Vergiftungen, \ldots), auf das ZNS einwirken.
+
+}{}{}{}{}
 
 \Z{Die "`wahre"' Definition von Bewusstsein ist seit
 tausenden von Jahren ungeklärt. Auch an dieser Stelle wird
@@ -258,8 +296,12 @@ Bewusstseinsgrade auf:
 \end{itemize}
 }{}{}{}
 
-\Layout{57}{}{}{}{%
-\begin{tabulary}{\linewidth}{LLLL}
+\begin{table}[H]
+\FormatTable
+\Captionof{table}{Bewusstseinsgrade\label{tab:bewusstseinsgrade}}
+
+\begin{tabulary}{\linewidth}{LlLL}
+% \toprule
 \addlinespace
 \TabSub{Bewusstseinsklar}
  &
@@ -291,9 +333,7 @@ schläfrig, aber leicht erweckbar.
 \noindent\Ca{Lebensgefahr!}
 \\\addlinespace\bottomrule
 \end{tabulary}
-}
-{Bewusstseinsgrade\label{tab:bewusstseinsgrade}}
-{}
+\end{table}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \Layout{2}{Orientierung}
@@ -354,6 +394,7 @@ regelmäßig umstritten.}.
 
 
 \begin{table}[H]
+\FormatTable
 \Captionof{table}{GCS - Glasgow Coma Scale.\label{tab:gcs}}
 
 \begin{tabulary}{\linewidth}{LCCL}
@@ -407,6 +448,7 @@ Ursache). \prettyref{tab:bewusstseinsstoerungen-ursachen}
 listet typische Ursachen auf.
 
 \begin{table}[H]
+\FormatTable
 \Captionof{table}{Typische Ursachen von
 Bewusstseinsstörungen.\label{tab:bewusstseinsstoerungen-ursachen}}
 
@@ -674,6 +716,7 @@ Totraumventilation ist das Atemzugsvolumen so klein dass die
 Lungenbläschen gelangt: Es kommt keine frische Luft in die
 Lungenbläschen und folglich kein Sauerstoff ins Blut.
 
+\label{topic:schnappatmung}
 Bei der \index{Schnappatmung}\T{Schnappatmung} kann dies
 passieren: Auf den ersten Blick sieht es so aus als würde
 der Patient "`schnappend"' atmen, in Wirklichkeit ist die
@@ -815,6 +858,7 @@ Zeichnung einbinden? Kussmaul, etc.}
 
 \begin{table}[H]
 \begin{WidePar}
+\FormatTable
 \Captionof{table}{Ursachen für
 Atemstörungen.\label{tab:atemstoerungen-ursachen}}
 
@@ -897,6 +941,7 @@ kommt es dabei häufig \E{auch} zur Atemnot u.\,ä. Symptomen.
 
 
 \begin{table}[H]
+\FormatTable
 \Captionof{table}{Symptome: Atmung.\label{tab:atmung-symptome}}
 
 \begin{tabulary}{\linewidth}[H]{LLLL}
@@ -955,6 +1000,7 @@ Bradypnoe \index{Bradypnoe}
  &
 Schnappatmung
  &
+\FullPrettyRef{topic:schnappatmung}
  &
 \\\addlinespace
  &
@@ -965,6 +1011,7 @@ Flache Atmung
  &
 Tiefe Atmung
  &
+Z.\,B. Kußmaul'sche Atmung
  &
 \\\addlinespace
 \TabSub{Hautfarbe}
@@ -1020,6 +1067,7 @@ Brustkorb senkt sich bei Einatmung
 &
 Pulsoxymetrie
 &
+\FullPrettyRef{topic:pulsoxymetrie}
 &
 \\\addlinespace
 &
@@ -1086,7 +1134,39 @@ behandelt.} }
 \section[Herz- / Kreislauf]{Herz-\,/\,Kreislauf}
 \label{bkm:RefHeading42514202}
 
+\subsection{Blut als Sauerstofftransporteur}
+
+Durch das Kreislaufsystem wird sauerstoff- und
+nährstoffreiches Blut gepumpt. Ausschlaggebend für die
+Sauerstoffversorgung ist der \I{Sauerstoffgehalt} des
+Blutes. Dieser wird wesentlich durch den Gasaustausch, aber
+auch durch die Aufnahmekapazität des Blutes bestimmt.
+Wieviel Sauerstoff das Blut aufnehmen kann, hängt vor allem
+von der Anzahl der roten Blutkörperchen (\I{Erythrozyten})
+bzw. der Konzentration des Blutfarbstoffes \I{Hämoglobin}
+ab.
+
+\Z{Im arteriellen Blut sind pro Liter ca 0,2\Liter*
+Sauerstoff enthalten. Im Normalfall werden davon nur ca. 25\PC* vom
+Körper aufgenommen, der Rest gelangt ungenutzt in das venöse
+System zurück.
+\cite{Silbernagl3-Kreislaufsystem}}
+
+\subsection{Herzleistung}
+
+Das Herz kontrahiert beim Erwachsenen mit einer
+\I{Herzfrequenz} (\I{HF}) von \VonBis{60}{100}\PerMin* und wirft dabei jedes Mal ein
+\I{Schlagvolumen} (\I{SV}) von ca. \VonBis{70}{80}\Ml* aus
+\cite{Silbernagl3-Herz,Silbernagl3-Kreislaufsystem}. Daraus ergibt sich
+\E{in Ruhe} ein \I{Herzminutenvolumen} (\I{HMV}) von ca.
+5\,--\,6\,--\,8\,\nicefrac{\Liter}{\Min}.
+Bei Belastung kann das Herzminutenvolumen beträchtlich
+gesteigert werden.
+
+
+
 \begin{minipage}{\linewidth}
+\FormatTable
 \Captionof{table}{Gegenüberstellung der
 wichtigsten Kennzahlen, die die Herz- und Lungenleistung
 beeinflussen.}
@@ -1140,9 +1220,7 @@ Atemminutenvolumen
 \subsection{Blutdruck} 
 \label{topic:blutdruck}
 
-Durch die Pumpfunktion des Herzens entsteht ein
-lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
-\E{Blutdruck}.\index{Blutdruck}
+
 
 % test:
 % 
@@ -1150,15 +1228,17 @@ lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
 % 
 % :ende test
 
-\Layout{0}{Blutdruck}
-{
-Durch die rhythmische Kontraktion des Herzens kommt es
-infolge des Blutauswurfes zu synchronen rhythmischen
-Druckveränderungen. Während des Auswurfs von Blut in das
-Gefäßsystem (Herzanspannung, Systole) spricht man vom
-systolischen Blutdruck, während der Entspannungsphase des
-Herzens (Diastole) vom diastolischen Blutdruck. Natürlich
-ist der Blutdruck bei der Anspannung des Herzens höher als
+\Layout{0}{\TxBeschreibung}
+{Durch die Pumpfunktion des Herzens entsteht ein
+lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
+\I{Blutdruck}.
+Da das Herz rhythmische kontrahiert, kommt es
+infolge des Blutauswurfes zu synchronen -- ebenfalls
+rhythmischen -- Druckveränderungen. Während des Auswurfs von
+Blut in das Gefäßsystem (Herzanspannung, \I{Systole})
+spricht man vom systolischen Blutdruck, während der Entspannungsphase des
+Herzens (\I{Diastole}) vom diastolischen Blutdruck.
+Natürlich ist der Blutdruck bei der Anspannung des Herzens höher als
 bei der Entspannung (\E{Systolischer Blutdruck >
 Diastolische Blutdruck)}.
 }{
@@ -1171,7 +1251,7 @@ Kammerkontraktion
 
 
 Zur Durchführung der Blutdruckmessung vgl.
-\prettyref{topic:rr-messung}.
+\FullPrettyRef{topic:rr-messung}.
 
 
 
@@ -1259,20 +1339,14 @@ mittels Medikamente unbedingt gesenkt werden.
 \subsection{Kreislaufstillstand}\label{bkm:RefHeading42514602}\label{topic:kreislaufstillstand}
 \index{Kreislaufstillstand}
 
-\Definition{Totales Pumpversagen des Herzens.} 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TODO : Überarbeitung
-\TODO{GABS}{2010-mm-yy}{Kreislaufstillstand: Überarbeitung
-notwendig.} {Dieser Teil ist nicht gut formuliert und/oder unvollständig, 
-   er benötigt eine Überarbeitung!
-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\Definition{Totales Pumpversagen des Herzens und somit
+Stillstand des Kreislaufes.}
 
 Das Pumpversagen kann entstehen durch:
 
 \begin{itemize}
-    \item Asystolie (keine Herztätigkeit)
+  \item Herzrhytmusstörungen\begin{itemize}
+   \item Asystolie (keine Herztätigkeit)
     \item Kammerflimmern (unkoordinierte Herztätigkeit)
     \item Zu schnelle Herzfrequenz, bei der sich das Herz
     nicht mehr füllen oder etwas auswerfen kann ((Pulslose)
@@ -1281,6 +1355,10 @@ Das Pumpversagen kann entstehen durch:
     Entkopplung: keine
     Pumpreaktion auf Signale des Reizleitungssystems im Herz
 \end{itemize}
+ \item Mechanische Blockaden
+ \item Blutverlust
+\end{itemize}
+
 
 \Layout{2}{Ursachen}
 {
@@ -1306,28 +1384,46 @@ Das Pumpversagen kann entstehen durch:
 \end{itemize}
 }{}{}{}{}
 
-\Layout{2}{Folgen und Symptome}
-{
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TODO : Fließtext/Slide fehlt!
-\TODO{GABS}{2010-mm-yy}{Kreislaufstillstand: Fließtext/Slide
-fehlt!} {Fließtext/Slide fehlt!}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\Layout{0}{Folgen und Symptome}
+{Unmittelbar anch Aussetzen des Herzschlages ist der Patient
+\E{pulslos} und der Blutkreislauf steht still. Es wird im
+schwindlig und schlecht, nach kurzer Zeit (ca. \VonBis{15}{20}\Sek*) wird er
+\E{bewusstlos}. Nach weiteren 10\Sek* tritt ein
+\E{Atemstillstand} ein (oder eine \I{Schnappatmung}). 
+
+Nach \VonBis{3}{5}\Min* treten Hirnschäden auf, welche nicht
+mehr reversibel sind. In kühler Umgebung kann diese
+Zeitspanne etwas ausgedehnt werden.
+Viele Patienten haben, auch nach erfolgreicher
+Reanimation, im weiteren Verlauf neurologische Defizite. 
+}{
 \begin{itemize}
-  \item Aussetzen des Herzschlages $\rightarrow$ Patient ist
+  \item Aussetzen des Herzschlages $\rightarrow$ 
   sofort pulslos!
-  \item[\Sign{→}] Bewusstlosigkeit (nach \VonBis{15}{20}\Sek*)
-  \item[\Sign{→}] Atemstillstand/Schnappatmung (nach ca. 10\Sek*)
-  \item[\Sign{→}] \EE{Irreversible Hirnschäden nach \VonBis{3}{5}\Min*}, bei
-  Kälte allerdings deutlich länger!
+  \item[\Sign{→}] Bewusstlosigkeit nach \VonBis{15}{20}\Sek*
+  \item[\Sign{→}] Atemstillstand/Schnappatmung nach ca. 10\Sek*
+  \item[\Sign{→}] \EE{Irreversible Hirnschäden nach \VonBis{3}{5}\Min*}
 \end{itemize}
-}{}{}{}{}
+
+}{}{}{}
 
 
 
 
-
-
+\Layout{0}
+{\TxQuerverweise}
+{\begin{itemize}
+  \item Reanimation, Erste Hilfe:
+  \FullPrettyRef{topic:reanimation-eh}
+  \item Basic Life Support:
+  \CO{[BLS]}, \FullPrettyRef{chp:BLS}
+  \item Advanced Life Support: \CO{[ALS]},
+  \FullPrettyRef{chp:ALS}
+\end{itemize}}
+{}
+{}
+{}
+{}
 
 
 
@@ -1369,11 +1465,8 @@ Kreislaufsystems betroffen sein  (Blut, Gefäße, Herz).}
 
 % TODO Graphik Schockentwicklung RR und HF
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TODO : Fließtext/Slide fehlt!
-\TODO{GABS}{2010-mm-yy}{Schock: Fließtext/Slide
-fehlt!}{Fließtext/Slide fehlt!}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 \noindent Schock bedeutet:
 
 \begin{itemize}
@@ -1547,7 +1640,7 @@ Vollbild}
 \clearpage % TODO temp clearpage
 \Layout{0}{Schockschere}
 {
-\index{Schock!-schere}
+\index{Schockschere}
 \label{topic:schockschere}
 Normalerweise ist die Herzfrequenz niedriger als der
 systolische Blutdruck. Wenn der Körper versucht den Schock
@@ -1569,7 +1662,7 @@ RR!} Die Faustregel ist deshalb nicht anwendbar!
 Blutdruck' umkehrt, befindet sich der Patient bereits in
 einem schweren Schock.} 
 \Fazit{Die Schockschere ist ein \EE{Spätzeichen!} Auch wenn
-die Herzfrequenz höher ist als der systolische Blutdruck
+die Herzfrequenz niedriger ist als der systolische Blutdruck
 kann sich der Patient bereits im Schock befinden!}
 \Fazit{Ob ein Schock oder eine Schockgefahr besteht wird anhand von
 \E{Schocksymptomen} und anhand der
@@ -1929,8 +2022,8 @@ Schwerer Schock
 
 
 \subsubsection{Septischer Schock und Toxischer Schock}
-\index{Schock!Septischer}
-\index{Schock!Toxischer}
+\index{Schock!septischer}
+\index{Schock!toxischer}
 \label{topic:schock-septischer}
 \label{topic:schock-toxischer}
 Siehe auch: \CO{[INK]}, \prettyref{topic:sepsis}.
@@ -2613,6 +2706,17 @@ Elektrolytstörungen}
 
 \subsection{Allgemeines}
 
+\Layout{abstract}{}
+{Der Körper muss einen ausgewogenen Säure-Basenhaushalt
+(pH-Wert) haben. Puffersysteme sind wichtige Intrumente zur
+Regulation. Der pH-Wert hängt eng mit der Atmung zusammen:
+Säure kann zu Wasser und \ce{CO2} abgebaut werden. Bei zu
+geringer Atmung sammelt sich im Körper Säure, bei
+viel Atmung wird mehr Säure verbraucht. Umgekehrt erhöht
+sich bei Übersäuerung der Atemantrieb. 
+
+}{}{}{}{}
+
 \Layout{0}{Säuren und Laugen}
 {%
 \index{Säure}
@@ -2623,10 +2727,11 @@ positiv geladenes Teilchen im Atoms.} abgeben können,
 \T{Basen} sind Stoffe, die Protonen aufnehmen können. Der
 Begriff
 \T{Lauge} ist gleichbedeutend mit dem Begriff Base. \cite{LoefflerBiochemie7}
-
 Ein positiv geladenes Wasserstoffion (\ce{H^+}) entspricht
-der Ladung eines Protons, daher kann man vereinfacht sagen,
-dass \ce{H^+} Säure entspricht.
+der Ladung eines Protons, daher kann man vereinfacht sagen:
+\Speech{"`\ce{H^+} entspricht Säure."'}
+
+\bigskip
 }{%
 \begin{description}
   \item[\T{Säuren}]: Stoffe, die
@@ -2637,35 +2742,32 @@ dass \ce{H^+} Säure entspricht.
 
 
 
-\Layout{2}{\T[noindex]{pH}-Wert}
+\Layout{0}{pH-Wert}
 {%
 \index{pH-Wert}
 Der pH-Wert gibt an, wie \E{sauer} oder \E{basisch} eine
 Lösung ist. Ein pH-Wert {\textless}\,7 gilt als \E{sauer},
-=\,7 als \E{neutral} und und {\textgreater}\,7 als
-\E{basisch}.
+ein pH\,=\,7 als \E{neutral} und ein ph\,{\textgreater}\,7
+als \E{basisch}.
 
-
-
-Der richtige pH-Wert ist lebenswichtig. Der Körper ist da
+Der Körper ist da
 sehr empfindlich, der pH-Wert muss sich in engen Grenzen
 bewegen. Schon geringe Abweichungen können große Folgen
-haben. Leider gibt es präklinisch normalerweise keine
-Möglichkeit den pH-Wert zu messen, jedoch hat die Atmung
-bzw. Beatmung sowie Erkrankungen
- großen Einfluss auf ihn, siehe unten.
-
-Bei einer Übersäuerung sprechen wir von einer
-\index{Azidose}\T{Azidose}, wenn der Patient basisch wird,
-von einer \index{Alkalose}\T{Alkalose}.
+haben. Bei einer Übersäuerung sprechen wir von einer
+\T{Azidose}, wenn der Patient basisch wird,
+von einer \T{Alkalose}.
+ 
 % \Fazit{Bei einer \EE{Übersäuerung} sprechen wir von einer
 % \T{Azidose}, wenn der Patient \EE{basisch} wird von einer
 % \T{Alkalose}.}
 
-\Z{Der pH-Wert beim Menschen wird normalerweise vom Körper
-sehr konstant um ca 7,4 gehalten. Bereits einen pH-Wert
+\Z{Der richtige pH-Wert ist lebenswichtig. Er wird beim Menschen
+normalerweise vom Körper sehr konstant um ca 7,4 gehalten. Bereits einen pH-Wert
 unter 7,35 (!)  bezeichnet man als
-\E{Azidose}, bzw. über 7,45  als \E{Alkalose}} 
+\E{Azidose}, bzw. über 7,45  als \E{Alkalose}. Leider gibt
+es präklinisch normalerweise keine Möglichkeit den pH-Wert zu messen, jedoch hat die Atmung
+bzw. Beatmung sowie Erkrankungen
+ großen Einfluss auf ihn, siehe unten.} 
 }{
 \begin{itemize}
   \item Gibt an, wie sauer etwas ist.
@@ -2679,15 +2781,16 @@ unter 7,35 (!)  bezeichnet man als
 {%
 Der Körper muss den pH-Wert in einem engen Bereich halten.
 Dazu gibt es Regulationsmechanismen. Der wichtigste
-Regulationsmechanismus ist das \Z{Bicarbonat-}Puffersystem
-im Blut.~\ZFootnote{Ein Puffer ist ein Stoff welcher
-pH-Änderungen abfedert.}
-
+Regulationsmechanismus ist das
+\Z{Bicarbonat-}\II{Puffersystem} im Blut.~\ZFootnote{Ein
+Puffer ist ein Stoff welcher pH-Änderungen abfedert.}
 Daneben gibt es auch noch andere Regulationsmechanismen, so
 reguliert auch die Niere die Ausscheidung oder
 Wiederaufnhame von \ce{H^+}.
 
-}{}{}{}{}
+}{
+
+}{}{}{}
 
 \Layout{0}{Puffersystem im Blut}
 {%
@@ -2696,16 +2799,16 @@ Der Mechanismus des \Z{Bicarbonat-}Puffers wandelt Säure \Z{(\ce{H^+})}
 \Z{Bikarbonat} in Kohlendioxid \Z{\ce{CO2} und \ce{H2O}} um \E{und umgekehrt}.
 
 \bigskip
-\Formula{
-\begin{displaymath}
+\Formula{\centering
+% \begin{displaymath}
 \ce{$\text{\Z{\tiny Bikarbonat + }}$ $\text{Säure}$
         <->[\text{Gleichgewicht}] CO2 $\text{\Z{\tiny + Wasser}}$}
-\end{displaymath}
+% \end{displaymath}
 
-\begin{displaymath}
+% \begin{displaymath}
 \Z{\ce{HCO3^- + H^+ <->[\text{Gleichgewicht}] CO2 +
         H2O}}
-\end{displaymath} 
+% \end{displaymath} 
 }
        
         
@@ -2821,9 +2924,9 @@ Blutes
 Zu der übermäßigen Säureproduktion kommt es vor allem bei einer
 Kreislaufinsuffizienz und beim Schock.
 
-Ein klassisches Krankheitsbild ist das Diabetische Koma. Auch hier werden saure
-Stoffe gebildet \Z{Ketonkörper}, welche ein Ungleichgewicht verursachen. 
-}{%
+Ein klassisches Krankheitsbild ist das
+\II[Koma!diabetisches]{Diabetische Koma}. Auch hier werden
+saure Stoffe gebildet \Z{(Ketonkörper)}, welche ein Ungleichgewicht verursachen. }{%
 \begin{itemize}
     \item Kreislaufinsuffizienz, Schock
     \item Diabetisches Koma

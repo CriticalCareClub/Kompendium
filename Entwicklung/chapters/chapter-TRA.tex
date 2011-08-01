@@ -981,15 +981,19 @@ den Schuh öffnet und schließlich vom Fuß abzieht.
 
 %\paragraph{Frakturzeichen} 
 
-\Layout{0}{Frakturenzeichen}{%
-\index{Frakturzeichen}%
-\label{topic:frakturzeichen}%
-Es gibt sichere und unsichere Frakturzeichen:
+\Layout{0}{Frakturenzeichen}
+{\label{topic:frakturzeichen}%
+Es gibt sichere und unsichere Frakturzeichen, vgl.
+\prettyref{tab:frakturzeichen}.
+}
+{}
+{}
+{}
 
-\begin{table}[H]
-\FontTableBase
-\Captionof{table}{Frakturzeichen.}
-
+\Layout{47}{}
+{}
+{}
+{\index{Frakturzeichen}%
 \begin{tabularx}{\linewidth}[H]{XX}\addlinespace
 \multicolumn{1}{c}{\TabHeading{Sichere Frakturzeichen}}
  &
@@ -1003,36 +1007,33 @@ Es gibt sichere und unsichere Frakturzeichen:
     absichtlich ausprobieren!}
     \item Sichtbare freie Knochenteile (= offener Bruch)
 \end{itemize}
- &
- \begin{itemize}
-     \item Schmerz
-     \item Schwellung
-     \item Hämatom
-     \item Gestörte Funktion / Bewegungsunfähigkeit
- \end{itemize}
+&
+\begin{itemize}
+    \item Schmerz
+    \item Schwellung
+    \item Hämatom
+    \item Gestörte Funktion / Bewegungsunfähigkeit
+\end{itemize}
 \\\bottomrule
 \end{tabularx}
-\end{table}
-}{
-\begin{itemize}
-  \item Sichere Frakturenzeichen
-  \item Unsichere Frakturenzeichen
-\end{itemize}
-}{}{}{}
+}
+{Frakturzeichen\label{tab:frakturzeichen}}
+{}
 
-\begin{figure}[h]
-\begin{center}
+\Layout{47}{}
+{}
+{}
+{
 \includegraphics[width=0.4\linewidth]{./images/fraktur_fehlstellung_nativ.jpg}
 \vspace{0.2\linewidth}
 \includegraphics[width=0.4\linewidth]{./images/fraktur_fehlstellung_xray.jpg}
-\Captionof{figure}{Fehlstellung -- In natura und in
-Röntgendarstellung. \SourcePicture{Hauer}}
-\end{center}
-\end{figure}
+}
+{Fehlstellung -- In natura und in Röntgendarstellung.}
+{Hauer}
 
 
-\MassnahmenNG{Spezielle Maßnahmen}{Fraktur}{}{%
-Hauptaugenmerk bei der Versorgung der Knochenbrüche liegt
+\MassnahmenNG{Spezielle Maßnahmen}{Fraktur}{}
+{Hauptaugenmerk bei der Versorgung der Knochenbrüche liegt
 auf der Blutstillung, der Schienung, sowie auf dem Erkennen
 von großen Blutverlusten.
 \begin{itemize}
@@ -1111,7 +1112,7 @@ Gelenkskapsel bei einer Distorsion in Mitleidenschaft
 gezogen werden und bei ausreichender Gewalteinwirkung reißen.
 
 \Layout{0}{\TxSymptome}{%
-Bei einer Distorsion klag der Patient über \E{Schmerzen} im
+Bei einer Distorsion klagt der Patient über \E{Schmerzen} im
 Gelenksbereich. Je nach Unfallschwere kann der Patient das
 entsprechende Gelenk evtl. \E{eingeschränkt bewegen}. Durch
 die Weichteilverletzung kommt es zu einem \EE{Anschwellen}
@@ -1195,7 +1196,7 @@ entsprechende Gelenk nicht bewegen.
   (Vorsicht Schwellung!)
   \item Stellung der Gliedmaße belassen
   \item Federnd fixierte Lagerung
-  \item \EE{keine Einrenkversuche!}
+  \item \EE{Keine Einrenkversuche!}
 \end{itemize}
 }
 
@@ -1276,33 +1277,35 @@ festgestellt,  ohne dass äußere Wunden vorliegen. Eine \EE{sorgfältige
 Untersuchung} ist daher bei jedem \Abk{SHT} Pflicht!}
 
 \Layout{0}{\TxGefahren}
-{\subparagraph{\Ca{Luzides Intervall} (lichtes Intervall)}
-Die Symptome können eventuell erst Stunden nach der
-Verletzung einsetzen. Dazwischen ist der Patient unauffällig.
-Diese Zeitspanne wird \T[Intervall!luzides]{Luzides
-Intervall} genannt und ist sehr gefährlich, da man den Patienten leicht falsch
-einschätzen kann.
+{
+\begin{itemize}
+  \item \EE{\Ca{Luzides Intervall} (lichtes Intervall)}:
+  Die
+  Symptome können eventuell erst Stunden nach der Verletzung einsetzen. Dazwischen ist der Patient unauffällig.
+  Diese Zeitspanne wird \T[Intervall!luzides]{Luzides
+  Intervall} genannt und ist sehr gefährlich, da man den Patienten leicht falsch
+  einschätzen kann.
+  \item \EE{Hirnblutung}:
+  \index{Insult!blutiger}%
+  \index{Hirnblutung}%
+  \index{Blutung!intrakranielle}%
+  Eine Hirnblutung (intrakranielle Blutung) kann sowohl in
+  Folge eines \Abk{SHT} als auch spontan (z.\,B. durch Platzen eines
+  Aneurysmas, "`blutiger Insult"', \prettyref{topic:insult})
+  auftreten.
+  
+  Aufgrund der inneren Blutung steigt der Druck im Gehirn an,
+  es treten \II{Hirndruckzeichen} (pathologische
+  Pupillenreaktion, Druckpuls). Im Extremfall kann es zu einer
+  \I{Hirnstammeinklemmung} kommen. Patienten mit
+  intrakranieller Blutung sind vital bedroht! Beim \Abk{SHT} ist zu beachten, dass
+  die Symptome oft auch erst Stunden nach dem Unfall auftreten
+  können (luzides Intervall).
+  \item \EE{HWS-Verletzung}:
+  Oft kommt es bei einer einem \Abk{SHT} zu einer
+  Mitverletzung der Halswirbelsäule.
+\end{itemize}
 
-\subparagraph{Hirnblutung}
-\index{Insult!blutiger}%
-\index{Hirnblutung}%
-\index{Blutung!intrakranielle}%
-Eine Hirnblutung (intrakranielle Blutung) kann sowohl in
-Folge eines \Abk{SHT} als auch spontan (z.\,B. durch Platzen eines
-Aneurysmas, "`blutiger Insult"', \prettyref{topic:insult})
-auftreten. 
-
-Aufgrund der inneren Blutung steigt der Druck im Gehirn an, 
-es treten \II{Hirndruckzeichen} (pathologische
-Pupillenreaktion, Druckpuls). Im Extremfall kann es zu einer
-\I{Hirnstammeinklemmung} kommen. Patienten mit
-intrakranieller Blutung sind vital bedroht! Beim \Abk{SHT} ist zu beachten, dass
-die Symptome oft auch erst Stunden nach dem Unfall auftreten
-können (luzides Intervall).
-
-\subparagraph{HWS-Verletzung}
-Oft kommt es bei einer einem \Abk{SHT} zu einer
-Mitverletzung der Halswirbelsäule. 
 }{
 \begin{itemize}
   \item \Ca{Luzides Intervall}
@@ -1322,7 +1325,18 @@ Beurteilung}, die Erhebung des \E{Unfallmechanismus} und die
 suche nach \E{Begleit- oder Folgeverletzungen} sind
 besonders zu betonen.
 
-\subparagraph{Neurologische Beurteilung}
+\begin{itemize}
+  \item \EE{Unfallmechanismus}: Anhand des
+Unfallmechanismus muss ermittelt werden, ob es eine
+Verletzung des (Hals-)Wirbelsäule wahrscheinlich ist.
+Besonders bedenklich sind Sportverletzungen im Kopf- oder
+Nackenbereich, ein Trauma nach Sprung ins Wasser und
+Stauchungsverletzungen der \Abk{HWS} (z.\,B. Schlag auf
+Kopf;
+vgl.
+\FullPrettyRef{m:einschaetzung-indikation-ws-immobilisation}).
+Ggfs. muss eine Immobilisation durchgeführt werden
+  \item \EE{Neurologische Beurteilung}:
 Die neurologische Beurteilung ist beim \Abk{SHT} natürlich
 besonders wichtig und besonders genau durchzuführen. Ein
 \EE{Neurocheck} ist verpflichtend. Auffälligkeiten können
@@ -1346,38 +1360,18 @@ vorliegen, vgl. \FullPrettyRef{topic:hirndruckzeichen}.
 Weiters muss auf \EE{neurologische Ausfälle} (sensorisch,
 motorisch) in Folge einer \EE{\Abk{HWS}-Verletzung} geachtet
 werden. 
-
-\subparagraph{Unfallmechanismus} Anhand des
-Unfallmechanismus muss ermittelt werden, ob es eine
-Verletzung des (Hals-)Wirbelsäule wahrscheinlich ist.
-Besonders bedenklich sind Sportverletzungen im Kopf- oder
-Nackenbereich, ein Trauma nach Sprung ins Wasser und
-Stauchungsverletzungen der \Abk{HWS} (z.\,B. Schlag auf
-Kopf;
-vgl.
-\FullPrettyRef{m:einschaetzung-indikation-ws-immobilisation}).
-Ggfs. muss eine Immobilisation durchgeführt werden
-
-\subparagraph{Traumacheck} Ein Traumacheck ist
+\item \EE{Traumacheck} Ein Traumacheck ist
 natürlich verpflichtend durchzuführen (\FullPrettyRef{topic:traumacheck}).
 
 Besonders zu beachten ist die Gefahr einer hohen
 Querschnittslähmung, ebenso dass Schädel, \Abk{HWS} und \Abk{BWS} eine
 Linie bilden. 
 
-\AuthNotes{GABS: Die einzelnen Massnahmen in Bezug auf die
-unterschiedlichen \Abk{SHT}s gehören definiert.}
-
-%\MassnahmenNG{Spezielle Maßnahmen}{}{
-%    \paragraph{Spezielle Maßnahmen beim \Abk{SHT} --- Gehirnerschütterung}
-%    \begin{itemize}
-%        \item 
-%    \end{itemize}
-%}
-
-\subparagraph{Spitalsabklärung} Jedes \Abk{SHT}, auch wenn die
+\item \EE{Spitalsabklärung}: Jedes \Abk{SHT}, auch wenn die
 Diagnostik vor Ort unauffällig und der Patient gegenwärtig
 symptomfrei ist, ist im Spital abzuklären!
+\end{itemize}
+
 
 \Cave{\EE{Jedes \Abk{SHT} ist im Spital abzuklären!} Es besteht
 die Gefahr dass sich der Patient gegenwärtig im
@@ -1385,7 +1379,6 @@ die Gefahr dass sich der Patient gegenwärtig im
 befindet und sich sein Zustand erst in einigen Stunden, dann
 aber schlagartig verschlechtert. Im Zweifelsfall wird der
 Patient dort zur Beobachtung (24\Hour* lang) aufgenommen.}
-
 }
 {
 \begin{itemize}
@@ -1605,9 +1598,9 @@ zieht keine bleibenden Schäden nach sich.
 
 Die Gehirnprellung ist eine schwerere Form des
 Schädel-Hirntraumas. Leitsymptom ist die
-\EE{Bewusstlosigkeit größer
+\EE{Bewusstlosigkeit länger
  als 1\Hour*}, beziehungsweise die Bewusstseinseintrübung
- >\,24\Hour*. Mittels weiterführender Diagnostik im Spital
+ <\,24\Hour*. Mittels weiterführender Diagnostik im Spital
  lassen sich die \EE{Hirnschädigungen} nachweisen. Es kann
  zu Nervenverletzungen kommen, dies kann zu vegetativen
  Störungen führen. Bleibende Schäden sind möglich.
@@ -2113,10 +2106,10 @@ des Thoraxtraumas schließen, da schwere innere Verletzungen auftreten können!}
 
 \subsection{Pneumothorax}\label{topic:pneumothorax}\index{Pneumothorax}
 
-\Definition{Luftansammlung im Pleurspalt}
+\Definition{Luftansammlung im Pleuraspalt}
 
-(Vgl. Kap. Anatomie, \prettyref{topic:atemmechanik} und
-\prettyref{topic:pleura})
+\Z{Vgl. \CO[ANA], \FullPrettyRef{topic:atemmechanik}, und
+\FullPrettyRef{topic:pleura}.}
 \index{Pneumothorax!geschlossener}
 \index{Pneumothorax!offener}
 \index{Pneumothorax!Spontan-}
@@ -2237,10 +2230,12 @@ verursacht.
   luftdicht verbinden!} Es kann sonst ein
   Spannungspneumothorax entstehen. Steril abdecken.
 \end{itemize}
+
+\Z{Ein Arzt kann mittels Drainage bzw. Punktion einen
+Pneumothorax entlasten.}
 }
 
-\Z{Der Notarzt kann mittels Drainage einen Pneumothorax
-entlasten.}
+
 
 %\AuthNotes{KOCH: 
 
@@ -2271,7 +2266,7 @@ darunter liegende Organe verletzen. Je nach Rippe(n) kann es
 zu Lungeneinrissen, Leber- und Milzverletzungen mit starken
 inneren Blutungen kommen. Der Blutverlust kann \VonBis{2}{3} Liter
 betragen \cite{LPN3}. In diesem Fall herrscht höchste
-Schockgefahr.
+\E{Schockgefahr}.
 }{
 \begin{itemize}
   \item (z.\,T. schwere) Atemnot, Zyanose, Tachypnoe
@@ -2335,10 +2330,10 @@ unterscheiden.
 \end{itemize}
 }{}{}{}
 
-\begin{table}[H]
-\Captionof{table}{Offenes und geschlossenes Bauchtrauma.}
-
-\begin{tabularx}{\linewidth}{XX}
+\Layout{57}{}
+{}
+{}
+{\begin{tabularx}{\linewidth}{XX}
 \TabHeading{Offenes (perforierendes) Bauchtrauma}
 &
 \TabHeading{Geschlossenes (stumpfes) Bauchtrauma}
@@ -2354,8 +2349,9 @@ unterscheiden.
   \item Prellung durch Lenkstange bei PKW-Unfall
 \end{itemize}
 \\\bottomrule
-\end{tabularx}
-\end{table}
+\end{tabularx}}
+{Offenes und geschlossenes Bauchtrauma}
+{}
 
 
 \subsection{Offenes Bauchtrauma}
@@ -2801,7 +2797,7 @@ denken!
   \item Keine Reinigung des Amputats
   \item Sterile Versorgung des Amputats (Verband)
   \item Lagerung und Transport in doppelwandigem
-  Amputatsbeutel bei  einer Kälte von ca. 4\,\textcelsius.
+  Amputatsbeutel bei  einer Kälte von ca. 4\,\DegC.
   Zwischen die beiden Schichten des Beutels gibt  man Wasser
   mit Eis (im Verhältnis 1:1).
   \item Das Amputat darf auf keinen Fall gefroren werden
@@ -3079,8 +3075,16 @@ Körperoberfläche gilt eine Verbrennung als "`schwer"'; für
   \item Kleiderbrand löschen
   \item Vitale Bedrohung einschätzen. \TxBeiVit \TxMassVit
   \item Kleidung und Schmuck entfernen (sofern nicht  eingeschmolzen!)
-  \item Nur wenn \E{unmittelbar nach dem Unfall} damit begonnen werden kann, 
-  max. 10 min. mit handwarmen Wasser die betroffenen Körperregionen spülen;
+  \item Nur wenn \E{unmittelbar\footnote{Bereits zwei
+  Minuten nach Verbrennungsbeginn und damit bei Eintreffen
+  des Rettungsdienstes ist ein
+positiver Effekt der Kühlung nicht mehr zu erwarten. Bei
+mehreren Minuten zurückliegenden Verbrennungen ist eine
+Kühlung nicht mehr sinnvoll.
+\cite{Asanger2010,AsboeLehrmeinung2011-21}} nach dem Unfall}
+damit begonnen werden kann, für max. 10\Min* mit handwarmen
+Wasser die betroffenen Körperregionen spülen; Bei Frösteln
+des Patienten früher abzubrechen.
   \EE{nicht unterkühlen!} 
   \item \EE{Abdeckung}: Sterile, nicht verklebende
   Wundauflagen; evtl. metalliserte Wundauflagen
@@ -3103,8 +3107,12 @@ Körperoberfläche gilt eine Verbrennung als "`schwer"'; für
     \item \ce{O2}: 10\LPerMin*
   \end{itemize}
   \item Kleidung und Schmuck entfernen (sofern nicht  eingeschmolzen!)
-  \item Besonders auf Wärmeerhalt achten!
-  \item \Z{\E{Keine} Kühlung}
+  \item Besonders auf \EE{Wärmeerhalt} achten!
+  \item Luftzug vermeiden
+  \item \Z{\E{Keine} Kühlung\footnote{Bei großflächigen
+  Verbrennungen sollte der Patient nur primär abgelöscht werden. Hier soll
+  keine Kühlung der betroffenen Hautregionen erfolgen.
+  \cite{Asanger2010}}}
 %   \item Mind. 10 min. mit mäßig kaltem Wasser die betroffenen Körperregionen spülen  --
 %   \EE{NICHT unterkühlen!} 
 %   OBSOLETE: Großflächige Verbrennungen (Erwachsene
@@ -3123,7 +3131,7 @@ Körperoberfläche gilt eine Verbrennung als "`schwer"'; für
   umstritten.} Locker anlegen. Bei großflächigen
   Verbrennungen können,  wenn das sterile Material nicht
   ausreicht,  zur Not auch saubere Leintücher o.\,ä. 
-  verwendet werden \cite{emergency9}.
+  verwendet werden \cite{emergency9,Asanger2010}.
   % TODO INHALT: Stellungsnahme zu Water-Jel
   %         \item Wenn vorhanden: Water-Jel
   %         \footnote{Streitfrage: Water-Jel: Umstritten}

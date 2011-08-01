@@ -1198,10 +1198,11 @@ besondere Herausforderung dar. Es gilt:
 
 Die Annäherung an den Patienten erfolgt in dessen
 Blickrichtung, um ihn nicht zu überraschen. Bevor der
-Patient angesprochen wird, muss Helm fixiert
+Patient angesprochen wird, muss der Helm fixiert
 werden. Der Patient wird daraufhin aufgefordert sich nicht
-zu bewegen\SpeechMargin{"`Bitte bleiben Sie
-ruhig liegen und bewegen Sie sich nicht!"'}.
+zu bewegen. 
+% \SpeechMargin{"`Bitte bleiben Sie
+% ruhig liegen und bewegen Sie sich nicht!"'}
 
 Am besten wird der Sturzhelm von zwei Helfern abgenommen
 (\II{Zweihelfermethode}), zur Not funktioniert es jedoch
@@ -1246,14 +1247,14 @@ anschließend eine HWS-Schiene angelegt werden
 \includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/HelmZweihelfer3b.JPG}
 \\
 % Schritt 1 
+Bewegungsverbot: \Speech{"`Bitte bleiben Sie ruhig liegen
+und bewegen Sie sich nicht!"'} 
 Kopf und Helm fixieren, Visier öffnen
+\Speech{"`Mein Name ist {\ldots} Wir
+werden jetzt Ihren Helm abnehmen."'} 
 &
 % Schritt 2 
 Ansprechen, Kinnriemen öffnen
-
-\Speech{"`Bitte bleiben Sie ruhig liegen und bewegen Sie
-sich nicht! Mein Name ist {\ldots} Wir
-werden jetzt Ihren Helm abnehmen."'} 
 &
 % Schritt 3 
 Kopf stabilisieren, Helm abziehen
@@ -1299,16 +1300,17 @@ stabilisieren."'}}
 \includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/HelmEinhelfer3b.JPG}
 \\
 % Schritt 1 
+Bewegungsverbot: \Speech{"`Bitte bleiben Sie ruhig liegen und bewegen Sie
+sich nicht!"'}
 Kopf und Helm fixieren, Visier öffnen
 &
 % Schritt 2 
 Ansprechen, Kinnriemen öffnen
 
-\Speech{"`Bitte bleiben Sie ruhig liegen und bewegen Sie
-sich nicht! Mein Name ist {\ldots} Ich
+\Speech{"`Mein Name ist {\ldots} Ich
 werde jetzt Ihren Helm abnehmen."'} &
 % Schritt 3 
-Helm abziehen
+Helm kippen \ldots
 \\\addlinespace
 \includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/HelmEinhelfer4b.JPG}
 &
@@ -1316,9 +1318,9 @@ Helm abziehen
 &
 \includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/HelmEinhelfer6b.JPG}
 \\
-Schritt 4 
-\ACh{Instruktor 1}{0.8.0}{Weg lassen. }\ACh{GABS}{2010-02-19}{Helm kippen bis
-Nasenspitze sichtbar?} 
+{\ldots} bis
+Nasenspitze sichtbar ist.
+\ACh{Instruktor 1}{0.8.0}{Weg lassen. }\ACh{GABS}{2010-02-19}{?} 
 &
 % Schritt 5 
 Kopf stabilisieren, Helm abziehen
@@ -3774,9 +3776,17 @@ rechnen!}
 \MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verbrennungen}{}{
 \begin{itemize}
   \item Hitzeeinwirkung sofort stoppen.
-  \item Wenn innerhalb von 2 Minuten möglich, für max. 10\Min* mit handwarmen
-  Wasser kühlen (Richtwert 20\,\textcelsius); andernfalls
-  keine Kühlung durchführen \cite{ASBOEAkademieUpdate2010Verbrennung}.
+  \item Wenn 
+  \begin{itemize}
+    \item innerhalb von 2 Minuten
+  möglich,
+    \item Ausdehnung <\,20\PC* (Kinder <\,10\PC, Säuglinge
+    <\,10\PC*) 
+  \end{itemize}  für \E{maximal 10\Min* mit} mit
+    handwarmen Wasser kühlen (Richtwert 20\,\DegC); 
+    
+    andernfalls ist keine Kühlung durchzuführen
+  \cite{Asanger2010,ASBOEAkademieUpdate2010Verbrennung}.
   
   \Ca{Achtung: Gefahr der Unterkühlung!}
   \item Wärmeerhalt ist besonders wichtig!
@@ -3804,14 +3814,14 @@ rechnen!}
 
 \subsubsection{Unterkühlung}
 
-\Definition{Absinken der Körperkerntemperatur unter 36\,\textcelsius{}}
+\Definition{Absinken der Körperkerntemperatur unter 36\,\DegC{}}
 
 \Layout{0}{\TxSymptome{} und Kennzeichen}
 {
 Am Beginn hat der Patient \EE{Schmerzen}, Atem- und Herzfrequenz sind erhöht.
 Je weiter die Temperatur sinkt, desto \EE{teilnahmsloser}
 und \EE{müder} wird der Patient. Zu Letzt kommt es zum \EE{Absinken
-von Atem- und Herzfrequenz}. Bei einer Temperatur unter 27\,\textcelsius{} tritt der Tod ein.
+von Atem- und Herzfrequenz}. Bei einer Temperatur unter 27\,\DegC{} tritt der Tod ein.
 }{
 \begin{itemize}
   \item Schmerzen
@@ -5518,13 +5528,13 @@ Schritt 3
 % \Captionof{table}{Fieber.}
 % 
 % \begin{tabulary}{\linewidth}{LL}
-% erhöhte Temperatur: (37{\textdegree}-38{\textcelsius})
+% erhöhte Temperatur: (37{\textdegree}-38{\DegC})
 % &
 %   a) Kopfschmerzen
 % 
 %   b) uU. leichtes Unwohlsein
 % \\\addlinespace
-%  ii) leichtes bis hohes Fieber: (38{\textdegree}-40{\textcelsius})
+%  ii) leichtes bis hohes Fieber: (38{\textdegree}-40{\DegC})
 % &
 %   a) Kopfschmerzen  
 % 
@@ -5542,13 +5552,13 @@ Schritt 3
 % 
 %   h) beschleunigte Atmung
 % \\\addlinespace
-%  iii) sehr hohes Fieber: ({\textgreater} 40{\textcelsius})
+%  iii) sehr hohes Fieber: ({\textgreater} 40{\DegC})
 % &
 %   a) verstärkte Kennzeichen des leichten bis hohen Fiebers
 % 
 %   b) Fieberdelir (= Störungen von Wahrnehmung und Bewusstsein)
 % \\\addlinespace
-%  Fiebertod: (42,6{\textcelsius})
+%  Fiebertod: (42,6{\DegC})
 % &
 % Eiweiß beginnt zu gerinnen; Stoffwechsel bricht zusammen; Tod 
 % \\\addlinespace\bottomrule
@@ -5634,12 +5644,12 @@ Schritt 3
 % \paragraph{12.1.10) Unterkühlung:}
 % 
 % Von Unterkühlung spricht man ab dem Absinken der
-% Körperkerntemperatur unter 36{\textcelsius}.
+% Körperkerntemperatur unter 36{\DegC}.
 % 
 % \paragraph{Kennzeichen:}
 % 
 % {
-%  i) Abwehrstadium: (34{\textdegree}-36{\textcelsius})}
+%  i) Abwehrstadium: (34{\textdegree}-36{\DegC})}
 % 
 % {
 %   a) Atmung schnell \& tief}
@@ -5651,7 +5661,7 @@ Schritt 3
 %   c) Muskelzittern}
 % 
 % {
-% ii) Erschöpfungsstadium: (31{\textdegree}-33{\textcelsius} )}
+% ii) Erschöpfungsstadium: (31{\textdegree}-33{\DegC} )}
 % 
 % {
 %   a) Atmung deutlich flacher}
@@ -5660,7 +5670,7 @@ Schritt 3
 %   b) Bewusstseinstrübung  }
 % 
 % {
-% iii) Lähmungsstadium: (27{\textdegree}-30{\textcelsius})}
+% iii) Lähmungsstadium: (27{\textdegree}-30{\DegC})}
 % 
 % {
 %   a) Minimalatmung}
@@ -5672,7 +5682,7 @@ Schritt 3
 %   c) Muskellähmung}
 % 
 % {
-% iv) Scheintod: (unter 27{\textcelsius})}
+% iv) Scheintod: (unter 27{\DegC})}
 % 
 % {
 %   a) Atemstillstand}

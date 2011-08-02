@@ -93,7 +93,7 @@ footnotes=multiple,
 \newcommand{\Sign}[1]{{\sffamily#1}}
 
 
-\newcommand{\KAMEL}[1]{{\color{DefaultB}\textcircled{\ttfamily\bfseries\scriptsize#1}}}
+\newcommand{\KAMEL}[1]{{\color{DefaultB}\small\textcircled{\ttfamily\bfseries\scriptsize#1}}}
 \newcommand{\TxKAMEL}{(S-)KAMEL}
 \newcommand{\SpeechMargin}[1]{\marginpar{{\small\Speech{#1}}}}
 
@@ -147,6 +147,8 @@ footnotes=multiple,
 {}
 }
 
+% \usepackage{colortbl}
+% \arrayrulecolor{Beige}
 
 
 % #######################################################################################################
@@ -247,6 +249,13 @@ bindingoffset=1.5cm}
 
 {\color{DefaultB}für den Sanitätsdienst}} 
 
+\bigskip
+
+\bigskip
+
+{\LARGE\color{Grey} Angepasste Version für den ASB
+Floridsdorf-Donaustadt und LV Wien}
+
 % \bigskip
 % 
 % {\color{Grey}\hrule}
@@ -275,33 +284,33 @@ bindingoffset=1.5cm}
 \begin{center}
 % \BoxRoundedBorderFilled{DefaultD}{White}{
 \begin{center}
-{\color{Grey}Herausgeber} \vspace{0.5em}
-\\{\color{DefaultB}\bfseries Gabriel, Koch, Emhofer, Motal, Steuer}
-\vspace{0.5em}
-\\{\color{DefaultB}\itshape\normalsize{Mit Beiträgen von Lena
-Hirtler, Christof Koller, Michael Withofner u.\,a.}}
+{\LARGE\color{Grey}Herausgeber} \vspace{0.5em}
+\\{\LARGE\color{DefaultB}\bfseries Gabriel, Koch, Emhofer, Motal, Steuer}
+% \vspace{0.5em}
+% \\{\color{DefaultB}\itshape\normalsize{Mit Beiträgen von Lena
+% Hirtler, Christof Koller, Michael Withofner u.\,a.}}
 \end{center}
 
 \bigskip
 
 \BoxRoundedBorderFilled{DefaultD}{DefaultD}{
 \begin{multicols}{2}
+{\color{Grey}Mit Beiträgen von }
+\vspace{0.5em}
+
+{\color{DefaultB}Michael Auer\\
+Lena Hirtler\\
+Christof Koller\\ 
+Michael Withofner u.\,a.}
+\columnbreak
+
 {\color{Grey}Version}
 \vspace{0.5em}\\
-{\color{DefaultB}\textbf{\DocVersion}\\({\DocVersionInfo})}
+{\color{DefaultB}\textbf{\DocVersion}
 
 \today
 
-\columnbreak
-{\color{Grey}Variante angepasst für}
-\vspace{0.5em}\\
-{\color{DefaultB}\bfseries ASB
-Floridsdorf-Donaustadt und LV Wien}
-
-{\color{Grey}Key}
-\vspace{0.5em}\\
-{\color{DefaultB}\DocGitCommit}
-
+({\DocVersionInfo})}
 \end{multicols}
 % }
 }
@@ -653,9 +662,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \include{./chapters/chapter-BET}
 
-\include{./chapters/chapter-REG}
-
 \include{./chapters/chapter-RWT}
+
+\include{./chapters/chapter-REG}
 
 
 \opt{STATUS-EXPERIMENTAL}{%
@@ -761,6 +770,8 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \opt{STATUS-EXPERIMENTAL}{%
 \include{./chapters/chapter-SPE}
 } % STATUS-EXPERIMENTAL
+
+\include{./chapters/chapter-WEI}
 
 
 % {\WideParBegin}

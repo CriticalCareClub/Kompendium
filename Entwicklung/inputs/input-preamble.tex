@@ -522,17 +522,23 @@ footskip = 7mm,
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen
-\DeclareRobustCommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
-\DeclareRobustCommand{\SignTableSmall}{{\scalefont{0.7}\SignTable}}
+% \DeclareRobustCommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
+\DeclareRobustCommand{\SignTable}{{\noindent\scalefont{1.5}$\boxbar$}}
+% \DeclareRobustCommand{\SignTableSmall}{{\scalefont{0.7}\SignTable}}
+\DeclareRobustCommand{\SignTableSmall}{{\SignTable}}
 
+% \DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
 \DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
 \DeclareRobustCommand{\SignFazitSmall}{\scalefont{0.7}\SignFazit}
 
-\DeclareRobustCommand{\SignLeitsatz}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{L}}}
+% \DeclareRobustCommand{\SignLeitsatz}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{L}}}
+\DeclareRobustCommand{\SignLeitsatz}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
 \DeclareRobustCommand{\SignLeitsatzSmall}{{\scalefont{0.7}\SignLeitsatz}}
 
-\DeclareRobustCommand{\SignFigure}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{A}}}
-\DeclareRobustCommand{\SignFigureSmall}{{\scalefont{0.7}\SignFigure}}
+% \DeclareRobustCommand{\SignFigure}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{A}}}
+% \DeclareRobustCommand{\SignFigureSmall}{{\scalefont{0.7}\SignFigure}}
+\DeclareRobustCommand{\SignFigure}{{\noindent\color{DefaultB}\BigSquare\llap{{\VarIceMountain}}}}
+\DeclareRobustCommand{\SignFigureSmall}{{\SignFigure}}
 
 \DeclareRobustCommand{\SignMassnahme}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{M}}}
 \DeclareRobustCommand{\SignMassnahmeSmall}{{\scalefont{0.7}\SignMassnahme}}

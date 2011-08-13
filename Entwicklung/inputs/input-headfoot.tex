@@ -94,19 +94,20 @@
 % left
 % \fancyhead[LO]{\EE{\protect\AuthNotes{ | ENTWURF | {\protect\today} |}}}
 \fancyhead[LE]{{\sffamily{\color{ubuntured}\thepage}{\color{Grey}~|~\leftmark}}}
+\fancyhead[RE,LO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \textbf{Nur für den internen Gebrauch!}}}
 
 %%% FOOTER %%%
 % right
-\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~v.\,\DocVersion}~ \AASS{}}}
-\fancyfoot[RE]{{\noindent\DocGitCommitTiny}}
+\fancyfoot[RO]{{\noindent{\sffamily\footnotesize\url{http://www.aass.at}~~|~~v.\,\DocVersion}~ \AASS{}}}
+\fancyfoot[RE]{{\noindent\DocGitCommitFootnotesize}}
 % left
-\fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
-\fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\tiny v.\,\DocVersion~~|~~\url{http://www.aass.at}}}
+\fancyfoot[LO]{{\noindent\DocGitCommitFootnotesize}}
+\fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\footnotesize v.\,\DocVersion~~|~~\url{http://www.aass.at}}}
 
-\fancyfoot[CE,CO]{{{\sffamily\tiny {\DocVersionTyp} | Nur für den internen Gebrauch!}}}
+% \fancyfoot[CE,CO]{{{\sffamily\footnotesize {\DocVersionTyp} | Nur für den internen Gebrauch!}}}
 
 % %%% OVERWRITE SETTINGS FOR DRAFT %%%
-\fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\tiny\upshape{\textbf{\DocVersionTyp}} | \textbf{Nur für den internen Gebrauch!}}}
+% \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \textbf{Nur für den internen Gebrauch!}}}
 
 %
 
@@ -122,15 +123,15 @@
 \fancyhf{} % clear all header and footer fields
 %%% IMMER %%%
 % right
-\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~v.\,\DocVersion}~ \AASS{}}}
-\fancyfoot[RE]{{\noindent\DocGitCommitTiny}}
+\fancyfoot[RO]{{\noindent{\sffamily\footnotesize\url{http://www.aass.at}~~|~~v.\,\DocVersion}~ \AASS{}}}
+\fancyfoot[RE]{{\noindent\DocGitCommitFootnotesize}}
 % left
-\fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
+\fancyfoot[LO]{{\noindent\DocGitCommitFootnotesize}}
 \fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\tiny v.\,\DocVersion~~|~~\url{http://www.aass.at}}}
 
-\fancyfoot[CE,CO]{{{\sffamily\tiny {\DocVersionTyp} | Nur für den internen Gebrauch!}}}
+% \fancyfoot[CE,CO]{{{\sffamily\tiny {\DocVersionTyp} | Nur für den internen Gebrauch!}}}
 %%% DRAFT %%%
-\fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\tiny\upshape{\textbf{\DocVersionTyp}} | \protect\today{} | \textbf{Nur für den internen Gebrauch!}}}
+\fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \protect\today{} | \textbf{Nur für den internen Gebrauch!}}}
 %
 % % {\tiny
 % % Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny
@@ -139,8 +140,8 @@
 %
 % %%% FINAL %%%
 % \fancyfoot[CE,CO]{\EE{{\itshape {\DocVersionTyp} -- Nur für den internen Gebrauch!}}}
-\fancyfoot[RE]{{\noindent\DocGitCommitTiny}}
-\fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
+\fancyfoot[RE]{{\noindent\DocGitCommitFootnotesize}}
+\fancyfoot[LO]{{\noindent\DocGitCommitFootnotesize}}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 }

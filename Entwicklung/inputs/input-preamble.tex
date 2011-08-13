@@ -522,21 +522,29 @@ footskip = 7mm,
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Beschriftungen
-\DeclareRobustCommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
-\DeclareRobustCommand{\SignTableSmall}{{\scalefont{0.7}\SignTable}}
+% \DeclareRobustCommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
+\DeclareRobustCommand{\SignTable}{{\noindent\scalefont{1.5}$\boxbar$}}
+% \DeclareRobustCommand{\SignTableSmall}{{\scalefont{0.7}\SignTable}}
+\DeclareRobustCommand{\SignTableSmall}{{\SignTable}}
 
+% \DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
 \DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
 \DeclareRobustCommand{\SignFazitSmall}{\scalefont{0.7}\SignFazit}
 
-\DeclareRobustCommand{\SignLeitsatz}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{L}}}
+% \DeclareRobustCommand{\SignLeitsatz}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{L}}}
+\DeclareRobustCommand{\SignLeitsatz}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
 \DeclareRobustCommand{\SignLeitsatzSmall}{{\scalefont{0.7}\SignLeitsatz}}
 
-\DeclareRobustCommand{\SignFigure}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{A}}}
-\DeclareRobustCommand{\SignFigureSmall}{{\scalefont{0.7}\SignFigure}}
+% \DeclareRobustCommand{\SignFigure}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{A}}}
+% \DeclareRobustCommand{\SignFigureSmall}{{\scalefont{0.7}\SignFigure}}
+\DeclareRobustCommand{\SignFigure}{{\noindent\color{DefaultB}\BigSquare\llap{{\VarIceMountain}}}}
+\DeclareRobustCommand{\SignFigureSmall}{{\SignFigure}}
 
 \DeclareRobustCommand{\SignMassnahme}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{M}}}
 \DeclareRobustCommand{\SignMassnahmeSmall}{{\scalefont{0.7}\SignMassnahme}}
 
+% \DeclareRobustCommand{\SignMassnahme}{{\noindent\color{DefaultB}\BigSquare\llap{{\sffamily\scalefont{0.9}M}}}}
+% \DeclareRobustCommand{\SignMassnahmeSmall}{{\SignMassnahme}}
 
 
 
@@ -583,7 +591,7 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 % nonamebreak, % keeps all the authors' names in a citation on one line; causes
 % % overfull hboxes but helps with some hyperref problems.
 ]{natbib}
-\renewcommand{\citenumfont}[1]{\sffamily\small#1}
+% \renewcommand{\citenumfont}[1]{\sffamily\small#1}
 % \renewcommand{\citenumfmt}[1]{\sffamily\textbf{#1}:}
 \renewcommand{\bibnumfmt}[1]{\sffamily\textbf{#1}:}
 
@@ -659,11 +667,11 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 \setlength\premulticols{10\baselineskip}
 \renewcommand{\columnseprulecolor}{\color{DefaultGrey}}
 
-\setkomafont{footnote}{\sffamily}
+% \setkomafont{footnote}{\sffamily}
 \deffootnotemark{\textsuperscript{\sffamily\thefootnotemark}}
 % \setlength{\footnotesep}{1pt}
 \usepackage[hang,multiple]{footmisc}
-\renewcommand\footnotelayout{\sffamily}
+% \renewcommand\footnotelayout{\sffamily}
 
 
 
@@ -731,3 +739,7 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 % \raggedFormat
 % \fi
 }
+
+\renewcommand{\FontTableBase}{\rmfamily}
+\renewcommand\TabHeading[1]{{\color{DefaultB}\textbf{#1}}}
+\renewcommand\TabSub[1]{{\bfseries #1}}

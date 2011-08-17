@@ -5,6 +5,7 @@
   chapter = {6 Gef"a{\ss}chirugie},
   pages = {434--492},
   author = {H.-H. Eckstein and P. Heider and O. Wolf and M. Hanke},
+  language = {ngerman},
   crossref = {SiewertChirurgie8},
   owner = {grissu},
   timestamp = {2011.07.23}
@@ -14,6 +15,7 @@
   chapter = {Das Kreislaufsystem},
   pages = {145--188},
   author = {P. Gaehtgens},
+  language = {ngerman},
   crossref = {Silbernagl3},
   owner = {grissu},
   timestamp = {2011.07.21}
@@ -23,6 +25,7 @@
   chapter = {7.14 Pankreas},
   pages = {698--707},
   author = {B. Kremer and A. Schmid},
+  language = {ngerman},
   crossref = {SiewertChirurgie8},
   owner = {grissu},
   timestamp = {2011.07.23}
@@ -42,6 +45,7 @@
   chapter = {Das Herz},
   pages = {109--144},
   author = {J. Schrader},
+  language = {ngerman},
   crossref = {Silbernagl3},
   owner = {grissu},
   timestamp = {2011.07.21}
@@ -64,6 +68,7 @@
 
 @STANDARD{AsboeLehrmeinung2011-07,
   title = {Lehrmeinung Nr. 07/2011: Helmabnahme im Rettungsdienst},
+  language = {ngerman},
   crossref = {AsboeLehrmeinung2011},
   file = {AsboeLehrmeinung2011-07.pdf:AsboeLehrmeinung2011-07.pdf:PDF},
   owner = {grissu},
@@ -72,6 +77,7 @@
 
 @STANDARD{AsboeLehrmeinung2011-10,
   title = {Lehrmeinung Nr. 10/2011: Spineboard im Rettungsdienst},
+  language = {ngerman},
   crossref = {AsboeLehrmeinung2011},
   file = {AsboeLehrmeinung2011-10.pdf:AsboeLehrmeinung2011-10.pdf:PDF},
   owner = {grissu},
@@ -80,6 +86,7 @@
 
 @STANDARD{AsboeLehrmeinung2011-14,
   title = {Lehrmeinung Nr. 14/2011: Boa-Rettung im Rettungsdienst},
+  language = {ngerman},
   crossref = {AsboeLehrmeinung2011},
   file = {AsboeLehrmeinung2011-14.pdf:AsboeLehrmeinung2011-14.pdf:PDF},
   owner = {grissu},
@@ -88,6 +95,7 @@
 
 @STANDARD{AsboeLehrmeinung2011-18,
   title = {Lehrmeinung Nr. 18/2011: Absaugen Neugeborener im Rettungsdienst},
+  language = {ngerman},
   crossref = {AsboeLehrmeinung2011},
   file = {AsboeLehrmeinung2011-18.pdf:AsboeLehrmeinung2011-18.pdf:PDF},
   owner = {grissu},
@@ -96,6 +104,7 @@
 
 @STANDARD{AsboeLehrmeinung2011-19,
   title = {Lehrmeinung Nr. 19/2011: Abnabelung Neugeborener im Rettungsdienst},
+  language = {ngerman},
   crossref = {AsboeLehrmeinung2011},
   file = {AsboeLehrmeinung2011-19.pdf:AsboeLehrmeinung2011-19.pdf:PDF},
   owner = {grissu},
@@ -104,6 +113,7 @@
 
 @STANDARD{AsboeLehrmeinung2011-20,
   title = {Lehrmeinung Nr. 20/2011: Geburt und Dammschutz im Rettungsdienst},
+  language = {ngerman},
   crossref = {AsboeLehrmeinung2011},
   file = {AsboeLehrmeinung2011-20.pdf:AsboeLehrmeinung2011-20.pdf:PDF},
   owner = {grissu},
@@ -112,6 +122,7 @@
 
 @STANDARD{AsboeLehrmeinung2011-21,
   title = {Lehrmeinung Nr. 21/2011: Verbrennung im Rettungsdienst},
+  language = {ngerman},
   crossref = {AsboeLehrmeinung2011},
   file = {AsboeLehrmeinung2011-21.pdf:AsboeLehrmeinung2011-21.pdf:PDF},
   owner = {grissu},
@@ -121,6 +132,7 @@
 @STANDARD{AsboeLehrmeinung2011-23,
   title = {Lehrmeinung Nr. 23/2011: Allgemeine und besondere Notfallkompetenzen
 	im Rettungsdienst},
+  language = {ngerman},
   crossref = {AsboeLehrmeinung2011},
   file = {AsboeLehrmeinung2011-23.pdf:AsboeLehrmeinung2011-23.pdf:PDF},
   owner = {grissu},
@@ -131,6 +143,7 @@
   chapter = {Psychische Belastungen des Rettungspersonals},
   pages = {25--43},
   author = {Bengel, J. and Heinrichs, M.},
+  language = {ngerman},
   crossref = {BengelPsyNotfallmedRd2},
   owner = {grissu},
   timestamp = {2011.08.13}
@@ -142,6 +155,7 @@
 	response},
   pages = {37--60},
   author = {J. P. Henry},
+  language = {english},
   crossref = {PlutchikEmotionVol3},
   owner = {grissu},
   timestamp = {2011.08.13}
@@ -151,6 +165,7 @@
   chapter = {Stressbezogene Transaktion zwischen Person und Umwelt},
   pages = {213--260},
   author = {Lazarus, R. S. and Launier, R},
+  language = {ngerman},
   crossref = {NitschStress},
   owner = {grissu},
   timestamp = {2011.08.13}
@@ -160,6 +175,7 @@
   chapter = {Burnout in organizational settings},
   pages = {133--153},
   author = {Maslach, C. and Jackson, S. E.},
+  language = {english},
   crossref = {OskampAppSocPsyAnn84},
   owner = {grissu},
   timestamp = {2011.08.13}
@@ -169,6 +185,7 @@
   chapter = {Definition und Abgrenzung des Begriffs Bewältigung},
   pages = {14--24},
   author = {Trautmann-Sponsel, R. D.},
+  language = {ngerman},
   crossref = {BruederlBelastung88},
   owner = {grissu},
   timestamp = {2011.08.13}
@@ -3005,8 +3022,8 @@
 @ARTICLE{Erc2010Sec1,
   author = {Jerry P Nolan and Jasmeet Soar and David A Zideman and Dominique
 	Biarent and Leo L Bossaert and Charles Deakin and Rudolph W Koster
-	and Jonathan Wyllie and Bernd Böttiger and E. R. C. Guidelines Writing
-	Group},
+	and Jonathan Wyllie and Bernd Böttiger and {E. R. C. Guidelines Writing
+	Group}},
   title = {European Resuscitation Council Guidelines for Resuscitation 2010
 	Section 1. Executive summary.},
   journal = {Resuscitation},
@@ -4430,7 +4447,7 @@
   title = {Pseudokrupp --- Wikipedia{,} Die freie Enzyklopädie},
   year = {2010},
   note = {[Online; Stand 19. Februar 2010]},
-  language = {german},
+  language = {ngerman},
   url = {http://de.wikipedia.org/w/index.php?title=Pseudokrupp&oldid=70531371}
 }
 
@@ -5235,27 +5252,10 @@
   title = {Der Brockhaus in drei B\"anden},
   publisher = {F.A. Brockhaus},
   year = {1995},
-  editor = {Joachin Wei{\ss} 
-	
-	and Sabine-Walburga Anders
-	
-	and Ellen Astor
-	
-	and Ariana Braunbehrens
-	
-	and Ursula Butzek
-	
-	and Silke Garotti
-	
-	and Dieter Gei{\ss}
-	
-	and J\"urgen Hotz
-	
-	and Erika Retzlaff
-	
-	and Barbara Schuller
-	
-	and Marianne Strzysch},
+  editor = {Joachin Wei{\ss} and Sabine-Walburga Anders and Ellen Astor and Ariana
+	Braunbehrens and Ursula Butzek and Silke Garotti and Dieter Gei{\ss}
+	and J"urgen Hotz and Erika Retzlaff and Barbara Schuller and Marianne
+	Strzysch},
   volume = {3},
   edition = {2},
   language = {german},
@@ -5308,6 +5308,7 @@
   month = {12},
   year = {2008},
   file = {:EG-1272-2008-De.pdf:PDF},
+  language = {ngerman},
   owner = {grissu},
   timestamp = {2011.08.03},
   url = {http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:353:0001:1355:de:PDF}
@@ -5342,6 +5343,7 @@
   year = {2004},
   editor = {J. Bengel},
   edition = {2},
+  language = {ngerman},
   owner = {grissu},
   timestamp = {2011.08.13}
 }
@@ -5351,6 +5353,7 @@
   year = {2004},
   author = {Bergner, Thomas},
   edition = {9},
+  language = {ngerman},
   owner = {grissu},
   timestamp = {2011.08.13}
 }
@@ -5361,6 +5364,7 @@
   year = {1994},
   author = {Burisch, M},
   edition = {2},
+  language = {ngerman},
   owner = {grissu},
   timestamp = {2011.08.13}
 }
@@ -5371,6 +5375,7 @@
   year = {2006},
   author = {Burisch, M},
   edition = {3},
+  language = {ngerman},
   owner = {grissu},
   timestamp = {2011.08.13}
 }
@@ -5382,9 +5387,7 @@
   publisher = {PVU},
   year = {1988},
   editor = {Davison, G. C. and Neale, J. M.},
-  note = {Deutsches Institut
-	
-	für Medizinische Dokumentation und Information (2011)},
+  language = {ngerman},
   owner = {grissu},
   timestamp = {2011.08.13}
 }
@@ -5410,6 +5413,7 @@
   volume = {30},
   pages = {159--165},
   number = {1},
+  language = {english},
   owner = {grissu},
   timestamp = {2011.08.13}
 }
@@ -5420,6 +5424,7 @@
   year = {1999},
   editor = {Frieling E. and Sonntag Kh.},
   edition = {2},
+  language = {ngerman},
   owner = {grissu},
   timestamp = {2011.08.13}
 }
@@ -5440,6 +5445,7 @@
   publisher = {Huber},
   year = {1981},
   editor = {Nitsch, J. R.},
+  language = {ngerman},
   owner = {grissu},
   timestamp = {2011.08.13}
 }
@@ -5449,6 +5455,7 @@
   publisher = {Springer},
   year = {1984},
   editor = {Lazarus, R.S. and Folkman, S.},
+  language = {english},
   owner = {grissu},
   timestamp = {2011.08.13}
 }
@@ -5458,6 +5465,7 @@
   publisher = {Prentice-Hall},
   year = {1982},
   editor = {Maslach, C.},
+  language = {english},
   owner = {grissu},
   timestamp = {2011.08.13}
 }
@@ -5501,6 +5509,7 @@
   volume = {21},
   pages = {588--593},
   number = {6},
+  language = {english},
   owner = {grissu},
   timestamp = {2011.08.13}
 }
@@ -5536,6 +5545,53 @@
   language = {english},
   owner = {grissu},
   timestamp = {2011.08.13}
+}
+
+@MISC{wiki:beanspruchung,
+  author = {Wikipedia},
+  title = {Beanspruchung --- Wikipedia{,} Die freie Enzyklopädie},
+  year = {2011},
+  note = {[Online; Stand 14. August 2011]},
+  language = {ngerman},
+  owner = {grissu},
+  timestamp = {2011.08.14},
+  url = {http://de.wikipedia.org/w/index.php?title=Beanspruchung&oldid=89402783}
+}
+
+@BOOK{GantenTumorerkr98,
+  title = {Tumorerkrankungen},
+  publisher = {Springer},
+  year = {1998},
+  editor = {Detlev Ganten and Klaus Ruckpaul},
+  series = {Handbuch der molekularen Medizin},
+  language = {ngerman},
+  isbn = {3-540-62463-5},
+  owner = {grissu},
+  timestamp = {2011.08.15}
+}
+
+@BOOK{GantenMolGrund97,
+  title = {Molekular- und Zellbiologische Grundlagen},
+  publisher = {Springer},
+  year = {1997},
+  editor = {Detlev Ganten and Klaus Ruckpaul},
+  series = {Handbuch der molekularen Medizin},
+  language = {ngerman},
+  isbn = {3-540-61954-2},
+  owner = {grissu},
+  timestamp = {2011.08.15}
+}
+
+@BOOK{Uicc3,
+  title = {TNM-Atlas. Illustrierter Leitfaden zur TNM/pTNM-Klassifikation maligner
+	Tumoren},
+  publisher = {Springer},
+  year = {1993},
+  editor = {{Union Internationale Contre le Cancer}},
+  language = {german},
+  isbn = {3-540-56439-X},
+  owner = {grissu},
+  timestamp = {2011.08.15}
 }
 
 @comment{jabref-meta: selector_publisher:}
@@ -5636,6 +5692,12 @@ chsfuehrung5\;;
 Nulty2005\;Wilson1997\;;
 1 ExplicitGroup:Psychology\;0\;AntonovskySalutogenese\;BengelPsyNotfal
 lmedRd2\;BengelPsyNotfallmedRd2-PsyBelRdPers\;BergnerBurnOutAerzten9\;
-BurischBurnOut2\;BurischBurnOut3\;;
+BruederlBelastung88\;BruederlBelastung88-DefBew\;BurischBurnOut2\;Buri
+schBurnOut3\;DavisonKlinPsy1988\;Freudenberger1974\;FrielingLehrbArbei
+tspsy2\;ICD10-De-2011\;LazarusStress\;MaslachBurnout\;Niaura2002\;Nits
+chStress\;NitschStress-StressTransakt\;OskampAppSocPsyAnn84\;OskampApp
+SocPsyAnn84-BurnOrgSett\;PlutchikEmotionVol3\;PlutchikEmotionVol3-Neur
+oendocrinePatterns\;StarkeMedSozAspProbBew00\;Yerkes1908\;ZimbardoPsyc
+h6\;;
 }
 

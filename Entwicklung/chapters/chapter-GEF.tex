@@ -275,193 +275,22 @@ Gefahrenbereichen}
 % TODO : Layout-Anpassung
 \TODO{GABS}{yyyy-mm-dd}{Layout-Anpassung notwendig.}{Dieser Teil entspricht nicht dem Standard-Layout!}
 
-\Layout{47}{}{}{}{
-\begin{center}
-\begin{tabulary}{\textwidth}{LLLL}
-\toprule
-\multicolumn{2}{c}{\TabHeading{Hinweis auf Gefahr}} 
-&
-\multicolumn{2}{c}{\TabHeading{Warnzeichen}}
-\\\midrule
 
-\includegraphics[width=1.475cm,height=1.452cm]{./images/noauth/gefahr-explosion.png}
- &
-Explosionsgefährlich
- &
-\includegraphics[width=1.541cm,height=1.426cm]{./images/noauth/warnung-allgemein.png}
- &
-Allgemeine Gefahr
-\\
-\includegraphics[width=1.452cm,height=1.414cm]{./images/noauth/gefahr-giftig.png}
- &
-Giftig
- &
-\includegraphics[width=1.673cm,height=1.414cm]{./images/noauth/warnung-radioaktiv.png}
- &
-Radioaktive Stoffe, ionisierende Strahlen
-\\
-\includegraphics[width=1.497cm,height=1.611cm]{./images/noauth/gefahr-hochentzuendlich.png}
- &
-Hochentzündlich
- &
-\includegraphics[width=1.696cm,height=1.412cm]{./images/noauth/warnung-gasflaschen.png}
- &
-Gasflaschen
-\\
-\includegraphics[width=1.475cm,height=1.435cm]{./images/noauth/gefahr-reizend.png}
- &
-Reizend
- &
-\includegraphics[width=1.673cm,height=1.414cm]{./images/noauth/warnung-laser.png}
- &
-Laserstrahlen
-\\
-\includegraphics[width=1.488cm,height=1.599cm]{./images/noauth/gefahr-aetzend.png}
- &
-\"Atzend
- &
- &
-\\\hline
-\end{tabulary}
-\end{center}
-}{}{}
-
-\subsection{Transport gefährlicher Güter}
-
-Kennzeichnungspflicht besteht erst dann, wenn die transportierte Menge
-eines Stoffes die gesetzlich erlaubte Mindestmenge überschreitet.
-Diese Mindestmenge gilt für jeden einzelnen Stoff und nicht für die
-Gesamtmenge.
-
-Es können also erhebliche Mengen gefährlicher Güter ohne
-Kennzeichnung des Fahrzeuges transportiert werden. 
-
-\subsection{Gefahrzettel}
-\label{topic:gefahrzettel}
-
-Bei Stückguttransporten wird jedes Versandstück gekennzeichnet. An
-Fahrzeugen, die kein Stückgut transportieren, müssen Gefahrenzettel
-an den Längsseiten und an der Rückseite angebracht werden.
-
-\Layout{57}{}{}{}{
-\begin{tabular}{m{2.cm}m{3.5cm}m{2.cm}m{3.5cm}}
- Beispiele
- &
- &
- &
-\\
-\includegraphics[width=1.659cm,height=1.885cm]{./images/noauth/gefahrzettel-feuergefaehrlich-fluessig.png}
- &
-Feuergefährlich \par(flüssige Stoffe)
- &
-\includegraphics[width=1.856cm,height=2.096cm]{./images/noauth/gefahrzettel-selbstentzuendlich.png}
- &
-Selbstentzündlich
-\\
-\includegraphics[width=1.835cm,height=1.902cm]{./images/noauth/gefahrzettel-feuergefaehrlich-fest.png}
- &
-Feuergefährlich \par(feste Stoffe)
- &
-\includegraphics[width=1.909cm,height=2.162cm]{./images/noauth/gefahrzettel-enzuendlich-wasser.png}
- &
-Entzündbare Gase bei Berührung mit \EE{Wasser}
-\\
-\end{tabular}
-}{}{}
-
-\subsection{Gefahrentafel}
-\label{topic:warntafel}
-
-\Layout{57}{}{}{}{
-\begin{tabular}{m{3.225cm}m{3.225cm}m{3.225cm}m{3.225cm}}
-\multicolumn{2}{m{6.65cm}}{\centering Allgemeine Kennzeichnung
-(Sammeltransporte)} &
-\multicolumn{2}{m{6.65cm}}{\centering Spezielle
-Kennzeichnung} 
-\\\midrule
-\includegraphics[width=\linewidth]{./images/khd/warntafel-allgemein.png}
- &
- &
-\includegraphics[width=\linewidth]{./images/khd/warntafel-un-60-1710.png}
- &
-Gefahrnummer\par (\T{Kemler-Nummer})
-
-Stoffnummer\par (\T{UN-Nummer})
-\\\bottomrule
-\end{tabular}
-}{Kennzeichnung durch Gefahrentafel.}{}
+\begin{PictureSeries}{}{Warnzeichen}
+\PictureSeriesRow{4}
+{./images/noauth/warnung-allgemein.png}
+{Allgemeine Gefahr}
+{./images/noauth/warnung-radioaktiv.png}
+{Radioaktive Stoffe, ionisierende
+Strahlen}
+{./images/noauth/warnung-gasflaschen.png}
+{Gasflaschen}
+{./images/noauth/warnung-laser.png}
+{Gebündeltes Licht / Laser}
+\end{PictureSeries}
 
 
-\subsection{Gefahrnummer}
-\label{topic:gefahrnummer}
-
-\Layout{57}{}{}{}{
-\begin{tabular}{cp{11cm}}
-\addlinespace
- 2 & Entweichen von Gas durch Druck oder chemische Reaktion
-\\\addlinespace
- 3 & Entzündbarkeit von Flüssigkeiten (Dämpfen) und Gasen
-\\\addlinespace
- 4 & Entzündbarkeit fester Stoffe
-\\\addlinespace
- 5 & Oxidierende (brandfördernde) Wirkung
-\\\addlinespace
- 6 & Giftig
-\\\addlinespace
- 7 & Radioaktivität
-\\\addlinespace
- 8 & \"Atzwirkung
-\\\addlinespace
- 9 & Gefahr einer spontan heftigen Reaktion
-\\\addlinespace
- {\sffamily X} & Reagiert gefährlich mit Wasser
-\\\addlinespace\bottomrule
-\end{tabular}
-}{Gefahrennummer.}{}
-
-
-Die Verdopplung einer Ziffer weist auf die Zunahme der entsprechenden 
-Gefahr hin.
-
-\Cave{Ein "`{\sffamily X}"'  vor der Nummer zur Kennzeichnung der Gefahr
-bedeutet, dass der Stoff in  gefährlicher Weise \Ca{mit Wasser reagiert}!}
-
-Wenn die Gefahr eines Stoffes ausreichend von einer einzigen Ziffer 
-angegeben werden kann, wird dieser Ziffer eine Null angefügt.
-
-Folgende Ziffernkombinationen haben eine besondere Bedeutung:
-
-\Layout{57}{}{}{}{
-\begin{tabular}{cp{11cm}}
-\addlinespace
-22 & tiefgekühltes Gas
-\\\addlinespace
-X323 & entzündbarer flüssiger Stoff, der mit Wasser gefährlich reagiert, wobei entzündbare Gase entweichen
-\\\addlinespace
-X333 & selbstentzündliche Flüssigkeit, die mit Wasser gefährlich reagiert
-\\\addlinespace
-X423 & entzündbarer fester Stoff, der mit Wasser gefährlich reagiert, wobei brennbare Gase entweichen
-\\\addlinespace
-44 & entzündbarer fester Stoff, der sich bei erhöhter Temperatur in Geschmolzenem Zustand befindet
-\\\addlinespace
-539 & entzündbares organisches Peroxid
-\\\addlinespace
-90  & verschiedene gefährlich Stoffe
-\\\addlinespace\bottomrule
-\end{tabular}
-}
-{Spezielle Ziffernkombinationen bei der Gefahrennummer.}
-{}
-
-
-
-
-
-
-
-
-
-\subsection{Neue Kennzeichnung}
+\subsection{Kennzeichnung von Stoffen}
 
 \begin{WidePar}
 \FormatTable
@@ -609,6 +438,9 @@ Umwelt\-gefährlich
 
 
 
+
+\subsection{Transport gefährlicher Güter}
+
 Fahrzeuge, die \E{ab einer bestimmten Menge} Güter befördern, von
 denen eine Gefahr für Lebewesen und Umwelt ausgehen kann (Gefahrgüter),
 müssen als solche deutlich gekennzeichnet sein.
@@ -619,40 +451,49 @@ treffen zu können
 % über die internationale Beförderung gefährlicher Güter auf
 % der Straße).
 
+Besondere Vorschriften für den Straßenverkehr hinsichtlich
+Verpackung und Kennzeichnung von Gefahrgut sind im
+\T[Europäisches Übereinkommen über die Beförderung
+gefährlicher Güter auf der Straße]{Europäischen
+Übereinkommen über die Beförderung gefährlicher Güter auf
+der Straße} \citep{ADR2011} (\Lang{Abk.}
+\T{ADR}\ZFootnote{Accord européen relatif au transport
+international des marchandises Dangereuses par Route})
+geregelt.
 
+Erst wenn die Menge eines transportierten Gefahrstoffes eine
+festgelegte Mindestmenge überschreitet besteht eine
+Kennzeichnungspflicht. Die Mindestmenge gilt jedoch
+für jeden Stoff separat, und nicht für die Summe aller
+transportierten Stoffe.
+Es können also erhebliche Mengen gefährlicher Güter ohne
+Kennzeichnung des Fahrzeuges transportiert werden. 
 
+\Layout{2}{Gefahrzettel}
+{\label{topic:gefahrzettel}
 
+Bei Stückguttransporten wird jedes Versandstück
+gekennzeichnet. An Fahrzeugen, die kein Stückgut
+transportieren, müssen Gefahrenzettel an den Längsseiten und
+an der Rückseite angebracht werden.}
+{}
+{}
+{}
+{}
 
-
-
-
-GEFAHRGUT-KENNZEICHNUNG
-
-Fahrzeuge, die ab einer bestimmten Menge Güter befördern von denen eine
-Gefahr für Lebewesen und Umwelt ausgehen kann, müssen als solche
-deutlich gekennzeichnet sein.
-
-Die Kennzeichnung erfolgt insbesondere deshalb, damit bei einem Unfall
-die Hilfsmannschaften die richtigen Maßnahmen treffen können
-(Klassifizierung nach ADR - Übereinkommen über die internationale
-Beförderung gefährlicher Güter auf der Straße).
-
-~
-
-
-\bigskip
-
-
-\begin{WidePar}
+\Layout{57}{}
+{}
+{}
+{% \begin{WidePar}
 \begin{tabular}{m{0.3\linewidth}m{0.15\linewidth}m{0.3\linewidth}m{0.15\linewidth}}
 \toprule\addlinespace
-\TabHeading{Gefahrenklasse} 
-&
-\TabHeading{Symbol}
-
-(Auswahl)
-\\\addlinespace\midrule\addlinespace
-Klasse 1
+% \TabHeading{Gefahrenklasse} 
+% &
+% \TabHeading{Symbol}
+% 
+% (Auswahl)
+% \\\addlinespace\midrule\addlinespace
+\TabSub{Klasse 1}
 
 Explosive Stoffe und Gegenstände mit Explosivstoff
 
@@ -662,14 +503,14 @@ Unterklassen:\newline
 ~\newline
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_1.png}
 \\\addlinespace\midrule\addlinespace
-Klasse~2.1
+\TabSub{Klasse~2.1}
 
 Entzündbare Gase 
 &
 ~\newline
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_21.png}
 &
-Klasse~2.2
+\TabSub{Klasse~2.2}
 
 Nicht entzündbare,\newline
 nicht giftige Gase 
@@ -677,14 +518,14 @@ nicht giftige Gase
 ~\newline
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_22.png}
 \\
-Klasse~2.3
+\TabSub{Klasse~2.3}
 
 Giftige Gase 
 &
 ~\newline
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_23.png}
  \\\addlinespace\midrule\addlinespace
-Klasse~3
+\TabSub{Klasse~3}
 
 Entzündbare\newline
 flüssige Stoffe 
@@ -692,7 +533,7 @@ flüssige Stoffe
 ~\newline
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_3.png}
 \\\addlinespace\midrule\addlinespace
-Klasse~4.1
+\TabSub{Klasse~4.1}
 
 Entzündbare feste Stoffe, selbstzersetzliche Stoffe und
 desensibilisierte explosive feste Stoffe 
@@ -700,21 +541,21 @@ desensibilisierte explosive feste Stoffe
 ~\newline
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_41.png}
 &
-Klasse~4.2
+\TabSub{Klasse~4.2}
 
 Selbstentzündliche Stoffe 
 &
 ~\newline
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_42.png}
 \\
-Klasse~4.3
+\TabSub{Klasse~4.3}
 
 Stoffe, die in Berührung mit Wasser entzündliche Gase entwickeln 
 &
 ~\newline
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_43.png}
 \\\addlinespace\midrule\addlinespace
-Klasse~5.1
+\TabSub{Klasse~5.1}
 
 Entzündend\newline
 (oxidierend)\newline
@@ -722,28 +563,28 @@ wirkende Stoffe
 &
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_51.png}
 &
-Klasse~5.2
+\TabSub{Klasse~5.2}
 
 Organische Peroxide
 &
 ~\newline
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_52.png}
 \\\addlinespace\midrule\addlinespace
-Klasse~6.1
+\TabSub{Klasse~6.1}
 
 Giftige Stoffe 
 &
 ~\newline
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_61.png}
 &
-Klasse~6.2
+\TabSub{Klasse~6.2}
 
 Ansteckungs\-gefährliche Stoffe 
 &
 ~\newline
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_62.png}
 \\\addlinespace\midrule\addlinespace
-Klasse~7
+\TabSub{Klasse~7}
 
 Radioaktive Stoffe 
 &
@@ -751,13 +592,13 @@ Radioaktive Stoffe
 ~
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_7_fissile.png}
 \\\addlinespace\midrule\addlinespace
-Klasse~8
+\TabSub{Klasse~8}
 
 Ätzende Stoffe 
 &
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_8.png}
 \\\addlinespace\midrule\addlinespace
-Klasse~9
+\TabSub{Klasse~9}
 
 Verschiedene gefährliche Stoffe und Gegenstände &
 
@@ -765,103 +606,248 @@ Verschiedene gefährliche Stoffe und Gegenstände &
 \includegraphics[width=1.5cm]{./images/GEF/gefahrgut/gefahrgut_9.png}
 \\\addlinespace\midrule\addlinespace
 \end{tabular}
+% \end{WidePar}
+}
+{Gefahrenklassen und ausgewählte Symbole (Gefahrenzettel),
+nach \citep{ADR2011}} {}
 
-Quelle: ADR - Internationale Beförderung gefährlicher Güter auf der
-Straße in der ab 1. Januar 2011 geltenden Fassung
-\end{WidePar}
+% \Layout{57}{}{}{}{
+% \begin{tabular}{m{2.cm}m{3.5cm}m{2.cm}m{3.5cm}}
+%  Beispiele
+%  &
+%  &
+%  &
+% \\
+% \includegraphics[width=1.659cm,height=1.885cm]{./images/noauth/gefahrzettel-feuergefaehrlich-fluessig.png}
+%  &
+% Feuergefährlich \par(flüssige Stoffe)
+%  &
+% \includegraphics[width=1.856cm,height=2.096cm]{./images/noauth/gefahrzettel-selbstentzuendlich.png}
+%  &
+% Selbstentzündlich
+% \\
+% \includegraphics[width=1.835cm,height=1.902cm]{./images/noauth/gefahrzettel-feuergefaehrlich-fest.png}
+%  &
+% Feuergefährlich \par(feste Stoffe)
+%  &
+% \includegraphics[width=1.909cm,height=2.162cm]{./images/noauth/gefahrzettel-enzuendlich-wasser.png}
+%  &
+% Entzündbare Gase bei Berührung mit \EE{Wasser}
+% \\
+% \end{tabular}
+% }{}{}
+
+
+\Layout{2}{Gefahrentafel}
+{\label{topic:warntafel}
+Die Gefahrentafel ist eine 40\,$\times$\,30\CM* große
+orangefarbene Tafel mit schwarzem Rand, welche auf dem
+Fahrzeug angebracht ist und einen Gefahrguttransport
+kennzeichnet.
+
+An ihr kann eine \I{Gefahrnummer} (auch: \I{Kemler-Nummer})
+obere Hälfte) und eine Stoffnummer (auch: \I{UN-Nummer},
+untere Hälfte) angebracht sein
+}
+{}
+{}
+{}
+{}
+
+\Layout{57}{}{}{}{
+\begin{tabular}{m{3.225cm}m{3.225cm}m{3.225cm}m{3.225cm}}
+\toprule\addlinespace
+\multicolumn{2}{m{6.65cm}}{\centering \TabHeading{Allgemeine Kennzeichnung}
+(Sammeltransporte)} &
+\multicolumn{2}{m{6.65cm}}{\centering \TabHeading{Spezielle Kennzeichnung}} 
+\\\addlinespace\midrule\addlinespace
+\includegraphics[width=\linewidth]{./images/khd/warntafel-allgemein.png}
+ &
+ &
+\includegraphics[width=\linewidth]{./images/khd/warntafel-un-60-1710.png}
+ &
+Gefahrnummer\par (\T{Kemler-Nummer})
+
+Stoffnummer\par (\T{UN-Nummer})
+\\\addlinespace\bottomrule
+\end{tabular}
+}{Kennzeichnung durch Gefahrentafel.}{}
+
+\Layout{2}{Gefahrnummer}
+{\label{topic:gefahrnummer}
+Die Gefahrnummr gibt Aufschluss über die zu erwartenden
+Gefahren eines transportierten Stoffes und ist im oberen
+Teil der Gefahrentafel angebracht. Sie setzt sich aus
+Ziffern zusammen, welche jeweils eine spezielle Bedeutung
+haben (\FullPrettyRef{tab:gefahrennummer}). Die Verdopplung
+einer Ziffer weist auf die Zunahme der entsprechenden Gefahr
+hin. Wenn die Gefahr eines Stoffes ausreichend von einer
+einzigen Ziffer angegeben werden kann, wird dieser Ziffer
+eine Null angefügt. 
+\Cave{Ein "`{\sffamily X}"'  vor der Nummer zur Kennzeichnung der Gefahr
+bedeutet, dass der Stoff in  gefährlicher Weise \Ca{mit Wasser reagiert}!
+
+\Ca{Vorsicht: Nebel, Regen, Schnee, Löschwasser}}
+
+
+Die in
+\FullPrettyRef{tab:gefahrennummer-spezielle-ziffernkombinationen},
+aufgeführten Ziffernkombinationen haben eine besondere
+Bedeutung.
+
+}
+{}
+{}
+{}
+{}
+
+
+\Layout{47}{}{}{}{
+\begin{tabulary}{\linewidth}{cL}
+\toprule\addlinespace
+ 2 & Entweichen von Gas durch Druck oder chemische Reaktion
+\\\addlinespace
+ 3 & Entzündbarkeit von Flüssigkeiten (Dämpfen) und Gasen oder 
+selbsterhitzungsfähiger flüssige
+Stoffe (z.B. Benzin, Diesel)
+\\\addlinespace
+ 4 & Entzündbarkeit von festen Stoffen oder
+selbsterhitzungsfähiger fester Stoffen
+\\\addlinespace
+ 5 & Oxidierende (brandfördernde) Wirkung
+\\\addlinespace
+ 6 & Giftigkeit oder Ansteckungsgefahr
+\\\addlinespace
+ 7 & Radioaktivität
+\\\addlinespace
+ 8 & \"Atzwirkung
+\\\addlinespace
+ 9 & Gefahr einer spontan heftigen Reaktion
+\\\addlinespace
+0 & Keine weitere Gefahr
+\\\addlinespace
+ {\sffamily X} & Reagiert gefährlich mit Wasser
+\\\addlinespace\bottomrule
+\end{tabulary}
+}{Bedeutung der
+Ziffern der Gefahrennummer\label{tab:gefahrennummer}}{}
 
 
 
-\bigskip
+
+
+\Layout{47}{}{}{}{
+\begin{tabulary}{\linewidth}{cL}
+\toprule\addlinespace
+22 & Tiefgekühltes Gas
+\\\addlinespace
+X323 & Entzündbarer flüssiger Stoff, der mit Wasser gefährlich reagiert, wobei entzündbare Gase entweichen
+\\\addlinespace
+X333 & Selbstentzündliche Flüssigkeit, die mit Wasser gefährlich reagiert
+\\\addlinespace
+X423 & Entzündbarer fester Stoff, der mit Wasser gefährlich reagiert, wobei brennbare Gase entweichen
+\\\addlinespace
+44 & Entzündbarer fester Stoff, der sich bei erhöhter Temperatur in Geschmolzenem Zustand befindet
+\\\addlinespace
+539 & Entzündbares organisches Peroxid
+\\\addlinespace
+90  & Verschiedene gefährlich Stoffe
+\\\addlinespace\bottomrule
+\end{tabulary}
+}
+{Spezielle Ziffernkombinationen bei der
+Gefahrennummer\label{tab:gefahrennummer-spezielle-ziffernkombinationen}}
+{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  
-\includegraphics[width=1.2917in,height=0.9583in]{./images/GEF/gefahrgut/warntafel.png}
+% \includegraphics[width=1.2917in,height=0.9583in]{./images/GEF/gefahrgut/warntafel.png}
+% 
+% 
+%   
+% \includegraphics[width=1.0937in,height=0.9583in]{./images/GEF/gefahrgut/erwaermter_zustand.png}
+% Kennzeichen für Stoffe, 
+% die in erwärmten Zustand 
+% befördert werden 
+%  
+% \includegraphics[width=1.0417in,height=1.0417in]{./images/GEF/gefahrgut/gefahrgut_umwelt.png}
+% 
+% Kennzeichnung für umweltgefährdende Stoffe (Fisch + Baum)
+%  
+% \includegraphics[width=1.1043in,height=1.1043in]{./images/GEF/gefahrgut/abfall.jpg}
+% 
+% 
+% 
+% 
+
+% Die Verdoppelung einer Ziffer weist grundsätzlich auf die Zunahme der
+% Gefahr hin. Einige Doppelziffern oder Dreifachziffern~ haben eine
+% besondere Bedeutung (z.B. 26 = giftiges Gas, 263 = giftiges Gas,
+% entzündbar, 33 = leicht entzündbarer flüssiger Stoff - Flammpunkt unter
+% 23 °C, 70 = radioaktiver Stoff)
+
+\Layout{2}{Stoffnummer}
+{Die Stoffnummer ist ein Code, welcher Aufschluss über den
+transportierten Stoff gibt. Kataloge zur Entschlüsselung
+leigen i.\,d.\,R. in der Leitstelle und den Fahrzeugen der
+Feurwehr auf.
+
+}
+{}
+{}
+{}
+{}
 
 
-  
-\includegraphics[width=1.0937in,height=0.9583in]{./images/GEF/gefahrgut/erwaermter_zustand.png}
-
- 
-\includegraphics[width=1.0417in,height=1.0417in]{./images/GEF/gefahrgut/gefahrgut_umwelt.png}
-
-\includegraphics[width=1.1043in,height=1.1043in]{./images/GEF/gefahrgut/abfall.jpg}
-
-
-(Beispiel: Gefahrentafel für Benzin)\newline
-Rückstrahlende orangefarbene\newline
-Warntafel am Fahrzeug.\newline
-40~cm x 30~cm. 
-
-Kennzeichen für Stoffe,\newline
-die in erwärmten Zustand\newline
-befördert werden 
-
-Kennzeichnung für umweltgefährdende Stoffe (Fisch + Baum) 
-
-
-(rahmenloses Schild)\newline
-Kennzeichnung für\newline
-Abfallbeförderungen nach §~10 AbfVerbrG (Abfallverbringungsgesetz)
-
-
-Obere Hälfte kennzeichnet die Gefahr
-(33) - auch Kemlerzahl
-
-Gefahrnummer 2 = Entweichen von Gas durch Druck oder chemische
-Reaktion\newline
-Gefahrnummer~3 = Entzündbarkeit von flüssigen Stoffen (Dämpfen) und
-Gasen oder\newline
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ selbsterhitzungsfähiger flüssige
-Stoffe (z.B. Benzin, Diesel)\newline
-Gefahrnummer~4 = Entzündbarkeit von festen Stoffen oder
-selbsterhitzungsfähiger fester Stoffen\newline
-Gefahrnummer~5 = Oxidierende (brandfördernde) Wirkung\newline
-Gefahrnummer~6 = Giftigkeit oder Ansteckungsgefahr\newline
-Gefahrnummer~7 = Radioaktivität\newline
-Gefahrnummer~8 = Ätzwirkung\newline
-Gefahrnummer~9 = Gefahr einer spontanen heftigen Reaktion\newline
-Gefahrnummer~0 = keine weitere Gefahr
-
-Die Verdoppelung einer Ziffer weist grundsätzlich auf die Zunahme der
-Gefahr hin. Einige Doppelziffern oder Dreifachziffern~ haben eine
-besondere Bedeutung (z.B. 26 = giftiges Gas, 263 = giftiges Gas,
-entzündbar, 33 = leicht entzündbarer flüssiger Stoff - Flammpunkt unter
-23 °C, 70 = radioaktiver Stoff)
-
-Ist der Ziffer ein {\textquotedbl}X{\textquotedbl} vorangestellt, so
-reagiert das transportierte Produkt in gefährlicher Weise auf Wasser,
-Nebel, Schnee (Löscharbeiten!).
+\Layout{57}{}
+{}
+{}
+{
+\begin{tabulary}{\linewidth}{cLcL}
+\toprule\addlinespace
+0048 & Sprengkörper & 1223 & Kerosin
+\\\addlinespace
+0333 & Feuerwerkskörper & 1789 & Salzsäure
+\\\addlinespace
+1005 & Ammoniak & 1830 & Schwefelsäure
+\\\addlinespace
+1011 & Butan & 1962 & Ethylen
+\\\addlinespace
+1013 & Kohlendioxid & 1972 & Methan oder Erdgas (tiefgekühlt, flüssig)
+\\\addlinespace
+1017 & Chlor & 1977 & Stickstoff
+\\\addlinespace
+1052 & Flußsäure & 1978 & Propan
+\\\addlinespace
+1090 & Aceton & 3295 & Kohlenwasserstoff, flüssig
+\\\addlinespace
+1203 & Benzin & 3312 & Gas, tiefgekühlt, flüssig
+\\\addlinespace\bottomrule
+\end{tabulary}
+}
+{Ausgewählte Stoffnumern}
+{}
 
 
-Untere Hälfte bezeichnet den
-transportierten Stoff~ (1203)\newline
-(UN-Nummer), der von den Hilfsmannschaften aus einem Katalog zu erfahren
-ist.\newline
-Beispiele:\newline
-0048 Sprengkörper\newline
-0333 Feuerwerkskörper\newline
-1005 Ammoniak\newline
-1011 Butan\newline
-1013 Kohlendioxid\newline
-1017 Chlor\newline
-1090 Aceton\newline
-1133 Klebstoffe\newline
-1203 Benzin\newline
-1223 Kerosin\newline
-1299 Terpentinöl\newline
-1306 Holzschutzmittel, flüssig\newline
-1779 Ameisensäure\newline
-1789 Salzsäure\newline
-1830 Schwefelsäure\newline
-1962 Ethylen\newline
-1972 Methan oder Erdgas (tiefgekühlt, flüssig)\newline
-1977 Stickstoff\newline
-1978 Propan\newline
-2015 Wasserstoffperoxid\newline
-2059 Nitrocellulose, entzündbar\newline
-3295 Kohlenwasserstoff, flüssig\newline
-3312 Gas, tiefgekühlt, flüssig
+
+
+
+
 
 
 
@@ -897,83 +883,97 @@ Beispiele:\newline
 \end{itemize}
 }{}{}{}
 
-
-
-\Layout{57}{}{}{}{
-\noindent\begin{tabular}{p{3cm}p{\linewidth - 7.6cm}p{3.1cm}}
-\toprule
-\noindent\TabHeading{{\color{ubuntured}G}efahr erkennen}
- &
-\noindent Die Suche nach Warntafeln ist bei umgestürzten Fahrzeugen erschwert
- &
-~
-
-\includegraphics[width=3cm]{./images/noauth/gefahrgut-unfall.jpg}
-\\
-\noindent\TabHeading{{\color{ubuntured}A}bsperr\-maßnahmen
-durch\-führen} &
-Die Absperrung sollte großräumig  sein, genügender Platz für
-die technischen Hilfeleistungen muss einkalkuliert werden. Beachte sich
-ändernde Situationen  (Windrichtung, Niederschlag)
- &
-~
-
-\includegraphics[width=3cm]{./images/noauth/gefahrgut-absperrung.png}
-\\
-\noindent\TabHeading{{\color{ubuntured}S}pezial\-kräfte anfordern}
- &
+\begin{PictureSeriesWide}{}{GAS-Regel}
+\PictureSeriesRow{3}
+{./images/noauth/gefahrgut-unfall.jpg}
+{\TabHeading{{\color{ubuntured}G}efahr erkennen:} Die Suche
+nach Warntafeln ist bei umgestürzten Fahrzeugen erschwert
+}
+{./images/noauth/gefahrgut-absperrung.png}
+{\TabHeading{{\color{ubuntured}A}bsperr\-maßnahmen durch\-führen}
+}
+{./images/gabriel-sebastian-aass/Atemschutz_IMG_2043_00800.jpg}
+{\TabHeading{{\color{ubuntured}S}pezial\-kräfte anfordern}:
 Informationen angeben (Kemmler-Nummer, etc.)
- &
-~
-
-\includegraphics[width=3cm]{./images/gabriel-sebastian-aass/Atemschutz_IMG_2043_00800.jpg}
-\\\bottomrule
-\end{tabular}
-}{}{}
+}
+{}
+{}
+\end{PictureSeriesWide}
 
 
-\subsection{Gefahr erkennen}
-
-{\TakeNotesLarge}
 
 
-\subsection{Absperrmaßnahmen durchführen}
-\label{topic:absperrmassnahmen}
-% TODO : Layout-Anpassung
-\TODO{GABS}{yyyy-mm-dd}{Layout-Anpassung notwendig.}{Dieser Teil entspricht nicht dem Standard-Layout!}
+\Layout{2}{Gefahr erkennen}
+{Das Erkennen der Gefahr ist Grundvoraussetzung um richtig
+zu handeln. Im Idealfall wird eine Gefahr beim
+Szeneüberblick erkannt, manchmal jedoch erst während der
+Patientenversorgung.
 
-\TakeNotesLarge
+Mögliche Hinweise sind z.\,B.:
 
-\Layout{57}{}{}{}{
-\begin{tabularx}{\linewidth}[H]{XXX}
-\includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch1.jpg}
-\Captionof{figure}{\AuthNotesPicLegalOk{}{}Ein Auto brennt und alle schauen
-fasziniert zu \ldots \SourcePicture{Gabriel}} 
-&
-\includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch2.jpg}
-\Captionof{figure}{\AuthNotesPicLegalOk{}{}\ldots doch dann kommt Wind auf \ldots  
-\SourcePicture{Gabriel}} 
-&
-\includegraphics[width=\linewidth]{./images/khd/gef-wind-rauch.jpg}
-\Captionof{figure}{\AuthNotesPicLegalOk{}{}Und oh Schreck! Die Absperrung
-verliert ihren Zweck!  \SourcePicture{Gabriel}} 
-\\\bottomrule
-\end{tabularx}
+\begin{itemize}
+  \item Hinweisschilder
+  \item Kennzeichnung mittels Gefahrentafel, Gefahrnummer
+  (Kemler-Nummer), Stoffnummer (UN-Nummer), Gefahrensymbole,
+  allgemeiner Warnzeichen
+  \item \IX{Frachtbriefe}
+  \item Einsatzort 
+  \item Situation
+  \item \ldots
+\end{itemize}
+
+}{}
+{}
+{}
+{}
+
+
+\Layout{2}{Absperrmaßnahmen durchführen}
+{\label{topic:absperrmassnahmen}
+Die Absperrung sollte großräumig  sein, genügend Platz für
+die technischen Hilfeleistungen (Feuerwehr) muss
+einkalkuliert werden. Die Witterung, insbesonders
+Windrichtung und Niederschlag, muss bedacht werden. Es muss
+mit sich ändernden Situationen gerechnet werden
+(Schaulustige, Änderung der Windrichtung, Böen, \ldots).
+
+}
+{}
+{}
+{}
+{}
+
+\begin{PictureSeriesWide}{}
+{Bilderserie:
+\SlideHeading{Misslungene Absperrung}}
+\PictureSeriesRow{3}
+{./images/khd/gef-wind-rauch1.jpg}
+{Ein Auto brennt und alle schauen
+fasziniert zu \ldots \SourcePicture{Gabriel}}
+{./images/khd/gef-wind-rauch2.jpg}
+{\ldots doch dann kommt Wind auf \ldots  
+\SourcePicture{Gabriel}}
+{./images/khd/gef-wind-rauch.jpg}
+{Und oh Schreck! Die Absperrung
+verliert ihren Zweck!  \SourcePicture{Gabriel}}
+{}
+{}
+\end{PictureSeriesWide}
+
 
 \Fazit{Die Moral aus der Geschicht': Vertrau' dem lauen Klima nicht!}
-}{Bilderserie \SlideHeading{Absperrung}.}{}
-
-{\TakeNotesLarge}
 
 
-\subsection{Spezialkräfte anfordern}
-% TODO : Layout-Anpassung
-\TODO{GABS}{yyyy-mm-dd}{Layout-Anpassung notwendig.}{Dieser Teil entspricht nicht dem Standard-Layout!}
 
-
-\TakeNotesLarge
-% TODO : Neufassung
-\TODO{GABS}{yyyy-mm-dd}{Fehlender Text.}{}
+\Layout{2}{Spezialkräfte anfordern}
+{Bei Gefahrgut und -stoffen ist häufig Hilfe von
+Spezialisten gefragt. In der Regel ist hier die Fuerwehr
+zuständig, bzw. kann weitere Hilfe vermitteln.
+}
+{}
+{}
+{}
+{}
 
 \nocite{Cicero911CommissionReport}
 

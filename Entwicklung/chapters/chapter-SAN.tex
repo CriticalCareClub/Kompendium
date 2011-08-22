@@ -247,11 +247,11 @@ Größe in Charrière
 }
 {Farbcodierung: Absaugkatheter\label{tab:absaugkatheter}}{}
 
-\opt{ORGASBFLO}{\ASBFLO{Beim ASB Floridsdorf-Donaustadt werden folgende Geräte
+\opt{ORGASBFLO}{\Customized{%
+\begin{description}
+  \item[\CustAsbFlo:] Es werden folgende Geräte
 eingesetzt:
 
-\Layout{57}{}{}{}
-{%
 \begin{tabulary}{\linewidth}{LLLL}
 \TabHeading{Hersteller}
 &
@@ -296,9 +296,7 @@ Orosauger
 &
 \\\addlinespace\bottomrule
 \end{tabulary}
-}
-{ASB921: Eingesetzte Absauggeräte.}
-{}
+\end{description}
 }}%Ende opt
 
 \Layout{57}{}{}{}
@@ -517,7 +515,17 @@ Druckflaschen gelagert.
 {Die \EE{Farbe} von Gasflaschen ist
 normiert\ZFootnote{Normen zur Kennzeichnung von Gasflaschen: EN~1089-3, in der jeweiligen nationalen
 Umsetzung (z.\,B. DIN EN~1089-3, ÖNORM EN~1089-3
-(Verbindlichkeit gem. Versandbehälterverordnung~2002 (VBV~2002)), \ldots).}.
+(Verbindlichkeit gem. Versandbehälterverordnung~2002 (VBV~2002)), \ldots).
+
+Die Farbcodierung wurde in der Zeit von
+\VonBis{1998}{2006}\ZFootnote{Die Umstellung auf das neue
+Farbsystem gemäß ÖNORM EN 1089-3 musste
+bei allen anderen Gasen bis zum \E{30. Juni 2006}
+abgeschlossen sein (\S\,26 Abs.\,3 VBV 2002
+\cite{AUT-LAW-VBV2002-1}).} umgestellt. In der Übergangszeit wurden Flaschen mit der neuen Codierung mittels Aufbringung des
+Buchstabens "`\EE{\sffamily N}"' ("`neue Kennzeichnung"')
+gekennzeichnet. Dies hat \E{nichts} mit dem
+chemischen Symbol für Stickstoff (\ce{N}) zu tun!}.
 Flaschen mit Sauerstoffbefüllung werden an der
 Flaschenschulter mit einem \EE{weißem Farbring} gekennzeichnet.
 Gase für den medizinischen Gebrauch werden zusätzlich
@@ -536,16 +544,6 @@ Weiters ist auf Druckgasflaschen ein
 \Fazit{Gasflaschen mit \EE{\E{medizinischem} Sauerstoff}
 sind
 \EE{vollständig weiß}.}
-
-\Z{Die Farbcodierung wurde in der Zeit von
-\VonBis{1998}{2006}\ZFootnote{Die Umstellung auf das neue
-Farbsystem gemäß ÖNORM EN 1089-3 musste
-bei allen anderen Gasen bis zum \E{30. Juni 2006}
-abgeschlossen sein (\S\,26 Abs.\,3 VBV 2002
-\cite{AUT-LAW-VBV2002-1}).} umgestellt. In der Übergangszeit wurden Flaschen mit der neuen Codierung mittels Aufbringung des
-Buchstabens "`\EE{\sffamily N}"' ("`neue Kennzeichnung"')
-gekennzeichnet. Dies hat \E{nichts} mit dem
-chemischen Symbol für Stickstoff (\ce{N}) zu tun!} 
 
 \Commentary[Gasflaschen / Farbcodierung / Umstellung]
 {\S\,26 Abs.\,2 VBV 2002:
@@ -1006,6 +1004,8 @@ Sauerstoff und Umgebungsluft eingestellt werden.\ZFootnote{Z.\,B. Schalthebel
 
 
 \needspace{0.5\textheight}
+~
+
 \section{Beatmung}
 \label{topic:beatmung-hilfsmittel}
 \index{Beatmung}
@@ -1358,33 +1358,38 @@ welches vom Sanitäter eingestellt und verwendet werden
 kann; das zweite darf nur auf Anweisung eines Notarztes
 verwendet werden und wird für das Beatmen benötigt. 
 
-\opt{ORGASBFLO}{
-\begin{minipage}{\linewidth}
-\ASBFLO{Beim ASB Floridsdorf-Donaustadt kommen folgende Geräte
+% \opt{ORGASBFLO}{
+% \begin{minipage}{\linewidth}
+\Customized{
+\begin{description}
+\item[\CustAsbFlo] Es kommen folgende Geräte
 zum Einsatz:
-
 \begin{itemize}
   \item \EE{Notfallbeatmungsgeräte}:
   \begin{itemize}
     \item Hersteller: Fa. Weinmann, Produktfamilie:
-    \T{Medumat}: 
+    \T{Medumat}:
     \begin{inparaitem}
-\item Medumat{\texttrademark} Compact
-\item Medumat{\texttrademark} Standard
-\item Medumat{\texttrademark} Standard a
-\end{inparaitem}
+      \item Medumat{\texttrademark} Compact
+      \item Medumat{\texttrademark} Standard
+      \item Medumat{\texttrademark} Standard a
+    \end{inparaitem}
   \end{itemize}
-  \item \EE{(Intensiv-)Transportbe\-atmungs\-ge\-rät}\nocite{ThierbachInterhospitaltransfer1}: \begin{itemize}
-\item Hersteller: Fa.
-Weinmann, Produktfamilie: \T{Medumat{\texttrademark}}:
-\begin{inparaitem}
-  \item Medumat{\texttrademark} Transport
-\end{inparaitem}
+  \item \EE{(Intensiv-)Transportbe\-atmungs\-ge\-rät}\nocite{ThierbachInterhospitaltransfer1}:
+  \begin{itemize}
+    \item Hersteller: Fa.
+    Weinmann, Produktfamilie: \T{Medumat{\texttrademark}}:
+    \begin{inparaitem}
+      \item Medumat{\texttrademark} Transport
+    \end{inparaitem}
+  \end{itemize}
 \end{itemize}
-\end{itemize}
+\end{description}
 }
-\end{minipage}
-}
+
+% 
+% \end{minipage}
+% }
 
 
 
@@ -1495,15 +1500,16 @@ grundsätzlich auf der Trage transportiert werden, da ein Umlagern im Fahrzeug
 sehr umständlich und zeitraubend ist. 
 
 
-
-
+\Experimental{
 \subsubsection{Umlagern von Patienten}
 \index{Umlagern}
 \label{topic:umlagern}
 
-{\TakeNotesLarge}
+{\TakeNotesLarge}}
 
 
+
+\Experimental{
 \subsubsection{Umgang mit einem Rollstuhl}
 \index{Rollstuhl}
 \label{topic:rollstuhl}
@@ -1518,6 +1524,9 @@ sehr umständlich und zeitraubend ist.
 % 
 %     \Captionof{figure}{\AuthNotesPicLegalNotOk{GER-umlagern.png}{}\label{fig:rollstuhl-umgang}\label{fig:umlagern}Umlagern von Patienten.}
 %     \end{center}
+}
+
+
 
 
 
@@ -1656,7 +1665,8 @@ Transport über Stiegen hat der Patient immer talwärts zu blicken.
 }
 {}
 {}
-{}
+{}}
+
 
 
 \subsection{Umgang mit Krankentragen}
@@ -2058,6 +2068,9 @@ Laerdal{\texttrademark} Stifneck Select{\texttrademark} und
 Stifneck Pedi-Select{\texttrademark}}% Beschreibung
 {Ch. Pallinger}% Credits
 
+\needspace{0.5\textheight}
+~
+
 \Layout{2}{Material und Personal}{
 \begin{itemize}
     \item 2 Helfer ({\color{DefaultA}\E{hinterer} Helfer},
@@ -2164,7 +2177,15 @@ vielen Fällen eine Alternative zur Schaufeltrage
 \Captionof{figure}{Schaufeltrage}
 \end{figure}
 
+Die Schaufeltrage kann vielfältig eingesetzt werden:
 
+\begin{itemize}
+  \item Bergen und Aufschaufeln eines Patienten \dotfill
+  \FullPrettyRef{topic:schaufeltrage-aufschaufeln}
+  \item Umlagern eines Patienten \dotfill \FullPrettyRef{topic:schaufeltrage-umlagern}
+  \item Immobilisation direkt auf der Schaufeltrage (manche
+  Modelle) \dotfill \FullPrettyRef{topic:schaufeltrage-immobilisation}
+\end{itemize}
 
 \subsubsection{Aufschaufeln mittels Schaufeltrage}
 \label{topic:schaufeltrage-aufschaufeln}
@@ -2279,8 +2300,9 @@ notwendig.}
 \subsubsection{Immobilisation auf der Schaufeltrage}
 \label{topic:schaufeltrage-immobilisation}
 
-\Commentary[Schaufeltrage / Immobilisation]{Die
-Immobilisation direkt auf der Schaufeltrage ist -- entgegen
+Auf manchen Schaufeltragen kann ein Patient direkt (ohne
+Vakuummatratze) immobilisiert werden. \hfill
+\Commentary[Schaufeltrage / Immobilisation]{Die Immobilisation direkt auf der Schaufeltrage ist -- entgegen
 vieler Gerüchte -- nicht nur möglich, sondern auch von
 Herstellern, wie zum Beispiel Ferno{\texttrademark}
 ausdrücklich freigegeben (z.\,B. Ferno
@@ -2294,10 +2316,16 @@ für Schaufeltragen angeboten.
 Ein entsprechendes Instruktionsvideo kann unter
 \url{http://www.ferno.com/scoopexl/scoopexl.htm} abgerufen
 werden.  }
-
-\ASBFLO{Die Immobilisation auf der Schaufeltrage wird nicht
+\Customized{
+\begin{description}
+\item[\CustAsbFlo] Die Immobilisation auf der Schaufeltrage wird nicht
 empfohlen, da die aufnehmenden Spitäler i.\,d.\,R. nicht
-darauf vorbereitet sind (Tauschmaterial, \ldots)}
+darauf vorbereitet sind (Tauschmaterial, \ldots)
+\end{description}
+}
+
+
+
 
 \Layout{2}{Material und Personal}{
 \begin{itemize}
@@ -2348,30 +2376,32 @@ verläßlich fixiert sein!}
 
 
 \Layout{2}{\TxBeschreibung}{
-Allgemeine
-Beschreibung: \prettyref{topic:vakuummatratze-beschreibung}
-
 Die Vakuummatratze dient zur Ruhigstellung des gesamten Körpers bei Verdacht
 auf mögliche Wirbelsäulenverletzungen, Becken- oder Oberschenkelfrakturen
 (Oberschenkelhals und Schaft).
 Am Ende soll die Matratze an die Körperform der Patienten eng
 angepasst sein und somit Bewegungen effektiv verhindern.
 
-\ASBFLO{Die Immobilisation auf der Vakuummatratze ist die
+\Customized{
+\begin{description}
+\item[\CustAsbFlo] Die Immobilisation auf der Vakuummatratze ist die
 Methode der Wahl für die Wirbelsäulenimmobilisation.
 \hfill\Commentary[Vakuummatratze / Immobilisation]{Die Immobilisation auf der Vakuummatratze
 wird derzeit als Methode der Wahl empfohlen, da die Technik
 organisationsübergreifend weit verbreitet und das
 Personal entsprechend geschult ist. Aufnehmende Spitäler
 sind auf Patienten, welche auf einer Vakuummatratze
-immobilisiert wurden, gut vorbereitet. }
+immobilisiert wurden, gut vorbereitet.}
+\end{description}
+
+
 
 }}{}{}{}{}
 
 \Layout{27}{Abbildung}
 {}
 {}
-{./images/noauth/GER-vakuummatratze.png}
+{./images/pallinger-christoph-aass/Vacuummatratze_32960-AASS-0176mm}
 {Vakuummatratze}
 {}
 
@@ -2420,8 +2450,6 @@ immobilisiert wurden, gut vorbereitet. }
 \label{topic:spineboard-beschreibung}\index{Spineboard!Beschreibung|Z}
 
 \Layout{2}{\TxBeschreibung}{
-Allgemeine Beschreibung:
-\prettyref{topic:spineboard-beschreibung}
 Das Spineboard ist im Prinzip ein flaches Brett auf dem
 der Patient ähnlich dem Schaufeltrage-Vakuummatratze-Duett
 gerettet und fixiert werden kann. Es stellt somit in vielen
@@ -2433,8 +2461,20 @@ ursprünglich vor allem im anglo-amerikanischen Raum
 eingesetzt und erfährt auch hierzulande immer größere
 Verbreitung.
 
-\ASBFLO{Das Spineboard gehört derzeit nicht zur
-Standardausstattung und wird nicht routinemäßig verwendet.}
+\Customized{
+\begin{description}
+  \item[\CustAsboe] Zusätzlich zu den gebräuchlichen
+  Hilfsmitteln zur Menschenrettung und Immobilisation kann
+  ein
+  Spineboard (Wirbelsäulenbrett) zur Rettung und
+  Ganzkörperimmobilisierung traumatisierter Personen
+  alternativ verwendet werden. \cite{AsboeLehrmeinung2011-10}
+  \item[\CustAsbFlo] Das Spineboard gehört derzeit nicht zur
+  Standardausstattung und wird nicht routinemäßig verwendet.
+\end{description}
+}
+
+
 }{}{}{}{}
 
 % \ASBFLO{Das Spineboard gehört derzeit nicht zur

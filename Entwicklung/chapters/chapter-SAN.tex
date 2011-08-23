@@ -830,7 +830,9 @@ zusätzlich gegeben werde (\T{Berieselung}), aber auch bei der
 \label{topic:berieselungsmaske}
 
 Die \ce{O2}-Berieselung kann \EE{nur bei vorhandener
-Spontanatmung} durchgeführt werden!
+Spontanatmung} durchgeführt werden! Zum Einsatz kommen
+Berieselungsbrillen, Berieselungsmasken und
+Berieselungsmasken mit Reservoir.
 
 % \marginpar{\T{Sauerstoff\-brille}}
 % \marginpar{\T{Sauerstoff\-maske}}
@@ -844,6 +846,18 @@ Spontanatmung} durchgeführt werden!
 % Bei behinderter Nasenatmung kann die  Sauerstoffbrille im Mundwinkel
 % plaziert werden. 
 
+\begin{PictureSeriesWide}{}
+{Bilderserie: Mittel zur Berieselung mit Sauerstoff. \SourcePicture{Ch. Pallinger}}
+\PictureSeriesRow{3}
+{./images/pallinger-christoph-aass/Anton_32988_v2-AASS-0112mm.jpg}
+{Sauerstoffbrille}
+{./images/pallinger-christoph-aass/Anton_32987_v2-AASS-0112mm.jpg}
+{Sauerstoffmaske}
+{./images/pallinger-christoph-aass/Anton_32986_v2-AASS-0112mm.jpg}
+{Sauerstoffmaske mit Reservoir}
+{}
+{}
+\end{PictureSeriesWide}
 
 
 \begin{table}[H]
@@ -852,6 +866,7 @@ Spontanatmung} durchgeführt werden!
 \Captionof{table}{Verabreichungsarten von Sauerstoff.}
 
 \begin{tabulary}{\linewidth}[H]{CLLL}
+\toprule\addlinespace
 \TabHeading{Was}
  &
 \TabHeading{Wann}
@@ -859,7 +874,7 @@ Spontanatmung} durchgeführt werden!
 \TabHeading{Vorteile}
 &
 \TabHeading{Nachteile}
-\\\addlinespace\toprule\addlinespace 
+\\\addlinespace\midrule\addlinespace 
 \TabSub{Sauerstoff\-brille}
  &
 Spontanatmung
@@ -905,17 +920,7 @@ Reservoir muss zuerst händisch befüllt werden.
 \end{WidePar}
 \end{table}
 
-\begin{PictureSeries}{Wide}{Bilderserie: Mittel zur Verabreichung von Sauerstoff. \SourcePicture{Ch. Pallinger}}
-\PictureSeriesRow{3}
-{./images/pallinger-christoph-aass/Anton_32988_v2-AASS-0112mm.jpg}
-{Sauerstoffbrille}
-{./images/pallinger-christoph-aass/Anton_32987_v2-AASS-0112mm.jpg}
-{Sauerstoffmaske}
-{./images/pallinger-christoph-aass/Anton_32986_v2-AASS-0112mm.jpg}
-{Sauerstoffmaske mit Reservoir}
-{}
-{}
-\end{PictureSeries}
+
 
 % \begin{table}[H]
 % 
@@ -941,9 +946,9 @@ Reservoir muss zuerst händisch befüllt werden.
 \begin{enumerate}
   \item Kontraindikationen und Gegenanzeigen prüfen:
   \begin{itemize}
-    \item COPD (\prettyref{topic:copd})
+    \item COPD (\FullPrettyRef{topic:copd})
     \item Hyperventilationssyndrom, Hyperventilationstetanie
-    (\ref{topic:hyperventailationssyndrom})
+    (\FullPrettyRef{topic:hyperventailationssyndrom})
   \end{itemize}
   \item Situationsgerechte Dosierung je nach
   zugrundeliegender Erkrankung oder Symptomen
@@ -1097,6 +1102,34 @@ Larynxtuben, -masken, Combituben, \ldots}) angewendet.
 \end{itemize}
 }{}{}{}
 
+\begin{table}[H]
+\Captionof{table}{Mögliche Sauerstoffkonzentrationen bei der Beatmung.}
+\FontTableBase
+\begin{tabulary}{\linewidth}{Lc}
+%\addlinespace 
+\noindent\TabHeading{Art der Beatmung} &
+\noindent\TabHeading{\ce{O2}-Konzentration}
+\\\addlinespace\midrule
+Mund-zu-Mund Beatmung
+&
+17\PC*
+\\\addlinespace
+Beutel-Masken-Beatmung
+&
+21\PC*
+\\\addlinespace
+Beutel-Masken-Beatmung mit angeschlossenem \ce{O2} (15\LPerMin*)
+&
+\VonBis{40}{70}\PC*
+\\\addlinespace
+Beutel-Masken-Beatmung mit angeschlossenem \ce{O2} (15\LPerMin*) und
+Reservoir &
+fast 100\PC*
+\\
+\end{tabulary}
+\hrule
+\end{table}
+
 
 \subsection{Beatmungsbeutel}
 \label{topic:beatmungsbeutel}
@@ -1126,7 +1159,8 @@ andere Syysteme (Tuben) angeschlossen werden. }
 {}
 {./images/pallinger-christoph-aass/Ambubeutel_32741-AASS-0176mm.jpg}
 {Beatmungsbeutel "`Ambu{\texttrademark} Mark IV"' mit
-Reservoir, Bakterienfilter, PEEP-Ventil und Beatmungsmaske} {Ch.
+Reservoir, \ce{O2}-Verbindungsschlauch,
+Bakterienfilter, Beatmungsmaske und aufgestecktem PEEP-Ventil.} {Ch.
 Pallinger}
 
 % \Layout{22}{Bestandteile}
@@ -1193,54 +1227,38 @@ aufgesteckt werden.
 Beatmungsbeutels.}
 {}
 
-\begin{table}[H]
-\Captionof{table}{Mögliche Sauerstoffkonzentrationen bei der Beatmung.}
-\FontTableBase
-\begin{tabulary}{\linewidth}{Lc}
-%\addlinespace 
-\noindent\TabHeading{Art der Beatmung} &
-\noindent\TabHeading{\ce{O2}-Konzentration}
-\\\addlinespace\midrule
-Mund-zu-Mund Beatmung
-&
-17\PC*
-\\\addlinespace
-Beutel-Masken-Beatmung
-&
-21\PC*
-\\\addlinespace
-Beutel-Masken-Beatmung mit angeschlossenem \ce{O2} (15\LPerMin*)
-&
-\VonBis{40}{70}\PC*
-\\\addlinespace
-Beutel-Masken-Beatmung mit angeschlossenem \ce{O2} (15\LPerMin*) und
-Reservoir &
-fast 100\PC*
-\\
-\end{tabulary}
-\hrule
-\end{table}
 
 
-\Layout{57}{}{}{}{
-\begin{tabularx}{\linewidth}{XXX}
-{\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Ambubeutel_32741-AASS-0112mm.jpg}
-\Captionof{figure}{Beamtungsbeutel "`Ambu{\texttrademark} Mark
-IV"' mit Reservoir, \ce{O2}-Verbindungsschlauch,
-Bakterienfilter und aufgestecktem PEEP-Ventil.
-\SourcePicture{Ch. Pallinger}}} & {\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Beatmungsmaske_32906_v2-AASS-0112mm.jpg}
-\Captionof{figure}{Eine \E{Beatmungs}maske.
-\SourcePicture{Ch. Pallinger}}} &
-{\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Mundstuecke_32723-AASS-0112mm.jpg}
-\Captionof{figure}{Beatmungsmasken unterschiedlicher Größen:
+
+% \Layout{57}{}{}{}{
+% \begin{tabularx}{\linewidth}{XXX}
+% {\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Ambubeutel_32741-AASS-0112mm.jpg}
+% \Captionof{figure}{Beamtungsbeutel "`Ambu{\texttrademark} Mark
+% IV"' mit Reservoir, \ce{O2}-Verbindungsschlauch,
+% Bakterienfilter und aufgestecktem PEEP-Ventil.
+% \SourcePicture{Ch. Pallinger}}} & {\includegraphics[width=\linewidth]{}
+% \Captionof{figure}{}} &
+% {\includegraphics[width=\linewidth]{}
+% \Captionof{figure}{}}
+% \\\addlinespace\bottomrule
+% \end{tabularx}
+% }
+% {.}
+% {}
+
+\begin{PictureSeries}{}{Bilderserie: Beatmungsmasken}
+\PictureSeriesRow{2}
+{./images/pallinger-christoph-aass/Beatmungsmaske_32906_v2-AASS-0112mm.jpg}
+{Eine \E{Beatmungs}maske. \SourcePicture{Ch. Pallinger}}
+{./images/pallinger-christoph-aass/Mundstuecke_32723-AASS-0112mm.jpg}
+{Beatmungsmasken unterschiedlicher Größen:
 0, 2, 3/4, 5. Die Farben der Masken haben
-keine besondere Bedeutung. \SourcePicture{Ch. Pallinger}}}
-\\\addlinespace\bottomrule
-\end{tabularx}
-}
-{Bilderserie: Beatmungsbeutel und Beatmungsmasken.}
+keine besondere Bedeutung. \SourcePicture{Ch. Pallinger}}
+{empty}
 {}
-
+{empty}
+{}
+\end{PictureSeries}
 
 
 \Layout{0}{Hygienische Wiederaufbereitung}
@@ -2187,6 +2205,7 @@ Die Schaufeltrage kann vielfältig eingesetzt werden:
   Modelle) \dotfill \FullPrettyRef{topic:schaufeltrage-immobilisation}
 \end{itemize}
 
+\clearpage
 \subsubsection{Aufschaufeln mittels Schaufeltrage}
 \label{topic:schaufeltrage-aufschaufeln}
 
@@ -2252,6 +2271,8 @@ notwendig.}
 % \end{multicols}
 }{}{}{}{}
 
+
+\clearpage
 \subsubsection{Umlagern mittels Schaufeltrage}
 \label{topic:schaufeltrage-umlagern}
 
@@ -3004,14 +3025,14 @@ Bei der nicht invasiven Verabreichung wird das Medikament über eine Schleimhaut
 \end{itemize}
 }{}
 
+\clearpage
 \subsection{Aufziehen eines Medikamentes aus einer Ampulle}
 
-\Layout{2}{\TxBeschreibung}{
-Ampulle mit rotem Punkt: Sollbruchstelle, Daumen muss beim Aufbrechen
-auf dem roten Punkt sein. 
-
-Ampulle mit "`Halsring"': Ampulle kann
-nach allen Richtungen aufgebrochen werden. 
+\Layout{2}{\TxBeschreibung}{Glasmpullen lassen sich untershciedlich öffnen:
+Ampullen mit einem \EE{roten Punkt} haben eine
+\E{Sollbruchstelle}, der Daumen muss beim Aufbrechen auf dem
+roten Punkt liegen. Ampulle mit einem "`\EE{Halsring}"'
+können nach allen Richtungen aufgebrochen werden.
 
 % \marginpar{\scriptsize\H{Warum mach{\textquotesingle} ich mir wegen
 % der Verletzungsgefahr Sorgen? Ist ja nur ein kleiner
@@ -3026,15 +3047,16 @@ nach allen Richtungen aufgebrochen werden.
 % 
 % \Ca{Inakzeptabel!}}
 
-Beim Arbeiten muss besonderes Augenmerk auf eine sterile Arbeitsweise gelegt
-werden! Es kann sonst zu Infektionen kommen.
+Beim Arbeiten muss besonderes Augenmerk auf eine \EE{sterile
+Arbeitsweise} gelegt werden! Es kann sonst zu Infektionen
+kommen.
 }{}{}{}{}
 
 
 \Layout{2}{Material}{
 \begin{compactitem}
   \item Spritze
-  \item Kanüle(n)\ZFootnote{Kanüle: Hohlnadel}
+  \item Kanüle(n) (Hohlnadel)
   \item Ampulle mit Medikament
   \item Trockene Tupfer
   \item Kontamedbox
@@ -3138,6 +3160,8 @@ aufziehen \SourcePicture{Motal}}
 \end{WidePar}
 \end{figure}
 
+
+\clearpage
 \subsection{Vorbereitung einer Infusion}
 \label{topic:infusion}
 
@@ -3155,7 +3179,11 @@ aufziehen \SourcePicture{Motal}}
 }{
 % \centering\includegraphics[width=0.5\linewidth]{./images/infusion_tropfkammer.jpg}
 }
-}{}{}{}{}
+}
+{}
+{}
+{}
+{}
 
 
 \Layout{2}{Vorgehen}{%
@@ -3287,6 +3315,7 @@ orange 	& "`Rohr"		& \Z{14} 	&\Z{1,6 x 2,1} 	& \Z{42} 	& \Z{265}
 }{}{}{}{}
 
 
+
 % \begin{multicols}{2}
 \Layout{2}{Assistenz}{
 \begin{itemize}
@@ -3312,6 +3341,7 @@ orange 	& "`Rohr"		& \Z{14} 	&\Z{1,6 x 2,1} 	& \Z{42} 	& \Z{265}
 % TODO Butterfly
 
 
+\clearpage
 \subsection{Intubation: Vorbereitung und Assistenz}
 \label{topic:intubation-assistenz}
 
@@ -3368,7 +3398,7 @@ orange 	& "`Rohr"		& \Z{14} 	&\Z{1,6 x 2,1} 	& \Z{42} 	& \Z{265}
     werden, darf aber nicht herausragen.
     \item Cuff mit Silikonspray einsprühen
     \item Stethoskop: Funktion prüfen
-    \item Absaugung bereit machen:
+    \item \EE{Absaugung} bereit machen:
     \begin{enumerate}
         \item Passenden Absaugkatheter wählen
         \item Verpackung teilweise aufschälen um Anschluss freizulegen, Katheter

@@ -530,21 +530,24 @@ footskip = 7mm,
 % \DeclareRobustCommand{\SignTableSmall}{{\scalefont{0.7}\SignTable}}
 \DeclareRobustCommand{\SignTableSmall}{{\SignTable}}
 
+\DeclareRobustCommand{\SignFazit}{\noindent{\fontfamily{lmr}\selectfont ''}}
 % \DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
-\DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
-\DeclareRobustCommand{\SignFazitSmall}{\scalefont{0.7}\SignFazit}
+\DeclareRobustCommand{\SignFazitSmall}{\SignFazit}
 
 % \DeclareRobustCommand{\SignLeitsatz}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{L}}}
-\DeclareRobustCommand{\SignLeitsatz}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
-\DeclareRobustCommand{\SignLeitsatzSmall}{{\scalefont{0.7}\SignLeitsatz}}
+\DeclareRobustCommand{\SignLeitsatz}{\SignFazit}
+\DeclareRobustCommand{\SignLeitsatzSmall}{\SignFazit}
 
 % \DeclareRobustCommand{\SignFigure}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{A}}}
 % \DeclareRobustCommand{\SignFigureSmall}{{\scalefont{0.7}\SignFigure}}
 \DeclareRobustCommand{\SignFigure}{{\noindent\color{DefaultB}\BigSquare\llap{{\VarIceMountain}}}}
 \DeclareRobustCommand{\SignFigureSmall}{{\SignFigure}}
 
-\DeclareRobustCommand{\SignMassnahme}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{M}}}
-\DeclareRobustCommand{\SignMassnahmeSmall}{{\scalefont{0.7}\SignMassnahme}}
+% \DeclareRobustCommand{\SignMassnahme}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{M}}}
+% \DeclareRobustCommand{\SignMassnahmeSmall}{{\scalefont{0.7}\SignMassnahme}}
+
+\DeclareRobustCommand{\SignMassnahme}{{\noindent\color{Indigo}\dsmedical}}
+\DeclareRobustCommand{\SignMassnahmeSmall}{{\SignMassnahme}}
 
 % \DeclareRobustCommand{\SignMassnahme}{{\noindent\color{DefaultB}\BigSquare\llap{{\sffamily\scalefont{0.9}M}}}}
 % \DeclareRobustCommand{\SignMassnahmeSmall}{{\SignMassnahme}}
@@ -659,7 +662,7 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 
 % Test PLAYGROUND
 
-\newcommand{\FullRef}[1]{{\ttfamily\ref{#1} (S.\,\pageref{#1})}}
+\newcommand{\FullRef}[1]{{\ref{#1} (S.\,\pageref{#1})}}
 \newcommand{\FullPrettyRef}[1]{{\prettyref{#1}, Seite \pageref{#1}}}
 
 \newcommand{\TabItemI}[1]{\begin{inparaitem}\item #1 \end{inparaitem}}

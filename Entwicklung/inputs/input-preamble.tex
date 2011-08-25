@@ -257,9 +257,9 @@ footskip = 7mm,
 % \vfuzz=0.1pt
 % % Grenzwert für »schlechte« Zeilen, bzw. Boxen, der angibt,
 % % ab welcher Negativbewertung eine \hbox protokolliert wird.
-% \hbadness=1000
+\hbadness=9999
 % % Grenzwert, ab dem eine »schlechte« \vbox protokolliert wird.
-% \vbadness=1000 
+\vbadness=9999
 % % Definiert zusätzlichen dynamischen Leerraum, der falls er
 % % von 0 Punkten verschieden ist, beim Absatzumbruch einen
 % % dritten Versuch bewirkt, wenn bei den beiden ersten
@@ -267,7 +267,7 @@ footskip = 7mm,
 % % ist. \emergencystretch definiert dann den Leerraum, der
 % % innerhalb einer Zeile zusätzlich verteilt werden darf.
 % % \emergencystretch=20pt
-% \emergencystretch=10em
+\emergencystretch=9em
 
 % Strafpunkte (penalties)
 % 
@@ -283,9 +283,9 @@ footskip = 7mm,
 % % berechnet wird. Wird dieser Wert erhöht, so versucht das
 % % Programm, die Zeilenanzahl für einen Absatz möglichst
 % % klein zu halten.
-% \linepenalty=10
+\linepenalty=10
 % % Wird für eine einfache Trennung beim Absatzumbruch aufgerechnet.
-% \hyphenpenalty=50
+\hyphenpenalty=40
 % % Wird für einen Zeilenwechsel nach einem expliziten
 % % Trennstrich aufgerechnet.
 % \exhyphenpenalty=50
@@ -298,11 +298,11 @@ footskip = 7mm,
 % % Wird beim Seitenumbruch vergeben, falls die erste Zeile
 % % eines Absatzes allein auf der vorangehenden Seite verbleibt.
 % % Disable single lines at the start of a paragraph (Schusterjungen)
-% \clubpenalty=150
+\clubpenalty=150
 % % Wird beim Seitenumbruch aufgerechnet, falls die letzte Zeile
 % % gerade noch auf die nächste Seite umgebrochen wird.
 % % Disable single lines at the end of a paragraph (Hurenkinder)
-% \widowpenalty=150
+\widowpenalty=150
 % % Wird während des Seitenumbruchs für einen Seitenwechsel
 % % angerechnet, falls die letzte Zeile eines Absatzes gerade
 % % noch auf die nächste Seite kommt, und zwar in dem
@@ -312,16 +312,16 @@ footskip = 7mm,
 % % Wird während des Seitenumbruchs für einen Seitenwechsel
 % % angerechnet, bei dem die letzte Zeile einer Seite mit einer
 % % Trennung endet.
-% \brokenpenalty=100
+\brokenpenalty=40
 % % Für zwei aufeinanderfolgende Zeilen, wobei in beiden getrennt wird.
-% \doublehyphendemerits=10000
+\doublehyphendemerits=100
 % % Wird für die Trennung in der vorletzten Zeile eines Absatzes aufgerechnet.
-% \finalhyphendemerits=5000
+\finalhyphendemerits=40
 % % Wird beim Absatzumbruch für zwei »visuell inkompatible«
 % % Zeilen aufgerechnet. Dies sind zwei aufeinanderfolgende
 % % Zeilen, bei denen die eine mit extra viel Leerraum
 % % durchgeschossen wurde und die andere mit wenig.
-% \adjdemerits=10000
+\adjdemerits=9000
 % % Wird für das Umbrechen einer mit \displaylines
 % % entstandenen Formelfolge über eine Seitengrenze hinweg
 % % berechnet.
@@ -331,7 +331,7 @@ footskip = 7mm,
 % % \interlinepenalty auf den angegebenen Wert.
 % \interfootnotelinepenalty=100
 % % Für den Umbruch eines Absatzes über eine Seitengrenze.
-% \interlinepenalty
+\interlinepenalty=50
 % % Für einen Seitenwechsel direkt vor einer Formel im display-style.
 % \predisplaypenalty=10000
 % % Für einen Seitenwechsel direkt nach einer Formel im display-style.

@@ -196,49 +196,58 @@ $\hookleftarrow$
 \Layout{57}{}{}{}{
 \begin{tabularx}{\linewidth}{llllllX}
 \toprule\addlinespace
-\TabHeading{Maß}		& \TabHeading{Symbol}& \TabHeading{Einheit}	& \TabHeading{Zeichen}& \TabHeading{Typ}& \TabHeading{Anmerkungen, Anwendungen} & \TabHeading{}\\\addlinespace\midrule\addlinespace
-\EE{Stromfluß} 			& $I$, $i$ 	&  \EE{Ampere} 		& \MetricUnit{A} 		& SI Basis \\
-\EE{}					& $I_v$ 	& \Z{Candela} 	& \Z{\MetricUnit{cd}}  	& SI Basis \\
+\TabHeading{Maß, Messgröße}		& \TabHeading{Symbol}&
+\TabHeading{(Maß-)Einheit}	& \TabHeading{Zeichen}&
+\TabHeading{Typ}& \TabHeading{Anmerkungen, Anwendungen} & \TabHeading{}\\\addlinespace\midrule\addlinespace 
+\EE{Elektr. Stromstärke}& $I$, $i$ 	&  \EE{Ampere} 		&\MetricUnit{A} & SI Basis \\ 
+\EE{Lichtstärke}		& $I_v$ 	& \Z{Candela} 	&\Z{\MetricUnit{cd}} & SI Basis \\ 
 \EE{Temperatur} 		& $T$ 		& \EE{Kelvin} 		& \MetricUnit{K}  		& SI Basis \\
 \EE{Masse} 				& $m$ 		& \EE{Kilogramm} 	& \MetricUnit{kg} 		& SI Basis  \\
-\EE{Weg} 				& $s$		& \EE{Meter} 		& \MetricUnit{m}  		& SI Basis \\
+\EE{Weg/Strecke/Länge} 	& $s$, $\ell$& \EE{Meter} 	
+&\MetricUnit{m} & SI Basis \\ 
 \EE{Stoffmenge} 		& $n$ 		& \EE{Mol} 			& \MetricUnit{mol}  	& SI Basis \\
 \EE{Zeit} 				& $t$ 		& \EE{Sekunde} 		& \MetricUnit{s}  		& SI Basis \\\addlinespace\midrule\addlinespace
-\Z{Absorptionsdosis}	&  			& \Z{Gray} 		&  \Z{\MetricUnit{Gy}} 			& \\
+\Z{Absorptionsdosis}	& \Z{$D$} 	& \Z{Gray} 		&\Z{\MetricUnit{Gy}} 			& \\
 % \A{???}					& $I_v$ 	& \Z{Candela} 	& \Z{\MetricUnit{cd}} 			& SI 	& \\
-Dosisäquivalent			&  			& Sievert 		& \MetricUnit{Sv} 			& 	& Strahlenbelastung \\\addlinespace
-Druck 					& $p$ 		& \T{Bar} 		& \MetricUnit{bar} \\
-Druck 					& $p$		& Pascal 		& \MetricUnit{Pa} \\
+Dosisäquivalent			& $H$ 			& Sievert 		& \MetricUnit{Sv} 		& 	& Strahlenbelastung \\\addlinespace 
+Druck 					& $p$ 		& \T{Bar} 		& \MetricUnit{bar} & &Luftdruck\\ 
+Druck 					& $p$		& Pascal 		& \MetricUnit{Pa}\\ 
 Druck 					& $p$		&\T{Millimeter Quecksilbersäule} & \MetricUnit{mmHg} & & Blutdruck\\
-Druck 					& $p$		&\T{Zentimeter Wassersäule} & \MetricUnit{cm\ce{H2O}} \\\addlinespace
+Druck 					& $p$		&\T{Zentimeter Wassersäule} &
+\MetricUnit{cm\ce{H2O}} & & PEEP-Ventil \\\addlinespace
 % Elektr. Leitfähigkeit	&  			& Siemens 		& \MetricUnit{S} \\
-Elektr. Ladung			& 			& \Z{Coulomb}	&  \Z{\MetricUnit{C}}   		& \\
+Elektr. Ladung			& $q$		& \Z{Coulomb}	& \Z{\MetricUnit{C}} & \\ 
 Elektr. Spannung 		& $U$		& Volt 			& \MetricUnit{V} \\
 Elektr. Widerstand 		& $R$		& Ohm 			& \MetricUnit{$\Omega$} 		& \\\addlinespace
-Energie, Arbeit			& 			& \T{Joule}		&  \MetricUnit{J}     			& \\
-Frequenz				&  			& Hertz 		&  \MetricUnit{Hz}     			& \\
+Energie, Arbeit			& $E$, $W$	& \T{Joule}		&  \MetricUnit{J}     	
+& & Defibrillator (elektr. Energie)\\ 
+Frequenz				& $f$		& Hertz 		&  \MetricUnit{Hz}     			& \\
 % \Z{Kapazität} 			&  			& \Z{Farad} 	&  \Z{\MetricUnit{F}}    		& \\
 % \A{???}	 				&  			& \Z{Katal} 	& \Z{\MetricUnit{kat}}  		& \\
 % \Z{Indukktivität} 		&  			& \Z{Henry} 	&  \Z{\MetricUnit{H}}    		& \\
-\Z{Geschwindigtkeit}	&			& \Z{Lichtgeschwindigkeit}	& $c_0$ 				& \\\addlinespace
-Leistung 				& 			& Watt 			& \MetricUnit{W} \\\addlinespace
+\Z{Geschwindigkeit}		& $v$		& \Z{Meter pro Sekunde}&\Z{\MetricUnit{m}/\MetricUnit{s}}  	& \\ 
+Geschwindigkeit			& $v$		& Kilometer pro
+Stunde&\MetricUnit{km}/\MetricUnit{h}
+& &Fahrzeuge\\\addlinespace 
+Leistung & $P$ 			& Watt 	&\MetricUnit{W}\\\addlinespace
 % \A{???}					&  			& \Z{Lumen} 	& \Z{\MetricUnit{lm}}   		& \\
 % \A{???}					&  			& \Z{Lux} 		& \Z{\MetricUnit{lx}}   		& \\
-Magn. Feldstärke 		& 			&  Tesla 		& \MetricUnit{T} & & MRT\\\addlinespace
+Magn. Feldstärke 		& $B$		&  Tesla 		& \MetricUnit{T} & &
+MRT\\\addlinespace
 % Magn. Fluß 				&  			& \Z{Weber} 	& \Z{\MetricUnit{}} \\
-Masse					& 			& Dalton 		& \MetricUnit{Da}       		& & kolloidale Infusionslösungen \\
+Masse					& $m$		& Dalton 		& \MetricUnit{Da}       	& &kolloidale Infusionslösungen \\ 
 Masse					& $m$		& Tonne			& \MetricUnit{t}\\\addlinespace
-Schalldruck 			&  			& Dezibel		& \MetricUnit{dB}\\\addlinespace
-Stoffmenge 				& $n$ 		& Mol 			& \MetricUnit{mol} 				& 	& Stoffmenge bei Infusionszubereitung, BZ-Messung\\\addlinespace
-Temperatur 				& $T$		& Grad Celsius 	& \DegC 	& 	& \\
-Temperatur 				& $T$ 		& Kelvin 		& \MetricUnit{K} 				& 	& \\\addlinespace
-Volumen 				&			& Liter			& \MetricUnit{l}, {\Liter}\\\addlinespace
-Winkel 					&			& Grad 			& {\Deg}\\
-Winkel 					&			& Winkelminute 	& \\
-Winkel 					&			& Winkelsekunde & \\\addlinespace
+Schalldruck 			& $p$ 		& Dezibel		&\MetricUnit{dB}\\\addlinespace 
+Stoffmenge 				& $n$ 		& Mol 			& \MetricUnit{mol} 				& 	& Stoffmenge bei Infusionszubereitung, BZ-Messung\\\addlinespace 
+Temperatur 				& $T$		& Grad Celsius 	& \DegC 	& 	&\\\addlinespace 
+%Temperatur 				& $T$ 		& Kelvin 		& \MetricUnit{K} 			& 	&\\\addlinespace 
+Volumen 				& $V$   	& Liter			&\MetricUnit{l},{\Liter}\\\addlinespace 
+Winkel 					& $\alpha$	& Grad 			& {\Deg}\\
+Winkel 					& $\alpha$	& Winkelminute 	& '\\
+Winkel 					& $\alpha$	& Winkelsekunde & "\\\addlinespace
 Zeit					& $t$		& Tag 			& {\Day}\\
-Zeit					& $t$		& Stunde 			& {\Hour}\\
-Zeit					& $t$		& Minute (Zeit) 	& {\Min}\\\addlinespace\midrule\addlinespace
+Zeit					& $t$		& Stunde 		& {\Hour}\\
+Zeit					& $t$		& Minute    	&{\Min}\\\addlinespace\midrule\addlinespace 
 Dosierung				&			&					& \MgKg 					& & Bezogen auf Körpergewicht, analog {\Gramm}, \MetricUnit{\textmu\Gramm}, {\Ml}, \ldots\\
 Flussrate				&			& 					& \LPerMin 					& & entspricht Dosierung\\
 Infusionsrate			&			&					& \MgKgH 					& & bezogen auf Körpergewicht\\

@@ -435,6 +435,11 @@ Rauchentwicklung müssen beim Absichern der Unfallstelle
 berücksichtigt werden. Zum Absichern selbst werden
 Hilfsmittel, wie \EE{Warnleuchte} oder \EE{Warndreieck},
 sowie Personen, welche Handzeichen geben, eingesetzt.
+
+\bigskip
+
+\bigskip
+
 }{
 \begin{itemize}
   \item Sicherheitsabstand
@@ -795,6 +800,7 @@ Gefahrenguttransporter durch eine orange, rechteckige
 Warntafel mit schwarzem Rand
 (\prettyref{tab:gefahrentafel-ehi}).
 
+\begin{WidePar}
 \begin{table}[H]
 \Captionof{table}{In der Ausführung gibt es neben der unbeschrifteten Tafel
 eine mit zwei Ziffernkombinationen ausgestattete Form der Warntafel. Die
@@ -804,23 +810,29 @@ Beschriftung zeigt in seinem oberen Feld die Gefahrennummer
 anzugeben}.\label{tab:gefahrentafel-ehi}}
 
 \begin{tabular}{m{3.225cm}m{3.225cm}m{3.225cm}m{3.225cm}}
-\multicolumn{2}{m{6.65cm}}{\centering Allgemeine Kennzeichnung (Sammeltransporte)} 
-&
-\multicolumn{2}{m{6.65cm}}{\centering Spezielle
-Kennzeichnung} 
-\\\midrule
+\toprule\addlinespace
+\multicolumn{2}{m{6.65cm}}{\centering \TabHeading{Allgemeine Kennzeichnung}
+(Sammeltransporte)} &
+\multicolumn{2}{m{6.65cm}}{\centering \TabHeading{Spezielle Kennzeichnung}} 
+\\\addlinespace\midrule\addlinespace
 \includegraphics[width=\linewidth]{./images/khd/warntafel-allgemein.png}
  &
  &
 \includegraphics[width=\linewidth]{./images/khd/warntafel-un-60-1710.png}
  &
-Gefahrnummer\par (\T{Kemler-Nummer}\index{Nummer!Kemler-})
+Gefahrnummer\par (\T{Kemler-Nummer})
 
-Stoffnummer\par (\T{UN-Nummer}\index{Nummer!UN-})
-\\\bottomrule
-\end{tabular} 
+Stoffnummer\par (\T{UN-Nummer})
+\\\addlinespace\bottomrule
+\end{tabular}
 
 \end{table}
+\end{WidePar}
+
+
+\Layout{57}{}{}{}{
+
+}{Kennzeichnung durch Gefahrentafel.}{}
 
 
 % {
@@ -2374,7 +2386,7 @@ unterbrechen:
 % Auseinandersetzung siehe das Kapitel
 % {\quotedblbase}{\dots}{\textquotedblleft}.}
 
-\clearpage % TODO temp clearpage
+% \clearpage % TODO temp clearpage
 \Layout{0}{Anschließende Behandlung}
 {%
 Die anschließenden Behandlungen orientieren sich an den
@@ -2771,7 +2783,7 @@ kommt, da es sonst zum Gefrieren und Absterben von Gewebe kommt.
 
 
 
-
+\clearpage % TODO temp clearpage
 \subsection{Schock}
 \index{Schock!Erste-Hilfe}
 \label{topic:schock-ehi}
@@ -2794,24 +2806,26 @@ Der Schock ist eine \EE{lebensbedrohliche Kreislaufstörung}, bei der es zu eine
 \EE{Unterversorgung der lebenswichtigen Organe}, wie Hirn,
 Herz, Lunge, Leber und Nieren mit Sauerstoff kommt. 
 
-\subparagraph{Zentralisation} Der Körper hilft sich
-selbst indem er das Blut zu den lebenswichtigen Organen bringt und äußere Körpergebiete wie Arme,
-Beine und Haut weniger bis gar nicht durchblutet. 
+\begin{itemize}
+  \item \EE{Zentralisation}: Der Körper hilft sich
+  selbst indem er das Blut zu den lebenswichtigen Organen bringt und äußere Körpergebiete wie Arme,
+  Beine und Haut weniger bis gar nicht durchblutet.
+  \item \EE{Dezentralisation}: Hält
+  der Zustand länger an, bzw. ist nach wie vor zu wenig Blut vorhanden, beginnt
+  der Körper wieder zu dezentralisieren und lässt das Blut in weniger
+  wichtige Körperregionen fließen. Der dadurch entstehende Sauerstoffmangel
+  bei den lebenswichtigen Organen führt zu einer \EE{Schädigung der Organe}, die
+  in weiterer Folge zum \EE{Versagen der Organe} führt. Der Schock
+  ist daher unbehandelt in seiner finalen Wirkung tödlich!
+\end{itemize}
 
-\subparagraph{Dezentralisation} Hält
-der Zustand länger an, bzw. ist nach wie vor zu wenig Blut vorhanden, beginnt
-der Körper wieder zu dezentralisieren und lässt das Blut in weniger
-wichtige Körperregionen fließen. Der dadurch entstehende Sauerstoffmangel
-bei den lebenswichtigen Organen führt zu einer \EE{Schädigung der Organe}, die
-in weiterer Folge zum \EE{Versagen der Organe} führt. Der Schock
-ist daher unbehandelt in seiner finalen Wirkung tödlich!
 }{
 \begin{itemize}
   \item Lebensbedrohliche Kreislaufstörung
-  \item Unterversorgung lebenswichtiger Organe
-  \begin{itemize}
-    \item Hirn, Herz, Lunge, Leber, Nieren
-  \end{itemize}
+  \item Unterversorgung lebenswichtiger Organe:
+  
+  Hirn, Herz,
+  Lunge, Leber, Nieren
   \item Zentralisation
   \item Dezentralisation
   \item Schädigung der Organe, Versagen der Organe
@@ -3831,6 +3845,9 @@ Am Beginn hat der Patient \EE{Schmerzen}, Atem- und Herzfrequenz sind erhöht.
 Je weiter die Temperatur sinkt, desto \EE{teilnahmsloser}
 und \EE{müder} wird der Patient. Zu Letzt kommt es zum \EE{Absinken
 von Atem- und Herzfrequenz}. Bei einer Temperatur unter 27\,\DegC{} tritt der Tod ein.
+
+\bigskip
+
 }{
 \begin{itemize}
   \item Schmerzen
@@ -3944,36 +3961,50 @@ außen die Haut über der Bruchstelle verletzt ist. Es muss dabei nicht der Knoc
 Es gibt \E{sichere} und \E{unsichere} Kennzeichen für einen Knochenbruch. 
 
 Zu
-den \T{sicheren Kennzeichen} zählt die \EE{Fehlstellung} (abnorme Stellung,
-Verkürzung, Treppenbildung), die \EE{abnorme Beweglichkeit} und die
-\EE{Krepitation} (das hörbare und fühlbare Aneinanderreiben
-der Knochen). 
+den \T{sicheren Kennzeichen} zählt die 
+
+\begin{enumerate}
+  \item \EE{Fehlstellung} (abnorme Stellung,
+  Verkürzung, Treppenbildung)
+  \item \EE{Abnorme Beweglichkeit}
+  \item \EE{Krepitation} (das hörbare und fühlbare Aneinanderreiben
+  der Knochen)
+\end{enumerate}
+
+
 
 \T{Unsichere
 Knochenbruchzeichen}\index{Knochenbruchzeichen!Unsichere}
-sind \EE{Schmerzen}, \EE{Schwellungen},
-\EE{Bewegungseinschränkungen} und \EE{Blutergüsse}.
+sind:
 
-\bigskip
-\bigskip
-\bigskip
-\bigskip
-\bigskip
+\begin{enumerate}
+  \item \EE{Schmerzen} 
+  \item \EE{Schwellungen}
+  \item \EE{Bewegungseinschränkungen} 
+  \item \EE{Blutergüsse}
+\end{enumerate}
+
+
+% 
+% \bigskip
+% \bigskip
+% \bigskip
+% \bigskip
 }{
 \begin{itemize}
     \item Sichere Kennzeichen
-    \begin{itemize}
+    \begin{compactitem}
         \item Fehlstellung
         \item Abnorme Beweglichkeit
         \item Krepitation
-    \end{itemize}
+    \end{compactitem}
     \item Unsichere Kennzeichen
-    \begin{itemize}
+    \begin{compactitem}
         \item Schmerzen
         \item Schwellung
         \item Bewegungseinschränkung
         \item Bluterguss
-     \end{itemize}
+     \end{compactitem}
 \end{itemize}
 }{}{}{}
 
@@ -4154,8 +4185,6 @@ Schulterverband\label{fig:mitella-schulterverband}}
 {}
 {}
 \end{PictureSeriesWide}
-
-Handverbände:
 
 
 

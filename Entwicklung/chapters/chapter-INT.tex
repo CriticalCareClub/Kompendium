@@ -3,9 +3,10 @@
 
 
 
-\section{Österreichische Sanitäter-Ausbildungsverordnung}
+\section{Österreichische Sanitäter-Ausbildungsverordnung
+(SanAV)}
 
-\HeadingSub{SanAV}
+% \HeadingSub{SanAV}
 
 \subsection{Ausbildungsziele des Modul 1}
 
@@ -499,7 +500,7 @@ Sanitäter - Sanitäter-Ausbildungsverordnung - San-AV StF: BGBl. II Nr. 420/200
       \\      Wundstarrkrampf:  \dotfill \FullRef{topic:Wundstarrkrampf}
       \item      Pseudokrupp \dotfill  \FullRef{topic:laryngitis}
       \item      Epiglottitis \dotfill  \FullRef{topic:epiglottitis}
-      \item      Keuchhusten \dotfill  \FullRef{topic:}
+      \item      Keuchhusten \dotfill  \Speech{extern}
       \item      plötzlicher Kindstod \dotfill    \FullRef{topic:sids}
     \end{enumerate}
   \end{enumerate}
@@ -673,7 +674,7 @@ Sanitäter - Sanitäter-Ausbildungsverordnung - San-AV StF: BGBl. II Nr. 420/200
     \item    Überforderung, Unterforderung \dotfill  \FullRef{topic:ueberforderung-psi},
     \FullRef{topic:unterforderung-psi}
     \item    Beanspruchungsfolgen \dotfill \FullRef{topic:beanspruchungsfolgen-psi}
-    \item    Stressursachen, -entstehung und -faktoren \dotfill \FullRef{topic:stress}
+    \item    Stressursachen, -entstehung und -faktoren \dotfill \FullRef{topic:stress-ursachen}
     \item    Stressauswirkung \dotfill \FullRef{topic:stressauswirkungen-psi}
     \item    Früherkennung \dotfill \FullRef{topic:stressfrueherkennung-psi}
     \item    Grundsätze der Stressvermeidung \dotfill \FullRef{topic:stress}
@@ -843,9 +844,9 @@ EH Helmabnahme%KT
 &
 \bibentry{AsboeLehrmeinungEh2011-02} \cite{AsboeLehrmeinungEh2011-02}%bibentry,cite
 &
-%seit
+0.16.0%seit
 &
-%FullPrettyRef
+\FullPrettyRef{topic:helmabnahme}%FullPrettyRef
 \\\addlinespace
 RD Reanimation%KT
 &
@@ -863,9 +864,9 @@ EH Verbrennung%KT
 &
 \bibentry{AsboeLehrmeinungEh2011-03} \cite{AsboeLehrmeinungEh2011-03}%bibentry,cite
 &
-%seit
+0.16.0%seit
 &
-%FullPrettyRef
+\FullPrettyRef{topic:verbrennung-ehi}%FullPrettyRef
 \\\addlinespace
 RD Nitrogabe%KT
 &
@@ -873,9 +874,9 @@ RD Nitrogabe%KT
 &
 \bibentry{AsboeLehrmeinungRd2011-03} \cite{AsboeLehrmeinungRd2011-03}%bibentry,cite
 &
-%seit
+in Arbeit%seit
 &
-%FullPrettyRef
+→ NFS%FullPrettyRef
 \\\addlinespace
 RD \ce{O2} bei MCI und ROSC%KT
 &
@@ -883,9 +884,11 @@ RD \ce{O2} bei MCI und ROSC%KT
 &
 \bibentry{AsboeLehrmeinungRd2011-04} \cite{AsboeLehrmeinungRd2011-04}%bibentry,cite
 &
-%seit
+0.18.0%seit
 &
-%FullPrettyRef
+\ref{m:akutes-koronarsyndrom-beschwerdefrei},
+\ref{m:akutes-koronarsyndrom}
+%FullPrettyRef 
 \\\addlinespace
 RD Not-/ schnelle Rettung%KT
 &
@@ -893,9 +896,9 @@ RD Not-/ schnelle Rettung%KT
 &
 \bibentry{AsboeLehrmeinungRd2011-05} \cite{AsboeLehrmeinungRd2011-05}%bibentry,cite
 &
-%seit
+(0.18.0)%seit
 &
-%FullPrettyRef
+in Arbeit%FullPrettyRef
 \\\addlinespace
 RD Rautekgriff%KT
 &
@@ -915,7 +918,7 @@ Sturzhelmabnahme
 &
 0.16.0
 &
-
+\FullPrettyRef{topic:helmabnahme}
 \\\addlinespace
 RD \ce{O2} allgem.%KT
 &
@@ -935,7 +938,7 @@ Spineboard%KT
 &
  0.18.0
 &
-%FullPrettyRef
+\FullPrettyRef{topic:spineboard-beschreibung}%FullPrettyRef
 \\\addlinespace
 RD \ce{O2}-Gabe Asthma%KT
 &
@@ -963,9 +966,9 @@ RD Guedel-Tubus%KT
 &
 \bibentry{AsboeLehrmeinungRd2011-15} \cite{AsboeLehrmeinungRd2011-15}%bibentry,cite
 &
-%seit
+0.18.0%seit
 &
-%FullPrettyRef
+erwähnt%FullPrettyRef
 \\\addlinespace
 RD Larynxtubus%KT
 &
@@ -975,7 +978,7 @@ RD Larynxtubus%KT
 &
 %seit
 &
-%FullPrettyRef
+\FullPrettyRef{topic:larynxtubus}%FullPrettyRef
 \\\addlinespace
 Absaugen Neugeborener%KT
 &
@@ -993,9 +996,9 @@ Abnabelung%KT
 &
 \bibentry{AsboeLehrmeinungRd2011-19} \cite{AsboeLehrmeinungRd2011-19}%bibitem,cite
 &
-%seit
+0.18.0%seit
 &
-%FullPrettyRef
+\FullPrettyRef{m:neugeborenes}%FullPrettyRef
 \\\addlinespace
 Geburt, Dammschutz%KT
 &
@@ -1028,33 +1031,34 @@ Notfallkompetenzen%KT
 in Arbeit%seit
 &
 \ref{m:hypertensiver-notfall}%FullPrettyRef
-\\\addlinespace
-%KT
-&
-%Nr
-&
-%bibentry,cite
-&
-%seit
-&
-%FullPrettyRef
-\\\addlinespace
-%KT
-&
-%Nr
-&
-%bibentry,cite
-&
-%seit
-&
-%FullPrettyRef
+% \\\addlinespace
+% %KT
+% &
+% %Nr
+% &
+% %bibentry,cite
+% &
+% %seit
+% &
+% %FullPrettyRef
+% \\\addlinespace
+% %KT
+% &
+% %Nr
+% &
+% %bibentry,cite
+% &
+% %seit
+% &
+% %FullPrettyRef
 \\\addlinespace\bottomrule
 \end{tabulary}
 
 
 \end{WidePar}
 
-
+\Experimental{
 \subsubsection{Landesverband Wien}
 
 \subsubsection{Gruppe Floridsdorf-Donaustadt}
+}

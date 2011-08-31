@@ -160,6 +160,46 @@ toc=flat,
 {}
 }
 
+
+\newcommand{\PictureSeriesRowWide}[9]{
+\ifthenelse{\equal{#1}{2}}
+{\subfloat
+[#3]
+{\ifthenelse{\equal{#2}{empty}}{\parbox{0.32\linewidth}{~}}{\includegraphics[width=0.45\linewidth]{#2}}}
+\hfill
+\subfloat[#5]
+{\ifthenelse{\equal{#4}{empty}}{\parbox{0.32\linewidth}{~}}{\includegraphics[width=0.45\linewidth]{#4}}}
+}
+{}
+\ifthenelse{\equal{#1}{3}}
+{\subfloat
+[#3]
+{\ifthenelse{\equal{#2}{empty}}{\parbox{\ThirdNetWidth}{~}}{\includegraphics[width=\ThirdNetWidth]{#2}}}%
+\hspace{\columnsep}%
+\subfloat[#5]
+{\ifthenelse{\equal{#4}{empty}}{\parbox{\ThirdNetWidth}{~}}{\includegraphics[width=\ThirdNetWidth]{#4}}}%
+\hspace{\columnsep}%
+\subfloat[#7]
+{\ifthenelse{\equal{#6}{empty}}{\parbox{\ThirdNetWidth}{~}}{\includegraphics[width=\ThirdNetWidth]{#6}}}
+}
+{}
+\ifthenelse{\equal{#1}{4}}
+{\subfloat
+[#3]
+{\ifthenelse{\equal{#2}{empty}}{\parbox{0.24\linewidth}{~}}{\includegraphics[width=0.24\linewidth]{#2}}}
+\hfill
+\subfloat[#5]
+{\ifthenelse{\equal{#4}{empty}}{\parbox{0.24\linewidth}{~}}{\includegraphics[width=0.24\linewidth]{#4}}}
+\hfill
+\subfloat[#7]
+{\ifthenelse{\equal{#6}{empty}}{\parbox{0.24\linewidth}{~}}{\includegraphics[width=0.24\linewidth]{#6}}}
+\hfill
+\subfloat[#9]
+{\ifthenelse{\equal{#8}{empty}}{\parbox{0.24\linewidth}{~}}{\includegraphics[width=0.24\linewidth]{#8}}}
+}
+{}
+}
+
 % \usepackage{colortbl}
 % \arrayrulecolor{Beige}
 

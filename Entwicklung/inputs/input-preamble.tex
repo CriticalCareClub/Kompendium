@@ -129,45 +129,26 @@ asymmetric,
 includemp,   % incl. marginpar
 includehead, % incl. header
 includefoot, % incl. footer
-inner  = 11mm,
-outer  = 11mm,
+inner  = 30pt,
+outer  = 30pt,
 top    = 10mm,
 bottom =  8mm,
-bindingoffset=15mm,
-marginparwidth = 60mm,
+bindingoffset=45.50787pt,%0.50787+42.67912+2 → Rest=552pt 
+marginparsep=15pt,
+marginparwidth = 154pt,
+% marginparpush=0pt,
 footskip = 7mm,
 % % headheight=0.5cm,
-% % headsep=0.5cm,
-% showframe,
+% % headsep=0.5cm,	
+showframe,
 ]
 {geometry}
 
 
-% \usepackage[
-% verbose,
-% a4paper,
-% asymmetric,
-% % reversemp,
-% % includemp,
-% % tmargin=25mm,
-% % bmargin=20mm,
-% lmargin=13mm,
-% rmargin=70mm,
-% % outer  = 56mm,
-% % inner  = 56mm,
-% top    = 20mm,
-% bottom = 15mm,
-% % % hmarginratio=2:1,
-% marginparwidth = 60mm,
-% % % headheight=0.5cm,
-% % % headsep=0.5cm,
-% footskip = 5mm,
-% % includehead,
-% bindingoffset=1.5cm,
-% showframe
-% ]
-% {geometry}
-
+\setlength\columnsep{15pt}%7mm
+\setlength\columnseprule{0.4pt}
+\setlength\premulticols{10\baselineskip}
+\renewcommand{\columnseprulecolor}{\color{DefaultGrey}}
 
 
 
@@ -184,38 +165,31 @@ footskip = 7mm,
 \usepackage{boxedminipage}
 
 \usepackage{layout}
-% \usepackage{calc}
-% \usepackage[strict]{changepage}
-%\usepackage{gmeometric}
-% \eometry{verbose,
-% a4paper,
-% asymmetric,
-% % tmargin=25mm,
-% % bmargin=20mm,
-% % lmargin=56mm,
-% % rmargin=56mm,
-% % outer  = 56mm,
-% % inner  = 56mm,
-% % top    = 25mm,
-% % bottom = 20mm,
-% marginparwidth = 40mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
-% footskip = 10mm,
-% % includehead,
-% includemp,
-% bindingoffset=1.5cm
-% }
 
+\newlength{\WideParWidth}
+\setlength{\WideParWidth}{\textwidth+\marginparwidth+\marginparsep}
+
+\newlength{\ThirdGrossWidth}
+\setlength{\ThirdGrossWidth}{(\WideParWidth)/3}
+
+\newlength{\ThirdNetWidth}
+\setlength{\ThirdNetWidth}{(\WideParWidth-(\columnsep*2))/3}
 
 \newlength{\Textspalte}
-\newlength{\Randspalte}
-\newlength{\Trenner}
-\newlength{\Korrektur}
 \setlength{\Textspalte}{\textwidth}
+
+\newlength{\Randspalte}
 \setlength{\Randspalte}{\marginparwidth}
-\setlength{\Trenner}{6pt}
+
+\newlength{\Trenner}
+\setlength{\Trenner}{\marginparsep}
+
+\newlength{\Korrektur}
 \setlength{\Korrektur}{{\fboxrule} + {\fboxsep}}
+
+
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -669,10 +643,7 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 \newcommand{\TabItemII}[1]{\begin{inparaitem}\begin{inparaitem}\item#1\end{inparaitem}\end{inparaitem}}
 \newcommand{\TabItemIII}[1]{\begin{inparaitem}\begin{inparaitem}\begin{inparaitem}\item#1\end{inparaitem}\end{inparaitem}\end{inparaitem}}
 
-\setlength\columnsep{3em}
-\setlength\columnseprule{0.4pt}
-\setlength\premulticols{10\baselineskip}
-\renewcommand{\columnseprulecolor}{\color{DefaultGrey}}
+
 
 % \setkomafont{footnote}{\sffamily}
 \deffootnotemark{\textsuperscript{\sffamily\thefootnotemark}}

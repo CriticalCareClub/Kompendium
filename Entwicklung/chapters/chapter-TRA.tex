@@ -253,21 +253,30 @@ sein.
 \SymbolText
 }{}{}{}
 
-\begin{table}[b]
-\begin{WidePar}
-\Captionof{table}{Bilderserie: Unfallmechanismen}
-\begin{tabularx}{\linewidth}{XXXX}
-\includegraphics[width=\linewidth]{./images/teaser/doa.jpg}
+% \begin{table}[b]
+% \begin{WidePar}
+% \Captionof{table}{Bilderserie: Unfallmechanismen}
+% \begin{tabularx}{\linewidth}{XXXX}
+% \includegraphics[width=\linewidth]{./images/teaser/doa.jpg}
+% 
+% \Captionof{figure}{Oft der Verlierer: Der
+% Fußgänger. \SourcePicture{Hauer}}
+% &
+% &
+% &
+% \\\bottomrule
+% \end{tabularx}
+% \end{WidePar}
+% \end{table}
 
-\Captionof{figure}{Oft der Verlierer: Der
+\begin{PictureSeriesWide}{}{Bilderserie: Unfallmechanismen}
+\PictureSeriesRow{3}{./images/teaser/doa.jpg}
+{Oft der Verlierer: Der
 Fußgänger. \SourcePicture{Hauer}}
-&
-&
-&
-\\\bottomrule
-\end{tabularx}
-\end{WidePar}
-\end{table}
+{empty}{}
+{empty}{}
+{empty}{}
+\end{PictureSeriesWide}
 
 
 
@@ -1025,7 +1034,7 @@ Es gibt sichere und unsichere Frakturzeichen, vgl.
 {}
 {
 \includegraphics[width=0.4\linewidth]{./images/fraktur_fehlstellung_nativ.jpg}
-\vspace{0.2\linewidth}
+\hspace{0.2\linewidth}
 \includegraphics[width=0.4\linewidth]{./images/fraktur_fehlstellung_xray.jpg}
 }
 {Fehlstellung -- In natura und in Röntgendarstellung.}
@@ -1141,7 +1150,8 @@ hörbares \E{Schnalzen}.
   \item Ruhigstellen
   \item Hochlagern
   \item Kühlen
-  \item Ad Unfallabteilung (muss nicht sofort sein)
+  \item Transportentscheidung: Abt. f. Unfallchirurgie
+%   (muss nicht sofort sein)
 \end{itemize}
 }
 
@@ -1152,7 +1162,7 @@ hörbares \E{Schnalzen}.
 \subsection{Verrenkung (Luxation)}
 \label{topic:verrenkung}
 
-\Definition{\T{Luxation}: "`Verrenkung." Gelenkverletzung,
+\Definition{\T{Luxation}: "`Verrenkung."' Gelenkverletzung,
 bei der zwei das Gelenk bildende Knochenenden aus ihrer
 normalen Stellung zueinander verschoben werden. Dabei kommt
 es meist zu Begleitverletzungen an der Gelenkkapsel bzw. den
@@ -1939,9 +1949,6 @@ Vgl. \prettyref{m:einschaetzung-indikation-ws-immobilisation}
   eingesetzt wird ist abhängig vom Patientenzustand,
   dem Training des Teams, internen Vorschriften und
   vorhandenem Material.}
-  
-  \ASBFLO{Die Lagerung und Schienung erfolgt routinemäßig
-  mittels \EE{Vakuummatratze}.}
   \item Bei Querschnittslähmung: Kennzeichnung der
   Sensibilitätsgrenze mit Angabe der Uhrzeit
   \item Monitoring: Achte besonders auf Störungen
@@ -2985,25 +2992,25 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 \begin{center}
 \begin{tabulary}{\linewidth}[H]{CL}
 \toprule
-\TabHeading{Grad}
+\noindent\TabHeading{Grad}
 &
-\TabHeading{Symptome}
-\\\midrule
+\noindent\TabHeading{Symptome}
+\\\addlinespace\midrule\addlinespace
 1\textdegree
  &
 Rötung, Schmerz, Schwellung
-\\
+\\\addlinespace
 2\textdegree
  &
 Blasenbildung, Schmerz
-\\
+\\\addlinespace
 3\textdegree
  &
 \T{Verschorfung} (Vebrennungspanzer), Schmerzen
 abhängig von der Tiefe der Schädigung
 (Zerstörung von Nerven), Schrumpf\-ung des Gewebes durch
 Hitze\-ein\-wirkung, reicht bis zur Verkohlung 
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabulary}
 \end{center}
 }{
@@ -3068,38 +3075,35 @@ Körperoberfläche gilt eine Verbrennung als "`schwer"'; für
 % Schockbekämpfung?
 % Notarzt? wann leichte Verbennung?
 
-\MassnahmenNG{Spezielle Maßnahmen}{Verbrennung, leicht}{}
+\MassnahmenNG{Spezielle Maßnahmen}{Verbrennung, leicht}{\label{m:verbrennung-leicht}}
 {    
 \begin{itemize}
   \item Selbstschutz!
   \item Kleiderbrand löschen
   \item Vitale Bedrohung einschätzen. \TxBeiVit \TxMassVit
   \item Kleidung und Schmuck entfernen (sofern nicht  eingeschmolzen!)
-  \item Nur wenn \E{unmittelbar\footnote{Bereits zwei
+  \item Nur wenn \E{unmittelbar nach dem Unfall\footnote{Bereits zwei
   Minuten nach Verbrennungsbeginn und damit bei Eintreffen
   des Rettungsdienstes ist ein
-positiver Effekt der Kühlung nicht mehr zu erwarten. Bei
-mehreren Minuten zurückliegenden Verbrennungen ist eine
-Kühlung nicht mehr sinnvoll.
-\cite{Asanger2010,AsboeLehrmeinung2011-21}} nach dem Unfall}
-damit begonnen werden kann, für max. 10\Min* mit handwarmen
-Wasser die betroffenen Körperregionen spülen; Bei Frösteln
-des Patienten früher abzubrechen.
-  \EE{nicht unterkühlen!} 
+  positiver Effekt der Kühlung nicht mehr zu erwarten. Bei
+  mehreren Minuten zurückliegenden Verbrennungen ist eine
+  Kühlung nicht mehr sinnvoll.
+  \cite{Asanger2010,AsboeLehrmeinung2011-21}}}
+  damit begonnen werden kann, für max. 10\Min* mit handwarmen
+  Wasser die betroffenen Körperregionen spülen;
+  
+  \EE{Bei Frösteln des Patienten früher abzubrechen: Gefahr der Unterkühlung!}
   \item \EE{Abdeckung}: Sterile, nicht verklebende
   Wundauflagen; evtl. metalliserte Wundauflagen
   \cite{Helfen2008,RedelsteinerHRNS1}; locker anlegen
   % DISCUSS INHALT: Water-Jel, Stellungsnahme
   %         \item Wenn vorhanden: Water-Jel
   \item Ggfs. Schockbekämpfung
-  \item Ggfs. Notarzt-Anforderung
+  %   \item Ggfs. Notarzt-Anforderung
 \end{itemize}
-    
-    \Cave{CAVE Unterkühlung bei zu langer oder zu kalter
-    Spülung!}
 }
 
-\MassnahmenNG{Spezielle Maßnahmen}{Verbrennung, schwer}{}
+\MassnahmenNG{Spezielle Maßnahmen}{Verbrennung, schwer}{\label{m:verbrennung-schwer}}
 {%
 \begin{itemize}
   \item \TxMassVitBes
@@ -3204,11 +3208,14 @@ Beobachtung des Patienten ist daher sehr wichtig.
   \item Engmaschiges Monitoring
 \end{itemize}
 
-\ASBFLO{\Z{Notfallsanitäter geben bei einer Rauch- oder
-Reizgasinhalation ein inhalatives Kortikoid (z.\,B.
-Pulmicort{\texttrademark}) laut Algorithmus der
-Medikamentenliste 1.}}
-
+\Customized{
+\begin{description}
+  \item[\CustAsbFlo] Notfallsanitäter geben bei einer Rauch- oder
+  Reizgasinhalation ein inhalatives Kortikoid (z.\,B.
+  Pulmicort{\texttrademark}) laut Algorithmus der
+  Medikamentenliste~1.
+\end{description}
+}
 }
 
 

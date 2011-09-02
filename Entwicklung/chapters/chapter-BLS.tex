@@ -7,6 +7,8 @@ zuerst den \EE{eigenen} Puls fühlen.
 % \begin{flushright}
 \qauthor{Dickie, in: Samuel Shem: \emph{House of God.} \cite{HouseOfGodDe}}
 % \end{flushright}
+
+\includegraphics[width=4cm]{./images/wikipedia-pd/AED_Symbol}
 \end{savequote}
 \chapter
 [\CO{[BLS]} Basic Life Support]
@@ -22,20 +24,28 @@ zuerst den \EE{eigenen} Puls fühlen.
 \ChapterIntro
 {Die Kardiopulmonale Reanimation -- bestehend aus
 Herdruckmassage, Beatmung und Elektrotherapie mittels eines
-Defibrillators -- ist eine der Kernaufgaben eines Rettungs-
-oder notfallmedizinischen Dienstes. Die korrekte und
-routinierte Durchführung der Reanimation hat großen Einfluss
-auf das Überleben des Patienten bzw. seine Lebensqualität
-nach der Entlassung aus der Spitalsbehandlung.
+Defibrillators -- ist die einzig mögliche Therapie bei
+Kreislaufstillstand und damit eine der Kernaufgaben eines
+Rettungs- oder notfallmedizinischen Dienstes. Die korrekte
+und routinierte Durchführung der Reanimation hat großen
+Einfluss auf das Überleben des Patienten bzw. seine
+Lebensqualität nach der Entlassung aus der
+Spitalsbehandlung. Die Überlebensrate bis zur
+Krankenhausentlassung nach rettungsdienstlichen
+Reanimationen liegt bei ungefähr 10\PC*
+\cite{Erc2010Sek01De}. Die Reanimation ist die letzte
+Chance für den Patienten und muss daher vom medizinischen
+Fachpersonal beherrscht werden.
 
 Dieses Kapitel behandelt die Basisreanimation mittels
 eines halbautomatischen Defibrillators basierend auf den
-Richtlinien des European Resuscitation Council. 
-}{%
+aktuellen Leitlinien des European Resuscitation Council
+(ERC). Diese ERC-Leitlinien werden ca. alle fünf Jahre den
+neuesten wissenschaftlichen Erkenntnissen angepasst.}{%
 \begin{description}
-  \item[Maintainer:] --
+  \item[Maintainer:] Josef Emhofer
   \item[Autoren:] Diverse
-  \item[Reviewer:] --
+  \item[Reviewer:] Standardreviewprozess
   \item[Version:] {\DocVersion} ({\DocVersionInfo})
   \item[SHA1:] {\DocGitCommit}
 \end{description}
@@ -43,41 +53,33 @@ Richtlinien des European Resuscitation Council.
 {\TxTeilkapitelAASS}
 }
 
-\SectionUnderConstruction{}
-
-
-
-% \clearpage
-\begin{figure}[H]
-\begin{WidePar}
-\Captionof{table}{Basic Life Support mit AED.\label{tab:algorithmus-bls-aed}}
-\index{Basic Life Support}\index{BLS|see{Basic Life Support}}
-\includegraphics[width=\linewidth]{./extern/BLS_mit_AED.pdf}
-\end{WidePar}
-\end{figure}
-
-% \clearpage
-\begin{figure}[H]
-\begin{WidePar}
-\Captionof{table}{Pediatric Life Support.\label{tab:algorithmus-pls}}
-\includegraphics[width=\linewidth]{./extern/PLS.pdf}\index{Pediatric Life
-Support}\index{BLS|see{Pediatric Life Support}}
-\end{WidePar}
-\end{figure}
+%\SectionUnderConstruction{}
 
 \section{Einleitung}
 
 \Layout{0}{\TxBeschreibung}
-{Nach der Kontrolle der Vitalfunktionen, kann der
-Ersthelfer zum Ergebnis kommen, dass der Patient \EE{kein Bewusstsein} und 
-\EE{keine normale Atmung} hat, d.\,h. \EE{kein Kreislauf vorhanden} ist.
-In einer solchen Situation liegt die Notfalldiagnose
-\T{Atem-/Kreislaufstillstand} vor.\bigskip
-}{
+{Nach der Kontrolle der Vitalfunktionen kann sich
+herausstellen, dass der Patient \EE{kein Bewusstsein} und
+\EE{keine normale Atmung} hat, d.\,h. \EE{kein Kreislauf
+vorhanden} ist. In dieser Situation liegt die
+Notfalldiagnose
+\T{Atem-/Kreislaufstillstand} vor. Die einzig
+mögliche Therapie ist die (sofortige)
+\EE{Herz-Lungen-Wiederbelebung} (\EE{Reanimation}). Dabei
+versucht der Helfer den Kreislauf des Patienten \glqq{}von
+außen\grqq{} so gut wie möglich aufrecht zu
+erhalten. Dies geschieht einerseits durch Beatmung
+um dem Körper Sauerstoff zuzuführen und andererseits durch Herzdruckmassage um die
+mechanische Herztätigkeit zu übernehmen. Zusätzlich wird versucht mittels
+Elektroschocks (Defibrillation) die körpereigene elektrische
+Erregung der Herztätigkeit zu \glqq{}normalisieren\grqq{}.
+Beatmung, Herzdruckmassage und Defibrillation
+bilden die \EE{drei Säulen der Reanimation}.}{
 \begin{itemize}
   \item Kein Bewusstsein
   \item Keine normale Atmung
   \item → Kein Kreislauf
+  \item → Herz-Lungen-Wiederbelebung (Reanimation)
 \end{itemize}
 }{}{}{}
 
@@ -85,23 +87,24 @@ In einer solchen Situation liegt die Notfalldiagnose
 {Entgegen der Vorgehensweise der Rettungskette wird bei einem Atem- und
 Kreislaufstillstand grundsätzlich bereits \E{nach der Kontrolle der
 Vitalfunktionen} der \E{Notruf abgesetzt} und erst danach mit der \E{lebensrettenden
-Sofortmaßnahme} begonnen. \bigskip\bigskip
-}{
+Sofortmaßnahme} begonnen. Die genaue Vorgehensweise und die
+Techniken werden im Folgenden detailliert beschrieben.
+\bigskip }{
 \begin{itemize}
   \item Nach der Kontrolle der Vitalfunktionen Notruf absetzen.
   \item Anschließend lebensrettende Sofortmaßnahmen einleiten.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Atem- und Kreislaufstillstand}{}{
-\begin{itemize}
-  \item Herz-Lungen-Wiederbelebung (Reanimation)
-  \begin{itemize}
-    \item Herzdruckmassage
-    \item Beatmung
-  \end{itemize}
-\end{itemize}
-}
+% \MassnahmenNG{Erste-Hilfe-Maßnahmen}{Atem- und Kreislaufstillstand}{}{
+% \begin{itemize}
+%   \item Herz-Lungen-Wiederbelebung (Reanimation)
+%   \begin{itemize}
+%     \item Herzdruckmassage
+%     \item Beatmung
+%   \end{itemize}
+% \end{itemize}
+% }
 
 % \Layout{0}{Lebensrettende Sofortmaßnahme
 % }{
@@ -125,191 +128,313 @@ Sofortmaßnahme} begonnen. \bigskip\bigskip
 
 \section{Säulen der Reanimation}
 
+
+
+\Layout{0}{3 Säulen der Reanimation}
+{Die Maßnahmen der (Basis-)Reanimation setzen sich im
+Wesentlichen aus drei Säulen zusammen:
+\begin{enumerate}
+  \item Herzdruckmassage (HDM)
+  \item Beatmung
+  \item Elektrotherapie (Defibrillation)
+\end{enumerate} }{
+\begin{itemize}
+  \item Herzdruckmassage
+  \item Beatmung
+  \item Defibrillation
+\end{itemize}
+}{}{}{}
+
 \subsection{Herzdruckmassage}
 \index{Herzdruckmassage}
 
-Die Herzdruckmassage bewirkt mittels Kompression des Herzens
-zwischen Wirbelsäule und Brustbein ein künstliches Fließgeschehen
-(Zirkulation) des Blutes.
+Bei der Herzdruckmassage (HDM) wird das Herz von außen durch
+den Helfer komprimiert. Dadurch wird ein künstliches
+Fließgeschehen (Zirkulation) des Blutes erzeugt.
+
+% Die Herzdruckmassage bewirkt mittels Kompression des Herzens
+% zwischen Wirbelsäule und Brustbein ein künstliches Fließgeschehen
+% (Zirkulation) des Blutes.
 
 \Layout{0}{Technik}
-{
+{Das Beherrschen der richtigen Technik hat wesentlichen
+Einfluss auf das Überleben des Patienten. Sie ist daher
+ausführlich beschrieben und muss ausreichend und regelmäßig
+trainiert werden. Die folgende Beschreibung orientiert sich
+an den Empfehlungen des European Resuscitation Council
+(ERC).
+
 \EE{Position und Druckpunkt} Der Patient muss auf einem
 harten Untergrund liegen. Ggfs. ist der Patient aus einem Bett
 o.\,ä. auf den Boden zu bringen. Der Helfer kniet
 dann seitlich neben dem Körper des Patienten und sucht
 den richtigen \E{Druckpunkt} für die Herzdruckmassage
-auf. Dieser liegt in der \EE{Mitte des Brustkorbes}.
+auf. Dieser liegt in der \E{Mitte des Brustkorbes}, d.\,h.
+in der unteren Hälfte des Brustbeins. Dort wird der
+Handballen einer Hand aufgelegt. Hebt der Helfer die Hand
+(unabsichtlich) vom Körper des Patienten ab, so muss der
+Druckpunkt neu aufgesucht werden, bevor die nächste
+Herzmassage anschließt.
 
 \EE{Arm- und Körperhaltung} Die richtige
-Arm- und Körperhaltung ist wichtig, um mit wenig Kraftaufwand eine
-hervorragende Leistung zu erzielen. Die \E{Finger
-sollten verschränkt sein}, nur der \E{Handballen liegt am Brustbein auf}.
-Die \E{Arme bleiben gestreckt}, und die \E{Schultern liegen genau über
-den Druckpunkt}. Nun wird mit dem Gewicht des Oberkörpers Druck auf das Brustbein ausgeübt.
+Arm- und Körperhaltung ist wichtig, um mit wenig
+Kraftaufwand die bestmögliche Leistung zu erzielen. Nachdem
+der \E{Handballen} einer Hand \E{auf den Druckpunkt}
+gelegt wurde, wird der Handballen der zweiten Hand direkt
+darüber gelegt. Die \E{Finger werden
+ineinander verschränkt}. Nun werden die \E{Arme
+durchgestreckt} und der Oberkörper solange nach vorne
+gebeugt bis sich die \E{Schultern genau über dem
+Druckpunkt} befinden. Dadurch wird der Druck direkt auf das
+darunter liegende Brustbein und nicht seitlich auf die
+Rippen ausgeübt. Für die \E{Kompression} des Herzens drückt
+man mit Hilfe des eigenen Gewichts direkt nach unten. Das
+Herz wird so zwischen Brustbein und Wirbelsäule zusammen
+gedrückt und Blut wird in die Aterien ausgeworfen.
 
-\EE{Druckerzeugung} Die
-Druckerzeugung hat \E{kräftig, aber nicht ruckartig} zu
-erfolgen. Die \E{Eindrücktiefe} beträgt \E{\nicefrac{1}{3} des
-Brustkorbes}.
+\EE{Druckerzeugung und Druckentlastung} Der \E{Druck} wird
+-- wie bereits erwähnt -- \E{direkt nach unten} ausgeübt. Der
+Druck hat \E{kräftig, aber nicht ruckartig} zu erfolgen. Die
+\E{Eindrücktiefe} beträgt \E{\VonBis{5}{6}\CM*}. Beim
+durchschnittlichen Erwachsenen ist das ungefähr \nicefrac{1}{3} des
+Brustkorbes. Der \E{Brustkorb} muss sich nach der
+Kompression wieder \E{vollständig entlasten} können damit
+das Herz wieder mit Blut befüllt wird. Während der Entspannungsphase darf
+der Helfer daher nicht auf dem Brustkorb des Patienten
+lehnen. Die \E{Druck- und
+Entlastungsphasen} dauern beide \E{gleich lange} \cite{Erc2010Sec2}.
 
-\EE{Druckentlastung} Der Brustkorb muss sich wieder ganz
-ausdehnen können. Es darf daher \E{kein Restdruck} bestehen. Die Druck-
-und Entlastungsphasen dauern beide gleich lange.
+% \EE{Druckentlastung} Der Brustkorb muss sich wieder ganz
+% ausdehnen können. Es darf daher \E{kein Restdruck} bestehen. Die Druck-
+% und Entlastungsphasen dauern beide gleich lange.
 
-\EE{Arbeitsgeschwindigkeit} Die Arbeitsgeschwindigkeit der
-Herzdruckmassage beträgt \E{100 Massagen pro Minute}.
+\EE{Druckfrequenz} Die Druckfrequenz
+(\glqq{}Arbeitsgeschwindigkeit\grqq{}) der Herzdruckmassage
+beträgt \E{mindestens 100 Massagen pro Minute} (aber nicht mehr als
+120 Massagen pro Minute).
 
 }{
 \begin{itemize}
   \item Druckpunkt: \E{Mitte} des Brustkorbes
   \item Arm- und Körperhaltung
   \begin{itemize}
-    \item Finger verschränkt,
     \item Handballen am Brustbein,
-    \item Arme bleiben gestreckt,
+    \item Finger verschränkt,
+    \item Arme durchgestreckt,
     \item Schultern genau über den Druckpunkt.
   \end{itemize}
-  \item Druckerzeugung
+  \item Druckerzeugung und Druckentlastung
   \begin{itemize}
     \item kräftig aber nicht ruckartig
-    \item Eindrucktiefe: \nicefrac{1}{3} des Brustkorbes
+    \item Eindrucktiefe: 5-6\CM*
+    \item vollständige Entlastung
   \end{itemize}
-  \item Druckentlastung
-  \item 100\PerMin*
+  \item Druckfrequenz: mind. 100\PerMin*
 \end{itemize}
 }{}{}{}
 
-\Layout{2}{Herzdruckmassage: sooft wie möglich!}{%
-Die HDM muss so rasch beginnend und so unterbrechungsfrei wie
-möglich sein.
-
-Nach Abgabe des Schocks muss die Herzdruckmassage sofort
-weitergeführt werden! Auch wenn die Defibrillation
+\Layout{2}{HDM: sooft wie möglich!}{%
+Die Herzdruckmassage muss so rasch wie möglich beginnen und
+so unterbrechungsfrei wie möglich durchgeführt werden.
+Nach Abgabe des Schocks muss die Herzdruckmassage
+sofort weitergeführt werden! Auch wenn die Defibrillation
 erfolgreich war, d.\,h. ein ordnungsgemäßer Herzrhythmus
 wiederhergestellt wurde, kann es einige Zeit dauern, bis
 wieder ein ausreichender Kreislauf einsetzt
 \cite{Sandroni2008,Skhirtladze2010}.
 
 \Fazit{Die Unterbrechung der HDM durch den AED/Defibrillator
-soll insgesamt nicht mehr als \E{5\Sek*} betragen!}
+soll lt. ERC insgesamt nicht mehr als \E{5\Sek*} betragen!}
 }{}{}{}{}
 
-\Layout{2}{Qualität der Herzdruckmassage}{% 
-Die richtige Durchführung der Herzdruckmassage hat
-wesentlichen Einfluss auf das Behandlungsergebnis bzw. das
-Überleben.
-
-Die \EE{Kompressionsrate} muss mindestens \EE{100\PerMin*}
-betragen. Die \EE{Drucktiefe} soll (beim Erwachsenen)
-\EE{mindestens 5\CM* und maximal 6\CM*} betragen. Damit sich
-das Herz mit Blut füllen kann ist eine komplette
-\EE{Entlastung} wichtig: Während der Entspannungsphase darf
-der Helfer nicht auf dem Brustkorb des Patienten lehnen.
-\cite[p.1283]{Erc2010Sec2}
-}{}{}{}{}
+% \Layout{2}{Qualität der Herzdruckmassage}{% 
+% Die richtige Durchführung der Herzdruckmassage hat
+% wesentlichen Einfluss auf das Behandlungsergebnis bzw. das
+% Überleben.
+% 
+% Die \EE{Kompressionsrate} muss mindestens \EE{100\PerMin*}
+% betragen. Die \EE{Drucktiefe} soll (beim Erwachsenen)
+% \EE{mindestens 5\CM* und maximal 6\CM*} betragen. Damit sich
+% das Herz mit Blut füllen kann ist eine komplette
+% \EE{Entlastung} wichtig: Während der Entspannungsphase darf
+% der Helfer nicht auf dem Brustkorb des Patienten lehnen.
+% \cite[p.1283]{Erc2010Sec2}
+% }{}{}{}{}
 
 \Layout{0}{Mögliche Fehlerquellen}
-{Das Schlimmste, das der Ersthelfer falsch machen kann, ist
- nichts zu tun. Wenn reanimiert wird, kann es zu dem
- einen oder anderen Fehler kommen. Der Patient muss auf
- einer festen Unterlage gelagert werden, ein Bett ist
- \EE{keine feste Unterlage}! Es darf nicht vergessen werden, den Patienten auf den Boden oder eine andere harte Unterlage zu
- legen.
+{
+% Das Schlimmste, das der Ersthelfer falsch machen kann, ist
+%  nichts zu tun. Wenn reanimiert wird, kann es zu dem
+%  einen oder anderen Fehler kommen. Der Patient muss auf
+%  einer festen Unterlage gelagert werden, ein Bett ist
+%  \EE{keine feste Unterlage}! Es darf nicht vergessen werden, den Patienten auf den Boden oder eine andere harte Unterlage zu
+%  legen.
+Der größt mögliche Fehler den ein potenzieller Helfer machen
+kann, ist \EE{nichts} zu \EE{tun}. Die professionelle
+Reanimation kann die letzte Chance des Patienten sein und darf daher
+nur unterblieben werden, wenn der Selbstschutz nicht
+gewahrt werden kann.
 
-Grundsätzlich
-kann es auch zu \EE{Verletzungen durch den Ersthelfer} kommen. Dazu zählt der
-Bruch des Brustbeines durch einen zu festen Druck, Lungen- oder Herzquetschung
+Oft wird vergessen, dass der Patient auf einer festen
+Unterlage liegen muss. Dies kann insbesondere dann
+passieren, wenn der Patient im Bett liegend vorgefunden
+wird. Das Bett ist \EE{keine feste Unterlage}.
+
+Während der Herzdruckmassage
+kann es auch zu \EE{Verletzungen durch den Helfer} kommen.
+Dazu zählt der Bruch des Brustbeines durch zu festen Druck, Lungen- oder Herzquetschung
 durch Abweichung des Druckpunktes, Rippenbrüche durch Abweichen des
-Druckpunktes oder nicht senkrecht ausgeführten Druck, Organquetschung bzw.
--einreißung durch einen zu tiefen Druckpunkt.  
+Druckpunktes oder seitlich ausgeübten Druck oder
+Organquetschung bzw. -einreißung durch einen zu tiefen Druckpunkt.  
 
 Ein zu ruckartiger Druck führt zu einer zu kurzen Kompression des Herzens, was
-wiederum eine verkürzte Auswurfphase bedeutet. Dies alles führt zu einer
+wiederum eine verkürzte Auswurfphase bedeutet. Dies führt zu einer
 \EE{ungenügenden Zirkulation} des Blutkreislaufs. 
 
-\Cave{Wird einmal falsch Druck ausgeübt, oder eine Rippe gebrochen, nicht 
+\Cave{Wird einmal falsch Druck ausgeübt oder eine Rippe gebrochen, nicht 
  aufhören, sondern den
-richtigen Druckpunkt erneut aufsuchen und weiter machen. 
+richtigen Druckpunkt erneut aufsuchen und Herzdruckmassage
+fortsetzen.
 
 Gebrochene Rippen und
 gequetschte Organe können wieder repariert werden. Das Herz, das nicht mehr
-schlägt, benötigt unsere Hilfe!}
+schlägt benötigt unsere Hilfe!}
 }{
 \begin{itemize}
+  \item nichts tun
   \item keine feste Unterlage
-  \item Verletzungen durch den Ersthelfer
-  \item ungenügende Zirkulation
+  \item Verletzungen durch falschen Druckpunkt oder falsche
+  Druckrichtung
+  \item ungenügende Zirkulation durch zu ruckartigen Druck
 \end{itemize}
 }{}{}{}
 
 \subsection{Beatmung}
 \index{Beatmung!BLS}
 
-\Layout{0}{Arten}
-{Die bekannteste Methode zur Beatmung durch den Ersthelfer ist die
-\T{Mund--zu--Mund--Beatmung}. Dabei wird bei überstrecktem Kopf mit der stirnseitigen Hand die Nase des Patienten zugedrückt. Anschließend mit dem eigenen Mund den des Patienten umschließen und
-dabei die Lippen luftdicht an den Patienten drücken. Nun
-wird die eigene Ausatemluft in den Patient eingeblasen. Vor der nächsten Atemspende
-muss der Mund wieder abgesetzt werden, um selbst frische Luft einatmen zu
-können. 
+Durch die Beatmung wird dem Körper Sauerstoff zugeführt und
+Kohlendioxid abgeführt. Dadurch kann ein minimaler
+Sauerstoffaustausch künstlich aufrecht erhalten werden.
 
-Die zweite Möglichkeit ist die \T{Mund--zu--Nase--Beatmung}. Hier wird bei überstrecktem Kopf mit der kinnseitigen Hand der Mund des Patienten
-zugehalten. Anschließend mit dem eigenem Mund die Nase des Patienten umschließen und die Lippen luftdicht an den Patienten drücken. Nun wird die eigene
-Ausatemluft in den Patienten eingeblasen. Vor der nächsten Atemspende
-muss der Mund wieder abgesetzt werden, um selbst frische Luft einatmen zu
-können. 
-
-Bei Säuglingen und Kleinkindern wäre noch die
-\T{Mund--zu--Mund/Nasen-Beatmung} möglich. In diesem
-besonderen Fall wird der Mund und die Nase des Patient mit dem eigenem Mund umschlossen.
-}{
+\Layout{0}{Arten und Hilfsmittel}{
+% Die bekannteste Methode zur Beatmung durch den Ersthelfer ist die
+% \T{Mund--zu--Mund--Beatmung}. Dabei wird bei überstrecktem Kopf mit der stirnseitigen Hand die Nase des Patienten zugedrückt. Anschließend mit dem eigenen Mund den des Patienten umschließen und
+% dabei die Lippen luftdicht an den Patienten drücken. Nun
+% wird die eigene Ausatemluft in den Patient eingeblasen. Vor der nächsten Atemspende
+% muss der Mund wieder abgesetzt werden, um selbst frische Luft einatmen zu
+% können. 
+% 
+% Die zweite Möglichkeit ist die \T{Mund--zu--Nase--Beatmung}. Hier wird bei überstrecktem Kopf mit der kinnseitigen Hand der Mund des Patienten
+% zugehalten. Anschließend mit dem eigenem Mund die Nase des Patienten umschließen und die Lippen luftdicht an den Patienten drücken. Nun wird die eigene
+% Ausatemluft in den Patienten eingeblasen. Vor der nächsten Atemspende
+% muss der Mund wieder abgesetzt werden, um selbst frische Luft einatmen zu
+% können. 
+% 
+% Bei Säuglingen und Kleinkindern wäre noch die
+% \T{Mund--zu--Mund/Nasen-Beatmung} möglich. In diesem
+% besonderen Fall wird der Mund und die Nase des Patient mit dem eigenem Mund umschlossen.
+Während in der ersten Hilfe die Beatmung mittels
+Mund-zu-Mund-, Mund-zu-Nasen- und
+Mund-zu-Mund/Nasen-Beatmung durchgeführt wird, beatmet
+medizinisches Fachpersonal mit Beatmungsbeutel,
+Sauerstoffreservoir und Sauerstoffzufuhr. Diese
+Beatmungshilfen sind in Kapitel \ref{chp:SAN} beschrieben.
+Bei spezieller Ausbildung/Freigabe kann der professionelle
+Helfer zum Freihalten der Atemwege einen Guedel-Tubus
+verwenden. \bigskip }{
 \begin{itemize}
-  \item Mund--zu--Mund-Beatmung
-  \item Mund--zu--Nasen-Beatmung
-  \item Mund--zu--Mund/Nasen-Beatmung
+  \item Immer mit Hilfsmittel beatmen!
+  \begin{itemize}
+    \item Beatmungsbeutel
+    \item Reservoir
+    \item Sauerstoffzufuhr
+  \end{itemize}
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Wichtige Parameter für die Beatmung}
-{Die \EE{Atemfrequenz} des Erwachsenen beträgt
+\Layout{0}{Technik und Parameter der Atmung}
+{
+Das Beherrschen der richtigen Technik ist gerade bei der
+Beatmung sehr schwierig. Regelmäßiges Training ist daher
+unbedingt notwendig. Die folgende Beschreibung orientiert
+sich an den Empfehlungen des European Resuscitation Council
+(ERC).
+
+Der richtige \EE{Umgang mit Sauerstoff und Beatmungshilfen}
+(Sicherheitshinweise, C-Griff, Technik,\ldots) ist in den
+Abschnitten \ref{topic:sauerstoff} und \ref{topic:beatmung-hilfsmittel} beschrieben und wird an
+dieser Stelle nicht wiederholt.
+
+Die \EE{Atemfrequenz} des Erwachsenen beträgt
 \VonBis{12}{16}\PerMin*, d.\,h. wir atmen
 \VonBis{12}{16}\PerMin* ein und aus. Das
-\EE{\underline{max.} (!) Atemzugsvolumen} in ml entspricht
+\EE{\underline{max.} (!) Atemzugsvolumen} in \Ml entspricht
 dem 10-fachen des Körpergewichtes, d.\,h. ein 90\Kg*
 schwerer Mann kann 900\Ml* Luft ein- und wieder ausatmen.
 Ein normaler Atemzug beträgt jedoch nur etwa 500\Ml* (vgl.
-\See{topic:atemvolumina}).
+\See{topic:atemvolumina}). Dieser Wert soll auch bei der
+Beatmung angestrebt werden. Dazu wird der Beatmungsbeutel
+gleichmäßig zusammen gedrückt bis eine sichtbare
+Atembewegung vorhanden ist. Der \EE{Beatmungsvorgang} soll
+in etwa \EE{1\Sec*} dauern \cite{Erc2010Sek02De}. Ein Gefühl
+für die richtige Dosierung kann durch ausreichend Training
+in der Beutel-Masken-Beatmung erreicht werden.
 
-Die ausreichende \ce{O2}-Konzentration in der Umgebungs-/Einatmungsluft ist die
-Voraussetzung für eine funktionierende Atmung. Ist sie
-nicht gegeben, ist auch die beste Atemarbeit nutzlos. Der normale \ce{O2}-Gehalt der Umgebungsluft beträgt
-21\PC*. Der \ce{O2}-Gehalt in der \EE{Ausatemluft} beträgt
-noch 16\PC*, d.\,h. der Mensch verbraucht  nur 5\PC* des
-eingeatmeten Sauerstoffs. 
-}{
+Die ausreichende \ce{O2}-Konzentration in der
+Umgebungs-/Einatmungsluft ist die Voraussetzung für eine
+funktionierende Atmung. Ist sie nicht gegeben, ist auch die
+beste Atemarbeit nutzlos. Der normale \ce{O2}-Gehalt der
+Umgebungsluft beträgt 21\PC*. Der \ce{O2}-Gehalt in der
+\EE{Ausatemluft} beträgt noch 16\PC*, d.\,h. der Mensch
+verbraucht  nur 5\PC* des eingeatmeten Sauerstoffs. Bei
+Beatmung mit Sauerstoffreservoir und Sauerstoffzufuhr von
+15\LPerMin* kann die Sauerstoffkonzentration auf fast
+100\PC* erhöht werden.
+
+Da die Beutel-Masken-Beatmung oft schwierig ist, kann es
+passieren, dass ein Beatmungsvorgang missglückt. In diesem
+Fall darf man den \EE{erfolglosen Beatmungsversuch nicht
+wiederholen} da sonst die Herzdruckmassage zu lange
+unterbrochen wäre. 
+
+Bei entsprechender Ausbildung und Freigabe kann zum
+Freihalten der Atemwege zusätzlich zum Kopfüberstrecken
+ein \EE{Guedel-Tubus} verwendet werden.}{
 \begin{itemize}
+  \item Umgang mit Sauerstoff und Beatmungshilfsmittel
   \item Atemfrequenz \VonBis{12}{16}\PerMin*
-  \item Max. Atemzugsvolumen [ml]: 10-fache des Körpergewichtes
-  \item Einatemluft 21\PC* \ce{O2}-Gehalt
-  \item Ausatemluft 16\PC* \ce{O2}-Gehalt
+  \item Atemzugvolumen 500\Ml*
+  \item Dauer Beatmungsvorgang 1\Sec*
+%   \item Max. Atemzugsvolumen [ml]: 10-fache des Körpergewichtes
+%   \item Einatemluft 21\PC* \ce{O2}-Gehalt
+%   \item Ausatemluft 16\PC* \ce{O2}-Gehalt
+  \item erfolglosen Beatmungsversuch nicht wiederholen
+  \item bei entsprechender Ausbildung/Freigabe
+  Guedel-Tubus
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Bei der Beatmung ist zu beachten:}
+\Layout{0}{Mögliche Fehlerquellen}
 {
-Ein \EE{zu hohes Atemzugsvolumen} führt zu einem
-höheren Druck im Nasen-Rachenraum, sobald die Lunge
-vollständig mit Luft befüllt ist. Die Luft findet nur den
-Ausweg über die Speiseröhre in den Magen. Dies kann während einer Herz-Lungen-Wiederbelebung meist unbemerkt geschehen. Bei einem \EE{zu niedrigem Atemzugsvolumen} ist die
-\ce{O2}-Versorgung nicht sichergestellt, da die Luft nicht bis in die
-Lunge kommt. Bei Bartträgern kann es zu einer
+Ein \EE{zu hohes Atemzugsvolumen} führt zu einem höheren
+Druck im Nasen-Rachenraum, sobald die Lunge vollständig mit
+Luft befüllt ist. Die Luft findet nur den Ausweg über die
+Speiseröhre in den Magen. Dies kann während einer
+Herz-Lungen-Wiederbelebung meist unbemerkt geschehen. Bei
+einem \EE{zu niedrigem Atemzugsvolumen} ist die
+\ce{O2}-Versorgung nicht sichergestellt, da die Luft nicht
+bis in die Lunge kommt. Bei Bartträgern kann es zu einer
 \EE{ungenügenden Abdichtung} kommen. Eine \EE{zu hohe
-Atemfrequenz} hindert den Patienten am Ausatmen. Wenn es beim Freimachen
-der Atemwege zu einer \EE{mangelnden Überstreckung} des Kopfes
-kommt, kann es zu einer unzureichenden Belüftung der Lunge kommen. Bei jeder Atemspende ist der \EE{Brustkorb} des Patienten zu \EE{beobachten}. Dieser
-muss sich deutlich heben und senken. Immer auch auf den \EE{Selbstschutz}
-achten. Wenn möglich nur mit Beatmungstuch oder Beatmungsmaske beatmen.
+Atemfrequenz} hindert den Patienten am Ausatmen. Wenn es
+beim Freimachen der Atemwege zu einer \EE{mangelnden
+Überstreckung} des Kopfes kommt, kann es zu einer
+unzureichenden Belüftung der Lunge kommen. Die Qualität der
+Beatmung kann durch \EE{Beobachtung des Brustkorbs}
+überprüft werden. Dazu wird nach jeder Atemspende der
+Brustkorb des Patienten beobachtet. Dieser muss sich
+deutlich heben und senken.
+% Immer auch auf den \EE{Selbstschutz} achten. Wenn möglich
+% nur mit Beatmungstuch oder Beatmungsmaske beatmen.
 }{
 \begin{itemize}
   \item zu hohes Atemzugsvolumen ${\rightarrow}$ Luft in den Magen
@@ -319,132 +444,658 @@ achten. Wenn möglich nur mit Beatmungstuch oder Beatmungsmaske beatmen.
   \item mangelnde Überstreckung ${\rightarrow}$ unzureichenden Belüftung der
   Lunge
   \item Brustkorb beobachten ${\rightarrow}$ deutlich heben und senken
-  \item Selbstschutz ${\rightarrow}$ mit Beatmungstuch oder Beatmungsmaske
-  beatmen
+%   \item Selbstschutz ${\rightarrow}$ mit Beatmungstuch oder Beatmungsmaske
+%   beatmen
 \end{itemize}
 }{}{}{}
 
 \subsection{Defibrillation (Elektrotherapie)}
 
+Das Herz ist die Pumpe des Blutkreislaufes und leistet eine
+beachtliche mechanische Arbeit. Damit sie funktioniert wird
+die Muskelarbeit mittels \EE{elektrischer Reize} gesteuert
+(Reizleitungssystem,
+\FullPrettyRef{topic:reizleitungssystem}). Ohne diese
+elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und somit zum Kreislaufstillstand.
+Oft ist die Störung des elektrischen Herzrhythmus die
+Ursache des Kreislaufstillstands. Liegt eine solche Störung
+vor, so kann man mittels einer \EE{Defibrillation}
+(Elektroschock) versuchen, wieder einen normalen
+Rhythmus wiederherzustellen.
 
+\Layout{0}{Defibrillatoren}{
+Geräte für die Defibrillation werden \II{Defibrillator}
+genannt. Es gibt folgende Gerätekategorien:
+\begin{itemize}
+  \item Halbautomatische Defibrillatoren
+  (\II{AED}\footnote{\Lang{Abkz.} AED: Automatisierter externer Defibrillator }): Das Gerät kontrolliert den elektrischen Herzrhythmus und beurteilt,
+  ob ein Schock abgegeben werden soll. Die Schockauslösung
+  geschieht durch den Anwender. Diese Gerätekategorie kann
+  von nicht-ärztlichem Personal und sogar auch von
+  nicht ausgebildeten Laienhelfern verwendet werden. 
+  \item Manuelle Defibrillatoren: Das Gerät zeigt den
+  elektrischen Herzrhythmus an, der Anwender muss
+  entscheiden, ob ein Schock abgegeben werden soll. Manuelle
+  Defibrillatoren sollen nur durch ärztliches Personal
+  angewandt werden. Viele neuere Geräte verfügen über einen
+  "`Halbautomaten-Modus"', in welchem das Gerät als AED
+  verwendet werden kann.
+  
+  Die manuelle Defibrillation wird im Kapitel \CO{[ALS]},
+  \prettyref{chp:ALS} weiter besprochen.
+  \item \Z{Automatische implantierbare Defibrillatoren
+  können Patienten -- ähnlich einem Herzschrittmacher --
+  implantiert werden.}
+\end{itemize}
+}{
+\begin{itemize}
+  \item halbautomatische Defibrillatoren (AED)
+  \item manuelle Defibrillatoren
+  \item \Z{automatische implantierbare Defibrillatoren}
+\end{itemize}
+}{}{}{}
+
+% Der AED wird mittels zweier Klebeelektroden mit dem
+% Patienten verbunden. Mittels dieser Elektroden wird
+% einerseits der vorhandene elektrische Herzrhythmus
+% abgeleitet und vom Gerät beurteilt, und andererseits bei
+% Bedarf der Schock abgegeben. 
+
+\begin{PictureSeriesWide}{}{Bilderserie:
+Defibrillation\label{fig:defibrillation}}
+\PictureSeriesRow{3}
+{./images/wikipedia-pd/AED_Symbol}
+{Hinweisschild "`Defibrillator"'}
+{./images/wikipedia-cc-by-sa/Defib_electrode_placement}
+{Anbringen der Klebeelektroden \SourcePicture{WMC:Andersat,
+CC-BY-SA-3.0}} 
+{./images/wikipedia-cc-by-sa/Semi_automatic_defi_with_electrodes}
+{Automatisierter Externer Defibrillator (AED) mit angeschlossenen Klebeelektroden für den Einmalgebrauch \SourcePicture{WMC:Hborkyb, CC-BY-SA-2.5-US}}
+{empty}
+{}
+\end{PictureSeriesWide}
+
+\Layout{0}{Elektrische Herzrhythmen}{
+Die Defibrillation ist nicht bei jeder Störung des
+Herzrhythmus sinnvoll. Man unterscheidet daher schockbare
+und nicht-schockbare Rhythmen:
+\begin{itemize}
+  \item \EE{Schockbare Rhythmen}
+\begin{itemize}
+    \item \II{Kammerflimmern}: Unkoordnierte, "`wirre"'
+    elektrische Aktivität
+    \item \II{Pulslose Ventrikuläre Tachykardie} (\I{PVT}):
+    Zu schneller Herzrhythmus, das Herz kann sich nicht ausreciehnd
+    füllen, daher fehlt die Pumpleistung
+  \end{itemize}
+  \item \EE{Nicht-schockbare Rhythmen}
+  \begin{itemize}
+    \item \II{Asystolie}: Keine Elektrische Aktivität
+    \item \II{Pulslose elektrische Aktivität} (\I{PEA}): Das
+    Herz reagiert nicht auf elektrische Reize
+  \end{itemize}
+\end{itemize}
+Bei AED übernimmt das Gerät die Beurteilung ob ein
+elektrischer Herzrhythmus schockbar oder nicht schockbar
+ist. Die Herzrhythmen werden im Kapitel \CO{[MED]}
+(\FullPrettyRef{topic:herzrhythmusstoerungen}) genauer
+besprochen.
+}{
+\begin{itemize}
+  \item schockbare Rhythmen
+  \begin{itemize}
+    \item Kammerflimmern
+    \item pulslose ventrikuläre Tachykardie
+    \end{itemize}
+  \item nicht-schockbare Rhythmen
+  \begin{itemize}
+    \item Asystolie
+    \item pulslose elektrische Aktivität
+    \end{itemize}
+\end{itemize}
+}{}{}{}
+
+\Layout{0}{Verwenden eines AED}{
+Grundsätzlich ist jedes Gerät so zu verwenden wie es der
+Hersteller in der \EE{Bedienungsanleitung} vorschreibt. Bei
+der Verwendung von AEDs kommt es meist zu folgendem allgemeinen
+Vorgehen: 
+
+Das Gerät wird in unmittelbarer Reichweite zu
+Patient und Helfer positioniert, die Gerätetasche wird
+geöffnet. Die Klebeelektroden sind Einmalprodukte und daher zusätzlich verpackt. Nach Öffnen
+der Schutzhülle werden die Kabel der Elektroden an das Gerät
+angeschlossen. Danach wird einzeln von jeder der beiden
+Elektroden die Schutzfolie abgezogen und die Elektrode
+\E{faltenfrei} auf den Patienten geklebt. Ist die
+Schutzfolie einmal abgezogen darf die Elektrode nicht mehr
+abgelegt werden, da die Klebeschicht sonst verschmutzt würde
+und wirkungslos wird. Ggf. müssen die Brusthaare des
+Patienten vor dem Aufkleben abrasiert werden. Ein
+Einmalrasierer ist i.\,d.\,R. in der Gerätetasche vorrätig.
+Schlecht geklebte Elektroden (Falten) oder nicht
+abrasiertes, dichtes Brusthaar führen zu einem unnötig hohen
+elektrischen Widerstand im Stromfluss und machen die
+Elektroschocks daher ineffizient. Die \EE{Positionierung der
+Elektroden} ist in Abbildung \ref{fig:defibrillation}
+ersichtlich. Durch diese Positionierung ist sicher gestellt,
+dass ein Großteil des elektrischen Feldes zwischen den
+Elektroden durch das Herz läuft. 
+
+Sind die Elektroden geklebt
+kann mit der Beurteilung des elektrischen Herzrhythmus
+begonnen werden. Die \EE{Rhythmusanalyse} (kurz Analyse)
+führt das Gerät auf Knopfdruck selbständig durch. Oft ertönt vom Gerät das
+Kommando \glqq{}Analyse läuft! Patienten nicht
+berühren!\grqq{} Der Patient (oder elektrisch
+leitende Gegenstände (z.\,B. Metalle, Wasser) die mit dem
+Patient in direktem Kontakt stehen) dürfen vom Helfer nicht
+berührt werden. Nach der Analyse wird den Helfern per
+Sprachausgabe mitgeteilt ob ein schockbarer oder ein
+nicht-schockbarer Rhythmus vorliegt. Wird ein Schock
+empfohlen kann mittels Tastendruck der Elektroschock
+ausgelöst werden. Selbstverständlich darf auch während der
+\EE{Schockabgabe} kein Kontakt zum Patienten besteht.
+\EE{Helfer müssen hier sorgfältig auf Sicherheit achten
+(warnen $\rightarrow$ zurücktreten $\rightarrow$
+kontrollieren)!}
+
+\EE{Sicherheits- und weitere Bedienungshinweise}:
+\begin{itemize}
+  \item Während der Schockabgabe sind etwaige
+  \E{Sauerstoffquellen} so weit wie möglich von den
+  Elektroden weg zu halten.
+  \item Der Defibrillator darf nicht in einer \E{nassen
+  Umgebung} eingesetzt werden, da Wasser den elektrischen
+  Strom leitet. Dadurch sind Helfer bei der Schockabgabe
+  gefährdet. Patienten die aus dem Wasser gerettet werden
+  müssen daher vor der Schockabgabe abgetrocknet und auf
+  trockenen Untergrund gebracht werden.
+  \item Viele Geräte dürfen \E{bei Kindern erst ab 8 Jahren}
+  eingesetzt werden.
+  \item Defibrillatoren dürfen nicht in Umgebungen
+  eingesetzt werden, in welchen \E{Explosionsgefahr}
+  herrscht.
+  \item \E{Unterkühlte Patienten} mit einer
+  Körperkerntemperatur unter 30\DegC{} dürfen ebenfalls nicht defibrilliert werden.
+  \item Folgende Umstände können zu einem \E{Abbruch der
+  Analyse} führen: Eigenbewegung des Patienten,
+  Manipulationen am Patienten (durch unachtsame Helfer),
+  Manipulationen am Defibrillator oder Kabel, maschinelle
+  Beatmung, Transport, sonstige Erschütterungen. In diesem
+  Fall kann kein Schock abgegeben werden!
+\end{itemize}
+Zusätzliche Sicherheits- und Bedienhinweise sind in der
+Bedienungsanleitung des jeweiligen Geräts nachzulesen! }{
+\begin{itemize}
+  \item Verwenden gem. Bedienungsanleitung!
+  \item Positionierung
+  \item Aufkleben der Elektroden
+  \item Analyse
+  \item Schockabgabe
+  \item Sicherheitshinweise
+\end{itemize}
+}{}{}{}
+
+\Layout{2}{{\TxQuerverweise}}{%
+\begin{itemize}
+  \item Herz: \dotfill \FullPrettyRef{topic:herz};
+  \item Reizleitungssystem:
+  \dotfill \FullPrettyRef{topic:reizleitungssystem}
+  \item EKG: \dotfill \FullPrettyRef{topic:ekg}
+  \item Herzrhythmen:
+  \dotfill \FullPrettyRef{topic:herzrhythmusstoerungen}
+\end{itemize}
+}{}{}{}{}
 
 \subsection{Algorithmus Herz-Lungen-Wiederbelebung}
 
-\Layout{0}{Vorgehensweise}{
-Nach der Kontrolle des Bewusstseins und der Feststellung, dass der Patient nicht
-ansprechbar ist, wird um Hilfe gerufen. Anschließend durch
-Überstrecken des Kopfes die Atemwege öffnen und die Atmung kontrollieren. Wenn keine normale
-Atmung vorhanden ist, Notruf absetzen. Danach mit der Herz-Lungen
-Wiederbelebung beginnen. Diese setzt sich aus 30 Herzdruckmassagen und 2
-Beatmungen zusammen. 
-}{
-\prettyref{tab:bilderserie-hlw} \ldots{} Bilderserie. 
+\Layout{0}{Einleitung}{Der Algorithmus der Reanimation
+orientiert sich an den Empfehlungen der neuesten
+ERC-Leitlinien des so genannten \EE{Basic Life Support}
+(\EE{BLS}). Diese Basismaßnahmen der
+Herz-Lugen-Wiederbelebung sind durch zahlreiche Studien
+wissenschaftlich abgesichert und werden ungefähr alle fünf
+Jahre aufgrund neuer Erkenntnisse
+aktualisiert.\footnote{\Z{In Österreich gibt es den
+Österreichischen Rat für Wiederbelebung (Austrian
+Resucitation Council, ARC), der unter Wahrung der
+wissenschaftlichen Herangehensweise und in Zusammenarbeit
+von medizinischen Fachgesellschaften und
+Rettungsorganisationen (ASBÖ, Johanniter, MA70, Malteser und
+Rotes Kreuz) die Bereitschaft zur Reanimation und die nötige
+Ausbildung fördert.}} Neben dem Basic Life Support, welcher
+hauptsächlich für Laien und nicht-ärztliche Helfer ausgelegt
+ist, ist der \EE{Advanced Life Support} (Erweiterte
+Maßnahmen, \EE{ALS}), welcher für speziell ausgebildete
+Notfallteams konzipiert ist, weit verbreitet. NEF- und
+NAW-Teams arbeiten i.\,d.\,R. nach diesem Algorithmus. Für
+Kinder ist der \EE{Pediatric Life Support} (\EE{PLS})
+anzuwenden.
 
-\prettyref{tab:algorithmus-bls-aed} \ldots{} Alg. AED.
+\Z{Ziel der ERC-Leitlinien ist es eine europaweit
+einheitliche, bestmögliche Vorgehensweise bei der Reanimation zu fördern.
+Es ist daher in der Ausbildung notwendig diese Empfehlungen
+so originalgetreu wie möglich widerzugeben, weshalb sich die
+Formulierungen der folgenden Vorgehensweisen nur geringfügig
+von den Texten aus \cite{Erc2010Sek02De},
+\cite{Erc2010Sek03De}, \cite{Erc2010Sek04De} und
+\cite{Erc2010Sek06De} unterscheiden.}}{
+\begin{itemize}
+  \item orientiert sich an den ERC-Leitlinien
+  \item verschiedene Formen:
+  \begin{itemize}
+    \item Basic Life Support (BLS)
+    \item Advanced Life Support (ALS)
+    \item Pediatric Life Support (PLS)
+    \end{itemize}
+\end{itemize}
 }{}{}{}
 
-\Layout{57}{}
-{}{}
-{
-\begin{tabularx}{\linewidth}{XXX}
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea1b.JPG}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea2b.JPG}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea3b.JPG}
-\\
-% Schritt 1 
-Ansprechen, berühren, Schmerzreiz
-&
-% Schritt 2 
-Hilferuf
-&
-% Schritt 3 
-Atemwege freimachen
-\\\addlinespace
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea4b.JPG}
-&
-\centering\Huge{\ttfamily 144}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea5b.JPG}
-\\
-% Schritt 4 
-Atemkontrolle
-& 
-Notruf
-&
-% Schritt 5
-30 Herzdruckmassagen
-\\\addlinespace
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea6b.JPG}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea7b.JPG}
-&
-\\
-% Schritt 6
-2 Beatmungen
-&
-% Schritt 7
-Wenn vorhanden: Defibrillation.\ACh{Instruktor 1}{0.8.0}{Weg lassen.
-}\ACh{GABS}{2010-02-19}{Wieso? Hinweis auf AED wäre doch sinnvoll.} 
-&
-\\\addlinespace\bottomrule
-\end{tabularx}
-}{Bilderserie: Herz-Lungen-Wiederbelebung
-(Reanimation)\label{tab:bilderserie-hlw}\index{Bilderserie!Reanimation}\index{Reanimation!Bilderserie}}{}
+\Layout{0}{Vorgehensweise BLS}{
+Die ERC betont die Wichtigkeit frühzeitigen Handelns.
+Durch engmaschiges Monitoring von Notfallpatienten soll ein
+drohender Kreislaufstillstand frühzeitig erkannt werden,
+sodass rechtzeitig Reanimationsbereitschaft hergestellt
+wird. Nur so kann im Falle eines tatsächlichen
+Kreislaufstillstand der Algorithmus sofort beginnen und
+unterbrechungsfrei abgearbeitet werden. Mit jeder Minute
+Verzögerung sinkt die Überlebenswahrscheinlichkeit des
+Patienten.
 
+Ist der Patient (bereits beim Antreffen) reglos, so geht man
+wie folgt vor:
+\begin{itemize}
+  \item \EE{Szeneüberblick mit (Selbst-)Schutz}: Es ist auf
+  Sicherheit zu achten. Helfer und Patient dürfen nicht
+  gefährdet sein. \Z{Dieser Punkt ist ident mit dem
+  allgemeinen Vorgehen des Patientenmanagements.}
+  \item \EE{Eindruck/Hauptbeschwerde}: Der Patient ist
+  reglos. Bei Atemnot/Atemstill\-stand kann Blässe und/oder
+  Zyanose auffallen. Eventuell ist ein Unfallhergang
+  ersichtlich.
+  \Z{Dieser Punkt ist ident mit dem allgemeinen Vorgehen des Patientenmanagements.}
+  \item \EE{Ansprechbarkeit prüfen, Bewusstsein beurteilen}:
+  Der Patient ist laut und deutlich anzusprechen. Dabei kann
+  man gleichzeitig an den Schultern des Patienten rütteln
+  (Ausnahme: Traumageschehen!). Ein Schmerzreiz wird im
+  Bereich des Kopfes (Wange, Nasenscheidewand, Kieferwinkel)
+  gesetzt.
+  \item Ist der \EE{Patient ansprechbar} folgt das Vorgehen
+  den allgemeinen Regeln des Patientenmanagements.
+  \item Ist der \EE{Patient nicht ansprechbar} wird ein
+  Notarzt angefordert. Idealerweise deligiert man diese
+  Aufgabe an einen zusätzlichen Helfer um das weitere
+  Vorgehen nicht zu verzögern.
+  \item \EE{Kopf überstrecken}: Um die Atemwege zu öffnen
+  und frei zu halten wird der Kopf überstreckt. Dabei legt
+  man eine Hand auf die Stirn und zieht den Kopf leicht nach hinten. Die
+  Fingerspitzen der anderen Hand heben dabei gleichzeitig
+  das Kinn an. Ggf. muss der Patient vorher auf den Rücken
+  gedreht werden.
+  \item \EE{Atmung prüfen}: Das Ohr des Helfers wird
+  knapp über den Mund des Patienten gehalten. Die
+  Blickrichtung des Helfers fällt auf den Brustkorb des
+  Patienten. Jetzt wird für die Dauer von 10\Sec* die
+  Atmung des Patienten beurteilt:
+  \begin{itemize}
+    \item \E{Sehen}: Bewegungen des Brustkorbs
+    \item \E{Hören}: Atemgeräusche
+    \item \E{Fühlen}: Luftstrom der Ausatemluft
+    \end{itemize}
+  \item \EE{Beurteilung} ob die \EE{Atmung normal} ist: Das
+  ERC versteht unter \glqq{}normaler\grqq{} Atmung jede
+  Atemtätigkeit die mit selbständiger Aufrechterhaltung der
+  Lebensfunktionen vereinbar ist. \E{Schnappatmung}
+  (vereinzelte, langsame oder geräuschvolle Atemzüge mit
+  welchen der Patient nach Luft schnappt)
+  \E{ist keine normale Atmung!} Der Schnappatmung folgt oft
+  Atemstillstand.
+  \item Liegt \EE{normale Atmung} vor wird der Patient in
+  die stabile Seitenlage gedreht. Danach folgen alle
+  weiteren {\TxMassVit}.
+  \item Liegt \EE{keine normale Atmung} vor muss sofort mit
+  der Herz-Lungen-Wiederbe\-lebung begonnen werden. Die
+  notwendigen Hilfsmittel sollen zu diesem Zeitpunkt bereits
+  am Einsatzort sein. Der seitlich am Patient knieende
+  Helfer beginnt die Wiederbelebung mit \E{30
+  Herzdruckmassagen}. Währenddessen macht der am Kopf
+  knieende Helfer die Beatmungshilfen und danach den AED
+  einsatzbereit. Auf die 30 HDM folgen \E{zwei Beatmungen},
+  danach wird sofort mit 30 HDM fortgefahren usw. Erfolglose Beatmungsversuche werden
+  nicht wiederholt um die HDM nicht zu verzögern. Das
+  Wechselspiel aus 30 HDM und zwei Beatmungen wird
+  fortgeführt bis der AED einsatzbereit ist. Dies soll so
+  rasch wie möglich geschehen. Sofern es nicht zu einer
+  Zeitverzögerung kommt, kann ein zusätzlicher Helfer der Rettungsleitstelle mitteilen, dass der Patient
+  reanimiert werden muss.
+  \item Durch das Betätigen des Knopfes
+  \glqq{}\EE{Analyse}\grqq{} am AED beurteilt das Gerät ob
+  ein schockbarer Rhythmus vorliegt. Derzeit muss für den
+  Analysevorgang die Wiederbelebung unterbrochen werden
+  (siehe auch Abschnitt \ref{topic:anmerkungen-bls}). Durch
+  Sprachkommandos teilt der AED dem Helfer mit ob ein Schock
+  ausgelöst werden kann.
+  \item Wird vom AED \EE{kein Schock empfohlen} so ist die
+  HDM unverzüglich wieder aufzunehmen. Nach zwei Minuten
+  (5-6 HDM-/Beatmungs-Zyklen) wird erneut eine Analyse
+  durchgeführt.
+  \item Wird vom AED ein \EE{Schock empfohlen} so müssen
+  alle Helfer den Kontakt zum Patienten lösen. Der am Kopf
+  des Patienten knieende Helfer bedient den AED und erinnert
+  die Kollegen durch das \EE{\underline{laute}} Kommando
+  \glqq{}Vorsicht! Patient nicht berühren! Schock!\grqq{} an
+  den nötigen Sicherheitsabstand. Bevor durch Druck auf die
+  Schock-Taste am AED endgültig der Elektroschock ausgelöst
+  wird muss sich der Helfer vergewissen, dass niemand den Patient berührt!
+  \item Nach der Schockabgabe wird die
+  Herz-Lungen-Wiederbelebung durch 30 HDM sofort
+  wieder aufgenommen. Die Kombination 30 HDM und zwei
+  Beatmungen wird rund zwei Minuten (5-6 HDM-/Beatmungs-Zyklen)
+  fortgesetzt, danach erfolgt die nächste Rhythmusanalyse.
+  \item Das Vorgehen wiederholt sich jetzt bis der Patient
+  Lebenszeichen zeigt oder Abbruchkriterien erfüllt sind. Um der Erschöpfung der Helfer und damit einem
+  Qualitätsverlust der HDM vorzubeugen wird nach jedem
+  HDM-/Beat\-mungs-Zyklus die Helferposition gewechselt!
+\end{itemize}
+Eine grafische Übersicht über dieses Vorgehen ist ein
+\prettyref{tab:algorithmus-bls-aed} dargestellt.
+
+% Nach der Kontrolle des Bewusstseins und der Feststellung,
+% dass der Patient nicht ansprechbar ist, wird ein Notarzt
+% angefordert. Anschließend werden durch Überstrecken des
+% Kopfes die Atemwege geöffnet und die Atmung kontrolliert.
+% Wenn keine ausreichende Atmung vorhanden ist, wird mit der
+% Basisreanimation begonnen. Diese setzt sich aus 30 Herzdruckmassagen (HDM)
+% und 2 Beatmungen zusammen. Sofern ohne Zeitverzögerung
+% möglich, soll der Leitstelle mitgeteilt werden, das der
+% Patient reanimiert wird.
+% 
+% Ziel ist es, \EE{möglichst rasch den Defibrillator
+% einzusetzen}. Die Klebeelektroden werden während der
+% Herzdruckmassage zügig angebracht. Sobald die Elektroden
+% angebracht wurden und das Gerät einsatzbereit ist, wird mit
+% der Analyse begonnen. Empfiehlt das Gerät einen Schock, wird
+% dieser abgegeben. Die Herzdruckmassage muss -- egal ob ein
+% Schock empfohlen wurde oder nicht -- unverzüglich
+% wiederaufgenommen werden.
+% 
+% Alle 2 Minuten (ca. 5 HDM-/Beatmungszyklen) wird eine
+% neuerliche Analyse durchgeführt.
+% 
+% Helferwechsel alle 2 min.
+% 
+% Was ist eine normale Atmung?
+% 
+% Siehe Algorithmus \FullPrettyRef{tab:algorithmus-bls-aed}. 
+}{
+% \prettyref{tab:bilderserie-hlw} \ldots{} Bilderserie. 
+% 
+siehe \prettyref{tab:algorithmus-bls-aed} \ldots{}
+Algorithmus BLS mit AED}{}{}{}
+
+\Layout{0}{Vorgehensweise ALS}{
+Der \EE{Advanced Life Support} (ALS) beschreibt das Vorgehen
+für spieziell geschulte Notfallteams, welche aufgrund ihrer
+Ausbildung und ihrer Ausrüstung erweiterte Maßnahmen
+(venöser Zugang, Applikation von
+Medikamenten, \ldots) durchführen können. Er ist daher
+\E{nicht} Inhalt dieses Kapitels. Dem ALS ist das Kapitel
+\ref{chp:ALS} gewidmet.
+}{ 
+\begin{itemize}
+  \item erweiterte Maßnahmen für speziell ausgebildete
+  Notfallteams
+  \item siehe \prettyref{chp:ALS} 
+\end{itemize}
+}{}{}{}
+
+\clearpage
+\begin{figure}[H]
+\begin{WidePar}
+\begin{center}
+\Captionof{table}{Basic Life Support mit AED.\label{tab:algorithmus-bls-aed}}
+\index{Basic Life Support}\index{BLS|see{Basic Life Support}}
+
+\includegraphics[scale=1]{./images/emhofer-josef-aass/BLS}
+\end{center}
+\end{WidePar}
+\end{figure}
+
+% \Layout{57}{}
+% {}{}
 % {
-% {Die Durchführung der Reanimation hält sich an folgenden
-% Algorithmus:}\footnote{\ {Die folgende Darstellung der
-% Reanimation erlaubt nur ein Überblick über die Möglichkeiten und
-% Maßnahmen der Reanimation. Eine ausführlichere Darstellung findet
-% sich in den nachfolgenden Kapiteln des Lehrbuches. }}}
-% 
-% 
-% 
-% 
-%  Einfügen des
-% BLS-Algorithmus erstellt vom Josef 2006 für die
-% ASB-921-Schulung
+% \begin{tabularx}{\linewidth}{XXX}
+% \includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea1b.JPG}
+% &
+% \includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea2b.JPG}
+% &
+% \includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea3b.JPG}
+% \\
+% % Schritt 1 
+% Ansprechen, berühren, Schmerzreiz
+% &
+% % Schritt 2 
+% Hilferuf
+% &
+% % Schritt 3 
+% Atemwege freimachen
+% \\\addlinespace
+% \includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea4b.JPG}
+% &
+% \centering\Huge{\ttfamily 144}
+% &
+% \includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea5b.JPG}
+% \\
+% % Schritt 4 
+% Atemkontrolle
+% & 
+% Notruf
+% &
+% % Schritt 5
+% 30 Herzdruckmassagen
+% \\\addlinespace
+% \includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea6b.JPG}
+% &
+% \includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Rea7b.JPG}
+% &
+% \\
+% % Schritt 6
+% 2 Beatmungen
+% &
+% % Schritt 7
+% Wenn vorhanden: Defibrillation.\ACh{Instruktor 1}{0.8.0}{Weg lassen.
+% }\ACh{GABS}{2010-02-19}{Wieso? Hinweis auf AED wäre doch sinnvoll.} 
+% &
+% \\\addlinespace\bottomrule
+% \end{tabularx}
+% }{Bilderserie: Herz-Lungen-Wiederbelebung
+% (Reanimation)\label{tab:bilderserie-hlw}\index{Bilderserie!Reanimation}\index{Reanimation!Bilderserie}}{}
 
+\Layout{0}{Vorgehensweise PLS}{
+Die Reanimation bei Kindern wird mit dem Pediatric Life
+Support (PLS) beschrieben. Die hier vorgestellte Variante
+geht von den Basismaßnahmen (und nicht von den erweiterten
+Maßnahmen) aus und richtet sich -- so wie das BLS -- an
+Laien und Helfer aus \E{nicht} speziell ausgebildeten
+Notfallteams.
 
-\section{Ende der Reanimation und Behandlung danach}
+Während bei Erwachsenen der Großteil der Ursachen für einen
+Herz-Kreislauf-Stillstand vom Herzen aus geht, liegt bei den
+Kindern meist ein Problem der Atmung (z.\,B.
+Atemwegsverlegung) vor. Deshalb wird beim BLS so rasch
+wie möglich eine Defibrillation angestrebt, während beim PLS
+ein Freimachen der Atemwege im Vordergrund steht. Das
+Vorgehen gemäß ERC wird wie folgt beschrieben:
+\begin{itemize}
+  \item \EE{Szeneüberblick mit (Selbst-)Schutz}: wie bei BLS
+  \item \EE{Eindruck/Hauptbeschwerde}: wie BLS, zusätzlich
+  Abschätzen des Alters
+  \item \EE{Ansprechbarkeit prüfen, Bewusstsein beurteilen}:
+  wie BLS, \E{kindgerecht} ansprechen
+  \item Ist der \EE{Patient ansprechbar} folgt das Vorgehen
+  den allgemeinen Regeln des Patientenmanagements.
+  \item Ist der \EE{Patient nicht ansprechbar} wird ein
+  Notarzt angefordert. Idealerweise deligiert man diese
+  Aufgabe an einen zusätzlichen Helfer.
+  \item Beim Säugling (1.
+  Lebensjahr) wird der Kopf in Neutralposition\footnote{Beim
+  auf dem Rücken liegenden Säugling ist der Kopf i.\,d.\,R.
+  nach vorne gebeugt, sodass eine \E{leichte} Streckung
+  erforderlich sein kann um den Kopf in Neutralposition zu
+  bringen \cite{Erc2010Sek06De}.} gehalten, beim Kind (Ende
+  des 1. Lebensjahrs bis zur Pubertät) wird der Kopf
+  vorsichtig überstreckt um die Atemwege zu öffnen. 
+  \item
+  \EE{Atmung prüfen}: Wie beim BLS wird für die Dauer von
+  10\Sec* die Atmung des Patienten durch \E{Sehen},
+  \E{Höhren} und \E{Fühlen} beurteilt. 
+  \item \EE{Beurteilung} ob die \EE{Atmung normal} ist: wie
+  BLS
+  \item Liegt \EE{normale Atmung} vor wird der Patient in
+  die stabile Seitenlage gedreht. Danach folgen alle
+  weiteren {\TxMassVit}.
+  \item Liegt \EE{keine normale Atmung} vor werden \E{bei
+  begründetem Verdacht auf Atemwegsverlegung} die
+  Mundhöhle inspiziert und etwaige Fremdkörper
+  entfernt.
+  \item Danach werden \E{5 Initialbeatmungen} verabreicht.
+  \item Es wird erneut nach \EE{Lebenszeichen} gesucht. Wenn
+  das Kind in irgend einer Form (z.\,B.
+ Spontanbewegung, Husten oder normale Atmung)
+  auf die Initialbeatmungen reagiert hat, wird eine
+  neuerliche Atemkontrolle durchgeführt um zu prüfen ob die
+  Eigenatmung suffizient ist. Das Suchen nach Lebenszeichen
+  darf nicht länger als 10\Sec* dauern. Ein gut
+  ausgebildeter, erfahrener Helfer kann während dieser
+  10\Sec* parallel versuchen den Puls zu tasten. Beim
+  Säugling muss der Puls mehr als 60 Schläge pro Minute
+  betragen.
+  \item Bei \EE{Lebenszeichen} aber
+  insuffizienter Atmung muss das Kind beatmet werden. Ist
+  die Atmung suffizient wird das Kind gemäß den {\TxMassVit}
+  weiter behandelt.
+  \item
+  Sind \EE{keine Lebenszeichen} feststellbar muss mit der
+  Herz-Lungen-Wiederbe\-lebung begonnen werden. Dabei
+  wechseln \E{15 HDM} mit \E{zwei Beatmungen} ab. 
+  %
+  Die HDM
+  erfolgt je nach Körpergröße mit zwei Fingern (Säugling) bzw. mit
+  einer oder beiden Händen bei Kindern.\footnote{\Z{Die ERC
+  empfiehlt beim Säugling alternativ auch die
+  thoraxumschließende Zweidaumentechnik
+  \cite{Erc2010Sek06De}.}} Der \E{Druckpunkt} liegt auf der
+  unteren Hälfte des Brustbeins. Er kann gefunden werden,
+  indem man den Rippenbogen bis zum Schwertfortsatz entlang
+  fährt. Der Druckpunkt ist dann eine Fingerbreite darüber. 
+  %
+  Die
+  \E{Eindrücktiefe} soll ungefähr \nicefrac{1}{3} des
+  Brustkorbs betragen. Das sind beim Säugling ca. 4\CM* und
+  bei Kindern ca. 5\CM*. 
+  %
+  Die \E{Druckfrequenz}
+  (\glqq{}Arbeitsgeschwindigkeit\grqq{}) soll
+  100-120\PerMin*{} betragen. Bei der Beatmung richtet sich
+  das Atemzugvolumen ebenfalls nach der Körpergröße des
+  Patienten.
+  \item \Z{Gemäß ERC kann eine
+  Defibrillation bei Kindern bereits ab dem 1. Lebensjahr
+  erfolgen. Nachdem die meisten in Österreich verwendeten
+  Geräte jedoch von den Herstellern erst ab 8 Jahren
+  freigegeben sind, wird bei den meisten Rettungsdiensten
+  der Defibrillator nur bei Kindern über 8 Jahren
+  eingesetzt. Die Vorgehensweise ist in diesem Fall gleich
+  wie bei Erwachsenen.}
+\end{itemize}
+Eine grafische Übersicht über dieses Vorgehen ist ein
+\prettyref{tab:algorithmus-pls} dargestellt.
 
-\Layout{0}{Ende der HLW}
+}{ 
+siehe \prettyref{tab:algorithmus-pls} \ldots{}
+Algorithmus PLS 
+}{}{}{}
+
+ \clearpage
+\begin{figure}[H]
+\begin{WidePar}
+% \begin{center}
+\Captionof{table}{Pediatric Life Support.\label{tab:algorithmus-pls}}
+
+\includegraphics[scale=1]{./images/emhofer-josef-aass/PLS.pdf}\index{Pediatric Life
+Support}\index{BLS|see{Pediatric Life Support}}
+% \end{center}
+\end{WidePar}
+\end{figure}
+
+\section{Ende der Reanimation und Weiterbehandlung}
+
+\Layout{0}{Ende der Reanimation und Weiterbehandlung}
 {\index{Reanimation!Beendigung}
-Beendet wird eine Herz-Lungenwiederbelebung durch den Ersthelfer nur
-dann, wenn einer der folgenden drei Umstände eintritt. Ohne diese
-zusätzlichen Umstände darf der Ersthelfer die Reanimation nicht
-unterbrechen: 
+Der Helfer darf die Wiederbelebung beenden, wenn einer der
+drei angeführten Umstände (Abbruchkriterien) eintritt:
 
 \begin{description}
-  \item[Eintreffen von \EE{kompetenter Hilfe.}] Der Ersthelfer darf aber beim
-  Eintreffen der Rettungskräfte nicht sofort mit der Wiederbelebung  aufhören, sondern muss diese weiterführen
-  bis er ausdrücklich vom Einsatzpersonal abgelöst  wird.
-  \item[Erschöpfung.] Sollte der Ersthelfer all seine Kräfte aufgebraucht haben,
-  wird gezwungener Maßen die Wiederbelebung ab-, bzw. unterbrochen.
+  \item[Eintreffen von \EE{weiterer Hilfe.}] Der Helfer
+  kann bei Eintreffen weiterer Hilfe durch diese abgelöst
+  werden. I.\,d.\,R. trifft jedoch ein Notarztteam ein, mit
+  welchem die Reanimation zunächst gemeinsam weitergeführt
+  wird. Ein etwaiger Abbruch kann nur auf Anweisung des Notarztes
+  erfolgen.
+  \item[Der Patient zeigt \EE{Lebenszeichen}.] 
+  Zeigt der Patient eindeutige Lebenszeichen (Erwachen,
+  Husten, Atmen) so darf die Reanimation vorläufig beendet
+  werden. Es ist sofort eine Atemkontrolle
+  durchzuführen um sicherzustellen, dass die
+  Lebenszeichen richtig erkannt wurden. Nur
+  wenn eine normale Atmung vorhanden ist,
+  darf die Reanimation endgültig beendet
+  werden.\footnote{Diese Form der Beendigung der Reanimation
+  ist leider äußerst selten.} Es sind eine ausführliche
+  Patientenuntersuchung, eine (Fremd-)anamnese sowie die
+  {\TxMassVit} durchzuführen. Die Sauerstoffgabe hat dabei
+  einen Sp\ce{O2}-Zielwert von \VonBis{94}{98}\PC*.
+%   Entweder erwacht der Patient und ist ansprechbar \footnote{eine
+%   leider äußerst seltene Form der Reanimationsbeendigung},
+%   oder der Patient gibt ein Husten oder Räuspern von sich
+%   bzw. atmet beim Beatmungsvorgang dem Ersthelfer entgegen. 
+  \EE{Erbrechen zählt \E{nicht} als Lebenszeichen} da dies
+  durch fehlerhafte Beatmung (zu hohes Atemzugsvolumen)
+  ausgelöst werden könnte. In diesem Fall wird die
+  Reanimation umgehend fortgesetzt.
+  % Da hier der Ersthelfer nicht mit verlässlicher Sicherheit vom Erfolg seiner  Wiederbelebung
+  % ausgehen kann, muss er erneut die Atmung kontrollieren. Sollte sich das
+  % Lebenszeichen durch vorhandene Atmung bestätigen, muss der Patient
+  % in die stabile  Seitenlagerung gebracht und in Form der unten
+  % beschriebenen anschließenden Behandlung  weiterversorgt werden.
+  \item[Erschöpfung.] Sollte ein Ersthelfer all seine Kräfte
+  aufgebraucht haben, wird gezwungener Maßen die Wiederbelebung ab- bzw.
+  unterbrochen. Medizinisches Fachpersonal wird nicht in
+  eine derartige Situation kommen, da weitere Hilfe
+  eintreffen sollte bevor der Erschöpfungszustand eintritt. Außerdem ist der
+  Erschöpfung durch Abwechseln bei der Durchführung der HDM
+  und der Beatmung vorzubeugen. Der Wechsel findet
+  idealerweise nach jedem HDM-/Beatmungszyklus, d.\,h. ca.
+  alle 2\Min*, statt und darf zu keiner Verzögerung der
+  HDM führen.
   % aufgrund der
   % körperlichen Anstrengung im Zusammenhang mit der Reanimation all seine Kräfte aufbrauchen, und daher fortführen können, ist es  ihm erlaubt diese
   % einzustellen. Diese Möglichkeit wird aus den Grundsätzen der Zumutbarkeit
   % und der Versuchspflicht gewonnen und darf nur als absolut
   % letzte Option betrachtet werden.
-  \item[Der Patient zeigt \EE{Lebenszeichen}.] Entweder
-  erwacht der Patient und ist ansprechbar \footnote{eine
-  leider äußerst seltene Form der Reanimationsbeendigung},
-  oder der Patient gibt ein Husten oder Räuspern von sich
-  bzw. atmet beim Beatmungsvorgang dem Ersthelfer entgegen. \EE{Erbrechen zählt \E{nicht} als Lebenszeichen.}
-  % Da hier der Ersthelfer nicht mit verlässlicher Sicherheit vom Erfolg seiner  Wiederbelebung
-  % ausgehen kann, muss er erneut die Atmung kontrollieren. Sollte sich das
-  % Lebenszeichen durch vorhandene Atmung bestätigen, muss der Patient
-  % in die stabile  Seitenlagerung gebracht und in Form der unten
-  % beschriebenen anschließenden Behandlung  weiterversorgt werden.\item[]
 \end{description}
 
 }{
 \begin{itemize}
-  \item Eintreffen von kompetenter Hilfe
-  \item Erschöpfung
+  \item Eintreffen von weiterer Hilfe
   \item Patient zeigt Lebenszeichen
+  \begin{itemize}
+    \item Erbrechen ist \E{kein} Lebenszeichen
+    \item {\TxMassVit}
+    \item ausführliche Untersuchung und (Fremd-)anamnese
+    \end{itemize}
+  \item (Erschöpfung)
 \end{itemize}
 }{}{}{}
 
@@ -505,42 +1156,45 @@ unterbrechen:
 % Auseinandersetzung siehe das Kapitel
 % {\quotedblbase}{\dots}{\textquotedblleft}.}
 
-\Layout{0}{Anschließende Behandlung}
-{%
-Die anschließenden Behandlungen orientieren sich an den
-verschiedenen Beendigungsmöglichkeiten der
-Reanimation, wodurch auch sie in ihrer Ausgestaltung verschieden sind. Zeigt
-der Patient \EE{Lebenszeichen}, ist eine
-Atemkontrolle durchzuführen und wenn eine normale Atmung
-vorhanden ist, wird der Patient in die stabile Seitenlage umgelagert.
-Anschließend weiterführende Maßnahmen gemäß Notfalldiagnose Bewusstlosigkeit. 
-
-Bei Eintreffen von \EE{kompetenter Hilfe} muss der Ersthelfer
-dem Rettungspersonal Auskunft über relevante Umstände und
-die gesetzten Maßnahmen geben. 
-
-Wenn der \EE{Ersthelfer erschöpft} ist, sollte er (falls überhaupt
-konditionell möglich) erneut versuchen andere  Ersthelfer zu
-finden. Scheitert auch dieser Versuch, kann der Ersthelfer keine weitere 
-Maßnahme setzen als den Patienten zuzudecken und auf das
-Eintreffen des  Rettungspersonals zu warten. Der Ersthelfer hat alles
-in seiner Macht stehende getan, und es ist ihm kein Vorwurf
-zu machen. 
-}{
-\begin{itemize}
-  \item Lebenszeichen kontrollieren
-  \item Atemkontrolle alle 30 Sek
-  \item Stabile Seitenlage.
-  \item Wärmeerhalt (zudecken)
-  \item Frischluftzufuhr (Fensteröffnen, \ldots)
-  \item Psychische Betreuung
-  \item Kompetente Hilfe kommt ${\rightarrow}$ Auskunft über gesetzte
-  Maßnahmen geben
-  \item Erschöpfung: ${\rightarrow}$ versuchen weitere Ersthelfer zu
-  finden
-\end{itemize}
-
-}{}{}{}
+% \Layout{0}{Anschließende Behandlung}
+% {%
+% Die anschließenden Behandlungen orientieren sich an den
+% verschiedenen Beendigungsmöglichkeiten der
+% Reanimation, wodurch auch sie in ihrer Ausgestaltung verschieden sind. Zeigt
+% der Patient \EE{Lebenszeichen}, ist eine
+% Atemkontrolle durchzuführen und wenn eine normale Atmung
+% vorhanden ist, wird der Patient in die stabile Seitenlage umgelagert.
+% Anschließend weiterführende Maßnahmen gemäß Notfalldiagnose
+% Bewusstlosigkeit (\FullPrettyRef{m:bewusstlosigkeit}) und
+% {\TxMassVit}. Die Sauerstoffgabe hat einen
+% Sp\ce{O2}-Zielwert von \VonBis{94}{98}\PC*.
+% 
+% Bei Eintreffen von \EE{kompetenter Hilfe} muss der Ersthelfer
+% dem Rettungspersonal Auskunft über relevante Umstände und
+% die gesetzten Maßnahmen geben. 
+% 
+% Wenn der \EE{Ersthelfer erschöpft} ist, sollte er (falls überhaupt
+% konditionell möglich) erneut versuchen andere  Ersthelfer zu
+% finden. Scheitert auch dieser Versuch, kann der Ersthelfer keine weitere 
+% Maßnahme setzen als den Patienten zuzudecken und auf das
+% Eintreffen des  Rettungspersonals zu warten. Der Ersthelfer hat alles
+% in seiner Macht stehende getan, und es ist ihm kein Vorwurf
+% zu machen. 
+% }{
+% \begin{itemize}
+%   \item Lebenszeichen kontrollieren
+%   \item Atemkontrolle alle 30 Sek
+%   \item Stabile Seitenlage.
+%   \item Wärmeerhalt (zudecken)
+%   \item Frischluftzufuhr (Fensteröffnen, \ldots)
+%   \item Psychische Betreuung
+%   \item Kompetente Hilfe kommt ${\rightarrow}$ Auskunft über gesetzte
+%   Maßnahmen geben
+%   \item Erschöpfung: ${\rightarrow}$ versuchen weitere Ersthelfer zu
+%   finden
+% \end{itemize}
+% 
+% }{}{}{}
 
 
 
@@ -678,39 +1332,26 @@ zu machen.
 
 
 \section{Anmerkungen}
-
-
+\label{topic:anmerkungen-bls}
 
 \Layout{2}{Infektionen}{% 
 Die Ansteckungsgefahr mit Krankheiten im Rahmen einer
-Reanimation sind sehr gering. Es wurden noch keine
+Reanimation ist sehr gering. Es wurden noch keine
 Infektionen mit schwerwiegenden Erkrankungen wie HIV oder
 Hepatitis C während einer Basisreanimation beschrieben.
 \cite[p.1284]{Erc2010Sec2} }{}{}{}{}
 
 \Layout{2}{Probleme bei der HDM während des Defi-Ladevorganges}{% 
-\Ca{Der folgende Kommentar betrifft nur Helfer, welche nach
-den ERC~2010-Leitlinien arbeiten!} 
 In den ERC-Leitlinien von
 2010 wird erstmals empfohlen, die Herzdruckmassage fortzusetzen,
-\EE{während der Defibrillator sich auflädt}, d.\,h. nach der
+\E{während der Defibrillator sich auflädt}, d.\,h. nach der
 Analyse wird weiter massiert, bis der Defi bereit zur
 Schockabgabe ist. Dies soll die HDM-Pausen verringern. Bei
 vielen AED-Geräten kann es jedoch zu
 Problemen kommen, sie interpretieren die
 reanimationsbedingten Störungen der EKG-Ableitung als
 Kontaktverlust bzw. Bewegungsartefakt und brechen den
-Ladevorgang ab.\footnote{Davon betroffen sind derzeit z.\,B. die
-Geräte der Schiller Fred{\texttrademark}-Serie, der
-Defigard{\texttrademark} 1002 und der
-LifePak{\texttrademark} 500. Bezüglich anderer Geräte liegen
-der Redaktion derzeit noch keine Informationen vor. Es muss
-jedoch davon ausgegangen werden, dass auch andere Modelle
-ein derartiges Verhalten zeigen können. \E{(Angaben ohne
-Gewähr. Stand: 2011-01-19)}} Dadurch wird die Schockabgabe
-verhindert. Daher kann diese Methode nicht generell
-empfohlen werden, sondern darf nur durchgeführt werden, wenn
-der Hersteller des Gerätes dies freigegeben hat.
+Ladevorgang ab.  \hfill
 \Commentary[Herzmassage während AED-Ladezyklus]{Lt.
 vorläufiger Auskunft der Distributoren ist dies momentan
 zumindest mit den AED-Geräten der Fa. Schiller
@@ -734,10 +1375,10 @@ Es muss
 ein derartiges Verhalten zeigen. \E{(Angaben ohne
 Gewähr. Stand: 2011-01-19)}}
 
-\Cave{Manche Defibrillatoren brechen den Ladevorgang ab,
-wenn währenddessen eine Herzdruckmassage durchgeführt wird.}
-
-\Fazit{Während des Ladevorganges des Defibrillators darf nur
-bei Verwendung \E{dafür} vorgesehener Geräte eine Herzdruckmassage
-durchgeführt werden.} 
+\Customized{
+\begin{description}
+  \item[\CustAsboe] Bei AEDs darf während der Aufladephase
+  keine Herzdruckmassage durchgeführt werden. 
+\end{description}
+}
 }{}{}{}{}

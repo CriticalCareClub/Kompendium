@@ -46,9 +46,6 @@
 
 \makeatother
 
-\usepackage{titletoc}
-\contentsuse{lomassnahmen}{lomassnahmen}
-\titlecontents{massnahmen}[0pt]{}{}{\titlerule}{}
 
 % /part ohne Seitenzahl im TOC?
 % http://mrunix.de/forums/showthread.php?t=61596
@@ -123,32 +120,54 @@
 %%% Seitenlayout
 \usepackage[
 verbose,
-a4paper,
-asymmetric,
+% paperwidth=265mm,
+paperwidth=210mm,%A4
+paperheight=297mm,
+% asymmetric,
 % reversemp,
 includemp,   % incl. marginpar
 includehead, % incl. header
 includefoot, % incl. footer
-inner  = 30pt,
-outer  = 30pt,
-top    = 10mm,
-bottom =  8mm,
-bindingoffset=45.50787pt,%0.50787+42.67912+2 → Rest=552pt 
-marginparsep=15pt,
-marginparwidth = 154pt,
-% marginparpush=0pt,
-footskip = 7mm,
+inner  = 20mm,
+outer  = 20mm,
+top    = 15mm,
+bottom = 15mm,
+bindingoffset=0mm,
+marginparwidth =0mm,
+marginparsep=0mm,
+footskip = 0mm,
 % % headheight=0.5cm,
-% % headsep=0.5cm,	
+% % headsep=0.5cm,
 % showframe,
 ]
 {geometry}
 
 
-\setlength\columnsep{15pt}%7mm
-\setlength\columnseprule{0.4pt}
-\setlength\premulticols{10\baselineskip}
-\renewcommand{\columnseprulecolor}{\color{DefaultGrey}}
+% \usepackage[
+% verbose,
+% a4paper,
+% asymmetric,
+% % reversemp,
+% % includemp,
+% % tmargin=25mm,
+% % bmargin=20mm,
+% lmargin=13mm,
+% rmargin=70mm,
+% % outer  = 56mm,
+% % inner  = 56mm,
+% top    = 20mm,
+% bottom = 15mm,
+% % % hmarginratio=2:1,
+% marginparwidth = 60mm,
+% % % headheight=0.5cm,
+% % % headsep=0.5cm,
+% footskip = 5mm,
+% % includehead,
+% bindingoffset=1.5cm,
+% showframe
+% ]
+% {geometry}
+
 
 
 
@@ -165,31 +184,38 @@ footskip = 7mm,
 \usepackage{boxedminipage}
 
 \usepackage{layout}
+% \usepackage{calc}
+% \usepackage[strict]{changepage}
+%\usepackage{gmeometric}
+% \eometry{verbose,
+% a4paper,
+% asymmetric,
+% % tmargin=25mm,
+% % bmargin=20mm,
+% % lmargin=56mm,
+% % rmargin=56mm,
+% % outer  = 56mm,
+% % inner  = 56mm,
+% % top    = 25mm,
+% % bottom = 20mm,
+% marginparwidth = 40mm,
+% % headheight=0.5cm,
+% % headsep=0.5cm,
+% footskip = 10mm,
+% % includehead,
+% includemp,
+% bindingoffset=1.5cm
+% }
 
-\newlength{\WideParWidth}
-\setlength{\WideParWidth}{\textwidth+\marginparwidth+\marginparsep}
-
-\newlength{\ThirdGrossWidth}
-\setlength{\ThirdGrossWidth}{(\WideParWidth)/3}
-
-\newlength{\ThirdNetWidth}
-\setlength{\ThirdNetWidth}{(\WideParWidth-(\columnsep*2))/3}
 
 \newlength{\Textspalte}
-\setlength{\Textspalte}{\textwidth}
-
 \newlength{\Randspalte}
-\setlength{\Randspalte}{\marginparwidth}
-
 \newlength{\Trenner}
-\setlength{\Trenner}{\marginparsep}
-
 \newlength{\Korrektur}
+\setlength{\Textspalte}{\textwidth}
+\setlength{\Randspalte}{\marginparwidth}
+\setlength{\Trenner}{6pt}
 \setlength{\Korrektur}{{\fboxrule} + {\fboxsep}}
-
-
-
-
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -231,9 +257,9 @@ footskip = 7mm,
 % \vfuzz=0.1pt
 % % Grenzwert für »schlechte« Zeilen, bzw. Boxen, der angibt,
 % % ab welcher Negativbewertung eine \hbox protokolliert wird.
-\hbadness=9999
+% \hbadness=1000
 % % Grenzwert, ab dem eine »schlechte« \vbox protokolliert wird.
-\vbadness=9999
+% \vbadness=1000 
 % % Definiert zusätzlichen dynamischen Leerraum, der falls er
 % % von 0 Punkten verschieden ist, beim Absatzumbruch einen
 % % dritten Versuch bewirkt, wenn bei den beiden ersten
@@ -241,7 +267,7 @@ footskip = 7mm,
 % % ist. \emergencystretch definiert dann den Leerraum, der
 % % innerhalb einer Zeile zusätzlich verteilt werden darf.
 % % \emergencystretch=20pt
-\emergencystretch=9em
+% \emergencystretch=10em
 
 % Strafpunkte (penalties)
 % 
@@ -257,9 +283,9 @@ footskip = 7mm,
 % % berechnet wird. Wird dieser Wert erhöht, so versucht das
 % % Programm, die Zeilenanzahl für einen Absatz möglichst
 % % klein zu halten.
-\linepenalty=10
+% \linepenalty=10
 % % Wird für eine einfache Trennung beim Absatzumbruch aufgerechnet.
-\hyphenpenalty=40
+% \hyphenpenalty=50
 % % Wird für einen Zeilenwechsel nach einem expliziten
 % % Trennstrich aufgerechnet.
 % \exhyphenpenalty=50
@@ -272,11 +298,11 @@ footskip = 7mm,
 % % Wird beim Seitenumbruch vergeben, falls die erste Zeile
 % % eines Absatzes allein auf der vorangehenden Seite verbleibt.
 % % Disable single lines at the start of a paragraph (Schusterjungen)
-\clubpenalty=150
+% \clubpenalty=150
 % % Wird beim Seitenumbruch aufgerechnet, falls die letzte Zeile
 % % gerade noch auf die nächste Seite umgebrochen wird.
 % % Disable single lines at the end of a paragraph (Hurenkinder)
-\widowpenalty=150
+% \widowpenalty=150
 % % Wird während des Seitenumbruchs für einen Seitenwechsel
 % % angerechnet, falls die letzte Zeile eines Absatzes gerade
 % % noch auf die nächste Seite kommt, und zwar in dem
@@ -286,16 +312,16 @@ footskip = 7mm,
 % % Wird während des Seitenumbruchs für einen Seitenwechsel
 % % angerechnet, bei dem die letzte Zeile einer Seite mit einer
 % % Trennung endet.
-\brokenpenalty=40
+% \brokenpenalty=100
 % % Für zwei aufeinanderfolgende Zeilen, wobei in beiden getrennt wird.
-\doublehyphendemerits=100
+% \doublehyphendemerits=10000
 % % Wird für die Trennung in der vorletzten Zeile eines Absatzes aufgerechnet.
-\finalhyphendemerits=40
+% \finalhyphendemerits=5000
 % % Wird beim Absatzumbruch für zwei »visuell inkompatible«
 % % Zeilen aufgerechnet. Dies sind zwei aufeinanderfolgende
 % % Zeilen, bei denen die eine mit extra viel Leerraum
 % % durchgeschossen wurde und die andere mit wenig.
-\adjdemerits=9000
+% \adjdemerits=10000
 % % Wird für das Umbrechen einer mit \displaylines
 % % entstandenen Formelfolge über eine Seitengrenze hinweg
 % % berechnet.
@@ -305,7 +331,7 @@ footskip = 7mm,
 % % \interlinepenalty auf den angegebenen Wert.
 % \interfootnotelinepenalty=100
 % % Für den Umbruch eines Absatzes über eine Seitengrenze.
-\interlinepenalty=50
+% \interlinepenalty
 % % Für einen Seitenwechsel direkt vor einer Formel im display-style.
 % \predisplaypenalty=10000
 % % Für einen Seitenwechsel direkt nach einer Formel im display-style.
@@ -504,24 +530,21 @@ footskip = 7mm,
 % \DeclareRobustCommand{\SignTableSmall}{{\scalefont{0.7}\SignTable}}
 \DeclareRobustCommand{\SignTableSmall}{{\SignTable}}
 
-\DeclareRobustCommand{\SignFazit}{\noindent{\fontfamily{lmr}\selectfont ''}}
 % \DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
-\DeclareRobustCommand{\SignFazitSmall}{\SignFazit}
+\DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
+\DeclareRobustCommand{\SignFazitSmall}{\scalefont{0.7}\SignFazit}
 
 % \DeclareRobustCommand{\SignLeitsatz}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{L}}}
-\DeclareRobustCommand{\SignLeitsatz}{\SignFazit}
-\DeclareRobustCommand{\SignLeitsatzSmall}{\SignFazit}
+\DeclareRobustCommand{\SignLeitsatz}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
+\DeclareRobustCommand{\SignLeitsatzSmall}{{\scalefont{0.7}\SignLeitsatz}}
 
 % \DeclareRobustCommand{\SignFigure}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{A}}}
 % \DeclareRobustCommand{\SignFigureSmall}{{\scalefont{0.7}\SignFigure}}
 \DeclareRobustCommand{\SignFigure}{{\noindent\color{DefaultB}\BigSquare\llap{{\VarIceMountain}}}}
 \DeclareRobustCommand{\SignFigureSmall}{{\SignFigure}}
 
-% \DeclareRobustCommand{\SignMassnahme}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{M}}}
-% \DeclareRobustCommand{\SignMassnahmeSmall}{{\scalefont{0.7}\SignMassnahme}}
-
-\DeclareRobustCommand{\SignMassnahme}{{\noindent\color{Indigo}\dsmedical}}
-\DeclareRobustCommand{\SignMassnahmeSmall}{{\SignMassnahme}}
+\DeclareRobustCommand{\SignMassnahme}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{M}}}
+\DeclareRobustCommand{\SignMassnahmeSmall}{{\scalefont{0.7}\SignMassnahme}}
 
 % \DeclareRobustCommand{\SignMassnahme}{{\noindent\color{DefaultB}\BigSquare\llap{{\sffamily\scalefont{0.9}M}}}}
 % \DeclareRobustCommand{\SignMassnahmeSmall}{{\SignMassnahme}}
@@ -636,14 +659,17 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 
 % Test PLAYGROUND
 
-\newcommand{\FullRef}[1]{{\ref{#1} (S.\,\pageref{#1})}}
+\newcommand{\FullRef}[1]{{\ttfamily\ref{#1} (S.\,\pageref{#1})}}
 \newcommand{\FullPrettyRef}[1]{{\prettyref{#1}, Seite \pageref{#1}}}
 
 \newcommand{\TabItemI}[1]{\begin{inparaitem}\item #1 \end{inparaitem}}
 \newcommand{\TabItemII}[1]{\begin{inparaitem}\begin{inparaitem}\item#1\end{inparaitem}\end{inparaitem}}
 \newcommand{\TabItemIII}[1]{\begin{inparaitem}\begin{inparaitem}\begin{inparaitem}\item#1\end{inparaitem}\end{inparaitem}\end{inparaitem}}
 
-
+\setlength\columnsep{3em}
+\setlength\columnseprule{0.4pt}
+\setlength\premulticols{10\baselineskip}
+\renewcommand{\columnseprulecolor}{\color{DefaultGrey}}
 
 % \setkomafont{footnote}{\sffamily}
 \deffootnotemark{\textsuperscript{\sffamily\thefootnotemark}}
@@ -721,6 +747,3 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 \renewcommand{\FontTableBase}{\rmfamily}
 \renewcommand\TabHeading[1]{{\color{DefaultB}\textbf{#1}}}
 \renewcommand\TabSub[1]{{\bfseries #1}}
-
-
-\usetikzlibrary{shapes,calc}%Tbl of elements

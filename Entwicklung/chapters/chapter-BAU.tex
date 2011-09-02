@@ -40,7 +40,7 @@ Bild: Motal
 
 % \section{Blutdruck- und Herzfrequenzmessung}
 
-\label{topic:rr-messung}
+
 
 % Grundlagen
 % 
@@ -178,16 +178,17 @@ mittels Pulsoxymeter. Beim Puls fühlen wird für
 \EE{15~Sekunden} der Puls gefühlt und die Pulsschläge
 gezählt. Anschließend wird das Ergebnis \EE{mit vier
 multipliziert}, man erhält die Pulsschläge \EE{pro Minute}
-(\nicefrac{x}{min}). Neben der Frequenz wird auch die
+(\PerMin). Neben der Frequenz wird auch die
 Regelmäßigkeit beurteilt, das heißt ob der Puls \E{rhythmisch} oder \E{arrhythmisch} ist.
 
 Alternativ kann die Messung mittels des \E{Pulsoxymeters}
-erfolgen (\prettyref{topic:pulsoxymetrie}). Dabei misst ein
+erfolgen (\FullPrettyRef{topic:pulsoxymetrie}). Dabei misst ein
 Gerät die Herzfrequenz und zeigt diese an. Es ist jedoch zu
 beachten, dass bei Notfallpatienten die Pulsoxymetrie oft
 nicht funktioniert (z.\,B. Zentralisation bei Schock, kalte Finger,\ldots).
 
-Die Messung des Blutdrucks ist unter \prettyref{topic:rr-messung} beschrieben.
+Die Messung des Blutdrucks ist unter
+\FullPrettyRef{topic:rr-messung}, beschrieben.
 
 Bei der Messung der Atemfrequenz wird die Anzahl der Atemzüge pro Minute gezählt.\index{Atemfrequenz}
 }{
@@ -244,6 +245,7 @@ Schlägen pro Minute. Dokumentiert wird sie mit einem HF
 
 
 \subsection{Messung des Blutdrucks -- RR}
+\label{topic:rr-messung}
 \label{topic:blutdruckmessung}
 
 \Layout{0}{\TxBeschreibung}{
@@ -429,9 +431,9 @@ Riva-Rocci als \emph{"`RR-Messung"'}, bzw. der ermittelte Wert als \emph{"`RR"'}
 
 Bei der RR-Messung gibt es zwei Möglichkeiten zu
 einem Wert zu kommen. Die genauere ist die
-\EE{auskultatorische Methode} (durch hören von
+\EE{auskultatorische Methode} (durch Hören von
 Strömungsgeräuschen). Die zweite Möglichkeit ist die
-\EE{palpatorische Methode} (durch tasten des Pulses). 
+\EE{palpatorische Methode} (durch Tasten des Pulses). 
 
 \Fazit{Der diastolische Wert kann nur
 bei der auskultatorischen Methode ermittelt werden!} 
@@ -559,7 +561,7 @@ Die Blutdruckmanschette soll nach Möglichkeit \EE{\E{nicht} auf der Seite
 \begin{inparaenum}
 	\item eines \EE{Shuntarmes}\footnote{Ein (Dialyse-)\EE{Shunt} ist ein
 	künstlicher Kurzschluss zwischen einer Armarterie und einer Armvene. Dadurch wird
-		die Vene erweitert und sie pulsiert. Mann kann viel mehr
+		die Vene erweitert und sie pulsiert. Man kann viel mehr
 		Durchfluss für die Dialyse erreichen. Die Nahtstelle
 		zwischen Vene und Arterie ist jedoch sehr sensibel, wenn
 		gestaut wird kann sie aufplatzen $\rightarrow$ Gefahr
@@ -604,21 +606,35 @@ Pressure) abgekürzt. }{}{}{}{}
 \subsection{Pulsoxymetrie}
 \label{topic:pulsoxymetrie}
 
-
-Die Pulsoxymetrie als Untersuchung wird unter
-\prettyref{topic:pulsoxymetrie} genauer besprochen.
-
 % \subsubsection{Allgemein}
 
 \Layout{2}{\TxBeschreibung}
 {% 
-Die Pulsoxymetrie ist eine Untersuchungsmethode zur nicht invasiven Ermittlung
-der Sauerstoffsättigung des kapillären Blutes. Das Messprinzip basiert auf einer
-Messung \Z{der Lichtabsorption bzw. der Lichtremission} bei Durchleuchtung der
-Haut mittels eines Sensors bestehend aus einer Lichtquelle und einem Fotosensor.
-Als \EE{Messstelle} eignen sich meist leicht zugängliche Körperstellen
-(\E{Finger, Zeh, Ohrläppchen}) -- die Herstellerangaben über die Eignung des
-Sensors für die gewünschte Messstelle müssen jedoch beachtet werden. 
+Die Pulsoxymetrie ist eine einfache apparative Untersuchungsmethode zur nicht-invasiven 
+Ermittlung der Sauerstoffsättigung des kapillären
+Blutes, welche mit einem
+\E{Pulsoxymeter} durchgeführt wird. Sie dient zur nicht-invasiven Überwachung der
+\T{Sauerstoffsättigung} (\T{Sp\ce{O2}}) des
+Hämoglobins\footnote{Das Hämoglobin ist der für die
+Sauerstoffbindung verantwortliche Stoff in den roten
+Blutkörperchen (\prettyref{topic:haemoglobin}).} im
+kapillären
+Blut. Das Messprinzip basiert auf einer Messung \Z{der
+Lichtabsorption bzw. der Lichtremission} bei Durchleuchtung
+der Haut mittels eines Sensors bestehend aus einer
+Lichtquelle und einem Fotosensor. Auf diese Weise wird daVerhältnis der mit
+Sauerstoff beladenen roten Blutkörperchen zu den nicht
+beladenen bestimmt. 
+Als weiteren Wert zeigt das Pulsoxymeter die
+\EE{Pulsfrequenz} an.
+
+Als \EE{Messstelle} eignen
+sich meist leicht zugängliche Körperstellen (\E{Finger, Zeh,
+Ohrläppchen}) -- die Herstellerangaben über die Eignung des
+Sensors für die gewünschte Messstelle müssen jedoch beachtet
+werden.
+\cite{LoefflerBiochemie7,ArbeitstechnikenAZ1,Soehnke200607}
+
 }{}{}{}{}
 \Layout{0}{Gerätearten}
 {% 
@@ -655,13 +671,13 @@ Prinzipiell kann man zwei Sensorgrundarten unterscheiden:
   üblicherweise Klebesensoren für diverse meist exponierte
   Körperstellen (Finger, Zeh, Stirn, Nasenspitze) und oft nur
   in Abhängigkeit der Patientengruppe (Säuglinge, Kinder,
-  Erwachsene) zu verwenden. Zu Beachten ist neben den schon
+  Erwachsene) zu verwenden. Zu beachten ist neben den schon
   genannten Faktoren Messstelle und Patientengruppe auch noch
   das \E{Ablaufdatum} und die maximale Verwendungsdauer von
   Einmalsensoren, da der Hersteller nur bei richtigem Einsatz
   für ein brauchbares Ergebnis garantiert.
   \item \EE{Mehrwegsensoren} \ldots{} sind ebenso für
-  verschieden Körperstellen und in Abhängigkeit der
+  verschiede Körperstellen und in Abhängigkeit der
   Patientengruppe (Säuglinge, Kinder, Erwachsene) erhältlich.
 \end{itemize}
 }{
@@ -671,87 +687,31 @@ Prinzipiell kann man zwei Sensorgrundarten unterscheiden:
 \end{itemize}
 }{}{}{}
 
+\Layout{2}{Funktionsprüfung}
+{%
+Vor der Verwendung ist das jeweilige Gerät einer
+Sichtprüfung auf offensichtliche Schäden zu unterziehen
+(Gehäuse, Kabel, Sensor). Nach dem Einschalten ist der
+Selbsttest des Gerätes abzuwarten und der Batteriestand zu
+prüfen. Anschließend ist das Gerät im Selbstversuch zur
+Messung der eigenen Sauerstoffsättigung und der Pulsfrequenz
+zu verwenden. Nur bei entsprechenden Messwerten darf das
+Gerät zur Messung am Patienten verwendet werden.
+}{}{}{}{}
+
 \Layout{2}{Anwendung}
 {%
 Zur Anwendung am Patienten wird eine entsprechende Messstelle
 gesucht. Dabei ist besonders auf Nagellack, künstliche Nägel
 und Verschmutzung der Messstelle zu achten. Bei starker
 Verschmutzung muss die Messstelle zuerst entsprechend
-gereinigt werden. (z.B. Alkoholtupfer bei Fingern) Dann wird
+gereinigt werden (z.B. Alkoholtupfer bei Fingern). Dann wird
 das Gerät eingeschaltet und der Selbsttest abgewartet. Danach
 wird der Sensor an der entsprechenden Stelle platziert (meist
 Mehrwegsensoren für Erwachsene zur Verwendung an Fingern).
 Nach etwas Wartezeit können die Messwerte abgelesen werden.
 Es muss natürlich immer der klinische Zustand und die
 Anamnese mit in Betracht gezogen werden.
-}{}{}{}{}
-
-\Layout{2}{Funktionsprüfung}
-{%
-Vor der Verwendung ist das jeweilige Gerät einer Sichtprüfung auf offensichtliche Schäden zu
-unterziehen (Gehäuse, Kabel, Sensor). Nach dem Einschalten ist der Selbsttest des Gerätes
-abzuwarten und der Batteriestand zu prüfen. Anschließend ist das Gerät im Selbstversuch zur
-Messung der eigenen Sauerstoffsättigung und der Pulsfrequenz zu verwenden. Nur bei
-entsprechenden Messwerten darf das Gerät zur Messung am Patienten verwendet werden.
-}{}{}{}{}
-\Layout{2}{Hygienische Wiederaufbereitung}
-{%
-Die Hygienische Wiederaufbereitung muss immer nach Herstellerangaben erfolgen.
-Einmalsensoren sind nach der Messung zu entsorgen.
-Die meisten Geräte und Sensoren dürfen mittels \E{Wischdesinfektion mit
-Flächendesinfektionsmittel} aufbereitet werden. Die Geräte sind üblicherweise
-nicht wasserdicht, es darf kein Desinfektionsmittel in das Gerät gelangen. 
-}{}{}{}{}
-
-\Layout{2}{\TxGefahren}
-{%
-Die größte Gefahr ist die falsche Interpretation von
-Messwerten. Weiters sind manche Geräte \EE{nicht
-defibrillationssicher}, d.\,h. es können während und nach
-der Defibrillation falsche Werte angezeigt werden, das Gerät
-darf während der Defibrillation nicht berührt werden. Bei
-Mehrwegsensoren besteht das Risiko der Keimübertragung
-(Kreuzinfektion, \FullPrettyRef{topic:kreuzinfektion}).
-
-}{}{}{}{}
-
-\Layout{2}{\TxBeschreibung}
-{%
-Die Pulsoxymetrie ist eine einfache apparative
-Untersuchungsmethode, welche mithilfe eines
-\E{Pulsoxymeters} durchgeführt wird. 
-Sie dient zur nicht-invasiven Überwachung der
-\T{Sauerstoffsättigung} (\T{Sp\ce{O2}}) des
-Hämoglobins\footnote{Das Hämoglobin ist der für die
-Sauerstoffbindung verantwortliche Stoff in den roten
-Blutkörperchen (\prettyref{topic:haemoglobin}).} im
-kapillären
-Blut. Dies geschieht mittels Photorezeptoren und
-Infrarotlicht, mit deren Hilfe das Verhältnis der mit
-Sauerstoff beladenen roten Blutkörperchen zu den nicht
-beladenen bestimmt wird. 
-
-Als weiteren Wert zeigt das Pulsoxymeter die
-\EE{Pulsfrequenz} an.
-\cite{LoefflerBiochemie7,ArbeitstechnikenAZ1,Soehnke200607}
-
-}{
-% TODO Slide fehlt.
-}{}{}{}
-
-\Layout{2}{Durchführung}
-{%
-Es wird eine Klemme mit einer Lichtquelle
-und einem Sensor auf den Finger des Patienten
-geklippt. Das Licht wird vom
- Sensor aufgefangen, das Gerät kann aus den daraus gewonnenen Informationen auf den Sauerstoffgehalt des Blutes und die Pulsfrequenz schließen. 
-
-Dies setzt jedoch
-voraus, dass der Patient in der Peripherie über eine
-ausreichende Durchblutung verfügt, da das Gerät sonst keine
-Informationen gewinnen kann (mangels Blut zur
-Beurteilung). 
-}{}{}{}{}
 
 
 \Fazit{Eine ausreichende Blutversorgung der Körperstelle,
@@ -760,6 +720,7 @@ Pulsoxymetrie.}
 
 Das Pulsoxymeter eignet sich sehr gut für das Monitoring,
 ersetzt aber niemals das wachsame Auge auf den Patienten!
+}{}{}{}{}
 
 \Layout{0}{Ermittelte Werte}
 {%
@@ -767,7 +728,11 @@ Die Sauerstoffsättigung wird in Prozent
 angegeben und wird mit \T{Sp\ce{O2}} abgekürzt. Der Normalwert
 liegt zwischen \EE{\VonBis{96}{100}\PC*}. Bei Patienten mit
 COPD findet man jedoch oft sehr niedrige Werte (z.\,B.
-90\PC*), ohne dass die Patienten Beschwerden haben. }{
+90\PC*), ohne dass die Patienten Beschwerden haben. 
+
+\bigskip
+
+}{
 % TODO Slide fehlt.
 % \begin{itemize}
 %     \item \Z{Point}
@@ -783,22 +748,8 @@ COPD findet man jedoch oft sehr niedrige Werte (z.\,B.
 \Layout{2}{Beurteilung}
 {
 Bei der Interpretation des
-$SpO_2$ muss man sehr vorsichtig sein! Auch ein Normalwert bedeutet nicht, dass der Patient
-genug Sauerstoff hat, beziehungsweise, dass keine
-Sauerstoffgabe erfolgen soll. Die Sauerstoffgabe richtet
-sich immer nach dem klinischen
-Zustandsbild des Patienten und dessen Diagnose, und nur in
-Ausnahmefällen (z.\,B. Asthma bronchiale,
-\prettyref{topic:asthma-bronchiale}) nach dem
-Sp\ce{O2}-Wert. Der Sp\ce{O2}-Wert soll grundsätzlich im
-Verlauf beurteilt werden.
-\cite{Soehnke200607}
-
-\Fazit{Behandle den Patienten und nicht das Gerät!}
-
-
-
-Bei der Beurteilung des Wertes muss auch berücksichtigt
+Sp\ce{O2} muss man sehr vorsichtig sein! 
+Bei der Beurteilung des Wertes muss berücksichtigt
 werden, \E{ob und wieviel \EE{Sauerstoff} der Patient
 erhält}. Eine Sauerstoffsättigung von 95\PC* bei einem Patienten ohne
 zusätzliche Sauerstoffgabe ist nicht beunruhigend,
@@ -809,6 +760,23 @@ darstellt.
 \Fazit{Die Beurteilung der Sauerstoffsättigung muss
 berücksichtigen, ob und wieviel Sauerstoff der Patient
 erhält.} 
+% Auch ein
+% Normalwert bedeutet nicht, dass der Patient genug Sauerstoff hat, beziehungsweise, dass keine
+% Sauerstoffgabe erfolgen soll. Die Sauerstoffgabe richtet
+% sich immer nach dem klinischen
+% Zustandsbild des Patienten und dessen Diagnose, und nur in
+% Ausnahmefällen (z.\,B. Asthma bronchiale,
+% \prettyref{topic:asthma-bronchiale}) nach dem
+% Sp\ce{O2}-Wert. 
+Der Sp\ce{O2}-Wert soll außerdem auch im
+Verlauf beurteilt werden.
+\cite{Soehnke200607}
+
+\Fazit{Behandle den Patienten und nicht das Gerät!}
+
+
+
+
 }{
 % TODO Slide fehlt.
 }{}{}{}
@@ -818,26 +786,36 @@ erhält.}
 
 \Layout{0}{\TxGefahren{} und Fehlerquellen}
 {%
-Eine besondere Fehlerquelle ist die
-Kohlenmonoxid-(\ce{CO})-Vergiftung, bei ihr wird nicht nur
-der Patient schweinchenrosa obwohl er eigentlich zu wenig
-Sauerstoff hat, auch das Pulsoxymeter verwechselt
-Kohlenmonoxid mit Sauerstoff und zeigt falsch hohe Werte an!
+Die größte Gefahr ist die falsche Interpretation von
+Messwerten. 
 
-Voraussetzung für eine korrekte Messung ist eine ausreichende
-Durchblutung der entsprechenden Messstelle, z.\,B. durch Kälte,
-Schock oder auch eine Blutdruckmessung kann die Messung
-gestört oder unmöglich gemacht werden. Weitere Hindernisse
-sind z.\,B. kalte Finger (verringerte Durchblutung) oder
-Nagellack (Licht kann den Nagellack nicht durchdringen,
-bzw. dessen Farbe wird verfälscht.) Mit
-Nagellack-Entferner kann der Nagel eventuell
-gereinigt werden. Alternativ kann der Sensor auch
-um 90\Deg gedreht werden. 
+\begin{itemize}
+  \item Manche Geräte sind \EE{nicht
+  defibrillationssicher}, d.\,h. es können während und nach
+  der Defibrillation falsche Werte angezeigt werden, das Gerät
+  darf während der Defibrillation nicht berührt werden. Bei
+  Mehrwegsensoren besteht das Risiko der Keimübertragung
+  (Kreuzinfektion, \FullPrettyRef{topic:kreuzinfektion}).
+  \item Eine besondere Fehlerquelle ist die
+  \EE{Kohlenmonoxid-(\ce{CO})-Vergiftung}, bei ihr wird nicht
+  nur der Patient schweinchenrosa obwohl er eigentlich zu wenig
+  Sauerstoff hat, auch das Pulsoxymeter verwechselt
+  Kohlenmonoxid mit Sauerstoff und zeigt falsch hohe Werte an!
+  \item Voraussetzung für eine korrekte Messung ist eine
+  \EE{ausreichende Durchblutung} der entsprechenden
+  Messstelle, z.\,B. durch Kälte, Schock oder auch eine Blutdruckmessung kann die Messung
+  gestört oder unmöglich gemacht werden. Weitere Hindernisse
+  sind z.\,B. kalte Finger (verringerte Durchblutung) oder
+  \EE{Nagellack} (Licht kann den Nagellack nicht
+  durchdringen, bzw. dessen Farbe wird verfälscht.) Mit
+  Nagellack-Entferner kann der Nagel eventuell
+  gereinigt werden. Alternativ kann der Sensor auch
+  um 90\Deg gedreht werden.
+  \item Von der Seite \EE{einstrahlendes Licht} kann ebenso
+  das Ergebnis verfälschen, da es sich ja um eine lichtabhängige
+  Messmethode handelt.
+\end{itemize}
 
-Von der Seite einstrahlendes Licht kann ebenso das Ergebnis
-verfälschen, da es sich ja um eine lichtabhängige
-Messmethode handelt.
 }{
 \begin{itemize}
 	\item \ce{CO}-Vergiftungen (falsch hohe Werte)
@@ -847,6 +825,24 @@ Messmethode handelt.
 	\item Lichteinstrahlung von der Seite
 \end{itemize}
 }{}{}{}
+
+
+
+\Layout{2}{Hygienische Wiederaufbereitung}
+{%
+Die hygienische Wiederaufbereitung muss immer nach Herstellerangaben erfolgen.
+Einmalsensoren sind nach der Messung zu entsorgen.
+Die meisten Geräte und Sensoren dürfen mittels \E{Wischdesinfektion mit
+Flächendesinfektionsmittel} aufbereitet werden. Die Geräte sind üblicherweise
+nicht wasserdicht, es darf kein Desinfektionsmittel in das Gerät gelangen. 
+}{}{}{}{}
+
+
+
+
+
+
+
 
 % \subsubsection{Nellcor{\protect\texttrademark} NPB-40,
 % Nellcor{\protect\texttrademark} NPB-40 Oximax,
@@ -976,9 +972,7 @@ Notfallsymptome auftreten.
   \item Ein neuerlicher Piepton zeigt an, dass die Messung
   beendet wurde und der Wert vom Display abgelesen
   werden kann. 
-  \item Messstreifen entsorgen\footnote{Entsorgung gemäß
-  Abfallentsorgungsplan. \opt{ORGASBFLO}{\ASBFLO{} Der
-  Messstreifen kann in den normalen Müll entsorgt werden.}}.
+  \item Messstreifen entsorgen (normaler Restmüll).
 \end{enumerate}
 %\end{multicols}
 }{
@@ -1057,14 +1051,22 @@ verbunden. Im Rettungsdienst werden fast ausschließlich
 Klebeelektroden für den einmaligen Gebrauch verwendet. 
 
 \AuthNotes{GABS: Sollte im Defi-Teil durchgenommen
-werden?:} \Z{EKG -- Ablauf einer Erregung
+werden?:} 
 
-\begin{itemize}
+\Layout{22}{\Z{EKG -- Ablauf einer Erregung}}
+{\Z{\begin{itemize}
     \item P-Welle $\approx$ Vorhoferregung
     \item PQ-Zeit $\approx$ AV-Überleitung
     \item QRS-Komplex $\approx$ Kammererregung
     \item ST-Strecke + T-Welle $\approx$ Erregungsrückbildung
 \end{itemize}}
+}
+{}
+{./images/wikipedia-cc-by-sa/EKG_Komplex}
+{Eine elektrischer Herzaktion}
+{WMC:Hank, CC-BY-SA-2.0-DE}
+
+
 
 \Cave{Das EKG zeigt nur die \E{elektrische} Aktivität,
 nicht aber die tatsächliche Muskelarbeit an! 
@@ -1073,7 +1075,7 @@ nicht aber die tatsächliche Muskelarbeit an!
 keine Aussage über die Auswurfleistung! }}
 
 \Fazit{Grundsatz: \EE{Selbst ein pulsloser Patient kann ein
-"`schönes"' EKG haben (allerdings nicht lange)!}}
+"`schönes"' EKG haben} (allerdings nicht lange)!}
 
 \subsubsection{EKG -- Ableitungen}
 \label{topic:ekg-ableitungen}
@@ -1127,20 +1129,6 @@ EKG-Gerät \EE{sechs Ableitungen} \Z{(\EKG{I}, \EKG{II}, \EKG{III}, \EKG{aVL}, \
 }{}{}{}
 
 
-
-
-
-\begin{figure}[H]
-\begin{center}
-\includegraphics[width=7cm]{./images/geraete/ECGcolor.png}
-\Captionof{figure}{\AuthNotesPicLegalOk{}{PD}Extremitätenableitungen
-(schwarze Kabel) und Brustwandableitungen (blaue Kabel).
-\SourcePicture{WmCo/Madhero88, PD}\AuthNotes{GABS: Bessere Beschriftung wäre
-wünschenswert, Dringlichkeit: niedrig}}
-\end{center}
-\end{figure}
-
-
 \begin{table}[H]
 \FormatTable
 \Captionof{table}{Farbe und Positionen der EKG-Elektroden
@@ -1166,6 +1154,20 @@ Linke Leiste
 Rechte Leiste \\\bottomrule
 \end{tabular}
 \end{table}
+
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=7cm]{./images/geraete/ECGcolor.png}
+\Captionof{figure}{\AuthNotesPicLegalOk{}{PD}Extremitätenableitungen
+(schwarze Kabel) und Brustwandableitungen (blaue Kabel).
+\SourcePicture{WmCo/Madhero88, PD}\AuthNotes{GABS: Bessere Beschriftung wäre
+wünschenswert, Dringlichkeit: niedrig}}
+\end{center}
+\end{figure}
+
+
+
 
 \Layout{0}{Brustwandableitungen}
 {
@@ -1232,8 +1234,8 @@ wurde untersucht, wie sich die Anbringungsstelle der Elektroden auf das
 {\label{topic:untersuchung-abdomen-abtasten}
 Das Abdomen kann man abtasten um die Anspannung der
 Bauchdecke zu beurteilen, Schmerzen zu
-beurteilen und zuordnen, um Fremdkörper zu ertasten und
-anderes. Man beginnt damit, den Patienten zu fragen, ob und wo er 
+beurteilen und zuordnen und um Fremdkörper zu ertasten.
+Man beginnt damit, den Patienten zu fragen, ob und wo er 
 Schmerzen hat. Die Untersuchung
 beginnt man in jenem Quadranten, welcher am weitesten von den
 Schmerzen entfernt ist!
@@ -1513,9 +1515,9 @@ durchgeführt.
   \end{itemize}
   \item Durchblutung, Motorik, Sensibilität (\T{DMS})
   \begin{itemize}
-    \item Finger und Zehen: Kontrolle von \E{Motorik}
+    \item \label{topic:dms} Finger und Zehen: Kontrolle von \E{Motorik}
     (bewegen lassen), \E{Sensibilität} (\Speech{"`Spüren Sie das?"'})
-    und \E{Durchblutung}:
+    und \E{Durchblutung} 
     \item \T{Nagelbettprobe} (\EE{Rekapillarisierungszeit}): leichter Druck auf
     Nagelende bis Nagelbett weiß ist, loslassen. Zeit bis Nagelbett wieder
     rosarot ist sollte nicht länger als \VonBis{1}{2} Sekunden sein.

@@ -65,7 +65,7 @@ Lk 10,25-37}
 \section{Herz-Kreislaufstörungen}
 
 Herz-Kreislauferkrankungen sind die häufigste
-Todesursache.~\footnote{Statistik Austria, Pressemitteilung
+Todesursache.\footnote{Statistik Austria, Pressemitteilung
 9.691-133/10; Statistisches Bundesamt Deutschland,
 Pressemitteilung Nr.344 vom 15.09.2009} Fast jeder zweite
 Todesfall geht auf eine Erkrankung des
@@ -164,8 +164,9 @@ Dekompensierte Herzinsuffizienz, kard. Lungenödem
 
 Der Herz-Kreislauf-Stillstand wird
 unter
-\prettyref{topic:kreislaufstillstand}
-und \prettyref{topic:reanimation-eh} besprochen.
+\FullRef{topic:kreislaufstillstand},
+\FullRef{topic:reanimation-eh}, und
+\prettyref{chp:BLS} und \prettyref{chp:BLS} besprochen.
 
 
 
@@ -381,8 +382,8 @@ besprochen.
 \label{topic:rechtsherzinsuffizienz}\index{Rechtsherzinsuffizienz}\index{Herzinsuffizienz!Rechts-}
 \index{Insuffizienz!Rechtsherz-}%
 Die Rechtsherzinsuffizienz entsteht aufgrund mangelnder
-Auswurfleistung des rechten Herzens. Demensprechend kommt es
-zu einem Rückstau des Blutes in den Körperkreislauf und
+Auswurfleistung des rechten Herzens. Dementsprechend kommt
+es zu einem Rückstau des Blutes in den Körperkreislauf und
 damit zu Ödemen (Beine, \ldots) und gestauten Halsvenen.
 
 Die Patienten müssen häufig nachts urinieren. \Z{Über längere
@@ -465,7 +466,7 @@ ist.}
 
 
 
-% \clearpage
+\clearpage % TODO temp clearpage
 \subsection{Koronare Herzkrankheit und Akutes Koronarsyndrom}
 \index{Koronare Herzkrankheit}
 \index{Herzkrankheit!Koronare}
@@ -555,7 +556,7 @@ Es sind \E{zwei Auslösemechanismen} möglich:
   \item Einerseits kann eine Minderdurchblutung des Herzmuskels (Myokard)
   aufgrund einer oder mehrerer \E{Einengung(en) von Herzkranzgefäßen}
   (Koronararterien) die Ursache sein, oder 
-  \item es kommt zu einem \E{Erhöhtem Sauerstoffbedarf} des Herzens bei
+  \item es kommt zu einem \E{erhöhtem Sauerstoffbedarf} des Herzens bei
   Anstrengung.
 \end{inparaitem}
 
@@ -800,7 +801,8 @@ Syndrome, \Abk{ACS}.} gesprochen.
 {%
 \begin{itemize}
     \item Lagerung: Oberkörper hoch
-    \item \ce{O2} 8\LPerMin* 
+    \item \ce{O2}: Sp\ce{O2} von
+  \VonBis{94}{98}\PC*
   \item Bewegungensverbot, Schonung
   \item Bestmögliches Monitoring
   \item \II{Nitro-Spray}: Manche Patienten haben einen
@@ -819,13 +821,14 @@ Syndrome, \Abk{ACS}.} gesprochen.
 }
 
 \MassnahmenNG{Spezielle Maßnahmen}{Akutes Koronarsyndrom}
-{\label{m:akutes-koronarsyndrom-beschwerdefrei}}
+{\label{m:akutes-koronarsyndrom}}
 {%
 \begin{itemize}
   \item \TxMassVitBes .
   \begin{itemize}
     \item Lagerung: Oberkörper hoch.
-    \item \ce{O2} 10\LPerMin*, bei Bedarf bis zu 15\LPerMin* .
+    \item \ce{O2}: Sp\ce{O2} von
+  \VonBis{94}{98}\PC*
   \end{itemize}
   \item \EE{Striktes Bewegungsverbot!}
   \item \II{Nitro-Spray}: Manche Patienten haben einen
@@ -844,6 +847,7 @@ Syndrome, \Abk{ACS}.} gesprochen.
   Intensivstation, \Z{Chest-Pain-Unit zur Überwachung}
 \end{itemize}
 
+\cite{AsboeLehrmeinungRd2011-04}
 \Commentary[Akutes Koronarsyndrom, Nitro-Spray] {Die
 Empfehlung, den Patienten \EE{seinen} Nitro-Spray weiterhin
 \EE{selbstständig} nehmen zu lassen, ist im Konsens
@@ -922,7 +926,7 @@ meint "`es sei eh nicht dringend"' unbedingt
 einen Notarzt beiziehen.
 }
 
-
+\bigskip
 
 \subsection{Herzrhythmusstörungen}
 \label{topic:herzrhythmusstoerungen}
@@ -1096,7 +1100,7 @@ Von symptom-/bedeutungslos bis lebensbedrohlich
 
 
 \Layout{0}{Kammerflimmern}
-{\Ca{Reanimationspflichtig}. 
+{\Ca{Reanimationspflichtig!}. 
 \index{Kammerflimmern|TLike}
 \label{topic:kammerflimmern}
 %
@@ -1139,7 +1143,7 @@ ${\rightarrow}$ \EE{keine Auswurfleistung}.
 
 
 \Layout{0}{Asystolie}
-{\Ca{Reanimationspflichtig}. 
+{\Ca{Reanimationspflichtig!}. 
 \index{Asystolie|TLike}
 \label{topic:asystolie}
 
@@ -1524,7 +1528,7 @@ massive Auswirkungen haben. Im Herz führt es zur \E{Angina
 Pectoris} oder zum \E{Herzinfarkt}, im Hirn zu
 \E{Schlaganfällen}, in den Nieren zu einer
 \E{Niereninsuffizienz}, usw. Selbst große Gefäße wie die
-Hauptschlagader (Aorta) können derartig geschädigt werden
+Hauptschlagader (Aorta) können derartig geschädigt werden,
 dass sie reißen können (Aortenaneurysma) --- eine für den
 Patienten sehr lebensgefährliche Komplikation.
 
@@ -1591,7 +1595,7 @@ ist.
 
 Wenn Symptome wie Kopfschmerzen, Schwindel und Übelkeit,
 Brustschmerzen, Sehstörungen, etc. auftreten, ist dies ein
-zeichen für die bludruckbedingte Störung von Organen
+Zeichen für die blutdruckbedingte Störung von Organen
 (\E{Organstörungen}). Diese Symptome einer Organstörung sind
 typische Leitsymptome für einen \E{hypertensiven
 \EE{Notfall}}.
@@ -1602,6 +1606,7 @@ S. \prettyref{tab:hxpertension-krise-notfall}.
 
 \Layout{57}{}{}{}{
 \begin{tabularx}{\textwidth}{XX}
+\toprule\addlinespace
 \noindent\TabHeading{Hypertensive Krise}
 &
 \noindent\TabHeading{Hypertensiver Notfall}
@@ -1662,7 +1667,7 @@ entscheidendes Kriterium.
 
 
 
-\MassnahmenNG{Spezielle Maßnahmen}{Hypertensive Krise}{}
+\MassnahmenNG{Spezielle Maßnahmen}{Hypertensive Krise}{\label{m:hypertensive-krise}}
 {%
 \begin{itemize}
   \item Lagerung: Oberkörper hoch
@@ -1675,7 +1680,7 @@ entscheidendes Kriterium.
 Eine notfallmäßige Blutdrucksenkung ist \E{nicht}
 erforderlich. }
 
-\MassnahmenNG{Spezielle Maßnahmen}{Hypertensiver Notfall}{}
+\MassnahmenNG{Spezielle Maßnahmen}{Hypertensiver Notfall}{\label{m:hypertensiver-notfall}}
 {
 \begin{itemize}
   \item \TxMassVitBes
@@ -1688,14 +1693,18 @@ erforderlich. }
 Eine frühzeitige Blutdrucksenkung 
 \E{ist} notwendig. 
 
-\ASBFLO{\Abk{NFS} dürfen lt.
-Algorithmus Nitrolingual-Spray verabreichen. Ist die Gabe
+\Customized{
+\begin{description}
+  \item[\CustAsbLvWien, \CustAsbFlo] \Abk{NFS} dürfen lt.
+Algorithmus Nitro-Spray verabreichen. Ist die Gabe
 erfolgreich, kann u.\,U. von der Anforderung eines Notarztes
-abgesehen werden.}
+abgesehen werden.
+\end{description}
+}
 }
 
 
-
+\bigskip
 
 \subsection{Gefäßaussackungen: Aneurysmen}
 \label{topic:aneurysma}
@@ -1748,6 +1757,7 @@ Aneurysma präklinisch zu diagnostizieren. Im Vordergrund
 steht der Volumenverlust und der entstehende hypovolämische
 Schock. 
 
+\bigskip
 
 % \clearpage
 \subsection{Gefäßverschlüsse in den Extremitäten}
@@ -1813,7 +1823,7 @@ verändern sich auch sonst nicht zu ihrem Vorteil.
 
 
 \Layout{0}{pAVK}{
-Wenn die Gefäße nur verengt sind spricht man von
+Wenn die Gefäße nur verengt sind, spricht man von
 der \EE{peripheren
 arteriellen Verschluss\-krankheit}, abgekürzt \T{paVK}. Sie ist eine
 häufige chronische Erkrankung, die man oft in Arztbriefen oder auf
@@ -1838,7 +1848,7 @@ Extremität mit sauerstoffreichem Blut: sie ist blass,
 kalt, tut höllisch weh und die Rekap-Zeit ist nicht
 mehr sinnvoll messbar. Zusätzlich wird die Extremität
 gefühllos und gelähmt. Der Patient kann ein Kribbeln
-empfinden (\E{"`Ameisenlaufen"'}. Tabelle \ref{tab:5p}
+empfinden (\E{"`Ameisenlaufen"'}). Tabelle \ref{tab:5p}
 listet die klassischen Symptome auf \Z{(die \emph{"`5
 englischen P's"'})}.
 
@@ -1944,14 +1954,13 @@ In der Regel ist nur eine Extremität betroffen, d.h. die
 Symptome sind nur auf \E{einer Seite} zu finden.
 \bigskip
 
-\bigskip
+% \bigskip
 }{
 \begin{itemize}
-  \item Schmerzen
-  \item Schwellung
+  \item Schmerzen, Schwellung
   \item Dunkel-bläuliche (livide) Verfärbung. 
   \item Überwärmung
-  \item Symptome i.\,d.\,R. \E{einseitig}, \E{Seitenvergleich} beachten!
+  \item Symptome i.\,d.\,R. \E{einseitig}
 \end{itemize}
 }{}{}{}
 
@@ -1959,12 +1968,12 @@ Symptome sind nur auf \E{einer Seite} zu finden.
 {
 Es kann zu einer \E{Loslösung von Teilen des Thrombus}
 kommen, dieser losgelöste Teil wird
-\T{Embolus}\index{Embolus} genannt. Mit dem Blutstrohm
+\T{Embolus}\index{Embolus} genannt. Mit dem Blutstrom
 gelangt der Embolus über die Hohlvenen in das rechte Herz.
 Bis hierhin gibt es noch keine Probleme, da die Blutgefäße
-an die Dicke zunehmen. Vom rechten Herzen gelangt der
-Embolus jedoch in den Lungenkreislauf (Lungenarterien). Hier
-verzweigen sich die Geäße jedoch wieder und der Durchmesser
+an Dicke zunehmen. Vom rechten Herzen gelangt der
+Embolus in den Lungenkreislauf (Lungenarterien). Hier
+verzweigen sich die Geäße wieder und der Durchmesser
 wird kleiner. Dies führt dazu, dass der Embolus irgendwann
 zu groß ist und stecken bleibt. Dadurch wird nun ein 
 Lungengefäß verstopft und ein Teil der Lunge nimmt nicht
@@ -1981,22 +1990,22 @@ mehr am Gasaustausch teil: Es entsteht eine
 
 
 
-\begin{figure}
+\begin{figure}[H]
 \begin{WidePar}
 \Captionof{figure}{Bilderserie: Thromboserisiken}
 
 \subfloat[Die Economyclass. Sorgsam geschlichtet verbringen Menschen
 hier Stunden damit, Thrombosen zu basteln.
-\SourcePicture{Gabriel}]{\includegraphics[width=0.35\linewidth]{./images/economyclass.jpg}}
+\SourcePicture{Gabriel}]{\includegraphics[width=0.32\linewidth]{./images/economyclass.jpg}}
 \hfill
 \subfloat[Throm\-bose\-prophy\-laxe. \Z{Niedermolekulares Heparin
 (hier "`Lovenox\texttrademark") verhindert Thrombosen die z.\,B. durch lange
 Immobilisation (Reisen, Bett\-lägrig\-keit, Gips, \ldots)
 entstehen können. Die Substanz wird unter die Haut ("`subkutan"') gespritzt.
-\SourcePicture{Gabriel}}]{\includegraphics[width=0.35\linewidth]{./images/lovenox1.jpg}}
+\SourcePicture{Gabriel}}]{\includegraphics[width=0.32\linewidth]{./images/lovenox1.jpg}}
 \hfill
 \subfloat[Eine Venenthrombose kann eine Embolie auslösen. 
-\SourcePicture{Hirtler}]{\includegraphics[angle=90,width=0.35\linewidth]{./images/hirtler-aass/Thrombus-Embolie.pdf}}
+\SourcePicture{Hirtler}]{\includegraphics[angle=90,width=0.32\linewidth]{./images/hirtler-aass/Thrombus-Embolie.pdf}}
 \end{WidePar}
 \end{figure}
 
@@ -2012,6 +2021,7 @@ entstehen können. Die Substanz wird unter die Haut ("`subkutan"') gespritzt.
 \end{itemize}
 }
 
+\clearpage % TODO temp clearpage
 \section{Respiratorische Notfälle}
 \label{topic:respiratorische-notfaelle}
 
@@ -2021,12 +2031,13 @@ entstehen können. Die Substanz wird unter die Haut ("`subkutan"') gespritzt.
 % 
 % \end{center}
 
-\minisec{Querverweise}
-
-\begin{inparaitem}
-  \item Lungenentzündung (Pneumonie): \prettyref{topic:pneumonie}
-  \item Tuberkulose: \prettyref{topic:tuberkulose}
-\end{inparaitem}
+\Layout{2}{{\TxQuerverweise}}{%
+\begin{itemize}
+  \item Lungenentzündung (Pneumonie): \dotfill \FullPrettyRef{topic:pneumonie}
+  \item Tuberkulose:
+  \dotfill \FullPrettyRef{topic:tuberkulose}
+\end{itemize}
+}{}{}{}{}
 
 
 
@@ -2087,25 +2098,33 @@ Man unterscheidet zwischen einer \EE{schweren} und einer
 \EE{milden Atemwegsverlegung}
 \citep{Erc2005Sec2,Erc2005Sec6,Erc2005DeSec2,Erc2005DeSec6}.
 
-\subparagraph{Schwere Verlegung}
+\EE{Schwere Verlegung}:
 Bei einer schweren Verlegung der Atemwege ist der Patient 
 \EE{unfähig zu reden oder effektiv zu husten}. Eventuell kann
-er nur durch Nicken oder Gesten kommunizieren. In besonders
+er nur durch Nic\-k\-en oder Gesten kommunizieren. In besonders
 schweren Fällen kann es zu einem \EE{Atemstopp} und nach
 kurzer Zeit zu einer \EE{Bewusstlosigkeit}, gefolgt von einem
 \EE{Kreislaufstillstand} kommen.
 
 
-\subparagraph{Milde Verlegung} Bei der milden Verlegung kann
+\EE{Milde Verlegung}: Bei der milden Verlegung kann
 der Patient noch sprechen und atmen. Er klagt meist über
-Atemnot und ein Fremdkörpergefühl, oft versucht er zu Husten
+Atemnot und ein Fremdkörpergefühl, oft versucht er zu husten
 oder zu würgen. Oft ist auch ein pfeifendes Atemgeräusch
 während der Ein- und/oder Austamung zu hören
 (in-/exspiratorischer \E{Stridor}).
 
-\Fazit{Die (Un-) Fähigkeit zu sprechen und zu husten ist das
-wesentliche Kriterium um die Schwere einer Atemwegsverlegung
-einzuschätzen.}
+\bigskip
+
+\bigskip
+
+\bigskip
+
+\bigskip
+
+\bigskip
+
+\bigskip
 }{
 \begin{itemize}
   \item Schwere Verlegung:
@@ -2128,6 +2147,15 @@ einzuschätzen.}
 proper technique for treating a choking victim with the assistance of Hospital
 Corpsman Second Class Ross Francis. Amanda M. Woodhead, USMC / WmCo, PD.}
 
+\Fazit{Die (Un-) Fähigkeit zu sprechen und zu husten ist das
+wesentliche Kriterium um die Schwere einer Atemwegsverlegung
+einzuschätzen.}
+
+\Layout{2}{Schläge zwischen die Schulterblätter}
+{%
+Durch kräftige Schläge auf den Rücken zwischen die Schulterblätter kann  ein
+festsitzender Fremdkörper evtl. gelockert und ausgehustet werden.}
+{}{}{}{}
 
 
 \Layout{20}{Heimlich-Manöver}
@@ -2139,7 +2167,7 @@ durch den entstandenen Überdruck aus den Atemwegen zu
 entfernen.
 
 Der Helfer umfasst von hinten den Oberbauch des Patienten und
-bildet mit der einen Hand eine Faust und unschliesst diese
+bildet mit der einen Hand eine Faust und umschliesst diese
 mit der anderen Hand. Nun legt er die Faust unterhalb der
 Rippen und des Brustbeins an und zieht sie dann ruckartig
 gerade nach hinten zu sich.
@@ -2168,11 +2196,6 @@ Capt. John T. Stamm, USAF / WmCo, PD.}
  
 
  
-\Layout{2}{Schläge zwischen die Schulterblätter}
-{%
-Durch kräftige Schläge auf den Rücken zwischen die Schulterblätter kann  ein
-festsitzender Fremdkörper evtl. gelockert und ausgehustet werden.}
-{}{}{}{}
 
 
 \MassnahmenWide{Spezielle Maßnahmen}{Mechanische Atemwegsverlegung}{}
@@ -2287,7 +2310,7 @@ Patienten eine Allergie verursacht auch einen Asthmaanfall
 auslösen (Pollen, Gräser, Katzen, Zigarettenrauch, \ldots). 
 
 Ist bei Eintreffen des Rettungsdienstes noch keine
-Besserung der Atemnot eingetreten ist diese Atemnot als
+Besserung der Atemnot eingetreten, ist diese Atemnot als
 massiv und lebensbedrohend einzuschätzen. Es ist nicht
 damit zu rechnen, dass der Zustand von alleine wieder
 vergeht und bedarf einer medikamentösen Behandlung durch einen
@@ -2311,7 +2334,7 @@ Stridor}) wahrnehmbar. Die Exspiration ist ausserdem
 verlängert. Trockener Husten ist häufig.
 
 Der Patient nimmt meist automatisch und unbewusst eine
-Position ein die seine Atemhilfsmuskulatur unterstützt: Er
+Position ein, die seine Atemhilfsmuskulatur unterstützt: Er
 sitzt aufrecht und stützt sich oft nach vorne oder hinten
 ab.
 
@@ -2391,7 +2414,8 @@ asthmaticus kann tödlich enden.
 
 
 
-\MassnahmenNG{Spezielle Maßnahmen}{Akuter Asthmaanfall}{}{
+\MassnahmenNG{Spezielle Maßnahmen}{Akuter Asthmaanfall}
+{\label{m:asthmaanfall}}{
 Einschätzen der vitalen Bedrohung.
 
 \EE{\TxBeiVit} \TxMassVitBes
@@ -2406,24 +2430,26 @@ Einschätzen der vitalen Bedrohung.
 \begin{itemize}
   \item Lagerung: Oberkörper hoch, evtl. abstützen
   lassen (Atemhilfsmuskulatur unterstützen)
-  \item \ce{O2} bis eine Sauerstoffsättigung von 95\PC*
-  erreicht ist, \EE{nicht mehr!} Wenn keine Pulsoxymetrie
-  vorhanden ist 8\LPerMin*. \Commentary[Asthma, Sauerstoffgabe]{\Speech{Asthma:
-  \protect\ce{O2} bis eine Sauerstoffsättigung von 95\PC*
-  erreicht ist, oder 8\LPerMin* :} Diese Empfehlung ist
-  nicht als streng, sondern als Richtwert zu betrachten; die
-  einschlägige Literatur ist widersprüchlich. Besonderes
-  betont muss die Notwendigkeit zur Überwachung des
-  Patienten bezüglich Bewusstsein(sstörungen) und Atmung
+  \item \ce{O2} bis Sp\ce{O2}) von
+\EE{\VonBis{94}{98}\PC*}
+
+Wenn keine Pulsoxymetrie
+  vorhanden ist, Richtwert 8\LPerMin*. \Commentary[Asthma,
+  Sauerstoffgabe]{Asthma: \protect\ce{O2} bis eine Sauerstoffsättigung von \VonBis{94}{98}\PC*
+  erreicht ist, oder 8\LPerMin*, gem.
+  \cite{AsboeLehrmeinungRd2011-11}. Die einschlägige
+  Literatur ist widersprüchlich. Besonderes betont muss die Notwendigkeit zur Überwachung des
+  Patienten bezüglich Bewusstseinsstörungen und Atmung
   werden!)}
   
-  \Ca{\mdseries Achtung: In seltenen Fällen
+  {Achtung: In seltenen Fällen
   kann es vorkommen, dass bei hochdosierter
-  Sauerstoffgabe der Patient zu atmen aufhört! Siehe "`\Abk{COPD}"'
-  (\prettyref{topic:copd}). Bei sorgfältiger Überwachung
-  des Patienten stellt die \ce{O2}-Gabe in der Praxis
-  jedoch kein Problem
-  dar\citep{ScholzNotfallmedizin2}.}
+  Sauerstoffgabe der Patient weniger atmet und
+  Bewusstseinsstörungen auftreten (\ce{CO2}-Narkose)! Siehe
+  "`\Abk{COPD}"' (\prettyref{topic:copd}). Bei sorgfältiger
+  Überwachung des Patienten stellt die \ce{O2}-Gabe in der
+  Praxis jedoch kein Problem
+  dar \citep{ScholzNotfallmedizin2}.}
   \item Vitalwerte erheben \& Monitoring
   \item Beruhigen, voratmen, durch fast
   geschlossene Lippen ausatmen lassen (Lippenbremse)
@@ -2441,6 +2467,7 @@ Einschätzen der vitalen Bedrohung.
   Schleimhautresorption nicht gegeben werden.}
 \end{itemize}
 
+\cite{AsboeLehrmeinungRd2011-11}
  }
 
 \Layout{22}{}
@@ -2489,7 +2516,7 @@ Chronisch entzündliche Schleimhautschädigung  der Atemwege.}
 \T[Lungenerkraknkung!chronisch-obstruktive]{Chronisch-obstruktive
 Lungenerkrankung}\ZFootnote{\Lang{engl.} Chronic
 obstructive pulmonary disease\index{Chronic
-obstructive pulmonary disease|Z}}. Chronisch-entzündliche
+obstructive pulmonary disease|Z}}. \\Chronisch-entzündliche
 Schleimhautschädigung, welche durch inhalative Noxen verursacht wird und im Verlauf eine zunehmende obstruktive Atemwegseinschränkung aufweist.}
 
 Am Anfang steht die chronische Bronchitis, welche durch
@@ -2704,7 +2731,7 @@ einer \E{Tachykardie} und Angstgefühlen.
 Eine Lungenembolie kann man leicht mit einem Herzinfarkt
 oder Angina pectoris verwechseln. Dies hat aber bei der
 Erstversorgung kaum Konsequenz, die Maßnahmen sind
-anfänglich die Gleichen.
+anfänglich die gleichen.
 
 
 }{
@@ -2825,11 +2852,11 @@ Aufgrund der Druckerhöhung tritt Flüssigkeit in das Gewebe
 über, es bilden sich Ödeme im Gewebe bzw.
 \EE{Flüssigkeitsansammlungen} in den Alveolen. Auslöser kann
 zum Beispiel ein Herzinfarkt sein, der die Funktion des
-Hermuskels massiv in MItleidenschaft zieht.
+Hermuskels massiv in Mitleidenschaft zieht.
 
 Beim \EE{toxischen  Lungenödem} kommt es aufgrund reizender
 Stoffe zu einer \EE{Entzündung}, und damit zu einem
-\EE{Flüssigkeitsaustritt}, im Lungengewebe.
+\EE{Flüssigkeitsaustritt} im Lungengewebe.
 
 In beiden Fällen behindert die Flüssigkeit den
 \EE{Gasaustausch} massiv, beim kardialen Lungenödem kommt
@@ -3046,8 +3073,8 @@ ein typisches Beispiel dafür
   \item Psychische Betreuung: Patient beruhigen, mit ruhiger, langsamer Stimme
   mit dem Patienten sprechen
   \item Kommandoatmung
-  \item \ce{CO2}-Rückatmung: In ein Plastiksackerl über kurze Zeit Ein- und
-  Ausatmen lassen. Ebenso eignet sich eine \EE{\ce{O2}-Maske mit Reservoir} oder ein (puderfreier) 
+  \item \ce{CO2}-Rückatmung: In ein Plastiksackerl über kurze Zeit ein- und
+  ausatmen lassen. Ebenso eignet sich eine \EE{\ce{O2}-Maske mit Reservoir} oder ein (puderfreier) 
   Handschuh.
   \item Grundsätzlich sollte kein \ce{O2}  verabreicht werden. Aus
   psychologischen Gründen kann es jedoch sinnvoll sein \EE{\ce{O2} in geringer
@@ -3821,7 +3848,7 @@ Zellen aufgenommen wird.
 
 Wenn man künstlich Insulin spritzt, besteht die Gefahr eines
 Unterzuckers (zu viel Insulin gespritzt oder zu wenig
-gegessen ${\rightarrow}$  Spritz\,--\,Essabstand).
+gegessen ${\rightarrow}$  Spritz\,--\,Essabstand)
 er\-fra\-gen.
 }{
 
@@ -3834,7 +3861,7 @@ Zwei Störungen sind möglich:
 
 \begin{enumerate}
   \item Es wird zu wenig Insulin gebildet.
-  \item Der Körper hat einen gesteigerten Bedarf an Insulin
+  \item Der Körper hat einen gesteigerten Bedarf an Insulin,
   weil er schon zu sehr daran gewöhnt ist. Der Körper
   reagiert auf die 'normale' Dosis nicht mehr so wie er
   sollte, er braucht größere Mengen Insulin um den gleichen
@@ -3870,7 +3897,7 @@ Folglich unterscheidet man 2 Typen:
   Körper produzierten Insulins \Z{(Insulinresistenz)}. Als
   Folge muss der Körper immer mehr Insulin produzieren um
   den gleichen Effekt zu erreichen. Wenn das
-  Produktionslimit erreicht ist kommt es zu einer Erhöhung
+  Produktionslimit erreicht ist, kommt es zu einer Erhöhung
   des Blutzuckerspiegels und zum Typ-II-Diabetes.
   
   Der Patient mit Typ-II-Diabetes benötigt oft kein Insulin.
@@ -4073,7 +4100,7 @@ Diagnosen!}}
 {%
 Eine Erhöhung des Blutzuckerspiegels ist nicht automatisch
 ein Notfall. Die Bedrohlichkeit ist z. B. stark davon
-abhängig wie rasch sich diese Erhöhung entwickelt hat. So
+abhängig, wie rasch sich diese Erhöhung entwickelt hat. So
 hat ein Patient, bei dem seit Jahren ein unerkannter
 Diabetes mellitus besteht auch mit sehr hohen
 Blutzuckerwerten (akut) keine Probleme. Der Körper hat sich
@@ -4154,8 +4181,8 @@ Veschlechterung ist je nach Patient sehr unterschiedlich.
 \Z{Wie oben bereits beschrieben wurde, kann es sowohl zu
 einem Problem des Flüssigkeitshaushaltes und/oder der
 Nährstoffversorung der Zellen kommen. Je nachdem welches
-Problem im Vordergrund steht, kommt es zu}
-\E{unterschiedlichen Symptomen}.
+Problem im Vordergrund steht, kommt es zu \E{unterschiedlichen Symptomen}.}
+
 
 Ist vorwiegend der Flüssigkeitshaushalt gestört kommt es zum
 sog. \Z{Hyperosmolaren Koma}, dessen Leitsymptom
@@ -4163,7 +4190,7 @@ erwartungsgemäß die Bewusstseinsstörung ist.
 
 Steht der Nährstoffmangel im Vordergrund passiert etwas
 Interessantes: Der Körper produziert sog. \Z{Ketonkörper}. Da
-diese \E{sauer} sind kommt es zu einer stoffwechselbedingten
+diese \E{sauer} sind, kommt es zu einer stoffwechselbedingten
 Übersäuerung (metabolische \EE{Azidose}
 \prettyref{topic:azidose-metabolische}).
 
@@ -4423,17 +4450,15 @@ rasche (spitalsmäßige) Behandlung.
 {%
 Der Patient liegt meistens im Bett. Oft ist eine
 Schonhaltung (angezogene Beine, gekrümmte Körperhaltung) zu
-beobachten. Er klagt über Schmerzen im Bauch die können als
-diffus (im gesamten Bauch) oder auf ein Bauchsegment
+beobachten. Er klagt über \EE{Schmerzen} im Bauch die können
+als diffus (im gesamten Bauch) oder auf ein Bauchsegment
 beschränkt, angegeben werden.
 
-Die harte Bauchdecke ("`\E{bretthart}"') ist neben den
+Die \EE{harte Bauchdecke} ("`\E{bretthart}"') ist neben den
 Schmerzen das Leitsymptom des Akuten Abdomens.
-
 Es besteht oft Übelkeit oder auch Erbrechen. Der Kreislauf
 kann kompensiert sein, oder Zeichen von Schwäche zeigen, bis
 hin zu einer Schocksymptomatik (Blutverlust, Sepsis).
-
 Weitere Symptome sind abhängig von der zu Grunde liegenden
 Erkrankung. 
 } 
@@ -5111,7 +5136,7 @@ Erbrechen} zu beobachten.
 }{
 \begin{itemize}
     \item Schmerzen (Oberbauch), Übelkeit, Erbrechen
-    \item Kaffesatz-artiges Erbrechen, Teerstuhl
+    \item Kaffeesatz-artiges Erbrechen, Teerstuhl
 \end{itemize}
 }{}{}{}
 
@@ -5121,6 +5146,9 @@ Erbrechen} zu beobachten.
   (\prettyref{m:am-abdominalerkrankungen})
   \item \EE{Transportentscheidung}: 
   Abt. f. Innere Medizin 
+  
+  Bei Blutungszeichen (Teerstuhl, kaffeesatzartiges
+  Erbrechen): Abt. f. Chirurgie
 \end{itemize}
 }
 
@@ -5134,8 +5162,8 @@ Bauchspeicheldrüse entzünden. Die
 Bauchspeichedrüsenentzündung (Pankreatitis) kann dabei
 sowohl \E{akut}, als auch \E{chronisch} verlaufen. 
 
-\Z{\Lang{ICD-10} Akute Pankreatitis: K85, chronisch
-Pankreatitis: K86.1}
+% \Z{\Lang{ICD-10} Akute Pankreatitis: K85, chronisch
+% Pankreatitis: K86.1}
 
 \Layout{0}{Ursachen}
 {\index{Gallensteine!Pankreatitis}
@@ -5199,9 +5227,9 @@ Schock} erleiden (\FullPrettyRef{topic:schock-septischer}).
 
 }
 {\begin{itemize}
-  \item Oberbauchschmerzen, oft gürtelförmig
-  \item Übelkeit, Erbrechen
-  \item Fieber
+  \item Ruptur
+  \item Akutes Abdomen
+  \item Septischer Schock
 \end{itemize}}
 {}
 {}
@@ -5214,9 +5242,7 @@ Schock} erleiden (\FullPrettyRef{topic:schock-septischer}).
 \begin{itemize}
   \item Allgemeine Maßnahmen bei Abdominalerkrankungen
   (\prettyref{m:am-abdominalerkrankungen})
-  \item \EE{Transportentscheidung}: Abt. f. Chirurgie, bei
-  akutem Schub einer chronischen Pankreatitis evtl. auch
-  Abt. f. Innere Medizin möglich 
+  \item \EE{Transportentscheidung}: Abt. f. Chirurgie
 \end{itemize}
 }
 
@@ -5263,13 +5289,13 @@ Abdomen} (\FullPrettyRef{topic:akutes-abdomen}). Es kann zu
 {}
 {}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Akute Pankreatitis}{}{
+\MassnahmenNG{Spezielle Maßnahmen}{Mesenterialinfarkt}{}{
 \begin{itemize}
   \item Allgemeine Maßnahmen bei Abdominalerkrankungen
   (\prettyref{m:am-abdominalerkrankungen})
   \item Nüchtern lassen!
   \item \EE{Transportentscheidung}: Abt. f.
-  \E{Gefäß}chirurgie
+  Chirurgie
 \end{itemize}
 }
 
@@ -5353,6 +5379,56 @@ Blinddarmdurchbruch, \ldots) Ursache der Entzündung.
 
 \Definition{Erkrankungen des harnableitenden Systems.}
 
+\subsection{Exkurs: Harnkatheter}
+
+\Layout{0}{\TxBeschreibung}
+{Ein Harnkatheter ist ein harnableitendes System, bei dem ein
+Schlauch (Katheter) über die Harnröhre in die Harnblase
+eingeführt wird um Harn abzulassen. Mittels eines
+aufblasbaren Ballons kann der Katheter in der Blase fixiert
+werden, man spricht dann vom \I{Dauerkatheter}. Am
+Harnkatheter kann ein \II{Harnbeutel} angeschlossen werden,
+welcher den Urin sammelt und sich entleeren lässt. Der
+Harnbeutel muss \EE{unter dem Patienten angebracht} sein, da
+andernfalls der Urin zurückrinnen würde. Beim Umlagern
+ist daher der zum Patienten führende \EE{Schlauch
+abzuklemmen}. Der Katheter und das daran hängende System ist
+eine mögliche \EE{Eintrittspforte für Keime}, daher ist auf einen
+sauberen, kontaminationsfreien Umgang zu achten.
+
+Wenn der Harnbeutel ausgelassen werden muss, so ist die
+abgelassene Menge zu notieren, da bei manchen Patienten der
+Flüssigkeitshaushalt bilanziert wird.
+
+Ein Harnkatheter ist eine
+medizinisch-pflegerische Routinemaßnahme und entsprechend oft bei Patienten anzutreffen.}
+{
+\begin{itemize}
+  \item Katheter leitet aus Harnblase Urin ab
+  \item Harnbeutel -- \E{unterhalb} d. Patienten
+  \item Schlauch abklemmen beim Umlagern
+  \item Wenn ablassen, Menge notieren
+  \item Infektionsgefahr
+\end{itemize}
+}
+{}
+{}
+{}
+
+
+
+\begin{PictureSeriesWide}{}{Bilderserie: Harnkatheter}
+\PictureSeriesRow{3}
+{./images/demaw/Skriptumaegf-img52}
+{Ein Harnkatheter \SourcePicture{DEMAW/Blacky}}
+{./images/demaw/Skriptumaegf-img53}
+{Ein Harnbeutel \SourcePicture{DEMAW/Blacky}}
+{./images/demaw/Skriptumaegf-img59}
+{Einführen eines Harnkathters
+unter sterilen Bedingungen \SourcePicture{DEMAW/Blacky}}
+{empty}{}
+\end{PictureSeriesWide}
+
 
 \subsection{Nierenkolik}
 \label{topic:nierenkolik}
@@ -5378,9 +5454,9 @@ gestaut und der Harnleiter gedehnt.
 \Layout{0}{\TxSymptome}{%
 Die Folge sind massive,
 kolikartige Schmerzen, in der Flanke bzw. im Unterbauch der
-jeweiligen Seite. Im Gegensatz zu anderen abdominellen
-Erkrankungen ist der Patient extrem unruhig und agitiert
-(\Speech{"`Der Stein wandert, der Schmerz wandert, der
+jeweiligen Seite, welcher auch in den Hoden bzw. in die
+Schamlippen ausstrahlen kann. Im Gegensatz zu anderen
+abdominellen Erkrankungen ist der Patient extrem unruhig und agitiert (\Speech{"`Der Stein wandert, der Schmerz wandert, der
 Patient wandert"'}).
 Oft läuft er gestikulierend und wehklagend durch die Gegend.
 Mitunter ist eine entsprechende Vorerkrankung
@@ -5392,7 +5468,8 @@ Mitunter ist eine entsprechende Vorerkrankung
 
 }{
 \begin{itemize}
-    \item Rücken-/Flankenschmerzen
+    \item Rücken-/Flankenschmerzen, Ausstrahlung in
+    Hoden/Schamlippen
     \item Evtl. Unterbauchschmerzen bei  Stein-/Sandabgang
     \item \Speech{"`Der Stein wandert, der Schmerz wandert, der Patient
     wandert"'}
@@ -5410,7 +5487,6 @@ sehr massiv sind, muss eventuell eine Schmerztherapie durch
 den Notarzt erfolgen.
 \begin{itemize}
   \item Lagerung nach Wunsch des Patienten
-  \item schonender Transport
   \item Bei unerträglichen Schmerzen Notarzt zur
   Schmerztherapie beiziehen
   \item Transportentscheidung: Abt. für Urologie
@@ -5418,17 +5494,74 @@ den Notarzt erfolgen.
 }
 
 
-\subsection{Nierenbeckenentzündung}
-\label{topic:nierenbeckenentzuendung}
-
-{\TakeNotesLarge}
-% TODO INHALT: fehlt komplett: Nierenbeckenentzündung 
-
 \subsection{Harnwegsinfekt}
 \label{topic:harnwegsinfekt}
 
-{\TakeNotesLarge}
-% TODO INHALT: fehlt komplett: Harnwegsinfekt 
+
+
+\Layout{2}{\TxBeschreibung}
+{Als Harnwegsinfekt wird allgemein eine meist bakterielle
+Infektion der Harnwege bezeichnet. Besonders gefährdet sind
+Frauen, infolge der kürzeren Harnröhre und der
+normalen bakteriellen Besiedelung der Scheide. Die
+häufigsten Erreger sind klassische Darmkeime \Z{(E. coli)}.
+
+Harnwegsinfektionen werden häufig in
+Gesundheitseinrichtungen übertragen ("`Spitalsinfektion"').
+Problematisch ist hierbei, dass bei derartigen Infektionen
+häufig multiresistente Keime ("`Spitalskeime"',
+gegen Antibiotika unempfindliche Bakterien,
+\FullPrettyRef{topic:multiresistente-keime}) der Auslöser
+sind, welche deutlich schwieriger zu behandeln sind. Ein
+besondere Risiko stellen hierbei harnableitende Systeme
+(Harnkatheter, -beutel) da.
+
+Wird ein Harnwegsinfekt nicht behandelt, kann sich u.\,U.
+die Infektion weiter ausbreiten und sich bis hin zur Sepsis
+entwickeln (\FullPrettyRef{topic:sepsis}).
+
+}
+{}
+{}
+{}
+{}
+
+
+
+\Layout{0}{\TxSymptome}
+{Der Patient klagt über Schmerzen beim Harnlassen, sowie
+häufigen, aber nicht ergiebigen Harndrang. Es können
+Scherzen im Nierenlager oder der Blasengegend bestehen.
+Allgemeinsymptome wie Fieber, Müdigkeit und
+"`Krankheitsgefühl"' sind möglich. 
+
+}
+{
+\begin{itemize}
+  \item Schmerzen beim urinieren, evtl. im Nierenlager,
+  Blasengegend
+  \item Häfuger, unergiebiger Harndrang
+  \item Fieber
+\end{itemize}}
+{}
+{}
+{}
+
+
+\subsection{Nierenbeckenentzündung}
+\label{topic:nierenbeckenentzuendung}
+
+\Z{\HeadingSub{\Lang{Syn.} \I{Pyelonephritis}}}
+
+Die Entzündung des Nierenbeckens ist oft bakteriell bedingt 
+und umfasst die oberen Harnwege, das Nierenbeckenkelchsystem
+und u.\,U. auch das Nierengewebe und eine der häufigsten
+Erkrankungen der Niere \cite{Pschy259}. Bei der akuten
+Nierenbeckenentzündung leidet der Patient unter Fieber, Flankenschmerzen, häufigen, aber nicht ergiebigen
+Harndrang sowie Schmerzen beim urinieren. Ein chronischer
+Verlauf ist oft symptomarm.
+
+
 
 \subsection{Akutes Harnverhalten}
 \label{topic:harnverhalten}
@@ -5438,12 +5571,12 @@ Harnblase, verschiedene Ursachen sind möglich.}
 
 
 
-Das akute Harnverhalten ist besonders bei Männern im "`besten"'
-oder fortgeschrittenem Alter häufig anzutreffen. 
+
 
 \Layout{0}{Ursachen}
 {%
-Hauptursache  dafür ist eine altersbedingte Vergrößerung der
+Das akute Harnverhalten ist besonders bei Männern im "`besten"'
+oder fortgeschrittenem Alter häufig anzutreffen. Hauptursache  dafür ist eine altersbedingte Vergrößerung der
 Prostata, die die Harnröhre abschnürt. Davon abgesehen
 können auch alte Narben, Medikamente oder eine Störung der
 Schließmuskel der Harnblase\footnote{zum Beispiel im Rahmen
@@ -5462,7 +5595,6 @@ Harnverhalten führen.
 
 Je nach Füllungszustand der Harnblase kann das
 Harnverhalten sehr schmerzhaft sein.
-
 Die Maßnahmen beschränken sich auf einen zügigen Transport
 an eine Abteilung für Urologie. Eine Notarzt-Nachforderung
 ist kaum sinnvoll, da ein \Abk{NEF} oder \Abk{NAW} selten geeignetes
@@ -5506,7 +5638,7 @@ Krankentransportdienstes.
 \index{Dialyse-Patient!Gefahren}
 \EE{Der Ausfall der normalen Nierenfunktion hat Auswirkungen}
 auf den Wasserhaushalt, den Elektrolythaushalt und den
-Säurebasenhaushalt. Diese Funktionen der Niere sind zum
+Säure-Basen-Haushalt. Diese Funktionen der Niere sind zum
 Überleben elementar (Vitalfunktionen zweiter Ordnung).
 Dialysepatienten müssen daher sehr darauf achten nicht zu
 viel zu trinken. Weiters können \E{Elektrolytstörungen} sogar
@@ -5565,8 +5697,8 @@ haben.
 \end{multicols}
 \end{WidePar}
 
-\paragraph{Weiters}
-\citep{Eisenburger2008,
+% \paragraph{Weiters}
+\nocite{Eisenburger2008,
 Havel2007,
 AMLS3,
 Erc2005DeSec5,
@@ -5636,7 +5768,7 @@ RueckerBildatlas1}
 % \nocite{RueckerBildatlas1}
 
 
-\clearpage
+% \clearpage
 \ChapterBibliography 
 
 %\bibliographystyle{unsrtdin2}{\scriptsize \bibliography{Literatur-AAS}}

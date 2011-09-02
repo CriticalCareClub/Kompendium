@@ -38,12 +38,12 @@ toc=flat,
 % [draft] .. Es werden nur Rahmen angezeigt
 % [final] .. Es werden Bilder normal angezeigt
 % [demo} .. keine Bilder
-\usepackage[final]{graphicx} % Bilder-Support
+\usepackage[draft]{graphicx} % Bilder-Support
 
 % \usepackage{showidx} % shows index entries on page margin
 % \usepackage{showkeys}
 
-\input{./inputs/input-preamble}
+\input{./inputs/input-preamble-ExperimentalLayout}
 
 % Trennungen
 \input{./inputs/input-hyphenation}
@@ -160,46 +160,6 @@ toc=flat,
 {}
 }
 
-
-\newcommand{\PictureSeriesRowWide}[9]{
-\ifthenelse{\equal{#1}{2}}
-{\subfloat
-[#3]
-{\ifthenelse{\equal{#2}{empty}}{\parbox{0.32\linewidth}{~}}{\includegraphics[width=0.45\linewidth]{#2}}}
-\hfill
-\subfloat[#5]
-{\ifthenelse{\equal{#4}{empty}}{\parbox{0.32\linewidth}{~}}{\includegraphics[width=0.45\linewidth]{#4}}}
-}
-{}
-\ifthenelse{\equal{#1}{3}}
-{\subfloat
-[#3]
-{\ifthenelse{\equal{#2}{empty}}{\parbox{\ThirdNetWidth}{~}}{\includegraphics[width=\ThirdNetWidth]{#2}}}%
-\hspace{\columnsep}%
-\subfloat[#5]
-{\ifthenelse{\equal{#4}{empty}}{\parbox{\ThirdNetWidth}{~}}{\includegraphics[width=\ThirdNetWidth]{#4}}}%
-\hspace{\columnsep}%
-\subfloat[#7]
-{\ifthenelse{\equal{#6}{empty}}{\parbox{\ThirdNetWidth}{~}}{\includegraphics[width=\ThirdNetWidth]{#6}}}
-}
-{}
-\ifthenelse{\equal{#1}{4}}
-{\subfloat
-[#3]
-{\ifthenelse{\equal{#2}{empty}}{\parbox{0.24\linewidth}{~}}{\includegraphics[width=0.24\linewidth]{#2}}}
-\hfill
-\subfloat[#5]
-{\ifthenelse{\equal{#4}{empty}}{\parbox{0.24\linewidth}{~}}{\includegraphics[width=0.24\linewidth]{#4}}}
-\hfill
-\subfloat[#7]
-{\ifthenelse{\equal{#6}{empty}}{\parbox{0.24\linewidth}{~}}{\includegraphics[width=0.24\linewidth]{#6}}}
-\hfill
-\subfloat[#9]
-{\ifthenelse{\equal{#8}{empty}}{\parbox{0.24\linewidth}{~}}{\includegraphics[width=0.24\linewidth]{#8}}}
-}
-{}
-}
-
 % \usepackage{colortbl}
 % \arrayrulecolor{Beige}
 
@@ -224,226 +184,21 @@ toc=flat,
 % \setmonofont[SmallCapsFont={* Caps}]{Latin Modern Mono}
 
 % \defaultfontfeatures{Numbers=OldStyle}
-\MultiColListStart{toc}{2}
+\MultiColListStart{toc}{3}
 \MultiColListStart{lofazit}{2}
 \MultiColListStart{lomassnahmen}{2}
 
-\nobibliography*
 
-\newgeometry{verbose,
-a4paper,
-asymmetric,
-% reversemp,
-reversemarginpar,
-% % includemp,
-% % tmargin=25mm,
-% % bmargin=20mm,
-rmargin=13mm,
-lmargin=13mm,
-% % outer  = 56mm,
-% % inner  = 56mm,
-top    = 20mm,
-bottom = 15mm,
-% % hmarginratio=2:1,
-marginparwidth = 0mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
-footskip = 5mm,
-% % includehead,
-bindingoffset=1.5cm}
-\savegeometry{FullPage}
-\newgeometry{verbose,
-a4paper,
-asymmetric,
-% reversemp,
-reversemarginpar,
-% % includemp,
-% % tmargin=25mm,
-% % bmargin=20mm,
-rmargin=13mm,
-lmargin=13mm,
-% % outer  = 56mm,
-% % inner  = 56mm,
-top    = 10mm,
-bottom = 10mm,
-% % hmarginratio=2:1,
-marginparwidth = 0mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
-footskip = 5mm,
-% % includehead,
-bindingoffset=1.5cm}
-\savegeometry{WholePage}
-\restoregeometry
 
-
-
-\opt{STATUS-DRAFT-SHOWKEYS}{\renewcommand{\label}[1]{{\color{black}\fbox{{\ttfamily #1 }}}}}
-
-
-\loadgeometry{FullPage}
-% \maketitle
-\begin{titlepage}
-\input{./inputs/input-cover-front}
-
-\clearpage
-\thispagestyle{empty}
-\rmfamily
-
-%%% uppertitleback
-
-	Covergestaltung: \emph{Sebastian Gabriel.}
-
-    {Titelbild: \emph{Ch. Pallinger} }
-    
-\vfill
-    
-\begin{WidePar}\centering\begin{minipage}{8cm}
-    \begin{center} 
-        Dieses Projekt entstand in Zusammenarbeit mit dem
-        
-        \emph{\bfseries Ausbildungszentrum des ASB Floridsdorf-Donaustadt} 
-        
-        und wurde maßgeblich von der
-        
-        \emph{\bfseries Cyberservice Internetdienstleistungsgesellschaft~m.b.H.}
-        
-        und
-        
-        \emph{\bfseries Grissu.org} 
-        
-        unterstützt.\vspace{2em}
-    
-        \includegraphics[width=3cm]{./icons/asb.png}
-        
-        {\sffamily\fontfamily{phv}Gruppe Floridsdorf-Donaustadt}\par\vspace{2em}
-        
-        \includegraphics[width=5cm]{./images/logos/cyberservice.png}
-    
-        {\sffamily\fontfamily{phv}www.cyberservice.net}\par\vspace{2em}
-    
-        {\Huge Grissu.org}\par\vspace{1em}
-        \textit{serving the community} \par \textit{since 1999} 
-    \end{center}
-    \end{minipage}
-    \vspace{2em}
-    \begin{center}
-        {\bfseries\itshape Nur für den internen Gebrauch gem §\,42 Abs.\,6
-        UrheberG bestimmt. Weitergabe nicht gestattet.}
-    \end{center}
-    
-    \end{WidePar}
-
-\clearpage
-\thispagestyle{empty}
-
-~
-\vspace{3cm}
-
-\begin{center}
-saluti et solatio aegrorum
-\end{center}
-
-
-
-\bigskip
-
-\bigskip
-
-\bigskip
-
-\bigskip
-
-\bigskip
-
-\bigskip
-
-\bigskip
-
-\bigskip
-
-\bigskip
-
-\bigskip
-
-\dictum[Andrew S. Tanenbaum (übersetzt)]{Das Schöne an Standards
-ist, es gibt so viele, aus denen man auswählen kann.}
-
-\vfill
-
-\begin{center}
-\Speech{"`Früher war mehr Lametta."'}
-
-\bigskip
-
-\bigskip
-
-in memoriam
-
-Vicco von Bülow (\textborn\,1923, \textdied\,2011)
-
-
-\vspace{3cm}
-
-\end{center}
-
-\end{titlepage}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\opt{STATUS-DRAFT}{{\scriptsize\listof{warning}{Verzeichnis der Warnungen}}}
-
-
-
-\restoregeometry
-
-%\nocite{*} 
-
-% \layout
+\layout
 % \pagediagram\pagedesign\paragraphdiagram\paragraphdesign\floatpagediagram\floatpagedesign\listdiagram\listdesign\footnotediagram\footnotedesign\tocdiagram\tocdesign
 
 \clearpage
 \section{Vorwort}
 
-
-
-\parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
-Das vorliegende Werk ist das (Zwischen-)Ergebnis einer seit mehr als zwei Jahren
+\begin{WidePar}
+\begin{multicols}{3}
+  Das vorliegende Werk ist das (Zwischen-)Ergebnis einer seit mehr als zwei Jahren
 andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig
 sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
 ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
@@ -467,13 +222,13 @@ Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
 schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
 einem Jahr als Lern- und Ausbildungsunterlage
 bewähren.
+\end{multicols}
+\end{WidePar}
 
 
 
-\paragraph{Dieses Werk ist keine "`Dienstanweisung"'!}~~
-
-\parpic[r][r]{\includegraphics[width=2cm]{./images/teaser/affe-sama-ambas-schein_00800.jpg}}
-Eines muss vorweg klargestellt werden: Auch wenn es sehr in
+\begin{multicols}{2}
+  Eines muss vorweg klargestellt werden: Auch wenn es sehr in
 Mode gekommen ist, Abläufe zu standardisieren und
 festzuschreiben, so ist dies keine taugliche
 Herangehensweise, um komplexe Probleme in der Medizin oder
@@ -486,6 +241,11 @@ entscheidende Faktor jeglichen Handelns. Kein Lehrbuch oder
 standardisierter Prozess kann das ändern, sofern das Ziel
 ein "`gutes"' Ergebnis, und keine statistische Kennziffer
 ist.
+\end{multicols}
+
+\paragraph{Dieses Werk ist keine "`Dienstanweisung"'!}~~
+
+
 
 In diesem Sinne ist der Titel dieses Werkes nicht im Sinne eines
 standardisierten Prozessmanagements zu verstehen, sondern soll einen
@@ -508,102 +268,174 @@ Wohl des Kranken ist oberstes Gebot.}}.
 
 
 \clearpage
-\input{./inputs/input-Impressum}
-
-\clearpage
-\input{./inputs/input-Credits}
-
-
-
-\input{./inputs/input-Abkz}
-
-\input{./inputs/input-Lizenzen.tex}
-
-\opt{STATUS-DRAFT}{
-\subsection*{Projektorthographie}
-
-\subsubsection*{Abkürzungen und Kurzwörter}
-
-\paragraph{Kurzwörter} (Abkürzungen, welche im allg. Sprachgebrauch in der
-Abkürzungsform ausgesprochen werden) werden entgegen der \Abk{DUDEN}-Empfehlung
-nicht kleingeschrieben, wenn es sich um Fachtermini handelt. 
-
-\paragraph{Verabreichungsarten}
-Verabreichnungsarten wie z.\,B. "`i.\,v."' werden grundsätzlich als 
-Kapitälchen, ohne Abstand oder Punkte geschrieben. Zum Beispiel: \Abk{IV} (intravenös), \Abk{IM}
-(intramuskulär), \Abk{SL} (sublingual), \Abk{SC}(subkutan). Wenn dies in der
-Schriftart nicht möglich ist, wird die Schreibweise mit Punkten und halbem
-Abstand (Achtelgeviert, sofern möglich) gewählt; z.\,B.: {\ttfamily i.\,v.,
-i.\,m.}
-
-{\mdseries Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
-
-{\bfseries Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
-
-{\itshape Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
-
-{\bfseries\itshape Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung
-mMxX}
-
-{\scshape Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
-}
-
-\section{Benutzungshinweise}
-
-\Layout{2}{Im Text}{%
-\E{Betonte} Textteile sind kursiv, \EE{Besonders stark
-betonte} sind fett gedruckt. \T[noindex]{Fachbegriffe}, welche an
-dieser Stelle erklärt werden, sind ebenso fett gedruckt.
-\Z{Zusatzinformationen}, welche der Vollständigkeit halber
-niedergeschrieben sind, werden grau gedruckt: Sie dienen der
-zusätzlichen Informationen und stellen keinen inhaltlichen
-Schwerpunkt dar. 
-
-Ähnliches gilt für Fußnoten: Normale
-Fußnoten\footnote{Ich bin eine normale Fußnote.} beinhalten
-Hintergrundinformationen, die nicht uninteressant sind, aber
-den normalen Fließtext  unnötig aufblähen würden.
-Zusatzinfo-Fußnoten\ZFootnote{Ich bin eine
-Zusatz-Info-Fußnote.} werden grau gedruckt und beinhalten
-Hintergrundinformationen für besonders interessierte Leser.
-
-An manchen Stellen im Text befindet sich eine
-Kennzeichenungen wie z.\,B.
-\Commentary[Benutzungshinweise]{Ich bin ein
-Beispielkommentar aus dem Einleitungsteil.}. Dies ist ein
-Hinweis auf ein Kommentar im Anhang (Appendix).
-
-}{}{}{}{}
-
-\Layout{2}{Symbole}{%
-\begin{multicols}{2}
-\begin{labeling}{mmm}
-  \item[\SignFigure] \ Abbildungen
-  \item[\SignFazit] \ Leitsätze
-  \item[\SignMassnahme] \ Maßnahmen
-  \item[\SignTable] \ Tafeln
-\end{labeling}
-\end{multicols}
-}{}{}{}{}
-
-
-
-\Layout{2}{Index}{%
-\begin{description}
-  \item[Zusammengesetzte Begriffe] Eigenschaftswort
-  Hauptwort \Sign{→} Hauptwort, Eigenschaftswort; "`Begriffe,
-  zusammengesetzte"'
-  \item[Umlaute] Ä, Ö, Ü \Sign{→} Ae, Oe, Ue
-\end{description}
-}{}{}{}{}
-
-
-
-
+\section{Offenlegung, Impressum, Nutzungsbedingungen und Hinweise}
 
 \begin{WidePar}
-  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
+
+\begin{multicols}{3}
+\minisec{Medieninhaber}
+
+{\noindent\sffamily Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für
+den Sanitätsdienst -- }{\ARGEAASS}
+\\
+\noindent{}Engerthstraße 146\,/\,8\,/\,13 \\
+A-1200 Wien -- AUSTRIA
+
+\begin{compactdesc}
+  \item[E-Mail:] office@aass.at
+  \item[Homepage:] \url{http://www.aass.at}
+  \item[ZVR:] 846678982
+\end{compactdesc}
+
+
+\minisec{Weitere Informationen}
+
+\begin{compactdesc}
+  \item[Verlags- und Herstellungsort:] Wien
+  \item[Publikationsart:] Elektronisch. Die etwaige Herstellung von
+  Druckwerken erfolgt durch den autorisierten Nutzer.
+  \item[ISBN:] ---
+  \item[ISSN:] ---
+  \item[Status:] \DocVersionTyp{} (\DocVersionInfo{})
+  \item[Versionsgeschichte:]~
+  
+  {\scriptsize %
+  \begin{description}
+    \item[0.2.0] 2009-07 (VV\footnote{Vorabversion}, 349 Änderungen\footnote{Seit
+    Übernahme in das Versionsverwaltungssystem.})
+    \item[0.4.0] 2009-09 (VV, 284 Änderungen)
+    \item[0.6.0] 2009-10 (VV, 322 Änderungen)
+    \item[0.8.0] 2010-01 (VV, 653 Änderungen)
+    \item[0.10.0] 2010-06 (VV, 935 Änderungen)
+    \item[0.12.0] 2010-08 (VV, 489 Änderungen)
+    \item[0.14.0] 2011-01 (VV, 706 Änderungen)
+    \item[0.16.0] 2011-03 (VV, 141 Änderungen)
+    \item[0.18.0] 2011-08 (VV, 449 Änderungen)
+    \item[0.20.0] 2011-?? (VV, ??? Änderungen\footnote{Lt.
+    vorläufiger Statistik, Änderungen nach Redaktionsschluss möglich.})
+  \end{description}
+  }
+\end{compactdesc}
+
+\noindent{}Die {\ARGEAASS} ist ein gemeinnütziger Verein mit Sitz in Wien,
+welcher die Entwicklung, Wartung, Qualitätssicherung, Anpassung, Verbreitung und Lehre von
+wissenschaftlich und sachlich fundierten Arbeits- und Ausbildungsstandards für
+den Sanitätsdienst (AASS), sowie die wissenschaftliche Forschungstätigkeit in
+diesem Gebiet bezweckt.
+
+\minisec{Mitarbeit und Meldung von Fehlern}
+
+\noindent{}Wünsche, Anregungen, Beschwerden und Fehlermeldungen nehmen wir
+gerne unter 
+% \url{http://www.aass.at/bugs}
+\href{mailto:anregungen@aass.at}{\nolinkurl{anregungen@aass.at}} entgegen.
+
+\minisec{Nutzungsbestimmungen}
+
+\noindent{}Dieses Werk ist nur für den internen Gebrauch gem. §\,42
+Abs.\,6 UrheberG bestimmt. Die Weitergabe ist nicht
+gestattet. 
+
+Sollten Sie Interesse an den Arbeits- und
+Ausbildungsstandards für den Sanitätsdienst haben, setzen
+Sie sich bitte mit uns in Verbindung.
+
+\minisec{Hinweise}
+
+\noindent{}Wie jede Wissenschaft ist die Medizin ständigen Entwicklungen
+unterworfen. Soweit fachliche Angaben gemacht werden, darf der Leser
+zwar darauf vertrauen, dass die Autoren große Sorgfalt
+darauf verwandt haben, dass diese Angaben dem Wissensstand bei
+Fertigstellung des Werkes entspricht. Für Angaben, speziell
+über Dosierungsanweisungen und Applikationsformen, kann jedoch
+keine Gewähr übernommen werden. 
+
+Jeder Leser ist angehalten, durch
+sorgfältige Prüfung der Literatur, der Lehrmeinung so\-wie der
+Beipackzettel der verwendeten Präparate und gegebenenfalls nach
+Konsultation eines Spezialisten festzustellen, ob die gegebene
+Aussage oder Empfehlung für Dosierungen oder die Beachtung von
+Kontraindikationen gegenüber der Angabe in diesem
+Werk abweicht. Jede Dosierung oder Applikation erfolgt
+auf eigene Gefahr des Benutzers. 
+
+Die {\ARGEAASS} bittet jeden Leser, ihm aufgefallene Ungenauigkeiten und
+Fehler, sowie Anregungen und konstruktive Kritik, über die Email-Adresse
+\href{mailto:anregungen@aass.at}{\nolinkurl{anregungen@aass.at}} mitzuteilen.
+
+Geschützte Warennamen und Warenzeichen werden nicht durchgehend besonders
+kenntlich gemacht. Aus dem Fehlen eines solchen Hinweises kann also
+nicht geschlossen werden, dass es sich um einen freien Warennamen
+handelt.
+
+\minisec{Die Technik}
+
+\begin{compactdesc}
+  \item[Satz und Druckvorstufe] \LaTeX{} mit {\sffamily KOMA-Script}
+  
+  Distribution: \TeX live 2009, u.\,a. mit den Paketen: AASS
+  Style Collection (asc),
+  \Code{microtype},
+  \Code{babel},
+  \Code{babelbib} (mehrsprachiges Literaturverzeichnis),
+  \Code{shorttoc} (Inhaltsübersicht),
+  \Code{titeltoc},
+  \Code{makeidx} (Index),
+  \Code{prettyref},
+  \Code{units},
+  \Code{nicefrac},
+  \Code{soul},
+  \Code{soulutf8},
+  \Code{booktabs},
+  \Code{marvosym} (Symbole),
+  \Code{txfonts} (Symbole),
+  \Code{skul} (Symbole),
+  \Code{ifsym} (Symbole),
+  \Code{dingbat} (Symbole),
+  \Code{paralist},
+  \Code{geometry} (Seitenlayout),
+  \Code{fancybox},
+  \Code{lmodern} (Latin Modern Fonts),
+  \Code{titlesec} (Sectioning titles),
+%   \Code{float},
+  \Code{hyperref} (Hypertext links),
+  \Code{url} (URL's),
+  \Code{quotchap},
+  \Code{minitoc} (Inhaltsverzeichnisse für Kapitel),
+  \Code{chappg} (Seitennummerierung pro Kapitel),
+  \Code{caption} (Customizing captions),
+  \Code{caption3},
+  \Code{mhchem} (chemische Formeln),
+  \Code{optional} (optionaler Text),
+  \Code{ulem}
+  \item[Entwicklungsumgebung] Eclipse Ganymed mit Texlipse- und JGit/EGit-Plugin,
+  Texmaker
+  \item[Versionsverwaltung] Git
+  \item[Literaturverzeichnis] JabRef 2.5.0, BibTeX, Babelbib
+  \item[Textverarbeitung und Rohentwurf] OpenOffice
+  \item[Betriebssysteme] \E{Rohentwurf}: Linux (Debian, Gentoo, Ubuntu), MacOS X,
+  MS Windows XP, Vista
+  
+  \E{Endproduktion}: Ubuntu Linux 10.10 \textit{"`Maverick
+  Meerkat"'}, \url{http://www.ubuntu.com}
+\end{compactdesc}
+
+
+\end{multicols}
 \end{WidePar}
+
+
+
+\clearpage
+
+
+
+
+
+
+% \begin{WidePar}
+%   \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
+% \end{WidePar}
 % {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
 
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
@@ -611,163 +443,22 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \begin{WidePar}
   {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
-
-% {\small\listoffigures}
-% 
-% {\small\listoftables}
-
-{\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
-
-{\small\kern-2.ex\listof{fazit}{Merksätze}}
 \end{WidePar}
 
 
-% {\WideParBegin}
-\part{Allgemeiner Teil}
-% {\WideParEnd}
 
 
 \include{./chapters/chapter-TAE} 
+% \include{./chapters/chapter-ANA} 
 
 % \include{./chapters/chapter-NEW}
 % \addtocounter{chapter}{1}
 
-\include{./chapters/chapter-LER}
-
-\include{./chapters/chapter-BET}
-
-\include{./chapters/chapter-RWT}
-
-\include{./chapters/chapter-REG}
-
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-NWG}
-} % STATUS-EXPERIMENTAL
-
-
-% {\WideParBegin}
-\part{Grundlagen}
-% {\WideParEnd}
-\setcounter{chapter}{10}\setcounter{page}{1}
-
-\include{./chapters/chapter-JUS}
-
-\include{./chapters/chapter-EHI}
-
-% \include{./chapters/chapter-AED}
-
-% \include{./chapters/chapter-SHF}
-
-% zuerst die Kapitel in denen Geräte eine Rolle spielen:
-\include{./chapters/chapter-MP1}
-
-\include{./chapters/chapter-BAU}
-
-\include{./chapters/chapter-SAN}
-
-\include{./chapters/chapter-BLS}
-
-% dann "`wie führe ich ein gespräch:
-\include{./chapters/chapter-AUP}
-
-\include{./chapters/chapter-PSI}
-
-\include{./chapters/chapter-KHD}
-
-\include{./chapters/chapter-GEF}
-
-% Zuletzt: "`Wie mache ich daraus einen funktionierenden Ablauf?"'
-\include{./chapters/chapter-PAM}
-
-% {\WideParBegin}
-\part{Medizinisch-Wissenschaftlicher Basisteil}
-% {\WideParEnd}
-\setcounter{chapter}{30}\setcounter{page}{1}
-
-\include{./chapters/chapter-ANA}
-
-\include{./chapters/chapter-EIN}
-
-\include{./chapters/chapter-VIT}
-
-\include{./chapters/chapter-TOD}
-
-\include{./chapters/chapter-HYG}
-
-\include{./chapters/chapter-MED}
-
-\include{./chapters/chapter-INK}
-
-\include{./chapters/chapter-GYN}
-
-\include{./chapters/chapter-KIN}
-
-\include{./chapters/chapter-KRI}
-
-\include{./chapters/chapter-PSY}
-
-\include{./chapters/chapter-THE}
-
-\include{./chapters/chapter-TOX}
-
-\include{./chapters/chapter-TRA}
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-SYM}
-}
-
-
-% {\WideParBegin}
-\part{"`Intermediate"' (Erweitertes Wissen)}
-% {\WideParEnd}
-\setcounter{chapter}{50}\setcounter{page}{1}
-
-% \include{./chapters/chapter-MP2}
-
-\include{./chapters/chapter-ALS}
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-ARZ}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-PKU}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-EKG}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-WIS}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-SPE}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-WEI}
-} % STATUS-EXPERIMENTAL
-
-% {\WideParBegin}
-\part{"`Advanced"' (Fortgeschrittenes Wissen)}
-% {\WideParEnd}
-\setcounter{chapter}{70}\setcounter{page}{1}
-
-\opt{STATUS-EXPERIMENTAL}{
-\chapter{Präklinische Narkose}
-
-\SectionUnderDevelopment
-} % STATUS-EXPERIMENTAL
 
 % \include{./chapters/inc-RES-ende}
 
 \appendix
-% {\WideParBegin}
-\part{Appendix}
-% {\WideParEnd}
+
 %\setcounter{page}{0}
 
 % \pagenumbering[Appendix]{bychapter}
@@ -784,7 +475,7 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Literaturverzeichnis
-\opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\small\setlength{\parskip}{0pt}\cleardoublepage\bibliography{Literatur-AASS}\restoregeometry}\onecolumn}
+% \opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\small\setlength{\parskip}{0pt}\cleardoublepage\bibliography{Literatur-AASS}\restoregeometry}\onecolumn}
 % \opt{STATUS-WITH-BIBLIO}{{\setlength{\parskip}{0pt}\bibliography{Literatur-AASS}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

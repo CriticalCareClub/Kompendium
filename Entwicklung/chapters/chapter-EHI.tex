@@ -4,8 +4,8 @@
 
 
 \chapter
-[\CO{[EHI]} Erste Hilfe und erweiterte Erste Hilfe]
-{\CC{[EHI]}\\Erste Hilfe und erweiterte Erste Hilfe}
+[\CO{[EHI]} Erste Hilfe]
+{\CC{[EHI]}\\Erste Hilfe}
 \label{chp:EHI}
 
 
@@ -435,6 +435,11 @@ Rauchentwicklung müssen beim Absichern der Unfallstelle
 berücksichtigt werden. Zum Absichern selbst werden
 Hilfsmittel, wie \EE{Warnleuchte} oder \EE{Warndreieck},
 sowie Personen, welche Handzeichen geben, eingesetzt.
+
+\bigskip
+
+\bigskip
+
 }{
 \begin{itemize}
   \item Sicherheitsabstand
@@ -463,9 +468,9 @@ geöffnetem \EE{Warndreieck} (Pannendreieck) dem
 Verkehr entgegenzugehen. 
 
 
-\Layout{0}{Pannendreieck}
+\Layout{0}{Warndreieck}
 {
-Das Pannendreieck ist
+Das Warndreieck ist
 dem jeweiligen Anhalteweg entsprechend zur Unfallstelle
 aufzustellen:
 \begin{itemize}
@@ -795,6 +800,7 @@ Gefahrenguttransporter durch eine orange, rechteckige
 Warntafel mit schwarzem Rand
 (\prettyref{tab:gefahrentafel-ehi}).
 
+\begin{WidePar}
 \begin{table}[H]
 \Captionof{table}{In der Ausführung gibt es neben der unbeschrifteten Tafel
 eine mit zwei Ziffernkombinationen ausgestattete Form der Warntafel. Die
@@ -804,23 +810,29 @@ Beschriftung zeigt in seinem oberen Feld die Gefahrennummer
 anzugeben}.\label{tab:gefahrentafel-ehi}}
 
 \begin{tabular}{m{3.225cm}m{3.225cm}m{3.225cm}m{3.225cm}}
-\multicolumn{2}{m{6.65cm}}{\centering Allgemeine Kennzeichnung (Sammeltransporte)} 
-&
-\multicolumn{2}{m{6.65cm}}{\centering Spezielle
-Kennzeichnung} 
-\\\midrule
+\toprule\addlinespace
+\multicolumn{2}{m{6.65cm}}{\centering \TabHeading{Allgemeine Kennzeichnung}
+(Sammeltransporte)} &
+\multicolumn{2}{m{6.65cm}}{\centering \TabHeading{Spezielle Kennzeichnung}} 
+\\\addlinespace\midrule\addlinespace
 \includegraphics[width=\linewidth]{./images/khd/warntafel-allgemein.png}
  &
  &
 \includegraphics[width=\linewidth]{./images/khd/warntafel-un-60-1710.png}
  &
-Gefahrnummer\par (\T{Kemler-Nummer}\index{Nummer!Kemler-})
+Gefahrnummer\par (\T{Kemler-Nummer})
 
-Stoffnummer\par (\T{UN-Nummer}\index{Nummer!UN-})
-\\\bottomrule
-\end{tabular} 
+Stoffnummer\par (\T{UN-Nummer})
+\\\addlinespace\bottomrule
+\end{tabular}
 
 \end{table}
+\end{WidePar}
+
+
+\Layout{57}{}{}{}{
+
+}{Kennzeichnung durch Gefahrentafel.}{}
 
 
 % {
@@ -878,6 +890,12 @@ vollständig sicheren Raum neben der Fahrbahn zu retten.
 \Fazit{Der Patient ist so rasch und schonend wie nur möglich aus der
 Gefahrenzone zu bringen.}
 
+Eine bekannte Technik ist der \T{Rautek-Handgriff}. Er darf
+jedoch nur angewandt werden, wenn das \E{Leben des Patienten
+akut und unmittelbar in Gefahr} ist, da er den Brustkorb und
+die Wirbelsäule stark belastet
+\cite{AsboeLehrmeinungRd2011-06}.
+
 % {
 % Der Ersthelfer hat bei der Rettung aus dem Gefahrenbereich zusätzliche
 % Grundsätze der Ersten Hilfe einzuhalten, die allesamt denselben
@@ -909,7 +927,7 @@ Gefahrenzone zu bringen.}
 
 
 
-
+\Experimental{
 \paragraph{Sitzender Patient:}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % TODO : Neuerstellung
@@ -919,6 +937,7 @@ Gefahrenzone zu bringen.}
 % \label{topic:rautekgriff}
 
 \TakeNotesLarge
+}
 
 % TODO EHI: Bilder Rautek aus Auto einfügen
 
@@ -1013,6 +1032,7 @@ Gefahrenzone zu bringen.}
 % {\bfseries
 % 4.3.2) liegender Patient:}
 
+\Experimental{
 \paragraph{Liegender Patient}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % TODO : Neuerstellung
@@ -1020,6 +1040,7 @@ Gefahrenzone zu bringen.}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \TakeNotesLarge
+}
 
 % TODO EHI: Bilder Wegziehen einfügen
 
@@ -1983,8 +2004,8 @@ Vitalfunktionen} der \E{Notruf abgesetzt} und erst danach mit der \E{lebensrette
 Sofortmaßnahme} begonnen. \bigskip\bigskip
 }{
 \begin{itemize}
-  \item Nach der Kontrolle der Vitalfunktionen Notruf absetzen.
-  \item Anschließend lebensrettende Sofortmaßnahmen einleiten.
+  \item Nach der Kontrolle der Vitalfunktionen Notruf absetzen
+  \item Anschließend lebensrettende Sofortmaßnahmen einleiten
 \end{itemize}
 }{}{}{}
 
@@ -2365,7 +2386,7 @@ unterbrechen:
 % Auseinandersetzung siehe das Kapitel
 % {\quotedblbase}{\dots}{\textquotedblleft}.}
 
-\clearpage % TODO temp clearpage
+% \clearpage % TODO temp clearpage
 \Layout{0}{Anschließende Behandlung}
 {%
 Die anschließenden Behandlungen orientieren sich an den
@@ -2385,7 +2406,7 @@ konditionell möglich) erneut versuchen andere  Ersthelfer zu
 finden. Scheitert auch dieser Versuch, kann der Ersthelfer keine weitere 
 Maßnahme setzen als den Patienten zuzudecken und auf das
 Eintreffen des  Rettungspersonals zu warten. Der Ersthelfer hat alles
-in seiner Macht stehende getan, und es ist ihm kein Vorwurf
+in seiner Macht stehende getan und es ist ihm kein Vorwurf
 zu machen. 
 }{
 \begin{itemize}
@@ -2397,7 +2418,7 @@ zu machen.
   \item Psychische Betreuung
   \item Kompetente Hilfe kommt ${\rightarrow}$ Auskunft über gesetzte
   Maßnahmen geben
-  \item Erschöpfung: ${\rightarrow}$ versuchen weitere Ersthelfer zu
+  \item Erschöpfung ${\rightarrow}$ versuchen weitere Ersthelfer zu
   finden
 \end{itemize}
 
@@ -2762,7 +2783,7 @@ kommt, da es sonst zum Gefrieren und Absterben von Gewebe kommt.
 
 
 
-
+\clearpage % TODO temp clearpage
 \subsection{Schock}
 \index{Schock!Erste-Hilfe}
 \label{topic:schock-ehi}
@@ -2777,32 +2798,34 @@ Das Krankheitsbild, welches umgangssprachlich als Schock bezeichnet wird, ist
 eine Schreckreaktion mit Muskelzittern, weichen Knien, Schwächegefühl und
 Blässe. Es hat aber mit dem echten Schock nichts zu tun, sondern ist nur eine
 Reaktion des Nervensystems und normalerweise nicht bedrohlich. Beruhigen und
-hinlegen lassen führt bei den Patienten zu einer schnellen Erholung.
+hinlegen lassen, führt bei den Patienten zu einer schnellen Erholung.
 
 \Layout{0}{\TxBeschreibung{} und Verlauf}
 {
 Der Schock ist eine \EE{lebensbedrohliche Kreislaufstörung}, bei der es zu einer
 \EE{Unterversorgung der lebenswichtigen Organe}, wie Hirn,
-Herz, Lunge, Leber und Niere mit Sauerstoff kommt. 
+Herz, Lunge, Leber und Nieren mit Sauerstoff kommt. 
 
-\subparagraph{Zentralisation} Der Körper hilft sich
-selbst indem er das Blut zu den lebenswichtigen Organen bringt und äußere Körpergebiete wie Arme,
-Beine und Haut weniger bis gar nicht durchblutet. 
+\begin{itemize}
+  \item \EE{Zentralisation}: Der Körper hilft sich
+  selbst indem er das Blut zu den lebenswichtigen Organen bringt und äußere Körpergebiete wie Arme,
+  Beine und Haut weniger bis gar nicht durchblutet.
+  \item \EE{Dezentralisation}: Hält
+  der Zustand länger an, bzw. ist nach wie vor zu wenig Blut vorhanden, beginnt
+  der Körper wieder zu dezentralisieren und lässt das Blut in weniger
+  wichtige Körperregionen fließen. Der dadurch entstehende Sauerstoffmangel
+  bei den lebenswichtigen Organen führt zu einer \EE{Schädigung der Organe}, die
+  in weiterer Folge zum \EE{Versagen der Organe} führt. Der Schock
+  ist daher unbehandelt in seiner finalen Wirkung tödlich!
+\end{itemize}
 
-\subparagraph{Dezentralisation} Hält
-der Zustand länger an, bzw. ist nach wie vor zu wenig Blut vorhanden, beginnt
-der Körper wieder zu dezentralisieren und lässt das Blut in weniger
-wichtige Körperregionen fließen. Der dadurch entstehende Sauerstoffmangel
-bei den lebenswichtigen Organen führt zu einer \EE{Schädigung der Organe}, die
-in weiterer Folge zum \EE{Versagen der Organe} führt. Der Schock
-ist daher unbehandelt in seiner finalen Wirkung tödlich!
 }{
 \begin{itemize}
   \item Lebensbedrohliche Kreislaufstörung
-  \item Unterversorgung lebenswichtiger Organe
-  \begin{itemize}
-    \item Hirn, Herz, Lunge, Leber, Nieren
-  \end{itemize}
+  \item Unterversorgung lebenswichtiger Organe:
+  
+  Hirn, Herz,
+  Lunge, Leber, Nieren
   \item Zentralisation
   \item Dezentralisation
   \item Schädigung der Organe, Versagen der Organe
@@ -3672,11 +3695,11 @@ sofern keine Bagatellverletzung (z.\,B. Schiefer, \ldots )
 \\\addlinespace
 \noindent\EE{Augenverletzungen aller Art}
 &
-Bei Augenverletzungen immer beide Augen verbinden.
+Bei Augenverletzungen immer beide Augen verbinden
 \\\addlinespace
 \noindent\EE{Stichwunden}
 &
-Vom Ersthelfer kann nicht festgestellt werden wie tief diese sind.
+Vom Ersthelfer kann nicht festgestellt werden wie tief diese sind
 \\\addlinespace
 \noindent\EE{Wunden an Gelenken, Hand- und Fußrücken}
 &
@@ -3684,7 +3707,7 @@ Vom Ersthelfer kann nicht festgestellt werden wie tief diese sind.
 \\\addlinespace
 \noindent\EE{Bisswunden}
 &
-Infektionsgefahr
+Infektionsgefahr, nicht nur von Tieren, sondern auch von Menschen
 \\\addlinespace
 \noindent\EE{Insektenstiche}
 &
@@ -3773,7 +3796,7 @@ Bei Kindern ist ab \EE{5\PC*}, bei Erwachsenen ab \EE{10\PC*}
 mind. 2\textdegree{} verbrannter Körperoberfläche mit einem Schock zu
 rechnen!}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verbrennungen}{}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verbrennungen}{\label{m:verbrennung-eh}}{
 \begin{itemize}
   \item Hitzeeinwirkung sofort stoppen.
   \item Wenn 
@@ -3822,6 +3845,9 @@ Am Beginn hat der Patient \EE{Schmerzen}, Atem- und Herzfrequenz sind erhöht.
 Je weiter die Temperatur sinkt, desto \EE{teilnahmsloser}
 und \EE{müder} wird der Patient. Zu Letzt kommt es zum \EE{Absinken
 von Atem- und Herzfrequenz}. Bei einer Temperatur unter 27\,\DegC{} tritt der Tod ein.
+
+\bigskip
+
 }{
 \begin{itemize}
   \item Schmerzen
@@ -3836,7 +3862,8 @@ von Atem- und Herzfrequenz}. Bei einer Temperatur unter 27\,\DegC{} tritt der To
   \item Aufwecken und wach halten
   \item Vorsichtig in Decken oder Kleidungsstücke einwickeln
   \item Rettungsdienst verständigen
-  \item Warme Getränke wenn Patient bewusstseinsklar ist
+  \item Warme Getränke verabreichen, wenn Patient bewusstseinsklar ist
+  \item Keinen Alkohol zu trinken geben!
   \item Keinesfalls bewegen oder frottieren: sog.
   \Ca{Bergungstod!}\footnote{Unter dem Begriff \emph{Bergungstod} versteht
   man das Versterben des Patienten während der Rettung in Folge eines Blutrückflusses
@@ -3934,36 +3961,50 @@ außen die Haut über der Bruchstelle verletzt ist. Es muss dabei nicht der Knoc
 Es gibt \E{sichere} und \E{unsichere} Kennzeichen für einen Knochenbruch. 
 
 Zu
-den \T{sicheren Kennzeichen} zählt die \EE{Fehlstellung} (abnorme Stellung,
-Verkürzung, Treppenbildung), die \EE{abnorme Beweglichkeit} und die
-\EE{Krepitation} (das hörbare und fühlbare Aneinanderreiben
-der Knochen). 
+den \T{sicheren Kennzeichen} zählt die 
+
+\begin{enumerate}
+  \item \EE{Fehlstellung} (abnorme Stellung,
+  Verkürzung, Treppenbildung)
+  \item \EE{Abnorme Beweglichkeit}
+  \item \EE{Krepitation} (das hörbare und fühlbare Aneinanderreiben
+  der Knochen)
+\end{enumerate}
+
+
 
 \T{Unsichere
 Knochenbruchzeichen}\index{Knochenbruchzeichen!Unsichere}
-sind \EE{Schmerzen}, \EE{Schwellungen},
-\EE{Bewegungseinschränkungen} und \EE{Blutergüsse}.
+sind:
 
-\bigskip
-\bigskip
-\bigskip
-\bigskip
-\bigskip
+\begin{enumerate}
+  \item \EE{Schmerzen} 
+  \item \EE{Schwellungen}
+  \item \EE{Bewegungseinschränkungen} 
+  \item \EE{Blutergüsse}
+\end{enumerate}
+
+
+% 
+% \bigskip
+% \bigskip
+% \bigskip
+% \bigskip
 }{
 \begin{itemize}
     \item Sichere Kennzeichen
-    \begin{itemize}
+    \begin{compactitem}
         \item Fehlstellung
         \item Abnorme Beweglichkeit
         \item Krepitation
-    \end{itemize}
+    \end{compactitem}
     \item Unsichere Kennzeichen
-    \begin{itemize}
+    \begin{compactitem}
         \item Schmerzen
         \item Schwellung
         \item Bewegungseinschränkung
         \item Bluterguss
-     \end{itemize}
+     \end{compactitem}
 \end{itemize}
 }{}{}{}
 
@@ -4011,7 +4052,7 @@ Industrie, dem Gewerbe oder der Landwirtschaft kommen.
 
 \Layout{0}{\TxSymptome{} und Kennzeichen}
 {
-Je nach Art des Giftes und der Menge die der Körper abbekommen hat, gibt es
+Je nach Art des Giftes und der Menge, die dem Körper zugeführt wurden, gibt es
 unterschiedliche Kennzeichen. Es kann mit \EE{Rauschzuständen} und
 \EE{Erbrechen bzw. Durchfall} beginnen, über \EE{Bewusstseinsstörung} zu
 \EE{Atem- und Kreislaufstörung} führen.
@@ -4030,7 +4071,7 @@ unterschiedliche Kennzeichen. Es kann mit \EE{Rauschzuständen} und
 \begin{itemize}
     \item Patient nicht ansprechbar:
     \begin{itemize}
-        \item Retten aus der Gefahr (Selbstschutz!).
+        \item Retten aus der Gefahr (Selbstschutz!)
         \item Lebensrettende Sofortmaßnahmen
     \end{itemize}
     \item Patient ansprechbar:
@@ -4104,89 +4145,85 @@ der Klebestreifen von außen keilförmig eingeschnitten.
 
 \subsubsection{Dreiecktuchverbände}
 
-Kopfverbände:
+Mittels des Dreiecktuchs können verschiedene Verbände
+angelegt werden, typische Beispiele sind:
 
-\Layout{57}{}
-{}{}
-{
-\begin{tabularx}{\linewidth}{XXX}
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Kopfverband1b.JPG}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Kopfverband2b.JPG}
-&
-\\
-Verband 1 &
-Verband 2 &
-\\\addlinespace\bottomrule
-\end{tabularx}
-}{Bilderserie: Kopfverbände}{}
-
-Schulterverband:
-
-\Layout{57}{}
-{}{}
-{
-\begin{tabularx}{\linewidth}{XXX}
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Schulterverband1b.JPG}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Schulterverband2b.JPG}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Schulterverband3b.JPG}
-\\
-Schritt 1 &
-Schritt 2 &
-Schritt 3 
-\\\addlinespace\bottomrule
-\end{tabularx}
-}{Bilderserie: Schulterverband}{}
-
-Handverbände:
-
-\Layout{57}{}
-{}{}
-{
-\begin{tabularx}{\linewidth}{XXX}
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Handverband1b.JPG}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Handverband2b.JPG}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Handverband3b.JPG}
-\\
-Schritt 1 &
-Schritt 2 &
-Schritt 3 \\\addlinespace
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Handkrawatte1b.JPG}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Handkrawatte2b.JPG}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Handkrawatte3b.JPG}
-\\
-Schritt 1 &
-Schritt 2 &
-Schritt 3
-\\\addlinespace\bottomrule
-\end{tabularx}
-}{Bilderserie: Zwei verschiedene Handverbände}{}
+\begin{itemize}
+  \item Kopfverband \dotfill
+  \FullPrettyRef{fig:mitella-kopfverband}
+  \item Schulterverband \dotfill
+  \FullPrettyRef{fig:mitella-schulterverband}
+  \item Handverband \dotfill \FullPrettyRef{fig:mitella-handverband}
+  \item Knieverband \dotfill \FullPrettyRef{fig:mitella-knieverband}
+\end{itemize}
 
 
-Knieverband:
 
-\Layout{57}{}
-{}{}
-{
-\begin{tabularx}{\linewidth}{XXX}
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Knieverband1b.JPG}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Knieverband2b.JPG}
-&
-\includegraphics[width=\linewidth]{./images/koch-aass/00800-gamma/Knieverband3b.JPG}
-\\
-Schritt 1 &
-Schritt 2 &
-Schritt 3 
-\\\addlinespace\bottomrule
-\end{tabularx}
-}{Bilderserie: Knieverband}{}
+
+\begin{PictureSeriesWide}{}{Bilderserie:
+Kopfverbände\label{fig:mitella-kopfverband}}
+\PictureSeriesRow{3}
+{./images/koch-aass/00800-gamma/Kopfverband1b.JPG}
+{Verband 1}
+{./images/koch-aass/00800-gamma/Kopfverband2b.JPG}
+{Verband 2}
+{empty}
+{}
+{}
+{}
+\end{PictureSeriesWide}
+
+\begin{PictureSeriesWide}{}{Bilderserie:
+Schulterverband\label{fig:mitella-schulterverband}}
+\PictureSeriesRow{3}
+{./images/koch-aass/00800-gamma/Schulterverband1b.JPG}
+{Schritt 1}
+{./images/koch-aass/00800-gamma/Schulterverband2b.JPG}
+{Schritt 2}
+{./images/koch-aass/00800-gamma/Schulterverband3b.JPG}
+{Schritt 3}
+{}
+{}
+\end{PictureSeriesWide}
+
+
+
+\begin{PictureSeriesWide}{}{Bilderserie: Zwei verschiedene
+Handverbände\label{fig:mitella-handverband}}
+\PictureSeriesRow{3}
+{./images/koch-aass/00800-gamma/Handverband1b.JPG}
+{Schritt 1}
+{./images/koch-aass/00800-gamma/Handverband2b.JPG}
+{Schritt 2}
+{./images/koch-aass/00800-gamma/Handverband3b.JPG}
+{Schritt 3}
+{}
+{}
+\PictureSeriesRow{3}
+{./images/koch-aass/00800-gamma/Handkrawatte1b.JPG}
+{Alternative: Schritt 1}
+{./images/koch-aass/00800-gamma/Handkrawatte2b.JPG}
+{Schritt 2}
+{./images/koch-aass/00800-gamma/Handkrawatte3b.JPG}
+{Schritt 3}
+{}
+{}
+\end{PictureSeriesWide}
+
+\begin{PictureSeriesWide}{}{Bilderserie:
+Knieverband\label{fig:mitella-knieverband}}
+\PictureSeriesRow{3}
+{./images/koch-aass/00800-gamma/Knieverband1b.JPG}
+{Schritt 1}
+{./images/koch-aass/00800-gamma/Knieverband2b.JPG}
+{Schritt 2}
+{./images/koch-aass/00800-gamma/Knieverband3b.JPG}
+{Schritt 3}
+{}
+{}
+\end{PictureSeriesWide}
+
+
 
 
 \section*{Weiterführende Literatur}

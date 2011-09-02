@@ -129,34 +129,26 @@ asymmetric,
 includemp,   % incl. marginpar
 includehead, % incl. header
 includefoot, % incl. footer
-inner  = 30pt,
-outer  = 30pt,
+inner  = 11mm,
+outer  = 11mm,
 top    = 10mm,
 bottom =  8mm,
 bindingoffset=45.50787pt,%0.50787+42.67912+2 → Rest=552pt 
 marginparsep=15pt,
-marginparwidth = 154pt,
+marginparwidth = 152.5pt,
 % marginparpush=0pt,
 footskip = 7mm,
 % % headheight=0.5cm,
 % % headsep=0.5cm,	
-% showframe,
+showframe,
 ]
 {geometry}
 
-
-\setlength\columnsep{15pt}%7mm
-\setlength\columnseprule{0.4pt}
-\setlength\premulticols{10\baselineskip}
-\renewcommand{\columnseprulecolor}{\color{DefaultGrey}}
 
 
 
 % \usepackage{scrindex}
 \makeindex
-
-
-
 
 
 
@@ -166,30 +158,21 @@ footskip = 7mm,
 
 \usepackage{layout}
 
-\newlength{\WideParWidth}
-\setlength{\WideParWidth}{\textwidth+\marginparwidth+\marginparsep}
 
-\newlength{\ThirdGrossWidth}
-\setlength{\ThirdGrossWidth}{(\WideParWidth)/3}
+\setlength\columnsep{15pt}%7mm
+\setlength\columnseprule{0.4pt}
+\setlength\premulticols{10\baselineskip}
+\renewcommand{\columnseprulecolor}{\color{DefaultGrey}}
 
-\newlength{\ThirdNetWidth}
-\setlength{\ThirdNetWidth}{(\WideParWidth-(\columnsep*2))/3}
 
 \newlength{\Textspalte}
-\setlength{\Textspalte}{\textwidth}
-
 \newlength{\Randspalte}
-\setlength{\Randspalte}{\marginparwidth}
-
 \newlength{\Trenner}
-\setlength{\Trenner}{\marginparsep}
-
 \newlength{\Korrektur}
+\setlength{\Textspalte}{\textwidth}
+\setlength{\Randspalte}{\marginparwidth}
+\setlength{\Trenner}{\marginparsep}
 \setlength{\Korrektur}{{\fboxrule} + {\fboxsep}}
-
-
-
-
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -471,7 +454,7 @@ footskip = 7mm,
 % \mtcsetformat{mini-table}{mtcindent}{0pt}
 
 \setlength{\mtcindent}{0pt}
-\mtcsetfeature{minitoc}{open}{\kern1sp\vspace*{-.1ex}\begin{multicols}{2}[\kern-2.5ex]}
+\mtcsetfeature{minitoc}{open}{\kern1sp\vspace*{-.1ex}\begin{multicols}{3}[\kern-2.5ex]}
 \mtcsetfeature{minitoc}{close}{\end{multicols}\kern-2.ex}
 % \mtcsetfeature{minitoc}{open}{\begin{multicols}{2}}
 % \mtcsetfeature{minitoc}{close}{\end{multicols}}

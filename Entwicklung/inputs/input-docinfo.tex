@@ -6,13 +6,14 @@
 \settimeformat{nummeric}
 
 
-\newcommand{\DocVersion}{0.17.x-{\pdfdate}}
-% \renewcommand{\DocVersion}{0.17.2011052600}
+\newcommand{\DocVersion}{0.19.x-{\pdfdate}}
+% \renewcommand{\DocVersion}{0.18}
 \newcommand{\DocVersionTyp}{Entwicklungsversion}
-% \newcommand{\DocVersionTyp}{Vorabversion}
+% \renewcommand{\DocVersionTyp}{Vorabversion}
 \newcommand{\DocVersionInfo}{Entwicklungsversion -- Für den internen Gebrauch.}
-% \newcommand{\DocVersionInfo}{Vorabversion -- Für den internen Gebrauch.} 
+% \renewcommand{\DocVersionInfo}{Vorabversion -- Für den internen Gebrauch.} 
 \hypersetup{
+draft,
 colorlinks=false,
 linkcolor=darkBlue,
 citecolor=darkBlue,
@@ -44,3 +45,4 @@ pdfkeywords=ARGE AASS, % Sets the document information Keywords field
 % \renewcommand{\DocGitCommit}{\input{../tmp/git-lastcommitsha1.tmp}}
 \newcommand{\DocGitCommitFormatted}{\ttfamily\DocGitCommit}
 \newcommand{\DocGitCommitTiny}{\tiny\DocGitCommitFormatted}
+\newcommand{\DocGitCommitFootnotesize}{\footnotesize\DocGitCommitFormatted}

@@ -1001,7 +1001,7 @@ Herzrhythmusstörungen.
 \begin{table}[H]
 \FontTableBase
 \begin{WidePar}
-\Captionof{table}{Übersicht: Wichtige und häufige
+\caption{Übersicht: Wichtige und häufige
 Herzrhythmusstörungen.\label{tab:herzrhythmusstoerungen}}
 
 % Index-Einträge für Tabelle ---
@@ -1020,6 +1020,7 @@ Herzrhythmusstörungen.\label{tab:herzrhythmusstoerungen}}
 \begin{minipage}{\linewidth}
 \FontTableBase
 \begin{tabulary}{\textwidth}{LLL}
+\toprule
 \TabHeading{Rhythmus}
 & 
 \TabHeading{Bedeutung}
@@ -1028,8 +1029,7 @@ Herzrhythmusstörungen.\label{tab:herzrhythmusstoerungen}}
 \\\midrule\addlinespace
 \TabSub{Bradykardie}
 
-{\scriptsize (HF\,{\textless}\,60/min)}\MarginBugfix{(beim
-Erwachsenen)} 
+{\scriptsize (HF\,{\textless}\,60\PerMin*)}
 & 
 Situations\-abhängig 
 & 
@@ -1037,8 +1037,7 @@ Situations\-abhängig
 \\\addlinespace
 \TabSub{Tachykardie} 
 
-{\scriptsize (HF\,{\textgreater}\,100\MarginBugfix{(beim
-Erwachsenen)}/min) }
+{\scriptsize (HF\,{\textgreater}\,100\PerMin*) }
 & 
 Situations\-abhängig 
 & 

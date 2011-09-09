@@ -684,41 +684,35 @@ koloriert.}
 
 
 
-
-
-\begin{table}\FontTableBase
-\begin{WidePar}
-\Captionof{table}{Multiresistente Keime in der Praxis. Auf Nährmedien können
+\begin{PictureSeriesWide}{}{Multiresistente Keime in der Praxis. Auf Nährmedien können
 Bakterien zu diagnostischen Zwecken gezüchtet werden. Ebenso kann man die
 Wirkung von Antibiotika auf den Keim untersuchen.}
-\begin{tabularx}{\linewidth}{XXX}
-			\addlinespace
-\includegraphics[width=\linewidth]{./images/gabriel-christine-aass/staph-aureus.jpg}
-&
-\includegraphics[width=\linewidth]{./images/gabriel-christine-aass/staph-aureus-mrsa.jpg}
-&
-\includegraphics[width=\linewidth]{./images/gabriel-christine-aass/amputat-us1.jpg}
-\\\addlinespace
-\CaptionofDiff{figure}{Auf einem Nährboden wurde eine Bakterienkultur
+\PictureSeriesRowWide{3}
+{./images/gabriel-christine-aass/staph-aureus.jpg}
+{Auf einem Nährboden wurde eine Bakterienkultur
 angelegt. Jedes der sechs runden Blättchen enthält ein Antibiotikum. Man kann
 sehen dass in der Umgebung der Blättchen keine Bakterien wachsen.
-\SourcePicture{Gabriel/KARPAT}}{Nährboden mit Staphylococcus aureus. \SourcePicture{Gabriel/KARPAT}}
-&
-\CaptionofDiff{figure}{Diese Bakterien ignorieren 4 von 6
+\SourcePicture{Gabriel/KARPAT}}
+{./images/gabriel-christine-aass/staph-aureus-mrsa.jpg}
+{Diese Bakterien ignorieren 4 von 6
 Antibiotika-Blättchen, d.\,h. die entsprechenden Antibiotika wirken
 nicht gegen diesen Keim. Er ist \EE{multiresistent}.
-\SourcePicture{Gabriel/KARPAT}}{Nährboden mit einem Multiresistenten
-Staphylococcus aureus. \SourcePicture{Gabriel/KARPAT}} 
-&
-\CaptionofDiff{figure}{Oft die Folge einer infizierten, nicht abheilenden
+\SourcePicture{Gabriel/KARPAT}}
+{./images/gabriel-christine-aass/amputat-us1.jpg}
+{Oft die Folge einer infizierten, nicht abheilenden
 Wunde: Eine Amputation des Unterschenkels.
 \SourcePicture{Gabriel/KARPAT}}
-{Unterschenkelamputat mit nicht abgeheilter Wunde.
-\SourcePicture{Gabriel/KARPAT}} 
-\\\addlinespace\bottomrule
-\end{tabularx}
-\end{WidePar}
-\end{table}
+{empty}
+{}
+\end{PictureSeriesWide}
+
+
+% \CaptionofDiff{figure}{}{Nährboden mit Staphylococcus aureus. \SourcePicture{Gabriel/KARPAT}}
+% \CaptionofDiff{figure}{}{Nährboden mit einem Multiresistenten
+% Staphylococcus aureus. \SourcePicture{Gabriel/KARPAT}} 
+% \CaptionofDiff{figure}{}
+% {Unterschenkelamputat mit nicht abgeheilter Wunde.
+% \SourcePicture{Gabriel/KARPAT}} 
 
 \MassnahmenTwoColumn{Spezielle
 Maßnahmen}{MRSA-Transport}{\label{m:mrsa-transport}}{
@@ -1044,7 +1038,8 @@ zertifizierten Einrichtungen mit validierten Verfahren aufbereitet werden!}
 
 \begin{table}[H]\FontTableBase
 \begin{WidePar}
-\Captionof{table}{Gegenüberstellung Desinfektion -- Sterilisation.}
+\caption{Gegenüberstellung Desinfektion --
+Sterilisation.}
 
 \begin{tabularx}{\linewidth}[H]{XX}
 \toprule\addlinespace

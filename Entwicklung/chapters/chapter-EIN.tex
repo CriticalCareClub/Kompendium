@@ -243,6 +243,9 @@ Jede diagnostische Maßnahme hat (hoffentlich) ein Ergebnis, welches man als
 
 
 
+
+
+
 \subsection{Diagnose} 
 \index{Diagnose}
 \label{topic:diagnose}
@@ -397,9 +400,6 @@ Alkoholgenuss am Vortag.
 
 
 
-
-
-
 \bigskip
 
 % \clearpage % TODO temp clearpage
@@ -524,12 +524,13 @@ Wucherungen zwischen Karzinomen, Sarkomen und Blastomen.}
 \Captionof{table}{Beispiele: Häufige Neubildungen.}
 
 \begin{tabularx}{\linewidth}{XXl}
+\toprule\addlinespace
 \EE{Schlagwort}
 &
 \EE{Beispiel}
 &
 \TabHeading{\Z{Im Arztbrief}}
-\\\midrule
+\\\addlinespace\midrule\addlinespace
 Lungenkrebs
 &
 Bronchialkarzinom
@@ -553,7 +554,7 @@ Blutkrebs
 Leukämie, versch. Arten
 &
 {\ttfamily\Z{ALL, AML, CML, \ldots}}
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabularx}
 \end{table}
 
@@ -641,34 +642,39 @@ Wohnsituation bei psychiatrischen Patienten, \ldots)
 der Beschreibung der Situation gegenüber Dritter, welche am Einsatz nicht
 beteiligt waren.}
 
-\clearpage % TODO temp clearpage
+\bigskip
+% \clearpage % TODO temp clearpage
 \subsection{Beispiele}
 
-\minisec{Schlecht:}
-\begin{quote}
-
+\Layout{2}{Schlechte Dokumentation}
+{\par\bigskip\noindent\begin{minipage}{\linewidth}
 {\sffamily Diagnose:} {\ttfamily\color{darkBlue} RQW}
 
 {\sffamily Befunde:} {\sffamily RR}
-{\ttfamily\color{darkBlue} 130/70,} {\sffamily HF}
-{\ttfamily\color{darkBlue} 90} {\sffamily SpO2}
-{\ttfamily\color{darkBlue} 98\% }
+{\FontTypewriter\color{darkBlue} ~~130/70,} {\sffamily HF}
+{\FontTypewriter\color{darkBlue} ~~~90} {\sffamily SpO2}
+{\FontTypewriter\color{darkBlue} ~~~98\% }
 
-{\sffamily Anmerkungen: }{\ttfamily\color{darkBlue} -- --
+{\sffamily Anmerkungen: }{\FontTypewriter\color{darkBlue} -- --
 --}
-\end{quote}
+\end{minipage}}
+{}
+{}
+{}
+{}
 
-\minisec{Besser:}
 
-\begin{quote}
-{\sffamily Diagnose:} {\ttfamily\color{darkBlue} RQW Stirn}
+\Layout{2}{Bessere Dokumentation}
+{
+\par\bigskip\noindent\begin{minipage}{\linewidth}
+{\sffamily Diagnose:} {\FontTypewriter\color{darkBlue} RQW Stirn}
 
 {\sffamily Befunde:} {\sffamily RR}
-{\ttfamily\color{darkBlue} 130/70,} {\sffamily HF}
-{\ttfamily\color{darkBlue} 90} {\sffamily SpO2}
-{\ttfamily\color{darkBlue} 98\% }
+{\FontTypewriter\color{darkBlue} ~~130/70,} {\sffamily HF}
+{\FontTypewriter\color{darkBlue} ~~~90} {\sffamily SpO2}
+{\FontTypewriter\color{darkBlue} ~~~98\% }
 
-{\sffamily Anmerkungen:} {\ttfamily\color{darkBlue} Pat.
+{\sffamily Anmerkungen:} {\FontTypewriter\color{darkBlue} Pat.
 fuhr mit Fahrrad und prallte mit Stirn gegen Ast., kein Sturz. Lt. Begleiter
 keine B.losigkeit, Unfallhergang erinnerlich \underbar{Traumacheck:} RQW Stirn,
 ca 50\,ml Blutverlust sonst unauffällig. \underbar{Neuro:}
@@ -683,20 +689,26 @@ Tetanus-Impf. nicht bek. \underbar{Ereignisse} s.o.
 
 \underline{Maßnahmen:} Steriler Verband, nüchtern belassen,
 Transport liegend mit erh OK.}
-\end{quote}
+\end{minipage}
+}
+{}
+{}
+{}
+{}
 
-\minisec{Psychiatrisch:}
 
-\begin{quote}
-{\sffamily Diagnose:} {\ttfamily\color{darkBlue}
+
+\Layout{2}{Psychiatrischer und psychosozialer Patient}
+{\par\bigskip\noindent\begin{minipage}{\linewidth}
+{\sffamily Diagnose:} {\FontTypewriter\color{darkBlue}
 Psychiatrische Erkrankung, V.a. Wahnvorstellungen, Unterbringung nach UbG}
 
 {\sffamily Befunde:} {\sffamily RR}
-{\ttfamily\color{darkBlue} 130/70,} {\sffamily HF}
-{\ttfamily\color{darkBlue} 90} {\sffamily SpO2}
-{\ttfamily\color{darkBlue} 98\% }
+{\FontTypewriter\color{darkBlue} ~~130/70,} {\sffamily HF}
+{\FontTypewriter\color{darkBlue} ~~~90} {\sffamily SpO2}
+{\FontTypewriter\color{darkBlue} ~~~98\% }
 
-{\sffamily Anmerkungen:} {\ttfamily\color{darkBlue} Pat.
+{\sffamily Anmerkungen:} {\FontTypewriter\color{darkBlue} Pat.
 sitzend in Wohnung angetr., von Pol. mit Handschellen gefesselt. Pat. warf lt. Polizei Gegstände aus d Fenster
 auf Straße, verletzte Passanten ($\rightarrow$ FLO-1). Pat.
 gibt an, sich geg. Geheimdienst gewehrt zu haben,
@@ -720,7 +732,13 @@ stinkend.
 \underbar{Maßnahmen:} Einweisung nach UbG, Transport in
 Handschellen in Pol-begl. (Viktor 6, DNr. 4711). Protokoll
 Amtsarzt ad. Spital.}
-\end{quote}
+\end{minipage}}
+{}
+{}
+{}
+{}
+
+
 
 
 

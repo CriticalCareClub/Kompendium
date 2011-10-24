@@ -5767,6 +5767,18 @@
   timestamp = {2011.10.02}
 }
 
+@BOOK{OscesAtGlance1,
+  title = {{OSCEs} at a Glance},
+  publisher = {Wiley-Blackwell},
+  year = {2009},
+  editor = {Adrian Blundell and Richard Harrison},
+  edition = {1},
+  isbn = {978-1405-1-3057-8},
+  language = {english},
+  owner = {grissu},
+  timestamp = {2011.10.02}
+}
+
 @comment{jabref-meta: selector_publisher:}
 
 @comment{jabref-meta: fileDirectory:./Literatur/;}

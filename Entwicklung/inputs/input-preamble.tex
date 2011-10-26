@@ -705,10 +705,10 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 \ifthenelse{\equal{#1}{2}}
 {\subfloat
 [#3]
-{\ifthenelse{\equal{#2}{empty}}{\parbox{0.32\linewidth}{~}}{\includegraphics[width=0.45\linewidth]{#2}}}
-\hfill
+{\ifthenelse{\equal{#2}{empty}}{\parbox{\ThirdNetWidth}{~}}{\includegraphics[width=\ThirdNetWidth]{#2}}}
+\hspace{\columnsep}
 \subfloat[#5]
-{\ifthenelse{\equal{#4}{empty}}{\parbox{0.32\linewidth}{~}}{\includegraphics[width=0.45\linewidth]{#4}}}
+{\ifthenelse{\equal{#4}{empty}}{\parbox{\ThirdNetWidth}{~}}{\includegraphics[width=\ThirdNetWidth]{#4}}}
 }
 {}
 \ifthenelse{\equal{#1}{3}}

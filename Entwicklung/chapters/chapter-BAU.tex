@@ -165,32 +165,15 @@ Bild: Motal
 Das Erheben von Vitalwerten ist eine Routinetätigkeit und
 sollte bei jedem Notfallpatienten erfolgen. Es gibt nur wenig
 Situationen bei denen man darauf verzichten kann (zum
-Beispiel tobende Patienten). Zu den Vitalwerten zählt man
+Beispiel tobende Patienten). Zu den Vitalwerten zählt man:
 
 \begin{itemize}
-\item die \EE{Herzfrequenz}, 
-\item den \EE{Blutdruck} und 
-\item die \EE{Atemfrequenz}.
+  \item die \EE{Herzfrequenz} {\ldots}
+  \FullPrettyRef{topic:pulsmessung}, \FullPrettyRef{topic:pulsoxymetrie}
+  \item den \EE{Blutdruck} {\ldots} \FullPrettyRef{topic:rr-messung}
+  \item die \II{Atemfrequenz}: Bei der Messung der
+  Atemfrequenz wird die Anzahl der Atemzüge pro Minute gezählt.
 \end{itemize}
-
-Die Messung der Herzfrequenz erfolgt mittels Puls fühlen oder
-mittels Pulsoxymeter. Beim Puls fühlen wird für
-\EE{15~Sekunden} der Puls gefühlt und die Pulsschläge
-gezählt. Anschließend wird das Ergebnis \EE{mit vier
-multipliziert}, man erhält die Pulsschläge \EE{pro Minute}
-(\PerMin). Neben der Frequenz wird auch die
-Regelmäßigkeit beurteilt, das heißt ob der Puls \E{rhythmisch} oder \E{arrhythmisch} ist.
-
-Alternativ kann die Messung mittels des \E{Pulsoxymeters}
-erfolgen (\FullPrettyRef{topic:pulsoxymetrie}). Dabei misst ein
-Gerät die Herzfrequenz und zeigt diese an. Es ist jedoch zu
-beachten, dass bei Notfallpatienten die Pulsoxymetrie oft
-nicht funktioniert (z.\,B. Zentralisation bei Schock, kalte Finger,\ldots).
-
-Die Messung des Blutdrucks ist unter
-\FullPrettyRef{topic:rr-messung}, beschrieben.
-
-Bei der Messung der Atemfrequenz wird die Anzahl der Atemzüge pro Minute gezählt.\index{Atemfrequenz}
 }{
 \begin{itemize}
   \item Herzfrequenz
@@ -198,11 +181,6 @@ Bei der Messung der Atemfrequenz wird die Anzahl der Atemzüge pro Minute gezäh
   \item Atemfrequenz
 \end{itemize}
 }{}{}{}
-
-
-
-
-
 
 
 
@@ -217,29 +195,34 @@ Layout-Anpassung notwendig.} {Dieser Teil entspricht nicht dem Standard-Layout!}
 bezeichnet man die Anzahl der Schläge des Herzens pro Minute.} 
 
 Sie wird mittels Fühlen des Pulses
-ermittelt. \marginpar{\E{\scriptsize Die Blutgefäße werden im Detail unter
-\prettyref{topic:blutgefaesse-wichtige} besprochen.}} 
+ermittelt.
 Dieser wird idealerweise an der
 \EE{Radialarterie} (A. \E{radialis}) bzw. bei nicht
 ansprechbaren oder schockierten Patienten an der
 \EE{Halsschlagader} (A. \E{carotis}) ertastet. Bei
 Neugeborenen und Säuglingen kann man auch an der
 \EE{Oberarmarterie} (A. \E{brachialis}) fühlen. Gemessen
-wird immer mit zwei bis drei Fingern. Nie jedoch mit dem Daumen, da hier meistens nur der eigene Puls gefühlt wird und nicht der des
-Patienten. Wenn an der Halsschlagader (A. \E{carotis}) die
-Herzfrequenz ermittelt wird, darf nie auf beiden Seiten
-gleichzeitig gemessen werden, da sonst die Gefahr besteht,
+wird immer mit zwei bis drei Fingern, nie jedoch mit dem
+Daumen, da hier meistens nur der \so{eigene} Puls gefühlt
+wird, und nicht der des Patienten. Wenn an der
+Halsschlagader (A. \E{carotis}) die Herzfrequenz ermittelt
+wird, darf nie auf beiden Seiten gleichzeitig gemessen
+werden, da sonst die Gefahr besteht,
 dass es zu einer Unterversorgung des Gehirn durch Blut kommen
 kann.
 
 \Layout{2}{Durchführung}{
 Es wird an der Radialarterie (A. \E{radialis}) der Puls mit
 zwei bis drei Fingern ertastet. Nun werden 15 Sekunden lang
-die Schläge gezählt. Multipliziert man den Messwert mit vier,
-erhält man  die Herzfrequenz (HF) des Patienten. Der
+die Schläge gezählt. Anschließend wird das Ergebnis \EE{mit vier
+multipliziert}, man erhält die Herzfrequenz (HF)
+in Pulsschläge \EE{pro Minute} (\PerMin). 
+Der
 Normalwert liegt beim Erwachsenen zwischen 60 und 100
-Schlägen pro Minute. Dokumentiert wird sie mit einem HF
-(z.\,B.: HF\,=\,70)
+Schlägen pro Minute. Neben der Frequenz
+wird auch die \EE{Regelmäßigkeit} beurteilt, das heißt ob
+der Puls \E{rhythmisch} oder \E{arrhythmisch} ist.
+
 }{
 }{}{}{}
 
@@ -478,19 +461,19 @@ wird der Blutdruck mit RR (z.\,B.: RR~\RRmmHg{125}{75}). Der
 Normalwert beim Erwachsenen liegt ca. bei RR~\RRmmHg{120}{80}
 (\prettyref{topic:blutdruck}).
 }{
-\begin{itemize}
+\begin{compactenum}
   \item Manschette faltenfrei auf Herzhöhe anlegen
   \item Luftkissen  mittig über Oberarmarterie
-  \item Markierungspfeil beachten
+  (Markierungspfeil!)
   \item Radialarterie tasten
   \item Manschette aufpumpen bis Radialispuls nicht mehr tastbar ist
-  +~\VonBis{20}{30}\MmHg
+  +~\VonBis{20}{30}\,\MmHg
   \item Stethoskop über Oberarmarterie anlegen
   \item Druck langsam ablassen
   \item Erstes Pochen: systolischer Wert
   \item Letztes Pochen: diastolischer Wert
   \item Werte auf nächste 5er-Stelle abrunden
-\end{itemize}
+\end{compactenum}
 
 }{}{}{}
 
@@ -538,18 +521,17 @@ Regel der wichtigere.
 
 \bigskip
 }{
-\begin{itemize}
+\begin{compactenum}
   \item Manschette faltenfrei auf Herzhöhe anlegen
   \item Luftkissen  mittig über Oberarmarterie
-  \item Markierungspfeil beachten
+  (Markierungspfeil!) beachten
   \item Radialarterie tasten
   \item Manschette aufpumpen bis Radialispuls nicht mehr tastbar ist
-  +~\VonBis{20}{30}\MmHg
-  \item Druck langsam ablassen, dabei Radialispuls weiter versuchen zu tasten
+  +~\VonBis{20}{30}\,\MmHg
+  \item Druck langsam ablassen
   \item Radialispuls wieder fühlbar: systolischer Wert
-  \item Auf nächste 5er-Stelle abrunden
   \item \E{Kein} \E{diastolischer} Wert!
-\end{itemize}
+\end{compactenum}
 }{}{}{}
 
 
@@ -963,7 +945,7 @@ Notfallsymptome auftreten.
   im Display ein Tropfen angezeigt wird ist das Gerät
   messbereit.
   \item Den Messstreifen mit dem Gerät in den Bluttropfen
-  tauchen, das Blut steigt auf\footnote{Kapillarwirkung}.
+  tauchen, das Blut steigt auf.\footnote{Kapillarwirkung}
   \item Beim Piepton ist genug Blut in die Testkammer
   eingeströmt und das Gerät beginnt mit der Messung und kann
   entfernt werden. 
@@ -1135,7 +1117,7 @@ EKG-Gerät \EE{sechs Ableitungen} \Z{(\EKG{I}, \EKG{II}, \EKG{III}, \EKG{aVL}, \
 für die Extremitätenableitung.}
 
 \begin{tabular}{lll}
-\TabHeading{Elektrode} 
+\addlinespace\toprule\addlinespace
 & 
 \TabHeading{Position} 
 &
@@ -1358,36 +1340,29 @@ durchgeführt.
 
 %\end{multicols}
 
-\Layout{57}{}
-{}{}
-{
-\begin{tabularx}{\linewidth}{XXX}
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro1.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro2.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro3b.jpg}
-\\
-Pupillenreaktion, Lichtscheue, Sehstörungen 
-&
-Kraftprobe an den Armen
-& 
-Kraftprobe an den Beinen
-\\\addlinespace
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro4.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro5.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro6.jpg}
-\\
-Nackensteifigkeit
-&
-Nackensteifigkeit
-&
-Blutzuckermessung
-\\\addlinespace\bottomrule
-\end{tabularx}
-}{Bilderserie: Neurocheck}{}
+
+\begin{PictureSeriesWide}{}{Bilderserie: \EE{Neurocheck}
+\SourcePicture{Motal}}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/neuro1.jpg}
+{Pupillenreaktion, Lichtscheue, Sehstörungen }
+{./images/motal-aass/00800/neuro2.jpg}
+{Kraftprobe an den Armen}
+{./images/motal-aass/00800/neuro3b.jpg}
+{Kraftprobe an den Beinen}
+{}
+{}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/neuro4.jpg}
+{Nackensteifigkeit}
+{./images/motal-aass/00800/neuro5.jpg}
+{Nackensteifigkeit}
+{./images/motal-aass/00800/neuro6.jpg}
+{Blutzuckermessung}
+{}
+{}
+\end{PictureSeriesWide}
+
 
 % FEHLT: Bild für Orientierung (stattdessen jetzt 2x
 % Nackensteifigkeit)
@@ -1548,53 +1523,44 @@ Fall erforderlich! }{
 \end{itemize}
 }{}{}{}
 
-\Layout{57}{}
-{}{}
-{
-\begin{tabularx}{\linewidth}{XXX}
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck1.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck2.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck3b.jpg}
-\\
-Kleidung entfernen 
-&
-Schuhe ausziehen (Fixierung, Stiefelgriff) 
-& 
-Untersuchung des Kopfes 
-\\\addlinespace
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck4.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck5b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck6b.jpg}
-\\
-In alle Körperöffnungen im Kopf leuchten, Pupillenkontrolle.
-&
-Neben Blut kann auch Liquor austreten (Tupfertest).
-&
-Untersuchung des Thorax (inkl. Atemmechanik)
-\\\addlinespace
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck7b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck8b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck9b.jpg}
-\\
-Untersuchung des Abdomen und des Beckens
-& 
-Untersuchung der Extremitäten (DMS, Nagelbettprobe) 
-&
-Nach dem Traumacheck den entkleideten Patient vor
-Wärmeverlust schützen. 
-\\\addlinespace\bottomrule
-\end{tabularx}
-}
-{Bilderserie: Traumacheck. Achte auf den Wärmeerhalt! In
-kühler Umgebung soll ein ausführlicher Traumacheck erst
-im (geheizten) Fahrzeug durchgeführt werden.}
+
+\begin{PictureSeriesWide}{}{Bilderserie: \EE{Traumacheck}. Achte auf den Wärmeerhalt!
+In kühler Umgebung soll ein ausführlicher Traumacheck erst
+im (geheizten) Fahrzeug durchgeführt werden.
+\SourcePicture{Motal}}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/traumacheck1.jpg}
+{Kleidung entfernen }
+{./images/motal-aass/00800/traumacheck2.jpg}
+{Schuhe ausziehen (Fixierung, Stiefelgriff) }
+{./images/motal-aass/00800/traumacheck3b.jpg}
+{Untersuchung des Kopfes }
 {}
+{}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/traumacheck4.jpg}
+{In alle Körperöffnungen im Kopf leuchten, Pupillenkontrolle.}
+{./images/motal-aass/00800/traumacheck5b.jpg}
+{Neben Blut kann auch Liquor austreten (Tupfertest).}
+{./images/motal-aass/00800/traumacheck6b.jpg}
+{Untersuchung des Thorax (inkl. Atemmechanik)}
+{}
+{}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/traumacheck7b.jpg}
+{Untersuchung des Abdomen und des Beckens}
+{./images/motal-aass/00800/traumacheck8b.jpg}
+{Untersuchung der Extremitäten (DMS, Nagelbettprobe) }
+{./images/motal-aass/00800/traumacheck9b.jpg}
+{Nach dem Traumacheck den entkleideten Patient vor
+Wärmeverlust schützen. }
+{}
+{}
+\end{PictureSeriesWide}
+
+
+
+
 
 
 
@@ -1603,13 +1569,14 @@ im (geheizten) Fahrzeug durchgeführt werden.}
 
 \section*{\protect\dsliterary{} Weiterführende Literatur}
 \begin{WidePar}
-\begin{multicols}{2}
-\begin{labeling}{mmm}
+\begin{multicols}{3}
+\small
+\begin{description}%{mmm}
   \item[\cite{DahmerAnamneseBefund10}] \emph{\bibentry{DahmerAnamneseBefund10}}
   \item[\cite{LehmeyerAnamUnter1}] \emph{\bibentry{LehmeyerAnamUnter1}}
   \item[\cite{ChecklisteAnamUnt1}] \emph{\bibentry{ChecklisteAnamUnt1}}
   \item[\cite{BatesUntersuchung1}] \emph{\bibentry{BatesUntersuchung1}}
-\end{labeling}
+\end{description}
 \end{multicols}
 \end{WidePar}
 

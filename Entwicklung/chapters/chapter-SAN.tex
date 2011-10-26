@@ -382,7 +382,7 @@ kann \prettyref{tab:absaugkatheter} entnommen werden.}}
 \Layout{57}{}
 {}{}
 {\Z{%
-\begin{tabulary}{\linewidth}{LCCCCCCCCC}
+\begin{tabulary}{\linewidth}{LCCCCCCCCC}\toprule\addlinespace
 \noindent\TabHeading{Farbe}
 &
 \noindent\TabHeading{grau}
@@ -420,14 +420,14 @@ Größe in Charrière
   \item[\CustAsbFlo:] Es werden folgende Geräte
 eingesetzt:
 
-\begin{tabulary}{\linewidth}{LLLL}
-\TabHeading{Hersteller}
+\begin{tabulary}{\linewidth}{LLLL}\toprule\addlinespace
+\noindent\TabHeading{Hersteller}
 &
-\TabHeading{Produktfamilie}
+\noindent\TabHeading{Produktfamilie}
 &
-\TabHeading{Typ}
+\noindent\TabHeading{Typ}
 &
-\TabHeading{Bemerkungen}
+\noindent\TabHeading{Bemerkungen}
 \\\addlinespace\midrule
 Weinmann
 &
@@ -469,8 +469,8 @@ Orosauger
 
 \Layout{57}{}{}{}
 {
-\begin{tabulary}{\linewidth}{LLL}
-\TabHeading{Elektrische Absaugeinheit}
+\begin{tabulary}{\linewidth}{LLL}\toprule\addlinespace
+\noindent\TabHeading{Elektrische Absaugeinheit}
 
 Älteres Modell von der Fa. Laerdal (Laerdal Suction Unit{\texttrademark})
 
@@ -482,7 +482,7 @@ Neueres Modell von der Fa. Weinmann (Accuvac{\texttrademark})
 \vspace{0.1pt}
 \includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Accuvac_32820-AASS-0112mm.jpg}
 \\\midrule
-\TabHeading{Manuelle Absaugpumpen}
+\noindent\TabHeading{Manuelle Absaugpumpen}
 
 Handabsaugpumpe
 
@@ -494,14 +494,14 @@ Fußabsaugpumpe
 \vspace{0.1pt}
 \includegraphics[width=\linewidth]{./images/geraete/fussabsaugung1.jpg}
 \\\midrule
-\TabHeading{Oro-Sauger}
+\noindent\TabHeading{Oro-Sauger}
 
 Schleimabsauger für Neugeborene
 &
 \vspace{0.1pt}
 \includegraphics[width=\linewidth]{./images/geraete/orosauger.jpg}
 \\\midrule
-\TabHeading{Absaugkatheter}
+\noindent\TabHeading{Absaugkatheter}
 
 zum Einführen in Mund oder Nase
 &
@@ -758,7 +758,7 @@ medizinischen Gase) nicht festgelegt.
 {Pallinger}% Credits
 
 
-\Layout{0}{Eigenschaften der Druckflaschen}
+\Layout{0}{Druckflaschen}
 {Die Druckflaschen haben unterschiedliche Füllgrößen
 (Volumina), gängige Flaschengrößen sind 0,5, 1, 1,5, 2, 5
 und
@@ -770,7 +770,9 @@ normalerweise ca. 200\Bar*.
 Jede Druckflasche verfügt über ein \T{Hauptventil} und
 ein Standardgewinde. An diesem Gewinde ist entweder ein
 weiterführender Druckschlauch oder der \E{Druckminderer}
-einer \E{Berieselungseinheit} angeschlossen. }
+einer \E{Berieselungseinheit} angeschlossen.
+
+\bigskip }
 {
 \begin{itemize}
   \item Unterschiedliche Füllgrößen
@@ -1030,25 +1032,25 @@ Berieselungsmasken mit Reservoir.
 
 
 \begin{table}[H]
-\FontTableBase
+\FontTableBase\small
 \begin{WidePar}
-\Captionof{table}{Verabreichungsarten von Sauerstoff.}
+\Captionof{table}{Verabreichungsarten von Sauerstoff}
 
-\begin{tabulary}{\linewidth}[H]{CLLL}
-\toprule\addlinespace
-\TabHeading{Was}
+\begin{tabulary}{\linewidth}[H]{LLLL}
+\addlinespace\toprule\addlinespace
+\noindent
  &
-\TabHeading{Wann}
+\noindent\TabHeading{Indikation}
  &
-\TabHeading{Vorteile}
+\noindent\TabHeading{Vorteile}
 &
-\TabHeading{Nachteile}
+\noindent\TabHeading{Nachteile}
 \\\addlinespace\midrule\addlinespace 
 \TabSub{Sauerstoff\-brille}
  &
 Spontanatmung
 
-\ce{O2}-Flow {\textless}~5\LPerMin*
+\ce{O2}-Flow \EE{bis~5\LPerMin*}
  &
 gute Toleranz
 
@@ -1129,12 +1131,13 @@ Ziel ist eine Sauerstoffsättigung (Sp\ce{O2}) von
     (\FullPrettyRef{topic:hyperventailationssyndrom})
   \end{itemize}
   \item Situationsgerechte Dosierung je nach
-  zugrundeliegender Erkrankung oder Sp\ce{O2} von
-\EE{\VonBis{94}{98}\PC*}
+  zugrundeliegender Erkrankung. Grundsätzlich soll ein
+  Sp\ce{O2} von
+\EE{\VonBis{94}{98}\PC*} erreicht werden.
   \item Auswahl des Hilfsmittels:
   \begin{itemize}
     \item \E{Sauerstoff\-brille}
-    \ce{O2}-Flow {\textless}~5\LPerMin*,
+    \ce{O2}-Flow bis~5\LPerMin*,
     \item \E{Sauerstoff\-maske}
     \ce{O2}-Flow ab 5\LPerMin*,
     \item \E{Sauerstoff\-maske mit
@@ -1199,7 +1202,7 @@ Sauerstoff und Umgebungsluft eingestellt werden.\ZFootnote{Z.\,B. Schalthebel
 \index{Beatmung}
 \index{Beatmung!Grundsätzliches}
 
-\Layout{2}{\TxBeschreibung}
+\Layout{0}{\TxBeschreibung}
 {Bei \EE{fehlender} oder \EE{nicht ausreichender
 Spontanatmung} (Eigenatmung) wird eine \EE{künstliche
 Beatmung} durchgeführt. Dabei wird Eigenatmung des Patienten
@@ -1292,7 +1295,7 @@ u.\,U. unterstützend ein \T{Guedel-Tubus} angwendet werden.
 \begin{table}[H]
 \Captionof{table}{Mögliche Sauerstoffkonzentrationen bei der Beatmung.}
 \FontTableBase
-\begin{tabulary}{\linewidth}{Lc}
+\begin{tabulary}{\linewidth}{Lc}\addlinespace\toprule\addlinespace
 %\addlinespace 
 \noindent\TabHeading{Art der Beatmung} &
 \noindent\TabHeading{\ce{O2}-Konzentration}
@@ -1641,6 +1644,7 @@ zum Einsatz:
 
 \begin{figure}[H]
 \includegraphics[width=\linewidth]{./images/geraete/ger-medumat-standard-bedienfeld.jpg}
+
 \CaptionofDiff{figure}{Bedienfelder Berieselungseinheit \E{Modul Oxygen} (li.)
 und Beatmungsgerät \E{Medumat{\texttrademark} Standard} (re.).
 
@@ -1785,22 +1789,20 @@ kooperativen Patienten, außerdem sollte das Stiegenhaus, oder die zurück
 zulegende Strecke, breit genug sein. Die Technik eignet sich nur für kurze
 Distanzen.
 
-\Layout{57}{}
-{}{}
-{
-\begin{tabularx}{\linewidth}{XXX}
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragering1b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragering2b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/tragering3b.jpg}
-\\
-Tragering &
-Transport mit dem Tragering &
-Transport mit dem Tragering 
-\\\addlinespace\bottomrule
-\end{tabularx}
-}{Bilderserie: Transport mit einem Tragering}{}
+\begin{PictureSeriesWide}{}{Bilderserie: Transport mit einem
+\EE{Tragering} \SourcePicture{Motal}}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/tragering1b.jpg}
+{Tragering}
+{./images/motal-aass/00800/tragering2b.jpg}
+{Transport mit dem Tragering}
+{./images/motal-aass/00800/tragering3b.jpg}
+{Transport mit dem Tragering}
+{}
+{}
+\end{PictureSeriesWide}
+
+
 
 
 
@@ -1914,19 +1916,18 @@ Transport über Stiegen hat der Patient immer talwärts zu blicken.
 \label{topic:fahrtrage}
 
 \Layout{2}{\TxBeschreibung}
-{
-\index{Trage}
-\index{Krankentrage}
-\index{Fahrtrage}
-\index{Stollenwerk{\texttrademark}}
-\index{Ferno!Fahrtrage}
-
+{%
+\index{Trage}%
+\index{Krankentrage}%
+\index{Fahrtrage}%
+\index{Stollenwerk{\texttrademark}}%
+\index{Ferno!Fahrtrage}%
+%
 Eine Krankentrage besteht aus einer Liegefläche für den
 Patienten und 4 Holmen, mit welchen die Trage von zwei oder
 mehr Personen getragen werden kann. Moderne Tragen verfügen
 zudem über ein höhenverstellbares, abtrennbares Fahrgestell. 
-
-Tragen verfügen über unterschiedliche Gurtensyteme,
+Tragen verfügen über unterschiedliche \EE{Gurtensyteme},
 grundsätzlich ist der Patient immer gemäß der
 Herstellerangaben anzuschnallen (Schultern, Becken und
 Beine!). Der \EE{Beingurt} ist sehr wichtig: Er verhindert
@@ -2139,11 +2140,7 @@ grundsätzlich immer abzunehmen! }{}{}{}{}
 % \end{multicols}
 }{}{}{}{}
 
-\the\WideParWidth
 
-\the\ThirdGrossWidth
-
-\the\ThirdNetWidth
 
 \begin{PictureSeriesWide}{}{Bilderserie: Helmabnahme und Anlage
 einer HWS-Schiene \SourcePicture{Motal}\label{fig:helmabnahme-hws-schiene}\label{fig:hws-schiene-anlegen}}

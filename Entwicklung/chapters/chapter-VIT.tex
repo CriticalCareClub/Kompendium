@@ -302,7 +302,7 @@ Bewusstseinsgrade auf:
 
 \begin{tabulary}{\linewidth}{LlLL}
 % \toprule
-\addlinespace
+\addlinespace\toprule\addlinespace
 \TabSub{Bewusstseinsklar}
  &
  &
@@ -397,7 +397,7 @@ regelmäßig umstritten.}.
 \FormatTable
 \Captionof{table}{GCS - Glasgow Coma Scale für den Erwachsenen.\label{tab:gcs}}
 
-\begin{tabulary}{\linewidth}{LCCL}
+\begin{tabulary}{\linewidth}{LCCL}\addlinespace\toprule\addlinespace
 \noindent ~ & \noindent\TabHeading{Max.} & \noindent\TabHeading{Punkte} &
 \noindent\TabHeading{Reaktion}
 \\\midrule
@@ -452,13 +452,13 @@ listet typische Ursachen auf.
 \Captionof{table}{Typische Ursachen von
 Bewusstseinsstörungen.\label{tab:bewusstseinsstoerungen-ursachen}}
 
-\begin{tabularx}{\linewidth}[H]{XX}
+\begin{tabularx}{\linewidth}[H]{XX}\addlinespace\toprule\addlinespace
 \noindent\TabHeading{Primäre Ursachen} & \noindent\TabHeading{Sekundäre
 Ursachen}
 \\
 {\tiny betreffen direkt das ZNS} & {\tiny betreffen über
 Umwege das ZNS} 
-\\\midrule
+\\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}\addlinespace
 \begin{itemize}
     \item Verletzungen (SHT)
     \item Blutungen, Hirnschwellung
@@ -685,8 +685,8 @@ Die Atemfrequenz ist stark altersabhängig:
 \Captionof{table}{Atemfrequenz im Altersvergleich,
 Richtwerte.}
 
-\begin{tabular}{lrr}\addlinespace
- & \TabHeading{AF} & \TabHeading{AZV}
+\begin{tabular}{lrr}\addlinespace\toprule\addlinespace
+ & \noindent\TabHeading{AF} & \noindent\TabHeading{AZV}
 \\\addlinespace\midrule\addlinespace
 \TabSub{Neugeborenes} & 40\PerMin* & \VonBis{20}{40}\Ml*
 \\\addlinespace 
@@ -795,8 +795,8 @@ ist die \Abk{COPD} (\ref{topic:copd}).
 {%
 \index{Ateminsuffizienz}%
 \index{Insuffizienz!Atem-}%
-\index{Dyspnoe|T}%
-\index{Apnoe|T}%
+\index{Dyspnoe}%
+\index{Apnoe}%
 \index{Bradypnoe}%
 \index{Tachypnoe}%
 Störungen der Atmung können aus vielen Ursachen eintreten.
@@ -862,8 +862,9 @@ Zeichnung einbinden? Kussmaul, etc.}
 \Captionof{table}{Ursachen für
 Atemstörungen.\label{tab:atemstoerungen-ursachen}}
 
-\begin{tabulary}{\linewidth}[H]{LL}
-\TabHeading{Störung des/der}  & \TabHeading{Vorkommen und Erkrankungen}
+\begin{tabulary}{\linewidth}[H]{LL}\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Störung des/der}  &
+\noindent\TabHeading{Vorkommen und Erkrankungen}
 \\\addlinespace\midrule\addlinespace
 \TabSub{\ce{O2}-Angebotes}
  &
@@ -947,13 +948,13 @@ kommt es dabei häufig \E{auch} zur Atemnot u.\,ä. Symptomen.
 
 \begin{tabulary}{\linewidth}[H]{LLLL}
 \toprule\addlinespace
-\TabHeading{Kriterium}
+\noindent\TabHeading{Kriterium}
  &
-\TabHeading{Befund}
+\noindent\TabHeading{Befund}
  &
-\TabHeading{Beschreibung}
+\noindent\TabHeading{Beschreibung}
  &
-%\TabHeading{Anm.}
+%\noindent\TabHeading{Anm.}
 \\\addlinespace\midrule\addlinespace
 \TabSub{Beschwerde}
  &
@@ -1173,11 +1174,12 @@ gesteigert werden.
 \Captionof{table}{Gegenüberstellung der
 wichtigsten Kennzahlen, die die Herz- und Lungenleistung
 beeinflussen.}
-\begin{tabularx}{\linewidth}{XXX}
-\TabHeading{~} & \TabHeading{Herz} & \TabHeading{Lunge}
-\\\addlinespace\toprule\addlinespace
-\TabSub{Was?} & Blut & Luft
-\\\addlinespace
+\begin{tabularx}{\linewidth}{XXX}\addlinespace\toprule\addlinespace
+\noindent\TabHeading{~} & \noindent\TabHeading{Herz} &
+\noindent\TabHeading{Lunge}
+\\\addlinespace\midrule\addlinespace 
+\TabSub{Was?} & Blut &
+Luft \\\addlinespace
 \TabSub{Qualität} & Sauerstoffgehalt\Z{\footnote{\Z{Nicht
 gleichzusetzen mit der Sauerstoffsättigung}}} &
 Sauerstoffkonzentration 
@@ -1565,12 +1567,12 @@ Schocksymptomatik.\label{tab:schocksymptomatik}}
 \CorrectionItemizeBox\FontTableBase
 
 \begin{tabularx}{\linewidth}{p{3.5cm}m{1,2cm}X}
-\addlinespace
-\TabHeading{Stadium}
+\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Stadium}
 &
-\TabHeading{Pat.}
+\noindent\TabHeading{Pat.}
 &
-\TabHeading{Symptome}
+\noindent\TabHeading{Symptome}
 \\\addlinespace\midrule\addlinespace
 {\sffamily\Large\color{DarkGreen} \index{Schockgefahr}Schockgefahr}
 &
@@ -1744,11 +1746,11 @@ Es kann dabei verloren gehen:
 \begin{center}
 \CorrectionItemizeBox\FontTableBase
 \begin{tabularx}{\linewidth}[H]{XX}
-\toprule
+\addlinespace\toprule\addlinespace
 Flüssigkeitsverlust nach außen
 &
 Flüssigkeitsverlust nach innen
-\\\toprule
+\\\addlinespace\midrule\addlinespace
 \begin{itemize}
   \item Blutung
   \item Gastrointestinal (Durchfall, Diarrhoe)
@@ -1767,7 +1769,7 @@ Flüssigkeitsverlust nach innen
   ("`Wasserbauch"' bei
   Lebererkrankungen  etc.)}
 \end{itemize}
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabularx}
 \end{center}
 Bei akutem Flüssigkeitsverlust kann ein Verlust von bis zu
@@ -1977,10 +1979,11 @@ fällt massiv ab!
 \CorrectionItemizeBox\FontTableBase
 \Captionof{table}{Stadien der
 Anaphylaxie\label{tab:anaphylaxie-stadien}}
-\begin{tabulary}{\linewidth}[H]{cL}\addlinespace
-\TabHeading{\mbox{Stadium}}
+\begin{tabulary}{\linewidth}[H]{cL}\addlinespace\toprule\addlinespace
+\noindent\TabHeading{\mbox{Stadium}}
  &
-\\\addlinespace\toprule\addlinespace
+\noindent\TabHeading{{Symptome}}
+\\\addlinespace\midrule\addlinespace
 \TabSub{I}
  &
 Hautreaktion: evtl. Ausschlag, Rötung;
@@ -2258,10 +2261,10 @@ Wärmeerzeugung und -abgabe:
 
 
 \begin{table}[H]\FormatTable
-\begin{tabularx}{\linewidth}{XX}\FormatTable
-\TabHeading{Wärmeproduktion durch}
+\begin{tabularx}{\linewidth}{XX}\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Wärmeproduktion durch}
 &
-\TabHeading{Wärmeabgabe über}
+\noindent\TabHeading{Wärmeabgabe über}
 \\\addlinespace\midrule\addlinespace
 \begin{itemize}
   \item Zellaktivität

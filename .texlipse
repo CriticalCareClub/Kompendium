@@ -1,13 +1,13 @@
 #TeXlipse project settings
-#Wed Mar 02 17:42:53 CET 2011
+#Fri Nov 04 09:14:42 CET 2011
 builderNum=2
 outputDir=Ausgabe/
 makeIndSty=aass.ist
 bibrefDir=
 outputFormat=pdf
 tempDir=tmp
-mainTexFile=AASS.tex
-outputFile=AASS.pdf
+mainTexFile=AASS-DERIV-ERNAEHRUNGSPAED.tex
+outputFile=AASS-DERIV-ERNAEHRUNGSPAED.pdf
 langSpell=de
 markDer=true
-srcDir=Entwicklung/
+srcDir=Entwicklung

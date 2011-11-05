@@ -1,5 +1,5 @@
 #TeXlipse project settings
-#Wed Mar 02 17:42:53 CET 2011
+#Sat Nov 05 10:05:28 CET 2011
 builderNum=2
 outputDir=Ausgabe/
 makeIndSty=aass.ist
@@ -10,4 +10,4 @@ mainTexFile=AASS.tex
 outputFile=AASS.pdf
 langSpell=de
 markDer=true
-srcDir=Entwicklung/
+srcDir=Entwicklung

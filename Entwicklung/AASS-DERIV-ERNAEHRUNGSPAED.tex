@@ -5,14 +5,15 @@ asymmetric,
 fontsize=10pt,
 % headings=small,
 draft=false,
-% parskip=half,
+parskip=half,
+numbers=noenddot,
 % listof=totoc,         % verschiebt Minitoc/Hyperref
 % bibliography=totoc,   % verschiebt Minitoc/Hyperref
 bibtotocnumbered,
 % index=totoc,
 % noonelinecaption,
 footnotes=multiple,
-toc=flat,
+% toc=flat,
 ]{scrbook}
 % \setlength{\parindent}{1.5em}
 % \usepackage{scrhack}
@@ -49,10 +50,10 @@ toc=flat,
 \input{./inputs/input-hyphenation}
 
 % Titel
-\input{./inputs/input-title}
+\input{./inputs/input-title-DERIV-ERNAEHRUNGSPAED}
 
 % Dokumenteinfos (Status, Version, ...)
-\input{./inputs/input-docinfo}
+\input{./inputs/input-docinfo-DERIV-ERNAEHRUNGSPAED}
 
 % Kopf- und Fusszeilen
 \input{./inputs/input-headfoot}
@@ -61,10 +62,10 @@ toc=flat,
 \input{./inputs/input-excludeonly}
 
 % Schliesse nur bestimmte Kapitel ein ...
-\input{./inputs/input-includeonly-VAR-ERNAEHRUNGSPAED}
+\input{./inputs/input-includeonly-DERIV-ERNAEHRUNGSPAED}
 
 % optional --- Optionaler Text. 
-\input{./inputs/input-optkeys}
+\input{./inputs/input-optkeys-DERIV-ERNAEHRUNGSPAED}
 
 \setcounter{errorcontextlines}{10}
 
@@ -162,7 +163,7 @@ bindingoffset=1.5cm}
 \loadgeometry{FullPage}
 % \maketitle
 \begin{titlepage}
-\input{./inputs/input-cover-front}
+\input{./inputs/input-cover-front-DERIV-ERNAEHRUNGSPAED}
 
 \clearpage
 \thispagestyle{empty}
@@ -170,9 +171,9 @@ bindingoffset=1.5cm}
 
 %%% uppertitleback
 
-	Covergestaltung: \emph{Sebastian Gabriel.}
+	Covergestaltung: \emph{Sebastian Gabriel}
 
-    {Titelbild: \emph{Ch. Pallinger} }
+    {Titelbild: \emph{Sebastian Gabriel} }
     
 \vfill
     
@@ -258,7 +259,7 @@ ist, es gibt so viele, aus denen man auswählen kann.}
 
 in memoriam
 
-Vicco von Bülow (\textborn\,1923, \textdied\,2011)
+Vicco von Bülow (\VonBis{1923}{2011})
 
 
 \vspace{3cm}
@@ -315,74 +316,74 @@ Vicco von Bülow (\textborn\,1923, \textdied\,2011)
 % \layout
 % \pagediagram\pagedesign\paragraphdiagram\paragraphdesign\floatpagediagram\floatpagedesign\listdiagram\listdesign\footnotediagram\footnotedesign\tocdiagram\tocdesign
 
-\clearpage
-\section{Vorwort}
-
-
-
-\parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
-Das vorliegende Werk ist das (Zwischen-)Ergebnis einer seit mehr als zwei Jahren
-andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig
-sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
-ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
-und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
-leisten könnte, still zu stehen.
-
-Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
-bereits breitgetretener Pfade darzustellen, und sowohl eine Unterlage für die
-Ausbildung, als auch ein Hilfsmittel für die Praxis zu schaffen.  Besonderen
-Wert haben wir dabei nicht nur auf die Praxis, sondern auch -- heutzutage nicht
-mehr ganz modern -- auf das Hintergrundwissen und relevante Randbereiche gelegt.
-Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
-wieder veraltet ist, bildet dieses Fundament die Chance für eine
-langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
-(anstatt strikten, regel\E{gebundenen} Handelns). 
-
-In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
-Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
-österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
-Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
-schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
-einem Jahr als Lern- und Ausbildungsunterlage
-bewähren.
-
-
-
-\paragraph{Dieses Werk ist keine "`Dienstanweisung"'!}~~
-
-\parpic[r][r]{\includegraphics[width=2cm]{./images/teaser/affe-sama-ambas-schein_00800.jpg}}
-Eines muss vorweg klargestellt werden: Auch wenn es sehr in
-Mode gekommen ist, Abläufe zu standardisieren und
-festzuschreiben, so ist dies keine taugliche
-Herangehensweise, um komplexe Probleme in der Medizin oder
-im Sanitätsdienst zu bewältigen. Zu komplex sind die
-Variablen, und zu gering bzw. zu unangepasst an konkrete
-Situationen ist das gesicherte Wissen, auf dem
-festgeschriebene Prozesse basieren. Der menschliche Faktor,
-insbesonders die jeweilige Erfahrungen, ist und bleibt der
-entscheidende Faktor jeglichen Handelns. Kein Lehrbuch oder
-standardisierter Prozess kann das ändern, sofern das Ziel
-ein "`gutes"' Ergebnis, und keine statistische Kennziffer
-ist.
-
-In diesem Sinne ist der Titel dieses Werkes nicht im Sinne eines
-standardisierten Prozessmanagements zu verstehen, sondern soll einen
-\E{Basisstandard} bezüglich medizinisch-sanitätsdienstlichem Wissen und
-Kompetenz bilden, der individuell -- je nach Situation bzw. durch vom Helfer
-andernorts erworbenen Wissens -- grundsätzlich verbesserbar ist. Die {\AASS}
-geben Empfehlungen, es obliegt dem Helfer diese gemäß seiner 
-fachlichen Erfahrung und Kenntnisse zu interpretieren, einzusetzen oder
-anzupassen -- 
-
-\Speech{salus aegroti suprema lex}\footnote{salus aegroti suprema lex \Lang{lat.}: \Speech{Das
-Wohl des Kranken ist oberstes Gebot.}}.
-
-\bigskip
-
-\bigskip
-
-\emph{Wien, im Sommer 2010}
-
+% \clearpage
+% \section{Vorwort}
+% 
+% 
+% 
+% \parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
+% Das vorliegende Werk ist das (Zwischen-)Ergebnis einer seit mehr als zwei Jahren
+% andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig
+% sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
+% ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
+% und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
+% leisten könnte, still zu stehen.
+% 
+% Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
+% bereits breitgetretener Pfade darzustellen, und sowohl eine Unterlage für die
+% Ausbildung, als auch ein Hilfsmittel für die Praxis zu schaffen.  Besonderen
+% Wert haben wir dabei nicht nur auf die Praxis, sondern auch -- heutzutage nicht
+% mehr ganz modern -- auf das Hintergrundwissen und relevante Randbereiche gelegt.
+% Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
+% wieder veraltet ist, bildet dieses Fundament die Chance für eine
+% langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
+% (anstatt strikten, regel\E{gebundenen} Handelns). 
+% 
+% In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
+% Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
+% österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
+% Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
+% schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
+% einem Jahr als Lern- und Ausbildungsunterlage
+% bewähren.
+% 
+% 
+% 
+% \paragraph{Dieses Werk ist keine "`Dienstanweisung"'!}~~
+% 
+% \parpic[r][r]{\includegraphics[width=2cm]{./images/teaser/affe-sama-ambas-schein_00800.jpg}}
+% Eines muss vorweg klargestellt werden: Auch wenn es sehr in
+% Mode gekommen ist, Abläufe zu standardisieren und
+% festzuschreiben, so ist dies keine taugliche
+% Herangehensweise, um komplexe Probleme in der Medizin oder
+% im Sanitätsdienst zu bewältigen. Zu komplex sind die
+% Variablen, und zu gering bzw. zu unangepasst an konkrete
+% Situationen ist das gesicherte Wissen, auf dem
+% festgeschriebene Prozesse basieren. Der menschliche Faktor,
+% insbesonders die jeweilige Erfahrungen, ist und bleibt der
+% entscheidende Faktor jeglichen Handelns. Kein Lehrbuch oder
+% standardisierter Prozess kann das ändern, sofern das Ziel
+% ein "`gutes"' Ergebnis, und keine statistische Kennziffer
+% ist.
+% 
+% In diesem Sinne ist der Titel dieses Werkes nicht im Sinne eines
+% standardisierten Prozessmanagements zu verstehen, sondern soll einen
+% \E{Basisstandard} bezüglich medizinisch-sanitätsdienstlichem Wissen und
+% Kompetenz bilden, der individuell -- je nach Situation bzw. durch vom Helfer
+% andernorts erworbenen Wissens -- grundsätzlich verbesserbar ist. Die {\AASS}
+% geben Empfehlungen, es obliegt dem Helfer diese gemäß seiner 
+% fachlichen Erfahrung und Kenntnisse zu interpretieren, einzusetzen oder
+% anzupassen -- 
+% 
+% \Speech{salus aegroti suprema lex}\footnote{salus aegroti suprema lex \Lang{lat.}: \Speech{Das
+% Wohl des Kranken ist oberstes Gebot.}}.
+% 
+% \bigskip
+% 
+% \bigskip
+% 
+% \emph{Wien, im Sommer 2010}
+% 
 
 
 \clearpage
@@ -479,58 +480,58 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 
 
-\begin{WidePar}
-  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
-\end{WidePar}
+% \begin{WidePar}
+%   \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
+% \end{WidePar}
 % {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
 
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
 \dominitoc[n]
 
 \begin{WidePar}
-  {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
+  {\setcounter{tocdepth}{2}\footnotesize\tableofcontents}
 
 % {\small\listoffigures}
 % 
 % {\small\listoftables}
 
-{\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
+% {\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
 
 {\small\kern-2.ex\listof{fazit}{Merksätze}}
 \end{WidePar}
 
 
-% {\WideParBegin}
-\part{Allgemeiner Teil}
-% {\WideParEnd}
+% % {\WideParBegin}
+% \part{Allgemeiner Teil}
+% % {\WideParEnd}
+% 
+% 
+% \include{./chapters/chapter-TAE} 
+% 
+% % \include{./chapters/chapter-NEW}
+% % \addtocounter{chapter}{1}
+% 
+% \include{./chapters/chapter-LER}
+% 
+% \include{./chapters/chapter-BET}
+% 
+% \include{./chapters/chapter-RWT}
+% 
+% \include{./chapters/chapter-REG}
+% 
+% 
+% \opt{STATUS-EXPERIMENTAL}{%
+% \include{./chapters/chapter-NWG}
+% } % STATUS-EXPERIMENTAL
 
 
-\include{./chapters/chapter-TAE} 
+% % {\WideParBegin}
+% \part{Grundlagen}
+% % {\WideParEnd}
+% \setcounter{chapter}{10}
+% % \setcounter{page}{1}
 
-% \include{./chapters/chapter-NEW}
-% \addtocounter{chapter}{1}
-
-\include{./chapters/chapter-LER}
-
-\include{./chapters/chapter-BET}
-
-\include{./chapters/chapter-RWT}
-
-\include{./chapters/chapter-REG}
-
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-NWG}
-} % STATUS-EXPERIMENTAL
-
-
-% {\WideParBegin}
-\part{Grundlagen}
-% {\WideParEnd}
-\setcounter{chapter}{10}
-% \setcounter{page}{1}
-
-\include{./chapters/chapter-JUS}
+% \include{./chapters/chapter-JUS}
 
 \include{./chapters/chapter-EHI}
 
@@ -541,113 +542,113 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 % zuerst die Kapitel in denen Geräte eine Rolle spielen:
 \include{./chapters/chapter-MP1}
 
-\include{./chapters/chapter-BAU}
+% \include{./chapters/chapter-BAU}
 
-\include{./chapters/chapter-SAN}
+% \include{./chapters/chapter-SAN}
 
 \include{./chapters/chapter-BLS}
 
-% dann "`wie führe ich ein gespräch:
-\include{./chapters/chapter-AUP}
-
-\include{./chapters/chapter-PSI}
-
-\include{./chapters/chapter-KHD}
+% % dann "`wie führe ich ein gespräch:
+% \include{./chapters/chapter-AUP}
+% 
+% \include{./chapters/chapter-PSI}
+% 
+% \include{./chapters/chapter-KHD}
 
 \include{./chapters/chapter-GEF}
 
 % Zuletzt: "`Wie mache ich daraus einen funktionierenden Ablauf?"'
 \include{./chapters/chapter-PAM}
 
-% {\WideParBegin}
-\part{Medizinisch-Wissenschaftlicher Basisteil}
-% {\WideParEnd}
-\setcounter{chapter}{30}
-% \setcounter{page}{1}
+% % {\WideParBegin}
+% \part{Medizinisch-Wissenschaftlicher Basisteil}
+% % {\WideParEnd}
+% \setcounter{chapter}{30}
+% % \setcounter{page}{1}
 
 \include{./chapters/chapter-ANA}
 
-\include{./chapters/chapter-EIN}
-
-\include{./chapters/chapter-VIT}
-
-\include{./chapters/chapter-TOD}
-
-\include{./chapters/chapter-MED}
-
-\include{./chapters/chapter-HYG}
-
-\include{./chapters/chapter-INK}
-
-\include{./chapters/chapter-GYN}
-
-\include{./chapters/chapter-KIN}
-
-\include{./chapters/chapter-KRI}
-
-\include{./chapters/chapter-PSY}
-
-\include{./chapters/chapter-THE}
-
-\include{./chapters/chapter-TOX}
-
-\include{./chapters/chapter-TRA}
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-SYM}
-}
-
-
-% {\WideParBegin}
-\part{"`Intermediate"' (Erweitertes Wissen)}
-% {\WideParEnd}
-\setcounter{chapter}{50}
-% \setcounter{page}{1}
-
-% \include{./chapters/chapter-MP2}
-
-\include{./chapters/chapter-ALS}
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-ARZ}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-PKU}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-EKG}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-WIS}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-SPE}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-WEI}
-} % STATUS-EXPERIMENTAL
-
-% {\WideParBegin}
-\part{"`Advanced"' (Fortgeschrittenes Wissen)}
-% {\WideParEnd}
-\setcounter{chapter}{70}\setcounter{page}{1}
-
-\opt{STATUS-EXPERIMENTAL}{
-\chapter{Präklinische Narkose}
-
-\SectionUnderDevelopment
-} % STATUS-EXPERIMENTAL
-
-% \include{./chapters/inc-RES-ende}
+% \include{./chapters/chapter-EIN}
+% 
+% \include{./chapters/chapter-VIT}
+% 
+% \include{./chapters/chapter-TOD}
+% 
+% \include{./chapters/chapter-MED}
+% 
+% \include{./chapters/chapter-HYG}
+% 
+% \include{./chapters/chapter-INK}
+% 
+% \include{./chapters/chapter-GYN}
+% 
+% \include{./chapters/chapter-KIN}
+% 
+% \include{./chapters/chapter-KRI}
+% 
+% \include{./chapters/chapter-PSY}
+% 
+% \include{./chapters/chapter-THE}
+% 
+% \include{./chapters/chapter-TOX}
+% 
+% \include{./chapters/chapter-TRA}
+% 
+% \opt{STATUS-EXPERIMENTAL}{%
+% \include{./chapters/chapter-SYM}
+% }
+% 
+% 
+% % {\WideParBegin}
+% \part{"`Intermediate"' (Erweitertes Wissen)}
+% % {\WideParEnd}
+% \setcounter{chapter}{50}
+% % \setcounter{page}{1}
+% 
+% % \include{./chapters/chapter-MP2}
+% 
+% \include{./chapters/chapter-ALS}
+% 
+% \opt{STATUS-EXPERIMENTAL}{%
+% \include{./chapters/chapter-ARZ}
+% } % STATUS-EXPERIMENTAL
+% 
+% \opt{STATUS-EXPERIMENTAL}{%
+% \include{./chapters/chapter-PKU}
+% } % STATUS-EXPERIMENTAL
+% 
+% \opt{STATUS-EXPERIMENTAL}{%
+% \include{./chapters/chapter-EKG}
+% } % STATUS-EXPERIMENTAL
+% 
+% \opt{STATUS-EXPERIMENTAL}{%
+% \include{./chapters/chapter-WIS}
+% } % STATUS-EXPERIMENTAL
+% 
+% \opt{STATUS-EXPERIMENTAL}{%
+% \include{./chapters/chapter-SPE}
+% } % STATUS-EXPERIMENTAL
+% 
+% \opt{STATUS-EXPERIMENTAL}{%
+% \include{./chapters/chapter-WEI}
+% } % STATUS-EXPERIMENTAL
+% 
+% % {\WideParBegin}
+% \part{"`Advanced"' (Fortgeschrittenes Wissen)}
+% % {\WideParEnd}
+% \setcounter{chapter}{70}\setcounter{page}{1}
+% 
+% \opt{STATUS-EXPERIMENTAL}{
+% \chapter{Präklinische Narkose}
+% 
+% \SectionUnderDevelopment
+% } % STATUS-EXPERIMENTAL
+% 
+% % \include{./chapters/inc-RES-ende}
 
 \appendix
 % {\WideParBegin}
-\part{Appendix}
+\part*{Appendix}
 % {\WideParEnd}
 %\setcounter{page}{0}
 
@@ -657,7 +658,7 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 % \chapter{Verzeichnisse}
 
 
-\include{./chapters/chapter-INT}
+% \include{./chapters/chapter-INT}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Kommentare
@@ -688,9 +689,7 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 % Sharipov. \SourcePicture{NASA/JSC}}
 % \end{WidePar}
 % \end{figure}
-SO LONG..........
-
-AND THANKS FOR ALL THE FISH
+SO LONG.......... AND THANKS FOR ALL THE FISH
 \MultiColListEnd{lomassnahmen}
 \MultiColListEnd{lofazit}
 \MultiColListEnd{toc}

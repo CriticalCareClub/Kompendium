@@ -5,8 +5,7 @@ asymmetric,
 fontsize=10pt,
 % headings=small,
 draft=false,
-parskip=half,
-numbers=noenddot,
+% parskip=half,
 % listof=totoc,         % verschiebt Minitoc/Hyperref
 % bibliography=totoc,   % verschiebt Minitoc/Hyperref
 bibtotocnumbered,
@@ -62,7 +61,7 @@ toc=flat,
 \input{./inputs/input-excludeonly}
 
 % Schliesse nur bestimmte Kapitel ein ...
-\input{./inputs/input-includeonly}
+\input{./inputs/input-includeonly-VAR-ERNAEHRUNGSPAED}
 
 % optional --- Optionaler Text. 
 \input{./inputs/input-optkeys}
@@ -143,8 +142,8 @@ rmargin=13mm,
 lmargin=13mm,
 % % outer  = 56mm,
 % % inner  = 56mm,
-top    = 8mm,
-bottom = 8mm,
+top    = 10mm,
+bottom = 10mm,
 % % hmarginratio=2:1,
 marginparwidth = 0mm,
 % % headheight=0.5cm,
@@ -259,7 +258,7 @@ ist, es gibt so viele, aus denen man auswählen kann.}
 
 in memoriam
 
-Vicco von Bülow (\VonBis{1923}{2011})
+Vicco von Bülow (\textborn\,1923, \textdied\,2011)
 
 
 \vspace{3cm}
@@ -382,7 +381,7 @@ Wohl des Kranken ist oberstes Gebot.}}.
 
 \bigskip
 
-\emph{Wien, im Sommer 2011}
+\emph{Wien, im Sommer 2010}
 
 
 
@@ -477,9 +476,7 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 }{}{}{}{}
 
 
-{\the\WideParWidth}
-{\the\ThirdGrossWidth}
-{\the\ThirdNetWidth}
+
 
 
 \begin{WidePar}
@@ -691,7 +688,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 % Sharipov. \SourcePicture{NASA/JSC}}
 % \end{WidePar}
 % \end{figure}
-SO LONG.......... AND THANKS FOR ALL THE FISH
+SO LONG..........
+
+AND THANKS FOR ALL THE FISH
 \MultiColListEnd{lomassnahmen}
 \MultiColListEnd{lofazit}
 \MultiColListEnd{toc}

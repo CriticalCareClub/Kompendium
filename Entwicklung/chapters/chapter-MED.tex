@@ -440,7 +440,6 @@ Erkankungen, Stress und ein plötzlicher Blutdruckanstieg.
   \end{itemize}
   \item \ce{O2}: je nach Symptomen \VonBis{6}{8}\LPerMin*, bei
   Bedarf bis zu 15\LPerMin* 
-  \item Vitalwerte erheben \& Monitoring
   \item Ursachenforschung
 \end{itemize}
 
@@ -466,7 +465,7 @@ ist.}
 
 
 
-\clearpage % TODO temp clearpage
+\clearpage % TEMP temp clearpage
 \subsection{Koronare Herzkrankheit und Akutes Koronarsyndrom}
 \index{Koronare Herzkrankheit}
 \index{Herzkrankheit!Koronare}
@@ -737,7 +736,7 @@ Blässe, Kaltschweißigkeit, Hypotonie, etc.
 }{
 \begin{itemize}
   \item Symptome wie bei Angina Pectoris, diese vergehen aber nicht
-  \begin{itemize}
+  \begin{compactitem}
     \item Stechender/brennender \EE{Brustschmerz} mit Ausstrahlung
     \item "`Stummer Infarkt"' bei Diabetikern
     \item Druckgefühl, "`als würde jemand am
@@ -746,7 +745,7 @@ Blässe, Kaltschweißigkeit, Hypotonie, etc.
     \item \EE{Dyspnoe}
     \item Kardiogener Schock
     %	\item Keine ausreichende Besserung auf Nitro
-  \end{itemize}
+  \end{compactitem}
 \end{itemize}
 }
 {./images/hirtler-aass/Herzschmerz.pdf}
@@ -1001,7 +1000,7 @@ Herzrhythmusstörungen.
 \begin{table}[H]
 \FontTableBase
 \begin{WidePar}
-\Captionof{table}{Übersicht: Wichtige und häufige
+\caption{Übersicht: Wichtige und häufige
 Herzrhythmusstörungen.\label{tab:herzrhythmusstoerungen}}
 
 % Index-Einträge für Tabelle ---
@@ -1019,17 +1018,16 @@ Herzrhythmusstörungen.\label{tab:herzrhythmusstoerungen}}
 
 \begin{minipage}{\linewidth}
 \FontTableBase
-\begin{tabulary}{\textwidth}{LLL}
-\TabHeading{Rhythmus}
+\begin{tabulary}{\textwidth}{LLL}\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Rhythmus}
 & 
-\TabHeading{Bedeutung}
+\noindent\TabHeading{Bedeutung}
 & 
-\TabHeading{Bemerkung}
-\\\midrule\addlinespace
+\noindent\TabHeading{Bemerkung}
+\\\addlinespace\midrule\addlinespace
 \TabSub{Bradykardie}
 
-{\scriptsize (HF\,{\textless}\,60/min)}\MarginBugfix{(beim
-Erwachsenen)} 
+{\scriptsize (HF\,{\textless}\,60\PerMin*)}
 & 
 Situations\-abhängig 
 & 
@@ -1037,13 +1035,12 @@ Situations\-abhängig
 \\\addlinespace
 \TabSub{Tachykardie} 
 
-{\scriptsize (HF\,{\textgreater}\,100\MarginBugfix{(beim
-Erwachsenen)}/min) }
+{\scriptsize (HF\,{\textgreater}\,100\PerMin*) }
 & 
 Situations\-abhängig 
 & 
 \emph{"`zu schnell"'}
-\\\addlinespace\midrule \addlinespace
+\\\addlinespace\midrule\addlinespace
 \TabSub{Kammerflimmern}
 & Reanimation  & \emph{"`schockbarer"'} Rhythmus 
 \\\addlinespace
@@ -1083,7 +1080,7 @@ Extraschläge
 Vereinzelt bis "`Salven"' möglich
 
 Von symptom-/bedeutungslos bis lebensbedrohlich
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabulary}
 \end{minipage}
 \end{WidePar}
@@ -1461,7 +1458,7 @@ dazugelegt hätte \ldots
 
 \begin{itemize}
   \item Erheben ob eine akute vitale Bedrohung besteht
-  \item Ausschluss von Notfallsdiagnosen soweit
+  \item \EE{Ausschluss von Notfallsdiagnosen} soweit
   möglich, die gesamten zur Verfügung stehenden
   Möglichkeiten sind auszuschöpfen.
   \item Im Besonderen:
@@ -1891,6 +1888,10 @@ englischen P's"'})}.
 \subsubsection{Tiefe Venenthrombose}
 \label{topic:venenthrombose}
 \label{topic:thrombose}
+\index{Thrombose}
+\index{Venenthrombose!tiefe}
+\index{Beinvenenthombose}
+\index{tVT}
 
 \Definition{Verstopfung einer Vene durch ein Blutgerinnsel
 (Thrombus\footnote{Thrombus: Blutgerinnsel. Im Gegensatz dazu \T{Embolus}: Losgelöster Thrombus, welcher woanders ein Gefäß
@@ -2021,7 +2022,7 @@ entstehen können. Die Substanz wird unter die Haut ("`subkutan"') gespritzt.
 \end{itemize}
 }
 
-\clearpage % TODO temp clearpage
+\clearpage % TEMP temp clearpage
 \section{Respiratorische Notfälle}
 \label{topic:respiratorische-notfaelle}
 
@@ -2090,7 +2091,7 @@ andere befindet sich in der Speiseröhre.}
 {Hirtler.}
 
 
-
+\clearpage
 \Layout{20}{\TxSymptome}
 {%
 Die Symptome sind abhängig  von der Schwere der Verlegung.
@@ -2113,16 +2114,6 @@ Atemnot und ein Fremdkörpergefühl, oft versucht er zu husten
 oder zu würgen. Oft ist auch ein pfeifendes Atemgeräusch
 während der Ein- und/oder Austamung zu hören
 (in-/exspiratorischer \E{Stridor}).
-
-\bigskip
-
-\bigskip
-
-\bigskip
-
-\bigskip
-
-\bigskip
 
 \bigskip
 }{
@@ -2499,7 +2490,7 @@ Patienten wurden ergriffen:
 
 
 
-\clearpage % TODO temp clearpage
+% \clearpage % TEMP temp clearpage
 \subsection{Chronische Bronchitis und 
 Chronisch-obstruktive Lungenerkrankung
 (COPD)}
@@ -2723,7 +2714,6 @@ einem Embolus werden.
 \Layout{0}{\TxSymptome}
 {%
 Das Leitsymptom ist die \EE{Atemnot}. 
-
 Meist atmet der Patient schnell (Tachypnoe) und klagt über
 einen \EE{atemabhängigen Thoraxschmerz}. Daneben kommt es zu
 einer \E{Tachykardie} und Angstgefühlen.
@@ -2732,7 +2722,6 @@ Eine Lungenembolie kann man leicht mit einem Herzinfarkt
 oder Angina pectoris verwechseln. Dies hat aber bei der
 Erstversorgung kaum Konsequenz, die Maßnahmen sind
 anfänglich die gleichen.
-
 
 }{
 \begin{itemize}
@@ -2748,7 +2737,6 @@ anfänglich die gleichen.
 {%
 Oft findet man deutlich hervortretende, \EE{gestaute Venen}
 am Hals aufgrund des Blutrückstaus.
-
 Je nach Ursache der Embolie und Herkunft des Embolus kann
 man Zeichen anderer Krankheitsbilder wahrnehmen: Bei einer
 \EE{tiefen Beinvenenthrombose} ist ein Bein geschwollen,
@@ -2773,7 +2761,6 @@ zu leiden.
 Liegegipsverbände oder lange Reisen, innerhalb der letzten 4
 Wochen, erhöht das Risiko einer Thrombose und damit auch das
 einer Lungenembolie.
-
 Oft ist bei den Patienten auch \EE{Vorhofflimmern} als
 chronische Erkrankung bekannt.
 
@@ -2821,7 +2808,7 @@ ebenso das Risiko.}
 
 \MassnahmenNG{Spezielle Maßnahmen}{Lungenembolie}{}{
 \begin{itemize}
-  \item \TxMassVitBes .
+  \item {\TxMassVitBes}.
   \begin{itemize}
     \item Lagerung: Oberkörper hoch
     \item \ce{O2} 10\LPerMin*, bei Bedarf bis zu 15\LPerMin*
@@ -2841,9 +2828,13 @@ Alveolen und im Zwischengewebsraum der Lunge.}
 
 \Layout{0}{Ursachen und \TxBeschreibung}
 {%
-Ein Lungenödem kann aufgrund einer \EE{Herzschwäche}
-(\E{kardial}) oder aufgrund von \EE{Inhalation giftiger
-Substanzen} (\E{toxisch}) entstehen.
+Ein Lungenödem kann entweder aufgrund einer
+\begin{itemize}
+  \item \EE{Herzschwäche} (\E{kardial}) oder aufgrund
+  von
+  \item \EE{Inhalation giftiger Substanzen} (\E{toxisch})
+\end{itemize}
+entstehen.
 
 Beim \EE{kardialen Lungenödem} versagt die Auswurfleistung
 des linken Herzens (\EE{Linksherzinsuffizienz}), dadurch
@@ -3018,6 +3009,7 @@ angezogen und Handhaltung erinnert an Pfoten eines Tieres.
 Wird die Hyperventilation nicht rechtzeitig beendet, kann es
 zur Eintrübung bis hin zur Bewusstlosigkeit kommen.
 
+\bigskip
 }{
 \begin{itemize}
   \item Subjektiv: \emph{"`Atemnot"'}, Sp\ce{O2} von 100\PC* 
@@ -3089,7 +3081,7 @@ ein typisches Beispiel dafür
 
 
 
-\clearpage
+% \clearpage
 \section{Neurologische Erkrankungen und Notfälle}
 
 \Definition{Erkrankungen, Notfälle und sonstige Störungen
@@ -3143,21 +3135,20 @@ Beispiele ohne Anspruch auf Vollständigkeit:
 
 \HeadingSub{\Lang{Syn.} Apoplektischer Insult, Apoplexie}
 
-\Definition{Siehe Arten.}
+% \Definition{Siehe Arten.}
 
 \Layout{0}{Arten}
 {%
 Grundsätzlich gibt es 2 Formen, die aber vor Ort nicht
 unterschieden werden können:
-\begin{labeling}[~--]{xxxxxxxxxxxxxxxxxx}
-  \item[\T{Trockener Insult}] Verschluss eines Hirngefäßes mit anschließendem
-  Absterben der versorgten Hirnregion ("`trockener
-  Insult"',
-  \I[Ischämie!Schlaganfall]{Ischämie},
-  \FullPrettyRef{topic:ischaemie}), oder
-  \item[\T{Blutiger Insult}] Hirnblutung, z.\,B. durch Platzen eines
-  Hirngefäßes, kann spontan oder aufgrund eines Traumas auftreten.
-\end{labeling}
+\begin{itemize}
+  \item \EE{\T{Trockener Insult}}:
+  \I[Ischämie!trockener Insult]{Ischämie}. Verschluss eines
+  Hirngefäßes mit anschließendem Absterben der versorgten Hirnregion
+  \item \EE{\T{Blutiger Insult}}: \I{Hirnblutung}, z.\,B.
+  durch Platzen eines Aneurysmas eines Hirngefäßes, kann spontan
+  oder aufgrund eines Traumas auftreten.
+\end{itemize}
 
 }
 {
@@ -3207,18 +3198,23 @@ jedem anderen Schlaganfall zu behandeln.
 \Layout{0}{\TxSymptome}
 {%
 \label{topic:hirndruckzeichen}
-Die Symptome sind davon abhängig welche Hirnregion betroffen ist und 
-können sehr unterschiedlich sein und umfassen:
+Die diversen \EE{Funktionsareale}
+(Sprachzentren, Sehzentrum, motorische Zentren, \ldots)
+sind in verschiedneen Regionen des Hirns verteilt. Je
+nachdem welches Gebiet durch die Ischämie oder Blutung
+betroffen ist, können die Symptome sehr unterschiedlich
+sein.  Typische Störungen sind:
 
-\begin{description}
-  \item[Motorik] Störungen der Kraft und Beweglichkeit sind
-  sehr häufig:
+\begin{itemize}
+  \item \EE{Motorik} Störungen der Kraft und Beweglichkeit
+  sind sehr häufig:
   
-  \T{Halbseitenzeichen}: Aufgrund des Ausfalls eines
-  Zentrums im Gehirn kann es zu einer \E{Kraftminderung}
-  einer Seite kommen, dies kann bis zu einer \E{schlaffen,
-  kompletten Lähmung} führen. Ein \E{herabhängender
-  Mundwinkel} ist ein Zeichen einer Lähmung der
+  Charakteristisch für einen
+  Schlaganfall sind sog. \T{Halbseitenzeichen}: Es kommt
+  dabei zu einer \E{einseitigen Kraftminderung}, dies kann
+  bis zu einer \E{schlaffen, kompletten Lähmung} führen. Ein
+  \E{herabhängender Mundwinkel} ist ein Zeichen einer
+  Lähmung der
   Gesichtsmuskulatur. Durch die Lähmungen kann es zu
   \EE{Schluckstörungen} kommen, es besteht dann eine erhöhte
   Aspirationsgefahr.
@@ -3227,31 +3223,31 @@ können sehr unterschiedlich sein und umfassen:
   Blicklähmungen kommen, der Patient blickt in Richtung des
   "`Herdes des Geschehens"'.
   
-  \item[Sprache] Störungen der Sprache sind ebenfalls sehr
-  häufig. Oft nimmt man eine \EE{verwaschene Sprache} wahr,
-  welche (fälschlich) an Trunkenheit erinnert. Weiters kann
-  es zu einer "`wirren Sprache"' kommen: Worte fehlen dabei
+  \item \EE{Sprache}: Störungen der Sprache sind ebenfalls
+  sehr häufig. Oft nimmt man eine \EE{verwaschene Sprache} wahr,
+  welche (fälschlich) an Trunkenheit erinnert. \Z{Weiters
+  kann es zu einer "`wirren Sprache"' kommen: Worte fehlen dabei
   oder Silben werden vertauscht. Im Extremfall kann die
   Sprache gänzlich "`verloren"' gehen. Auf der anderen Seite
   kann die Sprache zwar erhalten, aber das
-  Sprach\E{verständnis} geschädigt sein
+  Sprach\E{verständnis} geschädigt sein.}
   
-  \item[Wahrnehmung]
+  \item \EE{Wahrnehmung}:
   Es kann zu Wahrnehmungstörungen wie z.\,B.
   \EE{Sehstörungen}, plötzliche Erblindung, Doppelbilder,
   Gesichtsfeldausfälle kommen.
   
-  \item[Bewusstsein] Störungen des Bewusstseins sind
+  \item \EE{Bewusstsein}: Störungen des Bewusstseins sind
   gefährlich und müssen bei Insult-Patienten immer erwartet
   werden. Der Bewusstseinszustand kann sich auch plötzlich
   verschlechtern.
   
-  \item[Allgemein] Weiters können unspezifische Symptome wie
-  z.\,B. Schwindel und Kopfschmerzen auftreten. Ein
+  \item \EE{Allgemein}: Weiters können unspezifische
+  Symptome wie z.\,B. Schwindel und Kopfschmerzen auftreten. Ein
   plötzlicher, \EE{donnerschlagartiger Kopfschmerz} ist ein
   klassisches Symptom für eine spontane Hirnblutung.
   
-  \item[\T{Hirndruckzeichen}] Bei einer Erhöhung des
+  \item \EE{\T{Hirndruckzeichen}}: Bei einer Erhöhung des
   Hirndrucks, z.\,B. aufgrund einer Hirnblutung, kommt es zu
   einer typischen Kombination von Symptomen: 
   
@@ -3259,19 +3255,28 @@ können sehr unterschiedlich sein und umfassen:
   Meist das erste Symptom sind \EE{Kopfschmerzen}, gefolgt
   von Übelkeit. In weiterer Folge treten
   \EE{Bewusstseinsstörungen} auf. Der Patient ist
-  \EE{hyperton, aber bradykard} (RR\,\Sign{↑}, HF\,\Sign{↓}.). Typisch ist
-  die \EE{Ungleichheit der Pupillen}
-  \Z{(Anisokorie)\index{Anisokorie|Z}}, bzw. eine
-  verlangsamte Lichtreaktion. In schweren Fällen kommt es zu
-  sog. Strecksynergismen, d.\,h.  der Patient reagiert bei
-  Schmerzreiz nur mit einem ungerichtetem Strecken der
-  Extremitäten. \citep{StriebelAnaesthesie2} %[Bd.2, S.1344]
+  \EE{hyperton, aber bradykard} (\EE{RR\,\Sign{↑},
+  HF\,\Sign{↓}}), der Puls ist langsam, aber äußerst stark
+  spürbar (\I{Druckpuls}). Weiters ist die \EE{Ungleichheit
+  der Pupillen} \Z{(Anisokorie)\index{Anisokorie|Z}}, bzw.
+  eine verlangsamte Lichtreaktion
+  typisch.\ZFootnote{\E{Erhöhter Hirndruck}:In schweren
+  Fällen kommt es zu sog. Strecksynergismen, d.\,h.  der
+  Patient reagiert bei Schmerzreiz nur mit einem
+  ungerichtetem Strecken der Extremitäten.}
+  \nocite{StriebelAnaesthesie2} %[Bd.2, S.1344]
   
-  Anm.: Hirndruckzeichen werden nicht nur durch
+  \Z{Hirndruckzeichen werden nicht nur durch
   Hirnblutungen verursacht, auch z.\,B. beim \Z{Hirnödem}
-  oder Schädel-Hirn-Trauma (\Abk{SHT}) können sie vorliegen.
-\end{description}
+  oder Schädel-Hirn-Trauma (\Abk{SHT}) können sie
+  vorliegen.}
+\end{itemize}
 
+Präklinisch kann man nicht sicher zwischen einer Ischämie
+(trockener Insult) und einer Blutung unterscheiden.
+Bei einer \E{Blutung} kommt es jedoch oft zu einer
+\E{raschen Verschlechterung des Zustandes}, insbesonders hinsichtlich
+des Bewusstseinsgrades.
 
 %\begin{multicols}{2}
 % \begin{labeling}[~--]{xxxxxxxxxxxxxxxxxx}
@@ -3341,12 +3346,13 @@ Je nach betroffener Hirnregion sehr unterschiedlich.
 {
 Die wichtigste Differentialdiagnose ist eine Störung des
 \EE{Blutzucker}-Stoffwechsels. Sowohl die Hyper-, als auch
-die Hypoglykämie können einen Schlaganfall vortäuschen. Bei
-neurologischen Symptomen muss der Blutzucker immer gemessen
-werden! Ebenso ist immer an \EE{Vergiftungen} zu denken.
+die Hypoglykämie können neurologische Symptome haben, daher
+muss der Blutzucker immer gemessen werden! Ebenso ist immer
+an \EE{Vergiftungen} zu denken.
 
 Die Abgrenzung zu anderen neurologischen Erkrankungen ist
-oft schwierig bzw. kaum möglich.
+ohne weitergehende Untersuchungen oft schwierig bzw. schwer
+möglich. 
 }{
 \begin{itemize}
   \item Blutzucker ${\downarrow}$, ${\uparrow}$
@@ -3371,7 +3377,7 @@ oft schwierig bzw. kaum möglich.
     bedroht einzustufen. Es gibt jedoch eine Besonderheit:
     Eine definitive Therapie in einer Spezialabteilung
     (Stroke Unit) kann andere, noch nicht abgestorbene Teile
-    des Hirns vor weiterem Schaden bewahren, d.h. es ist
+    des Hirns vor weiterem Schaden bewahren, d.\,h. es ist
     sehr wichtig, dass diese Therapie möglichst schnell
     erfolgt.
     
@@ -3418,7 +3424,7 @@ oft schwierig bzw. kaum möglich.
 \end{itemize}
 }
 
-\subsection{Vom Gehirn ausgehende Krämpfe --- Zerebrale Krampfanfälle}
+\subsection{Vom Gehirn ausgehende Krämpfe -- Zerebrale Krampfanfälle}
 \label{topic:zerebrale-krampfanfaelle}
 \label{topic:krampfanfall}
 
@@ -3429,33 +3435,30 @@ Nervenzell-Gruppen im Gehirn.}
 
 \Layout{0}{Einteilung}
 {%
-Die zerebralen Krampfanfälle kann man auf verschiedene Arten einteilen
+Die zerebralen Krampfanfälle kann man auf verschiedene Arten
+einteilen:
 
 \begin{enumerate}
   \item Nach Art:
-  \begin{labeling}[~--]{Generalisierter Anfall }
-    \item[Tonisch] "`Verkrampfung"', erhöhter
+  \begin{itemize}
+    \item \EE{Tonisch}: "`Verkrampfung"', erhöhter
     Muskeltonus
-    \item[Klonisch] Zuckungen
-    \item[Tonisch-klonisch] Kombination aus beidem, das
+    \item \EE{Klonisch}: Zuckungen
+    \item \EE{Tonisch-klonisch}: Kombination aus beidem, das
     klassische Erscheinungsbild eines Krampfanfalles
-  \end{labeling}
+  \end{itemize}
   \item Nach Lokalisation:
-  
-  \begin{labeling}[~--]{Generalisierter Anfall }
-    \item [Fokaler Anfall] Der Krampfanfall ist auf
+  \begin{itemize}
+    \item \EE{Fokaler Anfall}: Der Krampfanfall ist auf
     eine Körperregion beschränkt, siehe
     \ref{topic:krampfanfall-fokaler}
-    
-    \item [Generalisierter Anfall] Er betrifft den
+    \item \EE{Generalisierter Anfall}: Er betrifft den
     ganzen Körper, siehe
     \ref{topic:krampfanfall-generalisierter}
     
-  \end{labeling}
+  \end{itemize}
 \end{enumerate}
 }{%
-Die zerebralen Krampfanfälle kann man auf verschiedene Arten einteilen
-
 \begin{itemize}
   \item Nach Art:
   \begin{description}
@@ -3480,23 +3483,24 @@ Nervenstruktur, andere sorgen dafür, dass das Hirn zu wenig
 Sauerstoff und andere Nährstoffe erhält. Die häufigsten
 Ursachen und Grunderkrankungen sind im Folgenden aufgeführt:
 
-\begin{labeling}{xxxxxxxxxxxxxxx}
-  \item[Epilepsie] Die Epilepsie ist eine chronische Erkrankung welche durch wiederkehrende
-  Episoden von zerebralen Krampfanfällen gekennzeichnet ist.
-  \item[Vergiftungen] (Medikamente/Drogen/...) können wieder fast alles machen,
-  also auch Krampfanfälle. \citep{Supady2009}
-  \item[Hirntumor] Durch den Tumor wird das Hirn beschädigt, auch dadurch kann es
-  zu Anfällen kommen.
-  \item[Narbengewebe] nach Insult oder Hirnverletzung.
-  \item[Hirnblutung]
-  \item[Sauerstoffmangel] z.\,B. Kollaps, Ischämie aufgrund eines Gefäßverschlusses
-  \item[BZ] Der Dauerbrenner. Eine Blutzuckerentgleisung kann fast alle
-  neurologischen Symptome vortäuschen!
-  \item[angeboren] ohne organisch fassbare  Ursache
-  \item[Fieberkrampf] Fieber bei Kleinkindern
-  \item[Infektionen]
-  \item[Entzug] Entzug von Alkohol oder anderen Drogen
-\end{labeling}
+\begin{itemize}
+  \item \EE{Epilepsie}: Die Epilepsie ist eine chronische
+  Erkrankung welche durch wiederkehrende Episoden von zerebralen Krampfanfällen gekennzeichnet ist.
+  \item \EE{Vergiftungen}: (Medikamente/Drogen/...) können
+  wieder fast alles machen, also auch Krampfanfälle. \citep{Supady2009}
+  \item \EE{Hirntumor}: Durch den Tumor wird das Hirn
+  beschädigt, auch dadurch kann es zu Anfällen kommen.
+  \item \EE{Narbengewebe}: nach Insult oder Hirnverletzung.
+  \item \EE{Hirnblutung}
+  \item \EE{Sauerstoffmangel}: z.\,B. Kollaps, Ischämie
+  aufgrund eines Gefäßverschlusses
+  \item \EE{Zuckerstoffwechselstörung}: Der Dauerbrenner.
+  Eine Blutzuckerentgleisung kann fast alle neurologischen Symptome vortäuschen!
+  \item \EE{angeboren}: ohne organisch fassbare  Ursache
+  \item \EE{Fieberkrampf}: Fieber bei Kleinkindern
+  \item \EE{Infektionen}:
+  \item \EE{Entzug}: Entzug von Alkohol oder anderen Drogen
+\end{itemize}
 }{
 }{}{}{}
 
@@ -3533,7 +3537,7 @@ Dann verliert er das Bewusstsein und die Muskeln werden
 anfangs schlaff. Wenn der Patient gestanden ist, fällt er
 ungebremst auf den Boden (Cave: \EE{Verletzungen!}).
 Manchmal kommt es vor, dass der Patient einen
-Initialschrei\index{Initialschrei} von sich gibt, der
+\I{Initialschrei} von sich gibt, der
 gruselig klingen kann. 
 }{
 \begin{itemize}
@@ -3581,9 +3585,9 @@ unbedingt notwendig!
 }{
 \begin{itemize}
   \item Nachschlafphase
-  \item Aufklaren
+  \item \EE{Aufklaren}
   \item Amnesie
-  \item \EE{Neurocheck}
+  \item Neurocheck
   \item \EE{Traumacheck} nach \underline{\E{jedem}} Krampfanfall
 \end{itemize}
 }{}{}{}
@@ -3614,7 +3618,7 @@ mal"'}\ZFootnote{Grand mal: \emph{franz.:} "`großes Unglück"'} genannt.}
 \index{Krampfanfall!Fieberkrampf}%
 %
 \EE{Kinder} unter 5~Jahren können bei schnellem, hohen
-Fieberanstieg ({\textgreater}\,39{\DegC}) sogenannte
+Fieberanstieg ({\textgreater}\,39{\DegC}) 
 \E{Fieberkrämpfe} entwickeln. Sie entsprechen einem vom
 Gehirn ausgehenden Krampfanfall und sind grundsätzlich genau
 so zu behandeln.
@@ -3632,7 +3636,7 @@ von den Eltern gegeben).
 }
 {./images/gabriel-sebastian-aass/fieberthermometer.jpg}
 {}
-{GABS.}
+{GABS}
 
 
 
@@ -3640,12 +3644,12 @@ von den Eltern gegeben).
 {%
 In Folge einer Präeklampsie (EPH-Gestose)
 kann es zu einem sog. \E{eklamptischen Krampfanfall}
-kommen. Dieser wird unter \prettyref{topic:eklampsie}
+kommen. Dieser wird unter \FullPrettyRef{topic:eklampsie}
 besprochen.
 }{
 \begin{itemize}
     \item Folge einer Präemklampsie.
-    \item \prettyref{topic:eklampsie}.
+    \item \FullPrettyRef{topic:eklampsie}.
 \end{itemize}
 }{}{}{}
 
@@ -3670,9 +3674,10 @@ durchbrochen werden.
 \end{itemize}
 }{}{}{}
 
+\VARIANT{VAR-RETTUNGSDIENST}
+{\Fazit{Im Rettungsdienst gilt praktisch jeder Krampfanfall,
+den das Personal selber miterlebt, als Status-Verdächtig.}}
 
-\Fazit{Im Rettungsdienst gilt praktisch jeder Krampfanfall,
-den das Personal selber miterlebt, als Status-Verdächtig.}
 
 \subsubsection{Maßnahmen}
 
@@ -3723,7 +3728,7 @@ den das Personal selber miterlebt, als Status-Verdächtig.}
 
 
 
-\clearpage % TODO temp clearpage
+% \clearpage % TEMP temp clearpage
 \subsection{Lumbago, Lumbo-ischialgie und Bandscheibenvorfall} 
 \HeadingSub{\Z{(Discusprolaps)}} 
 \label{topic:lumbago}
@@ -3738,7 +3743,15 @@ oder seiner Wurzeln verursacht werden können.
 können eine Reizung bzw. Druck
 im Bereich der Lendenwirbel bzw. der Kreuzbeinwirbel,
 ein Bandscheibenvorfall, sowie andere Erkrankungen der Wirbelsäule, aber auch
-ein Unfall sein. \bigskip
+ein Unfall sein. 
+
+\bigskip
+
+\bigskip
+
+\bigskip
+
+\bigskip
 }{
 \begin{itemize}
   \item Nervenreizung
@@ -3769,7 +3782,7 @@ Bandscheibenvorfall abzuklären.
 
 
 
-\clearpage
+% \clearpage
 \section{Metabolische Störungen (Stoffwechselstörungen)}
 
 Die relevanteste Stoffwechselstörung im Rettungsdienst ist der
@@ -3805,9 +3818,9 @@ Stoffwechselerkrankungen, bei der die Blutzuckerregulation gestört ist.}
 \\\addlinespace
 61 & -- & 80 & erniedrigt, leichte Symptome
 \\\addlinespace
-81 & -- & 120 & Nüchtern-Blutzucker
+81 & -- & 110 & Nüchtern-Blutzucker
 \\\addlinespace
-121 & -- & 200 & erhöht
+111 & -- & 200 & erhöht
 \\\addlinespace
 201 & -- & 399 & stark erhöht
 \\\addlinespace
@@ -3819,17 +3832,12 @@ Stoffwechselerkrankungen, bei der die Blutzuckerregulation gestört ist.}
 Durch die Erkrankung oder die unsachgemäße Behandlung kann es zu 
 folgenden Notfällen kommen:
 
-\begin{description}
-\item[\T{Hyp\underline{\E{o}}glykämie}] \ldots "`Unterzucker"'
-
-\item[\T{Hyp\underline{\E{er}}glykämie}] \ldots "`Überzucker"'
-
-\end{description}
-\TODO{GABS}{2010-04-18}{Bild: }{Interpretation des
-BZ-Wertes: Richtwerte.}
+\begin{itemize}
+  \item \EE{{Hyp\underline{\E{o}}glykämie}}: "`Unterzucker"'
+  \item \EE{{Hyp\underline{\E{er}}glykämie}}: "`Überzucker"'
+\end{itemize}
 }
 {}
-% {./images/noauth/AASdev20090228-img88.png}
 {./icons/under-construction.png}
 {Interpretation des
 BZ-Wertes: Richtwerte.}
@@ -3845,10 +3853,9 @@ Zellen aufgenommen wird.
 
 \Fazit{Insulin senkt den Blutzuckerspiegel.} 
 
-
 Wenn man künstlich Insulin spritzt, besteht die Gefahr eines
 Unterzuckers (zu viel Insulin gespritzt oder zu wenig
-gegessen ${\rightarrow}$  Spritz\,--\,Essabstand)
+gegessen ${\rightarrow}$  Spritz-/ Essabstand)
 er\-fra\-gen.
 }{
 
@@ -3863,7 +3870,7 @@ Zwei Störungen sind möglich:
   \item Es wird zu wenig Insulin gebildet.
   \item Der Körper hat einen gesteigerten Bedarf an Insulin,
   weil er schon zu sehr daran gewöhnt ist. Der Körper
-  reagiert auf die 'normale' Dosis nicht mehr so wie er
+  reagiert auf die "`normale"' Dosis nicht mehr so wie er
   sollte, er braucht größere Mengen Insulin um den gleichen
   Effekt wie ein Gesunder zu erreichen (Gewöhnungseffekt),
   irgendwann kann aber der Körper nicht mehr Insulin
@@ -3876,9 +3883,11 @@ Folglich unterscheidet man 2 Typen:
 
 \Layout{0}{Diabetes mellitus: Typen}
 {
-\begin{labeling}[~--]{xxxxxxx }
-  \item[Typ I]  \Z{(IDDM,
-  insuline dependent DM)} Die Insulinproduktion ist gestört
+\begin{itemize}
+  \item \EE{Typ I}:  \Z{(IDDM,
+  insuline dependent DM)} 
+  
+  Die Insulinproduktion ist gestört
   und der Körper produziert zu wenig Insulin. Der Patient
   muss als Ersatz künstlich Insulin spritzen.  Die Patienten
   sind eher jung (Jugendliche, junge Erwachsene) und
@@ -3890,8 +3899,10 @@ Folglich unterscheidet man 2 Typen:
   kommt. Durch den Produktionsausfall kommt es zu einem
   absoluten Mangel.}
   
-  \item[Typ II]
-  \Z{(NIDDM, non insuline dependent DM)} Durch eine
+  \item \EE{Typ II}:
+  \Z{(NIDDM, non insuline dependent DM)} 
+  
+  Durch eine
   dauerhaft zu hohe Zuckerzufuhr kommt es im Körper zu
   Gewöhnungseffekten und einem Wirkungsverlust des vom
   Körper produzierten Insulins \Z{(Insulinresistenz)}. Als
@@ -3909,7 +3920,7 @@ Folglich unterscheidet man 2 Typen:
   Alter und aufwärts, aufgrund der zunehmend fett- und
   kohlehydratreichen Ernährungsgewohnheiten werden die
   Patienten aber immer jünger.
-\end{labeling}
+\end{itemize}
 }{
 \begin{itemize}
   \item Typ I
@@ -3928,12 +3939,14 @@ Folglich unterscheidet man 2 Typen:
 \end{itemize}
 }{}{}{}
 
+\clearpage
 \Layout{0}{Spätfolgen}
 {%
 Ein hoher Blutzuckerspiegel über Jahre schädigt den gesamten
 Körper. Es kommt zu:
-\begin{labeling}[~--]{xxxxxxxxxxxxxxx }
-  \item[Gefäßschäden] \begin{itemize}
+\begin{itemize}
+  \item \EE{Gefäßschäden}: 
+  \begin{itemize}
     \item Gefäßverschlüsse (kleine und große Gefäße)
     \item \EE{Beine}: "`Diabetischer Fuß"', infolge der
     Mangeldurchblutung in der Peripherie heilen auch kleine
@@ -3952,16 +3965,14 @@ Körper. Es kommt zu:
     Blutwäsche (Dialyse) behandelt werden muss. Dialyse-Patienten machen
     einen großen Teil der Krankentransporte aus.
   \end{itemize}
-  \item [Nervenschäden] \Z{(periphere Polyneuropathie)}:
+  \item  \EE{Nervenschäden} \Z{(periphere Polyneuropathie)}:
   Gefühlslosigkeit vor allem in den Extremitäten, aber auch am
-  gesamten Körper: Ein Herzinfarkt kann zum Beispiel schmerzlos
-  ablaufen!
-  \item [Augenschäden] bis hin zur Erblindung
+  gesamten Körper. Krankheiten, die sonst schmerzhaft sind,
+  können beim Diabetiker aufgrund der Nervenschäden ohne
+  Schmerzen ablaufen, z.\,B. ein schmerzloser, \EE{stummer Herzinfarkt}.
+  \item  \EE{Augenschäden}: Bis hin zur Erblindung
   
-\end{labeling}
-
-Krankheiten, die sonst schmerzhaft sind, können beim Diabetiker aufgrund
-der Nervenschäden ohne Schmerzen ablaufen. 
+\end{itemize}
 
 \Cave{Achtung: "`Stummer"', schmerzarmer/-loser Herzinfarkt beim Diabetiker!}
 }{
@@ -3990,7 +4001,9 @@ der Nervenschäden ohne Schmerzen ablaufen.
 {%
 Die häufigsten Ursachen für eine plötzliche Hypoglykämie
 sind Diätfehler und/oder eine falsche Anwendung von Insulin
-oder bestimmten anderen Diabetes-Medikamenten. Aufgrund
+oder bestimmten anderen Diabetes-Medikamenten. 
+
+Aufgrund
 besonderer Anstrengungen kann es zu einem gesteigerten
 Zuckerbedarf des Körper kommen, wodurch der
 Blutzuckerspiegel sinkt. Dies kommt häufig im Rahmen von
@@ -3999,6 +4012,7 @@ Auch die Alkohol-Intoxikation kann zu einer Hypoglykämie
 führen\opt{NIVDOC}{ (Das beim Ethanolabbau entstehende
 \Abk{NADH} hemmt die
 Glukoneogenese.)} \citep{LoefflerBiochemie7}. 
+\bigskip
 }{%
 \begin{itemize}
   \item Zu viel Insulin (spritzen ohne zu essen)
@@ -4022,7 +4036,6 @@ aggressiv. Oft fällt ein Zittern und eine schweißige Haut
 auf. Auch Kopfschmerzen sind häufig. Eine Tachykardie und
 Tachypnoe ist häufig feststellbar. Manchmal klagt der
 Patient über Übelkeit und Heißhunger.
-
 Je tiefer der Blutzuckerspiegel sinkt, desto deutlicher
 werden die \EE{Bewusstseinsstörungen}. Von der anfänglichen
 Agitiertheit/Desorientiertheit kann es rasch zu einer
@@ -4085,7 +4098,7 @@ Diagnosen!}}
 \end{itemize}
 }
 
-\clearpage % TODO temp clearpage
+% \clearpage % TEMP temp clearpage
 \subsubsection{Hyperglykämie}
 \label{topic:hyperglykaemie}
 \index{Hyperglykämie}
@@ -4191,18 +4204,13 @@ erwartungsgemäß die Bewusstseinsstörung ist.
 Steht der Nährstoffmangel im Vordergrund passiert etwas
 Interessantes: Der Körper produziert sog. \Z{Ketonkörper}. Da
 diese \E{sauer} sind, kommt es zu einer stoffwechselbedingten
-Übersäuerung (metabolische \EE{Azidose}
-\prettyref{topic:azidose-metabolische}).
-
-Unter \prettyref{topic:alkalose-respiratorische} wurde
-besprochen dass der pH-Wert bei einer Hyperventilation in
-Richtung basisch wandert. Bei der diabetischen Ketoazidose
-(sauer) versucht der Körper diesen Mechanismus auszunutzen:
-Er \EE{hyperventiliert} um sich "`vom sauren pH
-    zum normalen pH zu atmen"'. Es ist daher bei diesen
-    Patienten eine \EE{schnelle, tiefe Atmung}
-    feststellbar\ZFootnote{Diese charakteristische Form der
-    Atmung wird auch "`Kußmaul-Atmung"' genannt}.
+Übersäuerung (metabolische \EE{Azidose}\ZFootnote{Genauer:
+\I[Ketoazidose!diabetische]{diabetischen Ketoazidose}}
+\FullPrettyRef{topic:azidose-metabolische}). 
+Er \EE{hyperventiliert}, um \ce{CO2} abzuatmen und somit
+den pH wieder zu normalisieren (Puffersystem). Es ist daher
+bei diesen Patienten eine \EE{schnelle, tiefe Atmung}
+feststellbar (\Z{\I{Kußmaul-Atmung}}).
 
 Mitunter kann auch ein blumig/fruchtiger oder Azeton-artiger
 Atemgeruch wahrgenommen werden. Dieser darf nicht mit einer
@@ -4292,9 +4300,8 @@ rasch gefährlich werden.
 Es ist daher wichtig
 typische Symptome zu erheben und Alarmzeichen sofort zu
 erkennen.
-
 Wesentlich ist bei allen unklaren Bauchbeschwerden die
-Erhebung einer exakten Stuhlanamnese:
+Erhebung einer exakten \I{Stuhlanamnese}:
 
 \begin{itemize}
   \item Auffälligkeiten? (Geruch, Farbe, Konsistenz, Frequenz)
@@ -4307,9 +4314,8 @@ Erhebung einer exakten Stuhlanamnese:
 
 Der Patient muss bis zur endgültigen Klärung der Situation
 \EE{nüchtern} belassen werden!
-
 Wenn es der Patient toleriert, muss eine Betrachtung und
-Abtastung des unbekleideten Abdomens beim liegenden
+Abtastung des \so{unbekleideten} Abdomens beim liegenden
 Patienten erfolgen wie unter
 \ref{topic:untersuchung-abdomen-abtasten} beschrieben.
 }{%
@@ -4382,7 +4388,10 @@ folgenden sind einige häufige Krankheitsbilder beschrieben,
 die \E{erkennbar}  und relativ häufig sind.
 
 \MassnahmenNG{Allgemeine Maßnahmen}{Abdominalerkrankung}
-{\label{m:am-abdominalerkrankungen}}{
+{\label{m:am-abdominalerkrankungen}}
+{
+~
+
 \begin{itemize}
   \item \EE{Vitale Bedrohung einschätzen.} \TxBeiVit
   \TxMassVit
@@ -4405,7 +4414,7 @@ die \E{erkennbar}  und relativ häufig sind.
 }
 
 
-\clearpage % TODO temp clearpage
+% \clearpage % TEMP temp clearpage
 \subsection{Häufige und gut erkennbare Erkrankungen}
 
 
@@ -4563,15 +4572,10 @@ entsprechend vielfältig sind auch die Ursachen:
 \subsubsection{Darmverschluss}
 \index{Darmverschluss}
 \label{topic:ileus}
-\HeadingSub{\Lang{Term.} \T{Ileus}}
+\HeadingSub{\Lang{Term.} \T{Ileus}
+(vollständig), \Z{\T{Subileus}  (unvollständig)}}
 
 \Definition{Unterbrechung der normalen  Darmpassage}
-
-\Z{%
-\T{Ileus}  (vollständig)
-
-\T{Subileus}  (unvollständig)
-}%Z
 
 \Layout{2}{\TxBeschreibung}
 {%
@@ -4646,10 +4650,9 @@ axilläre Messung eine Differenz um ca. 1\DegC aufweist}.
 Abszeßbildung und Perforation in
 die Bauchhöhle gekennzeichnet sein. neu: Unbehandelt kann es zu einer Eiterung
 und einem Durchbruch in die Bauchhöhle kommen.} Unbehandelt kann es zu einer
-Eiterung und einem Durchbruch in die Bauchhöhle kommen. In diesem Stadium entwickelt sich ein
-\ACh{GABS}{2009-05-07}{alt: Schockzustand, der eine absolute Lebensbedrohung
-darstellt; neu: akutes Abdomen, siehe \ref{topic:akutes-abdomen}} akutes
-Abdomen (\prettyref{topic:akutes-abdomen}). 
+Eiterung und einem Durchbruch in die Bauchhöhle, einer
+anschließenden Bauchfellentzündung und einem akuten Abdomen
+kommen (\FullPrettyRef{topic:akutes-abdomen}).
 
 Der Verlauf einer akuten Appendizitis ist
 jeweils durch individuelle Faktoren wie Lebensalter und Allgemeinzustand des
@@ -4677,7 +4680,7 @@ Patienten geprägt.
 
 
 
-
+\clearpage
 \subsubsection{Gallenkolik}
 \label{topic:gallenkolik}
 \index{Kolik!Gallen-}
@@ -4721,8 +4724,8 @@ Patient ist sehr \EE{unruhig} und agitiert.
 \begin{itemize}
   \item Auf- und abschwellende, krampfartige
   (kolikartige) Schmerzen im re. Oberbauch
-  \item Besonders nach fettreichen Mahlzeiten
-  \item Evtl. Gelbfärbung des Augenweiß (Gelbsucht (Ikterus))
+  \item Nach fettreichen Mahlzeiten
+  \item Evtl. Gelbfärbung des Augenweiß (Gelbsucht)
   \item Evtl. Übelkeit, Erbrechen
 \end{itemize}
 }{}{}{}
@@ -4738,7 +4741,7 @@ Patient ist sehr \EE{unruhig} und agitiert.
 }
 
 
-\clearpage % TODO temp clearpage
+% \clearpage % TEMP temp clearpage
 \subsubsection{Gastrointestinale
 Blutungen und Ösophagusvarizenblutung}
 \label{topic:oesophagusvarizenblutung}
@@ -4774,11 +4777,11 @@ von rotem, frischen Blut.
 \Layout{0}{\TxSymptome}
 {
 \begin{itemize}
-  \item Bluterbrechen im Schwall (Hämatemesis)
+  \item Bluterbrechen im Schwall (\Z{\I{Hämatemesis}})
 \end{itemize}
 }{
 \begin{itemize}
-  \item Bluterbrechen im Schwall (Hämatemesis)
+  \item Bluterbrechen im Schwall (\Z{\I{Hämatemesis}})
 \end{itemize}
 }{}{}{}
 
@@ -4844,14 +4847,14 @@ Austrocknung (Exsikkose).
 \Layout{2}{\TxSymptome}
 {
 \begin{itemize}
-    \item Erbrechen (Emesis)
-    \item Durchfall (Diarrhoe)
+    \item Erbrechen (\Z{\I{Emesis}})
+    \item Durchfall (\Z{\I{Diarrhoe}})
     \item Wasser-/Elektrolytverlust
 \end{itemize}
 }{
 \begin{itemize}
-    \item Erbrechen (Emesis)
-    \item Durchfall (Diarrhoe)
+    \item Erbrechen (\Z{\I{Emesis}})
+    \item Durchfall (\Z{\I{Diarrhoe}})
     \item Wasser-/Elektrolytverlust
 \end{itemize}
 }{}{}{}
@@ -4896,7 +4899,7 @@ Exsikkose-Gefahr!
 
 \HeadingSub{\Lang{Syn.} \T{Dehydratation}}
 
-\Definition{„Austrocknung“: Es besteht ein hochgradiges Defizit von Flüssigkeit im Körper.}
+\Definition{"`Austrocknung"': Es besteht ein hochgradiges Defizit von Flüssigkeit im Körper.}
 
 Grundsätzlich wird (wurde) entweder \E{zu wenig Flüssigkeit
 zugeführt} oder \E{zu viel Flüssigkeit an die Außenwelt
@@ -4917,16 +4920,16 @@ auch \E{Medikamente} "`entwässern"'.
 }{
 \begin{itemize} %GABS: umgebaut
   \item Flüssigkeitszufuhr ${\downarrow}$
-  \begin{itemize}
+  \begin{compactitem}
     \item Verminderter Trinkantrieb
-  \end{itemize}
+  \end{compactitem}
   \item Flüssigkeitsverlust ${\uparrow}$
-  \begin{itemize}
+  \begin{compactitem}
     \item Erbrechen, Durchfall
     \item Starkes Schwitzen
     \item Fieber (Feuchtigkeit wird vermehrt abgeatmet)
-    \item (Entwässerungs)medikamente
-  \end{itemize}
+    \item Medikamente
+  \end{compactitem}
 \end{itemize}
 }{}{}{}
 
@@ -5084,14 +5087,14 @@ nüchtern zu belassen!}
 
 
 
-\clearpage % TODO temp clearpage
+% \clearpage % TEMP temp clearpage
 \subsection{Weniger häufige oder nicht-so-gut-erkennbare Erkrankungen}
 
-\minisec{Querverweise}
-
-\begin{itemize}
-    \item Hepatitis: \prettyref{topic:hepatitis}
-\end{itemize}
+% \minisec{Querverweise}
+% 
+% \begin{itemize}
+%     \item Hepatitis: \prettyref{topic:hepatitis}
+% \end{itemize}
 
 
 
@@ -5204,6 +5207,11 @@ möglich. Charakteristisch ist bestenfalls ein
 Oberbauchschmerz}\index{Oberbauchschmerz,gürtelförmiger}.
 Die häufigsten Begleitsymptome sind Übelkeit und Erbrechen,
 sowie Fieber. \citep{HeroldInnereMedizin2005}
+
+
+\bigskip
+
+\bigskip
 }
 {\begin{itemize}
   \item Oberbauchschmerzen, oft gürtelförmig
@@ -5273,8 +5281,8 @@ ein \II[Akutes Abdomen!beim Mesenterialinfarkt]{akutes
 Abdomen} (\FullPrettyRef{topic:akutes-abdomen}). Es kann zu
 \EE{blutigen, übel riechenden Stuhlabgängen} kommen.
 \cite{SiewertChirurgie8-06-Gefaesschirurgie}
-
-\bigskip
+% 
+% \bigskip
 
 }
 {\begin{itemize}
@@ -5299,13 +5307,7 @@ Abdomen} (\FullPrettyRef{topic:akutes-abdomen}). Es kann zu
 \end{itemize}
 }
 
-% \clearpage % TODO temp clearpage
-\needspace{0.3\textheight}
-
-~
-
-
-
+% \clearpage % TEMP temp clearpage
 \subsubsection{Bauchfellentzündung}
 \label{topic:bauchfellentzuendung}
 \label{topic:peritonitis}
@@ -5328,8 +5330,7 @@ Blinddarmdurchbruch, \ldots) Ursache der Entzündung.
 \begin{itemize}
     \item Perforation eines Hohlorganes (Darm, Magen,
     Gallenblase, \ldots)
-    \item Infektion über Blut- / Lymphwege oder eingewandert
-    über Fremdkörper
+    \item Fremdkörper
 \end{itemize}
 }{
 \begin{itemize}
@@ -5346,6 +5347,10 @@ Blinddarmdurchbruch, \ldots) Ursache der Entzündung.
     \item Evtl. reflektorischer Darmverschluss
     \item Evtl. Sepsis- und/oder Schockzeichen
 \end{itemize}
+
+\bigskip
+
+\bigskip
 }{
 \begin{itemize}
     \item Symptome eines Akuten Abdomens
@@ -5374,7 +5379,7 @@ Blinddarmdurchbruch, \ldots) Ursache der Entzündung.
 
 
 
-\clearpage % TODO temp clearpage
+% \clearpage % TEMP temp clearpage
 \section{Urologische Erkrankungen}
 
 \Definition{Erkrankungen des harnableitenden Systems.}
@@ -5681,21 +5686,23 @@ haben.
 
 % \clearpage
 
-\section*{\protect\dsliterary{} Weiterführende Literatur}
-\begin{WidePar}
-\begin{multicols}{2}
-\Z{%
-\begin{labeling}{mmm}
-  \item[\citep{Renz-Polster2006}] \emph{\bibentry{Renz-Polster2006}} 
-  \item[\citep{SiewertChirurgie8}] \emph{\bibentry{SiewertChirurgie8}}
-  \item[\citep{ScholzNotfallmedizin2}] \emph{\bibentry{ScholzNotfallmedizin2}} 
-  \item[\citep{IntroClinEmergMed4}] \emph{\bibentry{IntroClinEmergMed4}} 
-  \item[\citep{Longmore2007}] \emph{\bibentry{Longmore2007}} 
-  \item[\citep{Fauci2008}] \emph{\bibentry{Fauci2008}}
-\end{labeling}
-}
-\end{multicols}
-\end{WidePar}
+% \section*{\protect\dsliterary{} Weiterführende Literatur}
+% \begin{WidePar}\tiny
+% \begin{multicols}{2}
+% \Z{%
+% \begin{labeling}{mmm}
+%   \item[\citep{Renz-Polster2006}] \emph{\bibentry{Renz-Polster2006}} 
+%   \item[\citep{SiewertChirurgie8}] \emph{\bibentry{SiewertChirurgie8}}
+%   \item[\citep{ScholzNotfallmedizin2}] \emph{\bibentry{ScholzNotfallmedizin2}} 
+%   \item[\citep{IntroClinEmergMed4}] \emph{\bibentry{IntroClinEmergMed4}} 
+%   \item[\citep{Longmore2007}] \emph{\bibentry{Longmore2007}} 
+%   \item[\citep{Fauci2008}] \emph{\bibentry{Fauci2008}}
+% \end{labeling}
+% }
+% \end{multicols}
+% \end{WidePar}
+
+\citep{Renz-Polster2006,SiewertChirurgie8,ScholzNotfallmedizin2,IntroClinEmergMed4,Longmore2007,Fauci2008}
 
 % \paragraph{Weiters}
 \nocite{Eisenburger2008,

@@ -24,7 +24,7 @@ Bild: Motal
 {\TxTeilkapitelAASS}
 }
 
-\clearpage % TODO temp clearpage
+\clearpage % TEMP temp clearpage
 \Layout{0}{\TxQuerverweise}
 {~
 
@@ -165,32 +165,15 @@ Bild: Motal
 Das Erheben von Vitalwerten ist eine Routinetätigkeit und
 sollte bei jedem Notfallpatienten erfolgen. Es gibt nur wenig
 Situationen bei denen man darauf verzichten kann (zum
-Beispiel tobende Patienten). Zu den Vitalwerten zählt man
+Beispiel tobende Patienten). Zu den Vitalwerten zählt man:
 
 \begin{itemize}
-\item die \EE{Herzfrequenz}, 
-\item den \EE{Blutdruck} und 
-\item die \EE{Atemfrequenz}.
+  \item die \EE{Herzfrequenz} {\ldots}
+  \FullPrettyRef{topic:pulsmessung}, \FullPrettyRef{topic:pulsoxymetrie}
+  \item den \EE{Blutdruck} {\ldots} \FullPrettyRef{topic:rr-messung}
+  \item die \II{Atemfrequenz}: Bei der Messung der
+  Atemfrequenz wird die Anzahl der Atemzüge pro Minute gezählt.
 \end{itemize}
-
-Die Messung der Herzfrequenz erfolgt mittels Puls fühlen oder
-mittels Pulsoxymeter. Beim Puls fühlen wird für
-\EE{15~Sekunden} der Puls gefühlt und die Pulsschläge
-gezählt. Anschließend wird das Ergebnis \EE{mit vier
-multipliziert}, man erhält die Pulsschläge \EE{pro Minute}
-(\PerMin). Neben der Frequenz wird auch die
-Regelmäßigkeit beurteilt, das heißt ob der Puls \E{rhythmisch} oder \E{arrhythmisch} ist.
-
-Alternativ kann die Messung mittels des \E{Pulsoxymeters}
-erfolgen (\FullPrettyRef{topic:pulsoxymetrie}). Dabei misst ein
-Gerät die Herzfrequenz und zeigt diese an. Es ist jedoch zu
-beachten, dass bei Notfallpatienten die Pulsoxymetrie oft
-nicht funktioniert (z.\,B. Zentralisation bei Schock, kalte Finger,\ldots).
-
-Die Messung des Blutdrucks ist unter
-\FullPrettyRef{topic:rr-messung}, beschrieben.
-
-Bei der Messung der Atemfrequenz wird die Anzahl der Atemzüge pro Minute gezählt.\index{Atemfrequenz}
 }{
 \begin{itemize}
   \item Herzfrequenz
@@ -201,45 +184,41 @@ Bei der Messung der Atemfrequenz wird die Anzahl der Atemzüge pro Minute gezäh
 
 
 
-
-
-
-
-
 \subsection{Messung der Herzfrequenz -- HF}
 \label{topic:pulsmessung}
-% TODO : Layout-Anpassung
-\TODO{GABS}{2010-mm-dd}{Messung der Herzfrequenz:
-Layout-Anpassung notwendig.} {Dieser Teil entspricht nicht dem Standard-Layout!}
-
  
 \Definition{Als \T{Herzfrequenz} (\T{HF})
 bezeichnet man die Anzahl der Schläge des Herzens pro Minute.} 
 
 Sie wird mittels Fühlen des Pulses
-ermittelt. \marginpar{\E{\scriptsize Die Blutgefäße werden im Detail unter
-\prettyref{topic:blutgefaesse-wichtige} besprochen.}} 
+ermittelt.
 Dieser wird idealerweise an der
 \EE{Radialarterie} (A. \E{radialis}) bzw. bei nicht
 ansprechbaren oder schockierten Patienten an der
 \EE{Halsschlagader} (A. \E{carotis}) ertastet. Bei
 Neugeborenen und Säuglingen kann man auch an der
 \EE{Oberarmarterie} (A. \E{brachialis}) fühlen. Gemessen
-wird immer mit zwei bis drei Fingern. Nie jedoch mit dem Daumen, da hier meistens nur der eigene Puls gefühlt wird und nicht der des
-Patienten. Wenn an der Halsschlagader (A. \E{carotis}) die
-Herzfrequenz ermittelt wird, darf nie auf beiden Seiten
-gleichzeitig gemessen werden, da sonst die Gefahr besteht,
+wird immer mit zwei bis drei Fingern, nie jedoch mit dem
+Daumen, da hier meistens nur der \so{eigene} Puls gefühlt
+wird, und nicht der des Patienten. Wenn an der
+Halsschlagader (A. \E{carotis}) die Herzfrequenz ermittelt
+wird, darf nie auf beiden Seiten gleichzeitig gemessen
+werden, da sonst die Gefahr besteht,
 dass es zu einer Unterversorgung des Gehirn durch Blut kommen
 kann.
 
 \Layout{2}{Durchführung}{
 Es wird an der Radialarterie (A. \E{radialis}) der Puls mit
 zwei bis drei Fingern ertastet. Nun werden 15 Sekunden lang
-die Schläge gezählt. Multipliziert man den Messwert mit vier,
-erhält man  die Herzfrequenz (HF) des Patienten. Der
+die Schläge gezählt. Anschließend wird das Ergebnis \EE{mit vier
+multipliziert}, man erhält die Herzfrequenz (HF)
+in Pulsschläge \EE{pro Minute} (\PerMin). 
+Der
 Normalwert liegt beim Erwachsenen zwischen 60 und 100
-Schlägen pro Minute. Dokumentiert wird sie mit einem HF
-(z.\,B.: HF\,=\,70)
+Schlägen pro Minute. Neben der Frequenz
+wird auch die \EE{Regelmäßigkeit} beurteilt, das heißt ob
+der Puls \E{rhythmisch} oder \E{arrhythmisch} ist.
+
 }{
 }{}{}{}
 
@@ -439,9 +418,9 @@ Strömungsgeräuschen). Die zweite Möglichkeit ist die
 bei der auskultatorischen Methode ermittelt werden!} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TODO : Neuerstellung
-\TODO{KOCH}{yyyy-mm-dd}{RR, Bild von Arm mit eingez. Arterie: Neuerstellung von
-Foto notwendig}{}
+% TODO : Bild von Arm mit eingez. Radialrterie
+\TODO{KOCH}{yyyy-mm-dd}{RR, Bild von Arm mit eingez.
+Radialrterie: Neuerstellung von Foto notwendig}{}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -478,19 +457,19 @@ wird der Blutdruck mit RR (z.\,B.: RR~\RRmmHg{125}{75}). Der
 Normalwert beim Erwachsenen liegt ca. bei RR~\RRmmHg{120}{80}
 (\prettyref{topic:blutdruck}).
 }{
-\begin{itemize}
+\begin{compactenum}
   \item Manschette faltenfrei auf Herzhöhe anlegen
   \item Luftkissen  mittig über Oberarmarterie
-  \item Markierungspfeil beachten
+  (Markierungspfeil!)
   \item Radialarterie tasten
   \item Manschette aufpumpen bis Radialispuls nicht mehr tastbar ist
-  +~\VonBis{20}{30}\MmHg
+  +~\VonBis{20}{30}\,\MmHg
   \item Stethoskop über Oberarmarterie anlegen
   \item Druck langsam ablassen
   \item Erstes Pochen: systolischer Wert
   \item Letztes Pochen: diastolischer Wert
   \item Werte auf nächste 5er-Stelle abrunden
-\end{itemize}
+\end{compactenum}
 
 }{}{}{}
 
@@ -538,18 +517,17 @@ Regel der wichtigere.
 
 \bigskip
 }{
-\begin{itemize}
+\begin{compactenum}
   \item Manschette faltenfrei auf Herzhöhe anlegen
   \item Luftkissen  mittig über Oberarmarterie
-  \item Markierungspfeil beachten
+  (Markierungspfeil!) beachten
   \item Radialarterie tasten
   \item Manschette aufpumpen bis Radialispuls nicht mehr tastbar ist
-  +~\VonBis{20}{30}\MmHg
-  \item Druck langsam ablassen, dabei Radialispuls weiter versuchen zu tasten
+  +~\VonBis{20}{30}\,\MmHg
+  \item Druck langsam ablassen
   \item Radialispuls wieder fühlbar: systolischer Wert
-  \item Auf nächste 5er-Stelle abrunden
   \item \E{Kein} \E{diastolischer} Wert!
-\end{itemize}
+\end{compactenum}
 }{}{}{}
 
 
@@ -563,8 +541,8 @@ Die Blutdruckmanschette soll nach Möglichkeit \EE{\E{nicht} auf der Seite
 	künstlicher Kurzschluss zwischen einer Armarterie und einer Armvene. Dadurch wird
 		die Vene erweitert und sie pulsiert. Man kann viel mehr
 		Durchfluss für die Dialyse erreichen. Die Nahtstelle
-		zwischen Vene und Arterie ist jedoch sehr sensibel, wenn
-		gestaut wird kann sie aufplatzen $\rightarrow$ Gefahr
+		zwischen Vene und Arterie ist jedoch sehr sensibel. Wenn
+		gestaut wird, kann sie aufplatzen $\rightarrow$ Gefahr
 		einer massiven Shuntblutung.} bei Dialysepatienten
 		\item eines Armödems, z.\,B. nach einer
 		Brustamputation, oder
@@ -733,10 +711,6 @@ COPD findet man jedoch oft sehr niedrige Werte (z.\,B.
 \bigskip
 
 }{
-% TODO Slide fehlt.
-% \begin{itemize}
-%     \item \Z{Point}
-% \end{itemize}
 \begin{itemize}
   \item Normalwert: \VonBis{96}{100}\PC*
   \item COPD-Patient: auch Werte < 90\PC* möglich ohne
@@ -746,12 +720,11 @@ COPD findet man jedoch oft sehr niedrige Werte (z.\,B.
 
 
 \Layout{2}{Beurteilung}
-{
-Bei der Interpretation des
-Sp\ce{O2} muss man sehr vorsichtig sein! 
-Bei der Beurteilung des Wertes muss berücksichtigt
+{%
+Bei der Beurteilung des
+Sp\ce{O2} muss berücksichtigt
 werden, \E{ob und wieviel \EE{Sauerstoff} der Patient
-erhält}. Eine Sauerstoffsättigung von 95\PC* bei einem Patienten ohne
+bereits erhält}. Eine Sauerstoffsättigung von 95\PC* bei einem Patienten ohne
 zusätzliche Sauerstoffgabe ist nicht beunruhigend,
 wohingegen derselbe Wert bei einer \E{Sauerstoffgabe} von
 15{\LPerMin*} ein Hinweis für eine schwere Störung der Atmung
@@ -759,7 +732,7 @@ darstellt.
 
 \Fazit{Die Beurteilung der Sauerstoffsättigung muss
 berücksichtigen, ob und wieviel Sauerstoff der Patient
-erhält.} 
+bereits erhält.} 
 % Auch ein
 % Normalwert bedeutet nicht, dass der Patient genug Sauerstoff hat, beziehungsweise, dass keine
 % Sauerstoffgabe erfolgen soll. Die Sauerstoffgabe richtet
@@ -773,12 +746,11 @@ Verlauf beurteilt werden.
 \cite{Soehnke200607}
 
 \Fazit{Behandle den Patienten und nicht das Gerät!}
-
-
-
-
 }{
-% TODO Slide fehlt.
+\begin{itemize}
+  \item Bedenke: Wieviel \ce{O2} bekommt der Patient
+  bereits?
+\end{itemize}
 }{}{}{}
 
 
@@ -963,7 +935,7 @@ Notfallsymptome auftreten.
   im Display ein Tropfen angezeigt wird ist das Gerät
   messbereit.
   \item Den Messstreifen mit dem Gerät in den Bluttropfen
-  tauchen, das Blut steigt auf\footnote{Kapillarwirkung}.
+  tauchen, das Blut steigt auf.\footnote{Kapillarwirkung}
   \item Beim Piepton ist genug Blut in die Testkammer
   eingeströmt und das Gerät beginnt mit der Messung und kann
   entfernt werden. 
@@ -1101,7 +1073,7 @@ Es haben sich folgende Begriffe eingebürgert:
     \item[Extremitätenableitung] "`\T{Rhythmusstreifen}"'
     zur Beurteilung des Herzrhythmus und zum Monitoring
     \item[Extremitätenableitung\,+\,Brustwandableitung]
-    (\T{12-Kanal-EKG}"') -- Damit können Schäden der
+    ("`\T{12-Kanal-EKG}"') -- Damit können Schäden der
     jeweiligen Herzregion zugeordnet werden. Wenn vorhanden,
     ist das 12-Kanal-\Abk{EKG} (\emph{"`12er"'}) für die
     Diagnostik das Mittel der Wahl. 
@@ -1135,7 +1107,7 @@ EKG-Gerät \EE{sechs Ableitungen} \Z{(\EKG{I}, \EKG{II}, \EKG{III}, \EKG{aVL}, \
 für die Extremitätenableitung.}
 
 \begin{tabular}{lll}
-\TabHeading{Elektrode} 
+\addlinespace\toprule\addlinespace
 & 
 \TabHeading{Position} 
 &
@@ -1158,11 +1130,10 @@ Rechte Leiste \\\bottomrule
 
 \begin{figure}[H]
 \begin{center}
-\includegraphics[width=7cm]{./images/geraete/ECGcolor.png}
+\includegraphics[width=\linewidth]{./images/geraete/ECGcolor_edited}
 \Captionof{figure}{\AuthNotesPicLegalOk{}{PD}Extremitätenableitungen
-(schwarze Kabel) und Brustwandableitungen (blaue Kabel).
-\SourcePicture{WmCo/Madhero88, PD}\AuthNotes{GABS: Bessere Beschriftung wäre
-wünschenswert, Dringlichkeit: niedrig}}
+und Brustwandableitungen.
+\SourcePicture{WmCo/Madhero88, PD}}
 \end{center}
 \end{figure}
 
@@ -1193,23 +1164,25 @@ Ableitungen}: \Z{\VonBis{\EKG{V1}}{\EKG{V6}}}.
 \Captionof{table}{Position der EKG-Elektroden bei der Brustwandableitung.}
 
 \begin{tabulary}{\linewidth}[H]{CL}
-\TabSub{Elektrode}
+\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Abl.}
  &
-\TabSub{Position}
-\\\midrule
+\noindent\TabHeading{Position}
+\\\addlinespace\midrule\addlinespace
 \EKG{V1} & 4. Zwischenrippenraum rechts vom Sternum
-\\
+\\\addlinespace
 \EKG{V2} & 4. Zwischenrippenraum links vom Sternum
-\\
+\\\addlinespace
 \EKG{V3} & Mitte zwischen \EKG{V2} und \EKG{V4}
-\\
-\EKG{V4} & 5. Zwischenrippenraum links in der Verlängerung der
-Schlüsselbein-Mittellinie
-\\
+\\\addlinespace
+\EKG{V4} & 5. Zwischenrippenraum links in der Verlängerung
+der Schlüsselbein-Mittellinie
+\\\addlinespace
 \EKG{V5} & Mitte zwischen \EKG{V4} und \EKG{V6}
-\\
-\EKG{V6} & 6. Zwischenrippenraum in der mittleren Achsellinie
-\\\bottomrule
+\\\addlinespace
+\EKG{V6} & 6. Zwischenrippenraum in der mittleren
+Achsellinie 
+\\\addlinespace\bottomrule
 \end{tabulary}
 }
 \end{table}
@@ -1264,7 +1237,7 @@ Loslassen bekommt
 \end{itemize}
 }{}{}{}
 
-\clearpage % TODO temp clearpage
+\clearpage % TEMP temp clearpage
 \subsection{Neurocheck}
 \label{topic:neurocheck}
 \index{Neurocheck}
@@ -1357,41 +1330,34 @@ durchgeführt.
 
 %\end{multicols}
 
-\Layout{57}{}
-{}{}
-{
-\begin{tabularx}{\linewidth}{XXX}
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro1.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro2.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro3b.jpg}
-\\
-Pupillenreaktion, Lichtscheue, Sehstörungen 
-&
-Kraftprobe an den Armen
-& 
-Kraftprobe an den Beinen
-\\\addlinespace
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro4.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro5.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/neuro6.jpg}
-\\
-Nackensteifigkeit
-&
-Nackensteifigkeit
-&
-Blutzuckermessung
-\\\addlinespace\bottomrule
-\end{tabularx}
-}{Bilderserie: Neurocheck}{}
+
+\begin{PictureSeriesWide}{}{Bilderserie: \EE{Neurocheck}
+\SourcePicture{Motal}}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/neuro1.jpg}
+{Pupillenreaktion, Lichtscheue, Sehstörungen }
+{./images/motal-aass/00800/neuro2.jpg}
+{Kraftprobe an den Armen}
+{./images/motal-aass/00800/neuro3b.jpg}
+{Kraftprobe an den Beinen}
+{}
+{}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/neuro4.jpg}
+{Nackensteifigkeit}
+{./images/motal-aass/00800/neuro5.jpg}
+{Nackensteifigkeit}
+{./images/motal-aass/00800/neuro6.jpg}
+{Blutzuckermessung}
+{}
+{}
+\end{PictureSeriesWide}
+
 
 % FEHLT: Bild für Orientierung (stattdessen jetzt 2x
 % Nackensteifigkeit)
 
-\clearpage % TODO temp clearpage
+\clearpage % TEMP temp clearpage
 \subsection{Traumacheck}
 \label{topic:traumacheck}
 \index{Traumacheck}
@@ -1513,7 +1479,7 @@ durchgeführt.
     \item Untere Extremität: Beine (sichtbare Verletzungen?), Füße:
     Schuhe und Socken ausziehen)
   \end{itemize}
-  \item Durchblutung, Motorik, Sensibilität (\T{DMS})
+  \item Durchblutung, Motorik, Sensibilität (\T{DMS})\label{topic:dms}
   \begin{itemize}
     \item \label{topic:dms} Finger und Zehen: Kontrolle von \E{Motorik}
     (bewegen lassen), \E{Sensibilität} (\Speech{"`Spüren Sie das?"'})
@@ -1547,53 +1513,44 @@ Fall erforderlich! }{
 \end{itemize}
 }{}{}{}
 
-\Layout{57}{}
-{}{}
-{
-\begin{tabularx}{\linewidth}{XXX}
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck1.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck2.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck3b.jpg}
-\\
-Kleidung entfernen 
-&
-Schuhe ausziehen (Fixierung, Stiefelgriff) 
-& 
-Untersuchung des Kopfes 
-\\\addlinespace
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck4.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck5b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck6b.jpg}
-\\
-In alle Körperöffnungen im Kopf leuchten, Pupillenkontrolle.
-&
-Neben Blut kann auch Liquor austreten (Tupfertest).
-&
-Untersuchung des Thorax (inkl. Atemmechanik)
-\\\addlinespace
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck7b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck8b.jpg}
-&
-\includegraphics[width=\linewidth]{./images/motal-aass/00800/traumacheck9b.jpg}
-\\
-Untersuchung des Abdomen und des Beckens
-& 
-Untersuchung der Extremitäten (DMS, Nagelbettprobe) 
-&
-Nach dem Traumacheck den entkleideten Patient vor
-Wärmeverlust schützen. 
-\\\addlinespace\bottomrule
-\end{tabularx}
-}
-{Bilderserie: Traumacheck. Achte auf den Wärmeerhalt! In
-kühler Umgebung soll ein ausführlicher Traumacheck erst
-im (geheizten) Fahrzeug durchgeführt werden.}
+
+\begin{PictureSeriesWide}{}{Bilderserie: \EE{Traumacheck}. Achte auf den Wärmeerhalt!
+In kühler Umgebung soll ein ausführlicher Traumacheck erst
+im (geheizten) Fahrzeug durchgeführt werden.
+\SourcePicture{Motal}}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/traumacheck1.jpg}
+{Kleidung entfernen }
+{./images/motal-aass/00800/traumacheck2.jpg}
+{Schuhe ausziehen (Fixierung, Stiefelgriff) }
+{./images/motal-aass/00800/traumacheck3b.jpg}
+{Untersuchung des Kopfes }
 {}
+{}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/traumacheck4.jpg}
+{In alle Körperöffnungen im Kopf leuchten, Pupillenkontrolle.}
+{./images/motal-aass/00800/traumacheck5b.jpg}
+{Neben Blut kann auch Liquor austreten (Tupfertest).}
+{./images/motal-aass/00800/traumacheck6b.jpg}
+{Untersuchung des Thorax (inkl. Atemmechanik)}
+{}
+{}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/traumacheck7b.jpg}
+{Untersuchung des Abdomen und des Beckens}
+{./images/motal-aass/00800/traumacheck8b.jpg}
+{Untersuchung der Extremitäten (DMS, Nagelbettprobe) }
+{./images/motal-aass/00800/traumacheck9b.jpg}
+{Nach dem Traumacheck den entkleideten Patient vor
+Wärmeverlust schützen. }
+{}
+{}
+\end{PictureSeriesWide}
+
+
+
+
 
 
 
@@ -1602,13 +1559,14 @@ im (geheizten) Fahrzeug durchgeführt werden.}
 
 \section*{\protect\dsliterary{} Weiterführende Literatur}
 \begin{WidePar}
-\begin{multicols}{2}
-\begin{labeling}{mmm}
+\begin{multicols}{3}
+\small
+\begin{description}%{mmm}
   \item[\cite{DahmerAnamneseBefund10}] \emph{\bibentry{DahmerAnamneseBefund10}}
   \item[\cite{LehmeyerAnamUnter1}] \emph{\bibentry{LehmeyerAnamUnter1}}
   \item[\cite{ChecklisteAnamUnt1}] \emph{\bibentry{ChecklisteAnamUnt1}}
   \item[\cite{BatesUntersuchung1}] \emph{\bibentry{BatesUntersuchung1}}
-\end{labeling}
+\end{description}
 \end{multicols}
 \end{WidePar}
 

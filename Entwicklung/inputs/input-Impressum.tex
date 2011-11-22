@@ -17,10 +17,15 @@ A-1200 Wien -- AUSTRIA
   \item[ZVR:] 846678982
 \end{compactdesc}
 
+\noindent{}Die {\ARGEAASS} ist ein gemeinnütziger Verein mit Sitz in Wien,
+welcher die Entwicklung, Wartung, Qualitätssicherung, Anpassung, Verbreitung und Lehre von
+wissenschaftlich und sachlich fundierten Arbeits- und Ausbildungsstandards für
+den Sanitätsdienst (AASS), sowie die wissenschaftliche Forschungstätigkeit in
+diesem Gebiet bezweckt.
 
 \minisec{Weitere Informationen}
 
-\begin{compactdesc}
+\begin{description}
   \item[Verlags- und Herstellungsort:] Wien
   \item[Publikationsart:] Elektronisch. Die etwaige Herstellung von
   Druckwerken erfolgt durch den autorisierten Nutzer.
@@ -30,7 +35,7 @@ A-1200 Wien -- AUSTRIA
   \item[Versionsgeschichte der AASS:]~
   
   {\scriptsize %
-  \begin{description}
+  \begin{compactdesc}
     \item[0.2.0] 2009-07 (VV\footnote{Vorabversion}, 349 Änderungen\footnote{Seit
     Übernahme in das Versionsverwaltungssystem.})
     \item[0.4.0] 2009-09 (VV, 284 Änderungen)
@@ -43,22 +48,18 @@ A-1200 Wien -- AUSTRIA
     \item[0.18.0] 2011-08 (VV, 449 Änderungen)
     \item[0.20.0] 2011-10 (VV, 180 Änderungen\footnote{Lt.
     vorläufiger Statistik, Änderungen nach Redaktionsschluss möglich.})
-  \end{description}
+  \end{compactdesc}
   }
   \item[Derivate:]~
   
   {\scriptsize %
-  \begin{description}
+  \begin{compactdesc}
     \item[Ernährungspädagogik] 2011-11 (basierend auf {\AASS} 0.20)
-  \end{description}
+  \end{compactdesc}
   }
-\end{compactdesc}
+\end{description}
 
-\noindent{}Die {\ARGEAASS} ist ein gemeinnütziger Verein mit Sitz in Wien,
-welcher die Entwicklung, Wartung, Qualitätssicherung, Anpassung, Verbreitung und Lehre von
-wissenschaftlich und sachlich fundierten Arbeits- und Ausbildungsstandards für
-den Sanitätsdienst (AASS), sowie die wissenschaftliche Forschungstätigkeit in
-diesem Gebiet bezweckt.
+
 
 \minisec{Mitarbeit und Meldung von Fehlern}
 
@@ -107,44 +108,44 @@ handelt.
 
 \minisec{Die Technik}
 
-\begin{compactdesc}
+\begin{description}
   \item[Satz und Druckvorstufe] \LaTeX{} mit {\sffamily KOMA-Script}
   
   Distribution: \TeX live 2009, u.\,a. mit den Paketen: AASS
   Style Collection (asc),
-  \Code{microtype},
-  \Code{babel},
-  \Code{babelbib} (mehrsprachiges Literaturverzeichnis),
-  \Code{shorttoc} (Inhaltsübersicht),
-  \Code{titeltoc},
-  \Code{makeidx} (Index),
-  \Code{prettyref},
-  \Code{units},
-  \Code{nicefrac},
-  \Code{soul},
-  \Code{soulutf8},
-  \Code{booktabs},
-  \Code{marvosym} (Symbole),
-  \Code{txfonts} (Symbole),
-  \Code{skul} (Symbole),
-  \Code{ifsym} (Symbole),
-  \Code{dingbat} (Symbole),
-  \Code{paralist},
-  \Code{geometry} (Seitenlayout),
-  \Code{fancybox},
-  \Code{lmodern} (Latin Modern Fonts),
-  \Code{titlesec} (Sectioning titles),
+  \E{microtype},
+  \E{babel},
+  \E{babelbib} (mehrsprachiges Literaturverzeichnis),
+  \E{shorttoc} (Inhaltsübersicht),
+  \E{titeltoc},
+  \E{makeidx} (Index),
+  \E{prettyref},
+  \E{units},
+  \E{nicefrac},
+  \E{soul},
+  \E{soulutf8},
+  \E{booktabs},
+  \E{marvosym} (Symbole),
+  \E{txfonts} (Symbole),
+  \E{skul} (Symbole),
+  \E{ifsym} (Symbole),
+  \E{dingbat} (Symbole),
+  \E{paralist},
+  \E{geometry} (Seitenlayout),
+  \E{fancybox},
+  \E{lmodern} (Latin Modern Fonts),
+  \E{titlesec} (Sectioning titles),
 %   \Code{float},
-  \Code{hyperref} (Hypertext links),
-  \Code{url} (URL's),
-  \Code{quotchap},
-  \Code{minitoc} (Inhaltsverzeichnisse für Kapitel),
-  \Code{chappg} (Seitennummerierung pro Kapitel),
-  \Code{caption} (Customizing captions),
-  \Code{caption3},
-  \Code{mhchem} (chemische Formeln),
-  \Code{optional} (optionaler Text),
-  \Code{ulem}
+  \E{hyperref} (Hypertext links),
+  \E{url} (URLs),
+  \E{quotchap},
+  \E{minitoc} (Inhaltsverzeichnisse für Kapitel),
+  \E{chappg} (Seitennummerierung pro Kapitel),
+  \E{caption}, %(Customizing captions),
+%   \Code{caption3},
+  \E{mhchem} (chemische Formeln),
+  \E{optional} (optionaler Text),
+  \E{ulem}
   \item[Entwicklungsumgebung] Eclipse Ganymed mit Texlipse- und JGit/EGit-Plugin,
   Texmaker
   \item[Versionsverwaltung] Git
@@ -153,9 +154,10 @@ handelt.
   \item[Betriebssysteme] \E{Rohentwurf}: Linux (Debian, Gentoo, Ubuntu), MacOS X,
   MS Windows XP, Vista
   
-  \E{Endproduktion}: Ubuntu Linux 10.10 \textit{"`Maverick
-  Meerkat"'}, \url{http://www.ubuntu.com}
-\end{compactdesc}
+  \E{Endproduktion}: Ubuntu Linux 11.04 \textit{"`Natty
+  Narwhal"'},
+  \url{http://www.ubuntu.com}
+\end{description}
 
 
 

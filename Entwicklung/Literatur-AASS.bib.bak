@@ -314,7 +314,7 @@
 }
 
 @ARTICLE{ASBOEAkademieUpdate2010Sturzhelm,
-  author = {ASB\"O Akademie},
+  author = {{ASB\"O Akademie}},
   title = {Abnahme eines Sturzhelmes -- Lehrmeinung},
   journal = {ASB\"O Akademie update},
   year = {2010},
@@ -327,7 +327,7 @@
 }
 
 @ARTICLE{ASBOEAkademieUpdate2010Verbrennung,
-  author = {ASB\"O Akademie},
+  author = {{ASB\"O Akademie}},
   title = {Verbrennung -- Aktuelle Lehrmeinung},
   journal = {ASB\"O Akademie update},
   year = {2010},
@@ -2824,7 +2824,7 @@
 }
 
 @MISC{ICD10-De-2011,
-  author = {Deutsches Institut f"ur Medizinische Information und Dokumentation},
+  author = {{Deutsches Institut f"ur Medizinische Information und Dokumentation}},
   title = {Internationale statistische Klassifikation der Krankheiten und verwandter
 	Gesundheitsprobleme},
   year = {2011},
@@ -3268,7 +3268,7 @@
 @STANDARD{ICD10De,
   title = {International Statistical Classification of Diseases and Related
 	Health Problems 10th Revision -- Deutsche "Ubersetzung},
-  author = {World Health Organization},
+  author = {{World Health Organization}},
   language = {ngerman},
   note = {ICD-10},
   owner = {grissu},
@@ -4344,7 +4344,7 @@
 @BOOKLET{Igv2010,
   title = {Informationen zur Euro-Norm DIN EN 1089-3. Farbkennzeichnung von
 	Gasflaschen in Deutschland},
-  author = {IGV Industriegaseverband e. V.},
+  author = {{IGV Industriegaseverband e. V.}},
   howpublished = {online},
   lastchecked = {2011-03-23},
   address = {Kom\"odienstra{\ss}e 48, D - 50667 K\"oln},
@@ -5838,8 +5838,17 @@
   publisher = {Department f"ur medizinische Aus- und Weiterbildung, Medizinische
 	Universit"at Wien},
   year = {2011},
-  author = {Alexander Blacky and Magda Diab-El Schahawi and Sebastian Gabriel,
-	Walter Koller and Martin Lischka and Michael Schmidts},
+  author = {Alexander Blacky and 
+	
+	Magda Diab-El Schahawi and 
+	
+	Sebastian Gabriel and 
+	
+	Walter Koller and 
+	
+	Martin Lischka and 
+	
+	Michael Schmidts},
   series = {Skills Line 2},
   note = {Version 11.0},
   language = {ngerman},

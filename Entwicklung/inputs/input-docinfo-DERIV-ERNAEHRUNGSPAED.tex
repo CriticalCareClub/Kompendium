@@ -6,12 +6,12 @@
 \settimeformat{nummeric}
 
 
-\newcommand{\DocVersion}{0.21.x-{\pdfdate}}
-% \renewcommand{\DocVersion}{0.20}
+\newcommand{\DocVersion}{DERIV-EP-0.1.x-{\pdfdate}}
+\renewcommand{\DocVersion}{DERIV-EP-0.2}
 \newcommand{\DocVersionTyp}{Entwicklungsversion}
-% \renewcommand{\DocVersionTyp}{Vorabversion}
-\newcommand{\DocVersionInfo}{Entwicklungsversion -- Für den internen Gebrauch.}
-% \renewcommand{\DocVersionInfo}{Vorabversion -- Für den internen Gebrauch.} 
+\renewcommand{\DocVersionTyp}{IG}
+\newcommand{\DocVersionInfo}{IG -- Für den Gebrauch in der Lehrveranstaltung.}
+\renewcommand{\DocVersionInfo}{Für den Gebrauch in der Lehrveranstaltung} 
 \hypersetup{
 % draft,
 unicode=true,
@@ -27,10 +27,11 @@ pdfborderstyle={/S/U/W 0},  % Unterstreichung
 pdfborder={0 0 0},          % Dicke
 % linkbordercolor=DefaultB,     % Farbe
 % urlbordercolor=DefaultB,     % Farbe
-pdftitle={Arbeits- und Ausbildungsstandards für den Sanitätsdienst \DocVersion},
+pdftitle={Derivat der AASS für die
+Ernaehrungspaedagogik - \DocVersion},
 % Sets the document information Title field pdfauthor=ARGE AASS, % Sets the document information Author field
-pdfsubject={AASS \DocVersion}, % Sets the document information Subject field
-pdfcreator=ARGE AASS, % Sets the document information Creator field
+pdfsubject={AASS Derivat Ernaehrungspaedagogik \DocVersion},
+% Sets the document information Subject field pdfcreator=ARGE AASS, % Sets the document information Creator field
 pdfproducer=ARGE AASS, % Sets the document information Producer field
 pdfkeywords=ARGE AASS, % Sets the document information Keywords field
 % pdfpagelayout=TwoPageRight,
@@ -47,7 +48,7 @@ pdfkeywords=ARGE AASS, % Sets the document information Keywords field
 % DraftSuper			- Bilder, + Kommenatare, + draft=yes
 \newcommand{\DocStatus}{DraftFull}
 \newcommand{\DocGitCommit}{Unofficial build, no SHA1 included!}
-% \renewcommand{\DocGitCommit}{\input{../tmp/git-lastcommitsha1.tmp}}
+\renewcommand{\DocGitCommit}{\input{../tmp/git-lastcommitsha1.tmp}}
 \newcommand{\DocGitCommitFormatted}{\ttfamily\DocGitCommit}
 \newcommand{\DocGitCommitTiny}{\tiny\DocGitCommitFormatted}
 \newcommand{\DocGitCommitScriptsize}{\scriptsize\DocGitCommitFormatted}

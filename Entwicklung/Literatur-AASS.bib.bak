@@ -5868,6 +5868,38 @@
   timestamp = {2011.09.26}
 }
 
+@STANDARD{Asb921Memo-AL-2011-000001,
+  title = {Memorandum "AL 11-1: "Anderung der Arzneimittellisten 1 und 2 gem.
+	{\S} 10 bzw. {\S} 11 SanG},
+  organization = {ASB Floridsdorf-Donaustadt},
+  institution = {ASB Floridsdorf-Donaustadt, "Arztliche Leitung},
+  author = {ASB Floridsdorf-Donaustadt, "Arztliche Leitung},
+  language = {ngerman},
+  howpublished = {Rundschreiben},
+  number = {1},
+  year = {2011},
+  owner = {grissu},
+  timestamp = {2011.12.06}
+}
+
+@BOOK{UltimateHitchhikersGuide96,
+  title = {The ultimate Hitchhiker's Guide to the Galaxy},
+  publisher = {Wings Books},
+  year = {1996},
+  author = {Douglas Adams},
+  isbn = {0-517-14925-7},
+  language = {english},
+  owner = {grissu},
+  timestamp = {2011.12.11}
+}
+
+@INBOOK{,
+  chapter = {The Hitchhiker's Guide to the Galaxy},
+  pages = {1--145},
+  owner = {grissu},
+  timestamp = {2011.12.11}
+}
+
 @comment{jabref-meta: selector_publisher:}
 
 @comment{jabref-meta: fileDirectory:./Literatur/;}

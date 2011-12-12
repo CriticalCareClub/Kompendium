@@ -344,13 +344,15 @@ schläfrig, aber leicht erweckbar.
 Es ist wichtig zu Überprüfen ob der Patient orientiert ist.
 Man unterscheidet dabei die Orientierung zu:  
 
-\begin{labeling}[~--]{xxxxxxxxxxxxx}
-  \item[Person] Name, Alter.
-  \item[Zeit] Orientierung: Tageszeit,
+\begin{itemize}
+  \item \EE{Person}: Name, Alter.
+  \item \EE{Zeit}: Tageszeit,
   Wochentag, Monat, Jahreszeit, Jahr?
-  \item[Ort] Wo befindet sich der Patient gerade (Stadt, Land, Adresse, Wohnung, Auto, etc.)?
-  \item[Situation] Was passiert gerade?
-\end{labeling}
+  \item \EE{Ort}: Wo befindet sich der Patient gerade?
+  \newline
+  (Stadt, Land, Adresse, Wohnung, Auto, etc.)
+  \item \EE{Situation}: Was passiert gerade?
+\end{itemize}
 
 }{
 \begin{itemize}
@@ -757,11 +759,11 @@ sich der Körper an diesen Zustand. Er beginnt dann den
 \E{Atemantrieb direkt über den \ce{O2}}-Gehalt im Blut zu
 regeln.
 
-Dies kann \Ca{Probleme} machen: Wird bei so einem Patienten
+Dies kann \EE{Probleme} machen: Wird bei so einem Patienten
 der \ce{O2}-Gehalt plötzlich künstlich erhöht, fehlt der
 Atemantrieb und der Patient kann \EE{Bewusstseinsstörungen}
-("`\ce{CO2}-Narkose"') und einen \EE{Atemstillstand}
-erleiden.
+(\I[\ce{CO2}-Narkose@CO2-Narkose]{\ce{CO2}-Narkose}) und
+einen \EE{Atemstillstand} erleiden.
 
 Das wichtigste Krankheitsbild bei dem so etwa vorkommen kann,
 ist die \Abk{COPD} (\ref{topic:copd}).
@@ -1439,9 +1441,8 @@ Reanimation, im weiteren Verlauf neurologische Defizite.
 \subsection{\Z{Herzinsuffizienz, Herzversagen}}
 \index{Herzinsuffizienz}\index{Herzversagen}
 
-Weitere Störungen des Herzens werden im
-Kapitel \CO{[MED]}
-unter \prettyref{topic:herz-kreislauf-stoerungen} besprochen. 
+Weitere Störungen des Herzens werden 
+unter \FullPrettyRef{topic:herz-kreislauf-stoerungen} besprochen. 
 
 
 
@@ -1928,10 +1929,10 @@ auf bestimmte Stoffe (Antigene) ausgelöst.
 
 Durch von den Immunzellen gebildete Stoffe werden
 die Gefäße erweitert, zusätzlich steigt die
-Durchlässigkeit der Gefäße \Z{(Gefäßpermeabilität)}
+Durchlässigkeit der Gefäße\ZFootnote{(Gefäßpermeabilität)}.
 Das Blut versackt und es kommt zu einem  Plasmaverlust in
-den Zwischengewebsraum \Z{(Interstitium)}; der Blutdruck
-fällt massiv ab!
+den Zwischengewebsraum\ZFootnote{(Interstitium)}; der
+Blutdruck fällt massiv ab!
 }{%
 \begin{itemize}
   \item Überschießende
@@ -2035,7 +2036,7 @@ Schwerer Schock
 \index{Schock!toxischer}
 \label{topic:schock-septischer}
 \label{topic:schock-toxischer}
-Siehe auch: \CO{[INK]}, \prettyref{topic:sepsis}.
+Siehe auch \FullPrettyRef{topic:sepsis}.
 
 \Definition{Schock infolge einer schweren, körperweiten Infektion
 oder aufgrund eines, die Gefäße beeinflussenden, Giftstoffes

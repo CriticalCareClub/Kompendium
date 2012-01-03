@@ -23,26 +23,16 @@ toc=flat,
 % get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
 \usepackage{etex}
 
-\pdfcompresslevel=9
-\pdfimageresolution=72
-% \pdfpkresolution=72
-% \usepackage[a-1b]{pdfx}
-% \def\Keywords{AASS} \def\Title{AASS} \def\Author{ARGE AASS} \def\Org{ARGE AASS}
-% % \input glyphtounicode.tex \input glyphtounicode-cmr.tex \pdfgentounicode=1
-% \usepackage[xcolor]{rvdtx}
-
-
 \usepackage{blindtext}
-\usepackage{microtype,fixltx2e,ellipsis}
+\usepackage{microtype}
+\usepackage{fixltx2e}
+\usepackage{ellipsis}
 
 % Optionen für Bilder:
 % [draft] .. Es werden nur Rahmen angezeigt
 % [final] .. Es werden Bilder normal angezeigt
 % [demo} .. keine Bilder
 \usepackage[final]{graphicx} % Bilder-Support
-
-% \usepackage{showidx} % shows index entries on page margin
-% \usepackage{showkeys}
 
 \input{./inputs/input-preamble}
 
@@ -69,18 +59,9 @@ toc=flat,
 
 \setcounter{errorcontextlines}{10}
 
-% \usepackage{fontspec}
-% \usepackage{setspace}
 
 
 \usepackage{ragged2e}
-% \usepackage[xcolor]{changebar}
-% % \driver{PDFTeX} % changebar
-
-
-
-% \usepackage{colortbl}
-% \arrayrulecolor{Beige}
 
 \renewcommand{\Abk}[1]{#1}
 
@@ -96,14 +77,6 @@ toc=flat,
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
-% \pagestyle{scrheadings}
-
-% \setmainfont[SmallCapsFont={* Caps},
-% Mapping=tex-text]{Latin Modern Roman}
-% \setsansfont[Mapping=tex-text]{Latin Modern Sans}
-% \setmonofont[SmallCapsFont={* Caps}]{Latin Modern Mono}
-
-% \defaultfontfeatures{Numbers=OldStyle}
 \MultiColListStart{toc}{2}
 \MultiColListStart{lofazit}{2}
 \MultiColListStart{lomassnahmen}{2}
@@ -113,45 +86,25 @@ toc=flat,
 \newgeometry{verbose,
 a4paper,
 asymmetric,
-% reversemp,
 reversemarginpar,
-% % includemp,
-% % tmargin=25mm,
-% % bmargin=20mm,
 rmargin=13mm,
 lmargin=13mm,
-% % outer  = 56mm,
-% % inner  = 56mm,
 top    = 20mm,
 bottom = 15mm,
-% % hmarginratio=2:1,
 marginparwidth = 0mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
 footskip = 5mm,
-% % includehead,
 bindingoffset=1.5cm}
 \savegeometry{FullPage}
 \newgeometry{verbose,
 a4paper,
 asymmetric,
-% reversemp,
 reversemarginpar,
-% % includemp,
-% % tmargin=25mm,
-% % bmargin=20mm,
 rmargin=13mm,
 lmargin=13mm,
-% % outer  = 56mm,
-% % inner  = 56mm,
 top    = 8mm,
 bottom = 8mm,
-% % hmarginratio=2:1,
 marginparwidth = 0mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
 footskip = 5mm,
-% % includehead,
 bindingoffset=1.5cm}
 \savegeometry{WholePage}
 \restoregeometry
@@ -162,7 +115,7 @@ bindingoffset=1.5cm}
 
 
 \loadgeometry{FullPage}
-% \maketitle
+
 \begin{titlepage}
 \input{./inputs/input-cover-front}
 

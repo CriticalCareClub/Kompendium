@@ -468,27 +468,31 @@ Aus allen einsatztaktischen Überlegungen ergibt sich ein
 Bündel an Erstmaßnahmen, welche bei Unfällen durchgeführt
 werden müssen.
 
-\MassnahmenNG{Allgemeine Maßnahmen}{Unfälle}{}{%
-
-\begin{itemize}
-  \item Unfallstelle absichern!
-  \item Szeneüberblick: Wie viele Verletzte? Unfallszenario?
-  \item Ggf. weitere Einsatzkräfte nachfordern!
-  \item Beurteilung des Unfallmechanismus:
-  \begin{itemize}
-    \item Aus welcher Richtung hat die Kraft auf den Patienten eingewirkt?
-    \item Wie schnell war das Fahrzeug unterwegs? bzw. Aus
-    welcher Höhe ist der Patient gefallen?
-    \item War der Patient angegurtet? Haben Airbags
-    ausgelöst?
-    \item Welche besondere Verformungen sind am Fahrzeug
-    sichtbar?
-    \item Wurde der Patient aus dem Fahrzeug geschleudert?
-    bzw. Wurde ein Fußgänger erfasst?
-  \end{itemize}
-  \item Bei Hospitalisation: Patient \EE{nüchtern lassen!}
-\end{itemize}
-}
+\MassnahmenMK{Allgemeine
+Maßnahmen}{Unfälle}{am-unfaelle}{%
+}{}
+% \MassnahmenNG{Allgemeine
+% Maßnahmen}{Unfälle}{\label{am-unfaelle}}{%
+% 
+% \begin{itemize}
+%   \item Unfallstelle absichern!
+%   \item Szeneüberblick: Wie viele Verletzte? Unfallszenario?
+%   \item Ggf. weitere Einsatzkräfte nachfordern!
+%   \item Beurteilung des Unfallmechanismus:
+%   \begin{itemize}
+%     \item Aus welcher Richtung hat die Kraft auf den Patienten eingewirkt?
+%     \item Wie schnell war das Fahrzeug unterwegs? bzw. Aus
+%     welcher Höhe ist der Patient gefallen?
+%     \item War der Patient angegurtet? Haben Airbags
+%     ausgelöst?
+%     \item Welche besondere Verformungen sind am Fahrzeug
+%     sichtbar?
+%     \item Wurde der Patient aus dem Fahrzeug geschleudert?
+%     bzw. Wurde ein Fußgänger erfasst?
+%   \end{itemize}
+%   \item Bei Hospitalisation: Patient \EE{nüchtern lassen!}
+% \end{itemize}
+% }
 
 
 \clearpage % TODO temporäres clearpage
@@ -1155,9 +1159,8 @@ Fußgänger) \SourcePicture{Hauer}}
 \end{PictureSeries}
 
 
-
-\MassnahmenNG{Spezielle Maßnahmen}{Fraktur}{}
-{
+\MassnahmenMK{Spezielle
+Maßnahmen}{Fraktur}{m:fraktur}{
 \EE{Taktik}: \Speech{\Ca{Zeitkritisch. Evtl. vitale
 Bedrohung v.\,a. durch Blutverlust.}
 Erkennen
@@ -1167,26 +1170,38 @@ Schmerztherapie.
 Bei \E{vitaler Bedrohung}: Zeitkritisch,
 zügiger Transport. 
 Bei \E{stabilen Patienten}: Schienung}
-
-
-
-
-\begin{itemize}
-  \item  \EE{Blutstillung}: Z.\,B. mit Beckengurt
-  (Beckenfraktur)
-  \item Vitale Bedrohung einschätzen, ggfs. \TxMassVit.
-  Ggfs. mit hypovolämischen Schock rechnen, Schockbekämpfung
-  \item  \EE{Wundversorgung}: Bei offenen Frakturen ist
-  Keimfreiheit be\-sonders wichtig, da  die Gefahr einer lebenslangen
-  Knochen\-marks\-ent\-zündung \Z{(Osteomyelitis)} besteht!
-  Wenn möglich soll eine \E{Wundfolie} (z.\,B.
-  \index{OpSite}\T{OpSite}\texttrademark ) verwendet werden.
-  \item Kleidung und Schmuck von den betroffenen Gliedmaßen
-  entfernen (Schwellung!)
-  \item Ggfs. Schmerztherapie (veranlassen)
-  \item Ruhigstellung/Schienung bei stabilen Patienten
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Fraktur}{\label{m:fraktur}} {
+% \EE{Taktik}: \Speech{\Ca{Zeitkritisch. Evtl. vitale
+% Bedrohung v.\,a. durch Blutverlust.}
+% Erkennen
+% von großen Blutverlusten, Blutstillung,  Steriles
+% Abdecken, Einschätzen der vitalen Bedrohung, ggfs
+% Schmerztherapie. 
+% Bei \E{vitaler Bedrohung}: Zeitkritisch,
+% zügiger Transport. 
+% Bei \E{stabilen Patienten}: Schienung}
+% 
+% 
+% 
+% 
+% \begin{itemize}
+%   \item  \EE{Blutstillung}: Z.\,B. mit Beckengurt
+%   (Beckenfraktur)
+%   \item Vitale Bedrohung einschätzen, ggfs. \TxMassVit.
+%   Ggfs. mit hypovolämischen Schock rechnen, Schockbekämpfung
+%   \item  \EE{Wundversorgung}: Bei offenen Frakturen ist
+%   Keimfreiheit be\-sonders wichtig, da  die Gefahr einer lebenslangen
+%   Knochen\-marks\-ent\-zündung \Z{(Osteomyelitis)} besteht!
+%   Wenn möglich soll eine \E{Wundfolie} (z.\,B.
+%   \index{OpSite}\T{OpSite}\texttrademark ) verwendet werden.
+%   \item Kleidung und Schmuck von den betroffenen Gliedmaßen
+%   entfernen (Schwellung!)
+%   \item Ggfs. Schmerztherapie (veranlassen)
+%   \item Ruhigstellung/Schienung bei stabilen Patienten
+% \end{itemize}
+% }
 
 \subsubsection{Spezielle Knochenbrüche}
 
@@ -1267,18 +1282,22 @@ hörbares \E{Schnalzen}.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Verstauchung}{}
-{%
-\begin{itemize}
-  \item Kleidung und Schmuck von der betroffenen Gliedmaße entfernen
-  (Vorsicht Schwellung!)
-  \item Ruhigstellen
-  \item Hochlagern
-  \item Kühlen
-  \item Transportentscheidung: Abt. f. Unfallchirurgie
-%   (muss nicht sofort sein)
-\end{itemize}
-}
+
+\MassnahmenMK{Spezielle
+Maßnahmen}{Verstauchung}{m:verstauchung}{%
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Verstauchung}{\label{m:verstauchung}} {%
+% \begin{itemize}
+%   \item Kleidung und Schmuck von der betroffenen Gliedmaße entfernen
+%   (Vorsicht Schwellung!)
+%   \item Ruhigstellen
+%   \item Hochlagern
+%   \item Kühlen
+%   \item Transportentscheidung: Abt. f. Unfallchirurgie
+% %   (muss nicht sofort sein)
+% \end{itemize}
+% }
 
 
 
@@ -1324,16 +1343,22 @@ entsprechende Gelenk nicht bewegen.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Verrenkung}{}
+
+\MassnahmenMK{Spezielle
+Maßnahmen}{Verrenkung}{\label{m:verrenkung}}
 {
-\begin{itemize}
-  \item Kleidung und Schmuck von der betroffenen Gliedmaße entfernen 
-  (Vorsicht Schwellung!)
-  \item Stellung der Gliedmaße belassen
-  \item Federnd fixierte Lagerung
-  \item \EE{Keine Einrenkversuche!}
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Verrenkung}{\label{m:verrenkung}}
+% {
+% \begin{itemize}
+%   \item Kleidung und Schmuck von der betroffenen Gliedmaße entfernen 
+%   (Vorsicht Schwellung!)
+%   \item Stellung der Gliedmaße belassen
+%   \item Federnd fixierte Lagerung
+%   \item \EE{Keine Einrenkversuche!}
+% \end{itemize}
+% }
 
 
 
@@ -1541,42 +1566,45 @@ wichtiger Hinweis auf einen erhöhten Hirndruck sein!}
 {}
 {}
 
-\MassnahmenNG{Spezielle Maßnahmen}{SHT}{\label{m:am-sht}\label{m:sht}}{
 
-\begin{itemize}
-  \item Vitale Bedrohung beurteilen. \par \TxBeiVit
-  \TxMassVitBes
-  \begin{itemize}
-    \item Lagerung: s.\,u.
-    \item Monitoring: Zusätzlich Beurteilung nach GCS (Verlauf beobachten und
-    dokumentieren, \prettyref{topic:gcs})
-  \end{itemize}
-  \item Lagerung: leicht erhöhter Oberkörper, ca.
-  30\,\textdegree{}, wenn keine Kontraindikation
-  besteht.
-  \item Je nach Unfallmechanismus \Abk{HWS}-Immobilisation (z.\,B. mit Stifneck\texttrademark)
-  \item Ggfs. Wundversorgung
-  \begin{itemize}
-    \item Steriler Verband (steriles Abdecken)
-    \item Ausgetretene Hirnmasse feucht steril abdecken
-        und locker befestigen
-    \item Knochen oder Fremdkörper \E{nicht} entfernen oder zurück stopfen
-  \end{itemize}
-  %        \begin{itemize}
-%            \item Gedecktes \Abk{SHT}:
-%            \begin{itemize}
-%                \item Steriler Verband
-%            \end{itemize}
-%            \begin{itemize}
-%                \item Steriler Verband locker auf offene
-%                Verletzungen
-%                \item Knochen / Hirnteile NICHT
-%                zurückstopfen /  entfernen!
-%                \item Ausgetretene Hirnmasse feucht steril abdecken
-%            \end{itemize}
-%        \end{itemize}
-\end{itemize}
-}
+\MassnahmenNG{Spezielle Maßnahmen}{SHT}{m:sht}{
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{SHT}{\label{m:am-sht}\label{m:sht}}{
+% 
+% \begin{itemize}
+%   \item Vitale Bedrohung beurteilen. \par \TxBeiVit
+%   \TxMassVitBes
+%   \begin{itemize}
+%     \item Lagerung: s.\,u.
+%     \item Monitoring: Zusätzlich Beurteilung nach GCS (Verlauf beobachten und
+%     dokumentieren, \prettyref{topic:gcs})
+%   \end{itemize}
+%   \item Lagerung: leicht erhöhter Oberkörper, ca.
+%   30\,\textdegree{}, wenn keine Kontraindikation
+%   besteht.
+%   \item Je nach Unfallmechanismus \Abk{HWS}-Immobilisation (z.\,B. mit Stifneck\texttrademark)
+%   \item Ggfs. Wundversorgung
+%   \begin{itemize}
+%     \item Steriler Verband (steriles Abdecken)
+%     \item Ausgetretene Hirnmasse feucht steril abdecken
+%         und locker befestigen
+%     \item Knochen oder Fremdkörper \E{nicht} entfernen oder zurück stopfen
+%   \end{itemize}
+%   %        \begin{itemize}
+% %            \item Gedecktes \Abk{SHT}:
+% %            \begin{itemize}
+% %                \item Steriler Verband
+% %            \end{itemize}
+% %            \begin{itemize}
+% %                \item Steriler Verband locker auf offene
+% %                Verletzungen
+% %                \item Knochen / Hirnteile NICHT
+% %                zurückstopfen /  entfernen!
+% %                \item Ausgetretene Hirnmasse feucht steril abdecken
+% %            \end{itemize}
+% %        \end{itemize}
+% \end{itemize}
+% }
 
 \subsection{Offenes SHT}
 
@@ -2140,69 +2168,85 @@ Atemlähmung kommen.
 }{}{}{}
 
 
-\MassnahmenNG{Spezielle Maßnahmen}
-{Verdacht auf Rückenmarksverletzung}
-{\label{m:ws-trauma}}
+\MassnahmenMK{Spezielle Maßnahmen}
+{Rückenmarksverletzung, Verdacht}
+{m:ws-trauma-verdacht}
 {%
 \EE{Taktik}: \Speech{
 Immobilisation und Transport in eine geeignete Einrichtung
 zur Abklärung}
+}{}
 
-
-Vgl. \prettyref{m:einschaetzung-indikation-ws-immobilisation}
-\begin{itemize}
-  \item \EE{\Abk{HWS}-Immobilisation} (HWS-Schiene)
-  \item Bergung mit Schaufeltrage, Spineboard oder
-  KED-System
-  \item \EE{Lagerung} und Schienung mittels
-  mit Vakuummatratze, Schaufeltrage mit Fixationsmöglichkeit oder
-  Spineboard.\footnote{Welches Hilfsmittel
-  eingesetzt wird ist abhängig vom Patientenzustand,
-  dem Training des Teams, internen Vorschriften und
-  vorhandenem Material.}
-  \item \EE{Monitoring}: Achte besonders auf Störungen
-  von Atmung und Bewusstsein, Schockentwicklung und
-  beginnende neurologische Ausfälle.
-%   \item \EE{Unfallmechanismus} erheben und dokumentieren
-  \item \EE{Schockbekämpfung}; wenn Beine
-  hochgelagert werden sollen, Tragentisch
-  schräg stellen
-  \item \EE{Transportentscheidung}: Je nach
-  lokalen Gegebenheiten
-\end{itemize}
-}
-
-\MassnahmenNG{Spezielle Maßnahmen}
+\MassnahmenMK{Spezielle Maßnahmen}
 {Rückenmarksverletzung mit Symptomen}
-{\label{m:ws-trauma}}
+{m:ws-trauma}
 {%
 \EE{Taktik}: \Speech{\Ca{Zeitkritisch! Vitale Bedrochung!} Zügige Bergung,
 Immobilisation und Transport in eine geeignete Einrichtung}
-
-
-Vgl. \prettyref{m:einschaetzung-indikation-ws-immobilisation}
-\begin{itemize}
-  \item Bei ansprechbaren Patienten: immer
-  \EE{\Abk{HWS}-Immobilisation} (HWS-Schiene)
-  \item \EE{Bergung} mit Schaufeltrage, Spineboard oder
-  KED-System
-  \item \EE{Lagerung} und Schienung mittels
-  mit Vakuummatratze, Schaufeltrage mit Fixationsmöglichkeit oder
-  Spineboard.\footnote{Welches Hilfsmittel
-  eingesetzt wird ist abhängig vom Patientenzustand,
-  dem Training des Teams, internen Vorschriften und
-  vorhandenem Material.}
-  \item Bei Querschnittslähmung: Kennzeichnung der
-  Sensibilitätsgrenze mit Angabe der Uhrzeit
-  \item \EE{Monitoring}: Achte besonders auf Störungen
-  von Atmung und Bewußtsein, sowie Schockentwicklung.
-%   \item \EE{Unfallmechanismus} erheben und dokumentieren 
-  \item \EE{Schockbekämpfung}; wenn Beine
-  hochgelagert werden sollen, Tragentisch
-  schräg stellen
-  \item \EE{Transportentscheidung}: Schockraum
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}
+% {Rückenmarksverletzung, Verdacht}
+% {\label{m:ws-trauma-verdacht}}
+% {%
+% \EE{Taktik}: \Speech{
+% Immobilisation und Transport in eine geeignete Einrichtung
+% zur Abklärung}
+% 
+% 
+% Vgl. \prettyref{m:einschaetzung-indikation-ws-immobilisation}
+% \begin{itemize}
+%   \item \EE{\Abk{HWS}-Immobilisation} (HWS-Schiene)
+%   \item Bergung mit Schaufeltrage, Spineboard oder
+%   KED-System
+%   \item \EE{Lagerung} und Schienung mittels
+%   mit Vakuummatratze, Schaufeltrage mit Fixationsmöglichkeit oder
+%   Spineboard.\footnote{Welches Hilfsmittel
+%   eingesetzt wird ist abhängig vom Patientenzustand,
+%   dem Training des Teams, internen Vorschriften und
+%   vorhandenem Material.}
+%   \item \EE{Monitoring}: Achte besonders auf Störungen
+%   von Atmung und Bewusstsein, Schockentwicklung und
+%   beginnende neurologische Ausfälle.
+% %   \item \EE{Unfallmechanismus} erheben und dokumentieren
+%   \item \EE{Schockbekämpfung}; wenn Beine
+%   hochgelagert werden sollen, Tragentisch
+%   schräg stellen
+%   \item \EE{Transportentscheidung}: Je nach
+%   lokalen Gegebenheiten
+% \end{itemize}
+% }
+% 
+% \MassnahmenNG{Spezielle Maßnahmen}
+% {Rückenmarksverletzung mit Symptomen}
+% {\label{m:ws-trauma}}
+% {%
+% \EE{Taktik}: \Speech{\Ca{Zeitkritisch! Vitale Bedrochung!} Zügige Bergung,
+% Immobilisation und Transport in eine geeignete Einrichtung}
+% 
+% 
+% Vgl. \prettyref{m:einschaetzung-indikation-ws-immobilisation}
+% \begin{itemize}
+%   \item Bei ansprechbaren Patienten: immer
+%   \EE{\Abk{HWS}-Immobilisation} (HWS-Schiene)
+%   \item \EE{Bergung} mit Schaufeltrage, Spineboard oder
+%   KED-System
+%   \item \EE{Lagerung} und Schienung mittels
+%   mit Vakuummatratze, Schaufeltrage mit Fixationsmöglichkeit oder
+%   Spineboard.\footnote{Welches Hilfsmittel
+%   eingesetzt wird ist abhängig vom Patientenzustand,
+%   dem Training des Teams, internen Vorschriften und
+%   vorhandenem Material.}
+%   \item Bei Querschnittslähmung: Kennzeichnung der
+%   Sensibilitätsgrenze mit Angabe der Uhrzeit
+%   \item \EE{Monitoring}: Achte besonders auf Störungen
+%   von Atmung und Bewußtsein, sowie Schockentwicklung.
+% %   \item \EE{Unfallmechanismus} erheben und dokumentieren 
+%   \item \EE{Schockbekämpfung}; wenn Beine
+%   hochgelagert werden sollen, Tragentisch
+%   schräg stellen
+%   \item \EE{Transportentscheidung}: Schockraum
+% \end{itemize}
+% }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -2380,31 +2424,36 @@ verursacht.
 \end{PictureSeriesWide}
 
 
-
-\MassnahmenNG{Spezielle Maßnahmen}{Pneumothorax}{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Pneumothorax}{m:pneumothorax}
 {
 \EE{Taktik}: \Speech{\Ca{Zeitkritisch! Vitale Bedrochung!}
 Entlastungspunktion, zügiger Transport
 in eine geeignete Einrichtung}
-
-\begin{itemize}
-  \item \TxMassVitBes
-  \begin{itemize}
-    \item \EE{Lagerung}: Oberkörper hoch. Wenn stabile
-    Seitenlage notwendig ist, dann Lagerung auf die
-    \E{verletzte} Seite, damit die unverletzte
-    Lunge  nicht unnötig belastet wird.
-    \item \Z{\EE{Notarzt}: Ein Pneumothorax kann mittels
-    Drainage bzw. Punktion entlastet werden (ärztliche Maßnahme).}
-  \end{itemize}
-  \item \EE{Verband} bei offener Thoraxverletzung: \EE{Nicht
-  luftdicht verbinden}, es kann sonst ein
-  Spannungspneumothorax entstehen! Steril abdecken.
-  \item \EE{Transportentscheidung}: Schockraum
-\end{itemize}
-
-
-}
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Pneumothorax}{\label{m:pneumothorax}}
+% {
+% \EE{Taktik}: \Speech{\Ca{Zeitkritisch! Vitale Bedrochung!}
+% Entlastungspunktion, zügiger Transport
+% in eine geeignete Einrichtung}
+% 
+% \begin{itemize}
+%   \item \TxMassVitBes
+%   \begin{itemize}
+%     \item \EE{Lagerung}: Oberkörper hoch. Wenn stabile
+%     Seitenlage notwendig ist, dann Lagerung auf die
+%     \E{verletzte} Seite, damit die unverletzte
+%     Lunge  nicht unnötig belastet wird.
+%     \item \Z{\EE{Notarzt}: Ein Pneumothorax kann mittels
+%     Drainage bzw. Punktion entlastet werden (ärztliche Maßnahme).}
+%   \end{itemize}
+%   \item \EE{Verband} bei offener Thoraxverletzung: \EE{Nicht
+%   luftdicht verbinden}, es kann sonst ein
+%   Spannungspneumothorax entstehen! Steril abdecken.
+%   \item \EE{Transportentscheidung}: Schockraum
+% \end{itemize}
+% }
 
 
 
@@ -2548,24 +2597,30 @@ Fälle treten Begleitverletzungen im Brustkorb auf
 {Hauer}
 
 
-\MassnahmenNG{Spezielle Maßnahmen}{offenes Bauchtrauma}{}{
+\MassnahmenMK{Spezielle Maßnahmen}{Bauchtrauma,
+offen}{m:bauchtraume-offen}{
 \EE{Taktik}: \Speech{\Ca{Zeitkritisch! Vitale Bedrochung!}
 Zügiger Transport in eine geeignete Einrichtung}
-
-\begin{itemize}
-  \item \TxMassVitBes
-  \begin{itemize}
-    \item \EE{Lagerung}: Bauchdecke entspannen , Knierolle
-  \end{itemize}
-  \item Darmteile nicht  zurückstopfen ${\rightarrow}$ sonst
-  Darmriß/Darmverschluß
-  \item Steril abdecken, mit Ringerlösung feucht halten
-  \begin{itemize}
-    \item Gefahr des Eindringens von Keimen  (Peritonitis/Sepsis!)
-  \end{itemize}
-  \item \EE{Transportentscheidung}: Schockraum
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{Bauchtrauma,
+% offen}{\label{m:bauchtraume-offen}}{
+% \EE{Taktik}: \Speech{\Ca{Zeitkritisch! Vitale Bedrochung!}
+% Zügiger Transport in eine geeignete Einrichtung}
+% 
+% \begin{itemize}
+%   \item \TxMassVitBes
+%   \begin{itemize}
+%     \item \EE{Lagerung}: Bauchdecke entspannen , Knierolle
+%   \end{itemize}
+%   \item Darmteile nicht  zurückstopfen ${\rightarrow}$ sonst
+%   Darmriß/Darmverschluß
+%   \item Steril abdecken, mit Ringerlösung feucht halten
+%   \begin{itemize}
+%     \item Gefahr des Eindringens von Keimen  (Peritonitis/Sepsis!)
+%   \end{itemize}
+%   \item \EE{Transportentscheidung}: Schockraum
+% \end{itemize}
+% }
 
 
 
@@ -2806,25 +2861,30 @@ um den möglichen großen Blutverlust einzudämmen.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Spezielle Maßnahmen}{instabiles
-    Beckentrauma}{}
+
+\MassnahmenMK{Spezielle Maßnahmen}{Beckentrauma,
+instabil}{m:beckentrauma-instabil}
 {
-\begin{itemize}
-  \item \TxMassVitBes
-  \begin{itemize}
-    \item Lagerung: flach
-  \end{itemize}
-  \item Schockbekämpfung
-  \item Wirbelsäulenschonende, situationsgerechte Rettung (z.\,B. mittels
-  Schaufeltrage)
-  \item Lagerung auf/Schienung mit Vakuummatratze (wenn
-  Lagerung mit erhöhten Beinen notwendig ist,
-  Tragentisch schräg stellen)
-  \item Bei Beckenfraktur:
-  \index{Beckengurt}\EE{Beckengurt}, zur Not mit
-  Gürtel
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{Beckentrauma,
+% instabil}{\label{m:beckentrauma-instabil}}
+% {
+% \begin{itemize}
+%   \item \TxMassVitBes
+%   \begin{itemize}
+%     \item Lagerung: flach
+%   \end{itemize}
+%   \item Schockbekämpfung
+%   \item Wirbelsäulenschonende, situationsgerechte Rettung (z.\,B. mittels
+%   Schaufeltrage)
+%   \item Lagerung auf/Schienung mit Vakuummatratze (wenn
+%   Lagerung mit erhöhten Beinen notwendig ist,
+%   Tragentisch schräg stellen)
+%   \item Bei Beckenfraktur:
+%   \index{Beckengurt}\EE{Beckengurt}, zur Not mit
+%   Gürtel
+% \end{itemize}
+% }
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -2880,53 +2940,62 @@ zeitkritischer Patient!}
 
 
 
-\MassnahmenNG{Spezielle Maßnahmen}{Polytrauma}{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Polytrauma}{\label{m:polytrauma}}
 {%
 \EE{Taktik}: \Speech{\Ca{Vitale Bedrohung! Zeitkritisch!}
 Rasche Bergung, Stabilisierung
 der Vitalfunktionen, Immobilisierung, rasche Versorgung von
 \E{gefährlichen} Verletzungen, rascher Transport}
-
-
-\begin{itemize}
-  \item \TxMassVitBes
-  \begin{itemize}
-    \item Lagerung: situationsgerecht, ggfs.
-    Wirbelsäulenimmobilisation, bzw. entsprechend den
-    Verletzungen und der Herz-Kreislauf-Situation
-%     -- Prioritäten absteigend:
-%     {
-%     \scriptsize
-%     \begin{enumerate}
-%       \item Atem- und Kreislaufstillstand $\rightarrow$ Rückenlage
-%       \item Bewusstlosigkeit, nicht intubiert $\rightarrow$ stabile Seitenlage 
-%       (bei Thorax- und/oder Extremitätentrauma auf verletzte Seite legen)
-%       \item Atemnot bei Thoraxtrauma $\rightarrow$ Oberkörper hoch (45\textdegree)
-%       \item Abdominaltrauma $\rightarrow$ Schonhaltung, Knierolle
-%       \item \Abk{SHT} $\rightarrow$ Oberkörper hoch (30\textdegree)
-%       \item Wirbelsäulentrauma $\rightarrow$ Flachlagerung auf Vakuummatratze
-%       \item Extremitätentrauma $\rightarrow$ Extremität schienen und fixieren
-%       \item Schock $\rightarrow$ Hochlagerung der Beine
-%       durch schräg stellen des Tragentisches
-%     \end{enumerate}
-%     }
-  \end{itemize}
-  \item Gefährliche Verletzungen versorgen (starke
-  Blutungen, Beckengurt, \ldots) 
-  \item \EE{Wärmeerhalt}: Der Wärmeerhalt hat massiven Einfluss auf das
-  Überleben!
-%   \item Wenn einigermaßen stabil, gründlicher  Traumacheck
-  \item Verletzungsmuster/Unfallmechanismus erheben $\rightarrow$ zu 
-  erwartende Komplikationen einschätzen
-  \item \Z{Notarzt: Schmerztherapie, Narkose, Intubation und Beatmung}
-  \item Transportentscheidung:
-  \begin{itemize}
-    \item Transportziel: Schockraum, mit Voranmeldung
-    (Aviso) über Leitstelle
-    \item Hubschrauber-Transport erwägen
-  \end{itemize}
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Polytrauma}{\label{m:polytrauma}}
+% {%
+% \EE{Taktik}: \Speech{\Ca{Vitale Bedrohung! Zeitkritisch!}
+% Rasche Bergung, Stabilisierung
+% der Vitalfunktionen, Immobilisierung, rasche Versorgung von
+% \E{gefährlichen} Verletzungen, rascher Transport}
+% 
+% 
+% \begin{itemize}
+%   \item \TxMassVitBes
+%   \begin{itemize}
+%     \item Lagerung: situationsgerecht, ggfs.
+%     Wirbelsäulenimmobilisation, bzw. entsprechend den
+%     Verletzungen und der Herz-Kreislauf-Situation
+% %     -- Prioritäten absteigend:
+% %     {
+% %     \scriptsize
+% %     \begin{enumerate}
+% %       \item Atem- und Kreislaufstillstand $\rightarrow$ Rückenlage
+% %       \item Bewusstlosigkeit, nicht intubiert $\rightarrow$ stabile Seitenlage 
+% %       (bei Thorax- und/oder Extremitätentrauma auf verletzte Seite legen)
+% %       \item Atemnot bei Thoraxtrauma $\rightarrow$ Oberkörper hoch (45\textdegree)
+% %       \item Abdominaltrauma $\rightarrow$ Schonhaltung, Knierolle
+% %       \item \Abk{SHT} $\rightarrow$ Oberkörper hoch (30\textdegree)
+% %       \item Wirbelsäulentrauma $\rightarrow$ Flachlagerung auf Vakuummatratze
+% %       \item Extremitätentrauma $\rightarrow$ Extremität schienen und fixieren
+% %       \item Schock $\rightarrow$ Hochlagerung der Beine
+% %       durch schräg stellen des Tragentisches
+% %     \end{enumerate}
+% %     }
+%   \end{itemize}
+%   \item Gefährliche Verletzungen versorgen (starke
+%   Blutungen, Beckengurt, \ldots) 
+%   \item \EE{Wärmeerhalt}: Der Wärmeerhalt hat massiven Einfluss auf das
+%   Überleben!
+% %   \item Wenn einigermaßen stabil, gründlicher  Traumacheck
+%   \item Verletzungsmuster/Unfallmechanismus erheben $\rightarrow$ zu 
+%   erwartende Komplikationen einschätzen
+%   \item \Z{Notarzt: Schmerztherapie, Narkose, Intubation und Beatmung}
+%   \item Transportentscheidung:
+%   \begin{itemize}
+%     \item Transportziel: Schockraum, mit Voranmeldung
+%     (Aviso) über Leitstelle
+%     \item Hubschrauber-Transport erwägen
+%   \end{itemize}
+% \end{itemize}
+% }
 
 % UNFALLORT IN DEN ABSCHNITT EINSATZTAKTIK VERSCHOBEN (Emhofer)
 
@@ -2978,25 +3047,29 @@ Amputat ist in jedem Fall zu suchen. Der Amputatstumpf wird
 steril mit einem Druckverband versorgt (kein Abbinden!). An große Blutungen und Schockgefahr
 denken!
 
-\MassnahmenNG{Spezielle Maßnahmen}{Versorgung eines Amputats}{}
-{%
-\begin{itemize}
-  \item Keine Reinigung des Amputats
-  \item Sterile und trockene Versorgung des Amputats
-  (Verband)
-  \item Transport in doppelwandigem
-  Amputatsbeutel (Replant-Beutel) bei  einer Temperatur von
-  ca. 4\,\DegC \cite{BoehmerTaschRett6,Gorgass7,LPN3}.
-  Zwischen die beiden Schichten des Beutels gibt man Wasser mit Eis (im Verhältnis 1:1).
-  \item Das Amputat darf auf keinen Fall einfrieren -- im
-  Zweifelsfall eher wärmer als kälter lagern. Auch der
-  direkte Kontakt zu Wasser oder Eis muss unbedingt
-  vermieden werden!
-  \item \Z{Ausgeschlagene Zähne sollten in einer geeigneten
-  antiseptischen Flüssigkeit transportiert werden.
-  \cite{BoehmerTaschRett6,Gorgass7}}
-\end{itemize}
-}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Amputatversorgung}{m:amputat} {%
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{Versorgung eines
+% Amputats}{\label{m:amputat}}
+% {%
+% \begin{itemize}
+%   \item Keine Reinigung des Amputats
+%   \item Sterile und trockene Versorgung des Amputats
+%   (Verband)
+%   \item Transport in doppelwandigem
+%   Amputatsbeutel (Replant-Beutel) bei  einer Temperatur von
+%   ca. 4\,\DegC \cite{BoehmerTaschRett6,Gorgass7,LPN3}.
+%   Zwischen die beiden Schichten des Beutels gibt man Wasser mit Eis (im Verhältnis 1:1).
+%   \item Das Amputat darf auf keinen Fall einfrieren -- im
+%   Zweifelsfall eher wärmer als kälter lagern. Auch der
+%   direkte Kontakt zu Wasser oder Eis muss unbedingt
+%   vermieden werden!
+%   \item \Z{Ausgeschlagene Zähne sollten in einer geeigneten
+%   antiseptischen Flüssigkeit transportiert werden.
+%   \cite{BoehmerTaschRett6,Gorgass7}}
+% \end{itemize}
+% }
 
 \subsection{Weitere Verletzungsbilder}
 
@@ -3255,72 +3328,80 @@ Körperoberfläche gilt eine Verbrennung als "`schwer"'; für
 % Schockbekämpfung?
 % Notarzt? wann leichte Verbennung?
 
-\MassnahmenNG{Spezielle Maßnahmen}{Verbrennung, leicht}{\label{m:verbrennung-leicht}}
-{    
-\begin{itemize}
-  \item Selbstschutz!
-  \item Kleiderbrand löschen
-  \item Vitale Bedrohung einschätzen. \TxBeiVit \TxMassVit
-  \item Kleidung und Schmuck entfernen (sofern nicht  eingeschmolzen!)
-  \item Nur wenn \E{unmittelbar nach dem Unfall\footnote{Bereits zwei
-  Minuten nach Verbrennungsbeginn und damit bei Eintreffen
-  des Rettungsdienstes ist ein
-  positiver Effekt der Kühlung nicht mehr zu erwarten. Bei
-  mehreren Minuten zurückliegenden Verbrennungen ist eine
-  Kühlung nicht mehr sinnvoll.
-  \cite{Asanger2010,AsboeLehrmeinungRd2011-21}}}
-  damit begonnen werden kann, für max. 10\Min* mit handwarmen
-  Wasser die betroffenen Körperregionen spülen;
-  
-  \EE{Bei Frösteln des Patienten früher abzubrechen: Gefahr der Unterkühlung!}
-  \item \EE{Abdeckung}: Sterile, nicht verklebende
-  Wundauflagen; evtl. metalliserte Wundauflagen
-  \cite{Helfen2008,RedelsteinerHRNS1}; locker anlegen
-  % DISCUSS INHALT: Water-Jel, Stellungsnahme
-  %         \item Wenn vorhanden: Water-Jel
-  \item Ggfs. Schockbekämpfung
-  %   \item Ggfs. Notarzt-Anforderung
-\end{itemize}
-}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Verbrennung, schwer}{\label{m:verbrennung-schwer}}
+\MassnahmenNG{Spezielle Maßnahmen}{Verbrennung, leicht}{m:verbrennung-leicht}
+{    
+}{}
+
+\MassnahmenNG{Spezielle Maßnahmen}{Verbrennung, schwer}{m:verbrennung-schwer}
 {%
-\begin{itemize}
-  \item \TxMassVit
-  \item Kleidung und Schmuck entfernen (sofern nicht  eingeschmolzen!)
-  \item Besonders auf \EE{Wärmeerhalt} achten!
-  \item Luftzug vermeiden
-  \item \Z{\E{Keine} Kühlung\footnote{Bei großflächigen
-  Verbrennungen sollte der Patient nur primär abgelöscht werden. Hier soll
-  keine Kühlung der betroffenen Hautregionen erfolgen.
-  \cite{Asanger2010}}}
-%   \item Mind. 10 min. mit mäßig kaltem Wasser die betroffenen Körperregionen spülen  --
-%   \EE{NICHT unterkühlen!} 
-%   OBSOLETE: Großflächige Verbrennungen (Erwachsene
-% > 20% KOF, Kinder > 10% KOF, Säuglinge > 5%) sollten nur primär
-% abgelöscht und keimfrei abgedeckt werden. Hier erfolgt keine Kühlung
-% der betroffenen Regionen.
-  \item \EE{Abdeckung}: Sterile, nicht verklebende
-  Wundauflagen, evtl. metalliserte Wundauflagen
-  \cite{Helfen2008,RedelsteinerHRNS1}.\ACh{GABS}{2010-08-06}{Metallisierte
-  Verbände sind wünschenswert, werden zB in Helfen2008 
-  empfohlen.}\ZFootnote{Der Nutzen  von kühlenden
-  Spezialverbänden, z.\,B. Waterjel{\texttrademark} ist
-  aufgrund  der Unterkühlungs-Gefahr und einer  möglichen
-  Durchblutungsstörung der Wunde
-  (Gefahr von Wundheilungsstörungen im weiteren Verlauf)
-  umstritten.} Locker anlegen. Bei großflächigen
-  Verbrennungen können,  wenn das sterile Material nicht
-  ausreicht,  zur Not auch saubere Leintücher o.\,ä. 
-  verwendet werden \cite{emergency9,Asanger2010}.
-  % TODO INHALT: Stellungsnahme zu Water-Jel
-  %         \item Wenn vorhanden: Water-Jel
-  %         \footnote{Streitfrage: Water-Jel: Umstritten}
-  \item Schockbekämpfung
-  \item \Z{NKV+: Infusionstherapie mit \E{kristalloiden} Lösungen; kolloidale
-  Lösungen sind \E{kontraindiziert}.}
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{Verbrennung, leicht}{\label{m:verbrennung-leicht}}
+% {    
+% \begin{itemize}
+%   \item Selbstschutz!
+%   \item Kleiderbrand löschen
+%   \item Vitale Bedrohung einschätzen. \TxBeiVit \TxMassVit
+%   \item Kleidung und Schmuck entfernen (sofern nicht  eingeschmolzen!)
+%   \item Nur wenn \E{unmittelbar nach dem Unfall\footnote{Bereits zwei
+%   Minuten nach Verbrennungsbeginn und damit bei Eintreffen
+%   des Rettungsdienstes ist ein
+%   positiver Effekt der Kühlung nicht mehr zu erwarten. Bei
+%   mehreren Minuten zurückliegenden Verbrennungen ist eine
+%   Kühlung nicht mehr sinnvoll.
+%   \cite{Asanger2010,AsboeLehrmeinungRd2011-21}}}
+%   damit begonnen werden kann, für max. 10\Min* mit handwarmen
+%   Wasser die betroffenen Körperregionen spülen;
+%   
+%   \EE{Bei Frösteln des Patienten früher abzubrechen: Gefahr der Unterkühlung!}
+%   \item \EE{Abdeckung}: Sterile, nicht verklebende
+%   Wundauflagen; evtl. metalliserte Wundauflagen
+%   \cite{Helfen2008,RedelsteinerHRNS1}; locker anlegen
+%   % DISCUSS INHALT: Water-Jel, Stellungsnahme
+%   %         \item Wenn vorhanden: Water-Jel
+%   \item Ggfs. Schockbekämpfung
+%   %   \item Ggfs. Notarzt-Anforderung
+% \end{itemize}
+% }
+% 
+% \MassnahmenNG{Spezielle Maßnahmen}{Verbrennung, schwer}{\label{m:verbrennung-schwer}}
+% {%
+% \begin{itemize}
+%   \item \TxMassVit
+%   \item Kleidung und Schmuck entfernen (sofern nicht  eingeschmolzen!)
+%   \item Besonders auf \EE{Wärmeerhalt} achten!
+%   \item Luftzug vermeiden
+%   \item \Z{\E{Keine} Kühlung\footnote{Bei großflächigen
+%   Verbrennungen sollte der Patient nur primär abgelöscht werden. Hier soll
+%   keine Kühlung der betroffenen Hautregionen erfolgen.
+%   \cite{Asanger2010}}}
+% %   \item Mind. 10 min. mit mäßig kaltem Wasser die betroffenen Körperregionen spülen  --
+% %   \EE{NICHT unterkühlen!} 
+% %   OBSOLETE: Großflächige Verbrennungen (Erwachsene
+% % > 20% KOF, Kinder > 10% KOF, Säuglinge > 5%) sollten nur primär
+% % abgelöscht und keimfrei abgedeckt werden. Hier erfolgt keine Kühlung
+% % der betroffenen Regionen.
+%   \item \EE{Abdeckung}: Sterile, nicht verklebende
+%   Wundauflagen, evtl. metalliserte Wundauflagen
+%   \cite{Helfen2008,RedelsteinerHRNS1}.\ACh{GABS}{2010-08-06}{Metallisierte
+%   Verbände sind wünschenswert, werden zB in Helfen2008 
+%   empfohlen.}\ZFootnote{Der Nutzen  von kühlenden
+%   Spezialverbänden, z.\,B. Waterjel{\texttrademark} ist
+%   aufgrund  der Unterkühlungs-Gefahr und einer  möglichen
+%   Durchblutungsstörung der Wunde
+%   (Gefahr von Wundheilungsstörungen im weiteren Verlauf)
+%   umstritten.} Locker anlegen. Bei großflächigen
+%   Verbrennungen können,  wenn das sterile Material nicht
+%   ausreicht,  zur Not auch saubere Leintücher o.\,ä. 
+%   verwendet werden \cite{emergency9,Asanger2010}.
+%   % TODO INHALT: Stellungsnahme zu Water-Jel
+%   %         \item Wenn vorhanden: Water-Jel
+%   %         \footnote{Streitfrage: Water-Jel: Umstritten}
+%   \item Schockbekämpfung
+%   \item \Z{NKV+: Infusionstherapie mit \E{kristalloiden} Lösungen; kolloidale
+%   Lösungen sind \E{kontraindiziert}.}
+% \end{itemize}
+% }
 
 \Layout{2}{Was man \Ca{nicht} tun darf \ldots}
 {%
@@ -3372,25 +3453,30 @@ Das volle Ausmaß der Schädigung kann unmittelbar oder
 innerhalb von Stunden erreicht werden. Eine engmaschige
 Beobachtung des Patienten ist daher sehr wichtig.
 
-\MassnahmenNG{Spezielle Maßnahmen}{Inhalationstrauma}{}{
 
-\begin{itemize}
-  \item Vitale Bedrohung einschätzen. \par
-  \TxBeiVit \TxMassVit
-  \item Lagerung: Oberkörper hoch
-  \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
-  \item Engmaschiges Monitoring
-\end{itemize}
-
-\Customized{
-\begin{description}
-  \item[\CustAsbFlo] Notfallsanitäter geben bei einer Rauch- oder
-  Reizgasinhalation ein inhalatives Kortikoid (z.\,B.
-  Pulmicort{\texttrademark}) laut Algorithmus der
-  Medikamentenliste~1.
-\end{description}
-}
-}
+\MassnahmenMK{Spezielle
+Maßnahmen}{Inhalationstrauma}{m:inhalationstrauma}{
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Inhalationstrauma}{\label{m:inhalationstrauma}}{
+% 
+% \begin{itemize}
+%   \item Vitale Bedrohung einschätzen. \par
+%   \TxBeiVit \TxMassVit
+%   \item Lagerung: Oberkörper hoch
+%   \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
+%   \item Engmaschiges Monitoring
+% \end{itemize}
+% 
+% \Customized{
+% \begin{description}
+%   \item[\CustAsbFlo] Notfallsanitäter geben bei einer Rauch- oder
+%   Reizgasinhalation ein inhalatives Kortikoid (z.\,B.
+%   Pulmicort{\texttrademark}) laut Algorithmus der
+%   Medikamentenliste~1.
+% \end{description}
+% }
+% }
 
 
 
@@ -3446,37 +3532,41 @@ Gefahr ausgehen. Auf den Selbstschutz und die
 {}
 {}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Verletzungen mit chemischen
-Substanzen}{}{
 
-\begin{enumerate}
-  \item Auf Selbsschutz achten!
-  \begin{itemize}
-    \item Patienten ggfs. retten, aber nur wenn es der
-    Eigenschutz zulässt.
-  \end{itemize}
-  \item Gefahr erkennen: \EE{Welcher Stoff?}  Expertenrat einholen!
-  \item Wenn erforderlich: Vorgehen analog zu Abschnitt
-  "`Gefahrengutunfall"', GAS-Regel
-  (\prettyref{topic:gefahrengutunfall})
-  \item Weitere Opfer ausschließen (lassen)
-  \item Sicherung der Vitalfunktionen, Beurteilung ob der
-  Patient vital bedroht ist.
-  \item \TxBeiVit \TxMassVitBes
-  \begin{itemize}
-    \item Lagerung: situationsgerecht.
-  \end{itemize}
-  \item Entfernung kontaminierter Kleidung
-  \item Spülung der betroffenen Hautpartien mit Wasser  (richtig abrinnen
-  lassen)
-  \item Auge: Spülung mit Wasser / Ringerlösung (nach außen abrinnen
-  lassen!),  Kontaktlinsen entfernen
-  \item Transportentscheidung: Ab einer Ausdehnung von
-  15\PC* (Erwachsener) bzw. 10\PC* (Kind) Spezialabteilung
-  für Verbrennungsverletzungen. Bei Augenverletzungen Abt.
-  für Augenheilkunde.
-\end{enumerate}
-}
+\MassnahmenMK{Spezielle Maßnahmen}{Verletzungen mit
+chemischen Substanzen}{m:chemische-verletzungen}{
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{Verletzungen mit chemischen
+% Substanzen}{\label{m:chemische-verletzungen}}{
+% 
+% \begin{enumerate}
+%   \item Auf Selbsschutz achten!
+%   \begin{itemize}
+%     \item Patienten ggfs. retten, aber nur wenn es der
+%     Eigenschutz zulässt.
+%   \end{itemize}
+%   \item Gefahr erkennen: \EE{Welcher Stoff?}  Expertenrat einholen!
+%   \item Wenn erforderlich: Vorgehen analog zu Abschnitt
+%   "`Gefahrengutunfall"', GAS-Regel
+%   (\prettyref{topic:gefahrengutunfall})
+%   \item Weitere Opfer ausschließen (lassen)
+%   \item Sicherung der Vitalfunktionen, Beurteilung ob der
+%   Patient vital bedroht ist.
+%   \item \TxBeiVit \TxMassVitBes
+%   \begin{itemize}
+%     \item Lagerung: situationsgerecht.
+%   \end{itemize}
+%   \item Entfernung kontaminierter Kleidung
+%   \item Spülung der betroffenen Hautpartien mit Wasser  (richtig abrinnen
+%   lassen)
+%   \item Auge: Spülung mit Wasser / Ringerlösung (nach außen abrinnen
+%   lassen!),  Kontaktlinsen entfernen
+%   \item Transportentscheidung: Ab einer Ausdehnung von
+%   15\PC* (Erwachsener) bzw. 10\PC* (Kind) Spezialabteilung
+%   für Verbrennungsverletzungen. Bei Augenverletzungen Abt.
+%   für Augenheilkunde.
+% \end{enumerate}
+% }
 
 
 
@@ -3538,16 +3628,21 @@ grau/schwarze Marmorierung (Nekrose), Gefühllosigkeit
 \end{table}
 
 
-\MassnahmenNG{Spezielle Maßnahmen}{Erfrierungen}{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Erfrierungen}{m:erfrierung}
 {%
-\begin{itemize}
-  \item Beengende Kleidungsstücke lockern (Einschnürung erhöht
-  Risiko einer Erfrierung)
-  \item Keimfreier, gepolsterter Verband
-  \item Warme, gezuckerte Getränke -- KEIN Alkohol
-  \item Körperstamm wärmen, NIE den erfrorenen Körperteil abreiben!!
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Erfrierungen}{\label{m:erfrierung}}
+% {%
+% \begin{itemize}
+%   \item Beengende Kleidungsstücke lockern (Einschnürung erhöht
+%   Risiko einer Erfrierung)
+%   \item Keimfreier, gepolsterter Verband
+%   \item Warme, gezuckerte Getränke -- KEIN Alkohol
+%   \item Körperstamm wärmen, NIE den erfrorenen Körperteil abreiben!!
+% \end{itemize}
+% }
 
 
 
@@ -3810,42 +3905,48 @@ Typische Symptome sind
 
 
 
-\MassnahmenNG{Spezielle Maßnahmen}{Stromunfälle}{}{
-\begin{itemize}
-  \item \EE{Eigenschutz!} Bevor der Patienten berührt wird,
-  muss man sich vergewissern, dass der Patient
-  keinen Kontakt mehr mit dem Stromkreis hat! \EE{Strom
-  abschalten (lassen)!}
-  \begin{itemize}
-    \item Gefahrenbreich beachten:
-    \prettyref{topic:gefahrenbereich-strom}
-    \item Sicherheitsabstand
-    (\prettyref{topic:gefahrenbereich-strom})
-    \item Schrittspannung und Spannungskegel
-    beachten \prettyref{topic:gefahrenbereich-strom}
-    \item Bahnanlagen sperren/sichern lassen
-    (\prettyref{topic:gefahrenbereich-strom})
-    \item Schalter ausschalten, (Haupt-)Sicherung
-    auslösen, Starkstrom/Hochspannung durch Fachmann  abschalten bzw.
-    erden lassen
-    \item Strom gegen Wiedereinschalten sichern!
-    \item Patient mit isolierendem Material aus dem Stromkreis befreien
-    
-  \end{itemize}
-  \item Beurteilung der vitalen Bedrohung.
-  \par \TxBeiVit
-  \TxMassVit
-  \item \EE{Monitoring und
-  Reanimationsbereitschaft}: auf evtl.
-  Herzrhythmusstörungen vorbereitet sein
-  (bis zu 24\,h Latenz)
-  \item Genaue Patientenuntersuchung ${\rightarrow}$
-  Eintritts- und Austrittsmarke
-  \item Hospitalisierung auch bei symptomlosen
-  Patienten zur Überwachung
-  \item Stromverbrennungen wie Verbrennungen versorgen
-\end{itemize}
-}
+\MassnahmenMK{Spezielle
+Maßnahmen}{Stromunfälle}{m:stromunfall}
+{
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Stromunfälle}{\label{m:stromunfall}}
+% {
+% \begin{itemize}
+%   \item \EE{Eigenschutz!} Bevor der Patienten berührt wird,
+%   muss man sich vergewissern, dass der Patient
+%   keinen Kontakt mehr mit dem Stromkreis hat! \EE{Strom
+%   abschalten (lassen)!}
+%   \begin{itemize}
+%     \item Gefahrenbreich beachten:
+%     \prettyref{topic:gefahrenbereich-strom}
+%     \item Sicherheitsabstand
+%     (\prettyref{topic:gefahrenbereich-strom})
+%     \item Schrittspannung und Spannungskegel
+%     beachten \prettyref{topic:gefahrenbereich-strom}
+%     \item Bahnanlagen sperren/sichern lassen
+%     (\prettyref{topic:gefahrenbereich-strom})
+%     \item Schalter ausschalten, (Haupt-)Sicherung
+%     auslösen, Starkstrom/Hochspannung durch Fachmann  abschalten bzw.
+%     erden lassen
+%     \item Strom gegen Wiedereinschalten sichern!
+%     \item Patient mit isolierendem Material aus dem Stromkreis befreien
+%     
+%   \end{itemize}
+%   \item Beurteilung der vitalen Bedrohung.
+%   \par \TxBeiVit
+%   \TxMassVit
+%   \item \EE{Monitoring und
+%   Reanimationsbereitschaft}: auf evtl.
+%   Herzrhythmusstörungen vorbereitet sein
+%   (bis zu 24\,h Latenz)
+%   \item Genaue Patientenuntersuchung ${\rightarrow}$
+%   Eintritts- und Austrittsmarke
+%   \item Hospitalisierung auch bei symptomlosen
+%   Patienten zur Überwachung
+%   \item Stromverbrennungen wie Verbrennungen versorgen
+% \end{itemize}
+% }
 
 \section*{Weiterführende Literatur}
 \noindent\SymbolLiteratur{} 

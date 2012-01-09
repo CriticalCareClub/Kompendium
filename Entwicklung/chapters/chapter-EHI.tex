@@ -1937,11 +1937,23 @@ daher im wahrsten Sinne des Wortes schutz- und hilflos.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Bewusstlosigkeit}{}{
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenWK{Erste-Hilfe-Maßnahmen}{Bewusstlosigkeit}{m:ehi-bewusstlosigkeit}{
+\begin{itemize}
+    \item Stabile Seitenlage
+\end{itemize}
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Bewusstlosigkeit}{\label{m:ehi-bewusstlosigkeit}}{
 \begin{itemize}
     \item Stabile Seitenlage
 \end{itemize}
 }
+}
+
+
+
 
 
 \begin{PictureSeriesWide}{}{Bilderserie: Stabile
@@ -2117,7 +2129,15 @@ Sofortmaßnahme} begonnen. \bigskip\bigskip
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Atem- und Kreislaufstillstand}{}{
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenWK{Erste-Hilfe-Maßnahmen}{Atem- und
+Kreislaufstillstand}{m:ehi-atem-kreislaufstillstand}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Atem- und
+Kreislaufstillstand}{\label{m:ehi-atem-kreislaufstillstand}}{
 \begin{itemize}
   \item Herz-Lungen-Wiederbelebung (Reanimation)
   \begin{itemize}
@@ -2126,6 +2146,8 @@ Sofortmaßnahme} begonnen. \bigskip\bigskip
   \end{itemize}
 \end{itemize}
 }
+}
+
 
 % \Layout{0}{Lebensrettende Sofortmaßnahme
 % }{
@@ -2697,7 +2719,15 @@ zu machen.
 % vorzubeugen. Bei der Durchführung der Blutstillung sind folgende
 % Methoden möglich, wobei leider nicht alle immer sinnvoll sind.
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Starke Blutungen}{}{
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenMK{Erste-Hilfe-Maßnahmen}{Starke
+Blutung}{m:ehi-starke-blutung}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Starke
+Blutung}{\label{m:ehi-starke-blutung}}{
 \begin{itemize}
   \item Blutstillung
   \begin{itemize}
@@ -2710,6 +2740,8 @@ zu machen.
 \end{itemize}
 
 }
+}
+
 
 \Layout{22}{}{\index{Blutstillung}
 Für die Blutstillung werden folgende Materialien
@@ -3181,7 +3213,13 @@ erhöht gelagert.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Schockbekämpfung}{}{
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenMK{Erste-Hilfe-Maßnahmen}{Schockbekämpfung}{m:ehi-schockbekaempfung}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Schockbekämpfung}{\label{m:ehi-schockbekaempfung}}{
 
 \begin{itemize}
   \item Ursache beseitigen (wenn möglich), ggfs. Blutstillung
@@ -3192,6 +3230,8 @@ erhöht gelagert.
   \item Beobachtung
 \end{itemize}
 }
+}
+
 
 
 % \subsubsection{10.3) Schockbekämpfung:}
@@ -3819,7 +3859,9 @@ verfügbar bzw. eine entsprechende Ausbildung vorhanden ist.
 {Vorsicht!}
 {GABS.}
 \label{topic:standardmassnahmen-vital}%
-\MassnahmenNG{Standardmaßnahmen}{Standardmaßnahmen bei vital bedrohten Patienten}{\label{m:standardmassnahmen-vital}}{
+\MassnahmenNG{Standardmaßnahmen}{Standardmaßnahmen bei vital
+bedrohten
+Patienten}{\label{m:ehi-standardmassnahmen-vital}}{
 
 
 \begin{enumerate}
@@ -3873,13 +3915,22 @@ werden.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Bagatellverletzungen}{}{
+
+\protect\VARIANT{VAR-STANDARD}{
+
+\MassnahmenMK{Erste-Hilfe-Maßnahmen}{Bagatellverletzungen}{m:ehi-bagatellverletzungen}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Bagatellverletzungen}{\label{m:ehi-bagatellverletzungen}}{
 
 \begin{itemize}
   \item Wunde reinigen
   \item Evtl. steriler Wundverband
   \item Auf den Tetanusschutz achten
 \end{itemize}
+}
 }
 
 
@@ -4187,6 +4238,12 @@ Bei Kindern ist ab \EE{5\PC*}, bei Erwachsenen ab \EE{10\PC*}
 mind. 2\textdegree{} verbrannter Körperoberfläche mit einem Schock zu
 rechnen!}
 
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenMK{Erste-Hilfe-Maßnahmen}{Verbrennungen}{m:verbrennung-eh}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
 \MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verbrennungen}{\label{m:verbrennung-eh}}{
 \begin{itemize}
   \item Hitzeeinwirkung sofort stoppen.
@@ -4209,13 +4266,21 @@ rechnen!}
   \item \Ca{Keine Salben oder Puder etc. verwenden}
 \end{itemize}
 }
+}
+
 
 % \clearpage % TODO temporäres clearpage
 \subsubsection{Erfrierungen}
 
 \Definition{Durchblutungsstörungen mit Gewebstod an den Körperenden}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Erfrierungen}{}{
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Erfrierungen}{m:ehi-erfrierungen}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Erfrierungen}{\label{m:ehi-erfrierungen}}{
 
 \begin{itemize}
   \item Keimfreier Wundverband
@@ -4232,6 +4297,8 @@ rechnen!}
 %   Bewegung des Patienten während der Rettung ausgelöst wird.}
 \end{itemize}
 }
+}
+
 
 \clearpage
 \subsubsection{Unterkühlung}
@@ -4256,7 +4323,13 @@ von Atem- und Herzfrequenz}. Bei einer Temperatur unter 27\,\DegC{} tritt der To
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Unterkühlung}{}{
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenMK{Erste-Hilfe-Maßnahmen}{Unterkühlung}{m:ehi-unterkuehlung}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Unterkühlung}{\label{m:ehi-unterkuehlung}}{
 
 \begin{itemize}
   \item Aufwecken und wach halten
@@ -4271,6 +4344,8 @@ von Atem- und Herzfrequenz}. Bei einer Temperatur unter 27\,\DegC{} tritt der To
   Bewegung des Patienten während der Rettung ausgelöst wird.}
 \end{itemize}
 }
+}
+
 
 \subsubsection{Verstauchung}
 \label{topic:verstauchung-eh}
@@ -4297,7 +4372,13 @@ Bewegung} ist -- schmerzbedingt -- möglich.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verstauchung}{}{
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenMK{Erste-Hilfe-Maßnahmen}{Verstauchung}{m:ehi-verstauchung}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verstauchung}{\label{m:ehi-verstauchung}}{
 
 \begin{itemize}
   \item Ruhigstellung
@@ -4306,6 +4387,8 @@ Bewegung} ist -- schmerzbedingt -- möglich.
   \item Hochlagern % ZWING 2010-03-xx
 \end{itemize}
 }
+}
+
 
 
 \subsubsection{Verrenkung}
@@ -4337,7 +4420,13 @@ Stellung}, welche \EE{federnd fixiert} gelagert ist.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verrenkung}{}{
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verrenkung}{m:ehi-verrenkung}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verrenkung}{\label{m:ehi-verrenkung}}{
 
 \begin{itemize}
     \item Vorgefundene Stellung beibehalten
@@ -4346,6 +4435,8 @@ Stellung}, welche \EE{federnd fixiert} gelagert ist.
     \item Keine Einrenkversuche!
 \end{itemize}
 }
+}
+
 
 
 \subsubsection{Knochenbrüche}
@@ -4442,7 +4533,13 @@ es zu \EE{Begleitverletzungen innerer Organe} kommen.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Knochenbrüche}{}{
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenMK{Erste-Hilfe-Maßnahmen}{Knochenbrüche}{m:ehi-knochenbrueche}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Knochenbrüche}{\label{m:ehi-knochenbrueche}}{
 
 \begin{itemize}
     \item Ruhig liegen lassen
@@ -4453,6 +4550,8 @@ es zu \EE{Begleitverletzungen innerer Organe} kommen.
     \item Schockbekämpfung
 \end{itemize}
 }
+}
+
 
 \subsubsection{Vergiftungen}
 \label{topic:vergiftungen-ehi}
@@ -4488,7 +4587,13 @@ unterschiedliche Kennzeichen. Es kann mit \EE{Rauschzuständen} und
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Vergiftungen}{}{
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenMK{Erste-Hilfe-Maßnahmen}{Vergiftungen}{m:ehi-vergiftungen}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Vergiftungen}{\label{m:ehi-vergiftungen}}{
 \begin{itemize}
     \item Patient nicht ansprechbar:
     \begin{itemize}
@@ -4505,10 +4610,20 @@ unterschiedliche Kennzeichen. Es kann mit \EE{Rauschzuständen} und
     \end{itemize}
 \end{itemize}
 }
+}
+
 
 \subsubsection{Verätzungen}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verätzungen der Haut}{}{
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenMK{Erste-Hilfe-Maßnahmen}{Verätzungen der
+Haut}{m:ehi-veraetzungen-haut}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verätzungen der
+Haut}{\label{m:ehi-veraetzungen-haut}}{
 
 \begin{itemize}
    \item \Ca{Selbstschutz} beachten!
@@ -4518,8 +4633,17 @@ unterschiedliche Kennzeichen. Es kann mit \EE{Rauschzuständen} und
     \item Evtl. Schockbekämpfung
 \end{itemize}
 }
+}
 
-\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verätzungen der Augen}{}{
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenMK{Erste-Hilfe-Maßnahmen}{Verätzungen der
+Augen}{m:ehi-veraetzungen-augen}{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verätzungen der
+Augen}{\label{m:ehi-veraetzungen-augen}}{
 
 \begin{itemize}
     \item Auge mit reinem Wasser von innen nach außen ausspülen. Abwasser
@@ -4529,9 +4653,18 @@ unterschiedliche Kennzeichen. Es kann mit \EE{Rauschzuständen} und
     \item Selbstschutz beachten!
 \end{itemize}
 }
+}
 
+
+\protect\VARIANT{VAR-STANDARD}{
+\MassnahmenMK{Erste-Hilfe-Maßnahmen}{Verätzungen des
+Verdauungstraktes}{m:ehi-veraetzungen-verdauungstrakt}
+{
+}{}
+}
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
 \MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verätzungen des
-Verdauungstraktes}{}
+Verdauungstraktes}{\label{m:ehi-veraetzungen-verdauungstrakt}}
 { 
 \begin{itemize}
     \item Mund mit Wasser ausspülen
@@ -4541,6 +4674,9 @@ Verdauungstraktes}{}
     \item Selbstschutz beachten!
 \end{itemize}
 }
+}
+
+
 
 \TODO{????}{0.8.0}{Fehlt: EHI Tierbisse, Tollwut, Schlangenbiss, ZEckenbiss,
 Insektenstiche Mund/Rachenraum}{}
@@ -8043,7 +8179,9 @@ Krampfanfällen und Bewusstlosigkeit kommen.
 
 
 
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
 
+}
 \MassnahmenNG{Spezielle Maßnahmen}{Sonnenstich}{}{
 
 \begin{itemize}
@@ -8106,6 +8244,9 @@ Bergungsversuches).
 \end{itemize}
 
 
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+
+}
 \MassnahmenNG{Spezielle Maßnahmen}{Schwere Unterkühlung
 (\textless\,34\DegC*)}{}{
 
@@ -8223,6 +8364,11 @@ Gegen die meisten Vergiftungen kann man präklinisch,
 ursächlich wenig unternehmen. Das Hauptaugenmerk liegt
 daher auf: 
 
+
+
+\protect\VARIANT{VAR-ERNAEHRUNGSPAED}{
+
+}
 \MassnahmenWide{Allgemeine Maßnahmen und
 Herangehensweise}{Vergiftungen}{\label{m:am-vergiftung}}{
 \begin{enumerate}

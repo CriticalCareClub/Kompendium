@@ -65,7 +65,18 @@ toc=flat,
 
 \renewcommand{\Abk}[1]{#1}
 
+\usepackage{xr}
+\externaldocument[MK-]{AASS-MKATALOG}
 
+
+% 1: Art der Massnahmen
+% 2: Titel
+% 3: Referenz
+% 4: Text / Taktik
+% 5: Punkte
+\newcommand{\MassnahmenMK}[5]{\Layout{2}{{\SignMassnahme}
+#1: #2}{#4\par Siehe
+\FullPrettyRef{MK-#3}}{#5\FullPrettyRef{MK-#3}}{}{}{}}
 
 % #######################################################################################################
 % #######################################################################################################
@@ -418,7 +429,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \end{labeling}
 \end{multicols}
 }{}{}{}{}
+\ref{MK-apm} S.\,\pageref{MK-apm}
 
+\FullPrettyRef{MK-m:standardmassnahmen-immer}
 
 
 \Layout{2}{Index}{%

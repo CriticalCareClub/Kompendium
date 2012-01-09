@@ -448,19 +448,28 @@ Erkankungen, Stress und ein plötzlicher Blutdruckanstieg.
 {}
 {}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Herzinsuffizienz}{}{
-\begin{itemize}
-  \item Lagerung: Oberkörper hoch
-  \item Beengende Kleidung öffnen
-  \item Vitale Bedrohung beurteilen. \TxBeiVit \TxMassVit
-  \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
-  \item Ursachenforschung
-\end{itemize}
-
+\MassnahmenMK{Spezielle
+Maßnahmen}{Herzinsuffizienz,
+symptomatisch}{m:herzinsuffizienz}{
 \Cave{Kein Transport von Patienten mit hörbarem Lungenödem
 ohne Notarzt. Auch wenn das Spital "`um{\textquotesingle}s Eck"'
 ist.}
-}
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Herzinsuffizienz,
+% symptomatisch}{\label{m:herzinsuffizienz}}{
+% \begin{itemize}
+%   \item Lagerung: Oberkörper hoch
+%   \item Beengende Kleidung öffnen
+%   \item Vitale Bedrohung beurteilen. \TxBeiVit \TxMassVit
+%   \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
+%   \item Ursachenforschung
+% \end{itemize}
+% 
+% \Cave{Kein Transport von Patienten mit hörbarem Lungenödem
+% ohne Notarzt. Auch wenn das Spital "`um{\textquotesingle}s Eck"'
+% ist.}
+% }
 
 
 
@@ -751,17 +760,6 @@ Herzschmerz.}
 
 
 
-% \MassnahmenNG{Spezielle Maßnahmen}{Herzinfarkt}{}{   
-% \begin{itemize}
-%   \item \TxMassVitBes 
-%   \begin{itemize}
-%     \item Lagerung: Oberkörper hoch
-%     \item \ce{O2} 10\LPerMin*, bei Bedarf bis zu 15\LPerMin* 
-%   \end{itemize}
-%   \item Beengende Kleidung öffnen
-%   \item Striktes Bewegungsverbot!
-% \end{itemize}
-
 \subsection{Akutes Koronarsyndrom}
 
 Da bei Behandlungsbeginn oft nicht klar ist, ob es sich um
@@ -771,74 +769,82 @@ Thoraxschmerz, Todesangst, \ldots) einfach vom \T{Akuten
 Koronarsyndrom}\ZFootnote{\Lang{Engl} Acute Coronary
 Syndrome, \Abk{ACS}.} gesprochen. 
 
-\MassnahmenNG{Spezielle Maßnahmen}{Patient nach Thoraxschmerzen, jetzt beschwerdefrei}
-{\label{m:akutes-koronarsyndrom-beschwerdefrei}}
-{%
-\begin{itemize}
-    \item Lagerung: Oberkörper hoch
-  \item Bewegungensverbot, Schonung
-  \item Beengende Kleidung öffnen
-    \item \ce{O2}-Gabe gemäß \FullPrettyRef{m:sauerstoffberieselung}
-  \item Bestmögliches Monitoring
-  \item \II{Nitro-Spray}: Manche Patienten haben einen
-  Nitroglyzerin-Spray (z.\,B. Nitrolingual{\texttrademark})
-  zur Einnahme bei Symptomen eines Akuten Koronarsyndroms
-  verschrieben bekommen. Der Spray soll weiter \E{vom
-  Patienten selbstständig} in der \E{verschriebenen
-  Dosierung} genommen werden, solange der systolische
-  Blutdurck RR\textsubscript{syst}\,{\textgreater}\,100\MmHg*
-  ist. Der Helfer muss sich versichern, dass das Medikament
-  für den jeweiligen Patienten verschrieben wurde und dass
-  die vorgegebene Dosierung eingehalten wird. Eine
-  regelmäßige Blutdruckkontrolle ist notwendig.
-  \item Transportentscheidung: Abt. f. Innere Medizin
-\end{itemize}
-}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Akutes Koronarsyndrom}
-{\label{m:akutes-koronarsyndrom}}
-{%
-\Ca{NACA V: Vitale Bedrohung!}
+\MassnahmenMK{Spezielle Maßnahmen}{Thoraxschmerzen, jetzt beschwerdefrei}
+{m:akutes-koronarsyndrom-beschwerdefrei}{}{}
 
-\begin{itemize}
-    \item Lagerung: \EE{Oberkörper hoch}
-  \item \EE{Striktes Bewegungsverbot!}
-  \item Beengende Kleidung öffnen
-  \item \TxMassVit
+% \MassnahmenNG{Spezielle Maßnahmen}{Thoraxschmerzen, jetzt beschwerdefrei}
+% {\label{m:akutes-koronarsyndrom-beschwerdefrei}}
+% {%
+% \begin{itemize}
+%     \item Lagerung: Oberkörper hoch
+%   \item Bewegungensverbot, Schonung
+%   \item Beengende Kleidung öffnen
 %     \item \ce{O2}-Gabe gemäß \FullPrettyRef{m:sauerstoffberieselung}
-  \item \II{Nitro-Spray}: Manche Patienten haben einen
-  Nitroglyzerin-Spray (z.\,B. Nitrolingual{\texttrademark})
-  zur Einnahme bei Symptomen eines Akuten Koronarsyndroms
-  verschrieben bekommen. Der Spray soll weiter \E{vom
-  Patienten selbstständig} in der \E{verschriebenen
-  Dosierung} genommen werden, solange der systolische
-  Blutdurck RR\textsubscript{syst}\,{\textgreater}\,100\MmHg*
-  ist. Der Helfer muss sich versichern, dass das Medikament
-  für den jeweiligen Patienten verschrieben wurde und dass
-  die vorgegebene Dosierung eingehalten wird. Eine
-  regelmäßige Blutdruckkontrolle ist notwendig.
-  \item Transportentscheidung: Je nach weiterer (ärztlicher)
-  Diagnostik: Herzkatheterlabor, Kardiologische
-  Intensivstation, \Z{Chest-Pain-Unit zur Überwachung}
-\end{itemize}
+%   \item Bestmögliches Monitoring
+%   \item \II{Nitro-Spray}: Manche Patienten haben einen
+%   Nitroglyzerin-Spray (z.\,B. Nitrolingual{\texttrademark})
+%   zur Einnahme bei Symptomen eines Akuten Koronarsyndroms
+%   verschrieben bekommen. Der Spray soll weiter \E{vom
+%   Patienten selbstständig} in der \E{verschriebenen
+%   Dosierung} genommen werden, solange der systolische
+%   Blutdurck RR\textsubscript{syst}\,{\textgreater}\,100\MmHg*
+%   ist. Der Helfer muss sich versichern, dass das Medikament
+%   für den jeweiligen Patienten verschrieben wurde und dass
+%   die vorgegebene Dosierung eingehalten wird. Eine
+%   regelmäßige Blutdruckkontrolle ist notwendig.
+%   \item Transportentscheidung: Abt. f. Innere Medizin
+% \end{itemize}
+% }
 
-\cite{AsboeLehrmeinungRd2011-04}
-\Commentary[Akutes Koronarsyndrom, Nitro-Spray] {Die
-Empfehlung, den Patienten \EE{seinen} Nitro-Spray weiterhin
-\EE{selbstständig} nehmen zu lassen, ist im Konsens
-getroffen worden. Wurde der Spray extra für diese Situation
-(was anzunehmen ist) verschrieben, so würde ein vom
-Sanitäter ausgesprochenes Einnahmeverbot in die ärztliche
-Verschreibung unbotmäßig eingreifen. Lediglich bei
-Vorhandensein von komplizierenden Umständen (Patient ist
-zur selbstständigen Einnahme nicht mehr fähig, Hypotonie)
-soll eine Einnahme verwehrt werden.\ParBugfix
-Ein "`Nitro-Kollaps"' ist bei Patienten mit einer
-Nitro-Verschreibung aufgrund des Gewöhnungseffektes nicht
-zu erwarten.
-Dennoch soll eine besondere Betonung auf die
-gefäßerweiternde, und damit blutdrucksenkende Wirkung gelegt werden.}
-}
+\MassnahmenMK{Spezielle Maßnahmen}{Akutes Koronarsyndrom}
+{m:akutes-koronarsyndrom}
+{Vitale Bedrohung!}{}
+
+% \MassnahmenNG{Spezielle Maßnahmen}{Akutes Koronarsyndrom}
+% {\label{m:akutes-koronarsyndrom}}
+% {%
+% \Ca{NACA V: Vitale Bedrohung!}
+% 
+% \begin{itemize}
+%     \item Lagerung: \EE{Oberkörper hoch}
+%   \item \EE{Striktes Bewegungsverbot!}
+%   \item Beengende Kleidung öffnen
+%   \item \TxMassVit
+% %     \item \ce{O2}-Gabe gemäß \FullPrettyRef{m:sauerstoffberieselung}
+%   \item \II{Nitro-Spray}: Manche Patienten haben einen
+%   Nitroglyzerin-Spray (z.\,B. Nitrolingual{\texttrademark})
+%   zur Einnahme bei Symptomen eines Akuten Koronarsyndroms
+%   verschrieben bekommen. Der Spray soll weiter \E{vom
+%   Patienten selbstständig} in der \E{verschriebenen
+%   Dosierung} genommen werden, solange der systolische
+%   Blutdurck RR\textsubscript{syst}\,{\textgreater}\,100\MmHg*
+%   ist. Der Helfer muss sich versichern, dass das Medikament
+%   für den jeweiligen Patienten verschrieben wurde und dass
+%   die vorgegebene Dosierung eingehalten wird. Eine
+%   regelmäßige Blutdruckkontrolle ist notwendig.
+%   \item Transportentscheidung: Je nach weiterer (ärztlicher)
+%   Diagnostik: Herzkatheterlabor, Kardiologische
+%   Intensivstation, \Z{Chest-Pain-Unit zur Überwachung}
+% \end{itemize}
+% 
+% \cite{AsboeLehrmeinungRd2011-04}
+% \Commentary[Akutes Koronarsyndrom, Nitro-Spray] {Die
+% Empfehlung, den Patienten \EE{seinen} Nitro-Spray weiterhin
+% \EE{selbstständig} nehmen zu lassen, ist im Konsens
+% getroffen worden. Wurde der Spray extra für diese Situation
+% (was anzunehmen ist) verschrieben, so würde ein vom
+% Sanitäter ausgesprochenes Einnahmeverbot in die ärztliche
+% Verschreibung unbotmäßig eingreifen. Lediglich bei
+% Vorhandensein von komplizierenden Umständen (Patient ist
+% zur selbstständigen Einnahme nicht mehr fähig, Hypotonie)
+% soll eine Einnahme verwehrt werden.\ParBugfix
+% Ein "`Nitro-Kollaps"' ist bei Patienten mit einer
+% Nitro-Verschreibung aufgrund des Gewöhnungseffektes nicht
+% zu erwarten.
+% Dennoch soll eine besondere Betonung auf die
+% gefäßerweiternde, und damit blutdrucksenkende Wirkung gelegt werden.}
+% }
 
 
 \Layout{0}{Weitere Therapie}
@@ -1293,27 +1299,29 @@ Infarkt aber gut möglich. } entsteht.
 
 
 
+\MassnahmenMK{Spezielle Maßnahmen}{Tachykarde Attacke}
+{m:tachykarde-attacke}
+{}{}
 
-
-\MassnahmenNG{Spezielle Maßnahmen}{Tachykarde Attacke}{}{
-\begin{itemize}
-    \item Lagerung: \EE{Oberkörper hoch}
-  \item Striktes \EE{Bewegungsverbot!}
-  \item Beengende Kleidung öffnen
-    \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
-  \item \TxBeiVit \TxMassVitBes
-  \begin{itemize}
-    \item Notarzt: Eine medikamentöse Therapie ist meistens
-    erforderlich.
-  \end{itemize}
-  \item Psychische Betreuung! Oase der Ruhe schaffen.
-  \item Wenn der Patient versorgt ist (d.h. alle obigen Punkte erfüllt
-  wurden) soll -- wenn möglich -- ein \E{EKG}
-  (Extremitätenableitung, \prettyref{topic:ekg}) abgeleitet werden. Der
-  Ausdruck dient v.a. der \E{Dokumentation} und der Information für das
-  nachbehandelnde Personal (Notarzt, Spital, Facharzt, \ldots).
-\end{itemize}
-}
+% \MassnahmenNG{Spezielle Maßnahmen}{Tachykarde Attacke}{}{
+% \begin{itemize}
+%     \item Lagerung: \EE{Oberkörper hoch}
+%   \item Striktes \EE{Bewegungsverbot!}
+%   \item Beengende Kleidung öffnen
+%     \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
+%   \item \TxBeiVit \TxMassVitBes
+%   \begin{itemize}
+%     \item Notarzt: Eine medikamentöse Therapie ist meistens
+%     erforderlich.
+%   \end{itemize}
+%   \item Psychische Betreuung! Oase der Ruhe schaffen.
+%   \item Wenn der Patient versorgt ist (d.h. alle obigen Punkte erfüllt
+%   wurden) soll -- wenn möglich -- ein \E{EKG}
+%   (Extremitätenableitung, \prettyref{topic:ekg}) abgeleitet werden. Der
+%   Ausdruck dient v.a. der \E{Dokumentation} und der Information für das
+%   nachbehandelnde Personal (Notarzt, Spital, Facharzt, \ldots).
+% \end{itemize}
+% }
 
 
 
@@ -1429,41 +1437,48 @@ dazugelegt hätte \ldots
 }{}{}{}
 
 
-\MassnahmenNG{Spezielle Maßnahmen}{Kollaps/Synkope}{}{
-\EE{Taktik}: \Speech{Ausführliche Untersuchung und
-symptomatische Behandlung 
-\Ca{Verwechslung mit lebensbedrohlichen Differentialdiagnosen möglich!}}
 
-\begin{itemize}
-  \item Vitale Bedrohung einschätzen, auf \EE{Differentialdiagnosen} untersuchen, z.\,B.:
-  \begin{compactitem}
-    \item Insult
-    \item Herzrhytmusstörungen
-    \item Akutes Koronarsyndrom (evtl. schmerzlos!)
-    \item Krampfanfall
-    \item Schädel-Hirn-Trauma (SHT)
-    \item Zuckerstoffwechselstörung (Hyper-, Hypoglykämie)
-    \item Exsikkose
-    \item \ldots
-  \end{compactitem}
-  Es sind dabei alle zur Verfügung stehenden
-  Möglichkeiten auszuschöpfen, z.\,B.:
-  \begin{compactitem}
-    \item Traumacheck (Sturz?),
-    \item Neurocheck inkl. Blutzuckermessung,
-    \item Temperatur,
-    \item Ausführliche Anamnese bzw. Fremdanamnese 
-    \item \ldots
-  \end{compactitem}
-  \item \EE{Ursachenforschung} (Begleiterkrankungen (Infekt, \ldots), letzte Mahlzeit, Hitze, \ldots)
-  \item Lagerung: Nach Ausschluss von Herzbeschwerden,
-  Atemnot und relevanten Verletzungen: Beine hoch
-  \item Transportentscheidung: Hospitalisierung zur Abklärung
-  anstreben\newline
-  Abteilung: Innere Medizin
-\end{itemize}
+\MassnahmenMK{Spezielle
+Maßnahmen}{Kollaps/Synkope}{m:kollaps}{\EE{Taktik}:
+\Speech{Ausführliche Untersuchung und symptomatische Behandlung 
+\Ca{Verwechslung mit lebensbedrohlichen
+Differentialdiagnosen möglich!}}}{}
 
-}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Kollaps/Synkope}{\label{m:kollaps}}{ \EE{Taktik}:
+% \Speech{Ausführliche Untersuchung und symptomatische Behandlung 
+% \Ca{Verwechslung mit lebensbedrohlichen Differentialdiagnosen möglich!}}
+% 
+% \begin{itemize}
+%   \item Vitale Bedrohung einschätzen, auf \EE{Differentialdiagnosen} untersuchen, z.\,B.:
+%   \begin{compactitem}
+%     \item Insult
+%     \item Herzrhytmusstörungen
+%     \item Akutes Koronarsyndrom (evtl. schmerzlos!)
+%     \item Krampfanfall
+%     \item Schädel-Hirn-Trauma (SHT)
+%     \item Zuckerstoffwechselstörung (Hyper-, Hypoglykämie)
+%     \item Exsikkose
+%     \item \ldots
+%   \end{compactitem}
+%   Es sind dabei alle zur Verfügung stehenden
+%   Möglichkeiten auszuschöpfen, z.\,B.:
+%   \begin{compactitem}
+%     \item Traumacheck (Sturz?),
+%     \item Neurocheck inkl. Blutzuckermessung,
+%     \item Temperatur,
+%     \item Ausführliche Anamnese bzw. Fremdanamnese 
+%     \item \ldots
+%   \end{compactitem}
+%   \item \EE{Ursachenforschung} (Begleiterkrankungen (Infekt, \ldots), letzte Mahlzeit, Hitze, \ldots)
+%   \item Lagerung: Nach Ausschluss von Herzbeschwerden,
+%   Atemnot und relevanten Verletzungen: Beine hoch
+%   \item Transportentscheidung: Hospitalisierung zur Abklärung
+%   anstreben\newline
+%   Abteilung: Innere Medizin
+% \end{itemize}
+% 
+% }
 
 \subsection{Hypertonie}
 \label{topic:hypertonie}
@@ -1650,47 +1665,54 @@ entscheidendes Kriterium.
 % Renz-Polster2006 p442
 % IntroClinEmergMed4 Kap. 28, p 393
 
+\MassnahmenMK{Spezielle Maßnahmen}{Hypertensive
+Krise}{m:hypertensive-krise} {%
+\EE{Taktik}: \Speech{Symptomatische Therapie}}{}
 
+% \MassnahmenNG{Spezielle Maßnahmen}{Hypertensive Krise}{\label{m:hypertensive-krise}}
+% {%
+% \EE{Taktik}: \Speech{Symptomatische Therapie}
+% 
+% \begin{itemize}
+%   \item Lagerung: Oberkörper hoch
+%   \\
+%   Bei Nasenbluten: Kopf nach vorne halten.
+%   \item Beengende Kleidung öffnen
+%   \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
+%   \item Transportentscheidung: Abt. f. Innere Medizin; 
+%   
+%   bei Nasenbluten: HNO im Hintergrund
+% \end{itemize}
+% Eine notfallmäßige Blutdrucksenkung ist \E{nicht}
+% erforderlich. }
 
-\MassnahmenNG{Spezielle Maßnahmen}{Hypertensive Krise}{\label{m:hypertensive-krise}}
-{%
-\EE{Taktik}: \Speech{Symptomatische Therapie}
-
-\begin{itemize}
-  \item Lagerung: Oberkörper hoch
-  \\
-  Bei Nasenbluten: Kopf nach vorne halten.
-  \item Beengende Kleidung öffnen
-  \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
-  \item Transportentscheidung: Abt. f. Innere Medizin; 
-  
-  bei Nasenbluten: HNO im Hintergrund
-\end{itemize}
-Eine notfallmäßige Blutdrucksenkung ist \E{nicht}
-erforderlich. }
-
-\MassnahmenNG{Spezielle Maßnahmen}{Hypertensiver Notfall}{\label{m:hypertensiver-notfall}}
-{
+\MassnahmenMK{Spezielle Maßnahmen}{Hypertensiver
+Notfall}{m:hypertensiver-notfall} {
 \EE{Taktik}: \Speech{\Ca{Vitale Bedrochung!}
-Rasche Blutdrucksenkung (veranlassen)}
+Rasche Blutdrucksenkung (veranlassen)}}{}
 
-\begin{itemize}
-    \item Lagerung: Oberkörper hoch
-    \\
-    Bei Nasenbluten: Kopf nach vorne halten.
-  \item Beengende Kleidung öffnen
-  \item \TxMassVit
-\end{itemize}
-
-\Customized{
-\begin{description}
-  \item[\CustAsbLvWien, \CustAsbFlo] \Abk{NFS} dürfen lt.
-Algorithmus Nitro-Spray verabreichen. Ist die Gabe
-erfolgreich, kann u.\,U. von der Anforderung eines Notarztes
-abgesehen werden.
-\end{description}
-}
-}
+% \MassnahmenNG{Spezielle Maßnahmen}{Hypertensiver Notfall}{\label{m:hypertensiver-notfall}}
+% {
+% \EE{Taktik}: \Speech{\Ca{Vitale Bedrochung!}
+% Rasche Blutdrucksenkung (veranlassen)}
+% 
+% \begin{itemize}
+%     \item Lagerung: Oberkörper hoch
+%     \\
+%     Bei Nasenbluten: Kopf nach vorne halten.
+%   \item Beengende Kleidung öffnen
+%   \item \TxMassVit
+% \end{itemize}
+% 
+% \Customized{
+% \begin{description}
+%   \item[\CustAsbLvWien, \CustAsbFlo] \Abk{NFS} dürfen lt.
+% Algorithmus Nitro-Spray verabreichen. Ist die Gabe
+% erfolgreich, kann u.\,U. von der Anforderung eines Notarztes
+% abgesehen werden.
+% \end{description}
+% }
+% }
 
 
 \bigskip
@@ -1867,18 +1889,25 @@ englischen P's"'})}.
 }{}{}{}
 
 
-\MassnahmenNG{Spezielle Maßnahmen}{Arterieller Gefäßverschluss}{}{
-\EE{Taktik}: \Speech{Symptomatische Therapie und zügiger
-Transport an geeignete Einrichtung}
+\MassnahmenMK{Spezielle Maßnahmen}{Arterieller
+Gefäßverschluss}{m:arterieller-gefaessverschluss}{
+\EE{Taktik}:
+\Speech{Symptomatische Therapie und zügiger Transport an
+geeignete Einrichtung}}{}
 
-\begin{itemize}
-  \item Lagerung: Extremität hängen lassen, weich und warm lagern
-  \item Schonend transportieren
-  \item Nüchtern
-  \item Transportentscheidung: Abteilung für Chirurgie
-  (Gefäßchirurgie)
-\end{itemize}
-}
+% \MassnahmenNG{Spezielle Maßnahmen}{Arterieller
+% Gefäßverschluss}{\label{m:arterieller-gefaessverschluss}}{
+% \EE{Taktik}:
+% \Speech{Symptomatische Therapie und zügiger Transport an geeignete Einrichtung}
+% 
+% \begin{itemize}
+%   \item Lagerung: Extremität hängen lassen, weich und warm lagern
+%   \item Schonend transportieren
+%   \item Nüchtern
+%   \item Transportentscheidung: Abteilung für Chirurgie
+%   (Gefäßchirurgie)
+% \end{itemize}
+% }
 
 \subsection{Tiefe Venenthrombose}
 \label{topic:venenthrombose}
@@ -2006,20 +2035,22 @@ entstehen können. Die Substanz wird unter die Haut ("`subkutan"') gespritzt.
 \end{figure}
 
 
+\MassnahmenMK{Spezielle
+Maßnahmen}{Beinvenenthrombose}{m:beinvenenthrombose}{
+\EE{Taktik}: \Speech{Symptomatische Therapie}}{}
 
 
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Beinvenenthrombose}{\label{m:beinvenenthrombose}}{
+% \EE{Taktik}: \Speech{Symptomatische Therapie}
+% 
+% \begin{itemize}
+%   \item Lagerung:  liegend, betroffenes Bein hochlagern
+%   \item Bewegungsverbot (Emboliegefahr!)
+%   \item Auf Zeichen einer Lungenembolie achten (\FullPrettyRef{topic:lungenembolie})
+% \end{itemize}
+% }
 
-\MassnahmenNG{Spezielle Maßnahmen}{Beinvenenthrombose}{}{
-\EE{Taktik}: \Speech{Symptomatische Therapie}
-
-\begin{itemize}
-  \item Lagerung:  liegend, betroffenes Bein hochlagern
-  \item Bewegungsverbot (Emboliegefahr!)
-  \item Auf Zeichen einer Lungenembolie achten (\FullPrettyRef{topic:lungenembolie})
-\end{itemize}
-}
-
-\clearpage % TEMP temp clearpage
 \chapter
 [\CO{[RSP]} Respiratorische Notfälle]
 {\CC{[RSP]} Respiratorische Notfälle}
@@ -2198,13 +2229,8 @@ Capt. John T. Stamm, USAF / WmCo, PD.}
 
 
 
- 
-
- 
-
-
-\MassnahmenWide{Spezielle Maßnahmen}{Mechanische Atemwegsverlegung}{}
-{%
+\MassnahmenMK{Spezielle Maßnahmen}{Mechanische
+Atemwegsverlegung}{m:atemwegsverlegung} {%
 \EE{Taktik}: 
 
 
@@ -2213,68 +2239,83 @@ möglich rasche Entfernung des Fremdkörpers.
 \\
 Mild: Symptomatische
 Therapie}
+}{}
 
-\begin{itemize}
-  \item Atemwege soweit möglich freimachen
-  \item \ce{O2}-Gabe hochdosiert (10\LPerMin*, bei Bedarf
-  bis zu 15\LPerMin*)
-  \item Lagerung: Situationsgerecht, z.\,B. Oberkörper erhöht
-  \item \TxBeiVit \TxMassVit
-  \item Weitere Maßnahmen abhängig von der Beurteilung der
-  Schwere der Atemwegsverlegung:
-\end{itemize}
+ 
 
-\noindent\begin{tabularx}{\linewidth}{XXX}
-\toprule\addlinespace
-\multicolumn{3}{c}{\TabSub{Beurteilung der Schwere der Atemwegsverlegung}}
-\\\addlinespace\midrule\addlinespace
-\TabSub{Schwer}
 
-Kann nicht sprechen
-
-Hustet ineffektiv
-&
-&
-\TabSub{Mild}
-
-Kann sprechen
-
-Hustet effektiv
-\\\addlinespace\cmidrule(lr){1-2}\cmidrule(lr){3-3}\addlinespace
-\TabSub{Ohne Bewusstsein}
-&
-\TabSub{Bei Bewusstsein}
-&
-\TabSub{Bei Bewusstsein}
-\\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}\cmidrule(lr){3-3}\addlinespace
-5 Initialbeatmungen
-
-Reanimation
-&
-5 Schläge zwischen Schulterblätter
-
-5 Heimlich-Manöver (\textgreater{}\,1\,a) oder Thoraxkompressionen
-(\textless{}\,1\,a)
-
-Wiederholung 
-&
-Husten lassen
-
-Überwachung
-\\\addlinespace\bottomrule\addlinespace
-\end{tabularx}
-
-Bei Schlägen
-    zwischen die Schulterplätter soll der Patient
-    nach Möglichkeit abwärts schauen (besonders relevant
-    bei Kindern).
-
-Durch Anwendung des Heimlich-Handgriffes kann es zu
-schweren inneren Verletzungen kommen. Ein Patient ist
-nach Anwendung unbedingt zu hospitalisieren!
-
-\citep{Erc2005DeSec2}
-}
+% \MassnahmenWide{Spezielle Maßnahmen}{Mechanische
+% Atemwegsverlegung}{\label{m:atemwegsverlegung}} {%
+% \EE{Taktik}: 
+% 
+% 
+% \Speech{Schwer: \Ca{Vitale Bedrohung!} Zeitkritisch; wenn
+% möglich rasche Entfernung des Fremdkörpers. 
+% \\
+% Mild: Symptomatische
+% Therapie}
+% 
+% \begin{itemize}
+%   \item Atemwege soweit möglich freimachen
+%   \item \ce{O2}-Gabe hochdosiert (10\LPerMin*, bei Bedarf
+%   bis zu 15\LPerMin*)
+%   \item Lagerung: Situationsgerecht, z.\,B. Oberkörper erhöht
+%   \item \TxBeiVit \TxMassVit
+%   \item Weitere Maßnahmen abhängig von der Beurteilung der
+%   Schwere der Atemwegsverlegung:
+% \end{itemize}
+% 
+% \noindent\begin{tabularx}{\linewidth}{XXX}
+% \toprule\addlinespace
+% \multicolumn{3}{c}{\TabSub{Beurteilung der Schwere der Atemwegsverlegung}}
+% \\\addlinespace\midrule\addlinespace
+% \TabSub{Schwer}
+% 
+% Kann nicht sprechen
+% 
+% Hustet ineffektiv
+% &
+% &
+% \TabSub{Mild}
+% 
+% Kann sprechen
+% 
+% Hustet effektiv
+% \\\addlinespace\cmidrule(lr){1-2}\cmidrule(lr){3-3}\addlinespace
+% \TabSub{Ohne Bewusstsein}
+% &
+% \TabSub{Bei Bewusstsein}
+% &
+% \TabSub{Bei Bewusstsein}
+% \\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}\cmidrule(lr){3-3}\addlinespace
+% 5 Initialbeatmungen
+% 
+% Reanimation
+% &
+% 5 Schläge zwischen Schulterblätter
+% 
+% 5 Heimlich-Manöver (\textgreater{}\,1\,a) oder Thoraxkompressionen
+% (\textless{}\,1\,a)
+% 
+% Wiederholung 
+% &
+% Husten lassen
+% 
+% Überwachung
+% \\\addlinespace\bottomrule\addlinespace
+% \end{tabularx}
+% 
+% Bei Schlägen
+%     zwischen die Schulterplätter soll der Patient
+%     nach Möglichkeit abwärts schauen (besonders relevant
+%     bei Kindern).
+% 
+% Durch Anwendung des Heimlich-Handgriffes kann es zu
+% schweren inneren Verletzungen kommen. Ein Patient ist
+% nach Anwendung unbedingt zu hospitalisieren!
+% 
+% \citep{Erc2005DeSec2}
+% }
 
 % \Layout{2}{\dsliterary}{%
 \nocite{Wuttig2009}
@@ -2427,53 +2468,59 @@ asthmaticus kann tödlich enden.
 %     \AuthNotesPicLegalNotOk{copd-bronchus}{}}
 % \end{figure}
 
-
-
-\MassnahmenNG{Spezielle Maßnahmen}{Akuter Asthmaanfall}
-{\label{m:asthmaanfall}}{
+\MassnahmenMK{Spezielle Maßnahmen}{Akuter Asthmaanfall}
+{m:asthmaanfall}{
 \EE{Taktik}: \Speech{Linderung der Atemnot und rasche
 medikamentöse Therapie \Ca{Vitale Bedrohung im Falle
 bleibender schwerer Atemnot bzw. Status asthmaticus}
 }
+ }{}
 
-\begin{itemize}
-  \item Lagerung: \EE{Oberkörper hoch}, abstützen lassen
-  (Unterstützung der Atemhilfsmuskulatur)
-  \item \ce{O2}-Gabe gemäß
-  \prettyref{m:sauerstoffberieselung} 
-  
-  {Achtung: In seltenen Fällen
-  kann es vorkommen, dass bei hochdosierter
-  Sauerstoffgabe der Patient weniger atmet und
-  Bewusstseinsstörungen auftreten (\ce{CO2}-Narkose)! Siehe
-  "`\Abk{COPD}"' (\prettyref{topic:copd}). Bei sorgfältiger
-  Überwachung des Patienten stellt die \ce{O2}-Gabe in der
-  Praxis jedoch kein Problem
-  dar \citep{ScholzNotfallmedizin2}.}
-  \hfill\Commentary[Asthma, Sauerstoffgabe]{Asthma:
-  \protect\ce{O2} bis eine Sauerstoffsättigung von \VonBis{94}{98}\PC* erreicht ist, oder 8\LPerMin*, gem.
-  \cite{AsboeLehrmeinungRd2011-11}. Die einschlägige
-  Literatur ist widersprüchlich. Besonderes betont muss die Notwendigkeit zur Überwachung des
-  Patienten bezüglich Bewusstseinsstörungen und Atmung
-  werden!)}
-  \item Beruhigen, voratmen, durch fast
-  geschlossene Lippen ausatmen lassen (Lippenbremse)
-  \item Sprays, die Patient evtl. bei sich hat, dürfen
-  nicht mehr genommen werden.
-  \hfill\Commentary[Asthma / Spray]{Oft stellt sich die
-  Frage "`Darf der Patient seinen (vom Arzt vielleicht gerade für
-  diese Situation verschriebenen) Spray nehmen?"'
-  Grundsätzlich soll beim schweren Asthma-Anfall davon
-  abgesehen werden, "`blind"' ein inhalatives Beta-Mimetikum
-  zu geben, das zweifelhaft ist, ob die Luftpassage
-  ausreicht, umd den Wirkstoff in die Lunge zu befördern.
-  Eine generelle Freigabe, verschriebene Srpays einzunehmen,
-  kann in Anbetracht der Nebenwirkungen bei
-  Schleimhautresorption nicht gegeben werden.}
-\end{itemize}
-
-\cite{AsboeLehrmeinungRd2011-11}
- }
+% \MassnahmenNG{Spezielle Maßnahmen}{Akuter Asthmaanfall}
+% {\label{m:asthmaanfall}}{
+% \EE{Taktik}: \Speech{Linderung der Atemnot und rasche
+% medikamentöse Therapie \Ca{Vitale Bedrohung im Falle
+% bleibender schwerer Atemnot bzw. Status asthmaticus}
+% }
+% 
+% \begin{itemize}
+%   \item Lagerung: \EE{Oberkörper hoch}, abstützen lassen
+%   (Unterstützung der Atemhilfsmuskulatur)
+%   \item \ce{O2}-Gabe gemäß
+%   \prettyref{m:sauerstoffberieselung} 
+%   
+%   {Achtung: In seltenen Fällen
+%   kann es vorkommen, dass bei hochdosierter
+%   Sauerstoffgabe der Patient weniger atmet und
+%   Bewusstseinsstörungen auftreten (\ce{CO2}-Narkose)! Siehe
+%   "`\Abk{COPD}"' (\prettyref{topic:copd}). Bei sorgfältiger
+%   Überwachung des Patienten stellt die \ce{O2}-Gabe in der
+%   Praxis jedoch kein Problem
+%   dar \citep{ScholzNotfallmedizin2}.}
+%   \hfill\Commentary[Asthma, Sauerstoffgabe]{Asthma:
+%   \protect\ce{O2} bis eine Sauerstoffsättigung von \VonBis{94}{98}\PC* erreicht ist, oder 8\LPerMin*, gem.
+%   \cite{AsboeLehrmeinungRd2011-11}. Die einschlägige
+%   Literatur ist widersprüchlich. Besonderes betont muss die Notwendigkeit zur Überwachung des
+%   Patienten bezüglich Bewusstseinsstörungen und Atmung
+%   werden!)}
+%   \item Beruhigen, voratmen, durch fast
+%   geschlossene Lippen ausatmen lassen (Lippenbremse)
+%   \item Sprays, die Patient evtl. bei sich hat, dürfen
+%   nicht mehr genommen werden.
+%   \hfill\Commentary[Asthma / Spray]{Oft stellt sich die
+%   Frage "`Darf der Patient seinen (vom Arzt vielleicht gerade für
+%   diese Situation verschriebenen) Spray nehmen?"'
+%   Grundsätzlich soll beim schweren Asthma-Anfall davon
+%   abgesehen werden, "`blind"' ein inhalatives Beta-Mimetikum
+%   zu geben, das zweifelhaft ist, ob die Luftpassage
+%   ausreicht, umd den Wirkstoff in die Lunge zu befördern.
+%   Eine generelle Freigabe, verschriebene Srpays einzunehmen,
+%   kann in Anbetracht der Nebenwirkungen bei
+%   Schleimhautresorption nicht gegeben werden.}
+% \end{itemize}
+% 
+% \cite{AsboeLehrmeinungRd2011-11}
+%  }
 
 \Layout{22}{}
 {%
@@ -2657,35 +2704,39 @@ der \index{COPD!Atemantrieb}Atemantrieb und der Patient kann
 \SymbolText
 }{}{}{}
 
-
-
-
 \MassnahmenNG{Spezielle Maßnahmen}{COPD-Exazerbation}{}{
 \EE{Taktik}: \Speech{Linderung der Atemnot und rasche
 medikamentöse Therapie \Ca{Vitale Bedrohung bei anhaltender
 schwerer Atemnot!}}
+}{}
 
-\begin{itemize}
-  \item
-  \TxBeiVit \TxMassVit 
-  \item \EE{\ce{O2}-Gabe:} \Ca{Ausnahme!}
-  
-  \E{Sauerstoff vorsichtig dosieren,
-  anfänglich nur \EE{\VonBis{2}{3}{\LPerMin*}}. Wenn der
-  Patient bereits Heimsauerstoff benutzt, 
-  \VonBis{1}{2}\LPerMin* höher zu dosieren.   
-  Heimsauerstoff soll jedenfalls weiter gegeben werden! }
-  
-  \EE{Atmung
-  und Bewusstsein müssen bei der \ce{O2}-Gabe besonders
-  sorgfältig überwacht werden!}  
-  \item Lagerung: \EE{Oberkörper hoch}
-  \item Voratmen, \I{Lippenbremse}
-  \item Eigener Spray darf nicht mehr genommen werden
-  
-\end{itemize}
-\AuthNotes{Spray bei COPD -- Regelung wie bei Nitro??}
-}
+
+% \MassnahmenNG{Spezielle Maßnahmen}{COPD-Exazerbation}{}{
+% \EE{Taktik}: \Speech{Linderung der Atemnot und rasche
+% medikamentöse Therapie \Ca{Vitale Bedrohung bei anhaltender
+% schwerer Atemnot!}}
+% 
+% \begin{itemize}
+%   \item
+%   \TxBeiVit \TxMassVit 
+%   \item \EE{\ce{O2}-Gabe:} \Ca{Ausnahme!}
+%   
+%   \E{Sauerstoff vorsichtig dosieren,
+%   anfänglich nur \EE{\VonBis{2}{3}{\LPerMin*}}. Wenn der
+%   Patient bereits Heimsauerstoff benutzt, 
+%   \VonBis{1}{2}\LPerMin* höher zu dosieren.   
+%   Heimsauerstoff soll jedenfalls weiter gegeben werden! }
+%   
+%   \EE{Atmung
+%   und Bewusstsein müssen bei der \ce{O2}-Gabe besonders
+%   sorgfältig überwacht werden!}  
+%   \item Lagerung: \EE{Oberkörper hoch}
+%   \item Voratmen, \I{Lippenbremse}
+%   \item Eigener Spray darf nicht mehr genommen werden
+%   
+% \end{itemize}
+% \AuthNotes{Spray bei COPD -- Regelung wie bei Nitro??}
+% }
 
 \Layout{2}{\Z{Literatur}}
 {
@@ -2830,21 +2881,25 @@ ebenso das Risiko.}
 % 
 % }{}{}{}
 
-
-\MassnahmenNG{Spezielle Maßnahmen}{Lungenembolie}{}{
-\EE{Taktik}: \Speech{\Ca{Vitale Bedrohung!} Atemnot lindern,
+\MassnahmenMK{Spezielle
+Maßnahmen}{Lungenembolie}{m:lungenembolie}{ \EE{Taktik}: \Speech{\Ca{Vitale Bedrohung!} Atemnot lindern,
 rasche medikamentöse Therapie, ärztliche Therapie sinnvoll}
+}{}
 
-\begin{itemize}
-  \item {\TxMassVitBes}
-  \begin{itemize}
-    \item Lagerung: Oberkörper hoch
-    \item \ce{O2}-Gabe großzügig
-  \end{itemize}
-  \item Striktes Bewegungsverbot!
-  \item Beengende Kleidung öffnen
-\end{itemize}
-}
+% \MassnahmenNG{Spezielle Maßnahmen}{Lungenembolie}{}{
+% \EE{Taktik}: \Speech{\Ca{Vitale Bedrohung!} Atemnot lindern,
+% rasche medikamentöse Therapie, ärztliche Therapie sinnvoll}
+% 
+% \begin{itemize}
+%   \item {\TxMassVitBes}
+%   \begin{itemize}
+%     \item Lagerung: Oberkörper hoch
+%     \item \ce{O2}-Gabe großzügig
+%   \end{itemize}
+%   \item Striktes Bewegungsverbot!
+%   \item Beengende Kleidung öffnen
+% \end{itemize}
+% }
 
 
 \section{Lungenödem}
@@ -2962,44 +3017,56 @@ unmittelbar vital bedroht, ein bestmögliches Monitoring ist jedoch wichtig.
 \end{itemize}
 }{}{}{}
 
+\MassnahmenMK{Spezielle Maßnahmen}{Lungenödem,
+leicht}{m:lungenoedem-leicht}
+{ \EE{Taktik}:
+\Speech{Belastung minimieren, bestmögliches Monitoring}
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{Lungenödem,
+% leicht}{\label{m:lungenoedem-leicht}}
+% { \EE{Taktik}:
+% \Speech{Belastung minimieren, bestmögliches Monitoring}
+% 
+% \begin{itemize}
+%   \item Vitale Bedrohung beurteilen. {\TxBeiVit} Behandlung
+%   wie schweres Lungenöden (\prettyref{m:lungenoedem-schwer})
+%   \item Lagerung: Oberkörper hoch
+%   \item Beengende Kleidung öffnen
+%   \item Bestmögliches Monitoring
+% \end{itemize}
+% }
 
-\MassnahmenNG{Spezielle Maßnahmen}{Lungenödem, leicht}{}{
-\EE{Taktik}: \Speech{Belastung minimieren, bestmögliches
-Monitoring}
-
-\begin{itemize}
-  \item Vitale Bedrohung beurteilen. {\TxBeiVit} Behandlung
-  wie schweres Lungenöden (\prettyref{m:lungenoedem-schwer})
-  \item Lagerung: Oberkörper hoch
-  \item Beengende Kleidung öffnen
-  \item Bestmögliches Monitoring
-\end{itemize}
-}
-
-
-\MassnahmenNG{Spezielle Maßnahmen}{Lungenödem,
-schwer}{\label{m:lungenoedem-schwer}}
+\MassnahmenMK{Spezielle Maßnahmen}{Lungenödem,
+schwer}{m:lungenoedem-schwer}
 {
 \EE{Taktik}: \Speech{\Ca{Vitale Bedrohung}
 Belastung minimieren, rasche
 medikamentöse Therpie (veranlassen); ärztliche Therapie
 notwendig}
-
-\begin{itemize}
-  \item \TxMassVit
-  \begin{itemize}
-    \item Lagerung: Oberkörper hoch, \E{wenn möglich Beine
-    herabhängen lassen}
-
-    Striktes \EE{Bewegungsverbot!}
-    \item  Notarzt!
-    \item Reanimationsbereitschaft!
-  \end{itemize}
-  \item Beengende Kleidung öffnen
-  \item \Z{Evtl. Gabe von Nitroglycerin-Spray durch einen
-  Notfallsanitäter}
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{Lungenödem,
+% schwer}{\label{m:lungenoedem-schwer}}
+% {
+% \EE{Taktik}: \Speech{\Ca{Vitale Bedrohung}
+% Belastung minimieren, rasche
+% medikamentöse Therpie (veranlassen); ärztliche Therapie
+% notwendig}
+% 
+% \begin{itemize}
+%   \item \TxMassVit
+%   \begin{itemize}
+%     \item Lagerung: Oberkörper hoch, \E{wenn möglich Beine
+%     herabhängen lassen}
+% 
+%     Striktes \EE{Bewegungsverbot!}
+%     \item  Notarzt!
+%     \item Reanimationsbereitschaft!
+%   \end{itemize}
+%   \item Beengende Kleidung öffnen
+%   \item \Z{Evtl. Gabe von Nitroglycerin-Spray durch einen
+%   Notfallsanitäter}
+% \end{itemize}
+% }
 
 
 
@@ -3119,25 +3186,31 @@ ein typisches Beispiel dafür
 % \end{itemize}
 % \end{itemize}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Hyperventilationstetanie}{}{
-\EE{Taktik}: \Speech{Beruhigen,
-Differentialdiagnosen ausschließen, symptomatische Therapie}
-
-\begin{itemize}
-  \item Psychische Betreuung: Patient beruhigen, mit ruhiger, langsamer Stimme
-  mit dem Patienten sprechen
-  \item Kommandoatmung
-  \item \ce{CO2}-Rückatmung: In ein Plastiksackerl über kurze Zeit ein- und
-  ausatmen lassen. Ebenso eignet sich eine \EE{\ce{O2}-Maske mit Reservoir} oder ein (puderfreier) 
-  Handschuh.
-  \item Grundsätzlich sollte kein \ce{O2}  verabreicht werden. Aus
-  psychologischen Gründen kann es jedoch sinnvoll sein \EE{\ce{O2} in geringer
-  Dosierung (1\LPerMin*{})} über eine \ce{O2}-Maske zu
-  verabreichen.
-  \item Wenn nicht erfolgreich und Krämpfe bestehen bleiben bzw.
-  Bewusstseinsstörungen auftreten: \TxMassVit 
-\end{itemize}
-}
+\MassnahmenMK{Spezielle
+Maßnahmen}{Hyperventilationssyndrom}{m:Hyperventilationssysndrom}
+{ \EE{Taktik}:
+\Speech{Beruhigen, Differentialdiagnosen ausschließen, symptomatische Therapie}
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Hyperventilationssyndrom}{\label{m:Hyperventilationssysndrom}}
+% { \EE{Taktik}:
+% \Speech{Beruhigen, Differentialdiagnosen ausschließen, symptomatische Therapie}
+% 
+% \begin{itemize}
+%   \item Psychische Betreuung: Patient beruhigen, mit ruhiger, langsamer Stimme
+%   mit dem Patienten sprechen
+%   \item Kommandoatmung
+%   \item \ce{CO2}-Rückatmung: In ein Plastiksackerl über kurze Zeit ein- und
+%   ausatmen lassen. Ebenso eignet sich eine \EE{\ce{O2}-Maske mit Reservoir} oder ein (puderfreier) 
+%   Handschuh.
+%   \item Grundsätzlich sollte kein \ce{O2}  verabreicht werden. Aus
+%   psychologischen Gründen kann es jedoch sinnvoll sein \EE{\ce{O2} in geringer
+%   Dosierung (1\LPerMin*{})} über eine \ce{O2}-Maske zu
+%   verabreichen.
+%   \item Wenn nicht erfolgreich und Krämpfe bestehen bleiben bzw.
+%   Bewusstseinsstörungen auftreten: \TxMassVit 
+% \end{itemize}
+% }
 
 
 
@@ -3441,75 +3514,83 @@ möglich.
 
 }{}{}{}
 
-
-\MassnahmenNG{Spezielle Maßnahmen}{Insult}{}{
-\EE{Taktik}: \Speech{\Ca{Vitale Bedrohung!}
+\MassnahmenMK{Spezielle
+Maßnahmen}{Insult}{\label{m:insult}}
+{\EE{Taktik}: \Speech{\Ca{Vitale Bedrohung!}
 Zeitkritisch (>>\EE{Time is brain.}<<):
 Vitalfunktionen sichern, rascher Transport an eine geeignete Abteilung.}
 
-\begin{itemize}
-  \item \TxMassVitBes
-  \begin{itemize}
-    \item Lagerung: \E{leicht erhöhter Oberkörper}
-%     \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
-    
-    \item Notarzt: Grundsätzlich ist ein
-    Schlaganfall-Patient aufgrund seiner Diagnose als vital
-    bedroht einzustufen. Es gibt jedoch eine Besonderheit:
-    Eine definitive Therapie in einer Spezialabteilung
-    (Stroke Unit) kann andere, noch nicht abgestorbene Teile
-    des Hirns vor weiterem Schaden bewahren, d.\,h. es ist
-    sehr wichtig, dass diese Therapie möglichst schnell
-    erfolgt.
-    
-    Daher soll von einer
-    \EE{Nachberufung eines Notarztes \underline{abgesehen} werden,
-    \E{wenn folgende Umstände gegeben sind}}:
-    \begin{itemize}
-      \item Die Verdachtsdiagnose gilt als \E{sehr sicher}.
-      \item Der Patient ist sonst als \E{stabil} eingestuft
-      (\prettyref{m:ersteinschaetzung}) und
-      bewusstseinsklar\footnote{Bei der Einschätzung des Bewusstseins
-      darf man sich nicht durch die durch den Schlaganfall
-      verursachten Symptome (Sprachstörungen, Blickstarre \ldots)
-      beirren lassen.}.
-      \item Es gibt sonst \E{keine anderen Umstände} die die Berufung
-      eines Notarztes erforderlich machen.
-      \item Es muss versucht werden, eine Aufnahme auf eine
-      \E{Spezialabteilung} für Schlaganfälle zu
-      organisieren\footnote{Der Erfolg ist abhängig von der
-      Verfügbarkeit eines entsprechenden freien Bettes.} (Stroke Unit,
-      Kontaktaufnahme mit der Leitstelle).
-    \end{itemize}
-    \A{HART: Muss es unbedingt eine Spezialabteilung sein?
-    "`bewusstseinsklar"' könnte missverstanden werden.}
-    \A{\par Diskussion: }
-    \ACh{KOCH}{2010-02-13}{ok.}
-    \ACh{HART}{2010-02-13}{Muss es unbedingt eine Spezialabteilung sein?
-    "`bewusstseinsklar"' könnte missverstanden werden.}
-    \ACh{GABS}{2010-02-13}{Fußnote wegen Bewusstseinseinschätzung
-    eingefügt. Spezialabteilung: muss nur \underline{versucht} werden
-    eine Stroke Unit zu organisieren, je nach Verfügbarkeit.}
-    \ACh{GABS/STEU}{2010-04-06}{Ticket 38:
-    Besprechung gestern mit STEU: kann so übernommen werden, sieht
-    allerdings Problem wegen Inkonsistenz und für den Nutzer
-    möglicherweise verwirrender wenn-dann-Verzweigung. Bei Hirnblutung
-    ist das Vorgehen ein Nachteil. (Einwand GABS: Ischämisch häufiger,
-    Abwägung Benefit Narkose, etc. vs. schnelles CT)}
-  \end{itemize}
-  \item \EE{Neurocheck} inkl. Messung des \EE{Blutzuckers}!
-  \item Transportentscheidung: Wenn verfügbar: \EE{Stroke Unit}, sonst
-  Abklärung mit der Leitstelle wegen Alternativen (Abt. für
-  Neurologie oder Innere Medizin, mit Möglichkeit zur
-  Intensivüberwachung).
-  \item Bei Anforderung einer Stroke Unit ist anzugeben:
-  \begin{itemize}
-    \item Alter
-    \item Beginn der Symptome
-    \item Vorherige Schlaganfälle
-   \end{itemize} 
-\end{itemize}
-}
+Achtung: Ausnahme bei der Notarzt-Nachforderung
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Insult}{\label{m:insult}}
+% {\EE{Taktik}: \Speech{\Ca{Vitale Bedrohung!}
+% Zeitkritisch (>>\EE{Time is brain.}<<):
+% Vitalfunktionen sichern, rascher Transport an eine geeignete Abteilung.}
+% 
+% \begin{itemize}
+%   \item \TxMassVitBes
+%   \begin{itemize}
+%     \item Lagerung: \E{leicht erhöhter Oberkörper}
+% %     \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
+%     
+%     \item Notarzt: Grundsätzlich ist ein
+%     Schlaganfall-Patient aufgrund seiner Diagnose als vital
+%     bedroht einzustufen. Es gibt jedoch eine Besonderheit:
+%     Eine definitive Therapie in einer Spezialabteilung
+%     (Stroke Unit) kann andere, noch nicht abgestorbene Teile
+%     des Hirns vor weiterem Schaden bewahren, d.\,h. es ist
+%     sehr wichtig, dass diese Therapie möglichst schnell
+%     erfolgt.
+%     
+%     Daher soll von einer
+%     \EE{Nachberufung eines Notarztes \underline{abgesehen} werden,
+%     \E{wenn folgende Umstände gegeben sind}}:
+%     \begin{itemize}
+%       \item Die Verdachtsdiagnose gilt als \E{sehr sicher}.
+%       \item Der Patient ist sonst als \E{stabil} eingestuft
+%       (\prettyref{m:ersteinschaetzung}) und
+%       bewusstseinsklar\footnote{Bei der Einschätzung des Bewusstseins
+%       darf man sich nicht durch die durch den Schlaganfall
+%       verursachten Symptome (Sprachstörungen, Blickstarre \ldots)
+%       beirren lassen.}.
+%       \item Es gibt sonst \E{keine anderen Umstände} die die Berufung
+%       eines Notarztes erforderlich machen.
+%       \item Es muss versucht werden, eine Aufnahme auf eine
+%       \E{Spezialabteilung} für Schlaganfälle zu
+%       organisieren\footnote{Der Erfolg ist abhängig von der
+%       Verfügbarkeit eines entsprechenden freien Bettes.} (Stroke Unit,
+%       Kontaktaufnahme mit der Leitstelle).
+%     \end{itemize}
+%     \A{HART: Muss es unbedingt eine Spezialabteilung sein?
+%     "`bewusstseinsklar"' könnte missverstanden werden.}
+%     \A{\par Diskussion: }
+%     \ACh{KOCH}{2010-02-13}{ok.}
+%     \ACh{HART}{2010-02-13}{Muss es unbedingt eine Spezialabteilung sein?
+%     "`bewusstseinsklar"' könnte missverstanden werden.}
+%     \ACh{GABS}{2010-02-13}{Fußnote wegen Bewusstseinseinschätzung
+%     eingefügt. Spezialabteilung: muss nur \underline{versucht} werden
+%     eine Stroke Unit zu organisieren, je nach Verfügbarkeit.}
+%     \ACh{GABS/STEU}{2010-04-06}{Ticket 38:
+%     Besprechung gestern mit STEU: kann so übernommen werden, sieht
+%     allerdings Problem wegen Inkonsistenz und für den Nutzer
+%     möglicherweise verwirrender wenn-dann-Verzweigung. Bei Hirnblutung
+%     ist das Vorgehen ein Nachteil. (Einwand GABS: Ischämisch häufiger,
+%     Abwägung Benefit Narkose, etc. vs. schnelles CT)}
+%   \end{itemize}
+%   \item \EE{Neurocheck} inkl. Messung des \EE{Blutzuckers}!
+%   \item Transportentscheidung: Wenn verfügbar: \EE{Stroke Unit}, sonst
+%   Abklärung mit der Leitstelle wegen Alternativen (Abt. für
+%   Neurologie oder Innere Medizin, mit Möglichkeit zur
+%   Intensivüberwachung).
+%   \item Bei Anforderung einer Stroke Unit ist anzugeben:
+%   \begin{itemize}
+%     \item Alter
+%     \item Beginn der Symptome
+%     \item Vorherige Schlaganfälle
+%    \end{itemize} 
+% \end{itemize}
+% }
 
 \subsection{Vom Gehirn ausgehende Krämpfe -- Zerebrale Krampfanfälle}
 \label{topic:zerebrale-krampfanfaelle}
@@ -3768,64 +3849,83 @@ den das Personal selber miterlebt, als Status-Verdächtig.}}
 
 \subsubsection{Maßnahmen}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Krampfender Patient}{}{
-NACA \VonBis{II}{V}: \Ca{Vitale Bedrohung!}
+\MassnahmenMK{Spezielle Maßnahmen}{Krampfender
+Patient}{m:zerebraler-krampfanfall-bestendend}{\Ca{Vitale Bedrohung!}
 
 \EE{Taktik}: \Speech{Verletzungen vermeiden,
 Vitalfunktionen sichern, Abklären ob Status epilepticus
 besteht, Klärung des Herganges (Fremdanamnese!),
 Differentialdiagnosen abklären}
-
-\begin{itemize}
-  \item \TxMassVitBes
-  \begin{itemize}
-    \item Lagerung: sichern. In der Nachschlafphase stabile
-    Seitenlage
-    \begin{itemize}
-      \item Patient vor Verletzungen schützen, Möbel etc. entfernen oder polstern
-      \item NICHT festhalten -- aber sichern, Eigenschutz
-      beachten!\footnote{\textbf{Sichern}: Patient darf
-      nicht von der Trage oder aus dem Bett fallen, der Kopf
-      darf nicht am Boden oder Tischbein anschlagen, etc.}
-    \end{itemize}
-  \end{itemize}
-  \item Besondere Diagnostik:
-  \begin{itemize}
-    \item Neurocheck inkl. Messung des \EE{Blutzuckers}!
-    \item Traumacheck
-    \item Nach \E{jedem Krampanfall}: Einschätzungsblock
-    (\FullPrettyRef{m:einschaetzungsblock}) inkl.
-    Trauma-Untersuchungen
-  \end{itemize}
-  \item Reizabgeschirmter Transport
-  \item Transportentscheidung: Abt.f. Innere Medizin. (evtl. auch
-  Intensivüberwachung)
-\end{itemize}
 }
 
-\MassnahmenNG{Spezielle Maßnahmen}{Nicht-(mehr) krampfender Patient}{}{
-NACA \VonBis{II}{III}, neuerlicher Krampfanfall möglich!
+\MassnahmenMK{Spezielle Maßnahmen}{Nicht-(mehr) krampfender
+Patient}{m:zerebraler-krampfanfall-status-post}{Neuerlicher Krampfanfall möglich!
 
 \EE{Taktik}: \Speech{Abklären ob Status epilepticus
 besteht, Klärung des Herganges (Fremdanamnese!),
 Differentialdiagnosen abklären}
-\begin{itemize}
-  \item Umstände klären und entscheiden ob \EE{Notarzt}
-  notwendig ist:
-  \begin{itemize}
-    \item 2 oder mehr Krampfanfälle innerhalb von 24 Stunden
-    \item Anfälle "`erheblich anders"' als sonst üblich
-    \item Erster Krampfanfall überhaupt
-  \end{itemize}
-  \item Besondere Diagnostik:
-  \begin{itemize}
-    \item Neurocheck inkl. Messung des \EE{Blutzuckers}!
-    \item Traumacheck
-  \end{itemize}
-  \item Reizabgeschirmter Transport
-  \item Transportentscheidung: Abt.f. Innere Medizin.
-\end{itemize}
 }
+% \MassnahmenNG{Spezielle Maßnahmen}{Krampfender
+% Patient}{\label{m:zerebraler-krampfanfall-bestendend}}{ NACA
+% \VonBis{II}{V}:
+% \Ca{Vitale Bedrohung!}
+% 
+% \EE{Taktik}: \Speech{Verletzungen vermeiden,
+% Vitalfunktionen sichern, Abklären ob Status epilepticus
+% besteht, Klärung des Herganges (Fremdanamnese!),
+% Differentialdiagnosen abklären}
+% 
+% \begin{itemize}
+%   \item \TxMassVitBes
+%   \begin{itemize}
+%     \item Lagerung: sichern. In der Nachschlafphase stabile
+%     Seitenlage
+%     \begin{itemize}
+%       \item Patient vor Verletzungen schützen, Möbel etc. entfernen oder polstern
+%       \item NICHT festhalten -- aber sichern, Eigenschutz
+%       beachten!\footnote{\textbf{Sichern}: Patient darf
+%       nicht von der Trage oder aus dem Bett fallen, der Kopf
+%       darf nicht am Boden oder Tischbein anschlagen, etc.}
+%     \end{itemize}
+%   \end{itemize}
+%   \item Besondere Diagnostik:
+%   \begin{itemize}
+%     \item Neurocheck inkl. Messung des \EE{Blutzuckers}!
+%     \item Traumacheck
+%     \item Nach \E{jedem Krampanfall}: Einschätzungsblock
+%     (\FullPrettyRef{m:einschaetzungsblock}) inkl.
+%     Trauma-Untersuchungen
+%   \end{itemize}
+%   \item Reizabgeschirmter Transport
+%   \item Transportentscheidung: Abt.f. Innere Medizin. (evtl. auch
+%   Intensivüberwachung)
+% \end{itemize}
+% }
+% 
+% \MassnahmenNG{Spezielle Maßnahmen}{Nicht-(mehr) krampfender
+% Patient}{\label{m:zerebraler-krampfanfall-status-post}}{
+% NACA \VonBis{II}{III}, neuerlicher Krampfanfall möglich!
+% 
+% \EE{Taktik}: \Speech{Abklären ob Status epilepticus
+% besteht, Klärung des Herganges (Fremdanamnese!),
+% Differentialdiagnosen abklären}
+% \begin{itemize}
+%   \item Umstände klären und entscheiden ob \EE{Notarzt}
+%   notwendig ist:
+%   \begin{itemize}
+%     \item 2 oder mehr Krampfanfälle innerhalb von 24 Stunden
+%     \item Anfälle "`erheblich anders"' als sonst üblich
+%     \item Erster Krampfanfall überhaupt
+%   \end{itemize}
+%   \item Besondere Diagnostik:
+%   \begin{itemize}
+%     \item Neurocheck inkl. Messung des \EE{Blutzuckers}!
+%     \item Traumacheck
+%   \end{itemize}
+%   \item Reizabgeschirmter Transport
+%   \item Transportentscheidung: Abt.f. Innere Medizin.
+% \end{itemize}
+% }
 
 
 
@@ -4196,35 +4296,42 @@ Diagnosen!}}
 
 
 
-
-\MassnahmenNG{Spezielle Maßnahmen}{Hypoglykämie}{}{
-NACA \VonBis{II}{V}: Vitale Bedrohung je nach
-Bewusstseinsgrad
+\MassnahmenMK{Spezielle
+Maßnahmen}{Hypoglykämie}{m:hypoglykaemie}
+{Vitale
+Bedrohung je nach Bewusstseinsgrad
 
 \EE{Taktik}: \Speech{Zucker zuführen}
-\begin{itemize}
-  \item Vitale Bedrohung einschätzen. \TxBeiVit \TxMassVit
-  
-  \item BZ messen! Zur Diagnosestellung bzw. \E{vor} und \E{nach}
-  jeder Zuckergabe
-  \item Zucker zuführen: Wenn der Patient bewusstseinsklar
-  ist, Traubenzucker oder Zuckerwasser geben. Danach "`feste
-  Speisen"' nachessen lassen, da der Traubenzucker nur eine
-  kurze Wirkdauer hat.
-  
-  Wenn der Patient nicht mehr bewusstseinsklar ist, kann die
-  Zuckergabe nur über eine venöse Gabe, z.\,B. durch einen
-  Notrazt oder NKV, erfolgen (getrübte Patienten dürfen
-  aufgrund der Aspirationsgefahr nichts mehr essen).
-\end{itemize}
-\Customized{
-\begin{description}
-  \item[\CustAsboe, \CustAsbLvWien, \CustAsbFlo] Die Gabe
-  von intravenöser Glukose ist u.\,U. durch NKV vorgesehen
-  \cite{Asb921Memo-AL-2011-000001}.
-\end{description}
-}
-}
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Hypoglykämie}{\label{m:hypoglykaemie}}
+% {Vitale
+% Bedrohung je nach Bewusstseinsgrad
+% 
+% \EE{Taktik}: \Speech{Zucker zuführen}
+% \begin{itemize}
+%   \item Vitale Bedrohung einschätzen. \TxBeiVit \TxMassVit
+%   
+%   \item BZ messen! Zur Diagnosestellung bzw. \E{vor} und \E{nach}
+%   jeder Zuckergabe
+%   \item Zucker zuführen: Wenn der Patient bewusstseinsklar
+%   ist, Traubenzucker oder Zuckerwasser geben. Danach "`feste
+%   Speisen"' nachessen lassen, da der Traubenzucker nur eine
+%   kurze Wirkdauer hat.
+%   
+%   Wenn der Patient nicht mehr bewusstseinsklar ist, kann die
+%   Zuckergabe nur über eine venöse Gabe, z.\,B. durch einen
+%   Notrazt oder NKV, erfolgen (getrübte Patienten dürfen
+%   aufgrund der Aspirationsgefahr nichts mehr essen).
+% \end{itemize}
+% \Customized{
+% \begin{description}
+%   \item[\CustAsboe, \CustAsbLvWien, \CustAsbFlo] Die Gabe
+%   von intravenöser Glukose ist u.\,U. durch NKV vorgesehen
+%   \cite{Asb921Memo-AL-2011-000001}.
+% \end{description}
+% }
+% }
 
 % \clearpage % TEMP temp clearpage
 \subsubsection{Hyperglykämie}
@@ -4362,19 +4469,26 @@ Atemgeruch wahrgenommen werden. Dieser darf nicht mit einer
 }{}{}{}
 
 
-
-\MassnahmenNG{Spezielle Maßnahmen}{Hyperglykämisches Koma}{}{
+\MassnahmenNG{Spezielle Maßnahmen}{Hyperglykämisches
+Koma}{\label{m:hyperglykaemisches-koma}}
+{
 \EE{Taktik}: \Speech{\Ca{Vitale Bedrochung!}
 Sichern der Vitalfunktionen}
-
-\begin{itemize}
-  \item \TxMassVitBes
-  \begin{itemize}
-    \item Lagerung: Stabile Seitenlage
-%     \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
-  \end{itemize}
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{Hyperglykämisches
+% Koma}{\label{m:hyperglykaemisches-koma}}
+% {
+% \EE{Taktik}: \Speech{\Ca{Vitale Bedrochung!}
+% Sichern der Vitalfunktionen}
+% 
+% \begin{itemize}
+%   \item \TxMassVitBes
+%   \begin{itemize}
+%     \item Lagerung: Stabile Seitenlage
+% %     \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
+%   \end{itemize}
+% \end{itemize}
+% }
 
 
 
@@ -4531,31 +4645,35 @@ und gefährliche Erkrankungen nach Möglichkeit auszuschließen. Im
 folgenden sind einige häufige Krankheitsbilder beschrieben,
 die \E{erkennbar}  und relativ häufig sind.
 
-\MassnahmenNG{Allgemeine Maßnahmen}{Abdominalerkrankung}
-{\label{m:am-abdominalerkrankungen}}
+\MassnahmenMK{Allgemeine Maßnahmen}{Abdominalerkrankung}
+{m:am-abdominalerkrankungen}
 {
-~
-
-\begin{itemize}
-  \item \EE{Vitale Bedrohung einschätzen.} \TxBeiVit
-  \TxMassVit
-  \item Lagerung: grundsätzlich \EE{bauchdeckenentspannend}
-  (Knierolle, Beine angezogen), oder nach Wunsch des Patienten
-  \item \EE{Nüchtern lassen} (in Hinblick auf möglicherweise
-  bevorstehende Operation, nichts essen oder trinken lassen)
-  %     \item Monitoring. Der Zustand kann sich abrupt
-  %     verschlechtern.
-  \item \EE{Transportentscheidung}: Situationsgerecht,
-  z.\,B. Abt. f. Chirurgie oder Innere Medizin.
-  
-  Bei Kindern Abt. f. Kinderchirurgie oder Abt. f.
-  Kinderheilkunde (je nach Verdachtsdiagnose und regionaler
-  Regelung).
-  
-  Bei weiblichen Patienten Abt. für Gynäkologie (evtl. im
-  "`Hintergrund"') erwägen.
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Allgemeine Maßnahmen}{Abdominalerkrankung}
+% {\label{m:am-abdominalerkrankungen}}
+% {
+% ~
+% 
+% \begin{itemize}
+%   \item \EE{Vitale Bedrohung einschätzen.} \TxBeiVit
+%   \TxMassVit
+%   \item Lagerung: grundsätzlich \EE{bauchdeckenentspannend}
+%   (Knierolle, Beine angezogen), oder nach Wunsch des Patienten
+%   \item \EE{Nüchtern lassen} (in Hinblick auf möglicherweise
+%   bevorstehende Operation, nichts essen oder trinken lassen)
+%   %     \item Monitoring. Der Zustand kann sich abrupt
+%   %     verschlechtern.
+%   \item \EE{Transportentscheidung}: Situationsgerecht,
+%   z.\,B. Abt. f. Chirurgie oder Innere Medizin.
+%   
+%   Bei Kindern Abt. f. Kinderchirurgie oder Abt. f.
+%   Kinderheilkunde (je nach Verdachtsdiagnose und regionaler
+%   Regelung).
+%   
+%   Bei weiblichen Patienten Abt. für Gynäkologie (evtl. im
+%   "`Hintergrund"') erwägen.
+% \end{itemize}
+% }
 
 
 % \clearpage % TEMP temp clearpage
@@ -4568,13 +4686,15 @@ die \E{erkennbar}  und relativ häufig sind.
 \index{Abdomen!akutes|see{Akutes Abdomen}}
 
 
-\Definition{\T{Akutes Abdomen}: Akute lebensbedrohliche
+\Definition{\T{Akutes Abdomen}: Akute
 Erkrankung des Bauchraumes mit plötzlichen, starken
 \EE{Bauchschmerzen} und
-\EE{bretthartem Bauch}. Es sind viele Ursachen  möglich!}
+\EE{bretthartem Bauch}, welche im weiteren Verlauf
+lebensbedrohlich ist. Es sind viele Ursachen möglich!}
 
 \Commentary[Akutes Abdomen, Definition]{Die Definition des
-Akuten Abdomens ist oft nicht ganz eindeutig: Einerseits kann man da\-runter jede plötzlich auftretende
+Akuten Abdomens ist oft nicht ganz eindeutig: Einerseits kann man 
+darunter jede plötzlich auftretende
 Baucherkrankung
 verstehen \citep{Longmore2007,Renz-Polster2006}. 
 
@@ -4613,6 +4733,20 @@ kann kompensiert sein, oder Zeichen von Schwäche zeigen, bis
 hin zu einer Schocksymptomatik (Blutverlust, Sepsis).
 Weitere Symptome sind abhängig von der zu Grunde liegenden
 Erkrankung. 
+
+Diese Auflistung der Symptome ist in der Praxis nicht
+unbedingt vollständig bei einem Patienten nachzuweisen. Die
+Intensität und die Anzahl der angeführten Symptome ist
+einerseits vom Allgemeinzustand, vom Lebensalter, von
+anderen vorbestehenden Erkrankungen des Patienten und der
+Dauer des aktuellen Zustandes abhängig.
+
+Der Patient ist nicht unbedingt unmittelbar vital
+bedroht. Wesentlich nach Eintreffen beim Patienten, ist die
+Beantwortung der Fragen \Speech{\enquote{Wie schlecht, bzw.
+wie gut geht es dem Patienten? Ist der Patient \uline{akut}
+vital bedroht?}}.
+
 } 
 {
 \begin{itemize}
@@ -4629,17 +4763,6 @@ Erkrankung.
 }{}{}{}
 
 
-Diese Auflistung der Symptome ist in der Praxis nicht
-unbedingt vollständig bei einem Patienten nachzuweisen. Die
-Intensität und die Anzahl der angeführten Symptome ist
-einerseits vom Allgemeinzustand, vom Lebensalter, von
-anderen vorbestehenden Erkrankungen des Patienten und der
-Dauer des aktuellen Zustandes abhängig.
-
-Wesentlich nach Eintreffen beim Patienten, ist die
-Beantwortung der Fragen \emph{"`Wie schlecht, bzw. wie gut
-geht es dem Patienten? Ist der Patient akut vital
-bedroht?"'}.
 
 
 \Layout{0}{Ursachen}
@@ -4681,34 +4804,41 @@ entsprechend vielfältig sind auch die Ursachen:
 
 
 
-
-
-\MassnahmenNG{Spezielle Maßnahmen}{Akutes Abdomen}
-{\label{m:akutes-abdomen}}
+\MassnahmenMK{Spezielle Maßnahmen}{Akutes Abdomen}
+{m:akutes-abdomen}{
 \EE{Taktik}: \Speech{Unmittelbare vitale Bedrohung
 einschätzen, sie ist
 abhängig von den Vitalwerten.
 Vermutliche Ursache und Differentialdiagnosen
 abklären, Transport an eine geeignete Abteilung}
+}{}
 
-
-\begin{itemize}
-  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
-  (\prettyref{m:am-abdominalerkrankungen})
-  \item \EE{Vitale Bedrohung einschätzen.} Ggfs.
-  \TxMassVit
-  \item Lagerung: grundsätzlich \EE{bauchdeckenentspannend}
-  (Knierolle, Beine angezogen), oder nach Wunsch des Patienten
-  \item \EE{Nüchtern lassen} (in Hinblick auf möglicherweise
-  bevorstehende Operation, nichts essen oder trinken lassen)
-  \item Monitoring: Der Zustand kann sich abrupt
-  verschlechtern.
-  \item \EE{Transportentscheidung}: Abt. f. \EE{Chirurgie},
-  bei Kindern ${\rightarrow}$ Abt. f. \EE{Kinderheilkunde},
-  bei Frauen evtl. \EE{Gynäkologie} oder Chirurgie mit Abt.
-  f. Gynäkologie im Hintergrund
-\end{itemize}
-}
+% \MassnahmenNG{Spezielle Maßnahmen}{Akutes Abdomen}
+% {\label{m:akutes-abdomen}}{
+% \EE{Taktik}: \Speech{Unmittelbare vitale Bedrohung
+% einschätzen, sie ist
+% abhängig von den Vitalwerten.
+% Vermutliche Ursache und Differentialdiagnosen
+% abklären, Transport an eine geeignete Abteilung}
+% 
+% 
+% \begin{itemize}
+%   \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+%   (\prettyref{m:am-abdominalerkrankungen})
+%   \item \EE{Vitale Bedrohung einschätzen.} Ggfs.
+%   \TxMassVit
+%   \item Lagerung: grundsätzlich \EE{bauchdeckenentspannend}
+%   (Knierolle, Beine angezogen), oder nach Wunsch des Patienten
+%   \item \EE{Nüchtern lassen} (in Hinblick auf möglicherweise
+%   bevorstehende Operation, nichts essen oder trinken lassen)
+%   \item Monitoring: Der Zustand kann sich abrupt
+%   verschlechtern.
+%   \item \EE{Transportentscheidung}: Abt. f. \EE{Chirurgie},
+%   bei Kindern ${\rightarrow}$ Abt. f. \EE{Kinderheilkunde},
+%   bei Frauen evtl. \EE{Gynäkologie} oder Chirurgie mit Abt.
+%   f. Gynäkologie im Hintergrund
+% \end{itemize}
+% }
 
 
 \subsection{Darmverschluss}
@@ -4752,26 +4882,30 @@ gestautem Kot kommen \Z{(\I[Miserere|Z]{Miserere})}.
 }{}{}{}
 
 
-
-\MassnahmenNG{Spezielle Maßnahmen}{Darmverschluß}{}{
-\EE{Taktik}: \Speech{Unmittelbare Bedrohung je nach Vitalwerten.
-Nüchtern lassen, Differentialdiagnosen
+\MassnahmenMK{Spezielle
+Maßnahmen}{Darmverschluß}{m:darmverschluss}{
+\EE{Taktik}: \Speech{Unmittelbare Bedrohung je nach Vitalwerten. Nüchtern lassen, Differentialdiagnosen
 abklären, Transport an geeignete Einrichtung}
-
-
-\begin{itemize}
-  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
-  (\prettyref{m:am-abdominalerkrankungen})
-  \item \EE{Vitale Bedrohung einschätzen}, ggfs.
-  \TxMassVitBes
-  \begin{itemize}
-    \item Lagerung: bauchdeckenentspannend, bzw. je nach
-    Patientenwunsch
-  \end{itemize}
-  \item Patient nüchtern lassen.
-  \item Transportentscheidung: Abt. f. Chirurgie
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Darmverschluß}{\label{m:darmverschluss}}{
+% \EE{Taktik}: \Speech{Unmittelbare Bedrohung je nach Vitalwerten. Nüchtern lassen, Differentialdiagnosen
+% abklären, Transport an geeignete Einrichtung}
+% 
+% 
+% \begin{itemize}
+%   \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+%   (\prettyref{m:am-abdominalerkrankungen})
+%   \item \EE{Vitale Bedrohung einschätzen}, ggfs.
+%   \TxMassVitBes
+%   \begin{itemize}
+%     \item Lagerung: bauchdeckenentspannend, bzw. je nach
+%     Patientenwunsch
+%   \end{itemize}
+%   \item Patient nüchtern lassen.
+%   \item Transportentscheidung: Abt. f. Chirurgie
+% \end{itemize}
+% }
 
 
 \subsection{Blinddarmentzündung}
@@ -4814,19 +4948,27 @@ Patienten geprägt.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Appendizitis}{}{
-\EE{Taktik}: \Speech{Differntialdiagnosen abklären,
-Transport an geeignete Abteilung}
 
 
-\begin{itemize}
-  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
-  (\prettyref{m:am-abdominalerkrankungen})
-  \item Patient nüchtern lassen.
-  \item Transportentscheidung: Abt. f. Chirurgie, Sonderfälle
-  (Kinder, Frauen!) beachten!
-\end{itemize}
-}
+\MassnahmenMK{Spezielle
+Maßnahmen}{Appendizitis}{m:appendizitis}{
+\EE{Taktik}:
+\Speech{Differntialdiagnosen abklären, Transport an geeignete Abteilung}
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Appendizitis}{\label{m:appendizitis}}{
+% \EE{Taktik}:
+% \Speech{Differntialdiagnosen abklären, Transport an geeignete Abteilung}
+% 
+% 
+% \begin{itemize}
+%   \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+%   (\prettyref{m:am-abdominalerkrankungen})
+%   \item Patient nüchtern lassen.
+%   \item Transportentscheidung: Abt. f. Chirurgie, Sonderfälle
+%   (Kinder, Frauen!) beachten!
+% \end{itemize}
+% }
 
 
 
@@ -4879,20 +5021,25 @@ Patient ist sehr \EE{unruhig} und agitiert.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Gallenkolik}{}{
+\MassnahmenMK{Spezielle
+Maßnahmen}{Gallenkolik}{m:gallenkolik}{
 \EE{Taktik}: \Speech{Rasche Schmerztherapie (veranlassen)}
-
-
-\begin{itemize}
-  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
-  (\prettyref{m:am-abdominalerkrankungen})
-  \item Rasche Schmerztherapie veranlassen: Je nach
-  Situation, Notarzt oder rascher Transport in eine
-  geeignete Einrichtung
-  \item Patient nüchtern lassen
-  \item Transportentscheidung: Abt. f. Chirurgie
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Gallenkolik}{\label{m:gallenkolik}}{
+% \EE{Taktik}: \Speech{Rasche Schmerztherapie (veranlassen)}
+% 
+% 
+% \begin{itemize}
+%   \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+%   (\prettyref{m:am-abdominalerkrankungen})
+%   \item Rasche Schmerztherapie veranlassen: Je nach
+%   Situation, Notarzt oder rascher Transport in eine
+%   geeignete Einrichtung
+%   \item Patient nüchtern lassen
+%   \item Transportentscheidung: Abt. f. Chirurgie
+% \end{itemize}
+% }
 
 
 % \clearpage % TEMP temp clearpage
@@ -4969,26 +5116,32 @@ ist der wird Blut ausgeschieden.
 vital bedroht sein, es besteht die Gefahr eines
 hypovolämischen Schocks.}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Gastrointestinale
-Blutung}{}{ 
-\EE{Taktik}: \Speech{\Ca{Vitale Bedrohung bei
-hohem Blutverlust!}
+\MassnahmenMK{Spezielle
+Maßnahmen}{Blutungen
+des Verdauungstrakts}{m:blutung-verdauungstrakt}{
+\EE{Taktik}: \Speech{\Ca{Vitale Bedrohung bei hohem Blutverlust!}
 Schockbekämpfung, zügiger Transport}
-
-
-\begin{itemize}
-  \item \TxMassVit
-    \item Lagerung:
-    Situationsgerecht, je nach Blutungsquelle und
-    Patientenzustand
-  \item Allgemeine Maßnahmen der Schockbekämpfung
-  (\prettyref{m:am-schock})
-  \item Ggfs. spezielle Maßnahmen bei hypovolämischem Schock
-  (\prettyref{topic:schock-hypovolaemischer})
-  \item Transportentscheidung: Abteilung für Chirurgie,
-  Voranmeldung!
-\end{itemize}
 }
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Blutungen
+% des Verdauungstrakts}{\label{m:blutung-verdauungstrakt}}{
+% \EE{Taktik}: \Speech{\Ca{Vitale Bedrohung bei hohem Blutverlust!}
+% Schockbekämpfung, zügiger Transport}
+% 
+% 
+% \begin{itemize}
+%   \item \TxMassVit
+%     \item Lagerung:
+%     Situationsgerecht, je nach Blutungsquelle und
+%     Patientenzustand
+%   \item Allgemeine Maßnahmen der Schockbekämpfung
+%   (\prettyref{m:am-schock})
+%   \item Ggfs. spezielle Maßnahmen bei hypovolämischem Schock
+%   (\prettyref{topic:schock-hypovolaemischer})
+%   \item Transportentscheidung: Abteilung für Chirurgie,
+%   Voranmeldung!
+% \end{itemize}
+% }
 
 
 
@@ -5060,17 +5213,20 @@ Exsikkose-Gefahr!
 }{}{}{}
 
 
-
-\MassnahmenNG{Spezielle Maßnahmen}{Gastroenteritis}{}{
-\begin{itemize}
-  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
-  (\prettyref{m:am-abdominalerkrankungen})
-  \item Patient nüchtern lassen
-  \item Transportentscheidung: Abt. f. Innere Medizin; bei
-  Kindern Abt. f. Kinderheilkunde
-  \item Strikte Desinfektionsmaßnahmen!
-\end{itemize}
-}
+\MassnahmenMK{Spezielle
+Maßnahmen}{Gastroenteritis}{m:gastroenteritis}{
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Gastroenteritis}{\label{m:gastroenteritis}}{
+% \begin{itemize}
+%   \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+%   (\prettyref{m:am-abdominalerkrankungen})
+%   \item Patient nüchtern lassen
+%   \item Transportentscheidung: Abt. f. Innere Medizin; bei
+%   Kindern Abt. f. Kinderheilkunde
+%   \item Strikte Desinfektionsmaßnahmen!
+% \end{itemize}
+% }
 
 
 
@@ -5333,17 +5489,22 @@ Erbrechen} zu beobachten.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Gastritis, Duodenitis}{}{
-\begin{itemize}
-  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
-  (\prettyref{m:am-abdominalerkrankungen})
-  \item \EE{Transportentscheidung}: 
-  Abt. f. Innere Medizin 
-  
-  Bei Blutungszeichen (Teerstuhl, kaffeesatzartiges
-  Erbrechen): Abt. f. Chirurgie
-\end{itemize}
-}
+
+\MassnahmenMK{Spezielle Maßnahmen}{Gastritis,
+Duodenitis}{m:gastro-duodenitis}{
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{Gastritis,
+% Duodenitis}{\label{m:gastro-duodenitis}}{
+% \begin{itemize}
+%   \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+%   (\prettyref{m:am-abdominalerkrankungen})
+%   \item \EE{Transportentscheidung}: 
+%   Abt. f. Innere Medizin 
+%   
+%   Bei Blutungszeichen (Teerstuhl, kaffeesatzartiges
+%   Erbrechen): Abt. f. Chirurgie
+% \end{itemize}
+% }
 
 \subsection{Pankreatitis}
 
@@ -5435,14 +5596,17 @@ Schock} erleiden (\FullPrettyRef{topic:schock-septischer}).
 
 \bigskip
 
-
-\MassnahmenNG{Spezielle Maßnahmen}{Akute Pankreatitis}{}{
-\begin{itemize}
-  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
-  (\prettyref{m:am-abdominalerkrankungen})
-  \item \EE{Transportentscheidung}: Abt. f. Chirurgie
-\end{itemize}
-}
+\MassnahmenMK{Spezielle Maßnahmen}{Akute
+Pankreatitis}{m:pankreatitis-akut}{
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{Akute
+% Pankreatitis}{\label{m:pankreatitis-akut}}{
+% \begin{itemize}
+%   \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+%   (\prettyref{m:am-abdominalerkrankungen})
+%   \item \EE{Transportentscheidung}: Abt. f. Chirurgie
+% \end{itemize}
+% }
 
 
 \subsection{Mesenterialinfarkt}
@@ -5487,15 +5651,19 @@ Abdomen} (\FullPrettyRef{topic:akutes-abdomen}). Es kann zu
 {}
 {}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Mesenterialinfarkt}{}{
-\begin{itemize}
-  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
-  (\prettyref{m:am-abdominalerkrankungen})
-  \item Nüchtern lassen!
-  \item \EE{Transportentscheidung}: Abt. f.
-  Chirurgie
-\end{itemize}
-}
+\MassnahmenMK{Spezielle
+Maßnahmen}{Mesenterialinfarkt}{m:mesenterialinfarkt}{
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Mesenterialinfarkt}{\label{m:mesenterialinfarkt}}{
+% \begin{itemize}
+%   \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+%   (\prettyref{m:am-abdominalerkrankungen})
+%   \item Nüchtern lassen!
+%   \item \EE{Transportentscheidung}: Abt. f.
+%   Chirurgie
+% \end{itemize}
+% }
 
 % \clearpage % TEMP temp clearpage
 \subsection{Bauchfellentzündung}
@@ -5551,13 +5719,17 @@ Blinddarmdurchbruch, \ldots) Ursache der Entzündung.
 }{}{}{}
 
 
-\MassnahmenNG{Spezielle Maßnahmen}{Bauchfellentzündung}{}{
-\begin{itemize}
-  \item Maßnahmen wie bei akutem Abdomen
-  (\FullPrettyRef{m:akutes-abdomen}), und sonst abhängig von
-  der Ursache
-\end{itemize}
-}
+\MassnahmenMK{Spezielle
+Maßnahmen}{Bauchfellentzündung}{m:bauchfellentzuendung}{
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Bauchfellentzündung}{\label{m:bauchfellentzuendung}}{
+% \begin{itemize}
+%   \item Maßnahmen wie bei akutem Abdomen
+%   (\FullPrettyRef{m:akutes-abdomen}), und sonst abhängig von
+%   der Ursache
+% \end{itemize}
+% }
 
 
 % \Z{
@@ -5691,19 +5863,24 @@ Mitunter ist eine entsprechende Vorerkrankung
 
 
 
-
-\MassnahmenNG{Spezielle Maßnahmen}{Nierenkolik}{}{
-Im Vordergrund bei der Versorgung steht der rasche zügige
-Transport an eine Abteilung für Urologie. Wenn die Schmerzen
+\MassnahmenMK{Spezielle
+Maßnahmen}{Nierenkolik}{m:nierenkolik}{ Im
+Vordergrund bei der Versorgung steht der rasche zügige Transport an eine Abteilung für Urologie. Wenn die Schmerzen
 sehr massiv sind, muss eventuell eine Schmerztherapie durch
 den Notarzt erfolgen.
-\begin{itemize}
-  \item Lagerung nach Wunsch des Patienten
-  \item Bei unerträglichen Schmerzen Notarzt zur
-  Schmerztherapie beiziehen
-  \item Transportentscheidung: Abt. für Urologie
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Nierenkolik}{\label{m:nierenkolik}}{ Im
+% Vordergrund bei der Versorgung steht der rasche zügige Transport an eine Abteilung für Urologie. Wenn die Schmerzen
+% sehr massiv sind, muss eventuell eine Schmerztherapie durch
+% den Notarzt erfolgen.
+% \begin{itemize}
+%   \item Lagerung nach Wunsch des Patienten
+%   \item Bei unerträglichen Schmerzen Notarzt zur
+%   Schmerztherapie beiziehen
+%   \item Transportentscheidung: Abt. für Urologie
+% \end{itemize}
+% }
 
 
 \subsection{Harnwegsinfekt}
@@ -5812,14 +5989,19 @@ an eine Abteilung für Urologie. Eine Notarzt-Nachforderung
 ist kaum sinnvoll, da ein \Abk{NEF} oder \Abk{NAW} selten geeignetes
 Material zur Harnableitung mitführt. 
 
-\MassnahmenNG{Spezielle Maßnahmen}{Akutes Harnverhalten}{}
+\MassnahmenNG{Spezielle Maßnahmen}{Akutes
+Harnverhalten}{m:harnverhalten}
 {
-\begin{itemize}
-    \item Zügiger Transport in eine Urologische Ambulanz
-    \item \Z{vorsichtig ablassen über Harnkatheter oder
-    Blasenpunktion (Spital)}
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{Akutes
+% Harnverhalten}{\label{m:harnverhalten}}
+% {
+% \begin{itemize}
+%     \item Zügiger Transport in eine Urologische Ambulanz
+%     \item \Z{vorsichtig ablassen über Harnkatheter oder
+%     Blasenpunktion (Spital)}
+% \end{itemize}
+% }
 
 
 

@@ -329,10 +329,13 @@ $\ifcase#1\or\alpha\or\beta\or\gamma\or\delta\or\varepsilon\or\zeta\or\eta\or\th
 
 \renewcommand{\thechapter}{\greek{chapter}}
 
-\renewcommand{\thechapter}{{\color{DefaultB}MK11.1/}\arabic{chapter}}
+\renewcommand{\thechapter}{\Alph{chapter}}
+
+% \renewcommand{\thechapter}{{\color{DefaultB}MK11.1/}\arabic{chapter}}
+% \renewcommand{\thechapter}{{\color{DefaultB}MK11.1/}\arabic{chapter}}
 
 % \renewcommand{\thechapter}{{\ttfamily\Alph{chapter}}}
-\renewcommand{\thesection}{{\color{DefaultA}\thechapter}.\arabic{section}}
+\renewcommand{\thesection}{{\color{Indigo}{\SignMassnahme}\,}{\color{Indigo}\thechapter.\arabic{section}}}
 % \renewcommand{\thesubsection}{{\color{DefaultA}\thesection .\arabic{subsection}}}
 % \renewcommand{\thesubsection}{{\color{aassgrey}\thesection.}\arabic{subsection}}
 % \renewcommand{\thesubsubsection}{{\thesubsection .\alph{subsubsection}}}

@@ -100,7 +100,7 @@ Regeln der \E{Individualmedizin}. Das aufgewendete Material
 und das Personal stammt aus dem Normalbetrieb des Rettungs-
 und Krankentransportes.
 }
-{\prettyref{tab:uebersicht-unfall-grossunfall-katastrophe}}
+{\FullPrettyRef{tab:uebersicht-unfall-grossunfall-katastrophe}}
 {}{}{}
 
 
@@ -131,7 +131,7 @@ sich aus allen verfügbaren Helfern zusammen, welche sowohl aus
 dem Normalbetrieb des Rettungs- und Krankentransportes und
 von Sondereinsatzgruppen stammt. Es wird zusätzliches
 Material eingesetzt.
-}{\prettyref{tab:uebersicht-unfall-grossunfall-katastrophe}}{}{}{}
+}{\FullPrettyRef{tab:uebersicht-unfall-grossunfall-katastrophe}}{}{}{}
 
 
 
@@ -170,7 +170,7 @@ Personal setzt sich zusammen aus Überlebenden und verfügbaren
 Helfer, einsatzbereiten Fahrzeugen, Kat-Einsatz aller
 Hilfsorganisationen, überregionaler und internationaler
 Hilfe.
-}{\prettyref{tab:uebersicht-unfall-grossunfall-katastrophe}}{}{}{}
+}{\FullPrettyRef{tab:uebersicht-unfall-grossunfall-katastrophe}}{}{}{}
 
 \Layout{0}{Arten von Katastrophen}{
 Es gibt verschiedene Katastrophenarten
@@ -242,9 +242,9 @@ gestört, zerstört
 \\\addlinespace
 \TabSub{Patienten:}
  &
-{\textless} $sim$\,15 (Richtwert)
+{\textless} $\sim$\,15 (Richtwert)
 &
-$\geq$ $sim$\,15 (Richtwert)
+$\geq$ $\sim$\,15 (Richtwert)
 &
 keine bis viele, je nach Art des Ereignisses
 \\\addlinespace
@@ -366,14 +366,38 @@ Behandlung oder ihres Transportes. Diese Einteilung nennt man Triage.
   \EE{Behandlungsdringlichkeit} und \EE{-möglichkeit} mit dem Ziel mit
   den vorhandenen Resourcen soviel als möglich zu erreichen. \Z{Triage
   \Lang{franz.}: Sichtung, Auswahl}}
-
-\noindent Die Tabelle
-\prettyref{tab:khd-behandlungsstellen-uebersicht} gibt eine
-Übersicht über die Triagegruppen.
-
+  
 \Fazit{Grundsatz: \enquote{Life before Limbs}: Leben vor
 Gliedmaßen, Funktion vor Schönheit!
 }
+
+\noindent Die Tabelle
+\FullPrettyRef{tab:khd-behandlungsstellen-uebersicht}, gibt eine
+Übersicht über die Triagegruppen.
+
+\Layout{0}{Triagegruppen können sich im Verlauf ändern}{%
+Die Zuordnung zu einer Triagegruppe kann sich im Verlauf verändern 
+z.\,B. wenn sich der Zustand des Patienten ändert oder mehr Resourcen 
+zur Verfügung stehen. Eine ständige Nachtriage ist daher erforderlich! 
+
+\begin{enumerate}
+    \item Verschlechterung des Patientenzustandes: 
+    
+    z.\,B.: III \Sign{→} I
+    \item Verbesserung des Patientenzustandes
+    (z.\,B. nach erfolgter Behandlung): 
+    
+    z.\,B.: I \Sign{→} III
+    \item Verbesserung der Versorgungslage (zusätzliches 
+    Personal bzw. Material verfügbar, oder Behandlungskapazitäten sind frei
+    geworden): 
+    
+    z.\,B.: IV \Sign{→} I
+\end{enumerate}
+}{
+
+}{}{}{}
+
 
 
 \subsubsection{Die Transportpriorität ist unabhängig von der Triagegruppe}
@@ -383,13 +407,15 @@ Gliedmaßen, Funktion vor Schönheit!
 Nach einer erfolgten Behandlung kann eine Transportpriorität zugewiesen
 werden. Man unterscheidet hierbei: 
 
-\begin{description}
-\item[A:] Hohe Transportpriorität: Der rasche Transport zur
-frühzeitigen Fachbehandlung nach ärztlicher Notversorgung ist
-angesagt. 
-\item[B:] Niedrige Transportpriorität: Der Transport zur Fachbehandlung
-kann verzögert erfolgen. 
-\end{description}
+\begin{itemize}
+  \item \EE{Transportpriorität A}: Hohe Transportpriorität. Der rasche Transport zur
+  frühzeitigen Fachbehandlung nach ärztlicher Notversorgung ist
+  angesagt.
+  \item \EE{Transportpriorität B}: Niedrige Transportpriorität. Der Transport zur Fachbehandlung
+  kann verzögert erfolgen.
+\end{itemze}
+
+
 
 
 \begin{table}[H]
@@ -398,13 +424,13 @@ kann verzögert erfolgen.
 \Captionof{table}{Triagegruppen,
 Übersicht.\label{tab:khd-behandlungsstellen-uebersicht}\label{tab:khd-triagegruppen-uebersicht}}
 \noindent\begin{tabularx}{\linewidth}{XXXX}
-\TabHeading{I -- Sofortbehandlung vor Ort}
+\TabHeading{I: Sofortbehandlung vor Ort}
 &
-\TabHeading{II -- Dringliche Behandlung}
+\TabHeading{II: Dringliche Behandlung}
 &
-\TabHeading{III -- Warten Leichtverletzte}
+\TabHeading{III: Warten Leichtverletzte}
 &
-\TabHeading{IV -- Warten Schwerverletzte}
+\TabHeading{IV: Warten Schwerverletzte}
 \\\addlinespace\midrule\addlinespace
 Lebensrettende Soforteingriffe
 &
@@ -987,21 +1013,7 @@ das Entkleiden sowie die Vornahme des Ersteinschätzungsblockes.
 
 
 
-\Layout{0}{Exkurs: Triagegruppen}{%
-Die Zuordnung zu einer Triagegruppe kann sich im Verlauf verändern,
-eine ständige Nachtriage ist erforderlich! Änderungen ergeben sich besonders durch:
 
-\begin{enumerate}
-    \item Verschlechterung des Patientenzustandes: z.\,B. III \Sign{→} I.
-    \item Verbesserung des Patientenzustandes
-    (z.\,B. nach erfolgter Behandlung): z.\,B. I \Sign{→} III.
-    \item Verbesserung der Versorgungslage (zusätzliches 
-    Personal bzw. Material verfügbar, oder Behandlungskapazitäten sind frei
-    geworden): z.\,B. IV \Sign{→} I.
-\end{enumerate}
-}{
-
-}{}{}{}
 
 
 

@@ -401,6 +401,21 @@ mMxX}
 
 \section{Benutzungshinweise}
 
+\Layout{2}
+{Maßnahmenkatalog}
+{Ergänzend zu diesem Lehrbuch existiert ein eigener
+Maßnahmenkatalog, in welchem die jeweiligen konkreten
+Maßnahmen zu finden sind. Referenzen mit dem Symbol
+{\SignMassnahme} beziehen sich auf diesen Katalog. Sofern
+nicht anders angegeben, beziehen sich die Angaben auf den 
+Maßnahmenkatalog in der \EE{Version \VarMkatalogVersion}.
+
+}
+{}
+{}
+{}
+{}
+
 \Layout{2}{Im Text}{%
 \E{Betonte} Textteile sind kursiv, \EE{Besonders stark
 betonte} sind fett gedruckt. \T[noindex]{Fachbegriffe}, welche an
@@ -431,7 +446,8 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \begin{labeling}{mmm}
   \item[\SignFigure] \ Abbildungen
   \item[\SignFazit] \ Leitsätze
-  \item[\SignMassnahme] \ Maßnahmen
+  \item[\SignMassnahme] \ Maßnahmen, Referenzen beziehen
+  sich auf den Maßnahmenkatalog
   \item[\SignTable] \ Tafeln
 \end{labeling}
 \end{multicols}
@@ -458,6 +474,10 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \begin{WidePar}
   \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
+  
+  \noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme} gekennzeichnete
+Referenzen finden sich im im Maßnahmenkatalog (Version
+\VarMkatalogVersion).
 \end{WidePar}
 % {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
 
@@ -467,11 +487,15 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \begin{WidePar}
   {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
 
+\noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme}
+gekennzeichnete Referenzen finden sich im im Maßnahmenkatalog (Version
+\VarMkatalogVersion).
+
 % {\small\listoffigures}
 % 
 % {\small\listoftables}
 
-{\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
+% {\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
 
 {\small\kern-2.ex\listof{fazit}{Merksätze}}
 \end{WidePar}

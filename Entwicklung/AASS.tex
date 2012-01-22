@@ -74,15 +74,20 @@ toc=flat,
 % 3: Referenz
 % 4: Text / Taktik
 % 5: Punkte
-\newcommand{\MassnahmenMK}[5]{\Layout{Massnahmen}{{\SignMassnahme}
-#1: #2}{#4\par Siehe
-\FullPrettyRef{MK-#3}}{#5\FullPrettyRef{MK-#3}}{}{}{}}
+\newcommand{\MassnahmenMK}[5]{%
+\Layout{Massnahmen}
+{{\SignMassnahme} #1: #2}
+{{\color{Indigo}#4\par Siehe \FullPrettyRef{MK-#3}}}
+{\FullPrettyRef{MK-#3}}
+{}
+{}
+{}}
 
 \newcommand{\QSO}{>>}
 \newcommand{\QSC}{<<}
 \newcommand{\QSSO}{>>}
 \newcommand{\QSSC}{<<}
-\newcommand{\SlideCompensation}[1]{#1\baselineskip}
+\newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
 \newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
 
 % #######################################################################################################
@@ -562,8 +567,8 @@ gekennzeichnete Referenzen finden sich im im Maßnahmenkatalog (Version
 \include{./chapters/chapter-GEF}
 
 % Zuletzt: \enquote{Wie mache ich daraus einen funktionierenden Ablauf?}
-% \include{./chapters/chapter-PAM}
-\include{./chapters/chapter-PAMneu}
+\include{./chapters/chapter-PAM}
+% \include{./chapters/chapter-PAMneu}
 
 % {\WideParBegin}
 \part{Medizinisch-Wissenschaftlicher Basisteil}

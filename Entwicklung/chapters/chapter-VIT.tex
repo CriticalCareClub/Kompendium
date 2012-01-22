@@ -381,7 +381,6 @@ bewusstseinsklarer Patient hat 15 Punkte, ein schwerst
 bewusstseinsgestörter oder toter Patient 3 Punkte (nicht
 0!). Bewertet werden die Augenöffnung, die beste verbale und
 die beste motorische Reaktion des Patienten.
-
 Heutzutage dient die \Abk{GCS} vorwiegend statistischen
 Zwecken\ZFootnote{Regelmäßig findet man Handlungsanweisungen
 -- überwiegend für ärztliches Personal -- in der Literatur,
@@ -400,6 +399,7 @@ regelmäßig umstritten.}.
 
 
 \begin{table}[H]
+\begin{WidePar}
 \FormatTable
 \Captionof{table}{GCS - Glasgow Coma Scale für den Erwachsenen.\label{tab:gcs}}
 
@@ -438,6 +438,7 @@ regelmäßig umstritten.}.
  & & 1  & bewegt gar nicht
 \\\bottomrule
 \end{tabulary}
+\end{WidePar}
 \end{table}
 
 
@@ -464,7 +465,7 @@ Ursachen}
 \\
 {\tiny betreffen direkt das ZNS} & {\tiny betreffen über
 Umwege das ZNS} 
-\\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}\addlinespace
+\\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}%\addlinespace
 \begin{itemize}
     \item Verletzungen (SHT)
     \item Blutungen, Hirnschwellung
@@ -477,23 +478,23 @@ Umwege das ZNS}
  &
  \begin{itemize}
    \item Störungen der \ce{O2}-Versorgung:
-   \begin{itemize}
+   \begin{compactitem}
      \item Atemstörungen  (Hypoxie)
      \item Herz-Kreislaufstörungen
-   \end{itemize}
+   \end{compactitem}
    \item Störungen des Wasserhaushaltes und
    Elektrolytentgleisungen
    \item Stoffwechselstörungen
-   \begin{itemize}
+   \begin{compactitem}
      \item Zuckerhaushalt
      \item Leberversagen
-   \end{itemize}
+   \end{compactitem}
    \item Vergiftungen:
-   \begin{itemize}
+   \begin{compactitem}
      \item Alkohol
      \item Medikamente, Drogen
      \item Reizgase,  Lösungsmittel ...
-   \end{itemize}
+   \end{compactitem}
    \item \ldots
  \end{itemize}
 \\\bottomrule
@@ -520,6 +521,8 @@ Umwege das ZNS}
 
 \MassnahmenMK{Spezielle Maßnahmen}{Bewusstseinseintrübung}
 {m:bewusstseinstruebung}{}{}
+
+\SlideCompensationNoParskip{1}
 
 \MassnahmenMK{Spezielle Maßnahmen}{Bewusstlose und
 soporöse Patienten}{m:bewusstlosigkeit}
@@ -755,7 +758,6 @@ kommt, d.\,h. die Atmung ist nicht effektiv.
 Die Atmung wird durch das \EE{Atemzentrum im Hirnstamm}
 gesteuert. Daneben gibt es Sensoren im Körper, die den
 Gasgehalt des Blutes beobachten.
-
 Beim gesunden Patienten ist der \EE{Atemantrieb} vom
 \EE{\ce{CO2}-Gehalt} des Blutes abhängig. Der
 Sauerstoffanteil spielt nur eine untergeordnete Rolle! Unter
@@ -768,15 +770,13 @@ Wenn bei \EE{bestimmten Krankheitsbildern} die
 sich der Körper an diesen Zustand. Er beginnt dann den
 \E{Atemantrieb direkt über den \ce{O2}}-Gehalt im Blut zu
 regeln.
-
 Dies kann \EE{Probleme} machen: Wird bei so einem Patienten
 der \ce{O2}-Gehalt plötzlich künstlich erhöht, fehlt der
 Atemantrieb und der Patient kann \EE{Bewusstseinsstörungen}
 (\I[\ce{CO2}-Narkose@CO2-Narkose]{\ce{CO2}-Narkose}) und
 einen \EE{Atemstillstand} erleiden.
-
 Das wichtigste Krankheitsbild bei dem so etwa vorkommen kann,
-ist die \Abk{COPD} (\ref{topic:copd}).
+ist die \Abk{COPD} (\FullPrettyRef{topic:copd}).
 }{
 \begin{itemize}
   \item Atemzentrum im Hirnstamm
@@ -813,7 +813,7 @@ ist die \Abk{COPD} (\ref{topic:copd}).
 \index{Bradypnoe}%
 \index{Tachypnoe}%
 Störungen der Atmung können aus vielen Ursachen eintreten.
-\prettyref{tab:atemstoerungen-ursachen} beschreibt die
+\FullPrettyRef{tab:atemstoerungen-ursachen}, beschreibt die
 wichtigsten Pathomechanismen und Störungen.
 
 Der Begriff \T{Ateminsuffizienz} beschreibt allgemein eine
@@ -849,12 +849,12 @@ Doch auch die \EE{\ce{CO2}-Abgabe} ist gestört und es kommt
 zu einer Anhäufung von \ce{CO2} im Blut. In weiterer Folge
 kann es zu einer \E{atmungsbedingten Übersäuerung}
 (\EE{Respiratorische Azidose},
-\prettyref{topic:azidose-respiratorische}) kommen.
+\FullPrettyRef{topic:azidose-respiratorische}) kommen.
 }{
 \begin{itemize}
     \item \ce{O2}-Gehalt im Blut ↓ (Hypoxie)
     \item \ce{CO2}-Gehalt im Blut ↑
-    \item Respiratorische Azidose (\prettyref{topic:azidose-respiratorische})
+    \item Respiratorische Azidose (\FullPrettyRef{topic:azidose-respiratorische})
 \end{itemize}
 }{}{}{}
 
@@ -883,9 +883,8 @@ Atemstörungen.\label{tab:atemstoerungen-ursachen}}
  &
 Gärkeller (\ce{CO2}\,${\uparrow}$, \ce{O2}\,${\downarrow}$)
 
-\enquote{dünne Luft} (z.\,B. Hochgebirge,
-
-p\ce{O2}\,${\downarrow}$)
+\enquote{dünne Luft} (z.\,B. Hochgebirge;
+niedriger Sauerstoffpartialdruck)
 
 Defekte Gastherme (\ce{CO}\,${\uparrow}$,
 \ce{O2}\,${\downarrow}$)
@@ -941,7 +940,7 @@ Stoffwechselstörungen
 \Layout{0}{Symptome}
 {%
 Atemstörungen können viele verschiedene Symptome
-verursachen. \prettyref{tab:atmung-symptome} listet
+verursachen. \FullPrettyRef{tab:atmung-symptome}, listet
 verschiedene Symptome auf. Neben technischen Geräten ist vor
 allem \E{sehen},
 \E{hören}, \E{fühlen} und ein \E{aufmerksamer Blick}
@@ -1375,7 +1374,7 @@ Das Pumpversagen kann entstehen durch:
     nicht mehr füllen oder etwas auswerfen kann ((Pulslose)
     Ventrikuläre Tachykardie) 
     \item Elektromechanische
-    Entkopplung: keine
+    Entkopplung (pulslose elektrische Aktivität): keine
     Pumpreaktion auf Signale des Reizleitungssystems im Herz
 \end{itemize}
  \item Mechanische Blockaden
@@ -2295,7 +2294,7 @@ bevor man ihn bemerkt.}}
 
 
 \vspace{2em}
-\clearpage % TEMP temp clearpage
+% \clearpage % TEMP temp clearpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -2529,6 +2528,7 @@ Zwischengewebsraum vom Gefäßraum durch die Blutgefäßwand.
 \end{itemize}
 }{}{}{}
 
+\SlideCompensationNoParskip{2}
 
 \Layout{20}{Atome, Ionen und Elektrolyte}
 {%
@@ -2962,6 +2962,7 @@ folglich zu einer Ansäuerung des Blutes.
 \bigskip
 
 \bigskip
+\SlideCompensationNoParskip{1}
 }
 {\begin{itemize}
   \item Insuffiziente innere oder äußere Atmung
@@ -3034,7 +3035,6 @@ versucht, \ce{CO2} abzuatmen (\E{Kußmaul'sche Atmung}).
 {\label{topic:alkalose-respiratorische}
 \index{Alkalose}
 \index{Hyperventilation!respiratorische Alkalose}
-
 Durch die vermehrte Abatmung von \ce{CO2} wird der pH-Wert
 des Blutes basisch und es kommt zu einem
 Elektrolytungleichgewicht. Dies verursacht Symtome wie
@@ -3043,7 +3043,7 @@ Pfötchenstellung und tonischen Krämpfe.
 
 Eine ausführliche Beschreibung des
 \E{Hyperventilationssyndroms} findet sich unter
-\prettyref{topic:hyperventilationstetanie}.}
+\FullPrettyRef{topic:hyperventilationstetanie}.}
 {}
 {}
 {}
@@ -3054,10 +3054,7 @@ Eine ausführliche Beschreibung des
 {\label{topic:alkalose-metabolische}
 \index{Alkalose!Metabolische}
 \index{Alkalose!Stoffwechselbedingte}
-
-
-
-Eine stoffwechselbedingte Alkalose  kommt v.a. durch den \E{Verlust von Säure},
+Eine stoffwechselbedingte Alkalose  kommt v.\,a. durch den \E{Verlust von Säure},
 z.\,B. durch anhaltendes Erbrechen, zu Stande.}
 {}
 {}

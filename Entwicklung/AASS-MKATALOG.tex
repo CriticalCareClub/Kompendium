@@ -5,6 +5,7 @@ asymmetric,
 fontsize=9pt,
 % headings=small,
 draft=false,
+openany,
 % parskip=half,
 numbers=noenddot,
 % listof=totoc,         % verschiebt Minitoc/Hyperref
@@ -69,15 +70,23 @@ toc=flat,
 
 \renewcommand{\MassnahmenNG}[4]
 	{%
-	\section{{\color{Indigo}#1:}
-	\E{#2}}
-	#3
-	\index{#2}%\index{#1!#2}
-	\par
-	#4
+% 	#3
+% 	\par
+	\begin{multicols}{2}[\protect\section{{\color{Indigo}#1:} \E{#2}}\index{#2}#3]
+\CorrectionListsBox#4
+	\end{multicols}
 	}
 
+\renewcommand{\MassnahmenWide}[4]
+	{%
+% 	#3
+% 	\par
+	\section{{\color{Indigo}#1:} \E{#2}}\index{#2}#3
+{\CorrectionListsBox#4}
+	}
 
+\usepackage{xr}
+\externaldocument[AASS-]{AASS}
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -110,13 +119,13 @@ bindingoffset=1cm}
 a4paper,
 asymmetric,
 reversemarginpar,
-rmargin=13mm,
-lmargin=13mm,
-top    = 8mm,
-bottom = 8mm,
+rmargin=7mm,
+lmargin=7mm,
+top    =7mm,
+bottom =7mm,
 marginparwidth = 0mm,
 footskip = 5mm,
-bindingoffset=1.5cm}
+bindingoffset=1.0cm}
 \savegeometry{WholePage}
 \restoregeometry
 
@@ -138,7 +147,7 @@ bindingoffset=1.5cm}
 
 	Covergestaltung: \emph{Sebastian Gabriel.}
 
-    {Titelbild: \emph{Ch. Pallinger} }
+%     {Titelbild: \emph{Ch. Pallinger} }
     
 \vfill
     
@@ -466,11 +475,15 @@ Vicco von Bülow (\VonBis{1923}{2011})
 
 % {\small\kern-2.ex\listof{fazit}{Merksätze}}
 \end{WidePar}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Index
+% \clearpage
+{\small\printindex}
 
 
 \include{./chapters/MKATALOG-chapter-M}
 
-\appendix
+% \appendix
 % {\WideParBegin}
 % \part{Appendix}
 % {\WideParEnd}
@@ -492,10 +505,7 @@ Vicco von Bülow (\VonBis{1923}{2011})
 \opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\tiny\setlength{\parskip}{0pt}\cleardoublepage\bibliography{Literatur-AASS}\restoregeometry}\onecolumn}
 % \opt{STATUS-WITH-BIBLIO}{{\setlength{\parskip}{0pt}\bibliography{Literatur-AASS}}}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Index
-% \clearpage
-{\small\printindex}
+
 
 \input{./chapters/inc-APP}
 

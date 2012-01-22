@@ -32,21 +32,6 @@
 {\CC{[HKL]} Herz-Kreislaufstörungen}
 \ChapterIntro
 {%
-~~~
-}
-{%
-\begin{description}
-  \item[Maintainer:] Sebastian Gabriel
-  \item[Autoren:] Diverse
-  \item[Reviewer:] Standard-Reviewprozess
-  \item[Version:] {\DocVersion} ({\DocVersionInfo})
-  \item[SHA1:] {\DocGitCommit}
-\end{description}
-
-{\TxTeilkapitelAASS}
-}
-
-
 Herz-Kreislauferkrankungen sind die häufigste
 Todesursache.\footnote{Statistik Austria, Pressemitteilung
 9.691-133/10; Statistisches Bundesamt Deutschland,
@@ -66,6 +51,21 @@ leidet der Patient vorab an \E{chronischen Varianten} einer
 Herz-Kreislauferkrankung bzw. einer verwandten
 Grunderkrankung, welche zu einem Notfallgeschehen führen
 kann.
+}
+{%
+\begin{description}
+  \item[Maintainer:] Sebastian Gabriel
+  \item[Autoren:] Diverse
+  \item[Reviewer:] Standard-Reviewprozess
+  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[SHA1:] {\DocGitCommit}
+\end{description}
+
+{\TxTeilkapitelAASS}
+}
+
+
+
 
 
 \opt{STATUS-EXPERIMENTAL}{
@@ -143,7 +143,7 @@ Dekompensierte Herzinsuffizienz, kard. Lungenödem
 
 
 
-\subsection{Herz-Kreislauf-Stillstand}
+\section{Herz-Kreislauf-Stillstand}
 
 Der Herz-Kreislauf-Stillstand wird
 unter
@@ -292,6 +292,8 @@ beobachten.
 % {%
 % 
 % }{}{}{}
+
+\clearpage
 
 \Layout{0}{\TxSymptome: \E{Links}herzinsuffizienz}
 {\label{topic:linksherzinsuffizienz}%
@@ -913,22 +915,24 @@ Impuls ein Herzschlag folgt.
 Entkoppelung von elektrischer und der mechanischer Herzaktion möglich!
 }{}{}{}
 
+\SlideCompensationNoParskip{1}
+
 \Layout{0}{Hier zählt die Geschwindigkeit: Tachy- und Bradykardie}
 {%
 %
-\begin{labeling}[~--]{Tachykardie}
-  \item[\T{Bradykardie}]  zu langsamer Herzschlag
+\begin{itemize}[~--]{Tachykardie}
+  \item \T{Bradykardie}:  Zu langsamer Herzschlag
   ({HF \textless} 60\,\nicefrac{}{\Min} {\tiny (beim Erwachsenen)})
   
   Leistungssportler können aufgrund ihres trainierten Körpers auch sehr
   niedrige Ruhepulsfrequenzen haben.
-  \item[\T{Tachykardie}]  zu schneller
-  \marginpar{Tachometer im Auto:
-  Geschwindigkeitsanzeiger, meistens zu schnell ;)}
+  \item \T{Tachykardie}:  Zu schneller
+  \marginpar{{\footnotesize Tachometer im Auto:
+  Geschwindigkeitsanzeiger, meistens zu schnell ;)}}
   Herzschlag
   (\Abk{HF} {\textgreater} 100\,\nicefrac{}{\Min} {\tiny
   (beim Erwachsenen)})
-\end{labeling}
+\end{itemize}
 
 Denke bei der Beurteilung auch immer an die Umstände und den
 Erregungszustand des Patienten!
@@ -1081,7 +1085,11 @@ ${\rightarrow}$ \EE{keine Auswurfleistung}.
 }
 
 
+\bigskip
 
+\bigskip
+
+\bigskip
 
 
 \Layout{0}{Asystolie}
@@ -1098,12 +1106,13 @@ Erregung, der Herzmuskel kontrahiert daher nicht und es erfolgt
   \item Keine elektrische Erregung, keine Muskelarbeit, kein Auswurf
 \end{compactitem}
 }{}{}{}
+
+\SlideCompensationNoParskip{1}
     
 \Layout{0}{Vorhofflimmern}
 {
 \index{Vorhofflimmern|TLike}
 \label{topic:vorhofflimmern}
-
 Regellose Erregung im \E{Vorhof}, die oft symptomlos ist. 
 Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit.
 
@@ -1127,6 +1136,8 @@ Komplikationen:
 \end{itemize}
 
 }{}{}{}
+
+\SlideCompensationNoParskip{1}
 
 
 \Layout{0}{Extrasystolen}
@@ -1683,7 +1694,7 @@ Rasche Blutdrucksenkung (veranlassen)}}{}
 \section{Gefäßaussackungen: Aneurysmen}
 \label{topic:aneurysma}
 
-\subsubsection{Bauchaortenaneurysma}
+\subsection{Bauchaortenaneurysma}
 \label{topic:bauchaortenaneurysma}
 \nocite{Meron2004}
 

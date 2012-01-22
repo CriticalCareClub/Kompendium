@@ -24,6 +24,7 @@
 % 
 % \end{center}
 
+\clearpage
 \Layout{2}{{\TxQuerverweise}}{%
 \begin{itemize}
   \item Lungenentzündung (Pneumonie): \dotfill \FullPrettyRef{topic:pneumonie}
@@ -83,8 +84,8 @@ andere befindet sich in der Speiseröhre.}
 {Hirtler.}
 
 
-\clearpage
-\Layout{20}{\TxSymptome}
+% \clearpage
+\Layout{0}{\TxSymptome}
 {%
 Die Symptome sind abhängig  von der Schwere der Verlegung.
 Man unterscheidet zwischen einer \EE{schweren} und einer
@@ -107,7 +108,8 @@ oder zu würgen. Oft ist auch ein pfeifendes Atemgeräusch
 während der Ein- und/oder Austamung zu hören
 (in-/exspiratorischer \E{Stridor}).
 
-\bigskip
+% \bigskip
+% \SlideCompensationNoParskip{1}
 }{
 \begin{itemize}
   \item Schwere Verlegung:
@@ -124,11 +126,9 @@ während der Ein- und/oder Austamung zu hören
   \end{itemize}
 \end{itemize}
 } 
-{./images/wikipedia-pd/Abdominal_thrusts3.jpg} 
-{Heimlich-Manöver.} 
-{U.S. Naval Hospital, Okinawa, Japanese intern Naoko Uehara teaches
-proper technique for treating a choking victim with the assistance of Hospital
-Corpsman Second Class Ross Francis. Amanda M. Woodhead, USMC / WmCo, PD.}
+{} 
+{} 
+{}
 
 \Fazit{Die (Un-) Fähigkeit zu sprechen und zu husten ist das
 wesentliche Kriterium um die Schwere einer Atemwegsverlegung
@@ -166,12 +166,19 @@ beschränkt.
   \item \Ca{Verletzungsgefahr!}
 \end{itemize}
 }
-{./images/wikipedia-pd/US_medic_teaches_the_Heimlich_manuever_to_laughing_Afghans_00500.jpg}
+{./images/wikipedia-pd/Abdominal_thrusts3.jpg}
 {Heimlich-Manöver.}
-{\protect\enquote{Air Force Staff Sgt. Abraham Jara provides instruction in the proper
-application of the Heimlich maneuver to teachers at the Kharana Girls Middle
-School, Dara district, Panjshir province, Afghanistan.} Photo by 
-Capt. John T. Stamm, USAF / WmCo, PD.}
+{U.\,S. Naval Hospital, Okinawa, Japanese intern Naoko Uehara teaches
+proper technique for treating a choking victim with the assistance of Hospital
+Corpsman Second Class Ross Francis. Amanda M. Woodhead, USMC / WmCo, PD.}
+
+
+% {./images/wikipedia-pd/US_medic_teaches_the_Heimlich_manuever_to_laughing_Afghans_00500.jpg}
+% {Heimlich-Manöver.}
+% {\protect\enquote{Air Force Staff Sgt. Abraham Jara provides instruction in the proper
+% application of the Heimlich maneuver to teachers at the Kharana Girls Middle
+% School, Dara district, Panjshir province, Afghanistan.} Photo by 
+% Capt. John T. Stamm, USAF / WmCo, PD.}
 
 
 
@@ -179,9 +186,7 @@ Capt. John T. Stamm, USAF / WmCo, PD.}
 \MassnahmenMK{Spezielle Maßnahmen}{Mechanische
 Atemwegsverlegung}{m:atemwegsverlegung} {%
 \EE{Taktik}: 
-
-
-\Speech{Schwer: \Ca{Vitale Bedrohung!} Zeitkritisch; wenn
+\\\Speech{Schwer: \Ca{Vitale Bedrohung!} Zeitkritisch; wenn
 möglich rasche Entfernung des Fremdkörpers. 
 \\
 Mild: Symptomatische
@@ -469,6 +474,8 @@ bleibender schwerer Atemnot bzw. Status asthmaticus}
 % \cite{AsboeLehrmeinungRd2011-11}
 %  }
 
+\bigskip
+
 \Layout{22}{}
 {%
 Patientin mit einem akuten Asthmaanfall.
@@ -520,7 +527,7 @@ Schleimhautschädigung, welche durch inhalative Noxen verursacht wird und im Ver
 
 Am Anfang steht die chronische Bronchitis, welche durch
 Husten mit schleimigem Auswurf gekennzeichnet ist
-(\protect\enquote{Raucherhusten}). Es kommt dabei zu einer gesteigerten
+(\protect\enquote{\I{Raucherhusten}}). Es kommt dabei zu einer gesteigerten
 Entzündungsantwort auf eingeatmete Stoffe (Zigarettenrauch,
 Umweltschadstoffe, \ldots). Wenn man in der
 Lungenfunktionsuntersuchung eine Atemwegseinschränkung
@@ -548,7 +555,6 @@ Verformung des Brustkorbes. Im Endstadium zeigen sich
 Zeichen einer Rechtsherzinsuffizienz
 (\prettyref{topic:rechtsherzinsuffizienz}) aufgrund einer
 Störung im Lungenkreislauf.
-
 Bei fortgeschrittener Ateminsuffizienz bekommt der Patient
 oft eine \E{Heimsauerstofftherapie} verordnet.
 
@@ -651,7 +657,9 @@ der \index{COPD!Atemantrieb}Atemantrieb und der Patient kann
 \SymbolText
 }{}{}{}
 
-\MassnahmenNG{Spezielle Maßnahmen}{COPD-Exazerbation}{}{
+\MassnahmenMK{Spezielle Maßnahmen}{COPD-Exazerbation}
+{m:copd-exzerbation}
+{
 \EE{Taktik}: \Speech{Linderung der Atemnot und rasche
 medikamentöse Therapie \Ca{Vitale Bedrohung bei anhaltender
 schwerer Atemnot!}}
@@ -777,6 +785,7 @@ zu leiden.
 \end{itemize}
 }{}{}{}
 
+\SlideCompensationNoParskip{2}
 
 \Layout{0}{Typische Anamnese}
 {%
@@ -827,6 +836,8 @@ ebenso das Risiko.}
 % }{
 % 
 % }{}{}{}
+
+\SlideCompensationNoParskip{2}
 
 \MassnahmenMK{Spezielle
 Maßnahmen}{Lungenembolie}{m:lungenembolie}{ \EE{Taktik}: \Speech{\Ca{Vitale Bedrohung!} Atemnot lindern,

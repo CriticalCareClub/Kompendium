@@ -59,14 +59,14 @@ toc=flat,
 
 \setcounter{errorcontextlines}{10}
 
-
+ 
 
 \usepackage{ragged2e}
 
 \renewcommand{\Abk}[1]{#1}
 
 \usepackage{xr}
-\externaldocument[MK-]{AASS-MKATALOG}
+\externaldocument[MK-]{AASS-MKATALOG-2012}
 
 
 % 1: Art der Massnahmen
@@ -421,6 +421,22 @@ Maßnahmenkatalog in der \EE{Version \VarMkatalogVersion}.
 {}
 {}
 
+\Layout{2}
+{Externe Teile}
+{Aus Kostengründen sind manchmal nicht
+alle Teile Bestandteil eines Drucks. Dies betrifft
+insbesonders Teile des Appendix wie z.\,B. das
+Literaturverzeichnis oder den Kommentarteil. Diese Teile
+sind online auf der {\AASS}-Projektseite im
+Download-Bereich verfügbar
+(\url{http://www.aass.at/cms/download/aass/}).
+
+}
+{}
+{}
+{}
+{}
+
 \Layout{2}{Im Text}{%
 \E{Betonte} Textteile sind kursiv, \EE{Besonders stark
 betonte} sind fett gedruckt. \T[noindex]{Fachbegriffe}, welche an
@@ -471,8 +487,27 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \end{description}
 }{}{}{}{}
 
+\bigskip
 
-{\the\WideParWidth}
+\begin{WidePar}
+{\Huge
+\noindent\colorbox{DefaultA}{\textcolor{DefaultA}{X~~~~~}}~~
+\colorbox{DefaultB}{\textcolor{DefaultB}{X~~~~~}}~~
+\colorbox{DefaultC}{\textcolor{DefaultC}{X~~~~~}}~~
+\colorbox{DefaultD}{\textcolor{DefaultD}{X~~~~~}}~~
+\colorbox{DefaultE}{\textcolor{DefaultE}{X~~~~~}}~~
+\bigskip
+
+\noindent\colorbox{DefaultGrey}{\textcolor{DefaultGrey}{X~~~~~}}~~
+\colorbox{DefaultGreen}{\textcolor{DefaultGreen}{X~~~~~}}~~
+\colorbox{Lavender}{\textcolor{Lavender}{X~~~~~}}~~
+\colorbox{Indigo}{\textcolor{Indigo}{X~~~~~}}
+}
+\end{WidePar}
+
+\bigskip
+
+\noindent{\the\WideParWidth}
 {\the\ThirdGrossWidth}
 {\the\ThirdNetWidth}
 
@@ -481,7 +516,7 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
   \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
   
   \noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme} gekennzeichnete
-Referenzen finden sich im im Maßnahmenkatalog (Version
+Referenzen finden sich im Maßnahmenkatalog (Version
 \VarMkatalogVersion).
 \end{WidePar}
 % {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
@@ -493,7 +528,7 @@ Referenzen finden sich im im Maßnahmenkatalog (Version
   {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
 
 \noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme}
-gekennzeichnete Referenzen finden sich im im Maßnahmenkatalog (Version
+gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
 \VarMkatalogVersion).
 
 % {\small\listoffigures}

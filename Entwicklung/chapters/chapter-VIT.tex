@@ -26,8 +26,8 @@ Bild: NASA
 %     \item[2009-mm-dd] in \LaTeX übernommen
 %     \item[2009-04-19] anhand der OpenOffice-Version überarbeitet.
 % Bilder fehlen noch. 
-% \item[2009-05-06] GAB: Abschnitte "`Blutdruck"' und
-% "`Atemvolumina"' aus Anatomie-Teil übernommen.
+% \item[2009-05-06] GAB: Abschnitte \enquote{Blutdruck} und
+% \enquote{Atemvolumina} aus Anatomie-Teil übernommen.
 % \end{description}
 % 
 % }
@@ -182,12 +182,13 @@ direkt (Verletzung, Schlaganfall, \ldots), und Ursachen, die sekundär, also üb
 
 }{}{}{}{}
 
-\Z{Die "`wahre"' Definition von Bewusstsein ist seit
+\Z{Die \enquote{wahre} Definition von Bewusstsein ist seit
 tausenden von Jahren ungeklärt. Auch an dieser Stelle wird
 das Geheimnis nicht gelüftet werden, daher muss die obige
 Definition für den Alltag ausreichen.\footnote{Hinweisen
 zufolge könnte die Antwort
-eventuell "`42"' sein.}}
+eventuell \enquote{42} sein
+\citep{UltimateHitchhikersGuide96hitchhikersguide}.}}
 
 % \protect\DefinitionExp{Bewusstsein}
 % 
@@ -257,9 +258,9 @@ diese zurück, kann sie den Atemweg blockieren oder ganz verschließen.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \Layout{0}{Einteilung der Störungen}
 {%
-Man unterscheidet zwischen der Quantität ("`\E{Wieviel}
-Bewusstsein ist vorhanden?"') und der Qualität ("`\E{Wie
-gut} funktioniert das vorhandene Bewusstsein?"'). Maßgeblich
+Man unterscheidet zwischen der Quantität (\E{Wieviel}
+Bewusstsein ist vorhanden?) und der Qualität (\E{Wie
+gut} funktioniert das vorhandene Bewusstsein?). Maßgeblich
 ist der \EE{Bewusstseinsgrad} (quanititativ) und die
 \EE{Orientiertheit} des Patienten (qualitativ).
 
@@ -279,8 +280,8 @@ vorwiegend statistische Zwecke.
 \label{topic:bewusstseinsstoerung-grade}
 \index{Bewusstsein!Symptome}
 %
-Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins ("`\E{Wieviel} Bewusstsein ist
-vorhanden?"'). Er muss bei jedem Patienten festgestellt werden.
+Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins (\enquote{\E{Wieviel} Bewusstsein ist
+vorhanden?}). Er muss bei jedem Patienten festgestellt werden.
 
 Die folgende Tabelle (\prettyref{tab:bewusstseinsgrade}) listet die möglichen
 Bewusstseinsgrade auf:
@@ -298,7 +299,10 @@ Bewusstseinsgrade auf:
 
 \begin{table}[H]
 \FormatTable
-\Captionof{table}{Bewusstseinsgrade\label{tab:bewusstseinsgrade}}
+\Captionof{table}{\EE{Bewusstseinsgrade}\label{tab:bewusstseinsgrade}.
+Diese Einteilung entspricht weitgehend der oft
+  genutzten \T{WASB}-Einteilung (\EE{W}ach, Reaktion auf
+  \EE{A}nsprechen, auf \EE{S}chmerzreiz, \EE{b}ewusstlos).}
 
 \begin{tabulary}{\linewidth}{LlLL}
 % \toprule
@@ -344,13 +348,15 @@ schläfrig, aber leicht erweckbar.
 Es ist wichtig zu Überprüfen ob der Patient orientiert ist.
 Man unterscheidet dabei die Orientierung zu:  
 
-\begin{labeling}[~--]{xxxxxxxxxxxxx}
-  \item[Person] Name, Alter.
-  \item[Zeit] Orientierung: Tageszeit,
+\begin{itemize}
+  \item \EE{Person}: Name, Alter.
+  \item \EE{Zeit}: Tageszeit,
   Wochentag, Monat, Jahreszeit, Jahr?
-  \item[Ort] Wo befindet sich der Patient gerade (Stadt, Land, Adresse, Wohnung, Auto, etc.)?
-  \item[Situation] Was passiert gerade?
-\end{labeling}
+  \item \EE{Ort}: Wo befindet sich der Patient gerade?
+  \newline
+  (Stadt, Land, Adresse, Wohnung, Auto, etc.)
+  \item \EE{Situation}: Was passiert gerade?
+\end{itemize}
 
 }{
 \begin{itemize}
@@ -375,7 +381,6 @@ bewusstseinsklarer Patient hat 15 Punkte, ein schwerst
 bewusstseinsgestörter oder toter Patient 3 Punkte (nicht
 0!). Bewertet werden die Augenöffnung, die beste verbale und
 die beste motorische Reaktion des Patienten.
-
 Heutzutage dient die \Abk{GCS} vorwiegend statistischen
 Zwecken\ZFootnote{Regelmäßig findet man Handlungsanweisungen
 -- überwiegend für ärztliches Personal -- in der Literatur,
@@ -394,6 +399,7 @@ regelmäßig umstritten.}.
 
 
 \begin{table}[H]
+\begin{WidePar}
 \FormatTable
 \Captionof{table}{GCS - Glasgow Coma Scale für den Erwachsenen.\label{tab:gcs}}
 
@@ -432,6 +438,7 @@ regelmäßig umstritten.}.
  & & 1  & bewegt gar nicht
 \\\bottomrule
 \end{tabulary}
+\end{WidePar}
 \end{table}
 
 
@@ -458,7 +465,7 @@ Ursachen}
 \\
 {\tiny betreffen direkt das ZNS} & {\tiny betreffen über
 Umwege das ZNS} 
-\\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}\addlinespace
+\\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}%\addlinespace
 \begin{itemize}
     \item Verletzungen (SHT)
     \item Blutungen, Hirnschwellung
@@ -471,23 +478,23 @@ Umwege das ZNS}
  &
  \begin{itemize}
    \item Störungen der \ce{O2}-Versorgung:
-   \begin{itemize}
+   \begin{compactitem}
      \item Atemstörungen  (Hypoxie)
      \item Herz-Kreislaufstörungen
-   \end{itemize}
+   \end{compactitem}
    \item Störungen des Wasserhaushaltes und
    Elektrolytentgleisungen
    \item Stoffwechselstörungen
-   \begin{itemize}
+   \begin{compactitem}
      \item Zuckerhaushalt
      \item Leberversagen
-   \end{itemize}
+   \end{compactitem}
    \item Vergiftungen:
-   \begin{itemize}
+   \begin{compactitem}
      \item Alkohol
      \item Medikamente, Drogen
      \item Reizgase,  Lösungsmittel ...
-   \end{itemize}
+   \end{compactitem}
    \item \ldots
  \end{itemize}
 \\\bottomrule
@@ -512,67 +519,75 @@ Umwege das ZNS}
 
 
 
+\MassnahmenMK{Spezielle Maßnahmen}{Bewusstseinseintrübung}
+{m:bewusstseinstruebung}{}{}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Bewusstseinseintrübung}
-{\label{m:bewusstseinstruebung}}{ 
-% \paragraph{Maßnahmen
-% bei getrübten Patienten}~
+\SlideCompensationNoParskip{1}
 
-\begin{itemize}
-  \item Lagerung: situationsgerecht je nach
-  Verdachtsdiagnose, im Zweifel \EE{stabile
-  Seitenlage}, bei hochschwangeren Frauen auf die
-  \E{linke} Seite.
-  \item \TxBeiVit \TxMassVitBes
-  
-  \begin{itemize}
-    \item \ce{O2}: nach Verdachtsdiagnose, im Zweifel
-    ca. \VonBis{6}{8}\LPerMin*
-    \item \EE{Monitoring}: Auf \EE{Bewußtseinsgrad}
-    besonders achten!
-  \end{itemize}
-  
-  
-  \item Diagnostische Schwerpunkte:
-  \begin{itemize}
-    \item \EE{Ursachenforschung} -- Warum ist der
-    Patient eingetrübt?
-    \item (Fremd-)Anamnese, Umstände, Szenerie
-    \item \EE{Neurocheck}, inkl. \EE{BZ}-Messung!
-    \item \EE{Traumacheck}. Suche nach Primär- und
-    Folgeverletzungen!
-  \end{itemize}
-\end{itemize}
-
-}
-
-\MassnahmenNG{Spezielle Maßnahmen}{Bewusstlose und
-soporöse Patienten}{\label{m:bewusstlosigkeit}}
+\MassnahmenMK{Spezielle Maßnahmen}{Bewusstlose und
+soporöse Patienten}{m:bewusstlosigkeit}
 {%
-\begin{itemize}
-  \item \TxMassVitBes
-  \begin{itemize}
-    \item Lagerung: stabile Seitenlage, bei hochschwangeren Frauen auf die
-    \E{linke} Seite.
-    \item \ce{O2}:  10\LPerMin* , bei
-    Zyanose\footnote{Zyanose: Bläuliche Verfärbung der Haut
-    infolge einer unzureichenden Sauerstoffversorgung.
-    Besonders auffällig an den Lippen, Gesicht, und
-    Extremitäten.}  15\LPerMin*
-    \item \EE{Monitoring}: Auf \EE{Bewußtseinsgrad}
-    besonders achten!
-  \end{itemize}
-  \item Diagnostische Schwerpunkte:
-  \begin{itemize}
-    \item \EE{Ursachenforschung} -- Warum ist der Patient bewusstlos oder
-    soporös?
-    \item (Fremd-)Anamnese, Umstände, Szenerie
-    \item \EE{Neurocheck}, inkl. \EE{BZ}-Messung!
-    \item \EE{Traumacheck}. Suche nach Primär- und
-    Folgeverletzungen!
-  \end{itemize}
-\end{itemize}
-}
+}{}
+% \MassnahmenNG{Spezielle Maßnahmen}{Bewusstseinseintrübung}
+% {\label{m:bewusstseinstruebung}}{ 
+% % \paragraph{Maßnahmen
+% % bei getrübten Patienten}~
+% 
+% \begin{itemize}
+%   \item Lagerung: situationsgerecht je nach
+%   Verdachtsdiagnose, im Zweifel \EE{stabile
+%   Seitenlage}, bei hochschwangeren Frauen auf die
+%   \E{linke} Seite.
+%   \item \TxBeiVit \TxMassVitBes
+%   
+%   \begin{itemize}
+%     \item \ce{O2}: nach Verdachtsdiagnose, im Zweifel
+%     ca. \VonBis{6}{8}\LPerMin*
+%     \item \EE{Monitoring}: Auf \EE{Bewußtseinsgrad}
+%     besonders achten!
+%   \end{itemize}
+%   
+%   
+%   \item Diagnostische Schwerpunkte:
+%   \begin{itemize}
+%     \item \EE{Ursachenforschung} -- Warum ist der
+%     Patient eingetrübt?
+%     \item (Fremd-)Anamnese, Umstände, Szenerie
+%     \item \EE{Neurocheck}, inkl. \EE{BZ}-Messung!
+%     \item \EE{Traumacheck}. Suche nach Primär- und
+%     Folgeverletzungen!
+%   \end{itemize}
+% \end{itemize}
+% 
+% }
+% 
+% \MassnahmenNG{Spezielle Maßnahmen}{Bewusstlose und
+% soporöse Patienten}{\label{m:bewusstlosigkeit}}
+% {%
+% \begin{itemize}
+%   \item \TxMassVitBes
+%   \begin{itemize}
+%     \item Lagerung: stabile Seitenlage, bei hochschwangeren Frauen auf die
+%     \E{linke} Seite.
+%     \item \ce{O2}:  10\LPerMin* , bei
+%     Zyanose\footnote{Zyanose: Bläuliche Verfärbung der Haut
+%     infolge einer unzureichenden Sauerstoffversorgung.
+%     Besonders auffällig an den Lippen, Gesicht, und
+%     Extremitäten.}  15\LPerMin*
+%     \item \EE{Monitoring}: Auf \EE{Bewußtseinsgrad}
+%     besonders achten!
+%   \end{itemize}
+%   \item Diagnostische Schwerpunkte:
+%   \begin{itemize}
+%     \item \EE{Ursachenforschung} -- Warum ist der Patient bewusstlos oder
+%     soporös?
+%     \item (Fremd-)Anamnese, Umstände, Szenerie
+%     \item \EE{Neurocheck}, inkl. \EE{BZ}-Messung!
+%     \item \EE{Traumacheck}. Suche nach Primär- und
+%     Folgeverletzungen!
+%   \end{itemize}
+% \end{itemize}
+% }
 
 
 
@@ -648,7 +663,7 @@ Die normale Atemfrequenz (\T{AF}) beträgt beim Erwachsenen
 in Ruhe \VonBis{12}{16}\PerMin*, das Atemzugsvolumen
 (\T{AZV}) beträgt ca. 500\Ml*.\ZFootnote{Die Einstellungen eines Beatmungsgeräts können von den
 Normalwerten deutlich abweichen, da man z.\,B. manchmal
-"`vorsichtiger"', bzw. Lungen-schonender, beatmen möchte.} Das entspricht einem
+\enquote{vorsichtiger}, bzw. Lungen-schonender, beatmen möchte.} Das entspricht einem
 Atemminutenvolumen (\T{AMV}) von  6\,--\,8\LPerMin*.  Für
 eine ausreichende Atmung ist auch eine ausreichende
 \ce{O2}-Konzentration der Umgebungsluft notwendig!
@@ -712,14 +727,14 @@ umfasst beim Erwachsenen ca. 150\Ml*. \cite{KlinkePhysio3}
 % \index{Totraumventilation}
 \T[Totraum!-ventilation]{Totraumventilation}: Bei der
 Totraumventilation ist das Atemzugsvolumen so klein dass die
-"`frische"' Luft im Totraum bleibt und nicht in die
+\enquote{frische} Luft im Totraum bleibt und nicht in die
 Lungenbläschen gelangt: Es kommt keine frische Luft in die
 Lungenbläschen und folglich kein Sauerstoff ins Blut.
 
 \label{topic:schnappatmung}
 Bei der \index{Schnappatmung}\T{Schnappatmung} kann dies
 passieren: Auf den ersten Blick sieht es so aus als würde
-der Patient "`schnappend"' atmen, in Wirklichkeit ist die
+der Patient \enquote{schnappend} atmen, in Wirklichkeit ist die
 Atmung so gering dass es nur zu einer Totraumventilation
 kommt, d.\,h. die Atmung ist nicht effektiv.
 }{
@@ -743,12 +758,11 @@ kommt, d.\,h. die Atmung ist nicht effektiv.
 Die Atmung wird durch das \EE{Atemzentrum im Hirnstamm}
 gesteuert. Daneben gibt es Sensoren im Körper, die den
 Gasgehalt des Blutes beobachten.
-
 Beim gesunden Patienten ist der \EE{Atemantrieb} vom
 \EE{\ce{CO2}-Gehalt} des Blutes abhängig. Der
 Sauerstoffanteil spielt nur eine untergeordnete Rolle! Unter
-\prettyref{topic:saeure-basen-haushalt} werden wir sehen,
-dass das \ce{CO2} eine wichtige Rolle im
+\FullPrettyRef{topic:saeure-basen-haushalt}, wird
+ausgeführt, dass das \ce{CO2} eine wichtige Rolle im
 Säure-Basen-Haushalt des Körpers einnimmt.
 
 Wenn bei \EE{bestimmten Krankheitsbildern} die
@@ -756,15 +770,13 @@ Wenn bei \EE{bestimmten Krankheitsbildern} die
 sich der Körper an diesen Zustand. Er beginnt dann den
 \E{Atemantrieb direkt über den \ce{O2}}-Gehalt im Blut zu
 regeln.
-
-Dies kann \Ca{Probleme} machen: Wird bei so einem Patienten
+Dies kann \EE{Probleme} machen: Wird bei so einem Patienten
 der \ce{O2}-Gehalt plötzlich künstlich erhöht, fehlt der
 Atemantrieb und der Patient kann \EE{Bewusstseinsstörungen}
-("`\ce{CO2}-Narkose"') und einen \EE{Atemstillstand}
-erleiden.
-
+(\I[\ce{CO2}-Narkose@CO2-Narkose]{\ce{CO2}-Narkose}) und
+einen \EE{Atemstillstand} erleiden.
 Das wichtigste Krankheitsbild bei dem so etwa vorkommen kann,
-ist die \Abk{COPD} (\ref{topic:copd}).
+ist die \Abk{COPD} (\FullPrettyRef{topic:copd}).
 }{
 \begin{itemize}
   \item Atemzentrum im Hirnstamm
@@ -779,7 +791,8 @@ ist die \Abk{COPD} (\ref{topic:copd}).
 \end{itemize}
 }{}{}{}
 
-
+\Fazit{Normalerweise wird der Atemantrieb über den
+\ce{CO2}-Gehalt des Blutes gesteuert.}
 
 
 
@@ -800,7 +813,7 @@ ist die \Abk{COPD} (\ref{topic:copd}).
 \index{Bradypnoe}%
 \index{Tachypnoe}%
 Störungen der Atmung können aus vielen Ursachen eintreten.
-\prettyref{tab:atemstoerungen-ursachen} beschreibt die
+\FullPrettyRef{tab:atemstoerungen-ursachen}, beschreibt die
 wichtigsten Pathomechanismen und Störungen.
 
 Der Begriff \T{Ateminsuffizienz} beschreibt allgemein eine
@@ -836,12 +849,12 @@ Doch auch die \EE{\ce{CO2}-Abgabe} ist gestört und es kommt
 zu einer Anhäufung von \ce{CO2} im Blut. In weiterer Folge
 kann es zu einer \E{atmungsbedingten Übersäuerung}
 (\EE{Respiratorische Azidose},
-\prettyref{topic:azidose-respiratorische}) kommen.
+\FullPrettyRef{topic:azidose-respiratorische}) kommen.
 }{
 \begin{itemize}
     \item \ce{O2}-Gehalt im Blut ↓ (Hypoxie)
     \item \ce{CO2}-Gehalt im Blut ↑
-    \item Respiratorische Azidose (\prettyref{topic:azidose-respiratorische})
+    \item Respiratorische Azidose (\FullPrettyRef{topic:azidose-respiratorische})
 \end{itemize}
 }{}{}{}
 
@@ -870,9 +883,8 @@ Atemstörungen.\label{tab:atemstoerungen-ursachen}}
  &
 Gärkeller (\ce{CO2}\,${\uparrow}$, \ce{O2}\,${\downarrow}$)
 
-"`dünne Luft"' (z.\,B. Hochgebirge,
-
-p\ce{O2}\,${\downarrow}$)
+\enquote{dünne Luft} (z.\,B. Hochgebirge;
+niedriger Sauerstoffpartialdruck)
 
 Defekte Gastherme (\ce{CO}\,${\uparrow}$,
 \ce{O2}\,${\downarrow}$)
@@ -928,7 +940,7 @@ Stoffwechselstörungen
 \Layout{0}{Symptome}
 {%
 Atemstörungen können viele verschiedene Symptome
-verursachen. \prettyref{tab:atmung-symptome} listet
+verursachen. \FullPrettyRef{tab:atmung-symptome}, listet
 verschiedene Symptome auf. Neben technischen Geräten ist vor
 allem \E{sehen},
 \E{hören}, \E{fühlen} und ein \E{aufmerksamer Blick}
@@ -1060,9 +1072,10 @@ Aufrechte Position
 &
 \\\addlinespace
 &
-"`Paradoxe Atmung"'
+\T[Atmung!paradoxe]{Paradoxe Atmung}
 &
-Brustkorb senkt sich bei Einatmung
+Brustkorb \E{senkt} sich bei Einatmung, z.\,B. bei
+Serienrippenfraktur 
 &
 \\\addlinespace
 \TabSub{Geräte}
@@ -1083,45 +1096,50 @@ Pulsoxymetrie
 \end{table}
 
 
+\MassnahmenMK{Spezielle
+Maßnahmen}{Insuffiziente
+Atmung (AF \textless\,8 oder
+\textgreater\,30\PerMin*,
+bzw. AZV zu niedrig)}{m:atmung-insuffizient}
+{\Ca{Vitale Bedrohung}
+}{}
 
+\SlideCompensation{3}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Atemstillstand}{}{
-%\begin{itemize}
-%    \item Freimachen der Atemwege
-%    \begin{itemize}
-%        \item Öffnen des Mundes \A{(Esmarch-Handgriff)
-%        -- evtl. erklären}
-%        \TempPicMissing{Esmarch-Handgriff}
-%        \item Inspektion
-%        \item fals nötig ausräumen
-%        \item (falls nötig) Absaugen
-%        \item Zungengrund wird angehoben -{\textgreater} Atemwege  sind frei!
-%    \end{itemize}
-%    \item Überprüfung der Atemtätigkeit (bei  überstreckter HWS)
-%    durch
-%    \begin{itemize}
-%        \item SEHEN, HÖREN, FÜHLEN für mindestens 10  Sekunden!
-%    \end{itemize}
-%    \item Beatmung (keine ausreichende Spontanatmung bzw. bei Reanimation)
-%    \begin{itemize}
-%        \item Beatmungsbeutel mit Maske und
-%        Reservoir (Erhöhung der Sauerstoffkonzentration)
-%    \end{itemize}
-%\end{itemize}
+\MassnahmenMK{Spezielle
+Maßnahmen}{Atemstillstand}{m:atemstillstand}{
 \Cave{Achtung: Bei einem mit Atemstillstand vorgefundenen
 Patienten ist grundsätzlich von einer Reanimation
-auszugehen.}
-
-Vgl. die entsprechenden Kapitel im Teil Erste Hilfe und
-Sanitätshilfe bezüglich der genauen Durchführung der
-Maßnahmen.
-
-\Z{Nur in sehr seltenen Fällen kann primär ein isolierter
-Atemstillstand ohne gleichzeitigem Kreislaufstillstand
-beobachtet werden. Auf diese Spezialfälle wird hier nicht
-weiter eingegangen. Auch der iatrogene Atemstillstand
-(z.\,B. im Rahmen einer Narkose) wird an dieser Stelle nicht
-behandelt.} }
+auszugehen.}}{}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Insuffiziente
+% Atmung (AF \textless\,8 oder
+% \textgreater\,30\PerMin*,
+% bzw. AZV zu niedrig)}{\label{m:atmung-insuffizient}}
+% {\Ca{Vitale Bedrohung}
+% \begin{itemize}
+%   \item \TxMassVit
+%   \item Assistierte Beatmung
+%   \item Ursachenforschung
+% \end{itemize}
+% }
+% 
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Atemstillstand}{\label{m:atemstillstand}}{
+% \Cave{Achtung: Bei einem mit Atemstillstand vorgefundenen
+% Patienten ist grundsätzlich von einer Reanimation
+% auszugehen.}
+% 
+% Vgl. die entsprechenden Kapitel im Teil Erste Hilfe und
+% Sanitätshilfe bezüglich der genauen Durchführung der
+% Maßnahmen.
+% 
+% \Z{Nur in sehr seltenen Fällen kann primär ein isolierter
+% Atemstillstand ohne gleichzeitigem Kreislaufstillstand
+% beobachtet werden. Auf diese Spezialfälle (z.\,B.
+% Opiatintoxikation) wird hier nicht weiter eingegangen. Auch
+% der iatrogene Atemstillstand (z.\,B. im Rahmen einer Narkose) wird an dieser Stelle nicht
+% behandelt.}}
 
 
 
@@ -1302,17 +1320,17 @@ Wie beurteilen Sie den Blutdruck?
 Der Blutdruck ist für den Patienten zu niedrig, der Körper
 ist auf eine so plötzliche Umstellung nicht vorbereitet
 gewesen. Durch das Anamnesegespräch erfahren sie, dass er
-heute das erste Mal einen "`Nitro-Spray"' verwendet hat. Sie
+heute das erste Mal einen \enquote{Nitro-Spray} verwendet hat. Sie
 vermerken dies am Einsatzprotokoll. Im Krankenhaus erfahren
 Sie, dass wahrscheinlich eine Überdosierung dieses
 Medikaments die Ursache dieses Blutdruckabfalls war.
 ${\rightarrow}$ Obwohl der Patient laut Lehrbuch einen
-"`schönen"' Blutdruck hatte, war dieser dennoch zu niedrig!
+\enquote{schönen} Blutdruck hatte, war dieser dennoch zu niedrig!
 \end{quote}
 
 \emph{Ein 56-jähriger Patient klagt über starke
 kolikartige Schmerzen im linken Unterbauch. Sie messen einen Blutdruck von
-\RRmmHg{155}{95}. Der Patient kennt seinen "`gewöhnlichen"' Blutdruck
+\RRmmHg{155}{95}. Der Patient kennt seinen \enquote{gewöhnlichen} Blutdruck
 nicht.}  
 
 Wie beurteilen Sie den Blutdruck?
@@ -1357,7 +1375,7 @@ Das Pumpversagen kann entstehen durch:
     nicht mehr füllen oder etwas auswerfen kann ((Pulslose)
     Ventrikuläre Tachykardie) 
     \item Elektromechanische
-    Entkopplung: keine
+    Entkopplung (pulslose elektrische Aktivität): keine
     Pumpreaktion auf Signale des Reizleitungssystems im Herz
 \end{itemize}
  \item Mechanische Blockaden
@@ -1439,9 +1457,8 @@ Reanimation, im weiteren Verlauf neurologische Defizite.
 \subsection{\Z{Herzinsuffizienz, Herzversagen}}
 \index{Herzinsuffizienz}\index{Herzversagen}
 
-Weitere Störungen des Herzens werden im
-Kapitel \CO{[MED]}
-unter \prettyref{topic:herz-kreislauf-stoerungen} besprochen. 
+Weitere Störungen des Herzens werden 
+unter \FullPrettyRef{topic:herz-kreislauf-stoerungen} besprochen. 
 
 
 
@@ -1454,9 +1471,9 @@ unter \prettyref{topic:herz-kreislauf-stoerungen} besprochen.
 \index{Schock}
 \label{topic:schock}
 
-\Definition{"`Lebensbedrohliche Kreislaufstörung aufgrund von
+\Definition{\enquote{Lebensbedrohliche Kreislaufstörung aufgrund von
 Unterversorgung des Körpers mit Blut und Sauerstoff infolge des
-Versagens des Kreislaufsystems."'}
+Versagens des Kreislaufsystems.}}
 
 
 % \DefinitionExp{Schock}
@@ -1506,7 +1523,7 @@ kurzfristige Minderdurchblutung des Gehirns,  flüchtige Symptome)
 {
 \index{Schock!Kompensation}
 Der Körper versucht selber dagegen etwas zu tun und gegenzusteuern
-("`kompensieren"'). Der
+(\enquote{kompensieren}). Der
 wichtigste Mechanismus ist die
 \index{Zentralisation}\T{Zentralisation}. Darunter versteht
 man die Blutumverteilung zugunsten lebenswichtiger Organe wie
@@ -1518,14 +1535,14 @@ verlängert sich. Die Hautdurchblutung wird verringert und
 die Haut wird kühl und bleich.
 
 Wenn die Kompensationsmaßnahmen 
-nicht mehr ausreichen, spricht man vom \E{"`dekompensierten
-Schock"'}\index{Schock!dekompensierter}. Es besteht
+nicht mehr ausreichen, spricht man vom \E{\enquote{dekompensierten
+Schock}}\index{Schock!dekompensierter}. Es besteht
 spätestens dann akute \EE{Lebensgefahr}!
 }{
 \begin{itemize}
-    \item "`Gegensteuerung"'
+    \item \enquote{Gegensteuerung}
     \item Zentralisation
-    \item Ende: "`Dekompensierter Schock"'
+    \item Ende: \enquote{Dekompensierter Schock}
 \end{itemize}
 }{}{}{}
 
@@ -1538,6 +1555,17 @@ spätestens dann akute \EE{Lebensgefahr}!
 
 \Cave{Ein Schockzustand ist grundsätzlich als vitale
 Bedrohung einzustufen!}
+
+\Layout{2}{Schock beim Kind}
+{Die Schockschere gilt beim Kind nicht, da die
+Normalwerte andere sind! Kinder bleiben außerdem lange
+kreislaufstabilstabil, verfallen dann aber schlagartig!
+
+}{}
+{}
+{}
+{}
+{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1610,7 +1638,7 @@ Vollbild}
 \centering\includegraphics[width=1cm]{./icons/sm-pale-frown.png}
 &
 \begin{itemize}
-  \item Tachykardie (HF ${\uparrow}$, "`fliehender"' Puls)
+  \item Tachykardie (HF ${\uparrow}$, \enquote{fliehender} Puls)
   \item RR-Abfall (schwacher Puls)
   \begin{itemize}
     \item Herzfrequenz {\textgreater} systolischer RR
@@ -1766,7 +1794,7 @@ Flüssigkeitsverlust nach innen
   \end{itemize}
   \item Wassereinlagerung ins Gewebe
   \item \Z{Aszites
-  ("`Wasserbauch"' bei
+  (\enquote{Wasserbauch} bei
   Lebererkrankungen  etc.)}
 \end{itemize}
 \\\addlinespace\bottomrule
@@ -1801,10 +1829,10 @@ Verluste  folgt ein Absinken von Herzauswurf und RR!
 % \end{itemize}
 % }
 
-\AuthNotes{Begriff "`Schocklagerung"'
+\AuthNotes{Begriff \enquote{Schocklagerung}
 ein für alle mal in der Ausbildung streichen, nur Hinweis
 dass dieser Ausdruck veraltet ist sollten sie ihn wo
-aufschnappen. Stattdessen "`Beine-hoch"'-Lagerung.
+aufschnappen. Stattdessen \enquote{Beine-hoch}-Lagerung.
 
 Wenn KI gegen Beine hoch: Flachlagerung bzw. stab. Seitenlage empfehlen?
 
@@ -1916,8 +1944,8 @@ Patienten über \EE{Atemnot}.
 \index{Schock!allergischer}
 
 \Definition{Schock aufgrund einer überschießenden
-allergischen Reaktion -- "`Allergischer
-Schock"'.}
+allergischen Reaktion -- \enquote{Allergischer
+Schock}.}
 
 
 
@@ -1928,10 +1956,10 @@ auf bestimmte Stoffe (Antigene) ausgelöst.
 
 Durch von den Immunzellen gebildete Stoffe werden
 die Gefäße erweitert, zusätzlich steigt die
-Durchlässigkeit der Gefäße \Z{(Gefäßpermeabilität)}
+Durchlässigkeit der Gefäße\ZFootnote{(Gefäßpermeabilität)}.
 Das Blut versackt und es kommt zu einem  Plasmaverlust in
-den Zwischengewebsraum \Z{(Interstitium)}; der Blutdruck
-fällt massiv ab!
+den Zwischengewebsraum\ZFootnote{(Interstitium)}; der
+Blutdruck fällt massiv ab!
 }{%
 \begin{itemize}
   \item Überschießende
@@ -1987,7 +2015,7 @@ Anaphylaxie\label{tab:anaphylaxie-stadien}}
 \TabSub{I}
  &
 Hautreaktion: evtl. Ausschlag, Rötung;
-"`Quaddeln"', Flush, Ödeme
+\enquote{Quaddeln}, Flush, Ödeme
 
 Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
 
@@ -2035,45 +2063,55 @@ Schwerer Schock
 \index{Schock!toxischer}
 \label{topic:schock-septischer}
 \label{topic:schock-toxischer}
-Siehe auch: \CO{[INK]}, \prettyref{topic:sepsis}.
+Siehe auch \FullPrettyRef{topic:sepsis}.
 
 \Definition{Schock infolge einer schweren, körperweiten Infektion
 oder aufgrund eines, die Gefäße beeinflussenden, Giftstoffes
 (Toxins).}
 
 
-
-Durch bakterielle Gefäßwandschädigung, temperaturbedingt (hohes
-Fieber {\textgreater}\,38\,{\textcelsius}) sowie aufgrund von
-Giftstoffen kommt es zu Flüssigkeitsaustritt in den
-Zwischengewebsraum sowie zu Gefäßweitstellung.
-
-\Layout{2}{Ursachen}
+\Layout{0}{Ursachen}
 {%
-Diverse Erreger und Toxine\index{Toxine!Toxischer Schock}
+\index{Toxine!Toxischer Schock}%
+Ein septisch-/toxischer
+Schock wird durch diverse Bakterien und Toxine verursacht.
+Die Erreger können auf unterschiedliche Wege in die Blutbahn
+gelangen. Oft liegt ein chronischer Entzündungsherd vor, von
+dem aus Keime in die Blutbahn streuen.  Mit Keimen
+besiedelte und im Körper gelegene Fremdkörper, darunter
+fallen auch medizinische Materialien wie
+lang liegende Venenverweilkanülen, Harnkatheter u.\,ä., aber
+auch Hygieneartikel wie vergessene Tampons, sind ideale
+Brutstätten, da hier das Immunsystem des Körpers keinen Zugang hat. 
 
+Durch die bakterielle oder toxische Gefäßwandschädigung kommt es
+zum Flüssigkeitsaustritt in den Zwischengewebsraum sowie zu Gefäßweitstellung.
+}{
 \begin{itemize}
   \item Langanhaltender Entzündungsherd der plötzlich Erreger
-  "`ins Blut streut"' und "`explodiert"'
-  \item Mit Keimen besiedelte Fremdkörper (diverse
-  medizinische Sonden, Venflons, etc.)
-  \item Tampons, die vergessen wurden.
+  \enquote{ins Blut streut} und \enquote{explodiert}
+  \item Fremdkörper (Venenverweilkanülen, \ldots)
+  \item Tampons
   \item \ldots
 \end{itemize}
-}{}{}{}{}
+}{}{}{}
 
 
 
-\Layout{2}{\TxSymptome}
+\Layout{0}{\TxSymptome}
 {%
-
+Man kann die allgemeinen Schocksymptome wahrnehmen. Der
+Patient kann sowohl hohes  oder auch kein Fieber haben
+Die Haut ist anfänglich heiß, trocken und rötlich, später
+ist sie eher bleich, grau oder sogar marmoriert.
+}{
 \begin{itemize}
   \item Schock
-  \item Hohes Fieber oder kein Fieber
-  \item Haut heiß, trocken, rot oder bleich, grau,
-  "`marmoriert"'
+  \item Hohes oder kein Fieber
+  \item Haut heiß, trocken, rot, später bleich, grau,
+  marmoriert
 \end{itemize}
-}{}{}{}{}
+}{}{}{}
 
 
 
@@ -2089,7 +2127,7 @@ Diverse Erreger und Toxine\index{Toxine!Toxischer Schock}
 %   \item Lagerung: situationsgerecht, Beine hoch
 %   \item Schutz vor Unterkühlung/Überwärmung
 %   \item Aviso im Krankenhaus / Intensivstation
-%   ("`Überwachungsbett"')
+%   (\enquote{Überwachungsbett})
 %   \item benötigt Antibiotika (im KH)
 % \end{itemize}
 % }
@@ -2104,16 +2142,23 @@ Kreislaufregulation. Es kommt zu inadäquater arterieller
 und venöser Gefäßerweiterung.
 \Z{(Vasodilatation)}}
 
-\Layout{2}{Ursachen}
-{
+\Layout{0}{Ursachen}
+{Auch die Muskulatur der Blutgefäßwand wird mit Nerven
+versogrt, damit die Weite der Gefäße reguliert werden kann.
+Im Rahmen von Erkrankungen und Verletzungen kann diese
+nervale Versorgung unterbochen sein, in weiterer Folge
+weiten sich die betroffenen Gefäße und das Blut versackt. 
+Typischerweise kommt dies im Rahmen einer
+\EE{Wirbelsäulenverletzung} vor, bei der das Rückenmark
+geschädigt bzw. unterbrochen wird (\I{Querschnitt-Syndrom}).
+}{
 \begin{itemize}
-    \item Neurologische Erkrankungen wie Querschnitt-Verletzung des
-    Rückenmarks
-    \item Die Gefäße bekommen keine Nerven-Impulse und kontrahieren
-    sich nicht mehr.
-    \item ${\rightarrow}$ Blut versackt
+    \item Rückenmarksverletzung (Querschnitt-Syndrom)
+    \item  Gefäßwandmuskulatur bekommen keine Nerven-Impulse
+    und kontrahiert sich nicht mehr
+    \item Gefäße weiten sich ${\rightarrow}$ Blut versackt
 \end{itemize}
-}{}{}{}{}
+}{}{}{}
 
 
 
@@ -2135,6 +2180,10 @@ und venöser Gefäßerweiterung.
 \Fazit{Grundsatz: \EE{Der Schock muss bekämpft werden
 bevor man ihn bemerkt.}}
 
+\MassnahmenMK{Spezielle Maßnahmen}{Schock}
+{m:am-schock}
+{
+}{}
 % \MassnahmenNG{Allgemeine Maßnahmen}{Schockbekämpfung}
 % {\label{m:am-schock}}
 % {
@@ -2154,99 +2203,99 @@ bevor man ihn bemerkt.}}
 %     \AuthNotes{Freigabe: Sauerstoffgabe hochdosiert (ab 6l/min bei
 %     Schockgefahr, 10l/min oder mehr bei bestehendem Schock, je nach Schwere}
 
-\MassnahmenWide{Maßnahmen}{Schock}
-{\label{m:am-schock}}
-{\minisec{Allgemein}
-\begin{enumerate}
-  \item \TxMassVitBes
-  \begin{itemize}
-    \item Situationsgerechte  Lagerung, je nach Diagnose und Schockart
-    \item Sauerstoffgabe hochdosiert (ab 8\LPerMin*{} bei Schockgefahr,
-    15\LPerMin*{} oder mehr bei bestehendem Schock, je nach Schwere)
-    \item Monitoring: Besonders auf Haut, RR und HF achten!
-  \end{itemize}
-  \item Beengende Kleidung öffnen
-  \item Wärmeerhalt besonders beachten!
-  \item Spezielle Maßnahmen je nach Schockart bzw. Diagnose
-  \item Transportentscheidung: Vorankündigung
-  (Aviso); Spezialbett, je nach Schockart/Ursache
-\end{enumerate}
-
-\minisec{Speziell}\CorrectionItemizeBox
-
-\begin{tabularx}{\linewidth}{XXXXX}\toprule\addlinespace
-\multicolumn{5}{c}{\noindent\TabHeading{Schockart}}
-\\\addlinespace
-\noindent\TabHeading{Volumenmangel}
-&
-\noindent\TabHeading{Kardiogener}
-&
-\noindent\TabHeading{Anaphylaktischer}
-&
-\noindent\TabHeading{Septischer, Toxischer}
-&
-\noindent\TabHeading{Neurogener}
-\\\addlinespace\midrule\addlinespace
-\multicolumn{5}{c}{\TabSub{Lagerung}}
-\\\addlinespace\midrule\addlinespace
-Grundsätzlich Beine hoch
-
-Kontraindikationen beachten!\footnote{Wichtige
-Ausnahmen: {\textperiodcentered}\,kardiale Ursache, {\textperiodcentered}\,Kopf- / Brust\-ver\-letzungen,
-{\textperiodcentered}\,Hirndruck (SHT),
-{\textperiodcentered}\,Knochenbrüche der Beine oder des
-Beckens,
-{\textperiodcentered}\,Wirbelsäulenverletzungen,
-{\textperiodcentered}\,Bewusstlosigkeit ${\rightarrow}$
-sonst Flachlagerung oder stabile Seitenlage \A{KOCH: darüber
-müssen wir reden: Schock vor Schädel?}}
-%TODO Schock vor Schädel
-&
-Oberkörper hoch! Evtl. Beine hängen  lassen.
-&
-Situationsgerecht: Grundsätzlich Beine
-hoch, bei Atemproblemen jedoch stark erhöhten
-Oberkörper erwägen.
-&
-situationsgerecht, Beine hoch
-&
-Flachlagerung 
-
-(Cave WS-Verletzung!)
-\\\addlinespace\midrule\addlinespace
-\multicolumn{5}{c}{\TabSub{Sonstige Maßnahmen}}
-\\\addlinespace\midrule\addlinespace
-Blutstillung  (weitere Verluste verhindern!)
-
-Wenn möglich schonende/schnelle Bergung\A{Schonend
-  oder schnell?}
-&
-Medikamentöse Therapie durch Notarzt\ZFootnote{(Diuretika, Katecholamine, Heparin)}
-&
-Auslösendes Antigen nach Möglichkeit entfernen!
-&
-
-&
-\\\addlinespace\midrule\addlinespace
-\multicolumn{5}{c}{\TabSub{Transportentscheidung}}
-\\\addlinespace\midrule\addlinespace
-Schockraum, 
-
-zügiger Abtransport
-&
-Ursachenabhängig
-&
-Intensivstation
-&
-Intensivstation
-\\\addlinespace\bottomrule
-\end{tabularx}
-}
+% \MassnahmenWide{Spezielle Maßnahmen}{Schock}
+% {\label{m:am-schock}}
+% {\minisec{Allgemein}
+% \begin{enumerate}
+%   \item \TxMassVitBes
+%   \begin{itemize}
+%     \item Situationsgerechte  Lagerung, je nach Diagnose und Schockart
+%     \item Sauerstoffgabe hochdosiert (ab 8\LPerMin*{} bei Schockgefahr,
+%     15\LPerMin*{} oder mehr bei bestehendem Schock, je nach Schwere)
+%     \item Monitoring: Besonders auf Haut, RR und HF achten!
+%   \end{itemize}
+%   \item Beengende Kleidung öffnen
+%   \item Wärmeerhalt besonders beachten!
+%   \item Spezielle Maßnahmen je nach Schockart bzw. Diagnose
+%   \item Transportentscheidung: Vorankündigung
+%   (Aviso); Spezialbett, je nach Schockart/Ursache
+% \end{enumerate}
+% 
+% \minisec{Speziell}\CorrectionItemizeBox
+% 
+% \begin{tabularx}{\linewidth}{XXXXX}\toprule\addlinespace
+% \multicolumn{5}{c}{\noindent\TabHeading{Schockart}}
+% \\\addlinespace
+% \noindent\TabHeading{Volumenmangel}
+% &
+% \noindent\TabHeading{Kardiogener}
+% &
+% \noindent\TabHeading{Anaphylaktischer}
+% &
+% \noindent\TabHeading{Septischer, Toxischer}
+% &
+% \noindent\TabHeading{Neurogener}
+% \\\addlinespace\midrule\addlinespace
+% \multicolumn{5}{c}{\TabSub{Lagerung}}
+% \\\addlinespace\midrule\addlinespace
+% Grundsätzlich Beine hoch
+% 
+% Kontraindikationen beachten!\footnote{Wichtige
+% Ausnahmen: {\textperiodcentered}\,kardiale Ursache, {\textperiodcentered}\,Kopf- / Brust\-ver\-letzungen,
+% {\textperiodcentered}\,Hirndruck (SHT),
+% {\textperiodcentered}\,Knochenbrüche der Beine oder des
+% Beckens,
+% {\textperiodcentered}\,Wirbelsäulenverletzungen,
+% {\textperiodcentered}\,Bewusstlosigkeit ${\rightarrow}$
+% sonst Flachlagerung oder stabile Seitenlage \A{KOCH: darüber
+% müssen wir reden: Schock vor Schädel?}}
+% %TODO Schock vor Schädel
+% &
+% Oberkörper hoch! Evtl. Beine hängen  lassen.
+% &
+% Situationsgerecht: Grundsätzlich Beine
+% hoch, bei Atemproblemen jedoch stark erhöhten
+% Oberkörper erwägen.
+% &
+% situationsgerecht, Beine hoch
+% &
+% Flachlagerung 
+% 
+% (Cave WS-Verletzung!)
+% \\\addlinespace\midrule\addlinespace
+% \multicolumn{5}{c}{\TabSub{Sonstige Maßnahmen}}
+% \\\addlinespace\midrule\addlinespace
+% Blutstillung  (weitere Verluste verhindern!)
+% 
+% Wenn möglich schonende/schnelle Bergung\A{Schonend
+%   oder schnell?}
+% &
+% Medikamentöse Therapie durch Notarzt\ZFootnote{(Diuretika, Katecholamine, Heparin)}
+% &
+% Auslösendes Antigen nach Möglichkeit entfernen!
+% &
+% 
+% &
+% \\\addlinespace\midrule\addlinespace
+% \multicolumn{5}{c}{\TabSub{Transportentscheidung}}
+% \\\addlinespace\midrule\addlinespace
+% Schockraum, 
+% 
+% zügiger Abtransport
+% &
+% Ursachenabhängig
+% &
+% Intensivstation
+% &
+% Intensivstation
+% \\\addlinespace\bottomrule
+% \end{tabularx}
+% }
 
 
 
 \vspace{2em}
-\clearpage % TEMP temp clearpage
+% \clearpage % TEMP temp clearpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -2309,39 +2358,40 @@ Energiegewinnung, Nährstoffe werden in Wärme und Energie  umgewandelt}
 Der menschliche Körper hat drei wesentliche
 Stoffwechselsysteme, die ihm zur Verfügung stehen. Man
 unterscheidet den \EE{Zucker- bzw. Kohlehydratstoffwechsel},
-den \EE{Fettstoffwechsel} und den \EE{Eiweißstoffwechsel}.
+den \EE{Fettstoffwechsel} und den \EE{Eiweißstoffwechsel}:
 
-\subparagraph{Zuckerstoffwechsel} Zucker ist ein potenter \E{Energielieferant}
-und kann vom Körper schnell umgesetzt werden. Er wird durch
-Aufspaltung von komplexen \E{Kohlehydraten} (Stärke)
-gewonnen und zirkuliert in Form des \EE{Blutzuckers} in der
-Blutbahn. Die Leber speichert eine Zuckerreserve von ca.
-24\Hour*.
+\begin{itemize}
+  \item \EE{Zuckerstoffwechsel}: Zucker ist ein potenter
+  \E{Energielieferant} und kann vom Körper schnell umgesetzt werden. Er wird durch
+  Aufspaltung von komplexen \E{Kohlehydraten} (Stärke)
+  gewonnen und zirkuliert in Form des \EE{Blutzuckers} in der
+  Blutbahn. Die Leber speichert eine Zuckerreserve von ca.
+  24\Hour*.
+  
+  Das Hormon \T{Insulin}\label{topic:insulin}, welches in der
+  Bauchspeicheldrüse (Pankreas) produziert wird,  ermöglicht
+  die \E{Aufnahme von Blutzucker in die Zellen} und \E{senkt
+  dabei den Blutzuckerspiegel}.
+  \item \EE{Fettstoffwechsel}: Fette haben einen doppelt so
+  hohen Energiegehalt als Kohlenhydrate, können aber nicht so
+  rasch vom Körper verwendet werden. Sie dienen außerdem
+  u.\,a. als Lösungsmittel für Vitamine, Bausteine der
+  Zellmembran und von Hormonen. \Z{(Weiters unterscheidet man
+  zwischen gesättigten und ungesättigten Fettsäuren.)}
+  \item \EE{Eiweißstoffwechsel}: Eiweiße (\T{Proteine})
+  sind vergleichbar mit LEGO{\texttrademark}-Bausteinen: Sie
+  sind aus Bausteinen zusammengebaut, den \Z{Aminosäuren}.
+  Zusammengebaute Proteine können wieder beim
+  Verdauungsvorgang \E{zerlegt} werden, mit den
+  dadurch entstehenden Aminosäuren können wiederum andere,
+  \E{neue Proteine} gebaut werden. Proteine sind in vielen Bereichen im menschlichen Körper
+  unabkömmlich, sie kommen zum Beispiel als \I{Enzyme}
+  (\prettyref{topic:enzym}), \I{Gerinnungsfaktoren}
+  (\prettyref{topic:gerinnungsfaktoren}), Zellmembranbausteine
+  u.\,a. zum Einsatz.
+\end{itemize}
 
-Das Hormon \T{Insulin}\label{topic:insulin}, welches in der
-Bauchspeicheldrüse (Pankreas) produziert wird,  ermöglicht
-die \E{Aufnahme von Blutzucker in die Zellen} und \E{senkt
-dabei den Blutzuckerspiegel}.
 
-\subparagraph{Fettstoffwechsel} Fette haben einen doppelt so
-hohen Energiegehalt als Kohlenhydrate, können aber nicht so
-rasch vom Körper verwendet werden. Sie dienen außerdem
-u.\,a. als Lösungsmittel für Vitamine, Bausteine der
-Zellmembran und von Hormonen. \Z{(Weiters unterscheidet man
-zwischen gesättigten und ungesättigten Fettsäuren.)}
-
-\subparagraph{Eiweißstoffwechsel} Eiweiße (\T{Proteine})
-sind vergleichbar mit LEGO{\texttrademark}-Bausteinen: Sie
-sind aus Bausteinen zusammengebaut, den \Z{Aminosäuren}.
-Zusammen gebaute Proteine können wieder "`\E{zerlegt}"'
-werden, mit den entstehenden Aminosäuren können wiederum
-andere, \E{neue Proteine gebaut} werden.
-
-Proteine sind in vielen Bereichen im menschlichen Körper
-unabkömmlich, sie kommen zum Beispiel als \E{Enzyme}
-(\prettyref{topic:enzym}), \E{Gerinnungsfaktoren}
-(\prettyref{topic:gerinnungsfaktoren}), Zellmembranbausteine
-u.\,a. zum Einsatz.
 }{
 \begin{itemize}
   \item Zuckerstoffwechsel (Kohlenhydrate)
@@ -2392,32 +2442,35 @@ die Immunabwehr unterstützen.
 
 \Layout{0}{Störungen des Immunsystems}
 {%
-\subparagraph{Knochenmarkschädigende Therapien}Einige
-medizinische Behandlungsmethoden verursachen als Nebenwirkung
-eine massive \EE{Schädigung des
-Knochenmarks}\index{Knochenmark!Schädigung} (z.\,B.
-Bestrahlung, Chemotherapien bei Krebspatienten
-("`onkologische Patienten"'), etc.). Diese Patienten leiden
-neben einer Blutarmut auch an einem schwachen Immunsystem, da
-nicht genügend weiße Blutkörperchen gebildet werden. Sie
-können daher sehr leicht schwerwiegende Infektionen bekommen.
+Störungen des Immunsystems können sowohl zu einer
+Überfunktion, als auch zu einer Insuffizienz führen.
+Exemplarischen seien hier knochenmarkschädigende Therapien
+und Allergien ausgeführt: 
 
-Diese Patienten
-sind im Krankentransport häufig anzutreffen.
+\begin{itemize}
+  \item \EE{Knochenmarkschädigende Therapien}:
+  \index{Knochenmark!-sschädigende Therapien} Einige
+  medizinische Behandlungsmethoden verursachen als Nebenwirkung eine massive \EE{Schädigung des Knochenmarks}\index{Knochenmark!Schädigung} (z.\,B. Bestrahlung, Chemotherapien bei Krebspatienten (\enquote{onkologische Patienten}), etc.). Diese Patienten leiden
+  neben einer Blutarmut auch an einem schwachen Immunsystem, da
+  nicht genügend weiße Blutkörperchen gebildet werden. Sie
+  können daher sehr leicht schwerwiegende Infektionen bekommen.
+  Diese Patienten
+  sind im Krankentransport häufig anzutreffen.
+  \item \EE{Allergie}:
+  \label{topic:allergie}
+  \index{Allergie}
+  Das Immunsystem kann jedoch auch fälschlicherweise gegen
+  an sich ungefährliche Stoffen aktiv werden.
+  Man spricht dann von einer \T{Allergie}. Im leichtesten Fall
+  kommt es bei Kontakt mit dem auslösenden Stoff zu einer
+  Schleimhautreizung (\enquote{laufende Nase}), Augenrötung,
+  tränen, einer lokalen Rötung bzw. einem Juckreiz. Je nach Stärke der
+  Allergie sowie Dauer und Intensität des Kontakts kann es
+  aber auch zu lebensbedrohlichen Zuständen wie dem
+  anaphylaktischen Schock kommen
+  (\prettyref{topic:schock-anaphylaktischer}).
+\end{itemize}
 
-\subparagraph{Allergie}
-\label{topic:allergie}
-\index{Allergie}
-Das Immunsystem kann jedoch auch "`falsch" gegen
-ungefährliche Stoffen aktiv werden, sozusagen als Irrlauf.
-Man spricht dann von einer \T{Allergie}. Im leichtesten Fall
-kommt es bei Kontakt mit dem auslösenden Stoff zu einer
-Schleimhautreizung ("`laufende Nase"'), Augenrötung, tränen,
-einer lokalen Rötung bzw. einem Juckreiz. Je nach Stärke der
-Allergie sowie Dauer und Intensität des Kontakts kann es
-aber auch zu lebensbedrohlichen Zuständen wie dem
-anaphylaktischen Schock kommen
-(\prettyref{topic:schock-anaphylaktischer}). 
 }{
 \begin{itemize}
   \item Knochenmarkschädigende Therapien
@@ -2453,7 +2506,7 @@ aus und teilt sich auf:
   \item \T{ExtraZellularRaum} (EZR), 20\PC* KG
   \begin{itemize}
     \item \index{Zwischengewebsraum}Zwischengewebsraum,
-    $\sim$\,16\PC*: "`freier"'
+    $\sim$\,16\PC*: \enquote{freier}
     Raum zwischen den Zellen im Gewebe
     \item \index{Gefäßraum}Gefäßraum $\sim$\,4\PC*:
     Raum in den Blutgefäßen
@@ -2476,6 +2529,7 @@ Zwischengewebsraum vom Gefäßraum durch die Blutgefäßwand.
 \end{itemize}
 }{}{}{}
 
+\SlideCompensationNoParskip{2}
 
 \Layout{20}{Atome, Ionen und Elektrolyte}
 {%
@@ -2490,7 +2544,7 @@ Zwischengewebsraum vom Gefäßraum durch die Blutgefäßwand.
 \T{Atome} sind die kleinsten Grundbestandteile von Materie.
 \T{Ionen} sind Atome die \E{elektrisch geladen} sind. Sie
 sind gut in Wasser löslich. Wenn sie in Wasser gelöst sind
-heißen sie "`\T{Elektrolyte}"'.
+heißen sie \enquote{\T{Elektrolyte}}.
 
 Die wichtigsten Ionen sind Natrium (\ce{Na^+}), Kalium
 (\ce{K^+}), Kalzium (\ce{Ca^{++}}) \Z{(positiv geladen)} und
@@ -2624,8 +2678,8 @@ KOCH: Sollte alles grau werden}
 %
 Geladene Teilchen können die Zellmembran nicht selbstständig
 durchdringen, Wasser dagegen schon. Man nennt die
-Zellmembran daher eine "`\index{semipermeable
-Membran}halbdurchlässige\ZFootnote{semipermeable} Membran"'.
+Zellmembran daher eine \enquote{\index{semipermeable
+Membran}halbdurchlässige\ZFootnote{semipermeable} Membran}.
 
 Die Natur möchte, dass in einer Flüssigkeit überall die
 gleiche Konzentration von geladenen Teilchen herrscht. Da
@@ -2635,11 +2689,11 @@ verschiebt sich nur das Wasser von einem Raum in den
 anderen.
 
 \Z{Man es sich so vorstellen, dass die Elektrolyte einen
-"`Druck"' ausüben und das Wasser dazu bringen "`die Seiten
-zu wechseln"'. Man nennt diesen Druck den
-"`\index{osmotischer Druck}\T{osmotischen Druck}"'. Man kann
+\enquote{Druck} ausüben und das Wasser dazu bringen \enquote{die Seiten
+zu wechseln}. Man nennt diesen Druck den
+\enquote{\index{osmotischer Druck}\T{osmotischen Druck}}. Man kann
 auch sagen:
-\Speech{"`Das Wasser folgt dem Konzentrationsgefälle."'}}
+\Speech{\enquote{Das Wasser folgt dem Konzentrationsgefälle.}}}
 }{
 
 }
@@ -2655,10 +2709,10 @@ auch sagen:
 \Z{Daneben gibt es den \E{onkotischen} Druck, welcher durch
 Eiweißbestandteile ausgeübt wird.~\ZFootnote{Der durch
 Eiweißbestandteile hervorgerufene onkotische Druck wird bei
-speziellen "`kolloidalen"' Infusionslösungen ausgenützt. Sie
+speziellen \enquote{kolloidalen} Infusionslösungen ausgenützt. Sie
 enthalten große Eiweiße, welche die Blutgefäßwand
 normalerweise nicht passieren können und folglich Wasser vom
-Zwischengewebsraum in den Blutgefäßraum "`ziehen"'. Der
+Zwischengewebsraum in den Blutgefäßraum \enquote{ziehen}. Der
 verbreitetste Wirkstoff ist die Hydroxyethylstärke (HAES),
 Beispiele für damit erzeugte Infusionslösungen sind
 Elohaest{\texttrademark}, Voluven{\texttrademark} und
@@ -2666,12 +2720,12 @@ HyperHAES{\texttrademark}.}}
 
 \Z{Wie kommen die Elektrolyte in die einzelnen Räume wenn
 doch nur Wasser die Wand passieren kann? Dafür gibt es in
-der Zelle spezielle "`Pumpen"' \Z{(Transportproteine)} die
+der Zelle spezielle \enquote{Pumpen} \Z{(Transportproteine)} die
 die Ionen hin und her befördern. }
 
 Die Steuerung der richtigen Verteilung der verschiedenen
 Ionen ist recht kompliziert aber lebenswichtig. Eine
-"`falsche"' Verteilung der Elektrolyte kann schlimme Folgen
+\enquote{falsche} Verteilung der Elektrolyte kann schlimme Folgen
 haben (zB. Herzrhythmusstörungen).
 
 \Fazit{Die richtige Verteilung der Elektrolyte im Körper
@@ -2734,20 +2788,22 @@ sich bei Übersäuerung der Atemantrieb.
 \index{Lauge}
 \index{Base}
 \T{Säuren} sind Stoffe, die Protonen\footnote{\E{Proton}:
-positiv geladenes Teilchen im Atoms.} abgeben können,
+positiv geladenes Teilchen im Atoms. Ein positiv geladenes
+Wasserstoffion (\ce{H^+}) entspricht der Ladung eines Protons, daher kann man vereinfacht sagen:
+\Speech{\enquote{\ce{H^+} entspricht Säure.}}} abgeben können,
 \T{Basen} sind Stoffe, die Protonen aufnehmen können. Der
 Begriff
 \T{Lauge} ist gleichbedeutend mit dem Begriff Base. \cite{LoefflerBiochemie7}
-Ein positiv geladenes Wasserstoffion (\ce{H^+}) entspricht
-der Ladung eines Protons, daher kann man vereinfacht sagen:
-\Speech{"`\ce{H^+} entspricht Säure."'}
+
+\bigskip
 
 \bigskip
 }{%
 \begin{description}
   \item[\T{Säuren}]: Stoffe, die
-  Wasserstoffionen (\ce{H^+}) abgeben können
-  \item[\T{Basen}\,/\,\T{Laugen}]: Stoffe, die \ce{H^+} aufnehmen können
+  Protonen (\ce{H^+}) abgeben können
+  \item[\T{Basen}\,/\,\T{Laugen}]: Stoffe, die
+  Protonen (\ce{H^+}) aufnehmen können
 \end{description}
 }{}{}{}
 
@@ -2788,26 +2844,45 @@ bzw. Beatmung sowie Erkrankungen
 \end{itemize}
 }{}{}{}
 
-\Layout{2}{Regulationsmechanismen}
+\Layout{0}{Regulationsmechanismen}
 {%
 Der Körper muss den pH-Wert in einem engen Bereich halten.
 Dazu gibt es Regulationsmechanismen. Der wichtigste
 Regulationsmechanismus ist das
-\Z{Bicarbonat-}\II{Puffersystem} im Blut.~\ZFootnote{Ein
-Puffer ist ein Stoff welcher pH-Änderungen abfedert.}
-Daneben gibt es auch noch andere Regulationsmechanismen, so
-reguliert auch die Niere die Ausscheidung oder
-Wiederaufnhame von \ce{H^+}.
+\Z{Bicarbonat-}\II{Puffersystem} im Blut, an
+dem auch die \EE{Atmung} und die \EE{Lunge} wesentlich
+beteiligt sind.\ZFootnote{Ein Puffer ist ein Stoff welcher
+pH-Änderungen abfedert.} Daneben gibt es auch noch andere
+Regulationsmechanismen, so reguliert auch die \EE{Niere} die
+Ausscheidung oder Wiederaufnhame von Säure in Form
+von Wasserstoffionen.
 
 }{
-
+\begin{itemize}
+  \item Bikarbonat-Puffer\begin{itemize}
+    \item Blut, Lunge (Atmung)
+  \end{itemize}
+  \item Niere (\ce{H^+-Ausscheidung})
+\end{itemize}
 }{}{}{}
 
 \Layout{0}{Puffersystem im Blut}
 {%
 \label{topic:bikarbonatpuffer}
-Der Mechanismus des \Z{Bicarbonat-}Puffers wandelt Säure \Z{(\ce{H^+})}
-\Z{Bikarbonat} in Kohlendioxid \Z{\ce{CO2} und \ce{H2O}} um \E{und umgekehrt}.
+Der  \Z{Bicarbonat-}Puffer wandelt Säure  und
+\Z{Bikarbonat} in Kohlendioxid \Z{\ce{CO2}} und
+Wasser \Z{\ce{H2O}} um. Dieser Mechanismus funktioniert in
+beide Richtungen, je nachdem welcher Stoff (Säure bzw.
+\ce{CO2}) vermehrt vorliegt.
+\Commentary[Säure-Basen-Haushalt / Bikarbonat-Puffer /
+Formel]{Die vollständige Formel lautet:
+
+\protect\ce{HCO3^- + H^+ <->[\text{Gleichgewicht}] CO2 + H2O}
+
+Dies ist die konkrete Ableitung der
+Henderson-Hasselbach'schen Puffergleichung für den
+Bikarbonatpuffer.
+}
 
 \bigskip
 \Formula{\centering
@@ -2815,25 +2890,19 @@ Der Mechanismus des \Z{Bicarbonat-}Puffers wandelt Säure \Z{(\ce{H^+})}
 \ce{$\text{\Z{\tiny Bikarbonat + }}$ $\text{Säure}$
         <->[\text{Gleichgewicht}] CO2 $\text{\Z{\tiny + Wasser}}$}
 % \end{displaymath}
-
-% \begin{displaymath}
-\Z{\ce{HCO3^- + H^+ <->[\text{Gleichgewicht}] CO2 +
-        H2O}}
-% \end{displaymath} 
 }
-       
         
 Das \ce{CO2} wird normalerweise über die Lunge abgeatmet. Daraus folgt: 
 
 \begin{itemize}
   \item Atmet der Patient nicht (genug), \E{staut}
-  sich das \ce{CO2} und Säure (\ce{H^+}) wird auf der anderen Seite \E{nicht
+  sich das \ce{CO2} und Säure wird auf der anderen Seite \E{nicht
   abgebaut}. Es entsteht eine \EE{atmungsbedingte Übersäuerung}.
   \item Atmet der Patient zu viel, wird zu viel
-  \ce{CO2} abgeatmet und wird nachgebildet; dabei wird \ce{H^+} zu Wasser und
-  geht "`verloren"'. Da nun das \ce{H^+} (=\,Säure) 
+  \ce{CO2} abgeatmet und wird nachgebildet; dabei wird Säure
+  zu Wasser und geht \enquote{verloren}. Da nun Säure 
   \E{fehlt}, kommt es zu einer \EE{atmungsbedingten Alkalose}.
-  \item Fällt zu viel Säure (\ce{H^+}) im
+  \item Fällt zu viel Säure im
   Körper an (Stoffwechsel-bedingte Übersäuerung), wird
   es zu  \ce{CO2} (und Wasser) umgewandelt, \E{das \ce{CO2} wird
   abgeatmet.} Es kommt zu einer \EE{tiefen, schnellen Atmung}.
@@ -2847,12 +2916,12 @@ Das \ce{CO2} wird normalerweise über die Lunge abgeatmet. Daraus folgt:
   \item Zu wenig Atmung: \ce{CO2} staut
   sich, \ce{H^+} wird nicht abgebaut
   
-  \Sign{→} \EE{Atmungsbedingte Übersäuerung}
+  \EE{Atmungsbedingte Übersäuerung}
   \item Zu viel Atmung:  zu viel \ce{CO2} abgeatmet, \ce{CO2} wird
-  nachgebildet, \ce{H^+} wird zu Wasser und fehlt
+  nachgebildet, Säure wird zu Wasser und fehlt
   
-  \Sign{→} \EE{Atmungsbedingte Alkalose}
-  \item Zu viel Säure (\ce{H^+}) im
+  \EE{Atmungsbedingte Alkalose}
+  \item Zu viel Säure  im
   Körper: zu \ce{CO2} umgewandelt und wird abgeatmet
 \end{itemize}
 }{}{}{}
@@ -2869,112 +2938,104 @@ Das \ce{CO2} wird normalerweise über die Lunge abgeatmet. Daraus folgt:
 \subsection{Auswirkungen der Atmung und des Stoffwechsels
 auf den Säure-Basen-Haushalt}
 
-\subsubsection{Atmungsbedingte Übersäuerung -- Respiratorische Azidose}%
+
+\Layout{0}{Atmungsbedingte Übersäuerung (Respiratorische
+Azidose)} {%
 \label{bkm:RefHeading35233321}%
 \label{topic:azidose-respiratorische}%
 \index{Uebersäuerung@Übersäuerung}%
 \index{Respiratorische Azidose}%
+Zugrunde liegt eine insuffiziente innere oder äußere Atmung.
+Dies Umfasst z.\,B.  eine zu niedrige Atemfrequenz  oder ein
+zu geringes Atemzugsvolumen, eine Verlegung der Atemwege,
+ein zu geringes Sauerstoffangebot in der Einatemluft, einen
+beeinträchtigten Gasaustausch oder generell eine
+Kreislaufinsuffizienz.
 
-\Layout{2}{\TxBeschreibung}
-{%
-Sie entsteht durch eine eingeschränkte oder verminderte Atmung oder durch einen
-verminderten Gasaustausch.
+Da die \ce{CO2}-Abatmung vermindert ist, kommt es zu einer
+Anhäufung von \ce{CO2} im Blut \Z{(Hyperkapnie)} und
+folglich zu einer Ansäuerung des Blutes.
 
-\begin{quote}
-\ce{CO2}  Abatmung vermindert ${\rightarrow}$ Anhäufung von
-\ce{CO2} im Blut\footnote{\Z{Hyperkapnie}}, Ansäuerung des
-Blutes
-\end{quote}
-}{}{}{}{}
+\bigskip
 
+\bigskip
 
+\bigskip
 
-
-\Layout{2}{Ursachen}
-{%
-\begin{itemize}
+\bigskip
+\SlideCompensationNoParskip{1}
+}
+{\begin{itemize}
   \item Insuffiziente innere oder äußere Atmung
   \begin{itemize}
-    \item Verlegung der Atemwege
-    \item Atemfrequenz zu niedrig oder Atemzugsvolumen zu gering
-    \item Sauerstoffangebot in der Einatemluft zu gering
+    \item AF $\downarrow$, AZV $\downarrow$
+    \item Sauerstoffgehalt der Einatemluft $\downarrow$
     \item Gasaustausch beeinträchtigt
-    \item Kreislauf zu schwach\footnote{Ist zwar nicht
-    direkt atmungsbedingt, aber es kommt zu wenig
-    Sauerstoff ins Gewebe.}
+    \item Kreislaufinsuffizienz
   \end{itemize}
-\end{itemize}
-}{}{}{}{}
+  \item Anhäufung von
+\ce{CO2} im Blut
+\end{itemize}}
+{}{}{}
 
-\MassnahmenNG{Spezielle Maßnahmen}{Respiratorische Azidose}
-{}{
-\index{Alkalose!Respiratorische}
-
-\begin{itemize}
-    \item Behebung der Ursache
-    \item Erhöhung des Atem-Minuten-Volumens
-\end{itemize}
-}
-
-
-
-
+% \MassnahmenNG{Spezielle Maßnahmen}{Respiratorische Azidose}
+% {}{
+% \index{Alkalose!Respiratorische}
+% 
+% \begin{itemize}
+%     \item Behebung der Ursache
+%     \item Erhöhung des Atem-Minuten-Volumens
+% \end{itemize}
+% }
 
 
-\subsubsection{Stoffwechselbedingte Übersäuerung
--- Metabolische Azidose}
-%%%
+
+
+
+
+
+\Layout{0}{Stoffwechselbedingte Übersäuerung
+(Metabolische Azidose)}
+{%
 \label{topic:azidose-metabolische}
 \index{Uebersäuerung@Übersäuerung}
 \index{Azidose!Metabolische}
 \index{Hyperventilation!bei metabolischer Azidose}
+Es kommt zu einer übermäßigen Säureproduktion des Körpers.
+Ein klassisches Krankheitsbild welches dazu führt  ist das
+\II[Koma!diabetisches]{Diabetische Koma}. Hier werden saure
+Stoffe gebildet \Z{(sog. Ketonkörper)}, welche ein
+Ungleichgewicht verursachen. Es kann dadurch zu einer
+Schädigung des Zellstoffwechsels und des Herzmuskels kommen.
 
-\Definition{Übersäuerung durch vermehrte Produktion von Säuren im Körper.}
-
-
-\Layout{2}{Ursachen}
-{%
-Zu der übermäßigen Säureproduktion kommt es vor allem bei einer
-Kreislaufinsuffizienz und beim Schock.
-
-Ein klassisches Krankheitsbild ist das
-\II[Koma!diabetisches]{Diabetische Koma}. Auch hier werden
-saure Stoffe gebildet \Z{(Ketonkörper)}, welche ein Ungleichgewicht verursachen. }{%
-\begin{itemize}
-    \item Kreislaufinsuffizienz, Schock
-    \item Diabetisches Koma
-\end{itemize}
-}{}{}{}
+Es bestehen die Symptome der Grunderkrankung. Weiters fällt
+eine \EE{tiefe, schnelle Atmung} auf, da der Körper
+versucht, \ce{CO2} abzuatmen (\E{Kußmaul'sche Atmung}).
 
 
-\Layout{2}{\TxGefahren}
-{%
-Es kann zu einer Schädigung des Zellstoffwechsels und des Herzmuskels kommen.
+
+\bigskip
+
+\bigskip
+
 }{%
 \begin{itemize}
-    \item Schädigung des Zellstoffwechsels
-    \item Schädigung des Herzmuskels
-\end{itemize}
-}{}{}{}
-
-\Layout{0}{\TxSymptome}{%
-Es bestehen die Symptome der Grunderkrankung. Darüber hinaus fällt eine
-\EE{tiefe, schnelle Atmung} zur Abatmung von \ce{CO2} (\E{Kußmaul'sche
-Atmung}) auf.
-}{%
-\begin{itemize}
-    \item Symptome der Grunderkrankung
-    \item Tiefe, schnelle Atmung (\E{Kußmaul'sche Atmung})
+  \item Bildung von sauren Stoffen im Körper
+  
+  Z.\,B. diabetisches Koma
+  \item Symptome der Grunderkrankung
+  \item Tiefe, schnelle Atmung
+  \item Schädigung des Zellstoffwechsels und des
+  Herzmuskels
 \end{itemize}
 }{}{}{}
 
 
-
-\subsubsection{Atmungsbedingte (respiratorische) Alkalose}
-\label{topic:alkalose-respiratorische}
+\Layout{2}
+{Atmungsbedingte (respiratorische) Alkalose}
+{\label{topic:alkalose-respiratorische}
 \index{Alkalose}
 \index{Hyperventilation!respiratorische Alkalose}
-
 Durch die vermehrte Abatmung von \ce{CO2} wird der pH-Wert
 des Blutes basisch und es kommt zu einem
 Elektrolytungleichgewicht. Dies verursacht Symtome wie
@@ -2983,22 +3044,28 @@ Pfötchenstellung und tonischen Krämpfe.
 
 Eine ausführliche Beschreibung des
 \E{Hyperventilationssyndroms} findet sich unter
-\prettyref{topic:hyperventilationstetanie}.
+\FullPrettyRef{topic:hyperventilationstetanie}.}
+{}
+{}
+{}
+{}
 
-\subsubsection{Stoffwechselbedingte (metabolische) Alkalose}
-\label{topic:alkalose-metabolische}
+\Layout{2}
+{Stoffwechselbedingte (metabolische) Alkalose}
+{\label{topic:alkalose-metabolische}
 \index{Alkalose!Metabolische}
 \index{Alkalose!Stoffwechselbedingte}
+Eine stoffwechselbedingte Alkalose  kommt v.\,a. durch den \E{Verlust von Säure},
+z.\,B. durch anhaltendes Erbrechen, zu Stande.}
+{}
+{}
+{}
+{}
 
-
-
-Eine stoffwechselbedingte Alkalose  kommt v.a. durch den \E{Verlust von Säure},
-z.\,B. durch anhaltendes Erbrechen, zu Stande.
 
 \subsubsection*{Zusammenfassung}
 
 
-Kurz gefasst:
 \Fazit{Die \EE{richtige Verteilung} von Wasser im Körper ist
 lebenswichtig.}
 
@@ -3015,10 +3082,10 @@ Wasser.}
   
 \Fazit{Besonders die \EE{Atmung} und der \EE{Stoffwechsel} können dem
   Säure-Basen-Haushalt Streiche spielen: \newline
-  Wer zu wenig atmet wird sauer; \newline
-  wer zu viel atmet wird basisch und spürt ein Kribbeln
-in den Fingern; \newline
-wer Probleme mit dem Stoffwechsel hat kann auch
+  Wer zu wenig atmet wird sauer. \newline
+  Wer zu viel atmet wird basisch und spürt ein Kribbeln
+in den Fingern. \newline
+Wer Probleme mit dem Stoffwechsel hat kann auch
     sauer oder basisch werden.}
 
 

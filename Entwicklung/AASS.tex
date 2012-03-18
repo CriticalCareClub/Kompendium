@@ -5,7 +5,7 @@ asymmetric,
 fontsize=10pt,
 % headings=small,
 draft=false,
-parskip=half,
+% parskip=half,
 numbers=noenddot,
 % listof=totoc,         % verschiebt Minitoc/Hyperref
 % bibliography=totoc,   % verschiebt Minitoc/Hyperref
@@ -23,26 +23,16 @@ toc=flat,
 % get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
 \usepackage{etex}
 
-\pdfcompresslevel=9
-\pdfimageresolution=72
-% \pdfpkresolution=72
-% \usepackage[a-1b]{pdfx}
-% \def\Keywords{AASS} \def\Title{AASS} \def\Author{ARGE AASS} \def\Org{ARGE AASS}
-% % \input glyphtounicode.tex \input glyphtounicode-cmr.tex \pdfgentounicode=1
-% \usepackage[xcolor]{rvdtx}
-
-
 \usepackage{blindtext}
-\usepackage{microtype,fixltx2e,ellipsis}
+\usepackage{microtype}
+\usepackage{fixltx2e}
+\usepackage{ellipsis}
 
 % Optionen für Bilder:
 % [draft] .. Es werden nur Rahmen angezeigt
 % [final] .. Es werden Bilder normal angezeigt
 % [demo} .. keine Bilder
 \usepackage[final]{graphicx} % Bilder-Support
-
-% \usepackage{showidx} % shows index entries on page margin
-% \usepackage{showkeys}
 
 \input{./inputs/input-preamble}
 
@@ -69,21 +59,36 @@ toc=flat,
 
 \setcounter{errorcontextlines}{10}
 
-% \usepackage{fontspec}
-% \usepackage{setspace}
-
+ 
 
 \usepackage{ragged2e}
-% \usepackage[xcolor]{changebar}
-% % \driver{PDFTeX} % changebar
-
-
-
-% \usepackage{colortbl}
-% \arrayrulecolor{Beige}
 
 \renewcommand{\Abk}[1]{#1}
 
+\usepackage{xr}
+\externaldocument[MK-]{AASS-MKATALOG-2012}
+
+
+% 1: Art der Massnahmen
+% 2: Titel
+% 3: Referenz
+% 4: Text / Taktik
+% 5: Punkte
+\newcommand{\MassnahmenMK}[5]{%
+\Layout{Massnahmen}
+{{\SignMassnahme} #1: #2}
+{{\color{Indigo}#4\par Siehe \FullPrettyRef{MK-#3}}}
+{\FullPrettyRef{MK-#3}}
+{}
+{}
+{}}
+
+\newcommand{\QSO}{>>}
+\newcommand{\QSC}{<<}
+\newcommand{\QSSO}{>>}
+\newcommand{\QSSC}{<<}
+\newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
+\newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
 
 % #######################################################################################################
 % #######################################################################################################
@@ -95,14 +100,6 @@ toc=flat,
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
-% \pagestyle{scrheadings}
-
-% \setmainfont[SmallCapsFont={* Caps},
-% Mapping=tex-text]{Latin Modern Roman}
-% \setsansfont[Mapping=tex-text]{Latin Modern Sans}
-% \setmonofont[SmallCapsFont={* Caps}]{Latin Modern Mono}
-
-% \defaultfontfeatures{Numbers=OldStyle}
 \MultiColListStart{toc}{2}
 \MultiColListStart{lofazit}{2}
 \MultiColListStart{lomassnahmen}{2}
@@ -112,45 +109,25 @@ toc=flat,
 \newgeometry{verbose,
 a4paper,
 asymmetric,
-% reversemp,
 reversemarginpar,
-% % includemp,
-% % tmargin=25mm,
-% % bmargin=20mm,
 rmargin=13mm,
 lmargin=13mm,
-% % outer  = 56mm,
-% % inner  = 56mm,
 top    = 20mm,
 bottom = 15mm,
-% % hmarginratio=2:1,
 marginparwidth = 0mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
 footskip = 5mm,
-% % includehead,
 bindingoffset=1.5cm}
 \savegeometry{FullPage}
 \newgeometry{verbose,
 a4paper,
 asymmetric,
-% reversemp,
 reversemarginpar,
-% % includemp,
-% % tmargin=25mm,
-% % bmargin=20mm,
 rmargin=13mm,
 lmargin=13mm,
-% % outer  = 56mm,
-% % inner  = 56mm,
 top    = 8mm,
 bottom = 8mm,
-% % hmarginratio=2:1,
 marginparwidth = 0mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
 footskip = 5mm,
-% % includehead,
 bindingoffset=1.5cm}
 \savegeometry{WholePage}
 \restoregeometry
@@ -161,7 +138,7 @@ bindingoffset=1.5cm}
 
 
 \loadgeometry{FullPage}
-% \maketitle
+
 \begin{titlepage}
 \input{./inputs/input-cover-front}
 
@@ -173,7 +150,7 @@ bindingoffset=1.5cm}
 
 	Covergestaltung: \emph{Sebastian Gabriel.}
 
-    {Titelbild: \emph{Ch. Pallinger} }
+    {Titelbild: \emph{Christoph Pallinger} }
     
 \vfill
     
@@ -251,7 +228,7 @@ ist, es gibt so viele, aus denen man auswählen kann.}
 \vfill
 
 \begin{center}
-\Speech{"`Früher war mehr Lametta."'}
+\Speech{\enquote{Früher war mehr Lametta.}}
 
 \bigskip
 
@@ -323,8 +300,8 @@ Vicco von Bülow (\VonBis{1923}{2011})
 
 \parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
 Das vorliegende Werk ist das (Zwischen-)Ergebnis einer seit mehr als zwei Jahren
-andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig
-sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
+andauernden Arbeit. Oft werden wir gefragt \Speech{\enquote{Wann wird Euer Buch fertig
+sein?}} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
 ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
 und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
 leisten könnte, still zu stehen.
@@ -349,7 +326,7 @@ bewähren.
 
 
 
-\paragraph{Dieses Werk ist keine "`Dienstanweisung"'!}~~
+\paragraph{Dieses Werk ist keine \enquote{Dienstanweisung}!}~~
 
 \parpic[r][r]{\includegraphics[width=2cm]{./images/teaser/affe-sama-ambas-schein_00800.jpg}}
 Eines muss vorweg klargestellt werden: Auch wenn es sehr in
@@ -363,7 +340,7 @@ festgeschriebene Prozesse basieren. Der menschliche Faktor,
 insbesonders die jeweilige Erfahrungen, ist und bleibt der
 entscheidende Faktor jeglichen Handelns. Kein Lehrbuch oder
 standardisierter Prozess kann das ändern, sofern das Ziel
-ein "`gutes"' Ergebnis, und keine statistische Kennziffer
+ein \enquote{gutes} Ergebnis, und keine statistische Kennziffer
 ist.
 
 In diesem Sinne ist der Titel dieses Werkes nicht im Sinne eines
@@ -408,7 +385,7 @@ Abkürzungsform ausgesprochen werden) werden entgegen der \Abk{DUDEN}-Empfehlung
 nicht kleingeschrieben, wenn es sich um Fachtermini handelt. 
 
 \paragraph{Verabreichungsarten}
-Verabreichnungsarten wie z.\,B. "`i.\,v."' werden grundsätzlich als 
+Verabreichnungsarten wie z.\,B. \enquote{i.\,v.} werden grundsätzlich als 
 Kapitälchen, ohne Abstand oder Punkte geschrieben. Zum Beispiel: \Abk{IV} (intravenös), \Abk{IM}
 (intramuskulär), \Abk{SL} (sublingual), \Abk{SC}(subkutan). Wenn dies in der
 Schriftart nicht möglich ist, wird die Schreibweise mit Punkten und halbem
@@ -428,6 +405,37 @@ mMxX}
 }
 
 \section{Benutzungshinweise}
+
+\Layout{2}
+{Maßnahmenkatalog}
+{Ergänzend zu diesem Lehrbuch existiert ein eigener
+Maßnahmenkatalog, in welchem die jeweiligen konkreten
+Maßnahmen zu finden sind. Referenzen mit dem Symbol
+{\SignMassnahme} beziehen sich auf diesen Katalog. Sofern
+nicht anders angegeben, beziehen sich die Angaben auf den 
+Maßnahmenkatalog in der \EE{Version \VarMkatalogVersion}.
+
+}
+{}
+{}
+{}
+{}
+
+\Layout{2}
+{Externe Teile}
+{Aus Kostengründen sind manchmal nicht
+alle Teile Bestandteil eines Drucks. Dies betrifft
+insbesonders Teile des Appendix wie z.\,B. das
+Literaturverzeichnis oder den Kommentarteil. Diese Teile
+sind online auf der {\AASS}-Projektseite im
+Download-Bereich verfügbar
+(\url{http://www.aass.at/cms/download/aass/}).
+
+}
+{}
+{}
+{}
+{}
 
 \Layout{2}{Im Text}{%
 \E{Betonte} Textteile sind kursiv, \EE{Besonders stark
@@ -459,31 +467,57 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \begin{labeling}{mmm}
   \item[\SignFigure] \ Abbildungen
   \item[\SignFazit] \ Leitsätze
-  \item[\SignMassnahme] \ Maßnahmen
+  \item[\SignMassnahme] \ Maßnahmen, Referenzen beziehen
+  sich auf den Maßnahmenkatalog
   \item[\SignTable] \ Tafeln
 \end{labeling}
 \end{multicols}
 }{}{}{}{}
+\ref{MK-apm} S.\,\pageref{MK-apm}
 
+\FullPrettyRef{MK-m:standardmassnahmen-immer}
 
 
 \Layout{2}{Index}{%
 \begin{description}
   \item[Zusammengesetzte Begriffe] Eigenschaftswort
-  Hauptwort \Sign{→} Hauptwort, Eigenschaftswort; "`Begriffe,
-  zusammengesetzte"'
+  Hauptwort \Sign{→} Hauptwort, Eigenschaftswort; \enquote{Begriffe,
+  zusammengesetzte}
   \item[Umlaute] Ä, Ö, Ü \Sign{→} Ae, Oe, Ue
 \end{description}
 }{}{}{}{}
 
+\bigskip
 
-{\the\WideParWidth}
+\begin{WidePar}
+{\Huge
+\noindent\colorbox{DefaultA}{\textcolor{DefaultA}{X~~~~~}}~~
+\colorbox{DefaultB}{\textcolor{DefaultB}{X~~~~~}}~~
+\colorbox{DefaultC}{\textcolor{DefaultC}{X~~~~~}}~~
+\colorbox{DefaultD}{\textcolor{DefaultD}{X~~~~~}}~~
+\colorbox{DefaultE}{\textcolor{DefaultE}{X~~~~~}}~~
+\bigskip
+
+\noindent\colorbox{DefaultGrey}{\textcolor{DefaultGrey}{X~~~~~}}~~
+\colorbox{DefaultGreen}{\textcolor{DefaultGreen}{X~~~~~}}~~
+\colorbox{Lavender}{\textcolor{Lavender}{X~~~~~}}~~
+\colorbox{Indigo}{\textcolor{Indigo}{X~~~~~}}
+}
+\end{WidePar}
+
+\bigskip
+
+\noindent{\the\WideParWidth}
 {\the\ThirdGrossWidth}
 {\the\ThirdNetWidth}
 
 
 \begin{WidePar}
   \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
+  
+  \noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme} gekennzeichnete
+Referenzen finden sich im Maßnahmenkatalog (Version
+\VarMkatalogVersion).
 \end{WidePar}
 % {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
 
@@ -493,11 +527,15 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \begin{WidePar}
   {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
 
+\noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme}
+gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
+\VarMkatalogVersion).
+
 % {\small\listoffigures}
 % 
 % {\small\listoftables}
 
-{\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
+% {\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
 
 {\small\kern-2.ex\listof{fazit}{Merksätze}}
 \end{WidePar}
@@ -546,11 +584,15 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \include{./chapters/chapter-BAU}
 
+\include{./chapters/chapter-ASB}
+
 \include{./chapters/chapter-SAN}
+
+\include{./chapters/chapter-ASS}
 
 \include{./chapters/chapter-BLS}
 
-% dann "`wie führe ich ein gespräch:
+% dann \enquote{wie führe ich ein gespräch:
 \include{./chapters/chapter-AUP}
 
 \include{./chapters/chapter-PSI}
@@ -559,8 +601,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \include{./chapters/chapter-GEF}
 
-% Zuletzt: "`Wie mache ich daraus einen funktionierenden Ablauf?"'
+% Zuletzt: \enquote{Wie mache ich daraus einen funktionierenden Ablauf?}
 \include{./chapters/chapter-PAM}
+% \include{./chapters/chapter-PAMneu}
 
 % {\WideParBegin}
 \part{Medizinisch-Wissenschaftlicher Basisteil}
@@ -576,7 +619,17 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \include{./chapters/chapter-TOD}
 
-\include{./chapters/chapter-MED}
+\include{./chapters/chapter-HKL}
+
+\include{./chapters/chapter-RSP}
+
+\include{./chapters/chapter-NEU}
+
+\include{./chapters/chapter-STW}
+
+\include{./chapters/chapter-ABD}
+
+\include{./chapters/chapter-URO}
 
 \include{./chapters/chapter-HYG}
 
@@ -602,9 +655,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 
 % {\WideParBegin}
-\part{"`Intermediate"' (Erweitertes Wissen)}
+\part{\enquote{Intermediate} (Erweitertes Wissen)}
 % {\WideParEnd}
-\setcounter{chapter}{50}
+\setcounter{chapter}{60}
 % \setcounter{page}{1}
 
 % \include{./chapters/chapter-MP2}
@@ -614,6 +667,10 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \opt{STATUS-EXPERIMENTAL}{%
 \include{./chapters/chapter-ARZ}
 } % STATUS-EXPERIMENTAL
+
+\opt{STATUS-EXPERIMENTAL}{%
+\include{./chapters/chapter-NKA}
+}
 
 \opt{STATUS-EXPERIMENTAL}{%
 \include{./chapters/chapter-PKU}
@@ -636,7 +693,7 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 } % STATUS-EXPERIMENTAL
 
 % {\WideParBegin}
-\part{"`Advanced"' (Fortgeschrittenes Wissen)}
+\part{\enquote{Advanced} (Fortgeschrittenes Wissen)}
 % {\WideParEnd}
 \setcounter{chapter}{70}\setcounter{page}{1}
 
@@ -717,8 +774,8 @@ SO LONG.......... AND THANKS FOR ALL THE FISH
 % 
 % \parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
 % Das vorliegende Werk ist das (Zwischen-)Ergebnis einer seit mehr als zwei Jahren
-% andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig
-% sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
+% andauernden Arbeit. Oft werden wir gefragt \Speech{\enquote{Wann wird Euer Buch fertig
+% sein?}} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
 % ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
 % und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
 % leisten könnte, still zu stehen.

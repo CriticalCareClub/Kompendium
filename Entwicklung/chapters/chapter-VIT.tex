@@ -623,83 +623,46 @@ soporöse Patienten}{m:bewusstlosigkeit}
 Es gibt 3 elementare Kennzahlen, welche die wichtigsten Atmungsparameter
 beschreiben:
 
-\begin{labeling}[\dots{}]{Atemminutenvolumen (AMV)}
-  \item[\T{Atemfrequenz} (\T{AF})] gibt die Anzahl der Atemzüge pro
-  Minute an.
-  \item[\T{Atemzugsvolumen} (\T{AZV})] gibt die Menge
-  Luft an, die \E{pro Atemzug} eingeatmet wird.
-  \item[\T{Atemminutenvolumen} (\T{AMV})] gibt die Menge an \E{pro Minute}
-  eingeatmeter Luft an.
-\end{labeling}
-
-Das Atemminutenvolumen kann aus der Atemfrequenz und dem
-Atemzugsvolumen errechnet werden:
-
-\begin{equation}
+\begin{itemize}
+  \item Die \T{Atemfrequenz} (\T{AF}) gibt die Anzahl der
+  Atemzüge pro Minute an. Die normale Atemfrequenz  beträgt beim Erwachsenen
+in Ruhe \VonBis{12}{16}\PerMin*.
+  \item Das \T{Atemzugsvolumen} (\T{AZV}) gibt die Menge
+  Luft an, die \E{pro Atemzug} eingeatmet wird. Das normale
+  Atemzugsvolumen  eines Erwachsenen beträgt ca.
+  500\Ml*.\ZFootnote{Die Einstellungen eines Beatmungsgeräts können von den Normalwerten deutlich abweichen, da man z.\,B. manchmal
+\enquote{vorsichtiger}, bzw. Lungen-schonender, beatmen möchte.}
+  \item Das \T{Atemminutenvolumen} (\T{AMV}) gibt die Menge
+  an \E{pro Minute} eingeatmeter Luft an. 
+  Es kann aus der
+  Atemfrequenz und dem Atemzugsvolumen \E{errechnet} werden:
+  \begin{equation}
 \mbox{AMV} = \mbox{AZV} \times \mbox{AF}
 \end{equation}
+Die oben angegebenen Normalwerte ergeben also ein normales
+Atemminutenvolumen von  6\,--\,8\LPerMin*. 
+\end{itemize}
 
-% Die
-% \T{Atemfrequenz} (\T{AF}) gibt die Anzahl der Atemzüge pro
-% Minute an. Das \T{Atemzugsvolumen} (\T{AZV}) gibt die Menge
-% an Luft an die eingeatmet wird. Das \T{Atemminutenvolumen}
-% (\T{AMV}) errechnet sich aus der Atemfrequenz und dem
-% Atemzugsvolumen. Es gibt die Menge an \E{pro Minute}
-% eingeatmeter Luft an.
 }{
-\begin{description}
-    \item[AF] {\dotfill} Atemfrequenz
-    \item[AZV] {\dotfill} Atemzugsvolumen
-    \item[AMV] {\dotfill} Atemminutenvolumen
-\end{description}
-
+\begin{labeling}[:]{AMV}
+    \item[AF] Atemfrequenz,
+    \EE{\VonBis{12}{16}\PerMin*}
+    \item[AZV] Atemzugsvolumen,
+    \EE{500\Ml*}
+    \item[AMV] Atemminutenvolumen,
+    \EE{\VonBis{6}{8}\LPerMin*}
+\end{labeling}
+\tcblower
+\begin{center}
 $\mbox{AMV} = \mbox{AZV} \times \mbox{AF}$
+\end{center}
 }{}{}{}
-
-
-
-\Layout{0}{Normalwerte Atmung}
-{%
-Die normale Atemfrequenz (\T{AF}) beträgt beim Erwachsenen
-in Ruhe \VonBis{12}{16}\PerMin*, das Atemzugsvolumen
-(\T{AZV}) beträgt ca. 500\Ml*.\ZFootnote{Die Einstellungen eines Beatmungsgeräts können von den
-Normalwerten deutlich abweichen, da man z.\,B. manchmal
-\enquote{vorsichtiger}, bzw. Lungen-schonender, beatmen möchte.} Das entspricht einem
-Atemminutenvolumen (\T{AMV}) von  6\,--\,8\LPerMin*.  Für
-eine ausreichende Atmung ist auch eine ausreichende
-\ce{O2}-Konzentration der Umgebungsluft notwendig!
-}{
-\begin{description}
-    \item[AF] {\dotfill} \EE{\VonBis{12}{16}\PerMin*}
-    \item[AZV] {\dotfill} \EE{500\Ml*}
-    \item[AMV] {\dotfill} \EE{\VonBis{6}{8}\Liter*}
-\end{description}
-}{}{}{}
-
-Auch wichtig ist die ausreichende
-\ce{O2}-Konzentration in der Umgebungsluft. Ohne Sauerstoff in der Einatemluft
-ist die beste Atmung nutzlos. Der normale \ce{O2}-Gehalt der Umgebungsluft
-beträgt 21\PC*.
-\marginlabel{\cite{KlinkePhysio3,SchmidtPhysio28,DRAn3,StriebelAn7}}
-
-Die genauen Werte sind abhängig von den Faktoren Alter,
-Geschlecht und Größe. 
-
-
-\Fazit{AMV = AZV $\ast$ AF, beim Erwachsenen  ca.
-\VonBis{6}{8}\Liter*}
-
-
-
-
-
-Die Atemfrequenz ist stark altersabhängig:
-
-
+Die genauen Normalwerte sind abhängig von den Faktoren
+Alter, Geschlecht und Größe. \cite{KlinkePhysio3,SchmidtPhysio28,DRAn3,StriebelAn7}
 
 \begin{table}[H]
-\Captionof{table}{Atemfrequenz im Altersvergleich,
-Richtwerte.}
+\Captionof{table}{Atemfrequenz und -zugvolumen im
+Altersvergleich, Richtwerte.}
 
 \begin{tabular}{lrr}\addlinespace\toprule\addlinespace
  & \noindent\TabHeading{AF} & \noindent\TabHeading{AZV}
@@ -714,6 +677,17 @@ Richtwerte.}
 \\\addlinespace\bottomrule
 \end{tabular}
 \end{table}
+
+\Fazit{AMV = AZV $\ast$ AF, beim Erwachsenen  ca.
+\VonBis{6}{8}\Liter*}
+
+Für
+eine ausreichende Atmung ist auch eine ausreichende
+\ce{O2}-Konzentration der Umgebungsluft notwendig, denn
+ohne Sauerstoff in der Einatemluft ist die beste Atmung nutzlos. Der normale \ce{O2}-Gehalt der Umgebungsluft
+beträgt 21\PC*.
+
+
 
 \Layout{0}{Totraum}
 {%

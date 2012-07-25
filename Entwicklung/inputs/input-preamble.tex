@@ -684,21 +684,21 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 \newcommand{\FontTypewriter}{\fontfamily{lmtt}\fontseries{lc}\selectfont}
 
 
-\newenvironment{PictureSeries}[2]
+\newenvironment{PictureSeries}[3][H]
 {%
-\begin{figure}[H]
+\begin{figure}[#1]
 % \ifthenelse{\equal{#1}{Wide}}{\begin{WidePar}}{}
-\Captionof{figure}{#2}\par}
+\Captionof{figure}{#3}\par}
 {%
 % \ifthenelse{\equal{#1}{Wide}}{\end{WidePar}}{}
 \end{figure}
 }
 
-\newenvironment{PictureSeriesWide}[2]
+\newenvironment{PictureSeriesWide}[3][H]
 {%
-\begin{figure}[H]
+\begin{figure}[#1]
 \begin{WidePar}
-\Captionof{figure}{#2}\par}
+\Captionof{figure}{#3}\par}
 {%
 \end{WidePar}
 \end{figure}

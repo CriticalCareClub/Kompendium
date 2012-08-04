@@ -9,11 +9,6 @@
 
 
 
-% http://mrunix.de/forums/showthread.php?p=301707
-% Abstand zwischen Absätzen in minipage-Umgebung:
-\makeatletter
-\newcommand*{\@minipagerestore}{\parskip@update}
-\makeatother
 
 
 
@@ -43,7 +38,6 @@
 \makeatletter 
 \renewcommand*{\@pnumwidth}{3.5em}
 \renewcommand{\@tocrmarg}{4.5em}
-
 \makeatother
 
 \usepackage{titletoc}
@@ -81,18 +75,66 @@
    }
 \makeatother
 
-% Hat man den Wunsch, auf eine Fußnote mehrfach zu verweisen, bietet LATEX dafür keine direkte Möglichkeit.
-% Man muss hier die folgende Definition, eingerahmt von \makeatletter und \makeatother, in den Vorspann des Dokuments einfügen.
-% Im Text muss bei der Fußnote, auf die ein zweites mal verwiesen werden soll, ein Label (hier: \label{fn:wichtig})eingefügt werden.
-% Mit \footref{fn:wichtig} verweist man dann ein weiteres mal auf sie.
-% http://www2.informatik.hu-berlin.de/~piefel/LaTeX-PS/Archive-2004/V07-footnote.pdf
-\makeatletter
-\providecommand*{\footref}[1]{% \begingroup 
-\unrestored@protected@xdef\@thefnmark{\ref{#1}}% \endgroup 
-\@footnotemark}
-\makeatother
 
+% No bottom titles !!!
+\usepackage[nobottomtitles]{titlesec}
+\renewcommand{\bottomtitlespace}{.10\textheight}
+
+\usepackage{hyperref}
+
+
+\usepackage[AASS,stylelayout]{aass-common}
+
+\usepackage[grey,helvetica]{quotchap}
+%\renewcommand{\sectfont}{\large\color{DefaultA}\sffamily\fontfamily{phv}\selectfont}
+\definecolor{chaptergrey}{named}{DefaultA}
+
+
+\addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}}
+\renewcommand{\thesection}{{\color{DefaultA}\thechapter}.\arabic{section}}
+
+
+\usepackage{minitoc} 
+%The quotchap package should be loaded BEFORE the minitoc package.
+\newcounter{DefaultMinitocDepth}
+\setcounter{DefaultMinitocDepth}{3}
+\mtcsetdepth{minitoc}{\value{DefaultMinitocDepth}}
+\nomtcrule
+
+% \setlength{\mtcindent}{0pt}
+% \setlength{\stcindent}{0pt}
+% \mtcindent{0pt}
+% \stcindent{0pt}
+\renewcommand{\mtcfont}{\sffamily\small}
+\renewcommand{\mtcSfont}{\sffamily\small\bfseries}
+\renewcommand{\mtcSSfont}{\sffamily\scriptsize}
+\renewcommand{\mtcSSSfont}{\sffamily\scriptsize}
+% \mtcsetoffset{minitoc}{-4em}
+% \mtcsetformat{mini-table}{mtcindent}{0pt}
+
+\setlength{\mtcindent}{0pt}
+\mtcsetfeature{minitoc}{open}{\kern1sp\vspace*{-.1ex}\begin{multicols}{2}[\kern-2.5ex]}
+\mtcsetfeature{minitoc}{close}{\end{multicols}\kern-2.ex}
+% \mtcsetfeature{minitoc}{open}{\begin{multicols}{2}}
+% \mtcsetfeature{minitoc}{close}{\end{multicols}}
+\mtcsetfeature{minitoc}{before}{\begin{WidePar}\raggedcolumns}
+\mtcsetfeature{minitoc}{after}{\flushcolumns\end{WidePar}}
+\mtcsetoffset{minitoc}{-0.7em}
+\setlength{\mtcindent}{-0.7em}
+% \mtcsetformat{minitoc}{tocrightmargin}{2cm}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Bibliographie
+
+\newcommand{\textbfit}[1]{\textbf{\textit{#1}}}
 \newcommand{\bibentry}[1]{\fullcite{#1}}
+\newcommand{\ChapterBibliography}{\relax}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Verweise
 \usepackage{prettyref}
 \newrefformat{sec}{\emph{\ref{#1}}}
 % \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
@@ -104,12 +146,23 @@
 % \newrefformat{m}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
 \newrefformat{m}{\SignMassnahmeSmall\,\ref{#1}}
 \newrefformat{topic}{\Pointinghand\,\ref{#1}}
+\newcommand{\FullRef}[1]{{\ref{#1} (S.\,\pageref{#1})}}
+\newcommand{\FullPrettyRef}[1]{{\prettyref{#1}, Seite \pageref{#1}}}
 
-\usepackage[AASS,stylelayout]{aass-common}
-\usepackage{aass-units}
-\usepackage{aass-fonts}
-\usepackage{aass-features}
-\usepackage{aass-text}
+% Hat man den Wunsch, auf eine Fußnote mehrfach zu verweisen, bietet LATEX dafür keine direkte Möglichkeit.
+% Man muss hier die folgende Definition, eingerahmt von \makeatletter und \makeatother, in den Vorspann des Dokuments einfügen.
+% Im Text muss bei der Fußnote, auf die ein zweites mal verwiesen werden soll, ein Label (hier: \label{fn:wichtig})eingefügt werden.
+% Mit \footref{fn:wichtig} verweist man dann ein weiteres mal auf sie.
+% http://www2.informatik.hu-berlin.de/~piefel/LaTeX-PS/Archive-2004/V07-footnote.pdf
+\makeatletter
+\providecommand*{\footref}[1]{% \begingroup 
+\unrestored@protected@xdef\@thefnmark{\ref{#1}}% \endgroup 
+\@footnotemark}
+\makeatother
+
+
+
+
 
 
 
@@ -146,11 +199,39 @@ footskip = 7mm,
 {geometry}
 
 
+\usepackage{aass-units}
+\usepackage{aass-fonts}
+
+
+\usepackage{aass-features}
+\usepackage{aass-text}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Beschriftungen
+\DeclareRobustCommand{\SignTable}{{Tab.}}
+\DeclareRobustCommand{\SignTableSmall}{{\SignTable}}
+
+\DeclareRobustCommand{\SignFazit}{\noindent{\fontfamily{lmr}\selectfont >>}}
+\DeclareRobustCommand{\SignFazitSmall}{\SignFazit}
+
+\DeclareRobustCommand{\SignLeitsatz}{\SignFazit}
+\DeclareRobustCommand{\SignLeitsatzSmall}{\SignFazit}
+
+\DeclareRobustCommand{\SignFigure}{{Abb.}}
+\DeclareRobustCommand{\SignFigureSmall}{{\SignFigure}}
+
+\DeclareRobustCommand{\SignMassnahme}{{\noindent\color{Indigo}\dsmedical}}
+\DeclareRobustCommand{\SignMassnahmeSmall}{{\SignMassnahme}}
+
+
+
 \setlength\columnsep{15pt}%7mm
 \setlength\columnseprule{0.4pt}
 \setlength\premulticols{10\baselineskip}
 \renewcommand{\columnseprulecolor}{\color{DefaultGrey}}
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Tables
 
 \usepackage{boxedminipage}
@@ -313,29 +394,13 @@ footskip = 7mm,
 % % Für einen Seitenwechsel direkt nach einer Formel im display-style.
 % \postdisplaypenalty=0
 
+% http://mrunix.de/forums/showthread.php?p=301707
+% Abstand zwischen Absätzen in minipage-Umgebung:
+\makeatletter
+\newcommand*{\@minipagerestore}{\parskip@update}
+\makeatother
 
 \usepackage{fancybox}
-
-
-% User page numbering with chapter number in it
-
-% \renewcommand{\thechapter}{\Alph{chapter}}
-
-% \renewcommand{\thechapter}{{\ttfamily\Alph{chapter}}}
-\renewcommand{\thesection}{{\color{DefaultA}\thechapter}.\arabic{section}}
-% \renewcommand{\thesubsection}{{\color{DefaultA}\thesection .\arabic{subsection}}}
-% \renewcommand{\thesubsection}{{\color{aassgrey}\thesection.}\arabic{subsection}}
-% \renewcommand{\thesubsubsection}{{\thesubsection .\alph{subsubsection}}}
-
-
-
-% No bottom titles !!!
-\usepackage[nobottomtitles]{titlesec}
-\renewcommand{\bottomtitlespace}{.10\textheight}
-
-% \titleformat{\section}[rightmargin]{\usefont{T1}{lmss}{bx}{n}\selectfont\LARGE\color{DefaultA}}{}{0em}{}
-% \titleformat{\section}{\large\scshape\raggedright}{}{1em}{}
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Floats
@@ -348,123 +413,10 @@ footskip = 7mm,
 
 
 
-\usepackage{hyperref}
-
-% \newcommand{\url}[1]{\ttfamily #1}
-
-
-\usepackage[grey,helvetica]{quotchap}
-%\renewcommand{\sectfont}{\large\color{DefaultA}\sffamily\fontfamily{phv}\selectfont}
-\definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
-\definecolor{chaptergrey}{named}{DefaultContrast}
-% \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
-% \newenvironment{savequote}{}{}
-
-% \usepackage[Rejne]{fncychap}
-% \ChNameVar{\centering\LARGE\sf} 
-% \ChNumVar{\Huge\color{DefaultB}} 
-% \ChTitleVar{\centering\Large\sf\color{DefaultA}}
-% \ChRuleWidth{2pt} 
-% \ChNameUpperCase
-% % \ChNumVar{\fontsize{76}{80}\usefont{OT1}{lmdh}{m}{n}\selectfont\color{DefaultB}}
-\addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}}
-
-% \addtokomafont{chapter}{\fontfamily{lmdh}\selectfont\Huge\color{DefaultA}}
-
-
-
-
-
-
-
-
-
-\usepackage{minitoc} 
-%The quotchap package should be loaded BEFORE the minitoc package.
-\newcounter{DefaultMinitocDepth}
-\setcounter{DefaultMinitocDepth}{3}
-\mtcsetdepth{minitoc}{\value{DefaultMinitocDepth}}
-
-\nomtcrule
-
-% \setlength{\mtcindent}{0pt}
-% \setlength{\stcindent}{0pt}
-% \mtcindent{0pt}
-% \stcindent{0pt}
-\renewcommand{\mtcfont}{\sffamily\small}
-\renewcommand{\mtcSfont}{\sffamily\small\bfseries}
-\renewcommand{\mtcSSfont}{\sffamily\scriptsize}
-\renewcommand{\mtcSSSfont}{\sffamily\scriptsize}
-% \mtcsetoffset{minitoc}{-4em}
-% \mtcsetformat{mini-table}{mtcindent}{0pt}
-
-\setlength{\mtcindent}{0pt}
-\mtcsetfeature{minitoc}{open}{\kern1sp\vspace*{-.1ex}\begin{multicols}{2}[\kern-2.5ex]}
-\mtcsetfeature{minitoc}{close}{\end{multicols}\kern-2.ex}
-% \mtcsetfeature{minitoc}{open}{\begin{multicols}{2}}
-% \mtcsetfeature{minitoc}{close}{\end{multicols}}
-\mtcsetfeature{minitoc}{before}{\begin{WidePar}\raggedcolumns}
-\mtcsetfeature{minitoc}{after}{\flushcolumns\end{WidePar}}
-\mtcsetoffset{minitoc}{-0.7em}
-\setlength{\mtcindent}{-0.7em}
-% \mtcsetformat{minitoc}{tocrightmargin}{2cm}
-
-% % multitoc is incompatible with float package
-% \usepackage[toc]{multitoc}
-% \renewcommand{\multicolumntoc}{2}
-
-
-
-
-
-
-
-% \usepackage[noauto]{chappg} % nach hyperref!
-% 
-% \pagenumbering{bychapter}
-% \renewcommand{\chappgsep}{/}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Beschriftungen
-% \DeclareRobustCommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
-% \DeclareRobustCommand{\SignTable}{{\noindent\scalefont{1.5}$\boxbar$}}
-\DeclareRobustCommand{\SignTable}{{Tab.}}
-% \DeclareRobustCommand{\SignTableSmall}{{\scalefont{0.7}\SignTable}}
-\DeclareRobustCommand{\SignTableSmall}{{\SignTable}}
-
-\DeclareRobustCommand{\SignFazit}{\noindent{\fontfamily{lmr}\selectfont >>}}
-% \DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
-\DeclareRobustCommand{\SignFazitSmall}{\SignFazit}
-
-% \DeclareRobustCommand{\SignLeitsatz}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{L}}}
-\DeclareRobustCommand{\SignLeitsatz}{\SignFazit}
-\DeclareRobustCommand{\SignLeitsatzSmall}{\SignFazit}
-
-% \DeclareRobustCommand{\SignFigure}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{A}}}
-% \DeclareRobustCommand{\SignFigureSmall}{{\scalefont{0.7}\SignFigure}}
-% \DeclareRobustCommand{\SignFigure}{{\noindent\color{DefaultB}\BigSquare\llap{{\VarIceMountain}}}}
-\DeclareRobustCommand{\SignFigure}{{Abb.}}
-\DeclareRobustCommand{\SignFigureSmall}{{\SignFigure}}
-
-% \DeclareRobustCommand{\SignMassnahme}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{M}}}
-% \DeclareRobustCommand{\SignMassnahmeSmall}{{\scalefont{0.7}\SignMassnahme}}
-
-\DeclareRobustCommand{\SignMassnahme}{{\noindent\color{Indigo}\dsmedical}}
-\DeclareRobustCommand{\SignMassnahmeSmall}{{\SignMassnahme}}
-
-% \DeclareRobustCommand{\SignMassnahme}{{\noindent\color{DefaultB}\BigSquare\llap{{\sffamily\scalefont{0.9}M}}}}
-% \DeclareRobustCommand{\SignMassnahmeSmall}{{\SignMassnahme}}
-
-
-
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+% Besonderer Satz
 
 \usepackage[version=3]{mhchem}
 \mhchemoptions{textfontcommand=\sffamily}
@@ -473,6 +425,10 @@ footskip = 7mm,
 
 
 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % various packages for convenience
 
 
@@ -483,9 +439,6 @@ footskip = 7mm,
 
 % Test PLAYGROUND
 
-\newcommand{\FullRef}[1]{{\ref{#1} (S.\,\pageref{#1})}}
-\newcommand{\FullPrettyRef}[1]{{\prettyref{#1}, Seite \pageref{#1}}}
-
 \newcommand{\TabItemI}[1]{\begin{inparaitem}\item #1 \end{inparaitem}}
 \newcommand{\TabItemII}[1]{\begin{inparaitem}\begin{inparaitem}\item#1\end{inparaitem}\end{inparaitem}}
 \newcommand{\TabItemIII}[1]{\begin{inparaitem}\begin{inparaitem}\begin{inparaitem}\item#1\end{inparaitem}\end{inparaitem}\end{inparaitem}}
@@ -493,7 +446,7 @@ footskip = 7mm,
 
 
 % \setkomafont{footnote}{\sffamily}
-\deffootnotemark{\textsuperscript{\thefootnotemark}}
+% \deffootnotemark{\textsuperscript{\thefootnotemark}}
 % \setlength{\footnotesep}{1pt}
 \usepackage[hang,multiple]{footmisc}
 % \renewcommand\footnotelayout{\sffamily}
@@ -581,10 +534,6 @@ footskip = 7mm,
 
 \makepagenote
 
-% \newcommand{\MultiColMassnahmenStart}[1]{\addtocontents{lomassnahmen}{\protect\begin{multicols}{#1}}}
-% \newcommand{\MultiColMassnahmenEnd}{\addtocontents{lomassnahmen}{\protect\end{multicols}}}
-% \newcommand{\MultiColFazitStart}[1]{\addtocontents{lofazit}{\protect\begin{multicols}{#1}}}
-% \newcommand{\MultiColFazitEnd}{\addtocontents{lofazit}{\protect\end{multicols}}}
   
 \newcommand{\MultiColListStart}[2]{\addtocontents{#1}{\protect\begin{multicols}{#2}}}
 \newcommand{\MultiColListEnd}[1]{\addtocontents{#1}{\protect\end{multicols}}}
@@ -701,3 +650,5 @@ footskip = 7mm,
 
 \newcommand{\VARIANT}[2]{{\opt{STATUS-DRAFT}{\color{SteelBlue}\sffamily\textbf{///~\uline{#1}$\rightarrow$}}\opt{#1}{#2}\opt{STATUS-DRAFT}{$\leftarrow$\textbf{\uline{#1}~///}}}}
 \usepackage[autostyle,german=guillemets]{csquotes}
+
+

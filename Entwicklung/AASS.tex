@@ -89,7 +89,19 @@ toc=flat,
 \newcommand{\QSSC}{<<}
 \newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
 \newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
-
+\usepackage[backend=biber,
+babel=other,natbib,
+]{biblatex}
+% \addbibresource{AASS.bib}
+\bibliography{AASS.bib}
+\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
+\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+% 
+% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+\DeclareFieldFormat{journaltitle}{\textsc{#1}}
+\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+\renewcommand{\bibfont}{\normalfont\small}
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################

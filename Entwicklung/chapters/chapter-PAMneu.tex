@@ -48,16 +48,16 @@ Voraussetzungen für effektives und professionelles Arbeiten.
 % \the\marginparwidth
 
 \clearpage % TEMP temp clearpage
-\Layout{0}{\TxQuerverweise}
-{~
-
-\noindent\includegraphics[angle=270,width=\linewidth]{./images/leitsystem/Leitschema-PAM_gesamt.pdf}
-}{\begin{itemize}
-  \item \EE{Medizinprodukte allgemein}: \CO{[MP1]} (\ref{chp:MP1})
-  \item \EE{Untersuchungen}:                 \CO{[BAU]} (\ref{chp:BAU})
-  \item \EE{Sanitätshilfemaßnahmen}:         \CO{[SAN]} (\ref{chp:SAN})
-  \item \EE{Anamnese und Patientengespräch}: \CO{[AUP]} (\ref{chp:AUP})
-\end{itemize}}{}{}{}{}
+% \Layout{0}{\TxQuerverweise}
+% {~
+% 
+% \noindent\includegraphics[angle=270,width=\linewidth]{./images/leitsystem/Leitschema-PAM_gesamt.pdf}
+% }{\begin{itemize}
+%   \item \EE{Medizinprodukte allgemein}: \CO{[MP1]} (\ref{chp:MP1})
+%   \item \EE{Untersuchungen}:                 \CO{[BAU]} (\ref{chp:BAU})
+%   \item \EE{Sanitätshilfemaßnahmen}:         \CO{[SAN]} (\ref{chp:SAN})
+%   \item \EE{Anamnese und Patientengespräch}: \CO{[AUP]} (\ref{chp:AUP})
+% \end{itemize}}{}{}{}{}
 
 % \section{Grundsätzlicher Ablauf einer präklinischen Hilfeleistung}
 
@@ -104,17 +104,6 @@ individuelle Untersuchung und Befragung des Patienten
 entsprechend den Symptomen. Im Folgenden werden die Schritte
 im Einzelnen vorgestellt.
 
-% \clearpage
-
-
-
-
-%\paragraph{Szeneüberblick}
-% \paragraph{Die ersten  30 Sekunden }
-
-% \Fazit{Ersteinschätzung ${\rightarrow}$~Erstmaßnahmen
-% ${\rightarrow}$~Plan zurechtlegen ${\rightarrow}$~Weitere Untersuchung,
-% Anamnese und Versorgung}
 
 
 
@@ -1640,7 +1629,7 @@ bzw. über Datenterminals.
 }{
 \begin{itemize}
   \item Möglichst gleichmäßige Auslastung der
-  Behandlungseinrichtung und Wartezeitreduzierung
+  Be\-hand\-lungs\-ein\-richt\-ung und Warte\-zeit\-re\-duzier\-ung
   \item Geeignete Abteilung
   \item Zuteilung durch eine Leitstelle
 \end{itemize}
@@ -2246,18 +2235,20 @@ gehabt? Oder sind einschlägige Erkrankungen bekannt?
 \section*{\protect\dsliterary{} Weiterführende Literatur}
 \begin{WidePar}
 \begin{multicols}{2}
-\begin{labeling}{mmm}
-  \item[\cite{AMLS3}] \emph{\bibentry{AMLS3}}
-  \item[\cite{emergency9}] \emph{\bibentry{emergency9}}
-  \item[\cite{ITLSde6}] \emph{\bibentry{ITLSde6}}
-  \item[\cite{PHTLS6}] \emph{\bibentry{PHTLS6}}
-  \item[\cite{SemmelABC1}] \emph{\bibentry{SemmelABC1}}
-  \item[\cite{SudoweProfHandelnRD1}] \emph{\bibentry{SudoweProfHandelnRD1}}
-  \item[\cite{KirschnickPflege2}] \emph{\bibentry{KirschnickPflege2}}
-  \item[\cite{RueckerBildatlas1}] \emph{\bibentry{RueckerBildatlas1}}
-  \item[\cite{Ziesenitz2009}] \emph{\bibentry{Ziesenitz2009}}
-\end{labeling}
+\begin{itemize}\CorrectionListsBox
+  \item \fullcite{AMLS3}
+  \item \fullcite{emergency9}
+  \item \fullcite{ITLSde6}
+  \item \fullcite{PHTLS6}
+  \item \fullcite{SemmelABC1}
+  \item \fullcite{SudoweProfHandelnRD1}
+  \item \fullcite{KirschnickPflege2}
+  \item \fullcite{RueckerBildatlas1}
+  \item \fullcite{Ziesenitz2009}
+\end{itemize}
 \end{multicols}
 \end{WidePar}
 
-
+\addtocategory{PAM}{AMLS3,emergency9,ITLSde6,PHTLS6,SemmelABC1,SudoweProfHandelnRD1,
+KirschnickPflege2,RueckerBildatlas1,Ziesenitz2009}
+\addtocategory{BestOf}{ITLSde6,PHTLS6,RueckerBildatlas1}

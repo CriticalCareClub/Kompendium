@@ -327,50 +327,56 @@ wichtige Hilfsmittel.
 {xkcd.com, CC-BY-NC-2.5}
 
 
-\subsection{Struktur durch \enquote{S-KAMEL}}
-\index{S-KAMEL}
+\subsection{Struktur durch \enquote*{SAMPLE}}
+\index{SAMPLE}\index{S-KAMEL}
 
-\Layout{0}{S-KAMEL}{%
-Auch das Anamnesegespräch soll strukturiert durchgeführt
-werden. Dafür stehen mehrere Abfrageschemata zur Verfügung,
-von welchen wir Ihnen ein in Österreich weit verbreitetes
-vorstellen möchten: Das \T{S-KAMEL-Schema}. Nach einer
-Einstiegsfrage, z.\,B. \enquote{Was können wir für Sie tun?},
-beinhaltet das \Abk{S-KAMEL}-Schema folgende Punkte:
+\Layout{0}{SAMPLE}{%
+Bei einem Notfalleinsatz soll das Anamnesegespräch
+gleichzeitig alle wichtigen Informationen zu Tage fördern,
+andererseits aber effizient und zeitsparend durchgeführt
+werden. Um diese Gegensätze miteinander vereinen zu können 
+soll es strukturiert durchgeführt werden. Normalerweise
+enthält es die folgenden wichtigen Punkte:
 
 \begin{itemize}
-    \item Symptome und Schmerzen
-    \item Krankheiten
-    \item Allergien
-    \item Medikamente
-    \item Ereignisse vor Notfalleintritt
-    \item Letzte \ldots
+    \item \EE{\color{DefaultA}S}ymptome und Schmerzen
+    \item \EE{\color{DefaultA}A}llergien
+    \item \EE{\color{DefaultA}M}edikamente
+    \item \EE{\color{DefaultA}P}atientengeschichte (Vor- und
+    Grunderkrankungen, Operationen, \ldots)
+    \item \EE{\color{DefaultA}L}etzte \ldots
+    \item \EE{\color{DefaultA}E}reignisse vor
+    Notfalleintritt
 \end{itemize}
 
-\noindent Dieses Abfrageschema kann im hektischen
+In Anlehnung an die Anfangsbuchstaben wird dieses
+Abfrageschema \T{SAMPLE}\footnote{Sample \Lang{engl.}:
+Probe}\footnote{Manchmal wird dieses Schema 
+\I{S-KAMEL} genannt, für Symptome, Krankheiten, Allergien,
+Medikamente, Ereignisse und Letztes.} bezeichnet.
+Ein derartiges Schema kann im hektischen
 Notfall Sicherheit geben. Das Abarbeiten der Fragen
 stellt sicher, dass keine wichtigen Informationen
-vergessen werden. Außerdem ist es für den Patienten
-vertrauensbildend, da die gezielte Befragung professionell
-wirkt.
+vergessen werden. In der Praxis kann die Reihenfolge der
+Fragen je nach Situation abweichen.
+
 }{%
 \begin{itemize}
-    \item Symptome und Schmerzen
-    \item Krankheiten
-    \item Allergien
-    \item Medikamente
-    \item Ereignisse vor Notfalleintritt
-    \item Letzte \ldots{}
+    \item \EE{\color{DefaultA}S}ymptome und Schmerzen
+    \item \EE{\color{DefaultA}A}llergien
+    \item \EE{\color{DefaultA}M}edikamente
+    \item \EE{\color{DefaultA}P}atientengeschichte 
+    \item \EE{\color{DefaultA}L}etzte \ldots
+    \item \EE{\color{DefaultA}E}reignisse vor
+    Notfalleintritt
 \end{itemize}
 }{}{}{}
 
 
 
-\subsubsection{Symptome und Schmerzen}
-\index{Schmerz}
 
-\Layout{2}{\TxBeschreibung}{%
-Die Einstiegsfrage hat uns u.U. bereits auf das Hauptsymptom
+\Layout{2}{Symptome und Schmerzen}{%
+\index{Schmerz}Die Einstiegsfrage hat uns u.U. bereits auf das Hauptsymptom
 hingewiesen. Ist dies nicht der Fall, so muss als erstes nach
 dem Hauptsymptom gefragt werden. Fragen können z.\,B. sein:
 
@@ -383,15 +389,10 @@ Außerdem muss immer auch speziell nach Schmerzen gefragt werden!
 \begin{quote}
     \Speech{\enquote{Haben Sie Schmerzen?}}
 \end{quote}
-}{
 
-}{}{}{}
-
-
-\Layout{0}{Fragen über Schmerzen:}{
-Gibt der Patient an, Schmerzen zu haben, müssen wir weitere
-Informationen erfragen, damit wir uns ein klares Bild über
-die Beschwerden machen können:
+\subparagraph{Fragen zu Symptomen}
+Gibt der Patient Symptome an, müssen diese weiter abgeklärt
+werden, hier am Besipiel Schmerzen:
 \index{Schmerz!Arten}
 
 \begin{itemize}
@@ -426,6 +427,8 @@ die Beschwerden machen können:
 %     einzustufen.
     }
 \end{itemize}
+
+
 }{
 \begin{itemize}
   \item Wo?
@@ -439,68 +442,48 @@ die Beschwerden machen können:
 \end{itemize}
 }{}{}{}
 
-\paragraph{Besonderheit: \T{Kolikartiger Schmerz}}~
-\label{topic:kolik}
+
+
+
+
+\Layout{0}
+{Besonderheit: Kolikartiger Schmerz}
+{\label{topic:kolik}
 \index{Kolik!Schmerzqualität}
 \index{Schmerz!kolikartiger}
 
-\Definition{Ein kolikartiger Schmerz ist an-
-und abschwellend.}
-
+Ein \T{Kolikartiger Schmerz} ist \EE{an-}
+und \EE{abschwellend}.
 Er wird oft als krampfhaft und sehr stark beschrieben. Er
 kommt häufig bei Verstopfung der Gallen- und Harnwege durch
-Steine vor (\prettyref{topic:gallenkolik},
-\ref{topic:nierenkolik}).
+Steine vor (\FullPrettyRef{topic:gallenkolik},
+\FullPrettyRef{topic:nierenkolik}).}
+{
+\begin{compactitem}
+  \item Auf- und abschwellend
+  \item Krampfhaft
+\end{compactitem}
+}
+{}
+{}
+{}
 
-\subsubsection{Krankheiten}
-Notfälle ereignen sich manchmal aufgrund der akuten
-Verschlechterung einer bestehenden Vorerkrankung. Außerdem
-hilft die Beurteilung der Messwerte, wenn man über die
-Grunderkrankungen des Patienten Bescheid weiß. Zum Beispiel
-kann die Ursache eines hohen Blutdrucks eine bereits
-bestehende Erkrankung, aber auch ein Notfallgeschehen sein.
-Neben der Befragung können auch Dokumentationen von anderem
-Gesundheitsfachpersonal (Spitals-/Arztbriefe, Befunde,
-Pflegedokumentation, etc.) Auskunft über bestehende
-Vorerkrankungen liefern.
 
-Allgemeine Fragen,
-wie z.\,B.
-\begin{quote}
-    \Speech{\enquote{Leiden Sie unter irgendwelchen
-    Krankheiten?}}
-    
-    \Speech{\enquote{Bestehen bei Ihnen Vorerkrankungen?}}
-\end{quote}
-können anschließend durch symptom-spezifische Fragen ergänzt werden:
-\begin{quote}
-    \Speech{\enquote{Hatten Sie schon einmal einen
-    Herzinfarkt?}}
-    
-    \Speech{\enquote{Leiden Sie unter hohem Blutdruck?}}
-    
-    \Speech{\enquote{Sind Sie zuckerkrank?}}
-\end{quote}
 
-\subsubsection{Allergien}
-\Layout{2}{\TxBeschreibung}{%
+\Layout{2}{Allergien}{%
 Auf die Frage nach möglichen Allergien wird häufig
 vergessen, ein Informationsmangel kann aber fatale
-Auswirkungen haben. Fragen Sie daher immer nach Allergien,
+Auswirkungen haben. Es muss daher immer nach Allergien,
 in einer zweiten Frage sogar speziell nach
-Medikamentenallergien! Damit können Sie für Not- oder
-Spitalsarzt wichtige Informationen erheben. (Natürlich
-könnten das die Ärzte auch selbst fragen, aber denken Sie
-daran, dass ein Notfallpatient bewusstlos werden kann und es
-deshalb wichtig ist, dass sie diese Informationen einholen,
-solange der Patient noch ansprechbar ist!)
-}{
-
+Medikamentenunverträglichkeiten gefragt werden! Bedenke: Ein
+Notfallpatient kann bewusstlos werden und villeicht zu
+einem späteren Zeitpunkt nicht mehr befragt werden!
 }{}{}{}
 
 
-\subsubsection{Medikamente}
-\Layout{2}{\TxBeschreibung}{%
+
+
+\Layout{0}{Medikamente}{%
 Die vom Patienten eingenommenen Medikamente lassen
 Rückschlüsse auf seine Grunderkrankungen zu und sind im Falle
 eines längeren Spitalsaufenthalts eine wertvolle Information.
@@ -508,10 +491,35 @@ Auch die Regelmäßigkeit oder Unregelmäßigkeit der Einnahme
 kann Ihnen Anhaltspunkte für das Finden Ihrer
 Verdachtsdiagnose bzw. der Umstände des Patienten liefern.
 Angaben zu Medikamenten sind für die nachbehandelnde
-Einrichtung zu dokumentieren.
-}{
+Einrichtung zu dokumentieren. Es muss immer nach
+Medikamentenlisten o.\,ä.  gefragt werden, diese sind für
+die weiterbehandelnde Stelle mitzunehmen! Sind keine Listen
+vorhanden, so  müssen die entsprechenden
+Medikamentenpackungen des Patienten geischert werden.
 
+\Fazit{Frage immer nach Medikamentenlisten!}
+
+\subparagraph{Fragen zu Medikamenten:}
+\begin{quote}
+    \emph{\enquote{Welche Medikamente nehmen Sie?}}
+    
+    \emph{\enquote{Wogegen nehmen Sie diese Medikamente?}}
+    
+    \emph{\enquote{Nehmen Sie Ihre Medikamente regelmäßig?}}
+    
+    \emph{\enquote{Wann haben Sie Ihre Medikamente zuletzt genommen?}}
+    
+\end{quote}
+}{
+\begin{itemize}
+  \item Welche?
+  \item Wogegen?
+  \item Regelmäßige Einnahme?
+  \item Wann zuletzt genommen?
+  \item \EE{Medikamentenliste}
+\end{itemize}
 }{}{}{}
+
 
 \Layout{57}{}
 {}
@@ -580,73 +588,68 @@ Nitroglycerin
 																									& Erweiterung der Herzkrankgefäße\par Achtung: Blutdruck ↓
 																					
 \\\addlinespace\bottomrule
-\end{tabulary}}
+\end{tabulary}
+
+{\noindent\footnotesize Andere ähnliche Präparate, welche die Gerinnung wie Marcoumar beeinflussen, wären z.\,B. Pradaxa{\texttrademark} oder Sintrom{\texttrademark}}}
 {Besonders häufige bzw. wichtige Medikamente}
 {}
 
 Notizen: \TakeNotesLarge
 
-\Layout{0}{Fragen zu Medikamenten:}{
+
+
+\Layout{0}
+{Patientengeschichte}
+{Notfälle ereignen sich manchmal aufgrund der akuten
+Verschlechterung einer bestehenden Vorerkrankung. Außerdem
+hilft die Beurteilung der Messwerte, wenn man über die
+Grunderkrankungen des Patienten Bescheid weiß. Zum Beispiel
+kann die Ursache eines hohen Blutdrucks eine bereits
+bestehende Erkrankung, aber auch ein Notfallgeschehen sein.
+Neben der Befragung können auch Dokumentationen von anderem
+Gesundheitsfachpersonal (Spitals-/Arztbriefe, Befunde,
+Pflegedokumentation, etc.) Auskunft über bestehende
+Vorerkrankungen liefern.
+
+% OP, Dauer-erkr. \ldots
+
+Allgemeine Fragen,
+wie z.\,B.
 \begin{quote}
-    \emph{\enquote{Welche Medikamente nehmen Sie?}}
+    \Speech{\enquote{Leiden Sie unter irgendwelchen
+    Krankheiten?}}
     
-    \emph{\enquote{Wogegen nehmen Sie diese Medikamente?}}
-    
-    \emph{\enquote{Nehmen Sie Ihre Medikamente regelmäßig?}}
-    
-    \emph{\enquote{Wann haben Sie Ihre Medikamente zuletzt genommen?}}
-    
+    \Speech{\enquote{Bestehen bei Ihnen Vorerkrankungen?}}
 \end{quote}
-}{
-\begin{itemize}
-  \item Welche?
-  \item Wogegen?
-  \item Regelmäßige Einnahme?
-  \item Wann zuletzt genommen?
-\end{itemize}
-}{}{}{}
-
-\subsubsection{Ereignisse vor Notfalleintritt}
-\Layout{2}{\TxBeschreibung}{%
-Oft ereignen sich vor einem Notfall Schlüsselereignisse,
-welche den Notfall herbei führen oder diesen auslösen.
-Fragen Sie daher immer nach möglichen Besonderheiten oder
-Tätigkeiten des Patienten vor dem Notfall:
+können anschließend durch symptom-spezifische Fragen ergänzt werden:
 \begin{quote}
-    \Speech{\enquote{Was haben Sie vor Beginn der Symptome
-    gemacht?}}
+    \Speech{\enquote{Hatten Sie schon einmal einen
+    Herzinfarkt?}}
     
-    \Speech{\enquote{Haben Sie sich vor Beginn der Symptome
-    besonders angestrengt?}}
+    \Speech{\enquote{Leiden Sie unter hohem Blutdruck?}}
     
-    \ldots{}
-\end{quote}
-In dieser Kategorie kann es auch hilfreich sein, wenn Sie
-Angehörige oder Zeugen befragen:
+    \Speech{\enquote{Sind Sie zuckerkrank?}}
+\end{quote}}
+{
 \begin{itemize}
-    \item Hat der Patient vor dem Notfall etwas Eingenommen (Überdosis)?
-    \item Hat der Patient gekrampft bevor er bewusstlos liegen geblieben ist?
-    \item Ist der Patient vor dem Eintreten der Symptome gestürzt?
-    \item u.\,v.\,m.
+  \item Grund- und Vorerkrankungen?
+  \item Behinderungen?
+  \item Operationen?
+  \item \ldots
 \end{itemize}
-}{
+}
+{}
+{}
+{}
 
-}{}{}{}
 
-
-\subsubsection{Letzte \ldots}
-\Layout{2}{\TxBeschreibung}{%
+\Layout{0}{Letzte \ldots}{%
 Der letzte Punkt des Abfrageschemas bezieht sich auf letzte
 Ereignisse, welche mit dem Notfall in Zusammenhang stehen
 könnten. Damit Sie hier die richtigen Fragen stellen können,
 ist ein fundiertes Fachwissen notwendig. Abhängig von den
 Beschwerden können verschiedene Fragen zielführend sein.
-}{
-
-}{}{}{}
-
-
-\Layout{0}{Fragen zu Letzte\ldots}{
+\subparagraph{Fragen zu Letzte\ldots}
 \begin{quote}
     \emph{\enquote{Wann haben Sie zuletzt etwas
     gegessen/getrunken?}} (Ist der Patient nüchtern?)
@@ -671,6 +674,38 @@ Beschwerden können verschiedene Fragen zielführend sein.
   \item \ldots
 \end{itemize}
 }{}{}{}
+
+
+
+
+\Layout{2}{Ereignisse vor Notfalleintritt}{%
+Oft ereignen sich vor einem Notfall Schlüsselereignisse,
+welche den Notfall herbei führen oder diesen auslösen.
+Fragen Sie daher immer nach möglichen Besonderheiten oder
+Tätigkeiten des Patienten vor dem Notfall:
+\begin{quote}
+    \Speech{\enquote{Was haben Sie vor Beginn der Symptome
+    gemacht?}}
+    
+    \Speech{\enquote{Haben Sie sich vor Beginn der Symptome
+    besonders angestrengt?}}
+    
+    \ldots{}
+\end{quote}
+In dieser Kategorie kann es auch hilfreich sein, wenn Sie
+Angehörige oder Zeugen befragen:
+\begin{itemize}
+    \item Hat der Patient vor dem Notfall etwas eingenommen
+    (Überdosis)?
+    \item Hat der Patient gekrampft bevor er bewusstlos liegen geblieben ist?
+    \item Ist der Patient vor dem Eintreten der Symptome gestürzt?
+    \item u.\,v.\,m.
+\end{itemize}
+}{
+
+}{}{}{}
+
+
 
 \section{Dokumentation von anderen Gesundheitseinrichtungen und -berufen}
 

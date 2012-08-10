@@ -747,8 +747,35 @@ gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Literaturverzeichnis
-\opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\small\setlength{\parskip}{0pt}\cleardoublepage\bibliography{Literatur-AASS}\restoregeometry}\onecolumn}
+% \opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\small\setlength{\parskip}{0pt}\cleardoublepage\bibliography{Literatur-AASS}\restoregeometry}\onecolumn}
 % \opt{STATUS-WITH-BIBLIO}{{\setlength{\parskip}{0pt}\bibliography{Literatur-AASS}}}
+
+% {{%
+% \loadgeometry{FullPage}%
+% \twocolumn\cleardoublepage\printbibliography\restoregeometry}\onecolumn}
+
+\nocite{ArzPocketAustria2,AerztlicheWundversorgung2,EkgIsabell5,InnereMedQuick3}
+
+\addtocategory{BestOf}{
+Erc2010Sec1,
+emergncy9,
+DahmerGespraechsfuehrung5,
+DahmerAnamneseBefund10,
+ForMed2,
+KirschnickPflege2,
+RueckerBildatlas1,
+TertialeNotfallIntensivmed1,
+ThierbachInterhospitaltransfer1,
+ElektroKomikoGraphie7,
+ArzPocketAustria2,
+BLIM3,
+PHTLS6,
+RedelsteinerHRNS1,
+ITLSde6}
+\printbibliography[category=BestOf,title={Literatur,
+Best of},prenote=bestof]
+% \bibbycategory
+\printbibliography
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Index

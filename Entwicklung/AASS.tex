@@ -22,51 +22,36 @@ toc=flat,
 \usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}
 % get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
 \usepackage{etex}
-
 \usepackage{blindtext}
 \usepackage{microtype}
 \usepackage{fixltx2e}
 \usepackage{ellipsis}
+\setcounter{errorcontextlines}{10}
+\usepackage{ragged2e}
 
 % Optionen für Bilder:
 % [draft] .. Es werden nur Rahmen angezeigt
 % [final] .. Es werden Bilder normal angezeigt
-% [demo} .. keine Bilder
-\usepackage[final]{graphicx} % Bilder-Support
+% [demo]  .. keine Bilder
+\usepackage[final]{graphicx} 		% Bilder-Support
+\input{./inputs/input-preamble}		% Präambel
+\input{./inputs/input-hyphenation}	% Trennungen
+\input{./inputs/input-title}		% Titel
+\input{./inputs/input-docinfo}		% Dokumenteinfos (Status, Version, ...)
+\input{./inputs/input-headfoot}		% Kopf- und Fusszeilen
+\input{./inputs/input-excludeonly}	% Ausgeschlossene Kapitel
+\input{./inputs/input-includeonly}	% Schliesse nur bestimmte Kapitel ein ...
+\input{./inputs/input-optkeys}		% optional --- Optionaler Text.
 
-\input{./inputs/input-preamble}
-
-% Trennungen
-\input{./inputs/input-hyphenation}
-
-% Titel
-\input{./inputs/input-title}
-
-% Dokumenteinfos (Status, Version, ...)
-\input{./inputs/input-docinfo}
-
-% Kopf- und Fusszeilen
-\input{./inputs/input-headfoot}
-
-% Ausgeschlossene Kapitel
-\input{./inputs/input-excludeonly}
-
-% Schliesse nur bestimmte Kapitel ein ...
-\input{./inputs/input-includeonly}
-
-% optional --- Optionaler Text. 
-\input{./inputs/input-optkeys}
-
-\setcounter{errorcontextlines}{10}
 
  
 
-\usepackage{ragged2e}
+
 
 \renewcommand{\Abk}[1]{#1}
 
 \usepackage{xr}
-\externaldocument[MK-]{AASS-MKATALOG-2012}
+	\externaldocument[MK-]{AASS-MKATALOG-2012}
 
 
 % 1: Art der Massnahmen
@@ -92,24 +77,24 @@ sorting=none,
 sortlocale=de,
 ]{biblatex}
 
-\bibliography{AASS.bib}
-\addbibresource{AASS-links.bib}
-\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
-\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
-% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
-% 
-% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
-\DeclareFieldFormat{journaltitle}{\textsc{#1}}
-\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
-\renewcommand{\bibfont}{\normalfont\small}
-\DeclareBibliographyCategory{PAM}
-\DeclareBibliographyCategory{BestOf}
-\defbibnote{bestof}{Dieser Abschnitt beinhaltet besonders
-lesenswerte Literaturreferenzen. Eine vollständgie
-Auflistung der Quellen findet sich im Folgeabschnitt.
-Sofern dieser nicht Teil Ihrer Distribution ist, finden
-Sie sie auch online unter
-\url{http://www.aass.at/download}.}
+	\bibliography{AASS.bib}
+	\addbibresource{AASS-links.bib}
+	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+	% 
+	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+	\DeclareFieldFormat{journaltitle}{\textsc{#1}}
+	\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+	\renewcommand{\bibfont}{\normalfont\small}
+	\DeclareBibliographyCategory{PAM}
+	\DeclareBibliographyCategory{BestOf}
+	\defbibnote{bestof}{Dieser Abschnitt beinhaltet besonders
+	lesenswerte Literaturreferenzen. Eine vollständgie
+	Auflistung der Quellen findet sich im Folgeabschnitt.
+	Sofern dieser nicht Teil Ihrer Distribution ist, finden
+	Sie sie auch online unter
+	\url{http://www.aass.at/download}.}
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################

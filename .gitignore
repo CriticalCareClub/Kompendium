@@ -3,6 +3,7 @@
 *.acn
 *.aux
 *.bbl
+*.bcf
 *.blg
 *.cb*
 *.dvi
@@ -28,6 +29,7 @@
 *.out
 *.war
 *.refactorings
+*.run.xml
 *.rx
 .DS_Store
 AAS.pdf

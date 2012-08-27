@@ -606,6 +606,7 @@ Gefühlsverlust) Ausfälle oder andere kritische Verletzungen.
 \end{compactitem}
 }{}{}{}
 
+\clearpage % TODO temporary clearpage
 \Layout{0}{E | Erweiterte Untersuchung}{%
 \ZFootnote{E: \Lang{engl.} \E{Exposure}.} Ist die vitale
 Bedrohung noch nicht klar einzuschätzen, müssen \EE{gezielt
@@ -1057,21 +1058,24 @@ Arbeits- und Ausbildungsstandards} {\color{darkBlue}für den Sanitätsdienst}} |
 {Graphische Übersicht: Patientenmanagement}
 {}
 
-\vspace{2\baselineskip}
+% \vspace{2\baselineskip}
+\vfill
 
 \Layout{57}{}{}{}{%
 \begin{tabularx}{\linewidth}{XXX}
+\addlinespace\toprule\addlinespace
 \noindent\TabHeading{Massive Störung}
 &
 \noindent\TabHeading{Alarm-Symptome}
 &
 \noindent\TabHeading{Alarm-Diagnosen}
-\\\midrule
+\\\addlinespace\midrule\addlinespace
 Bewusstsein
 
 Atemweg / Atmung 
 
 Kreislauf 
+
 (BeABC)
 &
 Atemnot, die sich nicht bessert 
@@ -1101,7 +1105,7 @@ Beckenfraktur
 Rückenmarksverletzung
 
 \ldots
-\\\bottomrule
+\\\addlinespace\bottomrule
 \end{tabularx}
 }{{\color{DefaultRed}\bfseries{\VarFlag}} \Ca{Alarmzeichen:}
 Wann ist eine vitale Bedrohung
@@ -1130,7 +1134,8 @@ wahrscheinlich? Eine Übersicht.\label{tab:alarmzeichen}}{}
 \noindent\begin{minipage}[t]{\linewidth -
 {2\fboxrule} - {2\fboxsep}}
 \noindent\begin{minipage}[t]{\linewidth}
-{\vspace{-2em}\footnotesize
+{%\vspace{-2em}%
+\footnotesize
 % \begin{tabulary}{\linewidth}[H]{cp{8em}p{8.5cm}}
 \begin{tabularx}{\linewidth}[H]{p{2cm}XX}
 % \toprule\addlinespace
@@ -1385,7 +1390,7 @@ Sofortmaßnahmen} sind als \E{Beispiele} zu verstehen.}
 \end{center}
 }
 \end{minipage}
-\end{minipage}\vspace{-\baselineskip}
+\end{minipage}%\vspace{-\baselineskip}
 }
 
 
@@ -1802,7 +1807,8 @@ sich die \EE{Bettenzusage telefonisch bestätigen} zu lassen!
 }{}{}{}{}
 
 
-\subsection{Übergabegespräch an weiterbehandelndes Fachpersonal}  
+\clearpage % TODO temporary clearpage
+\subsection{Übergabe an weiterbehandelndes Fachpersonal}  
 
 \Layout{61}{}{%
 Die Übergabe des Patienten in den Verantwortungsbereich
@@ -2309,26 +2315,48 @@ gehabt? Oder sind einschlägige Erkrankungen bekannt?
 
 \noindent Was glauben Sie wie es weiter geht?
 
-\TakeNotesLarge
+% \TakeNotesLarge
+\bigskip
 
 % ========Subsection eingefügt vom Emhofer 1.5.2009===============================
 
-\section*{\protect\dsliterary{} Weiterführende Literatur}
-\begin{WidePar}
-\begin{multicols}{2}
-\begin{itemize}\CorrectionListsBox
-  \item \fullcite{AMLS3}
-  \item \fullcite{emergency9}
-  \item \fullcite{ITLSde6}
-  \item \fullcite{PHTLS6}
-  \item \fullcite{SemmelABC1}
-  \item \fullcite{SudoweProfHandelnRD1}
-  \item \fullcite{KirschnickPflege2}
-  \item \fullcite{RueckerBildatlas1}
-  \item \fullcite{Ziesenitz2009}
-\end{itemize}
-\end{multicols}
-\end{WidePar}
+\begin{Literary}
+   \fullcite{AMLS3}
+
+   \fullcite{emergency9}
+
+   \fullcite{ITLSde6}
+
+   \fullcite{PHTLS6}
+
+   \fullcite{SemmelABC1}
+
+   \fullcite{SudoweProfHandelnRD1}
+
+   \fullcite{KirschnickPflege2}
+
+   \fullcite{RueckerBildatlas1}
+
+   \fullcite{Ziesenitz2009}
+\end{Literary}
+
+
+% \section*{\protect\dsliterary{} Weiterführende Literatur}
+% \begin{WidePar}
+% \begin{multicols}{2}
+% \begin{itemize}\CorrectionListsBox
+%   \item \fullcite{AMLS3}
+%   \item \fullcite{emergency9}
+%   \item \fullcite{ITLSde6}
+%   \item \fullcite{PHTLS6}
+%   \item \fullcite{SemmelABC1}
+%   \item \fullcite{SudoweProfHandelnRD1}
+%   \item \fullcite{KirschnickPflege2}
+%   \item \fullcite{RueckerBildatlas1}
+%   \item \fullcite{Ziesenitz2009}
+% \end{itemize}
+% \end{multicols}
+% \end{WidePar}
 
 \addtocategory{PAM}{AMLS3,emergency9,ITLSde6,PHTLS6,SemmelABC1,SudoweProfHandelnRD1,
 KirschnickPflege2,RueckerBildatlas1,Ziesenitz2009}

@@ -325,6 +325,78 @@
   timestamp = {2012.08.10}
 }
 
+@INBOOK{Harrisons18DeKap224,
+  author = {Joseph Loscalzo and Peter Libby and Jonathan Epstein},
+  title = {Biologische Grundlagen des kardiovaskulären Systems},
+  translator = {Julia Searle and Ralf Dechend and Martin Möckel},
+  volume = {2},
+  chapter = {224},
+  pages = {1931--1944},
+  crossref = {Harrisons18DeInBook},
+  owner = {grissu},
+  timestamp = {2012.09.09}
+}
+
+@INBOOK{Harrisons18DeKap225,
+  author = {Thomas A. Gaziano and Michael Gaziano},
+  title = {Epidemiologie kardiovaskulärer Erkrankungen},
+  translator = {Jörn Ole Vollert and Martin Möckel},
+  volume = {2},
+  chapter = {225},
+  pages = {1945--1950},
+  crossref = {Harrisons18DeInBook},
+  owner = {grissu},
+  timestamp = {2012.09.09}
+}
+
+@INBOOK{Harrisons18DeKap226,
+  author = {Joseph Loscalzo},
+  title = {Zugang zum Patienten mit möglicher kardiovaskulärer Erkrankung},
+  translator = {Martin Möckel},
+  volume = {2},
+  chapter = {226},
+  pages = {1951--1954},
+  crossref = {Harrisons18DeInBook},
+  owner = {grissu},
+  timestamp = {2012.09.09}
+}
+
+@INBOOK{Harrisons18DeKap247,
+  author = {Theodore A. Kotchen},
+  title = {Arterielle Hypertonie},
+  translator = {Jürgen E. Scholze},
+  volume = {2},
+  chapter = {247},
+  pages = {2198--2216},
+  crossref = {Harrisons18DeInBook},
+  owner = {grissu},
+  timestamp = {2012.09.09}
+}
+
+@INBOOK{Harrisons18DeKap228,
+  author = {Ary L. Goldberger},
+  title = {Elektrokardiographie},
+  translator = {Martin Stockburger and Martin Möckel},
+  volume = {2},
+  chapter = {228},
+  pages = {1965--1973},
+  crossref = {Harrisons18DeInBook},
+  owner = {grissu},
+  timestamp = {2012.09.09}
+}
+
+@INBOOK{Harrisons18DeKap1,
+  author = {Longi and Fauci and Kasper and Hauser and Jameson and Loscalzo},
+  title = {Ärztliches Handeln},
+  translator = {Martin Stockburger and Martin Möckel},
+  volume = {1},
+  chapter = {1},
+  pages = {1--8},
+  crossref = {Harrisons18DeInBook},
+  owner = {grissu},
+  timestamp = {2012.09.09}
+}
+
 @MISC{OenormS2104-2005,
   author = {{"Osterreichisches Normungsinstitut}},
   title = {"ONORM S 2104: Abfälle aus dem medizinischen Bereich},
@@ -6033,6 +6105,64 @@
   owner = {grissu},
   rating = {5},
   timestamp = {2012.08.27}
+}
+
+@BOOK{Harrisons18De,
+  title = {Harrisons Innere Medizin},
+  publisher = {ABW Wissenschaftsverlag},
+  year = {2012},
+  editor = {Manfred Dietel and Norbert Suttorp and Martin Zeitz},
+  edition = {18},
+  isbn = {978-3-940615-20-6},
+  language = {german},
+  owner = {grissu},
+  timestamp = {2012.09.09},
+  volumes = {3}
+}
+
+@INBOOK{Harrisons18DeInBook,
+  booktitle = {Harrisons Innere Medizin},
+  year = {2012},
+  editor = {Manfred Dietel and Norbert Suttorp and Martin Zeitz},
+  language = {german},
+  origlanguage = {english},
+  edition = {18},
+  publisher = {ABW Wissenschaftsverlag},
+  isbn = {978-3-940615-20-6},
+  owner = {grissu},
+  timestamp = {2012.09.09}
+}
+
+@BOOK{EcgEmergencyDec2,
+  title = {The ECG in emergency decision making},
+  publisher = {Saunders Elsevier},
+  year = {2006},
+  author = {Hein J. J. Wells and Mary Conover},
+  edition = {2},
+  isbn = {978-1-4160-0259-8},
+  language = {english},
+  owner = {grissu},
+  timestamp = {2012.09.17}
+}
+
+@BOOK{ExcellentJunMedStud,
+  title = {How to be a truly excellent junior medical student},
+  publisher = {Tarascon Publishing},
+  year = {2001},
+  author = {Robert J. Lederman},
+  isbn = {1-882742-12-5},
+  language = {english},
+  owner = {grissu},
+  timestamp = {2012.09.17}
+}
+
+@BOOKLET{ethicon201010,
+  editor = {Ethicon},
+  title = {Schon gewusst ...},
+  year = {2010},
+  month = {10},
+  owner = {grissu},
+  timestamp = {2012.09.17}
 }
 
 @comment{jabref-meta: selector_publisher:}

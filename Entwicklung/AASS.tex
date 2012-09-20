@@ -74,8 +74,10 @@ sortlocale=de,
 
 	\bibliography{AASS.bib}
 	\addbibresource{AASS-links.bib}
+	\renewcommand{\labelnamepunct}{\addcolon\space}
 	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
 	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
 	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
 	% 
 	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}

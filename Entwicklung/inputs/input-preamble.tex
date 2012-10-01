@@ -8,8 +8,12 @@
 % \setbtxfallbacklanguage{ngerman}
 
 
-
-
+% Mittlerweile verwendet pdfTeX standardmäßig PDF-1.5 mit
+% Objektstreamkomprimierung, mit der pdftk Probleme haben kann.
+% Füge \pdfobjcompresslevel=0 ein, dann wird die Datei zwar
+% wieder größer, aber du kannst sie mit pdftk splitten.
+% (Heiko Oberdiek)
+\pdfobjcompresslevel=0
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

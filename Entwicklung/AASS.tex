@@ -15,7 +15,7 @@ bibtotocnumbered,
 footnotes=multiple,
 toc=flat,
 ]{scrbook}
-% \setlength{\parindent}{1.5em}
+\setlength{\parindent}{15pt}
 % \usepackage{scrhack}
 
 % UTF-8 Schriftkodierung
@@ -116,8 +116,19 @@ sortlocale=de,
 %   \setlength{\topsep}{0pt}%
 % %   \setlength{\itemsep}{0.5\baselineskip}
 %   \setlength{\parskip}{\baselineskip}
-  \setlength{\leftmargin}{10pt}
-  \setlength{\labelwidth}{0pt}
+  \setlength{\leftmargin}{15pt}
+%   \setlength{\labelwidth}{10pt}
+  \setlength{\labelsep}{9.5pt}
+%   \setlength{\labelsep}{5.5pt}
+}
+
+\renewcommand{\enumhook}{%
+%   \setlength{\topsep}{0pt}%
+% %   \setlength{\itemsep}{0.5\baselineskip}
+%   \setlength{\parskip}{\baselineskip}
+  \setlength{\leftmargin}{15pt}
+  \setlength{\labelwidth}{10pt}
+  \setlength{\labelsep}{2pt}
 }
 
 % \nobibliography*

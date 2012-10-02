@@ -2,6 +2,7 @@
 *.2do
 *.acn
 *.aux
+*.bak
 *.bbl
 *.bcf
 *.blg

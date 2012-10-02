@@ -25,21 +25,21 @@ Bild: Motal
 }
 
 \clearpage % TEMP temp clearpage
-\Layout{0}{\TxQuerverweise}
-{~
-
-\noindent\includegraphics[angle=270,width=\linewidth]{./images/leitsystem/Leitschema-PAM_BAU.pdf}
-}{\begin{itemize}
-  \item \EE{Medizinprodukte allgemein}: \CO{[MP1]} (\ref{chp:MP1})
-  \item \EE{Untersuchungen}:                 \CO{[BAU]} (\ref{chp:BAU})
-  \item \EE{Sanitätshilfemaßnahmen}:         \CO{[SAN]} (\ref{chp:SAN})
-  \item \EE{Anamnese und Patientengespräch}: \CO{[AUP]} (\ref{chp:AUP})
-\end{itemize}}{}{}{}{}
-
-
-
-
-
+% \Layout{0}{\TxQuerverweise}
+% {~
+% 
+% \noindent\includegraphics[angle=270,width=\linewidth]{./images/leitsystem/Leitschema-PAM_BAU.pdf}
+% }{\begin{itemize}
+%   \item \EE{Medizinprodukte allgemein}: \CO{[MP1]} (\ref{chp:MP1})
+%   \item \EE{Untersuchungen}:                 \CO{[BAU]} (\ref{chp:BAU})
+%   \item \EE{Sanitätshilfemaßnahmen}:         \CO{[SAN]} (\ref{chp:SAN})
+%   \item \EE{Anamnese und Patientengespräch}: \CO{[AUP]} (\ref{chp:AUP})
+% \end{itemize}}{}{}{}{}
+% 
+% 
+% 
+% 
+% 
 
 
 
@@ -259,18 +259,17 @@ einem Doppel- und einem Einzelkopfstethoskop.}
 \index{Stethoskop}
 
 \Layout{2}{\TxBeschreibung}
-{Ein Stethoskop ist eine Hörvorrichtung. Es besteht
+{
+\begin{description}
+  \item[Allgemein] Ein Stethoskop ist eine Hörvorrichtung. Es besteht
 patientenseitig aus einem Kopf mit einer Membran oder einem
 Trichter, einem Schlauch und untersucherseitig aus einem
 Bügel mit zwei Oliven (\enquote{Ohrenstöpsel}).
 Die Oliven sollen \E{nach vorne} gerichtet sein, da auch der
 äußere Gehörgang nach vorne verläuft.
-}{}{}{}{}
-
-\Layout{2}{Funktionen}
-{%
-Manche Typen verfügen über einen zweiseitigen Kopf. Meistens
-haben sie sowohl eine Membran, als auch einen
+\item[Funktionen] Manche Typen verfügen über einen
+zweiseitigen Kopf.
+Meistens haben sie sowohl eine Membran, als auch einen
 Schalltrichter.~\ZFootnote{Der Unterschied besteht in einer
 unterschiedlichen Verstärkung von hohen oder tiefen
 Frequenzen, was für den fortgeschrittenen Anwender beim
@@ -280,28 +279,17 @@ Dual-Frequency-Membran, mit welcher man durch den
 Auflegedruck wahlweise hohe oder tiefe Frequenzen verstärken
 kann.} Durch Drehen am Kopf kann man die gewünschte Seite
 einstellen.
-}{}{}{}{}
-
-\Layout{2}{Funktionsprüfung}
-{%
-Vor der Verwendung muss mittels Beklopfen der Membran oder
+\item[Funktionsprüfung] Vor der Verwendung muss mittels Beklopfen der Membran oder
 des Schalltrichters geprüft werden, ob der Kopf des
 Stethoskops auf die gewünschte Seite eingestellt ist und ob
 die Schallleitung funktioniert.
-
-}{}{}{}{}
-
-\Layout{2}{Hygienische Wiederaufbereitung}
-{Das Stethoskop ist ein häufiges Vehikel zur
-Keimübertragung. Nach jedem Patienten soll eine 
+\item[Hygienische Wiederaufbereitung] Das Stethoskop ist ein
+häufiges Vehikel zur Keimübertragung. Nach jedem Patienten soll eine 
 Wischdesinfektion mit Flächendesinfektionsmittel
 vorgenommen werden.
-}
-{}
-{}
-{}
-{}
+\end{description}
 
+}{}{}{}{}
 
 
 
@@ -359,7 +347,7 @@ verschwindet, ist der \EE{diastolische Wert}\footnote{Es
 kann vorkommen, dass das Pochen nie verschwindet, sondern
 nur plötzlich leiser wird. Dann gilt der Druck, bei dem das
 Pochen \emph{deutlich} leiser wird, als diastolischer
-Wert.}.
+Wert.}. \cite{FamPropAeGruFert2012}
 
 Die
 Werte werden auf die nächste Fünferstelle abgerundet
@@ -367,7 +355,7 @@ Werte werden auf die nächste Fünferstelle abgerundet
 \RRmmHg{122}{82} wird abgerundet auf \RRmmHg{120}{80}).
 Dokumentiert wird der Blutdruck mit RR (z.\,B.:
 RR~\RRmmHg{125}{75}). Der Normalwert beim Erwachsenen liegt
-ca. bei RR~\RRmmHg{120}{80}
+in etwa bei RR~\RRmmHg{120}{80}
 (\prettyref{topic:blutdruck}).
 }{
 \begin{compactenum}
@@ -814,10 +802,9 @@ keine Notfallsymptome auftreten.
 \end{itemize}
 }{}{}{}
 
-\Layout{2}{Material \& Personal}
+\Layout{2}{Material}
 {
 \begin{enumerate}
-  \item 1 Person
   \item Handschuhe
   \item Kontamed-Box
   \item Alkoholtupfer
@@ -911,7 +898,6 @@ bei der Messung eine Schutzhülle zu verwenden.
 Mit dem \EE{Ohrthermometer} kann mittels Infrarot die
 Temperatur im \E{Mittelohr} bestimmt werden. Es sind die
 entsprechenden \E{Schutzkappen} zu verwenden.
-
 Die Temperatur im Enddarm und im Mittelohr bezeichnet man
 als \T{Körperkerntemperatur}, diese beträgt um die
 37\,\DegC. Die unter der Achsel gemessene Temperatur kann
@@ -982,6 +968,18 @@ lange)!}
 \Layout{0}{\TxBeschreibung}{
 Grundsätzlich unterscheidet man zwischen den Extremitätenableitungen
 und den Brustwandableitungen. 
+\hfill\Commentary[EKG-Ableitungen]{Brustwandableitungen nach
+\I{Einthoven} und \I{Goldberger}, Brustwandableitungen nach
+\I{Wilson}. 
+Zusammen ergeben die Elektroden der Frontal- und Horizontalebene 
+eine dreidimensionale Darstellung der
+elektrischen Herzaktivität. 
+Neben diesen
+Standardableitungen gibt es noch für spezielle Fragestellungen weitere
+Ableitungmöglichkeiten wie z.\,B. die Ableitungen nach
+\I{Nehb} oder die
+\I[Brustwandableitungen!rechtsthorakale]{rechtsthorakalen
+Brustwandableitungen}.}
 
 \begin{itemize}
   \item Extremitätenableitungen\Z{: \EKG{I}, \EKG{II},
@@ -1002,16 +1000,18 @@ Es haben sich folgende Begriffe eingebürgert:
     \item[Extremitätenableitung] \enquote{\T{Rhythmusstreifen}}
     zur Beurteilung des Herzrhythmus und zum Monitoring
     \item[Extremitätenableitung\,+\,Brustwandableitung]
-    (\enquote{\T{12-Kanal-EKG}}) -- Damit können Schäden der
-    jeweiligen Herzregion zugeordnet werden. Wenn vorhanden,
+    (\enquote{\T{12-Kanal-EKG}}) -- Damit können Störungen
+    der jeweiligen Herzregion zugeordnet werden. Wenn vorhanden,
     ist das 12-Kanal-\Abk{EKG} (\emph{\enquote{12er}}) für die
     Diagnostik das Mittel der Wahl. 
 \end{description}
 
+
+
 \Layout{0}{Extremitätenableitungen}
 {
-Die Extremitätenableitungen werden mittels vier Elektroden
-abgeleitet. Je eine Elektrode wird an den Enden der
+Die \T{Extremitätenableitungen} werden mittels vier
+Elektroden abgeleitet. Je eine Elektrode wird an den Enden der
 Extremitäten angebracht. Zur Vereinfachung können die
 Elektroden auch am Übergang vom Rumpf zu den Extremitäten
 angebracht werden (z.\,B. statt dem rechten Arm an der
@@ -1072,7 +1072,7 @@ und Brustwandableitungen.
 
 \Layout{0}{Brustwandableitungen}
 {
-Die Brustwandableitungen werden mittels sechs Elektroden
+Die \T{Brustwandableitungen} werden mittels sechs Elektroden
 abgeleitet und erlauben eine genauere Zuordnung von
 Störungen zu der jeweiligen Region des Herzens. Aus den
 Informationen der sechs Elektroden erzeugt das
@@ -1119,16 +1119,30 @@ Achsellinie
 \end{table}
 
 
-Die richtige Positionierung der \Abk{EKG}-Elektroden ist die
-Voraussetzung um ein sinnvoll auswertbares \Abk{EKG} zu
-erstellen. Falsch angebrachte Elektroden können ein
-\Abk{EKG} derart verfälschen, dass es zu kompletten
-Fehldiagnosen kommen kann\ZFootnote{In \cite{Schnelle200607}
-wurde untersucht, wie sich die Anbringungsstelle der
-Elektroden auf das \Abk{EKG} auswirken kann. }.
+Die richtige Positionierung der
+\Abk{EKG}-Elektroden ist Voraussetzung um ein
+sinnvoll auswertbares und den einzelnen
+Herzabschnitten zuodenbares \Abk{EKG} zu erstellen.
+Falsch angebrachte Elektroden können ein \Abk{EKG} derart
+verfälschen, dass es zu Fehldiagnosen kommen
+kann\ZFootnote{In \cite{Schnelle200607} wurde untersucht,
+wie sich die Anbringungsstelle der Elektroden auf das
+\Abk{EKG} auswirken kann.}.
 
 
+\begin{Literary}
+  \fullcite{ElektroKomikoGraphie7}
 
+  \fullcite{ekg-online.de}
+  
+  \fullcite{EKG-Knacker2}
+
+  \fullcite{EkgIsabell5}
+  
+  Sowie:
+  \cite{EcgEmergencyDec2,Harrisons18DeKap228,KuehnEkgFortbildung02T1,KuehnEkgFortbildung03T2}
+  
+\end{Literary}
 
 
 \section{Körperliche Untersuchungen}
@@ -1416,20 +1430,31 @@ Wärmeverlust schützen. }
 
 
 
-\section*{\protect\dsliterary{} Weiterführende Literatur}
-\begin{WidePar}
-\begin{multicols}{3}
-\small
-\begin{description}%{mmm}
-  \item[\cite{DahmerAnamneseBefund10}] \emph{\bibentry{DahmerAnamneseBefund10}}
-  \item[\cite{LehmeyerAnamUnter1}] \emph{\bibentry{LehmeyerAnamUnter1}}
-  \item[\cite{ChecklisteAnamUnt1}] \emph{\bibentry{ChecklisteAnamUnt1}}
-  \item[\cite{BatesUntersuchung1}] \emph{\bibentry{BatesUntersuchung1}}
-  \item[\cite{FamPropPku2011}] \emph{\bibentry{FamPropPku2011}}
-\end{description}
-\end{multicols}
-\end{WidePar}
+% \section*{\protect\dsliterary{} Weiterführende Literatur}
+\begin{Literary}
+\fullcite{DahmerAnamneseBefund10}
 
+\fullcite{LehmeyerAnamUnter1}
+
+\fullcite{ChecklisteAnamUnt1}
+
+\fullcite{BatesUntersuchung1}
+
+\fullcite{FamPropPku2012}
+\end{Literary}
+% \begin{WidePar}
+% \begin{multicols}{3}
+% \small
+% \begin{description}%{mmm}
+%   \item[\cite{DahmerAnamneseBefund10}] \emph{\bibentry{DahmerAnamneseBefund10}}
+%   \item[\cite{LehmeyerAnamUnter1}] \emph{\bibentry{LehmeyerAnamUnter1}}
+%   \item[\cite{ChecklisteAnamUnt1}] \emph{\bibentry{ChecklisteAnamUnt1}}
+%   \item[\cite{BatesUntersuchung1}] \emph{\bibentry{BatesUntersuchung1}}
+%   \item[\cite{FamPropPku2011}] \emph{\bibentry{FamPropPku2011}}
+% \end{description}
+% \end{multicols}
+% \end{WidePar}
+% 
 
 
 

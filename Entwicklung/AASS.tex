@@ -15,7 +15,7 @@ bibtotocnumbered,
 footnotes=multiple,
 toc=flat,
 ]{scrbook}
-% \setlength{\parindent}{1.5em}
+\setlength{\parindent}{15pt}
 % \usepackage{scrhack}
 
 % UTF-8 Schriftkodierung
@@ -43,16 +43,10 @@ toc=flat,
 \input{./inputs/input-includeonly}	% Schliesse nur bestimmte Kapitel ein ...
 \input{./inputs/input-optkeys}		% optional --- Optionaler Text.
 
-
- 
-
-
-
 \renewcommand{\Abk}[1]{#1}
 
 \usepackage{xr}
 	\externaldocument[MK-]{AASS-MKATALOG-2012}
-
 
 % 1: Art der Massnahmen
 % 2: Titel
@@ -72,15 +66,22 @@ toc=flat,
 \newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
 \usepackage[backend=bibtex8,
 babel=other,
+defernumbers=true,
 natbib,
 sorting=none,
 sortlocale=de,
 ]{biblatex}
 
-	\bibliography{AASS.bib}
-	\addbibresource{AASS-links.bib}
+% 	\bibliography{AASS.bib}
+	\addbibresource{BiblioDB-Med-Books.bib}
+	\addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
+	\addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
+	\addbibresource{BiblioDB-Med-Links.bib}
+	\addbibresource{BiblioDB-Med-Misc.bib}
+	\renewcommand{\labelnamepunct}{\addcolon\space}
 	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
 	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
 	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
 	% 
 	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
@@ -95,6 +96,8 @@ sortlocale=de,
 	Sofern dieser nicht Teil Ihrer Distribution ist, finden
 	Sie sie auch online unter
 	\url{http://www.aass.at/download}.}
+	
+\setkomafont{descriptionlabel}{\bfseries}
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -108,6 +111,25 @@ sortlocale=de,
 \MultiColListStart{toc}{2}
 \MultiColListStart{lofazit}{2}
 \MultiColListStart{lomassnahmen}{2}
+
+\renewcommand{\itemhook}{%
+%   \setlength{\topsep}{0pt}%
+% %   \setlength{\itemsep}{0.5\baselineskip}
+%   \setlength{\parskip}{\baselineskip}
+  \setlength{\leftmargin}{15pt}
+%   \setlength{\labelwidth}{10pt}
+  \setlength{\labelsep}{9.5pt}
+%   \setlength{\labelsep}{5.5pt}
+}
+
+\renewcommand{\enumhook}{%
+%   \setlength{\topsep}{0pt}%
+% %   \setlength{\itemsep}{0.5\baselineskip}
+%   \setlength{\parskip}{\baselineskip}
+  \setlength{\leftmargin}{15pt}
+  \setlength{\labelwidth}{10pt}
+  \setlength{\labelsep}{2pt}
+}
 
 % \nobibliography*
 
@@ -473,6 +495,12 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \colorbox{DefaultGreen}{\textcolor{DefaultGreen}{X~~~~~}}~~
 \colorbox{Lavender}{\textcolor{Lavender}{X~~~~~}}~~
 \colorbox{Indigo}{\textcolor{Indigo}{X~~~~~}}
+\bigskip
+
+\noindent\colorbox{Cyan}{\textcolor{Cyan}{X~~~~~}}~~
+\colorbox{Magenta}{\textcolor{Magenta}{X~~~~~}}~~
+\colorbox{Yellow}{\textcolor{Yellow}{X~~~~~}}~~
+\colorbox{Black}{\textcolor{Black}{X~~~~~}}
 }
 \end{WidePar}
 
@@ -483,13 +511,39 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 {\the\ThirdNetWidth}
 
 
-\begin{WidePar}
+\begin{WidePar}\flushleft
   \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
-  
-  \noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme} gekennzeichnete
-Referenzen finden sich im Maßnahmenkatalog (Version
-\VarMkatalogVersion).
+%   
+%   \noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme} gekennzeichnete
+% Referenzen finden sich im Maßnahmenkatalog (Version
+% \VarMkatalogVersion).
 \end{WidePar}
+\Layout{2}
+{Maßnahmenkatalog}
+{Konkrete Maßnahmen bzw. mit {\SignMassnahme}
+gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
+\VarMkatalogVersion).
+}
+{}
+{}
+{}
+{}
+
+\Layout{2}
+{Externe Teile}
+{Aus Kostengründen sind manchmal nicht
+alle Teile Bestandteil eines Drucks. Dies betrifft
+insbesonders Teile des Appendix wie z.\,B. das
+Literaturverzeichnis oder den Kommentarteil. Diese Teile
+sind online auf der {\AASS}-Projektseite im
+Download-Bereich verfügbar
+(\url{http://www.aass.at/cms/download/aass/}).
+
+}
+{}
+{}
+{}
+{}
 % {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
 
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
@@ -497,17 +551,42 @@ Referenzen finden sich im Maßnahmenkatalog (Version
 
 \begin{WidePar}
   {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
+\end{WidePar}
 
-\noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme}
+
+\Layout{2}
+{Maßnahmenkatalog}
+{Konkrete Maßnahmen bzw. mit {\SignMassnahme}
 gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
 \VarMkatalogVersion).
+}
+{}
+{}
+{}
+{}
+
+\Layout{2}
+{Externe Teile}
+{Aus Kostengründen sind manchmal nicht
+alle Teile Bestandteil eines Drucks. Dies betrifft
+insbesonders Teile des Appendix wie z.\,B. das
+Literaturverzeichnis oder den Kommentarteil. Diese Teile
+sind online auf der {\AASS}-Projektseite im
+Download-Bereich verfügbar
+(\url{http://www.aass.at/cms/download/aass/}).
+
+}
+{}
+{}
+{}
+{}
 
 % {\small\listoffigures}
 % 
 % {\small\listoftables}
 
 % {\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
-
+\begin{WidePar}
 {\small\kern-2.ex\listof{fazit}{Merksätze}}
 \end{WidePar}
 
@@ -545,7 +624,6 @@ gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
 \include{./chapters/chapter-PSI}
 \include{./chapters/chapter-KHD}
 \include{./chapters/chapter-GEF}
-\include{./chapters/chapter-PAM.alt}
 \include{./chapters/chapter-PAM}
 
 % {\WideParBegin}
@@ -556,6 +634,7 @@ gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
 
 \include{./chapters/chapter-ANA}
 \include{./chapters/chapter-EIN}
+\include{./chapters/chapter-DOK}
 \include{./chapters/chapter-VIT}
 \include{./chapters/chapter-TOD}
 \include{./chapters/chapter-HKL}
@@ -627,10 +706,10 @@ gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
 \nocite{ArzPocketAustria2,AerztlicheWundversorgung2,EkgIsabell5,InnereMedQuick3}
 
 \addtocategory{BestOf}{
-Erc2010Sec1,
-emergncy9,
+emergency9,
 DahmerGespraechsfuehrung5,
 DahmerAnamneseBefund10,
+EkgIsabell5,
 ForMed2,
 KirschnickPflege2,
 RueckerBildatlas1,
@@ -638,10 +717,12 @@ TertialeNotfallIntensivmed1,
 ThierbachInterhospitaltransfer1,
 ElektroKomikoGraphie7,
 ArzPocketAustria2,
-BLIM3,
+BLIM4,
 PHTLS6,
-RedelsteinerHRNS1,
-ITLSde6}
+RedelsteinerHRNS2,
+ITLSde6,
+Helfen2008,
+StriebelAnaesthesie2}
 \printbibliography[category=BestOf,title={Literatur,
 Best of},prenote=bestof]
 % \bibbycategory

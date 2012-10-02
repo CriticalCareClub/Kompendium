@@ -49,19 +49,20 @@ Alexander Blacky und deren Team für die Unterstützung!
 
 
 
-% \clearpage
+\clearpage
 \section{Verabreichungsarten von Medikamenten}
 
-\Layout{2}{\TxBeschreibung}{
+\Layout{0}{\TxBeschreibung}{
 Es gibt verschiedene Arten Medikamente zu verabreichen. Dies
 kann entweder \II{invasiv} (verletzend) oder
 \II{nicht-invasiv} sein. 
-}{}{
+}{%
 \begin{itemize}
     \item Invasiv
     \item Nicht-invasiv
 \end{itemize}
-}{}{}
+}
+{}{}{}
 
 \Layout{0}{Invasiv}{%
 \index{Injektion!intravenöse}%
@@ -145,17 +146,13 @@ kommen.
   \item Kanüle(n) (Hohlnadel)
   \item Ampulle mit Medikament
   \item Trockene Tupfer
-  \item Kontamedbox
+  \item Nadelabwurfbehälter
 \end{compactitem}
 }{}{}{}{}
 
-
 % \begin{multicols}{2}
 % \Layout{2}{Vorgehen}{
-\begin{WidePar}
-\MarginBoxFilledRounded{Vorgehen}{}
-\bigskip
-\begin{multicols}{3}
+\begin{ProcedureStepsWide}{Vorgehen}
 \begin{enumerate}\CorrectionItemizeBox
   \item Verschlossene Ampulle
   dem Arzt zeigen bevor sie geöffnet wird.
@@ -172,7 +169,7 @@ kommen.
 weist zum Körper
 
     \item Plastikampulle,
-    \enquote{Dreh-und-Drink}-Verschluss:
+    \enquote*{Dreh-und-Drink}-Verschluss:
 
      Den Verschlussknopf ohne Kontamination des
     Ampullenhalses (Sollbruchstelle) abdrehen.
@@ -191,58 +188,52 @@ weist zum Körper
     Ampullenrand nicht berühren.
   \end{itemize}
   \item Aufziehen des
-  Medikamentes.\marginpar{\includegraphics[width=\linewidth]{./images/motal-aass/medi-aufziehen_4815-00800.jpg}}
+  Medikamentes.
   \item Vorsichtig entlüften.
-  \item Variante \enquote{Verabreichung über Venflon}:
-  \begin{itemize}
-    \item Kanüle händisch abziehen und in den Kontamed verwerfen.
+  \item Verabreichung:
+  \ListBreak{enumerate}{Variante \enquote{Verabreichung über
+  Venflon}:}
+%   \begin{itemize}
+    \item Kanüle \EE{händisch abziehen} und in den
+    Nadelabwurfbehälter verwerfen -- Keinesfalls Kanüle am
+    Nadelabwurfbehälter abstreifen (Kontamination)!
     \item Arzt das Medikament übergeben, Ampulle zeigen.
     \item Wird das Medikament nicht sofort verwendet, Spritze mit
     Stoppel verschließen und Ampulle ankleben.
-  \end{itemize}
-  \item Variante \enquote{zuspritzen in eine Infusionsflasche}:
-  \begin{itemize}
+%   \end{itemize}
+\ListBreak{enumerate}{Variante \enquote{zuspritzen in eine
+Infusionsflasche}:}
+%   \begin{itemize}
     \item Gummimembran desinfizieren.
     \item Kanüle nicht bis zum Schaft einstechen.
     \item Medikament zuspritzen.
     \item Beschriften der Flasche.
-  \end{itemize}
-  \item Variante \enquote{direktes Spritzen}:
-  \begin{itemize}
+%   \end{itemize}
+\ListBreak{enumerate}{Variante \enquote{direktes Spritzen}}
+%   \begin{itemize}
     \item Nach Kanülengröße fragen.
     \item Aufziehkanüle händisch entfernen.
     \item Spritzkanüle aufstecken.
     \item Spritze mit Verschlusskappe reichen, Ampulle zeigen.
-  \end{itemize}
+%   \end{itemize}
 \end{enumerate}
-\end{multicols}
-\end{WidePar}
+\end{ProcedureStepsWide}
 % }{}{}{}{}
 
-\begin{figure}[H]
-\FormatTable
-\begin{WidePar}
-\Captionof{figure}{Bilderserie: Medikament aus Ampulle
-aufziehen \SourcePicture{Motal}}
 
+\begin{PictureSeriesWide}{}{Bilderserie: \EEE{Medikament aus
+Ampulle aufziehen} \SourcePicture{Motal}}
+\PictureSeriesRowWide{4}
+{./images/motal-aass/medi-kontrolle_4807-00800.jpg}
+{Kontrolle}
+{./images/motal-aass/medi-aufziehen_4815-00800.jpg}
+{Aufziehen mit Kanüle}
+{./images/motal-aass/medi-kontrollieren_4824-00800.jpg}
+{Übergabe}
+{./images/motal-aass/medi-verabreichen_4826_CLOSEUP-00800.jpg}
+{Verabreichung über Venflon durch befugtes Personal}
+\end{PictureSeriesWide}
 
-\subfloat
-[Kontrolle]
-{\includegraphics[width=0.24\linewidth]{./images/motal-aass/medi-kontrolle_4807-00800.jpg}}
-\hfill
-\subfloat
-[Aufziehen mit Kanüle]
-{\includegraphics[width=0.24\linewidth]{./images/motal-aass/medi-aufziehen_4815-00800.jpg}}
-\hfill
-\subfloat
-[Übergabe]
-{\includegraphics[width=0.24\linewidth]{./images/motal-aass/medi-kontrollieren_4824-00800.jpg}}
-\hfill
-\subfloat
-[Verabreichung über Venflon durch befugtes Personal]
-{\includegraphics[width=0.24\linewidth]{./images/motal-aass/medi-verabreichen_4826_CLOSEUP-00800.jpg}}
-\end{WidePar}
-\end{figure}
 
 
 \clearpage
@@ -269,15 +260,10 @@ aufziehen \SourcePicture{Motal}}
 {}
 {}
 
+\begin{ProcedureStepsWide}[Beim Arbeiten muss besonderes Augenmerk auf eine sterile
+Arbeitsweise gelegt werden!]{Vorgehen}
 
-\Layout{2}{Vorgehen}{%
-Beim Arbeiten muss besonderes Augenmerk auf eine sterile
-Arbeitsweise gelegt werden! Es kann sonst zu Infektionen
-kommen.
-
-\begin{WidePar}
-\begin{multicols}{3}
-\begin{enumerate}\CorrectionListsBox
+\begin{enumerate}
   \item Aufhängevorrichtung auf Flasche aufsetzen wenn nötig
   \item Eröffnen der Flaschenabdeckung (Membranschutz)
   \item Wischdesinfektion der Gummimembran
@@ -306,9 +292,8 @@ kommen.
     \item Radklemme schließen
   \end{enumerate}
 \end{enumerate}
-\end{multicols}
-\end{WidePar}
-}{}{}{}{}
+\end{ProcedureStepsWide}
+
 
 % \clearpage % TEMP temp clearpage
 \bigskip
@@ -384,24 +369,25 @@ orange 	& \enquote{Rohr}		& \Z{14} 	&\Z{1,6 x 2,1} 	& \Z{42}
 % \begin{multicols}{2}
 \Layout{2}{Material}{
 \begin{compactitem}
-  \item Nierentasse.
-  \item Staubinde.
+  \item Nierentasse
+  \item Staubinde
   \item Venflon:
   \begin{compactitem}
     \item Die Größe (= Farbe) ist vom Durchführenden vorher zu erfragen!
-    \item Die Flügel werden hinunter geklappt.
+    \item Die Flügel werden hinunter geklappt
     \item Die farbige Lasche des Zuspritzventils in rechten Winkel zur
-    Venflonachse stellen.
+    Venflonachse stellen
   \end{compactitem}
   \item Einmalverschlusskappe (\enquote{roter
-  Stoppel}).
-  \item Fixierungspflaster.
-  \item einige saubere trockene Tupfer.
-  \item Alko-Tupfer.
+  Stoppel})
+  \item Fixierungspflaster
+  \item einige saubere trockene Tupfer
+  \item Desinfektions-Tupfer
   \item (Einwegspritze mit 5\Ml* Spülflüssigkeit
-  (\ce{NaCl} 0,9\PC*)).
-  \item (Faserschreiber).
-  \item Kontamed-Box.
+  (\ce{NaCl} 0,9\PC*))
+  \item (3-Wege-Hahn)
+  \item (Faserschreiber)
+  \item Nadelabwurfbehälter
 \end{compactitem}
 % \end{multicols}
 }{}{}{}{}
@@ -414,7 +400,7 @@ orange 	& \enquote{Rohr}		& \Z{14} 	&\Z{1,6 x 2,1} 	& \Z{42}
   \item Stauschlauch zureichen
   \item Geöffnete Verpackung des Alko-Tupfers hinreichen, sodass dieser
   entnommen werden kann
-  \item Kontamed in Reichweite des  Durchführenden
+  \item Nadelabwurfbehälter in Reichweite des  Durchführenden
   bereitstellen, sodass er später die Kanüle/Mandrin abwerfen kann.
   \item Venflon zureichen
   
@@ -429,7 +415,7 @@ orange 	& \enquote{Rohr}		& \Z{14} 	&\Z{1,6 x 2,1} 	& \Z{42}
 % \end{multicols}
 }{}{}{}{}
 
-\begin{PictureSeries}{}{Bilderserie: Periphere Venenverweilkanüle}
+\begin{PictureSeries}{}{Bilderserie: \EEE{Periphere Venenverweilkanüle}}
 \PictureSeriesRow{2}
 {./images/demaw/Skriptumaegf-img35}
 {Anlage einer periph. Venenverweilkanüle \SourcePicture{DEMAW/Blacky}}
@@ -449,11 +435,9 @@ orange 	& \enquote{Rohr}		& \Z{14} 	&\Z{1,6 x 2,1} 	& \Z{42}
 \bigskip
 \section{Intubation: Vorbereitung und Assistenz}
 \label{topic:intubation-assistenz}%
-\begin{WidePar}
-\MarginBoxFilledRounded{Material}{}
-\bigskip
-\begin{multicols}{3}
-\begin{enumerate}\CorrectionListsBox
+
+\begin{ProcedureStepsWide}{Material}
+\begin{enumerate}
     \item Beatmungsbeutel inkl. passender Beatmungsmaske,
     Bakterienfilter und Sauerstoffreservoir
     \item \ce{O2}-Berieselungseinheit und \ce{O2}-Line
@@ -465,6 +449,13 @@ orange 	& \enquote{Rohr}		& \Z{14} 	&\Z{1,6 x 2,1} 	& \Z{42}
         \item Spatel: gebogen oder gerade; Größen 0\,--\,4
         \item Griff
     \end{compactenum}
+    
+    \noindent\begin{minipage}{\linewidth}
+\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Testlunge_32902-AASS-0112mm.jpg}
+
+\Captionof{figure}{Laryngoskopgriff und verschiedene Spatel
+\SourcePicture{Ch. Pallinger}}
+\end{minipage}
     \item (Endotracheal-)Tubus; verschiedene Größen
     \item Führungsdraht (\T{Mandrin})
     \item Silikonspray
@@ -474,14 +465,13 @@ orange 	& \enquote{Rohr}		& \Z{14} 	&\Z{1,6 x 2,1} 	& \Z{42}
     \item Fixationsmaterial (Breite Heftpflaster, Mullbinde)
     \item Stethoskop
 \end{enumerate}
-\begin{minipage}{\linewidth}
-\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Testlunge_32902-AASS-0112mm.jpg}
 
-\Captionof{figure}{Laryngoskopgriff und verschiedene Spatel
-\SourcePicture{Ch. Pallinger}}
-\end{minipage}
-\end{multicols}
-\end{WidePar}
+
+\end{ProcedureStepsWide}
+
+
+
+
 
 
 
@@ -496,46 +486,36 @@ Pallinger}
 
 \clearpage
 
-\begin{WidePar}
-\MarginBoxFilledRounded{Vorbereitung}{}
-\bigskip
-\begin{multicols}{3}
-\begin{enumerate}\CorrectionListsBox
-    \item Gewünschte Spatelgröße erfragen
-    \item Gewünschte Tubusgröße erfragen
-    \item Laryngoskop (Spatel und Griff) zusammenbauen
-    \item Tubusverpackung aufschälen, Tubus aber in der Verpackung belassen   
-    \item Dichtigkeit des Cuff prüfen: testweise aufblasen
-    \item Führungsdraht (Mandrin) mit Silikonspray
-    einsprühen\ACh{HART}{0.8.0}{Mandrin auch mit Silikon einsprühen} und
-    einführen. Die Spitze muss bis zum Tubusende vorgeschoben vorgeschoben
-    werden, darf aber nicht herausragen.
-    \item Cuff mit Silikonspray einsprühen
-    \item Stethoskop: Funktion prüfen
-    \item \EE{Absaugung} bereit machen:
-    \begin{enumerate}
-        \item Passenden Absaugkatheter wählen
-        \item Verpackung teilweise aufschälen um Anschluss
-        freizulegen, Katheter in der Verpackung belassen.
-        \item Katheter anschließen.
-        \item Funktionskontrolle: Gerät einschalten. Saugstärke?
-        Batteriewarnung?
-\item Absaugeinheit muss in Griffweite der Assistenten positioniert werden! 
-    \end{enumerate}
-    \item Beatmungsbeutel zusammenbauen und an
-    \ce{O2}-Berieselungseinheit anschließen
-    \item Restliches Material bereitlegen (z.\,B. in Nierentasse) 
-\end{enumerate}
-\end{multicols}
-\end{WidePar}
+% \MarginBoxFilledRounded{Vorbereitung}{}
 
-% \clearpage
-% \Layout{2}{Assistenz}{
-\begin{WidePar}
-\MarginBoxFilledRounded{Assistenz}{}
-\bigskip
-\begin{multicols}{3}
-\begin{enumerate}\CorrectionListsBox
+\begin{ProcedureStepsWide}{Vorbereitung}
+\begin{enumerate}
+  \item Gewünschte Spatelgröße erfragen
+  \item Gewünschte Tubusgröße erfragen
+  \item Laryngoskop (Spatel und Griff) zusammenbauen
+  \item Tubusverpackung aufschälen, Tubus aber in der Verpackung belassen
+  \item Dichtigkeit des Cuff prüfen: testweise aufblasen
+  \item Führungsdraht (Mandrin) mit Silikonspray
+  einsprühen\ACh{HART}{0.8.0}{Mandrin auch mit Silikon einsprühen} und
+  einführen. Die Spitze muss bis zum Tubusende vorgeschoben vorgeschoben
+  werden, darf aber nicht herausragen.
+  \item Cuff mit Silikonspray einsprühen
+  \item Stethoskop: Funktion prüfen
+  \item \EE{Absaugung} bereit machen:
+  \begin{enumerate}
+    \item Passenden Absaugkatheter wählen
+    \item Verpackung teilweise aufschälen um Anschluss
+    freizulegen, Katheter in der Verpackung belassen.
+    \item Katheter anschließen.
+    \item Funktionskontrolle: Gerät einschalten. Saugstärke?
+    Batteriewarnung?
+    \item Absaugeinheit muss in Griffweite der Assistenten positioniert werden!
+  \end{enumerate}
+  \item Beatmungsbeutel zusammenbauen und an
+  \ce{O2}-Berieselungseinheit anschließen
+  \item Restliches Material bereitlegen (z.\,B. in Nierentasse)
+  \ListBreakHard[Für nicht-ärztliches
+  Personal]{enumerate}{Assistenz}
   \item Überprüfen ob alle Materialien bereit sind.
   \item Sauerstoffberieselung einschalten und auf
   15{\LPerMin*} einstellen, Reservoir des Beatmungsbeutels
@@ -569,51 +549,87 @@ Pallinger}
   \item \Z{Ggfs. Beatmungsgerät einstellen und
   anschließen.}
 \end{enumerate}
-\end{multicols}
-\end{WidePar}
+\end{ProcedureStepsWide}
 % }{}{}{}{}
 
 
-\begin{PictureSeriesWide}{}{Bilderserie: Intubation \SourcePicture{Motal}}
-\PictureSeriesRowWide{4}
+% \begin{PictureSeriesWide}{}{Bilderserie: Intubation \SourcePicture{Motal}}
+% \PictureSeriesRowWide{4}
+% {./images/motal-aass/intubation/dsc_4829-AASS-0030mm}
+% {Zusammenbauen des Laryngoskops}
+% {./images/motal-aass/intubation/dsc_4831-AASS-0030mm}
+% {Einsprühen des Tubus \E{in der Verpackung}}
+% {./images/motal-aass/intubation/dsc_4834-AASS-0030mm}
+% {Präoxygenierung}
+% {./images/motal-aass/intubation/dsc_4835-AASS-0030mm}
+% {Zureichen des Laryngoskops}
+% \PictureSeriesRowWide{4}
+% {./images/motal-aass/intubation/dsc_4837-AASS-0030mm}
+% {Zureichen des Tubus}
+% {./images/motal-aass/intubation/dsc_4839-AASS-0030mm}
+% {Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus}
+% {./images/motal-aass/intubation/dsc_4841-AASS-0030mm}
+% {Cuffen nach Entfernung des Führungsdrahtes}
+% {./images/motal-aass/intubation/dsc_4843-AASS-0030mm}
+% {Stethoskop zureichen}
+% \PictureSeriesRowWide{4}
+% {./images/motal-aass/intubation/dsc_4844-AASS-0030mm}
+% {Abhören des Patienten}
+% {./images/motal-aass/intubation/dsc_4847-AASS-0030mm}
+% {Beißkeil (hier: Guedel-Tubus) einführen}
+% {./images/motal-aass/intubation/dsc_4849-AASS-0030mm}
+% {Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!}
+% {empty}
+% {}
+% \end{PictureSeriesWide}
+
+\begin{PictureSeriesWide}{}{Bilderserie: \EEE{Intubation} \SourcePicture{Motal}}
+\PictureSeriesRowWide{3}
 {./images/motal-aass/intubation/dsc_4829-AASS-0030mm}
 {Zusammenbauen des Laryngoskops}
 {./images/motal-aass/intubation/dsc_4831-AASS-0030mm}
 {Einsprühen des Tubus \E{in der Verpackung}}
 {./images/motal-aass/intubation/dsc_4834-AASS-0030mm}
 {Präoxygenierung}
+{empty}
+{}
+\PictureSeriesRowWide{3}
 {./images/motal-aass/intubation/dsc_4835-AASS-0030mm}
 {Zureichen des Laryngoskops}
-\PictureSeriesRowWide{4}
 {./images/motal-aass/intubation/dsc_4837-AASS-0030mm}
 {Zureichen des Tubus}
 {./images/motal-aass/intubation/dsc_4839-AASS-0030mm}
 {Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus}
+{empty}
+{}
+\PictureSeriesRowWide{3}
 {./images/motal-aass/intubation/dsc_4841-AASS-0030mm}
 {Cuffen nach Entfernung des Führungsdrahtes}
 {./images/motal-aass/intubation/dsc_4843-AASS-0030mm}
 {Stethoskop zureichen}
-\PictureSeriesRowWide{4}
 {./images/motal-aass/intubation/dsc_4844-AASS-0030mm}
 {Abhören des Patienten}
+{empty}
+{}
+\PictureSeriesRowWide{3}
 {./images/motal-aass/intubation/dsc_4847-AASS-0030mm}
 {Beißkeil (hier: Guedel-Tubus) einführen}
 {./images/motal-aass/intubation/dsc_4849-AASS-0030mm}
 {Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!}
 {empty}
 {}
+{empty}
+{}
 \end{PictureSeriesWide}
 
+\begin{Literary}
+  \fullcite{ArbeitstechnikenAZ1}
 
-\section*{\protect\dsliterary{} Weiterführende Literatur}
-\begin{WidePar}
-\begin{multicols}{3}
-\small
-\begin{description}%{mmm}
-  \item[\cite{ArbeitstechnikenAZ1}] \emph{\bibentry{ArbeitstechnikenAZ1}}
-  \item[\cite{InjektionenLeichtGemacht4}] \emph{\bibentry{InjektionenLeichtGemacht4}}
-  \item[\cite{FamPropAeGruFert2011}] \emph{\bibentry{FamPropAeGruFert2011}}
-\end{description}
-\end{multicols}
-\end{WidePar}
+  \fullcite{InjektionenLeichtGemacht4}
+
+  \fullcite{FamPropAeGruFert2011}
+\end{Literary}
+
+
+
 \nocite{ZechaOpGehilfe1}

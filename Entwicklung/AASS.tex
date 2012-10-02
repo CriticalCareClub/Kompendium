@@ -22,51 +22,36 @@ toc=flat,
 \usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}
 % get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
 \usepackage{etex}
-
 \usepackage{blindtext}
 \usepackage{microtype}
 \usepackage{fixltx2e}
 \usepackage{ellipsis}
+% \setcounter{errorcontextlines}{10}
+\usepackage{ragged2e}
 
 % Optionen für Bilder:
 % [draft] .. Es werden nur Rahmen angezeigt
 % [final] .. Es werden Bilder normal angezeigt
-% [demo} .. keine Bilder
-\usepackage[final]{graphicx} % Bilder-Support
+% [demo]  .. keine Bilder
+\usepackage[final]{graphicx} 		% Bilder-Support
+\input{./inputs/input-preamble}		% Präambel
+\input{./inputs/input-hyphenation}	% Trennungen
+\input{./inputs/input-title}		% Titel
+\input{./inputs/input-docinfo}		% Dokumenteinfos (Status, Version, ...)
+\input{./inputs/input-headfoot}		% Kopf- und Fusszeilen
+\input{./inputs/input-excludeonly}	% Ausgeschlossene Kapitel
+\input{./inputs/input-includeonly}	% Schliesse nur bestimmte Kapitel ein ...
+\input{./inputs/input-optkeys}		% optional --- Optionaler Text.
 
-\input{./inputs/input-preamble}
-
-% Trennungen
-\input{./inputs/input-hyphenation}
-
-% Titel
-\input{./inputs/input-title}
-
-% Dokumenteinfos (Status, Version, ...)
-\input{./inputs/input-docinfo}
-
-% Kopf- und Fusszeilen
-\input{./inputs/input-headfoot}
-
-% Ausgeschlossene Kapitel
-\input{./inputs/input-excludeonly}
-
-% Schliesse nur bestimmte Kapitel ein ...
-\input{./inputs/input-includeonly}
-
-% optional --- Optionaler Text. 
-\input{./inputs/input-optkeys}
-
-\setcounter{errorcontextlines}{10}
 
  
 
-\usepackage{ragged2e}
+
 
 \renewcommand{\Abk}[1]{#1}
 
 \usepackage{xr}
-\externaldocument[MK-]{AASS-MKATALOG-2012}
+	\externaldocument[MK-]{AASS-MKATALOG-2012}
 
 
 % 1: Art der Massnahmen
@@ -85,31 +70,31 @@ toc=flat,
 
 \newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
 \newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
-\usepackage[backend=biber,
+\usepackage[backend=bibtex8,
 babel=other,
 natbib,
 sorting=none,
 sortlocale=de,
 ]{biblatex}
 
-\bibliography{AASS.bib}
-\addbibresource{AASS-links.bib}
-\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
-\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
-% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
-% 
-% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
-\DeclareFieldFormat{journaltitle}{\textsc{#1}}
-\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
-\renewcommand{\bibfont}{\normalfont\small}
-\DeclareBibliographyCategory{PAM}
-\DeclareBibliographyCategory{BestOf}
-\defbibnote{bestof}{Dieser Abschnitt beinhaltet besonders
-lesenswerte Literaturreferenzen. Eine vollständgie
-Auflistung der Quellen findet sich im Folgeabschnitt.
-Sofern dieser nicht Teil Ihrer Distribution ist, finden
-Sie sie auch online unter
-\url{http://www.aass.at/download}.}
+	\bibliography{AASS.bib}
+	\addbibresource{AASS-links.bib}
+	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+	% 
+	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+	\DeclareFieldFormat{journaltitle}{\textsc{#1}}
+	\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+	\renewcommand{\bibfont}{\normalfont\small}
+	\DeclareBibliographyCategory{PAM}
+	\DeclareBibliographyCategory{BestOf}
+	\defbibnote{bestof}{Dieser Abschnitt beinhaltet besonders
+	lesenswerte Literaturreferenzen. Eine vollständgie
+	Auflistung der Quellen findet sich im Folgeabschnitt.
+	Sofern dieser nicht Teil Ihrer Distribution ist, finden
+	Sie sie auch online unter
+	\url{http://www.aass.at/download}.}
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -264,52 +249,18 @@ Vicco von Bülow (\VonBis{1923}{2011})
 \end{center}
 
 \end{titlepage}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% <--- END TITLEPAGE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
 
 \opt{STATUS-DRAFT}{{\scriptsize\listof{warning}{Verzeichnis der Warnungen}}}
 
-
-
 \restoregeometry
 
 %\nocite{*} 
-
 % \layout
 % \pagediagram\pagedesign\paragraphdiagram\paragraphdesign\floatpagediagram\floatpagedesign\listdiagram\listdesign\footnotediagram\footnotedesign\tocdiagram\tocdesign
 
@@ -565,25 +516,14 @@ gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
 \part{Allgemeiner Teil}
 % {\WideParEnd}
 
-
 \include{./chapters/chapter-TAE} 
-
 % \include{./chapters/chapter-NEW}
 % \addtocounter{chapter}{1}
-
 \include{./chapters/chapter-LER}
-
 \include{./chapters/chapter-BET}
-
 \include{./chapters/chapter-RWT}
-
 \include{./chapters/chapter-REG}
-
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-NWG}
-} % STATUS-EXPERIMENTAL
-
+\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-NWG}} % STATUS-EXPERIMENTAL
 
 % {\WideParBegin}
 \part{Grundlagen}
@@ -592,40 +532,21 @@ gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
 % \setcounter{page}{1}
 
 \include{./chapters/chapter-JUS}
-
 \include{./chapters/chapter-JUF}
-
 \include{./chapters/chapter-EHI}
-
 % \include{./chapters/chapter-AED}
-
-% \include{./chapters/chapter-SHF}
-
-% zuerst die Kapitel in denen Geräte eine Rolle spielen:
 \include{./chapters/chapter-MP1}
-
 \include{./chapters/chapter-BAU}
-
 \include{./chapters/chapter-ASB}
-
 \include{./chapters/chapter-SAN}
-
 \include{./chapters/chapter-ASS}
-
 \include{./chapters/chapter-BLS}
-
-% dann \enquote{wie führe ich ein gespräch:
 \include{./chapters/chapter-AUP}
-
 \include{./chapters/chapter-PSI}
-
 \include{./chapters/chapter-KHD}
-
 \include{./chapters/chapter-GEF}
-
-% Zuletzt: \enquote{Wie mache ich daraus einen funktionierenden Ablauf?}
+\include{./chapters/chapter-PAM.alt}
 \include{./chapters/chapter-PAM}
-\include{./chapters/chapter-PAMneu}
 
 % {\WideParBegin}
 \part{Medizinisch-Wissenschaftlicher Basisteil}
@@ -634,46 +555,25 @@ gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
 % \setcounter{page}{1}
 
 \include{./chapters/chapter-ANA}
-
 \include{./chapters/chapter-EIN}
-
 \include{./chapters/chapter-VIT}
-
 \include{./chapters/chapter-TOD}
-
 \include{./chapters/chapter-HKL}
-
 \include{./chapters/chapter-RSP}
-
 \include{./chapters/chapter-NEU}
-
 \include{./chapters/chapter-STW}
-
 \include{./chapters/chapter-ABD}
-
 \include{./chapters/chapter-URO}
-
 \include{./chapters/chapter-HYG}
-
 \include{./chapters/chapter-INK}
-
 \include{./chapters/chapter-GYN}
-
 \include{./chapters/chapter-KIN}
-
 \include{./chapters/chapter-KRI}
-
 \include{./chapters/chapter-PSY}
-
 \include{./chapters/chapter-THE}
-
 \include{./chapters/chapter-TOX}
-
 \include{./chapters/chapter-TRA}
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-SYM}
-}
+\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-SYM}}
 
 
 % {\WideParBegin}
@@ -683,47 +583,21 @@ gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
 % \setcounter{page}{1}
 
 % \include{./chapters/chapter-MP2}
-
 \include{./chapters/chapter-ALS}
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-ARZ}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-NKA}
-}
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-PKU}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-EKG}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-WIS}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-SPE}
-} % STATUS-EXPERIMENTAL
-
-\opt{STATUS-EXPERIMENTAL}{%
-\include{./chapters/chapter-WEI}
-} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-ARZ}} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-NKA}}
+\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-PKU}} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-EKG}} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-WIS}} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-SPE}} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-WEI}} % STATUS-EXPERIMENTAL
 
 % {\WideParBegin}
 \part{\enquote{Advanced} (Fortgeschrittenes Wissen)}
 % {\WideParEnd}
 \setcounter{chapter}{70}\setcounter{page}{1}
 
-\opt{STATUS-EXPERIMENTAL}{
-\chapter{Präklinische Narkose}
-
-\SectionUnderDevelopment
-} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\chapter{Präklinische Narkose}\SectionUnderDevelopment} % STATUS-EXPERIMENTAL
 
 % \include{./chapters/inc-RES-ende}
 
@@ -734,10 +608,6 @@ gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
 %\setcounter{page}{0}
 
 % \pagenumbering[Appendix]{bychapter}
-
-
-% \chapter{Verzeichnisse}
-
 
 \include{./chapters/chapter-INT}
 
@@ -784,19 +654,6 @@ Best of},prenote=bestof]
 
 \input{./chapters/inc-APP}
 
-% \begin{figure}[H]
-% \begin{WidePar}
-% \includegraphics[width=\linewidth]{./images/nasa-pd/114125main_image_feature_323_ys_full-00800.jpg}
-% 
-% \Captionof{figure}{Orbital ›Thumbs Up‹.
-% The Expedition 10 and 11 crews give the >>thumbs up<< after the change of
-% command ceremony on the International Space Station on April 22, 2005. From left:
-% Expedition 11 Flight Engineer John L. Phillips, Expedition 11 Commander Sergei K.
-% Krikalev, Expedition 10 Commander Leroy Chiao, European Space Agency (ESA)
-% astronaut Roberto Vittori of Italy; and Expedition 10 Flight Engineer Salizhan S.
-% Sharipov. \SourcePicture{NASA/JSC}}
-% \end{WidePar}
-% \end{figure}
 SO LONG.......... AND THANKS FOR ALL THE FISH
 \MultiColListEnd{lomassnahmen}
 \MultiColListEnd{lofazit}

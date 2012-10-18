@@ -12,7 +12,7 @@
 \usepackage{multicol}
 \usepackage{array,tabularx,tabulary}
 
-\usepackage[xcolor]{rvdtx}
+% \usepackage[xcolor]{rvdtx}
 
 \usepackage{hyperref}
 \hypersetup{colorlinks=true, linkcolor=darkBlue, citecolor=darkBlue, filecolor=darkBlue, pagecolor=darkBlue, urlcolor=darkBlue}
@@ -20,47 +20,47 @@
 
 \usepackage{blindtext}
 \usepackage{aass-common}
-
+\usepackage{aass-fonts}
+\usepackage{aass-layout}
+\usepackage{aass-units}
 \input{./inputs/input-hyphenation}
-\input{./defs/colors.def}
-\input{./defs/colors-aass.def}
 \input{./inputs/input-optkeys.tex}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Überschriften
 
-% %\setkomafont{disposition}{\mdseries\sffamily\fontfamily{augie}\selectfont}
-\setkomafont{disposition}{\mdseries\sffamily\bfseries}
-\setkomafont{captionlabel}{\mdseries\upshape\bfseries}
-\setkomafont{caption}{\mdseries\itshape}
-\setkomafont{subject}{\mdseries\Huge\itshape}
-\setkomafont{descriptionlabel}{\bfseries}
-
-\addtokomafont{part}{\Huge\color{darkBlue}}
-\addtokomafont{partnumber}{\Huge\color{ubuntured}}
-% chapter wird nach Paket quotechp gesetzt
-% \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{ubuntured}} 
-\addtokomafont{section}{\LARGE\color{ubuntured}}
-% \addtokomafont{section}{\ocrfamily\selectfont\huge\color{ubuntured}}
-\addtokomafont{subsection}{\Large\color{ubuntured}}
-% \addtokomafont{subsection}{\ocrfamily\selectfont\LARGE\color{ubuntured}}
-\addtokomafont{subsubsection}{\large\color{ubuntured!80}}
-% \addtokomafont{subsubsection}{\ocrfamily\large\color{ubuntured!80}}
-% \addtokomafont{subsubsection}{\LARGE\color{darkBlue}}
-% \addtokomafont{subsubsection}{\LARGE\color{black}}
-\addtokomafont{paragraph}{\scalefont{1.1}\color{darkBlue}}
-\addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
-% \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
-
-\setkomafont{section}{\usefont{T1}{lmss}{bx}{n}\selectfont\LARGE\color{ubuntured}}
-\setkomafont{subsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\Large\color{ubuntured}}
-\setkomafont{subsubsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\large\color{ubuntured!80}}
-\setkomafont{paragraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\scalefont{1.1}\color{darkBlue}}
-\setkomafont{subparagraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\normalsize\color{black}}
-
-\setkomafont{labelinglabel}{\bfseries}
-\setkomafont{labelingseparator}{\normalfont}
+% % %\setkomafont{disposition}{\mdseries\sffamily\fontfamily{augie}\selectfont}
+% \setkomafont{disposition}{\mdseries\sffamily\bfseries}
+% \setkomafont{captionlabel}{\mdseries\upshape\bfseries}
+% \setkomafont{caption}{\mdseries\itshape}
+% \setkomafont{subject}{\mdseries\Huge\itshape}
+% \setkomafont{descriptionlabel}{\bfseries}
+% 
+% \addtokomafont{part}{\Huge\color{darkBlue}}
+% \addtokomafont{partnumber}{\Huge\color{ubuntured}}
+% % chapter wird nach Paket quotechp gesetzt
+% % \addtokomafont{chapter}{\Huge\sffamily\bfseries\color{ubuntured}} 
+% \addtokomafont{section}{\LARGE\color{ubuntured}}
+% % \addtokomafont{section}{\ocrfamily\selectfont\huge\color{ubuntured}}
+% \addtokomafont{subsection}{\Large\color{ubuntured}}
+% % \addtokomafont{subsection}{\ocrfamily\selectfont\LARGE\color{ubuntured}}
+% \addtokomafont{subsubsection}{\large\color{ubuntured!80}}
+% % \addtokomafont{subsubsection}{\ocrfamily\large\color{ubuntured!80}}
+% % \addtokomafont{subsubsection}{\LARGE\color{darkBlue}}
+% % \addtokomafont{subsubsection}{\LARGE\color{black}}
+% \addtokomafont{paragraph}{\scalefont{1.1}\color{darkBlue}}
+% \addtokomafont{subparagraph}{\normalsize\sffamily\color{black}}
+% % \addtokomafont{minisec}{\normalsize\sffamily\color{black}}
+% 
+% \setkomafont{section}{\usefont{T1}{lmss}{bx}{n}\selectfont\LARGE\color{ubuntured}}
+% \setkomafont{subsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\Large\color{ubuntured}}
+% \setkomafont{subsubsection}{\usefont{T1}{lmss}{bx}{n}\selectfont\large\color{ubuntured!80}}
+% \setkomafont{paragraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\scalefont{1.1}\color{darkBlue}}
+% \setkomafont{subparagraph}{\usefont{T1}{lmss}{bx}{n}\selectfont\normalsize\color{black}}
+% 
+% \setkomafont{labelinglabel}{\bfseries}
+% \setkomafont{labelingseparator}{\normalfont}
 
 
 % User page numbering with chapter number in it
@@ -71,7 +71,7 @@
 % \renewcommand{\thesection}{{\color{ubuntured}\thechapter .\arabic{section}}}
 % \renewcommand{\thesubsection}{{\color{ubuntured}\thesection .\arabic{subsection}}}
 % \renewcommand{\thesubsection}{{\color{aassgrey}\thesection.}\arabic{subsection}}
-\renewcommand{\thesubsubsection}{{\thesubsection .\alph{subsubsection}}}
+% \renewcommand{\thesubsubsection}{{\thesubsection .\alph{subsubsection}}}
 
 
 
@@ -91,7 +91,7 @@
 
 % \published{Draft}
 
-\begin{document}
+\begin{document}\renewcommand{\ADCD}[1]{{\sffamily\color{Grey}\small{\color{DefaultA}AD}|{\color{DefaultB}CD}}}
 
 \maketitle
 
@@ -324,19 +324,20 @@ Anforderungen und ist situationsabhängig änderbar.
 
 \fcolorbox{Black}{LightYellow}{
 \begin{minipage}{6cm}
-{\Large Story: \H{Atemwegsverlegung}}\vspace{0,5em}
+\sffamily Story: \ttfamily
+{\bfseries Atemwegsverlegung}\vspace{0,5em}
 
 \hrule
 
 \vspace{1em}
 
-\H{Aler Fachpersonal moechte ich ueber die Massnahmen bei der
-ATemwegsverlegung Bescheid wissen.}
+{Als Fachpersonal möchte ich über die Maßnahmen bei der
+Atemwegsverlegung Bescheid wissen.}
 
-\H{~(2h)}
+\vfill 
 
 \vspace{3em}
-\scriptsize\H{Emhofer}
+\texttt{Emhofer}\hfill\textbf{~(2h)}
 \end{minipage}
 }
 
@@ -522,6 +523,11 @@ auch Kunde beteiligt.
 
 \section{\ADCD{} für die \AASS}
 
+Versionsbezeichnungen
+
+ab x.90: Entwicklungsversionen für nächstes grpßes Release
+
+zB 1.91 wird 2.0
 
 \subsection{whiteboard}
 

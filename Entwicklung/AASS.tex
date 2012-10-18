@@ -15,7 +15,7 @@ bibtotocnumbered,
 footnotes=multiple,
 toc=flat,
 ]{scrbook}
-% \setlength{\parindent}{1.5em}
+\setlength{\parindent}{15pt}
 % \usepackage{scrhack}
 
 % UTF-8 Schriftkodierung
@@ -72,10 +72,16 @@ sorting=none,
 sortlocale=de,
 ]{biblatex}
 
-	\bibliography{AASS.bib}
-	\addbibresource{AASS-links.bib}
+% 	\bibliography{AASS.bib}
+	\addbibresource{BiblioDB-Med-Books.bib}
+	\addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
+	\addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
+	\addbibresource{BiblioDB-Med-Links.bib}
+	\addbibresource{BiblioDB-Med-Misc.bib}
+	\renewcommand{\labelnamepunct}{\addcolon\space}
 	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
 	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
 	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
 	% 
 	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
@@ -90,6 +96,8 @@ sortlocale=de,
 	Sofern dieser nicht Teil Ihrer Distribution ist, finden
 	Sie sie auch online unter
 	\url{http://www.aass.at/download}.}
+% 	\usepackage{asboe}
+\setkomafont{descriptionlabel}{\bfseries}
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -103,6 +111,25 @@ sortlocale=de,
 \MultiColListStart{toc}{2}
 \MultiColListStart{lofazit}{2}
 \MultiColListStart{lomassnahmen}{2}
+
+\renewcommand{\itemhook}{%
+%   \setlength{\topsep}{0pt}%
+% %   \setlength{\itemsep}{0.5\baselineskip}
+%   \setlength{\parskip}{\baselineskip}
+  \setlength{\leftmargin}{15pt}
+%   \setlength{\labelwidth}{10pt}
+  \setlength{\labelsep}{9.5pt}
+%   \setlength{\labelsep}{5.5pt}
+}
+
+\renewcommand{\enumhook}{%
+%   \setlength{\topsep}{0pt}%
+% %   \setlength{\itemsep}{0.5\baselineskip}
+%   \setlength{\parskip}{\baselineskip}
+  \setlength{\leftmargin}{15pt}
+  \setlength{\labelwidth}{10pt}
+  \setlength{\labelsep}{2pt}
+}
 
 % \nobibliography*
 
@@ -572,6 +599,8 @@ Download-Bereich verfügbar
 % \include{./chapters/chapter-NEW}
 % \addtocounter{chapter}{1}
 \include{./chapters/chapter-LER}
+% Ethik im Rettungsdienst
+% 
 \include{./chapters/chapter-BET}
 \include{./chapters/chapter-RWT}
 \include{./chapters/chapter-REG}
@@ -607,6 +636,7 @@ Download-Bereich verfügbar
 
 \include{./chapters/chapter-ANA}
 \include{./chapters/chapter-EIN}
+\include{./chapters/chapter-DOK}
 \include{./chapters/chapter-VIT}
 \include{./chapters/chapter-TOD}
 \include{./chapters/chapter-HKL}

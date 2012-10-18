@@ -140,7 +140,6 @@ Zuständigkeitsbereichen, geben (z.\,B. getrennte
 Leitstellen für Rettungs- und Krankentransport,
 Sonderleitstellen während Veranstaltungen, regionale
 Trennung, \ldots)
-
 Leitstellen sind meistens ortsfest eingerichtet, es
 gibt jedoch auch mobile Leitstellen, welche bei besonderen
 Ereignissen zum Einsatz kommen können.
@@ -168,11 +167,9 @@ unterstützt und koordiniert während des Einsatzes.
 Die Einteilung, Alarmierung und Koordination der Einheiten
 wird \E{Disposition} genannt und erfolgt durch
 \T[Disponent]{Disponenten}.
-
 In vielen Rettungsdienstbereichen ist die Leitstelle auch
 für die Zuteilung von Krankenhausaufnahmekapazitäten
 (\EE{Bettenzuteilung}) zuständig.
-     
 Um einen Überblick über einsatzbereite Fahrzeuge etc. zu
 erhalten, sorgt die Leitstelle für eine \EE{Status- und
 Standort-Verwaltung}: Es wird der jeweilige Status und --
@@ -263,7 +260,7 @@ Funkwagen 249 trifft am Berufungsort ein:
   \item[249] \Speech{\enquote{Leitstelle für Zwoneunundvierzig.}}
   \item[Leitstelle] \Speech{\enquote{Kommen Zwoneunundvierzig.}}
   \item[249] \Speech{\enquote{Zwoneunundvierzig ist am BO eingetroffen.}}
-  \item[Leitstelle] \Speech{\enquote{Danke verstanden Zwoneunundvierzig.}}
+  \item[Leitstelle] \Speech{\enquote{Verstanden Zwoneunundvierzig. Ende.}}
 \end{labeling}
 \end{quote}
 }{}{}{}{}
@@ -282,11 +279,11 @@ Einsatz:
   \item[Leitstelle] \Speech{\enquote{Neuer Einsatz -- Zweiter
   Bezirk, Musterstraße -- Musterstraße
   Einhundertneunundfünzig, Stiege Zwo, dritter Stock, Tür
-  dreiundvierzig -- mit sechsundzwanzig-Alpha-eins und
-  zweihundertfünfundsechzigtausend-dreihundertsiebenundzwanzig.}}
+  dreiundvierzig -- mit sechsundzwanzig-Alpha-eins und Casus
+  zwohundertfünfundsechzigtausend-dreihundertsiebenundzwanzig.}}
   \item[ABK-D]
   \Speech{\enquote{ABK-Donaustadt hat verstanden und fährt
-  Richtung BO.}}
+  Richtung BO. Ende.}}
 \end{labeling}
 \end{quote}
 }{}{}{}{}
@@ -396,9 +393,8 @@ Im \EE{Ausnahmefall}, wenn z.\,B. kein geeigneteres Fahrzeug
 in angemessener Zeit verfügbar ist, oder im Großschadensfall,
 können auch Notfallpatienten mit einem \Abk{KTW}
 transportiert werden.
-
 Ein \Abk{KTW} ist mit mindestestens 2 Fachkräften besetzt
-(Mindestqualifikation: 2 Rettungssanitäter).
+(Mindestqualifikation: \E{2 Rettungssanitäter}).
 
 % {\TakeNotesMedium}
 % \blindtext
@@ -430,10 +426,9 @@ teure Geräte oder Medikamente. In jedem Fall soll aber eine
 des Einsatzes mit \E{wenigen Handgriffen} möglich sein.}.
 Zusammen mit dem \Abk{NEF} führt der \Abk{RTW}
 notarztpflichtige Einsätze durch.
-
 Ein \Abk{RTW} ist mit mindestens 2, oft auch 3 Fachkräften besetzt
-(Mindestqualifikation: 1 Notfallsanitäter, \VonBis{1}{2}
-Rettungssanitäter).
+(Mindestqualifikation: \E{1 Notfallsanitäter, \VonBis{1}{2}
+Rettungssanitäter}).
 
 % {\TakeNotesMedium}
 % \blindtext
@@ -456,10 +451,9 @@ Er wird in der Notfallrettung und bei Überstellungen von
 Patienten, welche eine ärztliche Behandlung oder Überwachung
 benötigen, eingesetzt.
 % Notfallrettung \& Überstellungen.
-
 Der \Abk{NAW} ist mit mindestens 3, oft auch 4 Fachkräften besetzt
-(Mindestqualifikation: 1 Notarzt, 1 Notfallsanitäter,
-\VonBis{1}{2} Rettungssanitäter).
+(Mindestqualifikation: \E{1 Notarzt, 1 Notfallsanitäter,
+\VonBis{1}{2} Rettungssanitäter}).
 
 
 % \blindtext
@@ -544,7 +538,7 @@ schneller und vorteilhafter ist.
 
 
 Die Besetzung ist uneinheitlich, zwingend erforderlich sind
-jedoch mind. 1 Pilot und 1 Notarzt.
+jedoch mind. \E{1 Pilot und 1 Notarzt}.
 
 % \blindtext
 }{
@@ -571,90 +565,172 @@ PKW, N-KTW, B-KTW, SEW, MLS, ITW
 
 % \begin{WidePar}
 
+% \Layout{57}{}
+% {}
+% {}
+% {\small%
+% \begin{tabularx}{\linewidth}{lXXXXX}
+% \toprule\addlinespace
+% \noindent
+% &
+% \noindent\TabHeading{KTW}
+% &
+% \noindent\TabHeading{RTW}
+% &
+% \noindent\TabHeading{NAW}
+% &
+% \noindent\TabHeading{NEF}
+% &
+% \noindent\TabHeading{NAH}
+% \\\addlinespace\midrule\addlinespace
+% \TabSub{Name}
+% &
+% Kranken\-transport\-wagen
+% &
+% Rettungs\-transport\-wagen
+% &
+% Notarzt\-wagen
+% &
+% Notarzt\-einsatz\-fahrzeug
+% &
+% Notarzt\-hubschrauber
+% \\\addlinespace
+% \TabSub{Besatzung}
+% &
+% 2 RS
+% &
+% 1 NFS, \VonBis{1}{2} RS
+% &
+% 1 NA, 1 NFS, \VonBis{1}{2} RS
+% &
+% 1 NFS, 1 NA
+% &
+% 1 Pilot, 1 NFS, 1 NA
+% \\\addlinespace
+% \TabSub{Funktion}
+% &	
+% Krankentransport.
+% 
+% Transport von erkrankten Patienten, die keine intensiven med. Maßnahmen
+% benötigen. 
+% &
+% Notfallrettung \& Überstellungen. 
+% 
+% Versorgung und Transport von erkrankten Patienten und Notfallpatienten. 
+% &
+% Notfallrettung \& Überstellungen. 
+% 
+% Versorgung und Transport von Notfallpatienten. 
+% &
+% Notfallrettung \& Überstellungen. 
+% 
+% Versorgung von erkrankten Notfallpatienten, \E{kein Transport}. Zubringer von
+% Notarzt. 
+% &
+% Notfallrettung \& Überstellungen. 
+% 
+% Versorgung und Transport von Notfallpatienten. 
+% \\\addlinespace
+% \TabSub{Anmerkungen}
+% 
+% &
+% 
+% &
+% Steigt ein Notarzt zu, sollte der RTW weitgehend gleichwertig zu einem NAW sein. 
+% &
+% 
+% &
+% 
+% &
+% In Deutschland: \enquote{RTH}.
+% \\\addlinespace\bottomrule
+% \end{tabularx}
+% }
+% {Übersicht der wichtigsten Einsatzmitteltypen in Österreich}
+% {}
+
+
 \Layout{57}{}
 {}
 {}
 {\small%
-\begin{tabularx}{\linewidth}{lXXXXX}
+\begin{tabulary}{\linewidth}{lLLLLL}
 \toprule\addlinespace
 \noindent
 &
-\noindent\TabHeading{KTW}
-&
-\noindent\TabHeading{RTW}
-&
-\noindent\TabHeading{NAW}
-&
-\noindent\TabHeading{NEF}
-&
-\noindent\TabHeading{NAH}
-\\\addlinespace\midrule\addlinespace
 \TabSub{Name}
+&
+\TabSub{Besatzung}
+&
+\TabSub{Funktion}
+&
+\TabSub{Anmerkungen}
+\\\addlinespace\midrule\addlinespace
+\noindent\TabHeading{KTW}
 &
 Kranken\-transport\-wagen
 &
+2 RS
+&
+Krankentransport
+
+Transport von Patienten, die keine intensiven med. Maßnahmen
+benötigen
+&
+
+\\\addlinespace
+\noindent\TabHeading{RTW}
+&
 Rettungs\-transport\-wagen
+&
+1~NFS, \VonBis{1}{2}~RS
+&
+Notfallrettung \& Überstellungen 
+
+Versorgung und Transport von Patienten und Notfallpatienten
+&
+Ausstattungsmäßig weitgehend gleichwertig zu einem NAW
+\\\addlinespace
+\noindent\TabHeading{NAW}
 &
 Notarzt\-wagen
 &
-Notarzt\-einsatz\-fahrzeug
+1~NA, 1~NFS, \VonBis{1}{2} RS
 &
-Notarzt\-hubschrauber
+Notfallrettung \& Überstellungen
+
+Versorgung und Transport von Notfallpatienten
+&
+
 \\\addlinespace
-\TabSub{Besatzung}
+\noindent\TabHeading{NEF}
 &
-2 RS
+Notarzt\-einsatz\-fahr\-zeug
 &
-1 NFS, \VonBis{1}{2} RS
+1~NFS, 1~NA
 &
-1 NA, 1 NFS, \VonBis{1}{2} RS
+Notfallrettung \& Überstellungen
+
+Versorgung von erkrankten Notfallpatienten, \E{kein Transport} (\enquote*{Notarzt-Zubringer}) 
 &
-1 NFS, 1 NA
-&
-1 Pilot, 1 NFS, 1 NA
+
 \\\addlinespace
-\TabSub{Funktion}
-&	
-Krankentransport.
-
-Transport von erkrankten Patienten, die keine intensiven med. Maßnahmen
-benötigen. 
+\noindent\TabHeading{NAH}
+&
+Notarzt\-hub\-schrauber
+&
+1 Pilot, 1~NFS, 1~NA
 &
 Notfallrettung \& Überstellungen. 
 
-Versorgung und Transport von erkrankten Patienten und Notfallpatienten. 
+Versorgung und Transport von Notfallpatienten
 &
-Notfallrettung \& Überstellungen. 
-
-Versorgung und Transport von Notfallpatienten. 
-&
-Notfallrettung \& Überstellungen. 
-
-Versorgung von erkrankten Notfallpatienten, \E{kein Transport}. Zubringer von
-Notarzt. 
-&
-Notfallrettung \& Überstellungen. 
-
-Versorgung und Transport von Notfallpatienten. 
-\\\addlinespace
-\TabSub{Anmerkungen}
-
-&
-
-&
-Steigt ein Notarzt zu, sollte der RTW weitgehend gleichwertig zu einem NAW sein. 
-&
-
-&
-
-&
-In Deutschland: \enquote{RTH}.
+In Deutschland: \I{RTH}
 \\\addlinespace\bottomrule
-\end{tabularx}
+\end{tabulary}
 }
 {Übersicht der wichtigsten Einsatzmitteltypen in Österreich}
 {}
-
 
 % \end{WidePar}
 

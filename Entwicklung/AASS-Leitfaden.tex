@@ -2,216 +2,86 @@
 ngerman,
 paper=a4,
 asymmetric,
-fontsize=9pt,
+fontsize=10pt,
 % headings=small,
 draft=false,
-parskip=half,
+% parskip=half,
+numbers=noenddot,
 % listof=totoc,         % verschiebt Minitoc/Hyperref
 % bibliography=totoc,   % verschiebt Minitoc/Hyperref
+bibtotocnumbered,
 % index=totoc,
 % noonelinecaption,
 footnotes=multiple,
-% toc=flat,
+toc=flat,
 ]{scrbook}
-% \setlength{\voffset}{-15pt}
-% \setlength{\textheight}{720pt}
-% \setlength{\marginparwidth}{5cm}
+\setlength{\parindent}{15pt}
 
 
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage{xdoc2}
-\usepackage[ngerman]{babel}
+% \usepackage[ngerman]{babel}
 \usepackage{etex}
 
 \usepackage[draft]{graphicx} % Bilder-Support
 
-\usepackage{aass-common}
-\usepackage{aass-features}
-\usepackage{aass-fonts}
-\usepackage{aass-text}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Seitenlayout
-\usepackage[
-verbose,
-a4paper,
-asymmetric,
-% reversemp,
-includemp,   % incl. marginpar
-includehead, % incl. header
-includefoot, % incl. footer
-inner  = 11mm,
-outer  = 11mm,
-top    = 10mm,
-bottom =  8mm,
-bindingoffset=15mm,
-marginparwidth = 60mm,
-footskip = 7mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
-% showframe,
-]
-{geometry}
-% \usepackage{layout}
-\usepackage{calc}
-\newlength{\Textspalte}
-\newlength{\Randspalte}
-\newlength{\Trenner}
-\newlength{\Korrektur}
-\setlength{\Textspalte}{\textwidth}
-\setlength{\Randspalte}{\marginparwidth}
-\setlength{\Trenner}{6pt}
-\setlength{\Korrektur}{{\fboxrule} + {\fboxsep}}
-
-
-
-
+\input{./inputs/input-preamble}
 \input{./inputs/input-optkeys}
-
-\usepackage{prettyref}
-\newrefformat{sec}{\emph{\ref{#1}}}
-% \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
-% \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
-\newrefformat{fig}{Abb.~#1}
-\newrefformat{tab}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
-\newrefformat{m}{{\sffamily\mdseries\color{darkBlue}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
-\newrefformat{topic}{\Pointinghand\,\ref{#1}}
-
-% \usepackage{dirtree}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Mathemathik
-\usepackage{amsmath,amssymb,amsfonts,}
-\usepackage{units}
-
-\usepackage{makeidx}
-
-\usepackage{units}
-
-
-%Tabellen
-% Floats
-%\usepackage{float,wrapfig}
-
-%\usepackage{mparhack} % watches margin paragraphs and
-%gives warnings
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Textauszeichnungen
-\usepackage{soul}
-\usepackage{soulutf8}
-\usepackage{scalefnt}
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Tables
-\usepackage{array}
-\usepackage{booktabs,longtable,supertabular,tabularx,tabulary}
-\usepackage{multicol,multirow}
-\usepackage{hhline}
-
-\usepackage{boxedminipage}
-
-% \usepackage[strict]{changepage}
-%\usepackage{gmeometric}
-
-
-
-
-% \setlength{\parindent}{0pt}
-% \setlength{\parskip}{5pt}
-\raggedbottom
-
-\tolerance=1000
-\emergencystretch=10pt
-
-\usepackage{fancybox}
-% \usepackage[Sonny]{fncychap}
-% \ChNameVar{\Large\sf} \ChNumVar{\Huge} \ChTitleVar{\Large\sf}
-% \ChRuleWidth{0.5pt} \ChNameUpperCase
-
-
-
-
-
-
-
-
-%schusterjungen
-% Disable single lines at the start of a paragraph (Schusterjungen)
-%\clubpenalty = 10000
-%
-% Disable single lines at the end of a paragraph (Hurenkinder)
-%\widowpenalty = 10000 \displaywidowpenalty = 10000
-
-
-\setcounter{secnumdepth}{2}
-\setcounter{tocdepth}{3}
-
-
-\usepackage{hyperref}
-\hypersetup{colorlinks=true, linkcolor=darkBlue, citecolor=darkBlue, filecolor=darkBlue, pagecolor=darkBlue, urlcolor=darkBlue}
- 
-% User page numbering with chapter number in it
-\renewcommand{\thechapter}{\Alph{chapter}}
-\renewcommand{\thesubsubsection}{\thesubsection .\alph{subsubsection}}
-
-
-% No bottom titles !!!
-\usepackage[nobottomtitles,compact]{titlesec}
-\renewcommand{\bottomtitlespace}{.1\textheight}
-
-\usepackage[grey,helvetica]{quotchap}
-%\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
-%\renewcommand{\sectfont}{\large\color{ubuntured}\sffamily\fontfamily{phv}\selectfont}
-\definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
-\addtokomafont{chapter}{\Huge\color{ubuntured}\fontfamily{augie}\selectfont}
-%\addtokomafont{chapter}{}
-
-\usepackage{minitoc} %The quotchap package should be loaded BEFORE the minitoc package.
-\setcounter{minitocdepth}{3}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Header
-\usepackage{fancyhdr}
-
-\pagestyle{fancy} 
-\fancyheadoffset[RE,RO]{\marginparsep+\marginparwidth}
-\fancyfootoffset[RE,RO]{\marginparsep+\marginparwidth}
-\fancyhead[LE,RO]{\thepage} 
-%\fancyhead[LO]{}
-\fancyhead[LE]{{\sffamily\thepage -- \leftmark}}
-\fancyhead[RE]{\EE{\AuthNotes{ --- \today -- ENTWURF
---- }}}
-\fancyhead[LO]{\EE{\AuthNotes{ --- ENTWURF -- \today ---
-}}}
-\fancyhead[RO]{{\sffamily\rightmark -- \thepage}}
-
-
-% %%% DRAFT %%%
-\fancyfoot[CE,CO]{\EE{\AuthNotes{ -- ENTWURF --
-% Entwicklungszweig:
-% \input{./tmp/git-current-branch.tmp} -- Letztes Commit:
-% \input{./tmp/git-lastcommit.tmp}
-}}}
-
-
- 
-
-% Abbildungsbeschreibung mit hängendem Einzug
-\setcapindent*{0em}
-
-
-
-
-
-
-
+\input{./inputs/input-hyphenation}
 
 \makeindex
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
 
 
-\input{./inputs/input-hyphenation}
+\newcommand{\Branch}[1]{\emph{#1}}
+\newcommand{\Entwicklunsgprozessschritt}[8]
+{
+% 1 Name
+% 2 Schritt davor
+% 3 Schritt danach
+% 4 Input
+% 5 Output
+% 6 Verantworlicher
+% 7 Mitarbeiter
+% 8 Tätigkeit
+\noindent\begin{tabularx}{\linewidth}{lX}
+\addlinespace\toprule\addlinespace
+\multicolumn{2}{c}{Prozessschritt:
+\TabHeading{\color{DefaultA}#1}}
+\\\addlinespace\midrule\addlinespace \noindent\TabSub{Input} & #4
+\\\addlinespace
+\TabSub{Verantwortlicher} & #6
+\\\addlinespace
+\TabSub{Mitwirkende} & #7
+\\\addlinespace
+\TabSub{Tätigkeit} & #8
+\\\addlinespace
+\TabSub{Output} & #5
+\\\addlinespace\bottomrule\addlinespace
+\end{tabularx}
+}
 
+
+
+% \begin{itemize}
+%   \item \TabHeading{Input}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Verantwortlicher}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Mitwirkende:}
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Output}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+% \end{itemize}
 
 \title{Leitfaden für Autoren}
 \subtitle{für die Arbeits- und Ausbildungsstandards für den
@@ -227,6 +97,12 @@ Sanitätsdienst}
 % BEGIN DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
+\newenvironment{Beispiel}
+{\begin{tcolorbox}[title=Beispiel]
+
+}{\end{tcolorbox}}
+
+\usepackage{asboe}
 
 \begin{document}
  
@@ -263,6 +139,7 @@ Married,
 MarriedNG,
 MarriedLI,
 Massnahmen,
+marginpar,
 Parallel,
 T,
 TODO,
@@ -403,34 +280,77 @@ Wissenquellen.
 
 \paragraph{Bisherige Versionen}~
 
-\begin{description}
-    \item[0.1.x] Entwicklungsversionen
-    \item[0.2.0] Erste Vorabversion für ET 2009/07
-    \item[0.2.1-x] Entwicklungsversionen aufbauend auf
-    0.2.0.
-    \item[0.3.x] Entwicklungsversionen (aufbauend auf
-    0.2.1-x), für 0.4.0 (ET 2009/09)
-    \item[0.3.x] Entwicklungsversionen (aufbauend auf
-    0.2.1-x), für 0.4.0 (ET 2009/09)
-    \item[0.4.0] Vorabversion für ET 2009/09
-    \item[0.5.x] Entwicklungsversionen (aufbauend auf
-    0.4.0), für 0.6.0 (ET 2009/09)
-    \item[0.6.0] Vorabversion für ET 2009/11
-    \item[0.7.x] Entwicklungsversionen (aufbauend auf
-    0.6.0), für 0.8.0 (ET 2009/09)
-    \item[0.8.0] Vorabversion für ET 2010/02
-    \item[0.9.x]
-\end{description}
+\begin{compactdesc}
+    \item[0.1.x] \dotfill Entwicklungsversionen
+    \item[0.2.0] \dotfill Erste Vorabversion für ET 2009/07
+    \item[0.4.0] \dotfill Vorabversion für ET 2009/09
+    \item[0.6.0] \dotfill Vorabversion für ET 2009/11
+    \item[0.8.0] \dotfill Vorabversion für ET 2010/02
+    \item[0.10.0] \dotfill 2010-06 (VV, 935 Änderungen)
+    \item[0.12.0] \dotfill 2010-08 (VV, 489 Änderungen)
+    \item[0.14.0] \dotfill 2011-01 (VV, 706 Änderungen)
+    \item[0.16.0] \dotfill 2011-03 (VV, 141 Änderungen)
+    \item[0.18.0] \dotfill 2011-08 (VV, 449 Änderungen)
+    \item[0.20] \dotfill 2011-10 (VV, 178 Änderungen)
+    \item[0.22] \dotfill 2012-01 (VV, 227 Änderungen)
+    \item[0.24] \dotfill 2012-08 (VV, 210
+    Änderungen\footnote{Lt.
+    vorläufiger Statistik, Änderungen nach Redaktionsschluss möglich.})
+\end{compactdesc}
 
-\paragraph{Geplante Versionen}~
+\Layout{2}
+{Bis Version 0.26.x gilt: }
+{% Die Major-Stelle (erste Zahl vor dem ersten Punkt) bezieht sich auf das Jahr in dem das Famulaturpropädeutikum absolviert wird (z. B. 13 für das Studienjahr 2012/13).
 
-\begin{description}
 
-    \item[0.8.x] Vorabversion für ET 2010/02
-    \item[1.0.0~RC\,1] Öffentliche Vorabversion (Release
-    Candidate, Review)
-    \item[1.0.0] Erste öffentliche Version
-\end{description}
+
+Für die Minor-Stelle (Zahl nach dem ersten Punkt) gilt folgende Konvention:
+
+
+Beispiele:
+
+\begin{itemize}
+  \item 0.11.x Entwicklungsversion für Version 0.12
+\end{itemize}
+
+
+
+Release Candidates (Kandidaten für eine Veröffentlichung) erhalten den Zusatz RC gefolgt von einer fortlaufenden Zahl (z. B. 13.2 RC 1) 
+}
+{}
+{}
+{}
+{}
+
+\Layout{2}
+{Ab der Version 0.27 gilt:}
+{\begin{itemize}
+  \item Zusätze zur Major-Stelle:\begin{itemize}
+  \item Der Zusatz \T{alpha} bezeichnet eine
+  Entwicklungsversion
+  \item Der Zusatz \T{beta} bezeichnet eine
+  Version nach Review
+  \item Der Zusatz \T{delta} bezeichnet eine
+  Version nach dem Lektorat
+  \item Der Zusatz \T{gamma} bezeichnet eine
+  Version aus dem Stabilitätszweig
+  \item Der Zusatz \T{RC} für \I{Release
+  Candidate} bezeichnet einen Kandidaten für ein Release
+  \item Eine Version ohne Zusatz
+\end{itemize}
+\item Für Wartungsversionen gilt weiterhin: 
+\begin{itemize}
+  \item ungerade Minor-Zahlen: Entwicklung
+  \item gerade Minor-Zahlen: (Wartungs-) Release
+\end{itemize}
+\end{itemize}}
+{}
+{}
+{}
+{}
+
+
+
 
 \section{Gliederung}
 Die Kapitel bzw. Systemdateien werden mittel 3-stelliger
@@ -531,123 +451,36 @@ Git und im Bugtracker verwenden!
 
 \section{Datei- und Verzeichnislayout}
 
-\begin{minipage}{\linewidth}
-\emph{Stand 2010/05, vereinfacht.}
-\begin{multicols}{2}
 
-% \dirtree{
-% 1. ./aass
-% 2. draft0
-% 3. AAS-LaTeX-Export
-% 4. clean
-% 4. ultraclean
-% 2. trunk
-% 3. AASS-Leitfaden.pdf
-% 3. AASS-Leitfaden.tex
-% 3. Literatur
-% 4.  .pdf
-% 4.  ...
-% 3.  Literatur-AASS.bib
-% 3.  abbrvdin.bst
-% 3.  alphadin.bst
-% 3.  changepage.sty
-% 3.  chapters
-% 4.  chapter-ANA.tex
-% 4.  chapter-APP.tex
-% 4.  chapter-BET.tex
-% 4.  chapter-EHI.tex
-% 4.  chapter-EIN.tex
-% 4.  chapter-GER.tex
-% 4.  chapter-HYG.tex
-% 4.  chapter-INF.tex
-% 4.  chapter-JUS.tex
-% 4.  chapter-KHD.tex
-% 4.  chapter-MED.tex
-% 4.  chapter-REG.tex
-% 4.  chapter-RES-ende.tex
-% 4.  chapter-SAN.tex
-% 4.  chapter-TAE.tex
-% 4.  chapter-TRA.tex
-% 4.  chapter-VIT.tex
-% 3.  extern
-% 4.  Arztbriefe
-% 3.  icons
-% 3.  images
-% 4.  anatomie
-% 4.  angewsanhilfe
-% 4.  geraete
-% 4.  hygiene
-% 4.  khd
-% 4.  logos
-% 4.  med
-% 4.  noauth
-% 4.  shared
-% 4.  trauma
-% 3.  src
-% 4.  dia
-% 3.  tmp
-% 4.  ...
-% 3.  ...
-% }
 
-{\small
-\begin{verbatim}
-./aass
-|-- draft0
-|   `-- AAS-LaTeX-Export
-|       |-- clean
-|       `-- ultraclean
-`-- trunk
-    |-- AASS-Leitfaden.pdf
-    |-- AASS-Leitfaden.tex
-    |-- Literatur
-    |   |-- ....pdf
-    |   ...
-    |-- Literatur-AASS.bib
-    |-- abbrvdin.bst
-    |-- alphadin.bst
-    |-- changepage.sty
-    |-- chapters
-    |   |-- chapter-ANA.tex
-    |   |-- chapter-APP.tex
-    |   |-- chapter-BET.tex
-    |   |-- chapter-EHI.tex
-    |   |-- chapter-EIN.tex
-    |   |-- chapter-GER.tex
-    |   |-- chapter-HYG.tex
-    |   |-- chapter-INF.tex
-    |   |-- chapter-JUS.tex
-    |   |-- chapter-KHD.tex
-    |   |-- chapter-MED.tex
-    |   |-- chapter-REG.tex
-    |   |-- chapter-RES-ende.tex
-    |   |-- chapter-SAN.tex
-    |   |-- chapter-TAE.tex
-    |   |-- chapter-TRA.tex
-    |   `-- chapter-VIT.tex
-    |-- extern
-    |   `-- Arztbriefe
-    |-- icons
-    |-- images
-    |   |-- anatomie
-    |   |-- angewsanhilfe
-    |   |-- geraete
-    |   |-- hygiene
-    |   |-- khd
-    |   |-- logos
-    |   |-- med
-    |   |-- noauth
-    |   |-- shared
-    |   `-- trauma
-    |-- src
-    |   `-- dia
-    `-- tmp
-        |-- ...
-        ...
-\end{verbatim}
-}
-\end{multicols}
-\end{minipage}
+\begin{table}[H]
+\begin{tabulary}{\linewidth}{lL}
+\toprule\addlinespace
+\multicolumn{2}{c}{\TabHeading{Wichtige Verzeichnisse und
+Dateien}}
+\\\addlinespace\midrule\addlinespace 
+Ausgabe & Ausgabepunkt
+für PDF-Dateien \\\addlinespace
+Entwicklung & Entwicklungsverzeichnis
+\\\addlinespace
+$\bigtriangleup$/chapters & Kapiteldateiein
+\\
+$\bigtriangleup$/inputs & input-Dateien, z.\,B.:
+
+includeonly, preamble, \ldots
+\\
+$\bigtriangleup$/$\bigtriangleup$/input-includeonly.tex &
+Welche Dateiein sollen beim Komplilieren berücksichtigt
+werden
+\\
+$\bigtriangleup$/$\bigtriangleup$/input-preamble.tex &
+Präamble
+\\
+$\bigtriangleup$/images & Bilder, geordnet nach Urheber bzw.
+Lizenz
+\\\addlinespace\bottomrule\addlinespace
+\end{tabulary}
+\end{table}
 
 
 
@@ -655,60 +488,70 @@ Git und im Bugtracker verwenden!
 
 
 
-\chapter{Das Versionsverwaltungssystem Git}
-% \lstinline$var i:integer;$
-%  
-% 
-% \begin{lstlisting}
-% for i:=maxint to 0 do
-% begin
-% { do nothing }
-% end;
-% Write('Case insensitive '); 
-% Write('Pascal keywords.');
-% \end{lstlisting}
-% 
-% \lstinline$\EE{Hallo}$
+\chapter{Versions\-ver\-waltung mit Git}
+
 
 \section{Einführung in Git}
 
-\section{Vokabel}
-
-\begin{description}
-    \item[Repository] \emph{} \par Als Repository wird die
-    Datenbank der Versionsverwaltungssoftware bezeichnet.
-    Ein Git-Repository besteht aus einem Wurzelordner. In
-    diesem Ordner befindet ich ein Unterordner namen \Code{.git},
-    in diesem liegen die Daten für die
-    Versionsverwaltungssoftware. \par Alle anderen Ordner
-    und Dateien im Wurzelornder stellen den \T{Arbeitsbereich}
-    dar. Sie können beliebig verändert werden, die Änderungen
-    werden dann in das Versionsverwaltungssystem
-    eingecheckt. 
-    \item[Remote (repository)] \emph{Entferntes
-    Repository.} \par Ein anderes Repository, mit welchem,
-    z.B. über das Netzwerk, Beiträge ausgetauscht werden
-    können.
-    \item[Origin] \emph{Quelle.} \par Origin ist der Name
-    für das entfernte Quellrepository, in unserem Fall ist
-    das der Hauptserver.
-    \item[Commit] \emph{Beitrag.} 
-    \item[Zweig] \emph{Branch.} \par Man unterschiedet in
-    \begin{description}
-    \item[Lokaler Zweig]
-    \item[Entfernter Zweig]
-    \item[Verbundener Zweig]
-\end{description}    
-    \item[Merge]  \emph{Zusammenführen.}\par Zwei Zweige
-    werden zusammengeführt und die Änderungen kombiniert.
-    \item[Fetch] \emph{Abholen.} \par Text   
-    \item[Pull] \emph{Abholen und zusammenführen.} \par
-    Text  
-    \item[Push] \emph{Versenden.} \par Beiträge werden an
-    ein entferntes Repository verschickt. 
-\end{description}
 
 
+\subsection{Grundbegriffe}
+
+\begin{itemize}
+  \item \T{Repository} \emph{} \par Als Repository wird
+  die Datenbank der Versionsverwaltungssoftware bezeichnet.
+  Ein Git-Repository besteht aus einem Wurzelordner. In
+  diesem Ordner befindet ich ein Unterordner namen \Code{.git},
+  in diesem liegen die Daten für die
+  Versionsverwaltungssoftware. \par Alle anderen Ordner
+  und Dateien im Wurzelornder stellen den \T{Arbeitsbereich}
+  dar. Sie können beliebig verändert werden, die Änderungen
+  werden dann in das Versionsverwaltungssystem
+  eingecheckt.
+  \item \T{Remote (repository)} (\I{Entferntes
+  Repository}) \par Ein anderes Repository, mit welchem,
+  z.B. über das Netzwerk, Beiträge ausgetauscht werden
+  können.
+  \item \T{Origin} (\I{Quelle}): \par Origin ist der Name
+  für das entfernte Quellrepository, in unserem Fall ist
+  das der Hauptserver.
+  \item \T{Commit} (\I{Beitrag})
+  \item \T{Zweig} (\I{Branch}) \par Man unterschiedet in
+  \begin{itemize}
+    \item \T{Lokaler Zweig}: Ein lokaler Zweig ist ein
+    Zweig, welcher auf dem jeweiligen Computer bearbeitet
+    werden kann. 
+    
+    Es können nur lokale Zweige am jeweiligen
+    Computer bearbeitet werden.
+    \item \T{Entfernter Zweig}  (\I{Remote branch}):
+    Ein entfernter Zweig ist ein Zweig in einem anderen Repository. Seine Bezsichnung
+    beginnt mit dem prefix \Branch{remotes/repository},
+    wobei \Branch{repository} für die Bezeichnung des jeweiligen
+    Repository steht. So ist z.\,B. 
+    \Branch{remotes/origin/master} der
+    \Branch{master}-Branch des Repository \Branch{origin}.
+    \item \T{Verbundener Zweig} {(\I{Tracking
+    branch})}:
+    Damit entfernte Zweige bearbeitet werden können, gibt es verbundene Zweige: Sie
+    sind \EE{lokal}, aber haben einen Eintrag, welche sie
+    mit einem entfernten Zweig verbinden. Änderungen an
+    diesen Zweigen werden beim Versenden in die
+    entsprechenden entfernten Zweige geschrieben.
+  \end{itemize}
+  \item \T{Merge}  (\I{Zusammenführen}): Zwei Zweige
+  werden zusammengeführt und die Änderungen kombiniert.
+  \item \T{Fetch} (\I{Abholen}):  
+  \item \T{Pull} (\I{Abholen und zusammenführen}) :
+  Text
+  \item \T{Push} (\I{Versenden}): Beiträge werden an
+  ein entferntes Repository verschickt.
+\end{itemize}
+
+\subsection{Programme zum Verwalten von Git}
+
+Die Verwaltung des Git-Repository erfolgt mit den Programmen
+\I{Git GUI} und \I{gitk}.
 
 \section{Richtlinien für das AASS-Repository}
 
@@ -722,25 +565,46 @@ Beiträge am \Code{master}-Zweig ihn ihren Zweig übernehmen (mergen).
 
 \Cave{Der \Code{master}-Zweig soll nur vom Chefredakteur bespielt werden.}
 
-\subsubsection{Autorenzweige}
+\begin{itemize}
+  \item \T{Autorenzweige}
+  \Branch{Autoren/\Lang{Name}/\Lang{Unterzweig}}
+  \item \T{Reviewzweige}
+  \Branch{Review/Todo} und \Branch{Review/Ok}
+  \item \T{Lektoratszweige}
+  \Branch{Lektorat/Todo} und \Branch{Lektorat/Todo}
+  \item \T{Stabilzweige} \Branch{master}
+\end{itemize}
 
-Jeder direkte Autor\footnote{Als direkter Autor gilt ein Autor dann wenn er
-Schreibberechtigung für das Repository besitzt.} und Redakteur soll einen
-eignen Zwei erhalten der von \Code{master} abstammt. In diesem Zweig kann er
-seine Ändeurngen und Beiträge vornehmen. 
+Die Bedeutung der Zweige ergibt sich aus dem
+Entwicklungsprozess.
+
+\subsubsection{}
+
+
+
+\Layout{2}
+{Autorenzweige}
+{Jeder Autor und Redakteur soll einen
+eignen Zweig erhalten der von \Code{master} abstammt. In
+diesem Zweig kann er seine Ändeurngen und Beiträge vornehmen. }
+{}
+{}
+{}
+{}
+
 
 Der Chefredaktuer übernimmt dann ggfs. die Beiträge in \Code{master}. 
 
-Die Autoren sollen die Beiträge in \Code{master} regelmäßig (= möglichst
-häufig) in ihren Zweig übernehmen um Doppelgleisigkeiten zu verhindern. 
+Die Autoren sollen die Beiträge in \Branch{master}
+regelmäßig (möglichst häufig) in ihren Zweig übernehmen um
+Doppelgleisigkeiten zu vermeiden.
 
 In die Autorenzweige sollen nur die jeweiligen Autoren, der Chefredakteur, der
-zuständige Redaktuer und der Administrator eingreifen. Andere Autoren und
-Redaktuere dürfen das nur mit Absprache mit dem Autor. 
+zuständige Maintainer und der Administrator eingreifen.
+Andere Autoren und Redakteure dürfen das nur mit Absprache
+mit dem Autor.
 
-\subparagraph{Benennung} Die Zweige werden in Kleinschreibung nach dem
-Familiennamen des Autors benannt, bei Mehrdeutigkeit werden die ersten Buchstaben des Vornamens
-hintangestellt. 
+
 
 \subsubsection{Release- und Wartungszweige}
 
@@ -750,6 +614,318 @@ hintangestellt.
 
 Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 
+\chapter{Entwicklungsprozess}
+
+
+\begin{center}\sffamily
+Brainstorm
+
+$\downarrow$ 
+
+Entwicklungsvorbereitung
+
+$\downarrow$ 
+
+Entwicklung
+
+$\downarrow$ 
+
+Reviewvorbereitung
+
+$\downarrow$
+
+Review
+
+$\downarrow$ 
+
+Lektoratsvorbereitung
+
+$\downarrow$
+
+Lektorat
+
+$\downarrow$
+
+Aufnahme Stabilitätszweig
+
+$\downarrow$
+
+Release
+\end{center}
+
+\bigskip
+
+
+\section{Die Entwicklungsschritte im Detail}
+
+\subsection{Brainstorm}
+
+\Entwicklunsgprozessschritt
+{% 1 Name
+Brainstorm}
+{% 2 Schritt davor
+}
+{% 3 Schritt danach
+}
+{% 4 Input
+?}
+{% 5 Output
+Stories, Tasks, Ideen}
+{% 6 Verantworlicher
+\T{Brainstormkoordinator}}
+{% 7 Mitarbeiter
+Autoren, Partner, Leserschaft/Nutzer}
+{% 8 Tätigkeit
+}
+
+\subsection{Vom Brainstorm zur Entwicklung}
+
+\Entwicklunsgprozessschritt
+{% 1 Name
+Entwicklungsvorbereitung}
+{% 2 Schritt davor
+}
+{% 3 Schritt danach
+}
+{% 4 Input
+}
+{% 5 Output
+Stories, Tasks, Tickets, Ideen}
+{% 6 Verantworlicher
+\T{Entwicklungskoordinator}}
+{% 7 Mitarbeiter
+Optional: Maintainer, Autoren}
+{% 8 Tätigkeit
+Es werden Ideen zu User stories und Tasks zusammengefasst,
+Ideen werden notiert und für spätere Zwecke in Evidenz
+gehalten, ggfs. werden Ticket-Einträge erstellt (optional
+bei klar umrissenen Problemstellungen).}
+
+\subsection{Entwicklung}
+
+\Entwicklunsgprozessschritt
+{% 1 Name
+Entwicklung}
+{% 2 Schritt davor
+}
+{% 3 Schritt danach
+}
+{% 4 Input
+Stories, Tasks, Tickets, Ideen
+}
+{% 5 Output
+Autorenzweige}
+{% 6 Verantworlicher
+\T{Entwicklungskoordinator}}
+{% 7 Mitarbeiter
+Autoren}
+{% 8 Tätigkeit
+Abbarbeiten der User Stories, Tasks und sonstiger Impulse
+}
+
+\subsection{Von der Entwicklung zum Review:
+Reviewvorbereitung}
+
+\Entwicklunsgprozessschritt
+{% 1 Name
+Reviewvorbereitung}
+{% 2 Schritt davor
+}
+{% 3 Schritt danach
+}
+{% 4 Input
+Autorenzweige
+}
+{% 5 Output
+\Branch{Review/Todo/Input}}
+{% 6 Verantworlicher
+\T{Reviewkoordinator}}
+{% 7 Mitarbeiter
+}
+{% 8 Tätigkeit
+Der Reviewverantwortliche fragt bei den Autoren an, welche
+Zweige von ihnen für ein Review bereits sind und übernommen
+werden können.
+
+Der Reviewverantwortliche legt einen Termin für ein review
+fest. 
+}
+
+\subsection{Das Review -- Erste Qualitätskontrolle}
+
+
+
+\Entwicklunsgprozessschritt
+{% 1 Name
+Review}
+{% 2 Schritt davor
+}
+{% 3 Schritt danach
+}
+{% 4 Input
+\Branch{Review/Todo/Input}
+}
+{% 5 Output
+\begin{enumerate}
+  \item  Änderungsprotokoll Review inhaltlich
+  \item Konsolidierung der Änderungen des Review im Zweig
+  \Branch{Review/Output}
+\end{enumerate}}
+{% 6 Verantworlicher
+\T{Reviewkoordinator}}
+{% 7 Mitarbeiter
+Maintainer
+
+Schriftführer
+
+Sprecher der Autoren (wünschenswert)}
+{% 8 Tätigkeit
+Siehe Review-Ablauf}
+
+
+\subsection{Vom Review zum Lektorat und zur externen
+Begutachtung} 
+
+
+\Entwicklunsgprozessschritt
+{% 1 Name
+Review $\rightarrow$ Lektorat und externe Begutachtung}
+{% 2 Schritt davor
+}
+{% 3 Schritt danach
+}
+{% 4 Input
+\Branch{Review/Output}
+}
+{% 5 Output
+\Branch{Lektorat/Todo/input}
+
+Änderungsprotokoll Lektorat}
+{% 6 Verantworlicher
+\T{Lektoratskoordinator}}
+{% 7 Mitarbeiter
+Lektoren (Lektoren-Pool)}
+{% 8 Tätigkeit
+Der Lektoratskoordinator übernimmt die Änderungen aus dem
+Zweig \Branch{Review/Ok} nach \Branch{Lektorat/Todo} und erstellt
+Änderungsprotokolle für die Lektoren, welche diesen sagen,
+welche Teile sie korrekturlesen sollen. Er verteilt dann die
+Arbeit auf den \I{Lektorenpool}.}
+
+\subsection{Externe Begutachtung}
+
+% 1 Name
+% 2 Schritt davor
+% 3 Schritt danach
+% 4 Input
+% 5 Output
+% 6 Verantworlicher
+% 7 Mitarbeiter
+% 8 Tätigkeit
+
+
+
+\Entwicklunsgprozessschritt
+{% 1 Name
+Externe Begutachtung}
+{% 2 Schritt davor
+}
+{% 3 Schritt danach
+}
+{% 4 Input
+\Branch{Review/Ok}}
+{% 5 Output
+Anregungen, Änderungwünsche}
+{% 6 Verantworlicher
+Koordinator Extern}
+{% 7 Mitarbeiter
+extern}
+{% 8 Tätigkeit
+Inhaltliche Änderungen werden an Partner weitergeleitet.
+
+Anregungen und Änderungswünsche fließen in den Brainstorm
+oder die Entwicklung ein, bzw. hemmen die Übernahme in den
+Stabilitätszweig. Die Triagierung übernimmt der Koordinator
+extern.}
+
+
+
+\subsection{Lektorat}
+
+
+\Entwicklunsgprozessschritt
+{% 1 Name
+Lektorat}
+{% 2 Schritt davor
+}
+{% 3 Schritt danach
+}
+{% 4 Input
+}
+{% 5 Output
+Konsolidierung im Zweig \Branch{Lektorat/Ok}}
+{% 6 Verantworlicher
+\T{Lektoratskoordinator}: Er hält den Kontakt mit
+den Lektoren und pflegt Änderungen ein.}
+{% 7 Mitarbeiter
+Lektoren (Lektoren-Pool)}
+{% 8 Tätigkeit
+Die Lektoren lesen gegen und geben Feedback.
+
+Der Lektoratskoordinator sammelt das Feedback und hält
+Kontakt mit den Lektoren. Er pfelgt die Änderungen ein}
+
+\subsection{Vom Lektorat in den Stabilitätszweig}
+
+\Entwicklunsgprozessschritt
+{% 1 Name
+Aufnahme Stabilitätszweig}
+{% 2 Schritt davor
+}
+{% 3 Schritt danach
+}
+{% 4 Input
+\Branch{Lektorat/Ok}}
+{% 5 Output
+}
+{% 6 Verantworlicher
+\T{Chefredakteur}}
+{% 7 Mitarbeiter
+}
+{% 8 Tätigkeit
+}
+
+\subsection{Release}
+
+\Entwicklunsgprozessschritt
+{% 1 Name
+Release}
+{% 2 Schritt davor
+}
+{% 3 Schritt danach
+}
+{% 4 Input
+Stabilitätszweig
+
+Bugfixes
+}
+{% 5 Output
+Versionscommit, Versionswartungszweig
+
+Änderungsprotokoll}
+{% 6 Verantworlicher
+Chefredakteur}
+{% 7 Mitarbeiter
+}
+{% 8 Tätigkeit
+Es wir der Stabilitätszweig übernommen und fnialisiert. Das
+Layout wir korrigiert und es wird eine Versionsnummer
+vergeben.
+
+Ggfs. werden Varianten erstellt
+
+Es wir ein Änderungsprotokoll gegenüber der Vorversion
+erstellt }
 
 
 \chapter{Textgestaltung}
@@ -981,254 +1157,176 @@ Der Link und die Zugangsdaten zum Hauptserver werden gesondert bekannt gegeben.
 
 \section{Konventionen}
 
-% \begin{description}
-%     \item[Beschreibung:]
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-%     \item[Syntax:] \lstinline$\Befehl{<text>}$
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-% \end{description}
 
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
 \section{Hervorhebungen und Textauszeichnungen}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
-
-
-% Bla!
-% \begin{labeling}[~--]{Formatierung~~~}
-%   \item[Syntax:] \lstinline$\T{<text>}$
-%   \item[Beschreibung:]
-%   \item[Ja:] 
-%   \item[Nein:] 
-%   \item[Anmerkungen:] 
-%   \item[Formatierung:] 
-%   \item[Cave:] 
-% \end{labeling}
-% 
-% 
-% \aBox{Beispiel}{Befehl}{black}
-% {
-% 
-% Text}
 
 
 
 
 
+\Layout{2}
+{Schwache Betonung -- \Code{\tbs E\{\}}}
+{Bla!}
+{}
+{}
+{}
+{}
 
 
-\subsubsection{Schwache Betonung -- \Code{\tbs E\{\}}}\marginpar{\T{\tbs
-gE\{\}}}
 
-Bla!
-\begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\T{<text>}$
-  \item[Beschreibung:]
-  \item[Ja:] 
-  \item[Nein:] 
-  \item[Anmerkungen:] 
-  \item[Formatierung:] 
-  \item[Cave:] 
-\end{labeling}
-
-
-\aBox{Beispiel}{Befehl}{black}
-{%
+\begin{Beispiel}\lstinline$\T{<text>}$\tcblower
 Ein Mann ging von \E{Jerusalem} nach \E{Jericho} hinab und wurde von Räubern
 überfallen. Sie plünderten ihn aus und \E{schlugen ihn nieder}; dann gingen sie
 weg und ließen ihn \E{halbtot} liegen.
-}
+\end{Beispiel}
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Starke Betonung -- \Code{\tbs EE\{\}}}\marginpar{\T{\tbs
-gEs\{\}}}
-
-Bla!
-\begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\EE{<text>}$
-  \item[Beschreibung:]
-  \item[Ja:] 
-  \item[Nein:] 
-  \item[Anmerkungen:] 
-  \item[Formatierung:] 
-  \item[Cave:] 
-\end{labeling}
+\Layout{2}
+{Starke Betonung -- \Code{\tbs EE\{\}}}
+{Bla!}
+{}
+{}
+{}
+{}
 
 
-\aBox{Beispiel}{Befehl}{black}
-{%
+
+\begin{Beispiel}
+\lstinline$\EE{<text>}$
+\tcblower
 Ein Mann ging von \EE{Jerusalem} nach Jericho hinab und wurde von Räubern
 überfallen. Sie plünderten ihn aus und schlugen ihn nieder; dann gingen sie weg und ließen
 ihn halbtot liegen.
-}
+\end{Beispiel}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Terminus -- \Code{\tbs T\{\}}}\marginpar{\T{\tbs T\{\}}}
-
-Spezielle Hervorhebung für Fachbegriffe. \Z{Früher
+\Layout{0}
+{Terminus -- \Code{\tbs T[]\{\}}}
+{Spezielle Hervorhebung für Fachbegriffe.\ZFootnote{Früher
 sollte sie für alle Fachbegriffe verwendet werden, im August 2009 hat sich
-die Definition geändert, s.u.}
+die Definition geändert.}}
+{Spezielle Hervorhebung für Fachbegriffe
 
-\begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\T{<text>}$
-  \item[Beschreibung:]
-  \item[Ja:] Terminus-Formatierungen sollen nur mehr angewendet werden
-  wenn der entsprechende Begriff an der Stelle erklärt wird! Sonst soll auch
-  ein Fachbegriff normal formatiert werden, wenn eine Hervorhebung gewünscht
-  ist kommen z.B. die starke Betonung oder die schwache
-  Betonung -- wie im normalen Text -- in Frage.
-  \item[Nein:] Begriffe, die an der Stelle nicht
-  abschließend erklärt werden. Lange Begriffe bei denen ein Zeilenumbruch
-  nötig ist.
-  \item[Anmerkungen:] Die didaktische Überlegung ist dass für den Leser
+Indiziert}
+{}
+{}
+{}
+Terminus-Formatierungen sollen nur mehr angewendet werden
+  wenn der entsprechende Begriff \EE{an der jeweiligen
+  Stelle erklärt} wird! Sonst soll auch ein Fachbegriff
+  normal formatiert werden, wenn eine Hervorhebung gewünscht
+  ist kommen z.\,B. die starke Betonung (\lstinline$\EE$)
+  oder die schwache Betonung (\lstinline$\E$) -- wie im
+  normalen Text -- in Frage.
+Nicht zu verwenden ist der Befehl bei Begriffen, die an der
+Stelle nicht abschließend erklärt werden oder langen
+Begriffen, bei denen ein Zeilenumbruch nötig ist.
+
+Die didaktische Überlegung ist dass für den Leser
   nachvollziehbar sein soll dass der Begriff an dieser Stelle neu ist und er
   hier erklärt wird (und er an dieser Stelle zu lernen ist).
-  \item[Formatierung:] Wie starke Hervorhebungen formatiert,
-  jedoch hellgrün hinterlegt.
-  \item[Cave:] Zeilenumbrüche sind in \lstinline$\T$ nicht mehr vorgesehen, die Termini sollen
-  immer in einer Zeile stehen! Wenn Termini lt. obiger Definition in einer
+
+\Cave{Zeilenumbrüche sind in \lstinline$\T$ nicht mehr
+vorgesehen, die Termini sollen immer in einer Zeile stehen! Wenn Termini lt. obiger Definition in einer
   Tabelle, etc. vorkommen (also nicht im Fließtext) dann sollen sie als
-  \lstinline$\marginpar{}$ in der Randspalete gesetzt werden! Es besteht sonst
-  die Gefahr dass der Terminus in die benachbarte Spalte hineinreicht.
-\end{labeling}
+  marginpar in der Randspalte gesetzt werden! Es besteht sonst
+  die Gefahr dass der Terminus in die benachbarte Spalte
+  hineinreicht.}
 
 
-\aBox{Beispiel}{Terminus -- \Code{\tbs T\{\}}}{black}
-{%
+
+\begin{Beispiel}
+Syntax: \lstinline$\T[<abweichender Index-Eintrag>]{<text>}$
+\tcblower
 Es kann zu einer Loslösung von Teilen des Thrombus kommen, dieser
-losgelöste Teil wird \T{Embolus} genannt.}
+losgelöste Teil wird \T{Embolus} genannt.
+\end{Beispiel}
 
 
+
+
+
+
+\Layout{0}
+{Index-Einträge formatiert -- \Code{\tbs I[]\{\}}}
+{Schwache Hervorhebung für Fachbegriffe, welche an dieser
+Stelle auch indiziert werden}
+{Schwache Hervorhebung für
+Fachbegriffe
+
+Indiziert}
+{}
+{}
+{}
+
+
+\begin{Beispiel}
+Syntax: \lstinline$\I[<abweichender Index-Eintrag>]{<text>}$
+
+\begin{lstlisting}
+Es kann zu einer Losl"osung von Teilen des \I{Thrombus} und damit zu \I[Embolie]{Embolien} kommen.
+\end{lstlisting}
+
+\tcblower
+Es kann zu einer Losl"osung von Teilen des \I{Thrombus} und
+damit zu \I[Embolie]{Embolien} kommen.
+\end{Beispiel}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Zusatzinformation -- \Code{\tbs Z\{\}}}\marginpar{\T{\tbs
-gZ\{\}}}
 
-
-
-
-Bla!
-\begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\T{<text>}$
-  \item[Beschreibung:]
-  \item[Ja:] 
-  \item[Nein:] 
-  \item[Anmerkungen:] 
-  \item[Formatierung:] 
-  \item[Cave:] 
-\end{labeling}
-
-
-\aBox{Beispiel}{Befehl}{black}
-{%
-\Code{Patient sitzend vorgefunden.}
-}
-
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
-\subsubsection{Cave (Fließtext) -- \Code{\tbs Ca\{\}}}\marginpar{\T{\tbs
-gCa\{\}}}
-
-
-
-Bla!
-\begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\Ca{<text>}$
-  \item[Beschreibung:]
-  \item[Ja:] Aussagen über eine massive Gefahr.
-  \item[Nein:] 
-  \item[Anmerkungen:] Für einen ganzen Absatz steht der
+\Layout{2}
+{Cave (Fließtext) -- \Code{\tbs Ca\{\}}}
+{Aussagen über eine massive Gefahr.}
+{}
+{}
+{}
+{}
+Für einen ganzen Absatz steht der
     \lstinline$\Cave{}$-Befehl zur Verfügung, er erstellt eine ganze (rot
     umrandete) Absatzbox!
-  \item[Formatierung:] 
-  \item[Cave:] 
-\end{labeling}
 
+\bigskip
 
-\aBox{Beispiel}{Cave}{black}
-{%
+\begin{Beispiel}\lstinline$\Ca{<text>}$\tcblower
  \Ca{Nitro kann zu einer rapiden Senkung des Blutdrucks
-    führen!}}
+    führen!}
+\end{Beispiel}
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Handschrift -- \Code{\tbs H\{\}}}\marginpar{\T{\tbs
-gH\{\}}}
+\Layout{2}
+{Handschrift -- \Code{\tbs H\{\}}}
+{Handschriftliche Notiz!}
+{}
+{}
+{}
+{}
+Handschriftliche Notizen, z.\,B. auf
+Beispiel-"'Transportscheinen"'
+oder Anmerkungen des "`Allwissenden Erzählers"'.
 
 
+\Cave{Aufgrund der gewählten Schriftart kann es zu Problemen
+mit deutschen Sonderzeichen (ß, Umlaute) kommen!  }
 
-Handschriftliche Notiz!
-
-\begin{labeling}[~--]{Formatierung~~~}
-  \item[Syntax:] \lstinline$\H{<text>}$
-  \item[Beschreibung:]
-  \item[Ja:] Aussagen über eine massive Gefahr.
-  \item[Nein:] 
-  \item[Anmerkungen:] \begin{enumerate}
-        \item Handschriftliche Notizen, z.B. auf Beispiel-"'Transportscheinen"'
-        \item Anmerkungen des "`Allwissenden Erzählers"'
-    \end{enumerate}
-  \item[Formatierung:] Schriftartumstellung auf ECFAugie, Farbumstellung auf
-    darkBlue.
-  \item[Cave:] Aufgrund der gewählten Schriftart kann es zu Problemen mit
-    deutschen Sonderzeichen (ß, Umlaute) kommen!  
-\end{labeling}
-
-
-\aBox{Beispiel}{Handschrift}{black}
-{%
+\begin{Beispiel}\lstinline$\H{<text>}$\tcblower
 \H{Das ist eine Handschrift!}
-}
+\end{Beispiel}
 
 
 
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
-\subsubsection{Dokument -- \Code{\{\tbs ttfamily\}}}\marginpar{\T{\{\tbs
-ttfamily\}}}
-
-% Bla!
-% \begin{labeling}[~--]{Formatierung~~~}
-%   \item[Syntax:] \lstinline$\T{<text>}$
-%   \item[Beschreibung:]
-%   \item[Ja:] 
-%   \item[Nein:] 
-%   \item[Anmerkungen:] 
-%   \item[Formatierung:] 
-%   \item[Cave:] 
-% \end{labeling}
-% 
-% 
-% \aBox{Beispiel}{Befehl}{black}
-% {
-% 
-% Text}
 
 
 
@@ -1259,76 +1357,12 @@ ttfamily\}}}
 }
 \end{lstlisting}
 
-% \begin{WidePar}
-% \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
-% \TabHeading{Befehl} & \TabHeading{Beschreibung}
-% \\\midrule\addlinespace
-% \vspace{-1\medskipamount}
-% 
-% \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-% \Layout
-% {1: Nummer}
-% {2: Ueberschrift}
-% {3: Fliesstext}
-% {4: Stichworte}
-% {5: Bild-Pfad/Objekt}
-% {6: Bild/Objekt-Beschreibung}
-% {7: credits}
-% \end{lstlisting}
-% &
-% Standardlayout
-% % \\\addlinespace
-% % \vspace{-1\medskipamount}
-% % 
-% % \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-% % \Married
-% % {
-% %  % #1: Fliesstext
-% % }{
-% %  % #2: Stichworte
-% % }
-% % \end{lstlisting}
-% % &
-% % Verheirateter Text. Die Rechte Spalte ist die Kurzfassung
-% % von der linken Spalte und soll in etwa einer
-% % Präsentations-Folie entsprechen 
-% % \\\addlinespace
-% % \vspace{-1\medskipamount}
-% % 
-% % \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-% % \MarriedNG
-% % {
-% %  % #1: Ueberschrift
-% % }{
-% %  % #2: Fliesstext
-% % }{
-% %  % #3: Stichworte
-% % }
-% % \end{lstlisting}
-% % &
-% % Verheirateter Text mir Paragraphenüberschrift. Die Rechte Spalte ist die
-% % Kurzfassung von der linken Spalte und soll in etwa einer
-% % Präsentations-Folie entsprechen 
-% % \\\addlinespace
-% % \vspace{-1\medskipamount}
-% % 
-% % \begin{lstlisting}[aboveskip=0pt,belowskip=0pt]
-% % \Parallel{
-% %  % li. Spalte
-% % }{
-% %  % re. Spalte 
-% % }
-% % \end{lstlisting}
-% % &
-% % wie \lstinline$\Married$, der Inhalt von rechter und
-% % linker Spalte hat jedoch keinen Bezug zueinander 
-% \\\bottomrule
-% \end{tabular}
-% \end{WidePar}
+
 
 
 \begin{WidePar}
 \begin{minipage}{\linewidth}
+\small
 \Captionof{table}{Standardlayouts}
 
 \begin{tabular}{rp{10cm}l}\toprule\addlinespace
@@ -1485,8 +1519,13 @@ Code
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Definitions-Box -- \Code{\tbs Definition\{\}}}\marginpar{\T{\tbs
-gDefinition\{\}}}
+\Layout{2}
+{Definitionen -- \Code{\tbs Definition\{\}}}
+{}
+{}
+{}
+{}
+{}
 
 \begin{description}
     \item[Syntax:] \lstinline$\Definition{<text>}$
@@ -1501,41 +1540,50 @@ gDefinition\{\}}}
 %     \item[Beispiel:]
 \end{description}
 
+
+
+
+
+\begin{Beispiel}
 \begin{lstlisting}
-\Definition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
+\Definition{Dies ist eine Definition. Da sie eine Randbox hat passt sie nicht in den oberen Kasten.
+
+Sie kann auch mehrere Absaetze umfassen}
 \end{lstlisting}
+\tcblower
 
-\Definition{Dies ist eine Definition -- Sie ist eingerueckt, kursiv und gruen.}
+\end{Beispiel}
 
+\Definition{Dies ist eine Definition. Da sie eine Randbox
+hat passt sie nicht in den oberen Kasten.
 
-
+Sie kann auch mehrere Absaetze umfassen}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Fazit-Box -- \Code{\tbs Fazit\{\}}}\marginpar{\T{\tbs
-gFazit\{\}}}
+\Layout{2}
+{Fazit-Box -- \Code{\tbs Fazit\{\}}}
+{Zusammenfassung bzw. Aussage}
+{}
+{}
+{}
+{}
 
-\begin{description}
-    \item[Syntax:] \lstinline$\Fazit{<text>}$
-%     \item[Beschreibung:]
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-%     
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-\end{description}
+\begin{Beispiel}
+Syntax: \lstinline$\Fazit{<text>}$
 
 \begin{lstlisting}
-\Fazit{Diese Aussage fasst etwas zusammen oder trifft eine Aussage die Speziell
-hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine entsprechende 
-Bedeutung haben. Wir sind froh die rote Fahne zu haben! }
+\Fazit{Diese Aussage fasst etwas zusammen oder 
+  trifft eine Aussage die speziell hervorgehoben 
+  sein soll. Sie kann wichtig sein oder sonst eine 
+  entsprechende Bedeutung haben. Wir sind froh die 
+  rote Fahne zu haben! }
 \end{lstlisting}
-
+\tcblower
 \Fazit{Diese Aussage fasst etwas zusammen oder trifft eine Aussage die Speziell
 hervorgehoben sein soll. Sie kann wichtig sein oder sonst eine entsprechende
-Bedeutung haben. Wir sind froh die rote Fahne zu haben! }
+Bedeutung haben. Wir sind froh die rote Fahne zu haben!}
+\end{Beispiel}
 
 
 
@@ -1544,44 +1592,86 @@ Bedeutung haben. Wir sind froh die rote Fahne zu haben! }
 
 
 
+
+
+
+
+
+% 
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% 
+% \subsubsection{Parallel-Box -- \Code{\tbs Parallel\{\}}}\marginpar{\T{\tbs
+% gParallel\{\}}}
+% 
+% \begin{description}
+%     \item[Syntax:] \lstinline$\Parallel{<text>}$
+%     \item[Beschreibung:] wie \lstinline$\Married$, der Inhalt von rechter und
+% linker Spalte hat jedoch keinen Bezug zueinander     
+% %     \item[Anwendung:]
+% %     \item[Nicht anzuwenden bei:]
+% %     \item[Anmerkungen:] 
+% %     \item[Cave:]
+% %     
+% %     \item[Formatierung:]
+% %     \item[Beispiel:]
+% \end{description}
+% 
+
+% 
+% \begin{minipage}{0.48\linewidth}
+% 
+% 
+% \end{minipage}
+% \hspace{0.04\linewidth}
+% \begin{minipage}{0.48\linewidth}
+% \begin{lstlisting}
+% 
+% \end{lstlisting}
+% \end{minipage}
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Parallel-Box -- \Code{\tbs Parallel\{\}}}\marginpar{\T{\tbs
-gParallel\{\}}}
 
-\begin{description}
-    \item[Syntax:] \lstinline$\Parallel{<text>}$
-    \item[Beschreibung:] wie \lstinline$\Married$, der Inhalt von rechter und
-linker Spalte hat jedoch keinen Bezug zueinander     
-%     \item[Anwendung:]
-%     \item[Nicht anzuwenden bei:]
-%     \item[Anmerkungen:] 
-%     \item[Cave:]
-%     
-%     \item[Formatierung:]
-%     \item[Beispiel:]
-\end{description}
+\Layout{2}
+{Cave-Box -- \Code{\tbs Cave\{\}}}
+{Aussagen über eine massive Gefahr.}
+{}
+{}
+{}
+{}
+Für die Auszeichnung einzelner Wörter steht der
+    \lstinline$\Ca{}$-Befehl zur Verfügung.
 
 
-
-\begin{minipage}{0.48\linewidth}
-
-
-\end{minipage}
-\hspace{0.04\linewidth}
-\begin{minipage}{0.48\linewidth}
+\begin{Beispiel}
 \begin{lstlisting}
+Syntax: \lstinline$\Cave{<text>}$
 
+\Cave{
+Dies ist eine Cave-Box!
+
+Die Cave-Box kann auch mit der \Ca{\tbs Ca\{\}-Formatierung} kombiniert werden!
+}
 \end{lstlisting}
-\end{minipage}
+\tcblower
+\Cave{
+Dies ist eine Cave-Box!
+
+Die Cave-Box kann auch mit der \Ca{\tbs Ca\{\}-Formatierung} kombiniert werden!
+}
+\end{Beispiel}
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-\subsubsection{Massnahmen-Box -- \Code{\tbs
-gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\T{\tbs Massnahmen\{\}\{\}\{\}\{\}}}
+\subsection{Massnahmen}
+
+Maßnahmen stellen einen Sonderfall dar, es gibt verschiedene
+Formen von Maßnahmen-Definitionen
 
 \begin{description}
     \item[Syntax:] \lstinline$\MassnahmenNG{<Art>}{<bei>}{<Kommandos>}{<text>}$
@@ -1613,290 +1703,35 @@ gMassnahmenNG\{\}\{\}\{\}\{\}}}\marginpar{\T{\tbs Massnahmen\{\}\{\}\{\}\{\}}}
 %     \item Hospitalisierung: Abt. f. Chirurgie.
 % \end{itemize}
 % }
-
-
-\begin{lstlisting}
-\MassnahmenNG{Spezielle Massnahmen}{Muster}{}
-{
-\begin{enumerate}
-    \item Bla
-    \item Blabla
-    \item Blabla!
-    \item Punkt.
-\end{enumerate}
-}
-\end{lstlisting}
-
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
-\subsubsection{Cave-Box -- \Code{\tbs Cave\{\}}}\marginpar{\T{\tbs
-gCave\{\}}}
-
-\begin{description}
-    \item[Syntax:] \lstinline$\Cave{<text>}$
-%     \item[Beschreibung:]
-    \item[Anwendung:] Aussagen über eine massive Gefahr.
-%     \item[Nicht anzuwenden bei:]
-    \item[Anmerkungen:] Für die Auszeichnung einzelner Wörter steht der
-    \lstinline$\Ca{}$-Befehl zur Verfügung.
-%     \item[Cave:]
-%     
-%     \item[Formatierung:]
-%     \item[Beispiel:] 
-\end{description}
-
-\begin{lstlisting}
-\Cave{
-Dies ist eine Cave-Box!
-
-Die Cave-Box kann auch mit der \Ca{\tbs Ca\{\}-Formatierung} kombiniert werden!
-}
-\end{lstlisting}
-
-\Cave{
-Dies ist eine Cave-Box!
-
-Die Cave-Box kann auch mit der \Ca{\tbs Ca\{\}-Formatierung} kombiniert werden!
-}
-
-
-
-
-
-
-
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
-\section{Kommentare, Notizen und Tags für Autoren und Entwickler}
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-
-\subsubsection{Allgemeine Autorennotizen -- \Code{\tbs A\{\}}}\marginpar{\T{\tbs
-gA\{\}}}
-
-% Bla!
-% \begin{labeling}[~--]{Formatierung~~~}
-%   \item[Syntax:] \lstinline$\T{<text>}$
-%   \item[Beschreibung:]
-%   \item[Ja:] 
-%   \item[Nein:] 
-%   \item[Anmerkungen:] 
-%   \item[Formatierung:] 
-%   \item[Cave:] 
-% \end{labeling}
 % 
 % 
-% \aBox{Beispiel}{Befehl}{black}
+% \begin{lstlisting}
+% \MassnahmenNG{Spezielle Massnahmen}{Muster}{}
 % {
-% 
-% Text}
-
-
-
-
-
-
-
-
-
-
-
-
-% \subsection{Textkürzel}
-% 
-% \begin{tabular}{p{0.2\linewidth}p{0.6\linewidth}p{0.2\linewidth}}\toprule
-% \TabHeading{Befehl} & \TabHeading{Beschreibung}
-% \\\midrule
-% \lstinline$\EE{Hallo}$
-% & Erklärung
-% \\\addlinespace
-% \end{tabular}
-% 
-
-
-% 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-% 
-% \section{Das Dateilayout}
-% 
-% \subsection{Die Kürzel}
-% 
-% Kapitel kommen ins Verzeichnis chapters.
-% 
-
-
-
-
-
-% \chapter{Showroom}
-% 
-% \section{}
-% 
-% \subsection{}
-% 
-% 
-% 
-% \section{Unfälle durch Strom- und Blitzschlag}
-% 
-% \marginpar{\includegraphics[width=\linewidth]{./images/electricity_japan.jpg}
-% \small\emph{Foto: Fina}}
-% 
-% Stromunfälle kommen typischerweise in folgenden Situationen vor:
-% \begin{itemize}
-% 	\item Spielende Jugendliche oder Arbeiter auf Eisenbahnwagons
-% 	\item LKW-Hebekräne oder Bagger geraten in Freileitungen
-% 	\item Unachtsamer Umgang mit Elektrogeräten im Badezimmer
-% 	\item Unsachgemäße Reparatur von Elektrogeräten
-% 	\item Arbeitsunfälle (Elektriker, Heimwerker)
-% 	\item Tragen von  Metallteilen in der Nähe von Hochspannungsleitungen
-% \end{itemize}
-% 
-% \subsubsection{Allgemeines zum elektrischen Strom und seine
-% Wirkung auf den Körper} 
-% 
-% Die Gefährdung bei Stromunfällen
-% hängt von verschiedenen Faktoren ab:
-% \begin{itemize}
-% 	\item \EE{Elektrische Spannung:} Die elektrische Spannung
-% 	ist die Ursache für den elektrischen Stromfluss und wird
-% 	in der Einheit Volt (V) gemessen. Wie gefährlich eine Spannung ist hängt nicht nur von der Höhe der Spannung selbst, sondern wesentlich auch vom elektrischen Strom, der von ihr hervorgerufen wird, ab. So kann z.B. die 12 V-Spannung einer Modelleisenbahn völlig ungefährlich sein, gibt es jedoch im Auto bei einer (großen) 12 V-Batterie einen Kurzschluss, kann ein gefährlich großer Strom fließen!
-% 		\begin{itemize}
-% 		\item \T{Niederspannung}: Von Niederspannung spricht man bei Spannungen bis 1000 V. An einer Autobatterie liegt eine Spannung von 12 V. An einer Steckdose liegt eine Spannung von 230 V, in Industriebetrieben wird zusätzlich oft eine Spannung von 400 V verwendet. Diese Spannungen sind auf jeden Fall lebensgefährlich. \Z{Ein Defibrillator schockt mit etwa 1000 V (!), ein externer Herzschrittmacher arbeitet mit bis zu 400 V.}
-% 		\item \T{Hochspannung}: Hochspannung ist eine Spannung über 1000 V. \Z{Über Hochspannungsleitungen wird die elektrische Energie mit einer Spannung von 110 000 V (= 110 kV) bis 380 000 V (= 380 kV) übertragen. An den Oberleitungen der Eisenbahn liegen 15 000 V (= 15 kV). Bei Gewitterblitzen treten Spannungen von 10-30 Millionen Volt (10-30 Megavolt) auf.}
-% 		\end{itemize}
-% 	\item \EE{Elektrische Stromstärke:} Elektrischer Strom ist der Fluss von Elektronen. Die treibende Kraft hinter dem Stromfluss ist die elektrische Spannung. Der elektrische Strom wird durch die elektrische Stromstärke beschrieben, welche mit der Einheit Ampere (A) gemessen wird. Kommt es zu einem Stromunfall ist die Schädigung im Körper von der Höhe der Stromstärke abhängig \footnote{Die Werte beziehen sich auf Wechselstrom, die Grenzwerte für Gleichstrom sind höher. Da oft die Stromart nicht bekannt ist, ist es prinzipiell sinnvoll von der gefährlicheren Stromart auszugehen!}:
-% \Z{
-% 		\begin{itemize}
-% 		\item Bei geringen Stromstärken \EE{unter 1 Milliampere (mA)} ist nur ein elektrischer Schlag spürbar.
-% 		\item Bei Stromstärken \EE{ab ca. 10 Milliampere (mA)} kommt es zu Schmerzempfindungen und Muskelkontraktionen. \cite{Jaros1}
-% 		\item Bei Stromstärken \EE{ab 15-25 mA} kommt es aufgrund der Muskelkontraktionen zu krampfhaften Festhalten der berührten Stromquelle. \cite{BoehmerTaschRett6}
-% 		\item Stromstärken \EE{ab 25-50 mA} sind \EE{lebensgefährlich}! \cite{BoehmerTaschRett6}
-% 		\item Stromstärken \EE{ab 80 mA} führen zu Atemlähmungen und Kammerflimmern! \cite{Jaros1}
-% 		\item Stromstärken \EE{ab 3 A} führen zusätzlich zu Verbrennungen, Verkochungen und Verkohlungen. \cite{LPN3}
-% 		\end{itemize}
+% \begin{enumerate}
+%     \item Bla
+%     \item Blabla
+%     \item Blabla!
+%     \item Punkt.
+% \end{enumerate}
 % }
-% 	\item \EE{Elektrischer Widerstand:} Jeder Körper und
-% 	jeder Stoff setzt dem elektrischen Stromfluss einen
-% 	Widerstand entgegen. Dieser elektrische Widerstand wird in
-% 	Ohm ($\Omega$) gemessen. Je größer der Widerstand eines
-% 	Körpers, desto kleiner ist der elektrische Strom. Trockene
-% 	Haut hat einen elektrischen Widerstand von 100 000 Ohm,
-% 	\EE{feuchte Haut hat einen geringeren Widerstand} von
-% 	weniger als 1000 Ohm. Der Widerstand von geschädigter
-% 	(z.B. verbrannter) Haut ist noch geringer. \Z{Greift man z.B. mit feuchten Händen in die Steckdose (230 V) so stellt sich durch den Körperwiderstand von ca. 1000 Ohm ein elektrischer Strom der Stärke 230 mA ein.}\footnote{Der Leser kann dies durch das Ohmsche Gesetz leicht selbst nachrechnen! Die Spannung $U$ ist das Produkt aus dem Widerstand $R$ und der elektrischen Stromstärke $I$: $U=R \cdot I$} Diese Stromstärke ist absolut lebensgefährlich, wie man aus der Übersicht oben schnell entnehmen kann.
-% 	\item \EE{Einwirkdauer:} Je länger die Einwirkzeit (Kontaktzeit), desto größer ist die Schädigung.
-% 	\item \EE{Stromweg:} Die Schädigung im Körper hängt auch vom Weg des Stromes durch den Körper ab. Fließt der Strom z.B. von einer Hand zur anderen Hand durch den Körper ist dies gefährlicher, als wenn der Strom von einer Hand zum Fuß fließt.
-% 	\item \EE{Stromart:} Wechselstrom ist gefährlicher als Gleichstrom. An den Steckdosen im Haushalt liegt Wechselspannung an. Dieser ändert die Stromrichtung 50 mal pro Sekunde (\Z{Frequenz = 50 Hz}), weshalb die Wahrscheinlichkeit für Kammerflimmern auch bei kurzen Stromkontakten steigt. \cite{RedelsteinerHRNS1} \footnote{Bei monophasischen Defibrillatoren wird mit Gleichstrom gearbeitet, biphasische Defibrillatoren polen die Stromrichtung einmal um (Wechselstrom).} 
-% \end{itemize}
-% 
-% \AuthNotes{\#9: EMHOFER: Bilder von verschiedenen
-% Steckdosen, Kabel und Hinweisschildern einfügen}
-% 
-% %\T{Niederspannung}: bis 1000\,Volt (Steckdose:  230 Volt)
-% %\T{Hochspannung}: \"uber 1000\,Volt, Stromst\"arke
-% %{\textgreater}  3 Ampere (\"Uberlandleitungen) 
-% 
-% \subsubsection{Besonderer Gefahrenbereich}
-% \index{Gefahrenbereich!Strom}\label{topic:gefahrenbereich-strom}
-% Starkstrom/Hochspannung durch Fachmann (E-Werk, ÖBB,
-% Betriebsleitung, ...) abschalten bzw. erden lassen. 
-% 
-% Strom
-% gegen Wiedereinschalten sichern! Patient mit isolierendem
-% Material aus dem Stromkreis befreien. Sicherheitsabstand zu
-% stromführenden Freileitungen einhalten! 
-% 
-% \subparagraph{Freileitungen}
+% \end{lstlisting}
 % 
 % 
-% Bei Freileitungen mit
-% 220 000 Volt (220\,kV) sind mindestens 4\,m Abstand zu halten.
-% \cite{Jaros1} 
-% 
-% Bei herabhängenden Hochspannungsleitungen oder
-% nach Blitzeinschlägen auf die Schrittspannung achten: Die
-% Spannung fällt im Boden nicht sofort auf 0 Volt ab, innerhalb
-% eines gewissen Umkreises kann daher zwischen den beiden
-% Beinen am Boden eine so genannte Schrittspannung auftreten.
-% Befinden Sie sich innerhalb eines solchen Gebietes lassen Sie
-% Ihre Beine eng beisammen und springen aus diesem Bereich
-% heraus. Je nach Bodenbeschaffenheit können Schrittspannungen
-% bis zu einer Distanz von 20\,m von der herunterhängenden
-% Hochspannungsleitung auftreten. \cite{RedelsteinerHRNS1} 
-% 
-% \subparagraph{Bahnanlagen}
-% Bei
-% Notfällen auf Bahngleisen ist auf jeden Fall der
-% Streckenabschnitt von der ÖBB sperren zu lassen (über die
-% Leitstelle)! An den Masten der Oberleitungen der ÖBB sind
-% entsprechende Mastennummer angebracht. Diese müssen bei der Leitstelle gemeldet
-% werden. 
-% 
-% Ähnliches gilt für Stadt- und U-Bahn-Anlagen. Da die Stromversorgung oft nicht
-% durch eine Oberleitung, sondern durch andere Vorrichtungen in
-% Bodennähe (Stromschiene, etc.) erfolgt, besteht auch bei intakten Anlagen die
-% Gefahr eines Stromschlages, sofern die Gleisanlagen betreten werden. Als
-% Traktionsspannung werden oft Spannungen um die 700\,V eingesetzt. \cite{U61989}
-%  
-% \subsection{nachher}
 % 
 
 
 
 
 
-% \chapter{Anhang}
+
+\printindex
 
 
 
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 
-% \section{Dateien}
-
-% \subsubsection{input-colors.tex}
-% 
-% {\scriptsize
-% 
-% \lstinputlisting{./inputs/input-colors.tex}
-% 
-% }
-% 
-% \subsubsection{aass-common.sty}
-% 
-% \begin{WidePar}
-% {\scriptsize
-% \lstinputlisting{./packages/aass-common.sty}
-% }
-% \end{WidePar}
-
-\chapter{Doku}
-\DocInput{aass-common.sty}
-
-% \DocInput{aass-units.sty}
-% \DocInput{aass-fonts.sty}
-% 
-% \DocInput{aass-features.sty}
-% 
-% \DocInput{aass-text.sty}
 
 \end{document}

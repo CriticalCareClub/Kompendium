@@ -35,7 +35,41 @@ toc=flat,
 % [demo} .. keine Bilder
 \usepackage[final]{graphicx} % Bilder-Support
 
-\input{./inputs/input-preamble-MKATALOG-Entwicklung}
+\input{./inputs/input-preamble-MKATALOG-2012.1.tex}
+
+\usepackage[backend=bibtex8,
+babel=other,
+defernumbers=true,
+natbib,
+sorting=none,
+sortlocale=de,
+]{biblatex}
+
+% 	\bibliography{AASS.bib}
+	\addbibresource{BiblioDB-Med-Books.bib}
+	\addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
+	\addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
+	\addbibresource{BiblioDB-Med-Links.bib}
+	\addbibresource{BiblioDB-Med-Misc.bib}
+	\renewcommand{\labelnamepunct}{\addcolon\space}
+	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
+	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+	% 
+	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+	\DeclareFieldFormat{journaltitle}{\textsc{#1}}
+	\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+	\renewcommand{\bibfont}{\normalfont\tiny}
+	\DeclareBibliographyCategory{PAM}
+	\DeclareBibliographyCategory{BestOf}
+	\defbibnote{bestof}{Dieser Abschnitt beinhaltet besonders
+	lesenswerte Literaturreferenzen. Eine vollständgie
+	Auflistung der Quellen findet sich im Folgeabschnitt.
+	Sofern dieser nicht Teil Ihrer Distribution ist, finden
+	Sie sie auch online unter
+	\url{http://www.aass.at/download}.}
+% \usepackage{asboe}
 
 % Trennungen
 \input{./inputs/input-hyphenation}
@@ -44,7 +78,7 @@ toc=flat,
 \input{./inputs/input-title-MKATALOG-Entwicklung}
 
 % Dokumenteinfos (Status, Version, ...)
-\input{./inputs/input-docinfo-MKATALOG-Entwicklung}
+\input{./inputs/input-docinfo-MKATALOG-2012.1.tex}
 
 % Kopf- und Fusszeilen
 \input{./inputs/input-headfoot}
@@ -101,7 +135,6 @@ toc=flat,
 \MultiColListStart{lofazit}{2}
 \MultiColListStart{lomassnahmen}{2}
 
-\nobibliography*
 
 \newgeometry{verbose,
 a4paper,
@@ -577,11 +610,9 @@ muss.
 }
 
 
-
+\cleardoublepage
 
 \chapter{Allgemeines Patientenmanagement}
-
-~
 
 \label{apm}
 
@@ -665,7 +696,7 @@ aufgeschoben werden (Auf Grund des Selbstschutzes, \enquote{Aufklärung} eines b
  grundsätzlicher Behandlungsnotwendigkeit dar.} % Commentary
  }
 
-\pagestyle{empty}\loadgeometry{WholePage}\cleardoublepage
+\pagestyle{empty}\loadgeometry{WholePage}\clearpage
 \noindent\begin{minipage}{\linewidth}
 % \noindent{\sffamily{\color{ubuntured}%
 % {\bfseries\Huge\color{DefaultA}
@@ -678,7 +709,7 @@ aufgeschoben werden (Auf Grund des Selbstschutzes, \enquote{Aufklärung} eines b
 
 \Layout{57}{}{}{}
 {\includegraphics[width=\linewidth]{./images/emhofer-josef-aass/PAMneuAugust2012}}
-{Graphische Übersicht: Standardisierte Patientenversorgung}
+{Graphische Übersicht: \EEE{Standardisierte Patientenversorgung}}
 {}
 
 \vfill
@@ -1014,7 +1045,6 @@ Sofortmaßnahmen} sind als \E{Beispiele} zu verstehen.}
 \vfill
 \restoregeometry\pagestyle{fancy}
 
-
 \Layout{57}{}
 {}
 {}
@@ -1030,26 +1060,14 @@ Sofortmaßnahmen} sind als \E{Beispiele} zu verstehen.}
 }
 \begin{tabulary}{\linewidth}[H]{lCL}
 \toprule\addlinespace
-% \EE{Erste Hilfe}
-% 
-% \includegraphics[width=1cm]{icons/firstAid.png}
-%  &
-%  &
-% 
-% \\\addlinespace\midrule\addlinespace
 {\multirow{6}{2cm}{\TabHeading{Anamnese}}}
  &
 {\sffamily\textbf S}
  &
-Symptome \& Schmerzen 
+Symptome {\&} Schmerzen: OPQRST
+
 {\tiny(Lokalisation, Stärke,  Qualität, Zeit/Verlauf, 
  Ausstrahlung, Linderung/Verstärkung)}
-\\\addlinespace
- &
-{\sffamily\textbf K}
- &
-Krankheiten {\tiny(Bestehen Grunderkrankungen, zB
-Diabetes?)}
 \\\addlinespace
  &
 {\sffamily\textbf A}
@@ -1064,16 +1082,22 @@ Medikamente {\tiny(Nimmt Patient Medikamente?
 Wogegen sind diese?)}
 \\\addlinespace
  &
- {\sffamily\textbf E}
+{\sffamily\textbf P}
  &
-Ereignisse vor Notfalleintritt {\tiny(zB
-Anstrengung vor Brustschmerz, Sturz, ...)}
+Patientengeschichte: Krankheiten {\tiny(chronische, frühere
+K.)}, Operationen, \ldots 
 \\\addlinespace
  &
  {\sffamily\textbf L}
  &
 Letzte ... (zB letzte Mahlzeit, letzte
 Regelblutung, letzter Spitalsaufenthalt)
+\\\addlinespace
+ &
+ {\sffamily\textbf E}
+ &
+Ereignisse vor Notfalleintritt {\tiny(zB
+Anstrengung vor Brustschmerz, Sturz, ...)}
 \\\addlinespace\midrule\addlinespace
 
 {\multirow{8}{2cm}{\TabHeading{Diagnostik}}}
@@ -1117,6 +1141,11 @@ Abwehrspannung des Bauches, ...
 &
 Sonstige körperliche Untersuchungen: Abdomen abtasten,
 Körperstellen inspizieren, \ldots
+\\\addlinespace
+ &
+{\sffamily\small \ldots}
+&
+EKG, Kapnometrie, \ldots
 \\\addlinespace\midrule\addlinespace
 \TabHeading{Maßnahmen}
 &
@@ -1174,12 +1203,10 @@ Körperstellen inspizieren, \ldots
 {\scriptsize\EE{Fett} gedruckte Punkte haben eine besonders hohe Priorität, (eingeklammerte) Punkte sollten schon als Teil des Einschätzungsblockes abgehandelt worden sein.}
 \end{minipage}
 }
-{Kurzübersicht: Weiterführende Untersuchungen und Anamnese.
+{Kurzübersicht: \EEE{Weiterführende Untersuchungen und Anamnese}.
 Die Reihenfolge ist je nach Patient
 unterschiedlich!\label{tab:checkliste-patientenmanagement}\label{tab:pam-weiterfuehrende}.}
 {}
-
-
 
 
 
@@ -1778,7 +1805,7 @@ Rasche Blutdrucksenkung (veranlassen)}
 
 \Customized{
 \begin{description}
-  \item[\CustAsbLvWien, \CustAsbFlo] \Abk{NFS} dürfen lt.
+  \item[\CustAsboe] \Abk{NFS} dürfen lt.
 Algorithmus Nitro-Spray verabreichen. Ist die Gabe
 erfolgreich, kann u.\,U. von der Anforderung eines Notarztes
 abgesehen werden.
@@ -3982,8 +4009,9 @@ Maßnahmen}{Stromunfälle}{\label{m:stromunfall}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Literaturverzeichnis
-\opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\tiny\setlength{\parskip}{0pt}\cleardoublepage\bibliography{Literatur-AASS}\restoregeometry}\onecolumn}
+% \opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\tiny\setlength{\parskip}{0pt}\cleardoublepage\printbibliography\restoregeometry}\onecolumn}
 % \opt{STATUS-WITH-BIBLIO}{{\setlength{\parskip}{0pt}\bibliography{Literatur-AASS}}}
+{\loadgeometry{FullPage}\twocolumn\setlength{\parskip}{0pt}\cleardoublepage\printbibliography\restoregeometry\twocolumn}
 
 
 

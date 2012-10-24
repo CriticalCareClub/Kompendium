@@ -778,7 +778,7 @@ gelangen.
 \Layout{0}{Interpretation und Normalwert}
 {
 Der Blutzuckerspiegel wird in \E{Milligramm pro Deziliter}
-(\MgDl\Z{, entspricht \MetricUnit{mg\,\%}}) gemessen. Der
+(\MgDl\Z{, entspricht \MetricUnit{mg\,\PC}}) gemessen. Der
 Wert ist abhängig von der letzten Mahlzeit des Patienten.
 Nach der Nahrungsaufnahme steigt der Blutzuckerspiegel stark
 an und fällt dann wieder auf einen \enquote{nüchternen
@@ -859,15 +859,15 @@ keine Notfallsymptome auftreten.
 
 }{}{}{}
 
-\begin{PictureSeriesWide}{Wide}{Bilderserie: Blutzuckermessung}
-\PictureSeriesRow{3}
+\begin{PictureSeriesWide}{}{Bilderserie: Blutzuckermessung}
+\PictureSeriesRowWide{3}
 {./images/pallinger-christoph-aass/Blutzucker_32796_export_01312.jpg}
 {Material \SourcePicture{Ch. Pallinger}}
 {./images/motal-aass/00800/neuro6.jpg}
 {BZ-Messung \SourcePicture{Motal}}
 {./images/gabriel-sebastian-aass/bz-wert_1214-00800.jpg}
-{\enquote{90\MgDl*.} \SourcePicture{GABS}}
-{}
+{\enquote*{90\MgDl*.} \SourcePicture{GABS}}
+{empty}
 {}
 \end{PictureSeriesWide}
 
@@ -970,8 +970,7 @@ Grundsätzlich unterscheidet man zwischen den Extremitätenableitungen
 und den Brustwandableitungen. 
 \hfill\Commentary[EKG-Ableitungen]{Brustwandableitungen nach
 \I{Einthoven} und \I{Goldberger}, Brustwandableitungen nach
-\I{Wilson}. 
-
+\I{Wilson}. \ParBugfix
 Neben diesen
 Standardableitungen gibt es noch für spezielle Fragestellungen weitere
 Ableitungmöglichkeiten wie z.\,B. die Ableitungen nach
@@ -981,14 +980,13 @@ Ableitungmöglichkeiten wie z.\,B. die Ableitungen nach
 Brustwandableitungen}.
 Zusammen ergeben die Elektroden der Frontal- und Horizontalebene 
 eine dreidimensionale Darstellung der
-elektrischen Herzaktivität: \begin{inparaitem}
-  \item[Inferior:] \EKG{II}, \EKG{III}, \EKG{aVF}.
-  \item[Anterior / anteroseptal:]
-  \VonBis{\EKG{V1}}{\EKG{V4}}.
-  \item[Lateral:] \EKG{I}, \EKG{aVL}, \EKG{V5}, \EKG{V6}.
-  \item[Dorsal:] \VonBis{\EKG{V7}}{\EKG{V9}}.
-  \item[Rechtes Herz:] \VonBis{\EKG{V3R}}{\EKG{V6R}}.
-\end{inparaitem} \cite{EkgIsabell5,InnereMedQuick3}}
+elektrischen Herzaktivität: \\
+  \EE{Inferior}: \EKG{II}, \EKG{III}, \EKG{aVF}\\
+  \EE{Anterior / anteroseptal}: \VonBis{\EKG{V1}}{\EKG{V4}}\\
+  \EE{Lateral}: \EKG{I}, \EKG{aVL}, \EKG{V5}, \EKG{V6}\\
+  \EE{Dorsal}: \VonBis{\EKG{V7}}{\EKG{V9}}\\
+  \EE{Rechtes Herz}: \VonBis{\EKG{V3R}}{\EKG{V6R}}\\
+\cite{EkgIsabell5,InnereMedQuick3}}
 
 \begin{itemize}
   \item Extremitätenableitungen\Z{: \EKG{I}, \EKG{II},

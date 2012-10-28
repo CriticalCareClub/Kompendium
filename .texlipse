@@ -1,5 +1,5 @@
 #TeXlipse project settings
-#Sun Oct 14 17:37:04 CEST 2012
+#Sun Oct 28 23:42:52 CET 2012
 markTmpDer=true
 builderNum=2
 outputDir=Ausgabe/
@@ -7,8 +7,8 @@ makeIndSty=aass.ist
 bibrefDir=
 outputFormat=pdf
 tempDir=tmp
-mainTexFile=AASS.tex
-outputFile=AASS.pdf
+mainTexFile=AASS-MKATALOG-2012.1.tex
+outputFile=AASS-MKATALOG-2012.1.pdf
 langSpell=de
 markDer=true
 srcDir=Entwicklung

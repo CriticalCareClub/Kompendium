@@ -5,7 +5,7 @@ asymmetric,
 fontsize=10pt,
 % headings=small,
 draft=false,
-parskip=half,
+% parskip=half,
 numbers=noenddot,
 % listof=totoc,         % verschiebt Minitoc/Hyperref
 % bibliography=totoc,   % verschiebt Minitoc/Hyperref
@@ -13,76 +13,100 @@ bibtotocnumbered,
 % index=totoc,
 % noonelinecaption,
 footnotes=multiple,
-% toc=flat,
+toc=flat,
 ]{scrbook}
-% \setlength{\parindent}{1.5em}
-% \usepackage{scrhack}
+\setlength{\parindent}{15pt}
 
-% UTF-8 Schriftkodierung
-\usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}
-% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
-\usepackage{etex}
 
-\pdfcompresslevel=9
-\pdfimageresolution=72
-% \pdfpkresolution=72
-% \usepackage[a-1b]{pdfx}
-% \def\Keywords{AASS} \def\Title{AASS} \def\Author{ARGE AASS} \def\Org{ARGE AASS}
-% % \input glyphtounicode.tex \input glyphtounicode-cmr.tex \pdfgentounicode=1
-% \usepackage[xcolor]{rvdtx}
+\usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}	% UTF-8 Schriftkodierung
+
+\usepackage{etex}					% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
+
+\usepackage[final]{graphicx} 		% Bilder-Support
+									% Optionen für Bilder:
+									% [draft] .. Es werden nur Rahmen angezeigt
+									% [final] .. Es werden Bilder normal angezeigt
+									% [demo]  .. keine Bilder
+
 
 
 \usepackage{blindtext}
 \usepackage{microtype,fixltx2e,ellipsis}
 
-% Optionen für Bilder:
-% [draft] .. Es werden nur Rahmen angezeigt
-% [final] .. Es werden Bilder normal angezeigt
-% [demo} .. keine Bilder
-\usepackage[final]{graphicx} % Bilder-Support
 
-% \usepackage{showidx} % shows index entries on page margin
-% \usepackage{showkeys}
+% Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{./inputs/input-optkeys-DERIV-ERNAEHRUNGSPAED}	% optional --- Optionaler Text.
+\input{./inputs/input-preamble}							% Präambel
+\input{./inputs/input-hyphenation}						% Trennungen
+\input{./inputs/input-title-DERIV-ERNAEHRUNGSPAED}		% Titel
+\input{./inputs/input-docinfo-DERIV-ERNAEHRUNGSPAED}	% Dokumenteinfos (Status, Version, ...)
+\input{./inputs/input-headfoot}							% Kopf- und Fusszeilen
 
-\input{./inputs/input-preamble}
+\includeonly{%
+./chapters/chapter-ANA,
+./chapters/chapter-BLS,
+./chapters/chapter-EHI,
+./chapters/chapter-GEF,
+}
 
-% Trennungen
-\input{./inputs/input-hyphenation}
+\renewcommand{\Abk}[1]{#1} 			% reset Abk
 
-% Titel
-\input{./inputs/input-title-DERIV-ERNAEHRUNGSPAED}
+\usepackage{xr}						% Maßnahmenkatalog: Referenzen zu ext. Dokument
+	\externaldocument[MK-]{AASS-MKATALOG-2012.1-Archiv}
 
-% Dokumenteinfos (Status, Version, ...)
-\input{./inputs/input-docinfo-DERIV-ERNAEHRUNGSPAED}
+% 1: Art der Massnahmen
+% 2: Titel
+% 3: Referenz
+% 4: Text / Taktik
+% 5: Punkte
+\newcommand{\MassnahmenMK}[5]{%
+\Layout{Massnahmen}
+{{\SignMassnahme} #1: #2}
+{{\color{Indigo}#4\par Siehe \FullPrettyRef{MK-#3}}}
+{\FullPrettyRef{MK-#3}}
+{}
+{}
+{}}
 
-% Kopf- und Fusszeilen
-\input{./inputs/input-headfoot}
+\newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
+\newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
+\usepackage[backend=bibtex8,
+babel=other,
+defernumbers=true,
+natbib,
+sorting=none,
+sortlocale=de,
+]{biblatex}
 
-% Ausgeschlossene Kapitel
-\input{./inputs/input-excludeonly}
-
-% Schliesse nur bestimmte Kapitel ein ...
-\input{./inputs/input-includeonly-DERIV-ERNAEHRUNGSPAED}
-
-% optional --- Optionaler Text. 
-\input{./inputs/input-optkeys-DERIV-ERNAEHRUNGSPAED}
-
-\setcounter{errorcontextlines}{10}
-
-% \usepackage{fontspec}
-% \usepackage{setspace}
-
-
-\usepackage{ragged2e}
-% \usepackage[xcolor]{changebar}
-% % \driver{PDFTeX} % changebar
-
-
-
-% \usepackage{colortbl}
-% \arrayrulecolor{Beige}
-
-\renewcommand{\Abk}[1]{#1}
+% 	\bibliography{AASS.bib}
+	\addbibresource{BiblioDB-Med-Books.bib}
+	\addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
+	\addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
+	\addbibresource{BiblioDB-Med-Links.bib}
+	\addbibresource{BiblioDB-Med-Misc.bib}
+	\renewcommand{\labelnamepunct}{\addcolon\space}
+	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
+	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+	% 
+	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+	\DeclareFieldFormat{journaltitle}{\textsc{#1}}
+	\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+	\renewcommand{\bibfont}{\normalfont\small}
+	\DeclareBibliographyCategory{PAM}
+	\DeclareBibliographyCategory{BestOf}
+	\defbibnote{bestof}{Dieser Abschnitt beinhaltet besonders
+	lesenswerte Literaturreferenzen. Eine vollständige
+	Auflistung der Quellen findet sich im Folgeabschnitt.
+	Sofern dieser nicht Teil Ihrer Distribution ist, finden
+	Sie sie auch online unter
+	\url{http://www.aass.at/download}.}
+% \opt{ORG-ASBOE}{\usepackage{asboe}}
+% \renewcommand{\FontTableBase}{\small\sffamily}
+\setkomafont{descriptionlabel}{\bfseries}
+% 
+% \usepackage{ragged2e}
 
 
 % #######################################################################################################
@@ -106,8 +130,6 @@ footnotes=multiple,
 \MultiColListStart{toc}{2}
 \MultiColListStart{lofazit}{2}
 \MultiColListStart{lomassnahmen}{2}
-
-\nobibliography*
 
 \newgeometry{verbose,
 a4paper,
@@ -311,79 +333,6 @@ Vicco von Bülow (\VonBis{1923}{2011})
 
 \restoregeometry
 
-%\nocite{*} 
-
-% \layout
-% \pagediagram\pagedesign\paragraphdiagram\paragraphdesign\floatpagediagram\floatpagedesign\listdiagram\listdesign\footnotediagram\footnotedesign\tocdiagram\tocdesign
-
-% \clearpage
-% \section{Vorwort}
-% 
-% 
-% 
-% \parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
-% Das vorliegende Werk ist das (Zwischen-)Ergebnis einer seit mehr als zwei Jahren
-% andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig
-% sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
-% ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
-% und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
-% leisten könnte, still zu stehen.
-% 
-% Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
-% bereits breitgetretener Pfade darzustellen, und sowohl eine Unterlage für die
-% Ausbildung, als auch ein Hilfsmittel für die Praxis zu schaffen.  Besonderen
-% Wert haben wir dabei nicht nur auf die Praxis, sondern auch -- heutzutage nicht
-% mehr ganz modern -- auf das Hintergrundwissen und relevante Randbereiche gelegt.
-% Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
-% wieder veraltet ist, bildet dieses Fundament die Chance für eine
-% langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
-% (anstatt strikten, regel\E{gebundenen} Handelns). 
-% 
-% In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
-% Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
-% österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
-% Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
-% schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
-% einem Jahr als Lern- und Ausbildungsunterlage
-% bewähren.
-% 
-% 
-% 
-% \paragraph{Dieses Werk ist keine "`Dienstanweisung"'!}~~
-% 
-% \parpic[r][r]{\includegraphics[width=2cm]{./images/teaser/affe-sama-ambas-schein_00800.jpg}}
-% Eines muss vorweg klargestellt werden: Auch wenn es sehr in
-% Mode gekommen ist, Abläufe zu standardisieren und
-% festzuschreiben, so ist dies keine taugliche
-% Herangehensweise, um komplexe Probleme in der Medizin oder
-% im Sanitätsdienst zu bewältigen. Zu komplex sind die
-% Variablen, und zu gering bzw. zu unangepasst an konkrete
-% Situationen ist das gesicherte Wissen, auf dem
-% festgeschriebene Prozesse basieren. Der menschliche Faktor,
-% insbesonders die jeweilige Erfahrungen, ist und bleibt der
-% entscheidende Faktor jeglichen Handelns. Kein Lehrbuch oder
-% standardisierter Prozess kann das ändern, sofern das Ziel
-% ein "`gutes"' Ergebnis, und keine statistische Kennziffer
-% ist.
-% 
-% In diesem Sinne ist der Titel dieses Werkes nicht im Sinne eines
-% standardisierten Prozessmanagements zu verstehen, sondern soll einen
-% \E{Basisstandard} bezüglich medizinisch-sanitätsdienstlichem Wissen und
-% Kompetenz bilden, der individuell -- je nach Situation bzw. durch vom Helfer
-% andernorts erworbenen Wissens -- grundsätzlich verbesserbar ist. Die {\AASS}
-% geben Empfehlungen, es obliegt dem Helfer diese gemäß seiner 
-% fachlichen Erfahrung und Kenntnisse zu interpretieren, einzusetzen oder
-% anzupassen -- 
-% 
-% \Speech{salus aegroti suprema lex}\footnote{salus aegroti suprema lex \Lang{lat.}: \Speech{Das
-% Wohl des Kranken ist oberstes Gebot.}}.
-% 
-% \bigskip
-% 
-% \bigskip
-% 
-% \emph{Wien, im Sommer 2010}
-% 
 
 
 \clearpage
@@ -477,12 +426,6 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 }{}{}{}{}
 
 
-
-
-
-% \begin{WidePar}
-%   \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
-% \end{WidePar}
 % {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
 
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
@@ -500,151 +443,11 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 {\small\kern-2.ex\listof{fazit}{Merksätze}}
 \end{WidePar}
 
-
-% % {\WideParBegin}
-% \part{Allgemeiner Teil}
-% % {\WideParEnd}
-% 
-% 
-% \include{./chapters/chapter-TAE} 
-% 
-% % \include{./chapters/chapter-NEW}
-% % \addtocounter{chapter}{1}
-% 
-% \include{./chapters/chapter-LER}
-% 
-% \include{./chapters/chapter-BET}
-% 
-% \include{./chapters/chapter-RWT}
-% 
-% \include{./chapters/chapter-REG}
-% 
-% 
-% \opt{STATUS-EXPERIMENTAL}{%
-% \include{./chapters/chapter-NWG}
-% } % STATUS-EXPERIMENTAL
-
-
-% % {\WideParBegin}
-% \part{Grundlagen}
-% % {\WideParEnd}
-% \setcounter{chapter}{10}
-% % \setcounter{page}{1}
-
-% \include{./chapters/chapter-JUS}
-
 \include{./chapters/chapter-EHI}
-
-% \include{./chapters/chapter-AED}
-
-% \include{./chapters/chapter-SHF}
-
-% zuerst die Kapitel in denen Geräte eine Rolle spielen:
-\include{./chapters/chapter-MP1}
-
-% \include{./chapters/chapter-BAU}
-
-% \include{./chapters/chapter-SAN}
-
 \include{./chapters/chapter-BLS}
-
-% % dann "`wie führe ich ein gespräch:
-% \include{./chapters/chapter-AUP}
-% 
-% \include{./chapters/chapter-PSI}
-% 
-% \include{./chapters/chapter-KHD}
-
 \include{./chapters/chapter-GEF}
-
-% Zuletzt: "`Wie mache ich daraus einen funktionierenden Ablauf?"'
-\include{./chapters/chapter-PAM}
-
-% % {\WideParBegin}
-% \part{Medizinisch-Wissenschaftlicher Basisteil}
-% % {\WideParEnd}
-% \setcounter{chapter}{30}
-% % \setcounter{page}{1}
-
 \include{./chapters/chapter-ANA}
 
-% \include{./chapters/chapter-EIN}
-% 
-% \include{./chapters/chapter-VIT}
-% 
-% \include{./chapters/chapter-TOD}
-% 
-% \include{./chapters/chapter-MED}
-% 
-% \include{./chapters/chapter-HYG}
-% 
-% \include{./chapters/chapter-INK}
-% 
-% \include{./chapters/chapter-GYN}
-% 
-% \include{./chapters/chapter-KIN}
-% 
-% \include{./chapters/chapter-KRI}
-% 
-% \include{./chapters/chapter-PSY}
-% 
-% \include{./chapters/chapter-THE}
-% 
-% \include{./chapters/chapter-TOX}
-% 
-% \include{./chapters/chapter-TRA}
-% 
-% \opt{STATUS-EXPERIMENTAL}{%
-% \include{./chapters/chapter-SYM}
-% }
-% 
-% 
-% % {\WideParBegin}
-% \part{"`Intermediate"' (Erweitertes Wissen)}
-% % {\WideParEnd}
-% \setcounter{chapter}{50}
-% % \setcounter{page}{1}
-% 
-% % \include{./chapters/chapter-MP2}
-% 
-% \include{./chapters/chapter-ALS}
-% 
-% \opt{STATUS-EXPERIMENTAL}{%
-% \include{./chapters/chapter-ARZ}
-% } % STATUS-EXPERIMENTAL
-% 
-% \opt{STATUS-EXPERIMENTAL}{%
-% \include{./chapters/chapter-PKU}
-% } % STATUS-EXPERIMENTAL
-% 
-% \opt{STATUS-EXPERIMENTAL}{%
-% \include{./chapters/chapter-EKG}
-% } % STATUS-EXPERIMENTAL
-% 
-% \opt{STATUS-EXPERIMENTAL}{%
-% \include{./chapters/chapter-WIS}
-% } % STATUS-EXPERIMENTAL
-% 
-% \opt{STATUS-EXPERIMENTAL}{%
-% \include{./chapters/chapter-SPE}
-% } % STATUS-EXPERIMENTAL
-% 
-% \opt{STATUS-EXPERIMENTAL}{%
-% \include{./chapters/chapter-WEI}
-% } % STATUS-EXPERIMENTAL
-% 
-% % {\WideParBegin}
-% \part{"`Advanced"' (Fortgeschrittenes Wissen)}
-% % {\WideParEnd}
-% \setcounter{chapter}{70}\setcounter{page}{1}
-% 
-% \opt{STATUS-EXPERIMENTAL}{
-% \chapter{Präklinische Narkose}
-% 
-% \SectionUnderDevelopment
-% } % STATUS-EXPERIMENTAL
-% 
-% % \include{./chapters/inc-RES-ende}
 
 \appendix
 % {\WideParBegin}
@@ -652,21 +455,13 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 % {\WideParEnd}
 %\setcounter{page}{0}
 
-% \pagenumbering[Appendix]{bychapter}
-
-
-% \chapter{Verzeichnisse}
-
-
-% \include{./chapters/chapter-INT}
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Kommentare
 \printnotes
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Literaturverzeichnis
-\opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\small\setlength{\parskip}{0pt}\cleardoublepage\bibliography{Literatur-AASS}\restoregeometry}\onecolumn}
+\opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\small\setlength{\parskip}{0pt}\cleardoublepage\printbibliography\restoregeometry}\onecolumn}
 % \opt{STATUS-WITH-BIBLIO}{{\setlength{\parskip}{0pt}\bibliography{Literatur-AASS}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -676,71 +471,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \input{./chapters/inc-APP}
 
-% \begin{figure}[H]
-% \begin{WidePar}
-% \includegraphics[width=\linewidth]{./images/nasa-pd/114125main_image_feature_323_ys_full-00800.jpg}
-% 
-% \Captionof{figure}{Orbital ›Thumbs Up‹.
-% The Expedition 10 and 11 crews give the >>thumbs up<< after the change of
-% command ceremony on the International Space Station on April 22, 2005. From left:
-% Expedition 11 Flight Engineer John L. Phillips, Expedition 11 Commander Sergei K.
-% Krikalev, Expedition 10 Commander Leroy Chiao, European Space Agency (ESA)
-% astronaut Roberto Vittori of Italy; and Expedition 10 Flight Engineer Salizhan S.
-% Sharipov. \SourcePicture{NASA/JSC}}
-% \end{WidePar}
-% \end{figure}
+
 SO LONG.......... AND THANKS FOR ALL THE FISH
 \MultiColListEnd{lomassnahmen}
 \MultiColListEnd{lofazit}
 \MultiColListEnd{toc}
-% \begingroup
-% \pagestyle{empty}
-% \cleardoublepage
-% \endgroup
-% \emph{Notizen}
-% 
-% \clearpage
-% \thispagestyle{empty}
-% \sffamily
-% 
-% {\marginline{\flushright{\scalefont{5}\AASS}}\sffamily\Large{\color{ubuntured}%
-% \noindent Arbeits- und Ausbildungsstandards}\\ 
-% {\color{darkBlue}für den
-% Sanitätsdienst}}
-% 
-% \noindent\vspace{\baselineskip}
-% 
-% \DocVersion\\
-% \DocVersionInfo
-% 
-% \parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
-% Das vorliegende Werk ist das (Zwischen-)Ergebnis einer seit mehr als zwei Jahren
-% andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig
-% sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
-% ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
-% und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
-% leisten könnte, still zu stehen.
-% 
-% Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
-% bereits breitgetretener Pfade darzustellen, und sowohl eine Unterlage für die
-% Ausbildung, als auch ein Hilfsmittel für die Praxis zu schaffen.  Besonderen
-% Wert haben wir dabei nicht nur auf die Praxis, sondern auch -- heutzutage nicht
-% mehr ganz modern -- auf das Hintergrundwissen und relevante Randbereiche gelegt.
-% Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
-% wieder veraltet ist, bildet dieses Fundament die Chance für eine
-% langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
-% (anstatt strikten, regel\E{gebundenen} Handelns). 
-% 
-% In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
-% Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
-% österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
-% Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
-% schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
-% einem Jahr als Lern- und Ausbildungsunterlage bewähren.
-% 
-% \begin{labeling}[:]{mmmmm}\ttfamily
-%   \item[APID] ---
-%   \item[ISBN] ---
-%   \item[DOI] ---
-% \end{labeling}
 \end{document}

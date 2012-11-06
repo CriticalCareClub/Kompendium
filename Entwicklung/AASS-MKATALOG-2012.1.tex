@@ -35,6 +35,8 @@ toc=flat,
 % [demo} .. keine Bilder
 \usepackage[final]{graphicx} % Bilder-Support
 
+
+\input{./inputs/input-optkeys}		% optional --- Optionaler Text. 
 \input{./inputs/input-preamble-MKATALOG-2012.1.tex}
 
 \usepackage[backend=bibtex8,
@@ -89,8 +91,7 @@ sortlocale=de,
 % Schliesse nur bestimmte Kapitel ein ...
 % \input{./inputs/input-includeonly}
 
-% optional --- Optionaler Text. 
-\input{./inputs/input-optkeys}
+
 
 \setcounter{errorcontextlines}{10}
 
@@ -120,7 +121,9 @@ sortlocale=de,
 	}
 
 \usepackage{xr}
-\externaldocument[AASS-]{AASS}
+	\opt{VAR-VAR1}{\externaldocument[AASS-]{AASS-0.26-var1-Archiv}}
+	\opt{VAR-VAR2}{\externaldocument[AASS-]{AASS-0.26-var2-Archiv}}
+
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -814,7 +817,7 @@ Großschaden
 &
 \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item GAS-Maßnahmen (\prettyref{topic:gefahrengutunfall})
+  \item GAS-Maßnahmen 
   \item Lagemeldung
   \item Schutzausrüstung
   \item Nachforderung weiterer Kräfte
@@ -2572,6 +2575,7 @@ Maßnahmen}{Meningitis}{\label{m:meningitis}}{
   Ziel und Weg dorthin klar ist
   \item Desinfektionsmaßnhamen gem. Hygieneplan
   \item Personal bekommt im Spital evtl. eine Antibiotika-Prophylaxe
+  \item Wechsel der Dienstkleidung
 \end{itemize}
 
 }

@@ -2,10 +2,6 @@
 % Sprachunterstützung 
 % Mehrere Sprachen für angepasstes Literaturverzeichnis (babelbib) 
 \usepackage[english,german,ngerman]{babel}
-% Internationales Literaturverzeichnis
-\usepackage{babelbib}
-% \setbtxfallbacklanguage{english}
-\setbtxfallbacklanguage{ngerman}
 
 
 
@@ -46,9 +42,9 @@
 
 \makeatother
 
-\usepackage{titletoc}
-\contentsuse{lomassnahmen}{lomassnahmen}
-\titlecontents{massnahmen}[0pt]{}{}{\titlerule}{}
+% \usepackage{titletoc}
+% \contentsuse{lomassnahmen}{lomassnahmen}
+% \titlecontents{massnahmen}[0pt]{}{}{\titlerule}{}
 
 % /part ohne Seitenzahl im TOC?
 % http://mrunix.de/forums/showthread.php?t=61596
@@ -109,6 +105,7 @@
 \usepackage[AASS,stylelayout]{aass-common}
 \usepackage{aass-units}
 \usepackage{aass-fonts}
+\opt{ORG-ASBOE}{\usepackage{asboe}}
 \usepackage{aass-features}
 \usepackage{aass-text}
 \usepackage{aass-layout}
@@ -482,88 +479,6 @@ $\ifcase#1\or\alpha\or\beta\or\gamma\or\delta\or\varepsilon\or\zeta\or\eta\or\th
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Bibliographie
 
-% Bibliographie-Stile babxxx unterstützen internationale Bibliographien, Paket
-% 'babelbib'.
-% Die Sprache muss in BibTeX-Datei im Feld 'language' stehen (dzt. erlaubt:
-% english, german, ngerman). Die entsprechende Sprache muss in babel geladen
-% worden sein.
-% \bibliographystyle{babunsrt-fl}
-\bibliographystyle{babunsrt}
-% \bibliographystyle{bababbrv-fl}
-% \bibliographystyle{babalpha}
-% \bibliographystyle{abbrvnat}
-% \bibliographystyle{plainnat}
-% \bibliographystyle{unsrtnat}
-% \bibliographystyle{dinat}
-% \usepackage{cite}
-\usepackage{bibentry}
-% \nobibliography*
-\usepackage[
-% round, % (default) for round parentheses;
-square, % for square brackets;
-% curly, % for curly braces;
-% angle, % for angle brackets;
-% colon, % (default) to separate multiple citations with colons;
-% comma, % to use commas as separaters;
-% authoryear, % (default) for author-year citations;
-numbers, % for numerical citations;
-% super, % for superscripted numerical citations, as in Nature;
-% sort, % orders multiple citations into the sequence in which they appear in the
-% % list of references;
-sort&compress, % as sort but in addition multiple numerical citations are compressed if possible ;
-% longnamesfirst, % makes the first citation of any reference the equivalent of
-% % the starred variant (full author list) and subsequent citations normal (abbreviated list);
-% sectionbib, % redefines \thebibliography to issue \section* instead of
-% % \chapter*; valid only for classes with a \chapter command; to be used with the chapterbib package;
-% nonamebreak, % keeps all the authors' names in a citation on one line; causes
-% % overfull hboxes but helps with some hyperref problems.
-]{natbib}
-\renewcommand{\citenumfont}[1]{\sffamily\small#1}
-% \renewcommand{\citenumfmt}[1]{\sffamily\textbf{#1}:}
-\renewcommand{\bibnumfmt}[1]{\sffamily\textbf{#1}:}
-\newcommand{\textbfit}[1]{\textbf{\textit{#1}}}
-\setbibliographyfont{title}{\textbfit}
-\setbibliographyfont{journal}{\textsc}
-
-
-% \setcitestyle{
-% super,
-% open={\sffamily\tiny[},
-% close={\sffamily\tiny]},
-% comma,
-% % aysep={~},
-% notesep={text}
-% }
-
-% \usepackage[sectionbib]{chapterbib} % Literaturverzeichnisse für Kapitel
-% 
-% % \ChapterBibliography muss in der jeweiligen Kapiteldatei aufgerufen werden
-% % um dort ein entsprechend formatiertes Literaturverzeichnis zu erstellen.
-% \newcommand{\ChapterBibliography}
-% 	{\bibliographystyle{babunsrt-fl}
-% 	    {
-%     \loadgeometry{FullPage}\twocolumn
-% %     \sffamily\itshape
-% %       \begin{multicols}{2}
-% 
-%         \scriptsize
-%         \setlength{\parskip}{1pt}
-%         \bibliography{Literatur-AASS}
-% %       \end{multicols}
-% 
-% 
-%     \restoregeometry
-%     }
-% %    \end{WidePar}
-%    \onecolumn
-% % 	\begin{multicols}{2}
-% %     	{
-% %     		\scriptsize
-% %     		\setlength{\parskip}{1pt}
-% %     		\bibliography{./Literatur-AASS}
-% %     	}
-% %     \end{multicols}
-%  	}
 
 \newcommand{\ChapterBibliography}{\relax}
 

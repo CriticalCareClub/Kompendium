@@ -1,0 +1,730 @@
+\documentclass[
+ngerman,
+paper=a4,
+asymmetric,
+fontsize=10pt,
+headings=small,
+draft=false,
+% parskip=half,
+numbers=noenddot,
+% listof=totoc,         % verschiebt Minitoc/Hyperref
+% bibliography=totoc,   % verschiebt Minitoc/Hyperref
+bibtotocnumbered,
+% index=totoc,
+% noonelinecaption,
+footnotes=multiple,
+toc=flat,
+]{scrreprt}
+\setlength{\parindent}{15pt}
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+% \usepackage[ngerman]{babel}
+\usepackage{etex}
+
+\usepackage[final]{graphicx} % Bilder-Support
+
+\input{./inputs/input-optkeys}
+\input{./inputs/input-preamble}
+\input{./inputs/input-hyphenation}
+
+\makeindex
+
+\usepackage[backend=bibtex8,
+babel=other,
+defernumbers=true,
+natbib,
+sorting=none,
+sortlocale=de,
+]{biblatex}
+
+% 	\bibliography{AASS.bib}
+	\addbibresource{BiblioDB-Med-Books.bib}
+	\addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
+	\addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
+	\addbibresource{BiblioDB-Med-Links.bib}
+	\addbibresource{BiblioDB-Med-Misc.bib}
+	\renewcommand{\labelnamepunct}{\addcolon\space}
+	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
+	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+	% 
+	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+	\DeclareFieldFormat{journaltitle}{\textsc{#1}}
+	\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
+
+
+\newcommand{\Branch}[1]{\emph{#1}}
+
+\newcommand{\Neu}{\fontfamily{lmtt}\fontseries{lc}\selectfont\color{DarkGreen}}
+
+
+% \begin{itemize}
+%   \item \TabHeading{Input}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Verantwortlicher}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Mitwirkende:}
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Output}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+% \end{itemize}
+
+\title{Vorläufiges Reviewprotokoll}
+\subtitle{für die Arbeits- und Ausbildungsstandards für den
+Sanitätsdienst}
+\subject{41. Review und Iteration,\\ 2012-12-28}
+\author{\AASS}
+
+
+
+%\usepackage{lstdoc}
+\usepackage{listings}
+%\usepackage{textcomp}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% BEGIN DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\newenvironment{Beispiel}
+{\begin{tcolorbox}[title=Beispiel]
+
+}{\end{tcolorbox}}
+
+
+\begin{document}
+ 
+\lstset{% general command to set parameter(s)
+language=[LaTeX]TeX,
+%language=C,
+extendedchars=true,
+inputencoding=utf8,
+breaklines=true;
+basicstyle=\ttfamily\small, % print whole listing small
+keywordstyle=\color{ubuntured}\bfseries\underbar,
+% underlined bold black keywords
+identifierstyle=\color{darkBlue}\bfseries, % nothing happens
+commentstyle=\color{Grey}, % white comments
+stringstyle=\ttfamily, % typewriter type for strings
+texcsstyle=\color{ubuntured},
+moretexcs={textcolor,itemhook},
+emph={
+AASS,
+ARGE,
+A,
+aCh,
+AuthorNotes,
+Ca,
+Cave,
+Definition,
+E,
+EE,
+ERROR,
+Fazit,
+H,
+Layout,
+Married,
+MarriedNG,
+MarriedLI,
+Massnahmen,
+marginpar,
+Parallel,
+T,
+TODO,
+Z,
+ZFootnote},
+emphstyle=\color{Terminus}\bfseries,
+%directivestyle=color{Red},
+showstringspaces=false,
+%morecomment=[s][\color{SandyBrown}]{\{}{\}},
+%moredelim=[s][\color{DarkViolet}]{\{}{\}},
+%morecomment=[l][\color{Grey}]{\%}
+}
+
+\dominitoc
+\maketitle
+\tableofcontents
+
+
+\chapter{Einleitung}
+
+\begin{labeling}{xxxxxxxxxxxxxxx}
+  \item[Anwesende:] ~
+  \begin{itemize}
+    \item Sebastian GABRIEL
+    \item Josef EMHOFER
+    \item Roman KOCH
+    \item Michael MOTAL
+  \end{itemize}
+  \item[Ort:] ASB 921
+  \item[Schwerpunkte:] keine
+  \item[Von:] 9e839e6b1e7ba57df12befe21a8be215e6adcd8a
+  \item[Bis:] b67d4e88dea3110369b705e1dc8cf1f9b8092904
+  \item[Anmerkungen:] --- 
+
+\end{labeling}
+
+\chapter{Maßnahmenkatalog}
+
+\begin{enumerate}
+  \item Erstellung des neuen Dokumentes für 2013
+  \item Abspülen von oberflächlichen Wunden mit
+  Leitungswasser erlaubt: 
+  
+  {
+  \Neu   Bei oberflächlichen
+  Wunden ist auch ein Abspülen unter fließendem \IX{Leitungswasser} 
+  zulässig \cite{Fernandez2012}. 
+  Wunden, die im Spital
+  weiter versorgt werden, sollen nicht übermäßig gereinigt werden, 
+  auch soll keine
+  }
+  \item APGAR-Score in Anhang (Übersicht) hinzugefügt
+\end{enumerate}
+
+\chapter{\AASS}
+
+
+\section{\CO{[ANA]}}
+\begin{enumerate}
+  \item Bilder
+  Neue Grafiken: Wirbelsäule Aufbau, Wirbelsäule Überblick,
+  Wirbel allg., Thoraxbewegungen, Pankreas, Gallengang/Gallenblase, Ohr, Mittelohr\begin{enumerate}
+    \item Wirbelsäule
+
+\noindent\Parallel{\includegraphics[width=\linewidth]{./images/hirtler-aass/Wirbelsaeule-Ueberblick.pdf}\\
+\captionof{figure}{Die Wirbelsäule.
+\SourcePicture{Hirtler}}
+}
+{\ldots}
+\item Wirbel
+
+\Layout{20}{\TxBeschreibung}
+{%
+Ein Wirbel besteht aus \ldots
+
+\vspace{5\baselineskip}
+}
+{%
+Aufbau:
+
+\ldots
+}{./images/hirtler-aass/Wirbel-allgemein.pdf}
+{Wirbel.}
+{Hirtler}
+\item Herz
+
+\Layout{20}{\TxBeschreibung}
+{%
+Das Herz ist ein etwa \ldots
+
+\vspace{15\baselineskip}
+}
+{
+\ldots
+}
+{./images/hirtler-aass/Herzvorderflaeche.pdf}{Das
+Herz.}
+{Hirtler}
+\item PNS / Rückenmark:
+
+\Layout{20}{Unterteilung nach Lage und Aufbau}
+{%
+Das periphere Nervensystem dient der Kommunikation \ldots
+
+\vspace{10\baselineskip}
+}
+{
+\ldots
+}
+{./images//hirtler-aass/WS_Aufbau.pdf}
+{\AuthNotesPicLegalOk{}{}Rückenmark
+mit abgehenden peripheren Nerven. Beachte dass die Nerven
+geordnet nach Rückenmarkssegmenten abgehen.}
+{Hirtler.}
+\item Ohr
+
+{\Neu \begin{PictureSeries}{}{Das Ohr}
+\PictureSeriesRow{2}
+{./images/hirtler-aass/Ohr.pdf}
+{Das Ohr im Querschnitt. Man sieht
+den äußeren Gehörgang, Das
+Trommelfell, die Gehörknöchelchen,
+die Schnecke und die Bogengänge. \SourcePicture{Hirtler}}
+{./images/hirtler-aass/Mittelohr.pdf} {Das Mittelohr: Im Detail sind hier
+das Trommelfell, sowie die Gehörknöchelchen Hammer, Amboss
+und Steigbügel zu sehen.
+\SourcePicture{Hirtler}}
+{}
+{}
+{}
+{}
+\end{PictureSeries}
+}
+\item Atemmechanik
+
+{\Neu
+\begin{PictureSeriesWide}{}{Atemmechanik}
+\PictureSeriesRowWide{3}
+{./images/hirtler-aass/Thorax-Diaphragma.pdf}
+{Das Diaphragma ist der wichtigste Atemmuskel und trennt
+den Brust- und Bauchraum. \SourcePicture{Hirtler}}
+{./images/hirtler-aass/Thoraxbewegung-frontal.pdf} {Bei der
+Einatmung senkt sich das Zwerchfell und der Brustkorb hebt
+sich. \SourcePicture{Hirtler}}
+{./images/hirtler-aass/Thoraxbewegungen-Rippe.pdf}
+{Die Rippen folgen der Atembewegung.
+\SourcePicture{Hirtler}}
+{}
+{}
+\end{PictureSeriesWide}
+}
+    \item Pankreas, Duodenum (Einmündung)
+    
+    \begin{PictureSeriesWide}{}{Bilderserie: Leber und
+Gallenblase}
+\PictureSeriesRowWide{3}
+{./images/wikipedia-pd/Liver_and_pangreas_-_transparent.png}
+{Leber, Gallenblase und
+Pankreas.
+\SourcePicture{WMC}}
+{./images/hirtler-aass/Gallenblase.pdf}
+{Gallengang, Gallenblase und Einmündung in den
+Zwölffingerdarm.
+\SourcePicture{Hirtler}}
+{./images/hirtler-aass/Pankreas-1.pdf}
+{Lage des Pankreas zum Zwöffingerdarm. Deutlich zu erkennen
+ist die Einmündung des Pankreas- und des Gallenganges in
+den Darm. \SourcePicture{Hirtler}}
+{empty}
+{}
+\end{PictureSeriesWide}
+  \end{enumerate}
+\end{enumerate}
+  
+  
+\section{\CO{[BAU]}}
+\begin{enumerate}
+  \item Blutzucker
+  Blutzucker Normalwert 80-100 mg/dl (vorher 80-110 mg/dl)
+  \item Traumacheck
+  Beckenuntersuchung: Becken von der Seite andrücken
+  (schmerzhaft?), nicht mehr auf das Schambein drücken, nicht
+  mehr \enquote{von oben}
+\end{enumerate}
+
+
+\section{\CO{[BLS]}}
+\begin{enumerate}
+  \item Sicherheitshinweise
+  Schockabgabe nicht auf Metallunterlagen, 8-Jahres-Grenze
+  fällt → gemäß Körpergewicht/Alter je nach
+  Herstellerangabe, Unterkühlung fällt weg
+\end{enumerate}
+
+\section{\CO{[DOK]}}
+\begin{enumerate}
+  \item Referenz lateinischer Ausdrücke
+  Referenzliste hinzugefügt: lateinsche Diagnosen für
+  Unfallchirurgie
+  
+  {\Neu Im folgenden sind häufige (lateinische) Diagnosen bzw.
+Abkürzungen als Referenz angeführt, welche man häufig auf
+unfallchirurgischen Arztbirefen und Ambukanzprotokollen
+findet.
+Eine ausführliche Aufstellung findet sich in \cite{LatDiag4}.
+
+{\small
+\begin{longtable}{p{0.3\linewidth}p{0.2\linewidth}p{0.5\linewidth}}
+\toprule\addlinespace
+\TabHeading{Bezeichnung} & \TabHeading{Abkz.} & \TabHeading{Beschreibung}
+\\\addlinespace\midrule\addlinespace\endhead
+\multicolumn{3}{c}{{\TabSub{Wund- und Verletzungsarten}}}
+\\\addlinespace\midrule\addlinespace
+Abruptio (ossea) & Abrupt. oss. &	Knöcherner Ausriß-Abriß
+\\
+Abscessus & Abscess. &	Abszeß
+\\
+Amputatio traumatica & Amput. traumat. &	Unfallbedingte Abtrennung
+\\
+Articulatio aperta & artic.apert. &	Gelenkseröffnung
+\\\addlinespace
+Bulla haemorrhagica & Bulla haemorrh &	Blutblase
+\\
+Bulla infecta & (Bulla infect.) &	infizierte Blase
+\\
+Bursa aperta & Bursa apert. &	Eröffnung des Schleimbeutels
+\\
+Bursitis  & &	Schleimbeutelentzündung
+\\
+Bursitis purulenta  & &	eitrige ~
+\\\addlinespace
+Cauterisatio   & cauteris. &	Verätzung
+\\
+Combustio gradus \ldots  & Comb. grad. \ldots &	Verbrennung {\ldots} Grades
+\\
+Congelatio  & Congel. &	Erfrierung
+\\
+Contusio  & Cont. &	Prellung, Quetschung
+\\
+Corpus alienum  & Corp.alien. &	Fremdkörper
+\\
+~ ligneum,ferreum,vitreum &  &	Holz-Eisen-Glasfremdkörper
+\\
+Corpus liberum  & &	Freier Gelenkskörper
+\\\addlinespace
+Decollement  & &	Hautabscherung
+\\
+Defectus cutis  & Defect. cutis &	Hautverlust
+\\
+Discissio & Disciss. &	Durchtrennung
+\\
+Discissio nervi  & &	Burchtrennung des Nervs ( an den Fingern numeriert von 1 – 10 beginnend von der radialen Daumenseite )
+\\
+Distorsio  & Dist. &	Zerrung
+\\\addlinespace
+Empyema articulare  & &	Gelenkseiterung
+\\
+Enucleatio traumatica  & &	Auslösung im Gelenk
+\\
+Epidermiolysis  & Epidermiol. &	Ablederung der oberen Haut
+\\
+Epiphysiolysis  & Epiphys. &	Wachstumsfugenlösung
+\\
+Excoriatio  & Excor. &	Hautabschürfung
+\\\addlinespace
+Fissura &  Fiss. &	Sprung des Knochens
+\\
+Fistula  & &	Fistel
+\\
+Fractura  & Fract. &	Bruch des Knochens
+\\
+Fractura aperta  & Fract. apert. &	offener Bruch
+\\
+Fractura comminuta  & &	Trümmerbruch
+\\
+Fractura duplex/triplex  & &	zwei/dreifacher Bruch
+\\
+Fractura epiphysis  & &	Bruch der Epiphyse
+\\
+Fractura subperiostalis  & &	Grünholzbruch
+\\\addlinespace
+Hämarthros  & &	Bluterguß im Gelenk
+\\
+Hämatoma  & &	Bluterguß
+\\
+Hydrops  & &	Erguß im Gelenk
+\\\addlinespace
+Inflammatio  & &	Hautrötung,Entzündung
+\\\addlinespace
+Laesio cartilaginis  & Laes. cartilag. &	Verletzung des Knorpels
+\\
+Laesio nervi   & Laes. nerv. &	Verletzung des Nervs
+\\
+Luxatio   & Lux. &	Verrenkung
+\\
+Luxatio et fractura  & Luxfract. &	Verrenkungsbruch
+\\
+Lyphangitis-adenitis  & &	Lymphbahn-knotenentzündung
+\\\addlinespace
+Necrosis cutis  & &	abgestorbene Haut
+\\\addlinespace
+Panaritium subcutaneum  & &	Eiterung des Unterhautfettgewebes an Fingern oder Zehen
+\\
+Panaritium tendineum  & &	eitrige Sehnenscheidenentz.
+\\
+Paralysis nervi (plexus \ldots)  & &	Lähmung
+\\
+Paresis nervi \ldots  & &	Teillähmung
+\\
+Paronychia  & &	Nagelbettentzündung
+\\\addlinespace
+Phlegmona  & &	Phlegmone
+\\
+Refractura  & Refract. &	Neuerlicher Bruch im Bereich eines alten Bruches
+\\
+Ruptura  & Rupt. &	Riß, Zerreißung
+\\
+Ruptura syndesmosis & &	Syndesmosenzerreißung
+\\\addlinespace
+Seroma  & &	Erguß seröser Flüssigkeit
+\\
+Subluxatio  & Sublux. &	Teilverrenkung
+\\
+Supraarticularis  & supraartic. &	über dem Gelenk
+\\\addlinespace
+Vulnus ictum  & V. ict. &	Stichwunde
+\\
+Vulnus lacero-contusum  & Vlc. &	Rißquetschwunde
+\\
+Vulnus morsum (animalis) & V. mors. anim. &	Tierbiß
+\\
+Vulnus morsum hominis  & &	Menschenbiß
+\\
+Vulnus perforans  & &	Durchdringende Stichwunde
+\\
+Vulnus scissum  & V. sciss. &	Schnittwunde
+\\
+Vulnus sclopetarium  & V. sclopet. &	Schußwunde
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{{\TabSub{Zusätze}}}
+\\\addlinespace\midrule\addlinespace
+Recens  &  rec. &	frisch (nur bei Unterscheidung gegen ältere Verletzungen anführen)
+\\
+Non recens  & non rec. &	nicht frisch, Bei bereits sichtbar infizierten oder über 8 Stunden alten Wunden oder offenen Brüchen. Nach 24 Stunden bei geschlossenen Brüchen wenn starke Schwellung etc. einen Risikofaktor der operativen Behandlung darstellen.
+\\
+infectus,~a,~um  & &	infiziert
+\\
+Inveteratus  & invet. &	veraltet
+\\
+Apertus  & apert. &	offen
+\\
+ossea sanata  & oss. san. &	knöchern geheilt
+\\
+Repositus  & repos. &	eingerichtet, reponiert
+\\
+Utriusque  & utr. &	rechts und links
+\\
+Bilateralis  & bilat. &	beiderseitig an einer Extremität (d.h. innen und aussen, radial und ulnar etc.)
+\\
+Operatus  & operat. &	operiert
+\\
+Suturatus  & suturat. &	genäht
+\\
+Fixatus  & fixat. &	ruhiggestellt im Gips
+\\
+signum interrogationis 	 & s. i.& fraglich, Zusatz bei unsicherer Diagnose
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{{\TabSub{Richtungs- und Seitenangaben}}}
+\\\addlinespace\midrule\addlinespace
+Dexter, -tra, -trum
+&
+Dext.
+&
+Rechts
+\\
+Sinister, -tra, -trum
+&
+Sin.
+&
+Links
+\\
+Utriusque
+&
+Utr.
+&
+Rechts und links
+\\
+Bilateralis, -e
+&
+Bilat.
+&
+Beidseitig an einer Extremität oder am Stamm
+\\
+Dorsalis, -e
+&
+Dors.
+&
+Streckseitig
+\\
+Palmaris, -e
+&
+Palm.
+&
+Beugeseitig an der Hand, hohlhandseitig
+\\
+Plantaris, -e
+&
+Plant.
+&
+Beugeseitig am Fuß
+\\
+Ulnaris, -e/Medialis, -e
+&
+Uln./Med.
+&
+Innenseitig
+\\
+Radialis, -e/Lateralis, -e
+&
+Rad./Lat.
+&
+Außenseitig
+\\
+Proximalis, -e
+&
+Prox.
+&
+Körpernahe
+\\
+Distalis, -e
+&
+Dist.
+&
+Körperfern
+\\
+Cranialis, -e
+&
+Cran.
+&
+Kopfwärts
+\\
+Caudalis, -e
+&
+Caud.
+&
+Fußwärts
+\\
+\end{longtable}
+}
+  }
+\end{enumerate}
+
+\section{\CO{[EHI]}}
+\begin{enumerate}
+  \item Helmabnahme
+  Helm kippen (nicht abziehen)
+  \item Schmerzreiz
+  Professioneller Helfer ja, Laienhelfer nein
+\end{enumerate}
+
+
+\section{\CO{[GYN]}}
+\begin{enumerate}
+  \item Neugeborenes
+  APGAR-Score hinzugefügt
+  
+  {\Neu \Layout{0}
+  {Apgar-Score}
+  {Der \I{Apgar-Score} ist nach Virginia Apgar
+  benannt und ist ein Punkteschema zur Beurteilung von
+  Neugeborenenen. Die Bestimmung erfolgt 1, 5 und 10 Minuten
+  nach der Geburt. Die optimale Punktzahl für Neugeborene sind
+  \Range{9}{10} Punkte. \Z{Bei Wertungen zwischen \Range{5}{8}
+  gilt das Neugeborene als gefährdet, unter 5 als akut
+  lebensgefährdet. Für die weitere Behandlung ist jedoch der
+  klinische Zustand entscheidend, nicht der Apgar-Score.}
+  \Cave{Die Versorgung des Neugeborenen hat absoluten Vorrang
+  vor der Erhebung des Apgar-Score!}
+  }
+  {
+  \begin{itemize}
+    \item Punkteschema zur Beurteilung von
+    Neugeborenenen
+    \item Max. \Range{9}{10} Punkte
+  \end{itemize}
+  }
+  {}
+  {}
+  {}
+  
+  \Layout{57}
+  {}
+  {}
+  {}
+  {\Z{\begin{tabularx}{\linewidth}{XXXX}
+\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Kriterium} & \noindent\TabHeading{0 Punkte} & \noindent\TabHeading{1 Punkt} & \noindent\TabHeading{2 Punkte}
+\\\addlinespace\midrule\addlinespace
+\noindent\TabSub{Herzfrequenz} & unter 60\PerMin* & \Range{60}{99}\PerMin* & über 100\PerMin*
+\\\addlinespace
+\noindent\TabSub{Atemanstrengung} & keine & unregelmäßig, flach &  regelmäßig, Kind schreit
+\\\addlinespace
+\noindent\TabSub{Reflexe} & keine & Grimassieren &  kräftiges Schreien
+\\\addlinespace
+\noindent\TabSub{Muskeltonus} & schlaff & leichte Beugung der Extremitäten & aktive Bewegung der Extremitäten
+\\\addlinespace
+\noindent\TabSub{(Haut-) Farbe} & blau, blass & Stamm rosig, Extremitäten blau & gesamter Körper rosig
+\\\addlinespace\bottomrule\addlinespace
+\end{tabularx}
+}}
+{Apgar-Score}
+{}
+
+}
+\end{enumerate}
+
+\section{\CO{[HYG]}}
+\begin{enumerate}
+    \item Desinfektion
+Desinfektion mittels Einlegebad nur mehr in Ausnahmefällen
+empfohlen
+
+{\Neu Es handelt sich hierbei um eine schlechte
+Möglichkeit zur Desinfektion, da der Erfolg der Desinfektion
+von vielen variablen Faktoren abhängt und eine
+zufriedenstellende Leistung kaum sichergestellt werden kann
+(nicht validierbares Verfahren). Sie ist daher nur dann zulässig,
+wenn eine geringe Infektionsgefahr besteht und keine andere
+Methode sinnvoll durchführbar ist.}
+\end{enumerate}
+
+\section{\CO{[SAN]}}
+\begin{enumerate}
+    \item Beinschiene
+DMS-Kontrolle nach dem Anlegen hinzugefügt
+\end{enumerate}
+
+\section{\CO{[STW]}}
+\begin{enumerate}
+  \item Blutzucker
+  Blutzucker Normalwert 80-100 mg/dl (vorher 80-110 mg/dl)
+\end{enumerate}
+  
+\section{\CO{[TOX]}}
+\begin{enumerate}
+  \item Ecstacy
+  Ecstacy: Flüssigkeitsmangel hinzugefügt
+  
+  {\Neu bestehen. Häufig kommt es auch zum
+\I[Flüssigkeitsmangel!Ecstacy]{Flüssigkeitsmangel}
+(\I[Dehydratation!Ecstacy]{Dehydratation}) aufgrund, da der
+Patient einerseits auf das Trinken vergisst, und
+andererseits i.\,d.\,R. körperlich aktiv ist und dabei durch
+Schwitzen viel Flüssigkeit verliert.
+  }
+\end{enumerate}
+  
+\section{\CO{[TRA]}}
+\begin{enumerate}
+  \item Stromunfall
+  gekürzt und vereinfacht → Orientierung an den Symptomen und
+  nicht an den (in der Praxis unbekannten) Faktoren Höhe der
+  Spannung, Stromstärke, Einwirkzeit, Weg des Stromes,
+  Stromart, Kontaktwiderstand, ...
+\end{enumerate}
+
+\chapter{Diskussion}
+\begin{enumerate}
+  \item Es wurde vom Koll. HERMANEK ein annotiertes PDF
+  übermittelt, die Änderungen wurden durchgeschaut. Wo
+  möglich werden Änderungen noch für das nächste Release
+  eingearbeitet.
+\end{enumerate}
+
+
+
+
+
+
+\printindex
+
+
+
+
+
+
+
+
+\end{document}

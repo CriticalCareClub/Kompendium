@@ -4109,7 +4109,6 @@ Maßnahmen}{Stromunfälle}{\label{m:stromunfall}}
 
 
 
-
 % \appendix
 % {\WideParBegin}
 % \part{Appendix}
@@ -4133,41 +4132,16 @@ Maßnahmen}{Stromunfälle}{\label{m:stromunfall}}
 % \opt{STATUS-WITH-BIBLIO}{{\setlength{\parskip}{0pt}\bibliography{Literatur-AASS}}}
 {\loadgeometry{FullPage}\twocolumn\setlength{\parskip}{0pt}\cleardoublepage\printbibliography\restoregeometry\twocolumn}
 
-\appendix
 
-% \chapter{Übersichten und Tabellen}
+
+
 
 
 
 \pagestyle{empty}\loadgeometry{WholePage}
 \small\flushleft
-\input{./chapters/inc-APP}
 
-
-
-\Layout{57}
-{}
-{}
-{}
-{\small{\begin{tabularx}{\linewidth}{XXXX}
-\addlinespace\toprule\addlinespace
-\noindent\TabHeading{Kriterium} & \noindent\TabHeading{0 Punkte} & \noindent\TabHeading{1 Punkt} & \noindent\TabHeading{2 Punkte}
-\\\addlinespace\midrule\addlinespace
-\noindent\TabSub{Herzfrequenz} & unter 60\PerMin* & \Range{60}{99}\PerMin* & über 100\PerMin*  
-\\\addlinespace
-\noindent\TabSub{Atemanstrengung} & keine & unregelmäßig, flach &  regelmäßig, Kind schreit
-\\\addlinespace
-\noindent\TabSub{Reflexe} & keine & Grimassieren &  kräftiges Schreien
-\\\addlinespace
-\noindent\TabSub{Muskeltonus} & schlaff & leichte Beugung der Extremitäten & aktive Bewegung der Extremitäten 
-\\\addlinespace
-\noindent\TabSub{(Haut-) Farbe} & blau, blass & Stamm rosig, Extremitäten blau & gesamter Körper rosig 
-\\\addlinespace\bottomrule\addlinespace
-\end{tabularx}
-}}
-{Apgar-Score}
-{}
-
+\chapter{Übersichten und Tabellen}
 
 
 \Layout{57}{}{}{}{
@@ -4573,6 +4547,246 @@ Verschiedene gefährliche Stoffe und Gegenstände &
 }
 {\EE{Gefahrenklassen} und ausgewählte Symbole
 (Gefahrenzettel), nach \citep{ADR2011}} {}
+
+
+\begin{WidePar}
+\begin{center}
+\vfill
+\includegraphics[height=.9\textheight]{./images/emhofer-josef-aass/BLS}
+\vfill
+\Captionof{figure}{Basic Life Support mit AED\index{Basic Life Support}\index{BLS|see{Basic Life Support}}}
+\end{center}
+\end{WidePar}
+
+\begin{WidePar}
+\begin{center}
+\includegraphics[height=.9\textheight]{./images/emhofer-josef-aass/ALS}
+\vfill
+\Captionof{figure}{Advanced Life Support mit AED\index{Advanced Life Support}\index{ALS|see{Advanced Life Support}}}
+\end{center}
+\end{WidePar}
+
+\begin{WidePar}
+\begin{center}
+\includegraphics[height=.9\textheight]{./images/emhofer-josef-aass/PLS}
+\vfill
+\Captionof{figure}{Pediatric Life Support mit AED\index{Pediatric Life Support}\index{PLS|see{Pediatric Life Support}}}
+\end{center}
+\end{WidePar}
+
+
+\Layout{57}{}{}{}{
+\begin{tabularx}{\linewidth}{llXXXXXXX}%
+\addlinespace\toprule\addlinespace
+\noindent
+&
+&
+\noindent\TabHeading{NG}
+&
+\noindent\TabHeading{Sg}
+&
+\noindent\TabHeading{KK}
+&
+\noindent\TabHeading{SK}
+&
+\noindent\TabHeading{Ju}
+&
+\noindent\TabHeading{Erw \Male}
+&
+\noindent\TabHeading{Erw \Female}
+\\\addlinespace\midrule\addlinespace
+\TabSub{RR\textsubscript{sys}}
+&
+[\MetricUnit{mmHg}]
+&
+75\nocite{Soehnke200607}\nocite{Lissauer2007}
+&
+\VonBis{80}{90}\nocite{Soehnke200607}
+&
+95\nocite{Lissauer2007}
+&
+\VonBis{100}{110}\nocite{Soehnke200607}\nocite{Lissauer2007}
+&
+120\nocite{Soehnke200607}
+&
+\VonBis{100}{140}\nocite{Soehnke200607}
+&
+$\hookleftarrow$
+\\\addlinespace
+\TabSub{HF} 
+&
+[\PerMin]
+&
+\VonBis{140}{180}
+&
+\VonBis{110}{160}\nocite{Lissauer2007}
+&
+\VonBis{95}{140}\nocite{Lissauer2007}
+&
+\VonBis{80}{120}\nocite{Lissauer2007}
+&
+\VonBis{60}{100}\nocite{Lissauer2007}
+&
+\VonBis{60}{100}
+&
+$\hookleftarrow$
+\\\addlinespace\midrule\addlinespace
+\TabSub{AF} 
+&
+[\PerMin]
+&
+\VonBis{30}{50}\nocite{Lissauer2007}
+&
+\VonBis{20}{30}\nocite{Lissauer2007}
+&
+\VonBis{20}{30}\nocite{Lissauer2007}
+&
+\VonBis{15}{20}\nocite{Lissauer2007}
+&
+\VonBis{14}{20}
+&
+\VonBis{12}{16}
+&
+$\hookleftarrow$
+% \\\addlinespace
+% \TabSub{AZV} 
+% &
+% [\nicefrac{\Ml}{\Kg}]
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+\\\addlinespace
+\TabSub{AZV}\footnote{Bezogen auf Normalgewicht, \E{nicht}
+auf Ist-Gewicht!} 
+&
+[\Ml]
+&
+\VonBis{20}{30}\nocite{LutomskyLeitRett3}
+&
+40\,--\,55\,--\,80\nocite{LutomskyLeitRett3}
+&
+\VonBis{80}{180}\nocite{LutomskyLeitRett3}
+&
+\VonBis{240}{350}\nocite{LutomskyLeitRett3}
+&
+500\nocite{LutomskyLeitRett3}
+&
+800\nocite{LutomskyLeitRett3}
+&
+700\nocite{LutomskyLeitRett3}
+% \\\addlinespace
+% \TabSub{AMV} 
+% &
+% [\nicefrac{\Liter}{\Min}]
+% &
+% \VonBis{600}{1500}
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+\\\addlinespace\midrule\addlinespace
+\TabSub{BZ}\footnote{nüchtern}
+&
+[\MgDl]
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+\VonBis{80}{100}\nocite{WHO2006Diabetes}
+&
+$\hookleftarrow$
+\\\addlinespace
+\TabSub{Sp\ce{O2}}
+&
+[\PC]
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+\VonBis{95}{100}
+&
+$\hookleftarrow$
+\\\addlinespace
+\TabSub{Temp}\footnote{Körperkerntemperatur}
+&
+[\DegC]
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+37
+&
+$\hookleftarrow$
+\\\addlinespace\bottomrule
+\end{tabularx}
+}{Übersicht Normalwerte}{}
+
+\Layout{57}
+{}
+{}
+{}
+{\small{\begin{tabularx}{\linewidth}{XXXX}
+\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Kriterium} & \noindent\TabHeading{0 Punkte} & \noindent\TabHeading{1 Punkt} & \noindent\TabHeading{2 Punkte}
+\\\addlinespace\midrule\addlinespace
+\noindent\TabSub{Herzfrequenz} & unter 60\PerMin* & \Range{60}{99}\PerMin* & über 100\PerMin*  
+\\\addlinespace
+\noindent\TabSub{Atemanstrengung} & keine & unregelmäßig, flach &  regelmäßig, Kind schreit
+\\\addlinespace
+\noindent\TabSub{Reflexe} & keine & Grimassieren &  kräftiges Schreien
+\\\addlinespace
+\noindent\TabSub{Muskeltonus} & schlaff & leichte Beugung der Extremitäten & aktive Bewegung der Extremitäten 
+\\\addlinespace
+\noindent\TabSub{(Haut-) Farbe} & blau, blass & Stamm rosig, Extremitäten blau & gesamter Körper rosig 
+\\\addlinespace\bottomrule\addlinespace
+\end{tabularx}
+}}
+{Apgar-Score}
+{}
+
+
+
+
 
 
 SO LONG.......... AND THANKS FOR ALL THE FISH

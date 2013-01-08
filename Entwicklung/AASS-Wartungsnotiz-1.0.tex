@@ -1,0 +1,279 @@
+\documentclass[
+ngerman,
+paper=a4,
+asymmetric,
+fontsize=10pt,
+headings=small,
+draft=false,
+openany,
+% parskip=half,
+numbers=noenddot,
+% listof=totoc,         % verschiebt Minitoc/Hyperref
+% bibliography=totoc,   % verschiebt Minitoc/Hyperref
+bibtotocnumbered,
+% index=totoc,
+% noonelinecaption,
+footnotes=multiple,
+toc=flat,
+]{scrreprt}
+\setlength{\parindent}{15pt}
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+% \usepackage[ngerman]{babel}
+\usepackage{etex}
+
+\usepackage[final]{graphicx} % Bilder-Support
+
+\input{./inputs/input-optkeys}
+\input{./inputs/input-preamble}
+\input{./inputs/input-hyphenation}
+\input{./inputs/input-docinfo-Wartungsnotiz-1.0.tex}
+
+\usepackage[markup=underlined,ulem=normalem]{changes}
+% \def\added{}
+% \def\deleted{}
+% \def\replaced{}
+\makeindex
+
+\usepackage[backend=bibtex8,
+babel=other,
+defernumbers=true,
+natbib,
+sorting=none,
+sortlocale=de,
+]{biblatex}
+
+% 	\bibliography{AASS.bib}
+	\addbibresource{BiblioDB-Med-Books.bib}
+	\addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
+	\addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
+	\addbibresource{BiblioDB-Med-Links.bib}
+	\addbibresource{BiblioDB-Med-Misc.bib}
+	\renewcommand{\labelnamepunct}{\addcolon\space}
+	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
+	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+	% 
+	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+	\DeclareFieldFormat{journaltitle}{\textsc{#1}}
+	\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
+
+
+\newcommand{\Branch}[1]{\emph{#1}}
+
+\newcommand{\Neu}{\fontfamily{lmtt}\fontseries{lc}\selectfont\color{DarkGreen}}
+
+
+% \begin{itemize}
+%   \item \TabHeading{Input}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Verantwortlicher}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Mitwirkende:}
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Output}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+% \end{itemize}
+
+\title{Wartungsnotiz}
+\subtitle{für die Arbeits- und Ausbildungsstandards für den
+Sanitätsdienst}
+\subject{Versionslinie 1.0}
+\author{\AASS}
+
+
+
+%\usepackage{lstdoc}
+% \usepackage{listings}
+%\usepackage{textcomp}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% BEGIN DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\newenvironment{Beispiel}
+{\begin{tcolorbox}[title=Beispiel]
+
+}{\end{tcolorbox}}
+
+
+\usepackage{xr}						% Maßnahmenkatalog: Referenzen zu ext. Dokument
+	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2013-var1-Archiv}}
+	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2013-var2-Archiv}}
+	\opt{VAR-VAR1}{\externaldocument[AASS-]{AASS-1.0-var1-Archiv}}
+	\opt{VAR-VAR2}{\externaldocument[AASS-]{AASS-1.0-var2-Archiv}}
+
+
+\begin{document}
+ 
+\newgeometry{verbose,
+a4paper,
+asymmetric,
+reversemarginpar,
+rmargin=13mm,
+lmargin=13mm,
+top    = 20mm,
+bottom = 15mm,
+marginparwidth = 0mm,
+footskip = 5mm,
+bindingoffset=1.5cm}
+\savegeometry{FullPage}
+\newgeometry{verbose,
+a4paper,
+asymmetric,
+reversemarginpar,
+rmargin=13mm,
+lmargin=13mm,
+top    = 8mm,
+bottom = 8mm,
+marginparwidth = 0mm,
+footskip = 5mm,
+bindingoffset=1.5cm}
+\savegeometry{WholePage}
+\restoregeometry
+\begin{titlepage}
+\loadgeometry{FullPage}\thispagestyle{empty}
+\input{./inputs/input-cover-front-Wartungsnotiz.tex}
+\end{titlepage}
+% \dominitoc
+
+% \tableofcontents
+% \listofchanges
+
+
+% \chapter{Einleitung}
+
+% \begin{labeling}{xxxxxxxxxxxxxxx}
+%   \item[Anwesende:] ~
+%   \begin{itemize}
+%     \item Sebastian GABRIEL
+%     \item Josef EMHOFER
+%     \item Roman KOCH
+%     \item Michael MOTAL
+%   \end{itemize}
+%   \item[Ort:] ASB 921
+%   \item[Schwerpunkte:] keine
+%   \item[Von:] 9e839e6b1e7ba57df12befe21a8be215e6adcd8a
+%   \item[Bis:] b67d4e88dea3110369b705e1dc8cf1f9b8092904
+%   \item[Anmerkungen:] --- 
+% 
+% \end{labeling}
+
+\chapter{Maßnahmenkatalog {\VarMkatalogVersion}}
+
+\begin{table}[H]
+\Captionof{table}{Übersicht der von Änderungen betroffenen
+Maßnahmen}
+
+\begin{WidePar}
+\begin{longtable}{p{0.1\linewidth}p{0.2\linewidth}p{0.3\linewidth}p{0.4\linewidth}}
+\toprule\addlinespace
+\TabHeading{Varianten} & \TabHeading{Nummer} & \TabHeading{Titel} & \TabHeading{Anmerkung} 
+\\\addlinespace\midrule\addlinespace\endhead
+1, 2 			& \FullPrettyRef{MK-m:plazentaloesung} 		&	Vorzeitige Plazentalösung & Transportpriorität
+\\\addlinespace
+1, 2 			& \FullPrettyRef{MK-m:uterusruptur} 		&	Uterusruptur & Transportpriorität
+\\\addlinespace\bottomrule\addlinespace
+\end{longtable}
+
+\end{WidePar}
+
+\end{table}
+
+\begin{enumerate}
+  \item \SlideHeading{Transportpriorität bei bestimmten geburtshilflichen Notfällen}
+  Bei bestimmten schwerwiegenden Komplikationen in der
+  Spätschwangerschaft und während der Geburt (starke
+  Blutungen: Verdacht auf Placenta praevia, vorzeitige
+  Plazentalösung oder Uterusruptur; Vorfall von kindlichen
+  Teilen während der Geburt)
+soll nicht mehr auf den Notarzt gewartet werden, sondern
+nach dem \enquote{load and go}-Prinzip verfahren werden.
+Ggfs.
+kann ein Rendezvous über die Leitstelle(n) ausgemacht
+werden, der Transport darf aber nicht verzögert werden.
+Die normale zu erwartende Haus- oder Wagengeburt bleibt
+weiterhin eine Indikation zur Notarzt-Nachforderung.
+
+Daher kommt es zu folgenden Anpassungen:
+ 
+\begin{enumerate}
+  \item  \SlideHeading{Vorzeitige
+  Plazentalösung} \FullPrettyRef{MK-m:plazentaloesung}
+  
+  \E{Der neue Text lautet:}
+  \begin{itemize}
+    \item %\TxMassVitMKBes
+    Standardmaßnahmen bei vital bedrohten Patienten, Besonderheiten:
+    \begin{itemize}
+      \item \added{\Ca{Zeitkritisch!}}
+      \item \added{\Ca{Notarztnachforderung nur wenn Stabilisierung
+      notwendig}}
+      \item Lagerung: sterile Vorlage und Lagerung nach Fritsch.
+      \item Schockbekämpfung
+    \end{itemize}
+    \item Keine vaginale Untersuchung oder  Scheidentamponade
+    \item Zügiger Transport mit Voranmeldung
+  \end{itemize}
+  \item \SlideHeading{Uterusruptur} \FullPrettyRef{MK-m:uterusruptur}
+  
+  \E{Der neue Text lautet:}
+  \begin{itemize}
+	\item
+    Standardmaßnahmen bei vital bedrohten Patienten, Besonderheiten:
+    \begin{itemize}
+      \item \added{\Ca{Zeitkritisch!}}
+      \item \added{\Ca{Notarztnachforderung nur wenn Stabilisierung
+      notwendig}}
+    \end{itemize}
+	\item Schockbekämpfung
+	\item Lagerung: Fritsch, Beine hoch
+\end{itemize}
+\item 
+  
+  \end{enumerate}
+   
+\end{enumerate}
+
+\chapter{{\AASS} \VarAassVersion}
+
+Derzeit keine Einträge.
+
+% \section{\CO{[Gyn]}}
+% \begin{enumerate}
+%   \item
+%   \item 
+% \end{enumerate}
+% 
+% \chapter{Diskussion}
+% \begin{enumerate}
+%   \item 
+% \end{enumerate}
+% 
+% 
+
+
+
+
+\printindex
+
+
+
+
+
+
+
+
+\end{document}

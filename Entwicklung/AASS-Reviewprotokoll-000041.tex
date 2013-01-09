@@ -68,6 +68,7 @@ sortlocale=de,
 % \def\replaced{}
 
 \newcommand{\Neu}{\fontfamily{lmtt}\fontseries{lc}\selectfont\color{DarkGreen}}
+\newcommand{\ChangeHeading}[1]{\SlideHeading{#1}\addcontentsline{toc}{subsubsection}{#1}}
 
 % \begin{itemize}
 %   \item \TabHeading{Input}:
@@ -88,7 +89,7 @@ sortlocale=de,
 %   \end{enumerate}
 % \end{itemize}
 
-\title{Vorläufiges Reviewprotokoll}
+\title{Reviewprotokoll}
 \subtitle{für die Arbeits- und Ausbildungsstandards für den
 Sanitätsdienst}
 \subject{41. Review und Iteration,\\ 2012-12-28}
@@ -96,11 +97,11 @@ Sanitätsdienst}
 
 
 \newcommand{\VarDocTitle}{Vorläufiges Reviewprotokoll}
-% \renewcommand{\DocTitle}{Reviewprotokoll}
+\renewcommand{\VarDocTitle}{Reviewprotokoll}
 \newcommand{\VarIterationNr}{41}
 \newcommand{\VarReviewDate}{2012-12-28}
 \newcommand{\DocVersionInfo}{IN ARBEIT}
-% \renewcommand{\DocVersionInfo}{FREIGEGEBEN}
+\renewcommand{\DocVersionInfo}{FREIGEGEBEN}
 
 \usepackage{datetime}
 
@@ -119,6 +120,7 @@ Sanitätsdienst}
 
 \setkomafont{labelinglabel}{\normalfont\bfseries}
 \begin{document}
+\MultiColListStart{toc}{2}
  
 \lstset{% general command to set parameter(s)
 language=[LaTeX]TeX,
@@ -200,34 +202,46 @@ bindingoffset=1.5cm}
 \input{./inputs/input-cover-front-Reviewprotokoll.tex}
 \end{titlepage}
 \dominitoc
-\tableofcontents
+\addchap{Einleitung}
 
-
-\chapter{Einleitung}
-
-\begin{labeling}{xxxxxxxxxxxxxxx}
-  \item[Anwesende:] ~
+\begin{labeling}[:]{xxxxxxxxxxxxxxxxx}
+  \item[Anwesende] ~
   \begin{itemize}
-    \item Sebastian GABRIEL
-    \item Josef EMHOFER
-    \item Roman KOCH
-    \item Michael MOTAL
+    \item Sebastian \caps{Gabriel}
+    \item Josef \caps{Emhofer}
+    \item Roman \caps{Koch}
+    \item Michael \caps{Motal}
   \end{itemize}
-  \item[Ort:] ASB 921
-  \item[Schwerpunkte:] keine
-  \item[Von:] 9e839e6b1e7ba57df12befe21a8be215e6adcd8a
-  \item[Bis:] b67d4e88dea3110369b705e1dc8cf1f9b8092904
-  \item[Anmerkungen:] --- 
+  \item[Reviewkoordinator] Josef \caps{Emhofer}, Sebastian \caps{Gabriel}
+  \item[Ort] ASB 921
+  \item[Schwerpunkte] Releaseplanung 1.0
+  \item[Repository] Git Version 0
+  \item[Von Commit \#] 9e839e6b1e7ba57df12befe21a8be215e6adcd8a
+  \item[Bis Commit \#] b67d4e88dea3110369b705e1dc8cf1f9b8092904
+  \item[Anmerkungen] Es wurden nach dem Review noch Änderungen durchgeführt, diese werden extra ausgwiesen.   
+  
+  Es wurde vom Koll. \caps{Hermanek} ein annotiertes PDF
+  übermittelt, die Änderungen wurden durchgesehen. Wo
+  möglich wurden Änderungen noch für das nächste Release
+  eingearbeitet. 
 
 \end{labeling}
+\begin{WidePar}\small
+\setcounter{tocdepth}{3}
+\tableofcontents
+\end{WidePar}
+
+
+
+
 
 \chapter{\AASS}
 
 \section{Änderungen vor dem Review}
 
-\subsection{\CO{[ANA]}}
+\ItemHeading[\addcontentsline{toc}{subsection}{\CO{[ANA]}}]{\texttt{[ANA]}}
 \begin{enumerate}
-  \item Bilder
+  \item \ChangeHeading{Bilder}
   Neue Grafiken: Wirbelsäule Aufbau, Wirbelsäule Überblick,
   Wirbel allg., Thoraxbewegungen, Pankreas, Gallengang/Gallenblase, Ohr, Mittelohr\begin{enumerate}
     \item Wirbelsäule
@@ -237,7 +251,7 @@ bindingoffset=1.5cm}
 \SourcePicture{Hirtler}}
 }
 {\ldots}
-\item Wirbel
+\item \ChangeHeading{Wirbel}
 
 \Layout{20}{\TxBeschreibung}
 {%
@@ -301,13 +315,13 @@ und Steigbügel zu sehen.}
 {}
 \end{PictureSeries}
 }
-\item Atemmechanik
+\item \ChangeHeading{Atemmechanik}
 
 
 \begin{PictureSeriesWide}{}{Atemmechanik}
 \PictureSeriesRowWide{3}
 {./images/hirtler-aass/Thorax-Diaphragma.pdf}
-{Das Diaphragma ist der wichtigste Atemmuskel und trennt
+{Das Zwerchfell ist der wichtigste Atemmuskel und trennt
 den Brust- und Bauchraum. \SourcePicture{Hirtler}}
 {./images/hirtler-aass/Thoraxbewegung-frontal.pdf} {\added{Bei der
 Einatmung senkt sich das Zwerchfell und der Brustkorb hebt
@@ -340,37 +354,46 @@ den Darm.} \SourcePicture{Hirtler}}
 {}
 \end{PictureSeriesWide}
   \end{enumerate}
-\end{enumerate}
+
   
-  
-\subsection{\CO{[BAU]}}
-\begin{enumerate}
-  \item Blutzucker
-  Blutzucker Normalwert 80-\replaced{100}{110} mg/dl (vorher 80-110 mg/dl)
-  \item Traumacheck
-  Beckenuntersuchung: Becken von der Seite andrücken
+\ListPause{enumerate}
+
+
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[BAU]}}]
+{enumerate}{\texttt{[BAU]}}
+  \item 
+  \ChangeHeading{Blutzucker Normalwert}:
+  80-\replaced{100}{110} mg/dl (vorher 80-110 mg/dl)
+  \item \ChangeHeading{Traumacheck,
+  Beckenuntersuchung}: Becken von der Seite andrücken
   (schmerzhaft?), nicht mehr auf das Schambein drücken, nicht
   mehr \enquote{von oben}
-\end{enumerate}
+\ListPause{enumerate}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[BLS]}}]
+{enumerate}{\texttt{[BLS]}}
 
-\subsection{\CO{[BLS]}}
-\begin{enumerate}
-  \item Sicherheitshinweise
+  \item \ChangeHeading{Sicherheitshinweise Defi}
   Schockabgabe nicht auf Metallunterlagen, 8-Jahres-Grenze
   fällt → gemäß Körpergewicht/Alter je nach
   Herstellerangabe, Unterkühlung fällt weg
-\end{enumerate}
+\ListPause{enumerate}
 
-\subsection{\CO{[DOK]}}
-\begin{enumerate}
-  \item Referenz lateinischer Ausdrücke
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[DOK]}}]
+{enumerate}{\texttt{[DOK]}}
+
+  \item \ChangeHeading{Referenz lateinischer Diagnosen},
   Referenzliste hinzugefügt: lateinsche Diagnosen für
   Unfallchirurgie
   
   \added{Im folgenden sind häufige (lateinische) Diagnosen bzw.
 Abkürzungen als Referenz angeführt, welche man häufig auf
-unfallchirurgischen Arztbirefen und Ambukanzprotokollen
+unfallchirurgischen Arztbriefen und Ambulanzprotokollen
 findet.
 Eine ausführliche Aufstellung findet sich in \cite{LatDiag4}.}
 
@@ -617,21 +640,25 @@ Fußwärts
 \\
 \end{longtable}
 }
-\end{enumerate}
+\ListPause{enumerate}
 
-\subsection{\CO{[EHI]}}
-\begin{enumerate}
-  \item Helmabnahme:
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[EHI]}}]
+{enumerate}{\texttt{[EHI]}}
+  \item \ChangeHeading{Helmabnahme}:
   Helm \replaced{kippen}{abziehen} 
-  \item Schmerzreiz
+  \item \ChangeHeading{Schmerzreiz Profi vs. Laie}: 
   Professioneller Helfer ja, Laienhelfer nein
-\end{enumerate}
+\ListPause{enumerate}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[GYN]}}]
+{enumerate}{\texttt{[GYN]}}
 
-\subsection{\CO{[GYN]}}
-\begin{enumerate}
-  \item Neugeborenes
-  APGAR-Score hinzugefügt
+  \item Neugeborenes:
+  \ChangeHeading{APGAR-Score} hinzugefügt
   
   {\Neu \Layout{0}
   {Apgar-Score}
@@ -682,13 +709,15 @@ Fußwärts
 {}
 
 }
-\end{enumerate}
+\ListPause{enumerate}
 
-\subsection{\CO{[HYG]}}
-\begin{enumerate}
-    \item Desinfektion
-Desinfektion mittels Einlegebad nur mehr in Ausnahmefällen
-empfohlen
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[HYG]}}]
+{enumerate}{\texttt{[HYG]}}
+    \item 
+\ChangeHeading{Desinfektion mittels Einlegebad} nur mehr in
+Ausnahmefällen empfohlen
 
 {\Neu Es handelt sich hierbei um eine schlechte
 Möglichkeit zur Desinfektion, da der Erfolg der Desinfektion
@@ -697,65 +726,82 @@ zufriedenstellende Leistung kaum sichergestellt werden kann
 (nicht validierbares Verfahren). Sie ist daher nur dann zulässig,
 wenn eine geringe Infektionsgefahr besteht und keine andere
 Methode sinnvoll durchführbar ist.}
-\end{enumerate}
+\ListPause{enumerate}
 
-\subsection{\CO{[SAN]}}
-\begin{enumerate}
-  \item Beinschiene
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[SAN]}}]
+{enumerate}{\texttt{[SAN]}}
+  \item \ChangeHeading{Beinschiene, DMS-Kontrolle}:
   DMS-Kontrolle nach dem Anlegen hinzugefügt
-\end{enumerate}
+\ListPause{enumerate}
 
-\subsection{\CO{[STW]}}
-\begin{enumerate}
-  \item Blutzucker
-  Blutzucker Normalwert 80-\replaced{100}{110} mg/dl
-\end{enumerate}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[STW]}}]
+{enumerate}{\texttt{[STW]}}
 
-\subsection{\CO{[TOX]}}
-\begin{enumerate}
-  \item Ecstacy
-  Ecstacy: Flüssigkeitsmangel hinzugefügt
+  \item 
+  \ChangeHeading{Blutzucker Normalwert}:
+  80-\replaced{100}{110} mg/dl
+\ListPause{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[TOX]}}]
+{enumerate}{\texttt{[TOX]}}
+
+  \item 
+  \ChangeHeading{Ecstacy}: Flüssigkeitsmangel hinzugefügt
   
-  \added{Häufig kommt es auch zum
-  \I[Flüssigkeitsmangel!Ecstacy]{Flüssigkeitsmangel}
-  (\I[Dehydratation!Ecstacy]{Dehydratation}) aufgrund, da der
-  Patient einerseits auf das Trinken vergisst, und
-  andererseits i.\,d.\,R. körperlich aktiv ist und dabei durch
-  Schwitzen viel Flüssigkeit verliert.
+  \added{Häufig kommt es zum
+\I[Flüssigkeitsmangel!Ecstacy]{Flüssigkeitsmangel}
+(\I[Dehydratation!Ecstacy]{Dehydratation}) da der
+Patient einerseits auf das Trinken vergisst, und
+andererseits i.\,d.\,R. körperlich aktiv ist und dabei durch
+Schwitzen viel Flüssigkeit verliert.
   }
-\end{enumerate}
+\ListPause{enumerate}
 
-\subsection{\CO{[TRA]}}
-\begin{enumerate}
-  \item Stromunfall
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[TRA]}}]
+{enumerate}{\texttt{[TRA]}}
+  \item \ChangeHeading{Stromunfall}:
   gekürzt und vereinfacht → Orientierung an den Symptomen und
   nicht an den (in der Praxis unbekannten) Faktoren Höhe der
   Spannung, Stromstärke, Einwirkzeit, Weg des Stromes,
   Stromart, Kontaktwiderstand, ...
-\end{enumerate}
+\ListPause{enumerate}
 
 \section{Änderungen nach dem Review}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[BAU]}}]
+{enumerate}{\texttt{[BAU]}}
 
-
-\subsection{\CO{[BAU]}}
-\begin{enumerate}
-  \item Prüfung der Nackensteifigkeit nicht bei Wirbelsäulenverletzung:
+  \item \ChangeHeading{Prüfung der Nackensteifigkeit} nicht
+  bei Wirbelsäulenverletzung:
   
   \EE{Bei jedem Patienten mit Fieber ist auf das
   Vorliegen einer Nackensteifigkeit zu untersuchen.}
   \added{, jedoch
   \Ca{nicht bei Verdacht auf Wirbelsäulenverletzung!}}
-  \item Traumacheck: Klarstellung:
+  \item \ChangeHeading{Traumacheck: Klarstellung:}
   
   \added{Bei vital bedrohten Patienten wird
   \E{kein vollständiger} Traumacheck durchgeführt. }
-  \item
-\end{enumerate}
 
+\ListPause{enumerate}
 
-\subsection{\CO{[BLS]} Umformulierung Druckpunkt beim PLS}
-
-\replaced{Der \EE{Druckpunkt} liegt auf der unteren Hälfte des Brustbeins.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[BLS]} Umformulierung Druckpunkt beim PLS}]
+{enumerate}{\texttt{[BLS]}}
+  \item \ChangeHeading{Druckpunkt PLS}: 
+  
+  \replaced{Der
+  \EE{Druckpunkt} liegt auf der unteren Hälfte des Brustbeins.
 Bei \E{Säuglingen} und \E{Neugeborenen} kann er dadurch
 gefunden werden, indem man den Rippenbogen bis zum Schwertfortsatz
 entlang fährt, der Druckpunkt liegt dann eine Fingerbreite darüber.}
@@ -764,28 +810,22 @@ unteren Hälfte des Brustbeins. Er kann gefunden werden,
 indem man den Rippenbogen bis zum Schwertfortsatz entlang
 fährt. Der Druckpunkt ist dann eine Fingerbreite darüber. }
 
-\begin{labeling}[:]{xxx}
-  \item[Anm. PDF NÖ] \Speech{Druckpunkt lt. ERC
-  ist bei Neugeborenen und Säuglingen 1 Querfinger
-  unterhalb der Mamillarlinie bei Kinder die
-  Mamillarlinie}
-  \item[Kommentar] Nein.
-  
-  ERC 2010 Abschn. 6:
-  \Speech{Bei Kindern jedes Alters wird die untere Sternumhälfte komprimiert.}
-  
-  \Speech{Lokalisieren Sie, um eine Kompression des Oberbauchs
-  zu vermeiden, das Xiphoid, indem Sie den Rippenbogen
-  aufsuchen. Komprimieren Sie das Sternum eine Fingerbreite
-  darüber.}
-\end{labeling}
 
 
 
-\subsection{\CO{[HKL, RSP, MK]} Behandlungs- bzw.Transportpriorität beim \EE{Lungenödem} und beim \EE{ACS} neu formuliert}
 
+
+\ListPause{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[HKL, RSP, MK]}}]
+{enumerate}{\texttt{[HKL, RSP, MK]}}
+\item \ChangeHeading{Behandlungs- bzw. Transportpriorität beim \EE{Lungenödem} und beim \EE{ACS} neu formuliert}
 \begin{enumerate}
-  \item Lungenödem (\CO{HKL}):
+  \item Lungenödem:
+  \begin{enumerate}
+    \item \CO{[HKL}}
   
   \Cave{\replaced{Patienten mit Herzinsuffizienz und ABCD-Problem oder Lungenödem mit
   brodelndem Atemgeräusch sind grundsätzlich notarztpflichtig.
@@ -794,7 +834,7 @@ fährt. Der Druckpunkt ist dann eine Fingerbreite darüber. }
   {Kein Transport von Patienten mit hörbarem Lungenödem
   ohne Notarzt. Auch wenn das Spital "`{um{\textquotesingle}s Eck}"'
   ist.}}
-  \item Lungenödem (\CO{[RSP]}):
+  \item \CO{[RSP]}:
   
   \Cave{\replaced{Patienten mit Lungenödem und brodelndem Atemgeräusch oder ABCD-Problem
   sind grundsätzlich notarztpflichtig.
@@ -806,6 +846,7 @@ fährt. Der Druckpunkt ist dann eine Fingerbreite darüber. }
   ist. Der Patient schafft es möglicherweise nicht 'mal  mehr
   ins Auto!}
   }
+  \end{enumerate}
   \item ACS:
   
   \Cave{\replaced{Patienten mit einem akuten Koronarsyndrom sind grundsätzlich notarztpflichtig.
@@ -830,31 +871,38 @@ fährt. Der Druckpunkt ist dann eine Fingerbreite darüber. }
   \Speech{{eh nicht dringend}},
   unbedingt einen Notarzt beiziehen.}}
 \end{enumerate}
+\ListPause{enumerate}
 
-
-\subsection{\CO{[HKL]}}
-
-\begin{enumerate}
-  \item  Definition hypertensive Krise bzw. Notfall nun mit Zusatz{
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[HKL]}}]
+{enumerate}{\texttt{[HKL]}}
+  \item  \ChangeHeading{Definition hypertensive Krise bzw.
+  Notfall} nun mit Zusatz{
   
   RR}~{\textgreater}~\RRmmHg{230}{130} (Richtwert)
   \added{bzw. deutliche individuelle Erhöhung}
-\end{enumerate}
+\ListPause{enumerate}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[KHD]}}]
+{enumerate}{\texttt{[KHD]}}
+  \item \ChangeHeading{Strukturüberarbeitung:} \Ca{Das
+  Kapitel KHD wurde strukturell komplett umgestellt.}
+  \item \ChangeHeading{Bild Transportmanagement}
+  ("`Spirale"') ersatzlos getrichen
+  \item \ChangeHeading{Katastrophenschutz in Wien} (vorerst)
+  ersatzlos gestrichen, da der Text kurz und nicht informativ war.
+\ListPause{enumerate}
 
-
-\subsection{\CO{[KHD]}}
-
-\begin{enumerate}
-  \item \Ca{Das Kapitel KHD wurde strukturell komplett umgestellt.}
-  \item Bild Transportmanagement ("`Spirale"') ersatzlos getrichen
-  \item Katastrophenschutz in Wien (vorerst) ersatzlos gestrichen, da der Text kurz und nicht informativ war.
-\end{enumerate}
-
-
-\subsection{\CO{[RWT]} Hubschraubereinsatz in der Nacht:}
-
-\replaced{\EE{Tageszeit}: Ein Nachteinsatz ist in den
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[RWT]}} Hubschraubereinsatz in der Nacht]
+{enumerate}{\texttt{[RWT]}}
+  \item \ChangeHeading{Hunbschrauber in der Nacht:}
+  
+  \replaced{\EE{Tageszeit}: Ein Nachteinsatz ist in den
 meisten Gegenden nicht oder nur
 eingeschränkt möglich. (Fußnote Zusatzinfo: Eine Landung abseits
 gesicherter Landeplätze in der Nacht ist nur mit spezieller
@@ -863,40 +911,55 @@ Ausrüstung und Ausbildung möglich \cite{Bischofberger2007}.)
 nachtflugtauglich, außerdem verbietet sich eine Landung
 abseits gesicherter Landeplätz in der Nacht.
 }
+\ListPause{enumerate}
 
-\subsection{\CO{[TRA]}}
-\begin{enumerate}
-  \item Hinweis zu Fotodokumentation:
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[TRA]}}]
+{enumerate}{\texttt{[TRA]}}
+  \item Hinweis zu \ChangeHeading{Fotodokumentation}:
   
   \added{Es ist sinvoll, nach Möglichkeit den Unfallmechanismus
   mittels Fotos zu dokumentieren, um die Bilder der weiterbetreuenden
   Stelle zeigen zu können. Dies kann helfen, um bei der klinischen
   Versorgung des Patienten Prioritäten besser setzen zu können.
   }
-  \item  Die Tabelle "`Wundarten"' wurde um die
-  lateinischen Diagnosen als Zusatzinfo, sowie um die
+  \item  Die \ChangeHeading{Tabelle "`Wundarten"'} wurde um
+  die lateinischen Diagnosen als Zusatzinfo, sowie um die
   nicht-mechanische Wundarten ergänzt.
-  \item Bilderserien "`Wundarten"' und "`Verätzungen"' wurden zusammengeführt.
-  \item Frakturen: Strukturell überarbeitet, Gefahr der Fettembolie hervorgehoben.
-\end{enumerate}
-
-\subsection{\CO{[TRA, TOX]} Lateinische Diagnosen}
-Zu vielen Diagnosen (Wundarten, Frakturen,
-Verätzungen) wurden die lateinischen Diagnosen als
+  \item \ChangeHeading{Bilderserien "`Wundarten"' und
+  "`Verätzungen"'} wurden zusammengeführt.
+  \item \ChangeHeading{Frakturen}: Strukturell überarbeitet,
+  Gefahr der Fettembolie hervorgehoben.
+  \item \ChangeHeading{Lateinische Diognosen}: Zu vielen
+  Diagnosen (Wundarten, Frakturen) wurden die lateinischen
+  Diagnosen als
 Zusatzinfos hinzugefügt.
+\ListPause{enumerate}
 
-\subsection{\CO{[TOD]} Klarstellung}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[TOX]}}Lateinische Diagnosen]
+{enumerate}{\texttt{[TOX]}}
+  \item \ChangeHeading{Lateinische Diagnosen}: Es wurden die
+  lateinischen Diagnosen als Zusatzinfos hinzugefügt.
+\ListPause{enumerate}
 
-\begin{enumerate}
-  \item \added{Für unterkühlte Patienten gilt:}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[TOD]}} Klarstellung]
+{enumerate}{\texttt{[TOD]}}
+  \item \ChangeHeading{Tod und Unterkühlung:} \added{Für
+  unterkühlte Patienten gilt:}
 \Speech{\enquote{Nobody is dead until warm and dead!}}
-\end{enumerate}
+\ListPause{enumerate}
 
-
-
-\subsection{\CO{[PAM]}}
-\begin{enumerate}
-  \item \Ca{Vorgezogene Strategie- und Transportentscheidung}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[PAM]}}]
+{enumerate}{\texttt{[PAM]}}
+  \item \ChangeHeading{\Ca{Vorgezogene Strategie- und
+  Transportentscheidung}}
   
   Nach langen Diskussionen bezüglich des
   Diskussionspunktes "`Transport nach C"' wurde folgender
@@ -924,32 +987,33 @@ Zusatzinfos hinzugefügt.
   unklare Punkt, der wohl kurz- bis mittelfristig nicht
   generell gelöst werden kann (insb. hinsichtlich der doch
   beträchtlichen regionalen Besonderheiten und externen
-  Vorgaben). Sonvoll ist, das vom jeweiligen
+  Vorgaben). Sinvoll ist, das vom jeweiligen
   Rettungsdienstbereich deratige Fälle spezifiziert werden
   bzw. entsprechende hinweise und/oder Leitlinien vorgegeben
   werden.
-  \item \CO{[PAM]} Immer durchzuführende Standardmaßnahmen:
+  \item \CO{[PAM]} \ChangeHeading{Immer durchzuführende
+  Standardmaßnahmen:}
   Es wird nicht immer die vollständige Anamnese erhoben
   (zeitkritische Patienten):
   
   \added{Angemessene} Erhebung der Anamnese
-  \item Begriff \T{Verlaufskontrolle}
+  \item \ChangeHeading{Begriff \T{Verlaufskontrolle}}
   
   \EE{Der Einschätzungsblock muss in regelmäßigen Abständen
   in angemessenem Umfang wiederholt
   werden\added{ (Verlaufskontrolle)}!}
   \item Punkte C und D wurden im Text an die Übersichtstabelle angegelichen.
-\end{enumerate}
-
+\ListPause{enumerate}
 
 \chapter{Maßnahmenkatalog}
 
-\section{Änderungen vor dem Review}
-
-\begin{enumerate}
-  \item Erstellung des neuen Dokumentes für 2013
-  \item Abspülen von oberflächlichen Wunden mit
-  Leitungswasser erlaubt: 
+\ListResume
+[\addcontentsline{toc}{section}{Änderungen vor dem Review}]
+{enumerate}{Änderungen vor dem Review}
+  \item Erstellung des neuen Dokumentes für
+  \ChangeHeading{2013}
+  \item \ChangeHeading{Abspülen von oberflächlichen Wunden
+  mit Leitungswasser} erlaubt: 
   
   \added{Bei oberflächlichen
   Wunden ist auch ein Abspülen unter fließendem \IX{Leitungswasser} 
@@ -958,13 +1022,15 @@ Zusatzinfos hinzugefügt.
   weiter versorgt werden, sollen nicht übermäßig gereinigt werden, 
   auch soll keine
   }
-  \item APGAR-Score in Anhang (Übersicht) hinzugefügt
-\end{enumerate}
+  \item \ChangeHeading{APGAR-Score} in Anhang (Übersicht)
+  hinzugefügt
+\ListPause{enumerate}
 
-\section{Änderungen nach dem Review}
-
-\begin{enumerate}
-  \item Behandlungs-/Transportpriorität Lungenödem und ACS:
+\ListResume
+[\addcontentsline{toc}{section}{Änderungen nach dem Review}]
+{enumerate}{Änderungen nach dem Review}
+  \item \ChangeHeading{Behandlungs-/Transportpriorität
+  Lungenödem und ACS:}
   
   \added{Patienten mit Herzinsuffizienz und ABCD-Problem oder Lungenödem mit
   brodelndem Atemgeräusch sind grundsätzlich notarztpflichtig.
@@ -999,70 +1065,117 @@ Zusatzinfos hinzugefügt.
     von Naloxon nasal oder i.\,v. gem. Algorithmus durch NKA/NKV vorgesehen.
     \cite{Asb921Memo-AL-2011-000001}.}
   \end{enumerate}
-\end{enumerate}
+\ListPause{enumerate}
 
 \chapter{Diskussion}
 
-\section{Anmerkungen vom ASB Niederösterreich}
+% \section{Änderungswünsche}
 
-Es wurde vom Koll. HERMANEK ein annotiertes PDF
-  übermittelt, die Änderungen wurden durchgeschaut. Wo
-  möglich werden Änderungen noch für das nächste Release
-  eingearbeitet.
+\ListResume[\addcontentsline{toc}{section}{Änderungswünsche}Folgende
+Ändeurngen wurden angeregt]{enumerate}{Änderungswünsche}
+
+  \item \ChangeHeading{\CO{[ANA]} Abbildung Atemmechanik} mit
+  Doppelbild Thorax: Nur Bild mit Diaphragma. Statt Begriff Diaphragma
+  in Zwerchfell ändern.
+  \item \ChangeHeading{\CO{[EHI]} Unterscheidung Laien-
+  und Profihelfer:} Das soll doch eine Lehrunterlage für
+  Fachpersonal sein. Somit würde ich die Unterscheidung zwischen Professionellen- und Laienhelfer unterlassen.
+
+\ListBreakIntermezzo[Es wurde vom Koll. HERMANEK ein annotiertes PDF
+  übermittelt, die Änderungen wurden durchgesehen. Wo
+  möglich wurden Änderungen noch für das nächste Release
+  eingearbeitet. 
   
-\begin{enumerate}
+  Anmerkungen, welche hier nicht berücksichtigt sind, wurden bereits eingearbeitet.]
+{enumerate}{Anmerkungen vom ASB Niederösterreich}{}
+{}
+% \end{enumerate}
+
+% \section{}
+
+
+  
+% \begin{enumerate}
   \item
   \begin{labeling}[:]{xxx}
-    \item[Kontext] \CO{[ASB]} Beatmung:
+    \item[Kontext] \ChangeHeading{\CO{[ASB]} Beatmung}:
     \item[Anm. PDF NÖ] \Speech{
     Umdisponieren bei der Patientenversorgung?}
     \item[Kommentar] Kommentar ist nicht nachvollziehbar.
   \end{labeling}
   \item
   \begin{labeling}[:]{xxx}
-    \item[Kontext] \CO{[ASB]} Mögliche Sauerstoffkonzentrationen bei der Beatmung.
+    \item[Kontext] \ChangeHeading{\CO{[ASB]} Sauerstoffkonzentrationen, Demande-Ventil}
     \item[Anm. PDF NÖ] \Speech{Demande-Ventil fehlt}
     \item[Kommentar] TODO
   \end{labeling}
+  \item 
+  \begin{labeling}[:]{xxx}
+    \item[Kontext] \ChangeHeading{\CO{[PLS]} Druckpunkt bei PLS}
+  \item[Anm. PDF NÖ] \Speech{Druckpunkt lt. ERC
+  ist bei Neugeborenen und Säuglingen 1 Querfinger
+  unterhalb der Mamillarlinie bei Kinder die
+  Mamillarlinie}
+  \item[Kommentar] Nein.
+  
+  ERC 2010 Abschn. 6:
+  \Speech{Bei Kindern jedes Alters wird die untere Sternumhälfte komprimiert.}
+  
+  \Speech{Lokalisieren Sie, um eine Kompression des Oberbauchs
+  zu vermeiden, das Xiphoid, indem Sie den Rippenbogen
+  aufsuchen. Komprimieren Sie das Sternum eine Fingerbreite
+  darüber.}
+\end{labeling}
   \item
   \begin{labeling}[:]{xxx}
-    \item[Kontext] \CO{[KHD]}
+    \item[Kontext] \ChangeHeading{\CO{[KHD]} Katastrophenschutz in Wien}
     \item[Anm. PDF NÖ] \Speech{Katastrophenschutz in Österreich vielleicht einfügen oder den Wien Teil raus nehmen}
     \item[Kommentar] Wien-Teil wir vorerst herausgenommen.
-    Eine Neuerstellung "`Österreich" und länderspez.
+    Eine Neuerstellung "`Österreich"' und länderspez.
     Abschnitte sollen erstellt werden.
     
   \end{labeling}
   \item
   \begin{labeling}[:]{xxx}
-    \item[Kontext] \CO{[KHD]}, SanHiSt
+    \item[Kontext] \ChangeHeading{\CO{[KHD]}, SanHiSt, Grafil}
     \item[Anm. PDF NÖ] \Speech{GRAFIK!!!}
     \item[Kommentar] TODO
   \end{labeling}
   \item
   \begin{labeling}[:]{xxx}
-    \item[Kontext] \CO{[PAM]}
+    \item[Kontext] \ChangeHeading{\CO{[PAM]} Strategieentscheidung}
     \item[Anm. PDF NÖ] \Speech{Strategie läuft horizontal,
     D+E an der Einsatzstelle verpfichtend beim kritischen
     Patient?    Strategie ist vom Patient abhängig, bleiben,
-    transportieren, treffen mit NA unterwegs..    Verlaufskontrolle fehlt}
-    \item[Kommentar] Der Transport während/nach ABC ist in
-    der Theorie eine nette Sache, aber in der Praxis,
-    insbesonders mit wenig routiniertem Personal wenig
-    praktikabel.
-    
-    In jedem Fall ist das Abarbeiten bis C sinnvoll.
-    
+    transportieren, treffen mit NA unterwegs.}
+    \item[Kommentar]     
     Für jene absolut zeitkritischen Patienten, für die ein
-    sofortiger Transport obligat ist, habe wurde die
+    sofortiger Transport obligat ist, wurde die
     \T{vorgezogene Strategie- und Transportentscheidung}
     geschaffen, welche einen Transport nach C erlaubt.
     
     \end{labeling}
+  \item
+  \begin{labeling}[:]{xxx}
+    \item[Kontext] \ChangeHeading{\CO{[PAM]} Verlaufskontrolle}
+    \item[Anm. PDF NÖ] \Speech{
+    {Verlaufskontrolle} fehlt}
+    \item[Kommentar] Die Verlaufskontrolle ist sowohl in 
+    der Grafik, als auch im Text berücksichtigt
+    (\Speech{"`Der Einschätzungsblock muss in
+    regelmäßigen Abständen in angemessenem Umfang
+    wiederholt werden!"'}. Zur Verdeutlichung wurde der
+    Begriff \added{(Verlaufskontrolle)} ergänzt.: 
+    
+    \Speech{"`Der Einschätzungsblock muss in
+    regelmäßigen Abständen in angemessenem Umfang
+    wiederholt werden \added{(Verlaufskontrolle)!}"'}    
+    \end{labeling}
     \item
   \begin{labeling}[:]{xxx}
-    \item[Kontext] \CO{[PAM]}
-    \item[Anm. PDF NÖ] \Speech{Auskultation ist bei der STU (Thorax)}
+    \item[Kontext] \ChangeHeading{\CO{[PAM]} Auskultation}
+    \item[Anm. PDF NÖ] \Speech{{Auskultation}
+    ist bei der STU (Thorax)}
     \item[Kommentar] Nein, die Auskultation betrifft nicht
     nur Trauma-Patienten, sondern auch
     nicht-Trauma-Patienten, daher ist es nicht sinnvoll,
@@ -1071,7 +1184,7 @@ Es wurde vom Koll. HERMANEK ein annotiertes PDF
     \end{labeling}
     \item
     \begin{labeling}[:]{xxx}
-      \item[Kontext] \CO{[PAM]} D
+      \item[Kontext] \ChangeHeading{\CO{[PAM]} D}
       \item[Anm. PDF NÖ] \Speech{Transportentscheidung läuft parallelStroke Untersuchung:SprachdefizitGesichtsmuskelschwächeArmschwäche}
       \item[Kommentar] Sprachdefizit und Gesichtsmuskelschwäche werden von "Eindruck" abgedeckt.
       Beim Insult ist das Abarbeiten bis E obligat (und sinnvoll, siehe auch Lehrmeinung Wien)
@@ -1079,18 +1192,18 @@ Es wurde vom Koll. HERMANEK ein annotiertes PDF
       \end{labeling}
       \item
       \begin{labeling}[:]{xxx}
-        \item[Kontext] \CO{[HKL, RSP]} Absolute Notarzt-Indikation bei sympt. Lungenödem und ACS
+        \item[Kontext] \ChangeHeading{\CO{[HKL, RSP]} Absolute Notarzt-Indikation bei sympt. Lungenödem und ACS}
         \item[Anm. PDF NÖ] \Speech{Sinnvoll?}
         \item[Kommentar] Grundsätzlich ja. Der Pat. mit sympt. Lungenödem profitiert i.d.R. von einer medikamentösen Behandlung vor Transport.
       
-      \item[Anm. PDF NÖ ] \Speech{Wenn nicht verfügbar?}
+      \item[Anm. PDF NÖ] \Speech{Wenn nicht verfügbar?}
       \item[Kommentar] Es wurde umformuliert:
       
       \Speech{Patienten mit Lungenödem und brodelndem Atemgeräusch oder ABCD-Problem
       sind \underline{grundsätzlich} notarztpflichtig. }
       (analog dazu sympt. Herzinsuff. und ACS)
       
-      Mit dem "grundsätzlich" bleibt ein Ausweg für den Fall dass
+      Mit dem "grundsätzlich"' bleibt ein Ausweg für den Fall dass
       sämtliche NEFs und Hubschrauber beim Verkehrsunfall mit 2
       vollbesetzten Reisebussen gebunden sind.
       \item[Anm. PDF NÖ ] \Speech{Wenn er den Transport zum FZG
@@ -1098,8 +1211,11 @@ Es wurde vom Koll. HERMANEK ein annotiertes PDF
       nicht überlebt}
       \item[Kommentar] Das ist eine griffige
       pauschalierte Aussage, die aber jeglicher Grundlage
-      entbehrt. Das ein Transport eine relevante Stressquelle ist
-      dürfte ja wohl unbestritten sein.
+      entbehrt. Es besteht eine hohe Behandlungspriorirät, 
+      auch wenn die Transportpriorität natürlich auch groß ist. 
+      Die medikamentöse Therapie (Analogsedierung,
+      Vor- und Nachlastsenkung, ggfs. Diurese bzw. kausale
+      Therapie) vor Transport ist definitiv sinnvoll.
       \end{labeling}
       
       
@@ -1107,7 +1223,7 @@ Es wurde vom Koll. HERMANEK ein annotiertes PDF
 
 
 
-\printindex
+% \printindex
 
 
 
@@ -1115,5 +1231,5 @@ Es wurde vom Koll. HERMANEK ein annotiertes PDF
 
 
 
-
+\MultiColListEnd{toc}
 \end{document}

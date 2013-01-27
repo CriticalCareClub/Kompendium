@@ -1,20 +1,26 @@
+
+\usepackage{microtype}
+\usepackage{fixltx2e}
+\usepackage{ellipsis}
+% \setcounter{errorcontextlines}{10}
+\usepackage{ragged2e}
+
 \hbadness=9000
 % Sprachunterstützung 
 % Mehrere Sprachen für angepasstes Literaturverzeichnis (babelbib) 
 \usepackage[english,german,ngerman]{babel}
 % Internationales Literaturverzeichnis
-\usepackage{babelbib}
-% \setbtxfallbacklanguage{english}
-\setbtxfallbacklanguage{ngerman}
+% \usepackage{babelbib}
+% % \setbtxfallbacklanguage{english}
+% \setbtxfallbacklanguage{ngerman}
 
 
-
-% http://mrunix.de/forums/showthread.php?p=301707
-% Abstand zwischen Absätzen in minipage-Umgebung:
-\makeatletter
-\newcommand*{\@minipagerestore}{\parskip@update}
-\makeatother
-
+% Mittlerweile verwendet pdfTeX standardmäßig PDF-1.5 mit
+% Objektstreamkomprimierung, mit der pdftk Probleme haben kann.
+% Füge \pdfobjcompresslevel=0 ein, dann wird die Datei zwar
+% wieder größer, aber du kannst sie mit pdftk splitten.
+% (Heiko Oberdiek)
+\pdfobjcompresslevel=0
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -43,9 +49,11 @@
 \makeatletter 
 \renewcommand*{\@pnumwidth}{3.5em}
 \renewcommand{\@tocrmarg}{4.5em}
-
 \makeatother
 
+% \usepackage{titletoc}
+% \contentsuse{lomassnahmen}{lomassnahmen}
+% \titlecontents{massnahmen}[0pt]{}{}{\titlerule}{}
 
 % /part ohne Seitenzahl im TOC?
 % http://mrunix.de/forums/showthread.php?t=61596
@@ -78,6 +86,86 @@
    }
 \makeatother
 
+
+% No bottom titles !!!
+\usepackage[nobottomtitles]{titlesec}
+\renewcommand{\bottomtitlespace}{.10\textheight}
+
+\usepackage{hyperref}
+
+
+\usepackage[AASS,stylelayout]{aass-common}
+\usepackage{aass-layout}
+% \usepackage{aass-layout-simple}
+\usepackage{aass-units}
+\usepackage{aass-fonts}
+\opt{VAR-VAR2}{\usepackage{asboe}}
+
+
+\usepackage[grey,helvetica]{quotchap}
+%\renewcommand{\sectfont}{\large\color{DefaultA}\sffamily\fontfamily{phv}\selectfont}
+\definecolor{chaptergrey}{named}{DefaultA}
+
+
+\addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}}
+\renewcommand{\thesection}{{\color{DefaultA}\thechapter}.\arabic{section}}
+
+
+\usepackage{minitoc} 
+%The quotchap package should be loaded BEFORE the minitoc package.
+\newcounter{DefaultMinitocDepth}
+\setcounter{DefaultMinitocDepth}{3}
+\mtcsetdepth{minitoc}{\value{DefaultMinitocDepth}}
+\nomtcrule
+
+% \setlength{\mtcindent}{0pt}
+% \setlength{\stcindent}{0pt}
+% \mtcindent{0pt}
+% \stcindent{0pt}
+\renewcommand{\mtcfont}{\sffamily\small}
+\renewcommand{\mtcSfont}{\sffamily\small\bfseries}
+\renewcommand{\mtcSSfont}{\sffamily\scriptsize}
+\renewcommand{\mtcSSSfont}{\sffamily\scriptsize}
+% \mtcsetoffset{minitoc}{-4em}
+% \mtcsetformat{mini-table}{mtcindent}{0pt}
+
+\setlength{\mtcindent}{0pt}
+\mtcsetfeature{minitoc}{open}{\kern1sp\vspace*{-.1ex}\begin{multicols}{2}[\kern-2.5ex]}
+\mtcsetfeature{minitoc}{close}{\end{multicols}\kern-2.ex}
+% \mtcsetfeature{minitoc}{open}{\begin{multicols}{2}}
+% \mtcsetfeature{minitoc}{close}{\end{multicols}}
+\mtcsetfeature{minitoc}{before}{\begin{WidePar}\raggedcolumns}
+\mtcsetfeature{minitoc}{after}{\flushcolumns\end{WidePar}}
+\mtcsetoffset{minitoc}{-0.7em}
+\setlength{\mtcindent}{-0.7em}
+% \mtcsetformat{minitoc}{tocrightmargin}{2cm}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Bibliographie
+
+\newcommand{\textbfit}[1]{\textbf{\textit{#1}}}
+\newcommand{\bibentry}[1]{\fullcite{#1}}
+\newcommand{\ChapterBibliography}{\relax}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Verweise
+\usepackage{prettyref}
+\newrefformat{sec}{\emph{\ref{#1}}}
+% \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
+% \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
+\newrefformat{chp}{Kap.~\ref{#1}}
+\newrefformat{fig}{\SignFigureSmall~\ref{#1}}
+\newrefformat{tab}{\SignTableSmall~\ref{#1}}
+% \newrefformat{tab}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
+% \newrefformat{m}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
+\newrefformat{m}{\SignMassnahmeSmall\,\ref{#1}}
+\newrefformat{topic}{\Pointinghand\,\ref{#1}}
+\newcommand{\FullRef}[1]{{\ref{#1} (S.\,\pageref{#1})}}
+\newcommand{\FullPrettyRef}[1]{{\prettyref{#1}, Seite \pageref{#1}}}
+
 % Hat man den Wunsch, auf eine Fußnote mehrfach zu verweisen, bietet LATEX dafür keine direkte Möglichkeit.
 % Man muss hier die folgende Definition, eingerahmt von \makeatletter und \makeatother, in den Vorspann des Dokuments einfügen.
 % Im Text muss bei der Fußnote, auf die ein zweites mal verwiesen werden soll, ein Label (hier: \label{fn:wichtig})eingefügt werden.
@@ -89,23 +177,9 @@
 \@footnotemark}
 \makeatother
 
-\usepackage{prettyref}
-\newrefformat{sec}{\emph{\ref{#1}}}
-% \newrefformat{pkt}{\emph{Abs.\,\ref{#1}}}
-% \newrefformat{lit}{\emph{Abs.\,\ref{#1}}}
-\newrefformat{chp}{Kap.~\ref{#1}}
-\newrefformat{fig}{\SignFigureSmall\,\ref{#1}}
-\newrefformat{tab}{\SignTableSmall\,\ref{#1}}
-% \newrefformat{tab}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{T}}}\,\ref{#1}}
-% \newrefformat{m}{{\sffamily\mdseries\color{DefaultB}{\scalefont{0.7}\ovalbox{M}}}\,\ref{#1}}
-\newrefformat{m}{\SignMassnahmeSmall\,\ref{#1}}
-\newrefformat{topic}{\Pointinghand\,\ref{#1}}
 
-\usepackage[AASS,stylelayout]{aass-common}
-\usepackage{aass-units}
-\usepackage{aass-fonts}
-\usepackage{aass-features}
-\usepackage{aass-text}
+
+
 
 
 
@@ -143,33 +217,65 @@ footskip = 0mm,
 {geometry}
 
 
-% \usepackage[
-% verbose,
-% a4paper,
-% asymmetric,
-% % reversemp,
-% % includemp,
-% % tmargin=25mm,
-% % bmargin=20mm,
-% lmargin=13mm,
-% rmargin=70mm,
-% % outer  = 56mm,
-% % inner  = 56mm,
-% top    = 20mm,
-% bottom = 15mm,
-% % % hmarginratio=2:1,
-% marginparwidth = 60mm,
-% % % headheight=0.5cm,
-% % % headsep=0.5cm,
-% footskip = 5mm,
-% % includehead,
-% bindingoffset=1.5cm,
-% showframe
-% ]
-% {geometry}
 
 
 
+\usepackage{aass-features}
+\usepackage{aass-text}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Beschriftungen
+\DeclareRobustCommand{\SignTable}{{Tab.}}
+\DeclareRobustCommand{\SignTableSmall}{{\SignTable}}
+
+\DeclareRobustCommand{\SignFazit}{\noindent{\fontfamily{lmr}\selectfont >>}}
+\DeclareRobustCommand{\SignFazitSmall}{\SignFazit}
+
+\DeclareRobustCommand{\SignLeitsatz}{\SignFazit}
+\DeclareRobustCommand{\SignLeitsatzSmall}{\SignFazit}
+
+\DeclareRobustCommand{\SignFigure}{{Abb.}}
+\DeclareRobustCommand{\SignFigureSmall}{{\SignFigure}}
+
+\DeclareRobustCommand{\SignMassnahme}{{\noindent\dsmedical}}
+\DeclareRobustCommand{\SignMassnahmeSmall}{{\SignMassnahme}}
+
+
+
+\setlength\columnsep{15pt}%7mm
+\setlength\columnseprule{0.4pt}
+\setlength\premulticols{10\baselineskip}
+\renewcommand{\columnseprulecolor}{\color{DefaultGrey}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Tables
+
+\usepackage{boxedminipage}
+
+\usepackage{layout}
+
+\newlength{\WideParWidth}
+\setlength{\WideParWidth}{\textwidth+\marginparwidth+\marginparsep}
+
+\newlength{\ThirdGrossWidth}
+\setlength{\ThirdGrossWidth}{(\WideParWidth)/3}
+
+\newlength{\ThirdNetWidth}
+\setlength{\ThirdNetWidth}{(\WideParWidth-(\columnsep*2))/3}
+
+\newlength{\Textspalte}
+\setlength{\Textspalte}{\textwidth}
+
+\newlength{\Randspalte}
+\setlength{\Randspalte}{\marginparwidth}
+
+\newlength{\Trenner}
+\setlength{\Trenner}{\marginparsep}
+
+\newlength{\Korrektur}
+\setlength{\Korrektur}{{\fboxrule} + {\fboxsep}}
+% \setlength{\Korrektur}{0pt}
 
 % \usepackage{scrindex}
 \makeindex
@@ -179,43 +285,11 @@ footskip = 0mm,
 
 
 
-%%% Tables
-
-\usepackage{boxedminipage}
-
-\usepackage{layout}
-% \usepackage{calc}
-% \usepackage[strict]{changepage}
-%\usepackage{gmeometric}
-% \eometry{verbose,
-% a4paper,
-% asymmetric,
-% % tmargin=25mm,
-% % bmargin=20mm,
-% % lmargin=56mm,
-% % rmargin=56mm,
-% % outer  = 56mm,
-% % inner  = 56mm,
-% % top    = 25mm,
-% % bottom = 20mm,
-% marginparwidth = 40mm,
-% % headheight=0.5cm,
-% % headsep=0.5cm,
-% footskip = 10mm,
-% % includehead,
-% includemp,
-% bindingoffset=1.5cm
-% }
 
 
-\newlength{\Textspalte}
-\newlength{\Randspalte}
-\newlength{\Trenner}
-\newlength{\Korrektur}
-\setlength{\Textspalte}{\textwidth}
-\setlength{\Randspalte}{\marginparwidth}
-\setlength{\Trenner}{6pt}
-\setlength{\Korrektur}{{\fboxrule} + {\fboxsep}}
+
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -257,9 +331,9 @@ footskip = 0mm,
 % \vfuzz=0.1pt
 % % Grenzwert für »schlechte« Zeilen, bzw. Boxen, der angibt,
 % % ab welcher Negativbewertung eine \hbox protokolliert wird.
-% \hbadness=1000
+\hbadness=9999
 % % Grenzwert, ab dem eine »schlechte« \vbox protokolliert wird.
-% \vbadness=1000 
+\vbadness=9999
 % % Definiert zusätzlichen dynamischen Leerraum, der falls er
 % % von 0 Punkten verschieden ist, beim Absatzumbruch einen
 % % dritten Versuch bewirkt, wenn bei den beiden ersten
@@ -267,7 +341,7 @@ footskip = 0mm,
 % % ist. \emergencystretch definiert dann den Leerraum, der
 % % innerhalb einer Zeile zusätzlich verteilt werden darf.
 % % \emergencystretch=20pt
-% \emergencystretch=10em
+\emergencystretch=5em
 
 % Strafpunkte (penalties)
 % 
@@ -283,9 +357,9 @@ footskip = 0mm,
 % % berechnet wird. Wird dieser Wert erhöht, so versucht das
 % % Programm, die Zeilenanzahl für einen Absatz möglichst
 % % klein zu halten.
-% \linepenalty=10
+\linepenalty=10
 % % Wird für eine einfache Trennung beim Absatzumbruch aufgerechnet.
-% \hyphenpenalty=50
+\hyphenpenalty=40
 % % Wird für einen Zeilenwechsel nach einem expliziten
 % % Trennstrich aufgerechnet.
 % \exhyphenpenalty=50
@@ -298,11 +372,11 @@ footskip = 0mm,
 % % Wird beim Seitenumbruch vergeben, falls die erste Zeile
 % % eines Absatzes allein auf der vorangehenden Seite verbleibt.
 % % Disable single lines at the start of a paragraph (Schusterjungen)
-% \clubpenalty=150
+\clubpenalty=150
 % % Wird beim Seitenumbruch aufgerechnet, falls die letzte Zeile
 % % gerade noch auf die nächste Seite umgebrochen wird.
 % % Disable single lines at the end of a paragraph (Hurenkinder)
-% \widowpenalty=150
+\widowpenalty=150
 % % Wird während des Seitenumbruchs für einen Seitenwechsel
 % % angerechnet, falls die letzte Zeile eines Absatzes gerade
 % % noch auf die nächste Seite kommt, und zwar in dem
@@ -312,16 +386,16 @@ footskip = 0mm,
 % % Wird während des Seitenumbruchs für einen Seitenwechsel
 % % angerechnet, bei dem die letzte Zeile einer Seite mit einer
 % % Trennung endet.
-% \brokenpenalty=100
+\brokenpenalty=40
 % % Für zwei aufeinanderfolgende Zeilen, wobei in beiden getrennt wird.
-% \doublehyphendemerits=10000
+\doublehyphendemerits=100
 % % Wird für die Trennung in der vorletzten Zeile eines Absatzes aufgerechnet.
-% \finalhyphendemerits=5000
+\finalhyphendemerits=40
 % % Wird beim Absatzumbruch für zwei »visuell inkompatible«
 % % Zeilen aufgerechnet. Dies sind zwei aufeinanderfolgende
 % % Zeilen, bei denen die eine mit extra viel Leerraum
 % % durchgeschossen wurde und die andere mit wenig.
-% \adjdemerits=10000
+\adjdemerits=9000
 % % Wird für das Umbrechen einer mit \displaylines
 % % entstandenen Formelfolge über eine Seitengrenze hinweg
 % % berechnet.
@@ -331,35 +405,19 @@ footskip = 0mm,
 % % \interlinepenalty auf den angegebenen Wert.
 % \interfootnotelinepenalty=100
 % % Für den Umbruch eines Absatzes über eine Seitengrenze.
-% \interlinepenalty
+\interlinepenalty=50
 % % Für einen Seitenwechsel direkt vor einer Formel im display-style.
 % \predisplaypenalty=10000
 % % Für einen Seitenwechsel direkt nach einer Formel im display-style.
 % \postdisplaypenalty=0
 
+% http://mrunix.de/forums/showthread.php?p=301707
+% Abstand zwischen Absätzen in minipage-Umgebung:
+\makeatletter
+\newcommand*{\@minipagerestore}{\parskip@update}
+\makeatother
 
 \usepackage{fancybox}
-
-
-% User page numbering with chapter number in it
-
-% \renewcommand{\thechapter}{\Alph{chapter}}
-
-% \renewcommand{\thechapter}{{\ttfamily\Alph{chapter}}}
-\renewcommand{\thesection}{{\color{DefaultA}\thechapter}.\arabic{section}}
-% \renewcommand{\thesubsection}{{\color{DefaultA}\thesection .\arabic{subsection}}}
-% \renewcommand{\thesubsection}{{\color{aassgrey}\thesection.}\arabic{subsection}}
-% \renewcommand{\thesubsubsection}{{\thesubsection .\alph{subsubsection}}}
-
-
-
-% No bottom titles !!!
-\usepackage[nobottomtitles]{titlesec}
-\renewcommand{\bottomtitlespace}{.10\textheight}
-
-% \titleformat{\section}[rightmargin]{\usefont{T1}{lmss}{bx}{n}\selectfont\LARGE\color{DefaultA}}{}{0em}{}
-% \titleformat{\section}{\large\scshape\raggedright}{}{1em}{}
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Floats
@@ -369,278 +427,13 @@ footskip = 0mm,
 % gives warnings
 %\usepackage{mparhack} 
 
-% \usepackage[algo2e,algochapter]{algorithm}
-% \usepackage{listings}
-
-
-
-
-\usepackage{hyperref}
-
-% \newcommand{\url}[1]{\ttfamily #1}
-
-% floats waren hier
-
-\usepackage[grey,helvetica]{quotchap}
-%\renewcommand{\sectfont}{\large\color{DefaultA}\sffamily\fontfamily{phv}\selectfont}
-\definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
-\definecolor{chaptergrey}{named}{DefaultContrast}
-% \definecolor{chaptergrey}{rgb}{0.788235294,0,0.08627451}
-% \newenvironment{savequote}{}{}
-
-% \usepackage[Rejne]{fncychap}
-% \ChNameVar{\centering\LARGE\sf} 
-% \ChNumVar{\Huge\color{DefaultB}} 
-% \ChTitleVar{\centering\Large\sf\color{DefaultA}}
-% \ChRuleWidth{2pt} 
-% \ChNameUpperCase
-% % \ChNumVar{\fontsize{76}{80}\usefont{OT1}{lmdh}{m}{n}\selectfont\color{DefaultB}}
-\addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}}
-
-% \addtokomafont{chapter}{\fontfamily{lmdh}\selectfont\Huge\color{DefaultA}}
-
-
-
-% % http://texblog.net/latex/layout/
-% \usepackage{tikz}
-% % \usepackage{kpfonts}
-% % \usepackage[explicit]{titlesec}
-% \newcommand*\chapterlabel{}
-% \titleformat{\chapter}
-%   {\def\chapterlabel{}
-%    \normalfont\sffamily\Huge\bfseries\scshape}
-%   {\def\chapterlabel{\thechapter\ lala}}{0pt}
-%   {\begin{tikzpicture}[remember picture,overlay]
-%     \node[yshift=-3cm] at (current page.north west)
-%       {\begin{tikzpicture}[remember picture, overlay]
-%         \draw[fill=LightSkyBlue] (0,0) rectangle
-%           (\paperwidth,3cm);
-%         \node[anchor=east,xshift=.9\paperwidth,rectangle,
-%               rounded corners=10pt,inner sep=11pt,
-%               fill=MidnightBlue]
-%               {\color{white}\chapterlabel#1};
-%        \end{tikzpicture}
-%       };
-%    \end{tikzpicture}
-%   }
-
-% \titlespacing*{\chapter}{0pt}{50pt}{-60pt}
-% 
-% \usepackage[automark]{scrpage2}
-% \usepackage{tikz}
-% \newcommand*\tikzhead[1]{%
-%   \begin{tikzpicture}[remember picture,overlay]
-%     \node[yshift=-2cm] at (current page.north west)
-%       {\begin{tikzpicture}[remember picture, overlay]
-%         \draw[fill=LightSkyBlue] (0,0) rectangle
-%           (\paperwidth,2cm);
-%         \node[anchor=east,xshift=.9\paperwidth,rectangle,
-%               rounded corners=15pt,inner sep=11pt,
-%               fill=MidnightBlue]
-%               {\color{white}#1};
-%        \end{tikzpicture}
-%       };
-%    \end{tikzpicture}}
-% \clearscrheadings
-% \ihead{\tikzhead{\headmark}}
-% \pagestyle{scrheadings}
-% 
-% 
-% \usepackage[automark]{scrpage2}
-% 
-% \usepackage{tikz}
-% \newcommand*\tikzhead[1]{%
-%   \begin{tikzpicture}[remember picture,overlay]
-%     \node[yshift=-2cm] at (current page.north west)
-%       {\begin{tikzpicture}[remember picture, overlay]
-%         \draw[fill=LightSkyBlue] (0,0) rectangle
-%           (\paperwidth,2cm);
-%         \node[anchor=east,xshift=.9\paperwidth,rectangle,
-%               rounded corners=15pt,inner sep=11pt,
-%               fill=MidnightBlue]
-%               {\color{white}#1};
-%        \end{tikzpicture}
-%       };
-%    \end{tikzpicture}}
-% \clearscrheadings
-% \ihead{\tikzhead{\headmark}}
-% \pagestyle{scrheadings}
-% 
-% 
-
-
-% \newenvironment{savequote}{}{}
-
-
-
-
-
-
-
-\usepackage{minitoc} 
-%The quotchap package should be loaded BEFORE the minitoc package.
-\newcounter{DefaultMinitocDepth}
-\setcounter{DefaultMinitocDepth}{3}
-\mtcsetdepth{minitoc}{\value{DefaultMinitocDepth}}
-
-\nomtcrule
-
-% \setlength{\mtcindent}{0pt}
-% \setlength{\stcindent}{0pt}
-% \mtcindent{0pt}
-% \stcindent{0pt}
-\renewcommand{\mtcfont}{\sffamily\small}
-\renewcommand{\mtcSfont}{\sffamily\small\bfseries}
-\renewcommand{\mtcSSfont}{\sffamily\scriptsize}
-\renewcommand{\mtcSSSfont}{\sffamily\scriptsize}
-% \mtcsetoffset{minitoc}{-4em}
-% \mtcsetformat{mini-table}{mtcindent}{0pt}
-
-\setlength{\mtcindent}{0pt}
-\mtcsetfeature{minitoc}{open}{\kern1sp\vspace*{-.1ex}\begin{multicols}{2}[\kern-2.5ex]}
-\mtcsetfeature{minitoc}{close}{\end{multicols}\kern-2.ex}
-% \mtcsetfeature{minitoc}{open}{\begin{multicols}{2}}
-% \mtcsetfeature{minitoc}{close}{\end{multicols}}
-\mtcsetfeature{minitoc}{before}{\begin{WidePar}\raggedcolumns}
-\mtcsetfeature{minitoc}{after}{\flushcolumns\end{WidePar}}
-\mtcsetoffset{minitoc}{-0.7em}
-\setlength{\mtcindent}{-0.7em}
-% \mtcsetformat{minitoc}{tocrightmargin}{2cm}
-
-% % multitoc is incompatible with float package
-% \usepackage[toc]{multitoc}
-% \renewcommand{\multicolumntoc}{2}
-
-
-
-
-
-
-
-\usepackage[noauto]{chappg} % nach hyperref!
-
-\pagenumbering{bychapter}
-\renewcommand{\chappgsep}{/}
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Beschriftungen
-% \DeclareRobustCommand{\SignTable}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{T}}}
-\DeclareRobustCommand{\SignTable}{{\noindent\scalefont{1.5}$\boxbar$}}
-% \DeclareRobustCommand{\SignTableSmall}{{\scalefont{0.7}\SignTable}}
-\DeclareRobustCommand{\SignTableSmall}{{\SignTable}}
-
-% \DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
-\DeclareRobustCommand{\SignFazit}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
-\DeclareRobustCommand{\SignFazitSmall}{\scalefont{0.7}\SignFazit}
-
-% \DeclareRobustCommand{\SignLeitsatz}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{L}}}
-\DeclareRobustCommand{\SignLeitsatz}{\noindent{\color{DefaultContrastA}\bfseries{\VarFlag ~}}}
-\DeclareRobustCommand{\SignLeitsatzSmall}{{\scalefont{0.7}\SignLeitsatz}}
-
-% \DeclareRobustCommand{\SignFigure}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{A}}}
-% \DeclareRobustCommand{\SignFigureSmall}{{\scalefont{0.7}\SignFigure}}
-\DeclareRobustCommand{\SignFigure}{{\noindent\color{DefaultB}\BigSquare\llap{{\VarIceMountain}}}}
-\DeclareRobustCommand{\SignFigureSmall}{{\SignFigure}}
-
-\DeclareRobustCommand{\SignMassnahme}{{\noindent\sffamily\mdseries\color{DefaultB}\ovalbox{M}}}
-\DeclareRobustCommand{\SignMassnahmeSmall}{{\scalefont{0.7}\SignMassnahme}}
-
-% \DeclareRobustCommand{\SignMassnahme}{{\noindent\color{DefaultB}\BigSquare\llap{{\sffamily\scalefont{0.9}M}}}}
-% \DeclareRobustCommand{\SignMassnahmeSmall}{{\SignMassnahme}}
-
-
-
 
 
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Bibliographie
-
-% Bibliographie-Stile babxxx unterstützen internationale Bibliographien, Paket
-% 'babelbib'.
-% Die Sprache muss in BibTeX-Datei im Feld 'language' stehen (dzt. erlaubt:
-% english, german, ngerman). Die entsprechende Sprache muss in babel geladen
-% worden sein.
-% \bibliographystyle{babunsrt-fl}
-\bibliographystyle{babunsrt}
-% \bibliographystyle{bababbrv-fl}
-% \bibliographystyle{babalpha}
-% \bibliographystyle{abbrvnat}
-% \bibliographystyle{plainnat}
-% \bibliographystyle{unsrtnat}
-% \bibliographystyle{dinat}
-% \usepackage{cite}
-\usepackage{bibentry}
-% \nobibliography*
-\usepackage[
-% round, % (default) for round parentheses;
-square, % for square brackets;
-% curly, % for curly braces;
-% angle, % for angle brackets;
-% colon, % (default) to separate multiple citations with colons;
-% comma, % to use commas as separaters;
-% authoryear, % (default) for author-year citations;
-numbers, % for numerical citations;
-% super, % for superscripted numerical citations, as in Nature;
-% sort, % orders multiple citations into the sequence in which they appear in the
-% % list of references;
-sort&compress, % as sort but in addition multiple numerical citations are compressed if possible ;
-% longnamesfirst, % makes the first citation of any reference the equivalent of
-% % the starred variant (full author list) and subsequent citations normal (abbreviated list);
-% sectionbib, % redefines \thebibliography to issue \section* instead of
-% % \chapter*; valid only for classes with a \chapter command; to be used with the chapterbib package;
-% nonamebreak, % keeps all the authors' names in a citation on one line; causes
-% % overfull hboxes but helps with some hyperref problems.
-]{natbib}
-% \renewcommand{\citenumfont}[1]{\sffamily\small#1}
-% \renewcommand{\citenumfmt}[1]{\sffamily\textbf{#1}:}
-\renewcommand{\bibnumfmt}[1]{\sffamily\small\textbf{#1}:}
-
-
-% \setcitestyle{
-% super,
-% open={\sffamily\tiny[},
-% close={\sffamily\tiny]},
-% comma,
-% % aysep={~},
-% notesep={text}
-% }
-
-% \usepackage[sectionbib]{chapterbib} % Literaturverzeichnisse für Kapitel
-% 
-% % \ChapterBibliography muss in der jeweiligen Kapiteldatei aufgerufen werden
-% % um dort ein entsprechend formatiertes Literaturverzeichnis zu erstellen.
-% \newcommand{\ChapterBibliography}
-% 	{\bibliographystyle{babunsrt-fl}
-% 	    {
-%     \loadgeometry{FullPage}\twocolumn
-% %     \sffamily\itshape
-% %       \begin{multicols}{2}
-% 
-%         \scriptsize
-%         \setlength{\parskip}{1pt}
-%         \bibliography{Literatur-AASS}
-% %       \end{multicols}
-% 
-% 
-%     \restoregeometry
-%     }
-% %    \end{WidePar}
-%    \onecolumn
-% % 	\begin{multicols}{2}
-% %     	{
-% %     		\scriptsize
-% %     		\setlength{\parskip}{1pt}
-% %     		\bibliography{./Literatur-AASS}
-% %     	}
-% %     \end{multicols}
-%  	}
-
-\newcommand{\ChapterBibliography}{\relax}
-
+% Besonderer Satz
 
 \usepackage[version=3]{mhchem}
 \mhchemoptions{textfontcommand=\sffamily}
@@ -649,6 +442,10 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 
 
 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % various packages for convenience
 
 
@@ -659,20 +456,14 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 
 % Test PLAYGROUND
 
-\newcommand{\FullRef}[1]{{\ttfamily\ref{#1} (S.\,\pageref{#1})}}
-\newcommand{\FullPrettyRef}[1]{{\prettyref{#1}, Seite \pageref{#1}}}
-
 \newcommand{\TabItemI}[1]{\begin{inparaitem}\item #1 \end{inparaitem}}
 \newcommand{\TabItemII}[1]{\begin{inparaitem}\begin{inparaitem}\item#1\end{inparaitem}\end{inparaitem}}
 \newcommand{\TabItemIII}[1]{\begin{inparaitem}\begin{inparaitem}\begin{inparaitem}\item#1\end{inparaitem}\end{inparaitem}\end{inparaitem}}
 
-\setlength\columnsep{3em}
-\setlength\columnseprule{0.4pt}
-\setlength\premulticols{10\baselineskip}
-\renewcommand{\columnseprulecolor}{\color{DefaultGrey}}
+
 
 % \setkomafont{footnote}{\sffamily}
-\deffootnotemark{\textsuperscript{\sffamily\thefootnotemark}}
+% \deffootnotemark{\textsuperscript{\thefootnotemark}}
 % \setlength{\footnotesep}{1pt}
 \usepackage[hang,multiple]{footmisc}
 % \renewcommand\footnotelayout{\sffamily}
@@ -744,6 +535,41 @@ sort&compress, % as sort but in addition multiple numerical citations are compre
 % \fi
 }
 
-\renewcommand{\FontTableBase}{\rmfamily}
-\renewcommand\TabHeading[1]{{\color{DefaultB}\textbf{#1}}}
-\renewcommand\TabSub[1]{{\bfseries #1}}
+
+
+\usetikzlibrary{shapes,calc}%Tbl of elements
+
+
+
+% Randnummernzähler einrichten 
+\newcounter{randnr} 
+\newcommand{\newrandnummer}{\refstepcounter{randnr}} 
+\newcommand{\rdnr}{\newrandnummer\marginnote{{\sffamily\bfseries\scriptsize\therandnr}}} 
+
+\makepagenote
+
+  
+\newcommand{\MultiColListStart}[2]{\addtocontents{#1}{\protect\begin{multicols}{#2}}}
+\newcommand{\MultiColListEnd}[1]{\addtocontents{#1}{\protect\end{multicols}}}
+\newcommand{\Sign}[1]{{\sffamily#1}}
+
+
+\newcommand{\KAMEL}[1]{{\color{DefaultB}\small\textcircled{\ttfamily\bfseries\scriptsize#1}}}
+\newcommand{\TxKAMEL}{(S-)KAMEL}
+\newcommand{\SAMPLE}[1]{{\color{DefaultB}\small\textcircled{\ttfamily\bfseries\scriptsize#1}}}
+\newcommand{\TxSAMPLE}{(S)AMPLE}
+\newcommand{\SpeechMargin}[1]{\marginpar{{\small\Speech{#1}}}}
+\newcommand{\SpeechTextMargin}[1]{\marginpar{{\small\Speech{#1}}}\Speech{#1}}
+\newcommand{\Study}[1]{\textit{#1}}
+\newcommand{\FontTypewriter}{\fontfamily{lmtt}\fontseries{lc}\selectfont}
+
+
+
+
+
+\newcommand{\VARIANT}[2]{{\opt{STATUS-DRAFT}{\color{SteelBlue}\sffamily\textbf{///~\uline{#1}$\rightarrow$}}\opt{#1}{#2}\opt{STATUS-DRAFT}{$\leftarrow$\textbf{\uline{#1}~///}}}}
+\usepackage[autostyle,german=guillemets]{csquotes}
+
+
+
+

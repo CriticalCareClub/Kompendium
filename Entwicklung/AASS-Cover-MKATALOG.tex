@@ -43,28 +43,16 @@ footnotes=multiple,
 % \usepackage{showidx} % shows index entries on page margin
 % \usepackage{showkeys}
 
-\input{./inputs/input-preamble-cover-MKATALOG}
-
-% Trennungen
-\input{./inputs/input-hyphenation}
-
-% Titel
-\input{./inputs/input-title}
-
-% Dokumenteinfos (Status, Version, ...)
-\input{./inputs/input-docinfo-MKATALOG}
-
-% Kopf- und Fusszeilen
-\input{./inputs/input-headfoot}
-
-% Ausgeschlossene Kapitel
-\input{./inputs/input-excludeonly}
-
-% Schliesse nur bestimmte Kapitel ein ...
-\input{./inputs/input-includeonly}
-
-% optional --- Optionaler Text. 
-\input{./inputs/input-optkeys}
+% Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{./inputs/input-optkeys}		% optional --- Optionaler Text.
+% \opt{ORG-ASBOE}{\usepackage{asboe}} % Style-Def. vor Präamble
+\input{./inputs/input-preamble-cover-MKATALOG}% Präambel
+\input{./inputs/input-hyphenation}	% Trennungen
+\input{./inputs/input-title}		% Titel
+\input{./inputs/input-docinfo}		% Dokumenteinfos (Status, Version, ...)
+\input{./inputs/input-headfoot}		% Kopf- und Fusszeilen
+% \input{./inputs/input-excludeonly}	% Ausgeschlossene Kapitel
+% \input{./inputs/input-includeonly}	% Schliesse nur bestimmte Kapitel ein ...
 
 \setcounter{errorcontextlines}{10}
 
@@ -75,7 +63,7 @@ footnotes=multiple,
 \usepackage{ragged2e}
 % \usepackage[xcolor]{changebar}
 % % \driver{PDFTeX} % changebar
-
+\def\familydefault{\sfdefault}
 \begin{document}
 \begin{titlepage}
 \input{./inputs/input-cover-front-MKATALOG}
@@ -111,52 +99,67 @@ Sanitätsdienst}}
 
 
 \parpic[r][r]{\includegraphics[width=4cm]{./images/motal-aass/helm1}}
+Nach über vier Jahren Arbeit ist es nun soweit: Die erste
+öffentliche Version der Arbeits- und Ausbildungsstandards
+für den Sanitätsdienst ({\AASS}) sowie des zugehörigen
+Maßnahmenkataloges sind hiermit erschienen.
+
+Die {\AASS} sind ein Gemeinschaftsprojekt  von Medizinern,
+Sanitätern und Angehöriger anderer Gesundheitsberufe,
+welchen die Ausbildung und die Arbeit im Sanitätswesen am
+Herzen liegt. Wir versuchen dabei, das Wissen und die Welt
+des Sanitätsdienstes fundiert und umfassend darzustellen,
+und damit sowohl eine Unterlage für die Ausbildung, als auch
+ein Hilfsmittel für die Praxis zu schaffen. 
+In diesem Sinne entstand in Zusammenarbeit mit dem Ausbildungszentrum des ASB
+Floridsdorf-Donaustadt dieses Werk, welches sich ebendort --
+etappenweise und unter kontrollierten Bedingungen
+eingeführt -- seit über drei Jahren als Lern- und
+Ausbildungsunterlage
+bewährt hat.
+
 Dieser Maßnahmenkatalog ist ein Begleitbuch zu den Arbeits-
-und Ausbildungsstandards für den Sanitätsdienst (\AASS),
-welche sich nun seit über zwei Jahren im Probebetrieb
-befinden und kontinuierlich weiterentwickelt werden. Mit
-der 11. Vorabversion (0.22) wurden die speziellen Maßnahmen
-in dieses Werk ausgegliedert. 
-Einerseits, um ein einfacheres Aktualisieren der Lehrmeinung
-ohne Austausch der Lehrbücher zu ermöglichen, und
-andererseits, um ein handliches Kompendium zu schaffen,
-welches auch im Dienstbetrieb mitgeführt werden kann, und
-einen raschen Zugriff auf die "`gültige"'
+und Ausbildungsstandards für den Sanitätsdienst (\AASS), welches
+einerseits eine einfachere Aktu\-al\-i\-sier\-ung der Lehrmeinung
+ohne Austausch der Lehrbücher ermöglicht, und
+andererseits ein handliches Kompendium darstellt,
+welches auch im Dienstbetrieb mitgeführt werden kann und im Bedarfsfall
+einen raschen Zugriff auf die aktuelle
 Lehrmeinung erlaubt. 
 
-Gleichzeitig wurde damit ein Prozess gestartet, die darin
-enthaltenen Empfehlungen kritisch zu hinterfragen und einem
-systematischen Review zu unterziehen. Dies hat sich als
-große Herausforderung erwiesen, da es nicht nur um die
-Formulierung von medizinisch korrekten Aussagen geht,
-vielmehr gilt es auch, die unterschiedlichen praktischen
-Erfordernisse und Voraussetzungen unterschiedlicher
-Rettungsdienst- und anderer Bereiche zu berücksichtigen.
+Kurzum, dieses Werk soll es dem 
+Fachpersonal ermöglichen, im Rahmen der jeweiligen
+Kompetenzen selbstständig und eigenverantwortlich im Sinne
+des Patienten tätig zu werden und dabei souveräne und
+fundierte, regel\E{geleitetete} -- nicht
+regel\E{gebundene} -- Entscheidungen  zu treffen. Dieses Bekenntnis zum
+\enquote*{Mensch vor Ort} als entscheidender Faktor für den Erfolg
+einer Behandlung ist integraler Bestandteil unserer
+Philosophie, denn \ldots
 
-Wir hoffen, mit diesem Werk ein brauchbares Instrument für
-die meisten Anwender geschaffen zu haben -- Wir appellieren
-jedoch an alle Nutzer, uns ihre Wünsche, Anregungen und
-Kritik mitzuteilen, damit dieser Maßnahmenkatalog von der
-Expertise und Erfahrung von engangierten Kollegen "`an der
-Front"' profitieren und sich weiterentwickeln kann --
+\begin{flushright}
+\Speech{salus aegroti suprema lex}\footnote{salus aegroti suprema lex \Lang{lat.}: \Speech{Das
+Wohl des Kranken ist oberstes Gebot.}}
+\end{flushright}
 
-\hfill-- \Speech{saluti et solatio aegrorum.}
+
 
 \bigskip\footnotesize
 
-\DocVersion\\
+\begin{minipage}{\linewidth-2.5cm}
+Version {\DocVersion} Variante {\DocVariant}\\
 \DocVersionInfo
 
 \begin{labeling}[:]{mmmmm}\ttfamily
-  \item[SHA1] \DocGitCommit
-  \item[ISBN] ---
+%   \item[SHA1] \DocGitCommit
+  \item[ISBN] in Bearbeitung
   \item[DOI] ---
 \end{labeling}
-
-
-\vfill
-
+\end{minipage}
+\begin{minipage}{2.5cm}
 \begin{center}
 \includegraphics[width=2.5cm]{./images/qr-codes/qrcode-AASS-Homepage}
 \end{center}
+
+\end{minipage}
 \end{document}

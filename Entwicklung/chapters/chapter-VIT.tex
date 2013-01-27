@@ -82,9 +82,10 @@ toleriert werden kann:
 2. Ordnung}
 
 \begin{tabularx}{\linewidth}[H]{XX}
-\TabHeading{Vitalfunktionen I. Ordnung}
+\toprule\addlinespace
+\noindent\TabHeading{Vitalfunktionen I. Ordnung}
  &
-\TabHeading{Vitalfunktionen II. Ordnung}
+\noindent\TabHeading{Vitalfunktionen II. Ordnung}
 \\\addlinespace\midrule\addlinespace
 \begin{itemize}
   \item Bewusstsein
@@ -123,14 +124,14 @@ Man unterscheidet die Stufen 1 bis 7:
 \FormatTable
 \Captionof{table}{NACA-Score.}
 
-\begin{tabular}{clrr}\addlinespace
-\TabHeading{NACA}
+\begin{tabular}{clrr}\toprule\addlinespace
+\noindent\TabHeading{NACA}
 &
-\TabHeading{Bedeutung}
+\noindent\TabHeading{Bedeutung}
 &
-\TabHeading{Anteil Pat.}
+\noindent\TabHeading{Anteil Pat.}
 &
-\TabHeading{Anteil \PC}
+\noindent\TabHeading{Anteil \PC}
 \\\addlinespace\midrule\addlinespace
  I & keine ärztliche Therapie erforderlich & 10\,217 & 8,7
 \\\addlinespace
@@ -1450,7 +1451,7 @@ unter \FullPrettyRef{topic:herz-kreislauf-stoerungen} besprochen.
 
 
 
-
+\clearpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1576,21 +1577,20 @@ Die Tabelle
 \prettyref{tab:schocksymptomatik} gibt eine entsprechende Übersicht.
 
 \begin{table}[H]
-\begin{WidePar}
+% \begin{WidePar}
 \Captionof{table}{Allgemeine
 Schocksymptomatik.\label{tab:schocksymptomatik}}
 \CorrectionItemizeBox\FontTableBase
 
-\begin{tabularx}{\linewidth}{p{3.5cm}m{1,2cm}X}
+\begin{tabularx}{\linewidth}{p{9em}X}
 \addlinespace\toprule\addlinespace
 \noindent\TabHeading{Stadium}
 &
-\noindent\TabHeading{Pat.}
-&
 \noindent\TabHeading{Symptome}
 \\\addlinespace\midrule\addlinespace
-{\sffamily\Large\color{DarkGreen} \index{Schockgefahr}Schockgefahr}
-&
+\TabSub{\color{DarkGreen} \index{Schockgefahr}Schockgefahr}
+
+\bigskip
 
 \centering\includegraphics[width=1cm]{./icons/sm-basic.png}
 &
@@ -1602,8 +1602,9 @@ Schocksymptomatik.\label{tab:schocksymptomatik}}
      Schockgefahr?
  \end{itemize}
 \\\addlinespace
-{\sffamily\Large\color{OrangeRed}Schock}
-&
+\TabSub{\color{OrangeRed}Schock}
+
+\bigskip
 
 \centering\includegraphics[width=1cm]{./icons/sm-pale.png}
 &
@@ -1617,10 +1618,11 @@ Schocksymptomatik.\label{tab:schocksymptomatik}}
      \item Peripherie schlecht durchblutet, Rekapzeit erhöht
  \end{itemize}
 \\\addlinespace
-{\sffamily\Large\color{red}Schwerer Schock
+\TabSub{\color{red}Schwerer Schock
 
 Vollbild}
-&
+
+\bigskip
 
 \centering\includegraphics[width=1cm]{./icons/sm-pale-frown.png}
 &
@@ -1638,8 +1640,9 @@ Vollbild}
   frühzeitig erkennen \&  behandeln
 \end{itemize}
 \\\addlinespace
-{\sffamily\Large\color{LightSlateGray}Endstadium}
-&
+\TabSub{\color{LightSlateGray}Endstadium}
+
+\bigskip
 
 \huge\centering $\skull$
 &
@@ -1653,7 +1656,7 @@ Vollbild}
 \end{itemize}
 \\\addlinespace\bottomrule
 \end{tabularx}
-\end{WidePar}
+% \end{WidePar}
 \end{table}
 
 
@@ -2552,13 +2555,11 @@ Teilchen, sog. \E{Kationen} (z.\,B. Kalium (\ce{K^+}),
 Natrium (\ce{Na^+}), Magnesium (\ce{Mg^{++}}), Kalzium
 (\ce{Ca^{++}}), \ldots) und negativ geladenen Teilchen, den
 \E{Anionen} (z.\,B. Chlorid (\ce{Cl^-})).
-
 Diese Ionen sind unterschiedlich verteilt: Im \Abk{IZR} ist
 die \ce{K^+}-Konzentration hoch, dagegen gibt es wenig
 \ce{Na^+}; Im \Abk{EZR} ist es umgekehrt: Es gibt viel
 \ce{Na^+} und wenig \ce{K^+}. Spezielle Transportsysteme
 sorgend dafür, dass diese Ionen derartig verteilt werden.}
-
 \Fazit{Im Wasser gelöste, elektrisch geladene Teilchen, wie
 z.\,B. Natrium, Kalium und Chlorid, heißen \T{Elektrolyte}.
 Sie sind im Körper unterschiedlich verteilt.}

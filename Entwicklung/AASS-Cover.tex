@@ -43,28 +43,16 @@ footnotes=multiple,
 % \usepackage{showidx} % shows index entries on page margin
 % \usepackage{showkeys}
 
-\input{./inputs/input-preamble-cover}
-\usepackage{aass-layout}
-% Trennungen
-\input{./inputs/input-hyphenation}
-
-% Titel
-\input{./inputs/input-title}
-
-% Dokumenteinfos (Status, Version, ...)
-\input{./inputs/input-docinfo}
-
-% Kopf- und Fusszeilen
-\input{./inputs/input-headfoot}
-
-% Ausgeschlossene Kapitel
-\input{./inputs/input-excludeonly}
-
-% Schliesse nur bestimmte Kapitel ein ...
-\input{./inputs/input-includeonly}
-
-% optional --- Optionaler Text. 
-\input{./inputs/input-optkeys}
+% Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{./inputs/input-optkeys}		% optional --- Optionaler Text.
+% \opt{ORG-ASBOE}{\usepackage{asboe}} % Style-Def. vor Präamble
+\input{./inputs/input-preamble-cover}% Präambel
+\input{./inputs/input-hyphenation}	% Trennungen
+\input{./inputs/input-title}		% Titel
+\input{./inputs/input-docinfo}		% Dokumenteinfos (Status, Version, ...)
+\input{./inputs/input-headfoot}		% Kopf- und Fusszeilen
+\input{./inputs/input-excludeonly}	% Ausgeschlossene Kapitel
+\input{./inputs/input-includeonly}	% Schliesse nur bestimmte Kapitel ein ...
 
 \setcounter{errorcontextlines}{10}
 
@@ -76,9 +64,10 @@ footnotes=multiple,
 % \usepackage[xcolor]{changebar}
 % % \driver{PDFTeX} % changebar
 \usepackage[autostyle,german=guillemets]{csquotes}
-
+\def\familydefault{\sfdefault}
 \begin{document}
 \begin{titlepage}
+
 \input{./inputs/input-cover-front}
 
 \end{titlepage}
@@ -111,53 +100,104 @@ Sanitätsdienst}}
 
 
 \parpic[r][r]{\includegraphics[width=5.5cm]{./images/motal-aass/helm1}}
-Das vorliegende Werk ist das Ergebnis einer seit
-mehr als vier Jahren andauernden Arbeit. 
-Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
-bereits breitgetretener Pfade fundiert darzustellen, und
-damit sowohl eine Unterlage für die Ausbildung, als auch ein
-Hilfsmittel für die Praxis zu schaffen.  
-Besonderen Wert haben wir dabei   
-auf das Hintergrundwissen und relevante Randbereiche gelegt.
-Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
-wieder veraltet ist, bildet dieses Fundament die Chance für eine
-langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
-(anstatt strikten, regel\E{gebundenen} Handelns). 
+Nach über vier Jahren Arbeit ist es nun soweit: die erste
+öffentliche Version der Arbeits- und Ausbildungsstandards
+für den Sanitätsdienst ({\AASS}) sowie des zugehörigen
+Maßnahmenkataloges sind hiermit erschienen.
 
-In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
-Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
-österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
-Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
-schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
-zwei Jahren als Lern- und Ausbildungsunterlage
-bewähren.
+Die {\AASS} sind ein Gemeinschaftsprojekt  von Medizinern,
+Sanitätern und Angehöriger anderer Gesundheitsberufe,
+welchen die Ausbildung und die Arbeit im Sanitätswesen am
+Herzen liegt. Wir versuchen dabei, das Wissen und die Welt
+des Sanitätsdienstes fundiert und umfassend darzustellen,
+und damit sowohl eine Unterlage für die Ausbildung, als auch
+ein Hilfsmittel für die Praxis zu schaffen. 
+In diesem Sinne entstand in Zusammenarbeit mit dem Ausbildungszentrum des ASB
+Florisdorf-Donaustadt dieses Werk, welches sich ebendort --
+etappenweise und unter kontrollierten Bedingungen
+eingeführt -- seit über drei Jahren als Lern- und
+Ausbildungsunterlage
+bewährt hat.
 
-Oft wurden wir
-gefragt \Speech{\enquote{Wann wird Euer Buch fertig sein?}} 
-Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
-ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
-und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
-leisten könnte, still zu stehen.
-Mit dieser Beta-Version möchten wir nun erstmalig an die
-breitere Öffentlichkeit herantreten, und hoffen 
-auf wertvolle Anregungen und konstruktive Kritik durch die
-Leser- und Anwenderschaft.
+Besonderen Wert
+haben wir auf Hintergrundwissen und relevante
+Randbereiche gelegt. Denn in einer Zeit, in der reines
+\enquote*{Kochrezept-Wissen} innerhalb weniger Jahre bereits wieder
+veraltet ist, bildet dieses Fundament die Chance für eine
+langjährige professionelle Tätigkeit und erlaubt
+selbstständiges, regel\E{geleitetes} Arbeiten (anstatt strikten,
+regel\E{gebundenen} Handelns). 
+
+Kurzum, dieses Werk soll es dem 
+Fachersonal ermöglichen, im Rahmen der jeweiligen
+Kompetenzen selbstständig und eigenverantwortlich im Sinne
+des Patienten tätig zu werden und dabei souveräne und
+fundierte Entscheidungen zu treffen. Dieses Bekenntnis zum
+\enquote*{Mensch vor Ort} als entscheidender Faktor für den Erfolg
+einer Behandlung ist integraler Bestandteil unserer
+Philosophie, denn \ldots
+
+\begin{flushright}
+\Speech{salus aegroti suprema lex}\footnote{salus aegroti suprema lex \Lang{lat.}: \Speech{Das
+Wohl des Kranken ist oberstes Gebot.}}
+\end{flushright}
+
+% Das vorliegende Werk ist das Ergebnis einer seit
+% mehr als vier Jahren andauernden Arbeit. 
+% Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
+% bereits breitgetretener Pfade fundiert darzustellen, und
+% damit sowohl eine Unterlage für die Ausbildung, als auch ein
+% Hilfsmittel für die Praxis zu schaffen.  
+% Besonderen Wert haben wir dabei   
+% auf das Hintergrundwissen und relevante Randbereiche gelegt.
+% Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
+% wieder veraltet ist, bildet dieses Fundament die Chance für eine
+% langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
+% (anstatt strikten, regel\E{gebundenen} Handelns). 
+% 
+% In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
+% Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
+% österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
+% Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
+% schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
+% zwei Jahren als Lern- und Ausbildungsunterlage
+% bewähren.
+% 
+% Oft wurden wir
+% gefragt \Speech{\enquote{Wann wird Euer Buch fertig sein?}} 
+% Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
+% ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
+% und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
+% leisten könnte, still zu stehen.
+% Mit dieser Beta-Version möchten wir nun erstmalig an die
+% breitere Öffentlichkeit herantreten, und hoffen 
+% auf wertvolle Anregungen und konstruktive Kritik durch die
+% Leser- und Anwenderschaft.
 
 \bigskip
 
-\DocVersion\\
+\begin{minipage}{\linewidth-2.5cm}
+Version {\DocVersion} Variante {\DocVariant}\\
 \DocVersionInfo
 
 \begin{labeling}[:]{mmmmm}\ttfamily
 %   \item[SHA1] \DocGitCommit
-  \item[ISBN] ---
+  \item[ISBN] in Bearbeitung
   \item[DOI] ---
 \end{labeling}
+\end{minipage}
+\begin{minipage}{2.5cm}
+\begin{center}
+\includegraphics[width=2.5cm]{./images/qr-codes/qrcode-AASS-Homepage}
+\end{center}
+
+\end{minipage}
+
+
+
 
 
 \vfill
 
-\begin{center}
-\includegraphics[width=2.5cm]{./images/qr-codes/qrcode-AASS-Homepage}
-\end{center}
+
 \end{document}

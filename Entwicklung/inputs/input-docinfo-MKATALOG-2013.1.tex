@@ -5,21 +5,16 @@
 \newtimeformat{nummeric}{\twodigit{\THEHOUR}\twodigit{\THEMINUTE}}
 \settimeformat{nummeric}
 
-\newcommand{\VarMkatalogVersion}{2013}
-\newcommand{\VarAassVersion}{1.1-dev-\pdfdate}
-\newcommand{\DocVersion}{1.1-dev-\pdfdate}
-% \renewcommand{\DocVersion}{1.0}
-\newcommand{\DocVariant}{--}
-\opt{VAR-VAR1}{\renewcommand{\DocVariant}{1}}
-\opt{VAR-VAR2}{\renewcommand{\DocVariant}{2}}
+
+\newcommand{\VarAassVersion}{1.0}
+\newcommand{\DocVersion}{2013.1-dev-\pdfste}
+% \renewcommand{\DocVersion}{0.20}
 \newcommand{\DocVersionTyp}{Entwicklungsversion}
 % \renewcommand{\DocVersionTyp}{Vorabversion}
-% \renewcommand{\DocVersionTyp}{Beta-Version}
 % \renewcommand{\DocVersionTyp}{Release}
 \newcommand{\DocVersionInfo}{Entwicklungsversion -- Für den internen Gebrauch.}
-% \renewcommand{\DocVersionInfo}{Vorabversion -- F.\,d. internen Gebrauch.} 
-% \renewcommand{\DocVersionInfo}{Beta-Version -- Zur Ansicht}
-% \renewcommand{\DocVersionInfo}{Release}
+% \renewcommand{\DocVersionInfo}{Vorabversion -- F.\,d. int. Gebrauch.} 
+\renewcommand{\DocVersionInfo}{Release} 
 \hypersetup{
 % draft,
 unicode=true,
@@ -55,7 +50,7 @@ pdfkeywords=ARGE AASS, % Sets the document information Keywords field
 % DraftSuper			- Bilder, + Kommenatare, + draft=yes
 \newcommand{\DocStatus}{DraftFull}
 \newcommand{\DocGitCommit}{Unofficial build, no SHA1 included!}
-% \renewcommand{\DocGitCommit}{(0) \input{../tmp/git-lastcommitsha1.tmp}}
+% \renewcommand{\DocGitCommit}{\input{../tmp/git-lastcommitsha1.tmp}}
 \newcommand{\DocGitCommitFormatted}{\ttfamily\DocGitCommit}
 \newcommand{\DocGitCommitTiny}{\tiny\DocGitCommitFormatted}
 \newcommand{\DocGitCommitScriptsize}{\scriptsize\DocGitCommitFormatted}

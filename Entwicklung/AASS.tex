@@ -28,7 +28,7 @@ toc=flat,
 									% [final] .. Es werden Bilder normal angezeigt
 									% [demo]  .. keine Bilder
 \usepackage{blindtext}
-		
+
 % Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{./inputs/input-optkeys}		% optional --- Optionaler Text.
 % \opt{ORG-ASBOE}{\usepackage{asboe}} % Style-Def. vor Präamble
@@ -72,6 +72,8 @@ sortlocale=de,
 ]{biblatex}
 
 % 	\bibliography{AASS.bib}
+    \addbibresource{BiblioDB-AASS.bib}
+    \addbibresource{BiblioDB-ASBOe.bib}
 	\addbibresource{BiblioDB-Med-Books.bib}
 	\addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
 	\addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
@@ -98,6 +100,7 @@ sortlocale=de,
 % \opt{ORG-ASBOE}{\usepackage{asboe}}
 % \renewcommand{\FontTableBase}{\small\sffamily}
 \setkomafont{descriptionlabel}{\bfseries}
+\usepackage[markup=underlined,ulem=normalem]{changes}	
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################

@@ -123,6 +123,27 @@ sortlocale=de,
 \definecolor{LabelItemBoxProcedures}{named}{BoxProcedures} % Definition nachgeholt
 \definecolor{BoxProceduresBackground}{named}{Lavender}
 % \definecolor{NotesGrey}{named}{MuwGrey}
+
+%  http://tex.stackexchange.com/questions/89208/fancy-chapter-title-page 
+\usepackage{textpos}
+\def\ChapterCode{---}
+\DeclareFixedFont{\chapternumberfont}{T1}{ppl}{}{}{1.5in}
+\titleformat{\chapter}[display]{\Huge\bfseries\sffamily\color{white}}{
+\thispagestyle{empty}
+\begin{tikzpicture}[overlay, remember picture]
+        \path let \p1 = (current page.west), \p2 = (current page.east) in
+              node[minimum width=\x2-\x1, minimum height=5cm, rectangle, fill=cyan, anchor=north west, align=left, text width=\x2-\x1] at ($(current page.north west)$) {
+                \begin{textblock*}{5in}(\dimexpr\x2-4.5in,\dimexpr0.25\headheight-1in)
+                    \tikz \node [white,text width=2in, align=right, font=\sffamily] {{\normalsize [\ChapterCode]}\\[12pt] \raisebox{20pt}{{\large ~}} \raisebox{-12pt}{\chapternumberfont \thechapter}};
+                \end{textblock*}
+                \begin{textblock*}{5in}(\dimexpr\x2-9.4in,\dimexpr0.25\headheight-1.7in)
+                    \tikz \node [white,text width=2in, align=left, font=\sffamily] {{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{White} AAS\color{cyan!50}S \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\normalsize ASBÖ 921}};
+                \end{textblock*}
+              };
+        \path let \p1 = (current page.west), \p2 = (current page.east) in
+              node[minimum width=\x2-\x1, minimum height=0.8in, rectangle, fill=cyan!50, anchor=south west, align=left, text width=\x2-\x1] at ($(current page.south west)$) {};
+\end{tikzpicture}
+}{-1.0in}{}[\vspace*{1in}]
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################

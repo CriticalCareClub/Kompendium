@@ -101,15 +101,17 @@
 \usepackage{aass-fonts}
 \opt{VAR-VAR2}{\usepackage{asboe}}
 
-
-\usepackage[grey,helvetica]{quotchap}
-%\renewcommand{\sectfont}{\large\color{DefaultA}\sffamily\fontfamily{phv}\selectfont}
-\definecolor{chaptergrey}{named}{DefaultA}
-
-
-\addtokomafont{chapter}{\Huge\sffamily\bfseries\color{DefaultA}}
-\renewcommand{\thesection}{{\color{DefaultA}\thechapter}.\arabic{section}}
-
+% \setkomafont{chapter}{\Huge\usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{DefaultA}}
+% \usepackage[grey,helvetica]{quotchap}
+% % \renewcommand{\sectfont}{\Huge\usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{DefaultA}}
+% \definecolor{chaptergrey}{named}{DefaultA}
+% \qsetcnfont{PTSansCaption-TLF}
+% \renewcommand{\chapnumfont}{\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\scalefont{4}}
+% 
+% \setkomafont{chapter}{\Huge\usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{DefaultA}}
+\renewcommand{\thesection}{{\color{DefaultA}\thechapter}{\color{DefaultB}.\arabic{section}}}
+\renewcommand{\thesubsection}{{\color{DefaultA}\thechapter}{\color{DefaultB}.\arabic{section}.\arabic{subsection}}}
+\newenvironment{savequote}{}{}
 
 \usepackage{minitoc} 
 %The quotchap package should be loaded BEFORE the minitoc package.

@@ -151,6 +151,29 @@ sortlocale=de,
 \renewcommand{\AASS}{{\usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}}
 \renewcommand{\ARGE}{{\usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont ARGE \color{AltBlueDark} AAS\color{AsboeRed}S}}
 
+
+\newcommand{\SymbolFindingNormal}{$\perp$}
+\newcommand{\SymbolFindingVariant}{$\sim$}
+% \newcommand{\SymbolPkuAuffaellig}{\lbend}
+\newcommand{\SymbolFindingPatho}{\textbf{$\times$}}
+\newenvironment{Findings}[1][]
+{%
+% \begin{tcolorbox}[
+% title={\flushleft{Befunde: #1}},
+% fonttitle=\sffamily\bfseries\small,fontupper=\sffamily\small,
+% left=2pt,right=2pt,
+% colframe=Beige,
+% colback=LightYellow,
+% % skin=beamer,
+% ]%
+\begin{labeling}{xx}}
+{\end{labeling}
+% \end{tcolorbox}
+}
+
+\newcommand{\FindingSpeech}[1]{\Speech{\color{MuwBlueDark}{#1}}}
+
+
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################

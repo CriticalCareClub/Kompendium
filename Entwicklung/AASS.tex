@@ -173,7 +173,43 @@ sortlocale=de,
 
 \newcommand{\FindingSpeech}[1]{\Speech{\color{MuwBlueDark}{#1}}}
 
-
+% % % http://compgroups.net/comp.text.tex/making-a-cmyk-pdf/153995
+% 
+% % sRGB
+% \immediate\pdfobj stream attr{/N 4}  file{AdobeRGB1998.icc}
+% \pdfcatalog{%
+%   /OutputIntents [ <<
+%   /Type /OutputIntent
+%   /S/GTS_PDFA1
+%   /DestOutputProfile \the\pdflastobj\space 0 R
+%   /OutputConditionIdentifier (sRGB AdobeRGB1998)
+%   /Info(sRGB AdobeRGB1998)
+%  >> ]
+% }
+% 
+% IPAD
+\immediate\pdfobj stream attr{/N 4}  file{iPad.icc}
+\pdfcatalog{%
+  /OutputIntents [ <<
+  /Type /OutputIntent
+  /S/GTS_PDFA1
+  /DestOutputProfile \the\pdflastobj\space 0 R
+  /OutputConditionIdentifier (sRGB iPad)
+  /Info(sRGB iPad)
+ >> ]
+}
+% 
+% % CMYK FOGRA 29 COATED
+% \immediate\pdfobj stream attr{/N 4}  file{UncoatedFOGRA29.icc}
+% \pdfcatalog{%
+%   /OutputIntents [ <<
+%   /Type /OutputIntent
+%   /S/GTS_PDFA1
+%   /DestOutputProfile \the\pdflastobj\space 0 R
+%   /OutputConditionIdentifier (CMYK UncoatedFOGRA29)
+%   /Info(CMYK UncoatedFOGRA29)
+%  >> ]
+% }
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################

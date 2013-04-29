@@ -137,10 +137,10 @@ sortlocale=de,
         \path let \p1 = (current page.west), \p2 = (current page.east) in
               node[minimum width=\x2-\x1, minimum height=5cm, rectangle, fill=AltBlueDark, anchor=north west, align=left, text width=\x2-\x1] at ($(current page.north west)$) {
                 \begin{textblock*}{5in}(\dimexpr\x2-4.5in,\dimexpr0.25\headheight-1in)
-                    \tikz \node [white,text width=2in, align=right, font=\sffamily] {{\normalsize [\ChapterCode]}\\[12pt] \raisebox{20pt}{{\large ~}} \raisebox{-12pt}{\chapternumberfont \thechapter}};
+                    \tikz \node [white,text width=2in, align=right, font=\sffamily] {{\normalsize [\ChapterCode]}\\[12pt] \raisebox{20pt}{{\large ~}} \raisebox{-12pt}{\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\scalefont{3}\thechapter}};
                 \end{textblock*}
                 \begin{textblock*}{5in}(\dimexpr\x2-9.4in,\dimexpr0.25\headheight-1.7in)
-                    \tikz \node [white,text width=2in, align=left, font=\sffamily] {{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{White} AAS\color{AltBlueLight}S \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\normalsize ASBÖ 921}};
+                    \tikz \node [white,text width=2in, align=left, font=\sffamily] {{\Huge \AASSNegative ~ \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\normalsize}};
                 \end{textblock*}
               };
         \path let \p1 = (current page.west), \p2 = (current page.east) in

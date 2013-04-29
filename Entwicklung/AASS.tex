@@ -685,6 +685,11 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \vspace{3\baselineskip}
 
+Test {\usefont{T1}{fxb}{m}{n}\selectfont Test} {\biolinum
+Test}
+
+
+
 
 \begin{WidePar}\flushleft
   \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
@@ -889,15 +894,7 @@ Basisteil}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Literaturverzeichnis
-% \opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\small\setlength{\parskip}{0pt}\cleardoublepage\bibliography{Literatur-AASS}\restoregeometry}\onecolumn}
-% \opt{STATUS-WITH-BIBLIO}{{\setlength{\parskip}{0pt}\bibliography{Literatur-AASS}}}
-
-% {{%
-% \loadgeometry{FullPage}%
-% \twocolumn\cleardoublepage\printbibliography\restoregeometry}\onecolumn}
-
 \nocite{ArzPocketAustria2,AerztlicheWundversorgung2,EkgIsabell5,InnereMedQuick3}
-
 \addtocategory{BestOf}{
 emergency9,
 DahmerGespraechsfuehrung5,
@@ -916,9 +913,12 @@ RedelsteinerHRNS2,
 ITLSde6,
 Helfen2008,
 StriebelAnaesthesie2}
-\printbibliography[category=BestOf,title={Literatur,
-Best of},prenote=bestof]
-% \bibbycategory
+
+\printbibliography[
+category=BestOf,
+title={Literatur,Best of},
+prenote=bestof]
+
 \printbibliography
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

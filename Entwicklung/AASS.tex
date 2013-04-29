@@ -106,26 +106,26 @@ sortlocale=de,
 \definecolor{AsboeRed}{cmyk}{0,1,0.8,0}
 
 
-\definecolor{DefaultRed}{named}{AsboeRed}
-\definecolor{DefaultContrast}{named}{DefaultRed}
-% Redefine ASBÖ-specific colors
-\definecolor{LabelItem}{named}{AltBlueMiddle}
-\definecolor{LabelItemBoxStandard}{named}{AltBlueDark}
-% \definecolor{LabelItemBoxProcedures}{named}{BoxProcedures} % Definition nach BoxProcedures
-\definecolor{Customized}{named}{AltBlueDark}
-\definecolor{CustomizedBackground}{named}{AltBlueVeryLight}
-% \definecolor{BoxStandard}{named}{AsboeGreenDeco}
-% \definecolor{BoxStandardBackground}{named}{AsboeGreenDecoLight}
-\definecolor{BoxStandard}{named}{AltBlueDark}
-% \definecolor{BoxStandardBackground}{named}{CyanLight}
-\definecolor{BoxStandardBackground}{named}{AltBlueVeryLight}
-\definecolor{BoxStandardText}{named}{black}
-% \definecolor{BoxStandard}{named}{AsboeRed}
-% \definecolor{BoxStandardBackground}{cmyk}{0,0.1,0.08,0}
-\definecolor{BoxProcedures}{named}{Indigo}
-\definecolor{LabelItemBoxProcedures}{named}{BoxProcedures} % Definition nachgeholt
-\definecolor{BoxProceduresBackground}{named}{Lavender}
-% \definecolor{NotesGrey}{named}{MuwGrey}
+% \definecolor{DefaultRed}{named}{AsboeRed}
+% \definecolor{DefaultContrast}{named}{DefaultRed}
+% % Redefine ASBÖ-specific colors
+% \definecolor{LabelItem}{named}{AltBlueMiddle}
+% \definecolor{LabelItemBoxStandard}{named}{AltBlueDark}
+% % \definecolor{LabelItemBoxProcedures}{named}{BoxProcedures} % Definition nach BoxProcedures
+% \definecolor{Customized}{named}{AltBlueDark}
+% \definecolor{CustomizedBackground}{named}{AltBlueVeryLight}
+% % \definecolor{BoxStandard}{named}{AsboeGreenDeco}
+% % \definecolor{BoxStandardBackground}{named}{AsboeGreenDecoLight}
+% \definecolor{BoxStandard}{named}{AltBlueDark}
+% % \definecolor{BoxStandardBackground}{named}{CyanLight}
+% \definecolor{BoxStandardBackground}{named}{AltBlueVeryLight}
+
+% % \definecolor{BoxStandard}{named}{AsboeRed}
+% % \definecolor{BoxStandardBackground}{cmyk}{0,0.1,0.08,0}
+% \definecolor{BoxProcedures}{named}{Indigo}
+% \definecolor{LabelItemBoxProcedures}{named}{BoxProcedures} % Definition nachgeholt
+% \definecolor{BoxProceduresBackground}{named}{Lavender}
+% % \definecolor{NotesGrey}{named}{MuwGrey}
 
 %  http://tex.stackexchange.com/questions/89208/fancy-chapter-title-page 
 \usepackage{textpos}
@@ -147,10 +147,6 @@ sortlocale=de,
               node[minimum width=\x2-\x1, minimum height=0.8in, rectangle, fill=AltBlueLight, anchor=south west, align=left, text width=\x2-\x1] at ($(current page.south west)$) {};
 \end{tikzpicture}
 }{-1.0in}{}[\vspace*{1in}]
-
-\renewcommand{\AASS}{{\usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}}
-\renewcommand{\ARGE}{{\usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont ARGE \color{AltBlueDark} AAS\color{AsboeRed}S}}
-
 
 \newcommand{\SymbolFindingNormal}{$\perp$}
 \newcommand{\SymbolFindingVariant}{$\sim$}

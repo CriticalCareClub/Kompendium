@@ -1,98 +1,55 @@
-% \documentclass[
-% ngerman,
-% paper=a4,
-% asymmetric,
-% fontsize=9pt,
-% % headings=small,
-% draft=false,
+\documentclass[
+ngerman,
+paper=a4,
+asymmetric,
+fontsize=10pt,
+% headings=small,
+draft=false,
 % parskip=half,
-% % listof=totoc,         % verschiebt Minitoc/Hyperref
-% % bibliography=totoc,   % verschiebt Minitoc/Hyperref
-% bibtotocnumbered,
-% % index=totoc,
-% % noonelinecaption,
-% footnotes=multiple,
-% % toc=flat,
-% ]{scrreprt}
-\documentclass[fontsize=9pt,paper=a4,parskip=half,DIV=15,twocolumn=no]{scrartcl}
-% \setlength{\parindent}{1.5em}
-% \usepackage{scrhack}
-
-% UTF-8 Schriftkodierung
-\usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}
-% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
-\usepackage{etex}
-
-\pdfcompresslevel=9
-\pdfimageresolution=72
-% \pdfpkresolution=72
-% \usepackage[a-1b]{pdfx}
-% \def\Keywords{AASS} \def\Title{AASS} \def\Author{ARGE AASS} \def\Org{ARGE AASS}
-% % \input glyphtounicode.tex \input glyphtounicode-cmr.tex \pdfgentounicode=1
-% \usepackage[xcolor]{rvdtx}
+numbers=noenddot,
+% listof=totoc,         % verschiebt Minitoc/Hyperref
+% bibliography=totoc,   % verschiebt Minitoc/Hyperref
+bibtotocnumbered,
+% index=totoc,
+% noonelinecaption,
+footnotes=multiple,
+toc=flat,
+]{scrbook}
+\setlength{\parindent}{15pt}
 
 
+\usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}	% UTF-8 Schriftkodierung
+
+\usepackage{etex}					% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
+
+\usepackage[final]{graphicx} 		% Bilder-Support
+									% Optionen für Bilder:
+									% [draft] .. Es werden nur Rahmen angezeigt
+									% [final] .. Es werden Bilder normal angezeigt
+									% [demo]  .. keine Bilder
 \usepackage{blindtext}
+		
+% Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{./inputs/input-optkeys}		% optional --- Optionaler Text.
+% \opt{ORG-ASBOE}{\usepackage{asboe}} % Style-Def. vor Präamble
+\input{./inputs/input-preamble}		% Präambel
+\input{./inputs/input-hyphenation}	% Trennungen
+\input{./inputs/input-title-dossier}		% Titel
+\input{./inputs/input-docinfo-dossier}		% Dokumenteinfos (Status, Version, ...)
+\input{./inputs/input-headfoot}		% Kopf- und Fusszeilen
+% \input{./inputs/input-excludeonly}	% Ausgeschlossene Kapitel
+% \input{./inputs/input-includeonly}	% Schliesse nur bestimmte Kapitel ein ...
+
+\renewcommand{\Abk}[1]{#1} 			% reset Abk
+
+
 \usepackage{microtype,fixltx2e,ellipsis}
-
-% Optionen für Bilder:
-% [draft] .. Es werden nur Rahmen angezeigt
-% [final] .. Es werden Bilder normal angezeigt
-% [demo} .. keine Bilder
-\usepackage[final]{graphicx} % Bilder-Support
-
-% \usepackage{showidx} % shows index entries on page margin
-% \usepackage{showkeys}
-
-\input{./inputs/input-preamble-dossier}
-
-% Trennungen
-\input{./inputs/input-hyphenation}
-
-% Titel
-\input{./inputs/input-title-dossier}
-
-% Dokumenteinfos (Status, Version, ...)
-\input{./inputs/input-docinfo-dossier}
-
-% Kopf- und Fusszeilen
-\input{./inputs/input-headfoot}
-
-
-
-% optional --- Optionaler Text. 
-\input{./inputs/input-optkeys}
-
-\setcounter{errorcontextlines}{10}
-
-% \usepackage{fontspec}
-% \usepackage{setspace}
 
 
 \usepackage{ragged2e}
-% \usepackage[xcolor]{changebar}
-% % \driver{PDFTeX} % changebar
 
-% Randnummernzähler einrichten 
-\newcounter{randnr} 
-\newcommand{\newrandnummer}{\refstepcounter{randnr}} 
-\newcommand{\rdnr}{\newrandnummer\marginnote{{\sffamily\bfseries\scriptsize\therandnr}}} 
 
 \makepagenote
-
-% \newcommand{\MultiColMassnahmenStart}[1]{\addtocontents{lomassnahmen}{\protect\begin{multicols}{#1}}}
-% \newcommand{\MultiColMassnahmenEnd}{\addtocontents{lomassnahmen}{\protect\end{multicols}}}
-% \newcommand{\MultiColFazitStart}[1]{\addtocontents{lofazit}{\protect\begin{multicols}{#1}}}
-% \newcommand{\MultiColFazitEnd}{\addtocontents{lofazit}{\protect\end{multicols}}}
-  
-\newcommand{\MultiColListStart}[2]{\addtocontents{#1}{\protect\begin{multicols}{#2}}}
-\newcommand{\MultiColListEnd}[1]{\addtocontents{#1}{\protect\end{multicols}}}
-\newcommand{\Sign}[1]{{\sffamily#1}}
-
-
-
-
-
 
 
 % #######################################################################################################
@@ -106,175 +63,8 @@
 % #######################################################################################################
 \begin{document}
 \flushbottom
-% \pagestyle{scrheadings}
 
-% \setmainfont[SmallCapsFont={* Caps},
-% Mapping=tex-text]{Latin Modern Roman}
-% \setsansfont[Mapping=tex-text]{Latin Modern Sans}
-% \setmonofont[SmallCapsFont={* Caps}]{Latin Modern Mono}
-
-% \defaultfontfeatures{Numbers=OldStyle}
-% \MultiColListStart{toc}{2}
-% \MultiColListStart{lofazit}{2}
-% \MultiColListStart{lomassnahmen}{2}
-
-\nobibliography*
-
-% \newgeometry{verbose,
-% a4paper,
-% asymmetric,
-% % reversemp,
-% reversemarginpar,
-% % % includemp,
-% % % tmargin=25mm,
-% % % bmargin=20mm,
-% rmargin=13mm,
-% lmargin=13mm,
-% % % outer  = 56mm,
-% % % inner  = 56mm,
-% top    = 20mm,
-% bottom = 15mm,
-% % % hmarginratio=2:1,
-% marginparwidth = 0mm,
-% % % headheight=0.5cm,
-% % % headsep=0.5cm,
-% footskip = 5mm,
-% % % includehead,
-% bindingoffset=1.5cm}
-% \savegeometry{FullPage}
-% \newgeometry{verbose,
-% a4paper,
-% asymmetric,
-% % reversemp,
-% reversemarginpar,
-% % % includemp,
-% % % tmargin=25mm,
-% % % bmargin=20mm,
-% rmargin=13mm,
-% lmargin=13mm,
-% % % outer  = 56mm,
-% % % inner  = 56mm,
-% top    = 10mm,
-% bottom = 10mm,
-% % % hmarginratio=2:1,
-% marginparwidth = 0mm,
-% % % headheight=0.5cm,
-% % % headsep=0.5cm,
-% footskip = 5mm,
-% % % includehead,
-% bindingoffset=1.5cm}
-% \savegeometry{WholePage}
-% \restoregeometry
-
-
-
-% \loadgeometry{FullPage}
 \maketitle
-
-\begin{multicols}{2}
-
-% \restoregeometry
-
-%\nocite{*} 
-
-% \layout\pagediagram\pagedesign\paragraphdiagram\paragraphdesign\floatpagediagram\floatpagedesign\listdiagram\listdesign\footnotediagram\footnotedesign\tocdiagram\tocdesign
-
-% \clearpage
-% \section{Vorwort}
-% 
-% 
-% 
-
-% 
-% 
-% % 
-% % \clearpage
-% % \input{./inputs/input-Impressum}
-% 
-% \clearpage
-% \input{./inputs/input-Credits}
-
-
-
-% \input{./inputs/input-Abkz}
-% 
-% \input{./inputs/input-Lizenzen.tex}
-
-
-% \section{Benutzungshinweise}
-% 
-% \Layout{2}{Im Text}{%
-% \E{Betonte} Textteile sind kursiv, \EE{Besonders stark
-% betonte} sind fett gedruckt. \T{Fachbegriffe}, welche an
-% dieser Stelle erklärt werden, sind grün und fett gedruckt.
-% \Z{Zusatzinformationen}, welche der Vollständigkeit halber
-% niedergeschrieben sind, werden grau gedruckt: Sie dienen der
-% zusätzlichen Informationen und stellen keinen inhaltlichen
-% Schwerpunkt dar. 
-% 
-% Ähnliches gilt für Fußnoten: Normale
-% Fußnoten\footnote{Ich bin eine normale Fußnote.} beinhalten
-% Hintergrundinformationen, die nicht uninteressant sind, aber
-% den normalen Fließtext  unnötig aufblähen würden.
-% Zusatzinfo-Fußnoten\ZFootnote{Ich bin eine
-% Zusatz-Info-Fußnote.} werden grau gedruckt und beinhalten
-% Hintergrundinformationen für besonders interessierte Leser.
-% 
-% An manchen Stellen im Text befindet sich eine
-% Kennzeichenungen wie z.\,B.
-% \Commentary[Benutzungshinweise]{Ich bin ein
-% Beispielkommentar aus dem Einleitungsteil.}. Dies ist ein
-% Hinweis auf ein Kommentar im Anhang (Appendix).
-% 
-% }{}{}{}{}
-% 
-% \Layout{2}{Symbole}{%
-% \begin{multicols}{2}
-% \begin{labeling}{mmm}
-%   \item[\SignFigure] \ Abbildungen
-%   \item[{\ovalbox{\sffamily !}}] \ Leitsätze
-%   \item[\SignMassnahme] \ Maßnahmen
-%   \item[\SignTable] \ Tafeln
-% \end{labeling}
-% \end{multicols}
-% }{}{}{}{}
-% 
-% 
-% 
-% \Layout{2}{Index}{%
-% \begin{description}
-%   \item[Zusammengesetzte Begriffe] Eigenschaftswort
-%   Hauptwort \Sign{→} Hauptwort, Eigenschaftswort; "`Begriffe,
-%   zusammengesetzte"'
-%   \item[Umlaute] Ä, Ö, Ü \Sign{→} Ae, Oe, Ue
-% \end{description}
-% }{}{}{}{}
-% 
-
-
-
-
-% \begin{WidePar}
-%   \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
-% \end{WidePar}
-% % {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
-% 
-% %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
-% \dominitoc[n]
-% 
-% \begin{WidePar}
-%   {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
-% 
-% % {\small\listoffigures}
-% % 
-% % {\small\listoftables}
-% 
-% {\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
-% 
-% {\scriptsize\kern-2.ex\listof{fazit}{Leitsätze}}
-% \end{WidePar}
-
-
 
 
 \tableofcontents
@@ -282,7 +72,16 @@
 
 
 
-\section{Über das Projekt}
+\chapter{Über das Projekt}
+
+Begonnen haben die Arbeiten an den AASS unspektakulär. Im Frühjahr des Jahres 2008 begann ein Vortragender der Rettungssanitäterkurse beim ASB Floridsdorf-Donaustadt aufgrund einer Abneigung gegenüber Präsentationsfolien damit, die Inhalte der Folien in ein Textdokument zu übernehmen. So bildete sich rasch eine Grundstruktur, aus den Schlagworten wurden Texte, und ehe man sich versah begann das Dokument ein Eigenleben zu entwickeln. In Folge schlossen sich ehrenamtliche Mitarbeiter an und Im herbst erhielt das Projekt die offizielle Unterstützung des Ausbildunszentrums des ASB Floridsdorf-Donaustadt, da man sich dadurch eine Qualitätssteigerung der Curricula versprach. Eine erste Feuertaufe erlebte das mittlerweilse mit dem noch heute gültigen Namen versehene Werk im Juli 2009, als es erstmals produktiv in einem kontrollierten Umfeld unter Supervision in einem Rettungssanitäterkurs eingesetzt wurde. Das rege Feedback der Auszubildenden, Vortragenden und der Prüfer sowie die enge Zusammenarbeit mit dem ASB ermöglichte fortan eine praxisnahe und kontrollierte Weiterentwicklung. 
+
+\minisec{Zu Qualität und Erfolg mittels Reviews}
+
+Rasch war klar dass die Arbeit und Entwicklung in die richtigen Bahnen gelenkt werden musste. Insbesonders die Qualitätssicherung war bei so einem ambitionierten und zugleich verantwortungsvollen Projekt ein großes Thema. Um diese Herausforderung zu meistern wurde auf bekannte Techniken der Softwareentwicklung zurückgegriffen, welche sich erstaunlich leicht für die Zwecke der AASS adaptieren ließen. Basierend auf den Methoden von Extreme Programming und Scrum wurde ein iteratives, zyklusbasiertes Entwicklungsmodell gewählt, in welchem am Anfang eines Zyklus (Iteration) ein Plan erstellt wird, welche Themen und Aufgaben jeweils mit welcher Priorität zu bearbeiten wären. Am Ende des Zyklus erfolgt ein Review, bei welchem das Entwicklungsteam zusammenkommt und die im Zyklus durchgeführten Änderungen dem Team vorgestellt und diskutiert wurden. Unnötig zu sagen, das viele der Diskussionen mitunter recht hitzig wurden -- auf diesem Wege wurden jedoch jede Neuerungen auf eine harte, aber faire Probe gestellt.
+
+Die ARGE
+Der zuerst lose Zusammenschluss der Autoren und Mitwirkenden wurde im September 2009 mit der Gründung der ARGE AASS als Trägerverein auf eine solide Basis gestellt. Somit wurde klargestellt, dass die ARGE sich als neutrale, organisationunabhängige Institution verstand, deren Ziel die Förderung von Ausbildung, Forschung und Arbeit auf sanitätsdienstlichem Gebiet ist und die keine kommerziellen Absichten verfolgt. Ein Statut bürgte fortan für die Gemeinnützigkeit des Projekts.
 
 Die Arbeits- und Ausbildungsstandards -- gegenwärtige in
 der Version 0.16.0 (8. Vorabversion) -- sind das
@@ -553,5 +352,5 @@ Die \emph{'Arbeitsgemeinschaft Arbeits- und
 % \end{labeling}
 
   
-\end{multicols}
+% \end{multicols}
 \end{document}

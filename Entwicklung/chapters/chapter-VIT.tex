@@ -1,8 +1,9 @@
-\begin{savequote}
-\includegraphics[width=5cm]{./images/nasa-pd/154960main_image_feature_638_ys_full-00800.jpg}
-
-Bild: NASA
-\end{savequote}
+% \begin{savequote}
+% \includegraphics[width=5cm]{./images/nasa-pd/154960main_image_feature_638_ys_full-00800.jpg}
+% 
+% Bild: NASA
+% \end{savequote}
+\def\ChapterCode{VIT}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -82,9 +83,10 @@ toleriert werden kann:
 2. Ordnung}
 
 \begin{tabularx}{\linewidth}[H]{XX}
-\TabHeading{Vitalfunktionen I. Ordnung}
+\toprule\addlinespace
+\noindent\TabHeading{Vitalfunktionen I. Ordnung}
  &
-\TabHeading{Vitalfunktionen II. Ordnung}
+\noindent\TabHeading{Vitalfunktionen II. Ordnung}
 \\\addlinespace\midrule\addlinespace
 \begin{itemize}
   \item Bewusstsein
@@ -123,14 +125,14 @@ Man unterscheidet die Stufen 1 bis 7:
 \FormatTable
 \Captionof{table}{NACA-Score.}
 
-\begin{tabular}{clrr}\addlinespace
-\TabHeading{NACA}
+\begin{tabular}{clrr}\toprule\addlinespace
+\noindent\TabHeading{NACA}
 &
-\TabHeading{Bedeutung}
+\noindent\TabHeading{Bedeutung}
 &
-\TabHeading{Anteil Pat.}
+\noindent\TabHeading{Anteil Pat.}
 &
-\TabHeading{Anteil \PC}
+\noindent\TabHeading{Anteil \PC}
 \\\addlinespace\midrule\addlinespace
  I & keine ärztliche Therapie erforderlich & 10\,217 & 8,7
 \\\addlinespace
@@ -166,13 +168,18 @@ Man unterscheidet die Stufen 1 bis 7:
 \label{topic:bewusstsein}
 \index{Bewusstsein}
 
-\Definition{Oberbegriff für u.\,a. Wachheit,
-Orientierung, Aufmerksamkeit, Auffassungsgabe, Denkverlauf und
-Merkfähigkeit \cite{Pschy259}.}
 
-\Layout{abstract}{}
-{Das Bewusstsein ist eine grundlegende Vitalfunktion erster
-Ordnung. Bei der Diagnose beurteilt man die
+
+\Layout{0}{\TxBeschreibung}
+{\DefinitionInPara{Bewusstsein ist ein Oberbegriff für u.\,a. Wachheit,
+Orientierung, Aufmerksamkeit, Auffassungsgabe, Denkverlauf und
+Merkfähigkeit \cite{Pschy259}.} Es ist ferner eine grundlegende Vitalfunktion erster
+Ordnung, es ist besonders wichtig hinsichtlich des
+Schutzes des Menschen vor Bedrohung. Ein bewusstseinsklarer
+Mensch kann sich gegen Gefahren wehren, ein eingetrübter
+oder bewusstloser Mensch kann dies schlecht oder gar nicht. 
+
+Bei der Diagnostik beurteilt man die
 Bewusstseinsgrade (klar, somnolent, soporös, komatös) und
 die Orientierung (zeitlich, örtlich, zur Situation und zur
 Person). Bewusstseinsstörungen sind aufgrund des Ausfalls
@@ -182,8 +189,6 @@ direkt (Verletzung, Schlaganfall, \ldots), und Ursachen, die
 sekundär, also über Umwege (Zuckerstoffwechsel,
 Vergiftungen, \ldots), auf das ZNS einwirken.
 
-}{}{}{}{}
-
 \Z{Die \enquote{wahre} Definition von Bewusstsein ist seit
 tausenden von Jahren ungeklärt. Auch an dieser Stelle wird
 das Geheimnis nicht gelüftet werden, daher muss die obige
@@ -191,17 +196,13 @@ Definition für den Alltag ausreichen.\footnote{Hinweisen
 zufolge könnte die Antwort
 eventuell \enquote{42} sein
 \citep{UltimateHitchhikersGuide96hitchhikersguide}.}}
+}{
+\begin{itemize}
+  \item Vitalfunktion 1. Ordnung
+  \item Überlebenswichtig
+\end{itemize}
+}{}{}{}
 
-% \protect\DefinitionExp{Bewusstsein}
-% 
-% bla
-% 
-% \protect\glsentrydesc{Bewusstsein}
-
-Das Bewusstsein ist besonders wichtig hinsichtlich des
-Schutzes des Menschen vor Bedrohung. Ein bewusstseinsklarer
-Mensch kann sich gegen Gefahren wehren, ein eingetrübter
-oder bewusstloser Mensch kann dies schlecht oder gar nicht.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -209,13 +210,12 @@ oder bewusstloser Mensch kann dies schlecht oder gar nicht.
 \subsection{Bewusstseinsstörungen}
 \label{topic:bewusstseinsstoerung}
 
-\Definition{Störung des Bewusstseins, besonders der
-Wachheit und Orientierung.}
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \Layout{0}{Allgemein}
 {%
+\DefinitionInPara{Als Bewusstseinsstörungen bezeichnet man
+insbesonders Störungen der
+Wachheit und der Orientierung.}
 Wie bereits oben erwähnt, ist das Bewusstsein wesentlich an
 der Abwehr von Gefahren beteiligt. Je mehr das Bewusstsein
 gestört oder reduziert ist, desto gefährlicher ist das für
@@ -1347,29 +1347,39 @@ und muss mittels Medikamenten unbedingt gesenkt werden.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Kreislaufstillstand}\label{bkm:RefHeading42514602}\label{topic:kreislaufstillstand}
+\subsection{Kreislaufstillstand}
+\label{bkm:RefHeading42514602}
+\label{topic:kreislaufstillstand}
 \index{Kreislaufstillstand}
 
-\Definition{Totales Pumpversagen des Herzens und somit
-Stillstand des Kreislaufes.}
 
-Das Pumpversagen kann entstehen durch:
-
+\Layout{2}
+{\TxBeschreibung}
+{%
+\DefinitionInPara{Ein Kreislaufstillstand ist ein totales
+Pumpversagen des Herzens und Stillstand des Kreislaufes.}
+Das Pumpversagen kann unterschiedliche Ursachen haben:
 \begin{itemize}
-  \item Herzrhytmusstörungen\begin{itemize}
-   \item Asystolie (keine Herztätigkeit)
+  \item Herzrhytmusstörungen
+  \begin{itemize}
+    \item Asystolie (keine Herztätigkeit)
     \item Kammerflimmern (unkoordinierte Herztätigkeit)
     \item Zu schnelle Herzfrequenz, bei der sich das Herz
     nicht mehr füllen oder etwas auswerfen kann ((Pulslose)
-    Ventrikuläre Tachykardie) 
+    Ventrikuläre Tachykardie)
     \item Elektromechanische
     Entkopplung (pulslose elektrische Aktivität): keine
     Pumpreaktion auf Signale des Reizleitungssystems im Herz
+  \end{itemize}
+  \item Ischämie
+  \item Mechanische Blockaden
+  \item Blutverlust
 \end{itemize}
- \item Mechanische Blockaden
- \item Blutverlust
-\end{itemize}
-
+}
+{}
+{}
+{}
+{}
 
 \Layout{2}{Ursachen}
 {
@@ -1450,7 +1460,7 @@ unter \FullPrettyRef{topic:herz-kreislauf-stoerungen} besprochen.
 
 
 
-
+\clearpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1459,56 +1469,41 @@ unter \FullPrettyRef{topic:herz-kreislauf-stoerungen} besprochen.
 \index{Schock}
 \label{topic:schock}
 
-\Definition{\enquote{Lebensbedrohliche Kreislaufstörung aufgrund von
+\DefinitionInPara{Ein Schock ist eine \EE{lebensbedrohliche Kreislaufstörung} aufgrund von
 Unterversorgung des Körpers mit Blut und Sauerstoff infolge des
-Versagens des Kreislaufsystems.}}
+Versagens des Kreislaufsystems.} Es besteht eine
+Missverhältnis zwischen dem Herzauswurfs und dem Bedarf des
+Körpers. Dies kann unterschiedliche Ursachen haben, z.\,B.
+dass das  zu wenig Herz pumpt, zu wenig Blut bzw.
+Flüssigkeit vorhanden ist oder die Gefäße zu weit gestellt
+sind und Blut dadurch versackt.
+Es können dabei einzelne oder mehrere Teile des
+Kreislaufsystems betroffen sein  (Blut, Gefäße, Herz). 
 
 
-% \DefinitionExp{Schock}
-
+\Fazit{Schock bedeutet Kreislaufinsuffizienz =
+  \EE{Missverhältnis
+  Herzauswurf\,:\,Sauerstoffbedarf} des Körpers}
 \Fazit{Es können einzelne oder mehrere Teile des
 Kreislaufsystems betroffen sein  (Blut, Gefäße, Herz).}
-\Fazit{Ob ein Schock oder eine Schockgefahr besteht wird anhand von
-\underline{Schocksymptomen} und anhand der
-\underline{Verdachtsdiagnose} beurteilt.}
-
-% TODO Graphik Schockentwicklung RR und HF
-
-
-
-\noindent Schock bedeutet:
-
-\begin{itemize}
-  \item Akute Kreislaufinsuffizienz =
-  \EE{Missverhältnis
-  Herzauswurf\,:\,Sauerstoffbedarf} des Körpers
-  \item Mögliche Ursachen:
-  \begin{enumerate}
-    \item Herz pumpt zu wenig
-    \item Zu wenig Blut bzw. Flüssigkeit vorhanden
-    \item Gefäße sind zu weit gestellt und Blut versackt
-  \end{enumerate}
-\end{itemize}
-
 \Fazit{Im Endeffekt kommt immer zu wenig Blut mit
 Sauerstoff zu den Organen. Dadurch ist die
 Gewebedurchblutung für die Versorgung aller Organe mit
 Sauerstoff nicht ausreichend.}
 
-Körpereigene Mechanismen können versuchen gegenzusteuern um
-den Schock zu kompensieren. Dies geht allerdings nur eine
-gewisse Zeit und in einem gewissen Ausmaß gut, daher ist
-eine schnell  einsetzende Therapie wichtig! Bei länger
-bestehendem Schock kann dieser Zustand irreversibel werden.
+
+
 
 \E{Kein} Schock besteht bei kurzzeitigen 
 Bewusstseinsstörungen wie Kollaps/Synkope
 (\underline{kurzfristige} Blutverteilungsstörung,
 kurzfristige Minderdurchblutung des Gehirns,  flüchtige Symptome)
 
-\Layout{0}{Kompensation}
+\Layout{0}{Kompensation, Dekompensation}
 {
 \index{Schock!Kompensation}
+\index{Schock!Dekompensation}
+
 Der Körper versucht selber dagegen etwas zu tun und
 gegenzusteuern (\enquote{kompensieren}). Der wichtigste
 Mechanismus ist die
@@ -1521,8 +1516,10 @@ Periphere Venen kollabieren und die Rekapillarisierungszeit
 verlängert sich. Die Hautdurchblutung wird verringert und
 die Haut wird kühl und bleich.
 
-Wenn die Kompensationsmaßnahmen 
-nicht mehr ausreichen, spricht man vom \E{\enquote{dekompensierten
+Dies funktioniert allerdings nur eine
+gewisse Zeit und in einem gewissen Ausmaß gut, daher ist
+eine schnell  einsetzende Therapie wichtig! 
+Wenn die Kompensationsmaßnahmen nicht mehr ausreichen, spricht man vom \E{\enquote{dekompensierten
 Schock}}\index{Schock!dekompensierter}. Es besteht
 spätestens dann akute \EE{Lebensgefahr}!
 }{
@@ -1543,54 +1540,52 @@ spätestens dann akute \EE{Lebensgefahr}!
 \Cave{Ein Schockzustand ist grundsätzlich als vitale
 Bedrohung einzustufen!}
 
-\Layout{2}{Schock beim Kind}
-{Die Schockschere gilt beim Kind nicht, da die
-Normalwerte andere sind! Kinder bleiben außerdem lange
-kreislaufstabil, verfallen dann aber schlagartig!
 
-}{}
-{}
-{}
-{}
-{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Allgemeine Schocksymptomatik}
-\label{topic:schock-allgemeine-symptomatik}
-\index{Schock!allgemeine Symptomatik}
-
+\Layout{2}
+{Allgemeine Schocksymptomatik}
+{\label{topic:schock-allgemeine-symptomatik}%
+\index{Schock!allgemeine Symptomatik}%
 Die Symptome eines Schocks sind abhängig vom jeweiligen
 Stadium. Problematisch ist, dass am Anfang die Symptome
 eher diskret sind. 
 \Fazit{Das erste Anzeichen eines beginnenden Schocks ist
 oft eine kühle
 Haut! \cite{Kaplan2001}}
+\Fazit{Ob ein Schock oder eine Schockgefahr besteht wird anhand von
+\underline{Schocksymptomen} und anhand der
+\underline{Verdachtsdiagnose} beurteilt.}
 
 Natürlich kann es
 auch andere Ursachen für eine kühle Haut geben, z.\,B. eine
 kalte Umgebungstemperatur.
-
 Die Tabelle
-\prettyref{tab:schocksymptomatik} gibt eine entsprechende Übersicht.
+\FullPrettyRef{tab:schocksymptomatik}, gibt eine entsprechende Übersicht.}
+{}
+{}
+{}
+{}
+
+
 
 \begin{table}[H]
-\begin{WidePar}
+% \begin{WidePar}
 \Captionof{table}{Allgemeine
 Schocksymptomatik.\label{tab:schocksymptomatik}}
 \CorrectionItemizeBox\FontTableBase
 
-\begin{tabularx}{\linewidth}{p{3.5cm}m{1,2cm}X}
+\begin{tabularx}{\linewidth}{p{9em}X}
 \addlinespace\toprule\addlinespace
 \noindent\TabHeading{Stadium}
 &
-\noindent\TabHeading{Pat.}
-&
 \noindent\TabHeading{Symptome}
 \\\addlinespace\midrule\addlinespace
-{\sffamily\Large\color{DarkGreen} \index{Schockgefahr}Schockgefahr}
-&
+\TabSub{\color{DarkGreen} \index{Schockgefahr}Schockgefahr}
+
+\bigskip
 
 \centering\includegraphics[width=1cm]{./icons/sm-basic.png}
 &
@@ -1602,8 +1597,9 @@ Schocksymptomatik.\label{tab:schocksymptomatik}}
      Schockgefahr?
  \end{itemize}
 \\\addlinespace
-{\sffamily\Large\color{OrangeRed}Schock}
-&
+\TabSub{\color{OrangeRed}Schock}
+
+\bigskip
 
 \centering\includegraphics[width=1cm]{./icons/sm-pale.png}
 &
@@ -1617,10 +1613,11 @@ Schocksymptomatik.\label{tab:schocksymptomatik}}
      \item Peripherie schlecht durchblutet, Rekapzeit erhöht
  \end{itemize}
 \\\addlinespace
-{\sffamily\Large\color{red}Schwerer Schock
+\TabSub{\color{red}Schwerer Schock
 
 Vollbild}
-&
+
+\bigskip
 
 \centering\includegraphics[width=1cm]{./icons/sm-pale-frown.png}
 &
@@ -1638,8 +1635,9 @@ Vollbild}
   frühzeitig erkennen \&  behandeln
 \end{itemize}
 \\\addlinespace
-{\sffamily\Large\color{LightSlateGray}Endstadium}
-&
+\TabSub{\color{LightSlateGray}Endstadium}
+
+\bigskip
 
 \huge\centering $\skull$
 &
@@ -1653,11 +1651,11 @@ Vollbild}
 \end{itemize}
 \\\addlinespace\bottomrule
 \end{tabularx}
-\end{WidePar}
+% \end{WidePar}
 \end{table}
 
 
-\clearpage % TEMP temp clearpage
+% \clearpage % TEMP temp clearpage
 \Layout{0}{Schockschere}
 {
 \index{Schockschere}
@@ -1702,64 +1700,254 @@ oder eine Schockgefahr besteht, wird anhand von
 }{}{}{}
 
 
+\Layout{2}{Schock beim Kind}
+{Die Schockschere gilt beim Kind nicht, da die
+Normalwerte andere sind! Kinder bleiben außerdem lange
+kreislaufstabil, verfallen dann aber schlagartig!
 
+}{}
+{}
+{}
+{}
+{}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Schock -- Arten}
-\index{Schock!Arten}
-\label{topic:schock-arten}
 
-Je nach dem zugrunde liegenden Mechanismus unterscheidet man
-verschiedene Schockarten:
+\Layout{2}
+{Unterschiedliche Schockarten}
+{\index{Schock!Arten}
+\label{topic:schock-arten}%
+Beim Schock können einzelne oder mehrere Teile des
+Kreislaufsystems  (Blut, Gefäße, Herz) gestört sein
+Dementsprechend werden unterschiedliche Mechanismen
+schlagend und man kann verschiedene Schockarten
+unterscheiden, siehe
+\FullPrettyRef{tab:schock-mechanismen}, und
+\FullPrettyRef{tab:uebersicht-schockarten}.
 
-\begin{labeling}[~:]{Volumenmm}
-  \item[Volumen] Es ist \E{zu wenig Flüssigkeit} bzw. Blut
-  im Gefäßsystem vorhanden
-  \begin{itemize}
-    \item \EE{Hypovolämischer} Schock
-  \end{itemize}
-  \item[Herz] Der \E{Herzauswurf} (bei normalem Volumen) ist
-  zu gering.
-  \begin{itemize}
-    \item \EE{Kardiogener} Schock
-  \end{itemize}
-  \item[Gefäße] Die Gefäße sind inadäquat \E{weitgestellt},
-  das Blut versackt
-  \begin{itemize}
-    \item \EE{Anaphylaktischer} Schock
-    \item \EE{Septischer} bzw. \EE{toxischer} Schock
-    \item \EE{Neurogener} Schock
-  \end{itemize}
-\end{labeling}
+}
+{}
+{}
+{}
+{}
 
-
-
-\subsubsection{Hypovolämischer Schock}
-\label{topic:schock-hypovolaemischer}
-\index{Schock!Hypovolämischer}
-
-\Definition{Schock aufgrund eines Verlustes von Blutvolumen aus den
-Gefäßen.}
-
-
-
-
-Es kann dabei verloren gehen: 
-
+\begin{table}[H]\CorrectionItemizeBox\FontTableBase
+\caption{Mechanismen der Schockarten}
+\label{tab:schock-mechanismen}
+\begin{tabularx}{\linewidth}{XXX}
+\toprule\addlinespace
+\multicolumn{3}{c}{\noindent\TabHeading{Kreislauf}}
+\\\addlinespace\midrule\addlinespace
+\noindent\TabSub{Volumen} & \noindent\TabSub{Herz} & \noindent\TabSub{Gefäße} 
+\\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}\cmidrule(lr){3-3}\addlinespace
+Es ist \E{zu wenig Flüssigkeit} bzw. Blut
+im Gefäßsystem vorhanden
+&
+Der \E{Herzauswurf} (bei normalem Volumen) ist
+zu gering.
+&
+Die Gefäße sind inadäquat \E{weitgestellt},
+das Blut versackt
+\\\addlinespace
 \begin{itemize}
-    \item Blut
-    \item Plasma
-    \item Wasser und Elektrolyte
+  \item \EE{Hypovolämischer} Schock
 \end{itemize}
+&
+\begin{itemize}
+  \item \EE{Kardiogener} Schock
+\end{itemize}
+&
+\begin{itemize}
+  \item \EE{Anaphylaktischer} Schock
+  \item \EE{Septischer} bzw. \EE{toxischer} Schock
+  \item \EE{Neurogener} Schock
+\end{itemize}
+\\\addlinespace\bottomrule
+\end{tabularx}
+\end{table}
 
-\paragraph{Ursachen}
+\begin{table}[H]\CorrectionItemizeBox\FontTableBase
+\Captionof{table}{Übersicht: \SlideHeading{Schockarten}}
+\label{tab:uebersicht-schockarten}
+\begin{WidePar}
+\small
+\begin{longtable}{p{0.3\linewidth}p{0.35\linewidth}p{0.35\linewidth}}
+\toprule\addlinespace
+\TabHeading{Schockart} & \TabHeading{Ursachen} & \TabHeading{Spezielle Symptome}
+\\\addlinespace\midrule\addlinespace\endhead
+\TabSub{Hypovoläm}		
+
+\DefinitionInPara{Verlust von Blutvolumen (Vollblut oder
+Blutbestandteilen) aus den Gefäßen} 
+&
+\begin{compactitem}
+  \item Verlust nach außen
+  \begin{compactitem}
+    \item Blutung
+    \item Verbrennungen (Hautbarriere versagt groß\-flächig)
+    \item Gastrointestinal (Durchfall, Diarrhoe)
+    \item Harnausscheidung (Diabetes mellitus,
+    Diabetes insipidus, Diuretika, Polyurie bei
+    Nierenversagen)
+  \end{compactitem}
+  \item Verlust nach innen
+  \begin{compactitem}
+    \item Innere Blutungen
+    \begin{compactitem}
+      \item Nach Trauma, rupturierte
+      Eileiter\-schwanger\-schaft, \ldots
+    \end{compactitem}
+    \item Wassereinlagerung ins Gewebe
+    \item \Z{Aszites
+    (\enquote*{Wasserbauch}, z.\,B. bei
+    Lebererkrankungen)}
+  \end{compactitem}
+\end{compactitem}
+& 
+\begin{compactitem}
+  \item \FullPrettyRef{tab:schocksymptomatik}
+\end{compactitem}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Kardiogen}	
+
+\DefinitionInPara{Mangelnder Herzauswurf durch insuffiziente
+Pumpleistung} 
+&
+\begin{compactitem}
+  \item Herzversagen, Herzinsuffizienz
+  \begin{compactitem}
+    \item Myokardinfarkt (häufigste Ursache)
+    \item Herzrhythmusstörungen
+  \end{compactitem}
+  \item Lungenembolie
+\end{compactitem}
+&
+\begin{compactitem}
+    \item RR-Abfall
+    \item Stauungszeichen
+    \begin{compactitem}
+      \item Lungenödem
+      \item Beinödeme, gestaute Halsvenen
+    \end{compactitem}
+    \item Atemnot
+  \end{compactitem}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Anaphylaktisch}
+
+\DefinitionInPara{Überschießende
+allergische Reaktion}
+&
+\begin{compactitem}
+  \item Überschießende
+  Reaktion der Körperabwehr
+  \item Gefäße erweitert, Blut versackt
+  \item Durchlässigkeit der Gefäße ↑, Plasmaverlust in
+  Zwischengewebsraum
+  \item Mögliche Auslöser:
+  \begin{compactitem}
+    \item Pollen
+    \item Medikamente
+    \item Kontrastmittel
+    \item tierische Gifte
+    \item u.\,v.\,a.\,m.
+  \end{compactitem}
+\end{compactitem}
+&
+\begin{compactitem}
+%   \item \FullPrettyRef{tab:anaphylaxie-stadien}
+  \item Stadienabhängig
+  \item[\TabSub{I}]
+  Hautreaktion: evtl. Ausschlag, Rötung;
+  {Quaddeln}, Flush, Ödeme
+  
+  Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
+  \item[\TabSub{II}]
+  RR ${\downarrow}$, Tachykardie
+  
+  Übelkeit, Erbrechen, Durchfall
+  \item[\TabSub{III}]
+  Allgemeine Schocksymptome
+  
+  Bronchospasmus
+  \item[\TabSub{IV}]
+  Atem-/Kreislaufstillstand
+  
+  Schwerer Schock
+\end{compactitem}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Septisch, toxisch}
+
+\DefinitionInPara{Schwere
+körperweite Infektion oder Einwirkung eines die Gefäße
+beeinflussenden Giftstoffs (Toxin)}
+&
+\begin{compactitem}
+  \item Langanhaltender Entzündungsherd der plötzlich Erreger
+  \enquote{ins Blut streut} und \enquote{explodiert}
+  \item Fremdkörper (Venenverweilkanülen, \ldots)
+  \item Tampons
+  \item \ldots
+\end{compactitem}
+&
+\begin{compactitem}
+  \item Schock
+  \item Hohes oder kein Fieber
+  \item Haut heiß, trocken, rot, später bleich, grau,
+  marmoriert
+\end{compactitem}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Neurogen}
+
+\DefinitionInPara{Unterbrechung oder Störung der nervlichen
+Versorgung der Kreislaufregulation. Es kommt zu inadäquater arterieller
+und venöser Gefäßerweiterung \Z{(Vasodilatation)}.}
+
+&
+\noindent\begin{compactitem}
+    \item Rückenmarksverletzung (Querschnitt-Syndrom)
+    \item  Gefäßwandmuskulatur bekommen keine Nerven-Impulse
+    und kontrahiert sich nicht mehr
+    \item Gefäße weiten sich ${\rightarrow}$ Blut versackt
+\end{compactitem}
+&
+\begin{compactitem}
+  \item \FullPrettyRef{tab:schocksymptomatik}
+\end{compactitem}
+\\\addlinespace\bottomrule\addlinespace
+\end{longtable}
+\end{WidePar}
+\end{table}
+
+
+\Layout{2}
+{Hypovolämischer Schock}
+{\label{topic:schock-hypovolaemischer}
+\index{Schock!Hypovolämischer}
+\DefinitionInPara{Schock aufgrund eines Verlustes von
+Blutvolumen aus den Gefäßen.}
+Es können dabei 
+(Voll-) Blut, oder auch nur Blutbestandteile wie Plasma oder
+Wasser und Elektrolyte
+verloren gehen. Der Verlust kann jeweils nach
+innen und/oder nach außen erfolgen, siehe
+\FullPrettyRef{tab:uebersicht-urachen-fluessigkeitsverlust-schock}.
+Bei akutem Flüssigkeitsverlust kann ein Verlust von bis zu
+20\PC* des Blutvolumens  gut kompensiert werden. Auf größere
+Verluste  folgt ein Absinken von Herzauswurf und RR!}
+{}
+{}
+{}
+{}
 
 
 
 
-\begin{center}
+\begin{table}
+\caption{Übersicht: Ursachen für Flüssigkeitsverluste beim
+Schock.}
+\label{tab:uebersicht-urachen-fluessigkeitsverlust-schock}
 \CorrectionItemizeBox\FontTableBase
 \begin{tabularx}{\linewidth}[H]{XX}
 \addlinespace\toprule\addlinespace
@@ -1769,9 +1957,10 @@ Flüssigkeitsverlust nach innen
 \\\addlinespace\midrule\addlinespace
 \begin{itemize}
   \item Blutung
-  \item Gastrointestinal (Durchfall, Diarrhoe)
   \item Verbrennungen (Hautbarriere versagt  groß\-flächig)
-  \item Renal (Diabetes mellitus, Diuretika, Polyurie bei 
+  \item Gastrointestinal (Durchfall, Diarrhoe)
+  \item Harnausscheidung (Diabetes mellitus,
+  Diabetes insipidus, Diuretika, Polyurie bei
   Nierenversagen)
 \end{itemize}
 &
@@ -1782,40 +1971,14 @@ Flüssigkeitsverlust nach innen
   \end{itemize}
   \item Wassereinlagerung ins Gewebe
   \item \Z{Aszites
-  (\enquote{Wasserbauch} bei
-  Lebererkrankungen  etc.)}
+  (\enquote*{Wasserbauch}, z.\,B. bei
+  Lebererkrankungen)}
 \end{itemize}
 \\\addlinespace\bottomrule
 \end{tabularx}
-\end{center}
-Bei akutem Flüssigkeitsverlust kann ein Verlust von bis zu
-20\PC* des Blutvolumens  gut kompensiert werden. Auf größere
-Verluste  folgt ein Absinken von Herzauswurf und RR!
+\end{table}
 
-% \MassnahmenNG{Spezielle Maßnahmen}{Hypovolämischer Schock}{}
-% {%
-% \begin{itemize}
-%   \item Allgemein: \EE{Allgemeine Maßnahmen der
-%   Schockbekämpfung} (s.
-%   \prettyref{m:am-schock})
-%   \item Blutstillung  (weitere Verluste verhindern!)
-%   \item Ggfs. Trauma-Vorgehen beachten
-%   \item Wenn möglich schonende Bergung
-%   \item Lagerung: grundsätzlich Beine hoch
-%   
-%   Wichtige Ausnahmen: {\textperiodcentered}\,kardiale Ursache,
-%   {\textperiodcentered}\,Kopf- / Brust\-ver\-letzungen,
-%   {\textperiodcentered}\,Hirndruck (SHT),
-%   {\textperiodcentered}\,Knochenbrüche der Beine oder des
-%   Beckens,
-%   {\textperiodcentered}\,Wirbelsäulenverletzungen,
-%   {\textperiodcentered}\,Bewusstlosigkeit ${\rightarrow}$ sonst Flachlagerung oder stabile Seitenlage \A{KOCH: darüber müssen wir reden: Schock vor Schädel?}
-%   %TODO Schock vor Schädel
-%   \item Evtl. Aviso (Vorankündigung) im  Krankenhaus /
-%   Schockraum
-%   \item Abtransport: rasch, schonend, nicht überstürzt
-% \end{itemize}
-% }
+
 
 \AuthNotes{Begriff \enquote{Schocklagerung}
 ein für alle mal in der Ausbildung streichen, nur Hinweis
@@ -1826,15 +1989,12 @@ Wenn KI gegen Beine hoch: Flachlagerung bzw. stab. Seitenlage empfehlen?
 
 STEU: ja, Flachlagerung wenn KI. 2009-06-28}
 
-
-\subsubsection{Kardiogener Schock}
-\index{Schock!Kardiogener}
+\Layout{0}
+{Kardiogener Schock}
+{\index{Schock!Kardiogener}
 \label{topic:schock-kardiogener}
-
-\Definition{Schock infolge mangelndem Herzauswurfes durch
-insuffiziente Pumpleistung.} 
-
-\Layout{0}{\TxBeschreibung}{%
+\DefinitionInPara{Schock infolge mangelndem Herzauswurfes
+durch insuffiziente Pumpleistung.} 
 Zu einem kardiogenen Schock kann es bei einem \EE{akut
 auftretenden Herzversagen}, z.\,B. durch einem akuten
 \E{Myokardinfarkt} (häufigste Ursache) oder
@@ -1842,153 +2002,62 @@ auftretenden Herzversagen}, z.\,B. durch einem akuten
 Auslöser eines Schocks wird auch zum kardiogenen Schock
 gerechnet, da es durch die Verstopfung des kleinen
 Kreislaufes zu einer mangelhaften Füllung des Herzens und
-damit zu einer mangelhaften Auswurfleistung kommt.
-}{%
-\begin{itemize}
-  \item Herzversagen, Herzinsuffizienz
-  \begin{itemize}
-    \item Myokardinfarkt (häufigste Ursache)
-    \item Herzrhythmusstörungen
-  \end{itemize}
-  \item Lungenembolie
-\end{itemize}
-}{}{}{}
-
-\Layout{0}{\TxSymptome}{%
-Typisch ist ein Blutdruckabfall. Durch den
+damit zu einer mangelhaften Auswurfleistung kommt.Typisch ist ein Blutdruckabfall. Durch den
 \EE{Blutrückstau} kann es zu Stauungszeichen kommen
 (Lungenödem bei Linksherzversagen, Beinödeme und gestaute
 Halsvenen bei Rechtsherzversagen). Häufig klagen die
 Patienten über \EE{Atemnot}.
-
-\vspace{2\baselineskip}
-
-}{%
-\begin{itemize}
-  \item RR-Abfall
-  \item Stauungszeichen
-  \begin{itemize}
-    \item Lungenödem
-    \item Beinödeme, gestaute Halsvenen
-  \end{itemize}
-  \item Atemnot
-\end{itemize}
-}{}{}{}
-
-% \begin{center}
-% \CorrectionItemizeBox\FontTableBase
-% \begin{tabularx}{\linewidth}[H]{XX}
-% \toprule
-% Ursachen &
-% charakterisiert durch
-% \\\midrule
-% \begin{itemize}
-%   \item Herzversagen, Herzinsuffizienz
-%   \begin{itemize}
-%     \item Myokardinfarkt (häufigste Ursache)
-%     \item Herzrhythmusstörungen
-%   \end{itemize}
-%   \item Lungenembolie
-% \end{itemize}
-% &
-% \begin{itemize}
-%   \item RR-Abfall
-%   \item Eingeschränkte Pumpleistung
-%   \begin{itemize}
-%     \item Blut staut sich zurück
-%   \end{itemize}
-% \end{itemize}
-% \\\bottomrule
-% \end{tabularx}
-% \end{center}
+}
+{%
+\FullPrettyRef{tab:uebersicht-schockarten}
+}
+{}
+{}
+{}
 
 
 
-% \MassnahmenNG{Spezielle Maßnahmen}{Kardiogener Schock}{}{
-% 
-% \begin{itemize}
-%   \item Allgemein: \EE{Allgemeine Maßnahmen der
-%   Schockbekämpfung}
-%   (\prettyref{m:am-schock})
-%   \item \TxMassVitBes
-%   \begin{itemize}
-%     \item \ce{O2}: 10\LPerMin*{}   oder mehr
-%     \item Lagerung: Oberkörper hoch! Evtl. Beine hängen  lassen.
-%   \end{itemize}
-%   \item Medikamentöse Therapie durch Notarzt
-%   \Z{(Diuretika, Katecholamine, Heparin)}
-% \end{itemize}
-% }
-
-
-
-
-
-
-
-\subsubsection{Anaphylaktischer Schock}
-\label{topic:schock-anaphylaktischer}
+\Layout{0}
+{Anaphylaktischer Schock}
+{\label{topic:schock-anaphylaktischer}
 \index{Schock!Anaphylaktischer}
 \index{Schock!allergischer}
-
-\Definition{Schock aufgrund einer überschießenden
+\DefinitionInPara{Schock aufgrund einer überschießenden
 allergischen Reaktion -- \enquote{Allergischer
 Schock}.}
-
-
-
-\Layout{0}{\TxBeschreibung}{%
 Ein anaphylaktischer Schock wird durch eine
 über\-schieß\-ende Reaktion der Körperabwehr (Immunreaktion)
 auf bestimmte Stoffe (Antigene) ausgelöst.
-
 Durch von den Immunzellen gebildete Stoffe werden
 die Gefäße erweitert, zusätzlich steigt die
 Durchlässigkeit der Gefäße\ZFootnote{(Gefäßpermeabilität)}.
 Das Blut versackt und es kommt zu einem  Plasmaverlust in
 den Zwischengewebsraum\ZFootnote{(Interstitium)}; der
 Blutdruck fällt massiv ab!
-}{%
-\begin{itemize}
-  \item Überschießende
-  Reaktion der Körperabwehr
-  \item Gefäße erweitert, Blut versackt
-  \item Durchlässigkeit der Gefäße ↑, Plasmaverlust in
-  Zwischengewebsraum
-\end{itemize}
-}{}{}{}
-
-
-\Layout{0}{Mögliche Auslöser}
-{%
-\begin{itemize}
+Mögliche \E{Auslöser} können sein: 
+\begin{compactitem}
     \item Pollen
     \item Medikamente, Antibiotika
     \item Kontrastmittel (für radiologische Untersuchungen)
     \item tierische Gifte (Bienenstich etc.)
     \item Lebensmittel (Meeresfrüchte, Nüsse, etc.)
     \item und vieles andere \ldots
-\end{itemize}
-}{%
+\end{compactitem}
+
+Die {\TxSymptome} sind Abhängig vom Schweregrad und Stadium,
+siehe dazu \FullPrettyRef{tab:anaphylaxie-stadien}.
+}
+{%
 \begin{itemize}
-    \item Pollen
-    \item Medikamente
-    \item Kontrastmittel 
-    \item tierische Gifte 
-    \item u.\,v.\,a.\,m. 
+  \item \FullPrettyRef{tab:uebersicht-schockarten}
+\item {\TxSymptome}: \FullPrettyRef{tab:anaphylaxie-stadien}
 \end{itemize}
-}{}{}{}
+}
+{}
+{}
+{}
 
 
-\Layout{0}{\TxSymptome}
-{
-\prettyref{tab:anaphylaxie-stadien}.
-}
-{
-\prettyref{tab:anaphylaxie-stadien}.
-}
-{}{}{}
-% TODO Flush erklären
 
 
 \begin{table}[H]
@@ -2003,7 +2072,7 @@ Anaphylaxie\label{tab:anaphylaxie-stadien}}
 \TabSub{I}
  &
 Hautreaktion: evtl. Ausschlag, Rötung;
-\enquote{Quaddeln}, Flush, Ödeme
+{Quaddeln}, Flush, Ödeme
 
 Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
 
@@ -2045,21 +2114,17 @@ Schwerer Schock
 % \end{itemize}
 % }
 
-
-\subsubsection{Septischer Schock und Toxischer Schock}
+\Layout{0}
+{Septischer Schock und Toxischer Schock}
+{%
 \index{Schock!septischer}
 \index{Schock!toxischer}
 \label{topic:schock-septischer}
 \label{topic:schock-toxischer}
-Siehe auch \FullPrettyRef{topic:sepsis}.
-
-\Definition{Schock infolge einer schweren, körperweiten Infektion
-oder aufgrund eines, die Gefäße beeinflussenden, Giftstoffes
+\DefinitionInPara{Schock infolge einer schweren,
+körperweiten Infektion oder aufgrund eines, die Gefäße beeinflussenden, Giftstoffes
 (Toxins).}
-
-
-\Layout{0}{Ursachen}
-{%
+Siehe auch \FullPrettyRef{topic:sepsis}.
 \index{Toxine!Toxischer Schock}%
 Ein septisch-/toxischer
 Schock wird durch diverse Bakterien und Toxine verursacht.
@@ -2074,64 +2139,29 @@ Brutstätten, da hier das Immunsystem des Körpers keinen Zugang hat.
 
 Durch die bakterielle oder toxische Gefäßwandschädigung kommt es
 zum Flüssigkeitsaustritt in den Zwischengewebsraum sowie zu Gefäßweitstellung.
-}{
-\begin{itemize}
-  \item Langanhaltender Entzündungsherd der plötzlich Erreger
-  \enquote{ins Blut streut} und \enquote{explodiert}
-  \item Fremdkörper (Venenverweilkanülen, \ldots)
-  \item Tampons
-  \item \ldots
-\end{itemize}
-}{}{}{}
-
-
-
-\Layout{0}{\TxSymptome}
-{%
 Man kann die allgemeinen Schocksymptome wahrnehmen. Der
 Patient kann sowohl hohes  oder auch kein Fieber haben
 Die Haut ist anfänglich heiß, trocken und rötlich, später
 ist sie eher bleich, grau oder sogar marmoriert.
-}{
-\begin{itemize}
-  \item Schock
-  \item Hohes oder kein Fieber
-  \item Haut heiß, trocken, rot, später bleich, grau,
-  marmoriert
-\end{itemize}
-}{}{}{}
+}
+{\FullPrettyRef{tab:uebersicht-schockarten}}
+{}
+{}
+{}
 
 
 
-
-
-
-
-
-% \MassnahmenNG{Spezielle Maßnahmen}{Septischer und Toxischer Schock}{}{
-% \begin{itemize}
-%   \item Allgemein: \EE{Allgemeine Maßnahmen der
-%   Schockbekämpfung} (\prettyref{m:am-schock})
-%   \item Lagerung: situationsgerecht, Beine hoch
-%   \item Schutz vor Unterkühlung/Überwärmung
-%   \item Aviso im Krankenhaus / Intensivstation
-%   (\enquote{Überwachungsbett})
-%   \item benötigt Antibiotika (im KH)
-% \end{itemize}
-% }
-
-\subsubsection{Neurogener Schock}
+\Layout{0}
+{Neurogener Schock}
+{%
 \index{Schock!Neurogener}
 \index{Schock!Spinaler}
-
-\Definition{Schockzustand ausgelöst durch eine
+\DefinitionInPara{Schockzustand ausgelöst durch eine
 Unterbrechung oder Störung der nervlichen Versorgung der
 Kreislaufregulation. Es kommt zu inadäquater arterieller
 und venöser Gefäßerweiterung.
 \Z{(Vasodilatation)}}
-
-\Layout{0}{Ursachen}
-{Auch die Muskulatur der Blutgefäßwand wird mit Nerven
+Auch die Muskulatur der Blutgefäßwand wird mit Nerven
 versogrt, damit die Weite der Gefäße reguliert werden kann.
 Im Rahmen von Erkrankungen und Verletzungen kann diese
 nervale Versorgung unterbochen sein, in weiterer Folge
@@ -2139,151 +2169,28 @@ weiten sich die betroffenen Gefäße und das Blut versackt.
 Typischerweise kommt dies im Rahmen einer
 \EE{Wirbelsäulenverletzung} vor, bei der das Rückenmark
 geschädigt bzw. unterbrochen wird (\I{Querschnitt-Syndrom}).
-}{
-\begin{itemize}
-    \item Rückenmarksverletzung (Querschnitt-Syndrom)
-    \item  Gefäßwandmuskulatur bekommen keine Nerven-Impulse
-    und kontrahiert sich nicht mehr
-    \item Gefäße weiten sich ${\rightarrow}$ Blut versackt
-\end{itemize}
-}{}{}{}
 
+}
+{\FullPrettyRef{tab:uebersicht-schockarten}}
+{}
+{}
+{}
 
-
-
-
-% \MassnahmenNG{Spezielle Maßnahmen}{Neurogener Schock}{}{
-% \begin{itemize}
-%   \item Allgemein: \EE{Allgemeine Maßnahmen der
-%   Schockbekämpfung} (\prettyref{m:am-schock})
-%   \item Lagerung: Flachlagerung (WS-Verletzung ist Kontraindikation gg.
-%   Beine hoch!)
-% \end{itemize}
-% }
-
-\clearpage % TEMP temp clearpage
-\subsection{Maßnahmen der Schockbekämpfung}
+% \clearpage % TEMP temp clearpage
+% \subsection{Maßnahmen der Schockbekämpfung}
 \label{topic:schockbekaempfung}
 
-\Fazit{Grundsatz: \EE{Der Schock muss bekämpft werden
-bevor man ihn bemerkt.}}
+
 
 \MassnahmenMK{Spezielle Maßnahmen}{Schock}
 {m:am-schock}
-{
+{\Fazit{Grundsatz: \EE{Der Schock muss bekämpft werden
+bevor man ihn bemerkt.}}
 }{}
-% \MassnahmenNG{Allgemeine Maßnahmen}{Schockbekämpfung}
-% {\label{m:am-schock}}
-% {
-% \begin{enumerate}
-%   \item \TxMassVitBes
-%   \begin{itemize}
-%     \item Situationsgerechte  Lagerung, je nach Diagnose und Schockart
-%     \item Sauerstoffgabe hochdosiert (ab 8\LPerMin*{} bei Schockgefahr,
-%     15\LPerMin*{} oder mehr bei bestehendem Schock, je nach Schwere)
-%     \item Monitoring: Besonders auf Haut, RR und HF achten!
-%   \end{itemize}
-%   \item Beengende Kleidung öffnen
-%   \item Wärmeerhalt besonders beachten!
-%   \item Spezielle Maßnahmen je nach Schockart bzw. Diagnose
-% \end{enumerate}
-% }
-%     \AuthNotes{Freigabe: Sauerstoffgabe hochdosiert (ab 6l/min bei
-%     Schockgefahr, 10l/min oder mehr bei bestehendem Schock, je nach Schwere}
-
-% \MassnahmenWide{Spezielle Maßnahmen}{Schock}
-% {\label{m:am-schock}}
-% {\minisec{Allgemein}
-% \begin{enumerate}
-%   \item \TxMassVitBes
-%   \begin{itemize}
-%     \item Situationsgerechte  Lagerung, je nach Diagnose und Schockart
-%     \item Sauerstoffgabe hochdosiert (ab 8\LPerMin*{} bei Schockgefahr,
-%     15\LPerMin*{} oder mehr bei bestehendem Schock, je nach Schwere)
-%     \item Monitoring: Besonders auf Haut, RR und HF achten!
-%   \end{itemize}
-%   \item Beengende Kleidung öffnen
-%   \item Wärmeerhalt besonders beachten!
-%   \item Spezielle Maßnahmen je nach Schockart bzw. Diagnose
-%   \item Transportentscheidung: Vorankündigung
-%   (Aviso); Spezialbett, je nach Schockart/Ursache
-% \end{enumerate}
-% 
-% \minisec{Speziell}\CorrectionItemizeBox
-% 
-% \begin{tabularx}{\linewidth}{XXXXX}\toprule\addlinespace
-% \multicolumn{5}{c}{\noindent\TabHeading{Schockart}}
-% \\\addlinespace
-% \noindent\TabHeading{Volumenmangel}
-% &
-% \noindent\TabHeading{Kardiogener}
-% &
-% \noindent\TabHeading{Anaphylaktischer}
-% &
-% \noindent\TabHeading{Septischer, Toxischer}
-% &
-% \noindent\TabHeading{Neurogener}
-% \\\addlinespace\midrule\addlinespace
-% \multicolumn{5}{c}{\TabSub{Lagerung}}
-% \\\addlinespace\midrule\addlinespace
-% Grundsätzlich Beine hoch
-% 
-% Kontraindikationen beachten!\footnote{Wichtige
-% Ausnahmen: {\textperiodcentered}\,kardiale Ursache, {\textperiodcentered}\,Kopf- / Brust\-ver\-letzungen,
-% {\textperiodcentered}\,Hirndruck (SHT),
-% {\textperiodcentered}\,Knochenbrüche der Beine oder des
-% Beckens,
-% {\textperiodcentered}\,Wirbelsäulenverletzungen,
-% {\textperiodcentered}\,Bewusstlosigkeit ${\rightarrow}$
-% sonst Flachlagerung oder stabile Seitenlage \A{KOCH: darüber
-% müssen wir reden: Schock vor Schädel?}}
-% %TODO Schock vor Schädel
-% &
-% Oberkörper hoch! Evtl. Beine hängen  lassen.
-% &
-% Situationsgerecht: Grundsätzlich Beine
-% hoch, bei Atemproblemen jedoch stark erhöhten
-% Oberkörper erwägen.
-% &
-% situationsgerecht, Beine hoch
-% &
-% Flachlagerung 
-% 
-% (Cave WS-Verletzung!)
-% \\\addlinespace\midrule\addlinespace
-% \multicolumn{5}{c}{\TabSub{Sonstige Maßnahmen}}
-% \\\addlinespace\midrule\addlinespace
-% Blutstillung  (weitere Verluste verhindern!)
-% 
-% Wenn möglich schonende/schnelle Bergung\A{Schonend
-%   oder schnell?}
-% &
-% Medikamentöse Therapie durch Notarzt\ZFootnote{(Diuretika, Katecholamine, Heparin)}
-% &
-% Auslösendes Antigen nach Möglichkeit entfernen!
-% &
-% 
-% &
-% \\\addlinespace\midrule\addlinespace
-% \multicolumn{5}{c}{\TabSub{Transportentscheidung}}
-% \\\addlinespace\midrule\addlinespace
-% Schockraum, 
-% 
-% zügiger Abtransport
-% &
-% Ursachenabhängig
-% &
-% Intensivstation
-% &
-% Intensivstation
-% \\\addlinespace\bottomrule
-% \end{tabularx}
-% }
-
 
 
 \vspace{2em}
-% \clearpage % TEMP temp clearpage
+\clearpage % TEMP temp clearpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -2337,17 +2244,18 @@ Wärmeerzeugung und -abgabe:
 \index{Zuckerstoffwechsel}\index{Kohlenhydrate}\index{Fettstoffwechsel}
 \index{Eiweißstoffwechsel}\index{Proteine}\index{Enzyme}
 
-\Definition{Abläufe von Stoffumsetzung und 
-Energiegewinnung, Nährstoffe werden in Wärme und Energie  umgewandelt}
+
 
 
 \Layout{0}{\TxBeschreibung}
 {% 
-Der menschliche Körper hat drei wesentliche
+\DefinitionInPara{Unter Stoffwechsel versteht man Abläufe
+von Stoffumsetzung und Energiegewinnung, wobei Nährstoffe
+in Wärme, Energie und Körperbestandteile umgewandelt
+werden.} Der menschliche Körper hat drei wesentliche
 Stoffwechselsysteme, die ihm zur Verfügung stehen. Man
 unterscheidet den \EE{Zucker- bzw. Kohlehydratstoffwechsel},
 den \EE{Fettstoffwechsel} und den \EE{Eiweißstoffwechsel}:
-
 \begin{itemize}
   \item \EE{Zuckerstoffwechsel}: Zucker ist ein potenter
   \E{Energielieferant} und kann vom Körper schnell umgesetzt werden. Er wird durch
@@ -2552,13 +2460,11 @@ Teilchen, sog. \E{Kationen} (z.\,B. Kalium (\ce{K^+}),
 Natrium (\ce{Na^+}), Magnesium (\ce{Mg^{++}}), Kalzium
 (\ce{Ca^{++}}), \ldots) und negativ geladenen Teilchen, den
 \E{Anionen} (z.\,B. Chlorid (\ce{Cl^-})).
-
 Diese Ionen sind unterschiedlich verteilt: Im \Abk{IZR} ist
 die \ce{K^+}-Konzentration hoch, dagegen gibt es wenig
 \ce{Na^+}; Im \Abk{EZR} ist es umgekehrt: Es gibt viel
 \ce{Na^+} und wenig \ce{K^+}. Spezielle Transportsysteme
 sorgend dafür, dass diese Ionen derartig verteilt werden.}
-
 \Fazit{Im Wasser gelöste, elektrisch geladene Teilchen, wie
 z.\,B. Natrium, Kalium und Chlorid, heißen \T{Elektrolyte}.
 Sie sind im Körper unterschiedlich verteilt.}
@@ -2590,11 +2496,11 @@ wichtig.
   Osmose und Diffusion, siehe unten)}
   \item \EE{Elektrische Funktion} durch Ionenladung. Besonders
   wichtig für
-  \begin{itemize}
+  \begin{compactitem}
     \item Herz (Erregungsleitung)
     \item Nerven
     \item Muskel
-  \end{itemize}
+  \end{compactitem}
 \end{itemize}
 }{}{}{}
 
@@ -2629,13 +2535,13 @@ Darüber hinaus steuern
 Hormone\ZFootnote{Renin, Angiotensin, Aldosteron} zusammen
 mit den Nieren die planmäßige Ausscheidung von Flüssigkeit.
 }{
-\begin{itemize}
+\begin{compactitem}
   \item Blutvolumen = Plasma(wasser) + zelluläre Bestandteile
   \item Erwachsener \VonBis{7}{8}\PC*, Neugeborenes\,/\,Säugling \VonBis{8}{9}\PC* des Körpergewichts
   \item Verluste bis 20\PC* verkraftbar
   \item Osmose und Diffusion verteilen Wasser
   \item Hormone {\&} Nieren sorgen für Ausscheidung
-\end{itemize}
+\end{compactitem}
 }
 {}{}{}
 
@@ -2656,9 +2562,18 @@ mit den Nieren die planmäßige Ausscheidung von Flüssigkeit.
 \label{topic:osmose}
 \label{topic:diffusion}
 
-\Definition{Verteilung von Wasser durch
-Konzentrationsausgleich in verschiedene Räume, welche durch
-halbdurchlässige Membranen voneinander getrennt sind.}
+\Layout{2}
+{\TxBeschreibung}
+{\DefinitionInPara{Unter Osmose versteht man den Fluss
+von Molekülen durch eine halbdurchlässige Membranen.} 
+Im menschlichen Körper spielt die Osmose eine wesentliche
+Rolle in der Flüssigkeitsverteilung.}
+{}
+{}
+{}
+{}
+
+
 
 \AuthNotes{GAB: Osmose und Diffusion: Grundsätzlich wichtig
 und relevant, allenfalls bessere Erklärung, aber bleibt in
@@ -3139,3 +3054,5 @@ Wer Probleme mit dem Stoffwechsel hat kann auch
 
 
 
+
+\ChapterEnd

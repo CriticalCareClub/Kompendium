@@ -26,10 +26,10 @@
 % % \qauthor{{\tiny Lk 10,25-37}}
 % \end{savequote}
 % 
-
+\def\ChapterCode{HKL}
 \chapter
 [\CO{[HKL]} Herz-Kreislaufstörungen]
-{\CC{[HKL]} Herz-Kreislaufstörungen}
+{Herz-Kreislaufstörungen}
 \ChapterIntro
 {%
 Herz-Kreislauferkrankungen sind die häufigste
@@ -68,7 +68,7 @@ kann.
 \nocite{Harrisons18De,Harrisons18DeKap224,Harrisons18DeKap225,Harrisons18DeKap226}
 
 
-\opt{STATUS-EXPERIMENTAL}{
+\Experimental{
 \Layout{57}{}{}{}{%
 \begin{tabularx}{\linewidth}{XXXX}\FontTableBase
 &
@@ -144,13 +144,13 @@ Herz-Kreislauf-Erkrankungen}
 
 
 \clearpage
-\section{Herz-Kreislauf-Stillstand}
-
-Der Herz-Kreislauf-Stillstand wird
-unter
-\FullRef{topic:kreislaufstillstand},
-\FullRef{topic:reanimation-eh}, und
-\prettyref{chp:BLS} und \prettyref{chp:BLS} besprochen.
+% \section{Herz-Kreislauf-Stillstand}
+% 
+% Der Herz-Kreislauf-Stillstand wird
+% unter
+% \FullRef{topic:kreislaufstillstand},
+% \FullRef{topic:reanimation-eh}, und
+% \prettyref{chp:BLS} und \prettyref{chp:BLS} besprochen.
 
 
 
@@ -165,43 +165,44 @@ unter
 \index{Insuffizienz!Herz-}
 
 
-\Definition{Unzureichende Auswurfleistung des Herzens.}
-
-Eine Leistungseinschränkung des Herzmuskels führt zu einer
-verminderten Auswurfleistung, es sind viele Ursachen
-möglich. Manche Ursachen treten \E{akut} auf, manche sind
+\DefinitionInPara{Eine \T{Herzinsuffizienz} bezeichnet eine 
+unzureichende Auswurfleistung des Herzens, unabhängig von deren Ursache.}
+Es sind viele Ursachen
+möglich, manche Ursachen treten \E{akut} auf, manche sind
 eher \E{chronischer} Natur.
 
 
 
 \Layout{0}{Einteilung}
-{
-\subparagraph{Herzteil} 
-Je nachdem, welcher Herzteil betroffen ist, unterteilt man in:
-
+{Die Einteilung der Herzinsuffizienz kann nach betroffenen
+Herzteil oder Fähigkeit des Körpers zur Kompensation
+erfolgen:
 \begin{itemize}
-  \item \T{Rechtsherzinsuffizienz}: Unzureichende Leistung des \E{rechten}
-  Herzens,
-  \item \T{Linksherzinsuffizienz}:
-  Unzureichende Leistung des \E{linken} Herzens, und
-  \item \T{Globalinsuffizienz}: Unzureichende Leistung beider Herzteile.
+  \item Einteilung nach betroffenen \EE{Herzteil}:
+  \begin{itemize}
+    \item \T{Rechtsherzinsuffizienz}: Unzureichende Leistung des \E{rechten}
+    Herzens,
+    \item \T{Linksherzinsuffizienz}:
+    Unzureichende Leistung des \E{linken} Herzens, und
+    \item \T{Globalinsuffizienz}: Unzureichende Leistung beider Herzteile.
+  \end{itemize}
+  \item Einteilung nach \EE{Kompensation}: Abhängig davon, wie
+  gut der Körper mit der
+  Einschränkung zurecht kommt, unterteilt man:
+  \begin{itemize}
+    \item \T{Kompensierte Herzinsuffizienz}: Der Körper hat noch
+    genug Reserven, kann gegensteuern und kommt mit der
+    eingeschränkten Leistung aus.
+    \item \T[Dekompensierte
+    Herzinsuffizienz]{\E{De}kompensierte Herzinsuffizienz}:
+    Der Körper kommt aufgrund des Fortschreitens der
+    Erkrankung oder aufgrund eines erhöhten Bedarfs nicht mehr
+    mit der Leistung aus. Es treten deutliche
+    Symptome auf.
+  \end{itemize}
 \end{itemize}
 
-\subparagraph{Kompensation}
-Abhängig davon, wie gut der Körper mit der
-Einschränkung zurecht kommt, unterteilt man:
 
-\begin{itemize}
-  \item \T{Kompensierte Herzinsuffizienz}: Der Körper hat noch
-  genug Reserven, kann gegensteuern und kommt mit der
-  eingeschränkten Leistung aus.
-  \item \T[Dekompensierte
-  Herzinsuffizienz]{\E{De}kompensierte Herzinsuffizienz}:
-  Der Körper kommt aufgrund des Fortschreitens der
-  Erkrankung oder aufgrund eines erhöhten Bedarfs nicht mehr
-  mit der Leistung aus. Es treten deutliche
-  Symptome auf.
-\end{itemize}
 }{
 \begin{compactitem}
   \item Herzteil:
@@ -232,7 +233,7 @@ abnehmende Leistungsfähigkeit gewöhnt.
 Problematisch wird es jedoch, wenn die
 \E{Kompensationsmechanismen} (köpereigene, Medikamente,
 {\dots}) versagen und der Patient plötzlich eine Symptomatik
-entwickelt . Man spricht dann von der \EE{dekompensierten}
+entwickelt. Man spricht dann von der \EE{dekompensierten}
 Herzinsuffizienz. Man muss die Symptome generell \E{anhand
 ihres Verlaufes beurteilen}: Bekannte, seit längerer Zeit
 bestehende Symptome sind weniger alarmierend als plötzlich
@@ -398,9 +399,12 @@ Erkankungen, Stress und ein plötzlicher Blutdruckanstieg.
 \MassnahmenMK{Spezielle
 Maßnahmen}{Herzinsuffizienz,
 symptomatisch}{m:herzinsuffizienz}{
-\Cave{Kein Transport von Patienten mit hörbarem Lungenödem
-ohne vorherige Behandlung, auch wenn die Transportzeit kurz
-wäre!}
+\Cave{Patienten mit Herzinsuffizienz und ABCD-Problem oder 
+Lungenödem mit brodelndem Atemgeräusch sind grundsätzlich notarztpflichtig. 
+
+Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor Ort Vorrang.
+
+Bereits der Transport in das Fahrzeug kann gefährlich sein!}
 }{}
 % \MassnahmenNG{Spezielle
 % Maßnahmen}{Herzinsuffizienz,
@@ -424,7 +428,8 @@ wäre!}
 
 
 \clearpage % TEMP temp clearpage
-\section{Koronare Herzkrankheit und Akutes Koronarsyndrom}
+% \section{Koronare Herzkrankheit und Akutes Koronarsyndrom}
+\section{Erkrankungen der Herzkrankzgefäße}
 \index{Koronare Herzkrankheit}
 \index{Herzkrankheit!Koronare}
 \index{KHK}
@@ -434,26 +439,59 @@ wäre!}
 \label{topic:aks}
 \label{topic:akutes-koronarsyndrom}
 
-\Layout{2}{Krankheitsbilder}
-{Die \T{Koronare Herzkrankheit} (\T{KHK})] ist eine
+\Layout{0}{\TxBeschreibung}
+{\DefinitionInPara{Die \T{Koronare Herzkrankheit} (\T{KHK}) ist eine
 Erkrankung der \EE{Herzkranzgefäße} (Koronargefäße) bei der
-es zu einer Verengung der Gefäße kommt. Das 
+es zu einer Verengung der Gefäße kommt.} Sie ist eine
+chronische Erkrankung, welche in akuten Notfallsituationen
+resultieren kann. 
+
+\DefinitionInPara{Das 
 \T[Akutes Koronarsyndrom]{Akute Koronarsyndrom}
-\index{Koronarsyndrom!akutes} 
-ist ein
-Sammelbegriff für \E{Herzinfarkt}, \E{stabile} und
-\E{instabile Angina pectoris}. Bei diesen Krankheitsbildern
-kommt es zu einer akuten \EE{Unterversorgung des
+\index{Koronarsyndrom!akutes} (\I{ACS}\ZFootnote{\I{ACS}: \I{Acute Coonary Syndrome}})
+ist ein  Symptomenkomplex, welcher
+typischerweise bei Erkrankungen wie dem 
+\E{Herzinfarkt} und der \E{stabilen} oder \E{instabilen Angina
+pectoris} auftritt.} 
+Bei diesen Krankheitsbildern kommt es zu einer akuten \EE{Unterversorgung des
 Herzmuskels} mit Blut und Sauerstoff aufgrund der
 Durchblutungsstörung. Die Ursache sind in erster Linie
 verengte oder verstopfte Herzkranzgefäße
 (\I[Ischämie!Akutes Koronarsyndrom]{Ischämie},
 \FullPrettyRef{topic:ischaemie}). Das akute Koronarsyndrom
-ist häufig das Ergebnis einer vorbestehenden koronaren Herzkrankheit.}
+ist häufig das Ergebnis einer vorbestehenden koronaren Herzkrankheit.
+}
+{%
+\begin{itemize}
+  \item Erkrankung der Herzkranzgefäße $\rightarrow$ Verengung
+  \item Akutes Koronarsyndrom (ACS)
+  \begin{itemize}
+    \item Symptomenkomplex
+    \item Z.\,B. bei:
+    \begin{itemize}
+      \item Angina pectoris
+      \item Herzinfarkt
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+}
 {}
 {}
 {}
-{}
+
+\Commentary[Akutes Koronarsyndrom]{
+Das
+\protect\T[Akutes Koronarsyndrom]{Akute Koronarsyndrom}
+\protect\index{Koronarsyndrom!akutes}
+ist ein Symptomenkomplex, welcher
+typischerweise bei Erkrankungen wie dem
+\E{Herzinfarkt} und der \E{stabilen} oder \E{instabilen Angina
+pectoris} auftritt. Daneben gibt es noch andere
+Erkrankungen, welche sich von den vorgenannten entweder
+durch die Pathogenese (z.\,B. \protect\I{Prinzmetal-Angina}) oder
+durch den Pathomechanismus (z.\,B. \protect\I{Tako-Tsubo-Kardiopathie})
+wesentlich unterscheiden.
+}
 
 \Commentary[Koronare Herzkrankheit]{Eine koronare
 Herzkrankheit ist oft anamnestisch bereits bekannt. Ein
@@ -467,15 +505,15 @@ auch von einer 1-, 2- oder 3-Gefäßerkrankung (\Lang{engl.}
 \begin{PictureSeriesWide}{}{Bilderserie:
 \EEE{Koronargefäße}}
 \PictureSeriesRowWide{3}
-{./images/hirtler-aass/Herz-edited-0800.png}
+{./images/hirtler-aass/Herzvorderflaeche.pdf}
 {Das Herz mit seinen Koronargefäßen \SourcePicture{Hirtler}}
 {./images/wikipedia-cc-by/Hk_coronary_bionerd.jpg}
 {Darstellung der
 Herzkranzgefäße während einer Herzkatheteruntersuchung.
 Dabei wird über die Leistenarterie ein Katheter
 eingebracht und bis knapp vor das Herz zu den Abgängen der
-Koronargefäße vorgeschoben und anschließend ein
-Kontrastmittel appliziert.
+Koronargefäße aus der Aorta vorgeschoben. Anschließend wird ein
+Kontrastmittel appliziert um die Gefäße mittels Röntgen sichtbar zu machen.
 \SourcePicture{WmCo
 \enquote{Bionerd}, CC-BY-3.0}}
 {./images/wikipedia-cc-by/Heart_coronary_artery_lesion-lq.jpg}
@@ -487,19 +525,15 @@ Lynch, CC-BY-2.5}} {./images/wikipedia-cc-by/Hk_coronary_bionerd.jpg}
 
 \end{PictureSeriesWide}
 
+\Layout{0}
+{Akutes Koronarsyndrom}
+{Da bei Behandlungsbeginn oft nicht klar ist, ob es sich um
+einen Herzinfarkt oder einen Angina-pectoris-Anfall handelt,
+wird bei Vorliegen der entsprechenden Symptome (Atemnot,
+Thoraxschmerz, Todesangst, \ldots) einfach vom \T{Akuten
+Koronarsyndrom}\ZFootnote{\Lang{Engl} Acute Coronary
+Syndrome, \Abk{ACS}.} gesprochen. 
 
-\subsection{Angina pectoris}
-\index{Angina pectoris}
-\label{topic:angina-pectoris}
-
-\HeadingSub{\Lang{lat.} \enquote{Brustenge}}
-
-\Definition{Plötzliches Engegefühl in der Brust meist mit
-Thoraxschmerz infolge einer \underline{vorübergehenden}
-Unter\-ver\-sorgung des Herzmuskels mit sauerstoffreichem Blut.}
-
-\Layout{0}{\TxBeschreibung}
-{%
 Es sind \E{zwei Auslösemechanismen} möglich:
 Einerseits kann eine Minderdurchblutung des Herzmuskels
 (Myokard)
@@ -510,9 +544,149 @@ bei
   Anstrengung.
 In beiden Fällen kommt es zu einem \EE{Missverhältnis
 zwischen Sauerstoffangebot und Sauerstoffbedarf} des
-Herzens(\I[Ischämie!Angina pectoris]{Ischämie},
+Herzens (\I[Ischämie!Angina pectoris]{Ischämie},
 \FullPrettyRef{topic:ischaemie}), die Folge sind Schmerzen,
 Atemnot und ein Leistungsverlust!
+
+
+}
+{}
+{./images/hirtler-aass/Herzschmerz.pdf}
+{Schmerzausdehnung beim ischämischen
+Herzschmerz.}
+{Hirtler.}
+
+\Layout{27}
+{Akutes Koronarsyndrom}
+{}
+{}
+{./images/hirtler-aass/Herzschmerz.pdf}
+{Typische Schmerzausdehnung bzw. -ausstrahlung beim ischämischen
+Herzschmerz.}
+{Hirtler.}
+
+
+
+% \begin{PictureSeriesWide}{}{Bilderserie:
+% \EEE{EKG-Veränderungen beim Herzinfarkt}}
+% \PictureSeriesRowWide{2}
+% {./images/wikipedia-pd/12_lead_generated_inferior_MI}
+% {\Z{Typische Veränderungen im EKG bei einem
+% Hinterwandinfarkt:
+% Deutliche ST-Hebungen in den Ableitungen \EKG{II}, \EKG{III}
+% und
+% \EKG{aVF}} \SourcePicture{WMC/PD}}
+% {./images/wikipedia-cc-by-sa/Heart_inferior_wall_infarct-00640}
+% {Ischämisches Herzmuskelgewebe \ldots \SourcePicture{Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5}}
+% {./images/wikipedia-cc-by-sa/Heart_inferior_wall_scar}
+% {{\ldots} stirbt nach einger Zeit ab, es bildet sich eine (funktionslose) Narbe, die Herzleistung ist in Folge beeinträchtigt.\SourcePicture{Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5}}
+% {empty}
+% {}
+% \end{PictureSeriesWide}
+
+
+
+
+
+
+ 
+\Layout{0}
+{{\TxSAMPLE} beim akuten Koronarsyndrom}
+{
+\begin{description}
+  \item[\SAMPLE{S}] Die Leitsymptome sind ein \EE{akuter,
+  nicht atemabhängige, Brustschmerz} und \EE{Atemnot} (\E{Dyspnoe}).
+  Der Schmerz ist meist hinter dem Brustbein lokalisiert und
+  kann \EE{ausstrahlen}, häufig in den Kiefer, (linken)
+  Arm und in den Rücken. Der Schmerz
+  wird als brennend bzw. stechend beschrieben. Zusätzlich zu dem
+  Schmerz verspürt der Patient auch oft ein \EE{Enge-}
+  bzw. \EE{Druckgefühl} im Brustkorb, \Speech{\enquote{als
+  würde jemand darauf stehen}}.
+  Unter Umständen kann es auch zu einem \EE{Oberbauchschmerz} kommen,
+  welcher als Verdauungsstörung oder
+  Magen-Darm-Erkrankung fehlgedeutet werden kann.
+  
+  Bei Diabetikern kann es aufgrund der
+  Nervenschädigungen auch zu einem schmerzlosen Verlauf
+  kommen, man spricht dabei auch vom \enquote{\T[stummer
+  Infarkt]{stummen Infarkt}}\index{Infarkt, stummer}.
+  Sonst steht normalerweise der \E{stechende/brennende}, nicht
+  atemabhängige \II[Brustschmerz]{Brust-} oder
+  \II{Oberbauchschmerz} zusammen mit \II{Atemnot} und
+  \II{Todesangst} im Vordergrund. Der Brustschmerz kann in
+  Richtung \E{Magen}, rechter oder linker \E{Hand}, \E{Kiefer}
+  oder auch \E{Rücken} \EE{ausstrahlen}.
+  
+  \EE{Todesangst und Vernichtungsgefühl} sind
+  häufig.
+  Bei Auftreten eines \EE{kardiogenen Schocks} können die
+  entsprechenden Schockzeichen beobachtet werden: Blässe,
+  Kaltschweißigkeit, Hypotonie, etc.
+  (\FullPrettyRef{topic:schock-kardiogener}).
+  \item[\SAMPLE{M}] \II{Nitroglycerin} wird zur Erweiterung der
+  Koronargefäßen von KHK-Patienten eingenommen. Dies kann
+  entweder mittels eines Pflasters (Nitro-Pflaster), über
+  Kapseln oder mittels eines Sprays (z.\,B.
+  \I{Nitrolingual{\texttrademark}}), welcher bei Bedarf
+  eingenommen wird, erfolgen.
+  \item[\SAMPLE{P}]
+  Bei den meisten Patienten ist die Angina
+  Pectoris schon bekannt, bzw. es besteht eine \EE{koronare
+  Herz-Krankheit} (\E{KHK}). Die KHK ist eine Erkrankung der
+  Herzkranzgefäße, diese werden durch Ablagerung von Fetten
+  und Kalk geschädigt und eingeengt, dadurch kann weniger Blut
+  durchfließen. So kommt es zu einer Mangelversorgung des
+  Herzmuskels und zu den Symptomen der Angina pectoris.
+  \item[\SAMPLE{E}]
+  Häufig wird über körperliche Anstrengung oder Aufregung
+  vor Beginn des Anfalls berichtet.
+\end{description}
+
+
+
+
+}
+{
+\begin{itemize}
+  \item[\SAMPLE{S}]
+  \begin{itemize}
+    \item Stechender/brennender \EE{Brustschmerz} mit
+    Ausstrahlung oder \EE{Oberbauchschmerz}
+    
+    \enquote*{Stummer Verlauf} bei Diabetikern möglich
+    \item \EE{Dyspnoe}
+    \item Druckgefühl, \Speech{\enquote{als würde jemand darauf
+    stehen}}
+    \item Todesangst
+    \item Ggfs. kardiogener Schock
+  \end{itemize}
+  \item[\SAMPLE{M}] Nitroglycerin: Pflaster, Kapseln, Spray
+  \item[\SAMPLE{P}] Koronare Herzkrankheit (KHK)
+  \item[\SAMPLE{E}] Körperliche Anstrengung
+\end{itemize}
+}
+{./images/hirtler-aass/Herzschmerz.pdf}
+{Schmerzausdehnung beim ischämischen
+Herzschmerz.}
+{Hirtler.}
+
+\Layout{0}
+{Angina pectoris}
+{\index{Angina pectoris}
+\label{topic:angina-pectoris}
+\HeadingSub{\Lang{lat.} \enquote{Brustenge}}
+
+\noindent\DefinitionInPara{Plötzliches Engegefühl in der Brust meist
+mit Thoraxschmerz infolge einer \E{vorübergehenden}
+Unter\-ver\-sorgung des Herzmuskels mit sauerstoffreichem Blut.}
+Ein akuter Angina pectoris-Anfall ist primär \EE{nicht
+sicher von einem Herzinfarkt unterscheidbar}. Die Symptome
+treten eher bei Belastung auf und vergehen oft bei
+Entspannung, das Vorübergehen der Beschwerden darf aber
+natürlich nicht abgewartet werden!
+
+
 
 Der akute Angina-Pectoris-Anfall gehört zu der Familie des
 \EE{Akuten Koronarsyndroms}. Dazu gehört auch der
@@ -520,83 +694,16 @@ Herzinfarkt, dem der gleiche Mechanismus wie der Angina Pectoris zu
 Grunde liegt, wobei es beim Infarkt im \E{Gegensatz} zur Angina
 pectoris zu einem \E{totalen} Herzkranzgefäß\E{verschluss}
 mit Absterben von Herzmuskelgewebe kommt.
-\A{KOCH: nein; GABS: Doch. }
-
-
-}{
+\A{KOCH: nein; GABS: Doch. }}
+{%
 Missverhältnis zwischen Sauerstoffangebot und  
 Sauerstoffbedarf
 \begin{itemize}
   \item Einengung(en) von Herzkranzgefäßen
   \item Erhöhter Sauerstoffbedarf bei Anstrengung
-\end{itemize}
-}{}{}{}
-
-
-\Layout{20}{\TxSymptome}
-{%
-Das Leitsymptom ist der \EE{akute, nicht atemabhängige,
-Brustschmerz}. Er ist meist hinter dem Brustbein
-lokalisiert und \EE{strahlt häufig aus}, häufig in den
-Kiefer, (linken) Arm und in den Rücken. Unter Umständen
-kann es auch zu einem \EE{Oberbauchschmerz} kommen,
-welcher unter Umständen als Verdauungsstörung fehlgedeutet
-werden kann. Der Schmerz wird als brennend bzw. stechend
-beschrieben. Dazu kommt i.\,d.\,R. ein \EE{Druckgefühl} am
-Brustkorb, \emph{\enquote{als würde jemand auf dem Brustkorb
-stehen.}} \EE{Todesangst und Vernichtungsgefühl} sind
-häufig.
-Ein weiteres wichtiges Leitsymptom ist die \EE{Atemnot}
-(\E{Dyspnoe}).
-
-Ein akuter Angina pectoris-Anfall ist primär \EE{nicht
-sicher von einem Herzinfarkt unterscheidbar}. Die Symptome
-treten eher bei Belastung auf und vergehen oft bei
-Entspannung, das Vorübergehen der Beschwerden darf aber
-natürlich nicht abgewartet werden!
-}{
-\begin{itemize}
-  \item Brustschmerz, brenndend/stechend, Druckgefühl
-  \item Oft Ausstrahlung in den Kiefer,
-  linken Arm, Rücken
-  \item Evtl. Oberbauchschmerzen
-  \item Todesangst, Vernichtungsgefühl
-  \item Dyspnoe
+  \item Symptome des akuten Koronarsyndrom,  eher bei
+  Belastung, vergehen oft bei Entspannung
   \item Primär \EE{nicht sicher von MCI unterscheidbar}
-  \item Symptome eher bei Belastung, vergehen oft bei Entspannung
-\end{itemize}
-
-}
-{./images/hirtler-aass/Herzschmerz.pdf}
-{Schmerzausdehnung beim ischämischen
-Herzschmerz.}
-{Hirtler.}
-
-
-
-\Layout{0}{\TxSAMPLE}
-{\SAMPLE{M} \II{Nitroglycerin} wird zur Erweiterung der
-Koronargefäßen von KHK-Patienten eingenommen. Dies kann
-entweder mittels eines Pflasters (Nitro-Pflaster), über
-Kapseln oder mittels eines Sprays (z.\,B.
-\I{Nitrolingual{\texttrademark}}), welcher bei Bedarf
-eingenommen wird, erfolgen. 
-\SAMPLE{P} Bei den meisten Patienten ist die Angina
-Pectoris schon bekannt, bzw. es besteht eine \EE{koronare
-Herz-Krankheit} (\E{KHK}). Die KHK ist eine Erkrankung der
-Herzkranzgefäße, diese werden durch Ablagerung von Fetten
-und Kalk geschädigt und eingeengt, dadurch kann weniger Blut
-durchfließen. So kommt es zu einer Mangelversorgung des
-Herzmuskels und zu den Symptomen der Angina pectoris.
-\SAMPLE{E} Häufig wird über Anstrengung oder Aufregung vor
-Beginn des Anfalls berichtet. 
-
-}
-{
-\begin{itemize}
-  \item[\SAMPLE{M}] Nitroglycerin: Pflaster, Kapseln, Spray
-  \item[\SAMPLE{P}] Koronare Herzkrankheit (KHK)
-  \item[\SAMPLE{E}] Anstrengung
 \end{itemize}
 }
 {}
@@ -604,8 +711,11 @@ Beginn des Anfalls berichtet.
 {}
 
 
-\subsection{Herzinfarkt}
-\HeadingSub{\Lang{Term.} \T{Myokardinfarkt}, \Lang{Abkz.} \T{MCI}}
+
+
+\Layout{2}
+{Herzinfarkt}
+{\HeadingSub{\Lang{Term.} \T{Myokardinfarkt}, \Lang{Abkz.} \T{MCI}.}
 \index{Herzinfarkt}
 \index{Infarkt!Herz-}
 \index{Myokardinfarkt}
@@ -616,63 +726,54 @@ Beginn des Anfalls berichtet.
 \label{topic:myocardinfarkt}
 \label{topic:mci}
 
-% \DefinitionExp{Herzinfarkt}
-
-\Definition{Verschluss eines oder mehrerer Herzkranzgefäße mit
+\noindent\DefinitionInPara{Verschluss eines oder mehrerer Herzkranzgefäße mit
   anschließendem Absterben des betroffenen Herzmuskelgewebes
   (\I[Ischämie!Herzinfarkt]{Ischämie},
 \FullPrettyRef{topic:ischaemie}).}
-
-\Layout{20}{\TxSymptome}
-{%
-Die Symptome entsprechen denen der Angina
-pectoris, doch vergehen diese nicht mehr und es bleiben --
+Die Symptome entsprechen denen des akuten Koronarsyndroms, doch vergehen diese nicht mehr und es bleiben --
 selbst bei optimaler Behandlung -- Schäden am Herzmuskel
-bestehen. Bei Diabetikern kann es aufgrund der
-Nervenschädigungen auch zu einem schmerzlosen Infarkt
-kommen, man spricht dabei auch vom \enquote{\T[stummer
-Infarkt]{stummen Infarkt}}\index{Infarkt, Stummer}.
-Sonst steht normalerweise der \E{stechende/brennende}, nicht
-atemabhängige \II[Brustschmerz]{Brust-} oder
-\II{Oberbauchschmerz} zusammen mit \II{Atemnot} und
-\II{Todesangst} im Vordergrund. Der Brustschmerz kann in
-Richtung \E{Magen}, rechter oder linker \E{Hand}, \E{Kiefer}
-oder auch \E{Rücken} \EE{ausstrahlen}. Zusätzlich zu dem
-Schmerz verspürt der Patient auch oft ein \EE{Engegefühl} im
-Brustkorb, \Speech{\enquote{als würde jemand darauf
-stehen}}. Die Atemnot kann massiv ausfallen.
+bestehen. 
 
-Bei Auftreten eines \EE{kardiogenen Schocks} können die
-entsprechenden Schockzeichen beobachtet werden: Blässe,
-Kaltschweißigkeit, Hypotonie, etc.
-(\ref{topic:schock-kardiogener}).
-}{
-\begin{itemize}
-  \item Symptome wie bei Angina Pectoris, diese vergehen aber nicht
-  \begin{compactitem}
-    \item Stechender/brennender \EE{Brustschmerz} mit
-    Ausstrahlung oder \EE{Oberbauchschmerz}
-    \item \enquote{Stummer Infarkt} bei Diabetikern
-    \item Druckgefühl, \Speech{\enquote{als würde jemand darauf
-stehen}}
-    \item Todesangst
-    \item \EE{Dyspnoe}
-    \item Kardiogener Schock
-  \end{compactitem}
-\end{itemize}
+
 }
-{./images/hirtler-aass/Herzschmerz.pdf}
-{Schmerzausdehnung beim ischämischen
-Herzschmerz.}
-{Hirtler.}
+{%
+\begin{itemize}
+  \item Symptome des kuten Koronarsyndroms,  vergehen
+   nicht
+  
+\end{itemize}}
+{}
+{}
+{}
+
+
+\begin{PictureSeriesWide}{}{Bilderserie:
+\EEE{Schädigung des Herzmuskel beim Herzinfarkt}}
+\PictureSeriesRowWide{3}
+{./images/wikipedia-cc-by-sa/Heart_normal_short_axis_section-00640}
+{Das Herz im Querschnitt, gesehen von unten: Links der
+rechte Ventrikel, rechts der muskelstarke linke Ventrikel.
+ \SourcePicture{Patrick Lynch, CC-BY}}
+{./images/wikipedia-cc-by-sa/Heart_inferior_wall_infarct-00640}
+{Ischämisches Herzmuskelgewebe {\ldots}
+\SourcePicture{Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5}} 
+{./images/wikipedia-cc-by-sa/Heart_inferior_wall_scar}
+{{\ldots} stirbt nach einger Zeit ab, es bildet sich eine
+(funktionslose) Narbe, die Herzleistung ist in Folge beeinträchtigt. 
+\SourcePicture{Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5}}
+{empty}
+{}
+\end{PictureSeriesWide}
+
   
 \Layout{0}{\TxKomplikationen}
 {%
 \begin{itemize}
   \item \EE{Herzrhythmusstörungen} (alle Arten), bis hin
   zum Atem-/Kreislaufstillstand und Reanimation.
-  Besonders häufig kommt es als Frühkomplikation zum
-  plötzlichen Kammerflimmern.
+  Besonders häufig kommt es als Frühkomplikation zu plötzlichen, 
+  lebensgefährlichen Rhythmusstörungen wie der ventrikulären 
+  Tachykardie oder dem Kammerflimmern.
   \item Kardiogener Schock \index{Kardiogener
   Schock!beim Herzinfarkt}\index{Schock!Kardiogener!beim
   Herzinfarkt}
@@ -686,34 +787,19 @@ Herzschmerz.}
 
 }{}{}{}
 
-\begin{PictureSeriesWide}{}{Bilderserie:
-\EEE{ACS und Herzinfarkt}}
-\PictureSeriesRowWide{3}
-{./images/hirtler-aass/Herzschmerz.pdf}
-{Schmerzausdehnung beim ischämischen
-Herzschmerz. \SourcePicture{Hirtler.}}
-{./images/wikipedia-cc-by/Heart_ant_wall_infarction-00800.jpg}
-{Abgestorbenes Muskelgewebe. \SourcePicture{Patrick J. Lynch,
-CC-BY-2.5}}
-{./images/wikipedia-pd/12_lead_generated_inferior_MI}
-{\Z{Typische Veränderungen im EKG bei einem
-Hinterwandinfarkt:
-Deutliche ST-Hebungen in den Ableitungen \EKG{II}, \EKG{III}
-und
-\EKG{aVF}} \SourcePicture{WMC/PD}}
-{empty}
+
+
+\Layout{27}
 {}
-\end{PictureSeriesWide}
+{}
+{}
+{./images/wikipedia-pd/12_lead_generated_ventricular_tachycardia}
+{Lebensbedrohliche Rhythmusstörungen, wie hier die
+ventrikuläre Tachykardie, sind häufige Komplikationen eines
+Herzinfarktes.}
+{WM/PD}
 
 
-\subsection{Akutes Koronarsyndrom}
-
-Da bei Behandlungsbeginn oft nicht klar ist, ob es sich um
-einen Herzinfarkt oder einen Angina-pectoris-Anfall handelt,
-wird bei Vorliegen der entsprechenden Symptome (Atemnot,
-Thoraxschmerz, Todesangst, \ldots) einfach vom \T{Akuten
-Koronarsyndrom}\ZFootnote{\Lang{Engl} Acute Coronary
-Syndrome, \Abk{ACS}.} gesprochen. 
 
 
 \MassnahmenMK{Spezielle Maßnahmen}{Thoraxschmerzen, jetzt beschwerdefrei}
@@ -746,7 +832,19 @@ Syndrome, \Abk{ACS}.} gesprochen.
 
 \MassnahmenMK{Spezielle Maßnahmen}{Akutes Koronarsyndrom}
 {m:akutes-koronarsyndrom}
-{Vitale Bedrohung!}{}
+{\Ca{Vitale Bedrohung!}
+
+\Cave{Patienten mit einem akuten Koronarsyndrom sind grundsätzlich notarztpflichtig. 
+
+Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor Ort Vorrang. 
+
+Der Notarzt ist auch für die Transportentscheidung wesentlich: 
+Der Patient braucht u.\,U. {\bfseries ein entsprechend
+ausgestattetes Spital} mit einem {\bfseries
+\E{dienst\-bereiten} Herzkatheterlabor}. Der Notarzt muss
+entscheiden, ob das notwendig und sinnvoll ist.
+}}{
+}
 
 % \MassnahmenNG{Spezielle Maßnahmen}{Akutes Koronarsyndrom}
 % {\label{m:akutes-koronarsyndrom}}
@@ -863,24 +961,21 @@ dient und dieses längerfristig offen halten soll. Vgl.
 }{}{}{}
 
 
+\begin{figure}[H]
+\caption{EKG-Veränderungen beim Herzinfarkt:
+Unterschiedliche Gefäße verursachen unterschiedliche
+Veränderungen im EKG.} \subfloat[\Z{EKG-Veränderungen bei
+einem Vorderwandinfarkt: ST-Hebungen in den
+Brustwandableitungen.}
+\SourcePicture{WM/PD}] {\includegraphics[width=\linewidth]{./images/wikipedia-pd/12_lead_generated_anterior_MI}}
 
-\Cave{{\bfseries Kein Transport ohne Notarzt!}
+\subfloat[\Z{EKG-Veränderungen bei einem Hinterwandinfarkt:
+Deutliche ST-Hebungen (\enquote*{Katzenbuckel}) in den
+Ableitungen \EKG{II}, \EKG{III} und
+\EKG{aVF}}
+\SourcePicture{WM/PD}] {\includegraphics[width=\linewidth]{./images/wikipedia-pd/12_lead_generated_inferior_MI}}
+\end{figure}
 
-Auch nicht wenn
-das Spital \enquote{um{\textquotesingle}s Eck}
-ist.
-
-Der Patient braucht {\bfseries ein entsprechend
-ausgestattetes Spital} mit einem {\bfseries
-\E{dienst\-bereiten} Herzkatheterlabor}. Der Notarzt muss
-entscheiden, ob das notwendig und sinnvoll ist.
-
-Auch wenn der Patient ein Einweisungsformular
-(Spitalszettel) von einem Arzt hat (Ärztefunkdienst,
-Hausarzt) oder ein Hausarzt meint, es sei
-\Speech{\enquote{eh nicht dringend}},
-unbedingt einen Notarzt beiziehen.
-}
 
 
 \begin{Literary}
@@ -911,7 +1006,8 @@ Herzinfarkt, etc.) auftreten.
 {%
 Herzrhythmusstörungen können hervorgerufen werden durch eine
 \EE{Störung der Frequenz} (zu langsam, zu schnell) oder
-einer \EE{Störung der Regelmäßigkeit}. Wenn man die
+einer \EE{Störung der Regelmäßigkeit} (Rhythmus im engeren Sinn). 
+Wenn man die
 elektrischen Ströme mittels eines EKG darstellt, kann man
 zusätzlich auch \EE{Störungen der Form der elektrischen
 Herzströme} erkennen und beschreiben. Ein halbautomatischer
@@ -942,12 +1038,12 @@ Herzaktion möglich!
 {%
 %
 \begin{itemize}
-  \item \T{Bradykardie}:  Zu langsamer Herzschlag
+  \item \T{Bradykardie}:  Langsamer Herzschlag
   ({HF \textless} 60\,\nicefrac{}{\Min} {\tiny (beim Erwachsenen)})
   
   Leistungssportler können aufgrund ihres trainierten Körpers auch sehr
   niedrige Ruhepulsfrequenzen haben.
-  \item \T{Tachykardie}:  Zu schneller
+  \item \T{Tachykardie}:  Schneller
   \marginpar{{\footnotesize Tachometer im Auto:
   Geschwindigkeitsanzeiger, meistens zu schnell ;)}}
   Herzschlag
@@ -955,8 +1051,9 @@ Herzaktion möglich!
   (beim Erwachsenen)})
 \end{itemize}
 
-Denke bei der Beurteilung auch immer an die Umstände und den
-Erregungszustand des Patienten!
+Bei der Beurteilung der Herzfrequenz muss auch immer an die Umstände 
+(Ruhe, Belastung, \ldots) und an den
+Erregungszustand des Patienten gedacht werden!
 }{
 \begin{itemize}
   \item Bradykardie \dotfill\ zu langsam
@@ -1067,55 +1164,89 @@ Von symptom-/bedeutungslos bis lebensbedrohlich
 
 
 \Layout{0}{Reanimationspflichtige Rhythmusstörungen}
-{
-\begin{description}
-  \item[\T{Kammerflimmern}]
-%   \index{Kammerflimmern|TLike}
-  \label{topic:kammerflimmern}
-  %
-  NICHT verwechseln mit Vorhofflimmern! Die elektrische
-  Erregung im Herzen ist ungerichtet, als würden alle Autos
-  eines Parkplatzes gleichzeitig in alle Richtungen losfahren
-  ${\rightarrow}$ der Herzmuskel kontrahiert nicht geordnet,
-  er \enquote{zittert} nur (wie ein Pudding), es wird \EE{keine
-  Auswurfleistung} erreicht!
-  \item[\T{Pulslose Ventrikuläre Tachykardie}]
+{~
+\begin{itemize}
+  \item \T{Pulslose Ventrikuläre Tachykardie} (\I{pVT}):
 %   \index{Pulslose Ventrikuläre Tachykardie|TLike}
   \label{topic:pulslose-ventrikulaere-tachykardie}
   %
   Vorstufe zum Kammerflimmern. Das Herz kontrahiert
   so schnell, dass es sich nicht mehr füllen kann
   ${\rightarrow}$ \EE{keine Auswurfleistung}.
-  \item[\T{Asystolie}] 
+  \item \T{Kammerflimmern} (\I{AF}):
+%   \index{Kammerflimmern|TLike}
+  \label{topic:kammerflimmern}
+  %
+   Die elektrische
+  Erregung im Herzen ist ungerichtet, als würden alle Autos
+  eines Parkplatzes gleichzeitig in alle Richtungen losfahren
+  ${\rightarrow}$ der Herzmuskel kontrahiert nicht geordnet,
+  er \enquote{zittert} nur (wie ein Pudding), es wird \EE{keine
+  Auswurfleistung} erreicht! Kammerflimmern darf nicht mit Vorhofflimmern verwechselt werden!
+  \item \T{Asystolie}:
 %   \index{Asystolie|TLike}
   \label{topic:asystolie}
-  
   Im Herz entsteht keine elektrische
   Erregung, der Herzmuskel kontrahiert daher nicht und es erfolgt
   {keine Auswurfleistung}
-\end{description}
+  \item \T{Pulslose elektrische Aktivität} (\I{PEA}): Bei der
+  pulslosen elektrischen Aktivität ist die Herzaktion von
+  der ekeltrischen Aktivität \EE{entkoppelt}, d.\,h. das Herz
+  reagiert nicht auf die Impulse des Reizleitungssystem. Der
+  EKG-Befund kann zwar unauffällig sein, aufgrund der
+  fehlenden Herzaktion entsteht trotzdem ein
+  Kreislauffstillstand.
+\end{itemize}
 
 
 }
 {
 \begin{compactitem}
-  \item Kammerflimmern
-  \begin{compactitem}  \item {Reanimation!}
-    \item Wirre Erregung, keine sinnvolle Muskelarbeit ${\rightarrow}$ kein
-    Auswurf.
-  \end{compactitem}
   \item Pulslose Ventrikuläre Tachykardie
   \begin{compactitem}
     \item Keine Zeit zum Füllen ${\rightarrow}$ kein Auswurf
+  \end{compactitem}
+  \item Kammerflimmern
+  \begin{compactitem}  
+    \item Wirre Erregung, keine sinnvolle Muskelarbeit ${\rightarrow}$ kein
+    Auswurf.
   \end{compactitem}
   \item Asystolie
   \begin{compactitem}
     \item Keine elektrische Erregung, keine Muskelarbeit, kein
     Auswurf
   \end{compactitem}
+  \item Pulslose elektrische Aktivität
+  \begin{compactitem}
+    \item Entkoppelung von Herzschlag und Impulsen des Reizleitungssystems
+  \end{compactitem}
 \end{compactitem}
 
 }{}{}{}
+
+\Layout{27}
+{}
+{}
+{}
+{./images/wikipedia-pd/12_lead_generated_sinus_rhythm}
+{Unauffälliger EKG-Befund}
+{WM/PD}
+
+\begin{figure}[H]
+\caption{Reanimationspflichtige Rhythmen}
+\subfloat[\Z{Ventrikuläre Tachykardie} \SourcePicture{WM/PD}]
+{\includegraphics[width=\linewidth]{./images/wikipedia-pd/Lead_II_rhythm_ventricular_tachycardia_Vtach_VT}}
+
+\subfloat[\Z{Kammerflimmern}
+\SourcePicture{WM/PD}]
+{\includegraphics[width=\linewidth]{./images/wikipedia-pd/Lead_II_rhythm_generated_ventricular_fibrilation_VF}}
+
+\subfloat[\Z{Asystolie}
+\SourcePicture{WM/PD}]
+{\includegraphics[width=\linewidth]{./images/wikipedia-pd/Lead_II_rhythm_generated_asystole}}
+\end{figure}
+
+
 
 
 
@@ -1132,16 +1263,15 @@ auftreten. Sehr viele Leute haben Vorhofflimmern und leben
 ganz gut damit.
 Häufige \EE{Komplikationen} sind jedoch:
 \begin{compactitem}
-  \item Tachykardie-Anfälle
-  \item Thrombenbildung: Dies stellt wiederum ein Risko dar für:
+  \item \EE{Tachykardie-Anfälle}
+  \item \EE{Thrombenbildung} in den Vorhöfen: Dies stellt wiederum ein Risko dar für:
   \begin{compactitem}
     \item Arterielle Gefäßverschlüsse (\FullPrettyRef{topic:arterieller-gefaessverschluss})
     \item Schlaganfälle (\FullPrettyRef{topic:insult})
     \item Mesenterialinfarkte (\FullPrettyRef{topic:mesenterialinfarkt})
   \end{compactitem}
-  Daher Vorbeugung mit \EE{gerinnungshemmenden}
-  (\enquote*{blutverdünnenden}) Medikamenten (Marcoumar
-  ${\rightarrow}$ Patient ist blutungsgefährdet)
+  Daher werden diesen Patienten meist \EE{gerinnungshemmende}
+  (\enquote*{blutverdünnenden}) Medikamente zur Vorbeugung verschrieben (z.\,B. \I[Marcourmar!Vorhofflimmern]{Marcoumar}, der Patient ist blutungsgefährdet)
 \end{compactitem}
 }
 {%
@@ -1217,16 +1347,16 @@ lebensbedrohlich sein.
 } % STATUS-EXPERIMENTAL
 
 
+
 \subsection{Tachykarde Attacke}
 \label{topic:tachykarde-attacke}
-
-\Definition{Plötzliche Tachykardie ohne erkennbare Ursache, wobei der Patient
-(meistens) Symptome wahrnimmt und eine HF\,>\, 160\PerMin*
-vorliegt.}
 
 
 \Layout{0}{\TxBeschreibung}
 {%
+\DefinitionInPara{Plötzliche Tachykardie ohne erkennbare Ursache, wobei der Patient
+(meistens) Symptome wahrnimmt und eine Herzfrequenz um bzw. über 160\PerMin*
+vorliegt.}
 Tachykarde Attacken sind ein häufiges Notfallbild. Da oft
 chronische Erkrankungen die Ursache sind, haben die
 Patienten diese Attacken immer wieder und kennen die
@@ -1242,6 +1372,7 @@ nachbehandelnden Arzt wichtig um eine rasche, zielführende
 Behandlung einzuleiten.
 }{
 \begin{itemize}
+  \item HF\,$\geq$\,160\PerMin*
   \item Oft Grunderkrankung bekannt
   \item Anamnese!
   \item Befunde, Arztbriefe!
@@ -1259,7 +1390,7 @@ Brustschmerz. Dies sind erste Zeichen, dass das Herz an
 die Grenze seiner Belastbarkeit stößt.\bigskip
 }{
 \begin{itemize}
-  \item Tachykardie
+  \item Tachykardie $\geq$\,160\PerMin*
   \item Spürbares Herzklopfen
   \item Evtl. Atemnot, leichter Brustschmerz, Angstgefühl
 \end{itemize}
@@ -1273,11 +1404,13 @@ kann es sein, dass es an seine \EE{Grenzen} stößt und
 Arbeit nicht mehr reicht und ein Angina-pectoris-Anfall oder
 sogar ein Herzinfarkt\A{ KOCH: passt mit der Definition MCI
 nicht überein, AP wäre besser oder? GABS: AP dazugenommen,
-Infarkt aber gut möglich. } entsteht.
-
-Weiters können aus einer tachykarden Rhythmusstörung in
-andere, akut lebensbedrohende Rhythmusstörungen umschlagen.
-\Commentary[Tachykarde Attacke / Gefahren] {Es gibt viele verschiedene Auslöser für tachykarde
+Infarkt aber gut möglich. } ausgelöst wird.
+Weiters kann die Rhytmusstörung in eine
+andere, akut lebensbedrohende Rhythmusstörungen umschlagen
+und es dadurch zu einer akut lebensbedrohlichen Sitzuation
+kommen.
+\Commentary[Tachykarde Attacke / Gefahren]
+{Es gibt viele verschiedene Auslöser für tachykarde
 Attacken. Manche Rhythmusstörungen sind tückisch, dass sie
 von einem Moment umschlagen und einen Kreislaufstillstand
 verursachen können. Zum Beispiel beim Kammerflattern besteht
@@ -1307,27 +1440,6 @@ gleich. \cite{BLIM4}}
 {m:tachykarde-attacke}
 {}{}
 
-% \MassnahmenNG{Spezielle Maßnahmen}{Tachykarde Attacke}{}{
-% \begin{itemize}
-%     \item Lagerung: \EE{Oberkörper hoch}
-%   \item Striktes \EE{Bewegungsverbot!}
-%   \item Beengende Kleidung öffnen
-%     \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
-%   \item \TxBeiVit \TxMassVitBes
-%   \begin{itemize}
-%     \item Notarzt: Eine medikamentöse Therapie ist meistens
-%     erforderlich.
-%   \end{itemize}
-%   \item Psychische Betreuung! Oase der Ruhe schaffen.
-%   \item Wenn der Patient versorgt ist (d.h. alle obigen Punkte erfüllt
-%   wurden) soll -- wenn möglich -- ein \E{EKG}
-%   (Extremitätenableitung, \prettyref{topic:ekg}) abgeleitet werden. Der
-%   Ausdruck dient v.a. der \E{Dokumentation} und der Information für das
-%   nachbehandelnde Personal (Notarzt, Spital, Facharzt, \ldots).
-% \end{itemize}
-% }
-
-
 
 
 
@@ -1354,26 +1466,6 @@ gelten grundsätzlich andere Nomalwerte.
   \item Kinder haben andere Normalwerte
 \end{itemize}
 }{}{}{}
-% einvernähmlich gestrichen KOCH 2008-05-18
-% 
-% \paragraph{Ursachen}
-% 
-% \begin{itemize}
-%     \item Cardial
-%     \item Volumenmangel, Exsikkose
-%     \item Regulationsstörung (vasovagal)
-%     \item Sportler, junge Frauen
-%     \item Schock
-% \end{itemize}
-% 
-% \paragraph{\TxSymptome}
-% 
-% \begin{itemize}
-%     \item Müdigkeit bis Kollaps
-%     \item RR-Abfall mit Bewußtseinseintrübung
-%     \item \enquote{schwarzwerden vor Augen}, Ohnmacht
-%     \item Sturz = \enquote{Therapie}
-% \end{itemize}
 
 
 \subsubsection{Kollaps, Synkope}
@@ -1613,11 +1705,13 @@ typische Leitsymptome für einen \E{hypertensiven
 &
 \noindent\TabHeading{Hypertensiver Notfall}
 \\\addlinespace\midrule\addlinespace
-\Abk{RR}~{\textgreater}~\RRmmHg{230}{130} (Richtwert)
+\Abk{RR}~{\textgreater}~\RRmmHg{230}{130} (Richtwert) 
+bzw. deutliche individuelle Erhöhung
 
 \EE{Patient fühlt sich gut}, evtl. Nasenbluten
  &
 \Abk{RR}~{\textgreater}~\RRmmHg{230}{130} (Richtwert)
+bzw. deutliche individuelle Erhöhung
 
 \EE{+ Symptome einer Organstörung}
 \\\addlinespace
@@ -1645,7 +1739,7 @@ Maßnahmen: Eine notfallmäßige Blutdrucksenkung ist (eher) nicht erforderlich.
 Vitale Bedrohung: \Ca{Gefahr des Herzversagens: Das Herz muss
 plötzlich gegen großen Druck pumpen}
 
-Eine frühzeitige Blutdrucksenkung (\caps{na}, \caps{nfs})
+Eine frühzeitige Blutdrucksenkung 
 ist notwendig. 
 
 Evtl. Anwendung der Notkompetenz gem. SanG. 
@@ -2144,3 +2238,5 @@ RueckerBildatlas1}
 \ChapterBibliography 
 
 %\bibliographystyle{unsrtdin2}{\scriptsize \bibliography{Literatur-AAS}}
+
+\ChapterEnd

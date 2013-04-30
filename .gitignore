@@ -18,6 +18,7 @@
 *.idx
 *.ilg
 *.ind
+*.loc
 *.log
 *.lof
 *.lofazit

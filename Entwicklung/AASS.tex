@@ -28,7 +28,7 @@ toc=flat,
 									% [final] .. Es werden Bilder normal angezeigt
 									% [demo]  .. keine Bilder
 \usepackage{blindtext}
-									
+
 % Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{./inputs/input-optkeys}		% optional --- Optionaler Text.
 % \opt{ORG-ASBOE}{\usepackage{asboe}} % Style-Def. vor Präamble
@@ -43,8 +43,11 @@ toc=flat,
 \renewcommand{\Abk}[1]{#1} 			% reset Abk
 
 \usepackage{xr}						% Maßnahmenkatalog: Referenzen zu ext. Dokument
-	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var1-Archiv}}
-	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var2-Archiv}}
+% 	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var1-Archiv}}
+% 	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var2-Archiv}}
+    \opt{VAR-VAR0}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
 % 1: Art der Massnahmen
 % 2: Titel
 % 3: Referenz
@@ -70,6 +73,8 @@ sortlocale=de,
 ]{biblatex}
 
 % 	\bibliography{AASS.bib}
+    \addbibresource{BiblioDB-AASS.bib}
+    \addbibresource{BiblioDB-ASBOe.bib}
 	\addbibresource{BiblioDB-Med-Books.bib}
 	\addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
 	\addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
@@ -96,6 +101,111 @@ sortlocale=de,
 % \opt{ORG-ASBOE}{\usepackage{asboe}}
 % \renewcommand{\FontTableBase}{\small\sffamily}
 \setkomafont{descriptionlabel}{\bfseries}
+\usepackage[markup=underlined,ulem=normalem]{changes}	
+
+\definecolor{AsboeRed}{cmyk}{0,1,0.8,0}
+
+
+% \definecolor{DefaultRed}{named}{AsboeRed}
+% \definecolor{DefaultContrast}{named}{DefaultRed}
+% % Redefine ASBÖ-specific colors
+% \definecolor{LabelItem}{named}{AltBlueMiddle}
+% \definecolor{LabelItemBoxStandard}{named}{AltBlueDark}
+% % \definecolor{LabelItemBoxProcedures}{named}{BoxProcedures} % Definition nach BoxProcedures
+% \definecolor{Customized}{named}{AltBlueDark}
+% \definecolor{CustomizedBackground}{named}{AltBlueVeryLight}
+% % \definecolor{BoxStandard}{named}{AsboeGreenDeco}
+% % \definecolor{BoxStandardBackground}{named}{AsboeGreenDecoLight}
+% \definecolor{BoxStandard}{named}{AltBlueDark}
+% % \definecolor{BoxStandardBackground}{named}{CyanLight}
+% \definecolor{BoxStandardBackground}{named}{AltBlueVeryLight}
+
+% % \definecolor{BoxStandard}{named}{AsboeRed}
+% % \definecolor{BoxStandardBackground}{cmyk}{0,0.1,0.08,0}
+% \definecolor{BoxProcedures}{named}{Indigo}
+% \definecolor{LabelItemBoxProcedures}{named}{BoxProcedures} % Definition nachgeholt
+% \definecolor{BoxProceduresBackground}{named}{Lavender}
+% % \definecolor{NotesGrey}{named}{MuwGrey}
+
+%  http://tex.stackexchange.com/questions/89208/fancy-chapter-title-page 
+\usepackage{textpos}
+\def\ChapterCode{---}
+\DeclareFixedFont{\chapternumberfont}{T1}{ppl}{}{}{1.5in}
+\titleformat{\chapter}[display]{\Huge\bfseries\sffamily\color{white}}{
+\thispagestyle{empty}
+\begin{tikzpicture}[overlay, remember picture]
+        \path let \p1 = (current page.west), \p2 = (current page.east) in
+              node[minimum width=\x2-\x1, minimum height=5cm, rectangle, fill=AltBlueDark, anchor=north west, align=left, text width=\x2-\x1] at ($(current page.north west)$) {
+                \begin{textblock*}{5in}(\dimexpr\x2-4.5in,\dimexpr0.25\headheight-1in)
+                    \tikz \node [white,text width=2in, align=right, font=\sffamily] {{\normalsize [\ChapterCode]}\\[12pt] \raisebox{20pt}{{\large ~}} \raisebox{-12pt}{\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\scalefont{3}\thechapter}};
+                \end{textblock*}
+                \begin{textblock*}{5in}(\dimexpr\x2-9.4in,\dimexpr0.25\headheight-1.7in)
+                    \tikz \node [white,text width=2in, align=left, font=\sffamily] {{\Huge \AASSNegative ~ \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\normalsize}};
+                \end{textblock*}
+              };
+        \path let \p1 = (current page.west), \p2 = (current page.east) in
+              node[minimum width=\x2-\x1, minimum height=0.8in, rectangle, fill=AltBlueLight, anchor=south west, align=left, text width=\x2-\x1] at ($(current page.south west)$) {};
+\end{tikzpicture}
+}{-1.0in}{}[\vspace*{1in}]
+
+\newcommand{\SymbolFindingNormal}{$\perp$}
+\newcommand{\SymbolFindingVariant}{$\sim$}
+% \newcommand{\SymbolPkuAuffaellig}{\lbend}
+\newcommand{\SymbolFindingPatho}{\textbf{$\times$}}
+\newenvironment{Findings}[1][]
+{%
+% \begin{tcolorbox}[
+% title={\flushleft{Befunde: #1}},
+% fonttitle=\sffamily\bfseries\small,fontupper=\sffamily\small,
+% left=2pt,right=2pt,
+% colframe=Beige,
+% colback=LightYellow,
+% % skin=beamer,
+% ]%
+\begin{labeling}{xx}}
+{\end{labeling}
+% \end{tcolorbox}
+}
+
+\newcommand{\FindingSpeech}[1]{\Speech{\color{MuwBlueDark}{#1}}}
+
+% % % http://compgroups.net/comp.text.tex/making-a-cmyk-pdf/153995
+% 
+% % sRGB
+% \immediate\pdfobj stream attr{/N 4}  file{AdobeRGB1998.icc}
+% \pdfcatalog{%
+%   /OutputIntents [ <<
+%   /Type /OutputIntent
+%   /S/GTS_PDFA1
+%   /DestOutputProfile \the\pdflastobj\space 0 R
+%   /OutputConditionIdentifier (sRGB AdobeRGB1998)
+%   /Info(sRGB AdobeRGB1998)
+%  >> ]
+% }
+% 
+% IPAD
+\immediate\pdfobj stream attr{/N 4}  file{iPad.icc}
+\pdfcatalog{%
+  /OutputIntents [ <<
+  /Type /OutputIntent
+  /S/GTS_PDFA1
+  /DestOutputProfile \the\pdflastobj\space 0 R
+  /OutputConditionIdentifier (sRGB iPad)
+  /Info(sRGB iPad)
+ >> ]
+}
+% 
+% % CMYK FOGRA 29 COATED
+% \immediate\pdfobj stream attr{/N 4}  file{UncoatedFOGRA29.icc}
+% \pdfcatalog{%
+%   /OutputIntents [ <<
+%   /Type /OutputIntent
+%   /S/GTS_PDFA1
+%   /DestOutputProfile \the\pdflastobj\space 0 R
+%   /OutputConditionIdentifier (CMYK UncoatedFOGRA29)
+%   /Info(CMYK UncoatedFOGRA29)
+%  >> ]
+% }
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -109,7 +219,7 @@ sortlocale=de,
 \MultiColListStart{toc}{2}
 \MultiColListStart{lofazit}{2}
 \MultiColListStart{lomassnahmen}{2}
-
+% \biolinum
 \renewcommand{\itemhook}{%
 %   \setlength{\topsep}{0pt}%
 % %   \setlength{\itemsep}{0.5\baselineskip}
@@ -162,18 +272,17 @@ bindingoffset=1.5cm}
 \opt{STATUS-DRAFT-SHOWKEYS}{\renewcommand{\label}[1]{{\color{black}\fbox{{\ttfamily #1 }}}}}
 
 
-\loadgeometry{FullPage}
-
 \begin{titlepage}
+\loadgeometry{FullPage}\thispagestyle{empty}
+% \begin{titlepage}
 \input{./inputs/input-cover-front}
 
 \clearpage
-\thispagestyle{empty}
-\rmfamily
+
 
 %%% uppertitleback
 
-	Covergestaltung: \emph{Sebastian Gabriel.}
+	Covergestaltung: \emph{Sebastian Gabriel}
 
     {Titelbild: \emph{Christoph Pallinger} }
     
@@ -191,7 +300,7 @@ bindingoffset=1.5cm}
         
         und
         
-        \emph{\bfseries Grissu.org} 
+        \emph{\bfseries topfen.net} 
         
         unterstützt.\vspace{2em}
     
@@ -203,14 +312,14 @@ bindingoffset=1.5cm}
     
         {\sffamily\fontfamily{phv}www.cyberservice.net}\par\vspace{2em}
     
-        {\Huge Grissu.org}\par\vspace{1em}
-        \textit{serving the community} \par \textit{since 1999} 
+        {\Huge topfen.net}\par\vspace{1em}
+        \textit{serving the community} \par \textit{since 2001}
     \end{center}
     \end{minipage}
     \vspace{2em}
     \begin{center}
-        {\bfseries\itshape Nur für den internen Gebrauch gem §\,42 Abs.\,6
-        UrheberG bestimmt. Weitergabe nicht gestattet.}
+%         {\bfseries\itshape Nur für den internen Gebrauch gem §\,42 Abs.\,6
+%         UrheberG bestimmt. Weitergabe nicht gestattet.}
     \end{center}
     
     \end{WidePar}
@@ -247,8 +356,8 @@ saluti et solatio aegrorum
 
 \bigskip
 
-\dictum[Andrew S. Tanenbaum (übersetzt)]{Das Schöne an Standards
-ist, es gibt so viele, aus denen man auswählen kann.}
+\dictum[Andrew S. Tanenbaum, übersetzt]{Das Schöne an
+Standards ist, es gibt so viele, aus denen man auswählen kann.}
 
 \vfill
 
@@ -316,7 +425,7 @@ Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
 ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
 und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
 leisten könnte, still zu stehen.
-Mit dieser Beta-Version möchten wir nun erstmalig an die
+Mit dieser Erstausgabe möchten wir nun erstmalig an die
 breitere Öffentlichkeit herantreten, und hoffen 
 auf wertvolle Anregungen und konstruktive Kritik durch die
 Leser- und Anwenderschaft.
@@ -358,7 +467,7 @@ Wohl des Kranken ist oberstes Gebot.}}.
 
 \begin{flushright}
 
-\emph{Wien, im Herbst 2012}
+\emph{Wien, im Jänner 2013}
 
 \bigskip
 
@@ -411,8 +520,8 @@ mMxX}
 
 \section{Benutzungshinweise}
 
-\Layout{2}
-{Maßnahmenkatalog}
+% \Layout{2}
+\paragraph{Maßnahmenkatalog}
 {Ergänzend zu diesem Lehrbuch existiert ein eigener
 Maßnahmenkatalog, in welchem die jeweiligen konkreten
 Maßnahmen zu finden sind. Referenzen mit dem Symbol
@@ -426,8 +535,8 @@ Maßnahmenkatalog in der \EE{Version \VarMkatalogVersion}.
 {}
 {}
 
-\Layout{2}
-{Externe Teile}
+% \Layout{2}
+\paragraph{Externe Teile}
 {Aus Kostengründen sind manchmal nicht
 alle Teile Bestandteil eines Drucks. Dies betrifft
 insbesonders Teile des Appendix wie z.\,B. das
@@ -442,7 +551,8 @@ Download-Bereich verfügbar
 {}
 {}
 
-\Layout{2}{Im Text}{%
+% \Layout{2}
+\paragraph{Im Text}{%
 \E{Betonte} Textteile sind kursiv, \EE{Besonders stark
 betonte} sind fett gedruckt. \T[noindex]{Fachbegriffe}, welche an
 dieser Stelle erklärt werden, sind ebenso fett gedruckt.
@@ -467,20 +577,25 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 }{}{}{}{}
 
-\Layout{2}{Symbole}{%
+\Layout{2}
+{Symbole}{%
 \begin{multicols}{2}
 \begin{labeling}{mmm}
-  \item[\SignFigure] \ Abbildungen
-  \item[\SignFazit] \ Leitsätze
-  \item[\SignMassnahme] \ Maßnahmen, Referenzen beziehen
+  
+  \item[\Ca{!}] Cave
+  \item[\SymbolDefinition] Definition
+  \item[\SignFigure] Abbildungen
+  \item[\SignFazit] Leitsätze
+  \item[\SignMassnahme] Maßnahmen, Referenzen beziehen
   sich auf den Maßnahmenkatalog
-  \item[\SignTable] \ Tafeln
+  \item[\SignTable] Tafeln
+  \item[\dsliterary] Literaturverweise
 \end{labeling}
 \end{multicols}
 }{}{}{}{}
 \ref{MK-apm} S.\,\pageref{MK-apm}
 
-\FullPrettyRef{MK-m:standardmassnahmen-immer}
+% \FullPrettyRef{MK-m:standardmassnahmen-immer}
 
 
 \Layout{2}{Index}{%
@@ -489,6 +604,7 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
   Hauptwort \Sign{→} Hauptwort, Eigenschaftswort; \enquote{Begriffe,
   zusammengesetzte}
   \item[Umlaute] Ä, Ö, Ü \Sign{→} Ae, Oe, Ue
+  \item[Lateinische Begriffe] Lateinische Hauptwörter werden im Index groß geschrieben.
 \end{description}
 }{}{}{}{}
 
@@ -521,6 +637,58 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 \noindent{\ttfamily{\the\WideParWidth}
 {\the\ThirdGrossWidth}
 {\the\ThirdNetWidth}}
+
+\section{Logo-Test}
+
+
+\noindent{\Huge \usefont{T1}{lmss}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
+
+\bigskip
+
+\noindent{\Huge \usefont{T1}{lmss}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
+
+\vspace{3\baselineskip}
+
+\noindent{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
+
+\bigskip
+
+\noindent{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
+
+\bigskip
+
+\noindent{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{White} AAS\color{AltBlueLight}S}
+
+\vspace{3\baselineskip}
+
+\noindent{\Huge \usefont{T1}{PTSans-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
+
+\bigskip
+
+\noindent{\Huge \usefont{T1}{PTSans-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
+
+\vspace{3\baselineskip}
+
+\noindent{\Huge \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
+
+\bigskip
+
+\noindent{\Huge \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
+
+\vspace{3\baselineskip}
+
+\noindent{\Huge \usefont{T1}{DIN-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
+
+\bigskip
+
+\noindent{\Huge \usefont{T1}{DIN-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
+
+\vspace{3\baselineskip}
+
+Test {\usefont{T1}{fxb}{m}{n}\selectfont Test} {\biolinum
+Test}
+
+
 
 
 \begin{WidePar}\flushleft
@@ -619,7 +787,7 @@ Download-Bereich verfügbar
 \opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-NWG}} % STATUS-EXPERIMENTAL
 
 % {\WideParBegin}
-\part{Grundlagen}
+\part{\enquote{Basic}\\ Grundlagen}
 % {\WideParEnd}
 \setcounter{chapter}{10}
 % \setcounter{page}{1}
@@ -641,7 +809,8 @@ Download-Bereich verfügbar
 \include{./chapters/chapter-PAM}
 
 % {\WideParBegin}
-\part{Medizinisch-Wissenschaftlicher Basisteil}
+\part{\enquote{Basic}\\ Medizinisch-Wissenschaftlicher
+Basisteil}
 % {\WideParEnd}
 \setcounter{chapter}{30}
 % \setcounter{page}{1}
@@ -665,12 +834,13 @@ Download-Bereich verfügbar
 \include{./chapters/chapter-PSY}
 \include{./chapters/chapter-THE}
 \include{./chapters/chapter-TOX}
+\include{./chapters/chapter-WUN}
 \include{./chapters/chapter-TRA}
 \opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-SYM}}
 
 
 % {\WideParBegin}
-\part{\enquote{Intermediate} (Erweitertes Wissen)}
+\part{\enquote{Intermediate}\\ Erweitertes Wissen}
 % {\WideParEnd}
 \setcounter{chapter}{60}
 % \setcounter{page}{1}
@@ -694,6 +864,10 @@ Download-Bereich verfügbar
 
 % \include{./chapters/inc-RES-ende}
 
+\part{Lehrmaterialien}
+
+\include{./chapters/part-Lehrmaterialien}
+
 \appendix
 % {\WideParBegin}
 \part{Appendix}
@@ -701,6 +875,16 @@ Download-Bereich verfügbar
 %\setcounter{page}{0}
 
 % \pagenumbering[Appendix]{bychapter}
+
+
+\chapter{Glossar}
+
+\begin{description}
+  \item[bergen]
+  \item[retten]
+  \item[Sofortbehandlung]
+  \item[Sofortmaßnahmen, lebensrettende]
+\end{description}
 
 \include{./chapters/chapter-INT}
 
@@ -710,15 +894,7 @@ Download-Bereich verfügbar
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Literaturverzeichnis
-% \opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\small\setlength{\parskip}{0pt}\cleardoublepage\bibliography{Literatur-AASS}\restoregeometry}\onecolumn}
-% \opt{STATUS-WITH-BIBLIO}{{\setlength{\parskip}{0pt}\bibliography{Literatur-AASS}}}
-
-% {{%
-% \loadgeometry{FullPage}%
-% \twocolumn\cleardoublepage\printbibliography\restoregeometry}\onecolumn}
-
 \nocite{ArzPocketAustria2,AerztlicheWundversorgung2,EkgIsabell5,InnereMedQuick3}
-
 \addtocategory{BestOf}{
 emergency9,
 DahmerGespraechsfuehrung5,
@@ -737,9 +913,12 @@ RedelsteinerHRNS2,
 ITLSde6,
 Helfen2008,
 StriebelAnaesthesie2}
-\printbibliography[category=BestOf,title={Literatur,
-Best of},prenote=bestof]
-% \bibbycategory
+
+\printbibliography[
+category=BestOf,
+title={Literatur,Best of},
+prenote=bestof]
+
 \printbibliography
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

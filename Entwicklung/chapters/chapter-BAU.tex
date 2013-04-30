@@ -1,11 +1,12 @@
-\begin{savequote}
-\includegraphics[width=5cm]{./images/motal-aass/00800/neuro2.jpg}
-
-Bild: Motal
-\end{savequote}
+% \begin{savequote}
+% \includegraphics[width=5cm]{./images/motal-aass/00800/neuro2.jpg}
+% 
+% Bild: Motal
+% \end{savequote}
+\def\ChapterCode{BAU}
 \chapter
-[\CO{[BAU]} Basisuntersuchungen]
-{\CC{[BAU]}\\Basisuntersuchungen}
+[Basisuntersuchungen]
+{Basisuntersuchungen}
 \label{chp:BAU}
 
 \ChapterIntro
@@ -135,6 +136,19 @@ Schlägen pro Minute. Neben der Frequenz wird auch die
   \item \Range{2}{3} Finger
   \item Mit 4 multiplizieren 
 \end{itemize}
+}{}{}{}
+
+\Layout{0}{Befunde}{
+\begin{Findings}
+\item[\SymbolFindingNormal] \FindingSpeech{Der Radialispuls ist gut tastbar, rhythmisch und normfrequent} (\FindingSpeech{und hat eine Frequenz von 80\PerMin*}) [\Range{60}{100}\PerMin*]
+\item[\SymbolFindingVariant] \FindingSpeech{Der Carotispuls \ldots}
+\end{Findings}
+
+}{%
+\begin{Findings}
+\item[\SymbolFindingNormal] \FindingSpeech{Radialispuls gut tastbar, rhythmisch, normfrequent} [\Range{60}{100}\PerMin*]
+\item[\SymbolFindingVariant] \FindingSpeech{Der Carotispuls \ldots}
+\end{Findings}
 }{}{}{}
 
 
@@ -486,7 +500,18 @@ angelegt werden.
 }{./images/sign_cardive.jpg}{}{Gabriel}
 
 
+\Layout{0}{Befunde}{
+\begin{Findings}
+\item[\SymbolFindingNormal] \FindingSpeech{Blutdruck (RR) \RRmmHg{120}{80}}  [\Range{\RR{100}{60}}{\RR{140}{90}}\MmHg*]
+\item[\SymbolFindingVariant] \FindingSpeech{Blutdruck (RR) palpatorisch 120\MmHg*}  [\Range{100}{140}\MmHg*]
+\end{Findings}
 
+}{%
+\begin{Findings}
+\item[\SymbolFindingNormal] \FindingSpeech{RR \RRmmHg{120}{80}}  [\Range{\RR{100}{60}}{\RR{140}{90}}\MmHg*]
+\item[\SymbolFindingVariant] \FindingSpeech{RR palp. 120\MmHg*}  [\Range{100}{140}\MmHg*]
+\end{Findings}
+}{}{}{}
 
 
 
@@ -1173,6 +1198,15 @@ In \cite{Schnelle200607} wurde untersucht,
 wie sich die Anbringungsstelle der Elektroden auf das
 \Abk{EKG} auswirken kann.}
 
+\bigskip
+
+\begin{figure}[H]
+\includegraphics[width=\linewidth]{./images/wikipedia-pd/12_lead_generated_sinus_rhythm}
+\caption{Unauffälliger EKG-Befund \SourcePicture{WM/PD}}
+\end{figure}
+
+
+
 \begin{Literary}
   \fullcite{ElektroKomikoGraphie7}
 
@@ -1310,7 +1344,9 @@ durchgeführt.
   evtl. den ganzen Rumpf mit. Die Bedeutung der
   Nackensteifigkeit wird unter \prettyref{topic:meningitis}
   besprochen. \EE{Bei jedem Patienten mit Fieber ist auf das
-  Vorliegen einer Nackensteifigkeit zu untersuchen.} \item
+  Vorliegen einer Nackensteifigkeit zu untersuchen}, jedoch
+  \Ca{nicht bei Verdacht auf Wirbelsäulenverletzung!}
+  \item
   \EE{Blutzuckermessung}: Eine Blutzuckermessung gehört zu
   einem vollständigen Neurocheck.
 \end{enumerate}
@@ -1367,7 +1403,9 @@ Einschätzungsblockes
 (\CO{[PAM]}, \FullPrettyRef{topic:einschaetzungsblock}) im
 Rahmen der \I[Schnelle
 Trauma-Untersuchung]{Schnellen-Trauma-Untersuchung}
-(\I{STU}) durchgeführt.
+(\I{STU}) durchgeführt. 
+Bei vital bedrohten Patienten wird
+\E{kein vollständiger} Traumacheck durchgeführt. 
 
 \Layout{0}{\E{Vollständiger} Traumacheck}
 {%
@@ -1513,5 +1551,6 @@ Fall erforderlich! }{
 
 
 
+\ChapterEnd
 
 

@@ -55,8 +55,13 @@ toc=flat,
 % 5: Punkte
 \newcommand{\MassnahmenMK}[5]{%
 \Layout{Massnahmen}
-{{\SignMassnahme} #1: #2}
-{{\color{Indigo}#4\par Siehe \FullPrettyRef{MK-#3}}}
+{{\SignMassnahme} {\color{ProceduresBoxBackground}#1:} {\color{ProceduresBase}#2}}
+{~
+\color{ProceduresFont}\begin{description}
+  \item[Grundsätzlich:]#4
+  \item[Spezielle Maßnahmen (Maßnahmenkatalog):] \FullPrettyRef{MK-#3}
+\end{description}
+}
 {\FullPrettyRef{MK-#3}}
 {}
 {}

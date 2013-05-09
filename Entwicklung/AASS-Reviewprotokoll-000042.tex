@@ -1,0 +1,854 @@
+\documentclass[
+ngerman,
+paper=a4,
+asymmetric,
+fontsize=10pt,
+headings=small,
+draft=false,
+% parskip=half,
+numbers=noenddot,
+% listof=totoc,         % verschiebt Minitoc/Hyperref
+% bibliography=totoc,   % verschiebt Minitoc/Hyperref
+bibtotocnumbered,
+% index=totoc,
+% noonelinecaption,
+footnotes=multiple,
+% toc=flat,
+]{scrreprt}
+\setlength{\parindent}{15pt}
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+% \usepackage[ngerman]{babel}
+\usepackage{etex}
+
+\usepackage[final]{graphicx} % Bilder-Support
+
+\input{./inputs/input-optkeys}
+\input{./inputs/input-preamble}
+\input{./inputs/input-hyphenation}
+\input{./inputs/input-headfoot-Reviewprotokoll.tex}
+
+\makeindex
+
+\usepackage[backend=bibtex8,
+babel=other,
+defernumbers=true,
+natbib,
+sorting=none,
+sortlocale=de,
+]{biblatex}
+
+% 	\bibliography{AASS.bib}
+	\addbibresource{BiblioDB-Med-Books.bib}
+	\addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
+	\addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
+	\addbibresource{BiblioDB-Med-Links.bib}
+	\addbibresource{BiblioDB-Med-Misc.bib}
+	\renewcommand{\labelnamepunct}{\addcolon\space}
+	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
+	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+	% 
+	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+	\DeclareFieldFormat{journaltitle}{\textsc{#1}}
+	\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
+
+
+\newcommand{\Branch}[1]{\emph{#1}}
+
+
+\usepackage[markup=underlined,ulem=normalem]{changes}
+% \def\added{}
+% \def\deleted{}
+% \def\replaced{}
+
+\newcommand{\Neu}{\fontfamily{lmtt}\fontseries{lc}\selectfont\color{DarkGreen}}
+\newcommand{\ChangeHeading}[1]{\SlideHeading{#1}\addcontentsline{toc}{subsubsection}{#1}}
+
+% \begin{itemize}
+%   \item \TabHeading{Input}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Verantwortlicher}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Mitwirkende:}
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Output}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+% \end{itemize}
+
+\title{Vorläufiges Reviewprotokoll}
+\subtitle{für die Arbeits- und Ausbildungsstandards für den
+Sanitätsdienst}
+\subject{42. Review und Iteration,\\ 2013-05-06}
+\author{\AASS}
+
+
+\newcommand{\VarDocTitle}{Vorläufiges Reviewprotokoll}
+\renewcommand{\VarDocTitle}{Reviewprotokoll}
+\newcommand{\VarIterationNr}{42}
+\newcommand{\VarReviewDate}{2013-05-06}
+\newcommand{\DocVersionInfo}{IN ARBEIT}
+% \renewcommand{\DocVersionInfo}{FREIGEGEBEN}
+
+\usepackage{datetime}
+
+
+%\usepackage{lstdoc}
+\usepackage{listings}
+%\usepackage{textcomp}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% BEGIN DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\newenvironment{Beispiel}
+{\begin{tcolorbox}[title=Beispiel]
+
+}{\end{tcolorbox}}
+
+\setkomafont{labelinglabel}{\normalfont\bfseries}
+\begin{document}
+\MultiColListStart{toc}{2}
+ 
+\lstset{% general command to set parameter(s)
+language=[LaTeX]TeX,
+%language=C,
+extendedchars=true,
+inputencoding=utf8,
+breaklines=true;
+basicstyle=\ttfamily\small, % print whole listing small
+keywordstyle=\color{ubuntured}\bfseries\underbar,
+% underlined bold black keywords
+identifierstyle=\color{darkBlue}\bfseries, % nothing happens
+commentstyle=\color{Grey}, % white comments
+stringstyle=\ttfamily, % typewriter type for strings
+texcsstyle=\color{ubuntured},
+moretexcs={textcolor,itemhook},
+emph={
+AASS,
+ARGE,
+A,
+aCh,
+AuthorNotes,
+Ca,
+Cave,
+Definition,
+E,
+EE,
+ERROR,
+Fazit,
+H,
+Layout,
+Married,
+MarriedNG,
+MarriedLI,
+Massnahmen,
+marginpar,
+Parallel,
+T,
+TODO,
+Z,
+ZFootnote},
+emphstyle=\color{Terminus}\bfseries,
+%directivestyle=color{Red},
+showstringspaces=false,
+%morecomment=[s][\color{SandyBrown}]{\{}{\}},
+%moredelim=[s][\color{DarkViolet}]{\{}{\}},
+%morecomment=[l][\color{Grey}]{\%}
+}
+
+\newgeometry{verbose,
+a4paper,
+asymmetric,
+reversemarginpar,
+rmargin=13mm,
+lmargin=13mm,
+top    = 20mm,
+bottom = 15mm,
+marginparwidth = 0mm,
+footskip = 5mm,
+bindingoffset=1.5cm}
+\savegeometry{FullPage}
+\newgeometry{verbose,
+a4paper,
+asymmetric,
+reversemarginpar,
+rmargin=13mm,
+lmargin=13mm,
+top    = 8mm,
+bottom = 8mm,
+marginparwidth = 0mm,
+footskip = 5mm,
+bindingoffset=1.5cm}
+\savegeometry{WholePage}
+\restoregeometry
+
+
+
+\begin{titlepage}
+\loadgeometry{FullPage}\thispagestyle{empty}
+\input{./inputs/input-cover-front-Reviewprotokoll.tex}
+\end{titlepage}
+\dominitoc
+\addchap{Einleitung}
+
+\begin{labeling}[:]{xxxxxxxxxxxxxxxxx}
+  \item[Anwesende] ~
+  \begin{itemize}
+    \item Sebastian \caps{Gabriel}
+    \item Josef \caps{Emhofer}
+    \item Roman \caps{Koch}
+    \item Michael \caps{Motal}
+  \end{itemize}
+  \item[Reviewkoordinator] Josef \caps{Emhofer}, Sebastian \caps{Gabriel}
+  \item[Ort] ASB 921
+  \item[Schwerpunkte] Releaseplanung 1.0
+  \item[Repository] Git Version 0
+  \item[Von Commit \#] 2e557c61098fc6f00e705ce43fb7479800d5bf45
+  \item[Bis Commit \#] 040795c290b5546460aa5987800a52de5e559ed2
+  \item[Anmerkungen] Es wurden nach dem Review noch Änderungen durchgeführt, diese werden extra ausgwiesen.   
+  
+  Es wurde vom Koll. \caps{Hermanek} ein annotiertes PDF
+  übermittelt, die Änderungen wurden durchgesehen. Wo
+  möglich wurden Änderungen noch für das nächste Release
+  eingearbeitet. 
+
+\end{labeling}
+\begin{WidePar}\small
+\setcounter{tocdepth}{3}
+\tableofcontents
+\end{WidePar}
+
+
+
+
+
+\chapter{\AASS}
+
+\section{Änderungen vor dem Review}
+
+\ItemHeading[\addcontentsline{toc}{subsection}{\CO{[ANA]}}]{\texttt{[AAS]}}
+\begin{enumerate}
+  \item \ChangeHeading{Neues Kapitel: Lehrmaterialien}
+  
+  \begin{verbatim}
+\part{Lehrmaterialien}
+
+\include{./chapters/part-Lehrmaterialien}
+  \end{verbatim}
+  
+  \A{Experimentell?}
+  \item \ChangeHeading{Neues Kapitel: Glossar}
+  
+  \A{Derzeit im Aufbau befindlich}
+  
+  \begin{verbatim}
+\chapter{Glossar}
+
+\begin{description}
+  \item[bergen]
+  \item[retten]
+  \item[Sofortbehandlung]
+  \item[Sofortmaßnahmen, lebensrettende]
+\end{description}
+  \end{verbatim}
+  \item \ChangeHeading{Neuer Stil: Kapitelüberschriften}, siehe Präsentation
+  \item \ChangeHeading{Umstellung für neue Kapitelüberschriften}
+  \begin{enumerate}
+  \item savequote-Umgebung fällt weg ("`Schlaue Sprüche"')
+  \item Wird bei Bedarf durch \Cmd{dictum} ersetzt:
+  
+  \begin{verbatim}
+\dictum[Dickie, in: Samuel Shem: \emph{House of God.}
+\cite{HouseOfGodDe}]{Alles in Ordnung, auch wenn Sie in Panik geraten sind und
+sich beschissen fühlen. Ich kenne das. Es ist furchtbar, und es wird nicht das
+letzte Mal sein. Aber vergessen Sie nicht, was Sie gesehen haben. Regel Nr.
+3: Bei Herzstillstand zuerst den \EE{eigenen} Puls fühlen.
+}
+  \end{verbatim} ergibt:
+  
+  \dictum[Dickie, in: Samuel Shem: \emph{House of God.}
+\cite{HouseOfGodDe}]{Alles in Ordnung, auch wenn Sie in Panik geraten sind und
+sich beschissen fühlen.
+Ich kenne das. Es ist furchtbar, und es wird nicht das
+letzte Mal sein.
+Aber vergessen Sie nicht, was Sie gesehen haben. Regel Nr.
+3: Bei Herzstillstand zuerst den \EE{eigenen} Puls fühlen.
+}
+  
+  
+  \item Befehelt \Cmd{ChapterCode} um Kapitelcodes zu setzen, z.\,B.:
+  \begin{verbatim}
+  \def\ChapterCode{ABD}
+  \end{verbatim}
+  \end{enumerate}
+
+\ListPause{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ListResume
+[\addcontentsline{toc}{subsection}{\CO{[ABD]}}]
+{enumerate}{\texttt{[ABD]}}
+
+  \item \ChangeHeading{Mesenterialinfarkt}
+  
+  Beim Mesenterialinfarkt kommt es zum Verschluss einer den
+Darm versorgenden Arterie
+\Z{(\I[Mesenterialarterie|Z]{Mesenterialarterie}\ZFootnote{Das
+\I[Mesenterium!Mesenterialinfarkt]{Mesenterium}
+(\I{Darmgekröse}) ist die Aufhängung von Teilen des
+Dünndarms (\FullPrettyRef{topic:mesenterium}). Darin
+verlaufen venöse und arterielle Gefäße zum und vom Darm.})}
+mit einem Absterben des entsprechenden Darmabschnittes. Er
+ist somit ein \I[Ischämie!Mesenterialinfarkt]{ischämischer}
+Notfall.  \added{Mesenterialinfarkte treten gehäuft bei Patienten mit
+erhöhtem thromboembolischen Risikofaktoren auf, z.\,B. bei
+Patienten mit
+\I[Vorhofflimmern!Mesenterialinfarkt]{Vorhofflimmern}
+(\FullPrettyRef{topic:vorhofflimmern}).
+  }
+  
+  
+  %%%%%BAU
+  \item \ChangeHeading{Puls tasten:} Beispiele für (Normal-)befunde
+  
+  \Layout{0}{Befunde}{
+\begin{Findings}
+\item[\SymbolFindingNormal] \FindingSpeech{Der Radialispuls ist gut tastbar, rhythmisch und normfrequent} (\FindingSpeech{und hat eine Frequenz von 80\PerMin*}) [\Range{60}{100}\PerMin*]
+\item[\SymbolFindingVariant] \FindingSpeech{Der Carotispuls \ldots}
+\end{Findings}
+
+}{%
+\begin{Findings}
+\item[\SymbolFindingNormal] \FindingSpeech{Radialispuls gut tastbar, rhythmisch, normfrequent} [\Range{60}{100}\PerMin*]
+\item[\SymbolFindingVariant] \FindingSpeech{Der Carotispuls \ldots}
+\end{Findings}
+}{}{}{}
+  \item \ChangeHeading{RR:} Ebenfalls Beispiele für Befunde:
+  
+  \Layout{0}{Befunde}{
+\begin{Findings}
+\item[\SymbolFindingNormal] \FindingSpeech{Blutdruck (RR) \RRmmHg{120}{80}}  [\Range{\RR{100}{60}}{\RR{140}{90}}\MmHg*]
+\item[\SymbolFindingVariant] \FindingSpeech{Blutdruck (RR) palpatorisch 120\MmHg*}  [\Range{100}{140}\MmHg*]
+\end{Findings}
+
+}{%
+\begin{Findings}
+\item[\SymbolFindingNormal] \FindingSpeech{RR \RRmmHg{120}{80}}  [\Range{\RR{100}{60}}{\RR{140}{90}}\MmHg*]
+\item[\SymbolFindingVariant] \FindingSpeech{RR palp. 120\MmHg*}  [\Range{100}{140}\MmHg*]
+\end{Findings}
+}{}{}{}
+
+\item EKG: Bild eines unauff. EKG-Beufndes
+
+
+\includegraphics[width=\linewidth]{./images/wikipedia-pd/12_lead_generated_sinus_rhythm}
+\captionof{figure}{Unauffälliger EKG-Befund \SourcePicture{WM/PD}}
+
+\item \ChangeHeading{Nackensteifigkeit}
+
+   Wenn eine Nackensteifigkeit vorliegt ist die Beugung nicht
+   möglich und der Versuch schmerzhaft, der Patient bewegt
+   evtl. den ganzen Rumpf mit. Die Bedeutung der
+   Nackensteifigkeit wird unter \prettyref{topic:meningitis}
+   besprochen. \EE{Bei jedem Patienten mit Fieber ist auf das
+   Vorliegen einer Nackensteifigkeit zu untersuchen}\added{, jedoch
+   \Ca{nicht bei Verdacht auf Wirbelsäulenverletzung!}}
+   \item \ChangeHeading{Traumacheck}
+   
+   Teile des Traumachecks werden bereits während des
+Einschätzungsblockes
+(\CO{[PAM]}, \FullPrettyRef{topic:einschaetzungsblock}) im
+Rahmen der \I[Schnelle
+Trauma-Untersuchung]{Schnellen-Trauma-Untersuchung}
+(\I{STU}) durchgeführt. 
+\added{Bei vital bedrohten Patienten wird
+\E{kein vollständiger} Traumacheck durchgeführt. }
+
+ \ListPause{enumerate}
+ \ListResume[]{enumerate}{BLS}
+\item Druckpunkt bei Kindern:
+
+\deleted{\cite{Erc2010Sek06De}. Der \E{Druckpunkt} liegt auf der
+  unteren Hälfte des Brustbeins. Er kann gefunden werden,
+  indem man den Rippenbogen bis zum Schwertfortsatz entlang
+  fährt. Der Druckpunkt ist dann eine Fingerbreite darüber. }
+  
+\added{Der \EE{Druckpunkt} liegt auf der unteren Hälfte des Brustbeins. }
+    \begin{itemize}
+      \item \added{ Bei \E{Säuglingen} und \E{Neugeborenen} kann er dadurch
+      gefunden werden, indem man den Rippenbogen bis zum Schwertfortsatz
+      entlang fährt, der Druckpunkt liegt dann eine Fingerbreite darüber.}
+    \end{itemize}
+
+  %
+
+
+
+\ListPause{enumerate}
+
+\ListResume[]{enumerate}{[HKL]}
+
+\item Umstellung der Definition von abgesetzt zu "`im Paragraph"', z.B.:
+
+\Definition{Unzureichende Auswurfleistung des Herzens.}
+
+Eine Leistungseinschränkung des Herzmuskels führt zu einer
+verminderten Auswurfleistung, es sind viele Ursachen
+möglich. Manche Ursachen treten \E{akut} auf, manche sind
+
+\DefinitionInPara{Eine \T{Herzinsuffizienz} bezeichnet eine 
+unzureichende Auswurfleistung des Herzens, unabhängig von deren Ursache.}
+Es sind viele Ursachen
+möglich, manche Ursachen treten \E{akut} auf, manche sind
+\item Einteilung der HErzinsuffizienz
+
+ \Layout{0}{Einteilung}
+{
+\subparagraph{\deleted{Herzteil}} 
+\deleted{Je nachdem, welcher Herzteil betroffen ist, unterteilt man in:}
+
+\added{Die Einteilung der Herzinsuffizienz kann nach betroffenen
+Herzteil oder Fähigkeit des Körpers zur Kompensation
+erfolgen:}
+\begin{itemize}
+  \item \added{Einteilung nach betroffenen \EE{Herzteil}:}
+   \begin{itemize}
+     \item \T{Rechtsherzinsuffizienz}: Unzureichende Leistung des \E{rechten}
+     Herzens,
+     \item \T{Linksherzinsuffizienz}:
+     Unzureichende Leistung des \E{linken} Herzens, und
+     \item \T{Globalinsuffizienz}: Unzureichende Leistung beider Herzteile.
+   \end{itemize}
+
+\subparagraph{\deleted{Kompensation}}
+\deleted{Abhängig davon, wie gut der Körper mit der}
+  \item \added{Einteilung nach \EE{Kompensation}: Abhängig davon, wie
+  gut der Körper mit der}
+   Einschränkung zurecht kommt, unterteilt man:
+
+   \begin{itemize}
+     \item \T{Kompensierte Herzinsuffizienz}: Der Körper hat noch
+     genug Reserven, kann gegensteuern und kommt mit der
+     eingeschränkten Leistung aus.
+     \item \T[Dekompensierte
+     Herzinsuffizienz]{\E{De}kompensierte Herzinsuffizienz}:
+     Der Körper kommt aufgrund des Fortschreitens der
+     Erkrankung oder aufgrund eines erhöhten Bedarfs nicht mehr
+     mit der Leistung aus. Es treten deutliche
+     Symptome auf.
+   \end{itemize}
+\end{itemize}
+
+
+}{}{}{}{}{}
+\item Lungenödem
+
+\deleted{\Cave{Kein Transport von Patienten mit hörbarem Lungenödem
+ohne vorherige Behandlung, auch wenn die Transportzeit kurz
+wäre!}
+}
+
+\added{\Cave{Patienten mit Herzinsuffizienz und ABCD-Problem oder 
+Lungenödem mit brodelndem Atemgeräusch sind grundsätzlich notarztpflichtig. 
+
+Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor Ort Vorrang.
+
+Bereits der Transport in das Fahrzeug kann gefährlich sein!}
+}
+
+\item Koronoare Herzkrankheit: Überarbeitung der Defintion:
+
+\Layout{0}{\TxBeschreibung}
+{\DefinitionInPara{Die \T{Koronare Herzkrankheit} (\T{KHK}) ist eine
+Erkrankung der \EE{Herzkranzgefäße} (Koronargefäße) bei der
+es zu einer Verengung der Gefäße kommt.} Sie ist eine
+chronische Erkrankung, welche in akuten Notfallsituationen
+resultieren kann. 
+
+\DefinitionInPara{Das 
+\T[Akutes Koronarsyndrom]{Akute Koronarsyndrom}
+\index{Koronarsyndrom!akutes} (\I{ACS}\ZFootnote{\I{ACS}: \I{Acute Coonary Syndrome}})
+ist ein  Symptomenkomplex, welcher
+typischerweise bei Erkrankungen wie dem 
+\E{Herzinfarkt} und der \E{stabilen} oder \E{instabilen Angina
+pectoris} auftritt.} 
+Bei diesen Krankheitsbildern kommt es zu einer akuten \EE{Unterversorgung des
+Herzmuskels} mit Blut und Sauerstoff aufgrund der
+Durchblutungsstörung. Die Ursache sind in erster Linie
+verengte oder verstopfte Herzkranzgefäße
+(\I[Ischämie!Akutes Koronarsyndrom]{Ischämie},
+\FullPrettyRef{topic:ischaemie}). Das akute Koronarsyndrom
+ist häufig das Ergebnis einer vorbestehenden koronaren Herzkrankheit.
+}
+{%
+\begin{itemize}
+  \item Erkrankung der Herzkranzgefäße $\rightarrow$ Verengung
+  \item Akutes Koronarsyndrom (ACS)
+  \begin{itemize}
+    \item Symptomenkomplex
+    \item Z.\,B. bei:
+    \begin{itemize}
+      \item Angina pectoris
+      \item Herzinfarkt
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+}
+{}
+{}
+{}
+\item ACS: Kommentar:
+
+{
+Das
+\protect\T[Akutes Koronarsyndrom]{Akute Koronarsyndrom}
+\protect\index{Koronarsyndrom!akutes}
+ist ein Symptomenkomplex, welcher
+typischerweise bei Erkrankungen wie dem
+\E{Herzinfarkt} und der \E{stabilen} oder \E{instabilen Angina
+pectoris} auftritt. Daneben gibt es noch andere
+Erkrankungen, welche sich von den vorgenannten entweder
+durch die Pathogenese (z.\,B. \protect\I{Prinzmetal-Angina}) oder
+durch den Pathomechanismus (z.\,B. \protect\I{Tako-Tsubo-Kardiopathie})
+wesentlich unterscheiden.
+}
+\item 
+
+ \begin{PictureSeriesWide}{}{Bilderserie:
+ \EEE{Koronargefäße}}
+ \PictureSeriesRowWide{3}
+ {./images/hirtler-aass/Herzvorderflaeche.pdf}
+ {Das Herz mit seinen Koronargefäßen \SourcePicture{Hirtler}}
+ {./images/wikipedia-cc-by/Hk_coronary_bionerd.jpg}
+ {Darstellung der
+ Herzkranzgefäße während einer Herzkatheteruntersuchung.
+ Dabei wird über die Leistenarterie ein Katheter
+ eingebracht und bis knapp vor das Herz zu den Abgängen der
+-Koronargefäße vorgeschoben\replaced{. Anschließend wird ein
++Kontrastmittel appliziert um die Gefäße mittels Röntgen sichtbar zu machen.}{ und anschließend ein
+-Kontrastmittel appliziert.}
+ \SourcePicture{WmCo
+ \enquote{Bionerd}, CC-BY-3.0}}
+ {./images/wikipedia-cc-by/Heart_coronary_artery_lesion-lq.jpg}
+ {Die Koronargefäße versorgen den
+ Herzmuskel von außen nach innen. \SourcePicture{Patrick J.
+ Lynch, CC-BY-2.5}} {./images/wikipedia-cc-by/Hk_coronary_bionerd.jpg}
+ {empty}
+ {}
+ 
+ \end{PictureSeriesWide}
+\item 
+\Layout{0}
+{Akutes Koronarsyndrom}
+{\added{Da bei Behandlungsbeginn oft nicht klar ist, ob es sich um
+einen Herzinfarkt oder einen Angina-pectoris-Anfall handelt,
+wird bei Vorliegen der entsprechenden Symptome (Atemnot,
+Thoraxschmerz, Todesangst, \ldots) einfach vom \T{Akuten
+Koronarsyndrom}\ZFootnote{\Lang{Engl} Acute Coronary
+Syndrome, \Abk{ACS}.} gesprochen. }
+
+\deleted{Alte Übrschrift "`Angina pectoris"' gelöscht}
+
+Es sind \E{zwei Auslösemechanismen} möglich:
+Einerseits kann eine Minderdurchblutung des Herzmuskels
+(Myokard)
+  aufgrund einer oder mehrerer \E{Einengung(en) von
+  Herzkranzgefäßen} (Koronararterien) die Ursache sein, oder
+es kommt zu einem \E{erhöhtem Sauerstoffbedarf} des Herzens
+bei
+  Anstrengung.
+In beiden Fällen kommt es zu einem \EE{Missverhältnis
+zwischen Sauerstoffangebot und Sauerstoffbedarf} des
+Herzens (\I[Ischämie!Angina pectoris]{Ischämie},
+\FullPrettyRef{topic:ischaemie}), die Folge sind Schmerzen,
+Atemnot und ein Leistungsverlust!
+
+\deleted{Der akute Angina-Pectoris-Anfall gehört zu der Familie des
+\EE{Akuten Koronarsyndroms}. Dazu gehört auch der
+Herzinfarkt, dem der gleiche Mechanismus wie der Angina Pectoris zu
+Grunde liegt, wobei es beim Infarkt im \E{Gegensatz} zur Angina
+pectoris zu einem \E{totalen} Herzkranzgefäß\E{verschluss}
+mit Absterben von Herzmuskelgewebe kommt.}
+}{}{}{}{}
+
+\deleted{"`Symptome"' gelöscht, finden sich nun beim ACS}
+
+\Layout{27}
+{Akutes Koronarsyndrom}
+{}
+{}
+{./images/hirtler-aass/Herzschmerz.pdf}
+{\added{Bild neu} Typische Schmerzausdehnung bzw. -ausstrahlung beim ischämischen
+Herzschmerz.}
+{Hirtler.}
+
+\A{AN DIESER STELLE BITTE AKTUELLES KAPITEL [HKL] DURCHSEHEN!}
+
+\added{Bilderserie neu:}
+
+\begin{PictureSeriesWide}{}{Bilderserie:
+\EEE{Schädigung des Herzmuskel beim Herzinfarkt}}
+\PictureSeriesRowWide{3}
+{./images/wikipedia-cc-by-sa/Heart_normal_short_axis_section-00640}
+{Das Herz im Querschnitt, gesehen von unten: Links der
+rechte Ventrikel, rechts der muskelstarke linke Ventrikel.
+ \SourcePicture{Patrick Lynch, CC-BY}}
+{./images/wikipedia-cc-by-sa/Heart_inferior_wall_infarct-00640}
+{Ischämisches Herzmuskelgewebe {\ldots}
+\SourcePicture{Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5}} 
+{./images/wikipedia-cc-by-sa/Heart_inferior_wall_scar}
+{{\ldots} stirbt nach einger Zeit ab, es bildet sich eine
+(funktionslose) Narbe, die Herzleistung ist in Folge beeinträchtigt. 
+\SourcePicture{Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5}}
+{empty}
+{}
+\end{PictureSeriesWide}
+
+  Besonders häufig kommt es als Frühkomplikation zu plötzlichen, 
+  lebensgefährlichen Rhythmusstörungen wie \added{der ventrikulären 
+  Tachykardie oder} dem Kammerflimmern.
+
+\Layout{27}
+{}
+{}
+{}
+{./images/wikipedia-pd/12_lead_generated_ventricular_tachycardia}
+{\added{Lebensbedrohliche Rhythmusstörungen, wie hier die
+ventrikuläre Tachykardie, sind häufige Komplikationen eines
+Herzinfarktes.}}
+{WM/PD}
+
+Maßnahmen:
+
+{\Ca{Vitale Bedrohung!}
+
+\Cave{\added{Patienten mit einem akuten Koronarsyndrom sind grundsätzlich notarztpflichtig. }
+
+\added{Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor Ort Vorrang.} 
+
+\added{Der Notarzt ist auch für die Transportentscheidung wesentlich: 
+Der Patient braucht u.\,U. {\bfseries ein entsprechend
+ausgestattetes Spital} mit einem {\bfseries
+\E{dienst\-bereiten} Herzkatheterlabor}. Der Notarzt muss
+entscheiden, ob das notwendig und sinnvoll ist.}}
+
+
+
+\begin{figure}[H]
+\caption{EKG-Veränderungen beim Herzinfarkt:
+Unterschiedliche Gefäße verursachen unterschiedliche
+Veränderungen im EKG.} \subfloat[\Z{EKG-Veränderungen bei
+einem Vorderwandinfarkt: ST-Hebungen in den
+Brustwandableitungen.}
+\SourcePicture{WM/PD}] {\includegraphics[width=\linewidth]{./images/wikipedia-pd/12_lead_generated_anterior_MI}}
+\subfloat[\Z{EKG-Veränderungen bei einem Hinterwandinfarkt:
+Deutliche ST-Hebungen (\enquote*{Katzenbuckel}) in den
+Ableitungen \EKG{II}, \EKG{III} und
+\EKG{aVF}}
+\SourcePicture{WM/PD}] {\includegraphics[width=\linewidth]{./images/wikipedia-pd/12_lead_generated_inferior_MI}}
+\end{figure}
+
+
+
+
+
+
+\item Herzrhythmusstörungen: Bilderserie reanimationsflichtiger Rhythmusstörungen
+
+\Layout{27}
+{}
+{}
+{}
+{./images/wikipedia-pd/12_lead_generated_sinus_rhythm}
+{Unauffälliger EKG-Befund}
+{WM/PD}
+
+\begin{figure}[H]
+\caption{Reanimationspflichtige Rhythmen}
+\subfloat[\Z{Ventrikuläre Tachykardie} \SourcePicture{WM/PD}]
+{\includegraphics[width=\linewidth]{./images/wikipedia-pd/Lead_II_rhythm_ventricular_tachycardia_Vtach_VT}}
+
+\subfloat[\Z{Kammerflimmern}
+\SourcePicture{WM/PD}]
+{\includegraphics[width=\linewidth]{./images/wikipedia-pd/Lead_II_rhythm_generated_ventricular_fibrilation_VF}}
+
+\subfloat[\Z{Asystolie}
+\SourcePicture{WM/PD}]
+{\includegraphics[width=\linewidth]{./images/wikipedia-pd/Lead_II_rhythm_generated_asystole}}
+\end{figure}
+\item Hypertonie
+
+ \Layout{57}{}{}{}{
+ \begin{tabularx}{\textwidth}{XX}
+ \toprule\addlinespace
+ \noindent\TabHeading{Hypertensive Krise}
+ &
+ \noindent\TabHeading{Hypertensiver Notfall}
+ \\\addlinespace\midrule\addlinespace
+ \Abk{RR}~{\textgreater}~\RRmmHg{230}{130} (Richtwert) 
+\added{bzw. deutliche individuelle Erhöhung}
+ 
+ \EE{Patient fühlt sich gut}, evtl. Nasenbluten
+  &
+ \Abk{RR}~{\textgreater}~\RRmmHg{230}{130} (Richtwert)
+\added{bzw. deutliche individuelle Erhöhung}
+ 
+ \EE{+ Symptome einer Organstörung}
+ \\\addlinespace
+ Zufallsbefund?
+ 
+ Oder steht der Blutdruck doch in Zusammenhang mit der
+ Berufung?
+ 
+ \textit{Patient hat überhaupt keine Beschwerden?} Warum hat
+ er Sie dann überhaupt gerufen?
+ 
+ Wenn es wirklich nur ein Zufallsbefund ist
+ (\enquote*{Gesundheitstage},
+ \enquote*{Vorsorgeuntersuchung}):
+ &
+ \begin{itemize}
+     \item Kopfschmerz
+     \item Sehstörungen
+     \item Brustschmerz
+     \item Übelkeit, Erbrechen, Schwindel
+ \end{itemize}
+ \\\addlinespace
+ Maßnahmen: Eine notfallmäßige Blutdrucksenkung ist (eher) nicht erforderlich.
+ &
+ Vitale Bedrohung: \Ca{Gefahr des Herzversagens: Das Herz muss
+ plötzlich gegen großen Druck pumpen}
+ 
+-Eine frühzeitige Blutdrucksenkung (\caps{na}, \caps{nfs})
++Eine frühzeitige Blutdrucksenkung 
+ ist notwendig. 
+ 
+ Evtl. Anwendung der Notkompetenz gem. SanG. 
+ \\\addlinespace\bottomrule
+ \end{tabularx} 
+ }
+ {Unterscheidung Hypertensive Krise und Hypertensiver Notfall
+ \protect\citep{WHOISH2003,JNC7Report,BLIM3,IntroClinEmergMed4,Vlcek2008}.\label{tab:hxpertension-krise-notfall}}
+ {}
+
+\ListPause{enumerate}
+
+\ListResume[]{enumerate}{[KHD]}
+\item Struktur geändert, weniger Überschriften, Ca{PDF durchsehen}
+
+
+\ListPause{enumerate}
+
+\ListResume[]{enumerate}{[NEU]}
+\item Insult Symptome:
+
+ \added{\EE{Blutdruck}: Der Blutdruck ist in der
+      Akutsituation in der Regel erhöht und sinkt spontan
+      innerhalb der nachfolgenden Stunden. Es wird allgemein
+      empfohlen Blutdruckwerte bis \RRmmHg{220}{120} zu
+      tolerieren, wenn nicht cardiopulmonale Gründe (Myocardischämie,
+      Herzinsuffizienz, \ldots) andere Grenzwerte erfordern.} 
+      
+      
+
+\ListPause{enumerate}
+
+\ListResume[]{enumerate}{[PAM]}
+\item Struktur verändert, PDF ansehen
+
+
+\ListPause{enumerate}
+
+\ListResume[]{enumerate}{[RSP]}
+\item Lungenödem, Maßnahmen, Taktik:
+
+{
+\EE{Taktik}: \Speech{\Ca{Vitale Bedrohung}
+Belastung minimieren, rasche
+medikamentöse Therapie (veranlassen); ärztliche Therapie
+notwendig}
+
+
+\Cave{Patienten mit Lungenödem und brodelndem Atemgeräusch oder ABCD-Problem 
+sind grundsätzlich notarztpflichtig. 
+
+Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor Ort Vorrang.
+
+Bereits der Transport in das Fahrzeug kann gefährlich sein!}
+
+
+\ListPause{enumerate}
+
+\ListResume[]{enumerate}{[RWT]}
+\item Hubschrubaereinsatz: #
+
+\EE{Tageszeit:} \replaced{Ein Nachteinsatz ist in den
+meisten Gegenden nicht oder nur
+ eingeschränkt möglich.\ZFootnote{Eine Landung abseits
+ gesicherter Landeplätze in der Nacht ist nur mit spezieller 
+ Ausrüstung und Ausbildung möglich \cite{Bischofberger2007}.}}
+{Nur wenige Hubschrauber sind
+nachtflugtauglich, außerdem verbietet sich eine Landung
+abseits gesicherter Landeplätz in der Nacht.}
+\item 
+\item 
+
+\item 
+
+
+\chapter{Maßnahmenkatalog}
+
+\ListResume
+[\addcontentsline{toc}{section}{Änderungen vor dem Review}]
+{enumerate}{Änderungen vor dem Review}
+  \item Erstellung des neuen Dokumentes für
+  \ChangeHeading{2013}
+\ListPause{enumerate}
+
+\chapter{Diskussion}
+
+% \section{Änderungswünsche}
+
+\ListResume[\addcontentsline{toc}{section}{Änderungswünsche}Folgende
+Ändeurngen wurden angeregt]{enumerate}{Änderungswünsche}
+
+
+\item \ChangeHeading{Schriften neu} Siehe Tischvorlage
+\item \ChangeHeading{Farben neu} Probleme mit CMYK- vs. RGB-Farben, siehe Präsentation
+
+
+\ListPause{enumerate}
+
+\chapter{Diskussion}
+
+% \section{Änderungswünsche}
+
+\ListResume[\addcontentsline{toc}{section}{Änderungswünsche}Folgende
+Ändeurngen wurden angeregt]{enumerate}{Änderungswünsche}
+\end{enumerate}
+
+
+
+% \printindex
+
+
+
+
+
+
+
+\MultiColListEnd{toc}
+\end{document}

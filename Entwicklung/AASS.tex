@@ -192,6 +192,54 @@ sortlocale=de,
 %   /Info(CMYK UncoatedFOGRA29)
 %  >> ]
 % }
+\usepackage{datatool}
+
+\newcommand{\MYDATA}{}
+\newcommand{\ActionReset}
+{
+\def\ActionRow{1}
+\def\ActionTitle{Database error}
+\def\ActionShorttext{Database error}
+\def\ActionLabel{Database error}
+\def\ActionType{Database error}
+\def\ActionDifficulty{Database error}
+\def\ActionTarget{Database error}
+}
+\ActionReset
+\renewcommand{\Commentary}[2][]{{\par\sffamily\begin{tiny}\noindent\textbf{Kommentar} \TabHeading{#1:} \protect{#2}\par\end{tiny}}}
+
+\newcommand{\ProcedureTest}[1]{
+\DTLgetrowindex{\ActionRow}{procedures}{1}{#1}
+\DTLgetvalue{\ActionTitle}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{TITLE}}
+\DTLgetvalue{\ActionShorttext}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{SHORTTEXT}}
+\DTLgetvalue{\ActionLabel}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{LABEL}}
+\DTLgetvalue{\ActionType}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{TYPE}}
+\DTLgetvalue{\ActionTarget}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{TARGET}}
+%%%%%%%%%
+{\sffamily\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\color{DefaultA}
+\minisec{\ActionType: \ActionTitle} 
+
+
+\label{\ActionLabel}
+\begin{itemize}
+  \item \EE{Allgemein:} \ActionShorttext
+  \item \EE{Spezielle Maßnahmen:}
+  \input{./procedures/#1.tex}
+  \item \EE{Zuständige Fachabteilung bzw. Einheit:}
+  \ActionTarget
+\end{itemize}
+
+{\color{AltBlueLight}\tiny DatabaseObject: \textbf{#1}
+Letzte Änderung:
+\textbf{2013-01-01}\hrulefill\par}
+
+
+
+
+}
+\ActionReset
+}
+
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -205,6 +253,7 @@ sortlocale=de,
 \MultiColListStart{toc}{2}
 \MultiColListStart{lofazit}{2}
 \MultiColListStart{lomassnahmen}{2}
+\DTLloaddb[headers={ID,TYPE,LABEL,TITLE,SHORTTEXT,LONGTEXT,TARGET}]{procedures}{procedures.csv}
 % \biolinum
 \renewcommand{\itemhook}{%
 %   \setlength{\topsep}{0pt}%

@@ -57,12 +57,13 @@ toc=flat,
 \Layout{Massnahmen}
 {{\SignMassnahme} {\color{ProceduresBoxBackground}#1:} {\color{ProceduresBase}#2}}
 {~
-\color{ProceduresFont}\begin{description}
-  \item[Grundsätzlich:]#4
-  \item[Spezielle Maßnahmen (Maßnahmenkatalog):] \FullPrettyRef{MK-#3}
-\end{description}
+\ProceduresTextFont\ProceduresTextStyle\begin{itemize}
+  \item \EE{Grundsätzlich:} #4
+  \item \EE{Maßnahmenkatalog:}
+  \FullPrettyRef{MK-#3}
+\end{itemize}
 }
-{\FullPrettyRef{MK-#3}}
+{\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\FullPrettyRef{MK-#3}}
 {}
 {}
 {}}

@@ -207,7 +207,8 @@ sortlocale=de,
 \def\ActionTarget{Database error}
 }
 \ActionReset
-\renewcommand{\Commentary}[2][]{{\par\sffamily\begin{tiny}\noindent\textbf{Kommentar} \TabHeading{#1:} \protect{#2}\par\end{tiny}}}
+% \renewcommand{\Commentary}[2][]{{\par\sffamily\begin{tiny}\noindent\textbf{Kommentar} \TabHeading{#1:} \protect{#2}\par\end{tiny}}}
+% \renewcommand{\Commentary}[2][]{\footnote{\textbf{Kommentar} \TabHeading{#1:} \protect{#2}}}
 
 \newcommand{\ProcedureTest}[1]{
 \DTLgetrowindex{\ActionRow}{procedures}{1}{#1}

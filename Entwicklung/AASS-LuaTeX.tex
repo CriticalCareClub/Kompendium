@@ -1,0 +1,64 @@
+\documentclass[
+ngerman,
+paper=a4,
+asymmetric,
+fontsize=10pt,
+% headings=small,
+draft=false,
+% parskip=half,
+numbers=noenddot,
+% listof=totoc,         % verschiebt Minitoc/Hyperref
+% bibliography=totoc,   % verschiebt Minitoc/Hyperref
+bibtotocnumbered,
+% index=totoc,
+% noonelinecaption,
+footnotes=multiple,
+toc=flat,
+]{scrbook}
+\setlength{\parindent}{15pt}
+
+
+
+
+
+    \usepackage{luatextra}
+    \usepackage{fontspec}
+\usepackage[libertine={Scale=2,Ligatures=TeX,RawFeature=+onum}, biolinum={Ligatures=TeX,RawFeature=+onum}]{libertine}
+
+
+\setmainfont[
+Ligatures=TeX,RawFeature=+onum,
+ItalicFont     = LinLibertine_RI.otf ,
+BoldFont       = LinLibertine_RB.otf ,
+BoldItalicFont = LinLibertine_RBI.otf ,
+% Scale=2,
+]{LinLibertine_R.otf}
+% \setsansfont[
+% ItalicFont     = LinBiolinum_RI.otf ,
+% BoldFont       = LinBiolinum_RB.otf ,
+% ]{LinBiolinum_R.otf}
+
+
+\begin{document}
+This text tests the 
+\textit{italic},
+\textbf{bold} and
+\textit{\textbf{bold-italic}} shapes of the current font. \textsc{Small caps} may also be available.
+
+\bigskip
+
+ß
+
+\bigskip
+
+\textsf{Sans: This text tests the 
+\textit{italic},
+\textbf{bold} and
+\textit{\textbf{bold-italic}} shapes of the current sans font. \textsc{Small caps} may also be available.}
+
+\LKey{A}
+
+\LKey{B}
+
+\LKey{C}
+\end{document}

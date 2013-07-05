@@ -18,11 +18,34 @@ toc=flat,
 \setlength{\parindent}{15pt}
 
 
-\usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}	% UTF-8 Schriftkodierung
+
+
+% \usepackage{iftex}
+% \ifPDFTeX
+%   \usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}	% UTF-8 Schriftkodierung
+% %   \usepackage{uniinput}
+% \else
+%   \ifLuaTeX
+    \usepackage{luatextra}
+%     \usepackage{uniinput-lualatex}
+    \usepackage{fontspec}
+%   \fi
+% \fi
+% % http://tex.stackexchange.com/questions/66949/command-nobreakspace-unavailable-when-switching-to-t1-encoding-under-xelatex/66951#66951
+% % Its xunicode which changes \nobreakspace: It maps the
+% % command to U+00A0. I would use either
+% % \DeclareTextCommand{\nobreakspace}{T1}{\leavevmode\nobreak\} or
+% % \DeclareTextCommandDefault{\nobreakspace}{\leavevmode\nobreak\ } 
+% % which would not destroy the xunicode declaration for EU1.
+% % Regarding microtype: There exist beta versions which works
+% % with xelatex:
+% % tlcontrib.metatex.org/cgi-bin/package.cgi/action=view/id=423
+% % – Ulrike Fischer
+\DeclareTextCommand{\nobreakspace}{T1}{\leavevmode\nobreak\ }
 
 \usepackage{etex}					% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
 
-\usepackage[final]{graphicx} 		% Bilder-Support
+\usepackage{graphicx} 		% Bilder-Support
 									% Optionen für Bilder:
 									% [draft] .. Es werden nur Rahmen angezeigt
 									% [final] .. Es werden Bilder normal angezeigt

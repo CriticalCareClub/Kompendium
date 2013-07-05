@@ -460,9 +460,95 @@ Standards ist, es gibt so viele, aus denen man auswählen kann.}
 
 \restoregeometry
 
+
+
+
+
+\begin{WidePar}\flushleft
+  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
+%   
+%   \noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme} gekennzeichnete
+% Referenzen finden sich im Maßnahmenkatalog (Version
+% \VarMkatalogVersion).
+\end{WidePar}
+\Layout{2}
+{Maßnahmenkatalog}
+{Konkrete Maßnahmen bzw. mit {\SignMassnahme}
+gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
+\VarMkatalogVersion).
+}
+{}
+{}
+{}
+{}
+
+\Layout{2}
+{Externe Teile}
+{Aus Kostengründen sind manchmal nicht
+alle Teile Bestandteil eines Drucks. Dies betrifft
+insbesonders Teile des Appendix wie z.\,B. das
+Literaturverzeichnis oder den Kommentarteil. Diese Teile
+sind online auf der {\AASS}-Projektseite im
+Download-Bereich verfügbar
+(\url{http://www.aass.at/cms/download/aass/}).
+
+}
+{}
+{}
+{}
+{}
+% {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
+
+%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
+\dominitoc[n]
+
+\begin{WidePar}
+  {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
+\end{WidePar}
+
+
+\Layout{2}
+{Maßnahmenkatalog}
+{Konkrete Maßnahmen bzw. mit {\SignMassnahme}
+gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
+\VarMkatalogVersion).
+}
+{}
+{}
+{}
+{}
+
+\Layout{2}
+{Externe Teile}
+{Aus Kostengründen sind manchmal nicht
+alle Teile Bestandteil eines Drucks. Dies betrifft
+insbesonders Teile des Appendix wie z.\,B. das
+Literaturverzeichnis oder den Kommentarteil. Diese Teile
+sind online auf der {\AASS}-Projektseite im
+Download-Bereich verfügbar
+(\url{http://www.aass.at/cms/download/aass/}).
+
+}
+{}
+{}
+{}
+{}
+
 %\nocite{*} 
 % \layout
 % \pagediagram\pagedesign\paragraphdiagram\paragraphdesign\floatpagediagram\floatpagedesign\listdiagram\listdesign\footnotediagram\footnotedesign\tocdiagram\tocdesign
+\clearpage
+\input{./inputs/input-Impressum}
+
+\clearpage
+\input{./inputs/input-Credits}
+
+
+
+\input{./inputs/input-Abkz}
+
+\input{./inputs/input-Lizenzen.tex}
+
 
 \clearpage
 \section{Vorwort}
@@ -549,19 +635,11 @@ Wohl des Kranken ist oberstes Gebot.}}.
 \end{flushright}
 
 
+\libertineGlyph{Tux}
 
 
 \clearpage
-\input{./inputs/input-Impressum}
 
-\clearpage
-\input{./inputs/input-Credits}
-
-
-
-\input{./inputs/input-Abkz}
-
-\input{./inputs/input-Lizenzen.tex}
 
 \opt{STATUS-DRAFT}{
 \subsection*{Projektorthographie}
@@ -759,81 +837,9 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 
 \vspace{3\baselineskip}
 
-Test {\usefont{T1}{fxb}{m}{n}\selectfont Test} {\biolinum
-Test}
 
 
 
-
-\begin{WidePar}\flushleft
-  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
-%   
-%   \noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme} gekennzeichnete
-% Referenzen finden sich im Maßnahmenkatalog (Version
-% \VarMkatalogVersion).
-\end{WidePar}
-\Layout{2}
-{Maßnahmenkatalog}
-{Konkrete Maßnahmen bzw. mit {\SignMassnahme}
-gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
-\VarMkatalogVersion).
-}
-{}
-{}
-{}
-{}
-
-\Layout{2}
-{Externe Teile}
-{Aus Kostengründen sind manchmal nicht
-alle Teile Bestandteil eines Drucks. Dies betrifft
-insbesonders Teile des Appendix wie z.\,B. das
-Literaturverzeichnis oder den Kommentarteil. Diese Teile
-sind online auf der {\AASS}-Projektseite im
-Download-Bereich verfügbar
-(\url{http://www.aass.at/cms/download/aass/}).
-
-}
-{}
-{}
-{}
-{}
-% {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
-
-%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
-\dominitoc[n]
-
-\begin{WidePar}
-  {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
-\end{WidePar}
-
-
-\Layout{2}
-{Maßnahmenkatalog}
-{Konkrete Maßnahmen bzw. mit {\SignMassnahme}
-gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
-\VarMkatalogVersion).
-}
-{}
-{}
-{}
-{}
-
-\Layout{2}
-{Externe Teile}
-{Aus Kostengründen sind manchmal nicht
-alle Teile Bestandteil eines Drucks. Dies betrifft
-insbesonders Teile des Appendix wie z.\,B. das
-Literaturverzeichnis oder den Kommentarteil. Diese Teile
-sind online auf der {\AASS}-Projektseite im
-Download-Bereich verfügbar
-(\url{http://www.aass.at/cms/download/aass/}).
-
-}
-{}
-{}
-{}
-{}
 
 % {\small\listoffigures}
 % 
@@ -843,7 +849,6 @@ Download-Bereich verfügbar
 \begin{WidePar}
 {\small\kern-2.ex\listof{fazit}{Merksätze}}
 \end{WidePar}
-
 
 % {\WideParBegin}
 \part{Allgemeiner Teil}
@@ -876,10 +881,10 @@ Download-Bereich verfügbar
 \include{./chapters/chapter-SAN}
 \include{./chapters/chapter-ASS}
 \include{./chapters/chapter-BLS}
-\include{./chapters/chapter-AUP}
 \include{./chapters/chapter-PSI}
 \include{./chapters/chapter-KHD}
 \include{./chapters/chapter-GEF}
+\include{./chapters/chapter-AUP}
 \include{./chapters/chapter-PAM}
 
 % {\WideParBegin}

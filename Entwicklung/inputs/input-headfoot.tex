@@ -90,10 +90,22 @@
 %%% HEADER %%%
 % right
 \fancyhead[RO]{{\sffamily{\color{Grey}\CC{[\ChapterCode]}~\rightmark~|~}{\color{DefaultA}\thepage}}}
+\fancyhead[RO]{\begin{tikzpicture}[overlay,remember picture]
+      \fill [color=AltBlueSuperLight]
+        ($(current page.north east) - (0pt,0pt)$)
+        rectangle
+        ($ (current page.south east) - (191.5pt,0cm) $);
+  \end{tikzpicture}{\sffamily{\color{Grey}\CC{[\ChapterCode]}~\rightmark~|~}{\color{DefaultA}\thepage}}
+}
 % \fancyhead[RE]{\EE{\protect\AuthNotes{ | {\protect\today} | ENTWURF |}}}
 % left
 % \fancyhead[LO]{\EE{\protect\AuthNotes{ | ENTWURF | {\protect\today} |}}}
-\fancyhead[LE]{{\sffamily{\color{DefaultA}\thepage}{\color{Grey}~|~\leftmark}}}
+\fancyhead[LE]{\begin{tikzpicture}[overlay,remember picture]
+      \fill [color=AltBlueSuperLight]
+        ($(current page.north east) - (0pt,0pt)$)
+        rectangle
+        ($ (current page.south east) - (237.00787pt,0cm) $);
+  \end{tikzpicture}{\sffamily{\color{DefaultA}\thepage}{\color{Grey}~|~\leftmark}}}
 % %%% DRAFT %%%
 % \fancyhead[RE,LO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \textbf{Nur für den internen Gebrauch!}}}
 

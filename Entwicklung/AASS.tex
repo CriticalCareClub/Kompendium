@@ -17,20 +17,9 @@ toc=flat,
 ]{scrbook}
 \setlength{\parindent}{15pt}
 
+\usepackage{luatextra}
+\usepackage{fontspec}
 
-
-
-% \usepackage{iftex}
-% \ifPDFTeX
-%   \usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}	% UTF-8 Schriftkodierung
-% %   \usepackage{uniinput}
-% \else
-%   \ifLuaTeX
-    \usepackage{luatextra}
-%     \usepackage{uniinput-lualatex}
-    \usepackage{fontspec}
-%   \fi
-% \fi
 % % http://tex.stackexchange.com/questions/66949/command-nobreakspace-unavailable-when-switching-to-t1-encoding-under-xelatex/66951#66951
 % % Its xunicode which changes \nobreakspace: It maps the
 % % command to U+00A0. I would use either
@@ -43,7 +32,7 @@ toc=flat,
 % % – Ulrike Fischer
 \DeclareTextCommand{\nobreakspace}{T1}{\leavevmode\nobreak\ }
 
-\usepackage{etex}					% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
+% \usepackage{etex}					% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
 
 \usepackage{graphicx} 		% Bilder-Support
 									% Optionen für Bilder:
@@ -894,9 +883,12 @@ Basisteil}
 
 \include{./chapters/chapter-GLO}
 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Kommentare
-\printnotes
+% \printnotes
+% \theendnotes
+% \printendnotes[description]
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Literaturverzeichnis

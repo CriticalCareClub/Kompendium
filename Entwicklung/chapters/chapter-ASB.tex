@@ -360,7 +360,7 @@ abgesaugt werden.
 }{}{}{}
 
 \begin{table}[H]
-\FormatTable
+\TableBaseModification
 \Captionof{table}{Bilderserie: Absaugtechnik}
 \begin{tabularx}{\linewidth}{XX}
 \includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Anton_32999_export.jpg}
@@ -399,7 +399,7 @@ werden!
 
 
 \needspace{0.5\textheight}
-\section{Sauerstoff -- \ce{O2}}
+\section{Sauerstoff -- \texorpdfstring{\ce{O2}}{}}
 \label{topic:sauerstoff}
 \label{topic:o2}
 \index{Sauerstoff}
@@ -585,7 +585,7 @@ aus, um Mauern zu durchbrechen!
 \Ca{← Siehe Fließtext!}
 }{}{}{}
 
-\Layout{0}{Beenden der \ce{O2}-Gabe und Wechsel von Druckflaschen}
+\Layout{0}{Beenden der \texorpdfstring{\ce{O2}}{O2}-Gabe und Wechsel von Druckflaschen}
 {Nach der Verwendung des Sauerstoffsystems wird das
 Hauptventil geschlossen und der \EE{Überdruck} aus den
 Druckleitungen bzw. dem Druckminderer \EE{abgelassen}. Erst
@@ -655,22 +655,29 @@ Zu Bedenken ist dabei, dass in der Flasche  mind.
 \EE{10\Bar* Restdruck} verbleiben sollen und eine
 \EE{ausreichende Zeitreserve} einzuplanen ist!  
 
-
+{\FontSansNarrowFamily
 \begin{equation}
-\mbox{Verfügbares Volumen in \Liter} = {\begin{array}{c}
-\mbox{Volumen der Flasche in \Liter}\\
-\mbox{(Füllgröße)} \end{array}}
+\text{Verfügbares Volumen in \Liter} = {\begin{array}{c}
+\text{Volumen der Flasche in \Liter}\\
+\text{(Füllgröße)} \end{array}}
 \times 
-\begin{array}{c}{\mbox{Druck in bar}}\\
-\mbox{(Flaschendruck)}
+\begin{array}{c}{\text{Druck in bar}}\\
+\text{(Flaschendruck)}
 \end{array}
 \end{equation}
 
 \begin{equation}
-\mbox{Zeit} = \frac{\mbox{Verfügbare
-Menge}}{\mbox{Abgaberate}}
+\text{Zeit} = \frac{\text{Verfügbare
+Menge}}{\text{Abgaberate}}
 \end{equation}
-
+}
+% \begin{equation}
+% V_\sum = V_F \times p
+% \end{equation}
+% 
+% \begin{equation}
+% t = \frac{V_\sum}{Flow}
+% \end{equation}
 
 
 %oder kurz: 

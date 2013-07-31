@@ -90,10 +90,22 @@
 %%% HEADER %%%
 % right
 \fancyhead[RO]{{\sffamily{\color{Grey}\CC{[\ChapterCode]}~\rightmark~|~}{\color{DefaultA}\thepage}}}
+\fancyhead[RO]{\begin{tikzpicture}[overlay,remember picture]
+      \fill [color=AltBlueSuperLight]
+        ($(current page.north east) - (0pt,0pt)$)
+        rectangle
+        ($ (current page.south east) - (191.5pt,0cm) $);
+  \end{tikzpicture}{\sffamily{\color{Grey}\CC{[\ChapterCode]}~\rightmark~|~}{\color{DefaultA}\thepage}}
+}
 % \fancyhead[RE]{\EE{\protect\AuthNotes{ | {\protect\today} | ENTWURF |}}}
 % left
 % \fancyhead[LO]{\EE{\protect\AuthNotes{ | ENTWURF | {\protect\today} |}}}
-\fancyhead[LE]{{\sffamily{\color{DefaultA}\thepage}{\color{Grey}~|~\CO{[\ChapterCode]}~\leftmark}}}
+\fancyhead[LE]{\begin{tikzpicture}[overlay,remember picture]
+      \fill [color=AltBlueSuperLight]
+        ($(current page.north east) - (0pt,0pt)$)
+        rectangle
+        ($ (current page.south east) - (237.00787pt,0cm) $);
+  \end{tikzpicture}{\sffamily{\color{DefaultA}\thepage}{\color{Grey}~|~\leftmark}}}
 % %%% DRAFT %%%
 % \fancyhead[RE,LO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \textbf{Nur für den internen Gebrauch!}}}
 
@@ -101,11 +113,11 @@
 % center
 \fancyfoot[CE,CO]{{{\sffamily\tiny  \DocVersionInfo}}}
 % odd
-\fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
+\fancyfoot[LO,RE]{{\noindent\DocGitCommitTiny}}
+\fancyfoot[LO,RE]{{\noindent\tiny\FontSchemeCode}}
 \fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\DocVersion}~ \AASS{}}}
 % even
 \fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\tiny \DocVersion~~|~~\url{http://www.aass.at}}}
-\fancyfoot[RE]{{\noindent\DocGitCommitTiny}}
 
 % %%% OVERWRITE SETTINGS FOR DRAFT %%%
 % \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \textbf{Nur für den internen Gebrauch!}}}

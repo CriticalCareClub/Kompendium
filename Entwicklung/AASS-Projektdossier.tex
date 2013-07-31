@@ -17,18 +17,30 @@ toc=flat,
 ]{scrbook}
 \setlength{\parindent}{15pt}
 
+\usepackage{luatextra}
+\usepackage{fontspec}
 
-\usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}	% UTF-8 Schriftkodierung
+% % http://tex.stackexchange.com/questions/66949/command-nobreakspace-unavailable-when-switching-to-t1-encoding-under-xelatex/66951#66951
+% % Its xunicode which changes \nobreakspace: It maps the
+% % command to U+00A0. I would use either
+% % \DeclareTextCommand{\nobreakspace}{T1}{\leavevmode\nobreak\} or
+% % \DeclareTextCommandDefault{\nobreakspace}{\leavevmode\nobreak\ } 
+% % which would not destroy the xunicode declaration for EU1.
+% % Regarding microtype: There exist beta versions which works
+% % with xelatex:
+% % tlcontrib.metatex.org/cgi-bin/package.cgi/action=view/id=423
+% % – Ulrike Fischer
+\DeclareTextCommand{\nobreakspace}{T1}{\leavevmode\nobreak\ }
 
-\usepackage{etex}					% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
+% \usepackage{etex}					% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
 
-\usepackage[final]{graphicx} 		% Bilder-Support
+\usepackage{graphicx} 		% Bilder-Support
 									% Optionen für Bilder:
 									% [draft] .. Es werden nur Rahmen angezeigt
 									% [final] .. Es werden Bilder normal angezeigt
 									% [demo]  .. keine Bilder
-\usepackage{blindtext}
-		
+% \usepackage{blindtext}
+
 % Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{./inputs/input-optkeys}		% optional --- Optionaler Text.
 % \opt{ORG-ASBOE}{\usepackage{asboe}} % Style-Def. vor Präamble
@@ -37,20 +49,322 @@ toc=flat,
 \input{./inputs/input-title-dossier}		% Titel
 \input{./inputs/input-docinfo-dossier}		% Dokumenteinfos (Status, Version, ...)
 \input{./inputs/input-headfoot}		% Kopf- und Fusszeilen
-% \input{./inputs/input-excludeonly}	% Ausgeschlossene Kapitel
-% \input{./inputs/input-includeonly}	% Schliesse nur bestimmte Kapitel ein ...
+\input{./inputs/input-excludeonly}	% Ausgeschlossene Kapitel
+\input{./inputs/input-includeonly}	% Schliesse nur bestimmte Kapitel ein ...
 
 \renewcommand{\Abk}[1]{#1} 			% reset Abk
 
+\usepackage{xr}						% Maßnahmenkatalog: Referenzen zu ext. Dokument
+% 	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var1-Archiv}}
+% 	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var2-Archiv}}
+    \opt{VAR-VAR0}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+% 1: Art der Massnahmen
+% 2: Titel
+% 3: Referenz
+% 4: Text / Taktik
+% 5: Punkte
+\newcommand{\MassnahmenMK}[5]{%
+\Layout{Massnahmen}
+{{\SignMassnahme} {\color{ProceduresBoxBackground}#1:} {\color{ProceduresBase}#2}}
+{~
+\ProceduresTextFont\ProceduresTextStyle\begin{itemize}
+  \item \EE{Grundsätzlich:} #4
+  \item \EE{Maßnahmenkatalog:}
+  \FullPrettyRef{MK-#3}
+\end{itemize}
+}
+{\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\FullPrettyRef{MK-#3}}
+{}
+{}
+{}}
 
-\usepackage{microtype,fixltx2e,ellipsis}
+\newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
+\newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
+\usepackage[backend=bibtex8,
+babel=other,
+defernumbers=true,
+natbib,
+sorting=none,
+sortlocale=de,
+]{biblatex}
+
+% 	\bibliography{AASS.bib}
+    \addbibresource{BiblioDB-AASS.bib}
+    \addbibresource{BiblioDB-ASBOe.bib}
+	\addbibresource{BiblioDB-Med-Books.bib}
+	\addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
+	\addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
+	\addbibresource{BiblioDB-Med-Links.bib}
+	\addbibresource{BiblioDB-Med-Misc.bib}
+	\renewcommand{\labelnamepunct}{\addcolon\space}
+	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
+	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+	% 
+	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+	\DeclareFieldFormat{journaltitle}{\textsc{#1}}
+	\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+	\renewcommand{\bibfont}{\normalfont\small}
+	\DeclareBibliographyCategory{PAM}
+	\DeclareBibliographyCategory{BestOf}
+	\defbibnote{bestof}{Dieser Abschnitt beinhaltet besonders
+	lesenswerte Literaturreferenzen. Eine vollständige
+	Auflistung der Quellen findet sich im Folgeabschnitt.
+	Sofern dieser nicht Teil Ihrer Distribution ist, finden
+	Sie sie auch online unter
+	\url{http://www.aass.at/download}.}
+	
+	\newcommand{\textbfit}[1]{\textbf{\textit{#1}}}
+	\newcommand{\bibentry}[1]{\fullcite{#1}}
+	\newcommand{\ChapterBibliography}{\relax}
+% \opt{ORG-ASBOE}{\usepackage{asboe}}
+% \renewcommand{\FontTableBase}{\small\sffamily}
+
+% \usepackage[markup=underlined,ulem=normalem]{changes}	
 
 
-\usepackage{ragged2e}
 
 
-\makepagenote
+%  http://tex.stackexchange.com/questions/89208/fancy-chapter-title-page
+\usepackage{textpos}
+\def\ChapterCode{---}
+\DeclareFixedFont{\chapternumberfont}{T1}{ppl}{}{}{1.5in}
+\titleformat{\chapter}[display]{\FontSansCaptionFamily\bfseries\Huge\color{white}\raggedright}{
+\thispagestyle{empty}
+\begin{tikzpicture}[overlay, remember picture]
+        % Obere Leiste
+        \path let
+          \p1 = (current page.west),
+          \p2 = (current page.east) in
+              node[minimum width=\x2-\x1, minimum height=7cm, rectangle, fill=AltBlueDark, anchor=north west, align=left, text width=\x2-\x1] at ($(current page.north west)$) {
+                % Textblock mit ChapterCode
+                \begin{textblock*}{5in}(\dimexpr\x2-4.6in,\dimexpr0.25\headheight+.5cm)
+                    \tikz \node [AltBlueDark,text width=2in, align=right, font=\sffamily] {{\LARGE {\FontSansNarrowFamily[\ChapterCode]}}};
+                \end{textblock*}
+                % Textblock mit Chapter-Nummer
+                \begin{textblock*}{5in}(\dimexpr\x2-4.6in,\dimexpr0.25\headheight-3.2cm)
+                    \tikz \node [white,text width=2in, align=right, font=\sffamily] {\raisebox{-12pt}{\FontSansNarrowFamily\mdseries\scalefont{3}\thechapter}};
+                \end{textblock*}
+                % Textblock mit AASS-Logo
+                \begin{textblock*}{5in}(\dimexpr\x2-9.4in,\dimexpr0.25\headheight-5.5cm)
+                    \tikz \node [white,text width=2in, align=left, font=\sffamily] {{\Huge \AASSNegative ~ \FontSansNarrowFamily\mdseries\normalsize}};
+                \end{textblock*}
+              };
+        % untere Leiste
+        \path let \p1 = (current page.west), \p2 = (current page.east) in
+              node[minimum width=\x2-\x1, minimum height=1cm, rectangle, fill=AltBlueLight, anchor=south west, align=left, text width=\x2-\x1] at ($(current page.south west)$) {};
+\end{tikzpicture}
+}{-1.0in}{}[\vspace*{1in}]
 
+
+% % BACKUP
+% %  http://tex.stackexchange.com/questions/89208/fancy-chapter-title-page
+% \usepackage{textpos}
+% \def\ChapterCode{---}
+% \DeclareFixedFont{\chapternumberfont}{T1}{ppl}{}{}{1.5in}
+% \titleformat{\chapter}[display]{\Huge\bfseries\sffamily\color{white}}{
+% \thispagestyle{empty}
+% \begin{tikzpicture}[overlay, remember picture]
+%         % Obere Leiste
+%         \path let \p1 = (current page.west), \p2 = (current page.east) in
+%               node[minimum width=\x2-\x1, minimum height=5cm, rectangle, fill=AltBlueDark, anchor=north west, align=left, text width=\x2-\x1] at ($(current page.north west)$) {
+%                 % Textblock mit ChapterCode und Chapter-Nummer
+%                 \begin{textblock*}{5in}(\dimexpr\x2-4.5in,\dimexpr0.25\headheight-1in)
+%                     \tikz \node [white,text width=2in, align=right, font=\sffamily] {{\normalsize [\ChapterCode]}\\[12pt] \raisebox{20pt}{{\large ~}} \raisebox{-12pt}{\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\scalefont{3}\thechapter}};
+%                 \end{textblock*}
+%                 % Textblock mit AASS-Logo
+%                 \begin{textblock*}{5in}(\dimexpr\x2-9.4in,\dimexpr0.25\headheight-1.7in)
+%                     \tikz \node [white,text width=2in, align=left, font=\sffamily] {{\Huge \AASSNegative ~ \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\normalsize}};
+%                 \end{textblock*}
+%               };
+%         % untere Leiste
+%         \path let \p1 = (current page.west), \p2 = (current page.east) in
+%               node[minimum width=\x2-\x1, minimum height=0.8in, rectangle, fill=AltBlueLight, anchor=south west, align=left, text width=\x2-\x1] at ($(current page.south west)$) {};
+% \end{tikzpicture}
+% }{-1.0in}{}[\vspace*{1in}]
+
+
+% % % http://compgroups.net/comp.text.tex/making-a-cmyk-pdf/153995
+% 
+% % sRGB
+% \immediate\pdfobj stream attr{/N 4}  file{AdobeRGB1998.icc}
+% \pdfcatalog{%
+%   /OutputIntents [ <<
+%   /Type /OutputIntent
+%   /S/GTS_PDFA1
+%   /DestOutputProfile \the\pdflastobj\space 0 R
+%   /OutputConditionIdentifier (sRGB AdobeRGB1998)
+%   /Info(sRGB AdobeRGB1998)
+%  >> ]
+% }
+% 
+% IPAD
+\immediate\pdfobj stream attr{/N 4}  file{iPad.icc}
+\pdfcatalog{%
+  /OutputIntents [ <<
+  /Type /OutputIntent
+  /S/GTS_PDFA1
+  /DestOutputProfile \the\pdflastobj\space 0 R
+  /OutputConditionIdentifier (sRGB iPad)
+  /Info(sRGB iPad)
+ >> ]
+}
+% 
+% % CMYK FOGRA 29 COATED
+% \immediate\pdfobj stream attr{/N 4}  file{UncoatedFOGRA29.icc}
+% \pdfcatalog{%
+%   /OutputIntents [ <<
+%   /Type /OutputIntent
+%   /S/GTS_PDFA1
+%   /DestOutputProfile \the\pdflastobj\space 0 R
+%   /OutputConditionIdentifier (CMYK UncoatedFOGRA29)
+%   /Info(CMYK UncoatedFOGRA29)
+%  >> ]
+% }
+\usepackage{datatool}
+
+\newcommand{\MYDATA}{}
+\newcommand{\ActionReset}
+{
+\def\ActionRow{1}
+\def\ActionTitle{Database error}
+\def\ActionShorttext{Database error}
+\def\ActionLabel{Database error}
+\def\ActionType{Database error}
+\def\ActionDifficulty{Database error}
+\def\ActionTarget{Database error}
+}
+\ActionReset
+% \renewcommand{\Commentary}[2][]{{\par\sffamily\begin{tiny}\noindent\textbf{Kommentar} \TabHeading{#1:} \protect{#2}\par\end{tiny}}}
+% \renewcommand{\Commentary}[2][]{\footnote{\textbf{Kommentar} \TabHeading{#1:} \protect{#2}}}
+
+\newcommand{\ProcedureTest}[1]{
+\DTLgetrowindex{\ActionRow}{procedures}{1}{#1}
+\DTLgetvalue{\ActionTitle}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{TITLE}}
+\DTLgetvalue{\ActionShorttext}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{SHORTTEXT}}
+\DTLgetvalue{\ActionLabel}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{LABEL}}
+\DTLgetvalue{\ActionType}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{TYPE}}
+\DTLgetvalue{\ActionTarget}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{TARGET}}
+%%%%%%%%%
+{\sffamily\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\color{DefaultA}
+\minisec{\ActionType: \ActionTitle} 
+
+
+\label{\ActionLabel}
+\begin{itemize}
+  \item \EE{Allgemein:} \ActionShorttext
+  \item \EE{Spezielle Maßnahmen:}
+  \input{./procedures/#1.tex}
+  \item \EE{Zuständige Fachabteilung bzw. Einheit:}
+  \ActionTarget
+\end{itemize}
+
+{\color{AltBlueLight}\tiny DatabaseObject: \textbf{#1}
+Letzte Änderung:
+\textbf{2013-01-01}\hrulefill\par}
+
+
+
+
+}
+\ActionReset
+}
+
+\newcommand{\RedFlag}{{\color{DefaultRed}\bfseries{\VarFlag}}}
+
+\newcommand{\testtext}{Aurea prima sata est aetas, quae vindice nullo,
+sponte sua, sine lege fidem rectumque colebat.               
+poena metusque aberant, nec verba minantia fixo
+aere legebantur, nec supplex turba timebat
+iudicis ora sui, sed erant sine vindice tuti.
+nondum caesa suis, peregrinum ut viseret orbem,
+montibus in liquidas pinus descenderat undas,              
+nullaque mortales praeter sua litora norant;
+nondum praecipites cingebant oppida fossae;
+non tuba derecti, non aeris cornua flexi,
+non galeae, non ensis erat: sine militis usu
+mollia securae peragebant otia gentes. 
+
+In der Studie von \caps{Werters} konnte im Jahr 2005 gezeigt
+werden, dass rostende Gießkannen blaue Augen duch die Tür
+gehen. Kein Beispiel konnte zegen, dass die \E{enumarative
+Konstante} ohne Flügen eine Fahrkarte kaufte. Es gibt daher
+keinerlei Bemühungen, die \EE{Hemisphere} zu \EE{dritteln}.
+Man achte daher auf den \E{Sauerstoff}.
+
+\Layout{0}{Einleitung und Wissenswertes}
+{Das vorliegende Werk ist das Ergebnis einer seit
+mehr als 0 + 3 + 1 = 4 Jahren andauernden Arbeit. 
+Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
+bereits breitgetretener Pfade fundiert darzustellen, und
+damit sowohl eine Unterlage für die Ausbildung, als auch ein
+Hilfsmittel für die Praxis zu schaffen.  
+Besonderen Wert haben wir dabei 
+auf das Hintergrundwissen und relevante Randbereiche gelegt.
+Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
+wieder veraltet ist, bildet dieses Fundament die Chance für eine
+langjährige Tätigkeit und erlaubt selbstständiges, regel\emph{geleitetes} Arbeiten
+(anstatt strikten, regel\emph{gebundenen} Handelns). }
+{
+\begin{itemize}
+  \item Andauernde Arbeit
+  \item Vier Jahre
+  \item Praxis gepaart mit Hintergrundwissen
+  \item Regel\emph{geleitetes} Arbeiten
+\end{itemize}
+}{}{}{}
+
+\begin{itemize}
+  \item Durch den Wind gehen
+  \item Türe schließen. Bei Bedarf Kind abnabeln und
+  Feueralarm betätigen.
+  \item Clearing und Begleichen der \EE{Staatsschuld},
+  gepaart mit unabänderlicher Leidenschaft.
+\end{itemize}
+
+\Layout{2}{Vorgehen}{
+Siehe auch \FullPrettyRef{fig:hws-schiene-anlegen}.
+\begin{enumerate}
+    \item \EE{Patient auffordern den Kopf nicht zu bewegen.}
+    \item {\color{HelferA}Der hintere
+    Helfer \EE{stabilisiert} den Kopf und die \Abk{HWS}
+    in Neutralposition ohne Zug und ohne Stauchung.}
+    \item {\color{HelferB}Beengende und behindernde
+    \EE{Kleidung entfernen}.}
+    \item {\color{HelferB}\EE{Größenmessung}: Der seitliche
+    Helfer misst die Entfernung von Schulter bis Unterkiefer in Fingerbreiten
+    aus.}
+    \item {\color{HelferB}Stifneck entsprechend einstellen:
+    gemessene Entfernung einstellen.
+    
+    Verschiebemechanismus des
+    Stifneck blockieren, ab nun darf kein Verstellen mehr
+    möglich  sein.}
+    \item {\color{HelferB}Klettverschlussband so einfalten,
+    dass es nicht am Boden schleifen kann (hält sonst nicht
+    mehr).}
+    \item {\color{HelferB}Nackenteil unter Patient durch
+    führen (Vorsicht: Klettverschlussband).}
+    \item {\color{HelferB}\Abk{HWS}-Schiene \EE{am
+    Kinn anlegen}.}
+    \item {\color{HelferB}Fest schließen.}
+    
+Die Kinnspitze sollte ein kurzes Stück über Kante hinaus
+schauen (kein Durchrutschen), allerdings nicht allzu weit
+(falsch eingestellt).
+\end{enumerate}
+% \end{multicols}
+}{}{}{}{}
+
+% 
+This text tests the 
+\textit{italic},
+\textbf{bold} and
+\textit{\textbf{bold-italic}} shapes of the current sans font. \textsc{Small caps} may also be available.
+Ein Cheesy kostet €\,13,40 -- 1/2 Euro sollte man Trinkgeld geben.}
 
 % #######################################################################################################
 % #######################################################################################################
@@ -290,67 +604,518 @@ Die \emph{'Arbeitsgemeinschaft Arbeits- und
 
 
 
+\chapter{Design}
+
+\section{Schrift}
+
+Die Auswahl der richtigen Schrift für die AASS  war ein
+komplexes Unterfangen.Viele Faktoren gab es zu
+berücksichtigen: Lesbarkeit – gerade auch bei langen Texten
+–, Wirkung im Druck auf Papier sowie als Onlinepublikation
+auf Bildschirm und Pads, Design, sowie Zeichenumfang und
+Wirtschaftlichkeit.
+
+\subsubsection{Kurze Geschichte der Schriftentwicklung der
+AASS}
+
+{\setmainfont{Latin Modern Roman}\setsansfont{Latin Modern Sans}
+\subparagraph{Latin Modern}
+Die ersten Vorabversionen der AASS wurden mit der
+Schriftfamilie Latin Modern gesetzt. Diese ist im
+Lieferumfang aller gängigen und aktuellen
+Latex-Distributionen enthalten. Die Latin Modern Familie
+umfasst sowohl eine Sans-, als auch eine Serif-Schrift
+(Latin Modern Sans, Latin Modern Serif). Sie umfasst
+sämtliche wichtige Schriftschnitte (Regular, italic, bold,
+bold-italic), die Serif-Variante verfügt außerdem auch über
+Kapitälchen. Die Latin
+{\sffamily Modern Sans ist die dazu passende Sans-Variante.}
+Beide Schriften verfügen über eine sehr großen Zeichensatz, die Serif-Variante verfügt außerdem über
+ein umfangreiches Alphabet für mathematische Symbole und
+Operatoren, welche zur Zeichensetzung von Formeln optimal
+geeignet ist. Leider traten jedoch beim Druck immer wieder
+Probleme mit der Lesbarkeit auf, insbesondere umfasse dies
+Textpassagen, welchen grauer Schrift gesetzt wurden. Die
+zierlichen Glyphen bzw. die zum Teil dünnen Strichstärken
+machen die Schrift anfällig gegenüber einer schlechten
+Druckqualität. Wir begannen daher, uns nach Alternativen
+umzusehen.
 
 
+Subjektive Einschätzung: die Schrift ist ansich schön,
+jedoch zum Stil der Publikation eigentlich nicht passend.
+Außerdem finde ich, dass die Lesbarkeit hinsichtlich der
+Flüssigkeit nicht optimal ist.}
 
 
+\subparagraph{Bitstream Charter}
 
+{%
+\usefont{T1}{bch}{m}{n}\selectfont
+Als Alternative bot sich nun die Schriftfamilie Stream
+Charter an. Dies ist eine sehr rief-Schrift, welche für eine
+zu erwartende schlechte Druckqualität optimiert wurde.
+Dementsprechend bleibt sie auch bei Verwendung von
+schlechten Druckern oder weniger geeignetem Papier gut
+lesbar. Auch am Bildschirm bzw. auf Pads ist sie gut lesbar.
+Trotz der Klarheit der Glyphen erscheint jedoch die
+Lesbarkeit hinsichtlich der Flüssigkeit belangen
+Textpassagen nicht optimal. Subjektiv empfunden, denke ich,
+dass man bei längeren Textpassagen nicht gut in den Text
+„hinein kommt“.
 
+Anfänglich wurde die Bitstream Charter noch mit der Latin
+Modern Sans kombiniert. Aufgrund einer Kooperation mit dem
+Arbeiter-Samariter-Bund Österreichs wurde als zweite
+Variante eine speziell für den Samariterbund angepasste
+Variante der {\AASS} geplant und umgesetzt. Diese
+orientierte sich an den Corporate Identity-Richtlinien des ASB. Diese
+sehen unter anderem eine Verwendung der Schriftart PT Sans
+vor. Dementsprechend wurde diese Schriftart in der Variante
+des ASB (Variante zwei) als Displayschrift und auch als
+Brotschrift verwendet. Beim experimentieren mit dieser
+Schrift gefiel sofort die Operation sowie die eigentlichen
+Glyphen. Die PT Sans bringt nicht nur die Standard
+Schriftschnitte mit, sie verfügt auch über eine schön
+anzusehen der Condensed Variante, welche sich besonders für
+Spaltentexte (Randspalte) und für abgehobene Aussagen, wie
+sie zum Beispiel für Fazit-Texte oder Kabel-Texte verwendet
+wird. Im Jänner 2013 wurde die erste Ausgabe der AASS ALS
+Onlinepublikation veröffentlicht. Dabei wurde die Bitstream
+Charter als Brotschrift, und die geht es aus als
+Displayschrift verwendet.
 
+\minisec{Test}
 
+{}
+Der braune Hund springt durch den faulen Fisch.
 
+{\sffamily Der braune Hund springt durch den faulen Fisch.}
 
+}
 
+\subparagraph{Linux Libertine / PT Sans}
+Im Verlauf des Jahres der 2013 wurde das Design und Layout
+der {\AASS} wiederholt radikal umgestellt. So verschwanden
+zum Beispiel der Hand Boxen und wurden gegen eine durchgehend
+farbige Randspalte ersetzt. Im Zuge dieses Re-Designs wird
+nun auch nach der optimalen, zum Geiste Publikation
+passenden Schriftart gesucht. Das Augenmerk viel auf die
+Schriftart Linux Libertine, eine Buchschirft im Stil des
+19. Jahrhunderts. Hinter der Schriftart steht ein junges,
+aktives Non-Profit-Projekt. Die Schrift liegt im OTF-Format
+vor, verfügt über alle wichtigen Schnitte und über
+Kapitälschen, der Zeichensatz ist umfangreich. 
 
+\subsection{Varianten}
+Folgende Varianten sind nun
+die Diskussion:
 
-
-
-
-% \clearpage
-% \thispagestyle{empty}
-% \sffamily
+\clearpage
+{\usefont{T1}{bch}{m}{n}\selectfont
+\subsubsection{Variante \enquote*{Bitstream Charter / PT
+Sans}}
 % 
-% {\marginline{\flushright{\scalefont{5}\AASS}}\sffamily\Large{\color{ubuntured}%
-% \noindent Arbeits- und Ausbildungsstandards}\\ 
-% {\color{darkBlue}für den
-% Sanitätsdienst}}
-% 
-% \noindent\vspace{\baselineskip}
-% 
-% \DocVersion\\
-% \DocVersionInfo
-% 
-% \parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
-% Das vorliegende Werk ist das (Zwischen-)Ergebnis einer seit mehr als zwei Jahren
-% andauernden Arbeit. Oft werden wir gefragt \Speech{"`Wann wird Euer Buch fertig
-% sein?"'} Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
-% ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
-% und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
-% leisten könnte, still zu stehen.
-% 
-% Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
-% bereits breitgetretener Pfade darzustellen, und sowohl eine Unterlage für die
-% Ausbildung, als auch ein Hilfsmittel für die Praxis zu schaffen.  Besonderen
-% Wert haben wir dabei nicht nur auf die Praxis, sondern auch -- heutzutage nicht
-% mehr ganz modern -- auf das Hintergrundwissen und relevante Randbereiche gelegt.
-% Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
-% wieder veraltet ist, bildet dieses Fundament die Chance für eine
-% langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
-% (anstatt strikten, regel\E{gebundenen} Handelns). 
-% 
-% In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
-% Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
-% österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
-% Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
-% schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
-% einem Jahr als Lern- und Ausbildungsunterlage bewähren.
-% 
-% \begin{labeling}[:]{mmmmm}\ttfamily
-%   \item[APID] ---
-%   \item[ISBN] ---
-%   \item[DOI] ---
-% \end{labeling}
+% Eine Weiterführung des bisherigen Konzepts wäre möglich.
+% Dafür spricht die gute Lesbarkeit der Bitstream Charter auf
+% dem Bildschirm und auf Pads.
 
-  
+\testtext}
+{\setmainfont[
+Path=./fonts/,
+Ligatures=TeX,
+ItalicFont     = CharisSIL-Italic.ttf ,
+BoldFont       = CharisSIL-Bold.ttf ,
+BoldItalicFont = CharisSIL-BoldItalic.ttf ,
+Scale=1,
+]{CharisSIL-Regular.ttf}
+\subsubsection{Variante Charis SIL /
+PT Sans}
+% Die Charis SIL ist ein modifizierter Abkömmling
+% der Bitstream Charter.:
+% 
+% {\color{DefaultB}Welcome to the Charis SIL font package.
+% Charis is similar to Bitstream Charter, one of the first fonts designed
+% specifically for laser printers. It is highly readable and
+% holds up well in less-than-ideal reproduction
+% environments. It also has a full set of styles - regular,
+% italic, bold, bold italic - and so is more useful in
+% general publishing than Doulos SIL. Charis is a serif,
+% proportionally-spaced font optimized for readability in
+% long printed documents.}
+
+\testtext}
+
+
+
+\clearpage
+{\setmainfont[
+Ligatures=TeX,
+Path=./fonts/,
+ItalicFont     = DejaVuSerif-Italic.ttf ,
+BoldFont       = DejaVuSerif-Bold.ttf ,
+BoldItalicFont = DejaVuSerif-BoldItalic.ttf ,
+Scale=0.90,
+]{DejaVuSerif.ttf}
+\subsubsection{Variante \enquote*{Dejavu Serif/PT Sans}}
+% 
+% Die Dejavu Serif ist eine Eugyptienne. Sie wirkt sehr
+% reizvoll am Bildschirm, im Ausdruck jedoch ist der Lesefluss
+% stark beeinträchtigt. Diese Variante erscheint
+% (leider) nicht erstrebenswert.
+
+\testtext
+
+}
+
+\clearpage
+{\setmainfont[
+Ligatures=TeX,
+Path=./fonts/,
+ItalicFont     = DroidSerif-Italic.ttf ,
+BoldFont       = DroidSerif-Bold.ttf ,
+BoldItalicFont = DroidSerif-BoldItalic.ttf ,
+Scale=0.90,
+]{DroidSerif.ttf}
+\subsubsection{Variante \enquote*{Droid Serif}}
+
+\testtext
+
+}
+
+
+\clearpage
+{\setmainfont[
+Ligatures=TeX,
+RawFeature=+onum,
+Path=./fonts/,
+ItalicFont     = GentiumPlus-Italic ,
+BoldFont       = GentiumBasic-Bold,
+BoldItalicFont = GentiumBasic-BoldItalic ,
+]{GentiumPlus-Regular}
+\subsubsection{Variante \enquote*{Gentium/PT Sans}}
+% 
+% Die Gentium ist eine neue Schrift, welche derzeit jedoch
+% keinen bold-Schnitt besitzt. (Es existieren jedoch die
+% Gentium Basic, welche die erforderlichen Schnitte besitzt,
+% deren Zeichenumfang jedoch nicht so groß ist wie die der
+% Stammvariante. Außerdem unterstützt die Basic-Variante kein
+% Kerning!)
+% 
+% Subjektiv: die Gentium wirkt auf der Seite etwas unruhig
+% und erfüllt die entsprechenden Erwartungen hinsichtlich
+% flüssiger Lesbarkeit eher nicht.
+
+\testtext
+}
+
+
+\clearpage
+{\setmainfont[
+Ligatures=TeX,
+RawFeature=+zero,
+ItalicFont     = LinLibertine_RI.otf ,
+BoldFont       = LinLibertine_RZ.otf ,
+BoldItalicFont = LinLibertine_RZI.otf ,
+% Scale=1.025,
+]{LinLibertine_R.otf}
+\subsubsection{Variante
+\enquote*{Linux Libertine/PT Sans}}
+
+% Die Linux Libertine entspringt einem rezenten Projekt,
+% welches sich der Neuanschaffung einer Schriftart mit einem
+% großen Zeichensatz zum Ziel gesetzt hat. Sie hatten
+% Charakter einer Buchschrift des 19. Jahrhunderts. Sie
+% verfügt über die Standardschnitte sowie über Kapitälchen.
+% Sie ist sehr platzsparend.
+% 
+% Der umfangreiche Zeichensatz erlaubt auch die Verwendung von
+% in der Schrift definierten
+% Symbolen.
+
+{\testtext}}
+
+
+
+{%
+\setmainfont[
+Ligatures=TeX,
+RawFeature=+onum,
+Path=./fonts-restricted/,
+ItalicFont     = MinionPro-Italic ,
+BoldFont       = MinionPro-Semibold,
+BoldItalicFont = MinionPro-SemiboldItalic ,
+]{MinionPro-Regular}
+\subsubsection{Variante \enquote*{Minion}}
+
+\testtext
+}
+
+
+\clearpage
+{%
+\setmainfont[
+Ligatures=TeX,
+RawFeature=+onum,
+Path=./fonts/,
+ItalicFont     = STIXGeneral-Italic ,
+BoldFont       = STIXGeneral-Bold,
+BoldItalicFont = STIXGeneral-BoldItalic ,
+]{STIXGeneral-Regular}
+\subsubsection{Variante \enquote*{STIX}}
+
+\testtext
+}
+
+
+\clearpage
+{%
+\setmainfont[
+Ligatures=TeX,
+RawFeature=+onum,
+Path=./fonts-restricted/,
+ItalicFont     = ArnoPro-Italic ,
+BoldFont       = ArnoPro-Semibold,
+BoldItalicFont = ArnoPro-SemiboldItalic ,
+]{ArnoPro-Regular}
+\subsubsection{Variante \enquote*{Arno}}
+
+\testtext
+}
+
+\clearpage
+\subsubsection{Variante \enquote*{Etwas anderes}}
+
+Keine der oben erwähnten Varianten erscheint als optimal für
+unser Buch. Entweder ist die Lesbarkeit auf Pads eher
+eingeschränkt, oder das Schriftbild ist nicht konsistent mit
+dem Wesen der AASS.
+
+
+\subsection{Anforderungen}
+
+Die Anforderungen an die Schriften sind umfangreich. Die
+AASS dient einerseits als Referenzwerk, andererseits aber
+auch natürlich als Lehrwerk so dass sowohl ein rasches
+Auffinden von Themen und Begriffen, als auch das flüssige
+Lesen auch längerer Textpassagen mehrere wesentliche
+Prioritäten darstellen. Weiters gibt es in dem Werk einige
+unterschiedliche Formatierungen bzw. Layout-mäßige
+Besonderheiten:
+
+Die Randspalte, welche im wesentlichen eine kurz
+Zusammenfassung dessen darstellt, was in der betreffenden
+Textspalte ausgesagt wird (ähnlich einer PowerPoint-Folie),
+muss sich deutlich von der Textspalte unterscheiden.
+
+Die hervorgehobenen Aussagetexte (Fazit, Cave) sollen sich
+auch vom Brottext abgegeben, jedoch von den Proportionen
+sich gut in die Textspalte einfügen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section{Schema \enquote{Fließtext und Randspalte}}
+
+Die Gestaltungsrichtlinien der AASS sind komplex und
+haben sich über die Jahre entwickelt. Sie folgt einer --
+jedoch noch nicht endgültig fixierten -- Systematik. Im
+Folgenden seien die stilistischen Elemente erläutert.
+
+Schon von Anfang des Projektes an verfolgten wir die
+Strategie, ein \enquote*{duales} Werk zu schaffen,
+d.\,h. einerseits eine Fließtextspalte zu
+schaffen, ergänzt um eine Randspalte, in welcher sich eine
+Kurzfassung des Inhaltes der Textspalte findet. 
+Theoretisch soll es für den Leser möglich sein, alle
+wichtigen Informationen nur nach Lesen der Randspalte
+zu erhalten. Der Spaltentext soll möglich kurz
+gefasst, stichwortartig ausgeführt sein -- ähnlich den Punkten
+einer Präsentationsfolie. Für die Zukunft ist geplant,
+anhand dieser Kurzzusammenfassung (Randspalten-Texte,
+\enquote*{Slide}-Texte) eine automatisierte
+Erstellung von Präsentationsfolien zu
+ermöglichen. 
+
+Im Laufe der Entwicklung hat sich 
+gezeigt, dass die Erstellung der Randspaltentexte mitunter der
+Erstellung des eigentlichen Fließtextes hinterher hinkt. In
+diesen Fällen wurde ein Symbol auserkoren (\SymbolText), welches andeutet, dass die
+Aussage der Randspalte in der Textspalte zu finden ist.
+
+
+\Layout{2}
+{Abgehobene Aussagen}
+{Im Text finden sich regelmäßig abgehobene Aussagen. Diese
+stellen entweder Zusammenfassungen (Fazit-Texte) oder
+spezielle Warnhinweise (Cave-Texte) dar. Die Textpassagen
+sind eingerückt, und in einer anderen Schriftart (Sans Serif Condensed) formatiert. Eine Sammlung sämtlicher Fazit
+Texte befindet sich an entsprechender Stelle im Referenzteil
+des Buches.}
+{}
+{}
+{}
+{}
+
+
+
+
+
+
+
+\Layout{2}
+{Textauszeichnungen:  Allgemein}
+{Im Werk wird gegenwärtig zwischen drei verschiedenen Stärken
+der Betonung unterschieden:
+
+\begin{itemize}
+  \item \StepHeading{Schwache Betonung}: schwach betonte Aussagen kommen häufig im
+  Textverlauf vor. Sie sollen durch passive Hervorhebungen
+  ausgezeichnet werden (derzeit Kursivschrift). Ein Problem
+  diesbezüglich stellt die derzeit verwendete Sans Serif
+  Condensed Familie (PT Sans Condensed) dar, da sie keinen
+  Kursivschnitt besitzt.
+  \item \StepHeading{Starke Hervorhebung}: die starke Hervorhebung soll deutlich
+  weniger oft zum Einsatz kommen und nur wesentliche Aussagen
+  und Schlüsselbegriffe hervorheben. Sie wird durch eine aktive Hervorhebung ausgezeichnet (gegenwärtig
+  bold).
+  \item \StepHeading{Sehr starke Formatierung}: sehr starke Formatierungen sollen
+  nur sehr selten (einmal pro maximal fünf Seiten) vorkommen
+  und wirklich kritische Textpassagen bzw. Texte hervorheben.
+  Klassische Anwendungsfall wäre die Unterscheidung vom \enquote*{ein}
+  und \enquote*{kein}.
+  \item \StepHeading{Cave}: besondere Warnhinweise im Fließtext werden durch
+  Cave-Formatierung in einer entsprechenden Farbe
+  hervorgehoben. Sie ist nur Warnhinweisen vorbehalten und soll
+  nicht für normalen Text verwendet werden. Gegenwärtig ist
+  die Formatierung des Cave-Textes eine bold-Schrift in roter
+  Farbe.
+\end{itemize}
+
+}
+{}
+{}
+{}
+{}
+
+
+
+
+\Layout{2}
+{Textauszeichnungen: Fachbegriffe}
+{In Anlehnung zu dem allgemeinen Textauszeichnungen gibt es
+eigene Textauszeichnungsbefehle, welche Fachbegriffe
+kennzeichnen können.
+
+\begin{itemize}
+  \item \EE{Terminus}: die  Terminus-Formatierung
+  kommt bei einem Begriff zur Anwendung, welcher an dieser Stelle
+  ausführlich erklärt wird. Die
+  gegenwärtige Formatierung entspricht einer starken Betonung
+  mit einem Farbwechsel in die Grundfarbe.
+  \item \EE{Starker Index}: die Formatierung eines starken
+  Index erfolgt analog zu der Formatierung einer starken Betonung, jedoch
+  wird hier ein Indexeintrag erstellt.
+  \item \EE{Schwacher Index}: ein schwacher Indexeintrag
+  verhält sich analog zu der schwachen Betonung und wird auch entsprechend
+  formatiert. Auch hier erfolgt ein Indexeintrag.
+  \item \EE{Inkognito-Index}: ein Inkognito Index Eintrag
+  wird nicht speziell ausgezeichnet, es erfolgt jedoch ein Eintrag in den
+  Index.
+\end{itemize}
+}
+{}
+{}
+{}
+{}
+
+
+
+
+
+
+\Layout{2}
+{Spezielle Formatierungen}
+{%
+\begin{itemize}
+  \item \StepHeading{Sperrung}: die Sperrung kommt nicht planmäßig im Werk vor,
+  dennoch kann sie an manchen Stellen zu besonderen Betonung
+  im Textfluss eingesetzt werden. Die Verwendung ist derzeit
+  noch experimentell.
+  \item \StepHeading{Unterstreichung}: die Unterstreichung soll eher zurückhaltend
+  angewendet werden, sie kann dort eingesetzt
+  werden, wo bei eine Schriftart bestimmte für die
+  Auszeichnung erforderliche Schnitte fehlen. Ebenso kann die
+  Unterstreichung zu besonderen Hervorhebung einzelner Silben
+  (ein – kein, um-, \ldots) verwendet werden. Derzeit ist die
+  Verwendung noch nicht einheitlich geregelt, und soll nur
+  sehr zurückhaltend erfolgen.
+\end{itemize}}
+{}
+{}
+{}
+{}
+
+
+
+
+
+
+\subsubsection{Spezielle Situationen}
+
+
+
+
+\Layout{2}
+{Verhältnis von Serif- und Sans-Serif-Schriften}
+{Grundsätzlich werden dem Brottext bzw. Fließtext
+\E{Serif-Schriften} eingesetzt. Sans-Schriften
+(Grotesk-Schriften) sollen überall dort eingesetzt werden,
+wo \E{Meta-Information} vermittelt wird. Dies umfasst:
+Randspaltentexte, Überschriften, Tabellen, Beschriftungen in Grafiken, Fazit-Texte, Cave-Texte, \ldots
+
+Ebenso sollen Grotesk-Schriften bei \E{Überschriften} und am
+stellen, welche \E{Display-Charakter} besitzen, eingesetzt
+werden. }
+{}
+{}
+{}
+{}
+
+
+
+
+\Layout{2}
+{Tabellen}
+{Tabellen werden in einer Grotesk-Schrift gesetzt. Die
+Tabellenüberschriften bzw. -unterüberschriften werden
+gesondert hervorgehoben: Tabellenüberschriften sind fett
+und in der Grundfarbe ausgezeichnet, Tabellenunterschriften
+bold und Textfarbe. }
+{}
+{}
+{}
+{}
+
+
+
+
+
+
+
 % \end{multicols}
 \end{document}

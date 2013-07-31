@@ -13,6 +13,8 @@ Beides sind wichtige Basismaßnahmen um eine (Verdachts-)
 Diagnose erarbeiten zu können. Das Patientengespräch ist
 außerdem ein wichtiger Bestandteil der \E{psychischen
 Betreuung}.
+
+
 }
 {%
 \begin{description}
@@ -34,6 +36,25 @@ Betreuung}.
 % 
 % }
 % \end{WidePar}
+
+\protect{\begin{verbatim}
+ ________________________________________
+/ You mentioned your name as if I should \
+| recognize it, but beyond the obvious   |
+| facts that you are a bachelor, a       |
+| solicitor, a freemason, and an         |
+| asthmatic, I know nothing whatever     |
+| about you.                             |
+|                                        |
+| -- Sherlock Holmes, "The Norwood       |
+\ Builder"                               /
+ ----------------------------------------
+       \   ,__,
+        \  (oo)____
+           (__)    )\
+              ||--|| *
+
+\end{verbatim}}
 
 \clearpage
 % \Layout{0}{\TxQuerverweise}
@@ -275,7 +296,7 @@ Grundsätzlich unterscheidet man \EE{offene} und
     \item Offene Fragen
     \item Geschlossene Fragen
     \item Gezielte Fragen
-    \item Suggestivfragen $\skull$
+    \item Suggestivfragen 
 \end{itemize}
 }{}{}{}
 
@@ -386,10 +407,10 @@ wichtige Hilfsmittel.
 {xkcd.com, CC-BY-NC-2.5}
 
 
-\subsection{Struktur durch \enquote*{SAMPLE}}
-\index{SAMPLE}\index{S-KAMEL}
+\subsection{Struktur durch \enquote*{SAMPLER}}
+\index{SAMPLER}\index{S-KAMEL}
 
-\Layout{0}{SAMPLE}{%
+\Layout{0}{\TxSAMPLER}{%
 Bei einem Notfalleinsatz soll das Anamnesegespräch
 gleichzeitig alle wichtigen Informationen zu Tage fördern,
 andererseits aber effizient und zeitsparend durchgeführt
@@ -406,10 +427,11 @@ enthält es die folgenden wichtigen Punkte:
     \item \EE{\color{DefaultA}L}etzte \ldots
     \item \EE{\color{DefaultA}E}reignisse vor
     Notfalleintritt
+    \item \EE{\color{DefaultA}R}isikofaktoren
 \end{itemize}
 
 In Anlehnung an die Anfangsbuchstaben wird dieses
-Abfrageschema \T{SAMPLE}\footnote{Sample \Lang{engl.}:
+Abfrageschema \T{SAMPLER}\footnote{Sample \Lang{engl.}:
 Probe}\footnote{Manchmal wird dieses Schema 
 \I{S-KAMEL} genannt, für Symptome, Krankheiten, Allergien,
 Medikamente, Ereignisse und Letztes.} bezeichnet.
@@ -428,13 +450,14 @@ Fragen je nach Situation abweichen.
     \item \EE{\color{DefaultA}L}etzte \ldots
     \item \EE{\color{DefaultA}E}reignisse vor
     Notfalleintritt
+    \item \EE{\color{DefaultA}R}isikofaktoren
 \end{itemize}
 }{}{}{}
 
 
 
 
-\Layout{2}{Symptome und Schmerzen}{%
+\Layout{0}{Symptome und Schmerzen}{%
 \index{Schmerz}Die Einstiegsfrage \Speech{\enquote{Was
 kann ich für Sie tun?}} weist oft
 bereits auf das Haupt- bzw. Leitsymptom hin. Ist dies
@@ -490,25 +513,49 @@ werden, hier am Beispiel Schmerzen:
   %     einzustufen.
   }
 \end{itemize}
-Diese
+\Z{Diese
 Fragenabfolge wird in Anlehnung auf die Benennung der
-EKG-Zacken als \T{OPQRST} bezeichnet: Onset
+EKG-Zacken als \T{OPQRST} bezeichnet\ZFootnote{\I{OPQRST}: Onset
 (Geschehnisse zum Zeitpunkt des Auftretens), Provocation or
 Palliation (Was macht es besser bzw. schlechter), Quality (Schmerzqualität,
 -art), Region and Radiation (Lokalisation und
 Ausstrahlung), Severity (Stärke), Time (zeitlicher
-Verlauf)
+Verlauf)}}.
 
 }{
+% \begin{itemize}
+%   \item Wo?
+%   \item Ausstrahlung?
+%   \item Seit wann? Wie lange schon?
+%   \item Plötzlicher oder langsamer Beginn?
+%   \item Verlauf?
+%   \item Wie?
+%   \item Wie stark?
+%   \item Was provoziert den Schmerz?
+% \end{itemize}
+% 
+\TabHeading{OPQRST}
+
 \begin{itemize}
-  \item Wo?
-  \item Ausstrahlung?
-  \item Seit wann? Wie lange schon?
-  \item Plötzlicher oder langsamer Beginn?
-  \item Verlauf?
-  \item Wie?
-  \item Wie stark?
-  \item Was provoziert den Schmerz?
+  \item \EE{Lokalisation}: \Speech{\enquote{Wo sind die
+  Schmerzen?}}
+  \item
+  \EE{Qualität}: \Speech{\enquote{Wie ist der Schmerz? Bohrend,
+  stechend, brennend, ziehend, krampfartig, auf- und
+  abschwellend?}}
+  \item \EE{Ausstrahlung}: \Speech{\enquote{Strahlt der Schmerz
+  irgendwohin aus?}}
+  \item \EE{Zeitdauer / Beginn}: \Speech{\enquote{Seit
+  wann haben Sie die Schmerzen? Wie lange haben Sie die Schmerzen schon?
+  Haben Sie so einen Schmerz schon einmal gehabt? Haben die
+  Schmerzen plötzlich oder langsam eingesetzt?}}
+  \item \EE{Geschehnisse zum Zeitpunkt des Auftretens}:
+  \Speech{\enquote{Was haben Sie gemacht als es begonnen
+  hat?}}
+  \item \EE{Provokation / Palliation}:
+  \Speech{\enquote{Was macht den Schmerz besser oder schlechter?}}
+  \item \EE{Stärke}: \Speech{\enquote{Wie stark ist der
+  Schmerz?}}
 \end{itemize}
 }{}{}{}
 
@@ -774,6 +821,48 @@ Angehörige oder Zeugen befragen:
 \end{itemize}
 }{
 
+}{}{}{}
+
+\Layout{0}{Risikofaktoren}{%
+Viele Erkrankungen werden durch das Vorhandensein von
+Risikofaktoren begünstigt.
+Das Vorliegen von Riskofaktoren bedeutet natürlich nicht,
+dass eine bestimme Erkrankung vorliegt, die Kenntnis über
+Risikofaktoren kann aber in der Diagnosefindung hilfreich
+sein und das Gesamtbild des Patienten vervollständigen.
+Beispiele für Riskofaktoren wären:
+\begin{itemize}
+  \item Alter
+  \item Geschlecht
+  \item Immobilisierung, Bettlägrigkeit (Thrombosen,
+  Lungenembolie, Pneumonie, \ldots)
+  \item Rauchen (Lungenkrebs, COPD, Lungenembolie, \ldots)
+  \item Diabetes mellitus (Herz-Kreislauf-Erkrankungen:
+  Koronare Herzkrankheit, Herzinfarkt, Schlaganfall,
+  periphere arterielle Verschlusskrankheit (pAVK),
+  Wundheilungsstörungen, \ldots; Niereninsuffizienz, \ldots)
+  \item Arterielle Hypertonie (Herz-Kreislauf-Erkrankungen, s.\,o.)
+  \item Hormonelle Verhütung (\enquote*{Pille}; Lungenembolie, \ldots)
+\end{itemize}
+Die Frage nach Risikofaktoren ist abhängig vom Einzelfall,
+oft sind wichtige Risikofaktoren auch ohne Nachfragen
+erkennbar (Bettlägrigkeit, Alter, Geschlecht \ldots). Es ist
+wichtig, sich die gefundenen Riskofaktoren bei der Bewertung
+des Patienten zu vergegenwärtigen.
+}{
+\begin{itemize}
+  \item Begünstigen Erkrankungen
+  \item Z.\,B.:
+  \begin{itemize}
+    \item Alter
+    \item Geschlecht
+    \item Immobilisierung, Bettlägrigkeit
+    \item Rauchen
+    \item Diabetes mellitus
+    \item Arterielle Hypertonie
+    \item Hormonelle Verhütung
+  \end{itemize}
+\end{itemize}
 }{}{}{}
 
 

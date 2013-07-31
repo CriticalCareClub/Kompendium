@@ -17,17 +17,29 @@ toc=flat,
 ]{scrbook}
 \setlength{\parindent}{15pt}
 
+\usepackage{luatextra}
+\usepackage{fontspec}
 
-\usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}	% UTF-8 Schriftkodierung
+% % http://tex.stackexchange.com/questions/66949/command-nobreakspace-unavailable-when-switching-to-t1-encoding-under-xelatex/66951#66951
+% % Its xunicode which changes \nobreakspace: It maps the
+% % command to U+00A0. I would use either
+% % \DeclareTextCommand{\nobreakspace}{T1}{\leavevmode\nobreak\} or
+% % \DeclareTextCommandDefault{\nobreakspace}{\leavevmode\nobreak\ } 
+% % which would not destroy the xunicode declaration for EU1.
+% % Regarding microtype: There exist beta versions which works
+% % with xelatex:
+% % tlcontrib.metatex.org/cgi-bin/package.cgi/action=view/id=423
+% % – Ulrike Fischer
+\DeclareTextCommand{\nobreakspace}{T1}{\leavevmode\nobreak\ }
 
-\usepackage{etex}					% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
+% \usepackage{etex}					% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
 
-\usepackage[final]{graphicx} 		% Bilder-Support
+\usepackage{graphicx} 		% Bilder-Support
 									% Optionen für Bilder:
 									% [draft] .. Es werden nur Rahmen angezeigt
 									% [final] .. Es werden Bilder normal angezeigt
 									% [demo]  .. keine Bilder
-\usepackage{blindtext}
+% \usepackage{blindtext}
 
 % Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{./inputs/input-optkeys}		% optional --- Optionaler Text.
@@ -55,9 +67,15 @@ toc=flat,
 % 5: Punkte
 \newcommand{\MassnahmenMK}[5]{%
 \Layout{Massnahmen}
-{{\SignMassnahme} #1: #2}
-{{\color{Indigo}#4\par Siehe \FullPrettyRef{MK-#3}}}
-{\FullPrettyRef{MK-#3}}
+{{\SignMassnahme} {\color{ProceduresBoxBackground}#1:} {\color{ProceduresBase}#2}}
+{~
+\ProceduresTextFont\ProceduresTextStyle\begin{itemize}
+  \item \EE{Grundsätzlich:} #4
+  \item \EE{Maßnahmenkatalog:}
+  \FullPrettyRef{MK-#3}
+\end{itemize}
+}
+{\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\FullPrettyRef{MK-#3}}
 {}
 {}
 {}}
@@ -98,76 +116,76 @@ sortlocale=de,
 	Sofern dieser nicht Teil Ihrer Distribution ist, finden
 	Sie sie auch online unter
 	\url{http://www.aass.at/download}.}
+	
+	\newcommand{\textbfit}[1]{\textbf{\textit{#1}}}
+	\newcommand{\bibentry}[1]{\fullcite{#1}}
+	\newcommand{\ChapterBibliography}{\relax}
 % \opt{ORG-ASBOE}{\usepackage{asboe}}
 % \renewcommand{\FontTableBase}{\small\sffamily}
-\setkomafont{descriptionlabel}{\bfseries}
-\usepackage[markup=underlined,ulem=normalem]{changes}	
 
-\definecolor{AsboeRed}{cmyk}{0,1,0.8,0}
+% \usepackage[markup=underlined,ulem=normalem]{changes}	
 
 
-% \definecolor{DefaultRed}{named}{AsboeRed}
-% \definecolor{DefaultContrast}{named}{DefaultRed}
-% % Redefine ASBÖ-specific colors
-% \definecolor{LabelItem}{named}{AltBlueMiddle}
-% \definecolor{LabelItemBoxStandard}{named}{AltBlueDark}
-% % \definecolor{LabelItemBoxProcedures}{named}{BoxProcedures} % Definition nach BoxProcedures
-% \definecolor{Customized}{named}{AltBlueDark}
-% \definecolor{CustomizedBackground}{named}{AltBlueVeryLight}
-% % \definecolor{BoxStandard}{named}{AsboeGreenDeco}
-% % \definecolor{BoxStandardBackground}{named}{AsboeGreenDecoLight}
-% \definecolor{BoxStandard}{named}{AltBlueDark}
-% % \definecolor{BoxStandardBackground}{named}{CyanLight}
-% \definecolor{BoxStandardBackground}{named}{AltBlueVeryLight}
 
-% % \definecolor{BoxStandard}{named}{AsboeRed}
-% % \definecolor{BoxStandardBackground}{cmyk}{0,0.1,0.08,0}
-% \definecolor{BoxProcedures}{named}{Indigo}
-% \definecolor{LabelItemBoxProcedures}{named}{BoxProcedures} % Definition nachgeholt
-% \definecolor{BoxProceduresBackground}{named}{Lavender}
-% % \definecolor{NotesGrey}{named}{MuwGrey}
 
-%  http://tex.stackexchange.com/questions/89208/fancy-chapter-title-page 
+%  http://tex.stackexchange.com/questions/89208/fancy-chapter-title-page
 \usepackage{textpos}
 \def\ChapterCode{---}
 \DeclareFixedFont{\chapternumberfont}{T1}{ppl}{}{}{1.5in}
-\titleformat{\chapter}[display]{\Huge\bfseries\sffamily\color{white}}{
+\titleformat{\chapter}[display]{\FontSansCaptionFamily\bfseries\Huge\color{white}\raggedright}{
 \thispagestyle{empty}
 \begin{tikzpicture}[overlay, remember picture]
-        \path let \p1 = (current page.west), \p2 = (current page.east) in
-              node[minimum width=\x2-\x1, minimum height=5cm, rectangle, fill=AltBlueDark, anchor=north west, align=left, text width=\x2-\x1] at ($(current page.north west)$) {
-                \begin{textblock*}{5in}(\dimexpr\x2-4.5in,\dimexpr0.25\headheight-1in)
-                    \tikz \node [white,text width=2in, align=right, font=\sffamily] {{\normalsize [\ChapterCode]}\\[12pt] \raisebox{20pt}{{\large ~}} \raisebox{-12pt}{\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\scalefont{3}\thechapter}};
+        % Obere Leiste
+        \path let
+          \p1 = (current page.west),
+          \p2 = (current page.east) in
+              node[minimum width=\x2-\x1, minimum height=7cm, rectangle, fill=AltBlueDark, anchor=north west, align=left, text width=\x2-\x1] at ($(current page.north west)$) {
+                % Textblock mit ChapterCode
+                \begin{textblock*}{5in}(\dimexpr\x2-4.6in,\dimexpr0.25\headheight+.5cm)
+                    \tikz \node [AltBlueDark,text width=2in, align=right, font=\sffamily] {{\LARGE {\FontSansNarrowFamily[\ChapterCode]}}};
                 \end{textblock*}
-                \begin{textblock*}{5in}(\dimexpr\x2-9.4in,\dimexpr0.25\headheight-1.7in)
-                    \tikz \node [white,text width=2in, align=left, font=\sffamily] {{\Huge \AASSNegative ~ \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\normalsize}};
+                % Textblock mit Chapter-Nummer
+                \begin{textblock*}{5in}(\dimexpr\x2-4.6in,\dimexpr0.25\headheight-3.2cm)
+                    \tikz \node [white,text width=2in, align=right, font=\sffamily] {\raisebox{-12pt}{\FontSansNarrowFamily\mdseries\scalefont{3}\thechapter}};
+                \end{textblock*}
+                % Textblock mit AASS-Logo
+                \begin{textblock*}{5in}(\dimexpr\x2-9.4in,\dimexpr0.25\headheight-5.5cm)
+                    \tikz \node [white,text width=2in, align=left, font=\sffamily] {{\Huge \AASSNegative ~ \FontSansNarrowFamily\mdseries\normalsize}};
                 \end{textblock*}
               };
+        % untere Leiste
         \path let \p1 = (current page.west), \p2 = (current page.east) in
-              node[minimum width=\x2-\x1, minimum height=0.8in, rectangle, fill=AltBlueLight, anchor=south west, align=left, text width=\x2-\x1] at ($(current page.south west)$) {};
+              node[minimum width=\x2-\x1, minimum height=1cm, rectangle, fill=AltBlueLight, anchor=south west, align=left, text width=\x2-\x1] at ($(current page.south west)$) {};
 \end{tikzpicture}
 }{-1.0in}{}[\vspace*{1in}]
 
-\newcommand{\SymbolFindingNormal}{$\perp$}
-\newcommand{\SymbolFindingVariant}{$\sim$}
-% \newcommand{\SymbolPkuAuffaellig}{\lbend}
-\newcommand{\SymbolFindingPatho}{\textbf{$\times$}}
-\newenvironment{Findings}[1][]
-{%
-% \begin{tcolorbox}[
-% title={\flushleft{Befunde: #1}},
-% fonttitle=\sffamily\bfseries\small,fontupper=\sffamily\small,
-% left=2pt,right=2pt,
-% colframe=Beige,
-% colback=LightYellow,
-% % skin=beamer,
-% ]%
-\begin{labeling}{xx}}
-{\end{labeling}
-% \end{tcolorbox}
-}
 
-\newcommand{\FindingSpeech}[1]{\Speech{\color{MuwBlueDark}{#1}}}
+% % BACKUP
+% %  http://tex.stackexchange.com/questions/89208/fancy-chapter-title-page
+% \usepackage{textpos}
+% \def\ChapterCode{---}
+% \DeclareFixedFont{\chapternumberfont}{T1}{ppl}{}{}{1.5in}
+% \titleformat{\chapter}[display]{\Huge\bfseries\sffamily\color{white}}{
+% \thispagestyle{empty}
+% \begin{tikzpicture}[overlay, remember picture]
+%         % Obere Leiste
+%         \path let \p1 = (current page.west), \p2 = (current page.east) in
+%               node[minimum width=\x2-\x1, minimum height=5cm, rectangle, fill=AltBlueDark, anchor=north west, align=left, text width=\x2-\x1] at ($(current page.north west)$) {
+%                 % Textblock mit ChapterCode und Chapter-Nummer
+%                 \begin{textblock*}{5in}(\dimexpr\x2-4.5in,\dimexpr0.25\headheight-1in)
+%                     \tikz \node [white,text width=2in, align=right, font=\sffamily] {{\normalsize [\ChapterCode]}\\[12pt] \raisebox{20pt}{{\large ~}} \raisebox{-12pt}{\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\scalefont{3}\thechapter}};
+%                 \end{textblock*}
+%                 % Textblock mit AASS-Logo
+%                 \begin{textblock*}{5in}(\dimexpr\x2-9.4in,\dimexpr0.25\headheight-1.7in)
+%                     \tikz \node [white,text width=2in, align=left, font=\sffamily] {{\Huge \AASSNegative ~ \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\normalsize}};
+%                 \end{textblock*}
+%               };
+%         % untere Leiste
+%         \path let \p1 = (current page.west), \p2 = (current page.east) in
+%               node[minimum width=\x2-\x1, minimum height=0.8in, rectangle, fill=AltBlueLight, anchor=south west, align=left, text width=\x2-\x1] at ($(current page.south west)$) {};
+% \end{tikzpicture}
+% }{-1.0in}{}[\vspace*{1in}]
+
 
 % % % http://compgroups.net/comp.text.tex/making-a-cmyk-pdf/153995
 % 
@@ -206,6 +224,56 @@ sortlocale=de,
 %   /Info(CMYK UncoatedFOGRA29)
 %  >> ]
 % }
+\usepackage{datatool}
+
+\newcommand{\MYDATA}{}
+\newcommand{\ActionReset}
+{
+\def\ActionRow{1}
+\def\ActionTitle{Database error}
+\def\ActionShorttext{Database error}
+\def\ActionLabel{Database error}
+\def\ActionType{Database error}
+\def\ActionDifficulty{Database error}
+\def\ActionTarget{Database error}
+}
+\ActionReset
+% \renewcommand{\Commentary}[2][]{{\par\sffamily\begin{tiny}\noindent\textbf{Kommentar} \TabHeading{#1:} \protect{#2}\par\end{tiny}}}
+% \renewcommand{\Commentary}[2][]{\footnote{\textbf{Kommentar} \TabHeading{#1:} \protect{#2}}}
+
+\newcommand{\ProcedureTest}[1]{
+\DTLgetrowindex{\ActionRow}{procedures}{1}{#1}
+\DTLgetvalue{\ActionTitle}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{TITLE}}
+\DTLgetvalue{\ActionShorttext}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{SHORTTEXT}}
+\DTLgetvalue{\ActionLabel}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{LABEL}}
+\DTLgetvalue{\ActionType}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{TYPE}}
+\DTLgetvalue{\ActionTarget}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{TARGET}}
+%%%%%%%%%
+{\sffamily\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\color{DefaultA}
+\minisec{\ActionType: \ActionTitle} 
+
+
+\label{\ActionLabel}
+\begin{itemize}
+  \item \EE{Allgemein:} \ActionShorttext
+  \item \EE{Spezielle Maßnahmen:}
+  \input{./procedures/#1.tex}
+  \item \EE{Zuständige Fachabteilung bzw. Einheit:}
+  \ActionTarget
+\end{itemize}
+
+{\color{AltBlueLight}\tiny DatabaseObject: \textbf{#1}
+Letzte Änderung:
+\textbf{2013-01-01}\hrulefill\par}
+
+
+
+
+}
+\ActionReset
+}
+
+\newcommand{\RedFlag}{{\color{DefaultRed}\scriptsize{\VarFlag}\hspace{-0.5em}}}
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -219,6 +287,7 @@ sortlocale=de,
 \MultiColListStart{toc}{2}
 \MultiColListStart{lofazit}{2}
 \MultiColListStart{lomassnahmen}{2}
+\DTLloaddb[headers={ID,TYPE,LABEL,TITLE,SHORTTEXT,LONGTEXT,TARGET}]{procedures}{procedures.csv}
 % \biolinum
 \renewcommand{\itemhook}{%
 %   \setlength{\topsep}{0pt}%
@@ -278,7 +347,28 @@ bindingoffset=1.5cm}
 \input{./inputs/input-cover-front}
 
 \clearpage
-
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+    \node [shift={(-8 cm,-8cm)}]  at (current page.north east)
+        {%
+        \begin{tikzpicture}[remember picture, overlay]
+            \draw(0,0) rectangle (8,8);
+            \draw [fill=gray] (0,8) -- (8,8) -- (8,0) -- cycle ;
+            \path[coordinate]
+                \foreach \k in {1,...,4}{%
+                    (0 pt,8cm -\k *1.2cm) coordinate (d\k)} ;
+            \path[clip] (0,0) rectangle (8,8);
+            \foreach \k/\t in
+            {1/Name,2/Vorname,3/Kurs,4/DienstNr.}{%
+                \node[inner sep=0pt,rotate=-45,%
+                    right=0.5cm,minimum height=12pt](f\k) at (d\k) {\t};
+                \draw  (f\k.south east)-- (8cm -\k * 1.2cm,-6pt );
+            }
+        \end{tikzpicture}
+        };
+        % Draw a page border
+        \draw (current page.north west) rectangle (current page.south east);
+\end{tikzpicture}
 
 %%% uppertitleback
 
@@ -386,9 +476,95 @@ Standards ist, es gibt so viele, aus denen man auswählen kann.}
 
 \restoregeometry
 
+
+
+
+
+\begin{WidePar}\flushleft
+  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
+%   
+%   \noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme} gekennzeichnete
+% Referenzen finden sich im Maßnahmenkatalog (Version
+% \VarMkatalogVersion).
+\end{WidePar}
+\Layout{2}
+{Maßnahmenkatalog}
+{Konkrete Maßnahmen bzw. mit {\SignMassnahme}
+gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
+\VarMkatalogVersion).
+}
+{}
+{}
+{}
+{}
+
+\Layout{2}
+{Externe Teile}
+{Aus Kostengründen sind manchmal nicht
+alle Teile Bestandteil eines Drucks. Dies betrifft
+insbesonders Teile des Appendix wie z.\,B. das
+Literaturverzeichnis oder den Kommentarteil. Diese Teile
+sind online auf der {\AASS}-Projektseite im
+Download-Bereich verfügbar
+(\url{http://www.aass.at/cms/download/aass/}).
+
+}
+{}
+{}
+{}
+{}
+% {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
+
+%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
+\dominitoc[n]
+
+\begin{WidePar}
+  {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
+\end{WidePar}
+
+
+\Layout{2}
+{Maßnahmenkatalog}
+{Konkrete Maßnahmen bzw. mit {\SignMassnahme}
+gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
+\VarMkatalogVersion).
+}
+{}
+{}
+{}
+{}
+
+\Layout{2}
+{Externe Teile}
+{Aus Kostengründen sind manchmal nicht
+alle Teile Bestandteil eines Drucks. Dies betrifft
+insbesonders Teile des Appendix wie z.\,B. das
+Literaturverzeichnis oder den Kommentarteil. Diese Teile
+sind online auf der {\AASS}-Projektseite im
+Download-Bereich verfügbar
+(\url{http://www.aass.at/cms/download/aass/}).
+
+}
+{}
+{}
+{}
+{}
+
+
+\input{./inputs/input-Abkz}
+
 %\nocite{*} 
 % \layout
 % \pagediagram\pagedesign\paragraphdiagram\paragraphdesign\floatpagediagram\floatpagedesign\listdiagram\listdesign\footnotediagram\footnotedesign\tocdiagram\tocdesign
+\clearpage
+\input{./inputs/input-Impressum}
+
+\clearpage
+\input{./inputs/input-Credits}
+ 
+ 
+\input{./inputs/input-Lizenzen.tex}
+
 
 \clearpage
 \section{Vorwort}
@@ -475,140 +651,43 @@ Wohl des Kranken ist oberstes Gebot.}}.
 \end{flushright}
 
 
+% \libertineGlyph{Tux}
 
 
 \clearpage
-\input{./inputs/input-Impressum}
-
-\clearpage
-\input{./inputs/input-Credits}
-
-
-
-\input{./inputs/input-Abkz}
-
-\input{./inputs/input-Lizenzen.tex}
-
-\opt{STATUS-DRAFT}{
-\subsection*{Projektorthographie}
-
-\subsubsection*{Abkürzungen und Kurzwörter}
-
-\paragraph{Kurzwörter} (Abkürzungen, welche im allg. Sprachgebrauch in der
-Abkürzungsform ausgesprochen werden) werden entgegen der \Abk{DUDEN}-Empfehlung
-nicht kleingeschrieben, wenn es sich um Fachtermini handelt. 
-
-\paragraph{Verabreichungsarten}
-Verabreichnungsarten wie z.\,B. \enquote{i.\,v.} werden grundsätzlich als 
-Kapitälchen, ohne Abstand oder Punkte geschrieben. Zum Beispiel: \Abk{IV} (intravenös), \Abk{IM}
-(intramuskulär), \Abk{SL} (sublingual), \Abk{SC}(subkutan). Wenn dies in der
-Schriftart nicht möglich ist, wird die Schreibweise mit Punkten und halbem
-Abstand (Achtelgeviert, sofern möglich) gewählt; z.\,B.: {\ttfamily i.\,v.,
-i.\,m.}
-
-{\mdseries Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
-
-{\bfseries Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
-
-{\itshape Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
-
-{\bfseries\itshape Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung
-mMxX}
-
-{\scshape Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
-}
-
-\section{Benutzungshinweise}
-
-% \Layout{2}
-\paragraph{Maßnahmenkatalog}
-{Ergänzend zu diesem Lehrbuch existiert ein eigener
-Maßnahmenkatalog, in welchem die jeweiligen konkreten
-Maßnahmen zu finden sind. Referenzen mit dem Symbol
-{\SignMassnahme} beziehen sich auf diesen Katalog. Sofern
-nicht anders angegeben, beziehen sich die Angaben auf den 
-Maßnahmenkatalog in der \EE{Version \VarMkatalogVersion}.
-
-}
-{}
-{}
-{}
-{}
-
-% \Layout{2}
-\paragraph{Externe Teile}
-{Aus Kostengründen sind manchmal nicht
-alle Teile Bestandteil eines Drucks. Dies betrifft
-insbesonders Teile des Appendix wie z.\,B. das
-Literaturverzeichnis oder den Kommentarteil. Diese Teile
-sind online auf der {\AASS}-Projektseite im
-Download-Bereich verfügbar
-(\url{http://www.aass.at/cms/download/aass/}).
-
-}
-{}
-{}
-{}
-{}
-
-% \Layout{2}
-\paragraph{Im Text}{%
-\E{Betonte} Textteile sind kursiv, \EE{Besonders stark
-betonte} sind fett gedruckt. \T[noindex]{Fachbegriffe}, welche an
-dieser Stelle erklärt werden, sind ebenso fett gedruckt.
-\Z{Zusatzinformationen}, welche der Vollständigkeit halber
-niedergeschrieben sind, werden grau gedruckt: Sie dienen der
-zusätzlichen Informationen und stellen keinen inhaltlichen
-Schwerpunkt dar. 
-
-Ähnliches gilt für Fußnoten: Normale
-Fußnoten\footnote{Ich bin eine normale Fußnote.} beinhalten
-Hintergrundinformationen, die nicht uninteressant sind, aber
-den normalen Fließtext  unnötig aufblähen würden.
-Zusatzinfo-Fußnoten\ZFootnote{Ich bin eine
-Zusatz-Info-Fußnote.} werden grau gedruckt und beinhalten
-Hintergrundinformationen für besonders interessierte Leser.
-
-An manchen Stellen im Text befindet sich eine
-Kennzeichenungen wie z.\,B.
-\Commentary[Benutzungshinweise]{Ich bin ein
-Beispielkommentar aus dem Einleitungsteil.}. Dies ist ein
-Hinweis auf ein Kommentar im Anhang (Appendix).
-
-}{}{}{}{}
-
-\Layout{2}
-{Symbole}{%
-\begin{multicols}{2}
-\begin{labeling}{mmm}
-  
-  \item[\Ca{!}] Cave
-  \item[\SymbolDefinition] Definition
-  \item[\SignFigure] Abbildungen
-  \item[\SignFazit] Leitsätze
-  \item[\SignMassnahme] Maßnahmen, Referenzen beziehen
-  sich auf den Maßnahmenkatalog
-  \item[\SignTable] Tafeln
-  \item[\dsliterary] Literaturverweise
-\end{labeling}
-\end{multicols}
-}{}{}{}{}
-\ref{MK-apm} S.\,\pageref{MK-apm}
-
-% \FullPrettyRef{MK-m:standardmassnahmen-immer}
-
-
-\Layout{2}{Index}{%
-\begin{description}
-  \item[Zusammengesetzte Begriffe] Eigenschaftswort
-  Hauptwort \Sign{→} Hauptwort, Eigenschaftswort; \enquote{Begriffe,
-  zusammengesetzte}
-  \item[Umlaute] Ä, Ö, Ü \Sign{→} Ae, Oe, Ue
-  \item[Lateinische Begriffe] Lateinische Hauptwörter werden im Index groß geschrieben.
-\end{description}
-}{}{}{}{}
-
-\bigskip
+% 
+% 
+% \opt{STATUS-DRAFT}{
+% \subsection*{Projektorthographie}
+% 
+% \subsubsection*{Abkürzungen und Kurzwörter}
+% 
+% \paragraph{Kurzwörter} (Abkürzungen, welche im allg. Sprachgebrauch in der
+% Abkürzungsform ausgesprochen werden) werden entgegen der \Abk{DUDEN}-Empfehlung
+% nicht kleingeschrieben, wenn es sich um Fachtermini handelt. 
+% 
+% \paragraph{Verabreichungsarten}
+% Verabreichnungsarten wie z.\,B. \enquote{i.\,v.} werden grundsätzlich als 
+% Kapitälchen, ohne Abstand oder Punkte geschrieben. Zum Beispiel: \Abk{IV} (intravenös), \Abk{IM}
+% (intramuskulär), \Abk{SL} (sublingual), \Abk{SC}(subkutan). Wenn dies in der
+% Schriftart nicht möglich ist, wird die Schreibweise mit Punkten und halbem
+% Abstand (Achtelgeviert, sofern möglich) gewählt; z.\,B.: {\ttfamily i.\,v.,
+% i.\,m.}
+% 
+% {\mdseries Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
+% 
+% {\bfseries Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
+% 
+% {\itshape Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
+% 
+% {\bfseries\itshape Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung
+% mMxX}
+% 
+% {\scshape Donau-Tankschifffahrtsgesellschaft mit beschränkter Haftung mMxX}
+% }
+% 
+% 
+% \bigskip
 
 \begin{WidePar}
 {\Huge
@@ -638,128 +717,58 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 {\the\ThirdGrossWidth}
 {\the\ThirdNetWidth}}
 
-\section{Logo-Test}
+% \endnote{Test}
+
+% \section{Logo-Test}
+% 
+% 
+% \noindent{\Huge \usefont{T1}{lmss}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
+% 
+% \bigskip
+% 
+% \noindent{\Huge \usefont{T1}{lmss}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
+% 
+% \vspace{3\baselineskip}
+% 
+% \noindent{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
+%
+% \bigskip
+% 
+% \noindent{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
+% 
+% \bigskip
+% 
+% \noindent{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{White} AAS\color{AltBlueLight}S}
+% 
+% \vspace{3\baselineskip}
+% 
+% \noindent{\Huge \usefont{T1}{PTSans-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
+% 
+% \bigskip
+% 
+% \noindent{\Huge \usefont{T1}{PTSans-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
+% 
+% \vspace{3\baselineskip}
+% 
+% \noindent{\Huge \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
+% 
+% \bigskip
+% 
+% \noindent{\Huge \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
+% 
+% \vspace{3\baselineskip}
+% 
+% \noindent{\Huge \usefont{T1}{DIN-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
+% 
+% \bigskip
+% 
+% \noindent{\Huge \usefont{T1}{DIN-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
+% 
+% \vspace{3\baselineskip}
+% 
 
 
-\noindent{\Huge \usefont{T1}{lmss}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
 
-\bigskip
-
-\noindent{\Huge \usefont{T1}{lmss}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
-
-\vspace{3\baselineskip}
-
-\noindent{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
-
-\bigskip
-
-\noindent{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
-
-\bigskip
-
-\noindent{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{White} AAS\color{AltBlueLight}S}
-
-\vspace{3\baselineskip}
-
-\noindent{\Huge \usefont{T1}{PTSans-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
-
-\bigskip
-
-\noindent{\Huge \usefont{T1}{PTSans-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
-
-\vspace{3\baselineskip}
-
-\noindent{\Huge \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
-
-\bigskip
-
-\noindent{\Huge \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
-
-\vspace{3\baselineskip}
-
-\noindent{\Huge \usefont{T1}{DIN-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
-
-\bigskip
-
-\noindent{\Huge \usefont{T1}{DIN-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
-
-\vspace{3\baselineskip}
-
-Test {\usefont{T1}{fxb}{m}{n}\selectfont Test} {\biolinum
-Test}
-
-
-
-
-\begin{WidePar}\flushleft
-  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
-%   
-%   \noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme} gekennzeichnete
-% Referenzen finden sich im Maßnahmenkatalog (Version
-% \VarMkatalogVersion).
-\end{WidePar}
-\Layout{2}
-{Maßnahmenkatalog}
-{Konkrete Maßnahmen bzw. mit {\SignMassnahme}
-gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
-\VarMkatalogVersion).
-}
-{}
-{}
-{}
-{}
-
-\Layout{2}
-{Externe Teile}
-{Aus Kostengründen sind manchmal nicht
-alle Teile Bestandteil eines Drucks. Dies betrifft
-insbesonders Teile des Appendix wie z.\,B. das
-Literaturverzeichnis oder den Kommentarteil. Diese Teile
-sind online auf der {\AASS}-Projektseite im
-Download-Bereich verfügbar
-(\url{http://www.aass.at/cms/download/aass/}).
-
-}
-{}
-{}
-{}
-{}
-% {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
-
-%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
-\dominitoc[n]
-
-\begin{WidePar}
-  {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
-\end{WidePar}
-
-
-\Layout{2}
-{Maßnahmenkatalog}
-{Konkrete Maßnahmen bzw. mit {\SignMassnahme}
-gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
-\VarMkatalogVersion).
-}
-{}
-{}
-{}
-{}
-
-\Layout{2}
-{Externe Teile}
-{Aus Kostengründen sind manchmal nicht
-alle Teile Bestandteil eines Drucks. Dies betrifft
-insbesonders Teile des Appendix wie z.\,B. das
-Literaturverzeichnis oder den Kommentarteil. Diese Teile
-sind online auf der {\AASS}-Projektseite im
-Download-Bereich verfügbar
-(\url{http://www.aass.at/cms/download/aass/}).
-
-}
-{}
-{}
-{}
-{}
 
 % {\small\listoffigures}
 % 
@@ -769,7 +778,6 @@ Download-Bereich verfügbar
 \begin{WidePar}
 {\small\kern-2.ex\listof{fazit}{Merksätze}}
 \end{WidePar}
-
 
 % {\WideParBegin}
 \part{Allgemeiner Teil}
@@ -802,10 +810,10 @@ Download-Bereich verfügbar
 \include{./chapters/chapter-SAN}
 \include{./chapters/chapter-ASS}
 \include{./chapters/chapter-BLS}
-\include{./chapters/chapter-AUP}
 \include{./chapters/chapter-PSI}
 \include{./chapters/chapter-KHD}
 \include{./chapters/chapter-GEF}
+\include{./chapters/chapter-AUP}
 \include{./chapters/chapter-PAM}
 
 % {\WideParBegin}
@@ -862,6 +870,8 @@ Basisteil}
 
 \opt{STATUS-EXPERIMENTAL}{\chapter{Präklinische Narkose}\SectionUnderDevelopment} % STATUS-EXPERIMENTAL
 
+\include{./chapters/chapter-ADVANCED-Atemweg}
+
 % \include{./chapters/inc-RES-ende}
 
 \part{Lehrmaterialien}
@@ -877,20 +887,16 @@ Basisteil}
 % \pagenumbering[Appendix]{bychapter}
 
 
-\chapter{Glossar}
-
-\begin{description}
-  \item[bergen]
-  \item[retten]
-  \item[Sofortbehandlung]
-  \item[Sofortmaßnahmen, lebensrettende]
-\end{description}
-
 \include{./chapters/chapter-INT}
+
+\include{./chapters/chapter-GLO}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Kommentare
-\printnotes
+% \printnotes
+% \theendnotes
+% \printendnotes[description]
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Literaturverzeichnis

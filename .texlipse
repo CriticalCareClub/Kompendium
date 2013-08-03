@@ -1,5 +1,5 @@
 #TeXlipse project settings
-#Tue Apr 30 17:42:09 CEST 2013
+#Sat Aug 03 20:43:12 CEST 2013
 markTmpDer=true
 builderNum=2
 outputDir=Ausgabe/
@@ -7,8 +7,8 @@ makeIndSty=aass.ist
 bibrefDir=
 outputFormat=pdf
 tempDir=tmp
-mainTexFile=AASS-Reviewprotokoll-000042.tex
-outputFile=AASS-Reviewprotokoll-000042.pdf
+mainTexFile=AASS-Reviewprotokoll-000043.tex
+outputFile=AASS-Reviewprotokoll-000043.pdf
 langSpell=de
 markDer=true
-srcDir=Entwicklung
+srcDir=Entwicklung/

@@ -109,6 +109,21 @@ Sanitätsdienst}
 %\usepackage{lstdoc}
 \usepackage{listings}
 %\usepackage{textcomp}
+
+% ============================
+% EIGENE KOMMANDOS EMHOFER
+% alles andere ist zu mühsam!!!
+% ============================
+\newcommand{\jALT}{{\color{red}\sffamily\textbf{DELETED}\hrulefill\newline\newline}}
+\newcommand{\jALTende}{\newline{\color{red}\rule{\linewidth}{2pt}\newline}}
+\newcommand{\jNEU}{{\color{green}\sffamily\textbf{ADDED}\hrulefill\newline\newline}}
+\newcommand{\jNEUende}{\newline{\color{green}\rule{\linewidth}{3pt}\newline}}
+
+
+
+
+
+
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
 % BEGIN DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
@@ -804,6 +819,120 @@ meisten Gegenden nicht oder nur
 {Nur wenige Hubschrauber sind
 nachtflugtauglich, außerdem verbietet sich eine Landung
 abseits gesicherter Landeplätz in der Nacht.}
+\item  \Definition{\T{Verätzung}: Lokale Schädigung der
+ Oberfläche aufgrund einer irreversiblen Zerstörung (Denaturierung) von
+Eiweißstoffen. \added{\Z{\Lang{Lat.} \I{Cauterisatio} (\I{Cauteris.})}}}
+\item Unfallmechanismus:
+ \Layout{0}{Unfallmechanismus}{%
+ Eine rasche, überblicksmäßige Beurteilung des
+ Unfallgeschehens erfolgt bereits im Szenenüberblick bzw.
+ indirekt in der Ersteinschätzung des Patienten. Der
+  Unfallmechanismus kann dabei wichtige Hinweise
+ auf mögliche bzw. wahrscheinliche Verletzungen des Patienten
+ geben. Eine detaillierte Analyse des Unfallhergangs kann
+ durch die
+ Anamnese erfolgen. Zusätzlich kann das Unfallszenario
+ fotographiert werden. Primär müssen folgende Fragen geklärt
+ werden:
+ \begin{itemize}
+     \item \emph{Was ist passiert?}
+     \item \emph{Wie wurde der Patient verletzt?}
+ \end{itemize}
+ }{
+ \begin{itemize}
+   \item Was?
+   \item Wie?
+ \end{itemize}
+ }{}{}{}
+ 
+\added{\Fazit{Es ist sinvoll, nach Möglichkeit den Unfallmechanismus 
+mittels Fotos zu dokumentieren, um die Bilder der weiterbetreuenden 
+Stelle zeigen zu können. Dies kann helfen, um bei der klinischen 
+Versorgung des Patienten Prioritäten besser setzen zu können.}}
+
+\item TRA: div. Diagnosen hinzugefügt:
+
+Abschnitt Wunden:
+\added{\HeadingSub{\Z{\Lang{Lat.} \IX{Vulnus} (\I{Vuln.})}}}
+
+Frakturen:
+\added{\HeadingSub{\Lang{Syn.} \T[Fraktur]{Fraktur}\Z{, \Lang{lat.} \IX{Fractura} (\I{Fract.})}}
+}
+
+Verstauchung, Bänderzerrung und Bänderriss:
+\added{\HeadingSub{\Lang{Syn.} \T{Distorsion}, \Z{\Lang{lat.} \I{Distorsio} (\I{Dist.})}}
+
+\Definition{\T{Verstauchung} (\I{Distorsion}): 
+Zerrung bzw. Überdehnung des Kapsel-/ Bandapparates}
+}
+
+Luxation: \added{\HeadingSub{\Lang{Syn.} \T{Luxation}, \Z{\Lang{lat.} \I{Luxatio} (\I{Lux.})}}
+}
+
+Amputation: \added{\HeadingSub{\Lang{Lat.} \I{Amputatio} (\I{Amp.})}
+}
+
+\item TOD:
+
+\deleted{\Cave{Nobody is dead until warm and dead!}}
+
+\added{\Cave{Für unterkühlte Patienten gilt: 
+\Speech{\enquote{Nobody is dead until warm and dead!}}}}
+ 
+\deleted{Niemand wird für tot erklärt, bevor er nicht erwärmt
+wurde.}}
+
+\added{(Niemand wird für tot erklärt, bevor er nicht vorher erwärmt
+wurde.)}}
+
+\item Kapitel PAM:
+
+\jNEU
+\Layout{0}
+{\underline{Sonderfall:} Vorgezogene Strategie- und 
+Transportentscheidung bei absolut zeitkritischen Patienten}
+{%
+Bei \Ca{absolut zeitkritischen Patienten}, bei denen bereits
+die ABC-Einschätzung ergibt dass ein Transport nicht
+aufschiebbar ist, kann schon \Ca{nach dem Punkt C eine
+Strategie- und Transportentscheidung} (Spital,
+Notarzt-Rendez-vous, \ldots, vgl.
+\FullPrettyRef{topic:pam-strategie}) getroffen werden.
+Die Maßnahmen von D und E sollen dann, sofern möglich,
+während des Transportes erfolgen.
+Diese Einschätzung setzt jedoch ein hohes Maß an Erfahrung
+voraus und ist auch
+\EE{von regionalen Gegebenheiten abhängig!}
+
+Beispiele für ein solches Vorgehen wären z.\,B. nicht
+beherrschbare starke Blutungen oder geburtsunmögliche Lagen.}
+{
+\begin{itemize}
+  \item \Ca{Im Ausnahmefall schon nach dem Punkt C Strategie- und
+  Transportentscheidung}
+  \item Z.\,B. nicht beherrschbare starke 
+  Blutungen, geburtsunmögliche Lagen
+\end{itemize}
+}
+{}
+{}
+{}
+\jNEUende
+
+\item Kapitel PAM:
+
+\jALT
+ACHTUNG: Grobe Überarbeitung $\to$ Kapitel vergleichen! Siehe Anhang, S.
+\ref{appendix}!
+\jALTende
+
+\jNEU
+ACHTUNG: Grobe Überarbeitung $\to$ Kapitel vergleichen! Siehe Anhang, S.
+\ref{appendix}!
+\item 
+\jNEUende
+
+
 \item 
 \item 
 
@@ -834,12 +963,16 @@ abseits gesicherter Landeplätz in der Nacht.}
 \ListPause{enumerate}
 
 \chapter{Diskussion}
-
-% \section{Änderungswünsche}
+\item % \section{Änderungswünsche}
 
 \ListResume[\addcontentsline{toc}{section}{Änderungswünsche}Folgende
 Ändeurngen wurden angeregt]{enumerate}{Änderungswünsche}
 \end{enumerate}
+
+\appendix\label{appendix}
+\include{./chapters/chapter-PAM}
+
+
 
 
 

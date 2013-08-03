@@ -1,0 +1,252 @@
+\documentclass[
+ngerman,
+paper=a4,
+asymmetric,
+fontsize=10pt,
+headings=small,
+draft=false,
+% parskip=half,
+numbers=noenddot,
+% listof=totoc,         % verschiebt Minitoc/Hyperref
+% bibliography=totoc,   % verschiebt Minitoc/Hyperref
+bibtotocnumbered,
+% index=totoc,
+% noonelinecaption,
+footnotes=multiple,
+% toc=flat,
+]{scrreprt}
+\setlength{\parindent}{15pt}
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+% \usepackage[ngerman]{babel}
+\usepackage{etex}
+
+\usepackage[final]{graphicx} % Bilder-Support
+
+\input{./inputs/input-optkeys}
+\input{./inputs/input-preamble}
+\input{./inputs/input-hyphenation}
+\input{./inputs/input-headfoot-Reviewprotokoll.tex}
+
+\makeindex
+
+\usepackage[backend=bibtex8,
+babel=other,
+defernumbers=true,
+natbib,
+sorting=none,
+sortlocale=de,
+]{biblatex}
+
+%   \bibliography{AASS.bib}
+    \addbibresource{BiblioDB-Med-Books.bib}
+    \addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
+    \addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
+    \addbibresource{BiblioDB-Med-Links.bib}
+    \addbibresource{BiblioDB-Med-Misc.bib}
+    \renewcommand{\labelnamepunct}{\addcolon\space}
+    \DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
+    \DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+    \DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
+    % \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+    % 
+    % \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+    \DeclareFieldFormat{journaltitle}{\textsc{#1}}
+    \DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
+
+
+\newcommand{\Branch}[1]{\emph{#1}}
+
+
+\usepackage[markup=underlined,ulem=normalem]{changes}
+% \def\added{}
+% \def\deleted{}
+% \def\replaced{}
+
+\newcommand{\Neu}{\fontfamily{lmtt}\fontseries{lc}\selectfont\color{DarkGreen}}
+\newcommand{\ChangeHeading}[1]{\SlideHeading{#1}\addcontentsline{toc}{subsubsection}{#1}}
+
+% \begin{itemize}
+%   \item \TabHeading{Input}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Verantwortlicher}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Mitwirkende:}
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Output}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+% \end{itemize}
+
+\title{Vorläufiges Reviewprotokoll}
+\subtitle{für die Arbeits- und Ausbildungsstandards für den
+Sanitätsdienst}
+\subject{42. Review und Iteration,\\ 2013-05-06}
+\author{\AASS}
+
+
+\newcommand{\VarDocTitle}{Vorläufiges Reviewprotokoll}
+\renewcommand{\VarDocTitle}{Reviewprotokoll}
+\newcommand{\VarIterationNr}{43}
+\newcommand{\VarReviewDate}{2013-08-19}
+\newcommand{\DocVersionInfo}{IN ARBEIT}
+% \renewcommand{\DocVersionInfo}{FREIGEGEBEN}
+
+\usepackage{datetime}
+
+
+%\usepackage{lstdoc}
+\usepackage{listings}
+%\usepackage{textcomp}
+
+% ============================
+% EIGENE KOMMANDOS EMHOFER
+% alles andere ist zu mühsam!!!
+% ============================
+\newcommand{\jALT}{{\color{red}\sffamily\textbf{DELETED}\hrulefill\newline\newline}}
+\newcommand{\jALTende}{\newline{\color{red}\rule{\linewidth}{2pt}\newline}}
+\newcommand{\jNEU}{{\color{green}\sffamily\textbf{ADDED}\hrulefill\newline\newline}}
+\newcommand{\jNEUende}{\newline{\color{green}\rule{\linewidth}{3pt}\newline}}
+
+
+
+
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% BEGIN DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\newenvironment{Beispiel}
+{\begin{tcolorbox}[title=Beispiel]
+
+}{\end{tcolorbox}}
+
+\setkomafont{labelinglabel}{\normalfont\bfseries}
+\begin{document}
+\MultiColListStart{toc}{2}
+ 
+\lstset{% general command to set parameter(s)
+language=[LaTeX]TeX,
+%language=C,
+extendedchars=true,
+inputencoding=utf8,
+breaklines=true;
+basicstyle=\ttfamily\small, % print whole listing small
+keywordstyle=\color{ubuntured}\bfseries\underbar,
+% underlined bold black keywords
+identifierstyle=\color{darkBlue}\bfseries, % nothing happens
+commentstyle=\color{Grey}, % white comments
+stringstyle=\ttfamily, % typewriter type for strings
+texcsstyle=\color{ubuntured},
+moretexcs={textcolor,itemhook},
+emph={
+AASS,
+ARGE,
+A,
+aCh,
+AuthorNotes,
+Ca,
+Cave,
+Definition,
+E,
+EE,
+ERROR,
+Fazit,
+H,
+Layout,
+Married,
+MarriedNG,
+MarriedLI,
+Massnahmen,
+marginpar,
+Parallel,
+T,
+TODO,
+Z,
+ZFootnote},
+emphstyle=\color{Terminus}\bfseries,
+%directivestyle=color{Red},
+showstringspaces=false,
+%morecomment=[s][\color{SandyBrown}]{\{}{\}},
+%moredelim=[s][\color{DarkViolet}]{\{}{\}},
+%morecomment=[l][\color{Grey}]{\%}
+}
+
+\newgeometry{verbose,
+a4paper,
+asymmetric,
+reversemarginpar,
+rmargin=13mm,
+lmargin=13mm,
+top    = 20mm,
+bottom = 15mm,
+marginparwidth = 0mm,
+footskip = 5mm,
+bindingoffset=1.5cm}
+\savegeometry{FullPage}
+\newgeometry{verbose,
+a4paper,
+asymmetric,
+reversemarginpar,
+rmargin=13mm,
+lmargin=13mm,
+top    = 8mm,
+bottom = 8mm,
+marginparwidth = 0mm,
+footskip = 5mm,
+bindingoffset=1.5cm}
+\savegeometry{WholePage}
+\restoregeometry
+
+
+
+\begin{titlepage}
+\loadgeometry{FullPage}\thispagestyle{empty}
+\input{./inputs/input-cover-front-Reviewprotokoll.tex}
+\end{titlepage}
+\dominitoc
+\addchap{Einleitung}
+
+\begin{labeling}[:]{xxxxxxxxxxxxxxxxx}
+  \item[Anwesende] ~
+  \begin{itemize}
+    \item Johannes \caps{Steuer}
+    \item Sebastian \caps{Gabriel}
+    \item Josef \caps{Emhofer}
+    \item Roman \caps{Koch}
+    \item Michael \caps{Motal}
+  \end{itemize}
+  \item[Reviewkoordinator] Josef \caps{Emhofer}, Sebastian \caps{Gabriel}
+  \item[Ort] ASB 921
+  \item[Schwerpunkte] Releaseplanung 1.0
+  \item[Repository] Git Version 0
+  \item[Von Commit \#] 
+  \item[Bis Commit \#] 
+  \item[Anmerkungen] Es wurden nach dem Review noch Änderungen durchgeführt, diese werden extra ausgwiesen.   
+  
+
+
+\end{labeling}
+\begin{WidePar}\small
+\setcounter{tocdepth}{3}
+\tableofcontents
+\end{WidePar}
+
+text
+
+text
+
+\MultiColListEnd{toc}
+\end{document}

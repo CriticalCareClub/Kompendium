@@ -3,7 +3,7 @@ ngerman,
 paper=a4,
 asymmetric,
 fontsize=10pt,
-headings=small,
+%headings=small,
 draft=false,
 % parskip=half,
 numbers=noenddot,
@@ -114,9 +114,9 @@ Sanitätsdienst}
 % EIGENE KOMMANDOS EMHOFER
 % alles andere ist zu mühsam!!!
 % ============================
-\newcommand{\jALT}{{\color{red}\sffamily\textbf{DELETED}\hrulefill\newline\newline}}
+\newcommand{\jALT}{\vspace{6pt}\noindent{\color{red}\sffamily\textbf{DELETED}\hrulefill\newline}}
 \newcommand{\jALTende}{\newline{\color{red}\rule{\linewidth}{2pt}\newline}}
-\newcommand{\jNEU}{{\color{green}\sffamily\textbf{ADDED}\hrulefill\newline\newline}}
+\newcommand{\jNEU}{\vspace{6pt}\noindent{\color{green}\sffamily\textbf{ADDED}\hrulefill\newline}}
 \newcommand{\jNEUende}{\newline{\color{green}\rule{\linewidth}{3pt}\newline}}
 
 
@@ -261,8 +261,35 @@ bindingoffset=1.5cm}
 \end{WidePar}
 
 \chapter{Änderungen im Buch}
+
 \section{Umstrukturierungen}
 text
+
+\section{ANA}
+\subsection{Wirbelsäule / Gliederung}
+Die Wirbelsäule gliedert sich in
+verschiedene Abschnitte: 
+\index{Halswirbel}
+\index{Brustwirbel}
+\index{Lendenwirbeln}
+\index{Kreuzbeinwirbel}
+\index{Steißbeinwirbel}
+Es gibt  7 \EE{Hals}wirbel \Z{(Cervical-Wirbel,
+C\,\VonBis{1}{7})},  12 \EE{Brust}wirbel 
+\Z{(Thorakal-Wirbel, Th\,\VonBis{1}{12})}, 5
+\EE{Lenden}wirbel \Z{(Lumbal-Wirbel, L\,\VonBis{1}{5})}, 5
+verschmolzene \EE{Kreuzbein}wirbel \Z{(Os sacrum,
+S\,\VonBis{1}{5})}, sowie \VonBis{3}{4}
+\EE{Steißbein}\protect\enquote*{wirbel} \Z{(Os coccygis)}.
+
+\jNEU
+Analog zu den o.\,g. Wirbeln benennt man die ersten drei Teile 
+der Wirbelsäule als \I[Halswirbelsäule]{Hals-},
+\I[Brustwirbelsäule]{Brust-} und \I{Lendenwirbelsäule}
+(\I{HWS}, \I{BWS}, \I{LWS}).
+\jNEUende
+
+
 \section{GLO}
 \jNEU
 \begin{description}
@@ -277,16 +304,159 @@ text
    erforderlich, in schweren Fällen muss diese
   antibiotische Behandlung stationär mittels intravenöse
   Infusion erfolgen.
+    \item[\IX{Cave}]   \Lang{lat.} \Speech{\enquote{Hüte Dich vor
+  \dots}}. Auch: \enquote{Achtung, gib Acht!}
+  \item[\IX{Computertomographie}] \Lang{Syn.} \I{CT}.
+  Röntgenuntersuchung, bei welcher Schnittbilder des
+  Körpers erstellt werden. Dabei rotiert  eine
+  Röntgenröhre um den Patienten und sendet
+  fächerförmig Röntgenstrahlen durch den Körper. Auf der
+  gegenüberliegenden Seite  befindet sich ein Detektor,
+  welcher die eintreffenden Röntgenstrahlen registriert. Aus
+  den Messwerten berechnet ein Computer
+  Querschnittsbilder der untersuchten Region. Moderne
+  Systeme können Bilder in verschiedenen Ebenen
+  Rekonstruieren, bzw. 3D-Darstellungen erzeugen. Bei der
+  Untersuchung von Weichteilstrukturen wird häufig ein
+  Kontrastmittel (\FullPrettyRef{topic:kontrasmittel})
+  eingesetzt-
+    \item[\IX{Herzkatheteruntersuchung}]
+  \label{topic:Herzkatheteruntersuchung} Interventionelle
+  röntgengestützte Untersuchung des Herzens bzw. der
+  Herzkrankgefäße. Dabei wird über eine Arterie
+  (klassisch über die Leistenarterie) ein Katheter
+  eingebracht und bis zum Herz bzw. bis knapp vor das Herz
+  zu den Abgängen der Koronargefäße aus der Aorta vorgeschoben. 
+  Anschließend wird ein Kontrastmittel appliziert um den
+  Ventrikel (\I{Ventrikulographie}) bzw. die Gefäße
+  (\I{Koronarangiographie}) mittels Röntgen sichtbar zu
+  machen. 
+  
+  Bei der Koronarangiographie werden die Herzkranzgefäße auf
+  signifikante Engstellen, welche das Substrat einer
+  koronaren Herzkrankheit, eines akuten Koronarsyndroms bzw.
+  eines Herzinfarktes darstellen, untersucht. Im Rahmen des
+  Vorganges können diese Engstellen auch gleich behandelt
+  werden (\II{PCI}, \I{Percutaneous Coronary Intervention};
+  \II{PTCA}, \I{Perkutaneous Transluminal
+  Coronary Angioplasty}).
+  Als Optionen stehen die Dehnung mittels eines Ballons und/oder die Einbringung eines \E{Stents}
+  in das betroffene Gefäß zur Wahl. Ein \T{Stent} ist vom
+  Prinzip aufgebaut wie ein sich selbst aufspannendes,
+  schlauchförmiges Metallgitter, welches in das Gefäß
+  eingebracht wird und dieses an der betreffenden Stelle
+  aufdehnt. Es gibt unbeschichtete (\I{BMS}, \I{Bare Metal
+  Stent}) und beschichtete (\I{DES}, \I{Drug Eluting
+  Stent}) Stents.
+  
+ {\begin{PictureSeriesWide}{}{Bilderserie:
+\EEE{Koronargefäße}}
+\PictureSeriesRowWide{3}
+{./images/hirtler-aass/Herzvorderflaeche.pdf}
+{Das Herz mit seinen Koronargefäßen \SourcePicture{Hirtler}}
+{./images/wikipedia-cc-by/Hk_coronary_bionerd.jpg}
+{Darstellung der
+Herzkranzgefäße während einer Herzkatheteruntersuchung.
+\SourcePicture{WmCo
+\protect\enquote{Bionerd}, CC-BY-3.0}}
+{./images/wikipedia-cc-by/Heart_coronary_artery_lesion-lq.jpg}
+{Die Koronargefäße versorgen den
+Herzmuskel von außen nach innen. \SourcePicture{Patrick J.
+Lynch, CC-BY-2.5}} {./images/wikipedia-cc-by/Hk_coronary_bionerd.jpg}
+{empty}
+{}
+ \end{PictureSeriesWide}}{}
+
+  \item[\IX{Kontrastmittel}] \label{topic:kontrasmittel}
+  Kontrastmittel verbessern die Darstellung von Strukturen
+  bei bildgebenden Verfahren (Röntgendiagnostik inkl.
+  Computertomographie (CT) und Angiographie,
+  Magnetresonanztomografie (MRT) und Sonografie (Ultraschall). Kontrastmittel können
+  unerwünschte Nebenwirkung haben. Darunter fallen
+  allergische (anaphylaktische) Reaktionen,
+  Schilddrüsenüberfunktion (bei Jod-haltigen
+  Kontrastmitteln), sowie eine Einschränkung der
+  Nierenfunktion. Häufige unbedenkliche Nebenwirkungen sind
+  ein Wärme- oder Hitzegefühl sowie ein metallischer
+  Geschmack.
+    \item[Stent] Siehe Herzkatheteruntersuchung
+  (\FullPrettyRef{topic:Herzkatheteruntersuchung}
+    \item[\IX{Sukkurs}] Hilfe, Unterstützung; Einheit, die
+  als Verstärkung bzw. Unterstützung eingesetzt ist
 \end{description}
 \jNEUende
+
+
+\section{GYN}
+\subsection{Schwangerschaft / Begriffe}
+\jNEU
+\Layout{2}
+{Begriffe und gängige Abkürzungen}
+{
+\begin{description}
+  \item[Gravida] \Lang{Syn.} Grav., Gravididät.
+  Schwangerschaft, bzw. Anzahl der bisherigen
+  Schwangerschaften inklusive der aktuellen. Z.\,B. Grav
+  III: 3.. Schwangerschaft
+  \item[Para] Anzahl der vorangegenagenen Geburten.
+  \Z{Sonderfall \I{Nullipara}: Noch keine Geburt}
+  \item[Partus] Wievielte Geburt
+  \item[Abort] Fruchtabgang
+  \item[Interruptio] Künstliche Beendigung der Schwangerschaft
+  \item[LNR] \Lang{Abkz.} Letzte normale Regelblutung
+  \item[SSW] Schwangerschaftswoche, Angabe in vollendeten
+  Schwangerschaftswochen mit dem Zusatz der Tage der
+  angebrochenen Schangerschaftswoche, z.\,B. SSW 38+4
+\end{description}
+
+\subparagraph{Beispiele} \Speech{Grav. IV SSW 38+4 Para I Abort II}: Patientin in der
+4. Schwangerschaft am 4. Tag der 39. Schwangerschaftswoche,
+zweitgebährend, zwei Fruchtabgänge.
+
+}
+{}
+{}
+{}
+{}
+.
+\jNEUende
+
 \section{HKL}
 text
+
 \section{INK}
 text
+
+\section{JUS}
+\subsection{Aufklärung -- Aufklärungspflicht}
+\jNEU
+Unabhängig von der juristischen Bedeutung der Aufklärung ist
+diese ein wesentlicher Ausdruck des Respekts gegenüber dem
+Patienten und Voraussetzung für die Bildung einer
+Vertrauensbasis und Führung eines professionellen Gesprächs
+im Rahmen der Versorgung. 
+\jNEUende
+
 \section{NEU}
 text
+
 \section{PAM}
 text
+
+\section{RSP}
+\subsection{Asthma / Definition}
+\jALT
+\Definition{Chronische Erkrankung mit mehr oder weniger
+  häufigen Episoden von Anfällen mit massiver Atemnot oder
+  Atembehinderung durch Verengung der Bronchien.}
+\jALTende
+
+\jNEU
+\DefinitionInPara{Das \T{Asthma bronschiale} ist eine chronische 
+Erkrankung mit Episoden von Anfällen mit massiver Atemnot oder
+Atembehinderung durch Verengung der Bronchien.}
+\jNEUende
+
 \section{TAE}
 \subsection{Gehobener Gesundheits- und Krankenpflegedienst}
 \jNEU
@@ -426,6 +596,7 @@ eine entsprechende Berufserfahrung als Notarzt sowie einen
 entsprechenden anerkannten größte österreichischem
 Ärztekammer Voraus.
 \jNEUende
+
 
 \section{LEHRMATERIALIEN: Neue Arztbriefe}
 \subsection{Arztbriefe / Chirurgische Arztbriefe / Gallenkolik}
@@ -654,6 +825,7 @@ Vorstellung der niedergelassenen Orthopäden in vier Wochen
 Dr. Meyer\\
 Sekundararzt 
 \jNEUende
+
 
 \chapter{Änderungen im Maßnahmenkatalog}
 text

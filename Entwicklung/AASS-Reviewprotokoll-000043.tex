@@ -121,6 +121,30 @@ Sanitätsdienst}
 
 \newcommand{\jganzebreite}{\textwidth+\marginparsep+\marginparwidth}
 
+% ============================
+% aus neuerer common.sty übernommen
+% ============================
+\newenvironment{ABCDEText}
+{\renewcommand{\itemhook}{%
+                                        \setlength{\leftmargin}{15pt}
+                                        \setlength{\labelsep}{3pt}
+        }\begin{itemize}}
+{\end{itemize}}
+
+\newenvironment{ABCDESlide}
+{\begin{labeling}{mm}\raggedright}
+{\end{labeling}}
+
+\newenvironment{SAMPLERText}
+{\renewcommand{\itemhook}{%
+                                        \setlength{\leftmargin}{15pt}
+                                        \setlength{\labelsep}{8pt}
+        }\begin{itemize}}
+{\end{itemize}}
+
+\newenvironment{SAMPLERSlide}
+{\begin{labeling}{mm}\raggedright}
+{\end{labeling}}
 
 
 
@@ -235,8 +259,12 @@ bindingoffset=1.5cm}
   \item[Ort] ASB 921
   \item[Schwerpunkte] Releaseplanung 1.0
   \item[Repository] Git Version 0
-  \item[Von Commit \#] 
-  \item[Bis Commit \#] 
+  \item[Von Commit \#] 3cf2e745041f3003a8a373ef157f1ca1c0e29971 
+  
+  (1. Mai 2013)
+  \item[Bis Commit \#] 3f5bd7385517c75658cd650e4fbf3c01c58042a5 
+  
+  (1. August 2013)
   \item[Anmerkungen] Es wurden nach dem Review noch Änderungen durchgeführt, diese werden extra ausgwiesen.
   \item[Anmerkungen] Textpassagen, die neu hinzugefügt wurden sind in der
   Umgebung
@@ -1020,9 +1048,60 @@ Die gängigen Injektionsarten sind:
 \jNEUende
 
 \section{AUP}
+\subsection{Vereinigung mit PAM}
 Vereinigung mit \CC{[PAM]} $\to$ PDF ansehen!
 
+\subsection{SAMPLE $\to$ SAMPLER}
+Erweiterung von SAMPLE zu SAMPLER; R = Risikofaktoren
+
+\jNEU
+\Layout{0}{Risikofaktoren}{%
+Viele Erkrankungen werden durch das Vorhandensein von
+Risikofaktoren begünstigt.
+Das Vorliegen von Riskofaktoren bedeutet natürlich nicht,
+dass eine bestimme Erkrankung vorliegt, die Kenntnis über
+Risikofaktoren kann aber in der Diagnosefindung hilfreich
+sein und das Gesamtbild des Patienten vervollständigen.
+Beispiele für Riskofaktoren wären:
+\begin{itemize}
+  \item Alter
+  \item Geschlecht
+  \item Immobilisierung, Bettlägrigkeit (Thrombosen,
+  Lungenembolie, Pneumonie, \ldots)
+  \item Rauchen (Lungenkrebs, COPD, Lungenembolie, \ldots)
+  \item Diabetes mellitus (Herz-Kreislauf-Erkrankungen:
+  Koronare Herzkrankheit, Herzinfarkt, Schlaganfall,
+  periphere arterielle Verschlusskrankheit (pAVK),
+  Wundheilungsstörungen, \ldots; Niereninsuffizienz, \ldots)
+  \item Arterielle Hypertonie (Herz-Kreislauf-Erkrankungen, s.\,o.)
+  \item Hormonelle Verhütung (\enquote*{Pille}; Lungenembolie, \ldots)
+\end{itemize}
+Die Frage nach Risikofaktoren ist abhängig vom Einzelfall,
+oft sind wichtige Risikofaktoren auch ohne Nachfragen
+erkennbar (Bettlägrigkeit, Alter, Geschlecht \ldots). Es ist
+wichtig, sich die gefundenen Riskofaktoren bei der Bewertung
+des Patienten zu vergegenwärtigen.
+}{
+\begin{itemize}
+  \item Begünstigen Erkrankungen
+  \item Z.\,B.:
+  \begin{itemize}
+    \item Alter
+    \item Geschlecht
+    \item Immobilisierung, Bettlägrigkeit
+    \item Rauchen
+    \item Diabetes mellitus
+    \item Arterielle Hypertonie
+    \item Hormonelle Verhütung
+  \end{itemize}
+\end{itemize}
+}{}{}{}
+.
+\jNEUende
+
 \section{GLO}
+neues Kapitel
+
 \jNEU
 \begin{description}
   \item[\IX{Erysipel}] \Lang{Sny.} Rotlauf, Wundrose. \label{topic:erysipel}
@@ -1153,9 +1232,40 @@ zweitgebährend, zwei Fruchtabgänge.
 .
 \jNEUende
 
+\subsection{Vena-cava-KOMRESSIONSSyndrom}
+Das Vena-cava-Syndrom wird zu Vena-cava-Kompressionssyndrom; weiters
+
+\jALT
+\Fazit{\EE{Jede hochschwangere Patientin }sollte daher in
+Linksseitenlage und nicht in Rückenlage transportiert werden. }
+.
+\jALTende
+
+\jNEU
+\Fazit{\EE{Jede hochschwangere Patientin} soll in (leichter)
+Linksseitenlage und nicht in Rückenlage transportiert werden. }
+.
+\jNEUende
+
+\subsection{EPH-Gestose}
+
+\jNEU
+Die Ursachen sind nicht vollständig geklärt.
+\jNEUende
+
 \section{HKL}
 \subsection{Schock}
-Schock wandert von \CC{[VIT]} nach \CC{[HKL]}.
+Schock wandert von \CC{[VIT]} nach \CC{[HKL]}; weiters Sympathikus erwähnt:
+
+\jALT
+Der Körper versucht selber dagegen etwas zu tun und
+gegenzusteuern (\enquote{kompensieren}).
+\jALTende
+
+\jNEU
+Der Körper versucht durch Aktivierung des Sympathikus (\FullPrettyRef{topic:sympathikus}: \Speech{\enquote{Fight!}})
+gegenzusteuern (zu \E{kompensieren}).
+\jNEUende
 
 \subsection{Herzkatheterlabore}
 Streichung der Aufzählung der Herzkatheterlabore in Wien.
@@ -1322,7 +1432,7 @@ war noch nicht groß genug um behandelt zu werden
 Aneurysma präklinisch zu diagnostizieren. Im Vordergrund
 steht der Volumenverlust und der entstehende hypovolämische
 Schock. 
-\jATLende
+\jALTende
 
 \jNEU
 \Layout{2}
@@ -1437,7 +1547,7 @@ Erkrankungen hinweisen (Lumbago, ACS, Koliken, \ldots).
 }
 {}
 {}
-{}
+{}{}
 
 \Layout{0}
 {{\TxSAMPLER}}
@@ -1467,6 +1577,188 @@ Erkrankungen hinweisen (Lumbago, ACS, Koliken, \ldots).
 {}
 .
 \jNEUende
+
+\subsection{Hypertensiver Notfall und Hypertensive Krise}
+Überarbeitung GABS
+
+\jALT
+\Layout{0}
+{\TxABCDE}{
+\begin{description}
+  \item[\ABCDE{Ersteindruck}] Oft hat der Patient einen hochroten Kopf. 
+  \item[\ABCDE{Hauptbeschwerde}] Häufig ist Nasenbluten das
+  erste Zeichen einer akuten Hypertonie, daneben kommt es
+  oft zu neurologischen Symptomen wie Kopfschmerzen und
+  Sehstörungen. Evtl. kommt es zu Brustschmerzen, Übelkeit,
+   Erbrechen und Schwindel.
+   \item[\ABCDE{B}] Evtl. kommt es aufgrund der kardialen Belastung zur Atemnot.
+   \item[\ABCDE{C}] In sehr schweren Fällen, v.\,a. wenn eine
+   kardiale Grunderkrankung besteht, können sich Symptome
+   eines kardiogenen Schocks zeigen.
+   \item[\ABCDE{D}] Es ist eine deutliche Blutdruckerhöhung
+   (Richtwert \Abk{RR}~{\textgreater}~\RRmmHg{230}{130}
+   bzw. deutliche individuelle Erhöhung) festzustellen
+\end{description}
+ }
+ {
+\begin{itemize}
+   \item[\ABCDE{EE}] Hochroter Kopf 
+   \item[\ABCDE{HB}] Nasenbluten, Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen, Schwindel
+   \item[\ABCDE{B}] Evtl. Dyspnoe
+   \item[\ABCDE{C}] Evtl. kardiogener Shock
+   \item[\ABCDE{D}] RR $\uparrow$ (Richtwert\Abk{RR}~{\textgreater}~\RRmmHg{230}{130} 
+   bzw. deutliche individuelle Erhöhung)
+\end{itemize}
+ }
+ {}
+ {}
+ {}
+ 
+ \Layout{0}
+{{\TxSAMPLE}}
+ {
+\begin{description}
+  \item[\SAMPLE{S}] 
+  \item[\SAMPLE{M}] 
+  \item[\SAMPLE{P}]
+  \item[\SAMPLE{L}]
+  \item[\SAMPLE{E}]
+\end{description}
+ }
+ {
+\begin{itemize}
+  \item[\SAMPLE{S}]
+  \item[\SAMPLE{A}]
+  \item[\SAMPLE{M}] 
+  \item[\SAMPLE{P}] 
+  \item[\SAMPLE{L}]
+  \item[\SAMPLE{E}] 
+\end{itemize}
+ }
+ {}
+ {}
+ {}
+.
+\jALTende
+
+\jNEU
+ \Layout{0}
+{\TxABCDE}
+{~
+\begin{ABCDEText}
+  \item[\ABCDE{Eindruck}] Oft hat der Patient einen
+  hochroten Kopf.
+  \item[\ABCDE{Hauptbeschwerde}] Ein erhöhter Blutdruck alleine ist oft symptomlos und wird
+vom betreffenden Patienten oft gar nicht bemerkt. Häufig ist
+\I{Nasenbluten} (\T{Epistaxis}\index{Epistaxis}) das
+  erste Zeichen einer akuten Hypertonie. Beim
+  hypertensiven \EE{Notfall} kommt es zu Symptomen für die
+  blutdruckbedingte Störung von Organen
+  (\E{Organstörungen}), z.\,B. oft zu neurologischen
+  Symptomen wie Kopfschmerzen und Sehstörungen, weiters
+  evtl. zu Brustschmerzen, Übelkeit,
+   Erbrechen und Schwindel.
+   \item[\ABCDE{B}] Evtl. kommt es aufgrund der kardialen Belastung zur Atemnot.
+   \item[\ABCDE{C}] In sehr schweren Fällen, v.\,a. wenn eine
+   kardiale Grunderkrankung besteht, können sich Symptome
+   eines kardiogenen Schocks zeigen.
+   \item[\ABCDE{D}] Es ist eine deutliche Blutdruckerhöhung
+   (Richtwert \Abk{RR}~{\textgreater}~\RRmmHg{230}{130}
+   bzw. deutliche individuelle Erhöhung) festzustellen
+\end{ABCDEText}
+ }
+ {
+\begin{ABCDESlide}
+   \item[\ABCDE{EE}] Hochroter Kopf 
+   \item[\ABCDE{HB}] Nasenbluten, Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen, Schwindel
+   \item[\ABCDE{B}] Evtl. Dyspnoe
+   \item[\ABCDE{C}] Evtl. kardiogener Shock
+   \item[\ABCDE{D}] RR $\uparrow$ (Richtwert\Abk{RR}~{\textgreater}~\RRmmHg{230}{130} 
+   bzw. deutliche individuelle Erhöhung)
+\end{ABCDESlide}
+ }
+ {}
+ {}
+ {}
+ 
+ \Layout{0}
+{{\TxSAMPLER}}
+ {
+\begin{SAMPLERText}
+  \item[\SAMPLER{S}] Siehe ABCDE.
+  \item[\SAMPLER{M}] Meistens ist bereits eine medikamentöse
+  Einstellung durch den Hausarzt mittels eines oder
+  Kombination mehrerer Medikamente
+  erfolgt\ZFootnote{Gängige Antihypertensive Medikamente:
+  \begin{inparaitem}
+    \item Beta-Blocker: 
+    Bisoprolol (Concor{\texttrademark}),
+    Carvedilol (Dilatrend{\texttrademark}), 
+    Metoprolol (Beloc{\texttrademark}, Seloken{\texttrademark}),
+    Nebivolol (Nebilan{\texttrademark}, Nomexor{\texttrademark})
+    \item ACE-Hemmer: 
+    Enalapril (Mepril{\texttrademark}, Renitec{\texttrademark}), 
+    Lisinopril (Acemin{\texttrademark}, Acetan{\texttrademark}) 
+    Ramipril (Tritace{\texttrademark}),
+    Fosinopril (Fositens{\texttrademark}), 
+    Captopril
+    \item AT-II-Inhibitoren: 
+    Candesartan (Atacabd{\texttrademark}, Blopress{\texttrademark}), 
+    Losartan (Cosaar{\texttrademark}),
+    Telmisartan (Micaardis{\texttrademark}),
+    Valsartan (Diovan{\texttrademark})
+    \item Kalzium-Antagonisten: 
+    Diltiazem,
+    Verapamil (Isoptin{\texttrademark}),
+    Amlodipin (Norvasc{\texttrademark}),
+    Lercanidipin (Zanidip{\texttrademark}),
+    Nifedipin (Adalat{\texttrademark}, Buconif{\texttrademark})
+    \item Entwässerung (Diuretika): 
+    Furosemid (Lasix{\texttrademark}, Furon{\texttrademark}),
+    Spironolacton (Aldactone{\texttrademark}, Spirobene{\texttrademark}), 
+    Hydrochlorthiazid (HCT) üblicherweise in Kombination mit andren Medikamenten
+    \item Kombinationspräparate: Diverse Kombinationen, oft
+    mit Zusätzen wie \enquote*{Co-}, \enquote*{-comb},
+    \enquote*{-comp}, \enquote*{plus} oder Zusammensetzung
+    aus Wirkstoff- bzw. Markennamen. Z.\,B.:
+    Acecomb{\texttrademark}, Exforge{\texttrademark},
+    Fosicomb{\texttrademark},
+  \end{inparaitem} }.
+  Entscheidend ist die Frage, ob diese Medikation auch tatsächlich eingenommen wurde, 
+  Fehler bei
+  der Einnahme (vergessen, Packung aufgebraucht, \ldots)
+  sind eine gute Erklärung für eine hypertensive Krise. 
+  Ebenso kann es nach einer
+  Medikamentenumstellung zur Blutdruckentgleisungen kommen. 
+  \item[\SAMPLER{P}] Eine chronische arterielle Hypertonie
+  ist oft schon bekannt und der Patient befindet sich
+  deswegen bereits in Behandlung.
+  \item[\SAMPLER{L}] Achte auf die letzte
+  MEdikaemnteneinnahme sowie die letzten ärztlichen
+  Kontrollen. 
+  \item[\SAMPLER{E}] Gibt es Ereignisse die zu einer
+  fehlerhaften Einnahme der MEdikamente geführt haben
+  können?
+  \item[\SAMPLER{R}] 
+\end{SAMPLERText}
+ }
+ {
+\begin{SAMPLERSlide}
+  \item[\SAMPLER{S}]
+  \item[\SAMPLER{A}]
+  \item[\SAMPLER{M}] 
+  \item[\SAMPLER{P}] 
+  \item[\SAMPLER{L}]
+  \item[\SAMPLER{E}] 
+  \item[\SAMPLER{R}]
+\end{SAMPLERSlide}
+ }
+ {}
+ {}
+ {}
+.
+\jNEUende
+
 
 \section{INK}
 \subsection{HIV}
@@ -1582,6 +1874,100 @@ so zu behandeln.
  .
 \jNEUende
 
+\subsection{Zerebrale Krampfanfälle}
+
+\jALT
+\Definition{Vom Gehirn ausgehende motorische Krampfanfälle
+aufgrund von akuten oder chronischen Erkrankungen des
+Gehirns. Dabei entladen sich unkontrolliert
+Nervenzell-Gruppen im Gehirn.}
+.
+\jALTende
+
+\jNEU
+\DefinitionInPara{Bei vom Gehirn ausgehenden motorischen Krampfanfällen
+kommt es zur unkontrollierten Entladung von Nervenzellen im Gehirn zu Krämpfen der 
+Skelettmuskulatur. Mögliche Ursachen sind akute oder chronische Erkrankungen des
+Gehirns.}
+.
+\jNEUende
+
+\subsection{Zerebrale Krampfanfälle / Generalisierter Anfall}
+
+\jALT
+Er betrifft den ganzen Körper. 
+\jALTende
+
+\jNEU
+Der generalisierte Krampfanfall \Z{(\enquote*{grand mal}\ZFootnote{Grand mal: \emph{franz.:} \enquote{großes
+Unglück}})} betrifft den ganzen Körper. Häufig kommt es während des Anfalles zu einem Zungenbiss,
+außerdem zum Einnässen oder Einkoten. 
+Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab: \ldots
+\jNEUende
+
+\subsection{Lumbago}
+
+\jALT
+ \Layout{0}{\TxSymptome}{%
+ Verschiedene Ursachen wie z.\,B. eine Nervenreizung, ein
+ Bandscheibenvorfall (siehe unten), Erkrankungen der Wirbelsäule oder ein Unfall
+können zu einem Druck auf den Ischias-Nerv führen, der (starke) Schmerzen im
+LWS-Bereich verursacht. Die Schmerzen strahlen unter Umständen ins Gesäß und in
+ das betroffene Bein bis zum Fußaußenrand aus und werden von
+Sensibilitätsstörungen in diesem Gebiet und/oder von einer Verkrampfung der
+Rückenmuskulatur begleitet. Diese Symtomatik nennt man Ischialgie, \T{Lumbalgie}
+oder umgangssprachlich \emph{\enquote{Ischias}}. Bei plötzlichem Auftreten
+spricht man von Lumboischialgie, \emph{\enquote{\T{Lumbago}}} oder
+\emph{\enquote{Hexenschuss}}.
+ 
+ Bei vorgeschädigten Bandscheiben (z.\,B. durch jahrelange
+ Fehlhaltung oder durch falsches Heben großer Lasten) kann es
+ zu einer (plötzlichen) Verschiebung des Bandscheibenkerns in Richtung Rückenmark und somit zu einem Druck auf dieses
+ kommen. Dieser Druck verursacht ebenfalls Schmerzen,
+ Sensibilitätsstörungen oder sogar Lähmungen. Tritt dieses Ereignis plötzlich auf, spricht man von einem
+\T{akuten Bandscheibenvorfall}. Häufig ist der der LWS-Bereich
+ betroffen.
+ }{
+ \begin{itemize}
+   \item Schmerzen in Lendengegend
+   \item Evtl. Austrahlung in Bein
+   \item Gefühlsstörungen
+ \end{itemize}
+ }{}{}{}
+.
+\jALTende
+
+\jNEU
+ \Layout{0}{\TxSymptome}{%
+ Verschiedene Ursachen wie z.\,B. eine Nervenreizung, ein
+ Bandscheibenvorfall (siehe unten), Erkrankungen der Wirbelsäule oder ein Unfall
+können zu einem Druck auf den \E{Ischias-Nerv} führen, 
+welcher starke Schmerzen im Bereich der Lendenwirbelsäule 
+(\Abk{LWS}) verursachen kann. Die Schmerzen strahlen oft ins Gesäß und in
+ das betroffene Bein bis zum Fußaußenrand aus und werden von
+Gefühlsstörungen in diesem Gebiet bzw. von einer Verkrampfung der
+Rückenmuskulatur begleitet. Diese Symtomatik nennt man \I{Ischialgie} bzw. \I{Lumbalgie}. 
+Bei plötzlichem Auftreten
+spricht man von Lumboischialgie (\T{Lumbago}) oder umgangssprachlich vom
+{\I{Hexenschuss}}.
+ 
+ Bei vorgeschädigten Bandscheiben (z.\,B. durch jahrelange
+ Fehlhaltung oder durch falsches Heben großer Lasten) kann es
+ zu einer (plötzlichen) Verschiebung des Bandscheibenkerns in Richtung Rückenmark und somit zu einem Druck auf dieses
+ kommen. Dieser Druck verursacht ebenfalls Schmerzen,
+ Sensibilitätsstörungen oder sogar Lähmungen. Tritt dieses Ereignis plötzlich auf, spricht man von einem
+\T{akuten Bandscheibenvorfall}. Häufig ist die Lendenwirbelsäule (LWS-Bereich)
+ betroffen.
+ }{
+ \begin{itemize}
+   \item Schmerzen in Lendengegend
+   \item Evtl. Austrahlung in Bein
+   \item Gefühlsstörungen
+ \end{itemize}
+ }{}{}{}
+.
+\jNEUende
+
 \section{PAM}
 PAM wurde stark überarbeitet $\to$ ggf. PDF ansehen bzw. vergleiche Abschnitt
 Umstrukturierungen, \prettyref{sec:umstrukt}!
@@ -1612,8 +1998,11 @@ Komponenten, welche wie eine Maschine zusammenarbeiten:
   Weiterbehandlung
   \item Transport
   \item Übergabe an das weiterbehandelnde Personal
-\end{itemize}
+\end{itemize}.
 \jNEUende
+
+\subsection{SAMPLE $\to$ SAMPLER}
+R (= Risikofaktoren) zu SAMPLE hinzugefügt (analog zu AUP)
 
 
 \subsection{Blutdruck, HF: D $\to$ C}
@@ -3996,11 +4385,76 @@ Sekundararzt
 text
 
 \chapter{Diskussionen}
-text
+\section{Inhaltlich}
+\ldots
+
+\section{Formal/Layout}
+\ldots
+
+\section{Reviewprotokoll}
+\begin{enumerate}
+  \item EMHO: Die neuen ADDED- und DELETED-Umgebungen sowie die neue Strukturierung
+vereinfachen die Vorbereitung ungemein (selbst mit Vereinfachung hat mich die
+Erstellung dieses Protokolls 7 Stunden gekostet).
+Können sie beibehalten werden?
+\item EMHO: Das Vorbereiten des Protokolls ist sehr mühsam, wenn man die Commits
+bei der Vorbereitung das erste Mal sieht. Man braucht sehr lange, bis man
+nachvollzogen hat, was eigentlich passiert ist. Grund hierfür sind die vielen
+Umgebungen, Kommandos und Umstrukturierungen (zunächst ist nicht klar, ob etwas
+neu oder nur verschoben ist\ldots). Sebi ist das in der Vergangenheit sicher
+leichter gefallen, da er ja in 99\,\% der Fälle selber Autor des Commits war!
+Daher schlage ich vor Commits in Zukunft nach folgendem Schema zu kommentieren:
+
+\begin{table}[H]
+\centering
+\caption{Syntax für künftige Commits}
+\begin{tabular}{ll}
+\toprule
+Syntax & Verwendungszweck\\
+\midrule
+\texttt{CHP: Typos} & sind für das Review egal\\
+\texttt{CHP: Cleanup} &  ist für das Review egal\\
+\texttt{CHP: Formal: \ldots} & kleine formale Überarbeitungen, die für das
+Review nicht relevant\\ & sind (z.B.
+  SAMPLER, ABCDE, Tabellen umgestaltet, \ldots)\\
+ \texttt{CHP to REV: Formal: \ldots} &  grobe formale Überarbeitungen, die beim
+ Review besprochen\\ &  werden sollen\\
+\texttt{CHP: Stil: \ldots} & Kleine Umformulierungen/Stilanpassungen, die die
+Interpretation\\ & des Inhalts SICHER NICHT beeinflussen.\\
+ \texttt{CHP to REV: Stil: \ldots} &  Umformulierungen/Stilanpassungen, die
+ Interpretationsspielraum\\ &   lassen und daher beim Review diskutiert werden
+ sollen\\
+  \texttt{CHP: Inhalt: \ldots} & Kleinigkeiten, die unsere Ärzte unter den
+  Autoren vornehmen\\ &  können ohne sie zu reviewen\\
+  \texttt{CHP to REV: Inhalt: \ldots} & Inhaltliche Änderungen, die beim Review
+  diskutiert werden sollen\\ 
+  \texttt{CHP: Struktur: \ldots} & kleine Verschiebungen/Umstrukturierungen, die
+  im Review nicht\\ &  berücksichtigt werden müssen\\
+  \texttt{CHP to REV: Struktur: CHP --> CHP} & grobe Umstrukturierungen, die
+  beim Review besprochen werden\\
+  \texttt{CHP to REV: Lehrmeinung ASB: \ldots} & ASB Lehrmeinungsänderungen\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+  Beispiel:\newline
+  \texttt{NEU to REV: Inhalt: Fieberkrampf - Alter Kinder < 4 J.}
+
+ Weitere Syntax-Vorschläge?
+
+Der Zusatz "`\texttt{to REV}"' indiziert, dass ich mir dieses Commit im Zuge der
+Reviewvorbereitung genau ansehe. Dies bedeutet auch, dass in \E{einem} Commit
+bitte nur entweder
+\begin{enumerate}
+  \item reviewrelevante oder
+  \item nicht-reviewrelevante
+\end{enumerate}
+Änderungen vorgenommen werden dürfen.
+\end{enumerate}
 
 \appendix
 \chapter{Anhang}
-text
+Tischvorlage Probekapitel \CC{[PAM]}
 
 \MultiColListEnd{toc}
 \end{document}

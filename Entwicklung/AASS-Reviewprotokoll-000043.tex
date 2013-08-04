@@ -17,7 +17,7 @@ footnotes=multiple,
 ]{scrreprt}
 \setlength{\parindent}{15pt}
 
-
+\usepackage{layout}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 % \usepackage[ngerman]{babel}
@@ -119,7 +119,7 @@ Sanitätsdienst}
 \newcommand{\jNEU}{\vspace{6pt}\noindent{\color{green}\sffamily\textbf{ADDED}\hrulefill\newline}}
 \newcommand{\jNEUende}{\newline{\color{green}\rule{\linewidth}{3pt}\newline}}
 
-
+\newcommand{\jganzebreite}{\textwidth+\marginparsep+\marginparwidth}
 
 
 
@@ -218,6 +218,7 @@ bindingoffset=1.5cm}
 \loadgeometry{FullPage}\thispagestyle{empty}
 \input{./inputs/input-cover-front-Reviewprotokoll.tex}
 \end{titlepage}
+%\layout
 \dominitoc
 \addchap{Einleitung}
 
@@ -237,7 +238,7 @@ bindingoffset=1.5cm}
   \item[Von Commit \#] 
   \item[Bis Commit \#] 
   \item[Anmerkungen] Es wurden nach dem Review noch Änderungen durchgeführt, diese werden extra ausgwiesen.
-  \item[Anmerkungen] Textpassagen, die neu hinzugefügt wurde sind in der
+  \item[Anmerkungen] Textpassagen, die neu hinzugefügt wurden sind in der
   Umgebung
   
   \jNEU
@@ -260,10 +261,194 @@ bindingoffset=1.5cm}
 \tableofcontents
 \end{WidePar}
 
-\chapter{Änderungen im Buch}
+\chapter{Formale Änderungen im Buch (Layout)}
+PDF ansehen!
 
-\section{Umstrukturierungen}
-text
+\section{Allgemeines}
+\begin{enumerate}
+  \item Randspalten
+  \item Schriftarten
+  \item Piktogramme
+  \item \ldots
+\end{enumerate}
+
+\section{ABCDE-Umgebung}
+
+Beispiel Asthma:
+
+EDIT: funktioniert im Reviewprotokoll (noch) nicht; offenbar hab ich ein
+altes aass-common.sty vom März 2013 ausgecheckt\ldots Keine Ahnung wieso
+oder wie ich das berichtigen kann\ldots $\to$ PDF ansehen!
+
+\jALT
+\Layout{0}{\TxSymptome}
+{%
+Das Leitsymptom ist die Atemnot. Oft ist ein pfeifendes,
+brummendes oder giemendes Atemgeräusch, besonders während
+der Ausatmung (\E{Exspiration}, \E{exspiratorischer
+Stridor}) wahrnehmbar. Die Exspiration ist ausserdem
+verlängert. Trockener Husten ist häufig.
+Der Patient nimmt meist automatisch und unbewusst eine
+Position ein, die seine Atemhilfsmuskulatur unterstützt: Er
+sitzt aufrecht und stützt sich oft nach vorne oder hinten
+ab.
+Die Atemfrequenz ist erhöht, oft auch die Herzfrequenz
+(\E{Tachypnoe} und \E{Tachykardie}). Die Sauerstoffsättigung
+kann erniedrigt sein.
+
+\Z{Unterschätze nie die Schwere eines Asthmaanfalles!
+Gefährlich sind besonders die \protect\enquote*{ruhigen},
+wenig klagenden Patienten, diese haben oft ein anderes
+Luftnot-Empfinden. Diese Patienten sind Hochrisiko-Patienten
+und haben auch mit der \ce{O2}-Gabe Probleme! \ce{O2}-Gabe nur
+bis max. 95\PC* Sauerstofsättigung!
+\citep{Olschewski2009}\A{\footnote{Vortrag Univ-Prof.Dr. Horst Olschewski, 5. AGN-Kongress 2009; Notfall Rettungsmed (2009) 12:322}}}
+}{}{}{}{}.
+\jALTende
+
+\jNEU
+ \Layout{0}
+{\TxABCDE}
+{~
+\begin{ABCDEText}
+  \item[\ABCDE{1}] Kalte Temperaturen oder Allergene
+  (Gräser, Pollen, \ldots) begünstigen einen Asthma-Anfall.
+  %%%
+  \item[\ABCDE{2}] Der Patient nimmt meist automatisch und unbewusst eine
+  Position ein, die seine Atemhilfsmuskulatur unterstützt: Er
+  sitzt aufrecht und stützt sich oft nach vorne oder hinten
+  ab.
+  %%%
+  \item[\ABCDE{3}] Im schweren Anfall kann es zu
+  {\RedFlag}\,\E{Bewusstseinsstörungen} kommen.
+  %%%
+  \item[\ABCDE{4}] Das Leitsymptom ist die Atemnot.
+  %   %%%
+  %   \item[\ABCDE{A}]
+  %%%
+  \item[\ABCDE{B}] Die Atemfrequenz ist erhöht
+  (\E{Tachypnoe}), die {\RedFlag}\,\E{Sauerstoffsättigung}
+  kann erniedrigt sein. Bei einer manifesten Hypoxie kann eine
+  {\RedFlag}\,\E{Zyanose} beobachtbar sein.
+  
+  Oft ist ein pfeifendes,
+  brummendes oder giemendes Atemgeräusch, besonders während
+  der Ausatmung (\E{Exspiration}, \E{exspiratorischer
+  Stridor}) wahrnehmbar. Die Exspiration ist ausserdem
+  verlängert. Trockener Husten ist häufig.
+  
+  \Z{Unterschätze nie die Schwere eines Asthmaanfalles!
+  Gefährlich sind besonders die \protect\enquote*{ruhigen},
+  wenig klagenden Patienten, diese haben oft ein anderes
+  Luftnot-Empfinden. Diese Patienten sind Hochrisiko-Patienten
+  und haben auch mit der \ce{O2}-Gabe Probleme! \ce{O2}-Gabe nur
+  bis max. 95\PC* Sauerstofsättigung!
+  \citep{Olschewski2009}\A{\footnote{Vortrag Univ-Prof.Dr. Horst Olschewski, 5. AGN-Kongress 2009; Notfall Rettungsmed (2009) 12:322}}}
+  
+  Im \EE{schweren Anfall} ist oft \E{kein}, oder nur mehr ein
+  \E{leises Atemgeräusch} hörbar, da kaum mehr Luft bewegt
+  wird \Z{(\I{silent chest})}. Die
+  {\RedFlag}\,Sauerstoffsättigung ist stark vermindert und der
+  Patient ist {\RedFlag}\,\E{zyanotisch}. Im Endstadium kann
+  die {\RedFlag}\,\E{Atemarbeit erschöpft} sein.
+  %%%
+  \item[\ABCDE{C}] Die Herzfrequenz ist meist erhöht
+  (\E{Tachykardie}).
+  
+  
+  %%%
+  \item[\ABCDE{D}]
+  %%%
+  \item[\ABCDE{E}]
+  %%%
+  \item[\ABCDE{\ldots}]
+  %%%
+  \item[\ABCDE{=}]
+\end{ABCDEText}
+}
+{
+\begin{ABCDESlide}
+  \item[\ABCDE{1}] 
+  %%%
+  \item[\ABCDE{2}] Einsatz der Atemhilfsmuskulatur
+  %%%
+  \item[\ABCDE{3}] Schwerer Anfall:
+  {\RedFlag}\,Bewusstseinsstörungen
+  %%%
+  \item[\ABCDE{4}] Akute Atemnot
+%   %%%
+%   \item[\ABCDE{A}] 
+  %%%
+  \item[\ABCDE{B}] Akute Atemnot mit trockenem
+  Husten, Verlängerte Ausatmungsphase, AF $\uparrow$,
+  Exspiratorisches Atemgeräusch (Stridor)
+  
+  Schwerer Anfall: Kein oder leises Atemgeräusch,
+  {\RedFlag}\,Sp\ce{O2} $\downarrow\downarrow$
+ 
+  Endstadium: {\RedFlag}\,Atemarbeit erschöpft
+  %%%
+  \item[\ABCDE{C}] HF $\uparrow$
+  
+  Schwerer Anfall: HF $\downarrow$
+  %%%
+  \item[\ABCDE{D}] 
+  Schwerer Anfall: RR $\downarrow$
+  %%%
+  \item[\ABCDE{E}] 
+  %%%
+  \item[\ABCDE{\ldots}] 
+  %%%
+  \item[\ABCDE{=}] 
+\end{ABCDESlide}
+}
+{}
+{}
+{}
+ .
+\jNEUende
+
+\section{Umstellung auf LuaLaTeX-Compiler}
+Ermöglicht einfaches Einbinden von ttf-Schriftarten
+
+\section{Sonstiges}
+Pseudoeselsohr, siehe nächste Seite!
+
+ \clearpage
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+    \node [shift={(-8 cm,-8cm)}]  at (current page.north east)
+        {%
+        \begin{tikzpicture}[remember picture, overlay]
+            \draw(0,0) rectangle (8,8);
+            \draw [fill=gray] (0,8) -- (8,8) -- (8,0) -- cycle ;
+            \path[coordinate]
+                \foreach \k in {1,...,4}{%
+                    (0 pt,8cm -\k *1.2cm) coordinate (d\k)} ;
+            \path[clip] (0,0) rectangle (8,8);
+            \foreach \k/\t in
+            {1/Name,2/Vorname,3/Kurs,4/DienstNr.}{%
+                \node[inner sep=0pt,rotate=-45,%
+                    right=0.5cm,minimum height=12pt](f\k) at (d\k) {\t};
+                \draw  (f\k.south east)-- (8cm -\k * 1.2cm,-6pt );
+            }
+        \end{tikzpicture}
+        };
+        % Draw a page border
+        \draw (current page.north west) rectangle (current page.south east);
+\end{tikzpicture}
+
+
+
+\chapter{Inhaltliche und strukturelle Änderungen im Buch}
+
+\section{Umstrukturierungen}\label{sec:umstrukt}
+\begin{enumerate}
+  \item Kreislaufstillstand \CC{[VIT]} $\to$ \CC{[HKL]}
+  \item Bewusstsein, Atmung, Kreislauf \CC{[VIT]} $\to$ \CC{[PAM]}
+  \item Schock \CC{[VIT]} $\to$ \CC{[HKL]}
+  \item \CC{[AUP]} $\to$ \CC{[PAM]}
+\end{enumerate}
 
 \section{ANA}
 \subsection{Wirbelsäule / Gliederung}
@@ -289,6 +474,107 @@ der Wirbelsäule als \I[Halswirbelsäule]{Hals-},
 (\I{HWS}, \I{BWS}, \I{LWS}).
 \jNEUende
 
+\section{ASS}
+\subsection{Intubation}
+
+\jNEU
+    \Z{Es gibt Warm- und Kaltlichtlaryngoskope.
+    Bei Warmlichtlarynkoskopen befindet sich die Lichtquelle
+    am Spatel, bei Kaltlichtlaryngoskpen befindet sich die
+    Lichtquelle im Handgriff, das Licht wird über Fiberglas
+    in den Spatel geleitet.} \Ca{{\SymbolGefahren}} Daher muss
+    darauf geachtet werden, dass die Spatel mit dem Griff
+    zusammenpassen! Bei Kaltlichtsystemen gibt es ausserdem
+    unterschiedliche Steckverbindungen!
+\jNEUende
+
+Funktionskontrolle:
+
+\jALT
+ \begin{ProcedureStepsWide}{Vorbereitung}
+ \begin{enumerate}
+   \item Gewünschte Spatelgröße erfragen
+   \item Gewünschte Tubusgröße erfragen
+  \item Laryngoskop (Spatel und Griff) zusammenbauen
+   \item Tubusverpackung aufschälen, Tubus aber in der Verpackung belassen
+   \item Dichtigkeit des Cuff prüfen: testweise aufblasen
+   \item Führungsdraht (Mandrin) mit Silikonspray
+   einsprühen\ACh{HART}{0.8.0}{Mandrin auch mit Silikon einsprühen} und
+   einführen. Die Spitze muss bis zum Tubusende vorgeschoben vorgeschoben
+   werden, darf aber nicht herausragen.
+   \item Cuff mit Silikonspray einsprühen
+   \item Stethoskop: Funktion prüfen
+   \item \EE{Absaugung} bereit machen:
+   \begin{enumerate}
+     \item Passenden Absaugkatheter wählen
+     \item Verpackung teilweise aufschälen um Anschluss
+     freizulegen, Katheter in der Verpackung belassen.
+     \item Katheter anschließen.
+     \item Funktionskontrolle: Gerät einschalten. Saugstärke?
+     Batteriewarnung?
+     \item Absaugeinheit muss in Griffweite der Assistenten positioniert werden!
+   \end{enumerate}
+   \item Beatmungsbeutel zusammenbauen und an
+   \ce{O2}-Berieselungseinheit anschließen
+   \item Restliches Material bereitlegen (z.\,B. in Nierentasse)
+   \item \ldots
+ \end{enumerate}
+ \end{ProcedureStepsWide}.
+ % }{}{}{}{}
+\jALTende
+
+\jNEU
+ \begin{ProcedureStepsWide}{Vorbereitung}
+ \begin{enumerate}
+   \item Gewünschte Spatelgröße erfragen
+   \item Gewünschte Tubusgröße erfragen
+  \item \StepHeading{Funktionskontrolle} Laryngoskop (Spatel und
+  Griff) zusammenbauen, Funktionskontrolle (Licht)
+  
+  Ebenso müssen alle möglicherweise benötigten Spatel
+  (zumindest $\pm$ 1 Größe und die entsprechenden
+  gebogenen bzw. geraden Spatel) mit dem
+  vorhandenen Lanryngoskopgriff geprüft werden (Lichtquelle
+  bei Warmlichtgeräten, passende Verbindung bei Kaltlichtgeräten)
+   \item Tubusverpackung aufschälen, Tubus aber in der Verpackung belassen
+   \item Dichtigkeit des Cuff prüfen: testweise aufblasen
+   \item Führungsdraht (Mandrin) mit Silikonspray
+   einsprühen\ACh{HART}{0.8.0}{Mandrin auch mit Silikon einsprühen} und
+   einführen. Die Spitze muss bis zum Tubusende vorgeschoben vorgeschoben
+   werden, darf aber nicht herausragen.
+   \item Cuff mit Silikonspray einsprühen
+   \item Stethoskop: Funktion prüfen
+   \item \EE{Absaugung} bereit machen:
+   \begin{enumerate}
+     \item Passenden Absaugkatheter wählen
+     \item Verpackung teilweise aufschälen um Anschluss
+     freizulegen, Katheter in der Verpackung belassen.
+     \item Katheter anschließen.
+     \item Funktionskontrolle: Gerät einschalten. Saugstärke?
+     Batteriewarnung?
+     \item Absaugeinheit muss in Griffweite der Assistenten positioniert werden!
+   \end{enumerate}
+   \item Beatmungsbeutel zusammenbauen und an
+   \ce{O2}-Berieselungseinheit anschließen
+   \item Restliches Material bereitlegen (z.\,B. in Nierentasse)
+  \item \ldots
+ \end{enumerate}
+ \end{ProcedureStepsWide}.
+ % }{}{}{}{}
+\jNEUende
+
+Ad Material:
+
+\jNEU
+\noindent Bei der endotrachealen Intubation wird ein
+Beatmungsschlauch (\I{Tubus}) über den Mund (seltener über die Nase) durch den
+Rachen und den Kehlkopf in die Luftröhre eingeführt. Er
+ermöglicht das Freihalten des Atemweges und bietet einen
+Aspirationsschutz.
+\jNEUende
+
+\section{AUP}
+Vereinigung mit \CC{[PAM]} $\to$ PDF ansehen!
 
 \section{GLO}
 \jNEU
@@ -383,7 +669,7 @@ Lynch, CC-BY-2.5}} {./images/wikipedia-cc-by/Hk_coronary_bionerd.jpg}
   (\FullPrettyRef{topic:Herzkatheteruntersuchung}
     \item[\IX{Sukkurs}] Hilfe, Unterstützung; Einheit, die
   als Verstärkung bzw. Unterstützung eingesetzt ist
-\end{description}
+\end{description}.
 \jNEUende
 
 
@@ -422,10 +708,175 @@ zweitgebährend, zwei Fruchtabgänge.
 \jNEUende
 
 \section{HKL}
-text
+\subsection{Schock}
+Schock wandert von \CC{[VIT]} nach \CC{[HKL]}.
+
+\subsection{Herzkatheterlabore}
+Streichung der Aufzählung der Herzkatheterlabore in Wien.
+
+\subsection{Herzinsuffizienz / Einteilung}
+
+\jALT
+ \Layout{0}{Einteilung}
+ {Die Einteilung der Herzinsuffizienz kann nach betroffenen
+ Herzteil oder Fähigkeit des Körpers zur Kompensation
+ erfolgen:
+ \begin{itemize}
+   \item Einteilung nach betroffenen \EE{Herzteil}:
+   \begin{itemize}
+     \item \T{Rechtsherzinsuffizienz}: Unzureichende Leistung des \E{rechten}
+    Herzens,
+     \item \T{Linksherzinsuffizienz}:
+    Unzureichende Leistung des \E{linken} Herzens, und
+     \item \T{Globalinsuffizienz}: Unzureichende Leistung beider Herzteile.
+   \end{itemize}
+   \item Einteilung nach \EE{Kompensation}: Abhängig davon, wie
+   gut der Körper mit der
+   Einschränkung zurecht kommt, unterteilt man:
+   \begin{itemize}
+     \item \T{Kompensierte Herzinsuffizienz}: Der Körper hat noch
+    genug Reserven, kann gegensteuern und kommt mit der
+    eingeschränkten Leistung aus.
+     \item \T[Dekompensierte
+     Herzinsuffizienz]{\E{De}kompensierte Herzinsuffizienz}:
+    Der Körper kommt aufgrund des Fortschreitens der
+    Erkrankung oder aufgrund eines erhöhten Bedarfs nicht mehr
+    mit der Leistung aus. Es treten deutliche
+    Symptome auf.
+   \end{itemize}
+ \end{itemize}
+ 
+ 
+ }{
+ \begin{compactitem}
+   \item Herzteil:
+   \begin{compactitem}
+     \item \E{Rechts}herzinsuffizienz
+     \item \E{Links}herzinsuffizienz
+     \item \E{Global}insuffizienz
+   \end{compactitem}
+   \item Kompensation:
+   \begin{compactitem}
+     \item Kompensierte Herzinsuffizienz
+     \item \Ca{De}kompensierte Herzinsuffizienz
+   \end{compactitem}
+ \end{compactitem}
+ }{}{}{}
+.
+\jALTende
+
+\jNEU
+ \Layout{0}{Einteilung}
+ {Die Einteilung der Herzinsuffizienz kann nach betroffenen
+ Herzteil oder Fähigkeit des Körpers zur Kompensation
+ erfolgen:
+ \begin{itemize}
+   \item Einteilung nach betroffenen \EE{Herzteil}:
+   \begin{itemize}
+     \item \T{Rechtsherzinsuffizienz}: Unzureichende Leistung des \E{rechten}
+    Herzens. Es kommt zu einem \E{Rückstau} von Blut \E{in
+    den Körperkreislauf} und in Folge zu
+    \E{Beinödemen} oder
+    gestauten Halsvenen.
+     \item \T{Linksherzinsuffizienz}:
+    Unzureichende Leistung des \E{linken} Herzens. Es kommt
+    es zu einem \E{Rückstau} des Blutes \E{in den
+    Lungenkreislauf}. Aufgrund der Stauung kommt es zum
+    Austritt von Flüssigkeit in das Zwischengewebe und es
+    kann ein lebensgefährliches \E{kardiales Lungenödem}
+    entstehen.
+    Ein typisches Zeichen dafür ist ein
+    \I[Atemgeräusch!brodelndes -
+    bei Herzinsuffizienz]{brodelndes Atemgeräusch}.
+     \item \T{Globalinsuffizienz}: Unzureichende Leistung beider Herzteile.
+   \end{itemize}
+   \item Einteilung nach \EE{Kompensation}: Abhängig davon, wie
+   gut der Körper mit der
+   Einschränkung zurecht kommt, unterteilt man:
+   \begin{itemize}
+     \item \T{Kompensierte Herzinsuffizienz}: Der Körper hat noch
+    genug Reserven, kann gegensteuern (kompensieren) und
+    kommt mit der eingeschränkten Leistung aus. Für viele
+    Patienten ist sie ein \E{chronischer Zustand} mit dem sie
+    gut leben können, da sich der Körper mit der Zeit an die
+    abnehmende Leistungsfähigkeit gewöhnt.
+     \item \T[Dekompensierte
+     Herzinsuffizienz]{\E{De}kompensierte Herzinsuffizienz}:
+    Problematisch wird es jedoch, wenn die
+    \E{Kompensationsmechanismen} (köpereigene, Medikamente,
+    {\dots}) versagen und der Patient plötzlich Symptome
+    auftreten.
+    Der Körper kommt aufgrund des Fortschreitens der Erkrankung oder aufgrund eines erhöhten Bedarfs nicht mehr
+    mit der eigenen Leistungsfähigkeit aus.
+   \end{itemize}
+ \end{itemize}
+ 
+ 
+ }{
+ \begin{compactitem}
+   \item Herzteil:
+   \begin{compactitem}
+     \item \E{Rechts}herzinsuffizienz
+     \item \E{Links}herzinsuffizienz
+     \item \E{Global}insuffizienz
+   \end{compactitem}
+   \item Kompensation:
+   \begin{compactitem}
+     \item Kompensierte Herzinsuffizienz
+     \item \Ca{De}kompensierte Herzinsuffizienz
+   \end{compactitem}
+ \end{compactitem}
+ }{}{}{}
+.
+\jNEUende
 
 \section{INK}
-text
+\subsection{HIV}
+Übertragung auch über Liquor und Muttermilch
+
+\jALT
+ \Layout{0}{Übertragung}
+ {%
+ Übertragen wird das HI-Virus v.\,a. durch Körperflüssigkeiten
+wie Blut, Blutprodukte, Sperma und Scheidensekret.
+ \E{\enquote{Ungeschützter Sex}}, Transfusionen und
+ \E{Nadelstichverletzungen} gelten als klassische Risiken.
+ Es erfolgt \EE{keine Übertragung durch normale
+ Sozialkontakte} wie Händeschütteln, wohnen im
+ gemeinsamen Haushalt, gemeinsame Benutzung von Geschirr und
+ Toilettenanlagen, etc.
+ }{
+ \begin{itemize}
+   \item Körperflüssigkeiten
+   \item \E{Nicht} durch normale Sozialkontakte
+ \end{itemize}
+ }
+ {}
+ {}
+ {}.
+\jALTende
+
+\jNEU
+ \Layout{0}{Übertragung}
+ {%
+ Übertragen wird das HI-Virus v.\,a. durch Körperflüssigkeiten
+wie Blut, Blutprodukte, Sperma und Scheidensekret, Liquor oder Muttermilch.
+ \E{\enquote{Ungeschützter Sex}}, Transfusionen und
+ \E{Nadelstichverletzungen} gelten als klassische Risiken.
+ Es erfolgt \EE{keine Übertragung durch normale
+ Sozialkontakte} wie Händeschütteln, wohnen im
+ gemeinsamen Haushalt, gemeinsame Benutzung von Geschirr und
+ Toilettenanlagen, etc.
+ }{
+ \begin{itemize}
+   \item Körperflüssigkeiten
+   \item \E{Nicht} durch normale Sozialkontakte
+ \end{itemize}
+ }
+ {}
+ {}
+ {}.
+\jNEUende
 
 \section{JUS}
 \subsection{Aufklärung -- Aufklärungspflicht}
@@ -438,23 +889,1933 @@ im Rahmen der Versorgung.
 \jNEUende
 
 \section{NEU}
-text
+\subsection{Fieberkrampf}
+Kinder unter 4 Jahre statt unter 5 Jahre (Box in Randspalte)
+
+\jALT
+\Layout{60}{Fieberkrampf}
+{
+\EE{Kinder} unter 5~Jahren können bei schnellem, hohen
+Fieberanstieg ({\textgreater}\,39{\DegC}) 
+\E{Fieberkrämpfe} entwickeln. Sie entsprechen einem vom
+Gehirn ausgehenden Krampfanfall und sind grundsätzlich genau
+so zu behandeln.
+
+ Mitunter ist die Neigung des Kindes zu Fieberkrämpfen schon
+ bekannt und es wurden bereits spezielle Zäpfchen für den
+ Bedarfsfall verschrieben (und bei Eintreffen eventuell schon
+ von den Eltern gegeben).
+ }{
+ \begin{itemize}
+  \item Kinder {\textless} 5 Jahre
+   \item Hohes Fieber
+   \item Wie generalisierter Anfall
+ \end{itemize}
+ }
+ {./images/gabriel-sebastian-aass/fieberthermometer.jpg}
+ {}
+ {GABS}
+ .
+ \jALTende
+
+\jNEU
+\Layout{60}{Fieberkrampf}
+{
+\EE{Kinder} unter 5~Jahren können bei schnellem, hohen
+Fieberanstieg ({\textgreater}\,39{\DegC}) 
+\E{Fieberkrämpfe} entwickeln. Sie entsprechen einem vom
+Gehirn ausgehenden Krampfanfall und sind grundsätzlich genau
+so zu behandeln.
+
+ Mitunter ist die Neigung des Kindes zu Fieberkrämpfen schon
+ bekannt und es wurden bereits spezielle Zäpfchen für den
+ Bedarfsfall verschrieben (und bei Eintreffen eventuell schon
+ von den Eltern gegeben).
+ }{
+ \begin{itemize}
+  \item Kinder {\textless} 4 Jahre
+   \item Hohes Fieber
+   \item Wie generalisierter Anfall
+ \end{itemize}
+ }
+ {./images/gabriel-sebastian-aass/fieberthermometer.jpg}
+ {}
+ {GABS}
+ .
+\jNEUende
 
 \section{PAM}
-text
+PAM wurde stark überarbeitet $\to$ ggf. PDF ansehen bzw. vergleiche Abschnitt
+Umstrukturierungen, \prettyref{sec:umstrukt}!
+
+\subsection{Blutdruck, HF: D $\to$ C}
+Das Erheben von Blutdruck und HF wandert von D nach C.
+
+\jALT
+Tabelle \ref{m:ersteinschaetzung}
+\jALTende
+
+\jNEU
+Tabelle \ref{m:ersteinschaetzungNEU}
+\jNEUende
+
+\noindent\begin{minipage}[H]{\jganzebreite}
+ \MassnahmenWide{Standardmaßnahmen}{Einschätzungsblock}
+ {\label{m:ersteinschaetzung}\label{m:einschaetzungsblock}}
+ {%
+ \CorrectionItemizeBox\renewcommand{\itemhook}{%
+ %   \setlength{\topsep}{0pt}%
+   \setlength{\itemsep}{0.004\baselineskip}
+ %   \setlength{\parskip}{\baselineskip}
+   \setlength{\leftmargin}{1.4em}
+   \setlength{\labelwidth}{0.9em}
+ }
+ \noindent\begin{minipage}[t]{\linewidth -
+ {2\fboxrule} - {2\fboxsep}}
+ \noindent\begin{minipage}[t]{\linewidth}
+ {%\vspace{-2em}%
+ \footnotesize
+ % \begin{tabulary}{\linewidth}[H]{cp{8em}p{8.5cm}}
+ \begin{tabularx}{\linewidth}[H]{p{2cm}XX}
+ % \toprule\addlinespace
+ &
+ \TabHeading{Beurteilung / Untersuchung}
+ &
+ \TabHeading{Typische Sofortmaßnahmen}
+ \\\addlinespace\toprule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{Sz}}\vspace{\baselineskip}
+ 
+ \TabHeading{Szeneüberblick m. Schutz}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Sicherheit, Selbstschutz; Patientenanzahl; 
+   \item Umgebung, Ort,
+ Zeit, Gefahrenzonen, Umstände,
+ \item Weitere Resourcen erforderlich? Unfallmechanismus,
+ Großschaden
+ \item Lagemedlung erforderlich
+ \item \EE{Trauma?} \EE{Mechanismus?}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item GAS-Maßnahmen (\prettyref{topic:gefahrengutunfall})
+   \item Lagemeldung
+   \item Schutzausrüstung
+   \item Nachforderung weiterer Kräfte
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\toprule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{Ei}}\vspace{\baselineskip}
+ 
+ \TabHeading{Eindruck}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Alter, Geschlecht, \EE{Hautfarbe}, Gesichtsausdruck,
+   \EE{Haltung}, spontane Bewegungen,  Sprache
+   \item Offensichtliche Verletzungen, Blutungen
+   \item Sonstige \EE{Auffälligkeiten}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Manuelle HWS-Fixierung
+   \item Stillung von starken Blutungen
+   \item Bewegungsverbot
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\midrule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{Be}}
+ 
+ \TabHeading{Bewusstsein}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item \EE{Bewusstseinsgrad} (WASB)
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item NA-Nachforderung
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\midrule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{Hb}}
+ 
+ \TabHeading{Hauptbeschwerde}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item \EE{Berufungsgrund} und
+   \EE{Leitsymptome}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+ \end{minipage}
+ \\\addlinespace\toprule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{A}}\vspace{\baselineskip}
+ 
+ \TabHeading{Atemweg}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item *Inspektion der Atemwege (\EE{Mund}, \EE{Nase})
+   \item \EE{Atemgeräusche}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Absaugung, Fremdkörper entfernen
+   \item Kopf überstrecken, Esmarch-Handgriff
+   \item HWS-Immobilisation manuell oder mit Schiene
+   \item \Z{Erweiterte Maßnahmen}
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\midrule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{B}}\vspace{\baselineskip}
+ 
+ \TabHeading{Atmung}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Schätzen: \EE{Atemfrequenz}, \EE{-tiefe}
+   \item *\EE{Sp\ce{O2}}
+   \item Atemgeräusche
+   \item Inspektion der \EE{Thorax-Atembewegungen}, ggfs. 
+   Atemprobe
+   \item \E{Zeichen der
+   Atemnot}: Hautfarbe, Bauch-/Thorax\-bewegungen,
+   Anstrengung beim Atmen, Atemhilfsmuskulatur, \ldots
+   \item \Z{(Auskultation: Seitenvergleich, Lungenbasen)}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Reanimation
+   \item Assistierte Beatmung (bei AF \textless\,8 oder
+   \textgreater\,30\PerMin*)
+   \item \ce{O2}-Gabe
+   \item Situationsgerechte Lagerung
+   \item \Z{Erweiterte Maßnahmen\\(Entlastung
+   Spannungspneumothorax, \ldots )}
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\midrule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{C}}\vspace{\baselineskip}
+ 
+ \TabHeading{Kreislauf}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item \EE{Hautfarbe}, \EE{-temperatur}
+   \item Schweiß
+   \item \EE{Rekap}-Zeit
+   \item \EE{Radialispuls}: Stärke, Rhythmus, Abschätzen der
+   Frequenz
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{Indigo}\itshape\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Blutstillung
+   \item Situationsgerechte Lagerung
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\cmidrule{2-3}\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{STU}}\vspace{\baselineskip}
+ 
+ \TabHeading{*Schnelle Trauma-Untersuchung}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Inspektion
+   und Abtasten von
+   \begin{compactenum}
+     \item \EE{Kopf} inkl. Ohren,
+     \item \EE{Hals},
+     \item \EE{Thorax},
+     \item \EE{Bauch},
+     \item \EE{Becken} und
+     \item \EE{Oberschenkel}
+   \end{compactenum}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Blutstillung
+   \item Situationsgerechte Lagerung
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\midrule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{D}}\vspace{\baselineskip}
+ 
+ \TabHeading{Schnelle\newline Untersuchung}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+  \item Vitalwerte (\EE{HF}, \EE{RR})
+  \item Neurologisch:
+  \begin{itemize}
+     \item \EE{Orientierung} oder *\EE{GCS}
+     \item \EE{Pupillen}
+     \item \EE{Kraftprobe OE}, *UE
+     \item *Kann der
+     Patient \EE{Hände} und \EE{Füße} spüren und aktiv
+     bewegen?
+  \end{itemize}
+   \item *\EE{Blutzuckermessung}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Transportentscheidung (eilig, Rendez-vous, \ldots)
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\midrule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{E}}
+ 
+ \TabHeading{Erweiterte\newline Untersuchung}
+ 
+ {\tiny (Wenn Einschätzung der vitalen
+ Bedrohung oder Hauptbeschwerde unklar ist.)}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item (Fremd-) \EE{Anamnese} (SAMPLE, OPQRST)
+   \item Einschätzen der \EE{Umgebung}
+   \item Weitere relevante \EE{Untersuchungen}
+   \item Arbeitsdiagnose erstellen und Differentialdiagnosen
+   ausschließen
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Transportentscheidung 
+   \item Spezielle Maßnahmen gemäß Verdachtsdiagnose
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\bottomrule
+ \end{tabularx}
+ 
+ \begin{center}
+   \EE{Der Einschätzungsblock muss in regelmäßigen Abständen
+ in angemessenem Umfang wiederholt
+ werden (Verlaufskontrolle)!} \tiny
+ 
+ { Mit einem * versehene Punkte werden nur durchgeführt,
+ wenn sie \E{situationsentsprechend} sind. \enquote{Typische
+ Sofortmaßnahmen} sind als \E{Beispiele} zu verstehen. 
+ 
+ Bei \Ca{absolut zeitkritischen Patienten}, bei denen bereits die 
+ ABC-Einschätzung ergibt dass ein Transport nicht aufschiebbar ist, 
+ kann u.\,U. schon \Ca{nach dem Punkt C eine vorgezogene Strategie- 
+ und Transportentscheidung} getroffen werden. 
+ Die Maßnahmen von D und E sollen dann, sofern möglich, während des 
+ Transportes erfolgen. }
+ \end{center}
+ }
+ \end{minipage}
+ \end{minipage}%\vspace{-\baselineskip}
+ }
+ \end{minipage}
+
+\noindent
+\begin{minipage}[H]{\jganzebreite}
+ \MassnahmenWide{Standardmaßnahmen}{Einschätzungsblock}
+ {\label{m:ersteinschaetzungNEU}\label{m:einschaetzungsblockNEU}}
+ {%
+ \CorrectionItemizeBox\renewcommand{\itemhook}{%
+ %   \setlength{\topsep}{0pt}%
+   \setlength{\itemsep}{0.004\baselineskip}
+ %   \setlength{\parskip}{\baselineskip}
+   \setlength{\leftmargin}{1.4em}
+   \setlength{\labelwidth}{0.9em}
+ }
+ \noindent\begin{minipage}[t]{\linewidth -
+ {2\fboxrule} - {2\fboxsep}}
+ \noindent\begin{minipage}[t]{\linewidth}
+ {%\vspace{-2em}%
+ \footnotesize
+ % \begin{tabulary}{\linewidth}[H]{cp{8em}p{8.5cm}}
+ \begin{tabularx}{\linewidth}[H]{p{2cm}XX}
+ % \toprule\addlinespace
+ &
+ \TabHeading{Beurteilung / Untersuchung}
+ &
+ \TabHeading{Typische Sofortmaßnahmen}
+ \\\addlinespace\toprule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{Sz}}\vspace{\baselineskip}
+ 
+ \TabHeading{Szeneüberblick m. Schutz}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Sicherheit, Selbstschutz; Patientenanzahl; 
+   \item Umgebung, Ort,
+ Zeit, Gefahrenzonen, Umstände,
+ \item Weitere Resourcen erforderlich? Unfallmechanismus,
+ Großschaden
+ \item Lagemedlung erforderlich
+ \item \EE{Trauma?} \EE{Mechanismus?}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item GAS-Maßnahmen (\prettyref{topic:gefahrengutunfall})
+   \item Lagemeldung
+   \item Schutzausrüstung
+   \item Nachforderung weiterer Kräfte
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\toprule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{Ei}}\vspace{\baselineskip}
+ 
+ \TabHeading{Eindruck}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Alter, Geschlecht, \EE{Hautfarbe}, Gesichtsausdruck,
+   \EE{Haltung}, spontane Bewegungen,  Sprache
+   \item Offensichtliche Verletzungen, Blutungen
+   \item Sonstige \EE{Auffälligkeiten}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Manuelle HWS-Fixierung
+   \item Stillung von starken Blutungen
+   \item Bewegungsverbot
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\midrule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{Be}}
+ 
+ \TabHeading{Bewusstsein}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item \EE{Bewusstseinsgrad} (WASB)
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item NA-Nachforderung
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\midrule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{Hb}}
+ 
+ \TabHeading{Hauptbeschwerde}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item \EE{Berufungsgrund} und
+   \EE{Leitsymptome}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
+ \end{minipage}
+ \\\addlinespace\toprule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{A}}\vspace{\baselineskip}
+ 
+ \TabHeading{Atemweg}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item *Inspektion der Atemwege (\EE{Mund}, \EE{Nase})
+   \item \EE{Atemgeräusche}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Absaugung, Fremdkörper entfernen
+   \item Kopf überstrecken, Esmarch-Handgriff
+   \item HWS-Immobilisation manuell oder mit Schiene
+   \item \Z{Erweiterte Maßnahmen}
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\midrule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{B}}\vspace{\baselineskip}
+ 
+ \TabHeading{Atmung}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Schätzen: \EE{Atemfrequenz}, \EE{-tiefe}
+   \item *\EE{Sp\ce{O2}}
+   \item Atemgeräusche
+   \item Inspektion der \EE{Thorax-Atembewegungen}, ggfs. 
+   Atemprobe
+   \item \E{Zeichen der
+   Atemnot}: Hautfarbe, Bauch-/Thorax\-bewegungen,
+   Anstrengung beim Atmen, Atemhilfsmuskulatur, \ldots
+   \item \Z{(Auskultation: Seitenvergleich, Lungenbasen)}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Reanimation
+   \item Assistierte Beatmung (bei AF \textless\,8 oder
+   \textgreater\,30\PerMin*)
+   \item \ce{O2}-Gabe
+   \item Situationsgerechte Lagerung
+   \item \Z{Erweiterte Maßnahmen\\(Entlastung
+   Spannungspneumothorax, \ldots )}
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\midrule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{C}}\vspace{\baselineskip}
+ 
+ \TabHeading{Kreislauf}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item \EE{Hautfarbe}, \EE{-temperatur}
+   \item Schweiß
+   \item \EE{Rekap}-Zeit
+   \item \EE{Radialispuls}: Stärke, Rhythmus, Abschätzen der
+   Frequenz
+  \item \EE{Herzfrequenz}
+  \item \EE{Blutdruck}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{DefaultA}\itshape\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Blutstillung
+   \item Situationsgerechte Lagerung
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\cmidrule{2-3}\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{STU}}\vspace{\baselineskip}
+ 
+ \TabHeading{*Schnelle Trauma-Untersuchung}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Inspektion
+   und Abtasten von
+   \begin{compactenum}
+     \item \EE{Kopf} inkl. Ohren,
+     \item \EE{Hals},
+     \item \EE{Thorax},
+     \item \EE{Bauch},
+     \item \EE{Becken} und
+     \item \EE{Oberschenkel}
+   \end{compactenum}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Blutstillung
+   \item Situationsgerechte Lagerung
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\midrule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{D}}\vspace{\baselineskip}
+ 
+ \TabHeading{Schnelle\newline Untersuchung}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+     \item \EE{Orientierung} oder *\EE{GCS}
+     \item \EE{Pupillen}
+     \item \EE{Kraftprobe OE}, *UE
+     \item *Kann der
+     Patient \EE{Hände} und \EE{Füße} spüren und aktiv
+     bewegen?
+   \item *\EE{Blutzuckermessung}
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Transportentscheidung (eilig, Rendez-vous, \ldots)
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\midrule\addlinespace
+ \noindent\TabHeading{\ABCDEPlain{E}}
+ 
+ \TabHeading{Erweiterte\newline Untersuchung}
+ 
+ {\tiny (Wenn Einschätzung der vitalen
+ Bedrohung oder Hauptbeschwerde unklar ist.)}
+ &
+ \begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item (Fremd-) \EE{Anamnese} (SAMPLE, OPQRST)
+   \item Einschätzen der \EE{Umgebung}
+   \item Weitere relevante \EE{Untersuchungen}
+   \item Arbeitsdiagnose erstellen und Differentialdiagnosen
+   ausschließen
+ \end{itemize}
+ \end{minipage}
+ &
+\noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
+ \begin{itemize}
+   \item Transportentscheidung 
+   \item Spezielle Maßnahmen gemäß Verdachtsdiagnose
+ \end{itemize}
+ \end{minipage}
+ \\\addlinespace\bottomrule
+ \end{tabularx}
+ 
+ \begin{center}
+   \EE{Der Einschätzungsblock muss in regelmäßigen Abständen
+ in angemessenem Umfang wiederholt
+ werden (Verlaufskontrolle)!} \tiny
+ 
+ { Mit einem * versehene Punkte werden nur durchgeführt,
+ wenn sie \E{situationsentsprechend} sind. \enquote{Typische
+ Sofortmaßnahmen} sind als \E{Beispiele} zu verstehen. 
+ 
+ Bei \Ca{absolut zeitkritischen Patienten}, bei denen bereits die 
+ ABC-Einschätzung ergibt dass ein Transport nicht aufschiebbar ist, 
+ kann u.\,U. schon \Ca{nach dem Punkt C eine vorgezogene Strategie- 
+ und Transportentscheidung} getroffen werden. 
+ Die Maßnahmen von D und E sollen dann, sofern möglich, während des 
+ Transportes erfolgen. }
+ \end{center}
+ }
+ \end{minipage}
+ \end{minipage}%\vspace{-\baselineskip}
+ }
+ \end{minipage}
+
+\subsection{Kommunikationstheorie / Stille Post}
+
+\jALT
+ Ein gutes Beispiel einer Störung der Kommunikation ist das
+\enquote*{Stille-Post}-Spiel. 
+Um deratige Übertragungsfehler zu \E{vermeiden}, ist es
+wichtig, dass der Empfänger eine Kontroll- bzw. \EE{Rückmeldung} an den Sender
+gibt, um zu kontrollieren, ob und wie er die Botschaft
+verstanden hat.
+\jALTende
+
+\jNEU
+ Ein gutes Beispiel einer Störung der Kommunikation ist das
+\enquote*{Stille-Post}-Spiel, bei welchem am Ende der
+Übertragungskette die ursprüngliche Nachricht zumiest völlig
+entstellt ist. Um deratige Übertragungsfehler zu
+\E{vermeiden}, ist es wichtig, dass der Empfänger eine
+Kontroll- bzw. \EE{Rückmeldung} an den Sender gibt, um zu
+kontrollieren, ob und wie er die Botschaft verstanden hat.
+\jNEUende
+
+\subsection{Kommunikationstheorie / Kommunikationsregeln}
+
+\jNEU
+\dictum[Paul Watzlawick, \cite{WatzlawickMenschlKomm11}]{Man
+kann nicht \E{nicht} kommunizieren.}\bigskip
+
+Kommunikation ist die Voraussetzung für eine erfolgreiche
+Zusammenarbeit in einer Gemeinschaft. Bei der Versorgung
+eines Patienten gilt dieser Grundsatz ebenso, zusätzlich
+finden sich hier spezielle Herausforderungen. Einseits
+besteht diese \enquote*{Gemeinschaft} aus sehr
+unterschiedlichen Personen: Fachpersonal unterschiedlicher
+Ausbildungsstufen einerseits, und Patienten und Angehörige,
+welche zumeist über wenig Fachwissen, dafür aber oft über
+ausgeprägte und mal mehr, mal weniger verständliche
+Eigeninteressen verfügen andererseits. Dazu kommen mitunter
+noch weitere Personen wie Polizisten, Fuerwehrleute,
+Bedienstete von Verkehrbetrieben usw. Dabei darf man auch
+nicht auf unbeteiligte Dritte vergessen (Berufer,
+Schaulustige, Zeugen, \ldots), welche auf eine
+Patientenversorgung evtl. auf Einfluss nehmen können. 
+
+Als wäre diese Fülle von Kommunikationspartnern nicht schon
+Herausforderung genug, findet man sich häufig in einer
+Situation wieder, die für die Kommunikationspartner einen
+Ausnahmezustand darstellt: Krankheit, Schmerzen,
+viele unbekannte Gesichter, unbekannte Geräte, eine oft
+unbekannte Fachsprache, die Ungewissheit was passieren wird
+{\ldots} All dem soll im Rahmen einer professionellen
+Kommunikation entsprechend begegnet werden. 
+
+Ziele der Kommunkation:
+
+\begin{itemize}
+  \item Ermittlung von Informationen
+\begin{compactitem}
+  \item Situation
+  \item Anamnese (mit Patient, Fremdanamnese, \ldots)
+\end{compactitem}
+  \item \EE{Aufklärung} des Patienten: Jeder Patient ist vor
+  Durchführung einer Untersuchung oder Maßnahme über
+  diese aufzuklären.
+  Das \E{Recht auf Aufklärung} ist nach der
+  \E{Grundrechtecharta} der \Abk{EU} ein \EE{Grundrecht}
+  (\FullPrettyRef{topic:aufklaerung}).
+  
+  Vor allem ist es aber eine Frage des Respekts  gegenüber
+  dem Patienten ihm zu sagen, was man an \E{seinem} Körper
+  macht.
+  \begin{compactitem}
+    \item Untersuchungen
+    \item Maßnahmen
+    \item Weitere Vorgänge
+  \end{compactitem}
+  \item \EE{Psychische Betreuung} -- Eng in Verbindung mit
+  der Aufklärung
+  \begin{compactitem}
+    \item Bildung einer Vertrauensbasis
+    \item Förderung der Kooperation
+  \end{compactitem}
+  \item \EE{Verständigung} innerhalb des Teams
+  \begin{compactitem}
+    \item \enquote{Alle Teammitgleider am gleichen Stand}
+    \item Absprache des weiteren Vorgehens
+    \item Koordination von Untersuchungen und Maßnahmen
+  \end{compactitem}
+  \item \EE{Übergabe von Informationen} an weiterbehandelnde
+  Stellen
+\end{itemize}
+
+\subsubsection{Kurze Kommunikationstheorie}
+
+Es gibt Theorien zur Kommunikation wie Sand am mehr. Im
+folgenden wollen wir uns auf zwei wesentliche, in der Praxis
+sehr taugliche Beschreibungen konzentrieren, welche vie der
+Fehler und Fallen, die tagtäglich auf uns lauern, erklären
+können. 
+
+\begin{enumerate}
+  \item \EE{Übermittlung}: Es gibt bei der
+  Nachrichtenübermittlung einen Sender und einen Empfänger.
+  \item \EE{Aussagen}: Eine Nachricht enthält
+  unterschiedliche Aussagen.
+\end{enumerate}
+
+\Layout{2}
+{Übermittlung: Sender und Empfänger}
+{%
+Eine \EE{Nachricht} wird 
+\begin{enumerate}
+  \item von
+einem \EE{Sender} 
+\item \EE{kodiert} (Sprache, Fachsprache, Dialekt,
+Umgangssprache, \ldots).
+\item und über einen \EE{Übertragungsweg} (direk mündlich,
+Sprechfunk, Datenfunk, Protokolle und Niederschriften, \ldots)
+\item zu einem \EE{Empfänger} übermittelt
+\item und dort \EE{dekodiert}.
+\end{enumerate}
+Die Nachricht kann \EE{durch Störungen verfälscht} werden.
+Diese Störung kann auftreten:
+\begin{itemize}
+  \item Beim \EE{Sender}: Der Sender sagt nicht was er sagen
+  will, undeutliche Sprache, \ldots
+  \item Bei der \EE{Kodierung}: Mehrdeutigkeit, kulturelle
+  Unterschiede,
+  \item Beim \EE{Übertragungsweg}: Laute Umgebung,
+  undeutlicher Sprechfunk, unleserliche Schrift, \ldots
+  \item Beim \EE{Empfänger} und bei der \EE{Dekodierung}:
+  Unkenntnis der Fachsprache oder der Umgangssprache, Schwerhörigkeit, Ablenkung, Unkenntnis
+  des Zusammenhangs, eingegrenzte Wahrnehmung, \ldots
+  
+  Ein großes Problem dabei ist, dass der Empfänger oft
+  nicht bemerkt dass er etwas falsch verstanden hat.
+\end{itemize}
+
+\Fazit{\E{gedacht} ist nicht gesagt, 
+\E{gesagt} ist nicht gehört,
+\E{gehört} ist nicht verstanden,
+\E{verstanden} ist nicht gewollt.}
+
+Ein gutes Beispiel einer Störung der Kommunikation ist das
+\enquote*{Stille-Post}-Spiel. 
+Um deratige Übertragungsfehler zu \E{vermeiden}, ist es
+wichtig, dass der Empfänger eine Kontroll- bzw. \EE{Rückmeldung} an den Sender
+gibt, um zu kontrollieren, ob und wie er die Botschaft
+verstanden hat.}
+{}
+{}
+{}
+{}
+
+\bigskip 
+
+\Layout{27}
+{}
+{}
+{}
+{./images/wikipedia-cc-by-sa/Sender-Empfaenger-Modell-edited}
+{Das Sender-Empfänger-Modell}
+{User:Wiska Bodo, original uploader Freak222
+auf \url{http://de.wikipedia.org}, modifiziert; ; CC-BY-SA
+3.0}
+
+\Layout{2}
+{Aussagen einer Nachricht}
+{Jede Nachricht hat vier Aussagen\ZFootnote{Nach
+Friedemann Schulz von Thun, \cite{ThunRedenI46}}:
+
+\begin{itemize}
+  \item \EE{Sachaussage}: Hier vermittelt der
+  Sender Daten, Fakten und Sachverhalte.
+  \item \EE{Beziehungsaussage}: Hier
+  kommt zum Ausdruck, wie der Sender und Empfänger sich
+  zueinander verhalten und sich gegenseitig einschätzen.
+  Entscheidend ist die Art der Formulierung, die
+  Körpersprache, Tonfall usw., womit Wertschätzung, Respekt,
+  Wohlwollen, Gleichgültigkeit, Verachtung etc. vermittelt
+  werden kann.
+  \item \EE{Appellaussage}: Der Appellanteil einer Nachricht
+  soll den Empfänger veranlassen, etwas zu tun
+  (oder nicht zu tun). 
+  Dieser Versuch einer Einflussnahme kann offen oder
+  verdeckt sein, er kann von offenen Bitten und
+  Aufforderungen bis hin zu verdeckten
+  Manipulationsversuchen reichen.
+  \item \EE{Selbstoffenbarung} des Senders: Jede Sendung
+  führt unweigerlich zu einer Selbstdarstellung und Selbstenthüllung.
+  Sie kann somit zu Deutungen über die
+  Persönlichkeit des Sprechers verwendet werden. 
+\end{itemize}
+
+Entscheidend in der Kommunikation ist die Tatsache, dass die
+gleiche Nachricht beim Sender und beim Empfänger auf
+unterschiedliche Art und Weise gedeutet und gewichtet wird,
+was zu teils katastrophalen Missverständnissen führen kann. Als
+klassisches Beispiel ist die \enquote*{Ampelsituation}
+bekannt: 
+
+\begin{quote}
+  Ein Paar sitzt im Auto, die Frau sitzt am Steuer, der Mann
+  am Beifahrersitz. Sie stehen vor einer roten Ampel, welche
+  auf grün wechselt.
+  
+  Er sagt: \Speech{\enquote{Du, da vorne ist grün!}}
+  
+  \E{Eine} mögliche Deutung:\small
+  
+  \begin{tabularx}{\linewidth}{XXX}
+  & \TabHeading{Er (Sender)} & \TabHeading{Sie (Empfänger)}
+  \\\addlinespace
+  \TabSub{Sachaussage}
+  & 
+  Die Ampel ist grün.
+  &
+  Die Ampel ist grün.
+  \\\addlinespace
+  \TabSub{Beziehungs\-aus\-sage}
+  & 
+  Sie braucht meine Hilfe
+  &
+  Er fühlt sich mir überlegen.
+  \\\addlinespace
+  \TabSub{Appellaussage}
+  &
+  Fahr los!
+  &
+  Steig aus und lass mich fahren.
+  \\\addlinespace
+  \TabSub{Selbst\-offen\-barung} 
+  &
+  Ich habe es eilig.
+  &
+  Er will mich bevormunden.
+  \end{tabularx}
+  \normalsize
+\end{quote}
+
+}
+{}
+{}
+{}
+{}
+
+\Layout{27}
+{}
+{}
+{}
+{./images/wikipedia-cc-by-sa/SchulzVonThunVierOhrenModell-edited.pdf}
+{Vier-Ohren-Modell der Kommunikation, nach Friedemann Schulz
+von Thun \cite{ThunRedenI46}}
+{User \enquote*{Mussklprozz} auf Wikipedia, modifiziert;
+CC-BY-SA 3.0}
+.
+\jNEUende
+
+\subsection{Bewusstsein}
+Überarbeitung GABS, ggf. PDF durchsehen!
+
+\jALT
+\Layout{0}{{Be} | Bewusstsein}
+{%
+Beurteilt wird das \E{quantitative Bewusstsein}, also der
+\EE{Bewusstseinsgrad} (\Speech{\enquote{\EE{Wieviel} Bewusstsein
+ist vorhanden?}}, vgl.
+\prettyref{topic:bewusstseinsstoerung-grade}), nach dem
+\T{WASB-Schema}. WASB ist die Abkürzung für 
+\begin{compactitem}
+  \item \EE{\underline{W}ach},
+  \item Reaktion auf \EE{\underline{A}nsprechen} oder
+  leichte Weckreize,
+  \item Reaktion auf \EE{\underline{S}chmerzreiz} und
+  \item \EE{\underline{B}ewusstlos}. 
+\end{compactitem}
+
+\noindent Dementsprechend kann ein Patient 
+\begin{compactitem}
+  \item \T{bewusstseinsklar},
+  \item \T{somnolent}, 
+  \item \T{soporös} oder 
+  \item \T{komatös}/\T{bewusstlos}
+\end{compactitem}
+sein (vgl. quantitative Bewusstseinsgrade, 
+\FullPrettyRef{topic:bewusstsein}).
+% 
+% \bigskip
+
+}{%
+\begin{itemize}
+  \item WASB \begin{compactitem}
+    \item Wach \dotfill  \EE{klar}
+    \item Ansprache \dotfill 
+    \EE{somnolent}
+    \item Schmerzreiz \dotfill  \EE{soporös}
+    \item Bewusstlos \ldots  \EE{komatös}
+  \end{compactitem}
+%   \item 
+%   , Schmerzreiz
+%   
+\end{itemize}
+% \begin{compactitem}
+%   \item[\eye] klar, somnolent, soporös, komatös/bewusstlos
+% \end{compactitem}
+}{./icons/dead.png}{}{}
+ 
+ \Layout{0}{\TxBeschreibung}
+ {\DefinitionInPara{Bewusstsein ist ein Oberbegriff für u.\,a. Wachheit,
+ Orientierung, Aufmerksamkeit, Auffassungsgabe, Denkverlauf und
+ Merkfähigkeit \cite{Pschy259}.} Es ist ferner eine grundlegende Vitalfunktion erster
+ Ordnung, es ist besonders wichtig hinsichtlich des
+ Schutzes des Menschen vor Bedrohung. Ein bewusstseinsklarer
+ Mensch kann sich gegen Gefahren wehren, ein eingetrübter
+ oder bewusstloser Mensch kann dies schlecht oder gar nicht. 
+ 
+ Bei der Diagnostik beurteilt man die
+ Bewusstseinsgrade (klar, somnolent, soporös, komatös) und
+ die Orientierung (zeitlich, örtlich, zur Situation und zur
+ Person). Bewusstseinsstörungen sind aufgrund des Ausfalls
+ der Schutzreflexe und des Zurückfallens der Zunge
+ gefährlich. Es gibt Ursachen für Störungen, welche primär
+ direkt (Verletzung, Schlaganfall, \ldots), und Ursachen, die
+ sekundär, also über Umwege (Zuckerstoffwechsel,
+ Vergiftungen, \ldots), auf das ZNS einwirken.
+ 
+ \Z{Die \enquote{wahre} Definition von Bewusstsein ist seit
+ tausenden von Jahren ungeklärt. Auch an dieser Stelle wird
+ das Geheimnis nicht gelüftet werden, daher muss die obige
+ Definition für den Alltag ausreichen.\footnote{Hinweisen
+ zufolge könnte die Antwort
+ eventuell \enquote{42} sein
+ \citep{UltimateHitchhikersGuide96hitchhikersguide}.}}
+ }{
+ \begin{itemize}
+   \item Vitalfunktion 1. Ordnung
+   \item Überlebenswichtig
+ \end{itemize}
+ }{}{}{}
+ 
+ \subsubsection{Bewusstsein / Bewusstseinstörung}
+ 
+\Layout{0}{Allgemein}
+{%
+\DefinitionInPara{Als Bewusstseinsstörungen bezeichnet man
+insbesonders Störungen der
+Wachheit und der Orientierung.}
+Wie bereits oben erwähnt, ist das Bewusstsein wesentlich an
+der Abwehr von Gefahren beteiligt. Je mehr das Bewusstsein
+gestört oder reduziert ist, desto gefährlicher ist das für
+den Patienten.
+Die \EE{Zunge} kann zurück fallen und die Atemwege verlegen.
+Dabei ist manchmal ein dem \E{Schnarchen ähnliches}
+Atemgeräusch zu vernehmen.
+Durch den Ausfall \index{Schutzreflexe!Ausfall} der
+Schutzreflexe kann es zu einer
+\II{Aspiration} von Speichel, Blut oder
+Erbrochenen kommen. 
+}{%
+Gefahren:
+\begin{itemize}
+  \item Zurückfallen der Zunge
+  \item Ausfall der Schutzreflexe
+  \item Aspiration
+\end{itemize}
+}{}{}{}
+
+\Layout{2}{Schutzreflexe}
+{%
+Ab einem gewissen Punkt können auch so wesentliche
+Funktionen wie der \EE{Schluck-}, \EE{Würge-} bzw. \EE{Hustenreflex}
+ausfallen, und es kann Mageninhalt oder Blut in die
+Lunge gelangen (\T{Aspiration}). Man spricht auch vom
+\EE{Ausfall der Schutzreflexe}.
+Bei schweren Bewusstseinsstörungen kann es auch zum Erschlaffen
+wichtiger Muskeln wie z.\,B. der Zunge kommen. Fällt
+diese zurück, kann sie den Atemweg blockieren oder ganz verschließen.
+}{}{}{}{}
+
+\Fazit{Schwere Bewusstseinsstörungen sind
+\EE{lebensgefährlich!}}
+
+
+\Layout{0}{Einteilung der Störungen}
+{%
+Man unterscheidet zwischen der Quantität (\E{Wieviel}
+Bewusstsein ist vorhanden?) und der Qualität (\E{Wie
+gut} funktioniert das vorhandene Bewusstsein?). Maßgeblich
+ist der \EE{Bewusstseinsgrad} (quanititativ) und die
+\EE{Orientiertheit} des Patienten (qualitativ).
+Die Glasgow Coma Scale ist ein spezielles Maßsystem für
+vorwiegend statistische Zwecke.
+}{
+\begin{itemize}
+  \item Bewusstseinsgrad (quantitativ)
+  \item Orientiertheit (qualitativ)
+\end{itemize}
+}{}{}{}
+ 
+ \Layout{0}{Bewusstseinsgrad}
+ {%
+ \index{Bewusstseinsgrad}
+ \label{topic:bewusstseinsstoerung-grade}
+ \index{Bewusstsein!Symptome}
+ %
+ Der Bewusstseinsgrad gibt Auskunft über die Quantität des
+ Bewusstseins (\enquote{\E{Wieviel} Bewusstsein ist
+ vorhanden?}). Er muss bei jedem Patienten festgestellt
+werden.
+Die folgende Tabelle (\prettyref{tab:bewusstseinsgrade})
+listet die möglichen
+Bewusstseinsgrade auf:
+ }{
+ \begin{itemize}
+   \item W\,--\,A\,--\,S\,--\,B
+ \end{itemize}
+ }{}{}{}
+ 
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\Layout{0}{Orientierung}
+{%
+\label{topic:orientierung}
+\index{Orientierung}
+%
+Es ist wichtig zu Überprüfen ob der Patient orientiert ist.
+Man unterscheidet dabei die Orientierung zu:  
+\begin{itemize}
+  \item \EE{Person}: Name, Alter.
+  \item \EE{Zeit}: Tageszeit,
+  Wochentag, Monat, Jahreszeit, Jahr?
+  \item \EE{Ort}: Wo befindet sich der Patient gerade?
+  \newline
+  (Stadt, Land, Adresse, Wohnung, Auto, etc.)
+  \item \EE{Situation}: Was passiert gerade?
+\end{itemize}
+
+}{
+\begin{itemize}
+    \item Zur Person
+    \item Zeitlich
+    \item Örtlich
+    \item Zur Situation
+\end{itemize}
+}{}{}{}
+ 
+ .
+\jALTende
+
+31.\,7.\,2013:
+
+\jNEU
+
+\subsubsection{{\FontKeyboardFamily{3}} Bewusstsein
+(Alertness)}
+ 
+ \Layout{0}{\TxBeschreibung}
+ {\DefinitionInPara{Bewusstsein ist ein Oberbegriff für u.\,a. Wachheit,
+ Orientierung, Aufmerksamkeit, Auffassungsgabe, Denkverlauf und
+ Merkfähigkeit \cite{Pschy259}.} Es ist ferner eine grundlegende Vitalfunktion erster
+ Ordnung, es ist besonders wichtig hinsichtlich des
+ Schutzes des Menschen vor Bedrohung. Ein bewusstseinsklarer
+ Mensch kann sich gegen Gefahren wehren, ein eingetrübter
+ oder bewusstloser Mensch kann dies schlecht oder gar nicht. 
+ 
+ Bei der Diagnostik beurteilt man die
+ Bewusstseinsgrade (klar, somnolent, soporös, komatös) und
+ die Orientierung (zeitlich, örtlich, zur Situation und zur
+ Person). Bewusstseinsstörungen sind aufgrund des Ausfalls
+ der Schutzreflexe und des Zurückfallens der Zunge
+ gefährlich. Es gibt Ursachen für Störungen, welche primär
+ direkt (Verletzung, Schlaganfall, \ldots), und Ursachen, die
+ sekundär, also über Umwege (Zuckerstoffwechsel,
+ Vergiftungen, \ldots), auf das ZNS einwirken.
+ 
+ \Z{Die \enquote{wahre} Definition von Bewusstsein ist seit
+ tausenden von Jahren ungeklärt. Auch an dieser Stelle wird
+ das Geheimnis nicht gelüftet werden, daher muss die obige
+ Definition für den Alltag ausreichen.\footnote{Hinweisen
+ zufolge könnte die Antwort
+ eventuell \enquote{42} sein
+ \citep{UltimateHitchhikersGuide96hitchhikersguide}.}}
+
+Bei der Beurteilung des Bewusstseins unterscheidet man
+zwischen dem \EE{Bewusstseinsgrad}  (quantitativ,
+\E{Wieviel} Bewusstsein ist vorhanden?) und der
+\EE{Orientiertheit} (Qualität, \Speech{Wie gut funktioniert
+das vorhandene Bewusstsein?}). Die Orientiertheit wird unter Punkt
+\ABCDE{D} beurteilt.
+ }{
+ \begin{itemize}
+   \item Vitalfunktion 1. Ordnung
+   \item Überlebenswichtig
+  \item Beurteilung:
+  \begin{itemize}
+    \item Bewusstseinsgrad (quantitativ)
+    \item Orientiertheit (qualitativ) $\rightarrow$ \ABCDE{D}
+  \end{itemize}
+ \end{itemize}
+ }{}{}{}
+ 
+  \Layout{0}{Bewusstseinsgrad}
+ {%
+ \index{Bewusstseinsgrad}
+ \label{topic:bewusstseinsstoerung-grade}
+ \index{Bewusstsein!Symptome}
+ %
+ Der Bewusstseinsgrad gibt Auskunft über die Quantität des
+ Bewusstseins (\enquote{\E{Wieviel} Bewusstsein ist
+ vorhanden?}). Er muss bei jedem Patienten festgestellt
+werden. 
+Beurteilt wird das \E{quantitative Bewusstsein} (\Speech{\enquote{\EE{Wieviel} Bewusstsein
+ist vorhanden?}}, vgl.
+\prettyref{topic:bewusstseinsstoerung-grade}), nach dem
+\T{WASB-Schema}. WASB ist die Abkürzung für 
+\begin{compactitem}
+  \item \EE{\underline{W}ach},
+  \item Reaktion auf \EE{\underline{A}nsprechen} oder
+  leichte Weckreize,
+  \item Reaktion auf \EE{\underline{S}chmerzreiz} und
+  \item \EE{\underline{B}ewusstlos}. 
+\end{compactitem}
+Dementsprechend kann ein Patient
+I{bewusstseinsklar}, \I{somnolent}, \I{soporös}
+oder  \I{komatös} bzw. \I{bewusstlos} sein, vgl.
+\prettyref{tab:bewusstseinsgrade}.
+ }{
+ \begin{itemize}
+   \item W\,--\,A\,--\,S\,--\,B
+  \begin{compactitem}
+    \item Wach \dotfill  \EE{klar}
+    \item Ansprache \dotfill 
+    \EE{somnolent}
+    \item Schmerzreiz \dotfill  \EE{soporös}
+    \item Bewusstlos \ldots  \EE{komatös}
+  \end{compactitem}
+ \end{itemize}
+ }{}{}{}
+ 
+ \Layout{0}{Bewusstseinsstörungen}
+{%
+\label{topic:bewusstseinsstoerung}%
+\DefinitionInPara{Als Bewusstseinsstörungen bezeichnet man
+insbesonders Störungen der
+Wachheit und der Orientierung.}
+Wie bereits oben erwähnt, ist das Bewusstsein wesentlich an
+der \EE{Abwehr von Gefahren} beteiligt. Je mehr das
+Bewusstsein gestört oder reduziert ist, desto gefährlicher ist das für
+den Patienten. 
+
+Ab einem gewissen Punkt können auch so wesentliche
+Funktionen wie der \EE{Schluck-}, \EE{Würge-} bzw. \EE{Hustenreflex}
+ausfallen, und es kann Mageninhalt, Speichel oder Blut in
+die Lunge gelangen (\I{Aspiration}). Man spricht auch vom
+\EE{Ausfall der
+Schutzreflexe}\index{Schutzreflexe!Bewusstseinsstörung}.
+Bei schweren Bewusstseinsstörungen kann es auch zum Erschlaffen
+wichtiger Muskeln wie z.\,B. der Zunge kommen. Fällt
+diese zurück, kann sie zurückfallen und den \EE{Atemweg
+verlegen}.
+Dabei ist manchmal ein dem \E{Schnarchen ähnliches}
+Atemgeräusch zu vernehmen.
+}{%
+Gefahren:
+\begin{itemize}
+  \item Zurückfallen der Zunge
+  \item Ausfall der Schutzreflexe
+  \item Aspiration
+\end{itemize}
+}{}{}{}
+
+\Fazit{Schwere Bewusstseinsstörungen sind
+\EE{lebensgefährlich!}}
+ .
+\jNEUende
+
+% 29.\,7.\,2013:
+% 
+% \jNEU
+% \Layout{0}{\TxBeschreibung}
+% {\DefinitionInPara{Bewusstsein ist ein Oberbegriff für u.\,a. Wachheit,
+% Orientierung, Aufmerksamkeit, Auffassungsgabe, Denkverlauf und
+% Merkfähigkeit \cite{Pschy259}.} Es ist ferner eine grundlegende Vitalfunktion erster
+% Ordnung, es ist besonders wichtig hinsichtlich des
+% Schutzes des Menschen vor Bedrohung. Ein bewusstseinsklarer
+% Mensch kann sich gegen Gefahren wehren, ein eingetrübter
+% oder bewusstloser Mensch kann dies schlecht oder gar nicht. 
+% 
+% Bei der Diagnostik beurteilt man die
+% Bewusstseinsgrade (klar, somnolent, soporös, komatös) und
+% die Orientierung (zeitlich, örtlich, zur Situation und zur
+% Person). Bewusstseinsstörungen sind aufgrund des Ausfalls
+% der Schutzreflexe und des Zurückfallens der Zunge
+% gefährlich. Es gibt Ursachen für Störungen, welche primär
+% direkt (Verletzung, Schlaganfall, \ldots), und Ursachen, die
+% sekundär, also über Umwege (Zuckerstoffwechsel,
+% Vergiftungen, \ldots), auf das ZNS einwirken.
+% 
+% \Z{Die \enquote{wahre} Definition von Bewusstsein ist seit
+% tausenden von Jahren ungeklärt. Auch an dieser Stelle wird
+% das Geheimnis nicht gelüftet werden, daher muss die obige
+% Definition für den Alltag ausreichen.\footnote{Hinweisen
+% zufolge könnte die Antwort
+% eventuell \enquote{42} sein
+% \citep{UltimateHitchhikersGuide96hitchhikersguide}.}}
+% }{
+% \begin{itemize}
+%   \item Vitalfunktion 1. Ordnung
+%   \item Überlebenswichtig
+% \end{itemize}
+% }{}{}{}
+% 
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \subsection{Bewusstseinsstörungen}
+% \label{topic:bewusstseinsstoerung}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \Layout{0}{Allgemein}
+% {%
+% \DefinitionInPara{Als Bewusstseinsstörungen bezeichnet man
+% insbesonders Störungen der
+% Wachheit und der Orientierung.}
+% Wie bereits oben erwähnt, ist das Bewusstsein wesentlich an
+% der Abwehr von Gefahren beteiligt. Je mehr das Bewusstsein
+% gestört oder reduziert ist, desto gefährlicher ist das für
+% den Patienten.
+% Die \EE{Zunge} kann zurück fallen und die Atemwege verlegen.
+% Dabei ist manchmal ein dem \E{Schnarchen ähnliches}
+% Atemgeräusch zu vernehmen.
+% Durch den Ausfall \index{Schutzreflexe!Ausfall} der
+% Schutzreflexe kann es zu einer
+% \II{Aspiration} von Speichel, Blut oder
+% Erbrochenen kommen. 
+% }{%
+% Gefahren:
+% \begin{itemize}
+%   \item Zurückfallen der Zunge
+%   \item Ausfall der Schutzreflexe
+%   \item Aspiration
+% \end{itemize}
+% }{}{}{}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \Layout{2}{Schutzreflexe}
+% {%
+% Ab einem gewissen Punkt können auch so wesentliche
+% Funktionen wie der \EE{Schluck-}, \EE{Würge-} bzw. \EE{Hustenreflex}
+% ausfallen, und es kann Mageninhalt oder Blut in die
+% Lunge gelangen (\T{Aspiration}). Man spricht auch vom
+% \EE{Ausfall der Schutzreflexe}.
+% Bei schweren Bewusstseinsstörungen kann es auch zum Erschlaffen
+% wichtiger Muskeln wie z.\,B. der Zunge kommen. Fällt
+% diese zurück, kann sie den Atemweg blockieren oder ganz verschließen.
+% }{}{}{}{}
+% 
+% 
+% \Fazit{Schwere Bewusstseinsstörungen sind
+% \EE{lebensgefährlich!}}
+% 
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \Layout{0}{Einteilung der Störungen}
+% {%
+% Man unterscheidet zwischen der Quantität (\E{Wieviel}
+% Bewusstsein ist vorhanden?) und der Qualität (\E{Wie
+% gut} funktioniert das vorhandene Bewusstsein?). Maßgeblich
+% ist der \EE{Bewusstseinsgrad} (quanititativ) und die
+% \EE{Orientiertheit} des Patienten (qualitativ).
+% Die Glasgow Coma Scale ist ein spezielles Maßsystem für
+% vorwiegend statistische Zwecke.
+% }{
+% \begin{itemize}
+%   \item Bewusstseinsgrad (quantitativ)
+%   \item Orientiertheit (qualitativ)
+% \end{itemize}
+% }{}{}{}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \Layout{0}{Bewusstseinsgrad}
+% {%
+% \index{Bewusstseinsgrad}
+% \label{topic:bewusstseinsstoerung-grade}
+% \index{Bewusstsein!Symptome}
+% %
+% Der Bewusstseinsgrad gibt Auskunft über die Quantität des
+% Bewusstseins (\enquote{\E{Wieviel} Bewusstsein ist
+% vorhanden?}). Er muss bei jedem Patienten festgestellt
+% werden.
+% Die folgende Tabelle (\prettyref{tab:bewusstseinsgrade})
+% listet die möglichen
+% Bewusstseinsgrade auf:
+% }{
+% \begin{itemize}
+%   \item W\,--\,A\,--\,S\,--\,B
+% \end{itemize}
+% }{}{}{}
+% 
+% 
+% \Layout{57}
+% {}
+% {}
+% {}
+% {
+% \begin{tabularx}{\linewidth}{lXlXl}
+% % \toprule
+% \addlinespace\toprule\addlinespace
+% \TabHeading{W}
+% &
+% \EE{W}ach
+%  &
+%  &
+%  wach
+%  &
+% \\\addlinespace
+% \TabHeading{A}
+% &
+% Reaktion auf \EE{A}nsprache
+% &
+% \noindent\T[Somnolenz]{somnolent}
+% &
+% schläfrig, aber leicht erweckbar.
+%  &
+% \\\addlinespace
+% \TabHeading{S}
+% &
+% Reaktion auf \EE{S}chmerzreiz
+%  &
+% \noindent\T[Sopor]{soporös}
+%  &
+%  kaum und nur mit erheblichen Aufwand (Schmerzreiz)
+%  erweckbar 
+%  &
+% \noindent\EE{Gefahr!}
+% \\\addlinespace
+% \TabHeading{B}
+% &
+% \EE{B}ewusstlosigkeit\index{Bewusstlosigkeit}
+%  &
+% \noindent\T[Koma]{komatös}
+%  &
+%  nicht erweckbar, ohne Bewusstsein
+%  &
+% \noindent\Ca{Lebensgefahr!}
+% \\\addlinespace\bottomrule
+% \end{tabularx}}
+% {Übersicht:
+% \EE{Bewusstseinsgrade}\label{tab:bewusstseinsgrade}.}
+% {}
+% 
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \Layout{0}{Orientierung}
+% {%
+% \label{topic:orientierung}
+% \index{Orientierung}
+% %
+% Es ist wichtig zu Überprüfen ob der Patient orientiert ist.
+% Man unterscheidet dabei die Orientierung zu:  
+% \begin{itemize}
+%   \item \EE{Person}: Name, Alter.
+%   \item \EE{Zeit}: Tageszeit,
+%   Wochentag, Monat, Jahreszeit, Jahr?
+%   \item \EE{Ort}: Wo befindet sich der Patient gerade?
+%   \newline
+%   (Stadt, Land, Adresse, Wohnung, Auto, etc.)
+%   \item \EE{Situation}: Was passiert gerade?
+% \end{itemize}
+% 
+% }{
+% \begin{itemize}
+%     \item Zur Person
+%     \item Zeitlich
+%     \item Örtlich
+%     \item Zur Situation
+% \end{itemize}
+% }{}{}{}
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \Layout{0}{Glasgow Coma Scale (GCS)}
+% {%
+% \index{Glasgow Coma Scale}
+% \index{GCS}
+% \label{topic:gcs}
+% %
+% Die Glasgow Coma Scale ist eine spezielle Skala, welche der
+% 'objektiven' Einschätzung der Bewusstseinslage  dient. Sie
+% hat einen Wertebereich von \VonBis{3}{15} Punkten. Ein voll
+% bewusstseinsklarer Patient hat 15 Punkte, ein schwerst
+% bewusstseinsgestörter oder toter Patient 3 Punkte (nicht
+% 0!). Bewertet werden die Augenöffnung, die beste verbale und
+% die beste motorische Reaktion des
+% Patienten.\ZFootnote{Regelmäßig findet man
+% Handlungsanweisungen -- überwiegend für ärztliches Personal
+% -- in der Literatur, welche die \Abk{GCS} als
+% Entscheidungskriterium (z.\,B. für
+% die Intubation) heranziehen. Der Nutzen ist aber genauso
+% regelmäßig umstritten.}
+% }{
+% \VonBis{3}{15} Punkte.
+% \begin{itemize}
+%     \item Augenöffnung (4)
+%     \item Beste verbale Reaktion (5)
+%     \item Beste motorische Reaktion (6)
+% \end{itemize}
+% \prettyref{tab:gcs}.
+% }{}{}{}
+% 
+% 
+% \begin{table}[H]
+% \begin{WidePar}
+% \TableBaseModification
+% \Captionof{table}{GCS - Glasgow Coma Scale für den Erwachsenen.\label{tab:gcs}}
+% 
+% \begin{tabulary}{\linewidth}{LCCL}\addlinespace\toprule\addlinespace
+% \noindent ~ & \noindent\TabHeading{Max.} & \noindent\TabHeading{Punkte} &
+% \noindent\TabHeading{Reaktion}
+% \\\midrule
+% \TabSub{Augenöffnung} & 4 & 4 & spontan
+% \\
+%  & & 3 & auf Ansprache
+% \\
+%  & & 2 & Schmerzreiz
+% \\
+%  & & 1 & nicht
+% \\\midrule
+% \TabSub{Verbale Antwort} & 5 & 5 & klar
+% \\
+%  & & 4 & verwaschen
+% \\
+%  & & 3 & unzusammenhängende Worte
+% \\
+%  & & 2 & unartikuliert
+% \\
+%  & & 1 & nicht
+% \\\midrule
+% \TabSub{Motorische Reaktion} & 6 & 6 & spontan
+% \\
+%  & & 5 & gezielte Abwehrbewegungen
+% \\
+%  & & 4 & ungezielte Abwehrbewegungen
+% \\
+%  & & 3 & Beugung
+% \\
+%  & & 2 & Strecken
+% \\
+%  & & 1  & bewegt gar nicht
+% \\\bottomrule
+% \end{tabulary}
+% \end{WidePar}
+% \end{table}
+% 
+% 
+% 
+% 
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \Layout{0}{Ursachen}
+% {%
+% Durch die Schädigung des zentralen Nervensystems kommt es zu
+% der Bewusstseinsstörung. Diese Schädigung kann direkt das
+% \Abk{ZNS} betreffen (primäre Ursache) oder über Umwege einen
+% schädlichen Einfluss auf das \Abk{ZNS} haben (sekundäre
+% Ursache). \prettyref{tab:bewusstseinsstoerungen-ursachen}
+% listet typische Ursachen auf.
+% 
+% \begin{table}[H]
+% \TableBaseModification
+% \Captionof{table}{Typische Ursachen von
+% Bewusstseinsstörungen.\label{tab:bewusstseinsstoerungen-ursachen}}
+% 
+% \begin{tabularx}{\linewidth}[H]{XX}\addlinespace\toprule\addlinespace
+% \noindent\TabHeading{Primäre Ursachen} & \noindent\TabHeading{Sekundäre
+% Ursachen}
+% \\
+% {\tiny betreffen direkt das ZNS} & {\tiny betreffen über
+% Umwege das ZNS} 
+% \\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}%\addlinespace
+% \begin{itemize}
+%     \item Verletzungen (SHT)
+%     \item Blutungen, Hirnschwellung
+%     \item Schlaganfall
+%     \item Epileptischer Anfall
+%     \item Entzündungen
+%     \item \Z{Tumor}
+%     \item \ldots
+% \end{itemize}
+%  &
+%  \begin{itemize}
+%    \item Störungen der \ce{O2}-Versorgung:
+%    \begin{compactitem}
+%      \item Atemstörungen  (Hypoxie)
+%      \item Herz-Kreislaufstörungen
+%    \end{compactitem}
+%    \item Störungen des Wasserhaushaltes und
+%    Elektrolytentgleisungen
+%    \item Stoffwechselstörungen
+%    \begin{compactitem}
+%      \item Zuckerhaushalt
+%      \item Leberversagen
+%    \end{compactitem}
+%    \item Vergiftungen:
+%    \begin{compactitem}
+%      \item Alkohol
+%      \item Medikamente, Drogen
+%      \item Reizgase,  Lösungsmittel ...
+%    \end{compactitem}
+%    \item \ldots
+%  \end{itemize}
+% \\\bottomrule
+% \end{tabularx}
+% \end{table}
+% }
+% {
+% \begin{itemize}
+%   \item Direkt das \Abk{ZNS} betreffend (primär)
+%   \item Indirekt das \Abk{ZNS} betreffend (sekundär)
+% \end{itemize}
+% 
+% \prettyref{tab:bewusstseinsstoerungen-ursachen}.
+% }{}{}{}
+% 
+% \MassnahmenMK{Spezielle Maßnahmen}{Bewusstseinseintrübung}
+% {m:bewusstseinstruebung}{}{}
+% 
+% \SlideCompensationNoParskip{1}
+% 
+% \MassnahmenMK{Spezielle Maßnahmen}{Bewusstlose und
+% soporöse Patienten}{m:bewusstlosigkeit}
+% {%
+% }{}
+% .
+% \jNEUende
+
+\subsection{Kreislauf}
+Überarbeitung GABS, ggf. PDF durchsehen!
+
+\jALT
+\Layout{0}{{C} | Kreislauf}{%
+\ZFootnote{C: \Lang{engl.} \E{Circulation}: Zirkulation, Kreislauf} 
+Die erste Einschätzung des Kreislaufes dauert nur wenige
+Sekunden. Beurteilt wird die \EE{Hautfarbe} und
+\EE{-temperatur}, ob und wie gut der \EE{Radialispuls} zu
+tasten ist und wie schnell (geschätzt) und rhythmisch er
+ist, sowie die \EE{Rekap-Zeit} an den Fingerkuppen. Bei der
+Rekap-Zeit wird ein leichter Druck auf das Nagelende ausgeübt bis
+das Nagelbett weiß ist, dann lässt man los. Innerhalb von
+\VonBis{1}{2} Sekunden sollte das Nagelbett wieder rosarot
+sein. Eine verlängerte Rekapzeit deutet auf eine
+lokale Durchblutungsstörung\footnote{\E{Verlängerte
+Rekapzeit}: Unter \enquote{lokale Durchblutungsstörung} fallen
+auch in Folge von Kälte minderdurchblutete Extremitäten, also \enquote{kalte Finger}.}
+oder Zentralisierung hin. 
+
+\subparagraph{\eye} Erkennen kann man z.\,B. Schockzeichen,
+sichtbare Blutungen, Herzrhythmusstörungen (Tachy-/Bradykardie,
+Arrhythmie).
+}{%
+\begin{itemize}
+  \item Hautfarbe, -temperatur 
+  \item Schweiß
+  \item Rekap-Zeit 
+  \item Radialispuls 
+\end{itemize}\begin{compactitem}
+  \item[\eye] Sichtbare Blutungen
+  \item[\eye] Schockzeichen
+  \item[\eye] Rhythmus (Tachy-/Bradykardie, Arrhythmie)
+\end{compactitem}
+}
+{}
+{}
+{}
+.
+\jALTende
+
+\jNEU
+\Layout{0}{Blutdruck}
+{Durch die Pumpfunktion des Herzens entsteht ein
+lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
+\I{Blutdruck}.
+Dieser sorgt dafür, dass das Gewebe von Blut durchflossen
+wird. Mann kann den Blutdruck messen, dies ergolgt unter
+Punkt \ABCDE{D} (\FullPrettyRef{topic:blutdruck}). Durch die
+Durchblutung 
+
+
+Bei der Rekap-Zeit wird ein leichter Druck auf das Nagelende ausgeübt bis das Nagelbett weiß ist, dann lässt man los. Innerhalb von
+\VonBis{1}{2} Sekunden sollte das Nagelbett wieder rosarot
+sein. Eine verlängerte Rekapzeit deutet auf eine
+lokale Durchblutungsstörung\footnote{\E{Verlängerte
+Rekapzeit}: Unter \enquote{lokale Durchblutungsstörung} fallen
+auch in Folge von Kälte minderdurchblutete Extremitäten, also \enquote{kalte Finger}.}
+oder Zentralisierung hin. 
+}{
+\begin{description}
+  \item Druck im arteriellen Gefäßsystem
+  \item Durchblutung des Gewebes
+  \item Blutdruckmessung $\rightarrow$ \ABCDE{D}
+\end{description}
+}{}{}{}
+
+\Layout{0}{Einschätzung des Kreislaufs}{%
+Die erste Einschätzung des Kreislaufes dauert nur wenige
+Sekunden. Durch die Beurteilung der \EE{Hautfarbe} und
+\EE{-temperatur}, des \EE{Radialispulses} (gut oder
+schlecht tastbar, geschätzte Schnelligkeit,Rhythmik), sowie
+der \EE{Rekap-Zeit} an den Fingerkuppen kann man auf
+einfache Weise die Kreislauffunktion beurteilen. Bei der
+Rekap-Zeit wird ein leichter Druck auf das Nagelende ausgeübt bis
+das Nagelbett weiß ist, dann lässt man los. Innerhalb von
+\VonBis{1}{2} Sekunden sollte das Nagelbett wieder rosarot
+sein. Eine verlängerte Rekapzeit deutet auf eine
+lokale Durchblutungsstörung\footnote{\E{Verlängerte
+Rekapzeit}: Unter \enquote{lokale Durchblutungsstörung} fallen
+auch in Folge von Kälte minderdurchblutete Extremitäten, also \enquote{kalte Finger}.}
+oder Zentralisierung hin. 
+
+\subparagraph{\eye} Erkennen kann man z.\,B. Schockzeichen,
+sichtbare Blutungen, Herzrhythmusstörungen (Tachy-/Bradykardie,
+Arrhythmie).
+}{%
+\begin{itemize}
+  \item Hautfarbe, -temperatur 
+  \item Schweiß
+  \item Rekap-Zeit 
+  \item Radialispuls 
+\end{itemize}\begin{compactitem}
+  \item[\eye] Sichtbare Blutungen
+  \item[\eye] Schockzeichen
+  \item[\eye] Rhythmus (Tachy-/Bradykardie, Arrhythmie)
+\end{compactitem}
+}
+{}
+{}
+{}
+.
+\jNEUende
+
+\subsection{Kreislaufstillstand}
+Überarbeitung GABS, ggf. PDF ansehen!
+
+\jALT
+\Layout{2}
+{\TxBeschreibung}
+{%
+\DefinitionInPara{Ein Kreislaufstillstand ist ein totales
+Pumpversagen des Herzens und Stillstand des Kreislaufes.}
+Das Pumpversagen kann unterschiedliche Ursachen haben:
+\begin{itemize}
+  \item Herzrhytmusstörungen
+  \begin{itemize}
+    \item Asystolie (keine Herztätigkeit)
+    \item Kammerflimmern (unkoordinierte Herztätigkeit)
+    \item Zu schnelle Herzfrequenz, bei der sich das Herz
+    nicht mehr füllen oder etwas auswerfen kann ((Pulslose)
+    Ventrikuläre Tachykardie)
+    \item Elektromechanische
+    Entkopplung (pulslose elektrische Aktivität): keine
+    Pumpreaktion auf Signale des Reizleitungssystems im Herz
+  \end{itemize}
+  \item Ischämie
+  \item Mechanische Blockaden
+  \item Blutverlust
+\end{itemize}
+}
+{}
+{}
+{}
+{}
+
+\Layout{2}{Ursachen}
+{
+\begin{itemize}
+  \item Minderversorgung des Herzmuskels mit \ce{O2}\par
+  \begin{inparaitem}
+    \item Herzinfarkt,
+    \item Herzinsuffizienz, \ldots
+  \end{inparaitem}
+  \item Störungen der Atmung\par
+  \begin{inparaitem}
+    \item Asthma bronchiale,
+    \item Lungenembolie,
+    \item zentrale Atemregulationsstörungen, \ldots
+  \end{inparaitem}
+  \item Sonstige Störungen\par
+  \begin{inparaitem}
+    \item Trauma,
+    \item Vergiftungen,
+    \item thermische Schäden,
+    \item Elektrolytverschiebungen, \ldots
+  \end{inparaitem}
+\end{itemize}
+}{}{}{}{}
+
+\Layout{0}{Folgen und Symptome}
+{Unmittelbar nach Aussetzen des Herzschlages ist der Patient
+\E{pulslos} und der Blutkreislauf steht still. Es wird im
+schwindlig und schlecht, nach kurzer Zeit (ca.
+\VonBis{15}{20}\Sek*) wird er \E{bewusstlos}. Nach weiteren
+10\Sek* tritt ein \E{Atemstillstand} ein (oder eine
+\I{Schnappatmung}).
+Nach \VonBis{3}{5}\Min* treten Hirnschäden auf, welche nicht
+mehr reversibel sind. In kühler Umgebung kann diese
+Zeitspanne etwas ausgedehnt werden.
+Viele Patienten haben, auch nach erfolgreicher Reanimation,
+im weiteren Verlauf neurologische Defizite.
+}{
+\begin{itemize}
+  \item Aussetzen des Herzschlages $\rightarrow$ 
+  sofort pulslos!
+  \item[\Sign{→}] Bewusstlosigkeit nach \VonBis{15}{20}\Sek*
+  \item[\Sign{→}] Atemstillstand/Schnappatmung nach ca. 10\Sek*
+  \item[\Sign{→}] \EE{Irreversible Hirnschäden nach \VonBis{3}{5}\Min*}
+\end{itemize}
+
+}{}{}{}
+
+
+
+
+\Layout{0}
+{\TxQuerverweise}
+{\begin{itemize}
+  \item Reanimation, Erste Hilfe:
+  \FullPrettyRef{topic:reanimation-eh}
+  \item Basic Life Support:
+  \CO{[BLS]}, \FullPrettyRef{chp:BLS}
+  \item Advanced Life Support: \CO{[ALS]},
+  \FullPrettyRef{chp:ALS}
+\end{itemize}}
+{}
+{}
+{}
+{}
+.
+\jALTende
+
+\subsection{Neue Bilderserie}
+
+\jNEU
+ \begin{PictureSeriesWide}{}{Bilderserie ABCDE}
+ \PictureSeriesRowWide{3}
+{./images/trauma/pupillendifferenz.jpg}
+{Pupillendifferenz}
+{./images/motal-aass/00800/neuro6.jpg}
+{BZ-Messung \SourcePicture{Motal}}
+{./images/hirtler-aass/Riva-Rocci_edited.pdf}
+{Prinzip
+    der auskultatorischen RR-Messung: In Abhängigkeit vom
+    außen anliegenden Manschettendruck kommt es zu einem
+    unterschiedlich starken Blutfluss und dadurch
+    entstehenden, hörbaren, Strömungsgeräuschen.}
+ {empty}
+ {}
+ \end{PictureSeriesWide}
+.
+\jNEUende
+
+\subsection{Schnelle Untersuchung / Neurologisch}
+
+\jNEU
+\Layout{0}{Orientierung}
+{%
+\label{topic:orientierung}
+\index{Orientierung}
+%
+Es ist wichtig zu Überprüfen ob der Patient orientiert ist.
+Man unterscheidet dabei die Orientierung zu:  
+\begin{itemize}
+  \item \EE{Person}: Name, Alter.
+  \item \EE{Zeit}: Tageszeit,
+  Wochentag, Monat, Jahreszeit, Jahr?
+  \item \EE{Ort}: Wo befindet sich der Patient gerade?
+  \newline
+  (Stadt, Land, Adresse, Wohnung, Auto, etc.)
+  \item \EE{Situation}: Was passiert gerade?
+\end{itemize}
+
+}{
+\begin{itemize}
+    \item Zur Person
+    \item Zeitlich
+    \item Örtlich
+    \item Zur Situation
+\end{itemize}
+}{}{}{}.
+\jNEUende
+
+\subsection{Bilderserie zu ABCDE}
+
+\jALT
+ \Layout{60}{{Sz} | Szeneüberblick und (Selbst-)Schutz}{%
+ Kernpunkte sind die Fragen:
+ \begin{itemize}
+   \item \Speech{Ist die Einsatzstelle sicher?}
+   \item \Speech{Welche (Selbst-) Schutzmaßnhamen sind
+   nötig?}
+   \item \Speech{Sind weitere Ressourcen notwendig?}
+   \item \Speech{Ist eine Lagemeldung erforderlich?}
+ \end{itemize}
+ 
+ Schon \E{vor} Eintreffen am Einsatzort beginnt der
+ Szeneüberblick. Das Einsatzpersonal muss sich die äußeren
+ Umstände des Einsatzes bewusst machen -- \EE{Wo} befindet
+ sich der Einsatzort -- in einer Wohnung in einem mehrstöckigen
+ Wohnhaus, in einem Einfamilienhaus oder auf einer
+ Verkehrsfläche? Wo befindet sich der \EE{Eingang}, wo gibt es
+ \EE{Parkmöglichkeiten}? Gibt es einen \EE{Aufzug} und wie
+ groß ist er? Können \EE{nachfolgende Kräfte} den Einsatzort
+ leicht finden? Wichtig ist das Erkennen von speziellen
+ Gefahren, wie z.\,B. Tiere (\Speech{\enquote{Vorsicht vor
+ dem Hund}}-Schilder, \E{Futternäpfe}), Hinweise auf
+ \E{Gasunfälle}, unsichere Gebäude(-teile), usw. Ggfs.
+ sind auch Fluchtwege einzuplanen.
+ 
+ Eventuell ist hier schon zu erkennen ob \EE{weitere
+ Ressourcen} benötigt werden, oder ob es sich um eine
+ \EE{Großschadenslage} oder einen \EE{Gefahrengutunfall}
+ handelt.
+ Ausserdem können Hinweise wahrgenommen
+ werden, ob ein \EE{Trauma} vorliegt. Bei Unfällen gibt die
+ Inspektion des Einsatzortes oft auch Aufschluss  über den
+ \EE{Unfallmechanismus} und -hergang. 
+ Wenn notwendig, mus der Leitstelle eine erste
+ \EE{Lagemeldung} gegeben werden.
+ 
+ }{%
+ \begin{itemize}
+   \item Zufahrt, Gebäude 
+   \item Gefahren
+   \item Großschaden? Gefahrengut?
+   \item Umstände, Situation, Umgebung, Ort, Zeit
+   \item Trauma? Unfallmechanismus?
+   \item Ggfs. Lagemeldung
+ \end{itemize}
+ }
+{./images/motal-aass/00800/helm1.jpg}
+ {}{}{}
+.
+\jALTende
+
+\jNEU
+ \Layout{60}{{Sz} | Szeneüberblick und (Selbst-)Schutz}{%
+ Kernpunkte sind die Fragen:
+ \begin{itemize}
+   \item \Speech{Ist die Einsatzstelle sicher?}
+   \item \Speech{Welche (Selbst-) Schutzmaßnhamen sind
+   nötig?}
+   \item \Speech{Sind weitere Ressourcen notwendig?}
+   \item \Speech{Ist eine Lagemeldung erforderlich?}
+ \end{itemize}
+ 
+ Schon \E{vor} Eintreffen am Einsatzort beginnt der
+ Szeneüberblick. Das Einsatzpersonal muss sich die äußeren
+ Umstände des Einsatzes bewusst machen -- \EE{Wo} befindet
+ sich der Einsatzort -- in einer Wohnung in einem mehrstöckigen
+ Wohnhaus, in einem Einfamilienhaus oder auf einer
+ Verkehrsfläche? Wo befindet sich der \EE{Eingang}, wo gibt es
+ \EE{Parkmöglichkeiten}? Gibt es einen \EE{Aufzug} und wie
+ groß ist er? Können \EE{nachfolgende Kräfte} den Einsatzort
+ leicht finden? Wichtig ist das Erkennen von speziellen
+ Gefahren, wie z.\,B. Tiere (\Speech{\enquote{Vorsicht vor
+ dem Hund}}-Schilder, \E{Futternäpfe}), Hinweise auf
+ \E{Gasunfälle}, unsichere Gebäude(-teile), usw. Ggfs.
+ sind auch Fluchtwege einzuplanen.
+ 
+ Eventuell ist hier schon zu erkennen ob \EE{weitere
+ Ressourcen} benötigt werden, oder ob es sich um eine
+ \EE{Großschadenslage} oder einen \EE{Gefahrengutunfall}
+ handelt.
+ Ausserdem können Hinweise wahrgenommen
+ werden, ob ein \EE{Trauma} vorliegt. Bei Unfällen gibt die
+ Inspektion des Einsatzortes oft auch Aufschluss  über den
+ \EE{Unfallmechanismus} und -hergang. 
+ Wenn notwendig, mus der Leitstelle eine erste
+ \EE{Lagemeldung} gegeben werden.
+ 
+ }{%
+ \begin{itemize}
+   \item Zufahrt, Gebäude 
+   \item Gefahren
+   \item Großschaden? Gefahrengut?
+   \item Umstände, Situation, Umgebung, Ort, Zeit
+   \item Trauma? Unfallmechanismus?
+   \item Ggfs. Lagemeldung
+ \end{itemize}
+ }
+ {}
+{}
+{}
+
+\begin{PictureSeriesWide}{}{Bilderserie ABCDE}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/helm1.jpg}
+{Motal}
+{./images/KHD/warntafel-un-60-1710}
+{Spezifische Gefahren erkennen}
+{./images/gabriel-sebastian-aass/Gallenblase-Palpation-001-00800.jpg}
+{ABCDE-Bild}
+{empty}
+{}
+\end{PictureSeriesWide}
+.
+\jNEUende
 
 \section{RSP}
 \subsection{Asthma / Definition}
 \jALT
 \Definition{Chronische Erkrankung mit mehr oder weniger
   häufigen Episoden von Anfällen mit massiver Atemnot oder
-  Atembehinderung durch Verengung der Bronchien.}
+  Atembehinderung durch Verengung der Bronchien.}.
 \jALTende
 
 \jNEU
 \DefinitionInPara{Das \T{Asthma bronschiale} ist eine chronische 
 Erkrankung mit Episoden von Anfällen mit massiver Atemnot oder
-Atembehinderung durch Verengung der Bronchien.}
+Atembehinderung durch Verengung der Bronchien.}.
 \jNEUende
 
 \section{TAE}
@@ -597,6 +2958,8 @@ entsprechenden anerkannten größte österreichischem
 Ärztekammer Voraus.
 \jNEUende
 
+\section{VIT}
+Umstrukturierungen, siehe \prettyref{sec:umstrukt}.
 
 \section{LEHRMATERIALIEN: Neue Arztbriefe}
 \subsection{Arztbriefe / Chirurgische Arztbriefe / Gallenkolik}

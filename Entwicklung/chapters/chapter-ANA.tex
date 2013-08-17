@@ -3436,9 +3436,6 @@ wechselnden Witterungsverhältnissen.
 Als größtes Sinnesorgan des Körpers dient die Haut der
 Tastempfindung sowie der Temperaturempfindung.
 
-\bigskip
-
-\bigskip
 
 \SlideCompensationNoParskip{1}
 
@@ -3754,7 +3751,7 @@ Die Lunge hat \EE{zwei Flügel}, welche sich jeweils in \EE{3
 (rechts)} bzw.
 \EE{2 (links) Lappen} gliedern:
 
-\begin{center}\FormatTable
+\begin{center}\TableBaseModification
 \begin{tabularx}{\linewidth}[H]{XX}
 \toprule\addlinespace
 \multicolumn{2}{c}{\TabHeading{Die Lunge}}
@@ -4065,8 +4062,8 @@ die Luft strömt nach außen bis die Druckunterschiede
 zwischen Lunge und Umgebung wieder ausgeglichen sind. Die
 Luft wird beim Ausatmen sozusagen wieder hinaus gedrückt.
 
-Die Anzahl der Atemzyklen pro Minute nennt man Atemfrequenz
-(AF). Sie liegt beim Erwachsenen, der sich in Ruhe befindet,
+Die Anzahl der Atemzyklen pro Minute nennt man \I{Atemfrequenz}
+(\I{AF}). Sie liegt beim Erwachsenen, der sich in Ruhe befindet,
 bei etwa 12 Atemzyklen pro Minute.
 
 % Volumenschwankungen des Brustraums bewirken
@@ -4107,8 +4104,7 @@ werden  unter
 % \clearpage
 \subsection{Atemgase}
 
-\Definition{Als Atemgas bezeichnet man jenes Gasgemisch,
-welches eingeatmet wird.}
+
 
 \Layout{0}{\TxBeschreibung}
 {%
@@ -4116,7 +4112,8 @@ welches eingeatmet wird.}
 \index{Atemgas}%
 \index{Sauerstoff!Raumluftgemisch}%
 \index{Kohlendioxid!Raumluftgemisch}%
-Normalerweise ist das ein Gasgemisch aus Stickstoff,
+\DefinitionInPara{Als Atemgas bezeichnet man jenes Gasgemisch,
+welches eingeatmet wird.} Normalerweise ist das ein Gasgemisch aus Stickstoff,
 Sauerstoff, Kohlendioxid und Edelgasen
 (\protect\enquote{Raumluft}).
 Zwischen der normalen Einatem- und Ausatemluft besteht
@@ -4125,7 +4122,7 @@ Kohlendioxid-Anteils ein Unterschied, siehe
 \prettyref{tab:luft-gas}.
 
 \begin{table}[H]
-\FormatTable
+\TableBaseModification
 \Captionof{table}{Gasgehalt in der Raum- und
 Ausatemluft.\label{tab:luft-gas}}
 
@@ -4166,7 +4163,6 @@ Ausatemluft.\label{tab:luft-gas}}
 {%
 Der Verdauungstrakt dient der Verstoffwechselung der mit dem
 Essen aufgenommenen Nährstoffe.
-
 Er beginnt im Mund mit der Nahrungsaufnahme und deren
 Zerkleinerung. Durch diverse Enzyme erfolgt die
 Weiterverarbeitung im Magen-Darm-Trakt. Wenn sie klein genug
@@ -4197,13 +4193,11 @@ Nieren) um ausgeschieden zu werden.
 {Schema des Verdauungstraktes.}
 {Mariana Ruiz Villarreal, Public domain}
 
-
-\begin{WidePar}
-\FormatTable
-\begin{minipage}{\linewidth}
-\Captionof{table}{Übersicht über den Verdauungstrakt --
-\emph{\protect\enquote{Von der Schüssel in die Schüssel.}}\label{tab:verdauungstrakt-uebersicht}}
-\begin{tabulary}{\linewidth}[H]{LLL}
+\Layout{57}
+{}
+{}
+{}
+{\begin{tabulary}{\linewidth}[H]{LLL}
 \toprule\addlinespace
 \noindent\multirow{3}{8em}{\TabHeading{Mundhöhle}}
  &
@@ -4301,10 +4295,11 @@ Stuhls
 Absetzen des Stuhls
 
 \\\addlinespace\bottomrule
-\end{tabulary}
+\end{tabulary}}
+{Übersicht über den Verdauungstrakt --
+\emph{\protect\enquote{Von der Schüssel in die Schüssel.}}\label{tab:verdauungstrakt-uebersicht}}
+{}
 
-\end{minipage}
-\end{WidePar}
 
 \clearpage % TEMP temp clearpage
 \subsection{Mundhöhle}\index{Mundhöhle}
@@ -4371,16 +4366,13 @@ auskleidet.
 }
 }
 
-\subsection{Speiseröhre}
-\index{Speiseröhre}
-\label{topic:speiseroehre}
 
 
-\HeadingSub{\Lang{Term.} \T[Oesophagus@Ösophagus]{Ösophagus}}
-
-
-\Layout{20}{\TxBeschreibung}
+\Layout{20}{Speiseröhre}
 {%
+\index{Speiseröhre}%
+\label{topic:speiseroehre}%
+\Lang{Term.} \T[Oesophagus@Ösophagus]{Ösophagus}.
 Die Speiseröhre (\T[Ösophagus@Oesophagus]{Ösophagus}) ist
 ein ungefähr 25\CM* langer Muskelschlauch. Er dient dem
 \EE{Transport} über den Mund aufgenommener Nahrung vom
@@ -4425,13 +4417,13 @@ kommen (\prettyref{topic:oesophagusvarizenblutung}).
 
 
 
-\subsection{Magen}
-\index{Magen}
 
-\HeadingSub{\Z{\Lang{Term.} Gaster, Ventriculus.}}
-
-\Layout{0}{\TxBeschreibung}
-{\index{Salzsäure}\index{Magen!-pförtner}
+\Layout{0}{Magen}
+{%
+\index{Salzsäure}%
+\index{Magen!-pförtner}%
+\index{Magen}%
+\Z{\Lang{Term.} Gaster, Ventriculus.}.
 Der Magen ist ein muskuläres Hohlorgan und dient der
 Nahrungsspeicherung, Nahrungsdurchmischung sowie der
 kontrollierten Weiterleitung des durchmischten Speisebreis.
@@ -4463,11 +4455,9 @@ Nachdem die Wandmuskulatur den Speisebrei mit dem Magensaft
 
 
 
-\subsection{Zwölffingerdarm}
-
-\HeadingSub{\Lang{Term.} \T{Duodenum}}
-
-\Layout{0}{\TxBeschreibung}{%
+\Layout{0}{Zwölffingerdarm}{%
+\index{Zwölffingerdarm}%
+\Lang{Term.} \T{Duodenum}.%
 Der Zwölffingerdarm ist der Beginn des Dünndarmes ab dem
 Pförtner des Magens und misst ca. 25\CM*. Sein Verlauf
 ähnelt einem C.
@@ -4524,28 +4514,16 @@ Zwölffingerdarm und die Bauchspeicheldrüse.}
 }
 
 
-
-% \clearpage
-\subsection{Leber und Gallenblase}
-\index{Leber}
-\index{Gallenblase}
-\label{topic:gallenblase}
-
-\HeadingSub{\Lang{Term.} Hepar}
-
-\Layout{2}{\TxBeschreibung}{%
-Die Leber ist ein solides Organ und befindet sich im
+\Layout{0}{Leber und Gallenblase}{%
+\index{Leber}%
+\index{Gallenblase}%
+\label{topic:gallenblase}%
+\Lang{Term.} Hepar. Die Leber ist ein solides Organ und befindet sich im
 \EE{rechten Oberbauch}. Sie hat einen linken und rechten
 Lappen. Sie ist die \protect\enquote{Chemiefabrik} des Körpers: Sie
 produziert wichtige Stoffe, entgiftet und speichert Fette
 und Zucker.
-}{
-\protect\enquote{Chemiefabrik} des Körpers
-}{}{}{}
 
-
-
-\Layout{0}{Aufgaben}{%
 Die Leber produziert u.\,a. wichtige, vom Körper benötigte,
 \EE{Eiweißstoffe} (Proteine).
 Weiters sorgt sie für den \EE{Abbau von Giftstoffen}
@@ -4571,8 +4549,8 @@ in den Zwölffingerdarm. An den Gallengängen hängt die
 \E{gespeichert (!)} -- nicht produziert -- wird. Dadurch
 entsteht dem Körper kein Schaden, wenn man diese
 beispielsweise wegen Gallensteinen entfernen muss.
-}
-{
+}{
+\protect\enquote{Chemiefabrik} des Körpers
 \begin{itemize}
   \item \protect\enquote{Chemiefabrik}:
   \begin{itemize}
@@ -4589,10 +4567,9 @@ beispielsweise wegen Gallensteinen entfernen muss.
     \item An Gallengängen: Gallenblase (Speicherung)
   \end{itemize}
 \end{itemize}
-}
-{}
-{}
-{}    
+}{}{}{}
+
+ 
 
 
 \begin{PictureSeriesWide}{}{Bilderserie: Leber und
@@ -4615,17 +4592,13 @@ den Darm. \SourcePicture{Hirtler}}
 \end{PictureSeriesWide}
 
 
- 
 
-\subsection{Bauchspeicheldrüse}
 
+\Layout{60}{Bauchspeicheldrüse}
+{%
 \index{Bauchspeicheldrüse}%
 \index{Pankreas}%
-\HeadingSub{\Lang{Term.} \T{Pankreas}}
-
-\Layout{60}{\TxBeschreibung}
-{%
-Das Pankreas ist ca. \VonBis{15}{22}\CM* lang und liegt
+\Lang{Term.} \T{Pankreas}. Das Pankreas ist ca. \VonBis{15}{22}\CM* lang und liegt
 hinter dem Magen. Es hat einen \EE{Ausführungsgang}, welcher
 zusammen mit dem Gallengang \EE{in den Zwölffingerdarm}
 (Duodenum) mündet. Man kann es grob unterteilen in Kopf und
@@ -4633,8 +4606,7 @@ Schwanz. Der Pankreaskopf liegt in der C-Schlaufe des
 Zwölffingerdarmes, die Spitze des Pankeas reicht bis zur
 Milz.
 
-\paragraph{Aufgaben} 
-
+\subparagraph{Aufgaben} 
 Das Pankreas hat \EE{zwei wesentliche Funktionen}.
 Einerseits ist es verantwortlich für die \EE{Enzymproduktion für
 die Verdauung}. Diese werden über den
@@ -4664,18 +4636,12 @@ Blut.}
 
 
 
-%\TempPicInWork{Gallensystem}
 
-% \clearpage % TEMP temp clearpage
-\subsection{Leer- und Krummdarm}
+\Layout{60}{Leer- und Krummdarm}
+{%
 \index{Krummdarm}%
 \index{Leerdarm}%
-
-\HeadingSub{\Lang{Term.} \T{Jejunum}, \T{Ileum}}
-
-\Layout{60}{\TxBeschreibung}
-{%
-Jejunum (Leerdarm) und Ileum (Krummdarm) sind die zwei
+\Lang{Term.} \T{Jejunum}, \T{Ileum}. Jejunum (Leerdarm) und Ileum (Krummdarm) sind die zwei
 weiteren Teile des Dünndarmes. Ihre Gesamtlänge beträgt ca.
 3\Meter* . Ihre Hauptaufgabe besteht in der weiteren
 Verdauung der Nahrung und der Nährstoffaufnahme. Hierfür
@@ -4699,13 +4665,12 @@ Gastroenteritis) mit den Symptomen von Durchfall, Übelkeit
 und Erbrechen.}
 }
 {
-\begin{compactitem}
+\begin{itemize}
     \item Ca. 3\Meter* lang, Oberflächenvergrößerung durch Darm\-zotten
     \item \EE{Nährstoffaufnahme}\index{Nährstoffaufnahme}
     \item \Z{beweglich, am Darmgekröse (Mesenterium) aufgehängt}
     \item \Z{Abwehr von Darmbakterien}
-    
-\end{compactitem}
+\end{itemize}
 }
 {./images/wikipedia-pd/Small_intestine.pdf}
 % {./images/noauth/AASdev20090228-img56.png}
@@ -4734,18 +4699,14 @@ Schlingen des Dünndarms ab. \SourcePicture{Hirtler}}
 
 
 
-% \clearpage % TEMP temp clearpage
-\subsection{Dickdarm}
-\index{Dickdarm}
-
-\HeadingSub{\Lang{Term.} \T{Colon}}
-\SlideCompensationNoParskip{1}
-
-\noindent Der Dickdarm (Colon) ist ca. 1,5\Meter* lang und
+\Layout{60}{Dickdarm}{%
+\index{Dickdarm}%
+\Lang{Term.} \T{Colon}. 
+Der Dickdarm (Colon) ist ca. 1,5\Meter* lang und
 wird in verschiedene Abschnitte unterteilt: 
 
 \begin{center}
-\FormatTable
+\TableBaseModification
 \begin{tabulary}{\linewidth}[H]{LLL}
 \toprule\addlinespace
 \multirow{6}{8em}{\EE{Dickdarm}\\(\T{Colon})}
@@ -4783,8 +4744,6 @@ ausscheidungsbereiten Stuhls
 \end{tabulary}
 \end{center}
 
-\clearpage
-\Layout{60}{\TxBeschreibung}{%
 Der Leerdarm (Ileum) mündet in den Dickdarm. Diese Mündung
 ist wie eine \E{T-Kreuzung} gebaut: \E{Kopfwärts} geht es in
 den \EE{aufsteigenden Teil} des Dickdarmes, \E{zehenwärts}

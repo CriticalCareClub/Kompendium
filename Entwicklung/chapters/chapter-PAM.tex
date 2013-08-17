@@ -166,7 +166,7 @@ wahrscheinlich? Eine Übersicht.\label{tab:alarmzeichen}}{}
 &
 \TabHeading{Typische Sofortmaßnahmen}
 \\\addlinespace\toprule\addlinespace
-\noindent\TabHeading{\ABCDEPlain{Sz}}\vspace{\baselineskip}
+\noindent\TabHeading{\ABCDEPlain{1}}\vspace{\baselineskip}
 
 \TabHeading{Szeneüberblick m. Schutz}
 &
@@ -191,7 +191,7 @@ Großschaden
 \end{itemize}
 \end{minipage}
 \\\addlinespace\toprule\addlinespace
-\noindent\TabHeading{\ABCDEPlain{Ei}}\vspace{\baselineskip}
+\noindent\TabHeading{\ABCDEPlain{2}}\vspace{\baselineskip}
 
 \TabHeading{Eindruck}
 &
@@ -212,7 +212,7 @@ Großschaden
 \end{itemize}
 \end{minipage}
 \\\addlinespace\midrule\addlinespace
-\noindent\TabHeading{\ABCDEPlain{Be}}
+\noindent\TabHeading{\ABCDEPlain{3}}
 
 \TabHeading{Bewusstsein}
 &
@@ -228,7 +228,7 @@ Großschaden
 \end{itemize}
 \end{minipage}
 \\\addlinespace\midrule\addlinespace
-\noindent\TabHeading{\ABCDEPlain{Hb}}
+\noindent\TabHeading{\ABCDEPlain{4}}
 
 \TabHeading{Hauptbeschwerde}
 &
@@ -303,25 +303,7 @@ Großschaden
   \item \EE{Rekap}-Zeit
   \item \EE{Radialispuls}: Stärke, Rhythmus, Abschätzen der
   Frequenz
-  \item \EE{Herzfrequenz}
-  \item \EE{Blutdruck}
-\end{itemize}
-\end{minipage}
-&
-\noindent\color{DefaultA}\itshape\begin{minipage}[t]{\linewidth}
-\begin{itemize}
-  \item Blutstillung
-  \item Situationsgerechte Lagerung
-\end{itemize}
-\end{minipage}
-\\\addlinespace\cmidrule{2-3}\addlinespace
-\noindent\TabHeading{\ABCDEPlain{STU}}\vspace{\baselineskip}
-
-\TabHeading{*Schnelle Trauma-Untersuchung}
-&
-\begin{minipage}[t]{\linewidth}
-\begin{itemize}
-  \item Inspektion
+  \item \TabHeading{*Schnelle Trauma-Untersuchung}: Inspektion
   und Abtasten von
   \begin{compactenum}
     \item \EE{Kopf} inkl. Ohren,
@@ -331,10 +313,12 @@ Großschaden
     \item \EE{Becken} und
     \item \EE{Oberschenkel}
   \end{compactenum}
+  \item \EE{Herzfrequenz}
+  \item \EE{Blutdruck}
 \end{itemize}
 \end{minipage}
 &
-\noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
+\noindent\color{DefaultA}\itshape\begin{minipage}[t]{\linewidth}
 \begin{itemize}
   \item Blutstillung
   \item Situationsgerechte Lagerung
@@ -359,7 +343,7 @@ Großschaden
 &
 \noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Transportentscheidung (eilig, Rendez-vous, \ldots)
+  \item Strategie- und Zielentscheidung (eilig, Rendez-vous, \ldots)
 \end{itemize}
 \end{minipage}
 \\\addlinespace\midrule\addlinespace
@@ -382,7 +366,7 @@ Bedrohung oder Hauptbeschwerde unklar ist.)}
 &
 \noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Transportentscheidung 
+  \item Strategie- und Zielentscheidung 
   \item Spezielle Maßnahmen gemäß Verdachtsdiagnose
 \end{itemize}
 \end{minipage}
@@ -419,7 +403,7 @@ Sofortmaßnahmen} sind als \E{Beispiele} zu verstehen.
 Bei \Ca{absolut zeitkritischen Patienten}, bei denen bereits die 
 ABC-Einschätzung ergibt dass ein Transport nicht aufschiebbar ist, 
 kann u.\,U. schon \Ca{nach dem Punkt C eine vorgezogene Strategie- 
-und Transportentscheidung} getroffen werden. 
+und Zielentscheidung} getroffen werden. 
 Die Maßnahmen von D und E sollen dann, sofern möglich, während des 
 Transportes erfolgen. }
 \end{center}
@@ -566,6 +550,10 @@ EKG, Kapnometrie, \ldots
 &
 \begin{minipage}{\linewidth}
 \begin{itemize}
+  \item \EE{Immer durchzuführende Standardmaßnahmen}
+  (\prettyref{MK-m:standardmassnahmen-immer})
+  \item Regelmäßige \EE{Wiederholung des
+  Einschätzungsblockes} {\tiny(in angemessenem Umfang)}
   \item (Lagerung)
   \item Verband, Blutstillung
   \item Schienung
@@ -574,10 +562,6 @@ EKG, Kapnometrie, \ldots
   \item Entscheidung Notarzt-Nachforderung wegen
   Schmerztherapie oder Aufklärung/Belassung
   \item Suerstoffgabe (\prettyref{MK-m:sauerstoffberieselung})
-  \item Regelmäßige \EE{Wiederholung des
-  Einschätzungsblockes} {\tiny(in angemessenem Umfang)}
-  \item \EE{Immer durchzuführende Standardmaßnahmen}
-  (\prettyref{MK-m:standardmassnahmen-immer})
   \item \ldots
 \end{itemize}
 \end{minipage}
@@ -628,36 +612,46 @@ unterschiedlich!\label{tab:checkliste-patientenmanagement}\label{tab:pam-weiterf
 \subsection{Einführung} 
 Gerade zu Beginn der Tätigkeit als medizinische
 Fachkraft fühlt man sich bei Konfrontation mit Patienten durch die
-große Menge an Sinneseindrücken und Informationen überlastet. 
+große Menge an Sinneseindrücken und Informationen überfordert. 
 Das Erkennen, was in einer Situation wichtig und was weniger
-wichtig ist, ist oft selbst für erfahrenes Personal nicht einfach.
+wichtig ist, ist selbst für erfahrenes Personal oft nicht einfach.
 Um diesem Umstand zu begegnen, haben sich strukturierte
 Vorgehensweisen bewährt, welche als grundsätzliche Leitlinie
 dienen, und sowohl dem Personal, als auch dem Patienten ein
 hohes Maß an Sicherheit geben.
-
 Patientenmanagement besteht aus vielen einzelnen
 Komponenten, welche wie eine Maschine zusammenarbeiten:
 \begin{itemize}
-  \item Einschätzungsblock (ABCDE) zum 
+  \item Einschätzungsblock (ABCDE) zum
   \begin{itemize}
     \item Einschätzen und
-  Erkennen einer vitalen Bedrohung und
-  \item Ergreifen von Sofortmaßnahmen
+    Erkennen einer vitalen Bedrohung und
+    \item Ergreifen von Sofortmaßnahmen
+    \item Erkennen der Hauptbeschwerde und von Leitsymptomen
   \end{itemize}
   \item Weiterführende Untersuchungen und Maßnahmen
   \begin{itemize}
-  \item Erhebung der Anamnese (SAMPLER)
-  \item Weitere Untersuchungen
-  \item Spezielle Maßnahmen je nach Krankheitsbild
-  Immer durchzuführende Standardmaßnahmen 
-  (\FullPrettyRef{m:standardmassnahmen-immer})
+    \item Erhebung der Anamnese (SAMPLER)
+    \item Weitere Untersuchungen
+    \item Spezielle Maßnahmen je nach Krankheitsbild
+    Immer durchzuführende Standardmaßnahmen
+    (\FullPrettyRef{m:standardmassnahmen-immer})
   \end{itemize}
-  \item Auswahl einer geeigneten Einrichtung zur
+  \item Immer durchzuführende Standardmaßnahmen
+  (\prettyref{MK-m:standardmassnahmen-immer})
+  \item Ggfs. Auswahl einer geeigneten Einrichtung zur
   Weiterbehandlung
-  \item Transport
-  \item Übergabe an das weiterbehandelnde Personal
+  \item Ggfs. Transport
+  \item Ggfs. Übergabe an das weiterbehandelnde Personal
 \end{itemize}
+
+
+\Dictum
+[Theaterdirektor. \\
+In: Johann Wolfgang von Goethe: Faust. Der Tragödie erster Teil]
+{Der Worte sind genug gewechselt,\\
+Laßt mich auch endlich Taten sehn!}
+
 
 
 \clearpage
@@ -680,21 +674,18 @@ welche zumeist über wenig Fachwissen, dafür aber oft über
 ausgeprägte und mal mehr, mal weniger verständliche
 Eigeninteressen verfügen andererseits. Dazu kommen mitunter
 noch weitere Personen wie Polizisten, Feuerwehrleute,
-Bedienstete von Verkehrsbetrieben usw. Dabei darf man auch
-nicht auf unbeteiligte Dritte vergessen (Berufer,
-Schaulustige, Zeugen, \ldots), welche auf eine
-Patientenversorgung evtl. auf Einfluss nehmen können. 
-
-Als wäre diese Fülle von Kommunikationspartnern nicht schon
-Herausforderung genug, findet man sich häufig in einer
+Bedienstete von Verkehrsbetrieben, Dritte (Berufer,
+Schaulustige, Zeugen, \ldots), usw., mit welchen
+kommuniziert werden muss. 
+Als wäre die Fülle von potentiellen Kommunikationspartnern
+nicht schon Herausforderung genug, findet man sich häufig in einer
 Situation wieder, die für die Kommunikationspartner einen
 Ausnahmezustand darstellt: Krankheit, Schmerzen,
 viele unbekannte Gesichter, unbekannte Geräte, eine oft
 unbekannte Fachsprache, die Ungewissheit was passieren wird
 {\ldots} All dem soll im Rahmen einer professionellen
 Kommunikation entsprechend begegnet werden. 
-
-Ziele der Kommunikation:
+Ziele der Kommunikation sind:
 
 \begin{itemize}
   \item Ermittlung von Informationen
@@ -710,8 +701,8 @@ Ziele der Kommunikation:
   (\FullPrettyRef{topic:aufklaerung}).
   
   Vor allem ist es aber eine Frage des Respekts  gegenüber
-  dem Patienten ihm zu sagen, was man an \E{seinem} Körper
-  macht.
+  dem Patienten ihm zu sagen, was man an und mit \E{seinem}
+  Körper macht:
   \begin{compactitem}
     \item Untersuchungen
     \item Maßnahmen
@@ -735,38 +726,40 @@ Ziele der Kommunikation:
 
 \subsection{Kurze Kommunikationstheorie}
 
-Es gibt Theorien zur Kommunikation wie Sand am mehr. Im
+Es gibt Theorien zur Kommunikation wie Sand am Meer. Im
 folgenden wollen wir uns auf zwei wesentliche, in der Praxis
-sehr taugliche Beschreibungen konzentrieren, welche vie der
+sehr taugliche Modelle konzentrieren, welche viele der
 Fehler und Fallen, die tagtäglich auf uns lauern, erklären
-können. 
-
+können. Dabei stehen zwei Aspekte im Vordergrund:
 \begin{enumerate}
   \item \EE{Übermittlung}: Es gibt bei der
   Nachrichtenübermittlung einen Sender und einen Empfänger.
-  \item \EE{Aussagen}: Eine Nachricht enthält
+  \item \EE{Aussage}: Eine Nachricht enthält
   unterschiedliche Aussagen.
 \end{enumerate}
 
 \Layout{2}
 {Übermittlung: Sender und Empfänger}
 {%
-Eine \EE{Nachricht} wird 
+Das Sender\,--\,Empfänger-Modell erklärt das Phänomen der 
+eigentlichen Nachrichtenübermittlung \cite{Informatik3}.
+Eine \EE{Nachricht} wird dabei 
 \begin{enumerate}
   \item von
-einem \EE{Sender} 
-\item \EE{kodiert} (Sprache, Fachsprache, Dialekt,
-Umgangssprache, \ldots).
-\item und über einen \EE{Übertragungsweg} (direk mündlich,
-Sprechfunk, Datenfunk, Protokolle und Niederschriften, \ldots)
-\item zu einem \EE{Empfänger} übermittelt
-\item und dort \EE{dekodiert}.
+  einem \EE{Sender}
+  \item \EE{kodiert} (Sprache, Fachsprache, Dialekt,
+  Umgangssprache, Alphabet, \ldots)
+  \item und über einen \EE{Übertragungsweg} (direkt mündlich,
+  Sprechfunk, Datenfunk, Protokolle und Niederschriften, \ldots)
+  \item zu einem \EE{Empfänger} übermittelt
+  \item und dort \EE{dekodiert}.
 \end{enumerate}
 Die Nachricht kann \EE{durch Störungen verfälscht} werden.
 Diese Störung kann auftreten:
 \begin{itemize}
   \item Beim \EE{Sender}: Der Sender sagt nicht was er sagen
-  will, undeutliche Sprache, \ldots
+  will, undeutliche Sprache, Sprachschwieirgkietn, 
+  falsch verstandene Fachsprache, \ldots
   \item Bei der \EE{Kodierung}: Mehrdeutigkeit, kulturelle
   Unterschiede,
   \item Beim \EE{Übertragungsweg}: Laute Umgebung,
@@ -776,7 +769,7 @@ Diese Störung kann auftreten:
   des Zusammenhangs, eingegrenzte Wahrnehmung, \ldots
   
   Ein großes Problem dabei ist, dass der Empfänger oft
-  nicht bemerkt dass er etwas falsch verstanden hat.
+  nicht bemerkt, dass er etwas falsch verstanden hat.
 \end{itemize}
 
 \Fazit{\E{Gedacht} ist nicht gesagt, 
@@ -786,7 +779,7 @@ Diese Störung kann auftreten:
 
 Ein gutes Beispiel einer Störung der Kommunikation ist das
 \enquote*{Stille-Post}-Spiel, bei welchem am Ende der
-Übertragungskette die ursprüngliche Nachricht zumiest völlig
+Übertragungskette die ursprüngliche Nachricht zumeist völlig
 entstellt ist. Um deratige Übertragungsfehler zu
 \E{vermeiden}, ist es wichtig, dass der Empfänger eine
 Kontroll- bzw. \EE{Rückmeldung} an den Sender gibt, um zu
@@ -805,7 +798,7 @@ kontrollieren, ob und wie er die Botschaft verstanden hat.
 {}
 {}
 {./images/wikipedia-cc-by-sa/Sender-Empfaenger-Modell-edited}
-{Das Sender-Empfänger-Modell}
+{Das Sender-Empfänger-Modell \cite{Informatik3}}
 {User:Wiska Bodo, original uploader Freak222
 auf \url{http://de.wikipedia.org}, modifiziert; ; CC-BY-SA
 3.0}
@@ -824,7 +817,7 @@ Friedemann Schulz von Thun, \cite{ThunRedenI46}}:
   kommt zum Ausdruck, wie der Sender und Empfänger sich
   zueinander verhalten und sich gegenseitig einschätzen.
   Entscheidend ist die Art der Formulierung, die
-  Körpersprache, Tonfall usw., womit Wertschätzung, Respekt,
+  Körpersprache, der Tonfall usw., womit Wertschätzung, Respekt,
   Wohlwollen, Gleichgültigkeit, Verachtung etc. vermittelt
   werden kann.
   \item \EE{Appellaussage}: Der Appellanteil einer Nachricht
@@ -859,25 +852,25 @@ bekannt:
   \begin{tabularx}{\linewidth}{XXX}
   & \TabHeading{Er (Sender)} & \TabHeading{Sie (Empfänger)}
   \\\addlinespace
-  \TabSub{Sachaussage}
+  \noindent\TabSub{Sachaussage}
   & 
   Die Ampel ist grün.
   &
   Die Ampel ist grün.
   \\\addlinespace
-  \TabSub{Beziehungs\-aus\-sage}
+  \noindent\TabSub{Beziehungs\-aus\-sage}
   & 
-  Sie braucht meine Hilfe
+  Du brauchst meine Hilfe weil Du unaufmerksam bist.
   &
   Er fühlt sich mir überlegen.
   \\\addlinespace
-  \TabSub{Appellaussage}
+  \noindent\TabSub{Appellaussage}
   &
   Fahr los!
   &
-  Steig aus und lass mich fahren.
+  Er will dass ich ihm das Steuer überlasse.
   \\\addlinespace
-  \TabSub{Selbst\-offen\-barung} 
+  \noindent\TabSub{Selbst\-offen\-barung} 
   &
   Ich habe es eilig.
   &
@@ -921,8 +914,9 @@ CC-BY-SA 3.0}
 Ein gut geführtes Patientengespräch ist durch folgende Merkmale gekennzeichnet:
 \begin{itemize}
     \item \EE{Vorstellen}: Zur Vorstellung gehört die Nennung des eigenen
-    Namens und -- so es die Dringlichkeit zulässt -- ein Händedruck.
-    \item \EE{Augenhöhe}: Geht man in die Hocke kann man mit dem Patient auf
+    Namens, der Funktion und -- so es die Dringlichkeit zulässt -- ein Händedruck.
+    \item \EE{Augenhöhe}: Geht man in die Hocke oder organisiert man sich einen Sessel, 
+    kann man mit dem Patient auf
     \E{Augenhöhe} kommunizieren. Dies nimmt dem Patient Angst und fördert eine
     Gesprächsbasis \E{auf einer Ebene}.
     \item \EE{Deutlichkeit und Einfachheit}: Eine deutliche und einfache
@@ -932,8 +926,8 @@ Ein gut geführtes Patientengespräch ist durch folgende Merkmale gekennzeichnet
     Diese müssen evtl. erst eingeschalten werden.} Fachbegriffe sind zu
     vermeiden!
     \item \EE{Aktives Zuhören}: Die
-    Antworten des Patienten müssen bei Helfer \enquote{ankommen} und nicht
-    \enquote{verloren gehen}. Wichtige Informationen werden oft
+    Antworten des Patienten müssen bei Helfer \enquote*{ankommen} und nicht
+    \enquote*{verloren gehen}. Wichtige Informationen werden oft
     nur einmal berichtet, der Patient nimmt im weiteren
     Verlauf an, dass er sie bereits gesagt und das
     Fachpersonal sie verstanden hat.
@@ -948,14 +942,14 @@ Ein gut geführtes Patientengespräch ist durch folgende Merkmale gekennzeichnet
     Information richtig verarbeitet hat, kann man das Gesagte in
     eigenen Worten wiederholen und sich vom Patient die Richtigkeit bestätigen
     lassen.
-    \item \EE{\enquote{Monogam}}: Es ist immer nur \E{eine
+    \item \EE{\enquote*{Monogam}}: Es ist immer nur \E{eine
     Frage gleichzeitig} zu stellen.
     \item \EE{Information}: Der Patient ist immer über das Vorgehen der Helfer
     zu informieren!
     \item \EE{Aufrichtigkeit}: Die Fragen des
     Patienten sind nach bestem Wissen zu beantworten! \EE{Das Anlügen des
     Patienten ist \E{tabu}!} Liegen mögliche Antworten außerhalb des Wissens-
-    oder Kompetenzbereiches ist auf ärztlichen Rat zu verweisen.
+    oder Kompetenzbereiches ist auf die zuständige Stelle zu verweisen.
     \item \EE{Bezugsperson}: Sind mehrere Helfer
     vorort, so soll nur einer der Ansprechpartner des
     Patienten sein!\label{topic:einer-redet}
@@ -1024,8 +1018,8 @@ Grundsätzlich unterscheidet man \EE{offene} und
     Schmerz aus?}}
   \end{quote}
   
-  \item \EE{Suggestivfragen} sind \enquote{böse}: Hier
-  legt der Gesprächsführende dem Patienten die Antworten \enquote{in
+  \item \EE{Suggestivfragen} sind \enquote*{böse}: Hier
+  legt der Gesprächsführende dem Patienten die Antworten \enquote*{in
   den Mund}. Sie können sowohl als offene, als auch als
   geschlossene Fragen formuliert werden.
   
@@ -1144,72 +1138,59 @@ Einschätzungsblock muss in regelmäßigen Abständen sowie bei
 Verdacht in angemessenem Umfang wiederholt werden, um eine
 Verschlechterung des Patientenzustandes rechtzeitig zu
 erkennen. 
-\Commentary[Zielsetzung des Patientenmanagements nach \AASS]{%
-Ziel war es, ein möglichst schrittweise und geradlinig abarbeitenbares
+
+\Layout{2}
+{Zielsetzung und Struktur des Patientenmanagements nach \AASS}
+{Ziel war es, ein möglichst schrittweise und geradlinig abarbeitenbares
 System zu entwerfen, welches dennoch genügend Freiraum für spezielle
-Situationen bietet und als Screening für viele vital bedrohliche
-Erkrankungen (und Verletzungen) geeignet ist. Die Erfahrung hat gezeigt,
-dass viele der klassischen ABC(DE)-Modelle Anfänger verwirren und das
-Konzept dann eigentlich mehr schlecht als recht angewandt wird. 
-\ParBugfix
-Weiters haben wir festgestellt, dass im Dienstbetrieb die bisherigen
-Primary-/Secondary-Modelle eher nur bei schon von Anfang an als kritisch
-erkennbaren Patienten (und hier vor allem bei Trauma-Patienten)
-verwendet werden und die klassischen \enquote{NACA-II-Patienten} nicht in den
-Genuss eines systematisierten Screening gekommen sind. Daher haben wir
-großen Wert darauf gelegt unser System so zu formulieren, dass es von
-NACA I bis VII ohne große Anpassungen sinnvoll anwendbar ist.
-\ParBugfix
+Situationen bietet und als \EE{Screening} für die wichtigsten vital bedrohlichen
+Erkrankungen (und Verletzungen) geeignet ist. 
 Auch unser Modell folgt dem Grundsatz \Speech{\enquote{Treat
 first what kills first}} und die traditionelle Reihenfolge
 \enquote{Atemwege -- Atmung -- Kreislauf} wird natürlich
-beibehalten. Die Punkte A, B und C entsprechen damit den
-Punkten der Primary Survey in den meisten anderen Konzepten
-(simple
-Untersuchungen nach dem \enquote{Sehen-hören-fühlen-Konzept}). 
-\ParBugfix
-Die Schritte bis zu Punkt C sind simpel und können weitgehend ohne
-technische Hilfsmittel durchgeführt werden. Sie können weiters bei
-\E{jedem} Patienten (auch bei Ambulanzdiensten und im Krankentransport)
-ohne großen Aufwand innerhalb von wenigen Sekunden durchgeführt werden,
-mitunter ohne dass der Patient dies überhaupt bemerkt.
-\ParBugfix
-Ab dem Punkt D weicht nun das Konzept ab: Es werden hierin die
-apparativen Untersuchungen des ABC-Teils der Secondary Survey
-integriert.
-\ParBugfix
-Obwohl formal nicht zwischen Primary und Secondary Survey unterschieden
-wird, so sind de facto die Schritte bis C vergleichbar mit der Primary
-Survey, die Schritte ab Punkt D mit der Secondary Survey.
-}
-\Commentary[Grundzüge des Einschätzungsblockes nach AASS]{%
+beibehalten. 
 Der Einschätzungsblock ist eine Einheit und es wird formal
 \EE{nicht} zwischen einer Primary- und Secondary Survey
 unterschieden.
 Das Konzept folgt einem durchgängigen Schema, bei dem die
 Aktionen flüssig nacheinander abgearbeitet und nur durch
 Sofortmaßnahmen unterbrochen werden.
-\ParBugfix
+
+\subparagraph{Primary- und Secondary Survey?}
+Weiters haben wir festgestellt, dass im Dienstbetrieb die bisherigen
+\E{Primary-/ Secondary-Modelle} eher nur bei schon von Anfang an als kritisch
+erkennbaren Patienten (und hier vor allem bei Trauma-Patienten)
+verwendet werden und die klassischen \enquote*{NACA-II-Patienten} nicht in den
+Genuss eines systematisierten Screening gekommen sind. Daher haben wir
+großen Wert darauf gelegt unser System so zu formulieren, dass es von
+NACA I bis VII ohne große Anpassungen sinnvoll anwendbar ist
+und haben auf die Unterscheidung der Primary- und Secondary
+Survey bewusst verzichtet.
+
+\subparagraph{Aber was ist mit {\ldots}?}
+Das ABCDE-Schema bzw. der Einschätzungsblock dient der
+Erkennung von vital bedrohten Patienten und dem Erkennen von Hauptbeschwerden und
+Leitsymptomen, \E{es deckt nicht sämtliche
+mögliche Untersuchungen ab!} Weiterführende Untersuchungen
+und Anamneseschritte bzw. Maßnahmen werden \E{nach} dem
+Einschätzungsblock nach Bedarf durchgeführt.
+
+\subparagraph{Was ist mit der General Impression?}
 Traditionell werden einige Punkte vor dem Beginn des ABCDE-Blocks im
 Rahmen einer \E{General Impression} zwar erwähnt, aber de
 facto recht stiefmütterlich behandelt. Unser Konzept integriert die Punkte der
-General Impression als zum ABCDE gleichberechtigte Punkte und betont
+General Impression als \E{zum ABCDE gleichberechtigte Punkte} und betont
 somit diese:
-\E{Szeneüberblick}, \E{Eindruck}, \E{Bewusstsein} und
-\E{Hauptbeschwerde} haben somit einen größeren Stellenwert als
-bei vielen anderen Interpretationen des etablierten
+\EE{Szeneüberblick}, \EE{Eindruck}, \EE{Bewusstsein} und
+\EE{Hauptbeschwerde} haben als Punkte \Range{\ABCDE{1}}{\ABCDE{4}} 
+einen größeren Stellenwert als
+bei vielen anderen Interpretationen des 
 ABC(DE)-Schemas. Bei der Re-Evaluation werden diese Punkte 
 ebenso erfasst.
-\ParBugfix
-Der Einschätzungsblock ist weitgehend kompatibel zum
-simplen, alten BAK-Schema (Bewusstsein, Atmung, Kreislauf).
-\ParBugfix
-Die Schritte bis zu Punkt C sind simpel und können
-weitgehend ohne technische Hilfsmittel durchgeführt werden.
-Sie können weiters bei \E{jedem} Patienten (auch bei
-Ambulanzdiensten und im Krankentransport) ohne großen
-Aufwand durchgeführt werden.
-\ParBugfix
+Der Einschätzungsblock ist somit weitgehend kompatibel zum
+simplen, alten \I{BAK-Schema} (Bewusstsein, Atmung, Kreislauf).
+
+\subparagraph{Beispielhafte Maßnahmen}
 Die angegebenen Maßnahmen stellen grundsätzlich nur
 (häufige) Beispiele dar. Eine umfassende Aufzählung aller
 möglichen Sofortmaßnahmen würde den Rahmen sprengen und wäre
@@ -1219,12 +1200,11 @@ besonders qualifiziertem Personal. Weiters müssen Maßnahmen
 immer \E{situationsgerecht} sein, und können aufgrund der
 Vielzahl an Variablen nicht starr in Form eines Standard
 Operating Precedure (SOP) festgeschrieben werden.
-\ParBugfix
-Teile des Traumachecks (früher: \enquote{schneller Traumacheck})
-wurden nun über die einzelnen Punkte an die passenden
-Stellen aufgeteilt. Es wird nur mehr in Details zwischen
-Trauma-Patient und Nicht-Trauma-Patient unterschieden. }
-% Commentary
+}
+{}
+{}
+{}
+{}
 
 
 
@@ -1237,8 +1217,13 @@ Trauma-Patient und Nicht-Trauma-Patient unterschieden. }
 \subsection{{\FontKeyboardFamily{1}} Szeneüberblick und (Selbst-)Schutz}
 
 
+\Dictum
+[Mephistopheles. \\
+In: Johann Wolfgang von Goethe: Faust. Der Tragödie erster Teil]
+{Grau, teurer Freund, ist alle Theorie, \\
+und Grün des Lebens goldner Baum.}
 
-\Layout{0}{{Sz} | Szeneüberblick und (Selbst-)Schutz}{%
+\Layout{0}{\TxBeschreibung}{%
 Kernpunkte sind die Fragen:
 \begin{itemize}
   \item \Speech{Ist die Einsatzstelle sicher?}
@@ -1311,7 +1296,7 @@ Wenn notwendig, muss der Leitstelle eine erste
 \subsection{{\FontKeyboardFamily{2}} Eindruck +
 HWS-Stabilisierung (General Impression + Cervical Spine)} 
 
-\Layout{0}{Ei | Eindruck + HWS-Stabilisierung (Cervical Spine)}{%
+\Layout{0}{{\TxBeschreibung}}{%
 Hier zählt der Eindruck, den der Patient auf den Helfer
 macht. Es werden v.\,a. beurteilt: 
 
@@ -1328,7 +1313,22 @@ Liegt der Verdacht auf eine Wirbelsäulenverletzung vor wird
 bereits hier mit der manuellen Stabilisierung der
 Halswirbelsäule begonnen. \index{HWS-Stabilisierung!Eindruck (ABCDE)}
 
-\subparagraph{\eye} Auffallen kann eine \E{blasse  Haut}, \E{Zyanose},
+}{%
+\begin{itemize}
+  \item Hautfarbe
+  \item Gesichtsausdruck
+  \item Haltung
+  \item Sprache
+  \item sonstige Auffälligkeiten
+\end{itemize}
+}
+{}
+{}
+{}
+
+\Layout{2}
+{{\eye} Befunde}
+{Auffallen kann eine \E{blasse  Haut}, \E{Zyanose},
 \E{Schweiß}, \E{Schonhaltung},
 \E{Atemnot} (Gestik, Aufstützen der Arme um die \E{Atemhilfsmuskulatur}
 einzusetzen (\prettyref{topic:atemhilfsmuskulatur}),
@@ -1337,21 +1337,14 @@ verwaschene oder wirre \E{Sprache}, \E{Des\-orientiertheit},
 \E{Krämpfe} u.\,v.\,a.\,m. Ebenso
 können eventuell Hinweise auf ein \E{Trauma}, sichtbare
 Verletzungen, starke Blutungen oder Hinweise auf eine
-Wirbelsäulenverletzung erkannt werden.
-
-
-}{%
-\begin{itemize}
-  \item Hautfarbe, Gesichtsausdruck, Haltung, Sprache,
-  sonstige Auffälligkeiten
-\end{itemize}\begin{compactitem}
+Wirbelsäulenverletzung erkannt werden.}
+{\begin{compactitem}
     \item[\eye] Blässe, Zyanose, Schweiß
     \item[\eye] Schonhaltung, Atemnot
     \item[\eye] Sprache, Desorientiertheit,
     Krämpfe
   \item[\eye] Trauma, Verletzungen, Wirbelsäule, Blutungen
-  \end{compactitem}
-}
+  \end{compactitem}}
 {}
 {}
 {}
@@ -1386,36 +1379,26 @@ Wirbelsäulenverletzung erkannt werden.
 \Layout{0}{\TxBeschreibung}
 {\DefinitionInPara{Bewusstsein ist ein Oberbegriff für u.\,a. Wachheit,
 Orientierung, Aufmerksamkeit, Auffassungsgabe, Denkverlauf und
-Merkfähigkeit \cite{Pschy259}.} Es ist ferner eine grundlegende Vitalfunktion erster
-Ordnung, es ist besonders wichtig hinsichtlich des
-Schutzes des Menschen vor Bedrohung. Ein bewusstseinsklarer
-Mensch kann sich gegen Gefahren wehren, ein eingetrübter
-oder bewusstloser Mensch kann dies schlecht oder gar nicht. 
-
-Bei der Diagnostik beurteilt man die
-Bewusstseinsgrade (klar, somnolent, soporös, komatös) und
-die Orientierung (zeitlich, örtlich, zur Situation und zur
-Person). Bewusstseinsstörungen sind aufgrund des Ausfalls
-der Schutzreflexe und des Zurückfallens der Zunge
-gefährlich. Es gibt Ursachen für Störungen, welche primär
-direkt (Verletzung, Schlaganfall, \ldots), und Ursachen, die
-sekundär, also über Umwege (Zuckerstoffwechsel,
-Vergiftungen, \ldots), auf das ZNS einwirken.
-
-\Z{Die \enquote{wahre} Definition von Bewusstsein ist seit
+Merkfähigkeit \cite{Pschy259}.} \Z{Die \enquote{wahre} Definition von Bewusstsein ist seit
 tausenden von Jahren ungeklärt. Auch an dieser Stelle wird
 das Geheimnis nicht gelüftet werden, daher muss die obige
 Definition für den Alltag ausreichen.\footnote{Hinweisen
 zufolge könnte die Antwort
 eventuell \enquote{42} sein
 \citep{UltimateHitchhikersGuide96hitchhikersguide}.}}
+Es ist eine grundlegende
+\E{Vitalfunktion erster Ordnung} und ist besonders wichtig
+hinsichtlich des Schutzes des Menschen vor Bedrohung. Ein bewusstseinsklarer
+Mensch kann sich gegen Gefahren wehren, ein eingetrübter
+oder bewusstloser Mensch kann dies schlecht oder gar nicht. 
 
-Bei der Beurteilung des Bewusstseins unterscheidet man
-zwischen dem \EE{Bewusstseinsgrad}  (quantitativ,
-\E{Wieviel} Bewusstsein ist vorhanden?) und der
-\EE{Orientiertheit} (Qualität, \Speech{Wie gut funktioniert
-das vorhandene Bewusstsein?}). Die Orientiertheit wird unter Punkt
-\ABCDE{D} beurteilt.
+Bei der Diagnostik beurteilt man 
+den \EE{Bewusstseinsgrad}(quantitativ;
+\E{Wieviel} Bewusstsein ist vorhanden? Klar, somnolent, soporös, komatös) und
+die \EE{Orientierung} (Qualität; \Speech{Wie gut funktioniert
+das vorhandene Bewusstsein?} Zeitlich, örtlich, zur Situation und zur
+Person). Die Orientierung wird unter
+Punkt \ABCDE{D} beurteilt.
 }{
 \begin{itemize}
   \item Vitalfunktion 1. Ordnung
@@ -1423,7 +1406,7 @@ das vorhandene Bewusstsein?}). Die Orientiertheit wird unter Punkt
   \item Beurteilung:
   \begin{itemize}
     \item Bewusstseinsgrad (quantitativ)
-    \item Orientiertheit (qualitativ) $\rightarrow$ \ABCDE{D}
+    \item Orientierung (qualitativ) $\rightarrow$ \ABCDE{D}
   \end{itemize}
 \end{itemize}
 }{}{}{}
@@ -1445,27 +1428,25 @@ Beurteilt wird das \E{quantitative Bewusstsein} (\Speech{\enquote{\EE{Wieviel} B
 ist vorhanden?}}, vgl.
 \prettyref{topic:bewusstseinsstoerung-grade}), nach dem
 \T{WASB-Schema}. WASB ist die Abkürzung für 
-\begin{compactitem}
-  \item \EE{\underline{W}ach},
-  \item Reaktion auf \EE{\underline{A}nsprechen} oder
+\EE{\underline{W}ach},
+Reaktion auf \EE{\underline{A}nsprechen} oder
   leichte Weckreize,
-  \item Reaktion auf \EE{\underline{S}chmerzreiz} und
-  \item \EE{\underline{B}ewusstlos}. 
-\end{compactitem}
+Reaktion auf \EE{\underline{S}chmerzreiz} und
+\EE{\underline{B}ewusstlos}. 
 Dementsprechend kann ein Patient
-I{bewusstseinsklar}, \I{somnolent}, \I{soporös}
+\I{bewusstseinsklar}, \I{somnolent}, \I{soporös}
 oder  \I{komatös} bzw. \I{bewusstlos} sein, vgl.
 \prettyref{tab:bewusstseinsgrade}.
 }{
 \begin{itemize}
   \item W\,--\,A\,--\,S\,--\,B
-  \begin{compactitem}
+  \begin{itemize}
     \item Wach \dotfill  \EE{klar}
     \item Ansprache \dotfill 
     \EE{somnolent}
     \item Schmerzreiz \dotfill  \EE{soporös}
     \item Bewusstlos \ldots  \EE{komatös}
-  \end{compactitem}
+  \end{itemize}
 \end{itemize}
 }{}{}{}
 
@@ -1524,35 +1505,6 @@ Reaktion auf \EE{S}chmerzreiz
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\Layout{0}{Glasgow Coma Scale (GCS)}
-{%
-\index{Glasgow Coma Scale}
-\index{GCS}
-\label{topic:gcs}
-%
-Die Glasgow Coma Scale ist eine spezielle Skala, welche der
-objektiven Einschätzung der Bewusstseinslage  dient. Sie
-hat einen Wertebereich von \VonBis{3}{15} Punkten. Ein voll
-bewusstseinsklarer Patient hat 15 Punkte, ein schwerst
-bewusstseinsgestörter oder toter Patient 3 Punkte (nicht
-0!). Bewertet werden die Augenöffnung, die beste verbale und
-die beste motorische Reaktion des
-Patienten.\ZFootnote{Regelmäßig findet man
-Handlungsanweisungen -- überwiegend für ärztliches Personal
--- in der Literatur, welche die \Abk{GCS} als
-Entscheidungskriterium (z.\,B. für
-die Intubation) heranziehen. Der Nutzen ist aber genauso
-regelmäßig umstritten.}
-}{
-\VonBis{3}{15} Punkte.
-\begin{itemize}
-    \item Augenöffnung (4)
-    \item Beste verbale Reaktion (5)
-    \item Beste motorische Reaktion (6)
-\end{itemize}
-\prettyref{tab:gcs}.
-}{}{}{}
 
 
 \begin{table}[H]
@@ -1564,7 +1516,7 @@ regelmäßig umstritten.}
 \noindent ~ & \noindent\TabHeading{Max.} & \noindent\TabHeading{Punkte} &
 \noindent\TabHeading{Reaktion}
 \\\midrule
-\TabSub{Augenöffnung} & 4 & 4 & spontan
+\noindent\TabSub{Augenöffnung} & 4 & 4 & spontan
 \\
  & & 3 & auf Ansprache
 \\
@@ -1572,7 +1524,7 @@ regelmäßig umstritten.}
 \\
  & & 1 & nicht
 \\\midrule
-\TabSub{Verbale Antwort} & 5 & 5 & klar
+\noindent\TabSub{Verbale Antwort} & 5 & 5 & klar
 \\
  & & 4 & verwaschen
 \\
@@ -1582,7 +1534,7 @@ regelmäßig umstritten.}
 \\
  & & 1 & nicht
 \\\midrule
-\TabSub{Motorische Reaktion} & 6 & 6 & spontan
+\noindent\TabSub{Motorische Reaktion} & 6 & 6 & spontan
 \\
  & & 5 & gezielte Abwehrbewegungen
 \\
@@ -1632,14 +1584,11 @@ Gefahren:
 \end{itemize}
 }{}{}{}
 
-
-
-\Fazit{Schwere Bewusstseinsstörungen sind
-\EE{lebensgefährlich!}}
-
-
-
-
+\Fazit{Bewusstseinsstörungen können aufgrund des Ausfalls
+der Schutzreflexe und des Zurückfallens der Zunge, sowie
+der Unfähigkeit des Menschen, sich gegen Gefahren zu
+wehren,
+\EE{lebensgefährlich} sein!}
 
 
 
@@ -1648,9 +1597,9 @@ Gefahren:
 \Layout{0}{Ursachen}
 {%
 Durch die Schädigung des zentralen Nervensystems kommt es zu
-der Bewusstseinsstörung. Diese Schädigung kann direkt das
-\Abk{ZNS} betreffen (primäre Ursache) oder über Umwege einen
-schädlichen Einfluss auf das \Abk{ZNS} haben (sekundäre
+der Bewusstseinsstörung. Diese Schädigung kann direkt auf
+das \Abk{ZNS} wirken (primäre Ursache) oder über Umwege
+einen schädlichen Einfluss auf das \Abk{ZNS} haben (sekundäre
 Ursache). \prettyref{tab:bewusstseinsstoerungen-ursachen}
 listet typische Ursachen auf.
 
@@ -1749,18 +1698,16 @@ soporöse Patienten}{m:bewusstlosigkeit}
 \subsection{{\FontKeyboardFamily{4}} Hauptbeschwerde (Main
 Complaint)} 
 
-\Layout{0}{{Hb} | Hauptbeschwerde}{%
+\Layout{0}{What's up, man?}{%
 Die \EE{Hauptbeschwerde} des Patienten, bzw. der \EE{Grund
 der Berufung}, sowie Schmerzen und andere für den Patienten
 dringliche Symptome müssen herausgefunden werden. I.\,d.\,R.
 wird hier auf den \enquote{S}-Teil des \Abk{SAMPLE}
 vorgegriffen.
 Es bietet sich die Frage an:
-
 \begin{quote}
 \Speech{\enquote{Was können wir für sie tun?}}
 \end{quote}
-
 Eventuell ist auch die Umgebung (Angehörige, Dritte) einzubeziehen
 (Fremdanamnese).
 }{%
@@ -1795,7 +1742,7 @@ Eventuell ist auch die Umgebung (Angehörige, Dritte) einzubeziehen
 \clearpage
 \subsection{{\FontKeyboardFamily{A}} Atemweg (Airway)}
 
-\Layout{0}{{A} | Atemweg}{%
+\Layout{0}{Vom Gurgeln und Schnarchen}{%
 Unter Punkt
 A wird eingeschätzt, ob der Atemweg \EE{frei} oder
 \EE{verlegt} ist.
@@ -1804,22 +1751,29 @@ Dazu werden zuerst die \E{Mundhöhle}, die \E{Nase} und der
 Verletzung vor, werden Nase und Hals auch \E{abgetastet}.
 Weiters werden die \EE{Atemgeräusche} beurteilt. 
 
-\subparagraph{\eye} Speziell \E{pfeifende}, \E{gurgelnde} oder \E{schnarchende}
-Atemgeräusche können ein Hinweis auf eine Verlegung sein.
-Oft gibt auch die \EE{Gestik} und Haltung des Patienten
-Hinweise.
-
-% \vspace{1.4cm}
 }{%
 \begin{itemize}
   \item Inspektion \& ggfs. Abtasten von \EE{Mundhöhle},
   \EE{Nase} und \EE{Hals}
 \end{itemize}
-\begin{compactitem}
+}
+{}
+{}
+{}
+
+\Layout{0}
+{{\eye} Befunde}
+{Speziell \E{pfeifende}, \E{gurgelnde} oder \E{schnarchende}
+Atemgeräusche können ein Hinweis auf eine Verlegung sein.
+Oft gibt auch die \EE{Gestik} und Haltung des Patienten
+Hinweise.
+}
+{
+\begin{itemize}
   \item[→] Frei oder verlegt
   \item[\eye] Atemgeräusche: Pfeifen, Gurgeln, Schnarchen;
   Gestik
-\end{compactitem}
+\end{itemize}
 }
 {}
 {}
@@ -1845,7 +1799,7 @@ Hinweise.
 \clearpage
 \subsection{{\FontKeyboardFamily{B}} Atmung (Breathing)}
 
-\Layout{0}{{B} | Atmung}{%
+\Layout{0}{Take a deep breath \ldots}{%
 \index{Atemprobe}
 \index{Atmung!Einschätzungsblock}
 Als nächstes wird die Funktion der \E{Atmung} beurteilt.
@@ -1875,13 +1829,6 @@ Stethoskops die oberen und unteren Atemwege abhören
 (auskultieren) und damit Störungen des Atemweges und der
 Atmung besser einschätzen.}
 
-\subparagraph{\eye} Erkennbar sind z.\,B. eine Zyanose,
-Anzeichen einer (oder Klage über) Atemnot, eine zu schnelle
-oder langsame Atmung (Tachy-/Bradypnoe), eine flache oder
-tiefe Atmung, pathologische Atemmuster, eine Schnappatmung,
-eine paradoxe oder überhaupt fehlende Atmung, sowie
-besondere Umstände wie das Vorhandensein von Heimsauerstoff
-oder anderen Atemhilfen.
 }{%
 \begin{itemize}
   \item Schätzen: \E{Frequenz} und \E{Tiefe}
@@ -1894,13 +1841,7 @@ oder anderen Atemhilfen.
   %   (\prettyref{topic:atemnot-zeichen-kinder})
   \item Heimsauerstoff
   \item \Z{(Auskultation: Seitenvergleich, Lungenbasen)}
-\end{itemize}\begin{compactitem}
-  \item[\eye] Zyanose, Atemnot
-  \item[\eye] Tachy-/Bradypnoe
-  \item[\eye] Flache oder tiefe Atmung, path. Atemmuster
-  \item[\eye] Paradoxe, fehlende, Schnapp-Atmung
-  \item[\eye] Heimsauerstoff, Atemhilfen
-\end{compactitem}
+\end{itemize}
 }
 {}
 {}
@@ -1923,7 +1864,8 @@ oder anderen Atemhilfen.
 \label{topic:atemvolumina}
 %
 Es gibt 3 elementare Kennzahlen, welche die wichtigsten Atmungsparameter
-beschreiben:
+beschreiben
+\cite{KlinkePhysio3,SchmidtPhysio28,DRAn3,StriebelAn7}:
 
 \begin{itemize}
   \item Die \T{Atemfrequenz} (\T{AF}) gibt die Anzahl der
@@ -1943,8 +1885,7 @@ beschreiben:
   {\FontSansNarrowFamily
   \begin{equation}
     \mbox{AMV} = \mbox{AZV} \times \mbox{AF}
-  \end{equation}
-  }
+  \end{equation}}
   Die oben angegebenen Normalwerte ergeben also ein normales
   Atemminutenvolumen von  \VonBis{6}{8}\LPerMin*. 
 \end{itemize}
@@ -1965,13 +1906,12 @@ $\mbox{AMV} = \mbox{AZV} \times \mbox{AF}$
 }
 \end{center}
 }{}{}{}
-Die genauen Normalwerte sind abhängig von den Faktoren
-Alter, Geschlecht und Größe.
-\cite{KlinkePhysio3,SchmidtPhysio28,DRAn3,StriebelAn7}
+
 
 \begin{table}[H]
-\Captionof{table}{Atemfrequenz und -zugvolumen im
-Altersvergleich, Richtwerte.}
+\Captionof{table}{Die genauen Normalwerte sind abhängig von den Faktoren
+Alter, Geschlecht und Größe: Atemfrequenz und -zugvolumen im
+Altersvergleich (Richtwerte)}
 
 \begin{tabular}{lrr}\addlinespace\toprule\addlinespace
  & \noindent\TabHeading{AF} & \noindent\TabHeading{AZV}
@@ -2007,7 +1947,7 @@ nicht am Gasaustausch teilnimmt. Dies ist im wesentlichen
 der gesamte Weg von der Nasenspitze bis kurz vor den
 Lungenbläschen (Alveolen). Die Luft muss diesen Totraum
 passieren um in die Lungenbläschen zu gelangen! Der Totraum
-umfasst beim Erwachsenen ca. 150\Ml*. \cite{KlinkePhysio3}
+beträgt beim Erwachsenen ca. 150\Ml*. \cite{KlinkePhysio3}
 
 % \index{Totraumventilation}
 Bei der \T[Totraum!-ventilation]{Totraumventilation} ist das
@@ -2032,7 +1972,7 @@ kommt: Die Atmung ist nicht ausreichend.
 
 
 
-\Cave{Schnappatmung = keine Atmung}
+\Cave{Schnappatmung = Keine Atmung}
 
 
 
@@ -2059,8 +1999,8 @@ der \ce{O2}-Gehalt plötzlich künstlich erhöht, fehlt der
 Atemantrieb und der Patient kann \EE{Bewusstseinsstörungen}
 (\I[\ce{CO2}-Narkose@CO2-Narkose]{\ce{CO2}-Narkose}) und
 einen \EE{Atemstillstand} erleiden.
-Das wichtigste Krankheitsbild bei dem so etwa vorkommen kann,
-ist die \Abk{COPD} (\FullPrettyRef{topic:copd}).
+Das wichtigste Krankheitsbild bei dem so etwas vorkommen
+kann, ist die \Abk{COPD} (\FullPrettyRef{topic:copd}).
 }{
 \begin{itemize}
   \item Atemzentrum im Hirnstamm
@@ -2101,7 +2041,7 @@ Störungen der Atmung können aus vielen Ursachen eintreten.
 \FullPrettyRef{tab:atemstoerungen-ursachen}, beschreibt die
 wichtigsten Pathomechanismen und Störungen.
 Der Begriff \T{Ateminsuffizienz} beschreibt allgemein eine
-\EE{nicht ausreichende Atemleistung}, unabhängig von der
+\EE{nicht ausreichende Atmung}, unabhängig von der
 Ursache der Störung. Dies führt zu einem \ce{O2}-Mangel
 (Hypoxie). Oft hat der Patient das Gefühl nicht genug Luft
 zu bekommen und leidet an \EE{Atemnot} (\T{Dyspnoe}).
@@ -2151,18 +2091,15 @@ Zeichnung einbinden? Kussmaul, etc.}
 \prettyref{tab:atemstoerungen-ursachen}.
 }{\prettyref{tab:atemstoerungen-ursachen}.}{}{}{}
 
-
-\begin{table}[H]
-\begin{WidePar}
-\TableBaseModification
-\Captionof{table}{Ursachen für
-Atemstörungen.\label{tab:atemstoerungen-ursachen}}
-
-\begin{tabulary}{\linewidth}[H]{LL}\addlinespace\toprule\addlinespace
+\Layout{57}
+{}
+{}
+{}
+{\begin{tabulary}{\linewidth}[H]{LL}\addlinespace\toprule\addlinespace
 \noindent\TabHeading{Störung des/der}  &
 \noindent\TabHeading{Vorkommen und Erkrankungen}
 \\\addlinespace\midrule\addlinespace
-\TabSub{\ce{O2}-Angebotes}
+\noindent\TabSub{\ce{O2}-Angebotes}
  &
 Gärkeller (\ce{CO2}\,${\uparrow}$, \ce{O2}\,${\downarrow}$)
 
@@ -2174,7 +2111,7 @@ Defekte Gastherme (\ce{CO}\,${\uparrow}$,
 
 Ertrinken
 \\\addlinespace
-\TabSub{\ce{O2}-Diffusion}
+\noindent\TabSub{\ce{O2}-Diffusion}
  &
 Lungenödem
 
@@ -2182,7 +2119,7 @@ Lungenentzündung
 
 Lungenembolie
 \\\addlinespace
-\TabSub{Atemmechanik}
+\noindent\TabSub{Atemmechanik}
  &
 Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus,
          Glottisödem, Bolus)
@@ -2193,7 +2130,7 @@ Lungenödem)
 Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes
      (Rippenfraktur, Pneumothorax, Pleuraerguß, Emphysem)
 \\\addlinespace
-\TabSub{Neuro\-muskulären Atemregulation}
+\noindent\TabSub{Neuro\-muskulären Atemregulation}
  &
 SHT (Schädel Hirn Trauma)
 
@@ -2211,18 +2148,19 @@ Nervenerkrankung
 
 Stoffwechselstörungen
 \\\addlinespace
-\TabSub{Sonstige Regulationsstörung}
+\noindent\TabSub{Sonstige Regulationsstörung}
  &
  Psychogen (z.\,B. Panikattacke)
 \\\addlinespace\bottomrule
-\end{tabulary}
-\end{WidePar}
-\end{table}
+\end{tabulary}}
+{Ursachen für
+Atemstörungen.\label{tab:atemstoerungen-ursachen}}
+{}
 
 
-\Layout{0}{Symptome}
-{%
-Atemstörungen können viele verschiedene Symptome
+\Layout{0}
+{{\eye} Befunde}
+{Atemstörungen können viele verschiedene Symptome
 verursachen. \FullPrettyRef{tab:atmung-symptome}, listet
 verschiedene Symptome auf. Neben technischen Geräten ist vor
 allem \E{sehen},
@@ -2231,16 +2169,52 @@ gefordert.
 Die Abgrenzung der Atemstörung zur Kreislaufstörung ist oft
 nicht einfach. Eine Störung des Kreislaufes hat meist auch
 einen verminderten Sauerstoff\E{transport} zur Folge, daher
-kommt es dabei häufig \E{auch} zur Atemnot u.\,ä. Symptomen.
-}{\prettyref{tab:atmung-symptome}.}{}{}{}
+kommt es dabei häufig {auch} zur Atemnot.
+
+Häufig erkennbar sind z.\,B. eine \EE{Zyanose}, 
+Klage über subjektive \EE{Atemnot}, 
+eine zu schnelle
+oder langsame Atmung (Tachy-/Bradypnoe; 
+\EE{AF <\,8\PerMin* oder >\,30\PerMin*}), 
+eine auffällige \EE{Atemtiefe} (flach, tief, evtl. \EE{Schnappatmung}), 
+pathologische Atemmuster, 
+eine paradoxe oder überhaupt fehlende Atmung oder 
+andere Symptome der Atemnot
+(\prettyref{tab:atmung-symptome}).
+\Z{Bei der Auskultation kann eine ungleichseitige Belüftung der 
+Lungen festgestellt werden, 
+sowie diverse Atemnebengeräusche 
+(feuchte Rasselgeräusche, spastische Atemgeräusche).}
+
+Die \EE{Sauerstoffsättigung} kann vermindert 
+oder hoch sein (Kohlenmonoxid, Hyperventilationssyndrom). 
+Ebenso wichtig sind Umstände wie das Vorhandensein 
+von Heimsauerstoff
+oder anderen Atemhilfen.
+}
+{\begin{itemize}
+  \item[\eye] Zyanose, Atemnot
+  \item[\eye] Tachy-/Bradypnoe (AF <\,8\PerMin* oder >\,30\PerMin*)
+  \item[\eye] Atemtiefe (flach, tief, Schnappatmung)
+  \item[\eye] Path. Atemmuster
+  \item[\eye] Paradoxe, fehlende Atmung
+  \item[\eye] Sauerstoffsättigung
+  \item[\eye] \Z{Auskultation: Belüftung, feuchte
+  Rasselgaräusche, Spastik}
+  \item[\eye] Heimsauerstoff, Atemhilfen
+  \item[\eye] \FullPrettyRef{tab:atmung-symptome}
+\end{itemize}
+}
+{}
+{}
+{}
 
 
-\begin{table}[H]
-\begin{WidePar}
-\TableBaseModification
-\Captionof{table}{Symptome: Atmung.\label{tab:atmung-symptome}}
-
-\begin{tabulary}{\linewidth}[H]{LLLL}
+\Layout{57}
+{}
+{}
+{}
+{\begin{tabulary}{\linewidth}[H]{LLLL}
 \toprule\addlinespace
 \noindent\TabHeading{Kriterium}
  &
@@ -2250,14 +2224,14 @@ kommt es dabei häufig \E{auch} zur Atemnot u.\,ä. Symptomen.
  &
 %\noindent\TabHeading{Anm.}
 \\\addlinespace\midrule\addlinespace
-\TabSub{Beschwerde}
+\noindent\TabSub{Beschwerde}
  &
 Atemnot (Dyspnoe) \index{Dyspnoe}
  &
 Leitsymptom
  &
 \\\addlinespace
-\TabSub{Atemgeräusch}
+\noindent\TabSub{Atemgeräusch}
  &
 Brodeln \index{Atemgeräusch!brodelndes}
  &
@@ -2279,7 +2253,7 @@ Rasselgeräusche \index{Rasselgeräusche}
  &
  &
 \\\addlinespace
-\TabSub{Frequenz}
+\noindent\TabSub{Frequenz}
  &
 Beschleunigt
  &
@@ -2292,7 +2266,7 @@ Verlangsamt
 Bradypnoe \index{Bradypnoe}
  &
 \\\addlinespace
-\TabSub{Atemzugs\-volumen}
+\noindent\TabSub{Atemzugs\-volumen}
  &
 Schnappatmung
  &
@@ -2310,7 +2284,7 @@ Tiefe Atmung
 Z.\,B. Kußmaul'sche Atmung
  &
 \\\addlinespace
-\TabSub{Hautfarbe}
+\noindent\TabSub{Hautfarbe}
  &
 Blass
  &
@@ -2329,7 +2303,7 @@ Bläulich
 Zyanose: Hypoxie!
  &
 \\\addlinespace
-\TabSub{Körperlich}
+\noindent\TabSub{Körperlich}
  &
 Einziehungen an den Rippen
 &
@@ -2360,7 +2334,7 @@ Brustkorb \E{senkt} sich bei Einatmung, z.\,B. bei
 Serienrippenfraktur 
 &
 \\\addlinespace
-\TabSub{Geräte}
+\noindent\TabSub{Geräte}
 &
 Pulsoxymetrie
 &
@@ -2372,10 +2346,12 @@ Pulsoxymetrie
 &
 \Z{\ce{CO2}-Messung}
 \\\addlinespace\bottomrule
-\end{tabulary}
-\end{WidePar}
+\end{tabulary}}
+{Symptome: Atmung.\label{tab:atmung-symptome}}
+{}
 
-\end{table}
+
+
 
 
 \MassnahmenMK{Spezielle
@@ -2438,7 +2414,7 @@ auszugehen.}}{}
 
 \label{bkm:RefHeading42514202}
 
-\Layout{2}
+\Layout{0}
 {Blut als Sauerstofftransporteur}
 {Durch das Kreislaufsystem wird sauerstoff- und
 nährstoffreiches Blut gepumpt. Ausschlaggebend für die
@@ -2449,7 +2425,11 @@ Wieviel Sauerstoff das Blut aufnehmen kann, hängt vor allem
 von der Anzahl der roten Blutkörperchen (\I{Erythrozyten})
 bzw. der Konzentration des Blutfarbstoffes \I{Hämoglobin}
 ab.}
-{}
+{
+\begin{itemize}
+  \item Rote Blutkörpechen (Erythrozyten) und Hämoglobin
+\end{itemize}
+}
 {}
 {}
 {}
@@ -2463,57 +2443,50 @@ System zurück.
 \cite{Silbernagl3-Kreislaufsystem}}
 
 
-\Layout{2}
-{Herzleistung}
-{Das Herz kontrahiert\footnote{\I{Kontraktion}:
-Zusammenziehen; hier: Herzschlag} beim Erwachsenen mit einer
-\I{Herzfrequenz} (\I{HF}) von \VonBis{60}{100}\PerMin* und wirft 
-dabei jedes Mal ein \I{Schlagvolumen} (\I{SV}) von ca.
+\Layout{0}
+{Herzleistung und Blutdruck}
+{Das Herz schlägt beim Erwachsenen mit einer
+\I{Herzfrequenz} (\I{HF}, bzw. \I{Pulsfrequenz}, \I{PF}) von
+\VonBis{60}{100}\PerMin* und wirft dabei jedes Mal ein \I{Schlagvolumen} (\I{SV}) von ca.
 \VonBis{70}{80}\Ml* aus
 \cite{Silbernagl3-Herz,Silbernagl3-Kreislaufsystem}. Daraus
 ergibt sich \E{in Ruhe} ein \I{Herzminutenvolumen} (\I{HMV})
 von ca.
 \Range{5}{8}\LPerMin*.
 Bei Belastung kann das Herzminutenvolumen beträchtlich
-gesteigert werden.}
-{}
-{}
-{}
-{}
-
-
-
-\Layout{0}{Blutdruck}
-{Durch die Pumpfunktion des Herzens entsteht ein
-lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
+gesteigert werden. Durch die Pumpfunktion des Herzens
+entsteht ein lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
 \I{Blutdruck}.
 Dieser sorgt dafür, dass das Gewebe von Blut durchflossen
-wird. Mann kann den Blutdruck messen, dies ergolgt unter
-Punkt \ABCDE{D} (\FullPrettyRef{topic:blutdruck}). Durch die
-Durchblutung 
+wird. Der arterielle Blutdruck lässt sich
+einfach mittels Blutdruckmanschette messen. (\FullPrettyRef{topic:blutdruck})
+}
+{%
+\begin{itemize}
+  \item Herzfrequenz, Pulsfrequenz ({HF}, PF)
+  \VonBis{60}{100}\PerMin*
+  \item Schlagvolumen \VonBis{70}{80}\Ml*
+  \item {Herzminutenvolumen} \Range{5}{8}\LPerMin*.
+  \item Blutdruck:
+  \begin{itemize}
+    \item Druck im arteriellen Gefäßsystem
+    \item Durchblutung des Gewebes
+    \item Blutdruckmessung $\rightarrow$ \ABCDE{D}
+  \end{itemize}
+\end{itemize}
+}
+{}
+{}
+{}
 
 
-Bei der Rekap-Zeit wird ein leichter Druck auf das Nagelende ausgeübt bis das Nagelbett weiß ist, dann lässt man los. Innerhalb von
-\VonBis{1}{2} Sekunden sollte das Nagelbett wieder rosarot
-sein. Eine verlängerte Rekapzeit deutet auf eine
-lokale Durchblutungsstörung\footnote{\E{Verlängerte
-Rekapzeit}: Unter \enquote{lokale Durchblutungsstörung} fallen
-auch in Folge von Kälte minderdurchblutete Extremitäten, also \enquote{kalte Finger}.}
-oder Zentralisierung hin. 
-}{
-\begin{description}
-  \item Druck im arteriellen Gefäßsystem
-  \item Durchblutung des Gewebes
-  \item Blutdruckmessung $\rightarrow$ \ABCDE{D}
-\end{description}
-}{}{}{}
 
 
 \Layout{0}{Einschätzung des Kreislaufs}{%
 Die erste Einschätzung des Kreislaufes dauert nur wenige
 Sekunden. Durch die Beurteilung der \EE{Hautfarbe} und
 \EE{-temperatur}, des \EE{Radialispulses} (gut oder
-schlecht tastbar, geschätzte Schnelligkeit,Rhythmik), sowie
+schlecht tastbar, geschätzte Schnelligkeit, Rhythmik), sowie
 der \EE{Rekap-Zeit} an den Fingerkuppen kann man auf
 einfache Weise die Kreislauffunktion beurteilen. Bei der
 Rekap-Zeit wird ein leichter Druck auf das Nagelende ausgeübt bis
@@ -2525,11 +2498,6 @@ Rekapzeit}: Unter \enquote{lokale Durchblutungsstörung} fallen
 auch in Folge von Kälte minderdurchblutete Extremitäten, also \enquote{kalte Finger}.}
 oder Zentralisierung hin. 
 
-\subparagraph{\eye} Erkennen kann man z.\,B. Schockzeichen,
-sichtbare Blutungen, Herzrhythmusstörungen (Tachy-/Bradykardie,
-Arrhythmie).
-
-
 
 }{%
 \begin{itemize}
@@ -2537,11 +2505,7 @@ Arrhythmie).
   \item Schweiß
   \item Rekap-Zeit 
   \item Radialispuls 
-\end{itemize}\begin{compactitem}
-  \item[\eye] Sichtbare Blutungen
-  \item[\eye] Schockzeichen
-  \item[\eye] Rhythmus (Tachy-/Bradykardie, Arrhythmie)
-\end{compactitem}
+\end{itemize}
 }
 {}
 {}
@@ -2549,11 +2513,6 @@ Arrhythmie).
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsubsection{Vitalwerte} 
-\label{topic:blutdruck}
 
 
 
@@ -2564,8 +2523,10 @@ Arrhythmie).
 % :ende test
 
 \Layout{0}{Blutdruck}
-{Durch die Pumpfunktion des Herzens entsteht ein
-lebenswichtiger Druck im (arteriellen) Gefäßsystem, der
+{\label{topic:blutdruck}%
+Durch die Pumpfunktion des Herzens
+entsteht ein lebenswichtiger Druck im 
+(arteriellen) Gefäßsystem, der
 \I{Blutdruck}.
 Da das Herz rhythmisch kontrahiert, kommt es infolge des
 Blutauswurfes zu synchronen -- ebenfalls rhythmischen --
@@ -2578,19 +2539,8 @@ höher als bei der Entspannung (\E{Systolischer Blutdruck >
 Diastolische Blutdruck)}. Zur Durchführung der
 Blutdruckmessung vgl.
 \FullPrettyRef{topic:rr-messung}.
-}{
-\begin{description}
-  \item[systolisch:] Maximaldruck in der Arterie am
-  Höhepunkt der
-  Kammerkontraktion
-  \item[diastolisch:] Druck in der Arterie während die
-  Kammer erschlafft ist
-\end{description}
-}{}{}{}
 
-
-\Layout{2}{Interpretation des Blutdruckwerts}
-{%
+\subparagraph{{Interpretation des Blutdruckwerts}}
 {\tiny Werte beziehen sich auf den Erwachsenen.}
 \begin{itemize}
     \item \TabSub{Normbereich}: zwischen \RRmmHg{90}{60} und
@@ -2602,7 +2552,7 @@ Blutdruckmessung vgl.
     \index{Hypertonie}
     
     Eine Hypertonie ist zwar eine Erkrankung, aber
-nicht immer im Einsatz von Bedeutung. Viele Patienten sind
+nicht immer akut von Bedeutung. Viele Patienten sind
 an ihren erhöhten Blutdruck gewohnt und haben keine
 Beschwerden.
 \end{itemize}
@@ -2671,10 +2621,35 @@ Kopfweh, Schwindel;
 Hier ist der erhöhte Blutdruck Ursache für die Beschwerden
 und muss mittels Medikamenten unbedingt gesenkt werden.
 \end{quote}
-}{
 
+}{%
+\begin{itemize}
+  \item 2 Phasen:
+  \begin{description}
+    \item[systolisch:] Maximaldruck in der Arterie am
+    Höhepunkt der
+    Kammerkontraktion
+    \item[diastolisch:] Druck in der Arterie während die
+    Kammer erschlafft ist
+  \end{description}
+  \item Durchführung:
+  \FullPrettyRef{topic:rr-messung}
+  \item Interpretation:
+  \begin{itemize}
+    \item {Normbereich}: zwischen \RRmmHg{90}{60} und
+    \RRmmHg{140}{90}
+    \item {Hypotonie}: RR {\textless}~\RRmmHg{90}{60}
+    \item {Hypertonie}: RR {\textgreater}~\RRmmHg{140}{90}
+    \item Bedenke:
+    \begin{itemize}
+      \item {Zustand} des Patienten
+      \item sonst üblicher Blutdruck
+      \item {Verlauf}
+      \item {Erregungszustand}
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
 }{}{}{}
-
 
 
 
@@ -2725,6 +2700,26 @@ die wichtigsten Organe. Sie besteht aus der  Inspektion
 {}
 {}
 
+
+
+
+\Layout{0}
+{{\eye} Befunde}
+{Erkennen kann man z.\,B. Schockzeichen,
+sichtbare Blutungen, Herzrhythmusstörungen (Tachy-/Bradykardie,
+Arrhythmie).
+}
+{\begin{itemize}
+  \item[\eye] Sichtbare Blutungen
+  \item[\eye] Schockzeichen
+  \item[\eye] Rhythmus (Tachy-/Bradykardie, Arrhythmie)
+\end{itemize}
+}
+{}
+{}
+{}
+
+
 \begin{PictureSeriesWide}{}{Bilderserie ABCDE}
 \PictureSeriesRowWide{3}
 {./images/trauma/pupillendifferenz.jpg}
@@ -2751,12 +2746,7 @@ die wichtigsten Organe. Sie besteht aus der  Inspektion
 \subsection{{\FontKeyboardFamily{D}} Neurologisch
 (Disability)}
 
-\Layout{0}{{D} | Schnelle Untersuchung}{%
-Hier finden weitere wichtige Untersuchungen statt, welche
-etwas aufwendiger sind oder andere Funktionen als die
-Vitalfunktionen erster Ordnung betreffen. 
-
-Es werden die \EE{Vitalwerte} (\Abk{HF}, \Abk{RR}) gemessen. 
+\Layout{0}{Cute Eyes}{%
 Es wird die \EE{Be\-wusst\-seins\-quali\-tät} (Orientierung zur Person,
 Raum, Zeit und Situation) oder, wenn angemessen, alternativ 
 die Glasgow Coma Scale (\EE{GCS}) bestimmt. Anschließend werden die
@@ -2767,16 +2757,9 @@ die untere Extremität geprüft. Wenn der Verdacht auf neurologische
 Ausfälle besteht muss überprüft werden ob der
     Patient \EE{Hände} und \EE{Füße} spüren und aktiv
     bewegen kann.
-
 Wenn erforderlich (neurologische Defizite, Hinweise auf Stoffwechselstörungen, \ldots) 
-erfolgt eine Blutzuckermessung.
+erfolgt eine \EE{Blutzuckermessung}.
 
-\subparagraph{\eye} Erkennen lassen sich z.\,B. entgleiste
-Vitalwerte, Desorientierung, pathologische
-Pupillenreaktionen (abnorme Weitung oder Engstellung,
-Differenz, verlangsamte oder fehlende Reaktion (Fixierung),
-Entrundung), motorische (Lähmungen) oder sensible (Kribbeln,
-Gefühlsverlust) Ausfälle sowie Zuckerstoffwechselstörungen.
 }{
 \begin{itemize}
   \item Vitalwerte (\EE{HF}, \EE{RR})
@@ -2785,26 +2768,16 @@ Gefühlsverlust) Ausfälle sowie Zuckerstoffwechselstörungen.
     \item \EE{Orientierung} oder *\EE{GCS}
     \item \EE{Pupillen}
     \item \EE{Kraftprobe OE}, *UE
-    \item *Kann der
+    \item Ggfs.: Kann der
     Patient \EE{Hände} und \EE{Füße} spüren und aktiv
     bewegen?
   \end{itemize}
-  \item *\EE{Blutzuckermessung}
+  \item Ggfs. \EE{Blutzuckermessung}
 \end{itemize}
-\begin{compactitem}
-  \item[\eye] Entgleiste Vitawerte
-  \item[\eye] Desorientierung
-  \item[\eye] Pupillen: Abnorme \E{Weite}, \E{Differenz},
-  \E{Reaktion}, \E{Entrundung}
-  \item[\eye] Motorische und sensible Ausfälle
-  \item[\eye] Zuckerstoffwechselstörungen
-\end{compactitem}
 }{}{}{}
 
 
 
-\subsubsection{Neurologisch}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \Layout{0}{Orientierung}
 {%
 \label{topic:orientierung}
@@ -2833,16 +2806,70 @@ Man unterscheidet dabei die Orientierung zu:
 
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\Layout{0}{Glasgow Coma Scale (GCS)}
+{%
+\index{Glasgow Coma Scale}
+\index{GCS}
+\label{topic:gcs}
+%
+Die Glasgow Coma Scale ist eine spezielle Skala, welche der
+objektiven Einschätzung der Bewusstseinslage  dient. Sie
+hat einen Wertebereich von \VonBis{3}{15} Punkten. Ein voll
+bewusstseinsklarer Patient hat 15 Punkte, ein schwerst
+bewusstseinsgestörter oder toter Patient 3 Punkte (nicht
+0!). Bewertet werden die Augenöffnung, die beste verbale und
+die beste motorische Reaktion des
+Patienten.\ZFootnote{Regelmäßig findet man
+Handlungsanweisungen -- überwiegend für ärztliches Personal
+-- in der Literatur, welche die \Abk{GCS} als
+Entscheidungskriterium (z.\,B. für
+die Intubation) heranziehen. Der Nutzen ist aber genauso
+regelmäßig umstritten.}
+}{
+\VonBis{3}{15} Punkte.
+\begin{itemize}
+    \item Augenöffnung (4)
+    \item Beste verbale Reaktion (5)
+    \item Beste motorische Reaktion (6)
+\end{itemize}
+\prettyref{tab:gcs}.
+}{}{}{}
 
+\Layout{0}
+{{\eye} Befunde}
+{Erkennen lassen sich z.\,B.  Desorientierung, pathologische
+Pupillenreaktionen (abnorme Weitung oder Engstellung,
+Differenz, verlangsamte oder fehlende Reaktion (Fixierung),
+Entrundung), motorische (Lähmungen) oder sensible (Kribbeln,
+Gefühlsverlust) Ausfälle sowie Zuckerstoffwechselstörungen.
+}
+{
+\begin{itemize}
+  \item[\eye] Entgleiste Vitawerte
+  \item[\eye] Desorientierung
+  \item[\eye] Pupillen: Abnorme \E{Weite}, \E{Differenz},
+  \E{Reaktion}, \E{Entrundung}
+  \item[\eye] Motorische und sensible Ausfälle
+  \item[\eye] Zuckerstoffwechselstörungen
+\end{itemize}
+}
+{}
+{}
+{}
 
 \begin{PictureSeriesWide}{}{Bilderserie ABCDE}
 \PictureSeriesRowWide{3}
-{./images/gabriel-sebastian-aass/Gallenblase-Palpation-001-00800.jpg}
-{ABCDE-Bild}
-{./images/gabriel-sebastian-aass/Gallenblase-Palpation-001-00800.jpg}
-{ABCDE-Bild}
-{./images/gabriel-sebastian-aass/Gallenblase-Palpation-001-00800.jpg}
-{ABCDE-Bild}
+{./images/trauma/pupillendifferenz.jpg}
+{Pupillendifferenz}
+{./images/motal-aass/00800/neuro6.jpg}
+{BZ-Messung \SourcePicture{Motal}}
+{./images/hirtler-aass/Riva-Rocci_edited.pdf}
+{Prinzip
+    der auskultatorischen RR-Messung: In Abhängigkeit vom
+    außen anliegenden Manschettendruck kommt es zu einem
+    unterschiedlich starken Blutfluss und dadurch
+    entstehenden, hörbaren, Strömungsgeräuschen.}
 {empty}
 {}
 \end{PictureSeriesWide}
@@ -2854,16 +2881,60 @@ Man unterscheidet dabei die Orientierung zu:
 \clearpage
 \subsection{{\FontKeyboardFamily{E}} Erweiterte Untersuchung}
 
-\Layout{0}{{E} | Erweiterte Untersuchung}{%
-\ZFootnote{E: \Lang{engl.} \E{Exposure}.} Ist die vitale
-Bedrohung noch nicht klar einzuschätzen, müssen \EE{gezielt
-weitere Untersuchungen oder Anamneseschritte} durchgeführt
+\Layout{0}{E -- Wenn es nicht so klar ist: Raum für Instinkt und Erfahrung}{%
+\ZFootnote{E: \Lang{engl.} \E{Exposure}.} 
+Mit den Punkten \Range{\ABCDE{A}}{\ABCDE{D}}
+ wären die wichtigsten Untersuchungen
+durchgeführt.
+Dennoch gibt es einige Patientengruppen, die zwar bei den
+ABCDs nicht auffällig sind, aber dennoch als vital bedroht
+(kritisch) angesehen werden müssen. 
+Diesem Umstand trägt der Punkt E Rechnung: 
+Abhängig von den Leitsymptomen, dem
+bisher festgesetllten Zustand des Patienten und dem Wissen des
+Fachpersonals sollen zielgerichtete Untersuchungen durchgeführt oder
+Anamanesefragen erhoben werden, um eine vitale Bedrohung zu bestätigen
+oder als unwahrscheinlich einzustufen. 
+Der Punkt E kann und soll \E{nicht} standardisiert sein,
+sein Erfolg ist definitiv von der Erfahrung und von dem Wissen des Untersuchers
+abhängig. Im Punkt E können sämtliche Untersuchungen und
+Anamneseschritte durchgeführt werden, welche zur Festellung (oder
+Quasi-Ausschluss) der vitalen Bedrohung notwendig sind.
+
+\begin{quote}
+  Ein Beispiel für so eine Patientengruppe wäre der Patient mit
+        wiederholten Krampfanfällen, der sich als St.p. Kollaps-Patient
+        präsentiert (Schlüsselfragen: \Speech{Hat der
+        Patient gekrampft? Wie oft hat er gekrampf?}).
+\end{quote}
+
+}{%
+\begin{itemize}
+  \item Wenn Einschätzung der vitalen
+  Bedrohung oder Hauptbeschwerde unklar ist.
+  \item Wichtig:
+  \begin{itemize}
+    \item Erfahrung
+    \item Hintergrundwissen
+  \end{itemize}
+\end{itemize}
+}{}{}{}
+
+\Layout{0}{Das heißt?}{%
+Ist die vitale
+Bedrohung also noch nicht klar einzuschätzen, müssen
+\EE{gezielt weitere Untersuchungen oder Anamneseschritte} durchgeführt
 werden. Dies beinhaltet auch in der Situation besonders
 relevante Teile der Anamnese, u.\,U. auch eine
-\E{Fremdanmnese}. Es müssen zielgerichtete Fragen oder
-Untersuchungen zur Abklärung von \E{Alarmzeichen},
-insbesonders Alarmdiagnosen und relevante
-Begleiterkrankungen gestellt bzw. durchgeführt werden.
+\E{Fremdanmnese}. 
+Dafür ist es erforderlich, sich \E{zuerst
+die Situation, die bekannten Beschwerden und die bereits
+erhobenen Befunde zu vergegenwärtigen und
+daraus entsprechende Schlüsse und \EE{Verdachtsmomente}}
+abzuleiten. 
+
+Es müssen dann zielgerichtete Fragen oder
+Untersuchungen zur Abklärung von \E{Alarmzeichen}, insbesonders Alarmdiagnosen und relevante Begleiterkrankungen gestellt bzw. durchgeführt werden.
 Begleiterkankungen können sich erschwerend auf die
 Beschwerden des Patienten auswirken (z.\,B.
 vorgeschädigetes, schwaches Herz bei vorbestehender
@@ -2885,35 +2956,23 @@ relevante Erkrankungen, Verletzungen entscheidend, je
 souveräner das Wissen beherrscht wird, desto gezielter
 können Fragen und Befunde erhoben werden und desto besser
 wird die Einschätzung des Patienten erfolgen.
-\Commentary[E -- Wenn es nicht so klar ist: Raum für Instinkt und Erfahrung]
-{%
-Damit wären die wichtigsten Unterschungen durchgeführt. Dennoch gibt es
-einige Patientengruppen, die weder bei den ABCD's auffällig sind, aber
-dennoch als vital bedroht ("kritisch") angesehen werden müssen. Diesem
-Umstand trägt der Punkt E Rechnung: Abhängig von den Leitsymptomen, dem
-bisher festgesetllten Zustand des Patienten und dem Wissen des
-Fachpersonals sollen zielgerichtete Untersuchungen durchgeführt oder
-Anamanesefragen erhoben werden, um eine vitale Bedrohung zu bestätigen
-oder als unwahrscheinlich einzustufen.
-\ParBugfix
-        Ein Beispiel für so eine Patientengruppe wäre der Patient mit
-        wiederholten Krampfanfällen, der sich als St.p. Kollaps-Patient
-        präsentiert (Schlüsselfragen (ggfs. Fremdanamnese): \Speech{Hat der
-        Patient gekrampft? Wie oft hat er gekrampf?}).
-\ParBugfix
-Der Punkt E kann und soll \E{nicht} standardisiert werden, sein Erfolg ist
-definitiv von der Erfahrung und von dem Wissen des Untersuchers
-abhängig. Im Punkt E können sämtliche Untersuchungen und
-Anamneseschritte durchgeführt werden, welche zur Festellung (oder
-Quasi-Ausschluss) der vitalen Bedrohung notwendig sind.
 
-Ein Patient kann jederzeit als vital bedroht (kritisch) eingschätzt
-werden. Der Einschätzungsblock wird dann unterbrochen und die
-entsprechenden Sofortmaßnahmen (\protect\ce{O2}-Gabe, NA-Nachforderung (oder bewusste
-Nicht-Nachforderung), ...) durchgeführt, danach wird der Block
-fortgeführt.}
+}{%
+\begin{itemize}
+  \item Zuerst: \EE{Situation und bereits
+erhobenen Befunde vergegenwärtigen und
+daraus entsprechende Schlüsse und {Verdachtsmomente}
+ableiten}
+  \item Zielgerichtete Fragen auf Alarmzeichen, insb.
+  Alarm-Diagnosen und rel. Begleiterkrankungen
+  \item Inkl. relevante Teile der (Fremd-)Anamnese
+  \item Ggfs. entkleiden (in warmer Umgebung)
+\end{itemize}
+}{}{}{}
 
-\subparagraph{\eye} Zu erkennen sind sonstige Hinweise auf
+\Layout{0}
+{{\eye} Befunde}
+{Zu erkennen sind sonstige Hinweise auf
 eine vitale Bedrohung, welche bisher nicht erkennbar waren.
 So kann Beispielsweise ein \E{Augenzeuge} auf Nachfrage
 berichten, dass der aufgefundene Patient in seinem Beisein
@@ -2924,29 +2983,28 @@ innere Verletzungen sein (zweizeitige Milzruptur,
 \ref{topic:milzruptur-zweizeitig}). \E{Einstiche} können ein
 Hinweis auf eine Intoxikation sein (wobei diese nicht die
 Ursache des aktuellen Problem sein muss!).
-}{%
-{Wenn Einschätzung der vitalen
-Bedrohung oder Hauptbeschwerde unklar ist.}
-
+}
+{
 \begin{itemize}
-  \item Zielgerichtete Fragen auf Alarmzeichen, insb.
-  Alarm-Diagnosen und rel. Begleiterkrankungen
-  \item Inkl. relevante Teile der (Fremd-)Anamnese
-  \item Ggfs. entkleiden (in warmer Umgebung)
-  \item[\eye] Sonst. Hinweise auf vitale Bedrohung (z.\,B.
-  $\geq$ 2 Krämpfe/24\Hour*); gefährliche Kombinationen von
-  Erkankungen; Prellmarken, Einstiche
+  \item[\eye] Sonst. Hinweise auf vitale Bedrohung
+  \item[\eye] Anamnese (z.\,B.
+  $\geq$ 2 Krämpfe/24\Hour*)
+  \item[\eye] Gefährliche Kombinationen von
+  Erkankungen
+  \item[\eye]Prellmarken
+  \item[\eye] \ldots 
 \end{itemize}
-}{}{}{}
-
-
+}
+{}
+{}
+{}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \clearpage
 \subsection{{\FontKeyboardFamily{=}} Beurteilung}
-\Layout{0}{{=} | Beurteilung}{%
+\Layout{0}{Karten auf den Tisch!}{%
 Die \EE{Einschätzung der vitalen Bedrohung}
 erfolgt \E{ständig} während des gesamten
 Einschätzungsblocks. Ein Patient kann jederzeit anhand
@@ -2976,26 +3034,7 @@ Vgl. \prettyref{topic:patientenmanagement-sofortmassnahmen}.
 }{}{}{}
 
 
-\subsection{Re-Evaluation (Verlaufskontrolle)}
-\index{Verlaufskontrolle}
 
-\Ca{Der Einschätzungsblock muss regelmäßig während der Betreuung bzw. 
-während des Transports -- in
-angemessenem Umfang -- wiederholt werden, um eine Verschlechterung des
-Patientenzustandes rechtzeitig zu erkennen.} 
-\Commentary[Einschätzungsblock: Regelmäßge, angepasste Wiederholung]{% 
-Die Forderung nach regelmäßiger, angepasster Wiederholung
-des Einschätzungsblockes entspricht dem früher
-gebräuchlichen Begriff \enquote{ständige Verlaufskontrolle}. Die
-Formulierungen \enquote{regelmäßig} und \enquote{in angemessenem Umfang}
-sind bewusst offen gewählt worden, da dies sowohl z.B. für
-den kritischen Bewusstlosen, als auch für den munter vor
-sich hinplaudernden KTW-Patienten gelten soll.
-} % Commentary
-
-\bigskip
-
-% \clearpage
 \subsection{Zeichen einer Vitale Bedrohung: Alarmzeichen (\protect\enquote*{Red
 Flags} \RedFlag)}
 
@@ -3081,7 +3120,7 @@ sind z.\,B.
   aus dem Gefahrenbereich, GAS-Maßnahmen, \ldots),
   \item eine situationsgerechte Lagerung,
   \item die \EE{\TxMassVit} oder auch die
-  \item Vorgezogene Strategie- und Transportentscheidung bei absolut zeitkritischen Patienten.
+  \item Vorgezogene Strategie- und Zielentscheidung bei absolut zeitkritischen Patienten.
 \end{itemize}
 
 
@@ -3163,15 +3202,15 @@ haben (\begin{inparaenum}
 
 \Layout{0}
 {\underline{Sonderfall:} Vorgezogene Strategie- und 
-Transportentscheidung bei absolut zeitkritischen Patienten}
+Zielentscheidung bei absolut zeitkritischen Patienten}
 {%
 \label{topic:sonderfall-absolut-zeitkritische-patienten}
-\index{Vorgezogene Strategie- und Transportentscheidung 
+\index{Vorgezogene Strategie- und Zielentscheidung 
 bei absolut zeitkritischen Patienten}
 Bei \Ca{absolut zeitkritischen Patienten}, bei denen bereits
 die ABC-Einschätzung ergibt dass ein Transport nicht
 aufschiebbar ist, kann schon \Ca{nach dem Punkt C eine
-Strategie- und Transportentscheidung} (Spital,
+Strategie- und Zielentscheidung} (Spital,
 Notarzt-Rendez-vous, \ldots, vgl.
 \FullPrettyRef{topic:pam-strategie}) getroffen werden.
 Die Maßnahmen von D und E sollen dann, sofern möglich,
@@ -3186,7 +3225,7 @@ beherrschbare starke Blutungen oder geburtsunmögliche Lagen.
 }
 {
 \begin{itemize}
-  \item \Ca{Im Ausnahmefall schon nach dem Punkt C Strategie- und Transportentscheidung}
+  \item \Ca{Im Ausnahmefall schon nach dem Punkt C Strategie- und Zielentscheidung}
   \item Z.\,B. nicht beherrschbare starke 
   Blutungen, geburtsunmögliche Lagen
 \end{itemize}
@@ -3206,7 +3245,9 @@ und welche warten können.
 }{}{}{}
 
 
-\subsection{Strategie zurechtlegen}
+
+
+\subsection{Strategieentscheidung}
 
 \label{topic:pam-strategie}
 
@@ -3273,7 +3314,7 @@ Wie unter \FullPrettyRef{topic:sonderfall-absolut-zeitkritische-patienten}
 bereits ausgeführt kann bei 
 \EE{absolut zeitkritischen Patienten}, bei denen bereits die 
 ABC-Einschätzung ergibt dass ein Transport nicht aufschiebbar ist, 
-schon \EE{nach dem Punkt C eine Transportentscheidung} (Spital, 
+schon \EE{nach dem Punkt C eine Zielentscheidung} (Spital, 
 Notarzt-Rendez-vous, \ldots) getroffen werden. 
 Die Maßnahmen von D und E sollen dann, sofern möglich, während des 
 Transportes erfolgen. 
@@ -3295,70 +3336,36 @@ Blutungen oder geburtsunmögliche Lagen.
 {}
 
 
+\subsection{Re-Evaluation (Verlaufskontrolle)}
+\index{Verlaufskontrolle}
 
-% 
-% Ein Notarzt wird daher bei Bedarf nach Abwägen
-% der Verfügbarkeit einerseits (\Speech{\enquote{Wie schnell
-% kann er vor Ort sein?}}) und der Notwendigkeit
-% eines schnellen Transportes (\T{Transportpriorität}), bzw.
-% der erwarteten Transportzeit andererseits angefordert
-% (\enquote{Waagenmodell}). 
-% 
-% 
-% Dementsprechend unterscheidet man
-% sogenannte \T{Transportprioritäten}:
+\Dictum[The bowl of petunias.\\
+In: Douglas Adams: The
+Hitchhiker's Guide to the Galaxy]
+{Oh no, not again.}
 
-
-% \begin{WidePar}
-% 
-% \begin{tabulary}{\linewidth}{lLL}
-% \toprule\addlinespace
-% T.Priorität
-% &
-% Umfang der Maßnahmen
-% &
-% Notarztruf
-% \\\addlinespace\midrule\addlinespace
-% normal 
-% &
-% Möglichst vollständig
-% &
-% Ja, wenn erforderlich
-% \\\addlinespace
-% mittel
-% &
-% Relevante Maßnahmen
-% &
-% Der Notarztruf ist zu
-% bevorzugen. Ggfs. Rendezvous.
-% \\\addlinespace
-% hoch
-% &
-% Unbedingt notwendige Maßnahmen (inkl. einer relevanten
-% Anamnese!) 
-% &
-% Der Transport oder
-% Rendezvous ist zu bevorzugen.
-% \\\addlinespace
-% absolut
-% &
-% Die Maßnahmen werden auf ein Minimum reduziert, der
-% Transport wird möglichst rasch begonnen
-% &
-% Vor Ort kann ärztlicherseits kaum etwas sinvolles getan
-% werden. Die Notarztbeiziehung darf daher den Transport nicht
-% verzögern. Nur bei instabilen Patienten oder Komplikationen 
-% ist ein Notarzt beizuziehen. 
-% \\\addlinespace\bottomrule
-% \end{tabulary}
-% 
-% \end{WidePar}
+\noindent
+Der Einschätzungsblock inkl. der Strategieentscheidung muss
+\EE{regelmäßig während der Betreuung} bzw.
+während des Transports -- in
+angemessenem Umfang -- \EE{wiederholt werden}, um eine
+Verschlechterung des Patientenzustandes rechtzeitig zu erkennen. 
+Änderungen in der Behandlung und der Strategie können sich
+jederzeit ergeben. \Commentary[Einschätzungsblock:
+Regelmäßge, angepasste Wiederholung]{%
+Die Forderung nach regelmäßiger, angepasster Wiederholung
+des Einschätzungsblockes entspricht dem früher
+gebräuchlichen Begriff \enquote{ständige Verlaufskontrolle}. Die
+Formulierungen \enquote{regelmäßig} und \enquote{in angemessenem Umfang}
+sind bewusst offen gewählt worden, da dies sowohl z.\,B. für
+den kritischen Bewusstlosen, als auch für den
+\enquote*{munter vor sich hinplaudernden} KTW-Patienten
+gelten soll.
+} % Commentary
 
 
-% \clearpage % TODO Temp clearpage
-% \needspace{22\baselineskip}
 \clearpage
-\section{Patientengespräch und Anamneseerhebung -- SAMPLER}
+\section{Weiterführendes Patientengespräch und Anamnese: SAMPLER}
 
 
 
@@ -4447,7 +4454,7 @@ vidit OA Univ.Doz. Dr. Alois Schremser
 
 
 
-\section{Weiterführende Diagnostik, Anamnese und
+\section{Weiterführende Diagnostik und
 Maßnahmen}
 
 
@@ -4493,7 +4500,7 @@ aufgeschoben werden (Auf Grund des Selbstschutzes, \enquote{Aufklärung} eines b
   
  
   \begin{itemize}\label{tab:pam-weiterfuehrende}
-    \item Transportentscheidung und ggfs. Transport an eine
+    \item Zielentscheidung und ggfs. Transport an eine
     geeignete Einrichtung (Krankenanstalt).
     \item Notarzt-Nachforderung (bei Bedarf, z.\,B. Schmerztherapie,
     Aufklärung zwecks \E{Belassung}\index{Belassung} auf
@@ -4592,19 +4599,19 @@ aufgeschoben werden (Auf Grund des Selbstschutzes, \enquote{Aufklärung} eines b
 
 
 % \clearpage % TODO Temp clearpage
-\section{Transportentscheidung und Transport}
+\section{Zielentscheidung und Transport}
 
 \parpic[r]{\includegraphics[width=0.5\linewidth]{./images/gabriel-sebastian-aass/Einfahrt_Leistsystem_IMG_1907_2_00800.jpg}}
 \noindent Je nach Art des Patientenkontakts
 (Rettungseinsatz, Krankentransport, Ambulanzdienst, etc.) hat die
-Transportentscheidung eine unterschiedliche Bedeutung.
+Zielentscheidung eine unterschiedliche Bedeutung.
 
 
 Weiters hat der \EE{Zustand des Patienten} sowie die
 \EE{Verdachtsdiagnose} Einfluss auf den \EE{Zeitpunkt} des
 Transportes (schnelle Hospitalisierung vs. Stabilisierung vor Ort).
 
-\Layout{2}{Transportentscheidung beim Primäreinsatz}{%
+\Layout{2}{Zielentscheidung beim Primäreinsatz}{%
 Beim Primäreinsatz (\enquote{Rettungseinsätze}) ist der
 Transport des Patienten die Regel. Besonders wichtig ist die
 \EE{Auswahl des richtigen Zieles}. Bei kritischen Patienten
@@ -4618,7 +4625,7 @@ können.
 }{}{}{}{}
 
 
-\Layout{2}{Transportentscheidung beim Sekundäreinsatz}{%
+\Layout{2}{Zielentscheidung beim Sekundäreinsatz}{%
 Beim Sekundäreinsatz gibt es i.\,d.\,R. einen
 vordefinierten Zielpunkt. Hier muss vor allem bedacht
 werden, ob das vorhandene \EE{Material ausreicht}, um den
@@ -4630,7 +4637,7 @@ Sauerstoff, Dekubitusprophylaxe,
 }{}{}{}{}
 
 
-\Layout{2}{Transportentscheidung bei Ambulanzdiensten}{%
+\Layout{2}{Zielentscheidung bei Ambulanzdiensten}{%
 \index{Triage!Patientenmanagement}%
 Bei Ambulanzdiensten wird der Sanitätsdienst häufig
 von Patienten in Anspruch genommen, welche keine

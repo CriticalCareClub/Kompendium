@@ -89,7 +89,7 @@ Körpertemperatur bleibt jedoch noch normal.
 Hier ist es wichtig den Patienten zu
 kühlen.
 
-\vspace{1cm}
+\SlideCompensationNoParskip{2}
 
 }{
 \begin{itemize}
@@ -143,20 +143,8 @@ Atmung.
 \end{itemize}
 }{}{}{}
 
-% \MassnahmenNG{Spezielle Maßnahmen}{Hitzschlag}{}{
-% 
-% \begin{itemize}
-%   \item \TxMassVit
-%   \item Beengende Kleidungsstücke lockern
-%   \item Flachlagerung an kühlem Ort (Schatten), Beine und Kopf hochlagern. 
-%   \item Kühlung von \E{außen} (Fächer, mit Eiswürfeln abreiben etc.)
-%   \item Kühlung von \E{innen}: für \EE{ansprechbare} Patienten viel kühle
-%   (alkoholfreie) Flüssigkeit, evtl. Elektrolyt-Getränke
-%   \item Neurocheck inkl. BZ-Messung
-% \end{itemize}
-% }
 
-\SlideCompensation{6}
+\SlideCompensation{3}
 
 \subsubsection{Maßnahmen bei systemischen Hitzeschäden}
 
@@ -164,61 +152,18 @@ Atmung.
 Hitzeerschöpfung,
 Hitzschlag}{m:systemische-hitzeschaedigungen}{
 }{}
-% \MassnahmenWide{Spezielle Maßnahmen}{Hitzekollaps,
-% Hitzeerschöpfung,
-% Hitzschlag}{\label{m:systemische-hitzeschaedigungen}}{
-% \FormatTable
-% 
-% \begin{tabularx}{\linewidth}{XXX}
-% \TabHeading{Hitzekollaps}
-% &
-% \TabHeading{Hitzerschöpfung}
-% &
-% \TabHeading{Hitzschlag}
-% \\\addlinespace\midrule\addlinespace
-% % \begin{minipage}{\linewidth}
-% \begin{itemize}
-%   \item Flachlagerung: ${\rightarrow}$ Gehirndurchblutung
-%   wieder ${\uparrow}$, bewusstseinsklar
-%   \item nach Sekunden gebessert, \enquote{regelt sich von
-%   selbst}
-%   \item Patient sitzen lassen, Flüssigkeit
-% \end{itemize}
-% % \end{minipage}
-% &
-% % \begin{minipage}{\linewidth}
-% \begin{itemize}
-%   \item Kühlung, Schatten
-%   \item Flüssigkeitszufuhr, wenn bewusstseinsklar
-%   \item Neurocheck inkl. BZ-Messung
-% \end{itemize}
-% % \end{minipage}
-% &
-% % \begin{minipage}{\linewidth}
-% \begin{itemize}
-%   \item \TxMassVit
-%   \item Beengende Kleidungsstücke lockern
-%   \item Flachlagerung an kühlem Ort (Schatten), Beine und Kopf hochlagern. 
-%   \item Kühlung von \E{außen} (Fächer, mit Eiswürfeln abreiben etc.)
-%   \item Kühlung von \E{innen}: für \EE{ansprechbare} Patienten viel kühle
-%   (alkoholfreie) Flüssigkeit, evtl. Elektrolyt-Getränke
-%   \item Neurocheck inkl. BZ-Messung
-% \end{itemize}
-% % \end{minipage}
-% \\\addlinespace\bottomrule
-% \end{tabularx}
-% }
 
 % \clearpage % TODO temporäres clearpage
 \subsection{Sonnenstich}
 \label{topic:sonnenstich}
 
-\Definition{Hitzeschaden durch Hirnerwärmung infolge von
+
+\Layout{0}{\TxBeschreibung{} und \TxSymptome{}}{%
+\DefinitionInPara{Ein \T{Sonnenstich} ist ein Hitzeschaden 
+durch Hirnerwärmung infolge von
 direkter Sonneneinstrahlung auf den \textbf{ungeschützten
 Kopf}. }
-
-\Layout{0}{\TxBeschreibung{} und \TxSymptome{}}{
-Der Sonnenstich ist eine Sonderform des Hitzeschadens: 
+Er ist eine Sonderform des Hitzeschadens: 
 er entsteht durch \EE{direkte Sonneneinstrahlung} auf den
 ungeschützten Kopf. Dadurch steigt die Temperatur im Kopf,
 es kommt zu einer Reizung der Hirnhäute. 
@@ -279,12 +224,12 @@ Maßnahmen}{Sonnenstich}{m:sonnenstich}{
 \section{Unterkühlung}
 \label{topic:unterkuehlung}
 
-\Definition{Bei einer Körperkerntemperatur unter
-36\DegC* spricht man von Unterkühlung.}
-
-\begin{wrapfigure}{r}{4cm}
-\includegraphics[width=4cm]{./images/teaser/huette_winter_mariazell.jpg}
-\end{wrapfigure}
+\Layout{60}
+{\TxBeschreibung}
+{%
+\DefinitionInPara{Eine \T{Ubterkühlung} ist eine Erniedrigung der 
+Körperkerntemperatur auf unter
+36\DegC*.}
 Ähnlich
 wie beim Schock kommt es auch  bei der Unterkühlung zur
 Zentralisation  des Blutes, um die  Körperkerntemperatur
@@ -298,9 +243,15 @@ zentralisierten Blut vermischt. Es kommt dann zu einer
 weiteren Unterkühlung des Körperstammes, im schlimmsten Fall
 zu
 einem \T{Bergungstod} (Blutfluss in Folge von Bewegungen während des
-Bergungsversuches).
+Bergungsversuches).}
+{}
+{./images/teaser/huette_winter_mariazell.jpg}
+{}
+{Gabriel}
 
-\paragraph{Phasen}
+\Layout{0}
+{{\TxSymptome} und Phasen}
+{
 
 \begin{itemize}
   \item \T{Kampfphase}: 
@@ -314,8 +265,26 @@ Bergungsversuches).
   \VonBis{30}{27}\DegC*, Bewusstlosigkeit,
   unregelmäßiger Herzschlag, Atempausen.
   \item {\textless}\,27\DegC* ${\rightarrow}$ klinisch tot. 
+\end{itemize}}
+{%
+\begin{itemize}
+  \item {Kampfphase}: 
+  \VonBis{36,5}{34}\DegC*
+  \item {Erschöpfungsphase}:
+  \VonBis{34}{30}\DegC*
+  \item {Kältenarkose}:
+  \VonBis{30}{27}\DegC*
+  \item {\textless}\,27\DegC* ${\rightarrow}$ klinisch tot
 \end{itemize}
+}
+{}
+{}
+{}
 
+
+\Fazit{\enquote{Nobody is dead until warm and dead!} 
+Schwer unterkühlte Patienten können auch noch nach Stunden (!) ohne
+Kreislauftätigkeit erfolgreich reanimiert werden!}
 
 \MassnahmenMK{Spezielle Maßnahmen}{Schwere Unterkühlung
 (\textless\,34\DegC*)}{m:unterkuehlung-schwer}{
@@ -337,11 +306,6 @@ Bergungsversuches).
 
 
 
-Bei Unterkühlung gilt:
-
-\Fazit{\enquote{Nobody is dead until warm and dead!} 
-Schwer unterkühlte Patienten können auch noch nach Stunden (!) ohne
-Kreislauftätigkeit erfolgreich reanimiert werden!}
 
 
 

@@ -54,12 +54,7 @@ toc=flat,
 
 \renewcommand{\Abk}[1]{#1} 			% reset Abk
 
-\usepackage{xr}						% Maßnahmenkatalog: Referenzen zu ext. Dokument
-% 	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var1-Archiv}}
-% 	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var2-Archiv}}
-    \opt{VAR-VAR0}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
-	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
-	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+
 % 1: Art der Massnahmen
 % 2: Titel
 % 3: Referenz
@@ -275,18 +270,239 @@ Letzte Änderung:
 
 \newcommand{\RedFlag}{{\color{DefaultRed}\bfseries{\VarFlag}}}
 
-\newcommand{\testtext}{Aurea prima sata est aetas, quae vindice nullo,
-sponte sua, sine lege fidem rectumque colebat.               
-poena metusque aberant, nec verba minantia fixo
-aere legebantur, nec supplex turba timebat
-iudicis ora sui, sed erant sine vindice tuti.
-nondum caesa suis, peregrinum ut viseret orbem,
-montibus in liquidas pinus descenderat undas,              
-nullaque mortales praeter sua litora norant;
-nondum praecipites cingebant oppida fossae;
-non tuba derecti, non aeris cornua flexi,
-non galeae, non ensis erat: sine militis usu
-mollia securae peragebant otia gentes. 
+\newcommand{\testtext}{%
+\subsection{Das Blut}
+
+\Layout{0}{\TxBeschreibung}
+{%
+Das Blut macht ca. \EE{\VonBis{7}{8}\,\PC* des Körpergewichtes}
+aus, das entspricht in etwa \EE{\VonBis{5}{6}\Liter*} beim
+Erwachsenen. Es setzt sich aus verschiedenen Bestandteilen
+zusammen und hat weitreichende und wichtige Aufgaben. Das Blut besteht aus
+\EE{festen} Bestandteilen und \EE{flüssigen Bestandteilen}
+(Blutplasma).
+Zu
+den festen Bestandteilen gehören die \E{roten
+Blutkörperchen} (Erythrozyten), die \E{weißen
+Blutkörperchen} (Leukozyten) und die \E{Blutplättchen}
+(Thrombozyten).
+Das Blutplasma besteht zum größten Teil aus \E{Wasser}.
+Außerdem enthält es \E{Proteine} und andere \E{gelöste
+Stoffe}.
+}{
+\begin{itemize}
+  \item \VonBis{5}{6} Liter
+  \item feste Bestandteile (Zellen, Blutkörperchen)
+  \item flüssige Bestandteile (Plasma)
+  \item \prettyref{tab:blut-bestandteile}
+\end{itemize}
+}{}{}{}
+
+
+
+\Layout{0}{Aufgaben}{%
+Die wichtigste Aufgabe des Blutes ist der \EE{Stoff- und
+Gastransport}. Es ist z.\,B. der \E{Sauerstofflieferant} des
+Körpers. Es holt sich den Sauerstoff in der Lunge ab, bringt
+ihn zu den Zellen und nimmt auf dem Rückweg das abzuatmende
+\E{Kohlendioxid} wieder mit. Weiters transportiert es die
+über den Darm aufgenommenen \E{Nährstoffe} zu den
+entsprechenden Weiterverarbeitungsstellen und sorgt für den
+Abtransport von \E{Abfallprodukten} hin zu Leber oder Niere.
+Eine weitere wichtige Aufgabe ist die Regulation der
+\EE{Körpertemperatur} gemeinsam mit den Blutgefäßen. Bei Kälte
+werden die Blutgefäße in den Extremitäten enger gestellt --
+weniger Wärme geht nach außen verloren, das Blut und
+dementsprechend die Wärme wird
+\protect\enquote{zentralisiert}. Andersrum funktioniert es
+bei großer Hitze. Über eine Weitstellung der Gefäße versucht
+der Körper soviel Hitze wie möglich loszuwerden.
+Zu guter Letzt sorgt das Blut auch noch für einen
+ausgeglichenen \EE{Säure-Basen-Haushalt} im Körper -- der pH
+des Körpers sollte immer zwischen 7,35 und 7,45 liegen. Bei
+Abweichungen sorgen \E{Puffersysteme}
+\VARIANT{VAR-STANDARD}{(\prettyref{topic:bikarbonatpuffer})}
+im Blut für eine Wiederherstellung dieses pH-Wertes.
+}{
+\begin{itemize}
+  \item Sauerstofftransport zu den Körperzellen
+  \index{Sauerstofftransport}
+  \item \ce{CO2}-Abtransport 
+  \index{CO2-Abtransport@\ce{CO2}-Abtransport}
+  \item Transport von Nährstoffen und Abfallprodukten
+  \item Wärmeverteilung
+  \item pH-Pufferungssystem (Säure/Basen-Gleichgewicht)
+\end{itemize}
+}{}{}{}
+
+
+
+
+\Layout{0}{Feste (zelluläre) Bestandteile}
+{%
+\label{topic:erythrozyten}%
+\label{topic:haemoglobin}
+\index{Erythrozyten}%
+\index{Rote Blutkörperchen}%
+\index{Blutkörperchen!rote}%
+\index{Blutkonserve!Erythrozytenkonzentrat}
+\index{Erythrozytenkonzentrat}
+Die festen Bestandteile des Blutes beinhalten rote Blutkörperchen
+(Erythrozyten), weiße Blutkörperchen (Leukozyten) und Blutplättchen
+(Thrombozyten):
+\begin{itemize}
+  \item Die \StepHeading{roten Blutkörperchen} sind quasi die wichtigsten des
+ganzen Körpers -- ohne ihren Sauerstofftransport
+funktioniert im Körper gar nichts. Das Protein, das für die
+Bindung des Sauerstoffes an die Erythrozyten verantwortlich
+ist, heißt \T{Hämoglobin}. Es ist auch der
+\E{Blutfarbstoff}. Ein Mangel an Hämoglobin wird als
+\T{Anämie} bezeichnet.
+Die Erythrozyten sind außerdem die häufigsten festen
+Blutbestandteile (4\,000\,000\,/µl) und tragen die
+\EE{Blutgruppenmerkmale} (A, B bzw. 0 bei Fehlen der
+Merkmale) und die Rhesusfaktoren. Es gibt sog.
+\T{Erythrozytenkonzentrate}
+(\protect\enquote*{Ery-Konzentrate}), das sind
+\E{Blutkonserven}, welche fast ausschließlich Erythrozyten
+enthalten.
+\Z{Das Kennzeichen der Erythrozyten ist die Abwesenheit des
+Kernes bzw. jeglicher Zellorganellen. Nach einer
+Lebensdauer von ca. 100 Tagen werden die
+\protect\enquote{Senioren} der roten Blutkörperchen in der
+Milz abgebaut.}
+\item 
+Die \StepHeading{weißen Blutkörperchen} sind ein wichtiger Teil des \EE{Immunsystems} und
+dienen der Infekt- und Fremdkörperabwehr des Körpers. 
+\Z{Es befinden sich
+zwischen 4\,000 und 8\,000 Leukozyten pro µl im Blut des Körpers; es gibt
+verschiedene Arten von Leukozyte}
+\item 
+Die \StepHeading{Blutplättchen} sind kleine kernlose Scheibchen. Sie
+dienen der \EE{Blutgerinnung} und dem Wundverschluss.
+\Z{Ihre Anzahl wird mit 150\,000 bis 300\,000 pro µl
+beziffert.} Es gibt \T{Thrombozytenkonzentrate}, das sind
+\EE{Blutkonserven}, welche fast ausschließlich Thrombozyten
+beinhalten.
+\end{itemize}
+
+}
+{
+\begin{itemize}
+  \item Rote Blutkörperchen (Erythrozyten)
+\begin{itemize}
+    \item Blutfarbstoff Hämoglobin (Transportprotein für
+    Sauerstoff)
+    \item \ce{O2}-Transport
+    \item Tragen Blutgruppenmerkmale (Blutgruppe)
+    \item Erythrozyten-Konzentrate: Blutkonserven
+    \item Häufigsten Blutkörperchen 
+\end{itemize}
+  \item Weiße Blutkörperchen (Leukozyten)
+\begin{itemize}
+    \item Körperabwehr, Entzündungszellen, Immunsystem
+\end{itemize}
+  \item Blutplättchen (Thrombozyten)
+\begin{itemize}
+    \item Wichtige Rolle beim Wundverschluss
+    \item Zelluläre Blutstillung
+    \item Thrombozytenkonzentrat: Blutkonserve
+\end{itemize}
+\end{itemize}
+}{}{}{}
+
+
+
+% \Layout{0}{Leukozyten}
+% {%
+% \label{topic:leukozyten}% 
+% \index{Leukozyten}% 
+% \index{Weiße Blutkörperchen}%
+% \index{Blutkörperchen!weiße}%
+% \index{Immunsystem!Leukozyten}
+% 
+% .
+% \SlideCompensationNoParskip{2}
+% }
+% }
+% {
+% }{}{}{}
+% 
+% 
+% \Layout{0}{Thrombozyten}
+% {\label{topic:thrombozyten}
+% \index{Thrombozyten}%
+% \index{Thrombozytenkonzentrat}
+% 
+% \SlideCompensationNoParskip{3}
+% }
+% {
+% }{}{}{}
+
+
+
+\Layout{0}{Die flüssigen Bestandteile --
+Das Plasma}
+{%
+Das Blutplasma besteht zum größten Teil aus \EE{Wasser}. Der
+restliche Anteil enthält \E{Proteine}, \E{Enzyme},
+\E{Hormone}, \E{Elektrolyte}, \E{Glukose} und \E{Fette}.
+Die wesentliche Aufgabe des Plasmas ist der \EE{Transport}
+von Nährstoffen an ihren Zielort im Körper. Es enthält
+weiters die Bestandteile für die plasmatische Blutgerinnung
+und das Immunsystem (Antikörper, \Z{Immunglobuline}). Durch
+die Elektrolyte ist es am Wasserhaushalt beteiligt und sorgt
+mit Puffersubstanzen für einen ausgeglichenen pH-Wert im
+menschlichen Körper.
+Schlußendlich sorgt es auch für die Wärmeverteilung im
+Körper.
+% \SlideCompensationNoParskip{2}
+}
+{
+\begin{itemize}
+    \item 90\PC* Wasser
+    \item 10\PC* Proteine, Hormone, Elektrolyte,
+    Glukose, Fette
+    \item Aufgaben:
+    \begin{compactitem}
+        \item Nährstofftransport
+        \item Wärmeverteilung
+    	\item {Blutgerinnung} (Serum)
+    	\item Pufferung des pH-Wertes
+    \end{compactitem}
+\end{itemize}
+}{}{}{}
+
+% \Layout{0}{Die Blutstillung}{%
+% \index{Blutstillung} 
+% Unser Organismus verfügt über eine körpereigene
+% Blutstillung, welche aktiviert wird, sobald es im Körper zu
+% einer Verletzung kommt. In einem ersten Schritt
+% \glqq{}verkleben\grqq{} Blutblättchen an der verletzten
+% Stelle des Blutgefäßes  und bilden so einen
+% \EE{Thrombozytenpfropfen}, der die Wunde grob verschließt
+% (vorläufiger Wundverschluss, \Z{primäre Blutstillung}). Erst
+% in einem zweiten Schritt kommt es durch die
+% \EE{Blutgerinnung} zum endgültigen Wundverschluss
+% (\Z{sekundäre Blutstillung}). Für die Bildung der
+% Thrombozytenpfropfen sind die festen Bestandteile des
+% Blutes und für die Blutstillung das Blutplasma (flüssiger
+% Bestandteil) zuständig. Am Ende der Wundheilung werden
+% defekte Zellen abgebaut und Bindegewebe aufgabaut.
+% 
+% }
+% {
+% \begin{itemize}
+%   \item vorläufiger Wundverschluss (Thrombozytenpfropf)
+%   \item endgültiger Wundverschluss (Blutgerinnung)
+% \end{itemize}
+% }
+% {./images/anatomie/Bleeding_finger.jpg}
+% {\AuthNotesPicLegalOk{}{CC-BY}}
+% {\SourcePicture{Crystal
+% (Crystl) from Bloomington, USA
+% [\url{http://www.flickr.com/people/crystalflickr/}]
+% Lizenz: CC-BY}}
 
 In der Studie von \caps{Werters} konnte im Jahr 2005 gezeigt
 werden, dass rostende Gießkannen blaue Augen duch die Tür
@@ -364,7 +580,220 @@ This text tests the
 \textit{italic},
 \textbf{bold} and
 \textit{\textbf{bold-italic}} shapes of the current sans font. \textsc{Small caps} may also be available.
-Ein Cheesy kostet €\,13,40 -- 1/2 Euro sollte man Trinkgeld geben.}
+Ein Cheesy kostet €\,13,40 -- 1/2 Euro sollte man Trinkgeld geben.
+
+\clearpage % TEMP temp clearpage
+\subsection{Das Auge}
+\index{Auge}
+\label{topic:auge} 
+
+\Layout{0}{\TxBeschreibung}
+{%
+Das Auge als Sehorgan ist ein spezialisiertes Sinnesorgan,
+dass sensibel auf Lichtreize reagiert. Es besteht aus:
+
+\begin{itemize}
+  \item Augapfel
+  \item Hilfseinrichtungen: Augenmuskeln, Augenlider und
+  Tränendrüsen
+\end{itemize} 
+
+Das gesamte Sehorgan befindet sich in der \I{Augenhöhle}. Die
+lichtempfindlichen Zellen liegen auf der Netzhaut des Auges
+und werden nach einer Passage durch die lichtbrechenden
+Strukturen des Augapfels erreicht.
+Der \I{Augapfel} hat eine annähernde Kugelform. Von außen nach
+innen hat er verschiedene Schichten:
+
+\begin{itemize}
+  \item \T{Lederhaut} \Z{(Sklera)}: Die Lederhaut ist eine
+  derbe Bindegewebsschicht. Sie ist zusammen mit dem
+  Glaskörper verantwortlich für die Formgebung des Auges.
+  \item \Z{Aderhaut (Choroidea): In der Aderhaut verlaufen
+  alle Blutgefäße des Auges.}
+  \item \T{Netzhaut} (Retina): In der Netzhaut befinden sich
+  die Sinneszellen des Auges. Stäbchen für das Schwarz-Weiß-
+  bzw. Dämmerungs-Sehen und Zapfen für das
+  Farb-Sehen.
+\end{itemize}
+An der Vorderseite ist diese Schichten-Aufteilung anders:
+\begin{itemize}
+  \item \T{Hornhaut} \Z{(Cornea)}: Die Hornhaut ist eine
+  durchsichtige Schicht von Bindegewebe. 
+  \item \T{Regenbogenhaut} (Iris): Die Iris ist der
+  verschiedenfärbige (blau, braun, grün) Bereich rund um die
+  Pupille. Sie ist eine dünne Haut mit einer eigenen
+  Muskulatur -- vegetativ gesteuert -- und sorgt dafür, dass
+  bei Bedarf die Pupille vergrößert bzw. verkleinert wird.
+\end{itemize}
+
+Wenn man einem Lichtstrahl folgt, der in das Auge einfällt,
+muss dieser zuerst die Hornhaut durchdringen, darauf folgt
+die Vorderkammer (der Bereich zwischen Hornhaut und Iris).
+Nun durchdringt er die \T{Linse}, sie bündelt das Licht und
+sorgt dafür, dass wir scharf sehen können.
+\Z{Die Linse hat einen eigenen Aufhängungsapparat, der sie
+schmäler (für die Fernsicht) und breiter (für die Nahsicht)
+machen kann. Nach der Linse folgt der Glaskörper. Er hat
+eine gallertartige Konsistenz und verflüssigt sich mit dem
+Alter. Zusammen mit der Lederhaut bestimmt er die pralle
+Form des Auges.}
+
+Nun landet der Lichtstrahl auf der \T{Netzhaut}. Die
+Informationen der Sinneszellen (Stäbchen und Zapfen) werden
+im Sehnerv gesammelt und an das Sehzentrum im Gehirn
+weitergeleitet.
+
+Wichtig für die Funktion des Auges sind weiters die
+\I{Augenmuskeln}: Sie drehen das Auge in jede Richtung und
+liegen ebenfalls in der Augenhöhle. Für die Befeuchtung des
+Auges gibt es die Tränendrüse, die einen Flüssigkeitsfilm
+auf dem Auge produziert und der über den Tränen-Nasengang
+abfließen kann, und die \T{Bindehaut} (Konjunktiva), die bis
+auf die Hornhaut die gesamte Vorderseite des Auges und die
+Innenseite der Lider überzieht. Um das Auge beim Schlafen
+vor Austrocknung zu schützen und den Tränenfilm gleichzeitig
+verteilen zu können, verfügen wir über Augenlider, die
+willkürlich und unwillkürlich geschlossen werden können.
+}{%
+\begin{itemize}
+  \item Schichten des Auges:
+  \begin{itemize}
+    \item Lederhaut \Z{(Sclera)}
+    \item \Z{Aderhaut (Choroidea)}
+    \item Netzhaut (Retina)
+  \end{itemize}
+  \item Lichtstrahl von vorne nach hinten:
+  \begin{itemize}
+    \item Hornhaut \Z{(Cornea)}
+    \item Vorderkammer
+    \item Pupille, begrenzt von Iris
+    \item Linse → Scharfstellen
+    \item Glaskörper
+    \item Netzhaut
+    \item Sehnerv → Sehzentrum im Gehirn
+  \end{itemize}
+  \item Bewegung des Auges durch Augenmuskeln
+  \item Schutzapparat des Auges:
+  \begin{itemize}
+    \item Tränendrüse und Bindehaut (Konjunktiva)
+    \item Lider
+  \end{itemize}
+\end{itemize}
+}{}{}{}
+
+
+
+% \clearpage
+
+
+\subsection{Das Ohr}
+\index{Ohr}
+\label{topic:ohr} 
+
+\Layout{0}{\TxBeschreibung}
+{% 
+Das Ohr ist das Organ für die akustische
+Sinneswahrnehmung des Körpers. Zum Ohr gehört weiters das
+Gleichgewichtsorgan.
+Man kann das Ohr in drei verschiedene Untergruppen
+unterteilen: In das \EE{Außenohr}, \EE{Mittelohr} und das 
+\EE{Innenohr}.
+
+Zum Außenohr gehören Ohrmuschel und äußerer Gehörgang. Die
+Trennlinie ist hier das \T{Trommelfell}, das das Außenohr
+hermetisch vom Mittelohr abschließt. Im Mittelohr befinden
+sich die \EE{Gehörknöchelchen}. Es hat zum Druckausgleich
+eine Verbindung zur Nase (Tube). So funktioniert es auch,
+dass man beispielsweise bei einem Schnupfen durch Verstopfung des
+Ohr-Nasen-Ganges und durch aufsteigende Keime eine
+Mittelohrentzündung bekommen kann. Mit dem Übergang der
+Gehörknöchelchen zur Schnecke passiert man die Grenze zum
+Innenohr mit der Hörschnecke \Z{(Cochlea)} und dem
+Gleichgewichtsorgan. \Z{Das Innenohr befindet sich im
+Felsenbein.}
+Wenn man einer Schallwelle folgt, die von der Ohrmuschel
+eingefangen wurde, durchläuft man folgende Strukturen der
+Reihe nach:
+
+\index{Hammer}
+\index{Amboss}
+\index{Steigbügel}
+
+\begin{itemize}
+  \item \E{Äußerer Gehörgang}: dieser geht nach vorne oben
+  -- daher die Hörer des Stetoskopes immer in diese Richtung
+  schauend einsetzen, sonst hört man
+  nichts!
+  \item \E{Trommelfell}: Es dient der Schallweiterleitung
+  und zur Abgrenzung des Mittelohres und Innenohres gegen die Außenwelt.
+  \item Nun folgen die Gehörknöchelchen:
+  \begin{itemize}
+    \item \E{Hammer} \Z{(Malleus)}: ist fest mit dem
+    Trommelfell verwachsen, ist teilweise durch das
+    Trommelfell hindurch sichtbar, verbunden mit dem
+    \item \E{Amboss} \Z{(Incus)}: dieser gibt die erhaltenen
+    Schwingungen weiter an den
+    \item \E{Steigbügel} \Z{(Stapes)}: ist mit der Schnecke
+    verbunden
+  \end{itemize}
+  \item \E{Schnecke} \Z{(Cochlea)}: ist mit einer eigenen
+  Flüssigkeit gefüllt. In der Schnecke werden die
+  empfangenen Schallwellen nach ihrer Frequenz aufgelöst und
+  durch die Sinneszellen über den Gehörnerven an das
+  Hörzentrum im Gehirn weitergeleitet.
+\end{itemize}
+
+% Das \EE{Gleichgewichtsorgan}, als Teil des Innenohrs in
+% direkter Nähe der Schnecke im Felsenbein liegend, ist dafür
+% zuständig, dass man ein Gefühl der eigenen Lage im Raum hat
+% und Beschleunigungen feststellen kann. Hierfür hat es drei
+% Bogengänge, die nach den drei Achsen im Raum ausgerichtet
+% sind. Jeweils die komplementären Bogengänge links und rechts
+% sorgen für eine vollständige Informationserfassung. Wenn das
+% Gleichgewichtsorgan einer Seite eine Störung hat, resultiert
+% ein kaum aushaltbarer Schwindel.
+}
+{%
+\begin{itemize}
+  \item Gliederung des Ohres:
+  \begin{itemize}
+    \item Außenohr: Ohrmuschel und äußerer Gehörgang
+    \item Mittelohr: Trommelfell, Hammer, Amboß, Steigbügel
+    \item Innenohr: Schnecke, Gleichgewichtsorgan
+  \end{itemize}
+\end{itemize}
+}{}{}{}
+
+\begin{PictureSeries}{}{Das Ohr}
+\PictureSeriesRow{2}
+{./images/hirtler-aass/Ohr.pdf}
+{Das Ohr im Querschnitt. Man sieht
+den äußeren Gehörgang, Das
+Trommelfell, die Gehörknöchelchen,
+die Schnecke und die Bogengänge. \SourcePicture{Hirtler}}
+{./images/hirtler-aass/Mittelohr.pdf} {Das Mittelohr: Im Detail sind hier
+das Trommelfell, sowie die Gehörknöchelchen Hammer, Amboss
+und Steigbügel zu sehen.
+\SourcePicture{Hirtler}}
+{}
+{}
+{}
+{}
+\end{PictureSeries}
+}
+
+\newcommand{\TestFont}[3]{
+% #1 Variantenname
+% #2 Variantencode
+% #3 Settings
+
+#3
+
+\section{#1}
+
+\testtext
+}
 
 % #######################################################################################################
 % #######################################################################################################
@@ -712,176 +1141,10 @@ Folgende Varianten sind nun
 die Diskussion:
 
 \clearpage
-{\usefont{T1}{bch}{m}{n}\selectfont
-\subsubsection{Variante \enquote*{Bitstream Charter / PT
-Sans}}
-% 
-% Eine Weiterführung des bisherigen Konzepts wäre möglich.
-% Dafür spricht die gute Lesbarkeit der Bitstream Charter auf
-% dem Bildschirm und auf Pads.
 
-\testtext}
-{\setmainfont[
-Path=./fonts/,
-Ligatures=TeX,
-ItalicFont     = CharisSIL-Italic.ttf ,
-BoldFont       = CharisSIL-Bold.ttf ,
-BoldItalicFont = CharisSIL-BoldItalic.ttf ,
-Scale=1,
-]{CharisSIL-Regular.ttf}
-\subsubsection{Variante Charis SIL /
-PT Sans}
-% Die Charis SIL ist ein modifizierter Abkömmling
-% der Bitstream Charter.:
-% 
-% {\color{DefaultB}Welcome to the Charis SIL font package.
-% Charis is similar to Bitstream Charter, one of the first fonts designed
-% specifically for laser printers. It is highly readable and
-% holds up well in less-than-ideal reproduction
-% environments. It also has a full set of styles - regular,
-% italic, bold, bold italic - and so is more useful in
-% general publishing than Doulos SIL. Charis is a serif,
-% proportionally-spaced font optimized for readability in
-% long printed documents.}
-
-\testtext}
-
-
+This page has been intentionally left blank!
 
 \clearpage
-{\setmainfont[
-Ligatures=TeX,
-Path=./fonts/,
-ItalicFont     = DejaVuSerif-Italic.ttf ,
-BoldFont       = DejaVuSerif-Bold.ttf ,
-BoldItalicFont = DejaVuSerif-BoldItalic.ttf ,
-Scale=0.90,
-]{DejaVuSerif.ttf}
-\subsubsection{Variante \enquote*{Dejavu Serif/PT Sans}}
-% 
-% Die Dejavu Serif ist eine Eugyptienne. Sie wirkt sehr
-% reizvoll am Bildschirm, im Ausdruck jedoch ist der Lesefluss
-% stark beeinträchtigt. Diese Variante erscheint
-% (leider) nicht erstrebenswert.
-
-\testtext
-
-}
-
-\clearpage
-{\setmainfont[
-Ligatures=TeX,
-Path=./fonts/,
-ItalicFont     = DroidSerif-Italic.ttf ,
-BoldFont       = DroidSerif-Bold.ttf ,
-BoldItalicFont = DroidSerif-BoldItalic.ttf ,
-Scale=0.90,
-]{DroidSerif.ttf}
-\subsubsection{Variante \enquote*{Droid Serif}}
-
-\testtext
-
-}
-
-
-\clearpage
-{\setmainfont[
-Ligatures=TeX,
-RawFeature=+onum,
-Path=./fonts/,
-ItalicFont     = GentiumPlus-Italic ,
-BoldFont       = GentiumBasic-Bold,
-BoldItalicFont = GentiumBasic-BoldItalic ,
-]{GentiumPlus-Regular}
-\subsubsection{Variante \enquote*{Gentium/PT Sans}}
-% 
-% Die Gentium ist eine neue Schrift, welche derzeit jedoch
-% keinen bold-Schnitt besitzt. (Es existieren jedoch die
-% Gentium Basic, welche die erforderlichen Schnitte besitzt,
-% deren Zeichenumfang jedoch nicht so groß ist wie die der
-% Stammvariante. Außerdem unterstützt die Basic-Variante kein
-% Kerning!)
-% 
-% Subjektiv: die Gentium wirkt auf der Seite etwas unruhig
-% und erfüllt die entsprechenden Erwartungen hinsichtlich
-% flüssiger Lesbarkeit eher nicht.
-
-\testtext
-}
-
-
-\clearpage
-{\setmainfont[
-Ligatures=TeX,
-RawFeature=+zero,
-ItalicFont     = LinLibertine_RI.otf ,
-BoldFont       = LinLibertine_RZ.otf ,
-BoldItalicFont = LinLibertine_RZI.otf ,
-% Scale=1.025,
-]{LinLibertine_R.otf}
-\subsubsection{Variante
-\enquote*{Linux Libertine/PT Sans}}
-
-% Die Linux Libertine entspringt einem rezenten Projekt,
-% welches sich der Neuanschaffung einer Schriftart mit einem
-% großen Zeichensatz zum Ziel gesetzt hat. Sie hatten
-% Charakter einer Buchschrift des 19. Jahrhunderts. Sie
-% verfügt über die Standardschnitte sowie über Kapitälchen.
-% Sie ist sehr platzsparend.
-% 
-% Der umfangreiche Zeichensatz erlaubt auch die Verwendung von
-% in der Schrift definierten
-% Symbolen.
-
-{\testtext}}
-
-
-
-{%
-\setmainfont[
-Ligatures=TeX,
-RawFeature=+onum,
-Path=./fonts-restricted/,
-ItalicFont     = MinionPro-Italic ,
-BoldFont       = MinionPro-Semibold,
-BoldItalicFont = MinionPro-SemiboldItalic ,
-]{MinionPro-Regular}
-\subsubsection{Variante \enquote*{Minion}}
-
-\testtext
-}
-
-
-\clearpage
-{%
-\setmainfont[
-Ligatures=TeX,
-RawFeature=+onum,
-Path=./fonts/,
-ItalicFont     = STIXGeneral-Italic ,
-BoldFont       = STIXGeneral-Bold,
-BoldItalicFont = STIXGeneral-BoldItalic ,
-]{STIXGeneral-Regular}
-\subsubsection{Variante \enquote*{STIX}}
-
-\testtext
-}
-
-
-\clearpage
-{%
-\setmainfont[
-Ligatures=TeX,
-RawFeature=+onum,
-Path=./fonts-restricted/,
-ItalicFont     = ArnoPro-Italic ,
-BoldFont       = ArnoPro-Semibold,
-BoldItalicFont = ArnoPro-SemiboldItalic ,
-]{ArnoPro-Regular}
-\subsubsection{Variante \enquote*{Arno}}
-
-\testtext
-}
 
 \clearpage
 \subsubsection{Variante \enquote*{Etwas anderes}}
@@ -1113,6 +1376,232 @@ bold und Textfarbe. }
 
 
 
+\appendix
+
+\chapter{Schriftproben}
+
+\minitoc
+
+\clearpage
+
+\TestFont	{Bitstream Charter}
+			{}
+			{\usefont{T1}{bch}{m}{n}\selectfont}
+
+\TestFont	{Charis SIL / PT Sans}
+			{}
+			{\setmainfont[
+				Path=./fonts/,
+				Ligatures=TeX,
+				ItalicFont     = CharisSIL-Italic.ttf ,
+				BoldFont       = CharisSIL-Bold.ttf ,
+				BoldItalicFont = CharisSIL-BoldItalic.ttf ,
+				Scale=1,
+				]{CharisSIL-Regular.ttf}}
+
+
+
+
+
+\clearpage
+
+\TestFont	{Dejavu Serif}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+				Path=./fonts/,
+				ItalicFont     = DejaVuSerif-Italic.ttf ,
+				BoldFont       = DejaVuSerif-Bold.ttf ,
+				BoldItalicFont = DejaVuSerif-BoldItalic.ttf ,
+				Scale=0.90,
+				]{DejaVuSerif.ttf}}
+
+
+\clearpage
+
+\TestFont	{Droid Serif}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+				Path=./fonts/,
+				ItalicFont     = DroidSerif-Italic.ttf ,
+				BoldFont       = DroidSerif-Bold.ttf ,
+				BoldItalicFont = DroidSerif-BoldItalic.ttf ,
+				Scale=0.90,
+				]{DroidSerif.ttf}}
+
+
+\clearpage
+
+\TestFont	{Gentium}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+				RawFeature=+onum,
+				Path=./fonts/,
+				ItalicFont     = GentiumPlus-Italic ,
+				BoldFont       = GentiumBasic-Bold,
+				BoldItalicFont = GentiumBasic-BoldItalic ,
+				]{GentiumPlus-Regular}}
+
+
+\clearpage
+
+\TestFont	{PT Serif}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+				RawFeature=+zero,
+				ItalicFont     = PTSerif-Italic ,
+				BoldFont       = PTSerif-Bold ,
+				BoldItalicFont = PTSerif-BoldItalic ,
+				Scale=0.93,
+				]{PTSerif-Regular}}
+
+% Die Linux Libertine entspringt einem rezenten Projekt,
+% welches sich der Neuanschaffung einer Schriftart mit einem
+% großen Zeichensatz zum Ziel gesetzt hat. Sie hatten
+% Charakter einer Buchschrift des 19. Jahrhunderts. Sie
+% verfügt über die Standardschnitte sowie über Kapitälchen.
+% Sie ist sehr platzsparend.
+% 
+% Der umfangreiche Zeichensatz erlaubt auch die Verwendung von
+% in der Schrift definierten
+% Symbolen.
+
+\clearpage
+
+\TestFont	{Linux Libertine}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+% 				RawFeature=+zero,
+				ItalicFont     = LinLibertine_RI.otf ,
+				BoldFont       = LinLibertine_RZ.otf ,
+				BoldItalicFont = LinLibertine_RZI.otf ,
+				% Scale=1.01,
+				]{LinLibertine_R.otf}}
+
+
+% Die Linux Libertine entspringt einem rezenten Projekt,
+% welches sich der Neuanschaffung einer Schriftart mit einem
+% großen Zeichensatz zum Ziel gesetzt hat. Sie hatten
+% Charakter einer Buchschrift des 19. Jahrhunderts. Sie
+% verfügt über die Standardschnitte sowie über Kapitälchen.
+% Sie ist sehr platzsparend.
+% 
+% Der umfangreiche Zeichensatz erlaubt auch die Verwendung von
+% in der Schrift definierten
+% Symbolen.
+
+\clearpage
+\TestFont	{Tinos}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+				% RawFeature=+onum,
+				Path=./fonts-experimental/,
+				ItalicFont     = Tinos-Italic,
+				BoldFont       = Tinos-Bold,
+				BoldItalicFont = Tinos-BoldItalic,
+				% Scale=0.9,
+				]{Tinos-Regular}}
+
+
+\clearpage
+\TestFont	{Minion}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+				RawFeature=+onum,
+				Path=./fonts-restricted/,
+				ItalicFont     = MinionPro-Italic ,
+				BoldFont       = MinionPro-Semibold,
+				BoldItalicFont = MinionPro-SemiboldItalic ,
+				]{MinionPro-Regular}}
+
+
+\clearpage
+\TestFont	{Constantia}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+				RawFeature=+onum,
+				Path=./fonts-restricted/,
+				ItalicFont     = CONSTANI,
+				BoldFont       = CONSTANB,
+				BoldItalicFont = CONSTANZ,
+				]{CONSTAN}}
+
+
+\clearpage
+\TestFont	{Noto}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+				% RawFeature=+onum,
+				Path=./fonts-experimental/,
+				ItalicFont     = NotoSerif-Italic,
+				BoldFont       = NotoSerif-Bold,
+				BoldItalicFont = NotoSerif-BoldItalic,
+				Scale=0.9,
+				]{NotoSerif-Regular}}
+
+
+\clearpage
+\TestFont	{Crimson}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+				% RawFeature=+onum,
+				Path=./fonts-experimental/,
+				ItalicFont     = CrimsonText-Italic,
+				BoldFont       = CrimsonText-Semibold,
+				BoldItalicFont = CrimsonText-SemiboldItalic,
+				]{CrimsonText-Roman}}
+
+
+\clearpage
+\TestFont	{Brill}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+				RawFeature=+onum,
+				Path=./fonts-restricted/,
+				ItalicFont     = brill_italic_2.02_047,
+				BoldFont       = brill_bold_2.02_047,
+				BoldItalicFont = brill_bold_italic_2.02_047 ,
+				]{brill_roman_2.02_047}}
+
+
+\clearpage
+\TestFont	{STIX}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+				RawFeature=+onum,
+				Path=./fonts/,
+				ItalicFont     = STIXGeneral-Italic ,
+				BoldFont       = STIXGeneral-Bold,
+				BoldItalicFont = STIXGeneral-BoldItalic ,
+				]{STIXGeneral-Regular}}
+
+
+
+ 
+
+
+\clearpage
+\TestFont	{Arno}
+			{}
+			{\setmainfont[
+				Ligatures=TeX,
+				RawFeature=+onum,
+				Path=./fonts-restricted/,
+				ItalicFont     = ArnoPro-Italic ,
+				BoldFont       = ArnoPro-Semibold,
+				BoldItalicFont = ArnoPro-SemiboldItalic ,
+				]{ArnoPro-Regular}}
 
 
 

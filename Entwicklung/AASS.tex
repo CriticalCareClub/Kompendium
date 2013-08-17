@@ -274,6 +274,17 @@ Letzte Änderung:
 }
 
 \newcommand{\RedFlag}{{\color{DefaultRed}\scriptsize{\VarFlag}\hspace{-0.5em}}}
+\newcommand{\Dictum}[2][]{
+  \bigskip
+  \begin{flushright}
+  \begin{minipage}{\ThirdNetWidth}\scriptsize
+  {\ttfamily\sloppy\color{AltBlueDark}#2}\vspace{\baselineskip}
+  
+  {\FontSansNarrowFamily\color{AltBlueVeryLight}#1}
+  \end{minipage}
+  \end{flushright}
+  \bigskip\noindent
+  }
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -933,6 +944,21 @@ prenote=bestof]
 {\small\printindex}
 
 \input{./chapters/inc-APP}
+
+\Dictum
+[Faust. \\
+In: Johann Wolfgang von Goethe: Faust. Der Tragödie erster Teil]
+{Habe nun, ach! Philosophie,\\
+Juristerei und Medizin,\\
+Und leider auch Theologie\\
+Durchaus studiert, mit heißem Bemühn.\\
+Da steh ich nun, ich armer Tor!\\
+Und bin so klug als wie zuvor;\\
+Heiße Magister, heiße Doktor gar\\
+Und ziehe schon an die zehen Jahr\\
+Herauf, herab und quer und krumm\\
+Meine Schüler an der Nase herum-\\
+Und sehe, daß wir nichts wissen können!}
 
 SO LONG.......... AND THANKS FOR ALL THE FISH
 \MultiColListEnd{lomassnahmen}

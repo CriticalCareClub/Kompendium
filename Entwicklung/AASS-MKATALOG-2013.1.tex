@@ -36,8 +36,8 @@ toc=flat,
 \usepackage[final]{graphicx} % Bilder-Support
 
 
-\input{./inputs/input-optkeys}		% optional --- Optionaler Text. 
-\input{./inputs/input-preamble-MKATALOG-2013.tex}
+\input{./AASS.optkeys.tex}		% optional --- Optionaler Text. 
+\input{./AASS-MKATALOG-2013.preamble.tex}
 
 \usepackage[backend=bibtex8,
 babel=other,
@@ -76,16 +76,13 @@ sortlocale=de,
 % \usepackage{asboe}
 
 % Trennungen
-\input{./inputs/input-hyphenation}
-
-% Titel
-\input{./inputs/input-title-MKATALOG-Entwicklung}
+\input{./AASS.hyphenation.tex}
 
 % Dokumenteinfos (Status, Version, ...)
-\input{./inputs/input-docinfo-MKATALOG-2013.tex}
+\input{./AASS-MKATALOG-2013.docinfo.tex}
 
 % Kopf- und Fusszeilen
-\input{./inputs/input-headfoot}
+\input{./AASS.headfoot.tex}
 
 % Ausgeschlossene Kapitel
 % \input{./inputs/input-excludeonly}
@@ -176,7 +173,7 @@ bindingoffset=1.0cm}
 \loadgeometry{FullPage}
 
 \begin{titlepage}
-\input{./inputs/input-cover-front-MKATALOG}
+\input{./AASS-MKATALOG.CoverFrontBack.tex}
 
 \clearpage
 \thispagestyle{empty}

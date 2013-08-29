@@ -25,10 +25,10 @@ footnotes=multiple,
 
 \usepackage[final]{graphicx} % Bilder-Support
 
-\input{./inputs/input-optkeys}
-\input{./inputs/input-preamble}
-\input{./inputs/input-hyphenation}
-\input{./inputs/input-headfoot-Reviewprotokoll.tex}
+\input{./AASS.optkeys.tex}
+\input{./AASS.preamble.tex}
+\input{./AASS.hyphenation.tex}
+\input{./AASS-Reviewprotokoll.headfoot.tex}
 
 \makeindex
 
@@ -214,7 +214,7 @@ bindingoffset=1.5cm}
 
 \begin{titlepage}
 \loadgeometry{FullPage}\thispagestyle{empty}
-\input{./inputs/input-cover-front-Reviewprotokoll.tex}
+\input{./AASS-Reviewprotokoll.CoverFrontBack.tex}
 \end{titlepage}
 \dominitoc
 \addchap{Einleitung}
@@ -2969,7 +2969,7 @@ neue und danach das alte Kapitel angeführt.
 \newline
 \newline
 \jNEU\newpage
-\include{./chapters/chapter-PAM}
+\include{./content/chapter-PAM}
 \clearpage
 \jALT\newpage
 \begin{savequote}

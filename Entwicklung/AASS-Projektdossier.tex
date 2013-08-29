@@ -42,15 +42,12 @@ toc=flat,
 % \usepackage{blindtext}
 
 % Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{./inputs/input-optkeys}		% optional --- Optionaler Text.
+\input{./AASS.optkeys.tex}		% optional --- Optionaler Text.
 % \opt{ORG-ASBOE}{\usepackage{asboe}} % Style-Def. vor Präamble
-\input{./inputs/input-preamble}		% Präambel
-\input{./inputs/input-hyphenation}	% Trennungen
-\input{./inputs/input-title-dossier}		% Titel
-\input{./inputs/input-docinfo-dossier}		% Dokumenteinfos (Status, Version, ...)
-\input{./inputs/input-headfoot}		% Kopf- und Fusszeilen
-\input{./inputs/input-excludeonly}	% Ausgeschlossene Kapitel
-\input{./inputs/input-includeonly}	% Schliesse nur bestimmte Kapitel ein ...
+\input{./AASS.preamble.tex}		% Präambel
+\input{./AASS.hyphenation.tex}	% Trennungen
+\input{./AASS-Projektdossier.docinfo.tex}		% Dokumenteinfos (Status, Version, ...)
+\input{./AASS.headfoot.tex}		% Kopf- und Fusszeilen
 
 \renewcommand{\Abk}[1]{#1} 			% reset Abk
 

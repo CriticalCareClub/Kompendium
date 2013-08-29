@@ -42,15 +42,15 @@ toc=flat,
 % \usepackage{blindtext}
 
 % Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{./inputs/input-optkeys}		% optional --- Optionaler Text.
+\input{./AASS.optkeys.tex}		% optional --- Optionaler Text.
 % \opt{ORG-ASBOE}{\usepackage{asboe}} % Style-Def. vor Präamble
-\input{./inputs/input-preamble}		% Präambel
-\input{./inputs/input-hyphenation}	% Trennungen
-\input{./inputs/input-title}		% Titel
-\input{./inputs/input-docinfo}		% Dokumenteinfos (Status, Version, ...)
-\input{./inputs/input-headfoot}		% Kopf- und Fusszeilen
-\input{./inputs/input-excludeonly}	% Ausgeschlossene Kapitel
-\input{./inputs/input-includeonly}	% Schliesse nur bestimmte Kapitel ein ...
+\input{./AASS.preamble.tex}		% Präambel
+\input{./AASS.hyphenation.tex}	% Trennungen
+\input{./AASS.title.tex}		% Titel
+\input{./AASS.docinfo.tex}		% Dokumenteinfos (Status, Version, ...)
+\input{./AASS.headfoot.tex}		% Kopf- und Fusszeilen
+\input{./AASS.excludeonly.tex}	% Ausgeschlossene Kapitel
+\input{./AASS.includeonly.tex}	% Schliesse nur bestimmte Kapitel ein ...
 
 \renewcommand{\Abk}[1]{#1} 			% reset Abk
 
@@ -355,7 +355,7 @@ bindingoffset=1.5cm}
 \begin{titlepage}
 \loadgeometry{FullPage}\thispagestyle{empty}
 % \begin{titlepage}
-\input{./inputs/input-cover-front}
+\input{./AASS.CoverFrontBack.tex}
 
 \clearpage
 \thispagestyle{empty}
@@ -491,7 +491,7 @@ Standards ist, es gibt so viele, aus denen man auswählen kann.}
 
 
 
-\begin{WidePar}\flushleft
+\begin{WidePar}\flushleft\pagestyle{plain}
   \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
 %   
 %   \noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme} gekennzeichnete
@@ -561,20 +561,22 @@ Download-Bereich verfügbar
 {}
 {}
 
+\pagestyle{fancy}
+\clearpage
 
-\input{./inputs/input-Abkz}
+\input{./content/section-Abkz}
 
 %\nocite{*} 
 % \layout
 % \pagediagram\pagedesign\paragraphdiagram\paragraphdesign\floatpagediagram\floatpagedesign\listdiagram\listdesign\footnotediagram\footnotedesign\tocdiagram\tocdesign
 \clearpage
-\input{./inputs/input-Impressum}
+\input{./content/section-Impressum}
 
 \clearpage
-\input{./inputs/input-Credits}
+\input{./content/section-Credits}
  
  
-\input{./inputs/input-Lizenzen.tex}
+\input{./content/section-Lizenzen.tex}
 
 
 \clearpage
@@ -794,16 +796,16 @@ Wohl des Kranken ist oberstes Gebot.}}.
 \part{Allgemeiner Teil}
 % {\WideParEnd}
 
-\include{./chapters/chapter-TAE} 
-% \include{./chapters/chapter-NEW}
+\include{./content/chapter-TAE} 
+% \include{./content/chapter-NEW}
 % \addtocounter{chapter}{1}
-\include{./chapters/chapter-LER}
+\include{./content/chapter-LER}
 % Ethik im Rettungsdienst
 % 
-\include{./chapters/chapter-BET}
-\include{./chapters/chapter-RWT}
-\include{./chapters/chapter-REG}
-\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-NWG}} % STATUS-EXPERIMENTAL
+\include{./content/chapter-BET}
+\include{./content/chapter-RWT}
+\include{./content/chapter-REG}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-NWG}} % STATUS-EXPERIMENTAL
 
 % {\WideParBegin}
 \part{\enquote{Basic}\\ Grundlagen}
@@ -811,21 +813,21 @@ Wohl des Kranken ist oberstes Gebot.}}.
 \setcounter{chapter}{10}
 % \setcounter{page}{1}
 
-\include{./chapters/chapter-JUS}
-\include{./chapters/chapter-JUF}
-\include{./chapters/chapter-EHI}
-% \include{./chapters/chapter-AED}
-\include{./chapters/chapter-MP1}
-\include{./chapters/chapter-BAU}
-\include{./chapters/chapter-ASB}
-\include{./chapters/chapter-SAN}
-\include{./chapters/chapter-ASS}
-\include{./chapters/chapter-BLS}
-\include{./chapters/chapter-KHD}
-\include{./chapters/chapter-GEF}
-\include{./chapters/chapter-PSI}
-\include{./chapters/chapter-KOM}
-\include{./chapters/chapter-PAM}
+\include{./content/chapter-JUS}
+\include{./content/chapter-JUF}
+\include{./content/chapter-EHI}
+% \include{./content/chapter-AED}
+\include{./content/chapter-MP1}
+\include{./content/chapter-BAU}
+\include{./content/chapter-ASB}
+\include{./content/chapter-SAN}
+\include{./content/chapter-ASS}
+\include{./content/chapter-BLS}
+\include{./content/chapter-KHD}
+\include{./content/chapter-GEF}
+\include{./content/chapter-PSI}
+\include{./content/chapter-KOM}
+\include{./content/chapter-PAM}
 
 % {\WideParBegin}
 \part{\enquote{Basic}\\ Medizinisch-Wissenschaftlicher
@@ -834,28 +836,28 @@ Basisteil}
 \setcounter{chapter}{30}
 % \setcounter{page}{1}
 
-\include{./chapters/chapter-ANA}
-\include{./chapters/chapter-EIN}
-\include{./chapters/chapter-DOK}
-\include{./chapters/chapter-VIT}
-\include{./chapters/chapter-TOD}
-\include{./chapters/chapter-HKL}
-\include{./chapters/chapter-RSP}
-\include{./chapters/chapter-NEU}
-\include{./chapters/chapter-STW}
-\include{./chapters/chapter-ABD}
-\include{./chapters/chapter-URO}
-\include{./chapters/chapter-HYG}
-\include{./chapters/chapter-INK}
-\include{./chapters/chapter-GYN}
-\include{./chapters/chapter-KIN}
-\include{./chapters/chapter-KRI}
-\include{./chapters/chapter-PSY}
-\include{./chapters/chapter-THE}
-\include{./chapters/chapter-TOX}
-\include{./chapters/chapter-WUN}
-\include{./chapters/chapter-TRA}
-\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-SYM}}
+\include{./content/chapter-ANA}
+\include{./content/chapter-EIN}
+\include{./content/chapter-DOK}
+\include{./content/chapter-VIT}
+\include{./content/chapter-TOD}
+\include{./content/chapter-HKL}
+\include{./content/chapter-RSP}
+\include{./content/chapter-NEU}
+\include{./content/chapter-STW}
+\include{./content/chapter-ABD}
+\include{./content/chapter-URO}
+\include{./content/chapter-HYG}
+\include{./content/chapter-INK}
+\include{./content/chapter-GYN}
+\include{./content/chapter-KIN}
+\include{./content/chapter-KRI}
+\include{./content/chapter-PSY}
+\include{./content/chapter-THE}
+\include{./content/chapter-TOX}
+\include{./content/chapter-WUN}
+\include{./content/chapter-TRA}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-SYM}}
 
 
 % {\WideParBegin}
@@ -864,15 +866,15 @@ Basisteil}
 \setcounter{chapter}{60}
 % \setcounter{page}{1}
 
-% \include{./chapters/chapter-MP2}
-\include{./chapters/chapter-ALS}
-\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-ARZ}} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-NKA}}
-\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-PKU}} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-EKG}} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-WIS}} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-SPE}} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\include{./chapters/chapter-WEI}} % STATUS-EXPERIMENTAL
+% \include{./content/chapter-MP2}
+\include{./content/chapter-ALS}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-ARZ}} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-NKA}}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-PKU}} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-EKG}} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-WIS}} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-SPE}} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-WEI}} % STATUS-EXPERIMENTAL
 
 % {\WideParBegin}
 \part{\enquote{Advanced} (Fortgeschrittenes Wissen)}
@@ -881,13 +883,13 @@ Basisteil}
 
 \opt{STATUS-EXPERIMENTAL}{\chapter{Präklinische Narkose}\SectionUnderDevelopment} % STATUS-EXPERIMENTAL
 
-\include{./chapters/chapter-ADVANCED-Atemweg}
+\include{./content/chapter-ADVANCED-Atemweg}
 
-% \include{./chapters/inc-RES-ende}
+% \include{./content/inc-RES-ende}
 
 \part{Lehrmaterialien}
 
-\include{./chapters/part-Lehrmaterialien}
+\include{./content/part-Lehrmaterialien}
 
 \appendix
 % {\WideParBegin}
@@ -898,9 +900,9 @@ Basisteil}
 % \pagenumbering[Appendix]{bychapter}
 
 
-\include{./chapters/chapter-INT}
+\include{./content/chapter-INT}
 
-\include{./chapters/chapter-GLO}
+\include{./content/chapter-GLO}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -943,7 +945,7 @@ prenote=bestof]
 % \clearpage
 {\small\printindex}
 
-\input{./chapters/inc-APP}
+\input{./content/inc-APP}
 
 \Dictum
 [Faust. \\

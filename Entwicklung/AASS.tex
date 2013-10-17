@@ -456,27 +456,8 @@ Ausbildungsstandards}
 
 \clearpage
 \thispagestyle{empty}
-\begin{tikzpicture}[remember picture, overlay]
-    \node [shift={(-8 cm,-8cm)}]  at (current page.north east)
-        {%
-        \begin{tikzpicture}[remember picture, overlay]
-            \draw(0,0) rectangle (8,8);
-            \draw [fill=gray] (0,8) -- (8,8) -- (8,0) -- cycle ;
-            \path[coordinate]
-                \foreach \k in {1,...,4}{%
-                    (0 pt,8cm -\k *1.2cm) coordinate (d\k)} ;
-            \path[clip] (0,0) rectangle (8,8);
-            \foreach \k/\t in
-            {1/Name,2/Vorname,3/Kurs,4/DienstNr.}{%
-                \node[inner sep=0pt,rotate=-45,%
-                    right=0.5cm,minimum height=12pt](f\k) at (d\k) {\t};
-                \draw  (f\k.south east)-- (8cm -\k * 1.2cm,-6pt );
-            }
-        \end{tikzpicture}
-        };
-        % Draw a page border
-        \draw (current page.north west) rectangle (current page.south east);
-\end{tikzpicture}
+
+
 
 %%% uppertitleback
 
@@ -524,9 +505,29 @@ Ausbildungsstandards}
 
 \clearpage
 \thispagestyle{empty}
-
+\noindent\begin{tikzpicture}[remember picture, overlay]
+    \node [shift={(-8 cm,-8cm)}]  at (current page.north east)
+        {%
+        \begin{tikzpicture}[remember picture, overlay]
+            \draw(0,0) rectangle (8,8);
+            \draw [fill=gray] (0,8) -- (8,8) -- (8,0) -- cycle ;
+            \path[coordinate]
+                \foreach \k in {1,...,4}{%
+                    (0 pt,8cm -\k *1.2cm) coordinate (d\k)} ;
+            \path[clip] (0,0) rectangle (8,8);
+            \foreach \k/\t in
+            {1/Name,2/Vorname,3/Kurs,4/DienstNr.}{%
+                \node[inner sep=0pt,rotate=-45,%
+                    right=0.5cm,minimum height=12pt](f\k) at (d\k) {\t};
+                \draw  (f\k.south east)-- (8cm -\k * 1.2cm,-6pt );
+            }
+        \end{tikzpicture}
+        };
+        % Draw a page border
+        \draw (current page.north west) rectangle (current page.south east);
+\end{tikzpicture}
 ~
-\vspace{3cm}
+\vspace{9cm}
 
 \begin{center}
 saluti et solatio aegrorum

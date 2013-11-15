@@ -1,0 +1,4700 @@
+\documentclass[
+ngerman,
+paper=a4,
+asymmetric,
+fontsize=8pt,
+% headings=small,
+draft=false,
+openany,
+% parskip=half,
+numbers=noenddot,
+% listof=totoc,         % verschiebt Minitoc/Hyperref
+% bibliography=totoc,   % verschiebt Minitoc/Hyperref
+bibtotocnumbered,
+% index=totoc,
+% noonelinecaption,
+footnotes=multiple,
+toc=flat,
+]{scrbook}
+% \setlength{\parindent}{1.5em}
+% \usepackage{scrhack}
+
+\usepackage{luatextra}
+\usepackage{fontspec}
+
+% Optionen für Bilder:
+% [draft] .. Es werden nur Rahmen angezeigt
+% [final] .. Es werden Bilder normal angezeigt
+% [demo} .. keine Bilder
+\usepackage{graphicx} % Bilder-Support
+
+
+\input{./AASS.optkeys.tex}		% optional --- Optionaler Text. 
+\input{./AASS-KOMP-2014.preamble.tex}
+
+\usepackage[backend=bibtex8,
+babel=other,
+defernumbers=true,
+natbib,
+sorting=none,
+sortlocale=de,
+]{biblatex}
+
+% 	\bibliography{AASS.bib}
+    \addbibresource{BiblioDB-AASS.bib}
+    \addbibresource{BiblioDB-ASBOe.bib}
+	\addbibresource{BiblioDB-Med-Books.bib}
+	\addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
+	\addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
+	\addbibresource{BiblioDB-Med-Links.bib}
+	\addbibresource{BiblioDB-Med-Misc.bib}
+	\renewcommand{\labelnamepunct}{\addcolon\space}
+	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
+	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+	% 
+	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+	\DeclareFieldFormat{journaltitle}{\textsc{#1}}
+	\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+	\renewcommand{\bibfont}{\normalfont\tiny}
+	\DeclareBibliographyCategory{PAM}
+	\DeclareBibliographyCategory{BestOf}
+	\defbibnote{bestof}{Dieser Abschnitt beinhaltet besonders
+	lesenswerte Literaturreferenzen. Eine vollständgie
+	Auflistung der Quellen findet sich im Folgeabschnitt.
+	Sofern dieser nicht Teil Ihrer Distribution ist, finden
+	Sie sie auch online unter
+	\url{http://www.aass.at/download}.}
+% \usepackage{asboe}
+
+% Trennungen
+\input{./AASS.hyphenation.tex}
+
+% Dokumenteinfos (Status, Version, ...)
+\input{./AASS-KOMP-2014.docinfo.tex}
+
+% Kopf- und Fusszeilen
+\input{./AASS-KOMP-2014.headfoot.tex}
+
+% Ausgeschlossene Kapitel
+% \input{./inputs/input-excludeonly}
+
+% Schliesse nur bestimmte Kapitel ein ...
+% \input{./inputs/input-includeonly}
+
+
+
+\setcounter{errorcontextlines}{10}
+
+
+
+\renewcommand{\Abk}[1]{#1}
+
+
+
+% \renewcommand{\MassnahmenNG}[4]
+% 	{%
+% % 	#3
+% % 	\par
+% 	\begin{multicols}{2}[\protect\section{{\color{Indigo}#1:} \E{#2}}\index{#2}#3]
+% \CorrectionListsBox#4
+% 	\end{multicols}
+% 	}
+
+\renewcommand{\MassnahmenNG}[4]
+	{%
+% 	#3
+% 	\par
+	\section{{\color{Indigo}#1:} \E{#2}}\index{#2}#3
+{\CorrectionListsBox#4}
+	}
+
+\renewcommand{\MassnahmenWide}[4]
+	{%
+% 	#3
+% 	\par
+	\section{{\color{Indigo}#1:} \E{#2}}\index{#2}#3
+{\CorrectionListsBox#4}
+	}
+	
+\usepackage{AassStyleCollectionProcedures}
+\usepackage{AassStyleCollectionCoverFront}
+
+% \usepackage{xr}
+% 	\opt{VAR-VAR1}{\externaldocument[AASS-]{AASS-0.26-var1-Archiv}}
+% 	\opt{VAR-VAR2}{\externaldocument[AASS-]{AASS-0.26-var2-Archiv}}
+% \externaldocument[AASS-]{AASS}
+
+% \renewcommand{\MassnahmenNG}[4]{#1
+% 
+% #2
+% 
+% #3
+% 
+% #4}
+
+\def\ChapterCode{---}
+
+
+% #######################################################################################################
+% #######################################################################################################
+% #######################################################################################################
+% #######################################################################################################
+% #######################################################################################################
+% #######################################################################################################
+% #######################################################################################################
+% BEGIN DOCUMENT ########################################################################################
+% #######################################################################################################
+\begin{document}
+\MultiColListStart{toc}{2}
+\MultiColListStart{lofazit}{2}
+\MultiColListStart{lomassnahmen}{2}
+\DTLloaddb[headers={CODE,VERSION,UPDATE,TYPE,TITLE,REMARKS,TARGET,SUMMARY,SPECIALTY,ICD10-P,ICD10-1, ICD10-2,ICD10-3,ICD10-4,MODIFIER,LEVEL,ICD10,ICD10-TEXT}]{procedures}{procedures-export.csv}
+
+
+
+\newgeometry{verbose,
+a5paper,
+asymmetric,
+reversemarginpar,
+rmargin=13mm,
+lmargin=13mm,
+top    = 10mm,
+bottom = 10mm,
+marginparwidth = 0mm,
+footskip = 5mm,
+bindingoffset=1cm}
+
+\savegeometry{FullPage}
+
+\newgeometry{verbose,
+a5paper,
+asymmetric,
+reversemarginpar,
+rmargin=7mm,
+lmargin=7mm,
+top    =7mm,
+bottom =7mm,
+marginparwidth = 0mm,
+footskip = 5mm,
+bindingoffset=1.0cm}
+\savegeometry{WholePage}
+\restoregeometry
+
+
+
+\opt{STATUS-DRAFT-SHOWKEYS}{\renewcommand{\label}[1]{{\color{black}\fbox{{\ttfamily #1 }}}}}
+
+
+\loadgeometry{FullPage}
+
+% 1: Title
+% 2: Subtitle
+% 3: Head
+% 4: Picture
+% 5: Editors
+% 6: Bottom
+% 7: Publisher
+\CoverFrontMake
+{Arbeits- und Ausbildungsstandards\\für den Sanitätsdienst}
+{Kompendium}
+{Head}
+{Picture}
+{Editors}
+{Bottom}
+{\ARGE}
+
+\clearpage
+\thispagestyle{empty}
+
+
+%%% uppertitleback
+
+	Covergestaltung: \emph{Sebastian Gabriel.}
+
+    {Titelbild: \emph{Christoph Pallinger} }
+    
+\vfill
+    
+\begin{WidePar}\centering\begin{minipage}{8cm}
+    \begin{center} 
+        Dieses Projekt entstand in Zusammenarbeit mit dem
+        
+        \emph{\bfseries Ausbildungszentrum des ASB Floridsdorf-Donaustadt} 
+        
+        und wurde maßgeblich von der
+        
+        \emph{\bfseries Cyberservice Internetdienstleistungsgesellschaft~m.b.H.}
+        
+        und
+        
+        \emph{\bfseries topfen.net} 
+        
+        unterstützt.\vspace{2em}
+    
+        \includegraphics[width=3cm]{./icons/asb.png}
+        
+        {\sffamily\fontfamily{phv}Gruppe Floridsdorf-Donaustadt}\par\vspace{2em}
+        
+        \includegraphics[width=5cm]{./images/logos/cyberservice.png}
+    
+        {\sffamily\fontfamily{phv}www.cyberservice.net}\par\vspace{2em}
+    
+        {\Huge topfen.net}\par\vspace{1em}
+        \textit{serving the community} \par \textit{since 2001}
+    \end{center}
+    \end{minipage}
+    \vspace{2em}
+    \begin{center}
+%         {\bfseries\itshape Nur für den internen Gebrauch gem §\,42 Abs.\,6
+%         UrheberG bestimmt. Weitergabe nicht gestattet.}
+    \end{center}
+    
+    \end{WidePar}
+
+\clearpage
+\thispagestyle{empty}
+
+~
+\vspace{3cm}
+
+\begin{center}
+saluti et solatio aegrorum
+\end{center}
+
+
+
+\bigskip
+
+\bigskip
+
+\bigskip
+
+\bigskip
+
+\bigskip
+
+\bigskip
+
+\bigskip
+
+\bigskip
+
+\bigskip
+
+\bigskip
+
+\dictum[Andrew S. Tanenbaum (übersetzt)]{Das Schöne an Standards
+ist, es gibt so viele, aus denen man auswählen kann.}
+
+\vfill
+
+\begin{center}
+\Speech{"`Früher war mehr Lametta."'}
+
+\bigskip
+
+\bigskip
+
+in memoriam
+
+Vicco von Bülow (\VonBis{1923}{2011})
+
+
+\vspace{3cm}
+
+\end{center}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\opt{STATUS-DRAFT}{{\scriptsize\listof{warning}{Verzeichnis der Warnungen}}}
+
+
+
+\restoregeometry
+
+\addsec{Benutzungshinweise}
+
+Der vorliegende Maßnahmenkatalog ist ein Begleitwerk zu den
+Arbeits- und Ausbildungsstandards für den Sanitätsdienst
+(\AASS). Die zum Zeitpunkt des Redaktionsschlusses
+korrespondierende Ausgabe ist die Version \VarAassVersion.
+Alle Verweise auf die {\AASS} 
+beziehen sich auf diese Version, und können von einer
+späteren Ausgabe abweichen.
+
+\addsec{Lizenz der {\AASS}}
+
+Die Inhalte der {\AASS} als Gesamt- und Sammelwerk unterliegen 
+den Nutzungsbedingungen der Creative-Commons-Lizenz \Speech{\enquote*{Namensnennung --
+Keine Bearbeitungen 3.0 Österreich}} (\I{CC-BY-ND/3.0/at}, 
+abrufbar
+unter
+\url{http://creativecommons.org/licenses/by-nd/3.0/at/}).
+
+Davon nicht berührt sind die Lizenzbedingungen von eingearbeiteten Werken
+(z.\,B. Bilder und Grafiken), die davon abweichende
+Lizenzbestimmungen aufweisen können.
+
+{\minisec{Kurzfassung der Nutzungsbestimmungen (unverbindlich):}
+
+\begin{itemize}
+  \item Sie dürfen dieses Werk
+  \begin{itemize}
+    \item das Werk bzw. den Inhalt vervielfältigen, verbreiten und öffentlich zugänglich machen
+    \item das Werk kommerziell nutzen
+  \end{itemize}
+  \item Zu den folgenden Bedingungen: 
+\begin{itemize}
+  \item \EE{Namensnennung} -- Sie müssen den Namen des
+  Autors/Rechteinhabers in der von ihm festgelegten Weise
+  nennen.
+    \item \EE{Keine Bearbeitung} -- Dieses Werk bzw. dieser
+    Inhalt darf nicht bearbeitet, abgewandelt oder in
+    anderer Weise verändert werden.
+  \end{itemize}
+\end{itemize}
+\EE{Hinweis} -- Im Falle einer Verbreitung müssen Sie
+anderen alle Lizenzbedingungen mitteilen, die für dieses
+Werk gelten. Am einfachsten ist es, an entsprechender Stelle
+einen Link auf \url{http://creativecommons.org/licenses/by-nd/3.0/at/} einzubinden.
+}
+
+
+%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
+\dominitoc[n]
+
+\begin{WidePar}
+%   {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
+% \tableofcontents
+\end{WidePar}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Index
+% \clearpage
+{\small\printindex}
+
+
+\chapter{Erste-Hilfe}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Bewusstlosigkeit}{\label{m:ehi-bewusstlosigkeit}}{
+\begin{itemize}
+    \item Stabile Seitenlage
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Atem- und
+Kreislaufstillstand}{\label{m:ehi-atem-kreislaufstillstand}}{
+\begin{itemize}
+  \item Herz-Lungen-Wiederbelebung (Reanimation)
+  \begin{itemize}
+    \item Herzdruckmassage
+    \item Beatmung
+  \end{itemize}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Starke
+Blutung}{\label{m:ehi-starke-blutung}}{
+\begin{itemize}
+  \item Blutstillung
+  \begin{itemize}
+    \item Hochhalten der betroffenen Gliedmaße
+    \item Zudrücken,
+    \item Abdrücken einer blutzuführenden Arterie,
+    \item Druckverband,
+    \item Abbindung.
+  \end{itemize}
+\end{itemize}
+
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Schockbekämpfung}{\label{m:ehi-schockbekaempfung}}{
+
+\begin{itemize}
+  \item Ursache beseitigen (wenn möglich), ggfs. Blutstillung
+  \item Beengende Kleidungsstücke öffnen
+  \item Situationsgerechte Lagerung
+  \item Wärmeerhalt
+  \item Beruhigender Zuspruch
+  \item Beobachtung
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Bagatellverletzungen}{\label{m:ehi-bagatellverletzungen}}{
+
+\begin{itemize}
+  \item Wunde reinigen
+  \item Evtl. steriler Wundverband
+  \item Auf den Tetanusschutz achten
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verbrennungen}{\label{m:verbrennung-eh}}{
+\begin{itemize}
+  \item Hitzeeinwirkung sofort stoppen.
+  \item Wenn 
+  \begin{itemize}
+    \item innerhalb von 2 Minuten
+  möglich,
+    \item Ausdehnung <\,20\PC* (Kinder <\,10\PC, Säuglinge
+    <\,10\PC*) 
+  \end{itemize}  für \E{maximal 10\Min* mit} mit
+    handwarmen Wasser kühlen (Richtwert 20\,\DegC); 
+    
+    andernfalls ist keine Kühlung durchzuführen
+  \cite{Asanger2010,ASBOEAkademieUpdate2010Verbrennung}.
+  
+  \Ca{Achtung: Gefahr der Unterkühlung!}
+  \item Wärmeerhalt ist besonders wichtig!
+  \item Keimfreier Wundverband
+  \item Schockbekämpfung
+  \item \Ca{Keine Salben oder Puder etc. verwenden}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Erfrierungen}{\label{m:ehi-erfrierungen}}{
+
+\begin{itemize}
+  \item Keimfreier Wundverband
+  \item Restlichen Körper aufwärmen
+  \item Warme, gezuckerte Getränke verabreichen
+  \item Keinen Alkohol zu trinken geben!
+  \item Nicht frottieren! 
+%   % Erfrierungen sind lokal, daher hier kein Hinweis auf
+%   % Bergungstod
+%   sog.
+%   \Ca{Bergungstod!}\footnote{Unter dem Begriff \emph{Bergungstod} versteht
+%   man das Versterben des Patienten während der Rettung in Folge eines Blutrückflusses
+%   aus der kalten Körperschale in den wärmeren Körperkern, welcher durch die
+%   Bewegung des Patienten während der Rettung ausgelöst wird.}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Unterkühlung}{\label{m:ehi-unterkuehlung}}{
+
+\begin{itemize}
+  \item Aufwecken und wach halten
+  \item Vorsichtig in Decken oder Kleidungsstücke einwickeln
+  \item Rettungsdienst verständigen
+  \item Warme Getränke verabreichen, wenn Patient bewusstseinsklar ist
+  \item Keinen Alkohol zu trinken geben!
+  \item Keinesfalls bewegen oder frottieren: sog.
+  \Ca{Bergungstod!}\footnote{Unter dem Begriff \emph{Bergungstod} versteht
+  man das Versterben des Patienten während der Rettung in Folge eines Blutrückflusses
+  aus der kalten Körperschale in den wärmeren Körperkern, welcher durch die
+  Bewegung des Patienten während der Rettung ausgelöst wird.}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verstauchung}{\label{m:ehi-verstauchung}}{
+
+\begin{itemize}
+  \item Ruhigstellung
+  \item Kalte Umschläge
+  \item Unfallabteilung aufsuchen
+  \item Hochlagern % ZWING 2010-03-xx
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verrenkung}{\label{m:ehi-verrenkung}}{
+
+\begin{itemize}
+    \item Vorgefundene Stellung beibehalten
+    \item Ruhigstellung
+    \item Rettungsdienst verständigen
+    \item Keine Einrenkversuche!
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Knochenbrüche}{\label{m:ehi-knochenbrueche}}{
+
+\begin{itemize}
+    \item Ruhig liegen lassen
+    \item Wundversorgung bei offenen Knochenbrüchen
+    \item Beengende Kleidungsstücke lockern
+    \item Schuhe öffnen, nicht ausziehen
+    \item Ruhigstellung durch unterstützte Lagerung
+    \item Schockbekämpfung
+\end{itemize}
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Vergiftungen}{\label{m:ehi-vergiftungen}}{
+\begin{itemize}
+    \item Patient nicht ansprechbar:
+    \begin{itemize}
+        \item Retten aus der Gefahr (Selbstschutz!)
+        \item Lebensrettende Sofortmaßnahmen
+    \end{itemize}
+    \item Patient ansprechbar:
+    \begin{itemize}
+        \item Wenn das Gift bekannt ist, Vergiftungsinformationszentrale
+        (\Code{01\,/\,406\,43\,43}) anrufen und \E{Expertenrat} einholen.
+        \item Wenn Gift unbekannt: Betreuen und → Notruf/Krankenhaus.
+        \item Selbstschutz!
+        \item Giftstoffe sichern und mitnehmen.
+    \end{itemize}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verätzungen der
+Haut}{\label{m:ehi-veraetzungen-haut}}{
+
+\begin{itemize}
+   \item \Ca{Selbstschutz} beachten!
+    \item Mit ätzender Substanz getränkte Kleidung entfernen
+    \item Haut mit reinem Wasser abspülen
+    \item Keimfreier Wundverband
+    \item Evtl. Schockbekämpfung
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verätzungen der
+Augen}{\label{m:ehi-veraetzungen-augen}}{
+
+\begin{itemize}
+    \item Auge mit reinem Wasser von innen nach außen ausspülen. Abwasser
+    \E{nicht über das gesunde Auge} abrinnen lassen
+    \item Auge mit keimfreiem Wundverband bedecken; zum Ruhigstellen \E{beide}
+    Augen bedecken
+    \item Selbstschutz beachten!
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Erste-Hilfe-Maßnahmen}{Verätzungen des
+Verdauungstraktes}{\label{m:ehi-veraetzungen-verdauungstrakt}}
+{ 
+\begin{itemize}
+    \item Mund mit Wasser ausspülen
+    \item Nicht erbrechen lassen!
+    \item Substanz bekannt → Vergiftungsinformationszentrale anrufen
+    \item evtl. Schockbekämpfung
+    \item Selbstschutz beachten!
+\end{itemize}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\chapter{Allgemeine Sanitätshilfemaßnhamen}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Sauerstoffberieselung}
+{\label{m:sauerstoffberieselung}}
+{%
+Bei jedem Patienten, bei dem eine
+lebensbedrohliche Störung einer vitalen Funktion eingetreten
+ist oder einzutreten droht (\enquote{Notfallpatient}), soll,
+sofern keine Kontraindiktaionen vorliegen, soviel Sauerstoff
+verabreicht werden, sodass die Sauerstoffsättigung
+(Sp\ce{O2}) im Bereich von \EE{\VonBis{94}{98}\PC*} erreicht wird.
+
+\begin{enumerate}
+  \item Kontraindikationen und Gegenanzeigen prüfen:
+  \begin{itemize}
+    \item COPD (\FullPrettyRef{AASS-topic:copd})
+    \item Hyperventilationssyndrom, Hyperventilationstetanie
+    (\FullPrettyRef{AASS-topic:hyperventailationssyndrom})
+  \end{itemize}
+  \item Situationsgerechte Dosierung je nach
+  zugrundeliegender Erkrankung. Grundsätzlich soll ein
+  Sp\ce{O2} von
+\EE{\VonBis{94}{98}\PC*} erreicht werden. Steht keine Pulsoxymetrie zur Verfügung, ist als
+Richtwert von einer Dosis von \EE{8\LPerMin*} auszugehen,
+welche dem klinischen Zustand des Patienten angepasst werden
+muss.
+  \item Auswahl des Hilfsmittels:
+  \begin{itemize}
+    \item \E{Sauerstoff\-brille}
+    \ce{O2}-Flow bis~5\LPerMin*,
+    \item \E{Sauerstoff\-maske}
+    \ce{O2}-Flow ab 5\LPerMin*,
+    \item \E{Sauerstoff\-maske mit
+    Reservoir} \ce{O2}-Flow ab 5\LPerMin*,
+  \end{itemize}
+  \item Patientenaufklärung
+  \item Sauerstoffgerät einschalten und Durchflußrate
+  einstellen
+  \item Bei Verwendung einer Sauerstoff\-maske mit
+  Reservoir: Reservoir füllen
+  \item Sauerstoffbrille/-maske positionieren 
+\end{enumerate} 
+
+\cite{AsboeLehrmeinungRd2011-09}
+}
+
+
+\cleardoublepage
+
+\chapter{Allgemeines Patientenmanagement}
+
+\label{apm}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Standardmaßnahmen}{Immer durchzuführende
+Standardmaßnahmen}
+{\label{m:standardmassnahmen-immer}}{%
+Die folgenden Maßnahmen sind grundsätzlich immer in einer \E{der Situation
+angemessenen} Art und Weise durchzuführen. Im begründeten Ausnahmefall kann es
+allerdings notwendig oder sinnvoll sein, dass manche Maßnahmen unterbleiben oder
+aufgeschoben werden (Auf Grund des Selbstschutzes, \enquote{Aufklärung} eines bewusstlosen Patienten,
+\ldots{}) oder angepasst werden müssen.
+
+{\scriptsize (Die Reihenfolge ist der jeweiligen Situation anzupassen!)}
+\begin{itemize}
+  \item Einschätzungsblock (\prettyref{m:einschaetzungsblock}?
+  \item Beengende oder behindernde Kleidung entfernen bzw.
+  öffnen
+  \item Situationsgerechte Lagerung
+  \item \E{Wärmeerhalt} oder \E{Kühlung}
+  \item Angemessene Erhebung der Anamnese 
+  \item Angemessene Untersuchung 
+  \item Spezielle Maßnahmen gemäß Verdachtsdiagnose(n)
+  \item Patientenidentifkation
+  \item Dokumentation, Aufklärung
+  \item Psychischer Beistand
+  \item Verlaufskontrolle, Patientenbeobachtung, Monitoring
+  \columnbreak
+  \item Weiteres Vorgehen, je nach Bedarf und Situation:
+  
+  
+ 
+  \begin{itemize}\label{tab:pam-weiterfuehrende}
+    \item Transportentscheidung und ggfs. Transport an eine
+    geeignete Einrichtung (Krankenanstalt).
+    \item Notarzt-Nachforderung (bei Bedarf, z.\,B. Schmerztherapie,
+    Aufklärung zwecks \E{Belassung}\index{Belassung} auf
+    Patientenwunsch \E{trotz Behandlungsnotwendigkeit}, \ldots)
+%     \item Unterlassung der Intervention wenn
+%     \E{offensichtlich} kein sanitätsdienstliches Problem
+%     besteht (Fehlalarmierung) 
+%     Behandlungsbedarf/-wunsch
+%     besteht und eine gesundheitliche Gefährdung des Patienten ausgeschlossen werden kann.
+    \Ca{Rechtliche Hinweise beachten!}
+    \item Patient begibt sich selbstständig in weitere
+    Behandlung. Z.\,B. Bagatellverletzungen (z.\,B.
+    oberflächliche Schürfwunde) ist es zulässig, dass sich
+    der Patient selbständig in ärztliche Behandlung begibt.
+    Das Anraten, eine ärztliche Behandlung aufzusuchen, ist
+    zu dokumentieren und ggfs. vom Patienten per
+    Unterschrift bestätigen zu lassen (Revers). Über Risiken
+    muss aufgeklärt (und diese Aufklärung ebenfalls
+    dokumentiert) werden.
+  \end{itemize}
+  \item Ggfs. Übergabe an weiterbehandelndes Personal
+\end{itemize}
+
+% \Commentary[Immer durchzuführende Maßnahmen, Belassung]
+%   {Die Frage, wie nichtärztliches Personal
+%   bei einer Transportverweigerung oder vermeintlich nicht
+%   vorliegender Behandlungsbedürftigkeit/Spitalspflichtigkeit
+%   vorzugehen hat, ist nach wie vor nicht
+%   zufriedenstellend beantwortet.\ParBugfix
+%   Zur rechtlichen Lage in Österreich: Die Untersuchung auf
+%   das Vorliegen oder Nichtvorliegen von
+%   körperlichen und psychischen Krankheiten oder Störungen
+%   ist im \protect\S\,2 Abs.~2 Z.~1 ÄrzteG geregelt und hat keine
+%   Entsprechung im SanG; somit fällt die Feststellung, ob
+%   eine Behandlungsbedürftigkeit besteht unter den
+%   Ärztevorbehalt, d.\,h. ist den Ärzten vorbehalten. \ParBugfix
+%   \protect\Speech{\enquote{Ob Behandlungsbedarf vorliegt, kann nur
+%   von einem Arzt entschieden werden. Denn die dafür erforderliche
+%  Diagnose von (behaupteten) Krankheitszuständen fällt unter
+%  \protect\S\,2 Abs.~2 Z.~1  ÄrzteG und ist daher den Ärzten
+%  vorbehalten.}} OGH (4 Ob 36/10p)
+%  \ParBugfix
+%  Das \enquote{selbstständige Begeben in ärztliche Behandlung}
+%  stellt keine Verneinung des Vorliegens einer Erkankung
+%  oder gesundheitlichen Störung sowie deren 
+%  grundsätzlicher Behandlungsnotwendigkeit dar.} % Commentary
+ }
+
+\pagestyle{empty}\loadgeometry{WholePage}\clearpage
+\noindent\begin{minipage}{\linewidth}
+% \noindent{\sffamily{\color{ubuntured}%
+% {\bfseries\Huge\color{DefaultA}
+% Patientenmanagement}%\bigskip 
+% 
+% Arbeits- und Ausbildungsstandards} {\color{darkBlue}für den Sanitätsdienst}} | {\AASS} 
+% \hfill\textsf{\DocVersion}
+
+% \bigskip
+
+\Layout{57}{}{}{}
+{\includegraphics[width=\linewidth]{./images/emhofer-josef-aass/PAMneuAugust2012}}
+{Graphische Übersicht: \EEE{Standardisierte Patientenversorgung}}
+{}
+
+\vfill
+
+\Layout{57}{}{}{}{%
+\small
+\begin{tabularx}{\linewidth}{XXX}
+\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Massive Störung}
+&
+\noindent\TabHeading{Alarm-Symptome}
+&
+\noindent\TabHeading{Alarm-Diagnosen}
+\\\addlinespace\midrule\addlinespace
+Bewusstsein
+
+Atemweg / Atmung 
+
+Kreislauf 
+
+(BeABC)
+&
+Atemnot, die sich nicht bessert 
+
+Brodelndes Atemgeräusch 
+
+Thoraxschmerz  
+
+Schocksymptome 
+
+entgleiste Vitalwerte
+
+schwere Verletzungen
+
+Hirndruckzeichen
+
+{\dots} 
+&
+Herzinfarkt
+
+Kardiales Lungenödem
+
+Status Epilepticus
+
+Beckenfraktur
+
+Rückenmarksverletzung
+
+\ldots
+\\\addlinespace\bottomrule
+\end{tabularx}
+}{{\color{DefaultRed}\bfseries{\VarFlag}} \Ca{Alarmzeichen:}
+Wann ist eine vitale Bedrohung
+wahrscheinlich? Eine Übersicht.\label{tab:alarmzeichen}}{}
+
+\vfill
+\noindent{\sffamily\small{\textcopyright} \today\ \ARGEAASS \hfill \url{http://www.aass.at}}
+\end{minipage}
+\clearpage
+% 
+% \vspace{-\baselineskip}~
+% ~
+\vfill
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenWide{Standardmaßnahmen}{Einschätzungsblock}
+{\label{m:ersteinschaetzung}\label{m:einschaetzungsblock}}
+{%
+\CorrectionItemizeBox\renewcommand{\itemhook}{%
+%   \setlength{\topsep}{0pt}%
+  \setlength{\itemsep}{0.004\baselineskip}
+%   \setlength{\parskip}{\baselineskip}
+  \setlength{\leftmargin}{1.4em}
+  \setlength{\labelwidth}{0.9em}
+}
+\noindent\begin{minipage}[t]{\linewidth -
+{2\fboxrule} - {2\fboxsep}}
+\noindent\begin{minipage}[t]{\linewidth}
+{\vspace{-2\baselineskip}%
+\scriptsize
+% \begin{tabulary}{\linewidth}[H]{cp{8em}p{8.5cm}}
+\begin{tabularx}{\linewidth}[H]{p{1.5cm}XX}
+% \toprule\addlinespace
+&
+\TabHeading{Beurteilung / Untersuchung}
+&
+\TabHeading{Typische Sofortmaßnahmen}
+\\\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Szeneüberblick m. Schutz}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Sicherheit, Selbstschutz; Patientenanzahl; 
+  \item Umgebung, Ort,
+Zeit, Gefahrenzonen, Umstände,
+\item Weitere Resourcen erforderlich? Unfallmechanismus,
+Großschaden
+\item Lagemedlung erforderlich
+\item \EE{Trauma?} \EE{Mechanismus?}
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item GAS-Maßnahmen 
+  \item Lagemeldung
+  \item Schutzausrüstung
+  \item Nachforderung weiterer Kräfte
+\end{itemize}
+\end{minipage}
+\\\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Eindruck}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Alter, Geschlecht, \EE{Hautfarbe}, Gesichtsausdruck,
+  \EE{Haltung}, spontane Bewegungen,  Sprache
+  \item Offensichtliche Verletzungen, Blutungen
+  \item Sonstige \EE{Auffälligkeiten}
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Manuelle HWS-Fixierung
+  \item Stillung von starken Blutungen
+  \item Bewegungsverbot
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\noindent\TabHeading{Bewusstsein}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item \EE{Bewusstseinsgrad} (WASB)
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item NA-Nachforderung
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\noindent\TabHeading{Hauptbeschwerde}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item \EE{Berufungsgrund} und
+  \EE{Leitsymptome}
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\end{minipage}
+\\\addlinespace\toprule\addlinespace
+\noindent\T{A}
+
+\TabHeading{Atemweg}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item *Inspektion der Atemwege (\EE{Mund}, \EE{Nase})
+  \item \EE{Atemgeräusche}
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Absaugung, Fremdkörper entfernen
+  \item Kopf überstrecken, Esmarch-Handgriff
+  \item HWS-Immobilisation manuell oder mit Schiene
+  \item \Z{Erweiterte Maßnahmen}
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\noindent\T{B}
+
+\TabHeading{Atmung}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Schätzen: \EE{Atemfrequenz}, \EE{-tiefe}
+  \item *\EE{Sp\ce{O2}}
+  \item Atemgeräusche
+  \item Inspektion der \EE{Thorax-Atembewegungen}, ggfs. 
+  Atemprobe
+  \item \E{Zeichen der
+  Atemnot}: Hautfarbe, Bauch-/Thorax\-bewegungen,
+  Anstrengung beim Atmen, Atemhilfsmuskulatur, \ldots
+  \item \Z{(Auskultation: Seitenvergleich, Lungenbasen)}
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Reanimation
+  \item Assistierte Beatmung (bei AF \textless\,8 oder
+  \textgreater\,30\PerMin*)
+  \item \ce{O2}-Gabe
+  \item Situationsgerechte Lagerung
+  \item \Z{Erweiterte Maßnahmen\\(Entlastung
+  Spannungspneumothorax, \ldots )}
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\noindent\T{C}
+
+\TabHeading{Kreislauf}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item \EE{Hautfarbe}, \EE{-temperatur}
+  \item Schweiß
+  \item \EE{Rekap}-Zeit
+  \item \EE{Radialispuls}: Stärke, Rhythmus, Abschätzen der
+  Frequenz
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\itshape\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Blutstillung
+  \item Situationsgerechte Lagerung
+\end{itemize}
+\end{minipage}
+\\\addlinespace\cmidrule{2-3}\addlinespace
+\noindent\TabHeading{*STU}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Inspektion
+  und Abtasten von
+  \begin{inparaenum}
+    \item \EE{Kopf} inkl. Ohren,
+    \item \EE{Hals},
+    \item \EE{Thorax},
+    \item \EE{Bauch},
+    \item \EE{Becken} und
+    \item \EE{Oberschenkel}
+  \end{inparaenum}
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Blutstillung
+  \item Situationsgerechte Lagerung
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\noindent\T{D}
+
+\TabHeading{Schnelle\newline Untersuchung}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Vitalwerte (\EE{HF}, \EE{RR})
+  \item Neurologisch:
+  \begin{inparaitem}
+    \item \EE{Orientierung} oder *\EE{GCS}
+    \item \EE{Pupillen}
+    \item \EE{Kraftprobe OE}, *UE
+    \item *Kann der
+    Patient \EE{Hände} und \EE{Füße} spüren und aktiv
+    bewegen?
+  \end{inparaitem}
+  \item *\EE{Blutzuckermessung}
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Transportentscheidung (eilig, Rendez-vous, \ldots)
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\noindent\T{E}
+
+\TabHeading{Erweiterte\newline Untersuchung}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item (Fremd-) \EE{Anamnese} (SAMPLE, OPQRST)
+  \item Einschätzen der \EE{Umgebung}
+  \item Weitere relevante \EE{Untersuchungen}
+  \item Arbeitsdiagnose erstellen und Differentialdiagnosen
+  ausschließen
+\end{itemize}
+\end{minipage}
+&
+\noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+\begin{itemize}
+  \item Transportentscheidung 
+  \item Spezielle Maßnahmen gemäß Verdachtsdiagnose
+\end{itemize}
+\end{minipage}
+% \\\addlinespace\bottomrule\addlinespace
+% \TabHeading{Beurteilung}
+% &
+% \begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item \EE{Einschätzen der vitalen Bedrohung}
+%   ständig während des gesamten Blocks
+%   \item Vorläufige Verdachtsdiagnose formulieren
+% \end{itemize}
+% \end{minipage}
+% &
+% \noindent\color{Indigo}\begin{minipage}[t]{\linewidth}
+% \begin{itemize}
+%   \item {\TxMassVit}
+%   \item Reihenfolge der weiteren Untersuchungen und
+%   Maßnahmen festlegen
+% \end{itemize}
+% \end{minipage}
+\\\addlinespace\bottomrule
+\end{tabularx}
+
+\vspace{-0.5\baselineskip}\begin{center}
+  \EE{Der Einschätzungsblock muss in regelmäßigen Abständen
+in angemessenem Umfang wiederholt
+werden (Verlaufskontrolle)!}
+
+{\tiny Mit einem * versehene Punkte werden nur durchgeführt,
+wenn sie \E{situationsentsprechend} sind. \enquote{Typische
+Sofortmaßnahmen} sind als \E{Beispiele} zu verstehen.
+Bei \Ca{absolut zeitkritischen Patienten}, bei denen bereits die 
+ABC-Einschätzung ergibt dass ein Transport nicht aufschiebbar ist, 
+kann u.\,U. schon \Ca{nach C eine vorgezogene Strategie- 
+und Transportentscheidung} getroffen werden. 
+D und E sollen dann, sofern möglich, während des 
+Transportes erfolgen. }
+\end{center}
+}
+\end{minipage}
+\end{minipage}\vspace{-\baselineskip}
+}
+
+\vfill
+\restoregeometry\pagestyle{fancy}
+
+\Layout{57}{}
+{}
+{}
+{%
+\begin{minipage}{\linewidth}
+\FontTableBase\footnotesize
+{\sffamily\FontTableBase\footnotesize\CorrectionItemizeBox\renewcommand{\itemhook}{%
+%   \setlength{\topsep}{0pt}%
+  \setlength{\itemsep}{0.005\baselineskip}
+%   \setlength{\parskip}{\baselineskip}
+  \setlength{\leftmargin}{1.4em}
+  \setlength{\labelwidth}{0.9em}
+}
+\begin{tabulary}{\linewidth}[H]{lCL}
+\toprule\addlinespace
+{\multirow{6}{2cm}{\TabHeading{Anamnese}}}
+ &
+{\sffamily\textbf S}
+ &
+Symptome {\&} Schmerzen: OPQRST
+
+{\tiny(Lokalisation, Stärke,  Qualität, Zeit/Verlauf, 
+ Ausstrahlung, Linderung/Verstärkung)}
+\\\addlinespace
+ &
+{\sffamily\textbf A}
+ &
+Allergien/Allergische Reaktion (auch
+Allergien auf Medikamente)
+\\\addlinespace
+ &
+ {\sffamily\textbf M}
+ &
+Medikamente {\tiny(Nimmt Patient Medikamente?
+Wogegen sind diese?)}
+\\\addlinespace
+ &
+{\sffamily\textbf P}
+ &
+Patientengeschichte: Krankheiten {\tiny(chronische, frühere
+K.)}, Operationen, \ldots 
+\\\addlinespace
+ &
+ {\sffamily\textbf L}
+ &
+Letzte ... (zB letzte Mahlzeit, letzte
+Regelblutung, letzter Spitalsaufenthalt)
+\\\addlinespace
+ &
+ {\sffamily\textbf E}
+ &
+Ereignisse vor Notfalleintritt {\tiny(zB
+Anstrengung vor Brustschmerz, Sturz, ...)}
+\\\addlinespace\midrule\addlinespace
+
+{\multirow{8}{2cm}{\TabHeading{Diagnostik}}}
+ &
+{\sffamily AF}
+ &
+Atemfrequenz auszählen
+\\\addlinespace
+ &
+({\sffamily Sp\ce{O2}})
+ &
+Sauerstoffsättigung im Blut, Monitoring
+\\\addlinespace
+ &
+{\sffamily  BZ}
+ &
+Blutzucker {\tiny(Wann war die letzte
+Mahlzeit/Insulinspritze? Diabetes bekannt?)}
+\\\addlinespace
+ &
+{\sffamily Temp.}
+ &
+Körpertemperatur/Fieber
+\\\addlinespace
+ &
+ {\sffamily\small Neuro\-status}
+ &
+(Bewusstseinsgrad), Orientierung,
+Pupillen, Halbseitenzeichen, Herdblick, Meningismus,
+retrograde Amnesie
+\\\addlinespace
+ &
+{\sffamily\small Trauma\-check}
+ &
+Abnorme Beweglichkeit, DMS an allen
+Extremitäten (Nagelbettprobe), Wunden, paradoxe Atmung,
+Abwehrspannung des Bauches, ...
+\\\addlinespace
+ &
+{\sffamily\small Körp. Unt.}
+&
+Sonstige körperliche Untersuchungen: Abdomen abtasten,
+Körperstellen inspizieren, \ldots
+\\\addlinespace
+ &
+{\sffamily\small \ldots}
+&
+EKG, Kapnometrie, \ldots
+\\\addlinespace\midrule\addlinespace
+\TabHeading{Maßnahmen}
+&
+&
+\begin{minipage}{\linewidth}
+\begin{itemize}
+  \item (Lagerung)
+  \item Verband, Blutstillung
+  \item Schienung
+  \item psychischer Beistand
+  \item \EE{Wärmeerhaltung / Kühlung}
+  \item Entscheidung Notarzt-Nachforderung wegen
+  Schmerztherapie oder Aufklärung/Belassung
+  \item {\TxMassOGabe}
+  \item Regelmäßige \EE{Wiederholung des
+  Einschätzungsblockes} {\tiny(in angemessenem Umfang)}
+  \item \EE{Immer durchzuführende Standardmaßnahmen}
+  (\prettyref{m:standardmassnahmen-immer})
+  \item \ldots
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\TabHeading{Assistenz}
+&
+&
+\begin{minipage}{\linewidth}
+\begin{itemize}
+  \item EKG anlegen
+  \item Infusion/periphervenösen Zugang vorbereiten
+  \item Intubation vorbereiten
+  \item Medikamente vorbereiten
+  \item \ldots
+\end{itemize}
+\end{minipage}
+\\\addlinespace\midrule\addlinespace
+\TabHeading{Transport}
+&
+&
+\begin{minipage}{\linewidth}
+\begin{itemize}
+  \item Welches Spital/Bett buche ich ab? {\tiny(Arbeitsunfall?
+  Welche Abteilung fahre ich an? Ist der Patient bereits in
+  einem Spital in Behandlung? Spitalsbehandlung vor kurzer
+  Zeit (\enquote{Reklamation})?)}
+  
+  Brauche ich eine Spezialabteilung? {\tiny(Schockraum, Stroke
+  Unit, PTCA, Verbrennungsstation)}
+  \item Übergabe {\tiny(Anamnese, Befunde, Maßnahmen, Hinweise)}
+\end{itemize}
+\end{minipage}
+
+\\\addlinespace\bottomrule
+\end{tabulary}}
+
+{\scriptsize\EE{Fett} gedruckte Punkte haben eine besonders hohe Priorität, (eingeklammerte) Punkte sollten schon als Teil des Einschätzungsblockes abgehandelt worden sein.}
+\end{minipage}
+}
+{Kurzübersicht: \EEE{Weiterführende Untersuchungen und Anamnese}.
+Die Reihenfolge ist je nach Patient
+unterschiedlich!\label{tab:checkliste-patientenmanagement}\label{tab:pam-weiterfuehrende}.}
+{}
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Standardmaßnahmen}{Standardmaßnahmen bei vital bedrohten Patienten}{\label{m:standardmassnahmen-vital}}{
+\label{topic:standardmassnahmen-vital}%
+
+\begin{enumerate}
+  \item \EE{Situationsgerechte Lagerung}
+  \item \EE{Sauerstoffgabe}
+  (\prettyref{m:sauerstoffberieselung}): je nach Indikation,
+  allgemeiner Zielwert: Sp\ce{O2} von \VonBis{94}{98}\PC*
+  \item Ggfs. \EE{Notarzt-Nachforderung} :
+  mit kurzer Begründung
+  
+  \Ca{Bei manchen Notfällen keine Notarztnachforderung wenn
+  der Patient zeitkritisch ist, siehe jeweilige spezielle
+  Maßnahmen!}
+  \item \EE{Engmaschiges, bestmögliches Monitoring}: Je nach
+  vorhandenem Material
+  
+  RR, HF, Pulsoxymetrie, EKG,
+  Sitzwache/Patientenbeobachtung, etc.\footnote{Zuerst werden die Patientenbeobachtung
+  und -- wenn vorhanden -- die
+  Pulsoxymetrie eingesetzt. Überwachungsgeräte, deren Anlage
+  zeitintensiv ist (EKG, \ldots), sollen erst dann verwendet
+  werden, wenn alle dringlicheren Maßnahmen durchgeführt und
+  der Einschätzungsblock beendet ist! Die
+  Patientenbeobachtung bleibt immer ein wesentlicher Teil
+  des Monitorings!}
+  \item \EE{Reanimationsbereitschaft} herstellen
+  (\prettyref{m:reanimationsbereitschaft})
+\end{enumerate}
+
+{\scriptsize(Reihenfolge zählt!)}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Standardmaßnahmen}
+{Reanimationsbereitschaft}
+{\label{m:reanimationsbereitschaft}}
+{%
+\begin{enumerate}
+  \item Ggfs. Platz schaffen\footnote{z.\,B. im Wohnzimmer den Couchtisch, Hocker etc. zur Seite schieben}
+  \item Geräte vorbereiten:
+\begin{enumerate}
+    \item \EE{Beatmungsbeutel}
+    \item \EE{Absaugeinheit} und passenden Katheter  in
+    Griffweite stellen. Steriles Material bleibt verpackt.
+    \item \EE{Defibrillator} in Griffweite stellen,
+    Elektroden und Verbrauchsmaterial bleiben verpackt.
+  \end{enumerate}
+\end{enumerate}
+
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Standardmaßnahmen}
+{Einschätzung der Indikation zur Wirbelsäulenimmobilisation}
+{\label{m:einschaetzung-indikation-ws-immobilisation}}
+{%
+% \marginnote{\includegraphics[width=\marginparwidth]{./images/pallinger-christoph-aass/Spiderstrap_32954-AASS-0112mm.jpg}}
+Eine Immobilisation der Wirbelsäule ist notwendig bei
+Traumapatienten, bei denen folgendes zutrifft:
+
+\begin{enumerate}
+  \item \EE{Typischer Unfallmechanismus}
+  \begin{itemize}
+    \item Hochgeschwindigkeitsunfall
+    \item Sturz $\geq$ 3\Meter* oder 3fache Patientengröße
+    \item Penetrierende Verletzungen im Bereich der
+    Wirbelsäule
+    \item Sportverletzungen im Kopf- oder Nackenbereich
+    \item Trauma nach Sprung ins Wasser
+    \item Stauchungsverletzung der HWS (z.\,B. Schlag auf
+    Kopf)
+    \item Suizidversuch durch Erhängen
+    \item Bewusstloser Traumapatient
+  \end{itemize}
+  \item \EE{Unklarer Unfallmechanismus}, bei dem einer der
+  folgenden Punkte zutrifft:
+  \begin{itemize}
+    \item Spinaler Schmerz oder Druckschmerz über der
+    Wirbelsäule
+    \item Auffälliger Befund bei Untersuchung von Motorik
+    und Sensibilität\footnote{sofern nicht anders plausibel
+    erklärbar}
+    \item Patientenangaben kann nicht vertraut
+    werden
+    \begin{itemize}
+      \item Stresssituation
+      \item Schädel- oder zerebrale Verletzung
+      \item Auffälliger Bewusstseinszustand
+      \item Intoxikation
+      \item Ablenkende Verletzungen
+    \end{itemize}
+  \end{itemize}
+  \item \EE{Verdacht}
+\end{enumerate}
+
+Solange es noch unklar ist, ob eine WS-Immobilisation
+notwendig ist, muss eine manuelle Fixierung der HWS
+durchgeführt werden.
+
+\cite{ITLSde6,ScholzNotfallmedizin2,SiewertChirurgie8}
+}
+\Commentary[Konsensus]{Review 2011-01-11}
+
+\chapter{Medizinische Maßnahmen}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Bewusstseinseintrübung}
+{\label{m:bewusstseinstruebung}}{ 
+% \paragraph{Maßnahmen
+% bei getrübten Patienten}~
+
+\begin{itemize}
+  \item Lagerung: situationsgerecht je nach
+  Verdachtsdiagnose, im Zweifel \EE{stabile
+  Seitenlage}, bei hochschwangeren Frauen auf die
+  \E{linke} Seite.
+  \item \TxBeiVit \TxMassVitMKBes
+  
+  \begin{itemize}
+    \item \EE{Monitoring}: Auf \EE{Bewußtseinsgrad}
+    besonders achten!
+  \end{itemize}
+  
+  
+  \item Diagnostische Schwerpunkte:
+  \begin{itemize}
+    \item \EE{Ursachenforschung} -- Warum ist der
+    Patient eingetrübt?
+    \item (Fremd-)Anamnese, Umstände, Szenerie
+    \item \EE{Neurocheck}, inkl. \EE{BZ}-Messung!
+    \item \EE{Traumacheck}. Suche nach Primär- und
+    Folgeverletzungen!
+  \end{itemize}
+\end{itemize}
+
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Bewusstlose und
+soporöse Patienten}{\label{m:bewusstlosigkeit}}
+{%
+\begin{itemize}
+  \item \TxMassVitMKBes
+  \begin{itemize}
+    \item Lagerung: stabile Seitenlage, bei hochschwangeren Frauen auf die
+    \E{linke} Seite.
+    \item \EE{Monitoring}: Auf \EE{Bewußtseinsgrad}
+    besonders achten!
+  \end{itemize}
+  \item Diagnostische Schwerpunkte:
+  \begin{itemize}
+    \item \EE{Ursachenforschung} -- Warum ist der Patient bewusstlos oder
+    soporös?
+    \item (Fremd-)Anamnese, Umstände, Szenerie
+    \item \EE{Neurocheck}, inkl. \EE{BZ}-Messung!
+    \item \EE{Traumacheck}. Suche nach Primär- und
+    Folgeverletzungen!
+  \end{itemize}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Insuffiziente
+Atmung (AF \textless\,8 oder
+\textgreater\,30\PerMin*,
+bzw. AZV zu niedrig)}{\label{m:atmung-insuffizient}}
+{\Ca{Vitale Bedrohung}
+\begin{itemize}
+  \item \TxMassVitMK
+  \item Assistierte Beatmung
+  \item Ursachenforschung
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Atemstillstand}{\label{m:atemstillstand}}{
+\Cave{Achtung: Bei einem mit Atemstillstand vorgefundenen
+Patienten ist grundsätzlich von einer Reanimation
+auszugehen.}
+
+\Z{Nur in sehr seltenen Fällen kann primär ein isolierter
+Atemstillstand ohne gleichzeitigem Kreislaufstillstand
+beobachtet werden. Auf diese Spezialfälle (z.\,B.
+Opiatintoxikation) wird hier nicht weiter eingegangen. Auch
+der iatrogene Atemstillstand (z.\,B. im Rahmen einer Narkose) wird an dieser Stelle nicht
+behandelt.}}
+
+
+
+
+\ProcedurePrintDefault{MR57--0B}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenWide{Spezielle Maßnahmen}{Unterlassung der
+Reanimation} {\label{m:reanimation-unterlassung}}
+{%
+\Ca{Unter den folgenden Voraussetzungen darf (oder muss) eine
+Reanimation unterlassen
+werden:\index{Reanimation!Unterlassung
+der}\index{Wiederbelebung|see{Reanimation}}}           
+\begin{itemize}
+  \item \EE{Verwesung}
+  \item \EE{Fäulnis}
+  \item \EE{Mumifizierung}
+  \item \EE{Skelettierung}
+  \item \EE{Verletzungen, die nicht mit dem Leben
+  vereinbar sind}
+  \item \EE{Tierfraß}\footnote{Unter
+  \E{\enquote{Tierfraß}} versteht man den Verzehr eines Kadavers
+  durch Kadaverfresser. Ein frischer Hundebiss oder
+  Ähnliches fällt \E{nicht} darunter. Maden können
+  sich im Gewebe von Lebenden einnisten und sind daher
+  auch kein sicheres Todeszeichen.}
+  \item (Verbindliche) \EE{Patientenverfügung}\footnote{\E{Patientenverfügung}: Bei Notfallversorgungen darf \EE{nicht nach einer Verfügung gesucht
+  werden, wenn dadurch das Leben oder die Gesundheit des Patienten ernstlich
+  gefährdet werden würde}.
+  \EE{Aber:} Wenn \E{zweifelsfrei} eine verbindliche
+  Patientenverfügung vorliegt (z.\,B. weil eine betreuende
+  Pflegekraft diese in der Zwischenzeit gefunden und die
+  Verbindlichkeit bestätigt hat), muss dieser Folge
+  geleistet werden.
+Liegt eine \E{beachtliche Patientenverfügung} vor, so ist im
+\E{Einzelfall} zu entscheiden: Das Wohl des Patienten bleibt
+oberstes Gebot und die Verfügung soll in die
+Entscheidung einfließen.}\index{Patientenverfügung!Unterlassung der
+  Reanimation} (\FullPrettyRef{AASS-topic:patientenverfuegung}; 
+  Bis zur zweifelsfreien Klärung der Situation muss
+  jedenfalls eine Reanimation begonnen bzw. fortgeführt
+  werden!)
+  \item (Abbruch der Reanimationsmaßnahmen aufgrund
+  von \EE{Erschöpfung})\footnote{Erschöpfung darf im
+  professionellen Umfeld keine Rolle spielen, für eine
+  entsprechende Ablösung ist bei Bedarf zu sorgen.}
+  \item Unvereinbarkeit mit
+  \EE{Selbstschutz}\footnote{Es müssen jedoch alle Maßnahmen
+  getroffen werden, die ohne Gefährdung des Selbstschutzes
+  möglich sind. So wird zum Beispiel für Ersthelfer
+  empfohlen, wenn
+  eine Mund-zu-Mund-Beatmung nicht zumutbar ist, zumindest 
+  eine Herzdruckmassage durchzuführen.}
+\end{itemize}
+
+}
+
+
+
+
+
+
+
+
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Herzinsuffizienz, symptomatisch
+\ProcedurePrintDefault{MI50090C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Thoraxschmerzen, jetzt beschwerdefrei
+\ProcedurePrintDefault{MI20091C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Akutes Koronarsyndrom
+\ProcedurePrintDefault{MI24091C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% 
+\ProcedurePrintDefault{MR47091C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Kollaps/Synkope
+\ProcedurePrintDefault{MR55--0C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Hypertensive Krise
+\ProcedurePrintDefault{MI10911C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Hypertensiver Notfall
+\ProcedurePrintDefault{MI10912C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Arterieller Gefäßverschluss einer Extremität
+\ProcedurePrintDefault{MI74041C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Venöser Gefäßverschluss einer Extremität
+\ProcedurePrintDefault{MI74042C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Mechanische Atemwegsverlegung
+\ProcedurePrintDefault{MT17091C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Akuter Asthmaanfall
+\ProcedurePrintDefault{MJ46--1C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% COPD-Exazerbation
+\ProcedurePrintDefault{MJ44190C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Lungenembolie
+\ProcedurePrintDefault{MI26--0C}
+% \MassnahmenNG{Spezielle
+% Maßnahmen}{Lungenembolie}{\label{m:lungenembolie}}{
+% \EE{Taktik}:
+% \Speech{\Ca{Vitale Bedrohung!} Atemnot lindern, rasche medikamentöse Therapie, ärztliche Therapie sinnvoll}
+% 
+% \begin{itemize}
+%   \item {\TxMassVitMKBes}
+%   \begin{itemize}
+%     \item Lagerung: Oberkörper hoch
+%   \end{itemize}
+%   \item Striktes Bewegungsverbot!
+%   \item Beengende Kleidung öffnen
+% \end{itemize}
+% }
+
+
+
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Akutes Lungenödem, leicht
+\ProcedurePrintDefault{MJ81--1C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Akutes Lungenödem, schwer
+\ProcedurePrintDefault{MJ81--2C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+%
+\ProcedurePrintDefault{MF45331C}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Insult
+\ProcedurePrintDefault{NI64--0C}
+
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Krampfender Patient
+\ProcedurePrintDefault{NR56081C}
+
+
+
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Nicht-(mehr) krampfender Patient
+\ProcedurePrintDefault{NR56082C}
+
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Hypoglykämie
+\ProcedurePrintDefault{ME16020C}
+
+
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Hyperglykämisches Koma
+\ProcedurePrintDefault{ME14012C}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Allgemeine Maßnahmen}{Abdominalerkrankung}
+{\label{m:am-abdominalerkrankungen}}
+{
+~
+
+\begin{itemize}
+  \item \EE{Vitale Bedrohung einschätzen.} \TxBeiVit
+  \TxMassVitMK
+  \item Lagerung: grundsätzlich \EE{bauchdeckenentspannend}
+  (Knierolle, Beine angezogen), oder nach Wunsch des Patienten
+  \item \EE{Nüchtern lassen} (in Hinblick auf möglicherweise
+  bevorstehende Operation, nichts essen oder trinken lassen)
+  %     \item Monitoring. Der Zustand kann sich abrupt
+  %     verschlechtern.
+  \item \EE{Transportentscheidung}: Situationsgerecht,
+  z.\,B. Abt. f. Chirurgie oder Innere Medizin.
+  
+  Bei Kindern Abt. f. Kinderchirurgie oder Abt. f.
+  Kinderheilkunde (je nach Verdachtsdiagnose und regionaler
+  Regelung).
+  
+  Bei weiblichen Patienten Abt. für Gynäkologie (evtl. im
+  \enquote{Hintergrund}) erwägen.
+\end{itemize}
+}
+
+
+
+
+
+
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Akutes Abdomen
+\ProcedurePrintDefault{CR10000C}
+
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Darmverschluß}{\label{m:darmverschluss}}{
+\EE{Taktik}: \Speech{Unmittelbare Bedrohung je nach Vitalwerten. Nüchtern lassen, Differentialdiagnosen
+abklären, Transport an geeignete Einrichtung}
+
+
+\begin{itemize}
+  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+  (\prettyref{m:am-abdominalerkrankungen})
+  \item \EE{Vitale Bedrohung einschätzen}, ggfs.
+  \TxMassVitMKBes
+  \begin{itemize}
+    \item Lagerung: bauchdeckenentspannend, bzw. je nach
+    Patientenwunsch
+  \end{itemize}
+  \item Patient nüchtern lassen.
+  \item Transportentscheidung: Abt. f. Chirurgie
+\end{itemize}
+}
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Appendizitis}{\label{m:appendizitis}}{
+\EE{Taktik}:
+\Speech{Differntialdiagnosen abklären, Transport an geeignete Abteilung}
+
+
+\begin{itemize}
+  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+  (\prettyref{m:am-abdominalerkrankungen})
+  \item Patient nüchtern lassen.
+  \item Transportentscheidung: Abt. f. Chirurgie, Sonderfälle
+  (Kinder, Frauen!) beachten!
+\end{itemize}
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Gallenkolik}{\label{m:gallenkolik}}{
+\EE{Taktik}: \Speech{Rasche Schmerztherapie (veranlassen)}
+
+
+\begin{itemize}
+  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+  (\prettyref{m:am-abdominalerkrankungen})
+  \item Rasche Schmerztherapie veranlassen: Je nach
+  Situation, Notarzt oder rascher Transport in eine
+  geeignete Einrichtung
+  \item Patient nüchtern lassen
+  \item Transportentscheidung: Abt. f. Chirurgie
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Blutungen
+des Verdauungstrakts}{\label{m:blutung-verdauungstrakt}}{
+\EE{Taktik}: \Speech{\Ca{Vitale Bedrohung bei hohem Blutverlust!}
+Schockbekämpfung, zügiger Transport}
+
+
+\begin{itemize}
+  \item \TxMassVitMK
+    \item Lagerung:
+    Situationsgerecht, je nach Blutungsquelle und
+    Patientenzustand
+  \item Allgemeine Maßnahmen der Schockbekämpfung
+  (\prettyref{m:am-schock})
+  \item Ggfs. spezielle Maßnahmen bei hypovolämischem Schock
+  (\prettyref{AASS-topic:schock-hypovolaemischer})
+  \item Transportentscheidung: Abteilung für Chirurgie,
+  Voranmeldung!
+\end{itemize}
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Gastroenteritis}{\label{m:gastroenteritis}}{
+\begin{itemize}
+  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+  (\prettyref{m:am-abdominalerkrankungen})
+  \item Patient nüchtern lassen
+  \item Transportentscheidung: Abt. f. Innere Medizin; bei
+  Kindern Abt. f. Kinderheilkunde
+  \item Strikte Desinfektionsmaßnahmen!
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Gastritis,
+Duodenitis}{\label{m:gastro-duodenitis}}{
+\begin{itemize}
+  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+  (\prettyref{m:am-abdominalerkrankungen})
+  \item \EE{Transportentscheidung}: 
+  Abt. f. Chirurgie
+%   
+%   Bei Blutungszeichen (Teerstuhl, kaffeesatzartiges
+%   Erbrechen): Abt. f. Chirurgie
+\end{itemize}
+}
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Akute
+Pankreatitis}{\label{m:pankreatitis-akut}}{
+\begin{itemize}
+  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+  (\prettyref{m:am-abdominalerkrankungen})
+  \item \EE{Transportentscheidung}: Abt. f. Chirurgie
+\end{itemize}
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Mesenterialinfarkt}{\label{m:mesenterialinfarkt}}{
+\begin{itemize}
+  \item Allgemeine Maßnahmen bei Abdominalerkrankungen
+  (\prettyref{m:am-abdominalerkrankungen})
+  \item Nüchtern lassen!
+  \item \EE{Transportentscheidung}: Abt. f.
+  Chirurgie
+\end{itemize}
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Bauchfellentzündung}{\label{m:bauchfellentzuendung}}{
+\begin{itemize}
+  \item Maßnahmen wie bei akutem Abdomen
+  (\FullPrettyRef{m:akutes-abdomen}), und sonst abhängig von
+  der Ursache
+\end{itemize}
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Nierenkolik}{\label{m:nierenkolik}}{ Im
+Vordergrund bei der Versorgung steht der rasche zügige Transport an eine Abteilung für Urologie. Wenn die Schmerzen
+sehr massiv sind, muss eventuell eine Schmerztherapie durch
+den Notarzt erfolgen.
+\begin{itemize}
+  \item Lagerung nach Wunsch des Patienten
+  \item Bei unerträglichen Schmerzen Notarzt zur
+  Schmerztherapie beiziehen
+  \item Transportentscheidung: Abt. für Urologie
+\end{itemize}
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Akutes
+Harnverhalten}{\label{m:harnverhalten}}
+{
+\begin{itemize}
+    \item Zügiger Transport in eine Urologische Ambulanz
+    \item \Z{vorsichtig ablassen über Harnkatheter oder
+    Blasenpunktion (Spital)}
+\end{itemize}
+}
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{MRSA-Transport}{\label{m:mrsa-transport}}{
+
+\label{bkm:RefHeading40262819}
+
+\begin{itemize}
+  \item Informationen über MRSA-Trägerschaft sowie Art/Ort der MRSA-Besiedelung
+  \item Patientenvorbereitung und Transport
+  \begin{itemize}
+    \item Wunden müssen verbunden und gut abgedeckt sein
+    \item Bei Besiedelung der Atemwege trägt der Patient einen Mund-/ Nasenschutz
+    \item Vor dem Transport führt der Patient eine hygienische
+    Händedesinfektion durch
+  \end{itemize}
+  \item Allgemeine Hygienemaßnahmen
+  \begin{itemize}
+    \item Einweghandschuhe und Schutzkittel
+    \item Nach Ablegen sofortige hygienische Händedesinfektion
+    \begin{itemize}
+      \item Nach Abschluss des Patiententransportes sind alle Materialien,
+      Geräte, Instrumente und Flächen, welche direkten Kontakt mit dem
+      Patienten hatten, gemäß Hygieneplan zu
+      desinfizieren.
+      \item Alle waagerechten Oberflächen des Fahrzeuginnenraumes sind mit
+      einem Flächendesinfektionsmittel in Form einer
+      Scheuerwischdesinfektion desinfizierend zu reinigen.
+      \item Abschließend führt das Personal eine hygienische
+      Händedesinfektion durch.
+      \item An Keimvehikel denken (Kugelschreiber, Haltegriffe, Stethoskop \ldots )!
+    \end{itemize}
+  \end{itemize}
+  \item Nach Abschluss der vorangegangenen Hygiene- und
+  Desinfektionsmaßnahmen ist das Fahrzeug wieder einsatzbereit.
+\end{itemize}
+
+Für die anderen Problemkeime \Z{(VRSA, VRE, ESBL,
+{\dots})} gelten sinngemäß die gleichen
+Verfahrensweisen.
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Nadelstichverletzung}
+{\label{m:nadelstichverletzung}}
+{
+\Z{Basiernd auf \cite{OeAG2007}.}
+\begin{itemize}
+    \item Erstmaßnahmen durchführen: \nocite{OeAG2007}
+    \begin{itemize}
+        \item bei Stich- bzw.Schnittverletzungen:
+        Blutung durch Kompression des umgebenden
+        Gewebes induzieren. Danach desinfizieren und einen
+        in Desinfektionsmittel getränkten Tupfer 10\Min*
+        auf der Wunde belassen.
+        \item bei Spritzern mit Blut oder Sekreten in Auge oder Mund:
+        Schleimhaut mit Wasser u./o. Schleimhautdesinfektionsmittel spülen
+    \end{itemize}
+    \item Leitstelle informieren
+    \item ${\rightarrow}$ \EE{Umgehend in ein
+    geeignetes Krankenhaus} (Von der Leitstelle erfragen).
+    \item Patient: Zielspital informieren:
+    \begin{itemize}
+        \item Blut sichern für \Abk{HIV}- und Hepatitis-Serologie
+    \end{itemize}
+    \item  \Ca{Unfallmeldung}  (wichtig!), Blutabnahme
+    \item ggf. \Abk{HIV}-Postexpositionsprohylaxe (\Abk{PEP})
+    \begin{itemize}
+        \item kurzfristige Therapie (4 Wochen)
+        \item Einzelfall muss immer individuell beurteilt werden
+        (Nutzen/Risiko), starke Nebenwirkungen.
+        \item Muss innerhalb von 2\Hour* begonnen werden ${\rightarrow}$ daher
+        \underline{\EE{sofort}} in ein geeignetes Krankenhaus!
+    \end{itemize}
+    \item Meldung an Betriebsleitung
+    \item \EE{Unfallmeldung (wichtig!) an die \Abk{AUVA}}
+\end{itemize}
+
+\Cave{Unfallmeldung nicht vergessen!
+
+Sofort in ein geeignetes Krankenhaus! (in Wien AKH od. OWS)}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Meningitis}{\label{m:meningitis}}{
+\begin{itemize}
+  \item Schutzmaske für Personal und Patient (wenn zumutbar)
+  \item Rückmeldung an Leitstelle vor Transport, Voranmeldung im Krankenhaus
+  \item Patient erst in das Spitalsgebäude bringen, wenn
+  Ziel und Weg dorthin klar ist
+  \item Desinfektionsmaßnhamen gem. Hygieneplan
+  \item Personal bekommt im Spital evtl. eine Antibiotika-Prophylaxe
+  \item Wechsel der Dienstkleidung
+\end{itemize}
+
+}
+
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Tuberkulose}{\label{m:tuberkulose}}{
+\begin{itemize}
+  \item Bei Verdacht auf eine offene Tuberkulose
+  Schutzmasken verwenden: FFP~3 für das Personal, \enquote{OP-Maske} für den
+  Patienten, wenn zumutbar
+  \item \EE{Meldung an Leitstelle \& Betriebsleitung!}
+  \item Desinfektion laut Hygieneplan
+\end{itemize}
+}
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Pneumonie}{\label{m:pneumonie}}{
+
+\begin{itemize}
+  \item Symptomatisch
+  \item Wärmeerhalt
+  \item Bei Fieber Meningismus-Zeichen prüfen!
+  \item Transportentscheidung: Abt. f. Innere Medizin
+\end{itemize}
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Abort}{\label{m:abort}}{
+\begin{itemize}
+  \item Lagerung: sterile Vorlage und Lagerung nach
+  Fritsch
+  % TODO Querverweis zu Lagerungsarten einfügen
+  \item \TxBeiVit: \TxMassVitMKBes
+  \begin{itemize}
+    \item Lagerung: Situationsgerecht
+  \end{itemize}
+  \item Abgegangene Gewebeteile sammeln
+  \item Transportentscheidung: Abt. f. Gynäkologie und
+  Geburtshilfe
+\end{itemize}
+} 
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Eileiterschwangerschaft,
+Verdacht}{\label{m:eileiterschwangerschaft-verdacht}}{
+\begin{itemize}
+    \item Transportentscheidung: Abt. f. Gynäkologie
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Eileiterschwangerschaft,
+rupturiert}{\label{m:eileiterschwangerschaft-rupturiert}}{%
+\begin{itemize}
+  \item \TxMassVitMKBes
+  \begin{itemize}
+    \item Lagerung: Bauchdeckenentspannend.
+    \item Schockbekämpfung
+  \end{itemize}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Vorzeitige
+Plazentalösung}{\label{m:plazentaloesung}}{
+\begin{itemize}
+  \item \TxMassVitMKBes
+  \begin{itemize}
+    \item Lagerung: sterile Vorlage und Lagerung nach Fritsch.
+    \item Schockbekämpfung
+  \end{itemize}
+  \item Keine vaginale Untersuchung oder  Scheidentamponade
+  \item Zügiger Transport mit Voranmeldung
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Vena-cava-Syndrom}{\label{m:vena-cava-syndrom}}{
+
+\begin{itemize}
+    \item Linksseitenlage, grundsätzlich immer bei
+    hochschwangeren Patientinnen.
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Verdacht auf
+Präeklampsie}{\label{m:praeeklampsie-verdacht}}
+{
+\begin{itemize}
+    \item schonender Transport
+    \item Überwachung, evtl. \ce{O2}
+    \item Reizabschirmung
+    %\item Notarzt: Krampfdurchbrechung, RR-Senkung
+    %\item (im Vollbild: vorzeitige Beendigung der  Schwangerschaft)
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Eklampsie --
+Eklamptischer Krampfanfall}{\label{m:eklampsie}}{
+Grundsätzlich ist so wie bei jedem anderen Krampfanfall zu verfahren , vgl. Kap. \ref{AASS-topic:krampfanfall}. Bedenke:
+Der eklamptische Krampfanfall ist für Mutter und Kind lebensgefährlich!
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Vorzeitiger
+Fruchtwasserabgang}{\label{m:fruchtwasserabgang}}{
+\begin{itemize}
+    \item Lagerung: Linksseitenlagerung, Becken erhöht
+    (Schwerkraft verzögert Geburt), Lagerung nach Fritsch
+    \item Nicht mehr aufstehen lassen! Liegender Transport!
+    \item Transportentscheidung: Abteilung für Gynäkologie und
+    Geburtshilfe, Kreißsaal
+\end{itemize}
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Geburt}{\label{m:geburt}}{
+Vorbereitung:
+\begin{itemize}
+  \item (Not-)Arzt hinzuziehen
+  \item Fahrzeug/Umgebung einheizen
+  \item Vorbereiten des Geburtenset
+  \item Lagerung: Z.\,B. erhöhter Oberkörper, angewinkelte
+  Beine; Wunsch der Mutter berücksichtigen!
+\end{itemize}
+Geburt:
+\begin{itemize}
+  \item Stuhlschutz
+  \item Versorgung des Neugeborenen
+  (\prettyref{m:neugeborenes})
+  \item Nachdem die Nabelschnur durchgeschnitten
+  wurde, mütterliche Seite an
+  Oberschenkel fixieren und vor Zug schützen
+  \item Dokumentation von Geburtszeit und Geburtsort
+\end{itemize}
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenWide{Spezielle Maßnahmen}
+{Versorgung des Neugeborenen}
+{\label{m:neugeborenes}}
+{
+\begin{itemize}
+  \item Neugeborenes abrubbeln
+  \item Erstbeurteilung:
+  \begin{itemize}
+    \item Muskeltonus
+    \item Atemweg
+    \begin{itemize}
+      \item Bei Atemwegsverlegung: Mittels Oro-Sauger absaugen
+      \hfill\Commentary[Absaugen Neugeborener]{ASBÖ
+      Lehrmeinung 18/2011 \enquote{Absaugen Neugeborener im
+      Rettungsdienst} \cite{AsboeLehrmeinung2011-19}: \Speech{\enquote{Mehrere
+      Studien zeigten keine Verbesserung im Outcome
+      gegenüber abgesaugter Neugeborener. Daher ist es
+      obligat, keine Verzögerung bei den BLS-Maßnahmen
+      hervorzurufen, welche durch lange Absaugversuche
+      zustande kommen können. Lediglich die
+      Atemwegsobstruktion durch Mekonium muss behandelt
+      werden, indem die Atemwege freigemacht werden. Selbst
+      missfarbiges Fruchtwasser stellt keine Indikation zur
+      Absaugung
+      dar.}}
+      \ParBugfix
+      ERC 2010 \cite{Erc2010Sek06De}: \Speech{\enquote{Absaugen ist
+      nur notwendig, wenn die Atemwege verlegt sind. Eine
+      solche Verle- gung kann aufgrund von Mekonium, auch
+      wenn das Neugeborene keine Mekoniumablagerungen auf
+      der Haut zeigt, aber auch Blutkoageln, zähem Schleim
+      oder Vernix bestehen. Wird abgesaugt, ist zu bedenken,
+      dass zu heftiges oropharyngeales Ab- saugen das
+      Einsetzen einer suffizienten Spontanatmung verzögern
+      und zu einem Laryngospasmus sowie zu einer vagalen
+      Bradykardie führen kann. Das Vorhandensein von
+      zähflüssigem Mekonium beim schlaffen, avitalen
+      Neugeborenen ist die einzige Situation, in der ein
+      sofortiges Absaugen des Oropharynx zu erwägen ist.}}
+      }%Commentary
+    \end{itemize}
+    \item Atmung
+    
+    Bei Schnappatmung oder fehlender Atmung: Atemwege öffnen
+    5 initiale Beatmungen
+    \item Kreislauf: \Abk{HF} messen (durch Auskultation
+    an der Herzspitze (nur geübtes Personal) oder an
+    \E{Oberarmarterie}). Wenn ein \E{geeignetes
+    Pulsoxymeter} vorhanden ist, kann auch dieses verwendet werden.
+    \hfill\Commentary[Ort der HF-Messung beim Neugeborenen]
+    {ERC 2010 \cite{Erc2010Sek06De}: \Speech{\enquote{Die beste Methode
+    zur Beurteilung der Herzfrequenz ist die direkte Auskultation mit dem Stethoskop über der Herzspitze. Das Tasten des
+    Pulses an der Basis der Nabelschnur ist oft möglich, kann
+    aber irreführend sein. Eine Beurteilung der Herzfrequenz
+    allein über die Pulsation der Nabelschnur ist nur
+    zuverlässig, wenn die Herzfrequenz über 100\PerMin* liegt.}}
+    \ParBugfix
+    Bei Sanitätern, insbesondere der
+    niedrigeren Ausbildungsstufen, kann nicht davon
+    ausgegangen werden, dass eine Auskultation in dieser
+    stressreichen Situation fehlerfrei und zuverlässig angewendet werden kann. Die
+    Oberarmarterie erscheint in diesem Fall als
+    pragmatischer Kompromiss.}
+  \end{itemize}
+\end{itemize}
+{\FormatTable
+\begin{tabularx}{\linewidth}{XX}
+\toprule\addlinespace
+\multicolumn{1}{c}{\includegraphics[width=1cm]{./icons/sm-basic.png}}
+&
+\multicolumn{1}{c}{\includegraphics[width=1cm]{./icons/sm-pale.png}~~\includegraphics[width=1cm]{./icons/sm-pale-frown.png}}
+\\\addlinespace
+\noindent\TabHeading{Kräftiges Schreien/suffiziente Atmung}
+&
+\noindent\TabHeading{Insuffiziente Spontanatmung,
+Atemstillstand oder Bradykardie}
+\\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}\addlinespace
+\begin{itemize}
+  \item[\eye] Guter Muskeltonus,
+  \item[\eye] Herzfrequenz \textgreater\,100\PerMin*
+\end{itemize}
+
+
+
+
+&
+\begin{itemize}
+  \item[\eye] Normaler, reduzierter Muskeltonus, oder sogar
+  schlaffer Muskeltonus (\enquote{floppy})
+  \item[\eye] Herzfrequenz \textless\,100\PerMin*; Bradykarde
+  oder nichtnachweisbare Herzfrequenz,
+  \item[\eye] Oft mit ausgeprägter Blässe als Zeichen
+  einer schlechten Perfusion.
+\end{itemize}
+
+\\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}\addlinespace
+\begin{itemize}
+  \item Abtrocknen und Einwickeln in warme Tücher:Warm
+  einpacken (nur das Gesicht darf frei bleiben) und der Mutter
+  überreichen.
+  \item Abnabeln, frühestens nach 1\Min*:
+  \begin{enumerate}
+    \item Erst wird eine Handbreite vom Kind
+    entfernt die erste Nabelklemme gesetzt.
+    \item Dann wird die Nabelschnur Richtung Mutter ausgestreift und
+    wieder eine Handbreit entfernt die zweite Klemme gesetzt.
+    \item Zwischen den beiden
+    Klemmen wird die Nabelschnur durchtrennt.
+  \end{enumerate}
+  \item Das Neugeborene
+  kann der Mutter auf den Bauch gelegt werden. Durch den
+  Kontakt zur Haut der zugedeckten Mutter wird das Baby
+  gewärmt.
+  
+  \item Es kann zu diesem Zeitpunkt bereits an die Brust
+  angelegt werden.
+\end{itemize}
+  &
+  % Nachdem ein Neugeborenes dieser Gruppe getrocknet und in
+  % warme Tücher gewickelt wurde, ist meist eine kurze
+  % Maskenbeatmung ausreichend. Kommt es darunter nicht zu einem
+  % adäquaten Anstieg der Herzfrequenz, müssen Herzdruckmassagen
+  % durchgeführt werden.
+  
+  \begin{itemize}
+    %     \item \ce{O2}-Gabe (\enquote{\ce{O2}-Dusche}) für 30\,Sek.
+    \item Atemwege freimachen, absaugen
+    \item 5 Beatmungen
+    \item Wenn keine Steigerung der Herzfrequenz:
+    \begin{itemize}
+      %     \item \ce{O2}-Gabe (\enquote{\ce{O2}-Dusche}) für 30\,Sek.
+      \item Lagerung und Atemwege überprüfen
+      \item 5 Beatmungen wiederholen
+    \end{itemize}
+    \item Wenn weiterhin keine ausreichende Atmung oder
+    \EE{Herzfrequenz \textless\,60\PerMin*}:
+    \begin{itemize}
+      \item \Sign{→} Reanimation des Neugeborenen
+    \end{itemize}
+    \FullPrettyRef{m:neugeborenes-basisreanimation}
+  \end{itemize}
+  
+  % Nachdem ein Neugeborenes dieser Gruppe getrocknet und in
+  % warme Tücher gewickelt wurde, müssen unverzüglich die
+  % Atemwege geöffnet werden. Die Lungen müssen belüftet werden,
+  % und das Kind muss beatmet werden. Wurden die Atemwege
+  % erfolgreich geöffnet und die Lungen belüftet, können
+  % außerdem Herzdruckmassagen und möglicherweise eine
+  % Medikamentengabe notwendig sein. Eine sehr kleine Gruppe von
+  % Neugeborenen bleibt trotz adäquater Spontanatmung und guter
+  % Herzfrequenz hypox­ ämisch. Die Diagnosen umfassen hier ein
+  % weites Spektrum, wie z. B. eine Zwerchfellhernie,
+  % Surfactant-Mangel, eine kongenitale Pneumonie, einen
+  % Pneumothorax oder ein angeborenes zyanotisches Herzvitium.
+  
+  
+  \\\addlinespace\bottomrule
+\end{tabularx}
+}
+
+\cite{Erc2010Sek06De,AsboeLehrmeinungRd2011-19,AsboeLehrmeinungRd2011-18}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}
+{Basisreanimation des Neugeborenen}
+{\label{m:neugeborenes-basisreanimation}}
+{
+\begin{itemize}
+  \item 2 Daumen nebeneinander über dem
+  unteren Drittel des Brustbeins, direkt unter einer gedachten Linie zwischen den
+  Brustwarzen
+  
+  \item Umgreifen des gesamten
+  Brustkorbs und Unterstützung des Rückens des Kindes.
+  \item Thoraxkompressionen und Beatmungen im Verhältnis von
+  \EE{3\,:\,1}
+  
+%   \item Ziel: 90 Kompressionen und 30 Beatmungen\PerMin*
+%   (120 Maßnahmen\PerMin*)
+  \item \TxMassVitMK
+\end{itemize}
+
+\cite{Erc2010Sek06De}
+}
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Nabelschnurvorfall}
+{\label{m:nabelschnurvorfall}}
+{
+\begin{itemize}
+  \item \Ca{Zeitkritisch!}
+    \item \Ca{Notarztnachforderung nur wenn Stabilisierung
+    notwendig}
+	\item Beckenhochlagerung
+	\item Mutter soll \underline{nicht} pressen (wenn möglich Geburt erst im
+	Krankenhaus)
+	\item Wehenhemmung (hecheln; \Z{medikamentös durch Notarzt})
+	\item Nabelschnurumschlingung des kindlichen Halses während der Geburt sofort lösen
+\end{itemize}
+}
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Pathologische
+Geburtslagen}
+{\label{m:pathologische-geburtslagen}}
+{
+\begin{itemize}
+  \item Bei Geburtsunmöglichen Lagen:\begin{itemize}
+    \item \Ca{Zeitkritisch!}
+    \item \Ca{Notarztnachforderung nur wenn Stabilisierung
+    notwendig}
+    \item Voranmeldung!
+  \end{itemize}
+	\item Beckenhochlagerung
+	\item Mutter soll \underline{nicht} pressen (wenn möglich Geburt erst im
+	Krankenhaus)
+	\item Wehenhemmung (hecheln; \Z{medikamentös durch Notarzt})
+\end{itemize}
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Placenta praevia und bevorstehende
+Geburt}{\label{m:placenta-praevia}}
+{
+\begin{itemize}
+    \item \TxMassVitMKBes
+    \begin{itemize}
+      \item \Ca{Zeitkritisch!}
+      \item \Ca{Notarztnachforderung nur wenn Stabilisierung
+      notwendig}
+        \item Lagerung: Sterile Vorlage und Lagerung nach
+        Fritsch.
+        \item Ggfs. Schockbekämpfung
+    \end{itemize}
+\end{itemize} \autocite{MA70-Protokoll-2012-10-11}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Uterusatonie}{\label{m:uterusatonie}}{
+\begin{itemize}
+  \item \TxMassVitMKBes
+  \begin{itemize}
+    \item Schockbekämpfung
+    \item Lagerung: Fritsch, Beine hoch
+  \end{itemize}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Uterusruptur}{\label{m:uterusruptur}}{
+\begin{itemize}
+	\item \TxMassVitMK
+	\item Schockbekämpfung
+	\item Lagerung: Fritsch, Beine hoch
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Asphyxie des
+Neugeborenen}
+{\label{m:asphyxie}}
+{%
+Die Behandlung der Asphyxie erfolgt im Rahmen der Versorgung
+des Neugeborenen (\FullPrettyRef{m:neugeborenes}).
+% \begin{itemize}
+%   \item \TxMassVitMK
+%   \item Warmhalten
+%   \item Abtrocknen/abrubbeln; stimulieren: Fußsohlen und
+%   Rücken klopfen, reiben
+%   \item Atmung und Herzfrequenz beurteilen
+%   \item Bei Schnappatmung, fehlender Atmung oder HF <
+%   100\PerMin*:  \begin{itemize}
+% %     \item \ce{O2}-Gabe (\enquote{\ce{O2}-Dusche}) für 30\,Sek.
+%     \item Atemwege freimachen, absaugen
+%     \item 5 Beatmungen
+%   \end{itemize}
+%   \item Wenn keine Steigerung der Herzfrequenz: 
+%   \begin{itemize}
+% %     \item \ce{O2}-Gabe (\enquote{\ce{O2}-Dusche}) für 30\,Sek.
+%     \item Lagerung und Atemwege überprüfen 
+%     \item 5 Beatmungen wiederholen
+%     \item \ce{O2}-Gabe
+%     \end{itemize}
+%   \item Wenn weiterhin keine ausreichende Atmung oder
+%   \EE{Herzfrequenz < 60\PerMin*} 
+%   
+%   \Sign{→} Reanimation des Neugeborenen
+% \end{itemize}
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Vaginale
+Blutung}{\label{m:vaginale-blutung}}{
+\begin{itemize}
+    \item Lagerung nach Fritsch
+    \item Transportentscheidung: Abteilung für
+    Gynäkologie, bei Wehen Kreißsaal
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Laryngitis}{\label{m:laryngitis}}{
+
+\begin{itemize}
+    \item Eltern und Kind beruhigen.
+    \item Feuchte Luft einatmen lassen (evtl. Fenster
+    öffnen; feuchte Tücher im Raum aufhängen; Dusche im Badezimmer aufdrehen)
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Epiglottitis}{\label{m:epiglottitis}}{%
+
+\begin{itemize}
+    \item \TxMassVitMK
+    \item Luftbefeuchtung
+    \item Kinder sitzen lassen!
+    \item Keine Manipulation im Mundraum (Spatel)!
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{SIDS}{\label{m:sids}}{%
+
+\begin{itemize}
+	\item Reanimation.
+	\item Betreuung der Angehörigen. Den Eltern muss das Gefühl
+	gegeben werden, dass sie alles für ihr Kind getan haben. Ein solcher
+	Unglücksfall tritt schicksalshaft auf und wäre nicht abwendbar gewesen. 
+	\item In jedem Fall nimmt die Kriminalpolizei Ermittlungen auf. Darauf müssen
+	die Eltern vorbereitet werden. 
+	\item Betreuung für die Angehörigen organisieren
+	(Kriseninterventionsdienst\opt{REGVIE}{\footnote{In Wien ist die
+	\E{Akutbetreuung Wien} der Stadt Wien zuständig. Sie kann über die
+	Leitstelle angefordert werden.}})
+	\item Zwillingsgeschwister unbedingt hospitalisieren.
+	\item Einsatznachbesprechung und eigene Psychohygiene. Derartige Einsätze
+	können -- auch für erfahrenes Fachpersonal -- sehr belastend sein. 
+	
+    Meldung an Gesamteinsatzleiter, dienstführenden
+    Offizier o.\,ä., Erkundigung nach Verfügbarkeit von
+    Peers (auch wenn Peer-Angebot nicht angenommen wird!). 
+\end{itemize}
+
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Ertrinkungsunfall}{\label{m:ertrinkungsunfall}}{
+\begin{itemize}
+  \item Wenn erforderlich Reanimation mit fünf
+  Initialbeatmungen. Die Reanimation kann auch nach länger
+  andauerndem Kreislaufstillstand erfolgreich sein, da bei
+  einer Unterkühlung der Stoffwechsel verlangsamt wird.
+  \item \TxBeiVit \TxMassVitMK
+  \item Bei Aspiration: Wenn der Verdacht auf eine
+  Aspiration besteht, ist der Patient zur Beobachtung zu
+  hospitalisieren.
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Fieberkrampf im
+Kindesalter}{\label{m:fieberkrampf-kindesalter}}{
+    
+    Die Behandlung erfolgt grundsätzlich wie beim Erwachsenen (\FullPrettyRef{m:zerebraler-krampfanfall-bestendend}).
+    Die Körpertemperatur ist immer zu messen! 
+}
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}
+{Vergewaltigung und geschlechtliche Nötigung}
+{\label{m:vergewaltigung}}
+{
+\begin{itemize}
+  \item Ruhig und sachlich bleiben
+  \item Polizei verständigen
+  \item Ermöglichung von polizeilichen Ermittlungen unter Schonung
+  des Opfers (\enquote{vermitteln})
+  \item Besonders wichtig: Ausführliche sachliche Erklärung
+  aller durchzuführenden Maßnahmen
+  \item Symptomatische Betreuung von Begleitverletzungen
+  \item Keine übertriebenen Untersuchungen
+  \item Keine gynäkologischen Untersuchungen
+  \item Transportentscheidung: Abt. f. Gynäkologie
+\end{itemize}
+
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Kindesmisshandlung}{\label{m:kindesmisshandlung}}{
+Die Aufgaben des Rettungsdienstes bei Verdacht auf Kindesmisshandlung besteht in:
+
+\begin{enumerate}
+  \item Daran denken!
+  \item Umstände und Umfeld abklären
+  \item Unstimmigkeiten und Auffälligkeiten auf eine neutrale Weise
+  \EE{dokumentieren}
+  \item Obiges verlässlich bei der Übergabe an die nachbetreuende Einrichtung
+  weiterleiten. Evtl. Name des Gesprächpartners bei der  Übergabe dokumentieren.
+  \item \EE{Patienten nicht im Stich lassen}: Gelindestes Mittel wählen,
+  evtl. Vorwand für die Hospitalisierung suchen, aber wenn ein begründeter
+  Verdacht auf eine Misshandlung besteht und die
+  Erziehungsberechtigten unkooperativ sind notfalls auch die Exekutive beiziehen.
+\end{enumerate}
+
+\paragraph{Vorsicht!}
+
+Jedenfalls zu \underline{unterlassen} sind:
+
+\begin{itemize}
+  \item Voreilige Verdachtsäußerungen. \Z{Nicht alles was stinkt ist ein
+  Fisch!}
+  \item Andeutungen gegenüber den Erziehungsberechtigten oder Dritten.
+\end{itemize}
+
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Umgang mit Patienten mit
+Wahnvorstellungen}{\label{m:wahnvorstellungen}}{ Die -- für
+den Außenstehenden -- wirren Vorstellungen stellen das Fachpersonal vor die Frage, wie mit diesen
+Patienten umzugehen ist.
+Ziel ist:
+\begin{enumerate}
+  \item Abwendung von unmittelbaren Gefahren für den
+  Patienten und die Umgebung
+  \item Korrekte und professionelle Durchführung eines
+  Transportes in eine geeignete Einrichtung.
+\end{enumerate}
+Es gelten somit folgende Grundsätze:
+\begin{enumerate}
+  \item Sofern eine Gefährdung für den Patienten oder für
+  Dritte besteht, ist diese (wenn möglich) zu beseitigen,
+  dazu zählt u. U. auch der Rückzug und die Herbeiziehung
+  der Exekutive.
+  \item Wahnvorstellungen sollen \EE{nicht ausgeredet}
+  werden.
+  \item  Wahnvorstellungen sollen aber auch \EE{nicht
+  bestätigt} werden.
+  \item Am besten man nimmt die Schilderungen des
+  Patienten \EE{interessiert, aber neutral und möglichst
+  kommentarlos} zur Kenntnis (\emph{\enquote{Mhm!}, \enquote{Aha.}}).
+\end{enumerate}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Unruhiger oder
+aggressiver Patient}{\label{m:aggressiver-patient}}{
+
+\begin{itemize}
+  \item Ruhe vermitteln und deeskalieren:
+  \begin{itemize}
+  \item  Ruhig bleiben! Achtung auf eigenen Tonfall!
+  \item Nicht provozieren!
+  \item Aufregung nicht abfärben lassen
+  \item \emph{\enquote{Talk down}}
+  \end{itemize}
+  \item Selbstschutz, Fluchtweg offen halten
+\end{itemize}
+
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenWide{Spezielle Maßnahmen}{Hitzekollaps,
+Hitzeerschöpfung,
+Hitzschlag}{\label{m:systemische-hitzeschaedigungen}}{
+\FormatTable
+
+\begin{tabularx}{\linewidth}{XXX}
+\TabHeading{Hitzekollaps}
+&
+\TabHeading{Hitzerschöpfung}
+&
+\TabHeading{Hitzschlag}
+\\\addlinespace\midrule\addlinespace
+% \begin{minipage}{\linewidth}
+\begin{itemize}
+  \item Flachlagerung: ${\rightarrow}$ Gehirndurchblutung
+  wieder ${\uparrow}$, bewusstseinsklar
+  \item nach Sekunden gebessert, \enquote{regelt sich von
+  selbst}
+  \item Patient sitzen lassen, Flüssigkeit
+\end{itemize}
+% \end{minipage}
+&
+% \begin{minipage}{\linewidth}
+\begin{itemize}
+  \item Kühlung, Schatten
+  \item Flüssigkeitszufuhr, wenn bewusstseinsklar
+  \item Neurocheck inkl. BZ-Messung
+\end{itemize}
+% \end{minipage}
+&
+% \begin{minipage}{\linewidth}
+\begin{itemize}
+  \item \TxMassVitMK
+  \item Beengende Kleidungsstücke lockern
+  \item Flachlagerung an kühlem Ort (Schatten), Beine und Kopf hochlagern. 
+  \item Kühlung von \E{außen} (Fächer, mit Eiswürfeln abreiben etc.)
+  \item Kühlung von \E{innen}: für \EE{ansprechbare} Patienten viel kühle
+  (alkoholfreie) Flüssigkeit, evtl. Elektrolyt-Getränke
+  \item Neurocheck inkl. BZ-Messung
+\end{itemize}
+% \end{minipage}
+\\\addlinespace\bottomrule
+\end{tabularx}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Sonnenstich}{\label{m:sonnenstich}}{
+
+\begin{itemize}
+  \item Vitale Bedrohung einschätzen
+  \TxBeiVit \TxMassVitMK
+  \item Flachlagerung an kühlem Ort (Schatten), Kopf hochlagern
+  \item Beengende Kleidungsstücke lockern
+  \item Kühlung von außen (Fächer, mit Eiswürfeln abreiben, kalte
+  Umschläge auf die Stirn etc.)
+  \item Kühlung von innen: für \EE{ansprechbare} Patienten kühle
+  (alkoholfreie) Flüssigkeit, evtl. Elektrolyt-Getränke
+%   \item Schocklagerung u. -bekämpfung. % REVIEW 2010-05-19
+  \item Neurocheck inkl. BZ-Messung
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Schwere Unterkühlung
+(\textless\,34\DegC*)}{\label{m:unterkuehlung-schwer}}{
+
+\begin{itemize}
+  \item \TxMassVitMK
+  \item Den Patient so wenig als möglich (nur soviel wie unbedingt nötig)
+  bewegen (drohender Bergungstod).
+  \item Schutz vor weiterer Abkühlung, \Ca{keine \underbar{aktive}
+  Erwärmung!}
+  \begin{itemize}
+    \item Woll- und Aludecken! Mütze!
+  \end{itemize}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenWide{Allgemeine Maßnahmen und
+Herangehensweise}{Vergiftungen}{\label{m:am-vergiftung}}{
+\begin{enumerate}
+  \item Selbstschutz
+  \item Beendigung des Giftkontaktes
+  \item Evtl. Dekontamination bei
+  Gefahrstoffen\footnote{z.\,B. Insektizide, Lösungsmittel
+  in der chemischen Industrie, \ldots}
+  \item Sicherung der Vitalfunktionen
+  \item Entscheidung, ob es sich um einen akut vital
+  bedrohten Patienten handelt
+  \item Quellenforschung (Mistkübel
+  durchsuchen)
+  \item Nüchtern lassen
+  \item NICHT absichtlich Erbrechen
+  herbeiführen
+  \item Asservierung (Packungen, Erbrochenes in
+  Nierentasse mitnehmen!)
+  \item Anamnese, Besonderheiten:
+  \begin{multicols}{2}
+\begin{enumerate}\raggedbottom
+  \item \EE{Wer}? (Alter, KG, Vorerkrankungen, \ldots
+  $\rightarrow$ Risikoabschätzung!)
+  \item \EE{Was}? (Art des Giftes $\rightarrow$ evt.
+  zu erwartende Symptome)
+  \item \EE{Wann}? (Zeit seit Einnahme)
+  \item \EE{Wie}?
+  (inhalativ, oral, perkutan, intravenös etc.)
+  \item \EE{Wieviel}? (Dosisabschätzung)
+  \item \EE{Warum}? (Ursachenforschung:
+  Selbst\-mord\-ver\-such, Unfall, Fremdverschulden,
+  Vorsatz?)
+\end{enumerate}
+\end{multicols}
+\item Ggfs. \EE{Expertenrat einholen} und Entscheidung
+bezüglich des weiteren Vorgehens
+
+\begin{multicols}{2}
+\begin{enumerate}\raggedbottom
+  \item Gegenmittel verfügbar?
+  \item \enquote{Normales} Spitalsbett?
+  \item Intensivüberwachung?
+  \item Intensivüberwachung mit Entgiftungseinheit?
+  \item Dialyse?
+  \item Druckkammer?
+  \item Sonstige Spezialbehandlungseinheit?
+\end{enumerate}
+\end{multicols}
+\end{enumerate}
+}
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Vergiftungen mit
+Alkohol}{\label{m:intoxikation-alkohol}}{
+\begin{itemize}
+    \item Allgemeine Maßnahmen bei Vergiftungen
+    (\prettyref{m:am-vergiftung})
+    \item \TxBeiVit \TxMassVitMK
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Opiatvergiftung}{\label{m:intoxikation-opiate}}{
+\begin{itemize}
+    \item Allgemeine Maßnahmen bei Vergiftungen
+    (\prettyref{m:am-vergiftung})und
+    symptomatische Therapie
+    \item \TxBeiVit \TxMassVitMK
+\end{itemize}
+
+\Customized{
+\begin{description}
+  \item[\CustAsboe] Bei der Opiatintoxikation mit Atemstörung ist die Gabe
+  von Naloxon nasal oder i.\,v. gem. Algorithmus durch NKA/NKV vorgesehen.
+  \cite{Asb921Memo-AL-2011-000001}.
+\end{description}
+}
+
+%Allgemeine Maßnahmen bei Vergiftungen
+%(\ref{vergiftung-allgemein-massnahmen})und symptomatische
+%Therapie. 
+% Gegenmittel verfügbar.
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Vergiftung mit
+Uppers}{\label{m:intoxikation-uppers}}{
+\begin{itemize}
+    \item Allgemeine Maßnahmen bei Vergiftungen
+    (\prettyref{m:am-vergiftung}) und
+    symptomatische Therapie
+    \item \TxBeiVit \TxMassVitMK
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Allgemeine Maßnahmen}{Stickgasvergiftungen}{\label{m:am-stickgase}}{
+
+
+\begin{enumerate}
+  \item Auf Selbstschutz achten!
+  \item Patienten retten, aber nur wenn es der
+  Eigenschutz zulässt.
+  \item \ce{O2}-Berieselung mit Maske ist in keinem Fall
+  ein ausreichender Atemschutz!
+  
+  \item Spezialkräfte anfordern (Schwerer Atemschutz).
+  I.\,d.\,R. Feuerwehr
+  \item Weitere Opfer ausschließen (lassen):
+  Nachbarwohnungen, etc.
+  \item Sicherung der Vitalfunktionen, Beurteilung ob der
+  Patient vital bedroht ist.
+  \item \TxBeiVit \TxMassVitMKBes
+  \begin{itemize}
+    \item \ce{O2} hochdosiert, 15\LPerMin*
+    \item Lagerung: situationsgerecht.
+  \end{itemize}
+  \item Traumacheck (Folgeverletzungen)
+  \item Neurocheck inkl. Blutzuckerbestimmung
+  (Differentialdiagnosen, Beurteilung der Beeinträchtigung im Verlauf)
+\end{enumerate}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Kohlenmonoxid-Vergiftung}{\label{m:intoxikation-kohlenmonoxid}}{
+
+\begin{itemize}
+    \item Allgemeine Maßnahmen bei
+Stickgas-Vergiftungen
+(\prettyref{m:am-stickgase})
+\item \Z{Hyperbare \ce{O2}-Therapie in der Druckkammer erwägen}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Kohlendioxid-Vergiftung}{\label{m:intoxikation-kohlendioxid}}{
+Allgemeine Maßnahmen bei Stickgas-Vergiftungen
+(\prettyref{m:am-stickgase})
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Allgemeine
+Maßnahmen}{Reizgasvergiftungen}{\label{m:am-reizgase}}{
+
+
+\begin{enumerate}
+  \item Auf Selbstschutz achten!
+  \begin{itemize}
+    \item Patienten retten, aber nur wenn es der
+    Eigenschutz zulässt.
+    \item \ce{O2}-Berieselung mit Maske ist in keinem Fall
+    ein ausreichender Atemschutz!
+  \end{itemize}
+  \item Gefahr erkennen: Welcher Stoff? Expertenrat einholen!
+  \item Wenn erforderlich: Absperrmaßnahmen durchführen
+  \item Wenn erforderlich:  Spezialkräfte anfordern
+  \item Vorgehen analog zu Abschnitt \enquote{Gefahrengutunfall}
+  (\prettyref{AASS-topic:gefahrengutunfall})
+  \item Weitere Opfer ausschließen (lassen):
+  Nachbarwohnungen, etc
+  \item Sicherung der Vitalfunktionen, Beurteilung ob der
+  Patient vital bedroht ist.
+  \item \TxBeiVit 
+  \item Traumacheck (Folgeverletzungen)
+  \item Neurocheck inkl. Blutzuckerbestimmung
+  (Differentialdiagnosen, Beurteilung der Beeinträchtigung im Verlauf)
+\end{enumerate}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Einnahme von Säuren oder
+Laugen}{\label{m:saeuren-laugen}}{
+\begin{itemize}
+  \item Allgemeine Maßnahmen bei Vergiftungen
+  (\prettyref{m:am-vergiftung})
+  \item Schluckweise Wasser zur Verdünnung trinken lassen
+  \item \EE{Niemals absichtlich Erbrechen  herbeiführen!}
+  \item \Z{Keine Neutralisationsversuche! (Milch
+  obsolet!)}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Einnahme von
+schaumbildenden Substanzen}{\label{m:schaumbildner}}{
+\begin{itemize}
+    \item Allgemeine Maßnahmen bei Vergiftungen
+    (\prettyref{m:am-vergiftung})
+    \item Patienten nüchtern lassen
+    \item \EE{Niemals absichtlich Erbrechen 
+    herbeiführen!}
+\end{itemize}
+}
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Allgemeine Maßnahmen}{Wundversorgung}
+{\label{m:wundversorgung}}
+{
+\begin{itemize}
+  \item Wunden dürfen nicht direkt berührt werden, außer es
+  ist zur raschen Blutstillung unbedingt notwendig! 
+Es
+  muss immer mit Handschuhen und mit \EE{sterilem Material}
+  gearbeitet werden!\footnote{Bei der Wundversorgung sind
+  immer sterile Materialien zu verwenden. Papierhandtücher
+  o.\,ä. sind \E{nicht zulässig}! Eine Ausnahme kann
+  lediglich bei der Versorgung des Stichs bei der
+  Blutzuckermessung mittels eines sauberen Tupfers gemacht
+  werden, da die Wunde minimal klein ist.}
+  
+  % \item Wunden sollen grundsätzliche \E{nicht} gereinigt
+  % werden! Sie dürfen nur lose Glassplitter oder ähnliches
+  % vorsichtig aus der Wunde entfernen.
+  \item \EE{Reinigung}: Oberflächliches \EE{ab}spülen mit
+  steriler \I[Kochsalzlösung!pyhsiologische]{physiologischer
+  Kochsalzlösung} (\ce{NaCl}
+  0,9\PC*) von innen
+  nach außen. Bei oberflächlichen
+  Wunden ist auch ein Abspülen unter fließendem \IX{Leitungswasser} 
+  zulässig \cite{Fernandez2012}. 
+  Wunden, die im Spital
+  weiter versorgt werden, sollen nicht übermäßig gereinigt werden, 
+  auch soll keine
+  wesentliche Zeitverzögerung entstehen.  
+  \Commentary[Wundreinigung]{Alternativ sind
+  statt der physiologischen Kochsalzlösung auch andere
+  kristalloide Infusionslösungen verwendbar. Die
+  Desinfektion mittels Wunddesinfektionsmittels ist nicht
+  mehr empfohlen. \cite{Fernandez2012}}
+  \item \EE{Fremdkörper} (Messer, Schere oder sonstige
+  Pfählungsgegenstände) sind \EE{in der Wunde zu belassen}!
+  Diese Gegenstände sind mit geeignetem Fixationsmaterial
+  (z.\,B. Mullbinden) zu stabilisieren. Lose, kleine
+  Fremdkörper wie z.\,B. Glassplitter dürfen mittels \E{steriler Instrumente} (Pinzette, {\ldots}) entfernt
+  werden.
+  \item Ausgetretene Strukturen (z.\,B. Gehirn, Eingeweide)
+  dürfen \E{nicht zurückgestopft} werden! Solche Organteile
+  sollten mit steriler physiologischer Kochsalzlösung
+feucht gehalten und anschließend steril abgedeckt werden! 
+  \item Ein steriler
+  Wundverband mit der jeweiligen Situation angemessenem
+  Material (z.\,B. Pflaster, Momentverband, Kompresse mit
+  Mullbinde, Wundfolie, \ldots) muss angelegt oder die
+  Wunde anderweitig steril, aber \E{nicht} luftdicht
+  abgedeckt werden (Ausnahme: Bagatellverletzungen).
+\end{itemize}
+}
+{}
+
+
+
+
+
+
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Allgemeine
+Maßnahmen}{Unfälle}{\label{m:am-unfaelle}}{%
+
+\begin{itemize}
+  \item Unfallstelle absichern!
+  \item Szeneüberblick: Wie viele Verletzte? Unfallszenario?
+  \item Ggf. weitere Einsatzkräfte nachfordern!
+  \item Beurteilung des Unfallmechanismus:
+  \begin{itemize}
+    \item Aus welcher Richtung hat die Kraft auf den Patienten eingewirkt?
+    \item Wie schnell war das Fahrzeug unterwegs? bzw. Aus
+    welcher Höhe ist der Patient gefallen?
+    \item War der Patient angegurtet? Haben Airbags
+    ausgelöst?
+    \item Welche besondere Verformungen sind am Fahrzeug
+    sichtbar?
+    \item Wurde der Patient aus dem Fahrzeug geschleudert?
+    bzw. Wurde ein Fußgänger erfasst?
+  \end{itemize}
+  \item Bei Hospitalisation: Patient \EE{nüchtern lassen!}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Fraktur}{\label{m:fraktur}}{
+\EE{Taktik}: \Speech{\Ca{Zeitkritisch. Evtl. vitale
+Bedrohung v.\,a. durch Blutverlust.}
+Erkennen
+von großen Blutverlusten, Blutstillung,  Steriles
+Abdecken, Einschätzen der vitalen Bedrohung, ggfs
+Schmerztherapie. 
+Bei \E{vitaler Bedrohung}: Zeitkritisch,
+zügiger Transport. 
+Bei \E{stabilen Patienten}: Schienung}
+
+
+
+
+\begin{itemize}
+  \item  \EE{Blutstillung}: Z.\,B. mit Beckengurt
+  (Beckenfraktur)
+  \item Vitale Bedrohung einschätzen, ggfs. \TxMassVitMK.
+  Ggfs. mit hypovolämischen Schock rechnen, Schockbekämpfung
+  \item  \EE{Wundversorgung}: Bei offenen Frakturen ist
+  Keimfreiheit be\-sonders wichtig, da  die Gefahr einer lebenslangen
+  Knochen\-marks\-ent\-zündung \Z{(Osteomyelitis)} besteht!
+  Wenn möglich soll eine \E{Wundfolie} (z.\,B.
+  \index{OpSite}\T{OpSite}\texttrademark ) verwendet werden.
+  \item Kleidung und Schmuck von den betroffenen Gliedmaßen
+  entfernen (Schwellung!)
+  \item Ggfs. Schmerztherapie (veranlassen)
+  \item Ruhigstellung/Schienung bei stabilen Patienten
+  \item Beurteilung von Durchblutung, Motorik und
+  Sensibilität (DMS) an der betroffenen Extremität und an
+  der Gegenseite
+  \item Transportentscheidung: Abt. f. Unfallchirurgie, bei
+  vitaler Bedrohung: Schockraum
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Verstauchung}{\label{m:verstauchung}} {%
+\begin{itemize}
+  \item Kleidung und Schmuck von der betroffenen Gliedmaße entfernen
+  (Vorsicht Schwellung!)
+  \item Ruhigstellen
+  \item Hochlagern
+  \item Kühlen
+  \item Beurteilung von Durchblutung, Motorik und
+  Sensibilität (DMS) an der betroffenen Extremität und an
+  der Gegenseite
+  \item Transportentscheidung: Abt. f. Unfallchirurgie
+%   (muss nicht sofort sein)
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Verrenkung}{\label{m:verrenkung}}
+{
+\begin{itemize}
+  \item Kleidung und Schmuck von der betroffenen Gliedmaße entfernen 
+  (Vorsicht Schwellung!)
+  \item Stellung der Gliedmaße belassen
+  \item Federnd fixierte Lagerung
+  \item \EE{Keine Einrenkversuche!}
+  \item Beurteilung von Durchblutung, Motorik und
+  Sensibilität (DMS) an der betroffenen Extremität und an
+  der Gegenseite
+  \item Transportentscheidung: Abt. f. Unfallchirurgie
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{SHT}{\label{m:am-sht}\label{m:sht}}{
+
+\begin{itemize}
+  \item Vitale Bedrohung beurteilen. \par \TxBeiVit
+  \TxMassVitMKBes
+  \begin{itemize}
+    \item Lagerung: s.\,u.
+    \item Monitoring: Zusätzlich Beurteilung nach GCS (Verlauf beobachten und
+    dokumentieren, \prettyref{AASS-topic:gcs})
+  \end{itemize}
+  \item Lagerung: leicht erhöhter Oberkörper, ca.
+  30\,\textdegree{}, wenn keine Kontraindikation
+  besteht.
+  \item Je nach Unfallmechanismus \Abk{HWS}-Immobilisation (z.\,B. mit Stifneck\texttrademark)
+  \item Ggfs. Wundversorgung
+  \begin{itemize}
+    \item Steriler Verband (steriles Abdecken)
+    \item Ausgetretene Hirnmasse feucht steril abdecken
+        und locker befestigen
+    \item Knochen oder Fremdkörper \E{nicht} entfernen oder zurück stopfen
+  \end{itemize}
+  %        \begin{itemize}
+%            \item Gedecktes \Abk{SHT}:
+%            \begin{itemize}
+%                \item Steriler Verband
+%            \end{itemize}
+%            \begin{itemize}
+%                \item Steriler Verband locker auf offene
+%                Verletzungen
+%                \item Knochen / Hirnteile NICHT
+%                zurückstopfen /  entfernen!
+%                \item Ausgetretene Hirnmasse feucht steril abdecken
+%            \end{itemize}
+%        \end{itemize}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}
+{Rückenmarksverletzung, Verdacht}
+{\label{m:ws-trauma-verdacht}}
+{%
+\EE{Taktik}: \Speech{
+Immobilisation und Transport in eine geeignete Einrichtung
+zur Abklärung}
+
+
+Vgl. \prettyref{m:einschaetzung-indikation-ws-immobilisation}
+\begin{itemize}
+  \item \EE{\Abk{HWS}-Immobilisation} (HWS-Schiene)
+  \item Bergung mit Schaufeltrage, Spineboard oder
+  KED-System
+  \item \EE{Lagerung} und Schienung mittels Vakuummatratze, Schaufeltrage mit
+  Fixationsmöglichkeit oder Spineboard.\footnote{Welches Hilfsmittel
+  eingesetzt wird ist abhängig vom Patientenzustand,
+  dem Training des Teams, internen Vorschriften und
+  vorhandenem Material.}
+  \item \EE{Monitoring}: Achte besonders auf Störungen
+  von Atmung und Bewusstsein, Schockentwicklung und
+  beginnende neurologische Ausfälle.
+%   \item \EE{Unfallmechanismus} erheben und dokumentieren
+  \item \EE{Transportentscheidung}: Je nach
+  lokalen Gegebenheiten
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}
+{Rückenmarksverletzung mit Symptomen}
+{\label{m:ws-trauma}}
+{%
+\EE{Taktik}: \Speech{\Ca{Zeitkritisch! Vitale Bedrohung!} Zügige Bergung,
+Immobilisation und Transport in eine geeignete Einrichtung}
+
+
+Vgl. \prettyref{m:einschaetzung-indikation-ws-immobilisation}
+\begin{itemize}
+  \item Bei ansprechbaren Patienten: immer
+  \EE{\Abk{HWS}-Immobilisation} (HWS-Schiene)
+  \item \EE{Bergung} mit Schaufeltrage, Spineboard oder
+  KED-System
+  \item \EE{Lagerung} und Schienung mittels
+  mit Vakuummatratze, Schaufeltrage mit Fixationsmöglichkeit oder
+  Spineboard.\footnote{Welches Hilfsmittel
+  eingesetzt wird ist abhängig vom Patientenzustand,
+  dem Training des Teams, internen Vorschriften und
+  vorhandenem Material.}
+  \item Bei Querschnittslähmung: Kennzeichnung der
+  Sensibilitätsgrenze mit Angabe der Uhrzeit
+  \item \EE{Monitoring}: Achte besonders auf Störungen
+  von Atmung und Bewußtsein, sowie Schockentwicklung.
+%   \item \EE{Unfallmechanismus} erheben und dokumentieren 
+  \item \EE{Transportentscheidung}: Schockraum
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Pneumothorax}{\label{m:pneumothorax}}
+{
+\EE{Taktik}: \Speech{\Ca{Zeitkritisch! Vitale Bedrohung!}
+Entlastungspunktion, zügiger Transport
+in eine geeignete Einrichtung}
+
+\begin{itemize}
+  \item \TxMassVitMKBes
+  \begin{itemize}
+    \item \EE{Lagerung}: Oberkörper hoch. Wenn stabile
+    Seitenlage notwendig ist, dann Lagerung auf die
+    \E{verletzte} Seite, damit die unverletzte
+    Lunge  nicht unnötig belastet wird.
+    \item \Z{\EE{Notarzt}: Ein Pneumothorax kann mittels
+    Drainage bzw. Punktion entlastet werden (ärztliche Maßnahme).}
+  \end{itemize}
+  \item \EE{Verband} bei offener Thoraxverletzung: \EE{Nicht
+  luftdicht verbinden}, es kann sonst ein
+  Spannungspneumothorax entstehen! Steril abdecken.
+  \item \EE{Transportentscheidung}: Schockraum
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Bauchtrauma,
+offen}{\label{m:bauchtraume-offen}}{
+\EE{Taktik}: \Speech{\Ca{Zeitkritisch! Vitale Bedrohung!}
+Zügiger Transport in eine geeignete Einrichtung}
+
+\begin{itemize}
+  \item \TxMassVitMKBes
+  \begin{itemize}
+    \item \EE{Lagerung}: Bauchdecke entspannen , Knierolle
+  \end{itemize}
+  \item Darmteile nicht  zurückstopfen ${\rightarrow}$ sonst
+  Darmriß/Darmverschluß
+  \item Steril abdecken, mit Ringerlösung feucht halten
+  \begin{itemize}
+    \item Gefahr des Eindringens von Keimen  (Peritonitis/Sepsis!)
+  \end{itemize}
+  \item \EE{Transportentscheidung}: Schockraum
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Beckentrauma,
+instabil}{\label{m:beckentrauma-instabil}}
+{
+\begin{itemize}
+  \item \TxMassVitMKBes
+  \begin{itemize}
+    \item Lagerung: flach
+  \end{itemize}
+  \item Schockbekämpfung
+  \item Wirbelsäulenschonende, situationsgerechte Rettung (z.\,B. mittels
+  Schaufeltrage)
+  \item Lagerung auf/Schienung mit Vakuummatratze (wenn
+  Lagerung mit erhöhten Beinen notwendig ist,
+  Tragentisch schräg stellen)
+  \item Bei Beckenfraktur:
+  \index{Beckengurt}\EE{Beckengurt}, zur Not mit
+  Gürtel
+  \item Transportentscheidung: Schockraum
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Polytrauma}{\label{m:polytrauma}}
+{%
+\EE{Taktik}: \Speech{\Ca{Vitale Bedrohung! Zeitkritisch!}
+Rasche Bergung, Stabilisierung
+der Vitalfunktionen, Immobilisierung, rasche Versorgung von
+\E{gefährlichen} Verletzungen, rascher Transport}
+
+
+\begin{itemize}
+  \item \TxMassVitMKBes
+  \begin{itemize}
+    \item Lagerung: situationsgerecht, ggfs.
+    Wirbelsäulenimmobilisation, bzw. entsprechend den
+    Verletzungen und der Herz-Kreislauf-Situation
+%     -- Prioritäten absteigend:
+%     {
+%     \scriptsize
+%     \begin{enumerate}
+%       \item Atem- und Kreislaufstillstand $\rightarrow$ Rückenlage
+%       \item Bewusstlosigkeit, nicht intubiert $\rightarrow$ stabile Seitenlage 
+%       (bei Thorax- und/oder Extremitätentrauma auf verletzte Seite legen)
+%       \item Atemnot bei Thoraxtrauma $\rightarrow$ Oberkörper hoch (45\textdegree)
+%       \item Abdominaltrauma $\rightarrow$ Schonhaltung, Knierolle
+%       \item \Abk{SHT} $\rightarrow$ Oberkörper hoch (30\textdegree)
+%       \item Wirbelsäulentrauma $\rightarrow$ Flachlagerung auf Vakuummatratze
+%       \item Extremitätentrauma $\rightarrow$ Extremität schienen und fixieren
+%       \item Schock $\rightarrow$ Hochlagerung der Beine
+%       durch schräg stellen des Tragentisches
+%     \end{enumerate}
+%     }
+  \end{itemize}
+  \item Gefährliche Verletzungen versorgen (starke
+  Blutungen, Beckengurt, \ldots) 
+  \item \EE{Wärmeerhalt}: Der Wärmeerhalt hat massiven Einfluss auf das
+  Überleben!
+%   \item Wenn einigermaßen stabil, gründlicher  Traumacheck
+  \item Verletzungsmuster/Unfallmechanismus erheben $\rightarrow$ zu 
+  erwartende Komplikationen einschätzen
+  \item \Z{Notarzt: Schmerztherapie, Narkose, Intubation und
+  Beatmung}
+  \item Transportentscheidung:
+  \begin{itemize}
+    \item Transportentscheidung: Schockraum, mit
+    Voranmeldung (Aviso) über Leitstelle
+    \item Hubschrauber-Transport erwägen
+  \end{itemize}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Versorgung eines
+Amputats}{\label{m:amputat}}
+{%
+\begin{itemize}
+  \item Keine Reinigung des Amputats
+  \item Sterile und trockene Versorgung des Amputats
+  (Verband)
+  \item Transport in doppelwandigem
+  Amputatsbeutel (Replant-Beutel) bei  einer Temperatur von
+  ca. 4\,\DegC \cite{BoehmerTaschRett6,Gorgass7,LPN3}.
+  Zwischen die beiden Schichten des Beutels gibt man Wasser
+  mit Eis (im Verhältnis 1:1).
+  \item Das Amputat darf auf keinen Fall einfrieren -- im
+  Zweifelsfall eher wärmer als kälter lagern. Auch der
+  direkte Kontakt zu Wasser oder Eis muss unbedingt
+  vermieden werden!
+  \item \Z{Ausgeschlagene Zähne sollten in einer geeigneten
+  antiseptischen Flüssigkeit transportiert werden.
+  \cite{BoehmerTaschRett6,Gorgass7}}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Verbrennung, leicht}{\label{m:verbrennung-leicht}}
+{    
+\begin{itemize}
+  \item Selbstschutz!
+  \item Kleiderbrand löschen
+  \item Vitale Bedrohung einschätzen. \TxBeiVit \TxMassVitMK
+  \item Kleidung und Schmuck entfernen (sofern nicht  eingeschmolzen!)
+  \item Nur wenn \E{unmittelbar nach dem Unfall\footnote{Bereits zwei
+  Minuten nach Verbrennungsbeginn und damit bei Eintreffen
+  des Rettungsdienstes ist ein
+  positiver Effekt der Kühlung nicht mehr zu erwarten. Bei
+  mehreren Minuten zurückliegenden Verbrennungen ist eine
+  Kühlung nicht mehr sinnvoll.
+  \cite{Asanger2010,AsboeLehrmeinungRd2011-21}}}
+  damit begonnen werden kann, für max. 10\Min* mit handwarmen
+  Wasser die betroffenen Körperregionen spülen;
+  
+  \EE{Bei Frösteln des Patienten früher abzubrechen: Gefahr der Unterkühlung!}
+  \item \EE{Abdeckung}: Sterile, nicht verklebende
+  Wundauflagen; evtl. metalliserte Wundauflagen
+  \cite{Helfen2008,RedelsteinerHRNS1}; locker anlegen
+  % DISCUSS INHALT: Water-Jel, Stellungsnahme
+  %         \item Wenn vorhanden: Water-Jel
+  \item Ggfs. Schockbekämpfung
+  %   \item Ggfs. Notarzt-Anforderung
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Verbrennung, schwer}{\label{m:verbrennung-schwer}}
+{%
+\begin{itemize}
+  \item \TxMassVitMK
+  \item Kleidung und Schmuck entfernen (sofern nicht  eingeschmolzen!)
+  \item Besonders auf \EE{Wärmeerhalt} achten!
+  \item Luftzug vermeiden
+  \item \Z{\E{Keine} Kühlung\footnote{Bei großflächigen
+  Verbrennungen sollte der Patient nur primär abgelöscht werden. Hier soll
+  keine Kühlung der betroffenen Hautregionen erfolgen.
+  \cite{Asanger2010}}}
+%   \item Mind. 10 min. mit mäßig kaltem Wasser die betroffenen Körperregionen spülen  --
+%   \EE{NICHT unterkühlen!} 
+%   OBSOLETE: Großflächige Verbrennungen (Erwachsene
+% > 20% KOF, Kinder > 10% KOF, Säuglinge > 5%) sollten nur primär
+% abgelöscht und keimfrei abgedeckt werden. Hier erfolgt keine Kühlung
+% der betroffenen Regionen.
+  \item \EE{Abdeckung}: Sterile, nicht verklebende
+  Wundauflagen, evtl. metalliserte Wundauflagen
+  \cite{Helfen2008,RedelsteinerHRNS1}.\ACh{GABS}{2010-08-06}{Metallisierte
+  Verbände sind wünschenswert, werden zB in Helfen2008 
+  empfohlen.}\ZFootnote{Der Nutzen  von kühlenden
+  Spezialverbänden, z.\,B. Waterjel{\texttrademark} ist
+  aufgrund  der Unterkühlungs-Gefahr und einer  möglichen
+  Durchblutungsstörung der Wunde
+  (Gefahr von Wundheilungsstörungen im weiteren Verlauf)
+  umstritten.} Locker anlegen. Bei großflächigen
+  Verbrennungen können,  wenn das sterile Material nicht
+  ausreicht,  zur Not auch saubere Leintücher o.\,ä. 
+  verwendet werden \cite{emergency9,Asanger2010}.
+  % TODO INHALT: Stellungsnahme zu Water-Jel
+  %         \item Wenn vorhanden: Water-Jel
+  %         \footnote{Streitfrage: Water-Jel: Umstritten}
+  \item Schockbekämpfung
+  \item \Z{NKV+: Infusionstherapie mit \E{kristalloiden} Lösungen; kolloidale
+  Lösungen sind \E{kontraindiziert}.}
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Inhalationstrauma}{\label{m:inhalationstrauma}}{
+
+\begin{itemize}
+  \item Vitale Bedrohung einschätzen. \par
+  \TxBeiVit \TxMassVitMK
+  \item Lagerung: Oberkörper hoch
+  \item \ce{O2}-Gabe gemäß \prettyref{m:sauerstoffberieselung}
+  \item Engmaschiges Monitoring
+\end{itemize}
+
+% \Customized{
+% \begin{description}
+%   \item[\CustAsbFlo] Notfallsanitäter geben bei einer Rauch- oder
+%   Reizgasinhalation ein inhalatives Kortikoid (z.\,B.
+%   Pulmicort{\texttrademark}) laut Algorithmus der
+%   Medikamentenliste~1.
+% \end{description}
+% }
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle Maßnahmen}{Verletzungen mit chemischen
+Substanzen}{\label{m:chemische-verletzungen}}{
+
+\begin{enumerate}
+  \item Auf Selbsschutz achten!
+  \begin{itemize}
+    \item Patienten ggfs. retten, aber nur wenn es der
+    Eigenschutz zulässt.
+  \end{itemize}
+  \item Gefahr erkennen: \EE{Welcher Stoff?}  Expertenrat einholen!
+  \item Wenn erforderlich: Vorgehen analog zu Abschnitt
+  \enquote{Gefahrengutunfall}, GAS-Regel
+  (\prettyref{AASS-topic:gefahrengutunfall})
+  \item Weitere Opfer ausschließen (lassen)
+  \item Sicherung der Vitalfunktionen, Beurteilung ob der
+  Patient vital bedroht ist.
+  \item \TxBeiVit \TxMassVitMKBes
+  \begin{itemize}
+    \item Lagerung: situationsgerecht.
+  \end{itemize}
+  \item Entfernung kontaminierter Kleidung
+  \item Spülung der betroffenen Hautpartien mit Wasser  (richtig abrinnen
+  lassen)
+  \item Auge: Spülung mit Wasser / Ringerlösung (nach außen abrinnen
+  lassen!),  Kontaktlinsen entfernen
+  \item Transportentscheidung: Ab einer Ausdehnung von
+  15\PC* (Erwachsener) bzw. 10\PC* (Kind) Spezialabteilung
+  für Verbrennungsverletzungen. Bei Augenverletzungen Abt.
+  für Augenheilkunde.
+\end{enumerate}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Erfrierungen}{\label{m:erfrierung}}
+{%
+\begin{itemize}
+  \item Beengende Kleidungsstücke lockern (Einschnürung erhöht
+  Risiko einer Erfrierung)
+  \item Keimfreier, gepolsterter Verband
+  \item Warme, gezuckerte Getränke -- KEIN Alkohol
+  \item Körperstamm wärmen, NIE den erfrorenen Körperteil abreiben!!
+\end{itemize}
+}
+
+
+
+
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % 
+% \ProcedurePrintDefault{}
+\MassnahmenNG{Spezielle
+Maßnahmen}{Stromunfälle}{\label{m:stromunfall}}
+{
+\begin{itemize}
+  \item \EE{Eigenschutz!} Bevor der Patienten berührt wird,
+  muss man sich vergewissern, dass der Patient
+  keinen Kontakt mehr mit dem Stromkreis hat! \EE{Strom
+  abschalten (lassen)!}
+  \begin{itemize}
+    \item Gefahrenbreich beachten:
+    \prettyref{AASS-topic:gefahrenbereich-strom}
+    \item Sicherheitsabstand
+    (\prettyref{AASS-topic:gefahrenbereich-strom})
+    \item Schrittspannung und Spannungskegel
+    beachten (\prettyref{AASS-topic:gefahrenbereich-strom})
+    \item Bahnanlagen sperren/sichern lassen
+    (\prettyref{AASS-topic:gefahrenbereich-strom})
+    \item Schalter ausschalten, (Haupt-)Sicherung
+    auslösen, Starkstrom/Hochspannung durch Fachmann  abschalten bzw.
+    erden lassen
+    \item Strom gegen Wiedereinschalten sichern!
+    \item Patient mit isolierendem Material aus dem Stromkreis befreien
+
+  \end{itemize}
+  \item Beurteilung der vitalen Bedrohung.
+  \par \TxBeiVit
+  \TxMassVitMK
+  \item \EE{Monitoring und
+  Reanimationsbereitschaft}: auf evtl.
+  Herzrhythmusstörungen vorbereitet sein
+  (bis zu 24\,h Latenz)
+  \item Genaue Patientenuntersuchung ${\rightarrow}$
+  Eintritts- und Austrittsmarke
+  \item Hospitalisierung auch bei symptomlosen
+  Patienten zur Überwachung
+  \item Stromverbrennungen wie Verbrennungen versorgen
+\end{itemize}
+}
+
+
+
+
+
+% \appendix
+% {\WideParBegin}
+% \part{Appendix}
+% {\WideParEnd}
+%\setcounter{page}{0}
+
+% \pagenumbering[Appendix]{bychapter}
+
+
+% \chapter{Verzeichnisse}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Kommentare
+\printnotes
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Literaturverzeichnis
+% \opt{STATUS-WITH-BIBLIO}{{\loadgeometry{FullPage}\twocolumn\tiny\setlength{\parskip}{0pt}\cleardoublepage\printbibliography\restoregeometry}\onecolumn}
+% \opt{STATUS-WITH-BIBLIO}{{\setlength{\parskip}{0pt}\bibliography{Literatur-AASS}}}
+{\loadgeometry{FullPage}\twocolumn\setlength{\parskip}{0pt}\cleardoublepage\printbibliography\restoregeometry\twocolumn}
+
+
+
+
+
+
+
+\pagestyle{empty}\loadgeometry{WholePage}
+\small\flushleft
+
+\chapter{Übersichten und Tabellen}
+
+
+\Layout{57}{}{}{}{
+\begin{tabular}{m{2.55cm}m{2.5cm}m{2.55cm}m{2.5cm}}
+\toprule\addlinespace
+\multicolumn{2}{m{5.1cm}}{\centering \TabHeading{Allgemeine
+Kennzeichnung} (Sammeltransporte)} &
+\multicolumn{2}{m{5.1cm}}{\centering \TabHeading{Spezielle
+Kennzeichnung}} \\\addlinespace\midrule\addlinespace
+\includegraphics[width=\linewidth]{./images/khd/warntafel-allgemein.png}
+ &
+ &
+\includegraphics[width=\linewidth]{./images/khd/warntafel-un-60-1710.png}
+ &
+Gefahrnummer\par (\T{Kemler-Nummer})
+
+Stoffnummer\par (\T{UN-Nummer})
+\\\addlinespace\bottomrule
+\end{tabular}
+}{Kennzeichnung durch Gefahrentafel.}{}
+
+
+
+
+\Layout{57}{}{}{}{
+\begin{tabulary}{\linewidth}{cL}
+\addlinespace\toprule\addlinespace
+ 2 & Entweichen von Gas durch Druck oder chemische Reaktion
+\\\addlinespace
+ 3 & Entzündbarkeit von Flüssigkeiten (Dämpfen) und Gasen oder 
+selbsterhitzungsfähiger flüssige
+Stoffe (z.B. Benzin, Diesel)
+\\\addlinespace
+ 4 & Entzündbarkeit von festen Stoffen oder
+selbsterhitzungsfähiger fester Stoffen
+\\\addlinespace
+ 5 & Oxidierende (brandfördernde) Wirkung
+\\\addlinespace
+ 6 & Giftigkeit oder Ansteckungsgefahr
+\\\addlinespace
+ 7 & Radioaktivität
+\\\addlinespace
+ 8 & \"Atzwirkung
+\\\addlinespace
+ 9 & Gefahr einer spontan heftigen Reaktion
+\\\addlinespace
+0 & Keine weitere Gefahr
+\\\addlinespace
+ {\sffamily X} & Reagiert gefährlich mit Wasser
+\\\addlinespace\bottomrule
+\end{tabulary}
+}{Bedeutung der
+Ziffern der Gefahrennummer\label{tab:gefahrennummer}}{}
+
+
+
+
+
+\Layout{57}{}{}{}{
+\begin{tabulary}{\linewidth}{cL}
+\addlinespace\toprule\addlinespace
+22 & Tiefgekühltes Gas
+\\\addlinespace
+X323 & Entzündbarer flüssiger Stoff, der mit Wasser gefährlich reagiert, wobei entzündbare Gase entweichen
+\\\addlinespace
+X333 & Selbstentzündliche Flüssigkeit, die mit Wasser gefährlich reagiert
+\\\addlinespace
+X423 & Entzündbarer fester Stoff, der mit Wasser gefährlich reagiert, wobei brennbare Gase entweichen
+\\\addlinespace
+44 & Entzündbarer fester Stoff, der sich bei erhöhter Temperatur in Geschmolzenem Zustand befindet
+\\\addlinespace
+539 & Entzündbares organisches Peroxid
+\\\addlinespace
+90  & Verschiedene gefährlich Stoffe
+\\\addlinespace\bottomrule
+\end{tabulary}
+}
+{Spezielle Ziffernkombinationen bei der
+Gefahrennummer\label{tab:gefahrennummer-spezielle-ziffernkombinationen}}
+{}
+
+
+
+
+
+
+
+
+
+
+\Layout{57}{}
+{}
+{}
+{
+\begin{tabulary}{\linewidth}{cLcL}
+\toprule\addlinespace
+0048 & Sprengkörper & 1223 & Kerosin
+\\\addlinespace
+0333 & Feuerwerkskörper & 1789 & Salzsäure
+\\\addlinespace
+1005 & Ammoniak & 1830 & Schwefelsäure
+\\\addlinespace
+1011 & Butan & 1962 & Ethylen
+\\\addlinespace
+1013 & Kohlendioxid & 1972 & Methan oder Erdgas (tiefgekühlt, flüssig)
+\\\addlinespace
+1017 & Chlor & 1977 & Stickstoff
+\\\addlinespace
+1052 & Flußsäure & 1978 & Propan
+\\\addlinespace
+1090 & Aceton & 3295 & Kohlenwasserstoff, flüssig
+\\\addlinespace
+1203 & Benzin & 3312 & Gas, tiefgekühlt, flüssig
+\\\addlinespace\bottomrule
+\end{tabulary}
+}
+{Ausgewählte Stoffnumern}
+{}
+
+
+
+
+
+
+
+
+\begin{WidePar}
+\FormatTable\scriptsize
+
+\begin{tabularx}{\linewidth}{XXXXXXXXX}
+\toprule\addlinespace
+\multicolumn{9}{c}{{\normalsize\TabSub{Gefahrgutsymbole}}}
+\\\addlinespace \multicolumn{9}{c}{\Z{\footnotesize nach Verordnung
+(EG) Nr. 1272/2008 gültig ab 1.12.2010 \cite{EG-1272-2008-De}}}
+\\\addlinespace\midrule\addlinespace
+
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/ghs01_explodingbomb.png}
+&
+
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/ghs02_flame.png}
+&
+
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/ghs03_flameovercircle.png}
+&
+
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/ghs04_gascylinder.png}
+&
+
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/ghs05_corrosion.png}
+&
+
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/ghs06_skullandcrossbones.png}
+&
+
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/ghs07_exclamationmark.png}
+&
+
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/ghs08_healthhazard.png}
+&
+
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/ghs09_environment.png}
+\\\addlinespace
+Gefahr:\newline
+Explosions\-gefährlich
+&
+Gefahr:\newline
+Leicht-/Hoch\-entzündlich 
+&
+Gefahr:\newline
+Brandfördernd 
+&
+Achtung:\newline
+Komprimierte Gase 
+&
+Gefahr:\newline
+Ätzend 
+&
+Gefahr:\newline
+Giftig/ Sehr giftig 
+&
+Achtung:\newline
+Gesundheits\-gefährdend 
+&
+Gefahr:\newline
+Gesundheits\-schädlich  
+&
+Warnung:\newline
+Umwelt\-gefährdend
+\\\addlinespace
+\Z{\tiny GHS01}
+&
+\Z{\tiny GHS02}
+&
+\Z{\tiny GHS03}
+&
+\Z{\tiny GHS04}
+&
+\Z{\tiny GHS05}
+&
+\Z{\tiny GHS06}
+&
+\Z{\tiny GHS07}
+&
+\Z{\tiny GHS08}
+&
+\Z{\tiny GHS09}
+\\\addlinespace\midrule\addlinespace
+\multicolumn{9}{c}{Diese GHS-Symbole werden mit
+Gefahrenhinweisen und Sicherheitshinweisen ergänzt!}
+\\\addlinespace\toprule\addlinespace
+\multicolumn{9}{c}{{\normalsize \TabSub{Alte Zeichen und
+Gefahrenbezeichnungen} (Bis Mitte 2017)}}
+\\\addlinespace\midrule\addlinespace
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/gefahr5.png}
+&
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/gefahr1.png}
+&
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/gefahr2.png}
+&
+&
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/gefahr3.png}
+&
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/gefahr6.png}
+&
+
+&
+
+&
+\includegraphics[width=\linewidth]{./images/GEF/gefahrensymbole/gefahr4.png}
+\\\addlinespace
+\multicolumn{1}{c}{E} 
+&
+\multicolumn{1}{c}{F, F+} 
+&
+\multicolumn{1}{c}{O} 
+&
+&
+\multicolumn{1}{c}{C} 
+&
+\multicolumn{1}{c}{T, T+} 
+&
+
+&
+
+&
+\multicolumn{1}{c}{N} 
+\\\addlinespace
+Explosions\-gefährlich 
+&
+Leicht-/Hoch\-entzündlich 
+&
+Brandfördernd 
+&
+keine Entsprechung 
+&
+Ätzend 
+&
+Giftig/ Sehr giftig
+&
+keine Entsprechung
+&
+keine Entsprechung 
+&
+Umwelt\-gefährlich
+\\\addlinespace\bottomrule
+\end{tabularx}
+\end{WidePar}
+
+
+
+
+
+
+
+\Layout{57}{}
+{}
+{}
+{% \begin{WidePar}
+{\footnotesize
+\begin{tabular}{m{0.28\linewidth}m{0.15\linewidth}m{0.28\linewidth}m{0.15\linewidth}}
+\toprule\addlinespace
+% \TabHeading{Gefahrenklasse} 
+% &
+% \TabHeading{Symbol}
+% 
+% (Auswahl)
+% \\\addlinespace\midrule\addlinespace
+\TabSub{Klasse 1}
+
+Explosive Stoffe und Gegenstände mit Explosivstoff
+
+Unterklassen:\newline
+1.1, 1.2, 1.3, 1.4, 1.5, 1.6 
+&
+~\newline
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_1.png}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Klasse~2.1}
+
+Entzündbare Gase 
+&
+~\newline
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_21.png}
+&
+\TabSub{Klasse~2.2}
+
+Nicht entzündbare,\newline
+nicht giftige Gase 
+&
+~\newline
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_22.png}
+\\
+\TabSub{Klasse~2.3}
+
+Giftige Gase 
+&
+~\newline
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_23.png}
+ \\\addlinespace\midrule\addlinespace
+\TabSub{Klasse~3}
+
+Entzündbare\newline
+flüssige Stoffe 
+&
+~\newline
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_3.png}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Klasse~4.1}
+
+Entzündbare feste Stoffe, selbstzersetzliche Stoffe und
+desensibilisierte explosive feste Stoffe 
+&
+~\newline
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_41.png}
+&
+\TabSub{Klasse~4.2}
+
+Selbstentzündliche Stoffe 
+&
+~\newline
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_42.png}
+\\
+\TabSub{Klasse~4.3}
+
+Stoffe, die in Berührung mit Wasser entzündliche Gase entwickeln 
+&
+~\newline
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_43.png}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Klasse~5.1}
+
+Entzündend\newline
+(oxidierend)\newline
+wirkende Stoffe 
+&
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_51.png}
+&
+\TabSub{Klasse~5.2}
+
+Organische Peroxide
+&
+~\newline
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_52.png}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Klasse~6.1}
+
+Giftige Stoffe 
+&
+~\newline
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_61.png}
+&
+\TabSub{Klasse~6.2}
+
+Ansteckungs\-gefährliche Stoffe 
+&
+~\newline
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_62.png}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Klasse~7}
+
+Radioaktive Stoffe 
+&
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_7.png}
+~
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_7_fissile.png}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Klasse~8}
+
+Ätzende Stoffe 
+&
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_8.png}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Klasse~9}
+
+Verschiedene gefährliche Stoffe und Gegenstände &
+
+
+\includegraphics[width=1cm]{./images/GEF/gefahrgut/gefahrgut_9.png}
+\\\addlinespace\midrule\addlinespace
+\end{tabular}
+% \end{WidePar}
+}
+}
+{\EE{Gefahrenklassen} und ausgewählte Symbole
+(Gefahrenzettel), nach \citep{ADR2011}} {}
+
+
+\begin{WidePar}
+\begin{center}
+\vfill
+\includegraphics[height=.9\textheight]{./images/emhofer-josef-aass/BLS}
+\vfill
+\Captionof{figure}{Basic Life Support mit AED\index{Basic Life Support}\index{BLS|see{Basic Life Support}}}
+\end{center}
+\end{WidePar}
+
+\begin{WidePar}
+\begin{center}
+\includegraphics[height=.9\textheight]{./images/emhofer-josef-aass/ALS}
+\vfill
+\Captionof{figure}{Advanced Life Support mit AED\index{Advanced Life Support}\index{ALS|see{Advanced Life Support}}}
+\end{center}
+\end{WidePar}
+
+\begin{WidePar}
+\begin{center}
+\includegraphics[height=.9\textheight]{./images/emhofer-josef-aass/PLS}
+\vfill
+\Captionof{figure}{Pediatric Life Support mit AED\index{Pediatric Life Support}\index{PLS|see{Pediatric Life Support}}}
+\end{center}
+\end{WidePar}
+
+
+\Layout{57}{}{}{}{
+\begin{tabularx}{\linewidth}{llXXXXXXX}%
+\addlinespace\toprule\addlinespace
+\noindent
+&
+&
+\noindent\TabHeading{NG}
+&
+\noindent\TabHeading{Sg}
+&
+\noindent\TabHeading{KK}
+&
+\noindent\TabHeading{SK}
+&
+\noindent\TabHeading{Ju}
+&
+\noindent\TabHeading{Erw \Male}
+&
+\noindent\TabHeading{Erw \Female}
+\\\addlinespace\midrule\addlinespace
+\TabSub{RR\textsubscript{sys}}
+&
+[\MetricUnit{mmHg}]
+&
+75\nocite{Soehnke200607}\nocite{Lissauer2007}
+&
+\VonBis{80}{90}\nocite{Soehnke200607}
+&
+95\nocite{Lissauer2007}
+&
+\VonBis{100}{110}\nocite{Soehnke200607}\nocite{Lissauer2007}
+&
+120\nocite{Soehnke200607}
+&
+\VonBis{100}{140}\nocite{Soehnke200607}
+&
+$\hookleftarrow$
+\\\addlinespace
+\TabSub{HF} 
+&
+[\PerMin]
+&
+\VonBis{140}{180}
+&
+\VonBis{110}{160}\nocite{Lissauer2007}
+&
+\VonBis{95}{140}\nocite{Lissauer2007}
+&
+\VonBis{80}{120}\nocite{Lissauer2007}
+&
+\VonBis{60}{100}\nocite{Lissauer2007}
+&
+\VonBis{60}{100}
+&
+$\hookleftarrow$
+\\\addlinespace\midrule\addlinespace
+\TabSub{AF} 
+&
+[\PerMin]
+&
+\VonBis{30}{50}\nocite{Lissauer2007}
+&
+\VonBis{20}{30}\nocite{Lissauer2007}
+&
+\VonBis{20}{30}\nocite{Lissauer2007}
+&
+\VonBis{15}{20}\nocite{Lissauer2007}
+&
+\VonBis{14}{20}
+&
+\VonBis{12}{16}
+&
+$\hookleftarrow$
+% \\\addlinespace
+% \TabSub{AZV} 
+% &
+% [\nicefrac{\Ml}{\Kg}]
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+\\\addlinespace
+\TabSub{AZV}\footnote{Bezogen auf Normalgewicht, \E{nicht}
+auf Ist-Gewicht!} 
+&
+[\Ml]
+&
+\VonBis{20}{30}\nocite{LutomskyLeitRett3}
+&
+40\,--\,55\,--\,80\nocite{LutomskyLeitRett3}
+&
+\VonBis{80}{180}\nocite{LutomskyLeitRett3}
+&
+\VonBis{240}{350}\nocite{LutomskyLeitRett3}
+&
+500\nocite{LutomskyLeitRett3}
+&
+800\nocite{LutomskyLeitRett3}
+&
+700\nocite{LutomskyLeitRett3}
+% \\\addlinespace
+% \TabSub{AMV} 
+% &
+% [\nicefrac{\Liter}{\Min}]
+% &
+% \VonBis{600}{1500}
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+% &
+% 
+\\\addlinespace\midrule\addlinespace
+\TabSub{BZ}\footnote{nüchtern}
+&
+[\MgDl]
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+\VonBis{80}{100}\nocite{WHO2006Diabetes}
+&
+$\hookleftarrow$
+\\\addlinespace
+\TabSub{Sp\ce{O2}}
+&
+[\PC]
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+\VonBis{95}{100}
+&
+$\hookleftarrow$
+\\\addlinespace
+\TabSub{Temp}\footnote{Körperkerntemperatur}
+&
+[\DegC]
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+$\hookrightarrow$
+&
+37
+&
+$\hookleftarrow$
+\\\addlinespace\bottomrule
+\end{tabularx}
+}{Übersicht Normalwerte}{}
+
+\Layout{57}
+{}
+{}
+{}
+{\small{\begin{tabularx}{\linewidth}{XXXX}
+\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Kriterium} & \noindent\TabHeading{0 Punkte} & \noindent\TabHeading{1 Punkt} & \noindent\TabHeading{2 Punkte}
+\\\addlinespace\midrule\addlinespace
+\noindent\TabSub{Herzfrequenz} & unter 60\PerMin* & \Range{60}{99}\PerMin* & über 100\PerMin*  
+\\\addlinespace
+\noindent\TabSub{Atemanstrengung} & keine & unregelmäßig, flach &  regelmäßig, Kind schreit
+\\\addlinespace
+\noindent\TabSub{Reflexe} & keine & Grimassieren &  kräftiges Schreien
+\\\addlinespace
+\noindent\TabSub{Muskeltonus} & schlaff & leichte Beugung der Extremitäten & aktive Bewegung der Extremitäten 
+\\\addlinespace
+\noindent\TabSub{(Haut-) Farbe} & blau, blass & Stamm rosig, Extremitäten blau & gesamter Körper rosig 
+\\\addlinespace\bottomrule\addlinespace
+\end{tabularx}
+}}
+{Apgar-Score}
+{}
+
+
+
+
+
+
+SO LONG.......... AND THANKS FOR ALL THE FISH
+\MultiColListEnd{lomassnahmen}
+\MultiColListEnd{lofazit}
+\MultiColListEnd{toc}
+
+\end{document}

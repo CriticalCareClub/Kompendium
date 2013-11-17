@@ -1,0 +1,1997 @@
+\documentclass[
+ngerman,
+paper=a4,
+asymmetric,
+fontsize=10pt,
+%headings=small,
+draft=false,
+% parskip=half,
+numbers=noenddot,
+% listof=totoc,         % verschiebt Minitoc/Hyperref
+% bibliography=totoc,   % verschiebt Minitoc/Hyperref
+bibtotocnumbered,
+% index=totoc,
+% noonelinecaption,
+footnotes=multiple,
+% toc=flat,
+]{scrreprt}
+\setlength{\parindent}{15pt}
+
+\usepackage{luatextra}
+\usepackage{fontspec}
+
+\usepackage{graphicx} % Bilder-Support
+
+\input{./AASS.optkeys.tex}
+\input{./AASS.preamble.tex}
+\input{./AASS.hyphenation.tex}
+\input{./AASS-Reviewprotokoll.headfoot.tex}
+
+\makeindex
+
+\usepackage[backend=bibtex8,
+babel=other,
+defernumbers=true,
+natbib,
+sorting=none,
+sortlocale=de,
+]{biblatex}
+
+%   \bibliography{AASS.bib}
+    \addbibresource{BiblioDB-Med-Books.bib}
+    \addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
+    \addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
+    \addbibresource{BiblioDB-Med-Links.bib}
+    \addbibresource{BiblioDB-Med-Misc.bib}
+    \renewcommand{\labelnamepunct}{\addcolon\space}
+    \DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
+    \DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
+    \DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
+    % \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+    % 
+    % \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+    \DeclareFieldFormat{journaltitle}{\textsc{#1}}
+    \DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
+
+
+\newcommand{\Branch}[1]{\emph{#1}}
+
+
+\usepackage[markup=underlined,ulem=normalem]{changes}
+% \def\added{}
+% \def\deleted{}
+% \def\replaced{}
+
+\newcommand{\Neu}{\fontfamily{lmtt}\fontseries{lc}\selectfont\color{DarkGreen}}
+\newcommand{\ChangeHeading}[1]{\SlideHeading{#1}\addcontentsline{toc}{subsubsection}{#1}}
+
+% \begin{itemize}
+%   \item \TabHeading{Input}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Verantwortlicher}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Mitwirkende:}
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+%   \item \TabHeading{Output}:
+%   \begin{enumerate}
+%     \item 
+%   \end{enumerate}
+% \end{itemize}
+
+\title{Reviewprotokoll}
+\subtitle{für die Arbeits- und Ausbildungsstandards für den
+Sanitätsdienst}
+\subject{44. Review und Iteration,\\ 2013-11-19}
+\author{\AASS}
+
+
+\newcommand{\VarDocTitle}{Vorläufiges Reviewprotokoll}
+\renewcommand{\VarDocTitle}{Reviewprotokoll}
+\newcommand{\VarIterationNr}{44}
+\newcommand{\VarReviewDate}{2013-11-19}
+\newcommand{\DocVersionInfo}{IN ARBEIT}
+% \renewcommand{\DocVersionInfo}{FREIGEGEBEN}
+
+\usepackage{datetime}
+
+
+%\usepackage{lstdoc}
+\usepackage{listings}
+%\usepackage{textcomp}
+
+% ============================
+% EIGENE KOMMANDOS EMHOFER
+% alles andere ist zu mühsam!!!
+% ============================
+\newcommand{\jALT}{\vspace{6pt}\noindent{\color{red}\sffamily\textbf{DELETED}\hrulefill\newline}}
+\newcommand{\jALTende}{\newline{\color{red}\rule{\linewidth}{2pt}\newline}}
+\newcommand{\jNEU}{\vspace{6pt}\noindent{\color{green}\sffamily\textbf{ADDED}\hrulefill\newline}}
+\newcommand{\jNEUende}{\newline{\color{green}\rule{\linewidth}{3pt}\newline}}
+
+\newcommand{\jganzebreite}{\textwidth+\marginparsep+\marginparwidth}
+
+
+\newcommand{\RedFlag}{{\color{DefaultRed}\scriptsize{\VarFlag}\hspace{-0.5em}}}
+\newcommand{\Dictum}[2][]{
+  \bigskip
+  \begin{flushright}
+  \begin{minipage}{\ThirdNetWidth}\scriptsize
+  {\ttfamily\sloppy\color{AltBlueDark}#2}\vspace{\baselineskip}
+  
+  {\FontSansNarrowFamily\color{AltBlueVeryLight}#1}
+  \end{minipage}
+  \end{flushright}
+  \bigskip\noindent
+  }
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+% BEGIN DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#
+
+\newenvironment{Beispiel}
+{\begin{tcolorbox}[title=Beispiel]
+
+}{\end{tcolorbox}}
+
+\setkomafont{labelinglabel}{\normalfont\bfseries}
+
+
+\begin{document}
+\MultiColListStart{toc}{2}
+ 
+\lstset{% general command to set parameter(s)
+language=[LaTeX]TeX,
+%language=C,
+extendedchars=true,
+inputencoding=utf8,
+breaklines=true;
+basicstyle=\ttfamily\small, % print whole listing small
+keywordstyle=\color{ubuntured}\bfseries\underbar,
+% underlined bold black keywords
+identifierstyle=\color{darkBlue}\bfseries, % nothing happens
+commentstyle=\color{Grey}, % white comments
+stringstyle=\ttfamily, % typewriter type for strings
+texcsstyle=\color{ubuntured},
+moretexcs={textcolor,itemhook},
+emph={
+AASS,
+ARGE,
+A,
+aCh,
+AuthorNotes,
+Ca,
+Cave,
+Definition,
+E,
+EE,
+ERROR,
+Fazit,
+H,
+Layout,
+Married,
+MarriedNG,
+MarriedLI,
+Massnahmen,
+marginpar,
+Parallel,
+T,
+TODO,
+Z,
+ZFootnote},
+emphstyle=\color{Terminus}\bfseries,
+%directivestyle=color{Red},
+showstringspaces=false,
+%morecomment=[s][\color{SandyBrown}]{\{}{\}},
+%moredelim=[s][\color{DarkViolet}]{\{}{\}},
+%morecomment=[l][\color{Grey}]{\%}
+}
+
+\newgeometry{verbose,
+a4paper,
+asymmetric,
+reversemarginpar,
+rmargin=13mm,
+lmargin=13mm,
+top    = 20mm,
+bottom = 15mm,
+marginparwidth = 0mm,
+footskip = 5mm,
+bindingoffset=1.5cm}
+\savegeometry{FullPage}
+\newgeometry{verbose,
+a4paper,
+asymmetric,
+reversemarginpar,
+rmargin=13mm,
+lmargin=13mm,
+top    = 8mm,
+bottom = 8mm,
+marginparwidth = 0mm,
+footskip = 5mm,
+bindingoffset=1.5cm}
+\savegeometry{WholePage}
+\restoregeometry
+
+
+
+\begin{titlepage}
+\loadgeometry{FullPage}\thispagestyle{empty}
+\input{./AASS-Reviewprotokoll.CoverFrontBack.tex}
+\end{titlepage}
+%\layout
+\dominitoc
+\addchap{Einleitung}
+
+\begin{labeling}[:]{xxxxxxxxxxxxxxxxx}
+  \item[Anwesende] ~
+  \begin{itemize}
+   % \item Johannes \caps{Steuer}
+    \item Sebastian \caps{Gabriel}
+    \item Josef \caps{Emhofer}
+    \item Roman \caps{Koch}
+    \item Michael \caps{Motal}
+  \end{itemize}
+  \item[Reviewkoordinator] Josef \caps{Emhofer}, Sebastian \caps{Gabriel}
+  \item[Ort] ASB 921
+  \item[Schwerpunkte] Releaseplanung 1.0
+  \item[Repository] Git Version 0
+  \item[Von Commit \#] db1d091d66e3462a7dcf7ca3c0428032ca99c3c9
+  
+  (17. Oktober 2013)
+  \item[Bis Commit \#] 546cafe1f89b420b31e840ec91c10d4b20222909
+  
+  (15. November 2013)
+  \item[Anmerkungen] Es wurden nach dem Review noch Änderungen durchgeführt, diese werden extra ausgwiesen.
+  \item[Anmerkungen] Textpassagen, die neu hinzugefügt wurden sind in der
+  Umgebung
+  
+  \jNEU
+  \E{Text, der hinzugefügt wurde}
+  \jNEUende
+  
+  angegeben und Textpassagen, die entfernt wurden, sind durch die Umgebung
+  
+  \jALT
+  \E{Text, der entfernt wurde}
+  \jALTende
+  
+  gekennzeichnet.
+  
+
+
+\end{labeling}
+\begin{WidePar}\small
+\setcounter{tocdepth}{3}
+\tableofcontents
+\end{WidePar}
+
+
+\chapter{Formale Änderungen im Buch (Layout)}
+\begin{enumerate}
+  \item Inhaltsverzeichnis in San Narrow-Font (siehe PDF)
+  \item 100er-Stelle der Kapitelnummern steigen mit jedem Band
+\end{enumerate}
+
+\chapter{Inhaltliche und strukturelle Änderungen im Buch}
+
+\section{Allgemeines}
+\begin{enumerate}
+  \item Dr. Withofner aus den Credits herausgenommen.
+  \item Neues Kapitel: Fehlermanagement (advanced)
+  \item Vorwort überarbeitet
+  
+  \jALT
+  \noindent Liebe Leserinnen und Leser!
+  
+  Das vorliegende Werk ist das Ergebnis einer seit
+mehr als vier Jahren andauernden Arbeit. 
+Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
+bereits breitgetretener Pfade fundiert darzustellen, und
+damit sowohl eine Unterlage für die Ausbildung, als auch ein
+Hilfsmittel für die Praxis zu schaffen.  
+Besonderen Wert haben wir dabei 
+auf das Hintergrundwissen und relevante Randbereiche gelegt.
+Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
+wieder veraltet ist, bildet dieses Fundament die Chance für eine
+langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
+(anstatt strikten, regel\E{gebundenen} Handelns). 
+
+In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
+Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
+österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
+Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
+schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
+zwei Jahren als Lern- und Ausbildungsunterlage
+bewähren.
+
+Oft wurden wir
+gefragt \Speech{\enquote{Wann wird Euer Buch fertig sein?}} 
+Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
+ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
+und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
+leisten könnte, still zu stehen.
+Mit dieser Erstausgabe möchten wir nun erstmalig an die
+breitere Öffentlichkeit herantreten, und hoffen 
+auf wertvolle Anregungen und konstruktive Kritik durch die
+Leser- und Anwenderschaft.
+
+\textbf{Dieses Werk ist keine \enquote{Dienstanweisung}!}~~
+
+Eines muss vorweg klargestellt werden: Auch wenn es sehr in
+Mode gekommen ist, Abläufe zu standardisieren und
+festzuschreiben, so ist dies keine taugliche
+Herangehensweise, um komplexe Probleme in der Medizin oder
+im Sanitätsdienst zu bewältigen. Zu komplex sind die
+Variablen, und zu gering bzw. zu unangepasst an konkrete
+Situationen ist das gesicherte Wissen, auf dem
+festgeschriebene Prozesse basieren. Der menschliche Faktor,
+insbesonders die jeweilige Erfahrungen, ist und bleibt der
+entscheidende Faktor jeglichen Handelns. Kein Lehrbuch oder
+standardisierter Prozess kann das ändern, sofern das Ziel
+ein \enquote{gutes} Ergebnis, und keine statistische Kennziffer
+ist.
+
+In diesem Sinne ist der Titel dieses Werkes nicht im Sinne eines
+standardisierten Prozessmanagements zu verstehen, sondern soll einen
+\E{Basisstandard} bezüglich medizinisch-sanitätsdienstlichem Wissen und
+Kompetenz bilden, der individuell -- je nach Situation bzw. durch vom Helfer
+andernorts erworbenen Wissens -- grundsätzlich verbesser- und erweiterbar ist. Die {\AASS}
+geben Empfehlungen, es obliegt dem Helfer diese gemäß seiner 
+fachlichen Erfahrung und Kenntnisse zu interpretieren, einzusetzen oder
+anzupassen -- 
+
+\Speech{salus aegroti suprema lex}\footnote{salus aegroti suprema lex \Lang{lat.}: \Speech{Das
+Wohl des Kranken ist oberstes Gebot.}}.
+  \jALTende
+  
+  \jNEU
+  Das vorliegende Werk ist das Ergebnis einer seit dem Jahr 2008 
+andauernden Arbeit. 
+In Zusammenarbeit mit dem
+Ausbildungszentrum des ASB Florisdorf-Donaustadt
+enstanden ausgehend von der Ausbildungsverordnung
+österreichischer Rettungssanitäter und den Erfordernissen
+der entsprechenden Kurse die ersten Vrsionen der {\AASS}.
+Sie bildeten die Grundlage der Curricula und
+konnten sich schon, etappenweise und unter kontrollierten 
+Bedingungen eingeführt, als Lern- und Ausbildungsunterlage bewähren.
+
+Oft wurden wir dabei
+gefragt \Speech{\enquote{Wann wird Euer Buch fertig sein?}} 
+Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
+ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
+und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
+leisten könnte, still zu stehen.
+Mit jeder Ausgabe hoffen wir
+auf wertvolle Anregungen und konstruktive Kritik durch die
+Leser- und Anwenderschaft.
+
+\paragraph{Das Ziel des Projekts: \enquote*{Empowerment}}~~
+% 
+% \parpic[r][r]{\includegraphics[width=2cm]{./images/teaser/affe-sama-ambas-schein_00800.jpg}}
+% 
+% 
+% 
+% 
+% 
+\mbox{}\marginpar{\includegraphics[width=\linewidth]{./images/teaser/affe-sama-ambas-schein_00800.jpg}
+
+\FontSansNarrowFamily\small Algorithmenaffe oder
+Fachpersonal?}
+Das zentrale Konzept der \T{Aufklärung} 
+wird von Kant als die 
+\Speech{\enquote{Befreiung von der selbst verschuldete
+Unmündigkeit}} definiert. In diesem
+Geiste entstanden und entstehen die
+AASS: Sie sollen einerseits dem Sanitätspersonal, egal ob ärztlich oder
+nicht-ärztlich, eine souveräne, überlegte und gleichzeitig
+zielgerichtete Betreuung von Patienten und Notfallpatienten
+ermöglichen und somit ein
+Hilfsmittel für die Praxis zu schaffen. 
+Andererseits war uns ist es aber
+auch unser erklärtes Ziel, das Fachpersonal zum
+eigenständigen Denken, Verstehen von Zusammenhängen und
+Hintergründen und kritischen Hinterfragen zu befähigen:
+Gelebtes \enquote*{Empowerment}. 
+
+\paragraph{Geleitet, nicht gebunden}
+Auch wenn es in
+Mode gekommen ist, Abläufe zu standardisieren und
+festzuschreiben, so ist dies keine taugliche
+Herangehensweise, um komplexe Probleme in der Medizin oder
+im Sanitätsdienst zu bewältigen. Zu komplex sind die
+Variablen, und zu gering bzw. zu unangepasst an konkrete
+Situationen ist das gesicherte Wissen, auf dem
+festgeschriebene Prozesse basieren. Der menschliche Faktor,
+insbesonders die jeweilige Erfahrungen, ist und bleibt der
+entscheidende Faktor jeglichen Handelns. Kein Lehrbuch oder
+standardisierter Prozess kann das ändern, sofern das Ziel
+ein \enquote{gutes} Ergebnis, und nicht das Erreichen einer
+statistischen Kennziffer ist.
+Es ist Ausdruck der Würde
+und Wertschätzung gegenüber den im Sanitätsdienst tätigen 
+Personen, ihnen einen umfassenden
+ Einblick in jene Welt zu gewähren, in der sie
+arbeiten. 
+
+\paragraph{Zeitloses Wissen}
+Besonderen Wert haben wir dabei 
+auf das Hintergrundwissen und relevante Randbereiche gelegt.
+Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
+wieder veraltet ist, bildet dieses Fundament die Chance für eine
+langjährige Tätigkeit und erlaubt selbstständiges,
+\EE{regel\E{geleitetes} Arbeiten} (anstatt strikten,
+regel\E{gebundenen} Handelns).
+
+
+So sind der Titel dieses Werkes und darin
+enthaltene Handlungsempfehlungen nicht im Sinne eines
+standardisierten, rigiden Prozessmanagements zu verstehen,
+sondern sie sollen einen \E{Basisstandard} bezüglich
+medizinisch-sanitätsdienstlicher Versorgung, Wissen und
+Kompetenz bilden, der individuell -- je nach Situation 
+bzw. durch vom Helfer erworbenen Wissens -- 
+jederzeit verbesser- und erweiterbar ist. 
+Die {\AASS} geben Empfehlungen, es obliegt dem Helfer diese gemäß seiner 
+fachlichen Erfahrung und Kenntnisse zu interpretieren, einzusetzen oder
+anzupassen -- 
+
+\Speech{salus aegroti suprema lex}\footnote{salus aegroti suprema lex \Lang{lat.}: \Speech{Das
+Wohl des Kranken ist oberstes Gebot.}}.
+\jNEUende
+\item Kapitelreihenfolge: [RSP] vor [HKL] (A vor B)
+\item Umbenennung [RSP] $\to$ [ATM] Störungen der Atemwege und der Atmung
+\item Lizenzen: Ergänzungen
+
+     Sie dürfen folgende Seiten eigenständig gemäß den
+     Bedingungen von \prettyref{topic:lizenz} nutzen:
+     \begin{enumerate}
+       \item Doppelseite Standardisierte Patientenversorung
+      \item \deleted{\FullPrettyRef{tab:pam-weiterfuehrende}}
+      \item \added{Übersicht
+      \enquote*{Weiterführende
+      Maßnahmen} (\FullPrettyRef{tab:pam-weiterfuehrende})}
+     \end{enumerate}
+     
+    [PD]
+\deleted{\emph{Public domain}, \emph{"`Gemeinfrei"'}.}
+\added{\emph{Public domain}, \emph{gemeinfrei}.}
+ Die Gemeinfreiheit bezeichnet alle Werke, die keinem Urheberrecht mehr unterliegen
+ oder ihm nie unterlegen haben. Das im angloamerikanischen Raum anzutreffende
+ Public Domain ist ähnlich, aber nicht identisch mit der europäischen
+ Gemeinfreiheit.
+\end{enumerate}
+
+% ATM
+\section{[ATM]}
+Das Kapitel [RSP] Respiratorische Störungen wurde umbenannt in [ATM] Störungen
+der Atemwege und der Atmung
+
+\subsection{Blutungen aus dem Nasenraum}
+\Layout{2}
+{{\TxBeschreibung}}
+{}
+{}
+{}
+{}
+{}
+
+\section{[GYN]}
+Umbenennung der Unterabschnitts \E{Uterusatonie} in \E{Blutungen aus der
+Nachgeburtsperiode}.
+
+\section{[HKL]}
+\subsection{Hypertensive Krise}
+Änderung der Formulierung Buchstabe L beim SAMPLER-Schema:
+
+\jALT
+\ldots
+\begin{SAMPLERText}
+  \item[\SAMPLER{L}] Achte auf die letzte
+  Medikamenteneinnahme sowie die letzten ärztlichen
+  Kontrollen.
+\end{SAMPLERText}
+\ldots
+\jALTende
+
+\jNEU
+\ldots
+\begin{SAMPLERText}
+   \item[\SAMPLER{L}] Wann war die letzte
+  Medikamenteneinnahme bzw. die letzten ärztlichen
+  Kontrollen? 
+\end{SAMPLERText}
+\ldots
+\jNEUende
+
+
+\section{[INK]}
+Aufzählungen in der Randspalte ergänzt:
+
+\subsection{Schweinegrippe, Vogelgrippe}
+ \Layout{2}{Schweinegrippe, Vogelgrippe}
+ {\Z{%
+ Grippeviren befallen nicht nur den Menschen, auch
+ (Wasser-)Vögel und andere Tiere erkranken an der Grippe.
+ Normalerweise erfolgt keine Übertragung vom Tier zum
+ Menschen. Überschreitet ein Erreger diese Grenze wird es
+ gefährlich: Die Tierwelt beinhaltet dann einen nahezu
+ unbegrenzten Vorrat an Keimen (Keimreservoir). Dieser kann 
+ praktisch nicht kontrolliert werden, schließlich lassen
+ sich Zugvögel nicht so leicht unter Quarantäne stellen
+ \ldots 
+ 
+ Glücklicherweise entwickelten sich in letzter Zeit nur
+ Viren, welche zwar vom Tier auf den Menschen und dann
+ weiter auf den Menschen übertragbar waren, jedoch waren sie
+ (bis jetzt) nicht übermäßig infektiös oder zeigten keinen
+ besonders schweren Verlauf. 
+ 
+ \subparagraph{Die Gefahr} Die
+ Tier\,\Sign{→}\,Mensch\,\Sign{→}\,Mensch-Übertragung stellt eine ständige
+ Gefahr dar. 
+ 
+ Ein weiteres Problem ist jedoch die mögliche Kreuzung mit
+ Stämmen die sehr infektiös und schwer verlaufend sind. Dies
+ kann passieren wenn ein Patient mit mehreren Stämmen
+ gleichzeitig infiziert ist. Daher ist es wichtig die
+ Infektionen so rasch als möglich einzudämmen.
+ }
+ 
+ \Fazit{Die große Gefahr ist die Entwicklung eines hoch
+ infektiösen und schwer verlaufenden Stammes, welcher eine
+ Tier-Mensch-Mensch-Übertragung aufweist.}
+ \Fazit{Eine rasche Isolierung der Infizierten soll die
+ Wahrscheinlichkeit einer bösartigen Kreuzung minimieren!}
+ 
+ \subparagraph{Neue Grippe (\enquote{Schweinegrippe})} \Z{Die jüngste
+ Entwicklung war die Übertragung des Stammes \Code{A(H1N1)}
+ vom Schwein auf den Menschen in Mexiko im Frühjahr 2009. Der
+ neue Stamm breitete sich sehr rasch um die ganze Welt aus,
+ \E{die Erkrankung verlief jedoch recht mild}. Bemerkenswert
+ war jedoch, dass -- anders als bei einer \enquote{normalen
+ Grippe} üblich -- besonders junge Menschen infiziert wurden. 
+ 
+ Man darf gespannt sein was die Zukunft bringt \ldots}
+ }
+{%
+\jNEU
+.
+\Z{%
+\begin{itemize}
+  \item Keimreservoir: Tiere
+  \item Gefahr: Kreuzung von Virenstämmen
+  \item Gefahr: Mensch-Mensch-Übertragung
+\end{itemize}
+.
+\jNEUende
+}
+ }
+ {}
+ {}
+ {}
+
+\subsection{Wundstarrkrampf}
+
+ \Layout{20}{\TxSymptome}
+ {%
+ Es kommt zu tonischen \EE{Krämpfen der
+ quergestreiften Muskulatur}, oft beginnend bei der
+ Kaumuskulatur \Z{(Kiefersperre, Teufelsgrinsen
+ (\I{Risus sardonicus}))}. Der Patient hat starke Schmerzen
+ und entwickelt in Folge der Krämpfe eine \EE{Atemlähmung}. 
+ Die Fortschritte der
+ Intensivmedizin haben die Behandlungsmöglichkeiten
+ verbessert, trotzdem sterben noch etwa \VonBis{20}{30}\PC*
+ der Tetanuserkrankten. Der Wert der
+ Impfung ist daher nach wie vor groß.
+ }
+ {
+ \jNEU
+ .
+\begin{itemize}
+  \item Krämpfe der Skelettmuskulatur
+  \item Schmerzen, Atemlähmung
+  \item Hohe Letalität
+\end{itemize}
+.
+\jNEUende
+ }
+ {./images/hygiene/6373_lores_tetanus.jpg}
+ {Patient mit Tetanus.}
+ {Public Health Image Library, ID\#: 6373, Public Domain.}
+
+\section{[KIN]}
+Umbenennung des Unterabschnitts \E{Laryngitis, Pseudokrupp} in \E{Akute
+obstruktive Laryngitis, Pseudokrupp}.
+
+\section{[TEA]}
+Aufzählungen in Randspalten hinzu gefügt.
+
+\Layout{0}{Theoretische Anforderungen}{% 
+ Die Tätigkeit im medizinischen Bereich geht
+ aufgrund der Komplexität der Aufgaben mit einer Fülle von
+ körperlichen, wissensmäßigen und psychischen Anforderungen
+ einher. Einen nur kargen Hinweis darüber, welche Qualitäten
+ z.\,B. von einem Sanitäter erwartet werden, liefert das
+ Anforderungsprofil des Arbeitsmarktservice (AMS):
+ \begin{itemize}
+ \item Körperliche und psychische Belastbarkeit
+ \item rasches Auffassungs- und Reaktionsvermögen
+ \item Einfühlungsvermögen
+ \item Beobachtungsgabe
+ \item Kommunikations- und Teamfähigkeit
+ \item Zuverlässigkeit
+ \item Verantwortungsbewusstsein
+ \end{itemize}
+ }{%
+\jNEU
+.
+\begin{itemize}
+\item Körperliche und psychische Belastbarkeit
+\item rasches Auffassungs- und Reaktionsvermögen
+\item Einfühlungsvermögen
+\item Beobachtungsgabe
+\item Kommunikations- und Teamfähigkeit
+\item Zuverlässigkeit
+\item Verantwortungsbewusstsein
+\end{itemize}
+.
+\jNEUende
+ }{}{}{}
+
+\subsection{Ärzte}
+\jALT
+Der ärztliche Beruf wird durch das \I{Ärztegesetz} (\I{ÄrzteG}) geregelt.
+ Der Arzt ist zur Ausübung der Medizin berufen. Dies umfaßt
+ jede auf medizinisch-wissenschaftlichen Erkenntnissen
+ begründete Tätigkeit, die unmittelbar am Menschen oder
+mittelbar für den Menschen ausgeführt wird, insbesondere 
+die Untersuchung auf das Vorliegen oder Nichtvorliegen von körperlichen und psychischen Krankheiten oder Störungen,
+die Beurteilung von diesen Zuständen bei Verwendung medizinisch-diagnostischer Hilfsmittel sowie deren Behandlung;
+ die Vornahme operativer Eingriffe einschließlich der Entnahme oder Infusion von Blut;
+ die Vorbeugung von Erkrankungen;
+ die Geburtshilfe;
+ die Verordnung von Heilmitteln, sowie
+ die Vornahme von Leichenöffnungen.
+ Ferner ist
+der Arzt befugt ärztlichen Zeugnis auszustellen ärztliche
+Gutachten zu erstatten.
+ 
+Die selbstständige Ausübung des ärztlichen Berufes
+ist ausschließlich Ärzten für Allgemeinmedizin und
+approbierten Ärzten sowie Fachärzten vorbehalten
+(Vorbehaltsregelung, von diesem Vorbehalt gibt es
+für andere medizinische Berufsgruppen
+entsprechende Ausnahmeregelungen).
+
+Die in Ausbildung zum Arzt für Allgemeinmedizin oder zum
+Facharzt befindlichen Ärzte (\I[Turnusarzt]{Turnusärzte}) sind lediglich zur
+unselbstständigen Ausübung  in  als
+Ausbildungsstätten anerkannten Einrichtungen, im Rahmen von
+Lehrpraxen bzw. Lehrgruppenpraxen oder in Lehrambulatorien
+unter Anleitung und Aufsicht der ausbildenden Ärzte
+berechtigt.
+ 
+\subsection{Ausbildung}
+
+Die ärztliche Ausbildung gründet sich auf einem
+ abgeschlossenes Universitätsstudium, der weitere
+ Ausbildungsweg ist jedoch international sehr
+unterschiedlich.
+ 
+\subsubsection{Situation in Österreich}
+ 
+In Österreich dauert das Studium der Humanmedizin je nach
+ Universität und Curriculum \Range{5}{6} Jahre. Im Anschluss an das
+ Studium verfügen die Absolventen \E{nicht} über das Recht zur
+ Berufsausübung, sie sind auch nach dem
+ Studium noch nicht als Ärzte, sondern als Mediziner zu
+bezeichnen. Nach Abschluss des Studiums wird ein
+ Ausbildungsverhältnis angetreten, es erfolgt die Aufnahme in
+die Ärzteliste, welche von der Österreichischen Ärztekammer
+geführt wird, der Arzt in Ausbildung darf nun an einer
+anerkannten Ausbildungseinrichtungen unter 
+ Aufsicht ärztlich tätig werden. Dies kann entweder im Rahmen
+ eines Ausbildungsverhältnisses zum Arzt für Allgemeinmedizin,
+ welches mindestens drei Jahre dauert, erfolgen oder in Ausbildung zu
+ einem Facharzt, diese Ausbildungszeit beträgt je nach Fach
+ \Range{5}{6} Jahre. Die Ausbildung zum Facharzt kann
+ grundsätzlich gleich nach dem Studium beginnen, bzw. auch erst nach der
+ Absolvierung der Ausbildung zum Arzt für Allgemeinmedizin
+ begonnen werden. Während der Ausbildungszeit durchläuft der
+ Auszubildende  im Turnus-System diverse
+ Fachabteilungen, welche in der jeweiligen Ausbildungsordnung
+vorgegeben sind (daher die Bezeichnung Turnusarzt). 
+ 
+ Ein Arzt für Allgemeinmedizin verfügt über ein so genanntes
+uneingeschränktes \I{Jus practicandi}, d.\,h. das Recht zu
+praktizieren. Ein Facharzt verfügt ebenfalls über ein Jus
+practicandi, welches jedoch oft Tätigkeiten in seinem
+ Fachgebiet beschränkt ist, es sei denn, der betreffende
+ Facharzt hat auch die Ausbildung zum Arzt für
+ Allgemeinmedizin absolviert. Gegenwärtig gibt es in
+ Österreich über 40 Fachgebiete für die man sich
+qualifizieren kann.
+ 
+Interessensvertretung und Aufsichtsbehörde für alle Ärzte
+ist die \I{Österreichische Ärztekammer}\index{Ärztekammer} bzw. die jeweils
+zuständigen Landesärztekammern.
+ 
+Der Notarzt
+ 
+Die Ausbildung zum Notarzt setzt die Absolvierung eines 60-stündigen, von der
+österreichische Ärztekammer anerkannten und mit einer
+Prüfung abschließenden Diplomkurs
+voraus.
+ 
+ 
+Zum Erhalt der
+Tätigkeitsberechtigung ist eine regelmäßige
+Rezertifizierung (Notarzt-Refresher-Kurs) notwendig.
+ 
+Leitender Notarzt
+ 
+Das Ärztegesetz sieht für leitende Funktionen, insbesondere
+auch im Großschadensfall, die Ausbildung des leitenden
+Notarztes vor. Die Ausbildung zum Leitenden Notarzt setzt
+eine entsprechende Berufserfahrung als Notarzt sowie die
+Absolvierung eines entsprechenden Kurs voraus.
+\jALTende
+
+\jNEU
+ Der Arzt ist zur Ausübung der Medizin berufen. Dies umfaßt
+ jede auf medizinisch-wissenschaftlichen Erkenntnissen
+ begründete Tätigkeit, die unmittelbar am Menschen oder
+mittelbar für den Menschen ausgeführt wird.\ZFootnote{Die
+Ausübung der Medizin umfasst insbesonders die
+Untersuchung auf das Vorliegen oder Nichtvorliegen von körperlichen und psychischen Krankheiten oder Störungen, die Beurteilung von diesen Zuständen bei Verwendung medizinisch-diagnostischer Hilfsmittel sowie deren Behandlung;
+ die Vornahme operativer Eingriffe einschließlich der Entnahme oder Infusion von Blut;
+ die Vorbeugung von Erkrankungen;
+ die Geburtshilfe;
+ die Verordnung von Heilmitteln, sowie
+ die Vornahme von Leichenöffnungen.
+ Ferner ist
+der Arzt befugt, ärztliche Zeugnisse auszustellen und
+ärztliche Gutachten zu erstatten.}
+ 
+\Layout{2}
+{Ausbildung}
+{Die ärztliche Ausbildung gründet sich auf einem
+ abgeschlossenes Universitätsstudium, der weitere
+ Ausbildungsweg ist jedoch international sehr
+unterschiedlich.}
+{}
+{}
+{}
+{}
+ 
+\subsection{Situation in Österreich}
+
+\Layout{2}
+{Allgemeines}
+{Der ärztliche Beruf wird durch das \I{Ärztegesetz} (\I{ÄrzteG}) geregelt.
+Die selbstständige Ausübung des ärztlichen Berufes
+ist ausschließlich \I[Arzt!für Allgemeinmedizin]{Ärzten für
+Allgemeinmedizin}, \I[Arzt!approbierter]{approbierten
+Ärzten} sowie \I[Facharzt]{Fachärzten}\index{Arzt!Fach-}
+vorbehalten (\I{Arztvorbehalt}, von diesem Vorbehalt gibt es für andere medizinische Berufsgruppen
+entsprechende Ausnahmeregelungen in den jeweiligen
+Berufsgesetzen). \ZFootnote{Die in Ausbildung zum Arzt für
+Allgemeinmedizin oder zum Facharzt befindlichen Ärzte (\I[Turnusarzt]{Turnusärzte}) sind lediglich zur
+unselbstständigen Ausübung  in  als
+Ausbildungsstätten anerkannten Einrichtungen, im Rahmen von
+Lehrpraxen bzw. Lehrgruppenpraxen oder in Lehrambulatorien
+unter Anleitung und Aufsicht der ausbildenden Ärzte
+berechtigt.}
+
+Interessensvertretung und Aufsichtsbehörde für alle Ärzte
+ist die \I{Österreichische Ärztekammer}\index{Ärztekammer} bzw. die jeweils
+zuständigen Landesärztekammern.}
+{}
+{}
+{}
+{}
+
+\Layout{2}
+{Ausbildung und Jus practicandi}
+{In Österreich dauert das Studium der Humanmedizin je nach
+ Universität und Curriculum \Range{5}{6} Jahre. Im Anschluss an das
+ Studium verfügen die Absolventen \E{nicht} über das Recht zur
+ Berufsausübung, sie sind auch nach dem
+ Studium noch nicht als Ärzte, sondern als Mediziner zu
+bezeichnen. 
+
+Nach Abschluss des Studiums wird ein
+ Ausbildungsverhältnis angetreten, es erfolgt die Aufnahme in
+die \EE{Ärzteliste}, welche von der Österreichischen
+Ärztekammer geführt wird. Der Arzt in Ausbildung darf nun an
+einer anerkannten Ausbildungseinrichtungen unter 
+ Aufsicht ärztlich tätig werden. Dies kann entweder im Rahmen
+ eines Ausbildungsverhältnisses zum Arzt für Allgemeinmedizin,
+ welches mindestens drei Jahre dauert, erfolgen oder in Ausbildung zu
+ einem Facharzt, diese Ausbildungszeit beträgt je nach Fach
+ \Range{5}{6} Jahre. Die Ausbildung zum Facharzt kann
+ grundsätzlich gleich nach dem Studium beginnen, bzw. auch erst nach der
+ Absolvierung der Ausbildung zum Arzt für Allgemeinmedizin
+ begonnen werden. Während der Ausbildungszeit durchläuft der
+ Auszubildende  im Turnus-System diverse
+ Fachabteilungen, welche in der jeweiligen Ausbildungsordnung
+vorgegeben sind (daher die Bezeichnung
+\T{Turnusarzt}\index{Arzt!Turnus-}). Die Turnus-Ausbildung
+zum Arzt für Allgemeinmedizin dauert 3 Jahre bzw. zum
+Facharzt je nach Fachgebiet \Range{5}{6} Jahre. 
+ 
+ Ein Arzt für Allgemeinmedizin verfügt über ein so genanntes
+uneingeschränktes \T{Jus practicandi} (Recht zu
+praktizieren). Ein Facharzt verfügt ebenfalls über ein Jus
+practicandi, welches jedoch auf Tätigkeiten in seinem
+ Fachgebiet beschränkt ist, es sei denn, der betreffende
+ Facharzt hat auch die Ausbildung zum Arzt für
+ Allgemeinmedizin absolviert. Gegenwärtig gibt es in
+ Österreich über 40 Fachgebiete für die man sich
+qualifizieren kann.}
+{}
+{}
+{}
+{}
+ 
+\Layout{2}
+{Der Arzt im Rettungs- und Krankentransportdienst}
+{Das ÄrzteG sieht hierfür zwei Ausbildungen vor:
+\begin{itemize}
+  \item \T{Notarzt}: Die Ausbildung zum Notarzt setzt die
+  Absolvierung eines 60-stündigen, von der österreichische Ärztekammer anerkannten und mit einer
+  Prüfung abschließenden Diplomkurs
+  voraus.
+  Zum Erhalt der
+  Tätigkeitsberechtigung ist eine regelmäßige
+  Rezertifizierung (Notarzt-Refresher-Kurs) notwendig.
+  \item \T{Leitender Notarzt}: Leitende Funktion, insbesonders 
+  im Großschadensfall. Die Ausbildung zum Leitenden Notarzt setzt
+  eine entsprechende Berufserfahrung als Notarzt sowie die   Absolvierung eines
+  entsprechenden Kurs voraus.
+\end{itemize}
+
+}
+{}
+{}
+{}
+{}
+.
+\jNEUende
+
+ \subsection{Gehobener Gesundheits- und Krankenpflegedienst}
+ 
+ \jALT
+ Zum gehobenen Gesundheits- und Krankenpflegedienst gehören
+die diplomierten Gesundheits- und Krankenschwestern, die
+diplomierten Gesundheits- und Krankenpfleger, sowie die
+diplomierten Kinderkrankenschwestern und -pfleger (\I{DGKS},
+\I{DGKP}, \I{DGKKS}, \I{DGKKP}). 
+% TODO Psychiatriepflege
+ Die Ausbildung erfolgt
+an Fachschulen (\enquote*{Schwesternschule}), neuerdings
+ wird die Ausbildung auch im Rahmen eines Fachhochschulstudiums angeboten. 
+ Der Tätigkeitsbereich des gehobenen Gesundheits- und
+ Krankenpflegedienstes beinhaltet einen
+ eigenverantwortlichen 
+Tätigkeitsbereich, welcher insbesond die Pflege von
+ von Patienten vorsieht, sowie einen mitverantwortlich en
+ Tätigkeitsbereich, welcher die Durchführung von einfachen
+ ärztlichen Tätigkeiten (Blutentnahme, Verabreichung von
+Infusionen und Medikamenetn, \ldots) vorsieht.
+\jALTende
+
+\jNEU
+ Zum gehobenen Gesundheits- und Krankenpflegedienst gehören
+die diplomierten Gesundheits- und Krankenschwestern und
+-pfleger (\I{DGKS},
+\I{DGKP}),
+die diplomierten Kinderkrankenschwestern und -pfleger 
+(\I{DGKKS}, \I{DGKKP}), sowie die diplomierten
+psychiatrischen Gesundheits- und
+Krankenschwestern und -pfleger.
+ Die Ausbildung erfolgt
+an Fachschulen (\enquote*{Schwesternschule}), aktuell
+ wird die Ausbildung auch im Rahmen eines Fachhochschulstudiums angeboten. 
+ Der Tätigkeitsbereich des gehobenen Gesundheits- und
+ Krankenpflegedienstes beinhaltet einen
+ eigenverantwortlichen 
+Tätigkeitsbereich, welcher insbesonders die Pflege von
+ von Patienten vorsieht, sowie einen mitverantwortlich en
+ Tätigkeitsbereich, welcher die Durchführung von einfachen
+ ärztlichen Tätigkeiten (Blutentnahme, Verabreichung von
+Infusionen und Medikamenten, \ldots) vorsieht. 
+Für spezielle Tätigkeitsbereiche gibt es entsprechende
+Sonderausbildungen (OP-Bereich, Anästhesie, Intensivpflege,
+\ldots)
+\jNEUende
+
+\section{[RSP]}
+Überarbeitung SAMPLER:
+\subsection{Atemwegsverlegung}
+ \Layout{0}
+ {\TxABCDE}
+ {~
+ \begin{ABCDEText}
+   \item[\ABCDE{1}] Achte auf Essenreste, Spielsachen
+   (Murmeln!) und andere potentielle Fremdkörper.
+   %%%
+   \item[\ABCDE{2}] Oft gestikuliert der Patient
+   entsprechend. Bei fortgeschrittener Hypoxie kann der
+   Patient {\RedFlag}\,zyanotisch sein.
+   %%%
+   \item[\ABCDE{3}] Infolge einer Hypoxie
+   kann es zu einer {\RedFlag}\,\E{Bewusstseinstrübung} kommen.
+   %%%
+   \item[\ABCDE{4}] Das Leitsymptom ist Atemnot bzw.
+   Fremdkörpergefühl, zusammen mit einer entsprechenden
+   Anamnese.
+   %%%
+   \item[\ABCDE{A}] Der Atemweg ist teilweise oder ganz
+   verlegt. Eventuell ist ein pfeifendes Atemgaeräusch
+   (\I{Stridor}) zu hören. Bei einer hochgradigen
+   oder kompletten Verlegung ist das Atemgeräusch
+   abgeschwächt oder fehlt völlig. Der Fremdkörper ist oft
+  nicht sichtbar, da er sich oft unterhalb des Rachenraums
+   befindet. 
+   %%%
+   \item[\ABCDE{B}] Je nach Ausmaß der Verlegung kann die
+  Sauerstoffsättigung erniedrigt sein. Der Patient \deleted{weisst} \added{hat}
+  eine schnelle und erschwerte Atmung \deleted{auf} (\I{Tachypnoe}).
+   \begin{itemize}
+   \item \T[Atemwegsverlegung!milde]{Milde Verlegung}: Bei
+   der milden Verlegung kann der Patient noch sprechen und effektiv husten. Er klagt
+   meist über Atemnot und ein Fremdkörpergefühl, oft versucht er zu husten
+   oder zu würgen. Oft ist auch ein pfeifendes Atemgeräusch
+   während der Ein- und/oder Austamung zu hören
+   (in-/exspiratorischer \E{Stridor}).
+   \item \T[Atemwegsverlegung!schwere]{Schwere Verlegung}:
+   Bei einer schweren Verlegung der Atemwege ist der Patient
+  \deleted{\EE{unfähig zu reden oder effektiv zu husten}. Eventuell kann
+  er nur durch Nic\-k\-en oder Gesten kommunizieren. In besonders
+  schweren Fällen kann es zu einem \EE{Atemstopp} und nach
+  kurzer Zeit zu einer \EE{Bewusstlosigkeit}, gefolgt von einem
+  \EE{Kreislaufstillstand} kommen.}
+  \added{{\RedFlag}\,\EE{unfähig zu reden oder effektiv zu husten}.
+  Eventuell kann er nur durch Nic\-k\-en oder Gesten kommunizieren. In besonders
+  schweren Fällen kann es zu einem
+  {\RedFlag}\,\EE{Atemstopp} und nach kurzer Zeit zu einer
+  {\RedFlag}\,\EE{Bewusstlosigkeit}, gefolgt von einem \EE{Kreislaufstillstand}
+kommen.}
+ \end{itemize}
+   %%%
+  \item[\ABCDE{C}] \deleted{Der Patient ist tachykard.}
+  %%%
+  \item[\ABCDE{D}] \deleted{Oft liegt eine Hypertonie aufgrund des}
+  \item[\ABCDE{C}] \added{Der Patient ist tachykard. Oft liegt eine Hypertonie
+aufgrund des Stress vor.}
+  %%%
+%   \item[\ABCDE{D}]
+ %   %%%
+ %   \item[\ABCDE{E}] 
+ %   %%%
+ %   \item[\ABCDE{\ldots}] 
+ %   %%%
+   \item[\ABCDE{=}] Bei einer schweren Atemwegsverlegung ist
+   der Patient vital bedroht. Bei der milden Verlegung ist
+   die Einschätzung von den Befunden abhängig.
+ \end{ABCDEText}
+ }
+ {
+ \begin{ABCDESlide}
+  \item[\ABCDE{1}] \added{Essensreste, Spielsachen, etc.}
+  \item[\ABCDE{2}] \added{Gestik, evtl. {\RedFlag}\,Zyanose}
+  \item[\ABCDE{3}] \added{Evtl. {\RedFlag}\,\E{Bewusstseinstrübung}}
+  \item[\ABCDE{4}] %
+  \begin{itemize}
+    \item \deleted{Atemnot}
+    \item \deleted{Fremdkörpergefühl}
+  \end{itemize}
+  \item[\ABCDE{4}] \added{Atemnot, Fremdkörpergefühl}
+   %%%
+   \item[\ABCDE{A}] %
+   \begin{itemize}
+     \item Fremdkörper oft nicht sichtbar
+     \item Evtl. pfeifendes Atemgeräusch (Stridor)
+   \end{itemize}
+   %%%
+   \item[\ABCDE{B}] %
+   \begin{itemize}
+     \item Atemnot
+    \item \added{Milde Verlegung: \EE{Kann Sprechen \& Husten}}
+     \item Schwere Verlegung:
+     \begin{itemize}
+      \item \deleted{Unfähigkeit zu Sprechen oder effektiv zu husten}
+      \item \deleted{Evtl. Bewusstlosigkeit → Kreislaufstillstand}
+    \end{itemize}
+    \item \deleted{Milde Verlegung:}
+    \begin{itemize}
+      \item \deleted{\EE{Kann Sprechen \& Husten}}
+      \item \added{{\RedFlag}\,Unfähigkeit zu Sprechen oder
+      effektiv zu husten}
+      \item \added{Evtl. {\RedFlag}\,Bewusstlosigkeit,
+      Hypoxie bis Kreislaufstillstand möglich}
+     \end{itemize}
+   \end{itemize}
+  \item[\ABCDE{C}] \added{HF $\uparrow$, RR $\uparrow$}
+  \item[\ABCDE{=}] \added{Bei schwerer Verlegung vital bedroht,
+  sonst je nach Befund}
+ \end{ABCDESlide}
+ }
+ {}
+ {}
+ {}
+
+\subsection{Asthma}
+\jNEU
+\Layout{0}{Status Asthmaticus}{%
+\index{Status!asthmaticus}
+\label{topic:status-asthmaticus}
+Der
+\I[Status!asthmaticus]{Status asthamticus} ist eine gefürchtete Komplikation des
+Asthmaanfalles bei der die Atemnot nicht wieder vergeht. Es
+besteht die Gefahr, dass der Patient nach einiger Zeit keine
+Kraft mehr zum Atmen hat (Erschöpfung). Der Status
+asthmaticus kann tödlich enden.
+}{
+\begin{itemize}
+  \item Lebensgefährliche Komplikation:
+  \item Anfall hört nicht mehr auf
+\end{itemize}
+}{}{}{}
+.
+\jNEUende
+
+ \Layout{0}
+ {\TxABCDE}
+ {~
+ \begin{ABCDEText}
+   \item[\ABCDE{1}] Kalte Temperaturen oder Allergene
+   (Gräser, Pollen, \ldots) begünstigen einen Asthma-Anfall.
+   %%%
+   \item[\ABCDE{2}] Der Patient nimmt meist automatisch und unbewusst eine
+   Position ein, die seine Atemhilfsmuskulatur unterstützt: Er
+   sitzt aufrecht und stützt sich oft nach vorne oder hinten
+   ab.
+   %%%
+   \item[\ABCDE{3}] Im schweren Anfall kann es zu
+   {\RedFlag}\,\E{Bewusstseinsstörungen} kommen.
+   %%%
+   \item[\ABCDE{4}] Das Leitsymptom ist die Atemnot.
+   %   %%%
+   %   \item[\ABCDE{A}]
+   %%%
+   \item[\ABCDE{B}] Die Atemfrequenz ist erhöht
+   (\E{Tachypnoe}), die {\RedFlag}\,\E{Sauerstoffsättigung}
+   kann erniedrigt sein. Bei einer manifesten Hypoxie kann eine
+   {\RedFlag}\,\E{Zyanose} beobachtbar sein.
+   
+   Oft ist ein pfeifendes,
+   brummendes oder giemendes Atemgeräusch, besonders während
+   der Ausatmung (\E{Exspiration}, \E{exspiratorischer
+   Stridor}) wahrnehmbar. Die Exspiration ist ausserdem
+   verlängert. Trockener Husten ist häufig.
+   
+  \deleted{\Z{Unterschätze nie die Schwere eines Asthmaanfalles!
+  Gefährlich sind besonders die \protect\enquote*{ruhigen},
+  wenig klagenden Patienten, diese haben oft ein anderes
+  Luftnot-Empfinden. Diese Patienten sind Hochrisiko-Patienten
+  und haben auch mit der \ce{O2}-Gabe Probleme! \ce{O2}-Gabe nur
+  bis max. 95\PC* Sauerstofsättigung!
+  \citep{Olschewski2009}\A{\footnote{Vortrag Univ-Prof.Dr. Horst Olschewski, 5. AGN-Kongress 2009; Notfall Rettungsmed (2009) 12:322}}}
+}   
+   Im \EE{schweren Anfall} ist oft \E{kein}, oder nur mehr ein
+   \E{leises Atemgeräusch} hörbar, da kaum mehr Luft bewegt
+   wird \Z{(\I{silent chest})}. Die
+   {\RedFlag}\,Sauerstoffsättigung ist stark vermindert und der
+   Patient ist {\RedFlag}\,\E{zyanotisch}. Im Endstadium kann
+  die {\RedFlag}\,\E{Atemarbeit erschöpft} sein. 
+  
+  \jNEU
+  Bei der Einschätzung der Atmung ist es wichtig auf die
+  \EE{Zeichen einer erschwerten Atemarbeit} zu
+  achten:
+  \begin{itemize}
+    \item Einsatz der Atemhilfsmuskulatur
+    \item Einziehungen an den Rippen
+    \item Erschöpfungszeichen
+  \end{itemize}
+  Es besteht die Gefahr der {\RedFlag}\,\EE{Erschöpfung der
+  Atemarbeit}.
+  \jNEUende
+   %%%
+   \item[\ABCDE{C}] Die Herzfrequenz ist meist erhöht
+   (\E{Tachykardie}).
+  \item[\ABCDE{=}] \added{Bei schwerer Atemnot besteht 
+  eine vitale Bedrohung. Bei Erschöpfung der Atemarbeit
+  besteht akute Lebensgefahr!}
+ \end{ABCDEText}
+ }
+ {
+ \begin{ABCDESlide}
+  \item[\ABCDE{1}] \added{Kälte, Allergene}
+   %%%
+   \item[\ABCDE{2}] Einsatz der Atemhilfsmuskulatur
+   %%%
+   \item[\ABCDE{3}] Schwerer Anfall:
+   {\RedFlag}\,Bewusstseinsstörungen
+   %%%
+   \item[\ABCDE{4}] Akute Atemnot
+ %   %%%
+ %   \item[\ABCDE{A}] 
+   %%%
+   \item[\ABCDE{B}] Akute Atemnot mit trockenem
+   Husten, Verlängerte Ausatmungsphase, AF $\uparrow$,
+   Exspiratorisches Atemgeräusch (Stridor)
+   
+   Schwerer Anfall: Kein oder leises Atemgeräusch,
+   {\RedFlag}\,Sp\ce{O2} $\downarrow\downarrow$
+
+\jNEU
+  {Zeichen einer erschwerten Atemarbeit}:
+  \begin{itemize}
+    \item Einsatz der Atemhilfsmuskulatur
+    \item Einziehungen an den Rippen
+    \item Erschöpfungszeichen
+  \end{itemize}
+  .
+  \jNEUende
+  
+   Endstadium: {\RedFlag}\,Atemarbeit erschöpft
+   %%%
+   \item[\ABCDE{C}] HF $\uparrow$
+   
+   Schwerer Anfall: HF $\downarrow$
+   %%%
+   \item[\ABCDE{D}] 
+   Schwerer Anfall: RR $\downarrow$
+   %%%
+  \item[\ABCDE{=}] \added{Schwere Atemnot: Vital bedroht.
+  Erschöpfte Atemarbeit: Akute Lebensgefahr}
+ \end{ABCDESlide}
+ }
+ {}
+ {}
+ {}
+ .
+ 
+ \jALT
+ .
+ \subparagraph{\Ca{Schwerer Anfall}}
+ \ldots
+ \jALTende
+ 
+ \jNEU
+  \Layout{0}
+ {{\TxSAMPLER}}
+{%
+ \begin{SAMPLERText}
+  \item[\SAMPLER{A}] Patienten mit allergischem Asthma haben
+  häufig Allergien gegen Gräser, Pollen, Tierhaare usw.
+  \item[\SAMPLER{M}] Oft werden Sprays bzw. Inhalatoren zur
+  Dauertherpaie und für den Anfall eingesetzt. Manche
+  Medikamente, insbesonders Schmerzmedikamente, können
+  Anfälle auslösen.%
+  \ZFootnote{Besonders nichtsteroidale Antirheumatika (ASS,
+  Aspirin{\texttrademark}, etc.) und Betablocker
+  (Antiarrhythmika, Blutdruckmittel) können Asthma-Anfälle
+  auslösen.} 
+  Nahm der Patient in letzter Zeit (neue)
+  Medikamente?
+  \item[\SAMPLER{P}] Meist ist Asthma vorbekannt. 
+  \item[\SAMPLER{L}] Letzte Spray-Einnahme erfragen!
+  \item[\SAMPLER{E}] Häufige Auslösefaktoren sind Stress,
+  Anstrengung und Allergenexposition.
+%   \item[\SAMPLER{R}]
+ \end{SAMPLERText}
+ }
+ {
+ \begin{SAMPLERSlide}
+%   \item[\SAMPLER{S}]
+  \item[\SAMPLER{A}] Gräser, Pollen, Tierhaare, \ldots
+  \item[\SAMPLER{M}] Sprays, Inhalatoren. (Neue) Medikamente in letzter Zeit?
+  \item[\SAMPLER{P}] Asthma oft vorbekannt
+  \item[\SAMPLER{L}] Spray-Einnahme?
+  \item[\SAMPLER{E}] Stress, Anstrengung, Allergene
+%   \item[\SAMPLER{R}]
+ \end{SAMPLERSlide}
+ }
+ {}
+ {}
+ {}
+ .
+ \jNEUende
+ 
+ \jALT
+ \Layout{0}{Status Asthmaticus}{%
+\index{Status!asthmaticus}
+\label{topic:status-asthmaticus}
+Der
+\protect\enquote{Status} ist eine gefürchtete Komplikation des
+Asthmaanfalles bei der die Atemnot nicht wieder vergeht. Es
+besteht die Gefahr, dass der Patient nach einiger Zeit keine
+Kraft mehr zum Atmen hat (Erschöpfung). Der Status
+asthmaticus kann tödlich enden.
+}{
+\begin{itemize}
+  \item Lebensgefährliche Komplikation:
+  \item Anfall hört nicht mehr auf
+\end{itemize}
+}{}{}{}
+ .
+ \jALTende
+ 
+\subsection{COPD}
+\subsection{Lungenembolie}
+\subsection{Lungenöden}
+\subsection{Hyperventilationstetanie}
+
+
+\section{[SAN]}
+ \Layout{2}{Material und Personal}{
+ \begin{itemize}
+    \item \deleted{Mind. 2 Helfer}
+    \item \added{Mindestens 2 Helfer, besser 3 Helfer}
+     \item Schaufeltrage
+     \item Gurte für Schaufeltrage
+ \end{itemize}
+ }{}{}{}{}
+
+\jALT
+ \Layout{2}{Vorgehen}{
+ \begin{enumerate}
+     \item \ldots
+     \item \EE{Öffnen} der Trage: \ldots
+     \item \EE{Aufschaufeln}:
+     \begin{enumerate}
+       \item 1. Methode: Fußseite offen, Patient wird von oben
+    kommend wie auf eine Schere aufgeladen, die Trage unter ihm
+    geschlossen. Kontrolle des sicheren Schlusses!
+    
+    Diese Methode ist besonders bei Becken- und
+    Oberschenkelverletzungen sinnvoll und der zweiten
+    Methode vorzuziehen da der Patient nicht am Becken
+    bewegt wird.
+    \item 2. Methode: beide Teile getrennt, Patient leicht an
+    Schulter und Hüfte zur Seite gedreht und jeweiligen Tragenteil
+    darunter geschoben. Hälften zuerst am Kopf-, dann am Fußende
+    schließen. Kontrolle des sicheren Schlusses!
+     \end{enumerate}
+     \item Angurten: \ldots
+     \item \ldots
+ \end{enumerate}
+ }{}{}{}{}
+ .
+ \jALTende
+ 
+ \jNEU
+  \Layout{2}{Vorgehen}{
+ \begin{enumerate}
+     \item \ldots
+     \item \EE{Öffnen} der Trage: \ldots
+     \item \EE{Aufschaufeln}:
+     \begin{enumerate}
+       \item 1. Methode: Fußseite offen, Patient wird von oben
+      kommend wie auf eine Schere aufgeladen, die Trage unter ihm
+      geschlossen, dabei
+      stabilisiert ein 3. Helfer
+      den Kopf. Abschließend Kontrolle des sicheren Schlusses!
+      
+      Diese Methode ist besonders bei Becken- und
+      Oberschenkelverletzungen sinnvoll und der zweiten
+      Methode vorzuziehen da der Patient nicht am Becken
+      bewegt wird.
+      \item 2. Methode: Beide Teile sind getrennt.
+      \begin{enumerate}
+        \item Der Patient wird leicht an
+        Schulter und Hüfte abwechselnd zur Seite gedreht, dabei
+        stabilisiert ein 3. Helfer
+        den Kopf und folgt dabei der Drehbewegung achsengerecht.
+        Die jeweiligen Tragenteil werden während der Drehbewegung
+        unter den Patienten geschoben.
+        \item Dann werden die Hälften zuerst am Kopf-, dann am Fußende
+        geschlossen.
+        \item Anschließend wird eine Kontrolle des sicheren Schlusses durchgeführt
+      \end{enumerate}
+     \end{enumerate}
+     \item Angurten: \ldots
+     \item \ldots
+ \end{enumerate}
+ }{}{}{}{}
+ .
+\jNEUende
+
+\section{[VIT]}
+ \paragraph{Überblick}
+ 
+ Die Vitalfunktionen ermöglichen die
+ Funktion des Körpers. Man unterscheidet grundlegende
+ Vitalfunktionen 1. Ordnung (Bewusstsein, Atmung, Kreislauf),
+ deren Ausfall binnen kurzem zum Tod führen können, und
+ Vitalfunktionen 2. Ordnung, deren Störung längere Zeit
+\deleted{toleriert werden kann:}
+
+\added{toleriert werden kann. Die Untersuchung der Vitalfunktionen
+1. Ordnung sind fester Bestandteil des Einschätzungsblockes
+(\FullPrettyRef{topic:einschaetzungsblock}).}
+
+\subsection{\deleted{Bewusstsein}}
+\subsection{Vitalfunktionen 1. Ordnung}
+
+\jNEU
+\Layout{0}{{\TxQuerverweise}}{%
+Die Untersuchung der Vitalfunktionen
+1. Ordnung sind aufgrund ihrer Überlebenswichtigkeit fester
+Bestandteil des Einschätzungsblockes und werden ebendort
+näher erläutert:
+\begin{itemize}
+  \item \FullPrettyRef{topic:einschaetzungsblock}
+\end{itemize}
+}{
+\begin{itemize}
+  \item \FullPrettyRef{topic:einschaetzungsblock}
+\end{itemize}
+}{}{}{}
+.
+\jNEUende 
+ 
+\subsubsection{Bewusstsein}
+\jNEU
+\Layout{0}{{\TxQuerverweise}}{%
+Bewusstsein ist ein Oberbegriff für u.\,a. Wachheit,
+Orientierung, Aufmerksamkeit, Auffassungsgabe, Denkverlauf und
+Merkfähigkeit \cite{Pschy259}. Es ist für das Überleben des
+Organismus essentiell und  stellt somit eine Vitalfunktion
+1.
+Ordnung dar. Aufgrund der Wichtigkeit des Bewusstseins ist
+die Bewusstseinskontrolle fester Bestandteil des
+Einschätzungsblockes und wird dort näher ausgeführt:
+\begin{itemize}
+  \item \FullPrettyRef{topic:bewusstsein}.
+\end{itemize}
+}{
+\begin{itemize}
+  \item \FullPrettyRef{topic:bewusstsein}
+\end{itemize}
+}{}{}{}
+.
+\jNEUende
+
+\subsection{\deleted{Atmung}}
+
+\subsubsection{Atmung}
+ 
+ \jNEU
+\Layout{0}{{\TxQuerverweise}}{%
+Die Atmung (und damit auch der sichere Atemweg) ist
+überlebenswichtig und stellt somit eine Vitalfunktion 1.
+Ordnung dar. Die Kontrolle der Atemwege und der Atmung sind
+als Punkte  {\FontKeyboardFamily{A}} und
+{\FontKeyboardFamily{B}} fester Bestandteil des
+Einschätzungsblockes und werden dort näher ausgeführt:
+\begin{itemize}
+  \item {\FontKeyboardFamily{A}} Atemweg (Airway):
+  \FullPrettyRef{topic:atemweg}
+  \item {\FontKeyboardFamily{B}} Atmung (Breathing):
+  \FullPrettyRef{topic:atmung}
+\end{itemize}
+}{
+\begin{itemize}
+  \item {\FontKeyboardFamily{A}} Atemweg:
+  \FullPrettyRef{topic:atemweg}
+  \item {\FontKeyboardFamily{B}} Atmung:
+  \FullPrettyRef{topic:atmung}
+\end{itemize}
+}{}{}{}
+.
+ \jNEUende
+ 
+ \subsection{\deleted{Herz-\,/\,Kreislauf}}
+
+\subsubsection{Kreislauf}
+\jNEU
+\Layout{0}{{\TxQuerverweise}}{%
+Der Rkeislauf ist
+überlebenswichtig und stellt somit eine Vitalfunktion 1.
+Ordnung dar. Die Kontrolle des Kreislaufs ist als Punkt 
+{\FontKeyboardFamily{C}} fester
+Bestandteil des Einschätzungsblockes und wird dort näher
+ausgeführt:
+\begin{itemize}
+  \item {\FontKeyboardFamily{C}} Kreislauf (Circulation):
+  \FullPrettyRef{topic:kreislauf}
+  \item Schock:
+  \FullPrettyRef{topic:schock}
+\end{itemize}
+}{
+\begin{itemize}
+  \item {\FontKeyboardFamily{C}} Kreislauf:
+  \FullPrettyRef{topic:kreislauf}
+  \item Schock:
+  \FullPrettyRef{topic:schock}
+  \end{itemize}
+}{}{}{}
+.
+\jNEUende
+
+\subsection{Wasser-/Elektrolythaushalt}
+\Layout{0}{Verteilungsräume}
+ {%
+ Das Körperwasser macht ca. 60\PC* des Körpergewichtes
+ aus und teilt sich auf:
+ \begin{itemize}
+   \item \T{IntraZellularRaum} (IZR), 40\PC* KG
+   \item \T{ExtraZellularRaum} (EZR), 20\PC* KG
+   \begin{itemize}
+     \item \index{Zwischengewebsraum}Zwischengewebsraum,
+     $\sim$\,16\PC*: \enquote{freier}
+     Raum zwischen den Zellen im Gewebe
+     \item \index{Gefäßraum}Gefäßraum $\sim$\,4\PC*:
+     Raum in den Blutgefäßen
+   \end{itemize}
+ \end{itemize}
+ Die einzelnen Verteilungsräume haben Trennungen: Der
+ Intrazellularraum (\Abk{IZR}) wird vom Extrazellularraum
+ (\Abk{EZR}) durch die Zellmembran getrennt, der
+ Zwischengewebsraum vom Gefäßraum durch die Blutgefäßwand.
+}{%
+\jALT
+ \begin{itemize}
+    \item IZR -- EZR:    Zellmembran (semipermeable Membran,
+    s.\,u.)
+    \end{itemize}
+    .
+    \jALTende
+    
+    \jNEU
+    \begin{itemize}
+  \item \EE{I}ntra\EE{Z}ellular\EE{R}aum (IZR), 40\PC* KG
+  \item \EE{E}xtra\EE{Z}ellular\EE{R}aum (EZR), 20\PC* KG
+  \begin{itemize}
+    \item Zwischengewebsraum,
+    $\sim$\,16\PC*
+    \item Gefäßraum $\sim$\,4\PC*
+  \end{itemize}
+  \item Begrenzungen:
+  \begin{itemize}
+    \item IZR -- EZR:    Zellmembran 
+     \item Zwischengewebsraum -- Gefäßraum:  Blutgefäßwand
+  \end{itemize}
+ \end{itemize}
+ .
+ \jNEUende
+  }{}{}{}
+  
+  \clearpage
+  \jALT
+ \subsection{Wasser- und Elektrolythaushalt}
+\index{Wasserhaushalt}
+\index{Volumenhaushalt}
+\index{Elektrolythaushalt}
+\label{topic:wasser-elektrolythaushalt}
+
+\Layout{0}{Exkurs}
+{%
+Das Blutvolumen setzt sich zusammen aus dem \E{Plasma},
+welches zum Großteil aus Wasser besteht, und den
+\E{zellulären Bestandteilen} (Blutkörperchen).
+Der Anteil des Blutvolumens beträgt beim Erwachsenen
+\VonBis{7}{8}\PC*, beim Neugeborenes \VonBis{8}{9}\PC* des Körpergewichts.
+\E{Verluste bis zu ca. 20\PC*} sind prinzipiell ohne
+Funktionsbeeinträchtigung tolerierbar, allerdings kommt es
+bald zu Schäden in der Endstrombahn.
+
+Osmose und Diffusion sorgen zusammen mit den Elektrolyten
+für die richtige Verteilung der Flüssigkeit in den
+Verteilungsräumen und damit für die Volumenregulation.
+Darüber hinaus steuern
+Hormone\ZFootnote{Renin, Angiotensin, Aldosteron} zusammen
+mit den Nieren die planmäßige Ausscheidung von Flüssigkeit.
+}{
+\begin{compactitem}
+  \item Blutvolumen = Plasma(wasser) + zelluläre Bestandteile
+  \item Erwachsener \VonBis{7}{8}\PC*, Neugeborenes\,/\,Säugling \VonBis{8}{9}\PC* des Körpergewichts
+  \item Verluste bis 20\PC* verkraftbar
+  \item Osmose und Diffusion verteilen Wasser
+  \item Hormone {\&} Nieren sorgen für Ausscheidung
+\end{compactitem}
+}
+{}{}{}
+
+\subsection{Osmose und Diffusion}
+\index{Osmose|Z}
+\index{Diffusion|Z}
+\label{topic:osmose}
+\label{topic:diffusion}
+ 
+ \Layout{2}
+{\TxBeschreibung}
+{\DefinitionInPara{Unter Osmose versteht man den Fluss
+ von Molekülen durch eine halbdurchlässige Membranen.} 
+ Im menschlichen Körper spielt die Osmose eine wesentliche
+Rolle in der Flüssigkeitsverteilung.}
+{}
+{}
+{}
+{}
+
+
+\AuthNotes{GAB: Osmose und Diffusion: Grundsätzlich wichtig
+und relevant, allenfalls bessere Erklärung, aber bleibt in
+Normalschrift, nicht heller. [GAB]
+ 
+KOCH: Sollte alles grau werden}
+
+\Layout{2}{Flüssigkeitsverschiebung durch Diffusion}
+{%
+%
+ Geladene Teilchen können die Zellmembran nicht selbstständig
+ durchdringen, Wasser dagegen schon. Man nennt die
+ Zellmembran daher eine \E{semipermeable
+halbdurchlässige Membran}\ZFootnote{\I{semipermeable
+Membran}\index{Membran!semipermeable}}.
+ Die Natur möchte, dass in einer Flüssigkeit überall \E{die
+ gleiche Konzentration geladener Teilchen} herrscht. Da
+ die Zellmembran (und teilweise auch die Blutgefäßwand) nur
+ das Wasser durchlässt, nicht jedoch die geladenen Teilchen,
+verschiebt sich nur das Wasser von einem Raum in den
+anderen. Man kann
+auch sagen:
+
+\Fazit{\enquote{Das Wasser folgt dem Konzentrationsgefälle.}}
+
+\Z{Man kann es sich so vorstellen, dass die Elektrolyte einen
+\enquote{Druck} ausüben und das Wasser dazu bringen \enquote{die Seiten
+ zu wechseln}. Man nennt diesen Druck den
+\enquote{\index{osmotischer Druck}\T{osmotischen Druck}}.} 
+\Z{Daneben gibt es den \E{onkotischen} Druck, welcher durch
+Eiweißbestandteile ausgeübt wird.\ZFootnote{Der durch
+ Eiweißbestandteile hervorgerufene onkotische Druck wird bei
+ speziellen \enquote{kolloidalen} Infusionslösungen ausgenützt. Sie
+ enthalten große Eiweiße, welche die Blutgefäßwand
+ normalerweise nicht passieren können und folglich Wasser vom
+ Zwischengewebsraum in den Blutgefäßraum \enquote{ziehen}. Der
+ verbreitetste Wirkstoff ist die Hydroxyethylstärke (HAES),
+ Beispiele für damit erzeugte Infusionslösungen sind
+ Elohaest{\texttrademark}, Voluven{\texttrademark} und
+HyperHAES{\texttrademark}.}}
+}{
+ 
+ }
+% {./images/osmose.png}
+ {}
+ {}
+ {}
+ 
+  
+ \begin{PictureSeriesWide}{}{Bilderserie: \EEE{Flüssigkeit im Körper}}
+ \PictureSeriesRowWide{2}
+ {./images/wikipedia-pd/Semipermeable_membrane.png}
+ {Gefäßraum und Zwischengewebsraum, getrennt durch die
+ Blutgefäßwand. Es schwimmt viel herum: Die grünen, gelben
+ blauen und violetten Kugeln stellen Ionen und Moleküle dar.
+ Die roten Scheiben sind rote Blutkörperchen. 
+ \SourcePicture{WMC/pidalka44}}
+ {./images/wikipedia-pd/Osmotische_druk.png}
+ {Diffusion \SourcePicture{WMC (Sander van der Molen)/PD}}
+ {}
+ {}
+ {}
+ {}
+ \end{PictureSeriesWide}
+ 
+
+\Z{Wie kommen die Elektrolyte in die einzelnen Räume wenn
+doch nur Wasser die Wand passieren kann? Dafür gibt es in
+der Zelle spezielle \enquote{Pumpen}
+ \Z{(Transportproteine, z.\,B. die
+ \I{Natrium-Kalium-ATPase})} die die Ionen zwischen den
+ intra- und extrazelluärraum befördern.
+ }
+ 
+Die Steuerung der richtigen Verteilung der verschiedenen
+Ionen ist recht kompliziert aber lebenswichtig. Eine
+falsche Verteilung der Elektrolyte kann schlimme Folgen
+haben (zB. Herzrhythmusstörungen).
+ 
+ \Fazit{Die richtige Verteilung der Elektrolyte im Körper
+ ist lebenswichtig. Elektrolytstörungen können
+ lebensgefährlich sein. }
+ 
+ \Layout{0}{Häufige Ursachen von
+ Elektrolytstörungen}
+ {%
+ \index{Elektrolytstörungen}
+ \label{topic:elektrolytstoerungen}
+ \label{topic:dialyse-elektrolyte}
+ %
+ \begin{itemize}
+     \item Niereninsuffizienz (gestörte Ausscheidung)
+     \begin{itemize}
+         \item Besonders bei
+         Dialysepatienten\index{Dialyse!Elektrolytstörungen}
+     \end{itemize}
+     \item Durchfall, Erbrechen (Verlust von Elektrolyten)
+     \item Medikamente
+     \begin{itemize}
+       \item \I[Insulin!Elektrolytstörungen]{Insulin}: Bei
+       der Behandlung einer Hyperglykämie (zu hoher Blutzuckerspiegel) 
+       mittels Insulin kann es
+       zu lebensbedrohlichen Elektrolytstörungen kommen!
+     \end{itemize}
+     \item Vergiftung
+     %\item \Z{Hormonentgleisungen}
+ \end{itemize}
+ }{%
+ \begin{itemize}
+     \item Niereninsuffizienz, Dialysepatienten
+     \item Durchfall, Erbrechen (Verlust von Elektrolyten)
+     \item Medikamente (Insulin!), Vergiftung
+     %\item \Z{Hormonentgleisungen}
+ \end{itemize}
+ }{}{}{}
+.
+ \jALTende
+ 
+ \clearpage
+ \jNEU
+ \Layout{2}
+{Osmose und Diffusion}
+{%
+\index{Osmose|Z}%
+\index{Diffusion|Z}%
+\label{topic:osmose}%
+\label{topic:diffusion}%
+\DefinitionInPara{Unter Osmose versteht man den Fluss
+ von Molekülen durch eine halbdurchlässige Membranen.} 
+ Im menschlichen Körper spielt die Osmose eine wesentliche
+Rolle in der Flüssigkeitsverteilung.
+ 
+ Geladene Teilchen können die Zellmembran nicht selbstständig
+ durchdringen, Wasser dagegen schon. Man nennt die
+ Zellmembran daher eine \E{semipermeable
+(halbdurchlässige) Membran}\index{Membran!semipermeable}.
+ Die Natur möchte, dass in einer Flüssigkeit überall \E{die
+ gleiche Konzentration geladener Teilchen} herrscht. Da
+ die Zellmembran (und teilweise auch die Blutgefäßwand) nur
+ das Wasser durchlässt, nicht jedoch die geladenen Teilchen,
+kann dies nur erreicht werden, indem Wasser vom Raum der
+niedrigeren Konzentration in den mit einer höheren
+Konzentration übertritt.%
+\ZFootnote{Man kann es sich so vorstellen, dass die
+Elektrolyte einen \enquote{Druck} ausüben und das 
+Wasser dazu bringen \enquote{die Seiten
+ zu wechseln}. Man nennt diesen Druck den
+\enquote{\index{osmotischer Druck}\T{osmotischen Druck}}.
+Daneben gibt es den \E{onkotischen} Druck, welcher durch
+Eiweißbestandteile ausgeübt wird. Der durch
+ Eiweißbestandteile hervorgerufene onkotische Druck wird bei
+ speziellen \enquote{kolloidalen} Infusionslösungen ausgenützt. Sie
+ enthalten große Eiweiße, welche die Blutgefäßwand
+ normalerweise nicht passieren können und folglich Wasser vom
+ Zwischengewebsraum in den Blutgefäßraum \enquote{ziehen}. Der
+ verbreitetste Wirkstoff ist die Hydroxyethylstärke (HAES),
+ Beispiele für damit erzeugte Infusionslösungen sind
+ Elohaest{\texttrademark}, Voluven{\texttrademark} und
+HyperHAES{\texttrademark}.} 
+Man kann
+auch sagen:
+
+\Fazit{\enquote{Das Wasser folgt dem Konzentrationsgefälle.}}
+ 
+ }
+{
+}
+ {}
+ {}
+ {}
+ 
+ 
+ 
+\AuthNotes{GAB: Osmose und Diffusion: Grundsätzlich wichtig
+und relevant, allenfalls bessere Erklärung, aber bleibt in
+Normalschrift, nicht heller. [GAB]
+
+KOCH: Sollte alles grau werden}
+
+ 
+ \begin{PictureSeriesWide}{}{Bilderserie: \EEE{Flüssigkeit im Körper}}
+ \PictureSeriesRowWide{2}
+ {./images/wikipedia-pd/Semipermeable_membrane.png}
+ {Gefäßraum und Zwischengewebsraum, getrennt durch die
+ Blutgefäßwand. Es schwimmt viel herum: Die grünen, gelben
+ blauen und violetten Kugeln stellen Ionen und Moleküle dar.
+ Die roten Scheiben sind rote Blutkörperchen. 
+ \SourcePicture{WMC/pidalka44}}
+ {./images/wikipedia-pd/Osmotische_druk.png}
+ {Diffusion \SourcePicture{WMC (Sander van der Molen)/PD}}
+ {}
+ {}
+ {}
+ {}
+ \end{PictureSeriesWide}
+ 
+\Layout{2}
+{Verteilung der Elektrolyte}
+{%
+Die Steuerung der richtigen Verteilung der
+Elektrolyte zwsichen den Verteilungsräumen ist recht
+kompliziert.%
+\ZFootnote{Verteilung der Elektrolyte:  
+Dafür gibt es in der Zelle spezielle \enquote{Pumpen}
+ \Z{(Transportproteine, z.\,B. die
+ \I{Natrium-Kalium-ATPase})} die die Ionen zwischen den
+ intra- und extrazelluärraum befördern.
+}% 
+Eine
+falsche Verteilung der Elektrolyte kann schlimme Folgen
+haben (z.\,B. Herzrhythmusstörungen). Zu solchen
+Verteilungsstörungen kann es z.\,B. nach einer Blutwäsche
+(Dialyse) oder bei Vergiftungen kommen.
+ }
+{}
+{}
+{}
+{}
+ 
+ \Fazit{Die richtige Verteilung der Elektrolyte im Körper
+ ist lebenswichtig. Elektrolytstörungen können
+ lebensgefährlich sein. }
+ 
+ \Layout{0}{Häufige Ursachen von
+ Elektrolytstörungen}
+ {%
+ \index{Elektrolytstörungen}
+ \label{topic:elektrolytstoerungen}
+ \label{topic:dialyse-elektrolyte}
+ %
+ \begin{itemize}
+     \item Niereninsuffizienz (gestörte Ausscheidung)
+     \begin{itemize}
+         \item Besonders bei
+         Dialysepatienten\index{Dialyse!Elektrolytstörungen}
+     \end{itemize}
+     \item Durchfall, Erbrechen (Verlust von Elektrolyten)
+     \item Medikamente
+     \begin{itemize}
+       \item \I[Insulin!Elektrolytstörungen]{Insulin}: Bei
+       der Behandlung einer Hyperglykämie (zu hoher Blutzuckerspiegel) 
+       mittels Insulin kann es
+       zu lebensbedrohlichen Elektrolytstörungen kommen!
+     \end{itemize}
+     \item Vergiftung
+     %\item \Z{Hormonentgleisungen}
+ \end{itemize}
+ }{%
+ \begin{itemize}
+     \item Niereninsuffizienz, Dialysepatienten
+     \item Durchfall, Erbrechen (Verlust von Elektrolyten)
+     \item Medikamente (Insulin!), Vergiftung
+     %\item \Z{Hormonentgleisungen}
+ \end{itemize}
+ }{}{}{}
+ 
+\Layout{0}
+{Ausscheidung und Flüssigkeitsverlust}
+{%
+Der Körper kann Flüssigkeit (und auch Elektrolyte) entweder
+durch (gesteuerte) Ausscheidung (Volumenregulation) oder
+durch Flüssigkeitsverlust verlieren:
+ 
+\begin{itemize}
+  \item \EE{Ausscheidung}: Über die \EE{Nieren}, geregelt
+  u.\,a. durch Hormone\ZFootnote{Renin, Angiotensin, Aldosteron}
+  \item \EE{Flüssigkeitsverlust}: Z.\,B.:
+  \begin{itemize}
+    \item Stuhl
+    \item Haut, bzw. Schweiß
+    \item Atmung: Der Flüssigkeitsverlust bei der Atmung
+    wird häufig unterschätzt. Fiebernde Patienten können bis
+    zu 2 Liter an Flüssigkeit nur über die Atmung verlieren!
+  \end{itemize}
+\end{itemize}
+}
+{%
+\begin{itemize}
+  \item \EE{Ausscheidung}: {Nieren}
+  \item \EE{Flüssigkeitsverlust}: Z.\,B.:
+  \begin{itemize}
+    \item Stuhl
+    \item Haut, Schweiß
+    \item Atmung!
+  \end{itemize}
+\end{itemize}
+}
+{}
+{}
+{}
+ .
+ \jNEUende
+
+\subsection{Säure-Basen-Haushalt}
+\jALT
+\subsection{Allgemeines}
+
+\Layout{abstract}{}
+{Der Körper muss einen ausgewogenen Säure-Basenhaushalt
+(pH-Wert) haben. Puffersysteme sind wichtige Intrumente zur
+Regulation. Der pH-Wert hängt eng mit der Atmung zusammen:
+Säure kann zu Wasser und \ce{CO2} abgebaut werden. Bei zu
+geringer Atmung sammelt sich im Körper Säure, bei
+viel Atmung wird mehr Säure verbraucht. Umgekehrt erhöht
+sich bei Übersäuerung der Atemantrieb. 
+
+}{}{}{}{}
+.
+\jALTende
+
+\jALT
+\Layout{0}{pH-Wert}{
+ \index{pH-Wert}
+ Der pH-Wert gibt an, wie \E{sauer} oder \E{basisch} eine
+Lösung ist. Ein pH-Wert {\textless}\,7 gilt als \E{sauer},
+ ein pH\,=\,7 als \E{neutral} und ein ph\,{\textgreater}\,7
+als \E{basisch}.
+
+Der Körper ist da
+sehr empfindlich, der pH-Wert muss sich in engen Grenzen
+ bewegen. Schon geringe Abweichungen können große Folgen
+ haben. Bei einer Übersäuerung sprechen wir von einer
+\T{Azidose}, wenn der Patient basisch wird,
+von einer \T{Alkalose}.
+ 
+% \Fazit{Bei einer \EE{Übersäuerung} sprechen wir von einer
+% \T{Azidose}, wenn der Patient \EE{basisch} wird von einer
+% \T{Alkalose}.}
+
+\Z{Der richtige pH-Wert ist lebenswichtig. Er wird beim
+ Menschen normalerweise vom Körper sehr konstant um ca 7,4
+ gehalten. Bereits einen pH-Wert unter 7,35 (!)  bezeichnet
+ man als \E{Azidose}, bzw. über 7,45  als \E{Alkalose}.
+ Leider gibt es präklinisch normalerweise keine Möglichkeit
+ den pH-Wert zu messen, jedoch hat die Atmung bzw. Beatmung
+ sowie Erkrankungen
+ großen Einfluss auf ihn, siehe unten.}
+ }{
+ \begin{itemize}
+  \item Gibt an, wie sauer etwas ist.
+  \item pH\,{\textless}\,7 {\dotfill} sauer, 
+  pH\,=\,7 ist neutral,
+  \item pH\,{\textgreater}\,7 {\dotfill} basisch
+ \end{itemize}
+ }{}{}{}
+.
+\jALTende
+
+\jNEU
+\Layout{0}{pH-Wert}
+{
+ \index{pH-Wert}
+ Der pH-Wert gibt an, wie \E{sauer} oder \E{basisch} eine
+Lösung ist.\ZFootnote{Ein pH-Wert {\textless}\,7 gilt als \E{sauer},
+ ein pH\,=\,7 als \E{neutral} und ein ph\,{\textgreater}\,7
+als \E{basisch}.} 
+Der pH-Wert im Blut muss sich in engen Grenzen
+ bewegen. Schon geringe Abweichungen können große Folgen
+ haben. Bei einer Übersäuerung sprechen wir von einer
+\T{Azidose}, wenn der Patient basisch wird
+von einer \T{Alkalose}.%
+\ZFootnote{Der richtige pH-Wert ist lebenswichtig. Er wird beim
+ Menschen normalerweise vom Körper sehr konstant um ca 7,4
+ gehalten. Bereits einen pH-Wert unter 7,35 (!)  bezeichnet
+ man als \E{Azidose}, bzw. über 7,45  als \E{Alkalose}.
+ Leider gibt es präklinisch normalerweise keine Möglichkeit
+ den pH-Wert zu messen, jedoch hat die Atmung bzw. Beatmung
+ sowie Erkrankungen
+ großen Einfluss auf ihn.}
+ }{
+ \begin{itemize}
+  \item Gibt an, wie sauer oder basisch ein Stoff ist.
+  \item Übersäuerung: Azidose
+  \item Zu basisch: Alkalose
+%   \item pH\,{\textless}\,7 {\dotfill} sauer, 
+%   pH\,=\,7 ist neutral,
+%   \item pH\,{\textgreater}\,7 {\dotfill} basisch
+ \end{itemize}
+ }{}{}{}
+.
+\jNEUende
+
+\jALT
+ \subsubsection*{Zusammenfassung}
+ 
+ 
+ \Fazit{Die \EE{richtige Verteilung} von Wasser im Körper ist
+lebenswichtig.}
+
+\Fazit{Mittels Osmose und Diffusion verteilt der Körper das
+Wasser.} 
+
+\Fazit{Die \EE{Elektrolyte} haben einen großen Einfluss auf
+die
+  Wasserverteilung: Nur wenn die Elektrolyte richtig
+  verteilt sind, kann das Wasser richtig verteilt werden.}
+\Fazit{Elektrolyte haben auch
+  eine elektrische Funktion.}
+\Fazit{Ein ausgeglichener Säure-Basen-Haushalt ist wichtig, damit chemische
+  Abläufe im Körper richtig funktionieren können.}
+  
+ \Fazit{Besonders die \EE{Atmung} und der \EE{Stoffwechsel} können dem
+   Säure-Basen-Haushalt Streiche spielen: \newline
+   Wer zu wenig atmet wird sauer. \newline
+   Wer zu viel atmet wird basisch und spürt ein Kribbeln
+ in den Fingern. \newline
+ Wer Probleme mit dem Stoffwechsel hat kann auch
+     sauer oder basisch werden.}
+\jALTende
+
+\jNEU
+ \subsubsection*{Zusammenfassung}
+ 
+ 
+ \Fazit{Die \EE{richtige Verteilung} von Wasser im Körper ist
+lebenswichtig. Mittels Osmose und Diffusion verteilt der
+Körper das Wasser. Die \EE{Elektrolyte} haben dabei einen großen
+Einfluss: Nur wenn die Elektrolyte richtig
+  verteilt sind, kann das Wasser richtig verteilt werden.
+  Daneben haben sie auch eine elektrische
+  Funktion.}
+\Fazit{Der Körper muss einen ausgewogenen
+Säure-Basenhaushalt (pH-Wert) haben, damit chemische
+  Abläufe im Körper richtig funktionieren können.. 
+  Puffersysteme sind wichtige Instrumente zur
+Regulation. Der pH-Wert hängt eng mit der Atmung zusammen:
+Säure kann zu Wasser und \ce{CO2} abgebaut werden. Bei zu
+geringer Atmung sammelt sich im Körper Säure, bei
+viel Atmung wird mehr Säure verbraucht. Umgekehrt erhöht
+sich bei Übersäuerung der Atemantrieb. }
+ \Fazit{Besonders die \EE{Atmung} und der \EE{Stoffwechsel} können dem
+   Säure-Basen-Haushalt Streiche spielen: \newline
+   Wer zu wenig atmet wird sauer. \newline
+   Wer zu viel atmet wird basisch und spürt ein Kribbeln
+ in den Fingern. \newline
+ Wer Probleme mit dem Stoffwechsel hat kann auch
+     sauer oder basisch werden.}
+\jNEUende
+
+
+SO LONG.......... AND THANKS FOR ALL THE FISH
+
+
+\chapter{Änderungen im Maßnahmenkatalog}
+
+Keine Änderungen.
+
+\chapter{Diskussionen}
+\section{Inhaltlich}
+
+
+\section{Formal/Layout}
+
+
+\section{Reviewprotokoll}
+
+
+\chapter{Ergebnis/TO DO}
+\begin{enumerate}
+  \item Review des \CC{[PAM]}-Kapitels im Zuge des 44. Reviews Ende
+  Oktober/Anfang November
+  \item Kapitel \CC{[ASS]}: Durchstechampullen erwähnen
+\end{enumerate}
+
+\appendix
+\chapter{Anhang}
+Tischvorlage Probekapitel \CC{[PAM]}
+
+\MultiColListEnd{toc}
+\end{document}

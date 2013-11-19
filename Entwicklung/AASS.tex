@@ -281,6 +281,14 @@ sortlocale=de,
  
 \usepackage{AassStyleCollectionCoverFront}
 
+\usepackage[xindy]{glossaries}
+% \makeglossary
+
+% % \newglossaryentry{1-E}{name=1-E,description={Einschätzungsblock, 1234ABCDE}}
+
+% \newglossaryentry{ACS}{name=ACS,description={Symptomkomplex, charakteristisch für eine akute ischämische Herzerkrankung}}
+% \GlsSetXdyCodePage{utf8}
+
 \def\VarColumsLiterary{3}
 % #######################################################################################################
 % #######################################################################################################
@@ -876,6 +884,11 @@ prenote=bestof]
 %%% Index
 % \clearpage
 {\small\printindex}
+
+
+% \gls{ACS}
+
+% \printglossaries
 
 \input{./content/inc-APP}
 

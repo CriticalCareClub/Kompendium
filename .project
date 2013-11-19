@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>aass</name>
-	<comment></comment>
+	<name>AASS</name>
+	<comment>Arbeits- und Ausbildungsstandards für den Sanitätsdienst</comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -14,11 +14,4 @@
 	<natures>
 		<nature>net.sourceforge.texlipse.builder.TexlipseNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>Entwicklung/.tex</name>
-			<type>1</type>
-			<location>/usr/local/texlive/2013/texmf-dist/tex/latex/tools/.tex</location>
-		</link>
-	</linkedResources>
 </projectDescription>

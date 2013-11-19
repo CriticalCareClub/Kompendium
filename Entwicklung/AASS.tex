@@ -86,10 +86,13 @@ toc=flat,
 
 \newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
 \newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
-\usepackage[backend=bibtex8,
-babel=other,
+\usepackage[
+backend=biber,
+natbib=true,
+language=auto,
+clearlang=true,
+% autolang=other,
 defernumbers=true,
-natbib,
 sorting=none,
 sortlocale=de,
 ]{biblatex}

@@ -57,12 +57,13 @@ toc=flat,
 
 \renewcommand{\Abk}[1]{#1} 			% reset Abk
 
-\usepackage{xr}						% Maßnahmenkatalog: Referenzen zu ext. Dokument
-% 	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var1-Archiv}}
-% 	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var2-Archiv}}
-    \opt{VAR-VAR0}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
-	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
-	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+% \usepackage{xr}						% Maßnahmenkatalog: Referenzen zu ext. Dokument
+% % 	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var1-Archiv}}
+% % 	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var2-Archiv}}
+%     \opt{VAR-VAR0}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+% 	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+% 	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+
 % 1: Art der Massnahmen
 % 2: Titel
 % 3: Referenz
@@ -123,6 +124,9 @@ sortlocale=de,
 	\newcommand{\textbfit}[1]{\textbf{\textit{#1}}}
 	\newcommand{\bibentry}[1]{\fullcite{#1}}
 	\newcommand{\ChapterBibliography}{\relax}
+	
+	
+	
 % \opt{ORG-ASBOE}{\usepackage{asboe}}
 % \renewcommand{\FontTableBase}{\small\sffamily}
 
@@ -265,13 +269,13 @@ sortlocale=de,
   \begin{minipage}{\ThirdNetWidth}\scriptsize
   {\ttfamily\sloppy\color{AltBlueDark}#2}\vspace{\baselineskip}
   
-  {\FontSansNarrowFamily\color{AltBlueVeryLight}#1}
+  {\FontSansNarrowFamily\color{AltBlueLight}#1}
   \end{minipage}
   \end{flushright}
   \bigskip\noindent
   }
   
-  
+ 
 \usepackage{AassStyleCollectionCoverFront}
 
 \def\VarColumsLiterary{3}
@@ -820,7 +824,7 @@ Basisteil}
 
 % \pagenumbering[Appendix]{bychapter}
 
-
+ 
 \include{./content/chapter-INT}
 
 \include{./content/chapter-GLO}

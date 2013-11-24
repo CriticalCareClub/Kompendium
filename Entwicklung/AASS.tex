@@ -21,6 +21,7 @@ toc=flat,
 \usepackage{luatextra}
 \usepackage{fontspec}
 
+% sadly, morewrites brings problems to umlauts in lists
 % \usepackage{morewrites}
 
 % % http://tex.stackexchange.com/questions/66949/command-nobreakspace-unavailable-when-switching-to-t1-encoding-under-xelatex/66951#66951
@@ -281,12 +282,25 @@ sortlocale=de,
  
 \usepackage{AassStyleCollectionCoverFront}
 
-\usepackage[xindy]{glossaries}
+% \usepackage[xindy]{glossaries}
 % \makeglossary
 
 % % \newglossaryentry{1-E}{name=1-E,description={Einschätzungsblock, 1234ABCDE}}
 
-% \newglossaryentry{ACS}{name=ACS,description={Symptomkomplex, charakteristisch für eine akute ischämische Herzerkrankung}}
+% \newglossaryentry{akutes-koronarsyndrom}
+% 	{
+% 		name={Akutes Koronarsyndrom},
+% 		description={Symptomkomplex, charakteristisch für eine akute ischämische Herzerkrankung}
+% 	}
+
+% \newacronym{ACS}
+% 	{ACS}
+% 	{Akutes Koronarsyndrom}
+% \newacronym{PCTA}
+% 	{PTCA}
+% 	{\Lang{engl.} Percutan transluminal coronary angioplasty, \Lang{dtsch.} Perkutane transluminale Koronarangioplastie}
+
+
 % \GlsSetXdyCodePage{utf8}
 
 \def\VarColumsLiterary{3}
@@ -869,7 +883,7 @@ ITLSde6,
 Helfen2008,
 StriebelAnaesthesie2}
 
-\printbibliography[
+\printbibliography[  
 category=BestOf,
 title={Literatur,Best of},
 prenote=bestof]
@@ -886,9 +900,15 @@ prenote=bestof]
 {\small\printindex}
 
 
-% \gls{ACS}
 
-% \printglossaries
+
+%  ist 
+
+
+%  Das \I{\gls{ACS}} ist ein 
+%  \gls{akutes-koronarsyndrom}. Deshalb wird beim \I{\gls{ACS}} auch ein bestimmter Symptomenkomplex beobachtet. Behandelt wird es mittels \T{\gls{PTCA}}.
+
+% \printglossaries 
 
 \input{./content/inc-APP}
 

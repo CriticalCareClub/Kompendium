@@ -1,3 +1,4 @@
+%!TEX program = lualatex
 \documentclass[
 ngerman,
 paper=a4,
@@ -19,6 +20,8 @@ toc=flat,
 
 \usepackage{luatextra}
 \usepackage{fontspec}
+
+% \usepackage{morewrites}
 
 % % http://tex.stackexchange.com/questions/66949/command-nobreakspace-unavailable-when-switching-to-t1-encoding-under-xelatex/66951#66951
 % % Its xunicode which changes \nobreakspace: It maps the
@@ -54,12 +57,13 @@ toc=flat,
 
 \renewcommand{\Abk}[1]{#1} 			% reset Abk
 
-\usepackage{xr}						% Maßnahmenkatalog: Referenzen zu ext. Dokument
-% 	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var1-Archiv}}
-% 	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var2-Archiv}}
-    \opt{VAR-VAR0}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
-	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
-	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+% \usepackage{xr}						% Maßnahmenkatalog: Referenzen zu ext. Dokument
+% % 	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var1-Archiv}}
+% % 	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var2-Archiv}}
+%     \opt{VAR-VAR0}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+% 	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+% 	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
+
 % 1: Art der Massnahmen
 % 2: Titel
 % 3: Referenz
@@ -82,10 +86,13 @@ toc=flat,
 
 \newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
 \newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
-\usepackage[backend=bibtex8,
-babel=other,
+\usepackage[
+backend=biber,
+natbib=true,
+language=auto,
+clearlang=true,
+% autolang=other,
 defernumbers=true,
-natbib,
 sorting=none,
 sortlocale=de,
 ]{biblatex}
@@ -120,6 +127,9 @@ sortlocale=de,
 	\newcommand{\textbfit}[1]{\textbf{\textit{#1}}}
 	\newcommand{\bibentry}[1]{\fullcite{#1}}
 	\newcommand{\ChapterBibliography}{\relax}
+	
+	
+	
 % \opt{ORG-ASBOE}{\usepackage{asboe}}
 % \renewcommand{\FontTableBase}{\small\sffamily}
 
@@ -262,14 +272,22 @@ sortlocale=de,
   \begin{minipage}{\ThirdNetWidth}\scriptsize
   {\ttfamily\sloppy\color{AltBlueDark}#2}\vspace{\baselineskip}
   
-  {\FontSansNarrowFamily\color{AltBlueVeryLight}#1}
+  {\FontSansNarrowFamily\color{AltBlueLight}#1}
   \end{minipage}
   \end{flushright}
   \bigskip\noindent
   }
   
-  
+ 
 \usepackage{AassStyleCollectionCoverFront}
+
+\usepackage[xindy]{glossaries}
+% \makeglossary
+
+% % \newglossaryentry{1-E}{name=1-E,description={Einschätzungsblock, 1234ABCDE}}
+
+% \newglossaryentry{ACS}{name=ACS,description={Symptomkomplex, charakteristisch für eine akute ischämische Herzerkrankung}}
+% \GlsSetXdyCodePage{utf8}
 
 \def\VarColumsLiterary{3}
 % #######################################################################################################
@@ -757,7 +775,7 @@ Basisteil}
 \include{./content/chapter-DOK}
 \include{./content/chapter-VIT}
 \include{./content/chapter-TOD}
-\include{./content/chapter-RSP}
+\include{./content/chapter-ATM}
 \include{./content/chapter-HKL}
 \include{./content/chapter-NEU}
 \include{./content/chapter-STW}
@@ -817,7 +835,7 @@ Basisteil}
 
 % \pagenumbering[Appendix]{bychapter}
 
-
+ 
 \include{./content/chapter-INT}
 
 \include{./content/chapter-GLO}
@@ -866,6 +884,11 @@ prenote=bestof]
 %%% Index
 % \clearpage
 {\small\printindex}
+
+
+% \gls{ACS}
+
+% \printglossaries
 
 \input{./content/inc-APP}
 

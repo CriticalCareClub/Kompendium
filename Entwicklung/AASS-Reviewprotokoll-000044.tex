@@ -20,6 +20,7 @@ footnotes=multiple,
 \usepackage{luatextra}
 \usepackage{fontspec}
 
+
 \usepackage{graphicx} % Bilder-Support
 
 \input{./AASS.optkeys.tex}
@@ -55,6 +56,10 @@ sortlocale=de,
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   Begin Document
 
+%\usepackage{cite}
+%\bibliography{BiblioDB-Med-Misc.bib}
+\usepackage{bibentry}
+\nobibliography*
 
 \newcommand{\Branch}[1]{\emph{#1}}
 
@@ -246,9 +251,9 @@ bindingoffset=1.5cm}
   \item[Von Commit \#] db1d091d66e3462a7dcf7ca3c0428032ca99c3c9
   
   (17. Oktober 2013)
-  \item[Bis Commit \#] 546cafe1f89b420b31e840ec91c10d4b20222909
+  \item[Bis Commit \#] c7d5975674e4396c7876498205c6086c9277276d
   
-  (15. November 2013)
+  (20. November 2013)
   \item[Anmerkungen] Es wurden nach dem Review noch Änderungen durchgeführt, diese werden extra ausgwiesen.
   \item[Anmerkungen] Textpassagen, die neu hinzugefügt wurden sind in der
   Umgebung
@@ -457,8 +462,8 @@ Wohl des Kranken ist oberstes Gebot.}}.
        \item Doppelseite Standardisierte Patientenversorung
       \item \deleted{\FullPrettyRef{tab:pam-weiterfuehrende}}
       \item \added{Übersicht
-      \enquote*{Weiterführende
-      Maßnahmen} (\FullPrettyRef{tab:pam-weiterfuehrende})}
+      Weiterführende
+      Maßnahmen \ldots}
      \end{enumerate}
      
     [PD]
@@ -469,6 +474,675 @@ Wohl des Kranken ist oberstes Gebot.}}.
  Public Domain ist ähnlich, aber nicht identisch mit der europäischen
  Gemeinfreiheit.
 \end{enumerate}
+
+\section{[ALS]}
+ 
+ \Layout{2}{Neuerungen 2010}{%
+ Die Empfehlung des
+\enquote*{Pflicht-Zyklus vor AED} beim unbeobachteten
+ Kreislaufstillstand ist gestrichen
+ worden, kann aber weiterhin angewendet werden.
+\deleted{Um die
+HDM-Pausen zu reduzieren, soll während der Ladephase des
+Defibrillators die HDM fortgeführt werden, d.\,h. nach der
+Analyse wird weiter massiert, bis der Defi bereit zur}
+\added{Während der Ladephase des
+Defibrillators soll die Herzdruckmassage (\I{HDM})
+fortgeführt werden um die HDM-Pausen zu reduzieren,
+d.\,h. nach der Analyse wird weiter massiert, bis der Defi bereit zur}
+ Schockabgabe ist.  Bei
+ vielen AED-Geräten kann es jedoch zu
+ \EE{Problemen} kommen, sie interpretieren die
+ reanimationsbedingten Störungen der EKG-Ableitung als
+ Kontaktverlust bzw. Bewegungsartefakt und brechen den
+ Ladevorgang ab.\footnote{Davon betroffen sind derzeit z.\,B. die
+ Geräte der Schiller Fred{\texttrademark}-Serie, der
+ Defigard{\texttrademark} 1002 und der
+ LifePak{\texttrademark} 500. Bezüglich anderer Geräte liegen
+ der Redaktion derzeit noch keine Informationen vor. Es muss
+ jedoch davon ausgegangen werden, dass auch andere Modelle
+ ein derartiges Verhalten zeigen können. \E{(Angaben ohne
+ Gewähr. Stand: 2011-01-19)}} Dadurch wird die Schockabgabe
+ verhindert. Daher kann diese Methode nicht generell
+ empfohlen werden, sondern darf nur durchgeführt werden, wenn
+ der Hersteller des Gerätes dies freigegeben hat.
+ \Commentary[HDM während Defi lädt / Doppelte Warnung]{Eine
+ Warnung betreffend der HDM während der Ladephase des Defis
+ findet sich bereits im \CO{[BLS]}-Teil
+ (\prettyref{chp:BLS}). Aufgrund der Tragweite wurde sie im
+ \CO{[ALS]}-Teil praktisch
+ wortwörtlich wiederholt.}
+ 
+ \Cave{Manche Defibrillatoren brechen den Ladevorgang ab,
+ wenn währenddessen eine Herzdruckmassage durchgeführt wird.}
+ 
+ \Fazit{Während des Ladevorganges des Defibrillators darf nur
+ bei Verwendung von \E{manuellen} Geräten eine
+ Herzdruckmassage durchgeführt werden.}
+ }{}{}{}{}
+ 
+\ldots
+
+\jALT
+ \Layout{2}{Endotracheale Intubation}
+{Die frühe endotracheale Intubation (Einführen eines Tubuses
+in die Luftröhre) verliert an Stellenwert. Sie soll nur
+angewendet werden, wenn der Anwender hochqualifiziert
+(\Speech{\enquote{high level of skill {\ldots}}}
+\cite{Erc2010Sec4}) und sich sehr sicher ist
+(\Speech{\enquote{{\ldots} and confidence}}
+\cite{Erc2010Sec4}), bzw. regelmäßige, laufende Erfahrung
+mit der Technik hat (\Speech{\enquote{and has regular,
+ongoing experience with the technique.}}
+\cite{Erc2010Sec4}).
+Ohne ausreichendes Training und Erfahrung wird die
+Komplikationsrate als unakzeptabel hoch angesehen. Das
+Aufschieben der endotrachealen Intubation bis zur Wiederkehr
+des spontanen Kreislaufs, wird in den ERC 2010-Leitlinien
+als Alternative ausdrücklich genannt.
+\cite{Nolan2001,
+Nolan2008,
+Wang2006,
+Wang2006a,
+Stiell2004,%There was no improvement in the rate of survival
+% with the use of advanced life support in any subgroup.
+Lecky2008,
+Erc2010Sec4}
+\Commentary[Airwaymanagement / Frühe Endotracheale Intubation (fETI)]
+{Die endotracheale Intubation (ETI) ist grundsätzlich eine
+sehr anspruchsvolle Tätigkeit, besonders im
+außer-klinischen Bereich; es gibt viele Fehlerquellen
+(Intubation des Ösophagus, Intubation eines Bronchus,
+iatrogene Verletzung beim Intubationsvorgang, \ldots).
+Zahlreiche Studien haben eine hohe Inzidenz von
+Fehlintubationen beschrieben.
+
+Nolan 2001 \cite{Nolan2001}
+gibt eine umfassende
+Übersicht bezüglich Erfolgsraten und Trainingsstrategien.
+Schon damals waren die dargestellten Ergebnisse nicht
+zufriedenstellend, gleichzeitig aber durchwachsen. Im
+weiteren zeitlichen Verlauf wurde die ETI immer weiter
+hinterfragt, z.\,B.
+\cite{Wang2006,Wang2006a,Wang2008,Stiell2004,Stiell2008}.
+
+In 2008 fassten Nolan und Soar \cite{Nolan2008} zusammen,
+dass der Nutzen der ETI bei der präklinischen Reanimation
+nicht durch Studien gezeigt werden konnte, und dass einige
+sogar das Gegenteil erkennen ließen.
+(\Speech{\enquote{Prehospital studies fail to show any
+benefit from tracheal intubation during cardiopulmonary
+resuscitation and many show harm.}}~\cite{Nolan2008}) Ein
+ebenso 2008 veröffentlichtes Cochrane-Review von Lecky
+et~al. \cite{Lecky2008} kam zu der gleichen Schlussfolgerung
+mit der Betonung, dass entsprechende, qualitative
+hochwertige Studien fehlen.
+Dass die Probleme der ETI nicht auf nicht-ärztliches
+Personal beschränkt ist, zeigten Timmermann et.~al. 2007
+\cite{Timmermann2007}. In dieser in Deutschland
+durchgeführten Studie wurde eine hohe Rate an
+Fehlintubationen (ösophageal, bronchial) durch Notärzte
+festgestellt.
+
+Vor diesem Hintergrund bleibt festzuhalten, dass eine
+unterlassene Intubation nicht mit einer unterlassenen
+Hilfeleistung gleichzusetzen ist.}
+}{}{}{}{}{}
+ 
+ \subparagraph{Kontrolle der Tubuslage}
+ Das korrekte Platzieren des Tubus ist einer der kritischten
+ Punkte bei der endotrachealen Intubation. Typische Fehler
+ sind die Intubation der Speiseröhre (\E{ösophageale}
+ Intubation) oder die Intubation eines Hauptbronchus
+ (\E{bronchiale} Intubation, wenn der Tubus zu weit
+ vorgeschoben wird; es wird dann nur \E{ein} Lungenflügel belüftet).
+ 
+ Grundsätzlich gibt es präklinisch drei Möglichkeiten, die
+ korrekte Lage des Tubus zu überprüfen:
+ \begin{enumerate}
+   \item Visuelle Darstellung mittels Laryngoskop
+   \item Auskultation von Magen und Lungenflügel
+   \item Messung der \ce{CO2}-Abatmung mittels Kapnograhie
+ \end{enumerate}
+ 
+  Grundsätzlich sollen immer \EE{alle drei
+ Möglichkeiten} angewendet werden.
+ Es wird jedoch zunehmend ein größerer Wert auf die
+ \EE{Kapnographie} gelegt, um die Tubuslage zu kontrollieren,
+ die CPR-Qualität abzuschätzen und eine frühzeitige Erkennung
+der Rückkehr des spontanen Kreislaufs zu ermöglichen.
+Besonders geeignet sind dazu Geräte, welche die
+\ce{CO2}-Abatmung als Kurve darstellen. Wenn nach 6
+ Beatmungen \ce{CO2} nachweisbar ist, kann man davon
+ ausgehen, dass der Tubus in den unteren Atemwege zu liegen
+ gekommen ist. Die Kapnographie kann jedoch \E{keine} Aussage
+ darüber treffen, ob die \E{Trachea oder ein einzelner
+ Bronchus} intubiert wurde.
+ 
+ Wenn kein Kapnograph mit Kurvendarstellung vorhanden ist,
+ wird in den ERC~2010-Leitlinien die bevorzugte Verwendung
+ supraglottischer Hilfsmittel
+ angeregt.\ZFootnote{\Speech{\enquote{In the absence of a
+ waveform capnograph it may be preferable to use a
+ supraglottic airway device when advanced airway management
+ is indicated.}}~\cite[p.1322]{Erc2010Sec4}.
+ \Commentary[Airwaymanagement / Kapnographie]{Zur
+ Problematik der Verfügbarkeit der Kapnographie siehe
+ auch 
+ \cite{Genzwuerker2007}
+ (\fullcite{Genzwuerker2007}) 
+ \cite{Timmermann2007}
+ und darin enthaltene
+ Referenzen.
+ }
+ }
+.
+\jALTende
+
+\jNEU
+ \Layout{2}{Endotracheale Intubation}
+{\DefinitionInPara{Als
+\T[Intubation!endotracheale]{endotracheale Intubation}
+(\T{ETI}) wird das Einführen eines Tubus in die Trachea
+bezeichnet.} Sie ist eine Maßnahme des invasiven
+Atemwegsmanagements und wird als Goldstandard hinsichtlich
+der Qualität der Atemwegssicherung angesehen, dies
+berücksichtigt aber nicht die Sicherheit der Anwendung.
+
+Der Tubus wird mithilfe eines Laryngoskops unter Darstellung
+der Stimmritze unter Sicht in die Luftröhre eingeführt.
+An den gängigen Tuben ist ein Cuff angebracht, welcher ein
+Abdichten des Atemweges ermöglicht\footnote{Manche Tuben,
+z.\,B. für Klinkinder haben keinen Cuff.}.
+ 
+ \subparagraph{Kontrolle der Tubuslage}
+ Das korrekte Platzieren des Tubus ist einer der kritischten
+ Punkte bei der endotrachealen Intubation. Typische Fehler
+ sind die Intubation der Speiseröhre (\E{ösophageale}
+ Intubation) oder die Intubation eines Hauptbronchus
+ (\E{bronchiale} Intubation, wenn der Tubus zu weit
+ vorgeschoben wird; es wird dann nur \E{ein} Lungenflügel belüftet).
+ 
+ Grundsätzlich gibt es präklinisch drei Möglichkeiten, die
+ korrekte Lage des Tubus zu überprüfen:
+ \begin{enumerate}
+   \item Visuelle Darstellung mittels Laryngoskop
+   \item Auskultation von Magen und Lungenflügel
+   \item Messung der \ce{CO2}-Abatmung mittels Kapnograhie
+ \end{enumerate}
+ 
+  Grundsätzlich sollen immer \EE{alle drei
+ Möglichkeiten} angewendet werden.
+ Es wird jedoch zunehmend ein größerer Wert auf die
+ \EE{Kapnographie} gelegt, um die Tubuslage zu kontrollieren,
+ die CPR-Qualität abzuschätzen und eine frühzeitige Erkennung
+der Rückkehr des spontanen Kreislaufs zu ermöglichen. Die
+Kapnographie ist die verlässlichste Methode zur
+Lagekontrolle \cite{Grmec2002}. Besonders
+geeignet sind dazu Geräte, welche die \ce{CO2}-Abatmung als Kurve darstellen. Wenn nach 6
+ Beatmungen \ce{CO2} nachweisbar ist, kann man davon
+ ausgehen, dass der Tubus in den unteren Atemwege zu liegen
+ gekommen ist. Die Kapnographie kann jedoch \E{keine} Aussage
+ darüber treffen, ob die \E{Trachea oder ein einzelner
+ Bronchus} intubiert wurde.
+ 
+ Wenn kein Kapnograph mit Kurvendarstellung vorhanden ist,
+ wird in den ERC~2010-Leitlinien die bevorzugte Verwendung
+ supraglottischer Hilfsmittel
+ angeregt.\ZFootnote{\Speech{\enquote{In the absence of a
+ waveform capnograph it may be preferable to use a
+ supraglottic airway device when advanced airway management
+ is indicated.}}~\cite[p.1322]{Erc2010Sec4}.
+ \Commentary[Airwaymanagement / Kapnographie]{Zur
+ Problematik der Verfügbarkeit der Kapnographie siehe
+ auch 
+ \cite{Genzwuerker2007}
+ (\fullcite{Genzwuerker2007}) 
+ \cite{Timmermann2007}
+ und darin enthaltene
+ Referenzen.
+ }
+ }
+}{}{}{}{}{}
+.
+\jNEUende
+
+Streitfrage:
+
+
+\jNEU
+\Layout{2}
+{Streitfrage: Endotracheale Intubation oder Alternative?}
+{
+Die endotracheale Intubation (ETI) ist grundsätzlich eine
+sehr anspruchsvolle Tätigkeit.  Es gibt viele
+Fehlerquellen, beispielhaft seien die Intubation des
+Ösophagus oder nur eines Bronchus, Verletzung
+beim Intubationsvorgang oder ein Bronchspasmus genannt.
+Zahlreiche Studien haben eine hohe Inzidenz von
+Fehlintubationen beschrieben.
+Speziell im 
+außerklinischen Bereich erhöht sich der
+Schwierigkeitsfaktor aufgrund der Gegebenheiten
+(Platzangebot, vorhandenes Material, nicht nüchterne bzw.
+nicht vorbereitete Patienten, Verletzungen,
+Begleiterkrankungen, \ldots) deutlich
+\cite{Timmermann2006,Thierbach2004}.
+
+In diversen Studien wurden die Erfolgs- und
+Komplikationsraten der ETI untersucht, dabei zeigen sich
+wenig zufriedenstellende bis alarmierende Ergebnisse %
+\cite{Nolan2001,
+% Prehospital and resuscitative airway care: should the gold standard be reassessed?
+% In the context of prehospital care and resuscitation,
+% tracheal intubation has been regarded as the standard in
+% airway treatment. The evidence for this status is rather
+% weak. It does not take into account the level of training
+% and experience of the personnel attempting intubation, and
+% whether they use neuromuscular blockers. In unskilled
+% hands, attempted tracheal intubation is harmful;
+% unrecognized esophageal intubation is disastrous. When
+% healthcare providers lack adequate skills in tracheal
+% intubation, alternative airway devices, such as the
+% laryngeal mask airway or the Combitube, may be better
+% options than a simple facemask. Healthcare personnel using
+% any of these devices should be adequately trained and
+% maintain frequent practice.
+Wang2011,% Out-of-hospital airway management in the
+% United States.In this study characterizing
+% out-of-hospital airway management across the United
+% States, we observed low out-of-hospital ETI success rates.
+Cobas2009, % Prehospital intubations and mortality: a level
+% 1 trauma center perspective.
+% This prospective study showed a 31\% incidence of failed
+% PHI in a large metropolitan trauma center. We found no
+% difference in mortality between patients who were properly
+% intubated and those who were not, supporting the use of
+% bag-valve-mask as an adequate method of airway management
+% for critically ill trauma patients in whom intubation
+% cannot be achieved promptly in the prehospital setting.
+Jones2004, % Emergency physician-verified out-of-hospital
+% intubation: miss rates by paramedics. 
+% The rate of unrecognized, misplaced out-of-hospital
+% intubations in this urban, midwestern setting was 5.8\%
+Wang2006, % Paramedic intubation errors: isolated events or
+% symptoms of larger problems?
+% In our study population, we found that errors occurred in
+% 22 percent of intubation attempts, with a frequency of up
+% to 40 percent in selected ambulance systems. These
+% findings indicate frequent errors associated with this
+% life-saving technique. These events might be emblematic of
+% larger issues in the structure and delivery of
+% out-of-hospital emergency care.
+Wang2006a, % Out-of-hospital endotracheal intubation: where
+% are we?
+% These studies highlight our limited understanding of
+% out-of-hospital endotracheal intubation and the need for
+% new strategies to improve airway support in the
+% out-of-hospital setting.
+Wang2008,
+Stiell2004,
+Stiell2008,
+}. Die wichtigsten Ergebnisse dieser Studien sind:
+\begin{itemize}
+  \item Die Gefahr von Fehlintubationen, insbesonders von
+  ösophagealen Fehllagen, ist hoch.
+  Diese werden oft spät oder gar nicht
+  erkannt (Risiko der unerkannten
+  Tubusfehllage bei Patienten mit außerklinischem
+  Kreislaufstillstand: \Range{0,5}{17}\PC*%
+  \cite{Grmec2002, % 0,5%: Comparison of three different
+  % methods to confirm tracheal tube placement in emergency intubation.
+  % The esophageal intubations were followed by successful
+  % endotracheal intubations without complications. The
+  % capnometry (sensitivity and specificity 100\%) and
+  % capnography (sensitivity and specificity 100\%) were
+  % better than auscultation (sensitivity 94\% and specificity
+  % 83\%) in confirming endotracheal tube placement in
+  % non-arrest patients ( p<0.05). Capnometry was highly
+  % specific (100\%) but not sensitive (88\%) for correct
+  % endotracheal intubation in patients with cardiopulmonary
+  % arrest (capnometry versus auscultation and capnometry
+  % versus capnography, p<0.05).Capnography is the most
+  % reliable method to confirm endotracheal tube placement in
+  % emergency conditions in the prehospital setting.
+  Lyon2010, % 2,4%: Field intubation of cardiac
+  % arrest patients: a dying art?
+  % The aetiology of cardiac arrest was medical in 95.2\%,
+  % traumatic in 3.9\% and unrecorded in 0.9\%. Prehospital
+  % intubation was attempted in 628 patients. Prehospital
+  % intubation was successful in 573 patients. A significant
+  % complication (multiple attempts, displaced endotracheal
+  % tube or oesophageal intubation) occurred in 55 (8.8\%)
+  % patients. 165 (20.8\%) patients survived to hospital
+  % admission, of whom 110 had undergone prehospital
+  % intubation. 55 patients who did not undergo prehospital
+  % tracheal intubation survived to hospital admission.The
+  % optimal method of maintaining an airway and ventilating an
+  % OHCA patient has yet to be established. Prehospital
+  % tracheal intubation for OHCA is associated with
+  % significant complications and may reduce survival. The use
+  % of tracheal intubation as a routine intervention should be
+  % reconsidered. Ambulance services should consider adopting
+  % alternative strategies in airway management.
+  Jones2004, % 6%: Emergency physician-verified
+  % out-of-hospital intubation: miss rates by paramedics.
+  Pelucio1997, % Out-of-hospital experience with the syringe
+  % esophageal detector device.
+  % In the remaining 168 intubations, the EDD correctly
+  % identified 5 of 10 esophageal intubations (sensitivity
+  % 50\%; 95\% CI: 19\%, 81\%).
+  % The EDD correctly identified 156 of 158 tracheal
+  % intubations (specificity 99\%; 95\% CI: 96\%, 100\%).In
+  % this paramedic field study, the EDD demonstrated poor
+  % sensitivity for esophageal intubations.
+  Jemmett2003, % 9%: Unrecognized misplacement of
+  % endotracheal tubes in a mixed urban to rural emergency
+  % medical services setting.
+  % Of the studied patients, 12\% (13 of 109) were found to
+  % have misplaced endotracheal tubes. For the patients with
+  % unrecognized improperly placed tubes, 9\% (10 of 109) were
+  % in the esophagus, 2\% (2 of 109) were in the right main
+  % stem, and 1\% (1 of 109) were above the cords. Paramedics
+  % serving urban and suburban areas did not perform
+  % significantly better (p < 0.05) than intermediate-level
+  % providers serving areas that are more rural.
+  % The incidence of unrecognized misplacement of endotracheal
+  % tubes by EMS personnel may be higher than most previous
+  % studies, making regular EMS evaluation and the
+  % out-of-hospital use of devices to confirm placement
+  % imperative. The authors were unable to show a difference
+  % in misplacement rates based on provider experience or
+  % level of training.
+  Katz2001, % Misplaced endotracheal tubes by paramedics
+  % in an urban emergency medical services system.
+  % On arrival in the ED, 25\% (27/108) of patients were found
+  % to have improperly placed endotracheal tubes. Of the
+  % misplaced tubes, 67\% (18/27) were found to be in the
+  % esophagus, whereas in 33\% (9/27), the tip of the tube was
+  % found to be in the hypopharynx, above the vocal cords. %
+  Erc2010Sek04De,
+  }
+  \item Die Erfolgsraten bei wenig routinierten Anwendern
+  sind schlecht\footnote{\Speech{\enquote{Die
+  Misserfolgsraten der Intubation betragen in
+  außerklinischen, wenig ausgelasteten Systemen
+  mit Anwendern, die selten Intubationen durchführen, bis
+  zu 50\PC*}}\cite{Erc2010Sek04De}. [408, 409]}.
+  \item Die Probleme der ETI  betreffen auch ärztliches
+  Personal\footnote{Timmermann et.~al. 
+  2007 \cite{Timmermann2007}: In dieser in Deutschland
+  durchgeführten Studie wurde eine hohe Rate an
+  Fehlintubationen (ösophageal, bronchial) durch Notärzte
+  festgestellt.}. \cite{Timmermann2007,Grmec2002, % 0,5%:
+  % Comparison of three different methods to confirm
+  % tracheal tube placement in emergency intubation.
+  }).
+  \item Der Schulungsaufwand ist groß: Zum Erlernen der
+  Tätigkeit werden wenigstens 100 ETI gefordert, zur
+  Aufrechterhaltung mindestens 10 ETI pro
+  Jahr \cite{Timmermann2012}. Damit verbunden wäre eine
+  Vollzeit-Trainingsphase von etwa einem halben Jahr
+  \cite{Bernhard2012}.
+\end{itemize}
+
+Erschwerend kommt hinzu, dass ein Vorteil für den Patienten
+durch die ETI \E{nicht} nachgewiesen ist:
+In 2008 fassten Nolan und Soar \cite{Nolan2008} zusammen, dass der Nutzen der ETI
+bei der präklinischen Reanimation
+nicht durch Studien gezeigt werden konnte, und dass einige
+sogar das Gegenteil erkennen ließen
+(\Speech{\enquote{Prehospital studies fail to show any
+benefit from tracheal intubation during cardiopulmonary
+resuscitation and many show harm.}}~\cite{Nolan2008}). Dies
+deckt sich auch mit Beobachtungen aus anderen Studien \cite{
+Stiell2004,%There was no improvement in the rate of survival
+% with the use of advanced life support in any subgroup.
+Cobas2009, % Prehospital intubations and mortality: a level
+% 1 trauma center perspective. 
+}.
+Ein 2008 veröffentlichtes Cochrane-Review kam zu der
+gleichen Schlussfolgerung, mit der Betonung, dass entsprechende, qualitative
+hochwertige Studien fehlen \cite{Lecky2008}. 
+
+
+Die frühe endotracheale Intubation verliert somit an
+Stellenwert.
+Sie soll nur angewendet werden, wenn der Anwender hochqualifiziert
+und sich sehr sicher ist,
+bzw. regelmäßige, laufende Erfahrung
+mit der Technik hat 
+(\Speech{\enquote{It should be used
+only when trained personnel are available to carry out the procedure with a
+high level of skill and confidence. }} \cite{Erc2010Sec4}).
+Ohne ausreichendes Training und Erfahrung wird die
+Komplikationsrate als unakzeptabel hoch angesehen. Das
+Aufschieben der endotrachealen Intubation bis zur Wiederkehr
+des spontanen Kreislaufs, wird in den ERC 2010-Leitlinien
+als Alternative ausdrücklich genannt.
+\cite{Nolan2001,
+Nolan2008,
+Lecky2008,
+Erc2010Sec4}
+Vor diesem Hintergrund bleibt festzuhalten, dass eine
+unterlassene Intubation nicht -- wie oft behauptet -- mit
+einer unterlassenen Hilfeleistung, sondern mit einer
+unterlassenen Tradition gleichzusetzen ist.
+
+
+Der traditionellen ETI steht eine stetige
+Entwicklung an alternativen Airwaysystemen gegenüber, welche eine effektive und
+technisch einfachere Sicherung des Atemweges ermöglichen
+(supraglottsiche Atemwegshilfen).
+Zwar müssen diese Systeme Abstriche hinsichtlich des
+Aspirationsschutzes machen, wiegen dies jedoch durch ihre
+einfach und sichere Anwendung auf %
+\cite{Schalk2010, %
+% Out-of-hospital airway management by paramedics and emergency physicians using laryngeal tubes.
+% The LT-D/LTS-D represents a reliable tool for prehospital
+% airway management in the hands of both paramedics and
+% emergency physicians. It can be used as an initial tool to
+% secure the airway until ETI is prepared, as a definitive
+% airway by rescuers less experienced with ETI or as a
+% rescue device when ETI has failed.
+% The placement time was < or =45s (n=120), 46-90s (n=20)
+% and >90s (n=7).
+Wiese2009, % The use of the laryngeal tube disposable (LT-D)
+% by paramedics during out-of-hospital resuscitation-an observational study concerning ERC guidelines 2005.
+% The LT-D was used in 46\% of all cardiac arrest
+% situations. Overall, the LT-D was successfully inserted in
+% more than 90\% of all cases on first attempt. In 95\% of
+% all cases, no problems concerning ventilation of the
+% patient were described.As an alternative airway device
+% recommended by the ERC in 2005, the LT-D may enable airway
+% control rapidly and effectively. Additionally, by using
+% the LT-D, a reduced "no-flow-time" and a better outcome
+% may be possible.
+}. Wenn die erforderliche Routine und Sicherheit für die
+Durchführung einer ETI nicht gegeben ist und die Indikation
+für ein invasives Atemwegsmanagement besteht, sollen
+supraglottische Atemwegshilfen als \E{primärer} Zugang
+eingesetzt werden \cite{Timmermann2012}.
+
+}
+{}
+{}
+{}
+{}
+
+\begin{Literary}
+\fullcite{Timmermann2012}
+
+\fullcite{Lecky2008}
+
+\fullcite{Timmermann2007}
+
+\fullcite{Erc2010Sek04De}
+\end{Literary}
+.
+\jNEUende
+
+\subsection{Larynxtubus}
+ Der \T{Larynxtubus{\texttrademark}} wurde von der Firma VBM
+ Medizintechnik entwickelt und zählt derzeit zu den
+ populärsten Produkten zur supraglottischen
+ Atemwegssicherung. Im Gegensatz zur endotrachealen
+ Intubation kann er blind und ohne Hilfsmittel eingeführt
+ werden, das Ende kommt bei korrekter Anwendung in der
+ Speiseröhre zu liegen. Er besitzt \E{ein}
+ Lumen\footnote{Als \I{Lumen} bezeichnet man denn
+ Innendurchmesser von Röhren, Kanülen und Kathetern.} und
+ zwei Cuffs\footnote{\I{Cuff}:
+ein mit Luft gefüllter Ballon.}\deleted{, manche Modelle (LT-S) verfügen über
+ein zweites Lumen, über -welches eine Magensonde zur Ableitung des Mageninhaltes
+gelegt werden kann. Der obere Cuff kommt nach dem Einführen
+im Rachen zu liegen, während der untere am Ende die
+Speiseröhre abdichtet.}
+\added{. Es gibt Modelle (LT-S),
+welche über ein zweites Lumen verfügen, über welches eine
+Magensonde zur Ableitung des Mageninhaltes gelegt werden
+kann (Magendrainagekanal). Trotz korrekter Anwendung kann es
+aufgrund von Leckagen zur Magenüberblähung kommen, daher
+sollen unbedingt, wenn verfügbar, nur Modelle mit einem
+Magendrainagekanal eingesetzt werden.
+\cite{Dengler2011,Mann2013}}
+
+\added{Der obere Cuff kommt nach dem Einführen im Rachen zu
+liegen, während der untere am Ende die Speiseröhre abdichtet.}
+ Dazwischen liegt die Öffnung des Lumens, nach dem Einführen
+ in Höhe des Kehlkopfes. Da ober- und unterhalb der
+ Abzweigung zur Luftröhre abgedichtet ist, kann die Luft über
+ den Kehlkopf und den Kehldeckel in die Luftröhre strömen und
+ die Gefahr der Aspiration von Mageninhalt kann deutlich
+ reduziert werden. Es sind verschiedene Größen je nach
+ Körperlänge erhältlich.
+ \cite{Asai2005} % The laryngeal tube.
+ 
+ Im direkten Vergleich mit der Beatmung mittels
+ Beatmungsmaske
+ sind bei einer korrekten Anwendung des Larynxtubus{\texttrademark} folgende
+ Vorteile gegeben:
+ 
+ \begin{itemize}
+  \item \deleted{Durch den geblockten Ösophagus wird ein Überblähen verhindert}
+  \item \added{Durch den geblockten Ösophagus soll das Überblähen
+   des Magens sowie die Aspiration von Mageninhalt
+  verhindert werden.}
+   \item Die Anwendung erfordert keine höhere manuelle
+   Geschicklichkeit als die Anwendung der Beatmungsmaske und
+   -beutel.
+   \item Zusätzliche Hilfsmittel zur Anwendung sind in der
+   Regel nicht erforderlich, wodurch die Gefahr von
+   Verletzungen durch solche reduziert ist.
+ \end{itemize}
+ 
+ \jALT
+\begin{WidePar}
+\begin{multicols}{3}
+ \begin{enumerate}\CorrectionListsBox
+  \item \EE{Notarzt} alarmieren
+   \item \EE{Lagerung}: Rückenlage, Kopf in
+   \EE{Schnüffelstellung} (Jackson Position, Kopf
+   leicht erhöht (umgedrehte Nierentasse), nicht überstreckt,
+   nicht gebeugt)
+   \item Mund öffnen mit dem
+   \enquote*{Kreuzgriff} (Daumen und Zeigefinger der linken
+   Hand, der Daumen am Unterkiefer, der Zeigefinger am
+   Oberkiefer (bzw. Zähne) öffnen den Mund. Achtung bei
+   kariösen oder wackeligen Zähnen!)
+   \item \EE{Einführen}: LT mit der Spitze
+   entlang des harten Gaumens einführen, ev. Unterkiefer
+   anheben
+   \item Zahnreihe innerhalb der Markierungen
+   \item
+   \EE{Cuffen}, Volumen nach Farbcodierung
+   \item Manuelles
+   \EE{Fixieren}
+   \item \EE{Beatmen}
+   \item \EE{Erfolgskontrolle}: sehen,
+   hören, \ce{CO2}-Messung, Sp\ce{O2} steigt, gleichbleibend
+   \begin{enumerate}
+     \item Sehen: Thoraxexkursionen
+    \item Hören: Auskultation
+    Kein Geräusch über dem
+    Magen, Atemgeräusche über beiden Lungenflügeln.
+
+    Achtung: Nicht seitengleiches Atemgeräusch beim
+    Beatmen über den LT heißt: Verlegung eines Hauptbronchus
+    (Fremdkörper) oder Pneumothorax, ist jedoch kein
+    Hinweis für einen zu tief oder falsch liegenden Tubus
+    (wie bei der Auskultation nach der endotrachealen
+    Intubation))!
+    \item Messung: sofortige 2-stellige et\ce{O2}-Messung,
+     Sp\ce{O2} steigend oder gleichbleibend, Verfärbung des EasyCap
+     II
+   \end{enumerate}
+   \item Wenn Beatmung gut möglich: \EE{Fixierung}
+   \item Vorsichtiges Einführen einer \EE{Magensonde} und Entlasten des
+   Magens (Magensonde erst einführen, wenn der Patient
+   verlässlich beatmet ist und der LT fixiert ist (kein Muss!)
+   \item Maximal 2 Versuche, max. 30\Sec* pro Versuch
+   \item Absaugung von Sekret aus LT: Sekret aus dem LT  darf
+   abgesaugt werden. Vorher die Absaugtiefe mit dem Abstand
+   Mundwinkel-Ohrläppchen bestimmen
+ \end{enumerate}
+\end{multicols}
+\end{WidePar}
+ .
+ \jALTende
+
+\jNEU
+ \begin{enumerate}\CorrectionListsBox
+  \item Ggfs. \EE{Notarzt} alarmieren
+   \item \EE{Lagerung}: Rückenlage, Kopf in
+   \EE{Schnüffelstellung} (Jackson Position, Kopf
+   leicht erhöht (umgedrehte Nierentasse), nicht überstreckt,
+   nicht gebeugt)
+   \item Mund öffnen mit dem
+   \enquote*{Kreuzgriff} (Daumen und Zeigefinger der linken
+   Hand, der Daumen am Unterkiefer, der Zeigefinger am
+   Oberkiefer (bzw. Zähne) öffnen den Mund. Achtung bei
+   kariösen oder wackeligen Zähnen!)
+   \item \EE{Einführen}: LT mit der Spitze
+   entlang des harten Gaumens einführen, ev. Unterkiefer
+   anheben
+   \item Zahnreihe innerhalb der Markierungen
+   \item
+   \EE{Cuffen}, Volumen nach Farbcodierung
+   \item Manuelles
+   \EE{Fixieren}
+   \item \EE{Beatmen}
+   \item \EE{Erfolgskontrolle}: sehen,
+   hören, \ce{CO2}-Messung, Sp\ce{O2} steigt, gleichbleibend
+   \begin{enumerate}
+     \item Sehen: Thoraxexkursionen
+   \item Hören: Auskultation\begin{itemize}
+      \item Kein Geräusch über dem
+    Magen
+    \item Atemgeräusche über beiden Lungenflügeln
+    \end{itemize}
+    Achtung: Nicht-seitengleiches Atemgeräusch beim
+    Beatmen über den LT bedeutet: Verlegung eines
+    Hauptbronchus (Fremdkörper) oder Pneumothorax, es ist
+    jedoch \E{kein} Hinweis für einen zu tief oder falsch
+    liegenden Tubus (im Gegensatz zur endotrachealen
+    Intubation)!
+    \item Messung: sofortige 2-stellige et\ce{CO2}-Messung,
+     Sp\ce{O2} steigend oder gleichbleibend, Verfärbung des EasyCap
+     II
+   \end{enumerate}
+   \item Wenn Beatmung gut möglich: \EE{Fixierung}
+   \item Vorsichtiges Einführen einer \EE{Magensonde} und Entlasten des
+   Magens (Magensonde erst einführen, wenn der Patient
+   verlässlich beatmet ist und der LT fixiert ist (kein Muss!)
+   \item Maximal 2 Versuche, max. 30\Sec* pro Versuch
+   \item Absaugung von Sekret aus LT: Sekret aus dem LT  darf
+   abgesaugt werden. Vorher die Absaugtiefe mit dem Abstand
+   Mundwinkel-Ohrläppchen bestimmen
+ \end{enumerate}
+.
+\jNEUende
+
 
 % ATM
 \section{[ATM]}
@@ -489,6 +1163,198 @@ Umbenennung der Unterabschnitts \E{Uterusatonie} in \E{Blutungen aus der
 Nachgeburtsperiode}.
 
 \section{[HKL]}
+\subsection{ACS}
+\jALT
+
+\Layout{0}
+{\TxABCDE}
+{~
+\begin{ABCDEText}
+%   \item[\ABCDE{1}] 
+%   %%%
+%   \item[\ABCDE{2}] 
+  %%%
+  \item[\ABCDE{3}]  \ldots
+  %%%
+  \item[\ABCDE{4}] \ldots
+   
+   Bei Diabetikern kann es aufgrund der Nervenschädigungen
+   auch zu einem schmerzlosen Verlauf kommen, man spricht
+   dabei auch vom \enquote*{\T[stummer Infarkt]{stummen
+   Infarkt}}\index{Infarkt, stummer}.
+  Sonst steht normalerweise der \E{stechende/brennende},
+  nicht atemabhängige \II[Brustschmerz]{Brust-} oder
+  \II{Oberbauchschmerz} zusammen mit \II{Atemnot} und
+  \II{Todesangst} im Vordergrund. Der Brustschmerz kann in
+  Richtung \E{Magen}, rechter oder linker \E{Hand},
+  \E{Kiefer} oder auch \E{Rücken} \EE{ausstrahlen}.
+   
+   \EE{Todesangst und Vernichtungsgefühl} sind
+   häufig.
+   Bei Auftreten eines \EE{kardiogenen Schocks} können die
+   entsprechenden Schockzeichen beobachtet werden: Blässe,
+   Kaltschweißigkeit, Hypotonie, etc.
+   (\FullPrettyRef{topic:schock-kardiogener}).
+   %%%
+   \item[\ABCDE{B}] \EE{Atemnot} kommt häufig vor und ist ein
+   Leitsymptom.  Begleitend kann man oft eine Zyanose
+   beobachten.
+   %%%
+  \item[\ABCDE{C}] Es können Zeichen eines \E{kardialen
+  Schocks} vorliegen. 
+   
+   Der Puls kann unregelmäßig sein.
+   %%%
+  \item[\ABCDE{D}]  Der Blutdruck ist normal oder hypoton.
+   %%%
+  \item[\ABCDE{E}]  das EKG kann wichtige Hinweise über
+   Ausdehnung, Alter und Lokalisation des Infarkts bringen.
+   Um die Dynamik beurteilen zu können, soll schon möglichst
+  früh ein 12-Kanal-EKG geschrieben werden. Die
+  Beurteilung ist jedoch nur entsprechend ausgebildeten
+  Personal vorbehalten.
+ %   %%%
+ %   \item[\ABCDE{\ldots}] 
+   %%%
+   \item[\ABCDE{=}]  Ein Patient mit einem  akuten
+   Koronarsyndrom ist grundsätzlich als vital bedroht
+   einzuschätzen. eine ärztliche Diagnose ist auch
+   hinsichtlich der Auswahl des richtigen Transportziel
+   (Herzkatheterlabor?) entscheidend.
+ \end{ABCDEText}
+ }
+ {
+ \begin{ABCDESlide}
+ %   \item[\ABCDE{1}] 
+ %   %%%
+ %   \item[\ABCDE{2}] 
+   %%%
+  \item[\ABCDE{3}] 
+  %%%
+  \item[\ABCDE{4}] 
+   %%%
+%   \item[\ABCDE{A}] 
+   %%%
+  \item[\ABCDE{B}] 
+   %%%
+  \item[\ABCDE{C}] 
+   %%%
+  \item[\ABCDE{D}] 
+   %%%
+  \item[\ABCDE{E}] 
+ %   %%%
+ %   \item[\ABCDE{\ldots}] 
+   %%%
+  \item[\ABCDE{=}] 
+ \end{ABCDESlide}
+ }
+ {}
+ {}
+ {}
+  .
+  \jALTende
+  
+  \jNEU
+  
+  \Layout{0}
+{\TxABCDE}
+{~
+\begin{ABCDEText}
+%   \item[\ABCDE{1}] 
+%   %%%
+%   \item[\ABCDE{2}] 
+  %%%
+  \item[\ABCDE{3}]  \ldots
+  %%%
+  \item[\ABCDE{4}] \ldots
+     
+   Bei Diabetikern kann es aufgrund der Nervenschädigungen
+   auch zu einem schmerzlosen Verlauf kommen, man spricht
+   dabei auch vom \enquote*{\T[stummer Infarkt]{stummen
+   Infarkt}}\index{Infarkt, stummer}.
+   
+   \EE{Todesangst und Vernichtungsgefühl} sind
+   häufig.
+   Bei Auftreten eines \EE{kardiogenen Schocks} können die
+   entsprechenden Schockzeichen beobachtet werden: Blässe,
+   Kaltschweißigkeit, Hypotonie, etc.
+   (\FullPrettyRef{topic:schock-kardiogener}).
+   %%%
+   \item[\ABCDE{B}] \EE{Atemnot} kommt häufig vor und ist ein
+   Leitsymptom.  Begleitend kann man oft eine Zyanose
+   beobachten.
+   %%%
+ \item[\ABCDE{C}] Der Puls kann unregelmäßig sein.   
+  Der Blutdruck kann in jede Richtung
+  verändert sein. Bedenke: Ein hypertensiver Notfall kann
+  Auslöser eines \Abk{ACS} sein. Es
+  können Zeichen eines \E{kardiogenen Schocks} vorliegen. 
+   
+%   \item[\ABCDE{D}]
+   %%%
+  \item[\ABCDE{E}]  Das EKG kann wichtige Hinweise über
+   Ausdehnung, Alter und Lokalisation des Infarkts bringen.
+   Um die Dynamik beurteilen zu können, soll schon möglichst
+  früh ein 12-Kanal-EKG geschrieben werden um Veränderungen
+  im Verlauf zu dokumentieren.
+  Die Beurteilung ist jedoch nur entsprechend ausgebildeten
+  und geübten Personal vorbehalten.
+ %   %%%
+ %   \item[\ABCDE{\ldots}] 
+   %%%
+   \item[\ABCDE{=}]  Ein Patient mit einem  akuten
+   Koronarsyndrom ist grundsätzlich als vital bedroht
+   einzuschätzen. eine ärztliche Diagnose ist auch
+   hinsichtlich der Auswahl des richtigen Transportziel
+   (Herzkatheterlabor?) entscheidend.
+ \end{ABCDEText}
+ }
+ {
+ \begin{ABCDESlide}
+ %   \item[\ABCDE{1}] 
+ %   %%%
+ %   \item[\ABCDE{2}] 
+   %%%
+  \item[\ABCDE{3}]  Leidend, 
+  evtl. kaltschweißig, blass
+   %%%
+  \item[\ABCDE{4}] \EE{Akuter,
+  nicht atemabhängiger, Brustschmerz} (brennend, stechend;
+  Hinter dem Brustbein, evtl.
+   \EE{Ausstrahlung} in Kiefer, (linken) Arm, in Rücken)
+  und
+  \EE{Atemnot}, oft \EE{Enge-} bzw.
+  \EE{Druckgefühl}, Todesangst
+  
+ 
+
+  Typisch untypisch:
+  \EE{Oberbauchschmerz};  
+  \enquote*{{stummer
+  Infarkt}}  
+   %%%
+  \item[\ABCDE{B}] \EE{Atemnot}, evtl. Zyanose
+   %%%
+  \item[\ABCDE{C}] Puls evtl. unregelmäßig,   
+  Blutdruck in jede Richtung
+  verändert, evtl. Zeichen eines {kardiogenen Schocks}
+  
+   %%%
+%   \item[\ABCDE{D}]
+   %%%
+  \item[\ABCDE{E}] EKG (im Verlauf)! 
+ %   %%%
+ %   \item[\ABCDE{\ldots}] 
+   %%%
+  \item[\ABCDE{=}]  Vital bedroht
+ \end{ABCDESlide}
+ }
+ {}
+ {}
+ {}
+  .
+  \jNEUende
+  
 \subsection{Hypertensive Krise}
 Änderung der Formulierung Buchstabe L beim SAMPLER-Schema:
 
@@ -613,6 +1479,53 @@ Aufzählungen in der Randspalte ergänzt:
 Umbenennung des Unterabschnitts \E{Laryngitis, Pseudokrupp} in \E{Akute
 obstruktive Laryngitis, Pseudokrupp}.
 
+\section{[NEU]}
+\subsection{Insult: Spezielle Anamnese}
+\jNEU
+\Layout{0}{Spezielle Anamnese}
+{%
+Vor Anmeldung zu einer Stroke-Unit müssen folgende
+Informationen erhoben worden sein:
+
+\begin{itemize}
+  \item Zeitpunkt des Auftretens der Symptome
+  \item 
+\end{itemize}
+
+}{
+\begin{itemize}
+  \item 
+\end{itemize}
+
+}{}{}{}
+.
+\jNEUende
+
+
+
+\section{[PAM]}
+\subsection{Einschätzungsblock:
+1\,--\,2\,--\,3\,--\,4\,--\,A\,--\,B\,--\,C\,--\,D\,--\,E}
+
+\jNEU
+\begin{quote}
+  \Speech{\enquote{Von 1 bis E.}}
+\end{quote}
+.
+\jNEUende
+
+\ldots
+
+ \subparagraph{Aber was ist mit {\ldots}?}
+Das ABCDE-Schema bzw. der Einschätzungsblock
+\added{\T{\Range{1}{E}}} dient der Erkennung von vital bedrohten 
+Patienten und dem Erkennen von Hauptbeschwerden und
+ Leitsymptomen, \E{es deckt nicht sämtliche
+ mögliche Untersuchungen ab!} Weiterführende Untersuchungen
+ und Anamneseschritte bzw. Maßnahmen werden \E{nach} dem
+ Einschätzungsblock nach Bedarf durchgeführt.
+
+
 \section{[TEA]}
 Aufzählungen in Randspalten hinzu gefügt.
 
@@ -665,7 +1578,7 @@ die Beurteilung von diesen Zuständen bei Verwendung medizinisch-diagnostischer 
  Ferner ist
 der Arzt befugt ärztlichen Zeugnis auszustellen ärztliche
 Gutachten zu erstatten.
- 
+
 Die selbstständige Ausübung des ärztlichen Berufes
 ist ausschließlich Ärzten für Allgemeinmedizin und
 approbierten Ärzten sowie Fachärzten vorbehalten
@@ -1159,10 +2072,7 @@ asthmaticus kann tödlich enden.
   \item[\ABCDE{=}] \added{Schwere Atemnot: Vital bedroht.
   Erschöpfte Atemarbeit: Akute Lebensgefahr}
  \end{ABCDESlide}
- }
- {}
- {}
- {}
+ }{}{}{}
  .
  
  \jALT
@@ -1232,10 +2142,969 @@ asthmaticus kann tödlich enden.
  \jALTende
  
 \subsection{COPD}
-\subsection{Lungenembolie}
-\subsection{Lungenöden}
-\subsection{Hyperventilationstetanie}
+\jALT
+\subsubsection{Chronische Bronchitis und 
+Chronische Obstruktive Lungenerkrankung
+(COPD)}
 
+ \DefinitionInPara{Die \T{chronische Bronchitis} ist
+ eine chronische entzündliche Schleimhautschädigung  der unteren Atemwege.}
+ \DefinitionInPara{Die \T{COPD}
+ (\T[Lungenerkraknkung!chronisch-obstruktive]{Chronische Obstruktive
+ Lungenerkrankung}\ZFootnote{\Lang{engl.} Chronic
+ obstructive pulmonary disease\index{Chronic
+ obstructive pulmonary disease|Z})} ist eine chronische entzündliche
+ Schleimhautschädigung, welche eine zunehmende obstruktive 
+ Atemwegseinschränkung aufweist.}
+ Am Anfang steht die chronische Bronchitis, welche durch
+ Husten mit schleimigem Auswurf gekennzeichnet ist
+({\I{Raucherhusten}}). Es kommt dabei zu einer gesteigerten
+ Entzündungsantwort auf eingeatmete Stoffe (Zigarettenrauch,
+ Umweltschadstoffe, \ldots). Wenn man in der
+Lungenfunktionsuntersuchung eine Atemwegseinschränkung
+ nachweisen kann, spricht man von der chronisch-obstruktiven
+ Lungenerkrankung (\Abk{COPD}). 
+ Diese geht mit bleibenden Veränderungen der unteren Atemwege einher, 
+ diese sind in der Grafik  \prettyref{fig:copd-veraenderungen} dargestellt.
+ 
+% \begin{figure}[H]
+% 
+% \includegraphics[width=\linewidth]{./images/hirtler-aass/Alveolen-Bronchus-COPD-edited2.png}
+% \Captionof{figure}{\label{fig:copd-veraenderungen}Veränderung der
+% Atemwege bei der COPD. \TabSub{Links:} Schema eines gesunden
+% Bronchus und einer gesunden Alveole. \TabSub{Oben rechts:} Bei der COPD sind
+% die kleinen Luftwege verschleimt und verengt. \TabSub{Unten rechts:} Die
+% Lungenbläschen (Alveolen) sind überbläht, weil die Luft nur erschwert wieder entweichen kann.
+% \SourcePicture{Hirtler.}}
+% \end{figure}
+
+
+
+\Layout{0}{\TxSymptome}{%
+Die \Abk{COPD} ist durch eine voranschreitende
+Verschlechterung der Atemleistung gekennzeichnet, erstes
+Anzeichen ist ein Husten mit Auswurf, der klassische
+\protect\enquote{Raucherhusten}.
+Je nach Schweregrad kommt es zu Zeichen der
+Atemwegsverlegung (Obstruktion) und Ateminsuffizienz: Die
+\E{Ausatmung} (Exspiration) ist erschwert, der Patient klagt
+über \E{Belastungsdyspnoe}, ein Engegefühl, \E{Husten} und
+hat Tachypnoe und evtl. Zyanose. Man kann oft ein
+\E{brummendes, pfeifendes oder giemendes Atemgeräusch}
+hören.
+
+ \Z{Durch die erschwerte Ausatmung kommt es zu einer
+ chronischen Überblähung der Lungenbläschen und zu einer \protect\enquote{Faß-förmigen}
+ Verformung des Brustkorbes. Im Endstadium zeigen sich
+ Zeichen einer Rechtsherzinsuffizienz
+ (\prettyref{topic:rechtsherzinsuffizienz}) aufgrund einer
+ Störung im Lungenkreislauf.}
+ 
+Die \EE{Sauerstoffsättigung} bei einem COPD-Patienten ist
+auch ohne akute Symptome meist \E{deutlich vermindert}
+($\sim$\,{90}\PC*). Der sonst übliche Normalwert
+gilt hier nicht! Bei fortgeschrittener Ateminsuffizienz
+bekommt der Patient oft eine \E{Heimsauerstofftherapie} verordnet.
+ }{
+ \begin{itemize}
+   \item Husten mit Auswurf, anfänglich
+   \protect\enquote*{Raucherhusten}
+   \item Voranschreitende, sich verschlechternde \E{Ateminsuffizienz}:
+   \begin{compactitem}
+     \item Belastungsdyspnoe (bei schwererer \Abk{COPD}
+     auch in Ruhe)
+     \item Ausatmung (Exspiration) erschwert
+     \item Brummendes, pfeifendes od. giemendes Ausatemgeräusch
+     \item Evtl. chronische Zyanose
+     \item Evtl. Heimsauerstoff
+     \item Sp\ce{O2} chronisch niedrig
+   \end{compactitem}
+\end{itemize}
+}{}{}{}
+
+
+
+\Layout{0}{Exazerbationen}{%
+Der \Abk{COPD}-Patient erleidet öfters plötzliche
+Verschlechterungen, sog. \E{Exazerbationen}. Diese sind
+meist durch Infekte ausgelöst und durch vermehrte Atemnot,
+Husten und Auswurf gekennzeichnet.
+}{
+ \begin{itemize}
+   \item Plötzliche Verschlechterungen
+   \item Meist Infekt-bedingt
+   \item Vermehrte Atemnot,
+   Husten und Auswurf
+ \end{itemize}
+ }{}{}{} 
+ 
+%  \begin{figure}[h]
+%  \begin{center}
+%  % \includegraphics{./images/copd-stufen.png}
+%  \includegraphics[width=\linewidth]{./images/hirtler-aass/COPD-Stufen_edited.pdf}
+%  
+%  \Captionof{figure}{Eine COPD
+%  entsteht nicht plötzlich: Ein COPD{\textquotesingle}ler hat eine
+%  \protect\enquote{Karriere} hinter sich. \SourcePicture{Hirtler}}
+%  \end{center}
+%  \end{figure}
+ 
+ 
+\Layout{0}{Probleme mit Sauerstoff bei
+COPD-Patienten}
+{
+Normalerweise wird der Atemantrieb über die
+\ce{CO2}-Konzentration im Blut gesteuert. Die
+\ce{CO2}-Konzentration ist bei \Abk{COPD}-Patienten jedoch chronisch
+hoch, der Körper gewöhnt sich an diesen Zustand. Er
+regelt dann den Atemantrieb direkt über den \ce{O2}-Gehalt im Blut.
+Wird der \ce{O2}-Gehalt plötzlich künstlich erhöht, fehlt
+der \index{COPD!Atemantrieb}Atemantrieb und der Patient kann
+\EE{Bewusstseinsstörungen} (\protect\enquote{\ce{CO2}-Narkose}) und einen
+\EE{Atemstillstand} erleiden.
+
+}{
+\Ca{Achtung!}
+
+\SymbolText
+}{}{}{}
+.
+\jALTende
+
+\jNEU
+\subsubsection{Chronische
+Bronchitis und COPD}
+
+\Layout{0}{\TxBeschreibung: COPD}{%
+ \DefinitionInPara{Die \T{chronische Bronchitis} ist
+ eine chronische entzündliche Schleimhautschädigung  der unteren Atemwege.}
+ \DefinitionInPara{Die \T{COPD}
+ (\T[Lungenerkraknkung!chronisch-obstruktive]{Chronische Obstruktive
+ Lungenerkrankung}\ZFootnote{\Lang{engl.} Chronic
+ obstructive pulmonary disease\index{Chronic
+ obstructive pulmonary disease|Z})} ist eine chronische entzündliche
+ Schleimhautschädigung, welche eine zunehmende obstruktive 
+ Atemwegseinschränkung aufweist.}
+Die \Abk{COPD} ist durch eine voranschreitende
+Verschlechterung der Atemleistung gekennzeichnet.
+ Am Anfang steht die chronische Bronchitis, welche durch
+ Husten mit schleimigem Auswurf gekennzeichnet ist
+(\enquote*{\I{Raucherhusten}}). Es kommt dabei zu einer gesteigerten
+ Entzündungsantwort auf eingeatmete Stoffe (Zigarettenrauch,
+ Umweltschadstoffe, \ldots). Wenn man in der
+Lungenfunktionsuntersuchung eine Atmungsseinschränkung
+ nachweisen kann, spricht man von der chronisch-obstruktiven
+ Lungenerkrankung (\Abk{COPD}). 
+ Diese geht mit bleibenden Veränderungen der unteren Atemwege einher, 
+ diese sind in der Grafik  \prettyref{fig:copd-veraenderungen} dargestellt.
+ 
+ \Z{Durch die erschwerte Ausatmung kommt es zu einer
+ chronischen Überblähung der Lungenbläschen und zu einer \protect\enquote{Faß-förmigen}
+ Verformung des Brustkorbes. Im Endstadium zeigen sich
+ Zeichen einer Rechtsherzinsuffizienz
+ (\prettyref{topic:rechtsherzinsuffizienz}) aufgrund einer
+ Störung im Lungenkreislauf.}
+ 
+\subparagraph{Exazerbationen}
+Kommt zu der ohnehin schweren Grunderkrankung noch ein
+erschwerender Faktor hinzu, z.\,B. eine Infektion der
+Atemwege, kann es zu einer plötzlichen Verschlechterung
+kommen, zur \E{Exazerbation}. Diese ist meist durch
+vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
+ }{
+ \begin{itemize}
+   \item Husten mit Auswurf, anfänglich
+   \protect\enquote*{Raucherhusten}
+   \item Voranschreitende, sich verschlechternde \E{Ateminsuffizienz}:
+   \begin{compactitem}
+     \item Belastungsdyspnoe (bei schwererer \Abk{COPD}
+     auch in Ruhe)
+     \item Ausatmung (Exspiration) erschwert
+     \item Brummendes, pfeifendes od. giemendes Ausatemgeräusch
+     \item Evtl. chronische Zyanose
+     \item Evtl. Heimsauerstoff
+     \item Sp\ce{O2} chronisch niedrig
+   \end{compactitem}
+  \item Exazerbation:
+ \begin{itemize}
+   \item Plötzliche Verschlechterungen
+   \item Meist Infekt-bedingt
+   \item Vermehrte Atemnot,
+   Husten und Auswurf
+ \end{itemize}
+\end{itemize}
+ }{}{}{}
+ 
+\Layout{0}{Probleme mit Sauerstoff bei
+COPD-Patienten}
+{
+Normalerweise wird der Atemantrieb über die
+\ce{CO2}-Konzentration im Blut gesteuert. Die
+\ce{CO2}-Konzentration ist bei \Abk{COPD}-Patienten jedoch chronisch
+hoch, der Körper gewöhnt sich an diesen Zustand. Er
+regelt dann den Atemantrieb direkt über den \ce{O2}-Gehalt im Blut.
+Wird der \ce{O2}-Gehalt plötzlich künstlich erhöht, fehlt
+der \index{COPD!Atemantrieb}Atemantrieb und der Patient kann
+\EE{Bewusstseinsstörungen} (\I{\ce{CO2}-Narkose}) und
+im Extremfall einen \EE{Atemstillstand} erleiden.
+
+}{
+\Ca{Achtung!\\
+Bewusstseinsstörungen bei übermäßiger
+Sauerstoffgabe möglich!}
+
+\SymbolText
+}{}{}{}
+ 
+ 
+ 
+% \begin{figure}[H]
+%  
+% \includegraphics[width=\linewidth]{./images/hirtler-aass/Alveolen-Bronchus-COPD-edited2.png}
+% \Captionof{figure}{\label{fig:copd-veraenderungen}Veränderung der
+% Atemwege bei der COPD. \TabSub{Links:} Schema eines gesunden
+% Bronchus und einer gesunden Alveole. \TabSub{Oben rechts:} Bei der COPD sind
+% die kleinen Luftwege verschleimt und verengt. \TabSub{Unten rechts:} Die
+% Lungenbläschen (Alveolen) sind überbläht, weil die Luft nur erschwert wieder entweichen kann.
+% \SourcePicture{Hirtler.}}
+% \end{figure}
+
+\Layout{0}
+{\TxABCDE: COPD}
+{~
+\begin{ABCDEText}
+  \item[\ABCDE{1}] Evtl. kalte Umgebung (kalte Luft führt
+  zur Verengung der Bronchien)
+  \item[\ABCDE{2}] Einsatz der Atemhilfsmuskulatur, Mühe
+  beim Atmen, evtl. Heimsauerstoff, oft wirkt der Patient
+  ängstlich.
+  \item[\ABCDE{3}] Bei schweren Anfällen kann es aufgrund
+  der Hypoxie zu {\RedFlag}\,\EE{Bewusstseinsstörungen}
+  kommen.
+  \item[\ABCDE{4}] Atemnot
+  \item[\ABCDE{A}] Siehe \ABCDE{B}
+  \item[\ABCDE{B}] Je nach Schweregrad kommt es zu Zeichen
+  einer Atemwegsverlegung der \E{unteren}
+  Atemwege  (Obstruktion, durch Verengung der Bronchien und
+  Schleimproduktion) und Ateminsuffizienz:
+  Die \E{Ausatmung} (Exspiration) ist erschwert, der Patient klagt
+  über \E{Belastungsdyspnoe}, ein Engegefühl, \E{Husten} und
+  hat Tachypnoe und evtl. {\RedFlag}\,\EE{Zyanose}. Man kann
+  oft ein
+  \E{brummendes, pfeifendes oder giemendes Atemgeräusch}
+  hören.
+  
+  Die \EE{Sauerstoffsättigung} bei einem COPD-Patienten ist
+  auch ohne akute Symptome meist \E{deutlich vermindert}
+  ($\sim$\,{90}\PC*). Der sonst übliche Normalwert
+  gilt hier nicht! Bei fortgeschrittener Ateminsuffizienz
+  bekommt der Patient oft eine \E{Heimsauerstofftherapie}
+  verordnet. Bei übermäßiger Sauerstoffgabe kann es zu
+  {\RedFlag}\,\EE{Bewusstseinsstörungen kommen}
+  (\I{\ce{CO2}-Narkose})!
+  \item[\ABCDE{C}] Evtl. Tachykardie und hyperton
+%   \item[\ABCDE{D}]
+%   \item[\ABCDE{E}]
+  \item[\ABCDE{=}] Bei {\RedFlag}\,schwerer Atemnot
+  oder {\RedFlag}\,Bewusstseinsstörungen vitale Bedrohung.
+  \item[\ABCDE{\ldots}] Als Nebenbefund können Infektzeichen
+  vorliegen (erhöhte Körpertemperatur).
+\end{ABCDEText}
+}
+{
+\begin{ABCDESlide}
+  \item[\ABCDE{1}] Kalte Umgebung
+  \item[\ABCDE{2}] Atemhilfsmuskulatur, Anstrengung beim
+  Atmen, ängstlich
+  \item[\ABCDE{3}] Evtl. {\RedFlag}\,Bewusstseinsstörungen
+  \item[\ABCDE{4}] Atemnot
+  \item[\ABCDE{A}] Siehe \ABCDE{B}
+  \item[\ABCDE{B}] Atemnot! Ausatmung erschwert, Husten
+  Tachypnoe, {\RedFlag}\,Zyanose;
+  
+  Brummendes, pfeifendes Atemgeräusch
+  
+  Sp\ce{O2} chronisch niedrig ($\sim$\,{90}\PC*): Normalwert
+  gilt nicht!
+  \item[\ABCDE{C}] HF $\uparrow$, RR $\uparrow$
+%   \item[\ABCDE{D}] 
+%   \item[\ABCDE{E}] 
+  \item[\ABCDE{=}] Vitale Bedrohung bei schwerer Atemnot und 
+  Bewusstseinsstörungen
+  \item[\ABCDE{\ldots}] Evtl. erhöhte Körpertemperatur
+\end{ABCDESlide}
+}
+{}
+{}
+{}
+
+\Layout{0}
+{{\TxSAMPLER}: COPD}
+{
+\begin{SAMPLERText}
+%   \item[\SAMPLER{S}] 
+%   \item[\SAMPLER{A}]
+  \item[\SAMPLER{M}] Inhalatoren bzw. Sprays zur Dauer- und
+  Akuttherapie, Heimsauerstoff. \Z{Häufig Kortisonpräparate;
+  bei vorbekanntem Infekt wurden oft schon Antibiotika
+  verschrieben.}
+  \item[\SAMPLER{P}] Eine COPD ist normalerweise vorbekannt.
+  \item[\SAMPLER{L}] Letzte Spray-Einnahme?
+%   \item[\SAMPLER{E}] 
+%   \item[\SAMPLER{R}]
+\end{SAMPLERText}
+}
+{
+\begin{SAMPLERSlide}
+%   \item[\SAMPLER{S}]
+%   \item[\SAMPLER{A}]
+  \item[\SAMPLER{M}] Inhalatoren, evtl. Heimsuaerstoff.
+  \item[\SAMPLER{P}] COPD vorbekannt
+  \item[\SAMPLER{L}] Letzte Spray-Einnahme?
+%   \item[\SAMPLER{E}] 
+%   \item[\SAMPLER{R}]
+\end{SAMPLERSlide}
+}
+{}
+{}
+{}
+ .
+ 
+\jNEUende
+
+\subsection{Lungenembolie}
+\jALT
+ 
+ \Layout{0}
+{\TxABCDE}
+ {~
+ \begin{ABCDEText}
+  \item[\ABCDE{Szeneüberblick}]
+  \item[\ABCDE{Eindruck}] 
+  \item[\ABCDE{Bewusstsein}]
+  \item[\ABCDE{Hauptbeschwerde}] Das Leitsymptom ist die \EE{Atemnot}, eventuell in Kombination mit (atemabhängigen) Thorax- oder Rückenschmerzen. 
+  \item[\ABCDE{A}] 
+   \item[\ABCDE{B}] Meist atmet der Patient schnell (Tachypnoe) und klagt über
+einen \EE{atemabhängigen Thoraxschmerz}.
+  \item[\ABCDE{C}]  Daneben kommt es zu
+einer \E{Tachykardie} und Angstgefühlen., oft findet man deutlich hervortretende, \EE{gestaute Venen}
+am Hals aufgrund des Blutrückstaus. Evtl. kann man auch einen
+\E{arrhythmischen Puls} aufgrund eines Vorhofflimmerns, ertasten.
+  \item[\ABCDE{D}] 
+  \item[\ABCDE{E}] 
+  \item[\ABCDE{\ldots}] Je nach Ursache der Embolie und Herkunft des Embolus kann
+man Zeichen anderer Krankheitsbilder wahrnehmen: Bei einer
+\EE{tiefen Beinvenenthrombose} ist ein Bein geschwollen,
+überwärmt, rot/rot-bläulich verfärbt und schmerzhaft
+(\prettyref{topic:thrombose}). 
+
+Eine Lungenembolie kann man leicht mit einem Herzinfarkt
+oder Angina pectoris verwechseln. Dies hat aber bei der
+Erstversorgung kaum Konsequenz, die Erstversorgen ist gleich.
+  \item[\ABCDE{=}] 
+ \end{ABCDEText}
+ }
+ {
+ \begin{ABCDESlide}
+  \item[\ABCDE{Sz}] 
+  \item[\ABCDE{Ei}] 
+  \item[\ABCDE{Be}] 
+  \item[\ABCDE{Hb}] Dyspnoe, (atemabhängige) Thorax- od. Rückenschmerzen, Angstgefühl
+  \item[\ABCDE{A}] 
+  \item[\ABCDE{B}] Atemnot, Tachypnoe
+  \item[\ABCDE{C}] Tachkardie, evtl. gestaute Halsvenen (Blutrückstau) , evtl. arrhythmischer Puls bei Vorhofflimmern
+  \item[\ABCDE{D}] 
+  \item[\ABCDE{E}] 
+  Evtl. Bein: einseitig geschwollen,
+  überwärmt, rot/rot-bläulich verfärbt, schmerzhaft (Beinvenenthombose)
+  \item Evtl. arrhythmischer Puls (Vorhofflimmern)
+  \item[\ABCDE{=}] 
+ \end{ABCDESlide}
+ }
+ {}
+ {}
+ {}
+ 
+ \Layout{0}
+{{\TxSAMPLER}}
+ {
+ \begin{SAMPLERText}
+  \item[\SAMPLER{S}] 
+  \item[\SAMPLER{A}]
+  \item[\SAMPLER{M}] 
+   \item[\SAMPLER{P}]
+Oft ist bei den Patienten auch \EE{Vorhofflimmern} als
+chronische Erkrankung bekannt.zu leiden.
+   \item[\SAMPLER{L}]
+  \item[\SAMPLER{E}] 
+   \item[\SAMPLER{R}] \EE{Immobilisation}, z.\,B. durch Bettlägrigkeit,
+Liegegipsverbände oder lange Reisen, innerhalb der letzten 4
+Wochen, erhöht das Risiko einer Thrombose und damit auch das
+einer Lungenembolie. \Z{Weiters tritt die Lungenembolie gehäuft in der Schwangerschaft
+auf. Rauchen sowie die Einnahme der \protect\enquote{Pille} erhöhen
+ebenso das Risiko.}
+ \end{SAMPLERText}
+ }
+ {
+ \begin{SAMPLERSlide}
+  \item[\SAMPLER{S}]
+  \item[\SAMPLER{A}]
+  \item[\SAMPLER{M}] 
+  \item[\SAMPLER{P}] 
+  \item[\SAMPLER{L}]
+  \item[\SAMPLER{E}] 
+  \item[\SAMPLER{R}]Immobilisation, Vorhofflimmern, \Z{Schwangerschaft}, \Z{Rauchen}, \Z{Verhütungspille}
+ \end{SAMPLERSlide}
+ }
+ {}
+ {}
+ {}
+. 
+
+\jALTende
+
+\jNEU
+ 
+ \Layout{0}
+{\TxABCDE: Lungenembolie}
+ {~
+ \begin{ABCDEText}
+  \item[\ABCDE{1}] Hinweise auf Bettlägrigkeit
+  (Pflegebett, \ldots) ? Hinweise auf eine Fernreise?
+  \item[\ABCDE{2}] Hinweise auf Bettlägrigkeit (Alter,
+  Gipsverband, \ldots)
+%   \item[\ABCDE{3}]
+  \item[\ABCDE{4}] Das Leitsymptom ist die
+  {\RedFlag}\,\EE{Atemnot}, eventuell in Kombination mit
+  (atemabhängigen) {\RedFlag}\,Thorax- oder Rückenschmerzen. 
+  
+  Eine Unterscheidung zwischen einer Lungenembolie und
+  einem Akuten Koronarsyndrom ist oft nicht möglich. 
+%   \item[\ABCDE{A}]
+   \item[\ABCDE{B}] Meist atmet der Patient schnell (Tachypnoe) und klagt über
+  einen \EE{atemabhängigen {\RedFlag}\,Thoraxschmerz}.
+  \item[\ABCDE{C}]  Es kommt zu
+  einer \E{Tachykardie} und Angstgefühlen, oft findet man
+  deutlich hervortretende, \EE{gestaute Venen}
+  am Hals aufgrund des Blutrückstaus. Evtl. kann man auch einen
+  \E{arrhythmischen Puls} aufgrund eines Vorhofflimmerns, ertasten.
+  Der Blutdruck kann normal oder vermindert sein. Bei einer
+  schweren Lungenembolie kann es zu einem
+  {\RedFlag}\,\EE{kardiogenen Schock} kommen, es ist daher
+  wichtig auf {\RedFlag}\,Schockzeichen zu achten!
+%   \item[\ABCDE{D}]
+%   \item[\ABCDE{E}]
+  \item[\ABCDE{=}] Bei {\RedFlag}\,bestehender Atemnot oder
+  {\RedFlag}\,Thoraxschmerzen besteht eine vitale Bedrohung.
+  \item[\ABCDE{\ldots}] Je nach Ursache der Embolie und
+  Herkunft des Embolus kann
+  man Zeichen anderer Krankheitsbilder wahrnehmen: Bei einer
+  \EE{tiefen Beinvenenthrombose} ist ein Bein geschwollen,
+  überwärmt, rot/rot-bläulich verfärbt und schmerzhaft
+  (\prettyref{topic:thrombose}).
+  
+ \end{ABCDEText}
+ }
+ {
+ \begin{ABCDESlide}
+  \item[\ABCDE{1}] Bettlägrigkeit?
+  \item[\ABCDE{2}] Bettlägrigkeit?
+%   \item[\ABCDE{3}] 
+  \item[\ABCDE{4}] Dyspnoe, (atemabhängige)
+  {\RedFlag}\,Thorax- od. Rückenschmerzen, Angstgefühl
+  
+  Unterscheidung zu ACS oft nicht möglich
+%   \item[\ABCDE{A}] 
+  \item[\ABCDE{B}] {\RedFlag}\,Atemnot, Tachypnoe
+  \item[\ABCDE{C}] HF $\uparrow$, evtl. arrhythmischer Puls
+  (Vorhofflimmern), RR \SymbolFindingNormal od.
+  {\RedFlag}\,$\downarrow$
+ 
+  Gestaute Halsvenen (Blutrückstau), evtl. arrhythmischer Puls bei Vorhofflimmern
+  
+  {\RedFlag}\,Schockzeichen?
+% 
+%   \item[\ABCDE{D}] 
+%   \item[\ABCDE{E}] 
+  \item[\ABCDE{=}] Bei bestehender Atemnot oder
+  Thoraxschmerzen vitale Bedrohung.
+  \item[\ABCDE{\ldots}] Venöser Verschluss?
+ \end{ABCDESlide}
+ }
+ {}
+ {}
+ {}
+ 
+ \Layout{0}
+{{\TxSAMPLER}: Lungenembolie}
+ {
+ \begin{SAMPLERText}
+  \item[\SAMPLER{M}] Bettlägrigen Patienten werden zur
+  Thromboseprophylace oft gerinnungshemmende Medikamente
+  verschreiben (\I{Thrombosespritzen}). Wurden diese
+  genommen?
+  \item[\SAMPLER{P}]
+  Oft ist bei den Patienten \EE{Vorhofflimmern} als
+  chronische Erkrankung bekannt. Patienten, welche bereits
+  schon einmal eine Thrombose oder eine Embolie hatten
+  haben ein erhöhtes Risiko neuerlich daran zu erkranken. Im
+  Rahmen von Krebserkrankungen kann es gehäuft zu Thrombosen
+  und Embolien kommen.
+   \item[\SAMPLER{L}]
+  \item[\SAMPLER{E}] Fernreise? Langes Sitzen/Liegen? Wenig
+  getrunken?
+   \item[\SAMPLER{R}] \EE{Immobilisation}, z.\,B. durch Bettlägrigkeit,
+  Gipsverbände oder lange Reisen, innerhalb der letzten 4
+  Wochen, erhöht das Risiko einer Thrombose und damit auch das
+  einer Lungenembolie. \Z{Weiters tritt die Lungenembolie gehäuft in der Schwangerschaft
+  auf. Rauchen sowie die Einnahme der \protect\enquote{Pille} erhöhen
+  ebenso das Risiko.}
+ \end{SAMPLERText}
+ }
+ {
+ \begin{SAMPLERSlide}
+  \item[\SAMPLER{M}] Thrombosespritzen
+  \item[\SAMPLER{P}] Vorhofflimmern, Thrombose, Embolie,
+  Krebserkrankungen
+%   \item[\SAMPLER{L}]
+  \item[\SAMPLER{E}] Fernreise? Langes Sitzen/Liegen? Wenig
+  getrunken?
+  \item[\SAMPLER{R}] Immobilisation, Vorhofflimmern,
+  \Z{Schwangerschaft}, \Z{Rauchen}, \Z{Verhütungspille}
+ \end{SAMPLERSlide}
+ }
+ {}
+ {}
+ {}
+ .
+\jNEUende
+
+
+\subsection{Lungenöden}
+\jALT
+
+\Layout{0}{\TxSymptome}
+{%
+\index{Brodelnde Atemgeräusche}%
+Das Leitsymptom ist das \EE{brodelnde Atemgeräusch}, welches
+in schweren Fällen bereits ohne Hilfsmittel hörbar und
+typisch für das Lungenödem ist. Es klingt, als würde jemand
+mit einem Strohhalm in ein Glas Wasser hineinblasen. Im
+Extremfall kann man es bereits \E{auf mehrere Meter
+Entfernung} wahrnehmen.
+Weitere häufige Symptome sind \EE{Atemnot} und \EE{Zyanose}.
+Der Patient bekommt oft nur \E{aufrecht sitzend} genügend
+Luft (Orthopnoe).
+}{
+\begin{compactitem}
+  \item Brodelndes Atemgeräusch
+  \item Atemnot
+  \item Zyanose
+  \item Patient bekommt nur im Sitzen Luft
+\end{compactitem}
+}{}{}{}
+
+ \Layout{0}
+{\TxABCDE}
+ {~
+ \begin{ABCDEText}
+  \item[\ABCDE{Szeneüberblick}]
+  \item[\ABCDE{Eindruck}]
+  \item[\ABCDE{Bewusstsein}]
+  \item[\ABCDE{Hauptbeschwerde}]
+  \item[\ABCDE{A}]
+  \item[\ABCDE{B}]
+  \item[\ABCDE{C}]
+  \item[\ABCDE{D}]
+  \item[\ABCDE{E}]
+  \item[\ABCDE{=}] Patienten mit einem deutlich hörbaren Lungenödem (v.\,a. bei
+  kardialer Ursache) sind schwer und \EE{lebensbedrohlich
+   krank}. Das Herz verbraucht oft schon die allerletzten Reserven. In
+   schweren Fällen kann schon die Aufregung durch den Transport
+   im Stiegenhaus zum Auto zu einem Herz-Kreislaufstillstand
+   führen.
+   
+   Es kommt tatsächlich relativ häufig vor, dass diese
+   Patienten \EE{im Stiegenhaus} oder \EE{im Fahrzeug}
+   \EE{reanimationspflichtig} werden. \Ca{Solche Patienten müssen
+   daher \EE{an Ort und Stelle} eine entsprechende (ärztliche)
+   Therapie erhalten bevor sie transportiert werden können.}
+   
+   Bei leichten Formen des Lungenödems sind die
+   Atemgeräusche nicht mit freiem Ohr, sondern
+   nur mittels Stethoskop zu hören.  Die Patienten zeigen auch
+   sonst keine Alarmsymptome, sondern nur Ödeme und eine mäßige
+   Kurzatmigkeit. Diese Patienten sind i.\,d.\,R. nicht
+   unmittelbar vital bedroht, ein bestmögliches Monitoring ist jedoch wichtig.
+ \end{ABCDEText}
+ }
+ {
+ \begin{ABCDESlide}
+  \item[\ABCDE{Sz}]
+  \item[\ABCDE{Ei}]
+  \item[\ABCDE{Be}]
+  \item[\ABCDE{Hb}]
+  \item[\ABCDE{A}]
+  \item[\ABCDE{B}]
+  \item[\ABCDE{C}]
+  \item[\ABCDE{D}]
+  \item[\ABCDE{E}]
+   \item[\ABCDE{=}]
+   \begin{itemize}
+    \item Hörbares Lungenödem: \Ca{Lebensgefahr!}
+     \item Leichte Form: Keine Alarmsymptome
+   \end{itemize}
+ \end{ABCDESlide}
+ }
+ {}
+ {}
+ {}
+ 
+ \Layout{0}
+{{\TxSAMPLER}}
+ {
+ \begin{SAMPLERText}
+  \item[\SAMPLER{S}] 
+  \item[\SAMPLER{A}]
+  \item[\SAMPLER{M}] 
+  \item[\SAMPLER{P}]
+  \item[\SAMPLER{L}]
+  \item[\SAMPLER{E}] 
+  \item[\SAMPLER{R}]
+ \end{SAMPLERText}
+ }
+ {
+ \begin{SAMPLERSlide}
+  \item[\SAMPLER{S}]
+  \item[\SAMPLER{A}]
+  \item[\SAMPLER{M}] 
+  \item[\SAMPLER{P}] 
+  \item[\SAMPLER{L}]
+  \item[\SAMPLER{E}] 
+  \item[\SAMPLER{R}]
+ \end{SAMPLERSlide}
+ }
+ {}
+ {}
+ {}
+ 
+\Layout{0}{Einschätzung}{%
+
+
+}{
+}{}{}{}
+.
+\jALTende
+
+\jNEU
+
+ \Layout{0}
+{\TxABCDE: Lungenödem}
+ {~
+ \begin{ABCDEText}
+  \item[\ABCDE{1}] Toxisches Lungenödem: Besconders auf
+  Umgebungssicherheit achten: Offene Lacke,
+  Lösungsmittel, Dämpfe, Chemikalien, Warnschilder, \ldots.
+  Im Zweifel Anforderung der Feuerwehr! 
+  \item[\ABCDE{2}] Der Patient sitzt, oft sind die Pölster
+  im Bett aufgetürmt.
+%   \item[\ABCDE{3}] 
+  \item[\ABCDE{4}] Atemnot
+  \item[\ABCDE{A}] Es kann zu schaumigen Auswurf kommen.
+  \item[\ABCDE{B}] \index{Brodelnde Atemgeräusche}%
+  Das Leitsymptom ist das
+  {\RedFlag}\,\EE{brodelnde Atemgeräusch}, welches in
+  schweren Fällen bereits ohne Hilfsmittel hörbar und
+  typisch für das Lungenödem ist. Es klingt, als würde jemand
+  mit einem Strohhalm in ein Glas Wasser hineinblasen. Im
+  Extremfall kann man es bereits \E{auf mehrere Meter
+  Entfernung} wahrnehmen.
+  Weitere häufige Symptome sind {\RedFlag}\,\EE{Atemnot} und
+  {\RedFlag}\,\EE{Zyanose}.
+  Der Patient bekommt oft nur \E{aufrecht sitzend} genügend
+  Luft \Z{(Orthopnoe)}, im Liegen verschlechtert sich die
+  Atemnot deutlich.
+  \item[\ABCDE{C}] Die Herzfrequenz und der Blutdruck können
+  in jede Richtung verändert sein (Herzrhythmusstörungen
+  oder ein hypertensiver Notfall können ein kardiales
+  Lungenödem auslösen!). Im Verlauf kann es zu einem
+  {\RedFlag}\,\EE{kardiogenen Schock} kommen.
+%   \item[\ABCDE{D}]
+%   \item[\ABCDE{E}] 
+  \item[\ABCDE{=}] Patienten mit einem {\RedFlag}\,deutlich
+  hörbaren Lungenödem (v.\,a. bei kardialer Ursache) sind schwer und \EE{lebensbedrohlich
+   krank}. Das Herz verbraucht oft schon die allerletzten Reserven. In
+   schweren Fällen kann schon die Aufregung durch den Transport
+   im Stiegenhaus zum Auto zu einem Herz-Kreislaufstillstand
+   führen.
+   
+   Es kommt tatsächlich relativ häufig vor, dass diese
+   Patienten \EE{im Stiegenhaus} oder \EE{im Fahrzeug}
+   \EE{reanimationspflichtig} werden. \Ca{Solche Patienten müssen
+   daher \EE{an Ort und Stelle} eine entsprechende (ärztliche)
+   Therapie erhalten bevor sie transportiert werden können.}
+   
+   Bei leichten Formen des Lungenödems sind die
+   Atemgeräusche nicht mit freiem Ohr, sondern
+   nur mittels Stethoskop zu hören.  Die Patienten zeigen auch
+   sonst keine Alarmsymptome, sondern nur Ödeme und eine mäßige
+   Kurzatmigkeit. Diese Patienten sind i.\,d.\,R. nicht
+   unmittelbar vital bedroht, ein bestmögliches Monitoring ist jedoch wichtig.
+  \item[\ABCDE{\ldots}] Beidseitige Beinödeme sind typisch.
+ \end{ABCDEText}
+ }
+ {
+ \begin{ABCDESlide}
+  \item[\ABCDE{1}] Umgebung sicher? Chemikalien?
+  Warnschilder?
+  \item[\ABCDE{2}] Sitzend, aufgetürmte Pölster
+%   \item[\ABCDE{3}]
+  \item[\ABCDE{4}] Atemnot
+  \item[\ABCDE{A}] Evtl. schaumiger Auswurf
+  \item[\ABCDE{B}] {\RedFlag}\,Brodelndes Atemgeräusch
+
+  Atemnot (besonders im Liegen), evtl. {\RedFlag}\,Zyanose
+  
+  Atemnot im Liegen schlechter
+  \item[\ABCDE{C}] HF $\uparrow\downarrow$, RR
+  $\uparrow\downarrow$
+  
+  Evtl. kardiogener Schock
+%   \item[\ABCDE{D}]
+%   \item[\ABCDE{E}]
+   \item[\ABCDE{=}]
+   \begin{itemize}
+    \item {\RedFlag}\,Hörbares Lungenödem:
+    \Ca{Lebensgefahr!}
+     \item Leichte Form: Keine Alarmsymptome
+   \end{itemize}
+  \item[\ABCDE{\ldots}] Beidseitige Beinödeme
+ \end{ABCDESlide}
+ }
+ {}
+ {}
+ {}
+ 
+ \Layout{0}
+{{\TxSAMPLER}: Lungenödem}
+ {
+ \begin{SAMPLERText}
+  \item[\SAMPLER{M}] Herzpatienten nehmen of zahlreiche
+  Medikamente ein (Blutdruck, Entwässerung, Blutfette,
+  \ldots).
+  \item[\SAMPLER{P}] Häufig berichten die Patienten über
+  Herz-Kreislauferkraknkungen wie z.\,B. Herzinsuffizienz,
+  Z.\,n. Herzinfarkt, Bluthochdruck oder
+  Herzklappenerkrankungen.
+%   \item[\SAMPLER{L}]
+  \item[\SAMPLER{E}] Expostion von chemischen Substanzen?
+  Ertrinkungsunfall?
+  
+  Erschwerender Faktor beim vorbestehender Herzerkrankung
+  (Infekt, \ldots)?
+%   \item[\SAMPLER{R}]
+ \end{SAMPLERText}
+ }
+ {
+ \begin{SAMPLERSlide}
+  \item[\SAMPLER{M}] Zahlreich
+  \item[\SAMPLER{P}] Herz-Kreislauferkraknkungen: Herzinsuffizienz,
+  Z.\,n. Herzinfarkt, Bluthochdruck,
+  Herzklappenerkrankungen, \ldots
+%   \item[\SAMPLER{L}]
+  \item[\SAMPLER{E}] Exposition? Ertrinkungsunfall?
+  Erschwerender Faktor beim vorbestehender Herzerkrankung
+  (Infekt, \ldots)?
+%   \item[\SAMPLER{R}]
+ \end{SAMPLERSlide}
+ }
+ {}
+ {}
+ {}
+ .
+
+\jNEUende
+
+
+\subsection{Hyperventilationstetanie}
+\jALT
+ 
+\Layout{0}{\TxSymptome}
+{%
+Die Patienten beklagen \EE{Atemnot}, obwohl die
+\ce{O2}-Zufuhr nicht beeinträchtigt und das Blut maximal
+gesättigt ist (Sp\ce{O2} von 100\PC*). Sie haben eine
+\EE{tiefe und schnelle Atmung} (\E{Tachypnoe}).
+Durch das Elektrolyt-Ungleichgewicht kommt es zuerst zu
+\EE{Schwindelgefühlen}, etwas später zu einem \EE{Kribbeln} in den
+Fingern. In weiterer Folge zeigen sich tonische \EE{Krämpfe} 
+(\T{Hyperventilationstetanie}).
+Klassisch ist die sog.
+\T{Pfötchenstellung}: Die Arme sind
+angezogen und Handhaltung erinnert an Pfoten eines Tieres.
+Wird die Hyperventilation nicht rechtzeitig beendet, kann es
+zur Eintrübung bis hin zur Bewusstlosigkeit kommen.
+}{
+\begin{itemize}
+  \item Subjektiv: \emph{\protect\enquote{Atemnot}}, Sp\ce{O2} von 100\PC* 
+  \item Tiefe, schnelle Atmung
+  \item Schwindel, Bewusstseinsstörungen
+  \item Kribbeln in den Fingern
+  \item Tonische Krämpfe (\protect\enquote{Pfötchenstellung})
+\end{itemize}
+}{}{}{}
+ 
+ 
+
+\Layout{0}{Differentialdiagnosen}
+{%
+Die psychisch bedingte Hyperventilation muß unbedingt von
+der Hyperventilation aufgrund anderer Ursachen abgegrenzt
+werden. Bei \EE{Ateminsuffizienz} oder \EE{durch
+Erkrankungen verursachte Atemnot} kommt es natürlich auch
+oft zu einer (kompensatorischen) Hyperventilation
+(Herzinfarkt, Lungenembolie, Pneumothorax, Asthma-Anfall,
+\ldots).
+
+Bei einer stoffwechselbedingten \EE{Übersäuerung} (Azidose)
+kommt es zu einer Hyperventilation um \ce{CO2} abzuatmen
+(dadurch wird Säure im Körper abgebaut). Die
+\E{Kussmaul'sche Atmung} beim \EE{diabetischen Koma} wäre
+ein typisches Beispiel dafür
+(\prettyref{topic:koma-diabetisches}).
+
+}{
+\begin{itemize}
+  \item Atemnot mit körperlicher Ursache
+  \item Ateminsuffizienz
+  \item Stoffwechselbedingte Azidose (z.\,B. Diabetisches Koma)
+\end{itemize}
+}{}{}{}
+.
+\jALTende
+
+\jNEU
+  
+% 1-E
+\Layout{0}
+{\TxABCDE: Hyperventilationssyndrom}
+{~
+\begin{ABCDEText}
+  \item[\ABCDE{1}] Oft kommt es bei vornehmlich
+  jugendlichen Besuchern von Pop-Konzerten u.\,ä. zu
+  Erregungszuständen, welche zum Hyperventilationssysdrom
+  führen können. Daneben kann jedoch jede Situation, welche
+  zu erhöhtem Stress oder Erregung führt, kann ein
+  entsprechender Auslöser sein (Lernstress, Beziehungsende,
+  \ldots). Das Schaffen bzw. Aufsuchen einer ruhigen
+  Umgebung ist wichtig!
+  \item[\ABCDE{2}] Häufig kann man Zeichen psychischer
+  Erregtheit wahrnehmen: Wildes gestikulieren, Weinkrämpfe
+  usw.
+  
+  Klassisch ist die sog. \T{Pfötchenstellung}:
+  Die Arme sind angezogen und Handhaltung erinnert an Pfoten eines Tieres.
+  \item[\ABCDE{3}] Wird die Hyperventilation nicht
+  rechtzeitig beendet, kann es zur Eintrübung bis hin zur Bewusstlosigkeit kommen.
+  \item[\ABCDE{4}] Das Leitsymptom ist die \EE{Atemnot}.
+  
+  Durch
+  das Elektrolyt-Ungleichgewicht kommt es zuerst zu
+  \EE{Schwindelgefühlen}, etwas später zu einem
+  \EE{Kribbeln} in den
+  Fingern. In weiterer Folge zeigen sich tonische \EE{Krämpfe}
+  (\T{Hyperventilationstetanie}).
+  %   \item[\ABCDE{A}]
+  \item[\ABCDE{B}]  Die Patienten beklagen \EE{Atemnot}, obwohl die
+  \ce{O2}-Zufuhr nicht beeinträchtigt und das Blut maximal
+  gesättigt ist (Sp\ce{O2} von 100\PC*). Sie haben eine
+  \EE{tiefe und schnelle Atmung} (\E{Tachypnoe}).
+  \item[\ABCDE{C}] Herzfrequenz und Blutdruck können in
+  Folge der Erregung etwas erhöht sein.
+  %   \item[\ABCDE{D}]
+  \item[\ABCDE{E}] \EE{Ausschlißen von gefährlichen
+  Differentialdiagnosen}: Die psychisch bedingte
+  Hyperventilation muß unbedingt von der Hyperventilation 
+  aufgrund anderer Ursachen abgegrenzt
+  werden. Bei \EE{Ateminsuffizienz} oder \EE{durch
+  Erkrankungen verursachte Atemnot} kommt es natürlich auch
+  oft zu einer (kompensatorischen) Hyperventilation
+  (Herzinfarkt, Lungenembolie, Pneumothorax, Asthma-Anfall,
+  \ldots).
+  
+  Bei einer stoffwechselbedingten \EE{Übersäuerung} (Azidose)
+  kommt es zu einer Hyperventilation um \ce{CO2} abzuatmen
+  (dadurch wird Säure im Körper abgebaut). Die
+  \E{Kussmaul'sche Atmung} beim \EE{diabetischen Koma} wäre
+  ein typisches Beispiel dafür
+  (\prettyref{topic:koma-diabetisches}).
+  \item[\ABCDE{=}] Normalerweise keine vitale Bedrohung
+  (Differentialdiagnosen bedenken!).
+  %   \item[\ABCDE{\ldots}]
+\end{ABCDEText}
+}
+{
+\begin{ABCDESlide}
+  \item[\ABCDE{1}] Konzerte, stressige bzw. erregende
+  Situationen
+  \item[\ABCDE{2}] Gestikulieren, Wienkrämpfe,
+  Pfötchenstellung
+  \item[\ABCDE{3}] Evtl. Bewusstseinsstörungen
+  \item[\ABCDE{4}] Atemnot. Evtl. Kribbeln, Schwindel,
+  Krämpfe
+  %   \item[\ABCDE{A}]
+  \item[\ABCDE{B}] Klagt über Atemnot, Tachypnoe, aber sonst
+  keine physischen Anzeichen (keine Zyanose, Sp\ce{O2}
+  \SymbolFindingNormal, \ldots)
+  \item[\ABCDE{C}] HF und RR evtl. $\uparrow$
+  %   \item[\ABCDE{D}]
+  \item[\ABCDE{E}] Ausschlissen:
+  \begin{itemize}
+    \item Atemnot mit körperlicher Ursache
+    \item Ateminsuffizienz
+    \item Stoffwechselbedingte Azidose (z.\,B. Diabetisches Koma)
+  \end{itemize}
+  \item[\ABCDE{=}] Normal keine vitale Bedrohung
+  (Differentialdiagnosen bedenken!).
+  %   \item[\ABCDE{\ldots}]
+\end{ABCDESlide}
+}
+{}
+{}
+{}
+ 
+\Layout{0}
+{{\TxSAMPLER}: Hyperventilationssyndrom}
+{
+\begin{SAMPLERText}
+%   \item[\SAMPLER{S}] 
+%   \item[\SAMPLER{A}] 
+%   \item[\SAMPLER{M}] 
+%   \item[\SAMPLER{P}] 
+%   \item[\SAMPLER{L}] 
+  \item[\SAMPLER{E}] Oft wird über stressige oder aufregende
+  Erlebnisse berichtet (Trennung, Todesfälle, Lernstress,
+  \ldots).
+%   \item[\SAMPLER{R}] 
+\end{SAMPLERText}
+}
+{
+\begin{SAMPLERSlide}
+%   \item[\SAMPLER{S}] 
+%   \item[\SAMPLER{A}] 
+%   \item[\SAMPLER{M}] 
+%   \item[\SAMPLER{P}] 
+%   \item[\SAMPLER{L}] 
+  \item[\SAMPLER{E}] Stressige oder aufregende
+  Erlebnisse
+%   \item[\SAMPLER{R}] 
+\end{SAMPLERSlide}
+}
+{}
+{}
+{}
+.
+\jNEUende
 
 \section{[SAN]}
  \Layout{2}{Material und Personal}{
@@ -1835,7 +3704,7 @@ sich bei Übersäuerung der Atemantrieb.
 .
 \jALTende
 
-\jALT
+\jALT 
 \Layout{0}{pH-Wert}{
  \index{pH-Wert}
  Der pH-Wert gibt an, wie \E{sauer} oder \E{basisch} eine
@@ -1962,6 +3831,7 @@ sich bei Übersäuerung der Atemantrieb. }
  in den Fingern. \newline
  Wer Probleme mit dem Stoffwechsel hat kann auch
      sauer oder basisch werden.}
+     .
 \jNEUende
 
 
@@ -1971,6 +3841,33 @@ SO LONG.......... AND THANKS FOR ALL THE FISH
 \chapter{Änderungen im Maßnahmenkatalog}
 
 Keine Änderungen.
+
+\chapter{Neue Literatur}
+\begin{itemize}
+  \item \fullcite{Thierbach2004}%~~~\bibentry{Thierbach2004}
+\item \fullcite{Barnes2001}%~~~\bibentry{Barnes2001}
+\item \fullcite{Mann2013}%~~~\bibentry{Mann2013}
+\item \fullcite{Schalk2012}%~~~\bibentry{Schalk2012}
+\item \fullcite{Schalk2012a}%~~~\bibentry{Schalk2012a}
+\item \fullcite{Bernhard2012}%~~~\bibentry{Bernhard2012}
+\item \fullcite{Cook2011}%~~~\bibentry{Cook2011}
+\item \fullcite{Wang2011}%~~~\bibentry{Wang2011}
+\item \fullcite{Dengler2011}%~~~\bibentry{Dengler2011}
+\item \fullcite{Schalk2010}%~~~\bibentry{Schalk2010}
+\item \fullcite{Cobas2009}%~~~\bibentry{Cobas2009}
+\item \fullcite{Wiese2009}%~~~\bibentry{Wiese2009}
+\item \fullcite{Jones2004}%~~~\bibentry{Jones2004}
+\item \fullcite{Grmec2002}%~~~\bibentry{Grmec2002}
+\item \fullcite{Lyon2010}%~~~\bibentry{Lyon2010}
+\item \fullcite{Pelucio1997}%~~~\bibentry{Pelucio1997}
+\item \fullcite{Jemmett2003}%~~~\bibentry{Jemmett2003}
+\item \fullcite{Katz2001}%~~~\bibentry{Katz2001}
+\item \fullcite{Komatsu2010}%~~~\bibentry{Komatsu2010}
+\item \fullcite{Mulcaster2003}%~~~\bibentry{Mulcaster2003}
+\item \fullcite{Konrad1998}%~~~\bibentry{Konrad1998}
+\item \fullcite{Timmermann2012}%~~~\bibentry{Timmermann2012}
+\end{itemize}
+
 
 \chapter{Diskussionen}
 \section{Inhaltlich}
@@ -1994,4 +3891,7 @@ Keine Änderungen.
 Tischvorlage Probekapitel \CC{[PAM]}
 
 \MultiColListEnd{toc}
+
+%\bibliography{BiblioDB-Med-Misc}
+\printbibliography
 \end{document}

@@ -89,23 +89,23 @@
 
 %%% HEADER %%%
 % right
-\fancyhead[RO]{{\sffamily{\color{Grey}\CC{[\ChapterCode]}~\rightmark~|~}{\color{DefaultA}\thepage}}}
+\fancyhead[RO]{{\sffamily{\color{BaseLightVery}\CC{[\ChapterCode]}~\rightmark~|~}{\color{Base}\thepage}}}
 \fancyhead[RO]{\begin{tikzpicture}[overlay,remember picture]
-      \fill [color=AltBlueSuperLight]
+      \fill [color=AltBlueLightSuper]
         ($(current page.north east) - (0pt,0pt)$)
         rectangle
         ($ (current page.south east) - (138.5pt,0cm) $);
-  \end{tikzpicture}{\sffamily{\color{Grey}\CC{[\ChapterCode]}~\rightmark~|~}{\color{DefaultA}\thepage}}
+  \end{tikzpicture}{\sffamily{\color{BaseLightVery}\CC{[\ChapterCode]}~\rightmark~|~}{\color{Base}\thepage}}
 }
 % \fancyhead[RE]{\EE{\protect\AuthNotes{ | {\protect\today} | ENTWURF |}}}
 % left
 % \fancyhead[LO]{\EE{\protect\AuthNotes{ | ENTWURF | {\protect\today} |}}}
 \fancyhead[LE]{\begin{tikzpicture}[overlay,remember picture]
-      \fill [color=AltBlueSuperLight]
+      \fill [color=AltBlueLightSuper]
         ($(current page.north east) - (0pt,0pt)$)
         rectangle
         ($ (current page.south east) - (161.60144pt,0cm) $);
-  \end{tikzpicture}{\sffamily{\color{DefaultA}\thepage}{\color{Grey}~|~\leftmark}}}
+  \end{tikzpicture}{\sffamily{\color{Base}\thepage}{\color{BaseLightVery}~|~\leftmark}}}
 % %%% DRAFT %%%
 % \fancyhead[RE,LO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \textbf{Nur für den internen Gebrauch!}}}
 

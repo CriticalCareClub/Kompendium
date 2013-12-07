@@ -1,125 +1,128 @@
 CODE,VERSION,UPDATE,TYPE,TITLE,REMARKS,TARGET,SUMMARY,SPECIALTY,ICD10-P,ICD10-1,ICD10-2,ICD10-3,ICD10-4,MODIFIERodifierM,LEVEL,ICD10,ICD10-TEXT
-CA09091C,14.0,2013-09-01,,Gastroenteritis,,Innere Medizin,,C,A,0,9,0,9,1,C,A09.09,Sonstige und nicht näher bezeichnete Gastroenteritis und Kolitis nicht näher bezeichneten Ursprungs
-CK29091C,14.0,2013-09-01,,"Gastritis, Duodenitis",,,,C,K,2,9,0,9,1,C,K29.09,"Gastroduodenitis, nicht näher bezeichnet"
-CK35080C,14.0,2013-09-01,,Akute Appendizitis,,,,C,K,3,5,0,8,0,C,K35.08,"Akute Appendizitis, nicht näher bezeichnet"
-CK55001C,14.0,2013-09-01,,Mesenterialinfarkt,,,,C,K,5,5,0,0,1,C,K55.00,Akute Gefäßkrankheiten des Darmes
-CK5607xC,14.0,2013-09-01,,Darmverschluß,,,,C,K,5,6,0,7,x,C,K56.07,"Ileus, nicht näher bezeichnet"
-CK65090C,14.0,2013-09-01,,Bauchfellentzündung,,,,C,K,6,5,0,9,0,C,K65.09,"Peritonitis, nicht näher bezeichnet"
-CK80811C,14.0,2013-09-01,,Gallenkolik,,Chirurgie,,C,K,8,0,8,1,1,C,K80.81,Sonstige Cholelithiasis: Mit Gallenwegsobstruktion
-CK859-0C,14.0,2013-09-01,,Akute Pankreatitis,,,,C,K,8,5,9,-,0,C,K85.9-,"Akute Pankreatitis, nicht näher bezeichnet"
-CK92020C,14.0,2013-09-01,,Blutungen des Verdauungstrakts,,Chirurgie oder Innere Medizin,,C,K,9,2,0,2,0,C,K92.02,"Gastrointestinale Blutung, nicht näher bezeichnet"
-CR10000C,14.0,2013-09-01,,Akutes Abdomen,,,,C,R,1,0,0,0,0,C,R10.00,Akutes Abdomen
-CxxxxxxC,14.0,2013-09-01,,Abdominalerkrankung,,,,C,x,x,x,x,x,x,C,xxx.xx,
-ER09020A,14.0,2013-09-01,,Atem- und Kreislaufstillstand,,,,E,R,0,9,0,2,0,A,R09.02,
-ER40021A,14.0,2013-09-01,,Bewusstlosigkeit,,,,E,R,4,0,0,2,1,A,R40.02,
-ET1403xA,14.0,2013-09-01,,Verstauchung,,,,E,T,1,4,0,3,x,A,T14.03,"Luxation, Verstauchung und Zerrung an einer nicht näher bezeichneten Körperregion"
-ET65090A,14.0,2013-09-01,,Vergiftungen,,,,E,T,6,5,0,9,0,A,T65.09,Toxische Wirkung einer nicht näher bezeichneten Substanz
-ExxxxxxA,14.0,2013-09-01,,Starke Blutung,,,,E,x,x,x,x,x,x,A,xxx.xx,
-ExxxxxxA,14.0,2013-09-01,,Schock,,,,E,x,x,x,x,x,x,A,xxx.xx,
-ExxxxxxA,14.0,2013-09-01,,Bagatellverletzungen,,,,E,x,x,x,x,x,x,A,xxx.xx,
-ExxxxxxA,14.0,2013-09-01,,Verbrennungen,,,,E,x,x,x,x,x,x,A,xxx.xx,
-ExxxxxxA,14.0,2013-09-01,,Erfrierungen,,,,E,x,x,x,x,x,x,A,xxx.xx,
-ExxxxxxA,14.0,2013-09-01,,Unterkühlung,,,,E,x,x,x,x,x,x,A,xxx.xx,
-ExxxxxxA,14.0,2013-09-01,,Verrenkung,,,,E,x,x,x,x,x,x,A,xxx.xx,
-ExxxxxxA,14.0,2013-09-01,,Knochenbrüche,,,,E,x,x,x,x,x,x,A,xxx.xx,
-ExxxxxxA,14.0,2013-09-01,,Verätzungen der Haut,,,,E,x,x,x,x,x,x,A,xxx.xx,
-ExxxxxxA,14.0,2013-09-01,,Verätzungen der Augen,,,,E,x,x,x,x,x,x,A,xxx.xx,
-GN93091C,14.0,2013-09-01,,Vaginale Blutung,,,,G,N,9,3,0,9,1,C,N93.09,"Abnorme Uterus- oder Vaginalblutung, nicht näher bezeichnet"
-GO00091C,14.0,2013-09-01,,"Eileiterschwangerschaft, Verdacht",,,,G,O,0,0,0,9,1,C,O00.09,"Extrauteringravidität, nicht näher bezeichnet"
-GO00092C,14.0,2013-09-01,,"Eileiterschwangerschaft, rupturiert",,,,G,O,0,0,0,9,2,C,O00.09,"Extrauteringravidität, nicht näher bezeichnet"
-GO06--1C,14.0,2013-09-01,,Abort,,,,G,O,0,6,-,-,1,C,O06.--,Nicht näher bezeichneter Abort
-GO14090C,14.0,2013-09-01,,Präekplampsie,,,,G,O,1,4,0,9,0,C,O14.09,"Präeklampsie, nicht näher bezeichnet"
-GO1509xC,14.0,2013-09-01,,"Eklampsie, eklamptischer Krampfanfall",,,,G,O,1,5,0,9,x,C,O15.09,"Eklampsie, bei der der zeitliche Bezug nicht angegeben ist"
-GO26051C,14.0,2013-09-01,,Vena-Cava-Syndrom,,,,G,O,2,6,0,5,1,C,O26.05,Hypotonie-Syndrom der Mutter (Inkl.: Vena-cava-Kompressionssyndrom)
-GO42090C,14.0,2013-09-01,,Vorzeitiger Blasensprung,,,,G,O,4,2,0,9,0,C,O42.09,"Vorzeitiger Blasensprung, nicht näher bezeichnet"
-GO45090C,14.0,2013-09-01,,Vorzeitige Plazentalösung,,,,G,O,4,5,0,9,0,C,O45.09,"Vorzeitige Plazentalösung, nicht näher bezeichnet"
-GO64090C,14.0,2013-09-01,,Pathologische Geburtslagen,,,,G,O,6,4,0,9,0,C,O64.09,"Geburtshindernis durch Lage-, Haltungs- und Einstellungsanomalien, nicht näher bezeichnet"
-GO69000C,14.0,2013-09-01,,Nabelschnurvorfall,,,,G,O,6,9,0,0,0,C,O69.00,Komplikationen bei Wehen und Entbindung durch Nabelschnurvorfall
-GO69041C,14.0,2013-09-01,,Plazenta praevia bei bevorstehender Geburt,,,,G,O,6,9,0,4,1,C,O69.04,Komplikationen bei Wehen und Entbindung durch Vasa praevia
-GO71010C,14.0,2013-09-01,,Uterusruptur,,,,G,O,7,1,0,1,0,C,O71.01,"Uterusruptur während der Geburt (Inkl.: Uterusruptur ohne Angabe, ob vor Wehenbeginn eingetreten)"
-GO80--xC,14.0,2013-09-01,,Spontangeburt,,,,G,O,8,0,-,-,x,C,O80.--,Spontangeburt eines Einlings
+CA09091C,14.0,2013-09-01,SPZ,Gastroenteritis,," Innere Medizin; bei
+  Kindern  Kinderheilkunde","Symptomatische Erstversorgung, nüchtern lassen",C,A,0,9,0,9,1,C,A09.09,Sonstige und nicht näher bezeichnete Gastroenteritis und Kolitis nicht näher bezeichneten Ursprungs
+CK29091C,14.0,2013-09-01,SPZ,"Gastritis, Duodenitis",,Chirurgie,Symptomatische Erstversorgung ,C,K,2,9,0,9,1,C,K29.09,"Gastroduodenitis, nicht näher bezeichnet"
+CK35080C,14.0,2013-09-01,SPZ,Akute Appendizitis,,"Chirurgie, Sonderfälle (Kinder, Frauen!) beachten!","Differentialdiagnosen abklären, Transport an geeignete Abteilung",C,K,3,5,0,8,0,C,K35.08,"Akute Appendizitis, nicht näher bezeichnet"
+CK55001C,14.0,2013-09-01,SPZ,Mesenterialinfarkt,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)","Symptomatische Erstversorgung, nüchtern lassen",C,K,5,5,0,0,1,C,K55.00,Akute Gefäßkrankheiten des Darmes
+CK56070C,14.0,2013-09-01,SPZ,Darmverschluß,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)","Symptomatische Erstversorgung, nüchtern lassen",C,K,5,6,0,7,0,C,K56.07,"Ileus, nicht näher bezeichnet"
+CK65090C,14.0,2013-09-01,SPZ,Bauchfellentzündung,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)",Wie Akutes Abdomen,C,K,6,5,0,9,0,C,K65.09,"Peritonitis, nicht näher bezeichnet"
+CK80811C,14.0,2013-09-01,SPZ,Gallenkolik,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)",Rasche Schmerztherapie (veranlassen),C,K,8,0,8,1,1,C,K80.81,Sonstige Cholelithiasis: Mit Gallenwegsobstruktion
+CK859X0C,14.0,2013-09-01,SPZ,Akute Pankreatitis,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)",Symptomatische Erstversorung ,C,K,8,5,9,-,0,C,K85.9-,"Akute Pankreatitis, nicht näher bezeichnet"
+CK92020C,14.0,2013-09-01,SPZ,Blutungen des Verdauungstrakts,,Chirurgie oder Innere Medizin,"Vitale Bedrohung bei hohem Blutverlust!
+Schockbekämpfung, zügiger Transport",C,K,9,2,0,2,0,C,K92.02,"Gastrointestinale Blutung, nicht näher bezeichnet"
+CKXXXX1C,14.0,2013-09-01,ALL,Abdominalerkrankung,,"Je nach Diagnose, Patient und lokaler Regelung: Chirurgie, Innere Medizin, Gynäkologie, Urologie, Kinderheilkunde, …","Nüchtern lassen, Bauchdecken-entspannende Lagerung, konsequntes Monitoring",C,K,-,-,-,-,1,C,K--.--,Kapitel XI Krankheiten des Verdauungssystems
+CR10000C,14.0,2013-09-01,SPZ,Akutes Abdomen,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)","Unmittelbare Bedrohung gem. Einschätzungsblock, nüchtern lassen",C,R,1,0,0,0,0,C,R10.00,Akutes Abdomen
+ER09020A,14.0,2013-09-01,SPZ,Atem- und Kreislaufstillstand,,,,E,R,0,9,0,2,0,A,R09.02,
+ER40021A,14.0,2013-09-01,SPZ,Bewusstlosigkeit,,,,E,R,4,0,0,2,1,A,R40.02,
+ER57XX0A,14.0,2013-09-01,SPZ,Schock,,,,E,R,5,7,-,-,0,A,R57.--,
+ER58XX1A,14.0,2013-09-01,SPZ,Starke Blutung,,Unfallchirurgie,,E,R,5,8,-,-,1,A,R58.--,"Blutung, anderenorts nicht klassifiziert"
+ET14031A,14.0,2013-09-01,,Verstauchung,,Unfallchirurgie,,E,T,1,4,0,3,1,A,T14.03,"Luxation, Verstauchung und Zerrung an einer nicht näher bezeichneten Körperregion"
+ET14032A,14.0,2013-09-01,,Verrenkung,,Unfallchirurgie,,E,T,1,4,0,3,2,A,T14.03,
+ET140X1A,14.0,2013-09-01,,Oberflächliche Bagatellverletzungen,,Unfallchirurgie,,E,T,1,4,0,-,1,A,T14.0-,Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion
+ET14200A,14.0,2013-09-01,,Knochenbrüche,,Unfallchirurgie,,E,T,1,4,2,0,0,A,T14.20,
+ET26090A,14.0,2013-09-01,,Verätzungen der Augen,,Augenheilkunde,,E,T,2,6,0,9,0,A,T26.09,"Verätzung des Auges und seiner Anhangsgebilde, Teil nicht näher bezeichnet"
+ET30003A,14.0,2013-09-01,,Verbrennungen,,Unfallchirurgie bzw. Vebrennungseinheit,,E,T,3,0,0,0,3,A,T30.00,
+ET30041A,14.0,2013-09-01,,Verätzungen der Haut,,"Unfallchirurgie, Dermatologie",,E,T,3,0,0,4,1,A,T30.04,"Verätzung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet"
+ET35071A,14.0,2013-09-01,,Erfrierungen,,Unfallchirurgie,,E,T,3,5,0,7,1,A,T35.07,Nicht näher bezeichnete Erfrierung an nicht näher bezeichneten Lokalisationen
+ET65090A,14.0,2013-09-01,,Vergiftungen,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation, bzw. toxikologische Spezialabteilung",,E,T,6,5,0,9,0,A,T65.09,Toxische Wirkung einer nicht näher bezeichneten Substanz
+ET68001A,14.0,2013-09-01,,Unterkühlung,,,,E,T,6,8,0,0,1,A,T68.00,Hypothermie
+GN93091C,14.0,2013-09-01,,Vaginale Blutung,,"Gynäkologie, bei Wehen Kreißsaal",Lagerung nach Fritsch,G,N,9,3,0,9,1,C,N93.09,"Abnorme Uterus- oder Vaginalblutung, nicht näher bezeichnet"
+GO00091C,14.0,2013-09-01,,"Eileiterschwangerschaft, Verdacht",,Gynäkologie,,G,O,0,0,0,9,1,C,O00.09,"Extrauteringravidität, nicht näher bezeichnet"
+GO00092C,14.0,2013-09-01,,"Eileiterschwangerschaft, rupturiert",,"Gynäkologie, Voranmeldung",,G,O,0,0,0,9,2,C,O00.09,"Extrauteringravidität, nicht näher bezeichnet"
+GO06XX1C,14.0,2013-09-01,,Abort,,Gynäkologie,Symptomatische Erstversorgung ,G,O,0,6,-,-,1,C,O06.--,Nicht näher bezeichneter Abort
+GO14090C,14.0,2013-09-01,,Präekplampsie,,Gynäkologie,,G,O,1,4,0,9,0,C,O14.09,"Präeklampsie, nicht näher bezeichnet"
+GO15091C,14.0,2013-09-01,,"Eklampsie, eklamptischer Krampfanfall",,Intensivstation / Gynäkologie,Grundsätzlich ist so wie bei einem zerebralen Krampfanfall zu verfahren. Der eklamptische Krampfanfall ist für Mutter und Kind lebensgefährlich!,G,O,1,5,0,9,1,C,O15.09,"Eklampsie, bei der der zeitliche Bezug nicht angegeben ist"
+GO26051C,14.0,2013-09-01,,Vena-Cava-Syndrom,,Gynäkologie,,G,O,2,6,0,5,1,C,O26.05,Hypotonie-Syndrom der Mutter (Inkl.: Vena-cava-Kompressionssyndrom)
+GO42090C,14.0,2013-09-01,,Vorzeitiger Blasensprung,,"Geburtshilfe, Kreißsaal",,G,O,4,2,0,9,0,C,O42.09,"Vorzeitiger Blasensprung, nicht näher bezeichnet"
+GO45090C,14.0,2013-09-01,,Vorzeitige Plazentalösung,,"Geburtshilfe, Kreißsaal",,G,O,4,5,0,9,0,C,O45.09,"Vorzeitige Plazentalösung, nicht näher bezeichnet"
+GO64090C,14.0,2013-09-01,,Pathologische Geburtslagen,,"Geburtshilfe, Kreißsaal",,G,O,6,4,0,9,0,C,O64.09,"Geburtshindernis durch Lage-, Haltungs- und Einstellungsanomalien, nicht näher bezeichnet"
+GO69000C,14.0,2013-09-01,,Nabelschnurvorfall,,"Geburtshilfe, Kreißsaal, Voranmeldung",,G,O,6,9,0,0,0,C,O69.00,Komplikationen bei Wehen und Entbindung durch Nabelschnurvorfall
+GO69041C,14.0,2013-09-01,,Plazenta praevia bei bevorstehender Geburt,,"Geburtshilfe, Kreißsaal; Voranmeldung",,G,O,6,9,0,4,1,C,O69.04,Komplikationen bei Wehen und Entbindung durch Vasa praevia
+GO71010C,14.0,2013-09-01,,Uterusruptur,,"Geburtshilfe, Kreißsaal; Voranmeldung",,G,O,7,1,0,1,0,C,O71.01,"Uterusruptur während der Geburt (Inkl.: Uterusruptur ohne Angabe, ob vor Wehenbeginn eingetreten)"
+GO80XX1C,14.0,2013-09-01,,Spontangeburt,,"Geburtshilfe, Kreißsaal",,G,O,8,0,-,-,1,C,O80.--,Spontangeburt eines Einlings
 GP21090C,14.0,2013-09-01,,Asphyxie des Neugeborenen,,,,G,P,2,1,0,9,0,C,P21.09,"Asphyxie unter der Geburt, nicht näher bezeichnet"
-GxxxxxxC,14.0,2013-09-01,,Versorgung des Neugeborenen,,,,G,x,x,x,x,x,x,C,xxx.xx,
-GxxxxxxC,14.0,2013-09-01,,Basisreanimation des Neugeborenen,,,,G,x,x,x,x,x,x,C,xxx.xx,
-GxxxxxxC,14.0,2013-09-01,,Uterusatonie,,,,G,x,x,x,x,x,x,C,xxx.xx,
+GxxxxxxC,14.0,2013-09-01,,Uterusatonie,,"Geburtshilfe, Kreißsaal; Voranmeldung",,G,x,x,x,x,x,x,C,xxx.xx,
+GY51140C,14.0,2013-09-01,,Basisreanimation des Neugeborenen,,Kinderheilkunde,,G,Y,5,1,1,4,0,C,Y51.14,
+GY51310C,14.0,2013-09-01,,Versorgung des Neugeborenen,,,,G,Y,5,1,3,1,0,C,Y51.31,
 IA16091C,14.0,2013-09-01,,Tuberkulose,,,,I,A,1,6,0,9,1,C,A16.09,"Nicht näher bezeichnete Tuberkulose der Atmungsorgane ohne Angabe einer bakteriologischen, molekularbiologischen oder histologischen Sicherung"
 IG03091C,14.0,2013-09-01,,Meningitis,,,,I,G,0,3,0,9,1,C,G03.09,"Meningitis, nicht näher bezeichnet"
-IJ18090C,14.0,2013-09-01,,Pneumonie,,,,I,J,1,8,0,9,0,C,J18.09,"Pneumonie, nicht näher bezeichnet"
-IU81001C,14.0,2013-09-01,,Multiresistente Keime,,,,I,U,8,1,0,0,1,C,U81.00,
-IxxxxxxC,14.0,2013-09-01,,Nadelstichverletzung,,,,I,x,x,x,x,x,x,C,xxx.xx,
-KR56001C,14.0,2013-09-01,,Fieberkrampf im Kindesalter,,,,K,R,5,6,0,0,1,C,R56.00,Fieberkrämpfe
-KR95090C,14.0,2013-09-01,,SIDS,,,,K,R,9,5,0,9,0,C,R95.09,Plötzlicher Kindstod ohne Angabe einer Obduktion
-KxxxxxxC,14.0,2013-09-01,,Laryngitis,,,,K,x,x,x,x,x,x,C,xxx.xx,
-KxxxxxxC,14.0,2013-09-01,,Epiglottitis,,,,K,x,x,x,x,x,x,C,xxx.xx,
-KxxxxxxC,14.0,2013-09-01,,Kindesmisshandlung,,,,K,x,x,x,x,x,x,C,xxx.xx,
+IJ18090C,14.0,2013-09-01,,Pneumonie,,Innere Medizin,,I,J,1,8,0,9,0,C,J18.09,"Pneumonie, nicht näher bezeichnet"
+IU81001C,14.0,2013-09-01,,Multiresistente Keime,,---,,I,U,8,1,0,0,1,C,U81.00,
+IW49091C,14.0,2013-09-01,,Nadelstichverletzung,Zusatzschlüssel (!-Code)!,Unfallchirurgie,,I,W,4,9,0,9,1,C,W49.09,Unfall durch Exposition gegenüber mechanischen Kräften unbelebter Objekte
+KJ05000C,14.0,2013-09-01,,Akute obstruktive Laryngitis,,"Innere Medizin, Kinderheilkunde",,K,J,0,5,0,0,0,C,J05.00,Akute obstruktive Laryngitis [Krupp]
+KJ05010C,14.0,2013-09-01,,Akute Epiglottitis,,,,K,J,0,5,0,1,0,C,J05.01,Akute Epiglottitis
+KR56001C,14.0,2013-09-01,,Fieberkrampf im Kindesalter,,Kinderheilkunde,,K,R,5,6,0,0,1,C,R56.00,Fieberkrämpfe
+KR95090C,14.0,2013-09-01,,SIDS,,---,,K,R,9,5,0,9,0,C,R95.09,Plötzlicher Kindstod ohne Angabe einer Obduktion
+KT74011C,14.0,2013-09-01,,Kindesmisshandlung,,,,K,T,7,4,0,1,1,C,T74.01,Körperlicher Missbrauch
 ME14012C,14.0,2013-09-01,,Hyperglykämisches Koma,,,,M,E,1,4,0,1,2,C,E14.01,Nicht näher bezeichneter Diabetes mellitus: Mit Koma: Als entgleist bezeichnet
 ME16020C,14.0,2013-09-01,,Hypoglykämie,,,,M,E,1,6,0,2,0,C,E16.02,"Hypoglykämie, nicht näher bezeichnet"
 MF45331C,14.0,2013-09-01,,Hyperventilationssyndrom,,,,M,F,4,5,3,3,1,C,F45.33,Somatoforme autonome Funktionsstörung: Atmungssystem
 MI10900C,14.0,2013-09-01,,Arterielle Hypertonie,,,,M,I,1,0,9,0,0,C,I10.90,
-MI10911C,14.0,2013-09-01,,Hypertensive Krise,,,,M,I,1,0,9,1,1,C,I10.91,"Essentielle Hypertonie, nicht näher bezeichnet: Mit Angabe einer hypertensiven Krise"
-MI10912C,14.0,2013-09-01,,Hypertensiver Notfall,,,,M,I,1,0,9,1,2,C,I10.91,"Essentielle Hypertonie, nicht näher bezeichnet: Mit Angabe einer hypertensiven Krise"
-MI20091C,14.0,2013-09-01,,"Thoraxschmerz, beschwerdefrei",,,,M,I,2,0,0,9,1,C,I20.09,"Angina pectoris, nicht näher bezeichnet"
-MI24091C,14.0,2013-09-01,,Akutes Koronarsyndrom,,,,M,I,2,4,0,9,1,C,I24.09,"Akute ischämische Herzkrankheit, nicht näher bezeichnet"
-MI26--xC,14.0,2013-09-01,,Lungenembolie,,"Innere Medizin,  Lungenheilkunde",,M,I,2,6,-,-,x,C,I26.--,Lungenembolie
-MI50090C,14.0,2013-09-01,,"Herzinsuffizienz, symptomatisch",,,,M,I,5,0,0,9,0,C,I50.09,"Herzinsuffizienz, nicht näher bezeichnet"
-MI74041C,14.0,2013-09-01,,Arterieller Gefäßverschluss,,,"Symptomatische Therapie, tieflagern und Schützen der Extremität",M,I,7,4,0,4,1,C,I74.04,"Embolie und Thrombose der Extremitätenarterien, nicht näher bezeichnet"
-MI74042C,14.0,2013-09-01,,Venöser Gefäßverschluss,,"Innere Medizin, mancherorts  Dermatologie","Symptomatische Therapie, hochlagern und Schützen der Extremität",M,I,7,4,0,4,2,C,I74.04,"Embolie und Thrombose der Extremitätenarterien, nicht näher bezeichnet"
+MI10911C,14.0,2013-09-01,,Hypertensive Krise,,Innere Medizin,,M,I,1,0,9,1,1,C,I10.91,"Essentielle Hypertonie, nicht näher bezeichnet: Mit Angabe einer hypertensiven Krise"
+MI10912C,14.0,2013-09-01,,Hypertensiver Notfall,,Innere Medizin,,M,I,1,0,9,1,2,C,I10.91,"Essentielle Hypertonie, nicht näher bezeichnet: Mit Angabe einer hypertensiven Krise"
+MI20091C,14.0,2013-09-01,,"Thoraxschmerz, beschwerdefrei",,Innere Medizin,,M,I,2,0,0,9,1,C,I20.09,"Angina pectoris, nicht näher bezeichnet"
+MI24091C,14.0,2013-09-01,,Akutes Koronarsyndrom,,"Innere Medizin, evtl. Überwachungsstation; bei hochgradigem Infarktverdacht oder gesicherter Diagnose: Herzkatheterlabor (Rücksprache mit zuständigem Arzt)",,M,I,2,4,0,9,1,C,I24.09,"Akute ischämische Herzkrankheit, nicht näher bezeichnet"
+MI26XX0C,14.0,2013-09-01,,Lungenembolie,,"Innere Medizin,  Lungenheilkunde",,M,I,2,6,-,-,0,C,I26.--,Lungenembolie
+MI50090C,14.0,2013-09-01,,"Herzinsuffizienz, symptomatisch",,"Innere Medizin, evtl. Überwachungs- oder Intensivstation",,M,I,5,0,0,9,0,C,I50.09,"Herzinsuffizienz, nicht näher bezeichnet"
+MI74041C,14.0,2013-09-01,,Arterieller Gefäßverschluss einer Extremität,,Gefäßchirurgie,"Symptomatische Therapie, tieflagern und Schützen der Extremität",M,I,7,4,0,4,1,C,I74.04,"Embolie und Thrombose der Extremitätenarterien, nicht näher bezeichnet"
+MI74042C,14.0,2013-09-01,,Venöser Gefäßverschluss einer Extremität,,"Innere Medizin, mancherorts  Dermatologie","Symptomatische Therapie, hochlagern und Schützen der Extremität",M,I,7,4,0,4,2,C,I74.04,"Embolie und Thrombose der Extremitätenarterien, nicht näher bezeichnet"
 MJ44190C,14.0,2013-09-01,,COPD-Exazerbation,,"Innere Medizin,  Lungenheilkunde",,M,J,4,4,1,9,0,C,J44.19,"Chronische obstruktive Lungenkrankheit mit akuter Exazerbation, nicht näher bezeichnet: FEV1 nicht näher bezeichnet"
-MJ46--1C,14.0,2013-09-01,,Akuter Asthmaanfall,,"Innere Medizin,  Lungenheilkunde",,M,J,4,6,-,-,1,C,J46.--,Status asthmaticus (Inkl.: Akutes schweres Asthma bronchiale)
-MJ81--1C,14.0,2013-09-01,,"Akutes Lungenödem, leicht",,,,M,J,8,1,-,-,1,C,J81.--,"Sonstige Krankheiten der Atmungsorgane, die hauptsächlich das Interstitium betreffen"
-MJ81--2C,14.0,2013-09-01,,"Akutes Lungenödem, schwer",,,,M,J,8,1,-,-,2,C,J81.--,"Sonstige Krankheiten der Atmungsorgane, die hauptsächlich das Interstitium betreffen"
-MJ9609xC,14.0,2013-09-01,,"Insuffiziente Atmung (AF < 8 oder > 30 / min, bzw. AZV zu niedrig",,,,M,J,9,6,0,9,x,C,J96.09,"Akute respiratorische Insuffizienz, anderenorts nicht klassifiziert: Typ nicht näher bezeichnet"
-MN23--0C,14.0,2013-09-01,,Nierenkolik,,,,M,N,2,3,-,-,0,C,N23.--,Nicht näher bezeichnete Nierenkolik
+MJ46XX1C,14.0,2013-09-01,,Akuter Asthmaanfall,,"Innere Medizin,  Lungenheilkunde",,M,J,4,6,-,-,1,C,J46.--,Status asthmaticus (Inkl.: Akutes schweres Asthma bronchiale)
+MJ81XX1C,14.0,2013-09-01,,"Akutes Lungenödem, leicht",,,,M,J,8,1,-,-,1,C,J81.--,"Sonstige Krankheiten der Atmungsorgane, die hauptsächlich das Interstitium betreffen"
+MJ81XX2C,14.0,2013-09-01,,"Akutes Lungenödem, schwer",,,,M,J,8,1,-,-,2,C,J81.--,"Sonstige Krankheiten der Atmungsorgane, die hauptsächlich das Interstitium betreffen"
+MJ96091C,14.0,2013-09-01,,Insuffiziente Atmung,,,,M,J,9,6,0,9,1,C,J96.09,"Akute respiratorische Insuffizienz, anderenorts nicht klassifiziert: Typ nicht näher bezeichnet"
+MN23XX0C,14.0,2013-09-01,,Nierenkolik,,"Urologie; wenn nicht vorhanden, Innere Medizin",Im Vordergrund bei der Versorgung steht die rasche Veranlassung einer Schmerztherapie.,M,N,2,3,-,-,0,C,N23.--,Nicht näher bezeichnete Nierenkolik
 MR09020B,14.0,2013-09-01,,Atemstillstand,,,,M,R,0,9,0,2,0,B,R09.02,
-MR33--1C,14.0,2013-09-01,,Akutes Harnverhalten,,,,M,R,3,3,-,-,1,C,R33.--,Harnverhaltung
-MR40001B,14.0,2013-09-01,,Bewusttseinstrübung,,,,M,R,4,0,0,0,1,B,R40.00,
+MR33XX1C,14.0,2013-09-01,,Akutes Harnverhalten,,Urologie,Zügiger Transport,M,R,3,3,-,-,1,C,R33.--,Harnverhaltung
+MR40001B,14.0,2013-09-01,,Bewusstseinstrübung,,,,M,R,4,0,0,0,1,B,R40.00,
 MR40021B,14.0,2013-09-01,,Bewusstlose und soporöse Patienten,,,,M,R,4,0,0,2,1,B,R40.02,
-MR47091C,14.0,2013-09-01,,Tachykarde Attacke,,,,M,R,4,7,0,9,1,C,R47.09,"Paroxysmale Tachykardie, nicht näher bezeichnet"
-MR55--0C,14.0,2013-09-01,,"Kollaps, Synkope",,,,M,R,5,5,-,-,0,C,R55.--,Synkope und Kollaps
-MR57--0B,14.0,2013-09-01,,Schock,,,,M,R,5,7,-,-,0,B,R57.--,"Schock, anderenorts nicht klassifiziert"
-MT17091C,14.0,2013-09-01,,Mechanische Atemwegsverlegung,,,,M,T,1,7,0,9,1,C,T17.09,"Fremdkörper in den Atemwegen, Teil nicht näher bezeichnet"
-MT40021C,14.0,2013-09-01,,Opiatvergiftung,,,,M,T,4,0,0,2,1,C,T40.02,Vergiftung: Sonstige Opioide
-MT43091C,14.0,2013-09-01,,Vergiftung mit Uppers,,,,M,T,4,3,0,9,1,C,T43.09,"Vergiftung: Psychotrope Substanz, nicht näher bezeichnet"
-MT51001C,14.0,2013-09-01,,Vergiftungen mit Alkohol,,,,M,T,5,1,0,0,1,C,T51.00,Toxische Wirkung: Äthanol
+MR47091C,14.0,2013-09-01,,Tachykarde Attacke,,"Innere Medizin, evtl. Überwachungsstation",,M,R,4,7,0,9,1,C,R47.09,"Paroxysmale Tachykardie, nicht näher bezeichnet"
+MR55XX0C,14.0,2013-09-01,,"Kollaps, Synkope",,Innere Medizin,,M,R,5,5,-,-,0,C,R55.--,Synkope und Kollaps
+MR57XX0B,14.0,2013-09-01,,Schock,,Je nach Ursache,,M,R,5,7,-,-,0,B,R57.--,"Schock, anderenorts nicht klassifiziert"
+MT17023C,14.0,2013-09-01,,Einnahme von schaumbildenden Substanzen,,,,M,T,1,7,0,2,3,C,T17.02,Fremdkörper im Rachen
+MT17091C,14.0,2013-09-01,,Mechanische Atemwegsverlegung,,Innere Medizin,,M,T,1,7,0,9,1,C,T17.09,"Fremdkörper in den Atemwegen, Teil nicht näher bezeichnet"
+MT40021C,14.0,2013-09-01,,Vergiftung mit Opiaten,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation, bzw. toxikologische Spezialabteilung",,M,T,4,0,0,2,1,C,T40.02,Vergiftung: Sonstige Opioide
+MT43091C,14.0,2013-09-01,,Vergiftung mit Uppers,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation, bzw. toxikologische Spezialabteilung",,M,T,4,3,0,9,1,C,T43.09,"Vergiftung: Psychotrope Substanz, nicht näher bezeichnet"
+MT51001C,14.0,2013-09-01,,Vergiftung mit Alkohol,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation, bzw. toxikologische Spezialabteilung",,M,T,5,1,0,0,1,C,T51.00,Toxische Wirkung: Äthanol
 MT54091C,14.0,2013-09-01,,Einnahme von Säuren oder Laugen,,,,M,T,5,4,0,9,1,C,T54.09,"Toxische Wirkung: Ätzende Substanz, nicht näher bezeichnet"
-MT58001C,14.0,2013-09-01,,Kohlenmonoxid-Vergiftung,,,,M,T,5,8,0,0,1,C,T58.00,Toxische Wirkung von Kohlenmonoxid
-MT59--1C,14.0,2013-09-01,,Stickgasvergiftung,,,,M,T,5,9,-,-,1,C,T59.--,"Toxische Wirkung sonstiger Gase, Dämpfe oder sonstigen Rauches"
-MT59--2C,14.0,2013-09-01,,Reizgasvergiftung,,,,M,T,5,9,-,-,2,C,T59.--,"Toxische Wirkung sonstiger Gase, Dämpfe oder sonstigen Rauches"
-MT65091C,14.0,2013-09-01,,"Vergiftungen, allgemein",,,,M,T,6,5,0,9,1,C,T65.09,Toxische Wirkung einer nicht näher bezeichneten Substanz
+MT58001C,14.0,2013-09-01,,Vergiftung mit Kohlenmonoxid,,"Innere Medizin, evtl. Spezialeinheit mit Druckkammer",,M,T,5,8,0,0,1,C,T58.00,Toxische Wirkung von Kohlenmonoxid
+MT59XX1C,14.0,2013-09-01,,Vergiftung mit Stickgasen,Allg. M!,"Innere Medizin, evtl. Spezialeinheit mit Druckkammer",,M,T,5,9,-,-,1,C,T59.--,"Toxische Wirkung sonstiger Gase, Dämpfe oder sonstigen Rauches"
+MT59XX2C,14.0,2013-09-01,,Vergiftung mit Reizgasen,,Innere Medizin,,M,T,5,9,-,-,2,C,T59.--,"Toxische Wirkung sonstiger Gase, Dämpfe oder sonstigen Rauches"
+MT65091C,14.0,2013-09-01,,"Vergiftungen, allgemein",Allg. M!,"Innere Medizin, evtl. Überwachungs- oder Intensivstation, bzw. toxikologische Spezialabteilung",,M,T,6,5,0,9,1,C,T65.09,Toxische Wirkung einer nicht näher bezeichneten Substanz
+MT67000C,14.0,2013-09-01,,"Hitzschlag, Sonnenstich",,"Innere Medizin, evtl. Überwachungs- oder Intensivstation",,M,T,6,7,0,0,0,C,T67.00,Hitzschlag und Sonnenstich
+MT67010C,,,,Hitzekollaps,,Innere Medizin,,M,T,6,7,0,1,0,C,T67.01,Hitzesynkope
+MT67050C,,,,Hitzeerschöpfung,,Innere Medizin,,M,T,6,7,0,5,0,C,T67.05,"Hitzeerschöpfung, nicht näher bezeichnet"
 MT68001C,14.0,2013-09-01,,Schwere Unterkühlung,unter 34°C,,,M,T,6,8,0,0,1,C,T68.00,Hypothermie
-MT74021C,14.0,2013-09-01,,Vergewaltigung und geschlechtliche Nötigung,,,,M,T,7,4,0,2,1,C,T74.02,Sexueller Missbrauch
+MT74021C,14.0,2013-09-01,,Vergewaltigung und geschlechtliche Nötigung,,"Bei Frauen Gynäkologie, sonst Unfallchirurgie oder Kinderheilkunde",,M,T,7,4,0,2,1,C,T74.02,Sexueller Missbrauch
 MT75010C,14.0,2013-09-01,,Ertrinkungsunfall,,,,M,T,7,5,0,1,0,C,T75.01,Ertrinken und nichttödliches Untertauchen
-MxxxxxxC,14.0,2013-09-01,,Unterlassung der Reanimation,,,,M,x,x,x,x,x,x,C,xxx.xx,
-MxxxxxxC,14.0,2013-09-01,,"Hitzekollaps, Hitzeerschöpfung, Hitzschlag",,,,M,x,x,x,x,x,x,C,xxx.xx,
-MxxxxxxC,14.0,2013-09-01,,Sonnenstich,,,,M,x,x,x,x,x,x,C,xxx.xx,
-MxxxxxxC,14.0,2013-09-01,,Einnahme von schaumbildenden Substanzen,,,,M,x,x,x,x,x,x,C,xxx.xx,
-NI64--0C,14.0,2013-09-01,,Insult,,"Stroke Unit, Abt. f. Neurologie, Abt. f. Innere Medizin",,N,I,6,4,-,-,0,C,I64.--,"Schlaganfall, nicht als Blutung oder Infarkt bezeichnet"
-NR56081C,14.0,2013-09-01,,Krampfender Patient,,,,N,R,5,6,0,8,1,C,R56.08,Sonstige und nicht näher bezeichnete Krämpfe
-NR56082C,14.0,2013-09-01,,Z. n. Krampanfall,,,,N,R,5,6,0,8,2,C,R56.08,Sonstige und nicht näher bezeichnete Krämpfe
-PF22091C,14.0,2013-09-01,,Patienten mit Wahnvorstellungen,Achtung: Kodierung als Patient mit anhaltenden wahnhaften Vorstellungen. Bei akuten Episoden ist der Code F23.xx zu verwenden,,,P,F,2,2,0,9,1,C,F22.09,"Anhaltende wahnhafte Störung, nicht näher bezeichnet"
-PxxxxxxC,14.0,2013-09-01,,Unruhiger oder aggressiver Patient,,,,P,x,x,x,x,x,x,C,xxx.xx,
-SYxxxxxA,14.0,2013-09-01,,Sauerstoffberieselung,,,,S,Y,x,x,x,x,x,A,Yxx.xx,
-TJ93091C,14.0,2013-09-01,,Pneumothorax,,,,T,J,9,3,0,9,1,C,J93.09,"Pneumothorax, nicht näher bezeichnet"
-TS06--0C,14.0,2013-09-01,,Schädel-Hirn-Trauma,,,,T,S,0,6,-,-,0,C,S06.--,Intrakranielle Verletzung
-TT14031C,14.0,2013-09-01,,Verstauchung,,,,T,T,1,4,0,3,1,C,T14.03,
-TT14032C,14.0,2013-09-01,,Verrenkung,,,,T,T,1,4,0,3,2,C,T14.03,
-TxxxxxxC,14.0,2013-09-01,,Unfälle,,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,Fraktur,,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,"Rückenmarksverletzung, Verdacht",,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,Rückenmarksverletzung mit Symptomen,,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,"Bauchtrauma, offen",,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,"Beckentrauma, instabil",,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,"Polytrauma, allgemein",,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,Versorgung eines Amputats,,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,"Verbrennung, leicht",,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,"Verbrennung, schwer",,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,Inhalationstrauma,,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,Verletzungen mit chmischen Substanzen,,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,Erfrierungen,,,,T,x,x,x,x,x,x,C,xxx.xx,
-TxxxxxxC,14.0,2013-09-01,,Stromunfälle,,,,T,x,x,x,x,x,x,C,xxx.xx,
-TY61000C,14.0,2013-09-01,,Wundversorgung,,,,T,Y,6,1,0,0,0,C,Y61.00,
-YxxxxxxB,14.0,2013-09-01,,Einschätzungsblock,,,,Y,x,x,x,x,x,x,B,xxx.xx,
-YxxxxxxB,14.0,2013-09-01,,Standardmaßnahmen bei vitalbedrohten Patienten,,,,Y,x,x,x,x,x,x,B,xxx.xx,
-YxxxxxxB,14.0,2013-09-01,,Reanimationsbereitschaft,,,,Y,x,x,x,x,x,x,B,xxx.xx,
-YxxxxxxB,14.0,2013-09-01,,Einschätzung der Indikation zur Wirbelsäulenimmobilisation,,,,Y,x,x,x,x,x,x,B,xxx.xx,
-YxxxxxxC,14.0,2013-09-01,,Immer durchzuführende Standardmaßnahmen,,,,Y,x,x,x,x,x,x,C,xxx.xx,
+MY51990C,14.0,2013-09-01,,Unterlassung der Reanimation,,---,"Grundsätzlich darf keine Hilfeleistung unterlassen werden, jedoch ist der Patientenwille oberstes Gebot und ist zu respektieren!",M,Y,5,1,9,9,0,C,Y51.99,
+NI64XX0C,14.0,2013-09-01,,Insult,,"Stroke Unit, Abt. f. Neurologie, Abt. f. Innere Medizin",,N,I,6,4,-,-,0,C,I64.--,"Schlaganfall, nicht als Blutung oder Infarkt bezeichnet"
+NR56081C,14.0,2013-09-01,,Krampfender Patient,,"Intensivstation bzw. Überwachungsstation, Innere Medizin",,N,R,5,6,0,8,1,C,R56.08,Sonstige und nicht näher bezeichnete Krämpfe
+NR56082C,14.0,2013-09-01,,Z. n. Krampanfall,,Innere Medizin,,N,R,5,6,0,8,2,C,R56.08,Sonstige und nicht näher bezeichnete Krämpfe
+PF22091C,14.0,2013-09-01,,Patienten mit Wahnvorstellungen,Achtung: Kodierung als Patient mit anhaltenden wahnhaften Vorstellungen. Bei akuten Episoden ist der Code F23.xx zu verwenden,Psychiatrie,,P,F,2,2,0,9,1,C,F22.09,"Anhaltende wahnhafte Störung, nicht näher bezeichnet"
+PxxxxxxC,14.0,2013-09-01,,Unruhiger oder aggressiver Patient,,Je nach Ursache,,P,x,x,x,x,x,x,C,xxx.xx,
+SY52210A,14.0,2013-09-01,,Sauerstoffberieselung,,---,,S,Y,5,2,2,1,0,A,Y52.21,
+TJ93090C,14.0,2013-09-01,,Pneumothorax,,,,T,J,9,3,0,9,0,C,J93.09,"Pneumothorax, nicht näher bezeichnet"
+TS06XX0C,14.0,2013-09-01,,Schädel-Hirn-Trauma,,Unfallchirurgie mit Neurochirurgie,,T,S,0,6,-,-,0,C,S06.--,Intrakranielle Verletzung
+TS31011C,14.0,2013-09-01,,"Bauchtrauma, offen",,Unfallchirurgie,,T,S,3,1,0,1,1,C,S31.01,Offene Wunde der Bauchdecke
+TS32831C,14.0,2013-09-01,,"Beckentrauma, instabil",,Unfallchirurgie,,T,S,3,2,8,3,1,C,S32.83,"Fraktur: Becken, Teil nicht näher bezeichnet"
+TT07XX1C,14.0,2013-09-01,,"Polytrauma, allgemein",,"Unfallchirurgie, evtl. weitere Fachabteilungen je nach Verletzungsbild",,T,T,0,7,-,-,1,C,T07.--,Nicht näher bezeichnete multiple Verletzungen
+TT09031C,14.0,2013-09-01,,"Rückenmarksverletzung, Verdacht",,Unfallchirurgie,,T,T,0,9,0,3,1,C,T09.03,"Verletzung des Rückenmarkes, Höhe nicht näher bezeichnet"
+TT09032C,14.0,2013-09-01,,Rückenmarksverletzung mit Symptomen,,Unfallchirurgie,,T,T,0,9,0,3,2,C,T09.03,"Verletzung des Rückenmarkes, Höhe nicht näher bezeichnet"
+TT14031C,14.0,2013-09-01,,Verstauchung,,Unfallchirurgie,,T,T,1,4,0,3,1,C,T14.03,"Luxation, Verstauchung und Zerrung an einer nicht näher bezeichneten Körperregion"
+TT14032C,14.0,2013-09-01,,Verrenkung,,Unfallchirurgie,,T,T,1,4,0,3,2,C,T14.03,
+TT14071C,14.0,2013-09-01,,Versorgung eines Amputats,,Unfallchirurgie,,T,T,1,4,0,7,1,C,T14.07,Zerquetschung und traumatische Amputation einer nicht näher bezeichneten Körperregion
+TT14200C,14.0,2013-09-01,,Fraktur,,Unfallchirurgie,,T,T,1,4,2,0,0,C,T14.20,Fraktur an einer nicht näher bezeichneten Körperregion: geschlossen oder o.n.A.
+TT30001C,14.0,2013-09-01,,"Verbrennung, leicht",,Unfallchirurgie,,T,T,3,0,0,0,1,C,T30.00,"Verbrennung oder Verätzung, Körperregion nicht näher bezeichnet"
+TT30002C,14.0,2013-09-01,,"Verbrennung, schwer",,Unfallchirurgie bzw. Vebrennungseinheit,,T,T,3,0,0,0,2,C,T30.00,"Verbrennung oder Verätzung, Körperregion nicht näher bezeichnet"
+TT30041C,14.0,2013-09-01,,Verletzungen mit chemischen Substanzen,,Unfallchirurgie,,T,T,3,0,0,4,1,C,T30.04,"Verätzung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet"
+TT35071C,14.0,2013-09-01,,Erfrierungen,,Unfallchirurgie,,T,T,3,5,0,7,1,C,T35.07,Nicht näher bezeichnete Erfrierung an nicht näher bezeichneten Lokalisationen
+TT49091C,14.0,2013-09-01,,Inhalationstrauma,,,,T,T,4,9,0,9,1,C,T49.09,"Toxische Wirkung: Gase, Dämpfe oder Rauch, nicht näher bezeichnet"
+TT75040C,14.0,2013-09-01,,Stromunfälle,,Unfallchirurgie,,T,T,7,5,0,4,0,C,T75.04,Schäden durch elektrischen Strom
+TY14101C,14.0,2013-09-01,,Unfälle,Allg. M!,Unfallchirurgie,,T,Y,1,4,1,0,1,C,Y14.10,
+TY61000C,14.0,2013-09-01,,Wundversorgung,,Unfallchirurgie,,T,Y,6,1,0,0,0,C,Y61.00,
+YY11000C,14.0,2013-09-01,,Immer durchzuführende Standardmaßnahmen,,---,,Y,Y,1,1,0,0,0,C,Y11.00,
+YY12100B,14.0,2013-09-01,,Einschätzungsblock,,---,,Y,Y,1,2,1,0,0,B,Y12.10,
+YY13100B,14.0,2013-09-01,,Standardmaßnahmen bei vitalbedrohten Patienten,,---,,Y,Y,1,3,1,0,0,B,Y13.10,
+YY13210B,14.0,2013-09-01,,Reanimationsbereitschaft,,---,,Y,Y,1,3,2,1,0,B,Y13.21,
+YY14200B,14.0,2013-09-01,,Einschätzung der Indikation zur Wirbelsäulenimmobilisation,Standardmaßnahmen,---,,Y,Y,1,4,2,0,0,B,Y14.20,

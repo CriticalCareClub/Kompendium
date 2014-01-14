@@ -91,7 +91,7 @@
 % right
 \fancyhead[LO]{\sffamily{\color{BaseMiddle}\rightmark}}
 \fancyhead[RO]{\begin{tikzpicture}[overlay,remember picture]
-      \fill [color=Margin]
+      \fill [color=MarginBackground]
         ($(current page.north east) - (0pt,0pt)$)
         rectangle
         ($ (current page.south east) - (191.5pt,0cm) $);
@@ -101,7 +101,7 @@
 % left
 % \fancyhead[LO]{\EE{\protect\AuthNotes{ | ENTWURF | {\protect\today} |}}}
 \fancyhead[LE]{\begin{tikzpicture}[overlay,remember picture]
-      \fill [color=Margin]
+      \fill [color=MarginBackground]
         ($(current page.north east) - (0pt,0pt)$)
         rectangle
         ($ (current page.south east) - (237.00787pt,0cm) $);
@@ -129,11 +129,11 @@
 % center
 \fancyfoot[CE,CO]{{{\noindent\sffamily\tiny\color{AsboeGreyLight}\DocVersionInfo~~|~~{\noindent\DocGitCommitTiny}}}}
 % odd
-\fancyfoot[LO]{{\noindent\sffamily\tiny\color{AsboeGreyLight}\url{http://www.aass.at}~~|~~\url{http://www.samariterbund.net}}}
-\fancyfoot[RO]{{\noindent{\sffamily\tiny\color{AsboeGreyLight}\DocVersion}~~\AASS{}\,{\color{AsboeGreyLight}|}\,{\color{AsboeRed}ASBÖ}~ }}
+\fancyfoot[LO]{{\noindent\sffamily\tiny\color{AsboeGreyLight}\url{http://www.aass.at}~~$\cdot$~~\url{http://www.samariterbund.net}}}
+\fancyfoot[RO]{{\noindent{\sffamily\tiny\color{AsboeGreyLight}\DocVersion}~~\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~ }}
 % even
-\fancyfoot[LE]{{\noindent\AASS{}\,{\color{AsboeGreyLight}|}\,{\color{AsboeRed}ASBÖ}~~\sffamily\tiny\color{AsboeGreyLight}\DocVersion}}
-\fancyfoot[RE]{{\noindent\sffamily\tiny\color{AsboeGreyLight}\url{http://www.aass.at}~~|~~\url{http://www.samariterbund.net}}}
+\fancyfoot[LE]{{\noindent\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~~\sffamily\tiny\color{AsboeGreyLight}\DocVersion}}
+\fancyfoot[RE]{{\noindent\sffamily\tiny\color{AsboeGreyLight}\url{http://www.aass.at}~~$\cdot$~~\url{http://www.samariterbund.net}}}
 }
 
 
@@ -162,8 +162,8 @@
 \fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
 \fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\DocVersion}~ \AASS{}}}
 % even
-\fancyfoot[LE]{{\noindent\AASS{}\,{\color{AsboeGreyLight}|}\,{\color{AsboeRed}ASBÖ}~ \sffamily\tiny \DocVersion}}
-\fancyfoot[RE]{{\color{AsboeGreyLight}\url{http://www.aass.at}~~|~~\url{http://www.samariterbund.net}}}
+\fancyfoot[LE]{{\noindent\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~ \sffamily\tiny \DocVersion}}
+\fancyfoot[RE]{{\color{AsboeGreyLight}\url{http://www.aass.at}~~$\cdot$~~\url{http://www.samariterbund.net}}}
 }
 
 % \fancyfoot[CE,CO]{{{\sffamily\tiny {\DocVersionTyp} | Nur für den internen Gebrauch!}}}

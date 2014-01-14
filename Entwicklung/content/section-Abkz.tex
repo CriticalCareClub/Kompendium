@@ -116,6 +116,37 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 }%6
 {H}%8
 
+% \TableWide
+% 	{Titel}%1
+% 	{Beschreibung}%2
+% 	{Label}%3
+% 	{Quelle}%4
+% 	{Lizenz}%5
+% 	{Tabelle}%6
+% 	{Float}%8
+\Table
+{Maßnahmentypen}%1
+{}%2
+{}%3
+{}%4
+{}%5
+{%
+\begin{tabularx}{\linewidth}{clX}
+\addlinespace\toprule\addlinespace
+\noindent\TabHeading{ID}
+	& \noindent\TabHeading{Art}
+										& \noindent\TabHeading{Beschreibung}
+\\\addlinespace\midrule\addlinespace
+ALL & \TabSub{Allgemeine Maßnahmen}		& Allgemeine Maßnahmen beziehen sich auf eine Gruppe von Patienten mit einer Übergruppe bestimmter, verwandter Erkrankungen, wobei eine weiterführende Unterteilung mittels spezieller Maßnahmen existiert.			
+\\\addlinespace
+STD	& \TabSub{Standardmaßnahmen} 		& Standardmaßnahmen treffen unter bestimmten Bedingungen auf eine große Gruppe unterschiedlicher Patienten mit unterschiedlichen Diagnosen zu.
+\\\addlinespace
+SPZ	& \TabSub{Spezielle Maßnahmen}	 	& Spezielle Maßnahmen treffen auf bestimmte Patienten mit einer bestimmten Diagnose oder einem bestimmten Zustand zu.						
+\\\addlinespace\bottomrule\addlinespace
+\end{tabularx}
+
+}%6
+{H}%8
 
 \begin{WidePar}
 \begin{multicols}{3}

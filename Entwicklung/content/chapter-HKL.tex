@@ -1929,10 +1929,23 @@ Erregungszustand des Patienten gedacht werden!
 \end{itemize}
 }{}{}{}
 
-\Text
+
+%%% Einzelne Tabellen
+% 
+% \Table
+% 	{<Titel>}%1
+% 	{<Beschreibung>}%2
+% 	{<Label>}%3
+% 	{<Quelle>}%4
+% 	{<Lizenz>}%5
+% 	{<Tabelle>}%6
+% 	{<Float>}%7
+\TableWide
+{Wichtige Herzrhythmusstörungen}
 {}
 {}
 {}
+{\AASS}
 {% Index-Einträge für Tabelle ---
 \label{tab:herzrhythmusstoerungen-wichtige}%
 \label{tab:herzrhythmusstoerungen}%
@@ -1946,14 +1959,14 @@ Erregungszustand des Patienten gedacht werden!
 \index{Pulslose Ventrikuläre Tachykardie}%
 \index{Tachykardie!Pulslose Ventrikuläre}%
 % --- Ende
-\begin{tabulary}{\textwidth}{LLL}\addlinespace\toprule\addlinespace
+\noindent\begin{tabulary}{\textwidth}{LLL}\addlinespace\toprule\addlinespace
 \noindent\TabHeading{Rhythmus}
 & 
 \noindent\TabHeading{Bedeutung}
 & 
 \noindent\TabHeading{Bemerkung}
 \\\addlinespace\midrule\addlinespace
-\TabSub{Bradykardie}
+\noindent\TabSub{Bradykardie}
 
 {\scriptsize (HF\,{\textless}\,60\PerMin*)}
 & 
@@ -1961,7 +1974,7 @@ Situations\-abhängig
 & 
 \emph{\enquote{zu langsam}}
 \\\addlinespace
-\TabSub{Tachykardie} 
+\noindent\TabSub{Tachykardie} 
 
 {\scriptsize (HF\,{\textgreater}\,100\PerMin*) }
 & 
@@ -1969,14 +1982,14 @@ Situations\-abhängig
 & 
 \emph{\enquote{zu schnell}}
 \\\addlinespace\midrule\addlinespace
-\TabSub{Kammerflimmern}
+\noindent\TabSub{Kammerflimmern}
 & Reanimation  & \emph{\enquote{schockbarer}} Rhythmus 
 \\\addlinespace
-\TabSub{Pulslose Ventrikuläre Tachy\-kardie} 
+\noindent\TabSub{Pulslose Ventrikuläre Tachy\-kardie} 
 & Reanimation 
 & \emph{\enquote{schockbarer}} Rhythmus 
 \\\addlinespace
-\TabSub{Asystolie} 
+\noindent\TabSub{Asystolie} 
 
 {\scriptsize (HF\,=\,0)} 
 & 
@@ -1984,7 +1997,7 @@ Reanimation
 & 
 Nulllinie, \emph{\enquote{nicht-schockbarer}} Rhythmus
 \\\addlinespace
-\TabSub{Vorhofflimmern}
+\noindent\TabSub{Vorhofflimmern}
 & regellose Erregung im Vorhof
 
 oft symptomlos 
@@ -1998,12 +2011,12 @@ Risikofaktor für:
 
 \E{Thrombenbildung}, dadurch erhöhtes Lungenembolie- und
 Schlaganfallrisiko. Deshalb Vorbeugung mit
-gerinnungs\-hemmenden (\enquote{blut\-ver\-dünnenden})
-Medi\-ka\-menten:
-z.\,B. \E{\enquote{Marcoumar}} ${\rightarrow}$ Patient ist
+gerinnungs\-hemmenden (\enquote*{blut\-ver\-dünnenden})
+Medi\-ka\-menten
+(z.\,B. Marcoumar{\texttrademark}) ${\rightarrow}$ Patient ist
 blutungsgefährdet
 \\\addlinespace\midrule\addlinespace
-\TabSub{Extrasystole}
+\noindent\TabSub{Extrasystole}
 &
 Extraschläge
 &
@@ -2012,9 +2025,7 @@ Vereinzelt bis \enquote{Salven} möglich
 Von symptom-/bedeutungslos bis lebensbedrohlich
 \\\addlinespace\bottomrule
 \end{tabulary}}
-{Übersicht: Wichtige und häufige
-Herzrhythmusstörungen.\label{tab:herzrhythmusstoerungen}}
-{}
+{H}
 
 
 

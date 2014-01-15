@@ -635,11 +635,13 @@ Download-Bereich verfügbar
 \include{./content/chapter-REG}
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-NWG}} % STATUS-EXPERIMENTAL
 
-% {\WideParBegin}
-\part{\enquote*{Basic}\\ Grundlagen}
-% {\WideParEnd}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Basic}
 \setcounter{chapter}{10}
-% \setcounter{page}{1}
+
+{\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level C}
+}
 
 \include{./content/chapter-JUS}
 \include{./content/chapter-JUF}
@@ -656,14 +658,7 @@ Download-Bereich verfügbar
 \include{./content/chapter-PSI}
 \include{./content/chapter-KOM}
 \include{./content/chapter-PAM}
-
-% {\WideParBegin}
-\part{\enquote*{Basic}\\ Medizinisch-Wissen\-schaft\-licher
-Basisteil}
-% {\WideParEnd}
-\setcounter{chapter}{30}
-% \setcounter{page}{1}
-
+%%%
 \include{./content/chapter-ANA}
 \include{./content/chapter-EIN}
 \include{./content/chapter-DOK}
@@ -688,13 +683,13 @@ Basisteil}
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-SYM}}
 
 
-% {\WideParBegin}
-\part{\enquote*{Intermediate}\\ Erweitertes Wissen}
-% {\WideParEnd}
-\setcounter{chapter}{100}
-% \setcounter{page}{1}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Intermediate}
 
-% \include{./content/chapter-MP2}
+{\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level C}
+}
+
+\setcounter{chapter}{100}
 \include{./content/chapter-ALS}
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-ARZ}} % STATUS-EXPERIMENTAL
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-NKA}}
@@ -704,23 +699,29 @@ Basisteil}
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-SPE}} % STATUS-EXPERIMENTAL
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-WEI}} % STATUS-EXPERIMENTAL
 
-% {\WideParBegin}
-\part{\enquote*{Advanced} (Fortgeschrittenes Wissen)}
-% {\WideParEnd}
-\setcounter{chapter}{200}\setcounter{page}{1}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Advanced}
+
+{\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level E}
+}
 
 \opt{STATUS-EXPERIMENTAL}{\chapter{Präklinische Narkose}\SectionUnderDevelopment} % STATUS-EXPERIMENTAL
 
 \include{./content/chapter-ADVANCED-Atemweg}
 
 \include{./content/chapter-ADVANCED-Fehler}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Expert}\setcounter{chapter}{300}
 
-% \include{./content/inc-RES-ende}
+{\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level F}
+}
 
-\part{Lehrmaterialien}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Extras}\setcounter{chapter}{400}
 
-\include{./content/part-Lehrmaterialien}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/part-Lehrmaterialien}}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \appendix
 % {\WideParBegin}
 \part{Appendix}

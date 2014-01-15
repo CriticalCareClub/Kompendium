@@ -605,31 +605,19 @@ Download-Bereich verfügbar
 {\the\ThirdGrossWidth}
 {\the\ThirdNetWidth}}
 
-% 
 
 
+\listof{fazit}{Merksätze}
 
-
-
-
-% {\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
-% \begin{WidePar}
-{%\small\kern-2.ex
-\listof{fazit}{Merksätze}}
-% \end{WidePar}
-
-% {\WideParBegin}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Allgemeiner Teil}
 
 {\sffamily\noindent}
-% {\WideParEnd}
 
-\include{./content/chapter-TAE} 
-% \include{./content/chapter-NEW}
-% \addtocounter{chapter}{1}
+
+\include{./content/chapter-TAE}
 \include{./content/chapter-LER}
 % Ethik im Rettungsdienst
-% 
 \include{./content/chapter-BET}
 \include{./content/chapter-RWT}
 \include{./content/chapter-REG}
@@ -646,7 +634,6 @@ Download-Bereich verfügbar
 \include{./content/chapter-JUS}
 \include{./content/chapter-JUF}
 \include{./content/chapter-EHI}
-% \include{./content/chapter-AED}
 \include{./content/chapter-MP1}
 \include{./content/chapter-BAU}
 \include{./content/chapter-ASB}
@@ -691,11 +678,8 @@ Download-Bereich verfügbar
 
 \setcounter{chapter}{100}
 \include{./content/chapter-ALS}
-\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-ARZ}} % STATUS-EXPERIMENTAL
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-NKA}}
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-PKU}} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-EKG}} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-WIS}} % STATUS-EXPERIMENTAL
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-SPE}} % STATUS-EXPERIMENTAL
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-WEI}} % STATUS-EXPERIMENTAL
 
@@ -705,11 +689,15 @@ Download-Bereich verfügbar
 {\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level E}
 }
 
+
+\setcounter{chapter}{200}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-ARZ}} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-EKG}} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-WIS}} % STATUS-EXPERIMENTAL
 \opt{STATUS-EXPERIMENTAL}{\chapter{Präklinische Narkose}\SectionUnderDevelopment} % STATUS-EXPERIMENTAL
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-ADVANCED-Atemweg}}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-ADVANCED-Fehler}}
 
-\include{./content/chapter-ADVANCED-Atemweg}
-
-\include{./content/chapter-ADVANCED-Fehler}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Expert}\setcounter{chapter}{300}
 
@@ -723,12 +711,7 @@ Download-Bereich verfügbar
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \appendix
-% {\WideParBegin}
 \part{Appendix}
-% {\WideParEnd}
-%\setcounter{page}{0}
-
-% \pagenumbering[Appendix]{bychapter}
 
  
 \include{./content/chapter-INT}
@@ -736,11 +719,6 @@ Download-Bereich verfügbar
 \include{./content/chapter-GLO}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Kommentare
-% \printnotes
-% \theendnotes
-% \printendnotes[description]
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Literaturverzeichnis
@@ -781,15 +759,6 @@ prenote=bestof]
 {\small\printindex}
 
 
-
-
-%  ist 
-
-
-%  Das \I{\gls{ACS}} ist ein 
-%  \gls{akutes-koronarsyndrom}. Deshalb wird beim \I{\gls{ACS}} auch ein bestimmter Symptomenkomplex beobachtet. Behandelt wird es mittels \T{\gls{PTCA}}.
-
-% \printglossaries 
 
 \input{./content/inc-APP}
 

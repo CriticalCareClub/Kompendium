@@ -65,9 +65,9 @@ toc=flat,
 \usepackage[
 backend=biber,
 natbib=true,
-language=auto,
-clearlang=true,
-% autolang=other,
+language=german,
+% clearlang=true,
+% autolang=langname,
 defernumbers=true,
 sorting=none,
 sortlocale=de,
@@ -82,14 +82,14 @@ sortlocale=de,
 	\addbibresource{BiblioDB-Med-Links.bib}
 	\addbibresource{BiblioDB-Med-Misc.bib}
 	\renewcommand{\labelnamepunct}{\addcolon\space}
-	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
-	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
-	\DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat{title}{\mkbibbold{{#1}}}
+	\DeclareFieldFormat[article]{title}{\mkbibbold{{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{{#1}}}
 	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
 	% 
 	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
-	\DeclareFieldFormat{journaltitle}{\textsc{#1}}
-	\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+	\DeclareFieldFormat{journaltitle}{\mkbibemph{#1}}
+	\DeclareFieldFormat[article]{journaltitle}{\mkbibemph{#1}}
 	\renewcommand{\bibfont}{\normalfont\small}
 	\DeclareBibliographyCategory{PAM}
 	\DeclareBibliographyCategory{BestOf}

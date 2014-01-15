@@ -58,32 +58,7 @@ toc=flat,
 
 \renewcommand{\Abk}[1]{#1} 			% reset Abk
 
-% \usepackage{xr}						% Maßnahmenkatalog: Referenzen zu ext. Dokument
-% % 	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var1-Archiv}}
-% % 	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var2-Archiv}}
-%     \opt{VAR-VAR0}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
-% 	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
-% 	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
 
-% 1: Art der Massnahmen
-% 2: Titel
-% 3: Referenz
-% 4: Text / Taktik
-% 5: Punkte
-\newcommand{\MassnahmenMK}[5]{%
-\Layout{Massnahmen}
-{{\SignMassnahme} {\color{ProceduresBoxBackground}#1:} {\color{ProceduresBase}#2}}
-{~
-\ProceduresTextFont\ProceduresTextStyle\begin{itemize}
-  \item \EE{Grundsätzlich:} #4
-  \item \EE{Maßnahmenkatalog:}
-  \FullPrettyRef{MK-#3}
-\end{itemize}
-}
-{\FontSansNarrowFamily\FullPrettyRef{MK-#3}}
-{}
-{}
-{}}
 
 \newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
 \newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
@@ -129,10 +104,7 @@ sortlocale=de,
 	\newcommand{\bibentry}[1]{\fullcite{#1}}
 	\newcommand{\ChapterBibliography}{\relax}
 	
-	
-	
-% \opt{ORG-ASBOE}{\usepackage{asboe}}
-% \renewcommand{\FontTableBase}{\small\sffamily}
+
 
 % \usepackage[markup=underlined,ulem=normalem]{changes}	
 
@@ -199,26 +171,31 @@ sortlocale=de,
  
 \usepackage{AassStyleCollectionCoverFront}
 
-% \usepackage[xindy]{glossaries}
-% \makeglossary
-
-% % \newglossaryentry{1-E}{name=1-E,description={Einschätzungsblock, 1234ABCDE}}
-
-% \newglossaryentry{akutes-koronarsyndrom}
-% 	{
-% 		name={Akutes Koronarsyndrom},
-% 		description={Symptomkomplex, charakteristisch für eine akute ischämische Herzerkrankung}
-% 	}
-
-% \newacronym{ACS}
-% 	{ACS}
-% 	{Akutes Koronarsyndrom}
-% \newacronym{PCTA}
-% 	{PTCA}
-% 	{\Lang{engl.} Percutan transluminal coronary angioplasty, \Lang{dtsch.} Perkutane transluminale Koronarangioplastie}
 
 
-% \GlsSetXdyCodePage{utf8}
+
+% \titleformat{\part}
+% [display]
+% {\centering\FontSansCaptionFamily\Huge\color{Base}}
+% {\titlerule[5pt]\vspace{3pt}\titlerule[2pt]\vspace{3pt}\MakeUppercase{\color{DefaultRed}{\partname} \thepart}\bfseries}
+% {0pt}
+% {\titlerule[2pt]\vspace{1pc}\huge\MakeUppercase}
+% %
+% \titlespacing*{\part}{0pt}{0pt}{20pt}
+
+% \titleformat{\part}
+% [display]
+% {\centering\FontSansCaptionFamily\Huge\color{Base}}
+% {\titlerule[5pt]\vspace{3pt}\titlerule[2pt]\vspace{3pt}\MakeUppercase{\color{DefaultRed}{\partname} \thepart}\bfseries}
+% {0pt}
+% {\titlerule[2pt]\vspace{1pc}\huge\MakeUppercase}
+% %
+% \titlespacing*{\part}{0pt}{0pt}{20pt}
+%
+
+
+
+
 
 \def\VarColumsLiterary{3}
 % #######################################################################################################

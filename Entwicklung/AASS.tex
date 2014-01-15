@@ -382,7 +382,7 @@ Ausbildungsstandards}
                     (0 pt,8cm -\k *1.2cm) coordinate (d\k)} ;
             \path[clip] (0,0) rectangle (8,8);
             \foreach \k/\t in
-            {1/Name,2/Vorname,3/Kurs,4/DienstNr.}{%
+            {1/Name,2/Vorname,3/Einheit,4/DienstNr.}{%
                 \node[inner sep=0pt,rotate=-45,%
                     right=0.5cm,minimum height=12pt](f\k) at (d\k) {\t};
                 \draw  (f\k.south east)-- (8cm -\k * 1.2cm,-6pt );

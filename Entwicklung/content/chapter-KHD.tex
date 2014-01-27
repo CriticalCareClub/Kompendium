@@ -160,13 +160,22 @@ Hilfe.
 }{\FullPrettyRef{tab:uebersicht-unfall-grossunfall-katastrophe}}{}{}{}
 
 
-
-
-\begin{table}[H]
-\begin{WidePar}
-\FontTableBase
-\Captionof{table}{Übersicht
-Unfall\,--\,Grossunfall\,--\,Katastrophe\label{tab:uebersicht-unfall-grossunfall-katastrophe}}
+% \TableWide
+% 	{<Titel>}%1
+% 	{<Beschreibung>}%2
+% 	{<Label>}%3
+% 	{<Quelle>}%4
+% 	{<Lizenz>}%5
+% 	{<Tabelle>}%6
+% 	{<Float>}%8
+\TableWide
+{Übersicht Unfall\,--\,Grossunfall\,--\,Katastrophe}%1
+{}%2
+{}%3
+{}%4
+{}%5
+{%
+\label{tab:uebersicht-unfall-grossunfall-katastrophe}%
 \small
 \begin{tabularx}{\linewidth}{p{8em}XXX}
 \toprule\addlinespace
@@ -178,7 +187,7 @@ Unfall\,--\,Grossunfall\,--\,Katastrophe\label{tab:uebersicht-unfall-grossunfall
 &
 \noindent\TabHeading{Katastrophe}
 \\\addlinespace\midrule\addlinespace
-\TabSub{Ereignis:}
+\noindent\TabSub{Ereignis:}
  &
 plötzlich, unerwartet
 &
@@ -186,7 +195,7 @@ lokal begrenzt
 &
 (über)-regionales Gebiet
 \\\addlinespace
-\TabSub{Dauer:}
+\noindent\TabSub{Dauer:}
  &
 Minuten bis 1 Std.
 &
@@ -194,7 +203,7 @@ mehrere Stunden
 &
 Tage, Wochen
 \\\addlinespace
-\TabSub{Infrastruktur:}
+\noindent\TabSub{Infrastruktur:}
 
 &
 intakt 
@@ -203,7 +212,7 @@ intakt
 &
 gestört, zerstört
 \\\addlinespace
-\TabSub{Patienten:}
+\noindent\TabSub{Patienten:}
  &
 {\textless} $\sim$\,15 (Richtwert)
 &
@@ -211,7 +220,7 @@ $\geq$ $\sim$\,15 (Richtwert)
 &
 keine bis viele, je nach Art des Ereignisses
 \\\addlinespace
-\TabSub{Erstversorgung:}
+\noindent\TabSub{Erstversorgung:}
  &
 innerhalb von Minuten durch Rettungsdienst nach Regeln der
 Individual\-medizin
@@ -222,7 +231,7 @@ Regeln der Katastrophenmedizin
 innerhalb von Stunden bis Tagen durch KHD\footnotemark{}{}-Einheiten
 nach den Regeln der Katastrophenmedizin
 \\\addlinespace
-\TabSub{Abtransport:}
+\noindent\TabSub{Abtransport:}
  &
 unbehindert, Routinebetrieb mit örtlich vorhandenen Mitteln
 &
@@ -231,7 +240,7 @@ Transportmittel
 &
 stark behindert verzögert, wenige/nicht vorhandene Transportmittel
 \\\addlinespace
-\TabSub{Definitive Versorgung:}
+\noindent\TabSub{Definitive Versorgung:}
  &
 in umliegende Krankenhäuser nach Regeln der Individualmedizin
 &
@@ -240,7 +249,7 @@ in umliegende Krankenhäuser nach den Regeln der Individualmedizin
 auf Verbandsplätzen in Behelfsspitälern, in Lazaretten nach
 Regeln der Katastrophenmedizin
 \\\addlinespace
-\TabSub{Material und Mann\-schaft:}
+\noindent\TabSub{Material und Mann\-schaft:}
  &
 Normalbetrieb Rettungs- und Krankentransport
 &

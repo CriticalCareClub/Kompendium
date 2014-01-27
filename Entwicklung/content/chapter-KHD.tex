@@ -254,8 +254,8 @@ internationale Hilfe
 \\\bottomrule
 \end{tabularx}
 \footnotetext{KHD: Katastrophenhilfsdienst}
-\end{WidePar}
-\end{table}
+}%6
+{H}%8
 
 
 
@@ -382,22 +382,25 @@ erhöhter Bedarf an:
 }{}{}{}
 
 
-\subsection{Grundsätze des Einsatzes}
-\label{topic:einsatzgrundsaetze}
-
-\Fazit{Grundkomponenten: Führung -- Zeit -- Raum} 
-
+\Text{Grundsätze des Einsatzes}
+{%
+\label{topic:einsatzgrundsaetze}%
 Ziel ist es, ohne überstürztes Handeln die Ausdehnung der
 Krisenlage auf benachbarte und andere Räume zu verhindern.
 Dabei wird gemäß der gesetzlichen Bestimmungen von Kräften
 der Einsatzorganisationen, Behörden und anderen
 Einrichtungen koordiniert vorgegangen.
+}
 
-\subsection{Führung}
-\label{topic:katastrophe-fuehrung}
-\Definition{Steuerndes Einwirken auf andere Menschen um ein bestimmtes Ziel zu
-erreichen. }
 
+
+\Fazit{Grundkomponenten: Führung -- Zeit -- Raum} 
+
+\Text{Führung}
+{%
+\label{topic:katastrophe-fuehrung}%
+\DefinitionInPara{Als Führung bezeichnet man das steuernde
+Einwirken auf andere Menschen um ein bestimmtes Ziel zu erreichen. }
 Die Führung ist ein unentbehrliches Steuerungsinstrument zur
 Erfüllung des Einsatzauftrages
 (\enquote{Ziel}) und dem richtigen
@@ -416,33 +419,37 @@ Er muss rasch auf Änderungen der Situation reagieren
 \E{(\enquote{Beweglichkeit})} und
 gleichzeitig vorausschauend handeln
 \E{(\enquote{Reservenbildung})}.
+}
+
 
 \Cave{\enquote{Führen} und
 \enquote{Behandeln} ist nicht gleichzeitig
 möglich!}
 
-\paragraph{Sanitäter und Notärzte müssen Führungsaufgaben
-übernehmen}~
-
+\Text{Sanitäter und Notärzte müssen Führungsaufgaben übernehmen}
+{%
 Der erste am Schadensort eintreffende Sanitäter muss:
 
 \begin{enumerate}
     \item Lagemeldung abgeben
-    \item mit bereits anwesenden Einsatzkräften die ersten
+    \item Erste, vorläufige Grundstrukturen einer SanHiSt
+    aufbauen (provisorischer Einsatzleiter,
+    festlegen von Sammelstellen, Wagenhalteplatz, etc.)
+    \item Mit bereits anwesenden Einsatzkräften die ersten
     Maßnahmen zur Rettung und Behandlung festlegen
-    \item festlegen, wohin die Patienten im Schadensraum
-    gebracht werden sollen (Beginn einer Triage)
-    \item festlegen, der Grundstrukturen einer SanHiSt (Wagenhalteplatz, etc.)
 \end{enumerate}
+}
 
-\subsection{Zeit}
-\label{topic:katastrophe-phasen}
-
+\Text{Zeit}
+{%
+\label{topic:katastrophe-phasen}%
 Jedes Großschadens- oder Katastrophenereignis zeigt unabhängig von seiner
-Ursache i.\,d.\,R. folgenden Zeitablauf:
+Ursache einen charakteristischen Zeitablauf, vgl.
+\FullPrettyRef{tab:khd-einsatz-phasen}.}
 
 \begin{table}[H]\FontTableBase
-\Captionof{table}{Phasen des Einsatzes.}
+\Captionof{table}{Phasen des Einsatzes.
+\lable{tab:khd-einsatz-phasen}}
 
 \begin{tabularx}{\linewidth}{XXX}\toprule\addlinespace
 \noindent\TabHeading{1. Phase}

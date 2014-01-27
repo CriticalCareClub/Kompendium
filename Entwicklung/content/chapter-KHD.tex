@@ -838,14 +838,22 @@ Die Transportpriorität ist \E{unabhängig von der Triagegruppe}!
 {}
 
 
-
-
-
-\begin{table}[H]
-\TableBaseModification\small
-\noindent\begin{WidePar}
-\Captionof{table}{Triagegruppen,
-Übersicht.\label{tab:khd-behandlungsstellen-uebersicht}\label{tab:khd-triagegruppen-uebersicht}}
+% \TableWide
+% 	{<Titel>}%1
+% 	{<Beschreibung>}%2
+% 	{<Label>}%3
+% 	{<Quelle>}%4
+% 	{<Lizenz>}%5
+% 	{<Tabelle>}%6
+% 	{<Float>}%8
+\TableWide
+{Übersicht: Triagegruppen}%1
+{}%2
+{}%3
+{}%4
+{}%5
+{%
+\label{tab:khd-behandlungsstellen-uebersicht}\label{tab:khd-triagegruppen-uebersicht}
 \noindent\begin{tabularx}{\linewidth}{XXXX}\addlinespace\toprule\addlinespace
 \noindent\TabHeading{I: Sofortbehandlung vor Ort}
 &
@@ -959,8 +967,8 @@ Behandlung.
 \\\addlinespace\bottomrule
 
 \end{tabularx}
-\end{WidePar}
-\end{table}
+}%6
+{H}%8
 
 \section{Sanitätshilfsstelle (SanHiSt)}
 \label{topic:sanhist}

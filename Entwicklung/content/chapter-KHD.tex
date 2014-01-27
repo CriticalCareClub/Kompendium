@@ -1013,42 +1013,90 @@ Der Einsatz allgemein wird unterteilt in:
  
 
 
-
-\begin{figure}[H]
-\begin{WidePar}
+% \TableWide
+% 	{<Titel>}%1
+% 	{<Beschreibung>}%2
+% 	{<Label>}%3
+% 	{<Quelle>}%4
+% 	{<Lizenz>}%5
+% 	{<Tabelle>}%6
+% 	{<Float>}%8
+\TableWide
+{Gliederung des Einsatzraumes}%1
+{}%2
+{}%3
+{}%4
+{}%5
+{%
 \begin{Parallel}
-{\includegraphics[width=\linewidth]{./images/khd/sanhist-plan-edited.png}}
-{\begin{description}
-    \item[{\T[Absperrung!äußere@Absperrung!aeussere]{Äußere Absperrung}:}] Großräumige Verkehrsumleitung
-    \item[{\T[Absperrung!innere@Absperrung!innere]{Innere Absperrung}:}] hält Schaulustige fern, hält Personen in Panik
+{%
+% \includegraphics[width=\linewidth]{./images/khd/sanhist-plan-edited.png}%
+\includegraphics[width=\linewidth]{./images/koch-roman-aass/SANHIST}%
+}
+{%
+\begin{itemize}
+  \item Absperrung:
+  \begin{itemize}
+    \item {\T[Absperrung!äußere@Absperrung!aeussere]{Äußere Absperrung}:} Großräumige Verkehrsumleitung
+    \item {\T[Absperrung!innere@Absperrung!innere]{Innere Absperrung}:} hält Schaulustige fern, hält Personen in Panik
     zurück
-    \item[\T{Sicherheitsring}:] Absperrung des Schadenplatzes, Sicherheit für
+    \item \T{Sicherheitsring}: Absperrung des Schadenplatzes, Sicherheit für
     Einsatzkräfte
-    \item[\T{Pforte}:] Einbahnsystem für Einsatz-Kfz, keine Fremdfahrzeuge,
+    \item \T{Pforte}: Einbahnsystem für Einsatz-Kfz, keine Fremdfahrzeuge,
     möglichst nur eine Pforte
-    \item[\T{Leiter Information}] (i) für Weiterleitung von Informationen an die
-    Außenwelt (Presse, Angehörige, ...)
-    \item[\T{Bergetriage}] (BT)
-    \item[\T{Sanitätshilfsstelle} (\T{SanHiSt}):] mit Triageraum, Behandlungsraum und
-    Transportraum;
-    \item[\T{Einsatzleiter}] (EL)
-    \item[\T{Leitender Notarzt}] (LNA)
-    \item[\T{Mobile Leitstelle}] (MLS)
-    \item[\T{Material- und Meldestelle}] (M)
-    \item[\T{Sammelstelle Tote}] (t) und
-    \item[\T{Sammelstelle Unverletzte}] (U)
-\end{description}}
+  \end{itemize}
+  \item \T{Leiter Information} (i) für Weiterleitung von Informationen an die
+  Außenwelt (Presse, Angehörige, ...)
+  \item \T{Bergetriage} (BT)
+  \item \T{Sanitätshilfsstelle} (\T{SanHiSt}):
+  \begin{itemize}
+    \item Triageraum
+    \item Behandlungsraum mit Behandlungsstellen \Range{1}{4}
+    \item Transportraum mit Wagenhalteplatz, Verladestelle, ggfs. Hubschrauberlandeplatz
+  \end{itemize}
+  \item Leitung und Infrastruktur:
+  \begin{itemize}
+    \item \T{Einsatzleiter} (EL)
+    \item \T{Leitender Notarzt} (LNA)
+    \item \T{Material- und Meldestelle} (M)
+  \end{itemize}
+  \item Sammelstellen:
+  \begin{itemize}
+    \item \T{Sammelstelle Tote} (t) und
+    \item \T{Sammelstelle Unverletzte} (U)
+  \end{itemize}
+\end{itemize}%
+% 
+% 
+% 
+% 
+% 
+% 
+% \begin{description}
+%     \item[{\T[Absperrung!äußere@Absperrung!aeussere]{Äußere Absperrung}:}] Großräumige Verkehrsumleitung
+%     \item[{\T[Absperrung!innere@Absperrung!innere]{Innere Absperrung}:}] hält Schaulustige fern, hält Personen in Panik
+%     zurück
+%     \item[\T{Sicherheitsring}:] Absperrung des Schadenplatzes, Sicherheit für
+%     Einsatzkräfte
+%     \item[\T{Pforte}:] Einbahnsystem für Einsatz-Kfz, keine Fremdfahrzeuge,
+%     möglichst nur eine Pforte
+%     \item[\T{Leiter Information}] (i) für Weiterleitung von Informationen an die
+%     Außenwelt (Presse, Angehörige, ...)
+%     \item[\T{Bergetriage}] (BT)
+%     \item[\T{Sanitätshilfsstelle} (\T{SanHiSt}):] mit Triageraum, Behandlungsraum und
+%     Transportraum;
+%     \item[\T{Einsatzleiter}] (EL)
+%     \item[\T{Leitender Notarzt}] (LNA)
+%     \item[\T{Mobile Leitstelle}] (MLS)
+%     \item[\T{Material- und Meldestelle}] (M)
+%     \item[\T{Sammelstelle Tote}] (t) und
+%     \item[\T{Sammelstelle Unverletzte}] (U)
+% \end{description}
+}
 \end{Parallel}
-\Captionof{figure}{Gliederung des Einsatzraumes}
-\end{WidePar}
-\end{figure}
+}%6
+{H}%8
 
-\begin{multicols}{2}
-
-
-
-
-\end{multicols}
 
 
 \Dictum

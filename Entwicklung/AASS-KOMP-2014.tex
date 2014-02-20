@@ -102,21 +102,21 @@ sortlocale=de,
 % 	\end{multicols}
 % 	}
 
-\renewcommand{\MassnahmenNG}[4]
-	{%
-% 	#3
-% 	\par
-	\section{{\color{Indigo}#1:} \E{#2}}\index{#2}#3
-{\CorrectionListsBox#4}
-	}
-
-\renewcommand{\MassnahmenWide}[4]
-	{%
-% 	#3
-% 	\par
-	\section{{\color{Indigo}#1:} \E{#2}}\index{#2}#3
-{\CorrectionListsBox#4}
-	}
+% \renewcommand{\MassnahmenNG}[4]
+% 	{%
+% % 	#3
+% % 	\par
+% 	\section{{\color{Indigo}#1:} \E{#2}}\index{#2}#3
+% {\CorrectionListsBox#4}
+% 	}
+% 
+% \renewcommand{\MassnahmenWide}[4]
+% 	{%
+% % 	#3
+% % 	\par
+% 	\section{{\color{Indigo}#1:} \E{#2}}\index{#2}#3
+% {\CorrectionListsBox#4}
+% 	}
 	
 \usepackage{AassStyleCollectionProcedures}
 \usepackage{AassStyleCollectionCoverFront}
@@ -201,13 +201,67 @@ bindingoffset=1.0cm}
 % 5: Editors
 % 6: Bottom
 % 7: Publisher
+% \CoverFrontMake
+% {Arbeits- und Ausbildungsstandards\\für den Sanitätsdienst}
+% {Kompendium}
+% {Head}
+% {Picture}
+% {Editors}
+% {Bottom}
+% {\ARGE}
+% 
+% 
+% 
+
+
+
+
 \CoverFrontMake
-{Arbeits- und Ausbildungsstandards\\für den Sanitätsdienst}
+{{\color{DefaultA}Arbeits- und
+Ausbildungsstandards}
+
+\bigskip
+
+% {\color{Grey}\hrule}
+% 
+% \bigskip
+
+{\color{DefaultB}für den \color{DefaultRed}Sanitätsdienst}}
 {Kompendium}
-{Head}
-{Picture}
-{Editors}
-{Bottom}
+{Header}
+{%
+	\opt{VAR-VAR0}{{\includegraphics[height=5cm]{./images/hirtler-aass/LageLarynxTubus}}}
+	\opt{VAR-VAR1}{{\includegraphics[height=5cm]{./images/hirtler-aass/LageLarynxTubus}}}
+	\opt{VAR-VAR2}{{\includegraphics[height=5cm]{./images/hirtler-aass/LageLarynxTubus}}}
+	}
+{Gabriel {$\cdot$} Koch {$\cdot$} Emhofer {$\cdot$} Motal {$\cdot$} Steuer}
+{%
+	\begin{multicols}{2}\color{BaseLight}
+		{Mit Beiträgen von }
+		\vspace{0.5em}
+		
+		{\color{Base}Michael Auer\\
+		Lena Hirtler\\
+		Christof Koller\\ 
+		Michael Withofner u.\,a.}
+		\columnbreak
+		
+		% {Version}
+		% \vspace{0.5em}\\
+		{
+		% \textbf{\DocVersion}
+		Version \hfill {\color{Base}\LARGE \DocVersion} \hfill
+		Variante \hfill {\color{Base}\LARGE \DocVariant}
+		
+		({\DocVersionInfo})}
+		
+		\vspace{0.5em}
+		
+		ISBN: {\color{Base}\VarDocIsbn}
+		% 
+		% \today
+	\end{multicols}
+}
 {\ARGE}
 
 \clearpage
@@ -414,80 +468,80 @@ einen Link auf \url{http://creativecommons.org/licenses/by-nd/3.0/at/} einzubind
 {\small\printindex}
 
 
-\chapter{Erste-Hilfe}
-
-
-
-
+% \chapter{Erste-Hilfe}
+% 
+% 
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Bewusstlosigkeit
+% \ProcedurePrintDefault{ER40021A}
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Atem- und Kreislaufstillstand
+% \ProcedurePrintDefault{ER09020A}
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Starke Blutung
+% \ProcedurePrintDefault{ER58XX1A}
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Schock
+% \ProcedurePrintDefault{ER57XX0A}
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Oberflächliche Bagatellverletzungen
+% \ProcedurePrintDefault{ET140X1A}
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Verbrennungen
+% \ProcedurePrintDefault{ET30003A}
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Erfrierungen
+% \ProcedurePrintDefault{ET35071A}
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Unterkühlung
+% \ProcedurePrintDefault{ET68001A}
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Verstauchung
+% \ProcedurePrintDefault{ET14031A}
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Verrenkung
+% \ProcedurePrintDefault{ET14032A}
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Knochenbrüche
+% \ProcedurePrintDefault{ET14200A}
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Vergiftungen
+% \ProcedurePrintDefault{ET65090A}
+% 
+% 
+% % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% % Verätzungen der Haut
+% \ProcedurePrintDefault{ET30041A}
+% 
+% 
 % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Bewusstlosigkeit
-\ProcedurePrintDefault{ER40021A}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Atem- und Kreislaufstillstand
-\ProcedurePrintDefault{ER09020A}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Starke Blutung
-\ProcedurePrintDefault{ER58XX1A}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Schock
-\ProcedurePrintDefault{ER57XX0A}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Oberflächliche Bagatellverletzungen
-\ProcedurePrintDefault{ET140X1A}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Verbrennungen
-\ProcedurePrintDefault{ET30003A}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Erfrierungen
-\ProcedurePrintDefault{ET35071A}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Unterkühlung
-\ProcedurePrintDefault{ET68001A}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Verstauchung
-\ProcedurePrintDefault{ET14031A}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Verrenkung
-\ProcedurePrintDefault{ET14032A}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Knochenbrüche
-\ProcedurePrintDefault{ET14200A}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Vergiftungen
-\ProcedurePrintDefault{ET65090A}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Verätzungen der Haut
-\ProcedurePrintDefault{ET30041A}
-
-
-M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-Verätzungen der Augen
-\ProcedurePrintDefault{ET26090A}
-
+% Verätzungen der Augen
+% \ProcedurePrintDefault{ET26090A}
+% 
 
 % % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
 % % 
@@ -1666,6 +1720,1135 @@ Maßnahmen}{Uterusatonie}{\label{m:uterusatonie}}{
 
 
 % \chapter{Verzeichnisse}
+
+
+\chapter{Assistenztätigkeiten}
+
+
+\section{Arbeiten mit  Medikamenten}
+
+\subsection{Allgemeines zu Medikamenten}
+
+\Text
+{Wirkstoff, Dosis, Konzentration}
+{Bei Medikamenten wird normalerweise die Menge des
+Wirkstoffes (z.\,B. in \Mg) angegeben. Manchmal erfolgt die
+Angabe auch in anderen Einheiten, wie z.\,B. den
+\I{Internationalen Einheiten} (\I{IE}). Bei Ampullen findet sich außerdem auch eine Volumsangabe.
+Aus der Angabe der Wirkstoffmenge und des Volumens kann man
+die Konzentration berechnen.
+
+
+\Layout{57}
+{}
+{}
+{}
+{\begin{tabulary}{\linewidth}{LRRCL}
+\toprule\addlinespace
+\noindent\TabHeading{Form} 	& \noindent\TabHeading{Wirkstoffmenge} 	& \noindent\TabHeading{Volumen} 	& \noindent\TabHeading{Konzentration}							& \noindent\TabHeading{Beispiele}
+\\\addlinespace\midrule\addlinespace
+Ampulle 			& 2\Mg* 						& 20\Ml* 				& 0,1\nicefrac{\Mg}{\Ml} oder 1\nicefrac{\Mg}{10\Ml*}	& L-Adrenalin
+\\
+Ampulle 			& 5\Mg* 						& 5\Ml* 				& 1\,\nicefrac{\Mg}{\Ml}								& Dormicum{\texttrademark}
+\\
+Ampulle 			& 15\Mg* 						& 3\Ml* 				& 5\,\nicefrac{\Mg}{\Ml}								& Dormicum{\texttrademark}
+\\
+Tabletten 			& 500\Mg* 						&						&														& Parkemed{\texttrademark}, Mexalen{\texttrademark}, \ldots
+\\
+
+Trockenstechampulle & 4000 IE						&						&														& Heparin
+\\\addlinespace\bottomrule\addlinespace
+\end{tabulary}}
+{Typische Angaben zu Wirkstoffmenge und Konzentration}
+{}
+
+
+
+
+
+% \begin{itemize}
+%   \item Ampulle mit Wirkstoff 2\Mg* in 20\Ml* {\dotfill}
+%   Konzentration 0,1\nicefrac{\Mg}{\Ml} oder
+%   1\nicefrac{\Mg}{10\Ml*}
+%   \item Ampulle mit Wirkstoff 5\Mg* in 5\Ml* {\dotfill}
+%   Konzentration 1\,\nicefrac{\Mg}{\Ml}
+%   \item Ampulle mit Wirkstoff 15\Mg* in 3\Ml* {\dotfill}
+%   Konzentration 5\,\nicefrac{\Mg}{\Ml}
+%   \item Tabletten mit Wirkstoff 500\Mg* (pro Tablette)
+%   \item Trockenstechampulle mit Wirkstoff 4000 IE
+% \end{itemize}
+
+Viele Medikamente können auch zur besseren Dosierung
+mit \EE{geeigneten Substanzen} (siehe
+Packungsbeilage) verdünnt werden:
+\begin{itemize}
+  \item Ampulle mit Wirkstoff 15\Mg* in 3\Ml* 
+  {\dotfill} Konzentration 5\,\nicefrac{\Mg}{\Ml}
+  \item Obige Ampulle 
+  + 12\Ml* physiologische Kochsalzlösung 
+  (\ce{NaCl} 0,9\PC) 
+  {\dotfill} Konzentration 1\,\nicefrac{\Mg}{\Ml}
+\end{itemize}
+
+Manche Medikamente liegen als \I{Trockensubstanz} in einer
+\I{Trockenstechampulle} vor, welche vor Verwendung erst mit
+einem \EE{geeigneten} Lösungsmittel aufgelöst werden muss.
+Das erforderliche Lösungmittel ist vom Medikament abhängig.
+Bei Verwendung eines falschen Lösungsmittel kann es z.\,B.
+zu Ausflockungen, Wirkminderungen o.\,ä. kommen, das
+Medikament ist damit verdorben und darf keinesfalls
+verwendet werden.
+
+}
+{}
+{}
+{}
+{}
+
+\Cave{Medikamente sind oft auch mit \EE{gleichem Namen} in 
+unterschiedlichen Konzentrationen erhältlich 
+(z.\,B. Dormicum{\texttrademark}, Ketanest{\texttrademark}).}
+\Fazit{Beim Zubereiten bzw. Aufziehen von Medikamenten muss 
+man sehr genau auf die Wirkstoffmenge, das Volumen und die 
+Konzentration achten.}
+\Fazit{Beim Auflösen oder Verdünnen von Medikamenten muss 
+darauf geachtet werden, eine geeignete Flüssigkeit zu verwenden!}
+
+\begin{PictureSeriesWide}{}{Bilderserie: Medikamente \SourcePicture{ASBÖ/gjh}}
+\PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/Medikamente0395_0197-00441pt}
+% {L-Adrenalin \enquote*{Fresenius\texttrademark} 2\Mg* 20\Ml* Ampulle. 
+% Seitlich ist ein roter Punkt angebracht, welcher die Sollbruchstelle anzeigt.}
+{./images/ASBOE-Grassl-gjh-1/suprarenin-freigestellt-borderadded-00441pt}
+{Suprarenin{\texttrademark}-Ampulle
+(1\Mg* Adrenalin in 1\Ml*, dieses Medikament wird oft vor Gebrauch verdünnt);
+Der Punkt zeigt die Sollbruchstelle an.}
+{./images/ASBOE-Grassl-gjh-1/Medikamente0422_0224-00441pt}
+{Beispiel für eine Trockenstechampulle: 
+Solu-Dacortin{\texttrademark} 250\Mg* Trockenstechampulle: 
+\enquote{Zur Injektion nach Auflösen in 5\Mg* Aqua ad injectionem}}
+{./images/ASBOE-Grassl-gjh-1/Medikamente0405_0207-00441pt}
+{Eine Infusionsflasche zur Kurzinfusion mit Glukose 33\PC}
+{}
+{}
+\end{PictureSeriesWide}
+
+\subsection{Verabreichungsarten}
+% \TextSlide{\TxBeschreibung}{
+Es gibt verschiedene Arten Medikamente zu verabreichen. Dies
+kann entweder \II{invasiv} (verletzend) oder
+\II{nicht-invasiv} sein. 
+% }{%
+% \begin{itemize}
+%     \item Invasiv
+%     \item Nicht-invasiv
+% \end{itemize}
+% }
+% {}{}{}
+
+\TextSlide{Invasiv}{%
+\index{Injektion!intravenöse}%
+\index{Injektion!intramuskuläre}%
+\index{Injektion!subkutane}%
+\index{Injektion!intraossär}%
+\index{intravenös}%
+\index{intramuskulär}%
+\index{intraossär}%
+Bei der invasiven Verabreichung wird das Medikament mittels
+einer Kanüle in das jeweilige Gewebe bzw. Gefäß dem
+Patienten injiziert. Diese Verabreichungsarten sind
+i.\,d.\,R.
+den Ärzten, besonders dafür geschulten
+Sanitätern\VARIANT{REG-AUT}{ (NKV)}, diplomiertem
+Krankenpflegepersonal oder Hebammen vorbehalten.
+Die gängigen Injektionsarten sind: 
+
+\begin{itemize}
+  \item \EE{Intravenöse Injektion} (\II{i.\,v.}): Das
+  Medikament wird mittels Kanüle, Venenverweilkanüle
+  o.\,ä. direkt in eine \E{Vene} gespritzt. 
+  \item \EE{Intramuskuläre Injektion} (\II{i.\,m.}): Das
+  Medikament wird in den \E{Muskel} verabreicht.
+  \item \EE{Subkutane Injektion} (\II{s.\,c.}): Die
+  Substanz wird in die Fettschicht  der Unterhaut (Subkutis)
+  eingespritzt.
+  \item Eine Besonderheit ist der \EE{intraossäre Zugang}
+  (\II{i.\,o.}), bei dem die Substanz mittels einer
+  speziellen Kanüle in die Knochenmarkhöhle verabreicht wird.
+\end{itemize}
+
+
+
+}{
+\begin{itemize}
+    \item Intravenös (i.\,v.)
+    \item Intramuskulär (i.\,m.)
+    \item Subkutan (s.\,c.)
+    \item Intraossär (i.\,o.)
+\end{itemize}
+}{
+
+}{}{}
+
+\TextSlide{Nicht invasiv}{
+Bei der nicht invasiven Verabreichung wird das Medikament
+über eine Schleimhaut oder direkt über die Haut aufgenommen.
+Für die \II{orale} Aufnahme muss das Arzneimittel geschluckt
+werden. Bei der \I[sublingual]{sublingualen} Methode kommt
+die Substanz unter die Zunge des Patienten. Bei der
+\I[perkutan]{perkutanen} Verabreichung wird das Medikament
+auf die Haut aufgetragen und aufgenommen.
+}{\begin{itemize}
+    \item Oral
+    \item Sublingual
+    \item Perkutan
+\end{itemize}}{
+
+}{}
+
+
+
+% \clearpage
+\subsection{Aufziehen eines Medikamentes aus einer Ampulle}
+
+\Text{\TxBeschreibung}{Glasmpullen lassen sich
+unterschiedlich öffnen:
+Ampullen mit einem \EE{roten Punkt} haben eine
+\E{Sollbruchstelle}, der Daumen muss beim Aufbrechen auf dem
+roten Punkt liegen. Ampulle mit einem \enquote{\EE{Halsring}}
+können nach allen Richtungen aufgebrochen werden.
+Beim Arbeiten muss besonderes Augenmerk auf eine \EE{sterile
+Arbeitsweise} gelegt werden! Es kann sonst zu Infektionen
+kommen.
+}{}{}{}{}
+
+\begin{ProcedureStepsNoHeading}
+\Text{Material}{
+\begin{compactitem}
+  \item Spritze, passende Größe
+  \item Kanüle(n) 
+  \item Ampulle mit Medikament
+  \item Trockene Tupfer
+  \item Nadelabwurfbehälter
+  \item Ggfs. Verschlussstoppel, Permanentstift
+\end{compactitem}
+}{}{}{}{}
+\end{ProcedureStepsNoHeading}
+
+% \begin{multicols}{2}
+% \Text{Vorgehen}{
+\begin{ProcedureStepsWide}{Vorgehen}
+\begin{enumerate}\CorrectionItemizeBox
+  \item Verschlossene \StepHeading{Ampulle vorzeigen} bevor sie geöffnet wird.
+  \item \StepHeading{Kontrolle} Ablaufdatum und Inhalt: Verfärbung,
+  Ausflockung?
+  \item \StepHeading{Öffnen} der Ampulle:
+  \begin{itemize}
+    \item  Glasampulle:
+
+    Ampullenspitze beklopfen, darauf achten, dass sich
+    keine Flüssigkeit im Ampullenkopf mehr befindet
+
+    Öffnen der Medikamenten-Ampulle mit Tupfer, roter Punkt
+weist zum Körper
+
+    \item Plastikampulle mit
+    \enquote*{Dreh-und-Drink}-Verschluss:
+    Verschlussknopf abdrehen.
+
+  \end{itemize}
+  \item Ampulle abstellen.
+  \item \StepHeading{Spitzenverpackung öffnen}: aufschälen, Spritze in
+  Verpackung lassen.
+  \item \StepHeading{Kanülenverpackung öffnen}: aufschälen 
+  \item \StepHeading{Spritze auf Kanüle}
+  aufstecken.
+  \item \StepHeading{Kanülenabdeckung entfernen} (nicht abdrehen,
+  sondern abziehen!)
+  \item \StepHeading{Kanüle in Ampulle} einführen
+
+  Beim Einführen der Kanüle in die Ampulle den
+    Ampullenrand nicht berühren.
+  \item \StepHeading{Aufziehen} des
+  Medikamentes.
+  \item Verabreichung:
+  \ListBreak{enumerate}{Variante \enquote{Verabreichung über
+  Venenzugang}:}
+    \item Kanüle \EE{händisch abziehen} und in den
+    Nadelabwurfbehälter verwerfen -- \Ca{Keinesfalls Kanüle am
+    Nadelabwurfbehälter abstreifen (Kontamination)!}
+    \item \StepHeading{Entlüften}
+    \item Wird das Medikament nicht sofort verwendet, Spritze mit
+    Stoppel verschließen und Ampulle ankleben
+    \item Spritze übergeben, Ampulle zeigen
+\ListBreak{enumerate}{Variante \enquote{zuspritzen in eine
+Infusionsflasche}:}
+    \item Gummimembran desinfizieren.
+    \item Kanüle nicht bis zum Schaft einstechen.
+    \item Medikament zuspritzen.
+    \item Beschriften der Flasche.
+\ListBreak{enumerate}{Variante \enquote{direktes Spritzen}}
+    \item \StepHeading{Kanülengröße} erfragen
+    \item \StepHeading{Aufziehkanüle} \Ca{händisch} entfernen
+    \item \StepHeading{Entlüften}
+    \item \StepHeading{Spritzkanüle} aufstecken
+    \item Spritze mit Schutzkappe über Kanüle reichen, Ampulle zeigen
+\end{enumerate}
+\end{ProcedureStepsWide}
+% }{}{}{}{}
+
+
+\begin{PictureSeriesWide}{}{Bilderserie: \EEE{Medikament aus
+Ampulle aufziehen} \SourcePicture{Motal}}
+\PictureSeriesRowWide{4}
+{./images/motal-aass/medi-kontrolle_4807-00800.jpg}
+{Kontrolle}
+{./images/motal-aass/medi-aufziehen_4815-00800.jpg}
+{Aufziehen mit Kanüle}
+{./images/motal-aass/medi-kontrollieren_4824-00800.jpg}
+{Übergabe}
+{./images/motal-aass/medi-verabreichen_4826_CLOSEUP-00800.jpg}
+{Verabreichung über Venflon durch befugtes Personal}
+\end{PictureSeriesWide}
+
+
+
+% \clearpage
+\subsection{Vorbereitung einer Infusion}
+\label{topic:infusion}
+
+\begin{ProcedureStepsNoHeading}
+\Text{Material}{%
+\Married{
+\begin{compactitem}
+    \item Infusion (Flasche, Beutel)
+    \item Infusionsbesteck
+    \item Aufhängevorrichtung
+    \item Alkoholhaltiges Desinfektionsmittel
+    \item einige saubere Tupfer
+    \item Permanentmarker
+\end{compactitem}
+}{
+% \centering\includegraphics[width=0.5\linewidth]{./images/infusion_tropfkammer.jpg}
+}
+}
+{}
+{}
+{}
+{}
+\end{ProcedureStepsNoHeading}
+
+\begin{ProcedureStepsWide}[Beim Arbeiten muss besonderes Augenmerk auf eine sterile
+Arbeitsweise gelegt werden!]{Vorgehen}
+
+\begin{enumerate}
+  \item Ggfs. \StepHeading{Aufhängevorrichtung} auf Flasche
+  aufsetzen 
+  \item \StepHeading{Abdeckung} entfernen (Membranschutz)
+  \item Ggfs. \StepHeading{Wischdesinfektion} der Gummimembran
+  
+  Alkoholgetränkter Tupfer kann während weiterer Vorbereitung
+    auf Membran belassen werden.
+  \item \StepHeading{Infusionsbesteck montieren}
+  \begin{enumerate}
+    \item \StepHeading{Durchflußregler schließen} (Radklemme)
+    \item Einstich des Tropfkammerdorns in Infusionsflasche mit
+    geschlossenem Lüftungsventil und geschlossener Radklemme
+    \item Dorn der Tropfkammer und Gummimembran der
+    Infusionsflasche dürfen nicht berührt werden!
+  \end{enumerate}
+  \item \StepHeading{Infusionsschlauch füllen}
+  \begin{enumerate}
+    \item Flasche wenden und hochhalten
+    \item Tropfkammerluftventil öffnen
+    \item Tropfkammer durch Zu\-sam\-m\-en\-drück\-en bis zur Hälfte füllen
+    \item Konusabdeckung des Infusionsschlauchs am anderen
+    Ende muss bei der Belüftung nicht entfernt werden
+    \item Infusionsflasche und Ende des Infusionsschlauchs
+    mit nicht dominanter Hand halten
+    \item Radklemme öffnen
+    \item Infusionsschlauch entlüften
+    \item Radklemme schließen
+  \end{enumerate}
+\end{enumerate}
+\end{ProcedureStepsWide}
+
+
+\clearpage % TEMP temp clearpage
+% \bigskip
+\section{Venenverweilkanüle: Assistenz}
+\label{topic:venflon}
+
+\TextSlide{\TxBeschreibung}{
+% (\enquote{Venflon}): Vorbereitung und Assistenz 
+Periphere Venenverweilkanülen werden routinemäßig zur
+intravenösen Gabe von Medikamenten bzw. Infusionen
+verwendet. Sie bestehen aus einem Kunststoffschlauch, der in
+der Vene zu liegen kommt, und aus einem außenstehenden Teil
+mit einer Konnektionsstelle für Infusionen, sowie oft einem
+Konus mit Rückschlagventil, für die schnelle Gabe von
+Medikamenten. Im Kunststoffschlauch liegt eine
+Führungskanüle (\I{Mandrin}), welche das Durchstechen der
+Haut und der Vene zwecks der Katheterisierung ermöglicht.
+Die Kanüle wird nach Einführen ins Blutgefäß entfernt.
+
+Gebräuchliche Marken sind z.\,B. \I{Venflon{\texttrademark}}
+oder \I{Braunüle{\texttrademark}}. Venenverweilkanülen gibt
+es in verschiedenen Durchmessern, sie sind farbcodiert.
+Normalerweise werden \EE{grüne} Venenverweilkanülen bei
+Erwachsenen verwendet, bzw. rosafarbene bei schlechten
+Venenverhältnissen.
+}{
+\begin{itemize}
+  \item Kunststoffschlauch, der in
+der Vene zu liegen kommt
+\item 
+Konnektionsstelle für Infusionen
+\item Konus mit Rückschlagventil
+\item Führungskanüle (\I{Mandrin})
+\item Verschiedene Größen, farbcodiert.
+Standard: \EE{grün}, rosa bei schlechten
+Venen
+\item Gebräuchliche Marken:
+Z.\,B. \I{Venflon{\texttrademark}},
+\I{Braunüle{\texttrademark}}
+\end{itemize}
+
+}{}{}{}
+
+\begin{figure}[H]
+\includegraphics[width=\linewidth]{./images/demaw/venflon_zerlegt-textwidth.jpg}
+
+\Captionof{figure}{Eine periphere Venenverweilkanüle
+(Venflon\texttrademark), in ihre Einzelbestandteile zerlegt.
+\SourcePicture{DEMAW}}
+\end{figure}
+
+
+
+\begin{table}[H]\TableBaseModification
+\Captionof{table}{Verschiedene Größen von peripheren
+Venenverweilkanülen. \Source{DEMAW}}
+
+\begin{tabular}{m{1.5619999cm}cccll}
+\toprule\addlinespace
+\TabHeading{Farbcode}
+&
+
+&
+\TabHeading{Gauge}
+&
+
+&
+\TabHeading{Länge}
+&
+\TabHeading{Durchfluss}
+\\
+ 		& 				&  			&{\O} \MM 		& \MM  		& [\nicefrac{ml}{min}] 
+\\\addlinespace\midrule\addlinespace
+blau 	& Sehr dünn		& \Z{22} 	&\Z{0,5 x 0,8} 	& \Z{25} 	& \Z{25} 
+\\
+rosa 	& dünn			& \Z{20} 	&\Z{0,7 x 1,0} 	& \Z{32} 	& \Z{55} 
+\\
+grün 	& normal		& \Z{18} 	&\Z{0,9 x 1,2} 	& \Z{40} 	& \Z{90} 
+\\
+weiß 	& dick			& \Z{17} 	&\Z{1,1 x 1,4} 	& \Z{42} 	& \Z{135} 
+\\
+grau 	& Sehr dick		& \Z{16} 	&\Z{1,3 x 1,7} 	& \Z{42} 	& \Z{170} 
+\\
+orange 	& Noch dicker	& \Z{14} 	&\Z{1,6 x 2,1} 	& \Z{42}
+& \Z{265} \\\addlinespace\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{ProcedureStepsNoHeading}
+% \clearpage
+% \begin{multicols}{2}
+\Text{Material}{
+\begin{compactitem}
+  \item Nierentasse
+  \item Staubinde
+  \item Venflon:
+  \begin{compactitem}
+    \item Die Größe (= Farbe) ist vom Durchführenden vorher zu erfragen!
+    \item Die Flügel werden hinunter geklappt
+    \item Die farbige Lasche des Zuspritzventils in rechten Winkel zur
+    Venflonachse stellen
+  \end{compactitem}
+  \item Einmalverschlusskappe (\enquote{roter
+  Stoppel})
+  \item Fixierungspflaster und evtl. zusätzliches
+  Fixationsmaterial
+  \item Trockene Tupfer
+  \item Desinfektions-Tupfer
+  \item Spülung, wahlweise:
+   \begin{itemize}
+    \item Spritze mit \Range{5}{10}\Ml* Spülflüssigkeit
+  (\ce{NaCl} 0,9\PC*), oder
+  \item Infusion
+  \end{itemize}
+  \item 3-Wege-Hahn (optional)
+  \item (Faserschreiber)
+  \item Nadelabwurfbehälter
+\end{compactitem}
+% \end{multicols}
+}{}{}{}{}
+\end{ProcedureStepsNoHeading}
+
+\begin{ProcedureStepsNoHeading}
+% \begin{multicols}{2}
+\Text{Assistenz}{
+\begin{enumerate}
+  \item Ggfs. \StepHeading{3-Wege-Hahn spülen}
+  \begin{itemize}
+    \item Spritze mit Spülflüssigkeit ansetzen und durchspülen 
+    \item Alternativ, bei Verwendung mit Infusion: 3-Wege-Hahn an Infusionsbesteck anschließen und mit Infusionslösung durchspülen
+  \end{itemize}
+  \item \StepHeading{Nadelabwurfbehälter} in Reichweite des  Durchführenden
+  bereitstellen, sodass er später den Mandrin abwerfen kann.
+  \item \StepHeading{Stauschlauch} zureichen
+  \item \Z{Der Durchführende legt nun den Stauschlauch an, staut, und sucht eine passende Vene für die Punktion.}
+  \item \StepHeading{Alko-Tupfer zureichen}: Mit geöffneter Verpackung sodass dieser
+  entnommen werden kann
+  \item \StepHeading{Venenverweilkanüle zureichen}:   
+  An der Schutzkappe halten, sodass der
+  Durchführende die Verweilkanüle abziehen kann
+  \item \Z{Der Durchführende punktiert nun die Vene.}
+  \item \StepHeading{Trockene Tupfer} zureichen
+  \item Je nach Situation 3-Wege-Hahn, Stoppel und Spülung oder Infusionsschlauch
+  zureichen
+  \item \StepHeading{Fixierpflaster} zureichen
+\end{enumerate}
+% \end{multicols}
+}{}{}{}{}
+\end{ProcedureStepsNoHeading}
+
+\begin{PictureSeries}{}{Bilderserie: \EEE{Periphere Venenverweilkanüle}}
+\PictureSeriesRow{2}
+{./images/demaw/Skriptumaegf-img35}
+{Anlage einer periph. Venenverweilkanüle \SourcePicture{DEMAW/Blacky}}
+{./images/demaw/Skriptumaegf-img36}
+{Eine fixierte Venenverweilkanüle mit Infusion
+\SourcePicture{DEMAW/Blacky}} {./images/demaw/venflon_zerlegt}
+{\SourcePicture{DEMAW/Blacky}}
+{empty}
+{}
+\end{PictureSeries}
+
+\A{Butterfly gehört erklärt}
+% TODO Butterfly
+
+
+\clearpage
+% \bigskip
+\section{Endotracheale Intubation: Vorbereitung und
+Assistenz} 
+\label{topic:intubation-assistenz}%
+
+\noindent Bei der endotrachealen Intubation wird ein
+Beatmungsschlauch (\I{Tubus}) über den Mund (seltener über die Nase) durch den
+Rachen und den Kehlkopf in die Luftröhre eingeführt. Er
+ermöglicht die Beatmung des Patienten bei gleichzeitigem
+Freihalten des Atemweges und bietet einen Aspirationsschutz.
+
+\begin{ProcedureStepsWide}[Kontrolle vor Beginn
+der Intubation nicht vergessen!]{Material}
+\begin{enumerate}
+    \item Beatmungsbeutel inkl. passender Beatmungsmaske,
+    Bakterienfilter und Sauerstoffreservoir
+    \item \ce{O2}-Berieselungseinheit und \ce{O2}-Line
+    \item Evtl. Beatmungsgerät
+    \item Absaugeinheit: \par\Ca{Keine Intubation ohne
+    Absaugung!}
+    \item Laryngoskop, bestehend aus:
+    \begin{compactenum}
+        \item Spatel: gebogen oder gerade; Größen 0\,--\,4
+        \item Handgriff mit Batterien
+    \end{compactenum}
+    \Z{Es gibt Warm- und Kaltlichtlaryngoskope.
+    Bei Warmlichtlarynkoskopen befindet sich die Lichtquelle
+    am Spatel, bei Kaltlichtlaryngoskpen befindet sich die
+    Lichtquelle im Handgriff, das Licht wird über Fiberglas
+    in den Spatel geleitet.} \Ca{{\SymbolGefahren}} Daher muss
+    darauf geachtet werden, dass die Spatel mit dem Griff
+    zusammenpassen! Bei Kaltlichtsystemen gibt es ausserdem
+    unterschiedliche Steckverbindungen!
+    
+    \noindent\begin{minipage}{\linewidth}
+\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Testlunge_32902-AASS-0112mm.jpg}
+
+\Captionof{figure}{Laryngoskopgriff und verschiedene Spatel
+\SourcePicture{Ch. Pallinger}}
+\end{minipage}
+    \item (Endotracheal-)Tubus; verschiedene Größen
+    \item Führungsdraht (\T{Mandrin})
+    \item Silikonspray
+    \item Evtl. Magillzange
+    \item Mit Luft gefüllte Spritze zum Cuffen (je
+    nach Tubus, i.\,d.\,R. 10\Ml*)
+    \item Stethoskop
+    \item Beißschutz: Beißkeil oder Guedel-Tubus
+    \item Fixationsmaterial (Breite Heftpflaster, Mullbinde)
+\end{enumerate}
+
+
+\end{ProcedureStepsWide}
+
+
+
+
+
+
+
+
+\Layout{37}{Abbildung}
+{}
+{}
+{./images/pallinger-christoph-aass/Intubation_32939.jpg}
+{Zubehör für die endotracheale Intubation: Absaugeinheit
+mit Absaugkatheter, Magill-Zange, Silikonspray, Tubus,
+Führungsdraht, Blockerspritze (10\Ml*), verschiedene Spatel,
+Laryngoskop, Guedel-Tuben, Beißkeil, Beatmungsbeutel mit
+Bakterienfilter, Maske und \ce{O2}-Line, Fixationsmaterial,
+Stethoskop.}
+{Ch.
+Pallinger}
+
+\clearpage
+
+
+
+% \MarginBoxFilledRounded{Vorbereitung}{}
+
+\begin{ProcedureStepsWide}{Vorbereitung}
+\begin{enumerate}
+  \item \StepHeading{Spatelgröße} erfragen
+  \item \StepHeading{Tubusgröße} erfragen
+  \item \StepHeading{Funktionskontrolle} Laryngoskop (Spatel und
+  Griff) zusammenbauen, Funktionskontrolle (Licht)
+  
+  Ebenso müssen alle möglicherweise benötigten Spatel
+  (zumindest $\pm$ 1 Größe und die entsprechenden
+  gebogenen bzw. geraden Spatel) mit dem
+  vorhandenen Laryngoskopgriff geprüft werden (Lichtquelle
+  bei Warmlichtgeräten, passende Verbindung bei Kaltlichtgeräten)
+  \item Tubusverpackung aufschälen, Tubus aber in der Verpackung belassen
+  \item \StepHeading{Cuff-Dichtigkeit} prüfen: test\-weise aufblasen
+  \item \StepHeading{Führungsdraht} (Mandrin) mit Silikonspray
+  einsprühen\ACh{HART}{0.8.0}{Mandrin auch mit Silikon einsprühen} und
+  einführen. Die Spitze muss bis zum Tubusende vorgeschoben vorgeschoben
+  werden, darf aber nicht herausragen.
+  \item \StepHeading{Cuff} mit Silikonspray einsprühen
+  \item \StepHeading{Stethoskop}: Funktion prüfen
+  \item \StepHeading{Absaugungebreitschaft} herstellen:
+  \begin{enumerate}
+    \item Passenden Absaugkatheter wählen
+    \item Verpackung teilweise aufschälen um Anschluss
+    freizulegen, Katheter in der Verpackung belassen
+    \item Katheter anschließen
+    \item Gerät einschalten
+    \item Funktionskontrolle: Saugstärke?
+    Batteriewarnung?
+    \item Absaugeinheit muss in Griff\-weite des Assistenten
+    positioniert werden!
+  \end{enumerate}
+  \item \StepHeading{Beatmungsbeutel} zusammenbauen und an
+  \ce{O2}-Berieselungseinheit anschließen
+  \item Restliches Material bereitlegen (z.\,B. in Nierentasse)
+  \ListBreakHard[Für nicht-ärztliches
+  Personal]{enumerate}{Assistenz}
+  \item \StepHeading{Material-Vollständigkeit} prüfen
+  \item \StepHeading{Sauerstoffberieselung} einschalten und auf
+  15{\LPerMin*} einstellen, Reservoir des Beatmungsbeutels
+  füllen
+  \item Durchführendem melden, dass alle Materialien bereit sind
+  \item \Z{Evtl. werden jetzt von einem Arzt Medikamente
+  verabreicht, die die Intubation ermöglichen. Der
+  Durchführende wird nun einige Zeit den Patienten mittels
+  Beutel-/Masken-Beatmung beatmen (sofern nicht bereits
+  geschehen).}
+  \item \StepHeading{Laryngoskop zureichen}: in die \E{linke (!)}
+  Hand zureichen\footnote{Es ist egal, ob der Durchführende
+  Rechts- oder Linkshänder ist, das Laryngoskop wird
+  \E{immer in der linken Hand} gehalten.}
+  \item Auf Anweisung \emph{\enquote{Kehlkopfdruck},
+  \enquote{Krikoiddruck}} auf den Kehlkopf drücken
+  \item \StepHeading{Tubus zureichen}: in die \E{rechte (!)} Hand
+  \item Auf Anweisung absaugen
+  \item Beatmungsmaske vom Beatmungsbeutel trennen
+  \item \Z{Durchführender intubiert und entfernt Führungsdraht (Mandrin)}
+  \item \StepHeading{Cuffen}: Mit luftgefüllter Spritze Cuff
+  aufblasen
+  \item \StepHeading{Beatmungsbeutel} an Tubus anschließen
+  \item \StepHeading{Stethoskop} dem Durchführenden in die Ohren
+  klemmen
+  \item \StepHeading{Lagekontrolle} mittels Auskulatation: Es werden
+  3 Atemhübe verabreicht, wobei das Stethoskop über über dem Magen, linkem Lungenflügel und
+  rechtem Lungenflügel positioniert wird. Es wird dabei
+  überprüft ob der Tubus richtig liegt.
+  \item Der Durchführende übernimmt die Beatmung.
+  \item Einführen des \StepHeading{Beißkeils} oder des Guedel-Tubus
+  \item \StepHeading{Fixierung} des Tubus und des Beißschutzes
+  mittels Mullbinde, Klebestreifen oder speziellen
+  Fixationsmaterialien
+  \item \Z{Ggfs. Beatmungsgerät einstellen und
+  anschließen}
+\end{enumerate}
+\end{ProcedureStepsWide}
+% }{}{}{}{}
+
+
+% \begin{PictureSeriesWide}{}{Bilderserie: Intubation \SourcePicture{Motal}}
+% \PictureSeriesRowWide{4}
+% {./images/motal-aass/intubation/dsc_4829-AASS-0030mm}
+% {Zusammenbauen des Laryngoskops}
+% {./images/motal-aass/intubation/dsc_4831-AASS-0030mm}
+% {Einsprühen des Tubus \E{in der Verpackung}}
+% {./images/motal-aass/intubation/dsc_4834-AASS-0030mm}
+% {Präoxygenierung}
+% {./images/motal-aass/intubation/dsc_4835-AASS-0030mm}
+% {Zureichen des Laryngoskops}
+% \PictureSeriesRowWide{4}
+% {./images/motal-aass/intubation/dsc_4837-AASS-0030mm}
+% {Zureichen des Tubus}
+% {./images/motal-aass/intubation/dsc_4839-AASS-0030mm}
+% {Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus}
+% {./images/motal-aass/intubation/dsc_4841-AASS-0030mm}
+% {Cuffen nach Entfernung des Führungsdrahtes}
+% {./images/motal-aass/intubation/dsc_4843-AASS-0030mm}
+% {Stethoskop zureichen}
+% \PictureSeriesRowWide{4}
+% {./images/motal-aass/intubation/dsc_4844-AASS-0030mm}
+% {Abhören des Patienten}
+% {./images/motal-aass/intubation/dsc_4847-AASS-0030mm}
+% {Beißkeil (hier: Guedel-Tubus) einführen}
+% {./images/motal-aass/intubation/dsc_4849-AASS-0030mm}
+% {Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!}
+% {empty}
+% {}
+% \end{PictureSeriesWide}
+
+\begin{PictureSeriesWide}{}{Bilderserie: \EEE{Intubation} \SourcePicture{Motal}}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/intubation/dsc_4829-AASS-0030mm}
+{Zusammenbauen des Laryngoskops}
+{./images/motal-aass/intubation/dsc_4831-AASS-0030mm}
+{Einsprühen des Tubus \E{in der Verpackung}}
+{./images/motal-aass/intubation/dsc_4834-AASS-0030mm}
+{Präoxygenierung}
+{empty}
+{}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/intubation/dsc_4835-AASS-0030mm}
+{Zureichen des Laryngoskops (\EE{linke} Hand!)}
+{./images/motal-aass/intubation/dsc_4837-AASS-0030mm}
+{Zureichen des Tubus (\EE{rechte} Hand!)}
+{./images/motal-aass/intubation/dsc_4839-AASS-0030mm}
+{Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus}
+{empty}
+{}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/intubation/dsc_4841-AASS-0030mm}
+{Cuffen nach Entfernung des Führungsdrahtes}
+{./images/motal-aass/intubation/dsc_4843-AASS-0030mm}
+{Stethoskop zureichen}
+{./images/motal-aass/intubation/dsc_4844-AASS-0030mm}
+{Abhören des Patienten}
+{empty}
+{}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/intubation/dsc_4847-AASS-0030mm}
+{Beißkeil (hier: Guedel-Tubus) einführen}
+{./images/motal-aass/intubation/dsc_4849-AASS-0030mm}
+{Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!}
+{empty}
+{}
+{empty}
+{}
+\end{PictureSeriesWide}
+
+\normalfont
+
+
+
+\chapter{Bilderserie}
+
+\subsection{Helmabnahme und manuelle HWS-Stabilisierung}
+\label{topic:helmabnahme}
+\label{topic:hws-stabilisierung-manuell}
+\index{Helmabnahme}
+\index{HWS!manuelle Stabilisierung}
+
+
+\Text{\TxBeschreibung}
+{Ein Patient mit aufgesetztem Sturzhelm stellt eine 
+besondere Herausforderung dar. Der Sturzhelm ist
+grundsätzlich immer abzunehmen! }{}{}{}{}
+
+\begin{ProcedureStepsNoHeading}
+\Text{Material und Personal}{
+\begin{compactitem}
+\item 2 Helfer ({\color{HelferA}\E{hinterer} Helfer},
+{\color{HelferB}\E{seitlicher} Helfer})
+\item 1 HWS-Schiene 
+\end{compactitem}
+}{}{}{}{}
+
+
+% \begin{multicols}{2}
+\Text{Vorgehen}{
+\begin{enumerate}
+  \item \EE{Dem Patient
+  in Blickrichtung nähern, um
+  unnötige Bewegungen des Kopfes zu vermeiden, und
+  gleichzeitig auffordern den Kopf nicht zu bewegen.}
+    \item {\color{HelferA}\EE{Fixieren}: Der \E{hintere}
+    Helfer fixiert den Helm von hinten und lässt nicht mehr
+    los, bis der Helm entfernt ist. Zwischen Helm und
+    Schritt eine Helmhöhe Abstand lassen, damit der Helm in
+    einer Bewegung abgezogen werden kann.}
+    \item {\color{HelferB}\EE{Ansprechen}: Der
+    \E{seitliche} Helfer spricht den Patienten von vorne an, öffnet
+    Visier und Kinnriemen.}
+    \item {\color{HelferB}Der \E{seitliche} Helfer
+    \EE{stabilisiert} den Kopf während der Helmabnahme: eine
+    Hand fasst mit Daumen und Zeigefinger das Unterkiefer
+    (\I{C-Griff}), die andere Hand stützt den Kopf von
+    unten.}
+    \item {\color{HelferA}\EE{Helm abziehen}: Der
+    \E{hintere} Helfer zieht den Helm in einer
+    \EE{S-förmigen Bewegung} ab: den Helm \EE{zuerst kippen
+    bis die Nasenspitze} sichtbar ist, dann die Unterkante
+    in der \EE{gegengleichen Bewegung} zum Helfer bewegen.}
+    
+    {\color{HelferB}Während der Helm abgezogen wird,
+    rutscht der \E{seitliche} Helfer mit seiner Haltehand
+    etwas nach.}
+    \item {\color{HelferA}Der \E{hintere} Helfer zieht den
+    Helm sanft fertig ab und legt ihn sicher ab.}
+    \item {\color{HelferA}\EE{Der \E{hintere} Helfer
+    übernimmt den Kopf} im doppelten C-Griff: Daumen und
+    Zeigefinger um ein Ohr. Der Kopf darf
+    \EE{\E{nicht} auf Zug} gehalten werden, die \Abk{HWS}
+    darf \EE{nicht gestaucht} werden.
+    Der Kopf wird in
+    Neutralposition
+    stabilisiert. \cite{ITLSde6,AsboeLehrmeinungRd2011-07}
+    \Commentary[HWS-Immobilisation / Zug]{ASBÖ: Nach der
+    Lehrmeinung 07/2011 vom 01.02.2011
+    \cite{AsboeLehrmeinung2011-07} darf der Kopf nicht mehr
+    unter Zug gehalten werden. Dies ist konsistent mit
+    \Abk{ITLS} (6.\,A.)
+    \cite{ITLSde6}}}
+    \item {\color{HelferB}Der \E{seitliche} Helfer legt
+    eine \Abk{HWS}-Schiene an
+    (\FullPrettyRef{topic:hws-schiene-anlegen}).}
+\end{enumerate}
+% \end{multicols}
+}{}{}{}{}
+\end{ProcedureStepsNoHeading}
+
+\begin{PictureSeriesWide}{}{Bilderserie: Helmabnahme und Anlage
+einer HWS-Schiene \SourcePicture{Motal}\label{fig:helmabnahme-hws-schiene}\label{fig:hws-schiene-anlegen}}
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/helm1.jpg}%1
+{Während des Annäherns den Patient auffordern, den Kopf nicht zu bewegen.}
+{./images/motal-aass/00800/helm2.jpg}%2
+{Den Kopf sofort mit den Händen fixieren, Visier öffnen und Patienten ansprechen.}
+{./images/motal-aass/00800/helm3.jpg}%3
+{Ggfs. Patient synchron und schonend auf den Rücken drehen.}
+{empty}%4
+{}
+
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/helm4.jpg}%1
+{Ggfs. Brille entfernen, Kinnriemen öffnen und behindernde
+Kleidung entfernen.}
+{./images/motal-aass/00800/helm5.jpg}%2
+{Halswirbelsäule stabilisieren.}
+{./images/motal-aass/00800/helm6.jpg}%3
+{Helm kippen bis von oben die Nasenspitze sichtbar ist,
+danach vorsichtig nach hinten wegziehen}
+{empty}%4
+{}
+
+\PictureSeriesRowWide{3}
+{./images/motal-aass/00800/helm7.jpg}%1
+{Nach dem Abziehen Stabilisierung des Kopfes übernehmen. Keinen Zug und keine Stauchung ausüben!}
+{./images/motal-aass/00800/helm8.jpg}%2
+{Nach der Helmabnahme erfolgt sofort das Anlegen einer
+HWS-Schiene. Der Kopf bleibt in Neutralposition zug- und
+stauchungsfrei fixiert. Die passende Größe der HWS-Schiene
+wird bestimmt und eingestellt.}
+{./images/motal-aass/00800/hwsschiene3.jpg}%3
+{HWS-Schiene zuerst unter dem Patienten durchführen, danach
+am Kinn anlegen.}
+{empty}%4
+{}
+\end{PictureSeriesWide}
+
+
+
+
+\subsection{Druckverband}
+\label{topic:druckverband}\index{Druckverband!anlegen}
+
+\Text{\TxBeschreibung}{%
+Der Druckverband dient der Stillung einer starken Blutung.
+}{}{}{}{}
+
+\begin{ProcedureStepsNoHeading}
+\Text{Material und Personal}{%
+\begin{compactitem}
+    \item \VonBis{1}{2} Helfer
+    \item Sterile Wundauflage je nach Wundgröße
+    \item Druckkörper: z.\,B. Mullbinde
+    \item Verbandsmaterial (Dreiecktuchkrawatte)
+\end{compactitem}
+}{}{}{}{}
+
+
+% \begin{multicols}{2}
+\Text{Vorgehen}{
+\begin{enumerate}
+    \item Sofort bei Erkennen einer \E{starken} Blutung
+    durch direkten Druck auf die Wunde und Hochhalten die
+    Blutung verlangsamen (Der Patient kann dies je nach Zustand
+    unter Anleitung selbst tun).
+    \item Sterile Wundauflage auf die Wunde legen.
+    \item Druckkörper dem Wundverlauf folgend über die sterile
+    Wundauflage legen, weiterhin drücken.
+    \item Mit einem möglichst starren Verband\footnote{Druckverband: Unter Umständen ist die Verwendung von
+    flexiblen Verbandsmaterial (z.\,B.
+    PehaHaft{\texttrademark}) ausreichend bzw. je nach Wundlokalisation zu bevorzugen.} (z.\,B.
+    Dreiecktuchkrawatte) wird der Druckkörper fest und
+    möglichst vollständig umschlungen. 
+    \item Das Verbandsmaterial wird festgezogen und mit einem festen Knoten und Gegenknoten bei
+    ausreichendem Druck direkt über der Wunde fixiert.
+    \item Sollte die Blutung zu einem späteren Zeitpunkt wieder
+stärker werden oder der Druckverband zu locker angelegt
+sein wird ein \EE{weiterer} Druckkörper mit einer
+weiteren Dreiecktuchkrawatte noch fester angelegt. \EE{Ein
+schon angelegten Druckverband wird nicht wieder geöffnet!}
+\end{enumerate}
+% \end{multicols}
+}{}{}{}{}
+\end{ProcedureStepsNoHeading}
+
+\begin{PictureSeriesWide}{}{Bilderserie: \StepHeading{Druckverband} \SourcePicture{ASBÖ/gjh}}
+\PictureSeriesRowWide{3}
+{./images/ASBOE-Grassl-gjh-1/Baustelle_05-00441pt}
+{Die wichtigste Maßnahme bei einer blutenden Wunde ist das Hochlagern und Abdrücken unter Beachtung des Selbstschutzes (Schutzhandschuhe).}
+{./images/ASBOE-Grassl-gjh-1/Verband_02-00441pt}
+{Es folgt die Anlage eines Druckverbandes: Erst wird eine sterile Aundauflage aufgelegt, {\ldots}}
+{./images/ASBOE-Grassl-gjh-1/Verband_03-00441pt}
+{{\ldots} darüber ein Druckkörper.}
+{}
+{}
+\PictureSeriesRowWide{3}
+{./images/ASBOE-Grassl-gjh-1/Verband_05-00441pt}
+{Mit einem möglichst starren Verband (z.\,B. Dreiecktuchkrawatte) wird der Druckkörper umschlungen. U.\,U. ist auch flexibles Verbandsmaterial (z.\,B. PehaHaft{\texttrademark}) ausreichend.}
+{./images/ASBOE-Grassl-gjh-1/Verband_07-00441pt}
+{Anschließend wird der Knopf oberhalb der Wunde geknüpft.}
+{./images/ASBOE-Grassl-gjh-1/Baustelle_09-00441pt}
+{Danach wird die Verletzte Extremität sofern möglich hochgelagert.}
+{}
+{}
+\end{PictureSeriesWide}
+
+
+
+\chapter{Advanced Life Support}
+
+
+\Layout{57}
+{}
+{}
+{}
+{%
+\begin{tabulary}{\linewidth}{lLLL}
+\toprule\addlinespace
+\noindent\TabHeading{Wirkstoff}
+&
+\noindent\TabHeading{Erläuterungen}
+&
+\noindent\TabHeading{Indikation}
+&
+\noindent\TabHeading{Spezialitäten}
+\\\addlinespace\midrule\addlinespace
+\noindent\TabSub{Adrenalin}
+&
+Vasokonstriktor
+&
+Schockbarer Rhythmus
+
+Nicht-Schockbarer Rhythmus
+&
+\noindent\RaggedRight\Z{L-Adrenalin Fresenius{\texttrademark} 2\Mg*\,/\,20\Ml*
+
+L-Adrenalin Fresenius{\texttrademark} 0,5\Mg*\,/\,5\Ml*
+
+Suprarenin{\texttrademark} 1\Mg*\,/\,1\Ml*}
+\\\addlinespace
+\noindent\TabSub{Amiodaron}
+&
+Anti\-ar\-rhythmi\-kum
+
+Kl. III
+&
+Schockbarer Rhythmus
+&
+\noindent\RaggedRight\Z{Sedacoron{\texttrademark} 150\Mg*\,/\,3\Ml*}
+\\\addlinespace
+\noindent\TabSub{\Z{Atropin}}
+&
+\noindent\Z{Anti\-para\-sym\-patho\-mi\-meti\-kum}
+&
+\noindent\Z{Nicht-Schockbarer Rhythmus (seit 2010 nicht mehr
+Standard)}
+&
+\noindent\RaggedRight\Z{Atropinum sulfuricum Nycomed{\texttrademark} 0,5\Mg*\,/\,1\Ml*}
+\\\addlinespace\bottomrule
+\end{tabulary}
+}
+{Übersicht: Die wichtigsten bei der
+Reanimation eingesetzten
+Medikamente.}
+{}
+
+
+
+\begin{PictureSeriesWide}{}{Medikamente bei der Reanimation (Amiodaron nicht abgebildet) \SourcePicture{ASBÖ/gjh}}
+\PictureSeriesRowWide{3}
+{./images/ASBOE-Grassl-gjh-1/Medikamente0395_0197-00441pt}
+{L-Adrenalin \enquote*{Fresenius\texttrademark} 2\Mg* 20\Ml* Ampulle.}
+{./images/ASBOE-Grassl-gjh-1/suprarenin-freigestellt-borderadded-00441pt}
+{Suprarenin{\texttrademark}-Ampulle
+(1\Mg* Adrenalin in 1\Ml*, dieses Medikament wird vor Gebrauch verdünnt)}
+{./images/ASBOE-Grassl-gjh-1/Medikamente0465_0267-00441pt}
+{Eventuell ultima ratio zur Behandlung reversibler Ursachen: Lyse}
+{}
+{}
+\end{PictureSeriesWide}
+
+
+
+
+\Layout{57}
+{}
+{}
+{}
+{
+\begin{tabularx}{\linewidth}{XXX}
+\toprule\addlinespace
+\noindent\TabHeading{Medikament}
+&
+\noindent\TabHeading{Schockbar}
+&
+\noindent\TabHeading{Nicht-schockbar}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Adrenalin}
+&
+\EE{1\Mg*} \Abk{IV}
+
+\E{nach} dem 3., 5., 7.,~{\ldots} Schock
+&
+\EE{1\Mg*} \Abk{IV}
+
+ab Zugang, alle \VonBis{3}{5} Minuten
+\\\addlinespace
+\TabSub{Amiodaron}
+&
+\EE{300\Mg*} \Abk{IV}
+
+einmalig \E{nach} dem {3.} Schock
+&
+---
+\\\addlinespace\bottomrule
+\end{tabularx}
+}
+{Standard-Reanimationsmedikamente ERC {2010} (vereinfacht)}
+{}
+
+
+\begin{PictureSeriesWide}{}{Es war einmal: Bekannte Medikamente, welcher nicht mehr Standard bei einer Reanimation sind \SourcePicture{ASBÖ/gjh}}
+\PictureSeriesRowWide{3}
+{./images/ASBOE-Grassl-gjh-1/Medikamente0426_0228-00441pt}
+{Nicht mehr Standard bei der Reanimation: Atropin}
+{./images/ASBOE-Grassl-gjh-1/Medikamente0398_0200-00441pt}
+{Auch nicht mehr Standard: Natrium-Bikarbonat (NaBic)}
+{empty}
+{}
+{}
+{}
+\end{PictureSeriesWide}
+
+\subsection{Reversible Ursachen}
+
+Es gibt acht klassische Ursachen eines
+Herz-Kreislaufstillstandes, welche grundsätzlich behebbar
+(reversibel) sind:
+
+\begin{multicols}{2}
+\TableBaseModification
+\begin{itemize}
+  \item \EE{\Ca{H}ypoxie}
+
+  (z.\,B. Atemwegsverlegung),
+  \item \EE{\Ca{H}ypovolämie}
+
+  (z.\,B. Blutung durch Trauma,   GI-Blutung, Aneurysmaruptur),
+  \item \EE{\Ca{H}ypo-/Hyperkaliämie}
+
+  (z.\,B. metabolische Störung),
+  \item \EE{\Ca{H}ypothermie}
+
+  (z.\,B. Ertrinkungsunfall)
+  \item \EE{\Ca{H}erzbeuteltamponade}
+
+  (z.\,B. Thoraxtrauma durch Stich oder Schuss)
+  \item \EE{\Ca{I}ntoxikation}
+
+  (z.\,B. Opiate, trizyklische Antidepressiva)
+  \item \EE{\Ca{T}hromboembolie}
+
+  (Lungenembolie, Herzinfarkt)
+  \item \EE{\Ca{S}pannungspneumothorax}
+\end{itemize}
+\end{multicols}
+
+
+\noindent \Sign{→} \T{4 H + HITS}
+
+\clearpage
+\begin{figure}
+\begin{WidePar}
+\begin{center}
+\Captionof{figure}{Algorithmus Advanced Live Support (\Abk{ALS})}
+
+\includegraphics[scale=1]{./images/emhofer-josef-aass/ALS}
+\end{center}
+\end{WidePar}
+\end{figure}
+
+\Picture
+	{ALS}%1
+	{Der ALS-Algorithmus}%2
+	{fig:als}%3
+	{Emhofer}%4
+	{AASS}%5
+	{./images/emhofer-josef-aass/ALS}%6
+	{1}%7
+	{H}%8
+	
+	
+\begin{figure}[H]
+    \includegraphics[width=10cm]{./images/anatomie/Human_skeleton_front-edited.pdf}
+    \Captionof{figure}{\AuthNotesPicLegalOk{}{ PD }Das Menschliche Skelett.
+    \SourcePicture{Mariana Ruiz Villarreal, Public domain}}
+
+\end{figure}
 
 
 

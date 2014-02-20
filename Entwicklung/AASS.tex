@@ -691,13 +691,15 @@ Download-Bereich verfügbar
 }
 
 
-\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-ARZ}} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-EKG}} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-WIS}} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\chapter{Präklinische Narkose}\SectionUnderDevelopment} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-ADVANCED-Atemweg}}
-\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-ADVANCED-Fehler}}
 \setcounter{chapter}{300}
+\opt{STATUS-EXPERIMENTAL}{
+	\include{./content/chapter-ARZ}
+	\include{./content/chapter-EKG}
+	\include{./content/chapter-WIS}
+	\chapter{Präklinische Narkose}\SectionUnderDevelopment
+	\include{./content/chapter-ADVANCED-Atemweg}
+}% STATUS-EXPERIMENTAL
+	\include{./content/chapter-ADVANCED-Fehler}
 \include{./content/chapter-ADVANCED-Ischaemische-Herzerkrankungen}
 \include{./content/chapter-ADVANCED-Artikel}
 
@@ -706,11 +708,17 @@ Download-Bereich verfügbar
 
 {\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level F}
 }
+\include{./content/chapter-EXPERT-Wundauflagen}
+\include{./content/chapter-EXPERT-Antikoagulantien}
+\include{./content/chapter-EXPERT-Artikel}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Extras}\setcounter{chapter}{500}
 
-\opt{STATUS-EXPERIMENTAL}{\include{./content/part-Lehrmaterialien}}
+\include{./content/chapter-EXPERT-Narkose}
+% \opt{STATUS-EXPERIMENTAL}{%
+\include{./content/part-Lehrmaterialien}
+%}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \appendix

@@ -111,13 +111,14 @@
 
 %%% FOOTER %%%
 % center
-\fancyfoot[CE,CO]{{{\sffamily\tiny  \DocVersionInfo}}}
+% \fancyfoot[CE,CO]{{{\sffamily\tiny  \DocVersionInfo}}}
 % odd
 \fancyfoot[LO,RE]{{\noindent\DocGitCommitTiny}}
-\fancyfoot[LO,RE]{{\noindent\tiny\FontSchemeCode}}
-\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\DocVersion}~ \AASS{}}}
+% \fancyfoot[LO,RE]{{\noindent\tiny\FontSchemeCode}}
+\fancyfoot[LO,RE]{{{\sffamily\tiny  \DocVersionInfo}}}
+\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\VarVersionStringFull}~ \AASS{}}}
 % even
-\fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\tiny \DocVersion~~|~~\url{http://www.aass.at}}}
+\fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\tiny \VarVersionStringFull~~|~~\url{http://www.aass.at}}}
 
 % %%% OVERWRITE SETTINGS FOR DRAFT %%%
 % \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \textbf{Nur für den internen Gebrauch!}}}
@@ -130,9 +131,9 @@
 \fancyfoot[CE,CO]{{{\noindent\sffamily\tiny\color{AsboeGreyLight}\DocVersionInfo~~|~~{\noindent\DocGitCommitTiny}}}}
 % odd
 \fancyfoot[LO]{{\noindent\sffamily\tiny\color{AsboeGreyLight}\url{http://www.aass.at}~~$\cdot$~~\url{http://www.samariterbund.net}}}
-\fancyfoot[RO]{{\noindent{\sffamily\tiny\color{AsboeGreyLight}\DocVersion}~~\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~ }}
+\fancyfoot[RO]{{\noindent{\sffamily\tiny\color{AsboeGreyLight}\VarVersionStringFull}~~\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~ }}
 % even
-\fancyfoot[LE]{{\noindent\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~~\sffamily\tiny\color{AsboeGreyLight}\DocVersion}}
+\fancyfoot[LE]{{\noindent\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~~\sffamily\tiny\color{AsboeGreyLight}\VarVersionStringFull}}
 \fancyfoot[RE]{{\noindent\sffamily\tiny\color{AsboeGreyLight}\url{http://www.aass.at}~~$\cdot$~~\url{http://www.samariterbund.net}}}
 }
 

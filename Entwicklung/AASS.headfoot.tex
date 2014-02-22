@@ -25,68 +25,6 @@
 
 
 
-
-
-
-
-
-% \usepackage[scaled]{helvet}
-
-% % TikZ-Pakete
-% \usepackage{tikz}
-% \usetikzlibrary{positioning,backgrounds,shapes}
-% 
-% % Kopf- und Fußzeile
-% \usepackage[automark]{scrpage2}
-% \clearscrheadings
-% \clearscrplain
-% 
-% \tikzset{pagenumber/.style={rectangle,rounded corners=5pt,inner sep=6pt, fill=gray!20,draw=gray!30,line width=0.1em}}
-% 
-% \lehead{\begin{tikzpicture}[remember picture,overlay]
-% \begin{pgfonlayer}{background}
-% \draw[fill=gray!10, fill opacity=1.0, draw=none] (-.65\paperwidth,0cm) rectangle (\paperwidth+2cm,2cm);
-% \end{pgfonlayer}
-% \path (current page.north west) node[anchor=west,xshift=1.58cm, yshift=-0.9cm,pagenumber] {\parbox{\widthof{\Large 11111}}{\centering \color{black} \bfseries\Large \thepage}};
-% \end{tikzpicture}}
-% 
-% \rehead{\begin{tikzpicture}[remember picture,overlay]
-% \path (current page.north east) node[anchor=east,xshift=-3.4cm, yshift=-0.9cm] {\color{black}\upshape \leftmark};
-% \end{tikzpicture}}
-% 
-% \lohead{\begin{tikzpicture}[remember picture,overlay]
-% \begin{pgfonlayer}{background}
-% \draw[fill=gray!10, fill opacity=1.0, draw=none] (-.65\paperwidth,0cm) rectangle (\paperwidth+2cm,2cm);
-% \end{pgfonlayer}
-% \path (current page.north west) node[anchor=west,xshift=3.4cm, yshift=-1.0cm] {\color{black}\upshape \headmark};
-% \end{tikzpicture}}
-% 
-% \rohead{\begin{tikzpicture}[remember picture,overlay]
-% \path (current page.north east) node[anchor=east,xshift=-1.58cm, yshift=-0.9cm,pagenumber] {\parbox{\widthof{\Large 11111}}{\centering \color{black}\bfseries\Large \thepage}};
-% \end{tikzpicture}}
-% \setlength{\headsep}{1.1cm}
-% 
-% \lefoot{{\noindent\AASS{}~ \sffamily\tiny v.\,\DocVersion~~|~~\url{http://www.aass.at}}}
-% \refoot{{\noindent\DocGitCommitTiny}}
-% 
-% \lofoot{{\noindent\DocGitCommitTiny}}
-% \rofoot{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~v.\,\DocVersion}~ \AASS{}}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 %%% HEADER %%%
 % right
 \fancyhead[LO]{\sffamily{\color{BaseMiddle}\rightmark}}
@@ -107,33 +45,33 @@
         ($ (current page.south east) - (237.00787pt,0cm) $);
   \end{tikzpicture}{\sffamily{\color{BaseDark}\thepage}{\color{BaseMiddle}~|~\leftmark}}}
 % %%% DRAFT %%%
-% \fancyhead[RE,LO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \textbf{Nur für den internen Gebrauch!}}}
+% \fancyhead[RE,LO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\VarDocVersionFullTyp}} | \textbf{Nur für den internen Gebrauch!}}}
 
 %%% FOOTER %%%
 % center
-% \fancyfoot[CE,CO]{{{\sffamily\tiny  \DocVersionInfo}}}
+% \fancyfoot[CE,CO]{{{\sffamily\tiny  \VarDocVersionTypeDescription}}}
 % odd
 \fancyfoot[LO,RE]{{\noindent\DocGitCommitTiny}}
 % \fancyfoot[LO,RE]{{\noindent\tiny\FontSchemeCode}}
-\fancyfoot[LO,RE]{{{\sffamily\tiny  \DocVersionInfo}}}
-\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\VarVersionStringFull}~ \AASS{}}}
+\fancyfoot[LO,RE]{{{\sffamily\tiny  \VarDocVersionTypeDescription}}}
+\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\VarDocVersionExplicit}~ \AASS{}}}
 % even
-\fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\tiny \VarVersionStringFull~~|~~\url{http://www.aass.at}}}
+\fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\tiny \VarDocVersionExplicit~~|~~\url{http://www.aass.at}}}
 
 % %%% OVERWRITE SETTINGS FOR DRAFT %%%
-% \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \textbf{Nur für den internen Gebrauch!}}}
+% \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\VarDocVersionFullTyp}} | \textbf{Nur für den internen Gebrauch!}}}
 
 %
 
 \opt{VAR-VAR2}{
 % \fancyhf{} % clear all header and footer fields
 % center
-\fancyfoot[CE,CO]{{{\noindent\sffamily\tiny\color{AsboeGreyLight}\DocVersionInfo~~|~~{\noindent\DocGitCommitTiny}}}}
+\fancyfoot[CE,CO]{{{\noindent\sffamily\tiny\color{AsboeGreyLight}\VarDocVersionTypeDescription~~|~~{\noindent\DocGitCommitTiny}}}}
 % odd
 \fancyfoot[LO]{{\noindent\sffamily\tiny\color{AsboeGreyLight}\url{http://www.aass.at}~~$\cdot$~~\url{http://www.samariterbund.net}}}
-\fancyfoot[RO]{{\noindent{\sffamily\tiny\color{AsboeGreyLight}\VarVersionStringFull}~~\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~ }}
+\fancyfoot[RO]{{\noindent{\sffamily\tiny\color{AsboeGreyLight}\VarDocVersionExplicit}~~\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~ }}
 % even
-\fancyfoot[LE]{{\noindent\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~~\sffamily\tiny\color{AsboeGreyLight}\VarVersionStringFull}}
+\fancyfoot[LE]{{\noindent\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~~\sffamily\tiny\color{AsboeGreyLight}\VarDocVersionExplicit}}
 \fancyfoot[RE]{{\noindent\sffamily\tiny\color{AsboeGreyLight}\url{http://www.aass.at}~~$\cdot$~~\url{http://www.samariterbund.net}}}
 }
 
@@ -147,29 +85,29 @@
 \fancyhf{} % clear all header and footer fields
 %%% IMMER %%%
 % center
-\fancyfoot[CE,CO]{{{\sffamily\tiny  \DocVersionInfo}}}
+\fancyfoot[CE,CO]{{{\sffamily\tiny  \VarDocVersionTypeDescription}}}
 % odd
 \fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
-\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\DocVersion}~ \AASS{}}}
+\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\VarDocVersionFull}~ \AASS{}}}
 % even
-\fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\tiny \DocVersion~~|~~\url{http://www.aass.at}}}
+\fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\tiny \VarDocVersionExplicit~~|~~\url{http://www.aass.at}}}
 \fancyfoot[RE]{{\noindent\DocGitCommitTiny}}
 
 \opt{VAR-VAR2}{
 \fancyhf{} % clear all header and footer fields
 % center
-\fancyfoot[CE,CO]{{{\sffamily\tiny\color{AsboeGreyLight}\DocVersionInfo~|~{\noindent\DocGitCommitTiny}}}}
+\fancyfoot[CE,CO]{{{\sffamily\tiny\color{AsboeGreyLight}\VarDocVersionTypeDescription~|~{\noindent\DocGitCommitTiny}}}}
 % odd
 \fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
-\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\DocVersion}~ \AASS{}}}
+\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\VarDocVersionExplicit}~ \AASS{}}}
 % even
-\fancyfoot[LE]{{\noindent\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~ \sffamily\tiny \DocVersion}}
+\fancyfoot[LE]{{\noindent\AASS{}\,{\color{AsboeRed}$\cdot$}\,{\ASBOE}~ \sffamily\tiny \VarDocVersionExplicit}}
 \fancyfoot[RE]{{\color{AsboeGreyLight}\url{http://www.aass.at}~~$\cdot$~~\url{http://www.samariterbund.net}}}
 }
 
-% \fancyfoot[CE,CO]{{{\sffamily\tiny {\DocVersionTyp} | Nur für den internen Gebrauch!}}}
+% \fancyfoot[CE,CO]{{{\sffamily\tiny {\VarDocVersionFullTyp} | Nur für den internen Gebrauch!}}}
 %%% DRAFT %%%
-% \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \protect\today{} | \textbf{Nur für den internen Gebrauch!}}}
+% \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\VarDocVersionFullTyp}} | \protect\today{} | \textbf{Nur für den internen Gebrauch!}}}
 %
 % % {\tiny
 % % Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny

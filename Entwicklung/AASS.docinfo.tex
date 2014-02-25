@@ -1,11 +1,11 @@
 
 
 %%% Versions
-\newcommand{\VarDocVersionMajor}	{2}
-\newcommand{\VarDocVersionMinor}	{0}
-\newcommand{\VarDocVersionRevision}	{0}
+\newcommand{\VarDocVersionMajor}						{2}
+\newcommand{\VarDocVersionMinor}						{0}
+\newcommand{\VarDocVersionRevision}						{0}
 
-\newcommand{\VarDocVersionType}	{nightly}
+\newcommand{\VarDocVersionType}							{nightly}
 % normalerweise: nightly
 % nightly	... laufende Entwicklung
 % alpha 	... Zwischenversion
@@ -28,9 +28,9 @@
 
 
 %%% ISBN
-\newcommand{\VarKompIsbn}{---}
+\newcommand{\VarKompIsbn}								{---}
 % \renewcommand{\VarKompIsbn}{978-3-902937-01-8}
-\newcommand{\VarAassIsbn}{---}
+\newcommand{\VarAassIsbn}								{---}
 % \renewcommand{\VarAassIsbn}{978-3-902937-00-1}
 
 
@@ -64,12 +64,12 @@
 
 
 % \VarDocVersionPrimary: Kürzere Primary-Versionskennung wenn x.0.0 und x.y.0:
-\ifthenelse{\equal{\VarDocVersionRevision}{0} \AND \equal{\VarDocVersionMinor}{0}}		{\def\VarDocVersionPrimary{\VarDocVersionMajor}}{
+\ifthenelse{\equal{\VarDocVersionRevision}{0} \AND \equal{\VarDocVersionMinor}{0}}	{\def\VarDocVersionPrimary{\VarDocVersionMajor}}{
   % x.0.0 --> x
   % x.y.0 --> x.y
-  \ifthenelse{\equal{\VarDocVersionRevision}{0}}							{\def\VarDocVersionPrimary{{\VarDocVersionMajor}.{\VarDocVersionMinor}}}{
+  \ifthenelse{\equal{\VarDocVersionRevision}{0}}									{\def\VarDocVersionPrimary{{\VarDocVersionMajor}.{\VarDocVersionMinor}}}{
   % x.y.z --> x-y-z
-  \def\VarDocVersionPrimary{\VarDocVersionPrimaryExplicit}}}
+  \def\VarDocVersionPrimary															{\VarDocVersionPrimaryExplicit}}}
 
 
 \ifthenelse{\equal{\VarDocVersionType}{nightly}}

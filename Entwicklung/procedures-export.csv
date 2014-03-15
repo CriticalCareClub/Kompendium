@@ -11,8 +11,8 @@ CK92020C,14.0,2013-09-01,SPZ,Blutungen des Verdauungstrakts,,Chirurgie oder Inne
 Schockbekämpfung, zügiger Transport",C,K,9,2,0,2,0,C,K92.02,"Gastrointestinale Blutung, nicht näher bezeichnet"
 CKXXXX1C,14.0,2013-09-01,ALL,Abdominalerkrankung,,"Je nach Diagnose, Patient und lokaler Regelung: Chirurgie, Innere Medizin, Gynäkologie, Urologie, Kinderheilkunde, etc.  Bei weiblichen Patienten immer Abt. für Gynäkologie im {Hintergrund} erwägen, auch wenn primär eine andere Fachabteilung zuständig zu sein scheint!","Nüchtern lassen, Bauchdecken-entspannende Lagerung, konsequentes Monitoring",C,K,-,-,-,-,1,C,K--.--,Kapitel XI Krankheiten des Verdauungssystems
 CR10000C,14.0,2013-09-01,SPZ,Akutes Abdomen,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)","Unmittelbare Bedrohung gem. Einschätzungsblock, nüchtern lassen",C,R,1,0,0,0,0,C,R10.00,Akutes Abdomen
-ER09020A,14.0,2013-09-01,SPZ,Atem- und Kreislaufstillstand,,"Je nach Ursache, grundsätzlich Innere Medizin, (Überwachungs- oder Intensivstation)",Reanimation,E,R,0,9,0,2,0,A,R09.02,
-ER40021A,14.0,2013-09-01,SPZ,Bewusstlosigkeit,,"Je nach Ursache, grundsätzlich Innere Medizin, (Überwachungs- oder Intensivstation)",,E,R,4,0,0,2,1,A,R40.02,
+ER09020A,14.0,2013-09-01,SPZ,Atem- und Kreislaufstillstand,,Je nach Ursache,Reanimation,E,R,0,9,0,2,0,A,R09.02,
+ER40021A,14.0,2013-09-01,SPZ,Bewusstlosigkeit,,Je nach Ursache,,E,R,4,0,0,2,1,A,R40.02,
 ER57XX0A,14.0,2013-09-01,SPZ,Schock,,"Je nach Ursache, z.\,B. Unfallchirurgie/Schockraum, Innere Medizin, Überwachungs- oder Intensivstation",,E,R,5,7,-,-,0,A,R57.--,
 ER58XX1A,14.0,2013-09-01,SPZ,Starke Blutung,,Unfallchirurgie,,E,R,5,8,-,-,1,A,R58.--,"Blutung, anderenorts nicht klassifiziert"
 ET14031A,14.0,2013-09-01,SPZ,Verstauchung,,Unfallchirurgie,,E,T,1,4,0,3,1,A,T14.03,"Luxation, Verstauchung und Zerrung an einer nicht näher bezeichneten Körperregion"
@@ -22,6 +22,7 @@ ET14200A,14.0,2013-09-01,SPZ,Knochenbrüche,,Unfallchirurgie,,E,T,1,4,2,0,0,A,T1
 ET26090A,14.0,2013-09-01,SPZ,Verätzungen der Augen,,Augenheilkunde,,E,T,2,6,0,9,0,A,T26.09,"Verätzung des Auges und seiner Anhangsgebilde, Teil nicht näher bezeichnet"
 ET30003A,14.0,2013-09-01,SPZ,Verbrennungen,,Unfallchirurgie bzw. Vebrennungseinheit,,E,T,3,0,0,0,3,A,T30.00,
 ET30041A,14.0,2013-09-01,SPZ,Verätzungen der Haut,,"Unfallchirurgie, Dermatologie",,E,T,3,0,0,4,1,A,T30.04,"Verätzung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet"
+ET30042A,14.0,2013-09-01,SPZ,Verätzungen des Magen-Darm-Traktes,,,,E,T,3,0,0,4,2,A,T30.04,"Verätzung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet"
 ET35071A,14.0,2013-09-01,SPZ,Erfrierungen,,Unfallchirurgie,,E,T,3,5,0,7,1,A,T35.07,Nicht näher bezeichnete Erfrierung an nicht näher bezeichneten Lokalisationen
 ET65090A,14.0,2013-09-01,SPZ,Vergiftungen,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation, bzw. toxikologische Spezialabteilung",,E,T,6,5,0,9,0,A,T65.09,Toxische Wirkung einer nicht näher bezeichneten Substanz
 ET68001A,14.0,2013-09-01,SPZ,Unterkühlung,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation",,E,T,6,8,0,0,1,A,T68.00,Hypothermie

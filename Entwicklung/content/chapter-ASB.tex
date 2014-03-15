@@ -28,8 +28,8 @@
 % \clearpage
 \def\ChapterCode{ASB}
 \chapter
-[Absaugung, Sauerstoff, Beatmung]
-{Absaugung, Sauerstoff, Beatmung}
+[\CO{[ASB]} Atemwegssicherung, Sauerstoff, Beatmung]
+{Atemwegssicherung, Sauerstoff, Beatmung}
 \ChapterIntro
 {%
 ~~~
@@ -39,7 +39,7 @@
   \item[Maintainer:] Sebastian Gabriel
   \item[Autoren:] Diverse
   \item[Reviewer:] Standard-Reviewprozess
-  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[Version:] {\VarDocVersionTypeName} ({\VarDocVersionTypeDescription})
   \item[SHA1:] {\DocGitCommit}
 \end{description}
 
@@ -47,10 +47,570 @@
 }
 
 \clearpage
+
+
+
+\section{Einfache Atemwegssicherung}
+
+\subsection{Einfache Techniken zur einfachen Atemwegssicherung}
+
+\TextSlide{{\TxBeschreibung}}
+{%
+Ein freier Atemweg ist lebenswichtig. 
+Eine Gefährdung besteht vor allem durch:
+\begin{itemize}
+  \item Fremdkörper und Flüssigkeiten (Blut, Erbrochenes, \ldots)
+  \item Zurücksinken der Zunge bei Bewusstseinsstörungen
+\end{itemize}
+Sobald der Atemweg gefährdet ist oder 
+eine Atemwegsverlegung bemerkt wird, müssen sofort
+Maßnahmen eingeleitet werden, die die Atemwege 
+frei machen und frei halten sollen. 
+Bei einer Verlegung der Atemwege durch Flüssigkeiten 
+bietet sich die \EE{Absaugung} an (\FullPrettyRef{topic:absaugung}).
+Um einer Verlegung durch ein Herabsinken der Zunge zu vermeiden gibt 
+es folgende einfache Möglichkeiten \cite{Erc2010Sec4}:
+\begin{itemize}
+  \item \EE{Überstrecken} des Kopfes 
+  \item Anheben des \EE{Kinns}
+  \item Vorschieben des Unterkiefers
+  mittels \EE{Esmarch-Handgriff}
+  \item \EE{Stabile Seitenlage}
+\end{itemize}
+Daneben gibt es erweitere Techniken, welche zur
+Atemwegssicherung verwendet werden können (Guedel-Tubus, Intubation,
+\ldots).
+}
+{%
+\begin{itemize}
+  \item Gefahr:
+  \begin{itemize}
+    \item Fremdkörper, Flüssigkeiten
+    \item Zurücksinken der Zunge
+  \end{itemize}
+  \item Maßnahmen:
+  \begin{itemize}
+    \item Absaugung
+    \item {Überstrecken} des Kopfes
+    \item Anheben des \EE{Kinns}
+    \item {Esmarch-Handgriff}
+    \item {Stabile Seitenlage}
+    \item Erweiterte Techniken
+  \end{itemize}
+\end{itemize}
+}
+
+
+\Text
+{Kopf überstrecken, Kinn anheben}
+{Zum \IX[Ueberstrecken@Überstrecken]{Überstrecken} des Kopfes und Anheben wird die Hand
+auf die Stirn des Patienten gelegt und der Kopf
+leicht überstreckt, dabei werden die Fingerspitzen
+der anderen Hand unterhalb des Kinns platziert und heben
+dieses leicht an. \cite{Erc2010Sec4}}
+{}
+{}
+{}
+{}
+
+
+
+\TextSlide
+{Esmarch-Handgriff}
+{Der \IX{Esmarch-Handgriff} verstärkt den Effekt des
+Überstreckens des Kopfes. Der Helfer befindet sich hinter
+dem Kopf des Patienten und platziert seine Finger
+\VonBis{2}{5} am Ende des Unterkiefers am Kieferwinkel und
+den Daumen am vorderen Bereich des Unterkiefers. Durch \E{auf-}
+und \E{vorwärtsgerichteten} Druck der Finger am
+Kieferwinkel kann der Unterkiefer nach oben und vorn
+geschoben werden, der Daumen öffnet durch \E{sanften Druck
+auf das Kinn} vorsichtig den Mund. \cite{Erc2010Sec4}
+
+}
+{
+\begin{itemize}
+  \item Finger
+\VonBis{2}{5} am Kieferwinkel
+
+$\rightarrow$ aufwärts, vorne
+\item Daumen seitlich am Kinn
+
+$\rightarrow$  sanfter Druck nach unten
+\end{itemize}
+}
+{}
+{}
+{}
+
+% TODO Grassl Foto: Esmarch, Überstrecken, SSL
+
+% \begin{PictureSeriesWide}{}{Bilderserie: \StepHeading{Einfache Atemwegssicherung}}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0268-00441pt}
+% {Überstrecken des Kopfes \SourcePicture{ASBÖ, Jürgen Grassl, jgh / MfG}}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0351-copy2-00441pt}
+% {Esmarch-Handgriff \SourcePicture{ASBÖ, Jürgen Grassl, jgh / MfG}}
+% {./images/ASBOE-Grassl-gjh-1/Zivil_16-00441pt}
+% {Stabile Seitenlage}
+% {empty}
+% {}
+% \end{PictureSeriesWide}
+
+\subsection{Erweiterte Techniken zur einfachen Atemwegssicherung}
+
+\begin{PictureSeriesWide}{}{Übersicht: Lage verschiedener
+Hilfsmittel zur Atemwegssicherung
+\SourcePicture{Hirtler}\label{fig:uebersicht-lage-atemwegshilfen}}
+\PictureSeriesRowWide{3}
+{./images/hirtler-aass/PositionGuedel-color}
+{Position des Guedel-Tubus im Querschnitt}
+{./images/hirtler-aass/LageLarynxTubus}
+{Im Vergleich: Lage eines Larynx-Tubus \ldots} 
+{./images/hirtler-aass/LageTubus-color}
+{\ldots\ und eines endotrachealen Tubus.}
+{empty}
+{}
+\end{PictureSeriesWide}
+
+\subsubsection{Guedel-Tubus}
+\Text
+{\TxBeschreibung}
+{%
+Der \T{Guedel-Tubus} ist ein bogenförmiges, abgeflachtes
+Plastikrohr, welches zum Offenhalten der Atemwege bei tief
+bewusstlosen Patienten eingesetzt werden kann. Er wird über
+den Mund eingeführt und kommt mit seinem Ende im Rachen zu
+liegen. Er erleichtert die Beatmung, da er die Zunge
+aus dem Weg räumt, bietet jedoch \E{keinen}
+Aspirationschutz. \FullPrettyRef{fig:guedel-einfuehren}
+zeigt das Einführen und die Lage des Guedel-Tubus.
+}
+{}
+{}
+{}
+{}
+
+\Customized{\begin{description}
+  \item[{\CustAsboe}] Die Anwendung eines
+  Guedel-Tubus ist für die Beatmung (nur) während der
+  Reanimation ab der Ausbildungsstufe Rettungssanitäter freigegeben.
+\cite{AsboeLehrmeinungRd2011-15}
+\end{description}}
+
+
+
+\begin{PictureSeriesWide}{}{Schema: Einführen des Guedel-Tubus
+\SourcePicture{Hirtler}\label{fig:guedel-einfuehren}}
+\PictureSeriesRowWide{3}
+{./images/hirtler-aass/GuedelTubus1}
+{Abmessen, \ldots}
+{./images/hirtler-aass/GuedelTubus2}
+{\ldots\ zuerst wird der Guedel-Tubus \enquote*{verkehrt}
+herum eingeführt \ldots}
+{./images/hirtler-aass/GuedelTubus3}
+{\ldots\ und anschließend mittels Drehbewegung endgültig
+positioniert.}
+{empty}
+{}
+\end{PictureSeriesWide}
+
+% \begin{PictureSeries}{}{Einführen des Guedel-Tubus \SourcePicture{ASBÖ/gjh}}
+% \PictureSeriesRow{3}
+% {./images/ASBOE-Grassl-gjh-1/CRW_9419-00441pt}
+% {Abmessen, \ldots}
+% {./images/ASBOE-Grassl-gjh-1/CRW_9420-00441pt}
+% {{\ldots} zuerst wird der Guedel-Tubus \enquote*{verkehrt}
+% herum eingeführt \ldots}
+% {./images/ASBOE-Grassl-gjh-1/CRW_9424-00441pt}
+% {{\ldots} und anschließend mittels {\ldots}}
+% {}
+% {}
+% \PictureSeriesRow{3}
+% {./images/ASBOE-Grassl-gjh-1/CRW_9425-00441pt}
+% {{\ldots} Drehbewegung {\ldots}}
+% {./images/ASBOE-Grassl-gjh-1/CRW_9427-00441pt}
+% {{\ldots} endgültig positioniert.}
+% {empty}
+% {}
+% {}
+% {}
+% \end{PictureSeries}
+
+% TODO Grassl Foto: Einführen Guedeltubus
+
+
+\subsubsection{Larynxtubus{\texttrademark}}
+
+\Text{{\TxBeschreibung} Larynxtubus{\texttrademark}}
+{\label{topic:larynxtubus}
+Der \T{Larynxtubus{\texttrademark}} 
+gehört zu der Gruppe der \I[Atemwegshilfen!supraglottische]{supraglottischen
+Atemwegshilfen}, d.\,h. er sichert den Atemweg 
+\E{oberhalb} der \E{Stimmritze} (Glottis) und durchdringt diese nicht. 
+Im Gegensatz zur endotrachealen
+Intubation kann er blind und ohne Hilfsmittel eingeführt
+werden, das Ende kommt bei korrekter Anwendung in der
+\E{Speiseröhre} zu liegen. Er besitzt ein
+Lumen\footnote{Als \I{Lumen} bezeichnet man denn
+Innendurchmesser von Röhren, Kanülen und Kathetern.} und
+zwei Cuffs\footnote{\I{Cuff}:
+ein mit Luft gefüllter Ballon.}. Es gibt Modelle (\I{LT-S}),
+welche über ein zweites Lumen verfügen, über welches eine
+\II{Magensonde} zur Ableitung des Mageninhaltes gelegt werden
+kann (Magendrainagekanal). Trotz korrekter Anwendung kann es
+aufgrund von Leckagen zur Magenüberblähung kommen, daher
+sollen unbedingt, wenn verfügbar, nur Modelle mit einem
+Magendrainagekanal eingesetzt werden.
+\cite{Dengler2011,Mann2013}
+
+Der obere Cuff kommt nach dem Einführen im Rachen zu
+liegen, während der untere am Ende die Speiseröhre abdichtet.
+Dazwischen liegt die Öffnung des Lumens, nach dem Einführen
+in Höhe des Kehlkopfes. Da ober- und unterhalb der
+Abzweigung zur Luftröhre abgedichtet ist, kann die Luft über
+den Kehlkopf und den Kehldeckel in die Luftröhre strömen und
+die Gefahr der Aspiration von Mageninhalt kann deutlich
+reduziert werden. Es sind verschiedene Größen je nach
+Körperlänge erhältlich.
+\cite{Asai2005} % The laryngeal tube.
+
+Im direkten Vergleich mit der Beatmung mittels
+Beatmungsmaske
+sind bei einer korrekten Anwendung des Larynxtubus{\texttrademark} folgende
+Vorteile gegeben:
+\begin{itemize}
+  \item Durch den geblockten Ösophagus soll das Überblähen
+  des Magens sowie die Aspiration von Mageninhalt
+  verhindert werden.
+  \item Die Anwendung erfordert keine höhere manuelle
+  Geschicklichkeit als die Anwendung der Beatmungsmaske und
+  -beutel.
+  \item Zusätzliche Hilfsmittel zur Anwendung sind in der
+  Regel nicht erforderlich, wodurch die Gefahr von
+  Verletzungen durch solche reduziert ist.
+\end{itemize}
+
+Der Larynxtubus{\texttrademark} ist während der Reanimation
+eine geeignete Alternative zur Maskenbeatmung und zur
+endotrachealen Intubation und kann auch durch Angehörige der
+nichtärztlichen Gesundheitsberufe im Rahmen der
+lebensrettenden Sofortmaßnahmen angewendet werden.
+\Commentary[Airwaymanagement / Larynxtubus /
+Stellungsnahme]{Gemäß einer Stellungsnahme des BM für
+Gesundheit ist eine Anwendung des Larynxtubus für Angehörige
+der nichtärztlichen Gesundheitsberufe im Rahmen der
+lebensrettenden Sofortmaßnahmen möglich, bedarf aber
+spezieller Maßnahmen im Rahmen der Aus-, Fort- und
+Weiterbildung. Vgl. Schreiben vom 10.12.2010, Geschäftszahl
+BMG-92250/0080-II/A/2010)}
+Eine Anwendung setzt jedoch entsprechende
+Kenntnisse und Fertigkeiten voraus. Diese müssen im Rahmen
+von speziellen Fortbildungen erworben werden; d.\,h. die
+Anwendung setzt eine erfolgte Einschulung voraus.
+\cite{BMG-92250_0080-II_A_2010_2010-12-15}
+}{}{}{}{}{}
+
+% \begin{PictureSeriesWide}{}{Übersicht: Lage verschiedener
+% Hilfsmittel zur Atemwegssicherung
+% \SourcePicture{Hirtler}\label{fig:uebersicht-lage-atemwegshilfen}}
+% \PictureSeriesRowWide{3}
+% {./images/hirtler-aass/PositionGuedel-color}
+% {Position des Guedel-Tubus im Querschnitt}
+% {./images/hirtler-aass/LageLarynxTubus}
+% {Im Vergleich: Lage eines Larynx-Tubus \ldots}
+% {./images/hirtler-aass/LageTubus-color}
+% {\ldots\ und eines endotrachealen Tubus.}
+% {empty}
+% {}
+% \end{PictureSeriesWide}
+
+% \begin{PictureSeriesWide}{}{Intubation mittels Larynxtubus \SourcePicture{ASBÖ/gjh}}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0451-00441pt}
+% {Einführen {\ldots}}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0453-00441pt}
+% {{\ldots} des Larynxtubus}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0455-00441pt}
+% {Blocken des Larynxtubus}
+% {}
+% {}
+% \end{PictureSeriesWide}
+
+% TODO Grassl Foto: Intubation Larynxtubus
+
+
+% \begin{PictureSeriesWide}{}{ \SourcePicture{ASBÖ/gjh}}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0456-00441pt}
+% {}
+% {./images/ASBOE-Grassl-gjh-1/}
+% {}
+% {./images/ASBOE-Grassl-gjh-1/}
+% {}
+% {}
+% {}
+% \end{PictureSeriesWide}
+
+
+\Layout{47}
+{}
+{}
+{}
+{\begin{tabulary}{\linewidth}{LLLCL}
+\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Größe}
+&
+\noindent\TabHeading{Farbe}
+&
+\noindent\TabHeading{Patientengruppe}
+&
+\noindent\TabHeading{Größe}
+&
+\noindent%\TabHeading{Cuff \Ml}
+\\\addlinespace\midrule\addlinespace
+\TabSub{0}	& \TabSub{Transparent}	& Neugeborene			& \textless\,5\Kg*
+\\
+\TabSub{1}	& \TabSub{Weiß}			& Kleinkinder			& \VonBis{5}{12}\Kg*
+\\
+\TabSub{2}	& \TabSub{Grün}			& Kinder				& \VonBis{12}{25}\Kg*
+\\
+\TabSub{3}	& \TabSub{Gelb}			& Erwachsene (klein)	& \textless\,155\CM*
+\\
+\TabSub{4}	& \TabSub{Rot}			& Erwachsene (mittel)	& \VonBis{155}{180}\CM*
+\\
+\TabSub{5}	& \TabSub{Violett}		& Erwachsene (groß)		& \textgreater\,180\CM*
+\\\addlinespace\bottomrule\addlinespace
+\end{tabulary}}
+{Larynxtubus: Größen}
+{}
+
+\begin{PictureSeriesWide}{}{Bilderserie: Larynxtubus{\texttrademark}
+\SourcePicture{Ch. Pallinger}}
+\PictureSeriesRowWide{3}
+{./images/pallinger-christoph-aass/Larynxtubus_32890_textwidth}
+{Larynxtubus{\texttrademark} mit Blockerspritze \ldots}
+{./images/pallinger-christoph-aass/Larynxtubus_32885_textwidth}
+{{\ldots} und geblocktem Cuff.}
+{./images/pallinger-christoph-aass/Larynxtuben_Set_33025_textwidth}
+{Larynxtuben gibt es in verschiedenen Größen.}
+{empty}
+{}
+\end{PictureSeriesWide}
+
+
+
+\Text
+{Material}
+{
+\begin{multicols}{2}
+\begin{compactenum}
+  \item Beatmungsbeutel mit Maske, \ce{O2}-Line und Reservoir
+  \item Absaugung
+  \item Fixierung
+  \item Passender Larynxtubus mit Blockerspritze. Es sollen
+  unbedingt, wenn verfügbar, nur Modelle mit einem
+  Magendrainagekanal eingesetzt werden!
+  \item Stethoskop
+  \item Gleitmittel
+  \item Bakterienfilter mit \I{Gänsegurgel}
+  \item Magensonde
+  \item Evtl. Kapnometrie
+\end{compactenum}
+\end{multicols}
+}
+{}
+{}
+{}
+{}
+
+
+
+\Text
+{Durchführung}
+{Der
+Larynxtubus wird ohne Hilfsmittel
+über den Mund des Patienten eingeführt, wobei der Kopf
+in \T{Schnüffelstellung} (\I{Jackson-Position}, Kopf
+  leicht erhöht (umgedrehte Nierentasse), nicht überstreckt,
+  nicht gebeugt) gelagert wird. Zusätzliche Hilfsmittel
+ sind in der Regel nicht erforderlich.
+
+Das Einführen erfolgt vorsichtig, ohne Gewalt, bei
+Widerstand muss gestoppt werden. Es sollen nicht mehr als 2
+Versuche gemacht werde. Ein
+Versuch darf maximal 30 Sekunden dauern, dazwischen muss der
+Patient mit Beutel-Masken-Beatmung oxygeniert werden
+Eine laufende CPR darf durch die Intubation mit dem
+Larynxtubus nicht unterbrochen werden.
+
+% \begin{WidePar}
+% \begin{multicols}{3}
+\begin{enumerate}\CorrectionListsBox
+  \item Ggfs. \EE{Notarzt} alarmieren
+  \item \EE{Lagerung}: Rückenlage, Kopf in
+  \EE{Schnüffelstellung} (Jackson Position, Kopf
+  leicht erhöht (umgedrehte Nierentasse), nicht überstreckt,
+  nicht gebeugt)
+  \item Mund öffnen mit dem
+  \enquote*{Kreuzgriff} (Daumen und Zeigefinger der linken
+  Hand, der Daumen am Unterkiefer, der Zeigefinger am
+  Oberkiefer (bzw. Zähne) öffnen den Mund. Achtung bei
+  kariösen oder wackeligen Zähnen!)
+  \item \EE{Einführen}: LT mit der Spitze
+  entlang des harten Gaumens einführen, ev. Unterkiefer
+  anheben
+  \item Zahnreihe innerhalb der Markierungen
+  \item
+  \EE{Cuffen}, Volumen nach Farbcodierung
+  \item Manuelles
+  \EE{Fixieren}
+  \item \EE{Beatmen}
+  \item \EE{Erfolgskontrolle}: sehen,
+  hören, \ce{CO2}-Messung, Sp\ce{O2} steigt, gleichbleibend
+  \begin{enumerate}
+    \item Sehen: Thoraxexkursionen
+    \item Hören: Auskultation\begin{itemize}
+      \item Kein Geräusch über dem
+    Magen
+    \item Atemgeräusche über beiden Lungenflügeln
+    \end{itemize}
+    Achtung: Nicht-seitengleiches Atemgeräusch beim
+    Beatmen über den LT bedeutet: Verlegung eines
+    Hauptbronchus (Fremdkörper) oder Pneumothorax, es ist
+    jedoch \E{kein} Hinweis für einen zu tief oder falsch
+    liegenden Tubus (im Gegensatz zur endotrachealen
+    Intubation)!
+    \item Messung: sofortige 2-stellige et\ce{CO2}-Messung,
+    Sp\ce{O2} steigend oder gleichbleibend, Verfärbung des EasyCap
+    II
+  \end{enumerate}
+  \item Wenn Beatmung gut möglich: \EE{Fixierung}
+  \item Vorsichtiges Einführen einer \EE{Magensonde} und Entlasten des
+  Magens (Magensonde erst einführen, wenn der Patient
+  verlässlich beatmet ist und der LT fixiert ist (kein Muss!)
+  \item Maximal 2 Versuche, max. 30\Sec* pro Versuch
+  \item Absaugung von Sekret aus LT: Sekret aus dem LT  darf
+  abgesaugt werden. Vorher die Absaugtiefe mit dem Abstand
+  Mundwinkel-Ohrläppchen bestimmen
+\end{enumerate}
+% \end{multicols}
+% \end{WidePar}
+
+
+
+
+\Fazit{Nur durch alle angeführten Punkte kann eine Fehllage ausgeschlossen werden}}
+{}
+{}
+{}
+{}
+
+\Text
+{Tipps, Tricks, Troubleshooting}
+{
+\begin{itemize}
+  \item Beim Einführen des LT auf die Zähne achten, diese
+  können den Cuff beschädigen
+  \item Durch Hochziehen des Unterkiefers wird der
+  Zungengrund angehoben, das kann Einführen des LT
+  erleichtern
+  \item Eventuell die Zunge mit den Fingern der linken Hand
+  etwas zur Seite schieben, um das Einführen zu erleichtern
+  \item Möglicherweise Neupositionieren des Kopfes während
+  des Einführens
+\end{itemize}
+
+
+}
+{}
+{}
+{}
+{}
+
+\Text
+{Komplikationen}
+{Grundsätzlich ist der Larynxtubus vergleichsweise sicher in
+der Anwendung. Komplikationen umfassen eine Undichtigkeit
+(Leakage), Schädigung der Rachenschlimhaut, evtl. mit
+Blutung, und eine Überblähung des Magens und eine Ruptur
+der Speiseröhre. Der Larynxtubus bietet zwar einen guten
+Aspirationsschutz, dieser ist jedoch nicht komplett
+zuverlässig.}
+{}
+{}
+{}
+{}
+
+\Text
+{Beatmung über den Larynxtubus}
+{
+\begin{itemize}
+  \item 100\PC* Sauerstoff
+  \item Reanimation weiter mit 30:2 fortsetzen
+  \item Frequenz \VonBis{10}{15}\PerMin* (bei wiedererlangtem Kreislauf (\T{ROSC}\footnote{\II{ROSC}: \I{Return Of Spontaneous Circulation})})
+  \item Atemzugvolumen ca. \VonBis{350}{500}\Ml*, Thoraxexkursion kontrollieren
+
+\end{itemize}
+
+\Customized{
+\begin{description}
+  \item[\CustAsboe]
+  Die Beatmung über den Larynxtubus darf für Sanitäter ohne NKI
+  nur über den Beatmungsbeutel erfolgen.
+\end{description}
+}
+}
+{}
+{}
+{}
+{}
+
+
+
+
+
+
+
+\Customized{
+\begin{description}
+  \item[\CustAsboe] Die Bundesschulung und die Chefärzte des
+  Bundesverbandes haben den Larynxtubus zur Anwendung unter
+  bestimmten Voraussetzungen für den Rettungsdienst freigegeben.
+
+  Voraussetzungen für die Anwendung des
+  Larynxtubus ist, dass der Anwender
+%   \EE{Notfallsanitäter} ist oder eine höhere Qualifikationen
+%   besitzt, und 
+  eine \EE{entsprechende
+  Ausbildung}
+  absolviert hat. 
+  Diese
+  zusätzliche Kompetenz muss auch bei der
+  erforderlichen Rezertifizierung ausreichend
+  bei einem Fallbeispiel überprüft werden.
+  Notfallsanitäter mit Notfallkompetenz
+  Beatmung und Intubation benötigen diese
+  zusätzliche Ausbildung nicht.
+%   Die Anwendung eines Larynxtubus \EE{durch
+%   Rettungssanitäter ist vorerst nicht gestattet}.
+  \cite{ASBOeRundschreiben2010Nr11}
+\end{description}
+}
+
+
+
+
+
+
+
+
 \section{Absaugung}
 
 \label{topic:absaugkatheter}
 \label{topic:absaugung-taetigkeit}
+\label{topic:absaugung}
+\label{topic:absauggeraete}
 \index{Absaugung}
 \index{Absauggeräte}
 \index{Absauggeräte!Accuvac{\texttrademark}}
@@ -58,22 +618,22 @@
 \index{Accuvac{\texttrademark}}
 \index{Laerdal Suction Unit{\texttrademark}}
 \index{Absaugkatheter}
-\label{topic:absaugung}
-\label{topic:absauggeraete}
 
-% \Layout{2}{{\TxQuerverweise}}{%
+% \Text{{\TxQuerverweise}}{%
 % \begin{inparaitem}
 %   \item Absaugkatheter: \prettyref{topic:absaugkatheter};
 %   \item Absaugtechnik: \prettyref{topic:absaugung-taetigkeit}
 % \end{inparaitem}
 % }{}{}{}{}
 
-\Layout{2}{Einleitung}
-{Blut oder Schleim kann vom Fachpersonal mittels
-Absauggeräten aus dem Mund-Rachen-Raum abgesaugt werden. Es
-gibt unterschiedliche Modelle; grundsätzlich wird nach der
-Betriebsart unterschieden zwischen \EE{elektrischer
-Absaugeinheit}, \EE{manueller Absaugpumpe} und als
+\Text{Einleitung}
+{
+Das Absaugen der Atemwege ist eine wichtige Maßnahme zum Freihalten des Atemweges.
+Blut oder Schleim können dabei mittels
+eines Absauggerätes aus dem Mund-Rachen-Raum abgesaugt werden. Es
+gibt dabei unterschiedliche Geräteklassen: Grundsätzlich wird nach der
+Betriebsart unterschieden zwischen einer \EE{elektrischen
+Absaugeinheit}, einer \EE{manueller Absaugpumpe} und als
 Sonderfall dem \EE{Oro-Sauger} oder Schleimabsauger.
 
 Ein \EE{Absaugkatheter} ist jenes Zubehör zum Absauggerät,
@@ -131,7 +691,7 @@ Größe in Charrière
 {Farbcodierung: Absaugkatheter\label{tab:absaugkatheter}}{}
 
 
-\Layout{2}{Oro-Sauger}{
+\Text{Oro-Sauger}{
 Der Oro-Sauger ist ein simples Gerät, welches zum Absaugen
 von Schleim von \E{Neugeborenen} eingesetzt wird. Er
 besteht aus einem Absaugkatheter, welcher mit einem Behälter
@@ -154,57 +714,7 @@ und verschlossen werden.
 
 
 
-% \opt{ORGASBFLO}{\Customized{%
-% \begin{description}
-%   \item[\CustAsbFlo:] Es werden folgende Geräte
-% eingesetzt:
-% 
-% \begin{tabulary}{\linewidth}{LLLL}\toprule\addlinespace
-% \noindent\TabHeading{Hersteller}
-% &
-% \noindent\TabHeading{Produktfamilie}
-% &
-% \noindent\TabHeading{Typ}
-% &
-% \noindent\TabHeading{Bemerkungen}
-% \\\addlinespace\midrule
-% Weinmann
-% &
-% \noindent\T{Accuvac{\texttrademark}}
-% &
-% Rescue
-% &
-% rote Deckplatte
-% \\\addlinespace
-% &
-% &
-% Basic
-% &
-% grüne Deckplatte
-% \\\addlinespace
-% Laerdal
-% & 
-% Laerdal Suction Unit{\texttrademark}
-% &
-% &
-% auslaufend
-% \\\addlinespace
-% div. Hersteller
-% &
-% Handabsaugpumpe
-% &
-% RES-Q-VAC
-% &
-% \\\addlinespace
-% div. Hersteller
-% &
-% Orosauger
-% &
-% &
-% \\\addlinespace\bottomrule
-% \end{tabulary}
-% \end{description}
-% }}%Ende opt
+
 
 \Layout{57}{}{}{}
 {
@@ -251,7 +761,7 @@ zum Einführen in Mund oder Nase
 {Verschiedene Absaugvorrichtungen.\label{tab:absaugvorrichtungen}}
 {}
 
-{\TakeNotesBoxLarge}
+
 
 % \begin{table}[H]
 % \begin{WidePar}
@@ -261,7 +771,7 @@ zum Einführen in Mund oder Nase
 % \end{WidePar}
 % \end{table}
 
-\Layout{0}{Funktionskontrolle}
+\TextSlide{Funktionskontrolle}
 {%
 Jede Funktionskontrolle umfasst die Überprüfung der
 \EE{Vollständigkeit} des Materials, \EE{Saugfunktion} bei
@@ -304,7 +814,7 @@ typenspezifischen Anweisungen müssen beachtet werden.
 
 
 
-\Layout{0}{Absaugbereitschaft}
+\TextSlide{Absaugbereitschaft}
 {%
 \index{Absaugbereitschaft}
 Wenn \EE{Absaugbereitschaft} hergestellt werden muss, wird
@@ -324,7 +834,7 @@ wird.\bigskip}{
 {}
 {}
 
-\Layout{0}{Absaugtechnik}{%
+\TextSlide{Absaugtechnik}{%
 Damit der
 Absaugkatheter nicht zu tief eingeführt wird, muss die
 einzuführende Katheterlänge durch Abmessen der Distanz
@@ -375,9 +885,9 @@ abgesaugt werden.
 
 
 
-\Layout{0}{\TxGefahren}{%
+\TextSlide{\TxGefahren}{%
 In der Rachenhinterwand verläuft ein Nerv, welcher Einfluss auf den Kreislauf
-hat (Vagus-Nerv). Wenn dieser gereizt wird kann es zu gefährlichen
+hat (Vagus-Nerv). Wenn dieser gereizt wird, kann es zu gefährlichen
 \EE{Kreislaufstörungen} (Bradykardie, Hypotension) kommen. Der Vagus-Nerv ist
 Teil des \E{Parasympathikus} und des vegetativen Nervensystems
 (\FullPrettyRef{topic:parasymapthikus}). 
@@ -398,34 +908,39 @@ werden!
 }{}{}{}
 
 
-\needspace{0.5\textheight}
-\section{Sauerstoff -- \texorpdfstring{\ce{O2}}{}}
-\label{topic:sauerstoff}
-\label{topic:o2}
-\index{Sauerstoff}
-\index{O2@\ce{O2}}
 
-\Definition{\T{Sauerstoff} ist ein
-lebenswichtiges Gas welches zu 21\PC* in unserer Atemluft
+\section{Sauerstoff -- \texorpdfstring{\ce{O2}}{}}
+\label{topic:sauerstoff}%
+\label{topic:o2}%
+\index{Sauerstoff}%
+\index{O2@\ce{O2}}%
+
+
+
+
+\subsection{Allgemeines}
+% TODO : Bild Druckminderer
+\TODO{GABS}{2010-08-04}{Bild: Druckminderer fehlt.}{}
+%
+
+\Text{\TxBeschreibung}
+{%
+\DefinitionInPara{\T{Sauerstoff} ist ein
+lebenswichtiges, farb- und geruchsloses Gas, welches zu 21\PC* in unserer Atemluft
 vorkommt und außerdem ein essentielles
 Notfall\enquote{medikament} ist.
 Das chemische Symbol lautet \T{\ce{O2}}.}
+}
 
-% \begin{center}
-% \includegraphics[width=4.522cm,height=5.628cm]{./images/rippenspreitzer-02-fett.png}
-% \Captionof{figure}{NEIN! \SourcePicture{Rippenspreitzer.de}}
-% 
-% \end{center}
 
-\subsection{Technische Grundlagen}
-% TODO : Bild Druckminderer
-\TODO{GABS}{2010-08-04}{Bild: Sauerstofffl., Druckminderer fehlt.}{}
-%
-Sauerstoff ist ein farb- und geruchsloses Gas und wird in
-Druckflaschen gelagert.
 
-\Layout{0}{Kennzeichnung}
-{Die \EE{Farbe} von Gasflaschen ist
+
+\TextSlide{Druckflaschen}
+{%
+Sauerstoff wird in
+Druckgasflaschen gelagert.
+\subparagraph{Kennzeichnung}
+Die {Farben} von Gasflaschen sind
 normiert\ZFootnote{Normen zur Kennzeichnung von Gasflaschen:
 EN~1089-3, in der jeweiligen nationalen Umsetzung (z.\,B.
 DIN EN~1089-3, ÖNORM EN~1089-3 (Verbindlichkeit gem.
@@ -455,11 +970,6 @@ werden.}.
 \cite{AUT-LAW-VBV2002-1,Igv2010} 
 Weiters ist auf Druckgasflaschen ein
 \EE{Gefahrengutaufkleber} angebracht.
-
-\Fazit{Gasflaschen mit \EE{\E{medizinischem} Sauerstoff}
-sind
-\EE{vollständig weiß}.}
-
 \Commentary[Gasflaschen / Farbcodierung / Umstellung]
 {\S\,26 Abs.\,2 VBV 2002:
 Bei Sauerstoff, Distickstoffmonoxid (Lachgas) und
@@ -488,28 +998,8 @@ Die Farbe des zylindrischen Flaschenmantels ist in der Norm
 (bis auf medizinischen Gase) nicht festgelegt.
 }
 
-}
-{
-\begin{itemize}
-  \item Medizinischer Sauerstoff: Vollständig weiß
-  \item Gefahrengutaufkleber
-\end{itemize}
-}
-{}
-{}
-{}
-
-\Layout{27}{}
-{}% Text
-{}% Slides
-{./images/pallinger-christoph-aass/O2_Flasche_32747-crop2-AASS-0176mm.jpg}% Bildpfad oder Objeckt
-{Eine Sauerstoffflasche mit angeschlossenem
-Druckminderer/Berieselungseinheit}% Beschreibung
-{Pallinger}% Credits
-
-
-\Layout{0}{Druckflaschen}
-{Die Druckflaschen haben unterschiedliche Füllgrößen
+\subparagraph{Füllgrößen}
+Die Druckflaschen haben unterschiedliche Füllgrößen
 (Volumina), gängige Flaschengrößen sind 0,5, 1, 1,5, 2, 5
 und
 10\Liter*. Der Sauerstoff wird unter Druck gelagert, wodurch
@@ -517,14 +1007,17 @@ die Menge des zur Verfügung stehenden Sauerstoffs um ein Vielfaches
 gesteigert wird. Der Druck einer gefüllten Flasche beträgt
 normalerweise ca. 200\Bar*. 
 
+\subparagraph{Ausgänge}
 Jede Druckflasche verfügt über ein \T{Hauptventil} und
 ein Standardgewinde. An diesem Gewinde ist entweder ein
 weiterführender Druckschlauch oder der \E{Druckminderer}
 einer \E{Berieselungseinheit} angeschlossen.
 
 \bigskip }
-{
+{%
 \begin{itemize}
+  \item Medizinischer Sauerstoff: Vollständig weiß
+  \item Gefahrengutaufkleber
   \item Unterschiedliche Füllgrößen
   \item Druck ca. 200\Bar*
   \item Hauptventil mit Standardgewinde
@@ -536,8 +1029,19 @@ einer \E{Berieselungseinheit} angeschlossen.
 {}
 {}
 
+\Fazit{Gasflaschen mit \EE{\E{medizinischem} Sauerstoff}
+sind
+\EE{vollständig weiß}.}
 
-\Layout{0}{Berieselungseinheit}
+\Layout{27}{}
+{}% Text
+{}% Slides
+{./images/pallinger-christoph-aass/O2_Flasche_32747-crop2-AASS-0176mm.jpg}% Bildpfad oder Objeckt
+{Eine Sauerstoffflasche mit angeschlossenem
+Druckminderer/Berieselungseinheit}% Beschreibung
+{Pallinger}% Credits
+
+\TextSlide{Berieselungseinheit}
 {\index{Berieselungseinheit}
 Die Berieselungseinheit besteht im Wesentlichen aus einem
 \T{Druckminderer}. Der Druckminderer hat ein
@@ -570,7 +1074,7 @@ geöffnet ist.}
 
 \subsection{Umgang mit Sauerstoff und Druckflaschen}
 
-\Layout{0}{\TxGefahren}
+\TextSlide{\TxGefahren}
 {%
 Sauerstoff ist \EE{brandfördernd} und zusammen mit Fett
 sogar \Ca{selbstentzündlich}! Neben der Brand- und
@@ -585,7 +1089,7 @@ aus, um Mauern zu durchbrechen!
 \Ca{← Siehe Fließtext!}
 }{}{}{}
 
-\Layout{0}{Beenden der \texorpdfstring{\ce{O2}}{O2}-Gabe und Wechsel von Druckflaschen}
+\TextSlide{Beenden der \texorpdfstring{\ce{O2}}{O2}-Gabe und Wechsel von Druckflaschen}
 {Nach der Verwendung des Sauerstoffsystems wird das
 Hauptventil geschlossen und der \EE{Überdruck} aus den
 Druckleitungen bzw. dem Druckminderer \EE{abgelassen}. Erst
@@ -605,7 +1109,7 @@ werden}! Das \EE{Abgabeventil} muss beim Abmontieren
 \Ca{← Siehe Fließtext!}
 }{}{}{}
 
-\Layout{2}{Lagerung}
+\Text{Lagerung}
 {
 Sauerstoffflaschen werden in geeigneten
 Haltevorrichtungen gelagert. Sie sollen nicht in der Sonne
@@ -614,9 +1118,55 @@ falsch hoher Druck angezeigt wird.
 }{}
 {}{}{}
 
-\Layout{2}{\Ca{Sicherheitshinweise}}
-{\Cave{\Ca{Achtung! Vorsicht beim Hantieren -- Zerknall- und
-Explosionsgefahr!}
+% \Text{\Ca{Sicherheitshinweise}}
+% {\Cave{\Ca{Achtung! Vorsicht beim Hantieren -- Zerknall- und
+% Explosionsgefahr!}
+% \begin{enumerate}
+%     \item Sauerstoff ist zusammen mit Fett selbstentzündlich!
+%     \begin{enumerate}
+%         \item Die Armaturen und Gewinde sind fettfrei zu
+%         halten!
+%         \item Ventile dürfen nicht mit fetten oder öligen
+%         Händen bedient werden!
+%     \end{enumerate}
+%     \item Das Hantieren mit Feuer und offenem
+%     Licht ist in der Nähe von Sauerstoffflaschen verboten!
+%     \item Die Druckflaschen sind immer zu sichern und vor
+%     Umfallen, etc. zu schützen!
+% \end{enumerate}
+% 
+% \Ca{Lebensgefahr!} Vor der Abmontage eines
+% Druckminderers oder einer Druckleitung muss die
+% Überdruckfreiheit geprüft und das Abgabeventil geöffnet
+% werden!
+% 
+% }
+% \Fazit{Die Sauerstoffflaschen sind pfleglich zu behandeln!}}
+% {}
+% {}
+% {}
+% {}
+\Fazit{Die Sauerstoffflaschen sind pfleglich zu behandeln!}
+
+\bigskip
+
+\begin{tcolorbox}[
+title={\flushleft Sicherheitshinweise},
+fonttitle=\sffamily\bfseries\small,fontupper=\FontSansNarrowFamily\small,
+left=2pt,right=2pt,
+boxrule=0.5pt,
+colframe=DefaultRed,
+colback=DefaultRed!5,
+% colupper=BoxStandardText,
+% skin=beamer,
+]
+\color{DefaultRed}
+\begin{center}
+  \Ca{Lebensgefahr!} 
+\end{center}
+\Cave{\Ca{Achtung! Vorsicht beim Hantieren -- Zerknall- und
+Explosionsgefahr!}}
+
 \begin{enumerate}
     \item Sauerstoff ist zusammen mit Fett selbstentzündlich!
     \begin{enumerate}
@@ -629,19 +1179,22 @@ Explosionsgefahr!}
     Licht ist in der Nähe von Sauerstoffflaschen verboten!
     \item Die Druckflaschen sind immer zu sichern und vor
     Umfallen, etc. zu schützen!
-\end{enumerate}
-
-\Ca{Lebensgefahr!} Vor der Abmontage eines
+    \item Vor der Abmontage eines
 Druckminderers oder einer Druckleitung muss die
 Überdruckfreiheit geprüft und das Abgabeventil geöffnet
 werden!
+\end{enumerate}
 
-}
-\Fazit{Die Sauerstoffflaschen sind pfleglich zu behandeln!}}
-{}
-{}
-{}
-{}
+\begin{center}
+  \Ca{Lebensgefahr!} 
+\end{center}
+
+
+
+\end{tcolorbox}
+
+\bigskip
+
 
 \subsection{Heiteres Rechnen mit Sauerstoff}
 
@@ -651,8 +1204,9 @@ Flaschendruck (in Bar) multipliziert. Zur Berechnung, wie
 lange die vorhandene Sauerstoffmenge bei einer bestimmten
 Abgaberate reicht, \EE{dividiert man die gesamt verfügbare
 Menge durch die Abgaberate}.
-Zu Bedenken ist dabei, dass in der Flasche  mind.
-\EE{10\Bar* Restdruck} verbleiben sollen und eine
+Zu Bedenken ist dabei, dass in manchen Flaschen, abhängig von ihrer Konstruktion, mind.
+\EE{10\Bar* Restdruck}\footnote{Bei neueren Flaschen ist die Erhaltung eines Restdrucks oft nicht notwendig, die entsprechenden Betriebsvorschriften sind einzuhalten} 
+verbleiben sollen und eine
 \EE{ausreichende Zeitreserve} einzuplanen ist!  
 
 {\FontSansNarrowFamily
@@ -690,7 +1244,7 @@ Menge}}{\text{Abgaberate}}
 
 
 
-\Fazit{Es ist ein \EE{Restdruck} abzuziehen und eine
+\Fazit{Es ist ein eventuell erforderlicher \EE{Restdruck} abzuziehen und eine
 ausreichende \EE{Zeitreserve} einzuplanen!}
 
 
@@ -740,7 +1294,7 @@ Transport mit dieser Ausstattung \E{nicht} durchgeführt
 werden. 
 \end{quote}
 
-{\TakeNotesBoxLarge}
+
 
 \subsection{Verabreichung von Sauerstoff}
 \index{Sauerstoff!Verabreichung}
@@ -809,12 +1363,11 @@ Neuanschaffung bei Einwegprodukten)}.
 \end{PictureSeriesWide}
 
 
-\begin{table}[H]
-\FontTableBase\small
-\begin{WidePar}
-\Captionof{table}{Verabreichungsarten von Sauerstoff}
-
-\begin{tabulary}{\linewidth}[H]{LLLL}
+\Layout{57}
+{}
+{}
+{}
+{\begin{tabulary}{\linewidth}[H]{LLLL}
 \addlinespace\toprule\addlinespace
 \noindent
  &
@@ -824,7 +1377,7 @@ Neuanschaffung bei Einwegprodukten)}.
 &
 \noindent\TabHeading{Nachteile}
 \\\addlinespace\midrule\addlinespace 
-\TabSub{Sauerstoff\-brille}
+\noindent\TabSub{Sauerstoff\-brille}
  &
 Spontanatmung
 
@@ -844,7 +1397,7 @@ niedriger Flow
 
 Nasenatmung Voraussetzung, ungeeignet bei Verlegung
 \\\addlinespace\midrule\addlinespace
-\TabSub{Sauerstoff\-maske}
+\noindent\TabSub{Sauerstoff\-maske}
  &
 Spontanatmung
 
@@ -861,7 +1414,7 @@ Abflussbehinderung (Erbrechen, \ldots)
 
 für Patienten evtl. unangenehm bzw. gewöhnungsbedürftig
 \\\addlinespace\midrule\addlinespace
-\TabSub{Sauerstoff\-maske mit Reservoir}
+\noindent\TabSub{Sauerstoff\-maske mit Reservoir}
  &
 Spontanatmung
 
@@ -875,7 +1428,7 @@ Wie oben
 
 Reservoir muss zuerst händisch befüllt werden.
 \\\addlinespace\midrule\addlinespace
-\TabSub{Beatmungsbeutel mit Reservoir}
+\noindent\TabSub{Beatmungsbeutel mit Reservoir}
  &
 Spontanatmung, assitierte und kontrollierte Beatmung
  &
@@ -887,75 +1440,61 @@ deutlich aufwändiger und höhere Materialkosten
 
 Einzelfälle!
 \\\addlinespace\bottomrule
-\end{tabulary}
-\end{WidePar}
-\end{table}
+\end{tabulary}}
+{Verabreichungsarten von Sauerstoff}
+{}
 
 
-
-% \begin{table}[H]
-% 
-% \begin{WidePar}
-% \Captionof{table}{}
-% \begin{tabularx}{\linewidth}{XXX}
-% \includegraphics[width=\linewidth]{}
-% \Captionof{figure}{}
-% &
-% \includegraphics[width=\linewidth]{}
-% \Captionof{figure}{} 
-% &
-% \includegraphics[width=\linewidth]{}
-% \Captionof{figure}{}
-% \end{tabularx}
-% \end{WidePar}
-% \end{table}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Sauerstoffberieselung
+\ProcedurePrintDefault{SY52210A}
 
 
-\MassnahmenMK{Spezielle Maßnahmen}{Sauerstoffberieselung}
-{m:sauerstoffberieselung}
-{%
-Bei jedem Patienten, bei dem eine
-lebensbedrohliche Störung einer vitalen Funktion eingetreten
-ist oder einzutreten droht (\enquote{Notfallpatient}), soll,
-sofern keine Kontraindiktaionen vorliegen, soviel Sauerstoff
-verabreicht werden, dass die Sauerstoffsättigung (Sp\ce{O2})
-im Bereich von \EE{\VonBis{94}{98}\PC*} liegt.
-% 
-% \begin{enumerate}
-%   \item Kontraindikationen und Gegenanzeigen prüfen:
-%   \begin{itemize}
-%     \item COPD (\FullPrettyRef{topic:copd})
-%     \item Hyperventilationssyndrom, Hyperventilationstetanie
-%     (\FullPrettyRef{topic:hyperventailationssyndrom})
-%   \end{itemize}
-%   \item Situationsgerechte Dosierung je nach
-%   zugrundeliegender Erkrankung. Grundsätzlich soll ein
-%   Sp\ce{O2} von
-% \EE{\VonBis{94}{98}\PC*} erreicht werden.
-%   \item Auswahl des Hilfsmittels:
-%   \begin{itemize}
-%     \item \E{Sauerstoff\-brille}
-%     \ce{O2}-Flow bis~5\LPerMin*,
-%     \item \E{Sauerstoff\-maske}
-%     \ce{O2}-Flow ab 5\LPerMin*,
-%     \item \E{Sauerstoff\-maske mit
-%     Reservoir} \ce{O2}-Flow ab 5\LPerMin*,
-%   \end{itemize}
-%   \item Patientenaufklärung
-%   \item Sauerstoffgerät einschalten und Durchflußrate
-%   einstellen
-%   \item Bei Verwendung einer Sauerstoff\-maske mit
-%   Reservoir: Reservoir füllen
-%   \item Sauerstoffbrille/-maske positionieren 
-% \end{enumerate} 
-% 
-% \cite{AsboeLehrmeinungRd2011-09}
-}
+% \MassnahmenMK{Spezielle Maßnahmen}{Sauerstoffberieselung}
+% {m:sauerstoffberieselung}
+% {%
+% Bei jedem Patienten, bei dem eine
+% lebensbedrohliche Störung einer vitalen Funktion eingetreten
+% ist oder einzutreten droht (\enquote{Notfallpatient}), soll,
+% sofern keine Kontraindiktaionen vorliegen, soviel Sauerstoff
+% verabreicht werden, dass die Sauerstoffsättigung (Sp\ce{O2})
+% im Bereich von \EE{\VonBis{94}{98}\PC*} liegt.
+% % 
+% % \begin{enumerate}
+% %   \item Kontraindikationen und Gegenanzeigen prüfen:
+% %   \begin{itemize}
+% %     \item COPD (\FullPrettyRef{topic:copd})
+% %     \item Hyperventilationssyndrom, Hyperventilationstetanie
+% %     (\FullPrettyRef{topic:hyperventailationssyndrom})
+% %   \end{itemize}
+% %   \item Situationsgerechte Dosierung je nach
+% %   zugrundeliegender Erkrankung. Grundsätzlich soll ein
+% %   Sp\ce{O2} von
+% % \EE{\VonBis{94}{98}\PC*} erreicht werden.
+% %   \item Auswahl des Hilfsmittels:
+% %   \begin{itemize}
+% %     \item \E{Sauerstoff\-brille}
+% %     \ce{O2}-Flow bis~5\LPerMin*,
+% %     \item \E{Sauerstoff\-maske}
+% %     \ce{O2}-Flow ab 5\LPerMin*,
+% %     \item \E{Sauerstoff\-maske mit
+% %     Reservoir} \ce{O2}-Flow ab 5\LPerMin*,
+% %   \end{itemize}
+% %   \item Patientenaufklärung
+% %   \item Sauerstoffgerät einschalten und Durchflußrate
+% %   einstellen
+% %   \item Bei Verwendung einer Sauerstoff\-maske mit
+% %   Reservoir: Reservoir füllen
+% %   \item Sauerstoffbrille/-maske positionieren 
+% % \end{enumerate} 
+% % 
+% % \cite{AsboeLehrmeinungRd2011-09}
+% }
 
 
 \subsubsection{Sauerstoffzufuhr bei der Beatmung}
 
-\Layout{0}{\TxBeschreibung}{%
+\TextSlide{\TxBeschreibung}{%
 Bei der Beatmung soll Sauerstoff zugeführt werden. Beim
 Beatmungbeutel schließt man dazu einen
 \ce{O2}-\EE{Verbindungsschlauch} an den Druckminderer und
@@ -1001,7 +1540,7 @@ eingestellt werden.\ZFootnote{Z.\,B. Schalthebel
 \index{Beatmung}
 \index{Beatmung!Grundsätzliches}
 
-\Layout{0}{\TxBeschreibung}
+\TextSlide{\TxBeschreibung}
 {Bei \EE{fehlender} oder \EE{nicht ausreichender
 Spontanatmung} (Eigenatmung \textless\,8 bzw.
 \textgreater\,35\PerMin* oder Atemzugvolumen nicht
@@ -1040,12 +1579,12 @@ mit Hilfsmitteln wie dem \E{Beatmungsbeutel} oder einem
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{\TxGefahren}
+\TextSlide{\TxGefahren}
 {Der notwendige \EE{Überdruck} kann zu Problemen führen, wie
 z.\,B. Überschreiten des \E{Speiseröhren-Öffnungsdrucks}
 (\EE{Magenbeatmung}, \EE{Magenblähung}, \EE{Erbrechen}) oder
 Lungenschäden.
-Es ist oft zu beobachten, das (wahrscheinlich in Folge von
+Es ist oft zu beobachten, dass (wahrscheinlich in Folge von
 Stress) Beatmungen zu schnell bzw. zu tief erfolgen. Dies
 kann katastrophale Auswirkungen haben, da es zu einer
 \EE{Hyperventilation} und damit zu einer atmungsbedingen
@@ -1056,17 +1595,17 @@ Alkalose kommt (Störung des Säure-Basen-Haushaltes, vgl.
 
 \Fazit{Faustregel: Eine kontrollierte Beatmung eines
 Erwachsenen soll grundsätzlich im Eigenrhythmus des Helfers
-erfolgen: Helfer atmet \Sign{→} Patient wird beatmet.}
+erfolgen: Helfer atmet $\rightarrow$  Patient wird beatmet.}
 }{
 \begin{itemize}
-  \item Zu hoher Druck \Sign{→} Magenbeatmung/-blähung,
+  \item Zu hoher Druck $\rightarrow$ Magenbeatmung/-blähung,
   Erbrechen
   \item Zu schnell, zu tief: Hyperventilation,
   atmungsbedingte Alkalose
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Hilfsmittel}
+\TextSlide{Hilfsmittel}
 {Eine Beatmung wird normalerweise mit Hilfsmitteln
 durchgeführt. Helferseitig kommen dabei ein 
 \EE{Beatmungsbeutel} (\prettyref{topic:beatmungsbeutel})
@@ -1126,128 +1665,13 @@ fast 100\PC*
 
 
 
-\subsection{Einfache Atemwegssicherung}
-
-Sobald eine Atemwegsverlegung bemerkt wird, müssen sofort
-Maßnahmen eingeleitet werden, die die Atemwege öffnen und
-offen halten. Es gibt 3 Maßnahmen, die die Atemwege im Fall
-einer Atemwegsverlegung -- verursacht durch die Zunge oder
-davon oberhalb befindlicher Strukturen -- frei halten
-können \cite{Erc2010Sec4}:
-
-\begin{itemize}
-  \item \EE{Überstrecken} des Kopfes 
-  \item Anheben des \EE{Kinns}
-  \item Vorschieben des Unterkiefers
-  mittels \EE{Esmarch-Handgriff}
-\end{itemize}
-
-\Layout{2}
-{Kopf Überstrecken, Kinn anheben}
-{Zum \IX[Ueberstrecken@Überstrecken]{Überstrecken} des Kopfes und Anheben wird die Hand
-auf die Stirn des Patienten gelegt und der Kopf
-leicht überstreckt, dabei werden die Fingerspitzen
-der anderen Hand unterhalb des Kinns platziert und heben
-dieses leicht an. \cite{Erc2010Sec4}}
-{}
-{}
-{}
-{}
-
-
-
-\Layout{0}
-{Esmarch-Handgriff}
-{Der \IX{Esmarch-Handgriff} verstärkt den Effekt des
-Überstreckens des Kopfes. Der Helfer befindet sich hinter
-dem Kopf des Patienten und platziert seine Finger
-\VonBis{2}{5} am Ende des Unterkiefers am Kieferwinkel und
-den Daumen am vorderen Bereich des Unterkiefers. Durch \E{auf-}
-und \E{vorwärtsgerichteten} Druck der Finger am
-Kieferwinkel kann der Unterkiefer nach oben und vorn
-geschoben werden, der Daumen öffnet durch \E{sanften Druck
-auf das Kinn} vorsichtig den Mund. \cite{Erc2010Sec4}
-
-}
-{
-\begin{itemize}
-  \item Finger
-\VonBis{2}{5} am Kieferwinkel
-
-$\rightarrow$ aufwärts, vorne
-\item Daumen seitlich am Kinn
-
-$\rightarrow$  sanfter Druck nach unten
-\end{itemize}
-}
-{}
-{}
-{}
-
-\Layout{2}
-{Guedel-Tubus}
-{\index{Guedel-Tubus}
-Der Guedeltubus ist ein bogenförmiges, abgeflachtes
-Plastikrohr, welches zum Offenhalten der Atemwege bei tief
-bewusstlosen Patienten eingesetzt werden kann. Er wird über
-den Mund eingeführt und kommt mit seinem Ende im Rachen zu
-liegen. Er erleichtert die Beatmung, da er die Zunge
-aus dem Weg räumt, bietet jedoch \E{keinen}
-Aspirationschutz. \FullPrettyRef{fig:guedel-einfuehren}
-zeigt das Einführen und die Lage des Guedel-Tubus.
-}
-{}
-{}
-{}
-{}
-
-\Customized{\begin{description}
-  \item[{\CustAsboe}] Die Anwendung eines
-  Güdel-Tubus ist für die Beatmung (nur) während der
-  Reanimation ab der Ausbildungsstufe Rettungssanitäter freigegeben.
-\cite{AsboeLehrmeinungRd2011-15}
-\end{description}}
-
-
-
-\begin{PictureSeriesWide}{}{Einführen des Guedel-Tubus
-\SourcePicture{Hirtler}\label{fig:guedel-einfuehren}}
-\PictureSeriesRowWide{3}
-{./images/hirtler-aass/GuedelTubus1}
-{Abmessen, \ldots}
-{./images/hirtler-aass/GuedelTubus2}
-{\ldots\ zuerst wird der Guedel-Tubus \enquote*{verkehrt}
-herum eingeführt \ldots}
-{./images/hirtler-aass/GuedelTubus3}
-{\ldots\ und anschließend mittels Drehbewegung endgültig
-positioniert.}
-{empty}
-{}
-\end{PictureSeriesWide}
-
-\begin{PictureSeriesWide}{}{Übersicht: Lage verschiedener
-Hilfsmittel zur Atemwegssicherung
-\SourcePicture{Hirtler}\label{fig:uebersicht-lage-atemwegshilfen}}
-\PictureSeriesRowWide{3}
-{./images/hirtler-aass/PositionGuedel-color}
-{Position des Guedel-Tubus im Querschnitt}
-{./images/hirtler-aass/LageLarynxTubus}
-{Im Vergleich: Lage eines Larynx-Tubus \ldots} 
-{./images/hirtler-aass/LageTubus-color}
-{\ldots\ und eines endotrachealen Tubus.}
-{empty}
-{}
-\end{PictureSeriesWide}
-
-{\TakeNotesBoxLarge}
-
 \subsection{Beatmungsbeutel}
 \label{topic:beatmungsbeutel}
 \index{Beatmungs!-beutel}
 
 
 
-\Layout{2}{\TxBeschreibung}
+\Text{\TxBeschreibung}
 {Der selbstfüllende Beatmungsbeutel ist das einfachste
 Hilfsmittel, welches dem Fachpersonal zur Verfügung steht, und kommt in
 vielen Bereichen (Rettungsdienst, Krankenhaus, \ldots) zum
@@ -1287,7 +1711,7 @@ Pallinger}
 % \end{itemize}
 % }{}{}{}
 
-\Layout{0}{Bestandteile}{%
+\TextSlide{Bestandteile}{%
 Ein Beatmungsbeutel besteht üblicherweise aus einem
 \EE{Luftzufuhrventil}, einem \EE{Balg} und einem
 \EE{T-Stück} mit einem Ventil.
@@ -1317,7 +1741,7 @@ verbunden. Am Ausführungsschenkel kann ein \EE{PEEP}-Ventil
 aufgesteckt werden.
 }{%
 \begin{itemize}
-  \item Luftzufuhrventil
+  \item Luftzuführventil
   \begin{itemize}
     \item \ce{O2}-Leitung
     \item Reservoir
@@ -1332,10 +1756,6 @@ aufgesteckt werden.
   \end{enumerate}
 \end{itemize}
 }
-{./images/geraete/ambu-komplett-zerlegt.jpg}
-{Bestandteile eines
-Beatmungsbeutels.}
-{}
 
 
 
@@ -1371,11 +1791,11 @@ keine besondere Bedeutung. \SourcePicture{Ch. Pallinger}}
 \end{PictureSeries}
 
 
-\Layout{0}{Hygienische Wiederaufbereitung}
+\TextSlide{Hygienische Wiederaufbereitung}
 {%
 Es gibt Beatmungsbeutel als Einweg- und Mehrwegprodukt.
 Einwegprodukte müssen nach Gebrauch entsorgt werden.
-Mehrwegprodukte können durch Desinfektion gem.
+Mehrwegprodukte können durch Desinfektion gemäß
 des jeweils gültigen Hygieneplans wiederaufbereitet werden.
 I.\,d.\,R. muss der
 Beatmungsbeutel dazu \EE{komplett zerlegt} werden!
@@ -1394,10 +1814,10 @@ Die Herstellerhinweise sind zu beachten.
 
 % \subsubsection{Technik der Beutel-Masken-Beatmung}
 
-\Layout{0}
+\TextSlide
 {Technik der Beutel-Masken-Beatmung}
 {Bei der Beutel-Masken-Beatmung erfolgt die Beatmung mittels
-eines Beatmungsbeutel und einer Beatmungsmaske in geeigneter
+eines Beatmungsbeutels und einer Beatmungsmaske in geeigneter
 Größe, welche dicht sitzend angelegt wird.
 Der Kopf des Patienten wird
 \EE{überstreckt}\footnote{Überstrecken des Kopfes bei der
@@ -1453,7 +1873,7 @@ Druck den Öffnungsdruck der Speiseröhre (ca.
 % \subsubsection{Besonderheit: Beatmung während der
 % Reanimation}
 
-\Layout{2}
+\Text
 {Besonderheit: Beatmung während der
 Reanimation}
 {Die Beatmung während der Reanimation ist eine kontrollierte
@@ -1499,20 +1919,21 @@ Floridsdorf-Donaustadt}}
 
 
 Mit dem
-Beatmungsgerät \emph{\enquote*{Medumat}} der Fa.
+Beatmungsgerät \emph{{Medumat{\texttrademark}}} der
+Fa.
 Weinmann kann ein Patient sowohl beatmet als auch berieselt werden
 (sofern ein Berieselungsmodul vorhanden ist). 
 Für die Berieselung und Beatmung gibt es je ein eigenes
 Bedienfeld. Die Beatmung mittels Beatmungsgerät ist
 grundsätzlich dem ärztlichen Personal vorbehalten, die
 Bedienung des Beatmungsbedienfeldes darf für nichtärztliches
-Sanitätspersonal nur nach Anweisung eine Arztes
+Sanitätspersonal nur nach ärztlicher Anweisung 
 erfolgen.\ZFootnote{\EE{Bedienung des Beatmungsrätes durch
 nichtärztliches Personal}: Ausdrückliche Ausnahmen können
 für höher qualifiziertes Personal bestehen.}
 
 
-{\TakeNotesBoxLarge}
+
 % % \opt{ORGASBFLO}{
 % % \begin{minipage}{\linewidth}
 % \Customized{
@@ -1575,13 +1996,13 @@ und schwache Batterie.} } {Bedienfelder Berieselungseinheit
 % \index{PEEP-Ventil}
 \label{topic:peep-ventil}
 
-\Definition{\T{PEEP} steht für \enquote*{Positive End-Exspiratory
-Pressure} (positiver end-exspiratorischer Druck), d.\,h.
-positiver Druck in den Atemwegen am Ende der
-Ausatmungsphase.}
 
 \Layout{20}{\TxBeschreibung{}}
 {%
+\DefinitionInPara{\T{PEEP} steht für \enquote*{Positive End-Exspiratory
+Pressure} (positiver end-exspiratorischer Druck), d.\,h.
+positiver Druck in den Atemwegen am Ende der
+Ausatmungsphase.}
 Der \T{PEEP} sorgt dafür, dass am Ende der Ausatmungsphase
 (Exspiration) der Druck in den Atemwegen nicht auf 0
 absinkt, sondern stattdessen ein positiver Druck aufrecht

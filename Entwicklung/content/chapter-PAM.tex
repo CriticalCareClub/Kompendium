@@ -31,8 +31,8 @@ Voraussetzungen für effektives und professionelles Arbeiten.
 \begin{description}
   \item[Maintainer:] Sebastian Gabriel
   \item[Autoren:] Diverse
-  \item[Reviewer:] --
-  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[Reviewer:] Standard-Reviewprozess
+  \item[Version:] {\VarDocVersionTypeName} ({\VarDocVersionTypeDescription})
   \item[SHA1:] {\DocGitCommit}
 \end{description}
 
@@ -48,7 +48,7 @@ Voraussetzungen für effektives und professionelles Arbeiten.
 % \the\marginparwidth
 
 \clearpage % TEMP temp clearpage
-% \Layout{0}{\TxQuerverweise}
+% \TextSlide{\TxQuerverweise}
 % {~
 % 
 % \noindent\includegraphics[angle=270,width=\linewidth]{./images/leitsystem/Leitschema-PAM_gesamt.pdf}
@@ -71,12 +71,12 @@ Voraussetzungen für effektives und professionelles Arbeiten.
 Standardisierte Patientenversorgung}\bigskip 
 
 Arbeits- und Ausbildungsstandards} {\color{DefaultGrey}für den Sanitätsdienst}} | {\AASS} \opt{VAR-VAR2}{| {\color{AsboeRed}ASBÖ}}
-\hfill\textsf{\DocVersion}
+\hfill\textsf{\VarDocVersion}
 
 \bigskip
 
 \Layout{57}{}{}{}
-{\includegraphics[width=\linewidth]{./images/emhofer-josef-aass/PAMneuAugust2012}}
+{\includegraphics[width=\linewidth]{./images/emhofer-josef-aass/PAMJaenner2014alternativ.pdf}}
 {Graphische Übersicht: \EEE{Standardisierte Patientenversorgung}}
 {}
 
@@ -172,13 +172,13 @@ wahrscheinlich? Eine Übersicht.\label{tab:alarmzeichen}}{}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Sicherheit, Selbstschutz; Patientenanzahl; 
-  \item Umgebung, Ort,
-Zeit, Gefahrenzonen, Umstände,
-\item Weitere Resourcen erforderlich? Unfallmechanismus,
-Großschaden
-\item Lagemedlung erforderlich
-\item \EE{Trauma?} \EE{Mechanismus?}
+  \item Gefahrenzonen, Sicherheit, Selbstschutz;
+  \item Umstände, Umgebung, Ort,
+  Zeit, Patientenanzahl;
+  \item \EE{Trauma?} \EE{Unfallmechanismus?}
+  \item Weitere Ressourcen erforderlich?,
+  Großschaden?
+  \item Lagemeldung erforderlich
 \end{itemize}
 \end{minipage}
 &
@@ -244,7 +244,7 @@ Großschaden
 \\\addlinespace\toprule\addlinespace
 \noindent\TabHeading{\ABCDEPlain{A}}\vspace{\baselineskip}
 
-\TabHeading{Atemweg}
+\TabHeading{Atemweg \newline Airway}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
@@ -257,22 +257,21 @@ Großschaden
 \begin{itemize}
   \item Absaugung, Fremdkörper entfernen
   \item Kopf überstrecken, Esmarch-Handgriff
-  \item HWS-Immobilisation manuell oder mit Schiene
+%   \item HWS-Immobilisation manuell oder mit Schiene
   \item \Z{Erweiterte Maßnahmen}
 \end{itemize}
 \end{minipage}
 \\\addlinespace\midrule\addlinespace
 \noindent\TabHeading{\ABCDEPlain{B}}\vspace{\baselineskip}
 
-\TabHeading{Atmung}
+\TabHeading{Atmung\newline (Breathing)}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
   \item Schätzen: \EE{Atemfrequenz}, \EE{-tiefe}
   \item *\EE{Sp\ce{O2}}
   \item Atemgeräusche
-  \item Inspektion der \EE{Thorax-Atembewegungen}, ggfs. 
-  Atemprobe
+  \item Inspektion der \EE{Thorax-Atembewegungen}
   \item \E{Zeichen der
   Atemnot}: Hautfarbe, Bauch-/Thorax\-bewegungen,
   Anstrengung beim Atmen, Atemhilfsmuskulatur, \ldots
@@ -294,27 +293,31 @@ Großschaden
 \\\addlinespace\midrule\addlinespace
 \noindent\TabHeading{\ABCDEPlain{C}}\vspace{\baselineskip}
 
-\TabHeading{Kreislauf}
+\TabHeading{Kreislauf \newline (Circulation)}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item \EE{Hautfarbe}, \EE{-temperatur}
-  \item Schweiß
+  \item \EE{Hautfarbe}, \EE{-temperatur}, Schweiß
   \item \EE{Rekap}-Zeit
   \item \EE{Radialispuls}: Stärke, Rhythmus, Abschätzen der
   Frequenz
+  \item \EE{Herzfrequenz}
+  \item \EE{Blutdruck}
+  
+\end{itemize}
+\hrule
+\begin{itemize}
   \item \TabHeading{*Schnelle Trauma-Untersuchung}: Inspektion
   und Abtasten von
   \begin{compactenum}
-    \item \EE{Kopf} inkl. Ohren,
-    \item \EE{Hals},
-    \item \EE{Thorax},
-    \item \EE{Bauch},
-    \item \EE{Becken} und
+    \item \EE{Kopf} inkl. Ohren
+    \item \EE{Hals}
+    \item \EE{Thorax} (Atemprobe)
+    \item \EE{Bauch}
+    \item \EE{Becken}
     \item \EE{Oberschenkel}
+    \item \EE{Rücken} (evtl. erst beim Umlagern)
   \end{compactenum}
-  \item \EE{Herzfrequenz}
-  \item \EE{Blutdruck}
 \end{itemize}
 \end{minipage}
 &
@@ -327,7 +330,7 @@ Großschaden
 \\\addlinespace\midrule\addlinespace
 \noindent\TabHeading{\ABCDEPlain{D}}\vspace{\baselineskip}
 
-\TabHeading{Schnelle\newline Untersuchung}
+\TabHeading{Neurologisch\newline (Disability)}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
@@ -356,7 +359,7 @@ Bedrohung oder Hauptbeschwerde unklar ist.)}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item (Fremd-) \EE{Anamnese} (SAMPLE, OPQRST)
+  \item (Fremd-) \EE{Anamnese} (SAMPLER, OPQRST)
   \item Einschätzen der \EE{Umgebung}
   \item Weitere relevante \EE{Untersuchungen}
   \item Arbeitsdiagnose erstellen und Differentialdiagnosen
@@ -366,7 +369,7 @@ Bedrohung oder Hauptbeschwerde unklar ist.)}
 &
 \noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Strategie- und Zielentscheidung 
+  \item Strategie-, Transport- und Zielentscheidung 
   \item Spezielle Maßnahmen gemäß Verdachtsdiagnose
 \end{itemize}
 \end{minipage}
@@ -561,7 +564,7 @@ EKG, Kapnometrie, \ldots
   \item \EE{Wärmeerhaltung / Kühlung}
   \item Entscheidung Notarzt-Nachforderung wegen
   Schmerztherapie oder Aufklärung/Belassung
-  \item Suerstoffgabe (\prettyref{MK-m:sauerstoffberieselung})
+  \item Sauerstoffgabe (\FullPrettyRef{MK-m:sauerstoffberieselung})
   \item \ldots
 \end{itemize}
 \end{minipage}
@@ -658,9 +661,14 @@ Laßt mich auch endlich Taten sehn!}
 
 
 \clearpage
-\section{Einschätzungsblock -- ABCDE}
+\section{Einschätzungsblock:
+1\,--\,2\,--\,3\,--\,4\,--\,A\,--\,B\,--\,C\,--\,D\,--\,E}
 \label{topic:ersteinschaetzung}
 \label{topic:einschaetzungsblock}
+
+\begin{quote}
+  \Speech{\enquote{Von 1 bis E.}}
+\end{quote}
 
 Ziel des Einschätzungsblockes ist das rasche Erkennen einer
 vitalen Bedrohung, Überblick zu gewinnen und
@@ -670,7 +678,7 @@ Verdacht in angemessenem Umfang wiederholt werden, um eine
 Verschlechterung des Patientenzustandes rechtzeitig zu
 erkennen. 
 
-\Layout{2}
+\Text
 {Zielsetzung und Struktur des Patientenmanagements nach \AASS}
 {Ziel war es, ein möglichst schrittweise und geradlinig abarbeitenbares
 System zu entwerfen, welches dennoch genügend Freiraum für spezielle
@@ -699,8 +707,9 @@ und haben auf die Unterscheidung der Primary- und Secondary
 Survey bewusst verzichtet.
 
 \subparagraph{Aber was ist mit {\ldots}?}
-Das ABCDE-Schema bzw. der Einschätzungsblock dient der
-Erkennung von vital bedrohten Patienten und dem Erkennen von Hauptbeschwerden und
+Das ABCDE-Schema bzw. der Einschätzungsblock
+\T{\Range{1}{E}} dient der Erkennung von vital bedrohten 
+Patienten und dem Erkennen von Hauptbeschwerden und
 Leitsymptomen, \E{es deckt nicht sämtliche
 mögliche Untersuchungen ab!} Weiterführende Untersuchungen
 und Anamneseschritte bzw. Maßnahmen werden \E{nach} dem
@@ -754,7 +763,7 @@ In: Johann Wolfgang von Goethe: Faust. Der Tragödie erster Teil]
 {Grau, teurer Freund, ist alle Theorie, \\
 und Grün des Lebens goldner Baum.}
 
-\Layout{0}{\TxBeschreibung}{%
+\TextSlide{\TxBeschreibung}{%
 Kernpunkte sind die Fragen:
 \begin{itemize}
   \item \Speech{Ist die Einsatzstelle sicher?}
@@ -815,9 +824,18 @@ Wenn notwendig, muss der Leitstelle eine erste
 {}
 \end{PictureSeriesWide}
 
-
-
-
+\Text{Typische Maßnahmen}
+{%
+\begin{itemize}
+  \item Absichern der Einsatzstelle
+  \item Maßnahmen bei Gefahrgutunfällen (GAS-Maßnahmen, \FullPrettyRef{topic:gefahrengutunfall})
+  \item Maßnahmen im Großschadensfall
+  \item Lagemeldung
+  \item Anlegen von Schutzausrüstung
+  \item Nachforderung weiterer Kräfte
+  \item Rettung aus einer Gefahrenzone
+\end{itemize}
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -827,7 +845,7 @@ Wenn notwendig, muss der Leitstelle eine erste
 \subsection{{\FontKeyboardFamily{2}} Eindruck +
 HWS-Stabilisierung (General Impression + Cervical Spine)} 
 
-\Layout{0}{{\TxBeschreibung}}{%
+\TextSlide{{\TxBeschreibung}}{%
 Hier zählt der Eindruck, den der Patient auf den Helfer
 macht. Es werden v.\,a. beurteilt: 
 
@@ -842,7 +860,7 @@ macht. Es werden v.\,a. beurteilt:
 
 Liegt der Verdacht auf eine Wirbelsäulenverletzung vor wird
 bereits hier mit der manuellen Stabilisierung der
-Halswirbelsäule begonnen. \index{HWS-Stabilisierung!Eindruck (ABCDE)}
+Halswirbelsäule begonnen (\FullPrettyRef{m:einschaetzung-indikation-ws-immobilisation}). \index{HWS-Stabilisierung!Eindruck (ABCDE)}
 
 }{%
 \begin{itemize}
@@ -857,7 +875,7 @@ Halswirbelsäule begonnen. \index{HWS-Stabilisierung!Eindruck (ABCDE)}
 {}
 {}
 
-\Layout{2}
+\Text
 {{\eye} Befunde}
 {Auffallen kann eine \E{blasse  Haut}, \E{Zyanose},
 \E{Schweiß}, \E{Schonhaltung},
@@ -870,11 +888,11 @@ können eventuell Hinweise auf ein \E{Trauma}, sichtbare
 Verletzungen, starke Blutungen oder Hinweise auf eine
 Wirbelsäulenverletzung erkannt werden.}
 {\begin{compactitem}
-    \item[\eye] Blässe, Zyanose, Schweiß
-    \item[\eye] Schonhaltung, Atemnot
-    \item[\eye] Sprache, Desorientiertheit,
+    \item Blässe, Zyanose, Schweiß
+    \item Schonhaltung, Atemnot
+    \item Sprache, Desorientiertheit,
     Krämpfe
-  \item[\eye] Trauma, Verletzungen, Wirbelsäule, Blutungen
+  \item Trauma, Verletzungen, Wirbelsäule, Blutungen
   \end{compactitem}}
 {}
 {}
@@ -892,6 +910,15 @@ Wirbelsäulenverletzung erkannt werden.}
 {}
 \end{PictureSeriesWide}
 
+\Text{Typische Maßnahmen}
+{%
+\begin{itemize}
+  \item Manuelle HWS-Immobilisation
+  \item Bewegungsverbot
+  \item Stillen von starken Blutungen
+\end{itemize}
+}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -907,7 +934,7 @@ Wirbelsäulenverletzung erkannt werden.}
 
 
 
-\Layout{0}{\TxBeschreibung}
+\TextSlide{\TxBeschreibung}
 {\DefinitionInPara{Bewusstsein ist ein Oberbegriff für u.\,a. Wachheit,
 Orientierung, Aufmerksamkeit, Auffassungsgabe, Denkverlauf und
 Merkfähigkeit \cite{Pschy259}.} \Z{Die \enquote{wahre} Definition von Bewusstsein ist seit
@@ -945,7 +972,7 @@ Punkt \ABCDE{D} beurteilt.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\Layout{0}{Bewusstseinsgrad}
+\TextSlide{Bewusstseinsgrad}
 {%
 \index{Bewusstseinsgrad}
 \label{topic:bewusstseinsstoerung-grade}
@@ -1083,7 +1110,7 @@ Reaktion auf \EE{S}chmerzreiz
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\Layout{0}{Bewusstseinsstörungen}
+\TextSlide{Bewusstseinsstörungen}
 {%
 \label{topic:bewusstseinsstoerung}%
 \DefinitionInPara{Als Bewusstseinsstörungen bezeichnet man
@@ -1125,7 +1152,7 @@ wehren,
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\Layout{0}{Ursachen}
+\TextSlide{Ursachen}
 {%
 Durch die Schädigung des zentralen Nervensystems kommt es zu
 der Bewusstseinsstörung. Diese Schädigung kann direkt auf
@@ -1193,17 +1220,14 @@ Umwege das ZNS}
 
 
 
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Bewusstseinseintrübung
+\ProcedurePrintDefault{MR40001B}
 
 
-\MassnahmenMK{Spezielle Maßnahmen}{Bewusstseinseintrübung}
-{m:bewusstseinstruebung}{}{}
-
-\SlideCompensationNoParskip{1}
-
-\MassnahmenMK{Spezielle Maßnahmen}{Bewusstlose und
-soporöse Patienten}{m:bewusstlosigkeit}
-{%
-}{}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Bewusstlose und soporöse Patienten
+\ProcedurePrintDefault{MR40021B}
 
 
 
@@ -1219,7 +1243,16 @@ soporöse Patienten}{m:bewusstlosigkeit}
 {}
 \end{PictureSeriesWide}
 
-
+\Text{Typische Maßnahmen}
+{%
+\begin{itemize}
+  \item \TxMassVit 
+  \begin{compactitem}
+    \item Absaugbereitschaft!
+  \end{compactitem}
+  \item Stabile Seitenlage nach \ABCDE{B}
+\end{itemize}
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1229,7 +1262,7 @@ soporöse Patienten}{m:bewusstlosigkeit}
 \subsection{{\FontKeyboardFamily{4}} Hauptbeschwerde (Main
 Complaint)} 
 
-\Layout{0}{What's up, man?}{%
+\TextSlide{What's up, man?}{%
 Die \EE{Hauptbeschwerde} des Patienten, bzw. der \EE{Grund
 der Berufung}, sowie Schmerzen und andere für den Patienten
 dringliche Symptome müssen herausgefunden werden. I.\,d.\,R.
@@ -1266,6 +1299,13 @@ Eventuell ist auch die Umgebung (Angehörige, Dritte) einzubeziehen
 {}
 \end{PictureSeriesWide}
 
+\Text{Typische Maßnahmen}
+{%
+\begin{itemize}
+  \item Gezielte Kurzanamnese
+\end{itemize}
+}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1273,7 +1313,11 @@ Eventuell ist auch die Umgebung (Angehörige, Dritte) einzubeziehen
 \clearpage
 \subsection{{\FontKeyboardFamily{A}} Atemweg (Airway)}
 
-\Layout{0}{Vom Gurgeln und Schnarchen}{%
+\label{topic:atemweg}
+\label{topic:airway}
+
+
+\TextSlide{Vom Gurgeln und Schnarchen}{%
 Unter Punkt
 A wird eingeschätzt, ob der Atemweg \EE{frei} oder
 \EE{verlegt} ist.
@@ -1292,17 +1336,21 @@ Weiters werden die \EE{Atemgeräusche} beurteilt.
 {}
 {}
 
-\Layout{0}
+\TextSlide
 {{\eye} Befunde}
 {Speziell \E{pfeifende}, \E{gurgelnde} oder \E{schnarchende}
 Atemgeräusche können ein Hinweis auf eine Verlegung sein.
 Oft gibt auch die \EE{Gestik} und Haltung des Patienten
-Hinweise.
+Hinweise auf eine Verlegung. 
+Ein \I[Atemweg!gefährdeter]{gefährdeter Atemweg} liegt vor, wenn dieser noch nicht
+verlegt, jedoch aufgrund des Patientenzustandes, der
+Diagnose oder anderer Gegebenheiten eine baldige Verlegung
+wahrscheinlich ist (Verbrennungen des Brustkorbes, allergische Reaktion, \ldots).
 }
 {
 \begin{itemize}
-  \item[→] Frei oder verlegt
-  \item[\eye] Atemgeräusche: Pfeifen, Gurgeln, Schnarchen;
+  \item Frei, verlegt, gefährdet
+  \item Atemgeräusche: Pfeifen, Gurgeln, Schnarchen;
   Gestik
 \end{itemize}
 }
@@ -1310,18 +1358,43 @@ Hinweise.
 {}
 {}
 
-\begin{PictureSeriesWide}{}{Bilderserie ABCDE}
-\PictureSeriesRowWide{3}
-{./images/hirtler-aass/Fremdkoerper.pdf}
-{Hirtler}
-{./images/gabriel-sebastian-aass/Gallenblase-Palpation-001-00800.jpg}
-{ABCDE-Bild}
-{./images/gabriel-sebastian-aass/Gallenblase-Palpation-001-00800.jpg}
-{ABCDE-Bild}
-{empty}
-{}
-\end{PictureSeriesWide}
+% \begin{PictureSeriesWide}{}{Bilderserie ABCDE}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0288-00441pt}
+% {Atemkonmtrolle bei überstrecktem Kopf: Sehen, hören, fühlen! \SourcePicture{ASBÖ, Jürgen Grassl, jgh / MfG}}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0268-00441pt}
+% {Überstrecken des Kopfes \SourcePicture{ASBÖ, Jürgen Grassl, jgh / MfG}}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0351-copy2-00441pt}
+% {Esmarch-Handgriff \SourcePicture{ASBÖ, Jürgen Grassl, jgh / MfG}}
+% {empty}
+% {}
+% \PictureSeriesRowWide{3}
+% {./images/hirtler-aass/Fremdkoerper.pdf}
+% {Fremdkörper in Luft- und Speiseröhre \SourcePicture{Hirtler}}
+% {./images/ASBOE-Grassl-gjh-1/verschlucken_03-00441pt}
+% {Fremdkörper verschluckt}
+% {./images/ASBOE-Grassl-gjh-1/verschlucken_08-00441pt}
+% {Schulterklopfen}
+% {empty}
+% {}
+% \end{PictureSeriesWide}
 
+% TODO Grassl Foto: A, Fremdkörper
+
+\Text{Typische Maßnahmen}
+{%
+\begin{itemize}
+  \item Überstrecken des Kopfes
+  \item Esmarch-Handgriff
+  \item Stabile Seitenlage nach \ABCDE{B}
+  \item Absaugung
+  \item Spezielle Maßnahmen bei Atemwegsverlegung (\FullPrettyRef{topic:mechanische-atemwegsverlegung})
+  \item \TxMassVit 
+  \begin{compactitem}
+    \item Absaugbereitschaft!
+  \end{compactitem}
+\end{itemize}
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1330,7 +1403,10 @@ Hinweise.
 \clearpage
 \subsection{{\FontKeyboardFamily{B}} Atmung (Breathing)}
 
-\Layout{0}{Take a deep breath \ldots}{%
+\label{topic:atmung}
+\label{topic:breathing}
+
+\TextSlide{Take a deep breath \ldots}{%
 \index{Atemprobe}
 \index{Atmung!Einschätzungsblock}
 Als nächstes wird die Funktion der \E{Atmung} beurteilt.
@@ -1338,11 +1414,7 @@ Dazu wird die Frequenz  und Tiefe der Atmung
 eingeschätzt. Dabei wird der Thorax betrachtet und die
 Atmung beobachtet, während der Einatmung wird auf das
 \E{gleichseitige} Heben des Brustkorbes geachtet. 
-Bei Verdacht auf eine Verletzung wird der Thorax auch abgetastet
-und bei der Einatmung mit den flachen Händen
-gegen den Brustkorb gedrückt (\E{Atemprobe}). Dadurch kann
-eine ungleichseitige Belüftung der Lungenflügel erkannt
-werden. Während der Atmung wird auf \EE{Atemgeräusche}
+Während der Atmung wird auf \EE{Atemgeräusche}
 geachtet. 
 
 Bestimmte charakteristische Zeichen können auf
@@ -1358,13 +1430,16 @@ andere Anzeichen der Atemnot.
 \Z{\E{Speziell ausgebildetes} Personal kann mittels eines
 Stethoskops die oberen und unteren Atemwege abhören
 (auskultieren) und damit Störungen des Atemweges und der
-Atmung besser einschätzen.}
+Atmung besser einschätzen. 
+Ebenso ist diesem bei Verdacht auf das Vorliegen einer 
+mechanisch bedingten Atemstörung das Vorziehen des Abtastens 
+des Thorax möglich.}
 
 }{%
 \begin{itemize}
   \item Schätzen: \E{Frequenz} und \E{Tiefe}
   \item Atemgeräusche
-  \item Inspektion (und Abtasten) von Thorax inkl. Atemprobe
+  \item Inspektion von Thorax inkl. Atemprobe
   \item Anzeichen: \\
   Hautfarbe, Bauch-/Thorax\-bewegungen,
   Anstrengung beim Atmen, Atemhilfsmuskulatur, Zeichen der
@@ -1380,11 +1455,12 @@ Atmung besser einschätzen.}
 
 
 
+\subsubsection{Physiologie der Atmung}
 
 % STEU 2009-06-28: Trennung Oxygenation und Ventilation
 \A{STEU 2009-06-28: Trennung Oxygenation und Ventilation}
 
-\Layout{0}{Atemfrequenz, -tiefe und -volumen}
+\TextSlide{Atemfrequenz, -tiefe und -volumen}
 {%
 \index{Atemfrequenz}
 \index{AF}
@@ -1417,9 +1493,9 @@ beschreiben
   \begin{equation}
     \mbox{AMV} = \mbox{AZV} \times \mbox{AF}
   \end{equation}}
-  Die oben angegebenen Normalwerte ergeben also ein normales
-  Atemminutenvolumen von  \VonBis{6}{8}\LPerMin*. 
 \end{itemize}
+Die oben angegebenen Normalwerte ergeben also ein normales
+  Atemminutenvolumen von  \VonBis{6}{8}\LPerMin*. 
 
 }{
 \begin{labeling}[:]{AMV}
@@ -1470,7 +1546,7 @@ beträgt 21\PC*.
 
 
 
-\Layout{0}{Totraum}
+\TextSlide{Totraum}
 {%
 \index{Totraum}%
 Unter dem Totraum versteht man den Teil der Atemwege der
@@ -1503,12 +1579,12 @@ kommt: Die Atmung ist nicht ausreichend.
 
 
 
-\Cave{Schnappatmung = Keine Atmung}
+\Cave{Schnappatmung = Keine suffiziente Atmung}
 
 
 
 
-\Layout{0}{Steuerung der Atmung}
+\TextSlide{Steuerung der Atmung}
 {%
 Die Atmung wird durch das \EE{Atemzentrum im Hirnstamm}
 gesteuert. Daneben gibt es Sensoren im Körper, die den
@@ -1560,7 +1636,7 @@ kann, ist die \Abk{COPD} (\FullPrettyRef{topic:copd}).
 \label{topic:atemstörungen}
 \label{topic:atemstillstand}
 
-\Layout{0}{Einleitung}
+\TextSlide{Einleitung}
 {%
 \index{Ateminsuffizienz}%
 \index{Insuffizienz!Atem-}%
@@ -1592,7 +1668,7 @@ werden als \I{Bradypnoe} (zu langsam) und als \I{Tachypnoe}
 }{}{}{}
 
 
-\Layout{0}{Gefahr der Ateminsuffizienz}
+\TextSlide{Gefahr der Ateminsuffizienz}
 {%
 Bei einer Ateminsuffizienz sinkt der \EE{\ce{O2}-Gehalt} im
 Blut. Es kommt zu einer \EE{Hypoxie} und in weiterer Folge
@@ -1617,7 +1693,7 @@ Zeichnung einbinden? Kussmaul, etc.}
 
 
 
-\Layout{0}{Ursachen}
+\TextSlide{Ursachen}
 {%
 \prettyref{tab:atemstoerungen-ursachen}.
 }{\prettyref{tab:atemstoerungen-ursachen}.}{}{}{}
@@ -1689,7 +1765,7 @@ Atemstörungen.\label{tab:atemstoerungen-ursachen}}
 {}
 
 
-\Layout{0}
+\TextSlide
 {{\eye} Befunde}
 {Atemstörungen können viele verschiedene Symptome
 verursachen. \FullPrettyRef{tab:atmung-symptome}, listet
@@ -1724,16 +1800,16 @@ von Heimsauerstoff
 oder anderen Atemhilfen.
 }
 {\begin{itemize}
-  \item[\eye] Zyanose, Atemnot
-  \item[\eye] Tachy-/Bradypnoe (AF <\,8\PerMin* oder >\,30\PerMin*)
-  \item[\eye] Atemtiefe (flach, tief, Schnappatmung)
-  \item[\eye] Path. Atemmuster
-  \item[\eye] Paradoxe, fehlende Atmung
-  \item[\eye] Sauerstoffsättigung
-  \item[\eye] \Z{Auskultation: Belüftung, feuchte
+  \item Zyanose, Atemnot
+  \item Tachy-/Bradypnoe (AF <\,8\PerMin* oder >\,30\PerMin*)
+  \item Atemtiefe (flach, tief, Schnappatmung)
+  \item Path. Atemmuster
+  \item Paradoxe, fehlende Atmung
+  \item Sauerstoffsättigung
+  \item \Z{Auskultation: Belüftung, feuchte
   Rasselgaräusche, Spastik}
-  \item[\eye] Heimsauerstoff, Atemhilfen
-  \item[\eye] \FullPrettyRef{tab:atmung-symptome}
+  \item Heimsauerstoff, Atemhilfen
+  \item \FullPrettyRef{tab:atmung-symptome}
 \end{itemize}
 }
 {}
@@ -1885,22 +1961,14 @@ Pulsoxymetrie
 
 
 
-\MassnahmenMK{Spezielle
-Maßnahmen}{Insuffiziente
-Atmung (AF \textless\,8 oder
-\textgreater\,30\PerMin*,
-bzw. AZV zu niedrig)}{m:atmung-insuffizient}
-{\Ca{Vitale Bedrohung}
-}{}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Insuffiziente Atmung
+\ProcedurePrintDefault{MJ96091C}
 
-\SlideCompensation{3}
 
-\MassnahmenMK{Spezielle
-Maßnahmen}{Atemstillstand}{m:atemstillstand}{
-\Cave{Achtung: Bei einem mit Atemstillstand vorgefundenen
-Patienten ist grundsätzlich von einer Reanimation
-auszugehen.}}{}
-
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Insuffiziente Atmung
+\ProcedurePrintDefault{MJ96091C}
 
 
 
@@ -1912,11 +1980,28 @@ auszugehen.}}{}
 {Hirtler}
 {./images/gabriel-sebastian-aass/UE2011FORTUNA-00651-0154pt-0300dpi.jpg}
 {Zyanotische Lippen \SourcePicture{Gabriel}}
-{./images/gabriel-sebastian-aass/Gallenblase-Palpation-001-00800.jpg}
-{ABCDE-Bild}
+% {./images/ASBOE-Grassl-gjh-1/auscultation-00441pt}
+% {ABCDE-Bild}
+{empty}
+{}
 {empty}
 {}
 \end{PictureSeriesWide}
+
+% TODO Grassl Foto: Auskultation
+
+\Text{Typische Maßnahmen}
+{%
+\begin{itemize}
+  \item Sauerstoffgabe
+  \item Lippenbremse
+  \item Beengende Kleidung öffnen
+  \item Lagerung mit erhöhtem Oberkörper
+  \item Atemkommandos
+  \item Beatmung
+  \item \TxMassVit
+\end{itemize}
+}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1925,7 +2010,10 @@ auszugehen.}}{}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \clearpage
 \subsection{{\FontKeyboardFamily{C}} Kreislauf
-(Circulation)}
+(Circulation) und Schnelle Trauma-Untersuchung (STU)}
+
+\label{topic:kreislauf}
+\label{topic:circulation}
 
 
 \begin{PictureSeriesWide}{}{Bilderserie ABCDE}
@@ -1943,9 +2031,7 @@ auszugehen.}}{}
 
 
 
-\label{bkm:RefHeading42514202}
-
-\Layout{0}
+\TextSlide
 {Blut als Sauerstofftransporteur}
 {Durch das Kreislaufsystem wird sauerstoff- und
 nährstoffreiches Blut gepumpt. Ausschlaggebend für die
@@ -1974,7 +2060,7 @@ System zurück.
 \cite{Silbernagl3-Kreislaufsystem}}
 
 
-\Layout{0}
+\TextSlide
 {Herzleistung und Blutdruck}
 {Das Herz schlägt beim Erwachsenen mit einer
 \I{Herzfrequenz} (\I{HF}, bzw. \I{Pulsfrequenz}, \I{PF}) von
@@ -2013,7 +2099,7 @@ einfach mittels Blutdruckmanschette messen. (\FullPrettyRef{topic:blutdruck})
 
 
 
-\Layout{0}{Einschätzung des Kreislaufs}{%
+\TextSlide{Einschätzung des Kreislaufs}{%
 Die erste Einschätzung des Kreislaufes dauert nur wenige
 Sekunden. Durch die Beurteilung der \EE{Hautfarbe} und
 \EE{-temperatur}, des \EE{Radialispulses} (gut oder
@@ -2047,13 +2133,8 @@ oder Zentralisierung hin.
 
 
 
-% test:
-% 
-% \glsentrydesc{blutdruck}
-% 
-% :ende test
 
-\Layout{0}{Blutdruck}
+\TextSlide{Blutdruck}
 {\label{topic:blutdruck}%
 Durch die Pumpfunktion des Herzens
 entsteht ein lebenswichtiger Druck im 
@@ -2081,16 +2162,21 @@ Blutdruckmessung vgl.
     \item \TabSub{Hypertonie}: RR
     {\textgreater}~\RRmmHg{140}{90}
     \index{Hypertonie}
-    
-    Eine Hypertonie ist zwar eine Erkrankung, aber
-nicht immer akut von Bedeutung. Viele Patienten sind
-an ihren erhöhten Blutdruck gewohnt und haben keine
-Beschwerden.
 \end{itemize}
-Bei der Interpretation des Wertes muss immer bedacht
+Eine Hypertonie ist zwar eine dauerhaft behandlungsbedürftige Erkrankung, aber
+nicht automatisch im Akutfall von Bedeutung. Die Patienten sind
+normalerweise an ihren erhöhten Blutdruck gewöhnt und haben keine
+Beschwerden. In der Regel stellen sich erst bei einer \E{plötzlichen} Erhöhung Symptome ein.
+\EE{Äußere Einflüsse} haben außerdem einen großen Einfluss auf den Blutdruck, 
+sodass dieser auch erhöht sein kann, ohne dass hierfür eine Erkrankung vorliegt. 
+Weiters ist der untere Normalwert sehr individuell,
+insbesonders bei sehr schlanken oder bettlägrigen Patienten
+sind systolische Blutdruckwerte um die 90\MmHg* möglich.
+Bei der Interpretation des Wertes muss daher immer bedacht
 werden:
 \begin{itemize}
     \item \EE{Zustand} des Patienten
+    \item \EE{Schmerzen}
     \item Der \EE{sonst übliche} Blutdruck des Patienten
     (erfragen, Blutdruckprotokoll)
     \item Der \EE{Verlauf} des Blutdruckes während der
@@ -2188,9 +2274,9 @@ und muss mittels Medikamenten unbedingt gesenkt werden.
 
 
 
-\Layout{0}
+\TextSlide
 {{STU}* | Schnelle Traumauntersuchung}
-{
+{%
 Liegt ein Verdacht auf ein Trauma
 vor, wird eine schnelle Traumauntersuchung (STU)
 durchgeführt\footnote{Wenn Verletzungen auf einen 
@@ -2202,17 +2288,23 @@ Untersuchungen entfallen. Es muss aber bedacht werden, dass
 auch kleine Verletzungen aufgrund von zugrundeliegenden
 Erkrankungen entstehen, oder Folgeverletzungen vorliegen
 können!}. 
-Sie dient dem Aufspüren von akut
-\E{lebensgefährlichen} Verletzungen und beschränkt sich auf
-die wichtigsten Organe. Sie besteht aus der  Inspektion
+Ziel ist das Aufspüren von akut
+\E{lebensgefährlichen} Verletzungen (insbesonders Blutungsquellen und Schäden des ZNS). 
+Sie beschränkt sich auf
+die wichtigsten Organeund  besteht aus der  Inspektion
   und dem Abtasten von
   \begin{compactenum}
     \item \EE{Kopf} inkl. Ohren,
     \item \EE{Hals},
-    \item \EE{Thorax},
+    \item \EE{Thorax} 
+    (inkl. \T{Atemprobe}: Bei der Einatmung wird mit den flachen Händen
+    gegen den Brustkorb gedrückt. 
+    Dadurch kann ein Hinweis auf eine mechanisch-bedingte Atmungsstörung 
+    gewonnen werden, z.\,B. durch eine Serienrippenfraktur),
     \item \EE{Bauch},
-    \item \EE{Becken} und
-    \item \EE{Oberschenkel}.
+    \item \EE{Becken},
+    \item \EE{Oberschenkel} und
+    \item \EE{Rücken} (evtl. erst beim Umlagern auf eine Schaufeltrage oder Spine Board).
   \end{compactenum}
 }
 {\begin{itemize}
@@ -2221,10 +2313,11 @@ die wichtigsten Organe. Sie besteht aus der  Inspektion
   \begin{compactenum}
     \item \EE{Kopf} inkl. Ohren,
     \item \EE{Hals},
-    \item \EE{Thorax},
+    \item \EE{Thorax} (Atemprobe),
     \item \EE{Bauch},
-    \item \EE{Becken} und
-    \item \EE{Oberschenkel}
+    \item \EE{Becken},
+    \item \EE{Oberschenkel},
+    \item \EE{Rücken}
   \end{compactenum}
 \end{itemize}}
 {}
@@ -2234,16 +2327,34 @@ die wichtigsten Organe. Sie besteht aus der  Inspektion
 
 
 
-\Layout{0}
+\TextSlide
 {{\eye} Befunde}
 {Erkennen kann man z.\,B. Schockzeichen,
 sichtbare Blutungen, Herzrhythmusstörungen (Tachy-/Bradykardie,
-Arrhythmie).
-}
-{\begin{itemize}
-  \item[\eye] Sichtbare Blutungen
-  \item[\eye] Schockzeichen
-  \item[\eye] Rhythmus (Tachy-/Bradykardie, Arrhythmie)
+Arrhythmie) sowie Veränderungen des Blutdrucks. Diese
+Befunde müssen mit der Gesamtheit der Befunde, der möglichen
+Diagnosen des Patienten, den Umständen und dem Zustand
+des Patienten, sowie unter Berücksichtigung der Anamnese
+beruteilt werden.
+
+Bei der Schnellen Trauma-Untersuchung (STU) können
+Blutungsquellen oder Hinweise auf Verletzugen des zentralen
+Nervensystems (ZNS) gefunden weden. Als Nebenbefund kann bei
+Verletzungen des Thorax eine mechanisch bedingte Atemstörung
+festgestellt werden (\ABCDE{B}-Befund).
+
+}{%
+\begin{itemize}
+  \item Sichtbare Blutungen
+  \item Schockzeichen
+  \item Rhythmus (Tachy-/Bradykardie, Arrhythmie)
+  \item Blutdruckveränderungen
+  \item STU: 
+  \begin{itemize}
+    \item Blutungsquellen
+    \item Verletzungen des ZNS (\ABCDE{D}-Befund)
+    \item Mechanische Atemstörungen (\ABCDE{B}-Befund)
+  \end{itemize}
 \end{itemize}
 }
 {}
@@ -2267,7 +2378,14 @@ Arrhythmie).
 {}
 \end{PictureSeriesWide}
 
-
+\Text{Typische Maßnahmen}
+{%
+\begin{itemize}
+  \item Lagerung mit erhöhten Beinen
+  \item Blutstillung
+  \item \TxMassVit
+\end{itemize}
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -2277,7 +2395,7 @@ Arrhythmie).
 \subsection{{\FontKeyboardFamily{D}} Neurologisch
 (Disability)}
 
-\Layout{0}{Cute Eyes}{%
+\TextSlide{Cute Eyes}{%
 Es wird die \EE{Be\-wusst\-seins\-quali\-tät} (Orientierung zur Person,
 Raum, Zeit und Situation) oder, wenn angemessen, alternativ 
 die Glasgow Coma Scale (\EE{GCS}) bestimmt. Anschließend werden die
@@ -2309,7 +2427,7 @@ erfolgt eine \EE{Blutzuckermessung}.
 
 
 
-\Layout{0}{Orientierung}
+\TextSlide{Orientierung}
 {%
 \label{topic:orientierung}
 \index{Orientierung}
@@ -2338,7 +2456,7 @@ Man unterscheidet dabei die Orientierung zu:
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\Layout{0}{Glasgow Coma Scale (GCS)}
+\TextSlide{Glasgow Coma Scale (GCS)}
 {%
 \index{Glasgow Coma Scale}
 \index{GCS}
@@ -2367,7 +2485,7 @@ regelmäßig umstritten.}
 \prettyref{tab:gcs}.
 }{}{}{}
 
-\Layout{0}
+\TextSlide
 {{\eye} Befunde}
 {Erkennen lassen sich z.\,B.  Desorientierung, pathologische
 Pupillenreaktionen (abnorme Weitung oder Engstellung,
@@ -2377,12 +2495,12 @@ Gefühlsverlust) Ausfälle sowie Zuckerstoffwechselstörungen.
 }
 {
 \begin{itemize}
-  \item[\eye] Entgleiste Vitawerte
-  \item[\eye] Desorientierung
-  \item[\eye] Pupillen: Abnorme \E{Weite}, \E{Differenz},
+  \item Entgleiste Vitalwerte
+  \item Desorientierung
+  \item Pupillen: Abnorme \E{Weite}, \E{Differenz},
   \E{Reaktion}, \E{Entrundung}
-  \item[\eye] Motorische und sensible Ausfälle
-  \item[\eye] Zuckerstoffwechselstörungen
+  \item Motorische und sensible Ausfälle
+  \item Zuckerstoffwechselstörungen
 \end{itemize}
 }
 {}
@@ -2405,6 +2523,13 @@ Gefühlsverlust) Ausfälle sowie Zuckerstoffwechselstörungen.
 {}
 \end{PictureSeriesWide}
 
+\Text{Typische Maßnahmen}
+{%
+\begin{itemize}
+  \item Strategie- und Zielentscheidung
+\end{itemize}
+}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -2412,7 +2537,7 @@ Gefühlsverlust) Ausfälle sowie Zuckerstoffwechselstörungen.
 \clearpage
 \subsection{{\FontKeyboardFamily{E}} Erweiterte Untersuchung}
 
-\Layout{0}{E -- Wenn es nicht so klar ist: Raum für Instinkt und Erfahrung}{%
+\TextSlide{E -- Wenn es nicht so klar ist: Raum für Instinkt und Erfahrung}{%
 \ZFootnote{E: \Lang{engl.} \E{Exposure}.} 
 Mit den Punkten \Range{\ABCDE{A}}{\ABCDE{D}}
  wären die wichtigsten Untersuchungen
@@ -2451,7 +2576,7 @@ Quasi-Ausschluss) der vitalen Bedrohung notwendig sind.
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Das heißt?}{%
+\TextSlide{Das heißt?}{%
 Ist die vitale
 Bedrohung also noch nicht klar einzuschätzen, müssen
 \EE{gezielt weitere Untersuchungen oder Anamneseschritte} durchgeführt
@@ -2501,7 +2626,7 @@ ableiten}
 \end{itemize}
 }{}{}{}
 
-\Layout{0}
+\TextSlide
 {{\eye} Befunde}
 {Zu erkennen sind sonstige Hinweise auf
 eine vitale Bedrohung, welche bisher nicht erkennbar waren.
@@ -2517,13 +2642,13 @@ Ursache des aktuellen Problem sein muss!).
 }
 {
 \begin{itemize}
-  \item[\eye] Sonst. Hinweise auf vitale Bedrohung
-  \item[\eye] Anamnese (z.\,B.
+  \item Sonst. Hinweise auf vitale Bedrohung
+  \item Anamnese (z.\,B.
   $\geq$ 2 Krämpfe/24\Hour*)
-  \item[\eye] Gefährliche Kombinationen von
+  \item Gefährliche Kombinationen von
   Erkankungen
-  \item[\eye]Prellmarken
-  \item[\eye] \ldots 
+  \item Prellmarken
+  \item \ldots 
 \end{itemize}
 }
 {}
@@ -2535,7 +2660,7 @@ Ursache des aktuellen Problem sein muss!).
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \clearpage
 \subsection{{\FontKeyboardFamily{=}} Beurteilung}
-\Layout{0}{Karten auf den Tisch!}{%
+\TextSlide{Karten auf den Tisch!}{%
 Die \EE{Einschätzung der vitalen Bedrohung}
 erfolgt \E{ständig} während des gesamten
 Einschätzungsblocks. Ein Patient kann jederzeit anhand
@@ -2566,10 +2691,10 @@ Vgl. \prettyref{topic:patientenmanagement-sofortmassnahmen}.
 
 
 
-\subsection{Zeichen einer Vitale Bedrohung: Alarmzeichen (\protect\enquote*{Red
+\subsection{Zeichen einer Vitalen Bedrohung: Alarmzeichen (\protect\enquote*{Red
 Flags} \RedFlag)}
 
-\Layout{0}{Alarmzeichen (\protect\enquote*{Red
+\TextSlide{Alarmzeichen (\protect\enquote*{Red
 Flags} \RedFlag)}
 {%
 Das rasche Feststellen einer vitalen Bedrohung ist besonders
@@ -2623,9 +2748,10 @@ welche auf eine vitale Bedrohung hinweisen.
 }
 \end{minipage}
 }
-}{./images/teaser/minen_hinweis2.jpg}
-{Vorsicht!}
-{GABS.}
+}
+% {./images/teaser/minen_hinweis2.jpg}
+% {Vorsicht!}
+% {GABS.}
 
 \Cave{Sobald eine vitale Bedrohung erkannt wird, müssen die
 \TxMassVit{}
@@ -2655,7 +2781,7 @@ sind z.\,B.
 \end{itemize}
 
 
-\Layout{0}{Vital bedrohte Patienten}{%
+\TextSlide{Vital bedrohte Patienten}{%
 Bei vital bedrohten Patienten gibt es 
 \EE{fünf \enquote{{\TxMassVit}}},
 die \E{sobald wie möglich} (evtl. sogar
@@ -2676,62 +2802,17 @@ haben (\begin{inparaenum}
 
 
 
-%
-% \subsection{Standardmaßnahmen bei vital bedrohten Patienten}
-\label{topic:standardmassnahmen-vital}%
-\MassnahmenNG{Standardmaßnahmen}{Standardmaßnahmen bei vital bedrohten Patienten}{\label{m:standardmassnahmen-vital}}{
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Standardmaßnahmen bei vital bedrohten Patienten
+\ProcedurePrintDefault{YY13100B}
 
 
-\begin{enumerate}
-  \item \EE{Situationsgerechte Lagerung}
-  \item \EE{Sauerstoffgabe}
-  (\prettyref{m:sauerstoffberieselung}): je nach Indikation,
-  allgemeiner Zielwert: Sp\ce{O2} von \VonBis{94}{98}\PC*
-  \item Ggfs. \EE{Notarzt-Nachforderung}:
-  mit kurzer Begründung
-  
-  \Ca{Bei manchen Notfällen keine Notarztnachforderung wenn
-  der Patient zeitkritisch ist, siehe jeweilige spezielle
-  Maßnahmen!}
-  \item \EE{Engmaschiges, bestmögliches Monitoring}: Je nach
-  vorhandenem Material
-  
-  RR, HF, Pulsoxymetrie, EKG,
-  Sitzwache/Patientenbeobachtung, etc.\footnote{Zuerst werden die Patientenbeobachtung
-  und -- wenn vorhanden -- die
-  Pulsoxymetrie eingesetzt. Überwachungsgeräte, deren Anlage
-  zeitintensiv ist (EKG, \ldots), sollen erst dann verwendet
-  werden, wenn alle dringlicheren Maßnahmen durchgeführt und
-  der Einschätzungsblock beendet ist! Die
-  Patientenbeobachtung bleibt immer ein wesentlicher Teil
-  des Monitorings!}
-  \item \EE{Reanimationsbereitschaft} herstellen
-  (\prettyref{m:reanimationsbereitschaft})
-\end{enumerate}
-
-{\scriptsize(Reihenfolge zählt!)}
-}
-
-\MassnahmenNG{Standardmaßnahmen}
-{Reanimationsbereitschaft}
-{\label{m:reanimationsbereitschaft}}
-{%
-\begin{enumerate}
-  \item Ggfs. Platz schaffen\footnote{z.\,B. im Wohnzimmer den Couchtisch, Hocker etc. zur Seite schieben}
-  \item Geräte vorbereiten:
-\begin{enumerate}
-    \item \EE{Beatmungsbeutel}
-    \item \EE{Absaugeinheit} und passenden Katheter  in
-    Griffweite stellen. Steriles Material bleibt verpackt.
-    \item \EE{Defibrillator} in Griffweite stellen,
-    Elektroden und Verbrauchsmaterial bleiben verpackt.
-  \end{enumerate}
-\end{enumerate}
-
-}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Reanimationsbereitschaft
+\ProcedurePrintDefault{YY13210B}
 
 
-\Layout{0}
+\TextSlide
 {\underline{Sonderfall:} Vorgezogene Strategie- und 
 Zielentscheidung bei absolut zeitkritischen Patienten}
 {%
@@ -2765,7 +2846,7 @@ beherrschbare starke Blutungen oder geburtsunmögliche Lagen.
 {}
 {}
 
-\Layout{2}{Nicht vital bedrohte Patienten}{%
+\Text{Nicht vital bedrohte Patienten}{%
 Auch bei
 nicht vital bedrohten Patienten können Sofortmaßnahmen
 ergriffen werden (z.\,B. Lagerung). Es muss individuell
@@ -2776,9 +2857,35 @@ und welche warten können.
 }{}{}{}
 
 
+\subsection{Re-Evaluation (Verlaufskontrolle)}
+\index{Verlaufskontrolle}
+
+\Dictum[The bowl of petunias.\\
+In: Douglas Adams: The
+Hitchhiker's Guide to the Galaxy]
+{Oh no, not again.}
+
+\noindent
+Der Einschätzungsblock inkl. der Strategieentscheidung muss
+\EE{regelmäßig während der Betreuung} bzw.
+während des Transports -- in
+angemessenem Umfang -- \EE{wiederholt werden}, um eine
+Verschlechterung des Patientenzustandes rechtzeitig zu erkennen. 
+Änderungen in der Behandlung und der Strategie können sich
+jederzeit ergeben. \Commentary[Einschätzungsblock:
+Regelmäßge, angepasste Wiederholung]{%
+Die Forderung nach regelmäßiger, angepasster Wiederholung
+des Einschätzungsblockes entspricht dem früher
+gebräuchlichen Begriff \enquote{ständige Verlaufskontrolle}. Die
+Formulierungen \enquote{regelmäßig} und \enquote{in angemessenem Umfang}
+sind bewusst offen gewählt worden, da dies sowohl z.\,B. für
+den kritischen Bewusstlosen, als auch für den
+\enquote*{munter vor sich hinplaudernden} KTW-Patienten
+gelten soll.
+} % Commentary
 
 
-\subsection{Strategieentscheidung}
+\section{Strategieentscheidung}
 
 \label{topic:pam-strategie}
 
@@ -2802,7 +2909,7 @@ Ablauf ist situations- und patientenabhängig.
 \end{itemize}
 
 
-\Layout{0}
+\TextSlide
 {Transportpriorität}
 {Bei manchen Krankheitsbildern bringt eine ausgiebige
 Behandlung vor Ort keinen Vorteil, andere hingegen
@@ -2867,32 +2974,6 @@ Blutungen oder geburtsunmögliche Lagen.
 {}
 
 
-\subsection{Re-Evaluation (Verlaufskontrolle)}
-\index{Verlaufskontrolle}
-
-\Dictum[The bowl of petunias.\\
-In: Douglas Adams: The
-Hitchhiker's Guide to the Galaxy]
-{Oh no, not again.}
-
-\noindent
-Der Einschätzungsblock inkl. der Strategieentscheidung muss
-\EE{regelmäßig während der Betreuung} bzw.
-während des Transports -- in
-angemessenem Umfang -- \EE{wiederholt werden}, um eine
-Verschlechterung des Patientenzustandes rechtzeitig zu erkennen. 
-Änderungen in der Behandlung und der Strategie können sich
-jederzeit ergeben. \Commentary[Einschätzungsblock:
-Regelmäßge, angepasste Wiederholung]{%
-Die Forderung nach regelmäßiger, angepasster Wiederholung
-des Einschätzungsblockes entspricht dem früher
-gebräuchlichen Begriff \enquote{ständige Verlaufskontrolle}. Die
-Formulierungen \enquote{regelmäßig} und \enquote{in angemessenem Umfang}
-sind bewusst offen gewählt worden, da dies sowohl z.\,B. für
-den kritischen Bewusstlosen, als auch für den
-\enquote*{munter vor sich hinplaudernden} KTW-Patienten
-gelten soll.
-} % Commentary
 
 
 \clearpage
@@ -2929,7 +3010,7 @@ wichtige Hilfsmittel.
 
 
 
-\Layout{0}{\TxSAMPLER}{%
+\TextSlide{\TxSAMPLER}{%
 In einer Notfallsituation soll das Anamnesegespräch
 gleichzeitig alle wichtigen Informationen zu Tage fördern,
 andererseits aber effizient und zeitsparend durchgeführt
@@ -2938,15 +3019,15 @@ soll es strukturiert durchgeführt werden. Normalerweise
 enthält es die folgenden wichtigen Punkte:
 
 \begin{itemize}
-    \item \EE{\color{DefaultA}S}ymptome und Schmerzen
-    \item \EE{\color{DefaultA}A}llergien
-    \item \EE{\color{DefaultA}M}edikamente
-    \item \EE{\color{DefaultA}P}atientengeschichte (Vor- und
+    \item \SAMPLER{S} \EE{\color{Base}S}ymptome und Schmerzen
+    \item \SAMPLER{A} \EE{\color{Base}A}llergien
+    \item \SAMPLER{M} \EE{\color{Base}M}edikamente
+    \item \SAMPLER{P} \EE{\color{Base}P}atientengeschichte (Vor- und
     Grunderkrankungen, Operationen, \ldots)
-    \item \EE{\color{DefaultA}L}etzte \ldots
-    \item \EE{\color{DefaultA}E}reignisse vor
+    \item \SAMPLER{L} \EE{\color{Base}L}etzte \ldots
+    \item \SAMPLER{E} \EE{\color{Base}E}reignisse vor
     Notfalleintritt
-    \item \EE{\color{DefaultA}R}isikofaktoren
+    \item \SAMPLER{R} \EE{\color{Base}R}isikofaktoren
 \end{itemize}
 
 In Anlehnung an die Anfangsbuchstaben wird dieses
@@ -2962,21 +3043,22 @@ Fragen je nach Situation abweichen.
 
 }{%
 \begin{itemize}
-    \item \EE{\color{DefaultA}S}ymptome und Schmerzen
-    \item \EE{\color{DefaultA}A}llergien
-    \item \EE{\color{DefaultA}M}edikamente
-    \item \EE{\color{DefaultA}P}atientengeschichte 
-    \item \EE{\color{DefaultA}L}etzte \ldots
-    \item \EE{\color{DefaultA}E}reignisse vor
+    \item \SAMPLER{S} \EE{\color{Base}S}ymptome und Schmerzen
+    \item \SAMPLER{A} \EE{\color{Base}A}llergien
+    \item \SAMPLER{M} \EE{\color{Base}M}edikamente
+    \item \SAMPLER{P} \EE{\color{Base}P}atientengeschichte 
+    \item \SAMPLER{L} \EE{\color{Base}L}etzte \ldots
+    \item \SAMPLER{E} \EE{\color{Base}E}reignisse vor
     Notfalleintritt
-    \item \EE{\color{DefaultA}R}isikofaktoren
+    \item \SAMPLER{R} \EE{\color{Base}R}isikofaktoren
 \end{itemize}
 }{}{}{}
 
 
 
 
-\Layout{0}{Symptome und Schmerzen}{%
+\TextSlide{\protect\biolinumGlyph{uni24C8} Symptome und
+Schmerzen}{%
 \index{Schmerz}Die Einstiegsfrage \Speech{\enquote{Was
 kann ich für Sie tun?}} weist oft
 bereits auf das Haupt- bzw. Leitsymptom hin. Ist dies
@@ -3032,6 +3114,8 @@ werden, hier am Beispiel Schmerzen:
   %     einzustufen.
   }
 \end{itemize}
+Sinngemäß gelten diese Fragen auch für alle anderen
+denkbaren Symptome.
 \Z{Diese
 Fragenabfolge wird in Anlehnung auf die Benennung der
 EKG-Zacken als \T{OPQRST} bezeichnet\ZFootnote{\I{OPQRST}: Onset
@@ -3082,12 +3166,12 @@ Verlauf)}}.
 
 
 
-\Layout{0}
+\TextSlide
 {Besonderheit: Kolikartiger Schmerz}
-{\label{topic:kolik}
-\index{Kolik!Schmerzqualität}
-\index{Schmerz!kolikartiger}
-
+{\label{topic:kolik}%
+\index{Kolik!Schmerzqualität}%
+\index{Schmerz!kolikartiger}%
+%
 Ein \T{Kolikartiger Schmerz} ist \EE{an-}
 und \EE{abschwellend}.
 Er wird oft als krampfhaft und sehr stark beschrieben. Er
@@ -3100,13 +3184,10 @@ Steine vor (\FullPrettyRef{topic:gallenkolik},
   \item Krampfhaft
 \end{compactitem}
 }
-{}
-{}
-{}
 
 
 
-\Layout{2}{Allergien}{%
+\Text{\biolinumGlyph{uni24B6} Allergien}{%
 Auf die Frage nach möglichen Allergien wird häufig
 vergessen, ein Informationsmangel kann aber fatale
 Auswirkungen haben. Es muss daher immer nach Allergien,
@@ -3119,7 +3200,7 @@ einem späteren Zeitpunkt nicht mehr befragt werden!
 
 
 
-\Layout{0}{Medikamente}{%
+\TextSlide{\biolinumGlyph{uni24C2} Medikamente}{%
 Die vom Patienten eingenommenen Medikamente lassen
 Rückschlüsse auf seine Grunderkrankungen zu und sind im Falle
 eines längeren Spitalsaufenthalts eine wertvolle Information.
@@ -3163,12 +3244,12 @@ Medikamentenpackungen des Patienten gesichert werden.
 {}
 {\FontSansNarrowFamily\scriptsize\begin{tabulary}{\linewidth}{LLLLLL}
 \toprule\addlinespace
-\TabHeading{(Marken-) Name}
-				& \TabHeading{(Grund-) Erkrankungen}
-									& \TabHeading{Anmerkungen}	
-													& \TabHeading{Andere Namen / Generika}		
-																					& \TabHeading{Wirkstoff} 	
-																									& \TabHeading{Wirkung} 			
+\noindent\TabHeading{(Marken-) Name}
+				& \noindent\TabHeading{(Grund-) Erkrankungen}
+									& \noindent\TabHeading{Anmerkungen}	
+													& \noindent\TabHeading{Andere Namen / Generika}		
+																					& \noindent\TabHeading{Wirkstoff} 	
+																									& \noindent\TabHeading{Wirkung} 			
 \\\addlinespace\midrule\addlinespace
 \noindent\Ca{Marcoumar{\texttrademark}}
 				& z.\,B. Herzrhytmusstörungen
@@ -3231,12 +3312,10 @@ Nitroglycerin
 {Besonders häufige bzw. wichtige Medikamente}
 {}
 
-Notizen: \TakeNotesLarge
 
 
-
-\Layout{0}
-{Patientengeschichte}
+\TextSlide
+{\biolinumGlyph{uni24C5} Patientengeschichte}
 {Notfälle ereignen sich manchmal aufgrund der akuten
 Verschlechterung einer bestehenden Vorerkrankung. Außerdem
 hilft die Beurteilung der Messwerte, wenn man über die
@@ -3281,7 +3360,7 @@ werden:
 {}
 
 
-\Layout{0}{Letzte \ldots}{%
+\TextSlide{\biolinumGlyph{uni24C1} Letzte \ldots}{%
 Der letzte Punkt des Abfrageschemas bezieht sich auf letzte
 Ereignisse, welche mit dem Notfall in Zusammenhang stehen
 könnten. Damit Sie hier die richtigen Fragen stellen können,
@@ -3315,7 +3394,7 @@ Beschwerden können verschiedene Fragen zielführend sein:
 
 
 
-\Layout{2}{Ereignisse vor Notfalleintritt}{%
+\Text{\biolinumGlyph{uni24BA} Ereignisse vor Notfalleintritt}{%
 Oft ereignen sich vor einem Notfall Schlüsselereignisse,
 welche den Notfall herbeiführen oder diesen auslösen.
 Fragen Sie daher immer nach möglichen Besonderheiten oder
@@ -3342,7 +3421,7 @@ Angehörige oder Zeugen befragen:
 
 }{}{}{}
 
-\Layout{0}{Risikofaktoren}{%
+\TextSlide{\biolinumGlyph{uni24C7} Risikofaktoren}{%
 Viele Erkrankungen werden durch das Vorhandensein von
 Risikofaktoren begünstigt.
 Das Vorliegen von Riskofaktoren bedeutet natürlich nicht,
@@ -4001,85 +4080,10 @@ müssen bei jeder Patientenbetreuung -- sofern angemessen --
 durchgeführt werden.
 
 
-\label{topic:standardmassnahmen-immer}
-\MassnahmenTwoColumn{Standardmaßnahmen}{Immer durchzuführende Standardmaßnahmen}
-{\label{m:standardmassnahmen-immer}}{%
-Die folgenden Maßnahmen sind grundsätzlich immer in einer \E{der Situation
-angemessenen} Art und Weise durchzuführen. Im begründeten Ausnahmefall kann es
-allerdings notwendig oder sinnvoll sein, dass manche Maßnahmen unterbleiben oder
-aufgeschoben werden (Auf Grund des Selbstschutzes, \enquote{Aufklärung} eines bewusstlosen Patienten,
-\ldots{}) oder angepasst werden müssen.
 
-{\scriptsize (Die Reihenfolge ist der jeweiligen Situation anzupassen!)}
-\begin{itemize}
-  \item Einschätzungsblock \prettyref{m:einschaetzungsblock}
-  \item Beengende oder behindernde Kleidung entfernen bzw.
-  öffnen
-  \item Situationsgerechte Lagerung
-  \item \E{Wärmeerhalt} oder \E{Kühlung}
-  \item Angemessene Erhebung der Anamnese \ref{chp:AUP}
-  \item Angemessene Untersuchung \prettyref{tab:pam-weiterfuehrende}
-  \item Spezielle Maßnahmen gemäß Verdachtsdiagnose(n)
-  \prettyref{tab:pam-weiterfuehrende}
-  \item Patientenidentifkation
-  \item Dokumentation, Aufklärung
-  \item Psychischer Beistand
-  \item Verlaufskontrolle, Patientenbeobachtung, Monitoring
-  \columnbreak
-  \item Weiteres Vorgehen, je nach Bedarf und Situation:
-  
-  
- 
-  \begin{itemize}\label{tab:pam-weiterfuehrende}
-    \item Zielentscheidung und ggfs. Transport an eine
-    geeignete Einrichtung (Krankenanstalt).
-    \item Notarzt-Nachforderung (bei Bedarf, z.\,B. Schmerztherapie,
-    Aufklärung zwecks \E{Belassung}\index{Belassung} auf
-    Patientenwunsch \E{trotz Behandlungsnotwendigkeit}, \ldots)
-%     \item Unterlassung der Intervention wenn
-%     \E{offensichtlich} kein sanitätsdienstliches Problem
-%     besteht (Fehlalarmierung) 
-%     Behandlungsbedarf/-wunsch
-%     besteht und eine gesundheitliche Gefährdung des Patienten ausgeschlossen werden kann.
-    \Ca{Rechtliche Hinweise beachten (\prettyref{topic:revers})!}
-    \item Patient begibt sich selbstständig in weitere
-    Behandlung. Z.\,B. Bagatellverletzungen (z.\,B.
-    oberflächliche Schürfwunde) ist es zulässig, dass sich
-    der Patient selbständig in ärztliche Behandlung begibt.
-    Das Anraten, eine ärztliche Behandlung aufzusuchen, ist
-    zu dokumentieren und ggfs. vom Patienten per
-    Unterschrift bestätigen zu lassen (Revers). Über Risiken
-    muss aufgeklärt (und diese Aufklärung ebenfalls
-    dokumentiert) werden.
-  \end{itemize}
-  \item Ggfs. Übergabe an weiterbehandelndes Personal
-\end{itemize}
-
-\Commentary[Immer durchzuführende Maßnahmen, Belassung]
-  {Die Frage, wie nichtärztliches Personal
-  bei einer Transportverweigerung oder vermeintlich nicht
-  vorliegender Behandlungsbedürftigkeit/Spitalspflichtigkeit
-  vorzugehen hat, ist nach wie vor nicht
-  zufriedenstellend beantwortet.\ParBugfix
-  Zur rechtlichen Lage in Österreich: Die Untersuchung auf
-  das Vorliegen oder Nichtvorliegen von
-  körperlichen und psychischen Krankheiten oder Störungen
-  ist im \protect\S\,2 Abs.~2 Z.~1 ÄrzteG geregelt und hat keine
-  Entsprechung im SanG; somit fällt die Feststellung, ob
-  eine Behandlungsbedürftigkeit besteht unter den
-  Ärztevorbehalt, d.\,h. ist den Ärzten vorbehalten. \ParBugfix
-  \protect\Speech{\enquote{Ob Behandlungsbedarf vorliegt, kann nur
-  von einem Arzt entschieden werden. Denn die dafür erforderliche
- Diagnose von (behaupteten) Krankheitszuständen fällt unter
- \protect\S\,2 Abs.~2 Z.~1 ÄrzteG und ist daher den Ärzten
- vorbehalten.}} OGH (4 Ob 36/10p)
- \ParBugfix
- Das \enquote{selbstständige Begeben in ärztliche Behandlung}
- stellt keine Verneinung des Vorliegens einer Erkankung
- oder gesundheitlichen Störung sowie deren 
- grundsätzlicher Behandlungsnotwendigkeit dar.} % Commentary
-}
-
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Immer durchzuführende Standardmaßnahmen
+\ProcedurePrintDefault{YY11000C}
 
 % \subsection{Der Patient endet nicht mit der Übergabe}
 % 
@@ -4142,21 +4146,31 @@ Weiters hat der \EE{Zustand des Patienten} sowie die
 \EE{Verdachtsdiagnose} Einfluss auf den \EE{Zeitpunkt} des
 Transportes (schnelle Hospitalisierung vs. Stabilisierung vor Ort).
 
-\Layout{2}{Zielentscheidung beim Primäreinsatz}{%
+\Text{Zielentscheidung beim Primäreinsatz}{%
 Beim Primäreinsatz (\enquote{Rettungseinsätze}) ist der
 Transport des Patienten die Regel. Besonders wichtig ist die
-\EE{Auswahl des richtigen Zieles}. Bei kritischen Patienten
+\EE{Auswahl des richtigen Zieles}. Hierbei muss bedacht werden:
+\begin{itemize}
+  \item Benötigte Fachabteilung
+  \item Eventuell benötigte Fachabteilungen, 
+  welche vor Ort (\enquote*{im Hintergrund}) verfügbar sein sollten 
+  (z.\,B. Gynäkologie bei Patientinnen mit Bauchbeschwerden)
+  \item Regionale Regelungen (Bettenkontingente, 
+  spezielle Zuständigkeiten für bestimmte Krankheitsbilder oder 
+  Patientengruppen, \ldots)
+\end{itemize}
+Bei kritischen Patienten
 hat diese Auswahl oft große Folgen für den Erfolg der
 weiteren Behandlung. Wird der Patient einer ungeeigneten
 Einrichtung (unzuständige Fachabteilung, benötigte
-Spezialeinrichtungen nicht verfügbar, \ldots) zugeführt,
+Fachabteilung oder Spezialeinrichtungen nicht vor Ort verfügbar, \ldots) zugeführt,
 kann es zu \EE{Verzögerungen} in der Behandlung kommen,
-welche \EE{bleibende (vermeidbare) Schäden} verursachen
+welche (vermeidbare) \EE{bleibende Schäden} verursachen
 können.
 }{}{}{}{}
 
 
-\Layout{2}{Zielentscheidung beim Sekundäreinsatz}{%
+\Text{Zielentscheidung beim Sekundäreinsatz}{%
 Beim Sekundäreinsatz gibt es i.\,d.\,R. einen
 vordefinierten Zielpunkt. Hier muss vor allem bedacht
 werden, ob das vorhandene \EE{Material ausreicht}, um den
@@ -4168,7 +4182,7 @@ Sauerstoff, Dekubitusprophylaxe,
 }{}{}{}{}
 
 
-\Layout{2}{Zielentscheidung bei Ambulanzdiensten}{%
+\Text{Zielentscheidung bei Ambulanzdiensten}{%
 \index{Triage!Patientenmanagement}%
 Bei Ambulanzdiensten wird der Sanitätsdienst häufig
 von Patienten in Anspruch genommen, welche keine
@@ -4201,7 +4215,7 @@ Patientenleitsystem in die Behandlungsprioritäten
 eingeteilt (\E{Triage}, \prettyref{topic:triage}).
 }{}{}{}{}
 
-\Layout{0}{Bettenkontingent}{%
+\TextSlide{Bettenkontingent}{%
 \index{Bettenkontingent}%
 In vielen Rett\-ungs\-dienst\-be\-reichen gibt es sog.
 Bettenkontingente. Durch dieses System versucht man, die
@@ -4220,7 +4234,7 @@ bzw. über Datenterminals.
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{\enquote{Spezialbetten}}{%
+\TextSlide{\enquote{Spezialbetten}}{%
 \index{Spezialbetten}%
 Über ein Bettenkontingent sind i.\,d.\,R. Behandlungsplätze
 von häufig benötigten Spezialabteilungen verfügbar.
@@ -4237,9 +4251,13 @@ erforderlich werden, dazu zählen:
   Perkutane Transluminale Coronar-Angioplastie},
   PCI\footnote{PCI: Percutane Coronar-Intervention}) für
   Herzinfarktpatienten
-  \item \II{Schockraum}: Behandlungseinrichtung für schwer
-  Verletzte, in der der Patient vor einer weiteren
-  Behandlung stabilisiert werden kann/soll
+  \item \II{Schockraum}: Behandlungseinheit mit Vorrichtungen 
+  zur Stabilisierung und Aufrechterhaltung von Vitalfunktionen,
+  normalerweise von schwer
+  verletzten, je nach regionaler Regelung eventuell auch von schwer 
+  erkrankten Patienten. Hier wird der Patient vor einer weiteren
+  Behandlung stabilisiert. Der Schockraum ist normalerweise 
+  einer Abteilung für Unfallchirurgie zugeordnet.
   \item Gebärende und
   psychiatrische Patienten
 \end{itemize}
@@ -4261,7 +4279,7 @@ sie gemäß ihrer
 \end{itemize}
 }{}{}{}
 
-\Layout{2}{Sonderfall: Kurz zurückliegende Spitalsentlassung}{%
+\Text{Sonderfall: Kurz zurückliegende Spitalsentlassung}{%
 \index{Bumerang-Patient|Z}%
 In manchen Rettungsdienstbereichen wurden Regelungen
 eingeführt, wonach Patienten, welche innerhalb einer
@@ -4284,7 +4302,7 @@ neue Problem ungeeignet, muss der Patient natürlich in eine
 }{}{}{}{}
 
 
-\Layout{2}{Sonderfall: Bettenzusage}{%
+\Text{Sonderfall: Bettenzusage}{%
 \index{Bettenzusage}%
 Spitäler können grundsätzlich auf Anfrage von sich aus sog.
 \enquote{Bettenzusagen} erteilen. In der Regel erfolgt dies häufig
@@ -4345,12 +4363,12 @@ vergessen werden dürfen.
 
 \subsection{Anwendung in der Praxis}
 
-\Layout{2}{Primäreinsatz}{%
+\Text{Primäreinsatz}{%
 Das hier vorgestellte Schema wurde primär in Hinblick auf
 Primäreinsätze entwickelt und ist dementsprechend anwendbar.
 }{}{}{}{}
 
-\Layout{2}{Sekundäreinsatz}{%
+\Text{Sekundäreinsatz}{%
 Für den Sekundäreinsatz (insbesonders Transferierungen von
 behandlungspflichtigen Patienten) gilt grundsätzlich das
 gleiche Vorgehen wie beim Primäreinsatz. Die Informationen
@@ -4369,7 +4387,7 @@ Elektrolytstörungen hingewiesen!
 }{}{}{}{}
 
 
-\Layout{2}{Ambulanzdienst}{%
+\Text{Ambulanzdienst}{%
 Für Ambulanzdienste gilt grundsätzlich das gleiche Vorgehen
 wie beim Primäreinsatz, die einzelnen Handlungen müssen
 sinngemäß an die Situation angepasst werden. Auch hier soll
@@ -4384,57 +4402,9 @@ angemessener Weise durchgeführt werden.
 
 
 
-
-
-\MassnahmenNG{Standardmaßnahmen}
-{Einschätzung der Indikation zur Wirbelsäulenimmobilisation}
-{\label{m:einschaetzung-indikation-ws-immobilisation}}
-{%
-% \marginnote{\includegraphics[width=\marginparwidth]{./images/pallinger-christoph-aass/Spiderstrap_32954-AASS-0112mm.jpg}}
-Eine Immobilisation der Wirbelsäule ist notwendig bei
-Traumapatienten, bei denen folgendes zutrifft:
-
-\begin{enumerate}
-  \item \EE{Typischer Unfallmechanismus}
-  \begin{itemize}
-    \item Hochgeschwindigkeitsunfall
-    \item Sturz $\geq$ 3\Meter* oder 3fache Patientengröße
-    \item Penetrierende Verletzungen im Bereich der
-    Wirbelsäule
-    \item Sportverletzungen im Kopf- oder Nackenbereich
-    \item Trauma nach Sprung ins Wasser
-    \item Stauchungsverletzung der HWS (z.\,B. Schlag auf
-    Kopf)
-    \item Suizidversuch durch Erhängen
-    \item Bewusstloser Traumapatient
-  \end{itemize}
-  \item \EE{Unklarer Unfallmechanismus}, bei dem einer der
-  folgenden Punkte zutrifft:
-  \begin{itemize}
-    \item Spinaler Schmerz oder Druckschmerz über der
-    Wirbelsäule
-    \item Auffälliger Befund bei Untersuchung von Motorik
-    und Sensibilität\footnote{sofern nicht anders plausibel
-    erklärbar}
-    \item Patientenangaben kann nicht vertraut
-    werden
-    \begin{itemize}
-      \item Stresssituation
-      \item Schädel- oder zerebrale Verletzung
-      \item Auffälliger Bewusstseinszustand
-      \item Intoxikation
-      \item Ablenkende Verletzungen
-    \end{itemize}
-  \end{itemize}
-  \item \EE{Verdacht}
-\end{enumerate}
-
-Solange es noch unklar ist, ob eine WS-Immobilisation
-notwendig ist, muss eine manuelle Fixierung der HWS
-durchgeführt werden.
-
-\cite{ITLSde6,ScholzNotfallmedizin2,SiewertChirurgie8}
-}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Einschätzung der Indikation zur Wirbelsäulenimmobilisation
+\ProcedurePrintDefault{YY14200B}
 \Commentary[Konsensus]{Review 2011-01-11}
 
 \clearpage
@@ -4555,14 +4525,25 @@ Thoraxschmerz und die Atemnot.
 \noindent An welche Differentialdiagnosen müssen Sie nun
 denken?
 
-
-% \clearpage
-% CHECK gWideParEnv Thoraxschmerz: Differentialdiagnosen unseres Patienten
-\begin{WidePar}\FontTableBase
+% \TableWide
+% 	{Titel}%1
+% 	{Beschreibung}%2
+% 	{Label}%3
+% 	{Quelle}%4
+% 	{Lizenz}%5
+% 	{Tabelle}%6
+% 	{Float}%8
+\TableWide
+{Thoraxschmerz: Differentialdiagnosen des
+Patienten}%1
+{Eine Übersicht zum Fallbeispiel}%2
+{}%3
+{}%4
+{}%5
+{%
 \begin{tabularx}{\linewidth}[H]{XXXc}
 \addlinespace\toprule\addlinespace
-\multicolumn{4}{c}{\centering\TabHeading{Thoraxschmerz: Differentialdiagnosen des
-Patienten} }
+\multicolumn{4}{c}{\centering\TabHeading{} }
 \\\addlinespace\midrule\addlinespace
 \centering \TabSub{Verdachtsdiagnose}
  &
@@ -4613,7 +4594,8 @@ untypische Ausstrahlung, Atemnot, nicht bewegungsabhängig
 sehr unwahrscheinlich
 \\\addlinespace\bottomrule
 \end{tabularx}
-\end{WidePar}
+}%6
+{H}%8
 
 
 Die wahrscheinlichsten Diagnosen sind demnach ein

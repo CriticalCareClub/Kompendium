@@ -16,7 +16,7 @@
   \item[Maintainer:] Sebastian Gabriel
   \item[Autoren:] Diverse
   \item[Reviewer:] Standard-Reviewprozess
-  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[Version:] {\VarDocVersionTypeName} ({\VarDocVersionTypeDescription})
   \item[SHA1:] {\DocGitCommit}
 \end{description}
 
@@ -81,6 +81,19 @@ unmittelbar nach der Geburt als solches
 klassifiziert.\label{tab:altersgruppen-kinder}}
 {}
 
+% \begin{PictureSeriesWide}{}{Pädiatrisches Notfalllineal}
+% \PictureSeriesRow{2}
+% {./images/ASBOE-Grassl-gjh-1/CRW_0409-00441pt}
+% {Ein pädiatrisches Notfalllineal  \SourcePicture{ASBÖ/gjh}}
+% {./images/ASBOE-Grassl-gjh-1/CRW_0412-00441pt}
+% {Mittels eines pädiatrischen Notfalllineals können größenspezifische Normalwerte und Dosierungen von Medikamenten abgelesen werden. \SourcePicture{ASBÖ/gjh}}
+% {}
+% {}
+% {}
+% {}
+% \end{PictureSeriesWide}
+
+% TODO Grassl Foto: Pädiatrisches Notfalllineal
 
 \Layout{47}
 {Anatomische und physiologische Besonderheiten von Kindern}
@@ -156,6 +169,20 @@ Austrocknung und Unterkühlung schneller  möglich!
 % 
 % \end{table}
 
+% \begin{PictureSeriesWide}{}{Diagnostik und Therapie bei Kindern}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/CRW_0784-00441pt}
+% {Blutdruckmessung \SourcePicture{ASBÖ/gjh}}
+% {./images/ASBOE-Grassl-gjh-1/CRW_0901-00441pt}
+% {Temperaturmessung \SourcePicture{ASBÖ/gjh}}
+% {./images/ASBOE-Grassl-gjh-1/CRW_0861-00441pt}
+% {Anlage einer HWS-Schiene \SourcePicture{ASBÖ/gjh}}
+% {}
+% {}
+% \end{PictureSeriesWide}
+
+% TODO Grassl Foto: Diagnostik, Therapie bei Kindern (RR, Temperatur, HWS-Schiene)
+
 \subsection{Allgemeines zu Erkrankungen im Kindes- und
 Jugendalter}
 
@@ -180,40 +207,14 @@ Die Fremdkörperaspiration und mechanische Atemwegsverlegung wird unter
 behandelt.
 
 
-% 
-% 
-% \MassnahmenNG{Spezielle Maßnahmen}{Atemwegsverlegung}{}{
-% 
-% \begin{itemize}
-%   \item \TxMassVitBes
-%   \begin{itemize}
-%     \item \ce{O2}: 15\LPerMin*
-%     \item Lagerung: aufrecht, Oberkörper hoch,
-%     Atemhilfsmuskulatur unterstützen
-%   \end{itemize}
-%   \item Manöver (lt. ERC) unterschiedlich zwischen leichter und schwerer Atemwegsverlegung
-%   \begin{itemize}
-%     \item \EE{leichte Atemwegsverlegung} Kind weint und kann noch auf Fragen verbal Antworten; deutliches Einatmen ist möglich.
-%     \begin{itemize}
-%       \item zum Husten auffordern; überwachen; hospitalisieren
-%     \end{itemize}
-%     \item \EE{schwere Atemwegsverlegung} unfähig zu sprechen, atmen oder husten
-%     \begin{itemize}
-%       \item 5 Schläge auf den Rücken
-%       \item 5 Heimlich-Manöver (!beim Säugling jedoch Thoraxkompressionen!)
-%     \end{itemize}
-%   \end{itemize}
-%   \item Bei Atemstillstand Reanimation
-% \end{itemize}
-% 
-% }
 
-\subsection{Laryngitis, Pseudokrupp}
+\subsection{Akute obstruktive Laryngitis, Pseudokrupp}
 \label{topic:laryngitis}
 \label{topic:pseudokrupp}
 
+% TODO J05.- Akute obstruktive Laryngitis [Krupp] und Epiglottitis überarbeiten
 
-\Layout{0}{\TxBeschreibung}
+\TextSlide{\TxBeschreibung}
 {%
 Bei der Laryngitis
 (Pseudokrupp\index{Pseudokrupp}\footnote{\enquote{Pseudokrupp}
@@ -232,7 +233,7 @@ wird durch Viren verursacht.
 }{}{}{}
 
 
-\Layout{0}{\TxSymptome}
+\TextSlide{\TxSymptome}
 {%
 Leitsymptom ist ein pfeifendes Geräusch beim Einatmen
 \E{(inspiratorischer Stridor)} sowie ein trockener, bellender
@@ -256,23 +257,15 @@ vor allem im Alter zwischen 3 Monaten und 6 Jahren auf.
 
 
 
-\MassnahmenMK{Spezielle
-Maßnahmen}{Laryngitis}{m:laryngitis}{
-}{}
-% \MassnahmenNG{Spezielle
-% Maßnahmen}{Laryngitis}{\label{m:laryngitis}}{
-% 
-% \begin{itemize}
-%     \item Eltern und Kind beruhigen.
-%     \item Feuchte Luft einatmen lassen (evtl. Fenster
-%     öffnen; feuchte Tücher im Raum aufhängen; Dusche im Badezimmer aufdrehen)
-% \end{itemize}
-% }
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Akute obstruktive Laryngitis
+\ProcedurePrintDefault{KJ05000C}
 
-\subsection{Epiglottitis}
+
+\subsection{Akute Epiglottitis}
 \label{topic:epiglottitis}
 
-\Layout{2}{\TxBeschreibung}
+\Text{\TxBeschreibung}
 {%
 Bei der Epiglottitis handelt es sich um eine \E{bakterielle
 Entzündung} und daraus folgende \EE{Schwellung des
@@ -288,7 +281,7 @@ eine gute Prognose.
 
 
 
-\Layout{0}{\TxSymptome}
+\TextSlide{\TxSymptome}
 {%
 Die Epiglottitis geht mit hohem Fieber einher. Es ist ein
 Atemgeräusch bei der Einatmung wahrnehmbar
@@ -308,19 +301,11 @@ ist eher ruhig und spricht kaum, er hat Angst.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenMK{Spezielle
-Maßnahmen}{Epiglottitis}{m:epiglottitis}{%
-}{}
-% \MassnahmenNG{Spezielle
-% Maßnahmen}{Epiglottitis}{\label{m:epiglottitis}}{%
-% 
-% \begin{itemize}
-%     \item \TxMassVit
-%     \item Luftbefeuchtung
-%     \item Kinder sitzen lassen!
-%     \item Keine Manipulation im Mundraum (Spatel)!
-% \end{itemize}
-% }
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Akute Epiglottitis
+\ProcedurePrintDefault{KJ05010C}
+
 
 \subsubsection{Laryngitis vs. Epiglottitis}
  
@@ -376,7 +361,7 @@ Sehr leise, verfällt zusehends
 \index{Sudden Infant Death Syndrome}
 \label{topic:sids}
 
-\Layout{0}{\TxBeschreibung}
+\TextSlide{\TxBeschreibung}
 {%
 Der Plötzliche Kindstod  ist eine plötzliche, einschneidende
 Katastrophe im Familienleben. Aus \EE{unbekannter Ursache}
@@ -397,7 +382,7 @@ März zu beobachten.
 
 \SlideCompensationNoParskip{1}
 
-\Layout{0}{Ursachen}
+\TextSlide{Ursachen}
 {%
 Es wird viel über die möglichen Ursachen spekuliert. \Z{Als
 mögliche Ursache wird oft ein unreifes Atemzentrum und eine
@@ -423,35 +408,14 @@ nicht möglich ist und \EE{die Eltern keine Schuld trifft}!
 }{}{}{}
 
 
-\MassnahmenMK{Spezielle Maßnahmen}{SIDS}{m:sids}{%
-}{}
-% \MassnahmenNG{Spezielle Maßnahmen}{SIDS}{\label{m:sids}}{%
-% 
-% \begin{itemize}
-% 	\item Reanimation.
-% 	\item Betreuung der Angehörigen. Den Eltern muss das Gefühl
-% 	gegeben werden, dass sie alles für ihr Kind getan haben. Ein solcher
-% 	Unglücksfall tritt schicksalshaft auf und wäre nicht abwendbar gewesen. 
-% 	\item In jedem Fall nimmt die Kriminalpolizei Ermittlungen auf. Darauf müssen
-% 	die Eltern vorbereitet werden. 
-% 	\item Betreuung für die Angehörigen organisieren
-% 	(Kriseninterventionsdienst\opt{REGVIE}{\footnote{In Wien ist die
-% 	\E{Akutbetreuung Wien} der Stadt Wien zuständig. Sie kann über die
-% 	Leitstelle angefordert werden.}})
-% 	\item Zwillingsgeschwister unbedingt hospitalisieren.
-% 	\item Einsatznachbesprechung und eigene Psychohygiene. Derartige Einsätze
-% 	können -- auch für erfahrenes Fachpersonal -- sehr belastend sein. 
-% 	
-%     Meldung an Gesamteinsatzleiter, dienstführenden
-%     Offizier o.\,ä., Erkundigung nach Verfügbarkeit von
-%     Peers (auch wenn Peer-Angebot nicht angenommen wird!). 
-% \end{itemize}
-% 
-% }
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% SIDS
+\ProcedurePrintDefault{KR95090C}
+
 
 \subsection{Ertrinkungsunfall}\index{Ertrinkungsunfall}
 
-\Layout{2}
+\Text
 {\TxBeschreibung}
 {%
 \DefinitionInPara{Als \EE{Ertrinken} wird der Tod in den
@@ -465,7 +429,7 @@ oder auch Wannenbäder stellen eine Gefahrenquelle im Alltag
 dar.}
 {
 \begin{itemize}
-  \item Ertrinken: Tod innerhalb 24\Hours* nach Ertrinkungsunfall
+  \item Ertrinken: Tod innerhalb 24\Hour* nach Ertrinkungsunfall
   \item Sonst: Beinahe-Ertrinken
 \end{itemize}
 }
@@ -475,22 +439,10 @@ dar.}
 
 \Fazit{Nobody is dead until warm and dead!}
 
-\MassnahmenMK{Spezielle
-Maßnahmen}{Ertrinkungsunfall}{m:ertrinkungsunfall}{
-}{}
-% \MassnahmenNG{Spezielle
-% Maßnahmen}{Ertrinkungsunfall}{\label{m:ertrinkungsunfall}}{
-% \begin{itemize}
-%   \item Wenn erforderlich Reanimation mit fünf
-%   Initialbeatmungen. Die Reanimation kann auch nach länger
-%   andauerndem Kreislaufstillstand erfolgreich sein, da bei
-%   einer Unterkühlung der Stoffwechsel verlangsamt wird.
-%   \item \TxBeiVit \TxMassVit
-%   \item Bei Aspiration: Wenn der Verdacht auf eine
-%   Aspiration besteht, ist der Patient zur Beobachtung zu
-%   hospitalisieren.
-% \end{itemize}
-% }
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Ertrinkungsunfall
+\ProcedurePrintDefault{MT75010C}
 
 
 
@@ -507,7 +459,7 @@ Besonderheit stellt jedoch der \T{Fieberkrampf} dar.
 \subsubsection{Fieberkrampf}
 \label{topic:fieberkrampf}
 
-\Layout{0}{\TxBeschreibung}
+\TextSlide{\TxBeschreibung}
 {%
 Kleinkinder \EE{unter 5~Jahren} können bei Fieber sogenannte
 Fieberkrämpfe entwickeln. Sie entsprechen einem vom Gehirn
@@ -526,22 +478,9 @@ von den Eltern gegeben).
 }{}{}{}
 
 
-\MassnahmenMK{Spezielle Maßnahmen}{Fieberkrampf im
-Kindesalter}{m:fieberkrampf-kindesalter}{
-    
-    Die Behandlung erfolgt grundsätzlich wie beim Erwachsenen, siehe
-    \ref{topic:zerebrale-krampfanfaelle}.
-    
-    Die Körpertemperatur ist immer zu messen!
-}{}
-% \MassnahmenNG{Spezielle Maßnahmen}{Fieberkrampf im
-% Kindesalter}{\label{m:fieberkrampf-kindesalter}}{
-%     
-%     Die Behandlung erfolgt grundsätzlich wie beim Erwachsenen, siehe
-%     \ref{topic:zerebrale-krampfanfaelle}.
-%     
-%     Die Körpertemperatur ist immer zu messen!
-% }
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Fieberkrampf im Kindesalter
+\ProcedurePrintDefault{KR56001C}
 
 
 \subsection{Kindesmisshandlung}
@@ -551,7 +490,7 @@ Kindesalter}{m:fieberkrampf-kindesalter}{
 % 
 % Kindesmisshandlung kommt in \EE{allen sozialen Schichten} vor!
 
-\Layout{0}{\TxQuerverweise}
+\TextSlide{\TxQuerverweise}
 {%
 \begin{itemize}
   \item \CO{[KRI]} \FullPrettyRef{topic:kindesmisshandlung}

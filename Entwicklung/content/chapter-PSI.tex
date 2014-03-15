@@ -2,7 +2,7 @@
 % letztes Commit:
 % 359b2b49e8bd0487cda91e8035b629b36588231f
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ChapterCode{PSI}
+\def\ChapterCode{PSI}
 \chapter
 [\CO{[PSI]} Psychologie und psychische Betreuung]
 {Psychologie und psychische Betreuung}
@@ -17,7 +17,7 @@
   \item[Maintainer:] Sebastian Gabriel
   \item[Autoren:] Michael Auer, Sebastian Gabriel
   \item[Reviewer:] Michael Auer, Standard-Reviewprozess
-  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[Version:] {\VarDocVersion} ({\VarDocVersionDescription})
   \item[SHA1:] {\DocGitCommit}
 \end{description}
 
@@ -198,7 +198,7 @@ Bereiche Aufgabenstruktur, Rollen- und Interaktionsstruktur
 einteilen.\ZFootnote{\Study{Bengel} \cite{BengelPsyNotfallmedRd2-PsyBelRdPers}}
 
 
-\Layout{0}{Aufgaben}
+\TextSlide{Aufgaben}
 {\begin{itemize}
   \item \EE{Arbeitsumgebung}: Sanitäter sehen sich häufig
   mit \EE{komplexen, mehrdeutigen Situationen} konfrontiert, wie
@@ -211,7 +211,7 @@ einteilen.\ZFootnote{\Study{Bengel} \cite{BengelPsyNotfallmedRd2-PsyBelRdPers}}
   Schaulustige, emotionalisierte Angehörige, Dunkelheit oder
   schlechte Wetterbedingungen spielen eine Rolle.
   
-  \item \EE{Workflow}: Während des Diesntes wechseln
+  \item \EE{Workflow}: Während des Dienstes wechseln
    Ruhe- und Bereitschaftsphasen mit plötzlichen Aktivitäts-
    und Alarmphasen. Langfristig kann dieser \EE{unvorhersehbare bzw. unkontrollierbare
   Wechsel im Arbeitsrhythmus} als unangenehm wahrgenommen
@@ -243,48 +243,49 @@ einteilen.\ZFootnote{\Study{Bengel} \cite{BengelPsyNotfallmedRd2-PsyBelRdPers}}
 {}
 {}
 
-\Layout{2}{Rolle}
-{\begin{itemize}
-  \item \EE{Rollenkonflikt}: Forderungen/Erwartungen können
-  nicht erfüllt werden, da der Arbeitgeber/Vorgesetzte die
-  Kompetenzen des Personals beruhend auf gesetzlichen
-  Bestimmungen bzw. ökonomischen Ressourcen festlegt,
-  gleichzeitig das Personal seinen Kompetenzbereich aber
-  aufgrund eigener Interpretationen anders auslegt und
-  z.\,B. in einer Notfallsituation entsprechend eigenem
-  Rollenverständnis handelt.
-  
-  \item \EE{Rollenambiguität} (Unsicherheit/Mehrdeutigkeit):
-  Sie entsteht, wenn Informationen zur Aufgabendurchführung nur
-  unzureichend zur Verfügung stehen, z.\,B. wenn
-  verschiedene Beteiligte (Arbeitgeber, Ausbilder und
-  Gesetzgeber) zu einer lebensrettenden Maßnahme
-  unterschiedliche oder keine verbindlichen Aussagen treffen.
-  
-  \item \EE{Rollenüberforderung}: Mitunter wird 
-  mehr von einer Person gefordert, als sie in der ihr
-  verfügbaren Zeit oder mit den ihr zu Verfügung stehenden
-  Mitteln erreichen kann, die Erwartungshaltung \E{muss}
-  zwangsläufig enttäsucht werden. Dies kann z.\,B.
-  durch die Patienten selbst, aber auch durch Dritte wie Angehörige
-  geschehen. Ebenso muss das
-  ersteintreffende Behandlungsteam bei
-  Großschadensereignissen seine Handlungsschritte/Ressourcen
-  nach Prioritäten ordnen und kann nur begrenzt Hilfe
-  leisten.
-\end{itemize}}
-{\begin{itemize}
-  \item {Rollenkonflikt}
-  \item {Rollenambiguität}
-  \item {Rollenüberforderung}
-\end{itemize}}
-{}
-{}
-{}
+% \Text{Rolle}
+% {\begin{itemize}
+%   \item \EE{Rollenkonflikt}: Forderungen/Erwartungen können
+%   nicht erfüllt werden, da der Arbeitgeber/Vorgesetzte die
+%   Kompetenzen des Personals beruhend auf gesetzlichen
+%   Bestimmungen bzw. ökonomischen Ressourcen festlegt,
+%   gleichzeitig das Personal seinen Kompetenzbereich aber
+%   aufgrund eigener Interpretationen anders auslegt und
+%   z.\,B. in einer Notfallsituation entsprechend eigenem
+%   Rollenverständnis handelt.
+%   
+%   \item \EE{Rollenambiguität} (Unsicherheit/Mehrdeutigkeit):
+%   Sie entsteht, wenn Informationen zur Aufgabendurchführung nur
+%   unzureichend zur Verfügung stehen, z.\,B. wenn
+%   verschiedene Beteiligte (Arbeitgeber, Ausbilder und
+%   Gesetzgeber) zu einer lebensrettenden Maßnahme
+%   unterschiedliche oder keine verbindlichen Aussagen treffen.
+%   
+%   \item \EE{Rollenüberforderung}: Mitunter wird 
+%   mehr von einer Person gefordert, als sie in der ihr
+%   verfügbaren Zeit oder mit den ihr zu Verfügung stehenden
+%   Mitteln erreichen kann, die Erwartungshaltung \E{muss}
+%   zwangsläufig enttäsucht werden. Dies kann z.\,B.
+%   durch die Patienten selbst, aber auch durch Dritte wie Angehörige
+%   geschehen. Ebenso muss das
+%   ersteintreffende Behandlungsteam bei
+%   Großschadensereignissen seine Handlungsschritte/Ressourcen
+%   nach Prioritäten ordnen und kann nur begrenzt Hilfe
+%   leisten.
+% \end{itemize}}
+% {\begin{itemize}
+%   \item {Rollenkonflikt}
+%   \item {Rollenambiguität}
+%   \item {Rollenüberforderung}
+% \end{itemize}}
+% {}
+% {}
+% {}
 
-\Layout{2}{Rolle}
+\TextSlide{Rolle}
 {
 \begin{itemize}
+  \item
   Sanitätsdienst als berufliche Rolle geht mit diversen
   Anforderungen seitens der eigenen Person, der Organisation
   und nicht zuletzt der Gesellschaft einher. Demgegenüber ist
@@ -292,14 +293,14 @@ einteilen.\ZFootnote{\Study{Bengel} \cite{BengelPsyNotfallmedRd2-PsyBelRdPers}}
   personelle, strukturelle Ressourcen und gesetzliche
   Bestimmungen beschränkt. Daraus können Situationen
   entstehen, die zu
-  \item \EE{Rollenkonflikt} (z.B. Konflikt
+  \item \EE{Rollenkonflikt} (z.\,B. Konflikt
   zwischen dem eigenen Anspruch und der Ressourcenlage der
   Organistation),
-  \item \EE{Rollenambiguität}  (z.B. unklare
+  \item \EE{Rollenambiguität}  (z.\,B. unklare
   Ausgangslage bzgl. lebensrettender Maßnahme aufgrund
   widersprüchlicher Lehr- bzw. Gesetzesmeinung) und auch
   \item
-  \EE{Rollenüberforderung} (z.B. Überschreitung der
+  \EE{Rollenüberforderung} (z.\,B. Überschreitung der
   persönlichen oder zeitlichen Ressourcen bei
   Großschadensereignis oder aufgrund zu hoher
   Erwartungshaltung seitens des Betroffenen bzw. deren
@@ -331,9 +332,9 @@ finden (Beispiel siehe Exkurs zu Rollenambivalenz)}.
 
 Die individuelle erlebte Beanspruchung ist daher auch von der Fähigkeit des Einzelnen abhängig in dieser Rolle eine persönlich angemessene Balance zwischen den eignen Ansprüchen bzw. Ansprüchen von außen(verständnisvolle Grundhaltung, Dienstvorschriften, Behandlungsstandards) und persönlichen Grenzen und Bedürfnissen (persönliches Wohlbefinden, Gefühlserleben) zu finden.
 
-\Layout{2}{Exkurs: Rollenambivalenz}
+\Text{Exkurs: Rollenambivalenz}
 {\begin{center}
-  \FormatTable
+\TableBaseModification
 \begin{tabularx}{\linewidth}{XcX}
 \toprule\addlinespace
 Professionist 
@@ -420,7 +421,7 @@ wesentlich und hilfreich.}
 
 
 
-\Layout{2}{Interaktion}
+\TextSlide{Interaktion}
 {Sie betrifft die \EE{Kommunikation und Kooperation zwischen
 Vorgesetzten und Mitarbeitern sowie zwischen Kollegen}
 untereinander: \EE{negative zwischenmenschliche Beziehungen}
@@ -803,154 +804,38 @@ der Stressvermeidung} behandelt werden.}
 \label{topic:unterforderung-psi}
 
 
+Mit dem Begriff Aktivierung ist ein allgemeiner Erregungszustand gemeint, der seinen Ausdruck in unterschiedlichen Gefühlszuständen (z.\,B. Gefühl der Anspannung/Aufregung) und physiologischen Veränderungen (z.\,B. erhöhte(r) Herzschlag, Muskeltonus und Atemfrequenz) findet und von unterschiedlichen Bewusstseinszuständen und Umweltbedingungen beeinflusst wird. Zahlreiche psychologische Studien verweisen auf einen umgekehrt U-förmigen Zusammenhang zwischen Aktivierung und Leistungsfähigkeit hin: d.h. die optimale Leistung lässt sich in mittleren Erregungszuständen erbringen, zu niedrige (Unterforderung) oder zu hohe Aktivierung (Überforderung) schwächt die Leistungsfähigkeit und verursacht gleichzeitig auch Unbehagen (z.\,B. Anspannungsgefühl wegen Langeweile bzw. Überforderung, Ängstlichkeit, Verunsicherung). In der Regel suchen wir -sofern möglich, entsprechend des Gleichgewichtmodells - Situationen auf, die uns in ein angenehmes Aktivierungsniveau versetzen, d.h. bei zu niedriger Aktivierung gehen wir Aktivitäten/Beschäftigungen nach (Gespräch, Hobby, Sport etc.), bei hoher Aktivierung ziehen wir uns zurück, versuchen zu entspannen.
 
-Unter \Z{Aktivierung} ist ein \EE{allgemeiner nervöser
-Erregungszustand} des Organismus zu verstehen, der in
-inneren Repräsentationen (Emotionen) bzw.
-psychophsyiologischen Veränderungen seinen Ausdruck findet.
-Er kann in Abhängigkeit von Bewusstseinszuständen (Wachheit,
-Müdigkeit, Schlaf), Gefühlslagen (Entspannung, Anspannung,
-Nervosität etc.) und Umweltbedingungen (stressarme vs.
-stressreiche Umwelt) variieren. Indikatoren für Aktivierung
-können sein:
-\begin{itemize}
-  \item Erhöhung der Herz-, Atem- bzw. Lidschlagfrequenz
-  \item Anstieg des Fingerpulsvolumen, Hautwiderstand sinkt 
-  wegen Anstiegs der Hautleitfähigkeit durch erhöhte
-  Schweißproduktion
-  \item Anstieg des Muskeltonus
-  \item Gefühle der Anspannung/Aufregung
-\end{itemize}
-
-
-\EE{Aktivierung und Leistung stehen
-miteinander in Beziehung}\ZFootnote{Yerkes-Dodson-Gesetz \cite{Yerkes1908}} im Sinne eines \E{umgekehrt
-U-formiger Zusammenhangs}, d.\,h. bei sehr
-geringerem und sehr hohem Aktivierungsniveau ist die resultierende Leistung niedrig, bei mittlerer
-Aktivierung ist der Leistungsresultat am höchsten. 
-Daraus
-lässt sich ableiten, dass für leichte Aufgaben ein höheres
-Aktivierungsniveau günstiger ist als für schwere Aufgaben --
-deshalb lassen sich z.\,B. subjektiv leichte Aufgaben,
-z.\,B. Routine-Aufgaben, vor Publikum (das in der Regel eine
-höhere Aktivierung hervorruft) besser bewältigen als
-schwierige Aufgaben.
-
-\Commentary[Formen der Aktivierung]{
-Es werden drei spezielle Formen der Aktivierung
-unterschieden: Orientierungsreaktion, Defensivreaktion und
-Schreckreflex: 
-
-Die \EE{Orientierungsreaktion} ist eine
-unspezifische Aktivierung bei Veränderungen in der
-Reizumgebung im Sinne eines
-\Speech{\enquote{Was-ist-das?}}-Reflexes. Sie ist besonders
-ausgeprägt bei biologischer preparedness (eine angeborene Bereitschaft) oder gelernten bzw.
-konditionierten Reizen. Eine Orientierungsreaktion tritt
-auf, wenn ein neuer Stimulus im Wahrnehmungsbereich
-erscheint. Ihre Intensität ist dabei proportional zur
-Neuheit des Reizes, d.\,h. sie fällt umso stärker aus, je mehr
-der Reiz von Bekanntem abweicht und wird auch begleitet von
-charakteristischen Veränderungen in verschiedenen
-Funktionssystemen des Körpers, z.\,B.
-\\Sinnesorgane: die Reizschwellen sinken.
-\\Haut: der Hautwiderstand sinkt.
-\\Muskulatur: Anspannung, Aktivierung notwendiger Muskeln.
-\\Blutgefäße: periphere Vasokonstriktion, Vasodilatation der
-ZNS-, Lungen-, Herz-Blutgefäße.
-\\Herz: zunächst sinkt die Herzfrequenz aufgrund peripherer
-Vasokonstriktion, anschließend steigt sie.
-
-Bei mehrmaliger Darbietung desselben (neuen) Reizes erfolgt
-eine Gewöhnung (Habituation), d.\,h. die Intensität der
-Orientierungsreaktion nimmt ab. Änderungen des Reizes führen
-zu Dishabituation, es tritt wieder die ursprüngliche
-Orientierungsreaktion auf.
-
-Die \EE{Defensivreaktion} ist eine Reaktion zur Verteidigung
-gegenüber schmerzhaften bzw. aversiven Reizen: das
-Individuum versucht den Reizkontakt abzubrechen und leitet
-Abwehrmaßnahmen ein. Diese Reaktion unterliegt keiner
-Habituation.
-
-Unter dem \EE{Schreckreflex} wird eine spontane, willentlich
-nicht kontrollierbare Reaktion verstanden. Schreckreflex
-unterbricht die Informationsaufnahme und motorische
-Aktivität bei neuen und aggressiven Reizen, um Verhalten und
-Aufmerksamkeit rasch auf potentiell gefährliche Reize
-umzuorientieren, z.\,B. Blinzeln bei plötzlich auftretendem
-Lärm.
-}
-
-
-
-Ein gewisses Aktivierungsniveau ist
-erforderlich, um Leistungen überhaupt erbringen zu können --
-zu hohe und zu niedrige Aktivierung schwächt die
-Leistungsfähigkeit jedoch ab (Yerkes-Dodson-Gesetz).
-Aktivierung wird begleitet von typischen
-psychophysiologischen Veränderungen. Unter der
-Orientierungsreaktion ist eine aktivierende Reaktion bei
-Auftreten neuer Reize, weitere aktivierende Reaktionen sind
-die Defensivreaktion (Verteidigung gegen unerwünschte Reize)
-und der Schreckreflex.
-
-
-Je nach persönlicher Veranlagung, Sozialisation und
-Habituation (s.\,o.) verfügt jeder Mensch über sein
-\EE{individuelles Erregungsniveau bzw. Aktivierungsprofil},
-welches sich entsprechend jeweiliger Lebensumstände und
-Stimmungslage auch
-verändern bzw. verschieben kann. Dieser Umstand kann
-Konsequenzen in Bezug auf pathologische Entwicklungen sowie
-das subjektive Gefühl von Über- bzw. Unterforderung haben.
-% (siehe Abbildungen).
-
-
-
-
-
-
-
-
-
-
-
-
-
-% 
-% Die Abbildung verdeutlicht, dass Personen mit höherem
-% persönlichen Aktivierungsniveau gegenüber pathologischen
-% Veränderungen vulnerabler sein werden.
-
-
-
-Ausgehend davon, dass mit einem erhöhtem Erregungsniveau
-auch die Anforderungen einer Aufgabe subjektiv als
-herausfordernder wahrgenommen werden, fühlen sich --
-entsprechend der Abbildung -- \enquote{übererregte} Menschen
-schneller überfordert, als solche mit durchschnittlichem
-Aktivierungslevel.
-
-\A{Keywords: Physiologie von Stress, Kritik an \enquote{dem Stress,
-Eu- Distress}, evolutionärer Nutzen, Stressmodelle/
--theorien, kognitive Bewertung der Gegebenheiten einer
-Situation, persönliche Ressourcen, (Aktivierung,
-individuelles Aktivierungsprofil).}
-
-Mit dem Begriff Aktivierung ist ein allgemeiner Erregungszustand gemeint, der seinen Ausdruck in unterschiedlichen Gefühlszuständen (z.B. Gefühl der Anspannung/Aufregung) und physiologischen Veränderungen (z.B. erhöhte(r) Herzschlag, Muskeltonus und Atemfrequenz) findet und von unterschiedlichen Bewusstseinszuständen und Umweltbedingungen beeinflusst wird. Zahlreiche psychologische Studien verweisen auf einen umgekehrt U-förmigen Zusammenhang zwischen Aktivierung und Leistungsfähigkeit hin: d.h. die optimale Leistung lässt sich in mittleren Erregungszuständen erbringen, zu niedrige (Unterforderung) oder zu hohe Aktivierung (Überforderung) schwächt die Leistungsfähigkeit und verursacht gleichzeitig auch Unbehagen (z.B. Anspannungsgefühl wegen Langeweile bzw. Überforderung, Ängstlichkeit, Verunsicherung). In der Regel suchen wir -sofern möglich, entsprechend des Gleichgewichtmodells - Situationen auf, die uns in ein angenehmes Aktivierungsniveau versetzen, d.h. bei zu niedriger Aktivierung gehen wir Aktivitäten/Beschäftigungen nach (Gespräch, Hobby, Sport etc.), bei hoher Aktivierung ziehen wir uns zurück, versuchen zu entspannen.
-
-Je nach persönlicher Veranlagung und Lebenserfahrung verfügt jeder Mensch über sein individuelles Erregungsniveau (z.B. Menschen die generell eine höhere oder niedrigere Grunderregung aufweisen)und Aktivierungsprofil (z.B. Menschen die sensibler bzw. weniger sensibel auf Umwelteinflüsse reagieren). Beides kann sich entsprechend jeweiliger Situationen/Lebensumstände (z.B. Versorgung einer Schürfwunde vs. Reanimation)   und
-Stimmungslage (z.B. unangenehme negative Stimmungslage erhöht Anspannungslevel und Stresssensibilität)auch verändern bzw. verschieben kann. Dies kann das subjektive Gefühl von Über- bzw. Unterforderung beeinflussen und pathologische Entwicklungen begünstigen oder vor solchen schützen.
+Je nach persönlicher Veranlagung und Lebenserfahrung verfügt jeder Mensch über sein individuelles Erregungsniveau (z.\,B. Menschen die generell eine höhere oder niedrigere Grunderregung aufweisen)und Aktivierungsprofil (z.\,B. Menschen die sensibler bzw. weniger sensibel auf Umwelteinflüsse reagieren). Beides kann sich entsprechend jeweiliger Situationen/Lebensumstände (z.\,B. Versorgung einer Schürfwunde vs. Reanimation)   und
+Stimmungslage (z.\,B. unangenehme negative Stimmungslage erhöht Anspannungslevel und Stresssensibilität)auch verändern bzw. verschieben kann. Dies kann das subjektive Gefühl von Über- bzw. Unterforderung beeinflussen und pathologische Entwicklungen begünstigen oder vor solchen schützen.
 
 
 
 Ableitungen für den Sanitätsdienst: 
 
-- Je nach persönlichem Aktivierungsprofil, Tagesverfassung und Situation liegen bei den Teammitgliedern eines Sanitätsteams unterschiedliche Aktivierungsniveaus vor. Diesem Umstand sollte mit Verständnis und Toleranz Rechnung getragen werden. Ähnliche Situationen können an einem Tag als gut bewältigbar, am nächsten als überfordernd erlebt werden – ebenso verhält es sich von Person zu Person unterschiedlich.
-- Im Sinne der Stressvermeidung wäre es wichtig, Sensibilität für sein persönliches Erregungsprofil zu entwickeln, z.B. „Fühle ich mich generell eher angespannt oder aufgeregt? Wie fühle ich mich jetzt gerade? Auf welche Auslöser/Situationen reagiere ich besonders stark?“
-- Es bestehen Möglichkeiten der Einflussnahme, Techniken sein persönliches Aktivierungsniveau zu beeinflussen können erlernt/gefördert werden: Aktivierung durch persönliche Zielsetzung, betrachten einer Aufgabe als Herausforderung etc. ebenso wie Entspannung durch pos. Selbstinstruktion („ich schaffe das“), Atemtechniken (bewusstes ruhiges Atmen), bewusste Pausen etc.
-
+\begin{itemize}
+  \item Je nach persönlichem Aktivierungsprofil,
+  Tagesverfassung und Situation liegen bei den
+  Teammitgliedern eines Sanitätsteams unterschiedliche
+  Aktivierungsniveaus vor. Diesem Umstand sollte mit
+  Verständnis und Toleranz Rechnung getragen werden.
+  Ähnliche Situationen können an einem Tag als gut
+  bewältigbar, am nächsten als überfordernd erlebt werden --
+  ebenso verhält es sich von Person zu Person
+  unterschiedlich.
+  \item Im Sinne der Stressvermeidung wäre es wichtig,
+  Sensibilität für sein persönliches Erregungsprofil zu
+  entwickeln, z.\,B. \enquote{Fühle ich mich generell eher
+  angespannt oder aufgeregt? Wie fühle ich mich jetzt gerade? Auf welche
+  Auslöser/Situationen reagiere ich besonders stark?}
+  \item Es bestehen Möglichkeiten der Einflussnahme, Techniken
+  sein persönliches Aktivierungsniveau zu beeinflussen können
+  erlernt/gefördert werden: Aktivierung durch persönliche
+  Zielsetzung, betrachten einer Aufgabe als Herausforderung
+  etc. ebenso wie Entspannung durch pos. Selbstinstruktion
+  (\Speech{\enquote{ich schaffe das}}), Atemtechniken
+  (bewusstes ruhiges Atmen), bewusste Pausen etc.
+\end{itemize}
 
 
 \section{Stressauswirkungen, Früherkennung, Beanspruchungsfolgen}
@@ -1167,92 +1052,10 @@ unterschiedliche Abgrenzungsversuche dargestellt:
 
 
 
-\Layout{0}{\TxSymptome}
+\TextSlide{\TxSymptome}
 {Burnout kann sich durch eine Reihe von höchst unterschiedlichen Symptomen bemerkbar machen. 
 Man kann unterscheiden\ZFootnote{nach Schaufeli (1992), zitiert
 nach \cite{BurischBurnOut3}}:
-
-\begin{itemize}
-  \item \EE{Psychische Symptome}
-  emotional: großer Widerstand täglich zur Arbeit zu gehen,
-  Gefühle des Versagens, Ärgers und Widerwillens,
-  Schuldgefühle, Entmutigung und Gleichgültigkeit, Misstrauen
-  und paranoide Vorstellungen, Frustration. kognitiv:
-  Rigidität im Denken und Widerstand gegen Veränderungen,
-  Projektionen, Konzentrationsstörungen. motorisch: nervöse
-  Ticks, Verspannungen.
-  \item \EE{Physische Symptome} und
-  psychosomatische Beschwerden: tägliche Gefühle von Müdigkeit
-  und Erschöpfung, große Müdigkeit nach dem Arbeiten,
-  Schlafstörungen, sexuelle Probleme. Erkrankungen: häufige
-  Erkältungen und Grippe, häufige Kopfschmerzen,
-  Magen-Darm-Beschwerden. Physiologische Reaktionen: erhöhter
-  Herzschlag, erhöhter Pulsfrequenz, erhöhter Cholesterinspiegel.
-  \item \EE{Symptome auf der Verhaltensebene}:
-  Individuelle Verhaltensweisen: exzessiver Drogengebrauch,
-  Tabakgenuss, Alkoholkonsum und/oder Kaffeekonsum, erhöhte
-  Aggressivität. Verhalten in der Arbeit: häufiges Fehlen am
-  Arbeitsplatz, längere Pausen, verminderte Effizienz.
-  \item \EE{Soziale Symptome}:
-  Im Umgang mit Klienten: Verlust von positiven Gefühlen den
-  Klienten gegenüber, Verschieben von Klientenkontakten,
-  Widerstand gegen Anrufe und Besuche von Klienten,
-  Unfähigkeit sich auf Klienten zu konzentrieren oder ihnen
-  zuzuhören. Im Umgang mit Kollegen: Isolierung und Rückzug,
-  Vermeidung von Arbeitsdiskussionen mit Kollegen. außerhalb
-  der Arbeit: Ehe- und Familienprobleme, Einsamkeit.
-  
-  \item \EE{Problematische Einstellung}:
-  Im Umgang mit Klienten: Stereotypisierung von Klienten,
-  Zynismus, schwarzer Humor, verminderte Empathie,
-  Demonstration von Machtlosigkeit. In der Arbeit/
-  Einrichtung: negative Arbeitseinstellung, Desillusionierung,
-  Verlust von Idealismus.
-  \item \EE{Warnsymptome}: In der Entstehungsphase eines Burnout-Syndroms gibt es
-  charakteristische Merkmale beispielsweise:
-  \begin{itemize}
-    \item extremes Engagement für ein bestimmte Ziel/bestimmte Ziele.
-    \item Hyperaktivität
-    \item chronische Müdigkeit und körperliche sowie geistige Erschöpfung
-    \item praktisch pausenloses arbeiten und das Arbeiten zum
-    wichtigsten Lebensinhalt machen
-    \item Verzicht auf Urlaub, Erholungsphasen und Entspannungsphasen
-    \item sich unentbehrlich und vollkommen fühlen
-    \item Abwertung anderer, um sich selbst (künstlich) zu erhöhen
-    \item sozial unangemessenes Verhalten
-    \item Zunehmendes Ignorieren eigener Bedürfnisse
-    \item möglicherweise Gewichtsabnahme und
-    Mangelerscheinungen durch unzureichende Ernährung bei
-    gleichzeitig erhöhtem Bedarf
-    \item Verdrängen von Misserfolgen, bei gleichzeitigem
-    verantwortlich machen anderer
-    \item Beschränkung von sozialen Kontakten auf den
-    Arbeitsbereich – private Kontakte werden vermieden, auch
-    zum Lebenspartner und gegebenenfalls Kindern und anderen
-    Verwandten
-    \item selbstschädigendes Verhalten/Ablenkung durch
-    Alkohol, Suchtmittel, Glückspiel, Internet-
-    /Computeraktivitäten und Sexualität.
-    \item Konzentrationsschwäche
-    \item Schlafstörungen (Einschlafstörungen und Durchschlafstörungen)
-    \item Drehschwindel und Neigung zu Tinnitus
-    \item Angstzustände
-  \end{itemize}
-\end{itemize}
-}
-{
-\begin{itemize}
-  \item {Psychische Symptome}
-  \item {Physische Symptome und psychosomatische Beschwerden}
-  \item {Symptome auf der Verhaltensebene}
-  \item {Soziale Symptome}
-  \item {Problematische Einstellung}
-  \item {Warnsymptome}
-\end{itemize}
-}
-{}
-{}
-{}
 
 \begin{itemize}
   \item \EE{Psychische Symptome}
@@ -1309,13 +1112,29 @@ nach \cite{BurischBurnOut3}}:
 \end{itemize}
 
      
+}
+{
+\begin{itemize}
+  \item {Psychische Symptome}
+  \item {Physische Symptome und psychosomatische Beschwerden}
+  \item {Symptome auf der Verhaltensebene}
+  \item {Soziale Symptome}
+  \item {Problematische Einstellung}
+%   \item {Warnsymptome}
+\end{itemize}
+}
+{}
+{}
+{}
+
+
 
 
 \subsubsection{Traumafolgestörungen}
 
 % \EE{Ätiologie}
 
-\Layout{2}{\TxBeschreibung}
+\Text{\TxBeschreibung}
 {Eine wesentliche Grundvoraussetzung für die Entstehung von
 Traumafolgestörungen ist eine (oder mehrere) vorangegangene
 punktuelle oder andauernde Konfrontation mit einem
@@ -1348,7 +1167,7 @@ und phänomenolgischen Leitsymptome dargestellt
 
 % \EE{Phänomenologie}
 
-\Layout{2}{Akute Belastungsreaktion (F43.0)}
+\Text{Akute Belastungsreaktion (F43.0)}
 {Eine vorübergehende Störung, die sich bei einem psychisch
 nicht manifest gestörten Menschen als Reaktion auf eine
 außergewöhnliche physische oder psychische Belastung
@@ -1433,7 +1252,7 @@ günstig.
 {}
 
 
-\Layout{2}{Posttraumatische Belastungsstörung (F43.1)}
+\Text{Posttraumatische Belastungsstörung (F43.1)}
 {\Z{\Lang{Syn.} \I[Stresssyndrom!postraumatisches]{Postraumatisches
 Stresssyndrom} (\I{PTSS}), \Lang{engl.} \I{Post Traumatic
 Stress Disorder} (\I{PTSD})}
@@ -1528,7 +1347,7 @@ kann!}
 {}
 {}
 
-\Layout{2}{Andauernde Persönlichkeitsänderung nach Extrembelastung (F62.0)}
+\Text{Andauernde Persönlichkeitsänderung nach Extrembelastung (F62.0)}
 {Eine andauernde, wenigstens über zwei Jahre bestehende
 Persönlichkeitsänderung kann einer Belastung katastrophalen
 Ausmaßes folgen. Die Belastung muss extrem sein, dass die
@@ -1578,78 +1397,34 @@ Persönlichkeitsänderung zu deuten.}
 {}
 
 
-\Layout{2}{Retraumatisierung}
-{Darunter ist eine \EE{mögliche Reaktivierung} einer bereits
-\EE{latenten oder abgemilderten PTSD-Symptomatik} durch die
-\EE{Konfrontation mit traumaassoziierten Reizen} und oder
-erneute Traumatisierungen gemeint, was eine erneute
-Manifestation von Symptomen bzw. einen Symptomanstieg zur
-Folge haben kann und jedenfalls von Betroffenen als
-belastend erlebt wird. Symptome einer Retraumatisierung
-ähneln zum Teil auch jenen einer akuten Belastungsreaktion,
-da die Traumasituation subjektiv wiedererlebt wird.
-Verhaltensregeln, um Retraumatisierungen zu vermeiden, siehe
-\enquote{Posttraumatische Belastungsstörung, Folgerungen für
-den Sanitätsdienst}.}
-{}
-{}
-{}
-{}
-
-Bezeichnet das Phänomen, dass von Traumafolgestörungen betroffene Menschen durch die Konfrontation mit traumaassoziierten Reizen (Sinneswahrnehmungen, Gegenstände, Orte, Erinnerungen, etc.) erneut traumatisiert werden können, d.h. eine bereits abgemilderte Symptomatik wieder aufkeimen/sich intensivieren kann, was von Betroffenen als sehr unangenehm und belastend erlebt wird. Im Sinne des Schutzes Betroffener lässt sich daraus eine erhöhte Vorsicht ableiten (siehe Posttraumatische Belastungsreaktion, Folgerungen für den Sanitätsdienst, v.a. Rücksichtnahme auf Vermeidungsverhalten).
-
-
-\Layout{2}{Sekundärtraumatisierung}
-{Unter sekundärer Traumatisierung - auch induzierte oder
-stellvertretende Traumatisierung (vicarious traumatisation)
-genannt -  bezeichnet eine \EE{Veränderung des inneren
-Erlebens als Folge mitfühlenden Engagements mit Traumaopfern
-und/oder traumatischen Inhalten}. Für Sanitäter könnte dies
-durch den häufigen Umgang mit traumatisierten Menschen
-tragend werden, nicht nur durch die tatsächliche
-Konfrontation mit der Extremsituationen, sondern auch durch
-die in der Betreuungssituation stattfindenden Gespräche. Die
-Fähigkeit sich in seiner Rolle als professioneller Helfer
-auch ausreichend abgrenzen und von erlebten
+\Text{Re- und Sekundärtraumatisierung}
+{%
+\DefinitionInPara{Als \T{Retraumatisierung} bezeichnet das
+Phänomen, dass von Traumafolgestörungen betroffene Menschen durch die
+Konfrontation mit traumaassoziierten Reizen
+(Sinneswahrnehmungen, Gegenstände, Orte, Erinnerungen, etc.)
+erneut traumatisiert werden können.} Eine bereits
+abgemilderte Symptomatik kann  demnach wieder aufkeimen
+bzw. sich intensivieren, was von Betroffenen als sehr
+unangenehm und belastend erlebt wird. Im Sinne des Schutzes Betroffener lässt sich
+daraus eine erhöhte Vorsicht ableiten (siehe
+Posttraumatische Belastungsreaktion, Folgerungen für den
+Sanitätsdienst, v.a. Rücksichtnahme auf
+Vermeidungsverhalten).
+\DefinitionInPara{Unter \T{Sekundärtraumatisierung} -- auch
+induzierte oder das Phänomen der stellvertretende
+Traumatisierung (vicarious traumatisation) -- beschreibt Veränderungen des inneren
+Erlebens von helfenden Professionisten als Folge ihres
+mitfühlenden Engagements bzw. des häufigen Umgangs mit
+Traumaopfern sowie mit Menschen in Extremsituationen.} Dies
+umfasst auch die in der Betreuungssituation stattfindenden
+Gespräche. Die Fähigkeit, sich die Rolle als professioneller
+Helfer bewusst zu machen und sich ausreichend von erlebten
 Belastungssituation Betroffener/erzählten Traumainhalten
-distanzieren zu können, stellt einen wichtigen Schutz dar
-(siehe \enquote{Exkurs: Rollenkonflikt} bzw. Abschnitt
-\enquote{Ressourcen}).
-
-\Layout{2}{Sekundärtraumatisierung}
-{Unter sekundärer Traumatisierung - auch induzierte oder
-Das Phänomen der stellvertretende Traumatisierung (vicarious traumatisation) beschreibt Veränderungen des inneren
-Erlebens von helfenden Professionisten als Folge ihres mitfühlenden Engagements bzw. des häufigen Umgangs mit Traumaopfern sowie 
-mit Menschen in Extremsituationen. Dies umfasst auch die in der Betreuungssituation stattfindenden Gespräche. Die
-Fähigkeit, sich die Rolle als professioneller Helfer bewusst zu machen und sich ausreichend von erlebten Belastungssituation Betroffener/erzählten Traumainhalten distanzieren zu können, stellt eine wichtige und schützende Kompetenz dar. Ein einfühlender Umgang ist nicht als grenzenlose Gefühlsübernahme und -ansteckung zu verstehen! 
-
-
+distanzieren zu können, stellt eine wichtige und schützende
+Kompetenz dar. Ein einfühlender Umgang ist nicht als
+grenzenlose Gefühlsübernahme und -ansteckung zu verstehen!
 Mögliche Anzeichen einer Sekundärtraumatisierung sind
-\begin{itemize}
-  \item Empathiemüdigkeit, „Seelenverlust" der Professionellen
-  \item Psychische Ansteckung, Gefühle der Verstörung,
-  Konfrontation mit eigenen Anteilen von Grausamkeit,
-  Machtmissbrauch und Destruktivität.
-  \item Zusammenbruch der
-  persönlichen Bewältigungskompetenzen bzw. des
-  Kohärenzerlebens
-  \item Verunsicherung der eigenen Identität,
-  Bedrohung der Bedürfnisse nach Sicherheit und Geborgenheit
-  in der Welt
-  \item Verlust von Lebensfreude und Arbeitsfreude
-  \item Konfrontation mit der eigenen Verletzlichkeit und der
-  Realität traumatischer Verhältnisse
-  \item Desillusionierung,
-  Hoffnungslosigkeit, Ohnmacht, Trauer
-  \item Existentielle
-  Krise und Erschütterung, Zweifel am Sinn von Leben, Leiden,
-  Tod
-\end{itemize}}
-{}
-{}
-{}
-{}
-
 \begin{itemize}
   \item  Konfrontation mit der eigenen Verletzlichkeit und der
   Realität traumatischer Verhältnisse, Konfrontation mit eigenen Anteilen von Grausamkeit, Machtmissbrauch und Destruktivität.
@@ -1659,8 +1434,12 @@ Mögliche Anzeichen einer Sekundärtraumatisierung sind
   persönlichen Bewältigungskompetenzen bzw. des
   Kohärenzerlebens
   \item Desillusionierung, Hoffnungslosigkeit, Ohnmacht, Trauer, Existentielle Krise und Erschütterung, Zweifel am Sinn von Leben, Leiden, Tod
-\end{itemize}}
-
+\end{itemize}
+}
+{}
+{}
+{}
+{}
 
 \A{Keywords: Psychische/physische Ebene,  erhöhte
 Vulnerabilität, Frustrationserleben (Reizbarkeit, gedrückte
@@ -1710,7 +1489,7 @@ Situation wählt, hängt von diversen Faktoren ab:
 \end{itemize}
 
 
-\Layout{2}{Aspekte des Copings}
+\Text{Aspekte des Copings}
 {\Z{Coping stellt ein \EE{prozesshaft-dynamisches Geschehen}
 dar, mit außerordentlich vielen Variationsmöglichkeiten.
 Diverse Verhaltensweise, die als Reaktion auf Stress gesetzt
@@ -1755,7 +1534,7 @@ Fähigkeiten zu erweitern.}}
 {}
 
 
-\Layout{2}{Arten von Coping}
+\Text{Arten von Coping}
 {Folgende Arten von Coping lassen sich unterscheiden\cite{ZimbardoPsych6}:
 
 \begin{itemize}
@@ -1766,7 +1545,7 @@ Fähigkeiten zu erweitern.}}
   Unterlassen von Handlungen} Belastungssituationen zu
   bewältigen oder sich den Gegebenheiten anzupassen. Diese
   Copingstrategie orientiert sich an der Ebene der Situation
-  bzw. des Reizes, z.B. Großschadensereignis als massiver Stressor → Informationssuche („Was ist passiert, wer ist wie betroffen?“) um Klarheit zu schaffen und weitere Schritte planen zu können, gezielte Behandlungsinterventionen nach Plan abarbeiten, Hektische und komplizierte Handlungen vermeiden.
+  bzw. des Reizes, z.\,B. Großschadensereignis als massiver Stressor → Informationssuche („Was ist passiert, wer ist wie betroffen?“) um Klarheit zu schaffen und weitere Schritte planen zu können, gezielte Behandlungsinterventionen nach Plan abarbeiten, Hektische und komplizierte Handlungen vermeiden.
   \item \EE{Emotionsorientiertes Coping}
   Hierbei handelt es sich um innerpsychisches Coping, bei dem
   hauptsächlich versucht wird, die durch die Situation
@@ -1849,7 +1628,7 @@ bestimmten ökologischen Kontextes ab.}
 
 % \EE{Klassifikation von Ressourcen}
 
-\Layout{2}{Ressourcen}
+\Text{Ressourcen}
 {Ressourcen sind \EE{Objekte, persönliche Charakteristika,
 Bedingungen und Energien, die vom Individuum wertgeschätzt
 und als unterstützend erlebt} werden. Sie stellen
@@ -1894,84 +1673,6 @@ persönlich zur Verfügung stehenden Bewältigungsmittel eines
 Menschen überfordern können und sei er noch so reich an
 Ressourcen/Schutzfaktoren.}
 
-\subsection{Das Konzept des Kohärenzgefühls}
-
-\Z{Antonowsky (1997) definiert das Kohärenzgefühl als eine
-\EE{globale Orientierung}, die ausdrückt, in welchem Ausmaß
-man ein durchdringendes, andauerndes und dennoch dynamisches
-\EE{Gefühl des Vertrauens} hat, dass
-\begin{itemize}
-  \item die \EE{Stimuli}, die sich im Verlauf des Lebens aus
-  der inneren und äußeren Umgebung ergeben, \EE{strukturiert,
-  vorhersehbar und erklärbar} sind.
-  \item einem die \EE{Ressourcen zur Verfügung} stehen werden,
-  um den \EE{Anforderungen}, die diese Stimuli stellen, \EE{zu
-  begegnen}
-  \item diese Anforderungen \EE{Herausforderungen} sind, die
-  \EE{Anstrengung und Engagement lohnen}.
-\end{itemize}
-In anderen Worten handelt: es sich als um eine
-grundoptimistische Haltung, Anforderungen erkennen und
-bewältigen zu können, einem Grundvertrauen in die eigenen
-Kompetenzen sowie die Überzeugung, dass die
-Herausforderungen anzunehmen, bedeutsam und sinnvoll
-erscheint. Dies lässt sich in die drei Komponenten
-\EE{Verstehbarkeit (1. Punkt), Handhabbarkeit (2. Punkt) und
-Bedeutsamkeit (3. Punkt)} zusammenfassen.
-
-Je nach Ausprägung in den o.\,g. Anteilen des
-Kohärenzgefühls lassen sich div. Konfigurationen vermuten.
-Im Folgenden sei
-ausschließlich von einem starken -- d.\,h. auf allen drei
-Ebenen hoch ausgeprägten -- und einem schwachen -- d.\,h. in
-allen drei Ebenen niedrig ausgeprägten -- Kohärenzgefühl
-eingegangen.
-
-\EE{Ableitungen} in Bezug auf die Wirkungsweise des
-Kohärenzgefühls:
-\begin{itemize}
-  \item \EE{Auswahl gesundheitsfördenden Verhaltens}:
-  Personen mit hohem Kohärenzgefühl interpretieren weniger
-  Stimuli als stresshaft und weichen Stressoren, die schwer
-  handzuhaben sind, eher aus.
-  \item \EE{Erfolgreicherer Umgang mit Stressoren}: Personen
-  mit hohem Kohärenzgefühl \enquote{copen} erfolgreicher, was zu
-  Spannungsreduktion und Vermeidung von Schädigung führe.
-\end{itemize}
-Inwieweit sich diese von Antonovsky postulierten
-Grundhaltungen entwickeln, modifizieren oder verändern
-lassen ist nicht eindeutig ergründet, zu schreibt der Autor
-dem Konstrukt stark dispositionellen Charakter zu.
-Augenscheinlich ergeben sich \EE{für den Sanitätsdienst
-nachstehende Folgerungen} ableiten:
-
-\begin{itemize}
-  \item Verstehbarkeit kann durch Informations- und
-  Wissensvermittlung, durch Fortbildung gefördert werden. Je
-  ausgeprägter das Wissen über mögliche Betreuungs- und
-  Versorgungssituationen, Unfallfolgen, Krankheitsbilder und
-  Zustandsbilder ist, desto eher wird sich die
-  Informationsfülle reale Notfallsituationen strukturieren,
-  priorisieren und auf das Wesentliche reduzieren lassen -
-  also verstehbarer.
-  
-  \item Ebenso lässt sich im Bezug auf die Handhabbarkeit
-  argumentieren: Kompetenzen durch praktisches Üben,
-  Trainings, Schulungen etc. zu erweitern, kann das
-  persönliche Kompetenzerleben steigern und schwierige
-  Situationen als bewältigbar erleben.
-  
-  \item Hinsichtlich des Aspekts der Bedeutsamkeit ist
-  anzumerken, dass diese v.a. unter div. o.b.
-  Stressauswirkungen und insbesondere bei pathologischen
-  Entwicklungen (Burnout, Traumafolgen) und oder
-  Sekundärtraumatisierung sehr stark in Mitleidenschaft
-  gezogen werden kann.
-\end{itemize}
-}
-\A{Keywords: Stressbewältigung,  Copingstrategien (Exkurs:
-Proaktives Coping), Theorie der Ressourcenerhaltung,
-Kohärenzgefühl, (Resilienz), (Abwehrmechanismen).}
 
 \subsection{Das Konzept des Kohärenzgefühls}
 
@@ -2002,7 +1703,7 @@ Kohärenzgefühls:
 \begin{itemize}
   \item \EE{Auswahl gesundheitsfördenden Verhaltens}:
   Personen mit hohem Kohärenzgefühl interpretieren weniger
-  Eindrücke als stresshaft (z.B. weil sie sie als bewältigbar einschätzen) und weichen Stressoren, die schwer
+  Eindrücke als stresshaft (z.\,B. weil sie sie als bewältigbar einschätzen) und weichen Stressoren, die schwer
   handzuhaben sind, eher aus.
   \item \EE{Erfolgreicherer Umgang mit Stressoren}: Personen
   mit hohem Kohärenzgefühl \enquote{verarbeiten} Stressoren erfolgreicher, was zu
@@ -2017,7 +1718,7 @@ nachstehende Folgerungen} ableiten:
 
 \begin{itemize}
   \item Verstehbarkeit kann durch Informations- und
-  Wissensvermittlung, z.B. durch Fortbildungen, Schulungen,
+  Wissensvermittlung, z.\,B. durch Fortbildungen, Schulungen,
   Selbststudium etc. gefördert werden. Je ausgeprägter das
   Wissen über mögliche Betreuungs- und
   Versorgungssituationen, Unfallfolgen, Krankheits- und
@@ -2086,7 +1787,7 @@ Herausforderung, sondern eher negativ, d.\,h. als eine
 Belastung bzw. Überforderung erlebt werden.
 
 
-\Layout{2}{Indikation der psychologischen Selbsthilfe}
+\Text{Indikation der psychologischen Selbsthilfe}
 {
 Verschiedene Symptome weisen auf eine hohe Belastung von
 professionellen Helfern hin (siehe Tabellen) und können
@@ -2117,7 +1818,7 @@ eine relativ kurze Zeit aufrecht zu erhalten}} und dienen nicht generelle als la
 Stressbewältigung \cite{Karutz200912}.
 
 
-\Layout{2}{Einstellung}
+\Text{Einstellung}
 {Eine positive Grundeinstellung an Einsätze
 kann helfen, die Hoffnung auf Erfolg zu stützen,
 Erwartungsängste zu mildern und die Situation als
@@ -2162,7 +1863,7 @@ Stehen \& Bossaert, 2006, zitiert nach \cite{Karutz200912}}.}
 {}
 {}
 
-\Layout{2}{Bewertung von Stress und Angst}
+\Text{Bewertung von Stress und Angst}
 {Ein gewisses Maß an
 Anspannungserleben ist -- wie in vorangegangenen Kapiteln
 beschrieben -- erforderlich, ja sogar unumgänglich, um eine
@@ -2195,7 +1896,7 @@ sofern sie nicht lähmend wirkt.}
 
 \subsubsection{Kurzfristige Strategien}
 
-\Layout{2}{Aufgaben in Gedanken durchgehen}
+\Text{Aufgaben in Gedanken durchgehen}
 {Die einzelnen
 Maßnahmen zu strukturieren, nach Prioritäten zu ordnen und
 die wichtigsten Handlungsrichtlinien (s. unten)
@@ -2227,7 +1928,7 @@ bzw. automatisiert abgerufen werden können}}
 
 
 
-\Layout{2}{Mentale Vorbereitung, Alternativen planen (\enquote{Plan B})}
+\Text{Mentale Vorbereitung, Alternativen planen (\enquote{Plan B})}
 {Gemeint ist damit, alternative Handlungsmöglichkeiten zu
 überlegen bzw. vorauszuplanen, eine Art Spickzettel mit
 möglichen Handlungen, die sich auch dann noch ausführen
@@ -2255,7 +1956,7 @@ er führt folgende Beispiele an:
 
 
 
-\Layout{2}{Kognitive Umbewertung}
+\Text{Kognitive Umbewertung}
 {Wie aus dem transaktionalen
 Stressmodell ableiten lässt stellen Bewertungsprozesse bei
 der Verarbeitung von Stress einen wesentlichen Faktor dar:
@@ -2271,7 +1972,7 @@ anderen hatte ich großes Glück}}).}
 {}
 {}
 
-\Layout{2}{Positive Selbstinstruktion}
+\Text{Positive Selbstinstruktion}
 { Sie stellt eine Möglichkeit
 zur emotionalen Selbstregulation dar. Gedanken,
 Vorstellungsbilder und gedankliche Selbstgespräche können
@@ -2371,7 +2072,7 @@ müssen vor dem NEF da sein!}}.
 
 \subsubsection{Langfristige Strategien}
 
-\Layout{2}{Erholung}
+\Text{Erholung}
 {Sie dient dazu -- im Sinne der oben
 dargestellten Stresskonzepte -- das homöostatische
 Gleichgewicht wiederherzustellen, Widerstandsenergien erneut
@@ -2400,7 +2101,7 @@ erfüllen zu können.}
 {}
 {}
 
-\Layout{2}{Selbstwahrnehmung und Ausdruck von Emotionen}
+\Text{Selbstwahrnehmung und Ausdruck von Emotionen}
 {Wie
 bereits zuvor erwähnt läuft die Entstehung von Stress nicht
 immer bewusst, sondern sukzessive und unterschwellig ab.
@@ -2436,7 +2137,7 @@ Betätigung etc. abgebaut werden.}
 {}
 {}
 
-\Layout{2}{Rituale}
+\Text{Rituale}
 {Sowohl am Arbeitsplatz als auch in Erholungsphasen können
 ritualisierte Handlungen helfen, Entspannung zu fördern und
 in den Alltag einzubinden. Das Tragen von Dienstkleidung als
@@ -2463,7 +2164,7 @@ Entspannungsphasen und können als konditionierter Reiz wird.}
 {}
 {}
 
-\Layout{2}{Unterstützung durch die Umwelt}
+\Text{Unterstützung durch die Umwelt}
 {Zimbardo \cite{ZimbardoPsych6} verweist auf die Bedeutung
 sozialer Unterstützung bei der Stressbewältigung und meint damit
 \Speech{\enquote{Ressourcen, die von anderen Personen
@@ -2762,7 +2463,7 @@ Yerkes1908, ZimbardoPsych6}
 \section{Psychische Betreuung von Kranken/Verletzten}
 
 
-\Layout{2}{{\TxQuerverweise}}{%
+\Text{{\TxQuerverweise}}{%
 \begin{itemize}
   \item Gesprächsführung, Beziehungsaufbau: \dotfill
   \FullPrettyRef{topic:kommunikationsregeln}
@@ -2772,7 +2473,7 @@ Yerkes1908, ZimbardoPsych6}
   \dotfill \FullPrettyRef{topic:umgang-psy}
 \end{itemize}
 }{}{}{}{}    
-%     \Layout{2}{Beziehungsaufbau generell}
+%     \Text{Beziehungsaufbau generell}
 % {
 % 
 % }
@@ -2782,7 +2483,7 @@ Yerkes1908, ZimbardoPsych6}
 % {}
 % 
 % 
-% \Layout{2}{Suchterkrankte Menschen}
+% \Text{Suchterkrankte Menschen}
 % {
 % 
 % }

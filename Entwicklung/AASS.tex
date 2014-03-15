@@ -1,3 +1,4 @@
+%!TEX program = lualatex
 \documentclass[
 ngerman,
 paper=a4,
@@ -19,6 +20,9 @@ toc=flat,
 
 \usepackage{luatextra}
 \usepackage{fontspec}
+
+% sadly, morewrites brings problems to umlauts in lists
+% \usepackage{morewrites}
 
 % % http://tex.stackexchange.com/questions/66949/command-nobreakspace-unavailable-when-switching-to-t1-encoding-under-xelatex/66951#66951
 % % Its xunicode which changes \nobreakspace: It maps the
@@ -54,38 +58,17 @@ toc=flat,
 
 \renewcommand{\Abk}[1]{#1} 			% reset Abk
 
-\usepackage{xr}						% Maßnahmenkatalog: Referenzen zu ext. Dokument
-% 	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var1-Archiv}}
-% 	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2012.1-var2-Archiv}}
-    \opt{VAR-VAR0}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
-	\opt{VAR-VAR1}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
-	\opt{VAR-VAR2}{\externaldocument[MK-]{AASS-MKATALOG-2013}}
-% 1: Art der Massnahmen
-% 2: Titel
-% 3: Referenz
-% 4: Text / Taktik
-% 5: Punkte
-\newcommand{\MassnahmenMK}[5]{%
-\Layout{Massnahmen}
-{{\SignMassnahme} {\color{ProceduresBoxBackground}#1:} {\color{ProceduresBase}#2}}
-{~
-\ProceduresTextFont\ProceduresTextStyle\begin{itemize}
-  \item \EE{Grundsätzlich:} #4
-  \item \EE{Maßnahmenkatalog:}
-  \FullPrettyRef{MK-#3}
-\end{itemize}
-}
-{\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\FullPrettyRef{MK-#3}}
-{}
-{}
-{}}
+
 
 \newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
 \newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
-\usepackage[backend=bibtex8,
-babel=other,
+\usepackage[
+backend=biber,
+natbib=true,
+language=german,
+% clearlang=true,
+% autolang=langname,
 defernumbers=true,
-natbib,
 sorting=none,
 sortlocale=de,
 ]{biblatex}
@@ -99,14 +82,14 @@ sortlocale=de,
 	\addbibresource{BiblioDB-Med-Links.bib}
 	\addbibresource{BiblioDB-Med-Misc.bib}
 	\renewcommand{\labelnamepunct}{\addcolon\space}
-	\DeclareFieldFormat{title}{\mkbibbold{\mkbibemph{#1}}}
-	\DeclareFieldFormat[article]{title}{\mkbibbold{\mkbibemph{#1}}}
-	\DeclareFieldFormat[inbook]{title}{\mkbibbold{\mkbibemph{#1}}}
+	\DeclareFieldFormat{title}{\mkbibbold{{#1}}}
+	\DeclareFieldFormat[article]{title}{\mkbibbold{{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{{#1}}}
 	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
 	% 
 	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
-	\DeclareFieldFormat{journaltitle}{\textsc{#1}}
-	\DeclareFieldFormat[article]{journaltitle}{\textsc{#1}}
+	\DeclareFieldFormat{journaltitle}{\mkbibemph{#1}}
+	\DeclareFieldFormat[article]{journaltitle}{\mkbibemph{#1}}
 	\renewcommand{\bibfont}{\normalfont\small}
 	\DeclareBibliographyCategory{PAM}
 	\DeclareBibliographyCategory{BestOf}
@@ -120,71 +103,16 @@ sortlocale=de,
 	\newcommand{\textbfit}[1]{\textbf{\textit{#1}}}
 	\newcommand{\bibentry}[1]{\fullcite{#1}}
 	\newcommand{\ChapterBibliography}{\relax}
-% \opt{ORG-ASBOE}{\usepackage{asboe}}
-% \renewcommand{\FontTableBase}{\small\sffamily}
+	
+
 
 % \usepackage[markup=underlined,ulem=normalem]{changes}	
 
 
 
 
-%  http://tex.stackexchange.com/questions/89208/fancy-chapter-title-page
-\usepackage{textpos}
-\def\ChapterCode{---}
-\DeclareFixedFont{\chapternumberfont}{T1}{ppl}{}{}{1.5in}
-\titleformat{\chapter}[display]{\FontSansCaptionFamily\bfseries\Huge\color{white}\raggedright}{
-\thispagestyle{empty}
-\begin{tikzpicture}[overlay, remember picture]
-        % Obere Leiste
-        \path let
-          \p1 = (current page.west),
-          \p2 = (current page.east) in
-              node[minimum width=\x2-\x1, minimum height=7cm, rectangle, fill=AltBlueDark, anchor=north west, align=left, text width=\x2-\x1] at ($(current page.north west)$) {
-                % Textblock mit ChapterCode
-                \begin{textblock*}{5in}(\dimexpr\x2-4.6in,\dimexpr0.25\headheight+.5cm)
-                    \tikz \node [AltBlueDark,text width=2in, align=right, font=\sffamily] {{\LARGE {\FontSansNarrowFamily[\ChapterCode]}}};
-                \end{textblock*}
-                % Textblock mit Chapter-Nummer
-                \begin{textblock*}{5in}(\dimexpr\x2-4.6in,\dimexpr0.25\headheight-3.2cm)
-                    \tikz \node [white,text width=2in, align=right, font=\sffamily] {\raisebox{-12pt}{\FontSansNarrowFamily\mdseries\scalefont{3}\thechapter}};
-                \end{textblock*}
-                % Textblock mit AASS-Logo
-                \begin{textblock*}{5in}(\dimexpr\x2-9.4in,\dimexpr0.25\headheight-5.5cm)
-                    \tikz \node [white,text width=2in, align=left, font=\sffamily] {{\Huge \AASSNegative ~ \FontSansNarrowFamily\mdseries\normalsize}};
-                \end{textblock*}
-              };
-        % untere Leiste
-        \path let \p1 = (current page.west), \p2 = (current page.east) in
-              node[minimum width=\x2-\x1, minimum height=1cm, rectangle, fill=AltBlueLight, anchor=south west, align=left, text width=\x2-\x1] at ($(current page.south west)$) {};
-\end{tikzpicture}
-}{-1.0in}{}[\vspace*{1in}]
 
 
-% % BACKUP
-% %  http://tex.stackexchange.com/questions/89208/fancy-chapter-title-page
-% \usepackage{textpos}
-% \def\ChapterCode{---}
-% \DeclareFixedFont{\chapternumberfont}{T1}{ppl}{}{}{1.5in}
-% \titleformat{\chapter}[display]{\Huge\bfseries\sffamily\color{white}}{
-% \thispagestyle{empty}
-% \begin{tikzpicture}[overlay, remember picture]
-%         % Obere Leiste
-%         \path let \p1 = (current page.west), \p2 = (current page.east) in
-%               node[minimum width=\x2-\x1, minimum height=5cm, rectangle, fill=AltBlueDark, anchor=north west, align=left, text width=\x2-\x1] at ($(current page.north west)$) {
-%                 % Textblock mit ChapterCode und Chapter-Nummer
-%                 \begin{textblock*}{5in}(\dimexpr\x2-4.5in,\dimexpr0.25\headheight-1in)
-%                     \tikz \node [white,text width=2in, align=right, font=\sffamily] {{\normalsize [\ChapterCode]}\\[12pt] \raisebox{20pt}{{\large ~}} \raisebox{-12pt}{\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\scalefont{3}\thechapter}};
-%                 \end{textblock*}
-%                 % Textblock mit AASS-Logo
-%                 \begin{textblock*}{5in}(\dimexpr\x2-9.4in,\dimexpr0.25\headheight-1.7in)
-%                     \tikz \node [white,text width=2in, align=left, font=\sffamily] {{\Huge \AASSNegative ~ \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\normalsize}};
-%                 \end{textblock*}
-%               };
-%         % untere Leiste
-%         \path let \p1 = (current page.west), \p2 = (current page.east) in
-%               node[minimum width=\x2-\x1, minimum height=0.8in, rectangle, fill=AltBlueLight, anchor=south west, align=left, text width=\x2-\x1] at ($(current page.south west)$) {};
-% \end{tikzpicture}
-% }{-1.0in}{}[\vspace*{1in}]
 
 
 % % % http://compgroups.net/comp.text.tex/making-a-cmyk-pdf/153995
@@ -224,67 +152,38 @@ sortlocale=de,
 %   /Info(CMYK UncoatedFOGRA29)
 %  >> ]
 % }
-\usepackage{datatool}
 
-\newcommand{\MYDATA}{}
-\newcommand{\ActionReset}
-{
-\def\ActionRow{1}
-\def\ActionTitle{Database error}
-\def\ActionShorttext{Database error}
-\def\ActionLabel{Database error}
-\def\ActionType{Database error}
-\def\ActionDifficulty{Database error}
-\def\ActionTarget{Database error}
-}
-\ActionReset
-% \renewcommand{\Commentary}[2][]{{\par\sffamily\begin{tiny}\noindent\textbf{Kommentar} \TabHeading{#1:} \protect{#2}\par\end{tiny}}}
-% \renewcommand{\Commentary}[2][]{\footnote{\textbf{Kommentar} \TabHeading{#1:} \protect{#2}}}
-
-\newcommand{\ProcedureTest}[1]{
-\DTLgetrowindex{\ActionRow}{procedures}{1}{#1}
-\DTLgetvalue{\ActionTitle}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{TITLE}}
-\DTLgetvalue{\ActionShorttext}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{SHORTTEXT}}
-\DTLgetvalue{\ActionLabel}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{LABEL}}
-\DTLgetvalue{\ActionType}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{TYPE}}
-\DTLgetvalue{\ActionTarget}{procedures}{\ActionRow}{\dtlcolumnindex{procedures}{TARGET}}
-%%%%%%%%%
-{\sffamily\usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\color{DefaultA}
-\minisec{\ActionType: \ActionTitle} 
-
-
-\label{\ActionLabel}
-\begin{itemize}
-  \item \EE{Allgemein:} \ActionShorttext
-  \item \EE{Spezielle Maßnahmen:}
-  \input{./procedures/#1.tex}
-  \item \EE{Zuständige Fachabteilung bzw. Einheit:}
-  \ActionTarget
-\end{itemize}
-
-{\color{AltBlueLight}\tiny DatabaseObject: \textbf{#1}
-Letzte Änderung:
-\textbf{2013-01-01}\hrulefill\par}
+\usepackage{AassStyleCollectionProcedures}
+ 
+\usepackage{AassStyleCollectionCoverFront}
 
 
 
 
-}
-\ActionReset
-}
+% \titleformat{\part}
+% [display]
+% {\centering\FontSansCaptionFamily\Huge\color{Base}}
+% {\titlerule[5pt]\vspace{3pt}\titlerule[2pt]\vspace{3pt}\MakeUppercase{\color{DefaultRed}{\partname} \thepart}\bfseries}
+% {0pt}
+% {\titlerule[2pt]\vspace{1pc}\huge\MakeUppercase}
+% %
+% \titlespacing*{\part}{0pt}{0pt}{20pt}
 
-\newcommand{\RedFlag}{{\color{DefaultRed}\scriptsize{\VarFlag}\hspace{-0.5em}}}
-\newcommand{\Dictum}[2][]{
-  \bigskip
-  \begin{flushright}
-  \begin{minipage}{\ThirdNetWidth}\scriptsize
-  {\ttfamily\sloppy\color{AltBlueDark}#2}\vspace{\baselineskip}
-  
-  {\FontSansNarrowFamily\color{AltBlueVeryLight}#1}
-  \end{minipage}
-  \end{flushright}
-  \bigskip\noindent
-  }
+% \titleformat{\part}
+% [display]
+% {\centering\FontSansCaptionFamily\Huge\color{Base}}
+% {\titlerule[5pt]\vspace{3pt}\titlerule[2pt]\vspace{3pt}\MakeUppercase{\color{DefaultRed}{\partname} \thepart}\bfseries}
+% {0pt}
+% {\titlerule[2pt]\vspace{1pc}\huge\MakeUppercase}
+% %
+% \titlespacing*{\part}{0pt}{0pt}{20pt}
+%
+
+
+
+
+
+\def\VarColumsLiterary{3}
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -295,10 +194,10 @@ Letzte Änderung:
 % BEGIN DOCUMENT ########################################################################################
 % #######################################################################################################
 \begin{document}
-\MultiColListStart{toc}{2}
-\MultiColListStart{lofazit}{2}
-\MultiColListStart{lomassnahmen}{2}
-\DTLloaddb[headers={ID,TYPE,LABEL,TITLE,SHORTTEXT,LONGTEXT,TARGET}]{procedures}{procedures.csv}
+\MultiColListStart{toc}{3}
+% \MultiColListStart{lofazit}{1}
+\MultiColListStart{lomassnahmen}{3}
+\DTLloaddb[headers={CODE,VERSION,UPDATE,TYPE,TITLE,REMARKS,TARGET,SUMMARY,SPECIALTY,ICD10-P,ICD10-1,ICD10-2,ICD10-3,ICD10-4,MODIFIER,LEVEL,ICD10,ICD10-TEXT}]{procedures}{procedures-export.csv}
 % \biolinum
 \renewcommand{\itemhook}{%
 %   \setlength{\topsep}{0pt}%
@@ -354,38 +253,83 @@ bindingoffset=1.5cm}
 
 \begin{titlepage}
 \loadgeometry{FullPage}\thispagestyle{empty}
-% \begin{titlepage}
-\input{./AASS.CoverFrontBack.tex}
+% 1: Title
+% 2: Subtitle
+% 3: Head
+% 4: Picture
+% 5: Editors
+% 6: Bottom
+% 7: Publisher
+\CoverFrontMake
+{{\color{DefaultA}Arbeits- und
+Ausbildungsstandards}
+
+\bigskip
+
+% {\color{Grey}\hrule}
+% 
+% \bigskip
+
+{\color{DefaultB}für den \color{DefaultRed}Sanitätsdienst}}
+{%
+\opt{VAR-VAR0}{{Stammvariante}}
+\opt{VAR-VAR1}{{Angepasste Variante für den ASB Floridsdorf-Donaustadt}}
+% \opt{VAR-VAR2}{{\Large\color{Grey} Angepasste Version für den Arbeiter-Samariter-Bund Österreichs}}
+\opt{VAR-VAR2}{
+	\begin{minipage}[m]{{8cm}}
+	\flushright{\Large\color{AsboeGreyLightVery}\textit{Angepasste Version für den} \\\color{AsboeGreyLight} Arbeiter-Samariter-Bund Österreichs}
+	\end{minipage}
+	\hspace{1cm}
+	\begin{minipage}[m]{3cm}
+	\includegraphics[width=3cm]{./icons/asb}
+	\end{minipage}}
+}
+{Header}
+{%
+	\opt{VAR-VAR0}{{\includegraphics[height=8cm]{./images/hirtler-aass/LageLarynxTubus}}}
+	\opt{VAR-VAR1}{{\includegraphics[height=8cm]{./images/hirtler-aass/LageLarynxTubus}}}
+	\opt{VAR-VAR2}{{\includegraphics[height=7cm]{./images/hirtler-aass/LageLarynxTubus}}}
+}
+{Gabriel {$\cdot$} Koch {$\cdot$} Emhofer {$\cdot$} Motal {$\cdot$} Steuer}
+{%
+	\begin{multicols}{2}\color{BaseLight}
+		{Mit Beiträgen von }
+		\vspace{0.5em}
+		
+		{\color{Base}Michael Auer\\
+		Lena Hirtler\\
+		Christof Koller\\ 
+		Michael Withofner u.\,a.}
+		\columnbreak
+		
+		% {Version}
+		% \vspace{0.5em}\\
+		{
+		% \textbf{\DocVersion}
+		Version \hfill {\color{Base}\LARGE \VarDocVersion} \hfill
+		Variante \hfill {\color{Base}\LARGE \VarDocVariant}
+		
+		({\VarDocVersionTypeDescription})}
+		
+		\vspace{0.5em}
+		
+		ISBN: {\color{Base}\VarAassIsbn}
+		% 
+		% \today
+	\end{multicols}
+}
+{\ARGE}
 
 \clearpage
 \thispagestyle{empty}
-\begin{tikzpicture}[remember picture, overlay]
-    \node [shift={(-8 cm,-8cm)}]  at (current page.north east)
-        {%
-        \begin{tikzpicture}[remember picture, overlay]
-            \draw(0,0) rectangle (8,8);
-            \draw [fill=gray] (0,8) -- (8,8) -- (8,0) -- cycle ;
-            \path[coordinate]
-                \foreach \k in {1,...,4}{%
-                    (0 pt,8cm -\k *1.2cm) coordinate (d\k)} ;
-            \path[clip] (0,0) rectangle (8,8);
-            \foreach \k/\t in
-            {1/Name,2/Vorname,3/Kurs,4/DienstNr.}{%
-                \node[inner sep=0pt,rotate=-45,%
-                    right=0.5cm,minimum height=12pt](f\k) at (d\k) {\t};
-                \draw  (f\k.south east)-- (8cm -\k * 1.2cm,-6pt );
-            }
-        \end{tikzpicture}
-        };
-        % Draw a page border
-        \draw (current page.north west) rectangle (current page.south east);
-\end{tikzpicture}
+
+
 
 %%% uppertitleback
 
 	Covergestaltung: \emph{Sebastian Gabriel}
 
-    {Titelbild: \emph{Christoph Pallinger} }
+    {Titelbild: \emph{Lena Hirtler} }
     
 \vfill
     
@@ -427,9 +371,29 @@ bindingoffset=1.5cm}
 
 \clearpage
 \thispagestyle{empty}
-
+\noindent\begin{tikzpicture}[remember picture, overlay]
+    \node [shift={(-8 cm,-8cm)}]  at (current page.north east)
+        {%
+        \begin{tikzpicture}[remember picture, overlay]
+            \draw(0,0) rectangle (8,8);
+            \draw [fill=gray] (0,8) -- (8,8) -- (8,0) -- cycle ;
+            \path[coordinate]
+                \foreach \k in {1,...,4}{%
+                    (0 pt,8cm -\k *1.2cm) coordinate (d\k)} ;
+            \path[clip] (0,0) rectangle (8,8);
+            \foreach \k/\t in
+            {1/Name,2/Vorname,3/Einheit,4/DienstNr.}{%
+                \node[inner sep=0pt,rotate=-45,%
+                    right=0.5cm,minimum height=12pt](f\k) at (d\k) {\t};
+                \draw  (f\k.south east)-- (8cm -\k * 1.2cm,-6pt );
+            }
+        \end{tikzpicture}
+        };
+        % Draw a page border
+        \draw (current page.north west) rectangle (current page.south east);
+\end{tikzpicture}
 ~
-\vspace{3cm}
+\vspace{9cm}
 
 \begin{center}
 saluti et solatio aegrorum
@@ -474,7 +438,6 @@ Standards ist, es gibt so viele, aus denen man auswählen kann.}
 \vspace{3cm}
 
 \end{center}
-
 \end{titlepage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% <--- END TITLEPAGE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -488,7 +451,8 @@ Standards ist, es gibt so viele, aus denen man auswählen kann.}
 \restoregeometry
 
 
-
+\pagestyle{fancy}
+\clearpage
 
 
 \begin{WidePar}\flushleft\pagestyle{plain}
@@ -498,77 +462,35 @@ Standards ist, es gibt so viele, aus denen man auswählen kann.}
 % Referenzen finden sich im Maßnahmenkatalog (Version
 % \VarMkatalogVersion).
 \end{WidePar}
-\Layout{2}
-{Maßnahmenkatalog}
-{Konkrete Maßnahmen bzw. mit {\SignMassnahme}
-gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
-\VarMkatalogVersion).
-}
-{}
-{}
-{}
-{}
-
-\Layout{2}
-{Externe Teile}
-{Aus Kostengründen sind manchmal nicht
-alle Teile Bestandteil eines Drucks. Dies betrifft
-insbesonders Teile des Appendix wie z.\,B. das
-Literaturverzeichnis oder den Kommentarteil. Diese Teile
-sind online auf der {\AASS}-Projektseite im
-Download-Bereich verfügbar
-(\url{http://www.aass.at/cms/download/aass/}).
-
-}
-{}
-{}
-{}
-{}
-% {\loadgeometry{FullPage}\twocolumn\setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}\onecolumn\restoregeometry}
-
-%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
-\dominitoc[n]
-
-\begin{WidePar}
-  {\setcounter{tocdepth}{3}\scriptsize\tableofcontents}
-\end{WidePar}
+% \Text
+% {Maßnahmenkatalog}
+% {Konkrete Maßnahmen bzw. mit {\SignMassnahme}
+% gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
+% \VarMkatalogVersion).
+% }
+% {}
+% {}
+% {}
+% {}
+% % 
+% \Text
+% {Externe Teile}
+% {Aus Kostengründen sind manchmal nicht
+% alle Teile Bestandteil eines Drucks. Dies betrifft
+% insbesonders Teile des Appendix wie z.\,B. das
+% Literaturverzeichnis oder den Kommentarteil. Diese Teile
+% sind online auf der {\AASS}-Projektseite im
+% Download-Bereich verfügbar
+% (\url{http://www.aass.at/cms/download/aass/}).
+% 
+% }
+% {}
+% {}
+% {}
+% {}
 
 
-\Layout{2}
-{Maßnahmenkatalog}
-{Konkrete Maßnahmen bzw. mit {\SignMassnahme}
-gekennzeichnete Referenzen finden sich im Maßnahmenkatalog (Version
-\VarMkatalogVersion).
-}
-{}
-{}
-{}
-{}
 
-\Layout{2}
-{Externe Teile}
-{Aus Kostengründen sind manchmal nicht
-alle Teile Bestandteil eines Drucks. Dies betrifft
-insbesonders Teile des Appendix wie z.\,B. das
-Literaturverzeichnis oder den Kommentarteil. Diese Teile
-sind online auf der {\AASS}-Projektseite im
-Download-Bereich verfügbar
-(\url{http://www.aass.at/cms/download/aass/}).
-
-}
-{}
-{}
-{}
-{}
-
-\pagestyle{fancy}
-\clearpage
-
-\input{./content/section-Abkz}
-
-%\nocite{*} 
-% \layout
-% \pagediagram\pagedesign\paragraphdiagram\paragraphdesign\floatpagediagram\floatpagedesign\listdiagram\listdesign\footnotediagram\footnotedesign\tocdiagram\tocdesign
 \clearpage
 \input{./content/section-Impressum}
 
@@ -579,94 +501,11 @@ Download-Bereich verfügbar
 \input{./content/section-Lizenzen.tex}
 
 
+\input{./content/section-Abkz}
+
+
 \clearpage
-\section{Vorwort}
-
-\noindent Liebe Leserinnen und Leser!
-
-\bigskip
-
-\parpic[r][r]{\includegraphics[width=2cm]{./images/gabriel-sebastian-aass/avatar-defense.jpg}}
-Das vorliegende Werk ist das Ergebnis einer seit
-mehr als vier Jahren andauernden Arbeit. 
-Ziel dieses Werkes ist es, das Wissen und die Welt des Sanitätsdienstes abseits
-bereits breitgetretener Pfade fundiert darzustellen, und
-damit sowohl eine Unterlage für die Ausbildung, als auch ein
-Hilfsmittel für die Praxis zu schaffen.  
-Besonderen Wert haben wir dabei 
-auf das Hintergrundwissen und relevante Randbereiche gelegt.
-Denn in einer Zeit, in der das praktische Wissen innerhalb weniger Jahre bereits
-wieder veraltet ist, bildet dieses Fundament die Chance für eine
-langjährige Tätigkeit und erlaubt selbstständiges, regel\E{geleitetes} Arbeiten
-(anstatt strikten, regel\E{gebundenen} Handelns). 
-
-In diesem Sinne entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
-Florisdorf-Donaustadt ausgehend von der Ausbildungsverordnung 
-österreichischer Rettungssanitäter und den Erfordernissen der entsprechenden
-Kurse die {\AASS}. Sie bilden die Grundlage der Curricula und konnten sich
-schon, etappenweise und unter kontrollierten Bedingungen eingeführt, seit über
-zwei Jahren als Lern- und Ausbildungsunterlage
-bewähren.
-
-Oft wurden wir
-gefragt \Speech{\enquote{Wann wird Euer Buch fertig sein?}} 
-Nun, das wird es wohl nie sein. Die {\AASS} sind darauf ausgelegt,
-ständig weiterentwickelt, gewartet und verbessert zu werden. Das medizinische
-und organisatorische Umfeld wandelt sich ständig, sodass man es sich gar nicht
-leisten könnte, still zu stehen.
-Mit dieser Erstausgabe möchten wir nun erstmalig an die
-breitere Öffentlichkeit herantreten, und hoffen 
-auf wertvolle Anregungen und konstruktive Kritik durch die
-Leser- und Anwenderschaft.
-
-
-
-\paragraph{Dieses Werk ist keine \enquote{Dienstanweisung}!}~~
-
-\parpic[r][r]{\includegraphics[width=2cm]{./images/teaser/affe-sama-ambas-schein_00800.jpg}}
-Eines muss vorweg klargestellt werden: Auch wenn es sehr in
-Mode gekommen ist, Abläufe zu standardisieren und
-festzuschreiben, so ist dies keine taugliche
-Herangehensweise, um komplexe Probleme in der Medizin oder
-im Sanitätsdienst zu bewältigen. Zu komplex sind die
-Variablen, und zu gering bzw. zu unangepasst an konkrete
-Situationen ist das gesicherte Wissen, auf dem
-festgeschriebene Prozesse basieren. Der menschliche Faktor,
-insbesonders die jeweilige Erfahrungen, ist und bleibt der
-entscheidende Faktor jeglichen Handelns. Kein Lehrbuch oder
-standardisierter Prozess kann das ändern, sofern das Ziel
-ein \enquote{gutes} Ergebnis, und keine statistische Kennziffer
-ist.
-
-In diesem Sinne ist der Titel dieses Werkes nicht im Sinne eines
-standardisierten Prozessmanagements zu verstehen, sondern soll einen
-\E{Basisstandard} bezüglich medizinisch-sanitätsdienstlichem Wissen und
-Kompetenz bilden, der individuell -- je nach Situation bzw. durch vom Helfer
-andernorts erworbenen Wissens -- grundsätzlich verbesser- und erweiterbar ist. Die {\AASS}
-geben Empfehlungen, es obliegt dem Helfer diese gemäß seiner 
-fachlichen Erfahrung und Kenntnisse zu interpretieren, einzusetzen oder
-anzupassen -- 
-
-\Speech{salus aegroti suprema lex}\footnote{salus aegroti suprema lex \Lang{lat.}: \Speech{Das
-Wohl des Kranken ist oberstes Gebot.}}.
-
-\bigskip
-
-\bigskip
-
-\begin{flushright}
-
-\emph{Wien, im Jänner 2013}
-
-\bigskip
-
-\emph{Die Herausgeber}
-\end{flushright}
-
-
-% \libertineGlyph{Tux}
-
-
+\input{./content/section-Vorwort.tex}
 \clearpage
 % 
 % 
@@ -730,119 +569,75 @@ Wohl des Kranken ist oberstes Gebot.}}.
 {\the\ThirdGrossWidth}
 {\the\ThirdNetWidth}}
 
-% \endnote{Test}
+%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
+\dominitoc[n]
 
-% \section{Logo-Test}
-% 
-% 
-% \noindent{\Huge \usefont{T1}{lmss}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
-% 
-% \bigskip
-% 
-% \noindent{\Huge \usefont{T1}{lmss}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
-% 
-% \vspace{3\baselineskip}
-% 
-% \noindent{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
-%
-% \bigskip
-% 
-% \noindent{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
-% 
-% \bigskip
-% 
-% \noindent{\Huge \usefont{T1}{PTSansCaption-TLF}{m}{n}\selectfont\color{White} AAS\color{AltBlueLight}S}
-% 
-% \vspace{3\baselineskip}
-% 
-% \noindent{\Huge \usefont{T1}{PTSans-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
-% 
-% \bigskip
-% 
-% \noindent{\Huge \usefont{T1}{PTSans-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
-% 
-% \vspace{3\baselineskip}
-% 
-% \noindent{\Huge \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
-% 
-% \bigskip
-% 
-% \noindent{\Huge \usefont{T1}{PTSansNarrow-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
-% 
-% \vspace{3\baselineskip}
-% 
-% \noindent{\Huge \usefont{T1}{DIN-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AsboeRed}S}
-% 
-% \bigskip
-% 
-% \noindent{\Huge \usefont{T1}{DIN-TLF}{m}{n}\selectfont\color{AltBlueDark} AAS\color{AltBlueLight}S}
-% 
-% \vspace{3\baselineskip}
-% 
-
-
-
-
-% {\small\listoffigures}
-% 
-% {\small\listoftables}
-
-% {\scriptsize\listof{massnahmen}{Verzeichnis der Maßnahmen}}
 \begin{WidePar}
-{\small\kern-2.ex\listof{fazit}{Merksätze}}
+  {\setcounter{tocdepth}{3}\FontSansNarrowFamily\scriptsize\tableofcontents}
 \end{WidePar}
 
-% {\WideParBegin}
-\part{Allgemeiner Teil}
-% {\WideParEnd}
 
-\include{./content/chapter-TAE} 
-% \include{./content/chapter-NEW}
-% \addtocounter{chapter}{1}
+
+\Text
+{Externe Teile}
+{Aus Kostengründen sind manchmal nicht
+alle Teile Bestandteil eines Drucks. Dies betrifft
+insbesonders Teile des Appendix wie z.\,B. das
+Literaturverzeichnis oder den Kommentarteil. Diese Teile
+sind online auf der {\AASS}-Projektseite im
+Download-Bereich verfügbar
+(\url{http://www.aass.at/cms/download/aass/}).
+
+}
+{}
+{}
+{}
+{}
+
+\listof{fazit}{Merksätze}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Allgemeines und First Responder}
+
+{\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level A und höher}
+}
+
 \include{./content/chapter-LER}
+\include{./content/chapter-EHI}
+\include{./content/chapter-TAE}
 % Ethik im Rettungsdienst
-% 
-\include{./content/chapter-BET}
+% \include{./content/chapter-BET}
 \include{./content/chapter-RWT}
-\include{./content/chapter-REG}
+% \include{./content/chapter-REG}
+\include{./content/chapter-KHD}
+\include{./content/chapter-GEF}
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-NWG}} % STATUS-EXPERIMENTAL
 
-% {\WideParBegin}
-\part{\enquote{Basic}\\ Grundlagen}
-% {\WideParEnd}
-\setcounter{chapter}{10}
-% \setcounter{page}{1}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Basic}
+\setcounter{chapter}{100}
+
+{\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level C}
+}
 
 \include{./content/chapter-JUS}
-\include{./content/chapter-JUF}
-\include{./content/chapter-EHI}
-% \include{./content/chapter-AED}
 \include{./content/chapter-MP1}
 \include{./content/chapter-BAU}
 \include{./content/chapter-ASB}
-\include{./content/chapter-SAN}
-\include{./content/chapter-ASS}
 \include{./content/chapter-BLS}
-\include{./content/chapter-KHD}
-\include{./content/chapter-GEF}
-\include{./content/chapter-PSI}
+\include{./content/chapter-SAN}
+
 \include{./content/chapter-KOM}
 \include{./content/chapter-PAM}
-
-% {\WideParBegin}
-\part{\enquote{Basic}\\ Medizinisch-Wissenschaftlicher
-Basisteil}
-% {\WideParEnd}
-\setcounter{chapter}{30}
-% \setcounter{page}{1}
-
+%%%
 \include{./content/chapter-ANA}
 \include{./content/chapter-EIN}
 \include{./content/chapter-DOK}
 \include{./content/chapter-VIT}
 \include{./content/chapter-TOD}
+\include{./content/chapter-ATM}
 \include{./content/chapter-HKL}
-\include{./content/chapter-RSP}
 \include{./content/chapter-NEU}
 \include{./content/chapter-STW}
 \include{./content/chapter-ABD}
@@ -858,58 +653,71 @@ Basisteil}
 \include{./content/chapter-WUN}
 \include{./content/chapter-TRA}
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-SYM}}
+\include{./content/chapter-PSI}
 
 
-% {\WideParBegin}
-\part{\enquote{Intermediate}\\ Erweitertes Wissen}
-% {\WideParEnd}
-\setcounter{chapter}{60}
-% \setcounter{page}{1}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Intermediate}
 
-% \include{./content/chapter-MP2}
-\include{./content/chapter-ALS}
-\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-ARZ}} % STATUS-EXPERIMENTAL
+{\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level C}
+}
+
+\setcounter{chapter}{200}
+\include{./content/chapter-IJUF}
+\include{./content/chapter-IASS}
+\include{./content/chapter-IALS}
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-NKA}}
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-PKU}} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-EKG}} % STATUS-EXPERIMENTAL
-\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-WIS}} % STATUS-EXPERIMENTAL
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-SPE}} % STATUS-EXPERIMENTAL
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-WEI}} % STATUS-EXPERIMENTAL
+\include{./content/chapter-INTERMEDIATE-Artikel}
 
-% {\WideParBegin}
-\part{\enquote{Advanced} (Fortgeschrittenes Wissen)}
-% {\WideParEnd}
-\setcounter{chapter}{70}\setcounter{page}{1}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Advanced}
 
-\opt{STATUS-EXPERIMENTAL}{\chapter{Präklinische Narkose}\SectionUnderDevelopment} % STATUS-EXPERIMENTAL
+{\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level E}
+}
 
-\include{./content/chapter-ADVANCED-Atemweg}
 
-% \include{./content/inc-RES-ende}
+\setcounter{chapter}{300}
+\opt{STATUS-EXPERIMENTAL}{
+	\include{./content/chapter-ARZ}
+	\include{./content/chapter-EKG}
+	\include{./content/chapter-WIS}
+	\chapter{Präklinische Narkose}\SectionUnderDevelopment
+	\include{./content/chapter-ADVANCED-Atemweg}
+}% STATUS-EXPERIMENTAL
+	\include{./content/chapter-ADVANCED-Fehler}
+\include{./content/chapter-ADVANCED-Ischaemische-Herzerkrankungen}
+\include{./content/chapter-ADVANCED-Artikel}
 
-\part{Lehrmaterialien}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Expert}\setcounter{chapter}{400}
 
+{\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level F}
+}
+\include{./content/chapter-EXPERT-Wundauflagen}
+\include{./content/chapter-EXPERT-Antikoagulantien}
+\include{./content/chapter-EXPERT-Artikel}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Extras}\setcounter{chapter}{500}
+
+\include{./content/chapter-EXPERT-Narkose}
+% \opt{STATUS-EXPERIMENTAL}{%
 \include{./content/part-Lehrmaterialien}
+%}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \appendix
-% {\WideParBegin}
 \part{Appendix}
-% {\WideParEnd}
-%\setcounter{page}{0}
 
-% \pagenumbering[Appendix]{bychapter}
-
-
+ 
 \include{./content/chapter-INT}
 
 \include{./content/chapter-GLO}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Kommentare
-% \printnotes
-% \theendnotes
-% \printendnotes[description]
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Literaturverzeichnis
@@ -933,17 +741,23 @@ ITLSde6,
 Helfen2008,
 StriebelAnaesthesie2}
 
-\printbibliography[
+\printbibliography[  
 category=BestOf,
-title={Literatur,Best of},
+title={Literatur, Best of},
 prenote=bestof]
 
 \printbibliography
+
+{\small\listoffigures}
+
+{\small\listoftables}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Index
 % \clearpage
 {\small\printindex}
+
+
 
 \input{./content/inc-APP}
 
@@ -964,6 +778,6 @@ Und sehe, daß wir nichts wissen können!}
 
 SO LONG.......... AND THANKS FOR ALL THE FISH
 \MultiColListEnd{lomassnahmen}
-\MultiColListEnd{lofazit}
+% \MultiColListEnd{lofazit}
 \MultiColListEnd{toc}
 \end{document}

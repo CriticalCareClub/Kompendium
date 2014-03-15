@@ -6,13 +6,13 @@
       <meta:creation-date>2011-08-31T12:19:08</meta:creation-date>
       
       <meta:generator>LibreOffice/3.5$MacOSX_x86 LibreOffice_project/281b639-6baa1d3-ef66a77-d866f25-f36d45f</meta:generator>
-   <meta:document-statistic meta:table-count="3" meta:cell-count="113" meta:object-count="0"/></office:meta>
+   <meta:document-statistic meta:table-count="3" meta:cell-count="164" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">14019</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">9038</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">17838</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -35,8 +35,8 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Dimensions">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">7</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">6</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">29</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -69,8 +69,8 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">Dimensions</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">270</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">Units</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">322</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -131,7 +131,6 @@
   </office:script>
  </office:scripts>
  <office:font-face-decls>
-  <style:font-face style:name="F" svg:font-family="" style:font-family-generic="roman"/>
   <style:font-face style:name="Monospace" svg:font-family="Monospace" style:font-pitch="fixed"/>
   <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Arial Unicode MS" svg:font-family="&apos;Arial Unicode MS&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -197,10 +196,7 @@
    <style:table-row-properties style:row-height="0.494cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro3" style:family="table-row">
-   <style:table-row-properties style:row-height="0.492cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro4" style:family="table-row">
-   <style:table-row-properties style:row-height="0.457cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="0.464cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
@@ -306,7 +302,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2013-07-05">00.00.0000</text:date>, <text:time>00:00:00</text:time> </text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2013-11-04">00.00.0000</text:date>, <text:time>00:00:00</text:time> </text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -434,7 +430,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce2" table:number-columns-repeated="1019"/>
     </table:table-row>
-    <table:table-row table:style-name="ro3">
+    <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce2" office:value-type="string">
       <text:p>textwidth</text:p>
      </table:table-cell>
@@ -527,6 +523,229 @@
     <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string">
+      <text:p>Bilder third</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="640">
+      <text:p>640</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string">
+      <text:p>Bilder textwidth</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="float" office:value="1341">
+      <text:p>1341</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string">
+      <text:p>Bilder wide</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="float" office:value="2043">
+      <text:p>2043</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string">
+      <text:p>A4</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="421.10144">
+      <text:p>421,10144</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C21]/[Units.$B$2]" office:value-type="float" office:value="148">
+      <text:p>148</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=([.D21]*[Units.$C$2])*300" office:value-type="float" office:value="1748.03149606488">
+      <text:p>1748,0314960649</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string">
+      <text:p>bindinoffsetmin</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce4" office:value-type="float" office:value="22">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C22]/[Units.$B$2]" office:value-type="float" office:value="7.73210369453973">
+      <text:p>7,7321036945</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string">
+      <text:p>Ausgleich</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="1.10144">
+      <text:p>1,10144</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=598-[.C21]" office:value-type="float" office:value="176.89856">
+      <text:p>176,89856</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string">
+      <text:p>bindingoffset</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:formula="of:=[.C22]+[.C23]" office:value-type="float" office:value="23.10144">
+      <text:p>23,10144</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C24]/[Units.$B$2]" office:value-type="float" office:value="8.11921498059945">
+      <text:p>8,1192149806</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string">
+      <text:p>inner</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="25">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C25]/[Units.$B$2]" office:value-type="float" office:value="8.78648147106788">
+      <text:p>8,7864814711</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string">
+      <text:p>outer</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="25">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C26]/[Units.$B$2]" office:value-type="float" office:value="8.78648147106788">
+      <text:p>8,7864814711</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce2" office:value-type="string">
+      <text:p>WideParWidth</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2"/>
+     <table:table-cell table:style-name="ce6" table:formula="of:=[.C21]-[.C22]-[.C23]-[.C25]-[.C26]" office:value-type="float" office:value="348">
+      <text:p>348</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.C27]/[Units.$B$2]" office:value-type="float" office:value="122.307822077265">
+      <text:p>122,3078220773</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" table:formula="of:=([.D27]*[Units.$C$2])*300" office:value-type="float" office:value="1444.58057571729">
+      <text:p>1444,5805757173</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce2" office:value-type="string">
+      <text:p>textwidth</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2"/>
+     <table:table-cell table:style-name="ce7" table:formula="of:=[.C21]-[.C24]-[.C25]-[.C26]-[.C29]-[.C30]" office:value-type="float" office:value="227">
+      <text:p>227</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.C28]/[Units.$B$2]" office:value-type="float" office:value="79.7812517572963">
+      <text:p>79,7812517573</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" table:formula="of:=([.D28]*[Units.$C$2])*300" office:value-type="float" office:value="942.298249102943">
+      <text:p>942,2982491029</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string">
+      <text:p>marginparwidth</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce8" table:formula="of:=[.C33]" office:value-type="float" office:value="106">
+      <text:p>106</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C29]/[Units.$B$2]" office:value-type="float" office:value="37.2546814373278">
+      <text:p>37,2546814373</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=([.D29]*[Units.$C$2])*300" office:value-type="float" office:value="440.015922488599">
+      <text:p>440,0159224886</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string">
+      <text:p>marginparsep</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce8" table:formula="of:=[.C31]" office:value-type="float" office:value="15">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C30]/[Units.$B$2]" office:value-type="float" office:value="5.27188888264072">
+      <text:p>5,2718888826</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string">
+      <text:p>columnsep</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="15">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C31]/[Units.$B$2]" office:value-type="float" office:value="5.27188888264072">
+      <text:p>5,2718888826</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string">
+      <text:p>ThirdGrossWidth</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce8" table:formula="of:=[.C27]/3" office:value-type="float" office:value="116">
+      <text:p>116</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C32]/[Units.$B$2]" office:value-type="float" office:value="40.7692740257549">
+      <text:p>40,7692740258</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=([.D32]*[Units.$C$2])*300" office:value-type="float" office:value="481.526858572429">
+      <text:p>481,5268585724</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string">
+      <text:p>ThirdNetWidth</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2"/>
+     <table:table-cell table:style-name="ce7" table:formula="of:=([.C27]-2*[.C31])/3" office:value-type="float" office:value="106">
+      <text:p>106</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.C33]/[Units.$B$2]" office:value-type="float" office:value="37.2546814373278">
+      <text:p>37,2546814373</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" table:formula="of:=([.D33]*[Units.$C$2])*300" office:value-type="float" office:value="440.015922488599">
+      <text:p>440,0159224886</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell office:value-type="string">
       <text:p>Bilder third</text:p>
@@ -557,7 +776,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048556">
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048537">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -565,8 +784,9 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Units" table:style-name="ta1" table:print="false">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:number-columns-repeated="3" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro1">
      <table:table-cell/>
      <table:table-cell office:value-type="string">
       <text:p>pt</text:p>
@@ -575,7 +795,7 @@
       <text:p>inch</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string">
       <text:p>1mm=</text:p>
      </table:table-cell>

@@ -1,0 +1,921 @@
+% \begin{savequote}
+% \includegraphics[width=6cm]{./images/gabriel-sebastian-aass/cape_town_paramedic.jpg}
+% 
+% {\sffamily\tiny Bild: Gabriel}
+% \end{savequote}
+\def\ChapterCode{ALS}
+\chapter
+[\CO{[ALS]} Advanced Life Support (ALS)]
+{Advanced Life Support (ALS)}
+\label{chp:ALS}
+
+\ChapterIntro
+{%
+}
+{%
+\begin{description}
+  \item[Maintainer:] Sebastian Gabriel
+  \item[Autoren:] Diverse
+  \item[Reviewer:] Standard-Reviewprozess
+  \item[Version:] {\VarDocVersionTypeName} ({\VarDocVersionTypeDescription})
+  \item[SHA1:] {\DocGitCommit}
+\end{description}
+
+{\TxTeilkapitelAASS}
+}
+
+
+\clearpage % TEMP temp clearpage
+\I{Advanced Life Support} (\I{ALS}) bezeichnet eine Fülle
+von erweiterten Maßnahmen zur Therapie des
+Herz-Kreislaufstillstands, bzw. im weiteren Sinne von
+ähnlichen lebensbedrohlichen Krankheitsbildern. Sie umfassen
+unter anderem das Setzen venöser Zugänge, die medikamentöse
+Therapie, bestmögliche Atemwegssicherung und Defibrillation.
+\Abk{ALS}-Maßnahmen können 
+u.\,a. von Sanitätern (ab der Qualifikation \Abk{NKV}) oder
+(Not-)Ärzten durchgeführt werden. Der jeweilige Umfang der Maßnahmen
+richtet sich nach dem Ausbildungsstand, der eigenen
+Erfahrung und dem vorhandenen Material. Sind die
+Voraussetzungen für eine Reanimation mittels \Abk{ALS}
+nicht gegeben, so muss eine Basisreanimation (wenn
+vorhanden mittels \Abk{AED}) durchgeführt werden und weitere
+Hilfe angefordert werden. 
+
+\section{Leitlinien}
+
+\TextSlide{ERC}
+{%
+\label{topic:erc}
+\index{Fachgesellschaft!ERC}
+Eine wichtige Fachgesellschaft, welche sich dem Thema der
+Reanimation und damit verwandter Gebiete widmet, ist das
+\T[ERC|see{European Resuscitation Council}]{ERC}
+(\I{European Resuscitation Council}). Bekannt ist das
+\Abk{ERC} vor allem durch seine Leitlinien
+(\I{Guidelines}\footnote{\Lang{engl.} \emph{Guideline}:
+Leit-, Richtlinie, Empfehlung}) zur Wiederbelebung, welche
+alle fünf Jahre aktualisiert werden. Die Guidelines
+definieren \E{nicht} den einzig richtigen Weg wie eine
+Reanimation ablaufen muss. Vielmehr sind sie als weithin
+akzeptierte Ansicht zu
+verstehen, wie sie sicher und effektiv durchgeführt werden
+kann. \cite[p.1219]{Erc2010Sec1}
+
+Jeder neuen Auflage geht ein aufwendiger Forschungs- und
+Diskussionsprozess voraus: Es werden hunderte Studien mit
+vielen verschiedenen Fragestellungen an vielen
+Forschungszentren auf der ganzen Welt durchgeführt, die
+Ergebnisse ausgewertet und anschließend diskutiert.
+Die derzeit aktuelle Version
+der ERC-Guidelines kam im Jahr \EE{2010} heraus
+(\I{ERC 2101}), die nächste Aktualisierung ist im Jahr
+2015 zu erwarten. Derzeit wird in vielen Bereichen noch nach
+der Version aus dem Jahr 2005 gearbeitet.
+
+
+
+}{%
+\begin{itemize}
+   \item Leitlinien zur Reanimation
+   \item Aktualisierung alle 5 Jahre
+   \item Aktuelle Version: 2010
+\end{itemize}
+
+}{}{}{}
+
+
+
+
+
+\Text{Neu oder alt?}
+{%
+Da alle fünf Jahre eine neue Version der Richtlinien
+erscheint, kommt es gerade in der
+Übergangszeit\footnote{Als Übergangszeit versteht man den
+Zeitraum zwischen Veröffentlichung einer neuen Version der
+Leitlinie und Implementierung durch die jeweilige
+Organisation.} regelmäßig zu Verwirrungen, welche Versionen
+oder Varianten in der Praxis angewendet werden sollen.
+
+\EE{Grundsätzlich muss das gesamte Personal einer Organisation
+\E{das von der eigenen Organisation empfohlene} oder
+angepasste Schema kompetent im Team anwenden können.} Das
+behandelnde Fachpersonal kann jedoch davon im Rahmen der
+\E{Eigenverantwortung} abweichen, sofern die dazu
+notwendigen Voraussetzungen gegeben sind. Dabei ist ganz
+besonders zu beachten, dass das \E{gesamte} Team mit der
+anderen oder neueren Version vertraut und die entsprechende
+Routine besitzen muss. Darüber hinaus müssen auch
+z.\,B. technische Gegebenheiten bedacht werden
+(Programmierung der AEDs, etc.). I.\,d.\,R. trifft der
+Teamleiter als Letztverantworlicher die
+Entscheidung, er muss daher auch genau über die jeweilige
+Qualifikation und Routine seiner Teammitglieder Bescheid
+wissen. Ist die Durchführung einer anderen Variante als die
+von der Organisation empfohlene aufgrund der Ausbildung, des
+Trainings und der Routine von Team-Mitgliedern oder der
+vorhandenen Ausstattung fragwürdig, so ist im Zweifel im Sinne eines
+reibungslosen Ablaufes des empfohlene Schema zu verwenden.
+\E{Die Publikation einer neuen Ausgabe der Guidelines
+bedeutet nicht, das die bisherigen Methoden unsicher oder
+ineffektiv sind \cite[p.1219]{Erc2010Sec1}.}
+
+% \enquote{The guidelines [..] do not define the only way that
+% resuscitation can be delivered; they merely represent a
+% widely accepted view of how resuscitation should be
+% undertaken both safely and effectively. The publication of
+% new and revised treatment recommendations does not imply
+% that current clinical care is either unsafe or ineffective.}
+
+}{%
+\begin{itemize}
+   \item
+\end{itemize}
+
+}{}{}{}
+
+\bigskip
+
+% \EE{Sonderfall: VF/VT unter bestimmten Bedingungen}:
+% Dies betrifft
+% Patienten mit Kammerflimmern oder ventrikulärer
+% Tachykardie \Z{während einer Herzkatheteruntersuchung oder
+% früh-postoperativ nach einem herzchirugischen Eingriff bei
+% einem beobachteten Kreislaufstillstand, wenn der Patient
+% bereits an einem manuellen Defibrillator angeschlossen
+% ist: Hier dürfen 3 Schocks hintereinander gegeben
+% werden} Unter Bedachtnahme des Abschnitts bezüglich der
+% Elektrotherapie gilt dies auch für Patienten, welche einen
+% beobachteten Kreislaufstillstand erleiden und zu dem
+% Zeitpunkt bereits an einem Defibrillator angeschlossen
+% sind.
+
+\clearpage
+\section{Säulen der Reanimation}
+
+\subsection{Basisreanimation}
+
+Das unter \CO{[EHI]} (\prettyref{chp:EHI}) und \CO{[BLS]}
+(\prettyref{chp:BLS}) Gesagte gilt auch beim Advanced
+Life Support. Auch hier muss besonders darauf geachtet
+werden, so wenig wie möglich zu pausieren und
+Herzdruckmassagen mit möglichst optimaler Qualität
+durchzuführen. Unterbrechungen sind nur statthaft, um
+spezielle Interventionen zu ermöglichen.
+
+\Text{Neuerungen 2010}{%
+Die Empfehlung des
+\enquote*{Pflicht-Zyklus vor AED} beim unbeobachteten
+Kreislaufstillstand ist gestrichen
+worden, kann aber weiterhin angewendet werden.
+Während der Ladephase des
+Defibrillators soll die Herzdruckmassage (\I{HDM})
+fortgeführt werden um die HDM-Pausen zu reduzieren,
+d.\,h. nach der Analyse wird weiter massiert, bis der Defi bereit zur
+Schockabgabe ist.  Bei
+vielen AED-Geräten kann es jedoch zu
+\EE{Problemen} kommen, sie interpretieren die
+reanimationsbedingten Störungen der EKG-Ableitung als
+Kontaktverlust bzw. Bewegungsartefakt und brechen den
+Ladevorgang ab.\footnote{Davon betroffen sind derzeit z.\,B. die
+Geräte der Schiller Fred{\texttrademark}-Serie, der
+Defigard{\texttrademark} 1002 und der
+LifePak{\texttrademark} 500. Bezüglich anderer Geräte liegen
+der Redaktion derzeit noch keine Informationen vor. Es muss
+jedoch davon ausgegangen werden, dass auch andere Modelle
+ein derartiges Verhalten zeigen können. \E{(Angaben ohne
+Gewähr. Stand: 2011-01-19)}} Dadurch wird die Schockabgabe
+verhindert. Daher kann diese Methode nicht generell
+empfohlen werden, sondern darf nur durchgeführt werden, wenn
+der Hersteller des Gerätes dies freigegeben hat.
+\Commentary[HDM während Defi lädt / Doppelte Warnung]{Eine
+Warnung betreffend der HDM während der Ladephase des Defis
+findet sich bereits im \CO{[BLS]}-Teil
+(\prettyref{chp:BLS}). Aufgrund der Tragweite wurde sie im
+\CO{[ALS]}-Teil praktisch
+wortwörtlich wiederholt.}
+
+\Cave{Manche Defibrillatoren brechen den Ladevorgang ab,
+wenn währenddessen eine Herzdruckmassage durchgeführt wird.}
+
+\Fazit{Während des Ladevorganges des Defibrillators darf nur
+bei Verwendung von \E{manuellen} Geräten eine
+Herzdruckmassage durchgeführt werden.}
+}{}{}{}{}
+
+
+\subsection{Elektrotherapie}
+
+Vgl. \CO{[BLS]} (\prettyref{chp:BLS}).
+
+% \TakeNotesLarge
+
+\subsection{Airwaymanagement}
+Es gibt nicht genügend Beweise
+für oder gegen eine spezielle Technik zum
+\I{Airwaymanagement} beim Kreislaufstillstand.
+
+\Text{Endotracheale Intubation}
+{\DefinitionInPara{Als
+\T[Intubation!endotracheale]{endotracheale Intubation}
+(\T{ETI}) wird das Einführen eines Tubus in die Trachea
+bezeichnet.} Sie ist eine Maßnahme des invasiven
+Atemwegsmanagements und wird als Goldstandard hinsichtlich
+der Qualität der Atemwegssicherung angesehen, dies
+berücksichtigt aber nicht die Sicherheit der Anwendung.
+
+Der Tubus wird mithilfe eines Laryngoskops unter Darstellung
+der Stimmritze unter Sicht in die Luftröhre eingeführt.
+An den gängigen Tuben ist ein Cuff angebracht, welcher ein
+Abdichten des Atemweges ermöglicht\footnote{Manche Tuben,
+z.\,B. für Klinkinder haben keinen Cuff.}.
+
+\subparagraph{Kontrolle der Tubuslage}
+Das korrekte Platzieren des Tubus ist einer der kritischten
+Punkte bei der endotrachealen Intubation. Typische Fehler
+sind die Intubation der Speiseröhre (\E{ösophageale}
+Intubation) oder die Intubation eines Hauptbronchus
+(\E{bronchiale} Intubation bei zu tief vorgeschobenen Tubus, 
+es wird dann nur \E{ein} Lungenflügel belüftet).
+
+Grundsätzlich gibt es präklinisch drei Möglichkeiten, die
+korrekte Lage des Tubus zu überprüfen:
+\begin{enumerate}
+  \item Visuelle Darstellung mittels Laryngoskop
+  \item Auskultation von Magen und Lungenflügel
+  \item Messung der \ce{CO2}-Abatmung mittels Kapnograhie
+\end{enumerate}
+Es sollen immer \EE{alle drei
+Möglichkeiten} angewendet werden.
+Es wird jedoch zunehmend ein größerer Wert auf die
+\EE{Kapnographie} gelegt, um die Tubuslage zu kontrollieren,
+die CPR-Qualität abzuschätzen und eine frühzeitige Erkennung
+der Rückkehr des spontanen Kreislaufs zu ermöglichen. Die
+Kapnographie ist die verlässlichste Methode zur
+Lagekontrolle \cite{Grmec2002}. Besonders
+geeignet sind dazu Geräte, welche die \ce{CO2}-Abatmung als Kurve darstellen. Wenn nach 6
+Beatmungen \ce{CO2} nachweisbar ist, kann man davon
+ausgehen, dass der Tubus in den unteren Atemwege zu liegen
+gekommen ist. Die Kapnographie kann jedoch \E{keine} Aussage
+darüber treffen, ob die \E{Trachea oder nur ein einzelner
+Bronchus} intubiert wurde.
+
+Wenn kein Kapnograph mit Kurvendarstellung vorhanden ist,
+wird in den ERC~2010-Leitlinien die bevorzugte Verwendung
+supraglottischer Hilfsmittel
+angeregt.\ZFootnote{\Speech{\enquote{In the absence of a
+waveform capnograph it may be preferable to use a
+supraglottic airway device when advanced airway management
+is indicated.}}~\cite[p.1322]{Erc2010Sec4}.
+\Commentary[Airwaymanagement / Kapnographie]{Zur
+Problematik der Verfügbarkeit der Kapnographie siehe
+auch 
+\cite{Genzwuerker2007}
+(\fullcite{Genzwuerker2007}) 
+\cite{Timmermann2007}
+und darin enthaltene
+Referenzen.
+}
+}
+}{}{}{}{}{}
+
+
+
+
+
+
+\Text{Supraglottische Atemwegshilfsmittel}
+{In den letzten Jahren gewinnen die
+supraglottischen\footnote{\Lang{lat.} supra: oberhalb, über;
+\Lang{Term.} glottis: Der aus den Stimmfalten bestehende
+Teil des Kehlkopfinnenraums.} Hilfsmittel aufgrund ihrer
+verhältnismäßig einfachen Anwendbarkeit immer mehr an
+Bedeutung. Die ERC-Leitlinien 2010 sehen mittlerweile die
+supraglottischen Atemwegshilfen bei der Reanimation als
+weitgehend gleichwertig zur klassischen endotrachealen
+Intubation an
+\cite[p.1319,1321]{Erc2010Sec4}.\footnote{Supraglottische
+Methoden zur Atemwegssicherung werden oft als
+\enquote*{alternativer Atemweg} bezeichnet, da sie oft eine
+Alternative zur endotrachealen Intubation (\I{ETI})
+angesehen werden. Die ETI gilt weithin als Goldstandard der
+Atemwegssicherung, dennoch hat sie einige gewichtige
+Nachteile und ist in vielen Situationen \E{nicht die Methode
+der Wahl}. }
+
+Bei den supraglottischen Atemwegshilfen wird der Schlauch
+nicht in die Luftröhre eingeführt, sondern endet im Rachen
+beziehungsweise oberhalb des Kehldeckels (supraglottisch).
+Es gibt verschiedene Produkte, welche dieses Ziel auf
+unterschiedliche Weise erreichen. Dazu gehören der
+Larynxtubus{\texttrademark}, die Larynxmaske und der Combitubus.
+
+ }{}{}{}{}{}
+
+
+
+\Text
+{Streitfrage: Endotracheale Intubation oder Alternative?}
+{%
+Die endotracheale Intubation (ETI) ist grundsätzlich eine
+sehr anspruchsvolle Tätigkeit.  Es gibt viele
+Fehlerquellen, beispielhaft seien die Intubation des
+Ösophagus oder nur eines Bronchus, Verletzung
+beim Intubationsvorgang oder ein Bronchspasmus genannt.
+Zahlreiche Studien haben eine hohe Inzidenz von
+Fehlintubationen beschrieben.
+Speziell im 
+außerklinischen Bereich erhöht sich der
+Schwierigkeitsfaktor aufgrund der Gegebenheiten
+(Platzangebot, vorhandenes Material, nicht nüchterne bzw.
+nicht vorbereitete Patienten, Verletzungen,
+Begleiterkrankungen, \ldots) deutlich
+\cite{Timmermann2006,Thierbach2004}.
+
+In diversen Studien wurden die Erfolgs- und
+Komplikationsraten der ETI untersucht, dabei zeigen sich
+wenig zufriedenstellende bis alarmierende Ergebnisse %
+\cite{Nolan2001,
+% Prehospital and resuscitative airway care: should the gold standard be reassessed?
+% In the context of prehospital care and resuscitation,
+% tracheal intubation has been regarded as the standard in
+% airway treatment. The evidence for this status is rather
+% weak. It does not take into account the level of training
+% and experience of the personnel attempting intubation, and
+% whether they use neuromuscular blockers. In unskilled
+% hands, attempted tracheal intubation is harmful;
+% unrecognized esophageal intubation is disastrous. When
+% healthcare providers lack adequate skills in tracheal
+% intubation, alternative airway devices, such as the
+% laryngeal mask airway or the Combitube, may be better
+% options than a simple facemask. Healthcare personnel using
+% any of these devices should be adequately trained and
+% maintain frequent practice.
+Wang2011,% Out-of-hospital airway management in the
+% United States.In this study characterizing
+% out-of-hospital airway management across the United
+% States, we observed low out-of-hospital ETI success rates.
+Cobas2009, % Prehospital intubations and mortality: a level
+% 1 trauma center perspective.
+% This prospective study showed a 31\% incidence of failed
+% PHI in a large metropolitan trauma center. We found no
+% difference in mortality between patients who were properly
+% intubated and those who were not, supporting the use of
+% bag-valve-mask as an adequate method of airway management
+% for critically ill trauma patients in whom intubation
+% cannot be achieved promptly in the prehospital setting.
+Jones2004, % Emergency physician-verified out-of-hospital
+% intubation: miss rates by paramedics. 
+% The rate of unrecognized, misplaced out-of-hospital
+% intubations in this urban, midwestern setting was 5.8\%
+Wang2006, % Paramedic intubation errors: isolated events or
+% symptoms of larger problems?
+% In our study population, we found that errors occurred in
+% 22 percent of intubation attempts, with a frequency of up
+% to 40 percent in selected ambulance systems. These
+% findings indicate frequent errors associated with this
+% life-saving technique. These events might be emblematic of
+% larger issues in the structure and delivery of
+% out-of-hospital emergency care.
+Wang2006a, % Out-of-hospital endotracheal intubation: where
+% are we?
+% These studies highlight our limited understanding of
+% out-of-hospital endotracheal intubation and the need for
+% new strategies to improve airway support in the
+% out-of-hospital setting.
+Wang2008,
+Stiell2004,
+Stiell2008,
+}. Die wichtigsten Ergebnisse dieser Studien sind:
+\begin{itemize}
+  \item Die Gefahr von Fehlintubationen, insbesonders von
+  ösophagealen Fehllagen, ist hoch.
+  Diese werden oft spät oder gar nicht
+  erkannt (Risiko der unerkannten
+  Tubusfehllage bei Patienten mit außerklinischem
+  Kreislaufstillstand: \Range{0,5}{17}\PC*%
+  \cite{Grmec2002, % 0,5%: Comparison of three different
+  % methods to confirm tracheal tube placement in emergency intubation.
+  % The esophageal intubations were followed by successful
+  % endotracheal intubations without complications. The
+  % capnometry (sensitivity and specificity 100\%) and
+  % capnography (sensitivity and specificity 100\%) were
+  % better than auscultation (sensitivity 94\% and specificity
+  % 83\%) in confirming endotracheal tube placement in
+  % non-arrest patients ( p<0.05). Capnometry was highly
+  % specific (100\%) but not sensitive (88\%) for correct
+  % endotracheal intubation in patients with cardiopulmonary
+  % arrest (capnometry versus auscultation and capnometry
+  % versus capnography, p<0.05).Capnography is the most
+  % reliable method to confirm endotracheal tube placement in
+  % emergency conditions in the prehospital setting.
+  Lyon2010, % 2,4%: Field intubation of cardiac
+  % arrest patients: a dying art?
+  % The aetiology of cardiac arrest was medical in 95.2\%,
+  % traumatic in 3.9\% and unrecorded in 0.9\%. Prehospital
+  % intubation was attempted in 628 patients. Prehospital
+  % intubation was successful in 573 patients. A significant
+  % complication (multiple attempts, displaced endotracheal
+  % tube or oesophageal intubation) occurred in 55 (8.8\%)
+  % patients. 165 (20.8\%) patients survived to hospital
+  % admission, of whom 110 had undergone prehospital
+  % intubation. 55 patients who did not undergo prehospital
+  % tracheal intubation survived to hospital admission.The
+  % optimal method of maintaining an airway and ventilating an
+  % OHCA patient has yet to be established. Prehospital
+  % tracheal intubation for OHCA is associated with
+  % significant complications and may reduce survival. The use
+  % of tracheal intubation as a routine intervention should be
+  % reconsidered. Ambulance services should consider adopting
+  % alternative strategies in airway management.
+  Jones2004, % 6%: Emergency physician-verified
+  % out-of-hospital intubation: miss rates by paramedics.
+  Pelucio1997, % Out-of-hospital experience with the syringe
+  % esophageal detector device.
+  % In the remaining 168 intubations, the EDD correctly
+  % identified 5 of 10 esophageal intubations (sensitivity
+  % 50\%; 95\% CI: 19\%, 81\%).
+  % The EDD correctly identified 156 of 158 tracheal
+  % intubations (specificity 99\%; 95\% CI: 96\%, 100\%).In
+  % this paramedic field study, the EDD demonstrated poor
+  % sensitivity for esophageal intubations.
+  Jemmett2003, % 9%: Unrecognized misplacement of
+  % endotracheal tubes in a mixed urban to rural emergency
+  % medical services setting.
+  % Of the studied patients, 12\% (13 of 109) were found to
+  % have misplaced endotracheal tubes. For the patients with
+  % unrecognized improperly placed tubes, 9\% (10 of 109) were
+  % in the esophagus, 2\% (2 of 109) were in the right main
+  % stem, and 1\% (1 of 109) were above the cords. Paramedics
+  % serving urban and suburban areas did not perform
+  % significantly better (p < 0.05) than intermediate-level
+  % providers serving areas that are more rural.
+  % The incidence of unrecognized misplacement of endotracheal
+  % tubes by EMS personnel may be higher than most previous
+  % studies, making regular EMS evaluation and the
+  % out-of-hospital use of devices to confirm placement
+  % imperative. The authors were unable to show a difference
+  % in misplacement rates based on provider experience or
+  % level of training.
+  Katz2001, % Misplaced endotracheal tubes by paramedics
+  % in an urban emergency medical services system.
+  % On arrival in the ED, 25\% (27/108) of patients were found
+  % to have improperly placed endotracheal tubes. Of the
+  % misplaced tubes, 67\% (18/27) were found to be in the
+  % esophagus, whereas in 33\% (9/27), the tip of the tube was
+  % found to be in the hypopharynx, above the vocal cords. %
+  Erc2010Sek04De,
+  }
+  \item Die Erfolgsraten bei wenig routinierten Anwendern
+  sind schlecht\footnote{\Speech{\enquote{Die
+  Misserfolgsraten der Intubation betragen in
+  außerklinischen, wenig ausgelasteten Systemen
+  mit Anwendern, die selten Intubationen durchführen, bis
+  zu 50\PC*}}\cite{Erc2010Sek04De}. [408, 409]}.
+  \item Die Probleme der ETI  betreffen grundsätzlich auch ärztliches
+  Personal\footnote{Timmermann et.~al. 
+  2007 \cite{Timmermann2007}: In dieser in Deutschland
+  durchgeführten Studie wurde eine hohe Rate an
+  Fehlintubationen (ösophageal, bronchial) durch Notärzte
+  festgestellt.}. \cite{Timmermann2007,Grmec2002, % 0,5%:
+  % Comparison of three different methods to confirm
+  % tracheal tube placement in emergency intubation.
+  }).
+  \item Der Schulungsaufwand ist groß: Zum Erlernen der
+  Tätigkeit werden wenigstens 100 ETI gefordert, zur
+  Aufrechterhaltung mindestens 10 ETI pro
+  Jahr \cite{Timmermann2012}. Damit verbunden wäre eine
+  Vollzeit-Trainingsphase von etwa einem halben Jahr
+  \cite{Bernhard2012}.
+\end{itemize}
+
+Es kommt hinzu, dass ein Vorteil für den Patienten
+durch die ETI \E{nicht} nachgewiesen ist:
+In 2008 fassten Nolan und Soar \cite{Nolan2008} zusammen, dass der Nutzen der ETI
+bei der präklinischen Reanimation
+nicht durch Studien gezeigt werden konnte, und dass einige
+sogar das Gegenteil erkennen ließen
+(\Speech{\enquote{Prehospital studies fail to show any
+benefit from tracheal intubation during cardiopulmonary
+resuscitation and many show harm.}}~\cite{Nolan2008}). Dies
+deckt sich auch mit Beobachtungen aus anderen Studien \cite{
+Stiell2004,%There was no improvement in the rate of survival
+% with the use of advanced life support in any subgroup.
+Cobas2009, % Prehospital intubations and mortality: a level
+% 1 trauma center perspective. 
+}.
+Ein 2008 veröffentlichtes Cochrane-Review kam zu der
+gleichen Schlussfolgerung, mit der Betonung, dass entsprechende, qualitative
+hochwertige Studien fehlen \cite{Lecky2008}. 
+
+
+Die frühe endotracheale Intubation verliert somit an
+Stellenwert.
+Sie soll nur angewendet werden, wenn der Anwender hochqualifiziert
+und sich sehr sicher ist,
+bzw. regelmäßige, laufende Erfahrung
+mit der Technik hat 
+(\Speech{\enquote{It should be used
+only when trained personnel are available to carry out the procedure with a
+high level of skill and confidence. }} \cite{Erc2010Sec4}).
+Ohne ausreichendes Training und Erfahrung wird die
+Komplikationsrate als unakzeptabel hoch angesehen. Das
+Aufschieben der endotrachealen Intubation bis zur Wiederkehr
+des spontanen Kreislaufs, wird in den ERC 2010-Leitlinien
+als Alternative ausdrücklich genannt.
+\cite{Nolan2001,
+Nolan2008,
+Lecky2008,
+Erc2010Sec4}
+Vor diesem Hintergrund bleibt festzuhalten, dass eine
+unterlassene Intubation nicht -- wie oft behauptet -- mit
+einer unterlassenen Hilfeleistung, sondern mit einer
+unterlassenen Tradition gleichzusetzen ist.
+
+
+Der traditionellen ETI steht eine stetige
+Entwicklung an alternativen Airwaysystemen gegenüber, welche eine effektive und
+technisch einfachere Sicherung des Atemweges ermöglichen
+(supraglottsiche Atemwegshilfen).
+Zwar müssen diese Systeme Abstriche hinsichtlich des
+Aspirationsschutzes machen, wiegen dies jedoch durch ihre
+einfach und sichere Anwendung auf %
+\cite{Schalk2010, %
+% Out-of-hospital airway management by paramedics and emergency physicians using laryngeal tubes.
+% The LT-D/LTS-D represents a reliable tool for prehospital
+% airway management in the hands of both paramedics and
+% emergency physicians. It can be used as an initial tool to
+% secure the airway until ETI is prepared, as a definitive
+% airway by rescuers less experienced with ETI or as a
+% rescue device when ETI has failed.
+% The placement time was < or =45s (n=120), 46-90s (n=20)
+% and >90s (n=7).
+Wiese2009, % The use of the laryngeal tube disposable (LT-D)
+% by paramedics during out-of-hospital resuscitation-an observational study concerning ERC guidelines 2005.
+% The LT-D was used in 46\% of all cardiac arrest
+% situations. Overall, the LT-D was successfully inserted in
+% more than 90\% of all cases on first attempt. In 95\% of
+% all cases, no problems concerning ventilation of the
+% patient were described.As an alternative airway device
+% recommended by the ERC in 2005, the LT-D may enable airway
+% control rapidly and effectively. Additionally, by using
+% the LT-D, a reduced "no-flow-time" and a better outcome
+% may be possible.
+}. 
+
+}
+{}
+{}
+{}
+{}
+
+\Fazit{Wenn die erforderliche Routine und Sicherheit für die
+Durchführung einer ETI nicht gegeben ist und die Indikation
+für ein invasives Atemwegsmanagement besteht, sollen
+\EE{supraglottische Atemwegshilfen} als \EE{primärer} Zugang
+eingesetzt werden \cite{Timmermann2012}.}
+
+\begin{Literary}
+\fullcite{Timmermann2012}
+
+\fullcite{Lecky2008}
+
+\fullcite{Timmermann2007}
+
+\fullcite{Erc2010Sek04De}
+\end{Literary}
+
+
+\subsubsection{Larynxtubus{\texttrademark}}
+
+Siehe \FullPrettyRef{topic:larynxtubus}.
+
+
+
+\subsection{Medikamente}
+\index{Adrenalin!Reanimation}%
+\index{Amiodaron!Reanimation}%
+\index{Atropin!Reanimation}%
+Die Gabe von Medikamenten ist eine Routinemaßnahme während
+der Reanimation. Typischerweise erfolgt die Medikamentengabe
+über eine periphere Venenverweilkanüle
+(Venflon{\texttrademark}, Braunüle{\texttrademark}).
+Sinvoller weise wird standardmäßig auch eine Infusion mit
+kristalloider Infusionslösung (Kochsalz-,
+Ringerlösung, Ringerlaktat) angeschlossen, um eine schnelle
+Spülung zu ermöglichen.
+
+Sollte
+die rasche Anlage einer solchen nicht gelingen, kann als
+Alternative ein intraossärer Zugang mittels spezieller
+Hilfsmittel gelegt werden.
+Früher war es auch üblich, Medikamente über einen
+Endotrachealtubus (\I{ET}) zu geben, dies wird nicht mehr
+empfohlen.
+
+% \Text{Medikamente ERC 2005}{%
+%
+% \subparagraph{Schockbarer Rhythmus} Bei
+% schockbaren Rhythmen (VF/VT) gilt nun:
+% \begin{labeling}[:]{Adrenalinm}
+%   \item[Adrenalin] 1\Mg* vor dem 3. Schock, wenn
+%   die HDM fortgeführt wird, danach alle
+%   \VonBis{3}{5}\Min* während wechselnder CPR-Zyklen.
+%   \item[Amiodaron] 300\Mg* vor dem 4. Schock.
+% \end{labeling}
+%
+% \subparagraph{Nichtschockbarer Rhythmus} (Asystolie, Pulslose
+% Elektrische Aktivität (\I{PEA})): Bei nichtschockbaren
+% Rhythmen gilt:
+% \begin{labeling}[:]{Adrenalinm}
+%   \item[Adrenalin] 1\Mg* sobald Zugang vorhanden ist,
+%   danach alle \VonBis{3}{5}\Min*.
+%   \item[Atropin] 3\Mg* sobald Zugang vorhanden ist,
+%   einmalig.
+% \end{labeling}
+% }
+% {}{}{}{}
+%
+% \Text{Medikamente ERC \Ca{2010}}{%
+% \subparagraph{Schockbarer Rhythmus} Bei
+% schockbaren Rhythmen (VF/VT) gilt nun:
+% \begin{labeling}[:]{Adrenalinm}
+%   \item[Adrenalin] 1\Mg* \Ca{nach} dem 3. Schock, wenn
+%   die HDM fortgeführt wird, danach alle
+%   \VonBis{3}{5}\Min* während wechselnder CPR-Zyklen.
+%   \item[Amiodaron] 300\Mg* \Ca{nach} dem \Ca{3.} Schock.
+% \end{labeling}
+%
+% \subparagraph{Nichtschockbarer Rhythmus} (Asystolie, PEA): Bei
+% nichtschockbaren Rhythmen  gilt nun:
+% \begin{labeling}[:]{Adrenalinm}
+%   \item[Adrenalin] 1\Mg* sobald Zugang verfügbar, danach alle
+%   \VonBis{3}{5}\Min* während wechselnder CPR-Zyklen.
+% \end{labeling}
+%
+% \noindent\EE{Atropin fliegt raus}: Atropin ist nun \E{nicht}
+% mehr als Routine-Medikament bei nichtschockbaren Rhythmen
+%  empfohlen.
+% }
+% {}{}{}{}
+
+
+\Layout{57}
+{}
+{}
+{}
+{%
+\begin{tabulary}{\linewidth}{lLLL}
+\toprule\addlinespace
+\noindent\TabHeading{Wirkstoff}
+&
+\noindent\TabHeading{Erläuterungen}
+&
+\noindent\TabHeading{Indikation}
+&
+\noindent\TabHeading{Spezialitäten}
+\\\addlinespace\midrule\addlinespace
+\noindent\TabSub{Adrenalin}
+&
+Vasokonstriktor
+&
+Schockbarer Rhythmus
+
+Nicht-Schockbarer Rhythmus
+&
+\noindent\RaggedRight\Z{L-Adrenalin Fresenius{\texttrademark} 2\Mg*\,/\,20\Ml*
+
+L-Adrenalin Fresenius{\texttrademark} 0,5\Mg*\,/\,5\Ml*
+
+Suprarenin{\texttrademark} 1\Mg*\,/\,1\Ml*}
+\\\addlinespace
+\noindent\TabSub{Amiodaron}
+&
+Anti\-ar\-rhythmi\-kum
+
+Kl. III
+&
+Schockbarer Rhythmus
+&
+\noindent\RaggedRight\Z{Sedacoron{\texttrademark} 150\Mg*\,/\,3\Ml*}
+\\\addlinespace
+\noindent\TabSub{\Z{Atropin}}
+&
+\noindent\Z{Anti\-para\-sym\-patho\-mi\-meti\-kum}
+&
+\noindent\Z{Nicht-Schockbarer Rhythmus (seit 2010 nicht mehr
+Standard)}
+&
+\noindent\RaggedRight\Z{Atropinum sulfuricum Nycomed{\texttrademark} 0,5\Mg*\,/\,1\Ml*}
+\\\addlinespace\bottomrule
+\end{tabulary}
+}
+{Übersicht: Die wichtigsten bei der
+Reanimation eingesetzten
+Medikamente.}
+{}
+
+
+
+% \begin{PictureSeriesWide}{}{Medikamente bei der Reanimation (Amiodaron nicht abgebildet) \SourcePicture{ASBÖ/gjh}}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/Medikamente0395_0197-00441pt}
+% {L-Adrenalin \enquote*{Fresenius\texttrademark} 2\Mg* 20\Ml* Ampulle.}
+% {./images/ASBOE-Grassl-gjh-1/suprarenin-freigestellt-borderadded-00441pt}
+% {Suprarenin{\texttrademark}-Ampulle
+% (1\Mg* Adrenalin in 1\Ml*, dieses Medikament wird vor Gebrauch verdünnt)}
+% {./images/ASBOE-Grassl-gjh-1/Medikamente0465_0267-00441pt}
+% {Eventuell ultima ratio zur Behandlung reversibler Ursachen: Lyse}
+% {}
+% {}
+% \end{PictureSeriesWide}
+
+
+% TODO Grassl Foto: Reanimationsmedikamente
+
+\Layout{57}
+{}
+{}
+{}
+{
+\begin{tabularx}{\linewidth}{XXX}
+\toprule\addlinespace
+\noindent\TabHeading{Medikament}
+&
+\noindent\TabHeading{Schockbar}
+&
+\noindent\TabHeading{Nicht-schockbar}
+\\\addlinespace\midrule\addlinespace
+\TabSub{Adrenalin}
+&
+\EE{1\Mg*} \Abk{IV}
+
+\E{nach} dem 3., 5., 7.,~{\ldots} Schock
+&
+\EE{1\Mg*} \Abk{IV}
+
+ab Zugang, alle \VonBis{3}{5} Minuten
+\\\addlinespace
+\TabSub{Amiodaron}
+&
+\EE{300\Mg*} \Abk{IV}
+
+einmalig \E{nach} dem {3.} Schock
+&
+---
+\\\addlinespace\bottomrule
+\end{tabularx}
+}
+{Standard-Reanimationsmedikamente ERC {2010} (vereinfacht)}
+{}
+
+
+% \begin{PictureSeriesWide}{}{Es war einmal: Bekannte Medikamente, welcher nicht mehr Standard bei einer Reanimation sind \SourcePicture{ASBÖ/gjh}}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/Medikamente0426_0228-00441pt}
+% {Nicht mehr Standard bei der Reanimation: Atropin}
+% {./images/ASBOE-Grassl-gjh-1/Medikamente0398_0200-00441pt}
+% {Auch nicht mehr Standard: Natrium-Bikarbonat (NaBic)}
+% {empty}
+% {}
+% {}
+% {}
+% \end{PictureSeriesWide}
+
+
+% TODO Grassl Foto: Ehemalige Reanimationsmedikamente
+
+\subsection{Reversible Ursachen}
+
+Es gibt acht klassische Ursachen eines
+Herz-Kreislaufstillstandes, welche grundsätzlich behebbar
+(reversibel) sind:
+
+\begin{multicols}{2}
+\TableBaseModification
+\begin{itemize}
+  \item \EE{\Ca{H}ypoxie}
+
+  (z.\,B. Atemwegsverlegung),
+  \item \EE{\Ca{H}ypovolämie}
+
+  (z.\,B. Blutung durch Trauma,   GI-Blutung, Aneurysmaruptur),
+  \item \EE{\Ca{H}ypo-/Hyperkaliämie}
+
+  (z.\,B. metabolische Störung),
+  \item \EE{\Ca{H}ypothermie}
+
+  (z.\,B. Ertrinkungsunfall)
+  \item \EE{\Ca{H}erzbeuteltamponade}
+
+  (z.\,B. Thoraxtrauma durch Stich oder Schuss)
+  \item \EE{\Ca{I}ntoxikation}
+
+  (z.\,B. Opiate, trizyklische Antidepressiva)
+  \item \EE{\Ca{T}hromboembolie}
+
+  (Lungenembolie, Herzinfarkt)
+  \item \EE{\Ca{S}pannungspneumothorax}
+\end{itemize}
+\end{multicols}
+
+
+\noindent \Sign{→} \T{4 H + HITS}
+
+\bigskip
+
+Leider lassen sich nicht alle dieser reversiblen Ursachen
+präklinisch erkennen oder beheben, dennoch muss dies -- wenn
+möglich -- versucht werden.
+
+
+\section{Versorgung nach Reanimation}
+
+Wird bei der Reanimation der Kreislauf wiederhergestellt
+(\T{ROSC}, \I{Resumption Of Spontaneous Circulation}) ist
+die weitere Versorgung wichtig. Grundsätzlich gelten auch
+hier sinngemäß die {\TxMassVit}. Die Sauerstoffgabe hat
+einen Sp\ce{O2}-Zielwert von \VonBis{94}{98}\PC*.
+Dem Post-Cardiac-Arrest-Syndrome sowie dessen Behandlung
+wird vermehrt Beachtung geschenkt.
+
+Strukturierte post-Resuscitation-Protokolle erhöhen die
+Überlebenswahrscheinlichtkeit und werden zunehmend
+implementiert. Besonders aktuell diesbezüglich ist die
+\T{Therapeutische Hypothermie}, bei welcher die
+Körpertemperatur des Patienten kontrolliert reduziert wird,
+um die körpereigene Bildung von schädlichen Stoffen nach
+einer Reanimation zu mildern.
+
+
+
+\section{Abbruch der Reanimation}
+
+In ca. \VonBis{70}{95}\PC* der Fälle ist der
+Reanimationsversuch erfolglos und der Patient verstirbt
+\cite{StriebelAnaesthesie2-Band2,Erc2005DeSec8}.
+Grundsätzlich wird eine Reanimation fortgesetzt, solange ein
+Kammerflimmern oder ein ähnlicher Rhythmus vorliegt. Es ist
+weitgehend akzeptiert, eine Reanimation abzubrechen, wenn
+trotz aller ALS-Maßnahmen und Fehlen von reversiblen
+Ursachen für 20 Minuten eine Asystolie besteht
+\cite{Erc2010Sec10,Bonnin1993,StriebelAnaesthesie2-Band2}.
+Gewisse Bedingungen, etwa eine Hypothermie zum Zeitpunkt
+des Kreislaufstillstands, steigern die Chancen der Wieder-
+herstellung ohne neurologische Schäden,
+sodass normale Prognosekriterien (z.\,B.
+eine über 20\Min* andauernde Asystolie)
+nicht anwendbar sind. \autocite{Erc2005DeSec8}
+
+Abgesehen von den rein medizinischen Faktoren,
+welche vor allem den zu erwartenden Reanimationserfolg im
+Blick haben, gibt es auch noch andere Umstände, welche
+Einfluss auf die Entscheidung haben. Besonders
+berücksichtigenswert ist der mutmaßliche oder vorab
+geäußerte Patientenwille, z.\,B. im Rahmen einer
+verbindlichen oder beachtlichen Patientenverfügung.
+
+Die Abbruchsentscheidung ist grundsätzlich \EE{von einem
+Arzt} zu treffen (sofern keine dringenden Gründe wie
+unsichere Umgebung oder Erschöpfung vorliegen).
+
+\opt{STATUS-EXPERIMENTAL}{
+
+}%STATUS-EXPERIMENTAL
+
+\clearpage
+\begin{figure}
+\begin{WidePar}
+\begin{center}
+\Captionof{figure}{Algorithmus Advanced Live Support (\Abk{ALS})}
+
+\includegraphics[scale=1]{./images/emhofer-josef-aass/ALS}
+\end{center}
+\end{WidePar}
+\end{figure}
+
+\Picture
+	{ALS}%1
+	{Der ALS-Algorithmus}%2
+	{fig:als}%3
+	{Emhofer}%4
+	{AASS}%5
+	{./images/emhofer-josef-aass/ALS}%6
+	{1}%7
+	{H}%8
+
+\nocite{Uray2008}
+
+
+\nocite{Erc2010Sec1}
+\nocite{Erc2010Sec2}
+\nocite{Erc2010Sec3}
+\nocite{Erc2010Sec4}
+\nocite{Erc2010Sec5}
+\nocite{Erc2010Sec6}
+\nocite{Erc2010Sec7}
+\nocite{Erc2010Sec8}
+\nocite{Erc2010Sec9}
+\nocite{Erc2010Sec10}
+\ChapterEnd

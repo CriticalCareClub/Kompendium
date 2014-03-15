@@ -14,8 +14,8 @@
 % \end{savequote}
 \def\ChapterCode{BLS}
 \chapter
-[Basic Life Support]
-{Basic Life Support}
+[\CO{[BLS]} Basic Life Support]
+{Basic Life Support für professionelle Helfer}
 % \AasRsN{RS VIII}
 \label{chp:AED}\label{chp:BLS}
 \label{topic:atemstillstand-aed}
@@ -48,7 +48,7 @@ neuesten wissenschaftlichen Erkenntnissen angepasst.}{%
   \item[Maintainer:] Josef Emhofer
   \item[Autoren:] Diverse
   \item[Reviewer:] Standardreviewprozess
-  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[Version:] {\VarDocVersionTypeName} ({\VarDocVersionTypeDescription})
   \item[SHA1:] {\DocGitCommit}
 \end{description}
 
@@ -57,7 +57,7 @@ neuesten wissenschaftlichen Erkenntnissen angepasst.}{%
 
 %\SectionUnderConstruction{}
 \clearpage
-\dictum[Dickie, in: Samuel Shem: \emph{House of God.}
+\Dictum[Dickie, in: Samuel Shem: \emph{House of God.}
 \cite{HouseOfGodDe}]{Alles in Ordnung, auch wenn Sie in Panik geraten sind und
 sich beschissen fühlen.
 Ich kenne das. Es ist furchtbar, und es wird nicht das
@@ -68,7 +68,7 @@ Aber vergessen Sie nicht, was Sie gesehen haben. Regel Nr.
 
 \section{Einleitung}
 
-\Layout{0}{\TxBeschreibung}
+\TextSlide{\TxBeschreibung}
 {Nach der Kontrolle der Vitalfunktionen kann sich
 herausstellen, dass der Patient \EE{kein Bewusstsein} und
 \EE{keine normale Atmung} hat, d.\,h. \EE{kein Kreislauf
@@ -95,7 +95,7 @@ bilden die \EE{drei Säulen der Reanimation}.}{
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Achtung}
+\TextSlide{Achtung}
 {Entgegen der Vorgehensweise der Rettungskette wird bei
 einem Atem- und Kreislaufstillstand grundsätzlich bereits
 \E{nach der Kontrolle der Vitalfunktionen} der \E{Notruf
@@ -119,7 +119,7 @@ Techniken werden im Folgenden detailliert beschrieben.
 % \end{itemize}
 % }
 
-% \Layout{0}{Lebensrettende Sofortmaßnahme
+% \TextSlide{Lebensrettende Sofortmaßnahme
 % }{
 % Nach dem Absetzen des Notrufes muss sofort mit der
 % \EE{Herz-Lungen-Wiederbelebung (Reanimation)} begonnen werden. Diese dient der
@@ -143,30 +143,29 @@ Techniken werden im Folgenden detailliert beschrieben.
 
 
 
-\Layout{0}{3 Säulen der Reanimation}
+\TextSlide{3 Säulen der Reanimation}
 {Die Maßnahmen der (Basis-)Reanimation setzen sich im
 Wesentlichen aus drei Säulen zusammen:
 \begin{enumerate}
-  \item Elektrotherapie (Defibrillation)
   \item Herzdruckmassage (HDM)
   \item Beatmung
+  \item Elektrotherapie (Defibrillation)
 \end{enumerate} }{
 \begin{itemize}
-  \item Defibrillation
   \item Herzdruckmassage
   \item Beatmung
+  \item Defibrillation
 \end{itemize}
 }{}{}{}
 
-\begin{PictureSeries}{}{Die drei Säulen der Reanimation
-\SourcePicture{Hirtler}}
+\begin{PictureSeries}{}{Die drei Säulen der Basiseanimation}
 \PictureSeriesRow{3}
-{./images/hirtler-aass/Reanimation-Defi-Achtung}
-{Defibrillation}
 {./images/hirtler-aass/Reanimation-Position-2}
-{Herzdruckmassage}
+{Herzdruckmassage \SourcePicture{Hirtler}}
 {./images/hirtler-aass/Beutelbeatmung1}
-{Beatmung}
+{Beatmung \SourcePicture{Hirtler}}
+{./images/hirtler-aass/Reanimation-Defi-Achtung}
+{Defibrillation \SourcePicture{Hirtler}}
 {}
 {}
 \end{PictureSeries}
@@ -182,7 +181,8 @@ Fließgeschehen (Zirkulation) des Blutes erzeugt.
 % zwischen Wirbelsäule und Brustbein ein künstliches Fließgeschehen
 % (Zirkulation) des Blutes.
 
-\Layout{0}{Technik}
+\begin{itemize}
+  \item \TextSlide{Technik}
 {Das Beherrschen der richtigen Technik hat wesentlichen
 Einfluss auf das Überleben des Patienten. Sie ist daher
 ausführlich beschrieben und muss ausreichend und regelmäßig
@@ -190,7 +190,7 @@ trainiert werden. Die folgende Beschreibung orientiert sich
 an den Empfehlungen des European Resuscitation Council
 (ERC).
 
-\EE{Position und Druckpunkt}: Der Patient muss auf einem
+\item \EE{Position und Druckpunkt}: Der Patient muss auf einem
 harten Untergrund liegen. Ggfs. ist der Patient aus einem Bett
 o.\,ä. auf den Boden zu bringen. Der Helfer kniet
 dann seitlich neben dem Körper des Patienten und sucht
@@ -202,7 +202,7 @@ Handballen einer Hand aufgelegt. Hebt der Helfer die Hand
 Druckpunkt neu aufgesucht werden, bevor die nächste
 Herzmassage anschließt.
 
-\EE{Arm- und Körperhaltung}: Die richtige Arm- und
+\item \EE{Arm- und Körperhaltung}: Die richtige Arm- und
 Körperhaltung ist wichtig, um mit wenig Kraftaufwand die
 bestmögliche Leistung zu erzielen. Nachdem der
 \E{Handballen} einer Hand \E{auf den Druckpunkt} gelegt
@@ -217,11 +217,11 @@ drückt man mit Hilfe des eigenen Gewichts direkt nach unten.
 Das Herz wird so zwischen Brustbein und Wirbelsäule zusammen
 gedrückt und Blut wird in die Aterien ausgeworfen.
 
-\EE{Druckerzeugung und Druckentlastung}: Der \E{Druck} wird
+\item \EE{Druckerzeugung und Druckentlastung}: Der \E{Druck} wird
 -- wie bereits erwähnt -- \E{direkt nach unten} ausgeübt.
 Der Druck hat \E{kräftig, aber nicht ruckartig} zu erfolgen.
-Die \E{Eindrücktiefe} beträgt \E{\VonBis{5}{6}\CM*}. Beim
-durchschnittlichen Erwachsenen ist das ungefähr
+Die \E{Eindrücktiefe} beträgt \E{\VonBis{5}{6}\CM*}, beim
+durchschnittlichen Erwachsenen entspricht das ungefähr
 \nicefrac{1}{3} des Brustkorbes. Der \E{Brustkorb} muss sich
 nach der Kompression wieder \E{vollständig entlasten} können
 damit das Herz wieder mit Blut befüllt wird. Während der
@@ -234,10 +234,25 @@ Entlastungsphasen} dauern beide \E{gleich lange}
 % ausdehnen können. Es darf daher \E{kein Restdruck} bestehen. Die Druck-
 % und Entlastungsphasen dauern beide gleich lange.
 
-\EE{Druckfrequenz}: Die Druckfrequenz
+\item \EE{Druckfrequenz}: Die Druckfrequenz
 (\enquote{Arbeitsgeschwindigkeit}) der Herzdruckmassage
 beträgt \E{mindestens 100 Massagen pro Minute} (aber nicht mehr als
 120 Massagen pro Minute).
+
+\item \EE{Verhältnis}: Die Herzdruckmassage wechselt sich mit der Beatmung des Patienten ab. 
+Der seitlich am Patient knieende
+  Helfer beginnt die Wiederbelebung mit \E{30
+  Herzdruckmassagen}, darauf folgen \E{zwei Beatmungen} 
+  durch den am Knopf befindlichen Helfer,
+  danach wird sofort mit 30 HDM fortgefahren usw. 
+  \E{Erfolglose Beatmungsversuche} werden
+  nicht wiederholt um die HDM nicht zu verzögern. Das
+  Wechselspiel aus 30 HDM und zwei Beatmungen wird
+  fortgeführt bis der AED einsatzbereit ist. Dies soll so
+  rasch wie möglich geschehen. 
+\end{itemize}
+
+
 
 }{
 \begin{itemize}
@@ -247,7 +262,7 @@ beträgt \E{mindestens 100 Massagen pro Minute} (aber nicht mehr als
     \item Handballen am Brustbein,
     \item Finger verschränkt,
     \item Arme durchgestreckt,
-    \item Schultern genau über den Druckpunkt.
+    \item Schultern genau über dem Druckpunkt.
   \end{itemize}
   \item Druckerzeugung und Druckentlastung
   \begin{itemize}
@@ -273,7 +288,7 @@ $\rightarrow$~Druck direkt auf Brustbein}
 {}
 \end{PictureSeries}
 
-\Layout{2}{HDM: sooft wie möglich!}{%
+\Text{HDM: sooft wie möglich!}{%
 Die Herzdruckmassage muss so rasch wie möglich beginnen und
 so unterbrechungsfrei wie möglich durchgeführt werden.
 Nach Abgabe des Schocks muss die Herzdruckmassage
@@ -288,7 +303,7 @@ soll lt. ERC insgesamt nicht mehr als \E{5\Sek*} betragen!}
 }{}{}{}{}
 
 
-\Layout{0}{Mögliche Fehlerquellen}
+\TextSlide{Mögliche Fehlerquellen}
 {
 Der größte Fehler, den ein potenzieller Helfer machen
 kann, ist, \EE{nichts zu tun}. Die professionelle
@@ -311,7 +326,7 @@ Herz, das nicht mehr schlägt, geht vor!
 
 \Fazit{Wird bei der Herzdruckmassage einmal ein falscher
 Druck ausgeübt oder eine Rippe gebrochen: Nicht aufhören,
-sondern den richtigen Druckpunkt erneut aufsuchen und
+sondern den richtigen Druckpunkt erneut aufsuchen und die
 Herzdruckmassage fortsetzen!}
 
 Ein zu ruckartiger Druck führt zu einer zu kurzen
@@ -336,7 +351,7 @@ Durch die Beatmung wird dem Körper Sauerstoff zugeführt und
 Kohlendioxid abgeführt. Dadurch kann ein minimaler
 Sauerstoffaustausch künstlich aufrecht erhalten werden.
 
-\Layout{0}{Arten und Hilfsmittel}{
+\TextSlide{Arten und Hilfsmittel}{
 Während in der ersten Hilfe die Beatmung mittels
 Mund-zu-Mund-, Mund-zu-Nasen- und
 Mund-zu-Mund/Nasen-Beatmung durchgeführt wird, beatmet
@@ -344,7 +359,7 @@ medizinisches Fachpersonal mit Beatmungsbeutel,
 Sauerstoffreservoir und Sauerstoffzufuhr.
 \VARIANT{VAR-STANDARD}{
 Diese
-Beatmungshilfen sind in Kapitel \ref{chp:SAN} beschrieben.
+Beatmungshilfen sind in Kapitel \FullPrettyRef{chp:ASB}, beschrieben.
 Bei spezieller Ausbildung/Freigabe kann der professionelle
 Helfer zum Freihalten der Atemwege einen Guedel-Tubus
 verwenden.
@@ -363,7 +378,7 @@ verwenden.
 
 
 
-\Layout{0}{Technik und Parameter der Atmung}
+\TextSlide{Technik und Parameter der Atmung}
 {
 Das Beherrschen der richtigen Technik ist gerade bei der
 Beatmung sehr schwierig. Regelmäßiges Training ist daher
@@ -393,7 +408,7 @@ sichtbare Atembewegung vorhanden ist. Der
 kann durch ausreichend Training in der
 Beutel-Masken-Beatmung erreicht werden.
 
-Die ausreichende \ce{O2}-Konzentration in dfer
+Die ausreichende \ce{O2}-Konzentration in der
 Umgebungs-/Einatmungsluft ist die Voraussetzung für eine
 funktionierende Atmung. Ist sie nicht gegeben, ist auch die
 beste Atemarbeit nutzlos. Der normale \ce{O2}-Gehalt der
@@ -421,7 +436,7 @@ Freihalten der Atemwege zusätzlich zum
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Mögliche Fehlerquellen}
+\TextSlide{Mögliche Fehlerquellen}
 {
 Ein \EE{zu hohes Atemzugsvolumen} führt zu einem höheren
 Druck im Nasen-Rachenraum, sobald die Lunge vollständig mit
@@ -467,7 +482,7 @@ vor, so kann man mittels einer \EE{Defibrillation}
 (Elektroschock) versuchen, wieder einen normalen Rhythmus
 wiederherzustellen.
 
-\Layout{0}{Defibrillatoren}{
+\TextSlide{Defibrillatoren}{
 Geräte für die Defibrillation werden \II{Defibrillator}
 genannt. Es gibt folgende Gerätekategorien:
 \begin{itemize}
@@ -525,7 +540,7 @@ angeschlossenen Klebeelektroden für den Einmalgebrauch
 {Hinweisschild \enquote{Defibrillator}}
 \end{PictureSeriesWide}
 
-\Layout{0}{Elektrische Herzrhythmen}{
+\TextSlide{Elektrische Herzrhythmen}{
 Die Defibrillation ist nicht bei jeder Störung des
 Herzrhythmus sinnvoll. Man unterscheidet daher schockbare
 und nicht-schockbare Rhythmen:
@@ -536,7 +551,7 @@ und nicht-schockbare Rhythmen:
     elektrische Aktivität
     \item \II{Pulslose Ventrikuläre Tachykardie} (\I{PVT}):
     Zu schneller Herzrhythmus, das Herz kann sich nicht
-    ausreciehnd füllen, daher fehlt die Pumpleistung
+    ausreichend füllen, daher fehlt die Pumpleistung
   \end{itemize}
   \item \EE{Nicht-schockbare Rhythmen}
   \begin{itemize}
@@ -547,8 +562,8 @@ und nicht-schockbare Rhythmen:
 \end{itemize}
 Beim AED übernimmt das Gerät die Beurteilung ob ein
 elektrischer Herzrhythmus schockbar oder nicht schockbar
-ist. Die Herzrhythmen werden im Kapitel \CO{[MED]}
-(\FullPrettyRef{topic:herzrhythmusstoerungen}) genauer
+ist. Die Herzrhythmen werden im Kapitel
+\FullPrettyRef{topic:herzrhythmusstoerungen}, genauer
 besprochen.
 }{
 \begin{itemize}
@@ -565,7 +580,29 @@ besprochen.
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Verwenden eines AED}{
+
+
+\begin{figure}[h]
+\caption{Sinusrhythmus und reanimationspflichtige Rhythmen}
+
+\subfloat[\Z{(Langsamer) Sinusrhythmus}
+\SourcePicture{WM/PD}] {\includegraphics[width=\linewidth]{./images/wikipedia-pd/Lead_II_rhythm_generated_sinus_bradycardia}}
+
+\subfloat[\Z{Reanimationspflichtig, schockbar: Ventrikuläre Tachykardie} \SourcePicture{WM/PD}]
+{\includegraphics[width=\linewidth]{./images/wikipedia-pd/Lead_II_rhythm_ventricular_tachycardia_Vtach_VT}}
+
+\subfloat[\Z{Reanimationspflichtig, schockbar: Kammerflimmern}
+\SourcePicture{WM/PD}]
+{\includegraphics[width=\linewidth]{./images/wikipedia-pd/Lead_II_rhythm_generated_ventricular_fibrilation_VF}}
+
+\subfloat[\Z{Reanimationspflichtig, nicht schockbar: Asystolie}
+\SourcePicture{WM/PD}]
+{\includegraphics[width=\linewidth]{./images/wikipedia-pd/Lead_II_rhythm_generated_asystole}}
+\end{figure}
+
+
+
+\TextSlide{Verwenden eines AED}{
 Grundsätzlich ist jedes Gerät so zu verwenden wie es der
 Hersteller in der \EE{Bedienungsanleitung} vorschreibt. Bei
 der Verwendung von AEDs kommt es meist zu folgendem
@@ -613,22 +650,23 @@ kontrollieren)!}
 
 \subparagraph{Sicherheits- und weitere Bedienungshinweise}:
 \begin{itemize}
-  \item Während der Schockabgabe sind etwaige
-  \E{Sauerstoffquellen} so weit wie möglich von den
-  Elektroden weg zu halten.
-  \item Der Defibrillator darf nicht in einer \E{nassen
-  Umgebung} oder auf \E{Metallunterlagen} eingesetzt werden,
+  \item Der Defibrillator darf nicht in einer \EE{nassen
+  Umgebung} oder auf \EE{Metallunterlagen} eingesetzt werden,
   da Wasser und die meisten Metalle den elektrischen Strom
   leiten.
-  Dadurch sind Helfer bei der Schockabgabe gefährdet. Patienten die aus dem Wasser gerettet werden
+  Dadurch sind Helfer bei der Schockabgabe gefährdet. 
+  Patienten, die aus dem Wasser gerettet werden,
   müssen daher vor der Schockabgabe abgetrocknet und auf
   trockenen Untergrund gebracht werden.
-  \item Viele Geräte dürfen \E{bei Kindern erst ab einem 
-  bestimmten Körpergewicht oder Alter} (je nach Herstellerangabe)
+  \item Viele Geräte dürfen bei \EE{Kindern} erst ab einem 
+  bestimmten Körpergewicht oder Alter (je nach Herstellerangabe)
   eingesetzt werden.
   \item Defibrillatoren dürfen nicht in Umgebungen
-  eingesetzt werden, in welchen \E{Explosionsgefahr}
+  eingesetzt werden, in welchen \EE{Explosionsgefahr}
   herrscht.
+  \item Während der Schockabgabe sind etwaige
+  \E{Sauerstoffquellen} so weit wie möglich von den
+  Elektroden weg zu halten (Richtwert ca. 1\Meter*).
 %   \item \E{Unterkühlte Patienten} mit einer
 %   Körperkerntemperatur unter 30\DegC{} dürfen ebenfalls
 %   nicht defibrilliert werden. % ex mit ERC 2010
@@ -658,7 +696,7 @@ Bedienungsanleitung des jeweiligen Geräts nachzulesen! }{
 \end{itemize}
 }{}{}{}
 
-\Layout{2}{{\TxQuerverweise}}{%
+\Text{{\TxQuerverweise}}{%
 \begin{itemize}
   \item Herz: \dotfill \FullPrettyRef{topic:herz};
   \item Reizleitungssystem:
@@ -672,7 +710,7 @@ Bedienungsanleitung des jeweiligen Geräts nachzulesen! }{
 \clearpage
 \subsection{Algorithmus Herz-Lungen-Wiederbelebung}
 
-\Layout{0}{Einleitung}{Der Algorithmus der Reanimation
+\TextSlide{Einleitung}{Der Algorithmus der Reanimation
 orientiert sich an den Empfehlungen der neuesten
 ERC-Leitlinien des so genannten \EE{Basic Life Support}
 (\EE{BLS}). Ziel der ERC-Leitlinien ist eine einheitliche,
@@ -713,16 +751,16 @@ anzuwenden.
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Vorgehensweise BLS}{
+\TextSlide{Vorgehensweise BLS}{
 Die ERC betont die Wichtigkeit frühzeitigen Handelns.
 Durch engmaschiges Monitoring von Notfallpatienten soll ein
 drohender Kreislaufstillstand frühzeitig erkannt werden,
 sodass rechtzeitig Reanimationsbereitschaft hergestellt
 wird. Nur so kann im Falle eines tatsächlichen
-Kreislaufstillstand der Algorithmus sofort beginnen und
+Kreislaufstillstandes der Algorithmus sofort beginnen und
 unterbrechungsfrei abgearbeitet werden. Mit jeder Minute
 Verzögerung sinkt die Überlebenswahrscheinlichkeit des
-Patienten.
+Patienten um ca. 10\PC*.
 
 Ist der Patient (bereits beim Antreffen) reglos, so geht man
 wie folgt vor:
@@ -750,12 +788,13 @@ wie folgt vor:
   Aufgabe an einen zusätzlichen Helfer um das weitere
   Vorgehen nicht zu verzögern.
   \item \EE{Kopf überstrecken}: Um die Atemwege zu öffnen
-  und frei zu halten wird der Kopf überstreckt. Dabei legt
-  man eine Hand auf die Stirn und zieht den Kopf leicht 
-  nach hinten. Die
-  Fingerspitzen der anderen Hand heben dabei gleichzeitig
-  das Kinn an. Ggf. muss der Patient vorher auf den Rücken
-  gedreht werden.
+  und frei zu halten wird der Kopf überstreckt. 
+%   Dabei legt
+%   man eine Hand auf die Stirn und zieht den Kopf leicht 
+%   nach hinten. Die
+%   Fingerspitzen der anderen Hand heben dabei gleichzeitig
+%   das Kinn an. Ggf. muss der Patient vorher auf den Rücken
+%   gedreht werden.
   \item \EE{Atmung prüfen}: Das Ohr des Helfers wird
   knapp über den Mund des Patienten gehalten. Die
   Blickrichtung des Helfers fällt auf den Brustkorb des
@@ -778,19 +817,13 @@ wie folgt vor:
   in die stabile Seitenlage gedreht. Danach folgen alle
   weiteren {\TxMassVit}.
   \item Liegt \EE{keine normale Atmung} vor, muss sofort mit
-  der Herz-Lungen-Wiederbe\-lebung begonnen werden. Die
+  der Herz-Lung\-en-Wied\-er\-be\-leb\-ung begonnen werden. Die
   notwendigen Hilfsmittel sollen zu diesem Zeitpunkt bereits
   am Einsatzort sein. Der seitlich am Patient knieende
-  Helfer beginnt die Wiederbelebung mit \E{30
-  Herzdruckmassagen}. Währenddessen macht der am Kopf
+  Helfer beginnt mit der 
+  Herzdruckmassage. Währenddessen macht der am Kopf
   knieende Helfer die Beatmungshilfen und danach den AED
-  einsatzbereit. Auf die 30 HDM folgen \E{zwei Beatmungen},
-  danach wird sofort mit 30 HDM fortgefahren usw. 
-  Erfolglose Beatmungsversuche werden
-  nicht wiederholt um die HDM nicht zu verzögern. Das
-  Wechselspiel aus 30 HDM und zwei Beatmungen wird
-  fortgeführt bis der AED einsatzbereit ist. Dies soll so
-  rasch wie möglich geschehen. Sofern es nicht zu einer
+  einsatzbereit. Sofern es nicht zu einer
   Zeitverzögerung kommt, kann ein zusätzlicher Helfer der 
   Rettungsleitstelle mitteilen, dass der Patient
   reanimiert werden muss.
@@ -805,8 +838,10 @@ wie folgt vor:
   HDM unverzüglich wieder aufzunehmen. Nach zwei Minuten
   (\VonBis{5}{6} HDM-/Beatmungs-Zyklen) wird erneut eine Analyse
   durchgeführt.
-  \item Wird vom AED ein \EE{Schock empfohlen} müssen alle
-  Helfer den Kontakt zum Patienten lösen. Der Helfer am
+  \item Wird vom AED ein \EE{Schock empfohlen}, müssen alle
+  Helfer den Kontakt zum Patienten lösen und Sauerstoffquellen 
+  in einem ausreichenden Sicherheitsabstand (ca. 1\Meter*) positionieren. 
+  Der Helfer am
   Kopfende des Patienten bedient den AED und erinnert die
   Kollegen durch das \EE{\underline{laute}} Kommando
   \Speech{\enquote{Vorsicht! Patient nicht berühren! ---
@@ -826,16 +861,16 @@ wie folgt vor:
   Qualitätsverlust der HDM vorzubeugen, \EE{wird nach jedem
   HDM-/Beat\-mungs-Zyklus die Helferposition gewechselt!}
 \end{itemize}
-Eine grafische Übersicht über dieses Vorgehen ist ein
-\prettyref{tab:algorithmus-bls-aed} dargestellt.
+Eine grafische Übersicht über dieses Vorgehen ist in
+\FullPrettyRef{tab:algorithmus-bls-aed}, dargestellt.
 
 }{%
 siehe \prettyref{tab:algorithmus-bls-aed} \ldots{}
 Algorithmus BLS mit AED}{}{}{}
 
-\Layout{0}{Vorgehensweise ALS}{
+\TextSlide{Vorgehensweise ALS}{
 Der \EE{Advanced Life Support} (ALS) beschreibt das Vorgehen
-für spieziell geschulte Notfallteams, welche aufgrund ihrer
+für speziell geschulte Notfallteams, welche aufgrund ihrer
 Ausbildung und ihrer Ausrüstung erweiterte Maßnahmen
 (venöser Zugang, Applikation von
 Medikamenten, \ldots) durchführen können. Er ist daher
@@ -851,20 +886,19 @@ Medikamenten, \ldots) durchführen können. Er ist daher
 
 
 
-\Layout{0}{Vorgehensweise PLS}{
-Die Reanimation bei Kindern wird mit dem Pediatric Life
-Support (PLS) beschrieben. Die hier vorgestellte Variante
-geht von den Basismaßnahmen (und nicht von den erweiterten
-Maßnahmen) aus und richtet sich -- so wie das BLS -- an
-Laien und Helfer aus \E{nicht} speziell ausgebildeten
-Notfallteams.
-
+\TextSlide{Vorgehensweise PLS}{%
+Die Reanimation bei Kindern wird als \I{Pediatric Life
+Support} (\I{PLS}) bezeichnet. 
+% Die hier vorgestellte Variante
+% geht von den Basismaßnahmen (und nicht von den erweiterten
+% Maßnahmen) aus und richtet sich -- so wie das BLS -- an
+% Laien und Helfer aus \E{nicht} speziell ausgebildeten
+% Notfallteams.
 Während bei Erwachsenen der Großteil der Ursachen für einen
 Herz-Kreislauf-Stillstand vom Herzen aus geht, liegt bei den
-Kindern meist ein Problem der Atmung (z.\,B.
-Atemwegsverlegung) vor. Deshalb wird beim BLS so rasch
-wie möglich eine Defibrillation angestrebt, während beim PLS
-ein Freimachen der Atemwege im Vordergrund steht. Das
+Kindern meist ein Problem des Atemwegs bzw. der Atmung (z.\,B.
+Atemwegsverlegung, Ertrinken) vor. Deshalb steht -- im Gegensatz zum BLS -- beim PLS
+das Freimachen der Atemwege im Vordergrund. Das
 Vorgehen gemäß ERC wird wie folgt beschrieben:
 \begin{itemize}
   \item \EE{Szeneüberblick mit (Selbst-)Schutz}: wie bei BLS
@@ -877,6 +911,9 @@ Vorgehen gemäß ERC wird wie folgt beschrieben:
   \item Ist der \EE{Patient nicht ansprechbar} wird ein
   Notarzt angefordert. Idealerweise deligiert man diese
   Aufgabe an einen zusätzlichen Helfer.
+  \item \EE{Atemweg kontrollieren}: Es wird die
+  Mundhöhle inspiziert und etwaige Fremdkörper
+  entfernt.
   \item Beim Säugling (1.
   Lebensjahr) wird der Kopf in Neutralposition\footnote{Beim
   auf dem Rücken liegenden Säugling ist der Kopf i.\,d.\,R.
@@ -894,10 +931,6 @@ Vorgehen gemäß ERC wird wie folgt beschrieben:
   \item Liegt \EE{normale Atmung} vor, wird der Patient in
   die stabile Seitenlage gedreht. Danach folgen alle
   weiteren {\TxMassVit}.
-  \item Liegt \EE{keine normale Atmung} vor, werden \E{bei
-  begründetem Verdacht auf Atemwegsverlegung} die
-  Mundhöhle inspiziert und etwaige Fremdkörper
-  entfernt.
   \item Danach werden \E{5 Initialbeatmungen} verabreicht.
   \item Es wird erneut nach \EE{Lebenszeichen} gesucht. Wenn
   das Kind in irgend einer Form (z.\,B.
@@ -910,13 +943,13 @@ Vorgehen gemäß ERC wird wie folgt beschrieben:
   10\Sec* parallel versuchen den Puls zu tasten. Beim
   Säugling muss der Puls mehr als 60 Schläge pro Minute
   betragen.
-  \item Bei \EE{Lebenszeichen} aber
-  insuffizienter Atmung muss das Kind beatmet werden. Ist
+  \item Bei \EE{Lebenszeichen}, aber
+  insuffizienter Atmung, muss das Kind beatmet werden. Ist
   die Atmung suffizient wird das Kind gemäß den {\TxMassVit}
   weiter behandelt.
   \item
   Sind \EE{keine Lebenszeichen} feststellbar muss mit der
-  \EE{Herz-Lungen-Wiederbe\-lebung} begonnen werden.
+  \EE{Herz-Lung\-en-Wied\-er\-be\-leb\-ung} begonnen werden.
   \begin{itemize}
     \item Es
     wechseln \E{15 HDM} mit \E{zwei Beatmungen} ab.
@@ -939,7 +972,7 @@ Vorgehen gemäß ERC wird wie folgt beschrieben:
     Die
     \E{Eindrücktiefe} soll ungefähr \nicefrac{1}{3} des
     Brustkorbs betragen. Das sind beim Säugling ca. 4\CM* und
-    bei Kindern ca. 5\CM*.
+    bei Kindern ca. 5\CM* \cite{Erc2010Sek06De}.
     \item
     Die \E{Druckfrequenz}
     (\enquote{Arbeitsgeschwindigkeit}) soll
@@ -960,9 +993,18 @@ Eine grafische Übersicht über dieses Vorgehen ist ein
 \prettyref{tab:algorithmus-pls} dargestellt. \cite{Erc2010Sec6}
 
 }{ 
-siehe \prettyref{tab:algorithmus-pls} \ldots{}
+Siehe \prettyref{tab:algorithmus-pls} \ldots{}
 Algorithmus PLS 
 }{}{}{}
+
+\TextSlide{Reanimation des Neugeborenen}
+{%
+Die Reanitmation des Neugeborenen wird unter \FullPrettyRef{topic:reanimation-neugeborenes} ausgeführt.}
+{%
+\begin{itemize}
+  \item \FullPrettyRef{topic:reanimation-neugerborenes}
+\end{itemize}
+}
 
 \clearpage
 \begin{figure}[H]
@@ -990,36 +1032,36 @@ Support}\index{BLS|see{Pediatric Life Support}}
 
 \section{Ende der Reanimation und Weiterbehandlung}
 
-\Layout{0}{Ende der Reanimation und Weiterbehandlung}
+\TextSlide{Ende der Reanimation und Weiterbehandlung}
 {\index{Reanimation!Beendigung}
 Der Helfer darf die Wiederbelebung beenden, wenn einer der
 drei angeführten Umstände (Abbruchkriterien) eintritt:
 
-\begin{description}
-  \item[Eintreffen von \EE{weiterer Hilfe.}] Der Helfer
+\begin{itemize}
+  \item Eintreffen von \EE{weiterer Hilfe}: Der Helfer
   kann bei Eintreffen weiterer Hilfe durch diese abgelöst
   werden. I.\,d.\,R. trifft jedoch ein Notarztteam ein, mit
   welchem die Reanimation zunächst gemeinsam weitergeführt
   wird. Ein etwaiger Abbruch kann nur auf Anweisung des Notarztes
   erfolgen.
-  \item[Der Patient zeigt \EE{Lebenszeichen}.] 
-  Zeigt der Patient eindeutige Lebenszeichen (Erwachen,
-  Husten, Atmen) so darf die Reanimation vorläufig beendet
-  werden. Es ist sofort eine Atemkontrolle
+  \item \EE{Wiedererlangung des Kreislaufes} 
+  (\T{ROSC}\footnote{\I{ROSC}: Return Of Spontaneous Circulation}):  
+  Zeigt der Patient \EE{eindeutige Lebenszeichen} (Erwachen,
+  Husten, Atmen) so wird die Reanimation vorläufig beendet. 
+  Es ist sofort eine \EE{Atemkontrolle}
   durchzuführen um sicherzustellen, dass die
-  Lebenszeichen richtig erkannt wurden. Nur
-  wenn eine normale Atmung vorhanden ist,
-  darf die Reanimation endgültig beendet
-  werden.\footnote{Diese Form der Beendigung der Reanimation
-  ist leider äußerst selten.} Es sind eine ausführliche
-  Patientenuntersuchung, eine (Fremd-)anamnese sowie die
+  Lebenszeichen richtig erkannt wurden. 
+  Ist eine normale Atmung vorhanden,
+  wird die Reanimation endgültig beendet.\footnote{Diese Form der Beendigung der Reanimation
+  ist leider äußerst selten.} Es ist der Einschätzungsblock 
+  (\FullPrettyRef{topic:einschaetzungsblock}) sowie die
   {\TxMassVit} durchzuführen. Die Sauerstoffgabe hat dabei
   einen Sp\ce{O2}-Zielwert von \VonBis{94}{98}\PC*.
   \EE{Erbrechen zählt \E{nicht} als Lebenszeichen} da dies
   durch fehlerhafte Beatmung (zu hohes Atemzugsvolumen)
   ausgelöst werden könnte. In diesem Fall wird die
   Reanimation umgehend fortgesetzt.
-  \item[Erschöpfung.] Sollte ein Ersthelfer all seine Kräfte
+  \item \EE{Erschöpfung}: Sollte ein Ersthelfer all seine Kräfte
   aufgebraucht haben, wird gezwungener Maßen die
   Wiederbelebung ab- bzw.
   unterbrochen. Medizinisches Fachpersonal wird nicht in
@@ -1031,7 +1073,7 @@ drei angeführten Umstände (Abbruchkriterien) eintritt:
   HDM-/Beatmungszyklus, d.\,h. ca.
   alle 2\Min*, statt und darf zu keiner Verzögerung der HDM
   führen.
-\end{description}
+\end{itemize}
 
 }{
 \begin{itemize}
@@ -1044,21 +1086,21 @@ drei angeführten Umstände (Abbruchkriterien) eintritt:
     \end{itemize}
   \item (Erschöpfung)
 \end{itemize}
-}{}{}{}
+}
 
 
 
 \section{Anmerkungen}
 \label{topic:anmerkungen-bls}
 
-\Layout{2}{Infektionen}{% 
+\Text{Infektionen}{% 
 Die Ansteckungsgefahr mit Krankheiten im Rahmen einer
 Reanimation ist sehr gering. Es wurden noch keine
 Infektionen mit schwerwiegenden Erkrankungen wie HIV oder
 Hepatitis C während einer Basisreanimation beschrieben.
 \cite[p.1284]{Erc2010Sec2} }{}{}{}{}
 
-\Layout{2}{Probleme bei der HDM während des Defi-Ladevorganges}{% 
+\Text{Probleme bei der HDM während des Defi-Ladevorganges}{% 
 In den ERC-Leitlinien von
 2010 wird erstmals empfohlen, die Herzdruckmassage fortzusetzen,
 \E{während der Defibrillator sich auflädt}, d.\,h. nach der

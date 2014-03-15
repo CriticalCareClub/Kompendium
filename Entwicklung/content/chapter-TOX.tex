@@ -25,7 +25,7 @@
   \item[Maintainer:] Sebastian Gabriel
   \item[Autoren:] Diverse
   \item[Reviewer:] Standard-Reviewprozess
-  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[Version:] {\VarDocVersionTypeName} ({\VarDocVersionTypeDescription})
   \item[SHA1:] {\DocGitCommit}
 \end{description}
 
@@ -41,7 +41,7 @@
 
 \Dictum[Hohenheim von Theoprast]{Die Dosis macht das Gift.}
 
-\DefinitionINPara{Eine \T{Vergiftung} ist eine (meist  dosisabhängige)
+\DefinitionInPara{Eine \T{Vergiftung} ist eine (meist  dosisabhängige)
 organische  Funktionsbeeinträchtigung bzw. Schädigung des
 Organismus durch eine aufgenommene Substanz.}
 Vergiftungen sind eine interessante Sache: Ein an sich
@@ -68,7 +68,7 @@ und besprochen.
 
 
 
-\Layout{2}{Der Weg in den Körper -- Aufnahme des Giftes}{%
+\Text{Der Weg in den Körper -- Aufnahme des Giftes}{%
 Die Aufnahme der Substanz kann über verschiedene Wege
 erfolgen:
 \begin{itemize}
@@ -100,19 +100,20 @@ erfolgen:
 %   \item Transport
 % \end{enumerate}
 
-\Layout{0}{Vergiftungsinformationszentrale}{%
+\TextSlide{Vergiftungsinformationszentrale}{%
 Bei der Vergiftungsinformationszentrale kann Expertenrat
 eingeholt werden, sofern der verantwortliche Stoff bekannt
 ist. Unter Umständen kann wird hier auch bei der
 Identifizierung des Stoffes geholfen.
-\Fazit{\EE{Vergiftungsinformationszentrale: {\ttfamily ~01 /
-406 43 43}}} }{
-Expertenrat
+ }{
+\begin{itemize}
+  \item Expertenrat
+\end{itemize}
 
-01 / 406 43 43
 }{}{}{}
 
-
+\opt{REG-AUT}{\Fazit{Vergiftungsinformationszentrale: 01 /
+406 43 43}}
 
 
 
@@ -122,9 +123,9 @@ ursächlich wenig unternehmen. Das Hauptaugenmerk liegt
 daher auf: 
 
 
-\MassnahmenMK{Allgemeine Maßnahmen und
-Herangehensweise}{Vergiftungen}{m:am-vergiftung}{
-}{}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Vergiftungen, allgemein
+\ProcedurePrintDefault{MT65091C}
 
 
 \clearpage % TEMP temp clearpage
@@ -145,7 +146,7 @@ kann es schnell zu lebensbedrohlichen Zuständen kommen.
 \Z{Die akute Alkoholvergiftung ist von der chronischen
 Alkoholabhängigkeit (Alkoholkrankheit) zu unterscheiden.}
 
-\Layout{0}{Wirkung}
+\TextSlide{Wirkung}
 {%
 Alkohol  wirkt enthemmend, z.\,T. stimulierend und
 stimmungsmodulatorisch. Weiters kommt es zu einer Sprach- 
@@ -163,7 +164,7 @@ und Gangunsicherheit.
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{\TxGefahren}
+\TextSlide{\TxGefahren}
 {%
 Mit zunehmender Menge kommt es zu einem totalen
 Kontrollverlust, Bewusstseinstrübung,
@@ -200,11 +201,12 @@ Der Alkoholentzug und das Entzugsdelir wird unter
 \FullPrettyRef{topic:alkohol-entzug}, abgehandelt.
 
 
-\MassnahmenMK{Spezielle Maßnahmen}{Vergiftungen mit
-Alkohol}{m:intoxikation-alkohol}{
-}{}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Vergiftungen mit Alkohol
+\ProcedurePrintDefault{MT51001C}
 
-\Layout{2}{Chronische Schäden}
+
+\Text{Chronische Schäden}
 {
 \begin{itemize}
     \item Leberschäden, Zirrhose
@@ -281,7 +283,7 @@ Heroin und Morphium gehören zu der Gruppe der Opiate und
 sind im Drogenmilieu weit verbreitet, die Anwendung erfolgt
 i.\,d.\,R. intravenös. 
 
-\Layout{0}{\TxSymptome{} der Opiatvergiftung}
+\TextSlide{\TxSymptome{} der Opiatvergiftung}
 {%
 Die gefährlichste Wirkung der Opiate ist die
 Atemdepressionen, d.\,h. die Atemfrequenz wird dosisabhängig
@@ -308,7 +310,7 @@ der Nadel!})
 \end{itemize}
 }{}{}{}
 
-\Layout{2}{Gegenmittel}
+\Text{Gegenmittel}
 {%
 Jedes Notarztmittel führt ein Opiat-Gegenmittel mit sich,
 dieses ist sehr effektiv.\footnote{\Z{Naloxon. Im Handel
@@ -325,28 +327,15 @@ Arztbegleitung erfolgen.
 }{}{}{}
 
 
-\MassnahmenMK{Spezielle
-Maßnahmen}{Opiatvergiftung}{m:intoxikation-opiate}{
-}{}
-% \MassnahmenNG{Spezielle
-% Maßnahmen}{Opiatvergiftung}{\label{m:intoxikation-opiate}}{
-% \begin{itemize}
-%     \item Allgemeine Maßnahmen bei Vergiftungen
-%     (\prettyref{m:am-vergiftung})und
-%     symptomatische Therapie
-%     \item \TxBeiVit \TxMassVit
-% \end{itemize}
-% 
-% %Allgemeine Maßnahmen bei Vergiftungen
-% %(\ref{vergiftung-allgemein-massnahmen})und symptomatische
-% %Therapie. 
-% % Gegenmittel verfügbar.
-% }
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Vergiftung mit Opiaten
+\ProcedurePrintDefault{MT40021C}
+
 
 \subsection{\enquote{Partydrogen}: Ecstacy, Schwammerl,
 Special K \ldots}
 
-\Layout{0}{\TxBeschreibung}
+\TextSlide{\TxBeschreibung}
 {Als \T{Partydrogen} bezeichnet man Amphetaminpräparate oder
 ähnliche Stimulantien. Zu den bekanntesten Drogen dieser Art
 gehören  \I{Ecstasy} (\I{XTC}, \I{E}, \I{X}\Z{; MDMA
@@ -365,7 +354,7 @@ Umwelt.
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{\TxSymptome}
+\TextSlide{\TxSymptome}
 {% Die Nebenwirkungen sind jedoch gravierend und können
 lebensgefährlich sein. Man kann sie unterteilen in
 körperliche und psychische Nebenwirkungen.
@@ -406,18 +395,9 @@ Schwitzen viel Flüssigkeit verliert.
 }{}{}{}
 
 
-\MassnahmenMK{Spezielle Maßnahmen}{Vergiftung mit
-Uppers}{m:intoxikation-uppers}{
-}{}
-% \MassnahmenNG{Spezielle Maßnahmen}{Vergiftung mit
-% Uppers}{\label{m:intoxikation-uppers}}{
-% \begin{itemize}
-%     \item Allgemeine Maßnahmen bei Vergiftungen
-%     (\prettyref{m:am-vergiftung}) und
-%     symptomatische Therapie
-%     \item \TxBeiVit \TxMassVit
-% \end{itemize}
-% }
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Vergiftung mit Uppers
+\ProcedurePrintDefault{MT43091C}
 
 
 %„Liquid Ecstasy”: Gamma-Butyrolacton-Entzugsdelir mit
@@ -436,35 +416,9 @@ Uppers}{m:intoxikation-uppers}{
 
 \subsection{Vergiftungen mit Stickgasen}
 
-\MassnahmenMK{Allgemeine
-Maßnahmen}{Stickgasvergiftungen}{m:am-stickgase}{
-}{}
-% \MassnahmenNG{Allgemeine Maßnahmen}{Stickgasvergiftungen}{\label{m:am-stickgase}}{
-% 
-% 
-% \begin{enumerate}
-%   \item Auf Selbstschutz achten!
-%   \item Patienten retten, aber nur wenn es der
-%   Eigenschutz zulässt.
-%   \item \ce{O2}-Berieselung mit Maske ist in keinem Fall
-%   ein ausreichender Atemschutz!
-%   
-%   \item Spezialkräfte anfordern (Schwerer Atemschutz).
-%   I.\,d.\,R. Feuerwehr
-%   \item Weitere Opfer ausschließen (lassen):
-%   Nachbarwohnungen, etc.
-%   \item Sicherung der Vitalfunktionen, Beurteilung ob der
-%   Patient vital bedroht ist.
-%   \item \TxBeiVit \TxMassVitBes
-%   \begin{itemize}
-%     \item \ce{O2} hochdosiert, 15\LPerMin*
-%     \item Lagerung: situationsgerecht.
-%   \end{itemize}
-%   \item Traumacheck (Folgeverletzungen)
-%   \item Neurocheck inkl. Blutzuckerbestimmung
-%   (Differentialdiagnosen, Beurteilung der Beeinträchtigung im Verlauf)
-% \end{enumerate}
-% }
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Vergiftung mit Stickgasen
+\ProcedurePrintDefault{MT59XX1C}
 
 
 \subsubsection{Kohlenmonoxid (\texorpdfstring{\ce{CO}}{CO}) -- oder: Von defekten
@@ -488,7 +442,7 @@ Unterversorgung mit Sauerstoff.
 
 
 
-\Layout{0}{Anamnese und Szene}
+\TextSlide{Anamnese und Szene}
 {
 \begin{itemize}
     \item Mehrere, unerklärliche Opfer, leblose Haustiere
@@ -503,7 +457,7 @@ Unterversorgung mit Sauerstoff.
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{\TxSymptome}
+\TextSlide{\TxSymptome}
 {% 
 Kohlenmonoxid-beladenes Blut ist -- wie
 Sauerstoff-beladenes -- hellrot. Der Patient ist daher eher
@@ -531,19 +485,9 @@ Bewusstlosigkeit entwickeln, auch Krämpfe sind gut möglich.
 }{}{}{}
 
 
-\MassnahmenMK{Spezielle
-Maßnahmen}{Kohlenmonoxid-Vergiftung}{m:intoxikation-kohlenmonoxid}{
-}{}
-% \MassnahmenNG{Spezielle
-% Maßnahmen}{Kohlenmonoxid-Vergiftung}{\label{m:intoxikation-kohlenmonoxid}}{
-% 
-% \begin{itemize}
-%     \item Allgemeine Maßnahmen bei
-% Stickgas-Vergiftungen
-% (\prettyref{m:am-stickgase})
-% \item \Z{Hyperbare \ce{O2}-Therapie in der Druckkammer erwägen}
-% \end{itemize}
-% }
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Vergiftung mit Kohlenmonoxid
+\ProcedurePrintDefault{MT58001C}
 
 
 % \begin{figure}[H]
@@ -589,7 +533,7 @@ Verbrennungsgas gehäuft in der Landwirtschaft und der
 Industrie an.
 
 
-\Layout{0}{\TxSymptome}
+\TextSlide{\TxSymptome}
 {%
 \begin{itemize}
   \item Kopfschmerz, Schwindel, Übelkeit
@@ -628,7 +572,7 @@ Atemschutz} möglich ${\rightarrow}$ FEUERWEHR!}
 
 \subsection{Reizgase}
 
-\Layout{2}{Typen}
+\Text{Typen}
 {%
 \begin{description}
   \item[Soforttyp] (z.\,B. Tränengas,...) Augenrötung, starker Hustenreiz
@@ -668,42 +612,9 @@ Essig), Lacke,  Imprägniersprays, ...
 
 
 
-
-
-\MassnahmenMK{Allgemeine
-Maßnahmen}{Reizgasvergiftungen}{m:am-reizgase}{
-}{}
-% \MassnahmenNG{Allgemeine
-% Maßnahmen}{Reizgasvergiftungen}{\label{m:am-reizgase}}{
-% 
-% 
-% \begin{enumerate}
-%   \item Auf Selbstschutz achten!
-%   \begin{itemize}
-%     \item Patienten retten, aber nur wenn es der
-%     Eigenschutz zulässt.
-%     \item \ce{O2}-Berieselung mit Maske ist in keinem Fall
-%     ein ausreichender Atemschutz!
-%   \end{itemize}
-%   \item Gefahr erkennen: Welcher Stoff? Expertenrat einholen!
-%   \item Wenn erforderlich: Absperrmaßnahmen durchführen
-%   \item Wenn erforderlich:  Spezialkräfte anfordern
-%   \item Vorgehen analog zu Abschnitt \enquote{Gefahrengutunfall}
-%   (\prettyref{topic:gefahrengutunfall})
-%   \item Weitere Opfer ausschließen (lassen):
-%   Nachbarwohnungen, etc
-%   \item Sicherung der Vitalfunktionen, Beurteilung ob der
-%   Patient vital bedroht ist.
-%   \item \TxBeiVit \TxMassVitBes
-%   \begin{itemize}
-%     \item \ce{O2} hochdosiert, 15\LPerMin*
-%     \item Lagerung: situationsgerecht
-%   \end{itemize}
-%   \item Traumacheck (Folgeverletzungen)
-%   \item Neurocheck inkl. Blutzuckerbestimmung
-%   (Differentialdiagnosen, Beurteilung der Beeinträchtigung im Verlauf)
-% \end{enumerate}
-% }
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Vergiftung mit Reizgasen
+\ProcedurePrintDefault{MT59XX2C}
 
 
 
@@ -740,7 +651,7 @@ Verletzungen der Haut und Augen durch Säuren und
 Laugen werden unter \FullPrettyRef{topic:veraetzung-trauma}
 besprochen.
 
-\Layout{2}
+\Text
 {\TxBeschreibung}
 {%
 \DefinitionInPara{Eine \T{Verätzung} ist eine lokale Schädigung der
@@ -759,7 +670,7 @@ Eiweißstoffen. \Z{\Lang{Lat.} \I{Cauterisatio} (\I{Cauteris.})}}}
 %     \item Augen
 % \end{itemize}
 
-\Layout{0}{\TxSymptome}
+\TextSlide{\TxSymptome}
 {
 \begin{itemize}
     \item Ätzspuren (Mund/Rachen), Abrinnspuren
@@ -776,7 +687,7 @@ Eiweißstoffen. \Z{\Lang{Lat.} \I{Cauterisatio} (\I{Cauteris.})}}}
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{\TxGefahren}
+\TextSlide{\TxGefahren}
 {%
 \begin{itemize}
   \item Ruptur/Perforation von Speiseröhre oder Magen
@@ -791,20 +702,9 @@ Eiweißstoffen. \Z{\Lang{Lat.} \I{Cauterisatio} (\I{Cauteris.})}}}
 
 
 
-\MassnahmenMK{Spezielle Maßnahmen}{Einnahme von Säuren oder
-Laugen}{m:saeuren-laugen}{
-}{}
-% \MassnahmenNG{Spezielle Maßnahmen}{Einnahme von Säuren oder
-% Laugen}{\label{m:saeuren-laugen}}{
-% \begin{itemize}
-%   \item Allgemeine Maßnahmen bei Vergiftungen
-%   (\prettyref{m:am-vergiftung})
-%   \item Schluckweise Wasser zur Verdünnung trinken lassen
-%   \item \EE{Niemals absichtlich Erbrechen  herbeiführen!}
-%   \item \Z{Keine Neutralisationsversuche! (Milch
-%   obsolet!)}
-% \end{itemize}
-% }
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Einnahme von Säuren oder Laugen
+\ProcedurePrintDefault{MT54091C}
 
 
 % Verätzung der Haut \prettyref{topic:veraetzung}
@@ -814,7 +714,7 @@ Laugen}{m:saeuren-laugen}{
 \subsection{Schaumbildner (Wasch-/Putzmittel)}
 
 
-\Layout{0}{{\TxBeschreibung}, {\TxSymptome} und {\TxGefahren}}{%
+\TextSlide{{\TxBeschreibung}, {\TxSymptome} und {\TxGefahren}}{%
 Schaumbildner vermindern die Oberflächenspannung, dadurch kommt es
 zur Bildung von Schaum. Werden Schaumbildner
 eingenommen, besteht durch die Schaumbildung eine \EE{hohe
@@ -839,21 +739,9 @@ Zusätzlich kann der Patient über Übelkeit klagen bzw. erbrechen.
 }{}{}{}
 
 
-\MassnahmenMK{Spezielle Maßnahmen}{Einnahme von
-schaumbildenden Substanzen}{m:schaumbildner}{
-}
-% \MassnahmenNG{Spezielle Maßnahmen}{Einnahme von
-% schaumbildenden Substanzen}{\label{m:schaumbildner}}{
-% \begin{itemize}
-%     \item Allgemeine Maßnahmen bei Vergiftungen
-%     (\prettyref{m:am-vergiftung})
-%     \item Patienten nüchtern lassen
-%     \item \EE{Niemals absichtlich Erbrechen 
-%     herbeiführen!}
-% \end{itemize}
-% }
-
-
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Einnahme von schaumbildenden Substanzen
+\ProcedurePrintDefault{MT17023C}
 
 
 

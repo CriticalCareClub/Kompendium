@@ -2,7 +2,7 @@
 
 \section{Benutzungshinweise, Abkürzungsverzeichnis und Nomenklatur}
 
-% \Layout{2}
+% \Text
 \paragraph{Maßnahmenkatalog}
 {Ergänzend zu diesem Lehrbuch existiert ein eigener
 Maßnahmenkatalog, in welchem die jeweiligen konkreten
@@ -17,8 +17,7 @@ Maßnahmenkatalog in der \EE{Version \VarMkatalogVersion}.
 {}
 {}
 
-% \Layout{2}
-\paragraph{Externe Teile}
+\Text{Externe Teile}
 {Aus Kostengründen sind manchmal nicht
 alle Teile Bestandteil eines Drucks. Dies betrifft
 insbesonders Teile des Appendix wie z.\,B. das
@@ -28,13 +27,8 @@ Download-Bereich verfügbar
 (\url{http://www.aass.at/cms/download/aass/}).
 
 }
-{}
-{}
-{}
-{}
 
-% \Layout{2}
-\paragraph{Im Text}{%
+\Text{Im Text}{%
 \E{Betonte} Textteile sind kursiv, \EE{Besonders stark
 betonte} sind fett gedruckt. \T[noindex]{Fachbegriffe}, welche an
 dieser Stelle erklärt werden, sind ebenso fett gedruckt.
@@ -57,10 +51,10 @@ Kennzeichenungen wie z.\,B.
 Beispielkommentar aus dem Einleitungsteil.}. Dies ist ein
 Hinweis auf ein Kommentar im Anhang (Appendix).
 
-}{}{}{}{}
+}
 
 % 
-% \Layout{2}{Index}{%
+% \Text{Index}{%
 % \begin{description}
 %   \item[Zusammengesetzte Begriffe] Eigenschaftswort
 %   Hauptwort \Sign{→} Hauptwort, Eigenschaftswort; \enquote{Begriffe,
@@ -70,7 +64,83 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 % \end{description}
 % }{}{}{}{}
 
+\Text{Kompetenzlevel}
+{}
 
+% \TableWide
+% 	{Titel}%1
+% 	{Beschreibung}%2
+% 	{Label}%3
+% 	{Quelle}%4
+% 	{Lizenz}%5
+% 	{Tabelle}%6
+% 	{Float}%8
+\TableWide
+{Kompetenzlevel}%1
+{}%2
+{}%3
+{}%4
+{}%5
+{%
+\begin{tabularx}{\linewidth}{cclcX}
+\addlinespace\toprule\addlinespace
+\noindent\TabHeading{Level}
+	& \noindent\TabHeading{Level (Text)}
+					& \noindent\TabHeading{Titel}
+													& \noindent\TabHeading{ALS-Äquivalent}
+															& \noindent\TabHeading{Beschreibung}
+\\\addlinespace\midrule\addlinespace
+0 	& \TabSub{A}	& Laien, Ersthelfer				& 		& Laienhelfer
+\\\addlinespace
+1	& \TabSub{B} 	& First Responder				& AED	& First Responder (ohne Ausbildung nach SanG)
+\\\addlinespace
+2	& \TabSub{C} 	& Basic							& BLS	& \Lang{.at} Rettungssanitäter
+\\\addlinespace
+3	& \TabSub{D} 	& Intermediate					& ILS	& \Lang{.at} Notfallsanitäter mit oder ohne Notfallkompetenz NKA; \newline
+															  \Lang{.de} Rettungssanitäter
+\\\addlinespace
+4	& \TabSub{E} 	& Advanced						& ALS   & Ärzte, diplomiertes Pflegepersonal; \newline
+															  \Lang{.at} Notfallsanitäter mit Notfallkompetenz NKV oder NKI; \newline
+															  \Lang{.de} Notfallsanitäter, Rettungsassistenten \newline
+\\\addlinespace
+5	& \TabSub{F} 	& Expert						&		& Experten, Ärzte, Fachärzte, diplomiertes Pflegepersonal mit Zusatzausbildung
+\\\addlinespace\bottomrule\addlinespace
+\end{tabularx}
+
+}%6
+{H}%8
+
+% \TableWide
+% 	{Titel}%1
+% 	{Beschreibung}%2
+% 	{Label}%3
+% 	{Quelle}%4
+% 	{Lizenz}%5
+% 	{Tabelle}%6
+% 	{Float}%8
+\Table
+{Maßnahmentypen}%1
+{}%2
+{}%3
+{}%4
+{}%5
+{%
+\begin{tabularx}{\linewidth}{clX}
+\addlinespace\toprule\addlinespace
+\noindent\TabHeading{ID}
+	& \noindent\TabHeading{Art}
+										& \noindent\TabHeading{Beschreibung}
+\\\addlinespace\midrule\addlinespace
+ALL & \TabSub{Allgemeine Maßnahmen}		& Allgemeine Maßnahmen beziehen sich auf eine Gruppe von Patienten mit einer Übergruppe bestimmter, verwandter Erkrankungen, wobei eine weiterführende Unterteilung mittels spezieller Maßnahmen existiert.			
+\\\addlinespace
+STD	& \TabSub{Standardmaßnahmen} 		& Standardmaßnahmen treffen unter bestimmten Bedingungen auf eine große Gruppe unterschiedlicher Patienten mit unterschiedlichen Diagnosen zu.
+\\\addlinespace
+SPZ	& \TabSub{Spezielle Maßnahmen}	 	& Spezielle Maßnahmen treffen auf bestimmte Patienten mit einer bestimmten Diagnose oder einem bestimmten Zustand zu.						
+\\\addlinespace\bottomrule\addlinespace
+\end{tabularx}
+
+}%6
+{H}%8
 
 \begin{WidePar}
 \begin{multicols}{3}
@@ -101,7 +171,7 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
 % \setlength{\leftmargin}{0pt}
 % \setlength{\labelwidth}{0pt}
 \setlength{\parskip}{0pt}%
-  \item[A.] Arteria, \Lang{lat.}
+  \item[A.] \Lang{lat.} Arteria, 
   Arterie\index{A.|see{Arteria}}
   \item[AASS]  Arbeits- und Ausbildungsstandards für den
   Sanitätdienst.
@@ -142,7 +212,7 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
   \item[franz.] französisch
   \item[FW]     Feuerwehr
   \item[griech.] griechisch.
-  \item[gt.]    \Lang{lat., Abkz.}: gutta: der Tropfen; \Lang{Pl.} gtt.
+  \item[gt.]    \Lang{lat., Abkz.} gutta: der Tropfen; \Lang{Pl.} gtt.
   (guttae): die Tropfen. (Nicht genormte) Maßeinheit.
   \item[Gz]     Geschäftszahl
   \item[HB]     Heilbehandlung
@@ -174,8 +244,8 @@ Hinweis auf ein Kommentar im Anhang (Appendix).
   \item[MPG]    Medizinproduktegesetz
   \item[N.]
   \begin{inparaenum}
-    \item Nervus, \Lang{lat.} Nerv\index{N.|see{Nervus}}
-    \item Neoplasma, \Lang{lat.} Neubildung\index{N.|see{Neoplasma}}
+    \item \Lang{lat.} Nervus: Nerv\index{N.|see{Nervus}}
+    \item \Lang{lat.} Neoplasma: Neubildung\index{N.|see{Neoplasma}}
   \end{inparaenum}
   \item[NA]     Notarzt
   \item[\ce{NaCl}] Natrium-Chlorid

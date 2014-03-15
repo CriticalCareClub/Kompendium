@@ -1,0 +1,182 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Kopf- und Fußzeilen
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\newcommand{\Fancyheadreset}{
+  \fancyheadoffset[RE,RO]{\marginparsep+\marginparwidth}
+  \fancyfootoffset[RE,RO]{\marginparsep+\marginparwidth}
+  }
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyheadoffset[RE,RO]{\marginparsep+\marginparwidth}
+\fancyfootoffset[RE,RO]{\marginparsep+\marginparwidth}
+
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
+\renewcommand{\headrule}{{\color{Grey}%
+\hrule width\headwidth height\headrulewidth \vskip-\headrulewidth}}
+
+
+
+
+
+
+
+
+
+
+
+
+% \usepackage[scaled]{helvet}
+
+% % TikZ-Pakete
+% \usepackage{tikz}
+% \usetikzlibrary{positioning,backgrounds,shapes}
+% 
+% % Kopf- und Fußzeile
+% \usepackage[automark]{scrpage2}
+% \clearscrheadings
+% \clearscrplain
+% 
+% \tikzset{pagenumber/.style={rectangle,rounded corners=5pt,inner sep=6pt, fill=gray!20,draw=gray!30,line width=0.1em}}
+% 
+% \lehead{\begin{tikzpicture}[remember picture,overlay]
+% \begin{pgfonlayer}{background}
+% \draw[fill=gray!10, fill opacity=1.0, draw=none] (-.65\paperwidth,0cm) rectangle (\paperwidth+2cm,2cm);
+% \end{pgfonlayer}
+% \path (current page.north west) node[anchor=west,xshift=1.58cm, yshift=-0.9cm,pagenumber] {\parbox{\widthof{\Large 11111}}{\centering \color{black} \bfseries\Large \thepage}};
+% \end{tikzpicture}}
+% 
+% \rehead{\begin{tikzpicture}[remember picture,overlay]
+% \path (current page.north east) node[anchor=east,xshift=-3.4cm, yshift=-0.9cm] {\color{black}\upshape \leftmark};
+% \end{tikzpicture}}
+% 
+% \lohead{\begin{tikzpicture}[remember picture,overlay]
+% \begin{pgfonlayer}{background}
+% \draw[fill=gray!10, fill opacity=1.0, draw=none] (-.65\paperwidth,0cm) rectangle (\paperwidth+2cm,2cm);
+% \end{pgfonlayer}
+% \path (current page.north west) node[anchor=west,xshift=3.4cm, yshift=-1.0cm] {\color{black}\upshape \headmark};
+% \end{tikzpicture}}
+% 
+% \rohead{\begin{tikzpicture}[remember picture,overlay]
+% \path (current page.north east) node[anchor=east,xshift=-1.58cm, yshift=-0.9cm,pagenumber] {\parbox{\widthof{\Large 11111}}{\centering \color{black}\bfseries\Large \thepage}};
+% \end{tikzpicture}}
+% \setlength{\headsep}{1.1cm}
+% 
+% \lefoot{{\noindent\AASS{}~ \sffamily\tiny v.\,\DocVersion~~|~~\url{http://www.aass.at}}}
+% \refoot{{\noindent\DocGitCommitTiny}}
+% 
+% \lofoot{{\noindent\DocGitCommitTiny}}
+% \rofoot{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~v.\,\DocVersion}~ \AASS{}}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%%% HEADER %%%
+% right
+\fancyhead[RO]{{\sffamily{\color{BaseLightVery}\CC{[\ChapterCode]}~\rightmark~|~}{\color{Base}\thepage}}}
+\fancyhead[RO]{\begin{tikzpicture}[overlay,remember picture]
+      \fill [color=AltBlueLightSuper]
+        ($(current page.north east) - (0pt,0pt)$)
+        rectangle
+        ($ (current page.south east) - (138.5pt,0cm) $);
+  \end{tikzpicture}{\sffamily{\color{BaseLightVery}\CC{[\ChapterCode]}~\rightmark~|~}{\color{Base}\thepage}}
+}
+% \fancyhead[RE]{\EE{\protect\AuthNotes{ | {\protect\today} | ENTWURF |}}}
+% left
+% \fancyhead[LO]{\EE{\protect\AuthNotes{ | ENTWURF | {\protect\today} |}}}
+\fancyhead[LE]{\begin{tikzpicture}[overlay,remember picture]
+      \fill [color=AltBlueLightSuper]
+        ($(current page.north east) - (0pt,0pt)$)
+        rectangle
+        ($ (current page.south east) - (161.60144pt,0cm) $);
+  \end{tikzpicture}{\sffamily{\color{Base}\thepage}{\color{BaseLightVery}~|~\leftmark}}}
+% %%% DRAFT %%%
+% \fancyhead[RE,LO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \textbf{Nur für den internen Gebrauch!}}}
+
+%%% FOOTER %%%
+% center
+\fancyfoot[CE,CO]{{{\sffamily\tiny  \DocVersionInfo}}}
+% odd
+\fancyfoot[LO,RE]{{\noindent\DocGitCommitTiny}}
+\fancyfoot[LO,RE]{{\noindent\tiny\FontSchemeCode}}
+\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\DocVersion}~ \AASS{}}}
+% even
+\fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\tiny \DocVersion~~|~~\url{http://www.aass.at}}}
+
+% %%% OVERWRITE SETTINGS FOR DRAFT %%%
+% \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \textbf{Nur für den internen Gebrauch!}}}
+
+%
+
+\opt{VAR-VAR2}{
+% \fancyhf{} % clear all header and footer fields
+% center
+\fancyfoot[CE,CO]{{{\noindent\sffamily\tiny\color{AsboeGreyLight}\DocVersionInfo~~|~~{\noindent\DocGitCommitTiny}}}}
+% odd
+\fancyfoot[LO]{{\noindent\sffamily\tiny\color{AsboeGreyLight}\url{http://www.aass.at}~~|~~\url{http://www.samariterbund.net}}}
+\fancyfoot[RO]{{\noindent{\sffamily\tiny\color{AsboeGreyLight}\DocVersion}~~\AASS{}\,{\color{AsboeGreyLight}|}\,{\color{AsboeRed}ASBÖ}~ }}
+% even
+\fancyfoot[LE]{{\noindent\AASS{}\,{\color{AsboeGreyLight}|}\,{\color{AsboeRed}ASBÖ}~~\sffamily\tiny\color{AsboeGreyLight}\DocVersion}}
+\fancyfoot[RE]{{\noindent\sffamily\tiny\color{AsboeGreyLight}\url{http://www.aass.at}~~|~~\url{http://www.samariterbund.net}}}
+}
+
+
+% % %
+
+
+
+% Redefining pagestyle plain
+\fancypagestyle{plain}{%
+\fancyhf{} % clear all header and footer fields
+%%% IMMER %%%
+% center
+\fancyfoot[CE,CO]{{{\sffamily\tiny  \DocVersionInfo}}}
+% odd
+\fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
+\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\DocVersion}~ \AASS{}}}
+% even
+\fancyfoot[LE]{{\noindent\AASS{}~ \sffamily\tiny \DocVersion~~|~~\url{http://www.aass.at}}}
+\fancyfoot[RE]{{\noindent\DocGitCommitTiny}}
+
+\opt{VAR-VAR2}{
+\fancyhf{} % clear all header and footer fields
+% center
+\fancyfoot[CE,CO]{{{\sffamily\tiny\color{AsboeGreyLight}\DocVersionInfo~|~{\noindent\DocGitCommitTiny}}}}
+% odd
+\fancyfoot[LO]{{\noindent\DocGitCommitTiny}}
+\fancyfoot[RO]{{\noindent{\sffamily\tiny\url{http://www.aass.at}~~|~~\DocVersion}~ \AASS{}}}
+% even
+\fancyfoot[LE]{{\noindent\AASS{}\,{\color{AsboeGreyLight}|}\,{\color{AsboeRed}ASBÖ}~ \sffamily\tiny \DocVersion}}
+\fancyfoot[RE]{{\color{AsboeGreyLight}\url{http://www.aass.at}~~|~~\url{http://www.samariterbund.net}}}
+}
+
+% \fancyfoot[CE,CO]{{{\sffamily\tiny {\DocVersionTyp} | Nur für den internen Gebrauch!}}}
+%%% DRAFT %%%
+% \fancyfoot[CE,CO]{{\noindent\color{red}\ttfamily\footnotesize\upshape{\textbf{\DocVersionTyp}} | \protect\today{} | \textbf{Nur für den internen Gebrauch!}}}
+%
+% % {\tiny
+% % Zweig: }\input{./tmp/git-current-branch.tmp} -- {\tiny
+% % Letztes Commit: }\input{./tmp/git-lastcommit.tmp}
+% }}
+%
+% %%% FINAL %%%
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+}

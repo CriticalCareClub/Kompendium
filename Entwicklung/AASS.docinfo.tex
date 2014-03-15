@@ -1,3 +1,49 @@
+
+
+%%% Versions
+\newcommand{\VarDocVersionMajor}						{2}
+\newcommand{\VarDocVersionMinor}						{0}
+\newcommand{\VarDocVersionRevision}						{0}
+
+\newcommand{\VarDocVersionType}							{nightly}
+% normalerweise: nightly
+% nightly	... laufende Entwicklung
+% alpha 	... Zwischenversion
+% beta 		... Iterationsversion
+% gamma 	... Release Candidate
+% delta		... Vorabversion
+% final		... Finale Version
+
+
+\newcommand{\VarDocVersionBetaIterationCount}			{45}
+\newcommand{\VarDocVersionGammaReleaseCandidateCount}	{--}
+\newcommand{\VarDocVersionDeltaPreviewCount}			{--}
+
+% nightly	... 2.0.0.nightly.20140119164900
+% alpha 	... 2.0.0.alpha.20140119164900
+% beta 		... 2.0.0.beta.44
+% gamma 	... 2.0.0.gamma.RC-1 			(2.RC-1)
+% delta		... 2.0.0.delta.1 				(2.PREVIEW.1)
+% final		... 2.0.0						(2)
+
+
+%%% ISBN
+\newcommand{\VarKompIsbn}								{---}
+% \renewcommand{\VarKompIsbn}{978-3-902937-01-8}
+\newcommand{\VarAassIsbn}								{---}
+% \renewcommand{\VarAassIsbn}{978-3-902937-00-1}
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% BEYOND THIS LINE ARE DRAGONS! %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 % \RequirePackage[iso]{isodateo}
 \RequirePackage{datetime}
 \renewcommand{\dateseparator}{-}
@@ -5,28 +51,91 @@
 \newtimeformat{nummeric}{\twodigit{\THEHOUR}\twodigit{\THEMINUTE}}
 \settimeformat{nummeric}
 
-%%% Versions
-\newcommand{\VarMkatalogVersion}{2013}
-\newcommand{\VarAassVersion}{1.1-dev-\pdfdate}
-\newcommand{\DocVersion}{1.1-dev-\pdfdate}
-% \renewcommand{\DocVersion}{1.0}
-\newcommand{\DocVariant}{--}
-\opt{VAR-VAR1}{\renewcommand{\DocVariant}{1}}
-\opt{VAR-VAR2}{\renewcommand{\DocVariant}{2}}
-%%% ISBN
-\newcommand{\VarMkatalogIsbn}{---}
-% \renewcommand{\VarMkatalogIsbn}{978-3-902937-01-8}
-\newcommand{\VarDocIsbn}{---}
-% \renewcommand{\VarDocIsbn}{978-3-902937-00-1}
-%%%
-\newcommand{\DocVersionTyp}{Entwicklungsversion (Iteration 43)}
-% \renewcommand{\DocVersionTyp}{Vorabversion}
-% \renewcommand{\DocVersionTyp}{Beta-Version}
-% \renewcommand{\DocVersionTyp}{Release}
-\newcommand{\DocVersionInfo}{Entwicklungsversion (Iteration 43) -- Für den internen Gebrauch.}
-% \renewcommand{\DocVersionInfo}{Vorabversion -- F.\,d. internen Gebrauch.} 
-% \renewcommand{\DocVersionInfo}{Beta-Version -- Zur Ansicht}
-% \renewcommand{\DocVersionInfo}{Release}
+\newcommand{\VarDocVariant}{--}
+\opt{VAR-VAR0}{\renewcommand{\VarDocVariant}{0}}
+\opt{VAR-VAR1}{\renewcommand{\VarDocVariant}{1}}
+\opt{VAR-VAR2}{\renewcommand{\VarDocVariant}{2}}
+
+
+
+
+\def\VarDocVersionPrimaryExplicit			{{\VarDocVersionMajor}.{\VarDocVersionMinor}.{\VarDocVersionRevision}}
+
+
+
+% \VarDocVersionPrimary: Kürzere Primary-Versionskennung wenn x.0.0 und x.y.0:
+\ifthenelse{\equal{\VarDocVersionRevision}{0} \AND \equal{\VarDocVersionMinor}{0}}	{\def\VarDocVersionPrimary{\VarDocVersionMajor}}{
+  % x.0.0 --> x
+  % x.y.0 --> x.y
+  \ifthenelse{\equal{\VarDocVersionRevision}{0}}									{\def\VarDocVersionPrimary{{\VarDocVersionMajor}.{\VarDocVersionMinor}}}{
+  % x.y.z --> x-y-z
+  \def\VarDocVersionPrimary															{\VarDocVersionPrimaryExplicit}}}
+
+
+\ifthenelse{\equal{\VarDocVersionType}{nightly}}
+  {
+    \def\VarDocVersion						{{\VarDocVersionPrimary}.{\VarDocVersionType}.{\pdfdate}}
+    \def\VarDocVersionFull					{{\VarDocVersionMajor}.{\VarDocVersionMinor}.{\VarDocVersionType}.{\pdfdate}.var-{\VarDocVariant}}
+    \def\VarDocVersionExplicit				{{\VarDocVersionPrimaryExplicit}.{\VarDocVersionType}.{\pdfdate}.var-{\VarDocVariant}}
+    \def\VarDocVersionTypeName				{Entwicklungsversion}
+    \def\VarDocVersionTypeDescription		{Für den internen Gebrauch.}
+  }
+  {}
+
+\ifthenelse{\equal{\VarDocVersionType}{alpha}}
+  {
+    \def\VarDocVersion						{{\VarDocVersionPrimary}.{\VarDocVersionType}.{\pdfdate}}
+    \def\VarDocVersionFull					{{\VarDocVersionMajor}.{\VarDocVersionMinor}.{\VarDocVersionType}.{\pdfdate}.var-{\VarDocVariant}}
+    \def\VarDocVersionExplicit				{{\VarDocVersionPrimaryExplicit}.{\VarDocVersionType}.{\pdfdate}.var-{\VarDocVariant}}
+    \def\VarDocVersionTypeName				{Entwicklungszwischenversion}
+    \def\VarDocVersionTypeDescription		{Für den internen Gebrauch.}
+  }
+  {}
+
+\ifthenelse{\equal{\VarDocVersionType}{beta}}
+  {
+    \def\VarDocVersion						{{\VarDocVersionPrimary}.{\VarDocVersionType}.{\VarDocVersionBetaIterationCount}}
+    \def\VarDocVersionFull					{{\VarDocVersionPrimary}.{\VarDocVersionType}.{\VarDocVersionBetaIterationCount}.var-{\VarDocVariant}}
+    \def\VarDocVersionExplicit				{{\VarDocVersionPrimaryExplicit}.{\VarDocVersionType}.{\VarDocVersionBetaIterationCount}.var-{\VarDocVariant}}
+    \def\VarDocVersionTypeName				{Iterationsversion}
+    \def\VarDocVersionTypeDescription		{Für den internen Gebrauch.}
+  }
+  {}
+
+\ifthenelse{\equal{\VarDocVersionType}{gamma}}
+  {
+    \def\VarDocVersion						{{\VarDocVersionPrimary}.{\VarDocVersionType}.RC-{\VarDocVersionGammaReleaseCandidateCount}}
+    \def\VarDocVersionFull					{{\VarDocVersionPrimary}.{\VarDocVersionType}.RC-{\VarDocVersionGammaReleaseCandidateCount}.var-{\VarDocVariant}}
+    \def\VarDocVersionExplicit				{{\VarDocVersionPrimaryExplicit}.{\VarDocVersionType}.RC-{\VarDocVersionGammaReleaseCandidateCount}.var-{\VarDocVariant}}
+    \def\VarDocVersionTypeName				{Release Candidate}
+    \def\VarDocVersionTypeDescription		{Für Testzwecke.}
+  }
+  {}
+
+
+
+\ifthenelse{\equal{\VarDocVersionType}{delta}}
+  {
+    \def\VarDocVersion						{{\VarDocVersionPrimary}.{\VarDocVersionType}.{\VarDocVersionDeltaPreviewCount}}
+    \def\VarDocVersionFull					{{\VarDocVersionPrimary}.{\VarDocVersionType}.{\VarDocVersionDeltaPreviewCount}.var-{\VarDocVariant}}
+    \def\VarDocVersionExplicit				{{\VarDocVersionPrimaryExplicit}.{\VarDocVersionType}.{\VarDocVersionDeltaPreviewCount}.var-{\VarDocVariant}}
+    \def\VarDocVersionTypeName				{Vorabversion}
+    \def\VarDocVersionTypeDescription		{Für Gebrauch in kontrollierter Umgebung.}
+  }
+  {}
+
+\ifthenelse{\equal{\VarDocVersionType}{final}}
+  {
+    \def\VarDocVersion						{{\VarDocVersionPrimary}}
+    \def\VarDocVersionFull					{{\VarDocVersionPrimary}.var-{\VarDocVariant}}
+    \def\VarDocVersionExplicit				{{\VarDocVersionPrimaryExplicit}.var-{\VarDocVariant}}
+    \def\VarDocVersionTypeName				{Finale Version}
+    \def\VarDocVersionTypeDescription		{Zur öffentlichen Verwendung.}
+  }
+  {}
+
+
+
 \hypersetup{
 % draft,
 unicode=true,
@@ -48,27 +157,20 @@ pdfborder={0 0 0},          % Dicke
 % % is currently known. If you use foot- misc, suppress
 % % hyperref’s hyper-footnotes.
 hyperfootnotes=false,
-pdftitle={Arbeits- und Ausbildungsstandards für den Sanitätsdienst \DocVersion},
+pdftitle={Arbeits- und Ausbildungsstandards für den Sanitätsdienst Version \VarDocVersionFull},
 % Sets the document information Title field pdfauthor=ARGE AASS, % Sets the document information Author field
-pdfsubject={AASS \DocVersion}, % Sets the document information Subject field
-pdfcreator=ARGE AASS, % Sets the document information Creator field
-pdfproducer=ARGE AASS, % Sets the document information Producer field
-pdfkeywords=ARGE AASS, % Sets the document information Keywords field
+pdfsubject={AASS Version \VarDocVersionFull}, % Sets the document information Subject field
+pdfcreator={Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für den Sanitätsdienst (ARGE AASS), Wien}, % Sets the document information Creator field
+pdfproducer={Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für den Sanitätsdienst (ARGE AASS), Wien}, % Sets the document information Producer field
+pdfkeywords={Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für den Sanitätsdienst, ARGE AASS, Wien}, % Sets the document information Keywords field
 % pdfpagelayout=TwoPageRight,
 }
 % By default, URLs are printed using mono-spaced fonts. If you
 % don't like it and you want them to be printed with the same style 
 % of the rest of the text, you can use this:
 \urlstyle{same}
-% Staus Möglichkeiten:
-% Final 				Endversion
-% DraftLight			+ Bilder, - Kommentare
-% DraftMedium		- Bilder, - Kommentare
-% DraftFull			- Bilder, + Kommenatre
-% DraftSuper			- Bilder, + Kommenatare, + draft=yes
-\newcommand{\DocStatus}{DraftFull}
 \newcommand{\DocGitCommit}{Unofficial build, no SHA1 included!}
-% \renewcommand{\DocGitCommit}{(0) \input{../tmp/git-lastcommitsha1.tmp}}
+\opt{SHOW-GIT-COMMIT-ID}{\renewcommand{\DocGitCommit}{(0) \input{../tmp/git-lastcommitsha1.tmp}}}
 \newcommand{\DocGitCommitFormatted}{\ttfamily\DocGitCommit}
 \newcommand{\DocGitCommitTiny}{\tiny\DocGitCommitFormatted}
 \newcommand{\DocGitCommitScriptsize}{\scriptsize\DocGitCommitFormatted}

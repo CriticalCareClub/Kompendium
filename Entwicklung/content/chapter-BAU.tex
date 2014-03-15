@@ -5,7 +5,7 @@
 % \end{savequote}
 \def\ChapterCode{BAU}
 \chapter
-[Basisuntersuchungen]
+[\CO{[BAU]} Basisuntersuchungen]
 {Basisuntersuchungen}
 \label{chp:BAU}
 
@@ -17,8 +17,8 @@
 \begin{description}
   \item[Maintainer:] Sebastian Gabriel
   \item[Autoren:] Diverse
-  \item[Reviewer:] --
-  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[Reviewer:] Standard-Reviewprozess
+  \item[Version:] {\VarDocVersionTypeName} ({\VarDocVersionTypeDescription})
   \item[SHA1:] {\DocGitCommit}
 \end{description}
 
@@ -36,7 +36,7 @@ In: J. W. von Goethe: Faust. Der Tragödie zweiter Teil]
 doch ist das Leichte schwer.}
 
 \clearpage % TEMP temp clearpage
-% \Layout{0}{\TxQuerverweise}
+% \TextSlide{\TxQuerverweise}
 % {~
 % 
 % \noindent\includegraphics[angle=270,width=\linewidth]{./images/leitsystem/Leitschema-PAM_BAU.pdf}
@@ -59,7 +59,7 @@ doch ist das Leichte schwer.}
 \section{Vitalwerte}
 \label{topic:vitalwerte}
 
-\Layout{0}{\TxBeschreibung}{
+\TextSlide{\TxBeschreibung}{
 Das Erheben von Vitalwerten ist eine Routinetätigkeit und
 sollte bei jedem Notfallpatienten erfolgen. Es gibt nur wenig
 Situationen bei denen man darauf verzichten kann (zum
@@ -86,16 +86,16 @@ Beispiel tobende Patienten). Zu den Vitalwerten zählt man:
 \subsection{Ermitteln der Herzfrequenz mittels Messung der
 Pulsfrequenz}
 \label{topic:pulsmessung}
- 
-\Definition{Als \T{Herzfrequenz} (\T{HF})
+
+
+\TextSlide
+{{\TxBeschreibung} und Messstellen}
+{%
+\DefinitionInPara{Als \T{Herzfrequenz} (\T{HF})
 bezeichnet man die Anzahl der Schläge bzw. Aktionen des
 Herzens pro Minute. Als \T{Pulsfrequenz} bezeichnet man die
 Anzahl der Pulsschläge pro Minute.}
-
-
-\Layout{0}
-{Messstellen}
-{%
+%
 Die Herzfrequenz entspricht normalerweise der
 \T{Pulsfrequenz}, welche mittels Fühlen des Pulses 
 ermittelt wird.\footnote{Nicht
@@ -120,6 +120,7 @@ kann.
 }
 {%&
 \begin{itemize}
+  \item Herzfrequenz, Pulsfrequenz
   \item {Radialarterie} (A. \E{radialis})
   \item {Halsschlagader} (A. \E{carotis})
   \item {Oberarmarterie} (A. \E{brachialis}; Neugeborene, Säuglinge)
@@ -129,7 +130,25 @@ kann.
 {}
 {}
 
-\Layout{0}{Durchführung}{
+% \begin{PictureSeriesWide}{}{Ermittlung der Pulsfrequenz \SourcePicture{ASBÖ/gjh}}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/radialis_puls-00441pt}
+% {Tasten des Radialispuls mit mind. 2 Fingern}
+% {./images/ASBOE-Grassl-gjh-1/rate_puls-00441pt}
+% {Auszählen der Pulsfrequenz (Anm.: Entgegen der Darstellung ist eine Armbanduhr im Dienst aus hygienischen Gründen \EE{nicht} am Handgelenk zu tragen!)}
+% {./images/ASBOE-Grassl-gjh-1/puls_oximeter-00441pt}
+% {Die Pulsoxymetrie kann oft bei der Ermittlung der Pulsfrequenz behilflich sein {\ldots} jedoch gibt es hier Tücken}
+% {}
+% {}
+% \end{PictureSeriesWide}
+
+
+
+% TODO Grassl Foto: Ermittlung der Pulsfrequenz (Radialispuls, Auszählen, Pulsoxy)
+
+
+
+\TextSlide{Durchführung}{
 Es wird an der Arterie (s.\,o.) der Puls mit
 zwei bis drei Fingern ertastet. Nun werden 15 Sekunden lang
 die Schläge gezählt. Anschließend wird das Ergebnis \EE{mit
@@ -148,7 +167,7 @@ Schlägen pro Minute. Neben der Frequenz wird auch die
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Befunde}{
+\TextSlide{Befunde}{
 \begin{Findings}
 \item[\SymbolFindingNormal] \FindingSpeech{Der Radialispuls ist gut tastbar, rhythmisch und normfrequent} (\FindingSpeech{und hat eine Frequenz von 80\PerMin*}) [\Range{60}{100}\PerMin*]
 \item[\SymbolFindingVariant] \FindingSpeech{Der Carotispuls \ldots}
@@ -166,7 +185,7 @@ Schlägen pro Minute. Neben der Frequenz wird auch die
 \label{topic:rr-messung}
 \label{topic:blutdruckmessung}
 
-\Layout{0}{\TxBeschreibung}{
+\TextSlide{\TxBeschreibung}{
 Der Blutdruck ist jener Druck, welcher in unseren Blutgefäßen
 herrscht. Wenn wir vom \emph{\enquote{Blutdruck}} sprechen beziehen wir
 uns auf den Blutdruck in den
@@ -185,8 +204,6 @@ Dementsprechend können zwei Werte erhoben werden: Der
   \item \T{Systolische Blutdruck} (Spitzendruck), und der
   \item \T{Diastolische Blutdruck} (Minimaldruck).
 \end{itemize}
-
-
 Im Normalfall
 werden beide Werte ermittelt.
 % Der \EE{systolische Wert} (\enquote{obere Wert}) ist jener Druck
@@ -205,14 +222,14 @@ ist das chemische Symbol für Quecksilber.}
 \begin{itemize}
   \item Druck in den Arterien
   \begin{itemize}
-    \item systolischer Wert (Auswurfphase des Herzens)
-    \item diastolischer Wert (Entspannungsphase des Herzens)
+    \item Systolischer Wert (Auswurfphase des Herzens)
+    \item Diastolischer Wert (Entspannungsphase des Herzens)
   \end{itemize}
-  \item Einheit \MmHg
+  \item Einheit: Millimeter Quecksilbersäule (\MmHg)
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Arten der Blutdruckmessung}{%
+\TextSlide{Arten der Blutdruckmessung}{%
 Der Blutdruck kann auf verschiedene Arten gemessen werden.
 Üblich ist die unblutige, \E{indirekte Methode}, mittels
 einer an der Extremität angelegten
@@ -264,12 +281,12 @@ Pallinger}{}
 \end{center}
 }{
 \begin{itemize}
-  \item unblutige, indirekte Messung
+  \item Unblutige, indirekte Messung
   \begin{itemize}
-    \item mechanische Messung
-    \item elektronische Messung
+    \item Mechanische Messung
+    \item Elektronische Messung
   \end{itemize}
-  \item invasive Messung
+  \item Invasive Messung
 \end{itemize}
 }
 {}
@@ -278,7 +295,7 @@ Pallinger}{}
 
 
 \subsubsection{Manuelle Blutdruckmessgeräte}
-\Layout{2}{Manuelles Blutdruckmessgerät}{%
+\Text{Manuelles Blutdruckmessgerät}{%
 Ein manuelles Blutdruckmessgerät besteht aus einer
 Manschette, einem Schlauch, einem Auslassventil, einem Pumpballen und einer
 Druckanzeige. 
@@ -301,7 +318,7 @@ einem Doppel- und einem Einzelkopfstethoskop.}
 \label{topic:stethoskop}
 \index{Stethoskop}
 
-\Layout{2}{\TxBeschreibung}
+\Text{\TxBeschreibung}
 {
 \begin{description}
   \item[Allgemein] Ein Stethoskop ist eine Hörvorrichtung. Es besteht
@@ -338,32 +355,28 @@ vorgenommen werden.
 
 \subsubsection{Messung nach Riva-Rocci}
 
-\Definition{Die Blutdruckmessung nach
-Riva-Rocci\ZFootnote{Benannt nach dem Erfinder Scipione
-Riva-Rocci.} ist eine mechanische Messung mittels einer
+\Text{{\TxBeschreibung}}{%
+\DefinitionInPara{Die \T{Blutdruckmessung nach
+Riva-Rocci}\ZFootnote{Benannt nach dem Erfinder Scipione
+Riva-Rocci.} ist eine indirekte, unblutige, mechanische 
+Messung mittels einer
 Druckmanschette.}
-
 Umgangssprachlich wird die Blutdruckmessung nach Riva-Rocci
 als \emph{\enquote{RR-Messung}}, bzw. der ermittelte Wert
-als \emph{\enquote{RR}} bezeichnet.
+als \emph{\enquote{RR}} abgekürzt.
 
 Bei der RR-Messung gibt es zwei Möglichkeiten zu
 einem Wert zu kommen. Die genauere ist die
 \EE{auskultatorische Methode} (durch Hören von
 Strömungsgeräuschen). Die zweite Möglichkeit ist die
 \EE{palpatorische Methode} (durch Tasten des Pulses). 
+}
 
 \Fazit{Der diastolische Wert kann nur
 bei der auskultatorischen Methode ermittelt werden!} 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TODO : Bild von Arm mit eingez. Radialrterie
-\TODO{KOCH}{yyyy-mm-dd}{RR, Bild von Arm mit eingez.
-Radialrterie: Neuerstellung von Foto notwendig}{}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
-\Layout{0}{\T{Auskultatorische Methode} -- Vorgehen}
+\TextSlide{\T{Auskultatorische Methode} -- Vorgehen}
 {%
 Die Manschette sollte faltenfrei und nicht über Kleidung, in
 der Mitte des Oberarms angelegt werden und sich, wenn
@@ -418,7 +431,19 @@ in etwa bei RR~\RRmmHg{120}{80}
 }{}{}{}
 
 
+% \begin{PictureSeriesWide}{}{Blutdruckmessung \SourcePicture{ASBÖ/gjh}}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/rekap-00441pt}
+% {Die Nagelbettprobe (Rekap-Zeit) dient einer schnellen Einschätzung der Kreislaufsituation. Normal ist eine Rekap-Zeit von unter 2 Sekunden.}
+% {./images/ASBOE-Grassl-gjh-1/rr_messung-00441pt}
+% {Blutdruckmessung}
+% {./images/ASBOE-Grassl-gjh-1/CRW_0784-00441pt}
+% {Blutdruckmessung bei einem Kind}
+% {}
+% {}
+% \end{PictureSeriesWide}
 
+% TODO Grassl Foto: Blutdruckmessung, Nagelbettprobe
 
 \begin{figure}[H]
     \begin{center}
@@ -433,7 +458,7 @@ in etwa bei RR~\RRmmHg{120}{80}
 \end{figure}
 
 
-\Layout{0}{\T{Palpatorische Methode} -- Durchführung}
+\TextSlide{\T{Palpatorische Methode} -- Durchführung}
 {%
 Die Manschette sollte faltenfrei und nicht über Kleidung, in
 der Mitte des Oberarms angelegt werden und sich, wenn
@@ -451,14 +476,6 @@ ist der \EE{systolische} Wert.
 \EE{Der diastolische Wert kann mit dieser Methode nicht
 ermittelt werden.} In der Notfallmedizin ist der systolische
 Wert jedoch ohnehin in der Regel der wichtigere.
-
-\bigskip
-
-\bigskip
-
-\bigskip
-
-\bigskip
 
 \bigskip
 }{
@@ -510,7 +527,7 @@ angelegt werden.
 }{./images/sign_cardive.jpg}{}{Gabriel}
 
 
-\Layout{0}{Befunde}{
+\TextSlide{Befunde}{
 \begin{Findings}
 \item[\SymbolFindingNormal] \FindingSpeech{Blutdruck (RR) \RRmmHg{120}{80}}  [\Range{\RR{100}{60}}{\RR{140}{90}}\MmHg*]
 \item[\SymbolFindingVariant] \FindingSpeech{Blutdruck (RR) palpatorisch 120\MmHg*}  [\Range{100}{140}\MmHg*]
@@ -527,7 +544,7 @@ angelegt werden.
 
 
 \Z{
-\Layout{2}{Weitere Bemerkungen}
+\Text{Weitere Bemerkungen}
 {\index{NIBD|Z}\index{NIBP|Z}
 Der \enquote{Nicht-invasive Blutdruck} wird auf manchen
 Überwachungsmonitoren mit \T{NIBD} oder \T{NIBP}
@@ -544,7 +561,7 @@ Pressure) abgekürzt. }{}{}{}{}
 
 % \subsubsection{Allgemein}
 
-\Layout{2}{\TxBeschreibung}
+\Text{\TxBeschreibung}
 {% 
 Die Pulsoxymetrie ist eine einfache apparative
 Untersuchungsmethode zur nicht-invasiven Ermittlung der
@@ -570,7 +587,7 @@ gewünschte Messstelle müssen jedoch beachtet werden.
 \cite{LoefflerBiochemie7,ArbeitstechnikenAZ1,Soehnke200607}
 
 }{}{}{}{}
-\Layout{0}{Gerätearten}
+\TextSlide{Gerätearten}
 {% 
 Zur Messung der Sauerstoffsättigung mit dem Prinzip der
 Pulsoxymetrie gibt es verschiedene Gerätearten:
@@ -592,7 +609,7 @@ Pulsoxymetrie gibt es verschiedene Gerätearten:
   \item Funktionsmodul eines Überwachungsmonitors
 \end{itemize}
 }{}{}{}
-\Layout{0}{Sensortypen}
+\TextSlide{Sensortypen}
 {%
 Neben den Fingerclip-Geräten sind praktisch alle anderen
 Gerätetypen mit wechselbaren, kabelgebundenen Sensoren
@@ -622,7 +639,7 @@ Prinzipiell kann man zwei Sensorgrundarten unterscheiden:
 \end{itemize}
 }{}{}{}
 
-\Layout{2}{Funktionsprüfung}
+\Text{Funktionsprüfung}
 {%
 Vor der Verwendung ist das jeweilige Gerät einer
 Sichtprüfung auf offensichtliche Schäden zu unterziehen
@@ -634,7 +651,7 @@ zu verwenden. Nur bei entsprechenden Messwerten darf das
 Gerät zur Messung am Patienten verwendet werden.
 }{}{}{}{}
 
-\Layout{2}{Anwendung}
+\Text{Anwendung}
 {%
 Zur Anwendung am Patienten wird eine entsprechende
 Messstelle gesucht. Dabei ist besonders auf Nagellack,
@@ -658,7 +675,7 @@ Das Pulsoxymeter eignet sich sehr gut für das Monitoring,
 ersetzt aber niemals das wachsame Auge auf den Patienten!
 }{}{}{}{}
 
-\Layout{0}{Ermittelte Werte}
+\TextSlide{Ermittelte Werte}
 {%
 Die Sauerstoffsättigung wird in Prozent angegeben und wird
 mit \T{Sp\ce{O2}} abgekürzt. Der Normalwert liegt zwischen
@@ -677,7 +694,7 @@ jedoch oft sehr niedrige Werte (z.\,B.
 }{}{}{}
 
 
-\Layout{2}{Beurteilung}
+\Text{Beurteilung}
 {%
 Bei der Beurteilung des Sp\ce{O2} muss berücksichtigt
 werden, \E{ob und wieviel \EE{Sauerstoff} der Patient
@@ -713,7 +730,7 @@ Verlauf beurteilt werden.
 
 
 
-\Layout{0}{\TxGefahren{} und Fehlerquellen}
+\TextSlide{{\TxGefahren} und Fehlerquellen}
 {%
 Die größte Gefahr ist die falsche Interpretation von
 Messwerten. 
@@ -761,14 +778,15 @@ Messwerten.
 
 
 
-\Layout{2}{Hygienische Wiederaufbereitung}
+\Text{Hygienische Wiederaufbereitung}
 {%
 Die hygienische Wiederaufbereitung muss immer nach
 Herstellerangaben erfolgen.
 Einmalsensoren sind nach der Messung zu entsorgen.
 Die meisten Geräte und Sensoren dürfen mittels
 \E{Wischdesinfektion mit Flächendesinfektionsmittel}
-aufbereitet werden. Die Geräte sind üblicherweise nicht
+aufbereitet werden, dies muss dann nach jedem Patientenkontakt erfolgen. 
+Die Geräte sind üblicherweise nicht
 wasserdicht, es darf kein Desinfektionsmittel in das Gerät
 gelangen.
 }{}{}{}{}
@@ -829,7 +847,7 @@ gelangen.
 \subsection{Blutzuckermessung}
 \label{topic:blutzucker-messung}
 
-\Layout{0}{Interpretation und Normalwert}
+\TextSlide{Interpretation und Normalwert}
 {
 Der Blutzuckerspiegel wird in \E{Milligramm pro Deziliter}
 (\MgDl\Z{, entspricht \MetricUnit{mg\,\PC}})\Z{, manchmal 
@@ -859,7 +877,7 @@ keine Notfallsymptome auftreten.
 \end{itemize}
 }{}{}{}
 
-\Layout{2}{Material}
+\Text{Material}
 {
 \begin{enumerate}
   \item Handschuhe
@@ -872,12 +890,12 @@ keine Notfallsymptome auftreten.
 \end{enumerate}
 }
 {}
-{./images/gabriel-sebastian-aass/bz-wert_1214-00800.jpg}
-{\enquote{90\MgDl*.}}
-{GABS}
+% {./images/gabriel-sebastian-aass/bz-wert_1214-00800.jpg}
+% {\enquote{90\MgDl*.}}
+% {GABS}
 
 
-\Layout{2}{Durchführung}
+\Text{Durchführung}
 {
 %\begin{multicols}{2}
 \begin{enumerate}
@@ -892,7 +910,9 @@ keine Notfallsymptome auftreten.
   aber noch nicht einrasten lassen.
   \item Mit einer schnellen, beherzten Bewegung den
   Patientenfinger \StepHeading{mit der Lanzette stechen} und sofort
-  herausziehen \E{(\enquote{Rein-raus-Methode})}.
+  herausziehen \E{(\enquote{Rein-raus-Methode})}. 
+  Bei der Verwendung von Lanzettenautomaten (z.\,B. mit Federdrucksystemen) 
+  sind die herstellerspezifischen Anwendungshinweise zu beachten.
   \item Lanzette in die \E{Kontamed-Box} \StepHeading{entsorgen}.
   \item Ersten Bluttropfen mit trockenem Tupfer \StepHeading{abwischen}.
   \item \StepHeading{Messstreifen} ganz in das Gerät schieben, das Gerät
@@ -922,17 +942,36 @@ keine Notfallsymptome auftreten.
 
 }{}{}{}
 
-\begin{PictureSeriesWide}{}{Bilderserie: Blutzuckermessung}
-\PictureSeriesRowWide{3}
-{./images/pallinger-christoph-aass/Blutzucker_32796_export_01312.jpg}
-{Material \SourcePicture{Ch. Pallinger}}
+% \Picture
+% 	{<Titel>}%1
+% 	{<Beschreibung>}%2
+% 	{<Label>}%3
+% 	{<Quelle>}%4
+% 	{<Lizenz>}%5
+% 	{<Datei>}%6
+% 	{<Breitenmodifizierer>}%7
+% 	{<Float>}%8
+\Picture
+{Material zur Blutzuckermessung}%1
+{}%2
+{}%3
+{Ch. Pallinger}%4
+{MFG}%5
+{./images/pallinger-christoph-aass/Blutzucker_32796_export_01312.jpg}%6
+{}%7
+{H}%8
+
+\begin{PictureSeries}{}{Bilderserie: Blutzuckermessung}
+\PictureSeriesRow{2}
 {./images/motal-aass/00800/neuro6.jpg}
-{BZ-Messung \SourcePicture{Motal}}
+{Blutzuckermessung mit Messgerät mit Kapillar-Methode \SourcePicture{Motal}}
 {./images/gabriel-sebastian-aass/bz-wert_1214-00800.jpg}
-{\enquote*{90\MgDl*.} \SourcePicture{GABS}}
+{Ergebnis: \enquote*{90\MgDl*.} \SourcePicture{GABS}}
 {empty}
 {}
-\end{PictureSeriesWide}
+{}
+{}
+\end{PictureSeries}
 
 
 
@@ -945,7 +984,7 @@ keine Notfallsymptome auftreten.
 Die Körpertemperatur kann an unterschiedlichen Stellen und
 mit unterschiedlichen Mitteln bestimmt werden. 
 
-\Layout{0}{Messarten}
+\TextSlide{Messarten}
 {%
 Mit dem
 \EE{herkömmlichen Fieberthermometer}\footnote{Unter
@@ -954,10 +993,10 @@ elektronische Messgeräte. Quecksilberthermometer werden
 wegen des darin enthaltenen, giftigen Schwermetalls
 Quecksilber nicht mehr verwendet!} kann die Temperatur unter
 der \E{Achsel} (\E{axillär}) oder im \E{Enddarm}
-(\E{rektal}, vor allem bei Kleinkindern) bestimmt werden.
-Die Messung im Mund ist im professionellen Umfeld 
+(\E{rektal}, vor allem bei Kleinkindern) bestimmt werden, 
+die Messung im Mund ist im professionellen Umfeld 
 eher unüblich. Es ist
-bei der Messung eine Schutzhülle zu verwenden.
+bei jeder der Messung eine Schutzhülle zu verwenden.
 
 Mit dem \EE{Ohrthermometer} kann mittels Infrarot die
 Temperatur im \E{Mittelohr} bestimmt werden. Es sind die
@@ -981,7 +1020,19 @@ ca. \nicefrac{1}{2}\DegC* niedriger sein.
 \end{itemize}
 }{}{}{}
 
+% \begin{PictureSeries}{}{Messung der Körpertemperatur}
+% \PictureSeriesRow{2}
+% {./images/ASBOE-Grassl-gjh-1/CRW_0901-00441pt}
+% {Temperaturmessung im Ohr eines Kindes \SourcePicture{ASBÖ/gjh}}
+% {./images/gabriel-sebastian-aass/fieberthermometer-00441pt.jpg}
+% {Fieber. Quecksilberthermometer dürfen nicht mehr verwendet und müssen fachgerecht entsorgt werden. \SourcePicture{Gabriel}}
+% {./images/ASBOE-Grassl-gjh-1/}
+% {}
+% {}
+% {}
+% \end{PictureSeries}
 
+% TODO Grassl Foto: Messung der Körpertemperatur
 
 
 
@@ -1029,7 +1080,7 @@ lange)!}
 \subsubsection{EKG -- Ableitungen}
 \label{topic:ekg-ableitungen}
 
-\Layout{0}{\TxBeschreibung}{
+\TextSlide{\TxBeschreibung}{
 Grundsätzlich unterscheidet man zwischen den Extremitätenableitungen
 und den Brustwandableitungen. 
 \hfill\Commentary[EKG-Ableitungen]{Brustwandableitungen nach
@@ -1079,7 +1130,7 @@ Es haben sich folgende Begriffe eingebürgert:
 
 
 
-\Layout{0}{Extremitätenableitungen}
+\TextSlide{Extremitätenableitungen}
 {
 Die \T{Extremitätenableitungen} werden mittels vier
 Elektroden abgeleitet. Je eine Elektrode wird an den Enden der
@@ -1141,7 +1192,7 @@ und Brustwandableitungen.
 
 
 
-\Layout{0}{Brustwandableitungen}
+\TextSlide{Brustwandableitungen}
 {
 Die \T{Brustwandableitungen} werden mittels sechs Elektroden
 abgeleitet und erlauben eine genauere Zuordnung von
@@ -1212,7 +1263,7 @@ wie sich die Anbringungsstelle der Elektroden auf das
 
 \begin{figure}[H]
 \includegraphics[width=\linewidth]{./images/wikipedia-pd/12_lead_generated_sinus_rhythm}
-\caption{Unauffälliger EKG-Befund \SourcePicture{WM/PD}}
+\caption{Unauffälliger 12-Kanal-EKG-Befund \SourcePicture{WM/PD}}
 \end{figure}
 
 
@@ -1236,11 +1287,11 @@ wie sich die Anbringungsstelle der Elektroden auf das
 
 \subsection{Abtasten des Abdomens}
 
-\Layout{0}{Abtasten des Abdomens}
+\TextSlide{Abtasten des Abdomens}
 {\label{topic:untersuchung-abdomen-abtasten}
 Das Abdomen kann man abtasten um die Anspannung der
-Bauchdecke zu beurteilen, Schmerzen zu beurteilen und
-zuordnen und um Fremdkörper zu ertasten.
+Bauchdecke und Schmerzen zu beurteilen und
+zuzuordnen, sowie um Fremdkörper zu ertasten.
 Man beginnt damit, den Patienten zu fragen, ob und wo er
 Schmerzen hat. Die Untersuchung beginnt man in jenem
 Quadranten, welcher am weitesten von den Schmerzen entfernt
@@ -1270,21 +1321,39 @@ Loslassen bekommt
 \end{itemize}
 }{}{}{}
 
+% \begin{PictureSeries}{}{Inspektion und Abtasten des Abdomens \SourcePicture{ASBÖ/gjh}}
+% \PictureSeriesRow{2}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0423-00441pt}
+% {Abtasten des Abdomens {\ldots}}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0412-00441pt}
+% {{\ldots} in allen 4 Quadranten}
+% {}
+% {}
+% {}
+% {}
+% \end{PictureSeries}
+
+% TODO Grassl Foto: Abtsaten Abdomen
+
 % \clearpage % TEMP temp clearpage
 \subsection{Neurocheck}
 \label{topic:neurocheck}
 \index{Neurocheck}
 %\begin{multicols}{2}
 
-\Definition{Einfache, überblickshafte (\enquote{grobe})
-Untersuchung der wichtigsten neurologischen Funktionen.}
-
-Teile des Neurochecks werden bereits während des
+\Text{{\TxBeschreibung}}
+{\DefinitionInPara{Der Neurocheck ist eine einfache, überblickshafte (\enquote{grobe})
+Untersuchung der wichtigsten Funktionen des Nervensystems.}
+%
+Teile des Neurochecks werden während des
 Einschätzungsblockes
 (\FullPrettyRef{topic:einschaetzungsblock})
-durchgeführt.
+durchgeführt.}
 
-\Layout{0}{Neurocheck}{
+
+
+
+\TextSlide{Neurocheck}{
 \begin{enumerate}
   \item \EE{Bewusstseinslage}: Für eine grobe Einschätzung
   ist folgende Einteilung ausreichend\footnote{Diese
@@ -1370,6 +1439,10 @@ durchgeführt.
   \item Nackensteifigkeit
   \item[+] Blutzuckermessung
 \end{itemize}
+
+Teile des Neurochecks werden während des
+Einschätzungsblockes
+durchgeführt.
 }{}{}{}
 
 %\end{multicols}
@@ -1403,21 +1476,27 @@ durchgeführt.
 
 \clearpage % TEMP temp clearpage
 \subsection{Traumacheck}
-\label{topic:traumacheck}
-\index{Traumacheck}
-\Definition{Suche nach Verletzungen oder Verletzungsanzeichen am (liegenden)
+\label{topic:traumacheck}%
+
+\Text{{\TxBeschreibung}}
+{\DefinitionInPara{Ein \T{Traumacheck} ist eine überblickshafte 
+Suche nach Verletzungen oder Verletzungsanzeichen am (liegenden)
 Patienten.}
-
+%
 Teile des Traumachecks werden bereits während des
-Einschätzungsblockes
-(\CO{[PAM]}, \FullPrettyRef{topic:einschaetzungsblock}) im
-Rahmen der \I[Schnelle
+Einschätzungsblocks
+(\FullPrettyRef{topic:einschaetzungsblock}) im
+Rahmen der \II[Schnelle
 Trauma-Untersuchung]{Schnellen-Trauma-Untersuchung}
-(\I{STU}) durchgeführt. 
-Bei vital bedrohten Patienten wird
-\E{kein vollständiger} Traumacheck durchgeführt. 
+(\I{STU}) durchgeführt, um vital bedrohliche 
+Verletzungen rechtzeitig zu erkennen.  
+Bei vital bedrohten (zeitkritischen) Patienten wird
+normalerweise \E{kein vollständiger} Traumacheck 
+durchgeführt. 
+}
 
-\Layout{0}{\E{Vollständiger} Traumacheck}
+
+\TextSlide{\E{Vollständiger} Traumacheck}
 {%
 \begin{itemize}
   \item Patient orientiert? Unfallhergang erinnerlich? Schmerzen?
@@ -1425,15 +1504,23 @@ Bei vital bedrohten Patienten wird
   Lampe)
   \item Pupillenkontrolle (mit einer
   Lampe)
-  \item Inspektion und Abtasten mit festem Griff, \EE{bei
-  Schmerzen die vom Patienten erwähnte Stelle als letztes
-  untersuchen}: von Kopf bis Fuß
+  \item Inspektion und Abtasten mit festem Griff von Kopf bis Fuß. 
+  \EE{Schmerzhafte Stellen zuletzt
+  untersuchen.}
+  
+  Zur Inspektion muss der Patient \EE{entkleidet} werden, 
+  bei immobilisierten oder bewusstlosen Patienten muss 
+  dazu oft die Kleidung aufgeschnitten werden. 
+  \Ca{Wärmeerhalt beachten!} Ggfs. den Patienten erst in 
+  geschützter Umgebung (Fahrzeug, Behandlungsraum, \ldots) 
+  entkleiden und Inspektion nachholen. 
   \begin{itemize}
     \item Schädel: Schädeldach, Hinterkopf,
     Stirn, Wangenknochen, Nasenbein, Kiefer
     \item Hals und Halswirbelsäule 
-    (Tastschmerz? 
-    \Ca{Nicht bei Verdacht auf Wirbelsäulenverletzung!})
+    (Tastschmerz?) 
+    
+    \Ca{Keine Manipulation bei Verdacht auf Wirbelsäulenverletzung!}
     \item Obere Extremität: Schultern, Arme, Hände
     \item Brustkorb: vorne und seitlich 
     (Prellmarken?
@@ -1444,7 +1531,8 @@ Bei vital bedrohten Patienten wird
     Abwehrspannung/harte Bauchdecke?),
     \item Becken von der Seite andrücken, schmerzhaft?
     \item Rücken und Wirbelsäule (Tast-, Klopfschmerz?
-    \Ca{Nicht bei Verdacht auf Wirbelsäulenverletzung!})
+    
+    \Ca{Keine Manipulation bei Verdacht auf Wirbelsäulenverletzung!}
     \item Untere Extremität: Beine (sichtbare Verletzungen?), Füße:
     Schuhe und Socken ausziehen)
   \end{itemize}
@@ -1474,19 +1562,68 @@ Bei Hinweis auf eine Schädelverletzung ist ein
 Fall erforderlich! }{
 \begin{itemize}
   \item Bewusstsein, Orientierung
-  \item Abtasten
+  \item Mund, Nase, Ohren
+  \item Pupillen
+  \item Inspektion und Abtasten: Von Kopf bis Fuß
   \begin{itemize}
     \item Schmerzen
     \item Blutungen
     \item Fehlstellungen
     \item DMS
     \item Atemmechanik
-    \item harte Bauchdecke
+    \item Harte Bauchdecke
   \end{itemize} 
-  \item Kontrolle von Mund, Nase, Ohren
   \item Tupfertest
 \end{itemize}
+
+Teile des Traumachecks werden während des
+Einschätzungsblocks
+bei der \E{Schnellen-Trauma-Untersuchung}
+(\E{STU}) durchgeführt.  
+
+Bei vital bedrohten (zeitkritischen) Patienten wird
+normalerweise \E{kein vollständiger} Traumacheck 
+durchgeführt! 
 }{}{}{}
+
+% \begin{PictureSeriesWide}{}{Die wichtigsten Schritte der \EE{Schnellen Trauma-Untersuchung} (\EE{STU}) \SourcePicture{ASBÖ/gjh}}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/Uni_14-00441pt}
+% {Zur Inspektion muss der Patient entkleidet werden. 
+% Bei immobilisierten oder bewusstlosen Patienten muss 
+% dazu oft die Kleidung aufgeschnitten werden. 
+% \Ca{Wärmeerhalt beachten!}}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0310-00441pt}
+% {Begutachtung der Mundhöhle (hier anfangs unter 
+% manueller HWS-Fixierung)}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0388-00441pt}
+% {Bei Verdacht auf eine Wirbelsäulenverletzung muss eine 
+% entsprechende Fixierung der HWS auch während der Untersuchung 
+% erfolgen (hier nicht weiter dargestellt).}
+% {}
+% {}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0380-00441pt}
+% {Thoraxkompression seitlich {\ldots}}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0381-00441pt}
+% {{..} und frontal}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0423-00441pt}
+% {Abtasten des Abdomens {\ldots}}
+% {}
+% {}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0412-00441pt}
+% {{\ldots} in allen 4 Quadranten}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0420-00441pt}
+% {Beckenkompression}
+% {./images/ASBOE-Grassl-gjh-1/IMG_0426-00441pt}
+% {Abtasten des Oberschenkels}
+% {}
+% {}
+% \end{PictureSeriesWide}
+
+% TODO Grassl Foto: Die wichtigsten Schritte der STU
+
 
 
 % \begin{PictureSeriesWide}{}{Bilderserie: \EE{Traumacheck}.

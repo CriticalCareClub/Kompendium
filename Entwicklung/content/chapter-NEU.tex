@@ -14,7 +14,7 @@ neurologischen Erkrankungen sind sehr vielfältig. }
   \item[Maintainer:] Sebastian Gabriel
   \item[Autoren:] Diverse
   \item[Reviewer:] Standard-Reviewprozess
-  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[Version:] {\VarDocVersionTypeName} ({\VarDocVersionTypeDescription})
   \item[SHA1:] {\DocGitCommit}
 \end{description}
 
@@ -26,9 +26,6 @@ neurologischen Erkrankungen sind sehr vielfältig. }
 \noindent Die folgende Übersicht nennt einige
 Beispiele für Ursachen neurologischer Störungen, ohne
 Anspruch auf Vollständigkeit:
-
-\begin{WidePar}
-\begin{multicols}{2}
 \begin{itemize}
   \item \E{Schlaganfall}
   \item \E{Vergiftungen} können fast alles verursachen, inkl.
@@ -48,11 +45,9 @@ Anspruch auf Vollständigkeit:
   Nervensystem in Mitleidenschaft gezogen werden, z.\,B. bei
   Bandscheibenvorfällen
 \end{itemize}
-\end{multicols}
-\end{WidePar}
 
 \clearpage
-\Layout{2}{{\TxQuerverweise}}{%
+\Text{{\TxQuerverweise}}{%
 \begin{itemize}
   \item Infektiöse (bakterielle) Meningitis: \dotfill
   \FullPrettyRef{topic:meningitis}
@@ -75,7 +70,7 @@ Anspruch auf Vollständigkeit:
 
 % \Definition{Siehe Arten.}
 
-\Layout{0}{Arten}
+\TextSlide{Arten}
 {%
 Grundsätzlich gibt es 2 Formen, die aber vor Ort nicht
 unterschieden werden können:
@@ -97,7 +92,9 @@ unterschieden werden können:
 
 }{}{}{}
 
-\Layout{0}{TIA}
+% TODO Anamnese Insult vor Stroke-Anmeldung
+
+\TextSlide{TIA}
 {%
 \index{TIA}
 \index{Transitorisch-Ischämische Attacke}
@@ -110,7 +107,6 @@ jedem anderen Schlaganfall zu behandeln.
 \bigskip
 }
 {
-% TODO MED: Slide fehlt!
 \begin{itemize}
   \item Transitorisch-Ischämische Attacke.
   \item Symptome <\,24\Hour*.
@@ -119,7 +115,7 @@ jedem anderen Schlaganfall zu behandeln.
 }{}{}{}
 
 
-\Layout{0}{\TxSymptome}
+\TextSlide{\TxSymptome}
 {%
 \label{topic:hirndruckzeichen}
 Die diversen \EE{Funktionsareale}
@@ -193,12 +189,12 @@ sein.  Typische Störungen sind:
   Hirnblutungen verursacht, auch z.\,B. beim \Z{Hirnödem}
   oder Schädel-Hirn-Trauma (\Abk{SHT}) können sie
   vorliegen.}
-  \item \added{\EE{Blutdruck}: Der Blutdruck ist in der
+  \item \EE{Blutdruck}: Der Blutdruck ist in der
       Akutsituation in der Regel erhöht und sinkt spontan
       innerhalb der nachfolgenden Stunden. Es wird allgemein
       empfohlen Blutdruckwerte bis \RRmmHg{220}{120} zu
       tolerieren, wenn nicht cardiopulmonale Gründe (Myocardischämie,
-      Herzinsuffizienz, \ldots) andere Grenzwerte erfordern.} 
+      Herzinsuffizienz, \ldots) andere Grenzwerte erfordern.
 \end{itemize}
 
 Präklinisch kann man nicht sicher zwischen einer Ischämie
@@ -228,12 +224,12 @@ Je nach betroffener Hirnregion sehr unterschiedlich.
 }{}{}{}
 
 
-\Layout{0}{Differentialdiagnose}
+\TextSlide{Differentialdiagnose}
 {
 Die wichtigste Differentialdiagnose ist eine Störung des
 \EE{Blutzucker}-Stoffwechsels. Sowohl die Hyper-, als auch
-die Hypoglykämie können \replaced{auch fokalneurologische Symptome verursachen
-  und einen Schlaganfall vortäuschen}{neurologische Symptome auslösen}, daher
+die Hypoglykämie können auch fokalneurologische Symptome verursachen
+  und einen Schlaganfall vortäuschen, daher
 muss der Blutzucker immer gemessen werden!
 Ebenso ist immer
 an \EE{Vergiftungen} zu denken.
@@ -247,17 +243,28 @@ möglich.
   \item Sonstige neurologische Erkrankung.
   \item Vergiftungen
 \end{itemize}
+}
+
+\TextSlide{Spezielle Anamnese}
+{%
+Vor Anmeldung zu einer Stroke-Unit müssen folgende
+Informationen erhoben worden sein:
+
+\begin{itemize}
+  \item Zeitpunkt des Auftretens der Symptome
+  \item 
+\end{itemize}
+
+}{
+\begin{itemize}
+  \item 
+\end{itemize}
 
 }{}{}{}
 
-\MassnahmenMK{Spezielle
-Maßnahmen}{Insult}{m:insult}
-{\EE{Taktik}: \Speech{\Ca{Vitale Bedrohung!}
-Zeitkritisch (>>\EE{Time is brain.}<<):
-Vitalfunktionen sichern, rascher Transport an eine geeignete Abteilung.}
-
-Achtung: Ausnahme bei der Notarzt-Nachforderung
-}{}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Insult
+\ProcedurePrintDefault{NI64XX0C}
 
 
 \section{Vom Gehirn ausgehende Krämpfe -- Zerebrale Krampfanfälle}
@@ -267,7 +274,7 @@ Achtung: Ausnahme bei der Notarzt-Nachforderung
 
 
 
-\Layout{0}{{\TxBeschreibung} und Einteilung}
+\TextSlide{{\TxBeschreibung} und Einteilung}
 {%
 \DefinitionInPara{Bei vom Gehirn ausgehenden motorischen Krampfanfällen
 kommt es zur unkontrollierten Entladung von Nervenzellen im Gehirn zu Krämpfen der 
@@ -311,7 +318,7 @@ einteilen:
 \end{itemize}
 }{}{}{}
 
-\Layout{2}{Ursachen}
+\Text{Ursachen}
 {%
 Für zerebrale Anfälle gibt es eine Reihe von
 unterschiedlichen Ursachen die direkt oder indirekt das
@@ -345,7 +352,7 @@ Ursachen und Grunderkrankungen sind im Folgenden aufgeführt:
 
 
 
-\Layout{2}
+\Text
 {Fokaler Anfall}
 {%
 \index{Krampfanfall!fokaler}
@@ -363,7 +370,7 @@ Unglück}} genannt.}}
 {}
 {}
 
-\Layout{0}
+\TextSlide
 {Generalisierter Anfall}
 {%
 \index{Krampfanfall!generalisierter}
@@ -441,7 +448,7 @@ unbedingt notwendig!
 {}
 
 
-\Layout{0}{Status Epilepticus}
+\TextSlide{Status Epilepticus}
 {\index{Status!epilepticus}
 Der Status Epilepticus ist eine
 lebensgefährliche Steigerung
@@ -465,83 +472,14 @@ den das Personal selber miterlebt, als Status-Verdächtig.}}
 
 
 
-\MassnahmenMK{Spezielle Maßnahmen}{Krampfender
-Patient}{m:zerebraler-krampfanfall-bestendend}{\Ca{Vitale Bedrohung!}
-\Speech{Verletzungen vermeiden,
-Vitalfunktionen sichern, Abklären ob Status epilepticus
-besteht, Klärung des Herganges (Fremdanamnese!),
-Differentialdiagnosen abklären}
-}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Krampfender Patient
+\ProcedurePrintDefault{NR56081C}
 
-\MassnahmenMK{Spezielle Maßnahmen}{Nicht-(mehr) krampfender
-Patient}{m:zerebraler-krampfanfall-status-post}
-{Neuerlicher Krampfanfall möglich!
 
-\Speech{Abklären ob Status epilepticus
-besteht, Klärung des Herganges (Fremdanamnese!),
-Differentialdiagnosen abklären}
-}
-% \MassnahmenNG{Spezielle Maßnahmen}{Krampfender
-% Patient}{\label{m:zerebraler-krampfanfall-bestendend}}{ NACA
-% \VonBis{II}{V}:
-% \Ca{Vitale Bedrohung!}
-% 
-% \EE{Taktik}: \Speech{Verletzungen vermeiden,
-% Vitalfunktionen sichern, Abklären ob Status epilepticus
-% besteht, Klärung des Herganges (Fremdanamnese!),
-% Differentialdiagnosen abklären}
-% 
-% \begin{itemize}
-%   \item \TxMassVitBes
-%   \begin{itemize}
-%     \item Lagerung: sichern. In der Nachschlafphase stabile
-%     Seitenlage
-%     \begin{itemize}
-%       \item Patient vor Verletzungen schützen, Möbel etc. entfernen oder polstern
-%       \item NICHT festhalten -- aber sichern, Eigenschutz
-%       beachten!\footnote{\textbf{Sichern}: Patient darf
-%       nicht von der Trage oder aus dem Bett fallen, der Kopf
-%       darf nicht am Boden oder Tischbein anschlagen, etc.}
-%     \end{itemize}
-%   \end{itemize}
-%   \item Besondere Diagnostik:
-%   \begin{itemize}
-%     \item Neurocheck inkl. Messung des \EE{Blutzuckers}!
-%     \item Traumacheck
-%     \item Nach \E{jedem Krampanfall}: Einschätzungsblock
-%     (\FullPrettyRef{m:einschaetzungsblock}) inkl.
-%     Trauma-Untersuchungen
-%   \end{itemize}
-%   \item Reizabgeschirmter Transport
-%   \item Transportentscheidung: Abt.f. Innere Medizin. (evtl. auch
-%   Intensivüberwachung)
-% \end{itemize}
-% }
-% 
-% \MassnahmenNG{Spezielle Maßnahmen}{Nicht-(mehr) krampfender
-% Patient}{\label{m:zerebraler-krampfanfall-status-post}}{
-% NACA \VonBis{II}{III}, neuerlicher Krampfanfall möglich!
-% 
-% \EE{Taktik}: \Speech{Abklären ob Status epilepticus
-% besteht, Klärung des Herganges (Fremdanamnese!),
-% Differentialdiagnosen abklären}
-% \begin{itemize}
-%   \item Umstände klären und entscheiden ob \EE{Notarzt}
-%   notwendig ist:
-%   \begin{itemize}
-%     \item 2 oder mehr Krampfanfälle innerhalb von 24 Stunden
-%     \item Anfälle \enquote{erheblich anders} als sonst üblich
-%     \item Erster Krampfanfall überhaupt
-%   \end{itemize}
-%   \item Besondere Diagnostik:
-%   \begin{itemize}
-%     \item Neurocheck inkl. Messung des \EE{Blutzuckers}!
-%     \item Traumacheck
-%   \end{itemize}
-%   \item Reizabgeschirmter Transport
-%   \item Transportentscheidung: Abt.f. Innere Medizin.
-% \end{itemize}
-% }
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Nicht-(mehr) krampfender Patient
+\ProcedurePrintDefault{NR56082C}
 
 
 \subsection{Besondere Krampfanfälle}
@@ -575,7 +513,7 @@ von den Eltern gegeben).
 
 
 
-\Layout{0}{Eklamptischer Krampfanfall während der Schwangerschaft}
+\TextSlide{Eklamptischer Krampfanfall während der Schwangerschaft}
 {%
 In Folge einer Präeklampsie (EPH-Gestose)
 kann es zu einem sog. \E{eklamptischen Krampfanfall}
@@ -597,7 +535,7 @@ besprochen.
 \HeadingSub{\Z{(Discusprolaps)}} 
 \label{topic:lumbago}
 
-\Layout{0}{\TxSymptome}{%
+\TextSlide{\TxSymptome}{%
 Verschiedene Ursachen wie z.\,B. eine Nervenreizung, ein
 Bandscheibenvorfall (siehe unten), Erkrankungen der Wirbelsäule oder ein Unfall
 können zu einem Druck auf den \E{Ischias-Nerv} führen, 
@@ -631,7 +569,7 @@ betroffen.
 % Entzündung oder durch Reizung bzw. Kompression des Nervs
 % oder seiner Wurzeln verursacht werden können.
 % 
-% \Layout{0}{Ursachen}{%
+% \TextSlide{Ursachen}{%
 % können eine Reizung bzw. Druck
 % im Bereich der Lendenwirbel bzw. der Kreuzbeinwirbel,
 % ein Bandscheibenvorfall, sowie andere Erkrankungen der Wirbelsäule, aber auch
@@ -650,7 +588,7 @@ betroffen.
 % \end{compactitem}
 % }{}{}{}
 % 
-% \Layout{0}{\TxSymptome}{%
+% \TextSlide{\TxSymptome}{%
 % Das Leitsymptom sind Schmerzen in der Lendengegend, die in
 % das betroffene Bein bis zum Fußaußenrand ausstrahlen,
 % Schonhaltung, lokale Druck- und Klopfempfindlichkeit der

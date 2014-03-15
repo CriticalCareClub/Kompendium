@@ -8,7 +8,7 @@
 [\CC{[ASS]} Assistenztätigkeiten]
 {Assistenztätigkeiten}
 % \AasRsN{RS~XIII}
-\label{chp:SAN}
+\label{chp:ASS}
 
 \ChapterIntro
 {%
@@ -18,8 +18,8 @@
 \begin{description}
   \item[Maintainer:] Diverse
   \item[Autoren:] Diverse
-  \item[Reviewer:] --
-  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[Reviewer:] Standard-Reviewprozess
+  \item[Version:] {\VarDocVersionTypeName} ({\VarDocVersionTypeDescription})
   \item[SHA1:] {\DocGitCommit}
 \end{description}
 
@@ -27,7 +27,7 @@
 }
 
 
-\Layout{2}{Special Credits}{%
+\Text{Special Credits}{%
 \noindent Teile des Textes und der Handlungsanleitungen sind
 in Zusammenarbeit mit dem \emph{Department für medizinische
 Aus- und Weiterbildung -- Medizinische Universität Wien,
@@ -48,19 +48,17 @@ Alexander Blacky und deren Team für die Unterstützung!
 
 
 
-
-
 \clearpage
 \section{Arbeiten mit  Medikamenten}
 
 \subsection{Allgemeines zu Medikamenten}
 
-\Layout{2}
+\Text
 {Wirkstoff, Dosis, Konzentration}
 {Bei Medikamenten wird normalerweise die Menge des
 Wirkstoffes (z.\,B. in \Mg) angegeben. Manchmal erfolgt die
 Angabe auch in anderen Einheiten, wie z.\,B. den
-\I{Internationelen Einheiten} (\I{IE}). Bei Ampullen findet sich außerdem auch eine Volumsangabe.
+\I{Internationalen Einheiten} (\I{IE}). Bei Ampullen findet sich außerdem auch eine Volumsangabe.
 Aus der Angabe der Wirkstoffmenge und des Volumens kann man
 die Konzentration berechnen.
 
@@ -104,10 +102,9 @@ Trockenstechampulle & 4000 IE						&						&														& Heparin
 %   \item Trockenstechampulle mit Wirkstoff 4000 IE
 % \end{itemize}
 
-Manche Medikamente können auch zur besseren Dosierung
+Viele Medikamente können auch zur besseren Dosierung
 mit \EE{geeigneten Substanzen} (siehe
 Packungsbeilage) verdünnt werden:
-
 \begin{itemize}
   \item Ampulle mit Wirkstoff 15\Mg* in 3\Ml* 
   {\dotfill} Konzentration 5\,\nicefrac{\Mg}{\Ml}
@@ -117,21 +114,53 @@ Packungsbeilage) verdünnt werden:
   {\dotfill} Konzentration 1\,\nicefrac{\Mg}{\Ml}
 \end{itemize}
 
-\Cave{Medikamente sind oft auch mit \EE{gleichem Namen} in 
-unterschiedlichen Konzentrationen erhältlich 
-(z.\,B. Dormicum{\texttrademark}, Ketanest{\texttrademark}).}
-\Fazit{Beim Zubereiten bzw. Aufziehen von Medikamenten muss 
-man sehr genau auf die Wirkstoffmenge, das Volumen und die 
-Konzentration achten.}
+Manche Medikamente liegen als \I{Trockensubstanz} in einer
+\I{Trockenstechampulle} vor, welche vor Verwendung erst mit
+einem \EE{geeigneten} Lösungsmittel aufgelöst werden muss.
+Das erforderliche Lösungmittel ist vom Medikament abhängig.
+Bei Verwendung eines falschen Lösungsmittel kann es z.\,B.
+zu Ausflockungen, Wirkminderungen o.\,ä. kommen, das
+Medikament ist damit verdorben und darf keinesfalls
+verwendet werden.
+
 }
 {}
 {}
 {}
 {}
 
+\Cave{Medikamente sind oft auch mit \EE{gleichem Namen} in 
+unterschiedlichen Konzentrationen erhältlich 
+(z.\,B. Dormicum{\texttrademark}, Ketanest{\texttrademark}).}
+\Fazit{Beim Zubereiten bzw. Aufziehen von Medikamenten muss 
+man sehr genau auf die Wirkstoffmenge, das Volumen und die 
+Konzentration achten.}
+\Fazit{Beim Auflösen oder Verdünnen von Medikamenten muss 
+darauf geachtet werden, eine geeignete Flüssigkeit zu verwenden!}
+
+% \begin{PictureSeriesWide}{}{Bilderserie: Medikamente \SourcePicture{ASBÖ/gjh}}
+% \PictureSeriesRowWide{3}
+% % {./images/ASBOE-Grassl-gjh-1/Medikamente0395_0197-00441pt}
+% % {L-Adrenalin \enquote*{Fresenius\texttrademark} 2\Mg* 20\Ml* Ampulle. 
+% % Seitlich ist ein roter Punkt angebracht, welcher die Sollbruchstelle anzeigt.}
+% {./images/ASBOE-Grassl-gjh-1/suprarenin-freigestellt-borderadded-00441pt}
+% {Suprarenin{\texttrademark}-Ampulle
+% (1\Mg* Adrenalin in 1\Ml*, dieses Medikament wird oft vor Gebrauch verdünnt);
+% Der Punkt zeigt die Sollbruchstelle an.}
+% {./images/ASBOE-Grassl-gjh-1/Medikamente0422_0224-00441pt}
+% {Beispiel für eine Trockenstechampulle: 
+% Solu-Dacortin{\texttrademark} 250\Mg* Trockenstechampulle: 
+% \enquote{Zur Injektion nach Auflösen in 5\Mg* Aqua ad injectionem}}
+% {./images/ASBOE-Grassl-gjh-1/Medikamente0405_0207-00441pt}
+% {Eine Infusionsflasche zur Kurzinfusion mit Glukose 33\PC}
+% {}
+% {}
+% \end{PictureSeriesWide}
+
+% TODO Grassl Foto: Bilderserie Medikamente
 
 \subsection{Verabreichungsarten}
-% \Layout{0}{\TxBeschreibung}{
+% \TextSlide{\TxBeschreibung}{
 Es gibt verschiedene Arten Medikamente zu verabreichen. Dies
 kann entweder \II{invasiv} (verletzend) oder
 \II{nicht-invasiv} sein. 
@@ -143,7 +172,7 @@ kann entweder \II{invasiv} (verletzend) oder
 % }
 % {}{}{}
 
-\Layout{0}{Invasiv}{%
+\TextSlide{Invasiv}{%
 \index{Injektion!intravenöse}%
 \index{Injektion!intramuskuläre}%
 \index{Injektion!subkutane}%
@@ -187,7 +216,7 @@ Die gängigen Injektionsarten sind:
 
 }{}{}
 
-\Layout{0}{Nicht invasiv}{
+\TextSlide{Nicht invasiv}{
 Bei der nicht invasiven Verabreichung wird das Medikament
 über eine Schleimhaut oder direkt über die Haut aufgenommen.
 Für die \II{orale} Aufnahme muss das Arzneimittel geschluckt
@@ -208,7 +237,7 @@ auf die Haut aufgetragen und aufgenommen.
 % \clearpage
 \subsection{Aufziehen eines Medikamentes aus einer Ampulle}
 
-\Layout{2}{\TxBeschreibung}{Glasmpullen lassen sich
+\Text{\TxBeschreibung}{Glasmpullen lassen sich
 unterschiedlich öffnen:
 Ampullen mit einem \EE{roten Punkt} haben eine
 \E{Sollbruchstelle}, der Daumen muss beim Aufbrechen auf dem
@@ -220,7 +249,7 @@ kommen.
 }{}{}{}{}
 
 \begin{ProcedureStepsNoHeading}
-\Layout{2}{Material}{
+\Text{Material}{
 \begin{compactitem}
   \item Spritze, passende Größe
   \item Kanüle(n) 
@@ -233,7 +262,7 @@ kommen.
 \end{ProcedureStepsNoHeading}
 
 % \begin{multicols}{2}
-% \Layout{2}{Vorgehen}{
+% \Text{Vorgehen}{
 \begin{ProcedureStepsWide}{Vorgehen}
 \begin{enumerate}\CorrectionItemizeBox
   \item Verschlossene \StepHeading{Ampulle vorzeigen} bevor sie geöffnet wird.
@@ -315,7 +344,7 @@ Ampulle aufziehen} \SourcePicture{Motal}}
 \label{topic:infusion}
 
 \begin{ProcedureStepsNoHeading}
-\Layout{2}{Material}{%
+\Text{Material}{%
 \Married{
 \begin{compactitem}
     \item Infusion (Flasche, Beutel)
@@ -376,7 +405,7 @@ Arbeitsweise gelegt werden!]{Vorgehen}
 \section{Venenverweilkanüle: Assistenz}
 \label{topic:venflon}
 
-\Layout{0}{\TxBeschreibung}{
+\TextSlide{\TxBeschreibung}{
 % (\enquote{Venflon}): Vorbereitung und Assistenz 
 Periphere Venenverweilkanülen werden routinemäßig zur
 intravenösen Gabe von Medikamenten bzw. Infusionen
@@ -462,7 +491,7 @@ orange 	& Noch dicker	& \Z{14} 	&\Z{1,6 x 2,1} 	& \Z{42}
 \begin{ProcedureStepsNoHeading}
 % \clearpage
 % \begin{multicols}{2}
-\Layout{2}{Material}{
+\Text{Material}{
 \begin{compactitem}
   \item Nierentasse
   \item Staubinde
@@ -495,7 +524,7 @@ orange 	& Noch dicker	& \Z{14} 	&\Z{1,6 x 2,1} 	& \Z{42}
 
 \begin{ProcedureStepsNoHeading}
 % \begin{multicols}{2}
-\Layout{2}{Assistenz}{
+\Text{Assistenz}{
 \begin{enumerate}
   \item Ggfs. \StepHeading{3-Wege-Hahn spülen}
   \begin{itemize}

@@ -1,7 +1,7 @@
 \def\ChapterCode{JUS}
 \chapter
-[\CO{[JUS]} Rechtliche Grundlagen]
-{Rechtliche Grundlagen}
+[\CO{[JUS]} Rechtliche Grundlagen (.at)]
+{Rechtliche Grundlagen (.at)}
 \label{chp:JUS}
 % \AasRsN{RS~III}
 
@@ -22,7 +22,7 @@ lösen.
   \item[Maintainer:] Christof Koller
   \item[Autoren:] Christof Koller et. al.
 %   \item[Reviewer:] --
-  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[Version:] {\VarDocVersionTypeName} ({\VarDocVersionTypeDescription})
   \item[SHA1:] {\DocGitCommit}
 \end{description}
 
@@ -55,7 +55,7 @@ lösen.
 %\begin{tabular}{| p{2.2cm} | p{2.2cm} p{2.2cm} p{2.2cm} | p{2.2cm} p{2.2cm}
 % |}\toprule
 
-\Layout{0}{\TxBeschreibung}{
+\TextSlide{\TxBeschreibung}{
 \begin{table}[H]
 \TableBaseModification
 \Captionof{table}{Rechtsordnung}
@@ -125,7 +125,7 @@ Rechts\-ge\-bieten in folgende Bereiche unterteilen:
 \end{itemize}
 }{}{}{}
 
-\Layout{2}{Öffentliches Recht}
+\Text{Öffentliches Recht}
 {%
 \begin{itemize}
     \item \T{Strafrecht}: Erfasst jene Delikte, die
@@ -139,9 +139,10 @@ Rechts\-ge\-bieten in folgende Bereiche unterteilen:
     
     \item \T{Verwaltungsrecht}: Umfasst Regelungen
     die sich idR. nur an bestimmte Personenkreise richten
-    und von Verwaltungsbehörden (nicht von Gerichten) bei
-    Verstoß insofern sanktioniert werden, dass (vorrangig)
-    Geldstrafen verhängt werden.
+    und von Verwaltungsbehörden (in 1. Instanz) und
+    von Verwaltungsgerichten (in 2. Instanz)
+    bei Verstoß insofern sanktioniert werden, dass
+    (vorrangig) Geldstrafen verhängt werden.
     
     \item \T{Verfassungsrecht}: Jener Teil der
     Rechtsordnung, der die grundlegenden Bestimmungen über
@@ -155,7 +156,7 @@ Rechts\-ge\-bieten in folgende Bereiche unterteilen:
 
 
 
-\Layout{2}{Privatrecht}
+\Text{Privatrecht}
 {%
 \begin{itemize}
     \item \T{Zivilrecht}: Enthält jene allgemeinen Normen,
@@ -175,7 +176,7 @@ Rechts\-ge\-bieten in folgende Bereiche unterteilen:
 \end{itemize}
 }{}{}{}{}
 
-\Layout{2}{Zugang zu den Gesetzestexten}
+\Text{Zugang zu den Gesetzestexten}
 {Die Gesetzestexte können im Internet vom Rechtsinformationssystem des Bundes
 (RIS) unter der URL \url{http://www.ris.bka.gv.at/} abgerufen werden.
 
@@ -187,7 +188,7 @@ Rechts\-ge\-bieten in folgende Bereiche unterteilen:
 
 
 
-\Layout{0}{\TxBeschreibung}{%
+\TextSlide{\TxBeschreibung}{%
 \begin{figure}[H]
 %     \AuthNotes{KOLC: Graphik gehört rotiert.
 %
@@ -304,7 +305,7 @@ Umgang miteinander.
 
 
 
-\Layout{1}{Voraussetzungen}
+\TextSlide{Voraussetzungen}
 {Damit es zur Strafbarkeit
 (Strafrecht) und/oder zur Haftbarkeit (Zivilrecht, Schadenersatz) für eine
 gesetzte Handlung kommt, müssen die folgenden
@@ -386,13 +387,10 @@ entgangenen Gewinn oder realen/ideellen Schaden).
     \end{compactitem}  
 \end{enumerate}
 }
-{}
-{}
-{}
 
 
 
-\Layout{2}{Fallbeispiele}
+\Text{Fallbeispiele}
 {
 \begin{itemize}
   \item Fall 13: Sachbeschädigung
@@ -470,7 +468,7 @@ notwendige Heilbehandlung handelt, muss das
 Pflegschaftsgericht angerufen werden
 
 
-\Layout{2}{Fallbeispiele}
+\Text{Fallbeispiele}
 {
 \begin{itemize}
   \item Fall 4: 
@@ -550,6 +548,8 @@ geltendmachbaren Ansprüchen des Patienten.
   beigelegtes Dokument)
   \item Unterschrift des Patienten (oder seines zuständigen
   Vertreters)
+  \item Nur unter vorhergehender Beiziehung eines 
+  Arztes
 \end{itemize}
 
 Verweigert der Patient die Unterschriftsleistung, so ist die
@@ -597,10 +597,23 @@ aufgelistet und gegenübergestellt.
 
 
 
-\begin{table}[H]\TableBaseModification\begin{WidePar}
-\Captionof{table}{\EE{Notwehr} und
-\EE{Notwehrüberschreitung} im Affekt\label{tab:notwehr-notwehrueberschreitung}}
 
+% \TableWide
+% 	{<Titel>}%1
+% 	{<Beschreibung>}%2
+% 	{<Label>}%3
+% 	{<Quelle>}%4
+% 	{<Lizenz>}%5
+% 	{<Tabelle>}%6
+% 	{<Float>}%8
+\TableWide
+{\EE{Notwehr} und
+\EE{Notwehrüberschreitung} im Affekt}%1
+{}%2
+{\label{tab:notwehr-notwehrueberschreitung}}%3
+{Koller}%4
+{}%5
+{%
 \begin{minipage}{\linewidth}
 \begin{tabularx}{\linewidth}{XX}\toprule\addlinespace
 \noindent\II{Notwehr}
@@ -664,6 +677,8 @@ Affekt} \\\addlinespace\midrule\addlinespace
   zur verlässlichen Abwehr verfügbaren Mittel)
   \item Zurechnungsprinzip (= richtet sich gegen den
   Angreifer)
+  \item Die Annahme einer Notwehrsituation erfolgte bloß
+  fahrlässig
 \end{itemize}
 % \end{minipage}
 &
@@ -678,15 +693,26 @@ Affekt} \\\addlinespace\midrule\addlinespace
 \\\addlinespace\bottomrule
 \end{tabularx}
 \end{minipage}
-\end{WidePar}
-\end{table}
+}%6
+{H}%8
 
 
-
-
-\begin{table}[H]\TableBaseModification\begin{WidePar}
-\Captionof{table}{Rechtfertigender und
-entschuldigender \EE{Notstand}\label{tab:notstand}}
+% \TableWide
+% 	{<Titel>}%1
+% 	{<Beschreibung>}%2
+% 	{<Label>}%3
+% 	{<Quelle>}%4
+% 	{<Lizenz>}%5
+% 	{<Tabelle>}%6
+% 	{<Float>}%8
+\TableWide
+{Rechtfertigender und
+entschuldigender \EE{Notstand}}%1
+{}%2
+{\label{tab:notstand}}%3
+{Koller}%4
+{}%5
+{%
 \begin{minipage}{\linewidth}
 \begin{tabularx}{\linewidth}{XX}\toprule\addlinespace
 \noindent\II[Notstand!rechtfertigender]{Rechtfertigender Notstand} 
@@ -749,15 +775,27 @@ Notstand} \\\addlinespace\midrule\addlinespace
 \end{itemize}
 \\\addlinespace\bottomrule
 \end{tabularx}
-\end{minipage}\end{WidePar}
-\end{table}
+\end{minipage}
+}%6
+{H}%8
 
 
-
-\begin{table}[H]\TableBaseModification\begin{WidePar}
-\Captionof{table}{\EE{Anhalterecht}
-Privater\label{tab:anhalterecht-privater}}
-
+% \TableWide
+% 	{<Titel>}%1
+% 	{<Beschreibung>}%2
+% 	{<Label>}%3
+% 	{<Quelle>}%4
+% 	{<Lizenz>}%5
+% 	{<Tabelle>}%6
+% 	{<Float>}%8
+\TableWide
+{\EE{Anhalterecht}
+Privater}%1
+{}%2
+{\label{tab:anhalterecht-privater}}%3
+{}%4
+{}%5
+{%
 \begin{minipage}{\linewidth}
 \begin{tabularx}{\linewidth}{X}\toprule\addlinespace
 \noindent\II{Anhalterecht Privater}
@@ -792,10 +830,10 @@ Privater\label{tab:anhalterecht-privater}}
 \\\addlinespace\bottomrule
 \end{tabularx}
 \end{minipage}
-\end{WidePar}
-\end{table}
+}%6
+{H}%8
 
-\Layout{2}{Fallbeispiele}
+\Text{Fallbeispiele}
 {
 \begin{itemize}
   \item Fall 1: Randalierender Patient
@@ -855,7 +893,7 @@ Abteilung erfolgen!}
 
 
 
-\Layout{2}{Unterbringung ohne Verlangen}
+\Text{Unterbringung ohne Verlangen}
 {%
 Eine Person darf gegen oder ohne ihren Willen nur dann in
 eine psychiatrische Abteilung gebracht werden, wenn ein im
@@ -918,7 +956,7 @@ wahren.\footnote{{\S}\,1~Abs.\,1 UbG}}
 
 
 
-\Layout{2}{Unterbringung mit Verlangen}
+\Text{Unterbringung mit Verlangen}
 {
 Eine Unterbringung \EE{kann auch freiwillig}, d.\,h. auf
 Wunsch des Patienten erfolgen. Da dann auch der Transport
@@ -930,7 +968,7 @@ keine besonderen Bestimmungen zu beachten.
 {}
 {}
 
-\Layout{2}{Fallbeispiele}
+\Text{Fallbeispiele}
 {
 \begin{itemize}
   \item Fall 1: Randalierender Patient
@@ -986,24 +1024,23 @@ z.\,B.:
 Der Begriff der \T{Heilbehandlung} wird aus allgemeinen
 Rechtsgrundsätzen und systematischer Betrachtung der
 gesamten Rechtsordnung gewonnen.
-
-Es müssen folgende \EE{Voraussetzungen} vorliegend, damit
+Es müssen folgende \EE{Voraussetzungen} vorliegen, damit
 eine Handlung als Heilbehandlung gilt:
-\begin{itemize}
+\begin{enumerate}
     \item Medizinische Indikation (zur
     Diagnose oder Linderung von Erkrankungen und/oder
     Verletzungen notwendig)
     \item Durchführung ist lege artis (entspricht dem
     geltenden Stand der Wissenschaft)
-    \item Aufklärung und Einwilligung des Patienten (vgl.
+    \item Aufklärung und Einwilligung des Patienten (sofern einsichts- und urteilsfähig; vgl.
     \FullPrettyRef{topic:jus-fall-aufklaerung})
-\end{itemize}
+\end{enumerate}
 
 Sobald diese Voraussetzungen vorliegen, wird eine
 Heilbehandlung, auch wenn sie Einwirkung auf den Körper
 des Patienten nimmt, als gerechtfertigt angesehen. 
 Werden die Voraussetzungen der Heilbehandlung hingegen nicht
-eingehalten, macht man sich u.\,U. straf- bzw-
+eingehalten, macht man sich u.\,U. straf- bzw.
 haftbar\ZFootnote{\begin{inparaenum}
   \item \EE{Strafrecht}:
   \begin{inparaenum}
@@ -1020,7 +1057,7 @@ haftbar\ZFootnote{\begin{inparaenum}
 \end{inparaenum}
 }.
 
-\Layout{2}{Eigenmächtige Heilbehandlung}
+\Text{Eigenmächtige Heilbehandlung}
 {\label{topic:eigenmächtige-heilbehandlung}
 Von einer \I{eigenmächtigen Heilbehandlung} spricht man,
 wenn der Patient in die Behandlung \E{nicht einwilligt} bzw.
@@ -1035,7 +1072,7 @@ Selbstbestimmungsrecht des Patienten zuwider läuft.
 
 } {}{}{}{}
 
-\Layout{2}{Fallbeispiele}
+\Text{Fallbeispiele}
 {
 \begin{itemize}
   \item Fall 3: Blutzuckermessung als Heilbehandlung
@@ -1062,7 +1099,7 @@ Heilbehandlung Inhalt der Verfügung sein.
 Ein auf jeden Fall \EE{unbeachtlicher Inhalt} wäre der
 Ausschluss einer Grundversorgung oder eine medizinisch
 nicht indizierte Behandlung. Genauso führen zur
-Unbeachtlichkeit ein zu
+Unbeachtlichkeit zu
 allgemeine oder widersprüchliche Formulierungen, ein
 rechtswidriger Inhalt oder erkennbare Willensmängel des
 Patienten bei Abgabe der Verfügung (nicht ernst gemeint,
@@ -1113,7 +1150,7 @@ Patientenverfügung}.
   \end{itemize}
 \end{enumerate}
 
-\Layout{2}{Suche nach Patientenverfügung}
+\Text{Suche nach Patientenverfügung}
 {
 Bei der Notfallversorgung darf die Suche nach einer
 Verfügung auf keinen Fall die Versorgung des Patienten
@@ -1154,7 +1191,7 @@ fortführen müssen.
 
 
 
-\Layout{2}{Fallbeispiele}
+\Text{Fallbeispiele}
 {
 \begin{itemize}
   \item Fall 5: Patientenverfügung
@@ -1196,7 +1233,7 @@ anzufordern. Sanitäter haben sich tätigkeitsrelevant
 fortzubilden.\ZFootnote{\S\,4~SanG} 
 
 
-\Layout{2}{Fallbeispiele}
+\Text{Fallbeispiele}
 {
 \begin{itemize}
   \item Fall 6: Unterlassen der Notarzt-Nachforderung
@@ -1225,7 +1262,7 @@ fortzubilden.\ZFootnote{\S\,4~SanG}
   \item Rezertifizierungspflicht
 \end{itemize}
 
-\Layout{2}
+\TextSlide
 {Behandlungs- bzw. Hilfeleistungspflicht}
 {
 \subparagraph{Ersthelferische Versorgungspflicht für
@@ -1294,7 +1331,7 @@ dann nicht zumutbar, wenn man \ldots
 {}
 {}
 
-\Layout{2}
+\Text
 {Dokumentationspflicht}
 {\label{topic:dokumentationspflicht}%
 \label{topic:dokumentation-rechtlich}%
@@ -1359,7 +1396,7 @@ Blatt Papier erfolgen.
 {}
 {}
 
-\Layout{2}
+\Text
 {Verschwiegenheitspflicht}
 {%
 \label{topic:verschwiegenheitspflicht}
@@ -1388,7 +1425,7 @@ entbunden} hat.
 {}
 {}
 
-\Layout{2}
+\Text
 {Informationspflichten}
 {%
 
@@ -1401,7 +1438,7 @@ entbunden} hat.
   Fällen:
   \begin{itemize}
     \item   Wenn es zur Behandlung des Patienten dient
-    \item   Wenn es gesetzlichen vorgeschrieben ist (z.\,B. im
+    \item   Wenn es gesetzlich vorgeschrieben ist (z.\,B. im
     Gerichtsverfahren als Zeuge)
     \item Zum Schutz von höherwertigen Interessen der
     öffentlichen Gesundheitspflege oder Rechtspflege
@@ -1426,12 +1463,12 @@ entbunden} hat.
   Gesetz oder eine Verordnung, wobei als zentrale rechtliche
   Bestimmungen folgende Normen gelten:\Z{
   \begin{itemize}
-    \item \I{Epidemiegesetz}: Bei bloßen Verdacht oder
+    \item \I{Epidemiegesetz}: Bei bloßem Verdacht oder
     sicherer Diagnose einer im Gesetz genannten Erkrankung.
-    \item \I{Tuberkulosegesetz}: bei bloßen Verdacht auf
+    \item \I{Tuberkulosegesetz}: Bei bloßem Verdacht auf
     eine Erkrankung die mit Sicherheit oder
     Wahrscheinlichkeit durch Tuberkulosebakterien verursacht
-    wurde
+    wurde.
    \item \I{Geschlechtskrankheitengesetz}: nur bei
    Befürchtung, dass sich die Krankheit weiterverbreiten
    würde oder sich der Patient einer Heilbehandlung
@@ -1443,7 +1480,8 @@ entbunden} hat.
    Krankheiten\footnote{s.
    \prettyref{topic:aids}}.
    Es gibt \E{keine} Untersuchungs- oder Behandlungspflicht,
-   daher darf kein behördlicher Zwang ausgeübt werden \item
+   daher darf kein behördlicher Zwang ausgeübt werden. 
+   \item
    nach \EE{Verordnungen} des Gesundheitsministerium:
    Da sich ständig neue übertragbare Krankheiten\footnote{in
    letzter Zeit z.\,B.
@@ -1454,12 +1492,12 @@ entbunden} hat.
   \end{itemize}
   
   Nicht jeder Durchschnittsbürger ist zur Meldung
-  verpflichtet, sondern nur besondere Personengruppen
+  verpflichtet, sondern nur besondere Personengruppen,
   worunter aber alle Gesundheitsberufe fallen.
   
-  Die Meldung hat bei AIDS an das Bundesministerium für
-  Gesundheit zu ergehen, ansonsten an die zuständige
-  Bezirksverwaltungsbehörde (in Wien an die MA\,15).
+  Die Meldung hat an die zuständige
+  \EE{Bezirksverwaltungsbehörde} (in Wien an die MA\,15), bei AIDS an das Bundesministerium für
+  Gesundheit, zu ergehen.
   }
   \item \T{Anzeigepflicht}:\label{topic:anzeigepflicht}
   Nur bestimmte Personengruppen sind dazu verpflichtet bei Kenntnis über
@@ -1514,7 +1552,7 @@ entbunden} hat.
 {}
 {}
 
-\Layout{0}
+\TextSlide
 {Fortbildungspflicht}
 {\label{topic:fortbildungspflicht}
 Die Fortbildungspflicht für Sanitäter ist unter zwei
@@ -1571,7 +1609,7 @@ fortbilden.
 {}
 {}
 
-\Layout{0}
+\TextSlide
 {Rezertifizierungspflicht}
 {\label{topic:rezertifizierungspflicht}%
 {\ldots} besteht nach dem SanG\ZFootnote{{\S}\,51
@@ -1601,7 +1639,7 @@ Jahre Rahmens einmal über die Intubation prüfen lassen.
 {}
 
 
-\Layout{2}{Fallbeispiele}
+\Text{Fallbeispiele}
 {
 \begin{itemize}
   \item Fall 9: Dokumentationspflicht
@@ -1668,7 +1706,7 @@ Jahre Rahmens einmal über die Intubation prüfen lassen.
     ein solcher anordnet.
     \item Eigenverantwortliche Betreuung von berufsspezifischen
     Medizinprodukten und Arzneimitteln
-    \item Mitarbeit in Forschung
+    \item Mitarbeit in der Forschung
 \end{itemize}
 \end{minipage}
 
@@ -1729,7 +1767,7 @@ Notfallsanitäter mit \emph{besonderer Notkompetenz Beatmung und Intubation}
 {Kompetenzstufen von Sanitätern nach dem SanG ({\S}{\S}\,\VonBis{9}{12})\label{tab:sang-kompetenzstufen}}
 {} 
 
-\Layout{2}{Fallbeispiele}
+\Text{Fallbeispiele}
 {
 \begin{itemize}
   \item Fall 7: Sanitäterkompetenzen
@@ -1770,7 +1808,7 @@ Blaulicht darf ferner auch zur Absicherung am
 Ort einer Hilfeleistung eingesetzt
 werden.\ZFootnote{{\S}\,26~StVO} 
 Wer Blaulicht oder Folgetonhorn \E{missbräuchlich}
-verwendet, macht sich gerichtlich strafbar nach dem
+verwendet macht sich gerichtlich strafbar nach dem
 \E{Bundesgesetz gegen den Missbrauch von Notzeichen}. 
 
 \subparagraph{Verhalten bei Blaulichtfahrt}
@@ -1804,7 +1842,7 @@ Fahr\-ge\-schwin\-dig\-keit als die höchst zulässige!} }
 
 \subparagraph{Exkurs: Anschnallpflicht}
 
-Der Fahrer von jedem Fahrzeuges ist dazu verpflichtet zu
+Der Fahrer jedes Fahrzeuges ist dazu verpflichtet zu
 achten, dass er und seine Passagiere angeschnallt
 sind.\ZFootnote{{\S}\,106~KFG} Es steht aber jedem Passagier
 frei zu sagen, dass er unangeschnallt mitfahren möchte,
@@ -1849,7 +1887,7 @@ bestehen.\ZFootnote{{\S}\,26a StVO}
 
 
 
-\Layout{2}{Fallbeispiele}
+\Text{Fallbeispiele}
 {
 \begin{itemize}
   \item Fall 17: Blaulichtverwendung 

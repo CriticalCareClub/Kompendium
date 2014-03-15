@@ -1,0 +1,1075 @@
+\def\ChapterCode{FORTBILDUNG}
+	\chapter
+[\CO{[FORTBILDUNG]} Fehlermanagement]
+{Fehlermanagement}
+\label{chp:ADVANCED-Fehlermanagement}
+
+\ChapterIntro
+{%
+
+}
+{%
+\begin{description}
+  \item[Maintainer:] \ldots
+  \item[Autoren:] Diverse
+  \item[Reviewer:] Standard-Reviewprozess
+  \item[Version:] {\VarDocVersionTypeName} ({\VarDocVersionTypeDescription})
+  \item[SHA1:] {\DocGitCommit}
+\end{description}
+
+{\TxTeilkapitelAASS}}
+
+
+
+\clearpage % TEMP temp clearpage
+
+
+
+[Warning: Draw object ignored][Warning: Draw object
+ignored][Warning: Draw object ignored][Warning: Draw object
+ignored][Warning: Draw object ignored][Warning: Draw object
+ignored][Warning: Draw object ignored][Warning: Draw object
+ignored][Warning: Draw object ignored][Warning: Draw object
+ignored][Warning: Draw object ignored]Eines der traurigsten
+Dinge im Leben ist,
+
+\begin{figure}
+\centering
+ [Warning: Image ignored]
+% Unhandled or unsupported graphics:
+%\includegraphics[width=153.62mm,height=92.93mm]{FehlerartikelBuch-img/FehlerartikelBuch-img001.png}
+
+\end{figure}
+dass ein Mensch viele gute Taten tun muss,
+
+um zu beweisen, dass er tüchtig ist,
+
+aber nur einen Fehler zu begehen braucht,
+
+um zu beweisen, dass er nicht taugt.
+
+George Bernard Shaw
+
+
+
+
+Fehler – Fehlermanagement - Sicherheitskultur
+
+
+
+
+\section{Einleitung}
+
+Auch wenn Organisationen eine Nullfehlerrate anstreben, so
+geschehen trotzdem Fehler. Wie nämlich die Erfahrungen in
+der Luftfahrtindustrie, der Atom- und chemischen Industrie
+aber auch auf modernen Flugzeugträgern, wo man sich seit
+Jahrzehnten damit beschäftigt, die Systeme sicherer zu
+machen, zeigen, geschehen in komplexen Systemen, beinahe
+zwanghaft Fehler, die jedoch im Einzelfall nicht unbedingt
+einen Schaden verursachen müssen. Auch die Medizin ist so
+ein komplexes System, in dem verschiedene Menschen in
+verschiedenen Berufsgruppen mit hoch komplexen, technischen
+Geräten und hoch potenten Medikamenten arbeiten.
+
+
+
+
+Die Tatsache, dass auch in der Medizin Fehler geschehen und
+gerade Ärzte und Ärztinnen nicht fehlerfrei arbeiten, wurde
+zum ersten Mal 1999 durch das Buch \enquote*{To Err Is Human} des
+Instituts of Medicine (Kohn/Corrigan et al. 1999) weltweit
+bekannt und anerkannt. Die Autoren konnten zeigen, dass
+circa vier von hundert stationären Patienten einen
+Gesundheitsschaden während der Behandlung erleiden; weiters
+konnten sie zeigen, dass von diesen Fehlern circa die
+Hälfte vermeidbar gewesen wäre. Die Autoren schätzten die
+Zahl der Todesfälle durch Fehler während der Behandlung mit
+50.000 bis 100.000 pro Jahr höher ein als die Zahl der
+Verkehrstoten in den USA in einem Jahr.
+
+
+
+
+Ähnliche Ergebnisse erbrachte bereits 1995 die Untersuchung
+\enquote*{the Quality in Australian Health Care Study}
+(Wilson/Runciman et al., 1995, 458 – 471). 16,6\% der
+Patienten waren von einem Adverse Event betroffen, der in
+51\% vermeidbar gewesen wäre. Etwa drei Viertel der
+Patienten hatten die Folgen dieses Ereignisses nach einem
+Jahr überwunden, rund fünfzehn Prozent der Patienten trugen
+bleibende Schäden davon, etwa jeder zwanzigste Patient
+verstarb an dem Ereignis.
+
+
+
+
+Diese Daten können wahrscheinlich problemlos auf die
+Situation in Österreich übertragen werden. 2008 erschien in
+\enquote*{Sozialversicherung online}, dem Organ des österreichischen
+Hauptverbandes der Sozialversicherungsträger, eine Studie
+zu diesem Thema. Die Autoren untersuchten 294.848 nach dem
+LKF System (leistungsorientierte Krankenhausfinanzierung)
+kodierte Krankengeschichten aus den Jahren 2001 – 2006 aus
+Österreich. In 18.903 Fällen wurden Vergiftungen durch
+Arzneimittel, Drogen und biologisch aktive Substanzen als
+Diagnosen kodiert; in 105.908 Fällen wurden Komplikationen
+bei chirurgischen Eingriffen und medizinischer Behandlung
+kodiert. Die Autoren schätzen, dass 19.000 – 25.000 Fälle
+oder 37\% - 51\% der Schäden vermeidbar gewesen wären.
+Diese Fälle von unerwünschten Ereignissen hätten
+Zusatzkosten von € 1,2 Milliarden verursacht
+(Endel/Wilbacher 03/2008).
+
+
+
+
+Gerade in Österreich ist der Umgang mit Fehlern
+traditioneller Weise sehr stark von Verdrängen, Leugnen und
+Vertuschen geprägt. Primär herrscht die Meinung vor, nur
+sogenannt schlechte, unmotivierte und bös- beziehungsweise
+unwillige MitarbeiterInnen machten Fehler. Besonders im
+Gesundheitssystem, das aus Tradition stark hierarchisch
+organisiert ist, sieht der Umgang mit Fehlern oft so aus,
+dass zunächst ein Schuldiger gesucht und dieser dann
+exemplarisch bestraft wird, was bei der betroffenen Person
+beinahe automatisch zu defensivem Verhalten führt.
+
+
+
+
+Riskmanagement beschäftigt sich daher oft auch
+ausschließlich mit den haftungsrechtlichen Konsequenzen
+eines Fehlers. Auf diese Art und Weise wird zwar die
+Erwartungshaltung der Öffentlichkeit und der oder des von
+den Folgen des Fehlers, dem Schaden, betroffenen PatientIn
+befriedigt. Die Chance, einen Fehler auch als Information
+über das System wahrzunehmen, wird damit jedoch vertan.
+
+
+
+
+Ziel eines erfolgreichen Riskmanagements müsste es jedoch
+sein, eine gute Fehlerkultur oder besser eine gute
+Sicherheitskultur aufzubauen, denn Fehler sind in einem
+System, in dem Menschen arbeiten, zwar unerwünscht und
+unerfreulich, gleichzeitig aber auch unvermeidlich. Auch
+wenn gerade in der Medizin die Folgen eines Fehlers immer
+katastrophal bleiben werden (Tod oder schwere, eventuell
+dauerhafte Schädigung des Patienten), so lässt sich doch
+die Eintrittswahrscheinlichkeit für Fehler erhöhen. Um
+dieses Ziel zu erreichen, wird die Information über latente
+Fehler und Gefahren benötigt. Informationen über Fehler und
+Beinahe – Fehler erlauben es so, gezielte und effektive
+Maßnahmen zur Fehlervermeidung zu setzen. Diese Information
+ist jedoch nur dann zu erhalten, wenn der / die einzelne
+MitarbeiterIn nicht fürchten muss, für einen Fehler
+abgestraft zu werden. Dann und nur dann werden Fehler nicht
+länger vertuscht.
+
+
+
+
+\section{Definitionen und Begriffe}
+
+\subsection{Fehler}
+
+Eine einheitliche Definition des Fehlers kann in der
+Literatur nicht gefunden werden. Gründe dafür sind die
+unterschiedliche Herangehensweise der jeweiligen Autoren,
+die hohe Interdisziplinarität des Themas, die Abhängigkeit
+von Aufgabencharakteristika, psychologischen
+beziehungsweise umweltbedingten Faktoren (Löber 2012: 14).
+
+
+
+
+Eine anerkannte Fehlerdefinition stammt vom englischen
+Psychologen James Reason; für ihn sind mit Fehlern \enquote*{die
+Ereignisse umfasst, bei denen eine geplante Abfolge
+geistiger oder körperlicher Fähigkeiten nicht zum
+beabsichtigen Resultat führt, sofern dieser Misserfolg
+nicht fremden Einwirken zugeschrieben werden kann} (Reason
+1994: 398).
+
+
+
+
+Hofinger definiert Fehler als \enquote*{eine Abweichung von einem als
+richtig angesehenen Verhalten oder von einem gewünschten
+Handlungsziel, das der Handelnde eigentlich hätte ausführen
+bzw. erreichen können} (Hofinger 2008: 37)
+
+
+
+
+Gemeinsam ist diesen Definitionen, dass ein Fehler ein
+geplantes Ziel voraussetzt, das durch eine aktive Handlung
+nicht oder teilweise nicht erreicht wird; auch muss das
+Ziel - zumindest theoretisch - erreichbar gewesen sein.
+
+
+
+
+\subsection{Beinahe – Fehler, near - miss}
+
+Dieser Begriff wurde aus der Luftfahrtindustrie übernommen.
+Ein Beinahe – Fehler liegt dann vor, wenn durch glückliche
+Umstände (z.B. rechtzeitiges Eingreifen oder Bemerken) ein
+Fehler ohne Folgen, das heißt ohne Schaden, bleibt (Roth
+2006: 15). Damit bleiben zum Schluss ein unerwünschtes
+Ereignis und damit ein Schaden aus.
+
+
+
+
+\subsection{unerwünschtes Ereignis, adverse event}
+
+Ein unerwünschtes Ereignis ist die Folge eines Fehlers in
+der medizinischen Versorgung, die dadurch zu einem Schaden
+für den Patienten führt (Roth 2006: 15). Da auch
+Nebenwirkungen von Medikamenten und Komplikationen von
+chirurgischen Maßnahmen zu unerwünschten Ereignissen
+führen, ist es sinnvoll, zwischen vermeidbaren (durch
+Fehler verursachte) und unvermeidbaren unerwünschten
+Ereignissen zu unterscheiden (z.B. Nebenwirkungen von
+Arzneimitteln).
+
+
+
+
+\subsection{technische Fehler}
+
+Diese fassen alle Formen von Fehlfunktionen technischer
+Geräte zusammen, die in Zusammenhang mit einem Fehler
+verwendet wurden. Da die Folgen technischer Fehler meist
+unmittelbar nach ihrem Auftreten bemerkt werden, sind diese
+für die Zukunft verhältnismäßig leicht zu verhindern. Zu
+ihrer Prävention existiert eine große Zahl an
+Möglichkeiten, zum Beispiel die Fehler- Möglichkeiten- und
+Einflussanalyse (FMEA) oder die Fehlerbaumanalyse (Roth
+2006: 16).
+
+
+
+
+\subsection{menschliche Fehler, der Human Factor}
+
+Darunter werden alle diejenigen Fehler verstanden, die durch
+Handlungen eines Menschen ausgelöst werden. Algedri und
+Frieling (Algedri/Frieling 2001: 22) differenzieren
+menschliche Handlungsfehler wie folgt
+
+\begin{tabularx}{\linewidth}{XX}
+\centering Handlung &
+\centering\arraybslash Fehlerarten\\
+Vorbereitung &
+Informationsfehler
+
+Wissensfehler
+
+Wahrnehmungsfehler
+
+Gedächtnisfehler\\
+Durchführung &
+Informationsfehler
+
+Wissensfehler
+
+Vertauschungsfehler
+
+Hinzufügungs-, Auslassungs-, Positionierungsfehler
+
+Reihenfolgefehler
+
+Zeitpunktfehler
+
+Mengenfehler\\
+Kontrolle &
+Informationsfehler
+
+Wissensfehler
+
+Urteilsfehler
+
+Gedächtnisfehler\\
+\end{tabularx}
+Abbildung 2: Klassifikation menschlicher Handlungsfehler,
+nach Algedri/Frieling 2001, eigene Darstellung
+
+
+
+
+Untersuchungen aus Luftfahrt und Medizin konnten zeigen,
+dass rund drei Viertel der Fehler durch den Human Factor
+verursacht sind. Je nach Untersucher und Studie liegt die
+Rate der Fehler, bei denen der Human Factor eine Rolle
+spielt, zwischen 50\% und 83\% (Arnstein 1997).
+
+
+
+
+Untersuchungen aus der Luftfahrtindustrie haben ergeben,
+dass Fachwissen (technical skills) allein nicht ausreichen,
+Non – Technical Skills sind genauso wichtig. Mit dem
+Begriff Non – Technical Skills werden jene Fähigkeiten
+bezeichnet, die über das konkrete Fachwissen hinausgehen,
+Kommunikation, Fähigkeit zu Teamwork,
+Situationsbewusstsein.\footnote{ Cf.:
+http://de-wikipedia.org/wiki/Non-Technical\_Skills
+(18.06.2013)} Fehler, die durch den Human Factor entstehen,
+haben meist Defizite in den Non – Technical Skills zur
+Ursache. Eine gute Möglichkeit für die / den einzelne/n
+MitarbeiterIn den Human Factor an sich selbst zu erleben,
+ist Crisis (Crew) Resource Management\footnote{ Crew
+Resource Management wurde Ende der 1970 – er Jahre
+entwickelt um die Sicherheit in der Luftfahrt zu erhöhen,
+denn Untersuchungen hatten ergeben, dass menschliches
+Versagen die Hauptursache für Flugunfälle war, die
+Hauptprobleme waren Kommunikationsschwächen,
+Kompetenzkonflikte und Entscheidungsschwäche. Seit gut zehn
+Jahren wird Crew Resource Management als Crisis Resource
+Management im medizinischen Training angewandt.\par Cf.:
+http://de.wikipedia.org/wiki/Crew\_Resource\_Management
+(18.06.2013)}, in dem die Non - Technical Skills zusätzlich
+zu den Technical Skills beübt werden.
+
+
+
+
+\subsection{Fehlermanagement}
+
+Unter Fehlermanagement versteht man die systematische
+Beschäftigung mit Fehlern und ihren Folgen, die in einem in
+einem Mensch – Maschine – System auftreten können. Im
+Rahmen des Fehlermanagements sollen die
+Eintrittswahrscheinlichkeit für Fehler gesenkt und die
+Auswirkungen eines Fehlers reduziert werden. Dazu sind die
+systematische Fehlerbewertung sowie die aktive Suche nach
+potentiellen Fehlern und Gefahren notwendig\footnote{ Cf.:
+http://de.wikipedia.org/wiki/Fehlermanagement,
+(01.03.2013)}. Ähnlich wie im Qualitätsmanagement wird im
+Fehlermanagement nach dem PDCA – Zyklus (Deming –
+Zyklus)\footnote{ Cf.:
+http://de.wikipedia.org/wiki/Demingkreis, (01.03.2013)}
+vorgegangen (Roth 2006: 40)
+
+Plan: Fehler kontinuierlich verringern durch
+Fehlermanagement
+
+Do: Fehler identifizieren und melden
+
+Check: Fehlerevaluation durch Fehleranalyse
+
+Act: Fehlerreduktion durch Verhaltenstraining und
+Verbesserung
+
+Im darauf folgenden Durchgang wird anstatt \enquote*{Plan} eine
+Reevaluation vorgenommen, deren Ergebnisse dann in den
+neuen Zyklus einfließen.
+
+
+
+
+
+
+
+\begin{figure}
+
+
+Do
+
+Check
+
+Act
+
+
+Plan
+
+\caption{Abbildung 3: Demingzyklus, eigene Darstellung}
+\end{figure}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Um ein Fehlermanagementsystem wirksam werden zu lassen,
+stellt Leape folgende Anforderungen an ein
+Fehlermeldesystem (Leape 2002: 1633 – 1638, eigene
+Übertragung) 
+
+
+
+\begin{table}
+\begin{tabularx}{\linewidth}{XX}
+\centering Eigenschaft &
+\centering Erklärung
+\\
+sanktionsfrei &
+Keine Bestrafung des/r Meldenden
+\\
+vertraulich &
+Die Identität des/r Meldenden und aller Beteiligten wird
+nicht an dritte weitergegeben
+\\
+eigenständig &
+Die Meldung ist unabhängig von jeder Autorität, die den
+Meldenden bestrafen könnte
+\\
+Analyse durch Experten &
+Die Meldung wird von einem Expertenteam analysiert, das die
+klinischen Zusammenhänge versteht und Erfahrung hat, die
+systemischen Ursachen zu erkennen
+\\
+zeitnah &
+Berichte werden schnell analysiert, die Ergebnisse werden
+schnell an die Betroffenen weitergegeben, besonders, wenn
+Gefahr im Verzug ist
+\\
+systemorientiert &
+Die Empfehlungen beziehen sich auf Veränderungen von
+Systemen, Prozessen und Verfahrensanweisungen
+\\
+verantwortlich &
+Der Empfänger der Meldungen hat sowohl die Macht als auch
+die Bereitschaft, Vorschläge umzusetzen
+\\
+\end{tabularx}
+\caption{}
+\end{table}
+
+
+
+\subsubsection{Aktive versus latente Fehler}
+
+Aktive Fehler sind solche sicherheitsgefährdende Handlungen,
+deren Folgen meistens unmittelbar wahrgenommen werden. Bei
+latenten (passiven) Fehlern kommt es in der Regel nicht
+unmittelbar zu einem Schaden; es handelt sich um Fehler,
+Irrtümer oder unsichere Handlungen, die oft lange bestehen
+können, ohne deswegen gleich einen Schaden zu verursachen.
+Erst das Zusammentreffen von mehreren latenten und / oder
+aktiven Fehlern, beziehungsweise das Versagen von
+Sicherheitsbarrieren führt zu einem konkreten Schaden. Eine
+der Aufgaben des Fehlermanagements ist es unter anderen,
+nach diesen latenten Fehlern zu fahnden (Roth, 2006: 19).
+
+
+
+
+Das Verhältnis von latenten Fehlern und großem,
+katastrophalen Schaden zeigt Heinrichs Gesetz auf. Eine
+Untersuchung des Ingenieurs Heinrich 1941 konnte zeigen,
+dass sich bei 3846 Patienten etwa 300 Fehler (Beinahe -
+Unfälle) ohne oder nur mit sehr geringem Schaden ereignen;
+29 Ereignisse waren mittelschwer und verursachten einen
+entsprechenden Schaden; nur in einem Fall trat das
+katastrophale Schadensereignis ein. Heinrichs Gesetz zeigt
+also sehr deutlich, wie wichtig es ist, nach den 300
+Fehlern ohne wesentlichen Schaden zu fahnden\footnote{ Cf.:
+http://duepublico.uni-duisburg-essen.de/servlets/DerivateServlet/Derivate-26767/Dissertation\%20Risikomanagement\%20im\%20Gesundheitswesen.pdf
+(01.03.2013)}, um den einen katastrophalen Schaden zu
+vermeiden. Abbildung 4 veranschaulicht Heinrichs Gesetz.
+
+
+\begin{figure}
+Abbildung 4: 
+\caption{Heinrichs Gesetz, eigene Darstellung}
+\end{figure}
+
+
+
+
+
+
+
+
+\subsubsection{Personenorientierter versus systemorientierter
+Ansatz}
+
+Fehler können aus zwei Perspektiven
+analysiert werden, dem personenorientieren Ansatz
+(Leape/Woods et al., 1998: 1444 – 1447; Reason: 2000, 768 -
+770) und dem systemorientierten Ansatz (Bates/Cullen et
+al., 1995: 29 – 34; Reason, 2000: 768 – 770). Jeder Ansatz
+hat seine eigene Vorstellung davon, wie Fehler entstehen.
+Auch werden in jedem Ansatz andere Strategien zur
+Fehlervermeidung vorgeschlagen.
+
+Der
+personenorientierte Ansatz ist in gewisser Weise die
+traditionelle Sicht des Fehlers, die Ereignisse
+ausschließlich vom aktiven Fehler her analysiert. So wird
+der / die einzelne MitarbeiterIn, bei dem / der ein Fehler
+– \enquote*{so etwas} – passiert ist, als alleinige/r Schuldige
+darstellt. Der personenorientierte Ansatz sucht die
+Fehlerursachen in Schlamperei, Nachlässigkeit,
+Unachtsamkeit, Unwissen, mangelndem Engagement und
+ähnlichem der handelnden Personen. Die allseits anerkannte
+These dabei ist, sogenannt gute MitarbeiterInnen machten
+keine Fehler. Deshalb zielen auch alle Maßnahmen zur
+Fehlervermeidung auf den einzelnen Mitarbeiter, im
+Einzelnen disziplinäre Maßnahmen, Nachschulungen,
+Klagsdrohungen, in Schlagworten zusammengefasst als name
+it, blame it, shame it; die Culture of Blame.
+
+Gerade im sehr hierarchisch
+strukturierten Gesundheitswesen ist der traditionelle,
+personenorientierte Ansatz weit verbreitet. Es ist eben
+befriedigender (\enquote*{satisfying}, Reason 2000: 768 - 770),
+Menschen zu beschuldigen und zu tadeln, als sich mit den
+Strukturen der Organisation zu beschäftigen (Reason, 2000:
+768 – 770). Eine solche drohende Haltung schüchtert die
+MitarbeiterInnen ein und führt letztendlich dazu, dass sich
+die MitarbeiterInnen insgesamt ausschließlich defensiv
+verhalten. Fehler werden geleugnet und versteckt; von Eiff
+spricht in diesem Zusammenhang von der \enquote*{verborgenen Fabrik}
+(von Eiff/Stachel, 2007: 172). Eine systematische
+Fehlersuche wird damit allerdings unmöglich gemacht oder
+zumindest erschwert.
+
+Im systemorientierten Ansatz hingegen
+wird davon ausgegangen, dass Menschen von Natur aus Fehler
+machen und Fehler nur selten oder beinahe nie der
+Böswilligkeit oder dem Nichtwissen des/r MitarbeiterIn
+entspringen. Da in diesem Ansatz der Human Factor anerkannt
+wird, werden selbst im besten System, solange Menschen
+darin arbeiten, Fehler geschehen.
+
+Reason beschreibt Fehler als Folgen der
+Systemstruktur und nicht als Ursache für Ereignisse. Er
+geht davon aus, dass die menschliche Natur, die Human
+Factors, eben nicht verändert werden können. Fehler werden
+nach Reason nicht als Folgen von Nachlässigkeit oder
+menschlichen Unzulänglichkeiten interpretiert. Aus diesem
+Grund sei es notwendig, die Bedingungen unter denen
+Menschen arbeiten, zu ändern (\enquote*{we cannot change human
+conditions, but we can change the conditions under which
+humans work}. Reason, 2000: 768 - 770). Ziele sind die
+Entwicklung eines Systems, das das Entstehen von Fehlern
+erschwert, und die Konstruktion von
+Sicherheitsvorkehrungen, die die Auswirkungen von trotzdem
+eingetretenen Fehlern vermindern (Reason, 2000: 768 – 770)
+
+
+
+Im systemorientierten Ansatz werden die Barrieren in der
+Organisation, die Fehler verhindern sollen, ins Zentrum der
+Analyse gestellt; die Frage lautet nicht, wem ist so etwas
+passiert, sondern was ist passiert und warum waren die
+Sicherheitsmaßnahmen nicht ausreichend. Reason
+veranschaulicht diesen Ansatz mit seinem \enquote*{Swiss Cheese
+Model} (Abbildung 5).
+
+
+
+
+
+\begin{figure}
+  [Warning: Image ignored]
+% Unhandled or unsupported graphics:
+%\includegraphics[width=153.63mm,height=92.92mm]{FehlerartikelBuch-img/FehlerartikelBuch-img002.png}
+ 
+
+\centering
+\begin{minipage}{39.99mm}
+Unerwünschtes Ereignis, Schaden
+\end{minipage}
+\centering
+\begin{minipage}{45mm}
+Lokale Auslöser, untypische Bedingungen
+\end{minipage}
+\centering
+\begin{minipage}{39.99mm}
+Latentes Versagen
+\end{minipage}
+\centering
+\begin{minipage}{29mm}
+Gefahr
+\end{minipage}
+\centering
+\begin{minipage}{39.99mm}
+Unsichere Handlungen
+\end{minipage}
+\centering
+\begin{minipage}{39.99mm}
+Psychologische Vorläufer
+\end{minipage}
+\centering
+\begin{minipage}{39.99mm}
+Sicherheitsbarrieren
+\end{minipage}
+\caption{Abbildung 5: Swiss Cheese Model nach Reason, eigene
+Darstellung}
+\end{figure}
+
+
+
+
+
+
+
+
+
+Idealer Weise wären die Barrieren, die die Organisation
+errichtet hat, um Fehler zu vermeiden, völlig intakt; in
+Wirklichkeit haben sie jedoch Löcher, die je nach
+Einzelfall abhängig von unvorhersehbaren Einflüssen sowohl
+innerer als auch äußerer Faktoren, offen oder geschlossen
+sind, beziehungsweise ihre Position verändern. Im Regelfall
+führt das Versagen einer einzelnen Barriere noch nicht zu
+einem konkreten Schaden. Das Entstehen eines Schadens, eine
+Katastrophe, setzt fast immer die Kombination eines aktiven
+Fehlers mit latenten Konditionen (latent conditions)
+voraus. Erst wenn die Löcher, entstanden aus aktivem Fehler
+und latenten Konditionen, in einer fatalen Ebene liegen,
+entsteht ein Unfall. Den Zusammenhang zwischen aktivem
+Fehler und latenten Konditionen, den Fehlerebenen und
+Fehlerursachen, verdeutlich Abbildung 6.
+
+
+
+
+\clearpage
+
+
+
+\begin{figure}
+
+Fehlerebenen und Fehlerursachen
+
+
+Patienten-schaden
+Sicherheitsbarriere
+Sicherheitsbarriere
+Individual-faktoren
+
+Physiologische/biologische Faktoren
+
+Wissens- \& fertigkeits-bezogene Faktoren
+
+Kognitive \& motivationale Faktoren
+
+Aktive Fehler
+
+Latente Fehler
+
+Latente Fehler
+
+Latente Konditionen
+
+Management-faktoren
+
+
+
+
+
+
+
+
+
+
+
+
+
+Organisations-prozesse
+
+Fehlerkultur
+
+Trigger-faktoren
+
+Arbeitsum-gebung
+
+Teamfaktoren
+
+Arbeitsbe-zogene Faktoren
+
+Patient
+
+Technik
+
+Systemische Kontext-faktoren im Krankenhaus
+
+Dynamik
+
+Intransparenz
+
+Situative Vernetztheit
+
+Unsicherheit
+
+Temporo-spatiale Konfiguration
+
+\caption{Abbildung 6:: Fehlerebenen und Fehlerursachen, modifiziert
+nach Vincent C. et al., British Medical Journal 2000 in
+Löber 2012}
+\end{figure}
+
+
+Das Swiss Cheese Model von Reason erlaubt so, das Entstehen
+von fatalen Ereignissen als Zusammenwirken von
+Entscheidungen des höchsten Managements mit Handlungen
+des/r einzelnen MitarbeiterIn zu verstehen (Löber 2012: 46)
+
+
+
+
+\subsection{Fehlerkultur, Sicherheitskultur}
+
+Der Begriff Fehlerkultur wurde im Wesentlichen nach dem Jahr
+2000 im deutschsprachigen Raum entwickelt; in der
+englischsprachigen Literatur wird meist der Begriff Safety
+Culture, Sicherheitskultur, verwendet. Fehlerkultur ist ein
+Teil der Unternehmenskultur, also der Art und Weise, wie
+MitarbeiterInnen und Führungskräfte miteinander
+kommunizieren. Die Unternehmenskultur definiert sich durch
+Symbole, Helden, Rituale und Werte (von Eiff/Stachel, 2007:
+18ff.).
+
+
+
+
+Mit Fehlerkultur wird der geänderte Umgang mit Fehlern
+beschrieben. Der Begriff bezeichnet die Art und Weise, wie
+ein System mit Fehlern, Fehlerrisiken und Fehlerfolgen
+umgeht (Schüttelkopf, 2008: 233). Die oberflächliche
+Sichtweise der individuellen Schuldzuweisung (Culture of
+Blame) soll zu Gunsten einer systemanalytischen, proaktiven
+Sicherheitskultur (Safety Culture) verlassen werden, Ziel
+ist der vorurteilsfreie Umgang mit Fehlern
+(Holzer/Thomeczek et al. 2005: 166). Es geht darum, ob
+Fehler und ihre Folgen als Chancen zum Lernen wahrgenommen
+oder ausschließlich negativ bewertet werden (Lindemann
+2005: 25). Fehler sollen in ihrem Entstehungskontext
+wahrgenommen und beurteilt werden (Abed – Navandi 2007:
+103).
+
+
+
+
+Mit Fehlerkultur wird so etwas wie ein gewünschter Zustand
+beschrieben, der einer konstruktiven Fehlerkultur ähnlich
+ist. Es geht um den Umgang mit und die Beurteilung von
+Fehlern genauso wie um das Aufspüren potentieller Fehler.
+Was allerdings in all diesen Definitionen fehlt, ist der
+Bezug zur Unternehmenskultur (Löber 2012, 191ff.). Daher
+soll an dieser Stelle die Definition für Sicherheitskultur
+der britischen \enquote*{Health and Safety Commission} ergänzt
+werden. \enquote*{Fehlerkultur als Teilkonstrukt der
+Unternehmenskultur ist das Produkt individueller und
+kollektiver Werte, Einstellungen, Kompetenzen und
+Verhaltensmuster, die das Ausmaß, die Art und die Tiefe der
+organisationalen Auseinandersetzung mit innerbetrieblichen
+Fehlern bestimmen} (Health and Safety Commission, 1993:
+23). Manstein fasst es so zusammen: Sicherheitskultur ist
+\enquote*{the way we do things around here} (Manstein 1999).
+
+
+
+
+Fehlerkultur ist also Teil der Unternehmenskultur und wird
+von dieser beeinflusst. Im Besonderen wird die Fehlerkultur
+von den Werten der Organisation beeinflusst. In dem Maß als
+Kultur aktiv gestaltbar ist, ist auch Fehlerkultur
+veränderbar (Löber 2012, 194f).
+
+
+
+
+Reason legt ein Modell der Sicherheitskultur zur Entwicklung
+eines betrieblichen Fehlerkulturmodells vor, das durch vier
+Elemente charakterisiert ist (Reason 1997, 197f.)
+
+\begin{itemize}
+  \item Reporting Culture
+  \item Just Culture
+  \item Flexible Culture
+  \item Learning Culture
+\end{itemize}
+Eine Sicherheitskultur kann nur erreicht werden, wenn alle
+MitarbeiterInnen gleichen Informationsstand über Beinahe –
+Unfälle und Fehler haben oder wenn solche Informationen
+abrufbar sind; Reason verwendet den Begriff Reporting
+Culture als Synonym für Reporting System.
+
+
+
+
+Just Culture beschäftigt sich mit dem Umgang mit geschehenen
+Fehlern und beinahe – Fehlern. Es geht um die Motivation
+der MitarbeiterInnen, im Rahmen der Reporting Culture
+solche Ereignisse zu melden. Just Culture ist für das
+Funktionieren einer Sicherheitskultur zentral. Persönliche
+Haftung und Verantwortlichkeit auf der einen Seite müssen
+mit der gewünschten Sicherheit auf der anderen Seite
+ausbalanciert werden.
+
+
+
+
+Komplexe Systeme zeichnen sich durch schnell wechselnde
+Anforderungen aus. Daher ist Flexible Culture für eine
+Sicherheitskultur wichtig, um auf diese wechselnden
+Bedingungen rasch und passend reagieren zu können.
+Hochrisikoorganisationen (wie sie in Kapitel 2.4
+beschrieben werden) haben hohe Kompetenz auf dem Gebiet der
+Flexible Culture.
+
+
+
+
+Learning Culture bedeutet den konstruktiven Umgang mit
+Fehlern. Fehler und die Analyse von Fehlern werden in einer
+guten Sicherheitskultur als Chance wahrgenommen,
+Informationen über die Stärken und Schwächen der
+Organisation zu erhalten; das Stichwort heißt, Lernen aus
+Fehlern.
+
+
+
+
+Wie ein modernes Konzept der Fehlerkultur (Löber 2012: 219)
+aussieht, zeigt Abbildung 7.
+
+
+
+
+
+
+
+
+
+\begin{figure}
+
+\centering
+\begin{minipage}{44.49mm}
+Kultureller Rahmen
+\end{minipage}
+
+\centering
+\begin{minipage}{50.78mm}
+Fehlerkultur
+\end{minipage}
+
+\centering
+\begin{minipage}{26mm}
+Kommuni-kation
+\end{minipage}
+
+\centering
+\begin{minipage}{26mm}
+Positive Emotionen
+\end{minipage}
+
+
+\centering
+\begin{minipage}{26mm}
+Gerechtig-keit
+\end{minipage}
+
+\centering
+\begin{minipage}{26mm}
+Lernen
+\end{minipage}
+
+\centering
+\begin{minipage}{26mm}
+Vertrauen
+\end{minipage}
+
+\centering
+\begin{minipage}{26mm}
+Flexibilität
+\end{minipage}
+
+
+\caption{Abbildung 7: Modell der Fehlerkultur, Löber 2012}
+\end{figure}
+
+
+Hoffmann und Rohe haben 2010 ein fünfstufiges System zur
+Beurteilung der Reife der Sicherheitskultur einer konkreten
+Organisation oder Organisationseinheit vorgelegt, die fünf
+Reifegrade der Sicherheitskultur (Hoffmann/Rohe, 2010: 94).
+
+\begin{itemize}
+  \item Reifegrad 1, ablehnende Sicherheitskultur
+  \item Reifegrad 2, reaktive Sicherheitskultur
+  \item Reifegrad 3, vorschriftsmäßige Sicherheitskultur
+  \item Reifegrad 4, initiative Sicherheitskultur,
+  \item Reifegrad 5, zukunftsweisende Sicherheitskultur
+\end{itemize}
+
+
+
+In einer ablehnenden Sicherheitskultur werden bei kritischen
+Ereignissen vor allem Schuldige gesucht, um diese zu
+bestrafen. Patientensicherheit wird nur zögerlich
+betrachtet. Ein Lernen aus Fehlern findet kaum statt. In
+der reaktiven Sicherheitskultur wird nur dann gehandelt,
+wenn ein Schaden geschehen ist. Erfüllen von externen
+Vorgaben wie zum Beispiel die Einführung von Qualitäts- und
+Riskmanagementsystemen ist das Kennzeichen der
+vorschriftsmäßigen Sicherheitskultur. Gibt es Maßnahmen zur
+Verbesserung der Patientensicherheit ohne konkreten
+Anlassfall, so hat die Organisation den Reifegrad der
+initiativen Sicherheitskultur erreicht. Wenn schließlich
+Patientensicherheit selbstverständliches Anliegen aller
+MitarbeiterInnen und routinierter Teil ihres täglichen
+Handelns ist, so liegt eine zukunftsweisende
+Sicherheitskultur vor.
+
+
+
+
+\subsection{High Reliability Organisation, die
+Hochrisikoorganisation, HRO}
+
+High Reliability Organisations oder Hochrisikoorganisationen
+sind solche Organisationen, in denen das Auftreten von
+Schäden erfolgreich vermieden wird, oder die Fehlerrate
+niedriger als erwartet ist, obwohl permanent in einem hoch
+komplexen und gefährlichen Umfeld gearbeitet wird. Seit
+etwa 1990 beschäftigt sich die Wissenschaft mit diesen
+Organisationen.\footnote{ Cf.:
+http://en.wikipedia.org/wiki/High\_reliability\_organization
+(02.03.2013)} Im Mittelpunkt des Forschungsinteresses
+stehen die sich entwickelnde wechselseitige Beziehung
+zwischen Verhalten und Struktur der Organisation. Beispiele
+für solche Hochrisikoorganisationen sind die Atomindustrie,
+die chemische Industrie, die Luftfahrtindustrie,
+Flugzeugträger genauso wie Rettungsorganisationen und
+Krankenhäuser (Mistele 2005: 4)
+
+
+
+
+Für die Zuverlässigkeit einer Organisation ist die
+Unternehmenskultur von besonderer Bedeutung. Zentral für
+die Hochrisikoorganisation ist der Begriff der
+\enquote*{mindfulness}, Achtsamkeit. Diese ist gekennzeichnet durch
+
+\begin{itemize}
+  \item Sensibilität für betriebliche Abläufe
+  \item Konzentration auf Fehler
+  \item Abneigung gegen vereinfachende Interpretationen
+  \item Streben nach Flexibilität
+  \item Respekt vor fachlichem Können und Wissen.
+\end{itemize}
+
+
+
+Mindfulness hilft Fehlverläufe frühzeitig – bevor noch
+größerer Schaden eingetreten ist – zu erkennen.
+(Sensibilität für Abläufe, Aufmerksamkeit für Fehler und
+Gefahren, Anerkennen der komplexen Vorgänge). Gleichzeitig
+übt Achtsamkeit den Umgang mit Unerwartetem (Streben nach
+Flexibilität und Respekt vor Fachwissen) (Mistele 2005: 13)
+
+
+
+
+
+
+
+\section{Literatur}
+
+\begin{description}
+\item[AbedNavandi-NullFehler] Abed – Navandi, M.: Null – Fehler ja, Null –
+Fehlerkultur nein, Fehlerkultur, eine Notwendigkeit ohne
+Alternative, in: Wagner, R. (Hrsg.), Near Miss,
+systematischer Umgang mit Beinahe – Unfällen, London 2007
+\item[] Algedri, J./Frieling, E.: Human FMEA: menschliche
+Handlungsfehler erkennen und vermeiden, München/Wien 2001
+\item[] Arnstein, F.: British Journal of Anesthesia 1997, 79:
+645 ff
+\item[] Bates, D./Cullen, D. et al.: Incidence of Adverse Drug
+Events and Potential Adverse Drug Events. Implications for
+Prevention. ADE Prevention Study Group, Journal of the
+American Medical Association 1995; 274 (1): 29 – 34
+\item[] Endel G./Wilbacher I.: Patientensicherheit:
+Unerwünschte Ereignisse, Sozialversicherung online, 03/2008
+\item[] Health and Safety Commission, Third Report: Organizing
+for Safety, ACSNI Study Group on Human Factors – HMSO,
+London 1993, zitiert nach Löber 2012: 193
+\item[] Hoffmann, B./Rohe, J.: Patientensicherheit und
+Fehlermanagement, Ursachen unerwünschter Ereignisse und
+Maßnahmen zu ihrer Vermeidung, Übersichtsarbeit, Deutsches
+Ärzteblatt 2010, 107 (6): 92 - 100
+\item[] Hofinger, G.: Fehler und Unfälle, in Badke – Schaub,
+P./Hofinger, G. et al. (Hrsg.): Human Factors: Psychologie
+sicheren Handelns in Risikobranchen, Heidelberg 2008
+\item[] Holzer, E./Thomeczek, C. et al.: Patientensicherheit,
+Leitfaden für den Umgang mit Risiken im Gesundheitswesen,
+Wien 2005
+\item[] Kohn, L./Corrigan, J. et al. (eds.): To Err Is Human,
+Building a Safer Health System. Committee on Quality of
+Health Care in America. Washington DC, Institute of
+Medicine 1999
+\item[] Leape, L./Woods, D. et al.: Promoting Patient Safety
+by Preventing Medical Error, Journal of the American
+Medical Association, 1998; 280 (16): 1444 – 1447
+\item[] Leape, L.: Reporting of Adverse Events, New England
+Journal of Medicine, 2002; 347 (20): 1633 – 1638
+\item[] Lindemann, U.: Methodische Entwicklung technischer
+Produkte: Methoden flexibel und situationsgerecht anwenden,
+Berlin 2005
+\item[] Löber, N.: Fehler und Fehlerkultur im Krankenhaus,
+eine theoretisch – konzeptionelle Betrachtung, Wiesbaden
+2012
+\item[] Manstein, Z.: Organizational Culture and Safety
+Performance. Does Your Corporate Culture Promote Safety?
+How Can You Make Safety Part of the Corporate Culture, EHS
+Today 1999, http://ehstoday.com/news/ehs\_imp\_32830
+(05.03.2012)
+\item[] Mistele, P.: die Relevanz der High Reliability Theory
+für Hochleistungssysteme, Diskussionspapier, Chemnitz 2005,
+http://www.tu-chemnitz.de/wirtschaft/bwl6/publikationen/publikation\_download.php?NR=175
+(02.03.2013)
+\item[] Reason, J.: Menschliches Versagen: Psychologische
+Risikofaktoren und moderne Technologien, Heidelberg 1994
+\item[] Reason, J.: Managing the Risks of Organizational
+Accidents, Aldershot 1997
+\item[] Reason, J.: Human Error, Models and Management,
+British Medical Journal, 2000, 320 (7237): 768 – 770
+\item[] Roth, A.: Fehlermanagement im Krankenhaus, Konzept zur
+Implementierung eines Fehlerverständnisses, Saarbrücken
+2006
+\item[] Schüttelkopf, E.: Erfolgsstrategie Fehlerkultur, in
+Ebner, Heimerl et al. (Hrsg.), Fehler – Lernen –
+Unternehmen, wie sie die Fehlerkultur und Lernreife ihrer
+Organisation wahrnehmen und gestalten, Frankfurt am Main
+2008
+\item[] Wilson, R./Runciman, W. et al.: the Quality in
+Australian Health Care Study, the Medical Journal of
+Australia, 1995 (163): 458 – 471
+\item[] Vincent, C./Tayler – Adams, S. et al.: Framework for
+Analyzing Risk and Safety in Clinical Medicine, British
+Medical Journal 1998, 316: 1154 - 1157
+\item[] von Eiff, W./Stachel, K. (Hrsg.): Unternehmenskultur
+im Krankenhaus, Band 1 der Reihe \enquote*{leistungsorientierte
+Führung und Organisation im Gesundheitswesen}, Gütersloh
+2007
+\end{description}
+
+
+\ChapterEnd

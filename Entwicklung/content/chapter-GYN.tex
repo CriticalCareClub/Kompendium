@@ -18,7 +18,7 @@
   \item[Maintainer:] Sebastian Gabriel
   \item[Autoren:] Diverse
   \item[Reviewer:] Standard-Reviewprozess
-  \item[Version:] {\DocVersion} ({\DocVersionInfo})
+  \item[Version:] {\VarDocVersionTypeName} ({\VarDocVersionTypeDescription})
   \item[SHA1:] {\DocGitCommit}
 \end{description}
 
@@ -32,7 +32,7 @@
 
 \subsection{Allgemeines}
 
-\Layout{0}{Exkurs: Weiblicher Zyklus}{%
+\TextSlide{Exkurs: Weiblicher Zyklus}{%
 Der Begriff Zyklus oder Periode beschreibt in diesem
 Zusammenhang den Vorgang des rund alle \EE{28 Tage}
 stattfindenden Reifens mindestens einer Eizelle, dem
@@ -52,7 +52,7 @@ unter
 
 
 
-\Layout{0}{Schwangerschaftsdauer}{%
+\TextSlide{Schwangerschaftsdauer}{%
 Die normale Schwangerschaft dauert \EE{40\,$\pm$\,2
 Wochen}. Das sind rund \EE{9 Kalendermonate} \Z{oder 10
 Lunarmonate\footnote{\Z{\Lang{lat.} luna: Mond.}}}. Der
@@ -77,7 +77,7 @@ erfolgt. Von einer \E{Übertragung} spricht man ab der
 }{}{}{}
 
 
-\Layout{0}{Schwangerschaftsverlauf}
+\TextSlide{Schwangerschaftsverlauf}
 {%
 Nach dem Eisprung ist die Eizelle \VonBis{8}{10} Stunden
 befruchtungsfähig. Sie benötigt für die Wanderung Eierstock
@@ -115,7 +115,7 @@ Frühgeburt als reanimationspflichtig.
 {}
 {}
 
-\Layout{2}
+\Text
 {Begriffe und gängige Abkürzungen}
 {
 \begin{description}
@@ -179,7 +179,7 @@ Kindesgewicht von unter 500\Gramm* und fehlenden Lebenszeichen.
 \cite{HaagGyn2007,ForMed2}}
 
 
-\Layout{0}{\TxBeschreibung}{%
+\TextSlide{\TxBeschreibung}{%
 Aufgrund verschiedener Ursachen kann es zum Absterben der
 Frucht mit einer nachfolgenden Fehlgeburt (Ausstoßung)
 kommen. Wenn dies vor dem Erreichen von 500\Gramm*
@@ -192,7 +192,7 @@ geschieht, spricht man von einer \T{Fehlgeburt}.
 }{}{}{}
 
 
-\Layout{0}{\TxSymptome}{%
+\TextSlide{\TxSymptome}{%
 Die Symptome sind vor allem davon abhängig, wie weit die
 Schwangerschaft fortgeschritten ist bzw. die Frucht
 entwickelt ist. Ein sehr früher Fruchtabgang wird oft nicht
@@ -219,7 +219,7 @@ Beurkundung im Sterbebuch).
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Anmerkung}{% 
+\TextSlide{Anmerkung}{% 
 Sollten Zweifel bestehen, ob es sich um einen Abort handelt,
 sollte die Verdachtsdiagnose \Speech{\enquote{V.\,a. Abort}}
 \EE{vermieden} werden, um die Patientin nicht --
@@ -237,32 +237,18 @@ Im Zweifel reanimieren!
 
 Diagnose \enquote{Abort} vermeiden \Sign{→} Symptombeschreibung}{}{}{}
 
-\MassnahmenMK{Spezielle Maßnahmen}{Abort}{m:abort}{
-}{}
-% \MassnahmenNG{Spezielle Maßnahmen}{Abort}{\label{m:abort}}{
-% \begin{itemize}
-%   \item Lagerung: sterile Vorlage und Lagerung nach
-%   Fritsch
-%   % TODO Querverweis zu Lagerungsarten einfügen
-%   \item \TxBeiVit: \TxMassVitBes
-%   \begin{itemize}
-%     \item Lagerung: Situationsgerecht
-%   \end{itemize}
-%   \item Abgegangene Gewebeteile sammeln
-%   \item Transportentscheidung: Abt. f. Gynäkologie und
-%   Geburtshilfe
-% \end{itemize}
-% } 
-
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Abort
+\ProcedurePrintDefault{GO06XX1C}
 
 
 
 \subsubsection{Eileiterschwangerschaft}
 \label{topic:extrauterine-graviditaet}
 
-\Layout{0}{\TxBeschreibung}{%
+\TextSlide{\TxBeschreibung}{%
 \index{Eileiterschwangerschaft}%
-\DefintionInPara{Eine \T{Eileiterschwangerschaft} ist eine
+\DefinitionInPara{Eine \T{Eileiterschwangerschaft} ist eine
 Schwangerschaft, bei der sich die Frucht im Eileiter
 einninstet. {\Lang{Term.} {Tubaria}, \Lang{Syn.}
 extrauterine Schwangerschaft.}}
@@ -275,7 +261,7 @@ hypovolämischen Schocks.
 \begin{itemize}
     \item Einnistung der Frucht in Eileiter (statt Gebärmutter)
     \item Schmerz durch Dehnung des Eileiters
-    \item \Sign{→} Zerreißung des Eileiters
+    \item $\rightarrow$ Zerreißung des Eileiters
     \begin{itemize}
         \item Blutung
         \item Akutes Abdomen
@@ -288,17 +274,14 @@ hypovolämischen Schocks.
 \Fazit{Bei Frauen mit akutem Abdomen muss immer eine mögliche
 Schwangerschaft abgeklärt werden!}
 
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Eileiterschwangerschaft, Verdacht
+\ProcedurePrintDefault{GO00091C}
 
-\MassnahmenMK{Spezielle Maßnahmen}{Eileiterschwangerschaft,
-Verdacht}{m:eileiterschwangerschaft-verdacht}{
-}{}
 
-\SlideCompensation{2}
-
-\MassnahmenMK{Spezielle Maßnahmen}{Eileiterschwangerschaft,
-rupturiert}{m:eileiterschwangerschaft-rupturiert}{%
-}{}
-
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Eileiterschwangerschaft, rupturiert
+\ProcedurePrintDefault{GO00092C}
 
 % \clearpage % TEMP temp clearpage
 \subsection{Notfälle -- Spätschwangerschaft}
@@ -306,7 +289,7 @@ rupturiert}{m:eileiterschwangerschaft-rupturiert}{%
 
 \subsubsection{Vorzeitige Plazentalösung}
 
-\Layout{0}{\TxBeschreibung}{%
+\TextSlide{\TxBeschreibung}{%
 \DefinitionInPara{Eine
 \T[Plazentaöslung!vorzeitige]{vorzeitige Plazentalösung} ist
 eine Ablösung des Mutterkuchens (Plazenta) vor Beendigung der Geburt}
@@ -328,7 +311,7 @@ Symptome und ein zügiger Transport.
 {}{}{}
 
 
-\Layout{0}{\TxSymptome}{%
+\TextSlide{\TxSymptome}{%
 Die Symptome sind unspezifisch: Im Vordergrund steht der
 \EE{Schock} infolge der Blutung. Zusätzlich zu den
 Schocksymptomen kann die Frau Symptome eines \EE{akuten
@@ -348,28 +331,16 @@ Abdomens} zeigen.
 }{}{}{}
 
 
-\MassnahmenMK{Spezielle Maßnahmen}{Vorzeitige
-Plazentalösung}{m:plazentaloesung}{
-}{}
-% \MassnahmenNG{Spezielle Maßnahmen}{Vorzeitige
-% Plazentalösung}{\label{m:plazentaloesung}}{
-% \begin{itemize}
-%   \item \TxMassVitBes
-%   \begin{itemize}
-%     \item Lagerung: sterile Vorlage und Lagerung nach Fritsch.
-%     \item Schockbekämpfung
-%   \end{itemize}
-%   \item Keine vaginale Untersuchung oder  Scheidentamponade
-%   \item Zügiger Transport mit Voranmeldung
-% \end{itemize}
-% }
 
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Vorzeitige Plazentalösung
+\ProcedurePrintDefault{GO45090C}
 
 \subsubsection{Vena-cava-Kompressionssyndrom}
 \label{topic:vena-cava-syndrom}
 \index{Vena-Cava-Kompressionsyndrom}
 
-\Layout{2}{\TxBeschreibung}{%
+\Text{\TxBeschreibung}{%
 Bei hochschwangeren Frauen kann es vorkommen, dass das
 \EE{Kind die untere Hohlvene\index{Hohlvene!untere!Vena-Cava-Kompressionssyndrom} 
 der Mutter abdrückt}. Dadurch
@@ -396,19 +367,9 @@ verläuft.
 \Fazit{\EE{Jede hochschwangere Patientin} soll in (leichter)
 Linksseitenlage und nicht in Rückenlage transportiert werden. }
 
-\MassnahmenMK{Spezielle
-Maßnahmen}{Vena-cava-Syndrom}{m:vena-cava-syndrom}{
-}{}
-% \MassnahmenNG{Spezielle
-% Maßnahmen}{Vena-cava-Syndrom}{\label{m:vena-cava-syndrom}}{
-% 
-% \begin{itemize}
-%     \item Linksseitenlage, grundsätzlich immer bei
-%     hochschwangeren Patientinnen.
-% \end{itemize}
-% }
-
-
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Vena-cava-Syndrom
+\ProcedurePrintDefault{GO26051C}
 
 
 \subsubsection{Präeklampsie, EPH-Gestose, HELLP-Syndrom, Eklampsie}
@@ -424,7 +385,7 @@ Maßnahmen}{Vena-cava-Syndrom}{m:vena-cava-syndrom}{
 
 % FEATURE INHALT: HELLP,Syndrom, Leberspannungsschmerz
 
-\Layout{0}{\TxBeschreibung}{%
+\TextSlide{\TxBeschreibung}{%
 Die \T{EPH-Gestose}, auch \T{Präeklampsie} genannt,
 ist eine gefürchtete Komplikation der
 Spätschwangerschaft, bei der es zu einer
@@ -452,7 +413,7 @@ Die Ursachen sind nicht vollständig geklärt.
 \Fazit{Die \emph{Prä}eklampsie (EPH-Gestose) kann zu einem
 lebensgefährlichen Krampfanfall (Eklampsie) führen.}
 
-\Layout{0}{\TxSymptome}{
+\TextSlide{\TxSymptome}{
 Die Präeklampsie ist charakterisiert durch:
 \begin{enumerate}
     \item \EE{E}dema (Ödeme)
@@ -489,42 +450,19 @@ Erbrechen. \cite{Haag2006}
 
 
 
-\MassnahmenMK{Spezielle Maßnahmen}{Verdacht auf
-Präeklampsie}{m:praeeklampsie-verdacht}
-{
-}{}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Präeklampsie
+\ProcedurePrintDefault{GO14090C}
 
-\SlideCompensation{1}
 
-\MassnahmenMK{Spezielle Maßnahmen}{Eklampsie --
-Eklamptischer Krampfanfall}{m:eklampsie}{
-Grundsätzlich ist so wie bei jedem anderen Krampfanfall zu
-verfahren , vgl. Kap. \ref{topic:krampfanfall}. Bedenke:
-Der eklamptische Krampfanfall ist für Mutter und Kind
-lebensgefährlich!
-}{}
-% \MassnahmenNG{Spezielle Maßnahmen}{Verdacht auf
-% Präeklampsie}{\label{m:praeeklampsie-verdacht}}
-% {
-% \begin{itemize}
-%     \item schonender Transport
-%     \item Überwachung, evtl. \ce{O2}
-%     \item Reizabschirmung
-%     %\item Notarzt: Krampfdurchbrechung, RR-Senkung
-%     %\item (im Vollbild: vorzeitige Beendigung der  Schwangerschaft)
-% \end{itemize}
-% }
-% 
-% \MassnahmenNG{Spezielle Maßnahmen}{Eklampsie --
-% Eklamptischer Krampfanfall}{\label{m:eklampsie}}{
-% Grundsätzlich ist so wie bei jedem anderen Krampfanfall zu verfahren , vgl. Kap. \ref{topic:krampfanfall}. Bedenke:
-% Der eklamptische Krampfanfall ist für Mutter und Kind lebensgefährlich!
-% }
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Eklampsie, eklamptischer Krampfanfall
+\ProcedurePrintDefault{GO15091C}
 
 
 \subsubsection{Vorzeitiger Fruchtwasserabgang}
 
-\Layout{2}{\TxBeschreibung}{%
+\Text{\TxBeschreibung}{%
 Der Fötus schwimmt während  Schwangerschaft in steriler
 Flüssigkeit (Fruchtwasser). Bei vorzeitiger Eröffnung der
 Fruchtblase ergeben sich für ihn die Gefahr
@@ -533,11 +471,9 @@ eines \EE{Nabelschnurvorfalls} oder einer \EE{Infektion}
 einer geburtshilflichen Abteilung vorzustellen.
 }{}{}{}{}
 
-
-\MassnahmenMK{Spezielle Maßnahmen}{Vorzeitiger
-Fruchtwasserabgang}{m:fruchtwasserabgang}{
-}{}
-
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Vorzeitiger Blasensprung
+\ProcedurePrintDefault{GO42090C}
 
 
 \clearpage
@@ -562,7 +498,7 @@ Die Geburt verläuft in 3 Phasen:
 \end{itemize} 
 
 
-\Layout{0}{Eröffnungsphase}
+\TextSlide{Eröffnungsphase}
 {%
 Die Eröffnungsphase beginnt mit den ersten regelmäßigen
 Wehen und endet mit der vollständigen Eröffnung des
@@ -601,7 +537,7 @@ Gefahr eines Nabelschnurvorfalls in den Geburtskanal!}
 \end{itemize}
 }{}{}{}
 
-\Layout{0}{Austreibungsphase}
+\TextSlide{Austreibungsphase}
 {%
 Die Austreibungsphase beginnt mit der
 vollständigen \E{Eröffnung} des Muttermundes \Z{(10\CM*)}
@@ -653,7 +589,7 @@ Stuhl der Mutter geschützt} werden (\T{Stuhlschutz}).
 
 
 
-\Layout{0}{Nachgeburtsphase}
+\TextSlide{Nachgeburtsphase}
 {%
 Nach \VonBis{10}{20} Minuten kommt es neuerlich zu Wehen,
 welche den Presswehen ähnlich sind. Es kommt zur Geburt der
@@ -672,7 +608,7 @@ Krankenhaus mitzunehmen!}
 
 
 
-\Layout{2}{\TxLink}{%
+\Text{\TxLink}{%
 \begin{itemize}
   \item Birth of Baby (Vaginal Childbirth):
 \url{http://www.youtube.com/watch?v=Xath6kOf0NE}
@@ -694,7 +630,7 @@ Krankenhaus mitzunehmen!}
 \subsubsection{Die bevorstehende Geburt}
 
 
-\Layout{0}{Anamnese -- Spezielle Fragen}
+\TextSlide{Anamnese -- Spezielle Fragen}
 {%
 \begin{itemize}
   \item Wievielte Schwangerschaftswoche
@@ -722,7 +658,7 @@ Krankenhaus mitzunehmen!}
 }{}{}{}
   
   
-\Layout{2}{Betreuung der Gebärenden und Transport}
+\Text{Betreuung der Gebärenden und Transport}
 {%
 Anhand des Wehenabstandes und dem Vorliegen oder
 Nichtvorliegen eines Pressdrangs oder Blasensprungs kann
@@ -743,15 +679,10 @@ Sollte die Mutter stehend
 angetroffen werden, muss dies dokumentiert werden.
 }
 {}
-{./images/teaser/rtw-asb-921-alt.jpg}
-{Ein RTW.}
-{Gabriel.}
 
 
 
-\subsubsection{Die Haus- und Wagengeburt}
-
-\TODO{GABS}{2010-09-17}{Haus- und Wagengeburt}{}
+\subsubsection{Der Geburtsvorgang und Versorgung des Neugeborenen}
 
 
 Ab Beginn der Presswehen bzw. wenn der Kindskopf oder -teile
@@ -760,21 +691,17 @@ sichtbar sind, ist der weitere Transport zu
 unterlassen und das Fachpersonal muss bei der Geburt
 Hilfestellung leisten.
 
-\MassnahmenMK{Spezielle
-Maßnahmen}{Geburt}{m:geburt}{
-}{}
 
-\SlideCompensation{1}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Spontangeburt
+\ProcedurePrintDefault{GO80XX1C}
 
-\MassnahmenMK{Spezielle Maßnahmen}
-{Versorgung des Neugeborenen}
-{m:neugeborenes}
-{
-}{}
 
-\SlideCompensation{2}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Versorgung des Neugeborenen
+\ProcedurePrintDefault{GY51310C}
 
-\Layout{0}
+\TextSlide
 {Apgar-Score}
 {Der \I{Apgar-Score} ist nach Virginia Apgar
 benannt und ist ein Punkteschema zur Beurteilung von
@@ -822,13 +749,8 @@ vor der Erhebung des Apgar-Score!}
 {}
 
 
-\MassnahmenMK{Spezielle Maßnahmen}
-{Basisreanimation des Neugebohrenen}
-{m:neugeborenes-basisreanimation}
-{
-}{}
 
-\SlideCompensation{2}
+
 
 
 Nach dem Ende der Geburt müssen die \EE{Geburtszeit} und der
@@ -846,8 +768,69 @@ Krankenhaus auf Vollständigkeit und Reife untersucht.
 
 
 
-\subsection{Notfälle während der Geburt}
+\subsection{Notfälle während und unmittelbar nach der Geburt}
 \label{topic:notfall-geburt}
+
+\subsubsection{Basisreanimation des Neugeborenen}
+\label{topic:reanimation-neugeborenes}
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Basisreanimation des Neugeborenen
+\ProcedurePrintDefault{GY51140C}
+
+% \begin{PictureSeriesWide}{}{Basisreanimation des Neugeborenen}
+% \PictureSeriesRowWide{3}
+% {./images/ASBOE-Grassl-gjh-1/CRW_0611-00441pt}
+% {Beatmung mittels Beatmungsbeutel für Neugeborene \SourcePicture{ASBÖ/gjh}}
+% {./images/ASBOE-Grassl-gjh-1/CRW_0623-00441pt}
+% {Positionierung der Finger \SourcePicture{ASBÖ/gjh}}
+% {./images/ASBOE-Grassl-gjh-1/CRW_0627-00441pt}
+% {Reanimation \SourcePicture{ASBÖ/gjh}}
+% {}
+% {}
+% \end{PictureSeriesWide}
+
+% TODO Grassl Foto: Basisreanimation des Neugeborenen
+
+\subsubsection{Asphyxie während der Geburt}
+
+\Text{\TxBeschreibung}{%
+
+\DefinitionInPara{Eine \T{Asphyxie}
+ist eine Sauerstoffunterversorgung (Hypoxie) des
+Neugeborenen infolge einer atem- oder kreislaufbedingten 
+Störung vor, während oder nach der Geburt.}
+Die möglichen Ursachen für die Hypoxie sind vielfältig und
+umfassen u.\,a. eine Placenta praevia, einen
+Nabelschnurvorfall, Lage\-ano\-malien, eine Frühgeburt,
+u.\,v.\,a.\,m. Wird die Ursache nicht rechtzeitig behoben
+und bleibt die Hypoxie bestehen, kommt es zu einer
+irreperablen Hirnschädigung.
+}{%
+
+}{}{}{}
+
+\TextSlide{\TxSymptome}{%
+Das Leitsymptom einer Asphyxie ist eine \EE{Herzfrequenz <
+100\PerMin*}, eine \EE{unzureichende Atmung}
+(Schnappatmung, fehlende Atmung) und/oder ein \EE{schlaffer
+Muskeltonus} des Kindes
+Weitere Hinweise auf  eine Asphyxie sind eine grünlich-trübe
+Verfärbung des Fruchtwassers sowie eine \E{fortbestehende
+Zyanose} (eine Zyanose unmittelbar nach der Geburt ist
+normal).
+}{%
+\begin{itemize}
+  \item HF < 100\PerMin*
+  \item Unzureichende Atmung
+  \item Schlaffer Muskeltonus
+\end{itemize}
+}{}{}{}
+
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Asphyxie des Neugeborenen
+\ProcedurePrintDefault{GP21090C}
 
 \subsubsection{Nabelschnurvorfall}
 
@@ -860,16 +843,14 @@ Andererseits kann sich die Nabelschnur  um den Hals des
 Kindes wickeln und es kommt während der Geburt zur
 Strangulation des Kindes.
 
-\MassnahmenMK{Spezielle Maßnahmen}{Nabelschnurvorfall}
-{m:nabelschnurvorfall}
-{
-
-}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Nabelschnurvorfall
+\ProcedurePrintDefault{GO69000C}
 
 
 \subsubsection{Placenta praevia}
 
-\Layout{0}{\TxBeschreibung}{%
+\TextSlide{\TxBeschreibung}{%
 Normalerweise liegt die Plazenta nicht vor dem Geburtskanal.
 Bei einer sehr tiefen Einnistung des befruchteten Eis in der
 Gebärmutter, kann es jedoch dazukommen, dass sich die
@@ -891,7 +872,7 @@ erfragt bzw. im Mutter-Kind-Pass nachgelesen werden.
 }{}{}{}
 
 
-\Layout{0}{\TxSymptome}{%
+\TextSlide{\TxSymptome}{%
 Unter Wehentätigkeit kommt es zu starken Blutungen aus der
 Scheide.
 
@@ -903,11 +884,9 @@ Scheide.
 \end{itemize}
 }{}{}{}
 
-\MassnahmenMK{Spezielle Maßnahmen}{Placenta praevia und
-bevorstehende Geburt}{m:placenta-praevia}
-{
-}{}
-
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Placenta praevia bei bevorstehender Geburt
+\ProcedurePrintDefault{GO69041C}
 
 \subsubsection{Pathologische Geburtslagen}
 
@@ -925,19 +904,19 @@ durchgeführt werden. Die Geburt in jedem Fall verhindern
 bzw. verzögern. Ein Armvorfall ist eine geburtsunmögliche
 Lageanomalie. 
 
-\MassnahmenMK
-{Spezielle Maßnahmen}
-{Pathologische
-Geburtslagen}
-{m:pathologische-geburtslagen}
-{}{}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Pathologische Geburtslagen
+\ProcedurePrintDefault{GO64090C}
 
 
-\subsubsection{Uterusatonie}
+\subsubsection{Blutungen in der
+Nachgeburtsperiode}
 
-\Layout{0}
+\TextSlide
 {\TxBeschreibung}
-{Normalerweise zieht sich in der Nachgeburtsphase die
+{
+% TODO Uterusatonie --> Blutungen in der Nachgeburtsperiode
+Normalerweise zieht sich in der Nachgeburtsphase die
 Uterusmuskulatur zusammen. In diesem Fall kommt es aber zur
 Erschlaffung (Atonie) der Gebärmutter. Die Folge sind
 lebensbedrohliche Blutungen durch das fehlende Kontrahieren
@@ -961,7 +940,7 @@ Maßnahmen}{Uterusatonie}{m:uterusatonie}{
 
 \subsubsection{Uterusruptur}
 
-\Layout{2}{\TxBeschreibung}{% 
+\Text{\TxBeschreibung}{% 
 Die Uterusruptur kommt meistens nur nach vorangegangenem
 Kaiserschnitt vor. Es treten während der Wehen plötzlich
 Schmerzen auf, welche anders als Wehenschmerzen empfunden
@@ -971,108 +950,13 @@ Lebensgefahr für die Mutter aufgrund starker Blutungen und
 für das Kind wegen des \ce{O2}-Mangels.
 }{}{}{}{}
 
-\MassnahmenMK{Spezielle
-Maßnahmen}{Uterusruptur}{m:uterusruptur}{
-}{}
-% \MassnahmenNG{Spezielle
-% Maßnahmen}{Uterusruptur}{\label{m:uterusruptur}}{
-% \begin{itemize}
-% 	\item \TxMassVit
-% 	\item Schockbekämpfung
-% 	\item Lagerung: Fritsch, Beine hoch
-% \end{itemize}
-% }
-
-% 
-% {\mdseries
-% plötzlicher Schmerz während Wehen,  dann keine Wehen mehr
-% ${\rightarrow}$ Geburtsstop}
-% 
-% \Fazit{Lebensgefahr für Mutter (Blutung) und  Kind (O2
-% -Mangel!)}
-% 
-% \paragraph{Therapie}
-% 
-% \begin{itemize}
-%     \item Allgemeine Maßnahmen bei lebensbedrohlichen Zuständen
-%     \item Schockbekämpfung
-%     \item Zügiger Transport mit Voranmeldung
-% \end{itemize}
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Uterusruptur
+\ProcedurePrintDefault{GO71010C}
 
 
-\subsubsection{Asphyxie während der Geburt}
 
-\Layout{2}{\TxBeschreibung}{%
 
-\DefinitionInPara{Eine \T{Asphyxie}
-ist eine Sauerstoffunterversorgung (Hypoxie) des
-Neugeborenen infolge einer atem- oder kreislaufbedingten 
-Störung vor, während oder nach der Geburt.}
-Die möglichen Ursachen für die Hypoxie sind vielfältig und
-umfassen u.\,a. eine Placenta praevia, einen
-Nabelschnurvorfall, Lage\-ano\-malien, eine Frühgeburt,
-u.\,v.\,a.\,m. Wird die Ursache nicht rechtzeitig behoben
-und bleibt die Hypoxie bestehen, kommt es zu einer
-irreperablen Hirnschädigung.
-}{%
-
-}{}{}{}
-
-\Layout{0}{\TxSymptome}{%
-Das Leitsymptom einer Asphyxie ist eine \EE{Herzfrequenz <
-100\PerMin*}, eine \EE{unzureichende Atmung}
-(Schnappatmung, fehlende Atmung) und/oder ein \EE{schlaffer
-Muskeltonus} des Kindes
-Weitere Hinweise auf  eine Asphyxie sind eine grünlich-trübe
-Verfärbung des Fruchtwassers sowie eine \E{fortbestehende
-Zyanose} (eine Zyanose unmittelbar nach der Geburt ist
-normal).
-}{%
-\begin{itemize}
-  \item HF < 100\PerMin*
-  \item Unzureichende Atmung
-  \item Schlaffer Muskeltonus
-\end{itemize}
-}{}{}{}
-
-\MassnahmenMK{Spezielle Maßnahmen}{Asphyxie des
-Neugeborenen}
-{m:asphyxie}
-{%
-Die Behandlung der Asphyxie erfolgt im Rahmen der Versorgung
-des Neugeborenen (\FullPrettyRef{MK-m:neugeborenes}).
-}{}
-% \MassnahmenNG{Spezielle Maßnahmen}{Asphyxie des
-% Neugeborenen}
-% {\label{m:asphyxie}}
-% {%
-% Die Behandlung der Asphyxie erfolgt im Rahmen der Versorgung
-% des Neugeborenen (\FullPrettyRef{m:neugeborenes}).
-% % \begin{itemize}
-% %   \item \TxMassVit
-% %   \item Warmhalten
-% %   \item Abtrocknen/abrubbeln; stimulieren: Fußsohlen und
-% %   Rücken klopfen, reiben
-% %   \item Atmung und Herzfrequenz beurteilen
-% %   \item Bei Schnappatmung, fehlender Atmung oder HF <
-% %   100\PerMin*:  \begin{itemize}
-% % %     \item \ce{O2}-Gabe (\enquote{\ce{O2}-Dusche}) für 30\,Sek.
-% %     \item Atemwege freimachen, absaugen
-% %     \item 5 Beatmungen
-% %   \end{itemize}
-% %   \item Wenn keine Steigerung der Herzfrequenz: 
-% %   \begin{itemize}
-% % %     \item \ce{O2}-Gabe (\enquote{\ce{O2}-Dusche}) für 30\,Sek.
-% %     \item Lagerung und Atemwege überprüfen 
-% %     \item 5 Beatmungen wiederholen
-% %     \item \ce{O2}-Gabe
-% %     \end{itemize}
-% %   \item Wenn weiterhin keine ausreichende Atmung oder
-% %   \EE{Herzfrequenz < 60\PerMin*} 
-% %   
-% %   \Sign{→} Reanimation des Neugeborenen
-% % \end{itemize}
-% }
 
 % \clearpage % TEMP temp clearpage
 \section{Sonstige gynäkologische Erkrankungen und
@@ -1081,7 +965,7 @@ Notfälle}
 \subsection{Vaginale Blutungen}
 \label{topic:unterleibsblutungen}
 
-\Layout{0}{\TxBeschreibung}{%
+\TextSlide{\TxBeschreibung}{%
 Die vaginale Blutung ist präklinisch schwer abzuklären und
 kann viele Ursachen haben. Wichtig ist festzuhalten, dass
 jede vaginale Blutung abgeklärt gehört, da sich dahinter
@@ -1108,17 +992,10 @@ Eine akute vitale Bedrohung besteht seltenst, dennoch muss
 sie routinemäßig vor allem anhand des Blutverlustes und der
 Vitalwerte eingeschätzt werden. 
 
-\MassnahmenMK{Spezielle Maßnahmen}{Vaginaler
-Blutung}{m:vaginale-blutung}{
-}{}
-% \MassnahmenNG{Spezielle Maßnahmen}{Vaginaler
-% Blutung}{\label{m:vaginale-blutung}}{
-% \begin{itemize}
-%     \item Lagerung nach Fritsch
-%     \item Transportentscheidung: Abteilung für
-%     Gynäkologie, bei Wehen Kreißsaal
-% \end{itemize}
-% }
+
+% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
+% Vaginale Blutung
+\ProcedurePrintDefault{GN93091C}
 
 
 \begin{Literary}

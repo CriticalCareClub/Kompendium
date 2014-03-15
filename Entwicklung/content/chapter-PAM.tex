@@ -172,13 +172,13 @@ wahrscheinlich? Eine Übersicht.\label{tab:alarmzeichen}}{}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Sicherheit, Selbstschutz; Patientenanzahl; 
-  \item Umgebung, Ort,
-Zeit, Gefahrenzonen, Umstände,
-\item Weitere Ressourcen erforderlich? Unfallmechanismus,
-Großschaden
-\item Lagemeldung erforderlich
-\item \EE{Trauma?} \EE{Mechanismus?}
+  \item Gefahrenzonen, Sicherheit, Selbstschutz;
+  \item Umstände, Umgebung, Ort,
+  Zeit, Patientenanzahl;
+  \item \EE{Trauma?} \EE{Unfallmechanismus?}
+  \item Weitere Ressourcen erforderlich?,
+  Großschaden?
+  \item Lagemeldung erforderlich
 \end{itemize}
 \end{minipage}
 &
@@ -257,7 +257,7 @@ Großschaden
 \begin{itemize}
   \item Absaugung, Fremdkörper entfernen
   \item Kopf überstrecken, Esmarch-Handgriff
-  \item HWS-Immobilisation manuell oder mit Schiene
+%   \item HWS-Immobilisation manuell oder mit Schiene
   \item \Z{Erweiterte Maßnahmen}
 \end{itemize}
 \end{minipage}
@@ -271,8 +271,7 @@ Großschaden
   \item Schätzen: \EE{Atemfrequenz}, \EE{-tiefe}
   \item *\EE{Sp\ce{O2}}
   \item Atemgeräusche
-  \item Inspektion der \EE{Thorax-Atembewegungen}, ggfs. 
-  Atemprobe
+  \item Inspektion der \EE{Thorax-Atembewegungen}
   \item \E{Zeichen der
   Atemnot}: Hautfarbe, Bauch-/Thorax\-bewegungen,
   Anstrengung beim Atmen, Atemhilfsmuskulatur, \ldots
@@ -298,23 +297,27 @@ Großschaden
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item \EE{Hautfarbe}, \EE{-temperatur}
-  \item Schweiß
+  \item \EE{Hautfarbe}, \EE{-temperatur}, Schweiß
   \item \EE{Rekap}-Zeit
   \item \EE{Radialispuls}: Stärke, Rhythmus, Abschätzen der
   Frequenz
+  \item \EE{Herzfrequenz}
+  \item \EE{Blutdruck}
+  
+\end{itemize}
+\hrule
+\begin{itemize}
   \item \TabHeading{*Schnelle Trauma-Untersuchung}: Inspektion
   und Abtasten von
   \begin{compactenum}
-    \item \EE{Kopf} inkl. Ohren,
-    \item \EE{Hals},
-    \item \EE{Thorax},
-    \item \EE{Bauch},
-    \item \EE{Becken} und
+    \item \EE{Kopf} inkl. Ohren
+    \item \EE{Hals}
+    \item \EE{Thorax} (Atemprobe)
+    \item \EE{Bauch}
+    \item \EE{Becken}
     \item \EE{Oberschenkel}
+    \item \EE{Rücken} (evtl. erst beim Umlagern)
   \end{compactenum}
-  \item \EE{Herzfrequenz}
-  \item \EE{Blutdruck}
 \end{itemize}
 \end{minipage}
 &
@@ -366,7 +369,7 @@ Bedrohung oder Hauptbeschwerde unklar ist.)}
 &
 \noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
 \begin{itemize}
-  \item Strategie- und Zielentscheidung 
+  \item Strategie-, Transport- und Zielentscheidung 
   \item Spezielle Maßnahmen gemäß Verdachtsdiagnose
 \end{itemize}
 \end{minipage}
@@ -561,7 +564,7 @@ EKG, Kapnometrie, \ldots
   \item \EE{Wärmeerhaltung / Kühlung}
   \item Entscheidung Notarzt-Nachforderung wegen
   Schmerztherapie oder Aufklärung/Belassung
-  \item Suerstoffgabe (\prettyref{MK-m:sauerstoffberieselung})
+  \item Sauerstoffgabe (\FullPrettyRef{MK-m:sauerstoffberieselung})
   \item \ldots
 \end{itemize}
 \end{minipage}
@@ -857,7 +860,7 @@ macht. Es werden v.\,a. beurteilt:
 
 Liegt der Verdacht auf eine Wirbelsäulenverletzung vor wird
 bereits hier mit der manuellen Stabilisierung der
-Halswirbelsäule begonnen. \index{HWS-Stabilisierung!Eindruck (ABCDE)}
+Halswirbelsäule begonnen (\FullPrettyRef{m:einschaetzung-indikation-ws-immobilisation}). \index{HWS-Stabilisierung!Eindruck (ABCDE)}
 
 }{%
 \begin{itemize}
@@ -1243,7 +1246,10 @@ Umwege das ZNS}
 \Text{Typische Maßnahmen}
 {%
 \begin{itemize}
-  \item \TxMassVit
+  \item \TxMassVit 
+  \begin{compactitem}
+    \item Absaugbereitschaft!
+  \end{compactitem}
   \item Stabile Seitenlage nach \ABCDE{B}
 \end{itemize}
 }
@@ -1335,11 +1341,15 @@ Weiters werden die \EE{Atemgeräusche} beurteilt.
 {Speziell \E{pfeifende}, \E{gurgelnde} oder \E{schnarchende}
 Atemgeräusche können ein Hinweis auf eine Verlegung sein.
 Oft gibt auch die \EE{Gestik} und Haltung des Patienten
-Hinweise.
+Hinweise auf eine Verlegung. 
+Ein \I[Atemweg!gefährdeter]{gefährdeter Atemweg} liegt vor, wenn dieser noch nicht
+verlegt, jedoch aufgrund des Patientenzustandes, der
+Diagnose oder anderer Gegebenheiten eine baldige Verlegung
+wahrscheinlich ist (Verbrennungen des Brustkorbes, allergische Reaktion, \ldots).
 }
 {
 \begin{itemize}
-  \item Frei oder verlegt
+  \item Frei, verlegt, gefährdet
   \item Atemgeräusche: Pfeifen, Gurgeln, Schnarchen;
   Gestik
 \end{itemize}
@@ -1377,9 +1387,12 @@ Hinweise.
   \item Überstrecken des Kopfes
   \item Esmarch-Handgriff
   \item Stabile Seitenlage nach \ABCDE{B}
-  \item Absaugung, Absaugbereitschaft
+  \item Absaugung
   \item Spezielle Maßnahmen bei Atemwegsverlegung (\FullPrettyRef{topic:mechanische-atemwegsverlegung})
-  \item \TxMassVit
+  \item \TxMassVit 
+  \begin{compactitem}
+    \item Absaugbereitschaft!
+  \end{compactitem}
 \end{itemize}
 }
 
@@ -1401,11 +1414,7 @@ Dazu wird die Frequenz  und Tiefe der Atmung
 eingeschätzt. Dabei wird der Thorax betrachtet und die
 Atmung beobachtet, während der Einatmung wird auf das
 \E{gleichseitige} Heben des Brustkorbes geachtet. 
-Bei Verdacht auf eine Verletzung wird der Thorax auch abgetastet
-und bei der Einatmung mit den flachen Händen
-gegen den Brustkorb gedrückt (\E{Atemprobe}). Dadurch kann
-eine ungleichseitige Belüftung der Lungenflügel erkannt
-werden. Während der Atmung wird auf \EE{Atemgeräusche}
+Während der Atmung wird auf \EE{Atemgeräusche}
 geachtet. 
 
 Bestimmte charakteristische Zeichen können auf
@@ -1421,13 +1430,16 @@ andere Anzeichen der Atemnot.
 \Z{\E{Speziell ausgebildetes} Personal kann mittels eines
 Stethoskops die oberen und unteren Atemwege abhören
 (auskultieren) und damit Störungen des Atemweges und der
-Atmung besser einschätzen.}
+Atmung besser einschätzen. 
+Ebenso ist diesem bei Verdacht auf das Vorliegen einer 
+mechanisch bedingten Atemstörung das Vorziehen des Abtastens 
+des Thorax möglich.}
 
 }{%
 \begin{itemize}
   \item Schätzen: \E{Frequenz} und \E{Tiefe}
   \item Atemgeräusche
-  \item Inspektion (und Abtasten) von Thorax inkl. Atemprobe
+  \item Inspektion von Thorax inkl. Atemprobe
   \item Anzeichen: \\
   Hautfarbe, Bauch-/Thorax\-bewegungen,
   Anstrengung beim Atmen, Atemhilfsmuskulatur, Zeichen der
@@ -1567,7 +1579,7 @@ kommt: Die Atmung ist nicht ausreichend.
 
 
 
-\Cave{Schnappatmung = Keine Atmung}
+\Cave{Schnappatmung = Keine suffiziente Atmung}
 
 
 
@@ -1998,7 +2010,7 @@ Pulsoxymetrie
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \clearpage
 \subsection{{\FontKeyboardFamily{C}} Kreislauf
-(Circulation)}
+(Circulation) und Schnelle Trauma-Untersuchung (STU)}
 
 \label{topic:kreislauf}
 \label{topic:circulation}
@@ -2264,7 +2276,7 @@ und muss mittels Medikamenten unbedingt gesenkt werden.
 
 \TextSlide
 {{STU}* | Schnelle Traumauntersuchung}
-{
+{%
 Liegt ein Verdacht auf ein Trauma
 vor, wird eine schnelle Traumauntersuchung (STU)
 durchgeführt\footnote{Wenn Verletzungen auf einen 
@@ -2276,17 +2288,23 @@ Untersuchungen entfallen. Es muss aber bedacht werden, dass
 auch kleine Verletzungen aufgrund von zugrundeliegenden
 Erkrankungen entstehen, oder Folgeverletzungen vorliegen
 können!}. 
-Sie dient dem Aufspüren von akut
-\E{lebensgefährlichen} Verletzungen und beschränkt sich auf
-die wichtigsten Organe. Sie besteht aus der  Inspektion
+Ziel ist das Aufspüren von akut
+\E{lebensgefährlichen} Verletzungen (insbesonders Blutungsquellen und Schäden des ZNS). 
+Sie beschränkt sich auf
+die wichtigsten Organeund  besteht aus der  Inspektion
   und dem Abtasten von
   \begin{compactenum}
     \item \EE{Kopf} inkl. Ohren,
     \item \EE{Hals},
-    \item \EE{Thorax},
+    \item \EE{Thorax} 
+    (inkl. \T{Atemprobe}: Bei der Einatmung wird mit den flachen Händen
+    gegen den Brustkorb gedrückt. 
+    Dadurch kann ein Hinweis auf eine mechanisch-bedingte Atmungsstörung 
+    gewonnen werden, z.\,B. durch eine Serienrippenfraktur),
     \item \EE{Bauch},
-    \item \EE{Becken} und
-    \item \EE{Oberschenkel}.
+    \item \EE{Becken},
+    \item \EE{Oberschenkel} und
+    \item \EE{Rücken} (evtl. erst beim Umlagern auf eine Schaufeltrage oder Spine Board).
   \end{compactenum}
 }
 {\begin{itemize}
@@ -2295,10 +2313,11 @@ die wichtigsten Organe. Sie besteht aus der  Inspektion
   \begin{compactenum}
     \item \EE{Kopf} inkl. Ohren,
     \item \EE{Hals},
-    \item \EE{Thorax},
+    \item \EE{Thorax} (Atemprobe),
     \item \EE{Bauch},
-    \item \EE{Becken} und
-    \item \EE{Oberschenkel}
+    \item \EE{Becken},
+    \item \EE{Oberschenkel},
+    \item \EE{Rücken}
   \end{compactenum}
 \end{itemize}}
 {}
@@ -2312,12 +2331,30 @@ die wichtigsten Organe. Sie besteht aus der  Inspektion
 {{\eye} Befunde}
 {Erkennen kann man z.\,B. Schockzeichen,
 sichtbare Blutungen, Herzrhythmusstörungen (Tachy-/Bradykardie,
-Arrhythmie).
-}
-{\begin{itemize}
+Arrhythmie) sowie Veränderungen des Blutdrucks. Diese
+Befunde müssen mit der Gesamtheit der Befunde, der möglichen
+Diagnosen des Patienten, den Umständen und dem Zustand
+des Patienten, sowie unter Berücksichtigung der Anamnese
+beruteilt werden.
+
+Bei der Schnellen Trauma-Untersuchung (STU) können
+Blutungsquellen oder Hinweise auf Verletzugen des zentralen
+Nervensystems (ZNS) gefunden weden. Als Nebenbefund kann bei
+Verletzungen des Thorax eine mechanisch bedingte Atemstörung
+festgestellt werden (\ABCDE{B}-Befund).
+
+}{%
+\begin{itemize}
   \item Sichtbare Blutungen
   \item Schockzeichen
   \item Rhythmus (Tachy-/Bradykardie, Arrhythmie)
+  \item Blutdruckveränderungen
+  \item STU: 
+  \begin{itemize}
+    \item Blutungsquellen
+    \item Verletzungen des ZNS (\ABCDE{D}-Befund)
+    \item Mechanische Atemstörungen (\ABCDE{B}-Befund)
+  \end{itemize}
 \end{itemize}
 }
 {}

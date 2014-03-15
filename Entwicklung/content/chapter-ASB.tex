@@ -908,34 +908,39 @@ werden!
 }{}{}{}
 
 
-\needspace{0.5\textheight}
-\section{Sauerstoff -- \texorpdfstring{\ce{O2}}{}}
-\label{topic:sauerstoff}
-\label{topic:o2}
-\index{Sauerstoff}
-\index{O2@\ce{O2}}
 
-\Definition{\T{Sauerstoff} ist ein
-lebenswichtiges Gas welches zu 21\PC* in unserer Atemluft
+\section{Sauerstoff -- \texorpdfstring{\ce{O2}}{}}
+\label{topic:sauerstoff}%
+\label{topic:o2}%
+\index{Sauerstoff}%
+\index{O2@\ce{O2}}%
+
+
+
+
+\subsection{Allgemeines}
+% TODO : Bild Druckminderer
+\TODO{GABS}{2010-08-04}{Bild: Druckminderer fehlt.}{}
+%
+
+\Text{\TxBeschreibung}
+{%
+\DefinitionInPara{\T{Sauerstoff} ist ein
+lebenswichtiges, farb- und geruchsloses Gas, welches zu 21\PC* in unserer Atemluft
 vorkommt und außerdem ein essentielles
 Notfall\enquote{medikament} ist.
 Das chemische Symbol lautet \T{\ce{O2}}.}
+}
 
-% \begin{center}
-% \includegraphics[width=4.522cm,height=5.628cm]{./images/rippenspreitzer-02-fett.png}
-% \Captionof{figure}{NEIN! \SourcePicture{Rippenspreitzer.de}}
-% 
-% \end{center}
 
-\subsection{Technische Grundlagen}
-% TODO : Bild Druckminderer
-\TODO{GABS}{2010-08-04}{Bild: Sauerstofffl., Druckminderer fehlt.}{}
-%
-Sauerstoff ist ein farb- und geruchsloses Gas und wird in
-Druckflaschen gelagert.
 
-\TextSlide{Kennzeichnung}
-{Die \EE{Farbe} von Gasflaschen ist
+
+\TextSlide{Druckflaschen}
+{%
+Sauerstoff wird in
+Druckgasflaschen gelagert.
+\subparagraph{Kennzeichnung}
+Die {Farben} von Gasflaschen sind
 normiert\ZFootnote{Normen zur Kennzeichnung von Gasflaschen:
 EN~1089-3, in der jeweiligen nationalen Umsetzung (z.\,B.
 DIN EN~1089-3, ÖNORM EN~1089-3 (Verbindlichkeit gem.
@@ -965,11 +970,6 @@ werden.}.
 \cite{AUT-LAW-VBV2002-1,Igv2010} 
 Weiters ist auf Druckgasflaschen ein
 \EE{Gefahrengutaufkleber} angebracht.
-
-\Fazit{Gasflaschen mit \EE{\E{medizinischem} Sauerstoff}
-sind
-\EE{vollständig weiß}.}
-
 \Commentary[Gasflaschen / Farbcodierung / Umstellung]
 {\S\,26 Abs.\,2 VBV 2002:
 Bei Sauerstoff, Distickstoffmonoxid (Lachgas) und
@@ -998,28 +998,8 @@ Die Farbe des zylindrischen Flaschenmantels ist in der Norm
 (bis auf medizinischen Gase) nicht festgelegt.
 }
 
-}
-{
-\begin{itemize}
-  \item Medizinischer Sauerstoff: Vollständig weiß
-  \item Gefahrengutaufkleber
-\end{itemize}
-}
-{}
-{}
-{}
-
-\Layout{27}{}
-{}% Text
-{}% Slides
-{./images/pallinger-christoph-aass/O2_Flasche_32747-crop2-AASS-0176mm.jpg}% Bildpfad oder Objeckt
-{Eine Sauerstoffflasche mit angeschlossenem
-Druckminderer/Berieselungseinheit}% Beschreibung
-{Pallinger}% Credits
-
-
-\TextSlide{Druckflaschen}
-{Die Druckflaschen haben unterschiedliche Füllgrößen
+\subparagraph{Füllgrößen}
+Die Druckflaschen haben unterschiedliche Füllgrößen
 (Volumina), gängige Flaschengrößen sind 0,5, 1, 1,5, 2, 5
 und
 10\Liter*. Der Sauerstoff wird unter Druck gelagert, wodurch
@@ -1027,14 +1007,17 @@ die Menge des zur Verfügung stehenden Sauerstoffs um ein Vielfaches
 gesteigert wird. Der Druck einer gefüllten Flasche beträgt
 normalerweise ca. 200\Bar*. 
 
+\subparagraph{Ausgänge}
 Jede Druckflasche verfügt über ein \T{Hauptventil} und
 ein Standardgewinde. An diesem Gewinde ist entweder ein
 weiterführender Druckschlauch oder der \E{Druckminderer}
 einer \E{Berieselungseinheit} angeschlossen.
 
 \bigskip }
-{
+{%
 \begin{itemize}
+  \item Medizinischer Sauerstoff: Vollständig weiß
+  \item Gefahrengutaufkleber
   \item Unterschiedliche Füllgrößen
   \item Druck ca. 200\Bar*
   \item Hauptventil mit Standardgewinde
@@ -1046,6 +1029,17 @@ einer \E{Berieselungseinheit} angeschlossen.
 {}
 {}
 
+\Fazit{Gasflaschen mit \EE{\E{medizinischem} Sauerstoff}
+sind
+\EE{vollständig weiß}.}
+
+\Layout{27}{}
+{}% Text
+{}% Slides
+{./images/pallinger-christoph-aass/O2_Flasche_32747-crop2-AASS-0176mm.jpg}% Bildpfad oder Objeckt
+{Eine Sauerstoffflasche mit angeschlossenem
+Druckminderer/Berieselungseinheit}% Beschreibung
+{Pallinger}% Credits
 
 \TextSlide{Berieselungseinheit}
 {\index{Berieselungseinheit}
@@ -1746,7 +1740,7 @@ verbunden. Am Ausführungsschenkel kann ein \EE{PEEP}-Ventil
 aufgesteckt werden.
 }{%
 \begin{itemize}
-  \item Luftzufuhrventil
+  \item Luftzuführventil
   \begin{itemize}
     \item \ce{O2}-Leitung
     \item Reservoir

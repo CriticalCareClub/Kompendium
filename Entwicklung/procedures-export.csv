@@ -80,7 +80,7 @@ MR47091C,14.0,2013-09-01,SPZ,Tachykarde Attacke,,"Innere Medizin, evtl. Überwac
 MR55XX0C,14.0,2013-09-01,SPZ,"Kollaps, Synkope",,Innere Medizin,,M,R,5,5,-,-,0,C,R55.--,Synkope und Kollaps
 MR57XX0B,14.0,2013-09-01,SPZ,Schock,,Je nach Ursache,,M,R,5,7,-,-,0,B,R57.--,"Schock, anderenorts nicht klassifiziert"
 MT17023C,14.0,2013-09-01,SPZ,Einnahme von schaumbildenden Substanzen,,,,M,T,1,7,0,2,3,C,T17.02,Fremdkörper im Rachen
-MT17091C,14.0,2013-09-01,SPZ,Mechanische Atemwegsverlegung,,Innere Medizin,,M,T,1,7,0,9,1,C,T17.09,"Fremdkörper in den Atemwegen, Teil nicht näher bezeichnet"
+MT17091C,14.0,2013-09-01,SPZ,Mechanische Atemwegsverlegung,,"Je nach Situation und lokaler Regelung (Lungenheilkunde, HNO etc.; Möglichkeit zur Bronchoskopie muss bestehen)",,M,T,1,7,0,9,1,C,T17.09,"Fremdkörper in den Atemwegen, Teil nicht näher bezeichnet"
 MT40021C,14.0,2013-09-01,SPZ,Vergiftung mit Opiaten,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation, bzw. toxikologische Spezialabteilung",,M,T,4,0,0,2,1,C,T40.02,Vergiftung: Sonstige Opioide
 MT43091C,14.0,2013-09-01,SPZ,Vergiftung mit Uppers,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation, bzw. toxikologische Spezialabteilung",,M,T,4,3,0,9,1,C,T43.09,"Vergiftung: Psychotrope Substanz, nicht näher bezeichnet"
 MT51001C,14.0,2013-09-01,SPZ,Vergiftung mit Alkohol,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation, bzw. toxikologische Spezialabteilung",,M,T,5,1,0,0,1,C,T51.00,Toxische Wirkung: Äthanol

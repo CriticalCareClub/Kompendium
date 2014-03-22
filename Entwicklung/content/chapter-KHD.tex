@@ -1243,22 +1243,31 @@ vgl. \FullPrettyRef{fig:behandlungsstellen}.
 {}
 \end{PictureSeries}
 
-\clearpage
+% \clearpage
 \subsection{Transportraum}
 
 \Layout{60}{Verladestelle}{%
-Die Verladestelle sollte -- sofern möglich -- in der Nähe
-der Behandlungsstelle II errichtet werden. Es muss
+Hier erfolgt die Verladung von Patienten in die Fahrzeuge. 
+Es muss dabei mittels einer Liste
 protokolliert werden, welcher Patient mit welchem
-Transportmittel in welches Krankenhaus eingeliefert wird.
+Transportmittel in welches Krankenhaus eingeliefert wird. 
+Außerdem  wird
+der erste Abschnitt der PLS beim Verladen abgegeben.
 
+Die Verladestelle sollte -- sofern möglich -- in der Nähe
+der Behandlungsstelle II errichtet werden.
 Es gibt eine definierte Ein- und Ausfahrt, eine
-Einbahnregelung ist tunlichst
-anzustreben! }{
-{\SymbolText}
+Einbahnregelung ist 
+anzustreben! 
+}{
+{%
+\begin{itemize}
+  \item Protokollierung!
+  \item Ein-, Ausfahrt, Einbahnsystem
+\end{itemize}}
 }
 {./images/khd/SanHiSt/Sanhist-Verladestelle}
-{}
+{Kennzeichnung Transportraum}
 {}
 
 
@@ -1290,41 +1299,39 @@ Die Schlüssel müssen stecken gelassen werden!
 \end{itemize}
 }
 {./images/khd/SanHiSt/Sanhist-Wagenhalteplatz}
+{Kennzeichnung Wagenhalte\-platz}
 {}
-{}
 
 
 
-
-
-
-
-
-
-%  Falscher Wagenhalteplatz
-% 
-% 
-% Warning: Image ignored
-% Unhandled or unsupported graphics:
-%\includegraphics[width=3.375cm,height=2.438cm]{AASdev20090228-img129}
-
-
-
-
-\TextSlide{Hubschrauberlandestelle}{%
-\begin{inparaitem}
-    \item Die allgemeinen Vorschriften für
-    Hubschrauberlandeplätze sind zu beachten
-    \item Freie ebene Fläche
-    \item Sichere Umgebung (Stromleitungen!)
-    \item Weit genug weg vom Behandlungsraum (Luftwirbel!)
-\end{inparaitem}
-% TODO BILD: Hubschrauberlandestelle
+\Layout{60}{Hubschrauberlandeplatz}{%
+Die allgemeinen Vorschriften für
+Hubschrauberlandeplätze sind zu beachten.
+Der Hubschrauber benötigt einen
+geeigneten Landeplatz, i.\,d.\,R. mind.
+\EE{25\,$\times$\,25\Meter*}, es dürfen keine
+Oberleitungen, lose Gegenstände o.\,ä. den gefahrlosen
+Anflug stören, der Untergrund muss tragfähig und nicht
+leicht verwehbar sein (Sand!).
+Zu Bedenken sind die entstehenden \EE{Luftwirbel}, welche die SanHiSt
+oder auch den gesamten Einsatzraum beeinträchtigen
+können.
+Hier muss ein Kompromiss zwischen den vorhandenen
+geeigneten Flächen, der wünschenswerten Nähe und der
+erforderlichen Entfernung zur SanHiSt gefunden werden.
 }{
-{\SymbolText}
-}{}{}{}
-
-
+\begin{itemize}
+%     \item Die allgemeinen Vorschriften für
+%     Hubschrauberlandeplätze sind zu beachten
+    \item Freie ebene Fläche, mind.
+    {25\,$\times$\,25\Meter*}
+    \item Sichere Umgebung (Stromleitungen, lose Gegenstände, Untergrund, \ldots)
+    \item Luftwirbel
+\end{itemize}
+}
+{./images/khd/SanHiSt/Sanhist-H-Landeplatz}
+{Kennzeichnung Hubschrauberlandeplatz}
+{}
 
 
 % 
@@ -1352,26 +1359,25 @@ Die Schlüssel müssen stecken gelassen werden!
 \subsection{Sammelstellen}
 
 \Layout{60}{Sammelstelle Unverletzte}{%
-Ziel: Betreuung Unverletzter
 Hier erfolgt die Betreuung unverletzter Beteiligter. 
 Auch Unverletzte bedürfen eines der Witterung angemessenen
-Schutzes (Regen, Kälte, \ldots). mitunter kann die
+Schutzes (Regen, Kälte, \ldots). Mitunter kann die
 Beiziehung von Feldküchen o.\,ä. ratsam sein. weiters steht
-die Pi Beruhigung, Information und gegebenenfalls die
+die Beruhigung, Information und gegebenenfalls die
 Beiziehung von geschultem psychologischen Personal
 (Kriseninterventionsteam, KIT) im Vordergrund.
 }{
 {\SymbolText}
 }
 {./images/khd/SanHiSt/Sanhist-Unverletzte}
-{}
+{Kennzeichnung }
 {}
 
 
 
 
 \Layout{60}{Sammelstelle Tote}{%
- Hier erfolgt die Sammlung der Leichen Verstorbener. Sie
+ Hier erfolgt die Lagerung der Leichen. Sie
  sollte möglichst diskret eingerichtet werden, abgeschirmt
  vom Behandlungsraum, der Sammelstelle Unverletzte und der
  Außenwelt.  Die Leichen werden abgedeckt, für einen ausreichenden Sichtschutz ist zu sorgen.
@@ -1379,7 +1385,7 @@ Beiziehung von geschultem psychologischen Personal
 {\SymbolText}
 }
 {./images/khd/SanHiSt/Sanhist-Tote}
-{}
+{Kennzeichnung Sammelstelle Tote}
 {}
 
 

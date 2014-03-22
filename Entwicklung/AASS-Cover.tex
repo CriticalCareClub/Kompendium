@@ -14,61 +14,211 @@ bibtotocnumbered,
 footnotes=multiple,
 % toc=flat,
 ]{scrbook}
-% \setlength{\parindent}{1.5em}
-% \usepackage{scrhack}
+\setlength{\parindent}{15pt}
 
-% UTF-8 Schriftkodierung
-\usepackage[utf8]{inputenc}\usepackage[T1]{fontenc}
-% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
-\usepackage{etex}
+\usepackage{luatextra}
+\usepackage{fontspec}
 
-\pdfcompresslevel=0
-\pdfimageresolution=300
-\pdfpkresolution=300
-% \usepackage[a-1b]{pdfx}
-% \def\Keywords{AASS} \def\Title{AASS} \def\Author{ARGE AASS} \def\Org{ARGE AASS}
-% % \input glyphtounicode.tex \input glyphtounicode-cmr.tex \pdfgentounicode=1
-% \usepackage[xcolor]{rvdtx}
+% sadly, morewrites brings problems to umlauts in lists
+% \usepackage{morewrites}
 
+% % http://tex.stackexchange.com/questions/66949/command-nobreakspace-unavailable-when-switching-to-t1-encoding-under-xelatex/66951#66951
+% % Its xunicode which changes \nobreakspace: It maps the
+% % command to U+00A0. I would use either
+% % \DeclareTextCommand{\nobreakspace}{T1}{\leavevmode\nobreak\} or
+% % \DeclareTextCommandDefault{\nobreakspace}{\leavevmode\nobreak\ } 
+% % which would not destroy the xunicode declaration for EU1.
+% % Regarding microtype: There exist beta versions which works
+% % with xelatex:
+% % tlcontrib.metatex.org/cgi-bin/package.cgi/action=view/id=423
+% % – Ulrike Fischer
+\DeclareTextCommand{\nobreakspace}{T1}{\leavevmode\nobreak\ }
 
-\usepackage{blindtext}
-\usepackage{microtype,fixltx2e,ellipsis}
+% \usepackage{etex}					% get rid of the "no room for new \ldots". Standard TeX registers are limitied to 256, etex increases the max.
 
-% Optionen für Bilder:
-% [draft] .. Es werden nur Rahmen angezeigt
-% [final] .. Es werden Bilder normal angezeigt
-% [demo} .. keine Bilder
-\usepackage[final]{graphicx} % Bilder-Support
-
-% \usepackage{showidx} % shows index entries on page margin
-% \usepackage{showkeys}
+\usepackage{graphicx} 		% Bilder-Support
+									% Optionen für Bilder:
+									% [draft] .. Es werden nur Rahmen angezeigt
+									% [final] .. Es werden Bilder normal angezeigt
+									% [demo]  .. keine Bilder
+% \usepackage{blindtext}
 
 % Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{./inputs/input-optkeys}		% optional --- Optionaler Text.
+\input{./AASS.optkeys.tex}		% optional --- Optionaler Text.
 % \opt{ORG-ASBOE}{\usepackage{asboe}} % Style-Def. vor Präamble
-\input{./inputs/input-preamble-cover}% Präambel
-\input{./inputs/input-hyphenation}	% Trennungen
-\input{./inputs/input-title}		% Titel
-\input{./inputs/input-docinfo}		% Dokumenteinfos (Status, Version, ...)
-\input{./inputs/input-headfoot}		% Kopf- und Fusszeilen
-\input{./inputs/input-excludeonly}	% Ausgeschlossene Kapitel
-\input{./inputs/input-includeonly}	% Schliesse nur bestimmte Kapitel ein ...
+\input{./AASS.preamble.tex}		% Präambel
+\input{./AASS.hyphenation.tex}	% Trennungen
+\input{./AASS.title.tex}		% Titel
+\input{./AASS.docinfo.tex}		% Dokumenteinfos (Status, Version, ...)
+\input{./AASS.headfoot.tex}		% Kopf- und Fusszeilen
+\input{./AASS.excludeonly.tex}	% Ausgeschlossene Kapitel
+\input{./AASS.includeonly.tex}	% Schliesse nur bestimmte Kapitel ein ...
 
-\setcounter{errorcontextlines}{10}
-
-% \usepackage{fontspec}
-% \usepackage{setspace}
+\renewcommand{\Abk}[1]{#1} 			% reset Abk
 
 
-\usepackage{ragged2e}
-% \usepackage[xcolor]{changebar}
-% % \driver{PDFTeX} % changebar
+
+\newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
+\newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
+\usepackage[
+backend=biber,
+natbib=true,
+language=german,
+% clearlang=true,
+% autolang=langname,
+defernumbers=true,
+sorting=none,
+sortlocale=de,
+]{biblatex}
+
+% 	\bibliography{AASS.bib}
+    \addbibresource{BiblioDB-AASS.bib}
+    \addbibresource{BiblioDB-ASBOe.bib}
+	\addbibresource{BiblioDB-Med-Books.bib}
+	\addbibresource{BiblioDB-Med-Books-Harrisons18De.bib}
+	\addbibresource{BiblioDB-Med-Journals-Rettungsdienst.bib}
+	\addbibresource{BiblioDB-Med-Links.bib}
+	\addbibresource{BiblioDB-Med-Misc.bib}
+	\renewcommand{\labelnamepunct}{\addcolon\space}
+	\DeclareFieldFormat{title}{\mkbibbold{{#1}}}
+	\DeclareFieldFormat[article]{title}{\mkbibbold{{#1}}}
+	\DeclareFieldFormat[inbook]{title}{\mkbibbold{{#1}}}
+	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
+	% 
+	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
+	\DeclareFieldFormat{journaltitle}{\mkbibemph{#1}}
+	\DeclareFieldFormat[article]{journaltitle}{\mkbibemph{#1}}
+	\renewcommand{\bibfont}{\normalfont\small}
+	\DeclareBibliographyCategory{PAM}
+	\DeclareBibliographyCategory{BestOf}
+	\defbibnote{bestof}{Dieser Abschnitt beinhaltet besonders
+	lesenswerte Literaturreferenzen. Eine vollständige
+	Auflistung der Quellen findet sich im Folgeabschnitt.
+	Sofern dieser nicht Teil Ihrer Distribution ist, finden
+	Sie sie auch online unter
+	\url{http://www.aass.at/download}.}
+	
+	\newcommand{\textbfit}[1]{\textbf{\textit{#1}}}
+	\newcommand{\bibentry}[1]{\fullcite{#1}}
+	\newcommand{\ChapterBibliography}{\relax}
+	
+
+
+% \usepackage[markup=underlined,ulem=normalem]{changes}	
+
+
+
+
+
+
+
+
+% % % http://compgroups.net/comp.text.tex/making-a-cmyk-pdf/153995
+% 
+% % sRGB
+% \immediate\pdfobj stream attr{/N 4}  file{AdobeRGB1998.icc}
+% \pdfcatalog{%
+%   /OutputIntents [ <<
+%   /Type /OutputIntent
+%   /S/GTS_PDFA1
+%   /DestOutputProfile \the\pdflastobj\space 0 R
+%   /OutputConditionIdentifier (sRGB AdobeRGB1998)
+%   /Info(sRGB AdobeRGB1998)
+%  >> ]
+% }
+% 
+% IPAD
+\immediate\pdfobj stream attr{/N 4}  file{iPad.icc}
+\pdfcatalog{%
+  /OutputIntents [ <<
+  /Type /OutputIntent
+  /S/GTS_PDFA1
+  /DestOutputProfile \the\pdflastobj\space 0 R
+  /OutputConditionIdentifier (sRGB iPad)
+  /Info(sRGB iPad)
+ >> ]
+}
+% 
+% % CMYK FOGRA 29 COATED
+% \immediate\pdfobj stream attr{/N 4}  file{UncoatedFOGRA29.icc}
+% \pdfcatalog{%
+%   /OutputIntents [ <<
+%   /Type /OutputIntent
+%   /S/GTS_PDFA1
+%   /DestOutputProfile \the\pdflastobj\space 0 R
+%   /OutputConditionIdentifier (CMYK UncoatedFOGRA29)
+%   /Info(CMYK UncoatedFOGRA29)
+%  >> ]
+% }
+
+\usepackage{AassStyleCollectionProcedures}
+ 
+\usepackage{AassStyleCollectionCoverFront}
+
+
+
+
+% \titleformat{\part}
+% [display]
+% {\centering\FontSansCaptionFamily\Huge\color{Base}}
+% {\titlerule[5pt]\vspace{3pt}\titlerule[2pt]\vspace{3pt}\MakeUppercase{\color{DefaultRed}{\partname} \thepart}\bfseries}
+% {0pt}
+% {\titlerule[2pt]\vspace{1pc}\huge\MakeUppercase}
+% %
+% \titlespacing*{\part}{0pt}{0pt}{20pt}
+
+% \titleformat{\part}
+% [display]
+% {\centering\FontSansCaptionFamily\Huge\color{Base}}
+% {\titlerule[5pt]\vspace{3pt}\titlerule[2pt]\vspace{3pt}\MakeUppercase{\color{DefaultRed}{\partname} \thepart}\bfseries}
+% {0pt}
+% {\titlerule[2pt]\vspace{1pc}\huge\MakeUppercase}
+% %
+% \titlespacing*{\part}{0pt}{0pt}{20pt}
+%
+
+
+
+
+
+\def\VarColumsLiterary{3}
 \usepackage[autostyle,german=guillemets]{csquotes}
 \def\familydefault{\sfdefault}
+
+
+\newgeometry{verbose,
+a4paper,
+asymmetric,
+reversemarginpar,
+rmargin=13mm,
+lmargin=13mm,
+top    = 20mm,
+bottom = 15mm,
+marginparwidth = 0mm,
+footskip = 5mm,
+bindingoffset=0cm}
+\savegeometry{FullPage}
+\newgeometry{verbose,
+a4paper,
+asymmetric,
+reversemarginpar,
+rmargin=13mm,
+lmargin=13mm,
+top    = 8mm,
+bottom = 8mm,
+marginparwidth = 0mm,
+footskip = 5mm,
+bindingoffset=0cm}
+\savegeometry{WholePage}
+\restoregeometry
+
+
+
+
 \begin{document}
 \begin{titlepage}
 
-\input{./inputs/input-cover-front}
+\input{./AASS.CoverFrontBack.tex}
 
 \end{titlepage}
 \clearpage
@@ -90,21 +240,18 @@ bindingoffset=0mm}
 \pagestyle{empty}
 {%
 % \marginline{\flushright{\scalefont{5}\AASS}}
-\sffamily\Huge{\color{ubuntured}%
+\sffamily\Huge{\color{Base}%
 \noindent Arbeits- und Ausbildungsstandards}\\
-{\color{darkBlue}für den
-Sanitätsdienst}}
+{\color{Base}für den
+\color{BaseContrast}Sanitätsdienst}}
 
 \large\sffamily
 \noindent\vspace{\baselineskip}
 
 
 \parpic[r][r]{\includegraphics[width=5.5cm]{./images/motal-aass/helm1}}
-Nach über vier Jahren Arbeit ist es nun soweit: Die erste
-öffentliche Version der Arbeits- und Ausbildungsstandards
-für den Sanitätsdienst ({\AASS}) sowie des zugehörigen
-Maßnahmenkataloges sind hiermit erschienen.
-
+\noindent Das vorliegende Werk ist das Ergebnis einer seit dem Jahr 2008 
+andauernden Tätigkeit. 
 Die {\AASS} sind ein Gemeinschaftsprojekt  von Medizinern,
 Sanitätern und Angehöriger anderer Gesundheitsberufe,
 welchen die Ausbildung und die Arbeit im Sanitätswesen am
@@ -112,35 +259,58 @@ Herzen liegt. Wir versuchen dabei, das Wissen und die Welt
 des Sanitätsdienstes fundiert und umfassend darzustellen,
 und damit sowohl eine Unterlage für die Ausbildung, als auch
 ein Hilfsmittel für die Praxis zu schaffen. 
-In diesem Sinne entstand in Zusammenarbeit mit dem Ausbildungszentrum des ASB
-Floridsdorf-Donaustadt dieses Werk, welches sich ebendort --
-etappenweise und unter kontrollierten Bedingungen
-eingeführt -- seit über drei Jahren als Lern- und
-Ausbildungsunterlage
-bewährt hat.
 
-Besonderen Wert
-haben wir auf Hintergrundwissen und relevante
-Randbereiche gelegt. Denn in einer Zeit, in der reines
-\enquote*{Kochrezept-Wissen} innerhalb weniger Jahre bereits wieder
-veraltet ist, bildet dieses Fundament die Chance für eine
-langjährige professionelle Tätigkeit und erlaubt
-selbstständiges, regel\E{geleitetes} Arbeiten (anstatt strikten,
-regel\E{gebundenen} Handelns). 
+In Zusammenarbeit mit dem
+Ausbildungszentrum des ASB Florisdorf-Donaustadt
+entstanden ausgehend von der Ausbildungsverordnung
+österreichischer Rettungssanitäter und den Erfordernissen
+der entsprechenden Kurse die ersten Versionen der {\AASS}.
+Sie bildeten die Grundlage der Curricula und
+konnten sich schon früh, etappenweise und unter kontrollierten 
+Bedingungen eingeführt, als Lern- und Ausbildungsunterlage
+bewähren und stehen nun seit dem Jahr 2013 jedem
+Interessierten im Internet öffentlich und frei zur Verfügung.
 
-Kurzum, dieses Werk soll es dem 
-Fachpersonal ermöglichen, im Rahmen der jeweiligen
-Kompetenzen selbstständig und eigenverantwortlich im Sinne
-des Patienten tätig zu werden und dabei souveräne und
-fundierte Entscheidungen zu treffen. Dieses Bekenntnis zum
-\enquote*{Mensch vor Ort} als entscheidender Faktor für den Erfolg
-einer Behandlung ist integraler Bestandteil unserer
-Philosophie, denn \ldots
+
+Die {\AASS} sollen einerseits dem Sanitätspersonal, egal ob ärztlich oder
+nicht-ärztlich, eine souveräne, überlegte und gleichzeitig
+zielgerichtete Betreuung von Patienten und Notfallpatienten
+ermöglichen. 
+Andererseits ist es unser erklärtes Ziel, das Fachpersonal zum
+eigenständigen Denken, Verstehen von Zusammenhängen und
+Hintergründen und kritischen Hinterfragen zu befähigen:
+Die{\AASS} sind auf
+regel\E{geleitetes} Arbeiten (anstatt strikten,
+regel\E{gebundenen} Handelns) ausgerichtet -- unsere Auffassung 
+von gelebtem \enquote*{Empowerment}: 
+
+
+
 
 \begin{flushright}
 \Speech{salus aegroti suprema lex}\footnote{salus aegroti suprema lex \Lang{lat.}: \Speech{Das
 Wohl des Kranken ist oberstes Gebot.}}
 \end{flushright}
+% 
+% 
+% 
+% In diesem Sinne entstand in Zusammenarbeit mit dem Ausbildungszentrum des ASB
+% Floridsdorf-Donaustadt dieses Werk, welches sich ebendort --
+% etappenweise und unter kontrollierten Bedingungen
+% eingeführt -- seit über drei Jahren als Lern- und
+% Ausbildungsunterlage
+% bewährt hat.
+% 
+% 
+% Kurzum, dieses Werk soll es dem 
+% Fachpersonal ermöglichen, im Rahmen der jeweiligen
+% Kompetenzen selbstständig und eigenverantwortlich im Sinne
+% des Patienten tätig zu werden und dabei souveräne und
+% fundierte Entscheidungen zu treffen. Dieses Bekenntnis zum
+% \enquote*{Mensch vor Ort} als entscheidender Faktor für den Erfolg
+% einer Behandlung ist integraler Bestandteil unserer
+% Philosophie, denn \ldots
+
 
 % Das vorliegende Werk ist das Ergebnis einer seit
 % mehr als vier Jahren andauernden Arbeit. 
@@ -177,21 +347,22 @@ Wohl des Kranken ist oberstes Gebot.}}
 \bigskip
 
 \begin{minipage}{\linewidth-2.5cm}
-Version {\DocVersion} Variante {\DocVariant}\\
-\DocVersionInfo
+Version {\VarDocVersion} Variante {\VarDocVariant}\\
+\VarDocVersionTypeDescription
+
 
 \begin{labeling}[:]{mmmmm}\ttfamily
 %   \item[SHA1] \DocGitCommit
   \item[ISBN] in Bearbeitung
-  \item[DOI] ---
+%   \item[DOI] ---
 \end{labeling}
 \end{minipage}
-\begin{minipage}{2.5cm}
+\vfill
 \begin{center}
+\begin{minipage}{2.5cm}
 \includegraphics[width=2.5cm]{./images/qr-codes/qrcode-AASS-Homepage}
-\end{center}
-
 \end{minipage}
+\end{center}
 
 
 

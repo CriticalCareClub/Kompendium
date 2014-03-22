@@ -65,20 +65,28 @@ Voraussetzungen für effektives und professionelles Arbeiten.
 
 % \begin{WidePar}
 \pagestyle{empty}\loadgeometry{WholePage}
+\vfill
+
 \begin{minipage}{\linewidth}
-\noindent{\sffamily{\color{DefaultGrey}%
-{\bfseries\Huge\color{DefaultA}
+\noindent{\sffamily\color{Base}%
+{\bfseries\Huge\color{Base}
 Standardisierte Patientenversorgung}\bigskip 
 
-Arbeits- und Ausbildungsstandards} {\color{DefaultGrey}für den Sanitätsdienst}} | {\AASS} \opt{VAR-VAR2}{| {\color{AsboeRed}ASBÖ}}
+\color{BaseMiddle}Arbeits- und Ausbildungsstandards für den \color{DefaultRed}Sanitätsdienst} | {\AASS} \opt{VAR-VAR2}{| {\color{AsboeRed}ASBÖ}}
 \hfill\textsf{\VarDocVersion}
 
 \bigskip
 
 \Layout{57}{}{}{}
-{\includegraphics[width=\linewidth]{./images/emhofer-josef-aass/PAMJaenner2014alternativ.pdf}}
+{%
+\begin{center}
+  \includegraphics[width=280pt]{./images/emhofer-josef-aass/PAMMaerz2014Vers2}
+\end{center}
+}
 {Graphische Übersicht: \EEE{Standardisierte Patientenversorgung}}
 {}
+
+
 
 % \vspace{2\baselineskip}
 \vfill
@@ -139,13 +147,30 @@ wahrscheinlich? Eine Übersicht.\label{tab:alarmzeichen}}{}
 \clearpage
 % 
 % \vspace{-\baselineskip}~
-% ~
+~
 \vfill
 
 
-\MassnahmenWide{Standardmaßnahmen}{Einschätzungsblock}
+
+% \MassnahmenWide{Standardmaßnahmen}{Einschätzungsblock}
+
+
+
+\begin{tcolorbox}[
+title={Standardmaßnahme YY12100B: Einschätzungsblock
+% \captionof{massnahmen}[#1: \E{#2}]{\color{Base}\E{#1}: #2 #3\hrulefill{\fontfamily{lmr}\selectfont\textrecipe}}
+},
+fonttitle=\sffamily\bfseries\small,fontupper=\sffamily\small,
+left=2pt,right=2pt,
+colframe=ProceduresBoxBorder,
+colback=MarginBackground,
+% skin=beamer,
+]
+\renewcommand{\labelitemi}{\textcolor{LabelItemBoxProcedures}{\SymbolLabelItemI}}%
+\renewcommand{\labelitemii}{\textcolor{LabelItemBoxProcedures}{\small\SymbolLabelItemII}}%
+\flushleft{}\CorrectionListsBox
 {\label{m:ersteinschaetzung}\label{m:einschaetzungsblock}}
-{%
+
 \CorrectionItemizeBox\renewcommand{\itemhook}{%
 %   \setlength{\topsep}{0pt}%
   \setlength{\itemsep}{0.004\baselineskip}

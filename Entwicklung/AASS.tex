@@ -541,33 +541,33 @@ Standards ist, es gibt so viele, aus denen man auswählen kann.}
 % 
 % \bigskip
 
-\begin{WidePar}
-{\Huge
-\noindent\colorbox{DefaultA}{\textcolor{DefaultA}{X~~~~~}}~~
-\colorbox{DefaultB}{\textcolor{DefaultB}{X~~~~~}}~~
-\colorbox{DefaultC}{\textcolor{DefaultC}{X~~~~~}}~~
-\colorbox{DefaultD}{\textcolor{DefaultD}{X~~~~~}}~~
-\colorbox{DefaultE}{\textcolor{DefaultE}{X~~~~~}}~~
-\bigskip
-
-\noindent\colorbox{DefaultGrey}{\textcolor{DefaultGrey}{X~~~~~}}~~
-\colorbox{DefaultGreen}{\textcolor{DefaultGreen}{X~~~~~}}~~
-\colorbox{Lavender}{\textcolor{Lavender}{X~~~~~}}~~
-\colorbox{Indigo}{\textcolor{Indigo}{X~~~~~}}
-\bigskip
-
-\noindent\colorbox{Cyan}{\textcolor{Cyan}{X~~~~~}}~~
-\colorbox{Magenta}{\textcolor{Magenta}{X~~~~~}}~~
-\colorbox{Yellow}{\textcolor{Yellow}{X~~~~~}}~~
-\colorbox{Black}{\textcolor{Black}{X~~~~~}}
-}
-\end{WidePar}
-
-\bigskip
-
-\noindent{\ttfamily{\the\WideParWidth}
-{\the\ThirdGrossWidth}
-{\the\ThirdNetWidth}}
+% \begin{WidePar}
+% {\Huge
+% \noindent\colorbox{DefaultA}{\textcolor{DefaultA}{X~~~~~}}~~
+% \colorbox{DefaultB}{\textcolor{DefaultB}{X~~~~~}}~~
+% \colorbox{DefaultC}{\textcolor{DefaultC}{X~~~~~}}~~
+% \colorbox{DefaultD}{\textcolor{DefaultD}{X~~~~~}}~~
+% \colorbox{DefaultE}{\textcolor{DefaultE}{X~~~~~}}~~
+% \bigskip
+% 
+% \noindent\colorbox{DefaultGrey}{\textcolor{DefaultGrey}{X~~~~~}}~~
+% \colorbox{DefaultGreen}{\textcolor{DefaultGreen}{X~~~~~}}~~
+% \colorbox{Lavender}{\textcolor{Lavender}{X~~~~~}}~~
+% \colorbox{Indigo}{\textcolor{Indigo}{X~~~~~}}
+% \bigskip
+% 
+% \noindent\colorbox{Cyan}{\textcolor{Cyan}{X~~~~~}}~~
+% \colorbox{Magenta}{\textcolor{Magenta}{X~~~~~}}~~
+% \colorbox{Yellow}{\textcolor{Yellow}{X~~~~~}}~~
+% \colorbox{Black}{\textcolor{Black}{X~~~~~}}
+% }
+% \end{WidePar}
+% 
+% \bigskip
+% 
+% \noindent{\ttfamily{\the\WideParWidth}
+% {\the\ThirdGrossWidth}
+% {\the\ThirdNetWidth}}
 
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
 \dominitoc[n]
@@ -594,7 +594,7 @@ Download-Bereich verfügbar
 {}
 {}
 
-\listof{fazit}{Merksätze}
+% \listof{fazit}{Merksätze}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Allgemeines und First Responder}
@@ -670,7 +670,7 @@ Download-Bereich verfügbar
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-PKU}} % STATUS-EXPERIMENTAL
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-SPE}} % STATUS-EXPERIMENTAL
 \opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-WEI}} % STATUS-EXPERIMENTAL
-\include{./content/chapter-INTERMEDIATE-Artikel}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-INTERMEDIATE-Artikel}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Advanced}
@@ -686,26 +686,26 @@ Download-Bereich verfügbar
 	\include{./content/chapter-WIS}
 	\chapter{Präklinische Narkose}\SectionUnderDevelopment
 	\include{./content/chapter-ADVANCED-Atemweg}
-}% STATUS-EXPERIMENTAL
 	\include{./content/chapter-ADVANCED-Fehler}
 \include{./content/chapter-ADVANCED-Ischaemische-Herzerkrankungen}
 \include{./content/chapter-ADVANCED-Artikel}
+}% STATUS-EXPERIMENTAL
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Expert}\setcounter{chapter}{400}
 
 {\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level F}
 }
-\include{./content/chapter-EXPERT-Wundauflagen}
-\include{./content/chapter-EXPERT-Antikoagulantien}
-\include{./content/chapter-EXPERT-Artikel}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-EXPERT-Wundauflagen}}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-EXPERT-Antikoagulantien}}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-EXPERT-Artikel}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Extras}\setcounter{chapter}{500}
 
-\include{./content/chapter-EXPERT-Narkose}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-EXPERT-Narkose}}
 % \opt{STATUS-EXPERIMENTAL}{%
-\include{./content/part-Lehrmaterialien}
+\opt{STATUS-EXPERIMENTAL}{\include{./content/part-Lehrmaterialien}}
 %}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

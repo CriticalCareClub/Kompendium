@@ -31,6 +31,7 @@ einen enormen Einfluß auf das spätere Behandlungsergebnis.
 {\TxTeilkapitelAASS}
 }
 
+\clearpage
 \section{Einleitung}
 
 
@@ -409,15 +410,28 @@ Gefahrenguttransporter durch eine orange, rechteckige
 Warntafel mit schwarzem Rand
 (\prettyref{tab:gefahrentafel-ehi}).
 
-\begin{WidePar}
-\begin{table}[H]
-\Captionof{table}{In der Ausführung gibt es neben der
+
+% \TableWide
+% 	{<Titel>}%1
+% 	{<Beschreibung>}%2
+% 	{<Label>}%3
+% 	{<Quelle>}%4
+% 	{<Lizenz>}%5
+% 	{<Tabelle>}%6
+% 	{<Float>}%8
+\TableWide
+{Kennzeichnung durch Gefahrentafel}%1
+{In der Ausführung gibt es neben der
 unbeschrifteten Tafel eine mit zwei Ziffernkombinationen
 ausgestattete Form der Warntafel. Die Beschriftung zeigt in
 seinem oberen Feld die Gefahrennummer (Kemler-Nummer) und in
 seinem unteren Bereich die Stoffnummer (UN-Nummer) an.
 \E{Die Nummern sind beim Notruf
-anzugeben}.\label{tab:gefahrentafel-ehi}}
+anzugeben}.}%2
+{\label{tab:gefahrentafel-ehi}}%3
+{}%4
+{}%5
+{
 
 \begin{tabular}{m{3.225cm}m{3.225cm}m{3.225cm}m{3.225cm}}
 \toprule\addlinespace
@@ -435,14 +449,11 @@ Gefahrnummer\par (\T{Kemler-Nummer})
 Stoffnummer\par (\T{UN-Nummer})
 \\\addlinespace\bottomrule
 \end{tabular}
+}%6
+{H}%8
 
-\end{table}
-\end{WidePar}
 
 
-\Layout{57}{}{}{}{
-
-}{Kennzeichnung durch Gefahrentafel.}{}
 
 
 
@@ -2111,8 +2122,8 @@ Bewegung} ist -- schmerz- und schwellungsbedingt -- häufig.
 
 \TextSlide{{\TxBeschreibung} und \TxSymptome{}}
 {%
-\DefinitionInPara{Eine Verrenkung ist eineGelenkverletzung, bei der zwei das Gelenk bildende Knochenenden
-aus ihrer normalen Stellung zueinander verschoben werden. Dabei kommt es oft zu
+\DefinitionInPara{Eine Verrenkung ist eine
+Gelenksverletzung, bei der zwei das Gelenk bildende Knochenenden aus ihrer normalen Stellung zueinander verschoben werden. Dabei kommt es oft zu
 Begleitverletzungen an der Gelenkkapsel bzw. den Gelenkbändern. \cite{Gorgass7}}
 Der Patient hat starke \EE{Schmerzen} im Bereich des verletzten Gelenkes,
 die betroffene Extremität kann nicht mehr bewegt werden
@@ -2250,12 +2261,6 @@ Je nach Art des Giftes und der Menge, die dem Körper zugeführt wurden, gibt es
 unterschiedliche Kennzeichen. Es kann mit \EE{Rauschzuständen} und
 \EE{Erbrechen bzw. Durchfall} beginnen, über \EE{Bewusstseinsstörung} zu
 \EE{Atem- und Kreislaufstörung} führen.
-\bigskip
-\bigskip
-
-\bigskip
-
-\bigskip
 }{
 \begin{itemize}
     \item Rauschzustände

@@ -539,11 +539,23 @@ Stoffwechselstörungen u.\,v.\,a.\,m.
 einer \EE{organischen} Psychose (mit behebbarer Ursache)
 ausgegangen werden!}
 
-\begin{table}[H]
-\begin{WidePar}
-\TableBaseModification
-\Z{
-\Captionof{table}{Einteilung der Psychosen nach \cite{Pschy259}\label{tab:psychosen-einteilung}}
+
+% \TableWide
+% 	{<Titel>}%1
+% 	{<Beschreibung>}%2
+% 	{<Label>}%3
+% 	{<Quelle>}%4
+% 	{<Lizenz>}%5
+% 	{<Tabelle>}%6
+% 	{<Float>}%8
+\TableWide
+{Einteilung der Psychosen nach \cite{Pschy259}}%1
+{}%2
+{\label{tab:psychosen-einteilung}}%3
+{}%4
+{}%5
+{%
+\Z{%
 \begin{tabularx}{\linewidth}{XX}
 \toprule\addlinespace
 \multicolumn{2}{c}{\TabHeading{Psychosen}}
@@ -578,9 +590,8 @@ ausgegangen werden!}
 \\\bottomrule
 \end{tabularx}
 }
-\end{WidePar}
-\end{table}
-
+}%6
+{H}%8
 
 
 \Text{\TxSymptome}

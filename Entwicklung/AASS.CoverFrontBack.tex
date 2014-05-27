@@ -1,14 +1,13 @@
-\sffamily
-% {\BoxRoundedBorderFilled{DefaultA}{White}
-% {{\sffamily\bfseries\Large\color{DefaultA}{\DocVersionTyp}} \par {\ttfamily\textbf{\DocVersion} Var. ASB\,921 --
-% {\DocVersionInfo}}}}
-
-% {\BoxRoundedBorderFilled{DefaultA}{White}
-% {
-~\vfill
-
-\begin{center}
-{{\Huge\scalefont{1.2}\bfseries{\color{DefaultA}Arbeits- und
+\loadgeometry{FullPage}\thispagestyle{empty}
+% 1: Title
+% 2: Subtitle
+% 3: Head
+% 4: Picture
+% 5: Editors
+% 6: Bottom
+% 7: Publisher
+\CoverFrontMake
+{{\color{DefaultA}Arbeits- und
 Ausbildungsstandards}
 
 \bigskip
@@ -17,119 +16,53 @@ Ausbildungsstandards}
 % 
 % \bigskip
 
-{\color{DefaultB}für den Sanitätsdienst}} 
-
-\bigskip
-
-\bigskip
-% 
-\opt{VAR-VAR0}{{\Large\color{DefaultGrey} Stammvariante}}
-\opt{VAR-VAR1}{{\Large\color{DefaultGrey} Angepasste Version für den ASB Floridsdorf-Donaustadt}}
+{\color{DefaultB}für den \color{DefaultRed}Sanitätsdienst}}
+{%
+\opt{VAR-VAR0}{{Stammvariante}}
+\opt{VAR-VAR1}{{Angepasste Variante für den ASB Floridsdorf-Donaustadt}}
 % \opt{VAR-VAR2}{{\Large\color{Grey} Angepasste Version für den Arbeiter-Samariter-Bund Österreichs}}
-
 \opt{VAR-VAR2}{
-\begin{minipage}[m]{{8cm}}
-\flushright{\Large\color{AsboeGreyVeryLight}\textit{Angepasste Version für den} \\\color{AsboeGreyLight} Arbeiter-Samariter-Bund Österreichs}
-\end{minipage}
-\hspace{1cm}
-\begin{minipage}[m]{3cm}
-\includegraphics[width=3cm]{./icons/asb}
-\end{minipage}
-
+	\begin{minipage}[m]{{8cm}}
+	\flushright{\Large\color{AsboeGreyLightVery}\textit{Angepasste Version für den} \\\color{AsboeGreyLight} Arbeiter-Samariter-Bund Österreichs}
+	\end{minipage}
+	\hspace{1cm}
+	\begin{minipage}[m]{3cm}
+	\includegraphics[width=3cm]{./icons/asb}
+	\end{minipage}}
 }
-
-
-% \bigskip
-% 
-% {\color{Grey}\hrule}
-% \opt{VAR-VAR2}{{
-% % \begin{center}
-% \bigskip
-% \includegraphics[width=3cm]{./icons/asb}
-% % \end{center}
-% }}
-% \bigskip
-% 
-% \Large{\AASS}
+{Header}
+{%
+	\opt{VAR-VAR0}{{\includegraphics[height=8cm]{./images/hirtler-aass/LageLarynxTubus}}}
+	\opt{VAR-VAR1}{{\includegraphics[height=8cm]{./images/hirtler-aass/LageLarynxTubus}}}
+	\opt{VAR-VAR2}{{\includegraphics[height=7cm]{./images/hirtler-aass/LageLarynxTubus}}}
 }
-\end{center}
-
-
-
-% \vspace{1cm}
-
-% \bigskip
-
-% }}
-
-\vfill
-
-\begin{center}
-\opt{VAR-VAR0}{{\includegraphics[height=12cm]{./images/hirtler-aass/LageLarynxTubus}}}
-\opt{VAR-VAR1}{{\includegraphics[height=12cm]{./images/hirtler-aass/LageLarynxTubus}}}
-\opt{VAR-VAR2}{{\includegraphics[height=11cm]{./images/hirtler-aass/LageLarynxTubus}}}
-% \includegraphics[width=0.8\linewidth]{./images/pallinger-christoph-aass/Beatmungsmaske_32906_v2-AASS-0112mm}
-% \includegraphics[width=6cm]{./icons/under-construction}
-\end{center}
-
-\vfill
-
-
-\begin{center}
-% \BoxRoundedBorderFilled{DefaultD}{White}{
-\begin{center}
-{\Large\color{DefaultGrey}Herausgeber} \vspace{0.5em}
-\\{\Large\color{DefaultB}\bfseries Gabriel {$\cdot$} Koch {$\cdot$} Emhofer {$\cdot$} Motal {$\cdot$} Steuer}
-% \vspace{0.5em}
-% \\{\color{DefaultB}\itshape\normalsize{Mit Beiträgen von Lena
-% Hirtler, Christof Koller, Michael Withofner u.\,a.}}
-\end{center}
-
-\bigskip
-
-\BoxRoundedBorderFilled{BoxStandardBackground}{BoxStandard}{
-\begin{multicols}{2}
-{Mit Beiträgen von }
-\vspace{0.5em}
-
-{\color{DefaultB}Michael Auer\\
-Lena Hirtler\\
-Christof Koller\\ 
-Michael Withofner u.\,a.}
-\columnbreak
-
-% {Version}
-% \vspace{0.5em}\\
-{\color{DefaultB}
-% \textbf{\DocVersion}
-Version \textbf{\DocVersion} 
-
-Variante \textbf{\DocVariant}
-
-({\DocVersionInfo})}
-
-Korrespondiert mit {\AASS} Maßnahmenkatalog {\color{DefaultB}\VarMkatalogVersion}
-
-\vspace{0.5em}
-
-ISBN (eBook): {\VarDocIsbn}
-% 
-% \today
-\end{multicols}
-% }
+{Gabriel {$\cdot$} Koch {$\cdot$} Emhofer {$\cdot$} Motal {$\cdot$} Steuer}
+{%
+	\begin{multicols}{2}\color{BaseLight}
+		{Mit Beiträgen von }
+		\vspace{0.5em}
+		
+		{\color{Base}Michael Auer\\
+		Lena Hirtler\\
+		Christof Koller\\ 
+		Michael Withofner u.\,a.}
+		\columnbreak
+		
+		% {Version}
+		% \vspace{0.5em}\\
+		{
+		% \textbf{\DocVersion}
+		Version \hfill {\color{Base}\LARGE \VarDocVersion}
+		\hfill
+		Variante \hfill {\color{Base}\LARGE \VarDocVariant} \hfill~
+		
+		\hfill({\VarDocVersionTypeDescription})}
+		
+		\vspace{0.5em}
+		
+		ISBN: \hfill{\color{Base}\VarAassIsbn}
+		% 
+		% \today
+	\end{multicols}
 }
-\end{center}
-
-
-
-\bigskip
-% \date{November 2009}
-
-% \opt{VAR-VAR1}{{
-\begin{center}
-{{\ARGE}}
-\end{center}
-% }}
-
-
-
+{\ARGE}

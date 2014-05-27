@@ -1343,25 +1343,26 @@ zum (hygienischen) Selbstschutz kurz erläutert:
 
 
 
-% \Layout{57}
-% {}
-% {}
-% {}
-% {%
-\renewcommand{\thefootnote}{{\sffamily\alph{footnote}}}
+\Layout{57}
+{}
+{}
+{}
+{%
+% \renewcommand{\thefootnote}{{\sffamily\alph{footnote}}}
 \begin{tabularx}{\linewidth}{XXXXX}\addlinespace\toprule\addlinespace
 \noindent\TabHeading{Typ}
 &
 \noindent\TabHeading{Mindest\-rück\-halte\-ver\-mögen des Filters}
-\footnotemark[1]\footnotemark[2]
+% \footnotemark[1]\footnotemark[2]
 % TODO LIT: Dreller S. et.al.: RdL 66 (März 2006)
 &
 \noindent\TabHeading{Max. zul.
-Gesamt\-leck\-age}\footnotemark[3] 
+Gesamt\-leck\-age}%\footnotemark[3] 
 &
 \noindent\TabHeading{Anwendung (Beispiele)}
 \\\midrule\addlinespace
-\noindent\TabSub{Mund-Nasen-Maske} & 95\PC*\footnotemark[4] & k.\,A. & Basisschutz; \Abk{MRSA}, \ldots
+\noindent\TabSub{Mund-Nasen-Maske} & 95\PC*%\footnotemark[4] 
+                                                              & k.\,A. & Basisschutz; \Abk{MRSA}, \ldots
 \\\addlinespace 
 \noindent\TabSub{FFP 1} & 80\PC* & 22\PC* &
 \\\addlinespace
@@ -1370,13 +1371,13 @@ Gesamt\-leck\-age}\footnotemark[3]
 \noindent\TabSub{FFP 3} & 99\PC* & 2\PC* & \Abk{SARS}, offene Tuberkulose 
 \\\addlinespace\bottomrule
 \end{tabularx}
-\footnotetext[1]{für \ce{NaCl}-Prüfaerosol}
-\footnotetext[2]{Dreller S. et.al.: RdL 66 (März 2006)}
-\footnotetext[3]{gem. DIN EN 149\label{fn:hyg-sm-dinen149}}
-\footnotetext[4]{für Staphylococcus
-aureus\label{fn:hyg-sm-stapha}}
-\renewcommand{\thefootnote}{\arabic{footnote}}
-% }
+% \footnotetext[1]{für \ce{NaCl}-Prüfaerosol}
+% \footnotetext[2]{Dreller S. et.al.: RdL 66 (März 2006)}
+% \footnotetext[3]{gem. DIN EN 149\label{fn:hyg-sm-dinen149}}
+% \footnotetext[4]{für Staphylococcus
+% aureus\label{fn:hyg-sm-stapha}}
+% \renewcommand{\thefootnote}{\arabic{footnote}}
+}
 {Arten von Schutzmasken und Rückhaltevermögen}
 {}
 

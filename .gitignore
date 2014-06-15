@@ -34,6 +34,7 @@
 *.refactorings
 *.run.xml
 *.rx
+*.synctex
 .DS_Store
 AAS.pdf
 AASS.ist

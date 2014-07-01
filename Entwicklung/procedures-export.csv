@@ -7,8 +7,7 @@ CK56070C,2,2014-03-19,SPZ,Darmverschluß,,"Chirurgie, bei weiblichen Patienten m
 CK65090C,2,2014-03-19,SPZ,Bauchfellentzündung,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)",Wie Akutes Abdomen,C,K,6,5,0,9,0,C,K65.09,"Peritonitis, nicht näher bezeichnet"
 CK80811C,2,2014-03-19,SPZ,Gallenkolik,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)",Rasche Schmerztherapie (veranlassen),C,K,8,0,8,1,1,C,K80.81,Sonstige Cholelithiasis: Mit Gallenwegsobstruktion
 CK859X0C,2,2014-03-19,SPZ,Akute Pankreatitis,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)",Symptomatische Erstversorung ,C,K,8,5,9,-,0,C,K85.9-,"Akute Pankreatitis, nicht näher bezeichnet"
-CK92020C,2,2014-03-19,SPZ,Blutungen des Verdauungstrakts,,Chirurgie oder Innere Medizin,"Vitale Bedrohung bei hohem Blutverlust!
-Schockbekämpfung, zügiger Transport",C,K,9,2,0,2,0,C,K92.02,"Gastrointestinale Blutung, nicht näher bezeichnet"
+CK92020C,2,2014-03-19,SPZ,Blutungen des Verdauungstrakts,,Chirurgie oder Innere Medizin,"Vitale Bedrohung bei hohem Blutverlust! Schockbekämpfung, zügiger Transport",C,K,9,2,0,2,0,C,K92.02,"Gastrointestinale Blutung, nicht näher bezeichnet"
 CKXXXX1C,2,2014-03-19,ALL,Abdominalerkrankung,,"Je nach Diagnose, Patient und lokaler Regelung: Chirurgie, Innere Medizin, Gynäkologie, Urologie, Kinderheilkunde, etc.  Bei weiblichen Patienten immer Abt. für Gynäkologie im {Hintergrund} erwägen, auch wenn primär eine andere Fachabteilung zuständig zu sein scheint!","Nüchtern lassen, Bauchdecken-entspannende Lagerung, konsequentes Monitoring",C,K,-,-,-,-,1,C,K--.--,Kapitel XI Krankheiten des Verdauungssystems
 CR10000C,2,2014-03-19,SPZ,Akutes Abdomen,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)","Unmittelbare Bedrohung gem. Einschätzungsblock, nüchtern lassen",C,R,1,0,0,0,0,C,R10.00,Akutes Abdomen
 ER09020A,2,2014-03-19,SPZ,Atem- und Kreislaufstillstand,,Je nach Ursache,Reanimation,E,R,0,9,0,2,0,A,R09.02,
@@ -86,6 +85,7 @@ MT43091C,2,2014-03-19,SPZ,Vergiftung mit Uppers,,"Innere Medizin, evtl. Überwac
 MT51001C,2,2014-03-19,SPZ,Vergiftung mit Alkohol,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation, bzw. toxikologische Spezialabteilung",,M,T,5,1,0,0,1,C,T51.00,Toxische Wirkung: Äthanol
 MT54091C,2,2014-03-19,SPZ,Einnahme von Säuren oder Laugen,,,,M,T,5,4,0,9,1,C,T54.09,"Toxische Wirkung: Ätzende Substanz, nicht näher bezeichnet"
 MT58001C,2,2014-03-19,SPZ,Vergiftung mit Kohlenmonoxid,,"Innere Medizin, evtl. Spezialeinheit mit Druckkammer",,M,T,5,8,0,0,1,C,T58.00,Toxische Wirkung von Kohlenmonoxid
+MT59070C,2,2014-06-30,ALL,Vergiftung mit Kohlendioxid,,Innere Medizin,,M,T,5,9,0,7,0,C,T59.07,Toxische Wirkung: Kohlendioxid
 MT59XX1C,2,2014-03-19,ALL,Vergiftung mit Stickgasen,Allg. M!,"Innere Medizin, evtl. Spezialeinheit mit Druckkammer",,M,T,5,9,-,-,1,C,T59.--,"Toxische Wirkung sonstiger Gase, Dämpfe oder sonstigen Rauches"
 MT59XX2C,2,2014-03-19,SPZ,Vergiftung mit Reizgasen,,Innere Medizin,,M,T,5,9,-,-,2,C,T59.--,"Toxische Wirkung sonstiger Gase, Dämpfe oder sonstigen Rauches"
 MT65091C,2,2014-03-19,ALL,"Vergiftungen, allgemein",Allg. M!,"Innere Medizin, evtl. Überwachungs- oder Intensivstation, bzw. toxikologische Spezialabteilung",,M,T,6,5,0,9,1,C,T65.09,Toxische Wirkung einer nicht näher bezeichneten Substanz
@@ -100,7 +100,7 @@ NI64XX0C,2,2014-03-19,SPZ,Insult,,"Stroke Unit, Abt. f. Neurologie, Abt. f. Inne
 NR56081C,2,2014-03-19,SPZ,Krampfender Patient,,"Intensivstation bzw. Überwachungsstation, Innere Medizin",,N,R,5,6,0,8,1,C,R56.08,Sonstige und nicht näher bezeichnete Krämpfe
 NR56082C,2,2014-03-19,SPZ,Z. n. Krampanfall,,Innere Medizin,,N,R,5,6,0,8,2,C,R56.08,Sonstige und nicht näher bezeichnete Krämpfe
 PF22091C,2,2014-03-19,SPZ,Patienten mit Wahnvorstellungen,Achtung: Kodierung als Patient mit anhaltenden wahnhaften Vorstellungen. Bei akuten Episoden ist der Code F23.xx zu verwenden,Psychiatrie,,P,F,2,2,0,9,1,C,F22.09,"Anhaltende wahnhafte Störung, nicht näher bezeichnet"
-PxxxxxxC,2,2014-03-19,SPZ,Unruhiger oder aggressiver Patient,,Je nach Ursache,,P,x,x,x,x,x,x,C,xxx.xx,
+PF92091C,2,2014-06-30,SPZ,Unruhiger oder aggressiver Patient,,Je nach Ursache,,P,F,9,2,0,9,1,C,F92.09,"Kombinierte Störung des Sozialverhaltens und der Emotionen, nicht näher bezeichnet"
 SY52210A,2,2014-03-19,STD,Sauerstoffberieselung,,---,,S,Y,5,2,2,1,0,A,Y52.21,Interner Y-Code
 TJ93090C,2,2014-03-19,SPZ,Pneumothorax,,"Unfallchirurgie, wenn kein Trauma Lungenheilkunde oder Innere Medizin",,T,J,9,3,0,9,0,C,J93.09,"Pneumothorax, nicht näher bezeichnet"
 TS06XX0C,2,2014-03-19,SPZ,Schädel-Hirn-Trauma,,Unfallchirurgie mit Neurochirurgie,,T,S,0,6,-,-,0,C,S06.--,Intrakranielle Verletzung

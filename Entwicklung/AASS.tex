@@ -86,7 +86,7 @@ sortlocale=de,
 	\DeclareFieldFormat[article]{title}{\mkbibbold{{#1}}}
 	\DeclareFieldFormat[inbook]{title}{\mkbibbold{{#1}}}
 	% \DeclareFieldFormat{citetitle}{\mkbibbold{#1}}
-	% 
+	%
 	% \DeclareFieldFormat{citetitle}[article]{\mkbibbold{#1}}
 	\DeclareFieldFormat{journaltitle}{\mkbibemph{#1}}
 	\DeclareFieldFormat[article]{journaltitle}{\mkbibemph{#1}}
@@ -182,7 +182,7 @@ sortlocale=de,
 
 
 
-
+\ActionReset
 \def\VarColumsLiterary{3}
 % #######################################################################################################
 % #######################################################################################################
@@ -583,8 +583,8 @@ Standards ist, es gibt so viele, aus denen man auswählen kann.}
 {Externe Teile}
 {Aus Kostengründen sind manchmal nicht
 alle Teile Bestandteil eines Drucks. Dies betrifft
-insbesonders Teile des Appendix wie z.\,B. das
-Literaturverzeichnis oder den Kommentarteil. Diese Teile
+besonders Teile des Appendix wie z.\,B. das
+Literaturverzeichnis. Diese Teile
 sind online auf der {\AASS}-Projektseite im
 Download-Bereich verfügbar
 (\url{http://www.aass.at/cms/download/aass/}).
@@ -612,7 +612,7 @@ Download-Bereich verfügbar
 % \include{./content/chapter-REG}
 \include{./content/chapter-KHD}
 \include{./content/chapter-GEF}
-\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-NWG}} % STATUS-EXPERIMENTAL
+%\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-NWG}} 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -743,7 +743,7 @@ ITLSde6,
 Helfen2008,
 StriebelAnaesthesie2}
 
-\printbibliography[  
+\printbibliography[
 category=BestOf,
 title={Literatur, Best of},
 prenote=bestof]

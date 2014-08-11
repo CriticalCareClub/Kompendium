@@ -10,10 +10,10 @@ CK859X0C,2,2014-03-19,SPZ,Akute Pankreatitis,,"Chirurgie, bei weiblichen Patient
 CK92020C,2,2014-03-19,SPZ,Blutungen des Verdauungstrakts,,Chirurgie oder Innere Medizin,"Vitale Bedrohung bei hohem Blutverlust! Schockbekämpfung, zügiger Transport",C,K,9,2,0,2,0,C,K92.02,"Gastrointestinale Blutung, nicht näher bezeichnet"
 CKXXXX1C,2,2014-03-19,ALL,Abdominalerkrankung,,"Je nach Diagnose, Patient und lokaler Regelung: Chirurgie, Innere Medizin, Gynäkologie, Urologie, Kinderheilkunde, etc.  Bei weiblichen Patienten immer Abt. für Gynäkologie im {Hintergrund} erwägen, auch wenn primär eine andere Fachabteilung zuständig zu sein scheint!","Nüchtern lassen, Bauchdecken-entspannende Lagerung, konsequentes Monitoring",C,K,-,-,-,-,1,C,K--.--,Kapitel XI Krankheiten des Verdauungssystems
 CR10000C,2,2014-03-19,SPZ,Akutes Abdomen,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)","Unmittelbare Bedrohung gem. Einschätzungsblock, nüchtern lassen",C,R,1,0,0,0,0,C,R10.00,Akutes Abdomen
-ER09020A,2,2014-03-19,SPZ,Atem- und Kreislaufstillstand,,Je nach Ursache,Reanimation,E,R,0,9,0,2,0,A,R09.02,
-ER40021A,2,2014-03-19,SPZ,Bewusstlosigkeit,,Je nach Ursache,,E,R,4,0,0,2,1,A,R40.02,
-ER57XX0A,2,2014-03-19,SPZ,Schock,,"Je nach Ursache, z.\,B. Unfallchirurgie/Schockraum, Innere Medizin, Überwachungs- oder Intensivstation",,E,R,5,7,-,-,0,A,R57.--,
-ER58XX1A,2,2014-03-19,SPZ,Starke Blutung,,Unfallchirurgie,,E,R,5,8,-,-,1,A,R58.--,"Blutung, anderenorts nicht klassifiziert"
+ER09020A,2,2014-03-19,SPZ,Atem- und Kreislaufstillstand,,,Reanimation,E,R,0,9,0,2,0,A,R09.02,
+ER40021A,2,2014-03-19,SPZ,Bewusstlosigkeit,,,,E,R,4,0,0,2,1,A,R40.02,
+ER57XX0A,2,2014-03-19,SPZ,Schock,,,,E,R,5,7,-,-,0,A,R57.--,
+ER58XX1A,2,2014-03-19,SPZ,Starke Blutung,,,,E,R,5,8,-,-,1,A,R58.--,"Blutung, anderenorts nicht klassifiziert"
 ET14031A,2,2014-03-19,SPZ,Verstauchung,,Unfallchirurgie,,E,T,1,4,0,3,1,A,T14.03,"Luxation, Verstauchung und Zerrung an einer nicht näher bezeichneten Körperregion"
 ET14032A,2,2014-03-19,SPZ,Verrenkung,,Unfallchirurgie,,E,T,1,4,0,3,2,A,T14.03,
 ET140X1A,2,2014-03-19,SPZ,Oberflächliche Bagatellverletzungen,,Unfallchirurgie,,E,T,1,4,0,-,1,A,T14.0-,Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion
@@ -23,7 +23,7 @@ ET30003A,2,2014-03-19,SPZ,Verbrennungen,,Unfallchirurgie bzw. Vebrennungseinheit
 ET30041A,2,2014-03-19,SPZ,Verätzungen der Haut,,"Unfallchirurgie, Dermatologie",,E,T,3,0,0,4,1,A,T30.04,"Verätzung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet"
 ET30042A,2,2014-03-19,SPZ,Verätzungen des Magen-Darm-Traktes,,,,E,T,3,0,0,4,2,A,T30.04,"Verätzung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet"
 ET35071A,2,2014-03-19,SPZ,Erfrierungen,,Unfallchirurgie,,E,T,3,5,0,7,1,A,T35.07,Nicht näher bezeichnete Erfrierung an nicht näher bezeichneten Lokalisationen
-ET65090A,2,2014-03-19,SPZ,Vergiftungen,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation, bzw. toxikologische Spezialabteilung",,E,T,6,5,0,9,0,A,T65.09,Toxische Wirkung einer nicht näher bezeichneten Substanz
+ET65090A,2,2014-03-19,SPZ,Vergiftungen,,,,E,T,6,5,0,9,0,A,T65.09,Toxische Wirkung einer nicht näher bezeichneten Substanz
 ET68001A,2,2014-03-19,SPZ,Unterkühlung,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation",,E,T,6,8,0,0,1,A,T68.00,Hypothermie
 GN93091C,2,2014-03-19,SPZ,Vaginale Blutung,,"Gynäkologie, bei Wehen Kreißsaal","Symptomatisch, Lagerung nach Fritsch",G,N,9,3,0,9,1,C,N93.09,"Abnorme Uterus- oder Vaginalblutung, nicht näher bezeichnet"
 GO00091C,2,2014-03-19,SPZ,"Eileiterschwangerschaft, Verdacht",,Gynäkologie,Symptomatisch,G,O,0,0,0,9,1,C,O00.09,"Extrauteringravidität, nicht näher bezeichnet"

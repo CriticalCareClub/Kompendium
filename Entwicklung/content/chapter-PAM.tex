@@ -991,7 +991,7 @@ Reaktion auf \EE{\underline{S}chmerzreiz} und
 Dementsprechend kann ein Patient
 \I{bewusstseinsklar}, \I{somnolent}, \I{soporös}
 oder  \I{komatös} bzw. \I{bewusstlos} sein, vgl.
-\prettyref{tab:bewusstseinsgrade}.
+\prettyref{tab:bewusstseinsgrade-pam}.
 }{
 \begin{itemize}
   \item W\,--\,A\,--\,S\,--\,B
@@ -1006,104 +1006,36 @@ oder  \I{komatös} bzw. \I{bewusstlos} sein, vgl.
 }{}{}{}
 
 
-\Layout{57}
-{}
-{}
-{}
-{
-\begin{tabularx}{\linewidth}{lllXl}
-% \toprule
-\addlinespace\toprule\addlinespace
-\TabHeading{W}
-&
-\EE{W}ach
- &
-\I{bewusstseinsklar}
- &
- wach
- &
-\\\addlinespace
-\TabHeading{A}
-&
-Reaktion auf \EE{A}nsprache
-&
-\noindent\I[Somnolenz]{somnolent}
-&
-schläfrig, aber leicht erweckbar.
- &
-\\\addlinespace
-\TabHeading{S}
-&
-Reaktion auf \EE{S}chmerzreiz
- &
-\noindent\I[Sopor]{soporös}
- &
- kaum und nur mit erheblichen Aufwand (Schmerzreiz)
- erweckbar 
- &
-\noindent\EE{Gefahr!}
-\\\addlinespace
-\TabHeading{B}
-&
-\EE{B}ewusstlosigkeit\index{Bewusstlosigkeit}
- &
-\noindent\I[Koma]{komatös}
- &
- nicht erweckbar, ohne Bewusstsein
- &
-\noindent\Ca{Lebensgefahr!}
-\\\addlinespace\bottomrule
-\end{tabularx}}
-{Übersicht:
-\EE{Bewusstseinsgrade}\label{tab:bewusstseinsgrade}.}
-{}
+\TableWide
+{Bewusstseinsgrade}%1
+{WASB-Schema}%2
+{\label{tab:bewusstseinsgrade-pam}}%3
+{}%4
+{}%5
+{{\protect\input{./content/tabular-BewusstseinsgradeWasb}}}%6
+{}%7
 
 
 
+%\begin{table}[H]
+%\begin{WidePar}
+%\TableBaseModification
+%\Captionof{table}{GCS - Glasgow Coma Scale für den 
+%Erwachsenen.\label{tab:gcs}}
+%
+%\input{./content/tabular-Gcs}
+%\end{WidePar}
+%\end{table}
 
+\Table
+{GCS}%1
+{Glasgow Coma Scale für den Erwachsenen.}%2
+{\label{tab:gcs-pam}}%3
+{}%4
+{}%5
+{{\protect\input{./content/tabular-Gcs}}}%6
+{}%7
 
-\begin{table}[H]
-\begin{WidePar}
-\TableBaseModification
-\Captionof{table}{GCS - Glasgow Coma Scale für den Erwachsenen.\label{tab:gcs}}
-
-\begin{tabulary}{\linewidth}{LCCL}\addlinespace\toprule\addlinespace
-\noindent ~ & \noindent\TabHeading{Max.} & \noindent\TabHeading{Punkte} &
-\noindent\TabHeading{Reaktion}
-\\\midrule
-\noindent\TabSub{Augenöffnung} & 4 & 4 & spontan
-\\
- & & 3 & auf Ansprache
-\\
- & & 2 & Schmerzreiz
-\\
- & & 1 & nicht
-\\\midrule
-\noindent\TabSub{Verbale Antwort} & 5 & 5 & klar
-\\
- & & 4 & verwaschen
-\\
- & & 3 & unzusammenhängende Worte
-\\
- & & 2 & unartikuliert
-\\
- & & 1 & nicht
-\\\midrule
-\noindent\TabSub{Motorische Reaktion} & 6 & 6 & spontan
-\\
- & & 5 & gezielte Abwehrbewegungen
-\\
- & & 4 & ungezielte Abwehrbewegungen
-\\
- & & 3 & Beugung
-\\
- & & 2 & Strecken
-\\
- & & 1  & bewegt gar nicht
-\\\bottomrule
-\end{tabulary}
-\end{WidePar}
-\end{table}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1153,16 +1085,6 @@ wehren,
 
 
 
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Bewusstseinseintrübung
-\ProcedurePrintDefault{MR40001B}
-
-
-% M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
-% Bewusstlose und soporöse Patienten
-\ProcedurePrintDefault{MR40021B}
-
-
 
 % \begin{PictureSeriesWide}{}{Bilderserie ABCDE}
 % \PictureSeriesRowWide{3}
@@ -1179,6 +1101,10 @@ wehren,
 \Text{Typische Maßnahmen}
 {%
 \begin{itemize}
+  \item Spezielle Maßnahmen: Bewusstseinseintrübung 
+  (\FullPrettyProcedureRef{MR40001B})
+  \item Spezielle Maßnahmen: Bewusstlose und soporöse Patienten 
+  (\FullPrettyProcedureRef{MR40021B})
   \item \TxMassVit 
   \begin{compactitem}
     \item Absaugbereitschaft!

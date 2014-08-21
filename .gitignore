@@ -35,6 +35,7 @@
 *.run.xml
 *.rx
 *.synctex
+*.synctex.gz
 .DS_Store
 AAS.pdf
 AASS.ist

@@ -10,10 +10,10 @@ CK859X0C,2,2014-03-19,SPZ,Akute Pankreatitis,,"Chirurgie, bei weiblichen Patient
 CK92020C,2,2014-03-19,SPZ,Blutungen des Verdauungstrakts,,Chirurgie oder Innere Medizin,"Vitale Bedrohung bei hohem Blutverlust! Schockbekämpfung, zügiger Transport",C,K,9,2,0,2,0,C,K92.02,"Gastrointestinale Blutung, nicht näher bezeichnet"
 CKXXXX1C,2,2014-03-19,ALL,Abdominalerkrankung,,"Je nach Diagnose, Patient und lokaler Regelung: Chirurgie, Innere Medizin, Gynäkologie, Urologie, Kinderheilkunde, etc.  Bei weiblichen Patienten immer Abt. für Gynäkologie im {Hintergrund} erwägen, auch wenn primär eine andere Fachabteilung zuständig zu sein scheint!","Nüchtern lassen, Bauchdecken-entspannende Lagerung, konsequentes Monitoring",C,K,-,-,-,-,1,C,K--.--,Kapitel XI Krankheiten des Verdauungssystems
 CR10000C,2,2014-03-19,SPZ,Akutes Abdomen,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)","Unmittelbare Bedrohung gem. Einschätzungsblock, nüchtern lassen",C,R,1,0,0,0,0,C,R10.00,Akutes Abdomen
-ER09020A,2,2014-03-19,SPZ,Atem- und Kreislaufstillstand,,,Reanimation,E,R,0,9,0,2,0,A,R09.02,
-ER40021A,2,2014-03-19,SPZ,Bewusstlosigkeit,,,,E,R,4,0,0,2,1,A,R40.02,
-ER57XX0A,2,2014-03-19,SPZ,Schock,,,,E,R,5,7,-,-,0,A,R57.--,
-ER58XX1A,2,2014-03-19,SPZ,Starke Blutung,,,,E,R,5,8,-,-,1,A,R58.--,"Blutung, anderenorts nicht klassifiziert"
+ER09020A,3,2014-08-15,SPZ,Atem- und Kreislaufstillstand,,,Reanimation,E,R,0,9,0,2,0,A,R09.02,
+ER40021A,3,2014-08-15,SPZ,Bewusstlosigkeit,,,,E,R,4,0,0,2,1,A,R40.02,
+ER57XX0A,3,2014-08-15,SPZ,Schock,,,,E,R,5,7,-,-,0,A,R57.--,
+ER58XX1A,3,2014-08-15,SPZ,Starke Blutung,,,,E,R,5,8,-,-,1,A,R58.--,"Blutung, anderenorts nicht klassifiziert"
 ET14031A,2,2014-03-19,SPZ,Verstauchung,,Unfallchirurgie,,E,T,1,4,0,3,1,A,T14.03,"Luxation, Verstauchung und Zerrung an einer nicht näher bezeichneten Körperregion"
 ET14032A,2,2014-03-19,SPZ,Verrenkung,,Unfallchirurgie,,E,T,1,4,0,3,2,A,T14.03,
 ET140X1A,2,2014-03-19,SPZ,Oberflächliche Bagatellverletzungen,,Unfallchirurgie,,E,T,1,4,0,-,1,A,T14.0-,Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion

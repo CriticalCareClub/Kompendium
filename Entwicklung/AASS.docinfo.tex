@@ -16,8 +16,8 @@
 
 
 \newcommand{\VarDocVersionBetaIterationCount}			{47}
-\newcommand{\VarDocVersionGammaReleaseCandidateCount}	{--}
-\newcommand{\VarDocVersionDeltaPreviewCount}			{--}
+\newcommand{\VarDocVersionGammaPreviewCount}			{--}
+\newcommand{\VarDocVersionDeltaReleaseCandidateCount}	{--}
 
 % nightly	... 2.0.0.nightly.20140119164900
 % alpha 	... 2.0.0.alpha.20140119164900
@@ -103,27 +103,29 @@
   }
   {}
 
+
 \ifthenelse{\equal{\VarDocVersionType}{gamma}}
   {
-    \def\VarDocVersion						{{\VarDocVersionPrimary}.{\VarDocVersionType}.RC-{\VarDocVersionGammaReleaseCandidateCount}}
-    \def\VarDocVersionFull					{{\VarDocVersionPrimary}.{\VarDocVersionType}.RC-{\VarDocVersionGammaReleaseCandidateCount}.var-{\VarDocVariant}}
-    \def\VarDocVersionExplicit				{{\VarDocVersionPrimaryExplicit}.{\VarDocVersionType}.RC-{\VarDocVersionGammaReleaseCandidateCount}.var-{\VarDocVariant}}
+    \def\VarDocVersion						{{\VarDocVersionPrimary}.{\VarDocVersionType}.{\VarDocVersionGammaPreviewCount}}
+    \def\VarDocVersionFull					{{\VarDocVersionPrimary}.{\VarDocVersionType}.{\VarDocVersionGammaPreviewCount}.var-{\VarDocVariant}}
+    \def\VarDocVersionExplicit				{{\VarDocVersionPrimaryExplicit}.{\VarDocVersionType}.{\VarDocVersionGammaPreviewCount}.var-{\VarDocVariant}}
+    \def\VarDocVersionTypeName				{Vorabversion}
+    \def\VarDocVersionTypeDescription		{Für Gebrauch in kontrollierter Umgebung.}
+  }
+  {}
+
+
+\ifthenelse{\equal{\VarDocVersionType}{delta}}
+  {
+    \def\VarDocVersion						{{\VarDocVersionPrimary}.{\VarDocVersionType}.RC-{\VarDocVersionDeltaReleaseCandidateCount}}
+    \def\VarDocVersionFull					{{\VarDocVersionPrimary}.{\VarDocVersionType}.RC-{\VarDocVersionDeltaReleaseCandidateCount}.var-{\VarDocVariant}}
+    \def\VarDocVersionExplicit				{{\VarDocVersionPrimaryExplicit}.{\VarDocVersionType}.RC-{\VarDocVersionDeltaReleaseCandidateCount}.var-{\VarDocVariant}}
     \def\VarDocVersionTypeName				{Release Candidate}
     \def\VarDocVersionTypeDescription		{Für Testzwecke.}
   }
   {}
 
 
-
-\ifthenelse{\equal{\VarDocVersionType}{delta}}
-  {
-    \def\VarDocVersion						{{\VarDocVersionPrimary}.{\VarDocVersionType}.{\VarDocVersionDeltaPreviewCount}}
-    \def\VarDocVersionFull					{{\VarDocVersionPrimary}.{\VarDocVersionType}.{\VarDocVersionDeltaPreviewCount}.var-{\VarDocVariant}}
-    \def\VarDocVersionExplicit				{{\VarDocVersionPrimaryExplicit}.{\VarDocVersionType}.{\VarDocVersionDeltaPreviewCount}.var-{\VarDocVariant}}
-    \def\VarDocVersionTypeName				{Vorabversion}
-    \def\VarDocVersionTypeDescription		{Für Gebrauch in kontrollierter Umgebung.}
-  }
-  {}
 
 \ifthenelse{\equal{\VarDocVersionType}{final}}
   {

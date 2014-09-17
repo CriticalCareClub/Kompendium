@@ -40,6 +40,11 @@ Voraussetzungen für effektives und professionelles Arbeiten.
 
 
 
+
+
+
+
+
 \clearpage % TEMP temp clearpage
 
 
@@ -69,10 +74,24 @@ Standardisierte Patientenversorgung}\bigskip
 
 
 % \vspace{2\baselineskip}
-\vfill
+%\vfill
 
-\Layout{57}{}{}{}{%
-{\sffamily\begin{tabularx}{\linewidth}{XXX}
+%\bigskip
+
+\vspace{-1.5cm}~
+
+
+
+\TableWide
+{{\color{DefaultRed}\bfseries{\VarFlag}} \Ca{Alarmzeichen}
+}%1
+{Wann ist eine vitale Bedrohung
+wahrscheinlich? Eine Übersicht.}%2
+{\label{tab:alarmzeichen}}%3
+{}%4
+{}%5
+{%
+\begin{tabularx}{\linewidth}{XXX}
 \addlinespace\toprule\addlinespace
 \noindent\TabHeading{Massive Störung}
 &
@@ -116,10 +135,15 @@ Rückenmarksverletzung
 
 \ldots
 \\\addlinespace\bottomrule
-\end{tabularx}}
-}{{\color{DefaultRed}\bfseries{\VarFlag}} \Ca{Alarmzeichen:}
-Wann ist eine vitale Bedrohung
-wahrscheinlich? Eine Übersicht.\label{tab:alarmzeichen}}{}
+\end{tabularx}
+
+
+}%6
+{H}%7
+
+%\Layout{57}{}{}{}{%
+%{\sffamily}
+%}{}{}
 
 \vfill
 \noindent{\sffamily\small{\textcopyright} \today\ \ARGEAASS \hfill \url{http://www.aass.at}}
@@ -657,10 +681,6 @@ Komponenten, welche wie eine Maschine zusammenarbeiten:
 In: Johann Wolfgang von Goethe: Faust. Der Tragödie erster Teil]
 {Der Worte sind genug gewechselt,\\
 Laßt mich auch endlich Taten sehn!}
-
-
-
-
 
 
 \clearpage
@@ -1981,10 +2001,11 @@ sind z.\,B.
   \item Vorgezogene Transportentscheidung bei absolut zeitkritischen Patienten.
 \end{itemize}
 
+\clearpage % TEMP
 % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
 % Einschätzung der Indikation zur Wirbelsäulenimmobilisation
 \ProcedurePrintDefault{YY14200B}
-\Commentary[Konsensus]{Review 2011-01-11}
+%\Commentary[Konsensus]{Review 2011-01-11}
 
 % \TextSlide{Vital bedrohte Patienten}{%
 % Bei vital bedrohten Patienten gibt es 

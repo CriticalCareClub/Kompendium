@@ -253,74 +253,8 @@ bindingoffset=1.5cm}
 
 
 \begin{titlepage}
-\loadgeometry{FullPage}\thispagestyle{empty}
-% 1: Title
-% 2: Subtitle
-% 3: Head
-% 4: Picture
-% 5: Editors
-% 6: Bottom
-% 7: Publisher
-\CoverFrontMake
-{{\color{DefaultA}Arbeits- und
-Ausbildungsstandards}
 
-\bigskip
-
-% {\color{Grey}\hrule}
-% 
-% \bigskip
-
-{\color{DefaultB}für den \color{DefaultRed}Sanitätsdienst}}
-{%
-\opt{VAR-VAR0}{{Stammvariante}}
-\opt{VAR-VAR1}{{Angepasste Variante für den ASB Floridsdorf-Donaustadt}}
-% \opt{VAR-VAR2}{{\Large\color{Grey} Angepasste Version für den Arbeiter-Samariter-Bund Österreichs}}
-\opt{VAR-VAR2}{
-	\begin{minipage}[m]{{8cm}}
-	\flushright{\Large\color{AsboeGreyLightVery}\textit{Angepasste Version für den} \\\color{AsboeGreyLight} Arbeiter-Samariter-Bund Österreichs}
-	\end{minipage}
-	\hspace{1cm}
-	\begin{minipage}[m]{3cm}
-	\includegraphics[width=3cm]{./icons/asb}
-	\end{minipage}}
-}
-{Header}
-{%
-	\includegraphics[height=8cm]{./icons/under-construction}
-% 	\opt{VAR-VAR0}{{\includegraphics[height=8cm]{./images/hirtler-aass/LageLarynxTubus}}}
-% 	\opt{VAR-VAR1}{{\includegraphics[height=8cm]{./images/hirtler-aass/LageLarynxTubus}}}
-% 	\opt{VAR-VAR2}{{\includegraphics[height=7cm]{./images/hirtler-aass/LageLarynxTubus}}}
-}
-{Gabriel {$\cdot$} Koch {$\cdot$} Emhofer {$\cdot$} Motal {$\cdot$} Steuer}
-{%
-	\begin{multicols}{2}\color{BaseLight}
-		{Mit Beiträgen von }
-		\vspace{0.5em}
-		
-		{\color{Base}Michael Auer\\
-		Lena Hirtler\\
-		Christof Koller\\ 
-		Michael Withofner u.\,a.}
-		\columnbreak
-		
-		% {Version}
-		% \vspace{0.5em}\\
-		{
-		% \textbf{\DocVersion}
-		Version \hfill {\color{Base}\LARGE \VarDocVersion} \hfill
-		Variante \hfill {\color{Base}\LARGE \VarDocVariant}
-		
-		({\VarDocVersionTypeDescription})}
-		
-		\vspace{0.5em}
-		
-		ISBN: {\color{Base}\VarAassIsbn}
-		% 
-		% \today
-	\end{multicols}
-}
-{\ARGE}
+\input{./AASS.CoverFrontBack.tex}
 
 \clearpage
 \thispagestyle{empty}

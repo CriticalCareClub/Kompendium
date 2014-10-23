@@ -1275,11 +1275,17 @@ Menge}}{\text{Abgaberate}}
 \minisec{Beispiel}
 
 \begin{quote}
-Man hat eine Flasche mit einer Füllgröße von 10\Liter*. Diese
-steht unter einem Druck von 150\Bar*: Daraus ergibt
-sich, dass in der Flasche 1\,500\Liter* \ce{O2} sind.
+Gegeben ist eine Flasche mit einer Füllgröße von 10\Liter*, diese
+steht unter einem Druck von 150\Bar*:  
 
-Der Patient benötigt 5\,\unitfrac{\Liter}{\Min} \ce{O2} : 
+In der Flasche sind 1\,500\Liter* Sauerstoff, 
+der Patient benötigt 5\,\unitfrac{\Liter}{\Min} \ce{O2}: 
+\begin{equation}
+10 \times 150 = 1500
+\end{equation}
+\begin{equation}
+\frac{1500}{5} = 300
+\end{equation}
 
 Der Inhalt würde theoretisch für 300 Minuten reichen. Der
 Restdruck sowie eine Zeitreserve sind dabei
@@ -1292,7 +1298,7 @@ aber noch \E{nicht} berücksichtigt!
 Gegeben ist: 
 \begin{itemize}
   \item \ce{O2}-Flasche mit Füllgröße von 10\Liter*, Druck von
-160\Bar*
+160\Bar*, Erforderlicher Restdruck: 10\Bar*
 \item Patient: \ce{O2}-Bedarf von 5\LPerMin*
 \item Fahrtdauer laut Routenplaner:
 4\Hour*~58\Min*
@@ -1301,10 +1307,15 @@ Gegeben ist:
 Nach Abzug des Restdruckes ergibt sich ein nutzbarer Druck
 von 150\Bar* und folglich eine nutzbare \ce{O2}-Menge von
 1\,500\Liter*. Der Patient könnte daher für 300\Min* mit
-Sauerstoff versorgt werden. Die (geschätzte) Fahrtdauer
+Sauerstoff versorgt werden: 
+
+\begin{equation}
+\frac{(160 - 10) \times 10}{5} = 300
+\end{equation}
+
+Die (geschätzte) Fahrtdauer
 von 4\Hour*~58\Min* entspricht 298\Min*, es ergibt sich
 eine Zeitreserve von 2\Min*.
-
 Da die Zeitreserve von 2\Min* zu kurz ist, kann der
 Transport mit dieser Ausstattung \E{nicht} durchgeführt
 werden. 

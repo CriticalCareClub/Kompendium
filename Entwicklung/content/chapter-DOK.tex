@@ -218,10 +218,16 @@ regional üblichen und durch Formulare oder
 Computerprogramme vorgegebenen Form abweichen.
 
 
-\Layout{57}
-{}
-{}
-{}
+
+
+\TableWide
+Ein Einsatzprotokoll: Schlechte Dokumentation{}%1 Titel
+{Dieses Beispiel zeigt eine mangelhafte Dokumentation.
+Anhand der Niederschrift ist nicht nachvollziehbar, was
+vorgefallen ist.}%2 Beschreibung
+{}%3 Label/Hook
+{}%4 Quelle
+{}%5 Lizenz
 {%
 \renewcommand{\FontTypewriter}{\ttfamily}
 \begin{tabularx}{\linewidth}{XXXXXX}
@@ -277,11 +283,8 @@ Trpt. m. Arzt: 	& {\FontTypewriter nein}
 Zustand:		& {\FontTypewriter gleich}
 \\\addlinespace\bottomrule\addlinespace
 \end{tabularx}
-}
-{Ein Einsatzprotokoll: Schlechte Dokumentation. Dieses Beispiel zeigt eine mangelhafte Dokumentation.
-Anhand der Niederschrift ist nicht nachvollziehbar, was
-vorgefallen ist. }
-{}
+}%6 Tabelle
+{}%7 Float
 
 
 
@@ -290,10 +293,12 @@ vorgefallen ist. }
 
 
 
-\Layout{57}
-{}
-{}
-{}
+\TableWide
+{Ein Einsatzprotokoll: Bessere Dokumentation}%1 Titel
+{}%2 Beschreibung
+{}%3 Label/Hook
+{}%4 Quelle
+{}%5 Lizenz
 {%
 \renewcommand{\FontTypewriter}{\ttfamily}
 \begin{tabularx}{\linewidth}{XXXXXX}
@@ -370,23 +375,25 @@ Trpt. m. Arzt: 	& {\FontTypewriter nein}
 Zustand:		& {\FontTypewriter gleich}
 \\\addlinespace\bottomrule\addlinespace
 \end{tabularx}
-}
-{Ein Einsatzprotokoll: Bessere Dokumentation}
-{}
+}%6 Tabelle
+{}%7 Float
 
 
 
 
-
-
-
-
-
-
-\Layout{57}
-{}
-{}
-{}
+\TableWide
+{Einsatzprotokoll: Psychiatrischer und psychosozialer Patient}%1 Titel
+{Hier ist nicht nur nachvollziehbar was passiert ist, auch
+ist erkennbar dass versucht wurde, mögliche gefährliche
+Diagnosen auszuschliessen (Schädel-Hirn-Trauma,
+Hirnblutungen, \ldots). Bei diesem Patienten ist die Schilderung der Lebensumstände
+wichtig, sie hilft der weiterbehandelnden Stelle beim
+Entlassungmenagement -- der Patient kann ja schließlich
+nicht in eine bestialisch stinkende, verkotete Wohnung
+zurückgeschickt werden.}%2 Beschreibung
+{}%3 Label/Hook
+{}%4 Quelle
+{}%5 Lizenz
 {%
 \renewcommand{\FontTypewriter}{\ttfamily}
 \begin{tabularx}{\linewidth}{XXXXXX}
@@ -467,82 +474,8 @@ Trpt. m. Arzt: 	& {\FontTypewriter n}
 Zustand:		& {\FontTypewriter gleich}
 \\\addlinespace\bottomrule\addlinespace
 \end{tabularx}
-}
-{Einsatzprotokoll: Psychiatrischer und psychosozialer Patient. Hier ist nicht nur nachvollziehbar was passiert ist, auch
-ist erkennbar dass versucht wurde, mögliche gefährliche
-Diagnosen auszuschliessen (Schädel-Hirn-Trauma,
-Hirnblutungen, \ldots). Bei diesem Patienten ist die Schilderung der Lebensumstände
-wichtig, sie hilft der weiterbehandelnden Stelle beim
-Entlassungmenagement -- der Patient kann ja schließlich
-nicht in eine bestialisch stinkende, verkotete Wohnung
-zurückgeschickt werden.}
-{}
-
-% \Layout{57}
-% {}
-% {}
-% {}
-% {%
-% \renewcommand{\FontTypewriter}{\ttfamily}
-% \begin{tabularx}{\linewidth}{XXXXXX}
-% \toprule\addlinespace
-% \multicolumn{6}{c}{\TabHeading{Einsatzprotokoll}}
-% \\\addlinespace\midrule\addlinespace
-% Berufung: 	& {\FontTypewriter MM-X-mm}
-% &
-% Text:		& {\FontTypewriter Berufungsdiagnose im Klartext, 3. Hand}
-% &
-% Zusatz:		& {\FontTypewriter }
-% \\\midrule
-% Art:		& {\FontTypewriter XXX}		& QU 	& {\FontTypewriter tt.mm.jjj hh:mm}	& BO 	& {\FontTypewriter hh:mm} 
-% \\
-% ZA			& {\FontTypewriter hh:mm}	& AO	& {\FontTypewriter hh:mm}			& EB 	& {\FontTypewriter hh:mm}
-% \\\midrule
-% Name: 		& {\FontTypewriter MUSTERMANN, Max}
-% &
-% Alter:		& {\FontTypewriter 32}
-% &
-% Geschlecht:	& {\FontTypewriter m}
-% \\\addlinespace\midrule
-% \multicolumn{6}{c}{\TabSub{Diagnosen}}
-% \\
-% \multicolumn{6}{p{.98\linewidth}}{{\FontTypewriter Diagnosen}}
-% \\\midrule
-% \multicolumn{6}{c}{\TabSub{Befunde}}
-% \\
-% Vitalwerte			& {\FontTypewriter 09:30} & RR - HF	& {\FontTypewriter 130/80}\MmHg* - {\FontTypewriter 100}\PerMin*	& Sp\ce{O2}	& {\FontTypewriter 99}\PC* 
-% \\
-% Vitalwerte			& {\FontTypewriter 09:50} & RR - HF	& {\FontTypewriter 130/80}\MmHg* - {\FontTypewriter 100}\PerMin*	& Sp\ce{O2}	& {\FontTypewriter 99}\PC* 
-% \\
-% BZ					& {\FontTypewriter xxx}\MgDl*& Temp.	& {\FontTypewriter xx}\,°C									& Schmerzen: 	&
-% \\
-% Weitere Befunde:	& \multicolumn{5}{p{.8\linewidth}}{{\FontTypewriter Weitere Befunde   }}
-% \\
-% NACA:				&		
-% & 
-% GCS:				&
-% \\\addlinespace\midrule
-% \multicolumn{6}{c}{\TabSub{Anamnese, Bemerkungen}}
-% \\
-% \multicolumn{6}{p{.98\linewidth}}{{\FontTypewriter m}}
-% \\\midrule
-% \multicolumn{6}{c}{\TabSub{Maßnahmen}}
-% \\
-% \multicolumn{6}{p{.98\linewidth}}{{\FontTypewriter m}}
-% \\\midrule
-% \multicolumn{6}{c}{\TabSub{Ziel}}
-% \\
-% Zielabt.:		& {\FontTypewriter m}
-% &
-% Trpt. m. Arzt: 	& {\FontTypewriter j/n}
-% &
-% Zustand:		& {\FontTypewriter k.A.}
-% \\\addlinespace\bottomrule\addlinespace
-% \end{tabularx}
-% }
-% {Ein Einsatzprotokoll}
-% {}
-
+}%6 Tabelle
+{}%7 Float
 
 
 

@@ -6,9 +6,14 @@
 % \SectionUnderConstruction
 
 
-\begin{table}[H]
-\TableBaseModification\large
-\begin{WidePar}
+
+\TableWide
+{Wichtige Kontakte}%1 Titel
+{}%2 Beschreibung
+{}%3 Label/Hook
+{}%4 Quelle
+{}%5 Lizenz
+{%
 \begin{tabularx}{\linewidth}{XXXX}
 \toprule\addlinespace
 Ärztlicher Leiter &  & 1. Stellvetreter
@@ -34,12 +39,17 @@ Leitstelle RD &  & Bettenvergabe &
 Anforderung KIT &  & Peer
 \\\hhline{~-~-}\addlinespace\bottomrule
 \end{tabularx}
-\end{WidePar}
-\end{table}
+}%6 Tabelle
+{}%7 Float
 
 
-
-\Layout{57}{}{}{}{
+\TableWide
+{Übersicht Normalwerte}%1 Titel
+{}%2 Beschreibung
+{}%3 Label/Hook
+{}%4 Quelle
+{}%5 Lizenz
+{%
 \begin{tabularx}{\linewidth}{llXXXXXXX}%
 \addlinespace\toprule\addlinespace
 \noindent
@@ -223,11 +233,20 @@ $\hookrightarrow$
 $\hookleftarrow$
 \\\addlinespace\bottomrule
 \end{tabularx}
-}{Übersicht Normalwerte}{}
+}%6 Tabelle
+{}%7 Float
 
 \bigskip
 
-\Layout{57}{}{}{}{{\footnotesize
+
+\TableWide
+{Übersicht: Gebräuchliche Einheiten}%1 Titel
+{}%2 Beschreibung
+{}%3 Label/Hook
+{}%4 Quelle
+{}%5 Lizenz
+{%
+\footnotesize
 \begin{tabularx}{\linewidth}{llllX}
 \addlinespace\toprule\addlinespace
 \noindent\TabHeading{Maß, Messgröße}	& \noindent\TabHeading{Symbol} 	& \noindent\TabHeading{Einheit}	& \noindent\TabHeading{Zeichen} & \noindent\TabHeading{Anmerkungen}\\\addlinespace\midrule\addlinespace 
@@ -284,14 +303,21 @@ Masseanteil								& 								&								& \MgDl 						& Blutzuckermessung\\
 Masseanteil								&								&								& \MetricUnit{\Mg\,\PC}			& = \MgDl
 \\\addlinespace\bottomrule
 \end{tabularx}
-}
-}{Übersicht Gebräuchliche Einheiten}{}
+}%6 Tabelle
+{}%7 Float
 
 
 \bigskip
 
 
-\Layout{57}{}{}{}{{\footnotesize
+
+\TableWide
+{Präfixe für Maßeinheiten}%1 Titel
+{}%2 Beschreibung
+{\label{tab:unit:prefix}}%3 Label/Hook
+{}%4 Quelle
+{}%5 Lizenz
+{%
 \begin{tabular}{lcrllcrr}
 \toprule
 \TabHeading{Präfix} & \TabHeading{Symbol} & \TabHeading{{$10^x$}} & & \TabHeading{Präfix} & \TabHeading{Symbol} & \TabHeading{{$10^x$}} & \\
@@ -308,9 +334,8 @@ Masseanteil								&								&								& \MetricUnit{\Mg\,\PC}			& = \MgDl
 {yocto} & y & -24 		& & {yotta} & Y &  24 & \\
 \bottomrule
 \end{tabular}
-}
-}{Präfixe für Maßeinheiten\label{tab:unit:prefix}}{}
-
+}%6 Tabelle
+{}%7 Float
 
 % 
 % %POLAR COORDINATES

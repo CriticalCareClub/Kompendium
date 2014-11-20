@@ -1642,8 +1642,6 @@ angewendet. Um die Atemwege freizuhalten, kann
 u.\,U. unterstützend ein \T{Guedel-Tubus} angwendet werden.
 
 \bigskip
-
-\bigskip
 }{
 \begin{itemize}
   \item Helferseitig:
@@ -1809,8 +1807,8 @@ aufgesteckt werden.
 % {.}
 % {}
 
-\begin{PictureSeries}{}{Bilderserie: Beatmungsmasken}
-\PictureSeriesRow{2}
+\begin{PictureSeriesWide}{}{Bilderserie: Beatmungsmasken}
+\PictureSeriesRowWide{2}
 {./images/pallinger-christoph-aass/Beatmungsmaske_32906_v2-AASS-0112mm.jpg}
 {Eine \E{Beatmungs}maske. \SourcePicture{Ch. Pallinger}}
 {./images/pallinger-christoph-aass/Mundstuecke_32723-AASS-0112mm.jpg}
@@ -1821,7 +1819,7 @@ keine besondere Bedeutung. \SourcePicture{Ch. Pallinger}}
 {}
 {empty}
 {}
-\end{PictureSeries}
+\end{PictureSeriesWide}
 
 
 \TextSlide{Hygienische Wiederaufbereitung}
@@ -1963,21 +1961,75 @@ Ausdrückliche Ausnahmen können
 für höher qualifiziertes Personal (NKI) bestehen.}
 }
 
-\begin{figure}[H]
-\begin{center}
-\includegraphics[width=7.189cm,height=4.94cm]{./images/beatmungsgeraet-medumat.png}
-\Captionof{figure}{Beatmungsgerät \emph{Medumat
-Standard\texttrademark}. \SourcePicture{ASB
-Floridsdorf-Donaustadt}}
-\end{center}
-\end{figure}
 
-\begin{figure}[H]
-\includegraphics[width=\linewidth]{./images/geraete/ger-medumat-standard-bedienfeld.jpg}
+\begin{PictureSeriesWide}{}{Bilderserie: Beatmungsgeräte}
+\PictureSeriesRowWide
+{2}% Anzahl Spalten
+{./images/pallinger-christoph-aass/Medomat_32851-00441pt}% Pfad Bild 1
+{Beatmungsgerät \emph{Medumat compact\texttrademark} auf einer Tragplatte. 
+Zusätzlich angebracht sind eine 
+Sauerstofflasche, 
+eine Berieselungseinheit
+und daran angeschlossen eine Berieselungsmaske.
+\SourcePicture{Christoph Pallinger, MfG}
+}% Text Bild 1
+{./images/beatmungsgeraet-medumat.png}% Pfad Bild 2
+{Beatmungsgerät \emph{Medumat Standard\texttrademark}. \SourcePicture{ASB Floridsdorf-Donaustadt}
+}% Text Bild 2
+{}% Pfad Bild 3
+{}% Text Bild 3
+{}% Pfad Bild 4
+{}% Text Bild 4
 
-\CaptionofDiff{figure}{Bedienfelder Berieselungseinheit \E{Modul Oxygen} (li.)
-und Beatmungsgerät \E{Medumat{\texttrademark} Standard} (re.).
+%\PictureSeriesRowWide
+%{2}% Anzahl Spalten
+%{./images/geraete/ger-medumat-standard-bedienfeld}% Pfad Bild 1
+%{Bedienfelder Berieselungseinheit \E{Modul Oxygen}
+%und Notfallbeatmungsgerät \E{Medumat{\texttrademark} Standard}.
+%\E{Modul Oxygen (li.):} Flowmeter, Ein-Ausschalter und
+%Regelventil. Der Anschluss links dient der Verbindung der
+%Einheit mit dem Sauerstoffnetz des Fahrzeuges.
+%\E{Medumat{\texttrademark} Standard (re.):}
+%\Z{Air-Mix-Schalter, Ein-Ausschalter, Stellräder für
+%Atemfrequenz, Atemminutenvolumen (!) und Druckbegrenzung,
+%Beatmungsdruckanzeige, Warnleuchten für Verlegung
+%(\enquote*{Stenosis}), Lösung des Beatmungsschlauches
+%(\enquote*{Disconnection}), niederen Flaschendruck (\enquote*{<\,2.7\Bar*})
+%und schwache Batterie.} 
+%\SourcePicture{Christoph Pallinger, MfG}
+%}% Text Bild 1
+%{./images/pallinger-christoph-aass/Medomat_32857-00943pt}% Pfad Bild 2
+%{Medumat Transport{\texttrademark}. 
+%Dies ist ein Intensiv-Transportbeatmungsgerät, 
+%welches eine komplexe Beatmungstherapie ermöglicht.
+%Die Bedieunung erfolgt mittels Monitor und Drehräder. 
+%Abgebildet ist die Durchführung 
+%einer Funktionskontrolle der Bedienelemente.
+%\SourcePicture{Christoph Pallinger, MfG}
+%}% Text Bild 2
+%{empty}% Pfad Bild 3
+%{}% Text Bild 3
+%{empty}% Pfad Bild 4
+%{}% Text Bild 4
+\end{PictureSeriesWide}
 
+%\Picture
+%{Beatmungsgerät \emph{Medumat compact\texttrademark} auf einer Tragplatte}% Titel
+%{Zusätzlich angebracht sind eine 
+%Sauerstofflasche, 
+%eine Berieselungseinheit
+%und daran angeschlossen eine Berieselungsmaske.}% Beschreibung
+%{}% Label
+%{Christopf Pallinger}% Quelle
+%{MfG}% Lizenz
+%{./images/pallinger-christoph-aass/Medomat_32851-00441pt}% Datei
+%{}% Breitenmodifizierer
+%{}% Float
+
+\Picture
+{Bedienfelder Berieselungseinheit \E{Modul Oxygen}
+und Notfallbeatmungsgerät \E{Medumat{\texttrademark} Standard}}
+{
 \E{Modul Oxygen (li.):} Flowmeter, Ein-Ausschalter und
 Regelventil. Der Anschluss links dient der Verbindung der
 Einheit mit dem Sauerstoffnetz des Fahrzeuges.
@@ -1988,12 +2040,27 @@ Atemfrequenz, Atemminutenvolumen (!) und Druckbegrenzung,
 Beatmungsdruckanzeige, Warnleuchten für Verlegung
 (\enquote*{Stenosis}), Lösung des Beatmungsschlauches
 (\enquote*{Disconnection}), niederen Flaschendruck (\enquote*{<\,2.7\Bar*})
-und schwache Batterie.} } {Bedienfelder Berieselungseinheit
-\E{Modul Oxygen} (li.) und Notfallbeatmungsgerät
-\E{Medumat{\texttrademark} Standard} (re.).}
-\end{figure}
+und schwache Batterie.} }
+{}
+{Sebastian Gabriel}
+{MfG}
+{./images/geraete/ger-medumat-standard-bedienfeld}
+{}
+{}
 
-
+\Picture
+{Medumat Transport{\texttrademark}}% Titel
+{Dies ist ein Intensiv-Transportbeatmungsgerät, 
+welches eine komplexe Beatmungstherapie ermöglicht.
+Die Bedieunung erfolgt mittels Monitor und Drehräder. 
+Abgebildet ist die Durchführung 
+einer Funktionskontrolle der Bedienelemente.}% Beschreibung
+{}% Label
+{Christopf Pallinger}% Quelle
+{MfG}% Lizenz
+{./images/pallinger-christoph-aass/Medomat_32857-00943pt}% Datei
+{}% Breitenmodifizierer
+{}% Float
 
 \subsection{Das \HeadingKeyword{PEEP-Ventil} sorgt für einen positiven Druck am Ende der Ausatmung}
 % \index{PEEP-Ventil}

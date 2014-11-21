@@ -185,7 +185,8 @@ sortlocale=de,
 
 
 \ActionReset
-\def\VarColumsLiterary{3}
+\def\VarColumsLiterary{1}
+\opt{OPTIMIZATION-PRINT}{\def\VarColumsLiterary{3}}
 % #######################################################################################################
 % #######################################################################################################
 % #######################################################################################################
@@ -201,9 +202,9 @@ sortlocale=de,
 %ordinary character. 
 \listfiles
 \begin{document}
-\MultiColListStart{toc}{3}
+\opt{OPTIMIZATION-PRINT}{\MultiColListStart{toc}{3}}
 % \MultiColListStart{lofazit}{1}
-\MultiColListStart{lomassnahmen}{3}
+\opt{OPTIMIZATION-PRINT}{\MultiColListStart{lomassnahmen}{3}}
 \DTLloaddb[headers={CODE,VERSION,UPDATE,TYPE,TITLE,REMARKS,TARGET,SUMMARY,SPECIALTY,ICD10-P,ICD10-1,ICD10-2,ICD10-3,ICD10-4,MODIFIER,LEVEL,ICD10,ICD10-TEXT}]{procedures}{procedures-export.csv}
 % \biolinum
 \renewcommand{\itemhook}{%
@@ -397,13 +398,17 @@ Standards ist, es gibt so viele, aus denen man auswählen kann.}
 \clearpage
 
 
-\begin{WidePar}\flushleft\pagestyle{plain}
-  \setcounter{tocdepth}{2}\shorttableofcontents{Übersicht}{0}
+\opt{OPTIMIZATION-PRINT}{\begin{WidePar}}
+{%
+\flushleft\pagestyle{plain}%
+\setcounter{tocdepth}{2}%
+\shorttableofcontents{Übersicht}{0}%
 %   
 %   \noindent Konkrete Maßnahmen bzw. mit {\SignMassnahme} gekennzeichnete
 % Referenzen finden sich im Maßnahmenkatalog (Version
 % \VarMkatalogVersion).
-\end{WidePar}
+}
+\opt{OPTIMIZATION-PRINT}{\end{WidePar}}
 % \Text
 % {Maßnahmenkatalog}
 % {Konkrete Maßnahmen bzw. mit {\SignMassnahme}
@@ -514,9 +519,14 @@ Standards ist, es gibt so viele, aus denen man auswählen kann.}
 %\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
 \dominitoc[n]
 
-\begin{WidePar}
-  {\setcounter{tocdepth}{3}\FontSansNarrowFamily\scriptsize\tableofcontents}
-\end{WidePar}
+\opt{OPTIMIZATION-PRINT}{\begin{WidePar}}
+{%
+\setcounter{tocdepth}{3}%
+\opt{OPTIMIZATION-PRINT}{\FontSansNarrowFamily}%
+\opt{OPTIMIZATION-PRINT}{\scriptsize}%
+\tableofcontents%
+}
+\opt{OPTIMIZATION-PRINT}{\end{WidePar}}
 
 
 
@@ -747,7 +757,7 @@ Und sehe, daß wir nichts wissen können!}
 
 
 SO LONG.......... AND THANKS FOR ALL THE FISH
-\MultiColListEnd{lomassnahmen}
+\opt{OPTIMIZATION-PRINT}{\MultiColListEnd{lomassnahmen}}
 % \MultiColListEnd{lofazit}
-\MultiColListEnd{toc}
+\opt{OPTIMIZATION-PRINT}{\MultiColListEnd{toc}}
 \end{document}

@@ -15,8 +15,17 @@ bibtotocnumbered,
 % index=totoc,
 % noonelinecaption,
 footnotes=multiple,
-toc=flat,
+%toc=flat,
 ]{scrbook}
+
+\input{./AASS.optkeys.tex}		% optional --- Optionaler Text.
+\opt{OPTIMIZATION-PRINT}{%
+\KOMAoptions{toc=flat}
+}
+\opt{OPTIMIZATION-ONLINE}{%
+\KOMAoptions{toc=graduated}
+}
+
 \setlength{\parindent}{15pt}
 
 \usepackage{luatextra}
@@ -47,7 +56,6 @@ toc=flat,
 % \usepackage{blindtext}
 
 % Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{./AASS.optkeys.tex}		% optional --- Optionaler Text.
 % \opt{ORG-ASBOE}{\usepackage{asboe}} % Style-Def. vor Präamble
 \input{./AASS.preamble.tex}		% Präambel
 \input{./AASS.hyphenation.tex}	% Trennungen

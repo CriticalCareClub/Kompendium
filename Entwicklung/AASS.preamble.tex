@@ -173,5 +173,20 @@ footskip = 7mm,
 % 
 % }
 
+\opt{OPTIMIZATION-PRINT}{%
+\settocfeature[toc][-1]{entryhook}{\FontSansNarrowFamily\normalsize\bfseries\color{BaseContrast}}
+\settocfeature[toc][0]{entryhook}{\FontSansNarrowFamily\small\bfseries\color{Base}}
+\settocfeature[toc][1]{entryhook}{\FontSansNarrowFamily\scriptsize}
+\settocfeature[toc][2]{entryhook}{\FontSansNarrowFamily\scriptsize}
+\settocfeature[toc][3]{entryhook}{\FontSansNarrowFamily\scriptsize}
+}
+\opt{OPTIMIZATION-ONLINE}{%
+\settocfeature[toc][-1]{entryhook}{\sffamily\LARGE\bfseries\color{BaseContrast}}
+\settocfeature[toc][0]{entryhook}{\sffamily\large\bfseries\color{Base}}
+\settocfeature[toc][1]{entryhook}{\normalsize}
+\settocfeature[toc][2]{entryhook}{\normalsize}
+\settocfeature[toc][3]{entryhook}{\normalsize}
+}
+
 
 \makeindex

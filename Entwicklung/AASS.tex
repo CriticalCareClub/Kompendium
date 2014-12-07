@@ -557,13 +557,12 @@ Download-Bereich verfügbar
 % \listof{fazit}{Merksätze}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Allgemeines und First Responder}
+\part{Allgemeines}
 
 {\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level A und höher}
 }
 
 \include{./content/chapter-LER}
-\include{./content/chapter-EHI}
 \include{./content/chapter-TAE}
 % Ethik im Rettungsdienst
 % \include{./content/chapter-BET}
@@ -571,31 +570,44 @@ Download-Bereich verfügbar
 % \include{./content/chapter-REG}
 \include{./content/chapter-KHD}
 \include{./content/chapter-GEF}
-%\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-NWG}} 
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Basic}
-\setcounter{chapter}{100}
-
-{\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level C}
-}
-
+\include{./content/chapter-PSI}
 \include{./content/chapter-JUS}
 \include{./content/chapter-MP1}
+%\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-NWG}} 
+
+\part{Kompetenz-Level B}
+
+{\sffamily\noindent \textbf{Zielgruppe: \E{First Responder}}
+}
+
+\include{./content/chapter-EHI}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\part{Basic}
+\part{Niveau \Range{C}{E}: Basisfertigkeiten}
+\setcounter{chapter}{100}
+
+{\sffamily\noindent \textbf{Zielgruppe: \E{Basic}}
+}
+
 \include{./content/chapter-BAU}
 \include{./content/chapter-ASB}
 \include{./content/chapter-BLS}
 \include{./content/chapter-SAN}
-
-\include{./content/chapter-KOM}
-\include{./content/chapter-PAM}
 %%%
-\include{./content/chapter-ANA}
 \include{./content/chapter-EIN}
 \include{./content/chapter-DOK}
 % \include{./content/chapter-VIT} % ex
+
+\part{Niveau \Range{C}{E}: Umgang mit Patienten}
+\setcounter{chapter}{200}
+\include{./content/chapter-KOM}
+\include{./content/chapter-PAM}
 \include{./content/chapter-TOD}
+
+\part{Niveau C: Physiologie und Störungen}
+\setcounter{chapter}{300}
+\include{./content/chapter-ANA}
 \include{./content/chapter-ATM}
 \include{./content/chapter-HKL}
 \include{./content/chapter-NEU}
@@ -613,16 +625,15 @@ Download-Bereich verfügbar
 \include{./content/chapter-WUN}
 \include{./content/chapter-TRA}
 %\opt{STATUS-EXPERIMENTAL}{\include{./content/chapter-SYM}}
-\include{./content/chapter-PSI}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Intermediate}
+\part{Niveau D: Erweiterte Kenntnisse und Fertigkeiten}
 
-{\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level D}
+{\sffamily\noindent \textbf{Zielgruppe: Intermediate}
 }
 
-\setcounter{chapter}{200}
+\setcounter{chapter}{400}
 \include{./content/chapter-IJUF}
 \include{./content/chapter-IASS}
 \include{./content/chapter-IALS}
@@ -638,13 +649,13 @@ Download-Bereich verfügbar
 \include{./content/chapter-INTERMEDIATE-Artikel}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Advanced}
+\part{Niveau E}
 
-{\sffamily\noindent \textbf{Zielgruppe: Kompetenz-Level E}
+{\sffamily\noindent \textbf{Zielgruppe: \E{Advanced}}
 }
 
 
-\setcounter{chapter}{300}
+\setcounter{chapter}{500}
 \opt{STATUS-EXPERIMENTAL}{
 	\include{./content/chapter-ARZ}
 %	\include{./content/chapter-EKG}

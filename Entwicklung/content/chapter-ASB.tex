@@ -810,7 +810,8 @@ Katheters ausgepackt und an den Konnektor bzw. den
 \T{Fingertip} der Absaugpumpe angeschlossen. Der restliche
 Teil des Katheters bleibt so lange in der Verpackung bis mit
 der Absaugung begonnen
-wird.\bigskip}{
+wird.
+}{
 \begin{itemize}
   \item Verpackung nur am farbigen Ende des Katheters öffnen
   \item An Absaugpumpe anschließen
@@ -858,19 +859,20 @@ abgesaugt werden.
 \end{itemize}
 }{}{}{}
 
-\begin{table}[H]
-\TableBaseModification
-\Captionof{table}{Bilderserie: Absaugtechnik}
-\begin{tabularx}{\linewidth}{XX}
-\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Anton_32999_export.jpg}
-\Captionof{figure}{Katheterlänge bei Absaugung des Mundes \SourcePicture{Ch. Pallinger}}
-&
-\includegraphics[width=\linewidth]{./images/pallinger-christoph-aass/Anton_32990_export.jpg}
-\Captionof{figure}{Katheterlänge bei Absaugung durch die Nase \SourcePicture{Ch. Pallinger}}
-\end{tabularx}
-\end{table}
 
 
+\begin{PictureSeries}{}{}
+\PictureSeriesRow
+{2}% Anzahl Spalten}
+{./images/pallinger-christoph-aass/Anton_32999_export.jpg}% Pfad Bild 1
+{Katheterlänge bei Absaugung des Mundes \SourcePicture{Ch. Pallinger}}% Text Bild 1
+{./images/pallinger-christoph-aass/Anton_32990_export.jpg}% Pfad Bild 2
+{Katheterlänge bei Absaugung durch die Nase \SourcePicture{Ch. Pallinger}}% Text Bild 2
+{}% Pfad Bild 3
+{}% Text Bild 3
+{}% Pfad Bild 4
+{}% Text Bild 4
+\end{PictureSeries}
 
 
 
@@ -1640,8 +1642,6 @@ Patientenseitig werden \EE{Beatmungsmasken} oder
 Larynxtuben, \Z{Larynxmasken, Combituben, \ldots})
 angewendet. Um die Atemwege freizuhalten, kann
 u.\,U. unterstützend ein \T{Guedel-Tubus} angwendet werden.
-
-\bigskip
 }{
 \begin{itemize}
   \item Helferseitig:
@@ -1658,9 +1658,15 @@ u.\,U. unterstützend ein \T{Guedel-Tubus} angwendet werden.
 \end{itemize}
 }{}{}{}
 
-\begin{table}[H]
-\Captionof{table}{Mögliche Sauerstoffkonzentrationen bei der Beatmung.}
-\FontTableBase
+
+\Table
+%[]%1 Float
+{Mögliche Sauerstoffkonzentrationen bei der Beatmung}%2 Titel
+{}%3 Beschreibung
+{}%4 Label/Hook
+{}%5 Quelle
+{}%6 Lizenz
+{%
 \begin{tabulary}{\linewidth}{Lc}\addlinespace\toprule\addlinespace
 %\addlinespace 
 \noindent\TabHeading{Art der Beatmung} &
@@ -1683,9 +1689,7 @@ Reservoir &
 fast 100\PC*
 \\\addlinespace\bottomrule
 \end{tabulary}
-
-\end{table}
-
+}%7 Tabelle
 
 
 \subsection{\HeadingKeyword{Beatmungsbeutel}}

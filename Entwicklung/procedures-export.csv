@@ -16,15 +16,15 @@ ER57XX0A,3,2014-08-15,SPZ,Schock,,,,E,R,5,7,-,-,0,A,R57.--,
 ER58XX1A,3,2014-08-15,SPZ,Starke Blutung,,,,E,R,5,8,-,-,1,A,R58.--,"Blutung, anderenorts nicht klassifiziert"
 ET14031A,2,2014-03-19,SPZ,Verstauchung,,Unfallchirurgie,,E,T,1,4,0,3,1,A,T14.03,"Luxation, Verstauchung und Zerrung an einer nicht näher bezeichneten Körperregion"
 ET14032A,2,2014-03-19,SPZ,Verrenkung,,Unfallchirurgie,,E,T,1,4,0,3,2,A,T14.03,
-ET140X1A,2,2014-03-19,SPZ,Oberflächliche Bagatellverletzungen,,Unfallchirurgie,,E,T,1,4,0,-,1,A,T14.0-,Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion
-ET14200A,2,2014-03-19,SPZ,Knochenbrüche,,Unfallchirurgie,,E,T,1,4,2,0,0,A,T14.20,
-ET26090A,2,2014-03-19,SPZ,Verätzungen der Augen,,Augenheilkunde,,E,T,2,6,0,9,0,A,T26.09,"Verätzung des Auges und seiner Anhangsgebilde, Teil nicht näher bezeichnet"
+ET140X1A,"2,1",2014-09-12,SPZ,Oberflächliche Schürf- und Schnittwunden,,Unfallchirurgie,,E,T,1,4,0,-,1,A,T14.0-,Oberflächliche Verletzung an einer nicht näher bezeichneten Körperregion
+ET14200A,"2,1",2014-09-12,SPZ,Knochenbrüche,,Unfallchirurgie,,E,T,1,4,2,0,0,A,T14.20,
+ET26090A,"2,1",2014-09-12,SPZ,Verätzungen der Augen,,Augenheilkunde,,E,T,2,6,0,9,0,A,T26.09,"Verätzung des Auges und seiner Anhangsgebilde, Teil nicht näher bezeichnet"
 ET30003A,2,2014-03-19,SPZ,Verbrennungen,,Unfallchirurgie bzw. Vebrennungseinheit,,E,T,3,0,0,0,3,A,T30.00,
 ET30041A,2,2014-03-19,SPZ,Verätzungen der Haut,,"Unfallchirurgie, Dermatologie",,E,T,3,0,0,4,1,A,T30.04,"Verätzung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet"
 ET30042A,2,2014-03-19,SPZ,Verätzungen des Magen-Darm-Traktes,,,,E,T,3,0,0,4,2,A,T30.04,"Verätzung nicht näher bezeichneten Grades, Körperregion nicht näher bezeichnet"
-ET35071A,2,2014-03-19,SPZ,Erfrierungen,,Unfallchirurgie,,E,T,3,5,0,7,1,A,T35.07,Nicht näher bezeichnete Erfrierung an nicht näher bezeichneten Lokalisationen
+ET35071A,"2,1",2014-09-11,SPZ,Erfrierungen,,Unfallchirurgie,,E,T,3,5,0,7,1,A,T35.07,Nicht näher bezeichnete Erfrierung an nicht näher bezeichneten Lokalisationen
 ET65090A,2,2014-03-19,SPZ,Vergiftungen,,,,E,T,6,5,0,9,0,A,T65.09,Toxische Wirkung einer nicht näher bezeichneten Substanz
-ET68001A,2,2014-03-19,SPZ,Unterkühlung,,"Innere Medizin, evtl. Überwachungs- oder Intensivstation",,E,T,6,8,0,0,1,A,T68.00,Hypothermie
+ET68001A,2,2014-03-19,SPZ,Unterkühlung,,,,E,T,6,8,0,0,1,A,T68.00,Hypothermie
 GN93091C,2,2014-03-19,SPZ,Vaginale Blutung,,"Gynäkologie, bei Wehen Kreißsaal","Symptomatisch, Lagerung nach Fritsch",G,N,9,3,0,9,1,C,N93.09,"Abnorme Uterus- oder Vaginalblutung, nicht näher bezeichnet"
 GO00091C,2,2014-03-19,SPZ,"Eileiterschwangerschaft, Verdacht",,Gynäkologie,Symptomatisch,G,O,0,0,0,9,1,C,O00.09,"Extrauteringravidität, nicht näher bezeichnet"
 GO00092C,2,2014-03-19,SPZ,"Eileiterschwangerschaft, rupturiert",,"Gynäkologie, Voranmeldung",Schockbekämpfung und hohe Transportpriorität,G,O,0,0,0,9,2,C,O00.09,"Extrauteringravidität, nicht näher bezeichnet"
@@ -48,8 +48,8 @@ IG03091C,2,2014-03-19,SPZ,Meningitis,,Innere Medizin,,I,G,0,3,0,9,1,C,G03.09,"Me
 IJ18090C,2,2014-03-19,SPZ,Pneumonie,,Innere Medizin,,I,J,1,8,0,9,0,C,J18.09,"Pneumonie, nicht näher bezeichnet"
 IU81001C,2,2014-03-19,SPZ,Multiresistente Keime,,,,I,U,8,1,0,0,1,C,U81.00,
 IW49091C,2,2014-03-19,SPZ,Nadelstichverletzung,Zusatzschlüssel (!-Code)!,Unfallchirurgie,,I,W,4,9,0,9,1,C,W49.09,Unfall durch Exposition gegenüber mechanischen Kräften unbelebter Objekte
-KJ05000C,2,2014-03-19,SPZ,Akute obstruktive Laryngitis,,"Innere Medizin, Kinderheilkunde",,K,J,0,5,0,0,0,C,J05.00,Akute obstruktive Laryngitis [Krupp]
-KJ05010C,2,2014-03-19,SPZ,Akute Epiglottitis,,,,K,J,0,5,0,1,0,C,J05.01,Akute Epiglottitis
+KJ05000C,2.1,2014-10-23,SPZ,Akute obstruktive Laryngitis,,Kinderheilkunde,,K,J,0,5,0,0,0,C,J05.00,Akute obstruktive Laryngitis [Krupp]
+KJ05010C,2.1,2014-10-23,SPZ,Akute Epiglottitis,,Kinderheilkunde,,K,J,0,5,0,1,0,C,J05.01,Akute Epiglottitis
 KR56001C,2,2014-03-19,SPZ,Fieberkrampf im Kindesalter,,Kinderheilkunde,,K,R,5,6,0,0,1,C,R56.00,Fieberkrämpfe
 KR95090C,2,2014-03-19,SPZ,SIDS,,,,K,R,9,5,0,9,0,C,R95.09,Plötzlicher Kindstod ohne Angabe einer Obduktion
 KT74011C,2,2014-03-19,SPZ,Kindesmisshandlung,,Kinderheilkunde,,K,T,7,4,0,1,1,C,T74.01,Körperlicher Missbrauch
@@ -127,3 +127,4 @@ YY13100B,2,2014-03-19,STD,Standardmaßnahmen bei vitalbedrohten Patienten,,,,Y,Y
 YY13210B,2,2014-03-19,STD,Reanimationsbereitschaft,,,,Y,Y,1,3,2,1,0,B,Y13.21,Interner Y-Code
 YY14200B,2,2014-03-19,STD,Einschätzung der Indikation zur Wirbelsäulenimmobilisation,Standardmaßnahmen,,,Y,Y,1,4,2,0,0,B,Y14.20,Interner Y-Code
 GO72000C,2,2014-03-20,SPZ,Blutung in der Nachgeburtsperiode,,"Geburtshilfe, Gynäkologie",Schockbekämpfung,G,O,7,2,0,0,0,C,O72.00,Blutung in der Nachgeburtsperiode
+IA98041C,1,2014-12-12,SPZ,Ebola-Viruserkrankung,,Isolationsstation,Selbstschutz,I,A,9,8,0,4,1,C,A98.04,Ebola-Viruskrankheit

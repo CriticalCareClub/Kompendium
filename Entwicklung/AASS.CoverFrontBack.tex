@@ -18,20 +18,22 @@ Ausbildungsstandards}
 
 {\color{DefaultB}für den \color{DefaultRed}Sanitätsdienst}}% 1: Title
 {%
-\opt{VAR-VAR0}{{Stammvariante}}
-\opt{VAR-VAR1}{{Angepasste Variante für den ASB Floridsdorf-Donaustadt}}
-% \opt{VAR-VAR2}{{\Large\color{Grey} Angepasste Version für den Arbeiter-Samariter-Bund Österreichs}}
-\opt{VAR-VAR2}{
-	\begin{minipage}[m]{{8cm}}
-	\flushright{\Large\color{AsboeGreyLightVery}\textit{Angepasste Version für den} \\\color{AsboeGreyLight} Arbeiter-Samariter-Bund Österreichs}
-	\end{minipage}
-	\hspace{1cm}
-	\begin{minipage}[m]{3cm}
-	\includegraphics[width=3cm]{./icons/asb}
-	\end{minipage}}
+%\opt{VAR-VAR0}{{Stammvariante}}
+%\opt{VAR-VAR1}{{Angepasste Variante für den ASB Floridsdorf-Donaustadt}}
+%% \opt{VAR-VAR2}{{\Large\color{Grey} Angepasste Version für den 
+%%Arbeiter-Samariter-Bund Österreichs}}
+%\opt{VAR-VAR2}{
+%	\begin{minipage}[m]{{8cm}}
+%	\flushright{\Large\color{AsboeGreyLightVery}\textit{Angepasste Version für 
+%den} \\\color{AsboeGreyLight} Arbeiter-Samariter-Bund Österreichs}
+%	\end{minipage}
+%	\hspace{1cm}
+%	\begin{minipage}[m]{3cm}
+%	\includegraphics[width=3cm]{./icons/asb}
+%	\end{minipage}}
 }% 2: Subtitle
-{Auszug für Megacodetraining}% 3: Auszug
-{Band 1} % 4: Band
+{}% 3: Auszug
+{} % 4: Band
 {%
 %	\includegraphics[height=8cm]{./icons/under-construction}
 
@@ -47,30 +49,54 @@ Ausbildungsstandards}
 }% 5: Picture
 {Gabriel {$\cdot$} Koch {$\cdot$} Emhofer {$\cdot$} Motal {$\cdot$} Steuer}% 6: Editors
 {%
-	\begin{multicols}{2}\color{BaseLight}
+\begin{multicols}{2}\color{BaseLight}
 		{Mit Beiträgen von }
 		\vspace{0.5em}
 		
-		{\color{Base}Michael Auer\\
+		{\color{Base}\ttfamily Michael Auer\\
 		Lena Hirtler\\
 		Christof Koller\\ 
-		Michael Withofner u.\,a.}
+		Michael Withofner\\
+		u.\,a.}
 		\columnbreak
 		
 		% {Version}
 		% \vspace{0.5em}\\
-		{
-		% \textbf{\DocVersion}
-		Version \hfill {\color{Base}\LARGE \VarDocVersion} \hfill
-		Variante \hfill {\color{Base}\LARGE \VarDocVariant}
 		
-		({\VarDocVersionTypeDescription})}
+		% \textbf{\DocVersion}
+%		Version \hfill {\color{Base}\LARGE \VarDocVersion} \hfill
+%		Variante \hfill {\color{Base}\LARGE \VarDocVariant}
+%		
+%		({\VarDocVersionTypeDescription})}
+%		
+%		\vspace{0.5em}
+%		
+%		ISBN: \hfill {\color{Base}\VarAassIsbn}
+%		
+%		Artikel Nr. \hfill {\color{Base}\VarAassArtNr}
+		Version \hfill {\color{Base}\ttfamily\bfseries \VarDocVersion} 
+		
+		Variante \hfill {\color{Base}\ttfamily\bfseries\VarDocVariant}
+		
+		Kompilation: \hfill 
+		{\ttfamily\bfseries%
+		\ifthenelse{\equal{\VarDocCompilation}{Vollversion}}
+		{\color{Base}\VarDocCompilation}
+		{\color{DefaultRed}\VarDocCompilation}% ifthenelse %
+		}
 		
 		\vspace{0.5em}
 		
-		ISBN: {\color{Base}\VarAassIsbn}
+		Typ: \hfill {\ttfamily{\VarDocVersionTypeName} 
+		\newline\hfill({\VarDocVersionTypeDescription})}
+		
+		\vspace{0.5em}
+		
+		ISBN: \hfill {\color{Base}\ttfamily\VarAassIsbn}
+		
+		Artikel Nr. \hfill {\color{Base}\ttfamily\VarAassArtNr}
 		% 
 		% \today
-	\end{multicols}
+\end{multicols}
 }% 7: Bottom
 {\ARGE}% 8: Publisher

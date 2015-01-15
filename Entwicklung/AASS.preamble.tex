@@ -64,8 +64,34 @@ footskip = 7mm,
 	\usepackage{AassStyleCollectionText}
 
 %%% Spezielles Überschriftenformat
-	\renewcommand{\thesection}		{{\color{DefaultA}\thechapter}{\color{DefaultB}.\arabic{section}}}
-	\renewcommand{\thesubsection}	{{\color{DefaultA}\thechapter}{\color{DefaultB}.\arabic{section}.\arabic{subsection}}}
+\usepackage{chngcntr}
+\counterwithout{paragraph}{subsubsection} % removes paragraph from the 
+%	\renewcommand{\thesection}		
+%{{\color{DefaultA}\thechapter}{\color{DefaultB}.\arabic{section}}}
+%	\renewcommand{\thesubsection}	
+%{{\color{DefaultA}\thechapter}{\color{DefaultB}.\arabic{section}.\arabic{subsection}}}
+
+%\counterwithin{paragraph}{chapter} % makes paragraph depend on chapter
+\newcounter{TempParagraph}
+\setcounter{TempParagraph}{1}
+
+\DeclareRobustCommand{\TempParagraphUpdate}{%
+\setcounter{TempParagraph}{\value{paragraph}}%
+\addtocounter{TempParagraph}{1}%
+} %\TempParagraphUpdate
+
+	\renewcommand{\theparagraph}
+	{{\color{AASSAnal3}\arabic{paragraph}.}}
+%	\renewcommand{\thechapter}		
+%	{\protect\TempParagraphUpdate\arabic{TempParagraph}.}
+	\renewcommand{\thesection}		
+	{\TempParagraphUpdate\color{AASSAnal3}\arabic{TempParagraph}.}
+	\renewcommand{\thesubsection}	
+	{\TempParagraphUpdate\color{AASSAnal3}\arabic{TempParagraph}.}
+  \renewcommand{\thesubsubsection}	
+  {\TempParagraphUpdate\color{AASSAnal3}\arabic{TempParagraph}.}
+
+%subsubsections
 
 %%% Abstand zwischen Absätzen in minipage-Umgebung:
 % http://mrunix.de/forums/showthread.php?p=301707

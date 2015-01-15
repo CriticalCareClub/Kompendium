@@ -446,6 +446,17 @@ Standards ist, es gibt so viele, aus denen man auswählen kann.}
 % {}
 % {}
 
+%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
+\dominitoc[n]
+
+\opt{OPTIMIZATION-PRINT}{\begin{WidePar}}
+{%
+\setcounter{tocdepth}{3}%
+\opt{OPTIMIZATION-PRINT}{\FontSansNarrowFamily}%
+\opt{OPTIMIZATION-PRINT}{\scriptsize}%
+\tableofcontents%
+}
+\opt{OPTIMIZATION-PRINT}{\end{WidePar}}
 
 
 \clearpage
@@ -526,17 +537,7 @@ Standards ist, es gibt so viele, aus denen man auswählen kann.}
 % {\the\ThirdGrossWidth}
 % {\the\ThirdNetWidth}}
 
-%\renewcommand\contentsname{Inhalt - Schnell\"ubersicht}
-\dominitoc[n]
 
-\opt{OPTIMIZATION-PRINT}{\begin{WidePar}}
-{%
-\setcounter{tocdepth}{3}%
-\opt{OPTIMIZATION-PRINT}{\FontSansNarrowFamily}%
-\opt{OPTIMIZATION-PRINT}{\scriptsize}%
-\tableofcontents%
-}
-\opt{OPTIMIZATION-PRINT}{\end{WidePar}}
 
 
 

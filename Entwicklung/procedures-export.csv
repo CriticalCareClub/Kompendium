@@ -10,7 +10,7 @@ CK859X0C,2,2014-03-19,SPZ,Akute Pankreatitis,,"Chirurgie, bei weiblichen Patient
 CK92020C,2,2014-03-19,SPZ,Blutungen des Verdauungstrakts,,Chirurgie oder Innere Medizin,"Vitale Bedrohung bei hohem Blutverlust! Schockbekämpfung, zügiger Transport",C,K,9,2,0,2,0,C,K92.02,"Gastrointestinale Blutung, nicht näher bezeichnet"
 CKXXXX1C,2,2014-03-19,ALL,Abdominalerkrankung,,"Je nach Diagnose, Patient und lokaler Regelung: Chirurgie, Innere Medizin, Gynäkologie, Urologie, Kinderheilkunde, etc.  Bei weiblichen Patienten immer Abt. für Gynäkologie im {Hintergrund} erwägen, auch wenn primär eine andere Fachabteilung zuständig zu sein scheint!","Nüchtern lassen, Bauchdecken-entspannende Lagerung, konsequentes Monitoring",C,K,-,-,-,-,1,C,K--.--,Kapitel XI Krankheiten des Verdauungssystems
 CR10000C,2,2014-03-19,SPZ,Akutes Abdomen,,"Chirurgie, bei weiblichen Patienten mit Gynäkologie im Hintergrund (wenn möglich)","Unmittelbare Bedrohung gem. Einschätzungsblock, nüchtern lassen",C,R,1,0,0,0,0,C,R10.00,Akutes Abdomen
-ER09020A,3,2014-08-15,SPZ,Atem- und Kreislaufstillstand,,,Reanimation,E,R,0,9,0,2,0,A,R09.02,
+ER09020A,4,2015-04-19,SPZ,Atem- und Kreislaufstillstand,,,Reanimation,E,R,0,9,0,2,0,A,R09.02,
 ER40021A,3,2014-08-15,SPZ,Bewusstlosigkeit,,,,E,R,4,0,0,2,1,A,R40.02,
 ER57XX0A,3,2014-08-15,SPZ,Schock,,,,E,R,5,7,-,-,0,A,R57.--,
 ER58XX1A,3,2014-08-15,SPZ,Starke Blutung,,,,E,R,5,8,-,-,1,A,R58.--,"Blutung, anderenorts nicht klassifiziert"
@@ -48,8 +48,8 @@ IG03091C,2,2014-03-19,SPZ,Meningitis,,Innere Medizin,,I,G,0,3,0,9,1,C,G03.09,"Me
 IJ18090C,2,2014-03-19,SPZ,Pneumonie,,Innere Medizin,,I,J,1,8,0,9,0,C,J18.09,"Pneumonie, nicht näher bezeichnet"
 IU81001C,2,2014-03-19,SPZ,Multiresistente Keime,,,,I,U,8,1,0,0,1,C,U81.00,
 IW49091C,2,2014-03-19,SPZ,Nadelstichverletzung,Zusatzschlüssel (!-Code)!,Unfallchirurgie,,I,W,4,9,0,9,1,C,W49.09,Unfall durch Exposition gegenüber mechanischen Kräften unbelebter Objekte
-KJ05000C,2.1,2014-10-23,SPZ,Akute obstruktive Laryngitis,,Kinderheilkunde,,K,J,0,5,0,0,0,C,J05.00,Akute obstruktive Laryngitis [Krupp]
-KJ05010C,2.1,2014-10-23,SPZ,Akute Epiglottitis,,Kinderheilkunde,,K,J,0,5,0,1,0,C,J05.01,Akute Epiglottitis
+KJ05000C,2.2,2015-05-09,SPZ,Akute obstruktive Laryngitis,,Kinderheilkunde,,K,J,0,5,0,0,0,C,J05.00,Akute obstruktive Laryngitis [Krupp]
+KJ05010C,2.2,2015-05-09,SPZ,Akute Epiglottitis,,Kinderheilkunde,,K,J,0,5,0,1,0,C,J05.01,Akute Epiglottitis
 KR56001C,2,2014-03-19,SPZ,Fieberkrampf im Kindesalter,,Kinderheilkunde,,K,R,5,6,0,0,1,C,R56.00,Fieberkrämpfe
 KR95090C,2,2014-03-19,SPZ,SIDS,,,,K,R,9,5,0,9,0,C,R95.09,Plötzlicher Kindstod ohne Angabe einer Obduktion
 KT74011C,2,2014-03-19,SPZ,Kindesmisshandlung,,Kinderheilkunde,,K,T,7,4,0,1,1,C,T74.01,Körperlicher Missbrauch

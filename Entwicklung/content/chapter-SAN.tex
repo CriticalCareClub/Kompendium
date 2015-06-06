@@ -553,9 +553,12 @@ grundsätzlich immer abzunehmen! }{}{}{}{}
 \begin{ProcedureStepsNoHeading}
 \Text{Material und Personal}{
 \begin{compactitem}
-\item 2 Helfer ({\color{HelferA}\E{hinterer} Helfer},
-{\color{HelferB}\E{seitlicher} Helfer})
-\item 1 HWS-Schiene 
+  \item 2 Helfer:
+  \begin{compactitem}
+    \item \ActorAction{ActorA}{A}{ \E{Hinterer} Helfer}
+    \item \ActorAction{ActorB}{B}{ \E{Seitlicher} Helfer}
+  \end{compactitem}
+  \item 1 HWS-Schiene 
 \end{compactitem}
 }{}{}{}{}
 
@@ -563,49 +566,58 @@ grundsätzlich immer abzunehmen! }{}{}{}{}
 % \begin{multicols}{2}
 \Text{Vorgehen}{
 \begin{enumerate}
-  \item \EE{Dem Patient
-  in Blickrichtung nähern, um
-  unnötige Bewegungen des Kopfes zu vermeiden, und
-  gleichzeitig auffordern den Kopf nicht zu bewegen.}
-    \item {\color{HelferA}\EE{Fixieren}: Der \E{hintere}
+  \item \Actor{ActorA}{A}\Actor{ActorB}{B}
+  Dem Patient \E{in Blickrichtung} nähern um
+  unnötige Bewegungen des Kopfes zu vermeiden 
+  und gleichzeitig 
+  \ActorAction{ActorB}{B}{\E{auffordern den Kopf nicht zu bewegen.}}
+    \item \ActorAction{ActorA}{A}{
+    \EE{Fixieren}: Der \E{hintere}
     Helfer fixiert den Helm von hinten und lässt nicht mehr
     los, bis der Helm entfernt ist. Zwischen Helm und
     Schritt eine Helmhöhe Abstand lassen, damit der Helm in
     einer Bewegung abgezogen werden kann.}
-    \item {\color{HelferB}\EE{Ansprechen}: Der
+    \item \ActorAction{ActorB}{B} {
+    \EE{Ansprechen}: Der
     \E{seitliche} Helfer spricht den Patienten von vorne an, öffnet
     Visier und Kinnriemen.}
-    \item {\color{HelferB}Der \E{seitliche} Helfer
+    \item \ActorAction{ActorB}{B}{
+    Der \E{seitliche} Helfer
     \EE{stabilisiert} den Kopf während der Helmabnahme: eine
     Hand fasst mit Daumen und Zeigefinger das Unterkiefer
     (\I{C-Griff}), die andere Hand stützt den Kopf von
     unten.}
-    \item {\color{HelferA}\EE{Helm abziehen}: Der
-    \E{hintere} Helfer zieht den Helm in einer
-    \EE{S-förmigen Bewegung} ab: den Helm \EE{zuerst kippen
-    bis die Nasenspitze} sichtbar ist, dann die Unterkante
-    in der \EE{gegengleichen Bewegung} zum Helfer bewegen.}
+    \item \Actor{ActorA}{A}\Actor{ActorB}{B} 
+    \EE{Helm abziehen}: 
+    \ActorAction{ActorA}{A}{
+    Der \E{hintere} Helfer zieht den Helm in einer
+    \EE{S-förmigen Bewegung} ab: 
+    den Helm \EE{zuerst kippen bis die Nasenspitze} sichtbar ist, 
+    dann die Unterkante in der \EE{gegengleichen Bewegung} zum Helfer bewegen.}
     
-    {\color{HelferB}Während der Helm abgezogen wird,
+    \ActorAction{ActorB}{B}{Während der Helm abgezogen wird,
     rutscht der \E{seitliche} Helfer mit seiner Haltehand
     etwas nach.}
-    \item {\color{HelferA}Der \E{hintere} Helfer zieht den
+    \item \ActorAction{ActorA}{A}{
+    Der \E{hintere} Helfer zieht den
     Helm vorsichtig fertig ab und legt ihn sicher ab.}
-    \item {\color{HelferA}\EE{Der \E{hintere} Helfer
-    übernimmt den Kopf} im doppelten C-Griff: Daumen und
-    Zeigefinger um ein Ohr. Der Kopf darf
-    \EE{\E{nicht} auf Zug} gehalten werden, die \Abk{HWS}
+    \item \ActorAction{ActorA}{A}{ 
+    \EE{Der \E{hintere} Helfer
+    übernimmt den Kopf} im doppelten C-Griff: 
+    Daumen und Zeigefinger um ein Ohr. 
+    Der Kopf darf  \EE{\E{nicht} auf Zug} gehalten werden, die \Abk{HWS}
     darf \EE{nicht gestaucht} werden.
-    Der Kopf wird in
-    Neutralposition
-    stabilisiert. \cite{ITLSde6,AsboeLehrmeinungRd2011-07}
+    Der Kopf wird in  Neutralposition
+    stabilisiert. 
+    \cite{ITLSde6,AsboeLehrmeinungRd2011-07}
     \Commentary[HWS-Immobilisation / Zug]{ASBÖ: Nach der
     Lehrmeinung 07/2011 vom 01.02.2011
     \cite{AsboeLehrmeinungRd2011-07} darf der Kopf nicht mehr
-    unter Zug gehalten werden. Dies ist konsistent mit
-    \Abk{ITLS} (6.\,A.)
+    unter Zug gehalten werden. 
+    Dies ist konsistent mit \Abk{ITLS} (6.\,A.)
     \cite{ITLSde6}}}
-    \item {\color{HelferB}Der \E{seitliche} Helfer legt
+    \item \ActorAction{ActorB}{B}{
+    Der \E{seitliche} Helfer legt
     eine \Abk{HWS}-Schiene an
     (\FullPrettyRef{topic:hws-schiene-anlegen}).}
 \end{enumerate}
@@ -720,11 +732,14 @@ Stifneck Pedi-Select{\texttrademark}}%2
 ~
 \begin{ProcedureStepsNoHeading}
 \Text{Material und Personal}{
-\begin{itemize}
-    \item 2 Helfer ({\color{HelferA}\E{hinterer} Helfer},
-{\color{HelferB}\E{seitlicher} Helfer})
-    \item 1 \Abk{HWS}-Schiene (z.\,B. Stifneck\texttrademark)
-\end{itemize}
+\begin{compactitem}
+  \item 2 Helfer:
+  \begin{compactitem}
+    \item {\color{ActorA}\Actor{ActorA}{A}: \E{Hinterer} Helfer}
+    \item {\color{ActorB}\Actor{ActorB}{B}: \E{Seitlicher} Helfer}
+  \end{compactitem}
+  \item 1 HWS-Schiene 
+\end{compactitem}
 }{}
 
 
@@ -733,29 +748,39 @@ Stifneck Pedi-Select{\texttrademark}}%2
 \Text{Vorgehen}{
 Siehe auch \FullPrettyRef{fig:hws-schiene-anlegen}.
 \begin{enumerate}
-    \item \EE{Patient auffordern den Kopf nicht zu bewegen.}
-    \item {\color{HelferA}Der hintere
-    Helfer \EE{stabilisiert} den Kopf und die \Abk{HWS}
+    \item 
+    \begin{Actor}{B}
+      Patient auffordern \EE{den Kopf nicht zu bewegen.}
+    \end{Actor}
+    \item {\color{ActorA}\Actor{ActorA}{A}
+    Der hintere Helfer \EE{stabilisiert} den Kopf und die \Abk{HWS}
     in Neutralposition ohne Zug und ohne Stauchung.}
-    \item {\color{HelferB}Beengende und behindernde
+    \item {\color{ActorB}\Actor{ActorB}{B}
+    Beengende und behindernde
     \EE{Kleidung entfernen}.}
-    \item {\color{HelferB}\EE{Größenmessung}: Der seitliche
+    \item {\color{ActorB}\Actor{ActorB}{B}
+    \EE{Größenmessung}: Der seitliche
     Helfer misst die Entfernung von Schulter bis Unterkiefer in Fingerbreiten
     aus.}
-    \item {\color{HelferB}Stifneck entsprechend einstellen:
+    \item {\color{ActorB}\Actor{ActorB}{B}
+    Stifneck entsprechend einstellen:
     gemessene Entfernung einstellen.
     
     Verschiebemechanismus des
     Stifneck blockieren, ab nun darf kein Verstellen mehr
     möglich  sein.}
-    \item {\color{HelferB}Klettverschlussband so einfalten,
+    \item {\color{ActorB}\Actor{ActorB}{B}
+    Klettverschlussband so einfalten,
     dass es nicht am Boden schleifen kann (hält sonst nicht
     mehr).}
-    \item {\color{HelferB}Nackenteil unter Patient durch
+    \item {\color{ActorB}\Actor{ActorB}{B}
+    Nackenteil unter Patient durch
     führen (Vorsicht: Klettverschlussband).}
-    \item {\color{HelferB}\Abk{HWS}-Schiene \EE{ am
+    \item {\color{ActorB}\Actor{ActorB}{B}
+    \Abk{HWS}-Schiene \EE{ am
     Kinn anlegen}.}
-    \item {\color{HelferB}Fest schließen.}
+    \item {\color{ActorB}\Actor{ActorB}{B}
+    Fest schließen.}
     
 Die Kinnspitze sollte ein kurzes Stück über Kante hinaus
 schauen (kein Durchrutschen), allerdings nicht allzu weit

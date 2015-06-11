@@ -610,6 +610,17 @@ Rachen und den Kehlkopf in die Luftröhre eingeführt. Er
 ermöglicht die Beatmung des Patienten bei gleichzeitigem
 Freihalten des Atemweges und bietet einen Aspirationsschutz.
 
+\Text{Material und Personal}{
+\begin{compactitem}
+  \item 2 Helfer:
+  \begin{compactitem}
+    \item \ActorAction{ActorA}{A}{Assistenz}
+    \item \ActorAction{ActorN}{N}{Durchführender}
+  \end{compactitem}
+  \item 1 HWS-Schiene 
+\end{compactitem}
+}
+
 \begin{ProcedureStepsWide}[Kontrolle vor Beginn
 der Intubation nicht vergessen!]{Material}
 \begin{enumerate}
@@ -681,75 +692,134 @@ Stethoskop}%2 Beschreibung
 
 \begin{ProcedureStepsWide}{Vorbereitung}
 \begin{enumerate}
-  \item \StepHeading{Spatelgröße} erfragen
-  \item \StepHeading{Tubusgröße} erfragen
-  \item \StepHeading{Funktionskontrolle} Laryngoskop (Spatel und
-  Griff) zusammenbauen, Funktionskontrolle (Licht)
+  \item \StepHeading{Präoxygenieren}: 
+  \begin{compactitem}
+     \item Beim spontan atmenden Patienten: 
+     \ActorAction{ActorA}{A}{Hochdosierte Sauerstoffgabe über \ce{O2}-Maske}
+     \item Beim nicht-spontan-atmenden Patienten: 
+     \ActorAction{ActorN}{N}{Je nach Situation evtl. Beatmung mittels Beatmungsbeutel}\ZFootnote{%
+     Beim nicht-nüchternen 
+     nicht-spontan-atmenden Patienten soll eine Beutelbeatmung nur 
+     wenn unbedingt notwendig 
+     durchgeführt werden. 
+     %
+     Bei der Reanimation entfällt die Präoxygenierung.} %ZFootnote
+  \end{compactitem}
+  
+  \item \ActorAction{ActorA}{A}{\StepHeading{Erfragen}:}
+  \begin{compactitem}
+    \item Spatelgröße 
+    \item Tubusgröße
+  \end{compactitem}
+  %
+  \item \ActorAction{ActorA}{A}{\StepHeading{Funktionskontrolle}: 
+  Laryngoskop 
+  (Spatel und
+  Griff) 
+  zusammenbauen, 
+  Funktionskontrolle (Licht)
   
   Ebenso müssen alle möglicherweise benötigten Spatel
   (zumindest $\pm$ 1 Größe und die entsprechenden
   gebogenen bzw. geraden Spatel) mit dem
   vorhandenen Laryngoskopgriff geprüft werden (Lichtquelle
-  bei Warmlichtgeräten, passende Verbindung bei Kaltlichtgeräten)
-  \item Tubusverpackung aufschälen, Tubus aber in der Verpackung belassen
-  \item \StepHeading{Cuff-Dichtigkeit} prüfen: test\-weise aufblasen
-  \item \StepHeading{Führungsdraht} (Mandrin) mit Silikonspray
+  bei Warmlichtgeräten, passende Verbindung bei Kaltlichtgeräten)}
+  \item \ActorAction{ActorA}{A}{Tubusverpackung aufschälen, Tubus aber in der Verpackung belassen}
+  \item \ActorAction{ActorA}{A}{\StepHeading{Cuff-Dichtigkeit} prüfen: test\-weise aufblasen}
+  \item \ActorAction{ActorA}{A}{\StepHeading{Führungsdraht} (Mandrin) mit Silikonspray
   einsprühen\ACh{HART}{0.8.0}{Mandrin auch mit Silikon einsprühen} und
-  einführen. Die Spitze muss bis zum Tubusende vorgeschoben vorgeschoben
-  werden, darf aber nicht herausragen.
-  \item \StepHeading{Cuff} mit Silikonspray einsprühen
-  \item \StepHeading{Stethoskop}: Funktion prüfen
-  \item \StepHeading{Absaugungebreitschaft} herstellen:
+  einführen. 
+  Die Spitze muss bis zum Tubusende vorgeschoben vorgeschoben
+  werden, darf aber nicht herausragen.}
+  \item \ActorAction{ActorA}{A}{\StepHeading{Cuff} mit Silikonspray einsprühen}
+  \item \ActorAction{ActorA}{A}{\StepHeading{Beatmungsbeutel} zusammenbauen und an
+  \ce{O2}-Berieselungseinheit anschließen}
+  \item \ActorAction{ActorA}{A}{\StepHeading{Stethoskop}: Funktion prüfen}
+  \item \ActorAction{ActorA}{A}{\StepHeading{Absaugungebreitschaft} herstellen:}
   \begin{enumerate}
-    \item Passenden Absaugkatheter wählen
-    \item Verpackung teilweise aufschälen um Anschluss
-    freizulegen, Katheter in der Verpackung belassen
-    \item Katheter anschließen
+    \item Passenden Absaugkatheter auspacken, anstecken und sauber ablegen
     \item Gerät einschalten
     \item Funktionskontrolle: Saugstärke?
     Batteriewarnung?
-    \item Absaugeinheit muss in Griff\-weite des Assistenten
+    \item Absaugeinheit und Absaugkatheter muss in Griff\-weite des Assistenten
     positioniert werden!
   \end{enumerate}
-  \item \StepHeading{Beatmungsbeutel} zusammenbauen und an
-  \ce{O2}-Berieselungseinheit anschließen
-  \item Restliches Material bereitlegen (z.\,B. in Nierentasse)
+  \item \ActorAction{ActorA}{A}{Restliches Material bereitlegen (z.\,B. in Nierentasse)}
   \ListBreakHard[Für nicht-ärztliches
   Personal]{enumerate}{Assistenz}
-  \item \StepHeading{Material-Vollständigkeit} prüfen
-  \item \StepHeading{Sauerstoffberieselung} einschalten und auf
+  \item 
+  \Actor{ActorA}{A}\Actor{ActorN}{N} \StepHeading{Material-Vollständigkeit} prüfen
+  \item \ActorAction{ActorA}{A}{\StepHeading{Sauerstoffberieselung} einschalten und auf
   15{\LPerMin*} einstellen, Reservoir des Beatmungsbeutels
-  füllen
-  \item Durchführendem melden, dass alle Materialien bereit sind
-  \item \Z{Evtl. werden jetzt von einem Arzt Medikamente
-  verabreicht, die die Intubation ermöglichen. Der
-  Durchführende wird nun einige Zeit den Patienten mittels
-  Beutel-/Masken-Beatmung beatmen (sofern nicht bereits
-  geschehen).}
-  \item \StepHeading{Laryngoskop zureichen}: in die \E{linke (!)}
+  füllen}
+  \item \ActorAction{ActorA}{A}{Durchführendem melden, dass alle Materialien bereit sind}
+  \item 
+  \ProcedureStepMargin{Medikamentengabe (Narkoseinleitung)}
+  \ActorAction{ActorN}{N}{Es wird nun von einem Arzt die Narkoseeinleitung durchgeführt
+  (entfällt bei der Reanimation).
+  Dazu werden Medikamente
+  verabreicht, 
+  die die Intubation ermöglichen.} 
+  
+  Von jetzt an besteht ein sehr hohes Risiko dass es zu \E{Erbrechen} kommen kann,
+  ggfs. muss sofort abgesaugt werden!
+  %
+  Der Wirkeintritt der Medikamente wird abgewartet.
+  %
+%  Der
+%  Durchführende wird nun einige Zeit den Patienten mittels
+%  Beutel-/Masken-Beatmung beatmen (sofern nicht bereits
+%  geschehen).
+  \item \ActorAction{ActorA}{A}{\StepHeading{Laryngoskop zureichen}: 
+  \marginpar{Laryngoskop zureichen}
+  in die \E{linke (!)}
   Hand zureichen\footnote{Es ist egal, ob der Durchführende
   Rechts- oder Linkshänder ist, das Laryngoskop wird
-  \E{immer in der linken Hand} gehalten.}
-  \item Auf Anweisung \emph{\enquote{Kehlkopfdruck},
-  \enquote{Krikoiddruck}} auf den Kehlkopf drücken
-  \item \StepHeading{Tubus zureichen}: in die \E{rechte (!)} Hand
-  \item Auf Anweisung absaugen
-  \item Beatmungsmaske vom Beatmungsbeutel trennen
-  \item \Z{Durchführender intubiert und entfernt Führungsdraht (Mandrin)}
-  \item \StepHeading{Cuffen}: Mit luftgefüllter Spritze Cuff
-  aufblasen
-  \item \StepHeading{Beatmungsbeutel} an Tubus anschließen
-  \item \StepHeading{Stethoskop} dem Durchführenden in die Ohren
-  klemmen
-  \item \StepHeading{Lagekontrolle} mittels Auskulatation: Es werden
-  3 Atemhübe verabreicht, wobei das Stethoskop über über dem Magen, linkem Lungenflügel und
-  rechtem Lungenflügel positioniert wird. Es wird dabei
-  überprüft ob der Tubus richtig liegt.
-  \item Der Durchführende übernimmt die Beatmung.
-  \item Einführen des \StepHeading{Beißkeils} oder des Guedel-Tubus
-  \item \StepHeading{Fixierung} des Tubus und des Beißschutzes
+  \E{immer in der linken Hand} gehalten.}}
+  \item \ActorAction{ActorA}{A}{Auf Anweisung \emph{\enquote{Kehlkopfdruck}
+  (\enquote{Krikoiddruck}}) durchführen:
+  auf den Kehlkopf drücken}
+  \item \ActorAction{ActorA}{A}{\StepHeading{Tubus zureichen}: 
+  in die \E{rechte (!)} Hand}
+  \item \ActorAction{ActorA}{A}{Auf Anweisung absaugen}
+  \item \ActorAction{ActorN}{N}{Der Tubus wird nun soweit eingeführt, 
+  dass die Tubusspitze zwischen die Stimmritzen durchdringt.}
+  \item \ActorAction{ActorN}{N}{Wenn die Tubusspitze durch die Stimmritzen durchgetreten ist muss der Mandrin entfernt werden um Verletzungen zu vermeiden. Anweisung: \Speech{\enquote{Führungsdraht entfernen!}}} 
+  \item 
+  \ProcedureStepMargin{Mandrin herausziehen}
+  \ActorAction{ActorA}{A}{Der Mandrin wird herausgezogen, 
+  dabei darf keinesfalls am Tubus gezogen werden, 
+  da dieser nur knapp in die Luftröhre hineinragt.}
+  %
+  \item \ActorAction{ActorN}{N}{Der Tubus wird nun bis zur bis zu endgültigen Tiefe eingeführt 
+  und vorübergehend manuell fixiert.}
+  %
+  \item 
+  \mbox{}\ProcedureStepMargin{Cuffen}
+  \ActorAction{ActorN}{N}{Anweisung: 
+  \Speech{\enquote{Cuffen}}}
+  %
+  \item \ActorAction{ActorA}{A}{\StepHeading{Cuffen}: 
+  Mit luftgefüllter Spritze Cuff aufblasen}
+  %
+  \item \ActorAction{ActorA}{A}{\StepHeading{Stethoskop} 
+  dem Durchführenden in die Ohren klemmen}
+  \item\ActorAction{ActorA}{A}{Beatmungsmaske vom Beatmungsbeutel trennen}
+  \item \ActorAction{ActorA}{A}{\StepHeading{Beatmungsbeutel} an Tubus anschließen und halten}
+  \item 
+  \ProcedureStepMargin{Lagekontrolle}
+  \StepHeading{Lagekontrolle} mittels Auskulatation: 
+  \ActorAction{ActorN}{N}{Magengegend und beide Lungenflügel auskultieren,
+  dabei jedesmal mindestens einen Atemhub mittels Anweisung 
+  \Speech{\enquote{Atemhub}} 
+  verabreichen lassen.}
+  \ActorAction{ActorA}{A}{Auf Anweisung werden
+  mindestens 3 Atemhübe verabreicht}
+  \item \ActorAction{ActorN}{N}{Der Durchführende übernimmt den Beatmungsbeutel.}
+  \item \ActorAction{ActorA}{A}{Einführen des \StepHeading{Beißkeils} oder des Guedel-Tubus}
+  \item \ActorAction{ActorA}{A}{\StepHeading{Fixierung} des Tubus und des Beißschutzes
   mittels Mullbinde, Klebestreifen oder speziellen
-  Fixationsmaterialien
+  Fixationsmaterialien}
   \item \Z{Ggfs. Beatmungsgerät einstellen und
   anschließen}
 \end{enumerate}

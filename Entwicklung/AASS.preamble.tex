@@ -81,15 +81,15 @@ footskip = 7mm,
 } %\TempParagraphUpdate
 
 	\renewcommand{\theparagraph}
-	{{\color{AASSAnal3}\arabic{paragraph}.}}
+	{{\color{AASSAnal3}\#\arabic{paragraph}.}}
 %	\renewcommand{\thechapter}		
 %	{\protect\TempParagraphUpdate\arabic{TempParagraph}.}
 	\renewcommand{\thesection}		
-	{\TempParagraphUpdate\color{AASSAnal3}\arabic{TempParagraph}.}
+	{\TempParagraphUpdate\color{AASSAnal3}\#\arabic{TempParagraph}.}
 	\renewcommand{\thesubsection}	
-	{\TempParagraphUpdate\color{AASSAnal3}\arabic{TempParagraph}.}
+	{\TempParagraphUpdate\color{AASSAnal3}\#\arabic{TempParagraph}.}
   \renewcommand{\thesubsubsection}	
-  {\TempParagraphUpdate\color{AASSAnal3}\arabic{TempParagraph}.}
+  {\TempParagraphUpdate\color{AASSAnal3}\#\arabic{TempParagraph}.}
 
 %subsubsections
 
@@ -195,6 +195,34 @@ footskip = 7mm,
 \definecolor{HelferA}{named}{AASSRed}
 \definecolor{HelferB}{named}{AASSBlue}
 
+\definecolor{HelferA}{cmyk}{0.0000,1.0000,1.0000,0.3333}
+\definecolor{HelferB}{cmyk}{1.0000,0.0000,1.0000,0.3333}
+\definecolor{HelferC}{cmyk}{1.0000,1.0000,0.0000,0.3333}
+\definecolor{HelferN}{cmyk}{0.0000,0.3818,1.0000,0.5686}
+
+\definecolor{Actor}{cmyk}{0.0000,1.0000,1.0000,0.3333}
+\definecolor{ActorA}{cmyk}{0.0000,1.0000,1.0000,0.3333}
+\definecolor{ActorB}{cmyk}{1.0000,0.0000,1.0000,0.3333}
+\definecolor{ActorC}{cmyk}{1.0000,1.0000,0.0000,0.3333}
+\definecolor{ActorN}{cmyk}{0.0000,0.3818,1.0000,0.5686}
+
+
+
+\newenvironment{Actor}[1]
+{%
+\ifthenelse{\equal{#1}{A}{\definecolor{Actor}{named}{ActorA}}}{}%
+\ifthenelse{\equal{#1}{B}{\definecolor{Actor}{named}{ActorB}}}{}%
+\ifthenelse{\equal{#1}{C}{\definecolor{Actor}{named}{ActorC}}}{}%
+\ifthenelse{\equal{#1}{N}{\definecolor{Actor}{named}{ActorN}}}{}%
+\color{Actor}\Actor{Actor}{#1}}
+{}
+
+% 1: Farbe
+% 2: Name
+\DeclareRobustCommand{\Actor}[2]{{\color{white}\textsf{\colorbox{#1}{#2}}}}
+
+\DeclareRobustCommand{\ActorAction}[3]{{\color{#1}\Actor{#1}{#2} #3}}
+
 % \newcommand{\License}[1]{
 % 
 % }
@@ -214,5 +242,6 @@ footskip = 7mm,
 \settocfeature[toc][3]{entryhook}{\normalsize}
 }
 
+\DeclareRobustCommand{\ProcedureStepMargin}[1]{\mbox{}\marginline{\noindent\MarginparModification\TableBaseModification\small#1}}
 
 \makeindex

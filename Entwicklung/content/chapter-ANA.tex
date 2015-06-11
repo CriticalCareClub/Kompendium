@@ -379,8 +379,9 @@ Man kann die Knochen anhand ihrer Form einteilen in:
     Schulterblatt, Brustbein, Schädel),
     \item \T{Röhrenknochen}\index{Knochen!Röhren-} (Oberarmknochen, Schienbein)
     und
-    \item \T{Würfelknochen}\index{Knochen!Würfel-} (z.\,B. Hand-, Fußwurzelwurzelknochen,
-    irreguläre Knochen)
+    \item \T{Würfelknochen}\index{Knochen!Würfel-} (z.\,B. Hand-, Fußwurzelwurzelknochen)
+    \item \T{Irreguläre Knochen}\index{Knochen!irreguläre} 
+    (z.\,B. Unterkieferknochen)
 \end{itemize}
 }
 {
@@ -388,6 +389,7 @@ Man kann die Knochen anhand ihrer Form einteilen in:
   \item Platte Knochen
   \item Röhrenknochen
   \item Würfelknochen
+  \item Irreguläre Knochen
 \end{itemize}
 }
 {}{}{}
@@ -697,24 +699,25 @@ Typische Beispiele sind:
   z.\,B. die Rotation zweier Knochen zugeneinander.
   
   Beispiel: Gelenk zwischen Elle und Speiche.
+  \item \T[Gelenke!zusammengesetzte]{Zusammengesetztes Gelenk}: 
+  Manche Gelenke erscheinen von außen betrachtet wie ein einzelnes Gelenk, 
+  bei genauerer Betrachtung der Gelenksstruktur erkennt man aber, 
+  dass es sich um eine Kombination mehrerer Gelenke handelt.
+  
+  Beispiel: \EE{Ellenbogengelenk}: 
+  %
+  Hier befinden sich in einem zusammengesetzten Gelenk \E{drei} Gelenksarten:
+%  \begin{compactenum}
+%    \item Zwischen dem Oberarmknochen und der Elle ein \E{Scharniergelenk},
+%    \item zwischen dem Oberarmknochen und der Speiche ein \E{Kugelgelenk} und 
+%    \item zwischen Elle und Speiche ein \E{Zapfengelenk}.
+%  \end{compactenum}
+  \begin{compactenum}
+    \item \E{Scharniergelenk}: Oberarmknochen--Elle
+    \item \E{Kugelgelenk}: Oberarmknochen--Speiche 
+    \item \E{Zapfengelenk}: Elle--Speiche
+  \end{compactenum}
 \end{itemize} 
-
-
-
-Manche Gelenke erscheinen von außen betrachtet wie ein einzelnes Gelenk, 
-bei genauerer Betrachtung der Gelenksstruktur erkennt man aber, 
-dass es sich um eine Kombination mehrerer Gelenke handelt.
-%
-Diese Gelenke nennt man \T[Gelenke!zusammengesetzte]{zusammengesetzte Gelenke}.
-%
-Ein Beispiel hierfür ist das Ellenbogengelenk: 
-%
-Hier befinden sich in einem zusammengesetzten Gelenk \E{drei} Gelenksarten:
-\begin{compactenum}
-  \item Zwischen dem Oberarmknochen und der Elle ein \E{Scharniergelenk},
-  \item zwischen dem Oberarmknochen und der Speiche ein \E{Kugelgelenk} und 
-  \item zwischen Elle und Speiche eie \E{Zapfengelenk}.
-\end{compactenum}
 
 }%2 Text
 {%
@@ -730,8 +733,14 @@ Hier befinden sich in einem zusammengesetzten Gelenk \E{drei} Gelenksarten:
     Elle--Oberarmknochen, \ldots)
     \item Zapfengelenk 
     (1 Achse; Elle--Speiche, \ldots)
-    \item Zusammengesetzte Gelenke 
-    (Ellenbogengelenk, {\ldots})
+    \item Zusammengesetzte Gelenke
+     
+    Z.\,B. Ellenbogengelenk:
+    \begin{compactenum}
+      \item Oberarmknochen--Elle (\E{Scharniergelenk})
+      \item Oberarmknochen--Speiche (\E{Kugelgelenk})
+      \item Elle--Speiche  (\E{Zapfengelenk})
+    \end{compactenum}
 \end{itemize}}%3 Slide
 
 
@@ -2214,12 +2223,21 @@ $\mbox{AMV} = \mbox{AZV} \times \mbox{AF}$
 \end{center}
 }{}{}{}
 
+\begin{Synopsis}
+  \SynopsisItem{AMV = AZV $\ast$ AF, beim Erwachsenen  ca.
+  \VonBis{6}{8}\Liter*}
+\end{Synopsis}
 
-\begin{table}[H]
-\Captionof{table}{Die genauen Normalwerte sind abhängig von den Faktoren
-Alter, Geschlecht und Größe: Atemfrequenz und -zugvolumen im
-Altersvergleich (Richtwerte)}
-
+\Table
+[]%1 Float
+{Atemfrequenz und -zugvolumen im
+Altersvergleich}%2 Titel
+{Richtwerte: Die genauen Normalwerte sind abhängig von den Faktoren
+Alter, Geschlecht und Größe.}%3 Beschreibung
+{}%4 Label/Hook
+{}%5 Quelle
+{}%6 Lizenz
+{%
 \begin{tabular}{lrr}\addlinespace\toprule\addlinespace
  & \noindent\TabHeading{AF} & \noindent\TabHeading{AZV}
 \\\addlinespace\midrule\addlinespace
@@ -2231,20 +2249,8 @@ Altersvergleich (Richtwerte)}
 \\\addlinespace
 \TabSub{Erwachsener} & \VonBis{12}{16}\PerMin*  & ca. 500\Ml*
 \\\addlinespace\bottomrule
-\end{tabular}
-\end{table}
+\end{tabular}}%7 Tabelle
 
-\begin{Synopsis}
-  \SynopsisItem{AMV = AZV $\ast$ AF, beim Erwachsenen  ca.
-  \VonBis{6}{8}\Liter*}
-\end{Synopsis}
-
-Für
-eine ausreichende Atmung ist auch eine ausreichende
-\ce{O2}-Konzentration der Umgebungsluft notwendig, denn ohne
-Sauerstoff in der Einatemluft ist die beste Atmung nutzlos.
-Der normale \ce{O2}-Gehalt der Umgebungsluft
-beträgt 21\PC*.
 
 
 \TextSlide{Totraumbelüftung}
@@ -2294,30 +2300,25 @@ Der Totraum beträgt beim Erwachsenen ca. 150\Ml*.
 welches eingeatmet wird.} Normalerweise ist das ein Gasgemisch aus Stickstoff,
 Sauerstoff, Kohlendioxid und Edelgasen
 (\protect\enquote*{\I{Raumluft}}).
+%
+Für eine ausreichende Atmung ist natürlich auch eine ausreichende
+\ce{O2}-Konzentration\ZFootnote{% 
+Genau genommen ist nicht nur die Sauerstoffkonzentration, 
+sondern auch der Sauerstoffpartial\E{druck} entscheidend.
+}
+der eingeatmeten Luft notwendig.
+%
+Der normale \ce{O2}-Gehalt der Umgebungsluft
+beträgt 21\PC*.
+
 Zwischen der normalen Einatem- und Ausatemluft besteht
-besonders hinsichtlich des Sauerstoff- und
-Kohlendioxid-Anteils ein Unterschied, siehe
-\prettyref{tab:luft-gas}.
-
-\begin{table}[H]
-\TableBaseModification
-\Captionof{table}{Gasgehalt in der Raum- und
-Ausatemluft.\label{tab:luft-gas}}
-
-\begin{tabular}[H]{ccc}
-\addlinespace\toprule\addlinespace
-\centering \TabHeading{Raumluft} & & \TabHeading{Ausatemluft}
-\\\addlinespace\midrule\addlinespace
-\EE{21\,\PC*}  & Sauerstoff (\ce{O2}) & \EE{16\,\PC*}
-\\\addlinespace
-78\,\PC* & Stickstoff (\ce{N}) & 78\,\PC*
-\\\addlinespace
-\EE{0,03\,\PC*} & Kohlendioxid (\ce{CO2}) & \EE{4\,\PC*} 
-\\\addlinespace
-1\,\PC* & Edelgase  & 1\,\PC*
-\\\addlinespace\bottomrule
-\end{tabular}
-\end{table}
+aufgrund des in der Lunge stattfindenden \E{Gasaustausches}
+hinsichtlich des Sauerstoff- und
+Kohlendioxid-Anteils ein Unterschied:
+Es wird mehr \ce{CO2} abgeatmet als eingeatmet wurde, 
+dafür ist die \ce{O2}-Konzentration bei der Ausatmung
+aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
+\prettyref{tab:luft-gas}. 
 }
 {
 \begin{itemize}
@@ -2326,49 +2327,60 @@ Ausatemluft.\label{tab:luft-gas}}
 \end{itemize}
 }{}{}{}
 
+\Table
+[]%1 Float
+{Gasgehalt in der Raum- und Ausatemluft}%2 Titel
+{}%3 Beschreibung
+{\label{tab:luft-gas}}%4 Label/Hook
+{}%5 Quelle
+{}%6 Lizenz
+{%
+\begin{tabular}[H]{ccc}
+\addlinespace\toprule\addlinespace
+\centering \TabHeading{Raumluft} & & \TabHeading{Ausatemluft}
+\\\addlinespace\midrule\addlinespace
+\EE{21\,\PC*}  & Sauerstoff (\ce{O2}) & \EE{16\,\PC*}
+\\\addlinespace
+77,97\,\PC* & Stickstoff (\ce{N}) & 78\,\PC*
+\\\addlinespace
+\EE{0,03\,\PC*} & Kohlendioxid (\ce{CO2}) & \EE{4\,\PC*} 
+\\\addlinespace
+1\,\PC* & Edelgase  & 1\,\PC*
+\\\addlinespace\bottomrule
+\end{tabular}
+}%7 Tabelle
 
 \TextSlide{Steuerung der Atmung}
 {%
 Die Atmung wird durch das \EE{Atemzentrum im Hirnstamm}
-gesteuert. Daneben gibt es Sensoren im Körper, die den
-Gasgehalt des Blutes beobachten.
-Beim gesunden Patienten ist der \EE{Atemantrieb} vom
-\EE{\ce{CO2}-Gehalt} des Blutes abhängig. Der
-Sauerstoffanteil spielt nur eine untergeordnete Rolle! Unter
+gesteuert. 
+%
+Daneben gibt es Sensoren im Körper, 
+die die Konzentration bestimmter Gase 
+(Spiegel, Gasgehalt) 
+im Blut beobachten.
+%
+Beim gesunden Menschen ist der \EE{Atemantrieb} von der \EE{\ce{CO2}-Konzentration} des Blutes abhängig: 
+%
+Je höher der \ce{CO2}-Gehalt, desto stärker der Atemantrieb. 
+%
+Der Sauerstoffanteil spielt nur eine untergeordnete Rolle! Unter
 \FullPrettyRef{topic:saeure-basen-haushalt}, wird
 ausgeführt, dass das \ce{CO2} eine wichtige Rolle im
 Säure-Basen-Haushalt des Körpers einnimmt.
 
-Wenn bei \EE{bestimmten Krankheitsbildern} die
-\E{\ce{CO2}-Konzentration ständig hoch} ist, \E{gewöhnt}
-sich der Körper an diesen Zustand. Er beginnt dann den
-\E{Atemantrieb direkt über den \ce{O2}}-Gehalt im Blut zu
-regeln.
-Dies kann \EE{Probleme} machen: Wird bei so einem Patienten
-der \ce{O2}-Gehalt plötzlich künstlich erhöht, fehlt der
-Atemantrieb und der Patient kann \EE{Bewusstseinsstörungen}
-(\I[\ce{CO2}-Narkose@CO2-Narkose]{\ce{CO2}-Narkose}) und
-einen \EE{Atemstillstand} erleiden.
-Das wichtigste Krankheitsbild bei dem so etwas vorkommen
-kann, ist die \Abk{COPD} (\FullPrettyRef{topic:copd}).
+
 }{
 \begin{itemize}
   \item Atemzentrum im Hirnstamm
   \item Atemantrieb normalerweise durch \EE{\ce{CO2}}
-  \item Krankhaft:
-  \begin{itemize}
-    \item Wenn \ce{CO2}-Konzentration dauerhaft erhöht
-    \Sign{→} Regelung durch
-    \ce{O2}-Gehalt.
-    \item Problem bei Sauerstoffgabe
-    \item V.\,a. bei \Abk{COPD} (\ref{topic:copd})
-  \end{itemize}
 \end{itemize}
 }{}{}{}
 
 \begin{Synopsis}
   \SynopsisItem{Normalerweise wird der Atemantrieb über den
   \ce{CO2}-Gehalt des Blutes gesteuert.}
+  \SynopsisItem{Je höher der \ce{CO2}-Gehalt, desto stärker der Atemantrieb.}
 \end{Synopsis}
 
 

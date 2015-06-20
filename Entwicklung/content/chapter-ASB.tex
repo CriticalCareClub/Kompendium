@@ -1205,21 +1205,38 @@ werden!
 \subsection{Die \HeadingKeyword{Füllmenge} einer Sauerstoff-Durckgasflasche lässt sich einfach \HeadingKeyword{berechnen}}
 
 Im Gegensatz zu anderen Gasen bleibt Sauerstoff auch unter Druck in seiner gasförmigen Phase. 
-Somit kann, bei Kenntnis des Fülldrucks und der Flaschengröße die Füllmenge einfach berechnet werden: 
-Die insgesamt verfügbare Menge wird errechnet, indem man
-die Füllgröße der Flasche (in Liter) mit dem
-Flaschendruck (in Bar) multipliziert. Zur Berechnung, wie
-lange die vorhandene Sauerstoffmenge bei einer bestimmten
-Abgaberate reicht, \EE{dividiert man die gesamt verfügbare
-Menge durch die Abgaberate}.
-Zu Bedenken ist dabei, dass in manchen Flaschen, abhängig von ihrer Konstruktion, mind.
-\EE{10\Bar* Restdruck}\footnote{Bei neueren Flaschen ist die Erhaltung eines Restdrucks oft nicht notwendig, die entsprechenden Betriebsvorschriften sind einzuhalten} 
-verbleiben sollen und eine
-\EE{ausreichende Zeitreserve} einzuplanen ist! Die Reserve ist abhängig von der geplanten Fahrtdauer, Strecke und Uhrzeit der Fahrt -> großzügig Planen.  
+%
+Somit kann, 
+bei Kenntnis des Fülldrucks 
+und der Flaschengröße die Füllmenge einfach berechnet werden: 
+%
+Das insgesamt \E{verfügbare} Volumen wird errechnet, 
+indem man
+die Füllgröße der Flasche (in Liter) 
+mit dem
+Flaschendruck (in Bar) 
+multipliziert. 
+%
+Zur Berechnung, 
+wie lange die vorhandene Sauerstoffmenge bei einer bestimmten
+Abgaberate ausreicht, 
+\EE{dividiert man 
+das gesamte verfügbare Volumen 
+durch die Abgaberate}.
+%
+Zu Bedenken ist dabei, 
+dass in manchen Flaschen, 
+abhängig von ihrer Konstruktion, 
+mind. \EE{10\Bar* Restdruck}\footnote{Bei neueren Flaschen ist die Erhaltung eines Restdrucks oft nicht notwendig, die entsprechenden Betriebsvorschriften sind einzuhalten} 
+verbleiben sollen 
+und eine ausreichende \EE{Zeitreserve} einzuplanen ist! 
+%
+Die Zeitreserve ist abhängig von der geplanten Fahrtdauer 
+(unter Berücksichtigung der Verkehrslage, Witterungsverhältnisse, {\ldots}) und muss \E{großzügig} kalkuliert werden.  
 
 {\FontSansNarrowFamily
-\begin{equation}
-\text{Verfügbare Menge in \Liter} = {\begin{array}{c}
+\begin{equation}\notag
+\text{Verfügbares Volumen in \Liter} = {\begin{array}{c}
 \text{Volumen der Flasche in \Liter}\\
 \text{(Füllgröße)} \end{array}}
 \times 
@@ -1228,9 +1245,9 @@ verbleiben sollen und eine
 \end{array}\notag
 \end{equation}
 
-\begin{equation}
-\text{Zeit} = \frac{\text{Verfügbare
-Menge}}{\text{Abgaberate}}
+\begin{equation}\notag
+\text{Zeit} = 
+\frac{\text{Verfügbares Volumen}}{\text{Abgaberate}}
 \notag
 \end{equation}
 }

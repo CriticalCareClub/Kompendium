@@ -44,10 +44,10 @@ GxxxxxxC,2,2014-03-19,SPZ,Uterusatonie,,"Geburtshilfe, Kreißsaal; Voranmeldung"
 GY51140C,2,2014-03-19,SPZ,Basisreanimation des Neugeborenen,,Neonatologie,3:1,G,Y,5,1,1,4,0,C,Y51.14,Interner Y-Code
 GY51310C,2,2014-03-19,SPZ,Versorgung des Neugeborenen,,Geburtshilfe,,G,Y,5,1,3,1,0,C,Y51.31,
 IA16091C,2,2014-03-19,SPZ,Tuberkulose,,"Innere Medizin, Lungenheilkunde",,I,A,1,6,0,9,1,C,A16.09,"Nicht näher bezeichnete Tuberkulose der Atmungsorgane ohne Angabe einer bakteriologischen, molekularbiologischen oder histologischen Sicherung"
-IG03091C,2,2014-03-19,SPZ,Meningitis,,Innere Medizin,,I,G,0,3,0,9,1,C,G03.09,"Meningitis, nicht näher bezeichnet"
+IG03091C,2,2014-03-19,SPZ,Meningitis,,Innere Medizin; bei Kindern Kinderheilkunde,,I,G,0,3,0,9,1,C,G03.09,"Meningitis, nicht näher bezeichnet"
 IJ18090C,2,2014-03-19,SPZ,Pneumonie,,Innere Medizin,,I,J,1,8,0,9,0,C,J18.09,"Pneumonie, nicht näher bezeichnet"
 IU81001C,2,2014-03-19,SPZ,Multiresistente Keime,,,,I,U,8,1,0,0,1,C,U81.00,
-IW49091C,2.0.1,2015-11-15,SPZ,Nadelstichverletzung,Zusatzschlüssel (!-Code)!,Unfallchirurgie,,I,W,4,9,0,9,1,C,W49.09,Unfall durch Exposition gegenüber mechanischen Kräften unbelebter Objekte
+IW49091C,2.0.1,2015-11-15,SPZ,Nadelstichverletzung,Zusatzschlüssel (!-Code)!,"Zuständigkeiten unterschiedlich geregelt, regionale Regelungen beachten",,I,W,4,9,0,9,1,C,W49.09,Unfall durch Exposition gegenüber mechanischen Kräften unbelebter Objekte
 KJ05000C,2.2,2015-05-09,SPZ,Akute obstruktive Laryngitis,,Kinderheilkunde,,K,J,0,5,0,0,0,C,J05.00,Akute obstruktive Laryngitis [Krupp]
 KJ05010C,2.2,2015-05-09,SPZ,Akute Epiglottitis,,Kinderheilkunde,,K,J,0,5,0,1,0,C,J05.01,Akute Epiglottitis
 KR56001C,2,2014-03-19,SPZ,Fieberkrampf im Kindesalter,,Kinderheilkunde,,K,R,5,6,0,0,1,C,R56.00,Fieberkrämpfe
@@ -99,7 +99,7 @@ MT75010C,2,2014-03-19,SPZ,Ertrinkungsunfall,,,,M,T,7,5,0,1,0,C,T75.01,Ertrinken 
 MY51990C,2,2014-03-19,SPZ,Unterlassung der Reanimation,,,"Grundsätzlich darf keine Hilfeleistung unterlassen werden, jedoch ist der Patientenwille oberstes Gebot und ist zu respektieren!",M,Y,5,1,9,9,0,C,Y51.99,Interner Y-Code
 NI64XX0C,2,2014-03-19,SPZ,Insult,,"Stroke Unit, Abt. f. Neurologie, Abt. f. Innere Medizin",,N,I,6,4,-,-,0,C,I64.--,"Schlaganfall, nicht als Blutung oder Infarkt bezeichnet"
 NR56081C,2,2014-03-19,SPZ,Krampfender Patient,,"Intensivstation bzw. Überwachungsstation, Innere Medizin",,N,R,5,6,0,8,1,C,R56.08,Sonstige und nicht näher bezeichnete Krämpfe
-NR56082C,2,2014-03-19,SPZ,Z. n. Krampanfall,,Innere Medizin,,N,R,5,6,0,8,2,C,R56.08,Sonstige und nicht näher bezeichnete Krämpfe
+NR56082C,2,2014-03-19,SPZ,Z. n. Krampfanfall,,Innere Medizin,,N,R,5,6,0,8,2,C,R56.08,Sonstige und nicht näher bezeichnete Krämpfe
 PF22091C,2,2014-03-19,SPZ,Patienten mit Wahnvorstellungen,Achtung: Kodierung als Patient mit anhaltenden wahnhaften Vorstellungen. Bei akuten Episoden ist der Code F23.xx zu verwenden,Psychiatrie,,P,F,2,2,0,9,1,C,F22.09,"Anhaltende wahnhafte Störung, nicht näher bezeichnet"
 PF92091C,2,2014-06-30,SPZ,Unruhiger oder aggressiver Patient,,Je nach Ursache,,P,F,9,2,0,9,1,C,F92.09,"Kombinierte Störung des Sozialverhaltens und der Emotionen, nicht näher bezeichnet"
 SY52210A,2,2014-03-19,STD,Sauerstoffberieselung,,---,,S,Y,5,2,2,1,0,A,Y52.21,Interner Y-Code

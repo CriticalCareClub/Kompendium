@@ -47,7 +47,7 @@ IA16091C,2,2014-03-19,SPZ,Tuberkulose,,"Innere Medizin, Lungenheilkunde",,I,A,1,
 IG03091C,2,2014-03-19,SPZ,Meningitis,,Innere Medizin,,I,G,0,3,0,9,1,C,G03.09,"Meningitis, nicht näher bezeichnet"
 IJ18090C,2,2014-03-19,SPZ,Pneumonie,,Innere Medizin,,I,J,1,8,0,9,0,C,J18.09,"Pneumonie, nicht näher bezeichnet"
 IU81001C,2,2014-03-19,SPZ,Multiresistente Keime,,,,I,U,8,1,0,0,1,C,U81.00,
-IW49091C,2,2014-03-19,SPZ,Nadelstichverletzung,Zusatzschlüssel (!-Code)!,Unfallchirurgie,,I,W,4,9,0,9,1,C,W49.09,Unfall durch Exposition gegenüber mechanischen Kräften unbelebter Objekte
+IW49091C,2.0.1,2015-11-15,SPZ,Nadelstichverletzung,Zusatzschlüssel (!-Code)!,Unfallchirurgie,,I,W,4,9,0,9,1,C,W49.09,Unfall durch Exposition gegenüber mechanischen Kräften unbelebter Objekte
 KJ05000C,2.2,2015-05-09,SPZ,Akute obstruktive Laryngitis,,Kinderheilkunde,,K,J,0,5,0,0,0,C,J05.00,Akute obstruktive Laryngitis [Krupp]
 KJ05010C,2.2,2015-05-09,SPZ,Akute Epiglottitis,,Kinderheilkunde,,K,J,0,5,0,1,0,C,J05.01,Akute Epiglottitis
 KR56001C,2,2014-03-19,SPZ,Fieberkrampf im Kindesalter,,Kinderheilkunde,,K,R,5,6,0,0,1,C,R56.00,Fieberkrämpfe
@@ -63,12 +63,12 @@ MI20091C,2,2014-03-19,SPZ,"Thoraxschmerz, beschwerdefrei",,Innere Medizin,,M,I,2
 MI24091C,2,2014-03-19,SPZ,Akutes Koronarsyndrom,,"Je nach weiterer (ärztlicher) Diagnostik: Innere Medizin, Chest-Pain-Unit, Herzkatheterlabor, kardiologische bzw. internistische Überwachungs- oder Intensivstation; ggfs. Voranmeldung bzw. Rücksprache mit dem diensthabenden Facharzt erforderlich",,M,I,2,4,0,9,1,C,I24.09,"Akute ischämische Herzkrankheit, nicht näher bezeichnet"
 MI21031E,1,2015-08-16,SPZ,"Akuter Myokardinfarkt, STEMI",,Herzkatheterlabor; ggfs. Voranmeldung bzw. Rücksprache mit dem diensthabenden Facharzt erforderlich,,M,I,2,1,0,3,1,E,I21.03,Akuter transmuraler Myokardinfarkt an nicht näher bezeichneter Lokalisation
 MI26XX0C,2,2014-03-19,SPZ,Lungenembolie,,"Innere Medizin,  Lungenheilkunde",,M,I,2,6,-,-,0,C,I26.--,Lungenembolie
-MI50090C,2,2014-03-19,SPZ,"Herzinsuffizienz, symptomatisch",,"Innere Medizin, evtl. Überwachungs- oder Intensivstation",,M,I,5,0,0,9,0,C,I50.09,"Herzinsuffizienz, nicht näher bezeichnet"
+MI50090C,2.1,2015-11-15,SPZ,"Herzinsuffizienz, symptomatisch",,"Innere Medizin, evtl. Überwachungs- oder Intensivstation",,M,I,5,0,0,9,0,C,I50.09,"Herzinsuffizienz, nicht näher bezeichnet"
 MI74041C,2,2014-03-19,SPZ,Arterieller Gefäßverschluss einer Extremität,,Gefäßchirurgie,"Symptomatische Therapie, tieflagern und Schützen der Extremität",M,I,7,4,0,4,1,C,I74.04,"Embolie und Thrombose der Extremitätenarterien, nicht näher bezeichnet"
 MI74042C,2,2014-03-19,SPZ,Venöser Gefäßverschluss einer Extremität,,"Innere Medizin, mancherorts  Dermatologie","Symptomatische Therapie, hochlagern und Schützen der Extremität",M,I,7,4,0,4,2,C,I74.04,"Embolie und Thrombose der Extremitätenarterien, nicht näher bezeichnet"
 MJ44190C,2,2014-03-19,SPZ,COPD-Exazerbation,,"Innere Medizin,  Lungenheilkunde",,M,J,4,4,1,9,0,C,J44.19,"Chronische obstruktive Lungenkrankheit mit akuter Exazerbation, nicht näher bezeichnet: FEV1 nicht näher bezeichnet"
 MJ46XX1C,2,2014-03-19,SPZ,Akuter Asthmaanfall,,"Innere Medizin,  Lungenheilkunde",,M,J,4,6,-,-,1,C,J46.--,Status asthmaticus (Inkl.: Akutes schweres Asthma bronchiale)
-MJ81XX1C,2,2014-03-19,SPZ,"Akutes Lungenödem, leicht",,Innere Medizin,,M,J,8,1,-,-,1,C,J81.--,"Sonstige Krankheiten der Atmungsorgane, die hauptsächlich das Interstitium betreffen"
+MJ81XX1C,2.0.1,2015-11-15,SPZ,"Akutes Lungenödem, leicht",,Innere Medizin,,M,J,8,1,-,-,1,C,J81.--,"Sonstige Krankheiten der Atmungsorgane, die hauptsächlich das Interstitium betreffen"
 MJ81XX2C,2,2014-03-19,SPZ,"Akutes Lungenödem, schwer",,"Innere Medizin, ggfs. Überwachungs- oder Intensivstation",,M,J,8,1,-,-,2,C,J81.--,"Sonstige Krankheiten der Atmungsorgane, die hauptsächlich das Interstitium betreffen"
 MJ96091C,2,2014-03-19,SPZ,Insuffiziente Atmung,,Je nach Ursache,,M,J,9,6,0,9,1,C,J96.09,"Akute respiratorische Insuffizienz, anderenorts nicht klassifiziert: Typ nicht näher bezeichnet"
 MN23XX0C,2,2014-03-19,SPZ,Nierenkolik,,"Urologie; wenn nicht vorhanden, Innere Medizin",Im Vordergrund bei der Versorgung steht die rasche Veranlassung einer Schmerztherapie.,M,N,2,3,-,-,0,C,N23.--,Nicht näher bezeichnete Nierenkolik

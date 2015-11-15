@@ -1063,7 +1063,7 @@ Klebeelektroden für den einmaligen Gebrauch verwendet.
 \AuthNotes{GABS: Sollte im Defi-Teil durchgenommen
 werden?:} 
 
-\TextSlidePicture
+\TextSlide
 {\Z{EKG -- Ablauf einer Erregung}}%1 Titel
 {%
 \Z{Die einzelnen Abschnitte einer EKG-Kurve zeigen die Erregung der unterschieldichen Teile des Erregungsleitungssystems im Zeitverlauf an. Die \I{P-Welle} entspricht dabei der Vorhoferregung, 
@@ -1084,12 +1084,37 @@ die Erregungsrückbildung repräsentieren.
 \end{itemize}
 }% Z
 }%3 Slide
-{./images/wikipedia-cc-by-sa/EKG_Komplex}%4 Bilddatei
-{Eine elektrische Herzaktion}%5 Bildtitel
-{}%6 Bildbeschreibung
-{WMC:Hank}%7 Quelle
-{CC-BY-SA-2.0-DE}%8 Lizenz
-% Vormals \Layout{20}
+%{./images/wikipedia-cc-by-sa/EKG_Komplex}%4 Bilddatei
+%{Eine elektrische Herzaktion}%5 Bildtitel
+%{}%6 Bildbeschreibung
+%{WMC:Hank}%7 Quelle
+%{CC-BY-SA-2.0-DE}%8 Lizenz
+%% Vormals \Layout{20}
+
+\begin{PictureSeries}{}{Schema einer elektrischen Herzaktion}
+\PictureSeriesRow
+{2}% Anzahl Spalten}
+{./images/wikipedia-cc-by-sa/EKG_Komplex}% Pfad Bild 1
+{Eine elektrische Herzaktion. 
+\Z{Die einzelnen Abschnitte im zeitlichen Verlauf repräsentieren unterschiedliche Stadien der Erregung: \newline
+\textbf{P}-Welle $\approx$ Vorhoferregung, \newline
+\textbf{PQ}-Zeit $\approx$ AV-Überleitung, \newline
+\textbf{QRS}-Komplex $\approx$ Kammererregung, \newline
+\textbf{ST}-Strecke + \textbf{T}-Welle $\approx$ Erregungsrückbildung.}
+\SourcePicture{WMC:Hank / CC-BY-SA-2.0-DE}}% Text Bild 1
+{./images/anatomie/Reizleitungssystem_1.png}% Pfad Bild 2
+{Reizleitungssystem, Schema. \newline
+\textbf{1}: Sinusknoten \newline
+\textbf{2}: AV-Knoten \newline 
+\SourcePicture{J. Heuser,
+basierend auf der Arbeit von Patrick J. Lynch; illustrator;
+C. Carl Jaffe; MD; cardiologist Yale University Center for
+Advanced Instructional Media; CC-BY}}% Text Bild 2
+{}% Pfad Bild 3
+{}% Text Bild 3
+{}% Pfad Bild 4
+{}% Text Bild 4
+\end{PictureSeries}
 
 
 \begin{Danger}
@@ -1108,8 +1133,19 @@ die Erregungsrückbildung repräsentieren.
 \label{topic:ekg-ableitungen}
 
 \TextSlide{\TxBeschreibung}{
-Grundsätzlich unterscheidet man zwischen den Extremitätenableitungen
-und den Brustwandableitungen. 
+Je nach Position der Elektroden 
+(und elektrischer Schaltung) 
+unterscheiden sich die abgeleiteten elektrischen Herzströme.
+%
+Um die elektrischen Herzströme aus verschiedenen Perspektiven in jeweils einer Kurve abzubilden 
+und beurteilen zu können, 
+diese Kurven jedoch zwischen verschiedenen Untersuchungen 
+und Patienten vergleichbar zu machen, 
+haben sich Standard-Elektrodenpositionen 
+und \I{Standardableitungen} etabliert. 
+%
+Die gebräuchlichsten sind die Extremitätenableitungen
+und den Brustwandableitungen:  
 \hfill\Commentary[EKG-Ableitungen]{Brustwandableitungen nach
 \I{Einthoven} und \I{Goldberger}, Brustwandableitungen nach
 \I{Wilson}. \ParBugfix
@@ -1131,29 +1167,21 @@ elektrischen Herzaktivität: \\
 \cite{EkgIsabell5,InnereMedQuick3}}
 
 \begin{itemize}
-  \item Extremitätenableitungen\Z{: \EKG{I}, \EKG{II},
+  \item 6 Extremitätenableitungen\Z{: \EKG{I}, \EKG{II},
   \EKG{III}, \EKG{aVL}, \EKG{aVR}, \EKG{aVF}}
-  \item Brustwandableitungen\Z{:
+  \item 6 Brustwandableitungen\Z{:
   \VonBis{\EKG{V1}}{\EKG{V6}}}
 \end{itemize}
+
+
 }{
 \begin{itemize}
-  \item Extremitätenableitungen
-  \item Brustwandableitungen
+  \item 6 Extremitätenableitungen
+  \item 6 Brustwandableitungen
 \end{itemize}
 }{}{}{}
 
-Es haben sich folgende Begriffe eingebürgert:
 
-\begin{description}
-    \item[Extremitätenableitung] \enquote{\T{Rhythmusstreifen}}
-    zur Beurteilung des Herzrhythmus und zum Monitoring
-    \item[Extremitätenableitung\,+\,Brustwandableitung]
-    (\enquote{\T{12-Kanal-EKG}}) -- Damit können Störungen
-    der jeweiligen Herzregion zugeordnet werden. Wenn vorhanden,
-    ist das 12-Kanal-\Abk{EKG} (\emph{\enquote{12er}}) für die
-    Diagnostik das Mittel der Wahl. 
-\end{description}
 
 
 
@@ -1164,12 +1192,15 @@ Elektroden abgeleitet. Je eine Elektrode wird an den Enden der
 Extremitäten angebracht. Zur Vereinfachung können die
 Elektroden auch am Übergang vom Rumpf zu den Extremitäten
 angebracht werden (z.\,B. statt dem rechten Arm an der
-rechten Schulter). Wichtig ist, dass die Elektrodenpärchen
+rechten Schulter). Wichtig ist, dass die horizontalen Elektrodenpärchen
 immer auf \EE{gleicher Höhe} angebracht werden!
+%
+Zu den Positionen der Elektroden siehe \FullPrettyRef{tab:ekg-elektroden-position}.
 
-Aus den Informationen der vier Elektroden erzeugt das
+Aus den Informationen der \EE{vier Elektroden} erzeugt das
 EKG-Gerät \EE{sechs Ableitungen} \Z{(\EKG{I}, \EKG{II},
-\EKG{III}, \EKG{aVL}, \EKG{aVR} und \EKG{aVF}).}
+\EKG{III}, \EKG{aVL}, \EKG{aVR} und \EKG{aVF}).
+}
 }{
 \begin{itemize}
   \item 4 Elektroden an den Extremitäten
@@ -1181,22 +1212,96 @@ EKG-Gerät \EE{sechs Ableitungen} \Z{(\EKG{I}, \EKG{II},
 
 
 
-\Table
+\TextSlide{Brustwandableitungen}
+{%
+Die \T{Brustwandableitungen} werden mittels sechs Elektroden
+abgeleitet und erlauben eine genauere Zuordnung von
+Störungen zu der jeweiligen Region des Herzens. 
+%
+Aus den Informationen der \EE{sechs Elektroden} erzeugt das
+\Abk{EKG}-Gerät \EE{sechs Ableitungen}\Z{:
+\VonBis{\EKG{V1}}{\EKG{V6}}}. 
+%
+
+Zu den Positionen der Elektroden siehe \FullPrettyRef{tab:ekg-elektroden-position}.
+Die \EE{richtige Positionierung} der
+\Abk{EKG}-Elektroden ist Voraussetzung um ein
+sinnvoll auswertbares und den einzelnen
+Herzabschnitten zuordenbares \Abk{EKG} zu erstellen.
+Falsch angebrachte Elektroden können ein \Abk{EKG} derart
+verfälschen, dass es zu gravierenden Fehldiagnosen kommen
+kann. 
+\hfill\Commentary[EKG, Positionierung der EKG-Elektroden]
+{%
+Zum Beispiel Rahmen einer Akut-Angiographie im Zuge eines
+Myokardinfarktes sind die dokumentierten EKGs (und damit
+auch die im Rettungsdienst abgeleiteten) ein wichtiges
+Hilfsmittel, um das in der Akutsituation maßgebliche
+Koronargefäß zu identifizieren. 
+\ParBugfix
+In \cite{Schnelle200607} wurde untersucht,
+wie sich die Anbringungsstelle der Elektroden auf das
+\Abk{EKG} auswirken kann.}
+
+}{
+\begin{itemize}
+    \item 6 Elektroden am Brustkorb
+    \item 6 Ableitungen
+    \item Genaue Positionierung wichtig!
+    \item Zusammen mit Extremitätenableitungen: 12-Kanal-EKG
+\end{itemize}
+}{}{}{}
+
+\TextSlide
+{Praxis des EKG-Schreibens}%1 Überschrift
+{%
+In der Praxis ergeben sich daraus zwei Anwendungsfälle:
+
+\begin{itemize}
+    \item \T{Rhythmusstreifen}: 
+    Bestehend aus den \I{Extremitätenableitungen} 
+    zur Beurteilung des Herzrhythmus und zum Monitoring.
+    %
+    \item \T{12-Kanal-EKG}: 
+    Bestehend aus den \I{Extremitätenableitungen} und den 
+    \I{Brustwandableitungen} 
+    zur Diagnostik des Herzrhythmus 
+    und zur Diagnose und Lokalisation von Herzschädigungen, 
+    vorwiegend des Herzmuskels. 
+    %
+    Störungen können damit der jeweiligen Herzregion zugeordnet werden. 
+    %
+    Wenn vorhanden,
+    ist das 12-Kanal-\Abk{EKG} (\emph{\enquote{12er}}) für die
+    Diagnostik das Mittel der Wahl. 
+\end{itemize}
+}%2 Text
+{%
+\begin{itemize}
+  \item Rhythmusstreifen: 6 Extremitätenableitungen
+  \item 12-Kanal-EKG: Extremitäten- + Brustwandableitungen
+\end{itemize}
+}%3 Slide
+
+
+\TableWide
 [H]%1 Float
-{Farbe und Positionen der EKG-Elektroden
-für die Extremitätenableitung}%2 Titel
+{Farbe und Standardpositionen der EKG-Elektroden}%2 Titel
 {}%3 Beschreibung
-{}%4 Label/Hook
+{\label{tab:ekg-elektroden-position}}%4 Label/Hook
 {}%5 Quelle
 {}%6 Lizenz
 {%
-\begin{tabular}{lll}
+\begin{tabulary}{\linewidth}{lLL}
 \addlinespace\toprule\addlinespace
+\noindent\TabHeading{Elektrode} 
 & 
-\TabHeading{Position} 
+\noindent\TabHeading{Position} 
 &
-\TabHeading{Alternative Position}
-\\\midrule
+\noindent\TabHeading{Alternative Position}
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\TabSub{Extremitätenableitungen}}
+\\\addlinespace\midrule\addlinespace
 \colorbox{red}{\sffamily\bfseries\textcolor{white}{Rot}} & Rechte Hand & Rechte
 Schulter
 \\
@@ -1207,10 +1312,38 @@ Schulter
 Linke Leiste
 \\
 \colorbox{black}{\sffamily\bfseries\textcolor{white}{Schwarz}} & Rechter Fuß &
-Rechte Leiste \\\bottomrule
-\end{tabular}
+Rechte Leiste 
+\\\addlinespace\midrule\addlinespace
+\multicolumn{3}{c}{\TabSub{Brustwandableitungen}}
+\\\addlinespace\midrule\addlinespace
+\textbf{\EKG{V1}} & 4. Zwischenrippenraum rechts vom Sternum
+\\\addlinespace
+\textbf{\EKG{V2}} & 4. Zwischenrippenraum links vom Sternum
+\\\addlinespace
+\textbf{\EKG{V3}} & Mitte zwischen \EKG{V2} und \EKG{V4}
+\\\addlinespace
+\textbf{\EKG{V4}} & 5. Zwischenrippenraum links in der Verlängerung
+der Schlüsselbein-Mittellinie
+\\\addlinespace
+\textbf{\EKG{V5}} & 5. Zwischenrippenraum vordere Achsellinie (zw. \EKG{V4} und \EKG{V6}) 
+\\\addlinespace
+\textbf{\EKG{V6}} & 6. Zwischenrippenraum in der mittleren
+Achsellinie 
+\\\addlinespace\bottomrule
+\end{tabulary}
 }%7 Tabelle
 
+
+
+\PictureWide
+[H]% Float
+{Unauffälliger 12-Kanal-EKG-Befund}% Titel
+{}% Beschreibung
+{}% Label
+{WM}% Quelle
+{PD}% Lizenz
+{./images/wikipedia-pd/12_lead_generated_sinus_rhythm}% Datei
+{}% Breitenmodifizierer
 
 
 \PictureWide
@@ -1226,86 +1359,6 @@ und Brustwandableitungen}% Titel
 
 
 
-
-\TextSlide{Brustwandableitungen}
-{
-Die \T{Brustwandableitungen} werden mittels sechs Elektroden
-abgeleitet und erlauben eine genauere Zuordnung von
-Störungen zu der jeweiligen Region des Herzens. Aus den
-Informationen der sechs Elektroden erzeugt das
-\Abk{EKG}-Gerät \EE{sechs Ableitungen}:
-\Z{\VonBis{\EKG{V1}}{\EKG{V6}}}.
-}{
-\begin{itemize}
-    \item 6 Elektroden am Brustkorb.
-    \item 6 Ableitungen.
-\end{itemize}
-}{}{}{}
-
-
-
-
-\Table
-[]%1 Float
-{Position der EKG-Elektroden bei der Brustwandableitung}%2 Titel
-{}%3 Beschreibung
-{}%4 Label/Hook
-{}%5 Quelle
-{}%6 Lizenz
-{%
-\begin{tabulary}{\linewidth}[H]{CL}
-\addlinespace\toprule\addlinespace
-\noindent\TabHeading{Abl.}
- &
-\noindent\TabHeading{Position}
-\\\addlinespace\midrule\addlinespace
-\EKG{V1} & 4. Zwischenrippenraum rechts vom Sternum
-\\\addlinespace
-\EKG{V2} & 4. Zwischenrippenraum links vom Sternum
-\\\addlinespace
-\EKG{V3} & Mitte zwischen \EKG{V2} und \EKG{V4}
-\\\addlinespace
-\EKG{V4} & 5. Zwischenrippenraum links in der Verlängerung
-der Schlüsselbein-Mittellinie
-\\\addlinespace
-\EKG{V5} & 5. Zwischenrippenraum vordere Achsellinie (zw. \EKG{V4} und \EKG{V6}) 
-\\\addlinespace
-\EKG{V6} & 6. Zwischenrippenraum in der mittleren
-Achsellinie 
-\\\addlinespace\bottomrule
-\end{tabulary}
-}%7 Tabelle
-
-
-Die richtige Positionierung der
-\Abk{EKG}-Elektroden ist Voraussetzung um ein
-sinnvoll auswertbares und den einzelnen
-Herzabschnitten zuordenbares \Abk{EKG} zu erstellen.
-Falsch angebrachte Elektroden können ein \Abk{EKG} derart
-verfälschen, dass es zu gravierenden Fehldiagnosen kommen
-kann. \hfill\Commentary[EKG, Positionierung der EKG-Elektroden]
-{%
-Zum Beispiel Rahmen einer Akut-Angiographie im Zuge eines
-Myokardinfarktes sind die dokumentierten EKGs (und damit
-auch die im Rettungsdienst abgeleiteten) ein wichtiges
-Hilfsmittel, um das in der Akutsituation maßgebliche
-Koronargefäß zu identifizieren. 
-\ParBugfix
-In \cite{Schnelle200607} wurde untersucht,
-wie sich die Anbringungsstelle der Elektroden auf das
-\Abk{EKG} auswirken kann.}
-
-
-
-\PictureWide
-[H]% Float
-{Unauffälliger 12-Kanal-EKG-Befund}% Titel
-{}% Beschreibung
-{}% Label
-{WM}% Quelle
-{PD}% Lizenz
-{./images/wikipedia-pd/12_lead_generated_sinus_rhythm}% Datei
-{}% Breitenmodifizierer
 
 
 

@@ -65,17 +65,20 @@
   \end{itemize}
 \end{itemize}
 
-% \TableWide
-% 	{<Titel>}%1
-% 	{<Beschreibung>}%2
-% 	{<Label>}%3
-% 	{<Quelle>}%4
-% 	{<Lizenz>}%5
-% 	{<Tabelle>}%6
-% 	{<Float>}%8
-\TableWide{Versorgung des Neugeborenen abhängig vom Befund}
+
+%\TableWide
+%[]%1 Float
+%{}%2 Titel
+%{}%3 Beschreibung
+%{}%4 Label/Hook
+%{}%5 Quelle
+%{}%6 Lizenz
+%{}%7 Tabelle
+\TableWide
+[]%1 Float
+{Versorgung des Neugeborenen abhängig vom Befund}
 {}
-{fig:neugeborenes-versorgung}
+{\label{fig:neugeborenes-versorgung}}
 {}
 {}
 {%
@@ -172,6 +175,6 @@ Atemstillstand oder Bradykardie}
   \\\addlinespace\bottomrule
 \end{tabularx}
 }
-{H}
+
 
 \cite{Erc2010Sek06De,AsboeLehrmeinungRd2011-19,AsboeLehrmeinungRd2011-18}

@@ -5605,7 +5605,7 @@ welche der \EE{Fettverdauung} dient:
 Fette sind an sich nicht in Wasser löslich, es bedarf der Gallenflüssigkeit als Hilfsstoff (\I{Emulgator}), 
 welche aus Fett und Wasser ein feines Gemisch ermöglicht (\I{Emulsion}).
 % 
-Von der Leber leiten die \TextField[Gallengang]{Gallengänge} 
+Von der Leber leiten die \T[Gallengang]{Gallengänge} 
 die Gallenflüssigkeit
 in den Zwölffingerdarm. An den Gallengängen hängt die
 \T{Gallenblase}, in welcher die Gallenflüssigkeit
@@ -6654,13 +6654,10 @@ Eizelle weiter in den Uterus und nistet sich dort ein.}%2 Beschreibung
 \subsubsection{Die \HeadingKeyword{Schwangerschaft}}
 
 
-\HeadingSub{}
-
-\index{Schwangerschaft}
-
-
-
-\TextSlide{{\TxBeschreibung}: Schwangerschaft}{%
+\TextSlide{{\TxBeschreibung}: Schwangerschaft}
+{%
+\label{topic:schwangerschaft}%
+\index{Schwangerschaft}%
 Die normale \T{Schwangerschaft}
 (\Lang{Term.} \I{Gestation}, \I{Gravidität}, \Lang{Abkz.} \I{Grav.}) 
 dauert \EE{40\,$\pm$\,2
@@ -6789,16 +6786,18 @@ expired.}}
 \clearpage
 
 \section{\HeadingKeyword{Vitalfunktionen}}
-\label{topic:vitalfunktionen-definition}
-\index{Vitalfunktion!Allgemein}
 
 % Kapitel Einleitung hinzugeführt, um label sinnvoll setzen
 % zu können (Emhofer)
 
 
 
-\paragraph{Überblick}
-
+\paragraph{}
+\Text
+{Überblick}%1 Überschrift
+{%
+\label{topic:vitalfunktionen-definition}%
+\index{Vitalfunktion!Allgemein}%
 Die Vitalfunktionen ermöglichen die
 Funktion des Körpers. Man unterscheidet grundlegende
 Vitalfunktionen 1. Ordnung (Bewusstsein, Atmung, Kreislauf),
@@ -6807,12 +6806,18 @@ Vitalfunktionen 2. Ordnung, deren Störung längere Zeit
 toleriert werden kann. Die Untersuchung der Vitalfunktionen
 1. Ordnung sind fester Bestandteil des Einschätzungsblockes
 (\FullPrettyRef{topic:einschaetzungsblock}).
+}%2 Text
 
-\begin{table}[H]
-\TableBaseModification
-\Captionof{table}{Übersicht über die Vitalfunktionen 1. und
-2. Ordnung}
 
+
+\Table
+[]%1 Float
+{Übersicht über die Vitalfunktionen 1. und 2. Ordnung}%2 Titel
+{}%3 Beschreibung
+{}%4 Label/Hook
+{}%5 Quelle
+{}%6 Lizenz
+{%
 \begin{tabularx}{\linewidth}[H]{XX}
 \toprule\addlinespace
 \noindent\TabHeading{Vitalfunktionen I. Ordnung}
@@ -6843,7 +6848,7 @@ Fester Bestandteil des Einschätzungsblockes!
  \end{itemize}
 \\\addlinespace\bottomrule
 \end{tabularx}
-\end{table}
+}%7 Tabelle
 
 
 

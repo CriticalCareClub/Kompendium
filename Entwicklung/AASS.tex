@@ -213,7 +213,9 @@ sortlocale=de,
 \opt{OPTIMIZATION-PRINT}{\MultiColListStart{toc}{3}}
 % \MultiColListStart{lofazit}{1}
 \opt{OPTIMIZATION-PRINT}{\MultiColListStart{lomassnahmen}{3}}
-\DTLloaddb[headers={CODE,VERSION,UPDATE,TYPE,TITLE,REMARKS,TARGET,SUMMARY,SPECIALTY,ICD10-P,ICD10-1,ICD10-2,ICD10-3,ICD10-4,MODIFIER,LEVEL,ICD10,ICD10-TEXT}]{procedures}{procedures-export.csv}
+\DTLloaddb[headers={CODE,VERSION,UPDATE,TYPE,TITLE,REMARKS,TARGET,SUMMARY,SPECIALTY,ICD10-P,ICD10-1,ICD10-2,ICD10-3,ICD10-4,MODIFIER,LEVEL,ICD10,ICD10-TEXT}]
+{procedures}
+{ListeMassnahmenExport.csv}
 % \biolinum
 \renewcommand{\itemhook}{%
 %   \setlength{\topsep}{0pt}%

@@ -47,10 +47,11 @@ Voraussetzungen für effektives und professionelles Arbeiten.
 \clearpage % TEMP temp clearpage
 
 
+
 % \begin{WidePar}
 \pagestyle{empty}\loadgeometry{WholePage}
-\vfill
-
+%\vfill
+\nopagebreak
 \begin{minipage}{\linewidth}
 \noindent{\sffamily\color{Base}%
 {\bfseries\Huge\color{Base}
@@ -59,7 +60,7 @@ Standardisierte Patientenversorgung}\bigskip
 \color{BaseMiddle}Arbeits- und Ausbildungsstandards für den \color{DefaultRed}Sanitätsdienst} | {\AASS} \opt{VAR-VAR2}{| {\color{AsboeRed}ASBÖ}}
 \hfill\textsf{\VarDocVersion}
 
-\bigskip
+%\bigskip
 
 
 
@@ -81,7 +82,7 @@ Standardisierte Patientenversorgung}\bigskip
 
 %\bigskip
 
-\vspace{-1.5cm}~
+\vspace{-2cm}~
 
 
 
@@ -142,20 +143,20 @@ Rückenmarksverletzung
 
 
 }%6
-{H}%7
+
 
 %\Layout{57}{}{}{}{%
 %{\sffamily}
 %}{}{}
-
-\vfill
+\vspace{-1cm}
+%\vfill
 \noindent{\sffamily\small{\textcopyright} \today\ \ARGEAASS \hfill \url{http://www.aass.at}}
 \end{minipage}
 \clearpage
 % 
 % \vspace{-\baselineskip}~
-~
-\vfill
+%~
+%\vfill
 
 
 
@@ -191,6 +192,7 @@ colback=MarginBackground,
 {%\vspace{-2em}%
 \footnotesize
 % \begin{tabulary}{\linewidth}[H]{cp{8em}p{8.5cm}}
+\vspace{-0.5mm}
 \begin{tabularx}{\linewidth}[H]{p{2cm}XX}
 % \toprule\addlinespace
 &
@@ -262,7 +264,7 @@ colback=MarginBackground,
 \\\addlinespace\midrule\addlinespace
 \noindent\TabHeading{\ABCDEPlain{4}}
 
-\TabHeading{Hauptbeschwerde}
+\TabHeading{Haupt\-beschwerde}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
@@ -274,7 +276,7 @@ colback=MarginBackground,
 \noindent\color{DefaultA}\begin{minipage}[t]{\linewidth}
 \end{minipage}
 \\\addlinespace\toprule\addlinespace
-\noindent\TabHeading{\ABCDEPlain{A}}\vspace{\baselineskip}
+\noindent\TabHeading{\ABCDEPlain{A}}
 
 \TabHeading{Atemweg \newline Airway}
 &
@@ -386,8 +388,7 @@ colback=MarginBackground,
 
 \TabHeading{Erweiterte\newline Untersuchung}
 
-{\tiny (Wenn Einschätzung der vitalen
-Bedrohung oder Hauptbeschwerde unklar ist.)}
+{\tiny (Wenn Einschätzung oder Hauptbeschwerde unklar)}
 &
 \begin{minipage}[t]{\linewidth}
 \begin{itemize}
@@ -452,8 +453,7 @@ Transportes erfolgen. }
 
 
 
-\vfill
-\restoregeometry\pagestyle{fancy}
+
 
 % \pagestyle{scrheadings}
 
@@ -648,7 +648,8 @@ EKG, Kapnometrie, \ldots
 {}%7 Float
 
 
-
+\vfill
+\restoregeometry\pagestyle{fancy}
 
 \clearpage
 
@@ -861,7 +862,7 @@ Wenn notwendig, muss der Leitstelle eine erste
 
 
 
-
+\clearpage % TODO temporary clearpage
 
 \Text{Typische Maßnahmen}
 {%
@@ -1189,7 +1190,7 @@ Gefahren:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \clearpage
+\clearpage
 \subsection{{\FontKeyboardFamily{4}} \HeadingKeyword{Hauptbeschwerde} (Main
 Complaint)} 
 
@@ -1240,7 +1241,7 @@ Eventuell ist auch die Umgebung (Angehörige, Dritte) einzubeziehen
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\clearpage
+%\clearpage
 \subsection{{\FontKeyboardFamily{A}} \HeadingKeyword{Atemweg} (Airway)}
 
 \label{topic:atemweg}
@@ -2458,10 +2459,12 @@ welche auf eine vitale Bedrohung hinweisen.
 
 
 \subsection{\HeadingKeyword{Sofortmaßnahmen} müssen bei Bedarf sofort ergriffen werden}
-\label{topic:patientenmanagement-erstmassnahmen}
-\label{topic:patientenmanagement-sofortmassnahmen}
 
-
+\Text
+{{\TxBeschreibung}}%1 Überschrift
+{%
+\label{topic:patientenmanagement-erstmassnahmen}%
+\label{topic:patientenmanagement-sofortmassnahmen}%
 Sofortmaßnahmen müssen bei Bedarf sofort ergriffen
 werden und unterbrechen evtl. den Einschätzungsblock. Sie
 können jedoch auch von einer zweiten Person parallel
@@ -2476,6 +2479,8 @@ sind z.\,B.
   \item die \EE{\TxMassVit} oder auch die
   \item Vorgezogene Transportentscheidung bei absolut zeitkritischen Patienten.
 \end{itemize}
+}%2 Text
+
 
 \clearpage % TEMP
 % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
@@ -2562,9 +2567,11 @@ und welche warten können.
 
 \subsection{Die \HeadingKeyword{Strategieentscheidung} entscheidet über das weitere Vorgehen}
 
-\label{topic:pam-strategie}
-\label{topic:strategieentscheidung}
-
+\Text
+{{\TxBeschreibung}}%1 Überschrift
+{%
+\label{topic:pam-strategie}%
+\label{topic:strategieentscheidung}%
 Während und nach dem Einschätzungsblock (und den Sofortmaßnahmen) müssen
 die Prioritäten des Patienten gesetzt und der weitere
 Plan erstellt werden. Daraus ergeben sich die weiteren
@@ -2583,6 +2590,8 @@ Ablauf ist situations- und patientenabhängig.
   und Fragen sind wichtig?}
   \item \Speech{Was ist wichtig, was kann warten?}
 \end{itemize}
+}%2 Text
+
 
 
 \TextSlide
@@ -2661,7 +2670,9 @@ In: Douglas Adams: The
 Hitchhiker's Guide to the Galaxy]
 {Oh no, not again.}
 
-\noindent
+\Text
+{{\TxBeschreibung}}%1 Überschrift
+{%
 Der Einschätzungsblock inkl. der Strategieentscheidung muss
 \EE{regelmäßig während der Betreuung} bzw.
 während des Transports -- in
@@ -2679,9 +2690,14 @@ den kritischen Bewusstlosen, als auch für den
 \enquote*{munter vor sich hinplaudernden} KTW-Patienten
 gelten soll.
 } % Commentary
+}%2 Text
+
 
 \section{\HeadingKeyword{Transportentscheidung}}
 
+\Text
+{{\TxBeschreibung}}%1 Überschrift
+{%
 Nach dem Einschätzungsblock 
 und der Strategieentscheidung 
 erfolgt die Entscheidung über
@@ -2712,9 +2728,14 @@ Die Transportentscheidung besteht im Wesentlichen aus der
   \item Wahl des \EE{Transportzeitpunktes} und der
   \item \EE{Zielentscheidung}.
 \end{enumerate}
+}%2 Text
+
 
 \subsection{Die \HeadingKeyword{Zielentscheidung} beeinflusst die weitere Behandlung wesentlich}
 
+\Text
+{{\TxBeschreibung}}%1 Überschrift
+{%
 \parpic[r]{\includegraphics[width=0.5\linewidth]{./images/gabriel-sebastian-aass/Einfahrt_Leistsystem_IMG_1907_2_00800.jpg}}
 \noindent Je nach Art des Patientenkontakts
 (Rettungseinsatz, Krankentransport, Ambulanzdienst, etc.) hat die
@@ -2724,6 +2745,8 @@ Zielentscheidung eine unterschiedliche Bedeutung.
 Weiters hat der \EE{Zustand des Patienten} sowie die
 \EE{Verdachtsdiagnose} Einfluss auf den \EE{Zeitpunkt} des
 Transportes (schnelle Hospitalisierung vs. Stabilisierung vor Ort).
+}%2 Text
+
 
 \Text{Zielentscheidung beim Primäreinsatz}{%
 Beim Primäreinsatz (\enquote{Rettungseinsätze}) ist der
@@ -2909,7 +2932,7 @@ sich die \EE{Bettenzusage telefonisch bestätigen} zu lassen!
 
 %\subsection{Strukturierte Anamneseerhebung mittels 
 %\HeadingKeyword{SAMPLER}-Schema}
-\index{SAMPLER}\index{S-KAMEL}
+
 
 
 
@@ -2925,8 +2948,11 @@ sich die \EE{Bettenzusage telefonisch bestätigen} zu lassen!
 {}%8 Float
 % vormals \Layout{37}
 
-
-\noindent Als \T{Anamnese} bezeichnet man das Erheben der
+\Text
+{{\TxBeschreibung}}%1 Überschrift
+{%
+\index{SAMPLER}\index{S-KAMEL}%
+Als \T{Anamnese} bezeichnet man das Erheben der
 Krankengeschichte. Dies schließt sowohl frühere und
 chronische Erkrankungen, Operationen und Verletzungen, als
 auch auch das Erheben von Details der gegenwärtigen Beschwerden ein. 
@@ -2937,6 +2963,8 @@ Instrument zur Erhebung der Anamnese ist das
 Beteiligten) oder Dokumentationen anderer
 Gesundheitseinrichtungen (\E{Patientenbriefe}, \ldots) sind
 wichtige Hilfsmittel.
+}%2 Text
+
 
 
 
@@ -4024,6 +4052,7 @@ des Patienten zu vergegenwärtigen.
 \end{Literary}
 
 
+\clearpage % TODO temporary clearpage
 
 \section{\HeadingKeyword{Weiterführende Diagnostik} und \HeadingKeyword{Maßnahmen}}
 
@@ -4093,10 +4122,7 @@ durchgeführt werden.
 
 
 
-% \clearpage % TODO Temp clearpage
-
-
-% \clearpage % TODO temporary clearpage
+\clearpage % TODO temporary clearpage
 \section{\HeadingKeyword{Übergabe} an weiterbehandelndes Fachpersonal}  
 
 \TextSlideTeaser

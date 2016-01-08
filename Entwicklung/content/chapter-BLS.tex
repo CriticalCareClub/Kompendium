@@ -317,7 +317,7 @@ Nachdem der Patient auf eine \E{harte Unterlage} (ggf. auf den Boden) gebracht w
 \end{itemize}
 }{}{}{}
 
-\begin{PictureSeries}{}{Bilderserie: \EE{Herzdruckmassage} \SourcePicture{Hirtler}\label{fig:hdm}}
+\begin{PictureSeriesWide}{}{Bilderserie: \EE{Herzdruckmassage} \SourcePicture{Hirtler}\label{fig:hdm}}
 \PictureSeriesRow{3}
 {./images/hirtler-aass/Reanimation-Druckpunkt}
 {Druckpunkt: Mitte des Brustkorbs. Die Finger werden
@@ -329,7 +329,7 @@ ineinander verschränkt, \ldots}
 $\rightarrow$~Druck direkt auf Brustbein}
 {}
 {}
-\end{PictureSeries}
+\end{PictureSeriesWide}
 
 \Text{HDM: sooft wie möglich!}{%
 Die Herzdruckmassage muss so rasch wie möglich beginnen und
@@ -735,17 +735,8 @@ kontrollieren)!}
 }{}{}{}
 
 
-\begin{tcolorbox}[
-title={\flushleft Sicherheits- und weitere Bedienungshinweise},
-fonttitle=\sffamily\bfseries\small,fontupper=\sffamily\small,
-left=2pt,right=2pt,
-boxrule=0.5pt,
-colframe=DefaultRed,
-colback=DefaultRed!5,
-% colupper=BoxStandardText,
-% skin=beamer,
-]
-\color{DefaultRed}
+
+\begin{BoxRed}[title={\flushleft Sicherheits- und weitere Bedienungshinweise}]
 \begin{itemize}
   \item \StepHeading{Fehlströme}: Der Defibrillator darf nicht in einer \EE{nassen
   Umgebung} oder auf \EE{Metallunterlagen} eingesetzt werden,
@@ -791,10 +782,7 @@ Bedienungsanleitung des jeweiligen Geräts nachzulesen!
 \begin{center}
   \Ca{Lebensgefahr!} 
 \end{center}
-
-
-
-\end{tcolorbox}
+\end{BoxRed}
 
 \Text{{\TxQuerverweise}}{%
 \begin{itemize}

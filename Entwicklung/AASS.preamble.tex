@@ -6,14 +6,7 @@
 
 \hbadness=9000
 
-% Sprachunterstützung 
-\usepackage{polyglossia} % statt babel (LuaTeX)
-	\setdefaultlanguage[
-	spelling=new,
-	latesthyphen=true,
-	script=latin,
-	]{german}
-	\setotherlanguages{english}
+
 
 % Mittlerweile verwendet pdfTeX standardmäßig PDF-1.5 mit
 % Objektstreamkomprimierung, mit der pdftk Probleme haben kann.
@@ -48,9 +41,9 @@ footskip = 7mm,
 {geometry}
 
 
-% No bottom titles !!!
-	\usepackage[nobottomtitles]{titlesec}
-	\renewcommand{\bottomtitlespace}{.10\textheight}
+%% No bottom titles !!!
+\usepackage[nobottomtitles]{titlesec}
+\renewcommand{\bottomtitlespace}{.10\textheight}
 
 \usepackage{hyperref}
 

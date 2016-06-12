@@ -72,10 +72,21 @@ footnotes=multiple,
 
 \newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
 \newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
+
+% Sprachunterstützung 
+\usepackage[base]{babel}
+\usepackage{polyglossia} % statt babel (LuaTeX)
+	\setdefaultlanguage[
+	spelling=new,
+	latesthyphen=true,
+	script=latin,
+	]{ngerman}
+\setotherlanguages{english}
+
 \usepackage[
 backend=biber,
 natbib=true,
-language=german,
+language=ngerman,
 % clearlang=true,
 % autolang=langname,
 % defernumbers=true,

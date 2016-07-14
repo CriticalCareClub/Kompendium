@@ -56,6 +56,16 @@ footnotes=multiple,
 									% [demo]  .. keine Bilder
 % \usepackage{blindtext}
 
+% Sprachunterstützung 
+\usepackage[base]{babel}
+\usepackage{polyglossia} % statt babel (LuaTeX)
+	\setdefaultlanguage[
+	spelling=new,
+	latesthyphen=true,
+	script=latin,
+	]{german}
+\setotherlanguages{english}
+
 % Inputs: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % \opt{ORG-ASBOE}{\usepackage{asboe}} % Style-Def. vor Präamble
 \input{./AASS.preamble.tex}		% Präambel
@@ -73,15 +83,7 @@ footnotes=multiple,
 \newcommand{\SlideCompensation}[1]{\vspace{#1\baselineskip}}
 \newcommand{\SlideCompensationNoParskip}[1]{\vspace{#1\baselineskip}}
 
-% Sprachunterstützung 
-\usepackage[base]{babel}
-\usepackage{polyglossia} % statt babel (LuaTeX)
-	\setdefaultlanguage[
-	spelling=new,
-	latesthyphen=true,
-	script=latin,
-	]{ngerman}
-\setotherlanguages{english}
+
 
 \usepackage[
 backend=biber,

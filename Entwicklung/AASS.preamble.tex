@@ -1,6 +1,5 @@
 
 \usepackage{microtype}
-% \usepackage{fixltx2e}
 % \usepackage{ellipsis}
 % \setcounter{errorcontextlines}{10}
 
@@ -42,8 +41,8 @@ footskip = 7mm,
 
 
 %% No bottom titles !!!
-\usepackage[nobottomtitles]{titlesec}
-\renewcommand{\bottomtitlespace}{.10\textheight}
+%\usepackage[nobottomtitles]{titlesec}
+%\renewcommand{\bottomtitlespace}{.10\textheight}
 
 \usepackage{hyperref}
 
@@ -220,20 +219,21 @@ footskip = 7mm,
 % 
 % }
 
-\opt{OPTIMIZATION-PRINT}{%
-\settocfeature[toc][-1]{entryhook}{\FontSansNarrowFamily\normalsize\bfseries\color{BaseContrast}}
-\settocfeature[toc][0]{entryhook}{\FontSansNarrowFamily\small\bfseries\color{Base}}
-\settocfeature[toc][1]{entryhook}{\FontSansNarrowFamily\scriptsize}
-\settocfeature[toc][2]{entryhook}{\FontSansNarrowFamily\scriptsize}
-\settocfeature[toc][3]{entryhook}{\FontSansNarrowFamily\scriptsize}
-}
-\opt{OPTIMIZATION-ONLINE}{%
-\settocfeature[toc][-1]{entryhook}{\sffamily\LARGE\bfseries\color{BaseContrast}}
-\settocfeature[toc][0]{entryhook}{\sffamily\large\bfseries\color{Base}}
-\settocfeature[toc][1]{entryhook}{\normalsize}
-\settocfeature[toc][2]{entryhook}{\normalsize}
-\settocfeature[toc][3]{entryhook}{\normalsize}
-}
+%\opt{OPTIMIZATION-PRINT}{%
+%\settocfeature[toc][-1]{entryhook}{\FontSansNarrowFamily\normalsize\bfseries\color{BaseContrast}}
+%\settocfeature[toc][0]{entryhook}{\FontSansNarrowFamily\small\bfseries\color{Base}}
+%\settocfeature[toc][1]{entryhook}{\FontSansNarrowFamily\scriptsize}
+%\settocfeature[toc][2]{entryhook}{\FontSansNarrowFamily\scriptsize{\SymbolLabelItemI} }
+%\settocfeature[toc][3]{entryhook}{\FontSansNarrowFamily\scriptsize{\SymbolLabelItemI}{\SymbolLabelItemI} }
+%\settocfeature[toc][4]{entryhook}{\FontSansNarrowFamily\scriptsize{\SymbolLabelItemI}{\SymbolLabelItemI}{\SymbolLabelItemI} }
+%}
+%\opt{OPTIMIZATION-ONLINE}{%
+%\settocfeature[toc][-1]{entryhook}{\sffamily\LARGE\bfseries\color{BaseContrast}}
+%\settocfeature[toc][0]{entryhook}{\sffamily\large\bfseries\color{Base}}
+%\settocfeature[toc][1]{entryhook}{\normalsize}
+%\settocfeature[toc][2]{entryhook}{\normalsize}
+%\settocfeature[toc][3]{entryhook}{\normalsize}
+%}
 
 \DeclareRobustCommand{\ProcedureStepMargin}[1]{\mbox{}\marginline{\noindent\MarginparModification\TableBaseModification\small#1}}
 

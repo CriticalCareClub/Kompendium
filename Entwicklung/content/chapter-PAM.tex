@@ -78,11 +78,11 @@ Standardisierte Patientenversorgung}\bigskip
 {}%7 Float
 
 % \vspace{2\baselineskip}
-%\vfill
+\vfill
 
 %\bigskip
 
-\vspace{-2cm}~
+%\vspace{-2cm}~
 
 
 
@@ -148,15 +148,15 @@ Rückenmarksverletzung
 %\Layout{57}{}{}{}{%
 %{\sffamily}
 %}{}{}
-\vspace{-1cm}
-%\vfill
+%\vspace{-1cm}
+\vfill
 \noindent{\sffamily\small{\textcopyright} \today\ \ARGEAASS \hfill \url{http://www.aass.at}}
 \end{minipage}
 \clearpage
 % 
 % \vspace{-\baselineskip}~
 %~
-%\vfill
+\vfill
 
 
 
@@ -164,16 +164,15 @@ Rückenmarksverletzung
 
 
 
-\begin{tcolorbox}[
-title={Standardmaßnahme YY12100B: Einschätzungsblock
-% \captionof{massnahmen}[#1: \E{#2}]{\color{Base}\E{#1}: #2 #3\hrulefill{\fontfamily{lmr}\selectfont\textrecipe}}
-},
+\begin{BoxA}[%
+title={Standardmaßnahme YY12100B: Einschätzungsblock},
 fonttitle=\sffamily\bfseries\small,fontupper=\sffamily\small,
-left=2pt,right=2pt,
-colframe=ProceduresBoxBorder,
+%left=2pt,right=2pt,
+colframe=Base,
 colback=MarginBackground,
-% skin=beamer,
+%% skin=beamer,
 ]
+\sffamily
 \renewcommand{\labelitemi}{\textcolor{LabelItemBoxProcedures}{\SymbolLabelItemI}}%
 \renewcommand{\labelitemii}{\textcolor{LabelItemBoxProcedures}{\small\SymbolLabelItemII}}%
 \flushleft{}\CorrectionListsBox
@@ -446,11 +445,11 @@ Transportes erfolgen. }
 }
 \end{minipage}
 \end{minipage}%\vspace{-\baselineskip}
-\end{tcolorbox}
+\end{BoxA}
 
 
 
-
+\vfill
 
 
 
@@ -2513,6 +2512,7 @@ sind z.\,B.
 % Standardmaßnahmen bei vital bedrohten Patienten
 \ProcedurePrintDefault{YY13100B}
 
+\clearpage%TODO TEMP
 
 % M %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% M %
 % Reanimationsbereitschaft

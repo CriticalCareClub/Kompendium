@@ -1,0 +1,27 @@
+\begin{savenotes}\sffamily\scriptsize\begin{ParWide}\sphinxattablestart
+<% if table.align -%>
+  <%- if table.align == 'center' -%>
+  \centering
+  <%- elif table.align == 'left' -%>
+  \raggedright
+  <%- else -%>
+  \raggedleft
+  <%- endif %>
+<%- else -%>
+  \centering
+<%- endif %>
+<% if table.caption -%>
+\sphinxcapstartof{table}
+\sphinxcaption{<%= ''.join(table.caption) %>}<%= labels %>
+\sphinxaftercaption
+<% endif -%>
+\renewcommand{\hline}{\addlinespace}
+\begin{tabulary}{\linewidth}[t]<%= table.get_colspec() -%>
+\toprule\addlinespace
+<%= ''.join(table.header) %>
+\midrule\addlinespace
+<%=- ''.join(table.body) %>
+\bottomrule
+\end{tabulary}
+\par
+\sphinxattableend\end{ParWide}\end{savenotes}

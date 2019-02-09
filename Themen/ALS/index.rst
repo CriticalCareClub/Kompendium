@@ -526,7 +526,7 @@ Schockabgabe
     **Lebensgefahr!**
 
 
-.. figure:: /Images/PallingerChristophAass/Corpuls_32863-00943pt.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-00943pt.jpg
 
 	    Ein Multifunktionsgerät mit integriertem Defibrillator
             (Corpuls:sup:`3`)
@@ -656,7 +656,7 @@ kommen.\ [324]_
        Intubation.
 
 
-.. figure:: /Images/GabrielSebastianAass/Monitor-Beatmungseinstellungen-Live-00943pt-4.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00943pt-4.*
 
             CO₂-Kurve: Die Kapnometrie ist wichtig, um die korrekte
             Lage des Tubus in der Luftröhre zu bestätigen.
@@ -666,7 +666,7 @@ Supraglottische Atemwegshilfsmittel
 -----------------------------------
 
 
-.. figure:: /Images/PallingerChristophAass/Laringstubus-32884-00441pt.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Laringstubus-32884-00441pt.jpg
     :align: right
     :width: 40%
             
@@ -703,19 +703,19 @@ Der Larynxtubus ist unter :ref:`Topic-Larynxtubus` beschrieben.
 
 .. subfigstart::
 
-.. figure:: /Images/HirtlerLenaAass/LageLarynxTubus.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/LageLarynxTubus.pdf
             :width: 99%
 
 	    Im Vergleich: Lage eines Larynx-Tubus
             [Lena Hirtler, MfG]
 
-.. figure:: /Images/HirtlerLenaAass/LageTubus-color.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.pdf
             :width: 99%
 
 	    … und eines endotrachealen Tubus.
             [Lena Hirtler, MfG]
 
-.. figure:: /Images/HirtlerLenaAass/PositionGuedel-color.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.pdf
             :width: 99%
 
 	    Position des Guedel-Tubus im Querschnitt
@@ -968,7 +968,7 @@ muss dies – wenn möglich – versucht werden.
 
 .. _fig-cc-teddy-base:
 
-.. figure:: /Images/GabrielSebastianAass/EKG-Reanimation-VtBewegungsartefakt-00441pt.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/EKG-Reanimation-VtBewegungsartefakt-00441pt.*
     :alt: Base Mesh + 128x128 Texture (334 KB)
     :width: 99%
     
@@ -978,7 +978,7 @@ muss dies – wenn möglich – versucht werden.
 
 .. _fig-cc-teddy-25:
 
-.. figure:: /Images/GabrielSebastianAass/Medikamente-LAdrenalin-Sammlung-Live-00441pt.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/Medikamente-LAdrenalin-Sammlung-Live-00441pt.*
     :alt: Base Mesh + 25% Stream + 256x256 Texture (568 KB)
     :width: 99%
     

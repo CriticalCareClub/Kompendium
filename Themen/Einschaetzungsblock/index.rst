@@ -237,7 +237,7 @@ auf eine Wirbelsäulenverletzung erkannt werden.
 	    Schädel-Hirn-Trauma: manuelle HWS-Stabilisierung
 
 
-.. figure:: /Images/GabrielSebastianAass/UE2011FORTUNA-00651-0154pt-0300dpi.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.jpg
             :width: 99.99%
 
 	    Zyanotische Lippen können schon frühzeitig auffallen.
@@ -743,12 +743,12 @@ Die Atmung ist somit insuffizient.
 
             Annäherung an den Patienten [Michael Motal, MfG]
  
-.. figure:: /Images/HirtlerLenaAass/Thoraxbewegungen-Rippe.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.pdf
             :width: 99.99%
 
 	    Die Rippen folgen der Atembewegung. [:term:`HiLe`, :term:`MfG`]
 	    
-.. figure:: /Images/GabrielSebastianAass/UE2011FORTUNA-00651-0154pt-0300dpi.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.jpg
             :width: 99.99%
                     
 	    Zyanotische Lippen [:term:`GaSe`, :term:`MfG`]

@@ -123,15 +123,15 @@ Erweiterte Techniken zur einfachen Atemwegssicherung
 
 
 
-.. figure:: /Images/HirtlerLenaAass/PositionGuedel-color.*
+.. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.*
 
             Position des Guedel-Tubus im Querschnitt
 
-.. figure:: /Images/HirtlerLenaAass/LageLarynxTubus.*
+.. figure:: /Bilder/HirtlerLena-Ccc/LageLarynxTubus.*
 
             Im Vergleich: Lage eines Larynx-Tubus
 
-.. figure:: /Images/HirtlerLenaAass/LageTubus-color.*
+.. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.*
 
             und eines endotrachealen Tubus.
 
@@ -196,19 +196,19 @@ abgeschraubt und verschlossen werden.
 
 .. rubric:: Bilderserie: Verschiedene Absaugvorrichtungen[fig:absaugvorrichtungen]
             
-.. figure:: /Images/PallingerChristophAass/Accuvac_32820-AASS-0112mm.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0112mm.jpg
 
             Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)
    
-.. figure:: /Images/PallingerChristophAass/Handpumpe_32789-00441pt.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Handpumpe_32789-00441pt.*
 
             Handabsaugpumpeempty
             
-.. figure:: /Images/PallingerChristophAass/Orosauger_33074-00441pt.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Orosauger_33074-00441pt.*
 
             Oro-Sauger für Neugeborene
             
-.. figure:: /Images/PallingerChristophAass/Absaugkatheter_Set_33082-00441pt.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Absaugkatheter_Set_33082-00441pt.*
 
             Absaugkatheter zum Einführen in Mund oder Nase
    
@@ -245,7 +245,7 @@ vorhandene *Warnleuchten* müssen kontrolliert werden. Die vom jeweiligen
 Hersteller vorgegebenen, typenspezifischen Anweisungen müssen beachtet
 werden.
 
-.. figure:: /Images/PallingerChristophAass/Accuvac_32820-AASS-0176mm.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0176mm.jpg
 
             Weinmann AccuVac
 
@@ -307,13 +307,13 @@ Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
 
 
 
-.. figure:: /Images/PallingerChristophAass/Anton_32999_export.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32999_export.jpg
 
              Katheterlänge bei Absaugung des Mundes
 
              [Ch. Pallinger]
 
-.. figure:: /Images/PallingerChristophAass/Anton_32990_export.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32990_export.jpg
 
             Katheterlänge bei Absaugung durch die Nase
 

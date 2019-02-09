@@ -74,7 +74,7 @@ Druckschlauch oder der *Druckminderer* einer *Berieselungseinheit*
 angeschlossen.
 
 
-.. figure:: /Images/PallingerChristophAass/O2_Flasche_32747-crop2-AASS-0176mm.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/O2_Flasche_32747-crop2-AASS-0176mm.jpg
    :alt: Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
 
    Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
@@ -302,7 +302,7 @@ Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.
 
 
 
-.. figure:: /Images/PallingerChristophAass/Druckminderer_32917-00943pt.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Druckminderer_32917-00943pt.jpg
    :alt: Druckminderer mit integrierter Berieselungseinheit an einer
          Sauerstofflasche
    :width: 50%
@@ -336,19 +336,19 @@ Sauerstoffmasken mit Reservoir [133]_.
 
 .. subfigstart::
 
-.. figure:: /Images/PallingerChristophAass/Anton_32988_v2-AASS-0112mm.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32988_v2-AASS-0112mm.jpg
 
             Sauerstoffbrille
 
             [Christoph Pallinger, MfG]
             
-.. figure:: /Images/PallingerChristophAass/Anton_32987_v2-AASS-0112mm.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32987_v2-AASS-0112mm.jpg
 
             Sauerstoffmaske
 
             [Christoph Pallinger, MfG]
             
-.. figure:: /Images/PallingerChristophAass/Anton_32986_v2-AASS-0112mm.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32986_v2-AASS-0112mm.jpg
 
             Sauerstoffmaske mit Reservoir
 

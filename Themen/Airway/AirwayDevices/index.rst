@@ -44,15 +44,15 @@ Lage des Guedel-Tubus.
 
 .. subfigstart::
 
-.. figure:: /Images/HirtlerLenaAass/GuedelTubus1.*
+.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus1.*
 
             Abmessen,
             
-.. figure:: /Images/HirtlerLenaAass/GuedelTubus2.*
+.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus2.*
 
             zuerst wird der Guedel-Tubus “verkehrt” herum eingeführt
             
-.. figure:: /Images/HirtlerLenaAass/GuedelTubus3.*
+.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus3.*
 
             und anschließend mittels Drehbewegung endgültig positioniert.
    
@@ -232,18 +232,18 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
 
 .. subfigstart::
 
-.. figure:: /Images/PallingerChristophAass/Larynxtubus_32890_textwidth.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32890_textwidth.*
             :width: 99.99%
             
             Larynxtubus mit Blockerspritze
    
-.. figure:: /Images/PallingerChristophAass/Larynxtubus_32885_textwidth.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32885_textwidth.*
             :width: 99.99%
                     
             Ein Larynxtubus der ersten Generation mit geblocktem
             Cuff. [Christoph Pallinger, MfG]
 
-.. figure:: /Images/PallingerChristophAass/Larynxtuben_Set_33025_textwidth.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtuben_Set_33025_textwidth.jpg
             :width: 99.99%
                     
 	    Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung. [Christoph Pallinger, MfG]
@@ -490,7 +490,7 @@ Material
       Bei Kaltlichtsystemen gibt es ausserdem unterschiedliche
       Steckverbindungen!
 
-      .. figure:: /Images/PallingerChristophAass/Testlunge_32902-AASS-0112mm.jpg
+      .. figure:: /Bilder/PallingerChristoph-Ccc/Testlunge_32902-AASS-0112mm.jpg
 
 #. (Endotracheal-)Tubus; verschiedene Größen
 
@@ -509,7 +509,7 @@ Material
 #. Fixationsmaterial (breite Heftpflaster, Mullbinde)
 
 
-.. figure:: /Images/PallingerChristophAass/Intubation_32939.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Intubation_32939.jpg
 
     Zubehör für die endotracheale IntubationAbsaugeinheit mit
     Absaugkatheter, Magill-Zange, Silikonspray, Tubus, Führungsdraht,
@@ -758,7 +758,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
 .. _Figure-BilderserieIntubation-12:
 
-.. figure:: /Images/GabrielSebastianAass/Monitor-Beatmungseinstellungen-Live-00441pt-4.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00441pt-4.*
      :width: 99.99%
 
      Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in

@@ -17,7 +17,7 @@ Notarzttraining
 
 .. only:: html
 
-	.. figure:: /Images/PallingerChristophAass/Corpuls_32863-00943pt.jpg
+	.. figure:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-00943pt.jpg
 
 		[Christoph Pallinger, MfG]
 

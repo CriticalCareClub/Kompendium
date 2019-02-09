@@ -4117,19 +4117,19 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Images/bergung_bagger_00800.jpg
 	.. figure:: /Images/bergung_kran_00800.jpg
 	.. figure:: /Images/khd/gef-wind-rauch2
-	.. figure:: /Images/GabrielSebastianAass/UE2011FORTUNA-00518-0154pt-0300dpi
-	.. figure:: /Images/GabrielSebastianAass/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi
+	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00518-0154pt-0300dpi
+	.. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi
 	.. figure:: /Images/motal-aass/00800/neuro6
-	.. figure:: /Images/GabrielSebastianAass/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi
+	.. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi
 	.. figure:: /Images/motal-aass/intubation/dsc_4835-AASS-0030mm
 	.. figure:: /Images/teaser/rtw_ma70_asb921-00441pt
 	.. figure:: /Images/teaser/bh_ith_00800.jpg
-	.. figure:: /Images/GabrielSebastianAass/DIF2010-000816-0154pt-0300dpi
-	.. figure:: /Images/GabrielSebastianAass/UE2011FORTUNA-00942-0154pt-0300dpi
-	.. figure:: /Images/GabrielSebastianAass/UE2011FORTUNA-00568-0154pt-0300dpi
-	.. figure:: /Images/GabrielSebastianAass/UEKAISERMUEHLENTUNNEL2011-000253-0154pt-0300dpi
+	.. figure:: /Bilder/GabrielSebastian-Ccc/DIF2010-000816-0154pt-0300dpi
+	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00942-0154pt-0300dpi
+	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00568-0154pt-0300dpi
+	.. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000253-0154pt-0300dpi
 	.. figure:: /Images/TAE/tae-okt26-bundesheer1.jpg
-	.. figure:: /Images/GabrielSebastianAass/IMG_1853_1.jpg
+	.. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1853_1.jpg
 	    
 
 
@@ -4167,7 +4167,7 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 
 
 ..
-	.. figure:: /Images/HirtlerLenaAass/Parasymp-Symp-Cartoon.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.pdf
 	.. figure:: /Images/JUS/RisHeader.jpg
 
 
@@ -4216,10 +4216,10 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 
 	
 
-	.. figure:: /Images/PallingerChristophAass/Beatmungsmaske_32906_v2-AASS-0112mm.jpg
-	.. figure:: /Images/PallingerChristophAass/Mundstuecke_32723-AASS-0112mm.jpg
-	.. figure:: /Images/HirtlerLenaAass/CGriff.*
-	.. figure:: /Images/PallingerChristophAass/Peep_32909-AASS-0112mm.jpg
+	.. figure:: /Bilder/PallingerChristoph-Ccc/Beatmungsmaske_32906_v2-AASS-0112mm.jpg
+	.. figure:: /Bilder/PallingerChristoph-Ccc/Mundstuecke_32723-AASS-0112mm.jpg
+	.. figure:: /Bilder/HirtlerLena-Ccc/CGriff.*
+	.. figure:: /Bilder/PallingerChristoph-Ccc/Peep_32909-AASS-0112mm.jpg
 
 
 	    
@@ -4253,41 +4253,41 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Images/khd/gef-wind-rauch.jpg
 	.. figure:: /Images/khd/warntafel-un-60-1710.*
 	.. figure:: /Images/teaser/imgp0722_00500.jpg
-	.. figure:: /Images/GabrielSebastianAass/UE2011FORTUNA-00651-0154pt-0300dpi.jpg
-	.. figure:: /Images/HirtlerLenaAass/Thoraxbewegungen-Rippe.pdf
-	.. figure:: /Images/GabrielSebastianAass/UE2011FORTUNA-00651-0154pt-0300dpi.jpg
+	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.jpg
+	.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.pdf
+	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.jpg
 	.. figure:: /Images/asthma-paramedic.jpg
 	.. figure:: /Images/trauma/pupillendifferenz.jpg
 	.. figure:: /Images/motal-aass/00800/neuro2.jpg
 	.. figure:: /Images/motal-aass/00800/neuro6.jpg
 	.. figure:: /Images/teaser/minen_hinweis2.jpg
 	.. figure:: /Images/xkcd/desert_island.*
-	.. figure:: /Images/GabrielSebastianAass/Dokumentation-Patientenausweise-Gestellt-00943pt.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/Dokumentation-Patientenausweise-Gestellt-00943pt.*
 	.. figure:: /Images/shared/aufnahmearzt-ihres-vertrauens-edited2-0500.jpg
 
 ..
-	.. figure:: /Images/HirtlerLenaAass/Zelle-edited.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Zelle-edited.pdf
 	.. figure:: /Images/anatomie/Human_skeleton_front-edited.pdf
-	.. figure:: /Images/HirtlerLenaAass/Gelenk-edited.pdf
-	.. figure:: /Images/HirtlerLenaAass/Gelenkarten.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Gelenk-edited.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Gelenkarten.pdf
 	.. figure:: /Images/anatomie/Gray361.png
 
 ..
 	.. figure:: /Images/anatomie/fontanelle-dt.jpg
 	.. figure:: /Images/anatomie/cavernous_sinus.png
-	.. figure:: /Images/HirtlerLenaAass/Wirbel-allgemein.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Wirbel-allgemein.pdf
 	.. figure:: /Images/anatomie/Thorax.pdf
 	.. figure:: /Images/anatomie/Human_arm_bones_diagram_de-edited.pdf
 	.. figure:: /Images/anatomie/Human_skeleton_lower-extr-edited.pdf
 	.. figure:: /Images/anatomie/Respiratory_system_complete_de-edited.pdf
-	.. figure:: /Images/HirtlerLenaAass/Pleura.pdf
-	.. figure:: /Images/HirtlerLenaAass/Thorax-Diaphragma.pdf
-	.. figure:: /Images/HirtlerLenaAass/Thoraxbewegung-frontal.pdf
-	.. figure:: /Images/HirtlerLenaAass/Thoraxbewegungen-Rippe.pdf
-	.. figure:: /Images/HirtlerLenaAass/Kreislauf-Schema.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Pleura.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Thorax-Diaphragma.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegung-frontal.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Kreislauf-Schema.pdf
 	.. figure:: /Images/anatomie/Bleeding_finger.jpg
-	.. figure:: /Images/HirtlerLenaAass/Herzvorderflaeche.pdf
-	.. figure:: /Images/HirtlerLenaAass/Herz-Schema_edited.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.pdf
 
 ..
 	.. figure:: /Images/WikipediaCcBy/Brain_human_sagittal_section_beschriftet.pdf
@@ -4295,16 +4295,16 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 
 
 ..
-	.. figure:: /Images/HirtlerLenaAass/Ohr.pdf
-	.. figure:: /Images/HirtlerLenaAass/Mittelohr.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Ohr.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Mittelohr.pdf
 
 ..
 	.. figure:: /Images/anatomie/Digestive_system_diagram_de-edited.pdf
-	.. figure:: /Images/HirtlerLenaAass/needs-work/Mundhoehle.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Mundhoehle.pdf
 	.. figure:: /Images/WikipediaPd/stomach.pdf
 	.. figure:: /Images/WikipediaPd/Liver_and_pangreas_-_transparent.png
-	.. figure:: /Images/HirtlerLenaAass/Gallenblase.pdf
-	.. figure:: /Images/HirtlerLenaAass/Pankreas-1.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Gallenblase.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Pankreas-1.pdf
 
 
 
@@ -4312,19 +4312,19 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 
 
 ..
-	.. figure:: /Images/HirtlerLenaAass/Niere.pdf
-	.. figure:: /Images/HirtlerLenaAass/Genitale-m.pdf
-	.. figure:: /Images/HirtlerLenaAass/Genitale-w.pdf
-	.. figure:: /Images/HirtlerLenaAass/Zyklus.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Niere.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Genitale-m.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Genitale-w.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Zyklus.pdf
 	.. figure:: /Images/WikipediaPd/Nabelschnur.png
 	.. figure:: /Images/WikipediaPd/Semipermeable_membrane.png
 	.. figure:: /Images/WikipediaPd/Osmotische_druk.png
-	.. figure:: /Images/HirtlerLenaAass/Fremdkoerper.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Fremdkoerper.pdf
 	.. figure:: /Images/WikipediaPd/Abdominal_thrusts3.jpg
 	.. figure:: /Images/asthma-paramedic.jpg
-	.. figure:: /Images/HirtlerLenaAass/Alveolen-Bronchus-COPD-edited2.png
-	.. figure:: /Images/HirtlerLenaAass/COPD-Stufen_edited.pdf
-	.. figure:: /Images/HirtlerLenaAass/Thrombus-Embolie.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Alveolen-Bronchus-COPD-edited2.png
+	.. figure:: /Bilder/HirtlerLena-Ccc/COPD-Stufen_edited.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.pdf
 	.. figure:: ./icons/sm-basic.png
 	   :width: 1.00000cm
 	.. figure:: ./icons/sm-pale.png
@@ -4332,7 +4332,7 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: ./icons/sm-pale-frown.png
 	   :width: 1.00000cm
 	.. figure:: /Images/teaser/imgp0481.jpg
-	.. figure:: /Images/HirtlerLenaAass/Herzvorderflaeche.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.pdf
 
 ..
 	.. figure:: /Images/WikipediaCcBySa/Heart_normal_short_axis_section-00640.*
@@ -4342,9 +4342,9 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Images/WikipediaPd/Lead_II_rhythm_generated_sinus_bradycardia.*
 	.. figure:: /Images/economyclass.jpg
 	.. figure:: /Images/lovenox1.jpg
-	.. figure:: /Images/HirtlerLenaAass/Thrombus-Embolie
+	.. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie
 	.. figure:: /Images/trauma/pupillendifferenz.jpg
-	.. figure:: /Images/GabrielSebastianAass/fieberthermometer.jpg
+	.. figure:: /Bilder/GabrielSebastian-Ccc/fieberthermometer.jpg
 	.. figure:: /Images/demaw/Skriptumaegf-img52-thirdwidth.*
 	.. figure:: /Images/demaw/Skriptumaegf-img53-thirdwidth.*
 	.. figure:: /Images/demaw/Skriptumaegf-img59-thirdwidth.*
@@ -4354,20 +4354,20 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Images/gabriel-christine-aass/staph-aureus-mrsa.jpg
 	.. figure:: /Images/gabriel-christine-aass/amputat-us1.jpg
 	.. figure:: /Images/motal-aass/kontamed_4779-00800.jpg
-	.. figure:: /Images/GabrielSebastianAass/fieberthermometer.jpg
+	.. figure:: /Bilder/GabrielSebastian-Ccc/fieberthermometer.jpg
 	.. figure:: /Images/hygiene/Niaid-hiv-virion-mod.jpg
 	.. figure:: /Images/hygiene/6373_lores_tetanus.jpg
 	.. figure:: /Images/WikipediaPd/Newborn_umbilical_suction-AASS-0030mm.jpg
 	.. figure:: /Images/WikipediaPd/Navelklem.jpg
 	.. figure:: /Images/WikipediaPd/Umbilicalstump.jpg
-	.. figure:: /Images/PallingerChristophAass/Partus_Set_aufgelegt_33048-01445pt.*
+	.. figure:: /Bilder/PallingerChristoph-Ccc/Partus_Set_aufgelegt_33048-01445pt.*
 	.. figure:: /Images/WikipediaPd/van_Gogh_Starry_Night_Over_the_Rhone.jpg
 	.. figure:: /Images/teaser/huette_winter_mariazell.jpg
 	.. figure:: /Images/TAE/dif-w2-zelt-1.jpg
 	.. figure:: /Images/teaser/imgp0482_00800.jpg
-	.. figure:: /Images/GabrielSebastianAass/Atemschutz_IMG_2043_00800.jpg
+	.. figure:: /Bilder/GabrielSebastian-Ccc/Atemschutz_IMG_2043_00800.jpg
 	.. figure:: /Images/2006-01-31-gaswienheute2.png
-	.. figure:: /Images/GabrielSebastianAass/schild-atemschutzmaske-abnehmen.jpg
+	.. figure:: /Bilder/GabrielSebastian-Ccc/schild-atemschutzmaske-abnehmen.jpg
 	.. figure:: /Images/wunde_rqw1.jpg
 	.. figure:: /Images/wunde_rqw2.jpg
 	.. figure:: /Images/pulsader_schnitt.jpg
@@ -4377,7 +4377,7 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Images/trauma/burn-chem01.jpg
 	.. figure:: /Images/trauma/burn-chem02.jpg
 	.. figure:: /Images/trauma/combustio-sa-02-hand.jpg
-	.. figure:: /Images/HirtlerLenaAass/frische-Wunde-desinfizieren.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/frische-Wunde-desinfizieren.pdf
 	.. figure:: /Images/WikipediaPd/Escarre_Stade_4_detail.*
 	.. figure:: /Images/teaser/doa.jpg
 	.. figure:: /Images/trauma/fremdkoerper-stich-fixierung.jpg
@@ -4404,17 +4404,17 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Images/teaser/emergency_physician_vehicle_00800.jpg
 	.. figure:: /Images/teaser/blut-tatort-jacke.jpg
 	.. figure:: /Images/trauma/haematom-fehlpunktion-001.jpg
-	.. figure:: /Images/GabrielSebastianAass/IMG_1896_00800.jpg
+	.. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1896_00800.jpg
 	.. figure:: /Images/motal-aass/medi-kontrolle_4807-00800.jpg
 	.. figure:: /Images/motal-aass/medi-aufziehen_4815-00800.jpg
 	.. figure:: /Images/motal-aass/medi-kontrollieren_4824-00800.jpg
 	.. figure:: /Images/motal-aass/medi-verabreichen_4826_CLOSEUP-00800.jpg
-	.. figure:: /Images/PallingerChristophAass/Infusionsbesteck_33070-00943pt.*
-	.. figure:: /Images/PallingerChristophAass/Infusionsbeutel_33016-00943pt.*
-	.. figure:: /Images/GabrielSebastianAass/Infusion-Closeup-Tropfkammer-Live-00441pt.*
-	.. figure:: /Images/GabrielSebastianAass/Infusion-Closeup-Stellrad-Live-00441pt.*
-	.. figure:: /Images/GabrielSebastianAass/Infusion-Closeup-3WegHahn-Live-00441pt.*
-	.. figure:: /Images/GabrielSebastianAass/Infusion-Closeup-AnschlussVenflon-Live-00441pt.*
+	.. figure:: /Bilder/PallingerChristoph-Ccc/Infusionsbesteck_33070-00943pt.*
+	.. figure:: /Bilder/PallingerChristoph-Ccc/Infusionsbeutel_33016-00943pt.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Tropfkammer-Live-00441pt.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Stellrad-Live-00441pt.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-3WegHahn-Live-00441pt.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-AnschlussVenflon-Live-00441pt.*
 	.. figure:: /Images/demaw/venflon_zerlegt-textwidth.jpg
 	.. figure:: /Images/demaw/Skriptumaegf-img35.*
 	.. figure:: /Images/demaw/Skriptumaegf-img36.*
@@ -4422,15 +4422,15 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	
 	
 
-	.. figure:: /Images/PallingerChristophAass/Corpuls_32863-00943pt.*
+	.. figure:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-00943pt.*
 	.. figure:: /Images/motal-aass/intubation/dsc_4837-AASS-0030mm.*
-	.. figure:: /Images/GabrielSebastianAass/Monitor-Beatmungseinstellungen-Live-00943pt-4.*
-	.. figure:: /Images/PallingerChristophAass/Laringstubus_32884-00441pt.*
-	.. figure:: /Images/HirtlerLenaAass/LageLarynxTubus.pdf
-	.. figure:: /Images/HirtlerLenaAass/LageTubus-color.pdf
-	.. figure:: /Images/HirtlerLenaAass/PositionGuedel-color.pdf
-	.. figure:: /Images/GabrielSebastianAass/EKG-Reanimation-VtBewegungsartefakt-00441pt.*
-	.. figure:: /Images/GabrielSebastianAass/Medikamente-LAdrenalin-Sammlung-Live-00441pt.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00943pt-4.*
+	.. figure:: /Bilder/PallingerChristoph-Ccc/Laringstubus_32884-00441pt.*
+	.. figure:: /Bilder/HirtlerLena-Ccc/LageLarynxTubus.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.pdf
+	.. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.pdf
+	.. figure:: /Bilder/GabrielSebastian-Ccc/EKG-Reanimation-VtBewegungsartefakt-00441pt.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/Medikamente-LAdrenalin-Sammlung-Live-00441pt.*
 	.. figure:: /Images/EmhoferJosefAass/ReanimationAls-2015-3.pdf
 	.. figure:: /Images/WikipediaCcBy/Hk_coronary_bionerd.jpg
 		   

@@ -119,19 +119,19 @@ drei Säulen zusammen:
 
 .. .. rubric:: Die drei Säulen der Basiseanimation 
 
-.. .. figure:: /Images/HirtlerLenaAass/Reanimation-Position-2.*
+.. .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-2.*
 
 ..            Herzdruckmassage
 
 ..            [Lena Hirtler, MfG]
             
-.. .. figure:: /Images/HirtlerLenaAass/Beutelbeatmung1.*
+.. .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
 
 ..             Beatmung
 
 ..            [Lena Hirtler, MfG]
             
-.. .. figure:: /Images/HirtlerLenaAass/Reanimation-Defi-Achtung.*
+.. .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
 
 ..             Defibrillation
 
@@ -222,20 +222,20 @@ max. 120 / min).
 
 .. rubric:: Bilderserie: *Herzdruckmassage* 
 
-.. figure:: /Images/HirtlerLenaAass/Reanimation-Druckpunkt.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Druckpunkt.*
 
             Druckpunkt: Mitte des Brustkorbs. Die Finger werden
             ineinander verschränkt,
 
             [Lena Hirtler, MfG]
             
-.. figure:: /Images/HirtlerLenaAass/Reanimation-Position-1.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-1.*
 
             die Arme durchgestreckt
             
             [Lena Hirtler, MfG]
             
-.. figure:: /Images/HirtlerLenaAass/Reanimation-Position-2.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-2.*
 
             und Oberkörper nach vorne gebeugt:
             → Druck direkt auf Brustbein
@@ -442,7 +442,7 @@ genannt. Es gibt folgende Gerätekategorien:
 	    [WMC:Andersat, CC-BY-SA-3.0]
 
 	    
-.. figure:: /Images/HirtlerLenaAass/Reanimation-Defi-Achtung.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
 	    
 	    Bei der Analyse und Schockabgabe darf niemand den Patienten berühren!
 

@@ -129,7 +129,7 @@ angeschlossen werden.
 -  Hilfsmittel zur kontrollierten und assistierten Beatmung
 
 
-.. figure:: /Images/PallingerChristophAass/Ambubeutel_32741-AASS-0176mm.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Ambubeutel_32741-AASS-0176mm.jpg
    :alt: Selbstfüllender Beatmungsbeutel “Ambu Mark IV” mit Reservoir, O₂-Verbindungsschlauch, Bakterienfilter, Beatmungsmaske und aufgestecktem PEEP-Ventil
 
    Selbstfüllender Beatmungsbeutel “Ambu Mark IV” mit Reservoir,
@@ -185,13 +185,13 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 
 .. rubric:: Bilderserie: Beatmungsmasken 
 
-.. figure:: /Images/HirtlerLenaAass/Beutelbeatmung1.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
 
             Eine *Beatmungs*\ maske.
 
             [Ch. Pallinger]
             
-.. figure:: /Images/HirtlerLenaAass/Beutelbeatmung2.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.*
 
             Beatmungsmasken unterschiedlicher Größen: 0, 2,
             3/4, 5. Die Farben der Masken haben keine besondere
@@ -248,18 +248,18 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
 
 .. subfigstart::
 
-.. figure:: /Images/HirtlerLenaAass/CGriff.*
+.. figure:: /Bilder/HirtlerLena-Ccc/CGriff.*
             :width: 0.99
 
             C-Griff
 
-.. figure:: /Images/HirtlerLenaAass/Beutelbeatmung1.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
             :width: 0.99
 
             und überstreckter Kopf
 
 
-.. figure:: /Images/HirtlerLenaAass/Beutelbeatmung2.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.*
             :width: 0.99
 
             Normalerweise wird bei der Überdruckbeatmung mit einem
@@ -463,7 +463,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 
 SeriesRowWide 2\
 
-.. figure:: /Images/PallingerChristophAass/Medomat_32851-00441pt.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32851-00441pt.*
 
             Beatmungsgerät *Medumat compact* auf einer
             Tragplatte. Zusätzlich angebracht sind eine
@@ -489,7 +489,7 @@ SeriesRowWide 2\
 
             [Sebastian Gabriel, MfG]
 
-.. figure:: /Images/PallingerChristophAass/Medomat_32857-00943pt.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.*
 
             Medumat Transport. Dies ist ein
             Intensiv-Transportbeatmungsgerät, welches eine komplexe
@@ -559,7 +559,7 @@ da die Ausatemluft unkontrolliert über die
 
 
 
-.. figure:: /Images/PallingerChristophAass/Peep_32909-AASS-0112mm.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Peep_32909-AASS-0112mm.jpg
 
             PEEP-Ventil
 

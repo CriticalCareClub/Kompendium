@@ -92,7 +92,7 @@ regionale Trennung, …) Leitstellen sind meistens ortsfest eingerichtet,
 es gibt jedoch auch mobile Leitstellen, welche bei besonderen
 Ereignissen zum Einsatz kommen können.
 
-.. figure:: /Images/GabrielSebastianAass/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.jpg
 
 	    Arbeit in der LeitstelleSebastian Gabriel MfG
 
@@ -535,7 +535,7 @@ Die Besetzung ist uneinheitlich, zwingend erforderlich sind jedoch mind.
 
 
 
-.. figure:: /Images/GabrielSebastianAass/Landeanflug-OE-XEC_IMG_1912_1.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/Landeanflug-OE-XEC_IMG_1912_1.jpg
 
 	    Ein Hubschrauber der Christophorus-Flugrettungsflotte im Landeanflug an das AKH Wien
 	    Sebastian Gabriel

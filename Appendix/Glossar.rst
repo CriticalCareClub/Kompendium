@@ -89,7 +89,7 @@ Glossar
       Verlauf als Kurve graphisch dargestellt.
 
       
-      .. figure:: /Images/GabrielSebastianAass/Monitor-Beatmungseinstellungen-Live-00943pt-4.*
+      .. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00943pt-4.*
 
             Kapnographie, CO₂-Kurve:
             Die Kapnometrie ist wichtig, um die korrekte
@@ -192,7 +192,7 @@ Glossar
       gibt unbeschichtete (*BMS*, *Bare Metal Stent*) und beschichtete
       (*DES*, *Drug Eluting Stent*) Stents.
 
-      .. figure:: /Images/HirtlerLenaAass/Herzvorderflaeche.pdf
+      .. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.pdf
                   
           Das Herz mit seinen Koronargefäßen
           [Hirtler, MfG]

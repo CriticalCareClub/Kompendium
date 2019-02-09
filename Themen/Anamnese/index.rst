@@ -509,7 +509,7 @@ veralten).
 
 
 
-.. figure:: /Images/GabrielSebastianAass/Dokumentation-Patientenausweise-Gestellt-00943pt.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/Dokumentation-Patientenausweise-Gestellt-00943pt.*
 
             Patientenausweise
 

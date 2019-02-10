@@ -1296,13 +1296,6 @@ verlangsamte oder fehlende Reaktion (Fixierung), Entrundung), motorische
 (Lähmungen) oder sensible (Kribbeln, Gefühlsverlust) Ausfälle sowie
 Zuckerstoffwechselstörungen.
 
-.. _Topic-Hirndruckzeichen:
-
-.. index::
-   single: Druck, intrakranieller
-   single: Hirndruckzeichen
-
-
 
 .. subfigstart::
 

@@ -26,6 +26,8 @@ aufgrund möglicher Verletzungen der Schädelbasis nicht über die Nase
 abgesaugt werden!
 Weiters besteht immer die Gefahr des Auslösens eines Laryngospasmus.
 
+.. _Topic-Guedeltubus: 
+
 Guedel-Tubus
 ============
 
@@ -39,10 +41,13 @@ da er die Zunge aus dem Weg räumt,
 bietet jedoch *keinen* Aspirationschutz.
 Erschwerend kann es durch Verletzungen zu Nasenbluten und damit
 wiederum zun einer Gefährung des Atemweges kommen.
-:ref:`Figure-GuedelTubusEinfuehren` zeigt das Einführen und die
+:ref:`Figure-GuedelTubusEinfuehren` ff. zeigt das Einführen und die
 Lage des Guedel-Tubus.
 
+
 .. subfigstart::
+
+.. _Figure-GuedelTubusEinfuehren:
 
 .. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus1.*
 
@@ -58,7 +63,7 @@ Lage des Guedel-Tubus.
    
 .. subfigend::
     :width: 0.3
-    :label: Figure-GuedelTubusEinfuehren
+    :label: sagaegaegbdfghdsfhg
 
     Bilderserie: Einführen des Guedel-Tubus [Lena Hirtler, MfG]
 
@@ -434,6 +439,10 @@ sodass selbst im seltenen Fall,
 dass die Tubusspitze in der Trachea zu liegen kommt, 
 der Patient beatmet werden kann. 
 
+
+
+.. _Topic-EndotrachealeIntubation:
+
 ************************
 Endotracheale Intubation
 ************************
@@ -442,10 +451,7 @@ Herkömmliche laryngoskopische Intubation
 ========================================
 
 
-Beschreibung
-============
-
-[topic-intubation-assistenz]Bei der endotrachealen Intubation wird ein
+Bei der endotrachealen Intubation wird ein
 Beatmungsschlauch (*Tubus*) über den Mund (seltener über die Nase) durch
 den Rachen und den Kehlkopf in die Luftröhre eingeführt. Er ermöglicht
 die Beatmung des Patienten bei gleichzeitigem Freihalten des Atemweges

@@ -232,7 +232,7 @@ Elektrotherapie
 
   -  Defibrillation
 
-  -  Siehe [BLS] (:numref:`Topic-DefibrillationBls`)
+  -  Siehe BLS: :ref:`Topic-DefibrillationBls`
 
 Die Elektrotherapie hat das Ziel, bei Vorliegen einer
 Herzrhythmusstörung einen normalen Sinusrhythmus mittels elektrischer

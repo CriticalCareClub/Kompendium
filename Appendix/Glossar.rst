@@ -65,7 +65,7 @@ Glossar
       sowie andererseits zur Lagekontrolle von Hilfsmitteln zur
       Atemwegssicherung (z.B. *Larynxtubus* 
       (:ref:`Topic-Larynxtubus`), *Endotrachealtubus*
-      (:ref:`Topic-IntubationAssistenz`)).
+      (:ref:`Topic-EndotrachealeIntubation`)).
 
       Am aussagekräftigsten ist der Messwert am Ende der Ausatmung da hier die
       höchste CO₂-Konzentration gemessen wird.

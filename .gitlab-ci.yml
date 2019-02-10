@@ -6,14 +6,13 @@ pages:
   - pip3 install sphinx sphinxcontrib.bibtex sphinx_git
   - apk --no-cache add make
   - make html
-  - mv _build/HEAD/html output
+  - mkdir public
+  - echo "Job Done" > public/index.txt
   artifacts:
     name: "$CI_JOB_NAME-$CI_COMMIT_REF_NAME"
-    untracked: true
-    when: always
     expire_in: 1 week
     paths:
-    - output/
+    - public
   only:
   - master
 

@@ -2,7 +2,7 @@ image: alpine
 
 pages:
   script:
-  - apk --no-cache add py3-pip python-dev
+  - apk --no-cache add git py3-pip python-dev
   - pip3 install sphinx sphinxcontrib.bibtex sphinx_git
   - apk --no-cache add make
   - make html

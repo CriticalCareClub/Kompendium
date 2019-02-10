@@ -132,7 +132,7 @@ Wissenschaft, Kultur und Gesellschaft.
 Quellennachweise
 ****************
 
-.. glossary:: Quellen
+.. glossary:: 
 
     GaSe
       Sebastian Gabriel

@@ -399,7 +399,9 @@ Andere verwendete Lizenzen
 **Die Auflistung dieser Lizenzen bedeutet nicht, dass die AASS als
 Ganzes unter diesen Lizenzen lizensiert sind!**
 
-.. glossary:: Lizenzen
+.. rubric:: Lizenzen
+
+.. glossary:: 
 
     CC
       *Creative Commons*. Sammelbegriff für die Lizenzen der Creative

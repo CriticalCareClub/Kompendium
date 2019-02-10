@@ -7,10 +7,10 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = Notarzttraining
 SOURCEDIR     = .
-# GITBRANCH := $(shell git rev-parse --abbrev-ref HEAD)
+GITBRANCH := $(shell git rev-parse --abbrev-ref HEAD)
 # BUILDDIR      = "$(HOME)"/Export/21-Notarzt-Sphinx-"$(GITBRANCH)"
-# BUILDDIR      = _build/"$(GITBRANCH)"
-BUILDDIR      = _build
+BUILDDIR      = _build/"$(GITBRANCH)"
+# BUILDDIR      = _build
 
 # Put it first so that "make" without argument is like "make help".
 help:

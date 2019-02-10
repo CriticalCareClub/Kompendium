@@ -6,10 +6,10 @@ pages:
   - pip3 install sphinx sphinxcontrib.bibtex sphinx_git
   - apk --no-cache add make
   - make html
-  - mv _build/HEAD/html/ public/
+  - mv _build/HEAD/html/ private/
   artifacts:
     paths:
-    - public
+    - private
   only:
   - master
 

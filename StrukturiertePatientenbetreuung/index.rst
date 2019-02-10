@@ -66,11 +66,11 @@ zusammenarbeiten:
     :maxdepth: 1
     :caption: Inhalt
 
-    /Themen/Kommunikation/index.rst
-    /Themen/Einschaetzungsblock/index
-    /Themen/StrategieentscheidungSPV/index
-    /Themen/Anamnese/index
-    /Themen/Uebergabe/index
+    Kommunikation/index.rst
+    Einschaetzungsblock/index
+    StrategieentscheidungSPV/index
+    Anamnese/index
+    Uebergabe/index
 
 
 

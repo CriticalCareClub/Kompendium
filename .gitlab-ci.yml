@@ -3,13 +3,17 @@ image: alpine
 pages:
   script:
   - apk --no-cache add git py3-pip python-dev
-  - pip3 install sphinx sphinxcontrib.bibtex sphinx_git
+  - pip3 install sphinx sphinxcontrib.bibtex sphinx_git imagemagick
   - apk --no-cache add make
   - make html
-  - mv _build/HEAD/html/ private/
+  - mv _build/HEAD/html output
   artifacts:
+    name: "$CI_JOB_NAME-$CI_COMMIT_REF_NAME"
+    untracked: true
+    when: always
+    expire_in: 1 week
     paths:
-    - private
+    - output/
   only:
   - master
 

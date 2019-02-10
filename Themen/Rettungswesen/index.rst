@@ -396,7 +396,7 @@ Rettungssanitäter* ).
    jedem Fall soll aber eine “Umrüstung” vom RTW hin zum NAW während des
    Einsatzes mit *wenigen Handgriffen* möglich sein.
 
-.. figure:: /Images/teaser/rtw_ma70_asb921-00441pt.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.*
 
 	    RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.)Sebastian GabrielMfG
 
@@ -457,7 +457,7 @@ Das NEF ist mit mindestens 2 Personen besetzt, (Mindestqualifikation: 1
 Notarzt, 1 Notfallsanitäter (im Ausnahmefall auch Rettungssanitäter)).
 
 
-.. figure:: /Images/teaser/nef-passat-kontur.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.jpg
 	    
 	    NEF der Wiener Berufsrettung (altes Modell)
 	    Gabriel MfG

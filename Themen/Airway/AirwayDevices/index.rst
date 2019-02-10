@@ -383,7 +383,7 @@ Durchführung der Intubation mit dem Larynxtubus.
 
 .. _Figure-AlgorithmusLarynxtubusReanimation:
 
-.. figure:: /Images/EmhoferJosefAass/Larynxtubus-2015-1.pdf
+.. figure:: /Bilder/EmhoferJosef-Ccc/Larynxtubus-2015-1.pdf
    :alt: Algorithmus: Larynxtubus im Rahmen der Reanimation
    :width: 99.99%
 
@@ -681,77 +681,77 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
 .. _Figure-BilderserieIntubation-1:
 
-.. figure:: /Images/motal-aass/intubation/dsc-4829-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4829-AASS-0112mm.jpg
     :width: 99.99%
 
     Zusammenbauen des Laryngoskops
 
 .. _Figure-BilderserieIntubation-2:
 
-.. figure:: /Images/motal-aass/intubation/dsc-4831-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4831-AASS-0112mm.jpg
     :width: 99.99%
 
     Einsprühen des Tubus *in der Verpackung*
 
 .. _Figure-BilderserieIntubation-3:
 
-.. figure:: /Images/motal-aass/intubation/dsc-4834-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4834-AASS-0112mm.jpg
     :width: 99.99%
 
     Präoxygenierung
 
 .. _Figure-BilderserieIntubation-4:
 
-.. figure:: /Images/motal-aass/intubation/dsc-4835-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0112mm.jpg
     :width: 99.99%
 
     Zureichen des Laryngoskops (*linke* Hand!)
 
 .. _Figure-BilderserieIntubation-5:
 
-.. figure:: /Images/motal-aass/intubation/dsc-4837-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4837-AASS-0112mm.jpg
     :width: 99.99%
 
     Zureichen des Tubus (*rechte* Hand!)
 
 .. _Figure-BilderserieIntubation-6:
 
-.. figure:: /Images/motal-aass/intubation/dsc-4839-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4839-AASS-0112mm.jpg
     :width: 99.99%
 
     Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus
 
 .. _Figure-BilderserieIntubation-7:
 
-.. figure:: /Images/motal-aass/intubation/dsc-4841-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4841-AASS-0112mm.jpg
     :width: 99.99%
 
     Cuffen nach Entfernung des Führungsdrahtes
 
 .. _Figure-BilderserieIntubation-8:
 
-.. figure:: /Images/motal-aass/intubation/dsc-4843-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4843-AASS-0112mm.jpg
     :width: 99.99%
 
     Stethoskop zureichen
 
 .. _Figure-BilderserieIntubation-9:
 
-.. figure:: /Images/motal-aass/intubation/dsc-4844-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4844-AASS-0112mm.jpg
     :width: 99.99%
 
     Abhören des Patienten
 
 .. _Figure-BilderserieIntubation-10:
 
-.. figure:: /Images/motal-aass/intubation/dsc-4847-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4847-AASS-0112mm.jpg
     :width: 99.99%
 
     Beißkeil (hier: Guedel-Tubus) einführen
 
 .. _Figure-BilderserieIntubation-11:
 
-.. figure:: /Images/motal-aass/intubation/dsc-4849-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4849-AASS-0112mm.jpg
     :width: 99.99%
 
     Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!

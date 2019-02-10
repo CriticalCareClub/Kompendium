@@ -131,17 +131,17 @@ gegeben werden.
 
 .. subfigstart::
 
-.. figure:: /Images/khd/gef-wind-rauch.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch.jpg
             :width: 99%
 
 	    Absperrung (hier deutlich verbesserungswürdig) [Bild: Gabriel]
 	    
-.. figure:: /Images/khd/warntafel-un-60-1710.*
+.. figure:: /Bilder/khd/warntafel-un-60-1710.*
             :width: 99%
 
             Warntafel
 	    
-.. figure:: /Images/teaser/imgp0722_00500.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0722_00500.jpg
             :width: 99%
 
 	    Spezifische Gefahren erkennen
@@ -231,7 +231,7 @@ auf eine Wirbelsäulenverletzung erkannt werden.
 
 .. subfigstart::
 
-.. figure:: /Images/teaser/imgp0722_00500.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0722_00500.jpg
             :width: 99.99%
 
 	    Schädel-Hirn-Trauma: manuelle HWS-Stabilisierung
@@ -738,7 +738,7 @@ Die Atmung ist somit insuffizient.
 
 .. subfigstart::
 
-.. figure:: /Images/motal-aass/00800/helm1.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/00800/helm1.jpg
             :width: 99.99%
 
             Annäherung an den Patienten [Michael Motal, MfG]
@@ -1306,17 +1306,17 @@ Zuckerstoffwechselstörungen.
 
 .. subfigstart::
 
-.. figure:: /Images/trauma/pupillendifferenz.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.jpg
 
 	    Anisokorie (Pupillendifferenz) [Bild: Sebastian Gabriel, MfG]
 
 	    
-.. figure:: /Images/motal-aass/00800/neuro2.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.jpg
 
 	    Kraftprobe an den Armen [Bild: Motal]
 
 	    
-.. figure:: /Images/motal-aass/00800/neuro6.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.jpg
 
 	    BZ-Messung [Bild: Motal]
    
@@ -1479,7 +1479,7 @@ Alarmzeichen (“Red Flags” 🚩 |symbol-RedFlag|) sind Zeichen einer vitalen 
 Alarmzeichen (“Red Flags” 🚩 |symbol-RedFlag|)
 ----------------------------------------------
 
-.. figure:: /Images/teaser/minen_hinweis2.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/minen_hinweis2.jpg
     :align: right
 
 Das rasche Feststellen einer vitalen Bedrohung ist besonders wichtig.

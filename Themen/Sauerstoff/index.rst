@@ -258,7 +258,7 @@ durchgeführt werden.
 Verabreichung von Sauerstoff
 ****************************
 
-.. figure:: /Images/motal-aass/o2_4765-00800.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/o2_4765-00800.jpg
             :width: 50%
             :align: right        
 

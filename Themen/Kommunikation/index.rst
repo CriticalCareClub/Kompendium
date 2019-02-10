@@ -149,7 +149,7 @@ eine Kontroll- bzw. *Rückmeldung* an den Sender gibt, um zu
 kontrollieren, ob und wie er die Botschaft verstanden hat.
 
 
-.. figure:: /Images/WikipediaCcBySa/Sender-Empfaenger-Modell-edited.pdf
+.. figure:: /Bilder/WikipediaCcBySa/Sender-Empfaenger-Modell-edited.pdf
 
 	    Das Sender-Empfänger-Modell
             [Blieberger et al. 1996; User:Wiska Bodo, original
@@ -211,7 +211,7 @@ Missverständnissen führen kann. Als klassisches Beispiel ist die
     | *Selbstoffenbarung*   | Ich habe es eilig.                                   | Er will mich bevormunden.                    |
     +-----------------------+------------------------------------------------------+----------------------------------------------+
 
-.. figure:: /Images/WikipediaCcBySa/SchulzVonThunVierOhrenModell-edited.pdf
+.. figure:: /Bilder/WikipediaCcBySa/SchulzVonThunVierOhrenModell-edited.pdf
 
     Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von
     Thun (Thun 1981)

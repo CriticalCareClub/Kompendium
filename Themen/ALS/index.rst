@@ -26,11 +26,11 @@ ALS: Advanced Life Support
 
 :Dateien:
 
-        :download:`/Images/EmhoferJosefAass/ReanimationAls-2015-3.pdf`
+        :download:`/Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.pdf`
 
         ALS-Algorithmus [Emhofer, nach Soar, Nolan, et al. 2015b]
 
-.. figure:: /Images/EmhoferJosefAass/ReanimationAls-2015-3.pdf
+.. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.pdf
 
         ALS-Algorithmus [Emhofer, nach Soar, Nolan, et al. 2015b]
 
@@ -614,7 +614,7 @@ des Tubus zu überprüfen:
 #. Messung der CO₂-Abatmung mittels :term:`Kapnographie`
 
 
-.. figure:: ../../Images/motal-aass/intubation/dsc-4837-AASS-0030mm.jpg
+.. figure:: ../../Bilder/MotalMichael-Ccc/intubation/dsc-4837-AASS-0030mm.jpg
     :align: right
 
     Endotracheale Intubation
@@ -1078,12 +1078,12 @@ ERC-Guidelines, deutsche Übersetzung:
 
 .. _Fig-Als:
   
-.. figure:: /Images/EmhoferJosefAass/ReanimationAls-2015-3.pdf
+.. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.pdf
 
         ALS Der ALS-Algorithmus [Emhofer, nach
         :cite:`Erc-2015-Section-03`\ ]
 
-:download:`/Images/EmhoferJosefAass/ReanimationAls-2015-3.pdf`
+:download:`/Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.pdf`
 
 ALS Der ALS-Algorithmus [Emhofer, nach :cite:`Erc-2015-Section-03`\ ]
 

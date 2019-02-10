@@ -436,7 +436,7 @@ genannt. Es gibt folgende Gerätekategorien:
 
 .. subfigstart::
 
-.. figure:: /Images/WikipediaCcBySa/Defib_electrode_placement.*
+.. figure:: /Bilder/WikipediaCcBySa/Defib_electrode_placement.*
 	    
 	    Anbringen der Klebeelektroden
 	    [WMC:Andersat, CC-BY-SA-3.0]
@@ -447,7 +447,7 @@ genannt. Es gibt folgende Gerätekategorien:
 	    Bei der Analyse und Schockabgabe darf niemand den Patienten berühren!
 
 	    
-.. figure:: /Images/WikipediaCcBySa/Semi_automatic_defi_with_electrodes.*
+.. figure:: /Bilder/WikipediaCcBySa/Semi_automatic_defi_with_electrodes.*
 	    
 	    Automatisierter Externer Defibrillator (AED) mit
             angeschlossenen Klebeelektroden für den 
@@ -455,7 +455,7 @@ genannt. Es gibt folgende Gerätekategorien:
 	    [WMC:Hborkyb, CC-BY-SA-2.5-US]
 
 	    
-.. figure:: /Images/WikipediaPd/AED_Symbol.*
+.. figure:: /Bilder/WikipediaPd/AED_Symbol.*
 	    
 	    Hinweisschild “Defibrillator”
 
@@ -880,7 +880,7 @@ Die Reanimation des Neugeborenen wird unter
 
 .. _Figure-Bls-Aed-Algorithmus:
 
-.. figure:: /Images/EmhoferJosefAass/ReanimationBls-2015-4.pdf
+.. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationBls-2015-4.pdf
             
 	    Basic Life Support mit AED.[tab:algorithmus-bls-aed]
 
@@ -888,22 +888,22 @@ Die Reanimation des Neugeborenen wird unter
 
 .. only:: html
 
-          - :download:`BLS</Images/EmhoferJosefAass/ReanimationBls-2015-4.pdf>`
+          - :download:`BLS</Bilder/EmhoferJosef-Ccc/ReanimationBls-2015-4.pdf>`
 
 
-.. figure:: /Images/EmhoferJosefAass/Larynxtubus-2015-1.pdf
+.. figure:: /Bilder/EmhoferJosef-Ccc/Larynxtubus-2015-1.pdf
 
 	    Algorithmus: Larynxtubus im Rahmen der Reanimation\
 
 .. only:: html
 
-          - :download:`BLS mit Larynxtubus</Images/EmhoferJosefAass/Larynxtubus-2015-1.pdf>`
+          - :download:`BLS mit Larynxtubus</Bilder/EmhoferJosef-Ccc/Larynxtubus-2015-1.pdf>`
 
 
 
 .. _Figure-PlsAlgorithmus:
 
-.. figure:: /Images/EmhoferJosefAass/ReanimationPls-2015-1.pdf
+.. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationPls-2015-1.pdf
                         
 	    Pediatric Life Support [tab:algorithmus-pls]
 
@@ -911,7 +911,7 @@ Die Reanimation des Neugeborenen wird unter
 
 .. only:: html
 
-          - :download:`PLS</Images/EmhoferJosefAass/ReanimationPls-2015-1.pdf>`
+          - :download:`PLS</Bilder/EmhoferJosef-Ccc/ReanimationPls-2015-1.pdf>`
 
 Ende der Reanimation
 ====================

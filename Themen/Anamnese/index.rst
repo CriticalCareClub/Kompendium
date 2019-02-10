@@ -7,7 +7,7 @@ Anamnese: SAMPLER
 
 
 
-.. figure:: /Images/xkcd/desert_island.png
+.. figure:: /Bilder/xkcd/desert_island.png
 
 	    Stille Wasser sind tief … xkcd.comCC-BY-NC-2.5
 

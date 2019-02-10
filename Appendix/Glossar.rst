@@ -197,13 +197,13 @@ Glossar
           Das Herz mit seinen Koronargefäßen
           [Hirtler, MfG]
           
-      .. figure:: /Images/WikipediaCcBy/Hk_coronary_bionerd.jpg
+      .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.jpg
 
           Darstellung der Herzkranzgefäße während einer
           Herzkatheteruntersuchung
           [WmCo “Bionerd”, CC-BY-3.0]
          
-      .. figure:: /Images/WikipediaCcBy/Heart_coronary_artery_lesion-lq.jpg
+      .. figure:: /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.jpg
 
           Die Koronargefäße versorgen den Herzmuskel von außen nach
           innen. [Patrick J. Lynch, CC-BY-2.5] 

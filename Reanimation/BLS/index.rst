@@ -436,6 +436,8 @@ genannt. Es gibt folgende Gerätekategorien:
 
 .. subfigstart::
 
+.. _Figure-Defibrillation:
+
 .. figure:: /Bilder/WikipediaCcBySa/Defib_electrode_placement.*
 	    
 	    Anbringen der Klebeelektroden
@@ -461,7 +463,7 @@ genannt. Es gibt folgende Gerätekategorien:
 
 .. subfigend::
     :width: 1
-    :label: Fig-Defibrillation
+    :label: fsdgfergehrwthrwthtr
             
     Bilderserie: *Defibrillation*
    

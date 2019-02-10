@@ -2,14 +2,17 @@ image: alpine
 
 pages:
   script:
-  - apk --no-cache add git py3-pip python-dev
+  - apk --no-cache add git py3-pip python-dev imagemagick
   - pip3 install sphinx sphinxcontrib.bibtex sphinx_git
   - apk --no-cache add make
   - make html
-  - mv _build/HEAD/html/ private/
+  - mkdir public
+  - echo "Job Done" > public/index.txt
   artifacts:
+    name: "$CI_JOB_NAME-$CI_COMMIT_REF_NAME"
+    expire_in: 1 week
     paths:
-    - private
+    - public
   only:
   - master
 

@@ -472,7 +472,7 @@ SeriesRowWide 2\
 
             [Christoph Pallinger, MfG] \
 
-.. figure:: /Images/geraete/ger-medumat-standard-bedienfeld.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.*
 
             Bedienfelder Berieselungseinheit *Modul Oxygen* und
             Notfallbeatmungsgerät *Medumat Standard* 

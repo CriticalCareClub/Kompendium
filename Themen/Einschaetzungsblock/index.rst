@@ -136,7 +136,7 @@ gegeben werden.
 
 	    Absperrung (hier deutlich verbesserungswürdig) [Bild: Gabriel]
 	    
-.. figure:: /Bilder/khd/warntafel-un-60-1710.*
+.. figure:: /Bilder/Normsymbole/warntafel-un-60-1710.*
             :width: 99%
 
             Warntafel
@@ -763,7 +763,7 @@ Die Atmung ist somit insuffizient.
     Bilderserie: Breathing
 
 	     
-.. figure:: /Images/asthma-paramedic.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/asthma-paramedic.jpg
             :width: 99.99%
             
 	    Patientin mit einem akuten Asthmaanfall

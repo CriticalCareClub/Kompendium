@@ -8,7 +8,7 @@ pages:
   - make html
   artifacts:
     paths:
-    - public
+    - _build/HEAD/html
   only:
   - master
 

@@ -327,20 +327,27 @@ Katheter abgesteckt werden. Der Vorgang wird nach Bedarf wiederholt.
 Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
 über die Nase* abgesaugt werden.
 
-
+.. subfigstart::
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32999_export.jpg
+            :width: 99.99%
 
-             Katheterlänge bei Absaugung des Mundes
+            Katheterlänge bei Absaugung des Mundes
 
-             [Ch. Pallinger]
+            [Ch. Pallinger]
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32990_export.jpg
+            :width: 99.99%
 
             Katheterlänge bei Absaugung durch die Nase
 
             [Ch. Pallinger, MfG]
 
+.. subfigend::
+    :width: 0.44
+    :label: Figure-AbsaugkatheterLaenge
+
+    Bilderserie: Länge des Absaugkatheters
 
 Gefahren
 ^^^^^^^^

@@ -63,7 +63,7 @@ Glossar
       Die Kapnographie dient einerseits als Surrogatwert zur
       Einschätzung des alveolären und Blut-CO₂-Konzentration,
       sowie andererseits zur Lagekontrolle von Hilfsmitteln zur
-      Atemwegssicherung (z.B. *Larynxtubus* 
+      Atemwegssicherung (z. B. *Larynxtubus*
       (:ref:`Topic-Larynxtubus`), *Endotrachealtubus*
       (:ref:`Topic-EndotrachealeIntubation`)).
 
@@ -72,7 +72,7 @@ Glossar
       Daher leitet sich auch die Abkürzung :dfn:`etCO₂` ab:
       Sie steht für "endtidaler Kohlendioxid-Üartialdruck" (CO₂ am
       Ende des Atemzyklus).
-      
+
       In Ermangelung der Möglichkeit zur Blutgasanalyse
       (bzw. zwischen BGA-Messungen) dient die etCO₂ oft der Anppassung der
       *Beatmungsparameter*, jedoch sind hier die Limitationen des
@@ -88,7 +88,7 @@ Glossar
       Kapnometrie auch noch die CO₂-Konzentration im zeitlichen
       Verlauf als Kurve graphisch dargestellt.
 
-      
+
       .. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00943pt-4.*
 
             Kapnographie, CO₂-Kurve:

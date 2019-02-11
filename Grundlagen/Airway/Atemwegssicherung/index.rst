@@ -196,24 +196,44 @@ oben* den Behälter verlassen, um zu verhindern, dass Sekret in den Mund
 des Helfers gelangt. Bei den meisten Fabrikaten kann der Behälter
 abgeschraubt und verschlossen werden.
 
-.. rubric:: Bilderserie: Verschiedene Absaugvorrichtungen[fig:absaugvorrichtungen]
+
+
+
+.. subfigstart::
             
 .. figure:: /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0112mm.jpg
+            :width: 99.99%
 
             Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)
+
+            [Ch. Pallinger, MfG]
    
 .. figure:: /Bilder/PallingerChristoph-Ccc/Handpumpe_32789-00441pt.*
+            :width: 99.99%
 
             Handabsaugpumpeempty
+
+            [Ch. Pallinger, MfG]
             
 .. figure:: /Bilder/PallingerChristoph-Ccc/Orosauger_33074-00441pt.*
+            :width: 99.99%
 
             Oro-Sauger für Neugeborene
+
+            [Ch. Pallinger, MfG]
             
 .. figure:: /Bilder/PallingerChristoph-Ccc/Absaugkatheter_Set_33082-00441pt.*
+            :width: 99.99%
 
             Absaugkatheter zum Einführen in Mund oder Nase
-   
+
+            [Ch. Pallinger, MfG]
+
+.. subfigend::
+    :width: 0.24
+    :label: Figure-Absaugvorrichtungen
+
+    Bilderserie: Verschiedene Absaugvorrichtungen
 
 Funktionskontrolle
 ^^^^^^^^^^^^^^^^^^

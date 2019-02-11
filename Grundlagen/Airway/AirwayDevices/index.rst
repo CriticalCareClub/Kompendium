@@ -779,11 +779,13 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
     Bilderserie: Intubation
     
-!!! LITERARY !!! (Flake and Runggaldier 2008)
 
-(Hildebrand 2001)
+.. rubric:: Literatur
 
-(Blacky, Schahawi, et al. 2011) !!! LITERARY !!!
+:cite:`ArbeitstechnikenAZ1`
+
+:cite:`InjektionenLeichtGemacht4`
+
 
 
 Videolaryngoskop

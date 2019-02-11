@@ -99,7 +99,8 @@ Anwender auch als Alternative zur endotrachealen Intubation empfohlen.
 Larynxmaske
 ===========
 
-Die erste Generation der Larynxmaske wurde in den 1980er Jahren eingeführt und 
+Die erste Generation der Larynxmaske wurde in den 
+1980er Jahren eingeführt und 
 seitdem stetig weiterentwickelt. 
 Sie besteht im Grunde
 aus einem anatomisch geformten, 
@@ -173,7 +174,8 @@ Larynxtubus
 ===========
 
 Der :dfn:`Larynxtubus` :index:`\ <! Larynxtubus>` (*LT-D*) gehört
-zu der Gruppe der *supraglottischen* :index:`\ <Atemwegshilfen!supraglottische>`
+zu der Gruppe der *supraglottischen* 
+:index:`\ <Atemwegshilfen!supraglottische>`
 Atemwegshilfen, d. h. er
 sichert den Atemweg *oberhalb* der *Stimmritze* (Glottis) und
 durchdringt diese nicht.
@@ -285,7 +287,7 @@ Intubation mittels Larynxtubus
 Material
 ^^^^^^^^^
 
-#. Beatmungsbeutel mit Maske, |O2|\ -Line und Reservoir
+#. Beatmungsbeutel mit Maske, O₂-Line und Reservoir
 
 #. Absaugung
 
@@ -309,7 +311,8 @@ Durchführung
 ^^^^^^^^^^^^
 
 Der Larynxtubus wird ohne Hilfsmittel über den Mund des Patienten
-eingeführt, wobei der Kopf in :dfn:`Schnüffelstellung` :index:`\ <! Schnüffelstellung>`
+eingeführt, 
+wobei der Kopf in :dfn:`Schnüffelstellung` :index:`\ <! Schnüffelstellung>`
 (*Jackson-Position*, Kopf leicht erhöht (umgedrehte Nierentasse), nicht
 überstreckt, nicht gebeugt) gelagert wird. Zusätzliche Hilfsmittel sind
 in der Regel nicht erforderlich.
@@ -472,7 +475,7 @@ Material
 #. Beatmungsbeutel inkl. passender Beatmungsmaske, Bakterienfilter und
    Sauerstoffreservoir
 
-#. O2-Berieselungseinheit und O2-Line
+#. O₂-Berieselungseinheit und O₂-Line
 
 #. Evtl. Beatmungsgerät
 
@@ -506,7 +509,7 @@ Material
 
 #. Evtl. Magillzange
 
-#. Mit Luft gefüllte Spritze zum Cuffen (je nach Tubus, i.d.R. 10 ml)
+#. Mit Luft gefüllte Spritze zum Cuffen (je nach Tubus, i. d. R. 10 ml)
 
 #. Stethoskop
 
@@ -530,7 +533,7 @@ Vorbereitung
 #. *Präoxygenieren*:
 
    -  Beim spontan atmenden Patienten:
-      Hochdosierte Sauerstoffgabe über O2-Maske
+      Hochdosierte Sauerstoffgabe über O₂-Maske
 
    -  Beim nicht-spontan-atmenden Patienten:
       Je nach Situation evtl. Beatmung mittels Beatmungsbeutel [316]_
@@ -579,11 +582,11 @@ Vorbereitung
    #. Absaugeinheit und Absaugkatheter muss in Griffweite des
       Assistenten positioniert werden!
 
-#. Restliches Material bereitlegen (z.B. in Nierentasse)
+#. Restliches Material bereitlegen (z. B. in Nierentasse)
 
 #. *Material-Vollständigkeit* prüfen
 
-#. *Sauerstoffberieselung* einschalten und auf 15L/min
+#. *Sauerstoffberieselung* einschalten und auf 15 L / min
    einstellen, Reservoir des Beatmungsbeutels füllen
 
 Intubation
@@ -601,7 +604,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 |        | kommen kann,                                                                                                                          |
 |        | ggfs. muss sofort abgesaugt werden!                                                                                                   |
 |        |                                                                                                                                       |
-|        | Der Wirkeintritt derMedikamente wird abgewartet.                                                                                      |
+|        | Der Wirkeintritt der Medikamente wird abgewartet.                                                                                     |
 +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
 | 1.a    | **Injektion** der Medikamente                                                 | Achten auf Wirkung der Medikamente und Zeit           |
 |        | in der festgelegten Reihenfolge und Dosierung                                 |                                                       |
@@ -679,8 +682,8 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
    der Reanimation entfällt die Präoxygenierung.
 
 .. [317]
-   Es ist egal, ob der Durchführende Rechts- oder Linkshänder ist, das
-   Laryngoskop wird *immer in der linken Hand* gehalten.
+   Es ist egal, ob der Durchführende Rechts- oder Linkshänder ist, 
+   das Laryngoskop wird *immer in der linken Hand* gehalten.
 
 
 .. subfigstart::
@@ -789,7 +792,7 @@ Videolaryngoskop
 AirTraq
 =======
 
-Das optische Airtraq ™ -Laryngoskop (Prodol
+Das optische Airtraq™ -Laryngoskop (Prodol
 Meditec, Vizcaya, Spanien) kann,
 verglichen mit der direkten Laryngoskopie,
 bei Patienten mit schwierigem Atemweg vorteilhaft sein.

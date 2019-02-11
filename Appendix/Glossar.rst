@@ -102,7 +102,8 @@ Glossar
 
       .. rubric:: Beurteilung
 
-      Die Normwerte beim gesunden Menschen liegen bei ca. 4--5% bzw. 35--40 mm Hg.
+      Die Normwerte beim gesunden Menschen liegen bei ca. 
+      4—5% bzw. 35—40 mm Hg.
 
       Erhöhte Werte deuten auf eine
 
@@ -118,8 +119,10 @@ Glossar
          
           * *Fehllage* des Tubus,
           * ein *zu hohes Atemminutenvolumen* oder eine
-          * *schlechte Lungenperfusion* z.B. in Folge einer Lungenembolie oder
-            eines erniedrigten Herzzeitvolumens bzw. **Kreislaufversagens** hin.
+          * *schlechte Lungenperfusion* z. B. in Folge 
+            einer Lungenembolie oder
+            eines erniedrigten Herzzeitvolumens 
+            bzw. **Kreislaufversagens** hin.
 
       Ein erniedrigter Wert oder ein schlagartiger Abfall des Wertes
       sind ein kritisches Alarmzeichen.
@@ -148,7 +151,7 @@ Glossar
       zuverlässige Aussage über die Perfusion im kleinen Kreislauf und damit
       auch über die Qualität der Herzdruckmassage getroffen werden.
       Ziel ist es,
-      unter Reanimationsbedingungen ein etCO2 von *über 9 mm Hg* zu
+      unter Reanimationsbedingungen ein etCO₂ von *über 9 mm Hg* zu
       erreichen.
       Wird dieses Ziel nicht erreicht,
       so muss die Qualität der Herzdruckmassage überprüft und

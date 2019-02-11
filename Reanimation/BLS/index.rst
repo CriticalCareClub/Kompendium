@@ -172,11 +172,11 @@ Einfluss auf das Pateinten-Outcome.
 
        -  kräftig aber nicht ruckartig
 
-       -  Eindrücktiefe: 5--6 cm
+       -  Eindrücktiefe: 5—6 cm
 
        -  vollständige Entlastung
 
-    -  Frequenz: **100--120 / min**
+    -  Frequenz: **100—120 / min**
 
 
 Der Patient muss auf eine *harte Unterlage* (Reanimationsbrett, Boden, ...) gelagert werden.
@@ -193,7 +193,7 @@ Die für die *Kompression* notwendige Kraft wird erzeugt,
 indem sich der Helfer über den Patient beugt,
 die Arme dabei durchstreckt und mit Hilfe seines eigenen Gewichts
 *gerade nach unten* drückt.
-Dabei soll eine *Eindrücktiefe* von **5--6 cm** erreicht
+Dabei soll eine *Eindrücktiefe* von **5—6 cm** erreicht
 werden.\ [142]_
 
 

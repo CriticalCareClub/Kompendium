@@ -19,14 +19,16 @@ Beatmung
     -  Assistierte Beatmung: Eine vorhandene, aber unzureichende
        Spontanatmung wird unterstützt
 
-Bei *fehlender* oder *nicht ausreichender Spontanatmung* (Eigenatmung <8
-bzw. >35/min oder Atemzugvolumen nicht ausreichend) wird eine
-*künstliche Beatmung* durchgeführt. Dabei wird Eigenatmung des Patienten
-künstlich durch geeignete Hilfsmittel ersetzt oder ergänzt. Es handelt
-sich um eine *Überdruckbeatmung*\  [135]_, d. h. es wird mit Druck Luft
-in die Atemwege des Patienten gepumpt. (Im Unterschied dazu wird bei der
-natürlichen Atmung Luft mit Unterdruck in den Patienten eingesogen.) Man
-unterscheidet zwischen einer *kontrollierten* und einer *assistierten*
+Bei *fehlender* oder *nicht ausreichender Spontanatmung* 
+(Eigenatmung < 8 bzw. > 35/min oder Atemzugvolumen nicht ausreichend) 
+wird eine *künstliche Beatmung* durchgeführt. 
+Dabei wird Eigenatmung des Patienten
+künstlich durch geeignete Hilfsmittel ersetzt oder ergänzt. 
+Es handelt sich um eine *Überdruckbeatmung*\  [135]_, 
+d. h. es wird mit Druck Luft in die Atemwege des Patienten gepumpt. 
+(Im Unterschied dazu wird bei der natürlichen Atmung Luft mit Unterdruck 
+in den Patienten eingesogen.) 
+Man unterscheidet zwischen einer *kontrollierten* und einer *assistierten*
 Beatmung.
 
 

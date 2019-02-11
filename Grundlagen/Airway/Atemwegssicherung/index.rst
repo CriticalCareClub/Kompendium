@@ -167,17 +167,19 @@ meisten Absaugkatheter haben auf Patientenseite eine kleine Öffnung, die
 das Festsaugen an dem Patienten verhindert. Die Absaugkatheter sind
 steril verpackt und müssen auch dementsprechend behandelt werden. Die
 farbige Kennung gibt den Durchmesser des Absaugkatheters an. Die
-Farbcodierung kann [tab:absaugkatheter] entnommen werden.
+Farbcodierung kann :ref:`Table-Absaugkatheter`: entnommen werden.
 
-!!! TABELLE WEIT Farbcodierung: Absaugkatheter [tab:absaugkatheter]
+.. _Table-Absaugkatheter:
 
-+----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
-| **Farbe**            | **grau**   | **hellgrün**   | **blau**   | **schwarz**   | **weiß**   | **grün**   | **orange**   | **rot**   | **gelb**   |
-+----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
-| Durchmesser in mm    | 1,7        | 2,0            | 2,7        | 3,3           | 4,1        | 4,7        | 5,3          | 6,1       | 6,6        |
-+----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
-| Größe in Charrière   | CH5        | CH6            | CH8        | CH10          | CH12       | CH14       | CH16         | CH18      | CH20       |
-+----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
+.. table:: Farbcodierung: Absaugkatheter 
+
+   +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
+   | **Farbe**            | **grau**   | **hellgrün**   | **blau**   | **schwarz**   | **weiß**   | **grün**   | **orange**   | **rot**   | **gelb**   |
+   +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
+   | Durchmesser in mm    | 1,7        | 2,0            | 2,7        | 3,3           | 4,1        | 4,7        | 5,3          | 6,1       | 6,6        |
+   +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
+   | Größe in Charrière   | CH 5       | CH 6           | CH 8       | CH 10         | CH 12      | CH 14      | CH 16        | CH 18     | CH 20      |
+   +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
 
 Oro-Sauger
 ^^^^^^^^^^
@@ -194,24 +196,44 @@ oben* den Behälter verlassen, um zu verhindern, dass Sekret in den Mund
 des Helfers gelangt. Bei den meisten Fabrikaten kann der Behälter
 abgeschraubt und verschlossen werden.
 
-.. rubric:: Bilderserie: Verschiedene Absaugvorrichtungen[fig:absaugvorrichtungen]
+
+
+
+.. subfigstart::
             
 .. figure:: /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0112mm.jpg
+            :width: 99.99%
 
             Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)
+
+            [Ch. Pallinger, MfG]
    
 .. figure:: /Bilder/PallingerChristoph-Ccc/Handpumpe_32789-00441pt.*
+            :width: 99.99%
 
             Handabsaugpumpeempty
+
+            [Ch. Pallinger, MfG]
             
 .. figure:: /Bilder/PallingerChristoph-Ccc/Orosauger_33074-00441pt.*
+            :width: 99.99%
 
             Oro-Sauger für Neugeborene
+
+            [Ch. Pallinger, MfG]
             
 .. figure:: /Bilder/PallingerChristoph-Ccc/Absaugkatheter_Set_33082-00441pt.*
+            :width: 99.99%
 
             Absaugkatheter zum Einführen in Mund oder Nase
-   
+
+            [Ch. Pallinger, MfG]
+
+.. subfigend::
+    :width: 0.24
+    :label: Figure-Absaugvorrichtungen
+
+    Bilderserie: Verschiedene Absaugvorrichtungen
 
 Funktionskontrolle
 ^^^^^^^^^^^^^^^^^^
@@ -305,20 +327,27 @@ Katheter abgesteckt werden. Der Vorgang wird nach Bedarf wiederholt.
 Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
 über die Nase* abgesaugt werden.
 
-
+.. subfigstart::
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32999_export.jpg
+            :width: 99.99%
 
-             Katheterlänge bei Absaugung des Mundes
+            Katheterlänge bei Absaugung des Mundes
 
-             [Ch. Pallinger]
+            [Ch. Pallinger]
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32990_export.jpg
+            :width: 99.99%
 
             Katheterlänge bei Absaugung durch die Nase
 
             [Ch. Pallinger, MfG]
 
+.. subfigend::
+    :width: 0.44
+    :label: Figure-AbsaugkatheterLaenge
+
+    Bilderserie: Länge des Absaugkatheters
 
 Gefahren
 ^^^^^^^^

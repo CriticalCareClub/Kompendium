@@ -191,8 +191,10 @@ eine  **Magensonde** :index:`\ <Magensonde>` zur Ableitung des
 Mageninhaltes gelegt werden kann (Magendrainagekanal).
 Trotz korrekter Anwendung kann es aufgrund von
 Leckagen zur Magenüberblähung kommen, daher sollen unbedingt, wenn
-verfügbar, nur Modelle mit einem Magendrainagekanal eingesetzt werden.
-(Dengler et al. 2011; Mann et al. 2013)
+verfügbar, nur Modelle mit einem Magendrainagekanal eingesetzt werden. 
+:cite:`Dengler2011,Mann2013`
+
+
 
 
 Der obere Cuff kommt nach dem Einführen im Rachen zu liegen, während

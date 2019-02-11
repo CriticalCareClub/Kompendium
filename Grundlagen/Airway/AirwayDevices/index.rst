@@ -680,8 +680,9 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
 .. [316]
    Beim nicht-nüchternen nicht-spontan-atmenden Patienten soll eine
-   Beutelbeatmung nur wenn unbedingt notwendig durchgeführt werden. Bei
-   der Reanimation entfällt die Präoxygenierung.
+   Beutelbeatmung nur wenn unbedingt notwendig durchgeführt werden 
+   (Rapid Sequence Induction, Schnelleinleitung). 
+   Bei der Reanimation entfällt die Präoxygenierung.
 
 .. [317]
    Es ist egal, ob der Durchführende Rechts- oder Linkshänder ist, 

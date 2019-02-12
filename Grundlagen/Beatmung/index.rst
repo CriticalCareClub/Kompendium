@@ -1,5 +1,4 @@
 
-
 .. _Topic-BeatmungAssistiert:
 
 .. _Topic-BeatmungKontrolliert:
@@ -251,18 +250,18 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
 .. subfigstart::
 
 .. figure:: /Bilder/HirtlerLena-Ccc/CGriff.*
-            :width: 0.99
+            :width: 99.9%
 
             C-Griff
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
-            :width: 0.99
+            :width: 99.9%
 
             und überstreckter Kopf
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.*
-            :width: 0.99
+            :width: 99.9%
 
             Normalerweise wird bei der Überdruckbeatmung mit einem
             Beatmungsbeutel Luft in die Lunge gepumpt. Übersteigt der

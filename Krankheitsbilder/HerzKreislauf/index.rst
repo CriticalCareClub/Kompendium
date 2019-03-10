@@ -1,7 +1,14 @@
+########################
+Herz-Kreislauf-Störungen
+########################
 
-#############################
-[HKL] Herz-Kreislaufstörungen
-#############################
+.. toctree::
+    :maxdepth: 1
+
+    Herzrhythmusstoerungen/index
+    KoronareHerzkrankheit/index
+
+
 
 Herz-Kreislauferkrankungen sind die häufigste Todesursache. [229]_ Fast
 jeder zweite Todesfall geht auf eine Erkrankung des
@@ -98,17 +105,17 @@ Kompensation, Dekompensation
 
     -  Gegensteuerung (*Kompensation*)
 
-    -  Sympathikus (*“Fight!”*)
+    -  Sympathikus (*"Fight!"*)
 
     -  Zentralisation
 
     -  Ende: *Dekompensierter Schock*
 
 Der Körper versucht durch Aktivierung des Sympathikus
-(:ref:`topic-sympathikus`: *“Fight!”*) gegenzusteuern (zu *kompensieren*).
+(:ref:`topic-sympathikus`: *"Fight!"*) gegenzusteuern (zu *kompensieren*).
 Der wichtigste Mechanismus ist die :dfn:`Zentralisation`.
 Darunter versteht man die *Blutumverteilung zugunsten lebenswichtiger
-Organe* wie Herz, Gehirn, Lunge und Leber. Dabei werden z.B. Haut,
+Organe* wie Herz, Gehirn, Lunge und Leber. Dabei werden z. B. Haut,
 Muskel und Darm sowie die Extremitäten (Peripherie) kaum mehr
 durchblutet. Periphere Venen kollabieren und die *Rekapillarisierungszeit*
 verlängert sich. Die Hautdurchblutung wird verringert und die Haut wird
@@ -135,7 +142,7 @@ Problematisch ist, dass am Anfang die
 Symptome eher diskret sind. 
 Das erste Anzeichen eines beginnenden
 Schocks ist oft lediglich eine kühle Haut (Kaplan et al. 2001)!
-Natürlich kann es auch andere Ursachen für eine kühle Haut geben, z.B.
+Natürlich kann es auch andere Ursachen für eine kühle Haut geben, z. B.
 eine kalte Umgebungstemperatur. Die Tabelle [tab:schocksymptomatik],
 listet typische allgemeine Schocksymptome auf.
 
@@ -165,7 +172,7 @@ ll
 
 |image| &
 
--  HF :math:`↑`
+-  HF :math:`{\uparrow}`
 
 -  Mäßiger RR-Abfall, aber RR noch > HF
 
@@ -182,7 +189,7 @@ ll
 
 |image| &
 
--  Tachykardie (HF ↑, “fliehender” Puls)
+-  Tachykardie (HF :math:`{\uparrow}`, "fliehender" Puls)
 
 -  RR-Abfall (schwacher Puls, peripher schlecht oder nicht tastbar)
 
@@ -196,7 +203,7 @@ ll
 
 -  Venen kollabiert oder gestaut
 
--  Nur mehr schwer behebbar! → Schock möglichst
+-  Nur mehr schwer behebbar! :math:`{\rightarrow}` Schock möglichst
    frühzeitig erkennen & behandeln
 
 | 
@@ -216,7 +223,7 @@ ll
 
 -  Patient ist sterbend.
 
-
+| 
 
 .. _topic-schockschere:
 
@@ -246,7 +253,7 @@ Schockschere befindet, kann er trotzdem einen Schock haben!*
 
 -  Für Kinder nicht anwendbar
 
-    -  Wenn sich das Verhältnis “Herzfrequenz zu systolischem Blutdruck”
+    -  Wenn sich das Verhältnis "Herzfrequenz zu systolischem Blutdruck"
        umkehrt, befindet sich der Patient bereits in einem schweren
        Schock.
 
@@ -327,7 +334,7 @@ Gefäßen** &
 
    -  Wassereinlagerung ins Gewebe
 
-   -   Aszites (“Wasserbauch”, z.B. bei Lebererkrankungen)
+   -   Aszites ("Wasserbauch", z. B. bei Lebererkrankungen)
 
 &
 
@@ -385,7 +392,7 @@ Gefäßen** &
 
    Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
 
--  RR ↓, Tachykardie
+-  RR :math:`{\downarrow}`, Tachykardie
 
    Übelkeit, Erbrechen, Durchfall
 
@@ -403,8 +410,8 @@ Gefäßen** &
 **Schwere körperweite Infektion oder Einwirkung eines die Gefäße
 beeinflussenden Giftstoffs (Toxin)** &
 
--  Langanhaltender Entzündungsherd der plötzlich Erreger “ins Blut
-   streut”
+-  Langanhaltender Entzündungsherd der plötzlich Erreger "ins Blut
+   streut"
 
 -  Fremdkörper (Venenverweilkanülen, Tampons, …)
 
@@ -432,7 +439,7 @@ Gefäßerweiterung (Vasodilatation).**
 -  Gefäßwandmuskulatur bekommen keine Nerven-Impulse und kontrahiert
    sich nicht mehr
 
--  Gefäße weiten sich → Blut versackt
+-  Gefäße weiten sich :math:`{\rightarrow}` Blut versackt
 
 &
 
@@ -475,7 +482,7 @@ ll
 
 -  Wassereinlagerung ins Gewebe
 
--   Aszites (“Wasserbauch”, z.B. bei Lebererkrankungen)
+-   Aszites ("Wasserbauch", z. B. bei Lebererkrankungen)
 
 | 
 
@@ -485,16 +492,21 @@ Kardiogener Schock
 ------------------
 
 **Schock infolge mangelndem Herzauswurfes
-durch insuffiziente Pumpleistung.** Zu einem kardiogenen Schock kann es
-bei einem *akut auftretenden Herzversagen*, z.B. durch einem akuten
-*Myokardinfarkt* (häufigste Ursache) oder *Herzrhythmusstörungen*,
-kommen. Die *Lungenembolie* als Auslöser eines Schocks wird auch zum
+durch insuffiziente Pumpleistung.**
+
+Zu einem kardiogenen Schock kann es
+bei einem *akut auftretenden Herzversagen*,
+z. B. durch einem akuten *Myokardinfarkt* (häufigste Ursache) oder *Herzrhythmusstörungen*,
+kommen.
+Die *Lungenembolie* als Auslöser eines Schocks wird auch zum
 kardiogenen Schock gerechnet, da es durch die Verstopfung des kleinen
 Kreislaufes zu einer mangelhaften Füllung des Herzens und damit zu einer
-mangelhaften Auswurfleistung kommt. Typisch ist ein Blutdruckabfall.
+mangelhaften Auswurfleistung kommt.
+Typisch ist ein Blutdruckabfall.
 Durch den *Blutrückstau* kann es zu Stauungszeichen kommen (Lungenödem
 bei Linksherzversagen, Beinödeme und gestaute Halsvenen bei
-Rechtsherzversagen). Häufig klagen die Patienten über *Atemnot*.
+Rechtsherzversagen).
+Häufig klagen die Patienten über *Atemnot*.
 [tab:uebersicht-schockarten]
 
 .. _topic-schock-anaphylaktischer: 
@@ -503,7 +515,7 @@ Anaphylaktischer Schock
 -----------------------
 
 **Schock aufgrund einer überschießenden
-allergischen Reaktion – “Allergischer Schock”.** Ein anaphylaktischer
+allergischen Reaktion – "Allergischer Schock".** Ein anaphylaktischer
 Schock wird durch eine überschießende Reaktion der Körperabwehr
 (Immunreaktion) auf bestimmte Stoffe (Antigene) ausgelöst. Durch von den
 Immunzellen gebildete Stoffe werden die Gefäße erweitert, zusätzlich
@@ -545,7 +557,7 @@ Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
 | 
 | *II*
 
-& RR ↓, Tachykardie
+& RR :math:`{\downarrow}`, Tachykardie
 
 Übelkeit, Erbrechen, Durchfall
 
@@ -565,21 +577,27 @@ Septischer Schock und Toxischer Schock
 
 **Schock infolge
 einer schweren, körperweiten Infektion oder aufgrund eines, die Gefäße
-beeinflussenden, Giftstoffes (Toxins).** Siehe auch [topic-sepsis]. Ein
-septisch-/toxischer Schock wird durch diverse Bakterien und Toxine
-verursacht. Die Erreger können auf unterschiedliche Wege in die Blutbahn
-gelangen. Oft liegt ein chronischer Entzündungsherd vor, von dem aus
-Keime in die Blutbahn streuen. Mit Keimen besiedelte und im Körper
-gelegene Fremdkörper, darunter fallen auch medizinische Materialien wie
-lang liegende Venenverweilkanülen, Harnkatheter u.ä., aber auch
-Hygieneartikel wie vergessene Tampons, sind ideale Brutstätten, da hier
-das Immunsystem des Körpers keinen Zugang hat.
+beeinflussenden, Giftstoffes (Toxins).** Siehe auch
+:ref:`topic-sepsis`.
+Ein septisch-/toxischer Schock wird durch diverse Bakterien und Toxine
+verursacht.
+Die Erreger können auf unterschiedliche Wege in die Blutbahn
+gelangen.
+Oft liegt ein chronischer Entzündungsherd vor,
+von dem aus Keime in die Blutbahn streuen.
+Mit Keimen besiedelte und im Körper gelegene Fremdkörper,
+darunter fallen auch medizinische Materialien wie
+lang liegende Venenverweilkanülen, Harnkatheter u. ä.,
+aber auch Hygieneartikel wie vergessene Tampons,
+sind ideale Brutstätten,
+da hier das Immunsystem des Körpers keinen Zugang hat.
 
 Durch die bakterielle oder toxische Gefäßwandschädigung kommt es zum
 Flüssigkeitsaustritt in den Zwischengewebsraum sowie zu
-Gefäßweitstellung. Man kann die allgemeinen Schocksymptome wahrnehmen.
-Der Patient kann sowohl hohes oder auch kein Fieber haben Die Haut ist
-anfänglich heiß, trocken und rötlich, später ist sie eher bleich, grau
+Gefäßweitstellung.
+Man kann die allgemeinen Schocksymptome wahrnehmen.
+Der Patient kann sowohl hohes oder auch kein Fieber haben,
+die Haut ist anfänglich heiß, trocken und rötlich, später ist sie eher bleich, grau
 oder sogar marmoriert.
 
 [tab:uebersicht-schockarten]
@@ -605,7 +623,7 @@ bei der das Rückenmark geschädigt bzw. unterbrochen wird
     -  Grundsatz: *Der Schock muss bekämpft werden bevor man ihn
        bemerkt.*
 
-!!! PROCEDURE !!! MR57XX0B
+.. todo:: !!! PROCEDURE !!! MR57XX0B
 
 .. _topic-kreislaufstillstand:
 
@@ -668,14 +686,14 @@ Folgen und Symptome
 
 Unmittelbar nach Aussetzen des Herzschlages ist der Patient *pulslos*
 und der Blutkreislauf steht still. Es wird ihm schwindlig und schlecht,
-nach kurzer Zeit (ca. 15--20 s) wird er *bewusstlos*. Nach
-weiteren 10 s tritt ein *Atemstillstand* ein (oder eine *Schnappatmung*).
+nach kurzer Zeit (ca. 15--20 s) wird er *bewusstlos*.
+Nach weiteren 10 s tritt ein *Atemstillstand* ein (oder eine *Schnappatmung*).
 Nach 3--5 min treten Hirnschäden auf, welche nicht mehr
 reversibel sind. In kühler Umgebung kann diese Zeitspanne etwas
 ausgedehnt werden. Viele Patienten haben, auch nach erfolgreicher
 Reanimation, im weiteren Verlauf neurologische Defizite.
 
--  Aussetzen des Herzschlages → sofort pulslos!
+-  Aussetzen des Herzschlages :math:`\rightarrow` sofort pulslos!
 
 -  Bewusstlosigkeit nach 15--20 s
 
@@ -698,7 +716,7 @@ Störungen des Blutdrucks
 Hypotonie
 ---------
 
-index::
+.. index::
     single: Hypotonie
 
 Beschreibung und Richtwert
@@ -743,16 +761,16 @@ beiden Begriffen und ordnen der Synkope eher kardiale Ursachen zu.
 
 Ein Kollaps kann seine Ursachen in verschiedenen Organssystemen haben:
 
--  Herz (z.B. Herzrhythmusstörungen (*Adams-Stokes-Anfall*))
+-  Herz (z. B. Herzrhythmusstörungen (*Adams-Stokes-Anfall*))
 
--  Gefäßen (z.B. Hitzebedingte Erweiterung der Gefäße mit “Versacken”
+-  Gefäßen (z. B. Hitzebedingte Erweiterung der Gefäße mit "Versacken"
    des Blutes in den Beinen)
 
--  Blut (z.B. Blutarmut (*Anämie*))
+-  Blut (z. B. Blutarmut (*Anämie*))
 
 -  Hirn
 
--  Hirngefäßen (z.B. TIA, :ref:`topic-tia` ) …
+-  Hirngefäßen (z. B. TIA, :ref:`topic-tia` ) …
 
 -  Sonstige Ursachen und Faktoren: Hypoglykämie, Menstruation
 
@@ -761,13 +779,15 @@ stationären Bedingungen oft langwierig und nicht selten ergebnislos. Da
 jedoch schwerwiegende und lebensbedrohliche Diagnosen möglich sind, muss
 bei unklaren Kollapszuständen eine gründliche Abklärung erfolgen.
 
-Es gibt jedoch auch typische “Kollaps-Situationen”: Ein schwüler Tag in
-einer überfüllten U-Bahn-Garnitur, nicht gefrühstückt, auf dem Weg zu
-einem Vorstellungstermin und seit gestern in der Menstruation. Oder im
-stickigen Veranstaltungszelt bei 40, wobei der der ganze
-Flüssigkeitskonsum aus 5 (entwässernden) Dosen RedBull bestand. So
-mancher war auch ob eines Begräbnisses so ergriffen, dass er sich fast
-in die Grube neben den Sarg dazugelegt hätte …
+Es gibt jedoch auch typische "Kollaps-Situationen":
+Ein schwüler Tag in einer überfüllten U-Bahn-Garnitur,
+nicht gefrühstückt, auf dem Weg zu einem Vorstellungstermin
+und seit gestern in der Menstruation.
+Oder im stickigen Veranstaltungszelt bei 40°C,
+wobei der der ganze Flüssigkeitskonsum aus 5 (entwässernden) Dosen
+RedBull bestand.
+So mancher war auch ob eines Begräbnisses so ergriffen,
+dass er sich fast in die Grube neben den Sarg dazugelegt hätte …
 
 Symptome
 ^^^^^^^^
@@ -778,7 +798,7 @@ Symptome
 
     -  Evtl. kurze Ohnmacht, Schwarzwerden vor Augen
 
-    -  RR ↓, evtl. Bradykardie oder Tachykardie
+    -  RR :math:`{\downarrow}`, evtl. Bradykardie oder Tachykardie
 
 Der Patient berichtet über Schwindel, evtl. ist er zusammengesackt, war
 kurz bewusstlos. Der Patient wacht oft auf dem Boden liegend auf und
@@ -833,7 +853,7 @@ und behandelt werden.
 .. [232]
    Hypertonie: Neben der systemischen arteriellen (essentiellen)
    Hypertonie gibt es auch andere Krankheitsbilder, bei denen der Druck
-   in anderen Blutgefäßen erhöht ist, z.B. die pulmonale Hypertonie.
+   in anderen Blutgefäßen erhöht ist, z. B. die pulmonale Hypertonie.
 
 .. [233]
    Grenzwert Blutdruck: Bei Patienten mit Risikofaktoren gelten andere
@@ -848,15 +868,15 @@ Langzeitfolgen
 
     -  *Gefäßschädigung*
 
-    -  Herzkranzgefäße → Infarkt
+    -  Herzkranzgefäße :math:`{\rightarrow}` Infarkt
 
-    -  Hirngefäße → Schlaganfall
+    -  Hirngefäße :math:`{\rightarrow}` Schlaganfall
 
-    -  Nierengefäße → Niereninsuffizienz
-        → Dialyse → typischer
+    -  Nierengefäße :math:`{\rightarrow}` Niereninsuffizienz
+        :math:`{\rightarrow}` Dialyse :math:`{\rightarrow}` typischer
         KTW-Patient
 
-    -  Hauptschlagader → Aneurysma
+    -  Hauptschlagader :math:`{\rightarrow}` Aneurysma
 
     -  *Herzmuskelschädigung*
 
@@ -889,8 +909,7 @@ Notfälle. Daher ist es auch verständlich, dass die Behandlung der
 Hypertonie einen großen Stellenwert in der medizinischen Versorgung der
 Bevölkerung hat.
 
-|image|\ Der Strawinsky-Brunnen von Jean Tinguely beim Centre Pompidou
-in Paris Sebastian GabrielMfG
+.. todo:: image Der Strawinsky-Brunnen von Jean Tinguely beim Centre Pompidou in Paris Sebastian GabrielMfG
 
  Hypertensive Krise und Hypertensiver Notfall
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -900,13 +919,13 @@ in Paris Sebastian GabrielMfG
 Beschreibung
 """"""""""""
 
-**Eine plötzliche, sehr starke Erhöhung des Blutdrucks wird als !!!
-TERMINUS !!! [Krise!hypertensive]hypertensive Krise oder !!! TERMINUS
-!!! [Notfall!hypertensiver]hypertensiver Notfall bezeichnet. Der
-Unterschied zwischen den beiden Diagnosen ist das Fehlen bzw.
-Vorhandensein von typischen Symptomen einer Endorganstörung (z.B.
+Eine plötzliche, sehr starke Erhöhung des Blutdrucks wird als
+:dfn:`hypertensive Krise` oder :dfn:`hypertensiver Notfall`
+bezeichnet.
+Der Unterschied zwischen den beiden Diagnosen ist das Fehlen bzw.
+Vorhandensein von typischen Symptomen einer Endorganstörung (z. B.
 Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen,
-Schwindel …).** Vgl. [tab:hxpertension-krise-notfall].
+Schwindel …). Vgl. [tab:hxpertension-krise-notfall].
 
 .. todo:: !!! TABELLE WEIT Unterscheidung Hypertensive Krise und Hypertensiver Notfall(Whitworth and World Health Organization 2003; Chobanian et al.
 2003; Braun 2004; Swaminatha V and Garmel 2008; Vlcek et al.
@@ -945,14 +964,14 @@ deutliche individuelle Erhöhung
        hypertensiven Notfall ist das Vorhandensein von Symptomen einer
        Organstörung.
 
- [234]_
+[234]_
 
 
 .. [234]
    Hypertensive Krise/Notfall: (Die Unterscheidung zwischen
-   “Hypertensiver Krise” und “Hypertensiven Notfall” ist in der
+   "Hypertensiver Krise" und "Hypertensiven Notfall" ist in der
    Literatur nicht einheitlich. Oft wird auch nur zwischen
-   “Hypertensiver Krise ohne Symptome” bzw. “mit Symptomen”
+   "Hypertensiver Krise ohne Symptome" bzw. "mit Symptomen"
    unterschieden oder generell eine andere Einteilung gewählt. Von
    diesen Spitzfindigkeiten abgesehen gilt das Vorhandensein von
    Symptomen durchgehend als entscheidendes Kriterium. (Classen et al.
@@ -962,87 +981,91 @@ deutliche individuelle Erhöhung
 ABCDE
 """""
 
-``2``
+:2:
     Oft hat der Patient einen hochroten Kopf.
 
-``4``
+:4:
     Ein erhöhter Blutdruck alleine ist oft symptomlos und wird vom
     betreffenden Patienten oft gar nicht bemerkt. Häufig ist
-    *Nasenbluten* (!!! TERMINUS DFN !!! :dfn:`` *Epistaxis*) das erste Zeichen einer
+    *Nasenbluten* (*Epistaxis*) das erste Zeichen einer
     akuten Hypertonie. Beim hypertensiven *Notfall* kommt es zu
     Symptomen für die blutdruckbedingte Störung von Organen
-    (*Organstörungen*), z.B. oft zu |symbol-RedFlag|\ neurologischen
-    Symptomen wie |symbol-RedFlag|\ Kopfschmerzen und **!!! REDFLAG
-    !!!**\ Sehstörungen, weiters evtl. zu **!!! REDFLAG
-    !!!**\ Brustschmerzen, Übelkeit, |symbol-RedFlag|\ Erbrechen und
-    |symbol-RedFlag|\ Schwindel.
+    (*Organstörungen*), z. B. oft zu |symbol-RedFlag|\  neurologischen
+    Symptomen wie |symbol-RedFlag|\  Kopfschmerzen und
+    |symbol-RedFlag|\  **Sehstörungen**, weiters evtl. zu
+    |symbol-RedFlag|\  **Brustschmerzen**, Übelkeit, |symbol-RedFlag|\
+     Erbrechen und 
+    |symbol-RedFlag|\  Schwindel.
 
-``B``
-    Evtl. kommt es aufgrund der kardialen Belastung zur **!!! REDFLAG
-    !!!**\ Atemnot.
+:B:
+    Evtl. kommt es aufgrund der kardialen Belastung zur |symbol-RedFlag|\  **Atemnot**.
 
-``C``
-    In sehr schweren Fällen, v.a. wenn eine kardiale Grunderkrankung
-    besteht, können sich Symptome eines |symbol-RedFlag|\ kardiogenen
-    Schocks zeigen. Es ist eine deutliche Blutdruckerhöhung (Richtwert
-    RR >  bzw. deutliche individuelle Erhöhung) festzustellen
+:C:
+    In sehr schweren Fällen,
+    v. a. wenn eine kardiale Grunderkrankung besteht,
+    können sich Symptome eines |symbol-RedFlag|\  kardiogenen
+    Schocks zeigen.
+    Es ist eine deutliche Blutdruckerhöhung
+    (Richtwert RR > 200 mm Hg bzw. deutliche individuelle Erhöhung) festzustellen
 
-``2``
+:2:
     Hochroter Kopf
 
-``4``
-    Nasenbluten, |symbol-RedFlag|\ Kopfschmerzen, **!!! REDFLAG
-    !!!**\ Sehstörungen, |symbol-RedFlag|\ Brustschmerzen, Übelkeit,
-    |symbol-RedFlag|\ Erbrechen, |symbol-RedFlag|\ Schwindel
+:4:
+    Nasenbluten, |symbol-RedFlag|\  Kopfschmerzen, |symbol-RedFlag|\
+    **Sehstörungen**,  |symbol-RedFlag|\  Brustschmerzen, Übelkeit,
+    |symbol-RedFlag|\  Erbrechen, |symbol-RedFlag|\  Schwindel
 
-``B``
-    Evtl. |symbol-RedFlag|\ Dyspnoe
+:B:
+    Evtl. |symbol-RedFlag|\  Dyspnoe
 
-``C``
-    Evtl. |symbol-RedFlag|\ kardiogener Schock RR →
+:C:
+    Evtl. |symbol-RedFlag|\  kardiogener Schock RR :math:`\uparrow`
     (RichtwertRR >  bzw. deutliche individuelle Erhöhung)
 
 SAMPLER
 """""""
 
-``S``
+:S:
     Siehe ABCDE.
 
-``M``
+:M:
     Meistens ist bereits eine medikamentöse Einstellung durch den
     Hausarzt mittels eines oder Kombination mehrerer Medikamente
-    erfolgt [235]_. Entscheidend ist die Frage, ob diese Medikation auch
+    erfolgt [235]_.
+    Entscheidend ist die Frage, ob diese Medikation auch
     tatsächlich eingenommen wurde, Fehler bei der Einnahme (vergessen,
     Packung aufgebraucht, …) sind eine gute Erklärung für eine
-    hypertensive Krise. Ebenso kann es nach einer Medikamentenumstellung
+    hypertensive Krise.
+    Ebenso kann es nach einer Medikamentenumstellung
     zur Blutdruckentgleisungen kommen.
 
-``P``
+:P:
     Eine chronische arterielle Hypertonie ist oft schon bekannt und der
     Patient befindet sich deswegen bereits in Behandlung. Oft führt der
     Patient ein *Blutdruckprotokoll*.
 
-``L``
+:L:
     Wann war die letzte Medikamenteneinnahme bzw. die letzten ärztlichen
     Kontrollen?
 
-``E``
+:E:
     Gibt es Ereignisse die zu einer fehlerhaften Einnahme der
     Medikamente geführt haben können?
 
-``S``
+:S:
     Siehe ABCDE.
 
-``M``
+:M:
     Blutdrucksenkende Medikamente. Neue Verschreibungen? Einnahmefehler?
 
-``P``
+:P:
     (Chronische) arterielle Hypertonie, Blutdruckprotokoll
 
-``L``
+:L:
     Letzte Medikamenteneinnahme, letzte ärztliche Kontrollen?
 
-``E``
+:E:
     Ursachen für Einnahmefehler?
 
 
@@ -1066,8 +1089,8 @@ SAMPLER
       Kombination mit andren Medikamenten
 
    -  Kombinationspräparate: Diverse Kombinationen, oft mit Zusätzen wie
-      “Co-”, “-comb”, “-comp”, “plus” oder Zusammensetzung aus
-      Wirkstoff- bzw. Markennamen. Z.B.: Acecomb, Exforge, Fosicomb,
+      "Co-", "-comb", "-comp", "plus" oder Zusammensetzung aus
+      Wirkstoff- bzw. Markennamen. Z. B.: Acecomb, Exforge, Fosicomb,
 
 .. todo:: !!! PROCEDURE !!! MI10911C
 
@@ -1116,34 +1139,32 @@ oder der Fähigkeit des Körpers zur Kompensation erfolgen:
 
 -  Einteilung nach betroffenen *Herzteil*:
 
-   -  !!! TERMINUS DFN !!! :dfn:`` *Rechtsherzinsuffizienz*: Unzureichende Leistung
+   -  *Rechtsherzinsuffizienz*: Unzureichende Leistung
       des *rechten* Herzens. Es kommt zu einem *Rückstau* von Blut *in
       den Körperkreislauf* und in Folge zu *Beinödemen* oder gestauten
       Halsvenen.
 
-   -  !!! TERMINUS DFN !!! :dfn:`` *Linksherzinsuffizienz*: Unzureichende Leistung
+   -  *Linksherzinsuffizienz*: Unzureichende Leistung
       des *linken* Herzens. Es kommt zu einem *Rückstau* des Blutes *in
       den Lungenkreislauf*. Aufgrund der Stauung kommt es zum Austritt
       von Flüssigkeit in das Zwischengewebe und es kann ein
       lebensgefährliches *kardiales Lungenödem* entstehen. Ein typisches
-      Zeichen dafür ist ein !!! INDEX I !!! [Atemgeräusch!brodelndes -
-      bei Herzinsuffizienz]brodelndes Atemgeräusch.
+      Zeichen dafür ist ein *brodelndes Atemgeräusch*.
 
-   -  !!! TERMINUS DFN !!! :dfn:`` *Globalinsuffizienz*: Unzureichende Leistung
+   -  *Globalinsuffizienz*: Unzureichende Leistung
       beider Herzteile.
 
 -  Einteilung nach *Kompensation*: Abhängig davon, wie gut der Körper
    mit der Einschränkung zurecht kommt, unterteilt man:
 
-   -  !!! TERMINUS DFN !!! :dfn:`` *Kompensierte Herzinsuffizienz*: Der Körper hat
+   -  *Kompensierte Herzinsuffizienz*: Der Körper hat
       noch genug Reserven, kann gegensteuern (kompensieren) und kommt
       mit der eingeschränkten Herzleistung aus. Für viele Patienten ist
       sie ein *chronischer Zustand* mit dem sie gut leben können, da
       sich der Körper mit der Zeit an die abnehmende Leistungsfähigkeit
       gewöhnt.
 
-   -  !!! TERMINUS DFN !!! :dfn:`` [Dekompensierte Herzinsuffizienz]
-      *De*\ kompensierte Herzinsuffizienz: Problematisch wird es jedoch,
+   -  *De*\ kompensierte Herzinsuffizienz: Problematisch wird es jedoch,
       wenn die *Kompensationsmechanismen* (köpereigene, Medikamente, …)
       versagen oder nicht mehr ausreichen, weil der Körper aufgrund des
       Fortschreitens der Erkrankung oder aufgrund eines erhöhten Bedarfs
@@ -1157,44 +1178,46 @@ ABCDE
 -----
 
 
-``2``
+:2:
     Evtl. ist der Patient bleich bzw. blass, vielleicht auch
     kaltschweissig. Mitunter wirken die Patienten unruhig und ängstlich.
 
-``4``
-    Der Patient klagt über |symbol-RedFlag|\ Atemnot (*Dyspnoe*). Oft
+:4:
+    Der Patient klagt über |symbol-RedFlag|\  Atemnot (*Dyspnoe*). Oft
     berichten die Patienten, dass sie nur mehr im Sitzen Luft bekommen,
     sie können nicht flach liegen ( Orthopnoe [236]_).
 
-``B``
+:B:
     Die Atemfrequenz ist oft erhöht (*Tachypnoe*), oft besteht ein
-    *Hustenreiz*. Die |symbol-RedFlag|\ Sauerstoffsättigung kann
+    *Hustenreiz*. Die |symbol-RedFlag|\  Sauerstoffsättigung kann
     deutlich erniedrigt sein.
 
     Die Linksherzinsuffizienz entsteht aufgrund mangelnder
     Auswurfleistung des linken Herzens. Durch den *Rückstau von Blut in
-    den Lungenkreislauf* kann es zu einem Lungenödem bis hin zum **!!!
-    REDFLAG !!!**\ *schweren kardialen Lungenödem* kommen.
+    den Lungenkreislauf* kann es zu einem Lungenödem bis hin zum
+    |symbol-RedFlag|\  *schweren kardialen Lungenödem* kommen.
 
-``C``
+:C:
     Die Herzfrequenz ist oft erhöht (*Tachykardie*). Grundsätzlich ist
-    der Blutdruck vermindert (*Hypotonie*). Allerdings kann ein erhöhter
+    der Blutdruck vermindert (*Hypotonie*).
+    Allerdings kann ein erhöhter
     Blutdruck bei einer Blutdruckkrise (*Hypertonie*, *hypertensive
-    Krise* ([topic-hypertensive-krise]), *hypertensiver Notfall*
-    ([topic-hypertensiver-notfall])) der eigentliche *Auslöser* einer
-    Herzinsuffizenz sein. Der Blutdruck kann dann natürlich erhöht sein.
-    Es können Zeichen eines |symbol-RedFlag|\ kardiogenen Schocks
+    Krise* (:ref:`topic-hypertensive-krise`), *hypertensiver Notfall*
+    (:ref:`topic-hypertensiver-notfall`)) der eigentliche *Auslöser* einer
+    Herzinsuffizenz sein.
+    Der Blutdruck kann dann natürlich erhöht sein.
+    Es können Zeichen eines |symbol-RedFlag|\  kardiogenen Schocks
     auftreten ([topic-schock-kardiogener]).
 
-``…``
+:…:
     Bei der Rechtsherzinsuffizienz kommt es zu einem Rückstau des Blutes
     in den Körperkreislauf und damit zu Ödemen (Beine, …) und gestauten
     Halsvenen. Die Patienten müssen häufig nachts urinieren. Über
     längere Zeit kann sich die Leber vergrößern und ein sog.
-    “Wasserbauch” ( Aszites) bilden, dabei wird durch den Rückstau
+    "Wasserbauch" (Aszites) bilden, dabei wird durch den Rückstau
     Wasser in den freien Bauchraum abgepresst.
 
-**=**
+:=:
     Es ist wichtig, den Schweregrad und die Kompensation einer
     Herzinsuffizienz zu beurteilen. Man muss die Symptome generell
     *anhand ihres Verlaufs beurteilen*: Bekannte, seit längerer Zeit
@@ -1202,38 +1225,39 @@ ABCDE
     auftretende Symptome.
 
     Kritisch sind plötzlich auftretende Symptome, inbesonders ist hier
-    die |symbol-RedFlag|\ *Atemnot* zu nennen, weiters eine **!!!
-    REDFLAG !!!**\ *niedrige Sauerstoffsättigung* oder Zeichen eines
-    |symbol-RedFlag|\ *kardiogenen Schocks*.
+    die |symbol-RedFlag|\  *Atemnot* zu nennen,
+    weiters eine |symbol-RedFlag|\  *niedrige Sauerstoffsättigung* oder Zeichen eines
+    |symbol-RedFlag|\  *kardiogenen Schocks*.
 
-    Eine besonders kritische Komplikation ist das **!!! REDFLAG
-    !!!**\ kardiale *Lungenödem*. Wenn es sehr stark ausgeprägt ist,
-    kann man es mit freiem Ohr hören (*“brodelndes Atemgeräusch”*).
+    Eine besonders kritische Komplikation ist das |symbol-RedFlag|\
+    kardiale *Lungenödem*.
+    Wenn es sehr stark ausgeprägt ist, 
+    kann man es mit freiem Ohr hören (*"brodelndes Atemgeräusch"*).
     Diese Patienten sind als besonders kritisch einzuschätzen, sie sind
     *lebensbedrohlich* krank. Das Herz verbraucht oft die allerletzten
     Reserven, schon die Aufregung durch den Transport im Stiegenhaus zum
     Auto kann das Herz endgültig in den Herz-Kreislaufstillstand
     bringen. Es kommt immer wieder vor, dass solche Patienten im
     Stiegenhaus oder im Auto reanimationspflichtig werden. Siehe
-    [topic-lungenoedem].
+    :ref:`topic-lungenoedem`.
 
-``2``
+:2:
     Blass, evtl. kaltschweißig. Evtl. agitiert
 
-``4``
-    *Dyspnoe*, besonders im Liegen → Sitzende
+:4:
+    *Dyspnoe*, besonders im Liegen :math:`\rightarrow` Sitzende
     Position!
 
-    Evtl. |symbol-RedFlag|\ schweres kardiales Lungenödem
+    Evtl. |symbol-RedFlag|\  schweres kardiales Lungenödem
 
-``B``
-    *Tachypnoe*, |symbol-RedFlag|\ Dyspnoe
+:B:
+    *Tachypnoe*, |symbol-RedFlag|\  Dyspnoe
 
-``C``
+:C:
     *Tachykardie*, *Hypotonie* oder *Hypertonie* (RR kann Auslöser
-    sein). Evtl. Zeichen eines |symbol-RedFlag|\ kardiogenen Schocks
+    sein). Evtl. Zeichen eines |symbol-RedFlag|\   kardiogenen Schocks
 
-``…``
+**…**
     -  Lungenödem
 
     -  Bein-/*Hautödeme*
@@ -1242,7 +1266,7 @@ ABCDE
 
     -  Nächtliches Wasserlassen
 
-**=**
+:=:
     -  Chronisch: oft Gewöhnungseffekte, Kompensation
 
     -  Dekompensation: Plötzlich neu auftretende Symptome, evtl.
@@ -1256,30 +1280,30 @@ ABCDE
 SAMPLER
 -------
 
-``S``
+:S:
     Es werden meist viele Medikamente genommen, sowohl für die
     Herzinsuffizienz, als auch für die Begleiterkrankungen.
 
-``P``
+:P:
     Die Herzinsuffizienz ist als chronische Erkrankung bekannt,
     entsprechende Befunde vorhanden. Oft bestehen Erkrankungen oder gab
-    es Ereignisse, welche den Herzmuskel geschädigt haben, wie z.B.
+    es Ereignisse, welche den Herzmuskel geschädigt haben, wie z. B.
     diverse Herzerkrankungen, frühere Herzinfarkte, Bluthochdruck, u.a.
 
-``R``
+:R:
     Auslöser für akute Beschwerden können alle Umstände sein, welche vom
-    Herz eine ungewohnte Mehrarbeit erfordern: Darunter fallen z.B.
+    Herz eine ungewohnte Mehrarbeit erfordern: Darunter fallen z. B.
     Infektionen und andere Erkankungen, Stress und ein plötzlicher
     Blutdruckanstieg.
 
-``S``
+:S:
     Viele
 
-``P``
+:P:
     | Herzinsuffizienz bereits bekannt,
     | Befunde, Bluthochdruck, Herzerkrankungen, frühere Herzinfarkte
 
-``R``
+:R:
     Ungewohnte Belastung: Infekte, Erkrankungen, Blutdruckanstieg
 
 .. todo:: !!! PROCEDURE !!! MI50090C
@@ -1306,13 +1330,13 @@ Beschreibung
 
 .. sidebar:: Beschreibung
 
-    -  Erkrankung der Herzkranzgefäße → Verengung
+    -  Erkrankung der Herzkranzgefäße :math:`\rightarrow` Verengung
 
     -  Koronare Herzkrankheit (KHK, chronisch)
 
     -  Akutes Koronarsyndrom (ACS, akut)
 
-    -  Symptomenkomplex, z.B. bei:
+    -  Symptomenkomplex, z. B. bei:
 
         -  Angina pectoris
 
@@ -1349,19 +1373,18 @@ Herzkrankheit.  [238]_ [239]_
    welcher typischerweise bei Erkrankungen wie dem *Herzinfarkt* und der
    *stabilen* oder *instabilen Angina pectoris* auftritt. Daneben gibt
    es noch andere Erkrankungen, welche sich von den vorgenannten
-   entweder durch die Pathogenese (z.B. *Prinzmetal-Angina*) oder durch
-   den Pathomechanismus (z.B. *Tako-Tsubo-Kardiopathie*) wesentlich
+   entweder durch die Pathogenese (z. B. *Prinzmetal-Angina*) oder durch
+   den Pathomechanismus (z. B. *Tako-Tsubo-Kardiopathie*) wesentlich
    unterscheiden.
 
 .. [239]
    Koronare Herzkrankheit: Eine koronare Herzkrankheit ist oft
    anamnestisch bereits bekannt. Ein Hinweis kann auch die Einnahme von
-   ASS-Präparaten (z.B. ThromboASS, HerzschutzASS, …) oder ein
+   ASS-Präparaten (z. B. ThromboASS, HerzschutzASS, …) oder ein
    Stent-Ausweis sein. Je nachdem welche Koronargefäße betroffen sind,
    spricht man auch von einer 1-, 2- oder 3-Gefäßerkrankung (*engl.* 1-,
    2-, 3-Vessel-Disease; bzw. *Abkz.* 1-, 2.-, 3.-VD).
 
-.. todo:: !!! PICTURESERIESWIDE !!!Bilderserie: !!! PICTURESERIESROWWIDE !!! 3
 
 .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.jpg
 
@@ -1374,7 +1397,7 @@ Herzkrankheit.  [238]_ [239]_
     Katheter eingebracht und bis knapp vor das Herz zu den Abgängen der
     Koronargefäße aus der Aorta vorgeschoben. Anschließend wird ein
     Kontrastmittel appliziert um die Gefäße mittels Röntgen sichtbar zu
-    machen. !!! SOURCEPICTURE !!! *WmCo “Bionerd”, CC-BY-3.0* 
+    machen. !!! SOURCEPICTURE !!! *WmCo "Bionerd", CC-BY-3.0* 
 
 .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.jpg
 
@@ -1401,8 +1424,8 @@ Akutes Koronarsyndrom
 Da bei Behandlungsbeginn oft nicht klar ist, ob es sich um einen
 Herzinfarkt oder einen Angina-pectoris-Anfall handelt, wird bei
 Vorliegen der entsprechenden Symptome (Atemnot, Thoraxschmerz,
-Engegefühl im Thorax, Todesangst, …) einfach vom !!! TERMINUS DFN !!! :dfn:``
-*Akuten Koronarsyndrom*\  [240]_ gesprochen.
+Engegefühl im Thorax, Todesangst, …) einfach vom
+:dfn:`Akuten Koronarsyndrom`\  [240]_ gesprochen.
 
 
 .. [240]
@@ -1414,8 +1437,7 @@ mehrerer *Einengung(en) von Herzkranzgefäßen* (Koronararterien) die
 Ursache sein, oder es kommt zu einem *erhöhtem Sauerstoffbedarf* des
 Herzens bei Anstrengung. In beiden Fällen kommt es zu einem
 *Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf* des
-Herzens (!!! INDEX I !!! [Ischämie!Angina pectoris]Ischämie,
-[topic-ischaemie]), die Folge sind Schmerzen, Atemnot und ein
+Herzens (Ischämie), die Folge sind Schmerzen, Atemnot und ein
 Leistungsverlust!
 
 
@@ -1435,19 +1457,19 @@ ABCDE
         Leidend, evtl. kaltschweißig, blass
 
     :4:
-        |symbol-RedFlag|\ *Akuter, nicht atemabhängiger, Brustschmerz*
+        |symbol-RedFlag|\  *Akuter, nicht atemabhängiger, Brustschmerz*
         (brennend, stechend; Hinter dem Brustbein, evtl. *Ausstrahlung* in
-        Kiefer, (linken) Arm, in Rücken) und |symbol-RedFlag|\ *Atemnot*,
+        Kiefer, (linken) Arm, in Rücken) und |symbol-RedFlag|\  *Atemnot*,
         oft *Enge-* bzw. *Druckgefühl*, Todesangst
 
-        Typisch untypisch: *Oberbauchschmerz*; “stummer Infarkt”
+        Typisch untypisch: *Oberbauchschmerz*; "stummer Infarkt"
 
     :B:
-        |symbol-RedFlag|\ *Atemnot*, evtl. |symbol-RedFlag|\ Zyanose
+        |symbol-RedFlag|\  *Atemnot*, evtl. |symbol-RedFlag|\  Zyanose
 
     :C:
         Puls evtl. unregelmäßig, Blutdruck in jede Richtung verändert, evtl.
-        Zeichen eines |symbol-RedFlag|\ kardiogenen Schocks
+        Zeichen eines |symbol-RedFlag|\  kardiogenen Schocks
 
     :E:
         EKG (im Verlauf)!
@@ -1457,37 +1479,37 @@ ABCDE
 
 :3:
     Der Patient macht oft einen leidenden Eindruck, eventuell ist er
-    |symbol-RedFlag|\ kaltschweißig und blass.
+    |symbol-RedFlag|\  kaltschweißig und blass.
 
 :4:
-    Die Leitsymptome sind ein |symbol-RedFlag|\ *akuter, nicht
-    atemabhängiger, Brustschmerz* und |symbol-RedFlag|\ *Atemnot*
+    Die Leitsymptome sind ein |symbol-RedFlag|\  *akuter, nicht
+    atemabhängiger, Brustschmerz* und |symbol-RedFlag|\  *Atemnot*
     (*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert
     und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in
     den Rücken. Der Schmerz wird als brennend bzw. stechend beschrieben.
     Zusätzlich zu dem Schmerz verspürt der Patient auch oft ein *Enge-*
-    bzw. *Druckgefühl* im Brustkorb, *“als würde jemand darauf stehen”*.
+    bzw. *Druckgefühl* im Brustkorb, *"als würde jemand darauf stehen"*.
     Unter Umständen kann es auch zu einem *Oberbauchschmerz* kommen,
     welcher als Verdauungsstörung oder Magen-Darm-Erkrankung
     fehlgedeutet werden kann.
 
     Bei Diabetikern kann es aufgrund der Nervenschädigungen auch zu
-    einem schmerzlosen Verlauf kommen, man spricht dabei auch vom “!!!
-    TERMINUS !!! [stummer Infarkt]stummen Infarkt”. *Todesangst und
-    Vernichtungsgefühl* sind häufig. Bei Auftreten eines *kardiogenen
+    einem schmerzlosen Verlauf kommen, man spricht dabei auch vom
+    *"stummen Infarkt"*.
+    *Todesangst und Vernichtungsgefühl* sind häufig. Bei Auftreten eines *kardiogenen
     Schocks* können die entsprechenden Schockzeichen beobachtet werden:
     Blässe, Kaltschweißigkeit, Hypotonie, etc.
-    ([topic-schock-kardiogener]).
+    (:ref:`topic-schock-kardiogener`).
 
 :B:
-    |symbol-RedFlag|\ *Atemnot* kommt häufig vor und ist ein
+    |symbol-RedFlag|\  *Atemnot* kommt häufig vor und ist ein
     Leitsymptom. Begleitend kann man oft eine Zyanose beobachten.
 
 :C:
-    Der Puls kann unregelmäßig sein. Der Blutdruck kann in jede Richtung
-    verändert sein. Bedenke: Ein hypertensiver Notfall kann Auslöser
-    eines ACS sein. Es können Zeichen eines **!!! REDFLAG
-    !!!**\ *kardiogenen Schocks* vorliegen.
+    Der Puls kann unregelmäßig sein.
+    Der Blutdruck kann in jede Richtung verändert sein.
+    Bedenke: Ein hypertensiver Notfall kann Auslöser eines ACS sein.
+    Es können Zeichen eines |symbol-RedFlag|\  *kardiogenen Schocks* vorliegen.
 
 :E:
     Das EKG kann wichtige Hinweise über Ausdehnung, Alter und
@@ -1498,7 +1520,7 @@ ABCDE
     vorbehalten.
 
 :=:
-    Ein Patient mit einem |symbol-RedFlag|\ akuten Koronarsyndrom ist
+    Ein Patient mit einem |symbol-RedFlag|\  akuten Koronarsyndrom ist
     grundsätzlich als vital bedroht einzuschätzen. Eine ärztliche
     Diagnose ist auch hinsichtlich der Auswahl des richtigen
     Transportziel (Herzkatheterlabor?) entscheidend.
@@ -1526,10 +1548,10 @@ SAMPLER beim akuten Koronarsyndrom
     Siehe ABCDE
 
 :M:
-    !!! II !!! **Nitroglycerin** wird zur Erweiterung der Koronargefäße
+    **Nitroglycerin** wird zur Erweiterung der Koronargefäße
     von KHK-Patienten eingenommen. Dies kann entweder mittels eines
     Pflasters (Nitro-Pflaster), über Kapseln oder mittels eines Sprays
-    (z.B. *Nitrolingual*), welcher bei Bedarf eingenommen wird,
+    (z. B. *Nitrolingual*), welcher bei Bedarf eingenommen wird,
     erfolgen. Herzkranke Patienten nehmen daneben oft noch viele andere
     Medikamente ein.
 
@@ -1564,7 +1586,6 @@ Koronarsyndroms*. Dazu gehört auch der Herzinfarkt, dem der gleiche
 Mechanismus wie der Angina Pectoris zu Grunde liegt, wobei es beim
 Infarkt im *Gegensatz* zur Angina pectoris zu einem *totalen*
 Herzkranzgefäß\ *verschluss* mit Absterben von Herzmuskelgewebe kommt.
-``!!! A !!!KOCH: nein; GABS: Doch. ``
 
 Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf
 
@@ -1576,6 +1597,12 @@ Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf
    bei Entspannung
 
 -  Primär *nicht sicher vom Herzinfarkt unterscheidbar*
+
+.. _topic-herzinfarkt:
+
+.. _topic-myocardinfarkt:
+
+.. _topic-mci:
 
 Herzinfarkt
 -----------
@@ -1589,25 +1616,36 @@ Herzinfarkt
 
     -  Symptome eines *ACS*
 
-[topic-herzinfarkt] [topic-myocardinfarkt] [topic-mci]
 
-**Verschluss eines oder mehrerer Herzkranzgefäße mit anschließendem
-Absterben des betroffenen Herzmuskelgewebes (!!! INDEX I !!!
-[Ischämie!Herzinfarkt]Ischämie, [topic-ischaemie]).** Die Symptome
-entsprechen denen des akuten Koronarsyndroms, doch vergehen diese nicht
+
+Verschluss eines oder mehrerer Herzkranzgefäße mit anschließendem
+Absterben des betroffenen Herzmuskelgewebes (Ischämie,
+:ref:`topic-ischaemie`).
+Die Symptome entsprechen denen des akuten Koronarsyndroms, doch vergehen diese nicht
 mehr und es bleiben – selbst bei optimaler Behandlung – Schäden am
 Herzmuskel bestehen.
 
-!!! PICTURESERIESWIDE !!!Bilderserie: !!! PICTURESERIESROWWIDE !!! 3
-|image| Das Herz im Querschnitt, gesehen von unten: Links der rechte
-Ventrikel, rechts der muskelstarke linke Ventrikel. !!! SOURCEPICTURE
-!!! *Patrick Lynch, CC-BY* |image| Ischämisches Herzmuskelgewebe … !!!
-SOURCEPICTURE !!! *Patrick J. Lynch, medical illustrator; C. Carl Jaffe,
-MD, cardiologist; CC-BY 2.5* |image| … stirbt nach einger Zeit ab, es
-bildet sich eine (funktionslose) Narbe, die Herzleistung ist in Folge
-beeinträchtigt. !!! SOURCEPICTURE !!! *Patrick J. Lynch, medical
-illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5* empty !!!
-PICTURESERIESWIDE !!!
+
+.. figure:: /Bilder/WikipediaCcBySa/Heart_normal_short_axis_section-00640.*
+
+          Das Herz im Querschnitt, gesehen von unten: Links der rechte
+          Ventrikel, rechts der muskelstarke linke Ventrikel.
+          
+          [Patrick Lynch, CC-BY]
+
+.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_infarct-00640.*
+
+          Ischämisches Herzmuskelgewebe ...
+          
+          [Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5]
+
+.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.*
+
+          stirbt nach einger Zeit ab, es
+          bildet sich eine (funktionslose) Narbe, die Herzleistung ist in Folge
+          beeinträchtigt.
+
+          [Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5]
 
 -  *Herzrhythmusstörungen* (alle Arten), bis hin zum Kreislaufstillstand
    und zur Reanimationspflichtigkeit. Besonders häufig kommt es als
@@ -1622,11 +1660,12 @@ PICTURESERIESWIDE !!!
 
 -  Kammerflimmern als Frühkomplikation häufig!
 
-!!! PICTUREWIDE !!!
+.. figure:: /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.*
 
-Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre
-Tachykardie, sind häufige Komplikationen eines
-HerzinfarktesWMPD\ |image|
+          Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre
+          Tachykardie, sind häufige Komplikationen eines Herzinfarktes
+
+          WMPD
 
 .. todo:: !!! PROCEDURE !!! MI20091C
 
@@ -1647,13 +1686,14 @@ normalerweise nicht auf eine beliebige Internistische Station gebracht
 einer Lyse-Therapie und der Einweisung in ein Herzkatheterlabor
 entscheiden.
 
--  Bei der !!! II !!! **Lyse-Therapie** versucht man mittels eines
+-  Bei der **Lyse-Therapie** versucht man mittels eines
    speziellen Medikaments eine Verstopfung aufzulösen.
 
 -  Mit einem *Herzkatheter* versucht man die verengten oder verstopften
-   Gefäße aufzudehnen. Dazu benötigt man ein Spital, welches über ein
-   entsprechend ausgestattetes und *dienstbereites* !!! TERMINUS DFN !!! :dfn:``
-   *Herzkatheterlabor* verfügt. [241]_
+   Gefäße aufzudehnen.
+   Dazu benötigt man ein Spital,
+   welches über ein entsprechend ausgestattetes
+   und *dienstbereites Herzkatheterlabor* verfügt. [241]_
 
 
 .. [241]
@@ -1674,14 +1714,14 @@ entscheiden.
    das Gefäß dient und dieses längerfristig offen halten soll. Vgl.
    (Dietel, Suttorp, and Zeitz 2012a; Dietel, Suttorp, and Zeitz 2012e)
 
-!!! LITERARY !!! (Gèneve, n.d.)
+.. todo:: !!! LITERARY !!! (Gèneve, n.d.)
 
-(Weibel, n.d.)
+          (Weibel, n.d.)
 
-(Hans-Richard Arntz et al. 2010)
+          (Hans-Richard Arntz et al. 2010)
 
-Sowie: (Dietel, Suttorp, and Zeitz 2012d; Dietel, Suttorp, and Zeitz
-2012c; Dietel, Suttorp, and Zeitz 2012f) !!! LITERARY !!!
+          Sowie: (Dietel, Suttorp, and Zeitz 2012d; Dietel, Suttorp, and Zeitz
+          2012c; Dietel, Suttorp, and Zeitz 2012f) !!! LITERARY !!!
 
 Herzrhythmusstörungen
 =====================
@@ -1691,7 +1731,7 @@ unterschiedlich in ihrer Bedeutung: Manche sind chronisch und eher wenig
 gefährlich, andere können plötzlich auftreten und sogar akut
 lebensbedrohlich sein. Rhythmusstörungen können sowohl selber das
 Problem darstellen, als auch *als Komplikationen* im Rahmen anderer
-Krankheitsbilder (z.B. Herzinfarkt, etc.) auftreten.
+Krankheitsbilder (z. B. Herzinfarkt, etc.) auftreten.
 
 Arten von Herzrhythmusstörungen
 -------------------------------
@@ -1716,7 +1756,7 @@ halbautomatischer Defibrillator (AED) erledigt dies automatisch, er
 zeichnet die elektrischen Herzströme auf und beurteilt diese.
 
 Im Rahmen von Herzrhythmusstörungen kann es zu einer *Entkoppelung der
-elektrischen und der mechanischen Herzaktion* kommen, z.B. wenn nicht
+elektrischen und der mechanischen Herzaktion* kommen, z. B. wenn nicht
 jedem elektrischen Impuls ein Herzschlag folgt.
 
 Entkoppelung von elektrischer und der mechanischer Herzaktion möglich!
@@ -1724,14 +1764,12 @@ Entkoppelung von elektrischer und der mechanischer Herzaktion möglich!
 Hier zählt die Geschwindigkeit: Tachy- und Bradykardie
 ------------------------------------------------------
 
--  !!! II !!! **Bradykardie**: Langsamer Herzschlag (HF < 60!!! NICEFRAC
-   !!! min (beim Erwachsenen))
+-  **Bradykardie**: Langsamer Herzschlag (HF < 60 / min (beim Erwachsenen))
 
    Leistungssportler können aufgrund ihres trainierten Körpers auch sehr
    niedrige Ruhepulsfrequenzen haben.
 
--  !!! II !!! **Tachykardie**: Schneller Herzschlag (HF > 100!!!
-   NICEFRAC !!! min (beim Erwachsenen))
+-  **Tachykardie**: Schneller Herzschlag (HF > 100 / min (beim Erwachsenen))
 
 Bei der Beurteilung der Herzfrequenz muss auch immer an die Umstände
 (Ruhe, Belastung, …) und an den Erregungszustand des Patienten gedacht
@@ -1741,23 +1779,23 @@ werden!
 
 -  Tachykardie  zu schnell
 
-!!! TABELLE WEIT Wichtige Herzrhythmusstörungen AASS
+.. todo:: !!! TABELLE WEIT Wichtige Herzrhythmusstörungen AASS
 
 [tab:herzrhythmusstoerungen-wichtige][tab:herzrhythmusstoerungen]
 
 | lll **Rhythmus** & **Bedeutung** & **Bemerkung**
 | *Bradykardie*
 
-| (HF<60/min) & Situationsabhängig & *“zu langsam”*
+| (HF<60/min) & Situationsabhängig & *"zu langsam"*
 | *Tachykardie*
 
-| (HF>100/min) & Situationsabhängig & *“zu schnell”*
-| *Kammerflimmern* & Reanimation & *“schockbarer”* Rhythmus
-| *Pulslose Ventrikuläre Tachykardie* & Reanimation & *“schockbarer”*
+| (HF>100/min) & Situationsabhängig & *"zu schnell"*
+| *Kammerflimmern* & Reanimation & *"schockbarer"* Rhythmus
+| *Pulslose Ventrikuläre Tachykardie* & Reanimation & *"schockbarer"*
   Rhythmus
 | *Asystolie*
 
-| (HF=0) & Reanimation & Nulllinie, *“nicht-schockbarer”* Rhythmus
+| (HF=0) & Reanimation & Nulllinie, *"nicht-schockbarer"* Rhythmus
 | *Vorhofflimmern* & regellose Erregung im Vorhof
 
 oft symptomlos & *Chronische Erkrankung.* Sehr viele Leute haben
@@ -1769,36 +1807,40 @@ Risikofaktor für:
 
 | *Thrombenbildung*, dadurch erhöhtes Lungenembolie- und
   Schlaganfallrisiko. Deshalb Vorbeugung mit gerinnungshemmenden
-  (“blutverdünnenden”) Medikamenten (z.B. Marcoumar)
-  → Patient ist blutungsgefährdet
-| *Extrasystole* & Extraschläge & Vereinzelt bis “Salven” möglich
+  ("blutverdünnenden") Medikamenten (z. B. Marcoumar)
+  :math:`{\rightarrow}` Patient ist blutungsgefährdet
+| *Extrasystole* & Extraschläge & Vereinzelt bis "Salven" möglich
 
 | Von symptom-/bedeutungslos bis lebensbedrohlich
 
 Besondere Rhythmen
 ------------------
 
+.. _topic-pulslose-ventrikulaere-tachykardie:
+.. _topic-kammerflimmern:
+.. _topic-asystolie:
+
 Reanimationspflichtige Rhythmusstörungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
  
 
--  !!! TERMINUS DFN !!! :dfn:`` *Pulslose Ventrikuläre Tachykardie* (*pVT*):
-   [topic-pulslose-ventrikulaere-tachykardie] Vorstufe zum
+-  *Pulslose Ventrikuläre Tachykardie* (*pVT*):
+   Vorstufe zum
    Kammerflimmern. Das Herz kontrahiert so schnell, dass es sich nicht
-   mehr füllen kann → *keine Auswurfleistung*.
+   mehr füllen kann :math:`{\rightarrow}` *keine Auswurfleistung*.
 
--  !!! TERMINUS DFN !!! :dfn:`` *Kammerflimmern* (*AF*): [topic-kammerflimmern] Die
+-  *Kammerflimmern* (*AF*): Die
    elektrische Erregung im Herzen ist ungerichtet, dadurch kontrahiert
    der Herzmuskel nicht mehr geordnet, er kommt nur noch zu einem
    Zittern *ohne nennenswerte Auswurfleistung*! (Kammerflimmern darf
    nicht mit Vorhofflimmern verwechselt werden!)
 
--  !!! TERMINUS DFN !!! :dfn:`` *Asystolie*: [topic-asystolie] Im Herz entsteht
+-  *Asystolie*: Im Herz entsteht
    keine elektrische Erregung, der Herzmuskel kontrahiert daher auch
    nicht und es erfolgt keine Auswurfleistung
 
--  !!! TERMINUS DFN !!! :dfn:`` *Pulslose elektrische Aktivität* (*PEA*): Bei der
+-  *Pulslose elektrische Aktivität* (*PEA*): Bei der
    pulslosen elektrischen Aktivität ist die Herzaktion von der
    elektrischen Aktivität *entkoppelt*, d.h. das Herz reagiert nicht auf
    die Impulse des Reizleitungssystems. Der EKG-Befund kann zwar
@@ -1807,11 +1849,11 @@ Reanimationspflichtige Rhythmusstörungen
 
 -  Pulslose Ventrikuläre Tachykardie
 
-   -  Keine Zeit zum Füllen → kein Auswurf
+   -  Keine Zeit zum Füllen :math:`{\rightarrow}` kein Auswurf
 
 -  Kammerflimmern
 
-   -  Wirre Erregung, keine sinnvolle Muskelarbeit →
+   -  Wirre Erregung, keine sinnvolle Muskelarbeit :math:`{\rightarrow}`
       kein Auswurf.
 
 -  Asystolie
@@ -1822,14 +1864,15 @@ Reanimationspflichtige Rhythmusstörungen
 
    -  Entkoppelung von Herzschlag und Impulsen des Reizleitungssystems
 
-!!! PICTUREWIDE !!!
+.. todo:: !!! PICTUREWIDE !!! Unauffälliger EKG-BefundWMPD\ 
 
-Unauffälliger EKG-BefundWMPD\ |image|
+
+.. _topic-vorhofflimmern:
 
 Vorhofflimmern
 ^^^^^^^^^^^^^^
 
-[topic-vorhofflimmern] Regellose Erregung im *Vorhof*, die oft
+Regellose Erregung im *Vorhof*, die oft
 symptomlos ist. (Die Herzkammern arbeiten dabei normal!) Vorhofflimmern
 kann ständig bestehen oder auch nur manchmal (episodenhaft) auftreten.
 Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
@@ -1841,16 +1884,15 @@ Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
    für:
 
    -  Arterielle Gefäßverschlüsse
-      ([topic-arterieller-gefaessverschluss])
+      (:ref:`topic-arterieller-gefaessverschluss`)
 
-   -  Schlaganfälle ([topic-insult])
+   -  Schlaganfälle (:ref:`topic-insult`)
 
-   -  Mesenterialinfarkte ([topic-mesenterialinfarkt])
+   -  Mesenterialinfarkte (:ref:`topic-mesenterialinfarkt`)
 
    Daher werden diesen Patienten meist *gerinnungshemmende*
-   (“blutverdünnenden”) Medikamente zur Vorbeugung verschrieben (z.B.
-   !!! INDEX I !!! [Marcoumar!Vorhofflimmern]Marcoumar, der Patient ist
-   blutungsgefährdet)
+   ("blutverdünnenden") Medikamente zur Vorbeugung verschrieben (z. B.
+   *Marcoumar*, der Patient ist blutungsgefährdet)
 
 -  Flimmern im *Vorhof*
 
@@ -1860,12 +1902,15 @@ Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
 
 -  Oft *gerinnngshemmende Medikamente*
 
+.. _topic-extrasystolen:
+   
 Extrasystolen
 ^^^^^^^^^^^^^
 
- [topic-extrasystolen] Extrasystolen sind “Extraschläge” des Herzens,
-sie können vereinzelt oder gehäuft auftreten, eventuell auch
-“salvenartig”. Je nach Häufigkeit haben Extrasystolen unterschiedliche
+Extrasystolen sind "Extraschläge" des Herzens,
+sie können vereinzelt oder gehäuft auftreten,
+eventuell auch "salvenartig".
+Je nach Häufigkeit haben Extrasystolen unterschiedliche
 Auswirkungen auf den Kreislauf und können symptom- bzw. bedeutungslos
 sein, oder auch Beschwerden verursachen. Wenn die Extrasystolen die
 normale Herzpumpfunktion massiv stören, können Sie auch lebensbedrohlich
@@ -1873,7 +1918,7 @@ sein.
 
 -  Extraschläge
 
--  Vereinzelt od. gehäuft, evtl. “salvenartig”
+-  Vereinzelt od. gehäuft, evtl. "salvenartig"
 
 -  Unterschiedliche Auswirkungen auf Kreislauf: symptomlos bis
    lebensbedrohlich möglich
@@ -1884,9 +1929,11 @@ Tachykarde Attacke
 Beschreibung
 ^^^^^^^^^^^^
 
-**Plötzliche Tachykardie ohne erkennbare Ursache, wobei der Patient
-(meistens) Symptome wahrnimmt und eine Herzfrequenz um bzw. über 160/min
-vorliegt.** Tachykarde Attacken sind ein häufiges Notfallbild. Oft sind
+Plötzliche Tachykardie ohne erkennbare Ursache, wobei der Patient
+(meistens) Symptome wahrnimmt und eine Herzfrequenz um bzw. über 160 / min
+vorliegt.
+
+Tachykarde Attacken sind ein häufiges Notfallbild. Oft sind
 chronische Erkrankungen die Ursache, diese können jedoch sehr
 unterschiedlich sein und sind auch vom Fachmann bei weiterführenden
 Untersuchungen oft nicht leicht zu ermitteln.
@@ -1896,51 +1943,51 @@ Untersuchungen oft nicht leicht zu ermitteln.
 ABCDE
 ^^^^^
 
-``B``
-    |symbol-RedFlag|\ Dyspnoe kann in Folge der kardialen
+:B:
+    |symbol-RedFlag|\  Dyspnoe kann in Folge der kardialen
     Mehrbelastung auftreten
 
-``C``
+:C:
     Es liegt eine *Tachykardie* vor. Der Puls ist i.d.R. hoch, meist
-    |symbol-RedFlag|\ über 160/min und evtl. nur schwach tastbar. Der
+    |symbol-RedFlag|\  über 160/min und evtl. nur schwach tastbar. Der
     Patient kann bei mangelnder Herzauswurfleistung **!!! REDFLAG
     !!!**\ kreislaufinsuffizient werden und einen **!!! REDFLAG
     !!!**\ kardiogenen Schock entwickeln. Im Extremfall ist auch ein
-    |symbol-RedFlag|\ Kreislaufstillstand möglich.
+    |symbol-RedFlag|\  Kreislaufstillstand möglich.
 
-``B``
-    Evtl. |symbol-RedFlag|\ Dyspnoe
+:B:
+    Evtl. |symbol-RedFlag|\  Dyspnoe
 
-``C``
-    Tachykardie |symbol-RedFlag|\ :math:`\geq`\ 160/min, Puls evtl.
+:C:
+    Tachykardie |symbol-RedFlag|\  :math:`\geq`\ 160/min, Puls evtl.
     schwach tastbar;
 
-    Evtl. |symbol-RedFlag|\ Kreislaufinsuffizienz, **!!! REDFLAG
-    !!!**\ kardiogener Schock, |symbol-RedFlag|\ Kreislaufstillstand
+    Evtl. |symbol-RedFlag|\  Kreislaufinsuffizienz, **!!! REDFLAG
+    !!!**\ kardiogener Schock, |symbol-RedFlag|\  Kreislaufstillstand
 
 SAMPLER
 ^^^^^^^
 
-``S``
+:S:
     Das Leitsymptom ist die *Tachykardie* vor. Der Patient klagt oft
-    über ein *“Herzklopfen”* und ist unruhig. Manchmal wird der Anfall
+    über ein *"Herzklopfen"* und ist unruhig. Manchmal wird der Anfall
     von Angstgefühlen begleitet.
 
     Oft kommen *Begleitsymptome* dazu, wie zum Beispiel Atemnot oder ein
     leichter Brustschmerz. Dies sind erste Zeichen, dass das Herz an die
     Grenze seiner Belastbarkeit stößt.
 
-``M``
+:M:
     Viele Patienten, bei denen Rhythmusstörungen bekannt sind nehmen
     entsprechende Medikamente (Antiarrhythmika). Bei manchen
     Rhythmusstörungen ist es üblich, dem Patienten bestimmte Medikamente
     zu verschreiben, welche er im Anfall nehmen soll um diesen zu
-    beenden (“pill in the pocket”). Das Erheben der tatsächlich
+    beenden ("pill in the pocket"). Das Erheben der tatsächlich
     eingenommenen sowie der verschriebenen Medikamente ist sehr wichtig,
     da diese Informationen des weiteren Behandlungsverlauf stark
     beeinflusst!
 
-``P``
+:P:
     Eine große Rolle spielt die *Anamnese*: Da oft chronische
     Erkrankungen die Ursache sind, haben die Patienten diese Attacken
     immer wieder und kennen die Symptome bereits (und oft auch deren
@@ -1948,32 +1995,32 @@ SAMPLER
     seit langem bekannt und es gibt bereits entsprechende *Arztbriefe*
     oder *Befunde*.
 
-``L``
+:L:
     Bei regelmäßig wiederkehrenden Beschwerden sind Informationen über
     die vorherigen Episoden einzuholen.
 
-``E``
+:E:
     Die Ereignisse sind genau zu erfragen und zu dokumentieren,
     eventuell ergibt sich dadurch eine Spur zum auslösenden Faktor.
 
-``S``
+:S:
     -  Tachykardie :math:`\geq`\ 160/min
 
     -  Spürbares Herzklopfen
 
     -  Evtl. Atemnot, leichter Brustschmerz, Angstgefühl
 
-``M``
-     Antiarrhythmika. Eingenommene und verschriebene Medikamente
+:M:
+    Antiarrhythmika. Eingenommene und verschriebene Medikamente
     unbedingt sorgfältig erheben!
 
-``P``
+:P:
     Oft vorbekannte Erkrankung(en); Arztbriefe und Befunde!
 
-``L``
+:L:
     Frühere Episoden?
 
-``E``
+:E:
     Genau erfragen und dokumentieren!
 
 Gefahr
@@ -1992,8 +2039,8 @@ Da das *Herz plötzlich viel mehr Arbeit leisten muss*, kann es sein,
 dass es an seine *Grenzen* stößt und *versagt* bzw. die Blutversorgung
 des Herzens für diese Arbeit nicht mehr reicht und ein
 Angina-pectoris-Anfall oder sogar ein
-Herzinfarkt\ ``!!! A !!! KOCH: passt mit der Definition MCI nicht überein, AP wäre besser oder? GABS: AP dazugenommen, Infarkt aber gut möglich. ``
-ausgelöst wird. Weiters kann die Rhytmusstörung in eine andere, akut
+Herzinfarkt ausgelöst wird.
+Weiters kann die Rhytmusstörung in eine andere, akut
 lebensbedrohende Rhythmusstörungen umschlagen und es dadurch zu einer
 akut lebensbedrohlichen Situation kommen. [242]_
 
@@ -2031,36 +2078,40 @@ Beschreibung: Aneurysma allgmein
 
 -  Gefahr: Schock, Insult
 
-**Als !!! TERMINUS DFN !!! :dfn:`` *Aneurysma* bezeichnet man eine Aussackung und
+Als :dfn:`Aneurysma` bezeichnet man eine Aussackung und
 Erweiterung von Blutgefäßen aufgrund von Veränderungen der Gefäßwand.**
 Durch die zunehmende Erweiterung oder Verletzungen der
 Gefäßwandschichten kann es zu einem Riss des Aneurysmas und zu Blutungen
 kommen. Aneurysmen treten häufig an den großen Gefäßen (Aorta,
 Leistenarterien) und an den Hirngefäßen auf. Folgen eines geplatzen
-(rupturierten) Aneurysmas können z.B. ein hypovolämischer Schock oder
+(rupturierten) Aneurysmas können z. B. ein hypovolämischer Schock oder
 ein blutiger Insult sein.
+
+
+.. _topic-bauchaortenaneurysma:
 
 Aortenaneurysma
 ---------------
 
-[topic-bauchaortenaneurysma] (Meron et al. 2004)
+(Meron et al. 2004)
 
 Beschreibung und Ursachen
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Aneurysmen können im gesammten Verlauf der Aorta auftreten, man
-unterscheidet zwischen dem !!! TERMINUS DFN !!! :dfn:``
-[Aortenaneurysma!thorakales]thorakalen und den !!! TERMINUS DFN !!! :dfn:``
-[Aortenaneurysma!abdominelles]abdominellen Aortenaneurysma
-(*Bauchaortenaneurysma*). Zumeist ist eine krankhafte Veränderung der
+unterscheidet zwischen dem *thorakalen*
+und dem abdominellen Aortenaneurysma
+(*Bauchaortenaneurysma*).
+Zumeist ist eine krankhafte Veränderung der
 Aortenwand im Rahmen von Begleiterkrankungen (Diabetes mellitus,
 Hypertonie, Arteriosklerose, Bindegewebserkrankungen) oder ein Trauma
 verantwortlich. Die Aussackung kann alle Gefäßschichten umfassen oder es
 können einzelne Schichten der Gefäßwand einreißen und eine
 (verletzliche) Ausbuchtung bilden. Die akute Gefahr ist eine Ruptur.
 
-Oft sind Aneurysmen asymptomatisch und werden als Zufallsbefund z.B. bei
-Röntgenuntersuchungen entdeckt. Da das Operationsrisiko sehr hoch ist
+Oft sind Aneurysmen asymptomatisch und werden als Zufallsbefund z. B. bei
+Röntgenuntersuchungen entdeckt.
+Da das Operationsrisiko sehr hoch ist
 werden Aneurysmen erst ab einer gewissen Größe operiert, bei kleinen
 Formen werden nur regelmäßige Kontrollen durchgeführt.
 
@@ -2089,67 +2140,70 @@ ABCDE
 
  
 
-``2``
-    Evtl. können |symbol-RedFlag|\ **Schockzeichen** vorliegen (Blässe,
+:2:
+    Evtl. können |symbol-RedFlag|\  **Schockzeichen** vorliegen (Blässe,
     Kaltschweißigkeit, …). Manche Patienten nehmen eine Schonhaltung
     aufgrund der Schmerzen ein.
 
-``4``
-    Je nach Ort des Aneurysmas klagt der Patient über |symbol-RedFlag|\ *Brust-*, *Bauch-* oder *Rückenschmerzen*, diese werden oft
+:4:
+    Je nach Ort des Aneurysmas klagt der Patient über
+    |symbol-RedFlag|\  *Brust-*, *Bauch-* oder *Rückenschmerzen*,
+    diese werden oft
     als schneidend und plötzlich einsetzend beschrieben und sind oft
     (aber nicht immer) heftig (*Vernichtungsschmerz*). Bei thorakalen
-    Aortenaneurysmen kommt es häufig zu Symptomen eines |symbol-RedFlag|\ *Akuten Koronarsyndroms* (!!! INDEX I !!! [ACS!bei thorakalem
-    Aortenaneurysma]ACS, [topic-acs]).
+    Aortenaneurysmen kommt es häufig zu Symptomen eines
+    |symbol-RedFlag|\  *Akuten Koronarsyndroms* (ACS, :ref:`topic-acs`).
 
-``C``
+:C:
     Je nach Umfang der Blutung kann der Patient völlig *kreislaufstabil*
-    sein oder |symbol-RedFlag|\ **Schockzeichen** zeigen
+    sein oder |symbol-RedFlag|\  **Schockzeichen** zeigen
     (hypovolämischer Schock). Herzfrequenz und Blutdruck können
     entsprechend eines Schockgeschehens verändert sein.
 
-``E``
+:E:
     Bei einer Blutung in den Bauchraum kann es zu einer Verhärtung der
-    Bauchdecke kommen (|symbol-RedFlag|\ **Akutes Abdomen**,
-    :ref:`topic-akutes-abdomen`). Selten kann eine deutliche pulsierende
+    Bauchdecke kommen (|symbol-RedFlag|\  **Akutes Abdomen**,
+    :ref:`topic-akutes-abdomen`).
+    Selten kann eine deutliche pulsierende
     Schwellung bei einem abdominellen Aortenaneurysma im Bauch getastet
     werden.
 
-``2``
-    Evtl. |symbol-RedFlag|\ **Schockzeichen**, Schohnhaltung
+:2:
+    Evtl. |symbol-RedFlag|\  **Schockzeichen**, Schohnhaltung
 
-``4``
-    |symbol-RedFlag|\ **Brust-, Bauch- oder Rückenschmerzen**; evtl.
-    Symptome eines |symbol-RedFlag|\ **ACS**
+:4:
+    |symbol-RedFlag|\  **Brust-, Bauch- oder Rückenschmerzen**; evtl.
+    Symptome eines |symbol-RedFlag|\  **ACS**
 
-``C``
-    Kreislaufstabil, evtl. |symbol-RedFlag|\ **Schockzeichen**
+:C:
+    Kreislaufstabil, evtl. |symbol-RedFlag|\  **Schockzeichen**
 
-``E``
-    |symbol-RedFlag|\ **Harte Bauchdecke** bei Blutung in Bauch
+:E:
+    |symbol-RedFlag|\  **Harte Bauchdecke** bei Blutung in Bauch
 
 SAMPLER
 ^^^^^^^
 
-``S``
+:S:
     Siehe ABCDE. Evtl. haben die ersten Beschwerden vor einigen Tagen
-    oder Wochen z.B. in Form von leichten Rückenschmerzen begonnen.
+    oder Wochen z. B. in Form von leichten Rückenschmerzen begonnen.
 
-``P``
+:P:
     Mitunter ist bereits das Aneurysma bekannt (Befunde, Arztbriefe!).
 
-``R``
+:R:
     Besonders betroffen sind Patienten mit systemischen
     Kreislauferkrankungen (Hypertonie, erhöhte Blutfette, …), sowie
-    Patienten mit einer krankhaften Bindegewebsschwäche (Z.B.
+    Patienten mit einer krankhaften Bindegewebsschwäche (Z. B.
     Marfan-Syndrom).
 
-``S``
-    S. ABCDE; evtl. Rückenschmerzen
+:S:
+    Siehe ABCDE; evtl. Rückenschmerzen
 
-``P``
+:P:
     Aneurysma evtl. vorbekannt
 
-``R``
+:R:
     Kreislauferkrankungen, Bindegewebsschwäche
 
 Gefäßverschlüsse in den Extremitäten
@@ -2168,7 +2222,7 @@ anrichtet [243]_.
 
 -  
 
--  !!! TERMINUS DFN !!! :dfn:`` *tVT* (tiefe Venen Thrombose)
+-  *tVT* (tiefe Venen Thrombose)
 
 
 .. [243]
@@ -2184,9 +2238,8 @@ Beschreibung
 
 Beim *arteriellen Gefäßverschluss* wird das zuführende Gefäß
 verschlossen. Es kommt zu einer schmerzhaften Unterversorgung der
-Extremität mit Blut (!!! INDEX I !!! [Ischämie!Arterieller peripherer
-Gefäßverschluß]Ischämie, [topic-ischaemie]). Der komplette Verschluss
-passiert plötzlich.
+Extremität mit Blut (Ischämie, :ref:`topic-ischaemie`).
+Der komplette Verschluss passiert plötzlich.
 
 -  Verschluß eines blut\ *zuführenden* Gefäßes
 
@@ -2195,20 +2248,20 @@ Ursachen
 
 Meistens liegt eine chronische Schädigung der Gefäße infolge anderer
 Erkankungen oder aufgrund eines ungesunden Lebensstils vor. Ursachen für
-solch eine Gefäßschädigung sind z.B. die Zuckerkrankheit (!!! TERMINUS
-!!! *Diabetes mellitus*, s.[topic-diabetes]), Hypertonie, erhöhte
+solch eine Gefäßschädigung sind z. B. die Zuckerkrankheit (*Diabetes
+mellitus*, s. :ref:`topic-diabetes`), Hypertonie, erhöhte
 Blutfette oder das Rauchen. Die Gefäße verkalken und verändern sich auch
 sonst nicht zu ihrem Vorteil.
 
--  Chronische Gefäßschädigung, z.B. Bei Diabetes mellitus, Hypertonie …
+-  Chronische Gefäßschädigung, z. B. Bei Diabetes mellitus, Hypertonie …
 
 Chronische Grunderkrankung: pAVK
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
  Wenn die Gefäße nur verengt sind, spricht man von der *peripheren
-arteriellen Verschlusskrankheit*, abgekürzt !!! TERMINUS DFN !!! :dfn:`` *paVK*. Sie
+arteriellen Verschlusskrankheit*, abgekürzt :dfn:`paVK`. Sie
 ist eine häufige chronische Erkrankung. (*Achtung*: Obwohl es
-“*Verschluss*\ krankheit” heißt, sind die Gefäße nicht komplett
+"*Verschluss*\ krankheit" heißt, sind die Gefäße nicht komplett
 verschlossen, sondern nur verengt!)
 
 -  Periphere arterielle Verschlusskrankheit
@@ -2218,27 +2271,27 @@ ABCDE
 
  
 
-``2``
+:2:
     Der Patient erscheint schmerzgeplagt und nimmt oft eine
     Schohnhaltung ein.
 
-``4``
+:4:
     Leitsymptom ist der Schmerz, zusammen mit Blässe,
     Empfindungsstörungen und evtl. auch Lähmung der betroffenen
     Extremität, keine Angabe eines Traumas.
 
-``C``
+:C:
     In der betroffenen Extremität sind die peripheren Pulse schlecht
     oder überhaupt nicht tastbar.
 
-``2``
+:2:
     Schmerzen, Schonhaltung
 
-``4``
+:4:
     Lokalisierter Schmerz; Blässe, Empfindungsstörungen, evtl. Lähmung
     der betr. Extremität
 
-``C``
+:C:
     Periphere Pulse der betr. Extremität schlecht/nicht tastbar
 
     -  Die klassischen Symptome des arteriellen Gefäßverschlusses sind
@@ -2248,21 +2301,21 @@ ABCDE
 SAMPLER
 ^^^^^^^
 
-``S``
+:S:
     Siehe ABCDE.
 
-``M``
+:M:
     Bei Vorhofflimmern wird dem Patienten meist eine gerinnungshemmende
-    vorbeugende Therapie verordnet (“Blutverdünnung”, z.B. Marcoumar,
-    “Thrombosespritzen”, z.B. Lovenox, Fragmin).
+    vorbeugende Therapie verordnet ("Blutverdünnung", z. B. Marcoumar,
+    "Thrombosespritzen", z. B. Lovenox, Fragmin).
 
-``P``
+:P:
     Eine periphere arterielle Verschlusskrankheit ist häufig schon
     bekannt. Oft liegen Herz-Kreislauf-Erkrankungen oder Diabetes
     mellitus vor. Vorhofflimmern kann aufgrund der Bildung eines Embolus
     einen Verschluss auslösen.
 
-``R``
+:R:
     Darunter fallen Herz-Kreislauferkrankungen welche die Gefäße
     schädigen wie die arterielle Hypertonie; weiters ist hier der
     Diabetes mellitus zu nennen. Vorhofflimmern kann, wie bereits
@@ -2270,17 +2323,17 @@ SAMPLER
     führen, insbesonders bei fehlender oder unzureichender
     gerinnungshemmender Therapie.
 
-``S``
+:S:
     ABCDE
 
-``M``
+:M:
     Je nach Begleiterkrankungen
 
-``P``
+:P:
     pAVK, Herz-Kreislauf-Erkrankungen, Diabetes mellitus, Vorhofflimmern
 
-``R``
-    Siehe ``P``
+:R:
+    Siehe :P:
 
 Symptome
 ^^^^^^^^
@@ -2302,12 +2355,12 @@ Die Symptome ergeben sich aus der Unterversorgung der Extremität mit
 sauerstoffreichem Blut: sie ist blass, kalt, tut höllisch weh und die
 Rekap-Zeit ist nicht mehr sinnvoll messbar. Zusätzlich wird die
 Extremität gefühllos und gelähmt. Der Patient kann ein Kribbeln
-empfinden (*“Ameisenlaufen”*). [244]_ (Lähmung).
+empfinden (*"Ameisenlaufen"*). [244]_ (Lähmung).
 
 
 .. [244]
-   Im englischen werden die Symptome als die *“five P’s of limb
-   ischemia”* zusammengefasst: Pain (schmerzend) Pale (blaß), Pulseless
+   Im englischen werden die Symptome als die *"five P’s of limb
+   ischemia"* zusammengefasst: Pain (schmerzend) Pale (blaß), Pulseless
    (pulslos), Paresthesia (gefühllos), Paralysis
 
 
@@ -2326,12 +2379,13 @@ Beschreibung und Ursachen
 
     -  verminderte Blutflussgeschwindigkeit oder Rückstau
 
-    -  Flüssige Blutbestandteile ↓
+    -  Flüssige Blutbestandteile :math:`\downarrow`
 
     -  Gesteigerte bzw. krankhafte Neigung
 
-**Eine tiefe !!! TERMINUS DFN !!! :dfn:`` *Beinvenenthrombose* ist eine Verstopfung
-einer tiefen Beinvene durch ein Blutgerinnsel (Thrombus [245]_).**
+Eine tiefe :dfn:`Beinvenenthrombose` ist eine Verstopfung
+einer tiefen Beinvene durch ein Blutgerinnsel (Thrombus [245]_).
+
 Ursächlich für die Bildung eines Blutgerinnsels ist meistens eine
 verminderte Blutflussgeschwindigkeit bzw. Rückstau, eine Verminderung
 des flüssigen Anteils des Blutes oder eine gesteigerte bzw. krankhafte
@@ -2344,7 +2398,7 @@ fehlende Bewegung.
 
 
 .. [245]
-   Thrombus: Blutgerinnsel. Im Gegensatz dazu !!! TERMINUS DFN !!! :dfn:``
+   Thrombus: Blutgerinnsel. Im Gegensatz dazu 
    *Embolus*: Losgelöster Thrombus, welcher woanders ein Gefäß verstopft
    und eine :dfn:`Embolie` verursacht.
 
@@ -2353,32 +2407,32 @@ ABCDE
 
  
 
-``1``
+:1:
     Es finden sich evtl. Hinweise auf Bettlägrigkeit oder stattgehabte
     Reisen (Koffer, …).
 
-``2``
+:2:
     Evtl. fällt eine *Schwangerschaft* auf.
 
-``4``
+:4:
     *Schmerzen* in der betroffenen Extremität.
 
-``…``
+:.:
     Die betroffene Extremität ist schmerzhaft, oft überwärmt, und eher
     rötlich-bläulich-violett (livide) verfärbt. Manchmal sind diese
     Zeichen nicht sehr ausgeprägt. In der Regel ist nur eine Extremität
     betroffen, d.h. die Symptome sind nur auf *einer Seite* zu finden.
 
-``1``
+:1:
     Bettlägrigkeit, stattgehabte Reisen
 
-``2``
+:2:
     Schwangerschaft
 
-``4``
+:4:
     Schmerzen
 
-``…``
+:…:
     -  Dunkel-bläuliche (livide) Verfärbung.
 
     -  Überwärmung
@@ -2388,66 +2442,65 @@ ABCDE
 SAMPLER
 ^^^^^^^
 
-``S``
+:S:
     Siehe ABCDE.
 
-``M``
-    Eventuell wurden gerinnungshemmende Medikamente (“Blutverdünnung”:
+:M:
+    Eventuell wurden gerinnungshemmende Medikamente ("Blutverdünnung":
     Thrombosespritzen, Marcoumar, …) verschrieben. Eventuell wurden
     diese nicht oder fehlerhaft genommen.
 
-``P``
-    Eventuell sind Krampfadern !!! INDEX I !!!
-    [Varizen!Thrombose]Varizen) bekannt. Eventuell sind
-    Gerinnungsstörungen bekannt (z.B. *Thrombophilie*,
+:P:
+    Eventuell sind Krampfadern (Varizen) bekannt. Eventuell sind
+    Gerinnungsstörungen bekannt (z. B. *Thrombophilie*,
     *Faktor-V-Leiden-Mutation*, …). Weiters sind Tumorerkrankungen oder
     eine Schwangerschaft zu nennen.
 
-``L``
+:L:
     Eventuell ist ein vorangehender Spitalsaufenthalt, welchem eine
     Immobilsation folgte, erhebbar (Operationen, …).
 
-``E``
+:E:
     Verdächtig sind ausgedehnte stehende oder sitzende Tätigkeiten
-    (Reisen, …) und Bettlägrigkeit, siehe ``R``.
+    (Reisen, …) und Bettlägrigkeit, siehe :R:.
 
-``R``
+:R:
     Problematisch sind insuffiziente Venenklappen, stehende bzw.
     sitzende Tätigkeiten und fehlende Bewegung. Eine länger dauernde
     *Immobilisation* oder *Bettlägrigkeit* sind demnach wesentliche
     Risikofaktoren, darunter fallen auch lange Reisen ohne Bewegung: So
     werden Thrombosen aufgrund von langen Flugreisen auch scherzhaft als
-    !!! TERMINUS DFN !!! :dfn:`` *Economy class Syndrome* bezeichnet. Erschwerend
+    :dfn:`Economy class Syndrome` bezeichnet. Erschwerend
     wirkt sich auch eine *unzureichende Flüssigkeitsaufnahme* aus, da
     dann der flüssige Anteil des Blutes vermindert sein kann und das
     Blut folglich dickflüssiger wird. Ein besonderer Risikofaktor ist
-    der !!! INDEX II !!! [Rauchen!Thrombose]Zigarettenkonsum. Die
-    Einnahme von *hormonellen Verhütungsmitteln* (!!! INDEX I !!!
-    [Pille!Thrombose]Pille) erhöht zusammen mit Zigarettenkonsum das
+    der Zigarettenkonsum.
+    Die Einnahme von *hormonellen Verhütungsmitteln*
+    (Pille) erhöht zusammen mit Zigarettenkonsum das
     Thromboserisiko drastisch. Ebenso erhöht eine bereits *stattgehabte
     Thrombose* das Risiko, wieder eine Thrombose zu bekommen. Im Rahmen
-    einer !!! INDEX II !!! [Schwangerschaft!Thrombose]Schwangerschaft
-    oder von Erkrankungen, z.B. Tumorerkankungen, kann das
+    einer Schwangerschaft
+    oder von Erkrankungen, z. B. Tumorerkankungen, kann das
     Gerinnungsystem gestört sein, wodurch es zu Thrombosen kommen kann.
-    Ausserdem können Erkrankungen des Gerinnungssystems (``P``)
+    Ausserdem können Erkrankungen des Gerinnungssystems (**P**)
     erhebliche Risikofaktoren darstellen.
 
-``S``
+:S:
     Siehe ABCDE
 
-``M``
+:M:
     Gerinnungshemmende Medikamente – Einnahmefehler?
 
-``P``
-    Siehe ``R``
+:P:
+    Siehe *R*
 
-``L``
+:L:
     Vorangehender Spitalsaufenthalt
 
-``E``
-    Siehe ``R``
+:E:
+    Siehe *R*
 
-``R``
+:R:
     Insuffiziente Venenklappen, stehende bzw. sitzende Tätigkeiten,
     Immobilisation, unzureichende Flüssigkeitsaufnahme, Rauchen,
     hormonellen Verhütungsmittel, Thrombose in der Anamnese,
@@ -2460,31 +2513,51 @@ Gefahr
 
 .. sidebar:: Gefahr
 
-    -  Lösung des Thrombus → *Lungenembolie* ([topic-lungenembolie])
+    -  Lösung des Thrombus → *Lungenembolie* (:ref:`topic-lungenembolie`)
 
- Es kann zu einer *Loslösung von Teilen des Thrombus* kommen, dieser
-losgelöste Teil wird !!! TERMINUS DFN !!! :dfn:`` *Embolus* genannt. Mit dem
-Blutstrom gelangt der Embolus über die Hohlvenen in das rechte Herz. Bis
-hierhin gibt es noch keine Probleme, da die Blutgefäße an Dicke
-zunehmen. Vom rechten Herzen gelangt der Embolus in den Lungenkreislauf
-(Lungenarterien). Hier verzweigen sich die Geäße wieder und der
-Durchmesser wird kleiner. Dies führt dazu, dass der Embolus irgendwann
-zu groß ist und stecken bleibt. Dadurch wird nun ein Lungengefäß
+Es kann zu einer *Loslösung von Teilen des Thrombus* kommen, dieser
+losgelöste Teil wird :dfn:`Embolus` genannt.
+Mit dem Blutstrom gelangt der Embolus über die Hohlvenen in das rechte Herz.
+Bis hierhin gibt es noch keine Probleme, da die Blutgefäße an Dicke
+zunehmen.
+Vom rechten Herzen gelangt der Embolus in den Lungenkreislauf
+(Lungenarterien).
+Hier verzweigen sich die Gefäße wieder
+und der Durchmesser wird kleiner.
+Dies führt dazu, dass der Embolus irgendwann
+zu groß ist und stecken bleibt.
+Dadurch wird nun ein Lungengefäß
 verstopft und ein Teil der Lunge nimmt nicht mehr am Gasaustausch teil:
-Es entsteht eine *Lungenembolie* ([topic-lungenembolie]).
+Es entsteht eine *Lungenembolie* (:ref:`topic-lungenembolie`).
 
-!!! PICTURESERIESWIDE !!!Bilderserie: Thromboserisiken !!!
-PICTURESERIESROWWIDE !!! 3 |image| Die Economyclass. Sorgsam
-geschlichtet verbringen Menschen hier Stunden damit, Thrombosen zu
-basteln. !!! SOURCEPICTURE !!! *Gabriel* |image| Thromboseprophylaxe.
-Niedermolekulares Heparin (hier “Lovenox”) verhindert Thrombosen die
-z.B. durch lange Immobilisation (Reisen, Bettlägrigkeit, Gips, …)
-entstehen können. Die Substanz wird unter die Haut (“subkutan”)
-gespritzt. !!! SOURCEPICTURE !!! *Gabriel* |image| Eine Venenthrombose
-kann eine Embolie auslösen. !!! SOURCEPICTURE !!! *Hirtler* empty !!!
-PICTURESERIESWIDE !!!
 
-!!! PROCEDURE !!! MI74042C
+
+.. figure:: /Bilder/economyclass.jpg
+
+          Die Economyclass.
+          Sorgsam geschlichtet verbringen Menschen hier Stunden damit,
+          Thrombosen zu basteln.
+
+          [Gabriel]
+
+.. figure:: /Bilder/lovenox1.jpg
+
+          Thromboseprophylaxe.
+          Niedermolekulares Heparin (hier "Lovenox") verhindert Thrombosen die
+          z. B. durch lange Immobilisation (Reisen, Bettlägrigkeit, Gips, …)
+          entstehen können. Die Substanz wird unter die Haut ("subkutan")
+          gespritzt.
+
+          [Gabriel]
+
+.. figure:: /Bilder/HirtlerLenaAass/Thrombus-Embolie.*
+
+          Eine Venenthrombose
+          kann eine Embolie auslösen.
+
+          [Hirtler]
+
+.. todo:: !!! PROCEDURE !!! MI74042C
 
 (Renz-Polster, Krautzig, and Braun 2006; Siewert 2006; Scholz et al.
 2008; Swaminatha V and Garmel 2008; Longmore et al. 2007; Fauci et al.
@@ -2534,8 +2607,6 @@ and Silbernagl 2001; Esch et al. 2007; Forth et al. 2001; Lüllmann,
 Mohr, and Hein 2006; Thierbach and Veith 2005; Roewer and Thiel 2007;
 Rüecker 2005)
 
-
------
 
 
 

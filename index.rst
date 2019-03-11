@@ -35,6 +35,7 @@ Notarzttraining
    :maxdepth: 2
 
    Prolog/index
+   1-Mal-1-DerMedizin/index
    Grundlagen/index
    StrukturiertePatientenbetreuung/index
    Reanimation/index

@@ -19,9 +19,9 @@ Standardmaßnahmen
 
 .. _M-StandardmassnahmenImmer:
 
-.. _topic-standardmassnahmen-immer:
+.. _Thema-standardmassnahmen-immer:
 
-.. _tab-pam-weiterfuehrende:
+.. _Tafel-pam-weiterfuehrende:
 
 
 Immer durchzuführende Standardmaßnahmen
@@ -130,7 +130,7 @@ aufgeschoben werden
 
 
 .. _m-standardmassnahmen-vital:
-.. _topic-standardmassnahmen-vital:
+.. _Thema-standardmassnahmen-vital:
 .. _proc-YY13100B:
 .. _YY13100B:
 

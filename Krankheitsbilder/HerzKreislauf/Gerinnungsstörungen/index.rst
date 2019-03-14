@@ -1,9 +1,11 @@
 
+###################
 Gerinnungsstörungen
-===================
+###################
 
+************
 Beschreibung
-------------
+************
 
 Gerinnungsstörungen können vielfältige Ursachen haben, beispielsweise:
 

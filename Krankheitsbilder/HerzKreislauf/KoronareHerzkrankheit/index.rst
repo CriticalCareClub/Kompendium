@@ -7,13 +7,14 @@ Koronare Herzkrankheit
     :maxdepth: 1
 
 
-.. _topic-khk:
-.. _topic-aks: 
-.. _topic-acs: 
-.. _topic-akutes-koronarsyndrom:
+.. _Thema-khk:
+.. _Thema-aks: 
+.. _Thema-acs: 
+.. _Thema-akutes-koronarsyndrom:
 
+*********************************
 Erkrankungen der Herzkrankzgefäße
-=================================
+*********************************
 
 .. index::
     single: koronare Herzkrankheit
@@ -25,7 +26,7 @@ Erkrankungen der Herzkrankzgefäße
     single: Ischämie (akutes Koronarsyndrom)
 
 Beschreibung
-------------
+============
 
 .. sidebar:: Beschreibung
 
@@ -45,6 +46,14 @@ Beschreibung
 ist eine Erkrankung der *Herzkranzgefäße* (Koronargefäße) bei der es zu
 einer Verengung der Gefäße kommt.** Sie ist eine *chronische*
 Erkrankung, welche in akuten Notfallsituationen resultieren kann. 
+Eine koronare Herzkrankheit ist oft
+anamnestisch bereits bekannt. 
+Ein Hinweis kann auch die Einnahme von
+ASS-Präparaten (z. B. ThromboASS, HerzschutzASS, …) oder ein
+Stent-Ausweis sein. 
+Je nachdem wieviele Koronargefäße betroffen sind,
+spricht man auch von einer 1-, 2- oder 3-Gefäßerkrankung 
+(*engl.* 1-, 2-, 3-Vessel-Disease; bzw. *Abkz.* 1-, 2.-, 3.-VD).
 
 
 
@@ -90,11 +99,11 @@ Erkrankung, welche in akuten Notfallsituationen resultieren kann.
 
 
 Akutes Koronarsyndrom
----------------------
+=====================
 
 
 Weitere Therapie
-----------------
+================
 
 .. sidebar:: Weitere Therapie
 

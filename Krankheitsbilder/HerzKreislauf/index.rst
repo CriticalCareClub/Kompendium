@@ -31,7 +31,8 @@ führen kann.
 :Reviewer:
     Standard-Reviewprozess
 
-.. todo:: Literatur: (Dietel, Suttorp, and Zeitz 2012b; Loscalzo, Libby, and Epstein 2012; Gaziano and Gaziano 2012; Loscalzo 2012)
+
+:cite:`Harrisons18De,Harrisons18DeKap224,Harrisons18DeKap225,Harrisons18DeKap226`
 
 
 .. toctree::
@@ -52,14 +53,14 @@ führen kann.
 
 
 .. _sec-herz-kreislauf-stoerungen:
-.. _topic-herz-kreislauf-stoerungen:
+.. _Thema-herz-kreislauf-stoerungen:
 
 
 ************************
 Störungen des Kreislaufs
 ************************
 
-.. _topic-kreislaufstillstand:
+.. _Thema-kreislaufstillstand:
 
 Kreislaufstillstand
 ===================
@@ -138,7 +139,7 @@ Reanimation, im weiteren Verlauf neurologische Defizite.
 Querverweise
 ------------
 
--  Reanimation, Erste Hilfe: :ref:`topic-reanimation-eh`
+-  Reanimation, Erste Hilfe: :ref:`Thema-reanimation-eh`
 
 -  Basic Life Support: [BLS], :ref:`chp-BLS`
 
@@ -174,12 +175,12 @@ individuell. Viele Menschen haben auch unter Normalbedingungen einen
 systolischen Blutdruck von 90 mm Hg oder sogar noch weniger, ohne
 Beschwerden zu haben. Dies muss bei der Interpretation des Wertes
 berücksichtigt werden. Bei Kindern gelten grundsätzlich andere
-Nomalwerte. (Gesenhues and Ziesch´e 2010)
+Nomalwerte. 
 
 
 
 
-.. _topic-synkope:
+.. _Thema-synkope:
 
 Kollaps und Synkope
 -------------------
@@ -204,7 +205,7 @@ Ein Kollaps kann seine Ursachen in verschiedenen Organssystemen haben:
 
 -  Hirn
 
--  Hirngefäßen (z. B. TIA, :ref:`topic-tia` ) …
+-  Hirngefäßen (z. B. TIA, :ref:`Thema-tia` ) …
 
 -  Sonstige Ursachen und Faktoren: Hypoglykämie, Menstruation
 
@@ -245,21 +246,27 @@ eventuell bradykard oder tachykard.
 
 
 
-(Eisenburger et al. 2008; Havel et al. 2007; Dalton, Limmer, and
-Mistovich 2006; Arntz, Bossaert, and Fillipatos 2006; Arntz et al. 2005;
-Biarent et al. 2006; Deakin and Nolan 2006; Deakin, Nolan, and Council
-2005; Juurlink et al. 2005; Kalla et al. 2006; Vlcek et al. 2008; Wells
-et al. 2000; Böhmer, Schneider, and Wolcke 2006; Hansak et al. 2008;
-Böcker, Denk, and Heitz 2001; Helfen 2008; Lippert 2006; Patzelt 2005;
-Sachsenweger 2003; Redelsteiner et al. 2005; Hochmeister, Grassberger,
-and Stimpfl 2007; Striebel 2009; Zeiler, Auff, and Deecke 2001; Klinke
-and Silbernagl 2001; Esch et al. 2007; Forth et al. 2001; Lüllmann,
-Mohr, and Hein 2006; Thierbach and Veith 2005; Roewer and Thiel 2007;
-Rüecker 2005)
+:cite:`Eisenburger2008` (Transport with ongoing cardiopulmonary resuscitation may not be futile.)
 
+:cite:`Havel2007` (Quality of closed chest compression in ambulance vehicles, flying helicopters and at the scene)
 
+:cite:`AMLS3`
 
-
-
-
-
+:cite:`Juurlink2005` (Hyperbaric oxygen for carbon monoxide poisoning)
+:cite:`Kalla2006` (Implementation of guidelines improves the standard of care: the Viennese registry on reperfusion strategies in ST-elevation myocardial infarction (Vienna STEMI registry).)
+:cite:`Vlcek2008` (Association between hypertensive urgencies and subsequent cardiovascular events in patients with hypertension.)
+:cite:`Wells2000` (Derivation of a simple clinical model to categorize patients probability of pulmonary embolism: increasing the models utility with the SimpliRED D-dimer.)
+:cite:`Boecker2` (Pathologie)
+:cite:`LippertAnatomie7` ()
+:cite:`Patzelt2005` (Basics Augenheilkunde)
+:cite:`Sachsenweger2003` (Augenheilkunde)
+:cite:`RedelsteinerHRNS1` ()
+:cite:`ForMed2` (Forensische Medizin für Studium und Praxis)
+:cite:`StriebelAn7` ()
+:cite:`Zeiler2001` (Grundlagen der Klinischen Neurologie 1. Grundlagen für Human- und Zahnmediziner)
+:cite:`KlinkePhysio3` (Lehrbuch der Physiologie)
+:cite:`DRAn3` (Anästhesie - Intensivmedizin, Notfallmedizin, Schmerztherapie)
+:cite:`ForthPharma8` (Allgemeine und spezielle Pharmakologie und Toxikologie)
+:cite:`LuellmannPharma16` (Pharmakologie und Toxikologie --- Arzneimittelwirkungen verstehen - Medikamente gezielt einsetzen)
+:cite:`ThierbachInterhospitaltransfer1` (Praxisleitfaden Interhospitaltransfer)
+:cite:`RueckerBildatlas1` (Bildatlas Notfall- und Rettungsmedizin)

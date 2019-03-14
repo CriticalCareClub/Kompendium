@@ -1,15 +1,17 @@
 
+#####################
 Arterielle Hypertonie
----------------------
+#####################
 
-.. _topic-arterielle-hypertonie:
+.. _Thema-ArterielleHypertonie:
 
 .. index::
     single: Hypertonie, arterielle
     single: Bluthochdruck
 
+************
 Beschreibung
-^^^^^^^^^^^^
+************
 
 .. sidebar:: Beschreibung
 
@@ -18,7 +20,7 @@ Beschreibung
     -  Risikofaktor für Herz-/Kreislauferkrankungen
 
     -  Bei *Schwangeren* sind die Grenzwerte genau zu beachten!
-    (*EPH-Gestose*, [topic-eph-gestose])!
+       (*EPH-Gestose*)!
 
 .. admonition:: Beschreibung
 
@@ -32,8 +34,8 @@ der Schädigung der Blutgefäße ist sie ein ein wesentlicher
 *Risikofaktor* für Erkrankungen wie die koronare Herzkrankheit,
 Schlaganfälle etc. [232]_
 
-Bei der chronischen Hypertonie liegt der obere Grenzwert im
-Allgemeinen [233]_ beim Erwachsenen bei **. Dieser Grenzwert ist nur für
+Bei der chronischen arteriellen Hypertonie liegt der obere Grenzwert im
+Allgemeinen [233]_ beim Erwachsenen bei 140 mm Hg. Dieser Grenzwert ist nur für
 die dauerhafte Behandlung maßgeblich, akute Beschwerden sind erst bei
 deutlich höheren Werten zu erwarten. Eine Ausnahme stellen *Schwangere*
 dar: Eine Hypertonie kann ein Zeichen einer schwerwiegenden
@@ -52,8 +54,9 @@ und behandelt werden.
 
 
 
+**************
 Langzeitfolgen
-^^^^^^^^^^^^^^
+**************
 
 .. sidebar:: Langzeitschäden
 
@@ -102,13 +105,11 @@ Bevölkerung hat.
 
 .. todo:: image Der Strawinsky-Brunnen von Jean Tinguely beim Centre Pompidou in Paris Sebastian GabrielMfG
 
- Hypertensive Krise und Hypertensiver Notfall
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _Thema-HypertensiverNotfall:
 
-.. _topic-hypertensiver-notfall:
-
-Beschreibung
-""""""""""""
+********************************************
+Hypertensive Krise und Hypertensiver Notfall
+********************************************
 
 Eine plötzliche, sehr starke Erhöhung des Blutdrucks wird als
 :dfn:`hypertensive Krise` oder :dfn:`hypertensiver Notfall`
@@ -119,37 +120,38 @@ Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen,
 Schwindel …). Vgl. [tab:hxpertension-krise-notfall].
 
 .. todo:: !!! TABELLE WEIT Unterscheidung Hypertensive Krise und Hypertensiver Notfall(Whitworth and World Health Organization 2003; Chobanian et al.
-2003; Braun 2004; Swaminatha V and Garmel 2008; Vlcek et al.
-2008)[tab:hxpertension-krise-notfall]
 
-ll
+    2003; Braun 2004; Swaminatha V and Garmel 2008; Vlcek et al.
+    2008)[tab:hxpertension-krise-notfall]
 
-| **Hypertensive Krise** & **Hypertensiver Notfall**
-| RR >  (Richtwert) bzw. deutliche individuelle Erhöhung
+    ll
 
-*Patient fühlt sich gut*, evtl. Nasenbluten & RR >  (Richtwert) bzw.
-deutliche individuelle Erhöhung
+    **Hypertensive Krise** & **Hypertensiver Notfall**
+    RR >  (Richtwert) bzw. deutliche individuelle Erhöhung
 
-| *+ Symptome einer Organstörung*
-| Zufallsbefund? – Oder steht der Blutdruck doch in Zusammenhang mit der
-  Berufung?
+    *Patient fühlt sich gut*, evtl. Nasenbluten & RR >  (Richtwert) bzw.
+    deutliche individuelle Erhöhung
 
-&
+    *+ Symptome einer Organstörung*
+    Zufallsbefund? – Oder steht der Blutdruck doch in Zusammenhang mit der
+    Berufung?
 
--  Kopfschmerz
+    &
 
--  Sehstörungen
+    -  Kopfschmerz
 
--  Brustschmerz
+    -  Sehstörungen
 
--  Übelkeit, Erbrechen, Schwindel
+    -  Brustschmerz
 
-| 
-| Eine notfallmäßige Blutdrucksenkung ist (eher) nicht erforderlich. &
-  **Vitale Bedrohung**: *Gefahr des Herzversagens: Das Herz muss
-  plötzlich gegen großen Druck pumpen*
+    -  Übelkeit, Erbrechen, Schwindel
 
-| Eine frühzeitige Blutdrucksenkung ist notwendig.
+     
+    Eine notfallmäßige Blutdrucksenkung ist (eher) nicht erforderlich. &
+    **Vitale Bedrohung**: *Gefahr des Herzversagens: Das Herz muss
+    plötzlich gegen großen Druck pumpen*
+
+    Eine frühzeitige Blutdrucksenkung ist notwendig.
 
     -  Der Unterschied zwischen einer hypertensiven Krise und dem
        hypertensiven Notfall ist das Vorhandensein von Symptomen einer
@@ -170,12 +172,12 @@ deutliche individuelle Erhöhung
 
 
 ABCDE
-"""""
+=====
 
-:2:
+``2``
     Oft hat der Patient einen hochroten Kopf.
 
-:4:
+``4``
     Ein erhöhter Blutdruck alleine ist oft symptomlos und wird vom
     betreffenden Patienten oft gar nicht bemerkt. Häufig ist
     *Nasenbluten* (*Epistaxis*) das erste Zeichen einer
@@ -188,10 +190,10 @@ ABCDE
      Erbrechen und 
     |symbol-RedFlag|\  Schwindel.
 
-:B:
+``B``
     Evtl. kommt es aufgrund der kardialen Belastung zur |symbol-RedFlag|\  **Atemnot**.
 
-:C:
+``C``
     In sehr schweren Fällen,
     v. a. wenn eine kardiale Grunderkrankung besteht,
     können sich Symptome eines |symbol-RedFlag|\  kardiogenen
@@ -199,28 +201,45 @@ ABCDE
     Es ist eine deutliche Blutdruckerhöhung
     (Richtwert RR > 200 mm Hg bzw. deutliche individuelle Erhöhung) festzustellen
 
-:2:
+``2``
     Hochroter Kopf
 
-:4:
+``4``
     Nasenbluten, |symbol-RedFlag|\  Kopfschmerzen, |symbol-RedFlag|\
     **Sehstörungen**,  |symbol-RedFlag|\  Brustschmerzen, Übelkeit,
     |symbol-RedFlag|\  Erbrechen, |symbol-RedFlag|\  Schwindel
 
-:B:
+``B``
     Evtl. |symbol-RedFlag|\  Dyspnoe
 
-:C:
-    Evtl. |symbol-RedFlag|\  kardiogener Schock RR :math:`\uparrow`
+``C``
+    Evtl. |symbol-RedFlag|\  kardiogener Schock RR ↑
     (RichtwertRR >  bzw. deutliche individuelle Erhöhung)
 
 SAMPLER
-"""""""
+=======
 
-:S:
+.. sidebar:: SAMPLER
+
+    ``S``
+        Siehe ABCDE.
+
+    ``M``
+        Blutdrucksenkende Medikamente. Neue Verschreibungen? Einnahmefehler?
+
+    ``P``
+        (Chronische) arterielle Hypertonie, Blutdruckprotokoll
+
+    ``L``
+        Letzte Medikamenteneinnahme, letzte ärztliche Kontrollen?
+
+    ``E``
+        Ursachen für Einnahmefehler?
+
+``S``
     Siehe ABCDE.
 
-:M:
+``M``
     Meistens ist bereits eine medikamentöse Einstellung durch den
     Hausarzt mittels eines oder Kombination mehrerer Medikamente
     erfolgt [235]_.
@@ -231,33 +250,20 @@ SAMPLER
     Ebenso kann es nach einer Medikamentenumstellung
     zur Blutdruckentgleisungen kommen.
 
-:P:
+``P``
     Eine chronische arterielle Hypertonie ist oft schon bekannt und der
     Patient befindet sich deswegen bereits in Behandlung. Oft führt der
     Patient ein *Blutdruckprotokoll*.
 
-:L:
+``L``
     Wann war die letzte Medikamenteneinnahme bzw. die letzten ärztlichen
     Kontrollen?
 
-:E:
+``E``
     Gibt es Ereignisse die zu einer fehlerhaften Einnahme der
     Medikamente geführt haben können?
 
-:S:
-    Siehe ABCDE.
 
-:M:
-    Blutdrucksenkende Medikamente. Neue Verschreibungen? Einnahmefehler?
-
-:P:
-    (Chronische) arterielle Hypertonie, Blutdruckprotokoll
-
-:L:
-    Letzte Medikamenteneinnahme, letzte ärztliche Kontrollen?
-
-:E:
-    Ursachen für Einnahmefehler?
 
 
 .. [235]

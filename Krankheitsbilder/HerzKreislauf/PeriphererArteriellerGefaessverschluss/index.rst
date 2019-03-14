@@ -1,34 +1,38 @@
 
 
+#####################################
 Peripherer arterieller Gefäßverschluß
--------------------------------------
+#####################################
 
+************
 Beschreibung
-^^^^^^^^^^^^
+************
 
 Beim *arteriellen Gefäßverschluss* wird das zuführende Gefäß
 verschlossen. Es kommt zu einer schmerzhaften Unterversorgung der
-Extremität mit Blut (Ischämie, :ref:`topic-ischaemie`).
+Extremität mit Blut (Ischämie).
 Der komplette Verschluss passiert plötzlich.
 
 -  Verschluß eines blut\ *zuführenden* Gefäßes
 
+********
 Ursachen
-^^^^^^^^
+********
 
 Meistens liegt eine chronische Schädigung der Gefäße infolge anderer
 Erkankungen oder aufgrund eines ungesunden Lebensstils vor. Ursachen für
 solch eine Gefäßschädigung sind z. B. die Zuckerkrankheit (*Diabetes
-mellitus*, s. :ref:`topic-diabetes`), Hypertonie, erhöhte
+mellitus*), Hypertonie, erhöhte
 Blutfette oder das Rauchen. Die Gefäße verkalken und verändern sich auch
 sonst nicht zu ihrem Vorteil.
 
 -  Chronische Gefäßschädigung, z. B. Bei Diabetes mellitus, Hypertonie …
 
+********************************
 Chronische Grunderkrankung: pAVK
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+********************************
 
- Wenn die Gefäße nur verengt sind, spricht man von der *peripheren
+Wenn die Gefäße nur verengt sind, spricht man von der *peripheren
 arteriellen Verschlusskrankheit*, abgekürzt :dfn:`paVK`. Sie
 ist eine häufige chronische Erkrankung. (*Achtung*: Obwohl es
 "*Verschluss*\ krankheit" heißt, sind die Gefäße nicht komplett
@@ -36,56 +40,58 @@ verschlossen, sondern nur verengt!)
 
 -  Periphere arterielle Verschlusskrankheit
 
+*****
 ABCDE
-^^^^^
+*****
 
  
 
-:2:
+``2``
     Der Patient erscheint schmerzgeplagt und nimmt oft eine
     Schohnhaltung ein.
 
-:4:
+``4``
     Leitsymptom ist der Schmerz, zusammen mit Blässe,
     Empfindungsstörungen und evtl. auch Lähmung der betroffenen
     Extremität, keine Angabe eines Traumas.
 
-:C:
+``C``
     In der betroffenen Extremität sind die peripheren Pulse schlecht
     oder überhaupt nicht tastbar.
 
-:2:
+``2``
     Schmerzen, Schonhaltung
 
-:4:
+``4``
     Lokalisierter Schmerz; Blässe, Empfindungsstörungen, evtl. Lähmung
     der betr. Extremität
 
-:C:
+``C``
     Periphere Pulse der betr. Extremität schlecht/nicht tastbar
 
     -  Die klassischen Symptome des arteriellen Gefäßverschlusses sind
        Schmerz, Blässe, Pulslosigkeit, Gefühllosigkeit und evtl. Lähmung
        der betroffenen Extremität.
 
+*******
 SAMPLER
-^^^^^^^
+*******
 
-:S:
+``S``
     Siehe ABCDE.
 
-:M:
+``M``
     Bei Vorhofflimmern wird dem Patienten meist eine gerinnungshemmende
     vorbeugende Therapie verordnet ("Blutverdünnung", z. B. Marcoumar,
     "Thrombosespritzen", z. B. Lovenox, Fragmin).
 
-:P:
+``P``
     Eine periphere arterielle Verschlusskrankheit ist häufig schon
     bekannt. Oft liegen Herz-Kreislauf-Erkrankungen oder Diabetes
     mellitus vor. Vorhofflimmern kann aufgrund der Bildung eines Embolus
     einen Verschluss auslösen.
 
-:R:
+``R``
     Darunter fallen Herz-Kreislauferkrankungen welche die Gefäße
     schädigen wie die arterielle Hypertonie; weiters ist hier der
     Diabetes mellitus zu nennen. Vorhofflimmern kann, wie bereits
@@ -93,20 +99,21 @@ SAMPLER
     führen, insbesonders bei fehlender oder unzureichender
     gerinnungshemmender Therapie.
 
-:S:
+``S``
     ABCDE
 
-:M:
+``M``
     Je nach Begleiterkrankungen
 
-:P:
+``P``
     pAVK, Herz-Kreislauf-Erkrankungen, Diabetes mellitus, Vorhofflimmern
 
-:R:
-    Siehe :P:
+``R``
+    Siehe ``P``
 
+********
 Symptome
-^^^^^^^^
+********
 
 
 .. sidebar:: Symptome

@@ -2,8 +2,9 @@
 .. index::
     single: Herzinsuffizienz
 
+################
 Herzinsuffizienz
-================
+################
 
 .. admonition:: Definition: Herzinsuffizienz
 
@@ -14,8 +15,9 @@ Es sind
 viele Ursachen möglich, manche Ursachen treten *akut* auf, manche sind
 eher *chronischer* Natur.
 
+**********
 Einteilung
-----------
+**********
 
 .. sidebar:: Einteilung
 
@@ -70,23 +72,24 @@ oder der Fähigkeit des Körpers zur Kompensation erfolgen:
       nicht mehr mit der reduzierten Herzleistung auskommt. Es treten
       plötzlich akute Symptome auf.
 
-.. _topic-linksherzinsuffizienz:
-.. _topic-rechtsherzinsuffizienz:
+.. _Thema-linksherzinsuffizienz:
+.. _Thema-rechtsherzinsuffizienz:
 
+*****
 ABCDE
------
+*****
 
 
-:2:
+``2``
     Evtl. ist der Patient bleich bzw. blass, vielleicht auch
     kaltschweissig. Mitunter wirken die Patienten unruhig und ängstlich.
 
-:4:
+``4``
     Der Patient klagt über |symbol-RedFlag|\  Atemnot (*Dyspnoe*). Oft
     berichten die Patienten, dass sie nur mehr im Sitzen Luft bekommen,
     sie können nicht flach liegen ( Orthopnoe [236]_).
 
-:B:
+``B``
     Die Atemfrequenz ist oft erhöht (*Tachypnoe*), oft besteht ein
     *Hustenreiz*. Die |symbol-RedFlag|\  Sauerstoffsättigung kann
     deutlich erniedrigt sein.
@@ -96,17 +99,17 @@ ABCDE
     den Lungenkreislauf* kann es zu einem Lungenödem bis hin zum
     |symbol-RedFlag|\  *schweren kardialen Lungenödem* kommen.
 
-:C:
+``C``
     Die Herzfrequenz ist oft erhöht (*Tachykardie*). Grundsätzlich ist
     der Blutdruck vermindert (*Hypotonie*).
     Allerdings kann ein erhöhter
     Blutdruck bei einer Blutdruckkrise (*Hypertonie*, *hypertensive
-    Krise* (:ref:`topic-hypertensive-krise`), *hypertensiver Notfall*
-    (:ref:`topic-hypertensiver-notfall`)) der eigentliche *Auslöser* einer
+    Krise* (:ref:`Thema-hypertensive-krise`), *hypertensiver Notfall*
+    (:ref:`Thema-hypertensiver-notfall`)) der eigentliche *Auslöser* einer
     Herzinsuffizenz sein.
     Der Blutdruck kann dann natürlich erhöht sein.
     Es können Zeichen eines |symbol-RedFlag|\  kardiogenen Schocks
-    auftreten ([topic-schock-kardiogener]).
+    auftreten ([Thema-schock-kardiogener]).
 
 :…:
     Bei der Rechtsherzinsuffizienz kommt es zu einem Rückstau des Blutes
@@ -138,21 +141,21 @@ ABCDE
     Auto kann das Herz endgültig in den Herz-Kreislaufstillstand
     bringen. Es kommt immer wieder vor, dass solche Patienten im
     Stiegenhaus oder im Auto reanimationspflichtig werden. Siehe
-    :ref:`topic-lungenoedem`.
+    :ref:`Thema-lungenoedem`.
 
-:2:
+``2``
     Blass, evtl. kaltschweißig. Evtl. agitiert
 
-:4:
+``4``
     *Dyspnoe*, besonders im Liegen :math:`\rightarrow` Sitzende
     Position!
 
     Evtl. |symbol-RedFlag|\  schweres kardiales Lungenödem
 
-:B:
+``B``
     *Tachypnoe*, |symbol-RedFlag|\  Dyspnoe
 
-:C:
+``C``
     *Tachykardie*, *Hypotonie* oder *Hypertonie* (RR kann Auslöser
     sein). Evtl. Zeichen eines |symbol-RedFlag|\   kardiogenen Schocks
 
@@ -176,33 +179,34 @@ ABCDE
    *Orthopnoe*: Der Patient muss aufrecht sitzen um die Atemnot zu
    lindern.
 
+*******
 SAMPLER
--------
+*******
 
-:S:
+``S``
     Es werden meist viele Medikamente genommen, sowohl für die
     Herzinsuffizienz, als auch für die Begleiterkrankungen.
 
-:P:
+``P``
     Die Herzinsuffizienz ist als chronische Erkrankung bekannt,
     entsprechende Befunde vorhanden. Oft bestehen Erkrankungen oder gab
     es Ereignisse, welche den Herzmuskel geschädigt haben, wie z. B.
     diverse Herzerkrankungen, frühere Herzinfarkte, Bluthochdruck, u.a.
 
-:R:
+``R``
     Auslöser für akute Beschwerden können alle Umstände sein, welche vom
     Herz eine ungewohnte Mehrarbeit erfordern: Darunter fallen z. B.
     Infektionen und andere Erkankungen, Stress und ein plötzlicher
     Blutdruckanstieg.
 
-:S:
+``S``
     Viele
 
-:P:
+``P``
     | Herzinsuffizienz bereits bekannt,
     | Befunde, Bluthochdruck, Herzerkrankungen, frühere Herzinfarkte
 
-:R:
+``R``
     Ungewohnte Belastung: Infekte, Erkrankungen, Blutdruckanstieg
 
 .. todo:: !!! PROCEDURE !!! MI50090C

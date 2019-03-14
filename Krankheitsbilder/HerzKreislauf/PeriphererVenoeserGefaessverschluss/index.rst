@@ -1,11 +1,13 @@
 
+############################################################
 Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose
-------------------------------------------------------------
+############################################################
 
-[topic-thrombose]
+[Thema-thrombose]
 
+*************************
 Beschreibung und Ursachen
-^^^^^^^^^^^^^^^^^^^^^^^^^
+*************************
 
 
 .. sidebar:: Beschreibung und Ursachen
@@ -35,19 +37,20 @@ fehlende Bewegung.
    *Embolus*: Losgelöster Thrombus, welcher woanders ein Gefäß verstopft
    und eine :dfn:`Embolie` verursacht.
 
+*****
 ABCDE
-^^^^^
+*****
 
  
 
-:1:
+``1``
     Es finden sich evtl. Hinweise auf Bettlägrigkeit oder stattgehabte
     Reisen (Koffer, …).
 
-:2:
+``2``
     Evtl. fällt eine *Schwangerschaft* auf.
 
-:4:
+``4``
     *Schmerzen* in der betroffenen Extremität.
 
 :.:
@@ -56,13 +59,13 @@ ABCDE
     Zeichen nicht sehr ausgeprägt. In der Regel ist nur eine Extremität
     betroffen, d.h. die Symptome sind nur auf *einer Seite* zu finden.
 
-:1:
+``1``
     Bettlägrigkeit, stattgehabte Reisen
 
-:2:
+``2``
     Schwangerschaft
 
-:4:
+``4``
     Schmerzen
 
 :…:
@@ -72,32 +75,33 @@ ABCDE
 
     -  Symptome i.d.R. *einseitig*
 
+*******
 SAMPLER
-^^^^^^^
+*******
 
-:S:
+``S``
     Siehe ABCDE.
 
-:M:
+``M``
     Eventuell wurden gerinnungshemmende Medikamente ("Blutverdünnung":
     Thrombosespritzen, Marcoumar, …) verschrieben. Eventuell wurden
     diese nicht oder fehlerhaft genommen.
 
-:P:
+``P``
     Eventuell sind Krampfadern (Varizen) bekannt. Eventuell sind
     Gerinnungsstörungen bekannt (z. B. *Thrombophilie*,
     *Faktor-V-Leiden-Mutation*, …). Weiters sind Tumorerkrankungen oder
     eine Schwangerschaft zu nennen.
 
-:L:
+``L``
     Eventuell ist ein vorangehender Spitalsaufenthalt, welchem eine
     Immobilsation folgte, erhebbar (Operationen, …).
 
-:E:
+``E``
     Verdächtig sind ausgedehnte stehende oder sitzende Tätigkeiten
-    (Reisen, …) und Bettlägrigkeit, siehe :R:.
+    (Reisen, …) und Bettlägrigkeit, siehe ``R``.
 
-:R:
+``R``
     Problematisch sind insuffiziente Venenklappen, stehende bzw.
     sitzende Tätigkeiten und fehlende Bewegung. Eine länger dauernde
     *Immobilisation* oder *Bettlägrigkeit* sind demnach wesentliche
@@ -118,35 +122,36 @@ SAMPLER
     Ausserdem können Erkrankungen des Gerinnungssystems (**P**)
     erhebliche Risikofaktoren darstellen.
 
-:S:
+``S``
     Siehe ABCDE
 
-:M:
+``M``
     Gerinnungshemmende Medikamente – Einnahmefehler?
 
-:P:
+``P``
     Siehe *R*
 
-:L:
+``L``
     Vorangehender Spitalsaufenthalt
 
-:E:
+``E``
     Siehe *R*
 
-:R:
+``R``
     Insuffiziente Venenklappen, stehende bzw. sitzende Tätigkeiten,
     Immobilisation, unzureichende Flüssigkeitsaufnahme, Rauchen,
     hormonellen Verhütungsmittel, Thrombose in der Anamnese,
     Schwangerschaft, Tumorerkankungen, Erkrankungen des
     Gerinnungssystems
 
+******
 Gefahr
-^^^^^^^^
+******
 
 
 .. sidebar:: Gefahr
 
-    -  Lösung des Thrombus → *Lungenembolie* (:ref:`topic-lungenembolie`)
+    -  Lösung des Thrombus → *Lungenembolie* (:ref:`Thema-lungenembolie`)
 
 Es kann zu einer *Loslösung von Teilen des Thrombus* kommen, dieser
 losgelöste Teil wird :dfn:`Embolus` genannt.
@@ -161,7 +166,7 @@ Dies führt dazu, dass der Embolus irgendwann
 zu groß ist und stecken bleibt.
 Dadurch wird nun ein Lungengefäß
 verstopft und ein Teil der Lunge nimmt nicht mehr am Gasaustausch teil:
-Es entsteht eine *Lungenembolie* (:ref:`topic-lungenembolie`).
+Es entsteht eine *Lungenembolie* (:ref:`Thema-lungenembolie`).
 
 
 

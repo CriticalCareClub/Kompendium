@@ -1,18 +1,23 @@
+
+.. _Thema-Stemi::
+
+.. _Thema-AkutesKoronarsyndrom::
+
+.. _Thema-Acs::
+
 ##########################
 Akutes Koronarsyndrm (ACS)
 ##########################
 
-Eur Heart J. 2018 Jan 7;39(2):119-177. doi: 10.1093/eurheartj/ehx393.
-2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC). PMID: 28886621. https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393
 
+`2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation <https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393>`_ :cite:`Esc-2017-GuidelinesStemi`
 
-:cite:`Damman2017,Ibanez2017,Ibanez2018`
 
 .. admonition:: Definition
 
     Das :dfn:`Akute Koronarsyndrom`
-    (:dfn:`ACS` [237]_) ist ein Symptomenkomplex, 
-    welcher typischerweise bei
+    (*Acute Coronary Syndrome*, :dfn:`ACS`) ist ein Symptomenkomplex, 
+    welcher typischerweise bei ischämischen
     Erkrankungen wie dem *Herzinfarkt* 
     und der *stabilen* oder *instabilen
     Angina pectoris* *akut* auftritt. 
@@ -22,44 +27,29 @@ es zu einer akuten *Unterversorgung des Herzmuskels* mit Blut und
 Sauerstoff aufgrund der Durchblutungsstörung. 
 Die Ursache sind in erster
 Linie verengte oder verstopfte Herzkranzgefäße 
-(*Ischämie*, :ref:`topic-ischaemie`). 
+(*Ischämie*, :ref:`Thema-ischaemie`). 
 Das akute Koronarsyndrom ist häufig das Ergebnis einer vorbestehenden koronaren
-Herzkrankheit.  [238]_ [239]_
-
-.. [237]
-   *ACS*: *Acute Coronary Syndrome*
-
-.. [238]
-   Akutes Koronarsyndrom: Das akute Koronarsyndrom ist ein Symptomenkomplex, 
-   welcher typischerweise bei Erkrankungen wie dem *Herzinfarkt* und der
-   *stabilen* oder *instabilen Angina pectoris* auftritt. Daneben gibt
-   es noch andere Erkrankungen, welche sich von den vorgenannten
-   entweder durch die Pathogenese (z. B. *Prinzmetal-Angina*) oder durch
-   den Pathomechanismus (z. B. *Tako-Tsubo-Kardiopathie*) wesentlich
-   unterscheiden.
-
-.. [239]
-   Koronare Herzkrankheit: Eine koronare Herzkrankheit ist oft
-   anamnestisch bereits bekannt. Ein Hinweis kann auch die Einnahme von
-   ASS-Präparaten (z. B. ThromboASS, HerzschutzASS, …) oder ein
-   Stent-Ausweis sein. Je nachdem welche Koronargefäße betroffen sind,
-   spricht man auch von einer 1-, 2- oder 3-Gefäßerkrankung (*engl.* 1-,
-   2-, 3-Vessel-Disease; bzw. *Abkz.* 1-, 2.-, 3.-VD).
+Herzkrankheit. 
+Daneben gibt es noch andere Erkrankungen, 
+welche sich von den vorgenannten entweder durch die Pathogenese 
+(z. B. *Prinzmetal-Angina*) oder durch den Pathomechanismus 
+(z. B. *Tako-Tsubo-Kardiopathie*) wesentlich unterscheiden. 
 
 
-*****
-Arten
-*****
+********************
+Krankheitsbilder
+********************
 
 
-.. _topic-angina-pectoris:
+.. _Thema-angina-pectoris:
 
-Angina pectoris
+Angina pectoris (AP)
 =====================
 
 **Plötzliches Engegefühl in der Brust meist mit Thoraxschmerz infolge
 einer *vorübergehenden* Unterversorgung des Herzmuskels mit
-sauerstoffreichem Blut.** Ein akuter Angina pectoris-Anfall ist primär
+sauerstoffreichem Blut.** 
+Ein akuter Angina pectoris-Anfall ist primär
 *nicht sicher von einem Herzinfarkt unterscheidbar*. Die Symptome treten
 eher bei Belastung auf und vergehen oft bei Entspannung, das
 Vorübergehen der Beschwerden darf aber natürlich nicht abgewartet
@@ -82,14 +72,14 @@ Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf
 
 -  Primär *nicht sicher vom Herzinfarkt unterscheidbar*
 
-.. _topic-herzinfarkt:
+.. _Thema-herzinfarkt:
 
-.. _topic-myocardinfarkt:
+.. _Thema-myocardinfarkt:
 
-.. _topic-mci:
+.. _Thema-mci:
 
-Herzinfarkt
-==============
+Herzinfarkt (Myocardinfakrt, MCI)
+==========================================
 
 
 .. sidebar:: Herzinfarkt
@@ -104,7 +94,7 @@ Herzinfarkt
 
 Verschluss eines oder mehrerer Herzkranzgefäße mit anschließendem
 Absterben des betroffenen Herzmuskelgewebes (Ischämie,
-:ref:`topic-ischaemie`).
+:ref:`Thema-ischaemie`).
 Die Symptome entsprechen denen des akuten Koronarsyndroms, doch vergehen diese nicht
 mehr und es bleiben – selbst bei optimaler Behandlung – Schäden am
 Herzmuskel bestehen.
@@ -114,7 +104,7 @@ Herzmuskel bestehen.
 .. figure:: /Bilder/WikipediaCcBySa/Heart_normal_short_axis_section-00640.*
         :width: 99%
 
-	    Das Herz im Querschnitt, gesehen von unten: Links der rechte
+        Das Herz im Querschnitt, gesehen von unten: Links der rechte
         Ventrikel, rechts der muskelstarke linke Ventrikel.
           
         [Patrick Lynch, CC-BY]
@@ -131,7 +121,7 @@ Herzmuskel bestehen.
 .. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.*
         :width: 99%
 
-	    stirbt nach einger Zeit ab, es
+        stirbt nach einger Zeit ab, es
         bildet sich eine (funktionslose) Narbe, die Herzleistung ist in Folge
         beeinträchtigt.
 
@@ -145,7 +135,8 @@ Herzmuskel bestehen.
     Bilderserie: Herzischämie
 
 
-
+Gefahren
+----------------------------
 
 -  *Herzrhythmusstörungen* (alle Arten), bis hin zum Kreislaufstillstand
    und zur Reanimationspflichtigkeit. Besonders häufig kommt es als
@@ -176,9 +167,7 @@ Symptome
 ********
 
 
-.. sidebar:: 
-
-    -  Unklare Diagnose, typische Symptome:
+.. sidebar:: Symptome
 
     -  Atemnot
 
@@ -188,21 +177,14 @@ Symptome
 
     -  …
 
-Da bei Behandlungsbeginn oft nicht klar ist, ob es sich um einen
-Herzinfarkt oder einen Angina-pectoris-Anfall handelt, wird bei
-Vorliegen der entsprechenden Symptome (Atemnot, Thoraxschmerz,
-Engegefühl im Thorax, Todesangst, …) einfach vom
-:dfn:`Akuten Koronarsyndrom`\  [240]_ gesprochen.
-
-
-.. [240]
-   *Engl* Acute Coronary Syndrome, ACS.
-
-Es sind *zwei Auslösemechanismen* möglich: Einerseits kann eine
+Es sind *zwei Auslösemechanismen* möglich: 
+Einerseits kann eine
 Minderdurchblutung des Herzmuskels (Myokard) aufgrund einer oder
 mehrerer *Einengung(en) von Herzkranzgefäßen* (Koronararterien) die
-Ursache sein, oder es kommt zu einem *erhöhtem Sauerstoffbedarf* des
-Herzens bei Anstrengung. In beiden Fällen kommt es zu einem
+Ursache sein, 
+oder es kommt zu einem *erhöhtem Sauerstoffbedarf* des
+Herzens bei Anstrengung. 
+In beiden Fällen kommt es zu einem
 *Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf* des
 Herzens (Ischämie), die Folge sind Schmerzen, Atemnot und ein
 Leistungsverlust!
@@ -220,10 +202,10 @@ ABCDE
 
 .. sidebar:: ABCDE
 
-    :3:
+    ``3``
         Leidend, evtl. kaltschweißig, blass
 
-    :4:
+    ``4``
         |symbol-RedFlag|\  *Akuter, nicht atemabhängiger, Brustschmerz*
         (brennend, stechend; Hinter dem Brustbein, evtl. *Ausstrahlung* in
         Kiefer, (linken) Arm, in Rücken) und |symbol-RedFlag|\  *Atemnot*,
@@ -231,24 +213,24 @@ ABCDE
 
         Typisch untypisch: *Oberbauchschmerz*; "stummer Infarkt"
 
-    :B:
+    ``B``
         |symbol-RedFlag|\  *Atemnot*, evtl. |symbol-RedFlag|\  Zyanose
 
-    :C:
+    ``C``
         Puls evtl. unregelmäßig, Blutdruck in jede Richtung verändert, evtl.
         Zeichen eines |symbol-RedFlag|\  kardiogenen Schocks
 
-    :E:
+    ``E``
         EKG (im Verlauf)!
 
-    :=:
+    ``=``
         Vital bedroht
 
-:3:
+``3`` — Ersteindruck
     Der Patient macht oft einen leidenden Eindruck, eventuell ist er
     |symbol-RedFlag|\  kaltschweißig und blass.
 
-:4:
+``4`` — Hauptbeschwerde
     Die Leitsymptome sind ein |symbol-RedFlag|\  *akuter, nicht
     atemabhängiger, Brustschmerz* und |symbol-RedFlag|\  *Atemnot*
     (*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert
@@ -266,19 +248,19 @@ ABCDE
     *Todesangst und Vernichtungsgefühl* sind häufig. Bei Auftreten eines *kardiogenen
     Schocks* können die entsprechenden Schockzeichen beobachtet werden:
     Blässe, Kaltschweißigkeit, Hypotonie, etc.
-    (:ref:`topic-schock-kardiogener`).
+    (:ref:`Thema-schock-kardiogener`).
 
-:B:
+``B`` — Breathing
     |symbol-RedFlag|\  *Atemnot* kommt häufig vor und ist ein
     Leitsymptom. Begleitend kann man oft eine Zyanose beobachten.
 
-:C:
+``C`` — Circulation
     Der Puls kann unregelmäßig sein.
     Der Blutdruck kann in jede Richtung verändert sein.
     Bedenke: Ein hypertensiver Notfall kann Auslöser eines ACS sein.
     Es können Zeichen eines |symbol-RedFlag|\  *kardiogenen Schocks* vorliegen.
 
-:E:
+``E`` — Extras
     Das EKG kann wichtige Hinweise über Ausdehnung, Alter und
     Lokalisation des Infarkts bringen. Um die Dynamik beurteilen zu
     können, soll schon möglichst früh ein 12-Kanal-EKG geschrieben
@@ -286,7 +268,7 @@ ABCDE
     ist jedoch nur entsprechend ausgebildeten und geübten Personal
     vorbehalten.
 
-:=:
+``=`` — Ergebnis
     Ein Patient mit einem |symbol-RedFlag|\  akuten Koronarsyndrom ist
     grundsätzlich als vital bedroht einzuschätzen. Eine ärztliche
     Diagnose ist auch hinsichtlich der Auswahl des richtigen
@@ -298,23 +280,23 @@ SAMPLER beim akuten Koronarsyndrom
 
 .. sidebar:: SAMPLER
 
-    :S:
+    ``S``
         Siehe ABCDE
 
-    :M:
+    ``M``
         Nitroglycerin: Pflaster, Kapseln, Spray
 
-    :P:
+    ``P``
         Koronare Herzkrankheit (KHK)
 
-    :E:
+    ``E``
         Körperliche Anstrengung
 
 
-:S:
+``S`` — Symptome
     Siehe ABCDE
 
-:M:
+``M`` — Medikatiion
     **Nitroglycerin** wird zur Erweiterung der Koronargefäße
     von KHK-Patienten eingenommen. Dies kann entweder mittels eines
     Pflasters (Nitro-Pflaster), über Kapseln oder mittels eines Sprays
@@ -322,7 +304,7 @@ SAMPLER beim akuten Koronarsyndrom
     erfolgen. Herzkranke Patienten nehmen daneben oft noch viele andere
     Medikamente ein.
 
-:P:
+``P`` — Patientenhistorie
     Bei den meisten Patienten ist die Angina Pectoris schon bekannt,
     bzw. es besteht eine *koronare Herz-Krankheit* (*KHK*). Die KHK ist
     eine Erkrankung der Herzkranzgefäße, diese werden durch Ablagerung
@@ -330,7 +312,7 @@ SAMPLER beim akuten Koronarsyndrom
     Blut durchfließen. So kommt es zu einer Mangelversorgung des
     Herzmuskels und zu den Symptomen der Angina pectoris.
 
-:E:
+``E``
     Häufig wird über körperliche Anstrengung oder Aufregung vor Beginn
     des Anfalls berichtet.
 
@@ -350,7 +332,7 @@ Differentialdiagnosen
 - funktionell
 
 *****************
-EKG-Veränderungen
+Diagnostik
 *****************
 
 Veränderungen des EKGs sind richtungsweisend in der Diagnostik 
@@ -406,7 +388,24 @@ Besonders häufige Patientengruppen mit **atypischer MCI-Präsentation** umfasse
 -   Frauen
 -   Patienten mit Diabetes mellitus
 -   Patienten mit Niereninffuzienz
-      
+
+
+Weiterführende Diagnostik 
+=============================================================================
+
+
+.. rubric:: Echokardiographie 
+
+Abschätzung des Schweregrades, Infarktlokalisation, Einschätzung der hämodynamischen Stabilität und AUsschluss von Differentialdiagnosen.
+
+.. rubric:: Labor
+
+-  Wenn Vorhanden: Schnelltests (z.B. Troponin)
+-  Herzenzyme (CK, CK-MB, LDH, Troponin-T, ggfs. proBNP)
+
+
+
+
 
 ********
 Therapie
@@ -427,37 +426,53 @@ und somit die Durchblutung des Herzmuskels, wiederhergestellt werden soll.
 Dazu stehen im Wesentlichen zwei Methoden zur Wahl: 
 
 
-
--  Mit einem *Herzkatheter* versucht man die verengten oder verstopften
-   Gefäße aufzudehnen und mittels *Stents* offen zu halten.
-   Dazu benötigt man ein *dienstbereites* 
-   und *verfügbares* **Herzkatheterlabor**. [241]_
-
 -  Bei der **Lyse-Therapie** versucht man medikamentös einen 
    Thrombus in einem Koronargefäß aufzulösen.
    Oft muss nach einer Lyse auf eine Herzkatheter-Intervention 
    durchgeführt werden.
 
+-  Bei einer **Herzkatheteruntersuchung** bzw. -intervention
+   (*Koronarangiographie*) versucht man die verengten oder verstopften
+   Gefäße aufzudehnen und mittels *Stents* offen zu halten 
+   (:abbr:`PCI (Percutane Coronary Intervention; 
+   perkutane Koronar-Intervention)`, 
+   :abbr:`PTCA (Perkutane Transluminale Coronar-Angioplastie)`).
+   Dazu benötigt man ein *dienstbereites* 
+   und *verfügbares* **Herzkatheterlabor**. [241]_
+
+   Hinsichtlich der Strategie unterscheidet man:
+
+   -  Primär-PCI
+   -  Kombination von Lyse-Therapie und PCI
+
+      -  *Facilitated PCI*: Lyse, dann gleich PCI unabnhängig vom Lyse-Erfolg -- out
+      -  *Rescue-PCI*: PCI nur bei Lyseversagen
+      -  *Pharmaco-ivasive Approach*: Angio-Zeitpunkt individuell
+
+
+
 .. [241]
    Herzkatheter: Bei einer Herzkatheteruntersuchung
-   (*Koronarangiographie*) wird über die Leistenarterie ein Katheter
+   (*Koronarangiographie*) wird über eine Leisten- oder Radialarterie ein Katheter
    eingebracht und bis knapp vor das Herz zu den Abgängen der
    Koronargefäße vorgeschoben und anschließend ein
    Röntgen-Kontrastmittel appliziert. Dadurch kann mittels
-   Durchleuchtungsgeräten der Blutfluß in den Koronargefäßen beobachtet
-   und beurteilt werden, sowie Verengungen und Verschlüsse identifiziert
-   werden (diagnostische Herzkatheteruntersuchung). Wird eine solche
-   Stelle gefunden, kann diese oft auch gleich mittels des Herzkatheters
-   behandelt werden (Intervention; *PCI* (Percutane Coronare
+   Durchleuchtungsgeräten der Blutfluß in den Koronargefäßen  
+   beurteilt, sowie Verengungen und Verschlüsse identifiziert
+   werden (diagnostische Herzkatheteruntersuchung). 
+   Wird eine solche Stelle gefunden, 
+   kann diese oft mittels des Herzkatheters
+   behandelt werden (Intervention; *PCI* (Percutane Coronary
    Intervention) oder *PTCA* (Perkutane Transluminale Coronare
    Angioplastie)). Dabei wird ein Ballon in die Engstelle eingebracht,
-   welcher das Gefäß aufdehnt. Anschließend wird ein zylindrisches
-   Metallgeflecht, ein sog. *Stent*, eingebracht, welcher als Stütze für
-   das Gefäß dient und dieses längerfristig offen halten soll. Vgl.
-   (Dietel, Suttorp, and Zeitz 2012a; Dietel, Suttorp, and Zeitz 2012e)
+   welcher das Gefäß aufdehnt. Anschließend wird ein **Stent**, 
+   im Prinzip ein zylindrisches Metallgeflecht, eingebracht, welcher als Stütze für
+   das Gefäß dient und dieses längerfristig offen halten soll. 
+   Es sind dabei unterschiedliche Stent-Arten in Verwendung 
+   (:abbr:`BMS (Bare Metall Stent)`, :abbr:`DES (Drug Eluting Stent)`).
 
-Somit kann eine normale kardiologische Betten-, Überwachungs- oder Intensivstation
-per se keine adäquate Versorgung bereitstellen.
+Somit kann eine kardiologische Betten-, Überwachungs- oder Intensivstation
+alleine *keine* adäquate Versorgung bereitstellen.
 In der Regel muss das erstversorgende Fachpersonal über die Indikation 
 zur Einleitung einer Reperfusionsbehandlung stellen 
 bzw. das geeigente Verfahren auswählen.
@@ -499,85 +514,109 @@ Daraus ergeben sich folgende logistische Empfehlungen :cite:`Ibanez2018`:
     single: Heparin (ACS)
     single: ASS  (ACS)
     
-Allgemein und Basis
-===================
+Allgemein und Basics
+====================
 
-:Lagerung:
+Lagerung
     Oberkörper erhöht, beengende Kleidung öffnen
   
-:Sauerstoff:
+Sauerstoff
     Sauerstoff ist indiziert bei **hypoxämischen** Patienten (SaO₂ < 90%
     oder paO₂ < 60 mm Hg).
     Bei nicht-hypoxämischen Patienten ist Sauerstoff **nicht empfohlen**!
 
-:Morphin:
-    I. v.-Opiode sollen zur Schmerztherapie erwogen werden
+Pharmakotherapie
+================
 
-    Z. B. Morphin |IV|, titriert in 2--5 mg-Schritten (Erw.)
+Die Anwendung bestimmter Medikamente unterscheidet sich nach der Unterscheidung 
+STEMI, NSTEMI und AP, sowie nach der geplanten Reperfusionstrategie.
 
-:Heparin:
-    **70 IU / kg i. v.** [#AcsTherapieAllgemeinHeparinDosierung]_
+Morphin
+-------------------------------------
 
-    .. [#AcsTherapieAllgemeinHeparinDosierung]
-         Es werden 70--100 IU / kg i. v. ohne,
-         und 50--70 IU / kg mit  GP IIb/IIIa-Inhibitor empfohlen,
-         somit ergibt sich eine Schnittmenge von **70 IU / kg i. v.** (IC).
+I. v.-Opiode sollen zur Schmerztherapie erwogen werden
 
-:|P2Y12|\ -Inhibitor:
-    Beim ACS ist eine |P2Y12|\ -Inhibitor indiziert [#P2Y12InhibitorIndikationAcs]_ .
+Z. B. Morphin |IV|, titriert in 2--5 mg-Schritten (Erw.)
 
-    Beim **STEMI** ist das Mittel der Wahl **Ticagrelor** (**Brilique®**)
-    [#P2Y12InhibitorIndikationAcsPrasugrel]_.
-    Es ist einfach anwendbar,
-    behindert Interventionen kaum,
-    ist auch grundsätzlich beim NSTEMI einsetzbar
-    und ist als *Schmelztablette* einsetzbar
-    (Cave: keine Resorption über Mundschleimhaut,
-    sondern im GI-Trakt;
-    Gabe z. B. über Magensonde möglich).
+Heparin
+-------------------------------------
 
-    **Clopidogrel** ist bei *stabilen KHK-Patienten* und ACS-Patienten,
-    welche kein Prasugrel oder Ticagrelor erhalten können,
-    empfohlen (1A),
-    ebenso wie bei Patienten mit *Thrombolyse* (3B).
+**70 IU / kg i. v.** [#AcsTherapieAllgemeinHeparinDosierung]_
 
-    Bei |P2Y12|\ -Vortherapie gilt hinsichtlich Loading:
+.. [#AcsTherapieAllgemeinHeparinDosierung]
+        Es werden 70--100 IU / kg i. v. ohne,
+        und 50--70 IU / kg mit  GP IIb/IIIa-Inhibitor empfohlen,
+        somit ergibt sich eine Schnittmenge von **70 IU / kg i. v.** (IC).
 
-    -   Clopidogrel vorbestehend: Bedeutungslos
+.. index::
+    single: P2Y₁₂
+    single: P2Y₁₂-Inhibitor
+    single: Ticagrelor; ACS
+    single: Brilique®; ACS
+    single: Prasugrel; ACS
+    single: Efient®; ACS
 
-    -   Prasugrel oder Ticagrelor vorbestehend: Loading Dose 24 h nach letzter Einnahme
+P2Y₁₂-Inhibitor
+-------------------------------------
+
+Das P2Y₁₂-Protein befindet sich u. a. auf der Oberfläche von Thrombozyten
+und ist als Chemorezeptor für Adenosindiphosphat (ADP) 
+an der Thrombozytenaggregation beteiligt 
+und somit ein wichtiger Regulator der Blutgerinnung.
+Beim ACS ist eine Hemmung mittels eines 
+potenten *P2Y₁₂-Inhibitors* 
+(*Prasugrel*, *Ticagrelor*, oder, wenn nicht verfügbar, auch *Clopidogrel*)
+empfohlen *bevor* oder spätestens zum Zeitpunkt der PCI
+(und weiter für 12 Monate),
+sofern keine Kontraindikationen
+oder ein Risiko für exzessive Blutungen besteht.
+P2Y₁₂-Inhibitor indiziert.
+
+Beim **STEMI** ist das Mittel der Wahl **Ticagrelor** (*Brilique®*).
+Es ist einfach anwendbar,
+behindert Interventionen kaum,
+ist auch grundsätzlich beim NSTEMI einsetzbar
+und ist als *Schmelztablette* einsetzbar
+(Cave: keine Resorption über Mundschleimhaut,
+sondern im GI-Trakt;
+Gabe z. B. über Magensonde möglich).
+Für das alternativ anwendbare **Prasugrel** (*Efient®*) 
+bestehen diverse Kontraindikationen (Alter, Gewicht),
+was die Anwendung verkompliziert.
+
+Bei **stabilen KHK-Patienten** 
+und ACS-Patienten,
+welche kein Prasugrel oder Ticagrelor erhalten können,
+sowie bei Patienten mit **Thrombolyse**-Reperfusionsstrategie,
+ist **Clopidogrel** (*Plavix®*) empfohlen.
+
+Bei P2Y₁₂-Vortherapie gilt hinsichtlich Loading:
+
+-   Clopidogrel vorbestehend: Bedeutungslos
+
+-   Prasugrel oder Ticagrelor vorbestehend: Loading Dose 24 h nach der letzten Einnahme
 
 
-    .. [#P2Y12InhibitorIndikationAcs]
-        Beim STEMI ist ein potenter |P2Y12|\ -Inhibitor (Prasugrel oder Ticagrelor),
-        oder,
-        wenn nicht verfügbar auch Clopidogrel,
-        empfohlen *bevor* oder spätestens zum Zeitpunkt der PCI
-        (und weiter für 12 Monate),
-        sofern keine Kontraindikationen
-        oder ein Risiko für exzessive Blutungen besteht (1A).
 
-    .. [#P2Y12InhibitorIndikationAcsPrasugrel]
-        Für *Prasugrel* (Efient®) bestehen diverse Kontraindikationen (Alter, Gewicht).
+.. todo::
+    Ticagrelor bei ACS unabhängig von der Therapiestrategie
 
-    .. todo::
-        Ticagrelor bei ACS unabhängig von der Therapiestrategie
+    -   Warum dann bei NSTEMI und bei STEMI+Lyse Clopidogrel?
 
-        -   Warum dann bei NSTEMI und bei STEMI+Lyse Clopidogrel?
+Additiv -- Erwäge:
+-------------------------------------
 
-:Additiv -- Erwäge:
+-   Nitroglycerin (nicht bei Rechtsherzbeteiligung)
 
-    -   Nitroglycerin (nicht bei Rechtsherzbeteiligung)
+-   β-Blocker (frequenzabhängig)
 
-    -   β-Blocker (frequenzabhängig)
+-   bei Rechtsherzbeteiligung: Volumengabe
 
-    -   bei Rechtsherzbeteiligung: Volumengabe
+-   (ACE-Inhibitoren)
 
-    -   (ACE-Inhibitoren)
+-   (AT-II-Inhibitoren)
 
-    -   (AT-II-Inhibitoren)
-
-    -   (Statine)
+-   (Statine)
 
     
 .. index::
@@ -589,10 +628,10 @@ Allgemein und Basis
     single: ASS  (STEMI)
     single: PCI (STEMI)
     
-STEMI (ohne Lyse)
+℞: STEMI *ohne Lyse*
 ===================================
 
-Schmerzbegin bis FMC < 12 h
+Schmerzbegin bis :term:`FMC` < 12 h
 
 -   **ASS** 250 mg i. v. so schnell als möglich (1B)
 
@@ -604,11 +643,8 @@ Schmerzbegin bis FMC < 12 h
 
     -   UK Krems:
         
-        -   Aviso DECT 4444 (IM1/I-ISV-OA)
-        -   Übergabe im Schockraum,
-            wenn möglich kommt der Patient auf der Rettungstrage
-            und mit Rettungsdienst-Monitoring in das Herzkathterlabor
-            (*"bypass emergency department"*)
+    -   Aviso 
+    -   *"bypass emergency department"*
 
 
 .. index::
@@ -618,12 +654,13 @@ Schmerzbegin bis FMC < 12 h
    single: STEMI (Lyse)
    
 
-STEMI mit Lyse
-==============
+℞: STEMI *mit Lyse*
+====================
 
 Wenn die Fibrinolyse angewendet werden soll,
-dann sollte diese bei einem STEMI *so früh wie möglich*
-initiiert werden (< 10 min. nach FMC) (1A).
+dann sollte diese bei einem 
+:abbr:`STEMI (ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt)` *so früh wie möglich*
+initiiert werden (< 10 min. nach :term:`FMC`) (1A).
 
 Bei Patienten über 75 Jahre sollte die Hälfte der
 Dosis überlegt werden. (2aB)
@@ -648,27 +685,25 @@ keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
     -   Bei jungen, kurz symptomatischen STEMI-Patienten: > 60 min
 
 
+.. rubric:: Kontraindikationen für Lyse
 
+-  Operation < 14 Tagen
 
-.. warning:: Kontraindikationen für Lyse
+-  Organpunktion < 7 Tagen
 
-               -  Operation < 14 Tagen
+-  Apoplex < 3 Monaten
 
-               -  Organpunktion < 7 Tagen
+-  Z. n. Hirnblutung
 
-               -  Apoplex < 3 Monaten
+-  Rezentes Ulcus
 
-               -  Z. n. Hirnblutung
+-  Unkontrollierte Hypertonie
 
-               -  Rezentes Ulcus
+-  Schwere Retinopathie
 
-               -  Unkontrollierte Hypertonie
+-  Bekannte Blutungsneigung
 
-               -  Schwere Retinopathie
-
-               -  Bekannte Blutungsneigung
-
-               -  OAK-Therapie
+-  OAK-Therapie
 
       
 
@@ -680,7 +715,7 @@ keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
     -   Patient < 60 kg à 6000 IE
     -   Ab 60 kg 100 IE/kg/KG
 
--   Begleittherapie lt :ref:`Tab-ThrombolyseBegleittherapie`
+-   Begleittherapie lt :ref:`Tafel-ThrombolyseBegleittherapie`
 
 -   Transport in ein **PCI-Zentrum**
 
@@ -688,7 +723,7 @@ keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
     -   Wenn nach 60--90 min keine Rückbildung: "Lyse-Versager"
 
     
-.. _[Tab-ThrombolyseBegleittherapie]:
+.. _[Tafel-ThrombolyseBegleittherapie]:
 
 .. list-table:: Thrombolyse-Begleittherapie
     :header-rows: 1
@@ -719,8 +754,8 @@ keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
 
 
 
-NSTEMI
-======
+℞: NSTEMI
+==========
 
 - ASS 250 mg i. v.
 
@@ -734,30 +769,5 @@ NSTEMI
     -   asymptomatisch: PCI > 24 h
 
 
-
-
-
-Diagnostik und Versorgung in den *ersten 24 h*
-==============================================
-
-#. Klinische Diagnostik
-
-         -  *Bildgebung*:
-
-            -  Echokardiographie
-
-         -  *Labor*:
-
-            -  Wenn Vorhanden: Schnelltests (z.B. Troponin)
-            -  Herzenzyme (CK, CK-MB, LDH, Troponin-T, ggfs. proBNP)
-
-#. Versorgung und Therapie
-
-   -  Primär-PCI
-   -  Kombination Lyse und PCI
-
-      -  Facilitated PCI: Lyse, dann gleich PCI unabnhängig vom Lyse-Erfolg -- out
-      -  Rescue-PCI: PCI nur bei Lyseversagen
-      -  Pharmaco-ivasive Approach Angio-Zeitpunkt individuell
 
 

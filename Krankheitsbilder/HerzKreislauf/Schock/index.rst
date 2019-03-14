@@ -1,12 +1,14 @@
 
-.. _topic-schock:
+.. _Thema-Schock:
 
+######################################################
 Der Schock ist eine lebensbedrohliche Kreislaufstörung
-======================================================
+######################################################
 
 
+************
 Beschreibung
-------------
+************
 
 .. sidebar:: Schock
 
@@ -37,10 +39,10 @@ Gehirnskommen kann.
     *Missverhältnis Herzminutenvolumen:Sauerstoffbedarf*
 
         -  Schock = Kreislaufinsuffizienz = *Missverhältnis
-        Herzminutenvolumen:Sauerstoffbedarf* des Körpers
+           Herzminutenvolumen:Sauerstoffbedarf* des Körpers
 
         -  Es können einzelne oder mehrere Teile des Kreislaufsystems
-        betroffen sein (Blut, Gefäße, Herz).
+           betroffen sein (Blut, Gefäße, Herz).
 
         -  Beim Schock kommt zu wenig sauerstoffreiches Blut zu den Organen.
 
@@ -49,8 +51,9 @@ Gehirnskommen kann.
    single: Zentralisation
    single: Rekapillarisierungszeit
 
+****************************
 Kompensation, Dekompensation
-----------------------------
+****************************
 
 
 .. sidebar:: Kompensation, Dekompensation
@@ -64,7 +67,7 @@ Kompensation, Dekompensation
     -  Ende: *Dekompensierter Schock*
 
 Der Körper versucht durch Aktivierung des Sympathikus
-(:ref:`topic-sympathikus`: *"Fight!"*) gegenzusteuern (zu *kompensieren*).
+gegenzusteuern (zu *kompensieren*).
 Der wichtigste Mechanismus ist die :dfn:`Zentralisation`.
 Darunter versteht man die *Blutumverteilung zugunsten lebenswichtiger
 Organe* wie Herz, Gehirn, Lunge und Leber. Dabei werden z. B. Haut,
@@ -83,10 +86,11 @@ die Kompensationsmaßnahmen nicht mehr ausreichen, spricht man vom
 
     Ein Schockzustand ist grundsätzlich als vitale Bedrohung einzustufen!
 
-.. _topic-schock-allgemeine-symptomatik: 
+.. _Thema-SchockAllgemeineSymptomatik: 
 
+****************************
 Allgemeine Schocksymptomatik
-----------------------------
+****************************
 
 Die Symptome eines Schocks sind
 abhängig vom jeweiligen Stadium. 
@@ -95,92 +99,61 @@ Symptome eher diskret sind.
 Das erste Anzeichen eines beginnenden
 Schocks ist oft lediglich eine kühle Haut (Kaplan et al. 2001)!
 Natürlich kann es auch andere Ursachen für eine kühle Haut geben, z. B.
-eine kalte Umgebungstemperatur. Die Tabelle [tab:schocksymptomatik],
+eine kalte Umgebungstemperatur. Die Tabelle :ref:`Tafel-Schocksymptomatik`,
 listet typische allgemeine Schocksymptome auf.
 
 -  Stadienabhängig
 
--  [tab:schocksymptomatik]
+-  :ref:`Tafel-Schocksymptomatik`
 
     -  Ob ein Schock oder eine Schockgefahr besteht wird anhand von und
        anhand der beurteilt.
 
-ll
 
-| **Stadium** & **Symptome**
-| *Schockgefahr*
+.. _Tafel-Schocksymptomatik::
 
-|image| &
+.. list-table:: Schocksymptomatik
+    :widths: 20 80
+    :header-rows: 1
 
--  Keine eindeutigen Anzeichen
+    *   -   Stadium 
+        -   Symptome
+    *   -   **Schockgefahr**
+        -   -   Keine eindeutigen Anzeichen
+            -   Vorausschauend handeln!
+            -   Verdachtsdiagnose bedenken. 
+                Muss man damit rechnen, dass sich ein Schock entwickelt? 
+                Besteht Schockgefahr?
+    *   -   **Schock**
+        -   -   HF ↑
+            -   Mäßiger RR-Abfall, aber RR noch > HF
+            -   Neurologisch unauffällig, ev. euphorisch oder agitiert
+            -   Haut blass, evtl. kaltschweißig
+            -   Venen sind kollabiert oder gestaut
+            -   Peripherie schlecht durchblutet, Rekapzeit erhöht
+    *   -   **Schwerer Schock – Vollbild**
+        -   -   Tachykardie (HF ↑, "fliehender" Puls)
+            -   RR-Abfall (schwacher Puls, peripher schlecht oder nicht tastbar)
+            -   Herzfrequenz > systolischer RR
+            -   Tachypnoe (schnelle, flache Atmung)
+            -   Neurologisch auffällig, getrübt
+            -   Haut blass, zyanotisch (bläulich), feucht
+            -   Venen kollabiert oder gestaut
+            -   Nur mehr schwer behebbar! 
+                Schock möglichst frühzeitig erkennen & behandeln
+    *   -   **Endstadium**
+        -   -   Haut grau, klebrig
+            -   Versagen der Herzfunktion
+            -   RR kaum mehr messbar
+            -   Evtl. Koma
+            -   Evtl. Schnappatmung
+            -   Patient ist sterbend.
 
--  Vorausschauend handeln!
+.. _Thema-Schockschere:
 
--  Verdachtsdiagnose bedenken. Muss man damit rechnen, dass sich ein
-   Schock entwickelt? Besteht Schockgefahr?
-
-| 
-| *Schock*
-
-|image| &
-
--  HF ↑
-
--  Mäßiger RR-Abfall, aber RR noch > HF
-
--  Neurologisch unauffällig, ev. euphorisch oder agitiert
-
--  Haut blass, evtl. kaltschweißig
-
--  Venen sind kollabiert oder gestaut
-
--  Peripherie schlecht durchblutet, Rekapzeit erhöht
-
-| 
-| *Schwerer Schock – Vollbild*
-
-|image| &
-
--  Tachykardie (HF ↑, "fliehender" Puls)
-
--  RR-Abfall (schwacher Puls, peripher schlecht oder nicht tastbar)
-
-   -  Herzfrequenz > systolischer RR
-
--  Tachypnoe (schnelle, flache Atmung)
-
--  Neurologisch auffällig, getrübt
-
--  Haut blass, zyanotisch (bläulich), feucht
-
--  Venen kollabiert oder gestaut
-
--  Nur mehr schwer behebbar! ↓ Schock möglichst
-   frühzeitig erkennen & behandeln
-
-| 
-| *Endstadium*
-
-&
-
--  Haut grau, klebrig
-
--  Versagen der Herzfunktion
-
--  RR kaum mehr messbar
-
--  Evtl. Koma
-
--  Evtl. Schnappatmung
-
--  Patient ist sterbend.
-
-| 
-
-.. _topic-schockschere:
-
+************
 Schockschere
-------------
+************
 
 Normalerweise ist die Herzfrequenz niedriger als
 der systolische Blutdruck. (Achtung: *Kinder haben andere Normalwerte
@@ -192,9 +165,9 @@ sich dann *bereits im Vollbild eines Schocks!* *Die Schockschere ist ein
 Schockschere befindet, kann er trotzdem einen Schock haben!*
 
 
-.. sidebar:: 
+.. sidebar:: Schockschere
 
-    -  RR\ :sub:`syst`\ <HF
+    -  RR\ :sub:`syst`\ < HF
 
     -  Dann bereits *schwerer* Schock
 
@@ -217,231 +190,150 @@ Schockschere befindet, kann er trotzdem einen Schock haben!*
        *Schocksymptomen* und anhand der *Verdachtsdiagnose* beurteilt,
        **nicht** primär anhand der Schockschere!
 
+****************
 Schock beim Kind
-----------------
+****************
 
 Die Schockschere gilt beim Kind nicht, da die Normalwerte andere sind!
 Kinder bleiben außerdem lange kreislaufstabil, verfallen dann aber
 schlagartig!
 
+****************************
 Unterschiedliche Schockarten
-----------------------------
+****************************
 
-[topic-schock-arten]Beim Schock können einzelne oder mehrere Teile des
+[Thema-schock-arten]Beim Schock können einzelne oder mehrere Teile des
 Kreislaufsystems (Blut, Gefäße, Herz) gestört sein. Dementsprechend
 werden unterschiedliche Mechanismen schlagend und man kann verschiedene
-Schockarten unterscheiden, siehe :ref:`tab:schock-mechanismen`, und
-:ref:`tab:uebersicht-schockarten`.
-
-lll
-
-| 
-| *Volumen* & *Herz* & *Gefäße*
-| (lr)1-1(lr)2-2(lr)3-3 Es ist *zu wenig Flüssigkeit* bzw. Blut im
-  Gefäßsystem vorhanden & Der *Herzauswurf* (bei normalem Volumen) ist
-  zu gering. & Die Gefäße sind inadäquat *weitgestellt*, das Blut
-  versackt
-
--  *Hypovolämischer* Schock
-
-&
-
--  *Kardiogener* Schock
-
-&
-
--  *Anaphylaktischer* Schock
-
--  *Septischer* bzw. *toxischer* Schock
-
--  *Neurogener* Schock
-
-| 
-
-!!! TABELLE WEIT Übersicht: [tab:uebersicht-schockarten]
-
-lll
-
-| **Schockart** & **Ursachen** & **Spezielle Symptome**
-| *Hypovoläm*
-
-**Verlust von Blutvolumen (Vollblut oder Blutbestandteilen) aus den
-Gefäßen** &
-
--  Verlust nach außen
-
-   -  Blutung
-
-   -  Verbrennungen (Hautbarriere versagt großflächig)
-
-   -  Gastrointestinal (Durchfall, Diarrhoe)
-
-   -  Exsikkose ([topic-exsikkose])
-
--  Verlust nach innen
-
-   -  Innere Blutungen
-
-      -  Nach Trauma, rupturierte Eileiterschwangerschaft, …
-
-   -  Wassereinlagerung ins Gewebe
-
-   -   Aszites ("Wasserbauch", z. B. bei Lebererkrankungen)
-
-&
-
--  [tab:schocksymptomatik]
-
-| 
-| *Kardiogen*
-
-**Mangelnder Herzauswurf durch insuffiziente Pumpleistung** &
-
--  Herzversagen, Herzinsuffizienz
-
-   -  Myokardinfarkt (häufigste Ursache)
-
-   -  Herzrhythmusstörungen
-
--  Lungenembolie
-
-&
-
--  RR-Abfall
-
--  Stauungszeichen (Lungenödem, Beinödeme, gestaute Halsvenen)
-
--  Atemnot
-
-| 
-| *Anaphylaktisch*
-
-**Überschießende allergische Reaktion** &
-
--  Überschießende Reaktion der Körperabwehr
-
--  Gefäße erweitert, Blut versackt
-
--  Durchlässigkeit der Gefäße ↑, Plasmaverlust in Zwischengewebsraum
-
--  Mögliche Auslöser:
-
-   -  Pollen
-
-   -  Medikamente
-
-   -  Kontrastmittel
-
-   -  tierische Gifte
-
-   -  u.v.a.m.
-
-&
-
--  Stadienabhängig
-
--  Hautreaktion: evtl. Ausschlag, Rötung; Quaddeln, Flush, Ödeme
-
-   Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
-
--  RR ↓, Tachykardie
-
-   Übelkeit, Erbrechen, Durchfall
-
--  Allgemeine Schocksymptome
-
-   Bronchospasmus
-
--  Atem-/Kreislaufstillstand
-
-   Schwerer Schock
-
-| 
-| *Septisch, toxisch*
-
-**Schwere körperweite Infektion oder Einwirkung eines die Gefäße
-beeinflussenden Giftstoffs (Toxin)** &
-
--  Langanhaltender Entzündungsherd der plötzlich Erreger "ins Blut
-   streut"
-
--  Fremdkörper (Venenverweilkanülen, Tampons, …)
-
--  …
-
-&
-
--  Schock
-
--  Hohes oder kein Fieber
-
--  Haut heiß, trocken, rot, später bleich, grau, marmoriert
-
-| 
-| *Neurogen*
-
-**Unterbrechung oder Störung der nervlichen Versorgung der
-Kreislaufregulation. Es kommt zu inadäquater arterieller und venöser
-Gefäßerweiterung (Vasodilatation).**
-
-&
-
--  Rückenmarksverletzung (Querschnitt-Syndrom)
-
--  Gefäßwandmuskulatur bekommen keine Nerven-Impulse und kontrahiert
-   sich nicht mehr
-
--  Gefäße weiten sich → Blut versackt
-
-&
-
--  [tab:schocksymptomatik]
-
-| 
-
-.. _topic-schock-hypovolaemischer: 
-
+Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
+:ref:`Tafel-UebersichtSchockarten`.
+
+.. list-table:: Schockarten
+    :widths: 20 40 40
+    :header-rows: 1
+
+    *   -   Volumen 
+        -   Herz
+        -   Gefäße
+    *   -   Es ist *zu wenig Flüssigkeit* bzw. Blut im Gefäßsystem vorhanden 
+        -   Der *Herzauswurf* (bei normalem Volumen) ist  zu gering. 
+        -   Die Gefäße sind inadäquat *weitgestellt*, das Blut versackt
+    *   -   - *Hypovolämischer* Schock
+        -   - *Kardiogener* Schock
+        -   - *Anaphylaktischer* Schock
+            - *Septischer* bzw. 
+            - *toxischer* Schock
+
+
+.. _Tafel-UebersichtSchockarten::
+
+.. list-table:: Schockarten
+    :widths: 20 40 40
+    :header-rows: 1
+
+    *   -   Schockart 
+        -   Ursachen
+        -   Spezielle Symptome
+    *   -   Hypovoläm
+        -   Verlust von Blutvolumen (Vollblut oder Blutbestandteilen) aus den Gefäßen** 
+        -   -  Verlust nach außen
+               -  Blutung
+               -  Verbrennungen (Hautbarriere versagt großflächig)
+               -  Gastrointestinal (Durchfall, Diarrhoe)
+               -  Exsikkose ([Thema-exsikkose])
+            -  Verlust nach innen
+               -  Innere Blutungen
+               -  Nach Trauma, rupturierte Eileiterschwangerschaft, …
+               -  Wassereinlagerung ins Gewebe
+               -   Aszites ("Wasserbauch", z. B. bei Lebererkrankungen)
+    *   -   **Kardiogen**
+        -   *Mangelnder Herzauswurf durch insuffiziente Pumpleistung*
+            -  Herzversagen, Herzinsuffizienz
+               -  Myokardinfarkt (häufigste Ursache)
+               -  Herzrhythmusstörungen
+            -  Lungenembolie
+        -   -  RR-Abfall
+            -  Stauungszeichen (Lungenödem, Beinödeme, gestaute Halsvenen)
+            -  Atemnot
+    *   -   **Anaphylaktisch**
+        -   *Überschießende allergische Reaktion*
+            -  Überschießende Reaktion der Körperabwehr 
+            -  Gefäße erweitert, Blut versackt
+            -  Durchlässigkeit der Gefäße ↑, Plasmaverlust in Zwischengewebsraum
+            -  Mögliche Auslöser:
+               -  Pollen
+               -  Medikamente
+               -  Kontrastmittel
+               -  tierische Gifte
+               -  u.v.a.m.
+        -   Stadienabhängig
+
+            -  Hautreaktion: evtl. Ausschlag, Rötung; Quaddeln, Flush, Ödeme
+            -  Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
+            -  RR ↓, Tachykardie
+               Übelkeit, Erbrechen, Durchfall
+            -  Allgemeine Schocksymptome
+               Bronchospasmus
+            -  Atem-/Kreislaufstillstand
+               Schwerer Schock
+    *   -   **Septisch, toxisch**
+        -   *Schwere körperweite Infektion oder Einwirkung eines die Gefäße beeinflussenden Giftstoffs (Toxin)*
+
+            Langanhaltender Entzündungsherd der plötzlich Erreger "ins Blut streut"
+
+            Fremdkörper (Venenverweilkanülen, Tampons, …)
+
+            …
+        -   -  Schock
+            -  Hohes oder kein Fieber
+            -  Haut heiß, trocken, rot, später bleich, grau, marmoriert
+    *   -   **Neurogen**
+        -   *Unterbrechung oder Störung der nervlichen Versorgung der Kreislaufregulation. Es kommt zu inadäquater arterieller und venöser Gefäßerweiterung (Vasodilatation).*
+
+            -  Rückenmarksverletzung (Querschnitt-Syndrom)
+            -  Gefäßwandmuskulatur bekommen keine Nerven-Impulse und kontrahiert  sich nicht mehr
+            -  Gefäße weiten sich → Blut versackt
+        -  [Tafel-schocksymptomatik]
+
+
+.. _Thema-SchockHypovolaemischer: 
+
+**********************
 Hypovolämischer Schock
-----------------------
+**********************
 
 **Schock aufgrund eines Verlustes von
 Flüssigkeit aus den Gefäßen.** Es können dabei (Voll-) Blut, oder auch
 nur Blutbestandteile wie Plasma oder Wasser und Elektrolyte verloren
 gehen. Der Verlust kann jeweils nach innen und/oder nach außen erfolgen,
-siehe :ref:`tab:uebersicht-urachen-fluessigkeitsverlust-schock`. Bei akutem
+siehe :ref:`Tafel-UebersichtUrsachenFluessigkeitsverlustSchock`. Bei akutem
 Flüssigkeitsverlust kann ein Verlust von bis zu 20% des Blutvolumens gut
 kompensiert werden. Auf größere Verluste folgt ein Absinken von
 Herzauswurf und RR!
 
-ll
+.. _Tafel-UebersichtUrsachenFluessigkeitsverlustSchock::
 
-| Flüssigkeitsverlust nach außen & Flüssigkeitsverlust nach innen
+.. list-table:: Flüssigkeitsverlust beim hypovolämischen Schock
+    :widths: 50 50
+    :header-rows: 1
 
--  Blutung
+    *   -   Flüssigkeitsverlust nach außen 
+        -   Flüssigkeitsverlust nach innen
+    *   -   -  Blutung
+            -  Verbrennungen (Hautbarriere versagt großflächig)
+            -  Gastrointestinal (Durchfall, Diarrhoe)
+            -  Harnausscheidung (Diabetes mellitus, Diabetes insipidus, Diuretika, Polyurie bei Nierenversagen)
+        -   -  Innere Blutungen
+                -  Nach Trauma, rupturierte Eileiterschwangerschaft, etc
+            -  Wassereinlagerung ins Gewebe
+            -   Aszites ("Wasserbauch", z. B. bei Lebererkrankungen)
 
--  Verbrennungen (Hautbarriere versagt großflächig)
 
--  Gastrointestinal (Durchfall, Diarrhoe)
+.. _Thema-SchockKardiogener: 
 
--  Harnausscheidung (Diabetes mellitus, Diabetes insipidus, Diuretika,
-   Polyurie bei Nierenversagen)
-
-&
-
--  Innere Blutungen
-
-   -  Nach Trauma, rupturierte Eileiterschwangerschaft, etc
-
--  Wassereinlagerung ins Gewebe
-
--   Aszites ("Wasserbauch", z. B. bei Lebererkrankungen)
-
-| 
-
-.. _topic-schock-kardiogener: 
-
+******************
 Kardiogener Schock
-------------------
+******************
 
 **Schock infolge mangelndem Herzauswurfes
 durch insuffiziente Pumpleistung.**
@@ -459,20 +351,21 @@ Durch den *Blutrückstau* kann es zu Stauungszeichen kommen (Lungenödem
 bei Linksherzversagen, Beinödeme und gestaute Halsvenen bei
 Rechtsherzversagen).
 Häufig klagen die Patienten über *Atemnot*.
-[tab:uebersicht-schockarten]
+[Tafel-uebersicht-schockarten]
 
-.. _topic-schock-anaphylaktischer: 
+.. _Thema-SchockAnaphylaktischer: 
 
+***********************
 Anaphylaktischer Schock
------------------------
+***********************
 
 **Schock aufgrund einer überschießenden
 allergischen Reaktion – "Allergischer Schock".** Ein anaphylaktischer
 Schock wird durch eine überschießende Reaktion der Körperabwehr
 (Immunreaktion) auf bestimmte Stoffe (Antigene) ausgelöst. Durch von den
 Immunzellen gebildete Stoffe werden die Gefäße erweitert, zusätzlich
-steigt die Durchlässigkeit der Gefäße [230]_. Das Blut versackt und es
-kommt zu einem Plasmaverlust in den Zwischengewebsraum [231]_; der
+steigt die Durchlässigkeit der Gefäße (Gefäßpermeabilität). Das Blut versackt und es
+kommt zu einem Plasmaverlust in den Zwischengewebsraum (Interstitium); der
 Blutdruck fällt massiv ab! Mögliche *Auslöser* können sein:
 
 -  Pollen
@@ -488,49 +381,48 @@ Blutdruck fällt massiv ab! Mögliche *Auslöser* können sein:
 -  und vieles andere …
 
 
-.. [230]
-   (Gefäßpermeabilität)
-
-.. [231]
-   (Interstitium)
+   
 
 Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
-[tab:anaphylaxie-stadien].
+:ref:`Tafel-AnaphylaxieStadien`.
 
--  [tab:uebersicht-schockarten]
+.. _Tafel-AnaphylaxieStadien::
 
--  Symptome : [tab:anaphylaxie-stadien]
+.. list-table:: Stadien der Anaphylaxie
+    :widths: 10 40
+    :header-rows: 1
 
-| cl **** & **Symptome**
-| *I* & Hautreaktion: evtl. Ausschlag, Rötung; Quaddeln, Flush, Ödeme
+    *   -   Grad
+        -   Symptome
+    *   -   **I°**
+        -   Hautreaktion: evtl. Ausschlag, Rötung; Quaddeln, Flush, Ödemen 
 
-Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
+            Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
+    *   -   **II°**
+        -   RR ↓, Tachykardie,
 
-| 
-| *II*
+            Übelkeit, Erbrechen, Durchfall
+    *   -   **III°**
+        -   Allgemeine Schocksymptome
 
-& RR ↓, Tachykardie
+            Bronchospasmus
+    *   -   **IV°**
+        -   Atem-/Kreislaufstillstand
 
-Übelkeit, Erbrechen, Durchfall
+            Schwerer Schock
 
-| 
-| *III* & Allgemeine Schocksymptome
 
-| Bronchospasmus
-| *IV* & Atem-/Kreislaufstillstand
+.. _Thema-SchockSeptischer:
+.. _Thema-SchockToxischer:
 
-| Schwerer Schock
-
-.. _topic-schock-septischer:
-.. _topic-schock-toxischer:
-
+**************************************
 Septischer Schock und Toxischer Schock
---------------------------------------
+**************************************
 
 **Schock infolge
 einer schweren, körperweiten Infektion oder aufgrund eines, die Gefäße
 beeinflussenden, Giftstoffes (Toxins).** Siehe auch
-:ref:`topic-sepsis`.
+:ref:`Thema-Sepsis`.
 Ein septisch-/toxischer Schock wird durch diverse Bakterien und Toxine
 verursacht.
 Die Erreger können auf unterschiedliche Wege in die Blutbahn
@@ -552,10 +444,10 @@ Der Patient kann sowohl hohes oder auch kein Fieber haben,
 die Haut ist anfänglich heiß, trocken und rötlich, später ist sie eher bleich, grau
 oder sogar marmoriert.
 
-[tab:uebersicht-schockarten]
 
+*****************
 Neurogener Schock
------------------
+*****************
 
 **Schockzustand ausgelöst durch eine Unterbrechung oder Störung der
 nervlichen Versorgung der Kreislaufregulation. Es kommt zu inadäquater

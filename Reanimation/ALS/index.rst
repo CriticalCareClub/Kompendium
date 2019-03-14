@@ -88,7 +88,7 @@ Die ERC-Guidelines sind in nach Themen in elf Sektionen unterteilt:
 Leitlinien
 **********
 
-.. _topic-Erc:
+.. _Thema-Erc:
 
 .. index::
     single: ERC
@@ -366,7 +366,7 @@ Rhythmen:
 
 Beim (S)AED übernimmt das Gerät die Beurteilung ob ein elektrischer
 Herzrhythmus schockbar oder nicht schockbar ist. Die Herzrhythmen werden
-im Kapitel [topic-herzrhythmusstoerungen], genauer besprochen.
+im Kapitel [Thema-herzrhythmusstoerungen], genauer besprochen.
 
 
 .. index::

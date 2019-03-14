@@ -423,7 +423,7 @@ Schmerzreizes:
 
 
 
-.. _topic-Bewusstseinsstoerung-Pam:
+.. _Thema-Bewusstseinsstoerung-Pam:
 
 Bewusstseinsstörungen
 =====================
@@ -1428,7 +1428,7 @@ sein muss!).
 
 -  Sonst. Hinweise auf vitale Bedrohung
 
--  Anamnese (z.B. :math:`\geq` 2 Krämpfe / 24 h)
+-  Anamnese (z.B. ≥ 2 Krämpfe / 24 h)
 
 -  Gefährliche Kombinationen von Erkankungen
 

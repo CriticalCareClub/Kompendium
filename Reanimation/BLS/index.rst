@@ -1,15 +1,15 @@
 
 .. _chp-BLS:
 
-.. _topic-atemstillstand-aed:
+.. _Thema-atemstillstand-aed:
 
-.. _topic-kreislaufstillstand-aed:
+.. _Thema-kreislaufstillstand-aed:
 
-.. _topic-atemstillstand-bls:
+.. _Thema-atemstillstand-bls:
 
-.. _topic-kreislaufstillstand-bls:
+.. _Thema-kreislaufstillstand-bls:
 
-.. _topic-pediatric-life-support:
+.. _Thema-pediatric-life-support:
 
 
 ##################################################
@@ -369,17 +369,17 @@ Qualität der Beatmung kann durch *Beobachtung des Brustkorbs* überprüft
 werden. Dazu wird nach jeder Atemspende der Brustkorb des Patienten
 beobachtet. Dieser muss sich deutlich heben und senken.
 
--  zu hohes Atemzugsvolumen :math:`{\rightarrow}` Luft in den Magen
+-  zu hohes Atemzugsvolumen → Luft in den Magen
 
--  zu niedriges Atemzugsvolumen :math:`{\rightarrow}` |O2|\ -Versorgung
+-  zu niedriges Atemzugsvolumen → |O2|\ -Versorgung
    nicht sichergestellt
 
 -  ungenügende Abdichtung bei Bartträgern
 
--  mangelnde Überstreckung :math:`{\rightarrow}` unzureichenden
+-  mangelnde Überstreckung → unzureichenden
    Belüftung der Lunge
 
--  Brustkorb beobachten :math:`{\rightarrow}` deutlich heben und senken
+-  Brustkorb beobachten → deutlich heben und senken
 
 .. _Topic-DefibrillationBls:
 
@@ -392,7 +392,7 @@ Beschreibung
 Das Herz ist die Pumpe des Blutkreislaufes und
 leistet eine beachtliche mechanische Arbeit. Damit sie funktioniert wird
 die Muskelarbeit mittels *elektrischer Reize* gesteuert
-(Reizleitungssystem, [topic-reizleitungssystem]). Ohne diese
+(Reizleitungssystem, [Thema-reizleitungssystem]). Ohne diese
 elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und
 somit zum Kreislaufstillstand. Oft ist die Störung des elektrischen
 Herzrhythmus die Ursache des Kreislaufstillstands. Liegt eine solche
@@ -877,7 +877,7 @@ Reanimation des Neugeborenen
 ============================
 
 Die Reanimation des Neugeborenen wird unter
-[topic-reanimation-neugeborenes] ausgeführt.
+[Thema-reanimation-neugeborenes] ausgeführt.
 
 
 .. _Figure-Bls-Aed-Algorithmus:

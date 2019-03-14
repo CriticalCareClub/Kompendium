@@ -24,7 +24,7 @@ Glossar
       Moderne Systeme können Bilder in verschiedenen Ebenen
       Rekonstruieren, bzw. 3D-Darstellungen erzeugen. Bei der Untersuchung
       von Weichteilstrukturen wird häufig ein Kontrastmittel
-      ([topic-kontrasmittel]) eingesetzt.
+      ([Thema-kontrasmittel]) eingesetzt.
 
     Erysipel
       *Syn.* Rotlauf, Wundrose. Infektionserkrankung,
@@ -44,6 +44,9 @@ Glossar
       Atemwegsmanagements und wird als Goldstandard hinsichtlich der Qualität
       der Atemwegssicherung angesehen, dies berücksichtigt aber nicht die
       Sicherheit der Anwendung.
+
+    FMC
+      First Medical Contact    
 
     Gestosen
       Oberbegriff für durch die Schwangerschaft bedingte Erkrankungen. Man
@@ -222,6 +225,14 @@ Glossar
       Jod-haltigen Kontrastmitteln), sowie eine Einschränkung der
       Nierenfunktion. Häufige unbedenkliche Nebenwirkungen sind ein Wärme-
       oder Hitzegefühl sowie ein metallischer Geschmack.
+
+    NSTEMI
+      Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt. 
+      Siehe auch: :ref:`Thema-AkutesKoronarsyndrom`.
+
+    STEMI
+      ST-Elevation Myocardial Infacrtion; ST-Hebungsinfarkt. 
+      Siehe auch: :ref:`Thema-AkutesKoronarsyndrom`.
 
 
     Tokolyse

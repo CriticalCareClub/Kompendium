@@ -101,7 +101,7 @@ Herzmuskel bestehen.
 
 .. subfigstart::
 
-.. figure:: /Bilder/WikipediaCcBySa/Heart_normal_short_axis_section-00640.*
+.. figure:: /Bilder/WikipediaCcBySa/Heart_normal_short_axis_section-00640.jpg
         :width: 99%
 
         Das Herz im Querschnitt, gesehen von unten: Links der rechte
@@ -109,7 +109,7 @@ Herzmuskel bestehen.
           
         [Patrick Lynch, CC-BY]
 
-.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_infarct-00640.*
+.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_infarct-00640.jpg
         :width: 99%
 
         Ischämisches Herzmuskelgewebe ...
@@ -118,7 +118,7 @@ Herzmuskel bestehen.
 
 	    
 
-.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.*
+.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.jpg
         :width: 99%
 
         stirbt nach einger Zeit ab, es

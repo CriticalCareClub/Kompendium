@@ -770,7 +770,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
 .. _Figure-BilderserieIntubation-12:
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00441pt-4.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00441pt-4.jpg
      :width: 99.99%
 
      Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in

@@ -396,7 +396,7 @@ Rettungssanitäter* ).
    jedem Fall soll aber eine “Umrüstung” vom RTW hin zum NAW während des
    Einsatzes mit *wenigen Handgriffen* möglich sein.
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.jpg
 
 	    RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.)Sebastian GabrielMfG
 

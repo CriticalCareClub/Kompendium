@@ -2,7 +2,7 @@ image: alpine
 
 pages:
   script:
-  - apk --no-cache add file git py3-pip python-dev imagemagick
+  - apk --no-cache add file git py3-pip python-dev imagemagick6
   - convert --version
   - pip3 install sphinx sphinxcontrib.bibtex sphinx_git
   - apk --no-cache add make

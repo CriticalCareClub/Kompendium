@@ -129,7 +129,7 @@ Die Bestandteile der Versionsbezeichnung werden durch Punkte getrennt.
 Die 3 Stellen werden durch Punkte getrennt. In der Kurzschreibweise
 können die Nebenversionsnummer und die Revisionsnummer weggelassen
 werden, sofern die jeweilige und die dazu untergeordnete Stelle 0 ist
-(z.B. ``2.1.0`` → ``2.1``, ``2.0.0`` → ``2``; ``2.0.1`` wird nicht abgekürzt).
+(z. B. ``2.1.0`` → ``2.1``, ``2.0.0`` → ``2``; ``2.0.1`` wird nicht abgekürzt).
 
 
 

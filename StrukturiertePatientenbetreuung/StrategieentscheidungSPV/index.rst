@@ -22,7 +22,7 @@ d. h. der weitere Ablauf ist situations- und patientenabhängig.
 -  *Besteht eine hohe Transportpriorität?*
 
 -  *Sind noch weitere Untersuchungen oder Fragen zur Lagebeurteilung
-   nötig? (z.B. Anzahl der Krampfanfälle, …)*
+   nötig? (z. B. Anzahl der Krampfanfälle, …)*
 
 -  *Welche weiteren Untersuchungen, Maßnahmen und Fragen sind wichtig?*
 

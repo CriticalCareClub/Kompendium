@@ -117,7 +117,7 @@ mehrstöckigen Wohnhaus, in einem Einfamilienhaus oder auf einer
 Verkehrsfläche? Wo befindet sich der *Eingang*, wo gibt es
 *Parkmöglichkeiten*? Gibt es einen *Aufzug* und wie groß ist er? Können
 *nachfolgende Kräfte* den Einsatzort leicht finden? Wichtig ist das
-Erkennen von speziellen Gefahren, wie z.B. Tiere (*“Vorsicht vor dem
+Erkennen von speziellen Gefahren, wie z. B. Tiere (*“Vorsicht vor dem
 Hund”*-Schilder, *Futternäpfe*), Hinweise auf *Gasunfälle*, unsichere
 Gebäude(-teile), usw. Ggfs. sind auch Fluchtwege einzuplanen.
 
@@ -423,7 +423,7 @@ Schmerzreizes:
 
 
 
-.. _topic-Bewusstseinsstoerung-Pam:
+.. _Thema-Bewusstseinsstoerung-Pam:
 
 Bewusstseinsstörungen
 =====================
@@ -728,11 +728,11 @@ Die Atmung ist somit insuffizient.
   +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
   |                     | Aufrechte Position                                  |                                                                      |    |
   +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-  |                     | Paradoxe Atmung                                     | Brustkorb *senkt* sich bei Einatmung, z.B. bei Serienrippenfraktur   |    |
+  |                     | Paradoxe Atmung                                     | Brustkorb *senkt* sich bei Einatmung, z. B. bei Serienrippenfraktur  |    |
   +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
   | *Geräte*            | Pulsoxymetrie                                       |                                                                      |    |
   +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-  |                     |  Kapnometrie                                        | |CO2|\ -Messung                                                      |    |
+  |                     |  Kapnometrie                                        | CO₂-Messung                                                          |    |
   +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 
 
@@ -1428,7 +1428,7 @@ sein muss!).
 
 -  Sonst. Hinweise auf vitale Bedrohung
 
--  Anamnese (z.B. :math:`\geq` 2 Krämpfe / 24 h)
+-  Anamnese (z. B. ≥ 2 Krämpfe / 24 h)
 
 -  Gefährliche Kombinationen von Erkankungen
 

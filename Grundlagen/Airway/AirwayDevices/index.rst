@@ -49,15 +49,15 @@ Lage des Guedel-Tubus.
 
 .. _Figure-GuedelTubusEinfuehren:
 
-.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus1.*
+.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus1.pdf
 
             Abmessen,
             
-.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus2.*
+.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus2.pdf
 
             zuerst wird der Guedel-Tubus “verkehrt” herum eingeführt
             
-.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus3.*
+.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus3.pdf
 
             und anschließend mittels Drehbewegung endgültig positioniert.
    
@@ -119,7 +119,7 @@ Moderne Larynxmasken unterscheiden sich untereinander in vielen
 Kriterien, 
 z. B. Material, Einweg- oder Mehrwegprodukte, Form und
 Flexibilität des Tubus, zusätzliche Luminia 
-(z.B. für gastroösophageale Sonden) 
+(z. B. für gastroösophageale Sonden) 
 oder Art des Cuffs. 
 Gemeinsam ist ihnen eine verhältnismäßig invasivitätsarme Anwendung
 und das Einführen ohne Darstellung des Atemwege ("blind").
@@ -241,12 +241,12 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
 
 .. subfigstart::
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32890_textwidth.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32890_textwidth.jpg
             :width: 99.99%
             
             Larynxtubus mit Blockerspritze
    
-.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32885_textwidth.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32885_textwidth.jpg
             :width: 99.99%
                     
             Ein Larynxtubus der ersten Generation mit geblocktem
@@ -770,7 +770,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
 .. _Figure-BilderserieIntubation-12:
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00441pt-4.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00441pt-4.jpg
      :width: 99.99%
 
      Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in

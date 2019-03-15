@@ -51,7 +51,7 @@ durchgeführt werden.
 
 .. rubric:: Gefahren
 
-Der notwendige *Überdruck* kann zu Problemen führen, wie z.B.
+Der notwendige *Überdruck* kann zu Problemen führen, wie z. B.
 Überschreiten des *Speiseröhren-Öffnungsdrucks* (*Magenbeatmung*,
 *Magenblähung*, *Erbrechen*) oder Lungenschäden. Es ist oft zu
 beobachten, dass (wahrscheinlich in Folge von Stress) Beatmungen zu
@@ -60,13 +60,13 @@ haben, da es zu einer *Hyperventilation* und dadurch zu einer
 atmungsbedingen Alkalose kommt (Störung des Säure-Basen-Haushaltes, vgl.
 [topic:alkalose-respiratorische]).
 
--  Zu hoher Druck :math:`\rightarrow` Magenbeatmung/-blähung, Erbrechen
+-  Zu hoher Druck → Magenbeatmung/-blähung, Erbrechen
 
 -  Zu schnell, zu tief: Hyperventilation, atmungsbedingte Alkalose
 
     -  Faustregel: Eine kontrollierte Beatmung eines Erwachsenen soll
        grundsätzlich im Eigenrhythmus des Helfers erfolgen: Helfer atmet
-       :math:`\rightarrow` Patient wird beatmet.
+       → Patient wird beatmet.
 
 -  Durch Hyperventilation kommt es zu einer atmungsbedingten Alkalose
 
@@ -161,7 +161,7 @@ Am T-Stück gibt es *3 Schenkel*: Einer kommt vom Beatmungsbalg, einer
 führt zum Patienten und einer zum Auslass. Das *Ventil* des T-Stückes
 *trennt die Ein- von der Ausatemluft* des Patienten. Am
 Patientenschenkel soll ein *Bakterienfilter* und eventuell
-Messvorrichtungen (z.B. zur CO₂-Messung) angebracht werden. Er wird mit
+Messvorrichtungen (z. B. zur CO₂-Messung) angebracht werden. Er wird mit
 einer *Beatmungsmaske* oder einem Tubus – je nach Bedarf – verbunden. Am
 Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 
@@ -186,13 +186,13 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 
 .. rubric:: Bilderserie: Beatmungsmasken 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.pdf
 
             Eine *Beatmungs*\ maske.
 
             [Ch. Pallinger]
             
-.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.pdf
 
             Beatmungsmasken unterschiedlicher Größen: 0, 2,
             3/4, 5. Die Farben der Masken haben keine besondere
@@ -249,18 +249,18 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
 
 .. subfigstart::
 
-.. figure:: /Bilder/HirtlerLena-Ccc/CGriff.*
+.. figure:: /Bilder/HirtlerLena-Ccc/CGriff.pdf
             :width: 99.9%
 
             C-Griff
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.pdf
             :width: 99.9%
 
             und überstreckter Kopf
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.pdf
             :width: 99.9%
 
             Normalerweise wird bei der Überdruckbeatmung mit einem
@@ -464,7 +464,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 
 SeriesRowWide 2\
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32851-00441pt.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32851-00441pt.jpg
 
             Beatmungsgerät *Medumat compact* auf einer
             Tragplatte. Zusätzlich angebracht sind eine
@@ -473,7 +473,7 @@ SeriesRowWide 2\
 
             [Christoph Pallinger, MfG] \
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.jpg
 
             Bedienfelder Berieselungseinheit *Modul Oxygen* und
             Notfallbeatmungsgerät *Medumat Standard* 
@@ -490,7 +490,7 @@ SeriesRowWide 2\
 
             [Sebastian Gabriel, MfG]
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.jpg
 
             Medumat Transport. Dies ist ein
             Intensiv-Transportbeatmungsgerät, welches eine komplexe
@@ -520,7 +520,7 @@ Das PEEP-Ventil sorgt für einen positiven Druck am Ende der Ausatmung
 
 
 :dfn:`PEEP` :index:`\ <PEEP>` steht für “Positive End-Exspiratory Pressure” (positiver
-end-exspiratorischer Druck), d.h. positiver Druck in den Atemwegen am
+end-exspiratorischer Druck), d. h. positiver Druck in den Atemwegen am
 Ende der Ausatmungsphase.
 
 Der PEEP sorgt dafür,

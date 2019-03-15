@@ -123,15 +123,15 @@ Erweiterte Techniken zur einfachen Atemwegssicherung
 
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.*
+.. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.pdf
 
             Position des Guedel-Tubus im Querschnitt
 
-.. figure:: /Bilder/HirtlerLena-Ccc/LageLarynxTubus.*
+.. figure:: /Bilder/HirtlerLena-Ccc/LageLarynxTubus.pdf
 
             Im Vergleich: Lage eines Larynx-Tubus
 
-.. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.*
+.. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.pdf
 
             und eines endotrachealen Tubus.
 
@@ -208,21 +208,21 @@ abgeschraubt und verschlossen werden.
 
             [Ch. Pallinger, MfG]
    
-.. figure:: /Bilder/PallingerChristoph-Ccc/Handpumpe_32789-00441pt.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Handpumpe_32789-00441pt.jpg
             :width: 99.99%
 
             Handabsaugpumpeempty
 
             [Ch. Pallinger, MfG]
             
-.. figure:: /Bilder/PallingerChristoph-Ccc/Orosauger_33074-00441pt.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Orosauger_33074-00441pt.jpg
             :width: 99.99%
 
             Oro-Sauger für Neugeborene
 
             [Ch. Pallinger, MfG]
             
-.. figure:: /Bilder/PallingerChristoph-Ccc/Absaugkatheter_Set_33082-00441pt.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Absaugkatheter_Set_33082-00441pt.jpg
             :width: 99.99%
 
             Absaugkatheter zum Einführen in Mund oder Nase
@@ -261,7 +261,7 @@ des Materials, *Saugfunktion* bei maximaler und minimaler Leistung und
 *Dichtheit*. Sie muss zumindest bei Dienstbeginn durchgeführt werden.
 Bei Geräten, welche über Akkus verfügen, muss die *Akku-Ladung* und
 Saugfunktionsprüfung *ohne Anschluss an eine externe Stromquelle*
-erfolgen, d.h. das Gerät muss für die Funktionsprüfung von einer
+erfolgen, d. h. das Gerät muss für die Funktionsprüfung von einer
 Ladehalterung abgenommen werden. Die Ladestandsanzeige und evtl.
 vorhandene *Warnleuchten* müssen kontrolliert werden. Die vom jeweiligen
 Hersteller vorgegebenen, typenspezifischen Anweisungen müssen beachtet

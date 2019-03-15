@@ -107,6 +107,8 @@ Bevölkerung hat.
 
 .. _Thema-HypertensiverNotfall:
 
+.. _Thema-HypertensiveKrise:
+
 ********************************************
 Hypertensive Krise und Hypertensiver Notfall
 ********************************************
@@ -183,20 +185,20 @@ ABCDE
     *Nasenbluten* (*Epistaxis*) das erste Zeichen einer
     akuten Hypertonie. Beim hypertensiven *Notfall* kommt es zu
     Symptomen für die blutdruckbedingte Störung von Organen
-    (*Organstörungen*), z. B. oft zu |symbol-RedFlag|\  neurologischen
-    Symptomen wie |symbol-RedFlag|\  Kopfschmerzen und
-    |symbol-RedFlag|\  **Sehstörungen**, weiters evtl. zu
-    |symbol-RedFlag|\  **Brustschmerzen**, Übelkeit, |symbol-RedFlag|\
+    (*Organstörungen*), z. B. oft zu  neurologischen
+    Symptomen wie  Kopfschmerzen und
+     **Sehstörungen**, weiters evtl. zu
+     **Brustschmerzen**, Übelkeit, |symbol-RedFlag|\
      Erbrechen und 
-    |symbol-RedFlag|\  Schwindel.
+     Schwindel.
 
 ``B``
-    Evtl. kommt es aufgrund der kardialen Belastung zur |symbol-RedFlag|\  **Atemnot**.
+    Evtl. kommt es aufgrund der kardialen Belastung zur  **Atemnot**.
 
 ``C``
     In sehr schweren Fällen,
     v. a. wenn eine kardiale Grunderkrankung besteht,
-    können sich Symptome eines |symbol-RedFlag|\  kardiogenen
+    können sich Symptome eines  kardiogenen
     Schocks zeigen.
     Es ist eine deutliche Blutdruckerhöhung
     (Richtwert RR > 200 mm Hg bzw. deutliche individuelle Erhöhung) festzustellen
@@ -205,15 +207,15 @@ ABCDE
     Hochroter Kopf
 
 ``4``
-    Nasenbluten, |symbol-RedFlag|\  Kopfschmerzen, |symbol-RedFlag|\
-    **Sehstörungen**,  |symbol-RedFlag|\  Brustschmerzen, Übelkeit,
-    |symbol-RedFlag|\  Erbrechen, |symbol-RedFlag|\  Schwindel
+    Nasenbluten,  Kopfschmerzen, |symbol-RedFlag|\
+    **Sehstörungen**,   Brustschmerzen, Übelkeit,
+     Erbrechen,  Schwindel
 
 ``B``
-    Evtl. |symbol-RedFlag|\  Dyspnoe
+    Evtl.  Dyspnoe
 
 ``C``
-    Evtl. |symbol-RedFlag|\  kardiogener Schock RR ↑
+    Evtl.  kardiogener Schock RR ↑
     (RichtwertRR >  bzw. deutliche individuelle Erhöhung)
 
 SAMPLER

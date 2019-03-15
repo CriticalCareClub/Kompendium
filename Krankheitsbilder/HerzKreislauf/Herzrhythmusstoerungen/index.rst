@@ -62,9 +62,9 @@ Bei der Beurteilung der Herzfrequenz muss auch immer an die Umstände
 werden!
 
 
-.. _Tafel-HerzrhythmusstoerungenWichtige::
+.. _Tafel-HerzrhythmusstoerungenWichtige:
 
-.. _Tafel-Herzrhythmusstoerungen::
+.. _Tafel-Herzrhythmusstoerungen:
 
 .. list-table:: Wichtige Herzrhythmusstörungen
     :widths: 20 40 40
@@ -160,7 +160,7 @@ Asystolie
 Pulslose elektrische Aktivität (*PEA*) 
     Bei der
     pulslosen elektrischen Aktivität ist die Herzaktion von der
-    elektrischen Aktivität *entkoppelt*, d.h. das Herz reagiert nicht auf
+    elektrischen Aktivität *entkoppelt*, d. h. das Herz reagiert nicht auf
     die Impulse des Reizleitungssystems. Der EKG-Befund kann zwar
     unauffällig sein, aufgrund der fehlenden Herzaktion besteht trotzdem
     ein Kreislauffstillstand.
@@ -197,11 +197,11 @@ Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
    für:
 
    -  Arterielle Gefäßverschlüsse
-      (:ref:`Thema-arterieller-gefaessverschluss`)
+      (:ref:`Thema-ArteriellerGefaessverschluss`)
 
    -  Schlaganfälle (:ref:`Thema-insult`)
 
-   -  Mesenterialinfarkte (:ref:`Thema-mesenterialinfarkt`)
+   -  Mesenterialinfarkte (:ref:`Thema-Mesenterialinfarkt`)
 
    Daher werden diesen Patienten meist *gerinnungshemmende*
    ("blutverdünnenden") Medikamente zur Vorbeugung verschrieben (z. B.

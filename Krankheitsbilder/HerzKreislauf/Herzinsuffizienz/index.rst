@@ -85,31 +85,31 @@ ABCDE
     kaltschweissig. Mitunter wirken die Patienten unruhig und ängstlich.
 
 ``4``
-    Der Patient klagt über |symbol-RedFlag|\  Atemnot (*Dyspnoe*). Oft
+    Der Patient klagt über  Atemnot (*Dyspnoe*). Oft
     berichten die Patienten, dass sie nur mehr im Sitzen Luft bekommen,
     sie können nicht flach liegen ( Orthopnoe [236]_).
 
 ``B``
     Die Atemfrequenz ist oft erhöht (*Tachypnoe*), oft besteht ein
-    *Hustenreiz*. Die |symbol-RedFlag|\  Sauerstoffsättigung kann
+    *Hustenreiz*. Die  Sauerstoffsättigung kann
     deutlich erniedrigt sein.
 
     Die Linksherzinsuffizienz entsteht aufgrund mangelnder
     Auswurfleistung des linken Herzens. Durch den *Rückstau von Blut in
     den Lungenkreislauf* kann es zu einem Lungenödem bis hin zum
-    |symbol-RedFlag|\  *schweren kardialen Lungenödem* kommen.
+     *schweren kardialen Lungenödem* kommen.
 
 ``C``
     Die Herzfrequenz ist oft erhöht (*Tachykardie*). Grundsätzlich ist
     der Blutdruck vermindert (*Hypotonie*).
     Allerdings kann ein erhöhter
     Blutdruck bei einer Blutdruckkrise (*Hypertonie*, *hypertensive
-    Krise* (:ref:`Thema-hypertensive-krise`), *hypertensiver Notfall*
-    (:ref:`Thema-hypertensiver-notfall`)) der eigentliche *Auslöser* einer
+    Krise* (:ref:`Thema-HypertensiveKrise`), *hypertensiver Notfall*
+    (:ref:`Thema-HypertensiverNotfall`)) der eigentliche *Auslöser* einer
     Herzinsuffizenz sein.
     Der Blutdruck kann dann natürlich erhöht sein.
-    Es können Zeichen eines |symbol-RedFlag|\  kardiogenen Schocks
-    auftreten ([Thema-schock-kardiogener]).
+    Es können Zeichen eines |symbol-RedFlag| kardiogenen Schocks
+    auftreten.
 
 :…:
     Bei der Rechtsherzinsuffizienz kommt es zu einem Rückstau des Blutes
@@ -127,12 +127,12 @@ ABCDE
     auftretende Symptome.
 
     Kritisch sind plötzlich auftretende Symptome, inbesonders ist hier
-    die |symbol-RedFlag|\  *Atemnot* zu nennen,
-    weiters eine |symbol-RedFlag|\  *niedrige Sauerstoffsättigung* oder Zeichen eines
-    |symbol-RedFlag|\  *kardiogenen Schocks*.
+    die  *Atemnot* zu nennen,
+    weiters eine  *niedrige Sauerstoffsättigung* oder Zeichen eines
+     *kardiogenen Schocks*.
 
-    Eine besonders kritische Komplikation ist das |symbol-RedFlag|\
-    kardiale *Lungenödem*.
+    Eine besonders kritische Komplikation ist das 
+    |symbol-RedFlag| kardiale *Lungenödem*.
     Wenn es sehr stark ausgeprägt ist, 
     kann man es mit freiem Ohr hören (*"brodelndes Atemgeräusch"*).
     Diese Patienten sind als besonders kritisch einzuschätzen, sie sind
@@ -140,24 +140,23 @@ ABCDE
     Reserven, schon die Aufregung durch den Transport im Stiegenhaus zum
     Auto kann das Herz endgültig in den Herz-Kreislaufstillstand
     bringen. Es kommt immer wieder vor, dass solche Patienten im
-    Stiegenhaus oder im Auto reanimationspflichtig werden. Siehe
-    :ref:`Thema-lungenoedem`.
+    Stiegenhaus oder im Auto reanimationspflichtig werden. 
 
 ``2``
     Blass, evtl. kaltschweißig. Evtl. agitiert
 
 ``4``
-    *Dyspnoe*, besonders im Liegen :math:`\rightarrow` Sitzende
+    *Dyspnoe*, besonders im Liegen → Sitzende
     Position!
 
-    Evtl. |symbol-RedFlag|\  schweres kardiales Lungenödem
+    Evtl.  schweres kardiales Lungenödem
 
 ``B``
-    *Tachypnoe*, |symbol-RedFlag|\  Dyspnoe
+    *Tachypnoe*,  Dyspnoe
 
 ``C``
     *Tachykardie*, *Hypotonie* oder *Hypertonie* (RR kann Auslöser
-    sein). Evtl. Zeichen eines |symbol-RedFlag|\   kardiogenen Schocks
+    sein). Evtl. Zeichen eines   kardiogenen Schocks
 
 **…**
     -  Lungenödem

@@ -57,7 +57,7 @@ ABCDE
     Die betroffene Extremität ist schmerzhaft, oft überwärmt, und eher
     rötlich-bläulich-violett (livide) verfärbt. Manchmal sind diese
     Zeichen nicht sehr ausgeprägt. In der Regel ist nur eine Extremität
-    betroffen, d.h. die Symptome sind nur auf *einer Seite* zu finden.
+    betroffen, d. h. die Symptome sind nur auf *einer Seite* zu finden.
 
 ``1``
     Bettlägrigkeit, stattgehabte Reisen
@@ -151,7 +151,7 @@ Gefahr
 
 .. sidebar:: Gefahr
 
-    -  Lösung des Thrombus → *Lungenembolie* (:ref:`Thema-lungenembolie`)
+    -  Lösung des Thrombus → *Lungenembolie* 
 
 Es kann zu einer *Loslösung von Teilen des Thrombus* kommen, dieser
 losgelöste Teil wird :dfn:`Embolus` genannt.
@@ -166,34 +166,47 @@ Dies führt dazu, dass der Embolus irgendwann
 zu groß ist und stecken bleibt.
 Dadurch wird nun ein Lungengefäß
 verstopft und ein Teil der Lunge nimmt nicht mehr am Gasaustausch teil:
-Es entsteht eine *Lungenembolie* (:ref:`Thema-lungenembolie`).
+Es entsteht eine *Lungenembolie*.
+
+
+.. subfigstart::
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/economyclass.jpg
+    :width: 99%
+
+    Die Economyclass.
+    Sorgsam geschlichtet verbringen Menschen hier Stunden damit,
+    Thrombosen zu basteln.
+
+    [Gabriel]
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/lovenox1.jpg
+    :width: 99%
+
+    Thromboseprophylaxe.
+    Niedermolekulares Heparin (hier "Lovenox") verhindert Thrombosen die
+    z. B. durch lange Immobilisation (Reisen, Bettlägrigkeit, Gips, …)
+    entstehen können. Die Substanz wird unter die Haut ("subkutan")
+    gespritzt.
+
+    [Gabriel]
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.pdf
+    :width: 99%
+
+    Eine Venenthrombose
+    kann eine Embolie auslösen.
+
+    [Hirtler]
+
+.. subfigend::
+    :width: 0.3
+    :label: Figure-BilderserieTeaserThrombose
+
+    Bilderserie: Thrombose
 
 
 
-.. figure:: /Bilder/economyclass.jpg
-
-          Die Economyclass.
-          Sorgsam geschlichtet verbringen Menschen hier Stunden damit,
-          Thrombosen zu basteln.
-
-          [Gabriel]
-
-.. figure:: /Bilder/lovenox1.jpg
-
-          Thromboseprophylaxe.
-          Niedermolekulares Heparin (hier "Lovenox") verhindert Thrombosen die
-          z. B. durch lange Immobilisation (Reisen, Bettlägrigkeit, Gips, …)
-          entstehen können. Die Substanz wird unter die Haut ("subkutan")
-          gespritzt.
-
-          [Gabriel]
-
-.. figure:: /Bilder/HirtlerLenaAass/Thrombus-Embolie.*
-
-          Eine Venenthrombose
-          kann eine Embolie auslösen.
-
-          [Hirtler]
 
 .. todo:: !!! PROCEDURE !!! MI74042C
 

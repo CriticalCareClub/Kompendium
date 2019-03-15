@@ -139,11 +139,9 @@ Reanimation, im weiteren Verlauf neurologische Defizite.
 Querverweise
 ------------
 
--  Reanimation, Erste Hilfe: :ref:`Thema-reanimation-eh`
-
 -  Basic Life Support: [BLS], :ref:`chp-BLS`
 
--  Advanced Life Support: [ALS], :ref:`chp:ALS`
+-  Advanced Life Support: [ALS], :ref:`chp-ALS`
 
 Störungen des Blutdrucks
 ========================
@@ -205,7 +203,7 @@ Ein Kollaps kann seine Ursachen in verschiedenen Organssystemen haben:
 
 -  Hirn
 
--  Hirngefäßen (z. B. TIA, :ref:`Thema-tia` ) …
+-  Hirngefäßen (z. B. :abbr:`TIA (Transiente Ischämische Attacke)`) …
 
 -  Sonstige Ursachen und Faktoren: Hypoglykämie, Menstruation
 

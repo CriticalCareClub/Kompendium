@@ -110,7 +110,7 @@ listet typische allgemeine Schocksymptome auf.
        anhand der beurteilt.
 
 
-.. _Tafel-Schocksymptomatik::
+.. _Tafel-Schocksymptomatik:
 
 .. list-table:: Schocksymptomatik
     :widths: 20 80
@@ -208,7 +208,10 @@ werden unterschiedliche Mechanismen schlagend und man kann verschiedene
 Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
 :ref:`Tafel-UebersichtSchockarten`.
 
-.. list-table:: Schockarten
+
+.. _Tafel-SchockMechanismen:
+
+.. list-table:: Schockmechanismen
     :widths: 20 40 40
     :header-rows: 1
 
@@ -225,7 +228,7 @@ Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
             - *toxischer* Schock
 
 
-.. _Tafel-UebersichtSchockarten::
+.. _Tafel-UebersichtSchockarten:
 
 .. list-table:: Schockarten
     :widths: 20 40 40
@@ -236,46 +239,55 @@ Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
         -   Spezielle Symptome
     *   -   Hypovoläm
         -   Verlust von Blutvolumen (Vollblut oder Blutbestandteilen) aus den Gefäßen** 
-        -   -  Verlust nach außen
-               -  Blutung
-               -  Verbrennungen (Hautbarriere versagt großflächig)
-               -  Gastrointestinal (Durchfall, Diarrhoe)
-               -  Exsikkose ([Thema-exsikkose])
-            -  Verlust nach innen
-               -  Innere Blutungen
-               -  Nach Trauma, rupturierte Eileiterschwangerschaft, …
-               -  Wassereinlagerung ins Gewebe
-               -   Aszites ("Wasserbauch", z. B. bei Lebererkrankungen)
+        -   -   Verlust nach außen
+
+                -   Blutung
+                -   Verbrennungen (Hautbarriere versagt großflächig)
+                -   Gastrointestinal (Durchfall, Diarrhoe)
+                -   Exsikkose ([Thema-exsikkose])
+
+            -   Verlust nach innen
+
+                -   Innere Blutungen
+                -   Nach Trauma, rupturierte Eileiterschwangerschaft, …
+                -   Wassereinlagerung ins Gewebe
+                -   Aszites ("Wasserbauch", z. B. bei Lebererkrankungen)
+
     *   -   **Kardiogen**
         -   *Mangelnder Herzauswurf durch insuffiziente Pumpleistung*
-            -  Herzversagen, Herzinsuffizienz
-               -  Myokardinfarkt (häufigste Ursache)
-               -  Herzrhythmusstörungen
-            -  Lungenembolie
-        -   -  RR-Abfall
-            -  Stauungszeichen (Lungenödem, Beinödeme, gestaute Halsvenen)
-            -  Atemnot
+            -   Herzversagen, Herzinsuffizienz
+
+                -   Myokardinfarkt (häufigste Ursache)
+                -   Herzrhythmusstörungen
+
+            -   Lungenembolie
+        -   -   RR-Abfall
+            -   Stauungszeichen (Lungenödem, Beinödeme, gestaute Halsvenen)
+            -   Atemnot
     *   -   **Anaphylaktisch**
         -   *Überschießende allergische Reaktion*
-            -  Überschießende Reaktion der Körperabwehr 
-            -  Gefäße erweitert, Blut versackt
-            -  Durchlässigkeit der Gefäße ↑, Plasmaverlust in Zwischengewebsraum
-            -  Mögliche Auslöser:
-               -  Pollen
-               -  Medikamente
-               -  Kontrastmittel
-               -  tierische Gifte
-               -  u.v.a.m.
+            -   Überschießende Reaktion der Körperabwehr 
+            -   Gefäße erweitert, Blut versackt
+            -   Durchlässigkeit der Gefäße ↑, Plasmaverlust in Zwischengewebsraum
+            -   Mögliche Auslöser:
+
+                -   Pollen
+                -   Medikamente
+                -   Kontrastmittel
+                -   tierische Gifte
+                -   u.v.a.m.
+
         -   Stadienabhängig
 
-            -  Hautreaktion: evtl. Ausschlag, Rötung; Quaddeln, Flush, Ödeme
-            -  Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
-            -  RR ↓, Tachykardie
-               Übelkeit, Erbrechen, Durchfall
-            -  Allgemeine Schocksymptome
-               Bronchospasmus
-            -  Atem-/Kreislaufstillstand
-               Schwerer Schock
+            -   Hautreaktion: evtl. Ausschlag, Rötung; Quaddeln, Flush, Ödeme
+            -   Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
+            -   RR ↓, Tachykardie
+                Übelkeit, Erbrechen, Durchfall
+            -   Allgemeine Schocksymptome
+                Bronchospasmus
+            -   Atem-/Kreislaufstillstand
+                Schwerer Schock
+
     *   -   **Septisch, toxisch**
         -   *Schwere körperweite Infektion oder Einwirkung eines die Gefäße beeinflussenden Giftstoffs (Toxin)*
 
@@ -284,16 +296,17 @@ Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
             Fremdkörper (Venenverweilkanülen, Tampons, …)
 
             …
-        -   -  Schock
-            -  Hohes oder kein Fieber
-            -  Haut heiß, trocken, rot, später bleich, grau, marmoriert
+        -   -   Schock
+            -   Hohes oder kein Fieber
+            -   Haut heiß, trocken, rot, später bleich, grau, marmoriert
     *   -   **Neurogen**
         -   *Unterbrechung oder Störung der nervlichen Versorgung der Kreislaufregulation. Es kommt zu inadäquater arterieller und venöser Gefäßerweiterung (Vasodilatation).*
 
-            -  Rückenmarksverletzung (Querschnitt-Syndrom)
-            -  Gefäßwandmuskulatur bekommen keine Nerven-Impulse und kontrahiert  sich nicht mehr
-            -  Gefäße weiten sich → Blut versackt
-        -  [Tafel-schocksymptomatik]
+            -   Rückenmarksverletzung (Querschnitt-Syndrom)
+            -   Gefäßwandmuskulatur bekommen keine Nerven-Impulse und kontrahiert  sich nicht mehr
+            -   Gefäße weiten sich → Blut versackt
+            
+        -   :ref:`Tafel-Schocksymptomatik`
 
 
 .. _Thema-SchockHypovolaemischer: 
@@ -311,7 +324,7 @@ Flüssigkeitsverlust kann ein Verlust von bis zu 20% des Blutvolumens gut
 kompensiert werden. Auf größere Verluste folgt ein Absinken von
 Herzauswurf und RR!
 
-.. _Tafel-UebersichtUrsachenFluessigkeitsverlustSchock::
+.. _Tafel-UebersichtUrsachenFluessigkeitsverlustSchock:
 
 .. list-table:: Flüssigkeitsverlust beim hypovolämischen Schock
     :widths: 50 50
@@ -386,7 +399,7 @@ Blutdruck fällt massiv ab! Mögliche *Auslöser* können sein:
 Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
 :ref:`Tafel-AnaphylaxieStadien`.
 
-.. _Tafel-AnaphylaxieStadien::
+.. _Tafel-AnaphylaxieStadien:
 
 .. list-table:: Stadien der Anaphylaxie
     :widths: 10 40

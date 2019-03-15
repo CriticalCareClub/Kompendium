@@ -119,7 +119,7 @@ Moderne Larynxmasken unterscheiden sich untereinander in vielen
 Kriterien, 
 z. B. Material, Einweg- oder Mehrwegprodukte, Form und
 Flexibilität des Tubus, zusätzliche Luminia 
-(z.B. für gastroösophageale Sonden) 
+(z. B. für gastroösophageale Sonden) 
 oder Art des Cuffs. 
 Gemeinsam ist ihnen eine verhältnismäßig invasivitätsarme Anwendung
 und das Einführen ohne Darstellung des Atemwege ("blind").

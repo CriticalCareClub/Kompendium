@@ -261,7 +261,7 @@ des Materials, *Saugfunktion* bei maximaler und minimaler Leistung und
 *Dichtheit*. Sie muss zumindest bei Dienstbeginn durchgeführt werden.
 Bei Geräten, welche über Akkus verfügen, muss die *Akku-Ladung* und
 Saugfunktionsprüfung *ohne Anschluss an eine externe Stromquelle*
-erfolgen, d.h. das Gerät muss für die Funktionsprüfung von einer
+erfolgen, d. h. das Gerät muss für die Funktionsprüfung von einer
 Ladehalterung abgenommen werden. Die Ladestandsanzeige und evtl.
 vorhandene *Warnleuchten* müssen kontrolliert werden. Die vom jeweiligen
 Hersteller vorgegebenen, typenspezifischen Anweisungen müssen beachtet

@@ -79,45 +79,44 @@ ABCDE
  
 
 ``2``
-    Evtl. können |symbol-RedFlag|\  **Schockzeichen** vorliegen (Blässe,
+    Evtl. können  **Schockzeichen** vorliegen (Blässe,
     Kaltschweißigkeit, …). Manche Patienten nehmen eine Schonhaltung
     aufgrund der Schmerzen ein.
 
 ``4``
     Je nach Ort des Aneurysmas klagt der Patient über
-    |symbol-RedFlag|\  *Brust-*, *Bauch-* oder *Rückenschmerzen*,
+     *Brust-*, *Bauch-* oder *Rückenschmerzen*,
     diese werden oft
     als schneidend und plötzlich einsetzend beschrieben und sind oft
     (aber nicht immer) heftig (*Vernichtungsschmerz*). Bei thorakalen
     Aortenaneurysmen kommt es häufig zu Symptomen eines
-    |symbol-RedFlag|\  *Akuten Koronarsyndroms* (ACS, :ref:`Thema-Acs`).
+     *Akuten Koronarsyndroms* (ACS, :ref:`Thema-Acs`).
 
 ``C``
     Je nach Umfang der Blutung kann der Patient völlig *kreislaufstabil*
-    sein oder |symbol-RedFlag|\  **Schockzeichen** zeigen
+    sein oder  **Schockzeichen** zeigen
     (hypovolämischer Schock). Herzfrequenz und Blutdruck können
     entsprechend eines Schockgeschehens verändert sein.
 
 ``E``
     Bei einer Blutung in den Bauchraum kann es zu einer Verhärtung der
-    Bauchdecke kommen (|symbol-RedFlag|\  **Akutes Abdomen**,
-    :ref:`Thema-akutes-abdomen`).
+    Bauchdecke kommen (**Akutes Abdomen**).
     Selten kann eine deutliche pulsierende
     Schwellung bei einem abdominellen Aortenaneurysma im Bauch getastet
     werden.
 
 ``2``
-    Evtl. |symbol-RedFlag|\  **Schockzeichen**, Schohnhaltung
+    Evtl.  **Schockzeichen**, Schohnhaltung
 
 ``4``
-    |symbol-RedFlag|\  **Brust-, Bauch- oder Rückenschmerzen**; evtl.
-    Symptome eines |symbol-RedFlag|\  **ACS**
+     **Brust-, Bauch- oder Rückenschmerzen**; evtl.
+    Symptome eines  **ACS**
 
 ``C``
-    Kreislaufstabil, evtl. |symbol-RedFlag|\  **Schockzeichen**
+    Kreislaufstabil, evtl.  **Schockzeichen**
 
 ``E``
-    |symbol-RedFlag|\  **Harte Bauchdecke** bei Blutung in Bauch
+     **Harte Bauchdecke** bei Blutung in Bauch
 
 SAMPLER
 =======

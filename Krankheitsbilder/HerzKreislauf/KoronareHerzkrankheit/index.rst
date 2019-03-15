@@ -8,8 +8,6 @@ Koronare Herzkrankheit
 
 
 .. _Thema-khk:
-.. _Thema-aks: 
-.. _Thema-acs: 
 .. _Thema-akutes-koronarsyndrom:
 
 *********************************
@@ -30,7 +28,7 @@ Beschreibung
 
 .. sidebar:: Beschreibung
 
-    -  Erkrankung der Herzkranzgefäße :math:`\rightarrow` Verengung
+    -  Erkrankung der Herzkranzgefäße → Verengung
 
     -  Koronare Herzkrankheit (KHK, chronisch)
 

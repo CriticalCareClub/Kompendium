@@ -225,7 +225,7 @@ Traumapatienten, bei denen folgendes zutrifft:
     #.  Trauma nach Sprung ins Wasser
 
     #.  Stauchungsverletzung der HWS 
-        (z.B. Schlag auf Kopf)
+        (z. B. Schlag auf Kopf)
 
     #.  Suizidversuch durch Erhängen
 

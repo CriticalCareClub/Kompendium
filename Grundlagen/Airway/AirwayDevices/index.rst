@@ -49,15 +49,15 @@ Lage des Guedel-Tubus.
 
 .. _Figure-GuedelTubusEinfuehren:
 
-.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus1.*
+.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus1.pdf
 
             Abmessen,
             
-.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus2.*
+.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus2.pdf
 
             zuerst wird der Guedel-Tubus “verkehrt” herum eingeführt
             
-.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus3.*
+.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus3.pdf
 
             und anschließend mittels Drehbewegung endgültig positioniert.
    
@@ -241,12 +241,12 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
 
 .. subfigstart::
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32890_textwidth.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32890_textwidth.jpg
             :width: 99.99%
             
             Larynxtubus mit Blockerspritze
    
-.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32885_textwidth.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32885_textwidth.jpg
             :width: 99.99%
                     
             Ein Larynxtubus der ersten Generation mit geblocktem

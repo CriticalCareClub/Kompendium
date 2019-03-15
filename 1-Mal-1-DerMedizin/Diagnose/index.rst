@@ -2,7 +2,7 @@
 
 ############
 Die Diagnose
-********############
+############
 
 Eine Diagnose gibt einem Zustand eine Bezeichnung, das
 heißt einem Beschwerdebild wird ein definiertes Krankheitsbild

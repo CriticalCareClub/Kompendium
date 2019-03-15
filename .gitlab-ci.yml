@@ -26,5 +26,5 @@ pages:
     paths:
     - public
   only:
-  - fix-ci-error
+  - ci-test
 

@@ -151,7 +151,7 @@ Gefahren
 
 -  Kammerflimmern als Frühkomplikation häufig!
 
-.. figure:: /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.*
+.. figure:: /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.jpg
 
           Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre
           Tachykardie, sind häufige Komplikationen eines Herzinfarktes

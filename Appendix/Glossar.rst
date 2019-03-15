@@ -5,7 +5,7 @@ Glossar
 
 .. glossary::
 
-    Ateriosklerose
+    Arteriosklerose
         Systemerkrankung der Arterien, welche zu Ablagerung von Fetten,
         Bindegewebe und Kalk in den Blutgefäßwänden und somit zur Schädigung
         und Veränderungen der Gefäßen führt.

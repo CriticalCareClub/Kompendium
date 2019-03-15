@@ -186,13 +186,13 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 
 .. rubric:: Bilderserie: Beatmungsmasken 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.pdf
 
             Eine *Beatmungs*\ maske.
 
             [Ch. Pallinger]
             
-.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.pdf
 
             Beatmungsmasken unterschiedlicher Größen: 0, 2,
             3/4, 5. Die Farben der Masken haben keine besondere
@@ -249,18 +249,18 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
 
 .. subfigstart::
 
-.. figure:: /Bilder/HirtlerLena-Ccc/CGriff.*
+.. figure:: /Bilder/HirtlerLena-Ccc/CGriff.pdf
             :width: 99.9%
 
             C-Griff
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.pdf
             :width: 99.9%
 
             und überstreckter Kopf
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.pdf
             :width: 99.9%
 
             Normalerweise wird bei der Überdruckbeatmung mit einem
@@ -464,7 +464,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 
 SeriesRowWide 2\
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32851-00441pt.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32851-00441pt.jpg
 
             Beatmungsgerät *Medumat compact* auf einer
             Tragplatte. Zusätzlich angebracht sind eine
@@ -473,7 +473,7 @@ SeriesRowWide 2\
 
             [Christoph Pallinger, MfG] \
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.jpg
 
             Bedienfelder Berieselungseinheit *Modul Oxygen* und
             Notfallbeatmungsgerät *Medumat Standard* 
@@ -490,7 +490,7 @@ SeriesRowWide 2\
 
             [Sebastian Gabriel, MfG]
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.*
+.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.jpg
 
             Medumat Transport. Dies ist ein
             Intensiv-Transportbeatmungsgerät, welches eine komplexe

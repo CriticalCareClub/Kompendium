@@ -16,4 +16,5 @@ pages:
   only:
   - master
   - entwicklung
+  - fix-ci-error
 

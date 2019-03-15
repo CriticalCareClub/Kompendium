@@ -51,7 +51,7 @@ durchgeführt werden.
 
 .. rubric:: Gefahren
 
-Der notwendige *Überdruck* kann zu Problemen führen, wie z.B.
+Der notwendige *Überdruck* kann zu Problemen führen, wie z. B.
 Überschreiten des *Speiseröhren-Öffnungsdrucks* (*Magenbeatmung*,
 *Magenblähung*, *Erbrechen*) oder Lungenschäden. Es ist oft zu
 beobachten, dass (wahrscheinlich in Folge von Stress) Beatmungen zu
@@ -60,13 +60,13 @@ haben, da es zu einer *Hyperventilation* und dadurch zu einer
 atmungsbedingen Alkalose kommt (Störung des Säure-Basen-Haushaltes, vgl.
 [topic:alkalose-respiratorische]).
 
--  Zu hoher Druck :math:`\rightarrow` Magenbeatmung/-blähung, Erbrechen
+-  Zu hoher Druck → Magenbeatmung/-blähung, Erbrechen
 
 -  Zu schnell, zu tief: Hyperventilation, atmungsbedingte Alkalose
 
     -  Faustregel: Eine kontrollierte Beatmung eines Erwachsenen soll
        grundsätzlich im Eigenrhythmus des Helfers erfolgen: Helfer atmet
-       :math:`\rightarrow` Patient wird beatmet.
+       → Patient wird beatmet.
 
 -  Durch Hyperventilation kommt es zu einer atmungsbedingten Alkalose
 
@@ -161,7 +161,7 @@ Am T-Stück gibt es *3 Schenkel*: Einer kommt vom Beatmungsbalg, einer
 führt zum Patienten und einer zum Auslass. Das *Ventil* des T-Stückes
 *trennt die Ein- von der Ausatemluft* des Patienten. Am
 Patientenschenkel soll ein *Bakterienfilter* und eventuell
-Messvorrichtungen (z.B. zur CO₂-Messung) angebracht werden. Er wird mit
+Messvorrichtungen (z. B. zur CO₂-Messung) angebracht werden. Er wird mit
 einer *Beatmungsmaske* oder einem Tubus – je nach Bedarf – verbunden. Am
 Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 
@@ -520,7 +520,7 @@ Das PEEP-Ventil sorgt für einen positiven Druck am Ende der Ausatmung
 
 
 :dfn:`PEEP` :index:`\ <PEEP>` steht für “Positive End-Exspiratory Pressure” (positiver
-end-exspiratorischer Druck), d.h. positiver Druck in den Atemwegen am
+end-exspiratorischer Druck), d. h. positiver Druck in den Atemwegen am
 Ende der Ausatmungsphase.
 
 Der PEEP sorgt dafür,

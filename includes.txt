@@ -40,7 +40,7 @@
 .. |TxBeiVit| replace:: Bei vitaler Bedrohung:
 .. |TxMassVitMK| replace:: Standardmaßnahmen bei vital bedrohten Patienten
 .. |TxMassVitMKBes| replace:: Standardmaßnahmen bei vital bedrohten Patienten, Besonderheiten: 
-.. |z.B.| replace:: z. B.	
+.. |z. B.| replace:: z. B.	
 .. |ZB| replace:: Z. B.
 .. |zB| replace:: z. B.
 

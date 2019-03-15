@@ -83,10 +83,10 @@ Einheiten, …) entgegen, wertet sie aus und koordiniert die einzelnen,
 ihr zugeordneten Einheiten.
 
 Eine Leitstelle kann sowohl organisationsübergreifend (eine Leitstelle
-ist für mehrere Organisationen zuständig, z.B. für Rettungsdienst *und*
+ist für mehrere Organisationen zuständig, z. B. für Rettungsdienst *und*
 Feuerwehr) eingerichtet werden, es kann jedoch auch innerhalb einer
 Organisation verschiedene Leitstellen, getrennt nach
-Zuständigkeitsbereichen, geben (z.B. getrennte Leitstellen für Rettungs-
+Zuständigkeitsbereichen, geben (z. B. getrennte Leitstellen für Rettungs-
 und Krankentransport, Sonderleitstellen während Veranstaltungen,
 regionale Trennung, …) Leitstellen sind meistens ortsfest eingerichtet,
 es gibt jedoch auch mobile Leitstellen, welche bei besonderen
@@ -128,7 +128,7 @@ der Standort der Einheiten (einsatzbereit, Richtung Berufungsort, …)
 protokolliert und ausgewertet.
 
 Eine sehr wichtige Aufgabe ist die *Dokumentation*: Es werden sowohl die
-Einsatzdaten wie z.B. Einsatzort, Einsatzursache und Zeiten
+Einsatzdaten wie z. B. Einsatzort, Einsatzursache und Zeiten
 protokolliert, als auch besondere Ereignisse. Telefongespräche mit der
 Leitstelle werden i.d.R. aufgezeichnet und gespeichert.
 
@@ -299,7 +299,7 @@ Telefon
 
 Das Telefon oder Mobiltelefon hat sich in der täglichen Routine
 etabliert. Nachteil dieses Systems ist, dass man auf die zivile
-Infrastruktur angewiesen ist. Ist diese z.B. in Folge von Überlastung
+Infrastruktur angewiesen ist. Ist diese z. B. in Folge von Überlastung
 gestört, ist dieser Kommunikationsweg nicht mehr zuverlässig nutzbar und
 man muss mit den Einsatzorganisationen vorbehaltenen Kommunikationswegen
 auskommen.
@@ -353,7 +353,7 @@ ausgerüstet. Das Haupteinsatzgebiet ist der *Krankentransport*, daneben
 wird der KTW auch zum Transport von erkrankten, unkritischen Patienten
 im Rahmen des Rettungsdienstes eingesetzt.
 
-Im *Ausnahmefall*, wenn z.B. kein geeigneteres Fahrzeug in angemessener
+Im *Ausnahmefall*, wenn z. B. kein geeigneteres Fahrzeug in angemessener
 Zeit verfügbar ist, oder im Großschadensfall, können auch
 Notfallpatienten mit einem KTW transportiert werden. Ein KTW ist mit
 mindestestens 2 Fachkräften besetzt (Mindestqualifikation: *2
@@ -625,7 +625,7 @@ Sekundärtransport
 -----------------
 
 Beim Sekundärtransport wird ein *bereits versorgter Patient*
-transportiert, z.B. zwischen unterschiedlichen Spitälern
+transportiert, z. B. zwischen unterschiedlichen Spitälern
 (Transferierung, *Überstellung*).
 
 -  Patient bereits versorgt
@@ -642,7 +642,7 @@ Der Rettungs- und Krankentransport ist Angelegenheit der Gemeinden. Es
 ist üblich, dass sich Gemeinden zu Rettungsverbünden zusammenschließen
 oder Kompetenzen an das jeweilige Bundesland abtreten. Gemeinden müssen
 den Rettungs- und Krankentransport nicht direkt selbst durchführen,
-üblicherweise werden private Anbieter (z.B. Arbeiter-Samariter-Bund,
+üblicherweise werden private Anbieter (z. B. Arbeiter-Samariter-Bund,
 Grünes Kreuz, Rotes Kreuz, …) beauftragt. Diese Anbieter können
 grundsätzlich sowohl gemeinnützige Hilfsorganisationen oder kommerzielle
 Anbieter mit Gewinnabsicht sein.
@@ -675,7 +675,7 @@ Der Arbeiter-Samariter-Bund Österreichs, die Johanniter-Unfall-Hilfe in
 Österreich, der Malteser Hospitaldienst Austria und das Österreichische
 Rote Kreuz, Landesverband Wien, gelten per Gesetz als bewilligte
 Rettungsdienste und bewilligte Krankentransportdienste, darüber hinaus
-gibt es auch noch andere Anbieter behördlich anerkannte, wie z.B. das
+gibt es auch noch andere Anbieter behördlich anerkannte, wie z. B. das
 Grüne Kreuz oder der Sozialmedizinische Dienst (SMD).
 
 

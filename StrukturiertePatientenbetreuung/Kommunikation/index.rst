@@ -414,7 +414,7 @@ allgemeingültiges “Kochrezept” gibt es allerdings nicht:
 -  *Lob* hilft ebenfalls weiter!
 
 -  *Zeigen lassen*: Da Kinder ihre Beschwerden oft nicht eindeutig
-   beschreiben können, ist es sinnvoll sich z.B. den Ort der Schmerzen
+   beschreiben können, ist es sinnvoll sich z. B. den Ort der Schmerzen
    zeigen zu lassen. Außerdem muss besonders auf die *Körperhaltung*
    u.ä. äußere Anzeichen geachtet werden!
 

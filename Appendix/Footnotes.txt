@@ -74,11 +74,11 @@
 
 .. [298]
    Die Literatur ist bei der Definition offener Knochenbrüche nicht
-   einheitlich. In manchen Büchern, z.B. in (Gorgass et al. 2007), wird
+   einheitlich. In manchen Büchern, z. B. in (Gorgass et al. 2007), wird
    ein offener Knochenbruch durch eine direkte Verbindung zwischen Wunde
    und Bruchstelle beschrieben, in anderen Büchern genügt es, wenn über
    der Bruchstelle eine Hautverletzung vorliegt. Wieder andere Bücher,
-   z.B. (Strauss and Fülöp, n.d.), geben drei Schweregrade für offene
+   z. B. (Strauss and Fülöp, n.d.), geben drei Schweregrade für offene
    Frakturen an. Die genau Definition spielt für die Praxis keine Rolle.
    Das Achten auf Keimfreiheit ist in jedem der beschriebenen Fälle
    unbedingt notwenidg!

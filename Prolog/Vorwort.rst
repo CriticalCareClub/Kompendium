@@ -7,6 +7,10 @@ Vorwort
 
 Liebe Leserinnen und Leser!
 
+An wen wendet sich dieses Buch?
+    Dieses Werk richtet sich an ärztliches und nicht-ärztliches medizinisches Fachpersonal, 
+    welches mit der Betreuung von kritischen Patienten betraut ist.
+
 
 .. todo:: Vorwort
 

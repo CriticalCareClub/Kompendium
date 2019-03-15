@@ -1,3 +1,5 @@
+.. _chp-ALS:
+
 #################################
 ALS: Advanced Life Support
 #################################
@@ -88,7 +90,7 @@ Die ERC-Guidelines sind in nach Themen in elf Sektionen unterteilt:
 Leitlinien
 **********
 
-.. _topic-Erc:
+.. _Thema-Erc:
 
 .. index::
     single: ERC
@@ -366,7 +368,7 @@ Rhythmen:
 
 Beim (S)AED übernimmt das Gerät die Beurteilung ob ein elektrischer
 Herzrhythmus schockbar oder nicht schockbar ist. Die Herzrhythmen werden
-im Kapitel [topic-herzrhythmusstoerungen], genauer besprochen.
+im Kapitel [Thema-herzrhythmusstoerungen], genauer besprochen.
 
 
 .. index::
@@ -931,27 +933,27 @@ welche grundsätzlich behebbar (reversibel) sind:
 
 -  **H**\ ypoxie
 
-   (z.B. Atemwegsverlegung),
+   (z. B. Atemwegsverlegung),
 
 -  **H**\ ypovolämie
 
-   (z.B. Blutung durch Trauma, GI-Blutung, Aneurysmaruptur),
+   (z. B. Blutung durch Trauma, GI-Blutung, Aneurysmaruptur),
 
 -  **H**\ ypo-/Hyperkaliämie
 
-   (z.B. metabolische Störung),
+   (z. B. metabolische Störung),
 
 -  **H**\ ypothermie
 
-   (z.B. Ertrinkungsunfall)
+   (z. B. Ertrinkungsunfall)
 
 -  **H**\ erzbeuteltamponade
 
-   (z.B. Thoraxtrauma durch Stich oder Schuss)
+   (z. B. Thoraxtrauma durch Stich oder Schuss)
 
 -  **I**\ ntoxikation
 
-   (z.B. Opiate, trizyklische Antidepressiva)
+   (z. B. Opiate, trizyklische Antidepressiva)
 
 -  **T**\ hromboembolie
 
@@ -1012,14 +1014,14 @@ Asystolie besteht
 Gewisse Bedingungen, etwa eine Hypothermie zum
 Zeitpunkt des Kreislaufstillstands, steigern die Chancen der Wieder-
 herstellung ohne neurologische Schäden, sodass normale Prognosekriterien
-(z.B. eine über 20min andauernde Asystolie) nicht anwendbar sind.
+(z. B. eine über 20min andauernde Asystolie) nicht anwendbar sind.
 :cite:`Erc2005DeSec8`
 
 Abgesehen von den rein medizinischen Faktoren, welche vor allem den zu
 erwartenden Reanimationserfolg im Blick haben, gibt es auch noch andere
 Umstände, welche Einfluss auf die Entscheidung haben. Besonders
 berücksichtigenswert ist der mutmaßliche oder vorab geäußerte
-Patientenwille, z.B. im Rahmen einer verbindlichen oder beachtlichen
+Patientenwille, z. B. im Rahmen einer verbindlichen oder beachtlichen
 Patientenverfügung.
 
 Die Abbruchsentscheidung ist grundsätzlich *von einem Arzt* zu treffen

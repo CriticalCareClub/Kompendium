@@ -24,7 +24,7 @@ Eine Verbreitung ist nicht gestattet.
 .. :ref:`_Topic_LizenzAddendum` angeführten Lizenz-Addendum.
 
 .. Davon nicht berührt sind die Lizenzbedingungen von eingearbeiteten
-.. Werken (z.B. Bilder und Grafiken), die davon abweichende
+.. Werken (z. B. Bilder und Grafiken), die davon abweichende
 .. Lizenzbestimmungen aufweisen können.
 
 Kurzfassung der Nutzungsbestimmungen (unverbindlich)
@@ -255,10 +255,10 @@ sämtlicher daraus resultierender Rechte.
       des Rechteinhabers, und/oder falls der Lizenzgeber im
       Rechtevermerk, in den Nutzungsbedingungen oder auf andere
       angemessene Weise eine Zuschreibung an Dritte vorgenommen hat
-      (z.B. an eine Stiftung, ein Verlagshaus oder eine Zeitung)
+      (z. B. an eine Stiftung, ein Verlagshaus oder eine Zeitung)
       (“Zuschreibungsempfänger”), Namen bzw. Bezeichnung dieses oder
       dieser Dritten; den Titel des Inhaltes; in einer praktikablen
-      Form den Uniform-Resource-Identifier (URI, z.B. Internetadresse),
+      Form den Uniform-Resource-Identifier (URI, z. B. Internetadresse),
       den der Lizenzgeber zum Schutzgegenstand angegeben hat, es sei
       denn, dieser URI verweist nicht auf den Rechtevermerk oder die
       Lizenzinformationen zum Schutzgegenstand.

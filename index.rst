@@ -40,6 +40,7 @@ Notarzttraining
    StrukturiertePatientenbetreuung/index
    Reanimation/index
    Krankheitsbilder/index
+   Pharmakopeia/index
    Appendix/index
 
 

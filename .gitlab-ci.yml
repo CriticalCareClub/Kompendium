@@ -16,7 +16,5 @@ pages:
     paths:
     - public
   only:
-  - master
-  - entwicklung
   - fix-ci-error
 

@@ -15,4 +15,5 @@ pages:
     - public
   only:
   - master
+  - entwicklung
 

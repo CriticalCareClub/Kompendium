@@ -45,28 +45,107 @@ wie in der folgenden Tabelle gegliedert:
 	   | 5        | *F*         | Expert              | Experten, Ärzte, Fachärzte, diplomiertes Pflegepersonal mit Zusatzausbildung                                                                |
 	   +----------+-------------+---------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
 
+***************************************************************
+Aufbau eines Themas 
+***************************************************************
+
+Anatomische Struktur
+====================
+
+-	Überschrift
+
+	``anatomische Nomenklaturen``
+
+	-	Basics 
+	
+		*(inkl. Definition)*
+	-	Umfassende Beschreibung
+
+		-	Struktur
+		-	Lage
+		-	Histologie
+		- 	... 
+		
+	-	Gefäßversorgung
+	-	Innervation
+	-	Physiologische Funktion
+
+		- 	Basics
+		-	Umfassende Beschreibung
+
+	-	Besondere Anatomie
+
+		- 	``Schnittbild``
+		-	``Ultraschall``
+
+
+Krankheitsbild
+==============
+
+-	Überschrift
+
+	``ICD-Codes``
+
+	-	Basics inkl. Definition
+	-	Umfassende Beschreibung
+
+	-	Symptome und Diagnostik
+
+		``Vorbemerkungen, klassische Leitsymptome``
+	
+		-	ABCDE 
+			
+			*(Bei jedem Punkt jeweils zuerst Basics, dann erweiterte Diagnostik/Symptome)*
+		-	SAMPLER
+			
+			*(Bei jedem Punkt jeweils zuerst Basics, dann Details)*
+		-	Erweiterte Diagnostik
+
+			-	``z. B. EKG``
+			-	``z. B. Labor``
+			-	``z. B. Bildgebung``
+		
+	-	Therapie
+	
+		-	Basics der Akuttherapie
+		-	Erweiterte Akuttherapie
+		
+			-	Pharmakotherapie
+			-	Interventionen
+			-	...
+
+		-	Weiterbehandlung
+			
+	-	Besonderheiten im präklinischen Setting
+	
+		-	Limitationen in Diagnostik und Therapie
+		-	Prioritäten
+		-	Transportziel
+
+
 *********
 Maßnahmen
 *********
 
 Maßnahmen im engeren Sinne sind festgelegte Handlungsempfehlungen,
 vergleichbar mit Lehrmeinungen. Es wird zwischen allgemeinen, Standard-
-und speziellen Maßnahmen unterschieden, siehe [tab:massnahmentypen].
+und speziellen Maßnahmen unterschieden, siehe :ref:`Tafel-Massnahmentypen`.
 Jede Maßnahme hat eine Kennung und eine Versionsnummer.
 
-!!! TABELLE WEIT Maßnahmentypen[tab:massnahmentypen]
+.. _Tafel-Massnahmentypen:
 
-+----------+--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **ID**   | **Art**                  | **Beschreibung**                                                                                                                                                                                            |
-+----------+--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ALL      | *Allgemeine Maßnahmen*   | Allgemeine Maßnahmen beziehen sich auf eine Gruppe von Patienten mit einer Übergruppe bestimmter, verwandter Erkrankungen, wobei eine weiterführende Unterteilung mittels spezieller Maßnahmen existiert.   |
-+----------+--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| STD      | *Standardmaßnahmen*      | Standardmaßnahmen treffen unter bestimmten Bedingungen auf eine große Gruppe unterschiedlicher Patienten mit unterschiedlichen Diagnosen zu.                                                                |
-+----------+--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| SPZ      | *Spezielle Maßnahmen*    | Spezielle Maßnahmen treffen auf bestimmte Patienten mit einer bestimmten Diagnose oder einem bestimmten Zustand zu.                                                                                         |
-+----------+--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+.. table:: Maßnahmentypen
 
-Table: Arten von Maßnahmen
+	+----------+--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+	| **ID**   | **Art**                  | **Beschreibung**                                                                                                                                                                                            |
+	+----------+--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+	| ALL      | *Allgemeine Maßnahmen*   | Allgemeine Maßnahmen beziehen sich auf eine Gruppe von Patienten mit einer Übergruppe bestimmter, verwandter Erkrankungen, wobei eine weiterführende Unterteilung mittels spezieller Maßnahmen existiert.   |
+	+----------+--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+	| STD      | *Standardmaßnahmen*      | Standardmaßnahmen treffen unter bestimmten Bedingungen auf eine große Gruppe unterschiedlicher Patienten mit unterschiedlichen Diagnosen zu.                                                                |
+	+----------+--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+	| SPZ      | *Spezielle Maßnahmen*    | Spezielle Maßnahmen treffen auf bestimmte Patienten mit einer bestimmten Diagnose oder einem bestimmten Zustand zu.                                                                                         |
+	+----------+--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
 
 *************
 Externe Teile

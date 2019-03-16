@@ -12,8 +12,12 @@
 
 
 ###############
-Notarzttraining
+Plan C
 ###############
+
+.. only:: html
+
+    .. centered:: *Ein launiges Kompendium des Critical Care Club Austria*
 
 .. only:: html
 

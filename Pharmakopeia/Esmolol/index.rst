@@ -9,32 +9,38 @@ Esmolol
 
 
 
-Spezialitäten
+.. topic:: Spezialitäten
+
     Brevibloc™ (100 mg / 10 mL, 2500 mg / 10 mL)
 
-Beschreibung
+.. topic:: Beschreibung
+
     Esmolol ist ein *sehr kurz* wirksamer **β₁-selektiver Betablocker** 
     (Klasse-II-Antiarrhythmikum)
     *ohne* intrinsischer sympathikomimetischer Aktivität.
 
-Pharmakokinetik
+.. topic:: Pharmakokinetik
+
     Elimination über *Esterase-Hydrolyse*, 
     E-HWZ 9 min, 
     Wirkdauer wenige Minuten
 
-Pharmakodynamik
+.. topic:: Pharmakodynamik
+
     -   primär: negativ inotrop, chronotrop und dromotrop
     -   sekundär: Hemmung der Lipolyse; 
         β₂-vermittelt: Hemmung der Dilatation der glatten Muskulatur 
         mit Konstriktion bzw. Tonuserhöhung 
         (Bronchokonstriktion, Raynaud-Syndrom)
 
-Indikation
+.. topic:: Indikation
+
     -   Tachyarrhythmie (insbes. supraventrikulär), 
     -   Thyreotoxikose,
     -   Flimmerprophylaxe nach MCI
 
-Kontraindikationen
+.. topic:: Kontraindikationen
+
     -   Bradykardie, 
     -   NYHA III—IV, 
     -   (kardiogener) Schock, 
@@ -47,10 +53,12 @@ Kontraindikationen
       
         CAVE: Keinesfalls mit **Ca-Antagonisten** (Verapamil) kombinieren!
 
-Dosierung
+.. topic:: Dosierung
+
     Bolus: 0,5 mg / kg, Rep. idem (70 kg: 35 mg; 100 kg: 50 mg)
 
     Perfusor: 3--18 mg / kg / h
 
-Anwendungshinweise
+.. topic:: Anwendungshinweise
+
     Monitor/RR-Kontrolle, langsam!

@@ -10,22 +10,21 @@ seines schnellen Wirkungseintritts wird Thiopental heute noch im
 Rahmen der Schnelleinleitung bei der Sectio caesaria eingesetzt,
 aber auch hier wird es zunehmend von Propofol verdrängt. 
 
-Traurige Bekanntheit erreichte Thiopental durch seine Verwendung als Mittel
-zur Hinrichtung per "Giftspritze" in den USA. 
-Aufgrund der Verwendung zur Hinrichtung 
-besteht ein Exportverbot für die EU in
-die USA und Kanada.
 
-Spezialitäten
+
+.. topic:: Spezialitäten
+
     *Thiopental* TSA 500  mg , 1000  mg
 
-Pharmakodynamik
+.. topic:: Pharmakodynamik
+
     Interaktion als Modulator mit GABA\ :sub:`A`-Rezeptorkomplex,
     bewirkt Verlängerung der Cl\ :sup:`-`-Kanalöffnungszeit. In höherer
     Konzentration ist auch eine direkte Aktivierung der
     GABA\ :sub:`A`-Kanäle möglich.
 
-Pharmakokinetik
+.. topic:: Pharmakokinetik
+
     Thiopental flutet rasch an, mit einem Wirkungseintritt ist
     schon nach ca. 1 Minute zu rechnen. Durch die ebenfalls rasche
     Umverteilung kommt es aber auch schnell zu einem Absinken der
@@ -38,10 +37,12 @@ Pharmakokinetik
     Dauer der hypnotischen Wirkung 5—15 min,
     Eliminations-HWZ 5—10 h , PPB 97%
 
-Wirkungen
+.. topic:: Wirkungen
+
     Anxiolyse, Sedation, Hypnose, Antikonvulsion
 
-Nebenwirkungen
+.. topic:: Nebenwirkungen
+
     -   Zerebrale Vasokonstriktion, Abnahme der cerebralen Durchblutung
         (*CBF*) und des cerebralen Blutvolumens (*CBV*), Senkung des
         Hirndrucks (*ICP*)
@@ -56,7 +57,8 @@ Nebenwirkungen
     -   Histaminfreisetzung 
     -   Venenreizung, Gewebsnekrosen bei Paravasat
 
-Indikation
+.. topic:: Indikation
+
     Narkoseeinleitung, besonders bei:
     -   Krampfanfall
     -   Sectio caesaria (Propofol erscheint aber im Wesentlichen gleichwertig). Einleitung bei
@@ -64,7 +66,8 @@ Indikation
 
     Sonst wurde Thiopental weitgehend von Propofol und Ketamin als Einleitungshypnotikum abgelöst.
 
-Kontraindikationen
+.. topic:: Kontraindikationen
+
     -   Schock, 
     -   dekompensierte Herzinsuffizienz, 
     -   akute Phase eines MCI,
@@ -81,7 +84,8 @@ Kontraindikationen
     -   schwere Nierenfunktionsstörungen
 
 
-Dosierung
+.. topic:: Dosierung
+
     3—7 mg / kg (70: 210—490 mg; 100: 300—700 mg)
 
 
@@ -91,3 +95,13 @@ Dosierung
    Paravasat oder intraarterielle Injektion verursacht schwere
    *Gewebenekrosen*!
 
+.. topic:: Trivia
+
+    Traurige Bekanntheit erreichte Thiopental durch seine Verwendung als Mittel
+    zur Hinrichtung per "Giftspritze" in den USA. 
+    Aufgrund der Verwendung zur Hinrichtung 
+    besteht ein Exportverbot für die EU in
+    die USA und Kanada.
+    Dies mag wohl dazu beigetragen haben, 
+    dass Thiopental bei der Sectio-Einleitung
+    zunehmend durch Propofol verdrängt wird.

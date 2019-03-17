@@ -9,7 +9,7 @@
 .. role:: raw-latex(raw)
    :format: latex
 
-
+.. title:: Plan P
 
 ###############
 Plan P
@@ -19,20 +19,20 @@ Plan P
 
     *Ein* **p**\ *ragmatisches Kompendium des Critical Care Club Austria*
 
-.. only:: html
-
-	.. figure:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-00943pt.jpg
-
-		[Christoph Pallinger, MfG]
-
-
 
 .. epigraph::
 
    saluti et solatio aegrorum
 
 
-:cite:`008-001-S2e-SHT-Erwachsene-2016-06`
+.. only:: html
+
+    .. image:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-00943pt.jpg
+        :align: center
+
+		
+Titelbild: Christoph Pallinger, MfG
+
 
 
 .. toctree::
@@ -52,6 +52,10 @@ Plan P
 *********
 Literatur
 *********
+
+
+:cite:`008-001-S2e-SHT-Erwachsene-2016-06`
+
 
 .. bibliography:: Notarzt-21.bib 
     :style: plain

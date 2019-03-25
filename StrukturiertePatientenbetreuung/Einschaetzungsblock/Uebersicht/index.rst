@@ -6,8 +6,11 @@
 .. raw:: latex
 
     \begin{ParWide}
-    
-.. table:: **Alarmzeichen**\ : Wann ist eine vitale Bedrohung wahrscheinlich? Eine Übersicht. [tab:alarmzeichen]
+
+
+.. _Tafel-Alarmzeichen:
+
+.. table:: **Alarmzeichen**\ : Wann ist eine vitale Bedrohung wahrscheinlich? Eine Übersicht. 
 
   +---------------------------+-------------------------------------+-------------------------+
   | **Massive Störung**       | **Alarmsymptome**                   | **Alarmdiagnosen**      |

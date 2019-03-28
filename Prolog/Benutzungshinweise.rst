@@ -27,24 +27,49 @@ Kompetenzlevel
 Die Kompetenzlevel des Zielpublikums der einzelnen Inhalte der AASS sind
 wie in der folgenden Tabelle gegliedert:
 
-.. table:: Kompetenzlevel
+.. tabularcolumns:: cclL
 
-	   +----------+-------------+---------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-	   | **ID**   | **Level**   | **Titel**           | **Beschreibung**                                                                                                                            |
-	   +----------+-------------+---------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-	   | 0        | *A*         | Laien, Ersthelfer   | Laienhelfer                                                                                                                                 |
-	   +----------+-------------+---------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-	   | 1        | *B*         | First Responder     | First Responder (ohne Ausbildung nach SanG)                                                                                                 |
-	   +----------+-------------+---------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-	   | 2        | *C*         | Basic               | *.at* Rettungssanitäter                                                                                                                     |
-	   +----------+-------------+---------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-	   | 3        | *D*         | Intermediate        | *.at* Notfallsanitäter mit oder ohne Notfallkompetenz NKA; *.de* Rettungssanitäter                                                          |
-	   +----------+-------------+---------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-	   | 4        | *E*         | Advanced            | Ärzte, diplomiertes Pflegepersonal; *.at* Notfallsanitäter mit Notfallkompetenz NKV oder NKI; *.de* Notfallsanitäter, Rettungsassistenten   |
-	   +----------+-------------+---------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-	   | 5        | *F*         | Expert              | Experten, Ärzte, Fachärzte, diplomiertes Pflegepersonal mit Zusatzausbildung                                                                |
-	   +----------+-------------+---------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+.. list-table:: Kompetenzlevel 
+    :class: tabulary
+    :header-rows: 1
+    :stub-columns: 1
 
+    *   -   ID
+        -   Level
+        -   Titel
+        -   Beschreibung
+    *   -   0
+        -   A
+        -   Laien, Ersthelfer
+        -   Laienhelfer
+    *   -   1
+        -   B
+        -   First Responder
+        -   First Responder (ohne Ausbildung nach SanG)
+    *   -   2
+        -   C
+        -   Basic
+        -   *.at* Rettungssanitäter
+    *   -   3
+        -   D
+        -   Intermediate
+        -   .at Notfallsanitäter mit oder ohne Notfallkompetenz NKA; 
+            *.de* Rettungssanitäter
+    *   -   4
+        -   E
+        -   Advanced
+        -   Ärzte, 
+            diplomiertes Pflegepersonal; 
+            *.at* Notfallsanitäter mit Notfallkompetenz NKV oder NKI; 
+            *.de* Notfallsanitäter, 
+            Rettungsassistenten
+    *   -   5
+        -   F
+        -   Expert
+        -   Experten, 
+            Ärzte, 
+            Fachärzte, 
+            diplomiertes Pflegepersonal mit Zusatzausbildung
 
 
 *********

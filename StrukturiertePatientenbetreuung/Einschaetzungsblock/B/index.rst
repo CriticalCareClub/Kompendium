@@ -63,6 +63,8 @@ Als nächstes wird die Funktion der *Atmung* beurteilt:
     single: Totraumventilation
     single: Schnappatmung
 
+.. _Thema-Totraumventilation:
+
 Totraumventilation und Schnappatmung
 ====================================
 

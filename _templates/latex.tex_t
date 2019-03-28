@@ -13,6 +13,11 @@
 \ifdefined\pdfpxdimen
    \let\sphinxpxdimen\pdfpxdimen\else\newdimen\sphinxpxdimen
 \fi \sphinxpxdimen=<%= pxunit %>\relax
+<% if use_xindy -%>
+%% turn off hyperref patch of \index as sphinx.xdy xindy module takes care of
+%% suitable \hyperpage mark-up, working around hyperref-xindy incompatibility
+\PassOptionsToPackage{hyperindex=false}{hyperref}
+<% endif -%>
 <%= passoptionstopackages %>
 \PassOptionsToPackage{warn}{textcomp}
 <%= inputenc %>
@@ -26,7 +31,6 @@
 \usepackage<%= sphinxpkgoptions %>{sphinx}
 <%= sphinxsetup %>
 <%= fvset %>
-
 % The basic layout is based on a three column layout (\enquote{Thirds Layout}): 
 % Two column text and one column margin notes.
 % Geometry, setting up page layout for \enquote{Thirds Layout}
@@ -52,17 +56,15 @@ footskip = 7mm,
 %showframe,
 ]
 {geometry}
-
 <%= usepackages %>
 <%= hyperref %>
 <%= contentsname %>
 <%= numfig_format %>
-<%= literalblockpto %>
+<%= translatablestrings %>
 <%= pageautorefname %>
 <%= tocdepth %>
 <%= secnumdepth %>
 <%= preamble %>
-
 
 \title{<%= title %>}
 \date{<%= date %>}
@@ -71,6 +73,13 @@ footskip = 7mm,
 \newcommand{\sphinxlogo}{<%= logo %>}
 \renewcommand{\releasename}{<%= releasename %>}
 <%= makeindex %>
+\begin{document}
+<%= shorthandoff %>
+\pagestyle{empty}
+<%= maketitle %>
+\pagestyle{plain}
+<%= tableofcontents %>
+\pagestyle{normal}
 <%= body %>
 <%= atendofbody %>
 <%= indices %>

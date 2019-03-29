@@ -5,7 +5,7 @@
     pair: B; Einschätzungsblock
 
 .. _Thema-Abcde-B:
-.. _Topic-Breathing:
+.. _Thema-Breathing:
 
 ************************
 ``B`` Atmung (Breathing)
@@ -236,7 +236,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
 
 	    
-.. _Topic-Lippenbremse-Basic:
+.. _Thema-Lippenbremse-Basic:
 
 Typische Maßnahmen
 ==================
@@ -250,7 +250,7 @@ Typische Maßnahmen
 -  :dfn:`Lippenbremse`:  Die
    Lippenbremse ist eine besondere Atemtechnik bei Erkrankungen der
    unteren Atemwege und funktioniert ähnlich wie der PEEP
-   (:ref:`Topic-Peep`).
+   (:ref:`Thema-Peep`).
    Dabei atmet der Patient langsam und gleichmäßig durch
    die beinahe geschlossenen Lippen, also gegen einen Widerstand, aus.
    Dadurch kommt es zu einer Verlängerung der Ausatmung und einem

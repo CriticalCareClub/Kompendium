@@ -174,7 +174,7 @@ als :dfn:`OPQRST` bezeichnet [182]_.
    Sie so einen Schmerz schon einmal gehabt? Haben die Schmerzen
    plötzlich oder langsam eingesetzt?”*
 
-.. _Topic-Kolik:
+.. _Thema-Kolik:
 
 .. index::
    single: Schmerz, kolikartiger

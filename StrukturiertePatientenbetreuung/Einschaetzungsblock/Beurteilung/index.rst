@@ -67,9 +67,9 @@ oder Fakten stoßen, welche auf eine vitale Bedrohung hinweisen.
 
 
 
-.. _Topic-PatientenmanagementErstmassnahmen:
+.. _Thema-PatientenmanagementErstmassnahmen:
 
-.. _Topic-PatientenmanagementSofortmassnahmen:
+.. _Thema-PatientenmanagementSofortmassnahmen:
 
 Sofortmaßnahmen müssen bei Bedarf sofort ergriffen werden
 =========================================================
@@ -96,7 +96,7 @@ Typische Sofortmaßnahmen sind z. B.
    Patienten.
 
 
-.. _Topic-SonderfallAbsolutZeitkritischePatienten:
+.. _Thema-SonderfallAbsolutZeitkritischePatienten:
 
 Vorgezogene Transportentscheidung bei absolut zeitkritischen Patienten
 ======================================================================
@@ -106,7 +106,7 @@ Bei **absolut
 zeitkritischen Patienten**, bei denen bereits die ``ABC``\ -Einschätzung
 ergibt, dass ein Transport nicht aufschiebbar ist, kann schon **nach dem
 Punkt** ``C`` **eine Transportentscheidung** (Spital, Notarzt-Rendez-vous, …,
-vgl. :ref:`Topic-PamStrategie`) getroffen werden.
+vgl. :ref:`Thema-PamStrategie`) getroffen werden.
 Die Maßnahmen von ``D`` und ``E`` sollen dann,
 sofern möglich,
 während des Transportes erfolgen.

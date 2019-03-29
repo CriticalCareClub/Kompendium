@@ -32,7 +32,7 @@ v. a. beurteilt:
 
 Liegt der Verdacht auf eine Wirbelsäulenverletzung vor, wird bereits
 hier mit der manuellen Stabilisierung der Halswirbelsäule begonnen
-(:ref:`Topic-IndikationWirbelsaeulenimmobilisation`).
+(:ref:`Thema-IndikationWirbelsaeulenimmobilisation`).
 
 
 

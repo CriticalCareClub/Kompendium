@@ -45,6 +45,11 @@ Die Orientierung wird unter Punkt **D** beurteilt.
     pair: Sopor; Bewusstseinsgrad
     pair: komatös; Bewusstseinsgrad
 
+
+.. _Thema-BewusstseinsstoerungGrade:
+
+.. _Thema-Bewusstseinsgrad:
+
 Bewusstseinsgrad
 ================
 
@@ -60,9 +65,6 @@ Bewusstseinsgrad
    -  Bewusstlos *komatös*
 
 
-.. _Topic-BewusstseinsstoerungGrade:
-
-.. _Topic-Bewusstseinsgrad:
 
 Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins
 (*Wieviel* Bewusstsein ist vorhanden?).
@@ -200,7 +202,7 @@ Fällt diese zurück, kann sie den *Atemweg verlegen*.
 Dabei ist manchmal ein dem *Schnarchen ähnliches*
 Atemgeräusch zu vernehmen.
 
-.. Details siehe :ref:`Topic-Bewusstseinsstoerung`.
+.. Details siehe :ref:`Thema-Bewusstseinsstoerung`.
 
 
 Typische Maßnahmen

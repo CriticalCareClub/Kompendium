@@ -26,7 +26,7 @@ aufgrund möglicher Verletzungen der Schädelbasis nicht über die Nase
 abgesaugt werden!
 Weiters besteht immer die Gefahr des Auslösens eines Laryngospasmus.
 
-.. _Topic-Guedeltubus: 
+.. _Thema-Guedeltubus: 
 
 Guedel-Tubus
 ============
@@ -167,7 +167,7 @@ erleichtern soll.
 
 
 
-.. _Topic-Larynxtubus:
+.. _Thema-Larynxtubus:
 
 
 Larynxtubus
@@ -446,7 +446,7 @@ der Patient beatmet werden kann.
 
 
 
-.. _Topic-EndotrachealeIntubation:
+.. _Thema-EndotrachealeIntubation:
 
 ************************
 Endotracheale Intubation
@@ -526,7 +526,7 @@ Material
     Absaugkatheter, Magill-Zange, Silikonspray, Tubus, Führungsdraht,
     Blockerspritze (10 ml), verschiedene Spatel, Laryngoskop,
     Guedel-Tuben, Beißkeil, Beatmungsbeutel mit Bakterienfilter, Maske
-    und O2-Line, Fixationsmaterial, Stethoskop
+    und O₂-Line, Fixationsmaterial, Stethoskop
     [Ch. Pallinger, MfG]
 
 Vorbereitung
@@ -569,7 +569,7 @@ Vorbereitung
 #. *Cuff* mit Silikonspray einsprühen
 
 #. *Beatmungsbeutel* zusammenbauen und an
-   O2-Berieselungseinheit anschließen
+   O₂-Berieselungseinheit anschließen
 
 #. *Stethoskop*: Funktion prüfen
 

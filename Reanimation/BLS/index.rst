@@ -52,7 +52,7 @@ aktualisiert werden.
 Die wesentliche Vorausstzung für eine gelungene Reanimation ist das
 **Erkennen** dass ein Patient *reanimationspflichtig* ist.
 Grundsätzlich wird, wie bei jedem Pateintenkontakt, mit dem
-1234-ABCDE-Schema begonnen (:ref:`Topic-Patientenmanagement`).
+1234-ABCDE-Schema begonnen (:ref:`Thema-Patientenmanagement`).
 Nach Erkennen des **fehlenden Bewusstseins** (**4**) wird bei **A**
 der *Kopf überstreckt* und eine *Atemkontrolle* durchgeführt, welche
 eine **fehlende Atmung** oder **Schnappatmung** zeigt.
@@ -341,7 +341,7 @@ Dies ist im Rahmen der Reanimation, sofern technisch möglich, obligat!
 
 Zum Freihalten der Atemwege ist zusätzlich zum Überstrecken des Kopfes
 ein **Guedel-Tubus** :index:`\ <Guedel-Tubus>`
-(:ref:`Topic-Guedeltubus`) empfehlenswert.
+(:ref:`Thema-Guedeltubus`) empfehlenswert.
 
 Erfolglose Beatmungsversuche sollen nicht wiederholt werden.
 
@@ -380,14 +380,14 @@ Eine ungenügende Abdichtung der Beatmungsmaske am Gesicht führt zu einer *Leck
 und kann zu einem niedrigen Atemzugsvolumen und einem PEEP-Verlust führen. 
 Insbesonders bei Bartträgern ist die Abdichtung der Atemmaske am Gesicht oft erschwert. 
 Eine *zu hohe Atemfrequenz* resultiert in einer Hyperventilation 
-und Hypokapnie (|CO2|\ -Abfall) des Patienten 
+und Hypokapnie (CO₂\ -Abfall) des Patienten 
 und folglich in einer Störung des Säure-Basenhaushalts. 
 Die Qualität der Beatmung wird durch *Beobachtung der Atemexkursionen* des Brustkorbs überprüft,
 d. h. dieser muss sich deutlich heben und *senken*.
 
 
 
-.. _Topic-DefibrillationBls:
+.. _Thema-DefibrillationBls:
 
 Die Defibrillation soll die normale elektrische Herztätigkeit wiederherstellen
 ==============================================================================
@@ -996,13 +996,13 @@ angeführten Umstände (Abbruchkriterien) eintritt:
    weitergeführt wird. Ein etwaiger Abbruch kann nur auf Anweisung des
    Notarztes erfolgen.
 
--  *Wiedererlangung des Kreislaufes* (*ROSC*\ [149]_, :ref:`Topic-Rosc-Bls`):
+-  *Wiedererlangung des Kreislaufes* (*ROSC*\ [149]_, :ref:`Thema-Rosc-Bls`):
    Zeigt der Patient *eindeutige Lebenszeichen* (Erwachen, Husten,
    Atmen) so wird die Reanimation vorläufig beendet. Es ist sofort eine
    *Atemkontrolle* durchzuführen um sicherzustellen, dass die
    Lebenszeichen richtig erkannt wurden. Ist eine normale Atmung
    vorhanden, wird die Reanimation endgültig beendet. [150]_ Es ist der
-   Einschätzungsblock (:ref:`Topic-Einschaetzungsblock`) sowie die
+   Einschätzungsblock (:ref:`Thema-Einschaetzungsblock`) sowie die
    Standardmaßnahmen bei vital bedrohten Patienten durchzuführen. Die
    Sauerstoffgabe hat dabei einen |SpO2|\ -Zielwert von 94--98%.
    *Erbrechen zählt *nicht* als Lebenszeichen*. 
@@ -1037,7 +1037,7 @@ angeführten Umstände (Abbruchkriterien) eintritt:
    Diese Form der Beendigung der Reanimation ist leider äußerst selten.
 
 
-.. _Topic-Rosc-Bls:
+.. _Thema-Rosc-Bls:
 
 ********************************************************************************
 **Resumption of Spontaneous Circulation** (ROSC) und **Post-Resuscitation Care**

@@ -119,7 +119,7 @@ Erweiterte Techniken zur einfachen Atemwegssicherung
 
 .. rubric:: !Übersicht: Lage verschiedener Hilfsmittel zur Atemwegssicherung
 
-*Hirtler*\ [fig:uebersicht-lage-atemwegshilfen]
+*Hirtler*\ [Figure-uebersicht-lage-atemwegshilfen]
 
 
 
@@ -139,11 +139,11 @@ Erweiterte Techniken zur einfachen Atemwegssicherung
     single: Guedel-Tubus
    
 
-.. _Topic-absaugung-taetigkeit:
+.. _Thema-absaugung-taetigkeit:
 
-.. _Topic-absaugung:
+.. _Thema-absaugung:
 
-.. _Topic-absauggeraete:
+.. _Thema-absauggeraete:
    
 Absaugung
 ---------
@@ -162,7 +162,7 @@ Schleimabsauger.
 Ein *Absaugkatheter* ist jenes Zubehör zum Absauggerät, mit welchem die
 Sekrete aus Mund oder Nase abgesaugt werden können. Es ist ein
 flexibler, ca. 50cm langer Schlauch, der direkt an die Absaugpumpe
-angeschlossen wird (siehe Abbildung in [fig:absaugvorrichtungen]). Die
+angeschlossen wird (siehe Abbildung in [Figure-absaugvorrichtungen]). Die
 meisten Absaugkatheter haben auf Patientenseite eine kleine Öffnung, die
 das Festsaugen an dem Patienten verhindert. Die Absaugkatheter sind
 steril verpackt und müssen auch dementsprechend behandelt werden. Die

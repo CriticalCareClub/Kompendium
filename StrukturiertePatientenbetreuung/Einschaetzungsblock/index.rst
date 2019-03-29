@@ -1,6 +1,6 @@
 
 
-.. _Topic-Einschaetzungsblock:
+.. _Thema-Einschaetzungsblock:
 
 ##############################
 Einschätzungsblock: 1234–ABCDE

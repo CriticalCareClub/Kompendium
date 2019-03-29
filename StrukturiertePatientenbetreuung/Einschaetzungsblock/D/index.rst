@@ -39,7 +39,7 @@ Wenn erforderlich (neurologische Defizite,
 Hinweise auf Stoffwechselstörungen, …) erfolgt eine *Blutzuckermessung*.
 
 
-.. _Topic-Orientierung:
+.. _Thema-Orientierung:
 
 Orientierung
 ============
@@ -68,7 +68,7 @@ orientiert ist. Man unterscheidet dabei die Orientierung zu:
 -  *Situation*: Was passiert gerade?
 
 
-.. _Topic-Gcs:
+.. _Thema-Gcs:
 
 Glasgow Coma Scale (GCS)
 ========================
@@ -118,7 +118,7 @@ verlangsamte oder fehlende Reaktion (Fixierung), Entrundung), motorische
 (Lähmungen) oder sensible (Kribbeln, Gefühlsverlust) Ausfälle sowie
 Zuckerstoffwechselstörungen.
 
-.. _Topic-Hirndruckzeichen:
+.. _Thema-Hirndruckzeichen:
 
 .. index::
    single: Druck, intrakranieller

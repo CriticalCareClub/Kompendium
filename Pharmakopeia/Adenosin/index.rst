@@ -1,7 +1,7 @@
 .. index::
     single: Adenosin
 
-.. _Topic-Adenosin:
+.. _Thema-Adenosin:
 
 ########################################################################
 Adenosin

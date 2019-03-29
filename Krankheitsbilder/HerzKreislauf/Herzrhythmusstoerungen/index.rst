@@ -1,4 +1,7 @@
 
+.. _topic-herzrhythmusstoerungen:
+
+.. _Thema-herzrhythmusstoerungen:
 
 #####################
 Herzrhythmusstörungen

@@ -2,7 +2,7 @@
 ``C`` Kreislauf (Circulation) und Schnelle Trauma-Untersuchung (``STU``)
 ************************************************************************
 
-.. _Topic-Circulation:
+.. _Thema-Circulation:
 
 Einschätzung des Kreislaufs
 ===========================

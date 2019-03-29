@@ -39,7 +39,7 @@ aufgeschoben werden
 
 (Die Reihenfolge ist der jeweiligen Situation anzupassen!)
 
-- Einschätzungsblock, 1234-ABCDE (:ref:`Topic-Einschaetzungsblock`)
+- Einschätzungsblock, 1234-ABCDE (:ref:`Thema-Einschaetzungsblock`)
 
 - Beengende oder behindernde Kleidung entfernen bzw.
   öffnen
@@ -201,7 +201,7 @@ Reanimationsbereitschaft
 .. _m-einschaetzung-indikation-ws-immobilisation:
 .. _proc-YY14200B:
 .. _YY14200B:
-.. _Topic-IndikationWirbelsaeulenimmobilisation:
+.. _Thema-IndikationWirbelsaeulenimmobilisation:
 
 Indikation zur Wirbelsäulenimmobilisation
 =========================================

@@ -1,7 +1,7 @@
 .. index::
     single: Esmolol
 
-.. _Topic-Esmolol:
+.. _Thema-Esmolol:
 
 ########################################################################
 Esmolol

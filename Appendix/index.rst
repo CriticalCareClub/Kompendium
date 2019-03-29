@@ -4112,12 +4112,12 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 
 .. 
 	.. figure:: /Bilder/EmhoferJosef-Ccc/Lernen.pdf
-	.. figure:: /Images/TAE/tae-teamwork-transfer-lbk.jpg
-	.. figure:: /Images/TAE/tae-teamwork-arzt-sani.jpg
-	.. figure:: /Images/TAE/tae-okt26-alle.jpg
+	.. figure:: /Bilder/TAE/tae-teamwork-transfer-lbk.jpg
+	.. figure:: /Bilder/TAE/tae-teamwork-arzt-sani.jpg
+	.. figure:: /Bilder/TAE/tae-okt26-alle.jpg
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/traumacheck1.jpg
-	.. figure:: /Images/bergung_bagger_00800.jpg
-	.. figure:: /Images/bergung_kran_00800.jpg
+	.. figure:: /Bilder/bergung_bagger_00800.jpg
+	.. figure:: /Bilder/bergung_kran_00800.jpg
 	.. figure:: /Bilder/khd/gef-wind-rauch2
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00518-0154pt-0300dpi
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi
@@ -4130,7 +4130,7 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00942-0154pt-0300dpi
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00568-0154pt-0300dpi
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000253-0154pt-0300dpi
-	.. figure:: /Images/TAE/tae-okt26-bundesheer1.jpg
+	.. figure:: /Bilder/TAE/tae-okt26-bundesheer1.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1853_1.jpg
 	    
 
@@ -4170,7 +4170,7 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 
 ..
 	.. figure:: /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.pdf
-	.. figure:: /Images/JUS/RisHeader.jpg
+	.. figure:: /Bilder/JUS/RisHeader.jpg
 
 
 
@@ -4188,24 +4188,24 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 
 
 ..
-	.. figure:: /Images/koch-aass/00800-gamma/Pflasterb.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Kopfverband1b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Kopfverband2b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Schulterverband1b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Schulterverband2b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Schulterverband3b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Handverband1b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Handverband2b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Handverband3b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Handkrawatte1b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Handkrawatte2b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Handkrawatte3b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Knieverband1b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Knieverband2b.JPG
-	.. figure:: /Images/koch-aass/00800-gamma/Knieverband3b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Pflasterb.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Kopfverband1b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Kopfverband2b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Schulterverband1b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Schulterverband2b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Schulterverband3b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Handverband1b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Handverband2b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Handverband3b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Handkrawatte1b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Handkrawatte2b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Handkrawatte3b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Knieverband1b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Knieverband2b.JPG
+	.. figure:: /Bilder/koch-aass/00800-gamma/Knieverband3b.JPG
 
 ..
-	.. figure:: /Images/sign_cardive.jpg
+	.. figure:: /Bilder/sign_cardive.jpg
 
 
 
@@ -4258,7 +4258,7 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.jpg
 	.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.pdf
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.jpg
-	.. figure:: /Images/asthma-paramedic.jpg
+	.. figure:: /Bilder/asthma-paramedic.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.jpg
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.jpg
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.jpg
@@ -4268,41 +4268,25 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/GabrielSebastian-Ccc/aufnahmearzt-ihres-vertrauens-edited2-0500.jpg
 
 ..
-	.. figure:: /Bilder/HirtlerLena-Ccc/Zelle-edited.pdf
-	.. figure:: /Images/anatomie/Human_skeleton_front-edited.pdf
+	.. figure:: /Bilder/anatomie/Human_skeleton_front-edited.pdf
 	.. figure:: /Bilder/HirtlerLena-Ccc/Gelenk-edited.pdf
 	.. figure:: /Bilder/HirtlerLena-Ccc/Gelenkarten.pdf
-	.. figure:: /Images/anatomie/Gray361.png
+	.. figure:: /Bilder/anatomie/Gray361.png
 
 ..
-	.. figure:: /Images/anatomie/fontanelle-dt.jpg
-	.. figure:: /Images/anatomie/cavernous_sinus.png
-	.. figure:: /Bilder/HirtlerLena-Ccc/Wirbel-allgemein.pdf
-	.. figure:: /Images/anatomie/Thorax.pdf
-	.. figure:: /Images/anatomie/Human_arm_bones_diagram_de-edited.pdf
-	.. figure:: /Images/anatomie/Human_skeleton_lower-extr-edited.pdf
-	.. figure:: /Images/anatomie/Respiratory_system_complete_de-edited.pdf
-	.. figure:: /Bilder/HirtlerLena-Ccc/Pleura.pdf
-	.. figure:: /Bilder/HirtlerLena-Ccc/Thorax-Diaphragma.pdf
-	.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegung-frontal.pdf
-	.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.pdf
+	.. figure:: /Bilder/anatomie/cavernous_sinus.png
+	.. figure:: /Bilder/anatomie/Human_skeleton_lower-extr-edited.pdf
 	.. figure:: /Bilder/HirtlerLena-Ccc/Kreislauf-Schema.pdf
-	.. figure:: /Images/anatomie/Bleeding_finger.jpg
-	.. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.pdf
-	.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.pdf
+	.. figure:: /Bilder/anatomie/Bleeding_finger.jpg
+
 
 ..
 	.. figure:: /Bilder/WikipediaCcBy/Brain_human_sagittal_section_beschriftet.pdf
-	.. figure:: /Images/anatomie/Gray1196-edited.png
+	
 
 
 ..
-	.. figure:: /Bilder/HirtlerLena-Ccc/Ohr.pdf
-	.. figure:: /Bilder/HirtlerLena-Ccc/Mittelohr.pdf
-
-..
-	.. figure:: /Images/anatomie/Digestive_system_diagram_de-edited.pdf
-	.. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Mundhoehle.pdf
+	.. figure:: /Bilder/anatomie/Digestive_system_diagram_de-edited.pdf
 	.. figure:: /Bilder/WikipediaPd/stomach.pdf
 	.. figure:: /Bilder/WikipediaPd/Liver_and_pangreas_-_transparent.png
 	.. figure:: /Bilder/HirtlerLena-Ccc/Gallenblase.pdf
@@ -4323,7 +4307,7 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/WikipediaPd/Osmotische_druk.png
 	.. figure:: /Bilder/HirtlerLena-Ccc/Fremdkoerper.pdf
 	.. figure:: /Bilder/WikipediaPd/Abdominal_thrusts3.jpg
-	.. figure:: /Images/asthma-paramedic.jpg
+	.. figure:: /Bilder/asthma-paramedic.jpg
 	.. figure:: /Bilder/HirtlerLena-Ccc/Alveolen-Bronchus-COPD-edited2.png
 	.. figure:: /Bilder/HirtlerLena-Ccc/COPD-Stufen_edited.pdf
 	.. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.pdf
@@ -4342,70 +4326,70 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.*
 	.. figure:: /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.*
 	.. figure:: /Bilder/WikipediaPd/Lead_II_rhythm_generated_sinus_bradycardia.*
-	.. figure:: /Images/economyclass.jpg
-	.. figure:: /Images/lovenox1.jpg
+	.. figure:: /Bilder/economyclass.jpg
+	.. figure:: /Bilder/lovenox1.jpg
 	.. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie
 	.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/fieberthermometer.jpg
-	.. figure:: /Images/demaw/Skriptumaegf-img52-thirdwidth.*
-	.. figure:: /Images/demaw/Skriptumaegf-img53-thirdwidth.*
-	.. figure:: /Images/demaw/Skriptumaegf-img59-thirdwidth.*
-	.. figure:: /Images/hygiene/Faroe_stamp_079_europe_fleming.jpg
-	.. figure:: /Images/hygiene/11159_lores_VRSA.jpg
-	.. figure:: /Images/gabriel-christine-aass/staph-aureus.jpg
-	.. figure:: /Images/gabriel-christine-aass/staph-aureus-mrsa.jpg
-	.. figure:: /Images/gabriel-christine-aass/amputat-us1.jpg
+	.. figure:: /Bilder/demaw/Skriptumaegf-img52-thirdwidth.*
+	.. figure:: /Bilder/demaw/Skriptumaegf-img53-thirdwidth.*
+	.. figure:: /Bilder/demaw/Skriptumaegf-img59-thirdwidth.*
+	.. figure:: /Bilder/hygiene/Faroe_stamp_079_europe_fleming.jpg
+	.. figure:: /Bilder/hygiene/11159_lores_VRSA.jpg
+	.. figure:: /Bilder/gabriel-christine-aass/staph-aureus.jpg
+	.. figure:: /Bilder/gabriel-christine-aass/staph-aureus-mrsa.jpg
+	.. figure:: /Bilder/gabriel-christine-aass/amputat-us1.jpg
 	.. figure:: /Bilder/MotalMichael-Ccc/kontamed_4779-00800.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/fieberthermometer.jpg
-	.. figure:: /Images/hygiene/Niaid-hiv-virion-mod.jpg
-	.. figure:: /Images/hygiene/6373_lores_tetanus.jpg
+	.. figure:: /Bilder/hygiene/Niaid-hiv-virion-mod.jpg
+	.. figure:: /Bilder/hygiene/6373_lores_tetanus.jpg
 	.. figure:: /Bilder/WikipediaPd/Newborn_umbilical_suction-AASS-0030mm.jpg
 	.. figure:: /Bilder/WikipediaPd/Navelklem.jpg
 	.. figure:: /Bilder/WikipediaPd/Umbilicalstump.jpg
 	.. figure:: /Bilder/PallingerChristoph-Ccc/Partus_Set_aufgelegt_33048-01445pt.*
 	.. figure:: /Bilder/WikipediaPd/van_Gogh_Starry_Night_Over_the_Rhone.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/huette_winter_mariazell.jpg
-	.. figure:: /Images/TAE/dif-w2-zelt-1.jpg
+	.. figure:: /Bilder/TAE/dif-w2-zelt-1.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0482_00800.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/Atemschutz_IMG_2043_00800.jpg
-	.. figure:: /Images/2006-01-31-gaswienheute2.png
+	.. figure:: /Bilder/2006-01-31-gaswienheute2.png
 	.. figure:: /Bilder/GabrielSebastian-Ccc/schild-atemschutzmaske-abnehmen.jpg
-	.. figure:: /Images/wunde_rqw1.jpg
-	.. figure:: /Images/wunde_rqw2.jpg
-	.. figure:: /Images/pulsader_schnitt.jpg
-	.. figure:: /Images/trauma/stichwunde-klein.jpg
-	.. figure:: /Images/pneumothorax_stichverletzung_diskret.jpg
-	.. figure:: /Images/trauma/stichwunde-thorax-tief-01
-	.. figure:: /Images/trauma/burn-chem01.jpg
-	.. figure:: /Images/trauma/burn-chem02.jpg
-	.. figure:: /Images/trauma/combustio-sa-02-hand.jpg
+	.. figure:: /Bilder/wunde_rqw1.jpg
+	.. figure:: /Bilder/wunde_rqw2.jpg
+	.. figure:: /Bilder/pulsader_schnitt.jpg
+	.. figure:: /Bilder/trauma/stichwunde-klein.jpg
+	.. figure:: /Bilder/pneumothorax_stichverletzung_diskret.jpg
+	.. figure:: /Bilder/trauma/stichwunde-thorax-tief-01
+	.. figure:: /Bilder/trauma/burn-chem01.jpg
+	.. figure:: /Bilder/trauma/burn-chem02.jpg
+	.. figure:: /Bilder/trauma/combustio-sa-02-hand.jpg
 	.. figure:: /Bilder/HirtlerLena-Ccc/frische-Wunde-desinfizieren.pdf
 	.. figure:: /Bilder/WikipediaPd/Escarre_Stade_4_detail.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/doa.jpg
-	.. figure:: /Images/trauma/fremdkoerper-stich-fixierung.jpg
-	.. figure:: /Images/trauma/fremdkoerper-stich-messer-01.jpg
-	.. figure:: /Images/trauma/fremdkoerper-stich-messer-02.jpg
-	.. figure:: /Images/fraktur_fehlstellung_nativ.jpg
-	.. figure:: /Images/fraktur_fehlstellung_xray.jpg
-	.. figure:: /Images/trauma/fraktur-offen-finger.jpg
+	.. figure:: /Bilder/trauma/fremdkoerper-stich-fixierung.jpg
+	.. figure:: /Bilder/trauma/fremdkoerper-stich-messer-01.jpg
+	.. figure:: /Bilder/trauma/fremdkoerper-stich-messer-02.jpg
+	.. figure:: /Bilder/fraktur_fehlstellung_nativ.jpg
+	.. figure:: /Bilder/fraktur_fehlstellung_xray.jpg
+	.. figure:: /Bilder/trauma/fraktur-offen-finger.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0722_00500.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.jpg
-	.. figure:: /Images/pneumothorax_xray_halb.jpg
-	.. figure:: /Images/pneumothorax_xray_endstadium.jpg
-	.. figure:: /Images/pneumothorax_stichverletzung_diskret.jpg
-	.. figure:: /Images/trauma/bauchtrauma-offenes-01.jpg
+	.. figure:: /Bilder/pneumothorax_xray_halb.jpg
+	.. figure:: /Bilder/pneumothorax_xray_endstadium.jpg
+	.. figure:: /Bilder/pneumothorax_stichverletzung_diskret.jpg
+	.. figure:: /Bilder/trauma/bauchtrauma-offenes-01.jpg
 	.. figure:: /Bilder/WikipediaPd/Verbrennung1-00441pt.*
 	.. figure:: /Bilder/WikipediaCcBySa/VerbrennungGrad2a-00441pt.*
 	.. figure:: /Bilder/WikipediaCcBySa/Verbrennung_3gradig01.*
-	.. figure:: /Images/trauma/combustio-sa-01.jpg
-	.. figure:: /Images/trauma/combustio-sa-02-hand.jpg
-	.. figure:: /Images/trauma/combustio-sa-03-escharotomie.jpg
-	.. figure:: /Images/trauma/notbrause2.jpg
+	.. figure:: /Bilder/trauma/combustio-sa-01.jpg
+	.. figure:: /Bilder/trauma/combustio-sa-02-hand.jpg
+	.. figure:: /Bilder/trauma/combustio-sa-03-escharotomie.jpg
+	.. figure:: /Bilder/trauma/notbrause2.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.jpg
-	.. figure:: /Images/venflon_in_situ.jpg
+	.. figure:: /Bilder/venflon_in_situ.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/emergency_physician_vehicle_00800.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/blut-tatort-jacke.jpg
-	.. figure:: /Images/trauma/haematom-fehlpunktion-001.jpg
+	.. figure:: /Bilder/trauma/haematom-fehlpunktion-001.jpg
 	.. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1896_00800.jpg
 	.. figure:: /Bilder/MotalMichael-Ccc/medi-kontrolle_4807-00800.jpg
 	.. figure:: /Bilder/MotalMichael-Ccc/medi-aufziehen_4815-00800.jpg
@@ -4417,10 +4401,10 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Stellrad-Live-00441pt.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-3WegHahn-Live-00441pt.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-AnschlussVenflon-Live-00441pt.*
-	.. figure:: /Images/demaw/venflon_zerlegt-textwidth.jpg
-	.. figure:: /Images/demaw/Skriptumaegf-img35.*
-	.. figure:: /Images/demaw/Skriptumaegf-img36.*
-	.. figure:: /Images/demaw/venflon_zerlegt.*
+	.. figure:: /Bilder/demaw/venflon_zerlegt-textwidth.jpg
+	.. figure:: /Bilder/demaw/Skriptumaegf-img35.*
+	.. figure:: /Bilder/demaw/Skriptumaegf-img36.*
+	.. figure:: /Bilder/demaw/venflon_zerlegt.*
 	
 	
 

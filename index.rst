@@ -27,11 +27,12 @@ Plan P
 
 .. only:: html
 
-    .. image:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-00943pt.jpg
+    .. image:: /Bilder/Logos/Logo-4-StarOfLife-2.png
         :align: center
+        :width: 50%
 
-		
-Titelbild: Christoph Pallinger, MfG
+
+
 
 
 
@@ -41,6 +42,7 @@ Titelbild: Christoph Pallinger, MfG
    Prolog/index
    1-Mal-1-DerMedizin/index
    Grundlagen/index
+   AnatomiePhysiologie/index
    StrukturiertePatientenbetreuung/index
    Reanimation/index
    Krankheitsbilder/index
@@ -68,6 +70,25 @@ Literatur
             
 -----
 
+.. rubric:: Logovorschläge:
+
+
+
+.. image:: /Bilder/Logos/Logo-4-StarOfLife-1.png
+    :align: center
+    :width: 50%
+
+
+.. image:: /Bilder/Logos/Logo-4-StarOfLife-2.png
+    :align: center
+    :width: 50%
+
+
+.. image:: /Bilder/Logos/Logo-4-Aesculap-1-50dpi.png
+    :align: center
+
+-----
+
 .. admonition:: Versionsverwaltung (Git-Archiv)
 
     .. git_changelog::
@@ -78,3 +99,6 @@ Literatur
         :commit:
         :uncommitted:
         :untracked:
+
+
+

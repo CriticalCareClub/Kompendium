@@ -1,5 +1,5 @@
 
-.. _Topic-O2:
+.. _Thema-O2:
 
 ########################
 Sauerstoff – O\ :sub:`2`
@@ -312,11 +312,11 @@ Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.
 
    [Chrostoph Pallinger, MfG]
 
-.. _Topic-Berieselung:
+.. _Thema-Berieselung:
 
-.. _Topic-Berieselungsbrille:
+.. _Thema-Berieselungsbrille:
 
-.. _Topic-Berieselungsmaske:
+.. _Thema-Berieselungsmaske:
 
 O₂-Berieselung bei erhaltener Eigenatmung
 =================================================

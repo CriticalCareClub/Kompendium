@@ -93,8 +93,12 @@ es gibt jedoch auch mobile Leitstellen, welche bei besonderen
 Ereignissen zum Einsatz kommen können.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.jpg
+    :align: right
+    :width: 50%
 
-	    Arbeit in der LeitstelleSebastian Gabriel MfG
+    Arbeit in der Leitstelle
+    
+    [Sebastian Gabriel, MfG]
 
 
 .. index::
@@ -106,9 +110,11 @@ Aufgaben
 ^^^^^^^^
 
 Zu den typischen Aufgaben einer Rettungsdienstleitstelle gehört das 
-:dfn:`Call Taking`, also die *Annahme und Abfrage von
-Notrufmeldungen* oder sonstigen Alarmierungen, sowie deren *Erfassung*
-in einem Einsatzleitsystem durch einen *Call Taker*. Die Meldungen
+:dfn:`Call Taking`, 
+also die *Annahme und Abfrage von Notrufmeldungen* 
+oder sonstigen Alarmierungen, sowie deren *Erfassung*
+in einem Einsatzleitsystem durch einen *Call Taker*. 
+Die Meldungen
 unterlaufen eine *Einteilung und Priorisierung* nach Art und
 Dringlichkeit der Meldung. Der Leitstelle obliegt die Entscheidung,
 *welche Einsatzmittel* eingesetzt werden, oft wird dazu nach einer
@@ -192,8 +198,7 @@ abzuwickeln ist.
     single: Funkname
     single: Rufnahme
 
-Funkname
-""""""""
+.. rubric:: Funkname
 
 I.d.R. wird jede Funkstelle mit einem eigenen Funknamen
 (:dfn:`Rufnahmen`)
@@ -204,8 +209,7 @@ sind zu beachten.
 
     -  Funken: *Denken* – *drücken* – *kurz und bündig sprechen*
 
-Beispiel
-""""""""
+.. rubric:: Beispiel
 
 Funkwagen 249 trifft am Berufungsort ein:
 
@@ -221,8 +225,7 @@ Funkwagen 249 trifft am Berufungsort ein:
     Leitstelle
         *“Verstanden Zwoneunundvierzig. Ende.”*
 
-Beispiel
-""""""""
+.. rubric:: Beispiel
 
 Der RTW *ABD-Donaustadt* erhält über Sprechfunk einen Einsatz:
 
@@ -377,6 +380,15 @@ Rettungstransportwagen – RTW
 
   -  Mind. 1 NFS, 1--2 RS
 
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.jpg
+    :align: right
+    :width: 50%
+
+    RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.)
+    
+    [Sebastian Gabriel, MfG]
+
 Der :dfn:`RTW` ist für den Transport, die erweiterte
 Behandlung und die Überwachung von Patienten – insbesonders
 *Notfallpatienten* – konstruiert und ausgerüstet. Er wird in der
@@ -396,9 +408,6 @@ Rettungssanitäter* ).
    jedem Fall soll aber eine “Umrüstung” vom RTW hin zum NAW während des
    Einsatzes mit *wenigen Handgriffen* möglich sein.
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.jpg
-
-	    RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.)Sebastian GabrielMfG
 
 
 .. index::
@@ -444,6 +453,13 @@ Notarzteinsatzfahrzeug – NEF
 
   -  Ein :abbr:`NEF` transportiert keine Patienten.
 
+.. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.jpg
+    :align: right
+    :width: 50%
+	    
+    NEF der Wiener Berufsrettung (altes Modell)
+    
+    [Gabriel MfG]
 
 Ein :abbr:`NEF (Notarzteinsatzfahrzeug)` :dfn:`Notarzteinsatzfahrzeug` ist ein Zubringerfahrzeug, welches den
 Notarzt zu einem Einsatzort bringt. Es führt die für eine ärztliche
@@ -457,10 +473,7 @@ Das NEF ist mit mindestens 2 Personen besetzt, (Mindestqualifikation: 1
 Notarzt, 1 Notfallsanitäter (im Ausnahmefall auch Rettungssanitäter)).
 
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.jpg
-	    
-	    NEF der Wiener Berufsrettung (altes Modell)
-	    Gabriel MfG
+
 
    
 .. index::
@@ -495,6 +508,14 @@ Notarzthubschrauber – NAH
      -  Wenig Platz
 
   -  Mind. 1 Pilot, 1 NA, 1 NFS
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/Landeanflug-OE-XEC_IMG_1912_1.jpg
+    :align: right
+    :width: 50%
+
+    Ein Hubschrauber der Christophorus-Flugrettungsflotte im Landeanflug an das AKH Wien
+    
+    [Sebastian Gabriel, MfG]
      
 :dfn:`Notarzthubschrauber` (:dfn:`NAH`) werden in der *Notfallrettung*, für *Überstellungen*
 und z.T. bei *Bergungen* eingesetzt. *Vorteile* sind u.a. ein relativ
@@ -535,11 +556,7 @@ Die Besetzung ist uneinheitlich, zwingend erforderlich sind jedoch mind.
 
 
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/Landeanflug-OE-XEC_IMG_1912_1.jpg
 
-	    Ein Hubschrauber der Christophorus-Flugrettungsflotte im Landeanflug an das AKH Wien
-	    Sebastian Gabriel
-	    MfG
 
 .. index::
     single: First Responder

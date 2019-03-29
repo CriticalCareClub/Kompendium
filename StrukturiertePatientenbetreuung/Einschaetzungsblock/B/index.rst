@@ -1,8 +1,16 @@
+
+.. index::
+    single: Atmung; Einschätzungsblock
+    pair: Breathing; Einschätzungsblock
+    pair: B; Einschätzungsblock
+
+.. _Thema-Abcde-B:
+.. _Thema-Breathing:
+
 ************************
 ``B`` Atmung (Breathing)
 ************************
 
-.. _Topic-Breathing:
 
 Take a deep breath …
 ====================
@@ -23,47 +31,48 @@ Take a deep breath …
 
   -   (Auskultation: Seitenvergleich, Lungenbasen)
 
-Als nächstes wird die Funktion der *Atmung* beurteilt. Dazu wird die
-Frequenz und Tiefe der Atmung eingeschätzt.
-Dabei wird der Thorax
-betrachtet und die Atmung beobachtet, während der Einatmung wird auf das
-*gleichseitige* Heben des Brustkorbes geachtet.
-Während der Atmung wird
-auf **Atemgeräusche** geachtet.
+Als nächstes wird die Funktion der *Atmung* beurteilt:  
 
-Bestimmte charakteristische Zeichen können auf Atmungsprobleme
-hinweisen.
-Dazu gehören z. B. die **Hautfarbe**,
-pathologische **Bauch-** und **Thoraxbewegungen**,
-**Anstrengungen** beim Atmen
-(Einsatz der *Atemhilfsmuskulatur*, *Einziehungen* an den Rippen, *Nasenflügeln* (bei
-Kindern)),
-sowie andere Anzeichen der Atemnot.
+#.  Einschätzung von *Frequenz* und *Tiefe* der Atmung. 
 
-Bei Verdacht ist die orientierende **Auskultation** sinnvoll um damit Störungen
-des Atemweges und der Atmung besser einschätzen.
-Hier ist besonders auf
-die **seitengleiche Belüftung**,
-feuchte **Rasselgräusche** (Stauung, Lungenödem, Aspiration) oder
-**spastische Atemgräusche** zu achten.
+#.  Beurteilung des Exkursionen des Thorax,
+    achten auf *gleichseitiges* Heben des Brustkorbes 
 
-Ebenso ist bei
-Verdacht auf das Vorliegen einer mechanisch bedingten Atemstörung das
-Vorziehen des **Abtastens des Thorax** möglich.
+#.  Achten auf pathologische **Bauch-** und **Thoraxbewegungen**
+    und **Anstrengungen** beim Atmen
+    (Einsatz der *Atemhilfsmuskulatur*, 
+    *Einziehungen* an den Rippen, 
+    *Nasenflügeln* (bei Kindern), 
+    sichtliches Ringen um Luft).
+
+#.  Achten auf **Atemgeräusche** (Stridor, Brodeln)
+
+#.  **Hautfarbe** (Zyanose)
+
+#.  Orientierende **Auskultation**
+
+    Hier ist besonders auf
+    die **seitengleiche Belüftung**,
+    feuchte **Rasselgräusche** (Stauung, Lungenödem, Aspiration) oder
+    **spastische Atemgräusche** zu achten.
+
+#.  Bei Verdacht auf das Vorliegen einer mechanisch bedingten Atemstörung das Vorziehen des **Abtastens des Thorax** möglich.
 
 .. index::
-   single: Totraum
-   single: Totraumventilation
-   single: Schnappatmung
+    single: Totraum
+    single: Totraumventilation
+    single: Schnappatmung
 
-Totraumventilation
-==================
+.. _Thema-Totraumventilation:
+
+Totraumventilation und Schnappatmung
+====================================
 
 .. sidebar:: Totraumventilation
 	     
   -  Zu wenig Frischluft in Alveolen
 
-  -  Kohlendioxid kann nciht abgeatmet werden
+  -  Kohlendioxid kann nicht abgeatmet werden
 
   -  Kein ausreichender Sauerstoff-Nachschub
 
@@ -71,38 +80,70 @@ Totraumventilation
 
   -  Schnappatmung = Keine suffiziente Atmung
 
-Unter dem *Totraum* versteht man den Teil der Atemwege der nicht am
+Unter dem :dfn:`Totraum` versteht man den Teil der Atemwege der nicht am
 Gasaustausch teilnimmt.
 Er beträgt beim Erwachsenen
-ca. 150 ml. (Klinke and Silbernagl 2001)
+ca. 150 ml. :cite:`KlinkePhysio3`
 
 Bei der :dfn:`Totraumventilation`
 (*Syn.* *Totraumbelüftung*) ist das Atemzugvolumen so gering, dass die
-Frischluft im Totraum verbleibt und nicht in die Lungenbläschen gelangt.
-Somit erfolgt kein ausreichender Gasaustausch zwischen den Alveolen und
-der Umgebungsluft:
-Das Kohlendioxid kann nicht abgeatmet werden und es
-gelangt nicht genug Nachschub an Sauerstoff zum Gasaustausch in die
-Alveolen und somit in das Blut.
-Bei der :dfn:`Schnappatmung` kann genau dies passieren: Auf den ersten
-Blick sieht es so aus als würde der Patient “schnappend” atmen, in
-Wirklichkeit ist das Atemzugsvolumen so gering dass es zu einer
-Totraumventilation kommt:
-Die Atmung ist somit insuffizient.
+Ausatemluft im Totraum verbleibt 
+und bei der folgenden Einatmung erneut, 
+anstatt von Frischluft, 
+in die Lungenbläschen gelangt.
+Somit kommt es sowohl zu einem Mangel an frischem Sauerstoff in den Alveolen, 
+als auch zu einem Rückstau von Kohlendioxid, 
+welches nicht mehr abgeatmet werden kann.
+Bei der :dfn:`Schnappatmung` kann genau dies passieren: 
+Hierbai handelt es sich, 
+dem Namen entsprechend, 
+um, teils eindrucksvolle, schnappende Atembewegungen, 
+welche jedoch nur zu einer minimalen Bewegung der Luftsäule führen.
+Das Atemzugsvolumen folglich so gering dass es zu einer
+Totraumventilation kommt und die Atmung somit hochgradig insuffizient
+(d. h.: faktisch nicht vorhanden) ist.
 
-.. table:: Übersicht Normalwerte: Atmung
 
-  +------------------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+-------------------------+---------------------------------+--------+
-  |                  | **Neugeborenes**          | **Säugling**              | **Kleinkind**             | **Schulkind**             | **Jugendlicher**          | **Erw. ♂**              | **Erw. ♀**                      |        |
-  +------------------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+-------------------------+---------------------------------+--------+
-  | *AF*             | 30–50                     | 20–30                     | 20–30                     | 15–20                     | 14–20                     | 12–16                   | →                               | [/ min]|
-  +------------------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+-------------------------+---------------------------------+--------+
-  | *AZV*            | 20–30                     | 40–55–80                  | 80–180                    | 240–350                   | 500                       | 800                     | 700                             | [mL]   |
-  +------------------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+-------------------------+---------------------------------+--------+
-  | *SpO2*           | →                         | →                         | →                         | →                         | →                         | 95--100                 | →                               | [%]    |
-  +------------------+---------------------------+---------------------------+---------------------------+---------------------------+---------------------------+-------------------------+---------------------------------+--------+
+.. list-table:: Übersicht Normalwerte: Atmung (grobe Richtwerte)
+    :widths: 25 25 25 25
+    :header-rows: 1
+    :stub-columns: 1
 
-(FRCPCH and FRCPCH 2007)(Lutomsky and Flake 2003)
+    *   - 
+        -   AF [/ min]
+        -   AZV [ml]
+        -   SpO2 [%]
+    *   -   Neugeborenes
+        -   30—50
+        -   20—30
+        -   95—100
+    *   -   Säugling
+        -   20—30
+        -   40—55—80
+        -   95—100
+    *   -   Kleinkind
+        -   20—30
+        -   80—180
+        -   95—100
+    *   -   Schulkind
+        -   15—20
+        -   240—350
+        -   95—100
+    *   -   Jugendlicher
+        -   14—20
+        -   500
+        -   95—100
+    *   -   Erw. ♂
+        -   12—16
+        -   800
+        -   95—100
+    *   -   Erw. ♀
+        -   12—16
+        -   700
+        -   95—100
+
+
+
 
 .. _Table-AtmungSymptome-Pam:
 
@@ -195,7 +236,7 @@ Die Atmung ist somit insuffizient.
 
 
 	    
-.. _Topic-Lippenbremse-Basic:
+.. _Thema-Lippenbremse-Basic:
 
 Typische Maßnahmen
 ==================
@@ -209,7 +250,7 @@ Typische Maßnahmen
 -  :dfn:`Lippenbremse`:  Die
    Lippenbremse ist eine besondere Atemtechnik bei Erkrankungen der
    unteren Atemwege und funktioniert ähnlich wie der PEEP
-   (:ref:`Topic-Peep`).
+   (:ref:`Thema-Peep`).
    Dabei atmet der Patient langsam und gleichmäßig durch
    die beinahe geschlossenen Lippen, also gegen einen Widerstand, aus.
    Dadurch kommt es zu einer Verlängerung der Ausatmung und einem

@@ -1,6 +1,6 @@
 
-.. _Topic-PamStrategie:
-.. _Topic-Strategieentscheidung:
+.. _Thema-PamStrategie:
+.. _Thema-Strategieentscheidung:
 
 ###############################################################
 Strategieentscheidung 
@@ -28,7 +28,7 @@ d. h. der weitere Ablauf ist situations- und patientenabhängig.
 
 -  *Was ist wichtig, was kann warten?*
 
-.. _Topic-Transportprioritaet:
+.. _Thema-Transportprioritaet:
 
 ******************
 Transportpriorität
@@ -87,7 +87,7 @@ Zu bedenken ist hierbei:
    Daher wird diese Strategie eher in ländlichen,
    und kaum in städtischen Gebieten angewendet.
 
-Wie unter :ref:`Topic-SonderfallAbsolutZeitkritischePatienten`,
+Wie unter :ref:`Thema-SonderfallAbsolutZeitkritischePatienten`,
 bereits ausgeführt,
 kann als Sofortmaßnahme bei *absolut zeitkritischen Patienten*,
 bei denen bereits die ABC-Einschätzung ergibt dass ein
@@ -108,9 +108,9 @@ Diese ist abhängig vom
 
 #. Ergebnis des *Einschätzungsblockes*, der
 
-#. *Transportpriorität* (:ref:`Topic-Transportprioritaet`), und dem
+#. *Transportpriorität* (:ref:`Thema-Transportprioritaet`), und dem
 
-#. Ergebnis der *Strategieentscheidung* (:ref:`Topic-Strategieentscheidung`).
+#. Ergebnis der *Strategieentscheidung* (:ref:`Thema-Strategieentscheidung`).
 
 Ist ein rascher Transport notwendig, so werden rasch die entsprechenden
 Vorbereitungen getroffen und dieser der Situation entsprechend

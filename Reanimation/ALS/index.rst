@@ -234,7 +234,7 @@ Elektrotherapie
 
   -  Defibrillation
 
-  -  Siehe BLS: :ref:`Topic-DefibrillationBls`
+  -  Siehe BLS: :ref:`Thema-DefibrillationBls`
 
 Die Elektrotherapie hat das Ziel, bei Vorliegen einer
 Herzrhythmusstörung einen normalen Sinusrhythmus mittels elektrischer
@@ -246,7 +246,7 @@ Im Rahmen
 der Reanimation werden die Begriffe Kardioversion und Defibrillation
 jedoch umgangssprachlich oft synonym verwendet.\ [322]_
 Grundsätzlich gelten auch bezüglich der Defibrillation das unter BLS Geschriebene
-(:ref:`Topic-DefibrillationBls`).
+(:ref:`Thema-DefibrillationBls`).
 Oft ist eine Störung des
 Reizleitungssystems des Herzens bzw. des elektrischen Herzrhythmus die
 Ursache des Kreislaufstillstands. Die Elektrotherapie im Sinne der
@@ -574,7 +574,7 @@ Endotracheale Intubation
 
     - Auskultation Magen, Lunge
 
-    - Kapnographie (CO2)
+    - Kapnographie (CO₂)
 
 
 :term:`ETI`
@@ -628,8 +628,8 @@ Tubuslage zu kontrollieren, die CPR-Qualität abzuschätzen und eine
 frühzeitige Erkennung der Rückkehr des spontanen Kreislaufs zu
 ermöglichen. Die Kapnographie ist die verlässlichste Methode zur
 Lagekontrolle :cite:`Grmec2002`. Besonders geeignet sind dazu Geräte, welche
-die |CO2|\ -Abatmung als Kurve darstellen.
-Wenn nach 6 Beatmungen |CO2|
+die CO₂\ -Abatmung als Kurve darstellen.
+Wenn nach 6 Beatmungen CO₂
 nachweisbar ist, kann man davon ausgehen, dass der Tubus in den unteren
 Atemwege zu liegen gekommen ist.
 Die Kapnographie kann jedoch *keine*
@@ -701,7 +701,7 @@ Dazu gehören der Larynxtubus und die Larynxmaske.
    einige gewichtige Nachteile und ist in vielen Situationen *nicht die
    Methode der Wahl*.
 
-Der Larynxtubus ist unter :ref:`Topic-Larynxtubus` beschrieben.
+Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
 
 .. subfigstart::
 

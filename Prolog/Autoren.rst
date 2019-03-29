@@ -13,48 +13,62 @@ wurden.
 Herausgeber und Redakteure
 **************************
 
-:Josef Emhofer:
+.. raw:: latex
 
-  Mag., MSc
+    \begin{ParWide}
+    \begin{multicols}{3}
 
-:Sebastian Gabriel:
+Josef Emhofer
 
-  Dr.med.univ.
+    Mag., MSc
 
-  Universitätsklinikum Krems, Karl Landsteiner Privatuniversität für
-  Gesundheitswissenschaften, Klinische Abt. für Anästhesie und
-  Intensivmedizin, Krems an der Donau
+Sebastian Gabriel
 
-:Lena Hirtler:
+    Dr.med.univ.
 
-  Mag. Dr.med.univ.
+    Universitätsklinikum Krems, Karl Landsteiner Privatuniversität für
+    Gesundheitswissenschaften, Klinische Abt. für Anästhesie und
+    Intensivmedizin, Krems an der Donau
 
-  Medizinische Universität Wien, Zentrum für Anatomie und Zellbiologie,
-  Abt. für systematische Anatomie, Wien
+Lena Hirtler
+
+    Mag. Dr.med.univ.
+
+    Medizinische Universität Wien, Zentrum für Anatomie und Zellbiologie,
+    Abt. für systematische Anatomie, Wien
 
 
+Christof Koller
 
-:Christof Koller:
+    Mag.iur.
 
-  Mag.iur.
+Michael Motal
 
-:Michael Motal:
+    Dr.med.univ., BA
 
-  Dr.med.univ., BA
+    Universitätsklinik für Anästhesie, Allgemeine Intensivmedizin und
+    Schmerztherapie, Medizinische Universität Wien
 
-  Universitätsklinik für Anästhesie, Allgemeine Intensivmedizin und
-  Schmerztherapie, Medizinische Universität Wien
+Johannes Steuer
 
-:Johannes Steuer:
+    Dr.med.univ., M.Sc.
 
-  Dr.med.univ., M.Sc.
+    Sozialmedizinisches Zentrum Floridsdorf Krankenhaus der Stadt Wien,
+    Abteilung für Anästhesie und Intensivmedizin, Wien
 
-  Sozialmedizinisches Zentrum Floridsdorf Krankenhaus der Stadt Wien,
-  Abteilung für Anästhesie und Intensivmedizin, Wien
+.. raw:: latex
+
+    \end{multicols}
+    \end{ParWide}
 
 ********************
 Autoren und Reviewer
 ********************
+
+.. raw:: latex
+
+    \begin{ParWide}
+    \begin{multicols}{3}
 
 Michael Auer
 
@@ -77,10 +91,19 @@ Gerhard Gabriel
   | Dr.med.univ.
   | Facharzt für Innere Medizin, Langenzersdorf
 
+.. raw:: latex
+
+    \end{multicols}
+    \end{ParWide}
 
 ****************************************
 Technische und künstlerische Mitarbeiter
 ****************************************
+
+.. raw:: latex
+
+    \begin{ParWide}
+    \begin{multicols}{3}
 
 -  Mirko Fina, Mag.
 
@@ -88,10 +111,19 @@ Technische und künstlerische Mitarbeiter
 
 -  Ulrich Zehl, MSc.
 
+.. raw:: latex
+
+    \end{multicols}
+    \end{ParWide}
 
 ***********
 Mitwirkende
 ***********
+
+.. raw:: latex
+
+    \begin{ParWide}
+    \begin{multicols}{3}
 
 -  Christine Gabriel, Dr.med.univ.
 
@@ -99,6 +131,11 @@ Mitwirkende
 
 Weiters danken wir allen Einsendern, welche uns Fehler gemeldet und uns
 mit ihrer konstruktiven Kritik unterstützt haben.
+
+.. raw:: latex
+
+    \end{multicols}
+    \end{ParWide}
 
 **************
 Special Thanks
@@ -132,6 +169,11 @@ Wissenschaft, Kultur und Gesellschaft.
 Quellennachweise
 ****************
 
+.. raw:: latex
+
+    \begin{ParWide}
+    \begin{multicols}{3}
+
 .. glossary:: 
 
     GaSe
@@ -145,3 +187,8 @@ Quellennachweise
 
     UE2011FORTUNA-00651
       Sebastian Gabriel, Lizenz: :term:`MfG`
+
+.. raw:: latex
+
+    \end{multicols}
+    \end{ParWide}

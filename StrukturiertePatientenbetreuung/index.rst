@@ -1,5 +1,5 @@
 
-.. _Topic-Patientenmanagement:
+.. _Thema-Patientenmanagement:
 
 ################################
 Strukturierte Patientenbetreuung

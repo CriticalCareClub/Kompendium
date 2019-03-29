@@ -1,4 +1,4 @@
-\begin{savenotes}\sffamily\scriptsize\begin{ParWide}\sphinxattablestart
+\begin{savenotes}\sffamily\small\begin{ParWide}\sphinxattablestart
 <% if table.align -%>
   <%- if table.align == 'center' -%>
   \centering
@@ -12,14 +12,16 @@
 <%- endif %>
 <% if table.caption -%>
 \sphinxcapstartof{table}
+\sphinxthecaptionisattop
 \sphinxcaption{<%= ''.join(table.caption) %>}<%= labels %>
-\sphinxaftercaption
+\sphinxaftertopcaption
+<% elif labels -%>
+\phantomsection<%= labels %>\nobreak
 <% endif -%>
 \renewcommand{\hline}{\addlinespace}
 \begin{tabulary}{\linewidth}[t]<%= table.get_colspec() -%>
 \toprule\addlinespace
 <%= ''.join(table.header) %>
-\midrule\addlinespace
 <%=- ''.join(table.body) %>
 \bottomrule
 \end{tabulary}

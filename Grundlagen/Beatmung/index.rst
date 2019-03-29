@@ -1,7 +1,7 @@
 
-.. _Topic-BeatmungAssistiert:
+.. _Thema-BeatmungAssistiert:
 
-.. _Topic-BeatmungKontrolliert:
+.. _Thema-BeatmungKontrolliert:
 
 ########
 Beatmung
@@ -76,7 +76,7 @@ Manuelle Beatmung
 
 Eine Beatmung wird normalerweise mit Hilfsmitteln durchgeführt.
 Helferseitig kommen dabei ein *Beatmungsbeutel*
-(:ref:`Topic-Beatmungsbeutel`) oder ein *Beatmungsgerät* zum Einsatz.
+(:ref:`Thema-Beatmungsbeutel`) oder ein *Beatmungsgerät* zum Einsatz.
 Patientenseitig werden *Beatmungsmasken* oder *Beatmungsschläuche*
 (Endotrachealtuben, Larynxtuben, Larynxmasken, Combituben, …)
 angewendet. Um die Atemwege freizuhalten, kann u. U. unterstützend ein
@@ -101,18 +101,18 @@ angewendet. Um die Atemwege freizuhalten, kann u. U. unterstützend ein
 Mögliche Sauerstoffkonzentrationen bei der Beatmung
 
 +-------------------------------------------------------------------------+------------------------+
-| **Art der Beatmung**                                                    | **O2-Konzentration**   |
+| **Art der Beatmung**                                                    | **O₂-Konzentration**   |
 +-------------------------------------------------------------------------+------------------------+
 | Mund-zu-Mund Beatmung                                                   | 16–17%                 |
 +-------------------------------------------------------------------------+------------------------+
 | Beutel-Masken-Beatmung                                                  | 21%                    |
 +-------------------------------------------------------------------------+------------------------+
-| Beutel-Masken-Beatmung mit angeschlossenem O2 (15L/min)                 | 40–70%                 |
+| Beutel-Masken-Beatmung mit angeschlossenem O₂ (15L/min)                 | 40–70%                 |
 +-------------------------------------------------------------------------+------------------------+
-| Beutel-Masken-Beatmung mit angeschlossenem O2 (15L/min) und Reservoir   | fast 100%              |
+| Beutel-Masken-Beatmung mit angeschlossenem O₂ (15L/min) und Reservoir   | fast 100%              |
 +-------------------------------------------------------------------------+------------------------+
 
-.. _Topic-Beatmungsbeutel:
+.. _Thema-Beatmungsbeutel:
 
 Beatmungsbeutel
 ===============
@@ -147,7 +147,7 @@ einem *Balg* und einem *T-Stück* mit einem Ventil. An der Luftzufuhr
 kann eine *Sauerstoffleitung* und ein *Sauerstoffreservoir*
 angeschlossen werden, um den Sauerstoffgehalt des Einatemgases zu
 erhöhen. Am einfachsten erfolgt dies über einen Verbindungsschlauch und
-eine O2-Berieselungseinheit, welche mit einem Flow von 15L/min
+eine O₂-Berieselungseinheit, welche mit einem Flow von 15L/min
 eingestellt ist. Mit Hilfe eines Reservoirs, welches Sauerstoff während
 der Beatmungspausen zwischenspeichert, kann die O₂-Konzentration des
 Einatemgases weiter gesteigert werden.  [136]_
@@ -394,7 +394,7 @@ Die NIV wird meist mittels Gesichtsmaske oder ähnlichen
 Hilfsmitteln durchgeführt.
 Verwendet werden dabei meist die Spontanatmungsformen CPAP bzw. PSV.
 
-.. _Topic-Beatmungsgeraete:
+.. _Thema-Beatmungsgeraete:
 
 Beatmungsgeräte
 ===========================
@@ -501,11 +501,11 @@ SeriesRowWide 2\
             [Christopf Pallinger, MfG]
 
 
-.. _Topic-PeepVentil:
+.. _Thema-PeepVentil:
 
-.. _Topic-PeepBasic:
+.. _Thema-PeepBasic:
 
-.. _Topic-Peep:
+.. _Thema-Peep:
 
 
 *********************************************************************

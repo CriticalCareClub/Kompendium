@@ -14,24 +14,99 @@ Struktur
 Body Elements
 =============
 
-Tabelle mit Raster:
+
+"Listen-"Tabellen" (``.. list-table::``)
+------------------------------------------------------------------------
+
+Listen-Tabellen sind die einfachste Art um Tabellen zu erzeugen:
+
+Die Direktive lautet ``.. list-table:: <Tabellentitel>``, 
+``:widths:`` gibt die jeweiligen Spaltenbreiten (in Prozent) an,
+``:header-rows:`` definiert wieviele Zeilen als Überschrift gerechnet werden,
+``:stub-columns`` analog dazu, wie viele Spalten als Zeilentitel gerechnet werden.
+
+::
+
+    .. list-table:: Tabellenüberschrift
+        :widths: 25 25 25 25
+        :header-rows: 1
+        :stub-columns: 1
+
+        *   -   Erste Spalte, erste Zeile
+            -   Zweite Spalte, erste Zeile 
+            -   noch immer die erste Zeile 
+            -   und die letzte (4.)Spalte der 1. Zeile
+        *   -   jetzt geht es in die 2. Zeile
+            -   usw. (2/2)
+            -   usw. (3/2)
+            -   usw. (4/2)
+        *   -   (1/3)
+            -   (2/3)
+            -   (3/3)
+            -   (4/3)
+
+.. list-table:: Tabellenüberschrift
+    :widths: 25 25 25 25
+    :header-rows: 1
+    :stub-columns: 1
+
+    *   -   Erste Spalte, erste Zeile
+        -   Zweite Spalte, erste Zeile 
+        -   noch immer die erste Zeile 
+        -   und die letzte (4.)Spalte der 1. Zeile
+    *   -   jetzt geht es in die 2. Zeile
+        -   usw. (2/2)
+        -   usw. (3/2)
+        -   usw. (4/2)
+    *   -   (1/3)
+        -   (2/3)
+        -   (3/3)
+        -   (4/3)
+
+Tabelle mit Raster
 -------------------
+
+Raster-Tabellen sehen im Quelltext am schönsten aus, 
+sind aber schwieriger zu erstellen bzw. auszubessern.
+Allerdings ist hierbei das Zusammenführen von Zellen möglich.
 
 .. code-block:: none
    
-  +--------------------------------+-----------------------------------+
-  | Paragraphs are flush-left,     | Literal block, preceded by "::":: |
-  | separated by blank lines.      |                                   |
-  |                                |     Indented                      |
-  |     Block quotes are indented. |                                   |
-  +--------------------------------+ or::                              |
-  | >>> print 'Doctest block'      |                                   |
-  | Doctest block                  | > Quoted                          |
-  +--------------------------------+-----------------------------------+
-  | | Line blocks preserve line breaks & indents. [new in 0.3.6]       |
-  | |     Useful for addresses, verse, and adornment-free lists; long  |
-  |       lines can be wrapped with continuation lines.                |
-  +--------------------------------------------------------------------+
+    +--------------------------------+-----------------------------------+
+    | Ich bin eine Zelle             | Ich bin eine zusammengeführte     |
+    |                                | Zelle (vertikal).                 |
+    | Ich bin ein zweiter Absatz,    |                                   |
+    | getrennt durch eine Leerzeile. | Auch hier kann es einen zweiten,  |
+    +--------------------------------+ durch eine Leerzeile getrennten   |
+    | Ich bin eine andere Zelle.     | Absatz geben.                     |
+    |                                |                                   |
+    |                                | Es kann auch:                     |
+    |                                |                                   |
+    |                                | -    Aufzählungen                 |
+    |                                | -    andere **Formatierungen**    |
+    |                                |                                   |
+    |                                | geben.                            |
+    +--------------------------------+-----------------------------------+
+    | Ich bin eine horizontal zusammengeführte Zelle.                    |
+    +--------------------------------------------------------------------+
+
++--------------------------------+-----------------------------------+
+| Ich bin eine Zelle             | Ich bin eine zusammengeführte     |
+|                                | Zelle (vertikal).                 |
+| Ich bin ein zweiter Absatz,    |                                   |
+| getrennt durch eine Leerzeile. | Auch hier kann es einen zweiten,  |
++--------------------------------+ durch eine Leerzeile getrennten   |
+| Ich bin eine andere Zelle.     | Absatz geben.                     |
+|                                |                                   |
+|                                | Es kann auch:                     |
+|                                |                                   |
+|                                | -    Aufzählungen                 |
+|                                | -    andere **Formatierungen**    |
+|                                |                                   |
+|                                | geben.                            |
++--------------------------------+-----------------------------------+
+| Ich bin eine horizontal zusammengeführte Zelle.                    |
++--------------------------------------------------------------------+
 
 Einfache Tabellen:
 ------------------
@@ -45,6 +120,7 @@ Einfache Tabellen:
   Inhalt 12         Inhalt 22
   Inhalt 13         Inhalt 23
   ==============    ==============
+
 
 
 Listen

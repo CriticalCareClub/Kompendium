@@ -1,15 +1,24 @@
+
+
+.. index::
+    pair: Airway; Einschätzungsblock
+    single: Atemweg; Einschätzungsblock
+    single: A; Einschätzungsblock
+
+.. _Thema-Abcde-A:
+
 **********************
 ``A`` Atemweg (Airway)
 **********************
 
-.. _Topic-Airway: 
+.. _Thema-Airway: 
 
 Vom Gurgeln und Schnarchen
 ==========================
 
 .. sidebar:: Atemweg
 
-  -  Inspektion & ggfs. Abtasten von *Mundhöhle*, *Nase* und *Hals*
+    -   Inspektion & ggfs. Abtasten von *Mundhöhle*, *Nase* und *Hals*
 
 Unter Punkt **A** wird eingeschätzt,
 ob der Atemweg frei,
@@ -22,16 +31,15 @@ Weiters werden die *Atemgeräusche*
 (ohne Hilfsmittel) beurteilt.
 
 .. index::
-   single: Atemweg, gefährdeter
+    single: Atemweg, gefährdeter
 
 Befunde
 =======
 
 .. sidebar:: Atemweg -- Befunde
 
-  -  Frei, verlegt, gefährdet
-
-  -  Atemgeräusche: Pfeifen, Gurgeln, Schnarchen; Gestik
+   -   Frei, verlegt, gefährdet
+   -   Atemgeräusche: Pfeifen, Gurgeln, Schnarchen; Gestik
 
 Speziell *pfeifende*, *gurgelnde* oder *schnarchende* Atemgeräusche
 können ein Hinweis auf eine Verlegung sein.
@@ -47,22 +55,13 @@ Der Atemweg kann *frei*, *verlegt* oder *gefährdet* sein.
 Typische Maßnahmen
 ==================
 
--  Überstrecken des Kopfes
+-   Überstrecken des Kopfes
+-   Esmarch-Handgriff
+-   Stabile Seitenlage nach **B**
+-   Absaugung
+-   Spezielle Maßnahmen bei Atemwegsverlegung
+-   Standardmaßnahmen bei vital bedrohten Patienten
 
--  Esmarch-Handgriff
-
--  Stabile Seitenlage nach **B**
-
--  Absaugung
-
--  Spezielle Maßnahmen bei Atemwegsverlegung
-
--  Standardmaßnahmen bei vital bedrohten Patienten
-
-   -  Absaugbereitschaft!
+    -   Absaugbereitschaft!
 
 
-.. index::
-    single: Atmung; Einschätzungsblock
-    single: Breathing
-    single: B; Einschätzungsblock

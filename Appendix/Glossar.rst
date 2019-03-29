@@ -3,6 +3,11 @@
 Glossar
 #######
 
+.. raw:: latex
+
+    \begin{ParWide}
+    \begin{multicols}{3}
+
 .. glossary::
 
     Arteriosklerose
@@ -244,6 +249,10 @@ Glossar
         verzögernd, bis die Patientin in eine geeignete Einrichtung verlegt
         werden kann.
 
+.. raw:: latex
+
+    \end{multicols}
+    \end{ParWide}
 
 .. _Thema-Insult:
 

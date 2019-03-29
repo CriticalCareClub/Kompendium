@@ -85,9 +85,9 @@ Glossar
         
         #.  Lagekontrolle von Atemwegshilfsmitteln, 
             insbes. *Endotrachealtubus*
-            (:ref:`Topic-EndotrachealeIntubation`) 
+            (:ref:`Thema-EndotrachealeIntubation`) 
             und *Larynxtubus* 
-            (:ref:`Topic-Larynxtubus`)
+            (:ref:`Thema-Larynxtubus`)
         #.  Einschätzung der alveolären CO₂-Konzentration 
             somit als Surrogatwert zur Einschätzung der Blut-CO₂-Konzentration (paCO₂), 
             sofern keine Diffusionsstörung vorliegt.
@@ -158,7 +158,7 @@ Glossar
         .. rubric:: Kapnometrie unter Reanimation
 
         Die Kapnometrie bzw. Kapnographie hat in der Reanimationssituation einen
-        wichtigen Stellenwert. Durch die Messung des etCO2 kann eine
+        wichtigen Stellenwert. Durch die Messung des etCO₂ kann eine
         zuverlässige Aussage über die Perfusion im kleinen Kreislauf und damit
         auch über die Qualität der Herzdruckmassage getroffen werden.
         Ziel ist es,
@@ -262,6 +262,18 @@ Glossar
 .. _Thema-Mesenterialinfarkt:
 
 .. _Thema-Sepsis:
+
+.. _Thema-blutdruckmessung:
+
+.. _thema-harnverhalten:
+
+.. _thema-wirbelsaeulentrauma:
+
+.. _thema-lumbago:
+
+.. _thema-hyperventilationstetanie:
+
+
 
 *****************
 Verweis ins Leere

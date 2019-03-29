@@ -66,35 +66,38 @@ Glossar
 
     Kapnographie
     Kapnometrie
-        Messung bzw. graphische Darstellung von *Kohlendioxid* (CO₂)
-        in der Atemluft als Partialdruck (mm Hg).
-        Die Kapnographie dient einerseits als Surrogatwert zur
-        Einschätzung des alveolären und Blut-CO₂-Konzentration,
-        sowie andererseits zur Lagekontrolle von Hilfsmitteln zur
-        Atemwegssicherung (z. B. *Larynxtubus*
-        (:ref:`Topic-Larynxtubus`), *Endotrachealtubus*
-        (:ref:`Topic-EndotrachealeIntubation`)).
+        Die Kapnometrie ist die Messung des *Kohlendioxid* (CO₂), 
+        welche in der Regel im Exspirationsschnekel durchgeführt wird.
+        Als nummerischer Wert bei der quantitaviven Messung wird die 
+        maximale Konzentration am Ende der Exspiration (= endtidal) 
+        angegeben 
+        (*"endtidaler Kohlendioxid-Partialdruck"* **etCO₂**, 
+        Angabe als Partialdruck in mm Hg oder kP, 
+        alternativ als Konzentration in Vol.%).
 
-        Am aussagekräftigsten ist der Messwert am Ende der Ausatmung da hier die
-        höchste CO₂-Konzentration gemessen wird.
-        Daher leitet sich auch die Abkürzung :dfn:`etCO₂` ab:
-        Sie steht für "endtidaler Kohlendioxid-Üartialdruck" (CO₂ am
-        Ende des Atemzyklus).
+        Die Kapno\ *graphie* ist die graphische Darstellung einer CO₂-Konzetrationskurve
+        über die Zeit 
+        und ermöglicht somit die Beurteilung des Verlaufs im Atemzyklus.
+        Dies erlaubt Rückschlüsse auf bestimmte Störungen 
+        (Spastik, Mitatmen des Patienten etc.)
 
-        In Ermangelung der Möglichkeit zur Blutgasanalyse
-        (bzw. zwischen BGA-Messungen) dient die etCO₂ oft der Anppassung der
-        *Beatmungsparameter*, jedoch sind hier die Limitationen des
-        Verfahrens (z. B. bei Lungendiffusionsstörungen) zu beachten.
-        Ebenso kann die etCO₂ in gewissen Grenzen auch orientierent
-        für die Beurteilung der Kreislauffunktion (bei konstanter
-        Beatmung) beigezogen werden.
+        Die CO₂-Messung hat im wesentlichen folgende Funktionen:
+        
+        #.  Lagekontrolle von Atemwegshilfsmitteln, 
+            insbes. *Endotrachealtubus*
+            (:ref:`Topic-EndotrachealeIntubation`) 
+            und *Larynxtubus* 
+            (:ref:`Topic-Larynxtubus`)
+        #.  Einschätzung der alveolären CO₂-Konzentration 
+            somit als Surrogatwert zur Einschätzung der Blut-CO₂-Konzentration (paCO₂), 
+            sofern keine Diffusionsstörung vorliegt.
+            Dies erlaubt eine an den Patienten angepasste Beatmung
+            auch ohne Blutgasanalyse.
+        #.  Der Verlauf des etCO₂ erlaubt auch gewisse Rückschlüsse 
+            auf die Kreislauffunktion, sofern andere Störgrößen 
+            (Ventilation, Diffusionsstörungen) ausgeschlossen sind.
 
-        Für die CO₂-Messung gibt es unterschiedliche Methoden.
-        Bei der :dfn:`Kapnometrie` werden die etCO₂-Werte als Partialdruck in
-        mm Hg und/oder als Konzentration in Vol.% angegeben.
-        Bei der :dfn:`Kapnographie` wird zusätzlich zu den Werten der
-        Kapnometrie auch noch die CO₂-Konzentration im zeitlichen
-        Verlauf als Kurve graphisch dargestellt.
+
 
 
         .. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00943pt-4.*

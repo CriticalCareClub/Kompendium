@@ -5,19 +5,18 @@ Offenlegung, Impressum, Nutzungsbedingungen und Hinweise
 
 Dieses Werk ist in Entwicklung und gegenwärtig nicht zur Veröffentlichung bestimmt!
 
-| Text21 -- Gemeinnütziger Verlagsverein
+| Critical Care Club Austria
 | Engerthstraße 146/8/3
 | A-1200 Wien – AUSTRIA
 
 E-Mail:
-    office@text21.at
+    office@criticalcareclub.at
 
 Homepage:
-    http://www.text21.at
+    http://www.criticalcareclub.at
 
 ZVR:
-    ???
-
+    846678982
 
 
 Verlags- und Herstellungsort:

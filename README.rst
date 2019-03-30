@@ -277,14 +277,9 @@ Literaturverzeichnis
 
 
 
-########
-Lizenzen
-########
-
 .. index::
     single: Lizenz
 
-.. _Thema-Lizenz:
 
 *****************
 Lizenz des Werkes
@@ -337,7 +332,6 @@ http://creativecommons.org/licenses/by-nd/3.0/at/ einzubinden.
     single: Lizenz
     pair: Lizenzen; Creative Commons Namensnennung – Keine Bearbeitungen 3.0 Österreich
    
-.. _Topic_Lizenz:
 
 Creative Commons Namensnennung – Keine Bearbeitungen 3.0 Österreich
 ===================================================================
@@ -641,20 +635,19 @@ an die Lizenzbedingungen akzeptieren.*
     single: Lizenz-Addendum
     pair: Lizenzen; Lizenz-Addendum
 
-.. _Topic_LizenzAddendum:
     
 Erweiterung der Nutzungsrechte (Lizenz-Addendum)
 ================================================
 
-Zusätzlich zu den unter :ref:`Thema-Lizenz` angeführten Bedingungen sind
+Zusätzlich zu den unter "Lizenz des Werkes" angeführten Bedingungen sind
 folgende Nutzungen gestattet:
 
 #.  Sie dürfen ein einzelnes vollständiges und unverändertes Kapitel
-    gemäß den Bedingungen von :ref:`Thema-Lizenz` nutzen.
+    gemäß den Bedingungen von "Lizenz des Werkes" nutzen.
 
 #.  Sie dürfen Auszüge in Form von mehreren vollständigen und
     unveränderten Kapiteln in beliebiger Reihenfolge erstellen und gemäß
-    den Bedingungen von :ref:`Thema-Lizenz` nutzen, sofern die Credits-Seiten
+    den Bedingungen von "Lizenz des Werkes" nutzen, sofern die Credits-Seiten
     sowie die Lizenz-Seiten Teil dieses Auszuges sind. Sie können eine
     eigene Titelseite erstellen, auf welcher der Name der Werkes, die
     Herausgeber, die Version, die Kompilation ersichtlich sind,
@@ -662,10 +655,10 @@ folgende Nutzungen gestattet:
     welcher anzeigt, dass es sich um einen Auszug aus den AASS handelt.
 
 #.  Sie dürfen einzelne Bilder und Grafiken gemäß den Bedingungen von
-    :ref:`Thema-Lizenz` nutzen, sofern diese unter der Lizenz der AASS stehen.
+    "Lizenz des Werkes" nutzen, sofern diese unter der Lizenz der AASS stehen.
 
 #.  Sie dürfen folgende Seiten eigenständig gemäß den Bedingungen von
-    :ref:`Thema-Lizenz` nutzen:
+    "Lizenz des Werkes" nutzen:
 
     #.  Doppelseite "Standardisierte Patientenversorung"
 

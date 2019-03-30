@@ -28,7 +28,7 @@ Rechnung tragen.
 Waren die AASS bisher eher Rettungspersonal 
 mit eher minimalem medizinischem Basiswissen ausgerichtet
 (in Österreich klassischerweise Rettungssanitäter), 
-so wendet sich der neue **Plan P** (so der vorläufige Projektitel)
+so wendet sich der neue :dfn:`Plan P` (so der vorläufige Projektitel)
 an fortgeschrittenes medizinisches Fachpersonal, 
 konkret von Notfallsanitätern und -innen, 
 welche bereits am Anfang der Versorgungskette wesentliche 
@@ -67,14 +67,15 @@ mit unserer Arbeit zu unterstützen.
 
 *Die Herausgeber*
 
-.. rubric:: Frequently asked questions (FAQs)
+**************************************
+Frequently asked questions (FAQs)
+**************************************
 
 An wen wendet sich dieses Buch?
     Dieses Werk richtet sich an ärztliches und nicht-ärztliches medizinisches Fachpersonal, 
     welches mit der Betreuung von kritischen Patienten betraut ist.
 
 Für wen ist dieses Werk *nicht* gedacht?
-
     Diese Werk wird diese nicht erfreuen, 
     welche gerne einfache Antworten auf komplizierte Fragen haben möchten.
     Unser Ziel ist selbstständiges, regel\ *geleitetes* Arbeiten, 
@@ -86,7 +87,19 @@ Für wen ist dieses Werk *nicht* gedacht?
 *salus aegroti suprema lex*\  [4]_.
 
 
+::
 
+     _________________________________________
+    ( Your objective is to save the world,    )
+    ( while still leading a pleasant life.    )
+     -----------------------------------------
+      o
+       o   \_\_    _/_/
+        o      \__/
+               (oo)\_______
+               (__)\       )\/\
+                   ||----w |
+                   ||     ||
 
 
 .. [4]

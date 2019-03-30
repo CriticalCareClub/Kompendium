@@ -483,7 +483,7 @@ CO₂) vermehrt vorliegt. [226]_
 
 .. math::
 
-   \mbox{\ce{$\text{{\color{gray} \tiny Bikarbonat + }}$ $\text{Säure}$
+   \mbox{{$\text{{\color{gray} \tiny Bikarbonat + }}$ $\text{Säure}$
            <->[\text{Gleichgewicht}] CO₂ $\text{{\color{gray} \tiny +
            Wasser}}$}}
 

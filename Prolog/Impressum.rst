@@ -34,6 +34,90 @@ Status:
 
 Versionsgeschichte 
 
+    0.2.0
+        2009-07 (Vorabversion)
+
+    0.4.0
+        2009-09 (Vorabversion)
+
+    0.6.0
+        2009-10 (Vorabversion)
+
+    0.8.0
+        2010-01 (Vorabversion)
+
+    0.10.0
+        2010-06 (Vorabversion)
+
+    0.12.0
+        2010-08 (Vorabversion)
+
+    0.14.0
+        2011-01 (Vorabversion)
+
+    0.16.0
+        2011-03 (Vorabversion)
+
+    0.18.0
+        2011-08 (Vorabversion)
+
+    0.20
+        2011-10 (Vorabversion)
+
+    0.22
+        2012-01 (Vorabversion)
+
+    0.24
+        2012-08 (Vorabversion)
+
+    0.26
+        2012-10 (Vorabversion)
+
+    1.0
+        2013-01 (Release)
+
+    2.0.0
+        2014-03 (Release)
+
+    2.0.1
+        2014-08 (Release)
+
+    3.0.0.gamma.1
+        2014-09 (Vorabversion)
+
+    3.0.0.gamma.2
+        2015-12 (Vorabversion)
+
+    3.0.0.gamma.3
+        2016-03 (Vorabversion)
+
+    3.0.0
+        2016-09 (Release, letztes Release als *AASS*)
+
+    4.0.0.gamma.1
+        2019-11 (geplant, Vorabversion *Plan P des CCCA*)
+
+    4.0.0.gamma.2
+        2020-01 (geplant, Vorabversion *Plan P des CCCA*)
+
+    4.0.0
+        2020-03 (geplant, Release als *Plan P des CCCA*)
+
+Auszüge:
+     
+
+    Megacode
+        bestehend aus den Kapiteln ASB, ASS, BLS, TOD, IALS
+
+Derivate:
+     
+
+    Ernährungspädagogik
+        0.2 (2011-11, basierend auf AASS 0.20)
+
+    Ernährungspädagogik
+        0.4 (2012-11, basierend auf AASS 0.26)
+
 Siehe Abschnitt “Lizenzen”.
 
 Wie jede Wissenschaft ist die Medizin ständigen Entwicklungen

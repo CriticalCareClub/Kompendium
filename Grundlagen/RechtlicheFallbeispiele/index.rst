@@ -89,10 +89,11 @@ einem ganz normalen Sanitätsdienst und seinen typischen Problemen.
 Gefahrenbekämpfung
 ******************
 
+.. _Thema-jus-langer-dienst-fall-1:
+
 Fall 1. Randalierender Patient
 ==============================
 
-.. _Thema-jus-langer-dienst-fall-1:
 
 Sachverhalt
 -----------
@@ -112,8 +113,8 @@ Variante “unmittelbare Bedrohung”
 Rechtsfrage
 -----------
 
-Darf man sich gegen Hrn. Hauzu wehren? Muss Herr Hauzu eingewiesen
-werden?
+-   Darf man sich gegen Hrn. Hauzu wehren? 
+-   Muss Herr Hauzu eingewiesen werden?
 
 Rechtslage
 ----------
@@ -121,35 +122,35 @@ Rechtslage
 Für die erste Frage sind die Selbsthilferechte maßgebend, vgl.
 :ref:`Thema-selbsthilferechte`:
 
--  Notwehr: Abwehr eines Angriffes auf ein eigenes oder fremdes
-   Rechtsgut
+-   Notwehr: Abwehr eines Angriffes auf ein eigenes oder fremdes
+    Rechtsgut
 
-   *Solange Herr Hauzu nur droht, kann keine Maßnahme in Notwehr
-   ausgeführt werden, da kein unmittelbarer Angriff vorliegt. Greift
-   Herr Hauzu jedoch tatsächlich an, liegen die Voraussetzungen der
-   Notwehr vor und es können entsprechende Abwehrhandlungen getroffen
-   werden.*
+    *Solange Herr Hauzu nur droht, kann keine Maßnahme in Notwehr
+    ausgeführt werden, da kein unmittelbarer Angriff vorliegt. Greift
+    Herr Hauzu jedoch tatsächlich an, liegen die Voraussetzungen der
+    Notwehr vor und es können entsprechende Abwehrhandlungen getroffen
+    werden.*
 
--  *Notwehrüberschreitung im Affekt*: *Sollten Alex, Sepp und Bernd
-   fälschlich einen Angriff angenommen haben, sind sie entschuldigt,
-   wenn sie aus Furcht gehandelt haben und eine maßgerechte Person sich
-   gleich verhalten hätte.*
+-   *Notwehrüberschreitung im Affekt*: *Sollten Alex, Sepp und Bernd
+    fälschlich einen Angriff angenommen haben, sind sie entschuldigt,
+    wenn sie aus Furcht gehandelt haben und eine maßgerechte Person sich
+    gleich verhalten hätte.*
 
--  *Anhalterecht Privater*:
+-   *Anhalterecht Privater*:
 
-   *Solange keine gerichtlich strafbare Handlung (oder ein
-   entsprechender Verdacht) vorliegt (z.B. eine Körperverletzung oder
-   Sachbeschädigung durch einen Angriff), kann das Anhalterecht Privater
-   nicht angewendet werden.*
+    *Solange keine gerichtlich strafbare Handlung (oder ein
+    entsprechender Verdacht) vorliegt (z.B. eine Körperverletzung oder
+    Sachbeschädigung durch einen Angriff), kann das Anhalterecht Privater
+    nicht angewendet werden.*
 
 Bezüglich einer “Einweisung” ist das *Unterbringungsgesetz* :index:`\ <Unterbringungsgesetz!Fallbeispiel>`
 (:ref:`Thema-unterbringungsgesetz`) zu berücksichtigen:
 
--  *Da Herr Hauzu eine psychiatrische Erkrankung hat, durch diese eine
-   ernstliche Gefährdung für andere droht und keine verhältnismäßigeren
-   Maßnahmen möglich erscheinen, ist eine Unterbringung einzuleiten
-   (Verständigung der Sicherheitspolizei und in weiterer Folge des
-   Amtsarztes).*
+-   *Da Herr Hauzu eine psychiatrische Erkrankung hat, durch diese eine
+    ernstliche Gefährdung für andere droht und keine verhältnismäßigeren
+    Maßnahmen möglich erscheinen, ist eine Unterbringung einzuleiten
+    (Verständigung der Sicherheitspolizei und in weiterer Folge des
+    Amtsarztes).*
 
 Rechtsfolge
 -----------
@@ -171,6 +172,8 @@ Amtsarzt zu verständigen. Trotzdem sollte Gewalt durch Sanitäter immer
 als letzte Option verwendet werden, auch wegen dem Risiko sich durch das
 Anhalten selbst zu verletzen. Daher der Grundsatz: Selbstschutz geht vor
 Fremdschutz (bzw. übertriebenen Heldenmut).
+
+.. _Thema-jus-langer-dienst-fall-2:
 
 Fall 2. Gefahr durch Hund
 =========================
@@ -209,16 +212,18 @@ durchführen.*
 Rechtsfolge
 -----------
 
- Alex, Sepp und Bernd dürfen sich mit den schonendsten Mitteln
+Alex, Sepp und Bernd dürfen sich mit den schonendsten Mitteln
 verteidigen, um ihr eigenes Leben oder ihre Gesundheit zu schützen.
 Unabhängig davon treten sie jedoch den Rückzug an.
 
--  Schon vor Betreten der Wohnung sollte ein Hund von seinem Besitzer in
-   einen separaten Raum weggesperrt werden.
+-   Schon vor Betreten der Wohnung sollte ein Hund von seinem Besitzer in
+    einen separaten Raum weggesperrt werden.
 
 **************
 Heilbehandlung
 **************
+
+.. _Thema-jus-langer-dienst-fall-3:
 
 Fall 3. Blutzuckermessung = Heilbehandlung
 ==========================================
@@ -248,6 +253,14 @@ Einsichts- und Urteilsfähigkeit muss von einer Aufklärung bzw.
 Einwilligung des Patienten (in seinem Interesse!) abgesehen
 werden.*\  [308]_
 
+.. [308]
+    Die Messung des Blutzucker mit einer Lanzette war früher umstritten,
+    da manche Rettungsorganisationen davon ausgingen, dass es sich um
+    einen nicht dem Sanitäter erlaubten Eingriff am menschlichen Körper
+    handelt. Dieser Streit wurde durch eine Novellierung des SanG gelöst,
+    indem man die Blutzuckermessung für den Sanitäter ausdrücklich
+    zuließ.
+
 Rechtsfolge
 -----------
 
@@ -261,10 +274,11 @@ nicht möglich.
 Selbstbestimmungsrecht
 **********************
 
+.. _Thema-jus-langer-dienst-fall-4:
+.. _thema-jus-fall-aufklaerung:
+
 Fall 4. Aufklärung und Einwilligung
 ===================================
-
-.. _Thema-jus-langer-dienst-fall-4:
 
 Sachverhalt
 -----------
@@ -308,32 +322,37 @@ Rechtsfolgen
 Aufgrund der unterlassenen Aufklärung machte sich Sepp strafbar nach
 folgenden Bestimmungen:
 
--  *Strafrecht*:
+-   *Strafrecht*:
 
-   -  Eigenmächtige Heilbehandlung (§110 StGB):
+    -   Eigenmächtige Heilbehandlung (§ 110 StGB):
 
-      -  nur bei “Gefahr in Verzug” [309]_ benötigt es keine Aufklärung
-         bzw. Einwilligung und es dürfen alle nach Ansicht der
-         Einsatzkräfte direkt notwendigen Maßnahmen gesetzt werden
+        -   nur bei “Gefahr in Verzug” [309]_ benötigt es keine Aufklärung
+            bzw. Einwilligung und es dürfen alle nach Ansicht der
+            Einsatzkräfte direkt notwendigen Maßnahmen gesetzt werden
 
-   -  Körperverletzung (§§83 ff StGB):
+    -   Körperverletzung (§§ 83 ff StGB):
 
-      -  keine Strafbarkeit, solange die Heilbehandlung medizinische
-         indiziert und lege artis durchgeführt wurde
+        -   keine Strafbarkeit, solange die Heilbehandlung medizinische
+            indiziert und lege artis durchgeführt wurde
 
--  *Zivilrecht*:
+-   *Zivilrecht*:
 
-   -  Schadenersatz wegen Körperverletzung (§§1293 ff ABGB):
+    -   Schadenersatz wegen Körperverletzung (§§1293 ff ABGB):
 
-      -  für das Zivilrecht ist die Einwilligung aufgrund einer
-         Aufklärung notwendige Voraussetzung für die rechtfertigende
-         Heilbehandlung :math:`{\rightarrow}` mangelt es an ihr, kann
-         Schadenersatz verlangt werden
+        -   für das Zivilrecht ist die Einwilligung aufgrund einer
+            Aufklärung notwendige Voraussetzung für die rechtfertigende
+            Heilbehandlung :math:`{\rightarrow}` mangelt es an ihr, kann
+            Schadenersatz verlangt werden
+
+
+.. [309]
+    Gefahr in Verzug: *unmittelbar* drohende oder gegenwärtige Gefahr,
+    die ein Abwarten nicht zulässt bzw. unmittelbares Handeln verlangt
+
+.. _Thema-jus-langer-dienst-fall-5:
 
 Fall 5. Patientenverfügung
 ==========================
-
-.. _Thema-jus-langer-dienst-fall-5:
 
 Sachverhalt
 -----------
@@ -367,11 +386,9 @@ Siehe :ref:`Thema-patientenverfuegung`.
 *Die “Verfügung” erfüllt nicht die strengen Kriterien einer
 verbindlichen Patientenverfügung:*
 
--  Schriflichkeit vor Notar bzw. Rechtsanwalt
-
--  Aufklärung durch Arzt
-
--  5-jährige Gültigkeit
+-   Schriflichkeit vor Notar bzw. Rechtsanwalt
+-   Aufklärung durch Arzt
+-   5-jährige Gültigkeit
 
 *Auch die Beachtlichkeit ist aufgrund der Beiläufigkeit der Abfassung
 (auf Serviette) zu verneinen.*
@@ -394,6 +411,8 @@ Mit einer Reanimation ist zu beginnen.
 ***********************************
 Rechte und Pflichten des Sanitäters
 ***********************************
+
+.. _Thema-jus-langer-dienst-fall-6:
 
 Fall 6. Unterlassung der Notarztnachforderung
 =============================================
@@ -429,6 +448,13 @@ Patient auch selbst runter zum Fahrzeug gehen sollte, da er es im Kreuz
 hätte und sowieso noch eine ca. 20 Minuten lange Anfahrtszeit zur
 Krankenanstalt durch den schon einsetzende Morgenstau bewältigen müsste.
 
+.. [310]
+    Enteral: den Darm betreffend.
+
+.. [311]
+    “Bader”: früher Kundiger der Heilbäder, heute umgangssprachlich für
+    Arzt
+
 Rechtsfrage
 -----------
 
@@ -437,23 +463,24 @@ Besteht die Pflicht für Sanitäter zur Nachforderung eines Notarztes?
 Rechtslage
 ----------
 
-!!! INDEX II !!! [Hilfeleistung!unterlassene]Unterlassene Hilfeleistung
-- §95 StGB
+:index:`Unterlassene Hilfeleistung <Hilfeleistung!unterlassene>`
 
--  jeder Durchschnittsmensch ist zur Durchführung von *ihm zumutbaren
-   Hilfeleistungen* verpflichtet. Die Zumutbarkeit bestimmt sich dabei
-   nach dem individuellen Stand an Ausbildung, Fähigkeiten und
-   Kenntnissen. Aber schon zu den Grundlagen einer Ersten Hilfe, die von
-   jedem Menschen mit Besuch eines Führerscheinkurses erwartet werden
-   kann, gehört das Absetzen eines Notrufes zur Anforderung von
-   geeigneten Rettungskräften.
+-   §95 StGB
 
-*§4 SanG*
+    -   jeder Durchschnittsmensch ist zur Durchführung von *ihm zumutbaren
+        Hilfeleistungen* verpflichtet. Die Zumutbarkeit bestimmt sich dabei
+        nach dem individuellen Stand an Ausbildung, Fähigkeiten und
+        Kenntnissen. Aber schon zu den Grundlagen einer Ersten Hilfe, die von
+        jedem Menschen mit Besuch eines Führerscheinkurses erwartet werden
+        kann, gehört das Absetzen eines Notrufes zur Anforderung von
+        geeigneten Rettungskräften.
 
--  jeder Sanitäter, unabhängig von seinem Ausbildungsstand, ist zur
-   Durchführung von lebensrettenden Sofortmaßnahmen verpflichtet, was
-   gleichzeitig beinhaltet, dass er bei Notwendigkeit eine unverzügliche
-   Anforderung des Notarztes oder sonstigen Arztes zu veranlassen hat.
+-   *§4 SanG*
+
+    -   jeder Sanitäter, unabhängig von seinem Ausbildungsstand, ist zur
+        Durchführung von lebensrettenden Sofortmaßnahmen verpflichtet, was
+        gleichzeitig beinhaltet, dass er bei Notwendigkeit eine unverzügliche
+        Anforderung des Notarztes oder sonstigen Arztes zu veranlassen hat.
 
 Anmerkung: Die Unterlassung von schädlichen Handlungen, d.h. Handlungen
 die *nicht* dem Patientenwohl dienen, stellt *keine* unterlassene
@@ -471,10 +498,10 @@ macht er sich gleichzeitig nach strafrechtlichen (§95 StGB) und
 verwaltungsrechtlichen Bestimmungen (§9 in Verbindung mit §53 SanG)
 strafbar.
 
+.. _Thema-jus-langer-dienst-fall-7:
+
 Fall 7. Sanitäterkompetenzen
 ============================
-
-.. _Thema-jus-langer-dienst-fall-7:
 
 Sachverhalt
 -----------
@@ -487,7 +514,7 @@ Nitrolingual-Spray auch gleich einen venösen Zugang legen, da er das
 sowieso als ehemaliger Fleischhauer besser als jeder Arzt
 kann.
 
-.. figure:: /Bilder/venflon_in_situ.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/venflon_in_situ.jpg
     :align: right
     :width: 50%
 
@@ -508,8 +535,11 @@ Rechtslage
 Die *Kompetenzstufen* sind im SanG [312]_ geregelt.
 [tab:sang-kompetenzstufen], gibt eine Übersicht.
 
+.. [312]
+    §§ 9—12 SanG
+
 Überschreiten der Kompetenzstufen
-                                 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Die Durchführung von Maßnahmen außerhalb des eigenen Kompetenzstandes,
 führt zu einer Verwaltungsstrafe nach SanG bzw. einer gerichtlichen
@@ -529,6 +559,8 @@ Rechtsfolge
 Sepp darf keinen venösen Zugang legen oder sogar Medikamente darüber
 verabreichen, selbst wenn Gefahr in Verzug vorliegt.
 
+.. _Thema-jus-langer-dienst-fall-8:
+
 Fall 8. Rechtswidrige Anordnung durch Notarzt
 =============================================
 
@@ -547,6 +579,8 @@ anordnet, obwohl sie von Sepp über die gefundene Viagra-Packung
 informiert wurde.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/emergency_physician_vehicle_00800.jpg
+    :align: right
+    :width: 50%
 
     [Sebastian Gabriel, MfG]
 
@@ -592,16 +626,16 @@ gewonnen werden aus:
 Rechtsfolge
 -----------
 
- Die RTW-Mannschaft darf daher die für den Patienten schädigende
+Die RTW-Mannschaft darf daher die für den Patienten schädigende
 Anordnung ablehnen. Natascha hingegen macht sich strafbar wegen
 Körperverletzung und riskiert uU. zivilrechtliche Schadenersatzansprüche
 (:math:`{\rightarrow}` Nitro-Gabe nicht lege artis).
 
-Fall 9. Dokumentationspflicht
-=============================
-
 .. _Thema-jus-langer-dienst-fall-9:
 .. _Thema-dokumentationspflicht-fallbeispiel:
+
+Fall 9. Dokumentationspflicht
+=============================
 
 Sachverhalt
 -----------
@@ -633,7 +667,7 @@ Besteht eine *Dokumentationspflicht* und wenn ja, in welchem Umfang?
 Rechtslage
 ----------
 
-*Für Sanitäter besteht die Pflicht, nicht nur gesetzte medizinische
+Für Sanitäter besteht die Pflicht, nicht nur gesetzte medizinische
 Maßnahmen zu dokumentieren, sondern auch andere relevante Umstände.
 Daher sind die Behauptungen des Patienten in die Dokumentation
 aufzunehmen. :ref:`Thema-dokumentationspflicht`
@@ -645,6 +679,8 @@ Rechtsfolge
 
 Bernd hat keine ausreichende Dokumentation durchgeführt und kann sich
 somit nicht gegen die Beschuldigungen zur Wehr setzen.
+
+.. _Thema-jus-langer-dienst-fall-10:
 
 Fall 10. Verschwiegenheits- und Auskunftspflicht
 ================================================
@@ -679,10 +715,12 @@ Frau Aufgeregt zählt als bloße Angehörige nicht zum Kreis der
 Auskunftsberechtigten, solange der Patient die Weitergabe von
 Informationen nicht gestattet.
 
-Fall 11. Fortbildungspflicht
-============================
 
 .. _Thema-jus-fall-fortbildung:
+.. _Thema-jus-langer-dienst-fall-11:
+
+Fall 11. Fortbildungspflicht
+============================
 
 Sachverhalt
 -----------
@@ -738,6 +776,8 @@ Da Sepp Praxisanleiter ist, darf er vorab Bernd einweisen.
 Schadenersatz
 *************
 
+.. _Thema-jus-langer-dienst-fall-12:
+
 Fall 12. Verletzung des Patienten durch Sanitäter:
 ==================================================
 
@@ -764,8 +804,9 @@ Stirn mehrere gebrochene Rippen zu.
 Rechtsfrage - Schadenersatz wegen Körperverletzung
 --------------------------------------------------
 
- Wann wird man schadenersatzpflichtig? Was umfasst der Schadenersatz?
-Wer wird zur Haftung gezogen?
+-   Wann wird man schadenersatzpflichtig? 
+-   Was umfasst der Schadenersatz?
+-   Wer wird zur Haftung gezogen?
 
 Rechtslage
 ----------
@@ -777,30 +818,30 @@ ergeben sich aus dem Bürgerlichen Recht [313]_.
 *Voraussetzungen der Schadenersatzpflicht*, vgl.
 :ref:`Thema-haftbarkeitsvoraussetzung`:
 
-#. *Schaden*: Nachteil am Körper, an der Gesundheit:
+#.  *Schaden*: Nachteil am Körper, an der Gesundheit:
 
-   *RQW Stirn, gebrochene Rippen*
+    *RQW Stirn, gebrochene Rippen*
 
-#. *Kausalität*: bei Wegdenken der Schädigerhandlung, bleibt auch der
-   Erfolg aus:
+#.  *Kausalität*: bei Wegdenken der Schädigerhandlung, bleibt auch der
+    Erfolg aus:
 
-   *Bei Anschnallen des Patienten hätte er mit an Sicherheit grenzender
-   Wahrscheinlichkeit einen weitaus geringeren Schaden erlitten.*
+    *Bei Anschnallen des Patienten hätte er mit an Sicherheit grenzender
+    Wahrscheinlichkeit einen weitaus geringeren Schaden erlitten.*
 
-#. *Rechtswidrigkeit*: objektiver Verstoß gegen Gesetze oder
-   Vertragspflichten
+#.  *Rechtswidrigkeit*: objektiver Verstoß gegen Gesetze oder
+    Vertragspflichten
 
-   *Das Anschnallen des Patienten ist laut Hersteller des Tragestuhls
-   verpflichtend. Weiters existiert eine interne Dienstanweisung der
-   Einrichtung, nach welcher Patienten nur angeschnallt in dem Tragstuhl
-   berfördert werden dürfen.*
+    *Das Anschnallen des Patienten ist laut Hersteller des Tragestuhls
+    verpflichtend. Weiters existiert eine interne Dienstanweisung der
+    Einrichtung, nach welcher Patienten nur angeschnallt in dem Tragstuhl
+    berfördert werden dürfen.*
 
-#. *Schuld*: subjektiver Verstoß gegen jene Sorgfaltspflichten, die man
-   einhalten hätte können
+#.  *Schuld*: subjektiver Verstoß gegen jene Sorgfaltspflichten, die man
+    einhalten hätte können
 
-   *Aufgrund der erfolgten Geräteeinschulung gem. Medizinproduktegesetz
-   muss den handelnden Personen subjektiv klar sein, dass ein
-   Anschnallen objektiv geboten ist.*
+    *Aufgrund der erfolgten Geräteeinschulung gem. Medizinproduktegesetz
+    muss den handelnden Personen subjektiv klar sein, dass ein
+    Anschnallen objektiv geboten ist.*
 
 *Umfang des Schadenersatzes bei Körperverletzungen*:
 
@@ -841,6 +882,11 @@ gegen den Sanitäter selber durchsetzen.
 
    -  Schmerzengeld
 
+
+.. [313]
+   Grundlagen des Schadensersatzanspruches: Allgemein nach §§ 1293 ff ABGB
+   und speziell für den Fall der Körperverletzung nach §§ 1325—1327 ABGB
+
 Rechtsfolge
 -----------
 
@@ -854,6 +900,8 @@ anzuschnallen, verhalten können, wodurch ebenso die Schuld gegeben ist.
 Daher kann Herr Schmerz Schadenersatzansprüche gegen die Sanitäter oder,
 wirtschaftlich vernünftiger, gegen die Rettungsorganisation geltend
 machen.
+
+.. _Thema-jus-langer-dienst-fall-13:
 
 Fall 13. Sachbeschädigung
 =========================
@@ -906,6 +954,11 @@ Körperverletzungen.
 
    -  Ideeller Schaden
 
+
+.. [314]
+   Grundlagen des Schadensersatzanspruches: Allgemein nach §§1293ff ABGB
+   und speziell für den Fall der Sachbeschädigung §1331 ABGB
+
 Rechtsfolge
 -----------
 
@@ -915,10 +968,11 @@ Gleiche Lösung wie bei Fall 12.
 Behandlungspflicht
 ******************
 
+.. _Thema-behandlungspflichtJUS:
+.. _Thema-jus-langer-dienst-fall-14:
+
 Fall 14. Behandlungspflicht von Krankenanstalten, Ärzten, Sanitätern und Durchschnittsbürgern:
 ==============================================================================================
-
-.. _Thema-behandlungspflichtJUS:
 
 Sachverhalt
 -----------
@@ -978,6 +1032,8 @@ werden kann.
 Meldepflichtenrecht
 *******************
 
+.. _Thema-jus-langer-dienst-fall-15:
+
 Fall 15. Ansteckende Krankheiten
 ================================
 
@@ -996,7 +1052,9 @@ aufgeschnitten hat. Als Sepp beginnt sie zu versorgen, erzählt Frau
 Hilflos, dass ihr Leben “sowieso keinen Sinn mehr hat”, da sie ihr
 Freund mit angesteckt hat.
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/blut-tatort-jacke.jpg 
+.. figure:: /Bilder/GabrielSebastian-Ccc/blut-tatort-jacke.jpg
+    :align: right
+    :width: 50%
 
     [Sebastian Gabriel, MfG]
 
@@ -1023,6 +1081,7 @@ Gesundheitsberufe aufgrund der schon erwähnten Auskunftspflicht gem. 7
 SanG.
 
 .. _Thema-strafbare-handlungen:
+.. _Thema-jus-langer-dienst-fall-16:
 
 Fall 16. Strafbare Handlungen
 =============================
@@ -1039,11 +1098,18 @@ weiteren Verletzungen eingeht, beginnt Frau Hilflos weinend zu
 berichten, dass ihr Freund sie öfters geschlagen hat und ihr mit dem Tod
 gedroht hat, falls sie die Polizei verständigen würde.
 
-.. figure:: /Bilder/trauma/haematom-fehlpunktion-001.jpg 
+.. figure:: /Bilder/GabrielSebastian-Ccc/haematom-fehlpunktion-001.jpg
+    :align: right
+    :width: 50%
 
     Hämatom
     
     [Sebastian Gabriel, MfG]
+
+
+
+.. [315]
+   *Hämatom:* Bluterguss.
 
 Rechtsfrage
 -----------
@@ -1070,6 +1136,8 @@ Anzeige einbringen möchte.
 Straßenordnung
 **************
 
+.. _Thema-jus-langer-dienst-fall-17:
+
 Fall 17. Blaulichtverwendung
 ============================
 
@@ -1084,6 +1152,8 @@ Hörndl und die Blitzer ei, damit dee uns endli Plotz machen und wir
 einrücken kännan!”* 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1896_00800.jpg
+    :align: right
+    :width: 50%
 
     [Sebastian Gabriel, MfG]
 
@@ -1096,8 +1166,8 @@ bzw. muss man sich bei einer Blaulichtfahrt verhalten?
 Rechtslage
 ----------
 
- *Voraussetzung für eine Einsatzfahrt ist Gefahr im Verzug, diese liegt
-im gegenwärtigen Fall nicht vor (:ref:`Thema-einsatzfahrt`).*
+Voraussetzung für eine Einsatzfahrt ist Gefahr im Verzug, diese liegt
+im gegenwärtigen Fall nicht vor (:ref:`Thema-einsatzfahrt`).
 
 Rechtsfolge
 -----------
@@ -1111,3 +1181,4 @@ tragen.
 Der weitere Tag verläuft ruhig mit den üblichen Patienten bis zum …
 
 *Feierabend.*
+

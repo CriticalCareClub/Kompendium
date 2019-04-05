@@ -404,9 +404,10 @@ Fallbeispiele
 
 -  Fall 4: :ref:`Thema-jus-langer-dienst-fall-4`
 
+.. _Thema-aufklaerung:
+
 Aufklärung – Aufklärungspflicht
 -------------------------------
-.. _Thema-aufklaerung:
 
 Beschreibung
 ^^^^^^^^^^^^
@@ -512,170 +513,97 @@ Anhalterechts sind in den Tafeln [tab:notwehr-notwehrueberschreitung]
 [tab:anhalterecht-privater] (Anhalterecht) aufgelistet und
 gegenübergestellt.
 
-.. todo:: !!! TABELLE WEIT *Notwehr* und *Notwehrüberschreitung* im Affekt\ [tab:notwehr-notwehrueberschreitung]KollerAASS
-
-    ::
-
-        | ll **Notwehr** :index:`\ <Notwehr>` & !!! INDEX II !!!
-        [Notwehrüberschreitung]Notwehrüberschreitung im Affekt
-
-        -  Gerichtliches Strafrecht (StGB [61]_) und bürgerliches Recht
-        (ABGB [62]_)
-
-        -  Anzuwenden, wenn ein menschlicher Angriff tatsächlich (*objektiv*)
-        vorliegt
-
-        &
-
-        -  Gerichtliches Strafrecht (StGB [63]_) und bürgerliches Recht
-        (ABGB [64]_)
-
-        -  Anzuwenden, wenn ein menschlicher Angriff *subjektiv angenommen* wird
-
-        | 
-        | *Notwehrsituation:*
-
-        -  gegenwärtig oder unmittelbar drohender Angriff,
-
-        -  rechtswidrig,
-
-        -  von Menschen gesetzt,
-
-        -  auf ein notwehrfähiges Gut (= Leben, Gesundheit, Freiheit oder
-        Vermögen)
-
-        & *Notwehrsituation:*
-
-        -  gegenwärtig oder unmittelbar drohender Angriff,
-
-        -  rechtswidrig,
-
-        -  von Menschen gesetzt,
-
-        -  auf ein notwehrfähiges Gut (= Leben, Gesundheit, Freiheit oder
-        Vermögen)
-
-        -  *Furcht* oder Angst der in Notwehrüberschreitung handelnden Person
-
-        | 
-        | *Notwehrhandlung*:
-
-        -  Abwehr als schonendstes Mittel (das Gelindeste der zur verlässlichen
-        Abwehr verfügbaren Mittel)
-
-        -  Zurechnungsprinzip (= richtet sich gegen den Angreifer)
-
-        -  Die Annahme einer Notwehrsituation erfolgte bloß fahrlässig
-
-        & *Notwehrhandlung*:
-
-        -  Abwehr als schonendstes Mittel (das Gelindeste der zur verlässlichen
-        Abwehr verfügbaren Mittel)
-
-        -  Zurechnungsprinzip (= richtet sich gegen den Angreifer)
-
-        | 
-
-
-.. [61]
-   §3 Abs. 1 StGB
-
-.. [62]
-   §1306a ABGB
-
-.. [63]
-   §3 Abs. 2 StGB
-
-.. [64]
-   §1306a ABGB
-
-
-.. todo:: TABELLE WEIT Rechtfertigender und entschuldigender
-
-    ::
-
-        *Notstand*[tab:notstand]KollerAASS
-
-        | ll !!! INDEX II !!! [Notstand!rechtfertigender]Rechtfertigender
-        Notstand & !!! INDEX II !!!
-        [Notstand!entschuldigender]Entschuldigender Notstand
-
-        -  In keinem Gesetz aufgezeichnet; wird aber einheitlich angenommen
-
-        -  Anzuwenden wenn die Gefahr auch tatsächlich (objektiv) vorliegt
-
-        &
-
-        -  Gerichtliches Strafrecht und Bürgerliches Recht (StGB, ABGB [65]_)
-
-        -  Anzuwenden wenn man die Gefahr bloß subjektiv annimmt
-
-        | 
-        | *Notstandssituation*: Gefahr ist:
-
-        -  Kein menschlicher Angriff
-
-        -  Gegenwärtig oder unmittelbar drohend
-
-        -  Rechtswidrig
-
-        -  Auf beliebiges Rechtsgut gerichtet
-
-        -  Droht bedeutender Nachteil
-
-        *Notstandshandlung*:
-
-        -  Abwehr als schonendstes Mittel
-
-        -  Zurechnungsprinzip (= Richtet sich gegen die Gefahrenursache)
-
-        -  Geringes Risiko bei hoher Rettungschance
-
-        & *Notstandssituation*: Gefahr ist:
-
-        -  Kein menschlicher Angriff
-
-        -  Gegenwärtig oder unmittelbar drohend
-
-        -  Rechtswidrig
-
-        -  Auf beliebiges Rechtsgut gerichtet
-
-        -  Droht bedeutender Nachteil
-
-        *Notstandshandlung*:
-
-        -  Abwehr als schonendstes Mittel
-
-        -  Zurechnungsprinzip (= Richtet sich gegen die Gefahrenursache)
-
-        -  Drohender Nachteil darf geringfügig kleiner als das Ergebnis der
-        Abwehrhandlung sein.
-
-        | 
-
-        *Anhalterecht* Privater\ [tab:anhalterecht-privater]
-
-        | l **Anhalterecht Privater** :index:`\ <Anhalterecht Privater>`
-
-        -  Gerichtliches Strafrecht (StPO [66]_)
-
-        -  Anzuwenden wenn ein Verdacht auf eine gerichtlich strafbare Handlung
-        vorliegt
-
-        | 
-        | *Situation:*
-
-        -  Verdacht auf eine gerichtlich strafbare Handlung
-
-        | 
-        | *Handlung*:
-
-        -  Anhalten als schonendstes Mittel (in angemessener Weise)
-
-        -  Zurechnungsprinzip (= Anhaltung des mutmaßlichen Täters)
-
-        -  Unverzügliche Verständigung der Sicherheitspolizei
+.. _Table-notwehr-notwehrueberschreitung: 
+
+.. list-table:: Notwehr und Nptwehrüberschreitung im Affekt
+    :widths: 20 40 40
+    :header-rows: 1
+    :stub-columns: 1
+
+    *   -   
+        -   Notwehr 
+        -   Notwehrüberschreitung im Affekt 
+    *   -   Grundlage:
+        -   -   Gerichtliches Strafrecht (§3 Abs. 1 StGB) und bürgerliches Recht (§1306a ABGB)
+            -   Anzuwenden, wenn ein menschlicher Angriff tatsächlich (*objektiv*) vorliegt
+        -   -   Gerichtliches Strafrecht (§3 Abs. 2 StGB) und bürgerliches Recht  (§1306a ABGB)
+            -   Anzuwenden, wenn ein menschlicher Angriff *subjektiv angenommen* wird
+    *   -   Notwehrsituation
+        -   -   gegenwärtig oder unmittelbar drohender Angriff,
+            -   rechtswidrig,
+            -   von Menschen gesetzt,
+            -   auf ein notwehrfähiges Gut (= Leben, Gesundheit, Freiheit oder
+                Vermögen)
+        -   -   gegenwärtig oder unmittelbar drohender Angriff,
+            -   rechtswidrig,
+            -   von Menschen gesetzt,
+            -   auf ein notwehrfähiges Gut (= Leben, Gesundheit, Freiheit oder
+                Vermögen)
+            -   *Furcht* oder Angst der in Notwehrüberschreitung handelnden Person
+    *   -   Notwehrhandlung
+        -   -   Abwehr als schonendstes Mittel (das Gelindeste der zur verlässlichen
+                Abwehr verfügbaren Mittel)
+            -   Zurechnungsprinzip (= richtet sich gegen den Angreifer)
+            -   Die Annahme einer Notwehrsituation erfolgte bloß fahrlässig
+        -   -   Abwehr als schonendstes Mittel (das Gelindeste der zur verlässlichen
+                Abwehr verfügbaren Mittel)
+            -   Zurechnungsprinzip (= richtet sich gegen den Angreifer)
+
+
+
+   
+.. _Table-notstand:
+
+.. list-table:: NRechtfertigender und entschuldigender Notstand
+    :widths: 20 40 40
+    :header-rows: 1
+    :stub-columns: 1
+
+    *   -   
+        -   Rechtfertigender Notstand 
+        -   Entschuldigender Notstand
+    *   -   Grundlage
+        -   -   In keinem Gesetz aufgezeichnet; wird aber einheitlich angenommen
+            -   Anzuwenden wenn die Gefahr auch tatsächlich (objektiv) vorliegt
+        -   -   Gerichtliches Strafrecht und Bürgerliches Recht (StGB, ABGB [65]_)
+            -   Anzuwenden wenn man die Gefahr bloß subjektiv annimmt
+    *   -   Notstandssituation: Gefahr ist ... 
+        -   -   Kein menschlicher Angriff
+            -   Gegenwärtig oder unmittelbar drohend
+            -   Rechtswidrig
+            -   Auf beliebiges Rechtsgut gerichtet
+            -   Droht bedeutender Nachteil
+        -   -   Kein menschlicher Angriff
+            -   Gegenwärtig oder unmittelbar drohend
+            -   Rechtswidrig
+            -   Auf beliebiges Rechtsgut gerichtet
+            -   Droht bedeutender Nachteil
+    *   -   Notstandshandlung:
+        -   -   Abwehr als schonendstes Mittel
+            -   Zurechnungsprinzip (= Richtet sich gegen die Gefahrenursache)
+            -   Geringes Risiko bei hoher Rettungschance
+        -   -   Abwehr als schonendstes Mittel
+            -   Zurechnungsprinzip (= Richtet sich gegen die Gefahrenursache)
+            -   Drohender Nachteil darf geringfügig kleiner als das Ergebnis der
+                Abwehrhandlung sein.
+
+.. _Table-anhalterecht-privater:
+
+.. list-table:: *Anhalterecht* Privater
+    :widths: 40 60
+    :header-rows: 0
+    :stub-columns: 1
+
+    *   -   Grundlage
+        -   -  Gerichtliches Strafrecht (StPO [66]_)
+            -   Anzuwenden wenn ein Verdacht auf eine gerichtlich strafbare Handlung
+                vorliegt
+    *   -   Situation:
+        -   Verdacht auf eine gerichtlich strafbare Handlung 
+    *   -   Handlung:
+        -   -   Anhalten als schonendstes Mittel (in angemessener Weise)
+            -   Zurechnungsprinzip (= Anhaltung des mutmaßlichen Täters)
+            -   Unverzügliche Verständigung der Sicherheitspolizei
 
 
 .. [65]
@@ -735,9 +663,12 @@ Unterbringung ohne Verlangen
 
 Eine Person darf gegen oder ohne ihren Willen nur dann in eine
 psychiatrische Abteilung gebracht werden, wenn ein im *öffentlichen
-Sanitätsdienst stehender Arzt* oder ein *Polizeiarzt* (**Amtsarzt** :index:`\ <Amtsarzt>`) sie untersucht und bescheinigt, dass die Voraussetzungen
-der Unterbringung vorliegen. In der Bescheinigung sind im einzelnen die
-Gründe anzuführen, aus denen der Arzt die Voraussetzungen der
+Sanitätsdienst stehender Arzt* oder ein *Polizeiarzt* 
+(**Amtsarzt** :index:`\ <Amtsarzt>`) sie untersucht 
+und bescheinigt, 
+dass die Voraussetzungen der Unterbringung vorliegen. 
+In der Bescheinigung sind im einzelnen die Gründe anzuführen, 
+aus denen der Arzt die Voraussetzungen der
 Unterbringung für gegeben erachtet. [68]_
 
 Die *Sicherheitspolizei* ist berechtigt und verpflichtet, eine Person,
@@ -758,7 +689,7 @@ Abwehr von Gefahren zu treffen. Sie haben, soweit das möglich ist, mit
 psychiatrischen Einrichtungen außerhalb einer Anstalt zusammenzuarbeiten
 und *erforderlichenfalls* den *örtlichen Rettungsdienst
 beizuziehen*. [71]_ *Für den Transport ist demnach grundsätzlich die
-Polizei zuständig! [72]_*
+Polizei zuständig!* [72]_
 
 Sollte der Rettungsdienst von sich aus einen unterzubringenden Patienten
 vorfinden, so ist die Sicherheitspolizei und der Amtsarzt zu
@@ -794,7 +725,7 @@ Unterbringung anzuordnen.
 Unterbringung mit Verlangen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
- Eine Unterbringung *kann auch freiwillig*, d.h. auf Wunsch des
+Eine Unterbringung *kann auch freiwillig*, d.h. auf Wunsch des
 Patienten erfolgen. Da dann auch der Transport freiwillig stattfindet,
 sind dabei (beim Primäreinsatz) keine besonderen Bestimmungen zu
 beachten.
@@ -842,6 +773,10 @@ KAKuG [75]_, z.B.:
 .. [75]
    §5a KAKuG
 
+.. _Thema-heilbehandlung:
+
+.. index::
+    single: Heilbehandlung
 
 Heilbehandlung
 --------------
@@ -849,20 +784,20 @@ Heilbehandlung
 Beschreibung
 ^^^^^^^^^^^^
 
-[Thema-heilbehandlung]Der Begriff der !!! TERMINUS !!! *Heilbehandlung*
+Der Begriff der :dfn:`Heilbehandlung`
 wird aus allgemeinen Rechtsgrundsätzen und systematischer Betrachtung
 der gesamten Rechtsordnung gewonnen. Es müssen folgende
 *Voraussetzungen* vorliegen, damit eine Handlung als Heilbehandlung
 gilt:
 
-#. Medizinische Indikation (zur Diagnose oder Linderung von Erkrankungen
-   und/oder Verletzungen notwendig)
+#.  Medizinische Indikation (zur Diagnose oder Linderung von Erkrankungen
+    und/oder Verletzungen notwendig)
 
-#. Durchführung ist lege artis (entspricht dem geltenden Stand der
-   Wissenschaft)
+#.  Durchführung ist lege artis (entspricht dem geltenden Stand der
+    Wissenschaft)
 
-#. Aufklärung und Einwilligung des Patienten (sofern einsichts- und
-   urteilsfähig; vgl. :ref:`Thema-jus-fall-aufklaerung`)
+#.  Aufklärung und Einwilligung des Patienten (sofern einsichts- und
+    urteilsfähig; vgl. :ref:`Thema-jus-fall-aufklaerung`)
 
 Sobald diese Voraussetzungen vorliegen, wird eine Heilbehandlung, auch
 wenn sie Einwirkung auf den Körper des Patienten nimmt, als
@@ -878,17 +813,18 @@ haftbar [76]_.
       #. *Körperverletzung* (§§83ff StGB)
 
       #. *Eigenmächtige Heilbehandlung* (§110 StGB,
-         [Thema-eigenmächtige-heilbehandlung]).
+         :ref:`Thema-eigenmächtige-heilbehandlung`).
 
    #. *Zivilrecht*:
 
       #. *Schadenersatzansprüche* (§§1293ff ABGB)
 
+.. _Thema-eigenmächtige-heilbehandlung:
 
 Eigenmächtige Heilbehandlung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-[Thema-eigenmächtige-heilbehandlung] Von einer *eigenmächtigen
+Von einer *eigenmächtigen
 Heilbehandlung* spricht man, wenn der Patient in die Behandlung *nicht
 einwilligt* bzw. *nicht aufgeklärt* wird. Dies ist nur bei *“Gefahr in
 Verzug”* (*unmittelbar* drohende oder gegenwärtige Gefahr, die ein
@@ -908,6 +844,13 @@ Fallbeispiele
    :ref:`Thema-jus-langer-dienst-fall-3`
 
 -  Fall 4: Aufklärung und Einwilligung :ref:`Thema-jus-langer-dienst-fall-4`
+
+
+.. index::
+    single: Patientenverfügung; beachtliche
+    single: Patientenverfügung; verbindliche
+
+.. _Thema-patientenverfuegung:
 
 Die Patientenverfügung
 ----------------------
@@ -934,40 +877,38 @@ Zwei Arten der Patientenverfügung
 Es gibt zwei Arten von Patientenverfügungen, eine *verbindliche* und
 eine bloß *beachtliche Patientenverfügung*.
 
-#. !!! TERMINUS !!! [Patientenverfügung!Verbindliche]Verbindliche
-   Patientenverfügung:
+#.  :dfn:`Verbindliche Patientenverfügung`:
 
-   -  *Schriftlich* vor Notar, Rechtsanwalt oder rechtskundigen
-      Patientenvertreter
+    -   *Schriftlich* vor Notar, Rechtsanwalt oder rechtskundigen
+        Patientenvertreter
 
-   -  Eigenhändig unterschrieben und datiert
+    -   Eigenhändig unterschrieben und datiert
 
-   -  Aufgrund einer umfassenden Aufklärungen durch einen Arzt
+    -   Aufgrund einer umfassenden Aufklärungen durch einen Arzt
 
-   -  Inhalt muss eine *konkrete Heilbehandlung* ablehnen
-      :math:`{\rightarrow}` allgemeine oder widersprüchliche
-      Formulierungen führen zur Unwirksamkeit
+    -   Inhalt muss eine *konkrete Heilbehandlung* ablehnen
+        :math:`{\rightarrow}` allgemeine oder widersprüchliche
+        Formulierungen führen zur Unwirksamkeit
 
-   -  Wirkung nur für *5 Jahre*
+    -   Wirkung nur für *5 Jahre*
 
-   -  Eine Verfügung, die alle Elemente enthält ist *absolut bindend*
-      und *darf nicht umgangen werden!*
+    -   Eine Verfügung, die alle Elemente enthält ist *absolut bindend*
+        und *darf nicht umgangen werden!*
 
-#. !!! TERMINUS !!! [Patientenverfügung!Beachtliche]Beachtliche
-   Patientenverfügung:
+#.  :dfn:`Beachtliche Patientenverfügung`
 
-   -  *grundsätzlich*: alle Verfügungen, die nicht die obigen
-      Voraussetzungen erfüllen
+    -   *grundsätzlich*: alle Verfügungen, die nicht die obigen
+        Voraussetzungen erfüllen
 
-   -  Umfang der Beachtlichkeit: *bloß relative Beachtlichkeit*:
+    -   Umfang der Beachtlichkeit: *bloß relative Beachtlichkeit*:
 
-      -  Verfügung soll *in Behandlungsentscheidungen berücksichtigt*
-         werden, aber
+        -   Verfügung soll *in Behandlungsentscheidungen berücksichtigt*
+            werden, aber
 
-      -  das Wohl des Patienten bleibt oberstes Gebot
+        -   das Wohl des Patienten bleibt oberstes Gebot
 
-      -  daher kann man sich bei besonderer Begründung über die
-         Verfügung *hinwegsetzen*
+        -   daher kann man sich bei besonderer Begründung über die
+            Verfügung *hinwegsetzen*
 
 Suche nach Patientenverfügung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1308,7 +1249,7 @@ Informationspflichten
    strafbare Handlungen dies der Polizei oder Staatsanwaltschaft per
    Anzeige zu melden.
 
-   -  **Ärztliche* Anzeigepflicht*\  [90]_: Nur bei Vorliegen folgender
+   -  **Ärztliche Anzeigepflicht**\  [90]_: Nur bei Vorliegen folgender
       Delikte (Verdacht reicht aus) und unabhängig vom Willen des
       Betroffenen:
 
@@ -1324,7 +1265,8 @@ Informationspflichten
 
    -  Polizeiliche Ermittlungspflicht [91]_ für alle Delikte
 
-   -  !!! TERMINUS !!! [Anzeigerecht]Anzeige: [Thema-anzeigerecht] Jeder
+   -  **Anzeige**: 
+      Jeder
       Durchschnittsbürger und auch sonstige Gesundheitsberufe sind
       *nicht verpflichtet* zur Anzeige von Strafdelikten. Sie haben aber
       das *Recht*, eine strafbare Handlung anzuzeigen. [92]_
@@ -1357,16 +1299,17 @@ Informationspflichten
 .. [92]
    §80 Abs. 1 StPO
 
+.. _Thema-fortbildungspflicht:
 
 Fortbildungspflicht
 -------------------
 
-[Thema-fortbildungspflicht] Die Fortbildungspflicht für Sanitäter ist
+Die Fortbildungspflicht für Sanitäter ist
 unter zwei verschiedenen Gesichtspunkten zu sehen: Einerseits muss er
 sich fachbezogen nach dem Sanitätergesetz, andererseits gerätebezogen
 nach dem Medizinproduktegesetz (MPG) fortbilden.
 
--  *Fortbildungspflicht nach SanG [93]_:* Jeder Sanitäter ist dazu
+-  *Fortbildungspflicht nach SanG:* [93]_ Jeder Sanitäter ist dazu
    verpflichtet, sich *innerhalb von 2 Jahren* ab seinem Stichtag im
    Umfang von *16 Stunden fortzubilden*. Als **Stichtag** :index:`\ <Stichtag>`
    wird der Monatserste nach bestandener Rettungssanitäterausbildung
@@ -1380,7 +1323,7 @@ nach dem Medizinproduktegesetz (MPG) fortbilden.
    bestimmten Themen als Fortbildungen besuchen, sondern kann nach
    seinem Interesse vorgehen.
 
--  *Fortbildungspflicht nach MPG [94]_:* Die im Rettungswesen
+-  *Fortbildungspflicht nach MPG:* [94]_ Die im Rettungswesen
    verwendeten Materialien gelten, abgesehen von Arzneimitteln, als
    Medizinprodukte und dürfen daher iSd. MPG nur von eingeschulten
    Personal angewendet werden. Diese Einschulungen müssen nicht nur alle
@@ -1394,7 +1337,7 @@ nach dem Medizinproduktegesetz (MPG) fortbilden.
    anderen, insbesondere höhere technische Produkte, muss jede
    Organisation separate Fortbildungen anbieten.
 
--  Fortbildungspflicht SanG: 16h in 2 Jahren
+-  Fortbildungspflicht SanG: 16 h in 2 Jahren
 
 -  Fortbildungspflicht MPG: Medizinprodukte dürfen nur von eingeschultem
    Personal verwendet werden

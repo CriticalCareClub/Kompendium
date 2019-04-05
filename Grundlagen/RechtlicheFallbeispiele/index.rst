@@ -410,7 +410,13 @@ in seiner typisch ruhigen Manie, glücklich durch die enteral [310]_
 erlangte Sedierung, zum Fahrzeug, mit dem Spruch auf den Lippen:
 “immerhin konn des Wagl’ eh net ohne mie foahrn!”
 
-|image|
+.. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.jpg
+    :align: right
+    :width: 50%
+
+    Ein NEF
+
+    [Sebastian Gabriel, MfG]
 
 Nach nur kurzer Anfahrtszeit begegnet Alex, Sepp und Bernd im ersten
 Stock eines kleinen Reihenhaus der 55 jährige, adipöse Herr Schmerz mit
@@ -479,7 +485,15 @@ gebackener NFS geworden ist, sieht endlich seine Möglichkeit umfangreich
 an Herr Schmerz zu werken. Dabei möchte er neben der Verabreichung von
 Nitrolingual-Spray auch gleich einen venösen Zugang legen, da er das
 sowieso als ehemaliger Fleischhauer besser als jeder Arzt
-kann.\ |image|\ Ein blutiger Venflon vom Fleischhauer?Sebastian Gabriel
+kann.
+
+.. figure:: /Bilder/venflon_in_situ.jpg
+    :align: right
+    :width: 50%
+
+    Ein blutiger Venflon — vom Fleischhauer?
+    
+    [Sebastian Gabriel, MfG]
 
 Rechtsfrage
 -----------
@@ -530,7 +544,11 @@ er vor zwei Stunden eine Tablette eingenommen hätte und noch immer
 Natascha ein, die den Patienten oberflächlich untersucht und eine
 sofortige Nitro-Verabreichung zur Bekämpfung des hohen Blutdrucks ()
 anordnet, obwohl sie von Sepp über die gefundene Viagra-Packung
-informiert wurde.\ |image|\ Sebastian GabrielMfG
+informiert wurde.
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/emergency_physician_vehicle_00800.jpg
+
+    [Sebastian Gabriel, MfG]
 
 Rechtsfrage
 -----------
@@ -978,12 +996,14 @@ aufgeschnitten hat. Als Sepp beginnt sie zu versorgen, erzählt Frau
 Hilflos, dass ihr Leben “sowieso keinen Sinn mehr hat”, da sie ihr
 Freund mit angesteckt hat.
 
-|image|\ Sebastian Gabriel
+.. figure:: /Bilder/GabrielSebastian-Ccc/blut-tatort-jacke.jpg 
+
+    [Sebastian Gabriel, MfG]
 
 Rechtsfrage
 -----------
 
- Bei welchen Erkrankungen besteht eine Meldepflicht? In welchem Ausmaß
+Bei welchen Erkrankungen besteht eine Meldepflicht? In welchem Ausmaß
 besteht eine solche Meldepflicht?
 
 Rechtslage
@@ -1019,7 +1039,11 @@ weiteren Verletzungen eingeht, beginnt Frau Hilflos weinend zu
 berichten, dass ihr Freund sie öfters geschlagen hat und ihr mit dem Tod
 gedroht hat, falls sie die Polizei verständigen würde.
 
-|image|\ HämatomSebastian GabrielMfG
+.. figure:: /Bilder/trauma/haematom-fehlpunktion-001.jpg 
+
+    Hämatom
+    
+    [Sebastian Gabriel, MfG]
 
 Rechtsfrage
 -----------
@@ -1037,7 +1061,7 @@ die Sanitäter begründet.*
 Rechtsfolge
 -----------
 
- Natascha muss aufgrund ihrer gesetzlichen Anzeigepflicht die Polizei
+Natascha muss aufgrund ihrer gesetzlichen Anzeigepflicht die Polizei
 nachfordern, die zur Einbringung einer Anzeige den Sachverhalt aufnehmen
 wird. Dies muss sogar dann geschehen, wenn die Patientin selber keine
 Anzeige einbringen möchte.
@@ -1057,7 +1081,11 @@ Freund, begibt sich das RTW-Team erschöpft zum Stützpunkt zurück.
 Hungrig und müde quält sich die RTW-Mannschaft durch das alltägliche
 Wiener Verkehrschaos, als Sepp auf einmal meint: *“Geh, schalt doch das
 Hörndl und die Blitzer ei, damit dee uns endli Plotz machen und wir
-einrücken kännan!”* \ |image|\ Sebastian GabrielMfG
+einrücken kännan!”* 
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1896_00800.jpg
+
+    [Sebastian Gabriel, MfG]
 
 Rechtsfrage
 -----------

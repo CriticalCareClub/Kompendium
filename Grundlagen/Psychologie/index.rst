@@ -1,7 +1,7 @@
 
 
 ##########################################
-[PSI] Psychologie und psychische Betreuung
+Psychologie und psychische Betreuung
 ##########################################
 
 
@@ -36,14 +36,20 @@ Verantwortung zu übernehmen, Einfühlungsvermögen, Teamfähigkeit und
 einhergehende Belastung durch diese und andere Anforderungen und die
 daraus resultierenden Belastungen eingegangen.
 
+
+.. _Thema-beanspruchung-psi: 
+.. _Thema-belastung-psi:
+
 Beanspruchung/Belastung
 =======================
 
 Beschreibung
 ------------
 
-``!!! A !!!(Kurze Einführungsphase) Parallelen (Beanspruchungsdauer, -intensität) bzw. Unterschied zw. Mechanischer und psychischer Beanspruchung = interpersonelle Faktoren (Wahrnehmung, Coping, Expertise) vs. strukturelle Gegebenheiten (s.u.). ``
-[Thema-beanspruchung-psi] [Thema-belastung-psi]
+..
+    ``!!! A !!!(Kurze Einführungsphase) 
+    Parallelen (Beanspruchungsdauer, -intensität) bzw. Unterschied zw. Mechanischer und psychischer Beanspruchung = interpersonelle Faktoren (Wahrnehmung, Coping, Expertise) vs. strukturelle Gegebenheiten (s.u.). ``
+
 
 Unter dem Begriff :dfn:`Beanspruchung` versteht man in der
 Technik *“die Auswirkung einer äußeren Belastung auf das Innere eines
@@ -84,13 +90,16 @@ Tragen kommen und sollen im Folgenden besprochen werden.
 Belastungsfaktoren
 ==================
 
-``!!! A !!!- Mehrdeutige Situationen erhöhen erlebte Beanspruchung - Ruhe- und Alarmphasen - workflow, - Frustrane Erlebnisse (Vorwürfe von Patienten/Angehörige), - Erlebtes arbeitet emotional und kognitiv weiter, - Rollenkonflikte, - persönlich adäquate Balance zwischen professioneller verständnisvoller Haltung, strukturellen bzw. fachlichen Notwendigkeiten und persönlichen Grenzen u. Bedürfnissen.``
+.. ``!!! A !!!- Mehrdeutige Situationen erhöhen erlebte Beanspruchung - Ruhe- und Alarmphasen - workflow, - Frustrane Erlebnisse (Vorwürfe von Patienten/Angehörige), - Erlebtes arbeitet emotional und kognitiv weiter, - Rollenkonflikte, - persönlich adäquate Balance zwischen professioneller verständnisvoller Haltung, strukturellen bzw. fachlichen Notwendigkeiten und persönlichen Grenzen u. Bedürfnissen.``
 
 Beschreibung
 ------------
 
 Belastungsfaktoren kann man in die Bereiche Aufgabenstruktur, Rollen-
 und Interaktionsstruktur einteilen. [26]_
+
+.. [26]
+   :cite:`BengelPsyNotfallmedRd2-PsyBelRdPers`
 
 Aufgaben
 --------
@@ -250,6 +259,14 @@ Aufgaben eine hohe Bedeutung zuschreiben.
 
 -  Sozialer Zusammenhalt
 
+
+
+.. [27]
+   Gigsby & Mc New, 1988 zitiert nach :cite:`BengelPsyNotfallmedRd2-PsyBelRdPers`
+
+.. [28]
+   Udris, 1981 zitiert nach :cite:`BengelPsyNotfallmedRd2-PsyBelRdPers`
+
 **********************************************************
 Stress: Ursachen und Einflussfaktoren der Stressentstehung
 **********************************************************
@@ -262,7 +279,7 @@ Beschreibung
 
 **Stress ist die Summe körperlicher und psychischer Reaktionen, die
 durch die Wahrnehmung bestimmter Reize in unserer Umwelt bzw. innerhalb
-einer Person ausgelöst werden können (Zimbardo 1995).**
+einer Person ausgelöst werden können :cite:`ZimbardoPsych6`.**
 
 Das Phänomen Stress kann als Summe der Reaktionen auf die bewusste
 und/oder unbewusste Wahrnehmung äußerer Umweltreize oder
@@ -272,14 +289,51 @@ manifestieren. Aufgrund seiner Funktion, den Organismus auf eine
 Handlung vorzubereiten/in *Alarmbereitschaft* zu versetzen, ist er per
 se nicht als positiv oder negativ zu bewerten, sondern stellt eine
 *überlebenswichtige, evolutionär entstandene natürliche Reaktion*
-dar. [29]_
+dar. [29]_ 
 
-!!! PICTUREWIDE !!!
 
-[H] Stress hat, genauso wie Ruhephasen, eine wichtige Funktion. !!!
-SOURCEPICTURE !!! *Hirtler* |image|
 
- [30]_
+.. figure:: /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.pdf
+
+    Stress hat, genauso wie Ruhephasen, eine wichtige Funktion. 
+    
+    [Lena Hirtler, MfG]
+
+
+
+.. [29]
+   In jeder Sekunde strömen ca. 11 Millionen Reize auf unser
+   Nervensystem ein. Sie werden zunächst einer unbewussten Sofortanalyse
+   unterzogen. Dabei findet v.a. eine kognitiv-emotionalen Bewertung
+   statt.
+
+   V.a. neue, mit vorhandenen Mustern nicht übereinstimmende Reize
+   werden bewusst und sorgfaltig verarbeitet, indem wir ihnen
+   Aufmerksamkeit widmen und sie zur weiteren Bearbeitung im
+   Kurzzeitgedächtnis zwischengespeichert werden. Sowohl die *bewusst*,
+   als auch die *unbewusst* (subliminal, unterschwellig, also
+   tachistoskopisch, d.h. 1—5 lang dargebotene
+   Wahrnehmungen, Priming) *verarbeiteten Reize* wirken sich auf das
+   Verhalten aus (Verhaltenswirksamkeit). Dabei herrscht das Primat des
+   Affekts, d.h. Gefühle manifestieren sich oftmals vor der bewussten
+   Wahrnehmung, weil die Verarbeitung in limbischen Arealen (Amygdala,
+   Teil des Stammhirns = mit unbewussten Prozessen assoziiert) der
+   kortikalen Verarbeitung (Großhirnrinde = mit bewusster Wahrnehmung
+   assoziiert) vorausgeht. Dieser evolutionär entstandene Mechanismus
+   *bereitet* als *Frühwarnsystem* den Organismus *auf eventuellen Kampf
+   oder Flucht* (fight or flight) vor. Oberflächlich betrachtet stellt
+   Stress also eine *Aktivierung des Organismus* dar, die ihm helfen
+   soll ausreichende *Mittel zur Bewältigung einer Situation/eines
+   Problems zur Verfügung zu stellen* – was per se also nicht als gut
+   oder schlecht bewertet werden kann.
+
+Da es von Stress so viele Definitionen geben mag, wie
+Forscher die sich dem Phänomen gewidmet haben, sei hier auf eine
+erschöpfende Auflistung solcher verzichtet und stattdessen
+exemplarisch die wichtigsten Stressmodelle dargestellt. Es soll
+betont werden, dass die vorgestellten Theorien bewusst wenig
+detailreich und in nicht-chronologischer Reihenfolge ihrer Entstehung
+dargestellt sind, um das Verständnis zu erleichtern.
 
 Stressmodelle
 =============
@@ -288,7 +342,7 @@ Modell der Homöostase-Allostase
 -------------------------------
 
 
-Unter !!! TERMINUS !!! *Homöostase* versteht man ein (fiktives
+Unter :dfn:`Homöostase` versteht man ein (fiktives
 biopsychosoziales) *Gleichgewicht eines Individuums*; Stress kann dieses
 Gleichgewicht gefährden. [31]_
 
@@ -319,6 +373,18 @@ als unkontrollierbar erlebt werden sind z.B.
        Lebensereignisse, chronische oder besonders intensive Stressoren
        können zu Fehlregulationen und in weiterer Konsequenz zu
        pathologischen Veränderungen führen.
+
+
+
+.. [31]
+   Unter :dfn:`Allostase` :index:`\ <! Allostase>` versteht man einen *Regelkreis,
+   dessen Sollwert stärker verstellbar ist* als bei homöostatischen
+   Systemen; trotz äußerer Störfaktoren wird das innere Milieu dank
+   verschiedener *Anpassungsreaktionen* konstant gehalten; eine
+   Fehlregulation allostatischer Systeme durch zu *häufigen, intensiven
+   oder lange andauernden Stress (z.B. chronischer Stress) kann pathogen
+   wirken*, aufgrund langfristiger physiologischer Veränderungen.
+
 
 Gleichgewichtsmodell
 --------------------
@@ -405,7 +471,34 @@ eine Reaktions-/Alarmbereitschaft erzeugt, die ein adäquates Reagieren
 auf den Stressor ermöglichen soll, solange Ressourcen vorhanden
 sind. [32]_
 
-``!!! A !!!ZIMBARDO!!!``
+
+
+
+.. [32]
+   Allgemeines Adaptationssyndrom: Das Allgemeine Adaptationssyndrom
+   (Von Selye postuliert, zitiert nach :cite:`ZimbardoPsych6`) ist als eine
+   komplexe Antwort des Körpers zu verstehen, wenn die Homöostase des
+   Organismus durch Stressoren wie z.B. Gefahr, Lebensbedrohung,
+   Belästigung etc. gestört wird. Es gliedert sich in drei Phasen:
+
+   *Alarmphase*: diese ist unterteilt in Schock- und Gegenschockphase.
+   Schockphase: Herzfrequenz erhöht sich, Blutdruck und
+   Blutglucosespiegel sinken. Gegenschockphase: Sympathikus wird
+   aktiviert und ACTH ausgeschüttet.
+
+   *Widerstandsphase*: Aktivierung aller Energiereserven; erhöhte
+   Aktivierung des Sympathikus, Cortisol-Ausschüttung nimmt zu (wg.
+   ACTH-Freisetzung in der Alarmphase; kann zu einer kompensatorischen
+   Hypertrophie der Nebennierenrinde führen), Veränderung vegetativer
+   Parameter; Daueraktivierung des Sympathikus kann das Risiko von
+   Herz-Kreislauf-Erkrankungen erhöhen.
+
+   *Erschöpfungsphase*: Aufbrauchen der Reserven, Dekompensation der
+   Stressreaktion bei chronischem Stress, Immunsuppression aufgrund
+   dauernder Cortisol-Ausschüttung, Wachstum/Reparatur und
+   Reproduktionsfunktion sind gehemmt. Eine Erholungsphase ist
+   erforderlich um Ressourcen “aufzufüllen” und Wiederstand zu
+   ermöglichen.
 
 Psychoneuroendokrines Stressmodell
 ----------------------------------
@@ -413,16 +506,29 @@ Psychoneuroendokrines Stressmodell
 
 Je nach Stressor und dessen emotionaler Bewertung (Furcht, Ärger,
 Depression) initiiert der Körper spezifische biochemische
-Reaktionen [33]_. [34]_
+Reaktionen [33]_. 
+Zuerst erfolgt eine Verarbeitung
+im frontotemporalen Kortex (Aufmerksamkeit), dann erfolgt die
+emotionale Bewertung: *Furcht*: Anstieg des Adrenalin (basale
+Amygdala), *Ärger*: Anstieg des Noradrenalin und Testosteron
+(zentrale Amygdala), *Depression*: Anstieg des Cortisol, Abnahme des
+Testosteron (Hippocampus).
 
     -  Die Psychophysiologische Reaktion auf einen Reiz ist von dessen
        jeweiliger emotionaler Bewertung abhängig. Dementsprechend folgen
        spezifische biochemische Prozesse auf verschiedene Affekte.
 
+
+.. [33]
+   Psychoneuroendokrines Stressmodell: 
+   Von Henry :cite:`PlutchikEmotionVol3-NeuroendocrinePatterns` 
+   postuliert,
+   stellt es eine Differenzierung des Selye-Modells dar
+
+
+
 Diathese-Stress-Modell bzw. transaktionales Stressmodell
 --------------------------------------------------------
-
-
 
 Unter *Diathese* versteht man die angeborene bzw. erworbene
 Verletzlichkeit (Vulnerabilität) gegenüber Krankheitsauslösern, oder im
@@ -456,7 +562,7 @@ stressauslösende Situation zu bewältigen. [36]_.
 
 -  *Neubewertung* der Situation.
 
-``!!! A !!!ZIMBARDO!!!``
+    .. todo:: ``!!! A !!!ZIMBARDO!!!``
 
     -  Das Diathese-Stressmodell postuliert eine interindividuelle tw.
        angeborene, tw. sozialisierte Anfälligkeit für Stressgeschehen.
@@ -469,12 +575,56 @@ stressauslösende Situation zu bewältigen. [36]_.
  [38]_
 
 
+.. [35]
+   (Davison & Neale, 1988)
+
+.. [36]
+   *engl.* *to cope with*: fertig werden mit
+
+.. [37]
+   Diathese-Stress-Modell bzw. transaktionales Stressmodell: Unter
+   *Diathese* wird die angeborene bzw. erworbene Verletzlichkeit
+   (Vulnerabilität) gegenüber Krankheitsauslösern, oder im weiteren
+   Sinne auch Stressoren, verstanden, d.h. eine interindividuelle
+   Grundausstattung mit der Personen Stress begegnen und somit
+   anfälliger oder weniger anfällig für Stressfolgen sind. [Davison &
+   Neale, 1988]
+
+   Davon ausgehend erweitert das transaktionale Stressmodell [Lazarus &
+   Launier, 1981] diese Grundausstattung um den Begriff *Coping*,
+   worunter Verhalten verstanden wird, um eine stressauslösende
+   Situation zu bewältigen. D.h. nachdem ein Individuum eine
+   Bedrohung/Gefährdung antizipiert hat, bewertet es diese und versucht
+   gegebenenfalls mit ihr fertig zu werden (englisch to cope with =
+   fertig werden mit).
+
+.. [38]
+   Theorien Stressmodelle: Den vorgestellten Theorien entsprechend setzt
+   sich das Phänomen “Stress” also aus folgenden Komponenten zusammen:
+   dem ideellen *Gleichgewicht (Homöostase)* einer Person, das, abhängig
+   von ihrer *individuellen angeborenen bzw. erworbenen
+   Stressvulnerabilität, persönlichen Bewertungsprozessen* zur Relevanz
+   und der zur Verfügung stehenden Handlungsmöglichkeiten, von *einem
+   oder mehreren Reizen bedroht* wird *(=Stressoren)*. *Allostatische
+   Regelkreise* initiieren in mehrphasigem Ablauf etwaige
+   *Copingversuche* auf gedanklich-emotionaler oder Verhaltensebene,
+   erneute Bewertungsprozesse schätzen den Erfolg oder Misserfolg ein.
+   Intensive kritische oder chronisch belastende Situationen können
+   *Fehlregulationen* in Gang setzten, die pathologische Folgen haben
+   können (siehe Kapitel “Stressauswirkungen”).
+
+   Hervorgehoben werden soll, dass demzufolge die Bewertungsprozesse und
+   ein daran geknüpftes Gefühl der Handlungsmöglichkeit einen
+   maßgeblichen Einfluss auf das Stresserleben ausübt. Daraus
+   abgeleitete Implikationen zur positiven Stressbewältigung sollen in
+   den Kapiteln “Stressbewältigung” und “Grundsätze der
+   Stressvermeidung” behandelt werden.
+
+
 .. _Thema-unterforderung-psi:
 
 Aktivierung, Aktivierungsniveau, Überforderung, Unterforderung
 ==============================================================
-
-
 
 Mit dem Begriff Aktivierung ist ein allgemeiner Erregungszustand
 gemeint, der seinen Ausdruck in unterschiedlichen Gefühlszuständen (z.B.
@@ -615,6 +765,33 @@ Beanspruchungsfolgen
    nahe, da die Konfrontation mit hoffnungslos erscheinenden Situationen
    ein Gefühl der Hilflosigkeit erzeugen kann. [40]_
 
+
+.. [39]
+   *griech.* kynismós, wörtlich “Hündigkeit” im Sinne von “Bissigkeit”,
+   von *griech.* kyon, “Hund”) bezeichnete ursprünglich die
+   Lebensanschauung und -weise der antiken Kyniker (philosophische
+   Richtung der griechischen Antike, deren Zentrale Grundhaltung der
+   ethischen Skeptizismus darstellt.
+
+.. [40]
+   Dass eine zynische Grundhaltung nicht nur im zwischenmenschlichen
+   Bereich Probleme verursachen (z.B. durch neg. Bewertung durch
+   Menschen aufgrund wahrgenommener Feindseligkeit im Umgang
+   miteinander), sondern auch mit ungünstigen gesundheitlichen
+   Konsequenzen einhergehen kann, zeigt die folgende Untersuchung. Die
+   Studie “Hostility, the Metabolic Syndrome, and Incident Coronary
+   Heart Disease” (Niaura et al. 2002) ist dem Zusammenhang zwischen
+   Feindseligkeit und der Schwere koronarer Herzerkrankungen
+   nachgegangen. Zwei potentielle Wirkmechanismen wurden für den hohen
+   positiven Zusammenhang angenommen, nämlich, dass Personen mit hohen
+   Werten in dem Merkmal Feindseligkeit möglicherweise aufgrund ihrer
+   ablehnend-zynischen Einstellung von anderen Menschen weniger soziale
+   Unterstützung erfahren bzw. mit einem generell ungünstigen
+   psychosozialen Risikoprofil einhergehen, das durch mangelnde soziale
+   Unterstützung, häufige Ärgersituationen sowie fehlende
+   bewältigungsregulative Ressourcen gekennzeichnet ist.
+
+
 Pathologische Phänomene
 =======================
 
@@ -627,7 +804,7 @@ die Phänomene “Burnout” und “Traumafolgestörungen” eingegangen, da die
 Folgen chronischen bzw. besonders intensiven emotionalen
 Belastungsgeschehens darstellen können.
 
-``!!! A !!!Exkurs: Diagnosestellung``
+.. todo:: ``!!! A !!!Exkurs: Diagnosestellung``
 
 
 .. _Thema-burn-out:
@@ -688,6 +865,34 @@ Folgenden werden zwei unterschiedliche Abgrenzungsversuche dargestellt:
    -  Verminderung der immateriellen Entschädigung
 
    -  Verminderung der materiellen Entschädigung
+
+
+.. [41]
+   Burnout: Geprägt wurde der Begriff 1974 durch Psychoanalytiker
+   Freudenberger. Die Abgrenzung ist deshalb besonders schwierig, da es
+   sich dzt. noch um ein beforschtes Konstrukt handelt und die
+   differentialdiagnostische Abgrenzung zu ähnlichen, psychischen
+   Erkrankungen (v.a. depressiven Erkrankungen) sich als entsprechend
+   schwierig erweist, weswegen bisher nach ICD-10 (Deutsches Institut
+   für Medizinische Information und Dokumentation 2011) ausschließlich
+   die *Hilfsdiagnose Z73.0 “Ausgebranntsein”*, *“Zustand der totalen
+   Erschöpfung”* existiert.
+
+.. [42]
+   *“Burnout wird in Gang gesetzt durch Autonomieeinbußen in gestörten
+   Auseinandersetzungen des Individuums mit seiner Umwelt, genauer:
+   durch die innere Repräsentation solcher Interaktionen als gestörter
+   und das Scheitern bei ihrer Bewältigung”* [Burisch, 1994]
+
+.. [43]
+   *“ Burnout ist ein Syndrom emotionaler Erschöpfung,
+   Depersonalisierung und reduzierter persönlicher Leistungsfähigkeit,
+   das bei Individuen, die in irgendeiner Weise mit Menschen arbeiten,
+   auftreten kann”* [Maslach & Jackson, 1984]
+
+.. [44]
+   Maslach, 1982; Frieling & Sonntag, 1999; Bergner, 2003
+
 
 Symptome
 ^^^^^^^^
@@ -751,6 +956,11 @@ Symptomen bemerkbar machen. Man kann unterscheiden [45]_:
 
 -  Problematische Einstellung
 
+
+.. [45]
+   nach Schaufeli (1992), zitiert nach (Burisch 2006)
+
+
 Traumafolgestörungen
 --------------------
 
@@ -770,6 +980,10 @@ Traumatisierung sich gestalten können, sind im Folgenden Abschnitt die
 jeweiligen Diagnosebeschreibungen laut ICD-10 und phänomenolgischen
 Leitsymptome dargestellt (Deutsches Institut für Medizinische
 Information und Dokumentation 2011).
+
+
+.. [46]
+   Kilpatrick, Best, Veronen, Villeponteaux & Amick-Mc-Mullen, 1986
 
 Akute Belastungsreaktion (F43.0)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1003,7 +1217,9 @@ intensivieren, was von Betroffenen als sehr unangenehm und belastend
 erlebt wird. Im Sinne des Schutzes Betroffener lässt sich daraus eine
 erhöhte Vorsicht ableiten (siehe Posttraumatische Belastungsreaktion,
 Folgerungen für den Sanitätsdienst, v.a. Rücksichtnahme auf
-Vermeidungsverhalten). **Unter !!! TERMINUS !!!
+Vermeidungsverhalten). 
+
+**Unter !!! TERMINUS !!! 
 *Sekundärtraumatisierung* – auch induzierte oder das Phänomen der
 stellvertretende Traumatisierung (vicarious traumatisation) – beschreibt
 Veränderungen des inneren Erlebens von helfenden Professionisten als
@@ -1032,7 +1248,7 @@ Anzeichen einer Sekundärtraumatisierung sind
    Existentielle Krise und Erschütterung, Zweifel am Sinn von Leben,
    Leiden, Tod
 
-``!!! A !!!Keywords: Psychische/physische Ebene, erhöhte Vulnerabilität, Frustrationserleben (Reizbarkeit, gedrückte Stimmung), Zynismus, pathologische Phänomene v.a. Burnout und Traumafolgen (akute Belastungsreaktion, PTSD, Andauernde Persönlichkeitsänderung nach Extrembelastung), Retraumatisierung, Sekundärtraumatisierung.``
+.. todo::  !!! A !!!Keywords: Psychische/physische Ebene, erhöhte Vulnerabilität, Frustrationserleben (Reizbarkeit, gedrückte Stimmung), Zynismus, pathologische Phänomene v.a. Burnout und Traumafolgen (akute Belastungsreaktion, PTSD, Andauernde Persönlichkeitsänderung nach Extrembelastung), Retraumatisierung, Sekundärtraumatisierung.
 
 *****************
 Stressbewältigung
@@ -1041,13 +1257,15 @@ Stressbewältigung
 Das Copingkonzept
 =================
 
-**Stressbewältigung (!!! TERMINUS !!! *Coping*) ist der *“Prozess der
+**Stressbewältigung**  (:dfn:`Coping`) ist der *“Prozess der
 Handhabung jener externen oder internen Anforderungen, die vom
 Individuum als die eigenen Ressourcen beanspruchend oder übersteigend
-bewertet werden”*. [47]_ Bei !!! TERMINUS !!! *Copingstrategien* handelt
-es sich um *“alle *kognitiven, emotionalen und behaviouralen
+bewertet werden”*. [47]_ 
+Bei *Copingstrategien* handelt
+es sich um alle *kognitiven, emotionalen und behaviouralen
 Anstrengungen*, die dazu dienen *Belastung und Stress zu
-bewältigen*”*. [48]_** Nach Lazarus hat Coping hauptsächlich folgende
+bewältigen*. [48]_
+Nach Lazarus hat Coping hauptsächlich folgende
 *Aufgaben*:
 
 -  Den Einfluss schädigender Umweltbedingungen zu reduzieren und die
@@ -1079,6 +1297,14 @@ hängt von diversen Faktoren ab:
 -  Grad der subjektiven Bedeutsamkeit
 
 -  Persönliche Präferenzen aufgrund von Sozialisationserfahrungen
+
+
+.. [47]
+   Lazarus & Folkman (1984)
+
+.. [48]
+   Trautmann-Sponsel (1988)
+
 
 Aspekte des Copings
 -------------------
@@ -1119,7 +1345,7 @@ Fähigkeiten zu erweitern.
 Arten von Coping
 ----------------
 
-Folgende Arten von Coping lassen sich unterscheiden(Zimbardo 1995):
+Folgende Arten von Coping lassen sich unterscheiden:cite:`ZimbardoPsych6`:
 
 -  *Problemorientiertes Coping* Dieses umfasst alle Strategien des
    direkten Umgangs mit dem Stressor, d.h. hier versucht der Betroffene
@@ -1170,6 +1396,47 @@ Ressourcen bedroht werden, verloren gegangen sind oder fehlinvestiert
 wurden*, d.h. er sieht nicht Herausforderung, Bedrohung oder Schädigung,
 sondern das Erleben von Verlust als zentrale Eigenschaft von
 Stress. [49]_
+
+
+.. [49]
+   Die Theorie von Hobfoll (zitiert nach (Starke 2000)) stellt eine
+   modernere Alternative zu der Theorie von Lazarus dar bzw. kann auch
+   als deren Komplement angesehen werden. Sie stellt nicht die
+   Einschätzungen/Bewertungsprozesse, sondern die Stressbewältigung und
+   die Beweggründe dafür in den Fokus, d.h. es geht Hobfoll
+   hauptsächlich um Motivation und Coping, wofür er den Begriff der
+   Ressourcen prägt (siehe unten).
+
+   Er nimmt an, dass *Individuen danach streben, was sie wertschätzen*,
+   es erhalten und Verluste vermeiden bzw. minimieren wollen, wobei für
+   ihn die Vermeidung von Verlusten als stärkeres Motiv als das Streben
+   nach Zugewinnen gilt.
+
+   *Ableitungen aus seinen grundlegenden Annahmen*:
+
+   #. Ressourcen sind nicht zufällig verteilt. Menschen spielen eine
+      *aktive Rolle* darin, *über welche Ressourcen sie verfügen und wie
+      geschickt sie diese zum Einsatz bringen*.
+
+   #. Menschen *setzen Ressourcen* dazu ein, *um andere Ressourcen zu
+      erhalten*. Wer also über viele und gute Ressourcen verfügt, ist
+      gegenüber den Schicksalsschlägen des Lebens nicht nur besser
+      gewappnet, sondern kann auch immer mehr investieren, um immer mehr
+      zu gewinnen.
+
+   #. *Coping verursacht Kosten*, da Ressourcen zur Sicherung anderer
+      Ressourcen gebraucht werden.
+
+   #. *Gewinn und Verlust* von Ressourcen *erzeugen positive und
+      negative Spiralen*.
+
+   Die Theorie postuliert eine Wechselwirkung von Ressourcen,
+   Bedürfnissen, Belastungen, Werten, Zeit und Wahrnehmungen. Daraus
+   folgt eine mehr oder weniger gelungene Passung zwischen den
+   jeweiligen Anforderungen der Umwelt und den individuellen Reaktionen.
+   Wie Stress bewältigt wird, hängt demnach von dem Grad dieser Passung
+   innerhalb eines bestimmten ökologischen Kontextes ab.
+
 
 Ressourcen
 ----------
@@ -1282,7 +1549,7 @@ Folgerungen* ableiten:
    könnte als persönlicher „Thermometer“ einen Hinweis auf Stressfolgen
    (siehe auch: Sekundärtraumatisierung, Burnout) darstellen.
 
-``!!! A !!!Keywords: Stressbewältigung, Copingstrategien (Exkurs: Proaktives Coping), Theorie der Ressourcenerhaltung, Kohärenzgefühl, (Resilienz), (Abwehrmechanismen).``
+.. todo:: !!! A !!!Keywords: Stressbewältigung, Copingstrategien (Exkurs: Proaktives Coping), Theorie der Ressourcenerhaltung, Kohärenzgefühl, (Resilienz), (Abwehrmechanismen).
 
 *********************************************************************************************************************
 Grundsätze der Stressbewältigung im Sanitätsdienst, Maßnahmen zur Verhütung und Verminderung von Beanspruchungsfolgen
@@ -1293,34 +1560,40 @@ Im Sanitätsberuf lassen sich nach bestimmte Situationen identifizieren,
 die von vielen Professionisten als besonders unangenehm bewerten [50]_,
 z.B. Einsätze,
 
--  bei denen *Kinder* schwer verletzt worden sind,
+-   bei denen *Kinder* schwer verletzt worden sind,
 
--  bei denen die *Helfer selbst* in akute Gefahr geraten,
+-   bei denen die *Helfer selbst* in akute Gefahr geraten,
 
--  bei denen *Kollegen verletzt oder getötet* werden,
+-   bei denen *Kollegen verletzt oder getötet* werden,
 
--  bei denen die Opfer den Helfern *persönlich bekannt* sind,
+-   bei denen die Opfer den Helfern *persönlich bekannt* sind,
 
--  bei denen die Helfer einen anderen *persönlichen Bezug* zu den Opfern
-   herstellen,
+-   bei denen die Helfer einen anderen *persönlichen Bezug* zu den Opfern
+    herstellen,
 
--  in denen Helfer mit besonders schrecklichen Anblicken konfrontiert
-   werden,
+-   in denen Helfer mit besonders schrecklichen Anblicken konfrontiert
+    werden,
 
--  die sehr lang andauern und auch körperlich besonders beanspruchend
-   sind,
+-   die sehr lang andauern und auch körperlich besonders beanspruchend
+    sind,
 
--  die besonders tragisch sind, sowie
+-   die besonders tragisch sind, sowie
 
--  um Einsätze, die besonders dramatisch bzw. *dynamisch* und unter
-   besonders großem *Zeitdruck* ablaufen.
+-   um Einsätze, die besonders dramatisch bzw. *dynamisch* und unter
+    besonders großem *Zeitdruck* ablaufen.
 
 Häufig werden diese Situationen von einer psychophysischen Übererregung
-– im Sinne des oben beschriebenen Erregungsniveaus (siehe “Aktivierung”)
-– einhergehen, sodass das jeweilige Notfallgeschehen und die
-durchzuführenden Maßnahmen nicht mehr als durchaus positiv bewertete
-Herausforderung, sondern eher negativ, d.h. als eine Belastung bzw.
-Überforderung erlebt werden.
+
+–   im Sinne des oben beschriebenen Erregungsniveaus (siehe “Aktivierung”)
+–   einhergehen, sodass das jeweilige Notfallgeschehen und die
+    durchzuführenden Maßnahmen nicht mehr als durchaus positiv bewertete
+    Herausforderung, sondern eher negativ, d.h. als eine Belastung bzw.
+    Überforderung erlebt werden.
+
+
+.. [50]
+   Ungerer (1999), zitiert nach :cite:`Karutz200912`
+
 
 Indikation der psychologischen Selbsthilfe
 ==========================================
@@ -1334,15 +1607,19 @@ auf ihre eigene Befindlichkeit achten und ihre psychische Situation
 angemessen beurteilen, ohne sich selbst zu über- oder zu unterschätzen
 ”*\  [51]_.
 
+
+.. [51]
+   Lasogga & Karutz 2005, zitiert nach Karutz 2009
+
+
 Präventive Strategien
 =====================
-
 
 Die folgenden beschriebenen Strategien sollen vorwiegend darauf
 abzielen, *“die Handlungsfähigkeit eines Helfers in einer absoluten
 Ausnahmesituation und nur für eine relativ kurze Zeit aufrecht zu
 erhalten”* und dienen nicht generelle als langfristige Methoden zur
-Stressbewältigung (Karutz 2009).
+Stressbewältigung :cite:`Karutz200912`.
 
 Einstellung
 -----------
@@ -1355,13 +1632,19 @@ z.B. Erinnerungen an ähnliche Einsätze, die bereits erfolgreich
 bewältigt werden konnten nach dem Motto In anderen Fällen kann zumindest
 der Gedanke helfen. [53]_
 
-**Erwartungshaltung** :index:`\ <Erwartungshaltung>`: Überhöhte Erwartungen an das eigene
-Handeln können Anspannung und zusätzlichen Druck erzeugen. Extrem
-übersteigerte Anspruchshaltungen () können somit die Fehlerquote erhöhen
-(siehe Yerkes-Dodson-Gesetz). Zu akzeptieren, dass kleinere
-Unzulänglichkeiten passieren können, kann Druck nehmen und ermöglicht
+**Erwartungshaltung** :index:`\ <Erwartungshaltung>`: 
+Überhöhte Erwartungen an das eigene
+Handeln können Anspannung und zusätzlichen Druck erzeugen. 
+Extrem
+übersteigerte Anspruchshaltungen 
+(*"Ich will immer alles perfekt machen!"*) 
+können somit die Fehlerquote erhöhen
+(siehe Yerkes-Dodson-Gesetz). 
+Zu akzeptieren, dass kleinere
+Unzulänglichkeiten passieren können, k
+ann Druck nehmen und ermöglicht
 auch ein **Fehlerbewusstsein** :index:`\ <Fehlerbewusstsein>`: nämlich Fehlerquellen zu
-erkennen, zu analysieren und zu optimieren.. [54]_
+erkennen, zu analysieren und zu optimieren. [54]_
 
 Es wird immer Notfallsituationen geben, die trotz hoch engagierter und
 kompetenter Hilfeleistung kaum oder nicht beeinflussbar sind. Weiters
@@ -1373,6 +1656,18 @@ unter den gegebenen Bedingungen möglich ist – sie sollten sich aber auch
 zugestehen, dass dies in einigen Fällen nun einmal nicht ausreicht: *70
 bis 95 Prozent der Reanimationsversuche enden beispielsweise erfolglos*,
 so sehr man sich dies sicherlich anders wünschen würde”*\  [55]_.
+
+.. [52]
+   Ungerer, 1999 zitiert nach :cite:`Karutz200912`
+
+.. [53]
+   Lasogga & Karutz 2005, zitiert nach :cite:`Karutz200912`
+
+.. [54]
+   Karutz et al., 2003 zitiert nach :cite:`Karutz200912`
+
+.. [55]
+   Baskett, Stehen & Bossaert, 2006, zitiert nach :cite:`Karutz200912`
 
 Bewertung von Stress und Angst
 ------------------------------
@@ -1391,6 +1686,9 @@ können”*, d.h.. [56]_ Ebenso stellt das Erleben einer gewissen Angst ein
 evolutionär verankertes Frühwarnsystem dar, das Wachsamkeit und Vorsicht
 fördert und daher nicht generell als negativ bewertet werden sollte,
 sofern sie nicht lähmend wirkt.
+
+.. [56]
+   Lasogga & Karutz 2005, zitiert nach :cite:`Karutz200912`
 
 Kurzfristige Strategien
 -----------------------
@@ -1417,7 +1715,10 @@ ABC der Reanimation, die einzelnen Phasen der Traumaversorgung oder die
 Abarbeiten von Checklisten oder Algorithmen: Je mehr diese in der
 Ausbildung verinnerlicht worden sind, umso eher werden sie auch in einer
 Stresssituation noch angewendet bzw. automatisiert abgerufen werden
-können”* ((Karutz 2009)).
+können”* :cite:`Karutz200912`.
+
+.. [57]
+   Karutz , 2003 zitiert nach :cite:`Karutz200912`
 
 Mentale Vorbereitung, Alternativen planen (“Plan B”)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1426,7 +1727,7 @@ Gemeint ist damit, alternative Handlungsmöglichkeiten zu überlegen bzw.
 vorauszuplanen, eine Art Spickzettel mit möglichen Handlungen, die sich
 auch dann noch ausführen lassen, wenn alle andere Interventionen bereits
 ausgeschöpft wurden, um das Gefühl der Handhabbarkeit zu fördern. Ein
-solcher persönlicher Notfallplan kann laut (Karutz 2009) vor möglichen
+solcher persönlicher Notfallplan kann laut :cite:`Karutz200912` vor möglichen
 Gefühlen der Hilflosigkeit und Ohnmacht schützen, er führt folgende
 Beispiele an:
 
@@ -1444,16 +1745,23 @@ Beispiele an:
    persönliches Versagen interpretiert werden, eher handelt es sich um
    den Ausdruck realistischer Selbsteinschätzung”*\  [58]_.
 
+
+.. [58]
+   Karutz et al., 2003 zitiert nach Karutz, 2009
+
 Kognitive Umbewertung
 ^^^^^^^^^^^^^^^^^^^^^
 
 Wie aus dem transaktionalen Stressmodell ableiten lässt stellen
 Bewertungsprozesse bei der Verarbeitung von Stress einen wesentlichen
 Faktor dar: dies lässt sich auch auf Notfallsituationen anwenden, im
-Sinn eines positiven Umdeutens (Bengel and Heinrichs 2004) durch
-problemschwächende Interpretationen (z.B. “Eine solche Verletzung ist
-beim heutigen Stand der Medizin doch kein Problem mehr”) oder
-Realativierungen durch zeitliche und soziale Vergleiche (z.B. *“Im
+Sinn eines positiven Umdeutens :cite:`BengelPsyNotfallmedRd2-PsyBelRdPers` durch
+problemschwächende Interpretationen 
+(z.B. “Eine solche Verletzung ist
+beim heutigen Stand der Medizin doch kein Problem mehr”) 
+oder
+Realativierungen durch zeitliche und soziale Vergleiche 
+(z.B. *“Im
 Vergleich zu den anderen hatte ich großes Glück”*).
 
 Positive Selbstinstruktion
@@ -1462,17 +1770,21 @@ Positive Selbstinstruktion
 Sie stellt eine Möglichkeit zur emotionalen Selbstregulation dar.
 Gedanken, Vorstellungsbilder und gedankliche Selbstgespräche können
 innere Zustände verstärken oder abschwächen, im negativen wie im
-positiven. Sich selbst zu beruhigen (), Mut zuzusprechen (“Du schaffst
-das”), Trost zu spenden () kann helfen *“impulsive Reaktionen zu
+positiven. 
+Sich selbst zu beruhigen 
+(*"Keine Panik, nur die Ruhe"*), 
+Mut zuzusprechen (“Du schaffst das”), 
+Trost zu spenden (*"Jeder macht mal Fehler"*) kann helfen 
+*“impulsive Reaktionen zu
 unterdrücken [...], die eigene Aufmerksamkeit und Konzentration auf eine
 Aufgabe zu richten und Frustration und Misserfolg zu kontrollieren”*
-(Bengel and Heinrichs 2004).
+:cite:`BengelPsyNotfallmedRd2-PsyBelRdPers`.
 
-``!!! A !!!Gedankenstopp - Imagination: Damit ist gemeint, dass man die eigene Phantasie nutzt und sich hilfreiche Dinge vorstellt. Wer seine Rettungsdienstjacke bewusst anzieht und zuknöpft, kann sich z.B. gedanklich ausmalen, dass die Jacke – wie eine Rüstung oder eine Art Panzerung – auch einen psychischen Schutz bewirkt. Ebenso denkbar ist die Vorstellung eines unsichtbaren Helfers oder Beschützers. In diesem Zusammenhang können durchaus auch religiöse Vorstellungen hilfreich sein. Sich aufdrängende negative Gedanken lassen sich mit der Technik des Gedankenstopps unterbrechen. Auch dabei handelt es sich letztlich um ein imaginatives Verfahren.``
+.. todo:: !!! A !!!Gedankenstopp - Imagination: Damit ist gemeint, dass man die eigene Phantasie nutzt und sich hilfreiche Dinge vorstellt. Wer seine Rettungsdienstjacke bewusst anzieht und zuknöpft, kann sich z.B. gedanklich ausmalen, dass die Jacke – wie eine Rüstung oder eine Art Panzerung – auch einen psychischen Schutz bewirkt. Ebenso denkbar ist die Vorstellung eines unsichtbaren Helfers oder Beschützers. In diesem Zusammenhang können durchaus auch religiöse Vorstellungen hilfreich sein. Sich aufdrängende negative Gedanken lassen sich mit der Technik des Gedankenstopps unterbrechen. Auch dabei handelt es sich letztlich um ein imaginatives Verfahren.
 
-``!!! A !!!Wahrnehmung lenken: Vor besonders belastenden Anblicken sollten Helfer sich schützen, indem sie sich – so banal dies auch klingen mag – nach Möglichkeit abwenden und eben nicht hinsehen. In bestimmten Situationen, etwa wenn sich jemand in Anwesenheit von Einsatzkräften suizidiert, kann es sogar angebracht sein, sich die Augen, ggf. auch die Ohren zuzuhalten. Einer Person, die in Selbsttötungsabsicht vom Dach eines Gebäudes springt, sollte man nicht hinterher schauen usw. Wenn Situationen insgesamt als etwas sehr Unangenehmes erlebt werden, sollte man sich auch nicht länger am Ort des Geschehens aufhalten, als dies aus medizinisch-einsatztaktischen Gründen unbedingt notwendig ist. Extrem grausamen Anblicken (z.B. dem Anblick eines stark entstellten Mordopfers oder eines bis zur Unkenntlichkeit verbrannten Kindes) und ekelhaften Gerüchen (z.B. Verwesungsgeruch) muss man sich, sobald der Tod des Patienten zweifelsfrei festgestellt worden ist, ebenfalls nicht länger aussetzen. Darüber hinaus wird empfohlen, nicht in die Gesichter bzw. Augen von Verstorbenen zu schauen (2).``
+.. todo:: !!! A !!!Wahrnehmung lenken: Vor besonders belastenden Anblicken sollten Helfer sich schützen, indem sie sich – so banal dies auch klingen mag – nach Möglichkeit abwenden und eben nicht hinsehen. In bestimmten Situationen, etwa wenn sich jemand in Anwesenheit von Einsatzkräften suizidiert, kann es sogar angebracht sein, sich die Augen, ggf. auch die Ohren zuzuhalten. Einer Person, die in Selbsttötungsabsicht vom Dach eines Gebäudes springt, sollte man nicht hinterher schauen usw. Wenn Situationen insgesamt als etwas sehr Unangenehmes erlebt werden, sollte man sich auch nicht länger am Ort des Geschehens aufhalten, als dies aus medizinisch-einsatztaktischen Gründen unbedingt notwendig ist. Extrem grausamen Anblicken (z.B. dem Anblick eines stark entstellten Mordopfers oder eines bis zur Unkenntlichkeit verbrannten Kindes) und ekelhaften Gerüchen (z.B. Verwesungsgeruch) muss man sich, sobald der Tod des Patienten zweifelsfrei festgestellt worden ist, ebenfalls nicht länger aussetzen. Darüber hinaus wird empfohlen, nicht in die Gesichter bzw. Augen von Verstorbenen zu schauen (2).
 
-``!!! A !!!Atmung, Entspannungstechniken: Es gibt eine ganze Reihe von Entspannungstechniken, die durchaus auch in einem Einsatzgeschehen angewendet werden können und schon nach kurzer Zeit wirksam sind. Eine sehr einfache Methode ist das mehrfache tiefe Ein- und Ausatmen. Darüber hinaus können z.B. Elemente bzw. einzelne Übungen der progressiven Muskelrelaxation oder des Autogenen Trainings durchgeführt werden. Diese Entspannungstechniken müssen zuvor jedoch in entsprechenden Kursen erlernt und trainiert worden sein (7, 8).``
+.. todo:: !!! A !!!Atmung, Entspannungstechniken: Es gibt eine ganze Reihe von Entspannungstechniken, die durchaus auch in einem Einsatzgeschehen angewendet werden können und schon nach kurzer Zeit wirksam sind. Eine sehr einfache Methode ist das mehrfache tiefe Ein- und Ausatmen. Darüber hinaus können z.B. Elemente bzw. einzelne Übungen der progressiven Muskelrelaxation oder des Autogenen Trainings durchgeführt werden. Diese Entspannungstechniken müssen zuvor jedoch in entsprechenden Kursen erlernt und trainiert worden sein (7, 8).
 
 *Ressourcen vor Augen halten*: Im Sinne des Kohärenzgefühls bzw. der
 Theorie der Ressourcenerhaltung kann es helfen sich die persönlichen,
@@ -1481,27 +1793,31 @@ vermindern. *“So ist man bei einem Einsatz im Rettungsdienst
 üblicherweise niemals allein. Die Kameraden sind ebenfalls vor Ort, d.h.
 man arbeitet immer in einem Team. Zu den materiellen Ressourcen gehört
 die persönliche Schutzausrüstung, aber auch die Ausstattung des
-Einsatzfahrzeuges. Im günstigsten Fall kann man sich sagen: *´Ich bin
-gut gerüstet, jetzt kann es losgehen!´*”* (Karutz, 2009).
+Einsatzfahrzeuges. 
+Im günstigsten Fall kann man sich sagen: 
+*"Ich bin
+gut gerüstet, jetzt kann es losgehen!"* :cite:`Karutz200912`.
 
 *Zeitliche Grenzen verdeutlichen*: Einsätze haben einen zeitlichen
 Rahmen, d.h. sie haben einen Beginn, aber ebene auch bei komplexeren
-Einsätzen (selbst Großschadenslagen) – ein Ende. *“In der Regel sind
+Einsätzen (selbst Großschadenslagen) – ein Ende. 
+*“In der Regel sind
 Einsätze […] innerhalb weniger Stunden abgeschlossen. Man ist den
 jeweiligen Belastungen also nicht ewig, sondern lediglich für einen
 definierten Zeitraum ausgesetzt. Dies sollte man sich bewusst vor Augen
-führen”* (Karutz 2009).
+führen”* :cite:`Karutz200912`.
 
 *Zusätzliche Stressoren meiden*: Wenn die Belastung durch das Notfalls
 geschehen ohnehin schon spürbar hoch ist, gilt es zusätzliche
 Belastungsfaktoren zu minimieren bzw. auszuweichen um das
 Erregungsniveau auf angenehmen bzw. leistungsfähigem Level zu halten.
-(Karutz 2009) prägt hier den Begriff der “hilfreiche Langsamkeit”, d.h.
+:cite:`Karutz200912` prägt hier den Begriff der “hilfreiche Langsamkeit”, d.h.
 “gerade wenn man es eilig hat, eben nicht wie bei einem sportlichen
 Wettkampf zu rennen”, zum Einsatzort zu “rasen”, den Funk im Fahrzeug
 nicht unnötig laut einzustellen sowie Äußerungen zu vermeiden, mit denen
-man Hektik erzeugt (z.B. , *“Gas, Gas, Gas! Wir müssen vor dem NEF da
-sein!”*.
+man Hektik erzeugt 
+(z.B. , *“Gas, Gas, Gas! Wir müssen vor dem NEF da
+sein!”*).
 
 Langfristige Strategien
 -----------------------
@@ -1517,7 +1833,7 @@ auf neuerliche Stresssituationen vorzubereiten. Während der Relaxation
 werden Entspannungsreaktionen eingeleitet, die komplementär zur
 Stressreaktion von physiologischen Prozessen begleitet werden, nämlich
 dem Sinken der Muskelspannung, der kortikalen Aktivität, der
-Herzfrequenz, des Blutdrucks und der Atmung (Zimbardo 1995). Auf
+Herzfrequenz, des Blutdrucks und der Atmung :cite:`ZimbardoPsych6`. Auf
 psychischer Ebene werden Wohlbefinden, Zufriedenheitsgefühle, Gefühle
 der Gelassenheit sowie Selbstwahrnehmung gefördert. Unterstützt kann
 dies durch div. Entspannungstechniken (progressiven Muskelrelaxation,
@@ -1545,7 +1861,7 @@ mit den ursprünglichen Ereignissen in Bezug gesetzt werden.
 Die unmittelbarste Möglichkeit affektive Erregungszustände abzuführen
 ist, sie durch gezielte Selbstbeobachtung (in sich hören,
 Körperwahrnehmung) zu identifizieren, innerlich zuzulassen und im
-Idealfall auch auszudrücken. Bengel (Bengel and Heinrichs 2004) betont,
+Idealfall auch auszudrücken. Bengel :cite:`BengelPsyNotfallmedRd2-PsyBelRdPers` betont,
 dass gereizte-aggressive unkontrollierte Emotionsäußerungen ineffektiv
 sind und es wichtig wäre “unangenehme Gefühle in einer kontrollierten
 und für die Umwelt sozial verträglichen Art und Weise abzureagieren”.
@@ -1578,7 +1894,7 @@ konditionierter Reiz wird.
 Unterstützung durch die Umwelt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Zimbardo (Zimbardo 1995) verweist auf die Bedeutung sozialer
+Zimbardo :cite:`ZimbardoPsych6` verweist auf die Bedeutung sozialer
 Unterstützung bei der Stressbewältigung und meint damit *“Ressourcen,
 die von anderen Personen bereitgestellt werden [...]”*. Beispielhaft
 zählt er materielle Hilfen, emotionale Unterstützung (Fürsorge,
@@ -1592,39 +1908,149 @@ Förderung des Kohärenzgefühls (erweitertes Handlungsrepertoire durch die
 Gemeinschaft) und im Rahmen gemeinsamer Gestaltungsmöglichkeiten der
 Freizeit- und Erholungsphasen.
 
-``!!! A !!!Rationalisieren Zu dieser Strategie gehört, dass man die Notfallsituation bzw. das Einsatzgeschehen möglichst sachlich und nüchtern betrachtet. Medizinisch-technische, insgesamt eher abstrakte Überlegungen rücken dabei in den Vordergrund, während emotionale Aspekte bewusst ausgeklammert werden. Zwar sind Notfallpatienten eben keine defekten Maschinen, die mit Vitalfunktionsmechanik lediglich repariert werden müssen, sondern Menschen, deren spezifische psychische Situation bei der Hilfeleistung angemessen zu berücksichtigen ist (6). In bestimmten Einzelfällen (!) – nämlich dann, wenn ein Helfer ansonsten handlungsunfähig würde – kann es allerdings sehr wohl angebracht sein, z.B. ausschließlich auf das Polytrauma, den Herzinfarkt oder die Reanimation zu fokussieren.``
+.. todo:: Rationalisieren Zu dieser Strategie gehört, dass man die Notfallsituation bzw. das Einsatzgeschehen möglichst sachlich und nüchtern betrachtet. Medizinisch-technische, insgesamt eher abstrakte Überlegungen rücken dabei in den Vordergrund, während emotionale Aspekte bewusst ausgeklammert werden. Zwar sind Notfallpatienten eben keine defekten Maschinen, die mit Vitalfunktionsmechanik lediglich repariert werden müssen, sondern Menschen, deren spezifische psychische Situation bei der Hilfeleistung angemessen zu berücksichtigen ist (6). In bestimmten Einzelfällen (!) – nämlich dann, wenn ein Helfer ansonsten handlungsunfähig würde – kann es allerdings sehr wohl angebracht sein, z.B. ausschließlich auf das Polytrauma, den Herzinfarkt oder die Reanimation zu fokussieren.
 
-``!!! A !!!Humor Gerade der Umgang mit schwierigen Situationen kann durch eine humorvolle Betrachtung erleichtert werden (Humor ist, wenn man trotzdem lacht). Mitunter wird Humor sogar explizit als Mechanismus zur Abwehr von Stressreaktionen bezeichnet (2, 9). In diesem Zusammenhang ist jedoch niemals Schadenfreude, Ironie oder Sarkasmus gemeint, sondern Humor als Ausdruck der Fähigkeit, auch schwierigen und bedrohlichen Situationen mit innerer Distanz, Ruhe und Gelassenheit zu begegnen. In diesem Sinne kann Humor sogar als Ausdruck von Hoffnung und Trost verstanden werden. Banale Witzeleien erfüllen diese Funktion eher nicht. Auch dass die humorvolle Betrachtung einer Notfallsituation nicht mit Verhaltensweisen der Helfer verbunden sein darf, die Notfallpatienten, Angehörige oder andere Betroffene zusätzlich belasten, versteht sich sicherlich von selbst.``
+.. todo:: Humor Gerade der Umgang mit schwierigen Situationen kann durch eine humorvolle Betrachtung erleichtert werden (Humor ist, wenn man trotzdem lacht). Mitunter wird Humor sogar explizit als Mechanismus zur Abwehr von Stressreaktionen bezeichnet (2, 9). In diesem Zusammenhang ist jedoch niemals Schadenfreude, Ironie oder Sarkasmus gemeint, sondern Humor als Ausdruck der Fähigkeit, auch schwierigen und bedrohlichen Situationen mit innerer Distanz, Ruhe und Gelassenheit zu begegnen. In diesem Sinne kann Humor sogar als Ausdruck von Hoffnung und Trost verstanden werden. Banale Witzeleien erfüllen diese Funktion eher nicht. Auch dass die humorvolle Betrachtung einer Notfallsituation nicht mit Verhaltensweisen der Helfer verbunden sein darf, die Notfallpatienten, Angehörige oder andere Betroffene zusätzlich belasten, versteht sich sicherlich von selbst.
 
-``!!! A !!!Ablenkung Indem man sich auf die Durchführung einer einzelnen Maßnahme konzentriert (z.B. auf das Vorbereiten einer Infusion oder das Blutdruckmessen), können belastende Aspekte des Notfallgeschehens zumindest vorübergehend ausgeblendet werden. Auch leises Summen, das Aufsagen von Schüttelreimen (Fischers Fritz fischt frische Fische, Frische Fische fischt Fischers Fritz) oder das Durchgehen des kleinen Einmaleins kann von belastenden Eindrücken ablenken. Das bewusste Zählen oder Benennen von Gegenständen im Umfeld hat ebenfalls eine solche Wirkung. Wenn es dazu beiträgt, insgesamt handlungsfähig zu bleiben, kann sogar ein kurzzeitiges mentales Fremdgehen legitim sein, d.h. ein gedankliches Aussteigen, bei dem man für einen Augenblick absichtlich an etwas anderes denkt.``
+.. todo:: Ablenkung Indem man sich auf die Durchführung einer einzelnen Maßnahme konzentriert (z.B. auf das Vorbereiten einer Infusion oder das Blutdruckmessen), können belastende Aspekte des Notfallgeschehens zumindest vorübergehend ausgeblendet werden. Auch leises Summen, das Aufsagen von Schüttelreimen (Fischers Fritz fischt frische Fische, Frische Fische fischt Fischers Fritz) oder das Durchgehen des kleinen Einmaleins kann von belastenden Eindrücken ablenken. Das bewusste Zählen oder Benennen von Gegenständen im Umfeld hat ebenfalls eine solche Wirkung. Wenn es dazu beiträgt, insgesamt handlungsfähig zu bleiben, kann sogar ein kurzzeitiges mentales Fremdgehen legitim sein, d.h. ein gedankliches Aussteigen, bei dem man für einen Augenblick absichtlich an etwas anderes denkt.
 
-``!!! A !!!Abb. 4: Eine Möglichkeit der psychologischen Selbsthilfe: Konzentration auf die Durchführung einer einzelnen Maßnahme, z.B. auf das Vorbereiten einer Infusion``
+.. todo:: Abb. 4: Eine Möglichkeit der psychologischen Selbsthilfe: Konzentration auf die Durchführung einer einzelnen Maßnahme, z.B. auf das Vorbereiten einer Infusion
 
-``!!! A !!!Abb. 3: Die meisten Helfer funktionieren auch in stressigen Situationen und benötigen an der Einsatzstelle keine psychologische Unterstützung``
+.. todo:: Abb. 3: Die meisten Helfer funktionieren auch in stressigen Situationen und benötigen an der Einsatzstelle keine psychologische Unterstützung
 
-``!!! A !!!Abb. 5: Auch Kollegen können helfen – mit kleinen Gesten, einem kurzen Blickkontakt oder einer aufmunternden Äußerung``
+.. todo:: Abb. 5: Auch Kollegen können helfen – mit kleinen Gesten, einem kurzen Blickkontakt oder einer aufmunternden Äußerung
 
-``!!! A !!!Die Auseinandersetzung mit den hier beschriebenen Selbsthilfestrategien ist übrigens schon allein deshalb sinnvoll, weil sie verdeutlicht, dass man auch bei starker Belastung durchaus etwas tun kann, um einem drohenden Verlust der persönlichen Handlungsfähigkeit entgegen zu wirken. Erwähnt werden soll auch, dass allein das Wissen um solche Mechanismen hilfreich ist. Wer über Selbsthilfestrategien informiert ist, wird sie womöglich schon deshalb nicht mehr benötigen. Dies ist mit dem Verfassen eines Spickzettels in der Schule vergleichbar: Wer solch eine Merkhilfe erst einmal verfasst hat, kommt erstaunlicherweise meist ohne sie aus.``
+.. todo:: Die Auseinandersetzung mit den hier beschriebenen Selbsthilfestrategien ist übrigens schon allein deshalb sinnvoll, weil sie verdeutlicht, dass man auch bei starker Belastung durchaus etwas tun kann, um einem drohenden Verlust der persönlichen Handlungsfähigkeit entgegen zu wirken. Erwähnt werden soll auch, dass allein das Wissen um solche Mechanismen hilfreich ist. Wer über Selbsthilfestrategien informiert ist, wird sie womöglich schon deshalb nicht mehr benötigen. Dies ist mit dem Verfassen eines Spickzettels in der Schule vergleichbar: Wer solch eine Merkhilfe erst einmal verfasst hat, kommt erstaunlicherweise meist ohne sie aus.
 
-``!!! A !!!Supervision: Exkurs: Supervision - ein Tabu? Abhängig von der Organisations- und Teamkultur kann Supervision auch als erstes Anzeichen einer Überforderung, Schwäche etc. fehlinterpretiert bzw. assoziiert werden. Tatsächlich drückt Supervision ein gesundheitsförderliches Verhalten und bewusst verantwortliches Engagement für den Beruf aus, ein fairer Handel auf sein eigenes Wohlbefinden und seine Gesundheit zu achten und in Austausch dafür der Organisation seine unbeeinträchtigte berufliche Leistungsfähigkeit verfügbar machen.``
+.. todo:: Supervision: Exkurs: Supervision - ein Tabu? Abhängig von der Organisations- und Teamkultur kann Supervision auch als erstes Anzeichen einer Überforderung, Schwäche etc. fehlinterpretiert bzw. assoziiert werden. Tatsächlich drückt Supervision ein gesundheitsförderliches Verhalten und bewusst verantwortliches Engagement für den Beruf aus, ein fairer Handel auf sein eigenes Wohlbefinden und seine Gesundheit zu achten und in Austausch dafür der Organisation seine unbeeinträchtigte berufliche Leistungsfähigkeit verfügbar machen.
 
-.. admonition:: 
- 
-  ``!!! A !!!Stressbewältigung Es gibt verschiedene Möglichkeiten der Stressreduktion und Stressbewältigung: • Stressmanagement: Förderung kognitiver bzw. emotionsbezogene Copingstrategien • Körperliche Stressbewältigung, z.B. durch Aerobes Training • Entspannungsverfahren • Humor • Soziale Stressbewältigung: soziale Unterstützung • Psychische Stressbewältigung, personale Ressourcen • Anwendung von Widerstandsressourcen vor dem Hintergrund eines Kohärenzgefühl als Lebenseinstellung (ANTONOVSKY), d.h. beispielsweise Probleme als Herausforderungen ansehen • Resilienz • Günstige Kontrollüberzeugungen (Attributionsstile) • Hohe Selbstwirksamkeitserwartung • Biofeedback``
+.. todo:: !!! A !!!Stressbewältigung Es gibt verschiedene Möglichkeiten der Stressreduktion und Stressbewältigung: • Stressmanagement: Förderung kognitiver bzw. emotionsbezogene Copingstrategien • Körperliche Stressbewältigung, z.B. durch Aerobes Training • Entspannungsverfahren • Humor • Soziale Stressbewältigung: soziale Unterstützung • Psychische Stressbewältigung, personale Ressourcen • Anwendung von Widerstandsressourcen vor dem Hintergrund eines Kohärenzgefühl als Lebenseinstellung (ANTONOVSKY), d.h. beispielsweise Probleme als Herausforderungen ansehen • Resilienz • Günstige Kontrollüberzeugungen (Attributionsstile) • Hohe Selbstwirksamkeitserwartung • Biofeedback
 
-.. note:: 
-  ``!!! A !!!Keywords: Präventive, kurzfristige Strategien (Psychologische Selbsthilfe), Langfristige Strategien: personenenbezogen: Erholungsphasen, Selbsbeobachtung, Ablenkung, Rituale (z.B. aus der Rolle aussteigen), (Entlastung durch zwischenmenschliche Ressourcen, soziale Unterstützung), (Selbstbild vs. Ansprüche: Erkennen und Umgang mit eigenen Schwächen, Zulassen von Schwächen), (Dysfunktionale Strategien - Verhaltenssüchte); organisatorisch: Umgangsregeln im Teamkultur (Kommunikations- und Umgangsregeln), Kohärenzgefühl durch Kompetenz (Fortbildung), (Supervision), (CISM). ``
+.. todo:: Keywords: Präventive, kurzfristige Strategien (Psychologische Selbsthilfe), Langfristige Strategien: personenenbezogen: Erholungsphasen, Selbsbeobachtung, Ablenkung, Rituale (z.B. aus der Rolle aussteigen), (Entlastung durch zwischenmenschliche Ressourcen, soziale Unterstützung), (Selbstbild vs. Ansprüche: Erkennen und Umgang mit eigenen Schwächen, Zulassen von Schwächen), (Dysfunktionale Strategien - Verhaltenssüchte); organisatorisch: Umgangsregeln im Teamkultur (Kommunikations- und Umgangsregeln), Kohärenzgefühl durch Kompetenz (Fortbildung), (Supervision), (CISM). 
 
-.. note:: 
-  ``!!! A !!!Psychologische Grundbegriffe``
+.. todo:: Psychologische Grundbegriffe
 
-(Antonovsky 1997; Bengel and Heinrichs 2004; Bergner 2004; Burisch 1994;
-Burisch 2006; Davison and Neale 1988; Deutsches Institut für
-Medizinische Information und Dokumentation 2011; Freudenberger 1974; E.
-and Kh. 1999; Henry 1986; Karutz 2009; Lazarus and Launier 1981; Lazarus
-and Folkman 1984; Maslach 1982; Maslach and Jackson 1984; Niaura et al.
-2002; Starke 2000; Trautmann-Sponsel 1988; Yerkes and Dodson 1908;
-Zimbardo 1995)
+
+..
+    LaTeX-Quellen: 
+    % \cite{AntonovskySalutogenese}:
+    % \bibentry{AntonovskySalutogenese} \\ 
+    % % Antonovsky, A. (1997). Salutogenese: zur
+    % % Entmystifizierung der Gesundheit. Dt. erw. Hrsg. von Alexa Franke. Deutsche
+    % % Gesllschaft für Verhaltenstherapie. Tübingen: Dgvt-Verl.
+    % 
+    % \cite{BengelPsyNotfallmedRd2-PsyBelRdPers}:
+    % \bibentry{BengelPsyNotfallmedRd2-PsyBelRdPers} \\ 
+    % % Bengel, J. \& Heinrichs, M. (2004). Psychische
+    % % Belastungen des Rettungspersonals. In J. Bengel (Hrsg.), Psychologie in
+    % % Notfallmedizin und Rettungsdienst (2. Auflage; S. 25-43).
+    % % Berlin: Springer.
+    % 
+    % \cite{BergnerBurnOutAerzten9}:
+    % \bibentry{BergnerBurnOutAerzten9} \\ 
+    % % Bergner, Thomas (2004). Burn-out bei Ärzten:
+    % % Lebensaufgabe statt Lebens-Aufgabe, 9,  S. 410.
+    % 
+    % \cite{BurischBurnOut2}: \bibentry{BurischBurnOut2} \\
+    % % Burisch, M. (1994). Das Burnout-Syndrom – Theorie
+    % % der inneren Erschöpfung (2. Auflage). Berlin: Springer.
+    % 
+    % \cite{BurischBurnOut3}: \bibentry{BurischBurnOut3} \\
+    % % Burisch, M. (2006). Das Burnout Syndrom – Theorie
+    % % der inneren Erschöpfung (3., überarbeitete Auflage). Berlin:
+    % % Springer.
+    % 
+    % \cite{DavisonKlinPsy1988}: \bibentry{DavisonKlinPsy1988} \\
+    % % Davison, G. C. \& Neale, J. M. (1988): Klinische
+    % % Psychologie. 3. Auflage. München: PVU. Deutsches Institut
+    % % für Medizinische Dokumentation und Information (2011).
+    % 
+    % \cite{ICD10-De-2011}
+    % 
+    % \cite{Freudenberger1974}: \bibentry{Freudenberger1974} \\
+    % % Freudenberger, H. J. (1974). Staff Burn-Out. Journal of
+    % % Social Issues, Vol. 30 (1), 159–165.
+    % 
+    % \cite{FrielingLehrbArbeitspsy2}:
+    % \bibentry{FrielingLehrbArbeitspsy2} \\ 
+    % % Frieling E. \& Sonntag Kh. (1999). Lehrbuch
+    % % Arbeitspsychologie (2. vollst. überarb. Und erweiterte
+    % % Aufl.). Bern: Huber.
+    % 
+    % \cite{PlutchikEmotionVol3-NeuroendocrinePatterns}:
+    % \bibentry{PlutchikEmotionVol3-NeuroendocrinePatterns} \\
+    % % Henry, J. P. (1986). Neuroendocrine patterns of emotional response. In Plutchik H. \& Kellerman H. (Hrsg.), Emotion:
+    % % Theory, Research and Experiences (Vol. 3; S. 37-60), San
+    % % Diego: Academic Press.
+    % 
+    % \cite{Karutz200912}: \bibentry{Karutz200912} \\
+    % % Karutz, H. (2009). Wenn die Belastungsgrenze erreicht ist:
+    % % Psychologische Selbsthilfe in Extremsituationen.
+    % % Rettungsdienst, 12, 40-45.
+    % 
+    % \cite{NitschStress-StressTransakt}:
+    % \bibentry{NitschStress-StressTransakt} \\ 
+    % % Lazarus, R. S. \& Launier, R (1981). Stressbezogene
+    % % Transaktion zwischen Person und Umwelt. In Nitsch, J. R.
+    % % (Hrsg.), Stress, Theorien, Untersuchungen, Maßnahmen (S.
+    % % 213-260). Bern: Huber.
+    % 
+    % \cite{LazarusStress}: \bibentry{LazarusStress} \\
+    % % Lazarus, R.S. \& Folkman, S. (1984). Stress, appraisal, and
+    % % coping. New York: Springer.
+    % 
+    % \cite{MaslachBurnout}: \bibentry{MaslachBurnout} \\
+    % % Maslach, C. (1982). Burnout. The Cost of Caring. Englewood
+    % % Cliffs, NJ: Prentice-Hall.
+    % 
+    % \cite{OskampAppSocPsyAnn84-BurnOrgSett}:
+    % \bibentry{OskampAppSocPsyAnn84-BurnOrgSett} \\ 
+    % % Maslach, C. \& Jackson, S. E. (1984). Burnout in
+    % % organizational settings. In S. Oskamp (Hrsg.), Applied
+    % % Social Psychology Annual (S. 133-153). Beverly Hills, CA:
+    % % Sage.
+    % 
+    % \cite{Niaura2002}: \bibentry{Niaura2002} \\
+    % % Niaura, R., Todaro, J. F., Stroud, L., Spiro, A., Ward, K.
+    % % D., \& Weiss, S. (2002). Hostility, the metabolic syndrome,
+    % % and incident coronary heart disease. Health Psychology, Vol.
+    % % 21(6), 588-593. 
+    % 
+    % 
+    % \cite{StarkeMedSozAspProbBew00}: \bibentry{StarkeMedSozAspProbBew00} \\
+    % % Starke, D. (2000). Medizinsoziologie. Kognitive, emotionale
+    % % und soziale Aspekte menschlicher Problembewältigung: ein
+    % % Beitrag zur aktuellen Stressforschung. Münster: LIT.
+    % 
+    % \cite{BruederlBelastung88-DefBew}: \bibentry{BruederlBelastung88-DefBew} \\
+    % % Trautmann-Sponsel, R. D. (1988): Definition und Abgrenzung
+    % % des Begriffs Bewältigung. In L. Brüderl (Hrsg.), Belastung
+    % % und Bewältigung: Trends in der Bewältigungsforschung (S.
+    % % 14--24). München: Juventa.  
+    % 
+    % \cite{Yerkes1908}: \bibentry{Yerkes1908} \\
+    % % Yerkes, R.M. \& Dodson, J.D (1908). The relation of strength
+    % % of stimulus to rapidity of habit-formation. Journal of
+    % % Comparative Neurology and Psychology, 18, 459-482.
+    % 
+    % \cite{ZimbardoPsych6}: \bibentry{ZimbardoPsych6} \\
+    % % Zimbardo, G.  (1995). Psychologie (6. Auflage). Berlin:
+    % % Springer.
+    \cite{AntonovskySalutogenese,BengelPsyNotfallmedRd2-PsyBelRdPers,
+    BergnerBurnOutAerzten9, BurischBurnOut2, BurischBurnOut3,
+    DavisonKlinPsy1988, ICD10-De-2011, Freudenberger1974,
+    FrielingLehrbArbeitspsy2,
+    PlutchikEmotionVol3-NeuroendocrinePatterns, Karutz200912,
+    NitschStress-StressTransakt, LazarusStress, MaslachBurnout,
+    OskampAppSocPsyAnn84-BurnOrgSett, Niaura2002,
+    StarkeMedSozAspProbBew00, Bruede
+    (Antonovsky 1997; Bengel and Heinrichs 2004; Bergner 2004; Burisch 1994;
+    Burisch 2006; Davison and Neale 1988; Deutsches Institut für
+    Medizinische Information und Dokumentation 2011; Freudenberger 1974; E.
+    and Kh. 1999; Henry 1986; Karutz 2009; Lazarus and Launier 1981; Lazarus
+    and Folkman 1984; Maslach 1982; Maslach and Jackson 1984; Niaura et al.
+    2002; Starke 2000; Trautmann-Sponsel 1988; Yerkes and Dodson 1908;
+    Zimbardo 1995)
 
 *******************************************
 Psychische Betreuung von Kranken/Verletzten
@@ -1633,276 +2059,12 @@ Psychische Betreuung von Kranken/Verletzten
 .. rubric:: Querverweise
 
 
-  -  Gesprächsführung, Beziehungsaufbau: :ref:`Thema-kommunikationsregeln`
+-  Gesprächsführung, Beziehungsaufbau: :ref:`Thema-kommunikationsregeln`
 
-  -  Begleitung Sterbender: :ref:`Thema-sterbende-betreuung`
+-  Begleitung Sterbender: :ref:`Thema-sterbende-betreuung`
 
-  -  Umgang mit psychiatrischen Patienten: :ref:`Thema-umgang-psy`
+-  Umgang mit psychiatrischen Patienten: :ref:`Thema-umgang-psy`
 
 -----
 
 
-.. [26]
-   (Bengel and Heinrichs 2004)
-
-.. [27]
-   Gigsby & Mc New, 1988 zitiert nach (Bengel 2004)
-
-.. [28]
-   Udris, 1981 zitiert nach (Bengel 2004)
-
-.. [29]
-   In jeder Sekunde strömen ca. 11 Millionen Reize auf unser
-   Nervensystem ein. Sie werden zunächst einer unbewussten Sofortanalyse
-   unterzogen. Dabei findet v.a. eine kognitiv-emotionalen Bewertung
-   statt.
-
-   V.a. neue, mit vorhandenen Mustern nicht übereinstimmende Reize
-   werden bewusst und sorgfaltig verarbeitet, indem wir ihnen
-   Aufmerksamkeit widmen und sie zur weiteren Bearbeitung im
-   Kurzzeitgedächtnis zwischengespeichert werden. Sowohl die *bewusst*,
-   als auch die *unbewusst* (subliminal, unterschwellig, also
-   tachistoskopisch, d.h. !!! VONBIS !!!15 lang dargebotene
-   Wahrnehmungen, Priming) *verarbeiteten Reize* wirken sich auf das
-   Verhalten aus (Verhaltenswirksamkeit). Dabei herrscht das Primat des
-   Affekts, d.h. Gefühle manifestieren sich oftmals vor der bewussten
-   Wahrnehmung, weil die Verarbeitung in limbischen Arealen (Amygdala,
-   Teil des Stammhirns = mit unbewussten Prozessen assoziiert) der
-   kortikalen Verarbeitung (Großhirnrinde = mit bewusster Wahrnehmung
-   assoziiert) vorausgeht. Dieser evolutionär entstandene Mechanismus
-   *bereitet* als *Frühwarnsystem* den Organismus *auf eventuellen Kampf
-   oder Flucht* (fight or flight) vor. Oberflächlich betrachtet stellt
-   Stress also eine *Aktivierung des Organismus* dar, die ihm helfen
-   soll ausreichende *Mittel zur Bewältigung einer Situation/eines
-   Problems zur Verfügung zu stellen* – was per se also nicht als gut
-   oder schlecht bewertet werden kann.
-
-.. [30]
-   Stress: Da es von Stress so viele Definitionen geben mag, wie
-   Forscher die sich dem Phänomen gewidmet haben, sei hier auf eine
-   erschöpfende Auflistung solcher verzichtet und stattdessen
-   exemplarisch die wichtigsten Stressmodelle dargestellt. Es soll
-   betont werden, dass die vorgestellten Theorien bewusst wenig
-   detailreich und in nicht-chronologischer Reihenfolge ihrer Entstehung
-   dargestellt sind, um das Verständnis zu erleichtern.
-
-.. [31]
-   Unter :dfn:`Allostase` :index:`\ <! Allostase>` versteht man einen *Regelkreis,
-   dessen Sollwert stärker verstellbar ist* als bei homöostatischen
-   Systemen; trotz äußerer Störfaktoren wird das innere Milieu dank
-   verschiedener *Anpassungsreaktionen* konstant gehalten; eine
-   Fehlregulation allostatischer Systeme durch zu *häufigen, intensiven
-   oder lange andauernden Stress (z.B. chronischer Stress) kann pathogen
-   wirken*, aufgrund langfristiger physiologischer Veränderungen.
-
-.. [32]
-   Allgemeines Adaptationssyndrom: Das Allgemeine Adaptationssyndrom
-   (Von Selye postuliert, zitiert nach (Zimbardo 1995)) ist als eine
-   komplexe Antwort des Körpers zu verstehen, wenn die Homöostase des
-   Organismus durch Stressoren wie z.B. Gefahr, Lebensbedrohung,
-   Belästigung etc. gestört wird. Es gliedert sich in drei Phasen:
-
-   *Alarmphase*: diese ist unterteilt in Schock- und Gegenschockphase.
-   Schockphase: Herzfrequenz erhöht sich, Blutdruck und
-   Blutglucosespiegel sinken. Gegenschockphase: Sympathikus wird
-   aktiviert und ACTH ausgeschüttet.
-
-   *Widerstandsphase*: Aktivierung aller Energiereserven; erhöhte
-   Aktivierung des Sympathikus, Cortisol-Ausschüttung nimmt zu (wg.
-   ACTH-Freisetzung in der Alarmphase; kann zu einer kompensatorischen
-   Hypertrophie der Nebennierenrinde führen), Veränderung vegetativer
-   Parameter; Daueraktivierung des Sympathikus kann das Risiko von
-   Herz-Kreislauf-Erkrankungen erhöhen.
-
-   *Erschöpfungsphase*: Aufbrauchen der Reserven, Dekompensation der
-   Stressreaktion bei chronischem Stress, Immunsuppression aufgrund
-   dauernder Cortisol-Ausschüttung, Wachstum/Reparatur und
-   Reproduktionsfunktion sind gehemmt. Eine Erholungsphase ist
-   erforderlich um Ressourcen “aufzufüllen” und Wiederstand zu
-   ermöglichen.
-
-.. [33]
-   Psychoneuroendokrines Stressmodell: Von Henry (1986) postuliert,
-   stellt es eine Differenzierung des Selye-Modells dar
-
-.. [34]
-   Psychoneuroendokrines Stressmodell: Zuerst erfolgt eine Verarbeitung
-   im frontotemporalen Kortex (Aufmerksamkeit), dann erfolgt die
-   emotionale Bewertung: *Furcht*: Anstieg des Adrenalin (basale
-   Amygdala), *Ärger*: Anstieg des Noradrenalin und Testosteron
-   (zentrale Amygdala), *Depression*: Anstieg des Cortisol, Abnahme des
-   Testosteron (Hippocampus)
-
-.. [35]
-   (Davison & Neale, 1988)
-
-.. [36]
-   *engl.* *to cope with*: fertig werden mit
-
-.. [37]
-   Diathese-Stress-Modell bzw. transaktionales Stressmodell: Unter
-   *Diathese* wird die angeborene bzw. erworbene Verletzlichkeit
-   (Vulnerabilität) gegenüber Krankheitsauslösern, oder im weiteren
-   Sinne auch Stressoren, verstanden, d.h. eine interindividuelle
-   Grundausstattung mit der Personen Stress begegnen und somit
-   anfälliger oder weniger anfällig für Stressfolgen sind. [Davison &
-   Neale, 1988]
-
-   Davon ausgehend erweitert das transaktionale Stressmodell [Lazarus &
-   Launier, 1981] diese Grundausstattung um den Begriff *Coping*,
-   worunter Verhalten verstanden wird, um eine stressauslösende
-   Situation zu bewältigen. D.h. nachdem ein Individuum eine
-   Bedrohung/Gefährdung antizipiert hat, bewertet es diese und versucht
-   gegebenenfalls mit ihr fertig zu werden (englisch to cope with =
-   fertig werden mit).
-
-.. [38]
-   Theorien Stressmodelle: Den vorgestellten Theorien entsprechend setzt
-   sich das Phänomen “Stress” also aus folgenden Komponenten zusammen:
-   dem ideellen *Gleichgewicht (Homöostase)* einer Person, das, abhängig
-   von ihrer *individuellen angeborenen bzw. erworbenen
-   Stressvulnerabilität, persönlichen Bewertungsprozessen* zur Relevanz
-   und der zur Verfügung stehenden Handlungsmöglichkeiten, von *einem
-   oder mehreren Reizen bedroht* wird *(=Stressoren)*. *Allostatische
-   Regelkreise* initiieren in mehrphasigem Ablauf etwaige
-   *Copingversuche* auf gedanklich-emotionaler oder Verhaltensebene,
-   erneute Bewertungsprozesse schätzen den Erfolg oder Misserfolg ein.
-   Intensive kritische oder chronisch belastende Situationen können
-   *Fehlregulationen* in Gang setzten, die pathologische Folgen haben
-   können (siehe Kapitel “Stressauswirkungen”).
-
-   Hervorgehoben werden soll, dass demzufolge die Bewertungsprozesse und
-   ein daran geknüpftes Gefühl der Handlungsmöglichkeit einen
-   maßgeblichen Einfluss auf das Stresserleben ausübt. Daraus
-   abgeleitete Implikationen zur positiven Stressbewältigung sollen in
-   den Kapiteln “Stressbewältigung” und “Grundsätze der
-   Stressvermeidung” behandelt werden.
-
-.. [39]
-   *griech.* kynismós, wörtlich “Hündigkeit” im Sinne von “Bissigkeit”,
-   von *griech.* kyon, “Hund”) bezeichnete ursprünglich die
-   Lebensanschauung und -weise der antiken Kyniker (philosophische
-   Richtung der griechischen Antike, deren Zentrale Grundhaltung der
-   ethischen Skeptizismus darstellt.
-
-.. [40]
-   Dass eine zynische Grundhaltung nicht nur im zwischenmenschlichen
-   Bereich Probleme verursachen (z.B. durch neg. Bewertung durch
-   Menschen aufgrund wahrgenommener Feindseligkeit im Umgang
-   miteinander), sondern auch mit ungünstigen gesundheitlichen
-   Konsequenzen einhergehen kann, zeigt die folgende Untersuchung. Die
-   Studie “Hostility, the Metabolic Syndrome, and Incident Coronary
-   Heart Disease” (Niaura et al. 2002) ist dem Zusammenhang zwischen
-   Feindseligkeit und der Schwere koronarer Herzerkrankungen
-   nachgegangen. Zwei potentielle Wirkmechanismen wurden für den hohen
-   positiven Zusammenhang angenommen, nämlich, dass Personen mit hohen
-   Werten in dem Merkmal Feindseligkeit möglicherweise aufgrund ihrer
-   ablehnend-zynischen Einstellung von anderen Menschen weniger soziale
-   Unterstützung erfahren bzw. mit einem generell ungünstigen
-   psychosozialen Risikoprofil einhergehen, das durch mangelnde soziale
-   Unterstützung, häufige Ärgersituationen sowie fehlende
-   bewältigungsregulative Ressourcen gekennzeichnet ist.
-
-.. [41]
-   Burnout: Geprägt wurde der Begriff 1974 durch Psychoanalytiker
-   Freudenberger. Die Abgrenzung ist deshalb besonders schwierig, da es
-   sich dzt. noch um ein beforschtes Konstrukt handelt und die
-   differentialdiagnostische Abgrenzung zu ähnlichen, psychischen
-   Erkrankungen (v.a. depressiven Erkrankungen) sich als entsprechend
-   schwierig erweist, weswegen bisher nach ICD-10 (Deutsches Institut
-   für Medizinische Information und Dokumentation 2011) ausschließlich
-   die *Hilfsdiagnose Z73.0 “Ausgebranntsein”*, *“Zustand der totalen
-   Erschöpfung”* existiert.
-
-.. [42]
-   *“Burnout wird in Gang gesetzt durch Autonomieeinbußen in gestörten
-   Auseinandersetzungen des Individuums mit seiner Umwelt, genauer:
-   durch die innere Repräsentation solcher Interaktionen als gestörter
-   und das Scheitern bei ihrer Bewältigung”* [Burisch, 1994]
-
-.. [43]
-   *“ Burnout ist ein Syndrom emotionaler Erschöpfung,
-   Depersonalisierung und reduzierter persönlicher Leistungsfähigkeit,
-   das bei Individuen, die in irgendeiner Weise mit Menschen arbeiten,
-   auftreten kann”* [Maslach & Jackson, 1984]
-
-.. [44]
-   Maslach, 1982; Frieling & Sonntag, 1999; Bergner, 2003
-
-.. [45]
-   nach Schaufeli (1992), zitiert nach (Burisch 2006)
-
-.. [46]
-   Kilpatrick, Best, Veronen, Villeponteaux & Amick-Mc-Mullen, 1986
-
-.. [47]
-   Lazarus & Folkman (1984)
-
-.. [48]
-   Trautmann-Sponsel (1988)
-
-.. [49]
-   Die Theorie von Hobfoll (zitiert nach (Starke 2000)) stellt eine
-   modernere Alternative zu der Theorie von Lazarus dar bzw. kann auch
-   als deren Komplement angesehen werden. Sie stellt nicht die
-   Einschätzungen/Bewertungsprozesse, sondern die Stressbewältigung und
-   die Beweggründe dafür in den Fokus, d.h. es geht Hobfoll
-   hauptsächlich um Motivation und Coping, wofür er den Begriff der
-   Ressourcen prägt (siehe unten).
-
-   Er nimmt an, dass *Individuen danach streben, was sie wertschätzen*,
-   es erhalten und Verluste vermeiden bzw. minimieren wollen, wobei für
-   ihn die Vermeidung von Verlusten als stärkeres Motiv als das Streben
-   nach Zugewinnen gilt.
-
-   *Ableitungen aus seinen grundlegenden Annahmen*:
-
-   #. Ressourcen sind nicht zufällig verteilt. Menschen spielen eine
-      *aktive Rolle* darin, *über welche Ressourcen sie verfügen und wie
-      geschickt sie diese zum Einsatz bringen*.
-
-   #. Menschen *setzen Ressourcen* dazu ein, *um andere Ressourcen zu
-      erhalten*. Wer also über viele und gute Ressourcen verfügt, ist
-      gegenüber den Schicksalsschlägen des Lebens nicht nur besser
-      gewappnet, sondern kann auch immer mehr investieren, um immer mehr
-      zu gewinnen.
-
-   #. *Coping verursacht Kosten*, da Ressourcen zur Sicherung anderer
-      Ressourcen gebraucht werden.
-
-   #. *Gewinn und Verlust* von Ressourcen *erzeugen positive und
-      negative Spiralen*.
-
-   Die Theorie postuliert eine Wechselwirkung von Ressourcen,
-   Bedürfnissen, Belastungen, Werten, Zeit und Wahrnehmungen. Daraus
-   folgt eine mehr oder weniger gelungene Passung zwischen den
-   jeweiligen Anforderungen der Umwelt und den individuellen Reaktionen.
-   Wie Stress bewältigt wird, hängt demnach von dem Grad dieser Passung
-   innerhalb eines bestimmten ökologischen Kontextes ab.
-
-.. [50]
-   Ungerer (1999), zitiert nach (Karutz 2009)
-
-.. [51]
-   Lasogga & Karutz 2005, zitiert nach Karutz 2009
-
-.. [52]
-   Ungerer, 1999 zitiert nach Karutz, 2009
-
-.. [53]
-   Lasogga & Karutz 2005, zitiert nach (Karutz 2009)
-
-.. [54]
-   Karutz et al., 2003 zitiert nach (Karutz 2009)
-
-.. [55]
-   Baskett, Stehen & Bossaert, 2006, zitiert nach (Karutz 2009)
-
-.. [56]
-   Lasogga & Karutz 2005, zitiert nach (Karutz 2009)
-
-.. [57]
-   Karutz , 2003 zitiert nach (Karutz 2009)
-
-.. [58]
-   Karutz et al., 2003 zitiert nach Karutz, 2009

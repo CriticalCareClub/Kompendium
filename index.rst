@@ -27,7 +27,7 @@ Plan P
 
 .. only:: html
 
-    .. image:: /Bilder/Logos/Logo-4-StarOfLife-2.png
+    .. image:: /Bilder/Logos/Logo-10b-StarOfLife.png
         :align: center
         :width: 50%
 
@@ -49,7 +49,40 @@ Plan P
    Pharmakopeia/index
    Appendix/index
 
+-----
 
+******************
+Logovorschläge
+******************
+
+
+.. image:: /Bilder/Logos/Logo-4-StarOfLife-1.png
+    :align: center
+    :width: 50%
+
+
+.. image:: /Bilder/Logos/Logo-4-StarOfLife-2.png
+    :align: center
+    :width: 50%
+
+
+.. image:: /Bilder/Logos/Logo-4-Aesculap-1-50dpi.png
+    :align: center
+
+.. image:: /Bilder/Logos/Logo-10-StarOfLife-50dpi.png
+    :align: center
+    :width: 50%
+
+.. image:: /Bilder/Logos/Logo-11-Aesculap.png
+    :align: center
+    :width: 50%
+
+
+.. image:: /Bilder/Logos/Logo-10b-StarOfLife.png
+    :align: center
+    :width: 50%
+    
+-----
 
 *********
 Literatur
@@ -67,25 +100,7 @@ Literatur
 .. bibliography:: Leitlinien.bib
     :style: plain
     :labelprefix: L-
-            
------
 
-.. rubric:: Logovorschläge:
-
-
-
-.. image:: /Bilder/Logos/Logo-4-StarOfLife-1.png
-    :align: center
-    :width: 50%
-
-
-.. image:: /Bilder/Logos/Logo-4-StarOfLife-2.png
-    :align: center
-    :width: 50%
-
-
-.. image:: /Bilder/Logos/Logo-4-Aesculap-1-50dpi.png
-    :align: center
 
 -----
 

@@ -812,7 +812,7 @@ Belastungsgeschehens darstellen können.
 Burnout
 -------
 
- Eine genaue Definitionen des Burnout-Syndroms im Sinne
+Eine genaue Definitionen des Burnout-Syndroms im Sinne
 einer Diagnose nach Klassifikationssystem ist schwierig. [41]_ Im
 Folgenden werden zwei unterschiedliche Abgrenzungsversuche dargestellt:
 
@@ -1040,23 +1040,23 @@ plötzlichen akuten schweren oder lebensbedrohlichen Erkrankungen hoch
 einzuschätzen. Entsprechend der Symptomatik könnten folgende
 Verhaltensregeln von Vorteil sein:
 
--  einfache, kurze Anweisungen/Erklärungen,
+-   einfache, kurze Anweisungen/Erklärungen,
 
--  strukturierende Gesprächsführung,
+-   strukturierende Gesprächsführung,
 
--  ruhiger Tonfall und beruhigender Umgang,
+-   ruhiger Tonfall und beruhigender Umgang,
 
--  Vermitteln von Sicherheit und Orientierungshilfen anbieten,
+-   Vermitteln von Sicherheit und Orientierungshilfen anbieten,
 
--  Aufmerksamkeit aufs Hier und Jetzt lenken
+-   Aufmerksamkeit aufs Hier und Jetzt lenken
 
-– alles nach dem Motto: *“Begleiten, aber nicht aufdrängen”*, denn es
-handelt sich um eine *normale Reaktion* auf eine *unnormale Situation*
-und in der Regel verfügen die Betroffenen über
-*Selbstregulationsmechanismen* zur Bewältigung. Ggfs. kann auch auf
-weitere professionelle Hilfestellung (Krisenintervention, Psychosozialer
-Dienst, Klinischer Psychologie, Psychotherapie, telefonische Seelsorge
-etc.) verwiesen werden.
+–   alles nach dem Motto: *“Begleiten, aber nicht aufdrängen”*, denn es
+    handelt sich um eine *normale Reaktion* auf eine *unnormale Situation*
+    und in der Regel verfügen die Betroffenen über
+    *Selbstregulationsmechanismen* zur Bewältigung. Ggfs. kann auch auf
+    weitere professionelle Hilfestellung (Krisenintervention, Psychosozialer
+    Dienst, Klinischer Psychologie, Psychotherapie, telefonische Seelsorge
+    etc.) verwiesen werden.
 
 Analog verhält es sich mit dem Umgang, sollten Sanitäter selbst davon
 betroffen sein, wobei hier etwaige Anzeichen wahrscheinlich eher nach
@@ -1068,14 +1068,16 @@ professionellen Hilfe zur Verfügung, sollte sich bei der/dem Betroffenen
 keine Erleichterung einstellen. Eine entsprechende Teamkultur, diese
 Hilfestellungen auch selbstverständlich zu nutzen, wäre günstig.
 
+.. _Thema-ptss:
+
 Posttraumatische Belastungsstörung (F43.1)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
- *Syn.* *Postraumatisches* :index:`\ <Stresssyndrom!postraumatisches>`
+*Syn.* *Postraumatisches* :index:`\ <Stresssyndrom!postraumatisches>`
 Stresssyndrom (*PTSS*), *engl.* *Post Traumatic Stress Disorder*
 (*PTSD*)
 
-[Thema-ptss] Diese entsteht als eine protrahierte bzw. *verzögerte
+Diese entsteht als eine protrahierte bzw. *verzögerte
 Reaktion auf ein belastendes Ereignis* oder eine Situation kürzerer oder
 längerer Dauer, mit außergewöhnlicher Bedrohung oder katastrophenartigem
 Ausmaß, die bei fast jedem eine tiefe Verzweiflung hervorrufen würde.
@@ -1583,12 +1585,11 @@ z.B. Einsätze,
     besonders großem *Zeitdruck* ablaufen.
 
 Häufig werden diese Situationen von einer psychophysischen Übererregung
-
-–   im Sinne des oben beschriebenen Erregungsniveaus (siehe “Aktivierung”)
-–   einhergehen, sodass das jeweilige Notfallgeschehen und die
-    durchzuführenden Maßnahmen nicht mehr als durchaus positiv bewertete
-    Herausforderung, sondern eher negativ, d.h. als eine Belastung bzw.
-    Überforderung erlebt werden.
+im Sinne des oben beschriebenen Erregungsniveaus (siehe “Aktivierung”)
+einhergehen, sodass das jeweilige Notfallgeschehen und die
+durchzuführenden Maßnahmen nicht mehr als durchaus positiv bewertete
+Herausforderung, sondern eher negativ, d.h. als eine Belastung bzw.
+Überforderung erlebt werden.
 
 
 .. [50]
@@ -1643,7 +1644,8 @@ können somit die Fehlerquote erhöhen
 Zu akzeptieren, dass kleinere
 Unzulänglichkeiten passieren können, k
 ann Druck nehmen und ermöglicht
-auch ein **Fehlerbewusstsein** :index:`\ <Fehlerbewusstsein>`: nämlich Fehlerquellen zu
+auch ein **Fehlerbewusstsein** 
+:index:`\ <Fehlerbewusstsein>`: nämlich Fehlerquellen zu
 erkennen, zu analysieren und zu optimieren. [54]_
 
 Es wird immer Notfallsituationen geben, die trotz hoch engagierter und
@@ -1653,8 +1655,8 @@ einem Gefühl der Überverantwortlichkeit durch eine realistische
 Einschätzung der Handlungsmöglichkeiten vorgebeugt werden.
 *“Rettungsdienstmitarbeiter können das tun, was menschlich bzw. fachlich
 unter den gegebenen Bedingungen möglich ist – sie sollten sich aber auch
-zugestehen, dass dies in einigen Fällen nun einmal nicht ausreicht: *70
-bis 95 Prozent der Reanimationsversuche enden beispielsweise erfolglos*,
+zugestehen, dass dies in einigen Fällen nun einmal nicht ausreicht: 70
+bis 95 Prozent der Reanimationsversuche enden beispielsweise erfolglos,
 so sehr man sich dies sicherlich anders wünschen würde”*\  [55]_.
 
 .. [52]

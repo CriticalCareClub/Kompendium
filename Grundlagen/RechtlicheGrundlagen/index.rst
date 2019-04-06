@@ -1175,10 +1175,12 @@ ist, um welche Person es sich bei dem Patienten handelt
 (*Anonymisierung*). Ebenso dürfen Geheimnisse weitergegeben werden, wenn
 der Patient das Fachpersonal von der *Schweigepflicht entbunden* hat.
 
+.. _thema-auskunftspflicht:
+
 Informationspflichten
 ---------------------
 
--  :dfn:`:Auskunftspflicht`: :ref:`Thema-auskunftspflicht`
+-  :dfn:`:Auskunftspflicht`:
    Geheimnisse *müssen* unter bestimmten Umständen weitergegeben werden.
    Dies geschieht für Sanitäter im Rahmen der sog. [87]_ in folgenden
    Fällen:

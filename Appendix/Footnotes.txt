@@ -127,37 +127,3 @@
 
 .. [307]
    Die Stärke des elektrischen Stromes wird in Ampere (A) gemessen.
-
-.. [308]
-   (Die Messung des Blutzucker mit einer Lanzette war früher umstritten,
-   da manche Rettungsorganisationen davon ausgingen, dass es sich um
-   einen nicht dem Sanitäter erlaubten Eingriff am menschlichen Körper
-   handelt. Dieser Streit wurde durch eine Novellierung des SanG gelöst,
-   indem man die Blutzuckermessung für den Sanitäter ausdrücklich
-   zuließ.)
-
-.. [309]
-   Gefahr in Verzug: *unmittelbar* drohende oder gegenwärtige Gefahr,
-   die ein Abwarten nicht zulässt bzw. unmittelbares Handeln verlangt
-
-.. [310]
-   Enteral: den Darm betreffend.
-
-.. [311]
-   “Bader”: früher Kundiger der Heilbäder, heute umgangssprachlich für
-   Arzt
-
-.. [312]
-   §§!!! VONBIS !!!912 SanG
-
-.. [313]
-   Grundlagen des Schadensersatzanspruches: Allgemein nach §§1293ff ABGB
-   und speziell für den Fall der Körperverletzung nach §§!!! VONBIS
-   !!!13251327 ABGB
-
-.. [314]
-   Grundlagen des Schadensersatzanspruches: Allgemein nach §§1293ff ABGB
-   und speziell für den Fall der Sachbeschädigung §1331 ABGB
-
-.. [315]
-   *Hämatom:* Bluterguss.

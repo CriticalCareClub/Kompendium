@@ -4212,12 +4212,6 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 
 
 ..
-
-
-	
-
-	
-
 	.. figure:: /Bilder/PallingerChristoph-Ccc/Beatmungsmaske_32906_v2-AASS-0112mm.jpg
 	.. figure:: /Bilder/PallingerChristoph-Ccc/Mundstuecke_32723-AASS-0112mm.jpg
 	.. figure:: /Bilder/HirtlerLena-Ccc/CGriff.*
@@ -4385,12 +4379,12 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/trauma/combustio-sa-02-hand.jpg
 	.. figure:: /Bilder/trauma/combustio-sa-03-escharotomie.jpg
 	.. figure:: /Bilder/trauma/notbrause2.jpg
-	.. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.jpg
+	
 	.. figure:: /Bilder/venflon_in_situ.jpg
-	.. figure:: /Bilder/GabrielSebastian-Ccc/emergency_physician_vehicle_00800.jpg
-	.. figure:: /Bilder/GabrielSebastian-Ccc/blut-tatort-jacke.jpg
-	.. figure:: /Bilder/trauma/haematom-fehlpunktion-001.jpg
-	.. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1896_00800.jpg
+	
+	
+	
+	
 	.. figure:: /Bilder/MotalMichael-Ccc/medi-kontrolle_4807-00800.jpg
 	.. figure:: /Bilder/MotalMichael-Ccc/medi-aufziehen_4815-00800.jpg
 	.. figure:: /Bilder/MotalMichael-Ccc/medi-kontrollieren_4824-00800.jpg

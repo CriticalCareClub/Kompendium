@@ -32,51 +32,11 @@ Sie orientiert sich daher an folgenden Bereichen:
 
 
 
-
------
-
 .. toctree::
-    :caption: Allgemeines
-    :maxdepth: 2
+    :maxdepth: 1
+    :caption: Inhalt
 
-    Allgemein-DefinitionenUndOrientierung/index
-    Allgemein-StrukturellerAufbau/index
-    Allgemein-StuetzUndBewegunsapparat/index
-
------
-
-.. toctree::
-    :caption: Regionen
-    :maxdepth: 2
-
-    Region-Schaedel/index
-    Region-Thorax/index
-    Region-Wirbelsaeule/index
-    Region-ObereExtremitaet/index
-    Region-UntereExtremitaet/index
-    Region-Abdomen/index
-    
------
-
-
-.. toctree::
-    :caption: Organsysteme
-    :maxdepth: 2
-
-    Organsystem-Respiration/index
-    Organsystem-Kreislauf/index
-    Organsystem-Nervensystem/index
-    Organsystem-Sinnesorgane/index
-    Organsystem-Gastrointestinaltrakt/index
-    Organsystem-Geschlechtsorgane/index
-
------ 
-
-.. toctree::
-    :caption: Systeme
-    :maxdepth: 2
-
-    System-Vitalfunktionen/index
-    System-Stoffwechsel/index
-
-
+    Allgemeines/index
+    Regionen/index
+    Organsysteme/index
+    FunktionelleSysteme/index

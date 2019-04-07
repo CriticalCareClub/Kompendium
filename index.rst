@@ -9,25 +9,17 @@
 .. role:: raw-latex(raw)
    :format: latex
 
-.. title:: Plan P
+.. title:: CCCA Kompendium
 
-###############
-Plan P
-###############
+#############################################
+Kompendium des Critical Care Club Austria
+#############################################
 
-.. only:: html
-
-    *Ein* **p**\ *ragmatisches Kompendium des Critical Care Club Austria*
-
-
-.. epigraph::
-
-   saluti et solatio aegrorum
 
 
 .. only:: html
 
-    .. image:: /Bilder/Logos/Logo-4-StarOfLife-2.png
+    .. image:: /Bilder/Logos/Logo-10b-StarOfLife.png
         :align: center
         :width: 50%
 
@@ -38,6 +30,7 @@ Plan P
 
 .. toctree::
    :maxdepth: 2
+   :caption: Inhalt 
 
    Prolog/index
    1-Mal-1-DerMedizin/index
@@ -46,10 +39,43 @@ Plan P
    StrukturiertePatientenbetreuung/index
    Reanimation/index
    Krankheitsbilder/index
-   Pharmakopeia/index
+   Pharmakotherapie/index
    Appendix/index
 
+-----
 
+******************
+Logovorschläge
+******************
+
+
+.. image:: /Bilder/Logos/Logo-4-StarOfLife-1.png
+    :align: center
+    :width: 50%
+
+
+.. image:: /Bilder/Logos/Logo-4-StarOfLife-2.png
+    :align: center
+    :width: 50%
+
+
+.. image:: /Bilder/Logos/Logo-4-Aesculap-1-50dpi.png
+    :align: center
+
+.. image:: /Bilder/Logos/Logo-10-StarOfLife-50dpi.png
+    :align: center
+    :width: 50%
+
+.. image:: /Bilder/Logos/Logo-11-Aesculap.png
+    :align: center
+    :width: 50%
+
+
+.. image:: /Bilder/Logos/Logo-10b-StarOfLife.png
+    :align: center
+    :width: 50%
+
+-----
 
 *********
 Literatur
@@ -67,25 +93,7 @@ Literatur
 .. bibliography:: Leitlinien.bib
     :style: plain
     :labelprefix: L-
-            
------
 
-.. rubric:: Logovorschläge:
-
-
-
-.. image:: /Bilder/Logos/Logo-4-StarOfLife-1.png
-    :align: center
-    :width: 50%
-
-
-.. image:: /Bilder/Logos/Logo-4-StarOfLife-2.png
-    :align: center
-    :width: 50%
-
-
-.. image:: /Bilder/Logos/Logo-4-Aesculap-1-50dpi.png
-    :align: center
 
 -----
 

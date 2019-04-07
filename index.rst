@@ -9,20 +9,12 @@
 .. role:: raw-latex(raw)
    :format: latex
 
-.. title:: Plan P
+.. title:: CCCA Kompendium
 
-###############
-Plan P
-###############
+#############################################
+Kompendium des Critical Care Club Austria
+#############################################
 
-.. only:: html
-
-    *Ein* **p**\ *ragmatisches Kompendium des Critical Care Club Austria*
-
-
-.. epigraph::
-
-   saluti et solatio aegrorum
 
 
 .. only:: html
@@ -38,6 +30,7 @@ Plan P
 
 .. toctree::
    :maxdepth: 2
+   :caption: Inhalt 
 
    Prolog/index
    1-Mal-1-DerMedizin/index
@@ -81,7 +74,7 @@ Logovorschläge
 .. image:: /Bilder/Logos/Logo-10b-StarOfLife.png
     :align: center
     :width: 50%
-    
+
 -----
 
 *********

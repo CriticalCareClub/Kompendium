@@ -46,7 +46,7 @@ Plan P
    StrukturiertePatientenbetreuung/index
    Reanimation/index
    Krankheitsbilder/index
-   Pharmakopeia/index
+   Pharmakotherapie/index
    Appendix/index
 
 -----

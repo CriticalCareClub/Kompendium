@@ -196,7 +196,7 @@ Diese münden wiederum in den rechten Vorhof.
 
 .. _fig-blutkreislauf-schema:
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Kreislauf-Schema.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Kreislauf-Schema.*
 
     Der Blutkreislauf (Schema) 
 
@@ -626,7 +626,7 @@ kommt, ist die Fibrinolyse, bei der es zur Auflösung von Thromben kommt.
 Normalerweise sind diese beiden Mechanismen im Gleichgewicht, sodass das
 Blut weder zu schnell noch zu langsam gerinnt.
 
-.. figure:: /Bilder/WikipediaCcBy/Bleeding_finger.jpg 
+.. figure:: /Bilder/WikipediaCcBy/Bleeding_finger.* 
 
     [Crystal (Crystl) from Bloomington, USA (http://www.flickr.com/people/crystalflickr/) / CC-BY]
 

@@ -92,7 +92,7 @@ regionale Trennung, …) Leitstellen sind meistens ortsfest eingerichtet,
 es gibt jedoch auch mobile Leitstellen, welche bei besonderen
 Ereignissen zum Einsatz kommen können.
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.*
     :align: right
     :width: 50%
 
@@ -381,7 +381,7 @@ Rettungstransportwagen – RTW
   -  Mind. 1 NFS, 1--2 RS
 
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.*
     :align: right
     :width: 50%
 
@@ -453,7 +453,7 @@ Notarzteinsatzfahrzeug – NEF
 
   -  Ein :abbr:`NEF` transportiert keine Patienten.
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.*
     :align: right
     :width: 50%
 	    
@@ -509,7 +509,7 @@ Notarzthubschrauber – NAH
 
   -  Mind. 1 Pilot, 1 NA, 1 NFS
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/Landeanflug-OE-XEC_IMG_1912_1.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/Landeanflug-OE-XEC_IMG_1912_1.*
     :align: right
     :width: 50%
 

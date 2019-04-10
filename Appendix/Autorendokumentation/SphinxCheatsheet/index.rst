@@ -151,7 +151,7 @@ Hyperlink 1          ``.. _reStructuredText: http://docutils.sf.net/rst.html``
 2                    ``.. _indirect target: reStructuredText_``
 3                    ``.. _internal target:``
 4                    ``__ http://docutils.sf.net/docs/ref/rst/restructuredtext.html``
-Directive ("::")     ``.. image:: images/biohazard.png``
+Directive ("::")     ``.. image:: images/biohazard.*``
 Ersätzung Definiion  ``.. |substitution| replace:: like an inline directive``
 Kommentar            ``.. is anything else``
 Kommentar            (``..`` on a line by itself, with blank lines before & after,
@@ -227,7 +227,7 @@ admonition
         Das ist eine Gefahr! 
 
 image             
-    ``.. image:: /Pfad/zu/dem/Bild.jpg``
+    ``.. image:: /Pfad/zu/dem/Bild.*``
 
 figure            
     Wie "image", aber mit (optionaler) Legende und Nummerierung

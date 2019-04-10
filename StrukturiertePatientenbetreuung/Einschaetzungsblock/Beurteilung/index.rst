@@ -34,7 +34,7 @@ Alarmzeichen (“Red Flags” 🚩 |symbol-RedFlag|) sind Zeichen einer vitalen 
 Alarmzeichen (“Red Flags” 🚩 |symbol-RedFlag|)
 ----------------------------------------------
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/minen_hinweis2.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/minen_hinweis2.*
     :align: right
 
 Das rasche Feststellen einer vitalen Bedrohung ist besonders wichtig.

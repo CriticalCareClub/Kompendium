@@ -43,7 +43,7 @@ Sie ist für bestimmte Stoffe
 
 -  Zellmebran
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Zelle-edited.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Zelle-edited.*
 
     Schema einer Zelle 
     

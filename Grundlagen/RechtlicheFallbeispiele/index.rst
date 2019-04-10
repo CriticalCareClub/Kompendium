@@ -429,7 +429,7 @@ in seiner typisch ruhigen Manie, glücklich durch die enteral [310]_
 erlangte Sedierung, zum Fahrzeug, mit dem Spruch auf den Lippen:
 “immerhin konn des Wagl’ eh net ohne mie foahrn!”
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.*
     :align: right
     :width: 50%
 
@@ -514,7 +514,7 @@ Nitrolingual-Spray auch gleich einen venösen Zugang legen, da er das
 sowieso als ehemaliger Fleischhauer besser als jeder Arzt
 kann.
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/venflon_in_situ.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/venflon_in_situ.*
     :align: right
     :width: 50%
 
@@ -578,7 +578,7 @@ sofortige Nitro-Verabreichung zur Bekämpfung des hohen Blutdrucks ()
 anordnet, obwohl sie von Sepp über die gefundene Viagra-Packung
 informiert wurde.
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/emergency_physician_vehicle_00800.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/emergency_physician_vehicle_00800.*
     :align: right
     :width: 50%
 
@@ -1052,7 +1052,7 @@ aufgeschnitten hat. Als Sepp beginnt sie zu versorgen, erzählt Frau
 Hilflos, dass ihr Leben “sowieso keinen Sinn mehr hat”, da sie ihr
 Freund mit angesteckt hat.
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/blut-tatort-jacke.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/blut-tatort-jacke.*
     :align: right
     :width: 50%
 
@@ -1098,7 +1098,7 @@ weiteren Verletzungen eingeht, beginnt Frau Hilflos weinend zu
 berichten, dass ihr Freund sie öfters geschlagen hat und ihr mit dem Tod
 gedroht hat, falls sie die Polizei verständigen würde.
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/haematom-fehlpunktion-001.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/haematom-fehlpunktion-001.*
     :align: right
     :width: 50%
 
@@ -1151,7 +1151,7 @@ Wiener Verkehrschaos, als Sepp auf einmal meint: *“Geh, schalt doch das
 Hörndl und die Blitzer ei, damit dee uns endli Plotz machen und wir
 einrücken kännan!”* 
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1896_00800.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1896_00800.*
     :align: right
     :width: 50%
 

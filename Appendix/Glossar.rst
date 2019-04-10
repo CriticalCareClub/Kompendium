@@ -206,18 +206,18 @@ Glossar
         gibt unbeschichtete (*BMS*, *Bare Metal Stent*) und beschichtete
         (*DES*, *Drug Eluting Stent*) Stents.
 
-        .. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.pdf
+        .. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
                     
             Das Herz mit seinen Koronargefäßen
             [Hirtler, MfG]
             
-        .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.jpg
+        .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
 
             Darstellung der Herzkranzgefäße während einer
             Herzkatheteruntersuchung
             [WmCo “Bionerd”, CC-BY-3.0]
           
-        .. figure:: /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.jpg
+        .. figure:: /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.*
 
             Die Koronargefäße versorgen den Herzmuskel von außen nach
             innen. [Patrick J. Lynch, CC-BY-2.5] 

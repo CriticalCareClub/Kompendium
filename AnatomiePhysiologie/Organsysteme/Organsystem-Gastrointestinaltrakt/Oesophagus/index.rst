@@ -33,7 +33,7 @@ Die zweite Enge liegt dort, wo die Aorta die Speiseröhre kreuzt. Die
 dritte Enge entspricht dem Durchtritt des Ösophagus durch das
 Zwerchfell. In der Wand des Ösophagus befinden sich zahlreiche Venen.
 
-.. figure:: /Bilder/WikipediaPd/stomach.pdf
+.. figure:: /Bilder/WikipediaPd/stomach.*
 
             Ösophagus, Schema
 

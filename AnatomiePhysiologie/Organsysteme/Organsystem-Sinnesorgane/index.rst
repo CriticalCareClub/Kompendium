@@ -179,7 +179,7 @@ aushaltbarer Schwindel.
 
 .. subfigstart::
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Ohr.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Ohr.*
     :width: 99%
     
     Das Ohr im Querschnitt. 
@@ -189,7 +189,7 @@ aushaltbarer Schwindel.
 
     [Lena Hirtler, MfG]
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Mittelohr.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Mittelohr.*
     :width: 99%
     
     Das Mittelohr: 
@@ -295,7 +295,7 @@ Unter der Dermis befindet sich die :dfn:`Unterhaut`
 (*Subcutis*). Sie besteht hauptsächlich aus Fett. Dieses dient der
 Wärmeisolierung.
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Haut-edited.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Haut-edited.*
 
 
 

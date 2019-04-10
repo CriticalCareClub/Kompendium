@@ -36,7 +36,7 @@ schlußendlich über die Leber und die Gallenflüssigkeit wieder im Darm
 (bzw. den Nieren) um ausgeschieden zu werden.
  
 
-.. figure:: /Bilder/WikipediaPd/Digestive_system_diagram_de-edited.pdf
+.. figure:: /Bilder/WikipediaPd/Digestive_system_diagram_de-edited.*
 
             Übersicht Verdauungstrakt
 

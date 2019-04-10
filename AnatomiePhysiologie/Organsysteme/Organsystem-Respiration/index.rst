@@ -52,7 +52,7 @@ Die Atemwege gliedern sich in die oberen und die unteren Atemwege
 
 .. _Figure-respiraktionstrakt-uebersicht:
 
-.. figure:: /Bilder/WikipediaPd/Respiratory_system_complete_de-edited.pdf
+.. figure:: /Bilder/WikipediaPd/Respiratory_system_complete_de-edited.*
 
     Die Atemwege, Übersicht
     
@@ -298,7 +298,7 @@ die schmerzempfindlich ist.
    mit Lunge folgt Bewegung
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Pleura.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Pleura.*
 
     Pleura, Schema
     
@@ -369,7 +369,7 @@ Gewebe und Pleura(spalt) wichtig:
 
 .. subfigstart::
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Thorax-Diaphragma.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Thorax-Diaphragma.*
     :width: 99%
 
     Das *Diaphragma* ist der wichtigste Atemmuskel 
@@ -377,7 +377,7 @@ Gewebe und Pleura(spalt) wichtig:
 
     [Lena Hirtler, MfG]
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegung-frontal.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegung-frontal.*
     :width: 99%
 
     Bei der Einatmung senkt sich das Zwerchfell 
@@ -385,7 +385,7 @@ Gewebe und Pleura(spalt) wichtig:
 
     [Lena Hirtler, MfG]
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
     :width: 99%
 
     Die Rippen folgen der Atembewegung.

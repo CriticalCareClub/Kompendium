@@ -81,7 +81,7 @@ Herzens ermöglicht.
 
 -  Herzbeutel (Perikard)
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
 
     [Hirtler]
 
@@ -126,7 +126,7 @@ genannt. [206]_
 
    -  Taschenklappe zwischen linker Kammer und Aorta: Aortenklappe
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.*
 
     Das Herz, schematisch
     
@@ -380,7 +380,7 @@ erhalten. Beispiele von Rhythmen werden unter
        elektrischen Impulse für die Vorhöfe und die Kammern erzeugt. Man
        spricht dann vom *Sinusrhythmus*.
 
-.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.png 
+.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.* 
 
     Reizleitungssystem, SchemaJ. Heuser, basierend auf der Arbeit von
     Patrick J. Lynch; illustrator;

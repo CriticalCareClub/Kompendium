@@ -55,7 +55,7 @@ gegeben werden.
 
 .. subfigstart::
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch.*
             :width: 99%
 
 	    Absperrung (hier deutlich verbesserungswürdig) [Bild: Gabriel]
@@ -65,7 +65,7 @@ gegeben werden.
 
             Warntafel
 	    
-.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0722_00500.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0722_00500.*
             :width: 99%
 
 	    Spezifische Gefahren erkennen

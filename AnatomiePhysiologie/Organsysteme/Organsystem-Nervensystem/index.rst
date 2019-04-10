@@ -114,7 +114,7 @@ sind.
 
 -  Rückenmark
 
-.. figure:: /Bilder/WikipediaCcBy/Human_skull_side_simplified_hirngesicht_de-edited.pdf
+.. figure:: /Bilder/WikipediaCcBy/Human_skull_side_simplified_hirngesicht_de-edited.*
 
     Das Hirn im seitlichen Querschnitt
     
@@ -269,7 +269,7 @@ TERMINUS !!! *Liquor*. Die Schädelknochen und der Liquor bieten eine
 Schutzfunktion. Normalerweise hat der Liquor keinen Kontakt zur
 Außenwelt.
 
-.. figure:: /Bilder/WikipediaCcBy/Human_skull_front_simplified_bones_de-edited.pdf 
+.. figure:: /Bilder/WikipediaCcBy/Human_skull_front_simplified_bones_de-edited.* 
 
     Querschnitt durch die Schädeldecke
     
@@ -358,7 +358,7 @@ Leg’ dich auf die Herdplatte”*) und von den Organen zum ZNS
 Nervensystem gehören alle peripheren Nerven.
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.pdf 
+.. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.* 
 
     Das zentrale Nervensystem (grau) und davon abgehende periphere
     Nerven (gelb)
@@ -414,14 +414,14 @@ vegetativen Nervensystems (:ref:`Thema-vegetatives-nervensystem`).
 
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Spinalnerven-edited-00254pt.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Spinalnerven-edited-00254pt.*
 
     Vom Rückenmark (grau) gehen die peripheren Spinalnerven
     (gelb) ab.
 
     *Lena Hirtler*
             
-.. figure:: /Bilder/HirtlerLena-Ccc/WS_Aufbau.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/WS_Aufbau.*
             
     Lage in Bezug zur Wirbelsäule: Vom Rückenmark abgehende periphere
     Spinalnerven (gelb); Wirbel (grau) und Bandscheiben
@@ -430,7 +430,7 @@ vegetativen Nervensystems (:ref:`Thema-vegetatives-nervensystem`).
 
     *Lena Hirtler*
     
-.. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.*
 
     Das zentrale Nervensystem (grau) und davon abgehende periphere
     Nerven (gelb)
@@ -555,7 +555,7 @@ Organsysteme wie z. B. die Verdauung.
 
             Adrenalinausschüttung :math:`\downarrow`
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.*
 
     “Fight or flight, rest and digest.” 
     

@@ -209,17 +209,17 @@ Zuckerstoffwechselstörungen.
 
 .. subfigstart::
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.*
 
 	    Anisokorie (Pupillendifferenz) [Bild: Sebastian Gabriel, MfG]
 
 	    
-.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.*
 
 	    Kraftprobe an den Armen [Bild: Motal]
 
 	    
-.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.*
 
 	    BZ-Messung [Bild: Motal]
    

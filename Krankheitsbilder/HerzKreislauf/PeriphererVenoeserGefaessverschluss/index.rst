@@ -171,7 +171,7 @@ Es entsteht eine *Lungenembolie*.
 
 .. subfigstart::
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/economyclass.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/economyclass.*
     :width: 99%
 
     Die Economyclass.
@@ -180,7 +180,7 @@ Es entsteht eine *Lungenembolie*.
 
     [Gabriel]
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/lovenox1.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/lovenox1.*
     :width: 99%
 
     Thromboseprophylaxe.
@@ -191,7 +191,7 @@ Es entsteht eine *Lungenembolie*.
 
     [Gabriel]
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.*
     :width: 99%
 
     Eine Venenthrombose

@@ -60,13 +60,13 @@ auf eine Wirbelsäulenverletzung erkannt werden.
 
 .. subfigstart::
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0722_00500.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0722_00500.*
             :width: 99.99%
 
 	    Schädel-Hirn-Trauma: manuelle HWS-Stabilisierung
 
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*
             :width: 99.99%
 
 	    Zyanotische Lippen können schon frühzeitig auffallen.

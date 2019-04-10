@@ -73,7 +73,7 @@ ist von *Darmbakterien* besiedelt.
 .. [212]
     Wegen der oft notwendigen Blinddarm-Operationen
 
-.. figure:: /Bilder/WikipediaPd/Colon_anatomy.pdf
+.. figure:: /Bilder/WikipediaPd/Colon_anatomy.*
 
 	    Der Dickdarm
 

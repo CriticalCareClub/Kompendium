@@ -44,7 +44,7 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 
 
 
-.. figure:: /Bilder/WikipediaPd/Small_intestine.pdf
+.. figure:: /Bilder/WikipediaPd/Small_intestine.*
 
     Dünndarm
         
@@ -69,7 +69,7 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 
     [Hirtler]
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Bauchfilm_Image_022.jpg
+.. figure:: /Bilder/HirtlerLena-Ccc/Bauchfilm_Image_022.*
     :width: 99%
 
     Foto: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.

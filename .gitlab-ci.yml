@@ -15,5 +15,5 @@ pages:
     paths:
     - public
   only:
-  - ci-test gabriel
+  - gabriel
 

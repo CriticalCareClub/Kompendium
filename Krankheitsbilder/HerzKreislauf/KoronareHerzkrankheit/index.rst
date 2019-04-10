@@ -57,7 +57,7 @@ spricht man auch von einer 1-, 2- oder 3-Gefäßerkrankung
 
 .. subfigstart::
 
-.. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.jpg
+.. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
     :width: 99%
 
     Das Herz mit seinen Koronargefäßen 
@@ -66,7 +66,7 @@ spricht man auch von einer 1-, 2- oder 3-Gefäßerkrankung
 
 	    
 
-.. figure:: /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.jpg
+.. figure:: /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.*
     :width: 99%
 
     Darstellung der Herzkranzgefäße während einer
@@ -79,7 +79,7 @@ spricht man auch von einer 1-, 2- oder 3-Gefäßerkrankung
     [WmCo "Bionerd", CC-BY-3.0]
 
 	
-.. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.jpg
+.. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
     :width: 99%
 
     Die Koronargefäße versorgen den Herzmuskel von außen nach innen. 

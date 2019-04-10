@@ -130,7 +130,7 @@ angeschlossen werden.
 -  Hilfsmittel zur kontrollierten und assistierten Beatmung
 
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Ambubeutel_32741-AASS-0176mm.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Ambubeutel_32741-AASS-0176mm.*
    :alt: Selbstfüllender Beatmungsbeutel “Ambu Mark IV” mit Reservoir, O₂-Verbindungsschlauch, Bakterienfilter, Beatmungsmaske und aufgestecktem PEEP-Ventil
 
    Selbstfüllender Beatmungsbeutel “Ambu Mark IV” mit Reservoir,
@@ -186,13 +186,13 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 
 .. rubric:: Bilderserie: Beatmungsmasken 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
 
             Eine *Beatmungs*\ maske.
 
             [Ch. Pallinger]
             
-.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.*
 
             Beatmungsmasken unterschiedlicher Größen: 0, 2,
             3/4, 5. Die Farben der Masken haben keine besondere
@@ -249,18 +249,18 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
 
 .. subfigstart::
 
-.. figure:: /Bilder/HirtlerLena-Ccc/CGriff.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/CGriff.*
             :width: 99.9%
 
             C-Griff
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
             :width: 99.9%
 
             und überstreckter Kopf
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.*
             :width: 99.9%
 
             Normalerweise wird bei der Überdruckbeatmung mit einem
@@ -464,7 +464,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 
 SeriesRowWide 2\
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32851-00441pt.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32851-00441pt.*
 
             Beatmungsgerät *Medumat compact* auf einer
             Tragplatte. Zusätzlich angebracht sind eine
@@ -473,7 +473,7 @@ SeriesRowWide 2\
 
             [Christoph Pallinger, MfG] \
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.*
 
             Bedienfelder Berieselungseinheit *Modul Oxygen* und
             Notfallbeatmungsgerät *Medumat Standard* 
@@ -490,7 +490,7 @@ SeriesRowWide 2\
 
             [Sebastian Gabriel, MfG]
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.*
 
             Medumat Transport. Dies ist ein
             Intensiv-Transportbeatmungsgerät, welches eine komplexe
@@ -560,7 +560,7 @@ da die Ausatemluft unkontrolliert über die
 
 
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Peep_32909-AASS-0112mm.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Peep_32909-AASS-0112mm.*
 
             PEEP-Ventil
 

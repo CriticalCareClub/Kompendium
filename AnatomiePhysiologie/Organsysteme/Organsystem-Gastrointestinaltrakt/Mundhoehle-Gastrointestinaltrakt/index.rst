@@ -27,7 +27,7 @@ Schlucken sorgt sie dafür, dass der Kehldeckel verschloßen wird, da es
 sonst zu einem Übertritt der Nahrung in die Luftröhre und damit zu einer
 *Aspiration* kommen kann.
 
-.. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Mundhoehle.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Mundhoehle.*
 
     Die Mundhöhle
     

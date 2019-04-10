@@ -196,17 +196,17 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
 .. subfigstart::
 
-.. figure:: /Bilder/MotalMichael-Ccc/00800/helm1.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/00800/helm1.*
             :width: 99.99%
 
             Annäherung an den Patienten [Michael Motal, MfG]
  
-.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
             :width: 99.99%
 
 	    Die Rippen folgen der Atembewegung. [:term:`HiLe`, :term:`MfG`]
 	    
-.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*
             :width: 99.99%
                     
 	    Zyanotische Lippen [:term:`GaSe`, :term:`MfG`]
@@ -221,7 +221,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
     Bilderserie: Breathing
 
 	     
-.. figure:: /Bilder/GabrielSebastian-Ccc/asthma-paramedic.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/asthma-paramedic.*
             :width: 99.99%
             
 	    Patientin mit einem akuten Asthmaanfall

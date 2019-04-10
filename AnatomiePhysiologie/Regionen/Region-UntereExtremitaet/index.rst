@@ -107,7 +107,7 @@ Schien- bzw. Wadenbein).
 
 -  *Zehengliederknochen* mit je 2-3 Gliedern
 
-.. figure:: /Bilder/WikipediaPd/Human_skeleton_lower-extr-edited.pdf
+.. figure:: /Bilder/WikipediaPd/Human_skeleton_lower-extr-edited.*
 
     Der Beckengürtel und die untere Extremität
     

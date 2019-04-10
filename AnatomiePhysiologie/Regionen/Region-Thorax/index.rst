@@ -45,7 +45,7 @@ Herz), als auch die *Oberbauchorgane* (Leber, Magen, Milz, Nieren).
 -  *Brustwirbelsäule* (12 Brustwirbel), mit Rippen in gelenkiger
    Verbindung
 
-.. figure:: /Bilder/WikipediaPd/Thorax.pdf 
+.. figure:: /Bilder/WikipediaPd/Thorax.* 
 
     Der knöcherne ThoraxMariana Ruiz Villarreal
     

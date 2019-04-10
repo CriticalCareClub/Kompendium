@@ -131,7 +131,7 @@ Aufbau:
 
    -  1 Dornfortsatz
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Wirbel-allgemein.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Wirbel-allgemein.*
 
     Wirbel
     

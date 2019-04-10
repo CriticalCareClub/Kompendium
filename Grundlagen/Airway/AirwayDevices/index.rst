@@ -49,15 +49,15 @@ Lage des Guedel-Tubus.
 
 .. _Figure-GuedelTubusEinfuehren:
 
-.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus1.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus1.*
 
             Abmessen,
             
-.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus2.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus2.*
 
             zuerst wird der Guedel-Tubus “verkehrt” herum eingeführt
             
-.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus3.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus3.*
 
             und anschließend mittels Drehbewegung endgültig positioniert.
    
@@ -241,18 +241,18 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
 
 .. subfigstart::
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32890_textwidth.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32890_textwidth.*
             :width: 99.99%
             
             Larynxtubus mit Blockerspritze
    
-.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32885_textwidth.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32885_textwidth.*
             :width: 99.99%
                     
             Ein Larynxtubus der ersten Generation mit geblocktem
             Cuff. [Christoph Pallinger, MfG]
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtuben_Set_33025_textwidth.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtuben_Set_33025_textwidth.*
             :width: 99.99%
                     
 	    Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung. [Christoph Pallinger, MfG]
@@ -393,7 +393,7 @@ Durchführung der Intubation mit dem Larynxtubus.
 
 .. _Figure-AlgorithmusLarynxtubusReanimation:
 
-.. figure:: /Bilder/EmhoferJosef-Ccc/Larynxtubus-2015-1.pdf
+.. figure:: /Bilder/EmhoferJosef-Ccc/Larynxtubus-2015-1.*
    :alt: Algorithmus: Larynxtubus im Rahmen der Reanimation
    :width: 99.99%
 
@@ -501,7 +501,7 @@ Material
       Bei Kaltlichtsystemen gibt es ausserdem unterschiedliche
       Steckverbindungen!
 
-      .. figure:: /Bilder/PallingerChristoph-Ccc/Testlunge_32902-AASS-0112mm.jpg
+      .. figure:: /Bilder/PallingerChristoph-Ccc/Testlunge_32902-AASS-0112mm.*
 
 #. (Endotracheal-)Tubus; verschiedene Größen
 
@@ -520,7 +520,7 @@ Material
 #. Fixationsmaterial (breite Heftpflaster, Mullbinde)
 
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Intubation_32939.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Intubation_32939.*
 
     Zubehör für die endotracheale IntubationAbsaugeinheit mit
     Absaugkatheter, Magill-Zange, Silikonspray, Tubus, Führungsdraht,
@@ -696,84 +696,84 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
 .. _Figure-BilderserieIntubation-1:
 
-.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4829-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4829-AASS-0112mm.*
     :width: 99.99%
 
     Zusammenbauen des Laryngoskops
 
 .. _Figure-BilderserieIntubation-2:
 
-.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4831-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4831-AASS-0112mm.*
     :width: 99.99%
 
     Einsprühen des Tubus *in der Verpackung*
 
 .. _Figure-BilderserieIntubation-3:
 
-.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4834-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4834-AASS-0112mm.*
     :width: 99.99%
 
     Präoxygenierung
 
 .. _Figure-BilderserieIntubation-4:
 
-.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0112mm.*
     :width: 99.99%
 
     Zureichen des Laryngoskops (*linke* Hand!)
 
 .. _Figure-BilderserieIntubation-5:
 
-.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4837-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4837-AASS-0112mm.*
     :width: 99.99%
 
     Zureichen des Tubus (*rechte* Hand!)
 
 .. _Figure-BilderserieIntubation-6:
 
-.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4839-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4839-AASS-0112mm.*
     :width: 99.99%
 
     Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus
 
 .. _Figure-BilderserieIntubation-7:
 
-.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4841-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4841-AASS-0112mm.*
     :width: 99.99%
 
     Cuffen nach Entfernung des Führungsdrahtes
 
 .. _Figure-BilderserieIntubation-8:
 
-.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4843-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4843-AASS-0112mm.*
     :width: 99.99%
 
     Stethoskop zureichen
 
 .. _Figure-BilderserieIntubation-9:
 
-.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4844-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4844-AASS-0112mm.*
     :width: 99.99%
 
     Abhören des Patienten
 
 .. _Figure-BilderserieIntubation-10:
 
-.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4847-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4847-AASS-0112mm.*
     :width: 99.99%
 
     Beißkeil (hier: Guedel-Tubus) einführen
 
 .. _Figure-BilderserieIntubation-11:
 
-.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4849-AASS-0112mm.jpg
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4849-AASS-0112mm.*
     :width: 99.99%
 
     Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!
 
 .. _Figure-BilderserieIntubation-12:
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00441pt-4.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00441pt-4.*
      :width: 99.99%
 
      Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in

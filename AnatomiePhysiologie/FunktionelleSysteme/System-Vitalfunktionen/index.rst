@@ -294,7 +294,7 @@ sagen:
    HyperHAES.
 
 
-.. figure:: /Bilder/WikipediaPd/Semipermeable_membrane.png
+.. figure:: /Bilder/WikipediaPd/Semipermeable_membrane.*
           
           Gefäßraum und Zwischengewebsraum, getrennt durch die
           Blutgefäßwand. Es schwimmt viel herum: Die grünen, gelben, blauen und
@@ -303,7 +303,7 @@ sagen:
 
           [WMC/pidalka44]
 
-.. figure:: /Bilder/WikipediaPd/Osmotische_druk.png
+.. figure:: /Bilder/WikipediaPd/Osmotische_druk.*
             
           Osmose
 

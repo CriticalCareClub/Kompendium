@@ -32,7 +32,7 @@ ALS: Advanced Life Support
 
         ALS-Algorithmus [Emhofer, nach Soar, Nolan, et al. 2015b]
 
-.. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.pdf
+.. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.*
 
         ALS-Algorithmus [Emhofer, nach Soar, Nolan, et al. 2015b]
 
@@ -528,7 +528,7 @@ Schockabgabe
     **Lebensgefahr!**
 
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-00943pt.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-00943pt.*
 
 	    Ein Multifunktionsgerät mit integriertem Defibrillator
             (Corpuls:sup:`3`)
@@ -616,7 +616,7 @@ des Tubus zu überprüfen:
 #. Messung der CO₂-Abatmung mittels :term:`Kapnographie`
 
 
-.. figure:: ../../Bilder/MotalMichael-Ccc/intubation/dsc-4837-AASS-0030mm.jpg
+.. figure:: ../../Bilder/MotalMichael-Ccc/intubation/dsc-4837-AASS-0030mm.*
     :align: right
 
     Endotracheale Intubation
@@ -668,7 +668,7 @@ Supraglottische Atemwegshilfsmittel
 -----------------------------------
 
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Laringstubus-32884-00441pt.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Laringstubus-32884-00441pt.*
     :align: right
     :width: 40%
             
@@ -705,19 +705,19 @@ Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
 
 .. subfigstart::
 
-.. figure:: /Bilder/HirtlerLena-Ccc/LageLarynxTubus.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/LageLarynxTubus.*
             :width: 99%
 
 	    Im Vergleich: Lage eines Larynx-Tubus
             [Lena Hirtler, MfG]
 
-.. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.*
             :width: 99%
 
 	    … und eines endotrachealen Tubus.
             [Lena Hirtler, MfG]
 
-.. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.*
             :width: 99%
 
 	    Position des Guedel-Tubus im Querschnitt
@@ -1080,7 +1080,7 @@ ERC-Guidelines, deutsche Übersetzung:
 
 .. _Fig-Als:
   
-.. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.pdf
+.. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.*
 
         ALS Der ALS-Algorithmus [Emhofer, nach
         :cite:`Erc-2015-Section-03`\ ]

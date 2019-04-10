@@ -5,7 +5,7 @@
 Der Schultergürtel und die obere Extremität
 ###########################################
 
-.. figure:: /Bilder/WikipediaPd/Human_arm_bones_diagram_de-edited.pdf
+.. figure:: /Bilder/WikipediaPd/Human_arm_bones_diagram_de-edited.*
 
     Der Schultergürtel und die obere Extremität
     

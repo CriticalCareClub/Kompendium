@@ -51,7 +51,7 @@ Blutkörperchen sowie den Blutplättchen im roten Knochenmark).
 
 -  Blutbildung
 
-.. figure:: /Bilder/WikipediaPd/Human_skeleton_front-edited.pdf
+.. figure:: /Bilder/WikipediaPd/Human_skeleton_front-edited.*
 
     Das menschliche Skelett. 
     
@@ -313,7 +313,7 @@ ist mit einer dünnen Schicht *Schmierflüssigkeit*
 
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Gelenk-edited.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Gelenk-edited.*
 
     Ein Gelenk im QuerschnittLena 
     
@@ -409,7 +409,7 @@ Typische Beispiele sind:
 
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Gelenkarten.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Gelenkarten.*
 
     Gelenkarten:
     *A* Kugelgelenk (3 Achse; z. B. Hüftgelenk), 
@@ -497,7 +497,7 @@ der Ursprung eines Muskels näher beim Körper, der Ansatz ist der Punkt,
 der weiter entfernter ist. Für alle dieser Erklärungen gibt es natürlich
 Ausnahmen, konkret die Unterstützung der Atemmuskulatur als *Atemhilfsmuskulatur*.
 
-.. figure:: /Bilder/WikipediaPd/Gray361.png 
+.. figure:: /Bilder/WikipediaPd/Gray361.* 
 
     Muskelzug
     

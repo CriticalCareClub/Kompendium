@@ -36,6 +36,6 @@ beinhalten:
 #. Sonstige, wichtige Hinweise (z. B. Infektionsgefahren,
    Bluterkrankheit, Allergien etc.)
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/aufnahmearzt-ihres-vertrauens-edited2-0500.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/aufnahmearzt-ihres-vertrauens-edited2-0500.*
 
 	    "Sie wünschen?" [Bild: Sebabstian Gabriel, MfG]

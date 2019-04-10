@@ -182,7 +182,7 @@ Rettungsorganisation die Krankenanstalt und an jene des Sanitäters der
 Krankenpfleger tritt.)
 
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/recht_vertrag.pdf
+.. figure:: /Bilder/GabrielSebastian-Ccc/recht_vertrag.*
 
 	    Vertragsverhältnisse im Rettungsdienst
 

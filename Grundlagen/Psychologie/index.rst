@@ -293,7 +293,7 @@ dar. [29]_
 
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.*
 
     Stress hat, genauso wie Ruhephasen, eine wichtige Funktion. 
     

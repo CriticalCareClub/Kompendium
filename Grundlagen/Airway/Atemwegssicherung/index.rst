@@ -123,15 +123,15 @@ Erweiterte Techniken zur einfachen Atemwegssicherung
 
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.*
 
             Position des Guedel-Tubus im Querschnitt
 
-.. figure:: /Bilder/HirtlerLena-Ccc/LageLarynxTubus.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/LageLarynxTubus.*
 
             Im Vergleich: Lage eines Larynx-Tubus
 
-.. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.*
 
             und eines endotrachealen Tubus.
 
@@ -201,28 +201,28 @@ abgeschraubt und verschlossen werden.
 
 .. subfigstart::
             
-.. figure:: /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0112mm.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0112mm.*
             :width: 99.99%
 
             Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)
 
             [Ch. Pallinger, MfG]
    
-.. figure:: /Bilder/PallingerChristoph-Ccc/Handpumpe_32789-00441pt.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Handpumpe_32789-00441pt.*
             :width: 99.99%
 
             Handabsaugpumpeempty
 
             [Ch. Pallinger, MfG]
             
-.. figure:: /Bilder/PallingerChristoph-Ccc/Orosauger_33074-00441pt.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Orosauger_33074-00441pt.*
             :width: 99.99%
 
             Oro-Sauger für Neugeborene
 
             [Ch. Pallinger, MfG]
             
-.. figure:: /Bilder/PallingerChristoph-Ccc/Absaugkatheter_Set_33082-00441pt.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Absaugkatheter_Set_33082-00441pt.*
             :width: 99.99%
 
             Absaugkatheter zum Einführen in Mund oder Nase
@@ -267,7 +267,7 @@ vorhandene *Warnleuchten* müssen kontrolliert werden. Die vom jeweiligen
 Hersteller vorgegebenen, typenspezifischen Anweisungen müssen beachtet
 werden.
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0176mm.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0176mm.*
 
             Weinmann AccuVac
 
@@ -329,14 +329,14 @@ Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
 
 .. subfigstart::
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32999_export.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32999_export.*
             :width: 99.99%
 
             Katheterlänge bei Absaugung des Mundes
 
             [Ch. Pallinger]
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32990_export.jpg
+.. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32990_export.*
             :width: 99.99%
 
             Katheterlänge bei Absaugung durch die Nase

@@ -26,7 +26,7 @@ Beim Mann ist die Unterteilung folgendermaßen:
 
 -  Außen: Glied, Hodensack
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Genitale-m.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Genitale-m.*
 
           Die männlichen Geschlechtsorgane im Querschnitt
           
@@ -173,7 +173,7 @@ Die Unterteilung der Geschlechtsorgane der Frau ist:
 
 -  außen: Schamlippen, Klitoris
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Genitale-w.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Genitale-w.*
 
     Weibliche Geschlechtsorgane, Querschnitt
     
@@ -324,7 +324,7 @@ angehalten und die Eizelle kann sich in die Uterusschleimhaut einnisten.
 
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Zyklus.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Zyklus.*
 
           Der weibliche Zyklus. Oben: Follikelreifung. Unten: Auf- und
           Abbau der Uterusschleimhaut. Am Tag 0 des Zyklus wird die

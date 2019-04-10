@@ -101,7 +101,7 @@ Herzmuskel bestehen.
 
 .. subfigstart::
 
-.. figure:: /Bilder/WikipediaCcBySa/Heart_normal_short_axis_section-00640.jpg
+.. figure:: /Bilder/WikipediaCcBySa/Heart_normal_short_axis_section-00640.*
         :width: 99%
 
         Das Herz im Querschnitt, gesehen von unten: Links der rechte
@@ -109,7 +109,7 @@ Herzmuskel bestehen.
           
         [Patrick Lynch, CC-BY]
 
-.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_infarct-00640.jpg
+.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_infarct-00640.*
         :width: 99%
 
         Ischämisches Herzmuskelgewebe ...
@@ -118,7 +118,7 @@ Herzmuskel bestehen.
 
 	    
 
-.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.jpg
+.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.*
         :width: 99%
 
         stirbt nach einger Zeit ab, es
@@ -151,7 +151,7 @@ Gefahren
 
 -  Kammerflimmern als Frühkomplikation häufig!
 
-.. figure:: /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.jpg
+.. figure:: /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.*
 
           Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre
           Tachykardie, sind häufige Komplikationen eines Herzinfarktes
@@ -191,7 +191,7 @@ Leistungsverlust!
 
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Herzschmerz.pdf
+.. figure:: /Bilder/HirtlerLena-Ccc/Herzschmerz.*
 
     Akutes KoronarsyndromTypische Schmerzausdehnung bzw. -ausstrahlung beim
     ischämischen HerzschmerzLena [Hirtler MfG]

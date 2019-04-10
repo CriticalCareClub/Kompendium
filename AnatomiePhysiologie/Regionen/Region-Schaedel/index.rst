@@ -53,7 +53,7 @@ welche Richtung der Kopf des Kindes schaut.
 
 -   Kleine Fontanelle
 
-.. figure:: /Bilder/WikipediaPd/fontanelle-dt.jpg
+.. figure:: /Bilder/WikipediaPd/fontanelle-dt.*
 
     Fontanellen
     
@@ -79,7 +79,7 @@ Schädel aus. Das :dfn:`große Hinterhauptsloch`
 ist die *Durchtrittsstelle des Rückenmarks*.
 
 
-.. figure:: /Bilder/WikipediaPd/Gray1196-edited.png
+.. figure:: /Bilder/WikipediaPd/Gray1196-edited.*
 
     Aufsicht auf die Schädelbasis
     

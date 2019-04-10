@@ -834,7 +834,7 @@ siehe :ref:`Figure-Bls-Aed-Algorithmus` … Algorithmus BLS mit AED
 
 .. _Figure-Bls-Aed-Algorithmus:
 
-.. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationBls-2015-4.pdf
+.. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationBls-2015-4.*
             
 	    Basic Life Support mit AED.[tab:algorithmus-bls-aed]
 
@@ -845,7 +845,7 @@ siehe :ref:`Figure-Bls-Aed-Algorithmus` … Algorithmus BLS mit AED
           - :download:`BLS</Bilder/EmhoferJosef-Ccc/ReanimationBls-2015-4.pdf>`
 
 
-.. figure:: /Bilder/EmhoferJosef-Ccc/Larynxtubus-2015-1.pdf
+.. figure:: /Bilder/EmhoferJosef-Ccc/Larynxtubus-2015-1.*
 
 	    Algorithmus: Larynxtubus im Rahmen der Reanimation\
 
@@ -954,7 +954,7 @@ folgt beschrieben:
 
 .. _Figure-PlsAlgorithmus:
 
-.. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationPls-2015-1.pdf
+.. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationPls-2015-1.*
                         
 	    Pediatric Life Support [tab:algorithmus-pls]
 

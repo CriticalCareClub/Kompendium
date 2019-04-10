@@ -40,7 +40,7 @@ durchführen können.
 
 ..
     .. figure::
-        /Bilder/GabrielSebastianAass/Torso_GABS_IMG_1251_00800_frei.jpg
+        /Bilder/GabrielSebastianAass/Torso_GABS_IMG_1251_00800_frei.*
 ..
         Der Brust- und Bauchraum, geöffnet am Torso in Aufsicht.
         Zu sehen sind die Lunge, dahinter das Herz, darunter die
@@ -113,7 +113,7 @@ Nieren besitzen wie die Milz eine Bindegewebskapsel. Eine Niere ist ca.
 sind stark durchblutet.
 
 
-.. figure:: /Bilder/WikipediaPd/Kidneys.png
+.. figure:: /Bilder/WikipediaPd/Kidneys.*
 
 	    Die Nieren
 	    *WmCo/Mikael Häggström and Madhero88PD*

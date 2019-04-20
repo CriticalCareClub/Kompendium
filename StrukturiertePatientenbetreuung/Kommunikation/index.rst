@@ -292,7 +292,7 @@ gekennzeichnet:
    zuständige Stelle zu verweisen.
 
 -  *Bezugsperson*: Sind mehrere Helfer vorort, so soll nur einer der
-   Ansprechpartner des Patienten sein![topic:einer-redet]
+   Ansprechpartner des Patienten sein!
 
 
 

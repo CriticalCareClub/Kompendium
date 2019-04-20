@@ -246,7 +246,7 @@ münden die beiden Eileiter, die die befruchtete Eizelle in den Uterus
 führen sollen. Der Körper der Gebärmutter ist äußerst muskulös um bei
 der Geburt die Austreibung des Fetus zu ermöglichen. Die Schleimhaut
 unterliegt bei der geschlechtsreifen Frau zyklischen Veränderungen
-(siehe weiblicher Zyklus, [Thema-weiblicher-zyklus]). Über den Hals
+(siehe weiblicher Zyklus, :ref:`Thema-weiblicher-zyklus`). Über den Hals
 mündet die Gebärmutter in die Scheide, die Mündung wird als 
 :dfn:`Muttermund` bezeichnet.
 
@@ -293,6 +293,7 @@ der Mann auch, Schwellkörper. Diese liegen in der Klitoris und im
 Bereich der großen Schamlippen. Vergleichsweise mit der Eichel ist die
 Klitoris die berührungsempfindlichste Stelle der Frau.
 
+.. _thema-weiblicher-zyklus:
 
 Der weibliche Zyklus
 ====================

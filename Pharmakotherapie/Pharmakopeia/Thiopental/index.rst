@@ -12,18 +12,18 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
 
 
 
-.. topic:: Spezialitäten
+.. Thema-: Spezialitäten
 
     *Thiopental* TSA 500  mg , 1000  mg
 
-.. topic:: Pharmakodynamik
+.. Thema-: Pharmakodynamik
 
     Interaktion als Modulator mit GABA\ :sub:`A`-Rezeptorkomplex,
     bewirkt Verlängerung der Cl\ :sup:`-`-Kanalöffnungszeit. In höherer
     Konzentration ist auch eine direkte Aktivierung der
     GABA\ :sub:`A`-Kanäle möglich.
 
-.. topic:: Pharmakokinetik
+.. Thema-: Pharmakokinetik
 
     Thiopental flutet rasch an, mit einem Wirkungseintritt ist
     schon nach ca. 1 Minute zu rechnen. Durch die ebenfalls rasche
@@ -37,11 +37,11 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
     Dauer der hypnotischen Wirkung 5—15 min,
     Eliminations-HWZ 5—10 h , PPB 97%
 
-.. topic:: Wirkungen
+.. Thema-: Wirkungen
 
     Anxiolyse, Sedation, Hypnose, Antikonvulsion
 
-.. topic:: Nebenwirkungen
+.. Thema-: Nebenwirkungen
 
     -   Zerebrale Vasokonstriktion, Abnahme der cerebralen Durchblutung
         (*CBF*) und des cerebralen Blutvolumens (*CBV*), Senkung des
@@ -57,7 +57,7 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
     -   Histaminfreisetzung 
     -   Venenreizung, Gewebsnekrosen bei Paravasat
 
-.. topic:: Indikation
+.. Thema-: Indikation
 
     Narkoseeinleitung, besonders bei:
     -   Krampfanfall
@@ -66,7 +66,7 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
 
     Sonst wurde Thiopental weitgehend von Propofol und Ketamin als Einleitungshypnotikum abgelöst.
 
-.. topic:: Kontraindikationen
+.. Thema-: Kontraindikationen
 
     -   Schock, 
     -   dekompensierte Herzinsuffizienz, 
@@ -84,7 +84,7 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
     -   schwere Nierenfunktionsstörungen
 
 
-.. topic:: Dosierung
+.. Thema-: Dosierung
 
     3—7 mg / kg (70: 210—490 mg; 100: 300—700 mg)
 
@@ -95,7 +95,7 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
    Paravasat oder intraarterielle Injektion verursacht schwere
    *Gewebenekrosen*!
 
-.. topic:: Trivia
+.. Thema-: Trivia
 
     Traurige Bekanntheit erreichte Thiopental durch seine Verwendung als Mittel
     zur Hinrichtung per "Giftspritze" in den USA. 

@@ -1,6 +1,4 @@
 
-.. _topic-herz:
-
 .. _Thema-Herz:
 
 ########
@@ -149,8 +147,8 @@ Ausgang des linken Ventrikels – abgehen.
     single: Diastole
     single: Blutdruck
 
-.. _topic-mechanische-herzfunktion:
-.. _topic-herzfunktion:
+.. _Thema-mechanische-herzfunktion:
+.. _Thema-herzfunktion:
 
 ****************************************
 Mechanische Herzfunktion
@@ -185,7 +183,7 @@ Herzfunktion. Normalerweise arbeiten beide Komponenten Hand-in-Hand.
    Hauptschlagader aus, in der Minute ergibt das ca. 4--6 L
    (bzw. einmal das gesamte Blutvolumen). Dadurch entsteht ein
    lebenswichtiger Druck im (arteriellen) Gefäßsystem, der (arterielle)
-   *Blutdruck*. (Vgl. :ref:`topic-blutdruck`)
+   *Blutdruck*. (Vgl. :ref:`Thema-blutdruck`)
 
    Im zeitlichen Verlauf unterscheidet man zwischen der
 
@@ -203,7 +201,7 @@ Herzfunktion. Normalerweise arbeiten beide Komponenten Hand-in-Hand.
 -  *Elektrische Herzfunktion*: Die Steuerung der mechanischen
    Herzfunktion erfolgt durch elektrische Aktionen. Dafür verfügt das
    Herz über ein eigenes *Reizleitungssystem*, siehe
-   :ref:`topic-reizleitungssystem`.
+   :ref:`Thema-reizleitungssystem`.
 
 .. index::
     single: β₁-Rezeptoren (Myokard)
@@ -258,7 +256,7 @@ werden. Durch die Pumpfunktion des Herzens entsteht ein lebenswichtiger
 Druck im (arteriellen) Gefäßsystem, der **Blutdruck**, dieser
 sorgt dafür, dass das Gewebe von Blut durchflossen wird. Der arterielle
 Blutdruck lässt sich einfach mittels Blutdruckmanschette messen.
-(:ref:`topic-blutdruck`) (Schrader 2001; Gaehtgens 2001).
+(:ref:`Thema-blutdruck`) (Schrader 2001; Gaehtgens 2001).
 
 -  Herzfrequenz, Pulsfrequenz (HF, PF; 60--100 / min)
 
@@ -274,7 +272,7 @@ Blutdruck lässt sich einfach mittels Blutdruckmanschette messen.
 
    -  Blutdruckmessung :math:`\rightarrow` **C**
 
-.. _topic-blutdruck:
+.. _Thema-blutdruck:
 
 Blutdruck
 ---------
@@ -289,8 +287,8 @@ neuerlich Blut auswirft. Der !!! TERMINUS DFN !!! :dfn:``
 [Blutdruck!systolischer]systolische Blutdruck ist somit der
 Spitzendruck, der !!! TERMINUS DFN !!! :dfn:`` [Blutdruck!diastolischer]diastolische
 Blutdruck der Minimaldruck. Zur Durchführung der Blutdruckmessung vgl.
-[topic-rr-messung], Beurteilung des Blutdrucks
-[topic-blutdruck-beurteilung].
+:ref:`Thema-rr-messung`, Beurteilung des Blutdrucks
+:ref:`Thema-blutdruck-beurteilung`.
 
 -  2 Phasen:
 
@@ -300,14 +298,14 @@ Blutdruck der Minimaldruck. Zur Durchführung der Blutdruckmessung vgl.
    diastolisch:
        Druck in der Arterie während die Kammer erschlafft ist
 
--  Durchführung: [topic-rr-messung]
+-  Durchführung: :ref:`Thema-rr-messung`
 
         
 ************************
 Elektrische Herzfunktion
 ************************
         
-.. _topic-reizleitungssystem:
+.. _Thema-reizleitungssystem:
 
 Reizleitungssystem
 ==================
@@ -349,7 +347,7 @@ allerdings mit deutlich langsamerer Frequenz [208]_. Im Extremfall, wenn
 das gesamte Leitungssystem ausfällt, können auch die Herzmuskelzellen
 selbst einen minimalen Rhythmus (:math:`\sim`\ 30/min) aufrecht
 erhalten. Beispiele von Rhythmen werden unter
-:ref:`topic-herzrhythmusstoerungen` vorgestellt.
+:ref:`Thema-herzrhythmusstoerungen` vorgestellt.
 
 
 .. [208]

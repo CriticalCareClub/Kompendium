@@ -40,6 +40,9 @@
 
     \begin{ParWide}
     
+.. _Table-checkliste-patientenmanagement:
+.. _Table-pam-weiterfuehrende: 
+
 .. table:: 1--E Kurzübersicht
 
   +------------------------------+---------------------------------------------------------------------+--------------------------------------------------+
@@ -153,7 +156,7 @@
   | Die Maßnahmen von D und E sollen dann, sofern möglich,während des Transportes erfolgen.                                                               |
   |                                                                                                                                                       |
   | Die Reihenfolge ist je nach Patientunterschiedlich!                                                                                                   |
-  | [tab:checkliste-patientenmanagement][tab:pam-weiterfuehrende]                                                                                         |
+  |                                                                                                                                                       |
   |                                                                                                                                                       |
   | **Fett** gedruckte Punkte haben eine besonders hohe Priorität.                                                                                        |
   +-------------------------------------------------------------------------------------------------------------------------------------------------------+

@@ -533,7 +533,7 @@ Rechtslage
 ----------
 
 Die *Kompetenzstufen* sind im SanG [312]_ geregelt.
-[tab:sang-kompetenzstufen], gibt eine Übersicht.
+[Table-sang-kompetenzstufen], gibt eine Übersicht.
 
 .. [312]
     §§ 9—12 SanG

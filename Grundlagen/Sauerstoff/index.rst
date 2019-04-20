@@ -1,6 +1,8 @@
 
 .. _Thema-O2:
 
+.. _Thema-Sauerstoff:
+
 ########################
 Sauerstoff – O\ :sub:`2`
 ########################

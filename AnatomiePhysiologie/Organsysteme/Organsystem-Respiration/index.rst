@@ -256,11 +256,14 @@ dienen, bezeichnet man als :dfn:`Totraum`.
 
 .. index::
     single: Pleura
-    
+
+
+.. _Thema-pleura:
+
 Die Pleura
 ----------
 
-[Thema-pleura]Die Pleura hat zwei “Blätter”. Eine Seite liegt an der
+Die Pleura hat zwei “Blätter”. Eine Seite liegt an der
 Rippenseite (*rippenseitige Pleura*,
 *Rippenfell*) an und ist fest mit dem Zwerchfell und der
 Brustwand verwachsen. Die zweite Seite überzieht die Lungenoberfläche
@@ -460,6 +463,8 @@ Ausatmen sozusagen wieder hinaus gedrückt.
 
 .. _Thema-vitalfunktion-atmung:
 
+.. _Thema-atemvolumina: 
+
 *********************************
 Die Atmung ist eine Vitalfunktion
 *********************************
@@ -467,7 +472,7 @@ Die Atmung ist eine Vitalfunktion
 Atemfrequenz, -tiefe und -volumen
 =================================
 
-[Thema-atemvolumina] Es gibt drei wichtige Kennzahlen, welche die Atmung
+Es gibt drei wichtige Kennzahlen, welche die Atmung
 beschreiben (Klinke and Silbernagl 2001; Schmidt, Thews, and Lang 2000;
 Esch et al. 2007; Striebel 2009):
 
@@ -524,10 +529,12 @@ AMV
 
 (FRCPCH and FRCPCH 2007)(Lutomsky and Flake 2003)
 
+.. _Thema-totraum:
+
 Totraumbelüftung
 ================
 
-[Thema-totraum] Unter dem *Totraum* versteht man den Teil der Atemwege
+Unter dem *Totraum* versteht man den Teil der Atemwege
 der nicht am Gasaustausch teilnimmt. Dies ist im wesentlichen der
 gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen
 (Alveolen). Die Luft muss erst diesen Totraum passieren um in die
@@ -545,8 +552,8 @@ and Silbernagl 2001)
 Atemgase
 ========
 
-**Als :dfn:`Atemgas` :index:`\ <! Atemgas>` bezeichnet man jenes Gasgemisch,
-welches eingeatmet wird.** Normalerweise ist das ein Gasgemisch aus
+Als :dfn:`Atemgas` :index:`\ <! Atemgas>` bezeichnet man jenes Gasgemisch,
+welches eingeatmet wird. Normalerweise ist das ein Gasgemisch aus
 Stickstoff, Sauerstoff, Kohlendioxid und Edelgasen (“*Raumluft*”). Für
 eine ausreichende Atmung ist natürlich auch eine ausreichende
 O₂-Konzentration [196]_ der eingeatmeten Luft notwendig. Der normale
@@ -562,13 +569,13 @@ der Lunge stattfindenden *Gasaustausches* hinsichtlich des Sauerstoff-
 und Kohlendioxid-Anteils ein Unterschied: Es wird mehr CO₂ abgeatmet als
 eingeatmet wurde, dafür ist die O₂-Konzentration bei der Ausatmung
 aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
-[tab:luft-gas].
+[Table-luft-gas].
 
 -  Raumluft
 
 -  Atemgase: Sauerstoff und Kohlendioxid
 
-[]Gasgehalt in der Raum- und Ausatemluft[tab:luft-gas]
+[]Gasgehalt in der Raum- und Ausatemluft[Table-luft-gas]
 
 +----------------+----------------------+-------------------+
 | **Raumluft**   |                      | **Ausatemluft**   |

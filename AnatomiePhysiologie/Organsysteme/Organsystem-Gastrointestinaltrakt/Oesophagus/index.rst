@@ -1,5 +1,5 @@
 
-.. _topic-speiseroehre:
+.. _Thema-speiseroehre:
 
 .. _Thema-Oesophagus:
 

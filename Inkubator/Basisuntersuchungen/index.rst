@@ -327,7 +327,7 @@ kann mit dieser Methode *nicht* ermittelt werden!*
 Was ist besonders zu beachten?
 ------------------------------
 
-Die Blutdruckmanschette soll nach Möglichkeit **nicht* auf der Seite …*
+Die Blutdruckmanschette soll nach Möglichkeit *nicht* auf der Seite …
 
 #. eines *Shuntarmes*\  [119]_ bei Dialysepatienten
 
@@ -573,8 +573,8 @@ Blutzuckermessung
 Interpretation und Normalwert
 -----------------------------
 
- Der Blutzuckerspiegel wird in *Milligramm pro Deziliter* (mg/dL ,
-entspricht mg) , manchmal auch in *Millimol pro Liter* (), gemessen. Der
+Der Blutzuckerspiegel wird in *Milligramm pro Deziliter* (mg / dL ,
+entspricht mg%) , manchmal auch in *Millimol pro Liter* (mmol / L), gemessen. Der
 Wert ist abhängig von der letzten Mahlzeit des Patienten. Nach der
 Nahrungsaufnahme steigt der Blutzuckerspiegel stark an und fällt dann
 wieder auf einen “nüchternen Normalwert” ab. Der normale
@@ -1304,9 +1304,6 @@ durchgeführt.
     :width: 99%
 
     Blutzuckermessung    
-
-.. figure:: 
-    :width: 99%
 
 
 .. subfigend::

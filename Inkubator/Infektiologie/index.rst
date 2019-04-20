@@ -132,7 +132,7 @@ und auf Meningismus-Zeichen geprüft werden ([Thema-meningismuszeichen]).
 Stämme
 ------
 
- Grippeviren kommen in verschiedenen Stämmen (???, und ) vor, welche
+Grippeviren kommen in verschiedenen Stämmen (???, und ) vor, welche
 wiederum durch unterschiedliche Arten von Hämagglutinin (???) und
 Neuramidase (???) unterschieden werden. Dadurch kommen so klingende Namen
 wie “” oder “” zu Stande. Je nach Unterart verhalten sich die Viren
@@ -364,12 +364,12 @@ Erkrankung darstellt. Dabei kommt es durch das *geschwächte Immunsystem*
 zu *Folgeerkrankungen*, an denen der Patient schwer erkranken und
 versterben kann:
 
--  *Infektionen* mit normalerweise harmlosen Erregern
+-   *Infektionen* mit normalerweise harmlosen Erregern
 
-   -   Pilze, “fakultative” Erreger, “Opportunisten”, seltene Arten der
-      Lungenentzündung
+    -   Pilze, “fakultative” Erreger, “Opportunisten”, seltene Arten der
+        Lungenentzündung
 
--  *Tumore*
+-   *Tumore*
 
 Abhängig von der durchgeführten Therapie bricht das AIDS einige Jahre
 nach der eigentlichen HIV-Infektion aus.

@@ -285,10 +285,10 @@ Verletzungen (insbesondere SHT und Wirbelsäulentrauma) auszugehen. In
 (Böhmer, Schneider, and Wolcke 2006) sind folgende Faustregeln
 angegeben:
 
--  | Bis 30 km / h: Lebensbedrohliche Verletzungen möglich
-   | (Eine Fahrzeuggeschwindigkeit von mehr als 30 km / h
-     kann bei trockener Fahrbahn an Bremsspuren, die länger als !!!
-     VONBIS !!!1020m sind, erkannt werden.)
+-   Bis 30 km / h: Lebensbedrohliche Verletzungen möglich
+    (Eine Fahrzeuggeschwindigkeit von mehr als 30 km / h
+    kann bei trockener Fahrbahn an Bremsspuren, die länger als !!!
+    VONBIS !!!1020m sind, erkannt werden.)
 
 -   Bis 50 km / h: Aufprall des Kopfes auf die Kühlerhaube
 
@@ -296,7 +296,7 @@ angegeben:
     Windschutzscheibe
 
 -   Mehr als 70 km / h: Fußgänger wird über das
-   F    ahrzeugdach geworfen (gilt für PKW)
+    Fahrzeugdach geworfen (gilt für PKW)
 
 
 
@@ -546,13 +546,13 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
 öffnet und schließlich mittels Stiefelgriff (siehe
 [Thema-vacuumbeinschiene-anwendung]) vorsichtig vom Fuß abzieht.
 
-.. figure:: /Bilder/fraktur_fehlstellung_nativ.*
+.. figure:: /Bilder/HauerDavid-Ccc/fraktur_fehlstellung_nativ.*
     :width: 99%
 
     Fehlstellung einer Unterschenkelfraktur nach einem
     Verkehrsunfall (PKW gegen Fußgänger) in natura …
 
-.. figure:: /Bilder/fraktur_fehlstellung_xray.*
+.. figure:: /Bilder/HauerDavid-Ccc/fraktur_fehlstellung_xray.*
     :width: 99%
 
     … und in Röntgendarstellung
@@ -575,7 +575,7 @@ Spezielle Knochenbrüche
 Beschreibung
 ------------
 
- Die beiden im Rettungsdienst am häufigsten anzutreffenden, speziellen
+Die beiden im Rettungsdienst am häufigsten anzutreffenden, speziellen
 Knochenbrüche sind die Schlüsselbeinfraktur und die Schenkelhalsfraktur.
 
 -  Schlüsselbeinfraktur
@@ -855,7 +855,7 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
    Weiters muss auf *neurologische Ausfälle* (sensorisch, motorisch) in
    Folge einer *HWS-Verletzung* geachtet werden.
 
-    Die Schwere der Bewusstseinsstörung kann der erfahrene Helfer
+   Die Schwere der Bewusstseinsstörung kann der erfahrene Helfer
    zusätzlich durch die Glasgow Coma Scale einschätzen.
 
 -  *Traumacheck* Ein Traumacheck ist natürlich verpflichtend
@@ -1299,7 +1299,7 @@ Todesangst.
 -  Spontanpneumothorax
 
 
-.. figure:: /Bilder/pneumothorax_xray_halb.*
+.. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_xray_halb.*
     :width: 99%
 
     Pneumothorax. Beachte die Randlinie zwischen Lunge (unten,
@@ -1307,7 +1307,7 @@ Todesangst.
     
     *Hauer*
 
-.. figure:: /Bilder/pneumothorax_xray_endstadium.*
+.. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_xray_endstadium.*
     :width: 99%
 
     Im Vergleich: Kompletter Pneumothorax der rechten
@@ -1315,7 +1315,7 @@ Todesangst.
     
     *Hauer*
 
-.. figure:: /Bilder/pneumothorax_stichverletzung_diskret.*
+.. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.*
     :width: 99%
 
     Diese unauffällige Stichverletzung hat
@@ -1458,7 +1458,7 @@ Bauch- und Beckentrauma
 Beschreibung
 ============
 
- Ein Bauchtrauma oder Abdominaltrauma ist eine Verletzung des Abdomens.
+Ein Bauchtrauma oder Abdominaltrauma ist eine Verletzung des Abdomens.
 In einigen Büchern ist das Bauchtrauma als Untergruppe des akuten
 Abdomens klassifiziert. Häufigste Ursachen sind Verkehrsunfälle, Stürze
 aus großer Höhe sowie Stoß- und Schlagverletzungen. (Redelsteiner et al.
@@ -1686,7 +1686,7 @@ auch hier zu einer zweizeitigen Leberruptur kommen.
 Aortenruptur
 ------------
 
- Durch einwirkende starke Kräfte kann es zu einem Riss in der Aorta
+Durch einwirkende starke Kräfte kann es zu einem Riss in der Aorta
 kommen. Besonders bei Stürzen aus großen Höhen kann dies vorkommen. Da
 es sich bei der Aorta um das größte Gefäß des Körpers handelt ist die
 Prognose äußerst schlecht.
@@ -2003,14 +2003,14 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     Verbrennung 2°
     
-    [*Yunaerith; WMC / CC-BY-SA 3.0 unported]
+    [Yunaerith; WMC / CC-BY-SA 3.0 unported]
 
 .. figure:: /Bilder/WikipediaCcBySa/Verbrennung_3gradig01.*
     :width: 99%
 
     Verbrennung 3°
 
-    [*Sushma Koirala Memorial Hospital, Dr. Andreas Settje;
+    [Sushma Koirala Memorial Hospital, Dr. Andreas Settje;
     WMC / CC-BY-SA 3.0 unported]
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-01.*
@@ -2168,7 +2168,7 @@ auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
 
 -  Selbstschutz, Dekontamination!!!
 
-.. figure:: /Bilder/HauerDavid-Ccc/notbrause2.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/notbrause2.*
 
     Notbrause
     

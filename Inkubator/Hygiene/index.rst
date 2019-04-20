@@ -219,7 +219,7 @@ Virale Infektionen sind sehr häufig. Die meisten sog.
 die *Grippe*, *Feuchtblattern* und viele *Hepatitis*-Formen, werden
 durch Viren verursacht.
 
-.. sidebar::
+.. sidebar:: Viren
      
   -  Keine vollständigen Zellen
 
@@ -729,7 +729,7 @@ Das Ziel der :dfn:`Sterilisation` :index:`\ <! Sterilisation>` ist die Abtötung
 Voraussetzung für die Sterilisation ist eine *vorherige Reinigung* und
 *Desinfektion*!
 
- Das bekannteste Verfahren ist das *Autoklavieren*, dabei wird der
+Das bekannteste Verfahren ist das *Autoklavieren*, dabei wird der
 Gegenstand unter Überdruck mit Hitze und Wasserdampf behandelt.
 Sterilisationsverfahren sind relativ aufwendig und setzen Wissen und
 Erfahrung voraus. [265]_
@@ -876,7 +876,7 @@ beschriftet wird.
 
 -  Nach Kontamination:
 
-   -  **Vorreinigung* vor Ort*: Eintrocknen verhindern
+   -  **Vorreinigung** vor Ort: Eintrocknen verhindern
 
    -  Ggfs. *Schläuche durchspülen*:
 
@@ -999,10 +999,10 @@ Umgang mit spitzen Gegenständen
 
 .. sidebar:: Spitze Gegenstände 
 
-    -  *“Wer sticht, der entsorgt!”*
+    -   *“Wer sticht, der entsorgt!”*
 
-    -  Nadelabwurfbehälter: *Nie* nachstopfen, *nie* ausleeren. – Wenn
-    die Box voll ist, wird sie verschlossen und ausgetauscht.
+    -   Nadelabwurfbehälter: *Nie* nachstopfen, *nie* ausleeren. – Wenn
+        die Box voll ist, wird sie verschlossen und ausgetauscht.
 
 Spitze Gegenstände (Kanülen, Lanzetten, …)
 sind sofort nach Gebrauch in den Nadelabwurfbehälter (“Gelbe Box”,
@@ -1129,7 +1129,7 @@ unterscheidet zwischen:
    Erregern behafteter Abfall
 
     Diese Abfälle sind Gefahrgut im Sinne des ADR, Klasse 6.2
-   ([Thema-adr]); sie sind vor der Abfallbereitstellung zu desinfizieren
+    ([Thema-adr]); sie sind vor der Abfallbereitstellung zu desinfizieren
 
 Die im Rettungs- und Krankentransportdienst anfallenden Abfällen gehören
 i.d.R. den Gruppen [item:hyg-abfall-oenorm-gruppe1] und

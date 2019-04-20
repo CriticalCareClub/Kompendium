@@ -367,24 +367,24 @@ Untersuchungen [276]_ ins Krankenhaus mitzunehmen!*
 .. figure:: /Bilder/WikipediaPd/Newborn_umbilical_suction-AASS-0030mm.*
     :width: 99%
 
-	Durchtrennung der Nabelschnur, die patientenferne Klemme ist
+    Durchtrennung der Nabelschnur, die patientenferne Klemme ist
     durch die Hand verdeckt.    
-    
-    [*WMC: “Jeremykemp” / PD*]
+
+    [WMC: “Jeremykemp” / PD]
 
 .. figure:: /Bilder/WikipediaPd/Navelklem.*
     :width: 99%
 
-	Abgeklemmte Nabelschnur 
-    
-    [*WMC: “Harmid” / PD*]
+    Abgeklemmte Nabelschnur 
+
+    [WMC: “Harmid” / PD]
 
 .. figure:: /Bilder/WikipediaPd/Umbilicalstump.*
     :width: 99%
 
-	Nabelschnurstumpf nach sieben Tagen 
-    
-    [*WMC: “Fatrabbit” / PD*    ]
+    Nabelschnurstumpf nach sieben Tagen 
+
+    [WMC: “Fatrabbit” / PD]
 
 .. subfigend::
     :width: 0.3

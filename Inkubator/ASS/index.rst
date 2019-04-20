@@ -47,40 +47,39 @@ manchen Fällen ist auch eine Konzentrationsangabe üblich (z.B. Glukose ,
 NaCl , Propofol , Adrenalin usw.). Ein Prozent enspricht dann
 umgerechnet 10mg/ML bzw. entspricht .
 
-!!! TABELLE WEIT Typische Angaben zu Wirkstoffmenge und
-KonzentrationBeachte: Gleichlautende Spezialitäten können erheblich
-unterschiedliche Wirkstoffkonzentrationen sowie Wirkstoff- und
-Füllmengen aufweisen!
+!!! TABELLE WEIT 
 
-+-----------------------+----------------------+---------------+---------------------+------------------------+
-| **Form**              | **Wirkstoffmenge**   | **Volumen**   | **Konzentration**   | **Beispiele**          |
-+-----------------------+----------------------+---------------+---------------------+------------------------+
-| Ampulle               | 2mg                  | 20ml          | = =                 | L-Adrenalin            |
-+-----------------------+----------------------+---------------+---------------------+------------------------+
-| Ampulle               | 5mg                  | 5ml           |                     | Dormicum               |
-+-----------------------+----------------------+---------------+---------------------+------------------------+
-| Ampulle               | 15mg                 | 3ml           |                     | Dormicum               |
-+-----------------------+----------------------+---------------+---------------------+------------------------+
-| Ampulle               | 25mg                 | 5ml           |                     | Ketanest               |
-+-----------------------+----------------------+---------------+---------------------+------------------------+
-| Ampulle               | 50mg                 | 2ml           |                     | Ketanest               |
-+-----------------------+----------------------+---------------+---------------------+------------------------+
-| Stechampulle          | 500mg                | 50ml          | =                   | Propofol               |
-+-----------------------+----------------------+---------------+---------------------+------------------------+
-| Stechampulle          | 1000mg               | 50ml          | =                   | Propofol               |
-+-----------------------+----------------------+---------------+---------------------+------------------------+
-| Tabletten             | 500mg                |               |                     | Parkemed, Mexalen, …   |
-+-----------------------+----------------------+---------------+---------------------+------------------------+
-| Trockenstechampulle   | 4000 IE              |               |                     | Heparin                |
-+-----------------------+----------------------+---------------+---------------------+------------------------+
+.. table:: Typische Angaben zu Wirkstoffmenge und Konzentration. Beachte: Gleichlautende Spezialitäten können erheblich unterschiedliche Wirkstoffkonzentrationen sowie Wirkstoff- und Füllmengen aufweisen!
+
+    +-----------------------+----------------------+---------------+---------------------+------------------------+
+    | **Form**              | **Wirkstoffmenge**   | **Volumen**   | **Konzentration**   | **Beispiele**          |
+    +-----------------------+----------------------+---------------+---------------------+------------------------+
+    | Ampulle               | 2 mg                 | 20 ml         | 1 mL = 0,1 mg       | L-Adrenalin            |
+    +-----------------------+----------------------+---------------+---------------------+------------------------+
+    | Ampulle               | 5 mg                 | 5 ml          |                     | Dormicum               |
+    +-----------------------+----------------------+---------------+---------------------+------------------------+
+    | Ampulle               | 15 mg                | 3 ml          |                     | Dormicum               |
+    +-----------------------+----------------------+---------------+---------------------+------------------------+
+    | Ampulle               | 25 mg                | 5 ml          |                     | Ketanest               |
+    +-----------------------+----------------------+---------------+---------------------+------------------------+
+    | Ampulle               | 50 mg                | 2 ml          |                     | Ketanest               |
+    +-----------------------+----------------------+---------------+---------------------+------------------------+
+    | Stechampulle          | 500 mg               | 50 ml         | =                   | Propofol               |
+    +-----------------------+----------------------+---------------+---------------------+------------------------+
+    | Stechampulle          | 1000 mg              | 50 ml         | =                   | Propofol               |
+    +-----------------------+----------------------+---------------+---------------------+------------------------+
+    | Tabletten             | 500 mg               |               |                     | Parkemed, Mexalen, …   |
+    +-----------------------+----------------------+---------------+---------------------+------------------------+
+    | Trockenstechampulle   | 4000 IE              |               |                     | Heparin                |
+    +-----------------------+----------------------+---------------+---------------------+------------------------+
 
 Viele Medikamente können auch zur besseren Dosierung mit *geeigneten
 Substanzen* (siehe Packungsbeilage) verdünnt werden:
 
--  Ampulle mit Wirkstoff 15mg in 3ml Konzentration 5!!! NICEFRAC !!!
+-  Ampulle mit Wirkstoff 15 mg in 3 ml: Konzentration 5 mg / mL
 
--  Obige Ampulle + 12ml physiologische Kochsalzlösung ( 0,9)
-   Konzentration 1!!! NICEFRAC !!!
+-  Obige Ampulle + 12 ml physiologische Kochsalzlösung (0,9%):
+   Konzentration 1 mg / mL
 
 Manche Medikamente liegen als *Trockensubstanz* in einer
 *Trockenstechampulle* vor, welche vor Verwendung erst mit einem
@@ -140,7 +139,7 @@ vorbehalten. Die gängigen Injektionsarten sind:
 Nicht invasiv
 ^^^^^^^^^^^^^
 
- Bei der nicht invasiven Verabreichung wird das Medikament über eine
+Bei der nicht invasiven Verabreichung wird das Medikament über eine
 Schleimhaut oder direkt über die Haut aufgenommen. Für die **orale** :index:`\ <orale>` Aufnahme muss das Arzneimittel geschluckt werden. Bei der *sublingualen* :index:`\ <sublingual>` Methode kommt die Substanz unter
 die Zunge des Patienten. Bei der *perkutanen* :index:`\ <perkutan>`
 Verabreichung wird das Medikament auf die Haut aufgetragen und
@@ -389,7 +388,7 @@ Vorgehen
     :width: 99%
 
     Mit der Radklemme wird
-die Inf eschwindigkeit reguliert.
+    die Inf eschwindigkeit reguliert.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-3WegHahn-Live-00441pt.*
     :width: 99%
@@ -513,33 +512,33 @@ Assistenz
 
 #. Ggfs. *3-Wege-Hahn spülen*
 
-   -  Spritze mit Spülflüssigkeit ansetzen und durchspülen
+    -   Spritze mit Spülflüssigkeit ansetzen und durchspülen
 
-   -  Alternativ, bei Verwendung mit Infusion: 3-Wege-Hahn an
-      Infusionsbesteck anschließen und mit Infusionslösung durchspülen
+    -   Alternativ, bei Verwendung mit Infusion: 3-Wege-Hahn an
+        Infusionsbesteck anschließen und mit Infusionslösung durchspülen
 
-#. *Nadelabwurfbehälter* in Reichweite des Durchführenden bereitstellen,
-   sodass er später den Mandrin abwerfen kann.
+#.  *Nadelabwurfbehälter* in Reichweite des Durchführenden bereitstellen,
+    sodass er später den Mandrin abwerfen kann.
 
-#. *Stauschlauch* zureichen
+#.  *Stauschlauch* zureichen
 
 #.  Der Durchführende legt nun den Stauschlauch an, staut, und sucht
-   eine passende Vene für die Punktion.
+    eine passende Vene für die Punktion.
 
-#. *Alko-Tupfer zureichen*: Mit geöffneter Verpackung sodass dieser
-   entnommen werden kann
+#.  *Alko-Tupfer zureichen*: Mit geöffneter Verpackung sodass dieser
+    entnommen werden kann
 
-#. *Venenverweilkanüle zureichen*: An der Schutzkappe halten, sodass der
-   Durchführende die Verweilkanüle abziehen kann
+#.  *Venenverweilkanüle zureichen*: An der Schutzkappe halten, sodass der
+    Durchführende die Verweilkanüle abziehen kann
 
 #.  Der Durchführende punktiert nun die Vene.
 
-#. *Trockene Tupfer* zureichen
+#.  *Trockene Tupfer* zureichen
 
-#. Je nach Situation 3-Wege-Hahn, Stoppel und Spülung oder
-   Infusionsschlauch zureichen
+#.  Je nach Situation 3-Wege-Hahn, Stoppel und Spülung oder
+    Infusionsschlauch zureichen
 
-#. *Fixierpflaster* zureichen
+#.  *Fixierpflaster* zureichen
 
 .. todo:: Bilder
 

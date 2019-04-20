@@ -87,7 +87,7 @@ es schnell zu lebensbedrohlichen Zuständen kommen.
 Alkohol wirkt enthemmend, z.T. stimulierend und stimmungsmodulatorisch.
 Weiters kommt es zu einer Sprach- und Gangunsicherheit.
 
- Die akute Alkoholvergiftung ist von der chronischen Alkoholabhängigkeit
+Die akute Alkoholvergiftung ist von der chronischen Alkoholabhängigkeit
 (Alkoholkrankheit) zu unterscheiden.
 
 -  Enthemmend, stimmungsmodulatorisch
@@ -372,7 +372,7 @@ Krämpfe sind gut möglich.
 .. todo:: !!! PROCEDURE !!! MT58001C
 
 
-.. figure:: /Bilder/2006-01-31-gaswienheute2.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/2006-01-31-gaswienheute2.*
 
     VergiftungRegelmäßig kommt es zu Unfällen durch defekte Gasthermen oder
     Heizlüfter. Bei diesem Einsatz war ein RTW des ASB
@@ -430,7 +430,7 @@ Soforttyp
     (z.B. Tränengas,...) Augenrötung, starker Hustenreiz
 
 Verzögerungstyp
-     (z.B. Nitrosegase) kaum Hustenreiz, Latenzphase (kaum Symptome),
+    (z.B. Nitrosegase) kaum Hustenreiz, Latenzphase (kaum Symptome),
     *3—24h später: toxisches Lungenödem*; bei
     Nichtbehandlung evtl. irreversible Lungenschäden
 

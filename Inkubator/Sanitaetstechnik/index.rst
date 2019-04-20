@@ -5,17 +5,17 @@
 
 | Dieses Kapitel behandelt diverse allgemeine und spezielle Maßnahmen der Sanitätshilfe.
 
-.. option:: Maintainer
+Maintainer
 
     Diverse
 
-.. envar:: Autoren
+Autoren
 
     Diverse
 
-.. describe:: Reviewer
+Reviewer
  
-   Standard-Reviewprozess
+    Standard-Reviewprozess
 
 
 
@@ -81,36 +81,36 @@ Siehe [Figure-haendedesinfektion].
 
 .. figure:: /Bilder/hygiene/haendedesinfektion01.png
 
-	    Eine Portion alkoholisches Händedesinfektionsmittel (ca. 3 ml = 1 Hohlhand) mittels Ellenbogen aus
-dem Spender entnehmen; Hände und Handgelenke vollständig benetzen.
+    Eine Portion alkoholisches Händedesinfektionsmittel (ca. 3 ml = 1 Hohlhand) mittels Ellenbogen aus
+    dem Spender entnehmen; Hände und Handgelenke vollständig benetzen.
 
 .. figure:: /Bilder/hygiene/haendedesinfektion02.png
 
-	    Handinnenflächen gegeneinander reiben, geschlossene Finger.
+    Handinnenflächen gegeneinander reiben, geschlossene Finger.
 
 .. figure:: /Bilder/hygiene/haendedesinfektion03.png
 
-	    Handgelenke einreiben empty Mit ineinander verschränkten Fingern Handinnenflächen gegeneinander reiben
+    Handgelenke einreiben empty Mit ineinander verschränkten Fingern Handinnenflächen gegeneinander reiben
 
 .. figure:: /Bilder/hygiene/haendedesinfektion04.png
 
-	    Mit ineinander verschränkten Fingern Handinnenflächen gegeneinander reiben
+    Mit ineinander verschränkten Fingern Handinnenflächen gegeneinander reiben
 
 .. figure:: /Bilder/hygiene/haendedesinfektion05.png
 
-	    Mit rechter Handinnenfläche linken Handrücken reiben und umgekehrt, dabei Finger ineinander verschränken
+    Mit rechter Handinnenfläche linken Handrücken reiben und umgekehrt, dabei Finger ineinander verschränken
 
 .. figure:: /Bilder/hygiene/haendedesinfektion06.png
 
-	    Hände ineinander verhaken und Finger gegeneinander bewegen empty Daumen mit gegenüberliegender Hand vollständig umschließen und rotierend reiben. Daumenkuppen nicht vergessen! 
+    Hände ineinander verhaken und Finger gegeneinander bewegen empty Daumen mit gegenüberliegender Hand vollständig umschließen und rotierend reiben. Daumenkuppen nicht vergessen! 
 
 .. figure:: /Bilder/hygiene/haendedesinfektion07.png
 
-	    Daumen mit gegenüberliegender Hand vollständig umschließen und rotierend reiben. Daumenkuppen nicht vergessen!
+    Daumen mit gegenüberliegender Hand vollständig umschließen und rotierend reiben. Daumenkuppen nicht vergessen!
 
 .. figure:: /Bilder/hygiene/haendedesinfektion08.png
 
-	    Fingerkuppen im Handteller kreisförmig einreiben bis Alkohol verdunstet ist.
+    Fingerkuppen im Handteller kreisförmig einreiben bis Alkohol verdunstet ist.
 
 [Figure-haendedesinfektion]
 
@@ -460,9 +460,9 @@ Vorgehen
 #. *ActorA*\ A Der *hintere* Helfer zieht den Helm vorsichtig fertig ab
    und legt ihn sicher ab.
 
-#. *ActorA*\ A *Der *hintere* Helfer übernimmt den Kopf* im doppelten
-   C-Griff: Daumen und Zeigefinger um ein Ohr. Der Kopf darf **nicht*
-   auf Zug* gehalten werden, die HWS darf *nicht gestaucht* werden. Der
+#. *ActorA*\ A Der *hintere* Helfer übernimmt den Kopf im doppelten
+   C-Griff: Daumen und Zeigefinger um ein Ohr. Der Kopf darf *nicht*
+   auf Zug gehalten werden, die HWS darf *nicht gestaucht* werden. Der
    Kopf wird in Neutralposition stabilisiert. (Campbell 2010;
    Bundesverband/Bundesschulung, n.d.) [153]_
 
@@ -601,31 +601,31 @@ Siehe auch [Figure-hws-schiene-anlegen].
 #.  Patient auffordern *den Kopf nicht zu bewegen.*
 
 #.  Der hintere Helfer *stabilisiert* den Kopf und die HWS in
-   Neutralposition ohne Zug und ohne Stauchung.
+    Neutralposition ohne Zug und ohne Stauchung.
 
 #.  Beengende und behindernde *Kleidung entfernen*.
 
 #.  *Größenmessung*: Der seitliche Helfer misst die Entfernung von
-   Schulter bis Unterkiefer in Fingerbreiten aus.
+    Schulter bis Unterkiefer in Fingerbreiten aus.
 
-#. Stifneck entsprechend einstellen: gemessene Entfernung einstellen.
+#.  Stifneck entsprechend einstellen: gemessene Entfernung einstellen.
 
-   Verschiebemechanismus des Stifneck blockieren, ab nun darf kein
-   Verstellen mehr möglich sein.
+    Verschiebemechanismus des Stifneck blockieren, ab nun darf kein
+    Verstellen mehr möglich sein.
 
 #.  Klettverschlussband so einfalten, dass es nicht am Boden schleifen
-   kann (hält sonst nicht mehr).
+    kann (hält sonst nicht mehr).
 
 #.  Nackenteil unter Patient durch führen (Vorsicht:
-   Klettverschlussband).
+    Klettverschlussband).
 
 #. -Schiene *am Kinn anlegen*.
 
 #.  Fest schließen.
 
-   Die Kinnspitze sollte ein kurzes Stück über Kante hinaus schauen
-   (kein Durchrutschen), allerdings nicht allzu weit (falsch
-   eingestellt).
+    Die Kinnspitze sollte ein kurzes Stück über Kante hinaus schauen
+    (kein Durchrutschen), allerdings nicht allzu weit (falsch
+    eingestellt).
 
 
 
@@ -926,7 +926,7 @@ Spineboard
 Beschreibung
 ------------
 
-Das :def:`Spineboard` ist im Prinzip ein flaches Brett auf dem der Patient
+Das :dfn:`Spineboard` ist im Prinzip ein flaches Brett auf dem der Patient
 ähnlich dem Schaufeltrage-Vakuummatratze-Duett gerettet und fixiert
 werden kann. Es stellt somit in vielen Situationen eine Alternative zur
 Ganzkörper-/Wirbelsäulenimmobilisation dar.

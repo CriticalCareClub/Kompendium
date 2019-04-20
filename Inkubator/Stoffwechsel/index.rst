@@ -106,7 +106,7 @@ Typen des Diabetes mellitus:
    Die Patienten sind eher jung (Jugendliche, junge Erwachsene) und
    sportlich.
 
-    Ursache für die Störung ist eine Störung des Immunsystems, bei der
+   Ursache für die Störung ist eine Störung des Immunsystems, bei der
    es zu einer Zerstörung der Insulin-produzierenden
    :math:`{\beta}`-Zellen des Pankreas kommt. Durch den
    Produktionsausfall kommt es zu einem absoluten Mangel.

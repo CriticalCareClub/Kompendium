@@ -339,24 +339,24 @@ Im Verlauf des Magen-Darm-Traktes kann es an verschiedenen Stellen zu
 Blutungen kommen, die auch sehr schwer ausfallen können. Die
 Unterscheidung nach der Stelle der Blutung ist wesentlich:
 
--  Blutungen im *oberen Teil* des Verdauungstraktes können durch !!!
-   TERMINUS !!! [Oesophagusvarizen@Ösophagusvarizen]Ösophagusvarizen
-   verursacht werden: Bei Patienten mit einer fortgeschrittenen
-   Lebererkrankung (Leberzirrhose, [Thema-leberzirrhose]) kann es zur
-   Bildung von krampfaderartigen Gefäßerweiterungen in der Speiseröhre
-   kommen. Diese Gefäße können massive Blutungen verursachen, die
-   tödlich enden können. Auch Blutungen im Rahmen eines Magengeschwürs
-   sind möglich, aber selten dermaßen stark ausgeprägt.
+-   Blutungen im *oberen Teil* des Verdauungstraktes können durch 
+    *Ösophagusvarizen*
+    verursacht werden: Bei Patienten mit einer fortgeschrittenen
+    Lebererkrankung (Leberzirrhose, [Thema-leberzirrhose]) kann es zur
+    Bildung von krampfaderartigen Gefäßerweiterungen in der Speiseröhre
+    kommen. Diese Gefäße können massive Blutungen verursachen, die
+    tödlich enden können. Auch Blutungen im Rahmen eines Magengeschwürs
+    sind möglich, aber selten dermaßen stark ausgeprägt.
 
 -   Blutungen im *mittleren Teil* des Magen-Darm-Traktes können durch
-   diverse Erkrankungen und Tumore verursacht werden.
+    diverse Erkrankungen und Tumore verursacht werden.
 
 -   Blutungen im *Endteil* kommen oft durch Hämorrhoiden oder Tumore zu
-   Stande.
+    Stande.
 
--  Oberer Teil: Ösophagusvarizen
+-   Oberer Teil: Ösophagusvarizen
 
-   (Oft bei Lebererkrankungen, hoher Blutverlust möglich)
+    (Oft bei Lebererkrankungen, hoher Blutverlust möglich)
 
 -   Diverse Erkrankungen, Tumore
 
@@ -370,7 +370,9 @@ je nach Stärke zu schwallartigem Erbrechen von rotem, frischen Blut (
 Magensäure kommt es zur Veränderung des Blutes, es wird bräunlich,
 ähnlich dem Kaffeesatz im Kaffeefilter. Bei Blutungen im *mittleren
 Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz, man
-spricht vom sog. :dfn:`Teerstuhl` :index:`\ <! Teerstuhl>` (:dfn:`Meläna` :index:`\ <! Meläna>`. Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
+spricht vom sog. :dfn:`Teerstuhl` :index:`\ <! Teerstuhl>` 
+(:dfn:`Meläna` :index:`\ <! Meläna>`. 
+Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 -  Oberer Teil: Erbrechen von
 
@@ -514,9 +516,11 @@ Magen- und Zwölffingerdarmgeschwür
 Beschreibung und Ursachen
 -------------------------
 
-**Ein :dfn:`Magengeschwür` :index:`\ <! Magengeschwür>` bzw. ein :dfn:`Zwölffingerdarmgeschwür` :index:`\ <! Zwölffingerdarmgeschwür>` ist eine Entzündung der Magen- bzw.
+Ein :dfn:`Magengeschwür` :index:`\ <! Magengeschwür>` bzw. 
+ein :dfn:`Zwölffingerdarmgeschwür` :index:`\ <! Zwölffingerdarmgeschwür>` 
+ist eine Entzündung der Magen- bzw.
 Zwölffingerdarmschleimhaut mit Substanzdefekt. *Syn.* *Gastritis*,
-*Duodenitis*.** Die häufigste Ursache für ein Magengeschwür ist eine
+*Duodenitis*. Die häufigste Ursache für ein Magengeschwür ist eine
 chronische Infektion mit einem bestimmten Bakterium [251]_
 (Malfertheiner et al. 2004). Bestimmte Medikamente [252]_ schädigen die
 Magenschleimhaut und können bei häufiger Einnahme zu einem Geschwür

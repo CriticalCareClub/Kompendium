@@ -379,7 +379,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Rettung unter speziellen Bedingungen
 	    
 
-.. figure:: /Bilder/khd/gef-wind-rauch2.*
+.. figure:: /Bilder/GabrielSebastian/gef-wind-rauch2.*
     :width: 99%
 
     Autobrand mit giftigen Dämpfen

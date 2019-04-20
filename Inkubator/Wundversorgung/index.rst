@@ -156,14 +156,14 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 .. subfigstart::
 
 
-.. figure:: /Bilder/wunde_rqw1.*
+.. figure:: /Bilder/HauerDavid-Ccc/wunde_rqw1.*
     :width: 99%
     
     Rissquetschwunde vor der Versorgung im Spital 
     
     *Hauer* 
 
-.. figure:: /Bilder/wunde_rqw2.*
+.. figure:: /Bilder/HauerDavid-Ccc/wunde_rqw2.*
     :width: 99%
     
     Rissquetschwunde nach der Versorgung im Spital 
@@ -185,7 +185,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
     
     *Hauer*
 
-.. figure:: /Bilder/pneumothorax_stichverletzung_diskret.*
+.. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.*
     :width: 99%
     
     Stichverletzung: unauffällig. 

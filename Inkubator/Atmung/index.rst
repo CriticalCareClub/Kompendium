@@ -150,9 +150,8 @@ Lungenödem
 
 .. rubric:: Querverweise
 
-  -  Lungenentzündung (Pneumonie): :ref:`Thema-pneumonie`
-
-  -  Tuberkulose: :ref:`Thema-tuberkulose`
+-  Lungenentzündung (Pneumonie): :ref:`Thema-pneumonie`
+-  Tuberkulose: :ref:`Thema-tuberkulose`
 
 .. _Thema-atemstillstand:
 

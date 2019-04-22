@@ -4,11 +4,11 @@ Thiopental
 
 ist das letzte am Markt befindliche Barbiturat-Hypnotikum zur
 Verwendung im Rahmen der Allgemeinanästhesie. Seine Bedeutung hat
-seit der Einführung von Propofol deutlich abgenommen. 
+seit der Einführung von Propofol deutlich abgenommen.
 Aufgrund
 seines schnellen Wirkungseintritts wird Thiopental heute noch im
 Rahmen der Schnelleinleitung bei der Sectio caesaria eingesetzt,
-aber auch hier wird es zunehmend von Propofol verdrängt. 
+aber auch hier wird es zunehmend von Propofol verdrängt.
 
 
 
@@ -32,7 +32,7 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
 
     Der *Abbau* erfolgt durch Metabolisierung in der *Leber*. Die
     *Ausscheidung* der Metaboliten erfolgt *renal*.
-   
+
     Wirkungseintritt 15—45 s,
     Dauer der hypnotischen Wirkung 5—15 min,
     Eliminations-HWZ 5—10 h , PPB 97%
@@ -46,41 +46,42 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
     -   Zerebrale Vasokonstriktion, Abnahme der cerebralen Durchblutung
         (*CBF*) und des cerebralen Blutvolumens (*CBV*), Senkung des
         Hirndrucks (*ICP*)
-    -   Atemdepression, Singultus (bei flacher Narkose) 
+    -   Atemdepression, Singultus (bei flacher Narkose)
     -   Reduktion des Herzzeitvolumens (*HZV*);
     -   Venodilation, Blutpooling, Verminderung des venösen Rückstoms;
     -   negativ inotrop; evtl. Herzfrequenzzunahme und Zunahme des
-        myocardialen Sauerstoffbedarfs 
+        myocardialen Sauerstoffbedarfs
     -   Verminderung von Produktion
         und Sekretion von *ACTH*.
-    -   Porphyriekrise 
-    -   Histaminfreisetzung 
+    -   Porphyriekrise
+    -   Histaminfreisetzung
     -   Venenreizung, Gewebsnekrosen bei Paravasat
 
 .. Thema-: Indikation
 
     Narkoseeinleitung, besonders bei:
     -   Krampfanfall
-    -   Sectio caesaria (Propofol erscheint aber im Wesentlichen gleichwertig). Einleitung bei
+    -   Sectio caesaria (Propofol erscheint aber im Wesentlichen gleichwertig).
     -   Neugebronen bzw. Säuglingen ??
 
-    Sonst wurde Thiopental weitgehend von Propofol und Ketamin als Einleitungshypnotikum abgelöst.
+    Sonst wurde Thiopental weitgehend von Propofol
+    und Ketamin als Einleitungshypnotikum abgelöst.
 
 .. Thema-: Kontraindikationen
 
-    -   Schock, 
-    -   dekompensierte Herzinsuffizienz, 
+    -   Schock,
+    -   dekompensierte Herzinsuffizienz,
     -   akute Phase eines MCI,
-    -   Status asthmaticus, 
+    -   Status asthmaticus,
     -   akute hepatische Porphyrien //
 
-    Relativ: 
-    -   Hypovolämie, 
-    -   kompensierte Herzinsuffizienz, 
+    Relativ:
+    -   Hypovolämie,
+    -   kompensierte Herzinsuffizienz,
     -   KHK,
-    -   Asthmabronchiale, 
-    -   COPD, 
-    -   Leberzirrhose, 
+    -   Asthmabronchiale,
+    -   COPD,
+    -   Leberzirrhose,
     -   schwere Nierenfunktionsstörungen
 
 
@@ -90,7 +91,7 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
 
 
 
-.. warning:: 
+.. warning::
 
    Paravasat oder intraarterielle Injektion verursacht schwere
    *Gewebenekrosen*!
@@ -98,10 +99,10 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
 .. Thema-: Trivia
 
     Traurige Bekanntheit erreichte Thiopental durch seine Verwendung als Mittel
-    zur Hinrichtung per "Giftspritze" in den USA. 
-    Aufgrund der Verwendung zur Hinrichtung 
+    zur Hinrichtung per "Giftspritze" in den USA.
+    Aufgrund der Verwendung zur Hinrichtung
     besteht ein Exportverbot für die EU in
     die USA und Kanada.
-    Dies mag wohl dazu beigetragen haben, 
+    Dies mag wohl dazu beigetragen haben,
     dass Thiopental bei der Sectio-Einleitung
     zunehmend durch Propofol verdrängt wird.

@@ -3,20 +3,8 @@
 [SAN] Sanitätstechniken
 #######################
 
-| Dieses Kapitel behandelt diverse allgemeine und spezielle Maßnahmen der Sanitätshilfe.
-
-Maintainer
-
-    Diverse
-
-Autoren
-
-    Diverse
-
-Reviewer
- 
-    Standard-Reviewprozess
-
+Dieses Kapitel behandelt diverse allgemeine und
+spezielle Maßnahmen der Sanitätshilfe.
 
 
 ***********************************************************************
@@ -48,27 +36,39 @@ Handbewegungen.
     -  Die hygienische Händedesinfektion ist *vor* bzw. *nach jedem
        Patientenkontakt* durchzuführen!
 
-.. todo:: !!! PICTURESERIESWIDE !!!\ *Wozu Händehygiene?* Multiresistente Keime und ihre Auswirkungen in der Praxis. !!! SOURCEPICTURE !!! *Ch. Gabriel/KARPAT* !!! PICTURESERIESROWWIDE !!! 3
+.. todo:: !!! PICTURESERIESWIDE !!!\ *Wozu Händehygiene?* Multiresistente Keime und ihre Auswirkungen in der Praxis.
 
 .. figure:: /Bilder/GabrielChristine-Ccc/staph-aureus.jpg
-	    
-	    Auf einem Nährboden wurde eine Bakterienkultur angelegt. Jedes der sechs runden Plättchen enthält ein Antibiotikum. Man kann sehen dass in der Umgebung der Plättchen keine Bakterien wachsen.  *Ch. Gabriel/KARPAT*
+
+    Auf einem Nährboden wurde eine Bakterienkultur angelegt.
+    Jedes der sechs runden Plättchen enthält ein Antibiotikum.
+    Man kann sehen dass in der Umgebung der Plättchen keine Bakterien wachsen.
+
+    *Ch. Gabriel/KARPAT*
 
 .. figure:: /Bilder/GabrielChristine-Ccc/staph-aureus-mrsa.jpg
 
-	    Diese Bakterien (gleicher Keim!) ignorieren 4 von 6 Antibiotika-Plättchen, d.h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim. Er ist *multiresistent*. Die beste Maßmnahme dagegen: **Gar nicht erst übertragen!**     *Ch. Gabriel/KARPAT*
+    Diese Bakterien (gleicher Keim!) ignorieren 4 von 6 Antibiotika-Plättchen,
+    d.h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim.
+    Er ist *multiresistent*.
+    Die beste Maßmnahme dagegen: **Gar nicht erst übertragen!**
+    *Ch. Gabriel/KARPAT*
 
 .. figure:: /Bilder/GabrielChristine-Ccc/amputat-us1.jpg
-	    
-	    Oft die Folge: Amputation eines Unterschenkels mit einer nicht abheilenden, mit einem muliresistenten Staph. aureus (MRSA) infizierten Wunde.    *Ch. Gabriel/KARPAT*
-	    
+
+    Oft die Folge:
+    Amputation eines Unterschenkels mit einer nicht abheilenden,
+    mit einem muliresistenten Staph. aureus (MRSA) infizierten Wunde.
+
+    *Ch. Gabriel/KARPAT*
+
 
 
 Material
 ========
 
 -  Alkoholische Händedesinfektionslösung, z.B.: Sterilium, Manopronto
-   o.ä.
+   o. ä.
 
 Handlungsschritte
 =================
@@ -200,7 +200,7 @@ wird immer mit den *Füßen voran* getragen.
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch3b.jpg
     :width: 99%
 
-    … die obere Hälfte nochmals Richtung Patient umschlagen… 
+    … die obere Hälfte nochmals Richtung Patient umschlagen…
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch4b.jpg
     :width: 99%

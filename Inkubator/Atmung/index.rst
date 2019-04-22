@@ -314,7 +314,7 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 |                     | Verlangsamt                                         | Bradypnoe                                                            |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-| *Atemzugsvolumen*   | Schnappatmung                                       | [Thema-schnappatmung]                                                |    |
+| *Atemzugsvolumen*   | Schnappatmung                                       | :ref:`Thema-schnappatmung`                                                |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 |                     | Flache Atmung                                       |                                                                      |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
@@ -336,7 +336,7 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 |                     | Paradoxe Atmung                                     | Brustkorb *senkt* sich bei Einatmung, z.B. bei Serienrippenfraktur   |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-| *Geräte*            | Pulsoxymetrie                                       | [Thema-pulsoxymetrie]                                                |    |
+| *Geräte*            | Pulsoxymetrie                                       | :ref:`Thema-pulsoxymetrie`                                                |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 |                     |  Kapnometrie                                        |  CO₂-Messung                                                         |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
@@ -707,14 +707,14 @@ ABCDE
 **C**
     HF :math:`\uparrow`
 
-    Schwerer Anfall: HF :math:`\downarrow`
+    Schwerer Anfall: HF ↓
 
 **D**
-    Schwerer Anfall: RR :math:`\downarrow`
+    Schwerer Anfall: RR ↓
 
 **=**
     Schwere Atemnot: Vital bedroht. Erschöpfung: Atemarbeit
-    :math:`\downarrow` :math:`\rightarrow` Akute Lebensgefahr
+    ↓ → Akute Lebensgefahr
 
 SAMPLER
 =======
@@ -850,12 +850,12 @@ einem Atemstillstand kommen.
 
 -  Atemantrieb normalerweise durch *CO₂*-Spiegel
 
--  COPD: CO₂-Spiegel dauerhaft erhöht :math:`\rightarrow`
-   Gewöhnungseffekt :math:`\rightarrow` Atemantrieb gemäß O2-Spiegel
+-  COPD: CO₂-Spiegel dauerhaft erhöht →
+   Gewöhnungseffekt → Atemantrieb gemäß O2-Spiegel
 
 -  Problem bei Sauerstoffgabe: Verminderter Atemantrieb
 
-   -  Verminderte CO₂-Abatmung :math:`\rightarrow` Bewusstseinsstörungen
+   -  Verminderte CO₂-Abatmung → Bewusstseinsstörungen
 
    -  Extremfall: Atemstillstand
 
@@ -1072,7 +1072,7 @@ ABCDE: Lungenembolie
     Je nach Ursache der Embolie und Herkunft des Embolus kann man
     Zeichen anderer Krankheitsbilder wahrnehmen: Bei einer *tiefen
     Beinvenenthrombose* ist ein Bein geschwollen, überwärmt,
-    rot/rot-bläulich verfärbt und schmerzhaft ([Thema-thrombose]).
+    rot/rot-bläulich verfärbt und schmerzhaft (:ref:`Thema-thrombose`).
 
 **1**
     Bettlägrigkeit? Fernreise?
@@ -1091,7 +1091,7 @@ ABCDE: Lungenembolie
 
 **C**
     HF :math:`\uparrow`, evtl. arrhythmischer Puls (Vorhofflimmern), RR
-    normal od. |symbol-RedFlag|\  :math:`\downarrow`
+    normal od. |symbol-RedFlag|\  ↓
 
     Gestaute Halsvenen (Blutrückstau), evtl. arrhythmischer Puls bei
     Vorhofflimmern
@@ -1337,7 +1337,7 @@ oft Patienten mit Hyperventilationstetanie anzutreffen.
 
 -  Tiefe, schnelle Atmung bei sonst gesundem Menschen
 
--  Blut-pH wird basisch :math:`\rightarrow` Elektrolytstörung
+-  Blut-pH wird basisch → Elektrolytstörung
 
 -  Meist psychisch bedingt (Psych. Belastungsreaktion, Panikattacke,
    Prüfungen, Veranstaltungen)
@@ -1394,7 +1394,7 @@ ABCDE: Hyperventilationssyndrom
     Bei einer stoffwechselbedingten *Übersäuerung* (Azidose) kommt es zu
     einer Hyperventilation um CO₂ abzuatmen (dadurch wird Säure im
     Körper abgebaut). Die *Kussmaul’sche Atmung* beim *diabetischen
-    Koma* wäre ein typisches Beispiel dafür ([Thema-koma-diabetisches]).
+    Koma* wäre ein typisches Beispiel dafür (:ref:`Thema-koma-diabetisches`).
 
 **=**
     Normalerweise keine vitale Bedrohung (Differentialdiagnosen

@@ -26,9 +26,9 @@ jedem Notfallpatienten erfolgen. Es gibt nur wenig Situationen bei denen
 man darauf verzichten kann (zum Beispiel tobende Patienten). Zu den
 Vitalwerten zählt man:
 
--  die *Herzfrequenz* … [Thema-pulsmessung], [Thema-pulsoxymetrie]
+-  die *Herzfrequenz* … :ref:`Thema-pulsmessung`, :ref:`Thema-pulsoxymetrie`
 
--  den *Blutdruck* … [Thema-rr-messung]
+-  den *Blutdruck* … :ref:`Thema-rr-messung`
 
 -  die **Atemfrequenz** :index:`\ <Atemfrequenz>`: Bei der Messung der Atemfrequenz
    wird die Anzahl der Atemzüge pro Minute gezählt.
@@ -125,8 +125,8 @@ Blutdruck angegeben wird, ist !!! TERMINUS !!! *Millimeter
 Quecksilbersäule* (!!! TERMINUS !!! *mmHg*, ist das chemische Symbol für
 Quecksilber).
 
-Siehe auch [Thema-mechanische-herzfunktion] (Systole, Diastole,
-mechanische Herzfunktion), und [Thema-blutdruck] (Blutdruck).
+Siehe auch :ref:`Thema-mechanische-herzfunktion` (Systole, Diastole,
+mechanische Herzfunktion), und :ref:`Thema-blutdruck` (Blutdruck).
 
 -  Druck in den Arterien
 
@@ -266,7 +266,7 @@ plötzlich leiser wird, dann gilt der Druck, bei dem das Pochen
 Die Werte werden auf die nächste Fünferstelle abgerundet (z.B.: wird
 abgerundet auf ). Dokumentiert wird der Blutdruck mit dem Zusatz *RR*
 (z.B.: RR ). Der Normalwert beim Erwachsenen liegt in etwa bei RR 
-([Thema-blutdruck]).
+(:ref:`Thema-blutdruck`).
 
 #. Manschette faltenfrei auf Herzhöhe anlegen
 
@@ -522,7 +522,7 @@ Die größte Gefahr ist die falsche Interpretation von Messwerten.
    während und nach der Defibrillation falsche Werte angezeigt werden,
    das Gerät darf während der Defibrillation nicht berührt werden. Bei
    Mehrwegsensoren besteht das Risiko der Keimübertragung
-   (Kreuzinfektion, [Thema-kreuzinfektion]).
+   (Kreuzinfektion, :ref:`Thema-kreuzinfektion`).
 
 -  Eine besondere Fehlerquelle ist die *Kohlenmonoxid-()-Vergiftung*.
    Kohlenmonoxid-beladenes Blut ist ebenso hellrot wie
@@ -945,12 +945,12 @@ CO₂-Analysatoren kann man den prozentuellen Anteil (Volumen-) oder den
 Partialdruck (mmHg) an Kohlendioxid in der Ausatemluft messen und
 graphisch darstellen. Diese Verfahren sind wichtig, um eine *Fehllage*
 von Hilfsmitteln zur Atemwegssicherung (z.B. *Larynxtubus*
-([Thema-larynxtubus]), *Endotrachealtubus*
-([Thema-intubation-assistenz])) zu erkennen bzw. auszuschließen und kann
+(:ref:`Thema-larynxtubus`), *Endotrachealtubus*
+(:ref:`Thema-intubation-assistenz`)) zu erkennen bzw. auszuschließen und kann
 als Zielwert dienen um die *Beatmungsparameter* bei der Beatmung optimal
 für den Patienten einstellen zu können. Zusätzlich kann man durch die
 CO₂-Messung eine zuverlässige Aussage über die *Durchblutung der Lunge*
-(*Lungenperfusion*, [Thema-lungenperfusion]) treffen. Die Messung kann
+(*Lungenperfusion*, :ref:`Thema-lungenperfusion`) treffen. Die Messung kann
 in 3 Phasen eingeteilt werden:
 
 -  1. Phase: Das Atemgas aus dem Totraum der vorangegangenen Inspiration
@@ -1080,7 +1080,7 @@ Herzdruckmassage überprüft und ggfs. verbessert werden. Sollte trotz
 hochqualitativer Herzdruckmassage der Zielwert von über 9mmHg nicht
 erreicht werden, so kann die Ursache in einer Durchblutungsstörung im
 Lungenkreislauf (z.B. aufgrund einer Lungenembolie,
-[Thema-lungenembolie]) liegen. Ein plötzlicher Anstieg des etCO₂ unter
+:ref:`Thema-lungenembolie`) liegen. Ein plötzlicher Anstieg des etCO₂ unter
 Reanimation ist ein Hinweis auf einen *wiedererlangten Spontankreislauf*
 (ROSC) und ist als Lebenszeichen zu beurteilen.
 
@@ -1137,7 +1137,7 @@ Beschreibung
 **Der !!! TERMINUS !!! *Neurocheck* ist eine einfache, überblickshafte
 (“grobe”) Untersuchung der wichtigsten Funktionen des Nervensystems.**
 Teile des Neurochecks werden während des Einschätzungsblockes
-([Thema-einschaetzungsblock]) durchgeführt.
+(:ref:`Thema-einschaetzungsblock`) durchgeführt.
 
 
 .. _Thema-nackensteifigkeit-untersuchung:
@@ -1155,8 +1155,8 @@ Neurocheck
    #. bewusstlos
 
    Die Glasgow Coma Scale (GCS) erlaubt eine detailliertere Beschreibung
-   des Bewusstseins und des Verlaufs. Vgl. [Thema-bewusstsein], und
-   [Thema-gcs]
+   des Bewusstseins und des Verlaufs. Vgl. :ref:`Thema-bewusstsein`, und
+   :ref:`Thema-gcs`
 
 #. *Orientierung*:
 
@@ -1210,14 +1210,14 @@ Neurocheck
    Wenn eine Nackensteifigkeit vorliegt ist die Beugung nicht möglich
    und der Versuch schmerzhaft, der Patient bewegt evtl. den ganzen
    Rumpf mit. Die Bedeutung der Nackensteifigkeit wird unter
-   [Thema-meningitis] besprochen. *Bei jedem Patienten mit Fieber ist
+   :ref:`Thema-meningitis` besprochen. *Bei jedem Patienten mit Fieber ist
    auf das Vorliegen einer Nackensteifigkeit zu untersuchen*, jedoch
    **nicht bei Verdacht auf Wirbelsäulenverletzung!**
 
 #. *Blutzuckermessung*: Eine Blutzuckermessung gehört zu einem
    vollständigen Neurocheck.
 
-#. *Hirndruckzeichen* ([Thema-hirndruckzeichen]) sind eine typische
+#. *Hirndruckzeichen* (:ref:`Thema-hirndruckzeichen`) sind eine typische
    Kombination von Symptomen und deuten auf eine Erhöhung des Druckes
    innerhalb des Hirnschädels hin (z.B. aufgrund einer Verletzung oder
    Blutung). Hier sind eigentlich keine neuen Untersuchungsschritte
@@ -1229,7 +1229,7 @@ Neurocheck
    #. Bewusstseinsstörungen
 
    #. Vitalwertveränderung: Niedrige Herzfrequnz, hoher Blutdruck
-      (HF:math:`\downarrow`, RR\ :math:`\uparrow`)
+      (HF↓, RR\ :math:`\uparrow`)
 
    #. Ungleichweite Pupillen ([Figure-anisokorie-bau]), verlangsamte
       Lichtreaktion
@@ -1496,7 +1496,7 @@ vollständiger* Traumacheck durchgeführt!
     Armarterie und einer Armvene. Dadurch wird die Vene erweitert und sie
     pulsiert. Man kann viel mehr Durchfluss für die Dialyse erreichen.
     Die Nahtstelle zwischen Vene und Arterie ist jedoch sehr sensibel.
-    Wenn gestaut wird, kann sie aufplatzen :math:`\rightarrow` Gefahr
+    Wenn gestaut wird, kann sie aufplatzen → Gefahr
     einer massiven Shuntblutung.
 
 .. [120]

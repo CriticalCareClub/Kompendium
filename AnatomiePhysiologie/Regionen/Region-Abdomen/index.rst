@@ -133,7 +133,7 @@ Blutdruckregulierung (Renin) und für die Blutbildung (*Erythropoetin*).
 
 .. sidebar:: Niere, Aufgaben
 	     
-  -  Stark durchblutet, empfindlich auf RR- Abfall :math:`{\rightarrow}`
+  -  Stark durchblutet, empfindlich auf RR- Abfall →
 
   -  reguliert
 

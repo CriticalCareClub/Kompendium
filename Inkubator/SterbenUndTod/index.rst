@@ -155,7 +155,7 @@ durchlaufen werden:
    mit dem Schicksal
 
 -  *Depression*: Traurige, deprimierte Stimmungslage, Verlust des
-   “sinnerfüllten Daseins”; vgl. [Thema-depression]
+   “sinnerfüllten Daseins”; vgl. :ref:`Thema-depression`
 
 -  *Akzeptanz*: Der Patient kann sein Schicksal annehmen, er findet sich
    damit ab.

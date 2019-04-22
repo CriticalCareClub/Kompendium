@@ -43,7 +43,7 @@ Einfache Techniken zur einfachen Atemwegssicherung
 Sobald der Atemweg gefährdet ist oder eine Atemwegsverlegung bemerkt
 wird, müssen sofort Maßnahmen eingeleitet werden, die die Atemwege frei
 machen und frei halten sollen. Bei einer Verlegung der Atemwege durch
-Flüssigkeiten bietet sich die *Absaugung* an ([Thema-absaugung]). Um
+Flüssigkeiten bietet sich die *Absaugung* an (:ref:`Thema-absaugung`). Um
 einer Verlegung durch ein Herabsinken der Zunge zu vermeiden gibt es
 folgende einfache Möglichkeiten (Charles D Deakin, Nolan, Soar, et al.
 2010):
@@ -356,10 +356,10 @@ In der Rachenhinterwand verläuft ein Nerv, welcher Einfluss auf den
 Kreislauf hat (Vagus-Nerv). Wenn dieser gereizt wird, kann es zu
 gefährlichen *Kreislaufstörungen* kommen. Der Vagus-Nerv ist Teil des
 *Parasympathikus* und des vegetativen Nervensystems
-([Thema-parasymapthikus]). Weiters kann es zu *Schleimhautverletzungen*
+(:ref:`Thema-parasymapthikus`). Weiters kann es zu *Schleimhautverletzungen*
 und Blutungen kommen. Ebenso kann ein *Brechreiz* ausgelöst werden, wenn
 der Katheter zu tief eingeführt wird. Bei Verdacht auf ein
-Schädel-Hirn-Trauma ([Thema-sht]) darf aufgrund möglicher Verletzungen
+Schädel-Hirn-Trauma (:ref:`Thema-sht`) darf aufgrund möglicher Verletzungen
 der Schädelbasis nicht über die Nase abgesaugt werden!
 
 .. sidebar:: Gefahren

@@ -142,7 +142,7 @@ Haltung gegenüber dem Patienten
 ===============================
 
 Dementsprechend gelten grundsätzlich auch die gleichen Regeln für die
-Gesprächsführung wie sie unter [Thema-kommunikationsregeln] besprochen
+Gesprächsführung wie sie unter :ref:`Thema-kommunikationsregeln` besprochen
 wurden. Der Patient verdient den gleichen Respekt und die gleiche
 Wertschätzung wie ein körperlich Erkrankter.
 
@@ -370,13 +370,13 @@ ll
 
    #. Delir
 
-      z.B. Alkoholentzugsdelir ([Thema-alkoholentzugsdelir])
+      z.B. Alkoholentzugsdelir (:ref:`Thema-alkoholentzugsdelir`)
 
    #. Dämmerzustand
 
    #. Durchgangssysndrom
 
-      z.B. [Thema-durchgangssyndrom]
+      z.B. :ref:`Thema-durchgangssyndrom`
 
 #. Chronische organische Psychosen
 

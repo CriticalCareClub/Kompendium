@@ -270,7 +270,7 @@ Blutdruck lässt sich einfach mittels Blutdruckmanschette messen.
 
    -  Durchblutung des Gewebes
 
-   -  Blutdruckmessung :math:`\rightarrow` **C**
+   -  Blutdruckmessung → **C**
 
 .. _Thema-blutdruck:
 
@@ -285,8 +285,8 @@ synchronen – ebenfalls rhythmischen – Druckveränderungen: In der
 der *Füllungsphase* des Herzens (*Diastole*) wieder ab, bis das Herz
 neuerlich Blut auswirft. Der !!! TERMINUS DFN !!! :dfn:``
 [Blutdruck!systolischer]systolische Blutdruck ist somit der
-Spitzendruck, der !!! TERMINUS DFN !!! :dfn:`` [Blutdruck!diastolischer]diastolische
-Blutdruck der Minimaldruck. Zur Durchführung der Blutdruckmessung vgl.
+Spitzendruck, der *diastolische
+Blutdruck* der Minimaldruck. Zur Durchführung der Blutdruckmessung vgl.
 :ref:`Thema-rr-messung`, Beurteilung des Blutdrucks
 :ref:`Thema-blutdruck-beurteilung`.
 
@@ -355,7 +355,7 @@ erhalten. Beispiele von Rhythmen werden unter
    fähig, sofern ihr nicht die übergeordnete Station zuvor kommt.
 
 
--  Elektrische Herzfunktion :math:`\rightarrow` mechanische Herzfunktion
+-  Elektrische Herzfunktion → mechanische Herzfunktion
 
 -  Abfolge:
 

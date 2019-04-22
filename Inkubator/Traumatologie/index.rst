@@ -41,7 +41,7 @@ wichtigsten Aufgaben sind:
    bei mehreren Verletzten, Feuerwehr, Polizei (Alarmierung
    ausschließlich über das Journal, Meldung der Anzahl an Verletzten)
 
--  Bei mehreren Verletzten Triage ([Thema-triage])
+-  Bei mehreren Verletzten Triage (:ref:`Thema-triage`)
 
 -  Eingeklemmte Personen werden im Fahrzeug stabilisiert bis die
    Feuerwehr die Verunfallten rettet; Helme tragen!
@@ -312,7 +312,7 @@ Szeneüberblick an folgende Fragestellungen zu denken:
 
    Ab einer Fallhöhe von 3m ist mit schweren Verletzungen zu rechnen, ab
    einer Fallhöhe von *6m* ist von einem *Polytrauma*
-   ([Thema-polytrauma]) auszugehen (Böhmer, Schneider, and Wolcke 2006).
+   (:ref:`Thema-polytrauma`) auszugehen (Böhmer, Schneider, and Wolcke 2006).
 
 -  Mit welchem Körperteil ist er auf dem Boden aufgeprallt?
 
@@ -511,7 +511,7 @@ Gefahren
    besteht, kann v.a. bei Frakturen langer Röhrenknochen zu Fettembolien
    führen: Kleine Fetttröpfchen gelangen dabei in die Blutbahn und
    können eine Lungenarterie verstopfen, dadurch kommt es zu einer
-   Lungenembolie ([Thema-lungenembolie]).
+   Lungenembolie (:ref:`Thema-lungenembolie`).
 
 -  Begleitende *Nervenverletzungen*
 
@@ -520,7 +520,7 @@ Gefahren
    (Osteomyelitis) besteht! Wenn mögllich soll eine Wundfolie (z.B. !!!
    TERMINUS !!! *OpSite*) verwendet werden.
 
--  Kombination von mehreren Frakturen :math:`\rightarrow` großer
+-  Kombination von mehreren Frakturen → großer
    Blutverlust
 
 -  Schwere Muskelquetschung kann zu einem Sauerstoffmangel im Muskel
@@ -544,7 +544,7 @@ Traumacheck durchgeführt werden, damit keine Begleitverletzungen
 entkleidet wird. [300]_ Beim Entfernen der Schuhe ist darauf zu achten,
 dass eine Person das Bein fixiert während eine andere Person den Schuh
 öffnet und schließlich mittels Stiefelgriff (siehe
-[Thema-vacuumbeinschiene-anwendung]) vorsichtig vom Fuß abzieht.
+:ref:`Thema-vacuumbeinschiene-anwendung`) vorsichtig vom Fuß abzieht.
 
 .. figure:: /Bilder/HauerDavid-Ccc/fraktur_fehlstellung_nativ.*
     :width: 99%
@@ -750,30 +750,30 @@ Begleitende Verletzungen
 Gefahren
 ========
 
--  *!!! TERMINUS DFN !!! :dfn:`` [Intervall!luzides]Luzides Intervall (lichtes
+-  :dfn:`Luzides Intervall` (lichtes
    Intervall)*: Die Symptome können eventuell erst Stunden nach der
    Verletzung einsetzen. Dazwischen ist der Patient unauffällig. Diese
-   Zeitspanne wird !!! TERMINUS DFN !!! :dfn:`` [Intervall!luzides]Luzides Intervall
+   Zeitspanne wird *Luzides Intervall*
    genannt und ist sehr gefährlich, da man den Patienten leicht falsch
    einschätzen kann.
 
 -  *Hirnblutung*: Eine Hirnblutung (intrakranielle Blutung) kann sowohl
    in Folge eines SHT als auch spontan (z.B. durch Platzen eines
-   Aneurysmas, “blutiger Insult”, [Thema-insult]) auftreten.
+   Aneurysmas, “blutiger Insult”, :ref:`Thema-insult`) auftreten.
 
    Aufgrund der inneren Blutung steigt der Druck im Schädel an, s.u.
 
 -  *Hirndrucksteigerung*: Sowohl durch eine *Hirnblutung*, als auch
    durch ein verletzungsbedingtes *Anschwellen des Hirngewebes*
    (*Hirnödem*) kann es zu einer Drucksteigerung innerhalb des Schädels
-   und zum Auftreten von *Hirndruckzeichen* ([Thema-hirndruckzeichen])
+   und zum Auftreten von *Hirndruckzeichen* (:ref:`Thema-hirndruckzeichen`)
    kommen:
 
    -  Übelkeit, Erbrechen
 
    -  Bewusstseinsstörungen
 
-   -  Bradykardie, Hypertonie (HF:math:`\downarrow`,
+   -  Bradykardie, Hypertonie (HF↓,
       RR\ :math:`\uparrow`)
 
    -  Ungleichweite Pupillen, verlangsamte Lichtreaktion
@@ -781,7 +781,7 @@ Gefahren
    -   Strecksynergismen
 
    Durch die Hirndrucksteigerung besteht die Gefahr einer
-   **Hirnstammeinklemmung** ([Thema-hirnstammeinklemmung]). Da sich im
+   **Hirnstammeinklemmung** (:ref:`Thema-hirnstammeinklemmung`). Da sich im
    Hirnstamm das Atem- und Kreislaufzentrum befindet besteht dabei akute
    **Lebensgefahr**!
 
@@ -845,12 +845,12 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
    Auslöser für einen Unfall.
 
    Die *Pupillen* können im Sinne von Hirndruckzeichen
-   ([Thema-hirndruckzeichen]) pathologisch sein (ungleich weit,
+   (:ref:`Thema-hirndruckzeichen`) pathologisch sein (ungleich weit,
    verlangsamte, einseitige oder fehlende Lichtreaktion).
 
    Daneben ist auch zu beurteilen, ob andere Hirndruckzeichen
    (Hypertonie mit Bradykardie, Strecksynergismen, …) vorliegen, vgl.
-   [Thema-hirndruckzeichen].
+   :ref:`Thema-hirndruckzeichen`.
 
    Weiters muss auf *neurologische Ausfälle* (sensorisch, motorisch) in
    Folge einer *HWS-Verletzung* geachtet werden.
@@ -859,7 +859,7 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
    zusätzlich durch die Glasgow Coma Scale einschätzen.
 
 -  *Traumacheck* Ein Traumacheck ist natürlich verpflichtend
-   durchzuführen ([Thema-traumacheck]).
+   durchzuführen (:ref:`Thema-traumacheck`).
 
    Besonders zu beachten ist die Gefahr einer hohen Querschnittslähmung,
    ebenso dass Schädel, HWS und BWS eine Linie bilden.
@@ -980,7 +980,7 @@ Gehirnquetschung – SHT 3
 Die Gehirnquetschung ist eine sehr schwere Form des
 Schädelhirntraumas. Es kommt zu einer *Bewusstlosigkeit länger als 24h*
 und zu teils sehr ausgeprägten Begleitsymptomen wie zum Beispiel
-Hirndruckzeichen ([Thema-hirndruckzeichen]), Atem und Kreislaufstörungen
+Hirndruckzeichen (:ref:`Thema-hirndruckzeichen`), Atem und Kreislaufstörungen
 bis hin zum Atemstillstand durch Einklemmen des Atemzentrums.
 
 Es kann weiteres zu intrakraniellen Blutungen kommen (epidural,
@@ -1020,7 +1020,7 @@ rechnen.
 
    -  Hirndrucksymptomatik
 
-   -  Evtl. Einklemmung des Atemzentrums :math:`{\rightarrow}` zentraler
+   -  Evtl. Einklemmung des Atemzentrums → zentraler
       Atemstillstand
 
    -  Behinderung der Hirndurchblutung
@@ -1054,7 +1054,7 @@ vegetative Störungen & Atmungs-/ Kreislaufstörungen
 
 Hirndrucksymptomatik
 
-Evtl. Einklemmung des Atemzentrums :math:`{\rightarrow}` zentraler
+Evtl. Einklemmung des Atemzentrums → zentraler
 Atemstillstand
 
 Behinderung der Hirndurchblutung
@@ -1266,8 +1266,8 @@ Lungenoberfläche und innerer Thoraxwand herrscht beim Gesunden ein
 Unterdruck gegenüber dem äußeren Luftdruck. Die Lunge ist dadurch
 flexibel im Brustkorb aufgespannt. Beim Pneumothorax gelangt durch eine
 Verletzung Luft in diesen Pleuraspalt, welche den Unterdruck aufhebt und
-die Lunge zieht sich zusammen. Vgl. Anatomie: [Thema-atemmechanik], und
-[Thema-pleura].
+die Lunge zieht sich zusammen. Vgl. Anatomie: :ref:`Thema-atemmechanik`, und
+:ref:`Thema-pleura`.
 
 Man unterscheidet zwischen :dfn:`offenem Pneumothorax` :index:`\ <! offenem Pneumothorax>` (Luft
 strömt durch eine Verletzung der Brustwand von außen in den Pleuraspalt)
@@ -1432,7 +1432,7 @@ Frontalaufprall und großer Geschwindigkeit auf, seltener bei Schuss-
 oder Stichverletzungen. Folgende Verletzungen sind typisch:
 
 -  *Aortenruptur*: Durch einen Einriss der Aorta kommt es zu schweren
-   inneren Blutungen. Siehe auch Abschnitt [Thema-aortenruptur].
+   inneren Blutungen. Siehe auch Abschnitt :ref:`Thema-aortenruptur`.
 
 -  *Herzkontusion*: Hier kommt es durch Quetschungen der Herzmuskulatur
    zu Sickerblutungen. Bei Sternumfrakturen mit Herzrhythmusstörungen
@@ -1554,12 +1554,12 @@ Gefahren
 
    -  Aorta, Vena cava, …
 
-   -  Massive innere Blutungen :math:`{\rightarrow}` Volumenmangelschock
+   -  Massive innere Blutungen → Volumenmangelschock
 
 -  Zerreißung von Organen (*Milz*, *Leber*)
 
    -  Massive *innere Blutungen* (bis über 4 Liter)
-      :math:`{\rightarrow}` Volumenmangelschock
+      → Volumenmangelschock
 
 -  Zerreißung von Hohlorganen (Magen, Darm,Gallengänge )
 
@@ -1591,12 +1591,11 @@ es sowohl unmittelbar nach der Verletzung zu starken Blutungen kommen,
 aber auch zeitversetzte, verspätete Blutungen sind möglich. Demnach
 unterscheidet man:
 
--  !!! TERMINUS DFN !!! :dfn:`` [Milzruptur!einzeitige]Einzeitige (primäre)
-   Milzruptur: Die Milz und die Kapsel reißen gleichzeitig, es kommt zu
+-  :dfn:`Einzeitige (primäre)
+   Milzruptur`: Die Milz und die Kapsel reißen gleichzeitig, es kommt zu
    einem unmittelbaren Schockzustand.
 
--  !!! TERMINUS DFN !!! :dfn:`` [Milzruptur!zweizeitige]Zweizeitige (sekundäre)
-   Milzruptur: Das Milzgewebe ist
+-  :dfn:`Zweizeitige (sekundäre) Milzruptur`: Das Milzgewebe ist
    verletzt, die Kapsel bleibt jedoch erhalten: Es blutet zuerst in die
    noch erhaltene Kapsel ein und der Druck steigt. Wird der Druck zu
    groß reißt nach einer gewissen Zeit, es kann sich dabei um Stunden
@@ -1632,8 +1631,8 @@ unterscheidet man:
 
    -  Symptomfreies Intervall (Latenzzeit)
 
-   -  Wenn Druck weiter steigt: Kapselriss :math:`\rightarrow` plötzlich
-      starke Blutung :math:`\rightarrow` Volumenmangelschock
+   -  Wenn Druck weiter steigt: Kapselriss →  plötzlich
+      starke Blutung → Volumenmangelschock
 
 -  Cave: Zweizeitige Milzruptur
 
@@ -1714,7 +1713,7 @@ Beschreibung und Symptome
 Ein Beckentrauma ist eine Verletzung des Beckens.
 
 Besonders gefährlich sind Frakturen des Beckengürtels
-([Thema-beckenguertel]). Stehen und Gehen ist dann nicht mehr möglich,
+(:ref:`Thema-beckenguertel`). Stehen und Gehen ist dann nicht mehr möglich,
 der Patient verspürt starke Schmerzen bei jeder passiven Bewegung
 *beider* Beine. Da der Beckenknochen gut durchblutet ist, können binnen
 weniger Minuten bis zu fünf Liter Blut (also fast die gesamte Blutmenge)
@@ -1730,16 +1729,16 @@ einzudämmen.
 
 -  Mitverletzung von Organen im kleinen Becken:
 
-   -  Dickdarm :math:`{\rightarrow}` Blutung aus Anus
+   -  Dickdarm → Blutung aus Anus
 
-   -  Harnsystem :math:`{\rightarrow}` Blut im Harn, Harn in der
+   -  Harnsystem → Blut im Harn, Harn in der
       Bauchhöhle
 
-   -  Hoden :math:`{\rightarrow}` Hämatome am Skrotum und am Damm
+   -  Hoden → Hämatome am Skrotum und am Damm
 
 -  Verletzung des Beckens
 
--  Massive innere Blutungen :math:`\rightarrow` Schockzeichen
+-  Massive innere Blutungen → Schockzeichen
 
 -  Kompression des Beckens ist überlebenswichtig!
 
@@ -1767,9 +1766,9 @@ Beispiele:
 
    SHT + WS + Thoraxtrauma
 
-   :math:`{\rightarrow}` Polytrauma
+   → Polytrauma
 
--  Gebrochener Finger + gebrochene Zehe :math:`{\rightarrow}` kein
+-  Gebrochener Finger + gebrochene Zehe → kein
    Polytrauma
 
 Die Sterblichkeit bei polytraumatisierten Patienten liegt zwischen !!!
@@ -1814,11 +1813,11 @@ Beschreibung
 
 Verletzungen der Extremitäten können in verschiedenen Formen auftreten:
 
--  Verstauchung (Distorsion, [Thema-verstauchung-tra])
+-  Verstauchung (Distorsion, :ref:`Thema-verstauchung-tra`)
 
--  Verrenkung (Luxation, [Thema-verrenkung])
+-  Verrenkung (Luxation, :ref:`Thema-verrenkung`)
 
--  Knochenbruch (Fraktur, [Thema-frakturen])
+-  Knochenbruch (Fraktur, :ref:`Thema-frakturen`)
 
 -  Amputationen
 
@@ -1886,7 +1885,7 @@ können – wie alle Wunden – Auswirkungen auf den gesamten Organismus
 haben. [304]_
 
 Abhängig von den Umständen muss auch an ein *Inhalationstrauma*
-([Thema-inhalationstrauma]) oder andere Begleitverletzungen gedacht
+(:ref:`Thema-inhalationstrauma`) oder andere Begleitverletzungen gedacht
 werden.
 
 -  Verbrennung
@@ -2054,7 +2053,7 @@ bei Kindern*) *:math:`\geq`\ 2* verbrannter Körperoberfläche
 daher als *schwer*! Der Schock entwickelt sich allerdings erst
 allmählich.
 
--  Ab *10% :math:`\geq`\ 2* :math:`\rightarrow` schwer
+-  Ab *10% :math:`\geq`\ 2* → schwer
 
 -  *Kinder*: *5%*
 
@@ -2239,7 +2238,7 @@ Typisch sind:
 
 Die erste Maßnahme muss daher immer dem Selbstschutz gelten:
 
--  Strom abschalten (lassen)! :math:`{\rightarrow}` Sicherungen,
+-  Strom abschalten (lassen)! → Sicherungen,
    Abziehen des Netzkabels, NOT-AUS-Taste, Abschalten ganzer Anlagen
    durch den Fachmann, …
 
@@ -2282,7 +2281,7 @@ Symptome
 
    -  Sensibilitätsstörungen
 
-   -  ZNS :math:`{\rightarrow}` Bewußtseinsstörung
+   -  ZNS → Bewußtseinsstörung
 
    -  Herzrhythmusstörungen (Kammerflimmern, evtl. als Spätfolge!)
 
@@ -2323,18 +2322,18 @@ Stromüberlandleitungen (Hochspannungsleitungen)
     kann (*Schrittspannung*). Bei gerissenen Hochspannungsleitungen darf
     man daher keine großen Schritte machen, oder stromleitende
     Gegenstände (z.B. Matalle) berühren (vgl. Gefahrenzonen:
-    [Thema-gefahrenzonen])!
+    :ref:`Thema-gefahrenzonen`)!
 
 Bahnanlagen
     Die Eisenbahn arbeitet mit einer Oberleitungsspannung von 15000V,
     auch bei gesenktem Stromabnehmer oder Dieselfahrzeugen kann durch
     Kondensatorladung eine Spannung von bis zu 3000V anliegen (vgl.
-    Gefahrenzonen: [Thema-gefahrenzonen]).
+    Gefahrenzonen: :ref:`Thema-gefahrenzonen`).
 
     Im U-Bahnbereich werden Spannungen um die 700V eingesetzt. (Stadt
     Wien, Magistratsabteilung 38 – U-Bahn-Bau 1989)
 
--  Stromüberlandleitungen :math:`{\rightarrow}` Schrittspannung
+-  Stromüberlandleitungen → Schrittspannung
 
 -  Bahnanlagen
 

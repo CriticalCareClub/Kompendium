@@ -469,7 +469,7 @@ Das Blut hat vielfältige Aufgaben:
 
 -  *Stoff- und Gastransport*: Das Blut transportiert *Sauerstoff* und
    Nährstoffe hin zu den Zellen und *Kohlendioxid* von den Zellen weg
-   ([Thema-blut-sauerstofftransport]). Weiters transportiert es die über
+   (:ref:`Thema-blut-sauerstofftransport`). Weiters transportiert es die über
    den Darm aufgenommenen *Nährstoffe* zu den entsprechenden
    Weiterverarbeitungsstellen und sorgt für den Abtransport von
    *Abfallprodukten* zu Leber und Niere. Außerdem werden über das Blut
@@ -478,7 +478,7 @@ Das Blut hat vielfältige Aufgaben:
 -  *Immunsystem*: Das Blut spielt eine wichtige Rolle im Rahmen des
    Immun(abwehr)systems: Weiße Blutkörperchen und bestimmte, im Blut
    gelöste, Stoffe sind ein wichtiger Bestandteil des Immunsystems
-   ([Thema-immunsystem]). Durch das Blut gelangen die weißen
+   (:ref:`Thema-immunsystem`). Durch das Blut gelangen die weißen
    Blutkörperchen und die gelösten Stoffe an den Ort von Infektionen.
 
 -  *Regulation der Körpertemperatur* gemeinsam mit den Blutgefäßen: Bei
@@ -550,7 +550,7 @@ Das Immunsystem ist eine Vitalfunktion
 Das :dfn:`Immunsystem` (Abwehrsystem) schützt den Körper vor
 Infektionskrankheiten und ist eine Vitalfunktion 2. Ordnung. Eine
 besonders bedeutende Rolle spielen die *Leukozyten* (Weiße
-Blutkörperchen, [Thema-leukozyten]). Sie ermöglichen das Abtötung und
+Blutkörperchen, :ref:`Thema-leukozyten`). Sie ermöglichen das Abtötung und
 den Abbau von Krankheitserregern im Körper. Bestimmte Arten von
 Leukozyten können *Antikörper* (*Immunglobuline*)
 produzieren, das sind Proteine, welche an die Oberfläche von anderen

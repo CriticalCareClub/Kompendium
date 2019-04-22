@@ -125,7 +125,7 @@ Wichtige Differentialdiagnosen
 ------------------------------
 
 Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden
-und auf Meningismus-Zeichen geprüft werden ([Thema-meningismuszeichen]).
+und auf Meningismus-Zeichen geprüft werden (:ref:`Thema-meningismuszeichen`).
 
 -  Meningitis – Meningismus-Zeichen
 
@@ -229,7 +229,7 @@ Wichtige Differentialdiagnosen
 ------------------------------
 
 Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden
-und auf Meningismus-Zeichen geprüft werden ([Thema-meningismuszeichen]).
+und auf Meningismus-Zeichen geprüft werden (:ref:`Thema-meningismuszeichen`).
 
 -  Meningitis – Meningismus-Zeichen
 
@@ -380,7 +380,7 @@ nach der eigentlichen HIV-Infektion aus.
 
 -  HIV
 
--  AIDS :math:`\rightarrow` Folgeerkrankungen
+-  AIDS → Folgeerkrankungen
 
    -  Infektionen
 
@@ -487,7 +487,7 @@ gelblichen Verfärbung der Haut (*Ikterus*) kommen.
 
 Bei einem chronischen Verlauf kommt es zu einem Umbau von
 funktionierendem Lebergewebe zu funktionslosem Bindegewebe. Man spricht
-dann von der :dfn:`Leberzirrhose` :index:`\ <! Leberzirrhose>`\ [Thema-leberzirrhose].
+dann von der :dfn:`Leberzirrhose` :index:`\ <! Leberzirrhose>`\ :ref:`Thema-leberzirrhose`.
 Schließlich kann es zu einem Leberversagen und in kurzer Folge zum Tod
 kommen, da die Leber ein überlebenswichtiges Organ ist.
 
@@ -658,7 +658,7 @@ al., n.d.)
 
 -  Erreger kommt überall vor
 
--  Produziert Toxin :math:`\rightarrow` Muskellähmung
+-  Produziert Toxin → Muskellähmung
 
 Symptome
 --------
@@ -746,7 +746,7 @@ Grundsätzlich:
 
 -  Unkontrollierbare Gerinnung oder Blutung
 
--  Hypotonie :math:`{\rightarrow}` Septischer Schock
+-  Hypotonie → Septischer Schock
 
 -  Organversagen
 
@@ -760,7 +760,7 @@ Grundsätzlich:
 
 -  Unkontrollierbare Gerinnung oder Blutung
 
--  Hypotonie :math:`{\rightarrow}` Septischer Schock
+-  Hypotonie → Septischer Schock
 
 -  Organversagen
 

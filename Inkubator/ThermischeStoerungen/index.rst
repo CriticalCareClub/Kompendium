@@ -130,7 +130,7 @@ und Bewusstlosigkeit kommen.
 -  Sonnenstich:
 
    -  Direkte Sonneneinstrahlung auf **ungeschützten Kopf**
-      :math:`{\rightarrow}` Reizung der Hirnhäute
+      → Reizung der Hirnhäute
 
    -  Symptome ähnlich einer Hirnhautentzündung (Nackensteifigkeit)
 
@@ -178,7 +178,7 @@ Symptome  und Phasen
 -  :dfn:`Kältenarkose` :index:`\ <! Kältenarkose>`: 30—27°C,
    Bewusstlosigkeit, unregelmäßiger Herzschlag, Atempausen.
 
--  <27°C :math:`{\rightarrow}` klinisch tot.
+-  <27°C → klinisch tot.
 
 -  Kampfphase: 36,5—34°C
 
@@ -186,7 +186,7 @@ Symptome  und Phasen
 
 -  Kältenarkose: 30—27°C
 
--  <27°C :math:`{\rightarrow}` klinisch tot
+-  <27°C → klinisch tot
 
     -  “Nobody is dead until warm and dead!” Schwer unterkühlte
        Patienten können auch noch nach Stunden (!) ohne

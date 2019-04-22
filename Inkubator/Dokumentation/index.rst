@@ -97,7 +97,7 @@ oder, wenn nötig, auf einem beigelegten Blatt Papier erfolgen.
 NACA-Score
 ==========
 
-[Thema-naca] Der *NACA-Score*\  [165]_ diente ursprünglich der Bewertung
+:ref:`Thema-naca` Der *NACA-Score*\  [165]_ diente ursprünglich der Bewertung
 von Erkrankungen / Verletzungen als Entscheidungshilfe welche Soldaten
 zuerst auszufliegen wären. Heutzutage dient der NACA-Score der groben
 statistischen Erfassung. Man unterscheidet die Stufen 1 bis 7:

@@ -368,7 +368,7 @@ Rhythmen:
 
 Beim (S)AED übernimmt das Gerät die Beurteilung ob ein elektrischer
 Herzrhythmus schockbar oder nicht schockbar ist. Die Herzrhythmen werden
-im Kapitel [Thema-herzrhythmusstoerungen], genauer besprochen.
+im Kapitel :ref:`Thema-herzrhythmusstoerungen`, genauer besprochen.
 
 
 .. index::

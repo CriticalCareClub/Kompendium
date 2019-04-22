@@ -246,7 +246,7 @@ Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
                 -   Blutung
                 -   Verbrennungen (Hautbarriere versagt großflächig)
                 -   Gastrointestinal (Durchfall, Diarrhoe)
-                -   Exsikkose ([Thema-exsikkose])
+                -   Exsikkose (:ref:`Thema-exsikkose`)
 
             -   Verlust nach innen
 

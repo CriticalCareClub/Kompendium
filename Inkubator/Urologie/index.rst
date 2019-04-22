@@ -63,15 +63,15 @@ Beschreibung und Ursachen
 
 **Eine :dfn:`Nierenkolik` :index:`\ <! Nierenkolik>` ist gekennzeichnet durch
 kolikartige Schmerzen aufgrund einer Blockade des Harnleiters und dem
-daraus folgenden Harnstau.** Vgl. Kolik: [Thema-kolik]. Sie ist eine
+daraus folgenden Harnstau.** Vgl. Kolik: :ref:`Thema-kolik`. Sie ist eine
 äußerst schmerzhafte akute Erkrankung und entsteht meist dadurch, dass
 Nierensteine den Harnleiter blockieren bzw. verstopfen. Dadurch wird der
 Harn gestaut und der Harnleiter gedehnt dadruch kommt es zu einem
 Dehnungsschmerz.
 
--  Blockade des Harnleiters :math:`\rightarrow` Harnstau
+-  Blockade des Harnleiters → Harnstau
 
--  Dehnung des Harnleiters :math:`\rightarrow` Kolikartiger Schmerz
+-  Dehnung des Harnleiters → Kolikartiger Schmerz
 
 -  Nierenstein(e)
 
@@ -119,12 +119,12 @@ bakteriell bedingt und umfasst die oberen Harnwege, das
 Nierenbeckenkelchsystem und u.U. auch das Nierengewebe und ist eine der
 häufigsten Erkrankungen der Niere (Pschyrembel 2002). Im schlimmsten
 Fall kann sich die Infektion weiter ausbreiten und eine Sepsis
-verursachen ([Thema-sepsis]).
+verursachen (:ref:`Thema-sepsis`).
 
 Harnwegsinfektionen werden häufig in Gesundheitseinrichtungen übertragen
 (“Spitalsinfektion”). Problematisch ist hierbei, dass bei derartigen
 Infektionen häufig multiresistente Keime (“Spitalskeime”, gegen
-Antibiotika unempfindliche Bakterien, [Thema-multiresistente-keime]) der
+Antibiotika unempfindliche Bakterien, :ref:`Thema-multiresistente-keime`) der
 Auslöser sind, welche deutlich schwieriger zu behandeln sind. Ein
 besonderes Risiko stellen hierbei harnableitende Systeme (Harnkatheter,
 -beutel) da.
@@ -238,7 +238,7 @@ Krankentransportdienstes.
 Die Niereninsuffizienz und die
 Nierenersatztherapien bergen Gefahren für den Patienten:
 
--  Dialyse-Patienten haben häufig einen *Dialyse-Shunt* ([Thema-shunt]).
+-  Dialyse-Patienten haben häufig einen *Dialyse-Shunt* (:ref:`Thema-shunt`).
    Die Verbindungsstelle zwischen Arterie und Vene ist verletzlich, hier
    kann es zu Blutungen kommen.
 

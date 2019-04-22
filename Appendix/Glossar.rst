@@ -29,7 +29,7 @@ Glossar
         Moderne Systeme können Bilder in verschiedenen Ebenen
         Rekonstruieren, bzw. 3D-Darstellungen erzeugen. Bei der Untersuchung
         von Weichteilstrukturen wird häufig ein Kontrastmittel
-        ([Thema-kontrasmittel]) eingesetzt.
+        (:ref:`Thema-kontrasmittel`) eingesetzt.
 
     Erysipel
         *Syn.* Rotlauf, Wundrose. Infektionserkrankung,

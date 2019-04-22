@@ -398,7 +398,7 @@ Beschreibung
 Das Herz ist die Pumpe des Blutkreislaufes und
 leistet eine beachtliche mechanische Arbeit, 
 welche über elektrische Reize koordiniert wird 
-(Reizleitungssystem, [Thema-reizleitungssystem]). 
+(Reizleitungssystem, :ref:`Thema-reizleitungssystem`). 
 Ohne diese
 elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und
 somit zum Kreislaufstillstand. 
@@ -981,7 +981,7 @@ Reanimation des Neugeborenen
 ============================
 
 Die Reanimation des Neugeborenen wird unter
-[Thema-reanimation-neugeborenes] ausgeführt.
+:ref:`Thema-reanimation-neugeborenes` ausgeführt.
 
 
 Ende der Reanimation

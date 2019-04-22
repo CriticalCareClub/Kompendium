@@ -46,7 +46,7 @@ Erhebung einer exakten *Stuhlanamnese*:
 Der Patient muss bis zur endgültigen Klärung der Situation *nüchtern*
 belassen werden! Wenn es der Patient toleriert, muss eine Betrachtung
 und Abtastung des Abdomens beim liegenden Patienten erfolgen wie unter
-[Thema-untersuchung-abdomen-abtasten] beschrieben.
+:ref:`Thema-untersuchung-abdomen-abtasten` beschrieben.
 
 -  Stuhl
 
@@ -213,7 +213,7 @@ sind auch die Ursachen:
 Darmverschluss
 ==============
 
-[Thema-ileus]
+:ref:`Thema-ileus`
 
 Beschreibung
 ------------
@@ -261,7 +261,7 @@ Unterbauch* wandert. Übelkeit, Brechreiz und Verstopfung können das
 Krankheitsbild begleiten. Meist ist die Körpertemperatur bis 38 leicht
 erhöht. Unbehandelt kann es zu einer Eiterung und einem *Durchbruch* in
 die Bauchhöhle, einer anschließenden Bauchfellentzündung und einem
-akuten Abdomen kommen ([Thema-akutes-abdomen]). Der Verlauf einer akuten
+akuten Abdomen kommen (:ref:`Thema-akutes-abdomen`). Der Verlauf einer akuten
 Appendizitis ist jeweils durch individuelle Faktoren wie Lebensalter und
 Allgemeinzustand des Patienten geprägt. Nicht selten sind die Symptome
 jedoch völlig uncharakteristisch und evtl. sogar untypisch, sodass eine
@@ -292,7 +292,7 @@ Beschreibung
 
 **Eine :dfn:`Gallenkolik` :index:`\ <! Gallenkolik>` zeichnet sich durch kolikartige
 Schmerzen infolge einer Blockade der Gallenwege z.B. durch Gallensteine
-aus.** Vgl. Kolik: [Thema-kolik]. Gallensteine verursachen eine
+aus.** Vgl. Kolik: :ref:`Thema-kolik`. Gallensteine verursachen eine
 Verstopfung des Gallengangs und folglich einen Rückstau von
 Gallenflüssigkeit in die Leber. Dabei wird der Gallengang gedehnt und es
 kommt zu starken Dehnungsschmerzen.
@@ -327,7 +327,7 @@ Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr
 Gastrointestinale Blutungen und Ösophagusvarizenblutung
 =======================================================
 
-[Thema-gastrointestinale-blutung]
+:ref:`Thema-gastrointestinale-blutung`
 
 Beschreibung
 ------------
@@ -342,7 +342,7 @@ Unterscheidung nach der Stelle der Blutung ist wesentlich:
 -   Blutungen im *oberen Teil* des Verdauungstraktes können durch 
     *Ösophagusvarizen*
     verursacht werden: Bei Patienten mit einer fortgeschrittenen
-    Lebererkrankung (Leberzirrhose, [Thema-leberzirrhose]) kann es zur
+    Lebererkrankung (Leberzirrhose, :ref:`Thema-leberzirrhose`) kann es zur
     Bildung von krampfaderartigen Gefäßerweiterungen in der Speiseröhre
     kommen. Diese Gefäße können massive Blutungen verursachen, die
     tödlich enden können. Auch Blutungen im Rahmen eines Magengeschwürs
@@ -392,7 +392,7 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 Magen-Darm-Grippe, Gastroenteritis, Lebensmittelvergiftung
 ==========================================================
 
-[Thema-lebensmittelvergiftung]
+:ref:`Thema-lebensmittelvergiftung`
 
 Beschreibung und Ursachen
 -------------------------
@@ -420,7 +420,7 @@ Klassische Zeichen einer Magen-Darm-Grippe sind Erbrechen ( *Emesis*)
 und Durchfall ( *Diarrhoe*). Dazu hat der Patient meist starke, kaum
 lokalisierbare Bauchschmerzen. Infolge des Erbrechens und des Durchfalls
 kann es zu einem erheblichen Wasser- und Elektrolytverlust und Symptomen
-der Exsikkose ([Thema-exsikkose]) kommen.
+der Exsikkose (:ref:`Thema-exsikkose`) kommen.
 
 -  Erbrechen
 
@@ -599,8 +599,8 @@ häufigsten Begleitsymptome sind Übelkeit und Erbrechen, sowie Fieber.
 
 Je nach Schwere und Dauer der Entzündung kann es zum Selbstverdauen der
 Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* :index:`\ <Akutes Abdomen!bei Pankreatitis>` Abdomen auf
-([Thema-akutes-abdomen]) und der Patient kann kann einen *septischen* :index:`\ <Schock!septischer!bei Pankreatitis>` Schock erleiden
-([Thema-schock-septischer]).
+(:ref:`Thema-akutes-abdomen`) und der Patient kann kann einen *septischen* :index:`\ <Schock!septischer!bei Pankreatitis>` Schock erleiden
+(:ref:`Thema-schock-septischer`).
 
 -  Ruptur
 
@@ -629,7 +629,7 @@ mit einer Bauchfellentzündung, Sepsis und einem Versterben des
 Patienten. Er ist somit ein *ischämischer* :index:`\ <Ischämie!Mesenterialinfarkt>` Notfall. Mesenterialinfarkte
 treten gehäuft bei Patienten mit erhöhtem thromboembolischen
 Risikofaktoren auf, z.B. bei Patienten mit *Vorhofflimmern* :index:`\ <Vorhofflimmern!Mesenterialinfarkt>`
-([Thema-vorhofflimmern]).
+(:ref:`Thema-vorhofflimmern`).
 
 Symptome
 --------
@@ -643,7 +643,7 @@ Nach ungefähr !!! VONBIS !!!1224h wird ein *Darmverschluss* bemerkbar
 und die Darmwand verliert zunehmend an Dichtigkeit, es kann zu einem
 *Durchbruch* (Ruptur) kommen. Es folgt eine *Bauchfellentzündung* und
 ein !!! INDEX II !!! [Akutes Abdomen!beim Mesenterialinfarkt]akutes
-Abdomen ([Thema-akutes-abdomen]). Es kann zu *blutigen, übel riechenden
+Abdomen (:ref:`Thema-akutes-abdomen`). Es kann zu *blutigen, übel riechenden
 Stuhlabgängen* kommen. (Eckstein et al. 2006)
 
 -  Abdominalschmerzen
@@ -662,7 +662,7 @@ Stuhlabgängen* kommen. (Eckstein et al. 2006)
 Bauchfellentzündung
 ===================
 
-[Thema-peritonitis]
+:ref:`Thema-peritonitis`
 
 Beschreibung
 ------------
@@ -733,6 +733,6 @@ Symptome
 .. [253]
    Das *Mesenterium* :index:`\ <Mesenterium!Mesenterialinfarkt>`
    (*Darmgekröse*) ist die Aufhängung von Teilen des Dünndarms
-   ([Thema-mesenterium]). Darin verlaufen venöse und arterielle Gefäße
+   (:ref:`Thema-mesenterium`). Darin verlaufen venöse und arterielle Gefäße
    zum und vom Darm (*Mesenterialgefäße* mit *Mesenterialarterien)* :index:`\ <Mesenterialarterie>`.
 

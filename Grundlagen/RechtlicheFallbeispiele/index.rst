@@ -341,7 +341,7 @@ folgenden Bestimmungen:
 
         -   für das Zivilrecht ist die Einwilligung aufgrund einer
             Aufklärung notwendige Voraussetzung für die rechtfertigende
-            Heilbehandlung :math:`{\rightarrow}` mangelt es an ihr, kann
+            Heilbehandlung → mangelt es an ihr, kann
             Schadenersatz verlangt werden
 
 
@@ -629,7 +629,7 @@ Rechtsfolge
 Die RTW-Mannschaft darf daher die für den Patienten schädigende
 Anordnung ablehnen. Natascha hingegen macht sich strafbar wegen
 Körperverletzung und riskiert uU. zivilrechtliche Schadenersatzansprüche
-(:math:`{\rightarrow}` Nitro-Gabe nicht lege artis).
+(→ Nitro-Gabe nicht lege artis).
 
 .. _Thema-jus-langer-dienst-fall-9:
 .. _Thema-dokumentationspflicht-fallbeispiel:

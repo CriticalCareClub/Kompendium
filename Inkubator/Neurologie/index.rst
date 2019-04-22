@@ -162,7 +162,7 @@ Bewusstseinsgrad
 
 Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins
 (*“*Wieviel* Bewusstsein ist vorhanden?”*, vgl.
-[Thema-bewusstseinsstoerung-grade]).
+:ref:`Thema-bewusstseinsstoerung-grade`).
 Er muss bei jedem Patienten nach
 dem *WASB-Schema* beurteilt werden.
 :dfn:`WASB` ist die Abkürzung für
@@ -262,7 +262,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
 -   **B** *Atmung*: Evtl. unregelmäßig
 
 -   **C** *Kreislauf*: Der Patient ist *hyperton*, aber *bradykard*
-    (*HF\ :math:`\downarrow`, RR\ :math:`\uparrow`*), der Puls ist
+    (*HF\ ↓, RR\ :math:`\uparrow`*), der Puls ist
     langsam, aber äußerst stark spürbar (*Druckpuls*).
 
 -   **D** *Pupillen*: Typisch für das späte Stadium ist die *Ungleichheit
@@ -278,7 +278,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
 
 -   **4** Übelkeit, Erbrechen
 
--   **C** HF\ :math:`\downarrow`, RR\ :math:`\uparrow`
+-   **C** HF\ ↓, RR\ :math:`\uparrow`
 
 -   **D** Ungleichweite Pupillen, verlangsamte Lichtreaktion
 
@@ -404,13 +404,13 @@ können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
 
 -  *Hirndruckzeichen*: Durch eine Hirnblutung oder Schwellung des
    Gehirns (*Hirnödem*) kann es zu einer Hirndrucksteigerung und zum
-   Auftreten von Hirndruckzeichen ([Thema-hirndruckzeichen]) kommen:
+   Auftreten von Hirndruckzeichen (:ref:`Thema-hirndruckzeichen`) kommen:
 
    -  Übelkeit, Erbrechen
 
    -  Bewusstseinsstörungen
 
-   -  HF\ :math:`\downarrow`, RR\ :math:`\uparrow`
+   -  HF\ ↓, RR\ :math:`\uparrow`
 
    -  Ungleichweite Pupillen, verlangsamte Lichtreaktion
 
@@ -447,7 +447,7 @@ Je nach betroffener Hirnregion sehr unterschiedlich.
 
    -  **3** Bewusstseinsstörungen
 
-   -  **C** HF\ :math:`\downarrow`, RR\ :math:`\uparrow`
+   -  **C** HF\ ↓, RR\ :math:`\uparrow`
 
    -  **D** Ungleichweite Pupillen, verlangsamte Lichtreaktion
 
@@ -523,7 +523,7 @@ verschiedene Arten einteilen:
 #. Nach Lokalisation:
 
    -  *Fokaler Anfall*: Der Krampfanfall ist auf eine Körperregion
-      beschränkt, siehe [Thema-krampfanfall-fokaler]
+      beschränkt, siehe :ref:`Thema-krampfanfall-fokaler`
 
    -  *Generalisierter Anfall*: Er betrifft den ganzen Körper, siehe
       :ref:`Thema-krampfanfall-generalisierter`
@@ -714,7 +714,7 @@ Eklamptischer Krampfanfall während der Schwangerschaft
 ------------------------------------------------------
 
 In Folge einer Präeklampsie (EPH-Gestose) kann es zu einem sog.
-*eklamptischen Krampfanfall* kommen. Dieser wird unter [Thema-eklampsie]
+*eklamptischen Krampfanfall* kommen. Dieser wird unter :ref:`Thema-eklampsie`
 besprochen.
 
 -  Folge einer Präemklampsie.

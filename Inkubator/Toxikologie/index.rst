@@ -415,7 +415,7 @@ Symptome
 .. todo:: !!! PROCEDURE !!! MT59070C
 
 -  Bei Gasunfällen hat der *Selbstschutz* Vorrang. Oft ist die Bergung
-   nur mit *schwerem Atemschutz* möglich :math:`{\rightarrow}`
+   nur mit *schwerem Atemschutz* möglich →
    FEUERWEHR!
 
     -  Ein toter Helfer ist keine Hilfe.
@@ -461,7 +461,7 @@ Gesundheitseinrichtungen. Daher kurz und bündig: Hier müssen
 Spezialisten beigezogen werden.
 
 Wichtig ist, auf Selbst- und Fremdschutz zu achten (Absperrmaßnahmen!
-Abstand halten! Wind beachten!), vgl. auch [Thema-gefahrengutunfall].
+Abstand halten! Wind beachten!), vgl. auch :ref:`Thema-gefahrengutunfall`.
 
 -  Selbst- und Fremdschutz
 

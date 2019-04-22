@@ -76,7 +76,7 @@ Säugling: 20—30/min
 Kleinkind: 20—30/min
 
 | Beatmung bis zum Säugling in Neutralposition (Kopf nicht überstrecken)
-| *Zeichen der Atemnot*\ [Thema-atemnot-zeichen-kinder]& Einziehungen
+| *Zeichen der Atemnot*\ :ref:`Thema-atemnot-zeichen-kinder`& Einziehungen
   zwischen Rippen
 
 | :dfn:`Nasenflügeln` :index:`\ <! Nasenflügeln>` beschleunigte Atmung, Atemgeräusche

@@ -78,7 +78,7 @@ die Zellen aufgenommen wird. Es *senkt daher den Blutzuckerspiegel*.
 Insulin wird therapeutisch zur Behandlung des Diabetes mellitus
 angewendet. Wenn man künstlich Insulin spritzt, besteht die Gefahr eines
 Unterzuckers (zu viel Insulin gespritzt oder zu wenig gegessen
-:math:`{\rightarrow}` Spritz-/ Essabstand) erfragen. Hinsichtlich des
+→ Spritz-/ Essabstand) erfragen. Hinsichtlich des
 Insulins sind zwei Störungen häufig:
 
 #. Es wird *zu wenig Insulin gebildet* (Bildungsort: Beta-Zellen des
@@ -254,7 +254,7 @@ eine Hypoglykämie denken!
 -  Bei der Hypoglykämie können Symptome auftreten, die den Patient wie
    alkoholisiert wirken lassen! *Hüte dich vor vorschnellen Diagnosen!*
 
-    -  :math:`{\rightarrow}` BZ-Messung bei jeder neurologischen
+    -  → BZ-Messung bei jeder neurologischen
        Störung.
 
 .. todo:: !!! PROCEDURE !!! ME16020C
@@ -314,7 +314,7 @@ hier der Insulinbedarf steigt.
 
 -  Diätfehler
 
--  Insulinzufuhr :math:`\downarrow`
+-  Insulinzufuhr ↓
 
 -  Stress
 
@@ -345,7 +345,7 @@ Bewusstseinsstörung ist. Steht der Nährstoffmangel im Vordergrund
 passiert etwas Interessantes: Der Körper produziert sog. Ketonkörper. Da
 diese *sauer* sind, kommt es zu einer stoffwechselbedingten
 *Übersäuerung* (metabolische *Azidose*\  [249]_
-[Thema-azidose-metabolische]). Er *hyperventiliert*, um CO₂ abzuatmen
+:ref:`Thema-azidose-metabolische`). Er *hyperventiliert*, um CO₂ abzuatmen
 und somit den pH wieder zu normalisieren (Puffersystem). Es ist daher
 bei diesen Patienten eine *schnelle, tiefe Atmung* feststellbar (
 *Kußmaul-Atmung*).

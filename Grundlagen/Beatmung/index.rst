@@ -58,7 +58,7 @@ beobachten, dass (wahrscheinlich in Folge von Stress) Beatmungen zu
 schnell bzw. zu tief erfolgen. Dies kann katastrophale Auswirkungen
 haben, da es zu einer *Hyperventilation* und dadurch zu einer
 atmungsbedingen Alkalose kommt (Störung des Säure-Basen-Haushaltes, vgl.
-[Thema-alkalose-respiratorische]).
+:ref:`Thema-alkalose-respiratorische`).
 
 -  Zu hoher Druck → Magenbeatmung/-blähung, Erbrechen
 

@@ -249,9 +249,9 @@ dienen, bezeichnet man als :dfn:`Totraum`.
 
    -  Durchblutung (Perfusion) der die Alveole umgebenden Blutgefäße
 
-    -  Lunge: Sauerstoff (O₂): Alveolen :math:`{\rightarrow}` Blut
+    -  Lunge: Sauerstoff (O₂): Alveolen → Blut
 
-    -  Lunge: Kohlendioxid (CO₂): Blut :math:`{\rightarrow}` Alveolen
+    -  Lunge: Kohlendioxid (CO₂): Blut → Alveolen
 
 
 .. index::
@@ -297,7 +297,7 @@ die schmerzempfindlich ist.
 
 -  Zwischenraum luftdicht, mit Schmierflüssigkeit
 
--  Brustkorb mit Rippenfell “zieht an” :math:`\rightarrow` Lungenfell
+-  Brustkorb mit Rippenfell “zieht an” → Lungenfell
    mit Lunge folgt Bewegung
 
 
@@ -319,7 +319,7 @@ Fußzeile ( [192]_)
 
     -  Wenn der Brustkorb mit dem daran verwachsenen Rippenfell
        “anzieht”, folgt das Lungenfell mit der Lunge der Bewegung
-       :math:`\rightarrow` Die Lunge wird wie eine Ziehharmonika
+       → Die Lunge wird wie eine Ziehharmonika
        aufgezogen und Luft angesaugt.
 
 
@@ -354,7 +354,7 @@ Gewebe und Pleura(spalt) wichtig:
    man die Arme, z. B. durch Aufstützen, können die Muskeln die Hebung
    des Brustkorbes unterstützen.
 
--  *Pleura*: Die Funktion der Pleura ist unter [Thema-pleura], erklärt.
+-  *Pleura*: Die Funktion der Pleura ist unter :ref:`Thema-pleura`, erklärt.
 
 -  Atemmuskulatur: Zwerchfell, Zwischenrippenmuskeln
 
@@ -598,7 +598,7 @@ gibt es Sensoren im Körper, die die Konzentration bestimmter Gase
 *Atemantrieb* von der *CO₂-Konzentration* des Blutes abhängig: Je höher
 der CO₂-Gehalt, desto stärker der Atemantrieb. Der Sauerstoffanteil
 spielt nur eine untergeordnete Rolle! Unter
-[Thema-saeure-basen-haushalt], wird ausgeführt, dass das CO₂ eine
+:ref:`Thema-saeure-basen-haushalt`, wird ausgeführt, dass das CO₂ eine
 wichtige Rolle im Säure-Basen-Haushalt des Körpers einnimmt.
 
 -  Atemzentrum im Hirnstamm

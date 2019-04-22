@@ -28,8 +28,8 @@ benetzt werden (Fingerzwischenräume, Handgelenk, Daumenkuppe, …).
 Abhilfe schaffen die im Folgenden beschriebenen standardisierten
 Handbewegungen.
 
-    -  *Kreuzinfektion*: Patient 1 :math:`\rightarrow` Personal
-       :math:`\rightarrow` Patient 2
+    -  *Kreuzinfektion*: Patient 1 → Personal
+       → Patient 2
 
     -  Die Hände des Personals sind die häufigsten Keimüberträger.
 
@@ -471,7 +471,7 @@ Vorgehen
    Bundesverband/Bundesschulung, n.d.) [153]_
 
 #. *ActorB*\ B Der *seitliche* Helfer legt eine HWS-Schiene an
-   ([Thema-hws-schiene-anlegen]).
+   (:ref:`Thema-hws-schiene-anlegen`).
 
 
 
@@ -821,7 +821,7 @@ Material und Personal
 Vorgehen
 ^^^^^^^^
 
-#. Patient liegt, wie unter [Thema-schaufeltrage-aufschaufeln],
+#. Patient liegt, wie unter :ref:`Thema-schaufeltrage-aufschaufeln`,
    beschrieben, auf der Schaufeltrage.
 
 #. Gurtsystem und Kopfstützen wie vom Hersteller beschrieben anbringen.

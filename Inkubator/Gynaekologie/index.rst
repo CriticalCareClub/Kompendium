@@ -93,7 +93,7 @@ Abdomens und eines hypovolämischen Schocks.
 
 -  Schmerz durch Dehnung des Eileiters
 
--  :math:`\rightarrow` Zerreißung des Eileiters
+-  → Zerreißung des Eileiters
 
    -  Blutung
 
@@ -441,7 +441,7 @@ Befindet sich die Mutter noch in der Eröffnungsphase wird ein
 schnellstmöglicher, schonender Transport ins Krankenhaus angestrebt.
 Grundsätzlich soll die Gebärende in, zumindest leichter, *Seitenlage*
 transportiert werden um ein *Vena-cava-Kompressionssyndroms*
-([Thema-vena-cava-syndrom]) zu vermeiden. Idealerweise wird nach lins
+(:ref:`Thema-vena-cava-syndrom`) zu vermeiden. Idealerweise wird nach lins
 (Linksseitenlage) gelagert, doch ist das nicht zwingend. Ab dem
 erfolgtem *Blasensprung* darf die werdende Mutter jedenfalls nur mehr
 *liegend* transportiert werden, um einen Nabelschnurvorfall vorzubeugen.

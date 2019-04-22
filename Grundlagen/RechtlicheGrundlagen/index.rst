@@ -274,7 +274,7 @@ erfüllt sein:
    der Tatbestandserfüllung
 
 #. *Rechtswidrigkeit*: Die gesetzte Handlung war objektiv falsch
-   :math:`{\rightarrow}` Urteil über Tat :math:`{\rightarrow}` Verstoß
+   → Urteil über Tat → Verstoß
    gegen gesetzliche Verbote bzw. Gebote, vertraglichen Bestimmungen
    oder die guten Sitten
 
@@ -293,7 +293,7 @@ erfüllt sein:
    -  Anhalterecht Privater
 
 #. *Verschulden*: Die gesetzte Handlung war subjektiv falsch
-   :math:`{\rightarrow}` Urteil über Täter
+   → Urteil über Täter
 
    *Entschuldigungsgründe*: Über den Täter kann kein Urteil gemacht
    werden, da er sich nach seinen persönlichen Fähigkeiten und
@@ -894,7 +894,7 @@ eine bloß *beachtliche Patientenverfügung*.
     -   Aufgrund einer umfassenden Aufklärungen durch einen Arzt
 
     -   Inhalt muss eine *konkrete Heilbehandlung* ablehnen
-        :math:`{\rightarrow}` allgemeine oder widersprüchliche
+        → allgemeine oder widersprüchliche
         Formulierungen führen zur Unwirksamkeit
 
     -   Wirkung nur für *5 Jahre*
@@ -1201,7 +1201,7 @@ Informationspflichten
       als Zeuge)
 
    -  Zum Schutz von höherwertigen Interessen der öffentlichen
-      Gesundheitspflege oder Rechtspflege (:math:`{\rightarrow}` zur
+      Gesundheitspflege oder Rechtspflege (→ zur
       Meldepflicht siehe unten)
 
    Diese Auskunftspflicht besteht gegenüber

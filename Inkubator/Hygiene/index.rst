@@ -86,7 +86,7 @@ Wichtige Begriffe
 
     #. Funktionsverlust.
 
-    Vgl. [Thema-entzuendung].
+    Vgl. :ref:`Thema-entzuendung`.
 
 :dfn:`Prophylaxe` :index:`\ <! Prophylaxe>`
     Vorbeugende Maßnahme(n).
@@ -197,7 +197,7 @@ nur auf bestimmte Keime.
 Ein großes Problem ist die zunehmende Bildung von *Resistenzen* von
 Bakterien gegen Antibiotika, welche diese Medikamente wirkungslos
 machen. Man spricht auch von der Bildung von *multiresistenten Keimen*.
-Diese werden unter [Thema-multiresistente-keime] näher besprochen.
+Diese werden unter :ref:`Thema-multiresistente-keime` näher besprochen.
 
 -  Bakterien können Resistenzen gegen Antibiotika bilden.
 
@@ -207,7 +207,7 @@ Viren sind keine vollständigen Zellen
 Beschreibung
 ^^^^^^^^^^^^
 
-!!! TERMINUS DFN !!! :dfn:`` [Virus]Viren sind kleiner als Bakterien und sind keine
+:dfn:`Viren` sind kleiner als Bakterien und sind keine
 vollständigen Zellen. [256]_ Sie brauchen Wirtszellen um sich vermehren
 zu können. Sie schleusen ihr eigenes genetisches Programm
 (Erbinformationen) in die fremde Zelle ein, diese produziert dann neue
@@ -285,10 +285,10 @@ Verschleppung von Erregern von einem Patienten auf einen (unbeteiligten)
 anderen, wobei das Personal oder Gegenstände als “Vehikel” fungieren.
 *Hygienisches Arbeiten* und *sachgerechte Desinfektionsmaßnahmen* sind
 wichtige Mittel zur *Vermeidung von Kreuzinfektionen*. Patient 1
-:math:`{\rightarrow}` *Personal* :math:`{\rightarrow}` Patient 2
+→ *Personal* → Patient 2
 
-    -  Kreuzinfektion: *Patient 1 :math:`{\rightarrow}` *Personal*
-       :math:`{\rightarrow}` Patient 2*
+    -  Kreuzinfektion: *Patient 1 → *Personal*
+       → Patient 2*
 
 Angepasste Hygiene
 ==================
@@ -711,7 +711,7 @@ zur Wischdesinfektion ist *nicht zulässig*!
 
 -  Material-entsprechende Substanzen!
 
-   -  z.B.: Alkohol zerstört Acryl-Flächen! :math:`{\rightarrow}`
+   -  z.B.: Alkohol zerstört Acryl-Flächen! →
       Alk.-freie Mittel
 
 -  *Von außen *in Richtung Schmutzquelle* wischen*
@@ -890,7 +890,7 @@ beschriftet wird.
 
 -  Nochmals spülen
 
--  Wenn Desinfektionswanne leer :math:`{\rightarrow}` einlegen
+-  Wenn Desinfektionswanne leer → einlegen
 
    -  *Vollständig zerlegt* laut Anleitung
 
@@ -911,7 +911,7 @@ Hygienische Händedesinfektion
 
 Die hygienische Händedesinfektion ist eine der wichtigsten Maßnahmen zur
 Verhütung von Kreuzinfektionen. Sie ist eine Standardmaßnahme und wird
-unter besprochen. [SAN] ([Thema-hygienische-haendedesinfektion])
+unter besprochen. [SAN] (:ref:`Thema-hygienische-haendedesinfektion`)
 
 **************************
 Besondere Verhaltensweisen
@@ -938,7 +938,7 @@ Schutzkleidung
    Risikosituationen empfiehlt sich die Verwendung von mind. *2 Paar*
    gleichzeitig. Die Handschuhe müssen nach jedem Patienten gewechselt
    werden, nach dem Ablegen ist eine *hygienische Händedesinfektion*
-   erforderlich ([Thema-hygienische-haendedesinfektion])!
+   erforderlich (:ref:`Thema-hygienische-haendedesinfektion`)!
 
 -  *Schürzen*: Einweg-Plastikschürzen bieten Schutz gegen Kontamination
    der Kleidung im Rumpf- und Beinbereich.
@@ -977,7 +977,7 @@ Schutzkleidung
 Arbeitsaufteilung
 -----------------
 
-Unter [Thema-einer-redet] wurde bereits erwähnt, dass möglichst nur ein
+Unter :ref:`Thema-einer-redet` wurde bereits erwähnt, dass möglichst nur ein
 Teammitglied ein Patientengespräch führen soll. Dies ist auch aus
 hygienischer Sicht ähnlich: Derjenige, welcher direkten Patientenkontakt
 hat, sollte nach Möglichkeit keinen Kontakt mit dem sauberen Material
@@ -1108,7 +1108,7 @@ unterscheidet zwischen:
    #. Abfälle *mit Verletzungsgefahr* z.B. Kanülen, Lanzetten und
       Skalpelle. Sämtliche Abfälle dieser Art müssen in entsprechenden
       Gebinden gesammelt und transportiert werden
-      (*Nadelabwurfbehälter*, [Thema-nadelabwurfbehaelter]).
+      (*Nadelabwurfbehälter*, :ref:`Thema-nadelabwurfbehaelter`).
 
    #. *Nassabfälle*: z.B. nicht restentleerte, mit Absaugsekreten
       gefüllte Einwegsysteme.
@@ -1129,7 +1129,7 @@ unterscheidet zwischen:
    Erregern behafteter Abfall
 
     Diese Abfälle sind Gefahrgut im Sinne des ADR, Klasse 6.2
-    ([Thema-adr]); sie sind vor der Abfallbereitstellung zu desinfizieren
+    (:ref:`Thema-adr`); sie sind vor der Abfallbereitstellung zu desinfizieren
 
 Die im Rettungs- und Krankentransportdienst anfallenden Abfällen gehören
 i.d.R. den Gruppen [item:hyg-abfall-oenorm-gruppe1] und

@@ -73,49 +73,44 @@ Material
 Handlungsschritte
 =================
 
-Siehe [Figure-haendedesinfektion].
+.. _Figure-haendedesinfektion:
 
-.. todo:: !!! PICTURESERIESWIDE !!!Hygienische Händedesinfektion. *Einwirkzeit beachten!* (lt. Herstellerangaben, i.d.R. mind. 30 Sekunden) !!!
-	  SOURCEPICTURE !!! *Blacky*\ [Figure-haendedesinfektion] !!!
-	  PICTURESERIESROWWIDE !!! 3
+.. figure:: /Bilder/CcBySa-4-0/02_Hegasy_Haende_Desinfektion.*
 
-.. figure:: /Bilder/hygiene/haendedesinfektion01.png
+    Hygienische Händedesinfektion
 
-    Eine Portion alkoholisches Händedesinfektionsmittel (ca. 3 ml = 1 Hohlhand) mittels Ellenbogen aus
-    dem Spender entnehmen; Hände und Handgelenke vollständig benetzen.
+    [Guido Hegasy, https://www.hegasy.de; CC‑BY‑SA‑4.0]
 
-.. figure:: /Bilder/hygiene/haendedesinfektion02.png
 
-    Handinnenflächen gegeneinander reiben, geschlossene Finger.
 
-.. figure:: /Bilder/hygiene/haendedesinfektion03.png
 
-    Handgelenke einreiben empty Mit ineinander verschränkten Fingern Handinnenflächen gegeneinander reiben
+#.  Eine Portion alkoholisches Händedesinfektionsmittel
+    (ca. 3 ml = 1 Hohlhand) mittels Ellenbogen aus
+    dem Spender entnehmen;
+    Hände und Handgelenke vollständig benetzen.
 
-.. figure:: /Bilder/hygiene/haendedesinfektion04.png
+#.  Handinnenflächen gegeneinander reiben, geschlossene Finger.
 
-    Mit ineinander verschränkten Fingern Handinnenflächen gegeneinander reiben
+#.  Handgelenke einreiben
 
-.. figure:: /Bilder/hygiene/haendedesinfektion05.png
+#.  Mit ineinander verschränkten Fingern Handinnenflächen gegeneinander reiben
 
-    Mit rechter Handinnenfläche linken Handrücken reiben und umgekehrt, dabei Finger ineinander verschränken
+#.  Mit rechter Handinnenfläche linken Handrücken reiben und umgekehrt,
+    dabei Finger ineinander verschränken
 
-.. figure:: /Bilder/hygiene/haendedesinfektion06.png
+#.  Hände ineinander verhaken und Finger gegeneinander bewegen
 
-    Hände ineinander verhaken und Finger gegeneinander bewegen empty Daumen mit gegenüberliegender Hand vollständig umschließen und rotierend reiben. Daumenkuppen nicht vergessen! 
+#.  Daumen mit gegenüberliegender Hand vollständig umschließen
+    und rotierend reiben.
+    Daumenkuppen nicht vergessen!
 
-.. figure:: /Bilder/hygiene/haendedesinfektion07.png
+#.  Fingerkuppen im Handteller kreisförmig einreiben
+    bis Alkohol verdunstet ist.
 
-    Daumen mit gegenüberliegender Hand vollständig umschließen und rotierend reiben. Daumenkuppen nicht vergessen!
 
-.. figure:: /Bilder/hygiene/haendedesinfektion08.png
-
-    Fingerkuppen im Handteller kreisförmig einreiben bis Alkohol verdunstet ist.
-
-[Figure-haendedesinfektion]
-
-*Einwirkzeit beachten!* (lt. Herstellervorgaben, i.d.R. mind. 30
-Sekunden)
+-   *Einwirkzeit beachten!* (lt. Herstellervorgaben, i.d.R. mind. 30
+    Sekunden)
+-   Siehe :ref:`Figure-haendedesinfektion`.
 
 (Kirschnick 2003)
 

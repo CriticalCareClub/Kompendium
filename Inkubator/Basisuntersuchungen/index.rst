@@ -288,7 +288,7 @@ abgerundet auf ). Dokumentiert wird der Blutdruck mit dem Zusatz *RR*
 #. Werte auf nächste 5er-Stelle abrunden
 
 
-.. figure:: /Bilder/hirtler-aass/Riva-Rocci_edited.*
+.. figure:: /Bilder/HirtlerLena-Ccc/Riva-Rocci_edited.*
 
     Prinzip der auskultatorischen RR-MessungIn Abhängigkeit vom außen
     anliegenden Manschettendruck kommt es zu einem unterschiedlich starken
@@ -752,7 +752,7 @@ PICTUREWIDE !!!
 
 .. subfigstart::
 
-.. figure:: /Bilder/wikipedia-cc-by-sa/EKG_Komplex.*
+.. figure:: /Bilder/WikipediaCcBySa/EKG_Komplex.*
     :width: 99%
 
     Eine elektrische Herzaktion. 
@@ -895,7 +895,7 @@ lll
 | **V5** & 5. Zwischenrippenraum vordere Achsellinie (zw. V4 und V6)
 | **V6** & 6. Zwischenrippenraum in der mittleren Achsellinie
 
-.. figure:: /Bilder/wikipedia-pd/12_lead_generated_sinus_rhythm.*
+.. figure:: /Bilder/WikipediaPd/12_lead_generated_sinus_rhythm.*
 
     Unauffälliger 12-Kanal-EKG-Befund
     

@@ -382,7 +382,7 @@ nach der eigentlichen HIV-Infektion aus.
 
    -  Tumore
 
-.. figure:: /Bilder/hygiene/Niaid-hiv-virion-mod.*
+.. figure:: /Bilder/WikipediaPd/Niaid-hiv-virion-mod.*
 
     Schema eines HI-Virus
     
@@ -673,7 +673,7 @@ daher nach wie vor groß.
 
 -  Hohe Letalität
 
-.. figure:: /Bilder/hygiene/6373_lores_tetanus.*
+.. figure:: /Bilder/WikipediaPd/6373_lores_tetanus.*
 
     Patient mit Tetanus
     

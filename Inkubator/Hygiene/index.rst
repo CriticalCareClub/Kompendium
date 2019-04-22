@@ -328,7 +328,7 @@ In weiterer Folge wurde eine Vielzahl weiterer Antibiotika entwickelt
 und man dachte, man hätte die bakteriellen Infektionen besiegt. Doch man
 irrte sich gewaltig …
 
-.. figure:: /Bilder/hygiene/Faroe_stamp_079_europe_fleming.*
+.. figure:: /Bilder/WikipediaPd/Faroe_stamp_079_europe_fleming.*
 
     Alexander Fleming
     
@@ -420,7 +420,7 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 
 -  aber resistente Form: :dfn:`MRSA` :index:`\ <! MRSA>`
 
-.. figure:: /Bilder/hygiene/11159_lores_VRSA.*
+.. figure:: /Bilder/WikipediaPd/11159_lores_VRSA.*
 
     Ein resistenter Staph. aureus (VRSA) im Elektronenmikroskop,
     koloriert

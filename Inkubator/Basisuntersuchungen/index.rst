@@ -664,7 +664,7 @@ Durchführung
 
 	    
 
-.. figure:: /Bilder/gabriel-sebastian-aass/bz-wert_1214-00800.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/bz-wert_1214-00800.jpg
     :width: 99%
 
     Ergebnis: “90mg/dL
@@ -1268,7 +1268,7 @@ durchgeführt.
 
     [Sebastian Gabriel, MfG]     
 
-.. figure:: /Bilder/gabriel-sebastian-aass/N-5/IMG_20150306_132141-01341px.jpg
+.. figure:: /Bilder/GabrielSebastian-Ccc/N-5/IMG_20150306_132141-01341px.jpg
     :width: 99%
 
     Enge Pupille

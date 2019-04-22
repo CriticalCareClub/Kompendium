@@ -235,6 +235,8 @@ und auf Meningismus-Zeichen geprüft werden ([Thema-meningismuszeichen]).
 
 .. _Thema-lungenentzuendung:
 
+.. _thema-pneumonie:
+
 Lungenentzündung (Pneumonie)
 ============================
 
@@ -279,6 +281,8 @@ kaum an.
 ******************************
 Nicht alltägliche Erkrankungen
 ******************************
+
+.. _thema-tuberkulose:
 
 Tuberkulose
 ===========

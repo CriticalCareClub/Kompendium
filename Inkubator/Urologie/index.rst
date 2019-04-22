@@ -157,6 +157,9 @@ Schmerzen beim urinieren. Ein chronischer Verlauf ist oft symptomarm.
 
    -  Evtl. Flankenschmerz
 
+
+.. _thema-harnverhalten:
+
 ********************
 Akutes Harnverhalten
 ********************

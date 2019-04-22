@@ -304,7 +304,7 @@ Multiresistente Keime
 
 .. ruburic:: Linktip
 
-   (“EUREGIO Mrsa-Net: Gemeinsam Gegen Mrsa,” n.d.) *EUREGIO MRSA-net* http://www.mrsa-net.org/
+(“EUREGIO Mrsa-Net: Gemeinsam Gegen Mrsa,” n.d.) *EUREGIO MRSA-net* http://www.mrsa-net.org/
 
 Geschichte und Bedeutung der Antibiotika
 ========================================

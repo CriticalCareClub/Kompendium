@@ -1061,7 +1061,8 @@ Behinderung der Hirndurchblutung
 
 Hirnblutungen, Lähmungen, zerebrale Krämpfe
 
-| 
+
+.. _thema-wirbelsaeulentrauma:
 
 ************************************************
 Verletzungen der Wirbelsäule und des Rückenmarks
@@ -1070,9 +1071,9 @@ Verletzungen der Wirbelsäule und des Rückenmarks
 Beschreibung
 ============
 
-**Ein Wirbelsäulentrauma ist eine Gewalteinwirkung auf die Wirbelsäule,
+Ein Wirbelsäulentrauma ist eine Gewalteinwirkung auf die Wirbelsäule,
 die zur Verschiebung, Verrenkung oder zur Fraktur von Wirbeln mit oder
-ohne Rückenmarkschädigung führt (Gorgass et al. 2007).**
+ohne Rückenmarkschädigung führt (Gorgass et al. 2007).
 
 Typische Unfallmechanismen
 ==========================

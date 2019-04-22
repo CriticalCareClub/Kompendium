@@ -4118,7 +4118,7 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/traumacheck1.*
 	.. figure:: /Bilder/bergung_bagger_00800.*
 	.. figure:: /Bilder/bergung_kran_00800.*
-	.. figure:: /Bilder/GabrielSebastian/gef-wind-rauch2
+	.. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch2
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00518-0154pt-0300dpi
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6
@@ -4246,7 +4246,7 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/WikipediaCcBySa/SchulzVonThunVierOhrenModell-edited.*
 	.. figure:: /Bilder/EmhoferJosef-Ccc/PAMMaerz2014Vers2.*
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/helm1.*
-	.. figure:: /Bilder/GabrielSebastian/gef-wind-rauch.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch.*
 	.. figure:: /Bilder/khd/warntafel-un-60-1710.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0722_00500.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*

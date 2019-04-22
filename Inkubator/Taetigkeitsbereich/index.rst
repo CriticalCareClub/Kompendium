@@ -280,6 +280,9 @@ Anforderungsprofil des Arbeitsmarktservice (AMS):
 
 -  Verantwortungsbewusstsein
 
+
+.. _thema-taetigkeitsbild-sanitaeter-belastung:
+
 Anforderungen und Belastungen in der Praxis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -379,7 +382,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Rettung unter speziellen Bedingungen
 	    
 
-.. figure:: /Bilder/GabrielSebastian/gef-wind-rauch2.*
+.. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch2.*
     :width: 99%
 
     Autobrand mit giftigen Dämpfen

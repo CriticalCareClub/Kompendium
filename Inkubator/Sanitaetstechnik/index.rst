@@ -76,6 +76,7 @@ Handlungsschritte
 .. _Figure-haendedesinfektion:
 
 .. figure:: /Bilder/CcBySa-4-0/02_Hegasy_Haende_Desinfektion.*
+    :size: 99%
 
     Hygienische Händedesinfektion
 
@@ -146,19 +147,22 @@ Technik eignet sich nur für kurze Distanzen.
     :width: 99%
 
     Tragering
-    *Motal*
+
+    [Michael Motal, MfG]
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering2b.jpg
     :width: 99%
 
     Transport mit dem Tragering
-    *Motal*	    
+
+    [Michael Motal, MfG]
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering3b.jpg
     :width: 99%
 
     Transport mit dem Tragering
-    *Motal*
+
+    [Michael Motal, MfG]
 	    
 .. subfigend::
     :width: 0.3
@@ -240,6 +244,8 @@ wird immer mit den *Füßen voran* getragen.
 
     Bilderserie: Transport mit dem Tragetuch
 
+    [Michael Motal, MfG]
+
 
 
 
@@ -268,6 +274,7 @@ Stiegen hat der Patient immer *talwärts* zu blicken.
 .. figure:: /Bilder/PallingerChristoph-Ccc/Tragsessel_32966-prelim-edited2-crop2-AASS-0112mm
 
 	    Tragsessel
+
 	    *Ch. Pallinger, MfG*
 
 .. _Thema-Fahrtrage:
@@ -377,6 +384,8 @@ Siehe :ref:`Figure-lagerungsarten`. [152]_
     :label: Figure-lagerungsarten
 
     Bilderserie: Lagerungsarten
+
+    [Michael Motal, MfG]
 
 
 
@@ -529,6 +538,8 @@ Vorgehen
     :label: Figure-Figure-helmabnahme-hws-schiene
 
     Bilderserie: Helmabnahme und Anlage einer HWS-Schiene
+
+    [Michael Motal, MfG]
 
 
 .. [153]

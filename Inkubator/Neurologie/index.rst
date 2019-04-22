@@ -46,7 +46,7 @@ neurologischer Störungen, ohne Anspruch auf Vollständigkeit:
 
 .. rubric:: Querverweise
 
-   -  Infektiöse (bakterielle) Meningitis: :ref:`Thema-meningitis`
+-  Infektiöse (bakterielle) Meningitis: :ref:`Thema-meningitis`
 
 *********************************
 Allgemeine neurologische Symptome
@@ -255,39 +255,39 @@ Hirn drück sich selbst ab.”*).
 
 Es kommt es zu einer typischen Kombination von Symptomen:
 
--  **3** *Bewusstseinsstörungen*
+-   **3** *Bewusstseinsstörungen*
 
--  **4** *Übelkeit* und Erbrechen, meist in Verbindung mit Kopfschmerzen
+-   **4** *Übelkeit* und Erbrechen, meist in Verbindung mit Kopfschmerzen
 
--  **B** *Atmung*: Evtl. unregelmäßig
+-   **B** *Atmung*: Evtl. unregelmäßig
 
--  **C** *Kreislauf*: Der Patient ist *hyperton*, aber *bradykard*
-   (*HF\ :math:`\downarrow`, RR\ :math:`\uparrow`*), der Puls ist
-   langsam, aber äußerst stark spürbar (*Druckpuls*).
+-   **C** *Kreislauf*: Der Patient ist *hyperton*, aber *bradykard*
+    (*HF\ :math:`\downarrow`, RR\ :math:`\uparrow`*), der Puls ist
+    langsam, aber äußerst stark spürbar (*Druckpuls*).
 
--  **D** *Pupillen*: Typisch für das späte Stadium ist die *Ungleichheit
-   der Pupillen* (Anisokorie), bzw. eine verlangsamte Lichtreaktion.
+-   **D** *Pupillen*: Typisch für das späte Stadium ist die *Ungleichheit
+    der Pupillen* (Anisokorie), bzw. eine verlangsamte Lichtreaktion.
 
 -   In schweren Fällen kommt es zu sog. *Strecksynergismen*, d.h. der
-   Patient reagiert bei Schmerzreiz nur mit einem ungerichtetem Strecken
-   der Extremitäten.
+    Patient reagiert bei Schmerzreiz nur mit einem ungerichtetem Strecken
+    der Extremitäten.
 
 (Striebel 2010a)
 
--  **3** Bewusstseinsstörungen
+-   **3** Bewusstseinsstörungen
 
--  **4** Übelkeit, Erbrechen
+-   **4** Übelkeit, Erbrechen
 
--  **C** HF\ :math:`\downarrow`, RR\ :math:`\uparrow`
+-   **C** HF\ :math:`\downarrow`, RR\ :math:`\uparrow`
 
--  **D** Ungleichweite Pupillen, verlangsamte Lichtreaktion
+-   **D** Ungleichweite Pupillen, verlangsamte Lichtreaktion
 
 -   Strecksynergismen
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.*
 
     Anisokorie
-    
+
     [Sebastian Gabriel, MfG]
 
 
@@ -300,7 +300,9 @@ Das *große Hinterhauptsloch* als
 Durchtrittsstelle des Rückenmarks ist die einzige große Öffnung des
 Gehirnschädels und somit die einzige Möglichkeit des Gehirns sich
 auszudehnen. Kommt es aufgrund eines sehr großen Hirndrucks zu solch
-einer Ausdehnung kann es zu der Einklemmung des Hirnstammes kommen (*Hirnstammeinklemmung*). Da sich im Hirnstamm das Atem- und
+einer Ausdehnung kann es zu der Einklemmung des Hirnstammes kommen
+(*Hirnstammeinklemmung*).
+Da sich im Hirnstamm das Atem- und
 Kreislaufzentrum befindet besteht dabei akute **Lebensgefahr**!
 
 -  Großes Hinterhauptsloch
@@ -326,16 +328,19 @@ Arten
 Grundsätzlich gibt es 2 Formen, die aber vor Ort nicht unterschieden
 werden können:
 
--  *:dfn:`Trockener Insult` :index:`\ <! Trockener Insult>`*: *Ischämie* :index:`\ <Ischämie!trockener Insult>`. Verschluss eines Hirngefäßes mit
-   anschließendem Absterben der versorgten Hirnregion
+-   *:dfn:`Trockener Insult` :index:`\ <! Trockener Insult>`*:
+    *Ischämie* :index:`\ <Ischämie!trockener Insult>`.
+    Verschluss eines Hirngefäßes mit
+    anschließendem Absterben der versorgten Hirnregion
 
--  *:dfn:`Blutiger Insult` :index:`\ <! Blutiger Insult>`*: *Hirnblutung*, z.B. durch
-   Platzen eines Aneurysmas eines Hirngefäßes, kann spontan oder
-   aufgrund eines Traumas auftreten.
+-   *:dfn:`Blutiger Insult` :index:`\ <! Blutiger Insult>`*:
+    *Hirnblutung*, z.B. durch
+    Platzen eines Aneurysmas eines Hirngefäßes, kann spontan oder
+    aufgrund eines Traumas auftreten.
 
--  “Trockener” Insult
+-   “Trockener” Insult
 
--  “Blutiger” Insult
+-   “Blutiger” Insult
 
 .. _Thema-tia:
 
@@ -362,15 +367,18 @@ nachdem welches Gebiet durch die Ischämie oder Blutung betroffen ist,
 können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
 
 -  *Motorik*: Störungen der Kraft und Beweglichkeit sind sehr häufig.
-   Charakteristisch für einen Schlaganfall sind sog. :dfn:`Halbseitenzeichen` :index:`\ <! Halbseitenzeichen>`: Es kommt dabei zu einer *einseitigen
+   Charakteristisch für einen Schlaganfall sind sog.
+   :dfn:`Halbseitenzeichen` :index:`\ <! Halbseitenzeichen>`:
+   Es kommt dabei zu einer *einseitigen
    Kraftminderung*, dies kann bis zu einer *schlaffen, kompletten
    Lähmung* führen. Ein *herabhängender Mundwinkel* ist ein Zeichen
    einer Lähmung der Gesichtsmuskulatur. Durch die Lähmungen kann es zu
    *Schluckstörungen* kommen, es besteht dann eine erhöhte
    Aspirationsgefahr.
 
-   Der :dfn:`Herdblick` :index:`\ <! Herdblick>` ist eine Blickdiagnose: Es kann zu
-   Blicklähmungen kommen, der Patient blickt in Richtung des “Herdes des
+   Der :dfn:`Herdblick` :index:`\ <! Herdblick>` ist eine Blickdiagnose:
+   Es kann zu Blicklähmungen kommen,
+   der Patient blickt in Richtung des “Herdes des
    Geschehens”.
 
 -  *Sprache*: Störungen der Sprache sind ebenfalls sehr häufig. Oft
@@ -406,7 +414,7 @@ können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
 
    -  Ungleichweite Pupillen, verlangsamte Lichtreaktion
 
-   -   Strecksynergismen
+   -  Strecksynergismen
 
 -  *Blutdruck*: Der Blutdruck ist in der Akutsituation in der Regel
    erhöht und sinkt spontan innerhalb der nachfolgenden Stunden. Es wird

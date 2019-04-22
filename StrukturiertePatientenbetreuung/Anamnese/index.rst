@@ -174,12 +174,13 @@ als :dfn:`OPQRST` bezeichnet [182]_.
    Sie so einen Schmerz schon einmal gehabt? Haben die Schmerzen
    plötzlich oder langsam eingesetzt?”*
 
-.. _Thema-Kolik:
 
 .. index::
    single: Schmerz, kolikartiger
    single: kolikartiger Schmerz
    single: Kolik
+
+.. _Thema-Kolik:
 
 Besonderheit: Kolikartiger Schmerz
 ==================================

@@ -419,6 +419,8 @@ Erstmaßnahmen, welche bei Unfällen durchgeführt werden müssen.
 
 .. todo:: !!! PROCEDURE !!! TY14101C
 
+.. _thema-frakturen:
+
 ***********************************
 Verletzungen der Knochen: Frakturen
 ***********************************
@@ -429,8 +431,9 @@ Allgemeines
 Beschreibung und Arten
 ----------------------
 
-Ein **:dfn:`Knochenbruch` :index:`\ <! Knochenbruch>` (*Syn.* !!! TERMINUS DFN !!! :dfn:``
-[Fraktur]Fraktur , *lat.* (*Fract.*)) ist eine Kontinuitätsunterbrechung
+Ein **:dfn:`Knochenbruch` :index:`\ <! Knochenbruch>` 
+(*Syn.* :dfn:`Fraktur` , *lat.* (*Fract.*)) 
+ist eine Kontinuitätsunterbrechung
 eines Knochens mit Bildung von Fragmenten (Bruchstücken) (Pschyrembel
 2002).** Grundsätzlich wird zwischen zwei Arten von Knochenbrüchen
 unterschieden: Beim *geschlossenen Knochenbruch* ist die Haut über der
@@ -459,29 +462,29 @@ werden.
 
 -  [Table-frakturzeichen]
 
-Frakturzeichen[Table-frakturzeichen]
+.. todo:: Table Frakturzeichen[Table-frakturzeichen]
 
-| ll &
+    | ll &
 
--  Abnorme Beweglichkeit
+    -  Abnorme Beweglichkeit
 
--  Fehlstellung (abnorme Stellung, Verkürzung, Treppenbildung)
+    -  Fehlstellung (abnorme Stellung, Verkürzung, Treppenbildung)
 
--  Knochenreiben (Krepitus) [299]_
+    -  Knochenreiben (Krepitus) [299]_
 
--  Sichtbare freie Knochenteile (= offener Bruch)
+    -  Sichtbare freie Knochenteile (= offener Bruch)
 
-&
+    &
 
--  Schmerz
+    -  Schmerz
 
--  Schwellung
+    -  Schwellung
 
--  Hämatom
+    -  Hämatom
 
--  Gestörte Funktion / Bewegungsunfähigkeit
+    -  Gestörte Funktion / Bewegungsunfähigkeit
 
-| 
+    | 
 
 Gefahren
 --------
@@ -614,6 +617,8 @@ Ruhigstellung mittels Vakuummatratze. An große Blutverluste denken
 Verletzungen der Gelenke: Verrenkung und Verstauchung
 *****************************************************
 
+.. _thema-verstauchung-tra:
+
 Verstauchung, Bänderzerrung und Bänderriss
 ==========================================
 
@@ -651,6 +656,9 @@ berichten der Patient oder die Unfallzeugen meist über ein hörbares
 -  Hörbares Schnalzen beim Bänderriss
 
 .. todo:: !!! PROCEDURE !!! TT14031C
+
+
+.. _thema-verrenkung:
 
 Verrenkung
 ==========
@@ -1747,6 +1755,8 @@ einzudämmen.
 
 .. todo:: !!! PROCEDURE !!! TS32831C
 
+.. _thema-polytrauma:
+
 **********
 Polytrauma
 **********
@@ -2078,6 +2088,9 @@ Was man **nicht** tun darf …
 
 (Kamolz, Herndon, and Jeschke 2009; Krause and Loerbroks 2009; Beneker
 and Martens 2004; Lönnecker and Schoder 2001; Hamp and Weidenauer 2010)
+
+
+.. _thema-inhalationstrauma:
 
 Inhalationstrauma
 =================

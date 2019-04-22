@@ -110,16 +110,20 @@ für Beschreibungen:
 Häufige und gut erkennbare Erkrankungen
 ***************************************
 
+.. _thema-akutes-abdomen:
+
 Das Akute Abdomen
 =================
 
 Beschreibung
 ------------
 
-**Das :dfn:`Akutes Abdomen` :index:`\ <! Akutes Abdomen>` ist eine akute Erkrankung des
+Das :dfn:`Akutes Abdomen` :index:`\ <! Akutes Abdomen>` ist eine akute Erkrankung des
 Bauchraumes mit plötzlichen, starken *Bauchschmerzen* und *bretthartem
 Bauch*, welche im weiteren Verlauf lebensbedrohlich ist. Es sind
-verschiedene Ursachen möglich.**\  [250]_ Die zu Grunde liegenden
+verschiedene Ursachen möglich.\  [250]_
+
+Die zu Grunde liegenden
 Erkrankungen kann plötzlich entstehen, oder sich über längere Zeit
 entwickeln und erst im fortgeschrittenen Stadium die Symptome des akuten
 Abdomens auslösen. Ein akutes Abdomen erfordert eine rasche
@@ -213,15 +217,16 @@ sind auch die Ursachen:
 Darmverschluss
 ==============
 
-:ref:`Thema-ileus`
+.. _Thema-ileus:
 
 Beschreibung
 ------------
 
-**Als :dfn:`Darmverschluss` :index:`\ <! Darmverschluss>` bezeichnet man die Unterbrechung
+Als :dfn:`Darmverschluss` :index:`\ <! Darmverschluss>` bezeichnet man die Unterbrechung
 der normalen Darmpassage. *Term.* :dfn:`Ileus` :index:`\ <! Ileus>`
-(vollständig), :dfn:`Subileus` :index:`\ <! Subileus>` (unvollständig)** Der
-Verschluss kann mechanisch bedingt sein (durch Hindernisse wie
+(vollständig), :dfn:`Subileus` :index:`\ <! Subileus>` (unvollständig)
+
+Der Verschluss kann mechanisch bedingt sein (durch Hindernisse wie
 Verwachsungen oder Tumore), oder durch eine Lähmung der Darmmuskulatur
 (Medikamente, Gifte, Entzündung …) verursacht sein. Bestimmte
 Schmerzmittel (Opiate), welche oft bei Krebspatienten eingesetzt werden,
@@ -324,22 +329,25 @@ Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr
 
 .. todo:: !!! PROCEDURE !!! CK80811C
 
+.. _Thema-gastrointestinale-blutung:
+
 Gastrointestinale Blutungen und Ösophagusvarizenblutung
 =======================================================
 
-:ref:`Thema-gastrointestinale-blutung`
 
 Beschreibung
 ------------
 
-**:dfn:`Gastrointestinale Blutungen` :index:`\ <! Gastrointestinale Blutungen>` sind Blutungen im
-Magen-Darm-Trakt.** **:dfn:`Ösophagusvarizenblutungen` :index:`\ <! Ösophagusvarizenblutungen>` sind
-Blutungen aus erweiterten Gefäßen (“Krampfadern”) in der Speiseröhre.**
+:dfn:`Gastrointestinale Blutungen` :index:`\ <! Gastrointestinale Blutungen>`
+sind Blutungen im Magen-Darm-Trakt.
+:dfn:`Ösophagusvarizenblutungen` :index:`\ <! Ösophagusvarizenblutungen>` sind
+Blutungen aus erweiterten Gefäßen (“Krampfadern”) in der Speiseröhre.
+
 Im Verlauf des Magen-Darm-Traktes kann es an verschiedenen Stellen zu
 Blutungen kommen, die auch sehr schwer ausfallen können. Die
 Unterscheidung nach der Stelle der Blutung ist wesentlich:
 
--   Blutungen im *oberen Teil* des Verdauungstraktes können durch 
+-   Blutungen im *oberen Teil* des Verdauungstraktes können durch
     *Ösophagusvarizen*
     verursacht werden: Bei Patienten mit einer fortgeschrittenen
     Lebererkrankung (Leberzirrhose, :ref:`Thema-leberzirrhose`) kann es zur

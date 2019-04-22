@@ -477,6 +477,7 @@ Abstand halten! Wind beachten!), vgl. auch :ref:`Thema-gefahrengutunfall`.
 Wovon man nicht trinken sollte …
 ********************************
 
+.. _thema-veraetzung-intoxikation:
 
 Einnahme von Säuren und Laugen
 ==============================
@@ -487,9 +488,9 @@ Verletzungen der Haut und Augen durch Säuren und Laugen werden unter
 Beschreibung
 ------------
 
-**Eine :dfn:`Verätzung` :index:`\ <! Verätzung>` ist eine lokale Schädigung der Haut
+Eine :dfn:`Verätzung` :index:`\ <! Verätzung>` ist eine lokale Schädigung der Haut
 bzw. Schleimhaut aufgrund einer irreversiblen Zerstörung (Denaturierung)
-von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)**
+von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
 
 Symptome
 --------

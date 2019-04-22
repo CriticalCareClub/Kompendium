@@ -6,6 +6,7 @@
 Dieses Kapitel behandelt diverse allgemeine und
 spezielle Maßnahmen der Sanitätshilfe.
 
+.. _thema-hygienische-haendedesinfektion:
 
 ***********************************************************************
 Die Hygienische Händedesinfektion soll die Infektionskette unterbrechen

@@ -995,6 +995,10 @@ SAMPLER: COPD
 
 (Knacke and Saur 2006)
 
+
+
+.. _thema-lungenembolie:
+
 *************
 Lungenembolie
 *************

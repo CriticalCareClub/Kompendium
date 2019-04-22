@@ -241,6 +241,7 @@ Hirndruckzeichen und Hirnstammeinklemmung
 =========================================
 
 .. _Thema-hirndruckzeichen-neu:
+.. _Thema-hirndruckzeichen:
 
 Hirndruckzeichen
 ----------------

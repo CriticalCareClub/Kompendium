@@ -3,6 +3,9 @@ Diagnostik
 ############################
 
 .. toctree::
-	:maxdepth: 1
+	:maxdepth: 2
 	
-	Basisuntersuchungen/index.rst
+	Vitalwerte/index.rst
+	KoerperlicheUntersuchung/index.rst
+	ErweitertesMonitoring/index.rst
+	Ekg-Basics/index.rst

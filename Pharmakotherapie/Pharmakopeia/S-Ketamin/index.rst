@@ -2,31 +2,31 @@
 Ketamin, S-
 -----------
 
-.. topic:: Spezialitäten
+.. Thema-: Spezialitäten
 
     Ketanest-S
 
     -   5 mg / mL: 25 mg / 5 ml
     -   25 mg / mL: 50 mg / 2 mL, 250 mg / 10 mL
 
-.. topic:: Beschreibung
+.. Thema-: Beschreibung
 
     ---.
 
-.. topic:: Wirkung
+.. Thema-: Wirkung
 
     Erzeugt abhängig von der Dosis eine dissoziative Anästhesie
 
-.. topic:: Indikation
+.. Thema-: Indikation
 
     Analgesie, Anästhesie, Therapierefr. Bronchospasmus.
 
-.. topic:: Kontraindikationen
+.. Thema-: Kontraindikationen
 
-    erhöhter ICP  [3]_ (relativ), penetrierende Augenverletzng,
+    erhöhter intrakranieller Druck (relativ), penetrierende Augenverletzng,
     kardiale Dekompensation, KHK
 
-.. topic:: Dosierung
+.. Thema-: Dosierung
 
     Analgesie: Range0,10,25 mg / kg iv., Range0,250,5 mg / kg im.;
     Anästhesie: Range12,5 mg / kg iv., 2,5-4 mg / kg im.;
@@ -44,7 +44,3 @@ Ketamin, S-
 
     Neostigmin nicht ZNS-gängig, Phyostigmin schon
 
-
-
-.. [3]
-   ICP: intrakranieller Druck

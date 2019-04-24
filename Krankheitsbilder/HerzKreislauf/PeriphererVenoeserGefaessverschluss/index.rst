@@ -1,9 +1,10 @@
 
+.. _Thema-thrombose:
+
 ############################################################
 Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose
 ############################################################
 
-[Thema-thrombose]
 
 *************************
 Beschreibung und Ursachen
@@ -14,7 +15,7 @@ Beschreibung und Ursachen
 
     -  verminderte Blutflussgeschwindigkeit oder Rückstau
 
-    -  Flüssige Blutbestandteile :math:`\downarrow`
+    -  Flüssige Blutbestandteile ↓
 
     -  Gesteigerte bzw. krankhafte Neigung
 

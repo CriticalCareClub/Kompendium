@@ -341,7 +341,7 @@ folgenden Bestimmungen:
 
         -   für das Zivilrecht ist die Einwilligung aufgrund einer
             Aufklärung notwendige Voraussetzung für die rechtfertigende
-            Heilbehandlung :math:`{\rightarrow}` mangelt es an ihr, kann
+            Heilbehandlung → mangelt es an ihr, kann
             Schadenersatz verlangt werden
 
 
@@ -533,7 +533,7 @@ Rechtslage
 ----------
 
 Die *Kompetenzstufen* sind im SanG [312]_ geregelt.
-[tab:sang-kompetenzstufen], gibt eine Übersicht.
+[Table-sang-kompetenzstufen], gibt eine Übersicht.
 
 .. [312]
     §§ 9—12 SanG
@@ -629,7 +629,7 @@ Rechtsfolge
 Die RTW-Mannschaft darf daher die für den Patienten schädigende
 Anordnung ablehnen. Natascha hingegen macht sich strafbar wegen
 Körperverletzung und riskiert uU. zivilrechtliche Schadenersatzansprüche
-(:math:`{\rightarrow}` Nitro-Gabe nicht lege artis).
+(→ Nitro-Gabe nicht lege artis).
 
 .. _Thema-jus-langer-dienst-fall-9:
 .. _Thema-dokumentationspflicht-fallbeispiel:
@@ -1116,6 +1116,8 @@ Rechtsfrage
 
 Besteht eine Pflicht zur Anzeige von strafbaren Handlungen? Wenn ja, für
 wen besteht diese Anzeigepflicht?
+
+.. _thema-anzeigerecht:
 
 Rechtslage
 ----------

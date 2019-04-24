@@ -151,7 +151,7 @@ Aufbau eines Knochens
    äußere Schicht, äußere Form, verantwortlich für Stabilität des
    Knochens
 
--  :dfn:`Spongiosa`: Knochenbälkchen :math:`{\rightarrow}`
+-  :dfn:`Spongiosa`: Knochenbälkchen →
    Zug- und Druckfestigkeit, rotes Knochenmark
 
 -  :dfn:`Markhöhle`: Gefüllt mit Knochenmark

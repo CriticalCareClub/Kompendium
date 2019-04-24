@@ -220,6 +220,8 @@ Missverständnissen führen kann. Als klassisches Beispiel ist die
 
 .. _thema-kommunikationsregeln:
 
+.. _thema-einer-redet:
+
 Allgemeine Grundregeln und Ratschläge
 =====================================
 
@@ -292,7 +294,7 @@ gekennzeichnet:
    zuständige Stelle zu verweisen.
 
 -  *Bezugsperson*: Sind mehrere Helfer vorort, so soll nur einer der
-   Ansprechpartner des Patienten sein![topic:einer-redet]
+   Ansprechpartner des Patienten sein!
 
 
 

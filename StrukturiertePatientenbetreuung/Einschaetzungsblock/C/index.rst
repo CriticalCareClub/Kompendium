@@ -67,7 +67,7 @@ Das Herz schlägt beim Erwachsenen mit einer *Herzfrequenz* (*HF*, bzw.
 Gaehtgens 2001).
 Bei Belastung kann die Herzfrequenz beträchtlich
 gesteigert werden. Durch die Pumpfunktion des Herzens entsteht der
-arterielle *Blutdruck* ([topic:blutdruck]).
+arterielle *Blutdruck* (:ref:`Thema-blutdruck`).
 
 Beurteilung der Herzfrequenz
                             

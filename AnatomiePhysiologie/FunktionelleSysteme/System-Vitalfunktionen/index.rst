@@ -537,9 +537,9 @@ und folglich zu einer Ansäuerung des Blutes.
 
 -  Insuffiziente innere oder äußere Atmung
 
-   -  AF :math:`\downarrow`, AZV :math:`\downarrow`
+   -  AF ↓, AZV ↓
 
-   -  Sauerstoffgehalt der Einatemluft :math:`\downarrow`
+   -  Sauerstoffgehalt der Einatemluft ↓
 
    -  Gasaustausch beeinträchtigt
 

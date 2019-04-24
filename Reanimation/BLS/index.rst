@@ -398,7 +398,7 @@ Beschreibung
 Das Herz ist die Pumpe des Blutkreislaufes und
 leistet eine beachtliche mechanische Arbeit, 
 welche über elektrische Reize koordiniert wird 
-(Reizleitungssystem, [Thema-reizleitungssystem]). 
+(Reizleitungssystem, :ref:`Thema-reizleitungssystem`). 
 Ohne diese
 elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und
 somit zum Kreislaufstillstand. 
@@ -836,7 +836,7 @@ siehe :ref:`Figure-Bls-Aed-Algorithmus` … Algorithmus BLS mit AED
 
 .. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationBls-2015-4.*
             
-	    Basic Life Support mit AED.[tab:algorithmus-bls-aed]
+	    Basic Life Support mit AED.[Table-algorithmus-bls-aed]
 
             [Josef Emhofer, nach :cite:`Erc-2015-Section-02`]
 
@@ -956,7 +956,7 @@ folgt beschrieben:
 
 .. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationPls-2015-1.*
                         
-	    Pediatric Life Support [tab:algorithmus-pls]
+	    Pediatric Life Support [Table-algorithmus-pls]
 
             [Josef Emhofer,  nach ERC]
 
@@ -981,7 +981,7 @@ Reanimation des Neugeborenen
 ============================
 
 Die Reanimation des Neugeborenen wird unter
-[Thema-reanimation-neugeborenes] ausgeführt.
+:ref:`Thema-reanimation-neugeborenes` ausgeführt.
 
 
 Ende der Reanimation

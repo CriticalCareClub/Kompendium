@@ -1,5 +1,5 @@
 
-.. _topic-speiseroehre:
+.. _Thema-speiseroehre:
 
 .. _Thema-Oesophagus:
 
@@ -11,7 +11,7 @@
    
     -  :math:`\sim` 25cm langer Muskelschlauch
 
-    -  Nahrung: Rachen :math:`\rightarrow` Magen
+    -  Nahrung: Rachen → Magen
 
     -  Keine Verdauung
 

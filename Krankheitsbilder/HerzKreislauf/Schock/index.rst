@@ -198,11 +198,13 @@ Die Schockschere gilt beim Kind nicht, da die Normalwerte andere sind!
 Kinder bleiben außerdem lange kreislaufstabil, verfallen dann aber
 schlagartig!
 
+.. _Thema-schock-arten:
+
 ****************************
 Unterschiedliche Schockarten
 ****************************
 
-[Thema-schock-arten]Beim Schock können einzelne oder mehrere Teile des
+Beim Schock können einzelne oder mehrere Teile des
 Kreislaufsystems (Blut, Gefäße, Herz) gestört sein. Dementsprechend
 werden unterschiedliche Mechanismen schlagend und man kann verschiedene
 Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
@@ -244,7 +246,7 @@ Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
                 -   Blutung
                 -   Verbrennungen (Hautbarriere versagt großflächig)
                 -   Gastrointestinal (Durchfall, Diarrhoe)
-                -   Exsikkose ([Thema-exsikkose])
+                -   Exsikkose (:ref:`Thema-exsikkose`)
 
             -   Verlust nach innen
 
@@ -367,6 +369,7 @@ Häufig klagen die Patienten über *Atemnot*.
 [Tafel-uebersicht-schockarten]
 
 .. _Thema-SchockAnaphylaktischer: 
+.. _thema-schock-anaphylaktischer:
 
 ***********************
 Anaphylaktischer Schock
@@ -427,6 +430,7 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
 
 .. _Thema-SchockSeptischer:
 .. _Thema-SchockToxischer:
+.. _thema-schock-septischer:
 
 **************************************
 Septischer Schock und Toxischer Schock

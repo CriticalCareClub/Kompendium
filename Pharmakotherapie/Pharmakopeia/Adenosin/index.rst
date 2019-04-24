@@ -9,11 +9,11 @@ Adenosin
 
 
 
-.. topic:: Spezialitäten
+.. Thema-: Spezialitäten
 
     6 mg / 2 mL Amp.
 
-.. topic:: Indikation
+.. Thema-: Indikation
 
     Diagnostik und Therapie tachykarder Rhythmusstörungen:
 
@@ -22,7 +22,7 @@ Adenosin
     -   *SVT* wird verlangsamt
     -   *VT*: kein Effekt
 
-.. topic:: Kontraindikationen
+.. Thema-: Kontraindikationen
 
     -   2—3° AV-Block, 
     -   Sick-Sinus-Syndrome
@@ -35,7 +35,7 @@ Adenosin
         bronschiale
 
 
-.. topic:: Dosierung
+.. Thema-: Dosierung
 
     -   Bolus Erwachsener: 6 mg rasch i. v.
     
@@ -46,7 +46,7 @@ Adenosin
     Dosisreduktion bei Z. n. Herz-TX (1/3-1/5) und bei Ca-Antagonisten
     vom Nifedipin-Typ (1/4)
 
-.. topic:: Anwendungshinweise
+.. Thema-: Anwendungshinweise
 
     Reanimations- und Intubationsbereitschaft. 
     
@@ -54,7 +54,7 @@ Adenosin
     
     Es tritt ein *AVB 3°* ein (kurz 0-Linie, keep cool!)
 
-.. topic:: Antidot
+.. Thema-: Antidot
 
     Theophyllin
 

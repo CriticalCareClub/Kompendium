@@ -30,7 +30,7 @@ Kompendium des Critical Care Club Austria
 
 .. toctree::
    :maxdepth: 2
-   :caption: Inhalt 
+   :caption: Inhalt
 
    Prolog/index
    1-Mal-1-DerMedizin/index
@@ -40,6 +40,7 @@ Kompendium des Critical Care Club Austria
    Reanimation/index
    Krankheitsbilder/index
    Pharmakotherapie/index
+   Inkubator/index
    Appendix/index
 
 -----
@@ -85,7 +86,7 @@ Literatur
 :cite:`008-001-S2e-SHT-Erwachsene-2016-06`
 
 
-.. bibliography:: Notarzt-21.bib 
+.. bibliography:: Notarzt-21.bib
     :style: plain
 
 .. rubric:: Leitlinien
@@ -101,7 +102,7 @@ Literatur
 
     .. git_changelog::
         :revisions: 1
-    
+
     .. git_commit_detail::
         :branch:
         :commit:

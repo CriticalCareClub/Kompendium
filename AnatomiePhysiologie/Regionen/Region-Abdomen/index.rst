@@ -40,7 +40,7 @@ durchführen können.
 
 ..
     .. figure::
-        /Bilder/GabrielSebastianAass/Torso_GABS_IMG_1251_00800_frei.*
+        /Bilder/GabrielSebastian-Ccc/Torso_GABS_IMG_1251_00800_frei.*
 ..
         Der Brust- und Bauchraum, geöffnet am Torso in Aufsicht.
         Zu sehen sind die Lunge, dahinter das Herz, darunter die
@@ -133,7 +133,7 @@ Blutdruckregulierung (Renin) und für die Blutbildung (*Erythropoetin*).
 
 .. sidebar:: Niere, Aufgaben
 	     
-  -  Stark durchblutet, empfindlich auf RR- Abfall :math:`{\rightarrow}`
+  -  Stark durchblutet, empfindlich auf RR- Abfall →
 
   -  reguliert
 

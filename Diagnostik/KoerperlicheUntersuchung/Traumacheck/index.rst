@@ -38,7 +38,8 @@ Traumacheck durchgeführt.
 -  *Sichtkontrolle* von Mund, Nase und Ohren auf Blutungen (mit einer
    Lampe)
 
--  Bei Blutungen aus Ohren oder Nase !!! TERMINUS !!!
+-  Bei Blutungen aus Ohren oder Nase 
+
    *Tupfertest*: Etwas Blut aus Ohren oder Nase wird
    mit einem Tupfer auffangen. Aufgrund der Kapillarwirkung steigt das
    Blut am Tupfer auf, wobei Liquor schneller aufsteigt. Sollte daher im

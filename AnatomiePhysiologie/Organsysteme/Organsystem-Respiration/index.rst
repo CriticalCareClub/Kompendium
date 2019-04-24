@@ -146,6 +146,15 @@ Ein Ausfall dieses Reflex kann u.U. auch ein Zeichen des Hirntods sein.
        Schluckaktes!
 
 
+
+.. index::
+    single: Alveolen
+    single: Lungenbläschen
+    single: Hauptbronchus
+    single: Trachea
+    single: Luftröhre
+
+
 .. _Thema-alveolen:
 
 Untere Atemwege
@@ -158,7 +167,7 @@ weitergeleitet.
 Die Luftröhre teilt sich in einen *rechten* und einen
 *linken* :dfn:`Hauptbronchus`, welche zu den jeweiligen
 Lungenflügeln ziehen. Jeder Hauptbronchus verzweigt sich immer weiter
-bis schlussendlich sehr dünne *Bronchioli* in die !!! TERMINUS DFN !!!
+bis schlussendlich sehr dünne *Bronchioli* in die 
 :dfn:`Alveolen` (*Lungenbläschen*) münden.
 Hier findet der Gasaustausch statt.
 

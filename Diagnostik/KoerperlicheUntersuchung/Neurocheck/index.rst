@@ -24,6 +24,14 @@ Teile des Neurochecks werden während des Einschätzungsblockes
 (:ref:`Thema-einschaetzungsblock`) durchgeführt.
 
 
+
+.. index::
+    single: Lichtreaktion
+    single: Neurocheck
+    single: Herdblick
+    single: Nackensteifigkeit; Untersuchung
+
+
 .. _Thema-nackensteifigkeit-untersuchung:
 
 Neurocheck
@@ -69,9 +77,9 @@ Neurocheck
 
    #. Pupillen gleich weit (*isokor*)?
 
-   #. Blickstarre (!!! TERMINUS !!! *Herdblick*)?
+   #. Blickstarre (**Herdblick**)?
 
-   #. !!! TERMINUS !!! *Lichtreaktion:* In jedes Auge zwei mal leuchten
+   #. **Lichtreaktion**: In jedes Auge zwei mal leuchten
       und jeweils das gleiche und das andere Auge beobachten
 
       Beurteilung von:
@@ -95,9 +103,9 @@ Neurocheck
    #. Von oben auf die Zehen drücken und Patienten bitten die Zehen
       Richtung Kopf zu heben.
 
-#. !!! TERMINUS !!!
-   [Nackensteifigkeit!Untersuchung]Nackensteifigkeit:
-   Die Nackensteifogkeit ist ein *Meningismuszeichen* :index:`\ <Meningismuszeichen!Nackensteifigkeit!Untersuchung>`.
+#. :dfn:`Nackensteifigkeit`:
+   Die Nackensteifogkeit ist ein *Meningismuszeichen* 
+   :index:`\ <Meningismuszeichen!Nackensteifigkeit!Untersuchung>`.
    Der Patient liegt *flach* auf dem Rücken. Der Untersucher fasst den
    Kopf des Patienten und versucht das Kinn an die Brust zu führen. Es
    handelt sich um eine *passive Bewegung*, der Patient darf dabei nicht

@@ -1,4 +1,8 @@
 
+
+.. index::
+    single: Körperkerntemperatur
+
 .. _Thema-koerpertemperatur-messung:
 
 ########################################################################
@@ -24,7 +28,7 @@ Schutzhülle zu verwenden.
 Mit dem *Ohrthermometer* kann mittels Infrarot die Temperatur im
 *Mittelohr* bestimmt werden. Es sind die entsprechenden *Schutzkappen*
 zu verwenden. Die Temperatur im Enddarm und im Mittelohr bezeichnet man
-als !!! TERMINUS !!! *Körperkerntemperatur*, diese beträgt um die 37.
+als ;dfn:`Körperkerntemperatur`, diese beträgt um die 37.
 Die unter der Achsel gemessene Temperatur kann ca. !!! NICEFRAC !!! 12°C
 niedriger sein.
 

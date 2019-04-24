@@ -1165,6 +1165,14 @@ oder, wenn nötig, auf einem beigelegten Blatt Papier erfolgen.
 .. [86]
    §5 SanG
 
+
+
+.. index::
+    single: Verschwiegenheitspflicht
+    single: Pflichten des Sanitäters; Verschwiegenheitspflicht
+    single: Auskunftsrecht
+
+
 .. _Thema-verschwiegenheitspflicht:
 
 Verschwiegenheitspflicht
@@ -1176,8 +1184,8 @@ hat, dürfen nicht an unbefugte Dritte weitergegeben werden. Geheimnisse
 sind alle Informationen, die einen Bezug zum Patienten haben oder
 liefern (z.B. Name des Patienten, Versicherungsnummer, Wohnadresse, …).
 
-Geheimnisse *dürfen* unter Umständen mitgeteilt werden (!!! TERMINUS !!!
-*Auskunftsrecht*), z.B. wenn die Anonymität des Patienten gewahrt
+Geheimnisse *dürfen* unter Umständen mitgeteilt werden 
+(**Auskunftsrecht**), z.B. wenn die Anonymität des Patienten gewahrt
 bleibt. Daher darf man mit Kollegen oder sonstigen Personen über die
 erlebten Geschehnisse reden, solange aus dem Gesagten nicht erkennbar
 ist, um welche Person es sich bei dem Patienten handelt

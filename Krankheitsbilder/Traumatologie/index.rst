@@ -1337,6 +1337,15 @@ Todesangst.
 
 .. todo:: !!! PROCEDURE !!! TJ93090C
 
+
+
+.. index::
+    single: Rippenfraktur
+    single: Serienrippenfraktur
+    single: Fraktur; Rippen-
+    single: Fraktur; Serienrippen-
+
+
 Rippenfraktur, Serienrippenfraktur und instabiler Thorax
 ========================================================
 
@@ -1344,8 +1353,8 @@ Beschreibung
 ------------
 
 Eine Fraktur einer oder mehrer Rippen ensteht typischerweise durch eine
-meist stumpfe Gewalteinwirkung auf den Thorax. Von einer !!! TERMINUS
-!!! *Serienrippenfraktur* spricht man, wenn mindestens drei benachbarte
+meist stumpfe Gewalteinwirkung auf den Thorax. 
+Von einer **Serienrippenfraktur** spricht man, wenn mindestens drei benachbarte
 Rippen gebrochen sind.
 
 Häufige Mechnismen sind z.B. ein Sturz auf den Thorax (insbesonders

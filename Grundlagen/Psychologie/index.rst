@@ -732,7 +732,7 @@ unbedingte Voraussetzung.
 Beanspruchungsfolgen
 ====================
 
--  *Erhöhte Vulnerabilität*: Generell kann Stress eine erhöhte
+-  **Erhöhte Vulnerabilität**: Generell kann Stress eine erhöhte
    Vulnerabilität (=Verletzlichkeit) zur Folge haben: im
    sozialpsychologischen Kontext mag damit eine erhöhte *emotionale
    Verletzlichkeit* gegenüber Belastungen, Enttäuschungen und
@@ -742,7 +742,7 @@ Beanspruchungsfolgen
    *gesundheitliche Erkrankungen* gemeint sein, z.B. durch die oben
    beschrieben Schwächung der Immunkompetenz.
 
--  *Frustration*: Ausgehend von der Prämisse, dass unbewältigter Stress
+-  **Frustration**: Ausgehend von der Prämisse, dass unbewältigter Stress
    Frustration erzeugt, lassen sich zwei potentielle Richtungen
    unterscheiden, in die sich diese kanalisieren kann:
    Frustrationsgefühle können sich nach außen richten, durch das
@@ -752,7 +752,7 @@ Beanspruchungsfolgen
    neg. Gedanken, Gefühlen der Unzulänglichkeit/Überforderung und
    gedrückter Stimmung).
 
--  !!! TERMINUS !!! *Zynismus*\  [39]_ bezeichnet zum einen eine
+-  **Zynismus**\  [39]_ bezeichnet zum einen eine
    *Haltung, die in (oft absichtlich) verletzender Weise die
    Wertvorstellungen anderer herabsetzt oder missachtet* und zum anderen
    auch eine *Haltung, die moralische Werte grundsätzlich in Frage
@@ -1210,7 +1210,7 @@ Ausdruck der zugrundeliegenden Persönlichkeitsänderung zu deuten.
 Re- und Sekundärtraumatisierung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Als !!! TERMINUS !!! *Retraumatisierung* bezeichnet das Phänomen, dass
+Als **Retraumatisierung** bezeichnet das Phänomen, dass
 von Traumafolgestörungen betroffene Menschen durch die Konfrontation mit
 traumaassoziierten Reizen (Sinneswahrnehmungen, Gegenstände, Orte,
 Erinnerungen, etc.) erneut traumatisiert werden können.** Eine bereits
@@ -1221,8 +1221,7 @@ erhöhte Vorsicht ableiten (siehe Posttraumatische Belastungsreaktion,
 Folgerungen für den Sanitätsdienst, v.a. Rücksichtnahme auf
 Vermeidungsverhalten). 
 
-**Unter !!! TERMINUS !!! 
-*Sekundärtraumatisierung* – auch induzierte oder das Phänomen der
+Unter **Sekundärtraumatisierung** – auch induzierte oder das Phänomen der
 stellvertretende Traumatisierung (vicarious traumatisation) – beschreibt
 Veränderungen des inneren Erlebens von helfenden Professionisten als
 Folge ihres mitfühlenden Engagements bzw. des häufigen Umgangs mit

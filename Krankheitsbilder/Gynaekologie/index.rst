@@ -108,6 +108,12 @@ Abdomens und eines hypovolämischen Schocks.
 
 .. todo:: !!! PROCEDURE !!! GO00092C
 
+
+
+.. index::
+    single: Plazentalösung; vorzeitige
+
+
 Notfälle in der Spätschwangerschaft
 ===================================
 
@@ -117,9 +123,11 @@ Vorzeitige Plazentalösung
 Beschreibung
 ^^^^^^^^^^^^
 
-**Eine !!! TERMINUS DFN !!! :dfn:`` [Plazentaöslung!vorzeitige]vorzeitige
-Plazentalösung ist eine Ablösung des Mutterkuchens (Plazenta) vor
-Beendigung der Geburt** Aufgrund einer Einblutung zwischen Plazenta und
+Eine :dfn:`vorzeitige Plazentalösung` ist eine Ablösung 
+des Mutterkuchens (Plazenta) vor
+Beendigung der Geburt. 
+
+Aufgrund einer Einblutung zwischen Plazenta und
 Gebärmutter kann es zu einer vorzeitigen Ablösung der Plazenta mit dann
 ungehinderter *Blutung* kommen. Es besteht Schock- bzw. *Lebensgefahr*
 für Mutter und Kind durch Blutung der Mutter und Mangelversorgung des

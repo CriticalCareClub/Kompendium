@@ -511,6 +511,10 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
 
 
+.. index::
+    single: Arzt
+
+
 *****
 Ärzte
 *****
@@ -530,19 +534,39 @@ sehr unterschiedlich.
 Situation in Österreich
 -----------------------
 
+
+
+.. index::
+    single: Arzt; approbierter
+    single: Ärztegesetz
+    single: ÄrzteG
+    single: Facharzt
+    single: Ärztekammer
+
+
 Allgemeines
 ^^^^^^^^^^^
 
 Der ärztliche Beruf wird durch das *Ärztegesetz* (*ÄrzteG*) geregelt.
 Die selbstständige Ausübung des ärztlichen Berufes ist ausschließlich
 Ärzten für Allgemeinmedizin,
-*approbierten* :index:`\ <Arzt!approbierter>` Ärzten sowie *Fachärzten* :index:`\ <Facharzt>` vorbehalten (*Arztvorbehalt*, von diesem
+*approbierten* :index:`\ <Arzt!approbierter>` Ärzten sowie *Fachärzten* 
+:index:`\ <Facharzt>` vorbehalten (*Arztvorbehalt*, von diesem
 Vorbehalt gibt es für andere medizinische Berufsgruppen entsprechende
 Ausnahmeregelungen in den jeweiligen Berufsgesetzen). [13]_
 
 Interessensvertretung und Aufsichtsbehörde für alle Ärzte ist die
 *Österreichische Ärztekammer* bzw. die jeweils zuständigen
 Landesärztekammern.
+
+
+
+.. index::
+    single: Turnusarzt
+    single: Jus practicandi
+    single: Arzt für Allgemeinmedizin
+    single: Facharzt
+
 
 Ausbildung und Jus practicandi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -566,7 +590,7 @@ Studium beginnen, bzw. auch erst nach der Absolvierung der Ausbildung
 zum Arzt für Allgemeinmedizin begonnen werden. Während der
 Ausbildungszeit durchläuft der Auszubildende im Turnus-System diverse
 Fachabteilungen, welche in der jeweiligen Ausbildungsordnung vorgegeben
-sind (daher die Bezeichnung !!! TERMINUS !!! *Turnusarzt*). Die
+sind (daher die Bezeichnung **Turnusarzt**). Die
 Turnus-Ausbildung zum Arzt für Allgemeinmedizin dauert 3 Jahre bzw. zum
 Facharzt je nach Fachgebiet 5--6 Jahre.
 
@@ -581,6 +605,14 @@ Fachgebiete für die man sich qualifizieren kann.
 Die Ausbildungsordnungen, sowohl für den Arzt für Allgemeinmedizin, als
 auch für Fachärzte, befinden sich derzeit in Überarbeitung und werden
 sich in naher Zukunft deutlich ändern.
+
+
+
+.. index::
+    single: Notarzt
+    single: Notarzt; Leitender
+    single: Leitender Notarzt
+
 
 Der Arzt im Rettungs- und Krankentransportdienst
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -597,6 +629,11 @@ Das ÄrzteG sieht hierfür zwei Ausbildungen vor:
    im Großschadensfall. Die Ausbildung zum Leitenden Notarzt setzt eine
    entsprechende Berufserfahrung als Notarzt sowie die Absolvierung
    eines entsprechenden Kurs voraus.
+
+
+
+.. index::
+    single: Hebamme
 
 ********
 Hebammen
@@ -615,6 +652,16 @@ Hebamme erfolgt in einer entsprechenden Fachschule, neuerdings erfolgt
 die Ausbildung auch in Fachhochschulen. Die Bezeichnung Hebamme gilt für
 weibliche und männliche Berufsangehörige. Die gesetzliche Grundlage
 bietet das *Hebammengesetz* (*HebG*).
+
+
+
+.. index::
+    single: Gehobener Gesundheits- und Krankenpflegedienst
+    single: DGKS
+    single: DGKP
+    single: DGKKS
+    single: DKKP
+
 
 **********************************************
 Gehobener Gesundheits- und Krankenpflegedienst

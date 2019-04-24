@@ -256,10 +256,13 @@ Appendizitis (Blinddarmentzündung)
 Beschreibung, Symptome  und Verlauf
 -----------------------------------
 
-**Als :dfn:`Appendizitis` :index:`\ <! Appendizitis>` bezeichnet man die Entzündung des
+Als :dfn:`Appendizitis` :index:`\ <! Appendizitis>` 
+bezeichnet man die Entzündung des
 *Wurmfortsatzes* (*Appendix* vermiformis) des Blinddarms.
-Umgangssprachlich wird oft (fälschlicherweise) der Begriff !!! TERMINUS
-!!! *Blinddarmentzündung* verwendet.** Im Vordergrund der akuten
+Umgangssprachlich wird oft (fälschlicherweise) der Begriff 
+**Blinddarmentzündung** verwendet. 
+
+Im Vordergrund der akuten
 Appendizitis steht anfänglich ein meist *diffuser Schmerz* im Bereich
 der *Nabelgegend*, der innerhalb weniger Stunden in den *rechten
 Unterbauch* wandert. Übelkeit, Brechreiz und Verstopfung können das

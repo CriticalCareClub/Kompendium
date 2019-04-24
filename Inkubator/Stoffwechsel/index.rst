@@ -320,6 +320,10 @@ hier der Insulinbedarf steigt.
 
 -  Infektionen (Insulinbedarf :math:`{\uparrow}`)
 
+
+.. _Thema-diabetisches-koma:
+.. _thema-koma-diabetisches:
+
 Symptome
 --------
 
@@ -329,7 +333,6 @@ Abgeschlagenheit, in weiterer Folge kann es zu *Bewusstseinsstörungen*
 bis hin zum *Koma* (s.u.) kommen. Die Geschwindigkeit der
 Veschlechterung ist je nach Patient sehr unterschiedlich.
 
-.. _Thema-diabetisches-koma:
 
 Koma
 ^^^^

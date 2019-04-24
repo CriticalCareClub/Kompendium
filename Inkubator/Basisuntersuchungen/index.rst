@@ -40,8 +40,7 @@ Vitalwerten zählt man:
 -  Atemfrequenz
 
 
-
-.. _thema-bewusstsein:
+.. _thema-pulsmessung:
 
 Ermitteln der Herzfrequenz mittels Messung der Pulsfrequenz
 ===========================================================
@@ -56,7 +55,9 @@ pro Minute.
 
 Die Herzfrequenz entspricht normalerweise der 
 *Pulsfrequenz*, welche mittels Fühlen des Pulses ermittelt
-wird. [112]_ Dieser wird idealerweise an der *Radialarterie* (A.
+wird. [112]_
+
+Dieser wird idealerweise an der *Radialarterie* (A.
 *radialis*) bzw. bei nicht ansprechbaren oder schockierten Patienten an
 der *Halsschlagader* (A. *carotis*) ertastet. Bei Neugeborenen und
 Säuglingen wird an der *Oberarmarterie* (A. *brachialis*) gefühlt.
@@ -66,6 +67,12 @@ Patienten. Wenn an der Halsschlagader (A. *carotis*) die Herzfrequenz
 ermittelt wird, darf nie auf beiden Seiten gleichzeitig gemessen werden,
 da sonst die Gefahr besteht, dass es zu einer Unterversorgung des
 Gehirns mit Blut kommen kann.
+
+.. [112]
+    Nicht immer hat eine Herzaktion einen Pulsschlag zur Folge, man
+    spricht dann vom *Pulsdefizit*. Außerdem kann man zwischen
+    elektrischen und mechanischen Herzaktionen unterscheiden (vgl.
+    :ref:`Thema-herz`).
 
 -  Herzfrequenz, Pulsfrequenz
 
@@ -81,7 +88,7 @@ Durchführung
 Es wird an der Arterie (s.o.) der Puls mit zwei bis drei Fingern
 ertastet. Nun werden 15 Sekunden lang die Schläge gezählt. Anschließend
 wird das Ergebnis *mit vier multipliziert*, man erhält die Herzfrequenz
-(HF) in Pulsschläge *pro Minute* (). Der Normalwert liegt beim
+(HF) in Pulsschläge *pro Minute* (/ min). Der Normalwert liegt beim
 Erwachsenen zwischen 60 und 100 Schlägen pro Minute. Neben der Frequenz
 wird auch die *Regelmäßigkeit* beurteilt, das heißt ob der Puls
 *rhythmisch* oder *arrhythmisch* ist.
@@ -231,7 +238,7 @@ Bludruckmessung nach Riva-Rocci
 Beschreibung
 ^^^^^^^^^^^^
 
-**Die !!! TERMINUS !!! *Blutdruckmessung nach Riva-Rocci*\  [116]_ ist
+Die :dfn:`Blutdruckmessung nach Riva-Rocci`\ [116]_ ist
 eine indirekte, unblutige, mechanische Messung mittels einer
 Druckmanschette.** Umgangssprachlich wird die Blutdruckmessung nach
 Riva-Rocci als *“RR-Messung”*, bzw. der ermittelte Wert als *“RR”*
@@ -245,19 +252,24 @@ Methode* (durch Tasten des Pulses).
     -  Der *diastolische* Blutdruckwert kann nur bei der
        *auskultatorischen* Methode ermittelt werden!
 
+
+.. [116]
+    Benannt nach dem Erfinder Scipione Riva-Rocci.
+
 Auskultatorische Methode
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 Die Manschette sollte faltenfrei und nicht über Kleidung, in der Mitte
 des Oberarms angelegt werden und sich, wenn möglich, auf *Herzhöhe*
-befinden [117]_ Die Mitte der Luftkammer soll über der Oberarmarterie zu
+befinden.\ [117]_
+Die Mitte der Luftkammer soll über der Oberarmarterie zu
 liegen kommen. Manche Manschetten haben einen Markierungspfeil für die
 Oberarmarterie, der Pfeil soll dann oberhalb dieser zu liegen kommen.
 Man achte auf die Lage der Innen- bzw. Außenseite!
 
 Nun wird der Puls an der Radialarterie (A. radialis) getastet. Die
 Manschette wird solange aufgepumpt, bis der Puls nicht mehr getastet
-werden kann. Dann werden noch !!! VONBIS !!!2030mmHg weiter aufgepumpt.
+werden kann. Dann werden noch 20-30 mm Hg weiter aufgepumpt.
 Das Stethoskop wird in der Ellenbeuge auf die Oberarmarterie (A.
 brachialis, Verlauf eher zur Körpermitte) angelegt. Die Luft wird
 langsam aus der Manschette abgelassen.
@@ -274,24 +286,24 @@ abgerundet auf ). Dokumentiert wird der Blutdruck mit dem Zusatz *RR*
 (z.B.: RR ). Der Normalwert beim Erwachsenen liegt in etwa bei RR 
 (:ref:`Thema-blutdruck`).
 
-#. Manschette faltenfrei auf Herzhöhe anlegen
+#.  Manschette faltenfrei auf Herzhöhe anlegen
 
-#. Luftkissen mittig über Oberarmarterie (Markierungspfeil!)
+#.  Luftkissen mittig über Oberarmarterie (Markierungspfeil!)
 
-#. Radialispuls tasten
+#.  Radialispuls tasten
 
-#. Manschette aufpumpen bis Radialispuls nicht mehr tastbar ist + !!!
-   VONBIS !!!2030
+#.  Manschette aufpumpen bis Radialispuls nicht mehr 
+    tastbar ist + 20-30 mm Hg
 
-#. Stethoskop über Oberarmarterie anlegen
+#.  Stethoskop über Oberarmarterie anlegen
 
-#. Druck langsam ablassen
+#.  Druck langsam ablassen
 
-#. Erstes Pochen: systolischer Wert
+#.  Erstes Pochen: systolischer Wert
 
-#. Letztes Pochen: diastolischer Wert
+#.  Letztes Pochen: diastolischer Wert
 
-#. Werte auf nächste 5er-Stelle abrunden
+#.  Werte auf nächste 5er-Stelle abrunden
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Riva-Rocci_edited.*
@@ -770,7 +782,7 @@ PICTUREWIDE !!!
 
     [WMC:Hank / CC-BY-SA-2.0-DE]
 
-.. figure:: /Bilder/WikipediaBy/Reizleitungssystem_1.pdf
+.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
     :width: 99%
 
     Reizleitungssystem, Schema.
@@ -911,7 +923,7 @@ In der Praxis ergeben sich daraus zwei Anwendungsfälle:
     
     [WMPD]
 
-.. figure:: /Bilder/geraete/ECGcolor_edited.*
+.. figure:: /Bilder/WikipediaPd/ECGcolor_edited.*
 
     Extremitätenableitungen und Brustwandableitungen
     
@@ -956,7 +968,7 @@ Partialdruck (mmHg) an Kohlendioxid in der Ausatemluft messen und
 graphisch darstellen. Diese Verfahren sind wichtig, um eine *Fehllage*
 von Hilfsmitteln zur Atemwegssicherung (z.B. *Larynxtubus*
 (:ref:`Thema-larynxtubus`), *Endotrachealtubus*
-(:ref:`Thema-intubation-assistenz`)) zu erkennen bzw. auszuschließen und kann
+(:ref:`Thema-intubation`)) zu erkennen bzw. auszuschließen und kann
 als Zielwert dienen um die *Beatmungsparameter* bei der Beatmung optimal
 für den Patienten einstellen zu können. Zusätzlich kann man durch die
 CO₂-Messung eine zuverlässige Aussage über die *Durchblutung der Lunge*
@@ -1568,11 +1580,7 @@ vollständiger* Traumacheck durchgeführt!
 -----
 
 
-.. [112]
-    Nicht immer hat eine Herzaktion einen Pulsschlag zur Folge, man
-    spricht dann vom *Pulsdefizit*. Außerdem kann man zwischen
-    elektrischen und mechanischen Herzaktionen unterscheiden (vgl.
-    :ref:`Thema-herz`).
+
 
 .. [113]
     *Arterie:* Vom Herzen wegführendes Blutgefäß.
@@ -1591,8 +1599,6 @@ vollständiger* Traumacheck durchgeführt!
     durch den Auflegedruck wahlweise hohe oder tiefe Frequenzen
     verstärken kann.
 
-.. [116]
-    Benannt nach dem Erfinder Scipione Riva-Rocci.
 
 .. [117]
     Wenn die Manschette nicht auf Herzhöhe liegt, wird ein zu hoher oder

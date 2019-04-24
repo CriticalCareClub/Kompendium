@@ -288,13 +288,14 @@ Muttermundes auf 10cm. (Striebel 2010a; Bühling and Friedmann 2004;
 Haag, Hanhart, and Müller 2006a) Durch Zusammenziehen der
 Gebärmuttermuskulatur (Wehen) wird das Kind langsam in den Geburtskanal
 nach unten gepresst. Dadurch verkürzt sich der Gebärmutterhals (Zervix),
-und der Muttermund wird eröffnet. Der Wehenabstand beträgt ca. !!!
-VONBIS !!!210min. Während der Eröffnungsphase kommt es zum Platzen der
+und der Muttermund wird eröffnet. 
+Der Wehenabstand beträgt ca. 2-10min. 
+Während der Eröffnungsphase kommt es zum Platzen der
 Fruchtblase (:dfn:`Blasensprung` :index:`\ <! Blasensprung>`), dabei geht Fruchtwasser
 und etwas blutiges Sekret ab.
 
- Bei Erstgebärenden dauert die Eröffnungsperiode ca. !!! VONBIS !!!69h,
-bei Mehrgebärenden ca. !!! VONBIS !!!37h (Bühling and Friedmann 2004).
+Bei Erstgebärenden dauert die Eröffnungsperiode ca. 6-9 h,
+bei Mehrgebärenden ca. 3-7 h (Bühling and Friedmann 2004).
 Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
 
 -  Ab dem Blasensprung darf die Gebärende nicht mehr aufstehen, sondern
@@ -303,7 +304,7 @@ Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
 
 -  Von Beginn regelmäßger Wehen bis vollst. Eröffnung des Muttermundes
 
--  Wehen im Abstand von !!! VONBIS !!!210 Minuten
+-  Wehen im Abstand von 2-10 Minuten
 
 -  Gebärmutterhals verkürzt sich, Muttermund öffnet sich
 
@@ -319,7 +320,7 @@ Austreibungsphase
 Die :dfn:`Austreibungsphase` :index:`\ <! Austreibungsphase>` beginnt mit der vollständigen
 *Eröffnung* des Muttermundes (10cm) und endet mit der *Geburt* des
 Kindes. (Bühling and Friedmann 2004; Haag, Hanhart, and Müller 2006a)
-Der Wehenabstand beträgt nun *!!! VONBIS !!!23* Minuten. Die Wehen
+Der Wehenabstand beträgt nun *2-3* Minuten. Die Wehen
 werden im Verlauf kraftvoller und die Frau verspürt mit Fortschreiten
 der Geburt einen *Pressdrang* (*Presswehen*). Der Kopf des Kindes wird
 schließlich nun zwischen den Schamlippen sichtbar. Wenn der Kopf geboren
@@ -327,7 +328,7 @@ ist, folgt der restliche Körper in der Regel schnell nach. Vorsicht: Das
 Kind ist durch die Fruchtschmiere rutschig!
 
 Der Damm
-        
+^^^^^^^^
 
 Als :dfn:`Damm` :index:`\ <! Damm>` wird das Stück Haut zwischen Scheide und
 Anus bezeichnet. Mittels eines Griffes namens :dfn:`Dammschutz` :index:`\ <! Dammschutz>` kann theoretisch die Wahrscheinlichkeit eines Dammrisses
@@ -356,13 +357,16 @@ dem Stuhl der Mutter geschützt* werden (:dfn:`Stuhlschutz` :index:`\ <! Stuhlsc
 Nachgeburtsphase
 ----------------
 
-Nach !!! VONBIS !!!1020 Minuten kommt es neuerlich zu Wehen, welche den
+Nach 10-20 Minuten kommt es neuerlich zu Wehen, welche den
 Presswehen ähnlich sind. Es kommt zur Geburt der *Plazenta*
 (*Mutterkuchen*). Die Gefahr hierbei ist, dass es zu starkem Blutverlust
 bei der Mutter kommen kann. *Die Plazenta ist für weitere
-Untersuchungen [276]_ ins Krankenhaus mitzunehmen!*
+Untersuchungen ins Krankenhaus mitzunehmen!* [276]_ 
 
--  Nach !!! VONBIS !!!1020 Min. neuerlich Wehen.
+.. [276]
+   Kontrolle der Vollständigkeit, Prüfen auf Insuffizienzzeichen, …
+
+-  Nach 10-20 Min. neuerlich Wehen.
 
 -  Geburt der Plazenta.
 
@@ -497,21 +501,21 @@ Zustand entscheidend, nicht der Apgar-Score.
 
 -  Max. 9—10 Punkte
 
-!!! TABELLE WEIT Apgar-Score
+.. table:: Apgar-Score
 
-+---------------------+----------------+------------------------------------+------------------------------------+
-| **Kriterium**       | **0 Punkte**   | **1 Punkt**                        | **2 Punkte**                       |
-+---------------------+----------------+------------------------------------+------------------------------------+
-| *Herzfrequenz*      | unter 60/min   | !!! RANGE !!!6099/min              | über 100/min                       |
-+---------------------+----------------+------------------------------------+------------------------------------+
-| *Atemanstrengung*   | keine          | unregelmäßig, flach                | regelmäßig, Kind schreit           |
-+---------------------+----------------+------------------------------------+------------------------------------+
-| *Reflexe*           | keine          | Grimassieren                       | kräftiges Schreien                 |
-+---------------------+----------------+------------------------------------+------------------------------------+
-| *Muskeltonus*       | schlaff        | leichte Beugung der Extremitäten   | aktive Bewegung der Extremitäten   |
-+---------------------+----------------+------------------------------------+------------------------------------+
-| *(Haut-) Farbe*     | blau, blass    | Stamm rosig, Extremitäten blau     | gesamter Körper rosig              |
-+---------------------+----------------+------------------------------------+------------------------------------+
+    +---------------------+----------------+------------------------------------+------------------------------------+
+    | **Kriterium**       | **0 Punkte**   | **1 Punkt**                        | **2 Punkte**                       |
+    +---------------------+----------------+------------------------------------+------------------------------------+
+    | *Herzfrequenz*      | unter 60/min   | !!! RANGE !!!6099/min              | über 100/min                       |
+    +---------------------+----------------+------------------------------------+------------------------------------+
+    | *Atemanstrengung*   | keine          | unregelmäßig, flach                | regelmäßig, Kind schreit           |
+    +---------------------+----------------+------------------------------------+------------------------------------+
+    | *Reflexe*           | keine          | Grimassieren                       | kräftiges Schreien                 |
+    +---------------------+----------------+------------------------------------+------------------------------------+
+    | *Muskeltonus*       | schlaff        | leichte Beugung der Extremitäten   | aktive Bewegung der Extremitäten   |
+    +---------------------+----------------+------------------------------------+------------------------------------+
+    | *(Haut-) Farbe*     | blau, blass    | Stamm rosig, Extremitäten blau     | gesamter Körper rosig              |
+    +---------------------+----------------+------------------------------------+------------------------------------+
 
 Nach der Geburt
 ^^^^^^^^^^^^^^^
@@ -531,6 +535,8 @@ Vollständigkeit und Reife untersucht.
 Notfälle während und unmittelbar nach der Geburt
 ================================================
 
+.. _thema-reanimation-neugeborenes:
+
 Basisreanimation des Neugeborenen
 ---------------------------------
 
@@ -542,13 +548,17 @@ Asphyxie während der Geburt
 Beschreibung
 ^^^^^^^^^^^^
 
-**Eine :dfn:`Asphyxie` :index:`\ <! Asphyxie>` ist eine Sauerstoffunterversorgung
+Eine :dfn:`Asphyxie` :index:`\ <! Asphyxie>` 
+ist eine Sauerstoffunterversorgung
 (Hypoxie) des Neugeborenen infolge einer atem- oder kreislaufbedingten
-Störung vor, während oder nach der Geburt.** Die möglichen Ursachen für
+Störung vor, während oder nach der Geburt. 
+
+Die möglichen Ursachen für
 die Hypoxie sind vielfältig und umfassen u.a. eine Placenta praevia,
-einen Nabelschnurvorfall, Lageanomalien, eine Frühgeburt, u.v.a.m. Wird
-die Ursache nicht rechtzeitig behoben und bleibt die Hypoxie bestehen,
-kommt es zu einer irreperablen Hirnschädigung. \ 
+einen Nabelschnurvorfall, Lageanomalien, eine Frühgeburt, u. v. a. m. 
+Wird die Ursache nicht rechtzeitig behoben 
+und bleibt die Hypoxie bestehen,
+kommt es zu einer irreperablen Hirnschädigung.
 
 Symptome
 ^^^^^^^^
@@ -733,5 +743,4 @@ al. 2000; Patzelt 2005; Sachsenweger 2003)
    einen Vornamen erhalten, Beurkundung im Sterbebuch). (Hochmeister,
    Grassberger, and Stimpfl 2007).
 
-.. [276]
-   Kontrolle der Vollständigkeit, Prüfen auf Insuffizienzzeichen, …
+

@@ -4123,7 +4123,7 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi
-	.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc_4835-AASS-0030mm
+	.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0030mm
 	.. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt
 	.. figure:: /Bilder/GabrielSebastian-Ccc/bh_ith_00800.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/DIF2010-000816-0154pt-0300dpi

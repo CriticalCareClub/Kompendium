@@ -412,7 +412,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Versorgung nach einem Verkehrsunfall 
 
 
-.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc_4835-AASS-0030mm.*
+.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0030mm.*
     :width: 99%
 
     Assistenz bei ärztlichen Maßnahmen !!!

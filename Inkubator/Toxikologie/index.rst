@@ -173,10 +173,6 @@ Neben unabsichtlichen Fehleinnahmen oder Überdosierungen werden
 Arzneimittel oft auch in Selbstmordabsicht eingenommen. Die Umstände der
 Einnahme müssen daher abgeklärt werden.
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0482_00800.* 
-
-    [Sebastian Gabriel, MfG]
-
 Paracetamol (Mexalen, APA, …)
 =============================
 

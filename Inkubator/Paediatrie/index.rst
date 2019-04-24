@@ -67,48 +67,52 @@ solches klassifiziert.
     | *Jugendlicher*    | 14--18 Jahre                     |                               |
     +-------------------+----------------------------------+-------------------------------+
 
-Anatomische und physiologische Besonderheiten von Kindern
+.. todo:: Table Anatomische und physiologische Besonderheiten von Kindern
 
-ll *Atemfrequenz* & Neugeborenes: 30—50/min
+    ::
 
-Säugling: 20—30/min
+        ll *Atemfrequenz* & Neugeborenes: 30—50/min
 
-Kleinkind: 20—30/min
+        Säugling: 20—30/min
 
-| Beatmung bis zum Säugling in Neutralposition (Kopf nicht überstrecken)
-| *Zeichen der Atemnot*\ :ref:`Thema-atemnot-zeichen-kinder`& Einziehungen
-  zwischen Rippen
+        Kleinkind: 20—30/min
 
-| :dfn:`Nasenflügeln` :index:`\ <! Nasenflügeln>` beschleunigte Atmung, Atemgeräusche
-| *Pulstasten beim Säugling* & Oberarmarterie (Oberarm Innenseite),
-  Achsel
-| *Herzfrequenz* & Neugeborenes: !!! VONBIS !!!140180/min(Lebensgefahr
-  unter 80/min)
+        | Beatmung bis zum Säugling in Neutralposition (Kopf nicht überstrecken)
+        | *Zeichen der Atemnot*\ :ref:`Thema-atemnot-zeichen-kinder`& Einziehungen
+        zwischen Rippen
 
-Säugling: 110—160/min(FRCPCH and FRCPCH 2007)
+        | :dfn:`Nasenflügeln` :index:`\ <! Nasenflügeln>` beschleunigte Atmung, Atemgeräusche
+        | *Pulstasten beim Säugling* & Oberarmarterie (Oberarm Innenseite),
+        Achsel
+        | *Herzfrequenz* & Neugeborenes: !!! VONBIS !!!140180/min(Lebensgefahr
+        unter 80/min)
 
-Kleinkind: 95—140/min(FRCPCH and FRCPCH 2007)
+        Säugling: 110—160/min(FRCPCH and FRCPCH 2007)
 
-Schulkind: 80—120/min(FRCPCH and FRCPCH 2007)
+        Kleinkind: 95—140/min(FRCPCH and FRCPCH 2007)
 
-| Bradykardie ist fast immer hypoxiebedingt
-| *Systolischer Blutdruck* & Neugeborenes: 75mmHg(Hagelberg and Gehring
-  2006)(FRCPCH and FRCPCH 2007)
+        Schulkind: 80—120/min(FRCPCH and FRCPCH 2007)
 
-Säugling: 80—90mmHg(Hagelberg and Gehring 2006)
+        | Bradykardie ist fast immer hypoxiebedingt
+        | *Systolischer Blutdruck* & Neugeborenes: 75mmHg(Hagelberg and Gehring
+        2006)(FRCPCH and FRCPCH 2007)
 
-Kleinkind: 95mmHg(FRCPCH and FRCPCH 2007)
+        Säugling: 80—90mmHg(Hagelberg and Gehring 2006)
 
-Schulkind: 100–110 mm Hg(Hagelberg and Gehring 2006)(FRCPCH
-and FRCPCH 2007)
+        Kleinkind: 95mmHg(FRCPCH and FRCPCH 2007)
 
-| Jugendlicher: 120mmHg(Hagelberg and Gehring 2006)
-| *Wasser-, Elektrolyt- und Wärmehaushalt* & Kinder haben im Verhältnis
-  zu ihrem Körpergewicht eine größere Körperoberfläche als Erwachsene!
+        Schulkind: 100–110 mm Hg(Hagelberg and Gehring 2006)(FRCPCH
+        and FRCPCH 2007)
 
-höherer Wasseranteil
+        | Jugendlicher: 120mmHg(Hagelberg and Gehring 2006)
+        | *Wasser-, Elektrolyt- und Wärmehaushalt* & Kinder haben im Verhältnis
+        zu ihrem Körpergewicht eine größere Körperoberfläche als Erwachsene!
 
-| Austrocknung und Unterkühlung schneller möglich!
+        höherer Wasseranteil
+
+        | Austrocknung und Unterkühlung schneller möglich!
+
+
 
 Allgemeines zu Erkrankungen im Kindes- und Jugendalter
 ======================================================

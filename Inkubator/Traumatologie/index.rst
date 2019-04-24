@@ -560,7 +560,7 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
 
     … und in Röntgendarstellung
 
-.. figure:: /Bilder/WikipediaBy/fraktur-offen-finger.*
+.. figure:: /Bilder/WikipediaCcBy/fraktur-offen-finger.*
     :width: 99%
 
     Nicht immer sind offene Frakturen spektakulär: 

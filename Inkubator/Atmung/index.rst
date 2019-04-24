@@ -874,7 +874,7 @@ einem Atemstillstand kommen.
 
 .. _Figure-copd-veraenderungen:
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Alveolen-Bronchus-COPD-edited2.*png*
+.. figure:: /Bilder/HirtlerLena-Ccc/Alveolen-Bronchus-COPD-edited2.*
 
     Veränderung der Atemwege bei der COPD. *Links:* Schema eines
     gesunden Bronchus und einer gesunden Alveole. *Oben rechts:* Bei

@@ -47,7 +47,6 @@ manchen Fällen ist auch eine Konzentrationsangabe üblich (z.B. Glukose ,
 NaCl , Propofol , Adrenalin usw.). Ein Prozent enspricht dann
 umgerechnet 10mg/ML bzw. entspricht .
 
-!!! TABELLE WEIT 
 
 .. table:: Typische Angaben zu Wirkstoffmenge und Konzentration. Beachte: Gleichlautende Spezialitäten können erheblich unterschiedliche Wirkstoffkonzentrationen sowie Wirkstoff- und Füllmengen aufweisen!
 
@@ -456,20 +455,25 @@ Venenverhältnissen.
 
     Bild: "Eine periphere Venenverweilkanüle (Venflon), in ihre Einzelbestandteile zerlegt
 
-m1.5619999cmcccll
 
-**Farbcode** &
+.. todo: Table Venflon Größen
 
-& **Gauge** &
+    ::
 
-| & **Länge** & **Durchfluss**
-| & & &Ø & & [!!! NICEFRAC !!! mlmin]
-| blau & Sehr dünn & 22 & 0,5 x 0,8 & 25 & 25
-| rosa & dünn & 20 & 0,7 x 1,0 & 32 & 55
-| grün & normal & 18 & 0,9 x 1,2 & 40 & 90
-| weiß & dick & 17 & 1,1 x 1,4 & 42 & 135
-| grau & Sehr dick & 16 & 1,3 x 1,7 & 42 & 170
-| orange & Noch dicker & 14 & 1,6 x 2,1 & 42 & 265
+        m1.5619999cmcccll
+
+        **Farbcode** &
+
+        & **Gauge** &
+
+        | & **Länge** & **Durchfluss**
+        | & & &Ø & & [!!! NICEFRAC !!! mlmin]
+        | blau & Sehr dünn & 22 & 0,5 x 0,8 & 25 & 25
+        | rosa & dünn & 20 & 0,7 x 1,0 & 32 & 55
+        | grün & normal & 18 & 0,9 x 1,2 & 40 & 90
+        | weiß & dick & 17 & 1,1 x 1,4 & 42 & 135
+        | grau & Sehr dick & 16 & 1,3 x 1,7 & 42 & 170
+        | orange & Noch dicker & 14 & 1,6 x 2,1 & 42 & 265
 
 Material
 ========
@@ -497,7 +501,7 @@ Material
 
 -  Spülung, wahlweise:
 
-   -  Spritze mit !!! RANGE !!!510ml Spülflüssigkeit ( 0,9%), oder
+   -  Spritze mit 5-10 ml Spülflüssigkeit (NaCl 0,9%), oder
 
    -  Infusion
 

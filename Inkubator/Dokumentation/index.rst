@@ -454,19 +454,20 @@ Zusätze
     (*rec.*)
     frisch (nur bei Unterscheidung gegen ältere Verletzungen anführen)
 
-:non recens: 
+:non recens:
 
     (*non rec.*)
     nicht frisch;
     bei bereits sichtbar infizierten oder über 8 Stunden alten Wunden
     oder offenen Brüchen,
-    bei geschlossenen Brüchen nach 24 Stunden 
+    bei geschlossenen Brüchen nach 24 Stunden
 
 :infectus, -a, -um: infiziert
 
 :inveteratus: 
 
-    (*invet.: veraltet
+    (*invet.*)
+    veraltet
 
 :apertus: 
 
@@ -491,7 +492,8 @@ Zusätze
 :bilateralis: 
 
     (*bilat.*)
-    beiderseitig an einer Extremität (d.\,h. innen und aussen, radial und ulnar etc.)
+    beiderseitig an einer Extremität 
+    (d.\,h. innen und aussen, radial und ulnar etc.)
 
 :operatus: 
 

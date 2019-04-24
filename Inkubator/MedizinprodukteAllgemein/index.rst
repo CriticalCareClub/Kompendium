@@ -63,17 +63,17 @@ Minimalanforderungen entspricht.
 
 .. table:: MPG-Risikoklassen
 
-+----------------+------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| **Klasse**     | **Beschreibung**                                                                   | **Beispiele**                                                                                                                            |
-+----------------+------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| *Klasse I*     | Kein oder geringes Anwendungsrisiko                                                | z.B: Verbandsmaterial, Gehhilfe, Rollstuhl, Tragsessel, Sehhilfe, Stethoskop, Trage, Beatmungsbeutel, Fieberthermometer, Druckminderer   |
-+----------------+------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| *Klasse IIa*   | Anwendungsrisiko ohne entsprechender Ausbildung bzw. Unterweisung                  | z.B: aktive Diagnosegeräte, Absaugeinheit und -katheter, EKG-Kabel, Zuckermessstreifen, Trachealtuben, Dauerkatheter                     |
-+----------------+------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| *Klasse IIb*   | Erhöhtes Anwendungsrisiko ohne entsprechender Ausbildung bzw. Unterweisung         | z.B: Beatmungsgerät, Defibrillator, Pulsoxymeter, Babyinkubator, Röntgengeräte                                                           |
-+----------------+------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| *Klasse III*   | Besonders hohes Anwendungsrisiko ohne entsprechende Ausbildung bzw. Unterweisung   | z.B: Perfusor, Insulinpumpe, Herzkatheter oder -klappen, Medizinprodukte mit Arzneimittelkomponenten                                     |
-+----------------+------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+   +----------------+------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+   | **Klasse**     | **Beschreibung**                                                                   | **Beispiele**                                                                                                                             |
+   +----------------+------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+   | *Klasse I*     | Kein oder geringes Anwendungsrisiko                                                | z. B: Verbandsmaterial, Gehhilfe, Rollstuhl, Tragsessel, Sehhilfe, Stethoskop, Trage, Beatmungsbeutel, Fieberthermometer, Druckminderer   |
+   +----------------+------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+   | *Klasse IIa*   | Anwendungsrisiko ohne entsprechender Ausbildung bzw. Unterweisung                  | z. B: aktive Diagnosegeräte, Absaugeinheit und -katheter, EKG-Kabel, Zuckermessstreifen, Trachealtuben, Dauerkatheter                     |
+   +----------------+------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+   | *Klasse IIb*   | Erhöhtes Anwendungsrisiko ohne entsprechender Ausbildung bzw. Unterweisung         | z. B: Beatmungsgerät, Defibrillator, Pulsoxymeter, Babyinkubator, Röntgengeräte                                                           |
+   +----------------+------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+   | *Klasse III*   | Besonders hohes Anwendungsrisiko ohne entsprechende Ausbildung bzw. Unterweisung   | z. B: Perfusor, Insulinpumpe, Herzkatheter oder -klappen, Medizinprodukte mit Arzneimittelkomponenten                                     |
+   +----------------+------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
 
 Pflichten gemäß MPG
 -------------------

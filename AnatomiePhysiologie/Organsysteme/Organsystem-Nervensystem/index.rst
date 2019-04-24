@@ -279,8 +279,7 @@ Tritt Liquor in die Umwelt aus, ist das ein Zeichen für eine schwerwiegende Ver
 
 
 .. _Thema-vitalfunktion-bewusstsein:
-
-.. _thema-bewusstsein:
+.. _Thema-bewusstsein:
 
 Das Bewusstsein ist eine Vitalfunktion
 --------------------------------------

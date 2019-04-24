@@ -287,8 +287,7 @@ neuerlich Blut auswirft. Der !!! TERMINUS DFN !!! :dfn:``
 [Blutdruck!systolischer]systolische Blutdruck ist somit der
 Spitzendruck, der *diastolische
 Blutdruck* der Minimaldruck. Zur Durchführung der Blutdruckmessung vgl.
-:ref:`Thema-rr-messung`, Beurteilung des Blutdrucks
-:ref:`Thema-blutdruck-beurteilung`.
+:ref:`Thema-rr-messung`.
 
 -  2 Phasen:
 

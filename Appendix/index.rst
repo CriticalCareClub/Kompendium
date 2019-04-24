@@ -4112,25 +4112,25 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 
 .. 
 	.. figure:: /Bilder/EmhoferJosef-Ccc/Lernen.*
-	.. figure:: /Bilder/TAE/tae-teamwork-transfer-lbk.*
-	.. figure:: /Bilder/TAE/tae-teamwork-arzt-sani.*
-	.. figure:: /Bilder/TAE/tae-okt26-alle.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/tae-teamwork-transfer-lbk.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/tae-teamwork-arzt-sani.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-alle.*
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/traumacheck1.*
 	.. figure:: /Bilder/bergung_bagger_00800.*
 	.. figure:: /Bilder/bergung_kran_00800.*
-	.. figure:: /Bilder/khd/gef-wind-rauch2
+	.. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch2
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00518-0154pt-0300dpi
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi
-	.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc_4835-AASS-0030mm
+	.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0030mm
 	.. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt
 	.. figure:: /Bilder/GabrielSebastian-Ccc/bh_ith_00800.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/DIF2010-000816-0154pt-0300dpi
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00942-0154pt-0300dpi
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00568-0154pt-0300dpi
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000253-0154pt-0300dpi
-	.. figure:: /Bilder/TAE/tae-okt26-bundesheer1.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-bundesheer1.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1853_1.*
 	    
 
@@ -4205,7 +4205,7 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/koch-aass/00800-gamma/Knieverband3b.JPG
 
 ..
-	.. figure:: /Bilder/sign_cardive.*
+	
 
 
 
@@ -4246,13 +4246,13 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/WikipediaCcBySa/SchulzVonThunVierOhrenModell-edited.*
 	.. figure:: /Bilder/EmhoferJosef-Ccc/PAMMaerz2014Vers2.*
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/helm1.*
-	.. figure:: /Bilder/khd/gef-wind-rauch.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch.*
 	.. figure:: /Bilder/khd/warntafel-un-60-1710.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0722_00500.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*
 	.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*
-	.. figure:: /Bilder/asthma-paramedic.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/asthma-paramedic.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.*
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.*
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.*
@@ -4322,86 +4322,35 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/WikipediaPd/Lead_II_rhythm_generated_sinus_bradycardia.*
 	.. figure:: /Bilder/economyclass.*
 	.. figure:: /Bilder/lovenox1.*
-	.. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie
 	.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/fieberthermometer.*
 	.. figure:: /Bilder/demaw/Skriptumaegf-img52-thirdwidth.*
 	.. figure:: /Bilder/demaw/Skriptumaegf-img53-thirdwidth.*
 	.. figure:: /Bilder/demaw/Skriptumaegf-img59-thirdwidth.*
-	.. figure:: /Bilder/hygiene/Faroe_stamp_079_europe_fleming.*
-	.. figure:: /Bilder/hygiene/11159_lores_VRSA.*
-	.. figure:: /Bilder/gabriel-christine-aass/staph-aureus.*
-	.. figure:: /Bilder/gabriel-christine-aass/staph-aureus-mrsa.*
-	.. figure:: /Bilder/gabriel-christine-aass/amputat-us1.*
-	.. figure:: /Bilder/MotalMichael-Ccc/kontamed_4779-00800.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/fieberthermometer.*
-	.. figure:: /Bilder/hygiene/Niaid-hiv-virion-mod.*
-	.. figure:: /Bilder/hygiene/6373_lores_tetanus.*
-	.. figure:: /Bilder/WikipediaPd/Newborn_umbilical_suction-AASS-0030mm.*
-	.. figure:: /Bilder/WikipediaPd/Navelklem.*
-	.. figure:: /Bilder/WikipediaPd/Umbilicalstump.*
-	.. figure:: /Bilder/PallingerChristoph-Ccc/Partus_Set_aufgelegt_33048-01445pt.*
-	.. figure:: /Bilder/WikipediaPd/van_Gogh_Starry_Night_Over_the_Rhone.*
-	.. figure:: /Bilder/GabrielSebastian-Ccc/huette_winter_mariazell.*
-	.. figure:: /Bilder/TAE/dif-w2-zelt-1.*
-	.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0482_00800.*
-	.. figure:: /Bilder/GabrielSebastian-Ccc/Atemschutz_IMG_2043_00800.*
-	.. figure:: /Bilder/2006-01-31-gaswienheute2.*
-	.. figure:: /Bilder/GabrielSebastian-Ccc/schild-atemschutzmaske-abnehmen.*
-	.. figure:: /Bilder/wunde_rqw1.*
-	.. figure:: /Bilder/wunde_rqw2.*
-	.. figure:: /Bilder/pulsader_schnitt.*
-	.. figure:: /Bilder/trauma/stichwunde-klein.*
-	.. figure:: /Bilder/pneumothorax_stichverletzung_diskret.*
-	.. figure:: /Bilder/trauma/stichwunde-thorax-tief-01
-	.. figure:: /Bilder/trauma/burn-chem01.*
-	.. figure:: /Bilder/trauma/burn-chem02.*
-	.. figure:: /Bilder/trauma/combustio-sa-02-hand.*
-	.. figure:: /Bilder/HirtlerLena-Ccc/frische-Wunde-desinfizieren.*
-	.. figure:: /Bilder/WikipediaPd/Escarre_Stade_4_detail.*
+	
+	
+	
 	.. figure:: /Bilder/GabrielSebastian-Ccc/doa.*
-	.. figure:: /Bilder/trauma/fremdkoerper-stich-fixierung.*
-	.. figure:: /Bilder/trauma/fremdkoerper-stich-messer-01.*
-	.. figure:: /Bilder/trauma/fremdkoerper-stich-messer-02.*
-	.. figure:: /Bilder/fraktur_fehlstellung_nativ.*
-	.. figure:: /Bilder/fraktur_fehlstellung_xray.*
-	.. figure:: /Bilder/trauma/fraktur-offen-finger.*
+
 	.. figure:: /Bilder/GabrielSebastian-Ccc/imgp0722_00500.*
-	.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.*
-	.. figure:: /Bilder/pneumothorax_xray_halb.*
-	.. figure:: /Bilder/pneumothorax_xray_endstadium.*
-	.. figure:: /Bilder/pneumothorax_stichverletzung_diskret.*
-	.. figure:: /Bilder/trauma/bauchtrauma-offenes-01.*
-	.. figure:: /Bilder/WikipediaPd/Verbrennung1-00441pt.*
-	.. figure:: /Bilder/WikipediaCcBySa/VerbrennungGrad2a-00441pt.*
-	.. figure:: /Bilder/WikipediaCcBySa/Verbrennung_3gradig01.*
-	.. figure:: /Bilder/trauma/combustio-sa-01.*
-	.. figure:: /Bilder/trauma/combustio-sa-02-hand.*
-	.. figure:: /Bilder/trauma/combustio-sa-03-escharotomie.*
-	.. figure:: /Bilder/trauma/notbrause2.*
+	
+
+	
+
 	
 	.. figure:: /Bilder/venflon_in_situ.*
 	
 	
 	
-	
-	.. figure:: /Bilder/MotalMichael-Ccc/medi-kontrolle_4807-00800.*
-	.. figure:: /Bilder/MotalMichael-Ccc/medi-aufziehen_4815-00800.*
-	.. figure:: /Bilder/MotalMichael-Ccc/medi-kontrollieren_4824-00800.*
-	.. figure:: /Bilder/MotalMichael-Ccc/medi-verabreichen_4826_CLOSEUP-00800.*
-	.. figure:: /Bilder/PallingerChristoph-Ccc/Infusionsbesteck_33070-00943pt.*
-	.. figure:: /Bilder/PallingerChristoph-Ccc/Infusionsbeutel_33016-00943pt.*
-	.. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Tropfkammer-Live-00441pt.*
-	.. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Stellrad-Live-00441pt.*
-	.. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-3WegHahn-Live-00441pt.*
-	.. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-AnschlussVenflon-Live-00441pt.*
+..
 	.. figure:: /Bilder/demaw/venflon_zerlegt-textwidth.*
 	.. figure:: /Bilder/demaw/Skriptumaegf-img35.*
 	.. figure:: /Bilder/demaw/Skriptumaegf-img36.*
 	.. figure:: /Bilder/demaw/venflon_zerlegt.*
 	
 	
-
+..
 	.. figure:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-00943pt.*
 	.. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc_4837-AASS-0030mm.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00943pt-4.*

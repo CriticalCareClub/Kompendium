@@ -233,7 +233,7 @@ figure
     Wie "image", aber mit (optionaler) Legende und Nummerierung
 
 topic             
-    ``.. topic:: Title``; like a mini section
+    ``.. Thema-: Title``; like a mini section
 
 sidebar           
     ``.. sidebar:: Title``; like a mini parallel document

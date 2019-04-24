@@ -1,3 +1,4 @@
+.. _chp-jus:
 
 #################################
 Rechtliche Grundlagen (.at)
@@ -273,7 +274,7 @@ erfüllt sein:
    der Tatbestandserfüllung
 
 #. *Rechtswidrigkeit*: Die gesetzte Handlung war objektiv falsch
-   :math:`{\rightarrow}` Urteil über Tat :math:`{\rightarrow}` Verstoß
+   → Urteil über Tat → Verstoß
    gegen gesetzliche Verbote bzw. Gebote, vertraglichen Bestimmungen
    oder die guten Sitten
 
@@ -292,7 +293,7 @@ erfüllt sein:
    -  Anhalterecht Privater
 
 #. *Verschulden*: Die gesetzte Handlung war subjektiv falsch
-   :math:`{\rightarrow}` Urteil über Täter
+   → Urteil über Täter
 
    *Entschuldigungsgründe*: Über den Täter kann kein Urteil gemacht
    werden, da er sich nach seinen persönlichen Fähigkeiten und
@@ -443,10 +444,12 @@ professionellen Gesprächs im Rahmen der Versorgung.
 Der Revers
 ^^^^^^^^^^
 
+.. _Thema-revers:
+
 Beschreibung
 """"""""""""
 
-[Thema-revers]Der Revers ist eine schriftliche Dokumentierung über die
+Der Revers ist eine schriftliche Dokumentierung über die
 Aussage des Patienten, eine vom Einsatzpersonal empfohlenen Maßnahme
 abzulehnen. Die Verweigerung kann auch vom zuständigen Vertreter des
 Patienten abgegeben werden.
@@ -508,9 +511,9 @@ gerichtlich strafbaren Handlung, den Täter durch Privatpersonen
 festzuhalten (*Anhalterecht* durch Private).
 
 Die Voraussetzungen für Notwehr, Notstand und Anwendung des
-Anhalterechts sind in den Tafeln [tab:notwehr-notwehrueberschreitung]
-(Notwehr und Notwehrüberschreitung), [tab:notstand] (Notstand) und
-[tab:anhalterecht-privater] (Anhalterecht) aufgelistet und
+Anhalterechts sind in den Tafeln [Table-notwehr-notwehrueberschreitung]
+(Notwehr und Notwehrüberschreitung), [Table-notstand] (Notstand) und
+[Table-anhalterecht-privater] (Anhalterecht) aufgelistet und
 gegenübergestellt.
 
 .. _Table-notwehr-notwehrueberschreitung: 
@@ -619,6 +622,10 @@ Fallbeispiele
 -  Fall 1: Randalierender Patient :ref:`Thema-jus-langer-dienst-fall-1`
 
 -  Fall 2: Gefahr durch Hund :ref:`Thema-jus-langer-dienst-fall-2`
+
+.. _thema-unterbringung : 
+
+.. _thema-unterbringung-jus:
 
 Unterbringungsrecht
 -------------------
@@ -887,7 +894,7 @@ eine bloß *beachtliche Patientenverfügung*.
     -   Aufgrund einer umfassenden Aufklärungen durch einen Arzt
 
     -   Inhalt muss eine *konkrete Heilbehandlung* ablehnen
-        :math:`{\rightarrow}` allgemeine oder widersprüchliche
+        → allgemeine oder widersprüchliche
         Formulierungen führen zur Unwirksamkeit
 
     -   Wirkung nur für *5 Jahre*
@@ -989,6 +996,8 @@ Fallbeispiele
 
 -  Fall 8: Rechtswidrige Anordnung durch Notarzt
    :ref:`Thema-jus-langer-dienst-fall-8`
+
+.. _thema-sanitaeter-pflichten:
 
 Pflichten des Sanitäters
 ------------------------
@@ -1176,6 +1185,7 @@ ist, um welche Person es sich bei dem Patienten handelt
 der Patient das Fachpersonal von der *Schweigepflicht entbunden* hat.
 
 .. _thema-auskunftspflicht:
+.. _Thema-anzeigepflicht:
 
 Informationspflichten
 ---------------------
@@ -1191,7 +1201,7 @@ Informationspflichten
       als Zeuge)
 
    -  Zum Schutz von höherwertigen Interessen der öffentlichen
-      Gesundheitspflege oder Rechtspflege (:math:`{\rightarrow}` zur
+      Gesundheitspflege oder Rechtspflege (→ zur
       Meldepflicht siehe unten)
 
    Diese Auskunftspflicht besteht gegenüber
@@ -1246,7 +1256,7 @@ Informationspflichten
    Wien an die MA15), bei AIDS an das Bundesministerium für Gesundheit,
    zu ergehen.
 
--  :dfn:`:Anzeigepflicht`:[Thema-anzeigepflicht] Nur
+-  :dfn:`:Anzeigepflicht`: Nur
    bestimmte Personengruppen sind dazu verpflichtet bei Kenntnis über
    strafbare Handlungen dies der Polizei oder Staatsanwaltschaft per
    Anzeige zu melden.
@@ -1392,7 +1402,7 @@ Fallbeispiele
 Kompetenzstufen
 ===============
 
-.. todo:: !!! TABELLE WEIT Kompetenzstufen von Sanitätern nach dem SanG(§§!!! VONBIS !!!912)[tab:sang-kompetenzstufen]
+.. todo:: !!! TABELLE WEIT Kompetenzstufen von Sanitätern nach dem SanG(§§!!! VONBIS !!!912)[Table-sang-kompetenzstufen]
 
     ::
 

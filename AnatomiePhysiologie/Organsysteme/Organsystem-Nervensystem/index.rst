@@ -279,6 +279,7 @@ Tritt Liquor in die Umwelt aus, ist das ein Zeichen für eine schwerwiegende Ver
 
 
 .. _Thema-vitalfunktion-bewusstsein:
+.. _Thema-bewusstsein:
 
 Das Bewusstsein ist eine Vitalfunktion
 --------------------------------------
@@ -296,7 +297,7 @@ Beschreibung
 
         -  Bewusstseinsgrad (quantitativ)
 
-        -  Orientierung (qualitativ) :math:`\rightarrow` **D**
+        -  Orientierung (qualitativ) → **D**
 
 .. admonition:: Defintion 
 
@@ -352,9 +353,9 @@ Das periphere Nervensystem ist für die *Weiterleitung von Informationen*
 und Impulsen *von* und *zu* den Endorganen zuständig und dient somit der
 *Kommunikation* zwischen dem zentralen Nervensystem und den peripheren
 Organen. Es werden dabei Informtaionen in *beide Richtungen* übertragen,
-d.h. vom ZNS zu den Organen (*“ZNS :math:`\rightarrow` Handmuskulatur:
+d.h. vom ZNS zu den Organen (*“ZNS → Handmuskulatur:
 Leg’ dich auf die Herdplatte”*) und von den Organen zum ZNS
-(*“Hautnerven der Hand :math:`\rightarrow` ZNS: Heiß!”*). Zum peripheren
+(*“Hautnerven der Hand → ZNS: Heiß!”*). Zum peripheren
 Nervensystem gehören alle peripheren Nerven.
 
 
@@ -492,11 +493,11 @@ Sympathikus und Parasympathikus sind Gegenspieler
 
         -  Kreislauf, Atmung :math:`\uparrow`
 
-        -  Verdauung, Schmerzempfindung :math:`\downarrow`
+        -  Verdauung, Schmerzempfindung ↓
 
     -  Parasympathikus: Ruhe, Aufbau, Erholung
 
-        -  Kreislauf, Atmung :math:`\downarrow`
+        -  Kreislauf, Atmung ↓
 
         -  Verdauung :math:`\uparrow`
 
@@ -539,7 +540,7 @@ Organsysteme wie z. B. die Verdauung.
             (*“Rast und Verdauung”*)
     *   -   Kreislauf
         -   Blutdruck, Herzfrequenz :math:`\uparrow`
-        -   Blutdruck, Herzfrequenz :math:`\downarrow`
+        -   Blutdruck, Herzfrequenz ↓
     *   -   Lunge
         -   Erweiterung der Bronchien
         -   Engstellung der Bronchien
@@ -551,9 +552,9 @@ Organsysteme wie z. B. die Verdauung.
 
             Adrenalinausschüttung :math:`\uparrow`
         -   Schweißsekretion
-            :math:`\downarrow`
+            ↓
 
-            Adrenalinausschüttung :math:`\downarrow`
+            Adrenalinausschüttung ↓
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.*
 

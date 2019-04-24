@@ -249,18 +249,21 @@ dienen, bezeichnet man als :dfn:`Totraum`.
 
    -  Durchblutung (Perfusion) der die Alveole umgebenden Blutgefäße
 
-    -  Lunge: Sauerstoff (O₂): Alveolen :math:`{\rightarrow}` Blut
+    -  Lunge: Sauerstoff (O₂): Alveolen → Blut
 
-    -  Lunge: Kohlendioxid (CO₂): Blut :math:`{\rightarrow}` Alveolen
+    -  Lunge: Kohlendioxid (CO₂): Blut → Alveolen
 
 
 .. index::
     single: Pleura
-    
+
+
+.. _Thema-pleura:
+
 Die Pleura
 ----------
 
-[Thema-pleura]Die Pleura hat zwei “Blätter”. Eine Seite liegt an der
+Die Pleura hat zwei “Blätter”. Eine Seite liegt an der
 Rippenseite (*rippenseitige Pleura*,
 *Rippenfell*) an und ist fest mit dem Zwerchfell und der
 Brustwand verwachsen. Die zweite Seite überzieht die Lungenoberfläche
@@ -294,7 +297,7 @@ die schmerzempfindlich ist.
 
 -  Zwischenraum luftdicht, mit Schmierflüssigkeit
 
--  Brustkorb mit Rippenfell “zieht an” :math:`\rightarrow` Lungenfell
+-  Brustkorb mit Rippenfell “zieht an” → Lungenfell
    mit Lunge folgt Bewegung
 
 
@@ -316,7 +319,7 @@ Fußzeile ( [192]_)
 
     -  Wenn der Brustkorb mit dem daran verwachsenen Rippenfell
        “anzieht”, folgt das Lungenfell mit der Lunge der Bewegung
-       :math:`\rightarrow` Die Lunge wird wie eine Ziehharmonika
+       → Die Lunge wird wie eine Ziehharmonika
        aufgezogen und Luft angesaugt.
 
 
@@ -351,7 +354,7 @@ Gewebe und Pleura(spalt) wichtig:
    man die Arme, z. B. durch Aufstützen, können die Muskeln die Hebung
    des Brustkorbes unterstützen.
 
--  *Pleura*: Die Funktion der Pleura ist unter [Thema-pleura], erklärt.
+-  *Pleura*: Die Funktion der Pleura ist unter :ref:`Thema-pleura`, erklärt.
 
 -  Atemmuskulatur: Zwerchfell, Zwischenrippenmuskeln
 
@@ -460,6 +463,8 @@ Ausatmen sozusagen wieder hinaus gedrückt.
 
 .. _Thema-vitalfunktion-atmung:
 
+.. _Thema-atemvolumina: 
+
 *********************************
 Die Atmung ist eine Vitalfunktion
 *********************************
@@ -467,7 +472,7 @@ Die Atmung ist eine Vitalfunktion
 Atemfrequenz, -tiefe und -volumen
 =================================
 
-[Thema-atemvolumina] Es gibt drei wichtige Kennzahlen, welche die Atmung
+Es gibt drei wichtige Kennzahlen, welche die Atmung
 beschreiben (Klinke and Silbernagl 2001; Schmidt, Thews, and Lang 2000;
 Esch et al. 2007; Striebel 2009):
 
@@ -524,10 +529,12 @@ AMV
 
 (FRCPCH and FRCPCH 2007)(Lutomsky and Flake 2003)
 
+.. _Thema-totraum:
+
 Totraumbelüftung
 ================
 
-[Thema-totraum] Unter dem *Totraum* versteht man den Teil der Atemwege
+Unter dem *Totraum* versteht man den Teil der Atemwege
 der nicht am Gasaustausch teilnimmt. Dies ist im wesentlichen der
 gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen
 (Alveolen). Die Luft muss erst diesen Totraum passieren um in die
@@ -545,8 +552,8 @@ and Silbernagl 2001)
 Atemgase
 ========
 
-**Als :dfn:`Atemgas` :index:`\ <! Atemgas>` bezeichnet man jenes Gasgemisch,
-welches eingeatmet wird.** Normalerweise ist das ein Gasgemisch aus
+Als :dfn:`Atemgas` :index:`\ <! Atemgas>` bezeichnet man jenes Gasgemisch,
+welches eingeatmet wird. Normalerweise ist das ein Gasgemisch aus
 Stickstoff, Sauerstoff, Kohlendioxid und Edelgasen (“*Raumluft*”). Für
 eine ausreichende Atmung ist natürlich auch eine ausreichende
 O₂-Konzentration [196]_ der eingeatmeten Luft notwendig. Der normale
@@ -562,13 +569,13 @@ der Lunge stattfindenden *Gasaustausches* hinsichtlich des Sauerstoff-
 und Kohlendioxid-Anteils ein Unterschied: Es wird mehr CO₂ abgeatmet als
 eingeatmet wurde, dafür ist die O₂-Konzentration bei der Ausatmung
 aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
-[tab:luft-gas].
+[Table-luft-gas].
 
 -  Raumluft
 
 -  Atemgase: Sauerstoff und Kohlendioxid
 
-[]Gasgehalt in der Raum- und Ausatemluft[tab:luft-gas]
+[]Gasgehalt in der Raum- und Ausatemluft[Table-luft-gas]
 
 +----------------+----------------------+-------------------+
 | **Raumluft**   |                      | **Ausatemluft**   |
@@ -591,7 +598,7 @@ gibt es Sensoren im Körper, die die Konzentration bestimmter Gase
 *Atemantrieb* von der *CO₂-Konzentration* des Blutes abhängig: Je höher
 der CO₂-Gehalt, desto stärker der Atemantrieb. Der Sauerstoffanteil
 spielt nur eine untergeordnete Rolle! Unter
-[Thema-saeure-basen-haushalt], wird ausgeführt, dass das CO₂ eine
+:ref:`Thema-saeure-basen-haushalt`, wird ausgeführt, dass das CO₂ eine
 wichtige Rolle im Säure-Basen-Haushalt des Körpers einnimmt.
 
 -  Atemzentrum im Hirnstamm

@@ -65,6 +65,8 @@ Als nächstes wird die Funktion der *Atmung* beurteilt:
 
 .. _Thema-Totraumventilation:
 
+.. _thema-schnappatmung:
+
 Totraumventilation und Schnappatmung
 ====================================
 

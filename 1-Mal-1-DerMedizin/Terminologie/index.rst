@@ -472,7 +472,7 @@ Sonstige Begriffe
     single: Verlegung
 
 :dfn:`Obstruktion`
-    Verlegung, Verengung. z. B. im Rahmen der COPD ([Thema-copd]).
+    Verlegung, Verengung. z. B. im Rahmen der COPD (:ref:`Thema-copd`).
 
 
 .. index::

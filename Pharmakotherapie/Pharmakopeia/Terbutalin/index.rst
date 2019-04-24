@@ -1,11 +1,11 @@
 Terbutalin
 ==========
 
-.. topic:: Spezialitäten
+.. Thema-: Spezialitäten
 
     Bricanyl™ 0,5 mg / mL
 
-.. topic:: Indikation und Dosierung
+.. Thema-: Indikation und Dosierung
 
     -   Asthmaanfall
 
@@ -17,7 +17,7 @@ Terbutalin
 
         0,25 mg (Amp)
 
-.. topic:: Kontraindikationen
+.. Thema-: Kontraindikationen
 
     Cave bei Tachykardie, Thyreotoxikose, hypertrophe obstruktive CMP,
     KHK, MCI, (subvalvuläre) Aortenstenose

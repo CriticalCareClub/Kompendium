@@ -5,6 +5,6 @@ Pharmakotherapie
 
 .. toctree::
    :maxdepth: 2
-   :caption: Inhalt 
+   :caption: Inhalt
 
    Pharmakopeia/index

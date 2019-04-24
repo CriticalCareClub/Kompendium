@@ -1,6 +1,6 @@
 
 ###################################
-[TRA] Trauma
+Traumatologie
 ###################################
 
 Als :dfn:`Trauma` :index:`\ <! Trauma>` bezeichnet man eine

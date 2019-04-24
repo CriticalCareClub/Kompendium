@@ -1,7 +1,7 @@
 
 
 ############################################
-[INK] Infektions- und Entzündungskrankheiten
+Infektions- und Entzündungskrankheiten
 ############################################
 
 :Maintainer:

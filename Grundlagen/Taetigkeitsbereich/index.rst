@@ -1,6 +1,6 @@
 
 #####################################
-[TAE] Tätigkeitsbild und Orientierung
+Tätigkeitsbild und Orientierung
 #####################################
 
 
@@ -239,7 +239,7 @@ Anforderungen – Beanspruchung – Belastung: Was erwartet die Welt von mir?
 Querverweise
 ^^^^^^^^^^^^
 
--  Gesprächsführung: [KOM] ([chp:KOM]);
+-  Gesprächsführung: [chp:KOM]
 
 -  Belastungsreaktion, Burn-out: :ref:`Thema-ptss`, :ref:`Thema-burn-out`
 

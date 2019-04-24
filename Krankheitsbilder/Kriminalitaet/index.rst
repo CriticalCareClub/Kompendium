@@ -1,7 +1,7 @@
 
 
 ###############################################################
-[KRI] Opfer von Kriminalität, Misshandlung und Vernachlässigung
+Opfer von Kriminalität, Misshandlung und Vernachlässigung
 ###############################################################
 
 :Maintainer:

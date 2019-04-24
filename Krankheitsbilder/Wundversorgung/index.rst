@@ -1,6 +1,6 @@
 
 ###################################
-[WUN] Wunden
+Wunden
 ###################################
 
 Eine Wunde ist eine Unterbrechung des Zusammenhangs von Körpergeweben

@@ -1,7 +1,7 @@
 .. _chp-psy:
 
 #################
-[PSY] Psychiatrie
+Psychiatrie
 #################
 
 :Maintainer:

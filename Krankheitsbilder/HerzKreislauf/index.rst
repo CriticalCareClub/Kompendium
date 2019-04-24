@@ -139,9 +139,9 @@ Reanimation, im weiteren Verlauf neurologische Defizite.
 Querverweise
 ------------
 
--  Basic Life Support: [BLS], :ref:`chp-BLS`
+-  Basic Life Support: :ref:`chp-BLS`
 
--  Advanced Life Support: [ALS], :ref:`chp-ALS`
+-  Advanced Life Support: :ref:`chp-ALS`
 
 Störungen des Blutdrucks
 ========================

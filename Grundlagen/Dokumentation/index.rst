@@ -1,6 +1,6 @@
 
 ###################
-[DOK] Dokumentation
+Dokumentation
 ###################
 
 Die medizinische Dokumentation muss eine Geschichte erzählen. Eine

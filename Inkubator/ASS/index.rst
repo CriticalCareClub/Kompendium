@@ -1,7 +1,7 @@
 
 
 ##########################
-[ASS] Assistenztätigkeiten
+Assistenztätigkeiten
 ##########################
 
 

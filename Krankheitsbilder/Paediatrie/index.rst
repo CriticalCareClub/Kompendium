@@ -1,7 +1,7 @@
 
 
 #########################################
-[KIN] *Spezielle Patientengruppe:* Kinder
+*Spezielle Patientengruppe:* Kinder
 #########################################
 
 :Maintainer:

@@ -1,6 +1,6 @@
 
 #####################################################
-[URO] Urologische Erkrankungen
+Urologische Erkrankungen
 #####################################################
 
 Erkrankungen des harnableitenden Systems.

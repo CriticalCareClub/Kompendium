@@ -1,7 +1,7 @@
 
 
 ##################################################
-[STW] Stoffwechselstörungen
+Stoffwechselstörungen
 ##################################################
 
 *Abkz.* metabolische Störungen.

@@ -1,6 +1,6 @@
 
 #######################
-[SAN] Sanitätstechniken
+Sanitätstechniken
 #######################
 
 Dieses Kapitel behandelt diverse allgemeine und

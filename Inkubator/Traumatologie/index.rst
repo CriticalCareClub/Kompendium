@@ -697,6 +697,8 @@ kann das entsprechende Gelenk nicht bewegen.
 
 .. todo:: !!! PROCEDURE !!! TT14032C
 
+.. _thema-sht:
+
 *************************
 Schädel-Hirn-Trauma (SHT)
 *************************
@@ -1873,6 +1875,8 @@ hier der Vollständigkeit halber erwähnt sind:
 -  Achillessehnenriss
 
 -  Meniskusschaden
+
+.. _thema-verbrennung:
 
 **************************
 Verbrennung und Verbrühung

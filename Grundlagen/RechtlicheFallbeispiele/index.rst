@@ -1117,6 +1117,8 @@ Rechtsfrage
 Besteht eine Pflicht zur Anzeige von strafbaren Handlungen? Wenn ja, für
 wen besteht diese Anzeigepflicht?
 
+.. _thema-anzeigerecht:
+
 Rechtslage
 ----------
 

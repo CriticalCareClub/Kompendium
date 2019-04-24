@@ -936,3 +936,27 @@ http://ecdc.europa.eu/en/healthtopics/ebola_marburg_fevers/EVDcasedefinition/Pag
 !!! LITERARY !!!
 
 .. todo:: !!! PROCEDURE !!! IA98041C
+
+
+
+
+.. [269]
+   http://de.wikipedia.org/wiki/Influenza
+
+
+.. [270]
+   (Tuba auditiva, Eustachische Röhre)
+
+.. [271]
+   (häufig bei HIV/Immunsuppression)
+
+.. [272]
+   Quelle: AGES
+
+.. [273]
+   National Institute for Clinical Excellence (NICE) Tuberculosis.
+   National clinical Guideline for Diagnosis, management, prevention and
+   control (2006)
+
+.. [274]
+   Sporen von *Clostridium tetani*

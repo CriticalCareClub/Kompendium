@@ -314,7 +314,7 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 |                     | Verlangsamt                                         | Bradypnoe                                                            |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-| *Atemzugsvolumen*   | Schnappatmung                                       | :ref:`Thema-schnappatmung`                                                |    |
+| *Atemzugsvolumen*   | Schnappatmung                                       | :ref:`Thema-schnappatmung`                                           |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 |                     | Flache Atmung                                       |                                                                      |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
@@ -336,7 +336,7 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 |                     | Paradoxe Atmung                                     | Brustkorb *senkt* sich bei Einatmung, z.B. bei Serienrippenfraktur   |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-| *Geräte*            | Pulsoxymetrie                                       | :ref:`Thema-pulsoxymetrie`                                                |    |
+| *Geräte*            | Pulsoxymetrie                                       | :ref:`Thema-pulsoxymetrie`                                           |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 |                     |  Kapnometrie                                        |  CO₂-Messung                                                         |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
@@ -543,7 +543,7 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
 
 .. figure:: /Bilder/WikipediaPd/Abdominal_thrusts3.jpg
 
-    Heimlich-Manöver: *U.S. Naval Hospital, Okinawa, Japanese intern
+    Heimlich-Manöver: U.S. Naval Hospital, Okinawa, Japanese intern
     Naoko Uehara teaches proper technique for treating a choking
     victim with the assistance of Hospital Corpsman Second Class Ross
     Francis. Amanda M. Woodhead, USMC
@@ -592,22 +592,26 @@ Wiederholte Anfälle von Atemnot durch
 
 -  Behinderte Ausatmung
 
-.. figure:: /Bilder/asthma-paramedic.jpg
+.. _Figure-asthma-paramedic:
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/asthma-paramedic.jpg
 
     Patientin mit einem akuten AsthmaanfallSie sitzt auf einer Treppe
     und stützt sich nach hinten mit den Armen ab. Die Erstmaßnahmen
     bei vital bedrohten Patienten wurden ergriffen: Situationsrechte
     Lagerung, Sauerstoffgabe, Reanimationsbereitschaft,
-    Notarztnachforderung und Monitoring.[Figure-asthma-paramedic]
+    Notarztnachforderung und Monitoring.
 
     [Sebastian Gabriel / MfG]
 
-.. _Thema-status-asthmaticus]:
+
+
+.. _Thema-status-asthmaticus:
 
 Status Asthmaticus
 ==================
 
-Der :ref:`Status asthamticus` ist eine gefürchtete Komplikation
+Der Status asthamticus ist eine gefürchtete Komplikation
 des Asthmaanfalles bei der die Atemnot nicht wieder vergeht. Es besteht
 die Gefahr, dass der Patient nach einiger Zeit keine Kraft mehr zum
 Atmen hat (Erschöpfung). Der Status asthmaticus kann tödlich enden.
@@ -764,6 +768,9 @@ SAMPLER
 
 .. todo:: !!! PROCEDURE !!! MJ46XX1C
 
+
+.. _thema-copd:
+
 ******************************
 Chronische Bronchitis und COPD
 ******************************
@@ -865,15 +872,16 @@ einem Atemstillstand kommen.
    Bewusstseinsstörungen und im Extremfall zu einem Atemstillstand
    kommen.
 
+.. _Figure-copd-veraenderungen:
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Alveolen-Bronchus-COPD-edited2.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Alveolen-Bronchus-COPD-edited2.*png*
 
     Veränderung der Atemwege bei der COPD. *Links:* Schema eines
     gesunden Bronchus und einer gesunden Alveole. *Oben rechts:* Bei
     der COPD sind die kleinen Luftwege verschleimt und verengt. *Unten
     rechts:* Die Lungenbläschen (Alveolen) sind überbläht, weil die
     Luft nur erschwert wieder entweichen
-    kann. [Figure-copd-veraenderungen]
+    kann. 
 
     [Hirtler]
 

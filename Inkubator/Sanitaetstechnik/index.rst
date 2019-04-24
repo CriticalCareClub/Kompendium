@@ -77,7 +77,7 @@ Handlungsschritte
 .. _Figure-haendedesinfektion:
 
 .. figure:: /Bilder/CcBySa-4-0/02_Hegasy_Haende_Desinfektion.*
-    :size: 99%
+    :width: 99%
 
     Hygienische Händedesinfektion
 
@@ -272,7 +272,7 @@ bewusstlosen Patienten nahezu unmöglich) ist.
 Der Patient ist im Tragsessel *immer anzuschnallen*. Beim Transport über
 Stiegen hat der Patient immer *talwärts* zu blicken.
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Tragsessel_32966-prelim-edited2-crop2-AASS-0112mm
+.. figure:: /Bilder/PallingerChristoph-Ccc/Tragsessel_32966-prelim-edited2-crop2-AASS-0112mm.*
 
 	    Tragsessel
 
@@ -325,7 +325,7 @@ Lagerungsarten
 
 
 
-Siehe :ref:`Figure-lagerungsarten`. [152]_
+[152]_
 
 
 
@@ -855,7 +855,7 @@ Bewegungen effektiv zu verhindern. Vielerorts wird die Immobilisation
 mittels Vakuummatratze als Mittel der Wahl empfohlen. [157]_
 
 
-.. figure:: /Bilder/PallingerChristoph-Ccc/Vacuummatratze_32960-AASS-0176mm
+.. figure:: /Bilder/PallingerChristoph-Ccc/Vacuummatratze_32960-AASS-0176mm.*
 
     Vakuummatratze. 
     
@@ -997,9 +997,9 @@ verwendet wird, den Patienten zur Erleichterung der Rettung mit
 “Haltegriffen” auszustatten) gemeinsam mit einer *HWS-Schiene*
 verwendet.
 
-.. figure:: /Bilder/geraete/KED.jpg
+.. figure:: /Bilder/WikipediaPd/KED.jpg
 
-    Rettungskorsett. 
+    Rettungskorsett 
     
     [Wikipedia: *"Onthost”, PD*]
 
@@ -1077,7 +1077,6 @@ gegenüber eines Armtragetuches wenig Vorteile bieten.
 
 
 .. _Thema-vacuumbeinschiene-beschreibung:
-.. _Thema-vakuumbeinschiene-beschreibung:
 
 Vakuumbeinschiene
 -----------------
@@ -1089,6 +1088,8 @@ Die Vakuumbeinschiene dient zum Ruhigstellen von Verletzungen *vom Knie
 abwärts*. Verletzungen des Oberschenkels können mit ihr *nicht*
 ruhiggestellt werden, da sie das Hüftgelenk nicht schient
 (Vakuummatratze)!
+
+.. _thema-vacuumbeinschiene-anwendung:
 
 Material und Personal
 ^^^^^^^^^^^^^^^^^^^^^

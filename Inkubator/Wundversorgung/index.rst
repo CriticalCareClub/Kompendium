@@ -108,105 +108,132 @@ werden:
 
 -  Chronische Wunden
 
+
+.. index:: 
+    single: Schürfwunde
+    single: Schnittwunde
+    single: Vulnus; scissum
+    single: Vuln.; sciss.
+    single: Stichwunde
+    single: Vulnus; ictum
+    single: Vuln.; ict
+    single: Risswunde
+    single: Vulnus; laceratum
+    single: Vuln.; lac.
+    single: Quetschwunde
+    single: Vulnus; contusum
+    single: Vuln.; cont.
+    single: Rissquetschwunde
+    single: Vulnus; lacero-contusum
+    single: Bisswunde
+    single: Ablederung
+    single: Amputation
+    single: Pfählung
+    single: Schusswunde
+    single: Vulnus; sclopetarium
+    single: Verbrennung
+    single: Verbrühung
+    single: Verätzung
+    single: Vulnus; morsum
+    single: Decollement
+    single: Vulnus; perforans
+    single: Vuln.; mors
+    single: Vuln; sclopet.
+
 Wundarten
 =========
 
 Unterschiedliche *Entstehungsmechanismen* erzeugen unterschiedliche
-*Wundarten* bzw. *Wundformen*. In [Table-Wundarten] findet sich eine
+*Wundarten* bzw. *Wundformen*. In :ref:`Table-Wundarten` findet sich eine
 Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
 .. _Table-Wundarten:
 
 .. table:: Wundarten
 
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | **Wundart**                                                       | **Beschreibung**                                                                                                                                                                                           | ** Lat. Diagnose**                                                                                                      |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Schürfwunde` :index:`\ <! Schürfwunde>`                     | Oberflächliche Wunde                                                                                                                                                                                       |  (*Excor.*)                                                                                                             |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Schnittwunde` :index:`\ <! Schnittwunde>`                   | Glatte Wundränder; tiefer liegende Nerven und Blutgefäße können verletzt sein                                                                                                                              |  !!! IX !!! [Vulnus!scissum]Vulnus scissum (*Vuln* :index:`\ <Vuln.!sciss.>`. sciss.)                                   |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Stichwunde` :index:`\ <! Stichwunde>`                       | Glatte Wundränder; meist kleine Wunde dafür aber tiefer, kann mitunter in Körperhöhlen penetrieren; Das harmlose Aussehen kann über das tatsächliche Verletzungsausmaß hinweg täuschen!                    |  !!! IX !!! [Vulnus!ictum]Vulnus ictum (*Vuln* :index:`\ <Vuln.!ict.>`. ict.)                                           |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Risswunde` :index:`\ <! Risswunde>`                         | Unregelmäßige Wundränder; meist nur Schädigung der Haut und keine tieferliegenden Nerven und Blutgefäßen                                                                                                   |  !!! IX !!! [Vulnus!laceratum]Vulnus laceratum (*Vuln* :index:`\ <Vuln.!lac.>`. lac.)                                   |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Quetschwunde` :index:`\ <! Quetschwunde>`                   | Unregelmäßige Wundränder; es kann zum Aufplatzen der Haut kommen (Platzwunde)                                                                                                                              |  !!! IX !!! [Vulnus!contusum]Vulnus contusum (*Vuln* :index:`\ <Vuln.!cont.>`. cont.)                                   |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Rissquetschwunde` :index:`\ <! Rissquetschwunde>` (*RQW*)   | Kombination aus Riss- und Quetschwunde                                                                                                                                                                     |  !!! IX !!! [Vulnus!lacero-contusum]Vulnus lacero-contusum (*Vlc.*)                                                     |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Bisswunde` :index:`\ <! Bisswunde>`                         | Kombination aus Riss-, Stich- und Quetschwunde mit hoher Infektionsgefahr                                                                                                                                  |  !!! IX !!! [Vulnus!morsum]Vulnus morsum (animalis, hominis) (*Vuln* :index:`\ <Vuln.!mors.>`. mors. (anim., hom.))     |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Ablederung` :index:`\ <! Ablederung>`                       | Abscherung und Ablederung der Haut infolge von Rotation und Quetschung, Ablösung der Haut vom Untergrund                                                                                                   |  !!! IX !!! [Decollement]Decollement                                                                                    |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Amputation` :index:`\ <! Amputation>`                       | Abtrennung eines Körperteiles                                                                                                                                                                              |  (*Amp.*)                                                                                                               |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Pfählung` :index:`\ <! Pfählung>`                           | Eindringen (oder Durchdringen) und Verbleiben von spitzen, u.U. unregelmäßigen Fremdkörpern (z.B. Messer, Injektionsnadel)                                                                                 |  !!! IX !!! [Vulnus!perforans]Vulnus perforans                                                                          |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Schusswunde` :index:`\ <! Schusswunde>`                     | Meist klein aussehende Wunde, das eigentliche Schadensausmaß im Körperinneren ist meist nicht ersichtlich (Druckwelle kann starke innere Verletzungen verursachen), evtl. Ausschuss größer als Einschuss   |  !!! IX !!! [Vulnus!sclopetarium]Vulnus sclopetarium (*Vuln* :index:`\ <Vuln!sclopet.>`. sclopet.)                      |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Verbrennung` :index:`\ <! Verbrennung>`                     | Durch Hitzeeinwirkung entstandene Schädigung, siehe :ref:`Thema-verbrennung`                                                                                                                                    |  (*Comb.*)                                                                                                              |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Verbrühung` :index:`\ <! Verbrühung>`                       | Sonderform der Verbrennung, verursacht durch heiße Flüssigkeiten oder Dampf                                                                                                                                |  (*Amb.*)                                                                                                               |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | :dfn:`Verätzung` :index:`\ <! Verätzung>`                         | Lokale Schädigung der Oberfläche durch stoffe aufgrund einer irreversiblen Zerstörung (Denaturierung) von Eiweißstoffen, siehe :ref:`Thema-veraetzung-intoxikation`                                             |  (*Cauteris.*)                                                                                                          |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-    | *(Hämatom)*                                                       | Bluterguss; Ansammlung von Blut im Gewebe außerhalb der Blutgefäße                                                                                                                                         |  (*Haem.*)                                                                                                              |
-    +-------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | **Wundart**                | **Beschreibung**                                                                                                                                                                                           | ** Lat. Diagnose**                                                          |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Schürfwunde                | Oberflächliche Wunde                                                                                                                                                                                       |  (*Excor.*)                                                                 |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Schnittwunde               | Glatte Wundränder; tiefer liegende Nerven und Blutgefäße können verletzt sein                                                                                                                              |  Vulnus scissum (*Vuln. sciss.*)                                            |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Stichwunde                 | Glatte Wundränder; meist kleine Wunde dafür aber tiefer, kann mitunter in Körperhöhlen penetrieren; Das harmlose Aussehen kann über das tatsächliche Verletzungsausmaß hinweg täuschen!                    |  Vulnus ictum (*Vuln. ict.*)                                                |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Risswunde                  | Unregelmäßige Wundränder; meist nur Schädigung der Haut und keine tieferliegenden Nerven und Blutgefäßen                                                                                                   |  Vulnus laceratum (*Vuln. lac.*)                                            |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Quetschwunde               | Unregelmäßige Wundränder; es kann zum Aufplatzen der Haut kommen (Platzwunde)                                                                                                                              |  Vulnus contusum (*Vuln. cont.*)                                            |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Rissquetschwunde (*RQW*)   | Kombination aus Riss- und Quetschwunde                                                                                                                                                                     |  Vulnus lacero-contusum (*Vlc.*)                                            |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Bisswunde                  | Kombination aus Riss-, Stich- und Quetschwunde mit hoher Infektionsgefahr                                                                                                                                  |  Vulnus morsum (animalis, hominis) (*Vuln. mors.* (anim., hom.))            |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Ablederung                 | Abscherung und Ablederung der Haut infolge von Rotation und Quetschung, Ablösung der Haut vom Untergrund                                                                                                   |  Decollement                                                                |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Amputation                 | Abtrennung eines Körperteiles                                                                                                                                                                              |  (*Amp.*)                                                                   |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Pfählung                   | Eindringen (oder Durchdringen) und Verbleiben von spitzen, u.U. unregelmäßigen Fremdkörpern (z. B. Messer, Injektionsnadel)                                                                                |  Vulnus perforans                                                           |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Schusswunde                | Meist klein aussehende Wunde, das eigentliche Schadensausmaß im Körperinneren ist meist nicht ersichtlich (Druckwelle kann starke innere Verletzungen verursachen), evtl. Ausschuss größer als Einschuss   |  Vulnus sclopetarium (*Vuln. sclopet.*)                                     |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Verbrennung                | Durch Hitzeeinwirkung entstandene Schädigung, siehe :ref:`Thema-verbrennung`                                                                                                                               |  (*Comb.*)                                                                  |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Verbrühung                 | Sonderform der Verbrennung, verursacht durch heiße Flüssigkeiten oder Dampf                                                                                                                                |  (*Amb.*)                                                                   |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | Verätzung                  | Lokale Schädigung der Oberfläche durch stoffe aufgrund einer irreversiblen Zerstörung (Denaturierung) von Eiweißstoffen, siehe :ref:`Thema-veraetzung-intoxikation`                                        |  (*Cauteris.*)                                                              |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    | *(Hämatom)*                | Bluterguss; Ansammlung von Blut im Gewebe außerhalb der Blutgefäße                                                                                                                                         |  (*Haem.*)                                                                  |
+    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
 
 .. subfigstart::
 
 
 .. figure:: /Bilder/HauerDavid-Ccc/wunde_rqw1.*
     :width: 99%
-    
-    Rissquetschwunde vor der Versorgung im Spital 
-    
-    *Hauer* 
+
+    Rissquetschwunde vor der Versorgung im Spital
+
+    *Hauer*
 
 .. figure:: /Bilder/HauerDavid-Ccc/wunde_rqw2.*
     :width: 99%
-    
-    Rissquetschwunde nach der Versorgung im Spital 
-    
+
+    Rissquetschwunde nach der Versorgung im Spital
+
     *Hauer*
 
-.. figure:: /Bilder/pulsader_schnitt.*
-    :width: 99%
-    
-    Schnittverletzung oberhalb der “Pulsader” 
-    
-    *Hauer*
+.. todo:: Bild Schnittwunde
 
 .. figure:: /Bilder/HauerDavid-Ccc/stichwunde-klein.*
     :width: 99%
-    
-    Glatte Wundränder und eigentlich ganz unauffällig: 
+
+    Glatte Wundränder und eigentlich ganz unauffällig:
     Die Stichwunde. 
-    
+
     *Hauer*
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.*
     :width: 99%
-    
-    Stichverletzung: unauffällig. 
-    
-    **Dieser Patient ist lebensgefährlich verletzt!** 
+
+    Stichverletzung: unauffällig.
+
+    **Dieser Patient ist lebensgefährlich verletzt!**
     (Pneumothorax)
-    
+
     *Hauer*
 
-.. figure:: /Bilder/HauerDavid-Ccc/stichwunde-thorax-tief-01
+.. figure:: /Bilder/HauerDavid-Ccc/stichwunde-thorax-tief-01.*
     :width: 99%
-    
-    Stichwunde mit eröffneter Brusthöhle. 
-    
-    *Hauer* 
+
+    Stichwunde mit eröffneter Brusthöhle.
+
+    *Hauer*
 
 .. figure:: /Bilder/HauerDavid-Ccc/burn-chem01.*
     :width: 99%
 
-    Verätzung 
-    
+    Verätzung
+
     *Hauer*
 
 .. figure:: /Bilder/HauerDavid-Ccc/burn-chem02.*
@@ -476,29 +503,29 @@ alle Lagerungsarten bei einem Patienten angewendet werden.
 Dekubitusprophylaxe allgemein
 =============================
 
--  *Mobilisation* … ist die Maßnahme der Wahl. Sie hat zum Ziel, den
-   Menschen in Bewegung zu versetzen. Das geschieht nicht durch passiven
-   Transfer oder Umlagerung. Nur wenn die Anregungen zu eigenen
-   Bewegungen (wie minimal auch immer) erfolglos bleiben, sind passive
-   Positionsveränderungen sinnvoll. Bezüglich des Zeitintervalls gibt es
-   keine allgemein gültigen Aussagen. Sinnvoll ist es regelmäßig zu
-   überprüfen, ob Zeichen von Druckeinwirkungen auftreten und das
-   Intervall entsprechend anzupassen.
+-   *Mobilisation* … ist die Maßnahme der Wahl. Sie hat zum Ziel, den
+    Menschen in Bewegung zu versetzen. Das geschieht nicht durch passiven
+    Transfer oder Umlagerung. Nur wenn die Anregungen zu eigenen
+    Bewegungen (wie minimal auch immer) erfolglos bleiben, sind passive
+    Positionsveränderungen sinnvoll. Bezüglich des Zeitintervalls gibt es
+    keine allgemein gültigen Aussagen. Sinnvoll ist es regelmäßig zu
+    überprüfen, ob Zeichen von Druckeinwirkungen auftreten und das
+    Intervall entsprechend anzupassen.
 
--  *Druckentlastung*: Es gibt verschiedene Möglichkeiten, die
-   Druckbelastung einzelner Hautregionen zu mindern. Die Aktivierung und
-   Mobilisation der Patienten sollte die erste Maßnahme sein.
-   Hilfsmittel zur Lagerung und Druckentlastung können die Mobilisierung
-   ergänzen. Die Maßnahmen zur Druckentlastung sind unabhängig vom Grad
-   der Dekubitusausprägung immer durchzuführen, nach Möglichkeit die
-   absolute Druckentlastung der Wunde durch Hohl- bzw. Freilagerung,
-   beispielsweise mittels Bauchlagerung, aber auch durch regelmäßigen
-   Lagewechsel und Vergrößerung der Auflagefläche durch spezielle
-   Hilfsmittel wie spezielle Wechseldruck-Matratzen oder
-   Luftstrom-Matratzensysteme. (PflegeWiki 2012)
+-   *Druckentlastung*: Es gibt verschiedene Möglichkeiten, die
+    Druckbelastung einzelner Hautregionen zu mindern. Die Aktivierung und
+    Mobilisation der Patienten sollte die erste Maßnahme sein.
+    Hilfsmittel zur Lagerung und Druckentlastung können die Mobilisierung
+    ergänzen. Die Maßnahmen zur Druckentlastung sind unabhängig vom Grad
+    der Dekubitusausprägung immer durchzuführen, nach Möglichkeit die
+    absolute Druckentlastung der Wunde durch Hohl- bzw. Freilagerung,
+    beispielsweise mittels Bauchlagerung, aber auch durch regelmäßigen
+    Lagewechsel und Vergrößerung der Auflagefläche durch spezielle
+    Hilfsmittel wie spezielle Wechseldruck-Matratzen oder
+    Luftstrom-Matratzensysteme. (PflegeWiki 2012)
 
 -   *Ernährung*: Hierbei sei auf die entsprechende Pflege-Fachliteratur
-   verwiesen.
+    verwiesen.
 
 Dekubitusprophylaxe im Rettungs- und Krankentransportdienst
 ===========================================================
@@ -542,3 +569,21 @@ nicht nur für die Pflege:* (Vasel-Biergans and Probst 2011)
 
 (Schewior-Popp, Sitzmann, and Ullrich 2012; Vasel-Biergans and Probst
 2011)
+
+
+.. [293]
+   Wunde: Die übliche Beschreibung einer Wunde als eine Verletzung der
+   Haut ist nicht korrekt. Meist werden mehrere Gewebearten in
+   Mitleidenschaft gezogen. Definition (Pschyrembel 2002): Unterbrechung
+   des Zusammenhangs von Körpergeweben mit oder ohne Substanzverlust.
+
+.. [294]
+   Zur Verifizierung eines aufrechten Tetanus-Impfschutzes muss jede
+   Wunde einem Arzt vorgestellt werden. Eine Impfung muss spätestens
+   alle 10 Jahre aufgefrischt werden, bei entsprechenden Verletzungen
+   schon früher. (Böhmer, Schneider, and Wolcke 2006)
+
+.. [295]
+   Felle als Unterlage sind im stationären Bereich eher verpönt, im
+   Rahmen des Krankentransports haben sie dennoch eine gewisse
+   Berechtigung.

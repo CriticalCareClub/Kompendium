@@ -155,7 +155,7 @@ Ursachen auf.
    single: WASB
 
 .. _Thema-bewusstseinsstoerung-grade:
-.. _Thema-bewusstseinsgrad:
+.. _Thema-bewusstseinsgrad-Neurologie:
 
 Bewusstseinsgrad
 ================
@@ -241,7 +241,6 @@ Hirndruckzeichen und Hirnstammeinklemmung
 =========================================
 
 .. _Thema-hirndruckzeichen-neu:
-.. _Thema-hirndruckzeichen:
 
 Hirndruckzeichen
 ----------------

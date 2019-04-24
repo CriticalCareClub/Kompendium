@@ -146,6 +146,8 @@ Symptome eines *akuten Abdomens* zeigen.
 
 .. todo:: !!! PROCEDURE !!! GO45090C
 
+.. _thema-vena-cava-syndrom:
+
 Vena-cava-Kompressionssyndrom
 -----------------------------
 
@@ -169,9 +171,10 @@ rechts der Körpermitte verläuft.
 .. todo:: !!! PROCEDURE !!! GO26051C
 
 
-.. _Thema-praeeklampsie: 
-.. _Thema-eklampsie: 
+.. _Thema-praeeklampsie:
+.. _Thema-eklampsie:
 .. _Thema-hellp-syndrom:
+.. _thema-eph-gestose:
 
 Präeklampsie, EPH-Gestose, HELLP-Syndrom, Eklampsie
 ---------------------------------------------------
@@ -180,13 +183,17 @@ Präeklampsie, EPH-Gestose, HELLP-Syndrom, Eklampsie
 Beschreibung
 ^^^^^^^^^^^^
 
-Die :dfn:`EPH-Gestose` :index:`\ <! EPH-Gestose>`, auch :dfn:`Präeklampsie` :index:`\ <! Präeklampsie>`
+Die :dfn:`EPH-Gestose` :index:`\ <! EPH-Gestose>`,
+auch :dfn:`Präeklampsie` :index:`\ <! Präeklampsie>`
 genannt, ist eine gefürchtete Komplikation der Spätschwangerschaft, bei
 der es zu einer Durchblutungsstörung der Gebärmutter, und in weiterer
 Folge zu diversen Komplikationen bei der Mutter kommt. Sie wird in der
-Regel im Rahmen der Mutter-Kind-Pass-Untersuchungen erkannt. Die
-Maximalvariante der Präeklampsie ist das :dfn:`HELLP-Syndrom` :index:`\ <! HELLP-Syndrom>`. Unbehandelt kann die Präeklampsie und das HELLP-Syndrom
-zu einem *eklamptischen Krampfanfall* (:dfn:`Eklampsie` :index:`\ <! Eklampsie>`,
+Regel im Rahmen der Mutter-Kind-Pass-Untersuchungen erkannt.
+Die Maximalvariante der Präeklampsie ist das
+:dfn:`HELLP-Syndrom` :index:`\ <! HELLP-Syndrom>`.
+Unbehandelt kann die Präeklampsie und das HELLP-Syndrom
+zu einem *eklamptischen Krampfanfall*
+(:dfn:`Eklampsie` :index:`\ <! Eklampsie>`,
 ähnlich einem “normalen” zerebralen Krampfanfall) und in weiterer Folge
 zum Tod von Mutter und Kind führen. Die Ursachen sind nicht vollständig
 geklärt.
@@ -688,6 +695,11 @@ anhand des Blutverlustes und der Vitalwerte eingeschätzt werden.
 -  Tumor
 
 -  Im Rahmen einer Schwangerschaft
+
+
+.. [277]
+   Entjungferung
+
 
 .. todo:: !!! PROCEDURE !!! GN93091C
 

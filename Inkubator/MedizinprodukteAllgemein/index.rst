@@ -55,7 +55,7 @@ Es gibt tausende verschiedene Produkte, i.d.R. haben sie alle eine
 *CE-Kennzeichnung*. Diese zeigt an, dass das Produkt gewissen
 Minimalanforderungen entspricht.
 
-.. figure:: /Bilder/geraete/Ce-logo.jpg
+.. figure:: /Bilder/Logos/Ce-logo.jpg
 
 	    Das CE-Kennzeichen
 

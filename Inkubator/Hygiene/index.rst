@@ -275,7 +275,7 @@ gelangen und eine Infektion verursachen:
 
 
 
-.. _Thema-kreuzinfektion:]:
+.. _Thema-kreuzinfektion:
 
 Kreuzinfektion
 ==============
@@ -298,11 +298,13 @@ Anforderungen und Gegebenheiten angepasst werden: Bei einem zu Hause
 lebenden Krankentransportpatienten bestehen zum Beispiel andere Risiken
 als bei einem beatmeten Intensivpatienten.
 
+.. _thema-multiresistente-keime:
+
 *********************
 Multiresistente Keime
 *********************
 
-.. ruburic:: Linktip
+.. rubric:: Linktip
 
 (“EUREGIO Mrsa-Net: Gemeinsam Gegen Mrsa,” n.d.) *EUREGIO MRSA-net* http://www.mrsa-net.org/
 
@@ -1228,6 +1230,3 @@ Werk mit Österreich-Bezug: (Flamm and Rotter 1999) !!! LITERARY !!!
    das Infektionsrisiko für das Personal auf 0 senken (das infizierte
    Personal trug entweder keine Maske oder einfache Papiermasken) (Seto
    et al. 2003).
-
-.. [269]
-   http://de.wikipedia.org/wiki/Influenza

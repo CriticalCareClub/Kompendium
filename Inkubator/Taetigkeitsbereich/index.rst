@@ -370,18 +370,6 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Hilfeleistung 
 
 
-.. figure:: /Bilder/bergung_bagger_00800.jpg
-    :width: 99%
-
-    Rettung unter speziellen Bedingungen 
-
-
-.. figure:: /Bilder/bergung_kran_00800.jpg
-    :width: 99%
-
-    Rettung unter speziellen Bedingungen
-	    
-
 .. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch2.*
     :width: 99%
 

@@ -332,7 +332,7 @@ Veschlechterung ist je nach Patient sehr unterschiedlich.
 .. _Thema-diabetisches-koma:
 
 Koma
-^^^^    
+^^^^
 
 Wie oben bereits beschrieben wurde, kann es
 sowohl zu einem Problem des Flüssigkeitshaushaltes und/oder der

@@ -8,23 +8,25 @@ Inkubator
     :maxdepth: 1
     :caption: Krankheitsbilder:
 
-    Atmung/index
-    ThoraxchirurgischeStoerungen/index
-    Sepsis/index
-    Gynaekologie/index
-    Hygiene/index
-    Infektiologie/index
-    Kriminalitaet/index
-    Neurologie/index
-    Paediatrie/index
-    Psychiatrie/index
-    SterbenUndTod/index
-    Stoffwechsel/index
-    ThermischeStoerungen/index
-    Toxikologie/index
-    Traumatologie/index
-    Urologie/index
-    Wundversorgung/index
+    Atmung/index.rst
+    ThoraxchirurgischeStoerungen/index.rst
+    Sepsis/index.rst
+    Gynaekologie/index.rst
+    Hygiene/index.rst
+    Infektiologie/index.rst
+    Kriminalitaet/index.rst
+    Neurologie/index.rst
+    Paediatrie/index.rst
+    Psychiatrie/index.rst
+    SterbenUndTod/index.rst
+    Stoffwechsel/index.rst
+    ThermischeStoerungen/index.rst
+    Toxikologie/index.rst
+    Traumatologie/index.rst
+    Urologie/index.rst
+    Wundversorgung/index.rst
+    Abdomen/index.rst
+    MedizinprodukteAllgemein/index.rst
     
 
 .. toctree::
@@ -32,9 +34,9 @@ Inkubator
     :caption: Sonstiges:
 
     ASS/index
-    Basisuntersuchungen/index
-    Dokumentation/index
-    Sanitaetstechnik/index
-    Taetigkeitsbereich/index
+    Basisuntersuchungen/index.rst
+    Dokumentation/index.rst
+    Sanitaetstechnik/index.rst
+    Taetigkeitsbereich/index.rst
     
     

@@ -48,11 +48,7 @@ entsprechend oft bei Patienten anzutreffen.
 
 -  Infektionsgefahr
 
-!!! PICTURESERIESWIDE !!!Bilderserie: Harnkatheter !!! PICTURESERIESROW
-!!! 3 |image| Ein Harnkatheter !!! SOURCEPICTURE !!! *DEMAW/Blacky*
-|image| Ein Harnbeutel !!! SOURCEPICTURE !!! *DEMAW/Blacky* |image|
-Einführen eines Harnkatheters unter sterilen Bedingungen !!!
-SOURCEPICTURE !!! *DEMAW/Blacky* empty !!! PICTURESERIESWIDE !!!
+.. todo:: Bilderserie: Harnkatheter 
 
 ***********
 Nierenkolik
@@ -180,6 +176,12 @@ schmerzhaft sein. Die Maßnahmen beschränken sich auf einen zügigen
 Transport an eine Abteilung für Urologie. Eine Notarzt-Nachforderung ist
 kaum sinnvoll, da ein NEF oder NAW selten geeignetes Material zur
 Harnableitung mitführt.
+
+
+.. [254]
+   zum Beispiel im Rahmen eines Querschnitt-Syndroms nach
+   Wirbelsäulenverletzungen
+
 
 -  Vergrößerung der *Prostata*
 

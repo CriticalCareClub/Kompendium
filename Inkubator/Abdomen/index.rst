@@ -397,10 +397,11 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 .. todo:: !!! PROCEDURE !!! CK92020C
 
+.. _Thema-lebensmittelvergiftung:
+
 Magen-Darm-Grippe, Gastroenteritis, Lebensmittelvergiftung
 ==========================================================
 
-:ref:`Thema-lebensmittelvergiftung`
 
 Beschreibung und Ursachen
 -------------------------
@@ -451,6 +452,8 @@ Erbrechen, Durchfälle. Exsikkose-Gefahr!
 -  Alte Menschen
 
 .. todo:: !!! PROCEDURE !!! CA09091C
+
+.. _thema-exsikkose:
 
 Flüssigkeitsmangel: Exsikkose
 =============================
@@ -667,10 +670,10 @@ Stuhlabgängen* kommen. (Eckstein et al. 2006)
 
 .. todo:: !!! PROCEDURE !!! CK55001C
 
+.. _Thema-peritonitis:
+
 Bauchfellentzündung
 ===================
-
-:ref:`Thema-peritonitis`
 
 Beschreibung
 ------------

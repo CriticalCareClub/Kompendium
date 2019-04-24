@@ -258,7 +258,7 @@ Diese Wahnideen können in weiterer Folge zu einem :dfn:`Wahnsystem` :index:`\ <
 Wahnthemen
 ----------
 
- Ein Wahn kann unterschiedliche Themen haben, die häufigsten sind z.B.
+Ein Wahn kann unterschiedliche Themen haben, die häufigsten sind z.B.
 Verfolgungswahn, Größenwahn oder der Verarmungswahn.
 
 .. todo:: !!! PROCEDURE !!! PF22091C
@@ -287,10 +287,10 @@ Suizidalität
 Beschreibung
 ------------
 
-**:dfn:`Suizid` :index:`\ <! Suizid>`
+:dfn:`Suizid` :index:`\ <! Suizid>`
 bezeichnet die absichtliche Selbsttötung. 
 Als :dfn:`erweiterter Suizid` wird die Tötung der eigenen und
-fremder Personen bezeichnet.** Selbstmorde und Selbstmordversuche 
+fremder Personen bezeichnet. Selbstmorde und Selbstmordversuche 
 (*SMV*) gehören zu den häufigen Einsatzgründen im
 Rettungsdienst. Häufig sind Suizid- oder sonstige selbstschädliche
 Handlungen nicht auf den ersten Blick als solche erkennbar.
@@ -321,12 +321,15 @@ Gründen – aussenden kann.
 -  Jeder Selbstmordversuch muss ernst genommen werden, auch wenn er noch
    so lächerlich oder unglaubwürdig aussieht.
 
+
+.. [290]
+   Zumindest meistens.
+
+
 Der unmittelbar eigen- oder fremdgefährdende Patient
 ====================================================
 
 .. rubric:: Querverweise
-
--   :ref:`Thema-unterbringung`, :ref:`Thema-suizid2`
 
 -   Unterbringung: :ref:`Thema-unterbringung-jus`
 

@@ -94,10 +94,12 @@ Es muss *gründlich*, *ausführlich* und *nachvollziehbar* dokumentiert
 werden. Die Dokumentation soll vorrangig am Einsatzprotokoll selbst
 oder, wenn nötig, auf einem beigelegten Blatt Papier erfolgen.
 
+.. _Thema-naca:
+
 NACA-Score
 ==========
 
-:ref:`Thema-naca` Der *NACA-Score*\  [165]_ diente ursprünglich der Bewertung
+Der *NACA-Score*\  [165]_ diente ursprünglich der Bewertung
 von Erkrankungen / Verletzungen als Entscheidungshilfe welche Soldaten
 zuerst auszufliegen wären. Heutzutage dient der NACA-Score der groben
 statistischen Erfassung. Man unterscheidet die Stufen 1 bis 7:
@@ -135,7 +137,9 @@ durch Formulare oder Computerprogramme vorgegebenen Form abweichen.
 
 .. todo:: Tabelle
 
-    .. table:: Ein Einsatzprotokoll: Schlechte Dokumentation. Dieses Beispiel zeigt eine mangelhafte Dokumentation. Anhand der Niederschrift ist nicht nachvollziehbar, was vorgefallen ist.
+    :: 
+    
+        Ein Einsatzprotokoll: Schlechte Dokumentation. Dieses Beispiel zeigt eine mangelhafte Dokumentation. Anhand der Niederschrift ist nicht nachvollziehbar, was vorgefallen ist.
 
         | Berufung: & 17-B-01 & Text: &
         | Art: & RTW & QU & 01.04.2007 12:00 & BO & 12:05
@@ -150,7 +154,9 @@ durch Formulare oder Computerprogramme vorgegebenen Form abweichen.
 
 .. todo:: Tabelle
 
-    .. table:: Ein Einsatzprotokoll: Bessere Dokumentation
+    :: 
+    
+        Ein Einsatzprotokoll: Bessere Dokumentation
 
         | Berufung: & 17-B-01 & Text: &
         | Art: & RTW & QU & 01.04.2007 12:00 & BO & 12:05
@@ -166,17 +172,21 @@ durch Formulare oder Computerprogramme vorgegebenen Form abweichen.
 
 .. todo:: Tabelle
 
-    .. table:: Einsatzprotokoll: Psychiatrischer und psychosozialer Patient Hier ist nicht nur nachvollziehbar was passiert ist, auch ist erkennbar dass versucht wurde, mögliche gefährliche Diagnosen auszuschliessen (Schädel-Hirn-Trauma, Hirnblutungen, …). Bei diesem Patienten ist die Schilderung der Lebensumstände wichtig, sie hilft der weiterbehandelnden Stelle beim Entlassungmenagement – der Patient kann ja schließlich nicht in eine bestialisch stinkende, verkotete Wohnung zurückgeschickt werden.
+    Einsatzprotokoll: Psychiatrischer und psychosozialer Patient Hier ist nicht nur nachvollziehbar was passiert ist, auch ist erkennbar dass versucht wurde, mögliche gefährliche Diagnosen auszuschliessen (Schädel-Hirn-Trauma, Hirnblutungen, …). Bei diesem Patienten ist die Schilderung der Lebensumstände wichtig, sie hilft der weiterbehandelnden Stelle beim Entlassungmenagement – der Patient kann ja schließlich nicht in eine bestialisch stinkende, verkotete Wohnung zurückgeschickt werden.
 
-        | Berufung: & 25-B-04 & Text: &
-        | Art: & RTW & QU & 01.05.2008 09:10 & BO & 09:20
-        | ZA & 10:00 & AO & 10:23 & EB & 10:40
-        | Name: & MUSTERMANN, Max & Alter: & 32 & Geschlecht: & m
-        | Vitalwerte & 09:30 & RR - HF & 130/70mmHg - 100/min & SpO2 & 98%
-        | BZ & xxxmg/dL& Temp. & xx°C & Schmerzen: &
-        | Weitere Befunde: &
-        | NACA: & 3 & GCS: & 15
-        | Zielabt.: & Psychiatrie & Trpt. m. Arzt: & n & Zustand: & gleich
+    ::
+
+        Berufung:  25-B-04      Text: 
+        Art     :  RTW          QU  01.05.2008  09:10   BO  09:20
+                                ZA  10:00   AO  10:23   EB  10:40
+        Name    : MUSTERMANN, Max           Alter   :   32  Geschlecht  : m
+        Vitalwerte 
+        
+        09:30   :   RR - HF     : 130/70mmHg - 100/min SpO2 : 98%
+                    BZ          : xxx mg/dL  Temp. & xx°C & Schmerzen: &
+        Weitere Befunde: &
+        NACA: & 3 & GCS: & 15
+        Zielabt.: & Psychiatrie & Trpt. m. Arzt: & n & Zustand: & gleich
 
 ****************************
 Unfallchirurgische Diagnosen
@@ -582,3 +592,8 @@ Richtungs- und Seitenangaben
     fußwärts
 
 
+.. [164]
+   §5 SanG
+
+.. [165]
+   NACA 

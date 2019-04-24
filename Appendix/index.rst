@@ -4252,7 +4252,7 @@ Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*
 	.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*
-	.. figure:: /Bilder/asthma-paramedic.*
+	.. figure:: /Bilder/GabrielSebastian-Ccc/asthma-paramedic.*
 	.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.*
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.*
 	.. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.*

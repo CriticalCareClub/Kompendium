@@ -1,11 +1,6 @@
 
 
-
-.. [164]
-   §5 SanG
-
-.. [165]
-   NACA *Abkz.*: National Advisory Committee for Aeronautics
+*Abkz.*: National Advisory Committee for Aeronautics
 
 
 .. [227]
@@ -15,47 +10,3 @@
 
 
 
-.. [254]
-   zum Beispiel im Rahmen eines Querschnitt-Syndroms nach
-   Wirbelsäulenverletzungen
-
-.. [270]
-   (Tuba auditiva, Eustachische Röhre)
-
-.. [271]
-   (häufig bei HIV/Immunsuppression)
-
-.. [272]
-   Quelle: AGES
-
-.. [273]
-   National Institute for Clinical Excellence (NICE) Tuberculosis.
-   National clinical Guideline for Diagnosis, management, prevention and
-   control (2006)
-
-.. [274]
-   Sporen von *Clostridium tetani*
-
-.. [277]
-   Entjungferung
-
-
-.. [290]
-   Zumindest meistens.
-
-.. [293]
-   Wunde: Die übliche Beschreibung einer Wunde als eine Verletzung der
-   Haut ist nicht korrekt. Meist werden mehrere Gewebearten in
-   Mitleidenschaft gezogen. Definition (Pschyrembel 2002): Unterbrechung
-   des Zusammenhangs von Körpergeweben mit oder ohne Substanzverlust.
-
-.. [294]
-   Zur Verifizierung eines aufrechten Tetanus-Impfschutzes muss jede
-   Wunde einem Arzt vorgestellt werden. Eine Impfung muss spätestens
-   alle 10 Jahre aufgefrischt werden, bei entsprechenden Verletzungen
-   schon früher. (Böhmer, Schneider, and Wolcke 2006)
-
-.. [295]
-   Felle als Unterlage sind im stationären Bereich eher verpönt, im
-   Rahmen des Krankentransports haben sie dennoch eine gewisse
-   Berechtigung.

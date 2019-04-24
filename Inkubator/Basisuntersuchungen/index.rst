@@ -39,17 +39,23 @@ Vitalwerten zählt man:
 
 -  Atemfrequenz
 
+
+
+.. _thema-bewusstsein:
+
 Ermitteln der Herzfrequenz mittels Messung der Pulsfrequenz
 ===========================================================
 
 Beschreibung und Messstellen
 ----------------------------
 
-**Als !!! TERMINUS !!! *Herzfrequenz* (!!! TERMINUS !!! *HF*) bezeichnet
-man die Anzahl der Schläge bzw. Aktionen des Herzens pro Minute. Als !!!
-TERMINUS !!! *Pulsfrequenz* bezeichnet man die Anzahl der Pulsschläge
-pro Minute.** Die Herzfrequenz entspricht normalerweise der !!! TERMINUS
-!!! *Pulsfrequenz*, welche mittels Fühlen des Pulses ermittelt
+Als :dfn:`Herzfrequenz` (*HF*) bezeichnet
+man die Anzahl der Schläge bzw. Aktionen des Herzens pro Minute. 
+Als :dfn:`Pulsfrequenz` bezeichnet man die Anzahl der Pulsschläge
+pro Minute.
+
+Die Herzfrequenz entspricht normalerweise der 
+*Pulsfrequenz*, welche mittels Fühlen des Pulses ermittelt
 wird. [112]_ Dieser wird idealerweise an der *Radialarterie* (A.
 *radialis*) bzw. bei nicht ansprechbaren oder schockierten Patienten an
 der *Halsschlagader* (A. *carotis*) ertastet. Bei Neugeborenen und
@@ -755,35 +761,35 @@ PICTUREWIDE !!!
 .. figure:: /Bilder/WikipediaCcBySa/EKG_Komplex.*
     :width: 99%
 
-    Eine elektrische Herzaktion. 
-    Die einzelnen Abschnitte im zeitlichen Verlauf repräsentieren unterschiedliche Stadien der Erregung: 
-    **P**-Welle :math:`\approx` Vorhoferregung, 
-    **PQ**-Zeit :math:`\approx` AV-Überleitung, 
-    **QRS**-Komplex :math:`\approx` Kammererregung, 
-    **ST**-Strecke + **T**-Welle :math:`\approx` Erregungsrückbildung. 
-    
+    Eine elektrische Herzaktion.
+    Die einzelnen Abschnitte im zeitlichen Verlauf repräsentieren unterschiedliche Stadien der Erregung:
+    **P**-Welle :math:`\approx` Vorhoferregung,
+    **PQ**-Zeit :math:`\approx` AV-Überleitung,
+    **QRS**-Komplex :math:`\approx` Kammererregung,
+    **ST**-Strecke + **T**-Welle :math:`\approx` Erregungsrückbildung.
+
     [WMC:Hank / CC-BY-SA-2.0-DE]
 
-.. figure:: /Bilder/anatomie/Reizleitungssystem_1.png
+.. figure:: /Bilder/WikipediaBy/Reizleitungssystem_1.pdf
     :width: 99%
 
-    Reizleitungssystem, Schema. 
-    **1**: Sinusknoten, 
-    **2**: AV-Knoten 
-    
-    [J. Heuser, 
-    basierend auf der Arbeit von Patrick J. Lynch; illustrator; 
+    Reizleitungssystem, Schema.
+    **1**: Sinusknoten,
+    **2**: AV-Knoten
+
+    [J. Heuser,
+    basierend auf der Arbeit von Patrick J. Lynch; illustrator;
     C. Carl Jaffe; MD; cardiologist Yale University Center for Advanced Instructional Media;
     CC-BY]
 
 
-	    
+
 
 .. subfigend::
     :width: 0.45
-    :label: Figure-Bilderserie
+    :label: Figure-BilderserieReizleitungssystem
 
-    Bilderserie: 
+    Bilderserie: Reizleitungssystem
 
 
 -  Das EKG zeigt nur die *elektrische* Aktivität, nicht aber die
@@ -857,6 +863,8 @@ gravierenden Fehldiagnosen kommen kann. [124]_
 
 -  Genaue Positionierung wichtig!
 
+.. _Table-ekg-elektroden-position:
+
 Praxis des EKG-Schreibens
 -------------------------
 
@@ -877,23 +885,25 @@ In der Praxis ergeben sich daraus zwei Anwendungsfälle:
 
 -  12-Kanal-EKG: Extremitäten- + Brustwandableitungen
 
-!!! TABELLE WEIT [H]Farbe und Standardpositionen der
-EKG-Elektroden[Table-ekg-elektroden-position]
 
-lll
+.. todo:: !!! TABELLE WEIT [H]Farbe und Standardpositionen der EKG-Elektroden
 
-| **Elektrode** & **Position** & **Alternative Position**
-| & Rechte Hand & Rechte Schulter
-| & Linke Hand & Linke Schulter
-| & Linker Fuß & Linke Leiste
-| & Rechter Fuß & Rechte Leiste
-| **V1** & 4. Zwischenrippenraum rechts vom Sternum
-| **V2** & 4. Zwischenrippenraum links vom Sternum
-| **V3** & Mitte zwischen V2 und V4
-| **V4** & 5. Zwischenrippenraum links in der Verlängerung der
-  Schlüsselbein-Mittellinie
-| **V5** & 5. Zwischenrippenraum vordere Achsellinie (zw. V4 und V6)
-| **V6** & 6. Zwischenrippenraum in der mittleren Achsellinie
+    ::
+
+        lll
+
+        | **Elektrode** & **Position** & **Alternative Position**
+        | & Rechte Hand & Rechte Schulter
+        | & Linke Hand & Linke Schulter
+        | & Linker Fuß & Linke Leiste
+        | & Rechter Fuß & Rechte Leiste
+        | **V1** & 4. Zwischenrippenraum rechts vom Sternum
+        | **V2** & 4. Zwischenrippenraum links vom Sternum
+        | **V3** & Mitte zwischen V2 und V4
+        | **V4** & 5. Zwischenrippenraum links in der Verlängerung der
+        Schlüsselbein-Mittellinie
+        | **V5** & 5. Zwischenrippenraum vordere Achsellinie (zw. V4 und V6)
+        | **V6** & 6. Zwischenrippenraum in der mittleren Achsellinie
 
 .. figure:: /Bilder/WikipediaPd/12_lead_generated_sinus_rhythm.*
 
@@ -975,22 +985,123 @@ Kohlendioxidanteil (CO₂ am Ende des Atemzyklus).
 
    -  Zielwert für Beatmungsparameter
 
+.. _Thema-Kapnometrie:
+
 Kapnometrie und Kapnographie
 ----------------------------
 
-Für die CO₂-Messung gibt es unterschiedliche Methoden. Bei der !!!
-TERMINUS !!! *Kapnometrie* werden die etCO₂-Werte als Partialdruck in
-mmHg und/oder als Konzentration in Vol.- angegeben. Bei der !!! TERMINUS
-!!! *Kapnographie* wird zusätzlich zu den Werten der Kapnometrie auch
-noch die CO₂-Konzentration im zeitlichen Verlauf als Kurve graphisch
-dargestellt. !!! PICTUREWIDE !!!
+Die Kapnometrie ist die Messung des *Kohlendioxid* (CO₂), 
+welche in der Regel im Exspirationsschnekel durchgeführt wird.
+Als nummerischer Wert bei der quantitaviven Messung wird die 
+maximale Konzentration am Ende der Exspiration (= endtidal) 
+angegeben 
+(*"endtidaler Kohlendioxid-Partialdruck"* **etCO₂**, 
+Angabe als Partialdruck in mm Hg oder kP, 
+alternativ als Konzentration in Vol.%).
 
-.. todo:: 
+Die Kapno\ *graphie* ist die graphische Darstellung einer CO₂-Konzetrationskurve
+über die Zeit 
+und ermöglicht somit die Beurteilung des Verlaufs im Atemzyklus.
+Dies erlaubt Rückschlüsse auf bestimmte Störungen 
+(Spastik, Mitatmen des Patienten etc.)
 
-    Kapnographie
+Die CO₂-Messung hat im wesentlichen folgende Funktionen:
 
-    Eine typische CO₂-Kurve und ein etCO₂-Wert in der Norm
-    von 36mmHg.Sebastian Gabriel\ |image|
+#.  Lagekontrolle von Atemwegshilfsmitteln, 
+    insbes. *Endotrachealtubus*
+    (:ref:`Thema-EndotrachealeIntubation`) 
+    und *Larynxtubus* 
+    (:ref:`Thema-Larynxtubus`)
+#.  Einschätzung der alveolären CO₂-Konzentration 
+    somit als Surrogatwert zur Einschätzung der Blut-CO₂-Konzentration (paCO₂), 
+    sofern keine Diffusionsstörung vorliegt.
+    Dies erlaubt eine an den Patienten angepasste Beatmung
+    auch ohne Blutgasanalyse.
+#.  Der Verlauf des etCO₂ erlaubt auch gewisse Rückschlüsse 
+    auf die Kreislauffunktion, sofern andere Störgrößen 
+    (Ventilation, Diffusionsstörungen) ausgeschlossen sind.
+
+
+
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00943pt-4.*
+
+    Kapnographie, CO₂-Kurve:
+    Die Kapnometrie ist wichtig, um die korrekte
+    Lage des Tubus in der Luftröhre zu bestätigen.
+    [Bild: Sebastian Gabriel]
+
+Bei allen Messvorrichtungen muss ein *Bakterienfilter* zwischen
+Tubus und Messeinrichtung eingebaut sein, da die Feuchtigkeit
+der Ausatemluft die Geräte beschädigen kann.
+
+.. rubric:: Beurteilung
+
+Die Normwerte beim gesunden Menschen liegen bei ca. 
+4—5% bzw. 35—40 mm Hg.
+
+Erhöhte Werte deuten auf eine
+
+.. hlist::
+
+    * *höhere CO₂-Produktion* des Körpers (z. B. bei Fieber),
+    * auf ein *zu niedriges Atemminutenvolumen* oder
+    * auf eine schwere *Lungenerkrankung* (z. B. COPD) hin.
+
+Erniedrigte Werte (bzw. keine Werte) deuten unter anderem auf eine
+
+.. hlist::
+    
+    * *Fehllage* des Tubus,
+    * ein *zu hohes Atemminutenvolumen* oder eine
+    * *schlechte Lungenperfusion* z. B. in Folge 
+        einer Lungenembolie oder
+        eines erniedrigten Herzzeitvolumens 
+        bzw. **Kreislaufversagens** hin.
+
+Ein erniedrigter Wert oder ein schlagartiger Abfall des Wertes
+sind ein kritisches Alarmzeichen.
+
+
+.. rubric:: CO₂-Messung mit Einmaldetektoren
+
+Bei dieser Methode der CO₂-Erkennung wird der Patient durch einen
+Indikator mit Lackmuspapier beatmet.
+Da CO₂ einen sauren pH-Wert hat,
+verfärbt sich der Indikator bei jeder Ausatmung.
+Durch die Verfärbung kann eine ungefähre Aussage über die
+CO₂-Konzentration in der Ausatemluft getroffen werden.
+Am weitesten verbreitet ist das Modell
+*Easy Cap 2™* der Firma Nellcor.
+Die Indikatorfarbe wechselt von rosa bis violett
+(kein CO₂ in der Einatemphase) zu gelb (CO₂ in der
+Ausatemphase).
+Da Feuchtigkeit die Messung verfälschen kann ist auch
+hier der Einsatz eines Bakterienfilters verpflichtend.
+
+.. rubric:: Kapnometrie unter Reanimation
+
+Die Kapnometrie bzw. Kapnographie hat in der Reanimationssituation einen
+wichtigen Stellenwert. Durch die Messung des etCO₂ kann eine
+zuverlässige Aussage über die Perfusion im kleinen Kreislauf und damit
+auch über die Qualität der Herzdruckmassage getroffen werden.
+Ziel ist es,
+unter Reanimationsbedingungen ein etCO₂ von *über 9 mm Hg* zu
+erreichen.
+Wird dieses Ziel nicht erreicht,
+so muss die Qualität der Herzdruckmassage überprüft und
+ggfs. verbessert werden.
+Sollte trotz hochqualitativer Herzdruckmassage der Zielwert von
+über 9 mm Hg nicht erreicht werden,
+so kann die Ursache in einer Durchblutungsstörung im
+Lungenkreislauf (z. B. aufgrund einer Lungenembolie) liegen.
+Ein plötzlicher Anstieg des etCO₂ unter
+Reanimation ist ein Hinweis auf einen *wiedererlangten Spontankreislauf*
+(ROSC) und ist als Lebenszeichen zu beurteilen.
+
+-   In der Reanimation kann durch die etCO₂-Messung keine zuverlässige
+    Aussage über die Tubuslage getroffen werden, da die Lungenperfusion
+    deutlich schlechter ist, als bei einem Menschen mit Spontankreislauf!
 
 Anwendungshinweise
 ------------------
@@ -1261,7 +1372,7 @@ durchgeführt.
 
 .. Figure-anisokorie-bau:
 
-.. figure:: /Bilder/HauerDavid-Ccc/pupillendifferenz.jpg 
+.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.jpg 
     :width: 99%
 
     Ungleiche Pupillen (Anisokorie)

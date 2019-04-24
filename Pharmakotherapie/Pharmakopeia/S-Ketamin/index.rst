@@ -23,7 +23,7 @@ Ketamin, S-
 
 .. Thema-: Kontraindikationen
 
-    erhöhter ICP  [3]_ (relativ), penetrierende Augenverletzng,
+    erhöhter intrakranieller Druck (relativ), penetrierende Augenverletzng,
     kardiale Dekompensation, KHK
 
 .. Thema-: Dosierung
@@ -44,7 +44,3 @@ Ketamin, S-
 
     Neostigmin nicht ZNS-gängig, Phyostigmin schon
 
-
-
-.. [3]
-   ICP: intrakranieller Druck

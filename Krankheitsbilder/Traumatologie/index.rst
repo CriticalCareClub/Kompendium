@@ -1382,14 +1382,18 @@ kommen.
 -  Der Pneumothorax ist eine gefährliche Komplikation einer
    Rippenfraktur.
 
+
+
+.. index::
+    single: Atmung; paradoxe; bei Serienrippenfraktur
+
 Symptome
 --------
 
 Sind die Rippen an verschiedenen Stellen gebrochen oder gar zertrümmert,
 werden diese Teile bei der Einatmung nach innen gezogen und bei der
 Ausatmung nach außen gedrückt. Man bezeichnet dies (Brustkorb *senkt*
-sich bei der Einatmung) als !!! INDEX II !!! [Atmung!paradoxe!bei
-Serienrippenfraktur]paradoxe Atmung bei *instabilem Thorax*. Die Folge
+sich bei der Einatmung) als paradoxe Atmung bei *instabilem Thorax*. Die Folge
 ist eine hochgradige Atemnot, außerdem treten (z.T. heftige) Schmerzen
 auf, die sich bei der Einatmung verstärken. Rippenbruchstücke können
 darunter liegende Organe verletzen. Es kann zu Lungeneinrissen, sowie

@@ -234,6 +234,12 @@ Krankentransportdienstes.
 
 .. _Thema-dialysepatienten-gefahren:
 
+
+
+.. index::
+    single: Herzstillstand; bei Niereninsuffizienz
+    single: Elektrolytstörung; bei Dialyse
+
 ??? und Gefahren
 ================
 
@@ -254,13 +260,11 @@ Nierenersatztherapien bergen Gefahren für den Patienten:
    INDEX II !!! [Elektrolytstörung!bei
    Niereninsuffizienz]Elektrolytstörungen zu lebensbedrohlichen **!!!
    INDEX II !!! [Herzrhythmusstörung!bei
-   Niereninsuffizienz]Herzrhythmusstörungen** bis hin zum !!! INDEX II
-   !!! [Herzstillstand!bei Niereninsuffizienz]Herzstillstand führen.
+   Niereninsuffizienz]Herzrhythmusstörungen** bis hin zum Herzstillstand führen.
 
 -  Die **Dialyse** :index:`\ <Dialyse>` stellt einen schwerwiegenden Eingriff in
    den Wasser- und Elektrolythaushalt dar, dementsprechend kann es auch
-   nach einer Dialyse zu den oben genannten !!! INDEX II !!!
-   [Elektrolytstörung!bei Dialyse]Elektrolytstörungen kommen!
+   nach einer Dialyse zu den oben genannten Elektrolytstörungen kommen!
 
 -  Dialyse-Shunt (Blutungen)
 

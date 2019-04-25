@@ -84,14 +84,14 @@ solches klassifiziert.
         | :dfn:`Nasenflügeln` :index:`\ <! Nasenflügeln>` beschleunigte Atmung, Atemgeräusche
         | *Pulstasten beim Säugling* & Oberarmarterie (Oberarm Innenseite),
         Achsel
-        | *Herzfrequenz* & Neugeborenes: !!! VONBIS !!!140180/min(Lebensgefahr
+        | *Herzfrequenz* & Neugeborenes: 140–180 / min(Lebensgefahr
         unter 80/min)
 
-        Säugling: 110—160/min(FRCPCH and FRCPCH 2007)
+        Säugling: 110—160 / min(FRCPCH and FRCPCH 2007)
 
-        Kleinkind: 95—140/min(FRCPCH and FRCPCH 2007)
+        Kleinkind: 95—140 / min(FRCPCH and FRCPCH 2007)
 
-        Schulkind: 80—120/min(FRCPCH and FRCPCH 2007)
+        Schulkind: 80—120 / min(FRCPCH and FRCPCH 2007)
 
         | Bradykardie ist fast immer hypoxiebedingt
         | *Systolischer Blutdruck* & Neugeborenes: 75mmHg(Hagelberg and Gehring

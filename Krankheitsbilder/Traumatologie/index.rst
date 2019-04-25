@@ -1337,6 +1337,15 @@ Todesangst.
 
 .. todo:: !!! PROCEDURE !!! TJ93090C
 
+
+
+.. index::
+    single: Rippenfraktur
+    single: Serienrippenfraktur
+    single: Fraktur; Rippen-
+    single: Fraktur; Serienrippen-
+
+
 Rippenfraktur, Serienrippenfraktur und instabiler Thorax
 ========================================================
 
@@ -1344,8 +1353,8 @@ Beschreibung
 ------------
 
 Eine Fraktur einer oder mehrer Rippen ensteht typischerweise durch eine
-meist stumpfe Gewalteinwirkung auf den Thorax. Von einer !!! TERMINUS
-!!! *Serienrippenfraktur* spricht man, wenn mindestens drei benachbarte
+meist stumpfe Gewalteinwirkung auf den Thorax. 
+Von einer **Serienrippenfraktur** spricht man, wenn mindestens drei benachbarte
 Rippen gebrochen sind.
 
 Häufige Mechnismen sind z.B. ein Sturz auf den Thorax (insbesonders
@@ -1373,14 +1382,18 @@ kommen.
 -  Der Pneumothorax ist eine gefährliche Komplikation einer
    Rippenfraktur.
 
+
+
+.. index::
+    single: Atmung; paradoxe; bei Serienrippenfraktur
+
 Symptome
 --------
 
 Sind die Rippen an verschiedenen Stellen gebrochen oder gar zertrümmert,
 werden diese Teile bei der Einatmung nach innen gezogen und bei der
 Ausatmung nach außen gedrückt. Man bezeichnet dies (Brustkorb *senkt*
-sich bei der Einatmung) als !!! INDEX II !!! [Atmung!paradoxe!bei
-Serienrippenfraktur]paradoxe Atmung bei *instabilem Thorax*. Die Folge
+sich bei der Einatmung) als paradoxe Atmung bei *instabilem Thorax*. Die Folge
 ist eine hochgradige Atemnot, außerdem treten (z.T. heftige) Schmerzen
 auf, die sich bei der Einatmung verstärken. Rippenbruchstücke können
 darunter liegende Organe verletzen. Es kann zu Lungeneinrissen, sowie
@@ -1920,7 +1933,7 @@ Gefahren
 
 In den verbrannten Arealen *verliert die Haut ihre Schutzfunktion*; es
 besteht die Gefahr von *Verdunstung*, *Unterkühlung* und *Infektionen*.
-Ab ca. !!! VONBIS !!!2030% verbrannter
+Ab ca. 20–30% verbrannter
 Körperoberfläche kann sich eine :dfn:`Verbrennungskrankheit` :index:`\ <! Verbrennungskrankheit>`
 entwickeln. Dabei kommt es zu einer körperweiten *Entzündungsreaktion*.
 Besonders dramatisch ist die dadurch entstehende erhöhte Durchlässigkeit

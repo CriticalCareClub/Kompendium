@@ -297,7 +297,7 @@ Der Verlauf wird vor allem davon bestimmt,
 welches Organ befallen ist (Lunge, Skelett, Darm, Haut, Genitalien,
 ...). Ausgangspunkt ist fast immer die *Lunge*. Die Übertragung erfolgt
 vor allem *aerogen*, aber unter Umständen auch oral, durch Hautkontakt
-oder plazentär. Die Inkubationszeit beträgt !!! RANGE !!!412 Wochen.
+oder plazentär. Die Inkubationszeit beträgt 4–12 Wochen.
 
 Zunehmend treten auf Antibiotika resistente Erreger auf (MDR-TB,
 XDR-TB) [272]_.
@@ -652,8 +652,9 @@ vor. Bei Verletzungen können durch Kontamination diese Sporen in die
 Wunde kommen. Bei ungünstigen Wundverhältnissen (*anaerobe*
 Verhältnisse) kann es dann zu einer Infektion kommen. Der Erreger
 produziert einen Giftstoff (Toxin), welches einen tonischen Krampf der
-Skelettmuskulatur auslöst. Die Inkubationszeit beträgt ca. !!! VONBIS
-!!!421 Tage. Erste Vorzeichen sind Müdigkeit und Inappetenz. (Hahn et
+Skelettmuskulatur auslöst. 
+Die Inkubationszeit beträgt ca. 4–21 Tage. 
+Erste Vorzeichen sind Müdigkeit und Inappetenz. (Hahn et
 al., n.d.)
 
 -  Erreger kommt überall vor
@@ -668,7 +669,7 @@ beginnend bei der Kaumuskulatur (Kiefersperre, Teufelsgrinsen (*Risus
 sardonicus*)). Der Patient hat starke Schmerzen und entwickelt in Folge
 der Krämpfe eine *Atemlähmung*. Die Fortschritte der Intensivmedizin
 haben die Behandlungsmöglichkeiten verbessert, trotzdem sterben noch
-etwa !!! VONBIS !!!2030% der Tetanuserkrankten. Der Wert der Impfung ist
+etwa 20–30% der Tetanuserkrankten. Der Wert der Impfung ist
 daher nach wie vor groß.
 
 -  Krämpfe der Skelettmuskulatur

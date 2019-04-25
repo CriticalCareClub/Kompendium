@@ -1,4 +1,9 @@
 
+
+.. index::
+    single: Blutdruck; systolischer; Messung
+    single: Blutdruck; diastolischer; MEssung
+
 .. _Thema-blutdruckmessung:
 
 ########################################################################
@@ -20,20 +25,25 @@ in den Arterien [113]_. Er gehört in Kombination mit der Herzfrequenz zu
 den grundlegenden Vitalwerten.
 
 *Der Druck in der Arterie schwankt in Abhängigkeit zum Herzauswurf*:
-Wenn das Herz Blut auswirft (*Auswurfphase* :index:`\ <Auswurfphase!Blutdruckmessung>`, *Systole)* :index:`\ <Systole!Blutdruckmessung>` erreicht er sein Maximum, und sinkt
-danach in der *Füllungsphase* :index:`\ <Füllungsphase!Blutdruckmessung>` des Herzens (*Diastole)* :index:`\ <Diastole!Blutdruckmessung>` wieder ab, bis das Herz
-neuerlich Blut auswirft. Dementsprechend können zwei Werte erhoben
-werden: Der
+Wenn das Herz Blut auswirft 
+(*Auswurfphase* :index:`\ <Auswurfphase!Blutdruckmessung>`, *Systole)* 
+:index:`\ <Systole!Blutdruckmessung>` erreicht er sein Maximum, und sinkt
+danach in der *Füllungsphase* 
+:index:`\ <Füllungsphase!Blutdruckmessung>` des Herzens (*Diastole)* 
+:index:`\ <Diastole!Blutdruckmessung>` 
+wieder ab, bis das Herz
+neuerlich Blut auswirft. 
+Dementsprechend können zwei Werte erhoben
+werden: 
+Der
 
--  !!! INDEX II !!! [Blutdruck!systolischer!Messung]Systolische
-   Blutdruck (Spitzendruck), und der
+-  **Systolische** Blutdruck (Spitzendruck), und der
 
--  !!! INDEX II !!! [Blutdruck!diastolischer!Messung]Diastolische
-   Blutdruck (Minimaldruck).
+-  **Diastolische** Blutdruck (Minimaldruck).
 
 Im Normalfall werden beide Werte ermittelt. Die *Einheit*, in der der
-Blutdruck angegeben wird, ist !!! TERMINUS !!! *Millimeter
-Quecksilbersäule* (!!! TERMINUS !!! *mmHg*, ist das chemische Symbol für
+Blutdruck angegeben wird, ist *Millimeter
+Quecksilbersäule* (*mm Hg*, Hg ist das chemische Symbol für
 Quecksilber).
 
 Siehe auch :ref:`Thema-mechanische-herzfunktion` (Systole, Diastole,
@@ -267,16 +277,7 @@ angelegt werden.
 
 -  Shunt-Arme sind tabu für die Blutdruckmessung!
 
-Befunde
--------
 
-[!!! RANGE !!!mmHg]
-
-[!!! RANGE !!!100—140mmHg]
-
-[!!! RANGE !!!mmHg]
-
-[!!! RANGE !!!100140mmHg]
 
 
 .. [113]

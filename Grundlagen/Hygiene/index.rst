@@ -925,6 +925,13 @@ Selbstschutz
 Im folgenden seien – zum Teil als Wiederholung – die wichtigsten
 Maßnahmen zum (hygienischen) Selbstschutz kurz erläutert:
 
+
+
+.. index::
+    single: FFP-Masken
+    single: Masken; FFP-
+
+
 .. _Thema-schutzkleidung-hygiene:
 .. _Thema-atemmasken:
 
@@ -953,28 +960,29 @@ Schutzkleidung
    luftübertragbaren Krankheiten zum Einsatz. Je nach Keim werden
    unterschiedliche Schutzmasken bzw. Schutzklassen empfohlen, welche
    sich bezüglich ihrer Schutzwirkung wesentlich unterscheiden. Die
-   einfachste Form ist die altbekannte, bei Operationen verwendete, !!!
-   TERMINUS !!! *Mund-Nasen-Maske* (MNM, “OP-Maske”), welche für viele
-   Situationen einen ausreichenden Schutz darstellt [268]_. !!! TERMINUS
-   !!! *FFP-Masken* bieten einen deutlich höhren Schutz. Es gibt je nach
+   einfachste Form ist die altbekannte, bei Operationen verwendete,
+   *Mund-Nasen-Maske* (MNM, “OP-Maske”), welche für viele
+   Situationen einen ausreichenden Schutz darstellt [268]_.
+   *FFP-Masken* bieten einen deutlich höhren Schutz.
+   Es gibt je nach
    Partikelgröße, die ausgefiltert wird, verschiedene Klassen: FFP 1,
    FFP 2 und FFP 3.
 
 -  *Schutzanzüge* kommen in speziellen Situationen zum Einsatz.
 
-!!! TABELLE WEIT Arten von Schutzmasken und Rückhaltevermögen
+.. table:: Arten von Schutzmasken und Rückhaltevermögen
 
-+----------------------+--------------------------------------------+-------------------------------+-----------------------------+----+
-| **Typ**              | **Mindestrückhaltevermögen des Filters**   | **Max. zul. Gesamtleckage**   | **Anwendung (Beispiele)**   |    |
-+----------------------+--------------------------------------------+-------------------------------+-----------------------------+----+
-| *Mund-Nasen-Maske*   | 95%                                        | k.A.                          | Basisschutz; MRSA, …        |    |
-+----------------------+--------------------------------------------+-------------------------------+-----------------------------+----+
-| *FFP 1*              | 80%                                        | 22%                           |                             |    |
-+----------------------+--------------------------------------------+-------------------------------+-----------------------------+----+
-| *FFP 2*              | 94%                                        | 8%                            | Influenza                   |    |
-+----------------------+--------------------------------------------+-------------------------------+-----------------------------+----+
-| *FFP 3*              | 99%                                        | 2%                            | SARS, offene Tuberkulose    |    |
-+----------------------+--------------------------------------------+-------------------------------+-----------------------------+----+
+    +----------------------+--------------------------------------------+-------------------------------+-----------------------------+----+
+    | **Typ**              | **Mindestrückhaltevermögen des Filters**   | **Max. zul. Gesamtleckage**   | **Anwendung (Beispiele)**   |    |
+    +----------------------+--------------------------------------------+-------------------------------+-----------------------------+----+
+    | *Mund-Nasen-Maske*   | 95%                                        | k.A.                          | Basisschutz; MRSA, …        |    |
+    +----------------------+--------------------------------------------+-------------------------------+-----------------------------+----+
+    | *FFP 1*              | 80%                                        | 22%                           |                             |    |
+    +----------------------+--------------------------------------------+-------------------------------+-----------------------------+----+
+    | *FFP 2*              | 94%                                        | 8%                            | Influenza                   |    |
+    +----------------------+--------------------------------------------+-------------------------------+-----------------------------+----+
+    | *FFP 3*              | 99%                                        | 2%                            | SARS, offene Tuberkulose    |    |
+    +----------------------+--------------------------------------------+-------------------------------+-----------------------------+----+
 
 Arbeitsaufteilung
 -----------------
@@ -999,7 +1007,7 @@ werden.
 Umgang mit spitzen Gegenständen
 -------------------------------
 
-.. sidebar:: Spitze Gegenstände 
+.. sidebar:: Spitze Gegenstände
 
     -   *“Wer sticht, der entsorgt!”*
 
@@ -1034,7 +1042,7 @@ ersparen. Dies muss jedoch vorher ausdrücklich kund getan werden.
 .. figure:: /Bilder/MotalMichael-Ccc/kontamed_4779-00800.*
 
     “Wer sticht, der entsorgt!”
-    
+
     [Michael Motal, MfG]
 
 

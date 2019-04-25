@@ -256,10 +256,13 @@ Appendizitis (Blinddarmentzündung)
 Beschreibung, Symptome  und Verlauf
 -----------------------------------
 
-**Als :dfn:`Appendizitis` :index:`\ <! Appendizitis>` bezeichnet man die Entzündung des
+Als :dfn:`Appendizitis` :index:`\ <! Appendizitis>` 
+bezeichnet man die Entzündung des
 *Wurmfortsatzes* (*Appendix* vermiformis) des Blinddarms.
-Umgangssprachlich wird oft (fälschlicherweise) der Begriff !!! TERMINUS
-!!! *Blinddarmentzündung* verwendet.** Im Vordergrund der akuten
+Umgangssprachlich wird oft (fälschlicherweise) der Begriff 
+**Blinddarmentzündung** verwendet. 
+
+Im Vordergrund der akuten
 Appendizitis steht anfänglich ein meist *diffuser Schmerz* im Bereich
 der *Nabelgegend*, der innerhalb weniger Stunden in den *rechten
 Unterbauch* wandert. Übelkeit, Brechreiz und Verstopfung können das
@@ -368,18 +371,22 @@ Unterscheidung nach der Stelle der Blutung ist wesentlich:
 
 -   Diverse Erkrankungen, Tumore
 
+
+.. index::
+    single: Erbrechen; kaffeesatz-artiges
+
 Symptome
 --------
 
 Bei Blutungen im *oberen Magen-Darm-Trakt* (Speiseröhre, Magen) kommt es
 je nach Stärke zu schwallartigem Erbrechen von rotem, frischen Blut (
-*Hämatemesis*) oder häufiger zum Erbrechen von !!! INDEX II !!!
-[Erbrechen!Kaffeesatz-artiges]Kaffeesatz-artigem Mageninhalt: Durch die
+*Hämatemesis*) 
+oder häufiger zum Erbrechen von Kaffeesatz-artigem Mageninhalt:
+Durch die
 Magensäure kommt es zur Veränderung des Blutes, es wird bräunlich,
 ähnlich dem Kaffeesatz im Kaffeefilter. Bei Blutungen im *mittleren
 Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz, man
-spricht vom sog. :dfn:`Teerstuhl` :index:`\ <! Teerstuhl>` 
-(:dfn:`Meläna` :index:`\ <! Meläna>`. 
+ (:dfn:`Meläna` :index:`\ <! Meläna>`. 
 Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 -  Oberer Teil: Erbrechen von
@@ -549,14 +556,20 @@ Autoimmunerkrankungen können ebenso zu einem Geschwür führen.
 
 -   Autoimmunerkrankungen
 
+
+
+
+.. index::
+    single: Teerstuhl; Gastritis
+
 Symptome
 --------
 
 Der Patient klagt über einen *stechend-schneidenden Schmerz*, welcher
 sehr stark sein kann. Daneben kommt es zu Appetitlosigkeit, Völlegefühl,
 Übelkeit und Erbrechen. Wenn gleichzeitig eine *Blutung* besteht, dann
-sind !!! INDEX II !!! [Teerstuhl!Gastritis]Teerstühle (schwarz,
-übelriechend) oder *Kaffeesatz-artiges Erbrechen* zu beobachten.
+sind *Teerstühle* (schwarz, übelriechend) 
+oder *Kaffeesatz-artiges Erbrechen* zu beobachten.
 
 -  Schmerzen (Oberbauch), Übelkeit, Erbrechen
 
@@ -642,6 +655,11 @@ treten gehäuft bei Patienten mit erhöhtem thromboembolischen
 Risikofaktoren auf, z.B. bei Patienten mit *Vorhofflimmern* :index:`\ <Vorhofflimmern!Mesenterialinfarkt>`
 (:ref:`Thema-vorhofflimmern`).
 
+
+
+.. index::
+    single: Akutes Abdomen; bei Mesenterialinfarkt
+
 Symptome
 --------
 
@@ -650,20 +668,20 @@ immer) über *abdominelle Schmerzen*, welche oft dumpf und diffus sind.
 Es kann für einige Stunden ein *stilles Intervall* folgen, in welchem
 die Schmerzen eher gering sind.
 
-Nach ungefähr !!! VONBIS !!!1224h wird ein *Darmverschluss* bemerkbar
+Nach ungefähr 12–24 h wird ein *Darmverschluss* bemerkbar
 und die Darmwand verliert zunehmend an Dichtigkeit, es kann zu einem
 *Durchbruch* (Ruptur) kommen. Es folgt eine *Bauchfellentzündung* und
-ein !!! INDEX II !!! [Akutes Abdomen!beim Mesenterialinfarkt]akutes
-Abdomen (:ref:`Thema-akutes-abdomen`). Es kann zu *blutigen, übel riechenden
+ein akutes Abdomen (:ref:`Thema-akutes-abdomen`).
+Es kann zu *blutigen, übel riechenden
 Stuhlabgängen* kommen. (Eckstein et al. 2006)
 
 -  Abdominalschmerzen
 
 -  Übelkeit, Erbrechen
 
--  :math:`\sim` 6h stilles Intervall
+-  :math:`\sim` 6 h stilles Intervall
 
--  Nach :math:`\sim` !!! VONBIS !!!1224h Durchbruch und
+-  Nach :math:`\sim` 12–24 h Durchbruch und
    Bauchfellentzündung, Ileus
 
 -  Übelriechende, blutige Stuhlabgänge

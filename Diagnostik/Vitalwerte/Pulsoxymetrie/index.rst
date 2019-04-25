@@ -1,4 +1,11 @@
 
+
+.. index::
+    single: Dauerstoffsätigung
+    single: Pulsoxymetrie
+    single: SpO₂
+    single: Pulsoxymeter
+
 .. _Thema-Pulsoxymetrie:
 
 ########################################################################
@@ -21,8 +28,8 @@ Beschreibung
 Die Pulsoxymetrie ist eine einfache apparative Untersuchungsmethode zur
 nicht-invasiven Ermittlung der Sauerstoffsättigung des kapillären
 Blutes, welche mit einem *Pulsoxymeter* durchgeführt wird. Sie dient zur
-nicht-invasiven Überwachung der !!! TERMINUS !!! *Sauerstoffsättigung*
-(!!! TERMINUS !!! *SpO2*) des Hämoglobins [120]_ im kapillären Blut. Das
+nicht-invasiven Überwachung der **Sauerstoffsättigung**
+(*SpO₂*) des Hämoglobins [120]_ im kapillären Blut. Das
 Messprinzip basiert auf einer Messung der Lichtabsorption bzw. der
 Lichtremission bei Durchleuchtung der Haut mittels eines Sensors
 bestehend aus einer Lichtquelle und einem Fotosensor. Auf diese Weise
@@ -58,7 +65,7 @@ gibt es verschiedene Gerätearten:
 
 -  Funktionsmodul eines Überwachungsmonitors
 
-!!! PICTUREWIDE !!!
+
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Pulsoxymeter_32779-00943pt.*
 
@@ -185,7 +192,7 @@ Die größte Gefahr ist die falsche Interpretation von Messwerten.
    verfälschen, da es sich ja um eine lichtabhängige Messmethode
    handelt.
 
--  -Vergiftungen (falsch hohe Werte)
+-  CO-Vergiftungen (falsch hohe Werte)
 
 -  Minderdurchblutung der Peripherie; Entweder durch Zentralisation beim
    Schock oder Unterkühlung.

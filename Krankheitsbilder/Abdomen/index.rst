@@ -668,7 +668,7 @@ immer) über *abdominelle Schmerzen*, welche oft dumpf und diffus sind.
 Es kann für einige Stunden ein *stilles Intervall* folgen, in welchem
 die Schmerzen eher gering sind.
 
-Nach ungefähr !!! VONBIS !!!1224h wird ein *Darmverschluss* bemerkbar
+Nach ungefähr 12–24 h wird ein *Darmverschluss* bemerkbar
 und die Darmwand verliert zunehmend an Dichtigkeit, es kann zu einem
 *Durchbruch* (Ruptur) kommen. Es folgt eine *Bauchfellentzündung* und
 ein akutes Abdomen (:ref:`Thema-akutes-abdomen`).
@@ -679,9 +679,9 @@ Stuhlabgängen* kommen. (Eckstein et al. 2006)
 
 -  Übelkeit, Erbrechen
 
--  :math:`\sim` 6h stilles Intervall
+-  :math:`\sim` 6 h stilles Intervall
 
--  Nach :math:`\sim` !!! VONBIS !!!1224h Durchbruch und
+-  Nach :math:`\sim` 12–24 h Durchbruch und
    Bauchfellentzündung, Ileus
 
 -  Übelriechende, blutige Stuhlabgänge

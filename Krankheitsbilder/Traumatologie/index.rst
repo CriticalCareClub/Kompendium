@@ -1933,7 +1933,7 @@ Gefahren
 
 In den verbrannten Arealen *verliert die Haut ihre Schutzfunktion*; es
 besteht die Gefahr von *Verdunstung*, *Unterkühlung* und *Infektionen*.
-Ab ca. !!! VONBIS !!!2030% verbrannter
+Ab ca. 20–30% verbrannter
 Körperoberfläche kann sich eine :dfn:`Verbrennungskrankheit` :index:`\ <! Verbrennungskrankheit>`
 entwickeln. Dabei kommt es zu einer körperweiten *Entzündungsreaktion*.
 Besonders dramatisch ist die dadurch entstehende erhöhte Durchlässigkeit

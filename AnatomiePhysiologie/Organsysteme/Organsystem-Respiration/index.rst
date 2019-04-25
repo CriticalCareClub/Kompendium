@@ -487,7 +487,7 @@ Esch et al. 2007; Striebel 2009):
 
 #. Die :dfn:`Atemfrequenz` :index:`\ <! Atemfrequenz>` (:dfn:`AF` :index:`\ <! AF>`) gibt die
    Anzahl der Atemzüge bzw. Atemzyklenpro Minute an. Die normale
-   Atemfrequenz beträgt beim Erwachsenen in Ruhe !!! VONBIS !!!1216/min.
+   Atemfrequenz beträgt beim Erwachsenen in Ruhe 12–16 / min.
 
 #. Das :dfn:`Atemzugvolumen` :index:`\ <! Atemzugvolumen>` (:dfn:`AZV` :index:`\ <! AZV>`) gibt
    die Menge Luft an, die *pro Atemzug* eingeatmet wird. Das normale
@@ -513,15 +513,14 @@ AF
     Atemfrequenz, *12--16 / min*
 
 AZV
-    Atemzugsvolumen, *500ml*
+    Atemzugsvolumen, *500 ml*
 
 AMV
-    Atemminutenvolumen, *!!! VONBIS !!!68L/min*
+    Atemminutenvolumen, *6–8 L / min*
 
 :math:`\mbox{AMV} = \mbox{AZV} \times \mbox{AF}`
 
-    -  AMV = AZV :math:`\times` AF, beim Erwachsenen ca. !!! VONBIS
-       !!!68L
+    -  AMV = AZV :math:`\times` AF, beim Erwachsenen ca. 6–8 L
 
 !!! TABELLE WEIT Übersicht Normalwerte: Atemfrequenz und Atemzugsvolumen
 

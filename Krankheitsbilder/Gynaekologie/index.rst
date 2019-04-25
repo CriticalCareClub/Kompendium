@@ -274,7 +274,7 @@ Die Geburt
 
 Als *Beginn der Geburt* zählt:
 
--  Regelmäßige Wehen in !!! VONBIS !!!1015 Minuten Abstand auftreten und
+-  Regelmäßige Wehen in 10–15 Minuten Abstand auftreten und
    dieser Zustand länger als eine Stunde dauert
 
 -  Sprung der Fruchtblase und Abgang von Fruchtwasser
@@ -352,7 +352,7 @@ dem Stuhl der Mutter geschützt* werden (:dfn:`Stuhlschutz` :index:`\ <! Stuhlsc
 
 -  Von vollständiger Eröffnung des Muttermundes bis Geburt des Kindes
 
--  Wehen im Abstand von !!! VONBIS !!!23min
+-  Wehen im Abstand von 2–3 min
 
 -  Presswehen
 
@@ -514,7 +514,7 @@ Zustand entscheidend, nicht der Apgar-Score.
     +---------------------+----------------+------------------------------------+------------------------------------+
     | **Kriterium**       | **0 Punkte**   | **1 Punkt**                        | **2 Punkte**                       |
     +---------------------+----------------+------------------------------------+------------------------------------+
-    | *Herzfrequenz*      | unter 60/min   | !!! RANGE !!!6099/min              | über 100/min                       |
+    | *Herzfrequenz*      | unter 60 / min | 60–99 / min                        | über 100 / min                     |
     +---------------------+----------------+------------------------------------+------------------------------------+
     | *Atemanstrengung*   | keine          | unregelmäßig, flach                | regelmäßig, Kind schreit           |
     +---------------------+----------------+------------------------------------+------------------------------------+

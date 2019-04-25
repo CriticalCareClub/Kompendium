@@ -277,16 +277,7 @@ angelegt werden.
 
 -  Shunt-Arme sind tabu für die Blutdruckmessung!
 
-Befunde
--------
 
-[!!! RANGE !!!mmHg]
-
-[!!! RANGE !!!100—140mmHg]
-
-[!!! RANGE !!!mmHg]
-
-[!!! RANGE !!!100140mmHg]
 
 
 .. [113]

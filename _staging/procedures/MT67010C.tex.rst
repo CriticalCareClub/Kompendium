@@ -1,0 +1,10 @@
+.. role:: math(raw)
+   :format: html latex
+..
+
+-  Flachlagerung: :math:`{\rightarrow}` Gehirndurchblutung wieder
+   :math:`{\uparrow}`, bewusstseinsklar
+
+-  nach Sekunden gebessert, “regelt sich von selbst”
+
+-  Patient sitzen lassen, Flüssigkeit

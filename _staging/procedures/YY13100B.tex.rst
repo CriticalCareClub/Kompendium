@@ -1,0 +1,22 @@
+[m:standardmassnahmen-vital][topic:standardmassnahmen-vital][proc:YY13100B]
+
+#. 
+#. (): je nach Indikation, allgemeiner Zielwert: Sp von
+
+#. Ggfs. : mit kurzer Begründung
+
+#. : Je nach vorhandenem Material
+
+   RR, HF, Pulsoxymetrie, EKG, Sitzwache/Patientenbeobachtung, etc. [1]_
+
+#. herstellen ()
+
+(Reihenfolge zählt!)
+
+.. [1]
+   Zuerst werden die Patientenbeobachtung und – wenn vorhanden – die
+   Pulsoxymetrie eingesetzt. Überwachungsgeräte, deren Anlage
+   zeitintensiv ist (EKG, …), sollen erst dann verwendet werden, wenn
+   alle dringlicheren Maßnahmen durchgeführt und der Einschätzungsblock
+   beendet ist! Die Patientenbeobachtung bleibt immer ein wesentlicher
+   Teil des Monitorings!

@@ -1,0 +1,39 @@
+.. role:: raw-latex(raw)
+   :format: latex
+..
+
+[m:sauerstoffberieselung] [proc:SY52210A] Bei jedem Patienten, bei dem
+eine lebensbedrohliche Störung einer vitalen Funktion eingetreten ist
+oder einzutreten droht (“Notfallpatient”), soll, sofern keine
+Kontraindiktaionen vorliegen, soviel Sauerstoff verabreicht werden,
+sodass die Sauerstoffsättigung (Sp) im Bereich von erreicht wird.
+
+#. Kontraindikationen und Gegenanzeigen prüfen:
+
+   -  COPD ()
+
+   -  Hyperventilationssyndrom, Hyperventilationstetanie ()
+
+#. Situationsgerechte Dosierung je nach zugrundeliegender Erkrankung.
+   Grundsätzlich soll ein Sp von erreicht werden. Steht keine
+   Pulsoxymetrie zur Verfügung, ist als Richtwert von einer Dosis von
+   auszugehen, welche dem klinischen Zustand des Patienten angepasst
+   werden muss.
+
+#. Auswahl des Hilfsmittels:
+
+   -  -Flow bis 5,
+
+   -  -Flow ab 5,
+
+   -  -Flow ab 5,
+
+#. Patientenaufklärung
+
+#. Sauerstoffgerät einschalten und Durchflußrate einstellen
+
+#. Bei Verwendung einer Sauerstoffmaske mit Reservoir: Reservoir füllen
+
+#. Sauerstoffbrille/-maske positionieren
+
+:raw-latex:`\cite{AsboeLehrmeinungRd2011-09}`

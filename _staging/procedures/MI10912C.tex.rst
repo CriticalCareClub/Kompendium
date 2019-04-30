@@ -1,0 +1,8 @@
+[m:hypertensiver-notfall] :
+
+-  | Lagerung: Oberkörper hoch
+   | Bei Nasenbluten: Kopf nach vorne halten.
+
+-  Beengende Kleidung öffnen
+
+-

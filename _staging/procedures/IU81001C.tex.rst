@@ -1,0 +1,40 @@
+[m:mrsa-transport][proc:IU81001C]
+
+-  Informationen über MRSA-Trägerschaft sowie Art/Ort der
+   MRSA-Besiedelung
+
+-  Patientenvorbereitung und Transport
+
+   -  Wunden müssen verbunden und gut abgedeckt sein
+
+   -  Bei Besiedelung der Atemwege trägt der Patient einen Mund-/
+      Nasenschutz
+
+   -  Vor dem Transport führt der Patient eine hygienische
+      Händedesinfektion durch
+
+-  Allgemeine Hygienemaßnahmen
+
+   -  Einweghandschuhe und Schutzkittel
+
+   -  Nach Ablegen sofortige hygienische Händedesinfektion
+
+      -  Nach Abschluss des Patiententransportes sind alle Materialien,
+         Geräte, Instrumente und Flächen, welche direkten Kontakt mit
+         dem Patienten hatten, gemäß Hygieneplan zu desinfizieren.
+
+      -  Alle waagerechten Oberflächen des Fahrzeuginnenraumes sind mit
+         einem Flächendesinfektionsmittel in Form einer
+         Scheuerwischdesinfektion desinfizierend zu reinigen.
+
+      -  Abschließend führt das Personal eine hygienische
+         Händedesinfektion durch.
+
+      -  An Keimvehikel denken (Kugelschreiber, Haltegriffe, Stethoskop
+         …)!
+
+-  Nach Abschluss der vorangegangenen Hygiene- und
+   Desinfektionsmaßnahmen ist das Fahrzeug wieder einsatzbereit.
+
+Für die anderen Problemkeime gelten sinngemäß die gleichen
+Verfahrensweisen.

@@ -1,0 +1,23 @@
+.. role:: raw-latex(raw)
+   :format: latex
+..
+
+[m:verbrennung-schwer]
+
+-  
+-  Kleidung und Schmuck entfernen (sofern nicht eingeschmolzen!)
+
+-  Besonders auf achten!
+
+-  Luftzug vermeiden
+
+-  
+-  : Sterile, nicht verklebende Wundauflagen, evtl. metalliserte
+   Wundauflagen :raw-latex:`\cite{Helfen2008,RedelsteinerHRNS1}`. Locker
+   anlegen. Bei großflächigen Verbrennungen können, wenn das sterile
+   Material nicht ausreicht, zur Not auch saubere Leintücher o.ä.
+   verwendet werden :raw-latex:`\cite{emergency9,Asanger2010}`.
+
+-  Schockbekämpfung
+
+-

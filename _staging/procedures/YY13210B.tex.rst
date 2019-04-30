@@ -1,0 +1,15 @@
+[m:reanimationsbereitschaft]
+
+#. Ggfs. Platz schaffen [1]_
+
+#. Geräte vorbereiten:
+
+   #. 
+   #. und passenden Katheter in Griffweite stellen. Steriles Material
+      bleibt verpackt.
+
+   #. in Griffweite stellen, Elektroden und Verbrauchsmaterial bleiben
+      verpackt.
+
+.. [1]
+   z.B. im Wohnzimmer den Couchtisch, Hocker etc. zur Seite schieben

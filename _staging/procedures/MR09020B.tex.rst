@@ -1,0 +1,6 @@
+[m:atemstillstand] [proc:MR09020B]
+
+-  Reanimation
+
+Achtung: Bei einem mit Atemstillstand vorgefundenen Patienten ist
+grundsätzlich von einer Reanimation auszugehen.

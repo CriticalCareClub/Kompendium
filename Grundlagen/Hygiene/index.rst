@@ -1114,8 +1114,62 @@ unter !!! FULLPRETTYREFPROCEDURE !!! IU81001C besprochen.
 Nadelstichverletzungen
 ======================
 
+Maßnahmen
+-----------
 
-.. todo:: !!! PROCEDURE !!! IW49091C
+
+.. role:: math(raw)
+   :format: html latex
+..
+
+.. role:: raw-latex(raw)
+   :format: latex
+..
+
+[m:nadelstichverletzung]
+
+Basierend auf :cite:`OeAG2007`
+
+-  Erstmaßnahmen durchführen: 
+
+   -  bei Stich- bzw.Schnittverletzungen: Blutung durch Kompression des
+      umgebenden Gewebes induzieren. Danach desinfizieren und einen in
+      Desinfektionsmittel getränkten Tupfer 10 min auf der Wunde belassen.
+
+   -  bei Spritzern mit Blut oder Sekreten in Auge oder Mund:
+      Schleimhaut mit Wasser u./o. Schleimhautdesinfektionsmittel spülen
+
+-  Leitstelle informieren
+
+-  :math:`{\rightarrow}` Umgehend in ein
+   geeignetes Krankenhaus (Von der Leitstelle erfragen).
+
+-  Patient: Zielspital informieren:
+
+   -  Blut sichern für HIV- und Hepatitis-Serologie
+
+-  Unfallmeldung (wichtig!), Blutabnahme
+
+-  ggf. HIV-Postexpositionsprophylaxe (PEP)
+
+   -  kurzfristige Therapie (4 Wochen)
+
+   -  Einzelfall muss immer individuell beurteilt werden
+      (Nutzen/Risiko), starke Nebenwirkungen.
+
+   -  Muss innerhalb von 2 h begonnen werden :math:`{\rightarrow}` daher *sofort*
+      in ein geeignetes Krankenhaus!
+
+-  Meldung an Betriebsleitung
+
+-  Unfallmeldung an AUVA
+
+.. danger::
+
+-   Unfallmeldung nicht vergessen!
+
+-   Sofort in ein geeignetes Krankenhaus!
+
 
 (Loew 2006)
 

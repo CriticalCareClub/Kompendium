@@ -865,7 +865,56 @@ SAMPLER
    auslösen.
 
 
-.. todo:: !!! PROCEDURE !!! MJ46XX1C
+Maßnahmen
+=========
+
+.. role:: raw-latex(raw)
+   :format: latex
+..
+
+[m:asthmaanfall] 
+
+**Taktik**: Linderung der Atemnot und rasche
+medikamentöse Therapie 
+**Vitale Bedrohung** im Falle
+bleibender schwerer Atemnot bzw. Status asthmaticus
+
+
+-   Lagerung: Oberkörper hoch, abstützen lassen (Unterstützung der Atemhilfsmuskulatur)
+
+-   O2-Gabe gemäß :ref:`m-sauerstoffberieselung`
+
+    Achtung: In seltenen Fällen kann es vorkommen, dass bei hochdosierter
+    Sauerstoffgabe der Patient weniger atmet und Bewusstseinsstörungen
+    auftreten (CO2-Narkose)! Siehe :ref:`Thema-Copd`. Bei sorgfältiger Überwachung des
+    Patienten stellt die -Gabe in der Praxis jedoch kein Problem dar
+    :cite:`ScholzNotfallmedizin2`\ .
+
+    
+    O2 bis eine Sauerstoffsättigung von 94-98% erreicht ist, oder 8 L / min. 
+    Die einschlägige Literatur ist widersprüchlich. 
+    Besonderes betont muss die Notwendigkeit zur Überwachung des Patienten 
+    bezüglich Bewusstseinsstörungen und Atmung werden!
+
+-   Beruhigen, voratmen, durch fast geschlossene Lippen ausatmen lassen
+    (Lippenbremse)
+
+-   Sprays, die Patient evtl. bei sich hat, dürfen nicht mehr genommen
+    werden. 
+
+    Oft stellt sich die
+    Frage \enquote{Darf der Patient seinen (vom Arzt vielleicht gerade für
+    diese Situation verschriebenen) Spray nehmen?}
+    Grundsätzlich soll beim schweren Asthma-Anfall davon
+    abgesehen werden, \enquote{blind} ein inhalatives Beta-Mimetikum
+    zu geben, das zweifelhaft ist, ob die Luftpassage
+    ausreicht, umd den Wirkstoff in die Lunge zu befördern.
+    Eine generelle Freigabe, verschriebene Sprpays einzunehmen,
+    kann in Anbetracht der Nebenwirkungen bei
+    Schleimhautresorption nicht gegeben werden.
+
+-   INhalative Beta-Mimetika sind häufig Teil einer Arzneimittellieste gem. SanG.
+
 
 
 .. _thema-copd:

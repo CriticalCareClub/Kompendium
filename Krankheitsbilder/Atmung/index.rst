@@ -314,6 +314,23 @@ Anm.: AF <8 oder >30 / min, bzw. AZV zu niedrig
 -   Ursachenforschung
 
 
+Atemstillstand
+---------------
+
+[m:atemstillstand] [proc:MR09020B]
+
+-  Reanimation
+
+Bei einem mit Atemstillstand vorgefundenen Patienten ist
+grundsätzlich von einer Reanimation auszugehen.
+
+Nur in sehr seltenen Fällen kann primär ein isolierter
+Atemstillstand ohne gleichzeitigem Kreislaufstillstand
+beobachtet werden. Auf diese Spezialfälle (z.\,B.
+Opiatintoxikation) wird hier nicht weiter eingegangen. Auch
+der iatrogene Atemstillstand (z.\,B. im Rahmen einer Narkose) wird an dieser Stelle nicht
+behandelt.
+
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 | **Kriterium**       | **Befund**                                          | **Beschreibung**                                                     |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+

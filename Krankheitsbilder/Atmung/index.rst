@@ -297,6 +297,23 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
 .. index::
    single: Atmung, paradoxe
 
+Maßnahmen
+=========
+
+Insuffiziente Atmung
+--------------------
+
+[m:atmung-insuffizient] [proc:MJ96091C] 
+
+Anm.: AF <8 oder >30 / min, bzw. AZV zu niedrig
+
+**Vitale Bedrohung!**
+
+-   |TxMassVitMK|
+-   Assistierte Beatmung
+-   Ursachenforschung
+
+
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 | **Kriterium**       | **Befund**                                          | **Beschreibung**                                                     |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
@@ -340,8 +357,6 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 |                     |  Kapnometrie                                        |  CO₂-Messung                                                         |    |
 +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-
-.. todo:: !!! PROCEDURE !!! MJ96091C
 
 .. todo:: !!! PROCEDURE !!! MR09020B
 

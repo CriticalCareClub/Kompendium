@@ -584,7 +584,72 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
 
     [WmCo, PD]
 
-.. todo:: !!! PROCEDURE !!! MT17091C
+Maßnamen 
+========
+
+.. role:: raw-latex(raw)
+   :format: latex
+..
+
+[m:atemwegsverlegung] 
+
+Taktik:
+
+-   Schwer: **Vitale Bedrohung! Zeitkritisch**; wenn möglich rasche Entfernung des Fremdkörpers.
+
+-   Mild: Symptomatische Therapie.
+
+
+
+-   Atemwege soweit möglich freimachen
+
+-   O2-Gabe hochdosiert (10-15 L / min)
+
+-   Lagerung: Situationsgerecht, z.B. Oberkörper erhöht
+
+-   |TxBeiVit| |TxMassVitMK|
+
+-   Weitere Maßnahmen abhängig von der Beurteilung der Schwere der
+    Atemwegsverlegung:
+
+.. todo:: Tablle
+
+    | XXX
+
+    Kann nicht sprechen
+
+    Hustet ineffektiv & &
+
+    Kann sprechen
+
+    | Hustet effektiv
+    | (lr)1-2(lr)3-3 & &
+
+    Ohne Bewusstsein
+
+    Bei Bewusstsein
+
+    Bei Bewusstsein
+
+    | (lr)1-1(lr)2-2(lr)3-3Reanimation & 5 Schläge zwischen Schulterblätter
+
+    5 Heimlich-Manöver (>1 a) oder Thoraxkompressionen (<1 a)
+
+    Wiederholung & Husten lassen
+
+    Überwachung
+
+    | Keine weitere Manipulation
+
+    Bei Schlägen zwischen die Schulterblätter soll der Patient nach
+    Möglichkeit abwärts schauen (besonders relevant bei Kindern).
+
+    Durch Anwendung des Heimlich-Handgriffes kann es zu schweren inneren
+    Verletzungen kommen. Ein Patient ist nach Anwendung unbedingt zu
+    hospitalisieren!
+
+:cite:`Erc2005DeSec2`
+
 
 .. todo:: (Wuttig 2009)
 

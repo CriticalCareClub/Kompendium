@@ -1330,7 +1330,28 @@ SAMPLER: Lungenembolie
     Immobilisation, Vorhofflimmern, vorangegange Thrombose oder Embolie,
     Schwangerschaft, Rauchen, Verhütungspille
 
-.. todo:: !!! PROCEDURE !!! MI26XX0C
+.. _m-lungenembolie:
+
+Maßnahmen Lungenembolie
+=======================
+
+
+.. todo:: 
+
+    Maßnahmen COPD: Anpassung an höherqualifiziertes Personal
+
+
+Taktik: **Vitale Bedrohung!** 
+Atemnot lindern, rasche medikamentöse Therapie, ärztliche Therapie sinnvoll
+
+-  |TxMassVitMKBes|
+
+   -  Lagerung: Oberkörper hoch
+
+-  Striktes Bewegungsverbot!
+
+-  Beengende Kleidung öffnen
+
 
 **********
 Lungenödem

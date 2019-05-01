@@ -1147,7 +1147,34 @@ SAMPLER: COPD
     Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
     “Karriere” hinter sich. Hirtler 
 
-.. todo:: !!! PROCEDURE !!! MJ44190C
+.. _m-copd-exzerbation:
+
+Maßnahmen COPD
+==============
+
+.. todo:: 
+
+    Maßnahmen COPD: Anpassung an höherqualifiziertes Personal
+
+Taktik: Linderung der Atemnot und rasche
+medikamentöse Therapie 
+**Vitale Bedrohung** bei anhaltender schwerer Atemnot!
+-  |TxBeiVit| |TxMassVitMK|
+-  O2-Gabe:
+  
+  Sauerstoff vorsichtig dosieren,
+  anfänglich nur 2-3 L / min. 
+  Wenn der Patient bereits Heimsauerstoff benutzt, 
+  1-2 L / min höher zu dosieren.   
+  Heimsauerstoff soll jedenfalls weiter gegeben werden!
+  
+  Atmung und Bewusstsein müssen bei der O2-Gabe besonders
+  sorgfältig überwacht werden!}  
+-  Lagerung: Oberkörper hoch
+
+-  Voratmen, *Lippenbremse*
+
+
 
 (Knacke and Saur 2006)
 

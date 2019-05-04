@@ -131,17 +131,7 @@ und Husten nicht möglich) .
       es zu schweren inneren Verletzungen kommen (Magen, Leber, ...),
       die Anwendung ist daher auf bedrohliche Situationen beschränkt.
 
-****
-COPD
-****
 
-******************
-Status Asthmaticus
-******************
-
-***************
-Pulmonalembolie
-***************
 
 **********
 Lungenödem
@@ -925,6 +915,22 @@ Chronische Bronchitis und COPD
 
 (Renz-Polster, Krautzig, and Braun 2006)
 
+.. sidebar:: COPD
+
+    -   Husten mit Auswurf, anfänglich “Raucherhusten”
+    -   Voranschreitende, sich verschlechternde *Ateminsuffizienz*:
+    -   Belastungsdyspnoe (bei schwererer COPD auch in Ruhe)
+    -   Ausatmung (Exspiration) erschwert
+    -   Brummendes, pfeifendes od. giemendes Ausatemgeräusch
+    -   Evtl. chronische Zyanose
+    -   Evtl. Heimsauerstoff
+    -   SpO2 chronisch niedrig
+    -   Exazerbation:
+
+        -   Plötzliche Verschlechterungen
+        -   Meist Infekt-bedingt
+        -   Vermehrte Atemnot, Husten und Auswurf
+
 Beschreibung: COPD
 ==================
 
@@ -944,7 +950,7 @@ dabei zu einer gesteigerten Entzündungsantwort auf eingeatmete Stoffe
 Lungenfunktionsuntersuchung eine Atmungsseinschränkung nachweisen kann,
 spricht man von der chronisch-obstruktiven Lungenerkrankung (COPD).
 Diese geht mit bleibenden Veränderungen der unteren Atemwege einher,
-diese sind in der Grafik [Figure-copd-veraenderungen] dargestellt.
+diese sind in der Grafik :ref:`Figure-copd-veraenderungen` dargestellt.
 
 Durch die erschwerte Ausatmung kommt es zu einer chronischen
 Überblähung der Lungenbläschen und zu einer “Faß-förmigen” Verformung
@@ -952,40 +958,31 @@ des Brustkorbes. Im Endstadium zeigen sich Zeichen einer
 Rechtsherzinsuffizienz (:ref:`Thema-rechtsherzinsuffizienz`) aufgrund einer
 Störung im Lungenkreislauf.
 
-Exazerbationen
-              
+Exazerbation
+==============
 
 Kommt zu der ohnehin schweren Grunderkrankung noch ein erschwerender
 Faktor hinzu, z.B. eine Infektion der Atemwege, kann es zu einer
 plötzlichen Verschlechterung kommen, zur *Exazerbation*. Diese ist meist
 durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
 
--  Husten mit Auswurf, anfänglich “Raucherhusten”
-
--  Voranschreitende, sich verschlechternde *Ateminsuffizienz*:
-
-   -  Belastungsdyspnoe (bei schwererer COPD auch in Ruhe)
-
-   -  Ausatmung (Exspiration) erschwert
-
-   -  Brummendes, pfeifendes od. giemendes Ausatemgeräusch
-
-   -  Evtl. chronische Zyanose
-
-   -  Evtl. Heimsauerstoff
-
-   -  SpO2 chronisch niedrig
-
--  Exazerbation:
-
-   -  Plötzliche Verschlechterungen
-
-   -  Meist Infekt-bedingt
-
-   -  Vermehrte Atemnot, Husten und Auswurf
 
 Probleme mit Sauerstoff bei COPD-Patienten
 ==========================================
+
+.. sidebar:: COPD und O2
+
+    -   Atemantrieb normalerweise durch *CO₂*-Spiegel
+
+    -   COPD: CO₂-Spiegel dauerhaft erhöht →
+        Gewöhnungseffekt → Atemantrieb gemäß O2-Spiegel
+
+    -   Problem bei Sauerstoffgabe: Verminderter Atemantrieb
+
+    -   Verminderte CO₂-Abatmung → Bewusstseinsstörungen
+
+    -   Extremfall: Atemstillstand
+
 
 Beim gesunden Menschen ist der *Atemantrieb* vom *CO₂-Gehalt* des Blutes
 abhängig: Je höher der CO₂-Gehalt, desto stärker der Atemantrieb. Bei
@@ -1003,17 +1000,6 @@ CO₂-Gehalt im Blut steigt weiter an und es kommt dadurch zu
 *Bewusstseinsstörungen* (CO₂-Narkose). Im Extremfall kann es auch zu
 einem Atemstillstand kommen.
 
--  Atemantrieb normalerweise durch *CO₂*-Spiegel
-
--  COPD: CO₂-Spiegel dauerhaft erhöht →
-   Gewöhnungseffekt → Atemantrieb gemäß O2-Spiegel
-
--  Problem bei Sauerstoffgabe: Verminderter Atemantrieb
-
-   -  Verminderte CO₂-Abatmung → Bewusstseinsstörungen
-
-   -  Extremfall: Atemstillstand
-
 **Bewusstseinsstörungen bei übermäßiger Sauerstoffgabe möglich!**
 
 -  Bei COPD-Patienten kann es bei Sauerstoffgabe zu
@@ -1024,38 +1010,74 @@ einem Atemstillstand kommen.
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Alveolen-Bronchus-COPD-edited2.*
 
-    Veränderung der Atemwege bei der COPD. *Links:* Schema eines
-    gesunden Bronchus und einer gesunden Alveole. *Oben rechts:* Bei
-    der COPD sind die kleinen Luftwege verschleimt und verengt. *Unten
+    Veränderung der Atemwege bei der COPD
+
+    *Links:* Schema eines
+    gesunden Bronchus und einer gesunden Alveole. 
+    *Oben rechts:* Bei
+    der COPD sind die kleinen Luftwege verschleimt und verengt. 
+    *Unten
     rechts:* Die Lungenbläschen (Alveolen) sind überbläht, weil die
     Luft nur erschwert wieder entweichen
     kann. 
 
     [Hirtler]
 
-ABCDE: COPD
-===========
+1234ABCDE: COPD
+===============
 
- 
 
-**1**
+.. sidebar:: 1234ABCDE
+
+    ``1``
+        Kalte Umgebung
+
+    ``2``
+        Atemhilfsmuskulatur, Anstrengung beim Atmen, ängstlich
+
+    ``3``
+        Evtl. **|symbol-RedFlag|**\ Bewusstseinsstörungen
+
+    ``4``
+        Atemnot
+
+    ``A``
+        Siehe ``B``
+
+    ``B``
+        Atemnot! Ausatmung erschwert, Husten Tachypnoe, |symbol-RedFlag|\  Zyanose;
+
+        Brummendes, pfeifendes Atemgeräusch
+
+        SpO2 chronisch niedrig (:math:`\sim`\ 90%): Normalwert gilt nicht!
+
+    ``C``
+        HF :math:`\uparrow`, RR :math:`\uparrow`
+
+    ``=``
+        Vitale Bedrohung bei schwerer Atemnot und Bewusstseinsstörungen
+
+    ``…``
+        Evtl. erhöhte Körpertemperatur
+
+``1`` Szene
     Evtl. kalte Umgebung (kalte Luft führt zur Verengung der Bronchien)
 
-**2**
+``2`` Ersteindruck
     Einsatz der Atemhilfsmuskulatur, Mühe beim Atmen, evtl.
     Heimsauerstoff, oft wirkt der Patient ängstlich.
 
-**3**
-    Bei schweren Anfällen kann es aufgrund der Hypoxie zu **!!! REDFLAG
-    !!!**\ *Bewusstseinsstörungen* kommen.
+``3`` Bewusstsein
+    Bei schweren Anfällen kann es aufgrund der Hypoxie zu 
+    |symbol-RedFlag|\ **Bewusstseinsstörungen** kommen.
 
-**4**
+``4`` Hauptbeschwerde
     Atemnot
 
-**A**
-    Siehe **B**
+``A`` Atemweg
+    Siehe ``B``
 
-**B**
+``B`` Atmung
     Je nach Schweregrad kommt es zu Zeichen einer Atemwegsverlegung der
     *unteren* Atemwege (Obstruktion, durch Verengung der Bronchien und
     Schleimproduktion) und Ateminsuffizienz:
@@ -1076,76 +1098,52 @@ ABCDE: COPD
     kann es zu |symbol-RedFlag|\  *Bewusstseinsstörungen kommen*
     (*CO₂-Narkose*)!
 
-**C**
+``C`` Kreislauf
     Evtl. tachkard und hyperton
 
-**=**
+``=`` Beurteilung
     Bei |symbol-RedFlag|\  schwerer Atemnot oder
     |symbol-RedFlag|\  Bewusstseinsstörungen vitale Bedrohung.
 
-**…**
+``…`` Sonstiges
     Als Nebenbefund können Infektzeichen vorliegen (erhöhte
     Körpertemperatur).
 
-**1**
-    Kalte Umgebung
-
-**2**
-    Atemhilfsmuskulatur, Anstrengung beim Atmen, ängstlich
-
-**3**
-    Evtl. **|symbol-RedFlag|**\ Bewusstseinsstörungen
-
-**4**
-    Atemnot
-
-**A**
-    Siehe **B**
-
-**B**
-    Atemnot! Ausatmung erschwert, Husten Tachypnoe, |symbol-RedFlag|\  Zyanose;
-
-    Brummendes, pfeifendes Atemgeräusch
-
-    SpO2 chronisch niedrig (:math:`\sim`\ 90%): Normalwert gilt nicht!
-
-**C**
-    HF :math:`\uparrow`, RR :math:`\uparrow`
-
-**=**
-    Vitale Bedrohung bei schwerer Atemnot und Bewusstseinsstörungen
-
-**…**
-    Evtl. erhöhte Körpertemperatur
 
 SAMPLER: COPD
 =============
 
-**M**
+.. sidebar:: SAMPLER
+
+    ``M`` 
+        Inhalatoren, evtl. Heimsauerstoff.
+
+    ``P``
+        COPD vorbekannt
+
+    ``L``
+        Letzte Spray-Einnahme?
+
+``M`` Medikation
     Inhalatoren bzw. Sprays zur Dauer- und Akuttherapie, Heimsauerstoff.
     Häufig Kortisonpräparate; bei vorbekanntem Infekt wurden oft schon
     Antibiotika verschrieben.
 
-**P**
+``P`` Krankengeschichte
     Eine COPD ist normalerweise vorbekannt.
 
-**L**
-    Letzte Spray-Einnahme?
-
-**M**
-    Inhalatoren, evtl. Heimsauerstoff.
-
-**P**
-    COPD vorbekannt
-
-**L**
+``L`` Letztes
     Letzte Spray-Einnahme?
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/COPD-Stufen_edited.*
 
+    Entwicklung einer COPD-Erkrankung
+
     Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
-    “Karriere” hinter sich. Hirtler 
+    “Karriere” hinter sich.
+
+    [Lena Hirtler, MfG]
 
 .. _m-copd-exzerbation:
 

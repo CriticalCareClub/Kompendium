@@ -206,10 +206,31 @@ Es entsteht eine *Lungenembolie*.
 
     Bilderserie: Thrombose
 
+.. _Proc-MI74042C:
+
+********************************************************
+Maßnahmen: Tiefe Beimvenenthrombose 
+********************************************************
 
 
 
-.. todo:: !!! PROCEDURE !!! MI74042C
+.. todo:: 
+
+    Maßnahmen TVT: Anpassung an höherqualifiziertes Personal
+
+
+
+Basismaßnahmen
+    -   Lagerung: liegend, betroffenes Bein hochlagern
+    -   Bewegungsverbot (Emboliegefahr!)
+    -   Auf Zeichen einer Lungenembolie achten (:ref:`Thema-Lungenembolie`)
+
+Pharmakotherapie
+    -   Antikoagulation
+        -   Nieder-molekulares Heparin (LMWH), 
+            z. B.: **Enoxaparin** (Lovenox™) 1 mg / kg KG 2 ⨉ tgl. s. c.
+
+            Anti-Xa-Spiegelkontrolle!
 
 (Renz-Polster, Krautzig, and Braun 2006; Siewert 2006; Scholz et al.
 2008; Swaminatha V and Garmel 2008; Longmore et al. 2007; Fauci et al.

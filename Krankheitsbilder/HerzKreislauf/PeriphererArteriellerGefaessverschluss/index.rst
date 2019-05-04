@@ -141,4 +141,31 @@ empfinden (*"Ameisenlaufen"*). [244]_ (Lähmung).
    (pulslos), Paresthesia (gefühllos), Paralysis
 
 
-.. todo:: !!! PROCEDURE !!! MI74041C
+.. _m-arterieller-gefaessverschluss:
+.. _Proc-MI74041C:
+
+**************************************************
+Maßnahmen: peripherer arterieller Gefäßverschluss
+**************************************************
+
+.. todo:: 
+
+    Maßnahmen art. Gefäßverschluss: Anpassung an höherqualifiziertes Personal
+
+
+Taktik
+    Symptomatische Therapie und zügiger Transport an geeignete Einrichtung
+
+Basismaßnahmen
+    -   Lagerung: Extremität hängen lassen, weich und warm lagern
+    -   Schonend transportieren
+    -   Nüchtern lassen
+    -   Zieleinheit: Abteilung für Chirurgie (Gefäßchirurgie)
+
+Pharmakotherapie
+    -   Flüssikeitssubstitution, Vollelektrolytlösung 
+        (Herabsetzung der Blutviskosität)
+    -   Schmerztherapie
+    -   Erwäge intraarterielle Lidocain-Injektion
+        (bei Gefäßverschluss in der Endstrombahn, nur im Einzelfall)
+    -   Antikoagulation oder Lyse nur nach Rüsprache mit Chirurgen oder Interventionalisten.

@@ -1154,23 +1154,66 @@ Maßnahmen COPD
 
     Maßnahmen COPD: Anpassung an höherqualifiziertes Personal
 
-Taktik: Linderung der Atemnot und rasche
-medikamentöse Therapie 
-**Vitale Bedrohung** bei anhaltender schwerer Atemnot!
--  |TxBeiVit| |TxMassVitMK|
--  O2-Gabe:
-  
-  Sauerstoff vorsichtig dosieren,
-  anfänglich nur 2-3 L / min. 
-  Wenn der Patient bereits Heimsauerstoff benutzt, 
-  1-2 L / min höher zu dosieren.   
-  Heimsauerstoff soll jedenfalls weiter gegeben werden!
-  
-  Atmung und Bewusstsein müssen bei der O2-Gabe besonders
-  sorgfältig überwacht werden!}  
--  Lagerung: Oberkörper hoch
+Taktik
+    Linderung der Atemnot und rasche medikamentöse Therapie
 
--  Voratmen, *Lippenbremse*
+    **Vitale Bedrohung** bei anhaltender schwerer Atemnot!
+
+Basismaßnahmen
+    -   |TxBeiVit| |TxMassVitMK|
+    -   O2-Gabe:
+        Gefahr der CO2-NArkose durch Hemmung des Atemantriebes!
+
+        Sauerstoff vorsichtig dosieren,
+        anfänglich nur 2-3 L / min, weiter je nach SpO2 oder BGA.
+        Wenn der Patient bereits Heimsauerstoff benutzt,
+        1-2 L / min höher dosieren.
+        Heimsauerstoff soll jedenfalls weiter gegeben werden!
+
+        *Atmung und Bewusstsein müssen bei der O2-Gabe besonders
+        sorgfältig überwacht werden!*
+    -   Lagerung: Oberkörper hoch
+    -   Voratmen, *Lippenbremse*
+
+Medikamentöse Therapieoptionen
+    -   **Beta-Mimetikum inhalativ**
+        -   *Salbutamol* (Combivent™)
+        -   *Berodual™* (Fenoterol kombiniert mit Ipratropiumbromid)
+    -   Anxiolyse und leichte Sedierung mit Morphin (Vendal™)
+
+        1 Amp. Vendal™ auf 10 mL verdünnen (1 mg / mL);
+        Start mit 2 mg, mg-weise titrieren.
+        Cave Atemdepression!
+    -   **Kortikoid i. v.**: eher mittelfristige Therapie
+        -   *Prednisolon* 25—100 mg i. v.
+    -   **Kortikoid inhalativ**: eher mittelfristige Therapie
+    -   **Beta-Mimetikum i. v.**: wenn therapierefraktär
+
+        Cave Tachykardie!
+
+        *Terbutalin* (Bricanyl™) 0,500 mg (1. Amp.) auf 10 mL verdünnen,
+        mL-weise (0,050 mg) i. v. nach Klinik *titrieren*
+
+        Alternativ *s. c.-Gabe* möglich: 0,250—0,500 mg s. c.
+    -   *Theophyllin* i. v.: eher nicht empfehlenswert,
+        bei Theophyllin-Dauertherapie erst Spiegelbestimmung
+
+Beatmungstherapie
+    -   Option: **CPAP**\ -Therapie
+        Voraussetzung: Kooperativer Patient,
+        evtl. leichte Sedierung mit Morphin erwägen.
+    -   Intubation und kontrollierte Beatmung mit erhöhtem PEEP (10 mbar)
+        als Ultima ratio falls trotz Therapie respiratorische Insuffizeinz bestehen bleibt.
+        Entwöhnung kann extrem schwierig sein!
+
+Palliative Therapie
+    -   COPD ist eine chronische, oft mit viel Leid verbundene, Erkrankung.
+        Es ist möglich, dass der Patient bereits im Vorfeld
+        Therapieentscheidungen getroffen hat,
+        bzw. das Stadium oder der Fortschritt der Erkrankung
+        die Indikation zur palliativen Therpiestrategie stellt.
+        Einzelfallentscheidung!
+
 
 
 

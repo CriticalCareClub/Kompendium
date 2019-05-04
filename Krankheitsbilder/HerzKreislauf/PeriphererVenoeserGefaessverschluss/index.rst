@@ -227,6 +227,7 @@ Basismaßnahmen
 
 Pharmakotherapie
     -   Antikoagulation
+    
         -   Nieder-molekulares Heparin (LMWH), 
             z. B.: **Enoxaparin** (Lovenox™) 1 mg / kg KG 2 ⨉ tgl. s. c.
 

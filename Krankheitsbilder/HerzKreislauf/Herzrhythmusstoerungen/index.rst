@@ -365,13 +365,11 @@ akut lebensbedrohlichen Situation kommen. [242]_
    Herzstillstand gleich. (Renz-Polster and Krautzig 2008)
 
 .. _proc-MR47091C:
-[m:tachykarde-attacke] 
+.. _m-tachykarde-attacke:
 
 
 Maßnahmen: Hämodynamisch wirksame Tachykardie
 ======================================================
-
-
 
 .. todo:: 
 
@@ -381,26 +379,24 @@ Maßnahmen: Hämodynamisch wirksame Tachykardie
     -   Angleichung an ERC-Leitlinien
     -   Unterscheidung Schmal-/ Breitkomplextachykardie
 
-
-
 Taktik
     **Vitale Bedrohung!** Ärztliche Therapie sinnvoll.
 
 Basismaßnahmen
--   Lagerung: Lagerung: \EE{Oberkörper hoch}
--   Striktes Bewegungsverbot!
--   Beengende Kleidung öffnen
--   O2-Gabe gemäß :ref:`M-sauerstoffberieselung`
--   |TxBeiVit| |TxMassVitMKBes|
+    -   Lagerung: Lagerung: \EE{Oberkörper hoch}
+    -   Striktes Bewegungsverbot!
+    -   Beengende Kleidung öffnen
+    -   O2-Gabe gemäß :ref:`M-sauerstoffberieselung`
+    -   |TxBeiVit| |TxMassVitMKBes|
 
-    -   Notarzt: Eine medikamentöse Therapie ist meistens erforderlich.
+        -   Notarzt: Eine medikamentöse Therapie ist meistens erforderlich.
 
--   Psychische Betreuung! Oase der Ruhe schaffen.
--   Wenn der Patient versorgt ist (d.h. alle obigen Punkte erfüllt
-    wurden) soll – wenn möglich – ein *EKG* (Extremitätenableitung, )
-    abgeleitet werden. Der Ausdruck dient v.a. der Dokumentation und der Information
-    für das nachbehandelnde Personal (Notarzt, Spital, Facharzt, …).
--   Valsalva-Versuch
+    -   Psychische Betreuung! Oase der Ruhe schaffen.
+    -   Wenn der Patient versorgt ist (d.h. alle obigen Punkte erfüllt
+        wurden) soll – wenn möglich – ein *EKG* (Extremitätenableitung, )
+        abgeleitet werden. Der Ausdruck dient v.a. der Dokumentation und der Information
+        für das nachbehandelnde Personal (Notarzt, Spital, Facharzt, …).
+    -   Valsalva-Versuch
 
 Pharmakotherapie
     -   Ursachenabhängig!
@@ -424,7 +420,7 @@ Pharmakotherapie
         CAVE: Aufgrund der akzessorischen Leitungsbahn keine Blockade der AV-Bahn, Fibrillationsgefahr!
 
         -   Ajmalin (Gilurytmal™) i. v.
-        
+
     -   Schmalkomplextachykardie: 
         Versuch der Unterbrechung des Re-Entry-Zyklus durch kurzfristige Blocakde des AV-Knotens
 

@@ -1166,9 +1166,9 @@ Basierend auf :cite:`OeAG2007`
 
 .. danger::
 
--   Unfallmeldung nicht vergessen!
+    -   Unfallmeldung nicht vergessen!
 
--   Sofort in ein geeignetes Krankenhaus!
+    -   Sofort in ein geeignetes Krankenhaus!
 
 
 (Loew 2006)

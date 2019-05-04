@@ -104,15 +104,13 @@ Maßnahmen: Vergewaltigung
 Basismaßnahmen
 -   Ruhig und sachlich bleiben
 -   Polizei verständigen
--   Ermöglichung von polizeilichen Ermittlungen unter Schonung des Opfers
-    (“vermitteln”)
--   Besonders wichtig: Ausführliche sachliche Erklärung aller
-    durchzuführenden Maßnahmen
+-   Ermöglichung von polizeilichen Ermittlungen unter Schonung des Opfers ("vermitteln")
+-   Besonders wichtig: Ausführliche sachliche Erklärung aller durchzuführenden Maßnahmen
 -   Symptomatische Betreuung von Begleitverletzungen
 -   Keine nicht unbedingt notwendigen Untersuchungen
 -   Gynäkologische Untersuchungen erst innerklinisch durch einan Fachmann mit Set zur Beweissicherung
 -   Zieleinheit: Abt. f. Gynäkologie
--   weiterfürhende psychologische Betreuung
+-   weiterführende psychologische Betreuung
 
 
 Sexueller Missbrauch

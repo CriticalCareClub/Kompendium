@@ -242,8 +242,10 @@ Basismaßnahmen
 Pharmakotherapie
     -   Nitrate
     -   Diuretika
-        -   Furosemid (Lasix™, Furon™): 40—80 mg i. v., 
+
+        -   Furosemid (Lasix™, Furon™): 40—80 mg i. v.,
             weiter je nach ansprechen
+            
     -   Klinisch: Erwäge Kalziumsensitzer (Levosimedan (Simdax™), Expertenrat)
 
 Beatmungstherapie

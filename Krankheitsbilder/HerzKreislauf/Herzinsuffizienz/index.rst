@@ -208,5 +208,32 @@ SAMPLER
 ``R``
     Ungewohnte Belastung: Infekte, Erkrankungen, Blutdruckanstieg
 
-.. todo:: !!! PROCEDURE !!! MI50090C
+.. _proc-MI50090C:
+.. _m-herzinsuffizienz:
 
+***********************************************
+Maßnahmen: Akute dekompensierte Herzinsuffizenz
+***********************************************
+
+
+
+.. todo:: 
+
+    Herzinsuffizienz Maßnahmen: Anpassung an höherqualifiziertes Personal
+
+
+
+-   Bewegungsverbot
+-   Lagerung: Oberkörper hoch
+-   Beengende Kleidung öffnen
+-   Vitale Bedrohung beurteilen. |TxBeiVit| |TxMassVitMK|
+-   O₂-Gabe gemäß :ref:`m-sauerstoffberieselung`
+-   Ursachenforschung
+
+Patienten mit Herzinsuffizienz und 1234ABCDE-Problem oder Lungenödem mit
+brodelndem Atemgeräusch sind grundsätzlich notarztpflichtig.
+
+Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor
+Ort Vorrang.
+
+Bereits der Transport in das Fahrzeug kann gefährlich sein!

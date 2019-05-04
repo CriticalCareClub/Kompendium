@@ -1,0 +1,20 @@
+:orphan:
+
+.. role:: math(raw)
+   :format: html latex
+..
+
+[m:bauchtraume-offen] :
+
+-  
+
+   -  : Bauchdecke entspannen , Knierolle
+
+-  Darmteile nicht zurückstopfen :math:`{\rightarrow}` sonst
+   Darmriß/Darmverschluß
+
+-  Steril abdecken, mit Ringerlösung feucht halten
+
+   -  Gefahr des Eindringens von Keimen (Peritonitis/Sepsis!)
+
+-  : Schockraum

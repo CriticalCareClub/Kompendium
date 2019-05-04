@@ -1,0 +1,24 @@
+:orphan:
+
+.. role:: raw-latex(raw)
+   :format: latex
+..
+
+[m:verbrennung-leicht]
+
+-  Selbstschutz!
+
+-  Kleiderbrand löschen
+
+-  Vitale Bedrohung einschätzen.
+
+-  Kleidung und Schmuck entfernen (sofern nicht eingeschmolzen!)
+
+-  Nur wenn damit begonnen werden kann, für max. 10 mit handwarmen
+   Wasser die betroffenen Körperregionen spülen;
+
+-  : Sterile, nicht verklebende Wundauflagen; evtl. metalliserte
+   Wundauflagen :raw-latex:`\cite{Helfen2008,RedelsteinerHRNS1}`; locker
+   anlegen
+
+-  Ggfs. Schockbekämpfung

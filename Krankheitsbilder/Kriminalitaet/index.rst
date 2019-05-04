@@ -90,7 +90,28 @@ anhalten zu können”* bzw. *“einen Plan zu haben”*. Dementsprechend
 wichtig ist auch die Information über alle zu setzenden Maßnahmen und
 das weitere Procedere (sofern absehbar).
 
-.. todo:: !!! PROCEDURE !!! MT74021C
+.. _m-vergewaltigung:
+.. _Proc-MT74021C:
+
+Maßnahmen: Vergewaltigung
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: 
+
+    Maßnahmen Vergewaltigung: Anpassung an höherqualifiziertes Personal
+
+
+Basismaßnahmen
+-   Ruhig und sachlich bleiben
+-   Polizei verständigen
+-   Ermöglichung von polizeilichen Ermittlungen unter Schonung des Opfers ("vermitteln")
+-   Besonders wichtig: Ausführliche sachliche Erklärung aller durchzuführenden Maßnahmen
+-   Symptomatische Betreuung von Begleitverletzungen
+-   Keine nicht unbedingt notwendigen Untersuchungen
+-   Gynäkologische Untersuchungen erst innerklinisch durch einan Fachmann mit Set zur Beweissicherung
+-   Zieleinheit: Abt. f. Gynäkologie
+-   weiterführende psychologische Betreuung
+
 
 Sexueller Missbrauch
 --------------------

@@ -467,8 +467,52 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
     Nährmedien können Bakterien zu diagnostischen Zwecken gezüchtet werden.
     Ebenso kann man die Wirkung von Antibiotika auf den Keim untersuchen.
 
+Maßnahmen
+---------
 
-.. todo:: !!! PROCEDURE !!! IU81001C
+[m:mrsa-transport][proc:IU81001C]
+
+-  Informationen über MRSA-Trägerschaft sowie Art/Ort der
+   MRSA-Besiedelung
+
+-  Patientenvorbereitung und Transport
+
+   -  Wunden müssen verbunden und gut abgedeckt sein
+
+   -  Bei Besiedelung der Atemwege trägt der Patient einen Mund-/
+      Nasenschutz
+
+   -  Vor dem Transport führt der Patient eine hygienische
+      Händedesinfektion durch
+
+-  Allgemeine Hygienemaßnahmen
+
+   -  Einweghandschuhe und Schutzkittel
+
+   -  Nach Ablegen sofortige hygienische Händedesinfektion
+
+      -  Nach Abschluss des Patiententransportes sind alle Materialien,
+         Geräte, Instrumente und Flächen, welche direkten Kontakt mit
+         dem Patienten hatten, gemäß Hygieneplan zu desinfizieren.
+
+      -  Alle waagerechten Oberflächen des Fahrzeuginnenraumes sind mit
+         einem Flächendesinfektionsmittel in Form einer
+         Scheuerwischdesinfektion desinfizierend zu reinigen.
+
+      -  Abschließend führt das Personal eine hygienische
+         Händedesinfektion durch.
+
+      -  An Keimvehikel denken (Kugelschreiber, Haltegriffe, Stethoskop
+         …)!
+
+-  Nach Abschluss der vorangegangenen Hygiene- und
+   Desinfektionsmaßnahmen ist das Fahrzeug wieder einsatzbereit.
+
+Für die anderen Problemkeime gelten sinngemäß die gleichen
+Verfahrensweisen.
+
+
+
 
 ********************************************
 Reinigung und hygienische Wiederaufbereitung
@@ -1070,8 +1114,62 @@ unter !!! FULLPRETTYREFPROCEDURE !!! IU81001C besprochen.
 Nadelstichverletzungen
 ======================
 
+Maßnahmen
+-----------
 
-.. todo:: !!! PROCEDURE !!! IW49091C
+
+.. role:: math(raw)
+   :format: html latex
+..
+
+.. role:: raw-latex(raw)
+   :format: latex
+..
+
+[m:nadelstichverletzung]
+
+Basierend auf :cite:`OeAG2007`
+
+-  Erstmaßnahmen durchführen: 
+
+   -  bei Stich- bzw.Schnittverletzungen: Blutung durch Kompression des
+      umgebenden Gewebes induzieren. Danach desinfizieren und einen in
+      Desinfektionsmittel getränkten Tupfer 10 min auf der Wunde belassen.
+
+   -  bei Spritzern mit Blut oder Sekreten in Auge oder Mund:
+      Schleimhaut mit Wasser u./o. Schleimhautdesinfektionsmittel spülen
+
+-  Leitstelle informieren
+
+-  :math:`{\rightarrow}` Umgehend in ein
+   geeignetes Krankenhaus (Von der Leitstelle erfragen).
+
+-  Patient: Zielspital informieren:
+
+   -  Blut sichern für HIV- und Hepatitis-Serologie
+
+-  Unfallmeldung (wichtig!), Blutabnahme
+
+-  ggf. HIV-Postexpositionsprophylaxe (PEP)
+
+   -  kurzfristige Therapie (4 Wochen)
+
+   -  Einzelfall muss immer individuell beurteilt werden
+      (Nutzen/Risiko), starke Nebenwirkungen.
+
+   -  Muss innerhalb von 2 h begonnen werden :math:`{\rightarrow}` daher *sofort*
+      in ein geeignetes Krankenhaus!
+
+-  Meldung an Betriebsleitung
+
+-  Unfallmeldung an AUVA
+
+.. danger::
+
+    -   Unfallmeldung nicht vergessen!
+
+    -   Sofort in ein geeignetes Krankenhaus!
+
 
 (Loew 2006)
 

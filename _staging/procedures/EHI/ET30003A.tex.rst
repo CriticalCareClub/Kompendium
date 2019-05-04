@@ -1,0 +1,28 @@
+:orphan:
+
+.. role:: raw-latex(raw)
+   :format: latex
+..
+
+[m:verbrennung-eh]
+
+-  Hitzeeinwirkung sofort stoppen.
+
+-  Wenn
+
+   -  innerhalb von 2 Minuten möglich,
+
+   -  Ausdehnung <20 (Kinder <10, Säuglinge <10)
+
+   für mit handwarmen Wasser kühlen (Richtwert 20);
+
+   andernfalls ist keine Kühlung durchzuführen
+   :raw-latex:`\cite{Asanger2010,ASBOEAkademieUpdate2010Verbrennung}`.
+
+-  Wärmeerhalt ist besonders wichtig!
+
+-  Keimfreier Wundverband
+
+-  Schockbekämpfung
+
+-

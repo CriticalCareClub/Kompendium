@@ -1,0 +1,26 @@
+:orphan:
+
+[m:akutes-koronarsyndrom]
+
+-  Basismaßnahmen:
+
+   -  Lagerung:
+
+   -  
+   -  Beengende Kleidung öffnen
+
+   -  
+
+-  Pharmakotherapie (Basis):
+
+   -  Schmerztherapie: Morphin i.v. in 2-Schritten titrieren
+
+   -  Nitroglycerin: Bei RR\ :sub:`syst`\ >100, sofern keine
+      Rechtsherzbeteiligung. Eine regelmäßige Blutdruckkontrolle ist
+      notwendig.
+
+   -  Aggregationshemmung: ASS 500 i.v.
+
+-  Strategieentscheidung Lyse vs. PTCA:
+
+   -  Lyse:

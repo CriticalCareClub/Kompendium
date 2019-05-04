@@ -131,17 +131,7 @@ und Husten nicht möglich) .
       es zu schweren inneren Verletzungen kommen (Magen, Leber, ...),
       die Anwendung ist daher auf bedrohliche Situationen beschränkt.
 
-****
-COPD
-****
 
-******************
-Status Asthmaticus
-******************
-
-***************
-Pulmonalembolie
-***************
 
 **********
 Lungenödem
@@ -248,6 +238,9 @@ Nervenerkrankung
 | Stoffwechselstörungen
 | *Sonstige Regulationsstörung* & Psychogen (z.B. Panikattacke)
 
+.. index::
+   single: Atmung, paradoxe
+
 Befunde
 =======
 
@@ -292,58 +285,89 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
 
 -  [Table-atmung-symptome]
 
-!!! TABELLE WEIT Symptome von Atemstörungen[Table-atmung-symptome]
+.. _Table-atmung-symptome:
 
-.. index::
-   single: Atmung, paradoxe
+.. table:: Symptome von Atemstörungen
 
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-| **Kriterium**       | **Befund**                                          | **Beschreibung**                                                     |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-| *Beschwerde*        | Atemnot (Dyspnoe)                                   | Leitsymptom                                                          |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-| *Atemgeräusch*      | Brodeln                                             | Blubbern, klassisch für Lungenödem                                   |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     | Stridor                                             |                                                                      |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     | Brummen, Giemen                                     |                                                                      |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     | Rasselgeräusche                                     |                                                                      |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-| *Frequenz*          | Beschleunigt                                        | Tachypnoe                                                            |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     | Verlangsamt                                         | Bradypnoe                                                            |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-| *Atemzugsvolumen*   | Schnappatmung                                       | :ref:`Thema-schnappatmung`                                           |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     | Flache Atmung                                       |                                                                      |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     | Tiefe Atmung                                        | Z.B. Kußmaul’sche Atmung                                             |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-| *Hautfarbe*         | Blass                                               | Normal, Anämie, Blutverlust                                          |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     | Rosig                                               | Normal, -Vergiftung                                                  |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     | Bläulich                                            | Zyanose: Hypoxie!                                                    |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-| *Körperlich*        | Einziehungen an den Rippen                          | Einsatz der Atemhilfsmuskulatur                                      |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     | Aufstützen                                          | Einsatz der Atemhilfsmuskulatur                                      |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     | Nasenflügeln                                        | Atemnot, besonders bei Kleinkindern                                  |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     | Aufrechte Position                                  |                                                                      |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     | Paradoxe Atmung                                     | Brustkorb *senkt* sich bei Einatmung, z.B. bei Serienrippenfraktur   |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-| *Geräte*            | Pulsoxymetrie                                       | :ref:`Thema-pulsoxymetrie`                                           |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-|                     |  Kapnometrie                                        |  CO₂-Messung                                                         |    |
-+---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 
-.. todo:: !!! PROCEDURE !!! MJ96091C
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    | **Kriterium**       | **Befund**                                          | **Beschreibung**                                                     |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    | *Beschwerde*        | Atemnot (Dyspnoe)                                   | Leitsymptom                                                          |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    | *Atemgeräusch*      | Brodeln                                             | Blubbern, klassisch für Lungenödem                                   |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     | Stridor                                             |                                                                      |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     | Brummen, Giemen                                     |                                                                      |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     | Rasselgeräusche                                     |                                                                      |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    | *Frequenz*          | Beschleunigt                                        | Tachypnoe                                                            |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     | Verlangsamt                                         | Bradypnoe                                                            |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    | *Atemzugsvolumen*   | Schnappatmung                                       | :ref:`Thema-schnappatmung`                                           |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     | Flache Atmung                                       |                                                                      |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     | Tiefe Atmung                                        | Z.B. Kußmaul’sche Atmung                                             |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    | *Hautfarbe*         | Blass                                               | Normal, Anämie, Blutverlust                                          |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     | Rosig                                               | Normal, -Vergiftung                                                  |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     | Bläulich                                            | Zyanose: Hypoxie!                                                    |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    | *Körperlich*        | Einziehungen an den Rippen                          | Einsatz der Atemhilfsmuskulatur                                      |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     | Aufstützen                                          | Einsatz der Atemhilfsmuskulatur                                      |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     | Nasenflügeln                                        | Atemnot, besonders bei Kleinkindern                                  |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     | Aufrechte Position                                  |                                                                      |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     | Paradoxe Atmung                                     | Brustkorb *senkt* sich bei Einatmung, z.B. bei Serienrippenfraktur   |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    | *Geräte*            | Pulsoxymetrie                                       | :ref:`Thema-pulsoxymetrie`                                           |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+    |                     |  Kapnometrie                                        |  CO₂-Messung                                                         |    |
+    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 
-.. todo:: !!! PROCEDURE !!! MR09020B
+Maßnahmen
+=========
+
+Insuffiziente Atmung
+--------------------
+
+[m:atmung-insuffizient] [proc:MJ96091C] 
+
+Anm.: AF <8 oder >30 / min, bzw. AZV zu niedrig
+
+**Vitale Bedrohung!**
+
+-   |TxMassVitMK|
+-   Assistierte Beatmung
+-   Ursachenforschung
+
+
+Atemstillstand
+---------------
+
+[m:atemstillstand] [proc:MR09020B]
+
+-  Reanimation
+
+Bei einem mit Atemstillstand vorgefundenen Patienten ist
+grundsätzlich von einer Reanimation auszugehen.
+
+Nur in sehr seltenen Fällen kann primär ein isolierter
+Atemstillstand ohne gleichzeitigem Kreislaufstillstand
+beobachtet werden. Auf diese Spezialfälle (z.\,B.
+Opiatintoxikation) wird hier nicht weiter eingegangen. Auch
+der iatrogene Atemstillstand (z.\,B. im Rahmen einer Narkose) wird an dieser Stelle nicht
+behandelt.
+
 
 .. _Thema-fremdkoerperaspiration:
 
@@ -550,7 +574,72 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
 
     [WmCo, PD]
 
-.. todo:: !!! PROCEDURE !!! MT17091C
+Maßnamen 
+========
+
+.. role:: raw-latex(raw)
+   :format: latex
+..
+
+[m:atemwegsverlegung] 
+
+Taktik:
+
+-   Schwer: **Vitale Bedrohung! Zeitkritisch**; wenn möglich rasche Entfernung des Fremdkörpers.
+
+-   Mild: Symptomatische Therapie.
+
+
+
+-   Atemwege soweit möglich freimachen
+
+-   O2-Gabe hochdosiert (10-15 L / min)
+
+-   Lagerung: Situationsgerecht, z.B. Oberkörper erhöht
+
+-   |TxBeiVit| |TxMassVitMK|
+
+-   Weitere Maßnahmen abhängig von der Beurteilung der Schwere der
+    Atemwegsverlegung:
+
+.. todo:: Tablle
+
+    | XXX
+
+    Kann nicht sprechen
+
+    Hustet ineffektiv & &
+
+    Kann sprechen
+
+    | Hustet effektiv
+    | (lr)1-2(lr)3-3 & &
+
+    Ohne Bewusstsein
+
+    Bei Bewusstsein
+
+    Bei Bewusstsein
+
+    | (lr)1-1(lr)2-2(lr)3-3Reanimation & 5 Schläge zwischen Schulterblätter
+
+    5 Heimlich-Manöver (>1 a) oder Thoraxkompressionen (<1 a)
+
+    Wiederholung & Husten lassen
+
+    Überwachung
+
+    | Keine weitere Manipulation
+
+    Bei Schlägen zwischen die Schulterblätter soll der Patient nach
+    Möglichkeit abwärts schauen (besonders relevant bei Kindern).
+
+    Durch Anwendung des Heimlich-Handgriffes kann es zu schweren inneren
+    Verletzungen kommen. Ein Patient ist nach Anwendung unbedingt zu
+    hospitalisieren!
+
+:cite:`Erc2005DeSec2`
+
 
 .. todo:: (Wuttig 2009)
 
@@ -766,7 +855,56 @@ SAMPLER
    auslösen.
 
 
-.. todo:: !!! PROCEDURE !!! MJ46XX1C
+Maßnahmen
+=========
+
+.. role:: raw-latex(raw)
+   :format: latex
+..
+
+[m:asthmaanfall] 
+
+**Taktik**: Linderung der Atemnot und rasche
+medikamentöse Therapie 
+**Vitale Bedrohung** im Falle
+bleibender schwerer Atemnot bzw. Status asthmaticus
+
+
+-   Lagerung: Oberkörper hoch, abstützen lassen (Unterstützung der Atemhilfsmuskulatur)
+
+-   O2-Gabe gemäß :ref:`m-sauerstoffberieselung`
+
+    Achtung: In seltenen Fällen kann es vorkommen, dass bei hochdosierter
+    Sauerstoffgabe der Patient weniger atmet und Bewusstseinsstörungen
+    auftreten (CO2-Narkose)! Siehe :ref:`Thema-Copd`. Bei sorgfältiger Überwachung des
+    Patienten stellt die -Gabe in der Praxis jedoch kein Problem dar
+    :cite:`ScholzNotfallmedizin2`\ .
+
+    
+    O2 bis eine Sauerstoffsättigung von 94-98% erreicht ist, oder 8 L / min. 
+    Die einschlägige Literatur ist widersprüchlich. 
+    Besonderes betont muss die Notwendigkeit zur Überwachung des Patienten 
+    bezüglich Bewusstseinsstörungen und Atmung werden!
+
+-   Beruhigen, voratmen, durch fast geschlossene Lippen ausatmen lassen
+    (Lippenbremse)
+
+-   Sprays, die Patient evtl. bei sich hat, dürfen nicht mehr genommen
+    werden. 
+
+    Oft stellt sich die
+    Frage \enquote{Darf der Patient seinen (vom Arzt vielleicht gerade für
+    diese Situation verschriebenen) Spray nehmen?}
+    Grundsätzlich soll beim schweren Asthma-Anfall davon
+    abgesehen werden, \enquote{blind} ein inhalatives Beta-Mimetikum
+    zu geben, das zweifelhaft ist, ob die Luftpassage
+    ausreicht, umd den Wirkstoff in die Lunge zu befördern.
+    Eine generelle Freigabe, verschriebene Sprpays einzunehmen,
+    kann in Anbetracht der Nebenwirkungen bei
+    Schleimhautresorption nicht gegeben werden.
+
+-   INhalative Beta-Mimetika sind häufig Teil einer Arzneimittellieste gem. SanG.
+
 
 
 .. _thema-copd:
@@ -776,6 +914,22 @@ Chronische Bronchitis und COPD
 ******************************
 
 (Renz-Polster, Krautzig, and Braun 2006)
+
+.. sidebar:: COPD
+
+    -   Husten mit Auswurf, anfänglich “Raucherhusten”
+    -   Voranschreitende, sich verschlechternde *Ateminsuffizienz*:
+    -   Belastungsdyspnoe (bei schwererer COPD auch in Ruhe)
+    -   Ausatmung (Exspiration) erschwert
+    -   Brummendes, pfeifendes od. giemendes Ausatemgeräusch
+    -   Evtl. chronische Zyanose
+    -   Evtl. Heimsauerstoff
+    -   SpO2 chronisch niedrig
+    -   Exazerbation:
+
+        -   Plötzliche Verschlechterungen
+        -   Meist Infekt-bedingt
+        -   Vermehrte Atemnot, Husten und Auswurf
 
 Beschreibung: COPD
 ==================
@@ -796,7 +950,7 @@ dabei zu einer gesteigerten Entzündungsantwort auf eingeatmete Stoffe
 Lungenfunktionsuntersuchung eine Atmungsseinschränkung nachweisen kann,
 spricht man von der chronisch-obstruktiven Lungenerkrankung (COPD).
 Diese geht mit bleibenden Veränderungen der unteren Atemwege einher,
-diese sind in der Grafik [Figure-copd-veraenderungen] dargestellt.
+diese sind in der Grafik :ref:`Figure-copd-veraenderungen` dargestellt.
 
 Durch die erschwerte Ausatmung kommt es zu einer chronischen
 Überblähung der Lungenbläschen und zu einer “Faß-förmigen” Verformung
@@ -804,67 +958,47 @@ des Brustkorbes. Im Endstadium zeigen sich Zeichen einer
 Rechtsherzinsuffizienz (:ref:`Thema-rechtsherzinsuffizienz`) aufgrund einer
 Störung im Lungenkreislauf.
 
-Exazerbationen
-              
+Exazerbation
+==============
 
 Kommt zu der ohnehin schweren Grunderkrankung noch ein erschwerender
 Faktor hinzu, z.B. eine Infektion der Atemwege, kann es zu einer
 plötzlichen Verschlechterung kommen, zur *Exazerbation*. Diese ist meist
 durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
 
--  Husten mit Auswurf, anfänglich “Raucherhusten”
-
--  Voranschreitende, sich verschlechternde *Ateminsuffizienz*:
-
-   -  Belastungsdyspnoe (bei schwererer COPD auch in Ruhe)
-
-   -  Ausatmung (Exspiration) erschwert
-
-   -  Brummendes, pfeifendes od. giemendes Ausatemgeräusch
-
-   -  Evtl. chronische Zyanose
-
-   -  Evtl. Heimsauerstoff
-
-   -  SpO2 chronisch niedrig
-
--  Exazerbation:
-
-   -  Plötzliche Verschlechterungen
-
-   -  Meist Infekt-bedingt
-
-   -  Vermehrte Atemnot, Husten und Auswurf
 
 Probleme mit Sauerstoff bei COPD-Patienten
 ==========================================
+
+.. sidebar:: COPD und O₂
+
+    -   Atemantrieb normalerweise durch *CO₂*-Spiegel
+
+    -   COPD: CO₂-Spiegel dauerhaft erhöht →
+        Gewöhnungseffekt → Atemantrieb gemäß O₂-Spiegel
+
+    -   Problem bei Sauerstoffgabe: Verminderter Atemantrieb
+
+    -   Verminderte CO₂-Abatmung → Bewusstseinsstörungen
+
+    -   Extremfall: Atemstillstand
+
 
 Beim gesunden Menschen ist der *Atemantrieb* vom *CO₂-Gehalt* des Blutes
 abhängig: Je höher der CO₂-Gehalt, desto stärker der Atemantrieb. Bei
 COPD-Patienten ist die *CO₂-Konzentration* im Blut jedoch chronisch
 *erhöht*, dadurch *gewöhnt* sich der Körper an diesen Zustand. Er
-beginnt dann den *Atemantrieb direkt über den O2*-Gehalt im Blut zu
+beginnt dann den *Atemantrieb direkt über den O₂*-Gehalt im Blut zu
 regeln.
 
 Dies kann bei der Behandlung *Probleme* bereiten: Wird bei solch einem
-Patienten der O2-Gehalt künstlich erhöht (z.B. durch
+Patienten der O₂-Gehalt künstlich erhöht (z. B. durch
 Sauerstoffberieselung), fehlt der Atemantrieb, es gilt bei *diesen*
-Patienten: *Je höher der O2-Gehalt des Blutes, desto geringer der
+Patienten: *Je höher der O₂-Gehalt des Blutes, desto geringer der
 Atemantrieb.* Somit wird CO₂ nicht mehr ausreichend abgeatmet, der
 CO₂-Gehalt im Blut steigt weiter an und es kommt dadurch zu
 *Bewusstseinsstörungen* (CO₂-Narkose). Im Extremfall kann es auch zu
 einem Atemstillstand kommen.
-
--  Atemantrieb normalerweise durch *CO₂*-Spiegel
-
--  COPD: CO₂-Spiegel dauerhaft erhöht →
-   Gewöhnungseffekt → Atemantrieb gemäß O2-Spiegel
-
--  Problem bei Sauerstoffgabe: Verminderter Atemantrieb
-
-   -  Verminderte CO₂-Abatmung → Bewusstseinsstörungen
-
-   -  Extremfall: Atemstillstand
 
 **Bewusstseinsstörungen bei übermäßiger Sauerstoffgabe möglich!**
 
@@ -876,38 +1010,74 @@ einem Atemstillstand kommen.
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Alveolen-Bronchus-COPD-edited2.*
 
-    Veränderung der Atemwege bei der COPD. *Links:* Schema eines
-    gesunden Bronchus und einer gesunden Alveole. *Oben rechts:* Bei
-    der COPD sind die kleinen Luftwege verschleimt und verengt. *Unten
+    Veränderung der Atemwege bei der COPD
+
+    *Links:* Schema eines
+    gesunden Bronchus und einer gesunden Alveole. 
+    *Oben rechts:* Bei
+    der COPD sind die kleinen Luftwege verschleimt und verengt. 
+    *Unten
     rechts:* Die Lungenbläschen (Alveolen) sind überbläht, weil die
     Luft nur erschwert wieder entweichen
     kann. 
 
     [Hirtler]
 
-ABCDE: COPD
-===========
+1234ABCDE: COPD
+===============
 
- 
 
-**1**
+.. sidebar:: 1234ABCDE
+
+    ``1``
+        Kalte Umgebung
+
+    ``2``
+        Atemhilfsmuskulatur, Anstrengung beim Atmen, ängstlich
+
+    ``3``
+        Evtl. **|symbol-RedFlag|**\ Bewusstseinsstörungen
+
+    ``4``
+        Atemnot
+
+    ``A``
+        Siehe ``B``
+
+    ``B``
+        Atemnot! Ausatmung erschwert, Husten Tachypnoe, |symbol-RedFlag|\  Zyanose;
+
+        Brummendes, pfeifendes Atemgeräusch
+
+        SpO₂ chronisch niedrig (:math:`\sim`\ 90%): Normalwert gilt nicht!
+
+    ``C``
+        HF :math:`\uparrow`, RR :math:`\uparrow`
+
+    ``=``
+        Vitale Bedrohung bei schwerer Atemnot und Bewusstseinsstörungen
+
+    ``…``
+        Evtl. erhöhte Körpertemperatur
+
+``1`` Szene
     Evtl. kalte Umgebung (kalte Luft führt zur Verengung der Bronchien)
 
-**2**
+``2`` Ersteindruck
     Einsatz der Atemhilfsmuskulatur, Mühe beim Atmen, evtl.
     Heimsauerstoff, oft wirkt der Patient ängstlich.
 
-**3**
-    Bei schweren Anfällen kann es aufgrund der Hypoxie zu **!!! REDFLAG
-    !!!**\ *Bewusstseinsstörungen* kommen.
+``3`` Bewusstsein
+    Bei schweren Anfällen kann es aufgrund der Hypoxie zu 
+    |symbol-RedFlag|\ **Bewusstseinsstörungen** kommen.
 
-**4**
+``4`` Hauptbeschwerde
     Atemnot
 
-**A**
-    Siehe **B**
+``A`` Atemweg
+    Siehe ``B``
 
-**B**
+``B`` Atmung
     Je nach Schweregrad kommt es zu Zeichen einer Atemwegsverlegung der
     *unteren* Atemwege (Obstruktion, durch Verengung der Bronchien und
     Schleimproduktion) und Ateminsuffizienz:
@@ -928,78 +1098,124 @@ ABCDE: COPD
     kann es zu |symbol-RedFlag|\  *Bewusstseinsstörungen kommen*
     (*CO₂-Narkose*)!
 
-**C**
+``C`` Kreislauf
     Evtl. tachkard und hyperton
 
-**=**
+``=`` Beurteilung
     Bei |symbol-RedFlag|\  schwerer Atemnot oder
     |symbol-RedFlag|\  Bewusstseinsstörungen vitale Bedrohung.
 
-**…**
+``…`` Sonstiges
     Als Nebenbefund können Infektzeichen vorliegen (erhöhte
     Körpertemperatur).
 
-**1**
-    Kalte Umgebung
-
-**2**
-    Atemhilfsmuskulatur, Anstrengung beim Atmen, ängstlich
-
-**3**
-    Evtl. **|symbol-RedFlag|**\ Bewusstseinsstörungen
-
-**4**
-    Atemnot
-
-**A**
-    Siehe **B**
-
-**B**
-    Atemnot! Ausatmung erschwert, Husten Tachypnoe, |symbol-RedFlag|\  Zyanose;
-
-    Brummendes, pfeifendes Atemgeräusch
-
-    SpO2 chronisch niedrig (:math:`\sim`\ 90%): Normalwert gilt nicht!
-
-**C**
-    HF :math:`\uparrow`, RR :math:`\uparrow`
-
-**=**
-    Vitale Bedrohung bei schwerer Atemnot und Bewusstseinsstörungen
-
-**…**
-    Evtl. erhöhte Körpertemperatur
 
 SAMPLER: COPD
 =============
 
-**M**
+.. sidebar:: SAMPLER
+
+    ``M`` 
+        Inhalatoren, evtl. Heimsauerstoff.
+
+    ``P``
+        COPD vorbekannt
+
+    ``L``
+        Letzte Spray-Einnahme?
+
+``M`` Medikation
     Inhalatoren bzw. Sprays zur Dauer- und Akuttherapie, Heimsauerstoff.
     Häufig Kortisonpräparate; bei vorbekanntem Infekt wurden oft schon
     Antibiotika verschrieben.
 
-**P**
+``P`` Krankengeschichte
     Eine COPD ist normalerweise vorbekannt.
 
-**L**
-    Letzte Spray-Einnahme?
-
-**M**
-    Inhalatoren, evtl. Heimsauerstoff.
-
-**P**
-    COPD vorbekannt
-
-**L**
+``L`` Letztes
     Letzte Spray-Einnahme?
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/COPD-Stufen_edited.*
 
-    Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
-    “Karriere” hinter sich. Hirtler 
+    Entwicklung einer COPD-Erkrankung
 
-.. todo:: !!! PROCEDURE !!! MJ44190C
+    Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
+    “Karriere” hinter sich.
+
+    [Lena Hirtler, MfG]
+
+.. _m-copd-exzerbation:
+
+Maßnahmen COPD
+==============
+
+.. todo:: 
+
+    Maßnahmen COPD: Anpassung an höherqualifiziertes Personal
+
+Taktik
+    Linderung der Atemnot und rasche medikamentöse Therapie
+
+    **Vitale Bedrohung** bei anhaltender schwerer Atemnot!
+
+Basismaßnahmen
+    -   |TxBeiVit| |TxMassVitMK|
+    -   O₂-Gabe:
+        Gefahr der CO₂-Narkose durch Hemmung des Atemantriebes!
+
+        Sauerstoff vorsichtig dosieren,
+        anfänglich nur 2-3 L / min, weiter je nach SpO₂ oder BGA.
+        Wenn der Patient bereits Heimsauerstoff benutzt,
+        1-2 L / min höher dosieren.
+        Heimsauerstoff soll jedenfalls weiter gegeben werden!
+
+        *Atmung und Bewusstsein müssen bei der O₂-Gabe besonders
+        sorgfältig überwacht werden!*
+    -   Lagerung: Oberkörper hoch
+    -   Voratmen, *Lippenbremse*
+
+Medikamentöse Therapieoptionen
+    -   **Beta-Mimetikum inhalativ**
+        -   *Salbutamol* (Combivent™)
+        -   *Berodual™* (Fenoterol kombiniert mit Ipratropiumbromid)
+    -   Anxiolyse und leichte Sedierung mit Morphin (Vendal™)
+
+        1 Amp. Vendal™ auf 10 mL verdünnen (1 mg / mL);
+        Start mit 2 mg, mg-weise titrieren.
+        Cave Atemdepression!
+    -   **Kortikoid i. v.**: eher mittelfristige Therapie
+        -   *Prednisolon* 25—100 mg i. v.
+    -   **Kortikoid inhalativ**: eher mittelfristige Therapie
+    -   **Beta-Mimetikum i. v.**: wenn therapierefraktär
+
+        Cave Tachykardie!
+
+        *Terbutalin* (Bricanyl™) 0,500 mg (1. Amp.) auf 10 mL verdünnen,
+        mL-weise (0,050 mg) i. v. nach Klinik *titrieren*
+
+        Alternativ *s. c.-Gabe* möglich: 0,250—0,500 mg s. c.
+    -   *Theophyllin* i. v.: eher nicht empfehlenswert,
+        bei Theophyllin-Dauertherapie erst Spiegelbestimmung
+
+Beatmungstherapie
+    -   Option: **CPAP**\ -Therapie
+        Voraussetzung: Kooperativer Patient,
+        evtl. leichte Sedierung mit Morphin erwägen.
+    -   Intubation und kontrollierte Beatmung mit erhöhtem PEEP (10 mbar)
+        als Ultima ratio falls trotz Therapie respiratorische Insuffizeinz bestehen bleibt.
+        Entwöhnung kann extrem schwierig sein!
+
+Palliative Therapie
+    -   COPD ist eine chronische, oft mit viel Leid verbundene, Erkrankung.
+        Es ist möglich, dass der Patient bereits im Vorfeld
+        Therapieentscheidungen getroffen hat,
+        bzw. das Stadium oder der Fortschritt der Erkrankung
+        die Indikation zur palliativen Therpiestrategie stellt.
+        Einzelfallentscheidung!
+
+
+
 
 (Knacke and Saur 2006)
 
@@ -1155,7 +1371,28 @@ SAMPLER: Lungenembolie
     Immobilisation, Vorhofflimmern, vorangegange Thrombose oder Embolie,
     Schwangerschaft, Rauchen, Verhütungspille
 
-.. todo:: !!! PROCEDURE !!! MI26XX0C
+.. _m-lungenembolie:
+
+Maßnahmen Lungenembolie
+=======================
+
+
+.. todo:: 
+
+    Maßnahmen COPD: Anpassung an höherqualifiziertes Personal
+
+
+Taktik: **Vitale Bedrohung!** 
+Atemnot lindern, rasche medikamentöse Therapie, ärztliche Therapie sinnvoll
+
+-  |TxMassVitMKBes|
+
+   -  Lagerung: Oberkörper hoch
+
+-  Striktes Bewegungsverbot!
+
+-  Beengende Kleidung öffnen
+
 
 **********
 Lungenödem

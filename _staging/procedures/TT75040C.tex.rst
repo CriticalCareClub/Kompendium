@@ -1,0 +1,38 @@
+:orphan:
+
+.. role:: math(raw)
+   :format: html latex
+..
+
+[m:stromunfall]
+
+-  Bevor der Patienten berührt wird, muss man sich vergewissern, dass
+   der Patient keinen Kontakt mehr mit dem Stromkreis hat! (Vgl. )
+
+   -  Gefahrenbreich beachten
+
+   -  Sicherheitsabstand
+
+   -  Schrittspannung und Spannungskegel beachten
+
+   -  Bahnanlagen sperren/sichern lassen
+
+   -  Schalter ausschalten, (Haupt-)Sicherung auslösen,
+      Starkstrom/Hochspannung durch Fachmann abschalten bzw. erden
+      lassen
+
+   -  Strom gegen Wiedereinschalten sichern!
+
+   -  Patient mit isolierendem Material aus dem Stromkreis befreien
+
+-  Beurteilung der vitalen Bedrohung.
+
+-  : auf evtl. Herzrhythmusstörungen vorbereitet sein (bis zu 24h
+   Latenz)
+
+-  Genaue Patientenuntersuchung :math:`{\rightarrow}` Eintritts- und
+   Austrittsmarke
+
+-  Hospitalisierung auch bei symptomlosen Patienten zur Überwachung
+
+-  Stromverbrennungen wie Verbrennungen versorgen

@@ -1,0 +1,50 @@
+:orphan:
+
+.. role:: raw-latex(raw)
+   :format: latex
+..
+
+[m:atemwegsverlegung] :
+
+Zeitkritisch; wenn möglich rasche Entfernung des Fremdkörpers.
+
+Symptomatische Therapie.
+
+-  Atemwege soweit möglich freimachen
+
+-  -Gabe hochdosiert ()
+
+-  Lagerung: Situationsgerecht, z.B. Oberkörper erhöht
+
+-  
+-  Weitere Maßnahmen abhängig von der Beurteilung der Schwere der
+   Atemwegsverlegung:
+
+| XXX
+
+Kann nicht sprechen
+
+Hustet ineffektiv & &
+
+Kann sprechen
+
+| Hustet effektiv
+| (lr)1-2(lr)3-3 & &
+| (lr)1-1(lr)2-2(lr)3-3Reanimation & 5 Schläge zwischen Schulterblätter
+
+5 Heimlich-Manöver (>1) oder Thoraxkompressionen (<1)
+
+Wiederholung & Husten lassen
+
+Überwachung
+
+| Keine weitere Manipulation
+
+Bei Schlägen zwischen die Schulterblätter soll der Patient nach
+Möglichkeit abwärts schauen (besonders relevant bei Kindern).
+
+Durch Anwendung des Heimlich-Handgriffes kann es zu schweren inneren
+Verletzungen kommen. Ein Patient ist nach Anwendung unbedingt zu
+hospitalisieren!
+
+:raw-latex:`\citep{Erc2005DeSec2}`

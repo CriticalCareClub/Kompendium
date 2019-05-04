@@ -208,5 +208,48 @@ SAMPLER
 ``R``
     Ungewohnte Belastung: Infekte, Erkrankungen, Blutdruckanstieg
 
-.. todo:: !!! PROCEDURE !!! MI50090C
+.. _proc-MI50090C:
+.. _m-herzinsuffizienz:
 
+***********************************************
+Maßnahmen: Akute dekompensierte Herzinsuffizenz
+***********************************************
+
+
+
+.. todo:: 
+
+    Herzinsuffizienz Maßnahmen: Anpassung an höherqualifiziertes Personal
+
+
+Patienten mit Herzinsuffizienz und 1234ABCDE-Problem oder Lungenödem mit
+brodelndem Atemgeräusch sind grundsätzlich als unmittelbar vital bedroht.
+
+Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor
+Ort Vorrang. Bereits der Transport in das Fahrzeug kann gefährlich sein!
+
+Basismaßnahmen
+    -   Bewegungsverbot
+    -   Lagerung: Oberkörper hoch
+    -   Beengende Kleidung öffnen
+    -   Vitale Bedrohung beurteilen. |TxBeiVit| |TxMassVitMK|
+    -   O₂-Gabe gemäß :ref:`m-sauerstoffberieselung`
+    -   Ursachenforschung
+    -   Zuständige Facheinheit: 
+        Grundsätzlich Kardiologische Überwachungsstation oder Intensivstation,
+        je nach zu Grunde liegender Ursache evtl. andere Einheit (Herzkathetherlabor, ...)
+
+Pharmakotherapie
+    -   Nitrate
+    -   Diuretika
+
+        -   Furosemid (Lasix™, Furon™): 40—80 mg i. v.,
+            weiter je nach ansprechen
+            
+    -   Klinisch: Erwäge Kalziumsensitzer (Levosimedan (Simdax™), Expertenrat)
+
+Beatmungstherapie
+    -   CPAP-Beatmung bei kardiogenem Lungenödem
+
+Sonstiges
+    -   Kausale Therapie der Herzinsuffizienz

@@ -1,0 +1,33 @@
+:orphan:
+
+[m:chemische-verletzungen]
+
+#. Auf Selbsschutz achten!
+
+   -  Patienten ggfs. retten, aber nur wenn es der Eigenschutz zulässt.
+
+#. Gefahr erkennen: Expertenrat einholen!
+
+#. Wenn erforderlich: Vorgehen analog zu Abschnitt “Gefahrengutunfall”,
+   GAS-Regel ()
+
+#. Weitere Opfer ausschließen (lassen)
+
+#. Sicherung der Vitalfunktionen, Beurteilung ob der Patient vital
+   bedroht ist.
+
+#. 
+
+   -  Lagerung: situationsgerecht.
+
+#. Entfernung kontaminierter Kleidung
+
+#. Spülung der betroffenen Hautpartien mit Wasser (richtig abrinnen
+   lassen)
+
+#. Auge: Spülung mit Wasser / Ringerlösung (nach außen abrinnen
+   lassen!), Kontaktlinsen entfernen
+
+#. Transportentscheidung: Ab einer Ausdehnung von 15 (Erwachsener) bzw.
+   10 (Kind) Spezialabteilung für Verbrennungsverletzungen. Bei
+   Augenverletzungen Abt. für Augenheilkunde.

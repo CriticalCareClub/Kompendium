@@ -1,0 +1,15 @@
+:orphan:
+
+.. role:: raw-latex(raw)
+   :format: latex
+..
+
+[m:ehi-bagatellverletzungen]
+
+-  Wunde reinigen (sauberes Wasser, Kochsalzlösung; im professionellen
+   Bereich kein Desinfektionsmittel
+   :raw-latex:`\cite{Fernandez2012,Franz2012,Schupp2009,Marquardt2010}`)
+
+-  Evtl. steriler Wundverband
+
+-  Auf den Tetanusschutz achten

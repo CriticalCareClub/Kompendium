@@ -386,21 +386,21 @@ Durch die
 Magensäure kommt es zur Veränderung des Blutes, es wird bräunlich,
 ähnlich dem Kaffeesatz im Kaffeefilter. Bei Blutungen im *mittleren
 Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz, man
- (:dfn:`Meläna` :index:`\ <! Meläna>`. 
+(:dfn:`Meläna` :index:`\ <! Meläna>`. 
 Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
--  Oberer Teil: Erbrechen von
+-   Oberer Teil: Erbrechen von
 
-   -  Blut im Schwall
+    -   Blut im Schwall
 
-   -  Kaffeesatz-artiger Mageninhalt
+    -   Kaffeesatz-artiger Mageninhalt
 
--  Mittlerer Teil: Teerstuhl
+-   Mittlerer Teil: Teerstuhl
 
--  Endteil: Blutiger Stuhl
+-   Endteil: Blutiger Stuhl
 
-    -  Der Patient kann aufgrund des Blutverlustes akut vital bedroht
-       sein, es besteht die Gefahr eines hypovolämischen Schocks.
+    -   Der Patient kann aufgrund des Blutverlustes akut vital bedroht
+        sein, es besteht die Gefahr eines hypovolämischen Schocks.
 
 .. todo:: !!! PROCEDURE !!! CK92020C
 

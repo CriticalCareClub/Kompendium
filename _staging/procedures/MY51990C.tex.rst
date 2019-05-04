@@ -1,0 +1,41 @@
+:orphan:
+
+[m:reanimation-unterlassung]
+
+-  
+-  
+-  
+-  
+-  
+-   [1]_
+
+-  (Verbindliche)  [2]_ (; Bis zur zweifelsfreien Klärung der Situation
+   muss jedenfalls eine Reanimation begonnen bzw. fortgeführt werden!)
+
+-  (Abbruch der Reanimationsmaßnahmen aufgrund von ) [3]_
+
+-  Unvereinbarkeit mit  [4]_
+
+.. [1]
+   Unter versteht man den Verzehr eines Kadavers durch Kadaverfresser.
+   Ein frischer Hundebiss oder Ähnliches fällt darunter. Maden können
+   sich im Gewebe von Lebenden einnisten und sind daher auch kein
+   sicheres Todeszeichen.
+
+.. [2]
+   : Bei Notfallversorgungen darf . Wenn eine verbindliche
+   Patientenverfügung vorliegt (z.B. weil eine betreuende Pflegekraft
+   diese in der Zwischenzeit gefunden und die Verbindlichkeit bestätigt
+   hat), muss dieser Folge geleistet werden. Liegt eine vor, so ist im
+   zu entscheiden: Das Wohl des Patienten bleibt oberstes Gebot und die
+   Verfügung soll in die Entscheidung einfließen.
+
+.. [3]
+   Erschöpfung darf im professionellen Umfeld keine Rolle spielen, für
+   eine entsprechende Ablösung ist bei Bedarf zu sorgen.
+
+.. [4]
+   Es müssen jedoch alle Maßnahmen getroffen werden, die ohne Gefährdung
+   des Selbstschutzes möglich sind. So wird zum Beispiel für Ersthelfer
+   empfohlen, wenn eine Mund-zu-Mund-Beatmung nicht zumutbar ist,
+   zumindest eine Herzdruckmassage durchzuführen.

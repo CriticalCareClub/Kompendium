@@ -239,8 +239,48 @@ weiß nicht, was geschehen ist. Er erzählt, es wäre ihm schwarz vor den
 Augen geworden. Der Blutdruck ist meist niedrig, der Patient ist
 eventuell bradykard oder tachykard.
 
-.. todo:: !!! PROCEDURE !!! MR55XX0C
+.. _Proc-MR55XX0C:
+.. _m-kollaps:
 
+Maßnahmen: Kollaps
+^^^^^^^^^^^^^^^^^^^
+
+
+
+.. todo:: 
+
+    Maßnahmen: Anpassung an höherqualifiziertes Personal
+
+
+
+Vitale Bedrohung einschätzen, auf Differentialdiagnosen untersuchen, z.B.:
+
+-   Insult
+-   Herzrhytmusstörungen
+-   Akutes Koronarsyndrom (evtl. schmerzlos!)
+-   Krampfanfall
+-   Schädel-Hirn-Trauma (SHT)
+-   Zuckerstoffwechselstörung (Hyper-, Hypoglykämie)
+-   Exsikkose
+-   …
+
+Es sind dabei alle zur Verfügung stehenden Möglichkeiten auszuschöpfen,
+z.B.:
+
+-   Traumacheck (Sturz?),
+-   Neurocheck inkl. Blutzuckermessung,
+-   Temperatur,
+-   Ausführliche Anamnese bzw. Fremdanamnese
+-   …
+
+**Ursachenforschung**: (Begleiterkrankungen (Infekt, …), letzte Mahlzeit, Hitze, …)
+
+Lagerung: Nach Ausschluss von Herzbeschwerden, Atemnot und relevanten
+Verletzungen: Beine hoch
+
+Transportentscheidung: Hospitalisierung zur Abklärung anstreben
+
+Abteilung: Innere Medizin
 
 
 

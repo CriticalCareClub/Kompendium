@@ -1,3 +1,5 @@
+:orphan:
+
 [m:geburt] Vorbereitung:
 
 -  (Not-)Arzt hinzuziehen

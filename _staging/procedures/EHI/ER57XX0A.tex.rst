@@ -1,3 +1,5 @@
+:orphan:
+
 [m:ehi-schockbekaempfung]
 
 -  Ursache beseitigen (wenn möglich), ggfs. Blutstillung

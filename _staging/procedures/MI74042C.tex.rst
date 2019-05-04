@@ -1,3 +1,5 @@
+:orphan:
+
 -  Lagerung: liegend, betroffenes Bein hochlagern
 
 -  Bewegungsverbot (Emboliegefahr!)

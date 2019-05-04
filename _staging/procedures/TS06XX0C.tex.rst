@@ -1,3 +1,5 @@
+:orphan:
+
 [m:am-sht][m:sht]
 
 -  Vitale Bedrohung beurteilen.

@@ -1,3 +1,5 @@
+:orphan:
+
 [m:ehi-starke-blutung]
 
 -  Blutstillung

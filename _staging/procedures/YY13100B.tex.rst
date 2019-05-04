@@ -1,3 +1,5 @@
+:orphan:
+
 [m:standardmassnahmen-vital][topic:standardmassnahmen-vital][proc:YY13100B]
 
 #. 

@@ -1,3 +1,5 @@
+:orphan:
+
 [m:am-stickgase]
 
 #. Auf Selbstschutz achten!

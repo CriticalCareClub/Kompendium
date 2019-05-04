@@ -1,3 +1,5 @@
+:orphan:
+
 [m:nierenkolik]
 
 -  Lagerung nach Wunsch des Patienten

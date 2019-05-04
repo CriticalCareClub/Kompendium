@@ -1,3 +1,5 @@
+:orphan:
+
 .. role:: math(raw)
    :format: html latex
 ..

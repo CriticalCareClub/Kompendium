@@ -1,3 +1,5 @@
+:orphan:
+
 [m:reanimationsbereitschaft]
 
 #. Ggfs. Platz schaffen [1]_

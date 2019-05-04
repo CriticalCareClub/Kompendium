@@ -1,3 +1,5 @@
+:orphan:
+
 [m:intoxikation-kohlenmonoxid]
 
 -  Allgemeine Maßnahmen bei Stickgas-Vergiftungen ()

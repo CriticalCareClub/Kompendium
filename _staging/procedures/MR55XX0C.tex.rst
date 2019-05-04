@@ -1,3 +1,5 @@
+:orphan:
+
 [m:kollaps]:
 
 Vitale Bedrohung einschätzen, auf untersuchen, z.B.:

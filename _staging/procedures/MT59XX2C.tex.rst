@@ -1,3 +1,5 @@
+:orphan:
+
 [m:am-reizgase]
 
 #. Auf Selbstschutz achten!

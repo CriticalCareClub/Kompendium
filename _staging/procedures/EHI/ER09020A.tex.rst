@@ -1,3 +1,5 @@
+:orphan:
+
 [m:ehi-atem-kreislaufstillstand]
 
 -  Notruf bereits nach Kontrolle der Vitalfunktionen

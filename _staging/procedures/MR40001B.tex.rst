@@ -1,3 +1,5 @@
+:orphan:
+
 [proc:MR40001B] [m:bewusstseinstruebung]
 
 -  Lagerung: situationsgerecht je nach Verdachtsdiagnose, im Zweifel ,

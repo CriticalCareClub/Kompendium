@@ -1,3 +1,5 @@
+:orphan:
+
 [m:atmung-insuffizient] [proc:MJ96091C] Anm.:(AF <8 oder >30, bzw. AZV
 zu niedrig)
 

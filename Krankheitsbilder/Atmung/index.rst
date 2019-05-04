@@ -970,12 +970,12 @@ durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
 Probleme mit Sauerstoff bei COPD-Patienten
 ==========================================
 
-.. sidebar:: COPD und O2
+.. sidebar:: COPD und O₂
 
     -   Atemantrieb normalerweise durch *CO₂*-Spiegel
 
     -   COPD: CO₂-Spiegel dauerhaft erhöht →
-        Gewöhnungseffekt → Atemantrieb gemäß O2-Spiegel
+        Gewöhnungseffekt → Atemantrieb gemäß O₂-Spiegel
 
     -   Problem bei Sauerstoffgabe: Verminderter Atemantrieb
 
@@ -988,13 +988,13 @@ Beim gesunden Menschen ist der *Atemantrieb* vom *CO₂-Gehalt* des Blutes
 abhängig: Je höher der CO₂-Gehalt, desto stärker der Atemantrieb. Bei
 COPD-Patienten ist die *CO₂-Konzentration* im Blut jedoch chronisch
 *erhöht*, dadurch *gewöhnt* sich der Körper an diesen Zustand. Er
-beginnt dann den *Atemantrieb direkt über den O2*-Gehalt im Blut zu
+beginnt dann den *Atemantrieb direkt über den O₂*-Gehalt im Blut zu
 regeln.
 
 Dies kann bei der Behandlung *Probleme* bereiten: Wird bei solch einem
-Patienten der O2-Gehalt künstlich erhöht (z.B. durch
+Patienten der O₂-Gehalt künstlich erhöht (z. B. durch
 Sauerstoffberieselung), fehlt der Atemantrieb, es gilt bei *diesen*
-Patienten: *Je höher der O2-Gehalt des Blutes, desto geringer der
+Patienten: *Je höher der O₂-Gehalt des Blutes, desto geringer der
 Atemantrieb.* Somit wird CO₂ nicht mehr ausreichend abgeatmet, der
 CO₂-Gehalt im Blut steigt weiter an und es kommt dadurch zu
 *Bewusstseinsstörungen* (CO₂-Narkose). Im Extremfall kann es auch zu
@@ -1049,7 +1049,7 @@ einem Atemstillstand kommen.
 
         Brummendes, pfeifendes Atemgeräusch
 
-        SpO2 chronisch niedrig (:math:`\sim`\ 90%): Normalwert gilt nicht!
+        SpO₂ chronisch niedrig (:math:`\sim`\ 90%): Normalwert gilt nicht!
 
     ``C``
         HF :math:`\uparrow`, RR :math:`\uparrow`
@@ -1161,16 +1161,16 @@ Taktik
 
 Basismaßnahmen
     -   |TxBeiVit| |TxMassVitMK|
-    -   O2-Gabe:
-        Gefahr der CO2-NArkose durch Hemmung des Atemantriebes!
+    -   O₂-Gabe:
+        Gefahr der CO₂-Narkose durch Hemmung des Atemantriebes!
 
         Sauerstoff vorsichtig dosieren,
-        anfänglich nur 2-3 L / min, weiter je nach SpO2 oder BGA.
+        anfänglich nur 2-3 L / min, weiter je nach SpO₂ oder BGA.
         Wenn der Patient bereits Heimsauerstoff benutzt,
         1-2 L / min höher dosieren.
         Heimsauerstoff soll jedenfalls weiter gegeben werden!
 
-        *Atmung und Bewusstsein müssen bei der O2-Gabe besonders
+        *Atmung und Bewusstsein müssen bei der O₂-Gabe besonders
         sorgfältig überwacht werden!*
     -   Lagerung: Oberkörper hoch
     -   Voratmen, *Lippenbremse*

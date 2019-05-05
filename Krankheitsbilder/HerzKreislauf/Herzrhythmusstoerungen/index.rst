@@ -371,10 +371,10 @@ akut lebensbedrohlichen Situation kommen. [242]_
 Maßnahmen: Hämodynamisch wirksame Tachykardie
 ======================================================
 
-.. todo:: 
+.. todo::
 
-    Maßnahmen Hämodynamisch wirksame Tachykardie: 
-    
+    Maßnahmen Hämodynamisch wirksame Tachykardie:
+
     -   Anpassung an höherqualifiziertes Personal
     -   Angleichung an ERC-Leitlinien
     -   Unterscheidung Schmal-/ Breitkomplextachykardie
@@ -394,7 +394,8 @@ Basismaßnahmen
     -   Psychische Betreuung! Oase der Ruhe schaffen.
     -   Wenn der Patient versorgt ist (d.h. alle obigen Punkte erfüllt
         wurden) soll – wenn möglich – ein *EKG* (Extremitätenableitung, )
-        abgeleitet werden. Der Ausdruck dient v.a. der Dokumentation und der Information
+        abgeleitet werden.
+        Der Ausdruck dient v.a. der Dokumentation und der Information
         für das nachbehandelnde Personal (Notarzt, Spital, Facharzt, …).
     -   Valsalva-Versuch
 
@@ -404,10 +405,11 @@ Pharmakotherapie
         Z. B. *Magnesium gluconicum* 1000—4000 mg in einer Kurzinfusion
     -   **Kalium**: Substitution nur unter Elektrolyt-Kontrolle
     -   Tachykardes Vorhofflimmern de novo: **Medkamentöse Kardioversion**
-        
-        -   **Amiodaron** (Sedacoron™, Cordarex™) 300 mg in Kurzinfusion (in Glukose 5%)
 
-    -   Tachykardes Vorhofflimmern, schon länger bestehend: 
+        -   **Amiodaron** (Sedacoron™, Cordarex™) 300 mg
+            in Kurzinfusion (in Glukose 5%)
+
+    -   Tachykardes Vorhofflimmern, schon länger bestehend:
         Kein Kardioversionsversuch ohne vorherigen Ausschluss eines Thrombus,
         auf **Frequenzkontrolle** beschränken.
 
@@ -417,11 +419,14 @@ Pharmakotherapie
             (beachte vorbestehende Dauertherapie, Spiegelbestimmung!)
     -   FBI-Tachykardie (Fast, Broad, Irregular)
 
-        CAVE: Aufgrund der akzessorischen Leitungsbahn keine Blockade der AV-Bahn, Fibrillationsgefahr!
+        CAVE:
+        Aufgrund der akzessorischen Leitungsbahn
+        keine Blockade der AV-Bahn,
+        Fibrillationsgefahr!
 
         -   Ajmalin (Gilurytmal™) i. v.
 
-    -   Schmalkomplextachykardie: 
+    -   Schmalkomplextachykardie:
         Versuch der Unterbrechung des Re-Entry-Zyklus durch kurzfristige Blocakde des AV-Knotens
 
         -   :ref:`Adenosin <Thema-Adenosin>` i. v. 

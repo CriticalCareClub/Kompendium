@@ -1773,8 +1773,32 @@ SAMPLER: Hyperventilationssyndrom
 **E**
     Stressige oder aufregende Erlebnisse
 
-.. todo:: !!! PROCEDURE !!! MF45331C
+.. _Proc-MF45331C:
+.. _m-Hyperventilationssysndrom:
 
+Maßnahmen: Hyperventilationssyndrom
+===================================
+
+Taktik
+    Beruhigen, Differentialdiagnosen ausschließen, symptomatische Therapie
+
+Basismaßnahmen
+    -   Psychische Betreuung: Patient beruhigen, mit ruhiger, langsamer
+        Stimme mit dem Patienten sprechen
+    -   Kommandoatmung
+    -   CO₂-Rückatmung: 
+        In ein Plastiksackerl über kurze Zeit ein- und ausatmen
+        lassen. 
+        Ebenso eignet sich eine oder ein (puderfreier) Handschuh.
+    -   Grundsätzlich sollte kein O₂ verabreicht werden. 
+        Aus psychologischen Gründen kann es jedoch sinnvoll sein 
+        O₂ in niedriger Dosierung (1 L / min) 
+        über eine O₂-Maske zu verabreichen.
+    -   Wenn nicht erfolgreich und Krämpfe bestehen bleiben bzw.
+        Bewusstseinsstörungen auftreten: |TxMassVitMK|
+
+Pharmakotherapie
+    -   Sedierung oder Anxiolyse erwägen (zurückhaltend!)
 
 -----
 

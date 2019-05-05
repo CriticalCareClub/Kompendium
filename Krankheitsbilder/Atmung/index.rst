@@ -1556,9 +1556,91 @@ SAMPLER: Lungenödem
     Exposition? Ertrinkungsunfall? Erschwerender Faktor beim
     vorbestehender Herzerkrankung (Infekt, …)?
 
-.. todo:: !!! PROCEDURE !!! MJ81XX1C
+.. _Proc-MJ81XX1C:
+.. _m-lungenoedem-leicht:
 
-.. todo:: !!! PROCEDURE !!! MJ81XX2C
+Maßnahmen: Kardilaes Lungenödem, leicht
+=======================================
+
+
+
+.. todo:: 
+
+    Maßnahmen Lungenödem leicht: Anpassung an höherqualifiziertes Personal
+
+
+
+Taktik
+    Belastung minimieren, bestmögliches Monitoring
+
+Basismaßnahmen
+    -   Vitale Bedrohung beurteilen. 
+        |TxBeiVit|\ : 
+        Behandlung wie schweres Lungenödem (:ref:`m-lungenoedem-schwer`)
+    -   Lagerung: Oberkörper hoch
+    -   Beengende Kleidung öffnen
+    -   Bestmögliches Monitoring
+    -   Transportentscheidung: Abt. f. Innere Medizin
+
+Pharmakotherapie
+    -   Diuretika
+
+Beatmungstherapie
+    -   CPAP-Beatmung erwägen
+
+
+.. _Proc-MJ81XX2C:
+.. _m-lungenoedem-schwer:
+
+
+Maßnahmen: Kardiales Lungenödem, schwer
+=======================================
+
+.. todo:: 
+
+    Maßnahmen Lungenödem schwer: Anpassung an höherqualifiziertes Personal
+
+Taktik
+    **Vitale Bedrohung!**
+
+    Belastung minimieren, 
+    rasche medikamentöse Therpie (veranlassen); 
+    ärztliche Therapie notwendig
+
+Basismaßnahmen
+-   |TxMassVitMK|
+
+    -   Lagerung: Oberkörper hoch, 
+        wenn möglich Beine herabhängen lassen
+
+        Striktes Bewegungsverbot
+    -   Notarzt!
+    -   Reanimationsbereitschaft!
+
+-   Beengende Kleidung öffnen
+-   Transportentscheidung: Internistische Intensiv- bzw.
+    Überwachungstation
+
+Pharmakotherapie
+    -   Nitrate
+
+        -   Beim kardialen Lungenödem ist die Gabe von 
+            Nitrolingual Pumpspray gem. Algorithmus 
+            durch NFS vorgesehen. :cite:`Asb921Memo-AL-2011-000001`\ 
+    -   Diurektika
+
+Beatmungstherapie
+    -   CPAP-Beatmung erwägen
+
+Patienten mit Lungenödem und brodelndem Atemgeräusch oder ABCD-Problem
+sind grundsätzlich notarztpflichtig.
+
+Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor
+Ort Vorrang.
+
+Bereits der Transport in das Fahrzeug kann gefährlich sein!
+
+
 
 .. _Thema-hyperventilationssyndrom:
 .. _thema-hyperventilationstetanie:

@@ -363,9 +363,9 @@ grundsätzlich von einer Reanimation auszugehen.
 
 Nur in sehr seltenen Fällen kann primär ein isolierter
 Atemstillstand ohne gleichzeitigem Kreislaufstillstand
-beobachtet werden. Auf diese Spezialfälle (z.\,B.
+beobachtet werden. Auf diese Spezialfälle (z. B.
 Opiatintoxikation) wird hier nicht weiter eingegangen. Auch
-der iatrogene Atemstillstand (z.\,B. im Rahmen einer Narkose) wird an dieser Stelle nicht
+der iatrogene Atemstillstand (z. B. im Rahmen einer Narkose) wird an dieser Stelle nicht
 behandelt.
 
 

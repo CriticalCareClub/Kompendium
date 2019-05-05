@@ -310,20 +310,71 @@ Beschreibung
 ============
 
 Die Wundversorgung orientiert sich an der Wundart sowie an der Stärke
-der Blutung. Die Techniken zur Blutstillung (Hochhalten der betroffenen
-Gliedmaße, Zudrücken, Abdrücken der blutzuführenden Arterie,
-Druckverband und Abbinden) sind unter [chp:EHI], beschrieben. Der
-professionelle Helfer muss neben den Erste-Hilfe-Maßnahmen zusätzlich
+der Blutung. 
+Der professionelle Helfer muss neben den Erste-Hilfe-Maßnahmen zusätzlich
 Prioritäten bzgl. der optimalen Vorgehensweise setzen, die vitale
 Bedrohung durch Flüssigkeitsmangel (durch Blutverlust oder
 Verbrennungen) einschätzen, die Infektionsgefahren so gut wie möglich
 abwenden und ggf. eine ärztliche Schmerztherapie einleiten (lassen).
 
-.. todo:: !!! PROCEDURE !!! TY61000C 
 
 .. _TY61000C:
+.. _m-wundversorgung:
+
+Maßnahmen: Basis-Wundversorgung
+===============================
 
 .. todo:: Maßnahme TY61000C: Anpassung an höherqualifiziertes Personal
+
+
+Basismaßnahmen
+    -   Wunden dürfen nicht direkt berührt werden, 
+        außer es ist zur raschen Blutstillung unbedingt notwendig! 
+        Es muss immer mit Handschuhen und mit **sterilem Material**
+        gearbeitet werden!\footnote{Bei der Wundversorgung sind
+        immer sterile Materialien zu verwenden. Papierhandtücher
+        o. ä. sind *nicht zulässig*! Eine Ausnahme kann
+        lediglich bei der Versorgung des Stichs bei der
+        Blutzuckermessung mittels eines sauberen Tupfers gemacht
+        werden, da die Wunde minimal klein ist.
+    -   **Reinigung**: 
+        Oberflächliches **ab**spülen mit
+        steriler (NaCl 0,9%) von innen nach außen. 
+        Bei oberflächlichen
+        Wunden ist auch ein Abspülen unter fließendem Leitungswasser
+        zulässig :cite:`Fernandez2012`\ . 
+        Wunden, die im Spital
+        weiter versorgt werden, sollen nicht übermäßig gereinigt werden, 
+        auch soll keine
+        wesentliche Zeitverzögerung entstehen.  
+        
+        Alternativ sind
+        statt der physiologischen Kochsalzlösung auch andere
+        kristalloide Infusionslösungen verwendbar. Die
+        Desinfektion mittels Wunddesinfektionsmittels ist aufgrund der 
+        toxischen Wirkung auf das Gewebe nicht
+        mehr standardmäßig empfohlen.
+        :cite:`Fernandez2012,Franz2012,Schupp2009,Marquardt2010`
+    -   **Fremdkörper** 
+        (Messer, Schere oder sonstige Pfählungsgegenstände) sind 
+        **in der Wunde zu belassen**!
+        Diese Gegenstände sind mit geeignetem Fixationsmaterial
+        (z. B. Mullbinden) zu stabilisieren. Lose, kleine
+        Fremdkörper wie z. B. Glassplitter 
+        dürfen mittels *steriler Instrumente* 
+        (Pinzette, ...) entfernt werden.
+    -   Ausgetretene Strukturen 
+        (z. B. Gehirn, Eingeweide)
+        dürfen *nicht zurückgestopft* werden! Solche Organteile
+        sollten mit steriler physiologischer Kochsalzlösung
+        feucht gehalten und anschließend steril abgedeckt werden! 
+    -   Ein steriler
+        Wundverband mit der jeweiligen Situation angemessenem
+        Material (z. B. Pflaster, Momentverband, Kompresse mit
+        Mullbinde, Wundfolie, ...) muss angelegt oder die
+        Wunde anderweitig steril, aber *nicht* luftdicht
+        abgedeckt werden (Ausnahme: Bagatellverletzungen).
+
 
 .. figure:: /Bilder/HirtlerLena-Ccc/frische-Wunde-desinfizieren.*
 

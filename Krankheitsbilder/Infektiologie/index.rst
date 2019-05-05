@@ -276,11 +276,21 @@ kaum an.
 
 -  Reduzierter Allgemeinzustand (AZ)
 
-.. todo:: !!! PROCEDURE !!! IJ18090C 
-
 .. _IJ18090C:
+.. _m-pneumonie:
+
+Maßnahmen: Pneumonie
+--------------------
 
 .. todo:: Maßnahme IJ18090C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+   -   Symptomatisch
+   -   Wärmeerhalt
+   -   Bei Fieber Meningismus-Zeichen prüfen!
+   -   Transportentscheidung: Abt. f. Innere Medizin
+
+
 
 ******************************
 Nicht alltägliche Erkrankungen

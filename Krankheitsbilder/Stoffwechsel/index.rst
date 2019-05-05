@@ -257,11 +257,41 @@ eine Hypoglykämie denken!
     -  → BZ-Messung bei jeder neurologischen
        Störung.
 
-.. todo:: !!! PROCEDURE !!! ME16020C 
 
 .. _ME16020C:
+.. _m-hypoglykaemie:
+
+Maßnahmen: Hypoglykämie
+-----------------------
 
 .. todo:: Maßnahme ME16020C: Anpassung an höherqualifiziertes Personal
+
+Taktik
+    Vitale Bedrohung je nach Bewusstseinsgrad,
+    Zucker zuführen
+
+Basismaßnahmen
+-   Vitale Bedrohung einschätzen. |TxBeiVit| |TxMassVitMK|
+
+-   BZ messen! Zur Diagnosestellung bzw. *vor* und *nach*
+    jeder Zuckergabe
+-   Zucker zuführen: Wenn der Patient bewusstseinsklar
+    ist, Traubenzucker oder Zuckerwasser geben.
+    Danach "feste Speisen" nachessen lassen,
+    da der Traubenzucker nur eine
+    kurze Wirkdauer hat.
+
+Wenn der Patient nicht mehr bewusstseinsklar ist, kann die
+Zuckergabe nur über eine venöse Gabe, z. B. durch einen
+Notarzt oder NKV, erfolgen (getrübte Patienten dürfen
+aufgrund der Aspirationsgefahr nichts mehr essen).
+
+Pharmakotherapie
+    -   Bei der Hypoglykämie mit Bewusstseinsstörung ist die Gabe
+        von Glukose i. v. und kristalloider Infusionslösung 
+        gem. Algorithmus durch NKV vorgesehen. 
+        :cite:`Asb921Memo-AL-2011-000001`
+
 
 Bei der Hyperglykämie ist der Blutzuckerspiegel erhöht
 ======================================================
@@ -381,12 +411,27 @@ verwechselt werden!
 
 -  Azeton-Geruch (Nicht mit Alkoholfahne verwechseln!)
 
-.. todo:: !!! PROCEDURE !!! ME14012C 
 
 .. _ME14012C:
+.. _m-hyperglykaemisches-koma:
+
+Maßnahmen: Hyperglykämisches Koma
+-----------------------------------
 
 .. todo:: Maßnahme ME14012C: Anpassung an höherqualifiziertes Personal
 
+Taktik 
+    **Vitale Bedrohung!**
+    
+    Sichern der Vitalfunktionen
+
+Basismaßnahmen
+-   |TxMassVitMKBes|
+
+    -   Lagerung: Stabile Seitenlage
+
+Pharmakotherapie
+    -   ?
 
 .. [249]
    Genauer: *diabetischen* :index:`\ <Ketoazidose!diabetische>`

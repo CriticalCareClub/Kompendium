@@ -278,11 +278,44 @@ Hinweiszeichen
 
 -  Verhaltensstörungen.
 
-.. todo:: !!! PROCEDURE !!! KT74011C 
 
 .. _KT74011C:
+.. _m-kindesmisshandlung:
+
+Maßnahmen: Kindesmisshandlung
+-----------------------------
 
 .. todo:: Maßnahme KT74011C: Anpassung an höherqualifiziertes Personal
+
+
+Die Aufgaben des Rettungsdienstes bei Verdacht auf Kindesmisshandlung besteht in:
+
+Basismaßnhamen
+    #.  Daran denken!
+    #.  Umstände und Umfeld abklären
+    #.  Unstimmigkeiten und Auffälligkeiten auf eine neutrale Weise
+        **dokumentieren**
+    #.  Obiges verlässlich bei der Übergabe an die nachbetreuende Einrichtung
+        weiterleiten. Evtl. Name des Gesprächpartners bei der  Übergabe dokumentieren.
+    #.  **Patienten nicht im Stich lassen**: 
+        Gelindestes Mittel wählen,
+        evtl. Vorwand für die Hospitalisierung suchen, 
+        aber wenn ein begründeter
+        Verdacht auf eine Misshandlung besteht 
+        und die Erziehungsberechtigten unkooperativ sind 
+        notfalls auch die Exekutive beiziehen.
+
+
+.. caution::
+
+    Jedenfalls zu unterlassen sind:
+
+    -   Voreilige Verdachtsäußerungen. 
+
+        *"Nicht alles was stinkt ist ein Fisch!"*
+    -   Andeutungen gegenüber den Erziehungsberechtigten oder Dritten.
+
+
 
 Vernachlässigung
 ================

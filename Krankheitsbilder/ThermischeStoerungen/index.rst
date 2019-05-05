@@ -74,17 +74,34 @@ es wichtig den Patienten zu kühlen.
 
    -  Körpertemperatur normal
 
-.. todo:: !!! PROCEDURE !!! MT67010C 
 
 .. _MT67010C:
 
+Maßnahmen: Hitzekollaps
+-----------------------
+
 .. todo:: Maßnahme MT67010C: Anpassung an höherqualifiziertes Personal
 
-.. todo:: !!! PROCEDURE !!! MT67050C 
+Basismaßnahmen
+    -   Flachlagerung: → Gehirndurchblutung
+        wieder ↑, bewusstseinsklar
+    -   nach Sekunden gebessert, 
+        regelt sich von selbst
+    -   Patient sitzen lassen, Flüssigkeit
+
 
 .. _MT67050C:
 
 .. todo:: Maßnahme MT67050C: Anpassung an höherqualifiziertes Personal
+
+Maßnahmen: Hitzeerschöpfung
+---------------------------
+
+Basismaßnahmen
+    -   Kühlung, Schatten
+    -   Flüssigkeitszufuhr, wenn bewusstseinsklar
+    -   Neurocheck inkl. BZ-Messung
+
 
 .. _Thema-sonnenstich:
 
@@ -152,11 +169,59 @@ und Bewusstlosigkeit kommen.
 
    -  Schwere Fälle: Krampfanfälle, Bewusstlosigkeit
 
-.. todo:: !!! PROCEDURE !!! MT67000C 
 
 .. _MT67000C:
+.. _m-sonnenstich:
+
+
+Maßnahmen: Hitzschlag, Sonnenstich
+----------------------------------
 
 .. todo:: Maßnahme MT67000C: Anpassung an höherqualifiziertes Personal
+
+.. todo:: Tabelle Maßnahme MT67000C
+
+    ::
+
+        %
+        ~
+        \par
+        {\TableBaseModification
+        \begin{tabularx}{\linewidth}{XX}
+        \noindent\TabHeading{Hitzschlag}
+        &
+        \noindent\TabHeading{Sonnenstich}
+        \\\addlinespace\midrule\addlinespace
+        % \begin{minipage}{\linewidth}
+        \begin{itemize}
+        -   |TxMassVitMK|
+        -   Beengende Kleidungsstücke lockern
+        -   Flachlagerung an kühlem Ort (Schatten), Beine und Kopf hochlagern. 
+        -   Kühlung von \E{außen} (Fächer, mit Eiswürfeln abreiben etc.)
+        -   Kühlung von *innen*: für **ansprechbare** Patienten viel kühle
+        (alkoholfreie) Flüssigkeit, evtl. Elektrolyt-Getränke
+        -   Neurocheck inkl. BZ-Messung
+        \end{itemize}
+        % \end{minipage}
+        &
+        % \begin{minipage}{\linewidth}
+        \begin{itemize}
+        -   Vitale Bedrohung einschätzen
+        |TxBeiVit| |TxMassVitMK|
+        -   Flachlagerung an kühlem Ort (Schatten), Kopf hochlagern
+        -   Beengende Kleidungsstücke lockern
+        -   Kühlung von außen (Fächer, mit Eiswürfeln abreiben, kalte
+        Umschläge auf die Stirn etc.)
+        -   Kühlung von innen: für **ansprechbare** Patienten kühle
+        (alkoholfreie) Flüssigkeit, evtl. Elektrolyt-Getränke
+        %   -   Schocklagerung u. -bekämpfung. % REVIEW 2010-05-19
+        -   Neurocheck inkl. BZ-Messung
+        \end{itemize}
+        % \end{minipage}
+        \\\addlinespace\bottomrule
+        \end{tabularx}
+        }
+
 
 ************
 Unterkühlung
@@ -204,8 +269,19 @@ Symptome  und Phasen
        Patienten können auch noch nach Stunden (!) ohne
        Kreislauftätigkeit erfolgreich reanimiert werden!
 
-.. todo:: !!! PROCEDURE !!! MT68001C 
-
 .. _MT68001C:
+.. _m-unterkuehlung-schwer:
+
+
+Maßnahmen: Schwere Unterkühlung (< 34°C)
+========================================
 
 .. todo:: Maßnahme MT68001C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   |TxMassVitMK|
+    -   Den Patient so wenig als möglich (nur soviel wie unbedingt nötig)
+        bewegen (drohender Bergungstod).
+    -   Schutz vor weiterer Abkühlung, \Ca{keine {aktive} Erwärmung!}
+
+        -   Woll- und Aludecken! Mütze!

@@ -233,17 +233,64 @@ Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
 	   |                         |            | 1            | bewegt gar nicht              |
 	   +-------------------------+------------+--------------+-------------------------------+
 
-.. todo:: !!! PROCEDURE !!! MR40001B 
 
 .. _MR40001B:
+.. _m-bewusstseinstruebung:
+
+
+Maßnahmen: Bewusstseinseintrübung
+=================================
 
 .. todo:: Maßnahme MR40001B: Anpassung an höherqualifiziertes Personal
 
-.. todo:: !!! PROCEDURE !!! MR40021B 
+
+Basismaßnahmen
+    -   Lagerung: situationsgerecht je nach
+        Verdachtsdiagnose, im Zweifel **stabile
+        Seitenlage**, bei hochschwangeren Frauen auf die
+        *linke* Seite.
+    -   |TxBeiVit| |TxMassVitMKBes|
+
+        -   **Monitoring**: Auf **Bewusstseinsgrad**
+            besonders achten!
+
+    -   Diagnostische Schwerpunkte:
+
+        -   **Neurocheck**, inkl. **BZ**-Messung!
+        -   **Traumacheck**. Suche nach Primär- und
+            Folgeverletzungen!
+        -   **Ursachenforschung** -- Warum ist der
+            Patient eingetrübt?
+        -   (Fremd-)Anamnese, Umstände, Szenerie
+
+
 
 .. _MR40021B:
+.. _m-bewusstlosigkeit:
+
+Maßnahmen: Bewusstlose und soporöse Patienten
+=============================================
 
 .. todo:: Maßnahme MR40021B: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   |TxMassVitMKBes|
+
+        -   Lagerung: stabile Seitenlage, bei hochschwangeren Frauen auf die
+            *linke* Seite.
+        -   **Monitoring**: Auf **Bewusstseinsgrad**
+            besonders achten!
+
+    -   Diagnostische Schwerpunkte:
+
+        -   **Neurocheck**, inkl. **BZ**-Messung!
+        -   **Traumacheck**. Suche nach Primär- und
+            Folgeverletzungen!
+        -   **Ursachenforschung** -- Warum ist der Patient bewusstlos oder
+            soporös?
+        -   (Fremd-)Anamnese, Umstände, Szenerie
+
+
 
 Hirndruckzeichen und Hirnstammeinklemmung
 =========================================
@@ -501,11 +548,104 @@ worden sein:
 
 -  Vorbestehende Beeinträchtigungen
 
-.. todo:: !!! PROCEDURE !!! NI64XX0C 
 
 .. _NI64XX0C:
+.. _m-insult:
+
+
+Maßnahmen: Insult
+=================
+
 
 .. todo:: Maßnahme NI64XX0C: Anpassung an höherqualifiziertes Personal
+
+
+Taktik 
+    **Vitale Bedrohung!**
+    
+    Zeitkritisch (*"Time is brain."*):
+    Vitalfunktionen sichern, 
+    rascher Transport an eine geeignete Abteilung.
+
+Grundsätzlich
+ist ein Schlaganfall-Patient aufgrund seiner Diagnose als 
+**vital bedroht** und gleichzeitig als **zeitkritisch**
+(*"Time is brain."*) einzustufen. 
+Eine definitive Therapie in einer Spezialabteilung
+(*Stroke Unit*) kann andere, noch nicht abgestorbene
+Teile des Hirns vor weiterem Schaden bewahren, d. h. es ist
+sehr wichtig, dass diese Therapie möglichst schnell
+erfolgt.
+
+
+Basismaßnahmen
+    -   |TxMassVitMKBes|
+
+        -   **Lagerung**: *leicht erhöhter Oberkörper*
+        -   **Sauerstoff**: Gabe je nach SpO₂,
+            unterer Grenzwert 94%,
+            darüber ist von einer O₂-Gabe abzusehen, da es
+            sonst zu einer Gefäßengstellung mit nachfolgender
+            Mangeldurchblutung in den noch gesunden Hirnarealen
+            kommen kann! 
+        -   **Notarzt**: Grundsätzlich ist ein
+            Schlaganfall-Patient aufgrund seiner Diagnose 
+            als vital bedroht einzustufen, 
+            er ist jedoch gleichzeitig zeitkritisch (s. o.).
+            Daher soll von einer
+            Nachberufung eines Notarztes *abgesehen* werden,
+            *wenn folgende Umstände gegeben sind*:
+
+            #.  Die Verdachtsdiagnose gilt als *sehr sicher*.
+            #.  Der Patient ist sonst als *stabil* 
+                (:ref:`m-ersteinschaetzung`) eingestuft
+                und bewusstseinsklar
+                
+                Bei der Einschätzung des Bewusstseins
+                darf man sich nicht durch die durch den Schlaganfall
+                verursachten Symptome 
+                (Sprachstörungen, Blickstarre ...)
+                beirren lassen..
+            #.  Es gibt sonst *keine anderen Umstände* 
+                die die Berufung
+                eines Notarztes erforderlich machen.
+            #.  Es muss versucht werden, eine Aufnahme auf eine
+                *Spezialabteilung* für Schlaganfälle zu
+                organisieren (Stroke Unit,
+                Kontaktaufnahme mit der Leitstelle).
+                
+                Der Erfolg ist abhängig von der
+                Verfügbarkeit eines entsprechenden freien Bettes.
+            #.  Regionale Bestimmungen müssen beachtet werden!
+
+    -   **Blutdruck**: 
+        Blutdruckwerte bis 220/120 mm Hg werden toleriert,
+        wenn nicht cardiopulmonale Gründe (Myocardischämie,
+        Herzinsuffizienz, ...) andere Grenzwerte erfordern.
+        Senkung des Blutdrucks ist eine ärztliche Maßnahme.
+    -   **Neurocheck** inkl. Messung des **Blutzuckers** ist
+        zwingend erforderlich!
+    -   **Transportentscheidung**: 
+        Wenn verfügbar: **Stroke Unit**, sonst
+        Abklärung mit Leitstelle wegen Alternativen 
+        (Abt. für Neurologie oder Innere Medizin, 
+        mit Möglichkeit zur CT und Intensivüberwachung).
+        Bei Anforderung einer Stroke Unit ist anzugeben:
+
+        #.  Alter
+        #.  Beginn der Symptome
+        #.  Vorherige Schlaganfälle
+
+
+.. caution::
+
+    -   Eine engmaschige Verlaufskontrolle, insbesonders des
+        Bewusstseinszustandes, ist wichtig!
+
+
+
+:cite:`Aass-1.0var1,AassMk-2013var1,MA70-Protokoll-2012-10-11,AsboeLvWien-2013-01-29,Lang2012,Ma70-Ausrueckordnung-2012-01-24`
+
 
 ******************************************************
 Vom Gehirn ausgehende Krämpfe: Zerebrale Krampfanfälle
@@ -689,17 +829,86 @@ Krampf muss dann mit Medikamenten durchbrochen werden.
     -  Im Rettungsdienst gilt praktisch jeder Krampfanfall, den das
        Personal selber miterlebt, als Status-Verdächtig.
 
-.. todo:: !!! PROCEDURE !!! NR56081C 
 
 .. _NR56081C:
+.. _m-zerebraler-krampfanfall-bestendend:
+
+Maßnahmen Krampfender Patient
+=============================
+
 
 .. todo:: Maßnahme NR56081C: Anpassung an höherqualifiziertes Personal
 
-.. todo:: !!! PROCEDURE !!! NR56082C 
+
+Taktik 
+    **Vitale Bedrohung!**
+
+    Verletzungen vermeiden,
+    Vitalfunktionen sichern, Abklären ob Status epilepticus
+    besteht, Klärung des Herganges (Fremdanamnese!),
+    Differentialdiagnosen abklären
+
+Basismaßnahmen
+-   |TxMassVitMKBes|
+
+    -   Lagerung: sichern. In der Nachschlafphase stabile
+        Seitenlage
+
+        -   Patient vor Verletzungen schützen, Möbel etc. entfernen oder polstern
+        -   NICHT festhalten -- aber sichern, Eigenschutz
+            beachten!
+            Der Patient darf
+            nicht von der Trage oder aus dem Bett fallen, der Kopf
+            darf nicht am Boden oder Tischbein anschlagen, etc.
+
+-   Besondere Diagnostik:
+
+    -   Neurocheck inkl. Messung des **Blutzuckers**!
+    -   Traumacheck
+    -   Nach *jedem Krampanfall*: Einschätzungsblock
+        (:ref:`m-einschaetzungsblock`) inkl.
+        Trauma-Untersuchungen
+
+-   Reizabgeschirmter Transport
+-   Transportentscheidung: Abt.f. Innere Medizin. (evtl. auch
+    Intensivüberwachung)
+
+
+
+
 
 .. _NR56082C:
+.. _m-zerebraler-krampfanfall-status-post: 
+
+Maßnahmen: Nicht-(mehr) krampfender Patient
+===========================================
 
 .. todo:: Maßnahme NR56082C: Anpassung an höherqualifiziertes Personal
+
+Taktik 
+    Abklären ob Status epilepticus besteht, 
+    Klärung des Herganges (Fremdanamnese!),
+    Differentialdiagnosen abklären
+    Neuerlicher Krampfanfall möglich!
+
+Basismaßnahmen
+-   Umstände klären und entscheiden ob **Notarzt**
+    notwendig ist:
+
+    -   2 oder mehr Krampfanfälle innerhalb von 24 Stunden
+    -   Anfälle \enquote{erheblich anders} als sonst üblich
+    -   Erster Krampfanfall überhaupt
+
+-   Besondere Diagnostik:
+
+    -   Neurocheck inkl. Messung des **Blutzuckers**!
+    -   Traumacheck
+
+-   Reizabgeschirmter Transport
+-   Transportentscheidung: Abt.f. Innere Medizin.
+
+
+
 
 Besondere Krampfanfälle
 =======================

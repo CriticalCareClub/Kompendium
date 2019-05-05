@@ -363,11 +363,24 @@ Ansteckung von sonst gesunden und immunkompetenten Personal
 unwahrscheinlich. Für eine Ansteckung wäre ein ca. 8-stündiger Kontakt
 erforderlich. [273]_
 
-.. todo:: !!! PROCEDURE !!! IA16091C 
 
 .. _IA16091C:
+.. _m-tuberkulose:
+
+Maßnahmen: Tuberkulose
+----------------------
 
 .. todo:: Maßnahme IA16091C: Anpassung an höherqualifiziertes Personal
+
+
+Basismaßnahmen
+-   Bei Verdacht auf eine offene Tuberkulose
+    Schutzmasken verwenden: FFP~3 für das Personal, 
+    Mund-Nasenmaske für den
+    Patienten, wenn zumutbar.
+-   **Meldung an Leitstelle** und ggfs. Betriebsleitung!
+-   Desinfektion laut Hygieneplan
+
 
 .. _Thema-hiv:
 .. _Thema-aids:
@@ -654,11 +667,26 @@ Meningokokken-Meningitis.
 
 -  Jeder fiebernde Patient ist auf Meningismus-Zeichen zu untersuchen!
 
-.. todo:: !!! PROCEDURE !!! IG03091C 
 
 .. _IG03091C:
+.. _m-meningitis:
+
+Maßnahmen: Meningitis
+---------------------
 
 .. todo:: Maßnahme IG03091C: Anpassung an höherqualifiziertes Personal
+
+
+Basismaßnahmen
+    -   Schutzmaske für Personal und Patient (wenn zumutbar)
+    -   Rückmeldung an Leitstelle vor Transport, Voranmeldung im Krankenhaus
+    -   Patient erst in das Spitalsgebäude bringen, wenn
+        Ziel und Weg dorthin klar ist
+    -   Desinfektionsmaßnhamen gem. Hygieneplan
+    -   Personal bekommt im Spital evtl. eine Antibiotika-Prophylaxe
+    -   Wechsel der Dienstkleidung
+
+
 
 .. _Thema-Wundstarrkrampf:
 
@@ -958,12 +986,28 @@ http://ecdc.europa.eu/en/healthtopics/ebola_marburg_fevers/EVDcasedefinition/Pag
 
 !!! LITERARY !!!
 
-.. todo:: !!! PROCEDURE !!! IA98041C 
-
 .. _IA98041C:
+
+Maßnahmen: Ebola-Viruserkrankung
+---------------------------------
 
 .. todo:: Maßnahme IA98041C: Anpassung an höherqualifiziertes Personal
 
+Grundsätzlich müssen die lokalen Einsatz-
+und Alarmpläne gekannt und berücksichtigt werden.
+
+Bei Vorliegen eines Verdachtsfalles müssen folgende Punkte umgehend durchgeführt werden:
+
+-   Mindestens 1 m Abstand zur betroffenen Person einhalten
+-   Person OP-Maske anlegen lassen
+-   Händedesinfektion
+-   Anlegen der eigenen Schutzausrüstung: 
+
+    Minimum: FFP3-Maske, 2 Paar Handschuhe, Schutzbrille, Schutzanzug, Überschuhe
+-   Rückmeldung an Leitstelle, Abwarten weiterer Anweisungen
+
+
+Das weitere Prozedere richtet sich nach den lokalen Vorgaben.
 
 
 

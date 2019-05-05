@@ -10,7 +10,7 @@
 
    -  : Bauchdecke entspannen , Knierolle
 
--  Darmteile nicht zurückstopfen :math:`{\rightarrow}` sonst
+-  Darmteile nicht zurückstopfen → sonst
    Darmriß/Darmverschluß
 
 -  Steril abdecken, mit Ringerlösung feucht halten

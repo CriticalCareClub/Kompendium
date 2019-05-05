@@ -21,7 +21,7 @@
 
 -  Leitstelle informieren
 
--  :math:`{\rightarrow}` (Von der Leitstelle erfragen).
+-  → (Von der Leitstelle erfragen).
 
 -  Patient: Zielspital informieren:
 
@@ -36,7 +36,7 @@
    -  Einzelfall muss immer individuell beurteilt werden
       (Nutzen/Risiko), starke Nebenwirkungen.
 
-   -  Muss innerhalb von 2 begonnen werden :math:`{\rightarrow}` daher
+   -  Muss innerhalb von 2 begonnen werden → daher
       in ein geeignetes Krankenhaus!
 
 -  Meldung an Betriebsleitung

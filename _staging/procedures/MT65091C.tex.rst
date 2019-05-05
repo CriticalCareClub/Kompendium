@@ -29,10 +29,10 @@
 
    2
 
-   #. ? (Alter, KG, Vorerkrankungen, … :math:`\rightarrow`
+   #. ? (Alter, KG, Vorerkrankungen, … →
       Risikoabschätzung!)
 
-   #. ? (Art des Giftes :math:`\rightarrow` evt. zu erwartende Symptome)
+   #. ? (Art des Giftes → evt. zu erwartende Symptome)
 
    #. ? (Zeit seit Einnahme)
 

@@ -513,7 +513,7 @@ entwässern.
 
 -  Mangel an Flüssigkeit
 
--  Flüssigkeitszufuhr :math:`{\downarrow}`
+-  Flüssigkeitszufuhr ↓
 
    -  Verminderter Trinkantrieb
 
@@ -542,7 +542,7 @@ charakteristischerweise tiefliegend, die Nase wirkt auffallend spitz.
 Der RR ist mitunter sehr nieder, die HF eher hoch. *Der Patient ist bis
 zur Klärung der Situation nüchtern zu belassen!*
 
--  RR :math:`{\downarrow}`
+-  RR ↓
 
 -  stehende Hautfalten
 

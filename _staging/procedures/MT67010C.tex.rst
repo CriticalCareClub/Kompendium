@@ -4,7 +4,7 @@
    :format: html latex
 ..
 
--  Flachlagerung: :math:`{\rightarrow}` Gehirndurchblutung wieder
+-  Flachlagerung: → Gehirndurchblutung wieder
    :math:`{\uparrow}`, bewusstseinsklar
 
 -  nach Sekunden gebessert, “regelt sich von selbst”

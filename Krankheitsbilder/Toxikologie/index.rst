@@ -331,7 +331,7 @@ Einleitung
 ^^^^^^^^^^
 
 Kohlenmonoxid () ist ein farb- und geruchloses Gas. Es entsteht bei
-unvollständiger Verbrennung (O2-Zufuhr :math:`{\downarrow}`), dies
+unvollständiger Verbrennung (O2-Zufuhr ↓), dies
 passiert vor allem bei schlecht gewarteten Gasheizungen und
 Durchlauferhitzern. bindet 300 mal besser an den roten Blutfarbstoff
 Hämoglobin als O2, daher verdrängen schon kleine Mengen den Sauerstoff

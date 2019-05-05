@@ -16,7 +16,7 @@
 
 -  : Der Wärmeerhalt hat massiven Einfluss auf das Überleben!
 
--  Verletzungsmuster/Unfallmechanismus erheben :math:`\rightarrow` zu
+-  Verletzungsmuster/Unfallmechanismus erheben → zu
    erwartende Komplikationen einschätzen
 
 -  

@@ -270,7 +270,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
 -   **B** *Atmung*: Evtl. unregelmäßig
 
 -   **C** *Kreislauf*: Der Patient ist *hyperton*, aber *bradykard*
-    (*HF\ ↓, RR\ :math:`\uparrow`*), der Puls ist
+    (*HF\ ↓, RR\ ↑*), der Puls ist
     langsam, aber äußerst stark spürbar (*Druckpuls*).
 
 -   **D** *Pupillen*: Typisch für das späte Stadium ist die *Ungleichheit
@@ -286,7 +286,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
 
 -   **4** Übelkeit, Erbrechen
 
--   **C** HF\ ↓, RR\ :math:`\uparrow`
+-   **C** HF\ ↓, RR\ ↑
 
 -   **D** Ungleichweite Pupillen, verlangsamte Lichtreaktion
 
@@ -418,7 +418,7 @@ können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
 
    -  Bewusstseinsstörungen
 
-   -  HF\ ↓, RR\ :math:`\uparrow`
+   -  HF\ ↓, RR\ ↑
 
    -  Ungleichweite Pupillen, verlangsamte Lichtreaktion
 
@@ -455,7 +455,7 @@ Je nach betroffener Hirnregion sehr unterschiedlich.
 
    -  **3** Bewusstseinsstörungen
 
-   -  **C** HF\ ↓, RR\ :math:`\uparrow`
+   -  **C** HF\ ↓, RR\ ↑
 
    -  **D** Ungleichweite Pupillen, verlangsamte Lichtreaktion
 
@@ -473,7 +473,7 @@ werden! Ebenso ist immer an *Vergiftungen* zu denken.
 Die Abgrenzung zu anderen neurologischen Erkrankungen ist ohne
 weitergehende Untersuchungen oft schwierig bzw. schwer möglich.
 
--  Blutzucker :math:`{\downarrow}`, :math:`{\uparrow}`
+-  Blutzucker ↓, :math:`{\uparrow}`
 
 -  Sonstige neurologische Erkrankung.
 

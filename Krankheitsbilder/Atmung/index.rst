@@ -202,11 +202,11 @@ Blut. In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
 
 | ll **Störung des/der** & **Vorkommen und Erkrankungen**
 | *O2-Angebotes* & Gärkeller (CO₂:math:`{\uparrow}`,
-  O2\ :math:`{\downarrow}`)
+  O2\ ↓)
 
 “dünne Luft” (z.B. Hochgebirge; niedriger Sauerstoffpartialdruck)
 
-Defekte Gastherme (:math:`{\uparrow}`, O2\ :math:`{\downarrow}`)
+Defekte Gastherme (:math:`{\uparrow}`, O2\ ↓)
 
 | Ertrinken
 | *O2-Diffusion* & Lungenödem
@@ -517,7 +517,7 @@ ABCDE
           möglich
 
 **C**
-    HF :math:`\uparrow`, RR :math:`\uparrow`
+    HF ↑, RR ↑
 
 **=**
     Bei schwerer Verlegung vital bedroht, sonst je nach Befund
@@ -782,7 +782,7 @@ ABCDE
 
 **B**
     Akute Atemnot mit trockenem Husten, Verlängerte Ausatmungsphase, AF
-    :math:`\uparrow`, Exspiratorisches Atemgeräusch (Stridor)
+    ↑, Exspiratorisches Atemgeräusch (Stridor)
 
     Schwerer Anfall: Kein oder leises Atemgeräusch,
     |symbol-RedFlag|\  SpO2 :math:`\downarrow\downarrow`
@@ -798,7 +798,7 @@ ABCDE
     Endstadium: |symbol-RedFlag|\  Atemarbeit erschöpft
 
 **C**
-    HF :math:`\uparrow`
+    HF ↑
 
     Schwerer Anfall: HF ↓
 
@@ -1052,7 +1052,7 @@ einem Atemstillstand kommen.
         SpO₂ chronisch niedrig (:math:`\sim`\ 90%): Normalwert gilt nicht!
 
     ``C``
-        HF :math:`\uparrow`, RR :math:`\uparrow`
+        HF ↑, RR ↑
 
     ``=``
         Vitale Bedrohung bei schwerer Atemnot und Bewusstseinsstörungen
@@ -1318,7 +1318,7 @@ ABCDE: Lungenembolie
     |symbol-RedFlag|\  Atemnot, Tachypnoe
 
 **C**
-    HF :math:`\uparrow`, evtl. arrhythmischer Puls (Vorhofflimmern), RR
+    HF ↑, evtl. arrhythmischer Puls (Vorhofflimmern), RR
     normal od. |symbol-RedFlag|\  ↓
 
     Gestaute Halsvenen (Blutrückstau), evtl. arrhythmischer Puls bei
@@ -1748,7 +1748,7 @@ ABCDE: Hyperventilationssyndrom
     (keine Zyanose, SpO2 normal, …)
 
 **C**
-    HF und RR evtl. :math:`\uparrow`
+    HF und RR evtl. ↑
 
 **E**
     Ausschließen:

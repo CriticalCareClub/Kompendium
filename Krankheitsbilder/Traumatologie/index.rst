@@ -800,7 +800,7 @@ Gefahren
    -  Bewusstseinsstörungen
 
    -  Bradykardie, Hypertonie (HF↓,
-      RR\ :math:`\uparrow`)
+      RR\ ↑)
 
    -  Ungleichweite Pupillen, verlangsamte Lichtreaktion
 

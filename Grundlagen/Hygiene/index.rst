@@ -1141,7 +1141,7 @@ Basierend auf :cite:`OeAG2007`
 
 -  Leitstelle informieren
 
--  :math:`{\rightarrow}` Umgehend in ein
+-  → Umgehend in ein
    geeignetes Krankenhaus (Von der Leitstelle erfragen).
 
 -  Patient: Zielspital informieren:
@@ -1157,7 +1157,7 @@ Basierend auf :cite:`OeAG2007`
    -  Einzelfall muss immer individuell beurteilt werden
       (Nutzen/Risiko), starke Nebenwirkungen.
 
-   -  Muss innerhalb von 2 h begonnen werden :math:`{\rightarrow}` daher *sofort*
+   -  Muss innerhalb von 2 h begonnen werden → daher *sofort*
       in ein geeignetes Krankenhaus!
 
 -  Meldung an Betriebsleitung

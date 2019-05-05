@@ -57,8 +57,8 @@ es wichtig den Patienten zu kühlen.
 
    -  Erweiterung der Blutgefäße in der Haut (maximal)
 
-   -  RR\ :math:`{\downarrow}` , Durchblutung des Gehirns kurzzeitig
-      :math:`{\downarrow}`
+   -  RR\ ↓ , Durchblutung des Gehirns kurzzeitig
+      ↓
 
    -  kurze Ohnmacht, “schwarz vor Augen”
 
@@ -70,7 +70,7 @@ es wichtig den Patienten zu kühlen.
 
    -  Starkes Durstgefühl
 
-   -  RR :math:`{\downarrow}`, Tachykardie
+   -  RR ↓, Tachykardie
 
    -  Körpertemperatur normal
 

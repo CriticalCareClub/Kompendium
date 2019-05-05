@@ -482,4 +482,8 @@ bei der das Rückenmark geschädigt bzw. unterbrochen wird
     -  Grundsatz: *Der Schock muss bekämpft werden bevor man ihn
        bemerkt.*
 
-.. todo:: !!! PROCEDURE !!! MR57XX0B
+.. todo:: !!! PROCEDURE !!! MR57XX0B 
+
+.. _MR57XX0B:
+
+.. todo:: Maßnahme MR57XX0B: Anpassung an höherqualifiziertes Personal

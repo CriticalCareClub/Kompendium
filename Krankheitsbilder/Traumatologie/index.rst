@@ -417,7 +417,11 @@ Zusammenfassung
 Aus allen einsatztaktischen Überlegungen ergibt sich ein Bündel an
 Erstmaßnahmen, welche bei Unfällen durchgeführt werden müssen.
 
-.. todo:: !!! PROCEDURE !!! TY14101C
+.. todo:: !!! PROCEDURE !!! TY14101C 
+
+.. _TY14101C:
+
+.. todo:: Maßnahme TY14101C: Anpassung an höherqualifiziertes Personal
 
 .. _thema-frakturen:
 
@@ -570,7 +574,11 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
 
 
 
-.. todo:: !!! PROCEDURE !!! TT14200C
+.. todo:: !!! PROCEDURE !!! TT14200C 
+
+.. _TT14200C:
+
+.. todo:: Maßnahme TT14200C: Anpassung an höherqualifiziertes Personal
 
 Spezielle Knochenbrüche
 =======================
@@ -655,7 +663,11 @@ berichten der Patient oder die Unfallzeugen meist über ein hörbares
 
 -  Hörbares Schnalzen beim Bänderriss
 
-.. todo:: !!! PROCEDURE !!! TT14031C
+.. todo:: !!! PROCEDURE !!! TT14031C 
+
+.. _TT14031C:
+
+.. todo:: Maßnahme TT14031C: Anpassung an höherqualifiziertes Personal
 
 
 .. _thema-verrenkung:
@@ -695,7 +707,11 @@ kann das entsprechende Gelenk nicht bewegen.
 
 -  Abnorme Gelenkstellung (federnd fixiert), bewegungsunfähig
 
-.. todo:: !!! PROCEDURE !!! TT14032C
+.. todo:: !!! PROCEDURE !!! TT14032C 
+
+.. _TT14032C:
+
+.. todo:: Maßnahme TT14032C: Anpassung an höherqualifiziertes Personal
 
 .. _thema-sht:
 
@@ -904,7 +920,11 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
    verschlechtert. Im Zweifelsfall wird der Patient dort zur Beobachtung
    (24h lang) aufgenommen.
 
-.. todo:: !!! PROCEDURE !!! TS06XX0C
+.. todo:: !!! PROCEDURE !!! TS06XX0C 
+
+.. _TS06XX0C:
+
+.. todo:: Maßnahme TS06XX0C: Anpassung an höherqualifiziertes Personal
 
 Offenes SHT
 ===========
@@ -1206,9 +1226,17 @@ Atemlähmung kommen.
 
 -  Atemlähmungen (bei hohem Querschnitt (im Bereich der HWS))
 
-.. todo:: !!! PROCEDURE !!! TT09031C
+.. todo:: !!! PROCEDURE !!! TT09031C 
 
-.. todo:: !!! PROCEDURE !!! TT09032C
+.. _TT09031C:
+
+.. todo:: Maßnahme TT09031C: Anpassung an höherqualifiziertes Personal
+
+.. todo:: !!! PROCEDURE !!! TT09032C 
+
+.. _TT09032C:
+
+.. todo:: Maßnahme TT09032C: Anpassung an höherqualifiziertes Personal
 
 ************
 Thoraxtrauma
@@ -1335,7 +1363,11 @@ Todesangst.
     
     *Hauer*
 
-.. todo:: !!! PROCEDURE !!! TJ93090C
+.. todo:: !!! PROCEDURE !!! TJ93090C 
+
+.. _TJ93090C:
+
+.. todo:: Maßnahme TJ93090C: Anpassung an höherqualifiziertes Personal
 
 
 
@@ -1539,7 +1571,11 @@ Begleitverletzungen im Brustkorb auf (Strauss and Fülöp, n.d.).
     
     [David Hauer, MfG]
 
-.. todo:: !!! PROCEDURE !!! TS31011C
+.. todo:: !!! PROCEDURE !!! TS31011C 
+
+.. _TS31011C:
+
+.. todo:: Maßnahme TS31011C: Anpassung an höherqualifiziertes Personal
 
 Geschlossenes Bauchtrauma
 =========================
@@ -1768,7 +1804,11 @@ einzudämmen.
 -  Verlust von bis zu 5 Litern Blut (= gesamtes Blutvolumen des
    Menschen) möglich!
 
-.. todo:: !!! PROCEDURE !!! TS32831C
+.. todo:: !!! PROCEDURE !!! TS32831C 
+
+.. _TS32831C:
+
+.. todo:: Maßnahme TS32831C: Anpassung an höherqualifiziertes Personal
 
 .. _thema-polytrauma:
 
@@ -1827,7 +1867,11 @@ Häufigkeit der betroffenen Organsysteme bei der Diagnose Polytraumanach
 | 5--15                | Wirbelsäule          |
 +----------------------+----------------------+
 
-.. todo:: !!! PROCEDURE !!! TT07XX1C
+.. todo:: !!! PROCEDURE !!! TT07XX1C 
+
+.. _TT07XX1C:
+
+.. todo:: Maßnahme TT07XX1C: Anpassung an höherqualifiziertes Personal
 
 ****************************************
 Extremitätentrauma und Sportverletzungen
@@ -1861,7 +1905,11 @@ erfolgreich angenäht werden kann. Nach dem Amputat ist in jedem Fall zu
 suchen. Der Amputatstumpf wird steril mit einem Druckverband versorgt
 (kein Abbinden!). An große Blutungen und Schockgefahr denken!
 
-.. todo:: !!! PROCEDURE !!! TT14071C
+.. todo:: !!! PROCEDURE !!! TT14071C 
+
+.. _TT14071C:
+
+.. todo:: Maßnahme TT14071C: Anpassung an höherqualifiziertes Personal
 
 Weitere Verletzungsbilder
 =========================
@@ -2089,9 +2137,17 @@ Für
     -  Ab *10% :math:`\geq`\ 2* verbrannter Körperoberfläche gilt eine
        Verbrennung als “schwer”, für *Kinder* gilt eine Grenze von *5%.*
 
-.. todo:: !!! PROCEDURE !!! TT30001C
+.. todo:: !!! PROCEDURE !!! TT30001C 
 
-.. todo:: !!! PROCEDURE !!! TT30002C
+.. _TT30001C:
+
+.. todo:: Maßnahme TT30001C: Anpassung an höherqualifiziertes Personal
+
+.. todo:: !!! PROCEDURE !!! TT30002C 
+
+.. _TT30002C:
+
+.. todo:: Maßnahme TT30002C: Anpassung an höherqualifiziertes Personal
 
 Was man **nicht** tun darf …
 ============================
@@ -2158,7 +2214,11 @@ daher sehr wichtig.
 
 Volles Ausmaß oft erst nach Stunden!
 
-.. todo:: !!! PROCEDURE !!! TT49091C
+.. todo:: !!! PROCEDURE !!! TT49091C 
+
+.. _TT49091C:
+
+.. todo:: Maßnahme TT49091C: Anpassung an höherqualifiziertes Personal
 
 .. _thema-veraetzung-trauma:
 
@@ -2208,7 +2268,11 @@ auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
 !!! LITERARY !!! (Hoffmann 2008) !!!
 LITERARY !!!
 
-.. todo:: !!! PROCEDURE !!! TT30041C
+.. todo:: !!! PROCEDURE !!! TT30041C 
+
+.. _TT30041C:
+
+.. todo:: Maßnahme TT30041C: Anpassung an höherqualifiziertes Personal
 
 ************
 Erfrierungen
@@ -2237,7 +2301,11 @@ Deshalb ist es wichtig, die Warnsymptome ernst zu nehmen!
 | 3             | grau/schwarze Marmorierung (Nekrose), Gefühllosigkeit   |     |
 +---------------+---------------------------------------------------------+-----+
 
-.. todo:: !!! PROCEDURE !!! TT35071C
+.. todo:: !!! PROCEDURE !!! TT35071C 
+
+.. _TT35071C:
+
+.. todo:: Maßnahme TT35071C: Anpassung an höherqualifiziertes Personal
 
 ************************************
 Unfälle durch Strom- und Blitzschlag
@@ -2387,7 +2455,11 @@ Blitzunfällen immer wieder Überlebende, da die Einwirkdauer extrem kurz
 
 -  typische Symptome
 
-.. todo:: !!! PROCEDURE !!! TT75040C
+.. todo:: !!! PROCEDURE !!! TT75040C 
+
+.. _TT75040C:
+
+.. todo:: Maßnahme TT75040C: Anpassung an höherqualifiziertes Personal
 
 ************************
 Weiterführende Literatur

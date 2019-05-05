@@ -71,7 +71,11 @@ kann wird hier auch bei der Identifizierung des Stoffes geholfen.
 Gegen die meisten Vergiftungen kann man präklinisch, ursächlich wenig
 unternehmen. Das Hauptaugenmerk liegt daher auf:
 
-.. todo:: !!! PROCEDURE !!! MT65091C
+.. todo:: !!! PROCEDURE !!! MT65091C 
+
+.. _MT65091C:
+
+.. todo:: Maßnahme MT65091C: Anpassung an höherqualifiziertes Personal
 
 ************************
 Vergiftungen mit Alkohol
@@ -131,7 +135,11 @@ beurteilen.
 Der Alkoholentzug und das Entzugsdelir wird unter
 :ref:`Thema-alkohol-entzug`, abgehandelt.
 
-.. todo:: !!! PROCEDURE !!! MT51001C
+.. todo:: !!! PROCEDURE !!! MT51001C 
+
+.. _MT51001C:
+
+.. todo:: Maßnahme MT51001C: Anpassung an höherqualifiziertes Personal
 
 Chronische Schäden
 ==================
@@ -236,7 +244,11 @@ Gegenmittel nicht so lange wirkt wie das Opiat, d.h. es kann wieder zu
 einer verminderten Atmung kommen, wenn die Wirkung des Gegenmittels
 nachlässt. Daher soll der Transport nur mit Arztbegleitung erfolgen.
 
-.. todo:: !!! PROCEDURE !!! MT40021C
+.. todo:: !!! PROCEDURE !!! MT40021C 
+
+.. _MT40021C:
+
+.. todo:: Maßnahme MT40021C: Anpassung an höherqualifiziertes Personal
 
 “Partydrogen”: Ecstacy, Schwammerl, Special K …
 ===============================================
@@ -291,7 +303,11 @@ durch Schwitzen viel Flüssigkeit verliert.
 
    -  Flüssigkeitsmangel
 
-.. todo:: !!! PROCEDURE !!! MT43091C
+.. todo:: !!! PROCEDURE !!! MT43091C 
+
+.. _MT43091C:
+
+.. todo:: Maßnahme MT43091C: Anpassung an höherqualifiziertes Personal
 
 (Supady, Schwab, and Busch 2009)
 
@@ -302,7 +318,11 @@ Gase
 Vergiftungen mit Stickgasen
 ===========================
 
-.. todo:: !!! PROCEDURE !!! MT59XX1C
+.. todo:: !!! PROCEDURE !!! MT59XX1C 
+
+.. _MT59XX1C:
+
+.. todo:: Maßnahme MT59XX1C: Anpassung an höherqualifiziertes Personal
 
 Kohlenmonoxid (CO) – oder: Von defekten Heizlüftern, Gasthermen und Autoabgasen
 -------------------------------------------------------------------------------
@@ -365,7 +385,11 @@ Krämpfe sind gut möglich.
 
 -  Pulsoxymeter zeigt falsche Werte an!
 
-.. todo:: !!! PROCEDURE !!! MT58001C
+.. todo:: !!! PROCEDURE !!! MT58001C 
+
+.. _MT58001C:
+
+.. todo:: Maßnahme MT58001C: Anpassung an höherqualifiziertes Personal
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/2006-01-31-gaswienheute2.*
@@ -408,7 +432,11 @@ Symptome
 
 -  Hyperventilation
 
-.. todo:: !!! PROCEDURE !!! MT59070C
+.. todo:: !!! PROCEDURE !!! MT59070C 
+
+.. _MT59070C:
+
+.. todo:: Maßnahme MT59070C: Anpassung an höherqualifiziertes Personal
 
 -  Bei Gasunfällen hat der *Selbstschutz* Vorrang. Oft ist die Bergung
    nur mit *schwerem Atemschutz* möglich →
@@ -444,7 +472,11 @@ Verzögerungstyp
     | Haushalt                 | Chlorgas (Kombination von best. Haushaltsreinigern mit Essig), Lacke, Imprägniersprays, ...   |
     +--------------------------+-----------------------------------------------------------------------------------------------+
 
-.. todo:: !!! PROCEDURE !!! MT59XX2C
+.. todo:: !!! PROCEDURE !!! MT59XX2C 
+
+.. _MT59XX2C:
+
+.. todo:: Maßnahme MT59XX2C: Anpassung an höherqualifiziertes Personal
 
 Kampfgase
 =========
@@ -518,7 +550,11 @@ Gefahren
 
 -  Blutung
 
-.. todo:: !!! PROCEDURE !!! MT54091C
+.. todo:: !!! PROCEDURE !!! MT54091C 
+
+.. _MT54091C:
+
+.. todo:: Maßnahme MT54091C: Anpassung an höherqualifiziertes Personal
 
 Schaumbildner (Wasch-/Putzmittel)
 =================================
@@ -540,7 +576,11 @@ klagen bzw. erbrechen.
 
 -  Übelkeit, Erbrechen
 
-.. todo:: !!! PROCEDURE !!! MT17023C
+.. todo:: !!! PROCEDURE !!! MT17023C 
+
+.. _MT17023C:
+
+.. todo:: Maßnahme MT17023C: Anpassung an höherqualifiziertes Personal
 
 
 

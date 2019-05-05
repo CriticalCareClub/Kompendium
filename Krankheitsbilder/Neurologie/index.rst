@@ -233,9 +233,17 @@ Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
 	   |                         |            | 1            | bewegt gar nicht              |
 	   +-------------------------+------------+--------------+-------------------------------+
 
-.. todo:: !!! PROCEDURE !!! MR40001B
+.. todo:: !!! PROCEDURE !!! MR40001B 
 
-.. todo:: !!! PROCEDURE !!! MR40021B
+.. _MR40001B:
+
+.. todo:: Maßnahme MR40001B: Anpassung an höherqualifiziertes Personal
+
+.. todo:: !!! PROCEDURE !!! MR40021B 
+
+.. _MR40021B:
+
+.. todo:: Maßnahme MR40021B: Anpassung an höherqualifiziertes Personal
 
 Hirndruckzeichen und Hirnstammeinklemmung
 =========================================
@@ -493,7 +501,11 @@ worden sein:
 
 -  Vorbestehende Beeinträchtigungen
 
-.. todo:: !!! PROCEDURE !!! NI64XX0C
+.. todo:: !!! PROCEDURE !!! NI64XX0C 
+
+.. _NI64XX0C:
+
+.. todo:: Maßnahme NI64XX0C: Anpassung an höherqualifiziertes Personal
 
 ******************************************************
 Vom Gehirn ausgehende Krämpfe: Zerebrale Krampfanfälle
@@ -677,9 +689,17 @@ Krampf muss dann mit Medikamenten durchbrochen werden.
     -  Im Rettungsdienst gilt praktisch jeder Krampfanfall, den das
        Personal selber miterlebt, als Status-Verdächtig.
 
-.. todo:: !!! PROCEDURE !!! NR56081C
+.. todo:: !!! PROCEDURE !!! NR56081C 
 
-.. todo:: !!! PROCEDURE !!! NR56082C
+.. _NR56081C:
+
+.. todo:: Maßnahme NR56081C: Anpassung an höherqualifiziertes Personal
+
+.. todo:: !!! PROCEDURE !!! NR56082C 
+
+.. _NR56082C:
+
+.. todo:: Maßnahme NR56082C: Anpassung an höherqualifiziertes Personal
 
 Besondere Krampfanfälle
 =======================

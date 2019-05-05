@@ -291,6 +291,14 @@ SAMPLER
       "Co-", "-comb", "-comp", "plus" oder Zusammensetzung aus
       Wirkstoff- bzw. Markennamen. Z. B.: Acecomb, Exforge, Fosicomb,
 
-.. todo:: !!! PROCEDURE !!! MI10911C
+.. todo:: !!! PROCEDURE !!! MI10911C 
 
-.. todo:: !!! PROCEDURE !!! MI10912C
+.. _MI10911C:
+
+.. todo:: Maßnahme MI10911C: Anpassung an höherqualifiziertes Personal
+
+.. todo:: !!! PROCEDURE !!! MI10912C 
+
+.. _MI10912C:
+
+.. todo:: Maßnahme MI10912C: Anpassung an höherqualifiziertes Personal

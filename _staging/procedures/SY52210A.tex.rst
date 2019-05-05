@@ -38,4 +38,4 @@ sodass die Sauerstoffsättigung (Sp) im Bereich von erreicht wird.
 
 #. Sauerstoffbrille/-maske positionieren
 
-:raw-latex:`\cite{AsboeLehrmeinungRd2011-09}`
+:cite:`AsboeLehrmeinungRd2011-09`\ 

@@ -261,7 +261,11 @@ Wahnthemen
 Ein Wahn kann unterschiedliche Themen haben, die häufigsten sind z.B.
 Verfolgungswahn, Größenwahn oder der Verarmungswahn.
 
-.. todo:: !!! PROCEDURE !!! PF22091C
+.. todo:: !!! PROCEDURE !!! PF22091C 
+
+.. _PF22091C:
+
+.. todo:: Maßnahme PF22091C: Anpassung an höherqualifiziertes Personal
 
 Psychomotorische Unruhe und Aggressivität
 =========================================
@@ -275,7 +279,11 @@ Demenz, Intoxikation, Panikattacken, Manie, akute Psychosen u.v.a.m.
 Hier soll nur auf die grundsätzlich zu bedenkenden Maßnahmen im Umgang
 mit diesen Patienten eingegangen werden.
 
-.. todo:: !!! PROCEDURE !!! PF92091C
+.. todo:: !!! PROCEDURE !!! PF92091C 
+
+.. _PF92091C:
+
+.. todo:: Maßnahme PF92091C: Anpassung an höherqualifiziertes Personal
 
 
 .. _Thema-suizidalität:

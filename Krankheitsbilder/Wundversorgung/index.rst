@@ -319,7 +319,11 @@ Bedrohung durch Flüssigkeitsmangel (durch Blutverlust oder
 Verbrennungen) einschätzen, die Infektionsgefahren so gut wie möglich
 abwenden und ggf. eine ärztliche Schmerztherapie einleiten (lassen).
 
-.. todo:: !!! PROCEDURE !!! TY61000C
+.. todo:: !!! PROCEDURE !!! TY61000C 
+
+.. _TY61000C:
+
+.. todo:: Maßnahme TY61000C: Anpassung an höherqualifiziertes Personal
 
 .. figure:: /Bilder/HirtlerLena-Ccc/frische-Wunde-desinfizieren.*
 

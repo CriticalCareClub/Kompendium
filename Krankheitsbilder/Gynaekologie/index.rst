@@ -73,7 +73,11 @@ Im Zweifel reanimieren!
 
 Diagnose “Abort” vermeiden Symptombeschreibung
 
-.. todo:: !!! PROCEDURE !!! GO06XX1C
+.. todo:: !!! PROCEDURE !!! GO06XX1C 
+
+.. _GO06XX1C:
+
+.. todo:: Maßnahme GO06XX1C: Anpassung an höherqualifiziertes Personal
 
 Eileiterschwangerschaft
 -----------------------
@@ -104,9 +108,17 @@ Abdomens und eines hypovolämischen Schocks.
     -  Bei Frauen mit akutem Abdomen muss immer eine mögliche
        Schwangerschaft abgeklärt werden!
 
-.. todo:: !!! PROCEDURE !!! GO00091C
+.. todo:: !!! PROCEDURE !!! GO00091C 
 
-.. todo:: !!! PROCEDURE !!! GO00092C
+.. _GO00091C:
+
+.. todo:: Maßnahme GO00091C: Anpassung an höherqualifiziertes Personal
+
+.. todo:: !!! PROCEDURE !!! GO00092C 
+
+.. _GO00092C:
+
+.. todo:: Maßnahme GO00092C: Anpassung an höherqualifiziertes Personal
 
 
 
@@ -152,7 +164,11 @@ Symptome eines *akuten Abdomens* zeigen.
 
    -  Akutes Abdomen
 
-.. todo:: !!! PROCEDURE !!! GO45090C
+.. todo:: !!! PROCEDURE !!! GO45090C 
+
+.. _GO45090C:
+
+.. todo:: Maßnahme GO45090C: Anpassung an höherqualifiziertes Personal
 
 .. _thema-vena-cava-syndrom:
 
@@ -176,7 +192,11 @@ rechts der Körpermitte verläuft.
     -  *Jede hochschwangere Patientin* soll in (leichter)
        Linksseitenlage und nicht in Rückenlage transportiert werden.
 
-.. todo:: !!! PROCEDURE !!! GO26051C
+.. todo:: !!! PROCEDURE !!! GO26051C 
+
+.. _GO26051C:
+
+.. todo:: Maßnahme GO26051C: Anpassung an höherqualifiziertes Personal
 
 
 .. _Thema-praeeklampsie:
@@ -247,9 +267,17 @@ Erbrechen. (Haag, Hanhart, and Müller 2006b)
 
    -  Übelkeit, Erbrechen
 
-.. todo:: !!! PROCEDURE !!! GO14090C
+.. todo:: !!! PROCEDURE !!! GO14090C 
 
-.. todo:: !!! PROCEDURE !!! GO15091C
+.. _GO14090C:
+
+.. todo:: Maßnahme GO14090C: Anpassung an höherqualifiziertes Personal
+
+.. todo:: !!! PROCEDURE !!! GO15091C 
+
+.. _GO15091C:
+
+.. todo:: Maßnahme GO15091C: Anpassung an höherqualifiziertes Personal
 
 Vorzeitiger Fruchtwasserabgang
 ------------------------------
@@ -263,7 +291,11 @@ für ihn die Gefahr eines *Nabelschnurvorfalls* oder einer *Infektion*
 (Keimbesiedlung der Fruchthöhle). Die Patientin ist an einer
 geburtshilflichen Abteilung vorzustellen.
 
-.. todo:: !!! PROCEDURE !!! GO42090C
+.. todo:: !!! PROCEDURE !!! GO42090C 
+
+.. _GO42090C:
+
+.. todo:: Maßnahme GO42090C: Anpassung an höherqualifiziertes Personal
 
 ************
 Geburtshilfe
@@ -475,9 +507,17 @@ Ab Beginn der Presswehen bzw. wenn der Kindskopf oder -teile
 weitere Transport zu unterlassen und das Fachpersonal muss bei der
 Geburt Hilfestellung leisten.
 
-.. todo:: !!! PROCEDURE !!! GO80XX1C
+.. todo:: !!! PROCEDURE !!! GO80XX1C 
 
-.. todo:: !!! PROCEDURE !!! GY51310C
+.. _GO80XX1C:
+
+.. todo:: Maßnahme GO80XX1C: Anpassung an höherqualifiziertes Personal
+
+.. todo:: !!! PROCEDURE !!! GY51310C 
+
+.. _GY51310C:
+
+.. todo:: Maßnahme GY51310C: Anpassung an höherqualifiziertes Personal
 
 
 
@@ -548,7 +588,11 @@ Notfälle während und unmittelbar nach der Geburt
 Basisreanimation des Neugeborenen
 ---------------------------------
 
-.. todo:: !!! PROCEDURE !!! GY51140C
+.. todo:: !!! PROCEDURE !!! GY51140C 
+
+.. _GY51140C:
+
+.. todo:: Maßnahme GY51140C: Anpassung an höherqualifiziertes Personal
 
 Asphyxie während der Geburt
 ---------------------------
@@ -584,7 +628,11 @@ normal).
 
 -  Schlaffer Muskeltonus
 
-.. todo:: !!! PROCEDURE !!! GP21090C
+.. todo:: !!! PROCEDURE !!! GP21090C 
+
+.. _GP21090C:
+
+.. todo:: Maßnahme GP21090C: Anpassung an höherqualifiziertes Personal
 
 Nabelschnurvorfall
 ------------------
@@ -630,7 +678,11 @@ Unter Wehentätigkeit kommt es zu starken Blutungen aus der Scheide.
 
 -  Vaginalblutungen während Wehentätigkeit
 
-.. todo:: !!! PROCEDURE !!! GO69041C
+.. todo:: !!! PROCEDURE !!! GO69041C 
+
+.. _GO69041C:
+
+.. todo:: Maßnahme GO69041C: Anpassung an höherqualifiziertes Personal
 
 Pathologische Geburtslagen
 --------------------------
@@ -648,7 +700,11 @@ mittels Kaiserschnitt, durchgeführt werden. Die Geburt in jedem Fall
 verhindern bzw. verzögern. Ein Armvorfall ist eine geburtsunmögliche
 Lageanomalie.
 
-.. todo:: !!! PROCEDURE !!! GO64090C
+.. todo:: !!! PROCEDURE !!! GO64090C 
+
+.. _GO64090C:
+
+.. todo:: Maßnahme GO64090C: Anpassung an höherqualifiziertes Personal
 
 Uterusruptur
 ------------
@@ -660,7 +716,11 @@ plötzlich auf. Damit wird der Geburtsvorgang gestoppt und es herrscht
 Lebensgefahr für die Mutter aufgrund starker Blutungen und für das Kind
 wegen des O2-Mangels.
 
-.. todo:: !!! PROCEDURE !!! GO71010C
+.. todo:: !!! PROCEDURE !!! GO71010C 
+
+.. _GO71010C:
+
+.. todo:: Maßnahme GO71010C: Anpassung an höherqualifiziertes Personal
 
 Blutungen in der Nachgeburtsperiode
 -----------------------------------
@@ -681,7 +741,11 @@ nach der Plazentalösung.
 
 -  Hypovolämischer Schock bis Kreislaufversagen möglich
 
-.. todo:: !!! PROCEDURE !!! GO72000C
+.. todo:: !!! PROCEDURE !!! GO72000C 
+
+.. _GO72000C:
+
+.. todo:: Maßnahme GO72000C: Anpassung an höherqualifiziertes Personal
 
 *************************************************
 Sonstige gynäkologische Erkrankungen und Notfälle
@@ -719,7 +783,11 @@ anhand des Blutverlustes und der Vitalwerte eingeschätzt werden.
    Entjungferung
 
 
-.. todo:: !!! PROCEDURE !!! GN93091C
+.. todo:: !!! PROCEDURE !!! GN93091C 
+
+.. _GN93091C:
+
+.. todo:: Maßnahme GN93091C: Anpassung an höherqualifiziertes Personal
 
 !!! LITERARY !!! (Haag, Hanhart, and Müller 2006a)
 

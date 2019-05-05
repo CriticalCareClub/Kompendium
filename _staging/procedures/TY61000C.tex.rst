@@ -12,7 +12,7 @@
 
 -  : Oberflächliches spülen mit steriler ( 0,9) von innen nach außen.
    Bei oberflächlichen Wunden ist auch ein Abspülen unter fließendem
-   zulässig :raw-latex:`\cite{Fernandez2012}`. Wunden, die im Spital
+   zulässig :cite:`Fernandez2012`\ . Wunden, die im Spital
    weiter versorgt werden, sollen nicht übermäßig gereinigt werden, auch
    soll keine wesentliche Zeitverzögerung entstehen.
 

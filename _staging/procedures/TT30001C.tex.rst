@@ -18,7 +18,7 @@
    Wasser die betroffenen Körperregionen spülen;
 
 -  : Sterile, nicht verklebende Wundauflagen; evtl. metalliserte
-   Wundauflagen :raw-latex:`\cite{Helfen2008,RedelsteinerHRNS1}`; locker
+   Wundauflagen :cite:`Helfen2008,RedelsteinerHRNS1`\ ; locker
    anlegen
 
 -  Ggfs. Schockbekämpfung

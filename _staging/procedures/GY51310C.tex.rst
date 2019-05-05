@@ -84,4 +84,4 @@ Versorgung des Neugeborenen abhängig vom Befund
 
 | 
 
-:raw-latex:`\cite{Erc2010Sek06De,AsboeLehrmeinungRd2011-19,AsboeLehrmeinungRd2011-18}`
+:cite:`Erc2010Sek06De,AsboeLehrmeinungRd2011-19,AsboeLehrmeinungRd2011-18`\ 

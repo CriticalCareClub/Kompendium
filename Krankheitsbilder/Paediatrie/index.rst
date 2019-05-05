@@ -183,7 +183,11 @@ trockene Räume fördern das Auftreten.
 -  Bei Manipulation im Mund-/Rachenraum kann es zu einem Anschwellen und
    einer Verlegung der Atemwege kommen!
 
-.. todo:: !!! PROCEDURE !!! KJ05000C
+.. todo:: !!! PROCEDURE !!! KJ05000C 
+
+.. _KJ05000C:
+
+.. todo:: Maßnahme KJ05000C: Anpassung an höherqualifiziertes Personal
 
 Akute Epiglottitis
 ==================
@@ -218,7 +222,11 @@ ist eher ruhig und spricht kaum, er hat Angst.
 -  Bei Manipulation im Mund-/Rachenraum kann es zu einem Anschwellen und
    einer Verlegung der Atemwege kommen!
 
-.. todo:: !!! PROCEDURE !!! KJ05010C
+.. todo:: !!! PROCEDURE !!! KJ05010C 
+
+.. _KJ05010C:
+
+.. todo:: Maßnahme KJ05010C: Anpassung an höherqualifiziertes Personal
 
 Vergleich Laryngitis vs. Epiglottitis
 =====================================
@@ -289,7 +297,11 @@ ist und *die Eltern keine Schuld trifft*!
 
 -  Eltern trifft keine Schuld!
 
-.. todo:: !!! PROCEDURE !!! KR95090C
+.. todo:: !!! PROCEDURE !!! KR95090C 
+
+.. _KR95090C:
+
+.. todo:: Maßnahme KR95090C: Anpassung an höherqualifiziertes Personal
 
 Ertrinkungsunfall
 =================
@@ -307,7 +319,11 @@ stellen eine Gefahrenquelle im Alltag dar.
 
     -  Nobody is dead until warm and dead!
 
-.. todo:: !!! PROCEDURE !!! MT75010C
+.. todo:: !!! PROCEDURE !!! MT75010C 
+
+.. _MT75010C:
+
+.. todo:: Maßnahme MT75010C: Anpassung an höherqualifiziertes Personal
 
 Krampfanfälle im Kindesalter
 ============================
@@ -336,7 +352,11 @@ eventuell schon von den Eltern gegeben).
 
 -  Wie generalisierter Krampfanfall
 
-.. todo:: !!! PROCEDURE !!! KR56001C
+.. todo:: !!! PROCEDURE !!! KR56001C 
+
+.. _KR56001C:
+
+.. todo:: Maßnahme KR56001C: Anpassung an höherqualifiziertes Personal
 
 Kindesmisshandlung
 ==================

@@ -16,4 +16,4 @@
 
 -  
 
-:raw-latex:`\cite{Erc2010Sek06De}`
+:cite:`Erc2010Sek06De`\ 

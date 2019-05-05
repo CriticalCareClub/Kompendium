@@ -276,7 +276,11 @@ kaum an.
 
 -  Reduzierter Allgemeinzustand (AZ)
 
-.. todo:: !!! PROCEDURE !!! IJ18090C
+.. todo:: !!! PROCEDURE !!! IJ18090C 
+
+.. _IJ18090C:
+
+.. todo:: Maßnahme IJ18090C: Anpassung an höherqualifiziertes Personal
 
 ******************************
 Nicht alltägliche Erkrankungen
@@ -349,7 +353,11 @@ Ansteckung von sonst gesunden und immunkompetenten Personal
 unwahrscheinlich. Für eine Ansteckung wäre ein ca. 8-stündiger Kontakt
 erforderlich. [273]_
 
-.. todo:: !!! PROCEDURE !!! IA16091C
+.. todo:: !!! PROCEDURE !!! IA16091C 
+
+.. _IA16091C:
+
+.. todo:: Maßnahme IA16091C: Anpassung an höherqualifiziertes Personal
 
 .. _Thema-hiv:
 .. _Thema-aids:
@@ -636,7 +644,11 @@ Meningokokken-Meningitis.
 
 -  Jeder fiebernde Patient ist auf Meningismus-Zeichen zu untersuchen!
 
-.. todo:: !!! PROCEDURE !!! IG03091C
+.. todo:: !!! PROCEDURE !!! IG03091C 
+
+.. _IG03091C:
+
+.. todo:: Maßnahme IG03091C: Anpassung an höherqualifiziertes Personal
 
 .. _Thema-Wundstarrkrampf:
 
@@ -936,7 +948,11 @@ http://ecdc.europa.eu/en/healthtopics/ebola_marburg_fevers/EVDcasedefinition/Pag
 
 !!! LITERARY !!!
 
-.. todo:: !!! PROCEDURE !!! IA98041C
+.. todo:: !!! PROCEDURE !!! IA98041C 
+
+.. _IA98041C:
+
+.. todo:: Maßnahme IA98041C: Anpassung an höherqualifiziertes Personal
 
 
 

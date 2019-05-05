@@ -104,7 +104,11 @@ für Beschreibungen:
 
     **Anmerkungen:** Abdomen weich, keine Druck- oder Loslassschmerzen
 
-.. todo:: !!! PROCEDURE !!! CKXXXX1C
+.. todo:: !!! PROCEDURE !!! CKXXXX1C 
+
+.. _CKXXXX1C:
+
+.. todo:: Maßnahme CKXXXX1C: Anpassung an höherqualifiziertes Personal
 
 ***************************************
 Häufige und gut erkennbare Erkrankungen
@@ -212,7 +216,11 @@ sind auch die Ursachen:
 
 -  u.v.a.m. …
 
-.. todo:: !!! PROCEDURE !!! CR10000C
+.. todo:: !!! PROCEDURE !!! CR10000C 
+
+.. _CR10000C:
+
+.. todo:: Maßnahme CR10000C: Anpassung an höherqualifiziertes Personal
 
 Darmverschluss
 ==============
@@ -248,7 +256,11 @@ gestautem Kot kommen (*Miserere)* :index:`\ <Miserere\|Z>`.
 
 -  Übelkeit, Erbrechen (selten: Koterbrechen)
 
-.. todo:: !!! PROCEDURE !!! CK56070C
+.. todo:: !!! PROCEDURE !!! CK56070C 
+
+.. _CK56070C:
+
+.. todo:: Maßnahme CK56070C: Anpassung an höherqualifiziertes Personal
 
 Appendizitis (Blinddarmentzündung)
 ==================================
@@ -290,7 +302,11 @@ kann.
 
 -  Evtl. uncharakteristisch oder untypisch
 
-.. todo:: !!! PROCEDURE !!! CK35080C
+.. todo:: !!! PROCEDURE !!! CK35080C 
+
+.. _CK35080C:
+
+.. todo:: Maßnahme CK35080C: Anpassung an höherqualifiziertes Personal
 
 Gallenkolik
 ===========
@@ -330,7 +346,11 @@ Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr
 
 -  Evtl. Übelkeit, Erbrechen
 
-.. todo:: !!! PROCEDURE !!! CK80811C
+.. todo:: !!! PROCEDURE !!! CK80811C 
+
+.. _CK80811C:
+
+.. todo:: Maßnahme CK80811C: Anpassung an höherqualifiziertes Personal
 
 .. _Thema-gastrointestinale-blutung:
 
@@ -402,7 +422,11 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
     -   Der Patient kann aufgrund des Blutverlustes akut vital bedroht
         sein, es besteht die Gefahr eines hypovolämischen Schocks.
 
-.. todo:: !!! PROCEDURE !!! CK92020C
+.. todo:: !!! PROCEDURE !!! CK92020C 
+
+.. _CK92020C:
+
+.. todo:: Maßnahme CK92020C: Anpassung an höherqualifiziertes Personal
 
 .. _Thema-lebensmittelvergiftung:
 
@@ -458,7 +482,11 @@ Erbrechen, Durchfälle. Exsikkose-Gefahr!
 
 -  Alte Menschen
 
-.. todo:: !!! PROCEDURE !!! CA09091C
+.. todo:: !!! PROCEDURE !!! CA09091C 
+
+.. _CA09091C:
+
+.. todo:: Maßnahme CA09091C: Anpassung an höherqualifiziertes Personal
 
 .. _thema-exsikkose:
 
@@ -575,7 +603,11 @@ oder *Kaffeesatz-artiges Erbrechen* zu beobachten.
 
 -  Kaffeesatz-artiges Erbrechen, Teerstuhl
 
-.. todo:: !!! PROCEDURE !!! CK29091C
+.. todo:: !!! PROCEDURE !!! CK29091C 
+
+.. _CK29091C:
+
+.. todo:: Maßnahme CK29091C: Anpassung an höherqualifiziertes Personal
 
 Entzündung der Bauchspeicheldrüse: Pankreatitis
 ===============================================
@@ -632,7 +664,11 @@ Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* :
 
 -  Septischer Schock
 
-.. todo:: !!! PROCEDURE !!! CK859X0C
+.. todo:: !!! PROCEDURE !!! CK859X0C 
+
+.. _CK859X0C:
+
+.. todo:: Maßnahme CK859X0C: Anpassung an höherqualifiziertes Personal
 
 .. _thema-mesenterialinfarkt:
 
@@ -686,7 +722,11 @@ Stuhlabgängen* kommen. (Eckstein et al. 2006)
 
 -  Übelriechende, blutige Stuhlabgänge
 
-.. todo:: !!! PROCEDURE !!! CK55001C
+.. todo:: !!! PROCEDURE !!! CK55001C 
+
+.. _CK55001C:
+
+.. todo:: Maßnahme CK55001C: Anpassung an höherqualifiziertes Personal
 
 .. _Thema-peritonitis:
 
@@ -736,7 +776,11 @@ Symptome
 
 -  Evtl. Sepsis- und/oder Schockzeichen
 
-.. todo:: !!! PROCEDURE !!! CK65090C
+.. todo:: !!! PROCEDURE !!! CK65090C 
+
+.. _CK65090C:
+
+.. todo:: Maßnahme CK65090C: Anpassung an höherqualifiziertes Personal
 
 
 -----

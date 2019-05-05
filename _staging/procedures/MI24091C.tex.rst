@@ -31,4 +31,4 @@ Patient braucht u.U. **ein entsprechend ausgestattetes Spital** mit
 einem **Herzkatheterlabor**. Der Notarzt muss entscheiden, ob das
 notwendig und sinnvoll ist.
 
-:raw-latex:`\cite{AsboeLehrmeinungRd2011-04}`
+:cite:`AsboeLehrmeinungRd2011-04`\ 

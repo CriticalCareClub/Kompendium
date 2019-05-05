@@ -257,7 +257,11 @@ eine Hypoglykämie denken!
     -  → BZ-Messung bei jeder neurologischen
        Störung.
 
-.. todo:: !!! PROCEDURE !!! ME16020C
+.. todo:: !!! PROCEDURE !!! ME16020C 
+
+.. _ME16020C:
+
+.. todo:: Maßnahme ME16020C: Anpassung an höherqualifiziertes Personal
 
 Bei der Hyperglykämie ist der Blutzuckerspiegel erhöht
 ======================================================
@@ -377,7 +381,11 @@ verwechselt werden!
 
 -  Azeton-Geruch (Nicht mit Alkoholfahne verwechseln!)
 
-.. todo:: !!! PROCEDURE !!! ME14012C
+.. todo:: !!! PROCEDURE !!! ME14012C 
+
+.. _ME14012C:
+
+.. todo:: Maßnahme ME14012C: Anpassung an höherqualifiziertes Personal
 
 
 .. [249]

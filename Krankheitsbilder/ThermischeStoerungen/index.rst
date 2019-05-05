@@ -74,9 +74,17 @@ es wichtig den Patienten zu kühlen.
 
    -  Körpertemperatur normal
 
-.. todo:: !!! PROCEDURE !!! MT67010C
+.. todo:: !!! PROCEDURE !!! MT67010C 
 
-.. todo:: !!! PROCEDURE !!! MT67050C
+.. _MT67010C:
+
+.. todo:: Maßnahme MT67010C: Anpassung an höherqualifiziertes Personal
+
+.. todo:: !!! PROCEDURE !!! MT67050C 
+
+.. _MT67050C:
+
+.. todo:: Maßnahme MT67050C: Anpassung an höherqualifiziertes Personal
 
 .. _Thema-sonnenstich:
 
@@ -144,7 +152,11 @@ und Bewusstlosigkeit kommen.
 
    -  Schwere Fälle: Krampfanfälle, Bewusstlosigkeit
 
-.. todo:: !!! PROCEDURE !!! MT67000C
+.. todo:: !!! PROCEDURE !!! MT67000C 
+
+.. _MT67000C:
+
+.. todo:: Maßnahme MT67000C: Anpassung an höherqualifiziertes Personal
 
 ************
 Unterkühlung
@@ -192,4 +204,8 @@ Symptome  und Phasen
        Patienten können auch noch nach Stunden (!) ohne
        Kreislauftätigkeit erfolgreich reanimiert werden!
 
-.. todo:: !!! PROCEDURE !!! MT68001C
+.. todo:: !!! PROCEDURE !!! MT68001C 
+
+.. _MT68001C:
+
+.. todo:: Maßnahme MT68001C: Anpassung an höherqualifiziertes Personal

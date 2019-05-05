@@ -91,7 +91,11 @@ erfragt werden. Unter Umständen kann Blut im Harn sein.
 
 -  Blut im Harn (Hämaturie)
 
-.. todo:: !!! PROCEDURE !!! MN23XX0C
+.. todo:: !!! PROCEDURE !!! MN23XX0C 
+
+.. _MN23XX0C:
+
+.. todo:: Maßnahme MN23XX0C: Anpassung an höherqualifiziertes Personal
 
 .. _Thema-nierenbeckenentzuendung:
 
@@ -193,7 +197,11 @@ Harnableitung mitführt.
 
 -  Medikamente
 
-.. todo:: !!! PROCEDURE !!! MR33XX1C
+.. todo:: !!! PROCEDURE !!! MR33XX1C 
+
+.. _MR33XX1C:
+
+.. todo:: Maßnahme MR33XX1C: Anpassung an höherqualifiziertes Personal
 
 **********************************************
 Niereninsuffizienz, Nierenversagen und Dialyse
@@ -301,4 +309,8 @@ Notfall.
 
 -  Absterben des Hodens
 
-.. todo:: !!! PROCEDURE !!! MN44000C
+.. todo:: !!! PROCEDURE !!! MN44000C 
+
+.. _MN44000C:
+
+.. todo:: Maßnahme MN44000C: Anpassung an höherqualifiziertes Personal

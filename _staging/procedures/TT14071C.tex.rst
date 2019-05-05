@@ -12,7 +12,7 @@
 
 -  Transport in doppelwandigem Amputatsbeutel (Replant-Beutel) bei einer
    Temperatur von ca.
-   4:raw-latex:`\cite{BoehmerTaschRett6,Gorgass7,LPN3}`. Zwischen die
+   4:cite:`BoehmerTaschRett6,Gorgass7,LPN3`\ . Zwischen die
    beiden Schichten des Beutels gibt man Wasser mit Eis (im Verhältnis
    1:1).
 

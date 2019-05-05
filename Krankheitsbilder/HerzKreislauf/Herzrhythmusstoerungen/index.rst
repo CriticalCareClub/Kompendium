@@ -383,7 +383,7 @@ Taktik
     **Vitale Bedrohung!** Ärztliche Therapie sinnvoll.
 
 Basismaßnahmen
-    -   Lagerung: Lagerung: \EE{Oberkörper hoch}
+    -   Lagerung: Lagerung: **Oberkörper hoch**
     -   Striktes Bewegungsverbot!
     -   Beengende Kleidung öffnen
     -   O2-Gabe gemäß :ref:`M-sauerstoffberieselung`

@@ -892,20 +892,20 @@ Taktik
     Neuerlicher Krampfanfall möglich!
 
 Basismaßnahmen
--   Umstände klären und entscheiden ob **Notarzt**
-    notwendig ist:
+    -   Umstände klären und entscheiden ob **Notarzt**
+        notwendig ist:
 
-    -   2 oder mehr Krampfanfälle innerhalb von 24 Stunden
-    -   Anfälle \enquote{erheblich anders} als sonst üblich
-    -   Erster Krampfanfall überhaupt
+        -   2 oder mehr Krampfanfälle innerhalb von 24 Stunden
+        -   Anfälle \enquote{erheblich anders} als sonst üblich
+        -   Erster Krampfanfall überhaupt
 
--   Besondere Diagnostik:
+    -   Besondere Diagnostik:
 
-    -   Neurocheck inkl. Messung des **Blutzuckers**!
-    -   Traumacheck
+        -   Neurocheck inkl. Messung des **Blutzuckers**!
+        -   Traumacheck
 
--   Reizabgeschirmter Transport
--   Transportentscheidung: Abt.f. Innere Medizin.
+    -   Reizabgeschirmter Transport
+    -   Transportentscheidung: Abt.f. Innere Medizin.
 
 
 

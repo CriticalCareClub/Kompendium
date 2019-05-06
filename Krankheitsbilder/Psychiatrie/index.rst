@@ -290,7 +290,7 @@ Es gelten somit folgende Grundsätze:
 #.  Wahnvorstellungen sollen **nicht ausgeredet**
     werden.
 #.  Wahnvorstellungen sollen aber auch **nicht
-  bestätigt** werden.
+    bestätigt** werden.
 #.  Am besten man nimmt die Schilderungen des Patienten 
     **interessiert, aber neutral und möglichst kommentarlos** 
     zur Kenntnis (*"Mhm!"*, *"*Aha."*).

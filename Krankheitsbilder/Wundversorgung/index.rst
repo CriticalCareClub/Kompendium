@@ -328,8 +328,8 @@ Maßnahmen: Basis-Wundversorgung
 
 
 Basismaßnahmen
-    -   Wunden dürfen nicht direkt berührt werden, 
-        außer es ist zur raschen Blutstillung unbedingt notwendig! 
+    -   Wunden dürfen nicht direkt berührt werden,
+        außer es ist zur raschen Blutstillung unbedingt notwendig!
         Es muss immer mit Handschuhen und mit **sterilem Material**
         gearbeitet werden!\footnote{Bei der Wundversorgung sind
         immer sterile Materialien zu verwenden. Papierhandtücher
@@ -337,37 +337,37 @@ Basismaßnahmen
         lediglich bei der Versorgung des Stichs bei der
         Blutzuckermessung mittels eines sauberen Tupfers gemacht
         werden, da die Wunde minimal klein ist.
-    -   **Reinigung**: 
-        Oberflächliches **ab**spülen mit
-        steriler (NaCl 0,9%) von innen nach außen. 
+    -   **Reinigung**:
+        Oberflächliches **ab**\ spülen mit
+        steriler (NaCl 0,9%) von innen nach außen.
         Bei oberflächlichen
         Wunden ist auch ein Abspülen unter fließendem Leitungswasser
-        zulässig :cite:`Fernandez2012`\ . 
+        zulässig :cite:`Fernandez2012`\ .
         Wunden, die im Spital
-        weiter versorgt werden, sollen nicht übermäßig gereinigt werden, 
+        weiter versorgt werden, sollen nicht übermäßig gereinigt werden,
         auch soll keine
-        wesentliche Zeitverzögerung entstehen.  
-        
+        wesentliche Zeitverzögerung entstehen.
+
         Alternativ sind
         statt der physiologischen Kochsalzlösung auch andere
         kristalloide Infusionslösungen verwendbar. Die
-        Desinfektion mittels Wunddesinfektionsmittels ist aufgrund der 
+        Desinfektion mittels Wunddesinfektionsmittels ist aufgrund der
         toxischen Wirkung auf das Gewebe nicht
         mehr standardmäßig empfohlen.
         :cite:`Fernandez2012,Franz2012,Schupp2009,Marquardt2010`
-    -   **Fremdkörper** 
-        (Messer, Schere oder sonstige Pfählungsgegenstände) sind 
+    -   **Fremdkörper**
+        (Messer, Schere oder sonstige Pfählungsgegenstände) sind
         **in der Wunde zu belassen**!
         Diese Gegenstände sind mit geeignetem Fixationsmaterial
         (z. B. Mullbinden) zu stabilisieren. Lose, kleine
-        Fremdkörper wie z. B. Glassplitter 
-        dürfen mittels *steriler Instrumente* 
+        Fremdkörper wie z. B. Glassplitter
+        dürfen mittels *steriler Instrumente*
         (Pinzette, ...) entfernt werden.
-    -   Ausgetretene Strukturen 
+    -   Ausgetretene Strukturen
         (z. B. Gehirn, Eingeweide)
         dürfen *nicht zurückgestopft* werden! Solche Organteile
         sollten mit steriler physiologischer Kochsalzlösung
-        feucht gehalten und anschließend steril abgedeckt werden! 
+        feucht gehalten und anschließend steril abgedeckt werden!
     -   Ein steriler
         Wundverband mit der jeweiligen Situation angemessenem
         Material (z. B. Pflaster, Momentverband, Kompresse mit
@@ -385,7 +385,6 @@ Basismaßnahmen
 
 
 .. _Thema-dekubitusprophylaxe:
-
 .. _Thema-dekubitus:
 
 *********************************
@@ -399,12 +398,10 @@ Wenn der Mensch nicht fähig ist in ausreichendem Umfang regelmäßig seine
 Lage zu ändern, kann es zum Wundliegen kommen. Die Wunden nennt man dann
 :dfn:`Dekubitus` :index:`\ <! Dekubitus>` oder Druckgeschwüre.
 
--  Unfähigkeit der Lageänderung
-
--  besonders an prädestinierten Druckstellen
-
--  Betroffene: Bettlägrige, Bewusstlose, Intensivpatienten,
-   Querschnittsgelähmte
+-   Unfähigkeit der Lageänderung
+-   besonders an prädestinierten Druckstellen
+-   Betroffene: Bettlägrige, Bewusstlose, Intensivpatienten,
+    Querschnittsgelähmte
 
 Beschreibung
 ============

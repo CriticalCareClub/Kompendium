@@ -183,11 +183,28 @@ trockene Räume fördern das Auftreten.
 -  Bei Manipulation im Mund-/Rachenraum kann es zu einem Anschwellen und
    einer Verlegung der Atemwege kommen!
 
-.. todo:: !!! PROCEDURE !!! KJ05000C 
 
 .. _KJ05000C:
+.. _m-laryngitis:
+
+Akute obstruktive Laryngitis
+----------------------------
+
 
 .. todo:: Maßnahme KJ05000C: Anpassung an höherqualifiziertes Personal
+
+
+Basismaßnahmen
+    -   Eltern und Kind beruhigen.
+    -   Feuchte Luft einatmen lassen (evtl. Fenster
+        öffnen; feuchte Tücher im Raum aufhängen; Dusche im Badezimmer aufdrehen)
+    -   Zurückhaltende Diagnostik 
+        und Behandlung 
+    -   **Keine Manipulation im Mund-/Rachenraum!**
+
+
+
+
 
 Akute Epiglottitis
 ==================
@@ -222,11 +239,29 @@ ist eher ruhig und spricht kaum, er hat Angst.
 -  Bei Manipulation im Mund-/Rachenraum kann es zu einem Anschwellen und
    einer Verlegung der Atemwege kommen!
 
-.. todo:: !!! PROCEDURE !!! KJ05010C 
+
 
 .. _KJ05010C:
+.. _m-epiglottitis:
+
+Akute Epiglottitis
+------------------
+
 
 .. todo:: Maßnahme KJ05010C: Anpassung an höherqualifiziertes Personal
+
+
+
+Basismaßnahmen
+    -   |TxMassVitMK|
+    -   Luftbefeuchtung
+    -   Kinder sitzen lassen!
+    -   Zurückhaltende Diagnostik 
+        und Behandlung 
+    -   **Keine Manipulation im Mund-/Rachenraum!**
+
+
+
 
 Vergleich Laryngitis vs. Epiglottitis
 =====================================
@@ -297,11 +332,41 @@ ist und *die Eltern keine Schuld trifft*!
 
 -  Eltern trifft keine Schuld!
 
-.. todo:: !!! PROCEDURE !!! KR95090C 
+
 
 .. _KR95090C:
+.. _m-sids:
+
+
+Maßanhamen: SIDS
+-----------------------
 
 .. todo:: Maßnahme KR95090C: Anpassung an höherqualifiziertes Personal
+
+
+Basismaßnahmen
+    -   Reanimation
+    -   Betreuung der Angehörigen.
+        Den Eltern muss das Gefühl gegeben werden,
+        dass sie alles für ihr Kind getan haben.
+        Ein solcher Unglücksfall tritt schicksalshaft auf
+        und wäre nicht abwendbar gewesen.
+    -   In jedem Fall nimmt die Kriminalpolizei Ermittlungen auf.
+        Darauf müssen die Eltern vorbereitet werden.
+    -   Betreuung für die Angehörigen organisieren
+        (Kriseninterventionsdienst)
+    -   Zwillingsgeschwister unbedingt hospitalisieren.
+    -   Einsatznachbesprechung und eigene Psychohygiene.
+        Derartige Einsätze können -- auch für erfahrenes Fachpersonal --
+        sehr belastend sein.
+
+    Meldung an Gesamteinsatzleiter, dienstführenden
+    Offizier o. ä., Erkundigung nach Verfügbarkeit von
+    Peers (auch wenn Peer-Angebot nicht angenommen wird!).
+
+
+
+
 
 Ertrinkungsunfall
 =================
@@ -319,11 +384,27 @@ stellen eine Gefahrenquelle im Alltag dar.
 
     -  Nobody is dead until warm and dead!
 
-.. todo:: !!! PROCEDURE !!! MT75010C 
+
 
 .. _MT75010C:
+.. _m-ertrinkungsunfall:
+
+Maßnahmen: Ertrinkungsunfall
+----------------------------
 
 .. todo:: Maßnahme MT75010C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Wenn erforderlich Reanimation mit fünf
+        Initialbeatmungen. Die Reanimation kann auch nach länger
+        andauerndem Kreislaufstillstand erfolgreich sein, da bei
+        einer Unterkühlung der Stoffwechsel verlangsamt wird.
+    -   |TxBeiVit| |TxMassVitMK|
+    -   Bei Aspiration: Wenn der Verdacht auf eine
+        Aspiration besteht, ist der Patient zur Beobachtung zu
+        hospitalisieren.
+
+
 
 Krampfanfälle im Kindesalter
 ============================
@@ -352,11 +433,22 @@ eventuell schon von den Eltern gegeben).
 
 -  Wie generalisierter Krampfanfall
 
-.. todo:: !!! PROCEDURE !!! KR56001C 
 
 .. _KR56001C:
+.. _m-fieberkrampf-kindesalter:
 
 .. todo:: Maßnahme KR56001C: Anpassung an höherqualifiziertes Personal
+
+
+:orphan:
+
+
+Maßnahmen: Fieberkrampf im Kindesalter
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Die Behandlung erfolgt grundsätzlich wie beim Erwachsenen 
+(:ref:`m-zerebraler-krampfanfall-bestendend`).
+Die Körpertemperatur ist immer zu messen! 
 
 Kindesmisshandlung
 ==================

@@ -290,7 +290,7 @@ Maßnahmen: Kindesmisshandlung
 
 Die Aufgaben des Rettungsdienstes bei Verdacht auf Kindesmisshandlung besteht in:
 
-Basismaßnhamen
+Basismaßnahmen
     #.  Daran denken!
     #.  Umstände und Umfeld abklären
     #.  Unstimmigkeiten und Auffälligkeiten auf eine neutrale Weise

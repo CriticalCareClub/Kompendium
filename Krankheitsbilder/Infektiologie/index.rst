@@ -682,7 +682,7 @@ Basismaßnahmen
     -   Rückmeldung an Leitstelle vor Transport, Voranmeldung im Krankenhaus
     -   Patient erst in das Spitalsgebäude bringen, wenn
         Ziel und Weg dorthin klar ist
-    -   Desinfektionsmaßnhamen gem. Hygieneplan
+    -   Desinfektionsmaßnahmen gem. Hygieneplan
     -   Personal bekommt im Spital evtl. eine Antibiotika-Prophylaxe
     -   Wechsel der Dienstkleidung
 

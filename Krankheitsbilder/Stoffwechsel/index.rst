@@ -287,10 +287,7 @@ Notarzt oder NKV, erfolgen (getrübte Patienten dürfen
 aufgrund der Aspirationsgefahr nichts mehr essen).
 
 Pharmakotherapie
-    -   Bei der Hypoglykämie mit Bewusstseinsstörung ist die Gabe
-        von Glukose i. v. und kristalloider Infusionslösung 
-        gem. Algorithmus durch NKV vorgesehen. 
-        :cite:`Asb921Memo-AL-2011-000001`
+    -   ...
 
 
 Bei der Hyperglykämie ist der Blutzuckerspiegel erhöht

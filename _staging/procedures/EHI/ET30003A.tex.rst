@@ -17,7 +17,7 @@
    für mit handwarmen Wasser kühlen (Richtwert 20);
 
    andernfalls ist keine Kühlung durchzuführen
-   :cite:`Asanger2010,ASBOEAkademieUpdate2010Verbrennung`\ .
+   :cite:`Asanger2010`\ .
 
 -  Wärmeerhalt ist besonders wichtig!
 

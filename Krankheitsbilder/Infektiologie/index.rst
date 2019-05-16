@@ -374,12 +374,12 @@ Maßnahmen: Tuberkulose
 
 
 Basismaßnahmen
-   -   Bei Verdacht auf eine offene Tuberkulose
-      Schutzmasken verwenden: FFP~3 für das Personal,
-      Mund-Nasenmaske für den
-      Patienten, wenn zumutbar.
-   -   **Meldung an Leitstelle** und ggfs. Betriebsleitung!
-   -   Desinfektion laut Hygieneplan
+    -   Bei Verdacht auf eine offene Tuberkulose
+        Schutzmasken verwenden: FFP~3 für das Personal,
+        Mund-Nasenmaske für den
+        Patienten, wenn zumutbar.
+    -   **Meldung an Leitstelle** und ggfs. Betriebsleitung!
+    -   Desinfektion laut Hygieneplan
 
 
 .. _Thema-hiv:

@@ -406,11 +406,10 @@ Vergiftungen mit Stickgasen
 .. _MT59XX1C:
 .. _m-am-stickgase:
 
-.. todo:: Maßnahme MT59XX1C: Anpassung an höherqualifiziertes Personal
-
-
 Maßnahmen: Vergiftung mit Stickgasen
 ------------------------------------
+
+.. todo:: Maßnahme MT59XX1C: Anpassung an höherqualifiziertes Personal
 
 
 -   Auf Selbstschutz achten!
@@ -574,11 +573,11 @@ Basismaßnahmen
 
 .. note:: Bedenke!
 
-    -  Bei Gasunfällen hat der *Selbstschutz* Vorrang. Oft ist die Bergung
-    nur mit *schwerem Atemschutz* möglich →
-    FEUERWEHR!
+    -   Bei Gasunfällen hat der *Selbstschutz* Vorrang. Oft ist die Bergung
+        nur mit *schwerem Atemschutz* möglich →
+        FEUERWEHR!
 
-        -  Ein toter Helfer ist keine Hilfe.
+        -   Ein toter Helfer ist keine Hilfe.
 
 Reizgase
 ========

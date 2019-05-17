@@ -202,11 +202,11 @@ Blut. In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
 
 | ll **Störung des/der** & **Vorkommen und Erkrankungen**
 | *O2-Angebotes* & Gärkeller (CO₂:math:`{\uparrow}`,
-  O2\ :math:`{\downarrow}`)
+  O2\ ↓)
 
 “dünne Luft” (z.B. Hochgebirge; niedriger Sauerstoffpartialdruck)
 
-Defekte Gastherme (:math:`{\uparrow}`, O2\ :math:`{\downarrow}`)
+Defekte Gastherme (:math:`{\uparrow}`, O2\ ↓)
 
 | Ertrinken
 | *O2-Diffusion* & Lungenödem
@@ -363,9 +363,9 @@ grundsätzlich von einer Reanimation auszugehen.
 
 Nur in sehr seltenen Fällen kann primär ein isolierter
 Atemstillstand ohne gleichzeitigem Kreislaufstillstand
-beobachtet werden. Auf diese Spezialfälle (z.\,B.
+beobachtet werden. Auf diese Spezialfälle (z. B.
 Opiatintoxikation) wird hier nicht weiter eingegangen. Auch
-der iatrogene Atemstillstand (z.\,B. im Rahmen einer Narkose) wird an dieser Stelle nicht
+der iatrogene Atemstillstand (z. B. im Rahmen einer Narkose) wird an dieser Stelle nicht
 behandelt.
 
 
@@ -517,7 +517,7 @@ ABCDE
           möglich
 
 **C**
-    HF :math:`\uparrow`, RR :math:`\uparrow`
+    HF ↑, RR ↑
 
 **=**
     Bei schwerer Verlegung vital bedroht, sonst je nach Befund
@@ -782,7 +782,7 @@ ABCDE
 
 **B**
     Akute Atemnot mit trockenem Husten, Verlängerte Ausatmungsphase, AF
-    :math:`\uparrow`, Exspiratorisches Atemgeräusch (Stridor)
+    ↑, Exspiratorisches Atemgeräusch (Stridor)
 
     Schwerer Anfall: Kein oder leises Atemgeräusch,
     |symbol-RedFlag|\  SpO2 :math:`\downarrow\downarrow`
@@ -798,7 +798,7 @@ ABCDE
     Endstadium: |symbol-RedFlag|\  Atemarbeit erschöpft
 
 **C**
-    HF :math:`\uparrow`
+    HF ↑
 
     Schwerer Anfall: HF ↓
 
@@ -1052,7 +1052,7 @@ einem Atemstillstand kommen.
         SpO₂ chronisch niedrig (:math:`\sim`\ 90%): Normalwert gilt nicht!
 
     ``C``
-        HF :math:`\uparrow`, RR :math:`\uparrow`
+        HF ↑, RR ↑
 
     ``=``
         Vitale Bedrohung bei schwerer Atemnot und Bewusstseinsstörungen
@@ -1318,7 +1318,7 @@ ABCDE: Lungenembolie
     |symbol-RedFlag|\  Atemnot, Tachypnoe
 
 **C**
-    HF :math:`\uparrow`, evtl. arrhythmischer Puls (Vorhofflimmern), RR
+    HF ↑, evtl. arrhythmischer Puls (Vorhofflimmern), RR
     normal od. |symbol-RedFlag|\  ↓
 
     Gestaute Halsvenen (Blutrückstau), evtl. arrhythmischer Puls bei
@@ -1556,9 +1556,87 @@ SAMPLER: Lungenödem
     Exposition? Ertrinkungsunfall? Erschwerender Faktor beim
     vorbestehender Herzerkrankung (Infekt, …)?
 
-.. todo:: !!! PROCEDURE !!! MJ81XX1C
+.. _Proc-MJ81XX1C:
+.. _m-lungenoedem-leicht:
 
-.. todo:: !!! PROCEDURE !!! MJ81XX2C
+Maßnahmen: Kardilaes Lungenödem, leicht
+=======================================
+
+
+
+.. todo:: 
+
+    Maßnahmen Lungenödem leicht: Anpassung an höherqualifiziertes Personal
+
+
+
+Taktik
+    Belastung minimieren, bestmögliches Monitoring
+
+Basismaßnahmen
+    -   Vitale Bedrohung beurteilen. 
+        |TxBeiVit|\ : 
+        Behandlung wie schweres Lungenödem (:ref:`m-lungenoedem-schwer`)
+    -   Lagerung: Oberkörper hoch
+    -   Beengende Kleidung öffnen
+    -   Bestmögliches Monitoring
+    -   Transportentscheidung: Abt. f. Innere Medizin
+
+Pharmakotherapie
+    -   Diuretika
+
+Beatmungstherapie
+    -   CPAP-Beatmung erwägen
+
+
+.. _Proc-MJ81XX2C:
+.. _m-lungenoedem-schwer:
+
+
+Maßnahmen: Kardiales Lungenödem, schwer
+=======================================
+
+.. todo:: 
+
+    Maßnahmen Lungenödem schwer: Anpassung an höherqualifiziertes Personal
+
+Taktik
+    **Vitale Bedrohung!**
+
+    Belastung minimieren, 
+    rasche medikamentöse Therpie (veranlassen); 
+    ärztliche Therapie notwendig
+
+Basismaßnahmen
+-   |TxMassVitMK|
+
+    -   Lagerung: Oberkörper hoch, 
+        wenn möglich Beine herabhängen lassen
+
+        Striktes Bewegungsverbot
+    -   Notarzt!
+    -   Reanimationsbereitschaft!
+
+-   Beengende Kleidung öffnen
+-   Transportentscheidung: Internistische Intensiv- bzw.
+    Überwachungstation
+
+Pharmakotherapie
+    -   Nitrate
+    -   Diurektika
+
+Beatmungstherapie
+    -   CPAP-Beatmung erwägen
+
+Patienten mit Lungenödem und brodelndem Atemgeräusch oder ABCD-Problem
+sind grundsätzlich notarztpflichtig.
+
+Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor
+Ort Vorrang.
+
+Bereits der Transport in das Fahrzeug kann gefährlich sein!
+
+
 
 .. _Thema-hyperventilationssyndrom:
 .. _thema-hyperventilationstetanie:
@@ -1666,7 +1744,7 @@ ABCDE: Hyperventilationssyndrom
     (keine Zyanose, SpO2 normal, …)
 
 **C**
-    HF und RR evtl. :math:`\uparrow`
+    HF und RR evtl. ↑
 
 **E**
     Ausschließen:
@@ -1691,8 +1769,32 @@ SAMPLER: Hyperventilationssyndrom
 **E**
     Stressige oder aufregende Erlebnisse
 
-.. todo:: !!! PROCEDURE !!! MF45331C
+.. _Proc-MF45331C:
+.. _m-Hyperventilationssysndrom:
 
+Maßnahmen: Hyperventilationssyndrom
+===================================
+
+Taktik
+    Beruhigen, Differentialdiagnosen ausschließen, symptomatische Therapie
+
+Basismaßnahmen
+    -   Psychische Betreuung: Patient beruhigen, mit ruhiger, langsamer
+        Stimme mit dem Patienten sprechen
+    -   Kommandoatmung
+    -   CO₂-Rückatmung: 
+        In ein Plastiksackerl über kurze Zeit ein- und ausatmen
+        lassen. 
+        Ebenso eignet sich eine oder ein (puderfreier) Handschuh.
+    -   Grundsätzlich sollte kein O₂ verabreicht werden. 
+        Aus psychologischen Gründen kann es jedoch sinnvoll sein 
+        O₂ in niedriger Dosierung (1 L / min) 
+        über eine O₂-Maske zu verabreichen.
+    -   Wenn nicht erfolgreich und Krämpfe bestehen bleiben bzw.
+        Bewusstseinsstörungen auftreten: |TxMassVitMK|
+
+Pharmakotherapie
+    -   Sedierung oder Anxiolyse erwägen (zurückhaltend!)
 
 -----
 

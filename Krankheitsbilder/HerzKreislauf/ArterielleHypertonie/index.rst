@@ -291,6 +291,48 @@ SAMPLER
       "Co-", "-comb", "-comp", "plus" oder Zusammensetzung aus
       Wirkstoff- bzw. Markennamen. Z. B.: Acecomb, Exforge, Fosicomb,
 
-.. todo:: !!! PROCEDURE !!! MI10911C
+.. _MI10911C:
+.. _m-hypertensive-krise:
 
-.. todo:: !!! PROCEDURE !!! MI10912C
+Maßnahmen: Hypertensive Krise
+=============================
+
+.. todo:: Maßnahme MI10911C: Anpassung an höherqualifiziertes Personal
+
+Taktik 
+    Symptomatische Therapie
+
+
+-   Lagerung: Oberkörper hoch
+
+    Bei Nasenbluten: Kopf nach vorne halten.
+-   Beengende Kleidung öffnen
+-   O₂-Gabe gemäß :ref:`m-sauerstoffberieselung`
+-   Transportentscheidung: Abt. f. Innere Medizin; 
+
+    bei Nasenbluten: HNO im Hintergrund
+
+Eine notfallmäßige Blutdrucksenkung ist *nicht*
+sinnvoll. 
+
+.. _MI10912C:
+.. _m-hypertensiver-notfall:
+
+Maßnahmen: Hypertensiver Notfall
+================================
+
+.. todo:: Maßnahme MI10912C: Anpassung an höherqualifiziertes Personal
+
+Taktik 
+    **Vitale Bedrohung!**
+    Rasche Blutdrucksenkung (veranlassen)
+
+Basismaßnahmen
+    -   Lagerung: Oberkörper hoch
+    
+        Bei Nasenbluten: Kopf nach vorne halten.
+    -   Beengende Kleidung öffnen
+    -   |TxMassVitMK|
+
+Pharmakotherapie
+    -   Urapidil (Ebrantil™)

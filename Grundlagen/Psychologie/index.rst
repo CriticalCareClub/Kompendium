@@ -1934,107 +1934,107 @@ Freizeit- und Erholungsphasen.
 
 ..
     LaTeX-Quellen: 
-    % \cite{AntonovskySalutogenese}:
+    %:cite:`AntonovskySalutogenese`\ :
     % \bibentry{AntonovskySalutogenese} \\ 
     % % Antonovsky, A. (1997). Salutogenese: zur
     % % Entmystifizierung der Gesundheit. Dt. erw. Hrsg. von Alexa Franke. Deutsche
     % % Gesllschaft für Verhaltenstherapie. Tübingen: Dgvt-Verl.
     % 
-    % \cite{BengelPsyNotfallmedRd2-PsyBelRdPers}:
+    %:cite:`BengelPsyNotfallmedRd2-PsyBelRdPers`\ :
     % \bibentry{BengelPsyNotfallmedRd2-PsyBelRdPers} \\ 
     % % Bengel, J. \& Heinrichs, M. (2004). Psychische
     % % Belastungen des Rettungspersonals. In J. Bengel (Hrsg.), Psychologie in
     % % Notfallmedizin und Rettungsdienst (2. Auflage; S. 25-43).
     % % Berlin: Springer.
     % 
-    % \cite{BergnerBurnOutAerzten9}:
+    %:cite:`BergnerBurnOutAerzten9`\ :
     % \bibentry{BergnerBurnOutAerzten9} \\ 
     % % Bergner, Thomas (2004). Burn-out bei Ärzten:
     % % Lebensaufgabe statt Lebens-Aufgabe, 9,  S. 410.
     % 
-    % \cite{BurischBurnOut2}: \bibentry{BurischBurnOut2} \\
+    %:cite:`BurischBurnOut2`\ : \bibentry{BurischBurnOut2} \\
     % % Burisch, M. (1994). Das Burnout-Syndrom – Theorie
     % % der inneren Erschöpfung (2. Auflage). Berlin: Springer.
     % 
-    % \cite{BurischBurnOut3}: \bibentry{BurischBurnOut3} \\
+    %:cite:`BurischBurnOut3`\ : \bibentry{BurischBurnOut3} \\
     % % Burisch, M. (2006). Das Burnout Syndrom – Theorie
     % % der inneren Erschöpfung (3., überarbeitete Auflage). Berlin:
     % % Springer.
     % 
-    % \cite{DavisonKlinPsy1988}: \bibentry{DavisonKlinPsy1988} \\
+    %:cite:`DavisonKlinPsy1988`\ : \bibentry{DavisonKlinPsy1988} \\
     % % Davison, G. C. \& Neale, J. M. (1988): Klinische
     % % Psychologie. 3. Auflage. München: PVU. Deutsches Institut
     % % für Medizinische Dokumentation und Information (2011).
     % 
-    % \cite{ICD10-De-2011}
+    %:cite:`ICD10-De-2011`\ 
     % 
-    % \cite{Freudenberger1974}: \bibentry{Freudenberger1974} \\
+    %:cite:`Freudenberger1974`\ : \bibentry{Freudenberger1974} \\
     % % Freudenberger, H. J. (1974). Staff Burn-Out. Journal of
     % % Social Issues, Vol. 30 (1), 159–165.
     % 
-    % \cite{FrielingLehrbArbeitspsy2}:
+    %:cite:`FrielingLehrbArbeitspsy2`\ :
     % \bibentry{FrielingLehrbArbeitspsy2} \\ 
     % % Frieling E. \& Sonntag Kh. (1999). Lehrbuch
     % % Arbeitspsychologie (2. vollst. überarb. Und erweiterte
     % % Aufl.). Bern: Huber.
     % 
-    % \cite{PlutchikEmotionVol3-NeuroendocrinePatterns}:
+    %:cite:`PlutchikEmotionVol3-NeuroendocrinePatterns`\ :
     % \bibentry{PlutchikEmotionVol3-NeuroendocrinePatterns} \\
     % % Henry, J. P. (1986). Neuroendocrine patterns of emotional response. In Plutchik H. \& Kellerman H. (Hrsg.), Emotion:
     % % Theory, Research and Experiences (Vol. 3; S. 37-60), San
     % % Diego: Academic Press.
     % 
-    % \cite{Karutz200912}: \bibentry{Karutz200912} \\
+    %:cite:`Karutz200912`\ : \bibentry{Karutz200912} \\
     % % Karutz, H. (2009). Wenn die Belastungsgrenze erreicht ist:
     % % Psychologische Selbsthilfe in Extremsituationen.
     % % Rettungsdienst, 12, 40-45.
     % 
-    % \cite{NitschStress-StressTransakt}:
+    %:cite:`NitschStress-StressTransakt`\ :
     % \bibentry{NitschStress-StressTransakt} \\ 
     % % Lazarus, R. S. \& Launier, R (1981). Stressbezogene
     % % Transaktion zwischen Person und Umwelt. In Nitsch, J. R.
     % % (Hrsg.), Stress, Theorien, Untersuchungen, Maßnahmen (S.
     % % 213-260). Bern: Huber.
     % 
-    % \cite{LazarusStress}: \bibentry{LazarusStress} \\
+    %:cite:`LazarusStress`\ : \bibentry{LazarusStress} \\
     % % Lazarus, R.S. \& Folkman, S. (1984). Stress, appraisal, and
     % % coping. New York: Springer.
     % 
-    % \cite{MaslachBurnout}: \bibentry{MaslachBurnout} \\
+    %:cite:`MaslachBurnout`\ : \bibentry{MaslachBurnout} \\
     % % Maslach, C. (1982). Burnout. The Cost of Caring. Englewood
     % % Cliffs, NJ: Prentice-Hall.
     % 
-    % \cite{OskampAppSocPsyAnn84-BurnOrgSett}:
+    %:cite:`OskampAppSocPsyAnn84-BurnOrgSett`\ :
     % \bibentry{OskampAppSocPsyAnn84-BurnOrgSett} \\ 
     % % Maslach, C. \& Jackson, S. E. (1984). Burnout in
     % % organizational settings. In S. Oskamp (Hrsg.), Applied
     % % Social Psychology Annual (S. 133-153). Beverly Hills, CA:
     % % Sage.
     % 
-    % \cite{Niaura2002}: \bibentry{Niaura2002} \\
+    %:cite:`Niaura2002`\ : \bibentry{Niaura2002} \\
     % % Niaura, R., Todaro, J. F., Stroud, L., Spiro, A., Ward, K.
     % % D., \& Weiss, S. (2002). Hostility, the metabolic syndrome,
     % % and incident coronary heart disease. Health Psychology, Vol.
     % % 21(6), 588-593. 
     % 
     % 
-    % \cite{StarkeMedSozAspProbBew00}: \bibentry{StarkeMedSozAspProbBew00} \\
+    %:cite:`StarkeMedSozAspProbBew00`\ : \bibentry{StarkeMedSozAspProbBew00} \\
     % % Starke, D. (2000). Medizinsoziologie. Kognitive, emotionale
     % % und soziale Aspekte menschlicher Problembewältigung: ein
     % % Beitrag zur aktuellen Stressforschung. Münster: LIT.
     % 
-    % \cite{BruederlBelastung88-DefBew}: \bibentry{BruederlBelastung88-DefBew} \\
+    %:cite:`BruederlBelastung88-DefBew`\ : \bibentry{BruederlBelastung88-DefBew} \\
     % % Trautmann-Sponsel, R. D. (1988): Definition und Abgrenzung
     % % des Begriffs Bewältigung. In L. Brüderl (Hrsg.), Belastung
     % % und Bewältigung: Trends in der Bewältigungsforschung (S.
     % % 14--24). München: Juventa.  
     % 
-    % \cite{Yerkes1908}: \bibentry{Yerkes1908} \\
+    %:cite:`Yerkes1908`\ : \bibentry{Yerkes1908} \\
     % % Yerkes, R.M. \& Dodson, J.D (1908). The relation of strength
     % % of stimulus to rapidity of habit-formation. Journal of
     % % Comparative Neurology and Psychology, 18, 459-482.
     % 
-    % \cite{ZimbardoPsych6}: \bibentry{ZimbardoPsych6} \\
+    %:cite:`ZimbardoPsych6`\ : \bibentry{ZimbardoPsych6} \\
     % % Zimbardo, G.  (1995). Psychologie (6. Auflage). Berlin:
     % % Springer.
     \cite{AntonovskySalutogenese,BengelPsyNotfallmedRd2-PsyBelRdPers,

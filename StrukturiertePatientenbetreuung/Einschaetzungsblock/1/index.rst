@@ -28,7 +28,7 @@ Kernpunkte sind die Fragen:
 
 -  *Ist die Einsatzstelle sicher?*
 
--  *Welche (Selbst-) Schutzmaßnhamen sind nötig?*
+-  *Welche (Selbst-) Schutzmaßnahmen sind nötig?*
 
 -  *Sind weitere Ressourcen notwendig?*
 

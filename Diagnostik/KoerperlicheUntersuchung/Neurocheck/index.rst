@@ -133,7 +133,7 @@ Neurocheck
    #. Bewusstseinsstörungen
 
    #. Vitalwertveränderung: Niedrige Herzfrequnz, hoher Blutdruck
-      (HF↓, RR\ :math:`\uparrow`)
+      (HF↓, RR\ ↑)
 
    #. Ungleichweite Pupillen ([Figure-anisokorie-bau]), verlangsamte
       Lichtreaktion

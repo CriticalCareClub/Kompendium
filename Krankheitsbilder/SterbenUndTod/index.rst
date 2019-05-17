@@ -98,14 +98,66 @@ Totenstarre mit einem tonischen Krampf.
    dead!”* (Niemand wird für tot erklärt, bevor er nicht vorher erwärmt
    wurde.)
 
+
+.. index::
+    single: Reanimation; Unterlassung der
+    
+.. _proc-MY51990C:
+.. _m-reanimation-unterlassung:
 .. _Thema-reanimation-unterlassung:
 
 ******************************
 Unterlassung einer Reanimation
 ******************************
 
-Unter bestimmten Umständen darf (oder
-muss) eine Reanimation unterlassen werden. !!! PROCEDURE !!! MY51990C
+Unter den folgenden Voraussetzungen darf (oder muss) eine
+Reanimation unterlassen
+werden:
+
+-   **Verwesung**
+-   **Fäulnis**
+-   **Mumifizierung**
+-   **Skelettierung**
+-   **Verletzungen, die nicht mit dem Leben vereinbar sind**
+-   **Tierfraß**. 
+    Darunter versteht man den Verzehr eines Kadavers
+    durch Kadaverfresser. Ein frischer Hundebiss oder
+    Ähnliches fällt *nicht* darunter. Maden können
+    sich im Gewebe von Lebenden einnisten und sind daher
+    auch kein sicheres Todeszeichen.}
+-   (Verbindliche) **Patientenverfügung**
+
+    *Patientenverfügung*: Bei Notfallversorgungen darf **nicht nach einer Verfügung gesucht
+    werden, wenn dadurch das Leben oder die Gesundheit des Patienten ernstlich
+    gefährdet werden würde**.
+    **Aber:** Wenn *zweifelsfrei* eine verbindliche
+    Patientenverfügung vorliegt (z. B. weil eine betreuende
+    Pflegekraft diese in der Zwischenzeit gefunden und die
+    Verbindlichkeit bestätigt hat), muss dieser Folge
+    geleistet werden.
+    Liegt eine *beachtliche Patientenverfügung* vor, so ist im
+    *Einzelfall* zu entscheiden: Das Wohl des Patienten bleibt
+    oberstes Gebot und die Verfügung soll in die
+    Entscheidung einfließen. :ref:`Thema-patientenverfuegung`\ ; 
+    Bis zur zweifelsfreien Klärung der Situation muss
+    jedenfalls eine Reanimation begonnen bzw. fortgeführt
+    werden!)
+-   (Abbruch der Reanimationsmaßnahmen aufgrund
+    von **Erschöpfung**)
+    
+    Erschöpfung darf im professionellen Umfeld 
+    keine Rolle spielen, 
+    für eine entsprechende Ablösung ist bei Bedarf zu sorgen.
+-   Unvereinbarkeit mit **Selbstschutz**
+
+    Es müssen jedoch alle Maßnahmen
+    getroffen werden, die ohne Gefährdung des Selbstschutzes
+    möglich sind. 
+    So wird zum Beispiel für Ersthelfer empfohlen, 
+    wenn eine Mund-zu-Mund-Beatmung nicht zumutbar ist, 
+    zumindest eine Herzdruckmassage durchzuführen.
+
+
 
 .. _Thema-sterbende-betreuung:
 

@@ -8,7 +8,7 @@
 
 -  Wunde reinigen (sauberes Wasser, Kochsalzlösung; im professionellen
    Bereich kein Desinfektionsmittel
-   :raw-latex:`\cite{Fernandez2012,Franz2012,Schupp2009,Marquardt2010}`)
+   :cite:`Fernandez2012,Franz2012,Schupp2009,Marquardt2010`\ )
 
 -  Evtl. steriler Wundverband
 

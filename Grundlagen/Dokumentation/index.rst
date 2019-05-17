@@ -493,7 +493,7 @@ Zusätze
 
     (*bilat.*)
     beiderseitig an einer Extremität 
-    (d.\,h. innen und aussen, radial und ulnar etc.)
+    (d. h. innen und aussen, radial und ulnar etc.)
 
 :operatus: 
 
@@ -512,7 +512,7 @@ Zusätze
 
 :signum interrogationis: 
 
-    (*s.\,i.*)
+    (*s. i.*)
     fraglich, Zusatz bei unsicherer Diagnose
 
 Richtungs- und Seitenangaben

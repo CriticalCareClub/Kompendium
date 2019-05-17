@@ -91,7 +91,23 @@ erfragt werden. Unter Umständen kann Blut im Harn sein.
 
 -  Blut im Harn (Hämaturie)
 
-.. todo:: !!! PROCEDURE !!! MN23XX0C
+
+.. _MN23XX0C:
+.. _m-nierenkolik:
+
+Maßnahmen: Nierenkolik
+======================
+
+.. todo:: Maßnahme MN23XX0C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Lagerung nach Wunsch des Patienten
+    -   Bei unerträglichen Schmerzen Notarzt zur
+        Schmerztherapie beiziehen
+
+Pharmakotherapie
+    -   ?
+
 
 .. _Thema-nierenbeckenentzuendung:
 
@@ -193,7 +209,18 @@ Harnableitung mitführt.
 
 -  Medikamente
 
-.. todo:: !!! PROCEDURE !!! MR33XX1C
+.. _MR33XX1C:
+.. _m-harnverhalten:
+
+Maßnahmen: Akutes Harnverhalten
+===============================
+
+.. todo:: Maßnahme MR33XX1C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Zügiger Transport 
+    -   Vorsichtig ablassen über Harnkatheter oder
+        Blasenpunktion (Spital)
 
 **********************************************
 Niereninsuffizienz, Nierenversagen und Dialyse
@@ -301,4 +328,15 @@ Notfall.
 
 -  Absterben des Hodens
 
-.. todo:: !!! PROCEDURE !!! MN44000C
+
+.. _MN44000C:
+
+Maßnahmen: Hodentorsion
+=======================
+
+.. todo:: Maßnahme MN44000C: Anpassung an höherqualifiziertes Personal
+
+Maßnahmen
+    -   Lagerung: Bauckdeckenentspannend
+    -   Rascher Transport
+

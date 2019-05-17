@@ -73,7 +73,28 @@ Im Zweifel reanimieren!
 
 Diagnose “Abort” vermeiden Symptombeschreibung
 
-.. todo:: !!! PROCEDURE !!! GO06XX1C
+
+
+.. _GO06XX1C:
+.. _m-abort:
+
+Maßnahmen: Abort
+^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GO06XX1C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen:
+    -   Lagerung:
+        sterile Vorlage und Lagerung nach Fritsch
+    -   |TxBeiVit|: |TxMassVitMKBes|
+
+        -   Lagerung: Situationsgerecht
+
+    -   Abgegangene Gewebeteile sammeln
+
+
+
+
 
 Eileiterschwangerschaft
 -----------------------
@@ -104,10 +125,32 @@ Abdomens und eines hypovolämischen Schocks.
     -  Bei Frauen mit akutem Abdomen muss immer eine mögliche
        Schwangerschaft abgeklärt werden!
 
-.. todo:: !!! PROCEDURE !!! GO00091C
 
-.. todo:: !!! PROCEDURE !!! GO00092C
+.. _GO00091C:
+.. _m-eileiterschwangerschaft-verdacht:
 
+Maßnahmen: Eileiterschwangerschaft, Verdacht
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GO00091C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Symptomatische Erstversorgung
+
+
+.. _GO00092C:
+.. _m-eileiterschwangerschaft-rupturiert:
+
+Maßnahmen: Eileiterschwangerschaft, rupturiert
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GO00092C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   |TxMassVitMKBes|
+    
+        -   Lagerung: Bauchdeckenentspannend.
+        -   Schockbekämpfung
 
 
 .. index::
@@ -152,7 +195,27 @@ Symptome eines *akuten Abdomens* zeigen.
 
    -  Akutes Abdomen
 
-.. todo:: !!! PROCEDURE !!! GO45090C
+
+
+.. _GO45090C:
+.. _m-plazentaloesung:
+
+.. todo:: Maßnahme GO45090C: Anpassung an höherqualifiziertes Personal
+
+Maßnahmen: Vorzeitige Plazentalösung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Basismaßnahmen
+    -   |TxMassVitMKBes|
+
+        -   Lagerung: sterile Vorlage und Lagerung nach Fritsch.
+        -   Schockbekämpfung
+
+    -   Keine vaginale Untersuchung oder  Scheidentamponade
+    -   Zügiger Transport mit Voranmeldung
+
+
+
 
 .. _thema-vena-cava-syndrom:
 
@@ -176,7 +239,19 @@ rechts der Körpermitte verläuft.
     -  *Jede hochschwangere Patientin* soll in (leichter)
        Linksseitenlage und nicht in Rückenlage transportiert werden.
 
-.. todo:: !!! PROCEDURE !!! GO26051C
+
+
+.. _GO26051C:
+.. _m-vena-cava-syndrom:
+
+Maßnahmen: Vena-cava-Syndrom
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GO26051C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Linksseitenlage, grundsätzlich immer bei
+        hochschwangeren Patientinnen.
 
 
 .. _Thema-praeeklampsie:
@@ -247,9 +322,44 @@ Erbrechen. (Haag, Hanhart, and Müller 2006b)
 
    -  Übelkeit, Erbrechen
 
-.. todo:: !!! PROCEDURE !!! GO14090C
 
-.. todo:: !!! PROCEDURE !!! GO15091C
+
+.. _GO14090C:
+.. _m-praeeklampsie-verdacht:
+
+Maßnahmen: Präeklampsie
+^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GO14090C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   schonender Transport
+    -   Überwachung, evtl. O₂
+    -   Reizabschirmung
+
+..    -   Notarzt: Krampfdurchbrechung, RR-Senkung
+..    -   (im Vollbild: vorzeitige Beendigung der  Schwangerschaft)
+
+
+
+
+
+
+.. _GO15091C:
+.. _m-eklampsie:
+
+Maßnahmen: Eklampsie, eklamptischer Krampfanfall
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GO15091C: Anpassung an höherqualifiziertes Personal
+
+Grundsätzlich ist so wie bei jedem anderen Krampfanfall zu verfahren,
+vgl. :ref:`Thema-krampfanfall`.
+Bedenke:
+Der eklamptische Krampfanfall ist für Mutter und Kind lebensgefährlich!
+
+
+
 
 Vorzeitiger Fruchtwasserabgang
 ------------------------------
@@ -263,7 +373,25 @@ für ihn die Gefahr eines *Nabelschnurvorfalls* oder einer *Infektion*
 (Keimbesiedlung der Fruchthöhle). Die Patientin ist an einer
 geburtshilflichen Abteilung vorzustellen.
 
-.. todo:: !!! PROCEDURE !!! GO42090C
+
+
+.. _GO42090C:
+.. _m-fruchtwasserabgang:
+
+% GO42090C
+Basismaßnahmen: Vorzeitiger Blasensprung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GO42090C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Lagerung: Linksseitenlagerung, Becken erhöht
+        (Schwerkraft verzögert Geburt), Lagerung nach Fritsch
+    -   Nicht mehr aufstehen lassen! Liegender Transport!
+
+
+
+
 
 ************
 Geburtshilfe
@@ -475,9 +603,222 @@ Ab Beginn der Presswehen bzw. wenn der Kindskopf oder -teile
 weitere Transport zu unterlassen und das Fachpersonal muss bei der
 Geburt Hilfestellung leisten.
 
-.. todo:: !!! PROCEDURE !!! GO80XX1C
 
-.. todo:: !!! PROCEDURE !!! GY51310C
+.. _GO80XX1C:
+.. _m-geburt:
+
+Maßnahmen: Spontangeburt
+------------------------
+
+.. todo:: Maßnahme GO80XX1C: Anpassung an höherqualifiziertes Personal
+
+
+
+Vorbereitung
+    -   (Not-)Arzt hinzuziehen
+    -   Fahrzeug/Umgebung einheizen
+    -   Vorbereiten des Geburtenset
+    -   Lagerung: Z. B. erhöhter Oberkörper, angewinkelte
+        Beine; Wunsch der Mutter berücksichtigen!
+
+Geburt
+    -   Stuhlschutz
+    -   Versorgung des Neugeborenen
+        (:ref:`m-neugeborenes`)
+    -   Nachdem die Nabelschnur durchgeschnitten
+        wurde, mütterliche Seite an
+        Oberschenkel fixieren und vor Zug schützen
+    -   Dokumentation von Geburtszeit und Geburtsort
+
+
+
+
+
+.. _GY51310C:
+.. _m-neugeborenes:
+
+Maßnahmen: Versorgung des Neugeborenen
+--------------------------------------
+
+.. todo:: Maßnahme GY51310C: Anpassung an höherqualifiziertes Personal
+
+
+-   Neugeborenes abrubbeln
+-   Erstbeurteilung:
+
+    -   Muskeltonus
+    -   Atemweg
+    
+        -   Bei Atemwegsverlegung: Mittels Oro-Sauger absaugen
+            \hfill\Commentary[Absaugen Neugeborener]{ASBÖ
+            Lehrmeinung 18/2011 \enquote{Absaugen Neugeborener im
+            Rettungsdienst}:cite:`AsboeLehrmeinungRd2011-19`\ : \enquote{Mehrere
+            Studien zeigten keine Verbesserung im Outcome
+            gegenüber abgesaugter Neugeborener. Daher ist es
+            obligat, keine Verzögerung bei den BLS-Maßnahmen
+            hervorzurufen, welche durch lange Absaugversuche
+            zustande kommen können. Lediglich die
+            Atemwegsobstruktion durch Mekonium muss behandelt
+            werden, indem die Atemwege freigemacht werden. Selbst
+            missfarbiges Fruchtwasser stellt keine Indikation zur
+            Absaugung
+            dar.}}
+            \ParBugfix
+            ERC 2010:cite:`Erc2010Sek06De`\ : \enquote{Absaugen ist
+            nur notwendig, wenn die Atemwege verlegt sind. Eine
+            solche Verle- gung kann aufgrund von Mekonium, auch
+            wenn das Neugeborene keine Mekoniumablagerungen auf
+            der Haut zeigt, aber auch Blutkoageln, zähem Schleim
+            oder Vernix bestehen. Wird abgesaugt, ist zu bedenken,
+            dass zu heftiges oropharyngeales Ab- saugen das
+            Einsetzen einer suffizienten Spontanatmung verzögern
+            und zu einem Laryngospasmus sowie zu einer vagalen
+            Bradykardie führen kann. Das Vorhandensein von
+            zähflüssigem Mekonium beim schlaffen, avitalen
+            Neugeborenen ist die einzige Situation, in der ein
+            sofortiges Absaugen des Oropharynx zu erwägen ist.}}
+            }%Commentary
+
+    -   Atmung
+
+        Bei Schnappatmung oder fehlender Atmung: Atemwege öffnen
+        5 initiale Beatmungen
+        -   Kreislauf: \Abk{HF} messen (durch Auskultation
+        an der Herzspitze (nur geübtes Personal) oder an
+        *Oberarmarterie*). Wenn ein *geeignetes
+        Pulsoxymeter* vorhanden ist, kann auch dieses verwendet werden.
+        \hfill\Commentary[Ort der HF-Messung beim Neugeborenen]
+        {ERC 2010:cite:`Erc2010Sek06De`\ : \enquote{Die beste Methode
+        zur Beurteilung der Herzfrequenz ist die direkte Auskultation mit dem Stethoskop über der Herzspitze. Das Tasten des
+        Pulses an der Basis der Nabelschnur ist oft möglich, kann
+        aber irreführend sein. Eine Beurteilung der Herzfrequenz
+        allein über die Pulsation der Nabelschnur ist nur
+        zuverlässig, wenn die Herzfrequenz über 100\PerMin* liegt.}}
+        \ParBugfix
+        Bei Sanitätern, insbesondere der
+        niedrigeren Ausbildungsstufen, kann nicht davon
+        ausgegangen werden, dass eine Auskultation in dieser
+        stressreichen Situation fehlerfrei und zuverlässig angewendet werden kann. Die
+        Oberarmarterie erscheint in diesem Fall als
+        pragmatischer Kompromiss.}
+
+
+.. todo:: Tabelle "Versorgung des Neugeborenen abhängig vom Befund"
+
+    ::
+
+        %\TableWide
+        %[]%1 Float
+        %{}%2 Titel
+        %{}%3 Beschreibung
+        %{}%4 Label/Hook
+        %{}%5 Quelle
+        %{}%6 Lizenz
+        %{}%7 Tabelle
+        \TableWide
+        []%1 Float
+        {Versorgung des Neugeborenen abhängig vom Befund}
+        {}
+        {\label{fig:neugeborenes-versorgung}}
+        {}
+        {}
+        {%
+        \begin{tabularx}{\linewidth}{XX}
+        \toprule\addlinespace
+        \multicolumn{1}{c}{\includegraphics[width=1cm]{./icons/sm-basic.png}}
+        &
+        \multicolumn{1}{c}{\includegraphics[width=1cm]{./icons/sm-pale.png}~~\includegraphics[width=1cm]{./icons/sm-pale-frown.png}}
+        \\\addlinespace
+        \noindent\TabHeading{Kräftiges Schreien/suffiziente Atmung}
+        &
+        \noindent\TabHeading{Insuffiziente Spontanatmung,
+        Atemstillstand oder Bradykardie}
+        \\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}\addlinespace
+        \begin{itemize}
+        \item[\eye] Guter Muskeltonus,
+        \item[\eye] Herzfrequenz \textgreater 100\PerMin*
+        \end{itemize}
+
+
+
+
+        &
+        \begin{itemize}
+        \item[\eye] Normaler, reduzierter Muskeltonus, oder sogar
+        schlaffer Muskeltonus (\enquote{floppy})
+        \item[\eye] Herzfrequenz \textless 100\PerMin*; Bradykarde
+        oder nichtnachweisbare Herzfrequenz,
+        \item[\eye] Oft mit ausgeprägter Blässe als Zeichen
+        einer schlechten Perfusion.
+        \end{itemize}
+
+        \\\addlinespace\cmidrule(lr){1-1}\cmidrule(lr){2-2}\addlinespace
+        \begin{itemize}
+        -   Abtrocknen und Einwickeln in warme Tücher:Warm
+        einpacken (nur das Gesicht darf frei bleiben) und der Mutter
+        überreichen.
+        -   Abnabeln, frühestens nach 1\Min*:
+        \begin{enumerate}
+            -   Erst wird eine Handbreite vom Kind
+            entfernt die erste Nabelklemme gesetzt.
+            -   Dann wird die Nabelschnur Richtung Mutter ausgestreift und
+            wieder eine Handbreit entfernt die zweite Klemme gesetzt.
+            -   Zwischen den beiden
+            Klemmen wird die Nabelschnur durchtrennt.
+        \end{enumerate}
+        -   Das Neugeborene
+        kann der Mutter auf den Bauch gelegt werden. Durch den
+        Kontakt zur Haut der zugedeckten Mutter wird das Baby
+        gewärmt.
+        
+        -   Es kann zu diesem Zeitpunkt bereits an die Brust
+        angelegt werden.
+        \end{itemize}
+        &
+        % Nachdem ein Neugeborenes dieser Gruppe getrocknet und in
+        % warme Tücher gewickelt wurde, ist meist eine kurze
+        % Maskenbeatmung ausreichend. Kommt es darunter nicht zu einem
+        % adäquaten Anstieg der Herzfrequenz, müssen Herzdruckmassagen
+        % durchgeführt werden.
+        
+        \begin{itemize}
+            %     -   O₂-Gabe (\enquote{O₂-Dusche}) für 30 Sek.
+            -   Atemwege freimachen, absaugen
+            -   5 Beatmungen
+            -   Wenn keine Steigerung der Herzfrequenz:
+            \begin{itemize}
+            %     -   O₂-Gabe (\enquote{O₂-Dusche}) für 30 Sek.
+            -   Lagerung und Atemwege überprüfen
+            -   5 Beatmungen wiederholen
+            \end{itemize}
+            -   Wenn weiterhin keine ausreichende Atmung oder
+            \EE{Herzfrequenz \textless 60\PerMin*}:
+            \begin{itemize}
+            -   \Sign{→} Reanimation des Neugeborenen
+            \end{itemize}
+            \FullPrettyRef{m:neugeborenes-basisreanimation}
+        \end{itemize}
+        
+        % Nachdem ein Neugeborenes dieser Gruppe getrocknet und in
+        % warme Tücher gewickelt wurde, müssen unverzüglich die
+        % Atemwege geöffnet werden. Die Lungen müssen belüftet werden,
+        % und das Kind muss beatmet werden. Wurden die Atemwege
+        % erfolgreich geöffnet und die Lungen belüftet, können
+        % außerdem Herzdruckmassagen und möglicherweise eine
+        % Medikamentengabe notwendig sein. Eine sehr kleine Gruppe von
+        % Neugeborenen bleibt trotz adäquater Spontanatmung und guter
+        % Herzfrequenz hypox­ ämisch. Die Diagnosen umfassen hier ein
+        % weites Spektrum, wie z. B. eine Zwerchfellhernie,
+        % Surfactant-Mangel, eine kongenitale Pneumonie, einen
+        % Pneumothorax oder ein angeborenes zyanotisches Herzvitium.
+        
+        
+        \\\addlinespace\bottomrule
+        \end{tabularx}
+        }
+
+
+:cite:`Erc2010Sek06De,AsboeLehrmeinungRd2011-19,AsboeLehrmeinungRd2011-18`\ 
 
 
 
@@ -548,7 +889,31 @@ Notfälle während und unmittelbar nach der Geburt
 Basisreanimation des Neugeborenen
 ---------------------------------
 
-.. todo:: !!! PROCEDURE !!! GY51140C
+
+
+.. _GY51140C:
+.. _m-neugeborenes-basisreanimation:
+
+Maßnahmen: Basisreanimation des Neugeborenen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GY51140C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   2 Daumen nebeneinander über dem
+        unteren Drittel des Brustbeins,
+        direkt unter einer gedachten Linie zwischen den
+        Brustwarzen
+
+    -   Umgreifen des gesamten
+        Brustkorbs und Unterstützung des Rückens des Kindes.
+    -   Thoraxkompressionen und Beatmungen im Verhältnis von
+        **3 : 1**
+    -   |TxMassVitMK|
+
+
+:cite:`Erc2010Sek06De`
+
 
 Asphyxie während der Geburt
 ---------------------------
@@ -584,7 +949,19 @@ normal).
 
 -  Schlaffer Muskeltonus
 
-.. todo:: !!! PROCEDURE !!! GP21090C
+
+
+.. _GP21090C:
+.. _m-asphyxie:
+
+Maßnahmen: Asphyxie des Neugeborenen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GP21090C: Anpassung an höherqualifiziertes Personal
+
+Die Behandlung der Asphyxie erfolgt im Rahmen der Versorgung
+des Neugeborenen (:ref:`m-neugeborenes`).
+
 
 Nabelschnurvorfall
 ------------------
@@ -597,7 +974,26 @@ Einerseits wird während des Geburtsvorganges die Nabelschnur durch den
 Kindskopf abgeklemmt, und somit ist die Sauerstoffversorgung des Kindes
 nicht mehr gewährleistet. Andererseits kann sich die Nabelschnur um den
 Hals des Kindes wickeln und es kommt während der Geburt zur
-Strangulation des Kindes. !!! PROCEDURE !!! GO69000C
+Strangulation des Kindes. 
+
+.. _GO69000C:
+.. _m-nabelschnurvorfall:
+
+Maßnahmen: Nabelschnurvorfall
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GO69000C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   **Zeitkritisch!**
+    -   **Notarztnachforderung nur wenn Stabilisierung notwendig**
+    -   Beckenhochlagerung
+    -   Mutter soll *nicht* pressen 
+        (wenn möglich Geburt erst im Krankenhaus)
+    -   Wehenhemmung (hecheln; medikamentös)
+    -   Nabelschnurumschlingung des kindlichen Halses 
+        während der Geburt sofort lösen
+
 
 Die Placenta praevia liegt im Geburtskanal
 ------------------------------------------
@@ -630,7 +1026,28 @@ Unter Wehentätigkeit kommt es zu starken Blutungen aus der Scheide.
 
 -  Vaginalblutungen während Wehentätigkeit
 
-.. todo:: !!! PROCEDURE !!! GO69041C
+
+
+.. _GO69041C:
+.. _m-placenta-praevia:
+
+Maßnahmen: Placenta praevia bei bevorstehender Geburt
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GO69041C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   |TxMassVitMKBes|
+
+        -   **Zeitkritisch!**
+        -   **Notarztnachforderung nur wenn Stabilisierung
+            notwendig**
+        -   Lagerung: Sterile Vorlage und Lagerung nach
+            Fritsch.
+        -   Ggfs. Schockbekämpfung
+
+:cite:`MA70-Protokoll-2012-10-11`
+
 
 Pathologische Geburtslagen
 --------------------------
@@ -648,7 +1065,28 @@ mittels Kaiserschnitt, durchgeführt werden. Die Geburt in jedem Fall
 verhindern bzw. verzögern. Ein Armvorfall ist eine geburtsunmögliche
 Lageanomalie.
 
-.. todo:: !!! PROCEDURE !!! GO64090C
+
+
+.. _GO64090C:
+.. _m-pathologische-geburtslagen:
+
+.. todo:: Maßnahme GO64090C: Anpassung an höherqualifiziertes Personal
+
+Maßnahmen: Pathologische Geburtslagen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Basismaßnahmen
+    -   Bei Geburtsunmöglichen Lagen:
+
+        -   **Zeitkritisch!**
+        -   **Notarztnachforderung nur wenn Stabilisierung notwendig**
+        -   Voranmeldung!
+
+    -   Beckenhochlagerung
+    -   Mutter soll *nicht* pressen 
+        (wenn möglich Geburt erst im Krankenhaus)
+    -   Wehenhemmung (hecheln; medikamentös)
+
 
 Uterusruptur
 ------------
@@ -660,7 +1098,24 @@ plötzlich auf. Damit wird der Geburtsvorgang gestoppt und es herrscht
 Lebensgefahr für die Mutter aufgrund starker Blutungen und für das Kind
 wegen des O2-Mangels.
 
-.. todo:: !!! PROCEDURE !!! GO71010C
+
+
+.. _GO71010C:
+.. _m-uterusruptur:
+
+Maßnahmen: Uterusruptur
+^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GO71010C: Anpassung an höherqualifiziertes Personal
+
+
+Basismaßnahmen
+    -   |TxMassVitMK|
+    -   Schockbekämpfung
+    -   Lagerung: Fritsch, Beine hoch
+
+
+
 
 Blutungen in der Nachgeburtsperiode
 -----------------------------------
@@ -681,7 +1136,23 @@ nach der Plazentalösung.
 
 -  Hypovolämischer Schock bis Kreislaufversagen möglich
 
-.. todo:: !!! PROCEDURE !!! GO72000C
+
+
+.. _GO72000C:
+.. _Proc-GO72000C:
+.. _m-blutung-nachgeburtsperiode:
+
+Maßnahmen: Blutung in der Nachgeburtsperiode
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme GO72000C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   |TxMassVitMK|
+    -   Schockbekämpfung
+    -   Lagerung: Fritsch, Beine hoch
+
+
 
 *************************************************
 Sonstige gynäkologische Erkrankungen und Notfälle
@@ -719,7 +1190,19 @@ anhand des Blutverlustes und der Vitalwerte eingeschätzt werden.
    Entjungferung
 
 
-.. todo:: !!! PROCEDURE !!! GN93091C
+
+.. _GN93091C:
+.. _m-vaginale-blutung:
+
+.. todo:: Maßnahme GN93091C: Anpassung an höherqualifiziertes Personal
+
+Maßnahmen: Vaginale Blutung
+---------------------------
+
+
+Basismaßnahmen
+    -   Lagerung nach Fritsch
+
 
 !!! LITERARY !!! (Haag, Hanhart, and Müller 2006a)
 

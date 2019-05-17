@@ -71,7 +71,59 @@ kann wird hier auch bei der Identifizierung des Stoffes geholfen.
 Gegen die meisten Vergiftungen kann man präklinisch, ursächlich wenig
 unternehmen. Das Hauptaugenmerk liegt daher auf:
 
-.. todo:: !!! PROCEDURE !!! MT65091C
+
+.. _MT65091C:
+.. _m-am-vergiftung:
+
+**********************************
+Maßnahmen: Vergiftungen, allgemein
+**********************************
+
+.. todo:: Maßnahme MT65091C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Selbstschutz
+    -   Beendigung des Giftkontaktes
+    -   Evtl. Dekontamination bei
+        Gefahrstoffen
+        (z. B. Insektizide, Lösungsmittel
+        in der chemischen Industrie, ...)
+    -   Sicherung der Vitalfunktionen
+    -   Entscheidung, ob es sich um einen akut vital
+        bedrohten Patienten handelt
+    -   Quellenforschung (Mistkübel
+        durchsuchen)
+    -   Nüchtern lassen
+    -   NICHT absichtlich Erbrechen
+        herbeiführen
+    -   Asservierung (Packungen, Erbrochenes in
+        Nierentasse mitnehmen!)
+    -   Anamnese, Besonderheiten:
+
+        #.  **Wer**? (Alter, KG, Vorerkrankungen, ...
+            → Risikoabschätzung!)
+        #.  **Was**? (Art des Giftes → evt.
+            zu erwartende Symptome)
+        #.  **Wann**? (Zeit seit Einnahme)
+        #.  **Wie**?
+            (inhalativ, oral, perkutan, intravenös etc.)
+        #.  **Wieviel**? (Dosisabschätzung)
+        #.  **Warum**? (Ursachenforschung:
+            Selbstmordversuch, Unfall, Fremdverschulden,
+            Vorsatz?)
+
+    -   Ggfs. **Expertenrat einholen** und Entscheidung
+        bezüglich des weiteren Vorgehens:
+
+        #.  Gegenmittel verfügbar?
+        #.  "Normales" Spitalsbett?
+        #.  Intensivüberwachung?
+        #.  Intensivüberwachung mit Entgiftungseinheit?
+        #.  Dialyse?
+        #.  Druckkammer?
+        #.  Sonstige Spezialbehandlungseinheit?
+
+
 
 ************************
 Vergiftungen mit Alkohol
@@ -131,7 +183,19 @@ beurteilen.
 Der Alkoholentzug und das Entzugsdelir wird unter
 :ref:`Thema-alkohol-entzug`, abgehandelt.
 
-.. todo:: !!! PROCEDURE !!! MT51001C
+.. _MT51001C:
+.. _m-intoxikation-alkohol:
+
+.. todo:: Maßnahme MT51001C: Anpassung an höherqualifiziertes Personal
+
+Maßnahmen: Vergiftungen mit Alkohol
+===================================
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Vergiftungen
+        (:ref:`m-am-vergiftung`)
+    -   |TxBeiVit| |TxMassVitMK|
+
 
 Chronische Schäden
 ==================
@@ -236,7 +300,27 @@ Gegenmittel nicht so lange wirkt wie das Opiat, d.h. es kann wieder zu
 einer verminderten Atmung kommen, wenn die Wirkung des Gegenmittels
 nachlässt. Daher soll der Transport nur mit Arztbegleitung erfolgen.
 
-.. todo:: !!! PROCEDURE !!! MT40021C
+
+.. _MT40021C:
+.. _m-intoxikation-opiate:
+
+Maßnahmen: Vergiftung mit Opiaten
+---------------------------------
+
+.. todo:: Maßnahme MT40021C: Anpassung an höherqualifiziertes Personal
+
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Vergiftungen
+        (:ref:`m-am-vergiftung`) und
+        symptomatische Therapie
+    -   |TxBeiVit| |TxMassVitMK|
+
+Pharmakotherapie
+    -   Naloxon
+
+
+
 
 “Partydrogen”: Ecstacy, Schwammerl, Special K …
 ===============================================
@@ -291,7 +375,23 @@ durch Schwitzen viel Flüssigkeit verliert.
 
    -  Flüssigkeitsmangel
 
-.. todo:: !!! PROCEDURE !!! MT43091C
+
+
+.. _MT43091C:
+.. _m-intoxikation-uppers:
+
+Maßnahmen: Vergiftung mit Uppers
+-----------------------------------
+
+
+.. todo:: Maßnahme MT43091C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Vergiftungen
+        (:ref:`m-am-vergiftung`) und
+        symptomatische Therapie
+    -   |TxBeiVit| |TxMassVitMK|
+
 
 (Supady, Schwab, and Busch 2009)
 
@@ -302,7 +402,40 @@ Gase
 Vergiftungen mit Stickgasen
 ===========================
 
-.. todo:: !!! PROCEDURE !!! MT59XX1C
+
+.. _MT59XX1C:
+.. _m-am-stickgase:
+
+Maßnahmen: Vergiftung mit Stickgasen
+------------------------------------
+
+.. todo:: Maßnahme MT59XX1C: Anpassung an höherqualifiziertes Personal
+
+
+-   Auf Selbstschutz achten!
+-   Patienten retten, aber nur wenn es der
+    Eigenschutz zulässt.
+-   O₂-Berieselung mit Maske ist in keinem Fall
+    ein ausreichender Atemschutz!
+
+-   Spezialkräfte anfordern (Schwerer Atemschutz).
+    I. d. R. Feuerwehr
+-   Weitere Opfer ausschließen (lassen):
+    Nachbarwohnungen, etc.
+-   Sicherung der Vitalfunktionen, Beurteilung ob der
+    Patient vital bedroht ist.
+-   |TxBeiVit| |TxMassVitMKBes|
+
+    -   O₂ hochdosiert, 15 L / min
+    -   Lagerung: situationsgerecht.
+
+-   Traumacheck (Folgeverletzungen)
+-   Neurocheck inkl. Blutzuckerbestimmung
+    (Differentialdiagnosen, 
+    Beurteilung der Beeinträchtigung im Verlauf)
+
+
+
 
 Kohlenmonoxid (CO) – oder: Von defekten Heizlüftern, Gasthermen und Autoabgasen
 -------------------------------------------------------------------------------
@@ -311,7 +444,7 @@ Einleitung
 ^^^^^^^^^^
 
 Kohlenmonoxid () ist ein farb- und geruchloses Gas. Es entsteht bei
-unvollständiger Verbrennung (O2-Zufuhr :math:`{\downarrow}`), dies
+unvollständiger Verbrennung (O2-Zufuhr ↓), dies
 passiert vor allem bei schlecht gewarteten Gasheizungen und
 Durchlauferhitzern. bindet 300 mal besser an den roten Blutfarbstoff
 Hämoglobin als O2, daher verdrängen schon kleine Mengen den Sauerstoff
@@ -365,7 +498,20 @@ Krämpfe sind gut möglich.
 
 -  Pulsoxymeter zeigt falsche Werte an!
 
-.. todo:: !!! PROCEDURE !!! MT58001C
+
+.. _MT58001C:
+.. _m-intoxikation-kohlenmonoxid:
+
+Maßnahmen: Vergiftung mit Kohlenmonoxid
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme MT58001C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei
+        Stickgas-Vergiftungen
+        (:ref:`m-am-stickgase`)
+    -   Hyperbare O₂-Therapie in der Druckkammer erwägen
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/2006-01-31-gaswienheute2.*
@@ -408,13 +554,30 @@ Symptome
 
 -  Hyperventilation
 
-.. todo:: !!! PROCEDURE !!! MT59070C
 
--  Bei Gasunfällen hat der *Selbstschutz* Vorrang. Oft ist die Bergung
-   nur mit *schwerem Atemschutz* möglich →
-   FEUERWEHR!
 
-    -  Ein toter Helfer ist keine Hilfe.
+.. _MT59070C:
+.. _m-intoxikation-kohlendioxid:
+
+
+Maßnahmen: Vergiftung mit Kohlendioxid
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme MT59070C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei
+        Stickgas-Vergiftungen
+        (:ref:`m-am-stickgase`)
+
+
+.. note:: Bedenke!
+
+    -   Bei Gasunfällen hat der *Selbstschutz* Vorrang. Oft ist die Bergung
+        nur mit *schwerem Atemschutz* möglich →
+        FEUERWEHR!
+
+        -   Ein toter Helfer ist keine Hilfe.
 
 Reizgase
 ========
@@ -444,7 +607,39 @@ Verzögerungstyp
     | Haushalt                 | Chlorgas (Kombination von best. Haushaltsreinigern mit Essig), Lacke, Imprägniersprays, ...   |
     +--------------------------+-----------------------------------------------------------------------------------------------+
 
-.. todo:: !!! PROCEDURE !!! MT59XX2C
+
+
+.. _MT59XX2C:
+.. _m-am-reizgase:
+
+.. todo:: Maßnahme MT59XX2C: Anpassung an höherqualifiziertes Personal
+
+
+Maßnahmen: Vergiftung mit Reizgasen
+-----------------------------------
+
+Basismaßnahmen
+    -   Auf Selbstschutz achten!
+
+        -   Patienten retten, aber nur wenn es der
+            Eigenschutz zulässt.
+        -   O₂-Berieselung mit Maske ist in keinem Fall
+            ein ausreichender Atemschutz!
+
+    -   Gefahr erkennen: Welcher Stoff? Expertenrat einholen!
+    -   Wenn erforderlich: Absperrmaßnahmen durchführen
+    -   Wenn erforderlich:  Spezialkräfte anfordern
+    -   Vorgehen analog zu Abschnitt "Gefahrengutunfall"
+        (:ref:`Thema-gefahrengutunfall`)
+    -   Weitere Opfer ausschließen (lassen):
+        Nachbarwohnungen, etc
+    -   Sicherung der Vitalfunktionen, Beurteilung ob der
+        Patient vital bedroht ist.
+    -   |TxBeiVit| 
+    -   Traumacheck (Folgeverletzungen)
+    -   Neurocheck inkl. Blutzuckerbestimmung
+        (Differentialdiagnosen, Beurteilung der Beeinträchtigung im Verlauf)
+
 
 Kampfgase
 =========
@@ -518,7 +713,24 @@ Gefahren
 
 -  Blutung
 
-.. todo:: !!! PROCEDURE !!! MT54091C
+
+
+.. _MT54091C:
+.. _m-saeuren-laugen:
+
+.. todo:: Maßnahme MT54091C: Anpassung an höherqualifiziertes Personal
+
+Maßnahmen: Einnahme von Säuren oder Laugen
+------------------------------------------
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Vergiftungen
+        (:ref:`m-am-vergiftung`)
+    -   Schluckweise Wasser zur Verdünnung trinken lassen
+    -   **Niemals absichtlich Erbrechen  herbeiführen!**
+    -   Keine Neutralisationsversuche! (Milch obsolet!)
+
+
 
 Schaumbildner (Wasch-/Putzmittel)
 =================================
@@ -540,8 +752,21 @@ klagen bzw. erbrechen.
 
 -  Übelkeit, Erbrechen
 
-.. todo:: !!! PROCEDURE !!! MT17023C
+0
 
+.. _MT17023C:
+.. _m-schaumbildner:
+
+Maßnahmen: Einnahme von schaumbildenden Substanzen
+--------------------------------------------------
+
+.. todo:: Maßnahme MT17023C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Vergiftungen
+        (:ref:`m-am-vergiftung`)
+    -   Patienten nüchtern lassen
+    -   **Niemals absichtlich Erbrechen herbeiführen!**
 
 
 .. [291]

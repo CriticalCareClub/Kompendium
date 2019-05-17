@@ -104,7 +104,22 @@ für Beschreibungen:
 
     **Anmerkungen:** Abdomen weich, keine Druck- oder Loslassschmerzen
 
-.. todo:: !!! PROCEDURE !!! CKXXXX1C
+
+.. _CKXXXX1C:
+.. _m-am-abdominalerkrankungen:
+
+Maßnahmen: Abdominalerkrankung
+------------------------------
+
+.. todo:: Maßnahme CKXXXX1C: Anpassung an höherqualifiziertes Personal
+
+-   **Vitale Bedrohung einschätzen.** |TxBeiVit|
+    |TxMassVitMK|
+-   Lagerung: grundsätzlich **bauchdeckenentspannend**
+    (Knierolle, Beine angezogen), oder nach Wunsch des Patienten
+-   **Nüchtern lassen** (in Hinblick auf möglicherweise
+    bevorstehende Operation, nichts essen oder trinken lassen)
+
 
 ***************************************
 Häufige und gut erkennbare Erkrankungen
@@ -212,7 +227,27 @@ sind auch die Ursachen:
 
 -  u.v.a.m. …
 
-.. todo:: !!! PROCEDURE !!! CR10000C
+
+.. _CR10000C:
+.. _m-akutes-abdomen:
+
+Maßnahmen: Akutes Abdomen
+-------------------------
+
+.. todo:: Maßnahme CR10000C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Abdominalerkrankungen
+        (:ref:`m-am-abdominalerkrankungen`)
+    -   **Vitale Bedrohung einschätzen.** Ggfs.
+        |TxMassVitMK|
+    -   Lagerung: grundsätzlich **bauchdeckenentspannend**
+        (Knierolle, Beine angezogen), oder nach Wunsch des Patienten
+    -   **Nüchtern lassen** (in Hinblick auf möglicherweise
+        bevorstehende Operation, nichts essen oder trinken lassen)
+    -   Monitoring: Der Zustand kann sich abrupt
+        verschlechtern.
+
 
 Darmverschluss
 ==============
@@ -246,9 +281,26 @@ gestautem Kot kommen (*Miserere)* :index:`\ <Miserere\|Z>`.
 
 -  Stuhlverhalten
 
--  Übelkeit, Erbrechen (selten: Koterbrechen)
+-  Übelkeit, Erbrechen (selten: Miserere (Koterbrechen))
 
-.. todo:: !!! PROCEDURE !!! CK56070C
+
+.. _CK56070C:
+.. _m-darmverschluss:
+
+
+Maßnahmen: Darmverschluß
+------------------------
+
+.. todo:: Maßnahme CK56070C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Abdominalerkrankungen
+        (:ref:`m-am-abdominalerkrankungen`)
+    -   Lagerung: bauchdeckenentspannend, bzw. je nach
+        Patientenwunsch
+    -   Patient nüchtern lassen!
+
+
 
 Appendizitis (Blinddarmentzündung)
 ==================================
@@ -290,7 +342,22 @@ kann.
 
 -  Evtl. uncharakteristisch oder untypisch
 
-.. todo:: !!! PROCEDURE !!! CK35080C
+
+
+.. _CK35080C:
+.. _m-appendizitis:
+
+Maßnahmen: Akute Appendizitis
+------------------------------------------
+
+.. todo:: Maßnahme CK35080C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Abdominalerkrankungen
+        (:ref:`m-am-abdominalerkrankungen`)
+    -   Patient nüchtern lassen.
+
+
 
 Gallenkolik
 ===========
@@ -298,9 +365,11 @@ Gallenkolik
 Beschreibung
 ------------
 
-**Eine :dfn:`Gallenkolik` :index:`\ <! Gallenkolik>` zeichnet sich durch kolikartige
+Eine :dfn:`Gallenkolik` :index:`\ <! Gallenkolik>` 
+zeichnet sich durch kolikartige
 Schmerzen infolge einer Blockade der Gallenwege z.B. durch Gallensteine
-aus.** Vgl. Kolik: :ref:`Thema-kolik`. Gallensteine verursachen eine
+aus. Vgl. Kolik: :ref:`Thema-kolik`. 
+Gallensteine verursachen eine
 Verstopfung des Gallengangs und folglich einen Rückstau von
 Gallenflüssigkeit in die Leber. Dabei wird der Gallengang gedehnt und es
 kommt zu starken Dehnungsschmerzen.
@@ -330,7 +399,25 @@ Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr
 
 -  Evtl. Übelkeit, Erbrechen
 
-.. todo:: !!! PROCEDURE !!! CK80811C
+
+
+.. _CK80811C:
+.. _m-gallenkolik:
+
+Maßnahmen: Gallenkolik
+----------------------
+
+.. todo:: Maßnahme CK80811C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Abdominalerkrankungen
+        (:ref:`m-am-abdominalerkrankungen`)
+    -   Rasche Schmerztherapie veranlassen: Je nach
+        Situation, Notarzt oder rascher Transport in eine
+        geeignete Einrichtung
+    -   Patient nüchtern lassen!
+
+
 
 .. _Thema-gastrointestinale-blutung:
 
@@ -402,7 +489,28 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
     -   Der Patient kann aufgrund des Blutverlustes akut vital bedroht
         sein, es besteht die Gefahr eines hypovolämischen Schocks.
 
-.. todo:: !!! PROCEDURE !!! CK92020C
+.. _CK92020C:
+.. _m-blutung-verdauungstrakt:
+
+Maßnahmen: Blutungen des Verdauungstrakts
+-----------------------------------------
+
+.. todo:: Maßnahme CK92020C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   |TxMassVitMK|
+
+        -   Lagerung:
+            Situationsgerecht, je nach Blutungsquelle und
+            Patientenzustand
+
+    -   Allgemeine Maßnahmen der Schockbekämpfung
+        (:ref:`m-am-schock`)
+    -   Ggfs. spezielle Maßnahmen bei hypovolämischem Schock
+        (:ref:`Thema-schock-hypovolaemischer`)
+
+
+
 
 .. _Thema-lebensmittelvergiftung:
 
@@ -458,7 +566,24 @@ Erbrechen, Durchfälle. Exsikkose-Gefahr!
 
 -  Alte Menschen
 
-.. todo:: !!! PROCEDURE !!! CA09091C
+
+
+.. _CA09091C:
+.. _m-gastroenteritis:
+
+Maßnahmen: Gastroenteritis
+--------------------------
+
+.. todo:: Maßnahme CA09091C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Abdominalerkrankungen
+        (:ref:`m-am-abdominalerkrankungen`)
+    -   Patient nüchtern lassen
+    -   Strikte Desinfektionsmaßnahmen!
+
+
+
 
 .. _thema-exsikkose:
 
@@ -485,7 +610,7 @@ entwässern.
 
 -  Mangel an Flüssigkeit
 
--  Flüssigkeitszufuhr :math:`{\downarrow}`
+-  Flüssigkeitszufuhr ↓
 
    -  Verminderter Trinkantrieb
 
@@ -514,7 +639,7 @@ charakteristischerweise tiefliegend, die Nase wirkt auffallend spitz.
 Der RR ist mitunter sehr nieder, die HF eher hoch. *Der Patient ist bis
 zur Klärung der Situation nüchtern zu belassen!*
 
--  RR :math:`{\downarrow}`
+-  RR ↓
 
 -  stehende Hautfalten
 
@@ -575,7 +700,23 @@ oder *Kaffeesatz-artiges Erbrechen* zu beobachten.
 
 -  Kaffeesatz-artiges Erbrechen, Teerstuhl
 
-.. todo:: !!! PROCEDURE !!! CK29091C
+
+
+.. _CK29091C:
+.. _m-gastro-duodenitis:
+
+Maßnahmen: Gastritis, Duodenitis
+--------------------------------
+
+.. todo:: Maßnahme CK29091C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Abdominalerkrankungen 
+        (:ref:`m-am-abdominalerkrankungen`)
+
+
+
+
 
 Entzündung der Bauchspeicheldrüse: Pankreatitis
 ===============================================
@@ -632,7 +773,22 @@ Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* :
 
 -  Septischer Schock
 
-.. todo:: !!! PROCEDURE !!! CK859X0C
+
+
+.. _CK859X0C:
+.. _m-pankreatitis-akut:
+
+Maßnahmen: Akute Pankreatitis
+-----------------------------
+
+.. todo:: Maßnahme CK859X0C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Abdominalerkrankungen
+        (:ref:`m-am-abdominalerkrankungen`)
+
+
+
 
 .. _thema-mesenterialinfarkt:
 
@@ -686,7 +842,21 @@ Stuhlabgängen* kommen. (Eckstein et al. 2006)
 
 -  Übelriechende, blutige Stuhlabgänge
 
-.. todo:: !!! PROCEDURE !!! CK55001C
+
+
+.. _CK55001C:
+.. _m-mesenterialinfarkt:
+
+Maßnahmen: Mesenterialinfarkt
+-----------------------------
+
+.. todo:: Maßnahme CK55001C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Allgemeine Maßnahmen bei Abdominalerkrankungen
+        (:ref:`m-am-abdominalerkrankungen`)
+    -   Nüchtern lassen!
+
 
 .. _Thema-peritonitis:
 
@@ -736,7 +906,21 @@ Symptome
 
 -  Evtl. Sepsis- und/oder Schockzeichen
 
-.. todo:: !!! PROCEDURE !!! CK65090C
+
+
+.. _CK65090C:
+.. _m-bauchfellentzuendung:
+
+Maßnahmen: Bauchfellentzündung
+------------------------------
+
+.. todo:: Maßnahme CK65090C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Maßnahmen wie bei akutem Abdomen
+        (:ref:`m-akutes-abdomen`),
+        und sonst abhängig von der Ursache
+
 
 
 -----

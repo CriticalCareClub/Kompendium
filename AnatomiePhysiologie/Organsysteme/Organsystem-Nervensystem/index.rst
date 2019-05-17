@@ -491,7 +491,7 @@ Sympathikus und Parasympathikus sind Gegenspieler
 
     -  Sympathikus: Aktion, Kampf, Flucht, Stress; z. B.:
 
-        -  Kreislauf, Atmung :math:`\uparrow`
+        -  Kreislauf, Atmung ↑
 
         -  Verdauung, Schmerzempfindung ↓
 
@@ -499,7 +499,7 @@ Sympathikus und Parasympathikus sind Gegenspieler
 
         -  Kreislauf, Atmung ↓
 
-        -  Verdauung :math:`\uparrow`
+        -  Verdauung ↑
 
 Dabei ergänzen sich die beiden
 Systeme und erlauben eine feine Regulation der von ihnen gesteuerten
@@ -539,7 +539,7 @@ Organsysteme wie z. B. die Verdauung.
 
             (*“Rast und Verdauung”*)
     *   -   Kreislauf
-        -   Blutdruck, Herzfrequenz :math:`\uparrow`
+        -   Blutdruck, Herzfrequenz ↑
         -   Blutdruck, Herzfrequenz ↓
     *   -   Lunge
         -   Erweiterung der Bronchien
@@ -548,9 +548,9 @@ Organsysteme wie z. B. die Verdauung.
         -   Erweiterung
         -   Verengung
     *   -   Drüsen
-        -   Schweißsekretion :math:`\uparrow`
+        -   Schweißsekretion ↑
 
-            Adrenalinausschüttung :math:`\uparrow`
+            Adrenalinausschüttung ↑
         -   Schweißsekretion
             ↓
 

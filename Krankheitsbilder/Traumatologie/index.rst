@@ -417,7 +417,36 @@ Zusammenfassung
 Aus allen einsatztaktischen Überlegungen ergibt sich ein Bündel an
 Erstmaßnahmen, welche bei Unfällen durchgeführt werden müssen.
 
-.. todo:: !!! PROCEDURE !!! TY14101C
+
+.. _TY14101C:
+.. _m-am-unfaelle:
+
+.. todo:: Maßnahme TY14101C: Anpassung an höherqualifiziertes Personal
+
+Maßnahmen: Unfälle
+==================
+
+-   Unfallstelle absichern!
+-   Szeneüberblick: Wie viele Verletzte? Unfallszenario?
+-   Ggf. weitere Einsatzkräfte nachfordern!
+-   Beurteilung des Unfallmechanismus:
+
+    -   Aus welcher Richtung hat die Kraft 
+        auf den Patienten eingewirkt?
+    -   Wie schnell war das Fahrzeug unterwegs? 
+        bzw. Aus welcher Höhe ist der Patient gefallen?
+    -   War der Patient angegurtet? Haben Airbags
+        ausgelöst?
+    -   Welche besondere Verformungen sind am Fahrzeug
+        sichtbar?
+    -   Wurde der Patient aus dem Fahrzeug geschleudert?
+        bzw. Wurde ein Fußgänger erfasst?
+
+-   Bei Hospitalisation: Patient **nüchtern** lassen!
+
+
+
+
 
 .. _thema-frakturen:
 
@@ -570,7 +599,47 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
 
 
 
-.. todo:: !!! PROCEDURE !!! TT14200C
+
+.. _TT14200C:
+.. _m-fraktur:
+
+Maßnahmen: Fraktur
+-------------------
+
+.. todo:: Maßnahme TT14200C: Anpassung an höherqualifiziertes Personal
+
+
+Taktik \Ca{Zeitkritisch. Evtl. vitale
+Bedrohung v. a. durch Blutverlust.}
+Erkennen
+von großen Blutverlusten, Blutstillung,  Steriles
+Abdecken, Einschätzen der vitalen Bedrohung, ggfs
+Schmerztherapie. 
+Bei *vitaler Bedrohung*: Zeitkritisch,
+zügiger Transport. 
+Bei *stabilen Patienten*: Schienung}
+
+
+
+Basismaßnahmen
+    -   **Blutstillung**: Z. B. mit Beckengurt
+        (Beckenfraktur)
+    -   Vitale Bedrohung einschätzen, ggfs. |TxMassVitMK|.
+        Ggfs. mit hypovolämischen Schock rechnen, Schockbekämpfung
+    -   **Wundversorgung**: 
+        Bei offenen Frakturen ist
+        Keimfreiheit be\-sonders wichtig, da  die Gefahr einer lebenslangen
+        Knochenmarksentzündung (Osteomyelitis) besteht!
+        Wenn möglich soll eine *Wundfolie* 
+        (z. B. OpSite™) verwendet werden.
+    -   Kleidung und Schmuck von den betroffenen Gliedmaßen
+        entfernen (Schwellung!)
+    -   Ggfs. Schmerztherapie (veranlassen)
+    -   Ruhigstellung/Schienung bei stabilen Patienten
+    -   Beurteilung von Durchblutung, Motorik und
+        Sensibilität (DMS) an der betroffenen Extremität und an
+        der Gegenseite
+
 
 Spezielle Knochenbrüche
 =======================
@@ -655,7 +724,25 @@ berichten der Patient oder die Unfallzeugen meist über ein hörbares
 
 -  Hörbares Schnalzen beim Bänderriss
 
-.. todo:: !!! PROCEDURE !!! TT14031C
+
+
+.. _TT14031C:
+.. _m-verstauchung:
+
+.. todo:: Maßnahme TT14031C: Anpassung an höherqualifiziertes Personal
+
+Maßnahmen: Verstauchung
+-----------------------
+
+Basismaßnahmen
+    -   Kleidung und Schmuck von der betroffenen Gliedmaße entfernen
+        (Vorsicht Schwellung!)
+    -   Ruhigstellen
+    -   Hochlagern
+    -   Kühlen
+    -   Beurteilung von Durchblutung, Motorik und
+        Sensibilität (DMS) an der betroffenen Extremität und an
+        der Gegenseite
 
 
 .. _thema-verrenkung:
@@ -695,7 +782,26 @@ kann das entsprechende Gelenk nicht bewegen.
 
 -  Abnorme Gelenkstellung (federnd fixiert), bewegungsunfähig
 
-.. todo:: !!! PROCEDURE !!! TT14032C
+
+.. _TT14032C:
+.. _m-verrenkung:
+
+Maßnahmen Verrenkung
+--------------------
+
+.. todo:: Maßnahme TT14032C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Kleidung und Schmuck von der betroffenen Gliedmaße entfernen 
+        (Vorsicht Schwellung!)
+    -   Stellung der Gliedmaße belassen
+    -   Federnd fixierte Lagerung
+    -   **Keine Einrenkversuche!**
+    -   Beurteilung von Durchblutung, Motorik und
+        Sensibilität (DMS) an der betroffenen Extremität und an
+        der Gegenseite
+
+
 
 .. _thema-sht:
 
@@ -784,7 +890,7 @@ Gefahren
    -  Bewusstseinsstörungen
 
    -  Bradykardie, Hypertonie (HF↓,
-      RR\ :math:`\uparrow`)
+      RR\ ↑)
 
    -  Ungleichweite Pupillen, verlangsamte Lichtreaktion
 
@@ -904,7 +1010,40 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
    verschlechtert. Im Zweifelsfall wird der Patient dort zur Beobachtung
    (24h lang) aufgenommen.
 
-.. todo:: !!! PROCEDURE !!! TS06XX0C
+
+
+.. _TS06XX0C:
+.. _m-am-sht:
+.. _m-sht:
+
+Maßnahmen SHT
+=============
+
+.. todo:: Maßnahme TS06XX0C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Vitale Bedrohung beurteilen. 
+        |TxBeiVit|
+        |TxMassVitMKBes|
+
+        -   Lagerung: s. u.
+        -   Monitoring: Zusätzlich Beurteilung nach GCS 
+            (Verlauf beobachten und
+            dokumentieren, :ref:`Thema-gcs`)
+
+    -   Lagerung: leicht erhöhter Oberkörper, 
+        ca. 30°,
+        wenn keine Kontraindikation besteht.
+    -   Je nach Unfallmechanismus HWS-Immobilisation 
+        (z. B. mit Stifneck™)
+    -   Ggfs. Wundversorgung
+
+        -   Steriler Verband (steriles Abdecken)
+        -   Ausgetretene Hirnmasse feucht steril abdecken
+            und locker befestigen
+        -   Knochen oder Fremdkörper *nicht* entfernen 
+            oder zurück stopfen
+
 
 Offenes SHT
 ===========
@@ -1206,9 +1345,79 @@ Atemlähmung kommen.
 
 -  Atemlähmungen (bei hohem Querschnitt (im Bereich der HWS))
 
-.. todo:: !!! PROCEDURE !!! TT09031C
 
-.. todo:: !!! PROCEDURE !!! TT09032C
+.. _TT09031C:
+.. _m-ws-trauma-verdacht:
+
+Maßnahmen: Rückenmarksverletzung, Verdacht
+------------------------------------------
+
+.. todo:: Maßnahme TT09031C: Anpassung an höherqualifiziertes Personal
+
+Taktik 
+    Immobilisation und Transport in eine geeignete Einrichtung
+    zur Abklärung
+
+
+Vgl. :ref:`m-einschaetzung-indikation-ws-immobilisation`
+
+Basismaßnahmen
+    -   **HWS-Immobilisation** (HWS-Schiene)
+    -   Bergung mit Schaufeltrage, Spineboard oder
+        KED-System
+    -   **Lagerung** und Schienung mittels Vakuummatratze, Schaufeltrage mit
+        Fixationsmöglichkeit oder Spineboard.
+        Welches Hilfsmittel
+        eingesetzt wird ist abhängig vom Patientenzustand,
+        dem Training des Teams, internen Vorschriften und
+        vorhandenem Material.
+    -   **Monitoring**: Achte besonders auf Störungen
+        von Atmung und Bewusstsein, Schockentwicklung und
+        beginnende neurologische Ausfälle.
+
+    -   **Transportentscheidung**: Je nach
+        lokalen Gegebenheiten
+
+
+
+.. _TT09032C:
+.. _m-ws-trauma:
+
+Maßnahmen: Rückenmarksverletzung mit Symptomen
+----------------------------------------------
+
+.. todo:: Maßnahme TT09032C: Anpassung an höherqualifiziertes Personal
+
+Taktik 
+    **Zeitkritisch! Vitale Bedrohung!** 
+    Zügige Bergung, 
+    Immobilisation und Transport in eine geeignete Einrichtung
+
+
+Vgl. :ref:`m-einschaetzung-indikation-ws-immobilisation`
+
+Basismaßnahmen
+    -   Bei ansprechbaren Patienten: 
+        immer
+        **HWS-Immobilisation** (HWS-Schiene)
+    -   **Bergung** 
+        mit Schaufeltrage, Spineboard oder
+        KED-System
+    -   **Lagerung** und Schienung mittels
+        Vakuummatratze, Schaufeltrage mit Fixationsmöglichkeit oder
+        Spineboard.
+        Welches Hilfsmittel
+        eingesetzt wird ist abhängig vom Patientenzustand,
+        dem Training des Teams, internen Vorschriften und
+        vorhandenem Material.
+    -   Bei Querschnittslähmung: 
+        Kennzeichnung der Sensibilitätsgrenze mit Angabe der Uhrzeit
+    -   **Monitoring**: Achte besonders auf Störungen
+        von Atmung und Bewußtsein, sowie Schockentwicklung.
+    -   **Transportentscheidung**: Schockraum
+
+
+
 
 ************
 Thoraxtrauma
@@ -1335,8 +1544,38 @@ Todesangst.
     
     *Hauer*
 
-.. todo:: !!! PROCEDURE !!! TJ93090C
 
+
+.. _TJ93090C:
+.. _m-pneumothorax:
+
+Maßnahmen: Pneumothorax
+------------------------
+
+.. todo:: Maßnahme TJ93090C: Anpassung an höherqualifiziertes Personal
+
+Taktik 
+    **Zeitkritisch! Vitale Bedrohung!**
+    Entlastungspunktion, zügiger Transport
+    in eine geeignete Einrichtung
+
+Basismaßnahmen
+-   |TxMassVitMKBes|
+
+    -   **Lagerung**: Oberkörper hoch. Wenn stabile
+        Seitenlage notwendig ist, dann Lagerung auf die
+        *verletzte* Seite, damit die unverletzte
+        Lunge  nicht unnötig belastet wird.
+    -   **Notarzt**: 
+        Ein Pneumothorax kann mittels
+        Drainage bzw. Punktion entlastet werden (ärztliche Maßnahme).
+
+-   **Verband** bei offener Thoraxverletzung: 
+    **Nicht luftdicht verbinden**, 
+    es kann sonst ein
+    Spannungspneumothorax entstehen! 
+    Steril abdecken.
+-   **Transportentscheidung**: Schockraum
 
 
 .. index::
@@ -1539,7 +1778,34 @@ Begleitverletzungen im Brustkorb auf (Strauss and Fülöp, n.d.).
     
     [David Hauer, MfG]
 
-.. todo:: !!! PROCEDURE !!! TS31011C
+
+
+.. _TS31011C:
+.. _m-bauchtraume-offen:
+
+.. todo:: Maßnahme TS31011C: Anpassung an höherqualifiziertes Personal
+
+Maßnahmen: Bauchtrauma, offen
+------------------------------
+
+
+Taktik 
+    **Zeitkritisch! Vitale Bedrohung!**
+    Zügiger Transport in eine geeignete Einrichtung
+
+Basismaßnahmen
+    -   |TxMassVitMKBes|
+
+        -   **Lagerung**: Bauchdecke entspannen , Knierolle
+
+    -   Darmteile nicht  zurückstopfen → sonst
+        Darmriß/Darmverschluß
+    -   Steril abdecken, mit Ringerlösung feucht halten
+
+        -   Gefahr des Eindringens von Keimen  (Peritonitis/Sepsis!)
+
+    -   **Transportentscheidung**: Schockraum
+
 
 Geschlossenes Bauchtrauma
 =========================
@@ -1768,7 +2034,32 @@ einzudämmen.
 -  Verlust von bis zu 5 Litern Blut (= gesamtes Blutvolumen des
    Menschen) möglich!
 
-.. todo:: !!! PROCEDURE !!! TS32831C
+
+.. _TS32831C:
+.. _m-beckentrauma-instabil:
+
+Maßnahmen: Beckentrauma, instabil
+---------------------------------
+
+.. todo:: Maßnahme TS32831C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   |TxMassVitMKBes|
+
+        -   Lagerung: flach
+
+    -   Schockbekämpfung
+    -   Wirbelsäulenschonende, situationsgerechte Rettung (z. B. mittels
+        Schaufeltrage)
+    -   Lagerung auf/Schienung mit Vakuummatratze (wenn
+        Lagerung mit erhöhten Beinen notwendig ist,
+        Tragentisch schräg stellen)
+    -   Bei Beckenfraktur:
+        **Beckengurt**, 
+        zur Not mit Gürtel
+    -   Transportentscheidung: Schockraum
+
+
 
 .. _thema-polytrauma:
 
@@ -1827,7 +2118,46 @@ Häufigkeit der betroffenen Organsysteme bei der Diagnose Polytraumanach
 | 5--15                | Wirbelsäule          |
 +----------------------+----------------------+
 
-.. todo:: !!! PROCEDURE !!! TT07XX1C
+
+.. _TT07XX1C:
+.. _m-polytrauma:
+
+Maßnahmen Polytrauma, allgemein
+=================================
+
+.. todo:: Maßnahme TT07XX1C: Anpassung an höherqualifiziertes Personal
+
+Taktik
+    **Vitale Bedrohung! Zeitkritisch!**
+    Rasche Bergung, Stabilisierung
+    der Vitalfunktionen, Immobilisierung, rasche Versorgung von
+    *gefährlichen* Verletzungen, rascher Transport
+
+
+Basismaßnahmen
+    -   |TxMassVitMKBes|
+
+        -   Lagerung: situationsgerecht, ggfs.
+            Wirbelsäulenimmobilisation, bzw. entsprechend den
+            Verletzungen und der Herz-Kreislauf-Situation
+
+    -   Gefährliche Verletzungen versorgen (starke
+        Blutungen, Beckengurt, \ldots) 
+    -   **Wärmeerhalt**: Der Wärmeerhalt hat massiven Einfluss auf das
+        Überleben!
+    -   Verletzungsmuster/Unfallmechanismus erheben → zu 
+        erwartende Komplikationen einschätzen
+    -   Notarzt: 
+        Schmerztherapie, Narkose, Intubation 
+        und Beatmung
+    -   Transportentscheidung:
+
+        -   Transportentscheidung: Schockraum, mit
+            Voranmeldung (Aviso) über Leitstelle
+        -   Hubschrauber-Transport erwägen
+
+
+
 
 ****************************************
 Extremitätentrauma und Sportverletzungen
@@ -1861,7 +2191,32 @@ erfolgreich angenäht werden kann. Nach dem Amputat ist in jedem Fall zu
 suchen. Der Amputatstumpf wird steril mit einem Druckverband versorgt
 (kein Abbinden!). An große Blutungen und Schockgefahr denken!
 
-.. todo:: !!! PROCEDURE !!! TT14071C
+
+.. _TT14071C:
+.. _m-amputat:
+
+Maßnahmen Versorgung eines Amputats
+-----------------------------------
+
+.. todo:: Maßnahme TT14071C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Keine Reinigung des Amputats
+    -   Sterile und trockene Versorgung des Amputats
+        (Verband)
+    -   Transport in doppelwandigem
+        Amputatsbeutel (Replant-Beutel) bei  einer Temperatur von
+        ca. 4° :cite:`BoehmerTaschRett6,Gorgass7,LPN3`.
+        Zwischen die beiden Schichten des Beutels gibt man Wasser
+        mit Eis (im Verhältnis 1:1).
+    -   Das Amputat darf auf keinen Fall einfrieren -- im
+        Zweifelsfall eher wärmer als kälter lagern. Auch der
+        direkte Kontakt zu Wasser oder Eis muss unbedingt
+        vermieden werden!
+    -   Ausgeschlagene Zähne sollten in einer geeigneten
+        antiseptischen Flüssigkeit transportiert werden.
+        :cite:`BoehmerTaschRett6,Gorgass7`
+
 
 Weitere Verletzungsbilder
 =========================
@@ -2089,9 +2444,84 @@ Für
     -  Ab *10% :math:`\geq`\ 2* verbrannter Körperoberfläche gilt eine
        Verbrennung als “schwer”, für *Kinder* gilt eine Grenze von *5%.*
 
-.. todo:: !!! PROCEDURE !!! TT30001C
 
-.. todo:: !!! PROCEDURE !!! TT30002C
+
+.. _TT30001C:
+.. _m-verbrennung-leicht:
+
+Maßnahmen:  Verbrennung, leicht
+===============================
+
+.. todo:: Maßnahme TT30001C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Selbstschutz!
+    -   Kleiderbrand löschen
+    -   Vitale Bedrohung einschätzen.
+        |TxBeiVit| |TxMassVitMK|
+    -   Kleidung und Schmuck entfernen
+        (sofern nicht eingeschmolzen!)
+    -   Nur wenn *unmittelbar nach dem Unfall*
+        Bereits zwei Minuten nach Verbrennungsbeginn
+        und damit bei Eintreffen
+        des Rettungsdienstes ist ein
+        positiver Effekt der Kühlung nicht mehr zu erwarten.
+        Bei mehreren Minuten zurückliegenden Verbrennungen
+        ist eine Kühlung nicht mehr sinnvoll.
+        :cite:`Asanger2010,AsboeLehrmeinungRd2011-21`
+        damit begonnen werden kann, für max. 10\Min* mit handwarmen
+        Wasser die betroffenen Körperregionen spülen;
+
+        Bei Frösteln des Patienten früher abzubrechen:
+        **Gefahr der Unterkühlung!**
+    -   **Abdeckung**: 
+        Sterile, nicht verklebende
+        Wundauflagen; evtl. metalliserte Wundauflagen
+        :cite:`Helfen2008,RedelsteinerHRNS1`\ ; locker anlegen
+    -   Ggfs. Schockbekämpfung
+
+
+
+
+.. _TT30002C:
+.. _m-verbrennung-schwer:
+
+Maßnahmen: Verbrennung, schwer
+==============================
+
+.. todo:: Maßnahme TT30002C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   |TxMassVitMK|
+    -   Kleidung und Schmuck entfernen (sofern nicht  eingeschmolzen!)
+    -   Besonders auf **Wärmeerhalt** achten!
+    -   Luftzug vermeiden
+    -   *Keine* Kühlung
+        Bei großflächigen Verbrennungen sollte der Patient 
+        nur primär abgelöscht werden. 
+        Es soll keine Kühlung der betroffenen Hautregionen erfolgen.
+        :cite:`Asanger2010`
+    -   **Abdeckung**: 
+        Sterile, nicht verklebende
+        Wundauflagen, evtl. metalliserte Wundauflagen
+        :cite:`Helfen2008,RedelsteinerHRNS1`\ .
+        Der Nutzen  von kühlenden
+        Spezialverbänden, z. B. Waterjel™ ist
+        aufgrund  der Unterkühlungs-Gefahr und einer  möglichen
+        Durchblutungsstörung der Wunde
+        (Gefahr von Wundheilungsstörungen im weiteren Verlauf)
+        umstritten. 
+        Locker anlegen. 
+        Bei großflächigen Verbrennungen können,
+        wenn das sterile Material nicht ausreicht,
+        zur Not auch saubere Leintücher o. ä. 
+        verwendet werden :cite:`emergency9,Asanger2010`\ .
+    -   Schockbekämpfung
+    -   Kolloidale Infusionslösungen sind *kontraindiziert*
+
+
+
+
 
 Was man **nicht** tun darf …
 ============================
@@ -2158,7 +2588,23 @@ daher sehr wichtig.
 
 Volles Ausmaß oft erst nach Stunden!
 
-.. todo:: !!! PROCEDURE !!! TT49091C
+
+.. _TT49091C:
+.. _m-inhalationstrauma:
+
+Maßnahmen: Inhalationstrauma
+------------------------------
+
+.. todo:: Maßnahme TT49091C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Vitale Bedrohung einschätzen. \par
+        |TxBeiVit| |TxMassVitMK|
+    -   Lagerung: Oberkörper hoch
+    -   O₂-Gabe gemäß \prettyref{m:sauerstoffberieselung}
+    -   Engmaschiges Monitoring
+
+
 
 .. _thema-veraetzung-trauma:
 
@@ -2208,7 +2654,48 @@ auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
 !!! LITERARY !!! (Hoffmann 2008) !!!
 LITERARY !!!
 
-.. todo:: !!! PROCEDURE !!! TT30041C
+
+
+.. _TT30041C:
+.. _m-chemische-verletzungen:
+
+.. todo:: Maßnahme TT30041C: Anpassung an höherqualifiziertes Personal
+
+Maßnahmen: Verletzungen mit chemischen Substanzen
+-------------------------------------------------
+
+Basismaßnahmen
+    #.  Auf Selbsschutz achten!
+
+        -   Patienten ggfs. retten, aber nur wenn es der
+            Eigenschutz zulässt.
+
+    #.  Gefahr erkennen: **Welcher Stoff?**  Expertenrat einholen!
+    #.  Wenn erforderlich:
+        Vorgehen analog zu Abschnitt
+        "Gefahrengutunfall", GAS-Regel
+        (:ref:`Thema-gefahrengutunfall`)
+    #.  Weitere Opfer ausschließen (lassen)
+    #.  Sicherung der Vitalfunktionen, Beurteilung ob der
+        Patient vital bedroht ist.
+    #.  |TxBeiVit| |TxMassVitMKBes|
+
+        -   Lagerung: situationsgerecht.
+
+    #.  Entfernung kontaminierter Kleidung
+    #.  Spülung der betroffenen Hautpartien mit Wasser
+        (richtig abrinnen lassen)
+    #.  Auge: Spülung mit Wasser / Ringerlösung 
+        (nach außen abrinnen lassen!),
+        Kontaktlinsen entfernen
+    #.  Transportentscheidung: 
+        Ab einer Ausdehnung von
+        15% (Erwachsener) bzw. 10% (Kind) Spezialabteilung
+        für Verbrennungsverletzungen. 
+        Bei Augenverletzungen Abt.
+        für Augenheilkunde.
+
+
 
 ************
 Erfrierungen
@@ -2237,7 +2724,23 @@ Deshalb ist es wichtig, die Warnsymptome ernst zu nehmen!
 | 3             | grau/schwarze Marmorierung (Nekrose), Gefühllosigkeit   |     |
 +---------------+---------------------------------------------------------+-----+
 
-.. todo:: !!! PROCEDURE !!! TT35071C
+
+.. _TT35071C:
+.. _m-erfrierung:
+
+Maßnahmen: Erfrierungen
+=======================
+
+.. todo:: Maßnahme TT35071C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Beengende Kleidungsstücke lockern 
+        (Einschnürung erhöht Risiko einer Erfrierung)
+    -   Keimfreier, gepolsterter Verband
+    -   Warme, gezuckerte Getränke -- KEIN Alkohol
+    -   Körperstamm wärmen,
+        *nie* den erfrorenen Körperteil abreiben!
+
 
 ************************************
 Unfälle durch Strom- und Blitzschlag
@@ -2387,7 +2890,54 @@ Blitzunfällen immer wieder Überlebende, da die Einwirkdauer extrem kurz
 
 -  typische Symptome
 
-.. todo:: !!! PROCEDURE !!! TT75040C
+
+
+.. _TT75040C:
+.. _m-stromunfall:
+
+.. todo:: Maßnahme TT75040C: Anpassung an höherqualifiziertes Personal
+
+Maßnahmen: Stromunfälle
+=========================
+
+Basismaßnahmen
+    -   **Eigenschutz!** Bevor der Patienten berührt wird,
+        muss man sich vergewissern, dass der Patient
+        keinen Kontakt mehr mit dem Stromkreis hat! 
+
+        **Strom abschalten (lassen)!**
+        (Vgl. :ref:`Thema-gefahrenbereich-strom`)
+
+        -   Gefahrenbreich beachten
+        -   Sicherheitsabstand
+        -   Schrittspannung und Spannungskegel
+            beachten 
+        -   Bahnanlagen sperren/sichern lassen
+        -   Schalter ausschalten, (Haupt-)Sicherung
+            auslösen, 
+            Starkstrom/Hochspannung durch Fachmann abschalten
+            bzw. erden lassen
+        -   Strom gegen Wiedereinschalten sichern!
+        -   Patient mit isolierendem Material aus dem Stromkreis befreien
+
+    -   Beurteilung der vitalen Bedrohung.
+
+        |TxBeiVit|
+        |TxMassVitMK|
+    -   **Monitoring und
+        Reanimationsbereitschaft**: 
+        auf evtl.
+        Herzrhythmusstörungen vorbereitet sein
+        (bis zu 24 h Latenz)
+    -   Genaue Patientenuntersuchung →
+        Eintritts- und Austrittsmarke
+    -   Hospitalisierung auch bei symptomlosen
+        Patienten zur Überwachung
+    -   Stromverbrennungen wie Verbrennungen versorgen
+
+
+
+
 
 ************************
 Weiterführende Literatur

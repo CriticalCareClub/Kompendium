@@ -261,7 +261,42 @@ Wahnthemen
 Ein Wahn kann unterschiedliche Themen haben, die häufigsten sind z.B.
 Verfolgungswahn, Größenwahn oder der Verarmungswahn.
 
-.. todo:: !!! PROCEDURE !!! PF22091C
+
+.. _PF22091C:
+.. _m-wahnvorstellungen:
+
+Maßnahmen: Wahnvorstellungen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Maßnahme PF22091C: Anpassung an höherqualifiziertes Personal
+
+Die — für den Außenstehenden — wirren Vorstellungen 
+stellen das Fachpersonal vor die Frage, 
+wie mit diesen Patienten umzugehen ist.
+
+Ziel ist:
+
+#.  Abwendung von unmittelbaren Gefahren für den
+    Patienten und die Umgebung
+#.  Korrekte und professionelle Durchführung eines
+    Transportes in eine geeignete Einrichtung.
+
+Es gelten somit folgende Grundsätze:
+
+#.  Sofern eine Gefährdung für den Patienten oder für
+    Dritte besteht, ist diese (wenn möglich) zu beseitigen,
+    dazu zählt u. U. auch der Rückzug und die Herbeiziehung
+    der Exekutive.
+#.  Wahnvorstellungen sollen **nicht ausgeredet**
+    werden.
+#.  Wahnvorstellungen sollen aber auch **nicht
+    bestätigt** werden.
+#.  Am besten man nimmt die Schilderungen des Patienten 
+    **interessiert, aber neutral und möglichst kommentarlos** 
+    zur Kenntnis (*"Mhm!"*, *"*Aha."*).
+
+
+
 
 Psychomotorische Unruhe und Aggressivität
 =========================================
@@ -275,7 +310,23 @@ Demenz, Intoxikation, Panikattacken, Manie, akute Psychosen u.v.a.m.
 Hier soll nur auf die grundsätzlich zu bedenkenden Maßnahmen im Umgang
 mit diesen Patienten eingegangen werden.
 
-.. todo:: !!! PROCEDURE !!! PF92091C
+.. _PF92091C:
+.. _m-aggressiver-patient:
+
+Maßnahmen: Unruhiger oder aggressiver Patient
+---------------------------------------------
+
+.. todo:: Maßnahme PF92091C: Anpassung an höherqualifiziertes Personal
+
+Basismaßnahmen
+    -   Ruhe vermitteln und deeskalieren:
+
+        -   Ruhig bleiben! Achtung auf eigenen Tonfall!
+        -   Nicht provozieren!
+        -   Aufregung nicht abfärben lassen
+        -   *"Talk down"*
+
+    -   Selbstschutz, Fluchtweg offen halten
 
 
 .. _Thema-suizidalität:

@@ -311,7 +311,8 @@ Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
         -   :ref:`Tafel-Schocksymptomatik`
 
 
-.. _Thema-SchockHypovolaemischer: 
+.. _Thema-SchockHypovolaemischer:
+.. _thema-schock-hypovolaemischer:
 
 **********************
 Hypovolämischer Schock
@@ -482,4 +483,95 @@ bei der das Rückenmark geschädigt bzw. unterbrochen wird
     -  Grundsatz: *Der Schock muss bekämpft werden bevor man ihn
        bemerkt.*
 
-.. todo:: !!! PROCEDURE !!! MR57XX0B
+.. _MR57XX0B:
+.. _am-schock:
+.. _m-am-schock:
+
+*****************************
+Maßnahmen: Schock
+*****************************
+
+.. todo:: Maßnahme MR57XX0B: Anpassung an höherqualifiziertes Personal
+
+
+.. rubric:: Allgemein
+
+#.  |TxMassVitMKBes|
+
+    -   Situationsgerechte  Lagerung, je nach Diagnose und Schockart
+    -   Monitoring: Besonders auf Haut, RR und HF achten!
+
+#.  Beengende Kleidung öffnen
+#.  Wärmeerhalt besonders beachten!
+#.  Transportentscheidung: Vorankündigung (Aviso); Spezialbett, je nach Schockart/Ursache
+
+
+.. rubric:: Speziell
+
+
+.. todo:: Tabelle Maßnahmen Schock (MR57XX0B )
+
+    ::
+
+        {\TableBaseModification
+        \begin{tabularx}{\linewidth}{XXXX}\addlinespace\toprule\addlinespace
+        \noindent\TabHeading{Schockart}
+        &
+        \noindent\TabHeading{Lagerung}
+        &
+        \noindent\TabHeading{Sonstige Maßnahmen}
+        &
+        \noindent\TabHeading{Transport}
+        \\\addlinespace\midrule\addlinespace
+        \noindent\TabSub{Volumenmangel}
+        &
+        Flachlagerung
+        &
+        Blutstillung
+
+        Schonende/schnelle Bergung\A{Schonend
+        oder schnell?}
+        &
+        Schockraum, 
+
+        zügiger Abtransport
+        \\\addlinespace\midrule\addlinespace
+        \noindent\TabSub{Kardiogen}
+        &
+        Oberkörper hoch, evtl. Beine hängen  lassen.
+        &
+        Medikamentöse Therapie durch Notarzt\ZFootnote{(Diuretika, Katecholamine, Heparin)}
+        &
+        Ursachenabhängig
+        \\\addlinespace\midrule\addlinespace
+        \noindent\TabSub{Anaphylaktisch}
+        &
+        Flachlagerung, bei
+        Atemproblemen ggfs. stark erhöhten Oberkörper
+        &
+        Auslösendes Antigen nach Möglichkeit entfernen
+        &
+        Intensivstation
+        \\\addlinespace\midrule\addlinespace
+        \noindent\TabSub{Septisch, toxisch}
+        &
+        situationsgerecht, Beine hoch
+        &
+        &
+        Intensivstation
+        \\\addlinespace\midrule\addlinespace
+        \noindent\TabSub{Neurogen}
+        &
+        Flachlagerung, ggfs Immobilisation
+        (WS-Verletzung!)
+        &
+        Ursachenabhängig
+        \\\addlinespace\bottomrule
+        \end{tabularx}
+        }
+
+Pharmakotherapie
+    -   ?
+
+
+

@@ -1623,10 +1623,6 @@ Basismaßnahmen
 
 Pharmakotherapie
     -   Nitrate
-
-        -   Beim kardialen Lungenödem ist die Gabe von 
-            Nitrolingual Pumpspray gem. Algorithmus 
-            durch NFS vorgesehen. :cite:`Asb921Memo-AL-2011-000001`\ 
     -   Diurektika
 
 Beatmungstherapie

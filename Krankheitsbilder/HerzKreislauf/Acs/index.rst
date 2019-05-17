@@ -250,13 +250,13 @@ notwendig und sinnvoll ist.
     Verschreibung unbotmäßig eingreifen. Lediglich bei
     Vorhandensein von komplizierenden Umständen (Patient ist
     zur selbstständigen Einnahme nicht mehr fähig, Hypotonie)
-    soll eine Einnahme verwehrt werden.\ParBugfix
+    soll eine Einnahme verwehrt werden.
+    
     Ein "Nitro-Kollaps" ist bei Patienten mit einer
     Nitro-Verschreibung aufgrund des Gewöhnungseffektes nicht
     zu erwarten.
     Dennoch soll eine besondere Betonung auf die
     gefäßerweiternde, und damit blutdrucksenkende Wirkung gelegt werden.
-    :cite:`AsboeLehrmeinungRd2011-04`
 
 
 

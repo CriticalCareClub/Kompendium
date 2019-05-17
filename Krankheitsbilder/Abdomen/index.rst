@@ -229,7 +229,7 @@ sind auch die Ursachen:
 
 
 .. _CR10000C:
-.. _m-akutes-abdomen`:
+.. _m-akutes-abdomen:
 
 Maßnahmen: Akutes Abdomen
 -------------------------
@@ -578,7 +578,7 @@ Maßnahmen: Gastroenteritis
 
 Basismaßnahmen
     -   Allgemeine Maßnahmen bei Abdominalerkrankungen
-        (:ref:`m:am-abdominalerkrankungen`)
+        (:ref:`m-am-abdominalerkrankungen`)
     -   Patient nüchtern lassen
     -   Strikte Desinfektionsmaßnahmen!
 

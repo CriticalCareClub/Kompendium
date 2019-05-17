@@ -311,7 +311,8 @@ Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
         -   :ref:`Tafel-Schocksymptomatik`
 
 
-.. _Thema-SchockHypovolaemischer: 
+.. _Thema-SchockHypovolaemischer:
+.. _thema-schock-hypovolaemischer:
 
 **********************
 Hypovolämischer Schock
@@ -482,12 +483,13 @@ bei der das Rückenmark geschädigt bzw. unterbrochen wird
     -  Grundsatz: *Der Schock muss bekämpft werden bevor man ihn
        bemerkt.*
 
+.. _MR57XX0B:
+.. _am-schock:
+.. _m-am-schock:
+
 *****************************
 Maßnahmen: Schock
 *****************************
-
-.. _MR57XX0B:
-.. _am-schock:
 
 .. todo:: Maßnahme MR57XX0B: Anpassung an höherqualifiziertes Personal
 
@@ -571,9 +573,5 @@ Maßnahmen: Schock
 Pharmakotherapie
     -   ?
 
-Arneimittelliste
-    -   Beim anaphylaktischen Schock ist die Gabe
-        von Adrenalin i. m. für NKV+ gem. Algorithmus 
-        in der Arzneimittelliste 2 vorgesehen.
-        :cite:`Asb921Memo-AL-2011-000001`\ .
+
 

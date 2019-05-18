@@ -32,16 +32,17 @@ Kompendium des Critical Care Club Austria
    :maxdepth: 2
    :caption: Inhalt
 
-   Prolog/index
-   1-Mal-1-DerMedizin/index
-   Grundlagen/index
-   AnatomiePhysiologie/index
-   StrukturiertePatientenbetreuung/index
-   Reanimation/index
-   Krankheitsbilder/index
-   Pharmakotherapie/index
-   Inkubator/index
-   Appendix/index
+   Prolog/index.rst
+   1-Mal-1-DerMedizin/index.rst
+   Grundlagen/index.rst
+   AnatomiePhysiologie/index.rst
+   StrukturiertePatientenbetreuung/index.rst
+   Diagnostik/index.rst
+   Reanimation/index.rst
+   Krankheitsbilder/index.rst
+   Pharmakotherapie/index.rst
+   Inkubator/index.rst
+   Appendix/index.rst
 
 -----
 

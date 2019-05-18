@@ -272,6 +272,10 @@ Blutdruck lässt sich einfach mittels Blutdruckmanschette messen.
 
    -  Blutdruckmessung → **C**
 
+
+.. index::
+    single: Blutdruck; systolischer]
+
 .. _Thema-blutdruck:
 
 Blutdruck
@@ -283,8 +287,8 @@ das Herz rhythmisch kontrahiert, kommt es infolge des Blutauswurfes zu
 synchronen – ebenfalls rhythmischen – Druckveränderungen: In der
 *Auswurfphase* (*Systole*) erreicht er sein Maximum, und sinkt danach in
 der *Füllungsphase* des Herzens (*Diastole*) wieder ab, bis das Herz
-neuerlich Blut auswirft. Der !!! TERMINUS DFN !!! :dfn:``
-[Blutdruck!systolischer]systolische Blutdruck ist somit der
+neuerlich Blut auswirft. Der :dfn:`systolische Blutdruck`
+ist somit der
 Spitzendruck, der *diastolische
 Blutdruck* der Minimaldruck. Zur Durchführung der Blutdruckmessung vgl.
 :ref:`Thema-rr-messung`.

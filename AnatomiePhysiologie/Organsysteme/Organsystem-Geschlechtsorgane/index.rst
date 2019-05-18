@@ -386,14 +386,16 @@ Schwangerschaftsverlauf
     -  Fruchtblase, Fruchtwasser
 
     -  Ab 24. SSW überlebensfähig
-    
-Nach dem Eisprung ist die Eizelle !!! VONBIS !!!810 Stunden
+
+Nach dem Eisprung ist die Eizelle 8–10 Stunden
 befruchtungsfähig. Sie benötigt für die Wanderung Eierstock Eileiter
-Uterus (Gebärmutter) !!! VONBIS !!!46 Tage. Wurde die Eizelle
+Uterus (Gebärmutter) 4–6 Tage. Wurde die Eizelle
 befruchtet, kommt es zur *Einnistung in der Gebärmutterschleimhaut*.
 Dort bildet sich der :dfn:`Plazenta` :index:`\ <! Plazenta>` (*Mutterkuchen*),
 welcher das Blut der Frucht [216]_ mit Nährstoffen und Sauerstoff
-versorgt. Weiters bildet sich um die Frucht eine :dfn:`Fruchtblase` :index:`\ <! Fruchtblase>`, welche mit :dfn:`Fruchtwasser` :index:`\ <! Fruchtwasser>` gefüllt ist
+versorgt. Weiters bildet sich um die Frucht eine
+:dfn:`Fruchtblase` :index:`\ <! Fruchtblase>`,
+welche mit :dfn:`Fruchtwasser` :index:`\ <! Fruchtwasser>` gefüllt ist
 und sie so ideal vor äußeren Erschütterungen schützt. Zwischen der 18.
 und der 20. SSW kann die Mutter die ersten Kindesbewegungen spüren. *Ab
 der 24. SSW gilt das Kind als überlebensfähig* und ggfs. bei einer

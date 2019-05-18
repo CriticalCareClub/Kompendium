@@ -364,13 +364,79 @@ akut lebensbedrohlichen Situation kommen. [242]_
    direkt auf die Kammern übergeleitet, dies kommt meist einem
    Herzstillstand gleich. (Renz-Polster and Krautzig 2008)
 
-
-.. todo:: !!! PROCEDURE !!! MR47091C
-
-   -  Angina pectoris
-
-   -  Herzinfarkt
+.. _proc-MR47091C:
+.. _m-tachykarde-attacke:
 
 
+Maßnahmen: Hämodynamisch wirksame Tachykardie
+======================================================
 
-.. todo:: !!! PROCEDURE !!! MR47091C
+.. todo::
+
+    Maßnahmen Hämodynamisch wirksame Tachykardie:
+
+    -   Anpassung an höherqualifiziertes Personal
+    -   Angleichung an ERC-Leitlinien
+    -   Unterscheidung Schmal-/ Breitkomplextachykardie
+
+Taktik
+    **Vitale Bedrohung!** Ärztliche Therapie sinnvoll.
+
+Basismaßnahmen
+    -   Lagerung: Lagerung: **Oberkörper hoch**
+    -   Striktes Bewegungsverbot!
+    -   Beengende Kleidung öffnen
+    -   O2-Gabe gemäß :ref:`M-sauerstoffberieselung`
+    -   |TxBeiVit| |TxMassVitMKBes|
+
+        -   Notarzt: Eine medikamentöse Therapie ist meistens erforderlich.
+
+    -   Psychische Betreuung! Oase der Ruhe schaffen.
+    -   Wenn der Patient versorgt ist (d.h. alle obigen Punkte erfüllt
+        wurden) soll – wenn möglich – ein *EKG* (Extremitätenableitung, )
+        abgeleitet werden.
+        Der Ausdruck dient v.a. der Dokumentation und der Information
+        für das nachbehandelnde Personal (Notarzt, Spital, Facharzt, …).
+    -   Valsalva-Versuch
+
+Pharmakotherapie
+    -   Ursachenabhängig!
+    -   **Magnesium**: 
+        Z. B. *Magnesium gluconicum* 1000—4000 mg in einer Kurzinfusion
+    -   **Kalium**: Substitution nur unter Elektrolyt-Kontrolle
+    -   Tachykardes Vorhofflimmern de novo: **Medkamentöse Kardioversion**
+
+        -   **Amiodaron** (Sedacoron™, Cordarex™) 300 mg
+            in Kurzinfusion (in Glukose 5%)
+
+    -   Tachykardes Vorhofflimmern, schon länger bestehend:
+        Kein Kardioversionsversuch ohne vorherigen Ausschluss eines Thrombus,
+        auf **Frequenzkontrolle** beschränken.
+
+        -   :ref:`Esmolol <Thema-Esmolol>`\ -Bolus i. v.,
+            bei ansprechen weiter mit Perfusor
+        -   Digitoxin (Digimerck™) i. v. als Kurzinfusion
+            (beachte vorbestehende Dauertherapie, Spiegelbestimmung!)
+    -   FBI-Tachykardie (Fast, Broad, Irregular)
+
+        CAVE:
+        Aufgrund der akzessorischen Leitungsbahn
+        keine Blockade der AV-Bahn,
+        Fibrillationsgefahr!
+
+        -   Ajmalin (Gilurytmal™) i. v.
+
+    -   Schmalkomplextachykardie:
+        Versuch der Unterbrechung des Re-Entry-Zyklus durch kurzfristige Blocakde des AV-Knotens
+
+        -   :ref:`Adenosin <Thema-Adenosin>` i. v. 
+
+    .. danger::
+
+        Bei FBI-Tachykardie (Fast, Broad, Irregular) keinesfalls Blockade der AV-Leitungsbahn,
+        es droht Kammerflimmern!
+
+        -   Kein Amiodaron!
+        -   Kein Adenosin!
+
+

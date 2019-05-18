@@ -158,9 +158,108 @@ Gefahren
 
           WMPD
 
-.. todo:: !!! PROCEDURE !!! MI20091C
+Maßnahmen: Akutes Koronarsyndrom
+--------------------------------
 
-.. todo:: !!! PROCEDURE !!! MI24091C
+.. _m-akutes-koronarsyndrom-beschwerdefrei:
+
+Beschwerdefrei
+^^^^^^^^^^^^^^
+
+
+
+.. todo:: 
+
+    Maßnahmen ACS: Anpassung an höherqualifiziertes Personal
+
+
+
+-   Lagerung: Oberkörper hoch
+
+-   Bewegungensverbot, Schonung
+
+-   Beengende Kleidung öffnen
+
+-   O2-Gabe gemäß :ref:`m-sauerstoffberieselung`
+
+-   Bestmögliches Monitoring
+
+-   Nitro-Spray: Manche Patienten haben einen Nitroglyzerin-Spray (z.B.
+    Nitrolingual(TM)) zur Einnahme bei Symptomen eines Akuten Koronarsyndroms
+    verschrieben bekommen. Der Spray soll weiter vom
+    Patienten selbstständig in der verschriebenen
+    Dosierung genommen werden,
+    solange der systolische Blutdurck RR\ :sub:`syst`\ >100 mm Hg ist. Der
+    Helfer muss sich versichern, dass das Medikament für den jeweiligen
+    Patienten verschrieben wurde und dass die vorgegebene Dosierung
+    eingehalten wird. Eine regelmäßige Blutdruckkontrolle ist notwendig.
+
+-   Transportentscheidung: Abt. f. Innere Medizin
+
+.. _m-akutes-koronarsyndrom:
+
+Maßnahmen ACS
+^^^^^^^^^^^^^^
+
+
+.. todo:: 
+
+    Maßnahmen ACS: Anpassung an höherqualifiziertes Personal
+
+
+**NACA V: Vitale Bedrohung!**
+
+-   Lagerung: Oberkörper hoch
+
+-   **Striktes Bewegungsverbot!**
+
+-   Beengende Kleidung öffnen
+
+-   |TxMassVitMK|
+
+-   Nitro-Spray: Manche Patienten haben einen Nitroglyzerin-Spray (z.B.
+    Nitrolingual(TM)) zur Einnahme bei Symptomen eines Akuten Koronarsyndroms
+    verschrieben bekommen. Der Spray soll weiter vom
+    Patienten selbstständig in der verschriebenen
+    Dosierung genommen werden,
+    solange der systolische Blutdurck RR\ :sub:`syst`\ >100 mm Hg ist. Der
+    Helfer muss sich versichern, dass das Medikament für den jeweiligen
+    Patienten verschrieben wurde und dass die vorgegebene Dosierung
+    eingehalten wird. Eine regelmäßige Blutdruckkontrolle ist notwendig.
+
+Patienten mit einem akuten Koronarsyndrom sind grundsätzlich
+notarztpflichtig.
+
+Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor
+Ort Vorrang.
+
+Der Notarzt ist auch für die Transportentscheidung wesentlich: Der
+Patient braucht u.U. **ein entsprechend ausgestattetes Spital** mit
+einem **Herzkatheterlabor**. Der Notarzt muss entscheiden, ob das
+notwendig und sinnvoll ist.
+
+.. todo:: 
+
+    Sanitäter und verschriebener Nitro-Spray 
+
+    Die Empfehlung, den Patienten *seinen* Nitro-Spray weiterhin
+    *selbstständig* nehmen zu lassen, ist im Konsens
+    getroffen worden. Wurde der Spray extra für diese Situation
+    (was anzunehmen ist) verschrieben, so würde ein vom
+    Sanitäter ausgesprochenes Einnahmeverbot in die ärztliche
+    Verschreibung unbotmäßig eingreifen. Lediglich bei
+    Vorhandensein von komplizierenden Umständen (Patient ist
+    zur selbstständigen Einnahme nicht mehr fähig, Hypotonie)
+    soll eine Einnahme verwehrt werden.
+    
+    Ein "Nitro-Kollaps" ist bei Patienten mit einer
+    Nitro-Verschreibung aufgrund des Gewöhnungseffektes nicht
+    zu erwarten.
+    Dennoch soll eine besondere Betonung auf die
+    gefäßerweiternde, und damit blutdrucksenkende Wirkung gelegt werden.
+
+
+
 
 ********
 Symptome

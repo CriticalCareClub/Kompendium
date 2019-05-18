@@ -719,7 +719,7 @@ Historisch gesehen unterstützen der *Malteser Hospitaldienst Austria*,
 der *Österreichische Arbeiter-Samariter-Bund*, die *Johanniter-
 Unfall-Hilfe, Bereich Wien* und das *Rote Kreuz* die Wiener
 Berufsrettung am längsten. Diese Organisationen werden im Zusammenhang
-mit dem Rettungswesen auch als die !!! TERMINUS !!! *Vier für Wien*
+mit dem Rettungswesen auch als die **Vier für Wien**
 tituliert. [17]_ (Kontrollamt der Stadt Wien 2011)
 
 .. [17]

@@ -2,12 +2,13 @@
 .. _Thema-Stemi:
 
 .. _Thema-AkutesKoronarsyndrom:
+.. _Thema-akutes-koronarsyndrom:
 
 .. _Thema-Acs:
 
-##########################
-Akutes Koronarsyndrm (ACS)
-##########################
+###########################
+Akutes Koronarsyndrom (ACS)
+###########################
 
 
 `2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation <https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393>`_ :cite:`Esc-2017-GuidelinesStemi`
@@ -34,229 +35,6 @@ Daneben gibt es noch andere Erkrankungen,
 welche sich von den vorgenannten entweder durch die Pathogenese 
 (z. B. *Prinzmetal-Angina*) oder durch den Pathomechanismus 
 (z. B. *Tako-Tsubo-Kardiopathie*) wesentlich unterscheiden. 
-
-
-********************
-Krankheitsbilder
-********************
-
-
-.. _Thema-angina-pectoris:
-
-Angina pectoris (AP)
-=====================
-
-**Plötzliches Engegefühl in der Brust meist mit Thoraxschmerz infolge
-einer *vorübergehenden* Unterversorgung des Herzmuskels mit
-sauerstoffreichem Blut.** 
-Ein akuter Angina pectoris-Anfall ist primär
-*nicht sicher von einem Herzinfarkt unterscheidbar*. Die Symptome treten
-eher bei Belastung auf und vergehen oft bei Entspannung, das
-Vorübergehen der Beschwerden darf aber natürlich nicht abgewartet
-werden!
-
-Der akute Angina-Pectoris-Anfall gehört zu der Familie des *Akuten
-Koronarsyndroms*. Dazu gehört auch der Herzinfarkt, dem der gleiche
-Mechanismus wie der Angina Pectoris zu Grunde liegt, wobei es beim
-Infarkt im *Gegensatz* zur Angina pectoris zu einem *totalen*
-Herzkranzgefäß\ *verschluss* mit Absterben von Herzmuskelgewebe kommt.
-
-Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf
-
--  Einengung(en) von Herzkranzgefäßen
-
--  Erhöhter Sauerstoffbedarf bei Anstrengung
-
--  Symptome des akuten Koronarsyndrom, eher bei Belastung, vergehen oft
-   bei Entspannung
-
--  Primär *nicht sicher vom Herzinfarkt unterscheidbar*
-
-.. _Thema-herzinfarkt:
-
-.. _Thema-myocardinfarkt:
-
-.. _Thema-mci:
-
-Herzinfarkt (Myocardinfakrt, MCI)
-==========================================
-
-
-.. sidebar:: Herzinfarkt
-
-    -  *Verschluss* von Herzkranzgefäßen
-
-    -  *Absterben* von Herzmuskelgewebe
-
-    -  Symptome eines *ACS*
-
-
-
-Verschluss eines oder mehrerer Herzkranzgefäße mit anschließendem
-Absterben des betroffenen Herzmuskelgewebes (Ischämie,
-:ref:`Thema-ischaemie`).
-Die Symptome entsprechen denen des akuten Koronarsyndroms, doch vergehen diese nicht
-mehr und es bleiben – selbst bei optimaler Behandlung – Schäden am
-Herzmuskel bestehen.
-
-.. subfigstart::
-
-.. figure:: /Bilder/WikipediaCcBySa/Heart_normal_short_axis_section-00640.*
-        :width: 99%
-
-        Das Herz im Querschnitt, gesehen von unten: Links der rechte
-        Ventrikel, rechts der muskelstarke linke Ventrikel.
-          
-        [Patrick Lynch, CC-BY]
-
-.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_infarct-00640.*
-        :width: 99%
-
-        Ischämisches Herzmuskelgewebe ...
-          
-        [Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5]
-
-	    
-
-.. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.*
-        :width: 99%
-
-        stirbt nach einger Zeit ab, es
-        bildet sich eine (funktionslose) Narbe, die Herzleistung ist in Folge
-        beeinträchtigt.
-
-        [Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5]
-
-
-.. subfigend::
-    :width: 0.3
-    :label: Figure-BilderserieHerzischaemie
-
-    Bilderserie: Herzischämie
-
-
-Gefahren
-----------------------------
-
--  *Herzrhythmusstörungen* (alle Arten), bis hin zum Kreislaufstillstand
-   und zur Reanimationspflichtigkeit. Besonders häufig kommt es als
-   Frühkomplikation zu plötzlichen, lebensgefährlichen Rhythmusstörungen
-   wie der ventrikulären Tachykardie oder dem Kammerflimmern.
-
--  Kardiogener Schock
-
--  *Lebensgefahr!*
-
--  Jede Herzrhythmusstörung als Komplikation möglich!
-
--  Kammerflimmern als Frühkomplikation häufig!
-
-.. figure:: /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.*
-
-          Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre
-          Tachykardie, sind häufige Komplikationen eines Herzinfarktes
-
-          WMPD
-
-Maßnahmen: Akutes Koronarsyndrom
---------------------------------
-
-.. _m-akutes-koronarsyndrom-beschwerdefrei:
-
-Beschwerdefrei
-^^^^^^^^^^^^^^
-
-
-
-.. todo:: 
-
-    Maßnahmen ACS: Anpassung an höherqualifiziertes Personal
-
-
-
--   Lagerung: Oberkörper hoch
-
--   Bewegungensverbot, Schonung
-
--   Beengende Kleidung öffnen
-
--   O2-Gabe gemäß :ref:`m-sauerstoffberieselung`
-
--   Bestmögliches Monitoring
-
--   Nitro-Spray: Manche Patienten haben einen Nitroglyzerin-Spray (z.B.
-    Nitrolingual(TM)) zur Einnahme bei Symptomen eines Akuten Koronarsyndroms
-    verschrieben bekommen. Der Spray soll weiter vom
-    Patienten selbstständig in der verschriebenen
-    Dosierung genommen werden,
-    solange der systolische Blutdurck RR\ :sub:`syst`\ >100 mm Hg ist. Der
-    Helfer muss sich versichern, dass das Medikament für den jeweiligen
-    Patienten verschrieben wurde und dass die vorgegebene Dosierung
-    eingehalten wird. Eine regelmäßige Blutdruckkontrolle ist notwendig.
-
--   Transportentscheidung: Abt. f. Innere Medizin
-
-.. _m-akutes-koronarsyndrom:
-
-Maßnahmen ACS
-^^^^^^^^^^^^^^
-
-
-.. todo:: 
-
-    Maßnahmen ACS: Anpassung an höherqualifiziertes Personal
-
-
-**NACA V: Vitale Bedrohung!**
-
--   Lagerung: Oberkörper hoch
-
--   **Striktes Bewegungsverbot!**
-
--   Beengende Kleidung öffnen
-
--   |TxMassVitMK|
-
--   Nitro-Spray: Manche Patienten haben einen Nitroglyzerin-Spray (z.B.
-    Nitrolingual(TM)) zur Einnahme bei Symptomen eines Akuten Koronarsyndroms
-    verschrieben bekommen. Der Spray soll weiter vom
-    Patienten selbstständig in der verschriebenen
-    Dosierung genommen werden,
-    solange der systolische Blutdurck RR\ :sub:`syst`\ >100 mm Hg ist. Der
-    Helfer muss sich versichern, dass das Medikament für den jeweiligen
-    Patienten verschrieben wurde und dass die vorgegebene Dosierung
-    eingehalten wird. Eine regelmäßige Blutdruckkontrolle ist notwendig.
-
-Patienten mit einem akuten Koronarsyndrom sind grundsätzlich
-notarztpflichtig.
-
-Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor
-Ort Vorrang.
-
-Der Notarzt ist auch für die Transportentscheidung wesentlich: Der
-Patient braucht u.U. **ein entsprechend ausgestattetes Spital** mit
-einem **Herzkatheterlabor**. Der Notarzt muss entscheiden, ob das
-notwendig und sinnvoll ist.
-
-.. todo:: 
-
-    Sanitäter und verschriebener Nitro-Spray 
-
-    Die Empfehlung, den Patienten *seinen* Nitro-Spray weiterhin
-    *selbstständig* nehmen zu lassen, ist im Konsens
-    getroffen worden. Wurde der Spray extra für diese Situation
-    (was anzunehmen ist) verschrieben, so würde ein vom
-    Sanitäter ausgesprochenes Einnahmeverbot in die ärztliche
-    Verschreibung unbotmäßig eingreifen. Lediglich bei
-    Vorhandensein von komplizierenden Umständen (Patient ist
-    zur selbstständigen Einnahme nicht mehr fähig, Hypotonie)
-    soll eine Einnahme verwehrt werden.
-    
-    Ein "Nitro-Kollaps" ist bei Patienten mit einer
-    Nitro-Verschreibung aufgrund des Gewöhnungseffektes nicht
-    zu erwarten.
-    Dennoch soll eine besondere Betonung auf die
-    gefäßerweiternde, und damit blutdrucksenkende Wirkung gelegt werden.
 
 
 
@@ -395,7 +173,7 @@ SAMPLER beim akuten Koronarsyndrom
 ``S`` — Symptome
     Siehe ABCDE
 
-``M`` — Medikatiion
+``M`` — Medikation
     **Nitroglycerin** wird zur Erweiterung der Koronargefäße
     von KHK-Patienten eingenommen. Dies kann entweder mittels eines
     Pflasters (Nitro-Pflaster), über Kapseln oder mittels eines Sprays
@@ -511,6 +289,100 @@ Therapie
 ********
 
 
+
+Maßnahmen: Akutes Koronarsyndrom
+--------------------------------
+
+.. _m-akutes-koronarsyndrom-beschwerdefrei:
+
+Beschwerdefrei
+^^^^^^^^^^^^^^
+
+
+
+.. todo:: 
+
+    Maßnahmen ACS: Anpassung an höherqualifiziertes Personal
+
+
+
+-   Lagerung: Oberkörper hoch
+
+-   B
+
+-   Beengende Kleidung öffnen
+
+-   O2-Gabe gemäß :ref:`m-sauerstoffberieselung`
+
+-   Bestmögliches Monitoring
+
+-   Nitro-Spray: Manche Patienten haben einen Nitroglyzerin-Spray (z.B.
+    Nitrolingual(TM)) zur Einnahme bei Symptomen eines Akuten Koronarsyndroms
+    verschrieben bekommen. Der Spray soll weiter vom
+    Patienten selbstständig in der verschriebenen
+    Dosierung genommen werden,
+    solange der systolische Blutdurck RR\ :sub:`syst`\ >100 mm Hg ist. Der
+    Helfer muss sich versichern, dass das Medikament für den jeweiligen
+    Patienten verschrieben wurde und dass die vorgegebene Dosierung
+    eingehalten wird. Eine regelmäßige Blutdruckkontrolle ist notwendig.
+
+-   Transportentscheidung: Abt. f. Innere Medizin
+
+.. _m-akutes-koronarsyndrom:
+
+Maßnahmen ACS
+^^^^^^^^^^^^^^
+
+
+.. todo:: 
+
+    Maßnahmen ACS: Anpassung an höherqualifiziertes Personal
+
+
+**NACA V: Vitale Bedrohung!**
+
+-   Lagerung: Oberkörper hoch
+
+-   **Striktes Bewegungsverbot!**
+
+-   Beengende Kleidung öffnen
+
+
+
+-   Nitro-Spray: Manche Patienten haben einen Nitroglyzerin-Spray (z.B.
+    Nitrolingual(TM)) zur Einnahme bei Symptomen eines Akuten Koronarsyndroms
+    verschrieben bekommen. Der Spray soll weiter vom
+    Patienten selbstständig in der verschriebenen
+    Dosierung genommen werden,
+    solange der systolische Blutdurck RR\ :sub:`syst`\ >100 mm Hg ist. Der
+    Helfer muss sich versichern, dass das Medikament für den jeweiligen
+    Patienten verschrieben wurde und dass die vorgegebene Dosierung
+    eingehalten wird. Eine regelmäßige Blutdruckkontrolle ist notwendig.
+
+
+
+.. todo:: 
+
+    Sanitäter und verschriebener Nitro-Spray 
+
+    Die Empfehlung, den Patienten *seinen* Nitro-Spray weiterhin
+    *selbstständig* nehmen zu lassen, ist im Konsens
+    getroffen worden. Wurde der Spray extra für diese Situation
+    (was anzunehmen ist) verschrieben, so würde ein vom
+    Sanitäter ausgesprochenes Einnahmeverbot in die ärztliche
+    Verschreibung unbotmäßig eingreifen. Lediglich bei
+    Vorhandensein von komplizierenden Umständen (Patient ist
+    zur selbstständigen Einnahme nicht mehr fähig, Hypotonie)
+    soll eine Einnahme verwehrt werden.
+    
+    Ein "Nitro-Kollaps" ist bei Patienten mit einer
+    Nitro-Verschreibung aufgrund des Gewöhnungseffektes nicht
+    zu erwarten.
+    Dennoch soll eine besondere Betonung auf die
+    gefäßerweiternde, und damit blutdrucksenkende Wirkung gelegt werden.
+
+
+
     
 Hintergrund
 ===========
@@ -576,28 +448,31 @@ In der Regel muss das erstversorgende Fachpersonal über die Indikation
 zur Einleitung einer Reperfusionsbehandlung stellen 
 bzw. das geeigente Verfahren auswählen.
 
+.. rubric:: Ressourcen
 
-.. todo:: !!! LITERARY !!! (Gèneve, n.d.)
+-   Video, Youtube: *Der Akute Herzinfarkt* 
+    http://youtu.be/DGZ443jO2ik
+-   Video, Youtube: Gèneve, Hôpitaux Universitaires:
+    *Zur Bekämpfung von Herzinfarkt und Arteriosklerose* 
+    http://youtu.be/SWZYBrLAnNk.
+-   Literatur:
+    :cite:`Erc-2015-Section-08`
+    :cite:`Harrisons18DeKap225`
+    :cite:`Harrisons18DeKap230`
+    :cite:`Harrisons18DeKap224`
 
-          (Weibel, n.d.)
-
-          (Hans-Richard Arntz et al. 2010)
-
-          Sowie: (Dietel, Suttorp, and Zeitz 2012d; Dietel, Suttorp, and Zeitz
-          2012c; Dietel, Suttorp, and Zeitz 2012f) !!! LITERARY !!!
-      
 
 
-Wichtiges Ziel in der MCI-Versorgung ist die Reduktion des 
+Wichtiges Ziel in der MCI-Versorgung ist die Reduktion des
 *System Delay*. 
-Daraus ergeben sich folgende logistische Empfehlungen :cite:`Esc-2017-GuidelinesStemi`:
+Daraus ergeben sich folgende logistische Empfehlungen 
+:cite:`Esc-2017-GuidelinesStemi`:
 
-
--   Organisation regionaler STEMI Netzwerke 
--   SOPs für Rettungsdienst und PCI-Zentren 
--   PCI-Zentren mit 24/7 Service ohne Delay 
--   Rettungsmittel mit Equipment und Training 
--   Der Rettungsdienst muss direkt ins PCI Zentrum fahren 
+-   Organisation regionaler STEMI Netzwerke
+-   SOPs für Rettungsdienst und PCI-Zentren
+-   PCI-Zentren mit 24/7 Service ohne Delay
+-   Rettungsmittel mit Equipment und Training
+-   Der Rettungsdienst muss direkt ins PCI Zentrum fahren
 -   Bypassing Emergency Departments (*"Fast Track"*)
 -   Regelmäßige Überprüfung der eigenen Daten (Qualitätskontrolle)
 
@@ -616,31 +491,47 @@ Daraus ergeben sich folgende logistische Empfehlungen :cite:`Esc-2017-Guidelines
 Allgemein und Basics
 ====================
 
-Lagerung
-    Oberkörper erhöht, beengende Kleidung öffnen
-  
-Sauerstoff
-    Sauerstoff ist indiziert bei **hypoxämischen** Patienten (SaO₂ < 90%
-    oder paO₂ < 60 mm Hg).
-    Bei nicht-hypoxämischen Patienten ist Sauerstoff **nicht empfohlen**!
+-   |TxMassVitMK|
+
+    -   Lagerung:
+        Oberkörper erhöht,
+        beengende Kleidung öffnen,
+        Bewegungensverbot,
+        Schonung
+        
+    -   Sauerstoff:
+        Sauerstoff ist indiziert bei **hypoxämischen** Patienten (SaO₂ < 90%
+        oder paO₂ < 60 mm Hg).
+        Bei nicht-hypoxämischen Patienten ist Sauerstoff **nicht empfohlen**!
+
+    -   Patienten mit einem akuten Koronarsyndrom sind grundsätzlich
+        notarztpflichtig,
+        jedoch auch zeitkritisch.
+        Eine Abwägung von Transportverzögerung durch Notarztnachforderung,
+        Zustand des Patienten,
+        notwendiger erweiterter Diagnostik (EKG),
+        Zielentscheidung
+        und Behandlungsmöglichkeit des nächstgelegen Spiatls
+        sind im Einzelfall notwendig.
 
 Pharmakotherapie
 ================
 
-Die Anwendung bestimmter Medikamente unterscheidet sich nach der Unterscheidung 
-STEMI, NSTEMI und AP, sowie nach der geplanten Reperfusionstrategie.
+Die Anwendung bestimmter Medikamente
+unterscheidet sich nach der Unterscheidung 
+STEMI, NSTEMI und AP,
+sowie nach der geplanten Reperfusionstrategie.
 
 Morphin
 -------------------------------------
 
-I. v.-Opiode sollen zur Schmerztherapie erwogen werden
-
-Z. B. Morphin |IV|, titriert in 2--5 mg-Schritten (Erw.)
+I. v.-Opiode sollen generell zur Schmerztherapie erwogen werden,
+z. B. Morphin |IV|, titriert in 2--5 mg-Schritten (Erwachsene).
 
 Heparin
 -------------------------------------
 
-**70 IU / kg i. v.** [#AcsTherapieAllgemeinHeparinDosierung]_
+Gabe von **70 IU / kg i. v.** [#AcsTherapieAllgemeinHeparinDosierung]_\ .
 
 .. [#AcsTherapieAllgemeinHeparinDosierung]
         Es werden 70--100 IU / kg i. v. ohne,
@@ -658,13 +549,15 @@ Heparin
 P2Y₁₂-Inhibitor
 -------------------------------------
 
-Das P2Y₁₂-Protein befindet sich u. a. auf der Oberfläche von Thrombozyten
+Das P2Y₁₂-Protein befindet sich
+u. a. auf der Oberfläche von Thrombozyten
 und ist als Chemorezeptor für Adenosindiphosphat (ADP) 
 an der Thrombozytenaggregation beteiligt 
 und somit ein wichtiger Regulator der Blutgerinnung.
 Beim ACS ist eine Hemmung mittels eines 
 potenten *P2Y₁₂-Inhibitors* 
-(*Prasugrel*, *Ticagrelor*, oder, wenn nicht verfügbar, auch *Clopidogrel*)
+(*Prasugrel*, *Ticagrelor*, oder,
+wenn nicht verfügbar, auch *Clopidogrel*)
 empfohlen *bevor* oder spätestens zum Zeitpunkt der PCI
 (und weiter für 12 Monate),
 sofern keine Kontraindikationen
@@ -692,8 +585,8 @@ ist **Clopidogrel** (*Plavix®*) empfohlen.
 Bei P2Y₁₂-Vortherapie gilt hinsichtlich Loading:
 
 -   Clopidogrel vorbestehend: Bedeutungslos
-
--   Prasugrel oder Ticagrelor vorbestehend: Loading Dose 24 h nach der letzten Einnahme
+-   Prasugrel oder Ticagrelor vorbestehend:
+    Loading Dose 24 h nach der letzten Einnahme
 
 
 
@@ -706,15 +599,10 @@ Additiv -- Erwäge:
 -------------------------------------
 
 -   Nitroglycerin (nicht bei Rechtsherzbeteiligung)
-
 -   β-Blocker (frequenzabhängig)
-
 -   bei Rechtsherzbeteiligung: Volumengabe
-
 -   (ACE-Inhibitoren)
-
 -   (AT-II-Inhibitoren)
-
 -   (Statine)
 
     
@@ -727,23 +615,18 @@ Additiv -- Erwäge:
     single: ASS  (STEMI)
     single: PCI (STEMI)
     
-℞: STEMI *ohne Lyse*
+Therapiestrategie STEMI *ohne Lyse*
 ===================================
 
 Schmerzbegin bis :term:`FMC` < 12 h
 
 -   **ASS** 250 mg i. v. so schnell als möglich (1B)
-
 -   **Heparin** 5000 IE
-
 -   **Ticagrelor** (Brilique®) 180 mg p. o.
-
 -   **primäre PCA**
 
-    -   UK Krems:
-        
     -   Aviso 
-    -   *"bypass emergency department"*
+    -   *Fast Track*: *"bypass emergency department"*
 
 
 .. index::
@@ -751,14 +634,17 @@ Schmerzbegin bis :term:`FMC` < 12 h
    single: Metalyse®
    single: Tenecteplase
    single: STEMI (Lyse)
+   single: Lyse, Kontraindikationen
+   single: Kontraindikationen, Lyse
    
 
-℞: STEMI *mit Lyse*
-====================
+Therapiestrategie STEMI *mit Lyse*
+===================================
 
 Wenn die Fibrinolyse angewendet werden soll,
 dann sollte diese bei einem 
-:abbr:`STEMI (ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt)` *so früh wie möglich*
+:abbr:`STEMI (ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt)`
+*so früh wie möglich*
 initiiert werden (< 10 min. nach :term:`FMC`) (1A).
 
 Bei Patienten über 75 Jahre sollte die Hälfte der
@@ -774,10 +660,6 @@ soll nach Thrombolyse durchgeführt werden (1A).
 Eine *Rescue-PCI* ist indiziert wenn nach 60--90 min
 keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
 
-.. index::
-   single: Lyse, Kontraindikationen
-   single: Kontraindikationen, Lyse
-
 .. rubric:: Indikation
 
 -   Time to PCI > 120 min
@@ -787,21 +669,13 @@ keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
 .. rubric:: Kontraindikationen für Lyse
 
 -  Operation < 14 Tagen
-
 -  Organpunktion < 7 Tagen
-
 -  Apoplex < 3 Monaten
-
 -  Z. n. Hirnblutung
-
 -  Rezentes Ulcus
-
 -  Unkontrollierte Hypertonie
-
 -  Schwere Retinopathie
-
 -  Bekannte Blutungsneigung
-
 -  OAK-Therapie
 
       
@@ -815,7 +689,6 @@ keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
     -   Ab 60 kg 100 IE/kg/KG
 
 -   Begleittherapie lt :ref:`Tafel-ThrombolyseBegleittherapie`
-
 -   Transport in ein **PCI-Zentrum**
 
     -   Kontaktaufnahme mit PCI-Zentrum
@@ -853,15 +726,12 @@ keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
 
 
 
-℞: NSTEMI
-==========
+Therapiestrategie NSTEMI
+========================
 
 - ASS 250 mg i. v.
-
 - Heparin 5000 IE
-
 - Clopidogrel 600 mg p. o.
-
 - PCI:
 
     -   symptomatisch: PCI < 2 h

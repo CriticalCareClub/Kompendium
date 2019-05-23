@@ -36,12 +36,6 @@ führen kann.
     Herzrhythmusstoerungen/index
     Herzinsuffizienz/index
     Schock/index
-    ArterielleHypertonie/index
-    Aneurysmen/index
-    GefaessverschluesseAllgemein/index
-    PeriphererArteriellerGefaessverschluss/index
-    PeriphererVenoeserGefaessverschluss/index
-    Gerinnungsstoerungen/index
 
 .. toctree::
     :maxdepth: 1
@@ -65,6 +59,7 @@ führen kann.
     :caption: Störungen des Kreislaufs
 
     Blutdruckstoerungen/index
+    ArterielleHypertonie/index
     KollapsSynkope/index
     Schock/index
     Kreislaufstillstand/index

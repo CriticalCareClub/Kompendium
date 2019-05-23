@@ -15,8 +15,8 @@ Die CO₂-Messung (Kapnometrie) ist ein Standardverfahren bei beatmeten Patiente
 Beschreibung
 ------------
 
-Als *Kapnometrie* bezeichnet man die Messung von 
-**Kohlendioxid** :index:`\ <Kohlendioxid>` (CO₂) in der Atemluft. 
+Als *Kapnometrie* bezeichnet man die Messung von
+**Kohlendioxid** :index:`\ <Kohlendioxid>` (CO₂) in der Atemluft.
 Mit Hilfe von
 CO₂-Analysatoren kann man den prozentuellen Anteil (Volumen-) oder den
 Partialdruck (mmHg) an Kohlendioxid in der Ausatemluft messen und
@@ -57,35 +57,35 @@ Kohlendioxidanteil (CO₂ am Ende des Atemzyklus).
 Kapnometrie und Kapnographie
 ----------------------------
 
-Die Kapnometrie ist die Messung des *Kohlendioxid* (CO₂), 
+Die Kapnometrie ist die Messung des *Kohlendioxid* (CO₂),
 welche in der Regel im Exspirationsschnekel durchgeführt wird.
-Als nummerischer Wert bei der quantitaviven Messung wird die 
-maximale Konzentration am Ende der Exspiration (= endtidal) 
+Als nummerischer Wert bei der quantitaviven Messung wird die
+maximale Konzentration am Ende der Exspiration (= endtidal)
 angegeben 
-(*"endtidaler Kohlendioxid-Partialdruck"* **etCO₂**, 
-Angabe als Partialdruck in mm Hg oder kP, 
+(*"endtidaler Kohlendioxid-Partialdruck"* **etCO₂**,
+Angabe als Partialdruck in mm Hg oder kP,
 alternativ als Konzentration in Vol.%).
 
 Die Kapno\ *graphie* ist die graphische Darstellung einer CO₂-Konzetrationskurve
 über die Zeit 
 und ermöglicht somit die Beurteilung des Verlaufs im Atemzyklus.
-Dies erlaubt Rückschlüsse auf bestimmte Störungen 
+Dies erlaubt Rückschlüsse auf bestimmte Störungen
 (Spastik, Mitatmen des Patienten etc.)
 
 Die CO₂-Messung hat im wesentlichen folgende Funktionen:
 
-#.  Lagekontrolle von Atemwegshilfsmitteln, 
+#.  Lagekontrolle von Atemwegshilfsmitteln,
     insbes. *Endotrachealtubus*
-    (:ref:`Thema-EndotrachealeIntubation`) 
-    und *Larynxtubus* 
+    (:ref:`Thema-EndotrachealeIntubation`)
+    und *Larynxtubus*
     (:ref:`Thema-Larynxtubus`)
-#.  Einschätzung der alveolären CO₂-Konzentration 
-    somit als Surrogatwert zur Einschätzung der Blut-CO₂-Konzentration (paCO₂), 
+#.  Einschätzung der alveolären CO₂-Konzentration
+    somit als Surrogatwert zur Einschätzung der Blut-CO₂-Konzentration (paCO₂),
     sofern keine Diffusionsstörung vorliegt.
     Dies erlaubt eine an den Patienten angepasste Beatmung
     auch ohne Blutgasanalyse.
-#.  Der Verlauf des etCO₂ erlaubt auch gewisse Rückschlüsse 
-    auf die Kreislauffunktion, sofern andere Störgrößen 
+#.  Der Verlauf des etCO₂ erlaubt auch gewisse Rückschlüsse
+    auf die Kreislauffunktion, sofern andere Störgrößen
     (Ventilation, Diffusionsstörungen) ausgeschlossen sind.
 
 
@@ -104,7 +104,7 @@ der Ausatemluft die Geräte beschädigen kann.
 
 .. rubric:: Beurteilung
 
-Die Normwerte beim gesunden Menschen liegen bei ca. 
+Die Normwerte beim gesunden Menschen liegen bei ca.
 4—5% bzw. 35—40 mm Hg.
 
 Erhöhte Werte deuten auf eine
@@ -118,12 +118,12 @@ Erhöhte Werte deuten auf eine
 Erniedrigte Werte (bzw. keine Werte) deuten unter anderem auf eine
 
 .. hlist::
-    
+
     * *Fehllage* des Tubus,
     * ein *zu hohes Atemminutenvolumen* oder eine
-    * *schlechte Lungenperfusion* z. B. in Folge 
+    * *schlechte Lungenperfusion* z. B. in Folge
         einer Lungenembolie oder
-        eines erniedrigten Herzzeitvolumens 
+        eines erniedrigten Herzzeitvolumens
         bzw. **Kreislaufversagens** hin.
 
 Ein erniedrigter Wert oder ein schlagartiger Abfall des Wertes

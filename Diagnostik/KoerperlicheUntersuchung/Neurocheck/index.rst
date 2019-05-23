@@ -86,7 +86,8 @@ Neurocheck
 
       #. Schnelligkeit der Reaktion: prompt, verzögert?
 
-      #. Reagieren immer beide Pupillen seitengleich (*isokore* :index:`\ <isokor!-e Lichtreaktion>` Lichtreaktion)?
+      #. Reagieren immer beide Pupillen seitengleich
+         (*isokore* :index:`\ <isokor!-e Lichtreaktion>` Lichtreaktion)?
 
 #. Lichtscheu und Sehstörungen?
 
@@ -143,17 +144,16 @@ Neurocheck
 
 
 .. [125]
-    Diese Einteilung entspricht weitgehend dem :dfn:`WASB`\ -Einteilung (*W*\ ach, Reaktion auf *A*\ nsprechen, auf
+    Diese Einteilung entspricht weitgehend dem 
+    *WASB*\ -Schema (*W*\ ach, Reaktion auf *A*\ nsprechen, auf
     *S*\ chmerzreiz, *b*\ ewusstlos)
 
 Teile des Neurochecks werden während des Einschätzungsblockes
 durchgeführt.
 
-!!! PICTURESERIESWIDE !!!Pupillen !!! PICTUREWIDE !!!
-
 .. subfigstart::
 
-.. Figure-anisokorie-bau:
+.. _Figure-anisokorie-bau:
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.jpg 
     :width: 99%

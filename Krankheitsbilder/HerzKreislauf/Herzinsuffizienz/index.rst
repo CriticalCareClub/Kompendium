@@ -2,6 +2,8 @@
 .. index::
     single: Herzinsuffizienz
 
+.. _Thema-Herzinsuffizienz:
+
 ################
 Herzinsuffizienz
 ################

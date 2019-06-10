@@ -11,13 +11,15 @@ Akutes Koronarsyndrom (ACS)
 ###########################
 
 
-`2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation <https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393>`_ :cite:`Esc-2017-GuidelinesStemi`
+Basierend auf: `2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation <https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393>`_ :cite:`Esc-2017-GuidelinesStemi`
+
+.. contents::
 
 
 .. admonition:: Definition
 
     Das :dfn:`Akute Koronarsyndrom`
-    (*Acute Coronary Syndrome*, :dfn:`ACS`) ist ein Symptomenkomplex, 
+    (*Acute Coronary Syndrome*, :dfn:`ACS`) ist ein Symptomenkomplex,
     welcher typischerweise bei ischämischen
     Erkrankungen wie dem *Herzinfarkt* 
     und der *stabilen* oder *instabilen

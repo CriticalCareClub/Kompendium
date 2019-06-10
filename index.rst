@@ -19,7 +19,7 @@ Kompendium des Critical Care Club Austria
 
 .. only:: html
 
-    .. image:: /Bilder/Logos/Logo-10b-StarOfLife.*
+    .. image:: /Bilder/Logos/Logo-10-StarOfLife-EuColors.*
         :align: center
         :width: 50%
 

@@ -25,18 +25,18 @@ Basics
 
 Das Herz ist etwas größer als die Fuast des jeweiligen Indivisuums
 und ein *Hohlmuskel* mit der
-Funktion einer *Pumpe*. Es ist somit Teil des *Blutkreislaufs*. 
+Funktion einer *Pumpe*. Es ist somit Teil des *Blutkreislaufs*.
 Es liegt *hinter dem Brustbein* (Sternum, retrosternal)
 und teilweise im linken Brustkorb,
 unten liegt es auf *dem Zwerchfell auf*.
-Es ist durch ein *Septum* (*Scheidewand*) (Septum) in eine 
+Es ist durch ein *Septum* (*Scheidewand*) (Septum) in eine
 *rechte* und eine
 *linke* Seite geteilt.
 Jede Hälfte wird durch *Klappen* in
 einen *Vorhof* (:dfn:`Atrium`) und eine
 *Kammer* (:dfn:`Ventrikel`) geteilt.
 
-.. 
+..
     .. sidebar:: Schichten
 
         -   Endokard
@@ -47,7 +47,7 @@ einen *Vorhof* (:dfn:`Atrium`) und eine
 
         -   Herzbeutel (Perikard)
 
-Das Herz ist in **drei Schichten** aufgebaut, 
+Das Herz ist in **drei Schichten** aufgebaut,
 dem **Endokard** (innen),
 dem **Myokard** (*Muskelschicht*)
 und dem **Epikard** (außen).
@@ -97,16 +97,16 @@ Die **Blutversorgung** des Herzens erfolgt über mehrere
             -   Druck im arteriellen Gefäßsystem
             -   Durchblutung des Gewebes
             -   Blutdruckmessung → **C**
-        
-Das Herz hat eine *mechanische* 
+
+Das Herz hat eine *mechanische*
 und eine *elektrische* Funktion,
 welche miteinander in Verbindung stehen.
 
 Die **mechanische Herzfunktion** ist im Wesentlichen
 die Pumpfunktion der Herzmuskels durch regelmäßige
-*aktive Kontraktion* und *passive Entspannung*, 
+*aktive Kontraktion* und *passive Entspannung*,
 mit einer Frequenz beim Erwachsenen
-in Ruhe von ca. *60--100 mal* in der Minute. 
+in Ruhe von ca. *60--100 mal* in der Minute.
 Bei jeder Kontraktion wirft das Herz ca. *70 mL* Blut in die
 Hauptschlagader aus, in der Minute ergibt das ca. *4--6 L*.
 
@@ -143,7 +143,7 @@ Blutdruck lässt sich einfach mittels Blutdruckmanschette messen.
 
 Durch den Herzauswurf entsteht ein Druck im arteriellen Gefäßsystem,
 der **arterielle Blutdruck**. (Vgl. :ref:`Thema-blutdruck`)
-Abhängig von der Phase der Herzaktion schwankt der Blutdruck im Zeitverlauf. 
+Abhängig von der Phase der Herzaktion schwankt der Blutdruck im Zeitverlauf.
 In der **Auswurfphase** (**Systole**) erreicht der Druck sein *Maximum*
 (**systolischer** Blutdruck),
 in der **Enttspannungs-** und **Füllungsphase** (**Diastole**)
@@ -167,24 +167,24 @@ Zur Durchführung der Blutdruckmessung vgl.
 
         -   Normaler Impulsgeber: Sinusknoten
         -   Nachfolgende Stationen können bei Bedarf
-            mit langsamerer Frequenz übernehmen 
+            mit langsamerer Frequenz übernehmen
 
 Die Steuerung der mechanischen
-Herzfunktion erfolgt durch die **elektrische Herzfunktion**. 
+Herzfunktion erfolgt durch die **elektrische Herzfunktion**.
 Die Herzmuskelzellen sind fähig,
 elektrische Reize zu
 erzeugen und weiterzuleiten (*elektrische Herzfunktion*).
 Jeder dieser
 Impulse wird normalerweise vom Herzmuskel mit einer Kontraktion
-beantwortet (*mechanische Herzfunktion*). 
+beantwortet (*mechanische Herzfunktion*).
 Das Herz verfügt über ein **Reizleitungssystem**
 (s. :ref:`Thema-reizleitungssystem`).
 Das Reizbildungs- und
 -leitungssystem ist an sich hirarchisch angeordnet:
 An erster Stelle steht der **Sinusknoten** ``1`` im
-rechten Vorhof: 
-Er ist im Normalfall der Impulsgeber 
-und hat eine Eigenfrequenz von ca. 60--100/min 
+rechten Vorhof:
+Er ist im Normalfall der Impulsgeber
+und hat eine Eigenfrequenz von ca. 60--100/min
 (*natürlicher Schrittmacher*, :dfn:`Sinusrhythmus`).
 Eine Erregung des
 Sinusknotenn wird über den rechten Vorhof zum :dfn:`AV-Knoten`
@@ -229,14 +229,14 @@ Beispiele von Rhythmen werden unter
     :width: 99%
 
     [Hirtler]
-    
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.*
     :width: 99%
 
     Das Herz, schematisch
-    
+
     [Lena Hirtler, MfG]
-    
+
 .. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
     :width: 99%
 
@@ -253,7 +253,7 @@ Beispiele von Rhythmen werden unter
 
 
 
-    
+
 
 *****************************************
 Aufbau und Lagebeziehungen
@@ -262,21 +262,21 @@ Aufbau und Lagebeziehungen
 Das Herz ist ein *Hohlmuskel* und hat die
 Funktion einer *Pumpe* im *Blutkreislauf*.
 Es ist etwas größer als die Faust der zugehörigen Person und liegt
-*hinter dem Sternum* 
+*hinter dem Sternum*
 und ragt in den linken Brustkorb.
 Unten liegt es auf *dem Zwerchfell auf*,
 nach hinten liegt es der Wirbelsäule an.
 
-Das Herz ist in einen rechten und einen linken Teil unterteilt, 
+Das Herz ist in einen rechten und einen linken Teil unterteilt,
 jeder Teil wiederum in einen *Vorhof* (*Atrium*)
 und eine *Kammer* (*Ventrikel*).
-Die beiden Vorhöfe sind durch das *Septum* getrennt. 
+Die beiden Vorhöfe sind durch das *Septum* getrennt.
 Entwicklungsgeschichtlich bildet sich das Vorhoffseptum
 aus dem *Septum primum* und *Septum secundum*,
 welche normalerweise innerhalb
 des ersten Lebensjahres miteinander verwachsen.
 
-Das Herz ist in drei **Schichten** aufgebaut, 
+Das Herz ist in drei **Schichten** aufgebaut,
 dem *Endokard* (innen),
 dem *Myokard* (*Muskelschicht*)
 und dem *Epikard* (außen).
@@ -284,12 +284,12 @@ Das **Endokard** bedeckt lückenlos die innere Oberfläche
 und geht in die *Intima* (*Tunica intima*) der Gefäße über,
 die in das HErz führen bzw. diesem entspringen.
 Das **Myokard** ist die realtiv dicke Muskelschicht.
-Sie enthält quergestreifte, 
+Sie enthält quergestreifte,
 aber abweichend von der Skelettmuskulatur
-nicht ermüdende Muskelzellen. 
+nicht ermüdende Muskelzellen.
 Beim Erwachsenen werden keine neuen Herzmuskelzellen gebildet,
-sie können jedoch durch Beanspruchung (Training) an Größe zunehmen. 
-Spezielle Herzmuskelzellen bilden 
+sie können jedoch durch Beanspruchung (Training) an Größe zunehmen.
+Spezielle Herzmuskelzellen bilden
 das Erregungsbildungs- und leitungssystem.
 Das aufliegende **Epikard** ist eine Serosaschicht,
 welche ein reibungsarmes Gleiten im Herzbeutel ermöglicht.
@@ -321,20 +321,20 @@ Dabei verfügt das Herz über 2 Segelklappen
 und 2 Taschenklappen.
 Die **Segelklappen** befinden sich
 jeweils zwischen den Vorhöfen und den Kammern
-(*Atrioventrikularklappen*; 
+(*Atrioventrikularklappen*;
 *Trikuspidalklappe* rechts,
 *Mitralklappe* links*)
-und werden von den 
+und werden von den
 Papillarmuskeln abgehenden Sehnenfäden
 wie ein Segel festgehalten.
 Dabei folgt die Öffnungs- und Schließfunktion der Klappen
-rein passiv den Druckverhältnissen 
+rein passiv den Druckverhältnissen
 im Vorhof und der Kammer.
 Der Übergang von den Vorhöfen zu den Kammern wird als
 **Ventilebene** bezeichnet.
 Die Klappenöffnungsfläche (KÖF) beträgt ca. 4—6 cm².
 Die **Taschenklappen** finden sich jeweils zwischen
-den Kammern und den abfließenden Gefäßen 
+den Kammern und den abfließenden Gefäßen
 (*Semilunarklappen*;
 *Pulmonalklappe* rechts am
 Übergang zur Lungenarterie,
@@ -344,7 +344,7 @@ und werden nicht durch Sehnenfäden gehalten.
 Auch ihre Funktion folgt rein passiv den Druckunterschieden
 zwischen Kammer und Gefäß.
 Sowohl die Pulmonal- als auch die Aortenklappe
-haben normalerweise *3* Taschen, 
+haben normalerweise *3* Taschen,
 Varianten im Sinne einer *biskuspiden* Klappe
 (2 Taschen) sind jedoch möglich
 und häufig mit einer Funktionseinschränkung verbunden.
@@ -416,7 +416,7 @@ Herzfunktion. Normalerweise arbeiten beide Komponenten Hand-in-Hand.
     single: β₁-Rezeptoren (Myokard)
     single: α₁-Rezeptoren (Myokard)
     single: Ca⁺⁺ (Myokard)
-        
+
 Die Kontraktion des Myokards
 ============================
 
@@ -438,7 +438,7 @@ Dadurch kommt es zu einem **positiv inotropen** Effekt.
 
 Durch Aktivierung von α₁-Rezeptoren wird die Abgabe von Ca⁺⁺ aus dem,
 sarkoplasmatischen Retikulum und damit die Kraftentwicklung
-potenziert. 
+potenziert.
 
 
 Die Herzleistung erzeugt den Blutdruck
@@ -501,7 +501,7 @@ Blutdruck* der Minimaldruck. Zur Durchführung der Blutdruckmessung vgl.
 
 -  Durchführung: :ref:`Thema-rr-messung`
 
-        
+
 
 **********************************************************************************
 Elektrische Herzfunktion und Reizleitungssystem
@@ -541,7 +541,7 @@ Erregungsleitung (z.B. durch Gewebeschädigung nach einem Herzinfarkt),
 kann die jeweils *nachfolgende Station als Impulsgeber übernehmen* –
 allerdings mit deutlich langsamerer Frequenz,
 d.h. jede der Stationen ist zur eigenständigen Erregungsbildung
-fähig, sofern ihr nicht die übergeordnete Station zuvor kommt. 
+fähig, sofern ihr nicht die übergeordnete Station zuvor kommt.
 Im Extremfall, wenn
 das gesamte Leitungssystem ausfällt, können auch die Herzmuskelzellen
 selbst einen minimalen Rhythmus (:math:`\sim`\ 30/min) aufrecht
@@ -549,14 +549,14 @@ erhalten. Beispiele von Rhythmen werden unter
 :ref:`Thema-herzrhythmusstoerungen` vorgestellt.
 
 
-   
+
 
 
 Der normale Schrittmacher ist der Sinusknoten, welcher die
 elektrischen Impulse für die Vorhöfe und die Kammern erzeugt. Man
 spricht dann vom *Sinusrhythmus*.
 
-.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.* 
+.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
 
     Reizleitungssystem, SchemaJ. Heuser, basierend auf der Arbeit von
     Patrick J. Lynch; illustrator;
@@ -573,8 +573,8 @@ ausgelöst durch  Stimualtion eines Dehnungsreizes
 das *Atriale Natriuretische Peptid*
 :index:`\ <Atriale Natriuretische Peptid>`
 :index:`\ <Peptid; Atriales Natriuretisches>`
-(*ANP*:index:`\ <ANP>`, 
-*Atriopeptin*:index:`\ <Atriopeptin>`, 
+(*ANP*:index:`\ <ANP>`,
+*Atriopeptin*:index:`\ <Atriopeptin>`,
 *Cardionatrin*:index:`\ <Cardionatrin>`).
 Es erhöht in der Niere nie Natrium- und Wasserausscheidung.
 

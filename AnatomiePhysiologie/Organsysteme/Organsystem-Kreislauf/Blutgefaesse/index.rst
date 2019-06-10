@@ -92,4 +92,4 @@ Die größten Gefäße, wie zum Beispiel die Aorta, haben zur geeigneten
 Blutversorgung ihrer Wand dort eigene Gefäße (Vasa vasorum). Arterien
 die herznah sind, besitzen in ihrer Wand eher elastische Fasern.
 Arterien die der Organversorgung dienen sind muskulärer
-aufgebaut. 
+aufgebaut.

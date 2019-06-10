@@ -21,22 +21,22 @@ Basierend auf: `2017 ESC Guidelines for the management of acute myocardial infar
     Das :dfn:`Akute Koronarsyndrom`
     (*Acute Coronary Syndrome*, :dfn:`ACS`) ist ein Symptomenkomplex,
     welcher typischerweise bei ischämischen
-    Erkrankungen wie dem *Herzinfarkt* 
+    Erkrankungen wie dem *Herzinfarkt*
     und der *stabilen* oder *instabilen
-    Angina pectoris* *akut* auftritt. 
+    Angina pectoris* *akut* auftritt.
 
 Bei diesen Krankheitsbildern kommt
 es zu einer akuten *Unterversorgung des Herzmuskels* mit Blut und
-Sauerstoff aufgrund der Durchblutungsstörung. 
+Sauerstoff aufgrund der Durchblutungsstörung.
 Die Ursache sind in erster
-Linie verengte oder verstopfte Herzkranzgefäße 
-(*Ischämie*, :ref:`Thema-ischaemie`). 
+Linie verengte oder verstopfte Herzkranzgefäße
+(*Ischämie*, :ref:`Thema-ischaemie`).
 Das akute Koronarsyndrom ist häufig das Ergebnis einer vorbestehenden koronaren
-Herzkrankheit. 
-Daneben gibt es noch andere Erkrankungen, 
-welche sich von den vorgenannten entweder durch die Pathogenese 
-(z. B. *Prinzmetal-Angina*) oder durch den Pathomechanismus 
-(z. B. *Tako-Tsubo-Kardiopathie*) wesentlich unterscheiden. 
+Herzkrankheit.
+Daneben gibt es noch andere Erkrankungen,
+welche sich von den vorgenannten entweder durch die Pathogenese
+(z. B. *Prinzmetal-Angina*) oder durch den Pathomechanismus
+(z. B. *Tako-Tsubo-Kardiopathie*) wesentlich unterscheiden.
 
 
 
@@ -56,13 +56,13 @@ Symptome
 
     -  …
 
-Es sind *zwei Auslösemechanismen* möglich: 
+Es sind *zwei Auslösemechanismen* möglich:
 Einerseits kann eine
 Minderdurchblutung des Herzmuskels (Myokard) aufgrund einer oder
 mehrerer *Einengung(en) von Herzkranzgefäßen* (Koronararterien) die
-Ursache sein, 
+Ursache sein,
 oder es kommt zu einem *erhöhtem Sauerstoffbedarf* des
-Herzens bei Anstrengung. 
+Herzens bei Anstrengung.
 In beiden Fällen kommt es zu einem
 *Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf* des
 Herzens (Ischämie), die Folge sind Schmerzen, Atemnot und ein
@@ -201,25 +201,25 @@ Differentialdiagnosen
 *********************
 
 - Pneumonie, Pleuritis, Pneumothorax
-  
+
 - Reflux, Pankreatitis, Cholezystitis
-  
+
 - post-CABG-Syndrom
-  
+
 - musko-skelettal
-  
+
 - funktionell
 
 *****************
 Diagnostik
 *****************
 
-Veränderungen des EKGs sind richtungsweisend in der Diagnostik 
+Veränderungen des EKGs sind richtungsweisend in der Diagnostik
 und entscheidend für den jeweiligen Therapieverlauf.
-Aufgrund der EKG-Veränderungen, 
+Aufgrund der EKG-Veränderungen,
 im speziellen der ST-Strecke,
-wird zwischen einem ST-Elevations-Myokardinfarkt (:dfn:`STEMI`) 
-und einem Nicht-STEMI (:dfn:`NSTEMI`) unterschieden. 
+wird zwischen einem ST-Elevations-Myokardinfarkt (:dfn:`STEMI`)
+und einem Nicht-STEMI (:dfn:`NSTEMI`) unterschieden.
 
 .. index::
     single: STEMI-Kriterien
@@ -248,17 +248,17 @@ Bedenke **atypische Präsentationen**:
 -   Schrittmacher-EKG
 -   **Linksschenkelblock** (LSB) de-novo und Klinik einer Ischämie
 -   **Hauptstammbild**
-    
+
     -   ST-Hebungen in aVR und V1
     -   evtl. ST-Senkungen in anderen Ableitungen
-      
+
 -   **CX-Infarkt**:
-    
+
     -   ST-Senkungen V1--V3 und/oder > 0,5 mm in V7--V9
-    -   Oft hohes R in V1 bis V3 
+    -   Oft hohes R in V1 bis V3
     -   Tiefe ST-Senkung in den rechts-präkordialen Brustwandableitungen mit positivem T
     -   Oft minimale ST-Hebungen inferior/lateral
- 
+
 
 Besonders häufige Patientengruppen mit **atypischer MCI-Präsentation** umfassen:
 
@@ -269,13 +269,16 @@ Besonders häufige Patientengruppen mit **atypischer MCI-Präsentation** umfasse
 -   Patienten mit Niereninffuzienz
 
 
-Weiterführende Diagnostik 
+Weiterführende Diagnostik
 =============================================================================
 
 
-.. rubric:: Echokardiographie 
+.. rubric:: Echokardiographie
 
-Abschätzung des Schweregrades, Infarktlokalisation, Einschätzung der hämodynamischen Stabilität und AUsschluss von Differentialdiagnosen.
+Abschätzung des Schweregrades,
+Infarktlokalisation,
+Einschätzung der hämodynamischen Stabilität und
+Ausschluss von Differentialdiagnosen.
 
 .. rubric:: Labor
 
@@ -286,43 +289,38 @@ Abschätzung des Schweregrades, Infarktlokalisation, Einschätzung der hämodyna
 
 
 
+.. _m-akutes-koronarsyndrom-beschwerdefrei:
+.. _m-akutes-koronarsyndrom:
+
 ********
 Therapie
 ********
 
-
-
-.. _m-akutes-koronarsyndrom-beschwerdefrei:
-.. _m-akutes-koronarsyndrom:
-
-Maßnahmen: Akutes Koronarsyndrom
---------------------------------
-    
 Hintergrund
 ===========
 
-Grundsätzlich unterscheidet sich die Therapie des Herzinfarktes mit 
+Grundsätzlich unterscheidet sich die Therapie des Herzinfarktes mit
 und ohne ST-Elevation (STEMI vs. NSTEMI).
 
-Herzinfarktpatienten benötigen oft eine besondere Behandlung 
-im Sinne einer **Reperfusionsstrategie**, 
-bei welcher die Durchgängigkeit der betroffenen Koronargefäße, 
+Herzinfarktpatienten benötigen oft eine besondere Behandlung
+im Sinne einer **Reperfusionsstrategie**,
+bei welcher die Durchgängigkeit der betroffenen Koronargefäße,
 und somit die Durchblutung des Herzmuskels, wiederhergestellt werden soll.
-Dazu stehen im Wesentlichen zwei Methoden zur Wahl: 
+Dazu stehen im Wesentlichen zwei Methoden zur Wahl:
 
 
--  Bei der **Lyse-Therapie** versucht man medikamentös einen 
+-  Bei der **Lyse-Therapie** versucht man medikamentös einen
    Thrombus in einem Koronargefäß aufzulösen.
-   Oft muss nach einer Lyse auf eine Herzkatheter-Intervention 
+   Oft muss nach einer Lyse auf eine Herzkatheter-Intervention
    durchgeführt werden.
 
 -  Bei einer **Herzkatheteruntersuchung** bzw. -intervention
    (*Koronarangiographie*) versucht man die verengten oder verstopften
-   Gefäße aufzudehnen und mittels *Stents* offen zu halten 
-   (:abbr:`PCI (Percutane Coronary Intervention; 
-   perkutane Koronar-Intervention)`, 
+   Gefäße aufzudehnen und mittels *Stents* offen zu halten
+   (:abbr:`PCI (Percutane Coronary Intervention;
+   perkutane Koronar-Intervention)`,
    :abbr:`PTCA (Perkutane Transluminale Coronar-Angioplastie)`).
-   Dazu benötigt man ein *dienstbereites* 
+   Dazu benötigt man ein *dienstbereites*
    und *verfügbares* **Herzkatheterlabor**. [241]_
 
    Hinsichtlich der Strategie unterscheidet man:
@@ -342,32 +340,32 @@ Dazu stehen im Wesentlichen zwei Methoden zur Wahl:
    eingebracht und bis knapp vor das Herz zu den Abgängen der
    Koronargefäße vorgeschoben und anschließend ein
    Röntgen-Kontrastmittel appliziert. Dadurch kann mittels
-   Durchleuchtungsgeräten der Blutfluß in den Koronargefäßen  
+   Durchleuchtungsgeräten der Blutfluß in den Koronargefäßen
    beurteilt, sowie Verengungen und Verschlüsse identifiziert
-   werden (diagnostische Herzkatheteruntersuchung). 
-   Wird eine solche Stelle gefunden, 
+   werden (diagnostische Herzkatheteruntersuchung).
+   Wird eine solche Stelle gefunden,
    kann diese oft mittels des Herzkatheters
    behandelt werden (Intervention; *PCI* (Percutane Coronary
    Intervention) oder *PTCA* (Perkutane Transluminale Coronare
    Angioplastie)). Dabei wird ein Ballon in die Engstelle eingebracht,
-   welcher das Gefäß aufdehnt. Anschließend wird ein **Stent**, 
+   welcher das Gefäß aufdehnt. Anschließend wird ein **Stent**,
    im Prinzip ein zylindrisches Metallgeflecht, eingebracht, welcher als Stütze für
-   das Gefäß dient und dieses längerfristig offen halten soll. 
-   Es sind dabei unterschiedliche Stent-Arten in Verwendung 
+   das Gefäß dient und dieses längerfristig offen halten soll.
+   Es sind dabei unterschiedliche Stent-Arten in Verwendung
    (:abbr:`BMS (Bare Metall Stent)`, :abbr:`DES (Drug Eluting Stent)`).
 
 Somit kann eine kardiologische Betten-, Überwachungs- oder Intensivstation
 alleine *keine* adäquate Versorgung bereitstellen.
-In der Regel muss das erstversorgende Fachpersonal über die Indikation 
-zur Einleitung einer Reperfusionsbehandlung stellen 
+In der Regel muss das erstversorgende Fachpersonal über die Indikation
+zur Einleitung einer Reperfusionsbehandlung stellen
 bzw. das geeigente Verfahren auswählen.
 
 .. rubric:: Ressourcen
 
--   Video, Youtube: *Der Akute Herzinfarkt* 
+-   Video, Youtube: *Der Akute Herzinfarkt*
     http://youtu.be/DGZ443jO2ik
 -   Video, Youtube: Gèneve, Hôpitaux Universitaires:
-    *Zur Bekämpfung von Herzinfarkt und Arteriosklerose* 
+    *Zur Bekämpfung von Herzinfarkt und Arteriosklerose*
     http://youtu.be/SWZYBrLAnNk.
 -   Literatur:
     :cite:`Erc-2015-Section-08`
@@ -378,8 +376,8 @@ bzw. das geeigente Verfahren auswählen.
 
 
 Wichtiges Ziel in der MCI-Versorgung ist die Reduktion des
-*System Delay*. 
-Daraus ergeben sich folgende logistische Empfehlungen 
+*System Delay*.
+Daraus ergeben sich folgende logistische Empfehlungen
 :cite:`Esc-2017-GuidelinesStemi`:
 
 -   Organisation regionaler STEMI Netzwerke
@@ -401,7 +399,7 @@ Daraus ergeben sich folgende logistische Empfehlungen
     single: Morphin (ACS)
     single: Heparin (ACS)
     single: ASS  (ACS)
-    
+
 Allgemein und Basics
 ====================
 
@@ -412,7 +410,7 @@ Allgemein und Basics
         beengende Kleidung öffnen,
         Bewegungensverbot,
         Schonung
-        
+
     -   Sauerstoff:
         Sauerstoff ist indiziert bei **hypoxämischen** Patienten (SaO₂ < 90%
         oder paO₂ < 60 mm Hg).
@@ -432,7 +430,7 @@ Pharmakotherapie
 ================
 
 Die Anwendung bestimmter Medikamente
-unterscheidet sich nach der Unterscheidung 
+unterscheidet sich nach der Unterscheidung
 STEMI, NSTEMI und AP,
 sowie nach der geplanten Reperfusionstrategie.
 
@@ -465,11 +463,11 @@ P2Y₁₂-Inhibitor
 
 Das P2Y₁₂-Protein befindet sich
 u. a. auf der Oberfläche von Thrombozyten
-und ist als Chemorezeptor für Adenosindiphosphat (ADP) 
-an der Thrombozytenaggregation beteiligt 
+und ist als Chemorezeptor für Adenosindiphosphat (ADP)
+an der Thrombozytenaggregation beteiligt
 und somit ein wichtiger Regulator der Blutgerinnung.
-Beim ACS ist eine Hemmung mittels eines 
-potenten *P2Y₁₂-Inhibitors* 
+Beim ACS ist eine Hemmung mittels eines
+potenten *P2Y₁₂-Inhibitors*
 (*Prasugrel*, *Ticagrelor*, oder,
 wenn nicht verfügbar, auch *Clopidogrel*)
 empfohlen *bevor* oder spätestens zum Zeitpunkt der PCI
@@ -486,11 +484,11 @@ und ist als *Schmelztablette* einsetzbar
 (Cave: keine Resorption über Mundschleimhaut,
 sondern im GI-Trakt;
 Gabe z. B. über Magensonde möglich).
-Für das alternativ anwendbare **Prasugrel** (*Efient®*) 
+Für das alternativ anwendbare **Prasugrel** (*Efient®*)
 bestehen diverse Kontraindikationen (Alter, Gewicht),
 was die Anwendung verkompliziert.
 
-Bei **stabilen KHK-Patienten** 
+Bei **stabilen KHK-Patienten**
 und ACS-Patienten,
 welche kein Prasugrel oder Ticagrelor erhalten können,
 sowie bei Patienten mit **Thrombolyse**-Reperfusionsstrategie,
@@ -519,7 +517,7 @@ Additiv -- Erwäge:
 -   (AT-II-Inhibitoren)
 -   (Statine)
 
-    
+
 .. index::
     single: STEMI (Therapie)
     single: GP IIb/IIIa-Inhibitor (STEMI)
@@ -528,7 +526,7 @@ Additiv -- Erwäge:
     single: Heparin (STEMI)
     single: ASS  (STEMI)
     single: PCI (STEMI)
-    
+
 Therapiestrategie STEMI *ohne Lyse*
 ===================================
 
@@ -539,7 +537,7 @@ Schmerzbegin bis :term:`FMC` < 12 h
 -   **Ticagrelor** (Brilique®) 180 mg p. o.
 -   **primäre PCA**
 
-    -   Aviso 
+    -   Aviso
     -   *Fast Track*: *"bypass emergency department"*
 
 
@@ -550,13 +548,13 @@ Schmerzbegin bis :term:`FMC` < 12 h
    single: STEMI (Lyse)
    single: Lyse, Kontraindikationen
    single: Kontraindikationen, Lyse
-   
+
 
 Therapiestrategie STEMI *mit Lyse*
 ===================================
 
 Wenn die Fibrinolyse angewendet werden soll,
-dann sollte diese bei einem 
+dann sollte diese bei einem
 :abbr:`STEMI (ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt)`
 *so früh wie möglich*
 initiiert werden (< 10 min. nach :term:`FMC`) (1A).
@@ -565,7 +563,7 @@ Bei Patienten über 75 Jahre sollte die Hälfte der
 Dosis überlegt werden. (2aB)
 
 Nach der Fibrinolyse ist der sofortige Transfer in ein
-PCI Zentrum bei allen Patienten indiziert! 
+PCI Zentrum bei allen Patienten indiziert!
 Eine Koronarangiographie und PCI des Infarktgefäßes ist zwischen
 2 und 24 h nach erfolgreicher Lyse indiziert (1A).
 
@@ -592,7 +590,7 @@ keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
 -  Bekannte Blutungsneigung
 -  OAK-Therapie
 
-      
+
 
 .. rubric:: Durchführung
 
@@ -613,7 +611,7 @@ keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
 
 .. list-table:: Thrombolyse-Begleittherapie
     :header-rows: 1
-                
+
     *   - Patient
         - < 75 a
         - > 75 a

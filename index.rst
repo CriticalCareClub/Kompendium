@@ -19,7 +19,7 @@ Kompendium des Critical Care Club Austria
 
 .. only:: html
 
-    .. image:: /Bilder/Logos/Logo-10-StarOfLife-EuColors.*
+    .. image:: /Bilder/Logos/rect14795-2.png
         :align: center
         :width: 50%
 
@@ -43,39 +43,6 @@ Kompendium des Critical Care Club Austria
    Pharmakotherapie/index.rst
    Inkubator/index.rst
    Appendix/index.rst
-
------
-
-******************
-Logovorschläge
-******************
-
-
-.. image:: /Bilder/Logos/Logo-4-StarOfLife-1.*
-    :align: center
-    :width: 50%
-
-
-.. image:: /Bilder/Logos/Logo-4-StarOfLife-2.*
-    :align: center
-    :width: 50%
-
-
-.. image:: /Bilder/Logos/Logo-4-Aesculap-1-50dpi.*
-    :align: center
-
-.. image:: /Bilder/Logos/Logo-10-StarOfLife-50dpi.*
-    :align: center
-    :width: 50%
-
-.. image:: /Bilder/Logos/Logo-11-Aesculap.*
-    :align: center
-    :width: 50%
-
-
-.. image:: /Bilder/Logos/Logo-10b-StarOfLife.*
-    :align: center
-    :width: 50%
 
 -----
 

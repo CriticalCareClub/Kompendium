@@ -13,6 +13,38 @@ Appendix
 
 
 
+******************
+Logovorschläge
+******************
+
+
+.. image:: /Bilder/Logos/Logo-4-StarOfLife-1.*
+    :align: center
+    :width: 50%
+
+
+.. image:: /Bilder/Logos/Logo-4-StarOfLife-2.*
+    :align: center
+    :width: 50%
+
+
+.. image:: /Bilder/Logos/Logo-4-Aesculap-1-50dpi.*
+    :align: center
+
+.. image:: /Bilder/Logos/Logo-10-StarOfLife-50dpi.*
+    :align: center
+    :width: 50%
+
+.. image:: /Bilder/Logos/Logo-11-Aesculap.*
+    :align: center
+    :width: 50%
+
+
+.. image:: /Bilder/Logos/Logo-10b-StarOfLife.*
+    :align: center
+    :width: 50%
+
+
 ********************************
 Sonstige exportierte Sachen
 ********************************

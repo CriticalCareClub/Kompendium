@@ -16,12 +16,12 @@ Kompendium des Critical Care Club Austria
 #############################################
 
 
+..
+    .. only:: html
 
-.. only:: html
-
-    .. image:: /Bilder/Logos/rect14795-2.png
-        :align: center
-        :width: 50%
+        .. image:: /Bilder/Logos/rect14795-2.png
+            :align: center
+            :width: 50%
 
 
 
@@ -44,7 +44,12 @@ Kompendium des Critical Care Club Austria
    Inkubator/index.rst
    Appendix/index.rst
 
------
+
+.. only:: html
+
+    .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
+        :align: center
+        :width: 100%
 
 *********
 Literatur
@@ -64,7 +69,11 @@ Literatur
     :labelprefix: L-
 
 
------
+.. only:: html
+
+    .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
+        :align: center
+        :width: 100%
 
 .. admonition:: Versionsverwaltung (Git-Archiv)
 

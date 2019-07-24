@@ -1,11 +1,18 @@
 image: alpine
 
+enable_merge:
+  only: 
+  - merge_requests
+  script:
+  - echo true
+  
 pages:
   script:
   - apk --no-cache add file git py3-pip python-dev imagemagick
   - convert --version
   - pip3 install sphinx sphinxcontrib.bibtex sphinx_git
   - apk --no-cache add make
+  - git checkout master
   - make html
   - mkdir public
   - echo "Job Done" > public/index.txt

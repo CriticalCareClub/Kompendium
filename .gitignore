@@ -10,3 +10,4 @@ _extensions/__pycache__/*
 *.sav
 *.bak
 Import/
+Export/

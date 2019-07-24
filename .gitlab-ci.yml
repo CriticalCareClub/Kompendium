@@ -1,9 +1,11 @@
 image: alpine
 
 enable_merge:
-  only: merge_requests
+  only: 
+  - merge_requests
   script:
-    - echo true
+  - echo true
+  
 pages:
   script:
   - apk --no-cache add file git py3-pip python-dev imagemagick

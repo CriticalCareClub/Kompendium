@@ -6,12 +6,227 @@ Sphinx-Schummelzettel
 :Info: See <http://docutils.sf.net/rst.html> for introductory docs.
 :Author: David Goodger <goodger@python.org>
 
-Struktur
-=================
+Allgemeines
+===========
 
-Überschirften sind mit Unterstrichen oder Unterstrichen mit Oberstrichen vesehen.
+reStructuredText (ReST, RST) ist eine vereinfachte Auszeichnungssprache 
+für Textdateien mit dem Ziel,
+in der reinen Textform besonders lesbar zu sein. 
 
-Body Elements
+
+Absätze werden am linken Rand ausgerichtet und normalerweise durch Leerzeilen getrennt.
+
+Wichtig zu verstehen ist die Tatsache, dass Einrückungen, wie bein der Schreibmaschine,
+eine strukturelle Beduetung haben.
+
+Überschriften und Gliederung
+============================
+
+Titel sind mit speziellen Zeichen unterstrichen
+(oder über- und unterstrichen), 
+ähnlich wie bei einem Schreibmaschinentext. 
+Möglich sind die Zeichen :literal:`= - : ' " ~ ^ _ * + # < >`.
+Welches Zeichen für welche Gliederungebene verwendet wird
+ist grundsätztlich egal
+und wird, 
+sofern über ein Dokument konsequent 
+das gleiche Zeichen für die gleiche Gliederungebene verwendet wird,
+von Sphinx automatisch erkannt.
+Empfohlen ist jedoch folgende Abfolge:
+
+::
+
+    ###############################
+    Gliederungsebene 1 (z. B. Teil)
+    ###############################
+
+    **********************************
+    Gliederungsebene 2 (z. B. Kapitel)
+    **********************************
+
+    Gliederungsebene 3 (z. B. Abschnitt)
+    ====================================
+
+    Gliederungsebene 4 (z. B. Unterabschnitt)
+    -----------------------------------------
+
+    Gliederungsebene 5
+    ^^^^^^^^^^^^^^^^^^
+
+    Gliederungsebene 6
+    """"""""""""""""""
+
+Die Unterstreichung / Überstreichung muss mindestens so lang sein wie der Titeltext.
+
+Einfache Formatierungen
+=======================
+
+
+::
+
+   *Hervorhebung*;
+
+   **starke Hervorhebung**;
+
+   ``Literaltext``;
+
+   Hyperlink, http://www.criticalcareclub.at;
+
+   named reference, reStructuredText_;
+   
+   `anonymous reference`__;
+   
+   footnote reference, [1]_;
+   
+   citation reference, [CIT2002]_;
+
+   |substitution|; _`inline internal target`.
+
+
+
+
+Listen
+------
+
+Nicht-nummerierte Liste
+
+Aufzählungszeichen sind "-", "*" oder "+".
+Der fortlaufende Text muss am Aufzählungszeichen plus Einrückung ausgerichtet sein.
+
+Eine Leerzeile vor dem ersten  und nach dem
+letzten Punkt erforderlich, optional zwischen den Elementen möglich.
+
+::
+    -   Dies ist Punkt 1
+    -   Dies ist Punkt 2
+    -   Punkt 3 ist deutlich länger
+
+        Er umfasst auch einen zweiten Absatz, 
+        welcher entsprechend eingerückt ist.
+
+        -   Punkt 4 zeigt, dass man durch
+            Einrückung die Gliederungsebene 
+            beeinflussen kann.
+
+ergibt:
+
+    -   Dies ist Punkt 1
+    -   Dies ist Punkt 2
+    -   Punkt 3 ist deutlich länger
+
+        Er umfasst auch einen zweiten Absatz, 
+        welcher entsprechend eingerückt ist.
+
+        -   Punkt 4 zeigt, dass man durch
+            Einrückung die Gliederungsebene 
+            beeinflussen kann.
+
+Nummerierte Listen
+
+Enumeratoren sind arabische Zahlen,
+einzelne Buchstaben
+oder römische Ziffern,
+sowie :literal:`#.` um automatisch zu nummerieren.
+Listenelemente sollten fortlaufend nummeriert sein,
+müssen jedoch nicht bei 1 beginnen
+(obwohl nicht alle Ausgabeprogramme den ersten Index berücksichtigen).
+
+.. admonition:: Beispiel:
+
+    ::
+        3. Dies ist der erste Punkt
+        4. Dies ist der zweite Punkt
+        #. Dieser Artikel wird automatisch aufgelistet
+
+    3. Dies ist der erste Punkt
+    4. Dies ist der zweite Punkt
+    #. Dieser Artikel wird automatisch aufgelistet
+
+
+Definitionslisten:
+
+Definitionslisten verknüpfen einen Begriff mit einer Definition.
+
+Der Begriff ist ein einzeiliger Ausdruck,
+und die Definition besteht aus einem oder mehreren Absätzen oder Textelementen,
+die relativ zum Begriff eingerückt sind.
+Leerzeilen zwischen Begriff und Definition sind nicht zulässig.
+
+.. admonition:: Beispiel: Defintionsliste
+
+    ::
+        Begriff
+            Erklärung
+
+        Anderer Begriff
+            Eine längere Erklärung.
+
+            Sie beinhaltet sogar einen weiteren Absatz.
+            Und sodar eine Aufzählung ist möglich:
+
+            1. Erstens
+            2. Zweitens
+            3. Drittens
+
+    Begriff
+        Erklärung
+
+    Anderer Begriff
+        Eine längere Erklärung.
+
+        Sie beinhaltet sogar einen weiteren Absatz.
+        Und sodar eine Aufzählung ist möglich:
+
+        1. Erstens
+        2. Zweitens
+        3. Drittens
+
+
+Feldlisten
+
+Feldlisten ähneln Definitionlisten.
+
+.. admonition:: Beispiel: Feldliste
+
+    ::
+        :Feld:
+            Inhalt
+
+        :Autoren:
+            Hinz, Kunz
+
+            Weiters danken wir:
+
+            1. Erna
+            2. Resi
+            3. Zenzi
+
+    :Feld:
+        Inhalt
+
+    :Autoren:
+        Hinz, Kunz
+
+        Weiters danken wir:
+
+        1. Erna
+        2. Resi
+        3. Zenzi
+
+
+=======================  ==============================================================
+Listenart                Beispiele                                               
+=======================  ==============================================================
+Nicht-mummerierte Liste  * items beginnt mit ``-``, ``+``, oder ``*``
+Nummerierte Liste        1. items: Variation von       ``1.``, ``A)``, und ``(i)``
+                         ``#.`` wird automatisch nummeriert
+Definitionsliste         Term is flush-left : optional classifier
+                         Definition is indented, no blank line between
+Feld-Liste               ``:field name: field body``
+Optionsliste             ``-o  at least 2 spaces between option & description``
+=======================  ==============================================================
+
+Elemente
 =============
 
 
@@ -20,7 +235,7 @@ Body Elements
 
 Listen-Tabellen sind die einfachste Art um Tabellen zu erzeugen:
 
-Die Direktive lautet ``.. list-table:: <Tabellentitel>``, 
+Die Direktive lautet ``.. list-table:: <Tabellentitel>``,
 ``:widths:`` gibt die jeweiligen Spaltenbreiten (in Prozent) an,
 ``:header-rows:`` definiert wieviele Zeilen als Überschrift gerechnet werden,
 ``:stub-columns`` analog dazu, wie viele Spalten als Zeilentitel gerechnet werden.
@@ -122,22 +337,6 @@ Einfache Tabellen:
   ==============    ==============
 
 
-
-Listen
-------
-
-=======================  ==============================================================
-Listenart                Beispiele                                               
-=======================  ==============================================================
-Nicht-mummerierte Liste  * items beginnt mit ``-``, ``+``, oder ``*``
-Nummerierte Liste        1. items: Variation von       ``1.``, ``A)``, und ``(i)``
-                         ``#.`` wird automatisch nummeriert
-Definitionsliste         Term is flush-left : optional classifier
-                         Definition is indented, no blank line between
-Feld-Liste               ``:field name: field body``
-Optionsliste             ``-o  at least 2 spaces between option & description``
-=======================  ==============================================================
-
 Markup
 ------
 
@@ -158,36 +357,12 @@ Kommentar            (``..`` on a line by itself, with blank lines before & afte
                      used to separate indentation contexts)
 ===================  ================================================================
 
-Inline Markup
-=============
 
-::
-
-   *Hervorhebung*;
-
-   **starke Hervorhebung**;
-
-   `interpreted text`;
-
-   `interpreted text with role`:emphasis:;
-
-   ``inline literal text``;
-
-   standalone hyperlink, http://docutils.sourceforge.net;
-
-   named reference, reStructuredText_;
-   
-   `anonymous reference`__;
-   
-   footnote reference, [1]_;
-   
-   citation reference, [CIT2002]_;
-
-   |substitution|; _`inline internal target`.
 
 Direktiven
 =========================
-See <http://docutils.sf.net/docs/ref/rst/directives.html> for full info.
+
+Weitere Informationen: <http://docutils.sf.net/docs/ref/rst/directives.html>
 
 
 attention         
@@ -225,6 +400,9 @@ admonition
     .. danger:: 
 
         Das ist eine Gefahr! 
+
+Bilder
+======
 
 image             
     ``.. image:: /Pfad/zu/dem/Bild.*``
@@ -315,15 +493,14 @@ title
 
 
 
-Interpreted Text Role Quick Reference
+Weitere Kommandos ("Rollen")
 =====================================
-See <http://docutils.sf.net/docs/ref/rst/roles.html> for full info.
+
+Eine vollständige Auflistung findet sich unter <http://docutils.sf.net/docs/ref/rst/roles.html>.
 
 ================  ============================================================
 Role Name         Description
 ================  ============================================================
-emphasis          Equivalent to *emphasis*
-literal           Equivalent to ``literal`` but processes backslash escapes
 math              Mathematical notation (input in LaTeX format)
 PEP               Reference to a numbered Python Enhancement Proposal
 RFC               Reference to a numbered Internet Request For Comments
@@ -334,3 +511,7 @@ sup               Superscript
 title             Title reference (book, etc.); standard default role
 ================  ============================================================
 
+Escaping
+=========
+
+reStructuredText verwendet Backslashes ("\"), um die spezielle Bedeutung von Markup-Zeichen zu überschreiben und die Literalzeichen selbst abzurufen. Verwenden Sie einen Escape-Backslash ("\\"), um einen wörtlichen Backslash zu erhalten.

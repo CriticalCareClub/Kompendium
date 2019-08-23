@@ -1,12 +1,12 @@
 
 
-.. _thema-lungenembolie:
-.. _Thema-Pulmonalembolie:
-
 .. index::
     single: Pulmonalembolie
     single: PE
     single: Lungenembolie
+
+.. _thema-lungenembolie:
+.. _Thema-Pulmonalembolie:
 
 **************************
 Pulmonalembolie
@@ -122,7 +122,7 @@ ABCDE: Pulmonalembolie
 SAMPLER: Pulmonalembolie
 ========================
 
-.. siderbar:: SAMPLER
+.. sidebar:: SAMPLER
 
     **M**
         Thrombosespritzen
@@ -163,6 +163,7 @@ SAMPLER: Pulmonalembolie
 
 
 .. _m-lungenembolie:
+
 .. _m-Pulmonalembolie:
 
 Maßnahmen: Pulmonalembolie

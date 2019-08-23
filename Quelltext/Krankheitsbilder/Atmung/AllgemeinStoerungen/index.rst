@@ -57,7 +57,10 @@ die *CO₂-Abgabe* gestört und es kommt zu einer Anhäufung von CO₂ im
 Blut. In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
 (*Respiratorische Azidose*, :ref:`Thema-azidose-respiratorische`) kommen.
 
-.. list-table:: Title
+.. _Table-atemstoerungen-ursachen:
+.. _Tab-atemstoerungen-ursachen:
+
+.. list-table:: Ursachen von Atemstörungen
     :widths: 50 50
     :header-rows: 1
 

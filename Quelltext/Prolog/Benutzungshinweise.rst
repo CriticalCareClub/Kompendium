@@ -53,14 +53,14 @@ wie in der folgenden Tabelle gegliedert:
     *   -   3
         -   D
         -   Intermediate
-        -   .at Notfallsanitäter mit oder ohne Notfallkompetenz NKA; 
+        -   .at Notfallsanitäter mit oder ohne Notfallkompetenz NKA;
             *.de* Rettungssanitäter
     *   -   4
         -   E
         -   Advanced
         -   Ärzte, 
             diplomiertes Pflegepersonal; 
-            *.at* Notfallsanitäter mit Notfallkompetenz NKV oder NKI; 
+            *.at* Notfallsanitäter mit Notfallkompetenz NKV oder NKI;
             *.de* Notfallsanitäter, 
             Rettungsassistenten
     *   -   5

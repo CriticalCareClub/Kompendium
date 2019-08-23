@@ -92,16 +92,16 @@ Versionsgeschichte
         2016-03 (Vorabversion)
 
     3.0.0
-        2016-09 (Release, letztes Release als *AASS*)
-
-    4.0.0.gamma.1
-        2019-11 (geplant, Vorabversion *Plan P des CCCA*)
-
-    4.0.0.gamma.2
-        2020-01 (geplant, Vorabversion *Plan P des CCCA*)
+        2016-09 (Release)
 
     4.0.0
-        2020-03 (geplant, Release als *Plan P des CCCA*)
+        2020 (geplant, ERC-Leitlinien 2020)
+
+    5.0.0.gamma.1
+        2021-01 (geplant, Vorabversion *Kompendium des CCCA*)
+
+    5.0.0
+        2021-09 (geplant, Release als *Kompendium des CCCA*)
 
 Auszüge:
      

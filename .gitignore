@@ -6,7 +6,8 @@ _build
 */_build
 *#*
 .#*
-_extensions/__pycache__/*
+/Quelltext/_extensions/__pycache__
+*/__pycache__/*
 *.sav
 *.bak
 Import/

@@ -1,76 +1,20 @@
+
+.. index::
+    single: Ateminsuffizienz
+    single: Insuffizienz; Atem-
+    single: Dyspnoe
+    single: Apnoe
+    single: Bradypnoe
+    single: Tachypnoe
+
 ################
 Atmungsstörungen
 ################
 
 
-
-.. todo:: Code/Tabelle
-
-    [H]LLStörung des/der & Beispiele
-    O2-Angebotes &
-
-Niedriger Sauerstoffpartialdruck ("dünne Luft", z.B. Hochgebirge)
-
-Stickgase (Gärkeller (CO₂↑, O2↓); defekte Gastherme (CO))
-
-.. todo:: Code/Tabelle
-
-    Ertrinken
-    O2-Diffusion & Lungenödem
-
-Pneumonie
-
-.. todo:: Code/Tabelle
-
-    Pulmonalembolie
-    Atemmechanik & Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus, Glottisödem, Bolus)
-
-Verlegung der unteren Atemwege (Bronchitis, Asthma, Lungenödem,
-Atelektasen)
-
-Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes
-(Rippenfraktur, Pneumothorax, Pleuraerguß, Emphysem)
-
-Lagerung: Trendelenburglagerung, Verschüttung
-
-.. todo:: Code/Tabelle
-
-    Kapnoperitoneum
-    Neuromuskulären Atemregulation & SHT (Schädel Hirn Trauma)
-
-Insult
-
-Vergiftungen
-
-Tumore
-
-Hohe Querschnittslähmung oder hohe Spinalanästhesie
-
-Muskelerkrankungen
-
-Nervenerkrankung
-
-.. todo:: Code/Tabelle
-
-    Stoffwechselstörungen
-    Sonstige Regulationsstörung & Psychogen (z.B. Panikattacke)
-
--  Zyanose, Atemnot
-
--  Tachy-/Bradypnoe (AF <=8= / min oder >=30= / min )
-
--  Atemtiefe (flach, tief, Schnappatmung)
-
--  Path. Atemmuster
-
--  Paradoxe, fehlende Atmung
-
--  Sauerstoffsättigung
-
--  Auskultation: Belüftung, feuchte Rasselgaräusche, Spastik
-
--  Heimsauerstoff, Atemhilfen
-
+Störungen der Atmung können aus vielen Ursachen eintreten.
+:ref:`tab-atemstoerungen-ursachen` beschreibt die
+wichtigsten Pathomechanismen und Störungen.
 
 
 .. _Thema-AspirationFremdkoerper:
@@ -137,7 +81,6 @@ und Husten nicht möglich) .
 Lungenödem
 **********
 
-
 .. rubric:: Querverweise
 
 -  Lungenentzündung (Pneumonie): :ref:`Thema-pneumonie`
@@ -149,12 +92,18 @@ Lungenödem
 Allgemein: Störungen der Atemwege und der Atmung
 ************************************************
 
+.. sidebar:: Atemstörungen
 
-Einleitung
-==========
+    -   Ateminsuffizienz ... nicht ausreichende Atmung
+    -   Hypoxie ... O₂-Mangel
+    -   Atemstillstand (Apnoe)
+    -   Bradypnoe (zu langsam)
+    -   Tachypnoe (zu schnell)
+    -   Atemnot (Dyspnoe)
+
 
 Störungen der Atmung können aus vielen Ursachen eintreten.
-[Table-atemstoerungen-ursachen], beschreibt die wichtigsten
+:ref:`Table-atemstoerungen-ursachen`, beschreibt die wichtigsten
 Pathomechanismen und Störungen.
 
 Der Begriff :dfn:`Ateminsuffizienz` beschreibt allgemein
@@ -170,20 +119,15 @@ Oft führen Störungen außerhalb des Atemsystems
 zu einer Störung der Sauerstoffversorgung des Körpers und dadurch zu
 Atemnot.
 
--  Ateminsuffizienz … nicht ausreichende Atmung
-
--  Hypoxie … O2-Mangel
-
--  Atemstillstand (Apnoe)
-
--  Bradypnoe (zu langsam)
-
--  Tachypnoe (zu schnell)
-
--  Atemnot (Dyspnoe)
 
 Gefahr der Ateminsuffizienz
 ===========================
+
+.. sidebar:: Gefahr der Ateminsuffizienz
+
+    -   O₂-Gehalt im Blut ↓ (Hypoxie)
+    -   CO₂-Gehalt im Blut ↑
+    -   Respiratorische Azidose
 
 Bei einer Ateminsuffizienz sinkt der *O2-Gehalt* im Blut. Es kommt zu
 einer *Hypoxie* und in weiterer Folge zu einer Unterversorgung
@@ -192,51 +136,40 @@ die *CO₂-Abgabe* gestört und es kommt zu einer Anhäufung von CO₂ im
 Blut. In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
 (*Respiratorische Azidose*, :ref:`Thema-azidose-respiratorische`) kommen.
 
--  O2-Gehalt im Blut ↓ (Hypoxie)
+.. list-table:: Title
+    :widths: 50 50
+    :header-rows: 1
 
--  CO₂-Gehalt im Blut ↑
+    *   -   Störung des/der
+        -   Beispiele
+    *   -   O₂-Angebotes
+        -   -   Niedriger Sauerstoffpartialdruck ("dünne Luft", z.B. Hochgebirge)
+            -   Stickgase (Gärkeller (CO₂ ↑, O₂ ↓); defekte Gastherme (CO))
+            -   Ertrinken 
+    *   -   O2-Diffusion & 
+        -   -   Lungenödem
+            -   Pneumonie
+            -   Pulmonalembolie
+    *   -   Atemmechanik
+        -   -   Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus, Glottisödem, Bolus)
+            -   Verlegung der unteren Atemwege 
+                (Bronchitis, Asthma, Lungenödem, Atelektasen)
+            -   Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes
+                (Rippenfraktur, Pneumothorax, Pleuraerguß, Emphysem)
+            -   Lagerung: Trendelenburglagerung, Verschüttung
+            -   Kapnoperitoneum
+    *   -   Neuromuskulären Atemregulation
+        -   -   SHT (Schädel Hirn Trauma)
+            -   Insult
+            -   Vergiftungen
+            -   Tumore
+            -   Hohe Querschnittslähmung oder hohe Spinalanästhesie
+            -   Muskelerkrankungen
+            -   Nervenerkrankung
+            -   Stoffwechselstörungen
+    *   -   Sonstige Regulationsstörung
+        -   -   Psychogen (z.B. Panikattacke)
 
--  Respiratorische Azidose (:ref:`Thema-azidose-respiratorische`)
-
-!!! TABELLE WEIT Ursachen für Atemstörungen[Table-atemstoerungen-ursachen]
-
-| ll **Störung des/der** & **Vorkommen und Erkrankungen**
-| *O2-Angebotes* & Gärkeller (CO₂:math:`{\uparrow}`,
-  O2\ ↓)
-
-“dünne Luft” (z.B. Hochgebirge; niedriger Sauerstoffpartialdruck)
-
-Defekte Gastherme (:math:`{\uparrow}`, O2\ ↓)
-
-| Ertrinken
-| *O2-Diffusion* & Lungenödem
-
-Lungenentzündung
-
-| Lungenembolie
-| *Atemmechanik* & Verlegung der oberen Atemwege (Zunge, Erbrochenes,
-  Laryngospasmus, Glottisödem, Bolus)
-
-Verlegung der unteren Atemwege (Bronchitis, Asthma, Lungenödem)
-
-| Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes
-  (Rippenfraktur, Pneumothorax, Pleuraerguß, Emphysem)
-| *Neuromuskulären Atemregulation* & SHT (Schädel Hirn Trauma)
-
-Schlaganfall (Insult)
-
-Vergiftungen
-
-Tumore
-
-Hohe Querschnittslähmung (Rückenmark durchtrennt)
-
-Muskelerkrankungen
-
-Nervenerkrankung
-
-| Stoffwechselstörungen
-| *Sonstige Regulationsstörung* & Psychogen (z.B. Panikattacke)
 
 .. index::
    single: Atmung, paradoxe
@@ -245,8 +178,21 @@ Befunde
 =======
 
 
+.. sidebar:: Befunde
+
+    -   Zyanose, Atemnot
+    -   Tachy-/Bradypnoe (AF <8/min oder >30/min)
+    -   Atemtiefe (flach, tief, Schnappatmung)
+    -   Path. Atemmuster
+    -   Paradoxe, fehlende Atmung
+    -   Sauerstoffsättigung
+    -   Auskultation: Belüftung, feuchte Rasselgaräusche, Spastik
+    -   Heimsauerstoff, Atemhilfen
+    -   [Table-atmung-symptome]
+
+
 Atemstörungen können viele verschiedene Symptome verursachen.
-[Table-atmung-symptome], listet verschiedene Symptome auf. Neben
+:ref:`Table-atmung-symptome`, listet verschiedene Symptome auf. Neben
 technischen Geräten ist vor allem *sehen*, *hören*, *fühlen* und ein
 *aufmerksamer Blick* gefordert. Die Abgrenzung der Atemstörung zur
 Kreislaufstörung ist oft nicht einfach. Eine Störung des Kreislaufes hat
@@ -267,23 +213,6 @@ Die *Sauerstoffsättigung* kann vermindert oder hoch sein (Kohlenmonoxid,
 Hyperventilationssyndrom). Ebenso wichtig sind Umstände wie das
 Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
 
--  Zyanose, Atemnot
-
--  Tachy-/Bradypnoe (AF <8/min oder >30/min)
-
--  Atemtiefe (flach, tief, Schnappatmung)
-
--  Path. Atemmuster
-
--  Paradoxe, fehlende Atmung
-
--  Sauerstoffsättigung
-
--   Auskultation: Belüftung, feuchte Rasselgaräusche, Spastik
-
--  Heimsauerstoff, Atemhilfen
-
--  [Table-atmung-symptome]
 
 .. _Table-atmung-symptome:
 
@@ -337,10 +266,11 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
 Maßnahmen
 =========
 
+.. _m-atmung-insuffizient:
+.. _proc-MJ96091C:
+
 Insuffiziente Atmung
 --------------------
-
-[m:atmung-insuffizient] [proc:MJ96091C] 
 
 Anm.: AF <8 oder >30 / min, bzw. AZV zu niedrig
 
@@ -351,10 +281,11 @@ Anm.: AF <8 oder >30 / min, bzw. AZV zu niedrig
 -   Ursachenforschung
 
 
+.. _m-atemstillstand:
+.. _proc-MR09020B:
+
 Atemstillstand
 ---------------
-
-[m:atemstillstand] [proc:MR09020B]
 
 -  Reanimation
 

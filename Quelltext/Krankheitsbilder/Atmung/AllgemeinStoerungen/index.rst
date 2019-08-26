@@ -69,14 +69,14 @@ Blut. In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
     *   -   O₂-Angebotes
         -   -   Niedriger Sauerstoffpartialdruck ("dünne Luft", z.B. Hochgebirge)
             -   Stickgase (Gärkeller (CO₂ ↑, O₂ ↓); defekte Gastherme (CO))
-            -   Ertrinken 
-    *   -   O2-Diffusion & 
+            -   Ertrinken
+    *   -   O2-Diffusion &
         -   -   Lungenödem
             -   Pneumonie
             -   Pulmonalembolie
     *   -   Atemmechanik
         -   -   Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus, Glottisödem, Bolus)
-            -   Verlegung der unteren Atemwege 
+            -   Verlegung der unteren Atemwege
                 (Bronchitis, Asthma, Lungenödem, Atelektasen)
             -   Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes
                 (Rippenfraktur, Pneumothorax, Pleuraerguß, Emphysem)
@@ -92,7 +92,7 @@ Blut. In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
             -   Nervenerkrankung
             -   Stoffwechselstörungen
     *   -   Sonstige Regulationsstörung
-        -   -   Psychogen (z.B. Panikattacke)
+        -   -   Psychogen (z. B. Panikattacke)
 
 
 .. index::
@@ -105,7 +105,7 @@ Befunde
 .. sidebar:: Befunde
 
     -   Zyanose, Atemnot
-    -   Tachy-/Bradypnoe (AF <8/min oder >30/min)
+    -   Tachy-/Bradypnoe (AF < 8 / min oder > 30 / min)
     -   Atemtiefe (flach, tief, Schnappatmung)
     -   Path. Atemmuster
     -   Paradoxe, fehlende Atmung
@@ -196,7 +196,7 @@ Maßnahmen
 Insuffiziente Atmung
 --------------------
 
-Anm.: AF <8 oder >30 / min, bzw. AZV zu niedrig
+Anm.: AF < 8 oder > 30 / min, bzw. AZV zu niedrig
 
 **Vitale Bedrohung!**
 
@@ -220,5 +220,5 @@ Nur in sehr seltenen Fällen kann primär ein isolierter
 Atemstillstand ohne gleichzeitigem Kreislaufstillstand
 beobachtet werden. Auf diese Spezialfälle (z. B.
 Opiatintoxikation) wird hier nicht weiter eingegangen. Auch
-der iatrogene Atemstillstand (z. B. im Rahmen einer Narkose) wird an dieser Stelle nicht
-behandelt.
+der iatrogene Atemstillstand (z. B. im Rahmen einer Narkose)
+wird an dieser Stelle nicht behandelt.

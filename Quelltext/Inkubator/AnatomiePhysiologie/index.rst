@@ -5,6 +5,10 @@ Anatomie und Physiologie
 ###############################################
 
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 .. todo:: Literatur Aumüller et al. 2010)(Benninghof and Drenckhan 2008)(Leonhardt et al. 2003) (Lippert 2006)(Platzer 2003)(Waldeyer et al. 2003)
 

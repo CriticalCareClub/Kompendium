@@ -4,6 +4,10 @@
 Vitalwerte
 **********
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 .. sidebar:: Vitalwerte
 

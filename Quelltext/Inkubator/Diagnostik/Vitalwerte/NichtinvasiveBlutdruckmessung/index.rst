@@ -11,6 +11,10 @@ Nicht-invasive Messung des Blutdrucks
 ########################################################################
 
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 .. toctree::
 	:maxdepth: 1

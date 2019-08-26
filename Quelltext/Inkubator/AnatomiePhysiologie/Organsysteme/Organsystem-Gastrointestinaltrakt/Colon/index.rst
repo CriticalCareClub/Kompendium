@@ -3,6 +3,10 @@
 Colon (Dickdarm)
 ************************
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 .. sidebar:: Dickdarm
 	     
    -  T-Kreuzung

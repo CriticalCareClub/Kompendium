@@ -3,6 +3,10 @@
 Mundhöhle (GI-Trakt)
 --------------------
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 .. sidebar:: Mundhöhle
 
     -  Zähne: Nahrungszerkleinerung

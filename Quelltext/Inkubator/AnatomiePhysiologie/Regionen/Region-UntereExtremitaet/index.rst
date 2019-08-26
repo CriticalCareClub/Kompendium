@@ -4,6 +4,10 @@
 Der Beckengürtel und die untere Extremität
 ##########################################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 ****************
 Der Beckengürtel
 ****************

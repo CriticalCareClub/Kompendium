@@ -6,6 +6,10 @@
 Blutgefäße
 ================================================
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 Arten von Blutgefäßen
 ---------------------
 

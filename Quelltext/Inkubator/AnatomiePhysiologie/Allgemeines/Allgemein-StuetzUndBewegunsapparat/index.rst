@@ -3,6 +3,10 @@
 Der Stütz- und Bewegungsapparat: Allgemein
 ##########################################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 ************
 Beschreibung
 ************

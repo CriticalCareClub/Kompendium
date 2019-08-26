@@ -5,6 +5,12 @@ Thermische Schädigungen
 ####################################################
 
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
+
+
 :Maintainer:
     Sebastian Gabriel
 

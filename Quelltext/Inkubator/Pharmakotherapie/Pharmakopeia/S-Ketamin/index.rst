@@ -2,6 +2,10 @@
 Ketamin, S-
 -----------
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 .. Thema-: Spezialitäten
 
     Ketanest-S

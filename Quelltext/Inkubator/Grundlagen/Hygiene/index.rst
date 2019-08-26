@@ -3,6 +3,10 @@
 Hygiene
 #############
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 :Maintainer:
     Sebastian Gabriel

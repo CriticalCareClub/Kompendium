@@ -4,6 +4,10 @@
 *Spezielle Patientengruppe:* Kinder
 #########################################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 :Maintainer:
     Sebastian Gabriel
 

@@ -6,6 +6,10 @@
 Der Brustkorb
 =============
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 Beschreibung
 ------------
 

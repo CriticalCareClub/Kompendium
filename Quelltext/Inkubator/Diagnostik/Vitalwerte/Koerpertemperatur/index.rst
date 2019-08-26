@@ -10,6 +10,10 @@ Körpertemperatur
 ########################################################################
 
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 .. toctree::
 	:maxdepth: 1

@@ -1,6 +1,10 @@
 Terbutalin
 ==========
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 .. Thema-: Spezialitäten
 
     Bricanyl™ 0,5 mg / mL

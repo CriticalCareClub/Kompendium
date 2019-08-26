@@ -4,6 +4,10 @@
 Assistenztätigkeiten
 ##########################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 :Maintainer:
     Diverse

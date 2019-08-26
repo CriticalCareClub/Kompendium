@@ -2,6 +2,10 @@
 Funktionelle Systeme
 #####################################################################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 .. toctree::
     :maxdepth: 2
 

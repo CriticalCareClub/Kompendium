@@ -7,6 +7,10 @@
 Vitalfunktionen
 ***************
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 Überblick
 =========
 

@@ -6,6 +6,10 @@ Blutzuckermessung
 ########################################################################
 
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 .. toctree::
 	:maxdepth: 1

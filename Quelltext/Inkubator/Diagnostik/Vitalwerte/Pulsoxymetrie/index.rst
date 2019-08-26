@@ -13,6 +13,10 @@ Pulsoxymetrie
 ########################################################################
 
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 .. toctree::
 	:maxdepth: 1

@@ -4,6 +4,10 @@
 Stoffwechselstörungen
 ##################################################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 *Abkz.* metabolische Störungen.
 
 Die relevanteste Stoffwechselstörung im Rettungsdienst ist der !!!

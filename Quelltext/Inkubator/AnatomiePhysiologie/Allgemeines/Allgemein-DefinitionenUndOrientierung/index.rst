@@ -2,6 +2,10 @@
 Definitionen und Orientierung
 #############################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 Die Anatomie ist die Lehre vom Aufbau von Organismen. In der Medizin
 beschäftigt sich die Anatomie mit dem Aufbau, Struktur und Lagebeziehung
 von Körperteilen, Organen, Geweben und Zellen. Die Physiologie ist die

@@ -2,6 +2,10 @@
 Organsysteme
 #####################################################################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 .. toctree::
     :maxdepth: 2
 

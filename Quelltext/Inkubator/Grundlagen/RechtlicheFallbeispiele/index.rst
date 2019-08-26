@@ -6,6 +6,10 @@
 Rechtliche Fallbeispiele (.at): *"Ein langer Dienst"*
 ############################################################################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 Dieses Kapitel behandelt die allgemeinen und tätigkeitsspezifischen
 rechtlichen Grundlagen.
 

@@ -6,6 +6,10 @@
 Ösophagus
 -----------
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 .. sidebar:: Ösophagus
    

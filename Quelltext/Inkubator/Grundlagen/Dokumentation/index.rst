@@ -3,6 +3,10 @@
 Dokumentation
 ###################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 Die medizinische Dokumentation muss eine Geschichte erzählen. Eine
 Geschichte die ein Dritter, unbeteiligter, verstehen *muss*. Dieser
 unbeteiligte Dritte soll allein anhand der Schilderung in Ihrer

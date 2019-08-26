@@ -3,6 +3,10 @@
 Abdominale Störungen
 ##########################################################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 Der Bauch ist eine echte Herausforderung. Er beinhaltet viele
 unterschiedliche Organe und Strukturen welche weh tun und erkranken
 können. Viele dieser, oft auch mit starken Schmerzen verbundenen

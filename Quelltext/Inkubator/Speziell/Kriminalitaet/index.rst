@@ -4,6 +4,10 @@
 Opfer von Kriminalität, Misshandlung und Vernachlässigung
 ###############################################################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 :Maintainer:
     Sebastian Gabriel
 

@@ -5,6 +5,10 @@
 Grundlegende Pathomechanismen
 #############################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 Durch krankhafte Vorgänge kann es im Gewebe zu
 

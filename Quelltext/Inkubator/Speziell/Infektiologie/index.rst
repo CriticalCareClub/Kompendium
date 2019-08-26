@@ -4,6 +4,10 @@
 Infektions- und Entzündungskrankheiten
 ############################################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 :Maintainer:
     Sebastian Gabriel
 

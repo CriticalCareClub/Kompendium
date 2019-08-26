@@ -4,6 +4,10 @@
 Psychiatrie
 #################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 :Maintainer:
     Sebastian Gabriel
 

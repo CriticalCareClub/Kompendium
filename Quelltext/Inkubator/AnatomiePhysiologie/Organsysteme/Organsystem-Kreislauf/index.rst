@@ -7,6 +7,10 @@
 Der **Kreislauf**
 ************************************************************************
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 ..
     .. sidebar:: Kreislauf

@@ -6,6 +6,10 @@
 Exkurs: Leber und Gallenblase
 *****************************
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 *Term.* Hepar. Die Leber ist ein solides Organ und
 befindet sich im *rechten Oberbauch*. Sie hat einen linken und rechten
 Lappen. Sie ist die “Chemiefabrik” des Körpers: Sie produziert wichtige

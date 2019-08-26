@@ -8,6 +8,10 @@ Esmolol
 ########################################################################
 
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 .. Thema-: Spezialitäten
 

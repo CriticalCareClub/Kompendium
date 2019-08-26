@@ -1,6 +1,10 @@
 
 .. _Thema-Duodenum:
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 .. index::
     single: Duodenum
     single: Zwölffingerdarm

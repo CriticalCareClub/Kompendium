@@ -2,6 +2,14 @@
 Grundlagen (Inkubator)
 ##############################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 .. toctree::
     :maxdepth: 1
 

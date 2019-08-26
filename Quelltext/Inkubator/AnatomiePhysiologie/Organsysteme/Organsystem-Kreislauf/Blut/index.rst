@@ -8,6 +8,10 @@
 Das Blut hat viele Aufgaben
 ===========================
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 .. contents::
 
 Beschreibung

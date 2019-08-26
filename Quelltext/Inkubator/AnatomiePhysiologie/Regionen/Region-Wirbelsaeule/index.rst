@@ -2,6 +2,10 @@
 Die Wirbelsäule
 ===============
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 .. sidebar:: Wirbelsäule
 	     
     -   Doppelt S-förmig gekrümmtes Achsenskelett, ermöglicht aufrechten Gang

@@ -9,6 +9,10 @@
 Magen
 -----
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 :Synonym: Gaster, Ventriculus
 
 .. sidebar:: Magen

@@ -1,6 +1,10 @@
 Der strukturelle Aufbau des Organismus: Zelle, Gewebe, Organe, Organsysteme
 ===========================================================================
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 .. index::
     single: Zelle
 

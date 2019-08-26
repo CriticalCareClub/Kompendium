@@ -6,6 +6,10 @@ Der Stoffwechsel
 ***************************************
 
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 .. index::
     single: Insulin

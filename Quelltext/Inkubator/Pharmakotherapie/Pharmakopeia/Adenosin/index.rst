@@ -8,6 +8,10 @@ Adenosin
 ########################################################################
 
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 .. Thema-: Spezialitäten
 

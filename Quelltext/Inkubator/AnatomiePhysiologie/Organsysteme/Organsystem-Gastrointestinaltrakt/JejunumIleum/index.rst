@@ -5,6 +5,12 @@
 Jejunum und Ileum
 *****************
 
+
+.. attention::
+
+    |Text-InkubatorInhalt|
+
+
 .. sidebar:: Jejunum und Ileum
 
 	     -  Ca. 3m lang, Oberflächenvergrößerung durch Darmzotten

@@ -7,6 +7,10 @@ Der Gastrointestinaltrakt
 ##################################################
 
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 
 ************************************

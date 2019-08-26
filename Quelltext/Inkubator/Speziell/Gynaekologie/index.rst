@@ -4,6 +4,10 @@ Gynäkologie
 ###############################################################################
 
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 
 ********************************
 Betreuung in der Schwangerschaft

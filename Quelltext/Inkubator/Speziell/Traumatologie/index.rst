@@ -3,6 +3,10 @@
 Traumatologie
 ###################################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 Als :dfn:`Trauma` :index:`\ <! Trauma>` bezeichnet man eine
 
 #. Schädigung,

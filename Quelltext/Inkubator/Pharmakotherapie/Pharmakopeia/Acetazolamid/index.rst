@@ -12,6 +12,10 @@
 Acetazolamid
 ============
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 .. rubric:: Spezialitäten
 
 *Diamox®* 250 mg Tabletten; 500 mg Durchstechflaschen mit Pulver zur Herstellung einer Injektionslösung

@@ -3,6 +3,10 @@
 Urologische Erkrankungen
 #####################################################
 
+.. attention::
+
+    |Text-InkubatorInhalt|
+
 Erkrankungen des harnableitenden Systems.
 
 :Maintainer:

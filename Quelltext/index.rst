@@ -33,9 +33,9 @@ Kompendium des Critical Care Club Austria
     :caption: Inhalt
 
     Prolog/index.rst
-    1-Mal-1-DerMedizin/index.rst
     Grundlagen/index.rst
     StrukturiertePatientenbetreuung/index.rst
+    AirwayBreathing/index
     Reanimation/index.rst
     Speziell/index.rst
     Inkubator/index.rst

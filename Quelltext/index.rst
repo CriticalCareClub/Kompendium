@@ -29,20 +29,17 @@ Kompendium des Critical Care Club Austria
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Inhalt
+    :maxdepth: 2
+    :caption: Inhalt
 
-   Prolog/index.rst
-   1-Mal-1-DerMedizin/index.rst
-   Grundlagen/index.rst
-   AnatomiePhysiologie/index.rst
-   StrukturiertePatientenbetreuung/index.rst
-   Diagnostik/index.rst
-   Reanimation/index.rst
-   Krankheitsbilder/index.rst
-   Pharmakotherapie/index.rst
-   Inkubator/index.rst
-   Appendix/index.rst
+    Prolog/index.rst
+    Grundlagen/index.rst
+    StrukturiertePatientenbetreuung/index.rst
+    AirwayBreathing/index
+    Reanimation/index.rst
+    Speziell/index.rst
+    Inkubator/index.rst
+    Appendix/index.rst
 
 
 .. only:: html

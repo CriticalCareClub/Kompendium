@@ -47,6 +47,10 @@
 .. |Text-NotReleased| replace:: Achtung -- Entwicklungsversion! Dieses Dokument ist **nicht freigegeben** und laufenden Änderungen unterworfen. Es enthält ungesicherte Informationen und ist als **unzuverlässig** und **rein informativ** zu betrachten. Die unerlaubte Verbreitung ist untersagt!
 
 
+.. |Text-InkubatorInhalt| replace:: Diese Inhalte sind noch im **Inkubator-Stadium** und befinden sich noch nicht auf dem gewünschten fachlichen Niveau, bzw. sind unvollständig und bedürfen einer umfangreichen Überarbeitung. *Nur zur Ansicht oder zu Entwicklungszwecken!*
+
+
+
 
 
 .. |alpha|  unicode:: U+003B1 .. GREEK SMALL LETTER ALPHA

@@ -8,6 +8,8 @@ Airway
   :maxdepth: 2
 
   AirwayGrundlagen/index
-  AirwayDevices/index
-  Atemwegssicherung/index
+  EinfacheMassnahmen/index
+  GeringinvasiveMassnahmen/index
+  ErweiterteMassnahmen/index
+  ChirurgischeMassnahmen/index
 

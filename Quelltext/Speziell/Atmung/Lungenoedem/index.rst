@@ -68,7 +68,7 @@ ABCDE: Lungenödem
         Atemnot im Liegen schlechter
 
     **C**
-        HF :math:`\uparrow\downarrow`, RR :math:`\uparrow\downarrow`
+        HF ↓↓, RR ↓↓
 
         Evtl. kardiogener Schock
 

@@ -118,6 +118,16 @@ Derivate:
     Ernährungspädagogik
         0.4 (2012-11, basierend auf AASS 0.26)
 
+Versionsverwaltung (Git)
+    .. git_changelog::
+        :revisions: 1
+        
+    .. git_commit_detail::
+        :branch:
+        :commit:
+        :uncommitted:
+        :untracked:
+
 Siehe Abschnitt “Lizenzen”.
 
 Wie jede Wissenschaft ist die Medizin ständigen Entwicklungen

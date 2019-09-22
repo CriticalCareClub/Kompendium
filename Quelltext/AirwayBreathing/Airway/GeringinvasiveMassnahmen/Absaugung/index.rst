@@ -1,155 +1,14 @@
-
-#############################################
-Atemwegssicherung
-#############################################
-
-
-.. sidebar:: Atemwegssicherung
-
-  -  Gefahr:
-
-     -  Fremdkörper, Flüssigkeiten
-
-     -  Zurücksinken der Zunge
-
-  -  Maßnahmen:
-
-     -  Absaugung
-
-     -  Überstrecken des Kopfes
-
-     -  Anheben des *Kinns*
-
-     -  Esmarch-Handgriff
-
-     -  Stabile Seitenlage
-
-     -  Erweiterte Techniken
-
-Ein freier Atemweg ist lebenswichtig. Eine Gefährdung besteht vor allem
-durch:
-
--  Fremdkörper und Flüssigkeiten (Blut, Erbrochenes, …), Aspirationsgefahr
-
--  Zurücksinken der Zunge bei Bewusstseinsstörungen
-
-**************************
-Einfache Atemwegssicherung
-**************************
-
-Einfache Techniken zur einfachen Atemwegssicherung
-==================================================
-
-Sobald der Atemweg gefährdet ist oder eine Atemwegsverlegung bemerkt
-wird, müssen sofort Maßnahmen eingeleitet werden, die die Atemwege frei
-machen und frei halten sollen. Bei einer Verlegung der Atemwege durch
-Flüssigkeiten bietet sich die *Absaugung* an (:ref:`Thema-absaugung`). Um
-einer Verlegung durch ein Herabsinken der Zunge zu vermeiden gibt es
-folgende einfache Möglichkeiten (Charles D Deakin, Nolan, Soar, et al.
-2010):
-
--  *Überstrecken* des Kopfes
-
--  Vorschieben des Unterkiefers
-   und Anheben des *Kinns*
-   mittels *Esmarch-Handgriff*
-
--  *Stabile Seitenlage*
-
-Daneben gibt es erweitere Techniken, welche zur Atemwegssicherung
-verwendet werden können (Guedel-Tubus, Intubation, …).
-
-
-
-
-
-Kopf überstrecken, Kinn anheben
--------------------------------
-
-Zum *Überstrecken* des Kopfes und
-Anheben wird die Hand auf die Stirn des Patienten gelegt und der Kopf
-leicht überstreckt, dabei werden die Fingerspitzen der anderen Hand
-unterhalb des Kinns platziert und heben dieses leicht an.
-(Charles D Deakin, Nolan, Soar, et al. 2010)
-
-Esmarch-Handgriff
------------------
-
-.. sidebar:: Esmarch-Handgriff
-
-  -  Finger 2--5 am Kieferwinkel
-
-     → aufwärts, vorne
-
-  -  Daumen seitlich am Kinn
-
-     → sanfter Druck nach unten
-
-Der  *Esmarch-Handgriff* verstärkt den Effekt des Überstreckens des
-Kopfes.
-Der Helfer befindet sich hinter dem Kopf des Patienten und platziert seine Finger
-2--5 am Ende des Unterkiefers am Kieferwinkel und den Daumen
-am vorderen Bereich des Unterkiefers.
-Durch *auf-* und *vorwärtsgerichteten* Druck der Finger am
-Kieferwinkel kann der Unterkiefer nach oben und vorn geschoben
-werden, der Daumen öffnet durch *sanften Druck auf das Kinn*
-vorsichtig den Mund.
-
-
-Kinder
-------
-
-Bei Säuglingen und Kleinkindern kommt es infolge der anderen
-Anatomie zu einer Verlegung der Atemwege bei Überstreckung des
-Kopfes. Stattdessen muss der Kopf in Neutralposition gelagert
-werden.
-
-
-Stabile Seitenlage
-------------------
-
-Während die vorbeschriebenen Techniken einen prinzipiell
-durchgämgigen Atemweg gewährliesten sollen, ermöglicht die stabile
-Seitenlage eine einfache, wenn auch nicht absolut zuverlässige,
-Aspirationsprophylaxe.
-
-
-Erweiterte Techniken zur einfachen Atemwegssicherung
-====================================================
-
-.. rubric:: !Übersicht: Lage verschiedener Hilfsmittel zur Atemwegssicherung
-
-*Hirtler*\ [Figure-uebersicht-lage-atemwegshilfen]
-
-
-
-.. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.*
-
-            Position des Guedel-Tubus im Querschnitt
-
-.. figure:: /Bilder/HirtlerLena-Ccc/LageLarynxTubus.*
-
-            Im Vergleich: Lage eines Larynx-Tubus
-
-.. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.*
-
-            und eines endotrachealen Tubus.
-
-.. index::
-    single: Guedel-Tubus
-   
-
 .. _Thema-absaugung-taetigkeit:
 
 .. _Thema-absaugung:
 
 .. _Thema-absauggeraete:
    
-Absaugung
----------
 
-Einleitung
-^^^^^^^^^^
+########################################################################
+Absaugung
+########################################################################
+
 
 Das Absaugen der Atemwege ist eine wichtige Maßnahme zum Freihalten des
 Atemweges. Blut oder Schleim können dabei mittels eines Absauggerätes
@@ -373,5 +232,16 @@ der Schädelbasis nicht über die Nase abgesaugt werden!
   -  Brechreiz
 
 
+.. danger::
+
+    In der Rachenhinterwand verläuft der N. vagus, wird dieser gereizt,
+    kann es zu gefährlichen *Kreislaufstörungen* kommen.
+    Weiters kann es zu *Schleimhautverletzungen* und Blutungen kommen.
+    Ebenso kann ein *Brechreiz* ausgelöst werden,
+    wenn der Katheter zu tief eingeführt wird.
+    Bei Verdacht auf ein Schädel-Hirn-Trauma darf
+    aufgrund möglicher Verletzungen der Schädelbasis nicht über die Nase
+    abgesaugt werden!
+    Weiters besteht immer die Gefahr des Auslösens eines Laryngospasmus.
 
 

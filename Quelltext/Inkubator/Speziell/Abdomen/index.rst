@@ -618,7 +618,7 @@ entwässern.
 
    -  Verminderter Trinkantrieb
 
--  Flüssigkeitsverlust :math:`{\uparrow}`
+-  Flüssigkeitsverlust ↑
 
    -  Erbrechen, Durchfall
 

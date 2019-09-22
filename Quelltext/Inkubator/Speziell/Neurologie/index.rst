@@ -524,7 +524,7 @@ werden! Ebenso ist immer an *Vergiftungen* zu denken.
 Die Abgrenzung zu anderen neurologischen Erkrankungen ist ohne
 weitergehende Untersuchungen oft schwierig bzw. schwer möglich.
 
--  Blutzucker ↓, :math:`{\uparrow}`
+-  Blutzucker ↓, ↑
 
 -  Sonstige neurologische Erkrankung.
 

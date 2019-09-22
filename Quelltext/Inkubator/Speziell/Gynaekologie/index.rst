@@ -279,7 +279,7 @@ Symptome
 
     -   *E*\ dema (Ödeme)
     -   *P*\ roteinuria (Proteinurie)
-    -   *H*\ ypertonie (RR :math:`{\uparrow}`)
+    -   *H*\ ypertonie (RR ↑)
     -   HELLP: re. Oberbauchschmerz
     -   Drohende Eklampsie:
 
@@ -292,7 +292,7 @@ Die Präeklampsie ist charakterisiert durch:
 
 #.  *E*\ dema (Ödeme)
 #.  *P*\ roteinuria (Proteinurie = Eiweiß im Harn, Harn schäumt)
-#.  *H*\ ypertonie (RR :math:`{\uparrow}`)
+#.  *H*\ ypertonie (RR ↑)
 
     Ein Blutdruck > bei einer Schwangeren ist zu hoch!
 

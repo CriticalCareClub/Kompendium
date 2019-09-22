@@ -88,7 +88,7 @@ ABCDE
             ↑, Exspiratorisches Atemgeräusch (Stridor)
 
             Schwerer Anfall: Kein oder leises Atemgeräusch,
-            |symbol-RedFlag|\  SpO2 :math:`\downarrow\downarrow`
+            |symbol-RedFlag|\  SpO2 ↓↓
 
             Zeichen einer erschwerten Atemarbeit:
 

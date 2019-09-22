@@ -181,17 +181,19 @@
 
 .. -----
 
-.. attention::
+.. only:: html
 
-   |Text-NotReleased|
+    .. attention::
 
-.. centered:: Dieses Dokument ist **in Arbeit** und **nicht freigegeben!**\
+        |Text-NotReleased|
+
+    .. centered:: Dieses Dokument ist **in Arbeit** und **nicht freigegeben!**\
 
 
-Das vorliegende Werk ist im Entwicklungsstadium und nicht
-veröffentlicht. Alle Rechte vorbehalten.
+    Das vorliegende Werk ist im Entwicklungsstadium und nicht
+    veröffentlicht. Alle Rechte vorbehalten.
 
-Eine Verbreitung ist nicht gestattet.
+    Eine Verbreitung ist nicht gestattet.
 
 .. .. rubric:: Versionsverwaltung (Git)
 

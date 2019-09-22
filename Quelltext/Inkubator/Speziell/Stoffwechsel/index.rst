@@ -353,7 +353,7 @@ hier der Insulinbedarf steigt.
 
 -  Stress
 
--  Infektionen (Insulinbedarf :math:`{\uparrow}`)
+-  Infektionen (Insulinbedarf ↑)
 
 
 .. _Thema-diabetisches-koma:

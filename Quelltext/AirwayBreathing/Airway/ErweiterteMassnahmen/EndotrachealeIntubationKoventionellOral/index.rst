@@ -12,7 +12,7 @@ Konventionelle endotracheale Intubation (oral)
 
 
 
-Bei der endotrachealen Intubation wird ein
+Bei der :dfn:`endotrachealen Intubation` (:dfn:`ETI`) wird ein
 Beatmungsschlauch (*Tubus*) über den Mund (seltener über die Nase) durch
 den Rachen und den Kehlkopf in die Luftröhre eingeführt. Er ermöglicht
 die Beatmung des Patienten bei gleichzeitigem Freihalten des Atemweges
@@ -21,22 +21,18 @@ und bietet einen Aspirationsschutz.
 Material und Personal
 =====================
 
--  2 Helfer:
+-   2 Helfer:
 
-   -  *ActorA*\ AAssistenz
-
-   -  *ActorN*\ NDurchführender
+    -   Assistenz
+    -   Durchführender
 
 Material
 ========
 
 #. Beatmungsbeutel inkl. passender Beatmungsmaske, Bakterienfilter und
    Sauerstoffreservoir
-
 #. O₂-Berieselungseinheit und O₂-Line
-
 #. Evtl. Beatmungsgerät
-
 #. Absaugeinheit:
 
    **Keine Intubation ohne Absaugung!**
@@ -44,7 +40,6 @@ Material
 #. Laryngoskop, bestehend aus:
 
    #. Spatel: gebogen oder gerade; Größen 0–4
-
    #. Handgriff mit Batterien
 
       Es gibt Warm- und Kaltlichtlaryngoskope.
@@ -60,19 +55,12 @@ Material
       .. figure:: /Bilder/PallingerChristoph-Ccc/Testlunge_32902-AASS-0112mm.*
 
 #. (Endotracheal-)Tubus; verschiedene Größen
-
 #. Führungsdraht (*Mandrin*)
-
 #. Silikonspray
-
 #. Evtl. Magillzange
-
 #. Mit Luft gefüllte Spritze zum Cuffen (je nach Tubus, i. d. R. 10 ml)
-
 #. Stethoskop
-
 #. Beißschutz: Beißkeil oder Guedel-Tubus
-
 #. Fixationsmaterial (breite Heftpflaster, Mullbinde)
 
 
@@ -90,70 +78,61 @@ Vorbereitung
 
 #. *Präoxygenieren*:
 
-   -  Beim spontan atmenden Patienten:
-      Hochdosierte Sauerstoffgabe über O₂-Maske
-
-   -  Beim nicht-spontan-atmenden Patienten:
-      Je nach Situation evtl. Beatmung mittels Beatmungsbeutel [316]_
+    -   Beim spontan atmenden Patienten:
+        Hochdosierte Sauerstoffgabe über O₂-Maske
+    -   Beim nicht-spontan-atmenden Patienten:
+        Je nach Situation evtl. Beatmung mittels Beatmungsbeutel [316]_
 
 #. Festlegung von:
 
-   -  Spatelgröße
+    -   Spatelgröße
+    -   Tubusgröße (inkl. Backup)
 
-   -  Tubusgröße
+#.  *Funktionskontrolle*: Laryngoskop (Spatel und Griff) zusammenbauen,
+    Funktionskontrolle (Licht)
 
-   (inkl. Backup)
+    Ebenso müssen alle möglicherweise benötigten Spatel (zumindest
+    ± 1 Größe und die entsprechenden gebogenen bzw. geraden
+    Spatel) mit dem vorhandenen Laryngoskopgriff geprüft werden
+    (Lichtquelle bei Warmlichtgeräten, passende Verbindung bei
+    Kaltlichtgeräten)
+#.  Tubusverpackung aufschälen, Tubus aber in der Verpackung
+    belassen
+#.  *Cuff-Dichtigkeit* prüfen: testweise aufblasen
+#.  *Führungsdraht* (Mandrin) mit Silikonspray einsprühen
+    und einführen. Die Spitze muss bis zum Tubusende vorgeschoben
+    vorgeschoben werden, darf aber nicht herausragen.
+#.  *Cuff* mit Silikonspray einsprühen
+#.  *Beatmungsbeutel* zusammenbauen und an
+    O₂-Berieselungseinheit anschließen
+#.  *Stethoskop*: Funktion prüfen
+#.  *Absaugungebreitschaft* herstellen:
 
-#. *Funktionskontrolle*: Laryngoskop (Spatel und Griff) zusammenbauen,
-   Funktionskontrolle (Licht)
+    #.  Passenden Absaugkatheter auspacken, anstecken und sauber ablegen
+    #.  Gerät einschalten
+    #.  Funktionskontrolle: Saugstärke? Batteriewarnung?
+    #.  Absaugeinheit und Absaugkatheter muss in Griffweite des
+        Assistenten positioniert werden!
 
-   Ebenso müssen alle möglicherweise benötigten Spatel (zumindest
-   :math:`\pm` 1 Größe und die entsprechenden gebogenen bzw. geraden
-   Spatel) mit dem vorhandenen Laryngoskopgriff geprüft werden
-   (Lichtquelle bei Warmlichtgeräten, passende Verbindung bei
-   Kaltlichtgeräten)
-
-#. Tubusverpackung aufschälen, Tubus aber in der Verpackung
-   belassen
-
-#. *Cuff-Dichtigkeit* prüfen: testweise aufblasen
-
-#. *Führungsdraht* (Mandrin) mit Silikonspray einsprühen
-   und einführen. Die Spitze muss bis zum Tubusende vorgeschoben
-   vorgeschoben werden, darf aber nicht herausragen.
-
-#. *Cuff* mit Silikonspray einsprühen
-
-#. *Beatmungsbeutel* zusammenbauen und an
-   O₂-Berieselungseinheit anschließen
-
-#. *Stethoskop*: Funktion prüfen
-
-#. *Absaugungebreitschaft* herstellen:
-
-   #. Passenden Absaugkatheter auspacken, anstecken und sauber ablegen
-
-   #. Gerät einschalten
-
-   #. Funktionskontrolle: Saugstärke? Batteriewarnung?
-
-   #. Absaugeinheit und Absaugkatheter muss in Griffweite des
-      Assistenten positioniert werden!
-
-#. Restliches Material bereitlegen (z. B. in Nierentasse)
-
-#. *Material-Vollständigkeit* prüfen
-
-#. *Sauerstoffberieselung* einschalten und auf 15 L / min
-   einstellen, Reservoir des Beatmungsbeutels füllen
+#.  Restliches Material bereitlegen (z. B. in Nierentasse)
+#.  *Material-Vollständigkeit* prüfen
+#.  *Sauerstoffberieselung* einschalten und auf 15 L / min
+    einstellen, Reservoir des Beatmungsbeutels füllen
 
 Intubation
 ==========
 
 Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
+.. raw:: latex
+
+    \begin{ParWide}
+
 .. table::
     :class: longtable
+    :widths: 10 40 40
+
+
 
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
     | #      | **Assistenz**                                                                 | **Durchführender**                                    |
@@ -235,17 +214,19 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
     |        | Ggfs. Beatmungsgerät einstellen und anschließen                               |                                                       |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
 
+.. raw:: latex
 
+    \end{ParWide}
 
 .. [316]
-   Beim nicht-nüchternen nicht-spontan-atmenden Patienten soll eine
-   Beutelbeatmung nur wenn unbedingt notwendig durchgeführt werden 
-   (Rapid Sequence Induction, Schnelleinleitung). 
-   Bei der Reanimation entfällt die Präoxygenierung.
+    Beim nicht-nüchternen nicht-spontan-atmenden Patienten soll eine
+    Beutelbeatmung nur wenn unbedingt notwendig durchgeführt werden 
+    (Rapid Sequence Induction, Schnelleinleitung). 
+    Bei der Reanimation entfällt die Präoxygenierung.
 
 .. [317]
-   Es ist egal, ob der Durchführende Rechts- oder Linkshänder ist, 
-   das Laryngoskop wird *immer in der linken Hand* gehalten.
+    Es ist egal, ob der Durchführende Rechts- oder Linkshänder ist, 
+    das Laryngoskop wird *immer in der linken Hand* gehalten.
 
 
 .. subfigstart::

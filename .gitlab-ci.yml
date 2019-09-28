@@ -14,8 +14,7 @@ pages:
   - apk --no-cache add make
   - git checkout master
   - make html
-  - mkdir public
-  - echo "Job Done" > public/index.txt
+  - mv Export/master/html public
   artifacts:
     name: "$CI_JOB_NAME-$CI_COMMIT_REF_NAME"
     expire_in: 1 week

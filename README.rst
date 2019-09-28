@@ -1,8 +1,21 @@
-:orphan:
+#######################################################################
+README — Kompendium des CCCA
+#######################################################################
 
-*******
+
+
+***********************************************************************
+Kurzinfo
+***********************************************************************
+
+Die aktuelle Entwicklungsversion des ``master``-Zweiges findet sich
+unter:
+
+-   https://criticalcareclubaustria.gitlab.io/Ccca-Kompendium
+
+***********************************************************************
 Vorwort
-*******
+***********************************************************************
 
 Liebe Leserinnen und Leser!
 
@@ -10,7 +23,8 @@ Die Wurzeln dieses Werkes reichen zurück in das Jahr 2008.
 Damals entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
 Florisdorf-Donaustadt, 
 ausgehend von den Erfordernissen der Rettungssanitäter-Kurse, 
-die *"Arbeits- und Ausbildungsstandards für den Sanitätsdienst"* (*AASS*).
+die *"Arbeits- und Ausbildungsstandards für den Sanitätsdienst"*
+(*AASS*).
 Sie bildeten die Grundlage der Rettungssanitäter-Curricula 
 und konnten sich schon früh, etappenweise und
 unter kontrollierten Bedingungen eingeführt, als Lern- und
@@ -66,9 +80,9 @@ mit unserer Arbeit zu unterstützen.
 
 *Die Herausgeber*
 
-**************************************
+***********************************************************************
 Frequently asked questions (FAQs)
-**************************************
+***********************************************************************
 
 An wen wendet sich dieses Buch?
     Dieses Werk richtet sich an ärztliches und nicht-ärztliches medizinisches Fachpersonal, 
@@ -107,9 +121,9 @@ Für wen ist dieses Werk *nicht* gedacht?
 
 
 
-********************************************************
+***********************************************************************
 Offenlegung, Impressum, Nutzungsbedingungen und Hinweise
-********************************************************
+***********************************************************************
 
 Dieses Werk ist in Entwicklung und gegenwärtig nicht zur Veröffentlichung bestimmt!
 
@@ -281,9 +295,9 @@ Literaturverzeichnis
     single: Lizenz
 
 
-*****************
+***********************************************************************
 Lizenz des Werkes
-*****************
+***********************************************************************
 
 Das vorliegende Werk ist im Entwicklungsstadium und nicht
 veröffentlicht. Alle Rechte vorbehalten.

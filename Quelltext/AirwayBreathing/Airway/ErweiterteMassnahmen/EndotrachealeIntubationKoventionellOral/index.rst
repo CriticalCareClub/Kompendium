@@ -152,8 +152,15 @@ Intubation
 
 Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
+.. raw:: latex
+
+    \begin{ParWide}
+
 .. table::
     :class: longtable
+    :widths: 10 40 40
+
+
 
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
     | #      | **Assistenz**                                                                 | **Durchführender**                                    |
@@ -235,7 +242,9 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
     |        | Ggfs. Beatmungsgerät einstellen und anschließen                               |                                                       |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
 
+.. raw:: latex
 
+    \end{ParWide}
 
 .. [316]
    Beim nicht-nüchternen nicht-spontan-atmenden Patienten soll eine

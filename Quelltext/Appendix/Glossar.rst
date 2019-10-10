@@ -16,7 +16,7 @@ Glossar
         und Veränderungen der Gefäßen führt.
 
     Cave
-        *lat.* *“Hüte Dich vor …”*. Auch: “Achtung, gib Acht!”
+        *lat.* *"Hüte Dich vor …"*. Auch: “Achtung, gib Acht!”
 
     Computertomographie
     CT
@@ -178,4 +178,39 @@ Dieser Verweis führt ins Leere, das Thema wurde noch nicht integriert.
 
 
 
-    
+.. _thema-parasymapthikus:
+.. _thema-sht:
+.. _thema-alkalose-respiratorische:
+.. _thema-kapnometrie:
+.. _thema-sanitaeter-pflichten:
+.. _chp-jus:
+.. _thema-ptss:
+.. _thema-burn-out:
+.. _thema-belastung-psi:
+.. _thema-reizleitungssystem:
+.. _thema-reanimation-neugeborenes:
+.. _thema-airwaymanagement:
+.. _thema-azidose-respiratorische:
+.. _thema-pulsoxymetrie:
+.. _thema-saeure-basen-haushalt:
+.. _thema-koma-diabetisches:
+.. _thema-ischaemie:
+.. _thema-insult:
+.. _thema-mesenterialinfarkt:
+.. _thema-esmolol:
+.. _thema-adenosin:
+.. _thema-exsikkose:
+.. _thema-sepsis:
+.. _thema-depression:
+.. _thema-patientenverfuegung:
+.. _mr40001b:
+.. _thema-blutdruck:
+.. _mr40021b:
+
+***********************************************************************
+Verweis auf noch in Entwicklung befindliche Textabschnitte
+***********************************************************************
+
+Manche Themen und Bereiche befinden sich noch im *Inkubator-Stadium*
+und sind daher noch nicht Teil dieser Ausgabe.
+

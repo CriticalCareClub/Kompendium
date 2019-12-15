@@ -13,14 +13,15 @@
 Allgemein: Störungen der Atemwege und der Atmung
 ************************************************
 
-.. sidebar:: Atemstörungen
+..
+    .. sidebar:: Atemstörungen
 
-    -   Ateminsuffizienz ... nicht ausreichende Atmung
-    -   Hypoxie ... O₂-Mangel
-    -   Atemstillstand (Apnoe)
-    -   Bradypnoe (zu langsam)
-    -   Tachypnoe (zu schnell)
-    -   Atemnot (Dyspnoe)
+        -   Ateminsuffizienz ... nicht ausreichende Atmung
+        -   Hypoxie ... O₂-Mangel
+        -   Atemstillstand (Apnoe)
+        -   Bradypnoe (zu langsam)
+        -   Tachypnoe (zu schnell)
+        -   Atemnot (Dyspnoe)
 
 
 Störungen der Atmung können aus vielen Ursachen eintreten.
@@ -34,7 +35,7 @@ Der :dfn:`Atemstillstand` (:dfn:`Apnoe`) ist die extremste Form
 der Ateminsuffizenz.
 Störungen der Atemgeschwindigkeit werden als
 *Bradypnoe* (zu langsam) und als *Tachypnoe* (zu schnell) bezeichnet.
-Das wichtigste Leitsymptom von Atemstörungen ist die *Atemnot* 
+Das wichtigste Leitsymptom von Atemstörungen ist die *Atemnot*
 (:dfn:`Dyspnoe`).
 Oft führen Störungen außerhalb des Atemsystems
 zu einer Störung der Sauerstoffversorgung des Körpers und dadurch zu
@@ -44,11 +45,12 @@ Atemnot.
 Gefahr der Ateminsuffizienz
 ===========================
 
-.. sidebar:: Gefahr der Ateminsuffizienz
+..
+    .. sidebar:: Gefahr der Ateminsuffizienz
 
-    -   O₂-Gehalt im Blut ↓ (Hypoxie)
-    -   CO₂-Gehalt im Blut ↑
-    -   Respiratorische Azidose
+        -   O₂-Gehalt im Blut ↓ (Hypoxie)
+        -   CO₂-Gehalt im Blut ↑
+        -   Respiratorische Azidose
 
 Bei einer Ateminsuffizienz sinkt der *O2-Gehalt* im Blut. Es kommt zu
 einer *Hypoxie* und in weiterer Folge zu einer Unterversorgung
@@ -102,17 +104,18 @@ Befunde
 =======
 
 
-.. sidebar:: Befunde
+..
+    .. sidebar:: Befunde
 
-    -   Zyanose, Atemnot
-    -   Tachy-/Bradypnoe (AF < 8 / min oder > 30 / min)
-    -   Atemtiefe (flach, tief, Schnappatmung)
-    -   Path. Atemmuster
-    -   Paradoxe, fehlende Atmung
-    -   Sauerstoffsättigung
-    -   Auskultation: Belüftung, feuchte Rasselgaräusche, Spastik
-    -   Heimsauerstoff, Atemhilfen
-    -   [Table-atmung-symptome]
+        -   Zyanose, Atemnot
+        -   Tachy-/Bradypnoe (AF < 8 / min oder > 30 / min)
+        -   Atemtiefe (flach, tief, Schnappatmung)
+        -   Path. Atemmuster
+        -   Paradoxe, fehlende Atmung
+        -   Sauerstoffsättigung
+        -   Auskultation: Belüftung, feuchte Rasselgaräusche, Spastik
+        -   Heimsauerstoff, Atemhilfen
+        -   [Table-atmung-symptome]
 
 
 Atemstörungen können viele verschiedene Symptome verursachen.

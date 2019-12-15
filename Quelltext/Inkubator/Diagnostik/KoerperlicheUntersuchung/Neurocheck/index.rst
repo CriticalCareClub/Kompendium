@@ -13,8 +13,8 @@ Neurocheck
 
 .. toctree::
 	:maxdepth: 1
-	
-	
+
+
 
 Der Neurocheck ist eine überblickshafte neurologische Untersuchung.
 
@@ -41,16 +41,17 @@ Teile des Neurochecks werden während des Einschätzungsblockes
 Neurocheck
 ----------
 
-.. sidebar:: Neurocheck
+..
+    .. sidebar:: Neurocheck
 
-	-  	Bewusstseinslage
-	-  	Orientierung
-	-  	Pupillen
-	-  	Lichtscheue, Sehstörungen
-	-  	Kraftprobe
-	-  	Nackensteifigkeit
-	-  	Blutzuckermessung
-	-  	Hirndruckzeichen
+        -  	Bewusstseinslage
+        -  	Orientierung
+        -  	Pupillen
+        -  	Lichtscheue, Sehstörungen
+        -  	Kraftprobe
+        -  	Nackensteifigkeit
+        -  	Blutzuckermessung
+        -  	Hirndruckzeichen
 
 
 #. *Bewusstseinslage*: Für eine grobe Einschätzung ist folgende
@@ -109,7 +110,7 @@ Neurocheck
       Richtung Kopf zu heben.
 
 #. :dfn:`Nackensteifigkeit`:
-   Die Nackensteifogkeit ist ein *Meningismuszeichen* 
+   Die Nackensteifogkeit ist ein *Meningismuszeichen*
    :index:`\ <Meningismuszeichen!Nackensteifigkeit!Untersuchung>`.
    Der Patient liegt *flach* auf dem Rücken. Der Untersucher fasst den
    Kopf des Patienten und versucht das Kinn an die Brust zu führen. Es
@@ -148,7 +149,7 @@ Neurocheck
 
 
 .. [125]
-    Diese Einteilung entspricht weitgehend dem 
+    Diese Einteilung entspricht weitgehend dem
     *WASB*\ -Schema (*W*\ ach, Reaktion auf *A*\ nsprechen, auf
     *S*\ chmerzreiz, *b*\ ewusstlos)
 
@@ -159,19 +160,19 @@ durchgeführt.
 
 .. _Figure-anisokorie-bau:
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.jpg 
+.. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.jpg
     :width: 99%
 
     Ungleiche Pupillen (Anisokorie)
 
-    [Sebastian Gabriel, MfG]     
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/N-5/IMG_20150306_132141-01341px.jpg
     :width: 99%
 
     Enge Pupille
 
-    [Sebastian Gabriel, MfG]    
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro1.jpg
     :width: 99%
@@ -181,12 +182,12 @@ durchgeführt.
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.jpg
     :width: 99%
 
-    Kraftprobe an den Armen    
+    Kraftprobe an den Armen
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro3b.jpg
     :width: 99%
 
-    Kraftprobe an den Beinen    
+    Kraftprobe an den Beinen
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro4.jpg
     :width: 99%
@@ -196,16 +197,16 @@ durchgeführt.
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro5.jpg
     :width: 99%
 
-    Nackensteifigkeit   
+    Nackensteifigkeit
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.jpg
     :width: 99%
 
-    Blutzuckermessung    
+    Blutzuckermessung
 
 
 .. subfigend::
     :width: 0.3
     :label: Figure-BilderserieNeurocheck
 
-    Bilderserie: *Neurocheck* 
+    Bilderserie: *Neurocheck*

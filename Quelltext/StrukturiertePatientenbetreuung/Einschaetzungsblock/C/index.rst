@@ -7,15 +7,16 @@
 Einschätzung des Kreislaufs
 ===========================
 
-.. sidebar:: Einschätzung des Kreislaufs
+..
+  .. sidebar:: Einschätzung des Kreislaufs
 
-  -  Hautfarbe, -temperatur
+    -  Hautfarbe, -temperatur
 
-  -  Schweiß
+    -  Schweiß
 
-  -  Rekap-Zeit
+    -  Rekap-Zeit
 
-  -  Radialispuls
+    -  Radialispuls
 
 Die erste Einschätzung des Kreislaufes dauert nur wenige Sekunden. Durch
 die Beurteilung der *Hautfarbe* und *-temperatur*, des *Radialispulses*
@@ -31,36 +32,37 @@ Durchblutungsstörung\ [171]_ oder Zentralisierung hin.
    *Verlängerte Rekapzeit*: Unter “lokale Durchblutungsstörung” fallen
    auch in Folge von Kälte minderdurchblutete Extremitäten, also “kalte
    Finger”.
-   
+
 
 Herzleistung und Blutdruck
 ==========================
 
-.. sidebar:: Herzleistung und Blutdruck
-   
-  -  Herzfrequenz, Pulsfrequenz (HF, PF) 60--100 / min
+..
+  .. sidebar:: Herzleistung und Blutdruck
 
-     -  Bradykardie: HF ↓
+    -  Herzfrequenz, Pulsfrequenz (HF, PF) 60--100 / min
 
-     -  Tachkardie: HF ↑
+      -  Bradykardie: HF ↓
 
-  -  Blutdruck:
+      -  Tachkardie: HF ↑
 
-     -  Normbereich: zwischen und
+    -  Blutdruck:
 
-     -  Hypotonie: RR ↓
+      -  Normbereich: zwischen und
 
-     -  Hypertonie: RR ↑
+      -  Hypotonie: RR ↓
 
-  -  Bedenke:
+      -  Hypertonie: RR ↑
 
-     -  Zustand des Patienten
+    -  Bedenke:
 
-     -  Sonst üblicher Blutdruck
+      -  Zustand des Patienten
 
-     -  Verlauf
+      -  Sonst üblicher Blutdruck
 
-     -  Erregungszustand
+      -  Verlauf
+
+      -  Erregungszustand
 
 Das Herz schlägt beim Erwachsenen mit einer *Herzfrequenz* (*HF*, bzw.
 *Pulsfrequenz*, *PF*) von 60--100 / min (Schrader 2001;
@@ -70,7 +72,7 @@ gesteigert werden. Durch die Pumpfunktion des Herzens entsteht der
 arterielle *Blutdruck* (:ref:`Thema-blutdruck`).
 
 Beurteilung der Herzfrequenz
-                            
+
 
 Die Herzfrequenz ist alters- und belastungsabhängig. Bei der Beurteilung
 der Herzfrequenz muss daher immer an die Umstände (Ruhe, Belastung, …)
@@ -85,7 +87,7 @@ beziehen sich auf den Erwachsenen in Ruhe:
 -  Tachykardie: HF ↑
 
 Beurteilung des Blutdruckwerts
-                              
+
 
 Der Blutdruck ist ebenfalls alters- und belastungsabhängig. Bei der
 Beurteilung des Blutdrucks muss daher immer an die Umstände (Ruhe,
@@ -163,7 +165,7 @@ Bei der Interpretation des Wertes muss daher immer bedacht werden:
 .. table:: Übersicht altersabhängige Normalwerte: Systolischer Blutdruck und Herzfrequenz
 
   +----------------------+----------+----------------------------+---------------------+----------------------------+-------------------------+-------------------------+--------------------------+
-  |                      |          | **Neugeborenes**           | **Säugling**        | **Kleinkind**              | **Schulkind**           | **Jugendlicher**        | **Erwachsener**          | 
+  |                      |          | **Neugeborenes**           | **Säugling**        | **Kleinkind**              | **Schulkind**           | **Jugendlicher**        | **Erwachsener**          |
   +----------------------+----------+----------------------------+---------------------+----------------------------+-------------------------+-------------------------+--------------------------+
   | **RR**\ :sub:`sys`   | [mmHg]   | 75                         | 80--90              | 95                         | 100--110                | 120                     | 100--140                 |
   +----------------------+----------+----------------------------+---------------------+----------------------------+-------------------------+-------------------------+--------------------------+
@@ -175,24 +177,25 @@ Bei der Interpretation des Wertes muss daher immer bedacht werden:
 STU\* \| Schnelle Traumauntersuchung
 ====================================
 
-.. sidebar:: Schnelle Trauma-Untersuchung (STU)
-   
-  -  Inspektion und Abtasten von
+..
+  .. sidebar:: Schnelle Trauma-Untersuchung (STU)
 
-     #. *Kopf* inkl. Mund, Nase, Ohren,
+    -  Inspektion und Abtasten von
 
-     #. *Hals*,
+      #. *Kopf* inkl. Mund, Nase, Ohren,
 
-     #. *Thorax* (Atemprobe),
+      #. *Hals*,
 
-     #. *Bauch*,
+      #. *Thorax* (Atemprobe),
 
-     #. *Becken*,
+      #. *Bauch*,
 
-     #. *Oberschenkel*,
+      #. *Becken*,
 
-     #. *Rücken*
-      
+      #. *Oberschenkel*,
+
+      #. *Rücken*
+
 Liegt ein Verdacht auf ein Trauma vor, wird eine schnelle
 Traumauntersuchung (STU) durchgeführt\ [172]_.
 Ziel ist das Aufspüren von
@@ -207,7 +210,7 @@ besteht aus der Inspektion und dem Abtasten von
 #. *Thorax* (inkl. *Atemprobe*: Bei der Einatmung wird
    mit den flachen Händen gegen den Brustkorb gedrückt.
    Dadurch kann ein Hinweis auf eine mechanisch-bedingte
-   Atmungsstörung gewonnen werden, 
+   Atmungsstörung gewonnen werden,
    z. B. durch eine Serienrippenfraktur),
 
 #. *Bauch*,
@@ -247,23 +250,24 @@ Als Nebenbefund kann bei Verletzungen des Thorax eine mechanisch
 bedingte Atemstörung festgestellt werden (**B**-Befund).
 
 
-.. sidebar:: Befunde
-	     
-  -  Sichtbare Blutungen
+..
+  .. sidebar:: Befunde
 
-  -  Schockzeichen
+    -  Sichtbare Blutungen
 
-  -  Rhythmus (Tachy-/Bradykardie, Arrhythmie)
+    -  Schockzeichen
 
-  -  Blutdruckveränderungen
+    -  Rhythmus (Tachy-/Bradykardie, Arrhythmie)
 
-  -  STU:
+    -  Blutdruckveränderungen
 
-     -  Blutungsquellen
+    -  STU:
 
-     -  Verletzungen des ZNS (**D**-Befund)
+      -  Blutungsquellen
 
-     -  Mechanische Atemstörungen (**B**-Befund)
+      -  Verletzungen des ZNS (**D**-Befund)
+
+      -  Mechanische Atemstörungen (**B**-Befund)
 
 
 Typische Maßnahmen

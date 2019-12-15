@@ -1,5 +1,5 @@
 
-.. _Thema-mesenterium: 
+.. _Thema-mesenterium:
 
 *****************
 Jejunum und Ileum
@@ -29,7 +29,7 @@ Jejunum und Ileum
    single: Nährstoffaufnahme
    single: Mesenterium
    single: Darmgekröse
-   
+
 Das :dfn:`Jejunum` (*Leerdarm*) und :dfn:`Ileum`
 (*Krummdarm*) sind die zwei weiteren Teile des Dünndarmes. Ihre
 Gesamtlänge beträgt ca. 3m . Ihre Hauptaufgabe besteht in der weiteren
@@ -53,7 +53,7 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 .. figure:: /Bilder/WikipediaPd/Small_intestine.*
 
     Dünndarm
-        
+
     [WmCo/Mikael Häggström / PD]
 
 
@@ -66,21 +66,21 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 
     Der Bauchsitus mit aufgeklappter Bauchdecke (links = kopfwärts). Am Rand sieht man deutlich den Dickdarm, unter der Fettschürze zeichnen sich die Schlingen des Dünndarms ab. !!!
 
-    [Hirtler]
+    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Duenndarm-Mesenterium.*
     :width: 99%
 
     Schema: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.
 
-    [Hirtler]
+    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Bauchfilm_Image_022.*
     :width: 99%
 
     Foto: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.
 
-    [Hirtler]
+    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
     :width: 0.3

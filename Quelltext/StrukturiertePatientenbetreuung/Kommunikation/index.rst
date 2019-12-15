@@ -154,7 +154,7 @@ kontrollieren, ob und wie er die Botschaft verstanden hat.
 	    Das Sender-Empfänger-Modell
             [Blieberger et al. 1996; User:Wiska Bodo, original
             uploader Freak222 auf http://de.wikipedia.org,
-            modifiziertCC-BY-SA 3.0] 
+            modifiziertCC-BY-SA 3.0]
 
 Aussagen einer Nachricht
 ========================
@@ -226,25 +226,26 @@ Allgemeine Grundregeln und Ratschläge
 =====================================
 
 
-.. sidebar:: Allgemeine Grundregeln
-   
-    -  Vorstellen
+..
+    .. sidebar:: Allgemeine Grundregeln
 
-    -  auf Augenhöhe mit dem Patienten
+        -  Vorstellen
 
-    -  deutliche, einfache Sprache
+        -  auf Augenhöhe mit dem Patienten
 
-    -  aktives Zuhören
+        -  deutliche, einfache Sprache
 
-    -  Verstehen der Antworten
+        -  aktives Zuhören
 
-    -  nur eine Frage gleichzeitig
+        -  Verstehen der Antworten
 
-    -  Informieren über die Maßnahmen
+        -  nur eine Frage gleichzeitig
 
-    -  Aufrichtigkeit
+        -  Informieren über die Maßnahmen
 
-    -  Bezugsperson
+        -  Aufrichtigkeit
+
+        -  Bezugsperson
 
 Ein gut geführtes Patientengespräch ist durch folgende Merkmale
 gekennzeichnet:
@@ -303,20 +304,21 @@ gekennzeichnet:
    eingeschalten werden.
 
 
-   
+
 Fragentypen
 ===========
 
 
-.. sidebar:: Fragentypen
-             
-    -  Offene Fragen
+..
+    .. sidebar:: Fragentypen
 
-    -  Geschlossene Fragen
+        -  Offene Fragen
 
-    -  Gezielte Fragen
+        -  Geschlossene Fragen
 
-    -  Suggestivfragen
+        -  Gezielte Fragen
+
+        -  Suggestivfragen
 
 Grundsätzlich unterscheidet man *offene* und *geschlossene*, sowie
 *gezielte* Fragen und *Suggestivfragen*.
@@ -367,19 +369,20 @@ Kinder
 ======
 
 
-.. sidebar:: Kinder
-             
-    -  Aufrichtigkeit
+..
+    .. sidebar:: Kinder
 
-    -  Aufklärung
+        -  Aufrichtigkeit
 
-    -  Erklären
+        -  Aufklärung
 
-    -  Reden
+        -  Erklären
 
-    -  Bezugsperson
+        -  Reden
 
-    -  *Zeigen* lassen
+        -  Bezugsperson
+
+        -  *Zeigen* lassen
 
 Die Kommunikation mit Kindern kann besonders herausfordernd sein. Der
 Kontakt mit Einrichtungen des Gesundheitswesens, sei es in einer

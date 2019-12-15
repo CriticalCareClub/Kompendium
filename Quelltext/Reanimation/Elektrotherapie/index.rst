@@ -1,5 +1,5 @@
 
-.. index::   
+.. index::
     single: Kardioversion, elektrische
     single: Defibrilation
     pair: Reanimation; Elektrotherapie
@@ -10,16 +10,16 @@
 
 
 
-Das Herz ist die Pumpe des Blutkreislaufes und leistet eine beachtliche mechanische Arbeit, 
-welche über elektrische Reize koordiniert wird 
-(Reizleitungssystem, :ref:`Thema-reizleitungssystem`). 
+Das Herz ist die Pumpe des Blutkreislaufes und leistet eine beachtliche mechanische Arbeit,
+welche über elektrische Reize koordiniert wird
+(Reizleitungssystem, :ref:`Thema-reizleitungssystem`).
 Ohne diese
 elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und
-somit zum Kreislaufstillstand. 
-Oft ist eine Störung der elektrischen Herzaktivität 
-bzw. des elektischen Herzrhythmus die primäre Ursache des Kreislaufstillstands. 
-Spezielle Störungen des elektrischen Herzrhythmus kann man mittels *Defibrillation* 
-(Elektrotherapie mittels Elektroschock) behandeln,  und versuchen, 
+somit zum Kreislaufstillstand.
+Oft ist eine Störung der elektrischen Herzaktivität
+bzw. des elektischen Herzrhythmus die primäre Ursache des Kreislaufstillstands.
+Spezielle Störungen des elektrischen Herzrhythmus kann man mittels *Defibrillation*
+(Elektrotherapie mittels Elektroschock) behandeln,  und versuchen,
 damit einen normalen Rhythmus wiederherzustellen.
 
 
@@ -74,18 +74,19 @@ wiederherstellen.
 Defibrillatoren
 ---------------
 
-.. sidebar:: Defibrillatoren
+..
+    .. sidebar:: Defibrillatoren
 
-  - Halbautomatische Defibrillatoren (AED)
+    - Halbautomatische Defibrillatoren (AED)
 
-  - Manuelle Defibrillatoren
+    - Manuelle Defibrillatoren
 
-  - Automatische implantierbare Defibrillatoren
+    - Automatische implantierbare Defibrillatoren
 
 Geräte für die Defibrillation werden **Defibrillator**
 genannt. Es gibt folgende Gerätekategorien:
 
-Automatische und halbautomatische Defibrillatoren   
+Automatische und halbautomatische Defibrillatoren
    (:dfn:`AED`: :dfn:`Automatischer externer Defibrillator`;
    :dfn:`SAED`: :dfn:`Semi-automatischer externer Defibrillator`, “Halbautomat”):
    Das Gerät analysiert das EKG und beurteilt, ob ein Schock abgegeben
@@ -106,7 +107,7 @@ Manuelle Defibrillatoren
 
 Automatische implantierbare Defibrillatoren
    können Patienten operativ -- ähnlich einem Herzschrittmacher --
-   implantiert werden 
+   implantiert werden
    (*Abkz.* :dfn:`ICD`: :dfn:`Implantable Cardiac Device`).
    Diese geben automatisch einen Schock ab wenn sie eine defibrillationspflcihtige
    Rhythmusstörung erkennen.
@@ -130,28 +131,29 @@ bestimmte Situationen besser reagiert werden (Intubation, …).
 Elektrische Herzrhythmen
 ------------------------
 
-.. sidebar:: Herzrhythmen
+..
+    .. sidebar:: Herzrhythmen
 
-    -  schockbare Rhythmen
+        -  schockbare Rhythmen
 
-        -  Kammerflimmern
+            -  Kammerflimmern
 
-        -  pulslose ventrikuläre Tachykardie
+            -  pulslose ventrikuläre Tachykardie
 
-    -  nicht-schockbare Rhythmen
+        -  nicht-schockbare Rhythmen
 
-        -  Asystolie
+            -  Asystolie
 
-        -  pulslose elektrische Aktivität
+            -  pulslose elektrische Aktivität
 
 Die Defibrillation ist nicht bei jeder Herzrhythmusstörung
-sinnvoll. 
+sinnvoll.
 Man unterscheidet daher **schockbare** und **nicht-schockbare**
 Rhythmen:
 
 -  *Schockbare Rhythmen*
 
-    -   **Kammerflimmern** :index:`\ <Kammerflimmern>`: 
+    -   **Kammerflimmern** :index:`\ <Kammerflimmern>`:
         Unkoordnierte, “wirre” elektrische
         Aktivität
     -   **Pulslose Ventrikuläre Tachykardie**
@@ -164,9 +166,9 @@ Rhythmen:
     -   **Asystolie** :index:`\ <Asystolie>`: Keine Elektrische Aktivität
     -   **Pulslose elektrische Aktivität** :index:`\ <Pulslose
         elektrische Aktivität>`
-        (*PEA*): 
-        Darunter fallen sämtliche andere elektrische Herzrhythmen, 
-        bei welchen das Herz auf einen elektrischen Impuls 
+        (*PEA*):
+        Darunter fallen sämtliche andere elektrische Herzrhythmen,
+        bei welchen das Herz auf einen elektrischen Impuls
         nicht mit einer adäquaten mechanischen Reaktion antwortet,
         d. h. trotz elektrischer Herzaktivität kein Herzauswurf efolgt.
 
@@ -181,23 +183,23 @@ im Kapitel :ref:`Thema-herzrhythmusstoerungen`, genauer besprochen.
 Verwendung eines SAED
 ----------------------
 
-Grundsätzlich ist jedes Gerät 
+Grundsätzlich ist jedes Gerät
 gemäß der *Gebrauchsanweisungen* des Herstellers zu verwenden.
 Allgemein lässt sich jedoch sagen:
 
-#.  **Positionierung des Geäts**: 
+#.  **Positionierung des Geäts**:
     Das Gerät wird in unmittelbarer Reichweite zum Patienten und Helfer
-    positioniert, die Gerätetasche wird geöffnet. 
+    positioniert, die Gerätetasche wird geöffnet.
 #.  Gerät einschalten
 #.  Klebeelektroden:
-    Die Klebeelektroden sind Einmalprodukte und daher zusätzlich verpackt. 
+    Die Klebeelektroden sind Einmalprodukte und daher zusätzlich verpackt.
 
     #.  Öffnen der Verpackung:
         Nach Öffnen der Schutzhülle werden die Kabel der Elektroden an das Gerät angeschlossen.
-    #.  Elektroden anbringen: 
-        Elektroden von der Schutzfolie abziehen und *faltenfrei* auf den Patienten kleben. 
-        Ist die Schutzfolie einmal abgezogen darf die Elektrode nicht mehr abgelegt werden, 
-        da die Klebeschicht sonst verschmutzt und der Kontakt beeinträchtigt wird. 
+    #.  Elektroden anbringen:
+        Elektroden von der Schutzfolie abziehen und *faltenfrei* auf den Patienten kleben.
+        Ist die Schutzfolie einmal abgezogen darf die Elektrode nicht mehr abgelegt werden,
+        da die Klebeschicht sonst verschmutzt und der Kontakt beeinträchtigt wird.
 
         Ggf. müssen die Brusthaare des Patienten vor dem Aufkleben abrasiert werden.
         Ein Einmalrasierer ist i. d. R. in der Gerätetasche vorrätig.
@@ -210,32 +212,32 @@ Allgemein lässt sich jedoch sagen:
         Großteil des elektrischen Feldes zwischen den Elektroden durch das Herz
         läuft.
 #.  **Rhythmusanalyse**:
-    ``Analyse``\ -Taste drücken. 
+    ``Analyse``\ -Taste drücken.
     Die Analyse führt das Gerät nun selbständig durch.
     Es ertönt eine Warnung, z. B.
     *“Analyse läuft! Patienten nicht berühren!”*
-    Der Patient 
-    (oder elektrisch leitende Gegenstände (z. B. Metalle, Wasser), 
-    die mit dem Patienten in direktem Kontakt stehen) 
-    dürfen nicht berührt werden. 
+    Der Patient
+    (oder elektrisch leitende Gegenstände (z. B. Metalle, Wasser),
+    die mit dem Patienten in direktem Kontakt stehen)
+    dürfen nicht berührt werden.
 #.  **Nach der Analyse** wird den Helfern per Sprachausgabe mitgeteilt,
-    ob ein schockbarer oder ein nicht-schockbarer Rhythmus vorliegt. 
-    
-    -   *"Schock empfohlen"*: 
+    ob ein schockbarer oder ein nicht-schockbarer Rhythmus vorliegt.
+
+    -   *"Schock empfohlen"*:
 
         #.  Warnen der Umgebung: *"Achtung! Zurücktreten! Schockabgabe!"*
         #.  **Sicherungsblick**: Patient und Umgebung kontrollieren,
             Keiner darf den Patienten berühren!
-        #.  Mittels Betätigen der ``Schock``-Taste 
-            (oft rot, oder mittels Blitz-Symbols gekennzeichnet) 
+        #.  Mittels Betätigen der ``Schock``-Taste
+            (oft rot, oder mittels Blitz-Symbols gekennzeichnet)
             wird der Elektroschock ausgelöst werden.
             Achtung: Sicherungsblick muss bei Schockabgabe beibehalten werden!
-            
+
             Selbstverständlich darf auch während der
             Schockabgabe kein Kontakt zum Patienten besteht.
         #.  Herzdruckmassage fortführen.
 
-    -   *"Kein Schock empfohlen"*: 
+    -   *"Kein Schock empfohlen"*:
         Herzdruckmassage fortführen
 
 
@@ -294,29 +296,30 @@ Allgemein lässt sich jedoch sagen:
 Verwendung eines manuellen Defibrillators
 -----------------------------------------
 
-.. sidebar:: Defibrillator, Verwendung
+..
+    .. sidebar:: Defibrillator, Verwendung
 
-    -  Verwenden gem. Bedienungsanleitung!
+        -  Verwenden gem. Bedienungsanleitung!
 
-    -  Positionierung
+        -  Positionierung
 
-    -  Aufkleben der Elektroden
+        -  Aufkleben der Elektroden
 
-    -  Manueller Modus
+        -  Manueller Modus
 
-    -  Anaylse: Alle 2  min bzw. 5 Zyklen durch kompetenten und befugten Helfer
+        -  Anaylse: Alle 2  min bzw. 5 Zyklen durch kompetenten und befugten Helfer
 
-    -  Energieauswahl:
+        -  Energieauswahl:
 
-        - Erwachsene Maximum,
+            - Erwachsene Maximum,
 
-        - Kinder 4  J  /  kg
+            - Kinder 4  J  /  kg
 
-    -  Synchronisation (“Sync”): Bei Vorhandenen Kammerkomplexen
+        -  Synchronisation (“Sync”): Bei Vorhandenen Kammerkomplexen
 
-    -  Schockabgabe
+        -  Schockabgabe
 
-    -  Sicherheitshinweise
+        -  Sicherheitshinweise
 
 Grundsätzlich ist jedes Gerät so zu verwenden wie es der Hersteller in
 der *Bedienungsanleitung* vorschreibt.
@@ -325,7 +328,7 @@ Manuelle Defibrillatoren sind meist Bestandteil eines
 Multifunktionsgerätes, welches oft auch umfangreiche
 Überwachungsmöglichkeiten bietet.
 
-Therapieelektroden  
+Therapieelektroden
     Bei aktuellen Geräten werden für die Defibrillation **Klebeelektroden**
     für die Defibrillation eingesetzt, wie sie auch bei (S)AEDs zum
     Einsatz kommen. Alternativ, oder bei älteren Geräten auch
@@ -346,25 +349,25 @@ Therapieelektroden
     möglich erfolgen
     :cite:`Erc-2015-Section-03,Erc-2015-Sektion-03-De`\ .
 
-Manueller Modus   
+Manueller Modus
     Viele manuelle Defibrillatoren besitzen einen (S)AED-Modus, welcher
     oft bei Starten des Geräts automatisch aktiviert ist. Bei Bedienung
     durch Personal, welches das abgeleitete EKG interpretieren kann und
     darf, ist es sinnvoll, in den manuellen Modus zu schalten, um die
     Zeit für die Rhythmusanalyse möglichst kurz zu halten.
 
-Analyse   
+Analyse
     Die Analyse erfolgt im manuellen Modus durch einen kompetenten und
     dazu befugten Helfer zum gleichen Zeitpunkt wie im (S)AED-Modus,
     also alle 2 min bzw. 5 Zyklen.
 
-Auswahl der Energie   
+Auswahl der Energie
     Im manuellen Modus ist die Auswahl der abzugebenden Energie möglich.
     Bei Erwachsenen ist bei der Defibrillation der Maximalwert zu
     verwenden, dieser ist je nach Gerät und Impulsform unterschiedlich.
     Bei Kindern beträgt die Energie 4 J / kg Körpergewicht.
 
-Synchronisation   
+Synchronisation
     Bei vorhandenen Kammerkomplexen im EKG kann eine Schockabgabe zu
     bestimmten Zeiten des Herzzyklus (“vulnerable Phase”) Kammerflimmern
     ausgelöst werden. Um dies zu verhindern kann die Schockabgabe
@@ -377,7 +380,7 @@ Synchronisation
        Sync-Funktion aktiviert, kann das Gerät keine Kammerkomplexe
        erkennen und es erfolgt *keine* Schockabgabe!
 
-Schockabgabe   
+Schockabgabe
     Vor der Schockabgabe hat sich der Helfer zu versichern, dass die
     Umgebung und das Personal sicher ist und niemand den Patienten
     berührt. Er hat dies auch laut kundzutun:
@@ -402,38 +405,38 @@ Schockabgabe
 
 .. figure:: /Bilder/WikipediaCcBySa/Defib_electrode_placement.*
     :width: 99.9%
-    
+
     Anbringen der Klebeelektroden
 
     [WMC:Andersat, CC-BY-SA-3.0]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
     :width: 99.9%
-    
+
     Bei der Analyse und Schockabgabe darf niemand den Patienten berühren!
 
 .. figure:: /Bilder/WikipediaCcBySa/Semi_automatic_defi_with_electrodes.*
     :width: 99.9%
-    
+
     Automatisierter Externer Defibrillator (AED) mit
-    angeschlossenen Klebeelektroden für den 
+    angeschlossenen Klebeelektroden für den
     Einmalgebrauch
 
     [WMC:Hborkyb, CC-BY-SA-2.5-US]
 
 .. figure:: /Bilder/WikipediaPd/AED_Symbol.*
     :width: 99.9%
-    
+
     Hinweisschild “Defibrillator”
 
 .. subfigend::
     :width: 0.24
     :label: fsdgfergehrwthrwthtr
-            
-    Bilderserie: *Defibrillation*
-   
 
-.. caution:: 
+    Bilderserie: *Defibrillation*
+
+
+.. caution::
 
     -  **Fehlströme**: Der Defibrillator darf nicht in einer *nassen Umgebung*
        oder auf *Metallunterlagen* eingesetzt werden, da Wasser und die
@@ -483,5 +486,5 @@ Schockabgabe
 	    Ein Multifunktionsgerät mit integriertem Defibrillator
             (Corpuls:sup:`3`)
 
-            [Christoph Pallinger, MfG]
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 

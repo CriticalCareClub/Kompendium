@@ -9,21 +9,22 @@
 ``1`` Szeneüberblick und (Selbst-)Schutz
 ****************************************
 
-.. sidebar:: Szeneüberblick
+..
+    .. sidebar:: Szeneüberblick
 
-   -  Zufahrt, Gebäude
+    -  Zufahrt, Gebäude
 
-   -  Gefahren
+    -  Gefahren
 
-   -  Großschaden? Gefahrengut?
+    -  Großschaden? Gefahrengut?
 
-   -  Umstände, Situation, Umgebung, Ort, Zeit
+    -  Umstände, Situation, Umgebung, Ort, Zeit
 
-   -  Trauma? Unfallmechanismus?
+    -  Trauma? Unfallmechanismus?
 
-   -  Ggfs. Lagemeldung
+    -  Ggfs. Lagemeldung
 
-      
+
 Kernpunkte sind die Fragen:
 
 -  *Ist die Einsatzstelle sicher?*
@@ -59,24 +60,24 @@ gegeben werden.
             :width: 99%
 
 	    Absperrung (hier deutlich verbesserungswürdig) [Bild: Gabriel]
-	    
+
 .. figure:: /Bilder/Normsymbole/warntafel-un-60-1710.*
             :width: 99%
 
             Warntafel
-	    
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/imgp0722_00500.*
             :width: 99%
 
 	    Spezifische Gefahren erkennen
-   
+
 .. subfigend::
     :width: 0.31
     :label: Figure-BilderserieSzeneueberblick
 
     Bilderserie: Szeneüberblick
 
-	    
+
 Typische Maßnahmen
 ==================
 

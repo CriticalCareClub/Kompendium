@@ -6,16 +6,17 @@ Karten auf den Tisch!
 =====================
 
 
-.. sidebar:: Beurteilung ``=``
+..
+    .. sidebar:: Beurteilung ``=``
 
-    -  *Einschätzen der vitalen Bedrohung* ständig während des gesamten
-       Blocks
+        -  *Einschätzen der vitalen Bedrohung* ständig während des gesamten
+        Blocks
 
-    -  Vorläufige Verdachtsdiagnose formulieren
+        -  Vorläufige Verdachtsdiagnose formulieren
 
-    -  Alarmzeichen
+        -  Alarmzeichen
 
-    -  Hinweise auf mögliche Diagnosen
+        -  Hinweise auf mögliche Diagnosen
 
 Die *Einschätzung der vitalen Bedrohung* erfolgt *ständig* während des
 gesamten Einschätzungsblocks.
@@ -74,7 +75,7 @@ oder Fakten stoßen, welche auf eine vitale Bedrohung hinweisen.
 Sofortmaßnahmen müssen bei Bedarf sofort ergriffen werden
 =========================================================
 
-*Sofortmaßnahmen* 
+*Sofortmaßnahmen*
 müssen bei Bedarf sofort ergriffen werden und unterbrechen evtl. den
 Einschätzungsblock.
 Sie können jedoch auch von einer zweiten Person
@@ -153,6 +154,6 @@ und der Strategie.\ [175]_
    angemessenem Umfang” sind bewusst offen gewählt worden, da dies
    sowohl z. B. für den kritischen Bewusstlosen, als auch für den “munter
    vor sich hinplaudernden” KTW-Patienten gelten soll.
-   
+
 
 

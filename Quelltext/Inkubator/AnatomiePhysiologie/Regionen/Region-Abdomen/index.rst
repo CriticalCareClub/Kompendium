@@ -12,15 +12,16 @@ Sonstige Organe und Strukturen im Bauchraum
 Das Bauchfell
 =============
 
-.. sidebar:: Bauchfell (Peritoneum)
+..
+        .. sidebar:: Bauchfell (Peritoneum)
 
-   -  Auskleidung der gesamten Bauchhöhle
+        -  Auskleidung der gesamten Bauchhöhle
 
-   -  Dünner Überzug
+        -  Dünner Überzug
 
-   -  Bewegung der Organe
+        -  Bewegung der Organe
 
-   -  Schmerzempfindlich
+        -  Schmerzempfindlich
 
 .. index::
    single: Bauchfell
@@ -52,20 +53,21 @@ durchführen können.
         (grün), der Magen mit einem Teil der gelben Fettschürze
         “großes Netz”, sowie der Dickdarm und der Dünndarm
 ..
-        [Sebastian Gabriel, MfG]
+        Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 Die Milz
 ========
 
-.. sidebar:: Milz
+..
+        .. sidebar:: Milz
 
-   -  12cm, oval, im linken Oberbauch unter den Rippen gelegen
+        -  12cm, oval, im linken Oberbauch unter den Rippen gelegen
 
-   -  Von *Kapsel* umgeben
+        -  Von *Kapsel* umgeben
 
-   -  Teil des Immunsystems, entfernt alte rote Blutkörperchen
+        -  Teil des Immunsystems, entfernt alte rote Blutkörperchen
 
-   -  Gut durchblutet!
+        -  Gut durchblutet!
 
 .. index::
    single: Milz
@@ -97,14 +99,15 @@ Beschreibung
    single: Nephros
 
 
-.. sidebar:: Niere
-  -  Paarig angelegtes, bohnenförmiges Organ
+..
+        .. sidebar:: Niere
+        -  Paarig angelegtes, bohnenförmiges Organ
 
-  -  Rückenwärts bds. der Wirbelsäule, Höhe der unteren Rippenpaare
+        -  Rückenwärts bds. der Wirbelsäule, Höhe der unteren Rippenpaare
 
-  -  Ca. 10--12 cm lang
+        -  Ca. 10--12 cm lang
 
-  -  Stark durchblutet
+        -  Stark durchblutet
 
 Die :dfn:`Niere` ( *Ren*, *Nephros*) ist ein paarig
 angelegtes, bohnenförmiges Organ und befindet sich rückenwärts beidseits
@@ -135,19 +138,21 @@ den *Säure-Basen-Haushalt* im Körper (pH) sowie für den
 *Wasserhaushalt*. Außerdem bildet die Niere Hormone für die
 Blutdruckregulierung (Renin) und für die Blutbildung (*Erythropoetin*).
 
-.. sidebar:: Niere, Aufgaben
-	     
-  -  Stark durchblutet, empfindlich auf RR- Abfall →
 
-  -  reguliert
+..
+        .. sidebar:: Niere, Aufgaben
 
-     -  *Wasser-* und *Elektrolythaushalt*
+        -  Stark durchblutet, empfindlich auf RR- Abfall →
 
-     -  *Säure/Basen-Haushalt*
+        -  reguliert
 
-     -  Blutdruck
+        -  *Wasser-* und *Elektrolythaushalt*
 
-  -  Hormonproduktion
+        -  *Säure/Basen-Haushalt*
+
+        -  Blutdruck
+
+        -  Hormonproduktion
 
 Aufbau der Nieren
 -----------------
@@ -172,7 +177,7 @@ und Plasmawasser mit zahlreichen darin gelösten Stoffe in den
 Schleifenapparat abgepresst (ca. 150 L, Primärharn). Im
 Tubulus wandert das abgepresste Plasmawasser den Schleifenapparat
 entlang, dabei werden die meisten wichtigen Stoffe und der Großteil des
-Wassers zurückgeholt (rückresorbiert), sodass am Ende nur mehr 
+Wassers zurückgeholt (rückresorbiert), sodass am Ende nur mehr
 1,5--2 L Harn, welcher die nicht zurückgeholten
 ausscheidungspflichtigen Stoffe enthält, über das Nierenbecken und den
 Harnleiter in die Harnblasen abgeleitet werden. (Löffler and Petrides
@@ -193,23 +198,23 @@ Beschreibung
 ------------
 
 Der Harntrakt besteht aus den paarig angelegten Nieren mit den
-Nierenkelchen und den Nierenbecken, auf jeder Seite je ein 
-*Harnleiter* (Ureter), welcher ca. 30 cm lang ist und in die 
+Nierenkelchen und den Nierenbecken, auf jeder Seite je ein
+*Harnleiter* (Ureter), welcher ca. 30 cm lang ist und in die
 *Harnblase* mündet.
 Von der Blase leitet die *Harnröhre* (*Urethra*) den Harn in die
-Aussenwelt. 
+Aussenwelt.
 
 Die Harnröhre ist beim *Mann* ca. 25 cm lang und verläuft von der
 Harnblase durch die **Prostata** und den Penis und mündet an
 der Eichel in die Außenwelt.
 Bei einer Vergrößerung der Prostata kann der Harnabfluss bis zur
 Unpassierbarkeit erschwert sein (*Harnverhalt*,
-:ref:`Thema-harnverhalten`). 
+:ref:`Thema-harnverhalten`).
 
 Bei der *Frau* ist die Harnröhre mit ungefähr 4 cm *deutlich kürzer* als
 beim Mann und mündet oberhalb des Scheideneinganges.
 Durch die kürzeren Harnwege bei der Frau kann es leichter zu
-*Harnwegsinfektionen* kommen. 
+*Harnwegsinfektionen* kommen.
 
 -  Nieren inkl. Nierenbecken
 
@@ -234,7 +239,7 @@ Sie sind nicht an der Harnproduktion beteiligt.
 
 Die Hauptaufgabe der Nebennieren ist die *Hormonproduktion*.
 Man kann die Nebenniere im Querschnitt in Nebennierenrinde und -mark
-unterteilen. 
+unterteilen.
 In den jeweiligen Abschnitten werden jeweils verschiedene Hormone
 produziert. Die wichtigsten produzierten Hormone sind:
 

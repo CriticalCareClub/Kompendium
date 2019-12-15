@@ -43,42 +43,43 @@ beim kardialen Lungenödem kommt noch das begleitende Herzproblem dazu.
 ABCDE: Lungenödem
 =================
 
-.. sidebar:: 1234ABCDE
+..
+    .. sidebar:: 1234ABCDE
 
-    **…**
-        Beidseitige Beinödeme sind typisch.
+        **…**
+            Beidseitige Beinödeme sind typisch.
 
-    **1**
-        Umgebung sicher? Chemikalien? Warnschilder?
+        **1**
+            Umgebung sicher? Chemikalien? Warnschilder?
 
-    **2**
-        Sitzend, aufgetürmte Pölster
+        **2**
+            Sitzend, aufgetürmte Pölster
 
-    **4**
-        Atemnot
+        **4**
+            Atemnot
 
-    **A**
-        Evtl. schaumiger Auswurf
+        **A**
+            Evtl. schaumiger Auswurf
 
-    **B**
-        |symbol-RedFlag|\  Brodelndes Atemgeräusch
+        **B**
+            |symbol-RedFlag|\  Brodelndes Atemgeräusch
 
-        Atemnot (besonders im Liegen), evtl. |symbol-RedFlag|\  Zyanose
+            Atemnot (besonders im Liegen), evtl. |symbol-RedFlag|\  Zyanose
 
-        Atemnot im Liegen schlechter
+            Atemnot im Liegen schlechter
 
-    **C**
-        HF ↓↓, RR ↓↓
+        **C**
+            HF ↓↓, RR ↓↓
 
-        Evtl. kardiogener Schock
+            Evtl. kardiogener Schock
 
-    **=**
-        -  |symbol-RedFlag|\  Hörbares Lungenödem: **Lebensgefahr!**
+        **=**
+            -  |symbol-RedFlag|\  Hörbares Lungenödem: **Lebensgefahr!**
 
-        -  Leichte Form: Keine Alarmsymptome
+            -  Leichte Form: Keine Alarmsymptome
 
-    **…**
-        Beidseitige Beinödeme
+        **…**
+            Beidseitige Beinödeme
 
 **1**
     Toxisches Lungenödem: Besonders auf Umgebungssicherheit achten:
@@ -140,18 +141,19 @@ ABCDE: Lungenödem
 SAMPLER: Lungenödem
 ===================
 
-.. sidebar:: SAMPLER
+..
+    .. sidebar:: SAMPLER
 
-    **M**
-        Zahlreich
+        **M**
+            Zahlreich
 
-    **P**
-        Herz-Kreislauferkrankungen: Herzinsuffizienz, Z.n. Herzinfarkt,
-        Bluthochdruck, Herzklappenerkrankungen, …
+        **P**
+            Herz-Kreislauferkrankungen: Herzinsuffizienz, Z.n. Herzinfarkt,
+            Bluthochdruck, Herzklappenerkrankungen, …
 
-    **E**
-        Exposition? Ertrinkungsunfall? Erschwerender Faktor beim
-        vorbestehender Herzerkrankung (Infekt, …)?
+        **E**
+            Exposition? Ertrinkungsunfall? Erschwerender Faktor beim
+            vorbestehender Herzerkrankung (Infekt, …)?
 
 **M**
     Herzpatienten nehmen oft zahlreiche Medikamente ein (Blutdruck,
@@ -173,7 +175,7 @@ SAMPLER: Lungenödem
 Maßnahmen: Kardilaes Lungenödem, leicht
 =======================================
 
-.. todo:: 
+.. todo::
 
     Maßnahmen Lungenödem leicht: Anpassung an höherqualifiziertes Personal
 
@@ -183,8 +185,8 @@ Taktik
     Belastung minimieren, bestmögliches Monitoring
 
 Basismaßnahmen
-    -   Vitale Bedrohung beurteilen. 
-        |TxBeiVit|\ : 
+    -   Vitale Bedrohung beurteilen.
+        |TxBeiVit|\ :
         Behandlung wie schweres Lungenödem (:ref:`m-lungenoedem-schwer`)
     -   Lagerung: Oberkörper hoch
     -   Beengende Kleidung öffnen
@@ -205,21 +207,21 @@ Beatmungstherapie
 Maßnahmen: Kardiales Lungenödem, schwer
 =======================================
 
-.. todo:: 
+.. todo::
 
     Maßnahmen Lungenödem schwer: Anpassung an höherqualifiziertes Personal
 
 Taktik
     **Vitale Bedrohung!**
 
-    Belastung minimieren, 
-    rasche medikamentöse Therpie (veranlassen); 
+    Belastung minimieren,
+    rasche medikamentöse Therpie (veranlassen);
     ärztliche Therapie notwendig
 
 Basismaßnahmen
 -   |TxMassVitMK|
 
-    -   Lagerung: Oberkörper hoch, 
+    -   Lagerung: Oberkörper hoch,
         wenn möglich Beine herabhängen lassen
 
         Striktes Bewegungsverbot

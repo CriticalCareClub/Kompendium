@@ -84,15 +84,16 @@ sich verschiedene Begriffe eingebürgert:
 .. [161]
    z. B. dem Krankenhaus
 
-.. sidebar:: Diagnosen
-	     
-    -  Verdachtsdiagnose
+..
+    .. sidebar:: Diagnosen
 
-    -  Arbeitsdiagnose
+        -  Verdachtsdiagnose
 
-    -  Notfalldiagnose
+        -  Arbeitsdiagnose
 
-    -  Status post, Zustand nach
+        -  Notfalldiagnose
+
+        -  Status post, Zustand nach
 
 
 .. index::
@@ -111,7 +112,7 @@ zur weiteren Verarbeitung und Auswertung codiert,   die jeweilige
 Diagnose wird einem definierten Code zugeordnet.
 
 Ein weit verbreitetes System ist ist die *Internationale statistische
-Klassifikation der Krankheiten und verwandter Gesundheitsprobleme* 
+Klassifikation der Krankheiten und verwandter Gesundheitsprobleme*
 (:abbr:`ICD (*engl.* International Statistical Classification of Diseases and Related Health Problems)`),
 welche von der Weltgesundheitsorganisation
 (WHO) herausgegeben wird. Derzeit aktuell ist die Version 10 (:dfn:`ICD-10`).

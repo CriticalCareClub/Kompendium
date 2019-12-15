@@ -159,7 +159,7 @@ Brustwandableitungen
 Die *Brustwandableitungen* werden mittels sechs
 Elektroden abgeleitet und erlauben eine genauere Zuordnung von Störungen
 zu der jeweiligen Region des Herzens. Aus den Informationen der *sechs
-Elektroden* erzeugt das EKG-Gerät *sechs Ableitungen*: 
+Elektroden* erzeugt das EKG-Gerät *sechs Ableitungen*:
 V1—V6. Zu den Positionen der Elektroden siehe
 :ref:`Table-ekg-elektroden-position`. Die *richtige Positionierung* der
 EKG-Elektroden ist Voraussetzung um ein sinnvoll auswertbares und den
@@ -228,13 +228,13 @@ In der Praxis ergeben sich daraus zwei Anwendungsfälle:
 .. figure:: /Bilder/WikipediaPd/12_lead_generated_sinus_rhythm.*
 
     Unauffälliger 12-Kanal-EKG-Befund
-    
+
     [WMPD]
 
 .. figure:: /Bilder/WikipediaPd/ECGcolor_edited.*
 
     Extremitätenableitungen und Brustwandableitungen
-    
+
     [WmCo/Madhero88, PD]
 
 
@@ -259,5 +259,5 @@ Sowie: (Wells and Conover 2006; Goldberger 2012; Kühn 2002; Kühn 2003)
     Ein Multifunktionsgerät mit Monitor, nicht-invasiver Blutdruckmessung,
     Pulsoxymetrie 12-Kanal-EKG und integriertem Defibrillator mit
     SAED-Funktion (Corpuls:sup:`3`)
-    
-    [Christoph Pallinger, MfG] 
+
+    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`

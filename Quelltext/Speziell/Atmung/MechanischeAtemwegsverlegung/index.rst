@@ -9,22 +9,23 @@
 Mechanische Atemwegsverlegung
 *****************************
 
-.. sidebar:: Mechanische Atemwegsverlegung
+..
+    .. sidebar:: Mechanische Atemwegsverlegung
 
-    -   Verlegung durch Fremdkörper
-    -   Obere oder untere Atemwege möglich
-    -   Aspiration: untere Atemwege
-    -   Besonders gefährdet:
+        -   Verlegung durch Fremdkörper
+        -   Obere oder untere Atemwege möglich
+        -   Aspiration: untere Atemwege
+        -   Besonders gefährdet:
 
-        -   Kinder oder alte Personen
-        -   Bewusstseinsgetrübte/-lose Personen
-        -   Patienten mit Schluckstörungen
-        -   Allergiker
+            -   Kinder oder alte Personen
+            -   Bewusstseinsgetrübte/-lose Personen
+            -   Patienten mit Schluckstörungen
+            -   Allergiker
 
-    -   Schweregrad:
+        -   Schweregrad:
 
-        -   Milde Verlegung: *Kann Sprechen & Husten*
-        -   Schwere Verlegung: Sprechen oder effektiv husten nicht möglich
+            -   Milde Verlegung: *Kann Sprechen & Husten*
+            -   Schwere Verlegung: Sprechen oder effektiv husten nicht möglich
 
 
 
@@ -46,7 +47,7 @@ einem Bienenstich).
 
 Man unterscheidet zwischen einer *milden* (der
 Patient kann noch sprechen und husten) und einer *schweren
-Atemwegsverlegung* (Sprechen und Husten nicht möglich) 
+Atemwegsverlegung* (Sprechen und Husten nicht möglich)
 :cite:`Erc2005Sec2,Erc2005Sec6,Erc2005DeSec2,Erc2005DeSec6`.
 
 .. note::
@@ -55,7 +56,7 @@ Atemwegsverlegung* (Sprechen und Husten nicht möglich)
         und zu husten ist das wesentliche Kriterium
         um die Schwere einer Atemwegsverlegung einzuschätzen.
 
-       
+
 ABCDE
 =====
 
@@ -136,11 +137,11 @@ ABCDE
        hören (in-/exspiratorischer *Stridor*).
 
     -  *Schwere Verlegung*:
-       Bei einer schweren Verlegung der Atemwege ist der Patient 
+       Bei einer schweren Verlegung der Atemwege ist der Patient
        |symbol-RedFlag|\  *unfähig zu reden oder effektiv zu husten*.
        Eventuell kann er nur durch Nicken oder Gesten kommunizieren. In
        besonders schweren Fällen kann es zu einem
-       |symbol-RedFlag|\  *Atemstillstand* und nach kurzer Zeit zu einer 
+       |symbol-RedFlag|\  *Atemstillstand* und nach kurzer Zeit zu einer
        |symbol-RedFlag|\  *Bewusstlosigkeit*, gefolgt von einem
        *Kreislaufstillstand* kommen.
 
@@ -159,14 +160,15 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
 ==============================================================================
 
 
-.. sidebar:: Spezielle Techniken
+..
+    .. sidebar:: Spezielle Techniken
 
-    -   Schläge zwischen Schulterblätter
-    -   Heimlich-Manöver
+        -   Schläge zwischen Schulterblätter
+        -   Heimlich-Manöver
 
-        -   Kompression des Bauchraumes → Überdruck
-        -   Ansatzpunkt unterhalb des Rippenbogens, ruckartige Bewegung
-        -   **Verletzungsgefahr!**
+            -   Kompression des Bauchraumes → Überdruck
+            -   Ansatzpunkt unterhalb des Rippenbogens, ruckartige Bewegung
+            -   **Verletzungsgefahr!**
 
 
 -  *Schläge zwischen die Schulterblätter*: Durch kräftige Schläge auf den Rücken
@@ -207,7 +209,7 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
 
 .. _m-atemwegsverlegung:
 
-Maßnahmen 
+Maßnahmen
 =========
 
 .. role:: raw-latex(raw)

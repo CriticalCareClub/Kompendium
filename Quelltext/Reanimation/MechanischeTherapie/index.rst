@@ -9,7 +9,7 @@
 .. index::
     single: Herzdruckmassage
     single: HDM
-   
+
 Herzdruckmassage
 ================
 
@@ -22,23 +22,24 @@ Die *möglichst kontinuierliche* HDM ist neben einer kausalen Therapie
 die wichtigste Maßnahme im Rahmen der Reanimation mit sehr großem
 Einfluss auf das Pateinten-Outcome.
 
-.. sidebar:: HDM / Technik
+..
+    .. sidebar:: HDM / Technik
 
-    -   Druckpunkt: *Mitte* des Brustkorbes
-    -   Arm- und Körperhaltung
+        -   Druckpunkt: *Mitte* des Brustkorbes
+        -   Arm- und Körperhaltung
 
-        -   Handballen am Brustbein,
-        -   Finger verschränkt,
-        -   Arme durchgestreckt,
-        -   Schultern genau über dem Druckpunkt.
+            -   Handballen am Brustbein,
+            -   Finger verschränkt,
+            -   Arme durchgestreckt,
+            -   Schultern genau über dem Druckpunkt.
 
-    -   Druckerzeugung und Druckentlastung
+        -   Druckerzeugung und Druckentlastung
 
-        -   kräftig aber nicht ruckartig
-        -   Eindrücktiefe: 5—6 cm
-        -   vollständige Entlastung
+            -   kräftig aber nicht ruckartig
+            -   Eindrücktiefe: 5—6 cm
+            -   vollständige Entlastung
 
-    -   Frequenz: **100—120 / min**
+        -   Frequenz: **100—120 / min**
 
 
 Der Patient muss auf eine *harte Unterlage*
@@ -68,7 +69,7 @@ Brustkorbs ehe eine neuerliche Kompression beginnt.\ [143]_
 Die Kompressions- und Entlastungsphasen sollen in etwa gleich lange dauern und
 nicht ruckartig ablaufen :cite:`Erc2010Sec2`\ .
 Die *Zielfrequenz*  der Herzdruckmassage beträgt *100 / min* (bis
-max. 120 / min). 
+max. 120 / min).
 
 
 .. [143]
@@ -95,7 +96,7 @@ max. 120 / min).
             :width: 99.9%
 
             die Arme durchgestreckt
-            
+
             [Lena Hirtler, MfG]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-2.*
@@ -105,12 +106,12 @@ max. 120 / min).
             → Druck direkt auf Brustbein
 
             [Lena Hirtler, MfG]
-   
+
 .. subfigend::
     :width: 0.3
     :label: Fig-Hdm
 
-    Bilderserie: *Herzdruckmassage* 
+    Bilderserie: *Herzdruckmassage*
 
 Die Herzdruckmassage muss so rasch als möglich beginnen und so
 unterbrechungsfrei wie möglich durchgeführt werden.
@@ -131,12 +132,13 @@ bis wieder ein ausreichender Spontankreislauf einsetzt
 Fehlerquellen
 ----------------------
 
-.. sidebar:: Fehlerquellen
-   
-    -   Leerlauf
-    -   Keine feste Unterlage
-    -   Verletzungen durch falschen Druckpunkt oder falsche Druckrichtung
-    -   Ruckartige Bewegungen
+..
+    .. sidebar:: Fehlerquellen
+
+        -   Leerlauf
+        -   Keine feste Unterlage
+        -   Verletzungen durch falschen Druckpunkt oder falsche Druckrichtung
+        -   Ruckartige Bewegungen
 
 
 -  *Leerlauf*: Die HDM muss möglichst ohne vermeidbare Unterbrechungen
@@ -156,7 +158,7 @@ Fehlerquellen
    insbesonders wenn der Druck nicht direkt am korrekten Druck punkt von oben ausgeübt wird;
    die Schultern des Helfers müssen sich direkt über dem Brustbein des
    Patienten befinden.
-   
+
 -  Ruckartiger Druck: Zu kurze Auswurfphase
 
 
@@ -189,9 +191,9 @@ Extrakorporale Verfahren
 können mittels eines Gefäßzugangs,
 einer Pumpe und eines Oxygenators sowohl einen adäquaten Kreislauf,
 als auch eine adäquate Oxygenierung sicherstellen und somit die Funktion
-des Herzens und der Lunge übernehmen.  
+des Herzens und der Lunge übernehmen.
 Diese Technik ist sehr resourcenintensiv,
 sowohl was die eigentliche Technik, als auch Schulung und Verfügbarkeit
 des Personals anbelangt, und somit spezialisierten Zentren vorbehalten.
-Die Definition der Indikationen bzw. die Nutzen-Risiko-Kosten-Abschätzung 
-ist derzeit noch unklar, hierfür sind weitere Studien erforderlich 
+Die Definition der Indikationen bzw. die Nutzen-Risiko-Kosten-Abschätzung
+ist derzeit noch unklar, hierfür sind weitere Studien erforderlich

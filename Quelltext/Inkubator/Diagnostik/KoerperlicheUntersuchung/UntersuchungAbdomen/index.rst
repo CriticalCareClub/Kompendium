@@ -13,16 +13,17 @@ Untersuchung des Abdomens
 
 .. toctree::
 	:maxdepth: 1
-	
-	
-.. sidebar:: Untersuchung Abdomen
 
-	-  	Fremdkörper? Wunden?
-	-  	Schmerzen?
-	-  	Einteilung in 4 Quadranten
-	-  	Abtasten der 4 Quadranten, beginnen dort wo kein Schmerz
-	-  	harter oder weicher Bauch?
-	-  	Druck- oder Loslassschmerz?
+
+..
+	.. sidebar:: Untersuchung Abdomen
+
+		-  	Fremdkörper? Wunden?
+		-  	Schmerzen?
+		-  	Einteilung in 4 Quadranten
+		-  	Abtasten der 4 Quadranten, beginnen dort wo kein Schmerz
+		-  	harter oder weicher Bauch?
+		-  	Druck- oder Loslassschmerz?
 
 Das Abdomen kann man abtasten um
 die Anspannung der Bauchdecke und Schmerzen zu beurteilen und

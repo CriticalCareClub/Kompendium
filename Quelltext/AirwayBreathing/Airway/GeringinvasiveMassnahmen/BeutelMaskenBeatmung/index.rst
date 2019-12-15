@@ -4,7 +4,7 @@
 Beutel-Masken-Beatmung
 ########################################################################
 
-Dieser Abschnitt beschreibt die *Technik* der Beutel-Masken-Beatmung. 
+Dieser Abschnitt beschreibt die *Technik* der Beutel-Masken-Beatmung.
 Informationen zur manuellen Beatmung an sich finden sich unter
 :ref:`Thema-ManuelleBeatmung`.
 
@@ -21,7 +21,7 @@ zusammen mit einer Gesichts-Beatmungsmaske in der richtigen Größe verwendet.
    O₂-Verbindungsschlauch, Bakterienfilter, Beatmungsmaske und
    aufgestecktem PEEP-Ventil
 
-   [Ch. PallingerMfG]
+   Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 Betamungsbeutel / Bestandteile
 ------------------------------
@@ -75,7 +75,7 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 
             Eine *Beatmungs*\ maske.
 
-            [Ch. Pallinger]
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Mundstuecke_32723_v2-AASS-0112mm.jpg
             :width: 99.9%
@@ -84,7 +84,7 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
             3/4, 5. Die Farben der Masken haben keine besondere
             Bedeutung.
 
-            [Ch. Pallinger]
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
     :width: 0.45
@@ -118,11 +118,11 @@ Technik der Beutel-Masken-Beatmung
     -  ca. *500 ml* über 1sec
 
     -  Eigenfrequenz!
-       
+
 Bei der Beutel-Masken-Beatmung erfolgt die Beatmung mittels eines
 Beatmungsbeutels und einer Beatmungsmaske in geeigneter Größe, welche
 dicht sitzend angelegt wird. Der Kopf des Patienten wird
-*überstreckt*\  [137]_ und die Maske wird mittels 
+*überstreckt*\  [137]_ und die Maske wird mittels
 :dfn:`C-Griff` angelegt: Der Daumen und der Zeigefinger umschließen die
 Beatmungsmaske und bilden dabei die Form des Buchstaben “C”, die
 restlichen drei Finger heben das Kinn am Unterkiefer an.
@@ -159,13 +159,13 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
             Normalerweise wird bei der Überdruckbeatmung mit einem
             Beatmungsbeutel Luft in die Lunge gepumpt. Übersteigt der
             Druck den Öffnungsdruck der Speiseröhre (ca. 20  mbar),
-            wird Luft auch in den Magen gepumpt. 
-   
+            wird Luft auch in den Magen gepumpt.
+
 .. subfigend::
     :width: 0.3
     :label: Figure-Technik-Beutelmaskenbeatmung
 
-    Bilderserie: Die Technik der Beutel-Masken-Beatmung  [Hirtler, MfG]
+    Bilderserie: Die Technik der Beutel-Masken-Beatmung  Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
 
 
 

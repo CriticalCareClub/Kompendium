@@ -5,7 +5,7 @@
 
 
 Ziel der Oxygenierung ist die ausreichende Oxygenierung des Blutes und des Gewebes.
-Klassisch wird dies durch eine ausreichende 
+Klassisch wird dies durch eine ausreichende
 Belüftung (Ventilation) der (unteren) Atemwege versucht zu erreichen (Atemwegsmanagement).
 Dazu muss einerseits der
 Atemweg freigehalten werden und andererseits einer möglichen Aspiration
@@ -22,7 +22,7 @@ und Routine abhängig.
 .. index::
     pair: Reanimation; Beamtung
 
-**********************************************************************************   
+**********************************************************************************
 Beatmung allgemein
 **********************************************************************************
 
@@ -39,22 +39,23 @@ Häufig anzutreffen sind:
 -   Beatmung mittels supra-/extraglottischer Atemwegshilfsmittel
 -   Beatmung mittels endotrachealer Intubation
 
-.. sidebar:: Technik und Parameter
+..
+    .. sidebar:: Technik und Parameter
 
-    -   Sauerstoff und Beatmungshilfsmittel
-    -   Atemzugvolumen ca. 400—500 ml
-    -   Inspiration ca. 1 sec
-    -   Erfolglose Beatmungsversuche nicht wiederholen
-    -   Guedel-Tubus   
+        -   Sauerstoff und Beatmungshilfsmittel
+        -   Atemzugvolumen ca. 400—500 ml
+        -   Inspiration ca. 1 sec
+        -   Erfolglose Beatmungsversuche nicht wiederholen
+        -   Guedel-Tubus
 
 Ein normales  *Atemzugsvolumen* beträgt ca. **6--8 ml / kg
-Soll-Körpergewicht** (Richtwert: **400--500 mL**). 
+Soll-Körpergewicht** (Richtwert: **400--500 mL**).
 Dieser Wert soll auch bei der Beatmung
 angestrebt werden.
 Dazu wird der Beatmungsbeutel gleichmäßig zusammen
 gedrückt bis eine sichtbare Atembewegung vorhanden ist. Der
 *Beatmungsvorgang* soll in etwa *1 s* dauern :cite:`Erc2010Sek02De`\ .
-Die Frequenz gibt der Reanimationsalgorithmus vor. 
+Die Frequenz gibt der Reanimationsalgorithmus vor.
 
 Durch Verwendung eines Sauerstoffreservoirs und und einer
 ausreichenden Sauerstoffzufuhr (Richtwert: 10--15 L / min, oder
@@ -69,7 +70,7 @@ Dies ist im Rahmen der Reanimation, sofern technisch möglich, obligat!
 
 
 
-**********************************************************************************   
+**********************************************************************************
 Beutel-Masken-Beatmung (Reanimation)
 **********************************************************************************
 
@@ -87,33 +88,34 @@ Erfolglose Beatmungsversuche sollen nicht wiederholt werden.
 Gefahren
 ========
 
-.. sidebar:: Beutel-Maske / Gefahren
+..
+    .. sidebar:: Beutel-Maske / Gefahren
 
-    -   Atemzugsvolumen oder Beatmungsdruck ↑↑↑ → Luft in den Magen
-    -   Atemzugsvolumen ↓↓↓ → Totraumventilation
-    -   Leckage
-    -   mangelnde Atemwegssicherung
-    -   Atemexkursionen beobachten → deutliches Heben *und Senken*
+        -   Atemzugsvolumen oder Beatmungsdruck ↑↑↑ → Luft in den Magen
+        -   Atemzugsvolumen ↓↓↓ → Totraumventilation
+        -   Leckage
+        -   mangelnde Atemwegssicherung
+        -   Atemexkursionen beobachten → deutliches Heben *und Senken*
 
-Ein *zu hohes Atemzugsvolumen* 
-oder eine zu schnelle Beatmung 
-führent zu einem hohen Druck 
-in den obenren Atemwegen. 
-Ab einem Druck von ca 15—20 mbar öffnet sich der Ösophagus 
+Ein *zu hohes Atemzugsvolumen*
+oder eine zu schnelle Beatmung
+führent zu einem hohen Druck
+in den obenren Atemwegen.
+Ab einem Druck von ca 15—20 mbar öffnet sich der Ösophagus
 und es kommt, oft unbemerkt, zur Lufteinfuhr in den Magen.
-Das mangelhafte Freihalten der Atemwege, 
+Das mangelhafte Freihalten der Atemwege,
 z. B. durch eine ungenügende Überstreckung des Kopfes,
-fehlerhafte Anwenudng von Atemwegshilfsmitteln u. a., 
-bedingt oft erhöhte Beatmungsdrücke 
+fehlerhafte Anwenudng von Atemwegshilfsmitteln u. a.,
+bedingt oft erhöhte Beatmungsdrücke
 oder macht eine Ventilation überhaupt unmöglich.
-Bei einem *zu niedrigem Atemzugsvolumen* kann es zu einer 
-:ref:`Totraumventilation <Thema-Totraumventilation>` kommen. 
-Eine ungenügende Abdichtung der Beatmungsmaske am Gesicht führt zu einer *Leckage* 
-und kann zu einem niedrigen Atemzugsvolumen und einem PEEP-Verlust führen. 
-Insbesonders bei Bartträgern ist die Abdichtung der Atemmaske am Gesicht oft erschwert. 
-Eine *zu hohe Atemfrequenz* resultiert in einer Hyperventilation 
-und Hypokapnie (CO₂\ -Abfall) des Patienten 
-und folglich in einer Störung des Säure-Basenhaushalts. 
+Bei einem *zu niedrigem Atemzugsvolumen* kann es zu einer
+:ref:`Totraumventilation <Thema-Totraumventilation>` kommen.
+Eine ungenügende Abdichtung der Beatmungsmaske am Gesicht führt zu einer *Leckage*
+und kann zu einem niedrigen Atemzugsvolumen und einem PEEP-Verlust führen.
+Insbesonders bei Bartträgern ist die Abdichtung der Atemmaske am Gesicht oft erschwert.
+Eine *zu hohe Atemfrequenz* resultiert in einer Hyperventilation
+und Hypokapnie (CO₂\ -Abfall) des Patienten
+und folglich in einer Störung des Säure-Basenhaushalts.
 Die Qualität der Beatmung wird durch *Beobachtung der Atemexkursionen* des Brustkorbs überprüft,
 d. h. dieser muss sich deutlich heben und *senken*.
 
@@ -123,24 +125,25 @@ d. h. dieser muss sich deutlich heben und *senken*.
     pair: Reanimation; Intubation, endotracheale
 
 
-**********************************************************************************   
+**********************************************************************************
 Endotracheale Intubation (Reanimation)
 **********************************************************************************
 
 
-.. sidebar:: ETI
-   
-  - Tubus in Trachea
+..
+    .. sidebar:: ETI
 
-  - Laryngoskop
+    - Tubus in Trachea
 
-  - Kontrolle Tubuslage:
+    - Laryngoskop
 
-    - Visuelle Darstellung
+    - Kontrolle Tubuslage:
 
-    - Auskultation Magen, Lunge
+        - Visuelle Darstellung
 
-    - Kapnographie (CO₂)
+        - Auskultation Magen, Lunge
+
+        - Kapnographie (CO₂)
 
 
 :term:`ETI`
@@ -162,7 +165,7 @@ ermöglicht\ [323]_.
 .. index::
     single: Intubation; Kontrolle der Tubuslage
     single: Kapnographie; Kontrolle der Tubuslage
-   
+
 Kontrolle der Tubuslage
 =======================
 
@@ -186,8 +189,8 @@ des Tubus zu überprüfen:
     :align: right
 
     Endotracheale Intubation
-    [Michael Motal, MfG]
-    
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
+
 Es sollen immer *alle drei Möglichkeiten* angewendet werden. Es wird
 jedoch zunehmend ein größerer Wert auf die *Kapnographie* gelegt, um die
 Tubuslage zu kontrollieren, die CPR-Qualität abzuschätzen und eine
@@ -219,7 +222,7 @@ kommen.\ [324]_
 
 
 .. attention::
-   
+
     -  Die Kapnographie ist Voraussetzung für die endotracheale
        Intubation.
 
@@ -231,7 +234,7 @@ kommen.\ [324]_
             [Bild: Sebastian Gabriel]
 
 
-**********************************************************************************   
+**********************************************************************************
 Supraglottische Atemwegshilfsmittel (Reanimation)
 **********************************************************************************
 
@@ -239,7 +242,7 @@ Supraglottische Atemwegshilfsmittel (Reanimation)
 .. figure:: /Bilder/PallingerChristoph-Ccc/Laringstubus-32884-00441pt.*
     :align: right
     :width: 40%
-            
+
     Ein Larynxtubus
     [Bild: Christoph Pallinger, MfG]
 
@@ -251,10 +254,10 @@ klassischen endotrachealen Intubation an :cite:`Erc2010Sec4`.\ [326]_
 
 Bei den supraglottischen Atemwegshilfen endet allgmein der
 Beatmungsschenkel im Rachen beziehungsweise oberhalb des Kehldeckels
-(supraglottisch). 
+(supraglottisch).
 Es gibt verschiedene Produkte, welche
 dieses Ziel auf unterschiedliche Weise erreichen.
-Dazu gehören der Larynxtubus und die Larynxmaske. 
+Dazu gehören der Larynxtubus und die Larynxmaske.
 
 
 .. [325]
@@ -299,10 +302,10 @@ Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
 
 
 
-    
 
 
-**********************************************************************************   
+
+**********************************************************************************
 Die "richtige" Airway-Strategie im Rahmen der Reanimation
 **********************************************************************************
 
@@ -360,7 +363,7 @@ Die wichtigsten Ergebnisse dieser Studien sind:
 
 
 Es kommt hinzu, dass ein Vorteil für den Patienten durch die ETI *nicht*
-nachgewiesen ist: In 2008 fassten Nolan und Soar 
+nachgewiesen ist: In 2008 fassten Nolan und Soar
 zusammen, dass der Nutzen der ETI bei der präklinischen Reanimation
 nicht durch Studien gezeigt werden konnte, und dass einige sogar das
 Gegenteil erkennen ließen (*"Prehospital studies fail to show any
@@ -397,7 +400,7 @@ machen, wiegen dies jedoch durch ihre einfach und sichere Anwendung auf
 :cite:`Schalk2010,Wiese2009`\ .
 
 .. admonition:: Fazit
-                
+
     -  Wenn die erforderliche Routine und Sicherheit für die
        Durchführung einer ETI nicht gegeben ist und die Indikation für
        ein invasives Atemwegsmanagement besteht, sollen *in erster Linie

@@ -3,18 +3,19 @@
 ``3`` Bewusstsein (Alertness)
 *****************************
 
-.. sidebar:: Bewusstsein (Alertness)
+..
+  .. sidebar:: Bewusstsein (Alertness)
 
 
-    -  Vitalfunktion 1. Ordnung
+      -  Vitalfunktion 1. Ordnung
 
-    -  Überlebenswichtig
+      -  Überlebenswichtig
 
-    -  Beurteilung:
+      -  Beurteilung:
 
-        -  Bewusstseinsgrad (quantitativ)
+          -  Bewusstseinsgrad (quantitativ)
 
-        -  Orientierung (qualitativ) → **D**
+          -  Orientierung (qualitativ) → **D**
 
 *Bewusstsein ist ein Oberbegriff für u.a. Wachheit, Orientierung,
 Aufmerksamkeit, Auffassungsgabe, Denkverlauf und Merkfähigkeit
@@ -54,15 +55,16 @@ Bewusstseinsgrad
 ================
 
 
-.. sidebar:: Bewusstseinsgrade -- WASB
+..
+  .. sidebar:: Bewusstseinsgrade -- WASB
 
-   -  Wach *klar*
+    -  Wach *klar*
 
-   -  Ansprache *somnolent*
+    -  Ansprache *somnolent*
 
-   -  Schmerzreiz *soporös*
+    -  Schmerzreiz *soporös*
 
-   -  Bewusstlos *komatös*
+    -  Bewusstlos *komatös*
 
 
 
@@ -83,7 +85,7 @@ vgl. :ref:`Table-Wasb`.
 .. _Table-Wasb:
 
 .. table:: WASB
-	   
+
   +---------+--------------------------------+-----------------------+----------------------------------------------------------------+---------------------+
   | **W**   | *W*\ ach                       | *bewusstseinsklar*    | wach                                                           |                     |
   +---------+--------------------------------+-----------------------+----------------------------------------------------------------+---------------------+
@@ -96,7 +98,7 @@ vgl. :ref:`Table-Wasb`.
 
 .. _Table-Gcs-PAM:
 
-.. table:: GCS -- Glasgow Coma Scale für den Erwachsenen. 
+.. table:: GCS -- Glasgow Coma Scale für den Erwachsenen.
 
   +-------------------------+------------+--------------+-------------------------------+
   |                         | **Max.**   | **Punkte**   | **Reaktion**                  |
@@ -135,15 +137,16 @@ vgl. :ref:`Table-Wasb`.
 Bewusstseinskontrolle
 =====================
 
-.. sidebar:: Bewusstseinskontrolle
-	     
-  -  Ansprechen
+..
+  .. sidebar:: Bewusstseinskontrolle
 
-     -  Berühren
+    -  Ansprechen
 
-     -  Rütteln
+      -  Berühren
 
-  -  Schmerzreiz
+      -  Rütteln
+
+    -  Schmerzreiz
 
 Die Kontrolle des Bewusstseins und die Beurteilung der
 Bewusstseinsgrades erfolgt durch Ansprechen und ggfs. Setzen eines
@@ -171,27 +174,28 @@ Bewusstseinsstörungen
 =====================
 
 
-.. sidebar:: Bewusstseinsstörungen: Gefahren
+..
+  .. sidebar:: Bewusstseinsstörungen: Gefahren
 
-  -  Zurückfallen der Zunge
+    -  Zurückfallen der Zunge
 
-  -  Ausfall der Schutzreflexe
+    -  Ausfall der Schutzreflexe
 
-  -  Aspiration
+    -  Aspiration
 
-  -  Gefahr:
+    -  Gefahr:
 
-      -  Bewusstseinsstörungen können aufgrund des Ausfalls der
-         Schutzreflexe und des Zurückfallens der Zunge, sowie der
-         Unfähigkeit des Menschen, sich gegen Gefahren zu wehren,
-         *lebensgefährlich* sein!
-         
+        -  Bewusstseinsstörungen können aufgrund des Ausfalls der
+          Schutzreflexe und des Zurückfallens der Zunge, sowie der
+          Unfähigkeit des Menschen, sich gegen Gefahren zu wehren,
+          *lebensgefährlich* sein!
+
 **Als Bewusstseinsstörungen bezeichnet
 man insbesonders Störungen der Wachheit und der Orientierung.**
 
 Das Bewusstsein ist wesentlich an der *Abwehr von Gefahren* beteiligt. Je
 mehr das Bewusstsein gestört oder reduziert ist, desto gefährlicher für
-den Patienten. 
+den Patienten.
 Ab einem gewissen Punkt können auch so wesentliche Funktionen wie der
 *Schluck-*, *Würge-* bzw. *Hustenreflex* ausfallen
 (Ausfall der ":dfn:`Schutzrefelexe`),

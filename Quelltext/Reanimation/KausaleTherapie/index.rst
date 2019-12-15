@@ -20,8 +20,8 @@ Kausale Therapie: Reversible Ursachen
 4 H + HITS
 ----------
 
-.. sidebar:: 4 H + HITS
-   
+.. admonition:: 4 H + HITS
+
   -  **H**\ ypoxie
 
   -  **H**\ ypovolämie

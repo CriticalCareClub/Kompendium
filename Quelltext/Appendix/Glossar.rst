@@ -16,7 +16,7 @@ Glossar
         und Veränderungen der Gefäßen führt.
 
     Cave
-        *lat.* *“Hüte Dich vor …”*. Auch: “Achtung, gib Acht!”
+        *lat.* *"Hüte Dich vor …"*. Auch: “Achtung, gib Acht!”
 
     Computertomographie
     CT
@@ -51,7 +51,7 @@ Glossar
         Sicherheit der Anwendung.
 
     FMC
-        First Medical Contact    
+        First Medical Contact
 
     Gestosen
         Oberbegriff für durch die Schwangerschaft bedingte Erkrankungen. Man
@@ -64,27 +64,33 @@ Glossar
         die EPH-Gestose bzw. Präekplampsie,
         die Eklampsie und das HELLP-Syndrom.
 
+    intermittieren
+        zeitweilig aussetzen,
+        vorübergehend ausbleiben,
+        aussetzen,
+        mit Unterbrechung wiederkehren
+
     Kapnographie
     Kapnometrie
-        Die Kapnometrie ist die Messung des *Kohlendioxid* (CO₂), 
+        Die Kapnometrie ist die Messung des *Kohlendioxid* (CO₂),
         welche in der Regel im Exspirationsschnekel durchgeführt wird.
-        Als nummerischer Wert bei der quantitaviven Messung wird die 
-        maximale Konzentration am Ende der Exspiration (= endtidal) 
-        angegeben 
-        (*"endtidaler Kohlendioxid-Partialdruck"* **etCO₂**, 
-        Angabe als Partialdruck in mm Hg oder kP, 
+        Als nummerischer Wert bei der quantitaviven Messung wird die
+        maximale Konzentration am Ende der Exspiration (= endtidal)
+        angegeben
+        (*"endtidaler Kohlendioxid-Partialdruck"* **etCO₂**,
+        Angabe als Partialdruck in mm Hg oder kP,
         alternativ als Konzentration in Vol.%).
 
         Die Kapno\ *graphie* ist die graphische Darstellung einer CO₂-Konzetrationskurve
-        über die Zeit 
+        über die Zeit
         und ermöglicht somit die Beurteilung des Verlaufs im Atemzyklus.
-        Dies erlaubt Rückschlüsse auf bestimmte Störungen 
+        Dies erlaubt Rückschlüsse auf bestimmte Störungen
         (Spastik, Mitatmen des Patienten etc.)
 
         Siehe :ref:`Thema-Kapnometrie`
 
 
-      
+
 
     Koronarangiographie
         Interventionelle röntgengestützte
@@ -112,20 +118,20 @@ Glossar
         (*DES*, *Drug Eluting Stent*) Stents.
 
         .. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
-                    
+
             Das Herz mit seinen Koronargefäßen
-            [Hirtler, MfG]
-            
+            Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
+
         .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
 
             Darstellung der Herzkranzgefäße während einer
             Herzkatheteruntersuchung
             [WmCo “Bionerd”, CC-BY-3.0]
-          
+
         .. figure:: /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.*
 
             Die Koronargefäße versorgen den Herzmuskel von außen nach
-            innen. [Patrick J. Lynch, CC-BY-2.5] 
+            innen. [Patrick J. Lynch, CC-BY-2.5]
 
 
     Kontrastmittel
@@ -140,11 +146,11 @@ Glossar
         oder Hitzegefühl sowie ein metallischer Geschmack.
 
     NSTEMI
-        Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt. 
+        Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt.
         Siehe auch: :ref:`Thema-AkutesKoronarsyndrom`.
 
     STEMI
-        ST-Elevation Myocardial Infacrtion; ST-Hebungsinfarkt. 
+        ST-Elevation Myocardial Infacrtion; ST-Hebungsinfarkt.
         Siehe auch: :ref:`Thema-AkutesKoronarsyndrom`.
 
 
@@ -162,6 +168,24 @@ Glossar
     \end{multicols}
     \end{ParWide}
 
+********
+Lizenzen
+********
+
+.. glossary::
+
+    Lizenz: CC BY-SA 3.0 unported
+        Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+
+        -   https://creativecommons.org/licenses/by-sa/3.0/deed.en
+        -   https://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+    Lizenz: MfG
+        Mit freundlicher Genehmigung
+
+        Vom Rechteinhaber wurde die Verwendung in diesem Projekt erlaubt.
+        Eine Verwendung ausserhalb dieses Projekts ist nicht gestattet.
+
 .. _thema-gefahrengutunfall:
 .. _thema-leberzirrhose:
 .. _thema-adr:
@@ -178,4 +202,39 @@ Dieser Verweis führt ins Leere, das Thema wurde noch nicht integriert.
 
 
 
-    
+.. _thema-parasymapthikus:
+.. _thema-sht:
+.. _thema-alkalose-respiratorische:
+.. _thema-kapnometrie:
+.. _thema-sanitaeter-pflichten:
+.. _chp-jus:
+.. _thema-ptss:
+.. _thema-burn-out:
+.. _thema-belastung-psi:
+.. _thema-reizleitungssystem:
+.. _thema-reanimation-neugeborenes:
+.. _thema-airwaymanagement:
+.. _thema-azidose-respiratorische:
+.. _thema-pulsoxymetrie:
+.. _thema-saeure-basen-haushalt:
+.. _thema-koma-diabetisches:
+.. _thema-ischaemie:
+.. _thema-insult:
+.. _thema-mesenterialinfarkt:
+.. _thema-esmolol:
+.. _thema-adenosin:
+.. _thema-exsikkose:
+.. _thema-sepsis:
+.. _thema-depression:
+.. _thema-patientenverfuegung:
+.. _mr40001b:
+.. _thema-blutdruck:
+.. _mr40021b:
+
+***********************************************************************
+Verweis auf noch in Entwicklung befindliche Textabschnitte
+***********************************************************************
+
+Manche Themen und Bereiche befinden sich noch im *Inkubator-Stadium*
+und sind daher noch nicht Teil dieser Ausgabe.
+

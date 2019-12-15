@@ -3,13 +3,14 @@
 Asthma bronchiale
 *****************
 
-.. sidebar:: Asthma bronchiale 
+..
+    .. sidebar:: Asthma bronchiale
 
-    Wiederholte Anfälle von Atemnot durch
+        Wiederholte Anfälle von Atemnot durch
 
-    -   Verengte Bronchien
-    -   Vermehrte Schleimbildung
-    -   Behinderte Ausatmung
+        -   Verengte Bronchien
+        -   Vermehrte Schleimbildung
+        -   Behinderte Ausatmung
 
 Das :dfn:`Asthma bronchiale` ist eine chronische
 Erkrankung mit Episoden von Anfällen mit massiver Atemnot oder
@@ -54,10 +55,11 @@ einen Notarzt.
 Status Asthmaticus
 ==================
 
-.. sidebar:: Status asthmaticus
+..
+    .. sidebar:: Status asthmaticus
 
-    -   Lebensgefährliche Komplikation
-    -   Anfall hört nicht mehr auf
+        -   Lebensgefährliche Komplikation
+        -   Anfall hört nicht mehr auf
 
 Der Status asthamticus ist eine gefürchtete Komplikation
 des Asthmaanfalles bei der die Atemnot nicht wieder vergeht. Es besteht
@@ -122,7 +124,7 @@ ABCDE
 
 **3**
     Im schweren Anfall kann es zu |symbol-RedFlag|\
-     *Bewusstseinsstörungen* kommen. 
+     *Bewusstseinsstörungen* kommen.
 
 **4**
     Das Leitsymptom ist die Atemnot.
@@ -143,7 +145,7 @@ ABCDE
     chest*).
     Die |symbol-RedFlag|\  Sauerstoffsättigung ist stark
     vermindert und der Patient ist |symbol-RedFlag|\  *zyanotisch*.
-    Im Endstadium kann der Patient zu |symbol-RedFlag|\  erschöpft für 
+    Im Endstadium kann der Patient zu |symbol-RedFlag|\  erschöpft für
     eine ausreichende *Atemarbeit* sein.
 
     Bei der Einschätzung der Atmung ist es wichtig auf die *Zeichen
@@ -169,22 +171,23 @@ ABCDE
 SAMPLER
 =======
 
-.. sidebar:: SAMPLER
+..
+    .. sidebar:: SAMPLER
 
-    **A**
-        Gräser, Pollen, Tierhaare, …
+        **A**
+            Gräser, Pollen, Tierhaare, …
 
-    **M**
-        Sprays, Inhalatoren. (Neue) Medikamente in letzter Zeit?
+        **M**
+            Sprays, Inhalatoren. (Neue) Medikamente in letzter Zeit?
 
-    **P**
-        Asthma oft vorbekannt
+        **P**
+            Asthma oft vorbekannt
 
-    **L**
-        Spray-Einnahme?
+        **L**
+            Spray-Einnahme?
 
-    **E**
-        Stress, Anstrengung, Allergene
+        **E**
+            Stress, Anstrengung, Allergene
 
 
 
@@ -222,7 +225,7 @@ Maßnahmen
 =========
 
 **Taktik**: Linderung der Atemnot und rasche
-medikamentöse Therapie, 
+medikamentöse Therapie,
 **Vitale Bedrohung** im Falle
 bleibender schwerer Atemnot bzw. Status asthmaticus
 
@@ -238,8 +241,8 @@ bleibender schwerer Atemnot bzw. Status asthmaticus
     Patienten stellt die -Gabe in der Praxis jedoch kein Problem dar
     :cite:`ScholzNotfallmedizin2`\ .
 
-    O₂ bis eine Sauerstoffsättigung von 94-98% erreicht ist, oder 8 L / min. 
-    Die einschlägige Literatur ist widersprüchlich. 
+    O₂ bis eine Sauerstoffsättigung von 94-98% erreicht ist, oder 8 L / min.
+    Die einschlägige Literatur ist widersprüchlich.
     Besonderes betont muss die Notwendigkeit zur Überwachung des Patienten
     bezüglich Bewusstseinsstörungen und Atmung werden!
 
@@ -248,7 +251,7 @@ bleibender schwerer Atemnot bzw. Status asthmaticus
 -   Für nicht-ärztiches Personal:
     Sprays, die Patient evtl. bei sich hat,
     dürfen ohne ärztliche Anordnung nicht mehr genommen
-    werden. 
+    werden.
 
     Es besteht die Gefajr, dass die Luftpassage nicht mehr ausreicht
     um den Wirkstoff in die Bronchien, dem Wirkungsort,  zu bringen,

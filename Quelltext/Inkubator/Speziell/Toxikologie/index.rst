@@ -431,7 +431,7 @@ Maßnahmen: Vergiftung mit Stickgasen
 
 -   Traumacheck (Folgeverletzungen)
 -   Neurocheck inkl. Blutzuckerbestimmung
-    (Differentialdiagnosen, 
+    (Differentialdiagnosen,
     Beurteilung der Beeinträchtigung im Verlauf)
 
 
@@ -449,11 +449,11 @@ passiert vor allem bei schlecht gewarteten Gasheizungen und
 Durchlauferhitzern. bindet 300 mal besser an den roten Blutfarbstoff
 Hämoglobin als O2, daher verdrängen schon kleine Mengen den Sauerstoff
 aus dem Blut! Die Folge ist logischerweise eine Unterversorgung mit
-Sauerstoff.\ 
+Sauerstoff.\
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Atemschutz_IMG_2043_00800.*
 
-    [Sebastian Gabriel, MfG]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 Anamnese und Szene
 ^^^^^^^^^^^^^^^^^^
@@ -635,7 +635,7 @@ Basismaßnahmen
         Nachbarwohnungen, etc
     -   Sicherung der Vitalfunktionen, Beurteilung ob der
         Patient vital bedroht ist.
-    -   |TxBeiVit| 
+    -   |TxBeiVit|
     -   Traumacheck (Folgeverletzungen)
     -   Neurocheck inkl. Blutzuckerbestimmung
         (Differentialdiagnosen, Beurteilung der Beeinträchtigung im Verlauf)
@@ -662,7 +662,7 @@ Abstand halten! Wind beachten!), vgl. auch :ref:`Thema-gefahrengutunfall`.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/schild-atemschutzmaske-abnehmen.*
 
-    [Sebastian Gabriel, MfG]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 ********************************
 Wovon man nicht trinken sollte …

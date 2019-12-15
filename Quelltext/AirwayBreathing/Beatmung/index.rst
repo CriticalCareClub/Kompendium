@@ -18,15 +18,15 @@ Beatmung
     -  Assistierte Beatmung: Eine vorhandene, aber unzureichende
        Spontanatmung wird unterstützt
 
-Bei *fehlender* oder *nicht ausreichender Spontanatmung* 
-(Eigenatmung < 8 bzw. > 35/min oder Atemzugvolumen nicht ausreichend) 
-wird eine *künstliche Beatmung* durchgeführt. 
+Bei *fehlender* oder *nicht ausreichender Spontanatmung*
+(Eigenatmung < 8 bzw. > 35/min oder Atemzugvolumen nicht ausreichend)
+wird eine *künstliche Beatmung* durchgeführt.
 Dabei wird Eigenatmung des Patienten
-künstlich durch geeignete Hilfsmittel ersetzt oder ergänzt. 
-Es handelt sich um eine *Überdruckbeatmung*\  [135]_, 
-d. h. es wird mit Druck Luft in die Atemwege des Patienten gepumpt. 
-(Im Unterschied dazu wird bei der natürlichen Atmung Luft mit Unterdruck 
-in den Patienten eingesogen.) 
+künstlich durch geeignete Hilfsmittel ersetzt oder ergänzt.
+Es handelt sich um eine *Überdruckbeatmung*\  [135]_,
+d. h. es wird mit Druck Luft in die Atemwege des Patienten gepumpt.
+(Im Unterschied dazu wird bei der natürlichen Atmung Luft mit Unterdruck
+in den Patienten eingesogen.)
 Man unterscheidet zwischen einer *kontrollierten* und einer *assistierten*
 Beatmung.
 
@@ -86,21 +86,22 @@ Patientenseitig werden *Beatmungsmasken* oder *Beatmungsschläuche*
 angewendet. Um die Atemwege freizuhalten, kann u. U. unterstützend ein
 :dfn:`Guedel-Tubus` :index:`\ <! Guedel-Tubus>` angewendet werden.
 
-.. sidebar:: Baetmung -- Hilfsmittel
-             
-    -  Helferseitig:
+..
+    .. sidebar:: Baetmung -- Hilfsmittel
 
-        -  Beatmungsbeutel
+        -  Helferseitig:
 
-        -  Beatmungsgerät
- 
-    -  Patientenseitig
+            -  Beatmungsbeutel
 
-        -  Beatmungsmaske
+            -  Beatmungsgerät
 
-        -  Beatmungsschlauch
+        -  Patientenseitig
 
-    -  Freihalten der Atemwege: Guedel-Tubus
+            -  Beatmungsmaske
+
+            -  Beatmungsschlauch
+
+        -  Freihalten der Atemwege: Guedel-Tubus
 
 Mögliche Sauerstoffkonzentrationen bei der Beatmung
 
@@ -171,7 +172,7 @@ Flow
 
 Volumen (V)
     ergibt sich aus Flow über Zeit
-    
+
 Druck
     im Verlauf des Atemzyklus
 
@@ -182,7 +183,7 @@ Ressistance
     Der Atemwegswiderstand
 
 Die Compliance bzw. Resistance spiegeln im Wesentlichen die gegebenen
-Eingenschaften des Gewebes wider. 
+Eingenschaften des Gewebes wider.
 
 Essentiell ist das Verständnis dass die Parameter miteinander in
 Verbindung stehen und sich gegenseitig beeinflussen:
@@ -196,7 +197,7 @@ Verbindung stehen und sich gegenseitig beeinflussen:
 - Bei gegebener Compliance und gewähltem Druck ergibt sich ein Volumen
   (Wahl: Druck, Freiheitsgrad: Volumen (und Flow))
 
-    
+
 Essentielle Beatmungsmuster
 ===========================
 
@@ -219,7 +220,7 @@ Atemwegsdruck p\ :sub:`aw` steigt im Verlauf an.
 Druckkontrollierte Beamtung: ``PCV``
 ------------------------------------
 
-Bei der klassichen druckkontrollierten Beatmung wird ein konstanter 
+Bei der klassichen druckkontrollierten Beatmung wird ein konstanter
 Differenzdruck (Δp, Driving Pressure) angelegt, es ergibt sich ein
 Flow, der über die Zeit, aufgrund der Angleichung von Außen- und
 Innendruck, schwächer wird (*dezelerierender Flow*).
@@ -239,7 +240,7 @@ Atelektasen verhindert werden.
 
 Im :dfn:`PSV`\ -Modus (:dfn:`Pressure Support Ventilation`) triggert die Eigenatmung
 des Patienten eine Druckunterstüzung und erleichtert so die
-Atemarbeit. 
+Atemarbeit.
 
 Nicht-invasive Beatmung (NIV)
 -----------------------------
@@ -279,7 +280,7 @@ Intensivbeatmungsgeräte
    Sie stellen eine Mischung aus Notfall- und Intensivbeatmungsgerät
    dar.
    Auch hier gibt es zwischen den Herstellern und Modellen große
-   Unterschiede. 
+   Unterschiede.
    Sie bieten an sich auch eine reichhaötige Auswahl an
    Einstellmöglichkeiten und Beatmungsmustern, bzw. bieten bereits
    diverse Möglichkeiten für eine differenzierte Beatmungstherapie,
@@ -330,13 +331,13 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             Sauerstofflasche, eine Berieselungseinheit und daran
             angeschlossen eine Berieselungsmaske.
 
-            [Christoph Pallinger, MfG]
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.*
             :width: 99.9%
 
             Bedienfelder Berieselungseinheit *Modul Oxygen* und
-            Notfallbeatmungsgerät *Medumat Standard* 
+            Notfallbeatmungsgerät *Medumat Standard*
 
             *Modul Oxygen (li.):* Flowmeter, Ein-Ausschalter und Regelventil. Der
             Anschluss links dient der Verbindung der Einheit mit dem Sauerstoffnetz
@@ -348,7 +349,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             des Beatmungsschlauches (“Disconnection”), niederen Flaschendruck
             (“<2.7bar”) und schwache Batterie.
 
-            [Sebastian Gabriel, MfG]
+            Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.*
             :width: 99.9%
@@ -359,8 +360,8 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             mittels Monitor und Drehräder. Abgebildet ist die
             Durchführung einer Funktionskontrolle der Bedienelemente.
 
-            [Christopf Pallinger, MfG]
-   
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+
 .. subfigend::
     :width: 0.3
     :label: Figure-BilderserieBeatmungsgeraete
@@ -432,7 +433,7 @@ da die Ausatemluft unkontrolliert über die
 
             PEEP-Ventil
 
-            [Ch. Pallinger]
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 
 

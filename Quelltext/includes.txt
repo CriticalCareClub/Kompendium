@@ -39,18 +39,55 @@
 .. |symbol-RedFlag| replace:: ⚑
 .. |TxBeiVit| replace:: Bei vitaler Bedrohung:
 .. |TxMassVitMK| replace:: Standardmaßnahmen bei vital bedrohten Patienten
-.. |TxMassVitMKBes| replace:: Standardmaßnahmen bei vital bedrohten Patienten, Besonderheiten: 
-.. |z. B.| replace:: z. B.	
+.. |TxMassVitMKBes| replace:: Standardmaßnahmen bei vital bedrohten Patienten, Besonderheiten:
+.. |z. B.| replace:: z. B.
 .. |ZB| replace:: Z. B.
 .. |zB| replace:: z. B.
 
 .. |Text-NotReleased| replace:: Achtung -- Entwicklungsversion! Dieses Dokument ist **nicht freigegeben** und laufenden Änderungen unterworfen. Es enthält ungesicherte Informationen und ist als **unzuverlässig** und **rein informativ** zu betrachten. Die unerlaubte Verbreitung ist untersagt!
 
-
 .. |Text-InkubatorInhalt| replace:: Diese Inhalte sind noch im **Inkubator-Stadium** und befinden sich noch nicht auf dem gewünschten fachlichen Niveau, bzw. sind unvollständig und bedürfen einer umfangreichen Überarbeitung. *Nur zur Ansicht oder zu Entwicklungszwecken!*
 
 
+.. |Text-Abcde-1| replace:: ``1`` — Szeneüberblick und (Selbst-)Schutz
+.. |Text-Abcde-2| replace:: ``2`` Eindruck und HWS-Stabilisierung
+.. |Text-Abcde-3| replace:: ``3`` — Bewusstsein
+.. |Text-Abcde-4| replace:: ``4`` — Hauptbeschwerde
+.. |Text-Abcde-A| replace:: ``A`` — Atemweg
+.. |Text-Abcde-B| replace:: ``B`` — Atmung
+.. |Text-Abcde-C| replace:: ``C`` — Kreislauf und STU
+.. |Text-Abcde-D| replace:: ``D`` — Neurologie
+.. |Text-Abcde-E| replace:: ``E`` — Erweiterte Untersuchung
+.. |Text-Abcde-Alt| replace:: ``…`` — Weiteres
+.. |Text-Abcde-Fazit| replace:: ``=`` — Beurteilung
 
+.. |Text-Sampler-S| replace:: ``S`` — Symptome und Schmerzen
+.. |Text-Sampler-A| replace:: ``A`` — Allergien
+.. |Text-Sampler-M| replace:: ``M`` — Medikation
+.. |Text-Sampler-P| replace:: ``P`` — Patientengeschichte
+.. |Text-Sampler-L| replace:: ``L`` — Letze …
+.. |Text-Sampler-E| replace:: ``E`` — Ereignisse vor Notfalleintritt
+.. |Text-Sampler-R| replace:: ``R`` — Risikofaktoren
+
+.. |Text-Abcde-1-Short| replace:: ``1`` — Szeneüberblick, Schutz
+.. |Text-Abcde-2-Short| replace:: ``2`` — Eindruck, HWS
+.. |Text-Abcde-3-Short| replace:: ``3`` — Bewusstsein
+.. |Text-Abcde-4-Short| replace:: ``4`` — Hauptbeschwerde
+.. |Text-Abcde-A-Short| replace:: ``A`` — Atemweg
+.. |Text-Abcde-B-Short| replace:: ``B`` — Atmung
+.. |Text-Abcde-C-Short| replace:: ``C`` — Kreislauf, STU
+.. |Text-Abcde-D-Short| replace:: ``D`` — Neurologie
+.. |Text-Abcde-E-Short| replace:: ``E`` — Erweitertet
+.. |Text-Abcde-Alt-Short| replace:: ``…`` — Weiteres
+.. |Text-Abcde-Fazit-Short| replace:: ``=`` — Beurteilung
+
+.. |Text-Sampler-S-Short| replace:: ``S`` — Symptome
+.. |Text-Sampler-A-Short| replace:: ``A`` — Allergien
+.. |Text-Sampler-M-Short| replace:: ``M`` — Medikation
+.. |Text-Sampler-P-Short| replace:: ``P`` — Patientengeschichte
+.. |Text-Sampler-L-Short| replace:: ``L`` — Letze …
+.. |Text-Sampler-E-Short| replace:: ``E`` — Ereignisse
+.. |Text-Sampler-R-Short| replace:: ``R`` — Risikofaktoren
 
 
 .. |alpha|  unicode:: U+003B1 .. GREEK SMALL LETTER ALPHA
@@ -199,7 +236,7 @@
 
 .. .. git_changelog::
 ..     :revisions: 1
-    
+
 .. .. git_commit_detail::
 ..     :branch:
 ..     :commit:

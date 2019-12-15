@@ -150,7 +150,7 @@ Ursachen auf.
 
 -  …
 
-| 
+|
 
 .. index::
    single: Somnolenz
@@ -189,7 +189,7 @@ Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
    -  Bewusstlos …\ *komatös*
 
 .. table:: Bewusstseinsgrade: WASB-Schema [Table-bewusstseinsgrade]
-	      
+
 	   +---------+--------------------------------+----------------------------------------+----------------------------------------------------------------+---------------------+
 	   | **W**   | *W*\ ach                       | *bewusstseinsklar*                     | wach                                                           |                     |
 	   +---------+--------------------------------+----------------------------------------+----------------------------------------------------------------+---------------------+
@@ -202,7 +202,7 @@ Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
 
 .. table:: GCS: Glasgow Coma Scale für den Erwachsenen.[Table-gcs]
 
-	   
+
 	   +-------------------------+------------+--------------+-------------------------------+
 	   |                         | **Max.**   | **Punkte**   | **Reaktion**                  |
 	   +-------------------------+------------+--------------+-------------------------------+
@@ -347,7 +347,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
 
     Anisokorie
 
-    [Sebastian Gabriel, MfG]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 
 .. _Thema-hirnstammeinklemmung:
@@ -373,7 +373,7 @@ Kreislaufzentrum befindet besteht dabei akute **Lebensgefahr**!
 -  Bei einer Hirndrucksteigerung kann es zu einer akut
    lebensbedrohlichen Hirnstammeinklemmung kommen.
 
-.. _Thema-insult: 
+.. _Thema-insult:
 .. _Thema-schlaganfall:
 
 ******************************************************************
@@ -407,7 +407,7 @@ TIA
 ===
 
 :dfn:`TIA` :index:`\ <! TIA>` ist die Abkürzung für
-*Transitorisch-Ischämische Attacke*. 
+*Transitorisch-Ischämische Attacke*.
 Von einer TIA spricht man, wenn die
 Symptome innerhalb von 24 Stunden vergehen. Solange noch Symptome
 bestehen, kann man nicht von einer TIA sprechen, der Patient ist wie bei
@@ -564,17 +564,17 @@ Maßnahmen: Insult
 .. todo:: Maßnahme NI64XX0C: Anpassung an höherqualifiziertes Personal
 
 
-Taktik 
+Taktik
     **Vitale Bedrohung!**
-    
+
     Zeitkritisch (*"Time is brain."*):
-    Vitalfunktionen sichern, 
+    Vitalfunktionen sichern,
     rascher Transport an eine geeignete Abteilung.
 
 Grundsätzlich
-ist ein Schlaganfall-Patient aufgrund seiner Diagnose als 
+ist ein Schlaganfall-Patient aufgrund seiner Diagnose als
 **vital bedroht** und gleichzeitig als **zeitkritisch**
-(*"Time is brain."*) einzustufen. 
+(*"Time is brain."*) einzustufen.
 Eine definitive Therapie in einer Spezialabteilung
 (*Stroke Unit*) kann andere, noch nicht abgestorbene
 Teile des Hirns vor weiterem Schaden bewahren, d. h. es ist
@@ -591,48 +591,48 @@ Basismaßnahmen
             darüber ist von einer O₂-Gabe abzusehen, da es
             sonst zu einer Gefäßengstellung mit nachfolgender
             Mangeldurchblutung in den noch gesunden Hirnarealen
-            kommen kann! 
+            kommen kann!
         -   **Notarzt**: Grundsätzlich ist ein
-            Schlaganfall-Patient aufgrund seiner Diagnose 
-            als vital bedroht einzustufen, 
+            Schlaganfall-Patient aufgrund seiner Diagnose
+            als vital bedroht einzustufen,
             er ist jedoch gleichzeitig zeitkritisch (s. o.).
             Daher soll von einer
             Nachberufung eines Notarztes *abgesehen* werden,
             *wenn folgende Umstände gegeben sind*:
 
             #.  Die Verdachtsdiagnose gilt als *sehr sicher*.
-            #.  Der Patient ist sonst als *stabil* 
+            #.  Der Patient ist sonst als *stabil*
                 (:ref:`m-ersteinschaetzung`) eingestuft
                 und bewusstseinsklar
-                
+
                 Bei der Einschätzung des Bewusstseins
                 darf man sich nicht durch die durch den Schlaganfall
-                verursachten Symptome 
+                verursachten Symptome
                 (Sprachstörungen, Blickstarre ...)
                 beirren lassen..
-            #.  Es gibt sonst *keine anderen Umstände* 
+            #.  Es gibt sonst *keine anderen Umstände*
                 die die Berufung
                 eines Notarztes erforderlich machen.
             #.  Es muss versucht werden, eine Aufnahme auf eine
                 *Spezialabteilung* für Schlaganfälle zu
                 organisieren (Stroke Unit,
                 Kontaktaufnahme mit der Leitstelle).
-                
+
                 Der Erfolg ist abhängig von der
                 Verfügbarkeit eines entsprechenden freien Bettes.
             #.  Regionale Bestimmungen müssen beachtet werden!
 
-    -   **Blutdruck**: 
+    -   **Blutdruck**:
         Blutdruckwerte bis 220/120 mm Hg werden toleriert,
         wenn nicht cardiopulmonale Gründe (Myocardischämie,
         Herzinsuffizienz, ...) andere Grenzwerte erfordern.
         Senkung des Blutdrucks ist eine ärztliche Maßnahme.
     -   **Neurocheck** inkl. Messung des **Blutzuckers** ist
         zwingend erforderlich!
-    -   **Transportentscheidung**: 
+    -   **Transportentscheidung**:
         Wenn verfügbar: **Stroke Unit**, sonst
-        Abklärung mit Leitstelle wegen Alternativen 
-        (Abt. für Neurologie oder Innere Medizin, 
+        Abklärung mit Leitstelle wegen Alternativen
+        (Abt. für Neurologie oder Innere Medizin,
         mit Möglichkeit zur CT und Intensivüberwachung).
         Bei Anforderung einer Stroke Unit ist anzugeben:
 
@@ -844,7 +844,7 @@ Maßnahmen Krampfender Patient
 .. todo:: Maßnahme NR56081C: Anpassung an höherqualifiziertes Personal
 
 
-Taktik 
+Taktik
     **Vitale Bedrohung!**
 
     Verletzungen vermeiden,
@@ -882,15 +882,15 @@ Basismaßnahmen
 
 
 .. _NR56082C:
-.. _m-zerebraler-krampfanfall-status-post: 
+.. _m-zerebraler-krampfanfall-status-post:
 
 Maßnahmen: Nicht-(mehr) krampfender Patient
 ===========================================
 
 .. todo:: Maßnahme NR56082C: Anpassung an höherqualifiziertes Personal
 
-Taktik 
-    Abklären ob Status epilepticus besteht, 
+Taktik
+    Abklären ob Status epilepticus besteht,
     Klärung des Herganges (Fremdanamnese!),
     Differentialdiagnosen abklären
     Neuerlicher Krampfanfall möglich!
@@ -940,8 +940,8 @@ es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben
 .. figure:: /Bilder/GabrielSebastian-Ccc/fieberthermometer.*
 
     Fieber
-    
-    [Sebastian Gabriel, MfG]
+
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 Eklamptischer Krampfanfall während der Schwangerschaft
 ------------------------------------------------------

@@ -153,22 +153,22 @@ Technik eignet sich nur für kurze Distanzen.
 
     Tragering
 
-    [Michael Motal, MfG]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering2b.jpg
     :width: 99%
 
     Transport mit dem Tragering
 
-    [Michael Motal, MfG]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering3b.jpg
     :width: 99%
 
     Transport mit dem Tragering
 
-    [Michael Motal, MfG]
-	    
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
+
 .. subfigend::
     :width: 0.3
     :label: Figure-BilderserieTragering
@@ -203,7 +203,7 @@ wird immer mit den *Füßen voran* getragen.
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch2b.jpg
     :width: 99%
-	    
+
     … die näher zum Patient liegende Hälfte umschlagen…
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch3b.jpg
@@ -224,7 +224,7 @@ wird immer mit den *Füßen voran* getragen.
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch6b.jpg
     :width: 99%
 
-    … Patient schonend zurück legen. 
+    … Patient schonend zurück legen.
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch7b.jpg
     :width: 99%
@@ -239,7 +239,7 @@ wird immer mit den *Füßen voran* getragen.
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch9b.jpg
     :width: 99%
 
-    …und auf Kommando gemeinsam anheben 
+    …und auf Kommando gemeinsam anheben
 
 
 
@@ -249,7 +249,7 @@ wird immer mit den *Füßen voran* getragen.
 
     Bilderserie: Transport mit dem Tragetuch
 
-    [Michael Motal, MfG]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 
 
@@ -304,7 +304,7 @@ Fahrt-/Gehrichtung. Wenn ein Patient auf der Trage liegt, darf immer nur
 Gefahr des seitlichen Kippens besteht.
 
 .. note::
-   
+
    Bei Transport in Fahrzeugen verhindert der *Beingurt* schwere Verletzungen bei Frontalzusammenstößen!
 
 .. attention::
@@ -315,7 +315,7 @@ Gefahr des seitlichen Kippens besteht.
 .. figure:: /Bilder/PallingerChristoph-Ccc/Trage_32970_v2-AASS-0176mm.jpg
 
     Krankentrage der Firma Stollenwerk mit Fahrgestell und einer Auflage der Firma Schnitzler mit Brust-, Bein- und Rucksackgurten
-    *Ch. PallingerMfG*
+    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 ********
 Lagerung
@@ -366,7 +366,7 @@ Lagerungsarten
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungkollaps1b.jpg
     :width: 99%
 
-    Lagerung mit erhöhten Beinen unter Schonung der Wirbelsäule und des Beckens (bei Verdacht auf Wirbelsäulen- oder Beckenverletzungen) 
+    Lagerung mit erhöhten Beinen unter Schonung der Wirbelsäule und des Beckens (bei Verdacht auf Wirbelsäulen- oder Beckenverletzungen)
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungabdomenb.jpg
     :width: 99%
@@ -382,7 +382,7 @@ Lagerungsarten
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungembolieb.jpg
     :width: 99%
 
-    Lagerung mit herabhängender Gliedmaße 	    
+    Lagerung mit herabhängender Gliedmaße
 
 .. subfigend::
     :width: 0.3
@@ -390,7 +390,7 @@ Lagerungsarten
 
     Bilderserie: Lagerungsarten
 
-    [Michael Motal, MfG]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 
 
@@ -536,7 +536,7 @@ Vorgehen
 
     HWS-Schiene zuerst unter dem Patienten durchführen, danach am Kinn anlegen.
 
-	    
+
 
 .. subfigend::
     :width: 0.3
@@ -544,7 +544,7 @@ Vorgehen
 
     Bilderserie: Helmabnahme und Anlage einer HWS-Schiene
 
-    [Michael Motal, MfG]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 
 .. [153]
@@ -584,8 +584,8 @@ welchen sich die gewünschte vorher abgemessene Größe einstellen lässt
 .. figure:: /Bilder/PallingerChristoph-Ccc/Stiffneck_32899_crop-sRGB-AASS-0112mm.*
 
     Einstellbare HWS-Schienen für Erwachsene und KinderLaerdal Stifneck Select und Stifneck Pedi-Select
-    
-    [Ch. Pallinger, MfG]
+
+    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 .. [154]
    HWS-Schiene: Auch *HWS-Orthese*.
@@ -861,8 +861,8 @@ mittels Vakuummatratze als Mittel der Wahl empfohlen. [157]_
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Vacuummatratze_32960-AASS-0176mm.*
 
-    Vakuummatratze. 
-    
+    Vakuummatratze.
+
     [Quelle: Ch. Pallinger, MfG]
 
 .. [157]
@@ -947,9 +947,9 @@ eingesetzt und erfährt auch hierzulande immer größere Verbreitung.
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Spineboard_32956_crop-AASS-0112mm.jpg
 
-    Spineboard.    
-    
-    [Ch. Pallinger, MfG]
+    Spineboard.
+
+    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 Gurtensysteme für Schaufeltrage und Spineboards
 ===============================================
@@ -969,9 +969,9 @@ auch mit einem Spineboard verwendet werden. [158]_
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Spiderstrap_32954_v2-AASS-0112mm.jpg
 
-    Ferno Fastrap Quick Restraint System. 
-    
-    [Ch. Pallinger, MfG]
+    Ferno Fastrap Quick Restraint System.
+
+    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 .. [158]
    Ferno Fastrap / Schaufeltrage: *“The Fastrap system is compatible
@@ -1003,8 +1003,8 @@ verwendet.
 
 .. figure:: /Bilder/WikipediaPd/KED.jpg
 
-    Rettungskorsett 
-    
+    Rettungskorsett
+
     [Wikipedia: *"Onthost”, PD*]
 
 Material und Personal
@@ -1110,7 +1110,7 @@ Material und Personal
 
     Vakuumbeinschiene mit Zubehör
 
-    [Ch. Pallinger, MfG]
+    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 Vorgehen
 ^^^^^^^^
@@ -1168,7 +1168,7 @@ Aluminiumkernschiene
 .. index::
    single: Aluminiumkernschiene
    single: Sam-Splint®
-   
+
 
 Die Aluminiumkernschiene ist eine flexible,
 von Kunststoff umgebene Metallschiene
@@ -1190,7 +1190,7 @@ Trotz Aluminiumkernschiene muss an der betroffenen Extremität ein Armtragetuch 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Sam_Splint_33053_crop-AASS-0112mm.jpg
     :width: 99%
 
-    … und nach der Anpassung 	    
+    … und nach der Anpassung
 
 .. subfigend::
     :width: 0.45
@@ -1255,7 +1255,7 @@ Material und Personal
    Druckverband: Unter Umständen ist die Verwendung von flexiblen
    Verbandsmaterial (z.B. PehaHaft) ausreichend bzw. je nach
    Wundlokalisation zu bevorzugen.
-   
+
 Vorgehen
 --------
 

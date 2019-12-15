@@ -5,62 +5,159 @@
 Herzrhythmusstörungen
 #####################
 
+Herzrhythmusstörungen sind,
+wenig überraschend,
+Störungen des regulären (Sinus-) Herzrhythmus.
+
 Herzrhythmusstörungen sind häufig, allerdings auch oft sehr
 unterschiedlich in ihrer Bedeutung: Manche sind chronisch und eher wenig
 gefährlich, andere können plötzlich auftreten und sogar akut
 lebensbedrohlich sein. Rhythmusstörungen können sowohl selber das
 Problem darstellen, als auch *als Komplikationen* im Rahmen anderer
-Krankheitsbilder (z. B. Herzinfarkt, etc.) auftreten.
+Krankheitsbilder
+(z. B. Herzinfarkt, Elektrolytstörungen etc.)
+auftreten.
 
 *******************************
-Arten von Herzrhythmusstörungen
+Einteilung
 *******************************
 
 
-.. sidebar:: Arten von Herzrhythmusstörungen
+..
+    .. sidebar:: Einteilung von Herzrhythmusstörungen
 
-    -  Störung der
+        -   Ort
+        -   Ursachen
+        -   Auswirkungen
 
-    -  Frequenz
+            -   Frequenz
+            -   Regelmäßigkeit
 
-    -  Regelmäßigkeit
+        -   Elektromechanische Dissoziation
 
-    -  Form der elektrischen Herzströme
 
-Herzrhythmusstörungen können hervorgerufen werden durch eine *Störung
-der Frequenz* (zu langsam, zu schnell) oder einer *Störung der
-Regelmäßigkeit* (Rhythmus im engeren Sinn). Wenn man die elektrischen
-Ströme mittels eines EKG darstellt, kann man zusätzlich auch *Störungen
-der Form der elektrischen Herzströme* erkennen und beschreiben. Ein
-halbautomatischer Defibrillator (AED) erledigt dies automatisch, er
-zeichnet die elektrischen Herzströme auf und beurteilt diese.
 
-Im Rahmen von Herzrhythmusstörungen kann es zu einer *Entkoppelung der
-elektrischen und der mechanischen Herzaktion* kommen, z. B. wenn nicht
-jedem elektrischen Impuls ein Herzschlag folgt.
+Grundsätzlich kann man Herzrhythmusstörungen nach dem Ort ihres Auftretens (Vorhof, AV-Leitungsbahn, Kammer),
+ihren Ursachen
+oder nach ihrer klinischen Auswirkung
+(Regelmäßigkeit, Frequenz)
+unterscheiden.
+Eine Sonderform nimmt die *Entkoppelung der
+elektrischen und der mechanischen Herzaktion* ein,
+wenn nicht jedem elektrischen Impuls ein Herzschlag folgt.
+Dies wird als :dfn:`elektromechanische Dissoziation` bezeichnet
+und kann dauerhaft
+oder :term:`intermittierend <intermittieren>` auftreten.
 
-Entkoppelung von elektrischer und der mechanischer Herzaktion möglich!
 
-******************************************************
-Hier zählt die Geschwindigkeit: Tachy- und Bradykardie
-******************************************************
 
-.. sidebar:: Brady-, Tachykardie
+.. rubric:: … Frequenz: Tachy- und Bradykardie
 
-    -  Bradykardie  zu langsam
+..
+    .. sidebar:: Brady-, Tachykardie
 
-    -  Tachykardie  zu schnell
+        -   Bradykardie:  zu langsam
+        -   Tachykardie:  zu schnell
 
--  **Bradykardie**: Langsamer Herzschlag (HF < 60 / min (beim Erwachsenen))
+Als Normwert für die Herzfrequenz *in Ruhe* beim Erwachsenen gilt der Bereich zwischen 60—100 / min.
+Individuell kann es zu physiologischen Abweichungen vom Normbereich kommen,
+so können beispielsweise Leistungssportler aufgrund ihres trainierten Körpers auch sehr niedrige Ruhepulsfrequenzen aufweisen.
 
-   Leistungssportler können aufgrund ihres trainierten Körpers auch sehr
-   niedrige Ruhepulsfrequenzen haben.
-
--  **Tachykardie**: Schneller Herzschlag (HF > 100 / min (beim Erwachsenen))
+Eine Frequenz darunter wird als :dfn:`Bradykardie`, Werte darüber als :dfn:`Tachykardie` bezeichnet.
 
 Bei der Beurteilung der Herzfrequenz muss auch immer an die Umstände
 (Ruhe, Belastung, …) und an den Erregungszustand des Patienten gedacht
 werden!
+
+Rhythmusstörungen lassen sich nach unterscheidlichen Kriterien einteilen, nach …
+
+.. rubric:: … Lokalisation
+
+Rhythmusstörungen können direkt in der Herzkammer (ventrikulär)
+oder oberhalb der Kammer (supraventrikulär) begründet sein.
+Supraventrikulär wird ausserdem zwischen dem Vorhof (atrial)
+und der AV-Überleitung
+(AV-Knoten, nodal; bzw. akzessorische Leitungsbahnen) unterschieden.
+Eine noch feinere Unterscheidung ist möglich.
+
+.. figure:: /Bilder/WikipediaCcBySa-3.0-unported/De-Atrial_ventricular_(CardioNetworks_ECGpedia).*
+
+    Verortung von Herzrhythmusstörungen
+
+    Ⓒ CardioNetworks, https://www.ecgpedia.org,
+    via `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:De-Atrial_ventricular_(CardioNetworks_ECGpedia).png>`_
+    `OTRS ticket #2011102310008874 <https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2011102310008874>`_
+    Ⓛ :term:`Lizenz: CC BY-SA 3.0 unported`
+
+.. rubric:: … Regelmäßigkeit
+
+Eine Ryhthmusstörung kann zu einem regelmäßigen oder einem unregelmäßigen (arhythmischen) Rhythmus führen.
+
+.. rubric:: … Eletrik vs. Mechanik
+
+Eine Rhythmusstörung kann die elektrische, die mechnaische und beide Herzfunktionen im Prinzip unabhängig voneinander betreffen.
+So kann beispielsweise eine atriale tachykarde Rhythmusstörungen nur die mechanische Funktion des Vorhofs betreffen,
+jedoch aufgrund der frequenzfilternden Funktion des AV-Knotens
+unter Umständen die Kammerfrequenz nicht beeinträchtigen.
+
+.. rubric:: … hämodynamischer Wirksamkeit
+
+Rhythmusstörungen können hämodynamisch wirksam sein,
+d. h. den Herzauswurf merkbar reduzieren
+und im Extremfall zu einem insuffizienten Herzauswurf führen,
+oder den Auswurf kaum merklich beeinträchtigen
+bzw. vom Individuum ausreichend kompensiert werden.
+Der Übergang von hämodynamisch nicht wirksam zu hämodynamisch wirksam kann fließend sein.
+Manche Rhythmusstörungen sind obligat hämodynamisch wirksam,
+wie z. B. das Kammerflimmern oder die Asystolie.
+
+Folgende Symptome sprechen für eine der hämodynamische Wirksamkeit:
+
+-   Synkope, Bewusstseinsstörungen
+-   Hypotension
+-   Stenokardien, :ref:`pektanginöse <AnginaPectoris>` Beschwerden
+-   Kreislaufstillstand
+
+.. rubric:: Fazit
+
+Aus dem oben genannten Punkten (Frequenz, Ort, Zeit) kann nun nahezu beliebig kombiniert werden:
+So gibt es
+hämodynamsich wirksame rhythmische supraventrikuläre Tachykardien,
+aryhthmische ventrikuläre Taychkardien,
+ryhthmische bradykarde Kammerersatzrhythmen usw.
+Für die genaue Zuordnung ist ein EKG essentiell.
+
+
+
+
+***********************************************************************
+Diagnostik
+***********************************************************************
+
+Essentiell für die Diagnostik von Herzrhythmusstörungen ist die **Elektrokardiographie** (EKG).
+Damit kann en Großteil der Störungen diagnostiziert werden.
+Es ist sinnvoll die EKG um ein Verfahren zur ergänzen,
+welches einen Rücksschluss auf den Herzauswurf ermöglicht
+um so eine elektromechanische Dissoziation zu erkennen.
+Dies kann zum Beispiel die Pulsoxymetrie (-graphie), eine invasive Blutdruckmessung oder auch simples Pulstasten sein.
+
+Für spezielle Fragestellungen kann eine elektrophysiologische Untersuchung mittels Kathetertechnik notwendig sein.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .. _Tafel-HerzrhythmusstoerungenWichtige:
@@ -71,43 +168,43 @@ werden!
     :widths: 20 40 40
     :header-rows: 1
 
-    *   -   Rhythmus 
+    *   -   Rhythmus
         -   Bedeutung
         -   Bemerkung
     *   -   **Bradykardie**
 
-            (HF<60/min) 
-        -   Situationsabhängig 
+            (HF<60/min)
+        -   Situationsabhängig
         -   *"zu langsam"*
     *   -   **Tachykardie**
             (HF > 100 / min)
-        -   Situationsabhängig 
+        -   Situationsabhängig
         -   *"zu schnell"*
-    *   -   **Kammerflimmern** 
-        -   Reanimation 
+    *   -   **Kammerflimmern**
+        -   Reanimation
         -   *"schockbarer"* Rhythmus
-    *   -   **Pulslose Ventrikuläre Tachykardie** 
+    *   -   **Pulslose Ventrikuläre Tachykardie**
         -   Reanimation
         -   *"schockbarer"* Rhythmus
     *   -   **Asystolie**
 
-            (HF = 0) 
-        -   Reanimation 
+            (HF = 0)
+        -   Reanimation
         -   Nulllinie, *"nicht-schockbarer"* Rhythmus
-    *   -   **Vorhofflimmern** 
+    *   -   **Vorhofflimmern**
         -   regellose Erregung im Vorhof
-            oft symptomlos 
-        -   *Chronische Erkrankung.* 
+            oft symptomlos
+        -   *Chronische Erkrankung.*
             Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit.
 
             Risikofaktor für:
 
             -   *Tachykardie-Anfälle*
-            -   *Thrombenbildung*, dadurch erhöhtes Lungenembolie- und Schlaganfallrisiko. 
+            -   *Thrombenbildung*, dadurch erhöhtes Lungenembolie- und Schlaganfallrisiko.
                 Deshalb Vorbeugung mit gerinnungshemmenden ("blutverdünnenden") Medikamenten (z. B. Marcoumar)
                 → Patient ist blutungsgefährdet
-    *   -   **Extrasystole** 
-        -   Extraschläge 
+    *   -   **Extrasystole**
+        -   Extraschläge
         -   Vereinzelt bis "Salven" möglich
 
             Von symptom-/bedeutungslos bis lebensbedrohlich
@@ -123,24 +220,25 @@ Besondere Rhythmen
 Reanimationspflichtige Rhythmusstörungen
 ========================================
 
-.. sidebar:: Reanimationspflichtig
+..
+    .. sidebar:: Reanimationspflichtig
 
-    -  Pulslose Ventrikuläre Tachykardie
+        -  Pulslose Ventrikuläre Tachykardie
 
-    -  Keine Zeit zum Füllen → kein Auswurf
+        -  Keine Zeit zum Füllen → kein Auswurf
 
-    -  Kammerflimmern
+        -  Kammerflimmern
 
-    -  Wirre Erregung, keine sinnvolle Muskelarbeit →
-        kein Auswurf.
+        -  Wirre Erregung, keine sinnvolle Muskelarbeit →
+            kein Auswurf.
 
-    -  Asystolie
+        -  Asystolie
 
-    -  Keine elektrische Erregung, keine Muskelarbeit, kein Auswurf
+        -  Keine elektrische Erregung, keine Muskelarbeit, kein Auswurf
 
-    -  Pulslose elektrische Aktivität
+        -  Pulslose elektrische Aktivität
 
-    -  Entkoppelung von Herzschlag und Impulsen des Reizleitungssystems
+        -  Entkoppelung von Herzschlag und Impulsen des Reizleitungssystems
 
 Pulslose Ventrikuläre Tachykardie (*pVT*)
     Vorstufe zum
@@ -153,12 +251,12 @@ Kammerflimmern (*AF*): Die
     Zittern *ohne nennenswerte Auswurfleistung*! (Kammerflimmern darf
     nicht mit Vorhofflimmern verwechselt werden!)
 
-Asystolie 
+Asystolie
     Im Herz entsteht
     keine elektrische Erregung, der Herzmuskel kontrahiert daher auch
     nicht und es erfolgt keine Auswurfleistung
 
-Pulslose elektrische Aktivität (*PEA*) 
+Pulslose elektrische Aktivität (*PEA*)
     Bei der
     pulslosen elektrischen Aktivität ist die Herzaktion von der
     elektrischen Aktivität *entkoppelt*, d. h. das Herz reagiert nicht auf
@@ -168,7 +266,7 @@ Pulslose elektrische Aktivität (*PEA*)
 
 
 
-.. todo:: !!! PICTUREWIDE !!! Unauffälliger EKG-BefundWMPD\ 
+.. todo:: !!! PICTUREWIDE !!! Unauffälliger EKG-BefundWMPD\
 
 
 .. _Thema-Vorhofflimmern:
@@ -176,15 +274,16 @@ Pulslose elektrische Aktivität (*PEA*)
 Vorhofflimmern
 ==============
 
-.. sidebar:: Vorhofflimmern
+..
+    .. sidebar:: Vorhofflimmern
 
-    -  Flimmern im *Vorhof*
+        -  Flimmern im *Vorhof*
 
-    -  Häufige und oft chronische Erkrankung
+        -  Häufige und oft chronische Erkrankung
 
-    -  Thrombenbildung, Tachykardieanfälle
+        -  Thrombenbildung, Tachykardieanfälle
 
-    -  Oft *gerinnngshemmende Medikamente*
+        -  Oft *gerinnngshemmende Medikamente*
 
 Regellose Erregung im *Vorhof*, die oft
 symptomlos ist. (Die Herzkammern arbeiten dabei normal!) Vorhofflimmern
@@ -211,18 +310,19 @@ Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
 
 
 .. _Thema-extrasystolen:
-   
+
 Extrasystolen
 =============
 
-.. sidebar:: Extrasystolen
+..
+    .. sidebar:: Extrasystolen
 
-    -   Extraschläge
+        -   Extraschläge
 
-    -   Vereinzelt od. gehäuft, evtl. "salvenartig"
+        -   Vereinzelt od. gehäuft, evtl. "salvenartig"
 
-    -   Unterschiedliche Auswirkungen auf Kreislauf: 
-        symptomlos bis lebensbedrohlich möglich
+        -   Unterschiedliche Auswirkungen auf Kreislauf:
+            symptomlos bis lebensbedrohlich möglich
 
 Extrasystolen sind "Extraschläge" des Herzens,
 sie können vereinzelt oder gehäuft auftreten,
@@ -256,87 +356,110 @@ Untersuchungen oft nicht leicht zu ermitteln.
 ABCDE
 =====
 
-``B``
-    |symbol-RedFlag| Dyspnoe kann in Folge der kardialen
-    Mehrbelastung auftreten
+..
+    .. sidebar:: Einschätzungsblock
 
-``C``
-    Es liegt eine *Tachykardie* vor. 
-    Der Puls ist i.d.R. hoch, 
-    meist |symbol-RedFlag|  über 160 / min und evtl. nur schwach tastbar. 
-    Der Patient kann bei mangelnder Herzauswurfleistung 
-    |symbol-RedFlag| kreislaufinsuffizient werden und einen 
-    |symbol-RedFlag| kardiogenen Schock entwickeln. 
-    Im Extremfall ist auch ein |symbol-RedFlag| Kreislaufstillstand möglich.
+        .. rubric:: |Text-Abcde-B-Short|
 
-``B``
-    Evtl. |symbol-RedFlag|  Dyspnoe
+        Evtl. |symbol-RedFlag|  Dyspnoe
 
-``C``
-    Tachykardie |symbol-RedFlag|  ≥ 160 / min, Puls evtl.
-    schwach tastbar;
+        .. rubric:: |Text-Abcde-C-Short|
 
-    Evtl. |symbol-RedFlag|  Kreislaufinsuffizienz, 
-    |symbol-RedFlag| **kardiogener Schock**, 
-    |symbol-RedFlag| Kreislaufstillstand
+        Tachykardie |symbol-RedFlag|  ≥ 160 / min, Puls evtl.
+        schwach tastbar;
+
+        Evtl. |symbol-RedFlag|  Kreislaufinsuffizienz,
+        |symbol-RedFlag| **kardiogener Schock**,
+        |symbol-RedFlag| Kreislaufstillstand
+
+
+
+.. rubric:: |Text-Abcde-B|
+
+|symbol-RedFlag| Dyspnoe kann in Folge der kardialen
+Mehrbelastung auftreten
+
+.. rubric:: |Text-Abcde-C|
+
+Es liegt eine *Tachykardie* vor.
+Der Puls ist i.d.R. hoch,
+meist |symbol-RedFlag|  über 160 / min und evtl. nur schwach tastbar.
+Der Patient kann bei mangelnder Herzauswurfleistung
+|symbol-RedFlag| kreislaufinsuffizient werden und einen
+|symbol-RedFlag| kardiogenen Schock entwickeln.
+Im Extremfall ist auch ein |symbol-RedFlag| Kreislaufstillstand möglich.
 
 SAMPLER
 =======
 
-``S``
-    Das Leitsymptom ist die *Tachykardie* vor. Der Patient klagt oft
-    über ein *"Herzklopfen"* und ist unruhig. Manchmal wird der Anfall
-    von Angstgefühlen begleitet.
+..
+    .. sidebar:: SAMPLER
 
-    Oft kommen *Begleitsymptome* dazu, wie zum Beispiel Atemnot oder ein
-    leichter Brustschmerz. Dies sind erste Zeichen, dass das Herz an die
-    Grenze seiner Belastbarkeit stößt.
+        .. rubric:: |Text-Sampler-S-Short|
 
-``M``
-    Viele Patienten, bei denen Rhythmusstörungen bekannt sind nehmen
-    entsprechende Medikamente (Antiarrhythmika). Bei manchen
-    Rhythmusstörungen ist es üblich, dem Patienten bestimmte Medikamente
-    zu verschreiben, welche er im Anfall nehmen soll um diesen zu
-    beenden ("pill in the pocket"). Das Erheben der tatsächlich
-    eingenommenen sowie der verschriebenen Medikamente ist sehr wichtig,
-    da diese Informationen des weiteren Behandlungsverlauf stark
-    beeinflusst!
+        -   Tachykardie ≥ 160 / min
+        -   Spürbares Herzklopfen
+        -   Evtl. Atemnot, leichter Brustschmerz, Angstgefühl
 
-``P``
-    Eine große Rolle spielt die *Anamnese*: Da oft chronische
-    Erkrankungen die Ursache sind, haben die Patienten diese Attacken
-    immer wieder und kennen die Symptome bereits (und oft auch deren
-    Behandlung). Oft sind die entsprechenden Grunderkrankungen schon
-    seit langem bekannt und es gibt bereits entsprechende *Arztbriefe*
-    oder *Befunde*.
+        .. rubric:: |Text-Sampler-M-Short|
 
-``L``
-    Bei regelmäßig wiederkehrenden Beschwerden sind Informationen über
-    die vorherigen Episoden einzuholen.
+        Antiarrhythmika. Eingenommene und verschriebene Medikamente
+        unbedingt sorgfältig erheben!
 
-``E``
-    Die Ereignisse sind genau zu erfragen und zu dokumentieren,
-    eventuell ergibt sich dadurch eine Spur zum auslösenden Faktor.
+        .. rubric:: |Text-Sampler-P-Short|
 
-``S``
-    -  Tachykardie ≥ 160 / min
+        Oft vorbekannte Erkrankung(en); Arztbriefe und Befunde!
 
-    -  Spürbares Herzklopfen
+        .. rubric:: |Text-Sampler-L-Short|
 
-    -  Evtl. Atemnot, leichter Brustschmerz, Angstgefühl
+        Frühere Episoden?
 
-``M``
-    Antiarrhythmika. Eingenommene und verschriebene Medikamente
-    unbedingt sorgfältig erheben!
+        .. rubric:: |Text-Sampler-E-Short|
 
-``P``
-    Oft vorbekannte Erkrankung(en); Arztbriefe und Befunde!
+        Genau erfragen und dokumentieren!
 
-``L``
-    Frühere Episoden?
 
-``E``
-    Genau erfragen und dokumentieren!
+
+
+.. rubric:: |Text-Sampler-S|
+
+Das Leitsymptom ist die *Tachykardie* vor. Der Patient klagt oft
+über ein *"Herzklopfen"* und ist unruhig. Manchmal wird der Anfall
+von Angstgefühlen begleitet.
+
+Oft kommen *Begleitsymptome* dazu, wie zum Beispiel Atemnot oder ein
+leichter Brustschmerz. Dies sind erste Zeichen, dass das Herz an die
+Grenze seiner Belastbarkeit stößt.
+
+.. rubric:: |Text-Sampler-M|
+
+Viele Patienten, bei denen Rhythmusstörungen bekannt sind nehmen
+entsprechende Medikamente (Antiarrhythmika). Bei manchen
+Rhythmusstörungen ist es üblich, dem Patienten bestimmte Medikamente
+zu verschreiben, welche er im Anfall nehmen soll um diesen zu
+beenden ("pill in the pocket"). Das Erheben der tatsächlich
+eingenommenen sowie der verschriebenen Medikamente ist sehr wichtig,
+da diese Informationen des weiteren Behandlungsverlauf stark
+beeinflusst!
+
+.. rubric:: |Text-Sampler-P|
+
+Eine große Rolle spielt die *Anamnese*: Da oft chronische
+Erkrankungen die Ursache sind, haben die Patienten diese Attacken
+immer wieder und kennen die Symptome bereits (und oft auch deren
+Behandlung). Oft sind die entsprechenden Grunderkrankungen schon
+seit langem bekannt und es gibt bereits entsprechende *Arztbriefe*
+oder *Befunde*.
+
+.. rubric:: |Text-Sampler-L|
+
+Bei regelmäßig wiederkehrenden Beschwerden sind Informationen über
+die vorherigen Episoden einzuholen.
+
+.. rubric:: |Text-Sampler-E|
+
+Die Ereignisse sind genau zu erfragen und zu dokumentieren,
+eventuell ergibt sich dadurch eine Spur zum auslösenden Faktor.
 
 
    -  Angina pectoris
@@ -401,7 +524,7 @@ Basismaßnahmen
 
 Pharmakotherapie
     -   Ursachenabhängig!
-    -   **Magnesium**: 
+    -   **Magnesium**:
         Z. B. *Magnesium gluconicum* 1000—4000 mg in einer Kurzinfusion
     -   **Kalium**: Substitution nur unter Elektrolyt-Kontrolle
     -   Tachykardes Vorhofflimmern de novo: **Medkamentöse Kardioversion**
@@ -429,7 +552,7 @@ Pharmakotherapie
     -   Schmalkomplextachykardie:
         Versuch der Unterbrechung des Re-Entry-Zyklus durch kurzfristige Blocakde des AV-Knotens
 
-        -   :ref:`Adenosin <Thema-Adenosin>` i. v. 
+        -   :ref:`Adenosin <Thema-Adenosin>` i. v.
 
     .. danger::
 

@@ -74,8 +74,8 @@ gibt es verschiedene Gerätearten:
 .. figure:: /Bilder/PallingerChristoph-Ccc/Pulsoxymeter_32779-00943pt.*
 
     Handpulsoxymeter: Sauerstoffsättigung 96%, Pulsfrequenz 89/min
-    
-    [Christoph Pallinger, MfG]
+
+    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 Sensortypen
 -----------
@@ -137,7 +137,7 @@ Ermittelte Werte
 ----------------
 
 Die Sauerstoffsättigung wird in Prozent angegeben und wird mit !!!
-TERMINUS !!! *SpO2* abgekürzt. Der Normalwert liegt zwischen *96—100%*. 
+TERMINUS !!! *SpO2* abgekürzt. Der Normalwert liegt zwischen *96—100%*.
 Bei Patienten mit chronischer Lungenerkrankung findet man
 jedoch oft sehr niedrige Werte (z.B. 90%), ohne dass die Patienten
 Beschwerden haben.

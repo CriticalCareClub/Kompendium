@@ -263,34 +263,34 @@ Vorgehen
 
     Kontrolle
 
-    [Michael Motal, MfG]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-aufziehen_4815-00800.*
     :width: 99%
 
     Aufziehen mit Kanüle
 
-    [Michael Motal, MfG]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-kontrollieren_4824-00800.*
     :width: 99%
 
     Übergabe
 
-    [Michael Motal, MfG]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-verabreichen_4826_CLOSEUP-00800.*
     :width: 99%
 
-    Verabreichung über Venflon durch befugtes Personal	  
+    Verabreichung über Venflon durch befugtes Personal
 
-    [Michael Motal, MfG]  
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
     :width: 0.23
     :label: Figure-Bilderserie
 
-    Bilderserie: Medikamentengabe 
+    Bilderserie: Medikamentengabe
 
 
 ***************************
@@ -359,7 +359,7 @@ Vorgehen
 .. figure:: /Bilder/PallingerChristoph-Ccc/Infusionsbesteck_33070-00943pt.*
     :width: 99%
 
-    Infusionsbesteck 
+    Infusionsbesteck
 
     *Christoph Pallinger*
 
@@ -367,9 +367,9 @@ Vorgehen
     :width: 99%
 
     Beispiele für Infusionsbeutel und
-    -flaschen 
-    
-    *Christoph Pallinger*!!!	    
+    -flaschen
+
+    *Christoph Pallinger*!!!
 
 .. subfigend::
     :width: 0.3
@@ -401,11 +401,11 @@ Vorgehen
     werden.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-AnschlussVenflon-Live-00441pt.*
-    :width: 99%	   
+    :width: 99%
 
     Schlussendlich wird die Infusion an einem Zugang zum
     Patienten angeschlossen, hier an einer peripheren Venenverweilkanüle.
-    
+
 
 .. subfigend::
     :width: 0.3
@@ -455,7 +455,7 @@ Venenverhältnissen.
 
 -  Gebräuchliche Marken: Z.B. *Venflon*, *Braunüle*
 
-.. todo:: 
+.. todo::
 
     Bild: "Eine periphere Venenverweilkanüle (Venflon), in ihre Einzelbestandteile zerlegt
 
@@ -550,8 +550,8 @@ Assistenz
 
 .. todo:: Bilder
 
-    - Anlage einer periph. Venenverweilkanüle 
-    - Eine fixierte Venenverweilkanüle mit Infusion 
+    - Anlage einer periph. Venenverweilkanüle
+    - Eine fixierte Venenverweilkanüle mit Infusion
 
 
 !!! LITERARY !!! (Flake and Runggaldier 2008)

@@ -12,13 +12,14 @@
 Pulmonalembolie
 **************************
 
-.. sidebar:: Lungenembolie
+..
+    .. sidebar:: Lungenembolie
 
-    -   Verschluss einer Lungenarterie
-    -   Oft eingeschwemmt, vor allem:
+        -   Verschluss einer Lungenarterie
+        -   Oft eingeschwemmt, vor allem:
 
-        -   Tiefe Beinvenenthrombose
-        -   Rechter Vorhof bei Vorhofflimmern
+            -   Tiefe Beinvenenthrombose
+            -   Rechter Vorhof bei Vorhofflimmern
 
 Als :dfn:`Pulmonalembolie`
 (Abk. :dfn:`PE`, Syn. :dfn:`Lungenembolie`)
@@ -38,44 +39,45 @@ Blutgerinnseln führen.
 .. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.*
 
     Herkunft des Thrombus
-    
+
     [Lena Hirtler, MfG]
 
 ABCDE: Pulmonalembolie
 ======================
 
- 
-.. sidebar:: 1234ABCDE
 
-    **1**
-        Bettlägrigkeit? Fernreise?
+..
+    .. sidebar:: 1234ABCDE
 
-    **2**
-        Bettlägrigkeit?
+        **1**
+            Bettlägrigkeit? Fernreise?
 
-    **4**
-        Dyspnoe, (atemabhängige) |symbol-RedFlag|\  Thorax- od.
-        Rückenschmerzen, Angstgefühl
+        **2**
+            Bettlägrigkeit?
 
-        Unterscheidung zu ACS oft nicht möglich
+        **4**
+            Dyspnoe, (atemabhängige) |symbol-RedFlag|\  Thorax- od.
+            Rückenschmerzen, Angstgefühl
 
-    **B**
-        |symbol-RedFlag|\  Atemnot, Tachypnoe
+            Unterscheidung zu ACS oft nicht möglich
 
-    **C**
-        HF ↑, evtl. arrhythmischer Puls (Vorhofflimmern), RR
-        normal od. |symbol-RedFlag|\  ↓
+        **B**
+            |symbol-RedFlag|\  Atemnot, Tachypnoe
 
-        Gestaute Halsvenen (Blutrückstau), evtl. arrhythmischer Puls bei
-        Vorhofflimmern
+        **C**
+            HF ↑, evtl. arrhythmischer Puls (Vorhofflimmern), RR
+            normal od. |symbol-RedFlag|\  ↓
 
-        |symbol-RedFlag|\  Schockzeichen?
+            Gestaute Halsvenen (Blutrückstau), evtl. arrhythmischer Puls bei
+            Vorhofflimmern
 
-    **=**
-        Bei bestehender Atemnot oder Thoraxschmerzen vitale Bedrohung.
+            |symbol-RedFlag|\  Schockzeichen?
 
-    **…**
-        Venöser Verschluss?
+        **=**
+            Bei bestehender Atemnot oder Thoraxschmerzen vitale Bedrohung.
+
+        **…**
+            Venöser Verschluss?
 
 
 **1**
@@ -110,7 +112,7 @@ ABCDE: Pulmonalembolie
 
 **=**
     Bei |symbol-RedFlag|\  anhaltender Atemnot oder |symbol-RedFlag|\
-    Thoraxschmerzen besteht eine vitale Bedrohung. 
+    Thoraxschmerzen besteht eine vitale Bedrohung.
 
 **…**
     Je nach Ursache der Embolie und Herkunft des Embolus kann man
@@ -122,20 +124,21 @@ ABCDE: Pulmonalembolie
 SAMPLER: Pulmonalembolie
 ========================
 
-.. sidebar:: SAMPLER
+..
+    .. sidebar:: SAMPLER
 
-    **M**
-        Thrombosespritzen
+        **M**
+            Thrombosespritzen
 
-    **P**
-        Vorhofflimmern, Thrombose, Embolie, Krebserkrankungen
+        **P**
+            Vorhofflimmern, Thrombose, Embolie, Krebserkrankungen
 
-    **E**
-        Fernreise? Langes Sitzen/Liegen? Wenig getrunken?
+        **E**
+            Fernreise? Langes Sitzen/Liegen? Wenig getrunken?
 
-    **R**
-        Immobilisation, Vorhofflimmern, vorangegange Thrombose oder Embolie,
-        Schwangerschaft, Rauchen, Verhütungspille
+        **R**
+            Immobilisation, Vorhofflimmern, vorangegange Thrombose oder Embolie,
+            Schwangerschaft, Rauchen, Verhütungspille
 
 
 **M**
@@ -170,12 +173,12 @@ Maßnahmen: Pulmonalembolie
 ==========================
 
 
-.. todo:: 
+.. todo::
 
     Maßnahmen COPD: Anpassung an höherqualifiziertes Personal
 
 
-Taktik: **Vitale Bedrohung!** 
+Taktik: **Vitale Bedrohung!**
 Atemnot lindern, rasche medikamentöse Therapie, ärztliche Therapie sinnvoll
 
 -   |TxMassVitMKBes|
@@ -195,6 +198,6 @@ Atemnot lindern, rasche medikamentöse Therapie, ärztliche Therapie sinnvoll
 
 -   Klinisch:
 
-    -   Heparinisierung unter aPTT-Kontrolle 
+    -   Heparinisierung unter aPTT-Kontrolle
         oder niedermolekulares Heparin in therapeutischer Dosierung
 

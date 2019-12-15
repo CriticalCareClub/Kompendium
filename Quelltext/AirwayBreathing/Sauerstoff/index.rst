@@ -8,22 +8,23 @@ Sauerstoff – O\ :sub:`2`
 ########################
 
 
-.. sidebar:: Sauerstoff
+..
+    .. sidebar:: Sauerstoff
 
-  -  Medizinischer Sauerstoff: Vollständig weiß
+    -  Medizinischer Sauerstoff: Vollständig weiß
 
-  -  Gefahrengutaufkleber
+    -  Gefahrengutaufkleber
 
-  -  Unterschiedliche Füllgrößen
+    -  Unterschiedliche Füllgrößen
 
-  -  Druck ca. 200 bar
+    -  Druck ca. 200 bar
 
-  -  Hauptventil mit Standardgewinde
+    -  Hauptventil mit Standardgewinde
 
-  -  Daran Druckminderer/Berieselungseinheit angeschlossen
+    -  Daran Druckminderer/Berieselungseinheit angeschlossen
 
-      -  Gasflaschen mit *medizinischem* Sauerstoff sind *vollständig
-         weiß*.
+        -  Gasflaschen mit *medizinischem* Sauerstoff sind *vollständig
+            weiß*.
 
 
 
@@ -67,8 +68,8 @@ dabei befindet sich der Sauerstoff vollständig im gasförmigen Aggregatzustand.
    Kennzeichnung”) gekennzeichnet. Dies hat *nichts* mit dem chemischen
    Symbol für Stickstoff (N) zu tun!
 
-   
-.. rubric:: Ausgänge     
+
+.. rubric:: Ausgänge
 
 Jede Druckflasche verfügt über ein :dfn:`Hauptventil` :index:`\ <! Hauptventil>` und
 ein Standardgewinde. An diesem Gewinde ist entweder ein weiterführender
@@ -81,7 +82,7 @@ angeschlossen.
 
    Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
 
-   [Christoph Pallinger, MfG]
+   Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 Umgang mit Sauerstoff und Druckflaschen
 =======================================
@@ -123,7 +124,7 @@ dadurch ein falsch hoher Druck angezeigt wird.
     -  Die Sauerstoffflaschen sind pfleglich zu behandeln!
 
 .. danger::
-   
+
    **Lebensgefahr!**
 
    -  Achtung! Vorsicht beim Hantieren: **Zerknall- und Explosionsgefahr!**
@@ -162,7 +163,7 @@ multipliziert:
    \text{Verfügbares Volumen in L} = {\begin{array}{c}
    \text{Volumen der Flasche in L}\\
    \text{(Füllgröße)} \end{array}}
-   \times 
+   \times
    \begin{array}{c}{\text{Druck in bar}}\\
    \text{(Flaschendruck)}
    \end{array}\notag
@@ -177,7 +178,7 @@ Abgaberate*:
 .. math::
 
    \notag
-   \text{Zeit} = 
+   \text{Zeit} =
    \frac{\text{Verfügbares Volumen}}{\text{Abgaberate}}
    \notag
 
@@ -192,7 +193,7 @@ Zu Bedenken ist dabei:
   eventuell zusätzlich zur Patientendosis einen zusätzlichen Verlust
   ("Betriebsgas") haben können.
 
-- Zusätzlicher Verlust kann durch Leckagen auftreten. 
+- Zusätzlicher Verlust kann durch Leckagen auftreten.
 
 - Generell muss immer eine ausreichende *Zeitreserve* eingeplant
   werden!
@@ -251,7 +252,7 @@ Die (geschätzte) Fahrtdauer von 4 h 58 min entspricht 298 min, es
 ergibt sich eine Zeitreserve von 2 min. Da die Zeitreserve von 2 min
 zu kurz ist, kann der Transport mit dieser Ausstattung *nicht*
 durchgeführt werden.
-   
+
 
 
 
@@ -262,10 +263,10 @@ Verabreichung von Sauerstoff
 
 .. figure:: /Bilder/MotalMichael-Ccc/o2_4765-00800.*
             :width: 50%
-            :align: right        
+            :align: right
 
-            [Michael Motal, MfG]
-            
+            Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
+
 Die Verabreichung von Sauerstoff ist eine wichtige und häufige Maßnahme.
 Sauerstoff kann sowohl einem selbst atmenden Patienten zusätzlich
 gegeben werde (:dfn:`Berieselung` :index:`\ <! Berieselung>`), aber auch bei der
@@ -288,8 +289,8 @@ O₂-Berieselungseinheit
   -  Flowmeter
 
   -  Manometer
-     
-Die Berieselungseinheit besteht im Wesentlichen aus einem 
+
+Die Berieselungseinheit besteht im Wesentlichen aus einem
 :dfn:`Druckminderer`.
 Der Druckminderer hat ein *Abgabeventil*, welches
 den *Druck drosselt* und eine Abgabe an den Patienten ermöglicht.
@@ -312,7 +313,7 @@ Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.
    Druckminderer mit integrierter Berieselungseinheit an einer
    Sauerstofflasche
 
-   [Chrostoph Pallinger, MfG]
+   Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 .. _Thema-Berieselung:
 
@@ -342,28 +343,28 @@ Sauerstoffmasken mit Reservoir [133]_.
 
             Sauerstoffbrille
 
-            [Christoph Pallinger, MfG]
-            
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32987_v2-AASS-0112mm.*
 
             Sauerstoffmaske
 
-            [Christoph Pallinger, MfG]
-            
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32986_v2-AASS-0112mm.*
 
             Sauerstoffmaske mit Reservoir
 
-            [Christoph Pallinger, MfG]
-   
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+
 .. subfigend::
     :width: 0.3
     :label: Figure-Bilderserie-Sauerstoffberieselung
 
      Bilderserie: Mittel zur Berieselung mit Sauerstoff
-     
+
 .. table::  Verabreichungsarten von Sauerstoff
-   
+
    +-----------------------------------+-----------------------------------------+---------------------------------------+-----------------------------------------------------------+
    |                                   | **Indikation**                          | **Vorteile**                          | **Nachteile**                                             |
    +-----------------------------------+-----------------------------------------+---------------------------------------+-----------------------------------------------------------+
@@ -410,13 +411,13 @@ sodass die Sauerstoffsättigung
 
     -   COPD (relativ)
     -   Hyperventilationssyndrom, Hyperventilationstetanie (relativ)
-    -   Chemotherapie mit Bleomycin in der Anamnese    
+    -   Chemotherapie mit Bleomycin in der Anamnese
 
 #.  Situationsgerechte Dosierung je nach
-    zugrundeliegender Erkrankung. 
+    zugrundeliegender Erkrankung.
     Grundsätzlich soll ein
     SpO₂ von
-    **94--98%** erreicht werden. 
+    **94--98%** erreicht werden.
     Steht keine Pulsoxymetrie zur Verfügung, ist als
     Richtwert von einer Dosis von **8 L / min** auszugehen,
     welche dem klinischen Zustand des Patienten angepasst werden
@@ -439,22 +440,23 @@ sodass die Sauerstoffsättigung
 #.  Bei Verwendung einer Sauerstoffmaske mit
     Reservoir: Reservoir füllen
 
-#.  Sauerstoffbrille/-maske am Patienten positionieren 
+#.  Sauerstoffbrille/-maske am Patienten positionieren
 
 
 
 O₂-Zufuhr bei der Beatmung mittels Beatmungsbeutel
 =========================================================
 
-.. sidebar:: O₂-Zufuhr bei Beatmung
-             
-    -  Beamtungsbeutel:
+..
+    .. sidebar:: O₂-Zufuhr bei Beatmung
 
-       -  O₂-\ *Verbindungsschlauch*
+        -  Beamtungsbeutel:
 
-       -  O₂-\ *Reservoir*
+        -  O₂-\ *Verbindungsschlauch*
 
-    -  Beatmungsgerät: einstellbar
+        -  O₂-\ *Reservoir*
+
+        -  Beatmungsgerät: einstellbar
 
 In den allermeisten Situationen, bei denen eine Beatmung mittels
 Beatmungsbeutel notwendig ist, muss zusätzlich Sauerstoff zugeführt werden.

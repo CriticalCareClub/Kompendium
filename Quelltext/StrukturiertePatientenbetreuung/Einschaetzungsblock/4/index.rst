@@ -5,12 +5,13 @@
 What’s up, man?
 ===============
 
-.. sidebar:: Hauptbeschwerde
+..
+    .. sidebar:: Hauptbeschwerde
 
-  -  Eigene Wahrnehmung, Patientengespräch, Angehörige
+    -  Eigene Wahrnehmung, Patientengespräch, Angehörige
 
-  -  Grund der Berufung, Schmerzen und andere für den Patienten dringliche
-     Symptome, Trauma
+    -  Grund der Berufung, Schmerzen und andere für den Patienten dringliche
+        Symptome, Trauma
 
 Die *Hauptbeschwerde* des Patienten, bzw. der *Grund der Berufung*,
 sowie Schmerzen und andere für den Patienten dringliche Symptome müssen

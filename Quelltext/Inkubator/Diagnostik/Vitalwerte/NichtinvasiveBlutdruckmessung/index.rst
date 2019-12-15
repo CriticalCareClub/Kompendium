@@ -18,7 +18,7 @@ Nicht-invasive Messung des Blutdrucks
 
 .. toctree::
 	:maxdepth: 1
-	
+
 
 Beschreibung
 ------------
@@ -29,16 +29,16 @@ in den Arterien [113]_. Er gehört in Kombination mit der Herzfrequenz zu
 den grundlegenden Vitalwerten.
 
 *Der Druck in der Arterie schwankt in Abhängigkeit zum Herzauswurf*:
-Wenn das Herz Blut auswirft 
-(*Auswurfphase* :index:`\ <Auswurfphase!Blutdruckmessung>`, *Systole)* 
+Wenn das Herz Blut auswirft
+(*Auswurfphase* :index:`\ <Auswurfphase!Blutdruckmessung>`, *Systole)*
 :index:`\ <Systole!Blutdruckmessung>` erreicht er sein Maximum, und sinkt
-danach in der *Füllungsphase* 
-:index:`\ <Füllungsphase!Blutdruckmessung>` des Herzens (*Diastole)* 
-:index:`\ <Diastole!Blutdruckmessung>` 
+danach in der *Füllungsphase*
+:index:`\ <Füllungsphase!Blutdruckmessung>` des Herzens (*Diastole)*
+:index:`\ <Diastole!Blutdruckmessung>`
 wieder ab, bis das Herz
-neuerlich Blut auswirft. 
+neuerlich Blut auswirft.
 Dementsprechend können zwei Werte erhoben
-werden: 
+werden:
 Der
 
 -  **Systolische** Blutdruck (Spitzendruck), und der
@@ -112,8 +112,8 @@ Es gibt Manschetten in unterschiedlichen Größen.
 
     Blutdruckmanschetten mit Hak- und Klettverschluss, sowie einem Doppel-
     und einem Einzelkopfstethoskop
-    
-    [Ch. Pallinger, MfG]
+
+    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 .. _Thema-Stethoskop:
 
@@ -208,7 +208,7 @@ abgerundet auf ). Dokumentiert wird der Blutdruck mit dem Zusatz *RR*
 
 #.  Radialispuls tasten
 
-#.  Manschette aufpumpen bis Radialispuls nicht mehr 
+#.  Manschette aufpumpen bis Radialispuls nicht mehr
     tastbar ist + 20-30 mm Hg
 
 #.  Stethoskop über Oberarmarterie anlegen
@@ -227,7 +227,7 @@ abgerundet auf ). Dokumentiert wird der Blutdruck mit dem Zusatz *RR*
     Prinzip der auskultatorischen RR-MessungIn Abhängigkeit vom außen
     anliegenden Manschettendruck kommt es zu einem unterschiedlich starken
     Blutfluss und dadurch entstehenden, hörbaren, Strömungsgeräuschen.
-    
+
     [Lena Hirtler, MfG]
 
 Palpatorische Methode

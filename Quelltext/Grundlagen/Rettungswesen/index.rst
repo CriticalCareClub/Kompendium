@@ -97,23 +97,23 @@ Ereignissen zum Einsatz kommen können.
     :width: 50%
 
     Arbeit in der Leitstelle
-    
-    [Sebastian Gabriel, MfG]
+
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 
 .. index::
    single: Call Taking
    single: Disposition
    single: Disponent
-	    
+
 Aufgaben
 ^^^^^^^^
 
-Zu den typischen Aufgaben einer Rettungsdienstleitstelle gehört das 
-:dfn:`Call Taking`, 
-also die *Annahme und Abfrage von Notrufmeldungen* 
+Zu den typischen Aufgaben einer Rettungsdienstleitstelle gehört das
+:dfn:`Call Taking`,
+also die *Annahme und Abfrage von Notrufmeldungen*
 oder sonstigen Alarmierungen, sowie deren *Erfassung*
-in einem Einsatzleitsystem durch einen *Call Taker*. 
+in einem Einsatzleitsystem durch einen *Call Taker*.
 Die Meldungen
 unterlaufen eine *Einteilung und Priorisierung* nach Art und
 Dringlichkeit der Meldung. Der Leitstelle obliegt die Entscheidung,
@@ -139,30 +139,31 @@ protokolliert, als auch besondere Ereignisse. Telefongespräche mit der
 Leitstelle werden i.d.R. aufgezeichnet und gespeichert.
 
 
-.. sidebar:: Aufgaben
+..
+    .. sidebar:: Aufgaben
 
-  -  *Call Taking*
-  
-     -  Annahme & Abfrage von Notrufen & Alarmierungen
+    -  *Call Taking*
 
-     -  Erfassung im Einsatzleitsystem, Einteilung und Priorisierung nach
-        Art und Dringlichkeit der Meldung, benötigtes Personal, etc.
+        -  Annahme & Abfrage von Notrufen & Alarmierungen
 
-  -  *Disposition*
+        -  Erfassung im Einsatzleitsystem, Einteilung und Priorisierung nach
+            Art und Dringlichkeit der Meldung, benötigtes Personal, etc.
 
-     -  Welche Einsatzmittel
+    -  *Disposition*
 
-     -  Alarmierung der Einheiten
+        -  Welche Einsatzmittel
 
-     -  Übermittlung der Aufträge
+        -  Alarmierung der Einheiten
 
-     -  Unterstützung, Koordination
+        -  Übermittlung der Aufträge
 
-     -  Evtl. Zuteilung von Krankenhausbetten
+        -  Unterstützung, Koordination
 
-     -  Status-/Standort-Verwaltung
+        -  Evtl. Zuteilung von Krankenhausbetten
 
-  -  Dokumentation
+        -  Status-/Standort-Verwaltung
+
+    -  Dokumentation
 
 Funk
 ----
@@ -341,13 +342,14 @@ organisationsspezifische andere Einsatzmitteltypen zum Einsatz.
 Krankentransportwagen – KTW
 ---------------------------
 
-.. sidebar:: KTW
+..
+    .. sidebar:: KTW
 
-  -  Krankentransport
+    -  Krankentransport
 
-  -  Keine Notfallpatienten
+    -  Keine Notfallpatienten
 
-  -  Mind. 2 RS
+    -  Mind. 2 RS
 
 Der :dfn:`Krankentransportwagen` (:dfn:`KTW`) ist für den Transport, die Erstversorgung und
 die Überwachung von Patienten, welche *keine Notfallpatienten* sind und
@@ -370,15 +372,16 @@ Rettungssanitäter*).
 Rettungstransportwagen – RTW
 ----------------------------
 
-.. sidebar:: RTW
+..
+    .. sidebar:: RTW
 
-  -  Notfallrettung, Überstellungen
+    -  Notfallrettung, Überstellungen
 
-  -  Notfallpatienten
+    -  Notfallpatienten
 
-  -  Zusammen mit NEF im organisierten Notarztdienst
+    -  Zusammen mit NEF im organisierten Notarztdienst
 
-  -  Mind. 1 NFS, 1--2 RS
+    -  Mind. 1 NFS, 1--2 RS
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.*
@@ -386,8 +389,8 @@ Rettungstransportwagen – RTW
     :width: 50%
 
     RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.)
-    
-    [Sebastian Gabriel, MfG]
+
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 Der :dfn:`RTW` ist für den Transport, die erweiterte
 Behandlung und die Überwachung von Patienten – insbesonders
@@ -413,17 +416,18 @@ Rettungssanitäter* ).
 .. index::
    single: NAW
    single: Notarztwagen
-   
+
 Notarztwagen – NAW
 ------------------
 
-.. sidebar:: NAW
-	     
-  -  Notfallrettung, Überstellungen
+..
+    .. sidebar:: NAW
 
-  -  Notfallpatienten
+    -  Notfallrettung, Überstellungen
 
-  -  Mind. 1 NA, 1 NFS, 1--2 RS
+    -  Notfallpatienten
+
+    -  Mind. 1 NA, 1 NFS, 1--2 RS
 
 
 Der :dfn:`Notarztwagen` (:dfn:`NAW`) ist für den Transport, die erweiterte
@@ -439,27 +443,28 @@ mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifikation:
 .. index::
    single: NEF
    single: Notarzteinsatzfahrzeug
-   
+
 Notarzteinsatzfahrzeug – NEF
 ----------------------------
 
-.. sidebar:: NEF
-	     
-  -  Notfallrettung, Überstellungen
+..
+    .. sidebar:: NEF
 
-  -  Kein Transport
+    -  Notfallrettung, Überstellungen
 
-  -  Mind. 1 NA, 1 NFS
+    -  Kein Transport
 
-  -  Ein :abbr:`NEF` transportiert keine Patienten.
+    -  Mind. 1 NA, 1 NFS
+
+    -  Ein :abbr:`NEF` transportiert keine Patienten.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.*
     :align: right
     :width: 50%
-	    
+
     NEF der Wiener Berufsrettung (altes Modell)
-    
-    [Gabriel MfG]
+
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 Ein :abbr:`NEF (Notarzteinsatzfahrzeug)` :dfn:`Notarzteinsatzfahrzeug` ist ein Zubringerfahrzeug, welches den
 Notarzt zu einem Einsatzort bringt. Es führt die für eine ärztliche
@@ -475,48 +480,49 @@ Notarzt, 1 Notfallsanitäter (im Ausnahmefall auch Rettungssanitäter)).
 
 
 
-   
+
 .. index::
    single: Notarzthubschrauber
    single: NAH
-   
+
 Notarzthubschrauber – NAH
 -------------------------
 
 
 
-.. sidebar:: NAH
-	     
-  -  Notfallrettung, Überstellungen
+..
+    .. sidebar:: NAH
 
-  -  Besondere Einsatztaktik
+    -  Notfallrettung, Überstellungen
 
-  -  Vorteile:
+    -  Besondere Einsatztaktik
 
-     -  Erschütterungsarm
+    -  Vorteile:
 
-     -  Schnell
+        -  Erschütterungsarm
 
-  -  Nachteile:
+        -  Schnell
 
-     -  Landefläche mind. 25\ :math:`\times`\ 25m
+    -  Nachteile:
 
-     -  Wetter-, tageszeitabhängig
+        -  Landefläche mind. 25\ :math:`\times`\ 25m
 
-     -  Hohe Kosten
+        -  Wetter-, tageszeitabhängig
 
-     -  Wenig Platz
+        -  Hohe Kosten
 
-  -  Mind. 1 Pilot, 1 NA, 1 NFS
+        -  Wenig Platz
+
+    -  Mind. 1 Pilot, 1 NA, 1 NFS
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Landeanflug-OE-XEC_IMG_1912_1.*
     :align: right
     :width: 50%
 
     Ein Hubschrauber der Christophorus-Flugrettungsflotte im Landeanflug an das AKH Wien
-    
-    [Sebastian Gabriel, MfG]
-     
+
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+
 :dfn:`Notarzthubschrauber` (:dfn:`NAH`) werden in der *Notfallrettung*, für *Überstellungen*
 und z.T. bei *Bergungen* eingesetzt. *Vorteile* sind u.a. ein relativ
 erschütterungsfreier Transport und kürzere Transportzeiten auf längeren
@@ -560,7 +566,7 @@ Die Besetzung ist uneinheitlich, zwingend erforderlich sind jedoch mind.
 
 .. index::
     single: First Responder
-    
+
 First Responder
 ---------------
 
@@ -577,7 +583,7 @@ First Responder
 
 
 Die Definition, Ausbildung und der Aufgabenbereich eines First
-Responders sind regional sehr unterschiedlich. Grundsätzlich sind 
+Responders sind regional sehr unterschiedlich. Grundsätzlich sind
 :dfn:`First Responder` in der Regel zumindest in erweiterter
 Ersten Hilfe ausgebildete Personen, die bei Notfällen die Zeit bis zum
 Eintreffen des Rettungsdienstes mit qualifizierten Maßnahmen
@@ -637,7 +643,7 @@ professionellen Versorung und wird präklinisch (“vor der Klinik”) tätig.
 
 .. index::
     single: Sekundäreinsatz
-    
+
 Sekundärtransport
 -----------------
 
@@ -681,7 +687,7 @@ Rettungswesen in Wien
 Die Stadt Wien ist für die Durchführung des Rettungsdienstes für das
 Gemeindegebiet verantwortlich. Zur Erfüllung dieser Aufgabe betreibt sie
 einerseits durch die
-:dfn:`Magistratsabteilung 70` 
+:dfn:`Magistratsabteilung 70`
 (:dfn:`MA70`, *Wiener Berufsrettung*)
 einen eigenen Rettungsdienst,
 andererseits bedient sie sich auch der Tätigkeit anderer bewilligter

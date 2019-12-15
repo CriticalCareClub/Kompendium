@@ -6,37 +6,39 @@ Die Wirbelsäule
 
     |Text-InkubatorInhalt|
 
-.. sidebar:: Wirbelsäule
-	     
-    -   Doppelt S-förmig gekrümmtes Achsenskelett, ermöglicht aufrechten Gang
 
-    -   *Bestandteile*
+..
+    .. sidebar:: Wirbelsäule
 
-        -   Wirbel (Vertebrae)
+        -   Doppelt S-förmig gekrümmtes Achsenskelett, ermöglicht aufrechten Gang
 
-        -   :dfn:`Bandscheiben` (:dfn:`Discus`):
-            dienen der “Stoßdämpfung”
+        -   *Bestandteile*
 
-        -   *Im Wirbelkanal liegt das Rückenmark eingebettet.*
+            -   Wirbel (Vertebrae)
 
-    -  *Gliederung*
+            -   :dfn:`Bandscheiben` (:dfn:`Discus`):
+                dienen der “Stoßdämpfung”
 
-        -   7 *Hals*\ wirbel
-            (Cervical-Wirbel, C 1--7)
+            -   *Im Wirbelkanal liegt das Rückenmark eingebettet.*
 
-        -   12 *Brust*\ wirbel
-            (Thorakal-Wirbel, Th 1--12)
+        -  *Gliederung*
 
-        -   5 *Lenden*\ wirbel
-            (Lumbal-Wirbel, L 1--5)
+            -   7 *Hals*\ wirbel
+                (Cervical-Wirbel, C 1--7)
 
-        -   5 verschmolzene *Kreuzbein*\ wirbel
-            (Os sacrum, S 1--5)
+            -   12 *Brust*\ wirbel
+                (Thorakal-Wirbel, Th 1--12)
 
-        -   3--4 *Steißbein*\ “wirbel”
-            (Os coccygis)
+            -   5 *Lenden*\ wirbel
+                (Lumbal-Wirbel, L 1--5)
 
-    -   Klinisch: Bandscheibenvorfall, Wirbelsäulentrauma
+            -   5 verschmolzene *Kreuzbein*\ wirbel
+                (Os sacrum, S 1--5)
+
+            -   3--4 *Steißbein*\ “wirbel”
+                (Os coccygis)
+
+        -   Klinisch: Bandscheibenvorfall, Wirbelsäulentrauma
 
 Beschreibung
 ------------
@@ -54,7 +56,7 @@ gekrümmt*, diese Form ermöglicht den *aufrechten Gang*.
    single: Rückenmark
 
 Bestandteile
-^^^^^^^^^^^^            
+^^^^^^^^^^^^
 
 Die Wirbelsäule besteht aus mehreren Komponenten. Die knöchernen,
 übereinander “gestapelten” :dfn:`Wirbel` (Vertebrae) geben
@@ -79,7 +81,7 @@ das *Rückenmark* eingebettet.
    single: Steißbein
 
 Gliederung
-^^^^^^^^^^          
+^^^^^^^^^^
 
 Die Wirbelsäule gliedert sich in verschiedene Abschnitte: Es gibt 7
 *Hals*\ wirbel (Cervical-Wirbel, C 1--7),
@@ -108,7 +110,7 @@ Die Wirbel: Aufbau und Arten
 
 Ein Wirbel [188]_ besteht aus einem :dfn:`Wirbelkörper` und
 einem :dfn:`Wirbelbogen`, welcher das Rückenmark umschließt.
-Vom Wirbelbogen entspringen 2 :dfn:`Querfortsätze` und 1 
+Vom Wirbelbogen entspringen 2 :dfn:`Querfortsätze` und 1
 :dfn:`Dornfortsatz`. Die Wirbelkörper tragen die Last des
 Rumpfes, zwischen ihnen liegen die *Bandscheiben*. Der Wirbelbogen
 *schützt das Rückenmark* vor Verletzungen, die Querfortsätze dienen z. B.
@@ -124,7 +126,7 @@ Abschnitten der Wirbelsäule sehen die Wirbel unterschiedlich aus.
    ausgewachsen, Wirbelloch ist durchgängig verknöchert) bzw. das
    Steißbein (verkümmerte Wirbeln, kein Wirbelloch, meist auch keine
    Fortsätze mehr erkennbar).
-   
+
 Aufbau:
 
 -  Wirbelkörper
@@ -138,6 +140,6 @@ Aufbau:
 .. figure:: /Bilder/HirtlerLena-Ccc/Wirbel-allgemein.*
 
     Wirbel
-    
+
     [Lena Hirtler, MfG]
 

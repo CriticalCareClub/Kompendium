@@ -13,14 +13,15 @@ Arterielle Hypertonie
 Beschreibung
 ************
 
-.. sidebar:: Beschreibung
+..
+    .. sidebar:: Beschreibung
 
-    -  Chronische Erhöhung des arteriellen Blutdrucks
+        -  Chronische Erhöhung des arteriellen Blutdrucks
 
-    -  Risikofaktor für Herz-/Kreislauferkrankungen
+        -  Risikofaktor für Herz-/Kreislauferkrankungen
 
-    -  Bei *Schwangeren* sind die Grenzwerte genau zu beachten!
-       (*EPH-Gestose*)!
+        -  Bei *Schwangeren* sind die Grenzwerte genau zu beachten!
+        (*EPH-Gestose*)!
 
 .. admonition:: Beschreibung
 
@@ -58,25 +59,26 @@ und behandelt werden.
 Langzeitfolgen
 **************
 
-.. sidebar:: Langzeitschäden
+..
+    .. sidebar:: Langzeitschäden
 
-    -  *Gefäßschädigung*
+        -  *Gefäßschädigung*
 
-    -  Herzkranzgefäße → Infarkt
+        -  Herzkranzgefäße → Infarkt
 
-    -  Hirngefäße → Schlaganfall
+        -  Hirngefäße → Schlaganfall
 
-    -  Nierengefäße → Niereninsuffizienz
-        → Dialyse → typischer
-        KTW-Patient
+        -  Nierengefäße → Niereninsuffizienz
+            → Dialyse → typischer
+            KTW-Patient
 
-    -  Hauptschlagader → Aneurysma
+        -  Hauptschlagader → Aneurysma
 
-    -  *Herzmuskelschädigung*
+        -  *Herzmuskelschädigung*
 
-    (Herz muss gegen größeren Widerstand pumpen)
+        (Herz muss gegen größeren Widerstand pumpen)
 
-    -  Krankhafte Vergrößerung des Herzmuskels
+        -  Krankhafte Vergrößerung des Herzmuskels
 
 Die Hypertonie hat in der Notfallmedizin auch eine wichtige indirekte
 Bedeutung: Sie ist Ursache für viele andere Erkrankungen, die ihrerseits
@@ -148,7 +150,7 @@ Schwindel …). Vgl. [Table-hxpertension-krise-notfall].
 
     -  Übelkeit, Erbrechen, Schwindel
 
-     
+
     Eine notfallmäßige Blutdrucksenkung ist (eher) nicht erforderlich. &
     **Vitale Bedrohung**: *Gefahr des Herzversagens: Das Herz muss
     plötzlich gegen großen Druck pumpen*
@@ -189,7 +191,7 @@ ABCDE
     Symptomen wie  Kopfschmerzen und
      **Sehstörungen**, weiters evtl. zu
      **Brustschmerzen**, Übelkeit, |symbol-RedFlag|\
-     Erbrechen und 
+     Erbrechen und
      Schwindel.
 
 ``B``
@@ -221,22 +223,23 @@ ABCDE
 SAMPLER
 =======
 
-.. sidebar:: SAMPLER
+..
+    .. sidebar:: SAMPLER
 
-    ``S``
-        Siehe ABCDE.
+        ``S``
+            Siehe ABCDE.
 
-    ``M``
-        Blutdrucksenkende Medikamente. Neue Verschreibungen? Einnahmefehler?
+        ``M``
+            Blutdrucksenkende Medikamente. Neue Verschreibungen? Einnahmefehler?
 
-    ``P``
-        (Chronische) arterielle Hypertonie, Blutdruckprotokoll
+        ``P``
+            (Chronische) arterielle Hypertonie, Blutdruckprotokoll
 
-    ``L``
-        Letzte Medikamenteneinnahme, letzte ärztliche Kontrollen?
+        ``L``
+            Letzte Medikamenteneinnahme, letzte ärztliche Kontrollen?
 
-    ``E``
-        Ursachen für Einnahmefehler?
+        ``E``
+            Ursachen für Einnahmefehler?
 
 ``S``
     Siehe ABCDE.
@@ -299,7 +302,7 @@ Maßnahmen: Hypertensive Krise
 
 .. todo:: Maßnahme MI10911C: Anpassung an höherqualifiziertes Personal
 
-Taktik 
+Taktik
     Symptomatische Therapie
 
 
@@ -308,12 +311,12 @@ Taktik
     Bei Nasenbluten: Kopf nach vorne halten.
 -   Beengende Kleidung öffnen
 -   O₂-Gabe gemäß :ref:`m-sauerstoffberieselung`
--   Transportentscheidung: Abt. f. Innere Medizin; 
+-   Transportentscheidung: Abt. f. Innere Medizin;
 
     bei Nasenbluten: HNO im Hintergrund
 
 Eine notfallmäßige Blutdrucksenkung ist *nicht*
-sinnvoll. 
+sinnvoll.
 
 .. _MI10912C:
 .. _m-hypertensiver-notfall:
@@ -323,13 +326,13 @@ Maßnahmen: Hypertensiver Notfall
 
 .. todo:: Maßnahme MI10912C: Anpassung an höherqualifiziertes Personal
 
-Taktik 
+Taktik
     **Vitale Bedrohung!**
     Rasche Blutdrucksenkung (veranlassen)
 
 Basismaßnahmen
     -   Lagerung: Oberkörper hoch
-    
+
         Bei Nasenbluten: Kopf nach vorne halten.
     -   Beengende Kleidung öffnen
     -   |TxMassVitMK|

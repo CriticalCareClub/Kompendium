@@ -11,13 +11,14 @@ Beschreibung und Ursachen
 *************************
 
 
-.. sidebar:: Beschreibung und Ursachen
+..
+    .. sidebar:: Beschreibung und Ursachen
 
-    -  verminderte Blutflussgeschwindigkeit oder Rückstau
+        -  verminderte Blutflussgeschwindigkeit oder Rückstau
 
-    -  Flüssige Blutbestandteile ↓
+        -  Flüssige Blutbestandteile ↓
 
-    -  Gesteigerte bzw. krankhafte Neigung
+        -  Gesteigerte bzw. krankhafte Neigung
 
 Eine tiefe :dfn:`Beinvenenthrombose` ist eine Verstopfung
 einer tiefen Beinvene durch ein Blutgerinnsel (Thrombus [245]_).
@@ -34,7 +35,7 @@ fehlende Bewegung.
 
 
 .. [245]
-   Thrombus: Blutgerinnsel. Im Gegensatz dazu 
+   Thrombus: Blutgerinnsel. Im Gegensatz dazu
    *Embolus*: Losgelöster Thrombus, welcher woanders ein Gefäß verstopft
    und eine :dfn:`Embolie` verursacht.
 
@@ -152,7 +153,7 @@ Gefahr
 
 .. sidebar:: Gefahr
 
-    -  Lösung des Thrombus → *Lungenembolie* 
+    -  Lösung des Thrombus → *Lungenembolie*
 
 Es kann zu einer *Loslösung von Teilen des Thrombus* kommen, dieser
 losgelöste Teil wird :dfn:`Embolus` genannt.
@@ -179,7 +180,7 @@ Es entsteht eine *Lungenembolie*.
     Sorgsam geschlichtet verbringen Menschen hier Stunden damit,
     Thrombosen zu basteln.
 
-    [Gabriel]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/lovenox1.*
     :width: 99%
@@ -190,7 +191,7 @@ Es entsteht eine *Lungenembolie*.
     entstehen können. Die Substanz wird unter die Haut ("subkutan")
     gespritzt.
 
-    [Gabriel]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.*
     :width: 99%
@@ -198,7 +199,7 @@ Es entsteht eine *Lungenembolie*.
     Eine Venenthrombose
     kann eine Embolie auslösen.
 
-    [Hirtler]
+    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
     :width: 0.3
@@ -209,12 +210,12 @@ Es entsteht eine *Lungenembolie*.
 .. _Proc-MI74042C:
 
 ********************************************************
-Maßnahmen: Tiefe Beimvenenthrombose 
+Maßnahmen: Tiefe Beimvenenthrombose
 ********************************************************
 
 
 
-.. todo:: 
+.. todo::
 
     Maßnahmen TVT: Anpassung an höherqualifiziertes Personal
 
@@ -227,8 +228,8 @@ Basismaßnahmen
 
 Pharmakotherapie
     -   Antikoagulation
-    
-        -   Nieder-molekulares Heparin (LMWH), 
+
+        -   Nieder-molekulares Heparin (LMWH),
             z. B.: **Enoxaparin** (Lovenox™) 1 mg / kg KG 2 ⨉ tgl. s. c.
 
             Anti-Xa-Spiegelkontrolle!

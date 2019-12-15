@@ -117,7 +117,7 @@ Variante “unmittelbare Bedrohung”
 Rechtsfrage
 -----------
 
--   Darf man sich gegen Hrn. Hauzu wehren? 
+-   Darf man sich gegen Hrn. Hauzu wehren?
 -   Muss Herr Hauzu eingewiesen werden?
 
 Rechtslage
@@ -439,7 +439,7 @@ erlangte Sedierung, zum Fahrzeug, mit dem Spruch auf den Lippen:
 
     Ein NEF
 
-    [Sebastian Gabriel, MfG]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 Nach nur kurzer Anfahrtszeit begegnet Alex, Sepp und Bernd im ersten
 Stock eines kleinen Reihenhaus der 55 jährige, adipöse Herr Schmerz mit
@@ -523,8 +523,8 @@ kann.
     :width: 50%
 
     Ein blutiger Venflon — vom Fleischhauer?
-    
-    [Sebastian Gabriel, MfG]
+
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 Rechtsfrage
 -----------
@@ -586,7 +586,7 @@ informiert wurde.
     :align: right
     :width: 50%
 
-    [Sebastian Gabriel, MfG]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 Rechtsfrage
 -----------
@@ -808,7 +808,7 @@ Stirn mehrere gebrochene Rippen zu.
 Rechtsfrage - Schadenersatz wegen Körperverletzung
 --------------------------------------------------
 
--   Wann wird man schadenersatzpflichtig? 
+-   Wann wird man schadenersatzpflichtig?
 -   Was umfasst der Schadenersatz?
 -   Wer wird zur Haftung gezogen?
 
@@ -1060,7 +1060,7 @@ Freund mit angesteckt hat.
     :align: right
     :width: 50%
 
-    [Sebastian Gabriel, MfG]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 Rechtsfrage
 -----------
@@ -1107,8 +1107,8 @@ gedroht hat, falls sie die Polizei verständigen würde.
     :width: 50%
 
     Hämatom
-    
-    [Sebastian Gabriel, MfG]
+
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 
 
@@ -1155,13 +1155,13 @@ Freund, begibt sich das RTW-Team erschöpft zum Stützpunkt zurück.
 Hungrig und müde quält sich die RTW-Mannschaft durch das alltägliche
 Wiener Verkehrschaos, als Sepp auf einmal meint: *“Geh, schalt doch das
 Hörndl und die Blitzer ei, damit dee uns endli Plotz machen und wir
-einrücken kännan!”* 
+einrücken kännan!”*
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1896_00800.*
     :align: right
     :width: 50%
 
-    [Sebastian Gabriel, MfG]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 Rechtsfrage
 -----------

@@ -120,7 +120,7 @@ Glossar
         .. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
 
             Das Herz mit seinen Koronargefäßen
-            [Hirtler, MfG]
+            Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
 
         .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
 
@@ -179,6 +179,12 @@ Lizenzen
 
         -   https://creativecommons.org/licenses/by-sa/3.0/deed.en
         -   https://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+    Lizenz: MfG
+        Mit freundlicher Genehmigung
+
+        Vom Rechteinhaber wurde die Verwendung in diesem Projekt erlaubt.
+        Eine Verwendung ausserhalb dieses Projekts ist nicht gestattet.
 
 .. _thema-gefahrengutunfall:
 .. _thema-leberzirrhose:

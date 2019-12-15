@@ -137,23 +137,24 @@ Bakterien und Pathogenität
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-.. sidebar:: Bakterien, Pathogenität
+..
+    .. sidebar:: Bakterien, Pathogenität
 
-    -   Bakterienart
+        -   Bakterienart
 
-    -   Keimzahl
+        -   Keimzahl
 
-    -   Ort der Besiedelung
+        -   Ort der Besiedelung
 
-    -   Konkurrenzkampf
+        -   Konkurrenzkampf
 
-    -   Abwehrkräfte des Patienten
+        -   Abwehrkräfte des Patienten
 
-        -   Kind, Chemotherapie, AIDS, ...
+            -   Kind, Chemotherapie, AIDS, ...
 
-        -   Körperliche Verfassung
+            -   Körperliche Verfassung
 
-        -   Alter, Ernährung, Stress, ...
+            -   Alter, Ernährung, Stress, ...
 
 Unter *Pathogenität* versteht man die Eigenschaft eines Bakteriums, eine
 Erkrankung oder sonstigen Schaden auszulösen. Die Schädlichkeit von
@@ -223,21 +224,22 @@ Virale Infektionen sind sehr häufig. Die meisten sog.
 die *Grippe*, *Feuchtblattern* und viele *Hepatitis*-Formen, werden
 durch Viren verursacht.
 
-.. sidebar:: Viren
-     
-  -  Keine vollständigen Zellen
+..
+    .. sidebar:: Viren
 
-  -  Benötigen Wirtszellen zur Vermehrung
+    -  Keine vollständigen Zellen
 
-  -  Virale Erkrankungen sind häuFigure-
+    -  Benötigen Wirtszellen zur Vermehrung
 
-     -  Grippe
+    -  Virale Erkrankungen sind häuFigure-
 
-     -  Feuchtblattern
+        -  Grippe
 
-     -  Hepatitis-Formen
+        -  Feuchtblattern
 
-     -  :math:`\cdots`
+        -  Hepatitis-Formen
+
+        -  :math:`\cdots`
 
 Nachweis
 ^^^^^^^^
@@ -337,7 +339,7 @@ irrte sich gewaltig …
 .. figure:: /Bilder/WikipediaPd/Faroe_stamp_079_europe_fleming.*
 
     Alexander Fleming
-    
+
     [Postverk Føroya – Philatelic Office, PD]
 
 Resistenzen
@@ -430,7 +432,7 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 
     Ein resistenter Staph. aureus (VRSA) im Elektronenmikroskop,
     koloriert
-    
+
     [Public Health Image Library, ID#: 11159, Public Domain]
 
 .. subfigstart::
@@ -438,18 +440,18 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 .. figure:: /Bilder/GabrielChristine-Ccc/staph-aureus.*
     :width: 99%
 
-    Auf einem Nährboden wurde eine Bakterienkultur angelegt. 
-    Jedes der sechs runden Blättchen enthält ein Antibiotikum. 
+    Auf einem Nährboden wurde eine Bakterienkultur angelegt.
+    Jedes der sechs runden Blättchen enthält ein Antibiotikum.
     Man kann sehen dass in der Umgebung der Blättchen keine
-    Bakterien wachsen. 
-    
+    Bakterien wachsen.
+
     [Christine Gabriel/KARPAT]
 
 .. figure:: /Bilder/GabrielChristine-Ccc/staph-aureus-mrsa.*
     :width: 99%
 
-    Diese Bakterien ignorieren 4 von 6 Antibiotika-Blättchen, 
-    d.h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim. 
+    Diese Bakterien ignorieren 4 von 6 Antibiotika-Blättchen,
+    d.h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim.
     Er ist *multiresistent*.
 
     [Christine Gabriel/KARPAT]
@@ -457,7 +459,7 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 .. figure:: /Bilder/GabrielChristine-Ccc/amputat-us1.*
     :width: 99%
 
-    Folge einer infizierten, nicht abheilenden Wunde: 
+    Folge einer infizierten, nicht abheilenden Wunde:
     Eine Amputation des Unterschenkels.
 
     [Christine Gabriel/KARPAT]
@@ -611,7 +613,7 @@ Diese ist jedoch z.T. sehr stark von der Art des Desinfektionsmittels,
 der Art der Erreger und anderen Faktoren abhängig.
 
 Einsatzbereich
-              
+
 
 Jedes Desinfektionsmittel hat einen klar umrissenen Einsatzbereich
 (Flächendesinfektionsmittel, Instrumentendesinfektionsmittel,
@@ -634,7 +636,7 @@ Flächendesinfektionsmittel ohne Alkohol verwendet werden (z.B.
 
 Einwirkzeit
 """""""""""
-           
+
 Der wichtigste Faktor ist die Einwirkzeit: Erst nach einer gewissen Zeit
 beginnt das Mittel zu wirken und tötet tatsächlich Keime ab. Hält man
 die notwendige Zeit nicht ein, so ist das Desinfektionsmittel nahezu
@@ -856,7 +858,7 @@ Kenntnisse im Bereich der Infektionslehre und Hygiene.
 
 -  Hygienebeauftragter: Ansprechpartner mit Zusatzausbildung
 
-.. _Thema-persoenliche-hygiene: 
+.. _Thema-persoenliche-hygiene:
 
 Persönliche Hygiene
 -------------------
@@ -1134,7 +1136,7 @@ Maßnahmen
 
 Basierend auf :cite:`OeAG2007`
 
--  Erstmaßnahmen durchführen: 
+-  Erstmaßnahmen durchführen:
 
    -  bei Stich- bzw.Schnittverletzungen: Blutung durch Kompression des
       umgebenden Gewebes induzieren. Danach desinfizieren und einen in

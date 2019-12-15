@@ -11,14 +11,15 @@
 ``A`` Atemweg (Airway)
 **********************
 
-.. _Thema-Airway: 
+.. _Thema-Airway:
 
 Vom Gurgeln und Schnarchen
 ==========================
 
-.. sidebar:: Atemweg
+..
+    .. sidebar:: Atemweg
 
-    -   Inspektion & ggfs. Abtasten von *Mundhöhle*, *Nase* und *Hals*
+        -   Inspektion & ggfs. Abtasten von *Mundhöhle*, *Nase* und *Hals*
 
 Unter Punkt **A** wird eingeschätzt,
 ob der Atemweg frei,
@@ -36,10 +37,11 @@ Weiters werden die *Atemgeräusche*
 Befunde
 =======
 
-.. sidebar:: Atemweg -- Befunde
+..
+    .. sidebar:: Atemweg -- Befunde
 
-   -   Frei, verlegt, gefährdet
-   -   Atemgeräusche: Pfeifen, Gurgeln, Schnarchen; Gestik
+    -   Frei, verlegt, gefährdet
+    -   Atemgeräusche: Pfeifen, Gurgeln, Schnarchen; Gestik
 
 Speziell *pfeifende*, *gurgelnde* oder *schnarchende* Atemgeräusche
 können ein Hinweis auf eine Verlegung sein.

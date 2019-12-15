@@ -6,21 +6,22 @@ Chronische Bronchitis und COPD
 ******************************
 
 
-.. sidebar:: COPD
+..
+    .. sidebar:: COPD
 
-    -   Husten mit Auswurf, anfänglich “Raucherhusten”
-    -   Voranschreitende, sich verschlechternde *Ateminsuffizienz*:
-    -   Belastungsdyspnoe (bei schwererer COPD auch in Ruhe)
-    -   Ausatmung (Exspiration) erschwert
-    -   Brummendes, pfeifendes od. giemendes Ausatemgeräusch
-    -   Evtl. chronische Zyanose
-    -   Evtl. Heimsauerstoff
-    -   SpO2 chronisch niedrig
-    -   Exazerbation:
+        -   Husten mit Auswurf, anfänglich “Raucherhusten”
+        -   Voranschreitende, sich verschlechternde *Ateminsuffizienz*:
+        -   Belastungsdyspnoe (bei schwererer COPD auch in Ruhe)
+        -   Ausatmung (Exspiration) erschwert
+        -   Brummendes, pfeifendes od. giemendes Ausatemgeräusch
+        -   Evtl. chronische Zyanose
+        -   Evtl. Heimsauerstoff
+        -   SpO2 chronisch niedrig
+        -   Exazerbation:
 
-        -   Plötzliche Verschlechterungen
-        -   Meist Infekt-bedingt
-        -   Vermehrte Atemnot, Husten und Auswurf
+            -   Plötzliche Verschlechterungen
+            -   Meist Infekt-bedingt
+            -   Vermehrte Atemnot, Husten und Auswurf
 
 Die :dfn:`chronische Bronchitis` ist eine chronische
 entzündliche Schleimhautschädigung der unteren Atemwege.
@@ -106,13 +107,13 @@ einem Atemstillstand kommen.
     Veränderung der Atemwege bei der COPD
 
     *Links:* Schema eines
-    gesunden Bronchus und einer gesunden Alveole. 
+    gesunden Bronchus und einer gesunden Alveole.
     *Oben rechts:* Bei
-    der COPD sind die kleinen Luftwege verschleimt und verengt. 
+    der COPD sind die kleinen Luftwege verschleimt und verengt.
     *Unten
     rechts:* Die Lungenbläschen (Alveolen) sind überbläht, weil die
     Luft nur erschwert wieder entweichen
-    kann. 
+    kann.
 
     [Hirtler]
 
@@ -120,38 +121,39 @@ einem Atemstillstand kommen.
 ===============
 
 
-.. sidebar:: 1234ABCDE
+..
+    .. sidebar:: 1234ABCDE
 
-    ``1``
-        Kalte Umgebung
+        ``1``
+            Kalte Umgebung
 
-    ``2``
-        Atemhilfsmuskulatur, Anstrengung beim Atmen, ängstlich
+        ``2``
+            Atemhilfsmuskulatur, Anstrengung beim Atmen, ängstlich
 
-    ``3``
-        Evtl. **|symbol-RedFlag|**\ Bewusstseinsstörungen
+        ``3``
+            Evtl. **|symbol-RedFlag|**\ Bewusstseinsstörungen
 
-    ``4``
-        Atemnot
+        ``4``
+            Atemnot
 
-    ``A``
-        Siehe ``B``
+        ``A``
+            Siehe ``B``
 
-    ``B``
-        Atemnot! Ausatmung erschwert, Husten Tachypnoe, |symbol-RedFlag|\  Zyanose;
+        ``B``
+            Atemnot! Ausatmung erschwert, Husten Tachypnoe, |symbol-RedFlag|\  Zyanose;
 
-        Brummendes, pfeifendes Atemgeräusch
+            Brummendes, pfeifendes Atemgeräusch
 
-        SpO₂ chronisch niedrig (:math:`\sim`\ 90%): Normalwert gilt nicht!
+            SpO₂ chronisch niedrig (:math:`\sim`\ 90%): Normalwert gilt nicht!
 
-    ``C``
-        HF ↑, RR ↑
+        ``C``
+            HF ↑, RR ↑
 
-    ``=``
-        Vitale Bedrohung bei schwerer Atemnot und Bewusstseinsstörungen
+        ``=``
+            Vitale Bedrohung bei schwerer Atemnot und Bewusstseinsstörungen
 
-    ``…``
-        Evtl. erhöhte Körpertemperatur
+        ``…``
+            Evtl. erhöhte Körpertemperatur
 
 ``1`` Szene
     Evtl. kalte Umgebung (kalte Luft führt zur Verengung der Bronchien)
@@ -161,7 +163,7 @@ einem Atemstillstand kommen.
     Heimsauerstoff, oft wirkt der Patient ängstlich.
 
 ``3`` Bewusstsein
-    Bei schweren Anfällen kann es aufgrund der Hypoxie zu 
+    Bei schweren Anfällen kann es aufgrund der Hypoxie zu
     |symbol-RedFlag|\ **Bewusstseinsstörungen** kommen.
 
 ``4`` Hauptbeschwerde
@@ -208,7 +210,7 @@ SAMPLER: COPD
 
 .. sidebar:: SAMPLER
 
-    ``M`` 
+    ``M``
         Inhalatoren, evtl. Heimsauerstoff.
 
     ``P``
@@ -243,7 +245,7 @@ SAMPLER: COPD
 Maßnahmen COPD
 ==============
 
-.. todo:: 
+.. todo::
 
     Maßnahmen COPD: Anpassung an höherqualifiziertes Personal
 

@@ -5,7 +5,7 @@ Tätigkeitsbild und Orientierung
 
 
 ::
-   
+
      _________________________________________
     ( Your object is to save the world, while )
     ( still leading a pleasant life.          )
@@ -23,15 +23,15 @@ Tätigkeitsbild und Orientierung
    Ein Übersichtskapitel über das Umfeld und die Tätigkeiten in den Sanitätsberufen.
 
 .. option:: Maintainer
-	    
+
     Sebastian Gabriel
 
 .. option:: Autoren
-	    
+
     Diverse
 
 .. option:: Reviewer
-	    
+
     Standard-Reviewprozess
 
 
@@ -113,13 +113,13 @@ Venenzugang und Infusion, Beatmung und Intubation).
     :width: 99%
 
     Miteinander statt gegeneinander: Arzt und Sanitäter bilden eine
-    Einheit. 
+    Einheit.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-alle.jpg
     :width: 99%
 
     Im Notfall ist die Organisationszugehörigkeit
-    nebensächlich. 	    
+    nebensächlich.
 
 .. subfigend::
     :width: 0.3
@@ -286,31 +286,32 @@ Anforderungsprofil des Arbeitsmarktservice (AMS):
 Anforderungen und Belastungen in der Praxis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. sidebar:: Anforderungen und Belastungen in der Praxis
-   
-  -  Medizinisches Wissen und Kompetenz
+..
+    .. sidebar:: Anforderungen und Belastungen in der Praxis
 
-  -  Zuverlässigkeit
+    -  Medizinisches Wissen und Kompetenz
 
-  -  Eigenverantwortlichkeit
+    -  Zuverlässigkeit
 
-  -  Schnelles Einschätzen
+    -  Eigenverantwortlichkeit
 
-  -  Verantwortung übernehmen
+    -  Schnelles Einschätzen
 
-  -  Kommunikation
+    -  Verantwortung übernehmen
 
-  -  Einfühlungsvermögen
+    -  Kommunikation
 
-  -  *Frustrationstoleranz*
+    -  Einfühlungsvermögen
 
-  -  Teamfähigkeit
+    -  *Frustrationstoleranz*
 
-  -  *körperliche* und *psychische* Belastungsfähigkeit
+    -  Teamfähigkeit
 
-    -  Der (richtige) Umgang mit Frustration ist wesentlich, um im
-       Rettungs- und Krankentransportdienst auf Dauer “zu überleben”.
-       
+    -  *körperliche* und *psychische* Belastungsfähigkeit
+
+        -  Der (richtige) Umgang mit Frustration ist wesentlich, um im
+        Rettungs- und Krankentransportdienst auf Dauer “zu überleben”.
+
 Es versteht sich von selbst, dass die professionelle Versorgung
 erkrankter bzw. verunfallter Menschen solides *medizinisches Wissen*
 voraussetzt und damit auch einhergehend die praktischen Kompetenzen,
@@ -367,7 +368,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 .. figure:: /Bilder/MotalMichael-Ccc/00800/traumacheck1.jpg
     :width: 99%
 
-    Hilfeleistung 
+    Hilfeleistung
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch2.*
@@ -379,13 +380,13 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00518-0154pt-0300dpi.*
     :width: 99%
 
-    Gefahrenstoffunfall 
+    Gefahrenstoffunfall
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi.*
     :width: 99%
 
-    Ungünstige Sichtverhältnisse, hier bei einer Übung im Wiener Kaisermühlentunnel 
+    Ungünstige Sichtverhältnisse, hier bei einer Übung im Wiener Kaisermühlentunnel
 
 .. subfigend::
     :width: 0.3
@@ -403,26 +404,26 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.*
     :width: 99%
 
-    Blutzuckermessung 
+    Blutzuckermessung
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.*
     :width: 99%
 
-    Versorgung nach einem Verkehrsunfall 
+    Versorgung nach einem Verkehrsunfall
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0030mm.*
     :width: 99%
 
     Assistenz bei ärztlichen Maßnahmen !!!
-	    
+
 
 .. subfigend::
     :width: 0.3
     :label: Figure-BilderserieDiagnostikTherapie
 
-    Bilderserie: Diagnostik und Therapie 
+    Bilderserie: Diagnostik und Therapie
 
 
 
@@ -433,24 +434,24 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 .. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.*
     :width: 99%
 
-    RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.). 
+    RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.).
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/bh_ith_00800.jpg
     :width: 99%
 
-    Intensivtransporthubschrauber 
+    Intensivtransporthubschrauber
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/DIF2010-000816-0154pt-0300dpi.*
     :width: 99%
 
     Ambulanzraum bei einem Sanitätsdienst !!! PICTURESERIESWIDE !!!
-	    
+
 
 .. subfigend::
     :width: 0.3
     :label: Figure-BilderserieArbeitsplaetze
 
-    Bilderserie: Verschiedene Arbeitsplätze 
+    Bilderserie: Verschiedene Arbeitsplätze
 
 
 
@@ -463,15 +464,15 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     :width: 99%
 
     Organisation im Großschadensfall, hier ein Wagenhalteplatz bei
-    einer Nachtübung 
+    einer Nachtübung
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00568-0154pt-0300dpi.*
     :width: 99%
 
     Führungsrolle bei der Bewältigung eines
-    Großschadensereignis: Der Leiter einer Sanitätshilfestelle (SanHiSt) 
+    Großschadensereignis: Der Leiter einer Sanitätshilfestelle (SanHiSt)
 
-	    
+
 
 .. subfigend::
     :width: 0.45
@@ -488,26 +489,26 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000253-0154pt-0300dpi.*
     :width: 99%
 
-    Zusammenarbeit zwischen den Organisationen 
+    Zusammenarbeit zwischen den Organisationen
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-bundesheer1.jpg
     :width: 99%
 
     Integraler Bestandteil der zivilen und militärischen Landesverteidigung: Der
-    Bundesheersanitäter 
+    Bundesheersanitäter
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1853_1.jpg
     :width: 99%
 
     Die Zusammenarbeit mit der Exekutive – auch
-    an sozialen Brennpunkten – ist Alltag 
-	    
+    an sozialen Brennpunkten – ist Alltag
+
 
 .. subfigend::
     :width: 0.3
     :label: Figure-BilderserieZusammenarbeit
 
-    Bilderserie: Zusammenarbeit 
+    Bilderserie: Zusammenarbeit
 
 
 
@@ -550,7 +551,7 @@ Allgemeines
 Der ärztliche Beruf wird durch das *Ärztegesetz* (*ÄrzteG*) geregelt.
 Die selbstständige Ausübung des ärztlichen Berufes ist ausschließlich
 Ärzten für Allgemeinmedizin,
-*approbierten* :index:`\ <Arzt!approbierter>` Ärzten sowie *Fachärzten* 
+*approbierten* :index:`\ <Arzt!approbierter>` Ärzten sowie *Fachärzten*
 :index:`\ <Facharzt>` vorbehalten (*Arztvorbehalt*, von diesem
 Vorbehalt gibt es für andere medizinische Berufsgruppen entsprechende
 Ausnahmeregelungen in den jeweiligen Berufsgesetzen). [13]_

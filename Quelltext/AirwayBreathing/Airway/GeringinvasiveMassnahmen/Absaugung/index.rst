@@ -3,7 +3,7 @@
 .. _Thema-absaugung:
 
 .. _Thema-absauggeraete:
-   
+
 
 ########################################################################
 Absaugung
@@ -30,7 +30,7 @@ Farbcodierung kann :ref:`Table-Absaugkatheter`: entnommen werden.
 
 .. _Table-Absaugkatheter:
 
-.. table:: Farbcodierung: Absaugkatheter 
+.. table:: Farbcodierung: Absaugkatheter
 
    +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
    | **Farbe**            | **grau**   | **hellgrün**   | **blau**   | **schwarz**   | **weiß**   | **grün**   | **orange**   | **rot**   | **gelb**   |
@@ -59,28 +59,28 @@ abgeschraubt und verschlossen werden.
 
 
 .. subfigstart::
-            
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0112mm.*
             :width: 99.99%
 
             Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)
 
             [Ch. Pallinger, MfG]
-   
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Handpumpe_32789-00441pt.*
             :width: 99.99%
 
             Handabsaugpumpeempty
 
             [Ch. Pallinger, MfG]
-            
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Orosauger_33074-00441pt.*
             :width: 99.99%
 
             Oro-Sauger für Neugeborene
 
             [Ch. Pallinger, MfG]
-            
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Absaugkatheter_Set_33082-00441pt.*
             :width: 99.99%
 
@@ -97,24 +97,25 @@ abgeschraubt und verschlossen werden.
 Funktionskontrolle
 ^^^^^^^^^^^^^^^^^^
 
-.. sidebar:: Funktionskontrolle
+..
+  .. sidebar:: Funktionskontrolle
 
-  -  Prüfung von
+    -  Prüfung von
 
-     -  Vollständigkeit
+      -  Vollständigkeit
 
-     -  Saugleistung
+      -  Saugleistung
 
-     -  Dichtheit
+      -  Dichtheit
 
-     -  Ggfs. Akku-Ladung
+      -  Ggfs. Akku-Ladung
 
-        -  Ohne externe Stromquelle!
+          -  Ohne externe Stromquelle!
 
-     -  Warnleuchten
+      -  Warnleuchten
 
-  -  Herstellerhinweise beachten!
-     
+    -  Herstellerhinweise beachten!
+
 Jede Funktionskontrolle umfasst die Überprüfung der *Vollständigkeit*
 des Materials, *Saugfunktion* bei maximaler und minimaler Leistung und
 *Dichtheit*. Sie muss zumindest bei Dienstbeginn durchgeführt werden.
@@ -135,14 +136,15 @@ werden.
 Absaugbereitschaft
 ^^^^^^^^^^^^^^^^^^
 
-.. sidebar:: Absaugbereitschaft
+..
+  .. sidebar:: Absaugbereitschaft
 
-  -  Verpackung nur am farbigen Ende des Katheters öffnen
+    -  Verpackung nur am farbigen Ende des Katheters öffnen
 
-  -  An Absaugpumpe anschließen
+    -  An Absaugpumpe anschließen
 
-  -  Katheter bleibt in Hülle
-     
+    -  Katheter bleibt in Hülle
+
 Wenn *Absaugbereitschaft* hergestellt werden muss, wird aus
 hygienischen Gründen nur der farbige Trichter des Katheters ausgepackt
 und an den Konnektor bzw. den :dfn:`Fingertip` :index:`\ <Fingertip>` der
@@ -154,22 +156,23 @@ lange in der Verpackung bis mit der Absaugung begonnen wird.
 Absaugtechnik
 ^^^^^^^^^^^^^
 
-.. sidebar:: Absaugtechnik
+..
+  .. sidebar:: Absaugtechnik
 
-  -  Tiefe:
+    -  Tiefe:
 
-     -  Max. auf Sicht.
+      -  Max. auf Sicht.
 
-     -  Mund: Mundwinkel – Ohrläppchen.
+      -  Mund: Mundwinkel – Ohrläppchen.
 
-     -  Nase: Nasenspitze – Ohrläppchen.
+      -  Nase: Nasenspitze – Ohrläppchen.
 
-  -  Ohne Sog einführen
+    -  Ohne Sog einführen
 
-     -  Katheter abknicken, Fingertip offen
+      -  Katheter abknicken, Fingertip offen
 
-  -  Unter kreisenden Bewegungen saugen und herausziehen
-     
+    -  Unter kreisenden Bewegungen saugen und herausziehen
+
 Damit der Absaugkatheter nicht zu tief eingeführt wird, muss die
 einzuführende Katheterlänge durch Abmessen der Distanz zwischen
 *Mundwinkel und Ohrläppchen* bzw. zwischen *Nasenspitze und Ohrläppchen*
@@ -221,15 +224,16 @@ der Katheter zu tief eingeführt wird. Bei Verdacht auf ein
 Schädel-Hirn-Trauma (:ref:`Thema-sht`) darf aufgrund möglicher Verletzungen
 der Schädelbasis nicht über die Nase abgesaugt werden!
 
-.. sidebar:: Gefahren
+..
+  .. sidebar:: Gefahren
 
-  -  Reizung des Vagus-Nerv
+    -  Reizung des Vagus-Nerv
 
-  -  Gefährliche Kreislaufstörungen
+    -  Gefährliche Kreislaufstörungen
 
-  -  Schleimhautverletzungen, Blutungen
+    -  Schleimhautverletzungen, Blutungen
 
-  -  Brechreiz
+    -  Brechreiz
 
 
 .. danger::

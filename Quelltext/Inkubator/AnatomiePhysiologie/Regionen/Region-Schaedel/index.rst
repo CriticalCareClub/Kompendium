@@ -21,14 +21,15 @@ auch alle übrigen Strukturen der Region ein (Haut, Muskeln, Hirn, …).
 Aufbau des Hirnschädels
 ***********************
 
-.. sidebar:: Hirnschädel
+..
+    .. sidebar:: Hirnschädel
 
-    -  Schädelbasis
+        -  Schädelbasis
 
-    -  Kalotte (Schädeldach)
+        -  Kalotte (Schädeldach)
 
-    -  Platte Knochen, durch Schädelnähte verzahnt und verknöchert
-       
+        -  Platte Knochen, durch Schädelnähte verzahnt und verknöchert
+
 Der Hirnschädel besteht aus der :dfn:`Schädelbasis` und dem der :dfn:`Kalotte` (Schädeldach). Beide Strukturen werden durch platte
 Knochen gebildet, welche beim Erwachsenen durch *Schädelnähte*
 miteinander verzahnt und verknöchert sind.
@@ -60,22 +61,23 @@ welche Richtung der Kopf des Kindes schaut.
 .. figure:: /Bilder/WikipediaPd/fontanelle-dt.*
 
     Fontanellen
-    
+
     [Gray’s Anatomy, Copyright expired]
 
 ************
 Schädelbasis
 ************
 
-.. sidebar:: Schädelbasis 
+..
+    .. sidebar:: Schädelbasis
 
-    -   Auflagefläche des Gehirns
+        -   Auflagefläche des Gehirns
 
-    -   Hirnnerven
+        -   Hirnnerven
 
-    -   Großes Hinterhauptsloch (Foramen magnum)
+        -   Großes Hinterhauptsloch (Foramen magnum)
 
-        -   Durchtritt Rückenmark
+            -   Durchtritt Rückenmark
 
 Das Gehirn liegt auf der Schädelbasis auf, welche ihrerseits der
 Wirbelsäule aufliegt. Die Hirnnerven treten durch diverse Löcher aus dem
@@ -86,5 +88,5 @@ ist die *Durchtrittsstelle des Rückenmarks*.
 .. figure:: /Bilder/WikipediaPd/Gray1196-edited.*
 
     Aufsicht auf die Schädelbasis
-    
+
     [Gray’s Anatomy, Copyright expired]

@@ -3,18 +3,19 @@
 ``2`` Eindruck und HWS-Stabilisierung (General Impression + Cervical Spine)
 ***************************************************************************
 
-.. sidebar:: Eindruck
+..
+  .. sidebar:: Eindruck
 
-  -  Hautfarbe
+    -  Hautfarbe
 
-  -  Gesichtsausdruck
+    -  Gesichtsausdruck
 
-  -  Haltung
+    -  Haltung
 
-  -  Sprache
+    -  Sprache
 
-  -  sonstige Auffälligkeiten
-     
+    -  sonstige Auffälligkeiten
+
 Hier zählt der Eindruck, den der Patient auf den Helfer macht. Es werden
 v. a. beurteilt:
 
@@ -48,15 +49,16 @@ den Rippen, …), eine verwaschene oder wirre *Sprache*,
 auf ein *Trauma*, sichtbare Verletzungen, starke Blutungen oder Hinweise
 auf eine Wirbelsäulenverletzung erkannt werden.
 
-.. sidebar:: Befunde
+..
+    .. sidebar:: Befunde
 
-   -  Blässe, Zyanose, Schweiß
+      -  Blässe, Zyanose, Schweiß
 
-   -  Schonhaltung, Atemnot
+      -  Schonhaltung, Atemnot
 
-   -  Sprache, Desorientiertheit, Krämpfe
+      -  Sprache, Desorientiertheit, Krämpfe
 
-   -  Trauma, Verletzungen, Wirbelsäule, Blutungen
+      -  Trauma, Verletzungen, Wirbelsäule, Blutungen
 
 .. subfigstart::
 
@@ -70,7 +72,7 @@ auf eine Wirbelsäulenverletzung erkannt werden.
             :width: 99.99%
 
 	    Zyanotische Lippen können schon frühzeitig auffallen.
-   
+
 .. subfigend::
     :width: 0.45
     :label: Figure-BilderserieEindruck
@@ -78,7 +80,7 @@ auf eine Wirbelsäulenverletzung erkannt werden.
     Bilderserie
 
 
-	    
+
 Typische Maßnahmen
 ==================
 

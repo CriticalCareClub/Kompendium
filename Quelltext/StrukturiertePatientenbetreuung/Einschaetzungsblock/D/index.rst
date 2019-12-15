@@ -2,25 +2,23 @@
 ``D`` Neurologie (Disability)
 ******************************
 
-Cute Eyes
-=========
+..
+  .. sidebar:: Neurologie
 
-.. sidebar:: Neurologie
-   
-  -  Vitalwerte (*HF*, *RR*)
+    -  Vitalwerte (*HF*, *RR*)
 
-  -  Neurologisch:
+    -  Neurologisch:
 
-     -  *Orientierung* oder \*\ *GCS*
+      -  *Orientierung* oder \*\ *GCS*
 
-     -  *Pupillen*
+      -  *Pupillen*
 
-     -  *Kraftprobe OE*, \*UE
+      -  *Kraftprobe OE*, \*UE
 
-     -  Ggfs.: Kann der Patient *Hände* und *Füße* spüren und aktiv
-        bewegen?
+      -  Ggfs.: Kann der Patient *Hände* und *Füße* spüren und aktiv
+          bewegen?
 
-  -  Ggfs. *Blutzuckermessung*
+    -  Ggfs. *Blutzuckermessung*
 
 Es wird die *Bewusstseinsqualität* (Orientierung zur Person, Raum, Zeit
 und Situation) oder, wenn angemessen, alternativ die Glasgow Coma Scale
@@ -44,16 +42,17 @@ Hinweise auf Stoffwechselstörungen, …) erfolgt eine *Blutzuckermessung*.
 Orientierung
 ============
 
-.. sidebar:: Orientierung
-   
-  -  Zur Person
+..
+  .. sidebar:: Orientierung
 
-  -  Zeitlich
+    -  Zur Person
 
-  -  Örtlich
+    -  Zeitlich
 
-  -  Zur Situation
-   
+    -  Örtlich
+
+    -  Zur Situation
+
 
 Es ist wichtig zu Überprüfen ob der Patient
 orientiert ist. Man unterscheidet dabei die Orientierung zu:
@@ -73,15 +72,16 @@ orientiert ist. Man unterscheidet dabei die Orientierung zu:
 Glasgow Coma Scale (GCS)
 ========================
 
-.. sidebar:: GCS
+..
+  .. sidebar:: GCS
 
-    - 3--15 Punkte 
+      - 3--15 Punkte
 
-        -  Augenöffnung (4)
+          -  Augenöffnung (4)
 
-        -  Beste verbale Reaktion (5)
+          -  Beste verbale Reaktion (5)
 
-        -  Beste motorische Reaktion (6)
+          -  Beste motorische Reaktion (6)
 
 Die Glasgow Coma Scale ist eine spezielle Skala, welche der
 objektiven Einschätzung der Bewusstseinslage dient. Sie hat einen
@@ -100,17 +100,18 @@ verbale und die beste motorische Reaktion des Patienten.\ [173]_
 Befunde
 =======
 
-.. sidebar:: Befunde
-   
-  -  Entgleiste Vitalwerte
+..
+  .. sidebar:: Befunde
 
-  -  Desorientierung
+    -  Entgleiste Vitalwerte
 
-  -  Pupillen: Abnorme *Weite*, *Differenz*, *Reaktion*, *Entrundung*
+    -  Desorientierung
 
-  -  Motorische und sensible Ausfälle
+    -  Pupillen: Abnorme *Weite*, *Differenz*, *Reaktion*, *Entrundung*
 
-  -  Zuckerstoffwechselstörungen
+    -  Motorische und sensible Ausfälle
+
+    -  Zuckerstoffwechselstörungen
 
 Erkennen lassen sich z. B. Desorientierung, pathologische
 Pupillenreaktionen (abnorme Weitung oder Engstellung, Differenz,
@@ -127,17 +128,18 @@ Zuckerstoffwechselstörungen.
 Hirndruckzeichen
 ================
 
-.. sidebar:: Hirndruckzeichen
-   
-  -  ``3`` Bewusstseinsstörungen
+..
+  .. sidebar:: Hirndruckzeichen
 
-  -  ``4`` Übelkeit, Erbrechen
+    -  ``3`` Bewusstseinsstörungen
 
-  -  ``C`` HF ↓, RR ↑
+    -  ``4`` Übelkeit, Erbrechen
 
-  -  Ungleichweite Pupillen, verlangsamte Lichtreaktion
+    -  ``C`` HF ↓, RR ↑
 
-  -   Strecksynergismen
+    -  Ungleichweite Pupillen, verlangsamte Lichtreaktion
+
+    -   Strecksynergismen
 
 :dfn:`Hirndruckzeichen` deuten auf
 eine Erhöhung des Druckes innerhalb des Hirnschädels hin (*Hirndruck*,
@@ -188,17 +190,18 @@ verbale und die beste motorische Reaktion des Patienten.\ [173]_
 Befunde
 =======
 
-.. sidebar:: Befunde
-   
-  -  Entgleiste Vitalwerte
+..
+  .. sidebar:: Befunde
 
-  -  Desorientierung
+    -  Entgleiste Vitalwerte
 
-  -  Pupillen: Abnorme *Weite*, *Differenz*, *Reaktion*, *Entrundung*
+    -  Desorientierung
 
-  -  Motorische und sensible Ausfälle
+    -  Pupillen: Abnorme *Weite*, *Differenz*, *Reaktion*, *Entrundung*
 
-  -  Zuckerstoffwechselstörungen
+    -  Motorische und sensible Ausfälle
+
+    -  Zuckerstoffwechselstörungen
 
 Erkennen lassen sich z. B. Desorientierung, pathologische
 Pupillenreaktionen (abnorme Weitung oder Engstellung, Differenz,
@@ -213,16 +216,16 @@ Zuckerstoffwechselstörungen.
 
 	    Anisokorie (Pupillendifferenz) [Bild: Sebastian Gabriel, MfG]
 
-	    
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.*
 
 	    Kraftprobe an den Armen [Bild: Motal]
 
-	    
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.*
 
 	    BZ-Messung [Bild: Motal]
-   
+
 .. subfigend::
     :width: 0.3
     :label: Figure-BilderserieD

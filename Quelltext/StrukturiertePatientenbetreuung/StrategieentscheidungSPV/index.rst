@@ -3,7 +3,7 @@
 .. _Thema-Strategieentscheidung:
 
 ###############################################################
-Strategieentscheidung 
+Strategieentscheidung
 ###############################################################
 
 … in der strukturierten Patientenversorgung
@@ -34,17 +34,18 @@ d. h. der weitere Ablauf ist situations- und patientenabhängig.
 Transportpriorität
 ******************
 
-.. sidebar:: Transportpriorität
-	     
-  #. *Zeitkritisch?*
+..
+  .. sidebar:: Transportpriorität
 
-  #. *Stabilisierung notwendig?*
+    #. *Zeitkritisch?*
 
-  #. Ggfs. *Verfügbarkeit eines Notarztmittels*
+    #. *Stabilisierung notwendig?*
 
-  #. *Transportdauer* zur Zieleinrichtung
+    #. Ggfs. *Verfügbarkeit eines Notarztmittels*
 
-  #. Evtl. *Rendez-vous*?
+    #. *Transportdauer* zur Zieleinrichtung
+
+    #. Evtl. *Rendez-vous*?
 
 
 
@@ -234,22 +235,23 @@ Datenterminals.
    single: Bett, Intensiv-
    single: Bett, Überwachungs-
    single: Spezialbetten
-   
+
 “Spezialbetten”
 ---------------
 
 
-.. sidebar:: Spezialbetten
+..
+  .. sidebar:: Spezialbetten
 
-  -  Überwachungsbett / Intensivbett
+    -  Überwachungsbett / Intensivbett
 
-  -  Stroke Unit
+    -  Stroke Unit
 
-  -  Herzkatheterlabor (PTCA, PCI)
+    -  Herzkatheterlabor (PTCA, PCI)
 
-  -  Schockraum
+    -  Schockraum
 
-  -  Speziell: Gebärende, psychiatrische Patienten
+    -  Speziell: Gebärende, psychiatrische Patienten
 
 Über ein Bettenkontingent sind i. d. R. Behandlungsplätze von häufig
 benötigten Spezialabteilungen verfügbar.

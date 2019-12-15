@@ -11,15 +11,16 @@ Hyperventilationssyndrom und -tetanie
 *************************************
 
 
-.. sidebar:: Hyperventilationssysndrom
+..
+    .. sidebar:: Hyperventilationssysndrom
 
-    -   Tiefe, schnelle Atmung bei sonst gesundem Menschen
-    -   Blut-pH wird basisch → Elektrolytstörung
-    -   Meist psychisch bedingt (Psych. Belastungsreaktion, Panikattacke,
-        Prüfungen, Veranstaltungen)
+        -   Tiefe, schnelle Atmung bei sonst gesundem Menschen
+        -   Blut-pH wird basisch → Elektrolytstörung
+        -   Meist psychisch bedingt (Psych. Belastungsreaktion, Panikattacke,
+            Prüfungen, Veranstaltungen)
 
-        -   Beim Hyperventilationssysdrom ist die Atmung *ohne körperliche
-            Ursache* gesteigert!
+            -   Beim Hyperventilationssysdrom ist die Atmung *ohne körperliche
+                Ursache* gesteigert!
 
 
 Beschreibung und Ursachen
@@ -42,38 +43,39 @@ ABCDE: Hyperventilationssyndrom
 ===============================
 
 
-.. sidebar:: 1234ABCDE
+..
+    .. sidebar:: 1234ABCDE
 
-    **1**
-        Konzerte, stressige bzw. erregende Situationen
+        **1**
+            Konzerte, stressige bzw. erregende Situationen
 
-    **2**
-        Gestikulieren, Weinkrämpfe, Pfötchenstellung
+        **2**
+            Gestikulieren, Weinkrämpfe, Pfötchenstellung
 
-    **3**
-        Evtl. Bewusstseinsstörungen
+        **3**
+            Evtl. Bewusstseinsstörungen
 
-    **4**
-        Atemnot. Evtl. Kribbeln, Schwindel, Krämpfe
+        **4**
+            Atemnot. Evtl. Kribbeln, Schwindel, Krämpfe
 
-    **B**
-        Klagt über Atemnot, Tachypnoe, aber sonst keine physischen Anzeichen
-        (keine Zyanose, SpO2 normal, …)
+        **B**
+            Klagt über Atemnot, Tachypnoe, aber sonst keine physischen Anzeichen
+            (keine Zyanose, SpO2 normal, …)
 
-    **C**
-        HF und RR evtl. ↑
+        **C**
+            HF und RR evtl. ↑
 
-    **E**
-        Ausschließen:
+        **E**
+            Ausschließen:
 
-        -  Atemnot mit körperlicher Ursache
+            -  Atemnot mit körperlicher Ursache
 
-        -  Ateminsuffizienz
+            -  Ateminsuffizienz
 
-        -  Stoffwechselbedingte Azidose (z. B. Diabetisches Koma)
+            -  Stoffwechselbedingte Azidose (z. B. Diabetisches Koma)
 
-    **=**
-        Normal keine vitale Bedrohung (Differentialdiagnosen bedenken!).
+        **=**
+            Normal keine vitale Bedrohung (Differentialdiagnosen bedenken!).
 
 
 **1**
@@ -86,7 +88,7 @@ ABCDE: Hyperventilationssyndrom
 
 **2**
     Häufig kann man Zeichen psychischer Erregtheit wahrnehmen: Wildes
-    gestikulieren, Weinkrämpfe usw. Klassisch ist die sog. 
+    gestikulieren, Weinkrämpfe usw. Klassisch ist die sog.
     *Pfötchenstellung*: Die Arme sind angezogen und Handhaltung
     erinnert an Pfoten eines Tieres.
 
@@ -129,10 +131,11 @@ ABCDE: Hyperventilationssyndrom
 SAMPLER: Hyperventilationssyndrom
 =================================
 
-.. sidebar:: SAMPLER
+..
+    .. sidebar:: SAMPLER
 
-    **E**
-        Stressige oder aufregende Erlebnisse
+        **E**
+            Stressige oder aufregende Erlebnisse
 
 **E**
     Oft wird über stressige oder aufregende Erlebnisse berichtet

@@ -23,19 +23,20 @@ Erkrankungen der Herzkrankzgefäße
 Beschreibung
 ============
 
-.. sidebar:: Beschreibung
+..
+    .. sidebar:: Beschreibung
 
-    -   Erkrankung der Herzkranzgefäße → Verengung
+        -   Erkrankung der Herzkranzgefäße → Verengung
 
-    -   Koronare Herzkrankheit (KHK, chronisch)
+        -   Koronare Herzkrankheit (KHK, chronisch)
 
-    -   Akutes Koronarsyndrom (ACS, akut)
+        -   Akutes Koronarsyndrom (ACS, akut)
 
-    -   Symptomenkomplex, z. B. bei:
+        -   Symptomenkomplex, z. B. bei:
 
-        -   Angina pectoris
+            -   Angina pectoris
 
-        -   Herzinfarkt
+            -   Herzinfarkt
 
 Die :dfn:`Koronare Herzkrankheit` (:dfn:`KHK`)
 ist eine Erkrankung der *Herzkranzgefäße* (Koronargefäße),
@@ -45,7 +46,7 @@ Sie ist eine *chronische* Erkrankung,
 welche Folgeerkrankungen bedingt
 und in akuten Notfallsituationen resultieren kann.
 Je nachdem wieviele Koronargefäße betroffen sind,
-spricht man von einer 1-, 2- oder 3-Gefäßerkrankung 
+spricht man von einer 1-, 2- oder 3-Gefäßerkrankung
 (*engl.* 1-, 2-, 3-Vessel-Disease; bzw. *Abkz.* 1-, 2.-, 3.-VD).
 
 
@@ -56,10 +57,10 @@ spricht man von einer 1-, 2- oder 3-Gefäßerkrankung
 .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
     :width: 99%
 
-    Das Herz mit seinen Koronargefäßen 
-    
+    Das Herz mit seinen Koronargefäßen
+
     [Lena Hirtler, MfG]
-   
+
 
 .. figure:: /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.*
     :width: 99%
@@ -67,21 +68,21 @@ spricht man von einer 1-, 2- oder 3-Gefäßerkrankung
     Darstellung der Herzkranzgefäße mittels Koronarangiographie
 
     Bei einer Koronarangiographie (Herzkatheteruntersuchung)
-    wird über eine periphere Arterie ein Katheter eingebracht 
-    und über die Aorta bis in die Koronargefäße vorgeschoben. 
+    wird über eine periphere Arterie ein Katheter eingebracht
+    und über die Aorta bis in die Koronargefäße vorgeschoben.
     Anschließend wird ein
     Kontrastmittel appliziert um die Gefäße mittels Röntgendurchleuchtung
-    sichtbar zu machen. 
-    
+    sichtbar zu machen.
+
     [WmCo "Bionerd", CC-BY-3.0]
 
-	
+
 .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
     :width: 99%
 
-    Die Koronargefäße versorgen den Herzmuskel von außen nach innen. 
-    
-    [Patrick J. Lynch, CC-BY-2.5]	    
+    Die Koronargefäße versorgen den Herzmuskel von außen nach innen.
+
+    [Patrick J. Lynch, CC-BY-2.5]
 
 .. subfigend::
     :width: 0.3
@@ -100,38 +101,39 @@ kann es zu einer Reihe von Folgeerkrankungen kommen, wie z. B.:
 -   :ref:`Herzinsuffizienz <Thema-Herzinsuffizienz>`
     durch eine ischämische Kardiomyopathie
 -   Angina pectoris
--   :ref:`Akutes Koronarsyndrom <Thema-Acs>` 
-    bedingt durch einen Herzinfarkt 
+-   :ref:`Akutes Koronarsyndrom <Thema-Acs>`
+    bedingt durch einen Herzinfarkt
     oder eine instabile Angina pectoris
 
 
 SAMPLER bei der KHK
 ==========================================
 
-.. sidebar:: SAMPLER
+..
+    .. sidebar:: SAMPLER
 
-    ``S``
-        Siehe ABCDE
+        ``S``
+            Siehe ABCDE
 
-    ``M``
-        ASS, 
-        Nitroglycerin, 
-        Molsidomin, 
-        Isosorbiddinitrat
+        ``M``
+            ASS,
+            Nitroglycerin,
+            Molsidomin,
+            Isosorbiddinitrat
 
-    ``P``
-        Befunde:
-        Koronarangiographie,
-        Ergometrie,
-        Echokardiographie
+        ``P``
+            Befunde:
+            Koronarangiographie,
+            Ergometrie,
+            Echokardiographie
 
-    ``R``
-        Rauchen,
-        Arterielle Hypertonie,
-        Hyperlipidämie,
-        Diabetes mellitus,
-        Positive Familienanamnese,
-        Alter,
+        ``R``
+            Rauchen,
+            Arterielle Hypertonie,
+            Hyperlipidämie,
+            Diabetes mellitus,
+            Positive Familienanamnese,
+            Alter,
 
 ``S`` — Symptome
     Atemnot bei Anstrengung
@@ -176,34 +178,35 @@ SAMPLER bei der KHK
 Angina pectoris (AP)
 =====================
 
-.. sidebar:: Angina pectoris
+..
+    .. sidebar:: Angina pectoris
 
-    Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf
+        Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf
 
-    -   Einengung(en) von Herzkranzgefäßen
+        -   Einengung(en) von Herzkranzgefäßen
 
-    -   Erhöhter Sauerstoffbedarf bei Anstrengung
+        -   Erhöhter Sauerstoffbedarf bei Anstrengung
 
-    -   Symptome des akuten Koronarsyndrom, eher bei Belastung, vergehen oft
-        bei Entspannung
+        -   Symptome des akuten Koronarsyndrom, eher bei Belastung, vergehen oft
+            bei Entspannung
 
-    -   Primär *nicht sicher vom Herzinfarkt unterscheidbar*
+        -   Primär *nicht sicher vom Herzinfarkt unterscheidbar*
 
 
 Die Angina pectoris (lat., *"Brustenge"*)
 ist charakterisiert durch ein plötzliches Engegefühl
-in der Brust meist zusammen mit Thoraxschmerz und Atemnot 
+in der Brust meist zusammen mit Thoraxschmerz und Atemnot
 infolge einer *vorübergehenden* Unterversorgung
 des Herzmuskels mit sauerstoffreichem Blut.
 Ein akuter Angina-pectoris-Anfall ist primär
-*nicht sicher von einem Herzinfarkt unterscheidbar*. 
+*nicht sicher von einem Herzinfarkt unterscheidbar*.
 Die Symptome treten eher bei Belastung auf
-und vergehen oft bei Entspannung, 
+und vergehen oft bei Entspannung,
 das Vorübergehen der Beschwerden
 darf aber natürlich nicht abgewartet
 werden!
 
-Der akute Angina-Pectoris-Anfall gehört zu der Familie des 
+Der akute Angina-Pectoris-Anfall gehört zu der Familie des
 *Akuten Koronarsyndroms*.
 Dazu gehört auch der Herzinfarkt,
 dem der gleiche
@@ -223,13 +226,14 @@ mit Absterben von Herzmuskelgewebe kommt.
 Herzinfarkt (Myocardinfarkt, MCI)
 ==========================================
 
-.. sidebar:: Herzinfarkt
+..
+    .. sidebar:: Herzinfarkt
 
-    -  *Verschluss* von Herzkranzgefäßen
+        -  *Verschluss* von Herzkranzgefäßen
 
-    -  *Absterben* von Herzmuskelgewebe
+        -  *Absterben* von Herzmuskelgewebe
 
-    -  Symptome eines *ACS*
+        -  Symptome eines *ACS*
 
 
 Verschluss eines oder mehrerer Herzkranzgefäße
@@ -280,14 +284,15 @@ Schäden am Herzmuskel bestehen.
 Gefahren
 ----------------------------
 
-.. sidebar:: MCI, Gefahren
+..
+    .. sidebar:: MCI, Gefahren
 
-    -   Jede Herzrhythmusstörung als Komplikation möglich!
-    -   Kammerflimmern als Frühkomplikation häufig!
-    -   Pumpversagen
-    -   Kardiogener Schock
-    -   Kreislaufstillstand
-    -   **Lebensgefahr!**
+        -   Jede Herzrhythmusstörung als Komplikation möglich!
+        -   Kammerflimmern als Frühkomplikation häufig!
+        -   Pumpversagen
+        -   Kardiogener Schock
+        -   Kreislaufstillstand
+        -   **Lebensgefahr!**
 
 *Herzrhythmusstörungen* (alle Arten),
 bis hin zum Kreislaufstillstand

@@ -116,17 +116,18 @@ Symptome
 ********
 
 
-.. sidebar:: Symptome
+..
+    .. sidebar:: Symptome
 
-    -  Schmerz
+        -  Schmerz
 
-    -  Blässe
+        -  Blässe
 
-    -  Kein Puls
+        -  Kein Puls
 
-    -  Gefühllosigkeit
+        -  Gefühllosigkeit
 
-    -  Lähmung
+        -  Lähmung
 
 Die Symptome ergeben sich aus der Unterversorgung der Extremität mit
 sauerstoffreichem Blut: sie ist blass, kalt, tut höllisch weh und die
@@ -148,7 +149,7 @@ empfinden (*"Ameisenlaufen"*). [244]_ (Lähmung).
 Maßnahmen: peripherer arterieller Gefäßverschluss
 **************************************************
 
-.. todo:: 
+.. todo::
 
     Maßnahmen art. Gefäßverschluss: Anpassung an höherqualifiziertes Personal
 
@@ -163,7 +164,7 @@ Basismaßnahmen
     -   Zieleinheit: Abteilung für Chirurgie (Gefäßchirurgie)
 
 Pharmakotherapie
-    -   Flüssikeitssubstitution, Vollelektrolytlösung 
+    -   Flüssikeitssubstitution, Vollelektrolytlösung
         (Herabsetzung der Blutviskosität)
     -   Schmerztherapie
     -   Erwäge intraarterielle Lidocain-Injektion

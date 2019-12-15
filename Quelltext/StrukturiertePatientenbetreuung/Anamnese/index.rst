@@ -30,21 +30,22 @@ oder Dokumentationen anderer Gesundheitseinrichtungen
 .. rubric:: SAMPLER
 
 
-.. sidebar:: SAMPLER
-	     
-  -  **S**\ ymptome und Schmerzen
+..
+  .. sidebar:: SAMPLER
 
-  -  **A**\ llergien
+    -  **S**\ ymptome und Schmerzen
 
-  -  **M**\ edikamente
+    -  **A**\ llergien
 
-  -  **P**\ atientengeschichte
+    -  **M**\ edikamente
 
-  -  **L**\ etzte …
+    -  **P**\ atientengeschichte
 
-  -  **E**\ reignisse vor Notfalleintritt
+    -  **L**\ etzte …
 
-  -  **R**\ isikofaktoren
+    -  **E**\ reignisse vor Notfalleintritt
+
+    -  **R**\ isikofaktoren
 
 
 In einer Notfallsituation soll das Anamnesegespräch gleichzeitig alle
@@ -52,7 +53,7 @@ wichtigen Informationen zu Tage fördern, andererseits aber effizient und
 zeitsparend durchgeführt werden.
 Um diese Gegensätze miteinander
 vereinen zu können soll es strukturiert durchgeführt werden.
-Die Kernpunkte sind: 
+Die Kernpunkte sind:
 
 -  **S** *S*\ ymptome und Schmerzen
 
@@ -86,7 +87,7 @@ abweichen.
 .. [180]
    Manchmal wird dieses Schema *S-KAMEL* genannt, für Symptome,
    Krankheiten, Allergien, Medikamente, Ereignisse und Letztes.
-   
+
 
 **********************
 Symptome und Schmerzen
@@ -105,7 +106,7 @@ Außerdem muss immer auch speziell nach Schmerzen gefragt werden!
     *“Haben Sie (dabei) Schmerzen?”*
 
 .. rubric:: Fragen zu Symptomen – OPQRST
-                            
+
 
 Gibt der Patient Symptome an, müssen diese weiter abgeklärt werden, hier
 am Beispiel Schmerzen:
@@ -225,7 +226,7 @@ Versorgung des Patienten kommen (verspätete Gabe von Medikamenten,
 Wechselwirkungen, …).
 
 Fragen zu Medikamenten:
-                       
+
 
     *“Welche Medikamente nehmen Sie? Haben Sie eine Liste?”*
 
@@ -313,19 +314,20 @@ können anschließend durch Symptom-spezifische Fragen ergänzt werden:
 Arzt- und Entlassungsbriefe
 ===========================
 
-.. sidebar:: Arztbriefe
-	     
-  -  Grund- und Vorerkrankungen?
+..
+  .. sidebar:: Arztbriefe
 
-  -  Behinderungen?
+    -  Grund- und Vorerkrankungen?
 
-  -  Operationen?
+    -  Behinderungen?
 
-  -  Arzt- und Entlassungsbriefe, Patientenpässe,
+    -  Operationen?
 
-  -  Medikamente → Krankheiten
+    -  Arzt- und Entlassungsbriefe, Patientenpässe,
 
-  -  …
+    -  Medikamente → Krankheiten
+
+    -  …
 
 
 Nach einer stationären Aufnahme in einer Gesundheitseinrichtung wird ein
@@ -355,7 +357,7 @@ veralten).
   Hartlgasse 16a, A-1240 Wien
   Tel.: +43555328745-0     Fax: +43555328745-100
 
-  | Peter Zapfl  
+  | Peter Zapfl
   | Diesseitsweg 13a/12/5/34
   | A-1247 Wien
 
@@ -530,21 +532,22 @@ Letzte …
 ********
 
 
-.. sidebar:: Letzte ...
-	     
-  -  Letzte Mahlzeit?
+..
+  .. sidebar:: Letzte ...
 
-  -  Letzter Stuhlgang?
+    -  Letzte Mahlzeit?
 
-  -  Letzte Regelblutung?
+    -  Letzter Stuhlgang?
 
-  -  Letzter Spitalsaufenthalt?
+    -  Letzte Regelblutung?
 
-  -  Letzter Arztbesuch?
+    -  Letzter Spitalsaufenthalt?
 
-  -  Letzte Blutzuckerkontrolle?
+    -  Letzter Arztbesuch?
 
-  -  …
+    -  Letzte Blutzuckerkontrolle?
+
+    -  …
 
 Der letzte Punkt des Abfrageschemas bezieht sich auf letzte Ereignisse,
 welche mit dem Notfall in Zusammenhang stehen könnten. Abhängig von den

@@ -7,13 +7,14 @@ Beschreibung: Aneurysma allgmein
 ********************************
 
 
-.. sidebar:: Aneurysma
+..
+    .. sidebar:: Aneurysma
 
-    -  Aussackung eines Blutgefäßes
+        -  Aussackung eines Blutgefäßes
 
-    -  Z. B. Aorta, Hirngefäße
+        -  Z. B. Aorta, Hirngefäße
 
-    -  Gefahr: Schock, Insult
+        -  Gefahr: Schock, Insult
 
 Als :dfn:`Aneurysma` bezeichnet man eine Aussackung und
 Erweiterung von Blutgefäßen aufgrund von Veränderungen der Gefäßwand.**
@@ -57,13 +58,14 @@ Anmerkung
 ---------
 
 
-.. sidebar:: Anmerkungen
+..
+    .. sidebar:: Anmerkungen
 
-    -  Gefäßwandaussackung
+        -  Gefäßwandaussackung
 
-    -  Thorakales und abdominelles Aortenaneurysma
+        -  Thorakales und abdominelles Aortenaneurysma
 
-    -  Evtl. vorbekannt
+        -  Evtl. vorbekannt
 
 Aortenaneurysmen sind sehr oft schwer zu diagnostizieren, in der
 präklinischen Versorgung kann im Regelfall nur durch die Anamnese bei

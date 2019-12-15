@@ -15,34 +15,35 @@
 Take a deep breath …
 ====================
 
-.. sidebar:: Take a deep breath
-   
-  -  Schätzen: *Frequenz* und *Tiefe*
+..
+    .. sidebar:: Take a deep breath
 
-  -  Atemgeräusche
+    -  Schätzen: *Frequenz* und *Tiefe*
 
-  -  Inspektion von Thorax inkl. Atemprobe
+    -  Atemgeräusche
 
-  -  | Anzeichen:
-     | Hautfarbe, Bauch-/Thoraxbewegungen, Anstrengung beim Atmen,
-       Atemhilfsmuskulatur, Zeichen der Atemnot
+    -  Inspektion von Thorax inkl. Atemprobe
 
-  -  Heimsauerstoff
+    -  | Anzeichen:
+        | Hautfarbe, Bauch-/Thoraxbewegungen, Anstrengung beim Atmen,
+        Atemhilfsmuskulatur, Zeichen der Atemnot
 
-  -   (Auskultation: Seitenvergleich, Lungenbasen)
+    -  Heimsauerstoff
 
-Als nächstes wird die Funktion der *Atmung* beurteilt:  
+    -   (Auskultation: Seitenvergleich, Lungenbasen)
 
-#.  Einschätzung von *Frequenz* und *Tiefe* der Atmung. 
+Als nächstes wird die Funktion der *Atmung* beurteilt:
+
+#.  Einschätzung von *Frequenz* und *Tiefe* der Atmung.
 
 #.  Beurteilung des Exkursionen des Thorax,
-    achten auf *gleichseitiges* Heben des Brustkorbes 
+    achten auf *gleichseitiges* Heben des Brustkorbes
 
 #.  Achten auf pathologische **Bauch-** und **Thoraxbewegungen**
     und **Anstrengungen** beim Atmen
-    (Einsatz der *Atemhilfsmuskulatur*, 
-    *Einziehungen* an den Rippen, 
-    *Nasenflügeln* (bei Kindern), 
+    (Einsatz der *Atemhilfsmuskulatur*,
+    *Einziehungen* an den Rippen,
+    *Nasenflügeln* (bei Kindern),
     sichtliches Ringen um Luft).
 
 #.  Achten auf **Atemgeräusche** (Stridor, Brodeln)
@@ -70,17 +71,18 @@ Als nächstes wird die Funktion der *Atmung* beurteilt:
 Totraumventilation und Schnappatmung
 ====================================
 
-.. sidebar:: Totraumventilation
-	     
-  -  Zu wenig Frischluft in Alveolen
+..
+    .. sidebar:: Totraumventilation
 
-  -  Kohlendioxid kann nicht abgeatmet werden
+    -  Zu wenig Frischluft in Alveolen
 
-  -  Kein ausreichender Sauerstoff-Nachschub
+    -  Kohlendioxid kann nicht abgeatmet werden
 
-  -  Schnappatmung = insuffizient
+    -  Kein ausreichender Sauerstoff-Nachschub
 
-  -  Schnappatmung = Keine suffiziente Atmung
+    -  Schnappatmung = insuffizient
+
+    -  Schnappatmung = Keine suffiziente Atmung
 
 Unter dem :dfn:`Totraum` versteht man den Teil der Atemwege der nicht am
 Gasaustausch teilnimmt.
@@ -89,17 +91,17 @@ ca. 150 ml. :cite:`KlinkePhysio3`
 
 Bei der :dfn:`Totraumventilation`
 (*Syn.* *Totraumbelüftung*) ist das Atemzugvolumen so gering, dass die
-Ausatemluft im Totraum verbleibt 
-und bei der folgenden Einatmung erneut, 
-anstatt von Frischluft, 
+Ausatemluft im Totraum verbleibt
+und bei der folgenden Einatmung erneut,
+anstatt von Frischluft,
 in die Lungenbläschen gelangt.
-Somit kommt es sowohl zu einem Mangel an frischem Sauerstoff in den Alveolen, 
-als auch zu einem Rückstau von Kohlendioxid, 
+Somit kommt es sowohl zu einem Mangel an frischem Sauerstoff in den Alveolen,
+als auch zu einem Rückstau von Kohlendioxid,
 welches nicht mehr abgeatmet werden kann.
-Bei der :dfn:`Schnappatmung` kann genau dies passieren: 
-Hierbai handelt es sich, 
-dem Namen entsprechend, 
-um, teils eindrucksvolle, schnappende Atembewegungen, 
+Bei der :dfn:`Schnappatmung` kann genau dies passieren:
+Hierbai handelt es sich,
+dem Namen entsprechend,
+um, teils eindrucksvolle, schnappende Atembewegungen,
 welche jedoch nur zu einer minimalen Bewegung der Luftsäule führen.
 Das Atemzugsvolumen folglich so gering dass es zu einer
 Totraumventilation kommt und die Atmung somit hochgradig insuffizient
@@ -111,7 +113,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
     :header-rows: 1
     :stub-columns: 1
 
-    *   - 
+    *   -
         -   AF [/ min]
         -   AZV [ml]
         -   SpO2 [%]
@@ -149,7 +151,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
 .. _Table-AtmungSymptome-Pam:
 
-.. table:: Symptome von Atemstörungen 
+.. table:: Symptome von Atemstörungen
 
   +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
   | **Kriterium**       | **Befund**                                          | **Beschreibung**                                                     |    |
@@ -202,30 +204,30 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
             :width: 99.99%
 
             Annäherung an den Patienten [Michael Motal, MfG]
- 
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
             :width: 99.99%
 
 	    Die Rippen folgen der Atembewegung. [:term:`HiLe`, :term:`MfG`]
-	    
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*
             :width: 99.99%
-                    
+
 	    Zyanotische Lippen [:term:`GaSe`, :term:`MfG`]
 
             :term:`UE2011FORTUNA-00651`
 
-   
+
 .. subfigend::
     :width: 0.3
     :label: Figure-BilderserieB
 
     Bilderserie: Breathing
 
-	     
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/asthma-paramedic.*
             :width: 99.99%
-            
+
 	    Patientin mit einem akuten Asthmaanfall
 
             Sie sitzt auf einer Treppe und stützt sich nach hinten mit
@@ -234,10 +236,10 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
             Sauerstoffgabe, Reanimationsbereitschaft,
             Notarztnachforderung und Monitoring.
 
-            [:term:`GaSe`, :term:`MfG`] 
+            [:term:`GaSe`, :term:`MfG`]
 
 
-	    
+
 .. _Thema-Lippenbremse-Basic:
 
 Typische Maßnahmen
@@ -259,7 +261,7 @@ Typische Maßnahmen
    Luftrückstau und einer Druckerhöhung bis in die Bronchien und
    Alveolen, dies verhindert einen Kollaps derselben.
    Zusätzlich ermöglicht diese Atemtechnik eine vermehrte
-   Schleimablösung. 
+   Schleimablösung.
 
 -  Beengende Kleidung öffnen
 

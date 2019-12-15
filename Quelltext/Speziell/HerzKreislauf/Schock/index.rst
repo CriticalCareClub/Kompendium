@@ -10,17 +10,18 @@ Der Schock ist eine lebensbedrohliche Kreislaufstörung
 Beschreibung
 ************
 
-.. sidebar:: Schock
+..
+    .. sidebar:: Schock
 
-    -  Lebensbedrohliche Kreislaufstörung
+        -  Lebensbedrohliche Kreislaufstörung
 
-    -  Kreislaufinsuffizienz
+        -  Kreislaufinsuffizienz
 
 .. admonition:: Definition
 
     Ein Schock ist eine *lebensbedrohliche Kreislaufstörung* aufgrund von
     Unterversorgung des Körpers mit Blut und Sauerstoff infolge des
-    Versagens des Kreislaufsystems. 
+    Versagens des Kreislaufsystems.
 
 Es besteht eine Missverhältnis
 zwischen dem Herzauswurfs und dem Bedarf des Körpers. Dies kann
@@ -56,15 +57,16 @@ Kompensation, Dekompensation
 ****************************
 
 
-.. sidebar:: Kompensation, Dekompensation
+..
+    .. sidebar:: Kompensation, Dekompensation
 
-    -  Gegensteuerung (*Kompensation*)
+        -  Gegensteuerung (*Kompensation*)
 
-    -  Sympathikus (*"Fight!"*)
+        -  Sympathikus (*"Fight!"*)
 
-    -  Zentralisation
+        -  Zentralisation
 
-    -  Ende: *Dekompensierter Schock*
+        -  Ende: *Dekompensierter Schock*
 
 Der Körper versucht durch Aktivierung des Sympathikus
 gegenzusteuern (zu *kompensieren*).
@@ -86,16 +88,16 @@ die Kompensationsmaßnahmen nicht mehr ausreichen, spricht man vom
 
     Ein Schockzustand ist grundsätzlich als vitale Bedrohung einzustufen!
 
-.. _Thema-SchockAllgemeineSymptomatik: 
+.. _Thema-SchockAllgemeineSymptomatik:
 
 ****************************
 Allgemeine Schocksymptomatik
 ****************************
 
 Die Symptome eines Schocks sind
-abhängig vom jeweiligen Stadium. 
+abhängig vom jeweiligen Stadium.
 Problematisch ist, dass am Anfang die
-Symptome eher diskret sind. 
+Symptome eher diskret sind.
 Das erste Anzeichen eines beginnenden
 Schocks ist oft lediglich eine kühle Haut (Kaplan et al. 2001)!
 Natürlich kann es auch andere Ursachen für eine kühle Haut geben, z. B.
@@ -116,13 +118,13 @@ listet typische allgemeine Schocksymptome auf.
     :widths: 20 80
     :header-rows: 1
 
-    *   -   Stadium 
+    *   -   Stadium
         -   Symptome
     *   -   **Schockgefahr**
         -   -   Keine eindeutigen Anzeichen
             -   Vorausschauend handeln!
-            -   Verdachtsdiagnose bedenken. 
-                Muss man damit rechnen, dass sich ein Schock entwickelt? 
+            -   Verdachtsdiagnose bedenken.
+                Muss man damit rechnen, dass sich ein Schock entwickelt?
                 Besteht Schockgefahr?
     *   -   **Schock**
         -   -   HF ↑
@@ -139,7 +141,7 @@ listet typische allgemeine Schocksymptome auf.
             -   Neurologisch auffällig, getrübt
             -   Haut blass, zyanotisch (bläulich), feucht
             -   Venen kollabiert oder gestaut
-            -   Nur mehr schwer behebbar! 
+            -   Nur mehr schwer behebbar!
                 Schock möglichst frühzeitig erkennen & behandeln
     *   -   **Endstadium**
         -   -   Haut grau, klebrig
@@ -165,13 +167,14 @@ sich dann *bereits im Vollbild eines Schocks!* *Die Schockschere ist ein
 Schockschere befindet, kann er trotzdem einen Schock haben!*
 
 
-.. sidebar:: Schockschere
+..
+    .. sidebar:: Schockschere
 
-    -  RR\ :sub:`syst`\ < HF
+        -  RR\ :sub:`syst`\ < HF
 
-    -  Dann bereits *schwerer* Schock
+        -  Dann bereits *schwerer* Schock
 
-    -  Spätzeichen, auch ohne Schockschere kann Schock bestehen.
+        -  Spätzeichen, auch ohne Schockschere kann Schock bestehen.
 
 -  *Schockbeurteilung*: Schocksymptome und Verdachtsdiagnose, *nicht*
    primär Schockschere!
@@ -217,16 +220,16 @@ Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
     :widths: 20 40 40
     :header-rows: 1
 
-    *   -   Volumen 
+    *   -   Volumen
         -   Herz
         -   Gefäße
-    *   -   Es ist *zu wenig Flüssigkeit* bzw. Blut im Gefäßsystem vorhanden 
-        -   Der *Herzauswurf* (bei normalem Volumen) ist  zu gering. 
+    *   -   Es ist *zu wenig Flüssigkeit* bzw. Blut im Gefäßsystem vorhanden
+        -   Der *Herzauswurf* (bei normalem Volumen) ist  zu gering.
         -   Die Gefäße sind inadäquat *weitgestellt*, das Blut versackt
     *   -   - *Hypovolämischer* Schock
         -   - *Kardiogener* Schock
         -   - *Anaphylaktischer* Schock
-            - *Septischer* bzw. 
+            - *Septischer* bzw.
             - *toxischer* Schock
 
 
@@ -236,11 +239,11 @@ Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
     :widths: 20 40 40
     :header-rows: 1
 
-    *   -   Schockart 
+    *   -   Schockart
         -   Ursachen
         -   Spezielle Symptome
     *   -   Hypovoläm
-        -   Verlust von Blutvolumen (Vollblut oder Blutbestandteilen) aus den Gefäßen** 
+        -   Verlust von Blutvolumen (Vollblut oder Blutbestandteilen) aus den Gefäßen**
         -   -   Verlust nach außen
 
                 -   Blutung
@@ -268,7 +271,7 @@ Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
             -   Atemnot
     *   -   **Anaphylaktisch**
         -   *Überschießende allergische Reaktion*
-            -   Überschießende Reaktion der Körperabwehr 
+            -   Überschießende Reaktion der Körperabwehr
             -   Gefäße erweitert, Blut versackt
             -   Durchlässigkeit der Gefäße ↑, Plasmaverlust in Zwischengewebsraum
             -   Mögliche Auslöser:
@@ -307,7 +310,7 @@ Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
             -   Rückenmarksverletzung (Querschnitt-Syndrom)
             -   Gefäßwandmuskulatur bekommen keine Nerven-Impulse und kontrahiert  sich nicht mehr
             -   Gefäße weiten sich → Blut versackt
-            
+
         -   :ref:`Tafel-Schocksymptomatik`
 
 
@@ -333,7 +336,7 @@ Herzauswurf und RR!
     :widths: 50 50
     :header-rows: 1
 
-    *   -   Flüssigkeitsverlust nach außen 
+    *   -   Flüssigkeitsverlust nach außen
         -   Flüssigkeitsverlust nach innen
     *   -   -  Blutung
             -  Verbrennungen (Hautbarriere versagt großflächig)
@@ -345,7 +348,7 @@ Herzauswurf und RR!
             -   Aszites ("Wasserbauch", z. B. bei Lebererkrankungen)
 
 
-.. _Thema-SchockKardiogener: 
+.. _Thema-SchockKardiogener:
 
 ******************
 Kardiogener Schock
@@ -369,7 +372,7 @@ Rechtsherzversagen).
 Häufig klagen die Patienten über *Atemnot*.
 [Tafel-uebersicht-schockarten]
 
-.. _Thema-SchockAnaphylaktischer: 
+.. _Thema-SchockAnaphylaktischer:
 .. _thema-schock-anaphylaktischer:
 
 ***********************
@@ -398,7 +401,7 @@ Blutdruck fällt massiv ab! Mögliche *Auslöser* können sein:
 -  und vieles andere …
 
 
-   
+
 
 Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
 :ref:`Tafel-AnaphylaxieStadien`.
@@ -412,7 +415,7 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
     *   -   Grad
         -   Symptome
     *   -   **I°**
-        -   Hautreaktion: evtl. Ausschlag, Rötung; Quaddeln, Flush, Ödemen 
+        -   Hautreaktion: evtl. Ausschlag, Rötung; Quaddeln, Flush, Ödemen
 
             Allgemeinsymptome: Juckreiz, Zittern, Schwindel, Kopfschmerz
     *   -   **II°**
@@ -478,7 +481,7 @@ Typischerweise kommt dies im Rahmen einer *Wirbelsäulenverletzung* vor,
 bei der das Rückenmark geschädigt bzw. unterbrochen wird
 (*Querschnitt-Syndrom*).
 
-.. note:: 
+.. note::
 
     -  Grundsatz: *Der Schock muss bekämpft werden bevor man ihn
        bemerkt.*
@@ -532,7 +535,7 @@ Maßnahmen: Schock
         Schonende/schnelle Bergung\A{Schonend
         oder schnell?}
         &
-        Schockraum, 
+        Schockraum,
 
         zügiger Abtransport
         \\\addlinespace\midrule\addlinespace

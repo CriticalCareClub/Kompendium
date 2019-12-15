@@ -24,10 +24,11 @@ Notfälle in der Frühschwangerschaft
 Fehlgeburt
 ----------
 
-.. sidebar:: Fehlgeburt
+..
+    .. sidebar:: Fehlgeburt
 
-    -   Frühe Fehlgeburt/Fruchtabgang
-    -   Oft unbemerkt
+        -   Frühe Fehlgeburt/Fruchtabgang
+        -   Oft unbemerkt
 
 Ein :dfn:`Abort` :index:`\ <! Abort>` ist die
 Beendigung einer Schwangerschaft bzw. Fruchtabgang bei einem
@@ -40,11 +41,12 @@ vor dem Erreichen von 500 geschieht, spricht man von einer *Fehlgeburt*.
 Symptome
 ^^^^^^^^
 
-.. sidebar:: Symptome
+..
+    .. sidebar:: Symptome
 
-    -   Vaginale Blutung
-    -   Abgang von Gewebsteilen
-    -   Unterbauchschmerzen
+        -   Vaginale Blutung
+        -   Abgang von Gewebsteilen
+        -   Unterbauchschmerzen
 
 Die Symptome sind vor allem davon abhängig, wie weit die Schwangerschaft
 fortgeschritten ist bzw. die Frucht entwickelt ist. Ein sehr früher
@@ -112,15 +114,16 @@ Eileiterschwangerschaft
 Beschreibung
 ^^^^^^^^^^^^
 
-.. sidebar:: Eileiterschwangerschaft
+..
+    .. sidebar:: Eileiterschwangerschaft
 
-    -   Einnistung der Frucht in Eileiter (statt Gebärmutter)
-    -   Schmerz durch Dehnung des Eileiters
-    -   → Zerreißung des Eileiters
+        -   Einnistung der Frucht in Eileiter (statt Gebärmutter)
+        -   Schmerz durch Dehnung des Eileiters
+        -   → Zerreißung des Eileiters
 
-        -   Blutung
-        -   Akutes Abdomen
-        -   Schock
+            -   Blutung
+            -   Akutes Abdomen
+            -   Schock
 
 Eine :dfn:`Eileiterschwangerschaft` :index:`\ <! Eileiterschwangerschaft>` ist eine
 Schwangerschaft, bei der sich die Frucht im Eileiter einninstet. *Term.*
@@ -159,7 +162,7 @@ Maßnahmen: Eileiterschwangerschaft, rupturiert
 
 Basismaßnahmen
     -   |TxMassVitMKBes|
-    
+
         -   Lagerung: Bauchdeckenentspannend.
         -   Schockbekämpfung
 
@@ -174,9 +177,9 @@ Notfälle in der Spätschwangerschaft
 Vorzeitige Plazentalösung
 -------------------------
 
-Eine :dfn:`vorzeitige Plazentalösung` ist eine Ablösung 
+Eine :dfn:`vorzeitige Plazentalösung` ist eine Ablösung
 des Mutterkuchens (Plazenta) vor
-Beendigung der Geburt. 
+Beendigung der Geburt.
 
 Aufgrund einer Einblutung zwischen Plazenta und
 Gebärmutter kann es zu einer vorzeitigen Ablösung der Plazenta mit dann
@@ -275,17 +278,18 @@ geklärt.
 Symptome
 ^^^^^^^^
 
-.. sidebar:: Präeklampsie et al.
+..
+    .. sidebar:: Präeklampsie et al.
 
-    -   *E*\ dema (Ödeme)
-    -   *P*\ roteinuria (Proteinurie)
-    -   *H*\ ypertonie (RR ↑)
-    -   HELLP: re. Oberbauchschmerz
-    -   Drohende Eklampsie:
+        -   *E*\ dema (Ödeme)
+        -   *P*\ roteinuria (Proteinurie)
+        -   *H*\ ypertonie (RR ↑)
+        -   HELLP: re. Oberbauchschmerz
+        -   Drohende Eklampsie:
 
-        -   Kopfschmerzen
-        -   Sehstörungen
-        -   Übelkeit, Erbrechen
+            -   Kopfschmerzen
+            -   Sehstörungen
+            -   Übelkeit, Erbrechen
 
 
 Die Präeklampsie ist charakterisiert durch:
@@ -384,22 +388,23 @@ Als *Beginn der Geburt* zählt:
 
 Die Geburt verläuft in 3 Phasen:
 
--   **Eröffnungsphase** 
--   **Austreibungsphase** 
--   **Nachgeburtsphase** 
+-   **Eröffnungsphase**
+-   **Austreibungsphase**
+-   **Nachgeburtsphase**
 
 Eröffnungsphase
 ---------------
 
-.. sidebar:: Eröffnungsphase
+..
+    .. sidebar:: Eröffnungsphase
 
-    -   Von Beginn regelmäßger Wehen bis vollst. Eröffnung des Muttermundes
-    -   Wehen im Abstand von 2-10 Minuten
-    -   Gebärmutterhals verkürzt sich, Muttermund öffnet sich
-    -   Blasensprung mit Fruchtwasserabgang
-    -   Ab Blasensprung: *Gefahr eines Nabelschnurvorfalles*
+        -   Von Beginn regelmäßger Wehen bis vollst. Eröffnung des Muttermundes
+        -   Wehen im Abstand von 2-10 Minuten
+        -   Gebärmutterhals verkürzt sich, Muttermund öffnet sich
+        -   Blasensprung mit Fruchtwasserabgang
+        -   Ab Blasensprung: *Gefahr eines Nabelschnurvorfalles*
 
-        -   **Liegender Transport!**
+            -   **Liegender Transport!**
 
 Die :dfn:`Eröffnungsphase` :index:`\ <! Eröffnungsphase>` beginnt mit den ersten
 regelmäßigen Wehen und endet mit der vollständigen Eröffnung des
@@ -407,8 +412,8 @@ Muttermundes auf 10cm. (Striebel 2010a; Bühling and Friedmann 2004;
 Haag, Hanhart, and Müller 2006a) Durch Zusammenziehen der
 Gebärmuttermuskulatur (Wehen) wird das Kind langsam in den Geburtskanal
 nach unten gepresst. Dadurch verkürzt sich der Gebärmutterhals (Zervix),
-und der Muttermund wird eröffnet. 
-Der Wehenabstand beträgt ca. 2-10min. 
+und der Muttermund wird eröffnet.
+Der Wehenabstand beträgt ca. 2-10min.
 Während der Eröffnungsphase kommt es zum Platzen der
 Fruchtblase (:dfn:`Blasensprung` :index:`\ <! Blasensprung>`), dabei geht Fruchtwasser
 und etwas blutiges Sekret ab.
@@ -424,13 +429,14 @@ Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
 Austreibungsphase
 -----------------
 
-.. sidebar:: Austreibungsphase
+..
+    .. sidebar:: Austreibungsphase
 
-    -   Von vollständiger Eröffnung des Muttermundes bis Geburt des Kindes
-    -   Wehen im Abstand von 2–3 min
-    -   Presswehen
-    -   Dammschutz = Stuhlschutz
-    -   Geburt des Kindes
+        -   Von vollständiger Eröffnung des Muttermundes bis Geburt des Kindes
+        -   Wehen im Abstand von 2–3 min
+        -   Presswehen
+        -   Dammschutz = Stuhlschutz
+        -   Geburt des Kindes
 
 Die :dfn:`Austreibungsphase` :index:`\ <! Austreibungsphase>` beginnt mit der vollständigen
 *Eröffnung* des Muttermundes (10cm) und endet mit der *Geburt* des
@@ -447,7 +453,7 @@ Der Damm
 
 Als :dfn:`Damm` :index:`\ <! Damm>` wird das Stück Haut zwischen Scheide und
 Anus bezeichnet.
-Mittels eines Griffes namens :dfn:`Dammschutz` :index:`\ <! Dammschutz>` 
+Mittels eines Griffes namens :dfn:`Dammschutz` :index:`\ <! Dammschutz>`
 kann theoretisch die Wahrscheinlichkeit eines Dammrisses
 minimiert werden. Dabei wird die Hand unterhalb der Scheide angelegt und
 man versucht das Gewebe zu stabilisieren. In der Praxis ist dieser
@@ -464,16 +470,17 @@ dem Stuhl der Mutter geschützt* werden (:dfn:`Stuhlschutz` :index:`\ <! Stuhlsc
 Nachgeburtsphase
 ----------------
 
-.. sidebar:: Nachgeburtsphase
+..
+    .. sidebar:: Nachgeburtsphase
 
-    -   Nach 10—20 Min. neuerlich Wehen.
-    -   Geburt der Plazenta.
+        -   Nach 10—20 Min. neuerlich Wehen.
+        -   Geburt der Plazenta.
 
-Nach 10—20 Minuten kommt es neuerlich zu Wehen, welche den
-Presswehen ähnlich sind. Es kommt zur Geburt der *Plazenta*
-(*Mutterkuchen*). Die Gefahr hierbei ist, dass es zu starkem Blutverlust
-bei der Mutter kommen kann. *Die Plazenta ist für weitere
-Untersuchungen ins Krankenhaus mitzunehmen!* [276]_ 
+    Nach 10—20 Minuten kommt es neuerlich zu Wehen, welche den
+    Presswehen ähnlich sind. Es kommt zur Geburt der *Plazenta*
+    (*Mutterkuchen*). Die Gefahr hierbei ist, dass es zu starkem Blutverlust
+    bei der Mutter kommen kann. *Die Plazenta ist für weitere
+    Untersuchungen ins Krankenhaus mitzunehmen!* [276]_
 
 .. [276]
    Kontrolle der Vollständigkeit, Prüfen auf Insuffizienzzeichen, …
@@ -489,21 +496,21 @@ Untersuchungen ins Krankenhaus mitzunehmen!* [276]_
     :width: 99%
 
     Durchtrennung der Nabelschnur, die patientenferne Klemme ist
-    durch die Hand verdeckt.    
+    durch die Hand verdeckt.
 
     [WMC: “Jeremykemp” / PD]
 
 .. figure:: /Bilder/WikipediaPd/Navelklem.*
     :width: 99%
 
-    Abgeklemmte Nabelschnur 
+    Abgeklemmte Nabelschnur
 
     [WMC: “Harmid” / PD]
 
 .. figure:: /Bilder/WikipediaPd/Umbilicalstump.*
     :width: 99%
 
-    Nabelschnurstumpf nach sieben Tagen 
+    Nabelschnurstumpf nach sieben Tagen
 
     [WMC: “Fatrabbit” / PD]
 
@@ -609,9 +616,9 @@ Maßnahmen: Versorgung des Neugeborenen
 
     -   Muskeltonus
     -   Atemweg
-    
+
         -   Bei Atemwegsverlegung: Mittels Oro-Sauger absaugen
-            
+
             Absaugen ist nur notwendig,
             wenn die Atemwege verlegt sind.
             Eine solche Verlegung kann aufgrund von Mekonium,
@@ -635,8 +642,8 @@ Maßnahmen: Versorgung des Neugeborenen
         an der Herzspitze (nur geübtes Personal) oder an
         *Oberarmarterie*) [#NeugeborenesPulsmessstelle]_. Wenn ein *geeignetes
         Pulsoxymeter* vorhanden ist, kann auch dieses verwendet werden.
-        
-.. [#NeugeborenesPulsmessstelle] 
+
+.. [#NeugeborenesPulsmessstelle]
 
     Die beste Methode
     zur Beurteilung der Herzfrequenz ist die direkte Auskultation
@@ -647,7 +654,7 @@ Maßnahmen: Versorgung des Neugeborenen
     Eine Beurteilung der Herzfrequenz
     allein über die Pulsation der Nabelschnur ist nur
     zuverlässig, wenn die Herzfrequenz über 100\PerMin* liegt. :cite:`Erc2010Sek06De`
-    
+
     Bei Sanitätern, insbesondere der
     niedrigeren Ausbildungsstufen, kann nicht davon
     ausgegangen werden, dass eine Auskultation in dieser
@@ -672,13 +679,13 @@ Maßnahmen: Versorgung des Neugeborenen
                 schlaffer Muskeltonus ("floppy")
             -   Herzfrequenz < 100 / min; Bradykarde
                 oder nichtnachweisbare Herzfrequenz,
-            -   Oft mit ausgeprägter Blässe als Zeichen 
+            -   Oft mit ausgeprägter Blässe als Zeichen
                 einer schlechten Perfusion.
     *   -   -   Abtrocknen und Einwickeln in warme Tücher:Warm
                 einpacken (nur das Gesicht darf frei bleiben) und der Mutter
                 überreichen.
             -   Abnabeln, frühestens nach 1 min:
-    
+
                 -   Erst wird eine Handbreite vom Kind
                     entfernt die erste Nabelklemme gesetzt.
                 -   Dann wird die Nabelschnur Richtung Mutter ausgestreift und
@@ -713,7 +720,7 @@ Maßnahmen: Versorgung des Neugeborenen
     % Maskenbeatmung ausreichend. Kommt es darunter nicht zu einem
     % adäquaten Anstieg der Herzfrequenz, müssen Herzdruckmassagen
     % durchgeführt werden.
-    
+
     % Nachdem ein Neugeborenes dieser Gruppe getrocknet und in
     % warme Tücher gewickelt wurde, müssen unverzüglich die
     % Atemwege geöffnet werden. Die Lungen müssen belüftet werden,
@@ -726,12 +733,12 @@ Maßnahmen: Versorgung des Neugeborenen
     % weites Spektrum, wie z. B. eine Zwerchfellhernie,
     % Surfactant-Mangel, eine kongenitale Pneumonie, einen
     % Pneumothorax oder ein angeborenes zyanotisches Herzvitium.
-    
+
 
     }
 
 
-:cite:`Erc2010Sek06De,AsboeLehrmeinungRd2011-19,AsboeLehrmeinungRd2011-18`\ 
+:cite:`Erc2010Sek06De,AsboeLehrmeinungRd2011-19,AsboeLehrmeinungRd2011-18`\
 
 
 
@@ -742,7 +749,7 @@ Maßnahmen: Versorgung des Neugeborenen
     Set für eine Geburt (Partus-Set)Verbandsmaterial, saugstarke Tücher,
     Nabelklemmen (2 Stk.), Orosauger, Aluminiumdecke, Klebeband, Schere,
     Verbandspäckchen
-    
+
     [Christoph Pallinger, MfG]
 
 Apgar-Score
@@ -751,7 +758,7 @@ Apgar-Score
 Der *Apgar-Score* ist nach Virginia Apgar benannt und ist ein
 Punkteschema zur Beurteilung von Neugeborenenen. Die Bestimmung erfolgt
 1, 5 und 10 Minuten nach der Geburt. Die optimale Punktzahl für
-Neugeborene sind 9—10 Punkte. Bei Wertungen zwischen 
+Neugeborene sind 9—10 Punkte. Bei Wertungen zwischen
 5—8 gilt das Neugeborene als gefährdet, unter 5 als akut
 lebensgefährdet. Für die weitere Behandlung ist jedoch der klinische
 Zustand entscheidend, nicht der Apgar-Score.
@@ -831,10 +838,10 @@ Basismaßnahmen
 Peripartale Asphyxie
 ---------------------------
 
-Eine :dfn:`peripartale Asphyxie` :index:`\ <! Asphyxie>` 
+Eine :dfn:`peripartale Asphyxie` :index:`\ <! Asphyxie>`
 ist eine Sauerstoffunterversorgung
 (Hypoxie) des Neugeborenen infolge einer atem- oder kreislaufbedingten
-Störung vor, während oder nach der Geburt. 
+Störung vor, während oder nach der Geburt.
 
 Die möglichen Ursachen für
 die Hypoxie sind vielfältig und umfassen u. a. eine Placenta praevia,
@@ -876,7 +883,7 @@ Einerseits wird während des Geburtsvorganges die Nabelschnur durch den
 Kindskopf abgeklemmt, und somit ist die Sauerstoffversorgung des Kindes
 nicht mehr gewährleistet. Andererseits kann sich die Nabelschnur um den
 Hals des Kindes wickeln und es kommt während der Geburt zur
-Strangulation des Kindes. 
+Strangulation des Kindes.
 
 .. _GO69000C:
 .. _m-nabelschnurvorfall:
@@ -890,22 +897,23 @@ Basismaßnahmen
     -   **Zeitkritisch!**
     -   **Notarztnachforderung nur wenn Stabilisierung notwendig**
     -   Beckenhochlagerung
-    -   Mutter soll *nicht* pressen 
+    -   Mutter soll *nicht* pressen
         (wenn möglich Geburt erst im Krankenhaus)
     -   Wehenhemmung (hecheln; medikamentös)
-    -   Nabelschnurumschlingung des kindlichen Halses 
+    -   Nabelschnurumschlingung des kindlichen Halses
         während der Geburt sofort lösen
 
 
 Die Placenta praevia liegt im Geburtskanal
 ------------------------------------------
 
-.. sidebar:: Placenta praevia 
+..
+    .. sidebar:: Placenta praevia
 
-    -   Plazenta liegt vor dem Geburtskanal
-    -   Vaginale Geburt nicht möglich
-    -   Blutungsgefahr
-    -   Anamnese, Mutter-Kind-Pass
+        -   Plazenta liegt vor dem Geburtskanal
+        -   Vaginale Geburt nicht möglich
+        -   Blutungsgefahr
+        -   Anamnese, Mutter-Kind-Pass
 
 Normalerweise liegt die Plazenta nicht vor dem Geburtskanal. Bei einer
 sehr tiefen Einnistung des befruchteten Eis in der Gebärmutter, kann es
@@ -977,7 +985,7 @@ Basismaßnahmen
         -   Voranmeldung!
 
     -   Beckenhochlagerung
-    -   Mutter soll *nicht* pressen 
+    -   Mutter soll *nicht* pressen
         (wenn möglich Geburt erst im Krankenhaus)
     -   Wehenhemmung (hecheln; medikamentös)
 
@@ -1014,11 +1022,12 @@ Basismaßnahmen
 Blutungen in der Nachgeburtsperiode
 -----------------------------------
 
-.. sidebar:: Blutungen in der Nachgeburtsperiode
+..
+    .. sidebar:: Blutungen in der Nachgeburtsperiode
 
-    -   Starke Blutungen möglich!
-    -   Uterusatonie: Erschlaffung der Gebärmutter
-    -   Hypovolämischer Schock bis Kreislaufversagen möglich
+        -   Starke Blutungen möglich!
+        -   Uterusatonie: Erschlaffung der Gebärmutter
+        -   Hypovolämischer Schock bis Kreislaufversagen möglich
 
 Blutungen in der Nachgeburtsperiode können sehr schwerwiegend sein und
 können verschiedene Ursachen haben. Der Blutverlust kann sehr hoch sein
@@ -1057,13 +1066,14 @@ Sonstige gynäkologische Erkrankungen und Notfälle
 Vaginale Blutungen
 ==================
 
-.. sidebar:: Vaginale Blutung
+..
+    .. sidebar:: Vaginale Blutung
 
-    -   Verstärkte Monatsblutung
-    -   Verletzungen (Sturz, Geschlechtsverkehr, Vergewaltigung, …)
-    -   Defloration
-    -   Tumor
-    -   Im Rahmen einer Schwangerschaft
+        -   Verstärkte Monatsblutung
+        -   Verletzungen (Sturz, Geschlechtsverkehr, Vergewaltigung, …)
+        -   Defloration
+        -   Tumor
+        -   Im Rahmen einer Schwangerschaft
 
 Die vaginale Blutung ist präklinisch schwer
 abzuklären und kann viele Ursachen haben. Wichtig ist festzuhalten, dass

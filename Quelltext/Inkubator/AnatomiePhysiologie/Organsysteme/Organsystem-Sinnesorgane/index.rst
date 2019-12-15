@@ -181,21 +181,21 @@ aushaltbarer Schwindel.
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Ohr.*
     :width: 99%
-    
-    Das Ohr im Querschnitt. 
-    
-    Man sieht den äußeren Gehörgang, das Trommelfell, 
+
+    Das Ohr im Querschnitt.
+
+    Man sieht den äußeren Gehörgang, das Trommelfell,
     die Gehörknöchelchen, die Schnecke und die Bogengänge.
 
     [Lena Hirtler, MfG]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Mittelohr.*
     :width: 99%
-    
-    Das Mittelohr: 
-    
-    Im Detail sind hier das Trommelfell, 
-    sowie die Gehörknöchelchen Hammer, 
+
+    Das Mittelohr:
+
+    Im Detail sind hier das Trommelfell,
+    sowie die Gehörknöchelchen Hammer,
     Amboss und Steigbügel zu sehen.
 
     [Lena Hirtler, MfG]
@@ -234,7 +234,7 @@ Beschreibung
    single: Derma
 
 
-   
+
 Die Haut, *Term.* *Derma*, ist die Grenzfläche des Körpers zur Außenwelt
 und gleichzeitig das größte Sinnesorgan des menschlichen Körpers. Sie
 macht ca. 1/6 des Körpergewichts aus, ihre Oberfläche
@@ -243,31 +243,32 @@ beträgt beim Erwachsenen ca. 1,6m.
 Die Haut ist in Schichten aufgebaut
 ===================================
 
-.. sidebar:: Schichten der Haut
+..
+   .. sidebar:: Schichten der Haut
 
-  -   *Oberhaut* (Epidermis)
+   -   *Oberhaut* (Epidermis)
 
-     -  Hornschicht, geschichtetes Plattenepithel
+      -  Hornschicht, geschichtetes Plattenepithel
 
-  -  *Lederhaut* (Corium, Dermis)
+   -  *Lederhaut* (Corium, Dermis)
 
-     -  Hautanhangsgebilde
+      -  Hautanhangsgebilde
 
-        -  Schweißdrüsen
+         -  Schweißdrüsen
 
-        -  Talgdrüsen
+         -  Talgdrüsen
 
-        -  Haarfollikel, Nagelmatrix
+         -  Haarfollikel, Nagelmatrix
 
-     -  Tastkörperchen, freie Nervenendigungen (Schmerz)
+      -  Tastkörperchen, freie Nervenendigungen (Schmerz)
 
-     -   Kollagenfasern (Stütznetzwerk)
+      -   Kollagenfasern (Stütznetzwerk)
 
-     -  Arteriolen, Venolen (Versorgung der Haut, Temperaturregulation)
+      -  Arteriolen, Venolen (Versorgung der Haut, Temperaturregulation)
 
-  -   *Unterhaut* (*Subcutis*)
+   -   *Unterhaut* (*Subcutis*)
 
-     -  Depotfett, Wärmeisolierung
+      -  Depotfett, Wärmeisolierung
 
 
 .. index::
@@ -279,7 +280,7 @@ Die Haut ist in Schichten aufgebaut
    single: Unterhaut
    single: Subcutis
 
-   
+
 Die oberflächlichste Schicht der Haut ist die :dfn:`Oberhaut` (*Epidermis*).
 Sie besteht aus einer mehr oder weniger dicken
 *Hornhaut* (am dicksten an Handflächen und Fußsohlen, am dünnsten an den
@@ -302,26 +303,27 @@ Wärmeisolierung.
 Aufgaben
 ========
 
-.. sidebar:: Aufgaben der Haut
-	     
-  -  Schutz vor äußeren Einflüssen
+..
+   .. sidebar:: Aufgaben der Haut
 
-  -  Schutz vor Wasserverlust/Austrocknung
+   -  Schutz vor äußeren Einflüssen
 
-  -  Temperaturregulation
+   -  Schutz vor Wasserverlust/Austrocknung
 
-     -  Isolation
+   -  Temperaturregulation
 
-     -  Wärmeabgabe
+      -  Isolation
 
-        -  Erweiterung der Blutgefäße
- 
-        -  Verdunstungskälte des Schweißes
+      -  Wärmeabgabe
 
-  -  Sekretionsorgan (Schweiß, Talg)
+         -  Erweiterung der Blutgefäße
 
-  -  Sinnesorgan (Tast-, Temperatursinn)
-     
+         -  Verdunstungskälte des Schweißes
+
+   -  Sekretionsorgan (Schweiß, Talg)
+
+   -  Sinnesorgan (Tast-, Temperatursinn)
+
 Die Haut ist eine mechanische *Barriere gegen Umwelteinflüsse*. Sie
 verhindert das Eindringen von Fremdkörpern und Keimen und sorgt für
 einen ausgeglichenen Wasser- und Elektrolythaushalt, indem sie den

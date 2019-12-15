@@ -11,7 +11,7 @@ Herzinsuffizienz
 .. admonition:: Definition: Herzinsuffizienz
 
     Eine :dfn:`Herzinsuffizienz` bezeichnet eine unzureichende
-    Auswurfleistung des Herzens, unabhängig von deren Ursache. 
+    Auswurfleistung des Herzens, unabhängig von deren Ursache.
 
 Es sind
 viele Ursachen möglich, manche Ursachen treten *akut* auf, manche sind
@@ -21,21 +21,22 @@ eher *chronischer* Natur.
 Einteilung
 **********
 
-.. sidebar:: Einteilung
+..
+    .. sidebar:: Einteilung
 
-    -  Herzteil:
+        -  Herzteil:
 
-    -  *Rechts*\ herzinsuffizienz
+        -  *Rechts*\ herzinsuffizienz
 
-    -  *Links*\ herzinsuffizienz
+        -  *Links*\ herzinsuffizienz
 
-    -  *Global*\ insuffizienz
+        -  *Global*\ insuffizienz
 
-    -  Kompensation:
+        -  Kompensation:
 
-    -  Kompensierte Herzinsuffizienz
+        -  Kompensierte Herzinsuffizienz
 
-    -  **De**\ kompensierte Herzinsuffizienz
+        -  **De**\ kompensierte Herzinsuffizienz
 
 Die Einteilung der Herzinsuffizienz kann nach dem betroffenen Herzteil
 oder der Fähigkeit des Körpers zur Kompensation erfolgen:
@@ -133,16 +134,16 @@ ABCDE
     weiters eine  *niedrige Sauerstoffsättigung* oder Zeichen eines
      *kardiogenen Schocks*.
 
-    Eine besonders kritische Komplikation ist das 
+    Eine besonders kritische Komplikation ist das
     |symbol-RedFlag| kardiale *Lungenödem*.
-    Wenn es sehr stark ausgeprägt ist, 
+    Wenn es sehr stark ausgeprägt ist,
     kann man es mit freiem Ohr hören (*"brodelndes Atemgeräusch"*).
     Diese Patienten sind als besonders kritisch einzuschätzen, sie sind
     *lebensbedrohlich* krank. Das Herz verbraucht oft die allerletzten
     Reserven, schon die Aufregung durch den Transport im Stiegenhaus zum
     Auto kann das Herz endgültig in den Herz-Kreislaufstillstand
     bringen. Es kommt immer wieder vor, dass solche Patienten im
-    Stiegenhaus oder im Auto reanimationspflichtig werden. 
+    Stiegenhaus oder im Auto reanimationspflichtig werden.
 
 ``2``
     Blass, evtl. kaltschweißig. Evtl. agitiert
@@ -219,7 +220,7 @@ Maßnahmen: Akute dekompensierte Herzinsuffizenz
 
 
 
-.. todo:: 
+.. todo::
 
     Herzinsuffizienz Maßnahmen: Anpassung an höherqualifiziertes Personal
 
@@ -237,7 +238,7 @@ Basismaßnahmen
     -   Vitale Bedrohung beurteilen. |TxBeiVit| |TxMassVitMK|
     -   O₂-Gabe gemäß :ref:`m-sauerstoffberieselung`
     -   Ursachenforschung
-    -   Zuständige Facheinheit: 
+    -   Zuständige Facheinheit:
         Grundsätzlich Kardiologische Überwachungsstation oder Intensivstation,
         je nach zu Grunde liegender Ursache evtl. andere Einheit (Herzkathetherlabor, ...)
 
@@ -247,7 +248,7 @@ Pharmakotherapie
 
         -   Furosemid (Lasix™, Furon™): 40—80 mg i. v.,
             weiter je nach ansprechen
-            
+
     -   Klinisch: Erwäge Kalziumsensitzer (Levosimedan (Simdax™), Expertenrat)
 
 Beatmungstherapie

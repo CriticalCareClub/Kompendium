@@ -47,7 +47,7 @@ Der Begriff bezeichnet eine typische Reaktion des Körpers, bestehend aus
    #. *Schmerz* und
 
    #. *Funktionsverlust*.
-      
+
 Mögliche Auslöser sind
 Fremdkörper, Krankheitserreger, mechanische Beanspruchung, chemische
 Substanzen oder andere pyhsikalische Noxen. Typisch für die Bezeichnung
@@ -69,35 +69,36 @@ i.d.R. an die betreffende Organbezeichnung angehängt wird:
 -  …
 
 
-.. sidebar:: Entzündung
-   
-  -  Reaktion des Körpers
+..
+    .. sidebar:: Entzündung
 
-     #. *Rötung*,
+    -  Reaktion des Körpers
 
-     #. *Schwellung*,
+        #. *Rötung*,
 
-     #. *Überwärmung*,
+        #. *Schwellung*,
 
-     #. *Schmerz* und
+        #. *Überwärmung*,
 
-     #. *Funktionsverlust*.
+        #. *Schmerz* und
 
-  -  Auslöser
+        #. *Funktionsverlust*.
 
-     -  Fremdkörper
+    -  Auslöser
 
-     -  Krankheitserreger
+        -  Fremdkörper
 
-     -  Mechanische Beanspruchung
+        -  Krankheitserreger
 
-     -  Chemische Substanzen
+        -  Mechanische Beanspruchung
 
-     -  Physikalische Noxen
+        -  Chemische Substanzen
 
-     -  …
+        -  Physikalische Noxen
 
-  -  “-itis”
+        -  …
+
+    -  “-itis”
 
 
 .. _Thema-ischaemie:
@@ -109,17 +110,17 @@ Ischämie
 .. index::
     single: Ischämie
 
-.. admonition:: Definition 
+.. admonition:: Definition
 
     :dfn:`Ischämie` bezeichnet die akute
-    Unterversorgung eines Gewebes mit sauerstoffreichem Blut 
-    durch Mangeldurchblutung. 
+    Unterversorgung eines Gewebes mit sauerstoffreichem Blut
+    durch Mangeldurchblutung.
 
 Eine Ischämie kann
-grundsätzlich überall im Körper vorkommen. 
-Es kommt zu Funktionsausfällen des Gewebes 
-bishin zum Gewebstod. 
-Schmerzen sind ein typisches Symptom. 
+grundsätzlich überall im Körper vorkommen.
+Es kommt zu Funktionsausfällen des Gewebes
+bishin zum Gewebstod.
+Schmerzen sind ein typisches Symptom.
 Häufig betroffene Gewebe sind:
 
 -   Herzmuskel (Herzinfarkt, :ref:`Thema-herzinfarkt`)
@@ -128,8 +129,8 @@ Häufig betroffene Gewebe sind:
 
 -   Darm (Mesenterialinfarkt)
 
--   Extremitäten 
-    (Periphere arterielle Verschlusskrankheit, 
+-   Extremitäten
+    (Periphere arterielle Verschlusskrankheit,
     arterieller peripherer Gefäßverschluss, :ref:`Thema-ArteriellerGefaessverschluss`)
 
 .. index::
@@ -142,9 +143,9 @@ Häufig betroffene Gewebe sind:
     single: Neoplasma
     single: Blastom
     single: Leukämie
-    
+
 .. _Thema-tumor:
-   
+
 ***************************
 Tumore, Neubildungen, Krebs
 ***************************
@@ -157,8 +158,8 @@ wuchern beginnen. Der Körper verfügt über verschiedene Mechanismen um
 die Zellteilung im richtigen Maß zu halten.
 
 Wenn diese Mechanismen versagen, kommt es zu einer *Entartung* und
-*Wucherung*, meist in Form einer *Raumforderung* und Schwellung 
-(Tumor). 
+*Wucherung*, meist in Form einer *Raumforderung* und Schwellung
+(Tumor).
 Der Begriff :dfn:`Tumor` bedeutet ganz allgemein “Schwellung”.
 Umgangssprachlich wird er oft (fälschlicherweise) mit “Krebs”
 gleichgesetzt.
@@ -172,18 +173,18 @@ werden.
 
 
 
-Man unterscheidet zwischen *gutartigen* (**benignen**) 
-und *bösartigen* (**malignen**) Neubildungen. 
+Man unterscheidet zwischen *gutartigen* (**benignen**)
+und *bösartigen* (**malignen**) Neubildungen.
 Gutartige Neubildungen “bleiben wo sie sind”
-und Überschreiten keine Grenzen von Gewebsstrukturen. 
+und Überschreiten keine Grenzen von Gewebsstrukturen.
 Bösartige Neubildungen bilden *Absiedelungen*,
-sog. **Metastasen**, 
+sog. **Metastasen**,
 welche z. B. über die Blutbahn an andere Stellen des
-Körper gelangen und dort zu wuchern beginnen, 
+Körper gelangen und dort zu wuchern beginnen,
 bzw. wachsen **invasiv**, d. h. es werden die Grenzen zu anderen
-Gewebsstrukturen überschritten. 
-Je nach Zellart unterscheidet man bei malignen Tumoren zwischen 
-*Karzinomen*, *Sarkomen* und *Blastomen*, 
+Gewebsstrukturen überschritten.
+Je nach Zellart unterscheidet man bei malignen Tumoren zwischen
+*Karzinomen*, *Sarkomen* und *Blastomen*,
 bei malignen Erkrankungen der Blutzellen spricht man
 von *Leukämien* :index:`\ <Leukämie>` bzw. *Lymphomen* :index:`\ <Lymphom>`.
 

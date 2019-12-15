@@ -9,23 +9,24 @@ Vitalwerte
     |Text-InkubatorInhalt|
 
 
-.. sidebar:: Vitalwerte
+..
+    .. sidebar:: Vitalwerte
 
-    -   Herzfrequenz
-    -   Blutdruck
-    -   Atemfrequenz
+        -   Herzfrequenz
+        -   Blutdruck
+        -   Atemfrequenz
 
-    Erweiterte Vitalwerte:
+        Erweiterte Vitalwerte:
 
-    -   Sauerstoffsättigung
-    -   Körpertemperatur
-    -   Blutzuckerkonzentration
+        -   Sauerstoffsättigung
+        -   Körpertemperatur
+        -   Blutzuckerkonzentration
 
 
 
 Das Erheben von Vitalwerten ist eine Routinetätigkeit und sollte bei
 jedem Notfallpatienten erfolgen. Es gibt nur wenig Situationen bei denen
-man darauf verzichten kann (zum Beispiel tobende Patienten). 
+man darauf verzichten kann (zum Beispiel tobende Patienten).
 Zu den Vitalwerten im engeren Sinn zählt man:
 
 -  die *Herzfrequenz* … :ref:`Thema-pulsmessung`, :ref:`Thema-pulsoxymetrie`
@@ -46,7 +47,7 @@ Dazu gehören:
 
 .. toctree::
     :maxdepth: 1
-	
+
     Pulsfrequenz/index.rst
     NichtinvasiveBlutdruckmessung/index.rst
     Pulsoxymetrie/index.rst

@@ -4,16 +4,16 @@ Esmarch-Handgriff
 ########################################################################
 
 
+..
+   .. sidebar:: Esmarch-Handgriff
 
-.. sidebar:: Esmarch-Handgriff
+   -  Finger 2--5 am Kieferwinkel
 
-  -  Finger 2--5 am Kieferwinkel
+      → aufwärts, vorne
 
-     → aufwärts, vorne
+   -  Daumen seitlich am Kinn
 
-  -  Daumen seitlich am Kinn
-
-     → sanfter Druck nach unten
+      → sanfter Druck nach unten
 
 Der  *Esmarch-Handgriff* verstärkt den Effekt des Überstreckens des
 Kopfes.

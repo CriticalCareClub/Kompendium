@@ -334,87 +334,110 @@ Untersuchungen oft nicht leicht zu ermitteln.
 ABCDE
 =====
 
-``B``
-    |symbol-RedFlag| Dyspnoe kann in Folge der kardialen
-    Mehrbelastung auftreten
+..
+    .. sidebar:: Einschätzungsblock
 
-``C``
-    Es liegt eine *Tachykardie* vor.
-    Der Puls ist i.d.R. hoch,
-    meist |symbol-RedFlag|  über 160 / min und evtl. nur schwach tastbar.
-    Der Patient kann bei mangelnder Herzauswurfleistung
-    |symbol-RedFlag| kreislaufinsuffizient werden und einen
-    |symbol-RedFlag| kardiogenen Schock entwickeln.
-    Im Extremfall ist auch ein |symbol-RedFlag| Kreislaufstillstand möglich.
+        .. rubric:: |Text-Abcde-B-Short|
 
-``B``
-    Evtl. |symbol-RedFlag|  Dyspnoe
+        Evtl. |symbol-RedFlag|  Dyspnoe
 
-``C``
-    Tachykardie |symbol-RedFlag|  ≥ 160 / min, Puls evtl.
-    schwach tastbar;
+        .. rubric:: |Text-Abcde-C-Short|
 
-    Evtl. |symbol-RedFlag|  Kreislaufinsuffizienz,
-    |symbol-RedFlag| **kardiogener Schock**,
-    |symbol-RedFlag| Kreislaufstillstand
+        Tachykardie |symbol-RedFlag|  ≥ 160 / min, Puls evtl.
+        schwach tastbar;
+
+        Evtl. |symbol-RedFlag|  Kreislaufinsuffizienz,
+        |symbol-RedFlag| **kardiogener Schock**,
+        |symbol-RedFlag| Kreislaufstillstand
+
+
+
+.. rubric:: |Text-Abcde-B|
+
+|symbol-RedFlag| Dyspnoe kann in Folge der kardialen
+Mehrbelastung auftreten
+
+.. rubric:: |Text-Abcde-C|
+
+Es liegt eine *Tachykardie* vor.
+Der Puls ist i.d.R. hoch,
+meist |symbol-RedFlag|  über 160 / min und evtl. nur schwach tastbar.
+Der Patient kann bei mangelnder Herzauswurfleistung
+|symbol-RedFlag| kreislaufinsuffizient werden und einen
+|symbol-RedFlag| kardiogenen Schock entwickeln.
+Im Extremfall ist auch ein |symbol-RedFlag| Kreislaufstillstand möglich.
 
 SAMPLER
 =======
 
-``S``
-    Das Leitsymptom ist die *Tachykardie* vor. Der Patient klagt oft
-    über ein *"Herzklopfen"* und ist unruhig. Manchmal wird der Anfall
-    von Angstgefühlen begleitet.
+..
+    .. sidebar:: SAMPLER
 
-    Oft kommen *Begleitsymptome* dazu, wie zum Beispiel Atemnot oder ein
-    leichter Brustschmerz. Dies sind erste Zeichen, dass das Herz an die
-    Grenze seiner Belastbarkeit stößt.
+        .. rubric:: |Text-Sampler-S-Short|
 
-``M``
-    Viele Patienten, bei denen Rhythmusstörungen bekannt sind nehmen
-    entsprechende Medikamente (Antiarrhythmika). Bei manchen
-    Rhythmusstörungen ist es üblich, dem Patienten bestimmte Medikamente
-    zu verschreiben, welche er im Anfall nehmen soll um diesen zu
-    beenden ("pill in the pocket"). Das Erheben der tatsächlich
-    eingenommenen sowie der verschriebenen Medikamente ist sehr wichtig,
-    da diese Informationen des weiteren Behandlungsverlauf stark
-    beeinflusst!
+        -   Tachykardie ≥ 160 / min
+        -   Spürbares Herzklopfen
+        -   Evtl. Atemnot, leichter Brustschmerz, Angstgefühl
 
-``P``
-    Eine große Rolle spielt die *Anamnese*: Da oft chronische
-    Erkrankungen die Ursache sind, haben die Patienten diese Attacken
-    immer wieder und kennen die Symptome bereits (und oft auch deren
-    Behandlung). Oft sind die entsprechenden Grunderkrankungen schon
-    seit langem bekannt und es gibt bereits entsprechende *Arztbriefe*
-    oder *Befunde*.
+        .. rubric:: |Text-Sampler-M-Short|
 
-``L``
-    Bei regelmäßig wiederkehrenden Beschwerden sind Informationen über
-    die vorherigen Episoden einzuholen.
+        Antiarrhythmika. Eingenommene und verschriebene Medikamente
+        unbedingt sorgfältig erheben!
 
-``E``
-    Die Ereignisse sind genau zu erfragen und zu dokumentieren,
-    eventuell ergibt sich dadurch eine Spur zum auslösenden Faktor.
+        .. rubric:: |Text-Sampler-P-Short|
 
-``S``
-    -  Tachykardie ≥ 160 / min
+        Oft vorbekannte Erkrankung(en); Arztbriefe und Befunde!
 
-    -  Spürbares Herzklopfen
+        .. rubric:: |Text-Sampler-L-Short|
 
-    -  Evtl. Atemnot, leichter Brustschmerz, Angstgefühl
+        Frühere Episoden?
 
-``M``
-    Antiarrhythmika. Eingenommene und verschriebene Medikamente
-    unbedingt sorgfältig erheben!
+        .. rubric:: |Text-Sampler-E-Short|
 
-``P``
-    Oft vorbekannte Erkrankung(en); Arztbriefe und Befunde!
+        Genau erfragen und dokumentieren!
 
-``L``
-    Frühere Episoden?
 
-``E``
-    Genau erfragen und dokumentieren!
+
+
+.. rubric:: |Text-Sampler-S|
+
+Das Leitsymptom ist die *Tachykardie* vor. Der Patient klagt oft
+über ein *"Herzklopfen"* und ist unruhig. Manchmal wird der Anfall
+von Angstgefühlen begleitet.
+
+Oft kommen *Begleitsymptome* dazu, wie zum Beispiel Atemnot oder ein
+leichter Brustschmerz. Dies sind erste Zeichen, dass das Herz an die
+Grenze seiner Belastbarkeit stößt.
+
+.. rubric:: |Text-Sampler-M|
+
+Viele Patienten, bei denen Rhythmusstörungen bekannt sind nehmen
+entsprechende Medikamente (Antiarrhythmika). Bei manchen
+Rhythmusstörungen ist es üblich, dem Patienten bestimmte Medikamente
+zu verschreiben, welche er im Anfall nehmen soll um diesen zu
+beenden ("pill in the pocket"). Das Erheben der tatsächlich
+eingenommenen sowie der verschriebenen Medikamente ist sehr wichtig,
+da diese Informationen des weiteren Behandlungsverlauf stark
+beeinflusst!
+
+.. rubric:: |Text-Sampler-P|
+
+Eine große Rolle spielt die *Anamnese*: Da oft chronische
+Erkrankungen die Ursache sind, haben die Patienten diese Attacken
+immer wieder und kennen die Symptome bereits (und oft auch deren
+Behandlung). Oft sind die entsprechenden Grunderkrankungen schon
+seit langem bekannt und es gibt bereits entsprechende *Arztbriefe*
+oder *Befunde*.
+
+.. rubric:: |Text-Sampler-L|
+
+Bei regelmäßig wiederkehrenden Beschwerden sind Informationen über
+die vorherigen Episoden einzuholen.
+
+.. rubric:: |Text-Sampler-E|
+
+Die Ereignisse sind genau zu erfragen und zu dokumentieren,
+eventuell ergibt sich dadurch eine Spur zum auslösenden Faktor.
 
 
    -  Angina pectoris

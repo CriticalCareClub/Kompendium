@@ -109,79 +109,64 @@ ABCDE
 
 
 
-.. sidebar:: ABCDE
+.. rubric:: |Text-Abcde-3|
 
-    ``3``
-        Leidend, evtl. kaltschweißig, blass
+Der Patient macht oft einen leidenden Eindruck, eventuell ist er
+ kaltschweißig und blass.
 
-    ``4``
-         *Akuter, nicht atemabhängiger, Brustschmerz*
-        (brennend, stechend; Hinter dem Brustbein, evtl. *Ausstrahlung* in
-        Kiefer, (linken) Arm, in Rücken) und  *Atemnot*,
-        oft *Enge-* bzw. *Druckgefühl*, Todesangst
 
-        Typisch untypisch: *Oberbauchschmerz*; "stummer Infarkt"
+.. rubric:: |Text-Abcde-4|
 
-    ``B``
-         *Atemnot*, evtl.  Zyanose
+Die Leitsymptome sind ein  *akuter, nicht
+atemabhängiger, Brustschmerz* und  *Atemnot*
+(*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert
+und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in
+den Rücken. Der Schmerz wird als brennend bzw. stechend beschrieben.
+Zusätzlich zu dem Schmerz verspürt der Patient auch oft ein *Enge-*
+bzw. *Druckgefühl* im Brustkorb, *"als würde jemand darauf stehen"*.
+Unter Umständen kann es auch zu einem *Oberbauchschmerz* kommen,
+welcher als Verdauungsstörung oder Magen-Darm-Erkrankung
+fehlgedeutet werden kann.
 
-    ``C``
-        Puls evtl. unregelmäßig, Blutdruck in jede Richtung verändert, evtl.
-        Zeichen eines  kardiogenen Schocks
+Bei Diabetikern kann es aufgrund der Nervenschädigungen auch zu
+einem schmerzlosen Verlauf kommen, man spricht dabei auch vom
+*"stummen Infarkt"*.
+*Todesangst und Vernichtungsgefühl* sind häufig. Bei Auftreten eines *kardiogenen
+Schocks* können die entsprechenden Schockzeichen beobachtet werden:
+Blässe, Kaltschweißigkeit, Hypotonie, etc.
+(:ref:`Thema-SchockKardiogener`).
 
-    ``E``
-        EKG (im Verlauf)!
 
-    ``=``
-        Vital bedroht
+.. rubric:: |Text-Abcde-B|
 
-``3`` — Ersteindruck
-    Der Patient macht oft einen leidenden Eindruck, eventuell ist er
-     kaltschweißig und blass.
+ *Atemnot* kommt häufig vor und ist ein
+Leitsymptom. Begleitend kann man oft eine Zyanose beobachten.
 
-``4`` — Hauptbeschwerde
-    Die Leitsymptome sind ein  *akuter, nicht
-    atemabhängiger, Brustschmerz* und  *Atemnot*
-    (*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert
-    und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in
-    den Rücken. Der Schmerz wird als brennend bzw. stechend beschrieben.
-    Zusätzlich zu dem Schmerz verspürt der Patient auch oft ein *Enge-*
-    bzw. *Druckgefühl* im Brustkorb, *"als würde jemand darauf stehen"*.
-    Unter Umständen kann es auch zu einem *Oberbauchschmerz* kommen,
-    welcher als Verdauungsstörung oder Magen-Darm-Erkrankung
-    fehlgedeutet werden kann.
 
-    Bei Diabetikern kann es aufgrund der Nervenschädigungen auch zu
-    einem schmerzlosen Verlauf kommen, man spricht dabei auch vom
-    *"stummen Infarkt"*.
-    *Todesangst und Vernichtungsgefühl* sind häufig. Bei Auftreten eines *kardiogenen
-    Schocks* können die entsprechenden Schockzeichen beobachtet werden:
-    Blässe, Kaltschweißigkeit, Hypotonie, etc.
-    (:ref:`Thema-SchockKardiogener`).
+.. rubric:: |Text-Abcde-C|
 
-``B`` — Breathing
-     *Atemnot* kommt häufig vor und ist ein
-    Leitsymptom. Begleitend kann man oft eine Zyanose beobachten.
+Der Puls kann unregelmäßig sein.
+Der Blutdruck kann in jede Richtung verändert sein.
+Bedenke: Ein hypertensiver Notfall kann Auslöser eines ACS sein.
+Es können Zeichen eines  *kardiogenen Schocks* vorliegen.
 
-``C`` — Circulation
-    Der Puls kann unregelmäßig sein.
-    Der Blutdruck kann in jede Richtung verändert sein.
-    Bedenke: Ein hypertensiver Notfall kann Auslöser eines ACS sein.
-    Es können Zeichen eines  *kardiogenen Schocks* vorliegen.
 
-``E`` — Extras
-    Das EKG kann wichtige Hinweise über Ausdehnung, Alter und
-    Lokalisation des Infarkts bringen. Um die Dynamik beurteilen zu
-    können, soll schon möglichst früh ein 12-Kanal-EKG geschrieben
-    werden um Veränderungen im Verlauf zu dokumentieren. Die Beurteilung
-    ist jedoch nur entsprechend ausgebildeten und geübten Personal
-    vorbehalten.
+.. rubric:: |Text-Abcde-E|
 
-``=`` — Ergebnis
-    Ein Patient mit einem  akuten Koronarsyndrom ist
-    grundsätzlich als vital bedroht einzuschätzen. Eine ärztliche
-    Diagnose ist auch hinsichtlich der Auswahl des richtigen
-    Transportziel (Herzkatheterlabor?) entscheidend.
+Das EKG kann wichtige Hinweise über Ausdehnung, Alter und
+Lokalisation des Infarkts bringen. Um die Dynamik beurteilen zu
+können, soll schon möglichst früh ein 12-Kanal-EKG geschrieben
+werden um Veränderungen im Verlauf zu dokumentieren. Die Beurteilung
+ist jedoch nur entsprechend ausgebildeten und geübten Personal
+vorbehalten.
+
+.. rubric:: |Text-Abcde-Fazit|
+
+Ein Patient mit einem  akuten Koronarsyndrom ist
+grundsätzlich als vital bedroht einzuschätzen. Eine ärztliche
+Diagnose ist auch hinsichtlich der Auswahl des richtigen
+Transportziel (Herzkatheterlabor?) entscheidend.
+
 
 
 SAMPLER beim akuten Koronarsyndrom

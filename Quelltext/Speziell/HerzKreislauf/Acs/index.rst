@@ -4,6 +4,8 @@
 .. _Thema-AkutesKoronarsyndrom:
 .. _Thema-akutes-koronarsyndrom:
 
+.. _AnginaPectoris:
+
 .. _Thema-Acs:
 
 ###########################

@@ -16,4 +16,9 @@ Appendix
 
 
 
+.. rubric:: Test für Sonderzeichen
 
+
+Ⓒ Credits
+
+Ⓛ License

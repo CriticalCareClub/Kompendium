@@ -95,21 +95,28 @@ Eine Ryhthmusstörung kann zu einem regelmäßigen oder einem unregelmäßigen (
 
 .. rubric:: … Eletrik vs. Mechanik
 
-Eine Ryhtmusstörung kann die elektrische, die mechnaische und beide Herzfunktionen im Prinzip unabhängig voneinander betreffen.
+Eine Rhythmusstörung kann die elektrische, die mechnaische und beide Herzfunktionen im Prinzip unabhängig voneinander betreffen.
 So kann beispielsweise eine atriale tachykarde Rhythmusstörungen nur die mechanische Funktion des Vorhofs betreffen,
 jedoch aufgrund der frequenzfilternden Funktion des AV-Knotens
 unter Umständen die Kammerfrequenz nicht beeinträchtigen.
 
-.. rubric:: … hämodynmaischer Wirksamkeit
+.. rubric:: … hämodynamischer Wirksamkeit
 
-Rhythmusstörungen können hämodynmaisch wirksam sein,
+Rhythmusstörungen können hämodynamisch wirksam sein,
 d. h. den Herzauswurf merkbar reduzieren
-und im Extremfall zu einem insuffizienten HErazauswurf führen,
+und im Extremfall zu einem insuffizienten Herzauswurf führen,
 oder den Auswurf kaum merklich beeinträchtigen
 bzw. vom Individuum ausreichend kompensiert werden.
 Der Übergang von hämodynamisch nicht wirksam zu hämodynamisch wirksam kann fließend sein.
 Manche Rhythmusstörungen sind obligat hämodynamisch wirksam,
 wie z. B. das Kammerflimmern oder die Asystolie.
+
+Folgende Symptome sprechen für eine der hämodynamische Wirksamkeit:
+
+-   Synkope, Bewusstseinsstörungen
+-   Hypotension
+-   Stenokardien, :ref:`pektanginöse <AnginaPectoris>` Beschwerden
+-   Kreislaufstillstand
 
 .. rubric:: Fazit
 
@@ -127,7 +134,14 @@ Für die genaue Zuordnung ist ein EKG essentiell.
 Diagnostik
 ***********************************************************************
 
+Essentiell für die Diagnostik von Herzrhythmusstörungen ist die **Elektrokardiographie** (EKG).
+Damit kann en Großteil der Störungen diagnostiziert werden.
+Es ist sinnvoll die EKG um ein Verfahren zur ergänzen,
+welches einen Rücksschluss auf den Herzauswurf ermöglicht
+um so eine elektromechanische Dissoziation zu erkennen.
+Dies kann zum Beispiel die Pulsoxymetrie (-graphie), eine invasive Blutdruckmessung oder auch simples Pulstasten sein.
 
+Für spezielle Fragestellungen kann eine elektrophysiologische Untersuchung mittels Kathetertechnik notwendig sein.
 
 
 

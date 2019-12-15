@@ -10,6 +10,7 @@ Appendix
     Glossar.rst
     Massnahmenkatalog.rst
     Autorendokumentation/index
+    /Zzzzzz-Literatur.rst
 
 
 

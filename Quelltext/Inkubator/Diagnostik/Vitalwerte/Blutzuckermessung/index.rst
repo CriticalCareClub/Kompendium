@@ -13,7 +13,7 @@ Blutzuckermessung
 
 .. toctree::
 	:maxdepth: 1
-	
+
 
 Interpretation und Normalwert
 -----------------------------
@@ -23,7 +23,7 @@ entspricht mg%) , manchmal auch in *Millimol pro Liter* (mmol / L), gemessen
 Wert ist abhängig von der letzten Mahlzeit des Patienten. Nach der
 Nahrungsaufnahme steigt der Blutzuckerspiegel stark an und fällt dann
 wieder auf einen “nüchternen Normalwert” ab. Der normale
-*Nüchtern-Blutzuckerspiegel* bewegt sich zwischen *80—100 mg / dL* (4,4—5,6 mmol / L). 
+*Nüchtern-Blutzuckerspiegel* bewegt sich zwischen *80—100 mg / dL* (4,4—5,6 mmol / L).
 Im Akutfall kann der Normalbereich
 jedoch großzügiger angesetzt werden, da bei Werten zwischen 60 und
 200 mg / dL keine Notfallsymptome auftreten. (Herold 2012)
@@ -108,25 +108,25 @@ Durchführung
 
     Material zur Blutzuckermessung
 
-    [Ch. Pallinger, MfG]
+    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
-	    
+
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.jpg
     :width: 99%
 
-	    
+
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/bz-wert_1214-00800.jpg
     :width: 99%
 
     Ergebnis: “90mg/dL
 
-	    
+
 
 .. subfigend::
     :width: 0.3
     :label: Figure-BilderserieBlutzuckermessung
 
     Bilderserie: Blutzuckermessung
-    
+

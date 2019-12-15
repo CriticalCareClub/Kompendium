@@ -180,7 +180,7 @@ Es entsteht eine *Lungenembolie*.
     Sorgsam geschlichtet verbringen Menschen hier Stunden damit,
     Thrombosen zu basteln.
 
-    [Gabriel]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/lovenox1.*
     :width: 99%
@@ -191,7 +191,7 @@ Es entsteht eine *Lungenembolie*.
     entstehen können. Die Substanz wird unter die Haut ("subkutan")
     gespritzt.
 
-    [Gabriel]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.*
     :width: 99%
@@ -199,7 +199,7 @@ Es entsteht eine *Lungenembolie*.
     Eine Venenthrombose
     kann eine Embolie auslösen.
 
-    [Hirtler]
+    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
     :width: 0.3

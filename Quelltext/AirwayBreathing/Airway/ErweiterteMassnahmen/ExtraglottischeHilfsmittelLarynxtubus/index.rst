@@ -7,7 +7,7 @@ Larynxtubus
 
 
 Der :dfn:`Larynxtubus` :index:`\ <! Larynxtubus>` (*LT-D*) gehört
-zu der Gruppe der *supraglottischen* 
+zu der Gruppe der *supraglottischen*
 :index:`\ <Atemwegshilfen!supraglottische>`
 Atemwegshilfen, d. h. er
 sichert den Atemweg *oberhalb* der *Stimmritze* (Glottis) und
@@ -24,7 +24,7 @@ eine  **Magensonde** :index:`\ <Magensonde>` zur Ableitung des
 Mageninhaltes gelegt werden kann (Magendrainagekanal).
 Trotz korrekter Anwendung kann es aufgrund von
 Leckagen zur Magenüberblähung kommen, daher sollen unbedingt, wenn
-verfügbar, nur Modelle mit einem Magendrainagekanal eingesetzt werden. 
+verfügbar, nur Modelle mit einem Magendrainagekanal eingesetzt werden.
 :cite:`Dengler2011,Mann2013`
 
 
@@ -49,7 +49,7 @@ folgende Vorteile gegeben:
 -  Bei Verwendung einer Magensonde kann der Magen zusätzlich entlastet
    und der Mageninhalt, zumindest teilweise, kontrolliert abgeleitet
    werden.
-   
+
 -  Die Anwendung erfordert keine höhere manuelle Geschicklichkeit als
    die Anwendung der Beatmungsmaske und -beutel.
 
@@ -76,20 +76,24 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32890_textwidth.*
             :width: 99.99%
-            
+
             Larynxtubus mit Blockerspritze
-   
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32885_textwidth.*
             :width: 99.99%
-                    
+
             Ein Larynxtubus der ersten Generation mit geblocktem
-            Cuff. [Christoph Pallinger, MfG]
+            Cuff.
+
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtuben_Set_33025_textwidth.*
-            :width: 99.99%
-                    
-	    Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung. [Christoph Pallinger, MfG]
-   
+      :width: 99.99%
+
+      Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung.
+
+      Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+
 .. subfigend::
     :width: 0.3
     :label: Figure-BildersrieLarynxtuben
@@ -146,7 +150,7 @@ Durchführung
 ^^^^^^^^^^^^
 
 Der Larynxtubus wird ohne Hilfsmittel über den Mund des Patienten
-eingeführt, 
+eingeführt,
 wobei der Kopf in :dfn:`Schnüffelstellung` :index:`\ <! Schnüffelstellung>`
 (*Jackson-Position*, Kopf leicht erhöht (umgedrehte Nierentasse), nicht
 überstreckt, nicht gebeugt) gelagert wird. Zusätzliche Hilfsmittel sind
@@ -158,7 +162,7 @@ Versuch darf maximal 30 Sekunden dauern, dazwischen muss der Patient mit
 Beutel-Masken-Beatmung oxygeniert werden.
 
 Der im folgenden dargestellte Ablauf beschreibt allgemein die
-Durchführung der Intubation mit dem Larynxtubus. 
+Durchführung der Intubation mit dem Larynxtubus.
 
 #. *Lagerung*: Rückenlage, Kopf in *Schnüffelstellung* (Jackson
    Position, Kopf leicht erhöht (umgedrehte Nierentasse), nicht
@@ -258,7 +262,7 @@ Schädigung der Rachenschlimhaut, evtl. mit Blutung, und eine Überblähung
 des Magens und eine Ruptur der Speiseröhre. Der Larynxtubus bietet zwar
 einen guten Aspirationsschutz, dieser ist jedoch nicht komplett
 zuverlässig.
-    
+
 
 .. _Combitubus:
 
@@ -269,10 +273,10 @@ Combitubus
 ------------
 
 Der :dfn:`Combitubus` wird ähnlich wie der Larynxtubus ohne
-Hilfsmittel "blind" über den Mund  
-eingeführt und kommt im Normalfall im Ösophagus zu liegen. 
+Hilfsmittel "blind" über den Mund
+eingeführt und kommt im Normalfall im Ösophagus zu liegen.
 Im Gegensatz zum Larynxtubus verfügt der Combitubus jedoch über 2
-Lumina mit entsporechend getrennten Konnektionsstellen,  
-sodass selbst im seltenen Fall, 
-dass die Tubusspitze in der Trachea zu liegen kommt, 
-der Patient beatmet werden kann. 
+Lumina mit entsporechend getrennten Konnektionsstellen,
+sodass selbst im seltenen Fall,
+dass die Tubusspitze in der Trachea zu liegen kommt,
+der Patient beatmet werden kann.

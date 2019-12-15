@@ -48,7 +48,7 @@ Material
       bei Kaltlichtlaryngoskopen im Handgriff,
       das Licht wird über eine Fiberoptik in den Spatel geleitet.
       Daher muss darauf geachtet werden, dass die Spatel mit dem Griff
-      zusammenpassen! 
+      zusammenpassen!
       Bei Kaltlichtsystemen gibt es ausserdem unterschiedliche
       Steckverbindungen!
 
@@ -71,7 +71,7 @@ Material
     Blockerspritze (10 ml), verschiedene Spatel, Laryngoskop,
     Guedel-Tuben, Beißkeil, Beatmungsbeutel mit Bakterienfilter, Maske
     und O₂-Line, Fixationsmaterial, Stethoskop
-    [Ch. Pallinger, MfG]
+    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 Vorbereitung
 ============
@@ -220,12 +220,12 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
 .. [316]
     Beim nicht-nüchternen nicht-spontan-atmenden Patienten soll eine
-    Beutelbeatmung nur wenn unbedingt notwendig durchgeführt werden 
-    (Rapid Sequence Induction, Schnelleinleitung). 
+    Beutelbeatmung nur wenn unbedingt notwendig durchgeführt werden
+    (Rapid Sequence Induction, Schnelleinleitung).
     Bei der Reanimation entfällt die Präoxygenierung.
 
 .. [317]
-    Es ist egal, ob der Durchführende Rechts- oder Linkshänder ist, 
+    Es ist egal, ob der Durchführende Rechts- oder Linkshänder ist,
     das Laryngoskop wird *immer in der linken Hand* gehalten.
 
 
@@ -315,13 +315,13 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
      Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in
      der Luftröhre zu bestätigen.
-   
+
 .. subfigend::
     :width: 0.3
     :label: Figure-BilderserieIntubation
 
     Bilderserie: Intubation
-    
+
 
 .. rubric:: Literatur
 

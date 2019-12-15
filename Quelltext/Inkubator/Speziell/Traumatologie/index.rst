@@ -304,7 +304,7 @@ angegeben:
 
 
 
-.. todo:: Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  *Hauer* 
+.. todo:: Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  *Hauer*
 
 Sturz aus großer Höhe
 =====================
@@ -393,19 +393,19 @@ Folgeverletzungen zu verhindern.
 
 .. figure:: /Bilder/HauerDavid-Ccc/fremdkoerper-stich-fixierung.*
     :width: 99%
-    
-    Fixierung eines penetrierenden Fremdkörpers. 
-    
+
+    Fixierung eines penetrierenden Fremdkörpers.
+
     [Hauer]
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/fremdkoerper-stich-messer-01.*
     :width: 99%
-    
+
     Stich mit einem Küchenmesser. Das Messer verbleibt im Körper … 
 .. figure:: /Bilder/GabrielSebastian-Ccc/fremdkoerper-stich-messer-02.*
     :width: 99%
-    
-    … bis in den Operationssaal.	    
+
+    … bis in den Operationssaal.
 
 .. subfigend::
     :width: 0.3
@@ -435,9 +435,9 @@ Maßnahmen: Unfälle
 -   Ggf. weitere Einsatzkräfte nachfordern!
 -   Beurteilung des Unfallmechanismus:
 
-    -   Aus welcher Richtung hat die Kraft 
+    -   Aus welcher Richtung hat die Kraft
         auf den Patienten eingewirkt?
-    -   Wie schnell war das Fahrzeug unterwegs? 
+    -   Wie schnell war das Fahrzeug unterwegs?
         bzw. Aus welcher Höhe ist der Patient gefallen?
     -   War der Patient angegurtet? Haben Airbags
         ausgelöst?
@@ -464,8 +464,8 @@ Allgemeines
 Beschreibung und Arten
 ----------------------
 
-Ein **:dfn:`Knochenbruch` :index:`\ <! Knochenbruch>` 
-(*Syn.* :dfn:`Fraktur` , *lat.* (*Fract.*)) 
+Ein **:dfn:`Knochenbruch` :index:`\ <! Knochenbruch>`
+(*Syn.* :dfn:`Fraktur` , *lat.* (*Fract.*))
 ist eine Kontinuitätsunterbrechung
 eines Knochens mit Bildung von Fragmenten (Bruchstücken) (Pschyrembel
 2002).** Grundsätzlich wird zwischen zwei Arten von Knochenbrüchen
@@ -517,7 +517,7 @@ werden.
 
     -  Gestörte Funktion / Bewegungsunfähigkeit
 
-    | 
+    |
 
 Gefahren
 --------
@@ -596,8 +596,8 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
 .. figure:: /Bilder/WikipediaCcBy/fraktur-offen-finger.*
     :width: 99%
 
-    Nicht immer sind offene Frakturen spektakulär: 
-    Offene Fraktur des Mittelfingers 
+    Nicht immer sind offene Frakturen spektakulär:
+    Offene Fraktur des Mittelfingers
 
     [Ben Stephenson, Cleveland, OH, USA. Lizenz: CC-BY 2.0]
 
@@ -618,9 +618,9 @@ Bedrohung v. a. durch Blutverlust.}
 Erkennen
 von großen Blutverlusten, Blutstillung,  Steriles
 Abdecken, Einschätzen der vitalen Bedrohung, ggfs
-Schmerztherapie. 
+Schmerztherapie.
 Bei *vitaler Bedrohung*: Zeitkritisch,
-zügiger Transport. 
+zügiger Transport.
 Bei *stabilen Patienten*: Schienung}
 
 
@@ -630,11 +630,11 @@ Basismaßnahmen
         (Beckenfraktur)
     -   Vitale Bedrohung einschätzen, ggfs. |TxMassVitMK|.
         Ggfs. mit hypovolämischen Schock rechnen, Schockbekämpfung
-    -   **Wundversorgung**: 
+    -   **Wundversorgung**:
         Bei offenen Frakturen ist
         Keimfreiheit be\-sonders wichtig, da  die Gefahr einer lebenslangen
         Knochenmarksentzündung (Osteomyelitis) besteht!
-        Wenn möglich soll eine *Wundfolie* 
+        Wenn möglich soll eine *Wundfolie*
         (z. B. OpSite™) verwendet werden.
     -   Kleidung und Schmuck von den betroffenen Gliedmaßen
         entfernen (Schwellung!)
@@ -796,7 +796,7 @@ Maßnahmen Verrenkung
 .. todo:: Maßnahme TT14032C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
-    -   Kleidung und Schmuck von der betroffenen Gliedmaße entfernen 
+    -   Kleidung und Schmuck von der betroffenen Gliedmaße entfernen
         (Vorsicht Schwellung!)
     -   Stellung der Gliedmaße belassen
     -   Federnd fixierte Lagerung
@@ -1005,7 +1005,7 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
     PupillendifferenzSie ist ein Alarmzeichen: Eine
     Pupillendifferenz kann ein wichtiger Hinweis auf einen erhöhten
     Hirndruck sein!
-    
+
     Sebastian GabrielMfG
 
 -  *Jedes SHT ist im Spital abzuklären!* Es besteht die Gefahr dass sich
@@ -1026,26 +1026,26 @@ Maßnahmen SHT
 .. todo:: Maßnahme TS06XX0C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
-    -   Vitale Bedrohung beurteilen. 
+    -   Vitale Bedrohung beurteilen.
         |TxBeiVit|
         |TxMassVitMKBes|
 
         -   Lagerung: s. u.
-        -   Monitoring: Zusätzlich Beurteilung nach GCS 
+        -   Monitoring: Zusätzlich Beurteilung nach GCS
             (Verlauf beobachten und
             dokumentieren, :ref:`Thema-gcs`)
 
-    -   Lagerung: leicht erhöhter Oberkörper, 
+    -   Lagerung: leicht erhöhter Oberkörper,
         ca. 30°,
         wenn keine Kontraindikation besteht.
-    -   Je nach Unfallmechanismus HWS-Immobilisation 
+    -   Je nach Unfallmechanismus HWS-Immobilisation
         (z. B. mit Stifneck™)
     -   Ggfs. Wundversorgung
 
         -   Steriler Verband (steriles Abdecken)
         -   Ausgetretene Hirnmasse feucht steril abdecken
             und locker befestigen
-        -   Knochen oder Fremdkörper *nicht* entfernen 
+        -   Knochen oder Fremdkörper *nicht* entfernen
             oder zurück stopfen
 
 
@@ -1100,7 +1100,7 @@ Grade des geschlossenen SHT
 
 Gehirnerschütterung – SHT 1
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-                           
+
 
 *Term.* *Commotio cerebri*
 
@@ -1114,7 +1114,7 @@ Gehirnerschütterung zieht keine bleibenden Schäden nach sich.
 
 Gehirnprellung – SHT 2
 ^^^^^^^^^^^^^^^^^^^^^^
-                      
+
 
 *Term.* *Contusio cerebri*
 
@@ -1129,7 +1129,7 @@ Bleibende Schäden sind möglich.
 
 Gehirnquetschung – SHT 3
 ^^^^^^^^^^^^^^^^^^^^^^^^
-                        
+
 Die Gehirnquetschung ist eine sehr schwere Form des
 Schädelhirntraumas. Es kommt zu einer *Bewusstlosigkeit länger als 24h*
 und zu teils sehr ausgeprägten Begleitsymptomen wie zum Beispiel
@@ -1190,7 +1190,7 @@ rechnen.
 | & Gerhinerschütterung & Prellung & Quetschung
 | *… cerebri* & Commotio & Contusio &
 
-| 
+|
 | *Bewusstlosigkeit / Trübung* & < 1h & 1h < x < 24& > 24
 | *Symptome* & Übelkeit, Erbrechen, Schwindel
 
@@ -1358,7 +1358,7 @@ Maßnahmen: Rückenmarksverletzung, Verdacht
 
 .. todo:: Maßnahme TT09031C: Anpassung an höherqualifiziertes Personal
 
-Taktik 
+Taktik
     Immobilisation und Transport in eine geeignete Einrichtung
     zur Abklärung
 
@@ -1392,19 +1392,19 @@ Maßnahmen: Rückenmarksverletzung mit Symptomen
 
 .. todo:: Maßnahme TT09032C: Anpassung an höherqualifiziertes Personal
 
-Taktik 
-    **Zeitkritisch! Vitale Bedrohung!** 
-    Zügige Bergung, 
+Taktik
+    **Zeitkritisch! Vitale Bedrohung!**
+    Zügige Bergung,
     Immobilisation und Transport in eine geeignete Einrichtung
 
 
 Vgl. :ref:`m-einschaetzung-indikation-ws-immobilisation`
 
 Basismaßnahmen
-    -   Bei ansprechbaren Patienten: 
+    -   Bei ansprechbaren Patienten:
         immer
         **HWS-Immobilisation** (HWS-Schiene)
-    -   **Bergung** 
+    -   **Bergung**
         mit Schaufeltrage, Spineboard oder
         KED-System
     -   **Lagerung** und Schienung mittels
@@ -1414,7 +1414,7 @@ Basismaßnahmen
         eingesetzt wird ist abhängig vom Patientenzustand,
         dem Training des Teams, internen Vorschriften und
         vorhandenem Material.
-    -   Bei Querschnittslähmung: 
+    -   Bei Querschnittslähmung:
         Kennzeichnung der Sensibilitätsgrenze mit Angabe der Uhrzeit
     -   **Monitoring**: Achte besonders auf Störungen
         von Atmung und Bewußtsein, sowie Schockentwicklung.
@@ -1527,16 +1527,16 @@ Todesangst.
     :width: 99%
 
     Pneumothorax. Beachte die Randlinie zwischen Lunge (unten,
-    innen) und dem luftgefüllten Pleuraspalt (oben, außen) 
-    
+    innen) und dem luftgefüllten Pleuraspalt (oben, außen)
+
     *Hauer*
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_xray_endstadium.*
     :width: 99%
 
     Im Vergleich: Kompletter Pneumothorax der rechten
-    Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert. 
-    
+    Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert.
+
     *Hauer*
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.*
@@ -1544,8 +1544,8 @@ Todesangst.
 
     Diese unauffällige Stichverletzung hat
     einen Pneumothorax verursacht. **Dieser Patient ist lebensgefährlich
-    verletzt!** 
-    
+    verletzt!**
+
     *Hauer*
 
 
@@ -1558,7 +1558,7 @@ Maßnahmen: Pneumothorax
 
 .. todo:: Maßnahme TJ93090C: Anpassung an höherqualifiziertes Personal
 
-Taktik 
+Taktik
     **Zeitkritisch! Vitale Bedrohung!**
     Entlastungspunktion, zügiger Transport
     in eine geeignete Einrichtung
@@ -1570,14 +1570,14 @@ Basismaßnahmen
         Seitenlage notwendig ist, dann Lagerung auf die
         *verletzte* Seite, damit die unverletzte
         Lunge  nicht unnötig belastet wird.
-    -   **Notarzt**: 
+    -   **Notarzt**:
         Ein Pneumothorax kann mittels
         Drainage bzw. Punktion entlastet werden (ärztliche Maßnahme).
 
--   **Verband** bei offener Thoraxverletzung: 
-    **Nicht luftdicht verbinden**, 
+-   **Verband** bei offener Thoraxverletzung:
+    **Nicht luftdicht verbinden**,
     es kann sonst ein
-    Spannungspneumothorax entstehen! 
+    Spannungspneumothorax entstehen!
     Steril abdecken.
 -   **Transportentscheidung**: Schockraum
 
@@ -1596,7 +1596,7 @@ Beschreibung
 ------------
 
 Eine Fraktur einer oder mehrer Rippen ensteht typischerweise durch eine
-meist stumpfe Gewalteinwirkung auf den Thorax. 
+meist stumpfe Gewalteinwirkung auf den Thorax.
 Von einer **Serienrippenfraktur** spricht man, wenn mindestens drei benachbarte
 Rippen gebrochen sind.
 
@@ -1755,7 +1755,7 @@ verbunden sein.
 
 -  Prellung durch Lenkstange bei PKW-Unfall
 
-| 
+|
 
 Offenes Bauchtrauma
 ===================
@@ -1779,7 +1779,7 @@ Begleitverletzungen im Brustkorb auf (Strauss and Fülöp, n.d.).
 .. figure:: /Bilder/HauerDavid-Ccc/bauchtrauma-offenes-01.*
 
     Offenes Bauchtrauma mit Austritt von Darmschlingen
-    
+
     [David Hauer, MfG]
 
 
@@ -1793,7 +1793,7 @@ Maßnahmen: Bauchtrauma, offen
 ------------------------------
 
 
-Taktik 
+Taktik
     **Zeitkritisch! Vitale Bedrohung!**
     Zügiger Transport in eine geeignete Einrichtung
 
@@ -2059,7 +2059,7 @@ Basismaßnahmen
         Lagerung mit erhöhten Beinen notwendig ist,
         Tragentisch schräg stellen)
     -   Bei Beckenfraktur:
-        **Beckengurt**, 
+        **Beckengurt**,
         zur Not mit Gürtel
     -   Transportentscheidung: Schockraum
 
@@ -2146,13 +2146,13 @@ Basismaßnahmen
             Verletzungen und der Herz-Kreislauf-Situation
 
     -   Gefährliche Verletzungen versorgen (starke
-        Blutungen, Beckengurt, \ldots) 
+        Blutungen, Beckengurt, \ldots)
     -   **Wärmeerhalt**: Der Wärmeerhalt hat massiven Einfluss auf das
         Überleben!
-    -   Verletzungsmuster/Unfallmechanismus erheben → zu 
+    -   Verletzungsmuster/Unfallmechanismus erheben → zu
         erwartende Komplikationen einschätzen
-    -   Notarzt: 
-        Schmerztherapie, Narkose, Intubation 
+    -   Notarzt:
+        Schmerztherapie, Narkose, Intubation
         und Beatmung
     -   Transportentscheidung:
 
@@ -2381,14 +2381,14 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
     :width: 99%
 
     Verbrennung 1°
-    
+
     [Trent Easton; de.wikipedia / PD]
 
 .. figure:: /Bilder/WikipediaCcBySa/VerbrennungGrad2a-00441pt.*
     :width: 99%
 
     Verbrennung 2°
-    
+
     [Yunaerith; WMC / CC-BY-SA 3.0 unported]
 
 .. figure:: /Bilder/WikipediaCcBySa/Verbrennung_3gradig01.*
@@ -2402,26 +2402,26 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-01.*
     :width: 99%
 
-    Großflächige Verbrennung 
-    
+    Großflächige Verbrennung
+
     [David Hauer, MfG]
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-02-hand.*
     :width: 99%
 
-    Ablederung 
-    
+    Ablederung
+
     [David Hauer, MfG]
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-03-escharotomie.*
     :width: 99%
 
-    Aufgrund der ringförmigen Verbrennung am Thorax 
+    Aufgrund der ringförmigen Verbrennung am Thorax
     zieht sich die Haut zusammen, der Brustkorb wird gefesselt und die
-    Atmung dadurch beeinträchtigt (Verbrennungspanzer). 
-    Entlastungsschnitte (*Escharatomie*) ermöglichen dem Brustkorb 
+    Atmung dadurch beeinträchtigt (Verbrennungspanzer).
+    Entlastungsschnitte (*Escharatomie*) ermöglichen dem Brustkorb
     wieder sich auszudehnen und dem Patienten damit zu atmen.
-    
+
     [David Hauer]
 
 
@@ -2478,7 +2478,7 @@ Basismaßnahmen
 
         Bei Frösteln des Patienten früher abzubrechen:
         **Gefahr der Unterkühlung!**
-    -   **Abdeckung**: 
+    -   **Abdeckung**:
         Sterile, nicht verklebende
         Wundauflagen; evtl. metalliserte Wundauflagen
         :cite:`Helfen2008,RedelsteinerHRNS1`\ ; locker anlegen
@@ -2501,11 +2501,11 @@ Basismaßnahmen
     -   Besonders auf **Wärmeerhalt** achten!
     -   Luftzug vermeiden
     -   *Keine* Kühlung
-        Bei großflächigen Verbrennungen sollte der Patient 
-        nur primär abgelöscht werden. 
+        Bei großflächigen Verbrennungen sollte der Patient
+        nur primär abgelöscht werden.
         Es soll keine Kühlung der betroffenen Hautregionen erfolgen.
         :cite:`Asanger2010`
-    -   **Abdeckung**: 
+    -   **Abdeckung**:
         Sterile, nicht verklebende
         Wundauflagen, evtl. metalliserte Wundauflagen
         :cite:`Helfen2008,RedelsteinerHRNS1`\ .
@@ -2514,11 +2514,11 @@ Basismaßnahmen
         aufgrund  der Unterkühlungs-Gefahr und einer  möglichen
         Durchblutungsstörung der Wunde
         (Gefahr von Wundheilungsstörungen im weiteren Verlauf)
-        umstritten. 
-        Locker anlegen. 
+        umstritten.
+        Locker anlegen.
         Bei großflächigen Verbrennungen können,
         wenn das sterile Material nicht ausreicht,
-        zur Not auch saubere Leintücher o. ä. 
+        zur Not auch saubere Leintücher o. ä.
         verwendet werden :cite:`emergency9,Asanger2010`\ .
     -   Schockbekämpfung
     -   Kolloidale Infusionslösungen sind *kontraindiziert*
@@ -2651,10 +2651,10 @@ auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
 .. figure:: /Bilder/GabrielSebastian-Ccc/notbrause2.*
 
     Notbrause
-    
-    [Sebastian Gabriel, MfG] 
-    
-    
+
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+
+
 !!! LITERARY !!! (Hoffmann 2008) !!!
 LITERARY !!!
 
@@ -2689,13 +2689,13 @@ Basismaßnahmen
     #.  Entfernung kontaminierter Kleidung
     #.  Spülung der betroffenen Hautpartien mit Wasser
         (richtig abrinnen lassen)
-    #.  Auge: Spülung mit Wasser / Ringerlösung 
+    #.  Auge: Spülung mit Wasser / Ringerlösung
         (nach außen abrinnen lassen!),
         Kontaktlinsen entfernen
-    #.  Transportentscheidung: 
+    #.  Transportentscheidung:
         Ab einer Ausdehnung von
         15% (Erwachsener) bzw. 10% (Kind) Spezialabteilung
-        für Verbrennungsverletzungen. 
+        für Verbrennungsverletzungen.
         Bei Augenverletzungen Abt.
         für Augenheilkunde.
 
@@ -2738,7 +2738,7 @@ Maßnahmen: Erfrierungen
 .. todo:: Maßnahme TT35071C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
-    -   Beengende Kleidungsstücke lockern 
+    -   Beengende Kleidungsstücke lockern
         (Einschnürung erhöht Risiko einer Erfrierung)
     -   Keimfreier, gepolsterter Verband
     -   Warme, gezuckerte Getränke -- KEIN Alkohol
@@ -2907,7 +2907,7 @@ Maßnahmen: Stromunfälle
 Basismaßnahmen
     -   **Eigenschutz!** Bevor der Patienten berührt wird,
         muss man sich vergewissern, dass der Patient
-        keinen Kontakt mehr mit dem Stromkreis hat! 
+        keinen Kontakt mehr mit dem Stromkreis hat!
 
         **Strom abschalten (lassen)!**
         (Vgl. :ref:`Thema-gefahrenbereich-strom`)
@@ -2915,10 +2915,10 @@ Basismaßnahmen
         -   Gefahrenbreich beachten
         -   Sicherheitsabstand
         -   Schrittspannung und Spannungskegel
-            beachten 
+            beachten
         -   Bahnanlagen sperren/sichern lassen
         -   Schalter ausschalten, (Haupt-)Sicherung
-            auslösen, 
+            auslösen,
             Starkstrom/Hochspannung durch Fachmann abschalten
             bzw. erden lassen
         -   Strom gegen Wiedereinschalten sichern!
@@ -2929,7 +2929,7 @@ Basismaßnahmen
         |TxBeiVit|
         |TxMassVitMK|
     -   **Monitoring und
-        Reanimationsbereitschaft**: 
+        Reanimationsbereitschaft**:
         auf evtl.
         Herzrhythmusstörungen vorbereitet sein
         (bis zu 24 h Latenz)

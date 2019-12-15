@@ -525,7 +525,7 @@ veralten).
             Blutdruck-Pass zur Dokumentation des Blutdruckverlaufs und
             eine Medikationsinformation. (Die Patientendaten am Bild
             sind erfunden.)
-            [Sebastian Gabriel, MfG]
+            Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 ********
 Letzte …

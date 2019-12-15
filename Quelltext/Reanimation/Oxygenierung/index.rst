@@ -189,7 +189,7 @@ des Tubus zu überprüfen:
     :align: right
 
     Endotracheale Intubation
-    [Michael Motal, MfG]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 Es sollen immer *alle drei Möglichkeiten* angewendet werden. Es wird
 jedoch zunehmend ein größerer Wert auf die *Kapnographie* gelegt, um die

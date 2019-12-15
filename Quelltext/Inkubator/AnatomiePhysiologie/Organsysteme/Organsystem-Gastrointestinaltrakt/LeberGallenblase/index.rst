@@ -59,19 +59,19 @@ den Zwölffingerdarm. An den Gallengängen hängt die
 
 .. figure:: /Bilder/WikipediaPd/Liver_and_pangreas_-_transparent.*
 
-    Leber, Gallenblase und Pankreas. 
-    
+    Leber, Gallenblase und Pankreas.
+
     [WMC]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Gallenblase.*
 
-    Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm. 
-    
-    [Hirtler]
+    Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm.
+
+    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Pankreas-1.*
 
     Lage des Pankreas zum Zwöffingerdarm. Deutlich zu erkennen ist die Einmündung des
-    Pankreas- und des Gallenganges in den Darm. 
+    Pankreas- und des Gallenganges in den Darm.
 
     [Hirtler / MfG]

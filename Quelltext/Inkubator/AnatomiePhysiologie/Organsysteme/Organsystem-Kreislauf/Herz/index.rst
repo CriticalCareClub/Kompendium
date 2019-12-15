@@ -232,7 +232,7 @@ Beispiele von Rhythmen werden unter
 .. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
     :width: 99%
 
-    [Hirtler]
+    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.*
     :width: 99%
@@ -307,7 +307,7 @@ Herzens ermöglicht.
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
 
-    [Hirtler]
+    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
 
 
 .. index::

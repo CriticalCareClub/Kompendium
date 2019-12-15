@@ -486,5 +486,5 @@ Schockabgabe
 	    Ein Multifunktionsgerät mit integriertem Defibrillator
             (Corpuls:sup:`3`)
 
-            [Christoph Pallinger, MfG]
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 

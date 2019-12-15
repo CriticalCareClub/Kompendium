@@ -331,7 +331,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             Sauerstofflasche, eine Berieselungseinheit und daran
             angeschlossen eine Berieselungsmaske.
 
-            [Christoph Pallinger, MfG]
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.*
             :width: 99.9%
@@ -349,7 +349,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             des Beatmungsschlauches (“Disconnection”), niederen Flaschendruck
             (“<2.7bar”) und schwache Batterie.
 
-            [Sebastian Gabriel, MfG]
+            Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.*
             :width: 99.9%
@@ -360,7 +360,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             mittels Monitor und Drehräder. Abgebildet ist die
             Durchführung einer Funktionskontrolle der Bedienelemente.
 
-            [Christopf Pallinger, MfG]
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
     :width: 0.3
@@ -433,7 +433,7 @@ da die Ausatemluft unkontrolliert über die
 
             PEEP-Ventil
 
-            [Ch. Pallinger]
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 
 

@@ -203,7 +203,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm1.*
             :width: 99.99%
 
-            Annäherung an den Patienten [Michael Motal, MfG]
+            Annäherung an den Patienten Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
             :width: 99.99%

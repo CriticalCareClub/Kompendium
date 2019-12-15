@@ -10,8 +10,8 @@ Abschnitte des Kreislaufs
 
 Kleiner (Lungen-)Kreislauf
 --------------------------
-                          
-Die obere und untere Hohlvene münden in den 
+
+Die obere und untere Hohlvene münden in den
 rechten Vorhof des Herzens
 und liefern sauerstoffarmes Blut aus dem Körper an.
 Von hier wird das Blut durch eine **Segelklappe** in die
@@ -30,7 +30,7 @@ der wiederum das Blut in die linke Herzkammer pumpt.
 
 Großer (Körper-)Kreislauf
 -------------------------
-                         
+
 Das Blut wird aus der linken Herzkammer ausgestoßen und gelangt durch
 eine **Taschenklappe** (*Aortenklappe*) über die **Aorta** in den
 Körperkreislauf.
@@ -98,9 +98,9 @@ Diese münden wiederum in den rechten Vorhof.
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Kreislauf-Schema.*
 
-    Der Blutkreislauf (Schema) 
+    Der Blutkreislauf (Schema)
 
-    [Hirtler, MfG]
+    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
 
 
 .. todo:: Index-Begriffe

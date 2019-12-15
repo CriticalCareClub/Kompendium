@@ -23,16 +23,17 @@ Einteilung
 *******************************
 
 
-.. sidebar:: Einteilung von Herzrhythmusstörungen
+..
+    .. sidebar:: Einteilung von Herzrhythmusstörungen
 
-    -   Ort
-    -   Ursachen
-    -   Auswirkungen
+        -   Ort
+        -   Ursachen
+        -   Auswirkungen
 
-        -   Frequenz
-        -   Regelmäßigkeit
+            -   Frequenz
+            -   Regelmäßigkeit
 
-    -   Elektromechanische Dissoziation
+        -   Elektromechanische Dissoziation
 
 
 
@@ -52,10 +53,11 @@ oder :term:`intermittierend <intermittieren>` auftreten.
 
 .. rubric:: … Frequenz: Tachy- und Bradykardie
 
-.. sidebar:: Brady-, Tachykardie
+..
+    .. sidebar:: Brady-, Tachykardie
 
-    -   Bradykardie:  zu langsam
-    -   Tachykardie:  zu schnell
+        -   Bradykardie:  zu langsam
+        -   Tachykardie:  zu schnell
 
 Als Normwert für die Herzfrequenz *in Ruhe* beim Erwachsenen gilt der Bereich zwischen 60—100 / min.
 Individuell kann es zu physiologischen Abweichungen vom Normbereich kommen,
@@ -196,24 +198,25 @@ Besondere Rhythmen
 Reanimationspflichtige Rhythmusstörungen
 ========================================
 
-.. sidebar:: Reanimationspflichtig
+..
+    .. sidebar:: Reanimationspflichtig
 
-    -  Pulslose Ventrikuläre Tachykardie
+        -  Pulslose Ventrikuläre Tachykardie
 
-    -  Keine Zeit zum Füllen → kein Auswurf
+        -  Keine Zeit zum Füllen → kein Auswurf
 
-    -  Kammerflimmern
+        -  Kammerflimmern
 
-    -  Wirre Erregung, keine sinnvolle Muskelarbeit →
-        kein Auswurf.
+        -  Wirre Erregung, keine sinnvolle Muskelarbeit →
+            kein Auswurf.
 
-    -  Asystolie
+        -  Asystolie
 
-    -  Keine elektrische Erregung, keine Muskelarbeit, kein Auswurf
+        -  Keine elektrische Erregung, keine Muskelarbeit, kein Auswurf
 
-    -  Pulslose elektrische Aktivität
+        -  Pulslose elektrische Aktivität
 
-    -  Entkoppelung von Herzschlag und Impulsen des Reizleitungssystems
+        -  Entkoppelung von Herzschlag und Impulsen des Reizleitungssystems
 
 Pulslose Ventrikuläre Tachykardie (*pVT*)
     Vorstufe zum
@@ -249,15 +252,16 @@ Pulslose elektrische Aktivität (*PEA*)
 Vorhofflimmern
 ==============
 
-.. sidebar:: Vorhofflimmern
+..
+    .. sidebar:: Vorhofflimmern
 
-    -  Flimmern im *Vorhof*
+        -  Flimmern im *Vorhof*
 
-    -  Häufige und oft chronische Erkrankung
+        -  Häufige und oft chronische Erkrankung
 
-    -  Thrombenbildung, Tachykardieanfälle
+        -  Thrombenbildung, Tachykardieanfälle
 
-    -  Oft *gerinnngshemmende Medikamente*
+        -  Oft *gerinnngshemmende Medikamente*
 
 Regellose Erregung im *Vorhof*, die oft
 symptomlos ist. (Die Herzkammern arbeiten dabei normal!) Vorhofflimmern
@@ -288,14 +292,15 @@ Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
 Extrasystolen
 =============
 
-.. sidebar:: Extrasystolen
+..
+    .. sidebar:: Extrasystolen
 
-    -   Extraschläge
+        -   Extraschläge
 
-    -   Vereinzelt od. gehäuft, evtl. "salvenartig"
+        -   Vereinzelt od. gehäuft, evtl. "salvenartig"
 
-    -   Unterschiedliche Auswirkungen auf Kreislauf:
-        symptomlos bis lebensbedrohlich möglich
+        -   Unterschiedliche Auswirkungen auf Kreislauf:
+            symptomlos bis lebensbedrohlich möglich
 
 Extrasystolen sind "Extraschläge" des Herzens,
 sie können vereinzelt oder gehäuft auftreten,

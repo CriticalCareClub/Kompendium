@@ -80,6 +80,34 @@ Leistungsverlust!
 ABCDE
 =======
 
+..
+    .. sidebar:: ABCDE
+
+        ``3``
+            Leidend, evtl. kaltschweißig, blass
+
+        ``4``
+             *Akuter, nicht atemabhängiger, Brustschmerz*
+            (brennend, stechend; Hinter dem Brustbein, evtl. *Ausstrahlung* in
+            Kiefer, (linken) Arm, in Rücken) und  *Atemnot*,
+            oft *Enge-* bzw. *Druckgefühl*, Todesangst
+
+            Typisch untypisch: *Oberbauchschmerz*; "stummer Infarkt"
+
+        ``B``
+             *Atemnot*, evtl.  Zyanose
+
+        ``C``
+            Puls evtl. unregelmäßig, Blutdruck in jede Richtung verändert, evtl.
+            Zeichen eines  kardiogenen Schocks
+
+        ``E``
+            EKG (im Verlauf)!
+
+        ``=``
+            Vital bedroht
+
+
 
 .. sidebar:: ABCDE
 
@@ -159,19 +187,20 @@ ABCDE
 SAMPLER beim akuten Koronarsyndrom
 ==========================================
 
-.. sidebar:: SAMPLER
+..
+    .. sidebar:: SAMPLER
 
-    ``S``
-        Siehe ABCDE
+        ``S``
+            Siehe ABCDE
 
-    ``M``
-        Nitroglycerin: Pflaster, Kapseln, Spray
+        ``M``
+            Nitroglycerin: Pflaster, Kapseln, Spray
 
-    ``P``
-        Koronare Herzkrankheit (KHK)
+        ``P``
+            Koronare Herzkrankheit (KHK)
 
-    ``E``
-        Körperliche Anstrengung
+        ``E``
+            Körperliche Anstrengung
 
 
 ``S`` — Symptome

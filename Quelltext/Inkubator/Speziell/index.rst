@@ -24,3 +24,4 @@ Spezielle Notfallmedizin (Inkubator)
     Urologie/index.rst
     Wundversorgung/index.rst
     Abdomen/index.rst
+    Anaphylaxie/index

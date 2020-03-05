@@ -388,17 +388,12 @@ steigt die Durchlässigkeit der Gefäße (Gefäßpermeabilität). Das Blut versa
 kommt zu einem Plasmaverlust in den Zwischengewebsraum (Interstitium); der
 Blutdruck fällt massiv ab! Mögliche *Auslöser* können sein:
 
--  Pollen
-
--  Medikamente, Antibiotika
-
--  Kontrastmittel (für radiologische Untersuchungen)
-
--  tierische Gifte (Bienenstich etc.)
-
--  Lebensmittel (Meeresfrüchte, Nüsse, etc.)
-
--  und vieles andere …
+-   Pollen
+-   Medikamente, Antibiotika
+-   Kontrastmittel (für radiologische Untersuchungen)
+-   tierische Gifte (Bienenstich etc.)
+-   Lebensmittel (Meeresfrüchte, Nüsse, etc.)
+-   und vieles andere …
 
 
 

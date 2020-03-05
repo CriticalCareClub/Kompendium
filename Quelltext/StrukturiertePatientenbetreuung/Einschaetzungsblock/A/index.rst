@@ -24,12 +24,15 @@ Vom Gurgeln und Schnarchen
 Unter Punkt **A** wird eingeschätzt,
 ob der Atemweg frei,
 verlegt oder gefährdet ist.
-Dazu werden zuerst die *Mundhöhle*, die *Nase* und der
-*Hals* *inspiziert*.
+Dazu werden zuerst
+die *Mundhöhle* inklusive der Lippen, Mundschleimhaut und der Uvula,
+die *Nase*
+und der *Hals* *inspiziert*.
 Liegt ein Verdacht auf eine Verletzung vor, werden
 Nase und Hals auch *abgetastet*.
-Weiters werden die *Atemgeräusche*
-(ohne Hilfsmittel) beurteilt.
+Weiters werden die mit freiem Ohr hörbaren *Atemgeräusche*
+beurteilt.
+Diese sind auch für den folgenden Punkt ``B`` (Atmung) relevant.
 
 .. index::
     single: Atemweg, gefährdeter
@@ -45,6 +48,7 @@ Befunde
 
 Speziell *pfeifende*, *gurgelnde* oder *schnarchende* Atemgeräusche
 können ein Hinweis auf eine Verlegung sein.
+Ein exspiratorischer Stridor sowie Giemen können Anzeichen für eine bronchiale Obstruktion bzw. Spastik sein.
 Oft gibt auch die *Gestik*
 und Haltung des Patienten Hinweise auf eine Verlegung.
 Ein gefährdeter Atemweg liegt vor, wenn dieser noch

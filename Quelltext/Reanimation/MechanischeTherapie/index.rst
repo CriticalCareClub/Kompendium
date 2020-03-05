@@ -13,14 +13,31 @@
 Herzdruckmassage
 ================
 
-
-Die :dfn:`Herzdruckmassage` (:dfn:`HDM`) simuliert die mechanische Herzaktion und erzeugt einen Minimalkreislauf
+Die :dfn:`Herzdruckmassage` (:dfn:`HDM`) simuliert die mechanische Herzaktion und soll einen Minimalkreislauf erzeugen.
 Dabei wird das Herz von außen rhythmisch durch einen Helfer komprimiert,
 jeweils gefolgt von einer Entlastungsphase. Dadurch wird die natürliche
 mechanische Herzaktion simuliert und eine Zirkulation des Blutes erwirkt.
-Die *möglichst kontinuierliche* HDM ist neben einer kausalen Therapie
-die wichtigste Maßnahme im Rahmen der Reanimation mit sehr großem
-Einfluss auf das Pateinten-Outcome.
+Die *möglichst ununterbrochene* HDM ist neben einer kausalen Therapie
+die wichtigste Maßnahme im Rahmen der Reanimation
+und hat sehr großen Einfluss auf das Patienten-Outcome.
+
+Die Herzdruckmassage muss daher so rasch als möglich beginnen
+und so unterbrechungsfrei wie möglich durchgeführt werden.
+Beispielsweise muss ach Abgabe
+eines Schocks durch den Defibrillator
+die Herzdruckmassage sofort weitergeführt werden;
+auch wenn eine Defibrillation erfolgreich war,
+d. h. lt. EKG ein ordnungsgemäßer Herzrhythmus wiederhergestellt
+wurde,
+kann es einige Zeit dauern,
+bis das Herz wieder eine ausreichende mechanische Tätigkeit aufweist
+und ein ausreichender Spontankreislauf einsetzt
+:cite:`Sandroni2008,Skhirtladze2010`\ .
+
+.. note::
+
+    -   Die Unterbrechung der HDM durch den AED/Defibrillator soll
+        insgesamt  **unter 5 s** betragen!
 
 ..
     .. sidebar:: HDM / Technik
@@ -41,36 +58,34 @@ Einfluss auf das Pateinten-Outcome.
 
         -   Frequenz: **100—120 / min**
 
+.. rubric:: Durchführung
 
-Der Patient muss auf eine *harte Unterlage*
-(Reanimationsbrett, Boden, ...) gelagert werden.
+Der Patient muss auf einer *harten Unterlage*
+(Reanimationsbrett, Boden, ...) liegen,
+der Helfer kniet seitlich neben dem Thorax des Patienten
+und beugt sich über den Patienten.
 Der Brustkorb wird frei gemacht und der *Druckpunkt* für
 die Herzdruckmassage aufgesucht,
-dieser liegt in der *Mitte des Brustkorbs* zwischen den Mamillen (beim
-Mann).
-Auf diesem Punkt wird ein *Handballen* des Helfers gelegt,
+dieser liegt in der **Mitte des Brustbeins** zwischen den Mamillen
+(beim Mann).
+Auf diesem Punkt wird ein *Handballen* gelegt,
 der Handballen der anderen Hand liegt am Handrücken der ersten Hand,
-direkt über dem Druckpunkt.
-Die Finger werden ineinander verschränkt.
-
-Die für die *Kompression* notwendige Kraft wird erzeugt,
-indem sich der Helfer über den Patient beugt,
-die Arme dabei durchstreckt und mit Hilfe seines eigenen Gewichts
-*gerade nach unten* drückt.
-Dabei soll eine *Eindrücktiefe* von **5—6 cm** erreicht
-werden.\ [142]_
-
-
-.. [142]
-   Beim durchschnittlichen Erwachsenen entspricht das ungefähr 1/3 des Brustkorbes.
-
-Nach der Kompression erfolgt die passive *vollständige Entlastung* des
+direkt über dem Druckpunkt,
+die Finger werden ineinander verschränkt.
+Die Arme des Helfers sind durchstreckt und
+er drückt mit Hilfe seines eigenen Gewichts
+*gerade nach unten* mit einer *Eindrücktiefe* von **5—6 cm**.\ [142]_
+Nach der Kompression erfolgt die passive vollständige **Entlastung** des
 Brustkorbs ehe eine neuerliche Kompression beginnt.\ [143]_
-Die Kompressions- und Entlastungsphasen sollen in etwa gleich lange dauern und
+Die Kompressions- und Entlastungsphasen
+sollen in etwa gleich lange dauern und
 nicht ruckartig ablaufen :cite:`Erc2010Sec2`\ .
 Die *Zielfrequenz*  der Herzdruckmassage beträgt *100 / min* (bis
 max. 120 / min).
 
+
+.. [142]
+   Beim durchschnittlichen Erwachsenen entspricht das ungefähr 1/3 des Brustkorbes.
 
 .. [143]
    Vollständige Entlastung bedeutet, dass der Helfer keinerlei Druck
@@ -113,21 +128,7 @@ max. 120 / min).
 
     Bilderserie: *Herzdruckmassage*
 
-Die Herzdruckmassage muss so rasch als möglich beginnen und so
-unterbrechungsfrei wie möglich durchgeführt werden.
-Nach Abgabe eines Schocks durch den Defibrillator muss die
-Herzdruckmassage sofort weitergeführt werden!
-Auch wenn eine Defibrillation erfolgreich war,
-d. h. lt. EKG ein ordnungsgemäßer Herzrhythmus wiederhergestellt
-wurde,
-kann es einige Zeit dauern,
-bis wieder ein ausreichender Spontankreislauf einsetzt
-:cite:`Sandroni2008,Skhirtladze2010`\ .
 
-.. note::
-
-    -   Die Unterbrechung der HDM durch den AED/Defibrillator soll
-        insgesamt  **unter 5 s** betragen!
 
 Fehlerquellen
 ----------------------

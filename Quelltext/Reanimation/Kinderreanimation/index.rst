@@ -8,7 +8,7 @@ bezeichnet. Während bei Erwachsenen der Großteil der Ursachen für einen
 Herz-Kreislauf-Stillstand vom Herzen aus geht, liegt bei den Kindern
 meist ein Problem des Atemwegs bzw. der Atmung (z. B. Atemwegsverlegung,
 Ertrinken) vor. Deshalb steht – im Gegensatz zum BLS – beim PLS das
-**Freimachen der Atemwege** im Vordergrund. 
+**Freimachen der Atemwege** im Vordergrund.
 Das Vorgehen gemäß ERC wird wie
 folgt beschrieben:
 
@@ -17,20 +17,20 @@ folgt beschrieben:
 
 
 #.  ``1`` *Szeneüberblick mit (Selbst-)Schutz*: wie bei BLS
-
 #.  ``2`` *Eindruck*: wie BLS, zusätzlich Abschätzen des Alters
-
 #.  ``3`` *Bewusstsein beurteilen*: wie BLS,
     *kindgerecht* ansprechen
 
     -   Ist der *Patient ansprechbar* folgt das Vorgehen den allgemeinen
         Regeln des Patientenmanagements.
 
-    -   Ist der *Patient nicht ansprechbar* wird ein **Hilferuf/Notruf** angefordert.
+    -   Ist der *Patient nicht ansprechbar*
+        wird ein **Hilferuf/Notruf** durchgeführt.
         Idealerweise deligiert man diese Aufgabe an einen zusätzlichen
         Helfer.
 
-#.  ``A`` **Atemweg kontrollieren**: Es wird die Mundhöhle inspiziert und etwaige
+#.  ``A`` **Atemweg kontrollieren**:
+    Es wird die Mundhöhle inspiziert und etwaige
     Fremdkörper entfernt.
 
     Beim Säugling (1. Lebensjahr) wird der Kopf in Neutralposition\ [147]_
@@ -48,14 +48,14 @@ folgt beschrieben:
 
 #.  **5 Initialbeatmungen**
 
-#.  Es wird erneut nach **Lebenszeichen** gesucht. 
+#.  Es wird erneut nach **Lebenszeichen** gesucht.
     Wenn das Kind in irgend
     einer Form (z. B. Spontanbewegung, Husten oder normale Atmung) auf die
     Initialbeatmungen reagiert hat, wird eine neuerliche Atemkontrolle
-    durchgeführt um zu prüfen ob die Eigenatmung suffizient ist. 
-    Das Suchen nach Lebenszeichen darf nicht länger als 10 s dauern. 
+    durchgeführt um zu prüfen ob die Eigenatmung suffizient ist.
+    Das Suchen nach Lebenszeichen darf nicht länger als 10 s dauern.
     Ein gut ausgebildeter, erfahrener Helfer kann während dieser 10 s parallel
-    versuchen den Puls zu tasten. 
+    versuchen den Puls zu tasten.
     Beim Säugling muss der Puls mehr als 60
     Schläge pro Minute betragen.
 
@@ -99,7 +99,7 @@ folgt beschrieben:
 .. _Figure-PlsAlgorithmus:
 
 .. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationPls-2015-1.*
-                        
+
 	    Pediatric Life Support [Table-algorithmus-pls]
 
             [Josef Emhofer,  nach ERC]

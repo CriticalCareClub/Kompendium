@@ -23,19 +23,12 @@ Kausale Therapie: Reversible Ursachen
 .. admonition:: 4 H + HITS
 
   -  **H**\ ypoxie
-
   -  **H**\ ypovolämie
-
   -  **H**\ ypo-/Hyperkaliämie
-
   -  **H**\ ypothermie
-
   -  **H**\ erzbeuteltamponade
-
   -  **I**\ ntoxikation
-
   -  **T**\ hromboembolie
-
   -  **S**\ pannungspneumothorax
 
 
@@ -43,35 +36,35 @@ Es gibt acht klassische Ursachen eines Herz-Kreislaufstillstandes,
 welche grundsätzlich behebbar (reversibel) sind:
 
 
--  **H**\ ypoxie
+-   **H**\ ypoxie
 
-   (z. B. Atemwegsverlegung),
+    (z. B. Atemwegsverlegung),
 
--  **H**\ ypovolämie
+-   **H**\ ypovolämie
 
-   (z. B. Blutung durch Trauma, GI-Blutung, Aneurysmaruptur),
+    (z. B. Blutung durch Trauma, GI-Blutung, Aneurysmaruptur),
 
--  **H**\ ypo-/Hyperkaliämie
+-   **H**\ ypo-/Hyperkaliämie
 
-   (z. B. metabolische Störung),
+    (z. B. metabolische Störung),
 
--  **H**\ ypothermie
+-   **H**\ ypothermie
 
-   (z. B. Ertrinkungsunfall)
+    (z. B. Ertrinkungsunfall)
 
--  **H**\ erzbeuteltamponade
+-   **H**\ erzbeuteltamponade
 
-   (z. B. Thoraxtrauma durch Stich oder Schuss)
+    (z. B. Thoraxtrauma durch Stich oder Schuss)
 
--  **I**\ ntoxikation
+-   **I**\ ntoxikation
 
-   (z. B. Opiate, trizyklische Antidepressiva)
+    (z. B. Opiate, trizyklische Antidepressiva)
 
--  **T**\ hromboembolie
+-   **T**\ hromboembolie
 
-   (Lungenembolie, Herzinfarkt)
+    (Lungenembolie, Herzinfarkt)
 
--  **S**\ pannungspneumothorax
+-   **S**\ pannungspneumothorax
 
 Gemäß der Anfangsbuchstaben werden diese reversiblen Ursachen als :dfn:`4 H + HITS` bezeichnet.
 Leider lassen sich nicht alle

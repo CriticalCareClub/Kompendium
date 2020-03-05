@@ -34,6 +34,8 @@ Take a deep breath …
 
 Als nächstes wird die Funktion der *Atmung* beurteilt:
 
+#.  Achten auf Sprechdyspnoe
+
 #.  Einschätzung von *Frequenz* und *Tiefe* der Atmung.
 
 #.  Beurteilung des Exkursionen des Thorax,
@@ -46,7 +48,12 @@ Als nächstes wird die Funktion der *Atmung* beurteilt:
     *Nasenflügeln* (bei Kindern),
     sichtliches Ringen um Luft).
 
-#.  Achten auf **Atemgeräusche** (Stridor, Brodeln)
+#.  Achten auf **Atemgeräusche**
+    (inspiratorischer/exspiratorischer Stridor, Brodeln)
+
+    Ein exspiratorischer Stridor sowie Giemen können Anzeichen für eine bronchiale Obstruktion bzw. Spastik sein.
+    Brodelnde Atemgeräusche finden sich häufig beim Lungenödem
+    oder nach Aspiration.
 
 #.  **Hautfarbe** (Zyanose)
 
@@ -58,6 +65,8 @@ Als nächstes wird die Funktion der *Atmung* beurteilt:
     **spastische Atemgräusche** zu achten.
 
 #.  Bei Verdacht auf das Vorliegen einer mechanisch bedingten Atemstörung das Vorziehen des **Abtastens des Thorax** möglich.
+
+
 
 .. index::
     single: Totraum

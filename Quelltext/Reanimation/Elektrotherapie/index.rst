@@ -8,8 +8,6 @@
 *Elektro*\ therapie
 #######################################################################
 
-
-
 Das Herz ist die Pumpe des Blutkreislaufes und leistet eine beachtliche mechanische Arbeit,
 welche über elektrische Reize koordiniert wird
 (Reizleitungssystem, :ref:`Thema-reizleitungssystem`).
@@ -18,31 +16,14 @@ elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und
 somit zum Kreislaufstillstand.
 Oft ist eine Störung der elektrischen Herzaktivität
 bzw. des elektischen Herzrhythmus die primäre Ursache des Kreislaufstillstands.
-Spezielle Störungen des elektrischen Herzrhythmus kann man mittels *Defibrillation*
-(Elektrotherapie mittels Elektroschock) behandeln,  und versuchen,
-damit einen normalen Rhythmus wiederherzustellen.
 
-
-.. image:: /Bilder/WikipediaPd/AED_Symbol.*
-    :width: 25%
-    :align: right
-
-Die Elektrotherapie hat das Ziel, bei Vorliegen einer
-Herzrhythmusstörung einen normalen Sinusrhythmus mittels elektrischer
-Impulse wiederherzustellen. Man nennt diesen Vorgang
+Bei bestimmten Herzrhythmen
+("schockbare Rythmen": (pulslose) ventrikuläre Tachykardie,
+Kammerflimmern)
+wir die Elektrotherapie angewendet umd den Rhythmus zu normlaisieren. Man nennt diesen Vorgang
 :dfn:`elektrische Kardioversion`\ [321]_.
 Ein Sonderfall ist die :dfn:`Defibrillation`,
-sie ist eine Kardioversion bei Kammerflimmern.
-Im Rahmen
-der Reanimation werden die Begriffe Kardioversion und Defibrillation
-jedoch umgangssprachlich oft synonym verwendet.\ [322]_
-Grundsätzlich gelten auch bezüglich der Defibrillation das unter BLS Geschriebene
-(:ref:`Thema-DefibrillationBls`).
-Oft ist eine Störung des
-Reizleitungssystems des Herzens bzw. des elektrischen Herzrhythmus die
-Ursache des Kreislaufstillstands. Die Elektrotherapie im Sinne der
-*Defibrillation* soll die normale elektrische Herztätigkeit
-wiederherstellen.
+sie ist eine Kardioversion bei Kammerflimmern.\ [322]_
 
 .. [321]
    Eine Kardioversion, also die Überführung in einen anderen Rhythmus,
@@ -53,6 +34,7 @@ wiederherstellen.
    lebensbedrohlichen Rhythmusstörungen, wie zum Beispiel beim
    Vorhofflimmern, eingesetzt. Die Anwendung erfolgt dann in Narkose
    bzw. Sedierung und es werden geringere Energien eingesetzt.
+   Im Rahmen der Reanimation werden die Begriffe Kardioversion und Defibrillation jedoch umgangssprachlich oft synonym verwendet.
 
 .. note::
 
@@ -84,11 +66,16 @@ Defibrillatoren
     - Automatische implantierbare Defibrillatoren
 
 Geräte für die Defibrillation werden **Defibrillator**
-genannt. Es gibt folgende Gerätekategorien:
+genannt.
+Man unterscheidet dabei folgende Gerätekategorien:
 
-Automatische und halbautomatische Defibrillatoren
+Automatische und halbautomatische externe Defibrillatoren
    (:dfn:`AED`: :dfn:`Automatischer externer Defibrillator`;
    :dfn:`SAED`: :dfn:`Semi-automatischer externer Defibrillator`, “Halbautomat”):
+   :index:`\ <AED>`
+   :index:`\ <SAED>`
+   :index:`\ <Defibrillator; automatischer externer>`
+   :index:`\ <Defibrillator; semi-automatischer externer>`
    Das Gerät analysiert das EKG und beurteilt, ob ein Schock abgegeben
    werden soll. Bei automatischen Defibrillatoren wird die
    Analysefunktion vom Gerät automatisch gestartet, diese Kategorie kann
@@ -101,22 +88,34 @@ Manuelle Defibrillatoren
    Das Gerät zeigt das EKG an, der Anwender
    muss entscheiden, ob ein Schock abgegeben werden soll. Manuelle
    Defibrillatoren dürfen nur durch entsprechend ausgebildetes und
-   befugtes (i. d. R. ärztliches) Personal angewendet werden. Viele neuere
-   Geräte verfügen auch über einen “Halbautomaten-Modus” ((S)AED-Modus),
+   befugtes (i. d. R. ärztliches) Personal angewendet werden.
+   Viele Geräte verfügen auch über einen “Halbautomaten-Modus”
+   ((S)AED-Modus),
    in welchem das Gerät als (S)AED verwendet werden kann.
 
 Automatische implantierbare Defibrillatoren
    können Patienten operativ -- ähnlich einem Herzschrittmacher --
    implantiert werden
+   :index:`\ <Defibrillator; implantierbarer>`
+   :index:`\ <ICD>`
+   :index:`\ <Implantable Cardiac Device>`
    (*Abkz.* :dfn:`ICD`: :dfn:`Implantable Cardiac Device`).
-   Diese geben automatisch einen Schock ab wenn sie eine defibrillationspflcihtige
+   Diese geben automatisch einen Schock ab wenn sie eine defibrillationspflichtige
    Rhythmusstörung erkennen.
+
+
+.. figure:: /Bilder/WikipediaPd/AED_Symbol.*
+    :width: 25%
+    :align: right
+
+    Normsymbol "AED"
 
 Grundsätzlich kann eine Reanimation auch beim ALS mittels AED
 durchgeführt werden. Es empfiehlt sich jedoch, sofern möglich, in den
 manuellen Modus zu wechseln, wenn geeignetes Personal zur Verfügung
-steht. Dadurch kann die Analysezeit oft reduziert werden und auf
-bestimmte Situationen besser reagiert werden (Intubation, …).
+steht.
+Dadurch kann die Analysezeit drastisch reduziert werden und auf
+außerplanmäßige Situation flexibler reagiert werden (Intubation, …).
 
 
 .. index::
@@ -184,9 +183,10 @@ Verwendung eines SAED
 ----------------------
 
 Grundsätzlich ist jedes Gerät
-gemäß der *Gebrauchsanweisungen* des Herstellers zu verwenden.
+gemäß den *Gebrauchsanweisungen* des Herstellers zu verwenden.
 Allgemein lässt sich jedoch sagen:
 
+#.  Herzdruckmassage läuft
 #.  **Positionierung des Geäts**:
     Das Gerät wird in unmittelbarer Reichweite zum Patienten und Helfer
     positioniert, die Gerätetasche wird geöffnet.
@@ -210,14 +210,18 @@ Allgemein lässt sich jedoch sagen:
         ersichtlich.
         Durch diese Positionierung ist sicher gestellt, dass ein
         Großteil des elektrischen Feldes zwischen den Elektroden durch das Herz
-        läuft.
+        läuft.Die
+        *Positionierung der Elektroden* ist in Abbildung :ref:`Figure-Defibrillation`
+        ersichtlich.
+#.  Herzdruckmassage stoppen: Kommando *"STOP!"*
 #.  **Rhythmusanalyse**:
     ``Analyse``\ -Taste drücken.
     Die Analyse führt das Gerät nun selbständig durch.
     Es ertönt eine Warnung, z. B.
     *“Analyse läuft! Patienten nicht berühren!”*
     Der Patient
-    (oder elektrisch leitende Gegenstände (z. B. Metalle, Wasser),
+    (oder elektrisch leitende Gegenstände
+    (z. B. Metalle, Wasser),
     die mit dem Patienten in direktem Kontakt stehen)
     dürfen nicht berührt werden.
 #.  **Nach der Analyse** wird den Helfern per Sprachausgabe mitgeteilt,
@@ -225,20 +229,20 @@ Allgemein lässt sich jedoch sagen:
 
     -   *"Schock empfohlen"*:
 
-        #.  Warnen der Umgebung: *"Achtung! Zurücktreten! Schockabgabe!"*
+        #.  Der SAED lädt automatisch,
+            eine Vollständige Ladung wird durch einen Signalton angezeigt.
+        #.  Warnen der Umgebung:
+            *"Achtung! Zurücktreten! Schockabgabe!"*
         #.  **Sicherungsblick**: Patient und Umgebung kontrollieren,
             Keiner darf den Patienten berühren!
         #.  Mittels Betätigen der ``Schock``-Taste
             (oft rot, oder mittels Blitz-Symbols gekennzeichnet)
             wird der Elektroschock ausgelöst werden.
             Achtung: Sicherungsblick muss bei Schockabgabe beibehalten werden!
-
-            Selbstverständlich darf auch während der
-            Schockabgabe kein Kontakt zum Patienten besteht.
-        #.  Herzdruckmassage fortführen.
+        #.  Kommando "*START!"*: Herzdruckmassage fortführen
 
     -   *"Kein Schock empfohlen"*:
-        Herzdruckmassage fortführen
+        Kommando "*START!"*: Herzdruckmassage fortführen
 
 
 
@@ -300,44 +304,39 @@ Verwendung eines manuellen Defibrillators
     .. sidebar:: Defibrillator, Verwendung
 
         -  Verwenden gem. Bedienungsanleitung!
-
         -  Positionierung
-
         -  Aufkleben der Elektroden
-
         -  Manueller Modus
-
         -  Anaylse: Alle 2  min bzw. 5 Zyklen durch kompetenten und befugten Helfer
 
         -  Energieauswahl:
 
             - Erwachsene Maximum,
-
             - Kinder 4  J  /  kg
 
         -  Synchronisation (“Sync”): Bei Vorhandenen Kammerkomplexen
-
         -  Schockabgabe
-
         -  Sicherheitshinweise
 
 Grundsätzlich ist jedes Gerät so zu verwenden wie es der Hersteller in
 der *Bedienungsanleitung* vorschreibt.
-
 Manuelle Defibrillatoren sind meist Bestandteil eines
-Multifunktionsgerätes, welches oft auch umfangreiche
+Multifunktionsgerätes,
+welches oft zusätzliche umfangreiche
 Überwachungsmöglichkeiten bietet.
 
 Therapieelektroden
-    Bei aktuellen Geräten werden für die Defibrillation **Klebeelektroden**
-    für die Defibrillation eingesetzt, wie sie auch bei (S)AEDs zum
-    Einsatz kommen. Alternativ, oder bei älteren Geräten auch
+    Grundsätzlich sollen aufgrund der besseren elektrischen Eigenschaftenm **Klebeelektroden**
+    verwendet werden,
+    wie sie auch bei (S)AEDs zum
+    Einsatz kommen.
+
+    Alternativ, oder bei älteren Geräten auch
     ausschließlich, können auch **Hardpaddles** verwendet
     werden. Diese bestehen aus 2 Elektroden als Aufsatzfläche und
     jeweils einem isolierten Haltegriff.
-
     Die Positionierung der
-    Elektroden am Körper des Patienten erfolgt wie bei den
+    Paddles am Körper des Patienten erfolgt wie bei den
     Klebeelektroden. Zusätzlich wird noch ein *Elektrodengel* benötigt,
     um den Leitungswiderstand herabzusetzen. Anders als in Filmen
     dargestellt, dürfen die Elektroden der Paddles keinesfalls
@@ -345,27 +344,26 @@ Therapieelektroden
     Ausserdem muss bei Verwendung von Paddles ein *Anpressdruck* von
     mind. 8 kg angewendet werden.
     Die Verwendung von Hardpaddles führt zu
-    schlechteren Ergebnissen und soll daher nur wenn nicht anders
+    **schlechteren Ergebnissen** und soll daher nur wenn nicht anders
     möglich erfolgen
     :cite:`Erc-2015-Section-03,Erc-2015-Sektion-03-De`\ .
 
-Manueller Modus
+Manueller Modus = manuelle Analyse
     Viele manuelle Defibrillatoren besitzen einen (S)AED-Modus, welcher
-    oft bei Starten des Geräts automatisch aktiviert ist. Bei Bedienung
-    durch Personal, welches das abgeleitete EKG interpretieren kann und
-    darf, ist es sinnvoll, in den manuellen Modus zu schalten, um die
-    Zeit für die Rhythmusanalyse möglichst kurz zu halten.
-
-Analyse
+    oft bei Starten des Geräts automatisch aktiviert ist.
+    Wenn möglich soll jedoch der manuelle Modus verwendet werden,
+    da dadurch die Zeit für die Analyse des Rhythmus
+    deutlich reduziert werden kann.
     Die Analyse erfolgt im manuellen Modus durch einen kompetenten und
     dazu befugten Helfer zum gleichen Zeitpunkt wie im (S)AED-Modus,
     also alle 2 min bzw. 5 Zyklen.
 
 Auswahl der Energie
     Im manuellen Modus ist die Auswahl der abzugebenden Energie möglich.
-    Bei Erwachsenen ist bei der Defibrillation der Maximalwert zu
-    verwenden, dieser ist je nach Gerät und Impulsform unterschiedlich.
-    Bei Kindern beträgt die Energie 4 J / kg Körpergewicht.
+    Bei Erwachsenen ist bei der Defibrillation in der Regel
+    der Maximalwert zu verwenden,
+    dieser ist je nach Gerät und Impulsform unterschiedlich.
+    Bei **Kindern** beträgt die Energie **4 J / kg** Körpergewicht.
 
 Synchronisation
     Bei vorhandenen Kammerkomplexen im EKG kann eine Schockabgabe zu
@@ -376,26 +374,13 @@ Synchronisation
     verfügen oft über eine Rhythmuserkennung und “*Auto-Sync*”-Funktion,
     hier entfällt die manuelle Einstellung.
 
-    -  Wird bei einem irregulären Rhythmus (Kammerflimmern) die
-       Sync-Funktion aktiviert, kann das Gerät keine Kammerkomplexe
-       erkennen und es erfolgt *keine* Schockabgabe!
+    .. warning::
 
-Schockabgabe
-    Vor der Schockabgabe hat sich der Helfer zu versichern, dass die
-    Umgebung und das Personal sicher ist und niemand den Patienten
-    berührt. Er hat dies auch laut kundzutun:
+        Wird bei einem irregulären Rhythmus (Kammerflimmern) die
+        Sync-Funktion aktiviert, kann das Gerät keine Kammerkomplexe
+        erkennen und es erfolgt *keine* Schockabgabe!
 
-    #. Kontrollblick auf das EKG: Hat sich der Rhythmus geändert, ist
-       der Rhythmus defibrillierbar?
 
-    #. *“Alle weg vom Patienten, wir schocken!”*
-
-    #. Sicherungsblick: Berührt keiner den Patienten? Ist die Umgebung
-       sicher (Nässe, Dämpfe, Sauerstoff vom Patienten entfernt, …)?
-
-    #. *“Achtung! Schock wird ausgelöst!”*
-
-    #. Auslösen des Schocks.
 
 
 
@@ -415,7 +400,7 @@ Schockabgabe
 
     Bei der Analyse und Schockabgabe darf niemand den Patienten berühren!
 
-.. figure:: /Bilder/WikipediaCcBySa/Semi_automatic_defi_with_electrodes.*
+.. figure:: /Bilder/WikipediaCcBySa/Semi_automatic_defi_with_electrodes.png
     :width: 99.9%
 
     Automatisierter Externer Defibrillator (AED) mit

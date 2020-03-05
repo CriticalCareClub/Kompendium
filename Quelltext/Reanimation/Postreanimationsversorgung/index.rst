@@ -16,48 +16,35 @@ Ende der Reanimation
 Der Helfer darf die Wiederbelebung beenden, wenn einer der drei
 angeführten Umstände (Abbruchkriterien) eintritt:
 
--  Eintreffen von *weiterer Hilfe*: Der Helfer kann bei Eintreffen
-   weiterer Hilfe durch diese abgelöst werden. I. d. R. trifft jedoch ein
-   Notarztteam ein, mit welchem die Reanimation zunächst gemeinsam
-   weitergeführt wird. Ein etwaiger Abbruch kann nur auf Anweisung des
-   Notarztes erfolgen.
-
--  *Wiedererlangung des Kreislaufes* (*ROSC*\ [149]_, :ref:`Thema-Rosc-Bls`):
-   Zeigt der Patient *eindeutige Lebenszeichen* (Erwachen, Husten,
-   Atmen) so wird die Reanimation vorläufig beendet. Es ist sofort eine
-   *Atemkontrolle* durchzuführen um sicherzustellen, dass die
-   Lebenszeichen richtig erkannt wurden. Ist eine normale Atmung
-   vorhanden, wird die Reanimation endgültig beendet. [150]_ Es ist der
-   Einschätzungsblock (:ref:`Thema-Einschaetzungsblock`) sowie die
-   Standardmaßnahmen bei vital bedrohten Patienten durchzuführen. Die
-   Sauerstoffgabe hat dabei einen |SpO2|\ -Zielwert von 94--98%.
-   *Erbrechen zählt *nicht* als Lebenszeichen*. 
-
--  *Erschöpfung*: Sollte ein Ersthelfer all seine Kräfte aufgebraucht
-   haben, wird gezwungener Maßen die Wiederbelebung ab- bzw.
-   unterbrochen. Medizinisches Fachpersonal wird nicht in eine derartige
-   Situation kommen, da weitere Hilfe eintreffen sollte bevor der
-   Erschöpfungszustand eintritt. Außerdem ist der Erschöpfung durch
-   Abwechseln bei der Durchführung der HDM und der Beatmung vorzubeugen.
-   Der Wechsel findet idealerweise nach jedem HDM-/Beatmungszyklus, d. h.
-   ca. alle 2 min, statt und darf zu keiner Verzögerung der HDM führen.
-
--  Eintreffen von weiterer Hilfe
-
--  Patient zeigt Lebenszeichen
-
-   -  Erbrechen ist *kein* Lebenszeichen
-
-   -  Standardmaßnahmen bei vital bedrohten Patienten
-
-   -  ausführliche Untersuchung und Fremdanamnese
-
--  (Erschöpfung)
+-   Eintreffen von **weiterer Hilfe**: Der Helfer kann bei Eintreffen
+    weiterer Hilfe durch diese abgelöst werden.
+-   **Wiedererlangung des Kreislaufes**
+    (*Return Of Spontaneous Circulation* (*ROSC*)):
+    Zeigt der Patient *eindeutige Lebenszeichen*
+    (Erwachen, Husten,  Atmen)
+    so wird die Reanimation vorläufig beendet.
+    Es ist sofort eine
+    *Atemkontrolle* durchzuführen um sicherzustellen, dass die
+    Lebenszeichen richtig erkannt wurden bzw. weiter bestehen.
+    Ist eine normale Atmung
+    vorhanden, wird die Reanimation endgültig beendet. [150]_
+    Es ist der :ref:`Einschätzungsblock <Thema-Einschaetzungsblock>` sowie die Standardmaßnahmen bei vital bedrohten Patienten durchzuführen.
+    Die Sauerstoffgabe hat dabei einen SpO₂-Zielwert von 94—98%.
+    *Erbrechen* ist *kein Lebenszeichen*.
+-   **Erschöpfung**:
+    Sollte ein Ersthelfer all seine Kräfte aufgebraucht
+    haben,
+    wird gezwungener Maßen die Wiederbelebung ab- bzw.
+    unterbrochen. Fachpersonal wird nicht in eine derartige
+    Situation kommen,
+    an eine Ablöse ist im Falle von protrahierter Reanimation rechtzeitig zu denken.
+    Außerdem ist der Erschöpfung durch
+    Abwechseln bei der Durchführung der HDM und der Beatmung vorzubeugen.
+    Der Wechsel findet idealerweise nach jedem HDM-/Beatmungszyklus, d. h.
+    ca. alle 2 min, statt und darf zu keiner Verzögerung der HDM führen.
+-   **Umgebung unsicher** und kann nicht (mehr) sicher gemacht werden
 
 
-
-.. [149]
-   *ROSC*: Return Of Spontaneous Circulation
 
 .. [150]
    Diese Form der Beendigung der Reanimation ist leider äußerst selten.
@@ -71,19 +58,14 @@ angeführten Umstände (Abbruchkriterien) eintritt:
 **Resumption of Spontaneous Circulation** (ROSC) und **Post-Resuscitation Care**
 ********************************************************************************
 
-- Re-Evaluation (1234-ABCDE) und Diagnostik
-
-- Ggfs. Narkose/Sedierung
-
-- Ggfs. Beatmung
-
-- Sauerstofftherapie
-
-- Temperaturmanagement
-
-- Verdachtsdiagnose
-
-- Auswahl eines geeigneten Transportziels
+..
+    - Re-Evaluation (1234-ABCDE) und Diagnostik
+    - Ggfs. Narkose/Sedierung
+    - Ggfs. Beatmung
+    - Sauerstofftherapie
+    - Temperaturmanagement
+    - Verdachtsdiagnose
+    - Auswahl eines geeigneten Transportziels
 
 
 
@@ -91,27 +73,51 @@ Wird bei der Reanimation der Kreislauf wiederhergestellt
 (:dfn:`ROSC`, :dfn:`Resumption Of Spontaneous Circulation`)
 ist die weitere Versorgung wichtig.
 
-Primär ist ein *Einschätzungsblock* (erneut) durchzuführen. Bezüglich
-der Sofortmaßnahmen gelten sinngemäß die *Standardmaßnahmen bei vital
-bedrohten Patienten*. Die Sauerstoffgabe hat einen |SpO2|-Zielbereich von
-**94--98%**. Ein zielgerichtetes *Temperaturmanagement* mit
-einer Zielkörpertemperatur im Bereich **32--36°C** ist wichtig.
-Eine höherer Körpertemperatur nach einer Reanimation ist schädlich.
+Primär ist eine **Patientenevaluation** (:ref:`Einschätzungsblock <Thema-Einschaetzungsblock>`) durchzuführen.
+Bezüglich der Sofortmaßnahmen gelten sinngemäß die *Standardmaßnahmen bei vital bedrohten Patienten*.
+Die Sauerstoffgabe hat einen |SpO2|-Zielbereich von
+**94--98%**.
+Besonders zu beachten ist:
 
-Die Ermittlung der *Ursache*, sofern möglich, bzw. einer
-Verdachtsdiagnose ist wichtig um die weitere Versorgung zu planen.
+-   ``A``: Ist der Atemweg (noch) sicher?
+    (Kapnometrie! Auskultation)
+-   ``B``: Hypo-/Hyperventilation (Kapnometrie!)
+    Oxygenation,
+    Sekundärverletzungen nach Reanimation (Spannungspneumothorax!)
+-   ``C``:
+    Großzügige Indikation für eine schnelle Traumauntersuchung (STU;
+    Denke an Sekundärverltzungen durch die Reanimation,
+    Blutungsquellen (Abdomen!))
+-   ``D``: Pupillen, Blutzucker
+-   ``E``: 12-Kanal-EKG!
+
+Die Ermittlung der **Ursache**, sofern möglich,
+bzw. einer Verdachtsdiagnose ist wichtig
+um die weitere Versorgung zu planen
+(*"Zwischen einem Herzkatheter
+und einem Neurochirurgen
+(oder Hämofiltrationsplatz, Schockraum, ...)
+liegen im besten Fall Stockwerke, im schlimmsten Fall Kilometer ..."*).
 Hevorzuheben ist die Notwendigkeit einer *Herzkatheteruntersuchung* nach
-einem Kreislaufstillstand mit vermutet kardialer Ursache.
+einem Kreislaufstillstand mit vermutet kardialer Ursache bzw.
+die Durchführung eines Schädel-CT bei möglicher cerebralem Geschehen (Blutung, Insult).
+
+Ein zielgerichtetes **Temperaturmanagement** ist wichtig.
+Hinsichtlich der therapeutischen Hypothermie gibt es
+unerschiedliche Ansichten,
+sodass die Etablierung selbiger den jeweils lokalen Gegebenheiten obliegt.
+Jedenfalls darf der Patient nicht hypertherm werden.
+Die Grundsätze des cerbroprotektiven Managements sollen situativ angemessen angewendet werden.
 
 Dem Post-Cardiac-Arrest-Syndrome sowie dessen Behandlung wird vermehrt
 Beachtung geschenkt. Strukturierte post-Resuscitation-Protokolle erhöhen
 die Überlebenswahrscheinlichtkeit und werden zunehmend implementiert.
 :cite:`Erc-2015-Sektion-05-De,Erc-2015-Section-05`
 
-  
+
 .. index::
     pair: Reanimation; Ende
-	    
+
 *********************************
 Ende und Abbruch der Reanimation
 *********************************

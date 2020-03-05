@@ -15,8 +15,8 @@ rettungsdienstlichen Reanimationen mit ungefähr 10% sehr gering
 
 Üblicherweise werden die Reanimationsmaßnahmen lose nach ihrer Invasivität
 un dem Anwender (Laie, nciht-ärztliches und ärztliches Fachpersonal)
-in *Basic*, *Intermediate* und *Advanced Life Support*, eventuell noch 
-nach der Altersgruppe (Erwachsene, Kinder, Neugeborene) unterschieden, 
+in *Basic*, *Intermediate* und *Advanced Life Support*, eventuell noch
+nach der Altersgruppe (Erwachsene, Kinder, Neugeborene) unterschieden,
 von dieser GLiederung möchten wir hier absehen und einen integrativen
 Ansatz wählen.
 Ausgehend von der Reanimation eines erwachsenen Patienten
@@ -42,13 +42,13 @@ Hintergrund: ERC-Leitlinien
 ***********************************************************************
 
 .. sidebar:: ERC
-	     
+
   -  Leitlinien zur Reanimation
 
   -  Aktualisierung alle 5 Jahre
 
   -  Aktuelle Version: 2015
-     
+
 Die für die Reanimation in Europa maßgebliche Fachgesellschaft
 ist das :dfn:`*European Resuscitation Council` (:dfn:`ERC`).
 Das ERC veröffentlicht alle fünf Jahre aktualisierte Guidelines zur Reanimation
@@ -69,13 +69,13 @@ die nächste Aktualisierung ist im Jahr 2020 zu erwarten.
 .. [318]
    *engl.* *Guideline*: Leit-, Richtlinie, Empfehlung
 
-Die ERC-Leitlinien werden im Journal *Resuscitation* publiziert  
+Die ERC-Leitlinien werden im Journal *Resuscitation* publiziert
 und können sowohl von der `Homepage des
 Journals <https://www.resuscitationjournal.com/>`_
-als auch der `ERC <https://erc.europa.eu/>`_ kostenlos 
-heruntergeladen werden. 
+als auch der `ERC <https://erc.europa.eu/>`_ kostenlos
+heruntergeladen werden.
 Eine deutsche Übersetzung ist auf den Homepages der deutschen und der
-österreichischen Fachgesellschaften verfügbar\ [319]_ 
+österreichischen Fachgesellschaften verfügbar\ [319]_
 :cite:`Erc-2015-Sektion-01-De,Erc-2015-Sektion-02-De,Erc-2015-Sektion-03-De,Erc-2015-Sektion-04-De,Erc-2015-Sektion-05-De,Erc-2015-Sektion-06-De,Erc-2015-Sektion-07-De,Erc-2015-Sektion-08-De,Erc-2015-Sektion-09-De,Erc-2015-Sektion-10-De,Erc-2015-Sektion-11-De`.
 
 
@@ -83,32 +83,32 @@ Eine deutsche Übersetzung ist auf den Homepages der deutschen und der
    *GRC*: *German Resuscitation Council*; *ARC*: *Austrian Resuscitation
    Council*
 
-Die ERC-Guidelines sind in nach Themen in elf Sektionen unterteilt:
+Die ERC-Guidelines sind nach Themen in elf Sektionen unterteilt:
 
-#.  Kurzdarstellung 
-    :cite:`Erc-2015-Sektion-01-De,Erc-2015-Section-01` 
+#.  Kurzdarstellung
+    :cite:`Erc-2015-Sektion-01-De,Erc-2015-Section-01`
 #.  Basismaßnahmen zur Wiederbelebung Erwachsener und Verwendung
     automatisierter externer Defibrillatoren
     :cite:`Erc-2015-Sektion-02-De,Erc-2015-Section-02`
 #.  Erweiterte Reanimationsmaßnahmen für Erwachsene
-    (*"Adult Advanced Life Support"*) 
+    (*"Adult Advanced Life Support"*)
     :cite:`Erc-2015-Sektion-03-De,Erc-2015-Section-03`
-#.  Kreislaufstillstand in besonderen Situationen 
+#.  Kreislaufstillstand in besonderen Situationen
     :cite:`Erc-2015-Sektion-04-De,Erc-2015-Section-04`
-#.  Postreanimationsbehandlung 
+#.  Postreanimationsbehandlung
     :cite:`Erc-2015-Sektion-05-De,Erc-2015-Section-05`
 #.  Lebensrettende Maßnahmen bei Kindern
-    (*"Paediatric Life Support"*)   
+    (*"Paediatric Life Support"*)
     :cite:`Erc-2015-Sektion-06-De,Erc-2015-Section-06`
-#.  Die Versorgung und Reanimation des Neugeborenen 
+#.  Die Versorgung und Reanimation des Neugeborenen
     :cite:`Erc-2015-Sektion-07-De,Erc-2015-Section-07`
-#.  Das initiale Management des akuten Koronarsyndroms 
+#.  Das initiale Management des akuten Koronarsyndroms
     :cite:`Erc-2015-Sektion-08-De,Erc-2015-Section-08`
-#.  Erste Hilfe 
+#.  Erste Hilfe
     :cite:`Erc-2015-Sektion-09-De,Erc-2015-Section-09`
-#.  Ausbildung und Implementierung der Reanimation 
+#.  Ausbildung und Implementierung der Reanimation
     :cite:`Erc-2015-Sektion-10-De,Erc-2015-Section-10`
-#.  Ethik der Reanimation und Entscheidungen am Lebensende 
+#.  Ethik der Reanimation und Entscheidungen am Lebensende
     :cite:`Erc-2015-Sektion-11-De,Erc-2015-Section-11`
 
 .. rubric:: Neu oder alt?
@@ -144,29 +144,29 @@ bisherigen Methoden unsicher oder ineffektiv sind* :cite:`Erc2010Sec1`\ .
 
 .. index::
     single: Reanimation; Säulen
-      
+
 **********************
 Säulen der Reanimation
 **********************
 
-Die aus dem Basic Life Support vekannten drei Säulen der Reanimation
-werden im Advanced Life Support um zwei weitere, nämlich die
-*"pharmakologische Standardtherapie"* und die *"kausale Therapie
-reversibler Ursachen"* ergänzt, somit ergeben sich folgende 5 Säulen:
+Die Reanimation besteht,
+je nach Anwendungslevel, aus drei bis sieben Säulen:
 
 Die Reanimationsbehandlung fußt auf sieben Säulen:
 
 -   **Erkennen** der Reanimationspflichtigkeit
--   **Mechanische** Therapie (Herzdruckmassage) zur Aufrechterhaltung eines
-    Minimalkreislaufes 
--   **Elektrotherapie** zur Normalisierung des Herzrhythmus, wenn indiziert
--   **Oxygenation**
+-   **Mechanische** Therapie (Herzdruckmassage)
+    zur Aufrechterhaltung eines
+    Minimalkreislaufes
+-   **Elektrotherapie**
+    zur Normalisierung des Herzrhythmus, wenn indiziert
+-   **Ventilation** zur Oxygenierung und Decarboxylierung
 -   **Pharmakologische** Therapie
 -   **Kausale** Therapie reversibler Ursachen
 -   **Postreanimationsversorgung**
 
 
-    
+
 
 
 .. subfigstart::
@@ -190,11 +190,11 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
             :width: 99.9%
 
             Defibrillation
-            
+
             [Lena Hirtler, MfG]
-   
+
 .. subfigend::
     :width: 0.3
     :label: Figure-BasisreanimationDreiKoenige
 
-    Die *drei Könige* der Basisreanimation 
+    Die *drei Könige* der Basisreanimation

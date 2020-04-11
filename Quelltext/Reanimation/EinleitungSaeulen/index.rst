@@ -14,9 +14,11 @@ rettungsdienstlichen Reanimationen mit ungefähr 10% sehr gering
 :cite:`Erc2010Sek01De`\ .
 
 Üblicherweise werden die Reanimationsmaßnahmen lose nach ihrer Invasivität
-un dem Anwender (Laie, nciht-ärztliches und ärztliches Fachpersonal)
-in *Basic*, *Intermediate* und *Advanced Life Support*, eventuell noch
-nach der Altersgruppe (Erwachsene, Kinder, Neugeborene) unterschieden,
+un dem Anwender (Laie, nicht-ärztliches und ärztliches Fachpersonal)
+in **Basic Life Support** (**BLS**)
+und **Advanced Life Support** (**ALS**),
+und nach der Altersgruppe
+(Erwachsene, Kinder, Neugeborene) unterschieden,
 von dieser GLiederung möchten wir hier absehen und einen integrativen
 Ansatz wählen.
 Ausgehend von der Reanimation eines erwachsenen Patienten
@@ -25,7 +27,7 @@ werden wir die Reanimation auf Basis der grundsätzlichen
 besprechen.
 Die Besonderheiten einzelner Patientengruppen (Kinder, Neugeborene)
 und die Notwendigen Abweichungen werden basierend darauf
-in eigenen Kapiteln besprochen.
+in eigenen Kapiteln behandelt.
 
 
 .. _Thema-Erc:

@@ -96,7 +96,7 @@ Totraumventilation und Schnappatmung
 Unter dem :dfn:`Totraum` versteht man den Teil der Atemwege der nicht am
 Gasaustausch teilnimmt.
 Er beträgt beim Erwachsenen
-ca. 150 ml. :cite:`KlinkePhysio3`
+ca. 150 ml. [KlinkePhysio3]_
 
 Bei der :dfn:`Totraumventilation`
 (*Syn.* *Totraumbelüftung*) ist das Atemzugvolumen so gering, dass die

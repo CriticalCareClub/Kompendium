@@ -9,9 +9,9 @@ Sphinx-Schummelzettel
 Allgemeines
 ===========
 
-reStructuredText (ReST, RST) ist eine vereinfachte Auszeichnungssprache 
+reStructuredText (ReST, RST) ist eine vereinfachte Auszeichnungssprache
 für Textdateien mit dem Ziel,
-in der reinen Textform besonders lesbar zu sein. 
+in der reinen Textform besonders lesbar zu sein.
 
 
 Absätze werden am linken Rand ausgerichtet und normalerweise durch Leerzeilen getrennt.
@@ -23,13 +23,13 @@ eine strukturelle Beduetung haben.
 ============================
 
 Titel sind mit speziellen Zeichen unterstrichen
-(oder über- und unterstrichen), 
-ähnlich wie bei einem Schreibmaschinentext. 
+(oder über- und unterstrichen),
+ähnlich wie bei einem Schreibmaschinentext.
 Möglich sind die Zeichen :literal:`= - : ' " ~ ^ _ * + # < >`.
 Welches Zeichen für welche Gliederungebene verwendet wird
 ist grundsätztlich egal
-und wird, 
-sofern über ein Dokument konsequent 
+und wird,
+sofern über ein Dokument konsequent
 das gleiche Zeichen für die gleiche Gliederungebene verwendet wird,
 von Sphinx automatisch erkannt.
 Empfohlen ist jedoch folgende Abfolge:
@@ -73,12 +73,12 @@ Einfache Formatierungen
    Hyperlink, http://www.criticalcareclub.at;
 
    named reference, reStructuredText_;
-   
+
    `anonymous reference`__;
-   
+
    footnote reference, [1]_;
-   
-   citation reference, [CIT2002]_;
+
+   citation reference,[CIT-2002]_;
 
    |substitution|; _`inline internal target`.
 
@@ -101,11 +101,11 @@ letzten Punkt erforderlich, optional zwischen den Elementen möglich.
     -   Dies ist Punkt 2
     -   Punkt 3 ist deutlich länger
 
-        Er umfasst auch einen zweiten Absatz, 
+        Er umfasst auch einen zweiten Absatz,
         welcher entsprechend eingerückt ist.
 
         -   Punkt 4 zeigt, dass man durch
-            Einrückung die Gliederungsebene 
+            Einrückung die Gliederungsebene
             beeinflussen kann.
 
 ergibt:
@@ -114,11 +114,11 @@ ergibt:
     -   Dies ist Punkt 2
     -   Punkt 3 ist deutlich länger
 
-        Er umfasst auch einen zweiten Absatz, 
+        Er umfasst auch einen zweiten Absatz,
         welcher entsprechend eingerückt ist.
 
         -   Punkt 4 zeigt, dass man durch
-            Einrückung die Gliederungsebene 
+            Einrückung die Gliederungsebene
             beeinflussen kann.
 
 Nummerierte Listen
@@ -215,7 +215,7 @@ Feldlisten ähneln Definitionlisten.
 
 
 =======================  ==============================================================
-Listenart                Beispiele                                               
+Listenart                Beispiele
 =======================  ==============================================================
 Nicht-mummerierte Liste  * items beginnt mit ``-``, ``+``, oder ``*``
 Nummerierte Liste        1. items: Variation von       ``1.``, ``A)``, und ``(i)``
@@ -248,8 +248,8 @@ Die Direktive lautet ``.. list-table:: <Tabellentitel>``,
         :stub-columns: 1
 
         *   -   Erste Spalte, erste Zeile
-            -   Zweite Spalte, erste Zeile 
-            -   noch immer die erste Zeile 
+            -   Zweite Spalte, erste Zeile
+            -   noch immer die erste Zeile
             -   und die letzte (4.)Spalte der 1. Zeile
         *   -   jetzt geht es in die 2. Zeile
             -   usw. (2/2)
@@ -266,8 +266,8 @@ Die Direktive lautet ``.. list-table:: <Tabellentitel>``,
     :stub-columns: 1
 
     *   -   Erste Spalte, erste Zeile
-        -   Zweite Spalte, erste Zeile 
-        -   noch immer die erste Zeile 
+        -   Zweite Spalte, erste Zeile
+        -   noch immer die erste Zeile
         -   und die letzte (4.)Spalte der 1. Zeile
     *   -   jetzt geht es in die 2. Zeile
         -   usw. (2/2)
@@ -281,12 +281,12 @@ Die Direktive lautet ``.. list-table:: <Tabellentitel>``,
 Tabelle mit Raster
 -------------------
 
-Raster-Tabellen sehen im Quelltext am schönsten aus, 
+Raster-Tabellen sehen im Quelltext am schönsten aus,
 sind aber schwieriger zu erstellen bzw. auszubessern.
 Allerdings ist hierbei das Zusammenführen von Zellen möglich.
 
 .. code-block:: none
-   
+
     +--------------------------------+-----------------------------------+
     | Ich bin eine Zelle             | Ich bin eine zusammengeführte     |
     |                                | Zelle (vertikal).                 |
@@ -341,11 +341,11 @@ Markup
 ------
 
 ===================  ================================================================
-Explicit Markup      Beispiele                                   
+Explicit Markup      Beispiele
 ===================  ================================================================
 Fußnote              ``.. [1] Manually numbered`` or ``[#] auto-numbered``
                      (even ``[#labelled]``) or ``[*] auto-symbol``
-Literaturzitat       ``.. [CIT2002] A citation.``
+Literaturzitat       ``.. [CIT-2002] A citation.``
 Hyperlink 1          ``.. _reStructuredText: http://docutils.sf.net/rst.html``
 2                    ``.. _indirect target: reStructuredText_``
 3                    ``.. _internal target:``
@@ -365,131 +365,131 @@ Direktiven
 Weitere Informationen: <http://docutils.sf.net/docs/ref/rst/directives.html>
 
 
-attention         
-    Specific admonition; also 
+attention
+    Specific admonition; also
 
-admonition        
+admonition
     Generische "Box"
 
     ::
 
         .. admonition:: Das ist ein Titel
 
-            Das ist der Text in der Box 
+            Das ist der Text in der Box
 
     .. admonition:: Das ist ein Titel
 
-        Das ist der Text in der Box 
-    
-    Neben der generischen Box gibt es spezielle Boxen: 
-    -   "caution", 
+        Das ist der Text in der Box
+
+    Neben der generischen Box gibt es spezielle Boxen:
+    -   "caution",
     -   "danger",
-    -   "error", 
-    -   "hint", 
-    -   "important", 
-    -   "note", 
-    -   "tip", 
+    -   "error",
+    -   "hint",
+    -   "important",
+    -   "note",
+    -   "tip",
     -   "warning"
 
     ::
 
-        .. danger:: 
+        .. danger::
 
-            Das ist eine Gefahr! 
+            Das ist eine Gefahr!
 
-    .. danger:: 
+    .. danger::
 
-        Das ist eine Gefahr! 
+        Das ist eine Gefahr!
 
 Bilder
 ======
 
-image             
+image
     ``.. image:: /Pfad/zu/dem/Bild.*``
 
-figure            
+figure
     Wie "image", aber mit (optionaler) Legende und Nummerierung
 
-topic             
+topic
     ``.. Thema-: Title``; like a mini section
 
-sidebar           
+sidebar
     ``.. sidebar:: Title``; like a mini parallel document
 
-parsed-literal    
+parsed-literal
     A literal block with parsed inline markup
 
-rubric            
+rubric
     ``.. rubric:: Informal Heading``
 
-epigraph          
+epigraph
     Block quote with class="epigraph"
 
-highlights        
+highlights
     Block quote with class="highlights"
 
-pull-quote        
+pull-quote
     Block quote with class="pull-quote"
 
-compound          
+compound
     Compound paragraphs [0.3.6]
 
-container         
+container
     Generic block-level container element [0.3.10]
 
-table             
+table
     Create a titled table [0.3.1]
 
-list-table        
+list-table
     Create a table from a uniform two-level bullet list [0.3.8]
 
-csv-table         
+csv-table
     Create a table from CSV data [0.3.4]
 
-contents          
+contents
     Generate a table of contents
 
-sectnum           
+sectnum
     Automatically number sections, subsections, etc.
 
-header, footer    
+header, footer
     Create document decorations [0.3.8]
 
-target-notes      
+target-notes
     Create an explicit footnote for each external target
 
-math              
+math
     Mathematical notation (input in LaTeX format)
 
-meta              
+meta
     HTML-specific metadata
 
-include           
+include
     Read an external reST file as if it were inline
 
-raw               
+raw
     Non-reST data passed untouched to the Writer
 
-replace           
+replace
     Replacement text for substitution definitions
 
-unicode           
+unicode
     Unicode character code conversion for substitution defs
 
-date              
+date
     Generates today's date; for substitution defs
 
-class             
+class
     Set a "class" attribute on the next element
 
-role              
+role
     Create a custom interpreted text role [0.3.2]
 
-default-role      
+default-role
     Set the default interpreted text role [0.3.10]
 
-title             
-    Set the metadata document title 
+title
+    Set the metadata document title
 
 
 

@@ -648,7 +648,7 @@ Basismaßnahmen
 
 
 
-:cite:`Aass-1.0var1,AassMk-2013var1,MA70-Protokoll-2012-10-11,AsboeLvWien-2013-01-29,Lang2012,Ma70-Ausrueckordnung-2012-01-24`
+[Aass-1.0var1]_ [AassMk--2013var1]_ [MA70-Protokoll-2012-10-11]_ [AsboeLvWien-2013-01-29]_ [Lang-2012]_ [Ma70-Ausrueckordnung-2012-01-24]_
 
 
 ******************************************************

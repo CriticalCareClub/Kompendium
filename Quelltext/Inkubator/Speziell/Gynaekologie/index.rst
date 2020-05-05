@@ -32,7 +32,7 @@ Fehlgeburt
 
 Ein :dfn:`Abort` :index:`\ <! Abort>` ist die
 Beendigung einer Schwangerschaft bzw. Fruchtabgang bei einem
-Kindesgewicht von unter 500 und fehlenden Lebenszeichen :cite:`HaagGyn2007,ForMed2`\ .
+Kindesgewicht von unter 500 und fehlenden Lebenszeichen [HaagGyn-2007]_ [ForMed2]_ \ .
 Aufgrund verschiedener Ursachen kann es zum Absterben der
 Frucht mit einer nachfolgenden Fehlgeburt (Ausstoßung) kommen. Wenn dies
 vor dem Erreichen von 500 geschieht, spricht man von einer *Fehlgeburt*.
@@ -64,7 +64,7 @@ Erreichen der 500-Grenze des Kindes vorkommen. [275]_
 .. [275]
    Nach dem Erreichen der 500 g-Marke spricht man von einer *Totgeburt*;
    für diese gelten z. T. andere rechtliche Rahmenbedingungen (Kind kann
-   einen Vornamen erhalten, Beurkundung im Sterbebuch, :cite:`ForMed2`).
+   einen Vornamen erhalten, Beurkundung im Sterbebuch, [ForMed2]_ ).
 
 
 
@@ -632,7 +632,7 @@ Maßnahmen: Versorgung des Neugeborenen
             zähflüssigem Mekonium beim schlaffen, avitalen
             Neugeborenen ist die einzige Situation, in der ein
             sofortiges Absaugen des Oropharynx zu erwägen ist.
-            ERC 2010:cite:`Erc2010Sek06De`
+            ERC 2010[Erc-2010Sek06De]_
 
     -   Atmung
 
@@ -640,7 +640,7 @@ Maßnahmen: Versorgung des Neugeborenen
         5 initiale Beatmungen
     -   Kreislauf: HF messen (durch Auskultation
         an der Herzspitze (nur geübtes Personal) oder an
-        *Oberarmarterie*) [#NeugeborenesPulsmessstelle]_. Wenn ein *geeignetes
+        *Oberarmarterie*)[#NeugeborenesPulsmessstelle]_. Wenn ein *geeignetes
         Pulsoxymeter* vorhanden ist, kann auch dieses verwendet werden.
 
 .. [#NeugeborenesPulsmessstelle]
@@ -653,7 +653,7 @@ Maßnahmen: Versorgung des Neugeborenen
     aber irreführend sein.
     Eine Beurteilung der Herzfrequenz
     allein über die Pulsation der Nabelschnur ist nur
-    zuverlässig, wenn die Herzfrequenz über 100\PerMin* liegt. :cite:`Erc2010Sek06De`
+    zuverlässig, wenn die Herzfrequenz über 100\PerMin* liegt. [Erc-2010Sek06De]_
 
     Bei Sanitätern, insbesondere der
     niedrigeren Ausbildungsstufen, kann nicht davon
@@ -738,7 +738,7 @@ Maßnahmen: Versorgung des Neugeborenen
     }
 
 
-:cite:`Erc2010Sek06De,AsboeLehrmeinungRd2011-19,AsboeLehrmeinungRd2011-18`\
+[Erc-2010Sek06De]_ [AsboeLehrmeinungRd2011-19]_ [AsboeLehrmeinungRd2011-18]_ \
 
 
 
@@ -832,7 +832,7 @@ Basismaßnahmen
     -   |TxMassVitMK|
 
 
-:cite:`Erc2010Sek06De`
+[Erc-2010Sek06De]_
 
 
 Peripartale Asphyxie
@@ -949,7 +949,7 @@ Basismaßnahmen
             Fritsch.
         -   Ggfs. Schockbekämpfung
 
-:cite:`MA70-Protokoll-2012-10-11`
+[MA70-Protokoll-2012-10-11]_
 
 
 Pathologische Geburtslagen
@@ -1108,7 +1108,7 @@ Basismaßnahmen
 
 .. rubric:: Literatur
 
-:cite:`HaagGyn2007,BuehlingGynaekologie1,OHCSP7,Nilsson1997`
+[HaagGyn-2007]_ [BuehlingGynaekologie1]_ [OHCSP7]_ [Nilsson-1997]_
 
 
 

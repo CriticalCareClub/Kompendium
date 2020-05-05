@@ -2210,7 +2210,7 @@ Basismaßnahmen
         (Verband)
     -   Transport in doppelwandigem
         Amputatsbeutel (Replant-Beutel) bei  einer Temperatur von
-        ca. 4° :cite:`BoehmerTaschRett6,Gorgass7,LPN3`.
+        ca. 4° [BoehmerTaschRett6]_ [Gorgass7]_ [LPN3]_ .
         Zwischen die beiden Schichten des Beutels gibt man Wasser
         mit Eis (im Verhältnis 1:1).
     -   Das Amputat darf auf keinen Fall einfrieren -- im
@@ -2219,7 +2219,7 @@ Basismaßnahmen
         vermieden werden!
     -   Ausgeschlagene Zähne sollten in einer geeigneten
         antiseptischen Flüssigkeit transportiert werden.
-        :cite:`BoehmerTaschRett6,Gorgass7`
+        [BoehmerTaschRett6]_ [Gorgass7]_
 
 
 Weitere Verletzungsbilder
@@ -2472,7 +2472,7 @@ Basismaßnahmen
         positiver Effekt der Kühlung nicht mehr zu erwarten.
         Bei mehreren Minuten zurückliegenden Verbrennungen
         ist eine Kühlung nicht mehr sinnvoll.
-        :cite:`Asanger2010,AsboeLehrmeinungRd2011-21`
+        [Asanger-2010]_ [AsboeLehrmeinungRd2011-21]_
         damit begonnen werden kann, für max. 10\Min* mit handwarmen
         Wasser die betroffenen Körperregionen spülen;
 
@@ -2481,7 +2481,7 @@ Basismaßnahmen
     -   **Abdeckung**:
         Sterile, nicht verklebende
         Wundauflagen; evtl. metalliserte Wundauflagen
-        :cite:`Helfen2008,RedelsteinerHRNS1`\ ; locker anlegen
+        [Helfen-2008]_ [RedelsteinerHRNS1]_ \ ; locker anlegen
     -   Ggfs. Schockbekämpfung
 
 
@@ -2504,11 +2504,11 @@ Basismaßnahmen
         Bei großflächigen Verbrennungen sollte der Patient
         nur primär abgelöscht werden.
         Es soll keine Kühlung der betroffenen Hautregionen erfolgen.
-        :cite:`Asanger2010`
+        [Asanger-2010]_
     -   **Abdeckung**:
         Sterile, nicht verklebende
         Wundauflagen, evtl. metalliserte Wundauflagen
-        :cite:`Helfen2008,RedelsteinerHRNS1`\ .
+        [Helfen-2008]_ [RedelsteinerHRNS1]_ \ .
         Der Nutzen  von kühlenden
         Spezialverbänden, z. B. Waterjel™ ist
         aufgrund  der Unterkühlungs-Gefahr und einer  möglichen
@@ -2519,7 +2519,7 @@ Basismaßnahmen
         Bei großflächigen Verbrennungen können,
         wenn das sterile Material nicht ausreicht,
         zur Not auch saubere Leintücher o. ä.
-        verwendet werden :cite:`emergency9,Asanger2010`\ .
+        verwendet werden [emergency9]_ [Asanger-2010]_ \ .
     -   Schockbekämpfung
     -   Kolloidale Infusionslösungen sind *kontraindiziert*
 

@@ -266,7 +266,7 @@ dazu zählen:
    Schlaganfallpatienten
 
 -  **Herzkatheterlabor**
-   (PTCA\ [176]_, PCI\ [177]_) für Herzinfarktpatienten
+   (PTCA\ [176]_]_[ PCI\ [177]_) für Herzinfarktpatienten
 
 -  **Schockraum**:
    Behandlungseinheit mit Vorrichtungen zur

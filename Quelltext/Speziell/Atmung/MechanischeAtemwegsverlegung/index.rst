@@ -48,7 +48,7 @@ einem Bienenstich).
 Man unterscheidet zwischen einer *milden* (der
 Patient kann noch sprechen und husten) und einer *schweren
 Atemwegsverlegung* (Sprechen und Husten nicht möglich)
-:cite:`Erc2005Sec2,Erc2005Sec6,Erc2005DeSec2,Erc2005DeSec6`.
+[Erc-2005Sec2]_ [Erc-2005Sec6]_ [Erc-2005DeSec2]_ [Erc-2005DeSec6]_ .
 
 .. note::
 
@@ -264,5 +264,5 @@ Durch Anwendung des Heimlich-Handgriffes kann es zu schweren inneren
 Verletzungen kommen. Ein Patient ist nach Anwendung unbedingt zu
 hospitalisieren!
 
-:cite:`Erc2005DeSec2`
+[Erc-2005DeSec2]_
 

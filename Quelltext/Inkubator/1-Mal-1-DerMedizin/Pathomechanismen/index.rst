@@ -242,7 +242,7 @@ Diese Therapien sind für den Körper sehr anstrengend und haben viele
 Nebenwirkungen, wie z. B. Haarausfall, Übelkeit, Erbrechen, *Schwächung
 des Immunsystems*, Nervenschäden u.v.a.m.
 
-Quellen: :cite:`UlfigHistologie1,GantenTumorerkr98,Uicc3`
+Quellen: [UlfigHistologie1]_ [GantenTumorerkr98]_ [Uicc3]_
 
 
 

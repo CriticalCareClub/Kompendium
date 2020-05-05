@@ -89,7 +89,7 @@ und Kreislaufstörungen.
     [`BruceBlaus <https://en.wikipedia.org/wiki/File:Urticaria.png>`_ //`Creative Commons Attribution-Share Alike 4.0 International <https://creativecommons.org/licenses/by-sa/4.0/deed.en>`_]
 
 Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
-:ref:`Tafel-AnaphylaxieStadien` :cite:`Ring1977`.
+:ref:`Tafel-AnaphylaxieStadien` [Ring-1977]_ .
 
 
 .. list-table:: Stadien der Anaphylaxie (nach Ring 1977)
@@ -229,7 +229,7 @@ Pharmakotherapie
 
         Wenig Evidenz,
         aber zusätzliche Anwendung empfohlen,
-        da kaum zu erwartende Nebenwirkungen\ :cite:`Winbery2002`.
+        da kaum zu erwartende Nebenwirkungen\ [Winbery-2002]_ .
 
 -   Glukokortikoide
 
@@ -250,7 +250,7 @@ Erniedrigung der Gefäßpermeabilität,
 Bronchodilatation
 und positive Inotropie am Herzen
 alle wichtigen Pathomechanismen der Anaphylaxie.
-Die Intramuskuläre Gabe ist die medikamentöse Therapie der ersten Wahl. [#ImGabe]_
+Die Intramuskuläre Gabe ist die medikamentöse Therapie der ersten Wahl.[#ImGabe]_
 
 .. [#ImGabe]
     Gegenüber der intravenösen Applikation ist das Risiko schwerer kardialer Nebenwirkungen erheblich geringer.
@@ -294,8 +294,8 @@ und wirken protrahierten bzw. biphasischen Reaktionen entgegen.
 Eine unspezifische membranstabilisierende Wirkung
 innerhalb von zehn bis 30 Minuten
 nach Zufuhr hoher Glukokortikoiddosen
-wird angenommen.\ :cite:`Ring2014`
+wird angenommen.\ [Ring-2014]_
 
 
 
-:cite:`Ring2014`
+[Ring-2014]_

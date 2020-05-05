@@ -121,10 +121,10 @@ sind.
 .. figure:: /Bilder/WikipediaCcBy/Human_skull_side_simplified_hirngesicht_de-edited.*
 
     Das Hirn im seitlichen Querschnitt
-    
-    [Patrick J. Lynch, medical illustrator, 
-    http://patricklynch.net; 
-    C. Carl Jaffe, MD, cardiologist; modifiziert; 
+
+    [Patrick J. Lynch, medical illustrator,
+    http://patricklynch.net;
+    C. Carl Jaffe, MD, cardiologist; modifiziert;
     CC-BY 2.5]
 
 Das Gehirn und das verlängerte Rückenmark
@@ -273,10 +273,10 @@ TERMINUS !!! *Liquor*. Die Schädelknochen und der Liquor bieten eine
 Schutzfunktion. Normalerweise hat der Liquor keinen Kontakt zur
 Außenwelt.
 
-.. figure:: /Bilder/WikipediaCcBy/Human_skull_front_simplified_bones_de-edited.* 
+.. figure:: /Bilder/WikipediaCcBy/Human_skull_front_simplified_bones_de-edited.*
 
     Querschnitt durch die Schädeldecke
-    
+
     [Gray’s Anatomy / Copyright expired]
 
 Tritt Liquor in die Umwelt aus, ist das ein Zeichen für eine schwerwiegende Verletzung.
@@ -303,11 +303,11 @@ Beschreibung
 
         -  Orientierung (qualitativ) → **D**
 
-.. admonition:: Defintion 
+.. admonition:: Defintion
 
     Bewusstsein ist ein Oberbegriff für u.a. Wachheit, Orientierung,
     Aufmerksamkeit, Auffassungsgabe, Denkverlauf und Merkfähigkeit
-    (Pschyrembel 2002). [211]_ 
+    (Pschyrembel 2002). [211]_
 
 Es ist eine grundlegende *Vitalfunktion
 erster Ordnung* und wichtig hinsichtlich des Schutzes des Menschen vor
@@ -336,9 +336,9 @@ Das Periphere Nervensystem (PNS)
 Beschreibung: PNS
 -----------------
 
-.. admonition:: Defintion 
+.. admonition:: Defintion
 
-    Unter dem Begriff :dfn:`Peripheres Nervensystem` 
+    Unter dem Begriff :dfn:`Peripheres Nervensystem`
     :index:`\ <! Peripheres Nervensystem>` fasst man
     die Verbindungsnerven zwischen dem ZNS und den Endorganen zusammen.
 
@@ -363,7 +363,7 @@ Leg’ dich auf die Herdplatte”*) und von den Organen zum ZNS
 Nervensystem gehören alle peripheren Nerven.
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.* 
+.. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.*
 
     Das zentrale Nervensystem (grau) und davon abgehende periphere
     Nerven (gelb)
@@ -425,16 +425,16 @@ vegetativen Nervensystems (:ref:`Thema-vegetatives-nervensystem`).
     (gelb) ab.
 
     *Lena Hirtler*
-            
+
 .. figure:: /Bilder/HirtlerLena-Ccc/WS_Aufbau.*
-            
+
     Lage in Bezug zur Wirbelsäule: Vom Rückenmark abgehende periphere
     Spinalnerven (gelb); Wirbel (grau) und Bandscheiben
     (türkis). Beachte dass die Nerven geordnet nach
     Rückenmarkssegmenten abgehen.
 
     *Lena Hirtler*
-    
+
 .. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.*
 
     Das zentrale Nervensystem (grau) und davon abgehende periphere
@@ -452,26 +452,26 @@ vegetativen Nervensystems (:ref:`Thema-vegetatives-nervensystem`).
 Das vegetative Nervensystem sorgt für die autonome Steuerung wichtiger Körperfunktionen
 ---------------------------------------------------------------------------------------
 
-.. index:: 
+.. index::
     single: ! Nervensystem;vegetatives -
 
 Beschreibung: Vegetatives Nervensystem
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. admonition:: Defintion 
+.. admonition:: Defintion
 
     Das :dfn:`vegetative Nervensystem`
     ist jener Teil des Nervensystems, welcher der Regelung der
     Vitalfunktionen dient und das Zusammenwirken der einzelnen Teile des
-    Körpers gewährleistet :cite:`Pschy259`.
+    Körpers gewährleistet [Pschy259]_ .
 
 .. sidebar:: Vegetatives Nervensystem
 
     -  Regelung der Vitalfunktionen
 
 Die :dfn:`Nervi splanchnici<Nn.!splanchnici>` sind die Nerven des
-vegetativen Nervensystems, 
-welche die inneren Organe versorgen.  
+vegetativen Nervensystems,
+welche die inneren Organe versorgen.
 Da die Abläufe weitgehend ohne
 bewusste Steuerung ablaufen wird es auch *autonomes* :index:`\ <Nervensystem!autonomes>` Nervensystem genannt. Es besteht u.a.
 aus zwei wichtigen Systemen: Dem **Sympathikus** :index:`\ <Sympathikus>` und dem **Parasympathikus** :index:`\ <Parasympathikus>`.
@@ -516,13 +516,13 @@ Körper in einen *Aktions-Modus* (Kampf-, Flucht-, Stressmodus): Dabei
 wird die Leistung jener Organsysteme, die dringend benötigt werden (z. B.
 Kreislauf, Atmung, ), gesteigert und gleichzeitig die Leistung jener
 Organsysteme, die weniger benötigt werden (z. B. das Verdauungssystem,
-Schmerzempfindung, …) zurückgefahren. Umgekehrt versetzt der 
+Schmerzempfindung, …) zurückgefahren. Umgekehrt versetzt der
 **Parasympathikus** den Körper in einen *Ruhemodus* und aktiviert
 Organsysteme wie z. B. die Verdauung.
 
 
 
-.. todo:: !!! TABELLE WEIT 
+.. todo:: !!! TABELLE WEIT
 
 
 
@@ -562,6 +562,6 @@ Organsysteme wie z. B. die Verdauung.
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.*
 
-    “Fight or flight, rest and digest.” 
-    
+    “Fight or flight, rest and digest.”
+
     [Lena Hirtler / MfG]

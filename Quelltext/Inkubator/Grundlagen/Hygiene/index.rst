@@ -476,7 +476,7 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 Maßnahmen
 ---------
 
-[m:mrsa-transport][proc:IU81001C]
+[m:mrsa-transport][proc:IU-81001C]
 
 -  Informationen über MRSA-Trägerschaft sowie Art/Ort der
    MRSA-Besiedelung
@@ -1134,7 +1134,7 @@ Maßnahmen
 
 [m:nadelstichverletzung]
 
-Basierend auf :cite:`OeAG2007`
+Basierend auf [OeAG-2007]_
 
 -  Erstmaßnahmen durchführen:
 

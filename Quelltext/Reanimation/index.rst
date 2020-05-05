@@ -19,7 +19,7 @@ Reanimation
 
 .. toctree::
     :maxdepth: 1
-               
+
     EinleitungSaeulen/index
     Erkennen/index
     MechanischeTherapie/index
@@ -49,12 +49,12 @@ Reanimation
 
 .. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.*
 
-        ALS-Algorithmus [Emhofer, nach Soar, Nolan, et al. 2015b]
+        ALS-Algorithmus [Emhofer, nach Soar, Nolan, et al. -2015b]
 
 
 :download:`/Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.pdf`
 
-ALS-Algorithmus [Emhofer, nach Soar, Nolan, et al. 2015b]
+ALS-Algorithmus [Emhofer, nach Soar, Nolan, et al. -2015b]
 
 
 .. rubric:: Literatur
@@ -62,26 +62,26 @@ ALS-Algorithmus [Emhofer, nach Soar, Nolan, et al. 2015b]
 Homepage Des European Resuscitation Council (Erc): https://erc.europa.eu/
 
 Homepage Des Journals Resuscitation: https://www.resuscitationjournal.com/
-  
+
 ERC-Guidelines, englische Originalfassung:
 
-  :cite:`Erc-2015-Section-01,Erc-2015-Section-02,Erc-2015-Section-03,Erc-2015-Section-04,Erc-2015-Section-05,Erc-2015-Section-06,Erc-2015-Section-07,Erc-2015-Section-08,Erc-2015-Section-09,Erc-2015-Section-10,Erc-2015-Section-11`
+  [Erc-2015-Section-01]_ [Erc-2015-Section-02]_ [Erc-2015-Section-03]_ [Erc-2015-Section-04]_ [Erc-2015-Section-05]_ [Erc-2015-Section-06]_ [Erc-2015-Section-07]_ [Erc-2015-Section-08]_ [Erc-2015-Section-09]_ [Erc-2015-Section-10]_ [Erc-2015-Section-11]_
 
 ERC-Guidelines, deutsche Übersetzung:
 
-  :cite:`Erc-2015-Sektion-01-De,Erc-2015-Sektion-02-De,Erc-2015-Sektion-03-De,Erc-2015-Sektion-04-De,Erc-2015-Sektion-05-De,Erc-2015-Sektion-06-De,Erc-2015-Sektion-07-De,Erc-2015-Sektion-08-De,Erc-2015-Sektion-09-De,Erc-2015-Sektion-10-De,Erc-2015-Sektion-11-De`
+  [Erc-2015-Sektion-01-De]_ [Erc-2015-Sektion-02-De]_ [Erc-2015-Sektion-03-De]_ [Erc-2015-Sektion-04-De]_ [Erc-2015-Sektion-05-De]_ [Erc-2015-Sektion-06-De]_ [Erc-2015-Sektion-07-De]_ [Erc-2015-Sektion-08-De]_ [Erc-2015-Sektion-09-De]_ [Erc-2015-Sektion-10-De]_ [Erc-2015-Sektion-11-De]_
 
 
 .. _Fig-Als:
-  
+
 .. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.*
 
         ALS Der ALS-Algorithmus [Emhofer, nach
-        :cite:`Erc-2015-Section-03`\ ]
+        [Erc-2015-Section-03]_ \ ]
 
 :download:`/Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.pdf`
 
-ALS Der ALS-Algorithmus [Emhofer, nach :cite:`Erc-2015-Section-03`\ ]
+ALS Der ALS-Algorithmus[Emhofer]_ [ nach  [Erc-2015-Section-03]_ \ ]
 
 
 ***********
@@ -92,7 +92,7 @@ Infektionen
    Die Ansteckungsgefahr mit Krankheiten im Rahmen einer Reanimation ist
    sehr gering. Es wurden noch keine Infektionen mit schwerwiegenden
    Erkrankungen wie HIV oder Hepatitis C während einer Basisreanimation
-   beschrieben. :cite:`Erc2010Sec2`
+   beschrieben. [Erc-2010Sec2]_
 
 Probleme bei der HDM während des Defi-Ladevorganges
    In den ERC-Leitlinien von 2010 wird erstmals empfohlen, die
@@ -110,4 +110,4 @@ Probleme bei der HDM während des Defi-Ladevorganges
    bzw. Geräten mit alter Software ist dies unter Umständen nicht
    möglich, da bei diesen die Interferenzen durch die
    Thoraxkompressionen als Bewegungsartefakt interpretiert und der
-   Ladevorgang abgebrochen wird. 
+   Ladevorgang abgebrochen wird.

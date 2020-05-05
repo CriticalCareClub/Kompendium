@@ -25,7 +25,7 @@ Mageninhaltes gelegt werden kann (Magendrainagekanal).
 Trotz korrekter Anwendung kann es aufgrund von
 Leckagen zur Magenüberblähung kommen, daher sollen unbedingt, wenn
 verfügbar, nur Modelle mit einem Magendrainagekanal eingesetzt werden.
-:cite:`Dengler2011,Mann2013`
+[Dengler-2011]_ [Mann-2013]_
 
 
 

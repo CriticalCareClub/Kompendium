@@ -112,7 +112,7 @@ Die Grundsätze des cerbroprotektiven Managements sollen situativ angemessen ang
 Dem Post-Cardiac-Arrest-Syndrome sowie dessen Behandlung wird vermehrt
 Beachtung geschenkt. Strukturierte post-Resuscitation-Protokolle erhöhen
 die Überlebenswahrscheinlichtkeit und werden zunehmend implementiert.
-:cite:`Erc-2015-Sektion-05-De,Erc-2015-Section-05`
+[Erc-2015-Sektion-05-De]_ [Erc-2015-Section-05]_
 
 
 .. index::
@@ -124,18 +124,18 @@ Ende und Abbruch der Reanimation
 
 In ca. 70--95% der Fälle ist der Reanimationsversuch
 erfolglos und der Patient verstirbt
-:cite:`StriebelAnaesthesie2-Band2,Erc2005DeSec8`\ .
+[StriebelAnaesthesie2-Band2]_ [Erc-2005DeSec8]_ \ .
 Grundsätzlich wird eine Reanimation fortgesetzt, solange
 yein Kammerflimmern oder ein ähnlicher Rhythmus vorliegt. Es ist
 weitgehend akzeptiert, eine Reanimation abzubrechen, wenn trotz aller
 ALS-Maßnahmen und Fehlen von reversiblen Ursachen für 20 Minuten eine
 Asystolie besteht
-:cite:`Erc2010Sec10,Bonnin1993,StriebelAnaesthesie2-Band2`.
+[Erc-2010Sec10]_ [Bonnin-1993]_ [StriebelAnaesthesie2-Band2]_ .
 Gewisse Bedingungen, etwa eine Hypothermie zum
 Zeitpunkt des Kreislaufstillstands, steigern die Chancen der Wieder-
 herstellung ohne neurologische Schäden, sodass normale Prognosekriterien
 (z. B. eine über 20min andauernde Asystolie) nicht anwendbar sind.
-:cite:`Erc2005DeSec8`
+[Erc-2005DeSec8]_
 
 Abgesehen von den rein medizinischen Faktoren, welche vor allem den zu
 erwartenden Reanimationserfolg im Blick haben, gibt es auch noch andere

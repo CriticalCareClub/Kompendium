@@ -239,7 +239,7 @@ bleibender schwerer Atemnot bzw. Status asthmaticus
     auftreten (CO2-Narkose)! Siehe :ref:`Thema-Copd`.
     Bei sorgfältiger Überwachung des
     Patienten stellt die -Gabe in der Praxis jedoch kein Problem dar
-    :cite:`ScholzNotfallmedizin2`\ .
+    [ScholzNotfallmedizin2]_ \ .
 
     O₂ bis eine Sauerstoffsättigung von 94-98% erreicht ist, oder 8 L / min.
     Die einschlägige Literatur ist widersprüchlich.

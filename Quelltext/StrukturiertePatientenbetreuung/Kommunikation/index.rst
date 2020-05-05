@@ -47,7 +47,7 @@ begegnet werden. Ziele der Kommunikation sind:
 -  *Aufklärung* des Patienten: Jeder Patient ist vor Durchführung einer
    Untersuchung oder Maßnahme über diese aufzuklären. Das *Recht auf
    Aufklärung* ist nach der *Grundrechtecharta* der EU ein
-   *Grundrecht*\ [#Fn-AufklaerungGrundrechtEu]_.
+   *Grundrecht*\[#Fn-AufklaerungGrundrechtEu]_.
 
    Vor allem ist es aber eine Frage des Respekts gegenüber dem Patienten
    ihm zu sagen, was man an und mit *seinem* Körper macht:
@@ -159,7 +159,7 @@ kontrollieren, ob und wie er die Botschaft verstanden hat.
 Aussagen einer Nachricht
 ========================
 
-Jede Nachricht hat vier Aussagen [#Fn-VierAussagenEinerNachricht]_:
+Jede Nachricht hat vier Aussagen[#Fn-VierAussagenEinerNachricht]_:
 
 -  *Sachaussage*: Hier vermittelt der Sender Daten, Fakten und
    Sachverhalte.
@@ -260,7 +260,7 @@ gekennzeichnet:
 
 -  *Deutlichkeit und Einfachheit*: Eine deutliche und einfache
    Ausdrucksweise ist besonders wichtig um Missverständnisse zu
-   vermeiden und schnell zur gewünschten Information zu kommen. [#Fn-PatientHoerhilfen]_
+   vermeiden und schnell zur gewünschten Information zu kommen.[#Fn-PatientHoerhilfen]_
    Fachbegriffe sind zu vermeiden!
 
 -  *Aktives Zuhören*: Die Antworten des Patienten müssen bei Helfer

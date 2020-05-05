@@ -113,7 +113,7 @@ werden:
 -  Chronische Wunden
 
 
-.. index:: 
+.. index::
     single: Schürfwunde
     single: Schnittwunde
     single: Vulnus; scissum
@@ -212,7 +212,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
     :width: 99%
 
     Glatte Wundränder und eigentlich ganz unauffällig:
-    Die Stichwunde. 
+    Die Stichwunde.
 
     *Hauer*
 
@@ -242,17 +242,17 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
 .. figure:: /Bilder/HauerDavid-Ccc/burn-chem02.*
     :width: 99%
-    
+
     Verätzung
-    
+
     *Hauer*
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-02-hand.*
     :width: 99%
-    
-    Ablederung nach schwerer Verbrennung 
-    
-    *Hauer*	    
+
+    Ablederung nach schwerer Verbrennung
+
+    *Hauer*
 
 .. subfigend::
     :width: 0.23
@@ -314,7 +314,7 @@ Beschreibung
 ============
 
 Die Wundversorgung orientiert sich an der Wundart sowie an der Stärke
-der Blutung. 
+der Blutung.
 Der professionelle Helfer muss neben den Erste-Hilfe-Maßnahmen zusätzlich
 Prioritäten bzgl. der optimalen Vorgehensweise setzen, die vitale
 Bedrohung durch Flüssigkeitsmangel (durch Blutverlust oder
@@ -346,7 +346,7 @@ Basismaßnahmen
         steriler (NaCl 0,9%) von innen nach außen.
         Bei oberflächlichen
         Wunden ist auch ein Abspülen unter fließendem Leitungswasser
-        zulässig :cite:`Fernandez2012`\ .
+        zulässig [Fernandez-2012]_ \ .
         Wunden, die im Spital
         weiter versorgt werden, sollen nicht übermäßig gereinigt werden,
         auch soll keine
@@ -358,7 +358,7 @@ Basismaßnahmen
         Desinfektion mittels Wunddesinfektionsmittels ist aufgrund der
         toxischen Wirkung auf das Gewebe nicht
         mehr standardmäßig empfohlen.
-        :cite:`Fernandez2012,Franz2012,Schupp2009,Marquardt2010`
+        [Fernandez-2012]_ [Franz-2012]_ [Schupp-2009]_ [Marquardt-2010]_
     -   **Fremdkörper**
         (Messer, Schere oder sonstige Pfählungsgegenstände) sind
         **in der Wunde zu belassen**!
@@ -605,10 +605,10 @@ werden und eine individuelle Lösung gefunden werden.
 
 .. figure:: /Bilder/WikipediaPd/Escarre_Stade_4_detail.*
     :width: 99%
-    
+
     Dekubitus Grad 4
-    
-    *WMC/PD* 
+
+    *WMC/PD*
 
 !!! LITERARY !!! *Exzellentes, umfassendes Werk über die Wundbehandlung,
 nicht nur für die Pflege:* (Vasel-Biergans and Probst 2011)

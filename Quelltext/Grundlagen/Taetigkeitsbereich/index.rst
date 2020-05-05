@@ -200,7 +200,7 @@ ergeben und z.T. gar nicht gesetzlich geregelt sind.
 
 In letzter Zeit kommt es auch zu einem Einfluss privater, meist
 kommerzieller, internationaler Ausbildungsprogramme wie z.B. AMLS [6]_,
-ITLS [7]_, PHTLS [8]_ etc. Deren Lehrinhalte sind meist auf den
+ITLS [7]_]_[ PHTLS [8]_ etc. Deren Lehrinhalte sind meist auf den
 Kompetenzbereich von Paramedics [9]_ ausgelegt, und reizen Grenzen
 dessen, was allgemein als Aufgaben der Sanitäter angesehen wird,
 weitgehend aus, oder überschreiten diese. Diesbezüglich kommt es immer

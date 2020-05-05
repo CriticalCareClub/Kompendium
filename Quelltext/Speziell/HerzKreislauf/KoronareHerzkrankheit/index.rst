@@ -18,13 +18,9 @@ Koronare Herzkrankheit
     :maxdepth: 1
 
 
-Erkrankungen der Herzkrankzgefäße
-
-Beschreibung
-============
 
 ..
-    .. sidebar:: Beschreibung
+    .. sidebar:: Koronare Herzkrankheit
 
         -   Erkrankung der Herzkranzgefäße → Verengung
 

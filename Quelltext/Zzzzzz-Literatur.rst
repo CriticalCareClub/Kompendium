@@ -224,7 +224,7 @@ Literaturverzeichnis
 	Wings Books.
 
 .. [Alberts:2001]
-	Alberts, B., D. Bray, A. Johnson, J. Lewis, M. Raff, K. Roberts, and P. Walter, eds.:
+	Alberts, B., D. Bray, A. Johnson, J. Lewis, M. Raff, K. Roberts und P. Walter (HG)::
 	**Lehrbuch Der Molekularen Zellbiologie**.
 	2001.
 	Wiley-VCH.
@@ -255,7 +255,7 @@ Literaturverzeichnis
 
 .. [Beneker:2004]
 
-	Beneker, J., and D. Martens:
+	Beneker, J. und D. Martens:
 	**Die Präklinische Versorgung von Verbrennungspatienten.**
 	*Intensivmedizin Und Notfallmedizin*
 	2004:41(8), 543–54.
@@ -321,9 +321,10 @@ Literaturverzeichnis
 
 .. [Buchfelder:4]
 
-	Buchfelder, Michael, and Albert Buchfelder:
+	Buchfelder, Michael und Albert Buchfelder:
     **Handbuch Der Ersten Hilfe.**
-    4. Auflage, 2006.
+
+	4. Auflage, 2006.
     Schattauer.
 
 
@@ -333,7 +334,7 @@ Literaturverzeichnis
 
 .. [Classen:5]
 
-	Classen, M., V. Diehl, K. Kochsiek, W. E. Berdel, M. Böhm, and W. Schmiegel (HG):
+	Classen, M., V. Diehl, K. Kochsiek, W. E. Berdel, M. Böhm und W. Schmiegel (HG):
 	**Innere Medizin.**
 	5. Auflage, 2004.
 	Urban & Fischer.
@@ -357,7 +358,7 @@ Literaturverzeichnis
 
 
 .. [Erc-2010Sek05De]
-	Arntz, H.-R., L.L. Bossaert, N. Danchin, and N. Nicolau:
+	Arntz, H.-R., L.L. Bossaert, N. Danchin und N. Nicolau:
 	**Initiales Management Des Akuten Koronarsyndroms – Sektion 5 Der Leitlinien Zur Reanimation 2010 Des European Resuscitation Council.**
 	*Notfall + Rettungsmedizin*,
 	2010:13(7), 621–34.
@@ -431,7 +432,7 @@ Literaturverzeichnis
 
 
 .. [Huch:6]
-	Huch, Renate, and Klaus D. Jürgens (HG):
+	Huch, Renate und Klaus D. Jürgens (HG):
 	**Mensch Körper Krankheit.
 	Anatomie, Physiologie, Krankheitsbilder. Lehrbuch Und Atlas Für Die
 	Berufe Im Gesundheitswesen.**
@@ -480,7 +481,7 @@ Literaturverzeichnis
 .. rubric:: K
 
 .. [Kaindl:7]
-	Kaindl, F., and P. Kühn:
+	Kaindl, F. und P. Kühn:
 	**Elektro-Komiko-Graphie.**
 	7. Auflage, 1997.
 	Maudrich.
@@ -493,7 +494,7 @@ Literaturverzeichnis
 	2006:113(20), 2398–2405.
 
 .. [Kamolz:2009]
-	Kamolz, Lars-Peter, David N. Herndon, and Marc G. Jeschke:
+	Kamolz, Lars-Peter, David N. Herndon und Marc G. Jeschke:
 	**Verbrennungen: Diagnose, Therapie Und Rehabilitation Des Thermischen Traumas.**
 	1. Auflage,2009.
 	Springer, Wien.
@@ -511,12 +512,12 @@ Literaturverzeichnis
 	2009:32(12), 1172–7.
 
 .. [Karutz:1]
-	Karutz, Harald, and Manfred Buttlar:
+	Karutz, Harald und Manfred Buttlar:
 	**Kursbuch Erste Hilfe.**
 	2008. Deutscher Taschenbuch Verlag.
 
 .. [Kayser:10]
-	Kayser, Fritz H., Kurt A. Bienz, Johannes Eckert, and Rolf M. Zinkernagel:
+	Kayser, Fritz H., Kurt A. Bienz, Johannes Eckert und Rolf M. Zinkernagel:
 	**Medizinische Mikrobiologie**.
 	10. Auflage, 2001.
 	Thieme.
@@ -546,13 +547,13 @@ Literaturverzeichnis
 	2012:35(8).
 
 .. [Kramer:1]
-	Kramer, Axel, and Ojan Assadian (HG):
+	Kramer, Axel und Ojan Assadian (HG):
 	**Wallhäußers Praxis Der Sterilisation, Desinfektion, Antiseptik Und Konservierung.**
 	1. Auflage, 2008.
 	Thieme.
 
 .. [Kramer:KHH:1]
-	Kramer, Heeg, and Botzenhart (HG):
+	Kramer, Heeg und Botzenhart (HG):
 	**Krankenhaus- und Praxishygiene.**
 	1. Auflage, 2001.
 	Urban & Fischer.
@@ -599,7 +600,7 @@ Literaturverzeichnis
 	Elsevier.
 
 .. [Leohnhardt:2003]
-	Leonhardt, Helmut, Bernhard Tillmann, Gian Tondury, and Karl Zilles (HG):
+	Leonhardt, Helmut, Bernhard Tillmann, Gian Tondury und Karl Zilles (HG):
 	**Anatomie Des Menschen — Bd. 1: Bewegungsapparat.**
 	3. Auflage, 2003.
 	Thieme.
@@ -611,6 +612,18 @@ Literaturverzeichnis
 	Allgemeine Unfallversicheurngsanstalt Wien (AUVA).
 	http://www.auva.at/mediaDB/704539_Lateinische_Diagnose.pdf.
 
+
+.. [Loeffler:7]
+	Löffler und Petrides (HG):
+	**Biochemie & Pathobiochemie.**
+	7. Auflage, 2003.
+	Springer.
+
+.. [Longmore:7]
+	Longmore, Murray, Ian Wilkinson, Tom Turmezei, Chee Kay Cheung, and Emma Smith:
+	**Oxford Handbook of Clinical Medicine.**
+	7. Auflage,  2007.
+	Oxford University Press.
 
 
 
@@ -640,6 +653,15 @@ Literaturverzeichnis
 
 .. rubric:: Y
 
+.. [Yerkes:1908]
+	Yerkes, R.M., and J.D Dodson:
+	**The Relation of Strength of Stimulus to Rapidity of Habit-Formation.**
+	*Journal of Comparative Neurology and Psychology*
+	1908:18, 459–82.
+
+
+
+
 .. rubric:: Z
 
 
@@ -651,7 +673,9 @@ Literaturverzeichnis
 
 
 .. [BattegayHandwPsych:2]
-	Battegay, Raymond, ed. 1992. *Handwörterbuch Der Psychiatrie*. 2nd ed.
+	Battegay, Raymond, ed:
+	1992.*Handwörterbuch Der Psychiatrie*.
+	2. Auflage,
 	Ferdinand Enke Verlag.
 
 
@@ -660,8 +684,10 @@ Literaturverzeichnis
 
 
 .. [BengelPsyNotfallmedRd2-PsyBelRdPers]
-	Bengel, J., and M. Heinrichs. 2004. In *Psychologie in Notfallmedizin
-	Und Rettungsdienst*, edited by J. Bengel, 2nd ed., 25–43. Springer.
+	Bengel, J. und M. Heinrichs:
+	2004.In *Psychologie in Notfallmedizin
+	Und Rettungsdienst*, edited by J. Bengel,
+	2. Auflage, , 25–43. Springer.
 
 
 
@@ -670,8 +696,10 @@ Literaturverzeichnis
 
 
 .. [BengelPsyNotfallmedRd:2]
-	Bengel, J., ed. 2004. *Psychologie in Notfallmedizin Und
-	Rettungsdienst*. 2nd ed. Springer.
+	Bengel, J., ed:
+	2004.*Psychologie in Notfallmedizin Und
+	Rettungsdienst*.
+	2. Auflage,  Springer.
 
 
 
@@ -689,8 +717,10 @@ Literaturverzeichnis
 .. [BERN:12]
 
 	Bernhard, M., S. Mohr, M. A. Weigand, E. Martin, and A. Walther. 2012.
-	“Developing the Skill of Endotracheal Intubation: Implication for
-	Emergency Medicine.” *Acta Anaesthesiol Scand* 56 (2). Department of
+
+	**Developing the Skill of Endotracheal Intubation: Implication for
+	Emergency Medicine.**
+	*Acta Anaesthesiol Scand* 56 (2). Department of
 	Anaesthesiology, University Hospital of Heidelberg, Germany.
 	michelbernhard@gmx.de: 164–71.
 	doi:\ `10.1111/j.1399-6576.2011.02547.x <https://doi.org/10.1111/j.1399-6576.2011.02547.x>`__.
@@ -704,7 +734,8 @@ Literaturverzeichnis
 .. [Erc-2010Sek06De]
 
 	Biarent, D., R. Bingham, C. Eich, J. López-Herce, I. Maconochie, A.
-	Rodríguez-Núñez, T. Rajka, and D. Zideman. 2010a. “Lebensrettende
+	Rodríguez-Núñez, T. Rajka und D. Zideman. 2010a.
+	**Lebensrettende
 	Maßnahmen Bei Kindern („Paediatric Life Support“) – Sektion 6 Der
 	Leitlinien Zur Reanimation 2010 Des European Resuscitation Council.”
 	*Notfall + Rettungsmedizin* 13 (7). Springer Berlin / Heidelberg:
@@ -722,8 +753,10 @@ Literaturverzeichnis
 
 	Biarent, Dominique, Robert Bingham, Christoph Eich, Jesús López-Herce,
 	Ian Maconochie, Antonio Rodríguez-Núñez, Thomas Rajka, and David
-	Zideman. 2010b. “European Resuscitation Council Guidelines for
-	Resuscitation 2010 Section 6. Paediatric Life Support.” *Resuscitation*
+	Zideman. 2010b.
+	**European Resuscitation Council Guidelines for
+	Resuscitation 2010 Section 6. Paediatric Life Support.**
+	*Resuscitation*
 	81 (10). Paediatric Intensive Care, Hôpital Universitaire des Enfants,
 	15 av JJ Crocq, Brussels, Belgium. dominique.biarent@huderf.be: 1364–88.
 	doi:\ `10.1016/j.resuscitation.2010.08.012 <https://doi.org/10.1016/j.resuscitation.2010.08.012>`__.
@@ -734,8 +767,10 @@ Literaturverzeichnis
 
 .. [BatesUntersuchung:1]
 
-	Bickley, Lynn S., Robert A. Hoekelman, Elizabeth H. Naumburg, and Joyce
-	Beebe Thompson. 2000. *Bates’ Großes Untersuchungsbuch*. 1st ed. Thieme.
+	Bickley, Lynn S., Robert A. Hoekelman, Elizabeth H. Naumburg und Joyce
+	Beebe Thompson:
+	2000.*Bates’ Großes Untersuchungsbuch*.
+	1. Auflage,  Thieme.
 
 
 .. [youtube:VaginalChildbirth]
@@ -766,14 +801,16 @@ Literaturverzeichnis
 .. [FamPropAeGruFert:2011]
 
 	Blacky, Alexander, Magda Diab-El Schahawi, Sebastian Gabriel, Walter
-	Koller, Martin Lischka, and Michael Schmidts. 2011. *Ärztliche
+	Koller, Martin Lischka und Michael Schmidts:
+	2011.*Ärztliche
 	Grundfertigkeiten*. Skills Line 2. Department für medizinische Aus- und
 	Weiterbildung, Medizinische Universität Wien.
 
 
 .. [FamPropAeGruFert:2012]
 
-	———. 2012. *Ärztliche Grundfertigkeiten*. Skills Line 2. Department für
+	———:
+	2012.*Ärztliche Grundfertigkeiten*. Skills Line 2. Department für
 	medizinische Aus- und Weiterbildung, Medizinische Universität Wien.
 
 
@@ -783,8 +820,10 @@ Literaturverzeichnis
 
 	Bossaert, L.L., G.D. Perkins, H. Askitopoulou, V.I. Raffay, R. Greif,
 	K.L. Haywood, S.D. Mentzelopoulos, J.P. Nolan, P. Van de Voorde, and
-	T.T. Xanthos. 2015a. “Ethik Der Reanimation Und Entscheidungen Am
-	Lebensende.” *Notfall + Rettungsmedizin* 18 (8). Springer Berlin
+	T.T. Xanthos. 2015a.
+	**Ethik Der Reanimation Und Entscheidungen Am
+	Lebensende.**
+	*Notfall + Rettungsmedizin* 18 (8). Springer Berlin
 	Heidelberg: 1035–47.
 	doi:\ `10.1007/s10049-015-0083-z <https://doi.org/10.1007/s10049-015-0083-z>`__.
 
@@ -793,9 +832,11 @@ Literaturverzeichnis
 
 	Bossaert, Leo L., Gavin D. Perkins, Helen Askitopoulou, Violetta I.
 	Raffay, Robert Greif, Kirstie L. Haywood, Spyros D. Mentzelopoulos, et
-	al. 2015b. “European Resuscitation Council Guidelines for Resuscitation
+	al. 2015b.
+	**European Resuscitation Council Guidelines for Resuscitation
 	2015: Section 11. the Ethics of Resuscitation and End-of-Life
-	Decisions.” *Resuscitation* 95 (October). University of Oslo, Oslo
+	Decisions.**
+	*Resuscitation* 95 (October). University of Oslo, Oslo
 	University Hospital Ulleval, Oslo, Norway.: 302–11.
 	doi:\ `10.1016/j.resuscitation.2015.07.033 <https://doi.org/10.1016/j.resuscitation.2015.07.033>`__.
 
@@ -809,8 +850,10 @@ Literaturverzeichnis
 
 .. [Buehling:2004]
 
-	Bühling, Kaim Joachim, and Wolfgang Friedmann, eds. 2004. *Intensivkurs
-	Gynäkologie Und Geburtshilfe*. 1st ed. Urban & Fischer.
+	Bühling, Kaim Joachim und Wolfgang Friedmann, eds:
+	*Intensivkurs
+	Gynäkologie Und Geburtshilfe*.
+	1. Auflage, 2004. Urban & Fischer.
 
 
 
@@ -820,8 +863,10 @@ Literaturverzeichnis
 
 .. [BmgEbolaFalldefinition:20141028]
 
-	Bundesministerium für Gesundheit. 2014a. “EU-Falldefinition Einer
-	Ebola-Viruserkrankung (Ebola Virus Disease - Evd).” Bundesministerium
+	Bundesministerium für Gesundheit. 2014a.
+	**EU-Falldefinition Einer
+	Ebola-Viruserkrankung (Ebola Virus Disease - Evd).**
+	Bundesministerium
 	für Gesundheit; online. October.
 	http://www.bmg.gv.at/cms/home/attachments/8/5/4/CH1082/CMS1412756859685/fall_definition_ebola.pdf.
 
@@ -845,7 +890,8 @@ Literaturverzeichnis
 
 .. [BMG-92250_0080-II_A_2010_2010-12-15]
 
-	———. n.d. “RICHTIGSTELLUNG-Einsatz Des Larynxtubus Durch Angehörige Der
+	———. n.d.
+	**RICHTIGSTELLUNG-Einsatz Des Larynxtubus Durch Angehörige Der
 	Nichtärztlichen Gesundheitsberufe Im Rahmen Der Lebensrettenden
 	Sofortmaßnahmen.”
 
@@ -897,8 +943,10 @@ Literaturverzeichnis
 
 .. [AsboeLehrmeinungRd2011-20]
 
-	———. n.d. “Lehrmeinung Nr. 20/2011: Geburt Und Dammschutz Im
-	Rettungsdienst.” Lehrmeinung. Hollergasse 2-6, A-1150 Wien:
+	———. n.d.
+	**Lehrmeinung Nr. 20/2011: Geburt Und Dammschutz Im
+	Rettungsdienst.**
+	Lehrmeinung. Hollergasse 2-6, A-1150 Wien:
 	Bundesschulung; Arbeiter-Samariter-Bund Österreichs Bundesverband;
 	Rundschreiben, online.
 
@@ -910,8 +958,10 @@ Literaturverzeichnis
 
 .. [Burisch:1994]
 
-	Burisch, M. 1994. *Das Burnout-Syndrom – Theorie Der Inneren
-	Erschöpfung*. 2nd ed. Springer.
+	Burisch, M:
+	1994.*Das Burnout-Syndrom – Theorie Der Inneren
+	Erschöpfung*.
+	2. Auflage,  Springer.
 
 
 
@@ -921,7 +971,8 @@ Literaturverzeichnis
 
 .. [Burisch:2006]
 
-	———. 2006. *Das Burnout-Syndrom – Theorie Der Inneren Erschöpfung*. 3rd
+	———:
+	2006.*Das Burnout-Syndrom – Theorie Der Inneren Erschöpfung*. 3rd
 	ed. Springer.
 
 
@@ -932,7 +983,9 @@ Literaturverzeichnis
 
 .. [ITLS:6:De]
 
-	Campbell, John E., ed. 2010. *Präklinische Traumatologie*. 6th ed.
+	Campbell, John E., ed:
+	2010.*Präklinische Traumatologie*.
+	6. Auflage,
 	Pearson Studium.
 
 
@@ -944,7 +997,8 @@ Literaturverzeichnis
 .. [JNC7Report]
 
 	Chobanian, Aram V, George L Bakris, Henry R Black, William C Cushman,
-	Lee A Green, Joseph L Izzo, Daniel W Jones, et al. 2003. “The Seventh
+	Lee A Green, Joseph L Izzo, Daniel W Jones, et al. 2003.
+	**The Seventh
 	Report of the Joint National Committee on Prevention, Detection,
 	Evaluation, and Treatment of High Blood Pressure: The Jnc 7 Report.”
 	*JAMA* 289 (19). Department of Medicine, Boston University School of
@@ -983,7 +1037,7 @@ Literaturverzeichnis
 
 .. [OHCSP:7]
 
-	Collier, Judith, and Murray Longmore ans Mark Brinsden, eds. 2006.
+	Collier, Judith, and Murray Longmore ans Mark Brinsden (HG): 2006.
 	*Oxford Handbook of Clinical Specialties*. 7th ed. Oxford University
 	Press.
 
@@ -998,8 +1052,10 @@ Literaturverzeichnis
 	Cutler, Jennifer, Emily Schleihauf, Todd F Hatchette, Bev Billard,
 	Gaynor Watson-Creed, Ross Davidson, Yan Li, Nathalie Bastien, Shelly
 	Sarwal, and Nova Scotia Human Swine Influenza Investigation Team. 2009.
-	“Investigation of the First Cases of Human-to-Human Infection with the
-	New Swine-Origin Influenza a (H1n1) Virus in Canada.” *CMAJ* 181 (3-4).
+
+	**Investigation of the First Cases of Human-to-Human Infection with the
+	New Swine-Origin Influenza a (H1n1) Virus in Canada.**
+	*CMAJ* 181 (3-4).
 	Canadian Field Epidemiology Program, Public Health Agency of Canada,
 	Ottawa, Ont.: 159–63.
 	doi:\ `10.1503/cmaj.090859 <https://doi.org/10.1503/cmaj.090859>`__.
@@ -1012,8 +1068,10 @@ Literaturverzeichnis
 
 .. [DahmerGespraechsfuehrung:5]
 
-	Dahmer, Hella, and Jürgen Dahmer. 2003. *Gesprächsführung – Eine
-	Praktische Anleitung*. 5th ed. Thieme.
+	Dahmer, Hella und Jürgen Dahmer:
+	2003.*Gesprächsführung – Eine
+	Praktische Anleitung*.
+	5. Auflage,  Thieme.
 
 
 
@@ -1023,7 +1081,9 @@ Literaturverzeichnis
 
 .. [DahmerAnamneseBefund:10]
 
-	Dahmer, Jürgen. 2006. *Anamnese Und Befund*. 10th ed. Thieme.
+	Dahmer, Jürgen:
+	2006.*Anamnese Und Befund*.
+	10. Auflage,  Thieme.
 
 
 
@@ -1033,7 +1093,8 @@ Literaturverzeichnis
 
 .. [AMLS:3]
 
-	Dalton, Alice, Daniel Limmer, and Joseph J. Mistovich. 2006. *Advanced
+	Dalton, Alice, Daniel Limmer, and Joseph J. Mistovich:
+	2006.*Advanced
 	Medical Life Support: A Practical Approach to Adult Medical
 	Emergencies*. 3rd ed. Prentice Hall.
 
@@ -1045,7 +1106,8 @@ Literaturverzeichnis
 
 .. [DavisonKlinPsy:1988]
 
-	Davison, G. C., and J. M. Neale, eds. 1988. *Klinische Psychologie*.
+	Davison, G. C. und J. M. Neale, eds:
+	1988.*Klinische Psychologie*.
 	PVU.
 
 
@@ -1056,10 +1118,12 @@ Literaturverzeichnis
 
 .. [Erc-2005DeSec3]
 
-	Deakin, C. D., and J. P. Nolan. 2006. “Elektrische Therapie:
+	Deakin, C. D. und J. P. Nolan. 2006.
+	**Elektrische Therapie:
 	Automatisierte Externe Defibrillatoren, Defibrillation, Kardioversion
 	Und Schrittmachertherapie – Abschnitt 3 Der Leitlinien Zur Reanimation
-	2005 Des European Resuscitation Council.” *Notfall + Rettungsmedizin* 9:
+	2005 Des European Resuscitation Council.**
+	*Notfall + Rettungsmedizin* 9:
 	26–37.
 	doi:\ `10.1007/s10049-006-0793-3 <https://doi.org/10.1007/s10049-006-0793-3>`__.
 
@@ -1072,9 +1136,11 @@ Literaturverzeichnis
 .. [Erc-2010Sek04De]
 
 	Deakin, C.D., J.P. Nolan, J. Soar, K. Sunde, R.W. Koster, G.B. Smith,
-	and G.D. Perkins. 2010. “Erweiterte Reanimationsmaßnahmen Für Erwachsene
+	and G.D. Perkins. 2010.
+	**Erweiterte Reanimationsmaßnahmen Für Erwachsene
 	(„Advanced Life Support“) – Sektion 4 Der Leitlinien Zur Reanimation
-	2010 Des European Resuscitation Council.” *Notfall + Rettungsmedizin* 13
+	2010 Des European Resuscitation Council.**
+	*Notfall + Rettungsmedizin* 13
 	(7). Springer Berlin / Heidelberg: 559–620.
 	http://dx.doi.org/10.1007/s10049-010-1370-3.
 
@@ -1086,8 +1152,9 @@ Literaturverzeichnis
 
 .. [Erc-2010Sek03De]
 
-	Deakin, C.D., J.P. Nolan, K. Sunde, and R.W. Koster. 2010.
-	“Elektrotherapie: Automatisierte Externe Defibrillatoren,
+	Deakin, C.D., J.P. Nolan, K. Sunde und R.W. Koster. 2010.
+
+	**Elektrotherapie: Automatisierte Externe Defibrillatoren,
 	Defibrillation, Kardioversion Und Schrittmachertherapie – Sektion 3 Der
 	Leitlinien Zur Reanimation 2010 Des European Resuscitation Council.”
 	*Notfall + Rettungsmedizin* 13 (7). Springer Berlin / Heidelberg:
@@ -1102,9 +1169,11 @@ Literaturverzeichnis
 .. [Erc-2005Sec3]
 
 	Deakin, Charles D, Jerry P Nolan, and European Resuscitation Council.
-	2005. “European Resuscitation Council Guidelines for Resuscitation 2005.
+	2005.
+	**European Resuscitation Council Guidelines for Resuscitation 2005.
 	Section 3. Electrical Therapies: Automated External Defibrillators,
-	Defibrillation, Cardioversion and Pacing.” *Resuscitation* 67 Suppl 1
+	Defibrillation, Cardioversion and Pacing.**
+	*Resuscitation* 67 Suppl 1
 	(December): S25–S37.
 
 
@@ -1116,9 +1185,11 @@ Literaturverzeichnis
 .. [Erc-2010Sec4]
 
 	Deakin, Charles D, Jerry P Nolan, Jasmeet Soar, Kjetil Sunde, Rudolph W
-	Koster, Gary B Smith, and Gavin D Perkins. 2010. “European Resuscitation
+	Koster, Gary B Smith, and Gavin D Perkins. 2010.
+	**European Resuscitation
 	Council Guidelines for Resuscitation 2010 Section 4. Adult Advanced Life
-	Support.” *Resuscitation* 81 (10). Cardiothoracic Anaesthesia,
+	Support.**
+	*Resuscitation* 81 (10). Cardiothoracic Anaesthesia,
 	Southampton General Hospital, Southampton, UK.
 	charlesdeakin@doctors.org.uk: 1305–52.
 	doi:\ `10.1016/j.resuscitation.2010.08.017 <https://doi.org/10.1016/j.resuscitation.2010.08.017>`__.
@@ -1132,9 +1203,11 @@ Literaturverzeichnis
 .. [Erc-2010Sec3]
 
 	Deakin, Charles D, Jerry P Nolan, Kjetil Sunde, and Rudolph W Koster.
-	2010. “European Resuscitation Council Guidelines for Resuscitation 2010
+	2010.
+	**European Resuscitation Council Guidelines for Resuscitation 2010
 	Section 3. Electrical Therapies: Automated External Defibrillators,
-	Defibrillation, Cardioversion and Pacing.” *Resuscitation* 81 (10).
+	Defibrillation, Cardioversion and Pacing.**
+	*Resuscitation* 81 (10).
 	Southampton University Hospital NHS Trust, Southampton, UK.
 	charlesdeakin@doctors.org.uk: 1293–1304.
 	doi:\ `10.1016/j.resuscitation.2010.08.008 <https://doi.org/10.1016/j.resuscitation.2010.08.008>`__.
@@ -1148,7 +1221,8 @@ Literaturverzeichnis
 .. [Dengler:2011]
 
 	Dengler, V., P. Wilde, C. Byhahn, M. G. Mack, and R. Schalk. 2011.
-	“[Prehospital Airway Management of Laryngeal Tubes. Should the Laryngeal
+
+	**[Prehospital Airway Management of Laryngeal Tubes. Should the Laryngeal
 	Tube S with Gastric Drain Tube Be Preferred in Emergency Medicine?].”
 	*Anaesthesist* 60 (2). Klinik für Anästhesiologie, Intensivmedizin und
 	Schmerztherapie, Klinikum der J.W. Goethe-Universität Frankfurt a.M.,
@@ -1164,7 +1238,8 @@ Literaturverzeichnis
 .. [ICD10-De-2011]
 
 	Deutsches Institut für Medizinische Information und Dokumentation. 2011.
-	“Internationale Statistische Klassifikation Der Krankheiten Und
+
+	**Internationale Statistische Klassifikation Der Krankheiten Und
 	Verwandter Gesundheitsprobleme.”
 
 
@@ -1175,9 +1250,10 @@ Literaturverzeichnis
 
 .. [Harrisons18DeKap230]
 
-	Dietel, Manfred, Norbert Suttorp, and Martin Zeitz, eds. 2012a.
+	Dietel, Manfred, Norbert Suttorp und Martin Zeitz (HG): 2012a.
 	**Diagnostische Herzkatheterisierung Und Koronarangiografie.** In
-	*Harrisons Innere Medizin*, 18th ed., 2:1988–94. ABW
+	*Harrisons Innere Medizin*,
+	18. Auflage, , 2:1988–94. ABW
 	Wissenschaftsverlag.
 
 
@@ -1188,7 +1264,8 @@ Literaturverzeichnis
 
 .. [Harrisons18De]
 
-	———, eds. 2012b. *Harrisons Innere Medizin*. 18th ed. 3 vols. ABW
+	———  (HG): 2012b. *Harrisons Innere Medizin*.
+	18. Auflage,  3 vols. ABW
 	Wissenschaftsverlag.
 
 
@@ -1199,9 +1276,12 @@ Literaturverzeichnis
 
 .. [Harrisons18DeKap244]
 
-	———, eds. 2012c. “Instabile Angina Pectoris Und
-	Nicht-St-Streckenhebungsinfarkt.” In *Harrisons Innere Medizin*,
-	translated by Martin Möckel, 18th ed., 2:2159–75. ABW
+	———  (HG): 2012c.
+	**Instabile Angina Pectoris Und
+	Nicht-St-Streckenhebungsinfarkt.**
+	In *Harrisons Innere Medizin*,
+	translated by Martin Möckel,
+	18. Auflage, , 2:2159–75. ABW
 	Wissenschaftsverlag.
 
 
@@ -1212,9 +1292,10 @@ Literaturverzeichnis
 
 .. [Harrisons18DeKap243]
 
-	———, eds. 2012d.
+	———  (HG): 2012d.
 	**Ischämische Herzkrankheit.** In *Harrisons Innere
-	Medizin*, translated by Stephan Rosenkranz, 18th ed., 2:2141–58. ABW
+	Medizin*, translated by Stephan Rosenkranz,
+	18. Auflage, , 2:2141–58. ABW
 	Wissenschaftsverlag.
 
 
@@ -1225,8 +1306,11 @@ Literaturverzeichnis
 
 .. [Harrisons18DeKap246]
 
-	———, eds. 2012e. “Perkutane Koronare Intervention Und Andere
-	Interventionelle Verfahren.” In *Harrisons Innere Medizin*, 18th ed.,
+	———  (HG): 2012e.
+	**Perkutane Koronare Intervention Und Andere
+	Interventionelle Verfahren.**
+	In *Harrisons Innere Medizin*,
+	18. Auflage, ,
 	2:2191–7. ABW Wissenschaftsverlag.
 
 
@@ -1237,9 +1321,10 @@ Literaturverzeichnis
 
 .. [Harrisons18DeKap245]
 
-	———, eds. 2012f.
+	———  (HG): 2012f.
 	**ST-Streckenhebungsinfarkt (Stemi).** In *Harrisons
-	Innere Medizin*, translated by Martin Möckel, 18th ed., 2:2176–90. ABW
+	Innere Medizin*, translated by Martin Möckel,
+	18. Auflage, , 2:2176–90. ABW
 	Wissenschaftsverlag.
 
 
@@ -1250,8 +1335,10 @@ Literaturverzeichnis
 
 .. [EKG-Knacker2]
 
-	Dietz, Thomas G., and Marcus P. Schubert. 2007. *Der Ekg-Knacker. Das
-	Notfall-Ekg-Buch*. 2nd ed. de Gruyter.
+	Dietz, Thomas G. und Marcus P. Schubert:
+	2007.*Der Ekg-Knacker. Das
+	Notfall-Ekg-Buch*.
+	2. Auflage,  de Gruyter.
 
 
 
@@ -1261,8 +1348,9 @@ Literaturverzeichnis
 
 .. [FrielingLehrbArbeitspsy:2]
 
-	E., Frieling, and Sonntag Kh., eds. 1999. *Lehrbuch Arbeitspsychologie*.
-	2nd ed. Huber.
+	E., Frieling und Sonntag Kh., eds:
+	1999.*Lehrbuch Arbeitspsychologie*.
+	2. Auflage,  Huber.
 
 
 
@@ -1272,8 +1360,10 @@ Literaturverzeichnis
 
 .. [SiewertChirurgie8-06-Gefaesschirurgie]
 
-	Eckstein, H.-H., P. Heider, O. Wolf, and M. Hanke. 2006. In *Chirurgie*,
-	edited by Rüdiger Siewert, 8th ed., 434–92. Springer-Verlag.
+	Eckstein, H.-H., P. Heider, O. Wolf und M. Hanke:
+	2006.In *Chirurgie*,
+	edited by Rüdiger Siewert,
+	8. Auflage, , 434–92. Springer-Verlag.
 
 
 
@@ -1297,8 +1387,10 @@ Literaturverzeichnis
 .. [Eisenburger:2008]
 
 	Eisenburger, P., C. Havel, F. Sterz, T. Uray, A. Zeiner, M. Haugk, H.
-	Losert, A. N. Laggner, and H. Herkner. 2008. “Transport with Ongoing
-	Cardiopulmonary Resuscitation May Not Be Futile.” *Br J Anaesth* 101
+	Losert, A. N. Laggner, and H. Herkner. 2008.
+	**Transport with Ongoing
+	Cardiopulmonary Resuscitation May Not Be Futile.**
+	*Br J Anaesth* 101
 	(4). Department of Emergency Medicine, Medical University of Vienna,
 	Waehringer Guertel 18-20/6D, A-1090 Vienna, Austria.: 518–22.
 	doi:\ `10.1093/bja/aen209 <https://doi.org/10.1093/bja/aen209>`__.
@@ -1321,8 +1413,10 @@ Literaturverzeichnis
 
 .. [Enne:2012]
 
-	Enne, Andreas. 2012. “Notkompetenzen in "Osterreich: Der Aktuelle Stand
-	Zehn Jahre Nach Einführung Des Sanitätergesetzes.” *Rettungsdienst* 35
+	Enne, Andreas. 2012.
+	**Notkompetenzen in "Osterreich: Der Aktuelle Stand
+	Zehn Jahre Nach Einführung Des Sanitätergesetzes.**
+	*Rettungsdienst* 35
 	(7): 43–45.
 
 
@@ -1333,8 +1427,9 @@ Literaturverzeichnis
 
 .. [DRAn:3]
 
-	Esch, Schulte am, Bause, Kochs, Scholz, Standl, and Werner. 2007.
-	*Anästhesie - Intensivmedizin, Notfallmedizin, Schmerztherapie*. 3rd ed.
+	Esch, Schulte am, Bause, Kochs, Scholz, Standl und Werner. 2007.
+	*Anästhesie - Intensivmedizin, Notfallmedizin, Schmerztherapie*.
+	3. Auflage,
 	Duale Reihe. Thieme-Verlag.
 
 
@@ -1369,7 +1464,8 @@ Literaturverzeichnis
 
 .. [Ficklscherer:2005]
 
-	Ficklscherer, Andreas. 2005. *Basics Orthopädie Und Traumatologie*. 1st
+	Ficklscherer, Andreas:
+	2005.*Basics Orthopädie Und Traumatologie*. 1st
 	ed. Urban & Fischer Bei Elsevier.
 
 
@@ -1380,8 +1476,10 @@ Literaturverzeichnis
 
 .. [ArbeitstechnikenAZ:1]
 
-	Flake, Frank, and Klaus Runggaldier, eds. 2008. *Arbeitstechniken a-Z
-	Für Den Rettungsdienst – Bildatlas Rettungsdienst*. 1st ed. Elsevier.
+	Flake, Frank und Klaus Runggaldier, eds:
+	2008.*Arbeitstechniken a-Z
+	Für Den Rettungsdienst – Bildatlas Rettungsdienst*.
+	1. Auflage,  Elsevier.
 
 
 
@@ -1391,8 +1489,10 @@ Literaturverzeichnis
 
 .. [FlammAngewandteHygiene:4]
 
-	Flamm, Heinz, and Manfred Rotter, eds. 1999. *Angewandte Hygiene in
-	Krankenhaus Und Arztpraxis*. 4th ed. Verlag Wilhelm Maudrich.
+	Flamm, Heinz und Manfred Rotter, eds:
+	1999.*Angewandte Hygiene in
+	Krankenhaus Und Arztpraxis*.
+	4. Auflage,  Verlag Wilhelm Maudrich.
 
 
 
@@ -1402,8 +1502,10 @@ Literaturverzeichnis
 
 .. [ForthPharma:8]
 
-	Forth, Henschler, Rummel, Förstermann, and Starke. 2001. *Allgemeine Und
-	Spezielle Pharmakologie Und Toxikologie*. 8th ed. Urban & Fischer.
+	Forth, Henschler, Rummel, Förstermann und Starke:
+	2001.*Allgemeine Und
+	Spezielle Pharmakologie Und Toxikologie*.
+	8. Auflage,  Urban & Fischer.
 
 
 
@@ -1439,7 +1541,7 @@ Literaturverzeichnis
 .. [FamPropAeGeFue:2010]
 
 	Frischenschlager, Oskar, Ingeborg Pucher-Matzner, Michael Schmidts,
-	Andrea Weghofer, Sebastian Gabriel, and Gabriele Mayerhofer. 2010.
+	Andrea Weghofer, Sebastian Gabriel und Gabriele Mayerhofer. 2010.
 	*Ärztliche Gesprächsführung, Teil a: Das Erstgespräch*. Skills Line 2.
 	DEMAW; online; Medizinische Universität Wien, Department für Mediznische
 	Aus- und Weiterbildung.
@@ -1452,7 +1554,9 @@ Literaturverzeichnis
 
 .. [InnereMedQuick:3]
 
-	Furger, Philippe, ed. 2011. *Innere Medizin Quick*. 3rd ed. Thieme.
+	Furger, Philippe, ed:
+	2011.*Innere Medizin Quick*.
+	3. Auflage,  Thieme.
 
 
 
@@ -1462,8 +1566,10 @@ Literaturverzeichnis
 
 .. [Silbernagl3-Kreislaufsystem]
 
-	Gaehtgens, P. 2001. In *Lehrbuch Der Physiologie*, edited by R Klinke
-	and St Silbernagl, 3rd ed., 145–88. Thieme-Verlag.
+	Gaehtgens, P:
+	2001.In *Lehrbuch Der Physiologie*, edited by R Klinke
+	and St Silbernagl,
+	3. Auflage, , 145–88. Thieme-Verlag.
 
 
 
@@ -1473,8 +1579,10 @@ Literaturverzeichnis
 
 .. [Gallaher:2009]
 
-	Gallaher, William R. 2009. “Towards a Sane and Rational Approach to
-	Management of Influenza H1n1 2009.” *Virol J* 6. Department of
+	Gallaher, William R. 2009.
+	**Towards a Sane and Rational Approach to
+	Management of Influenza H1n1 2009.**
+	*Virol J* 6. Department of
 	Microbiology, Immunology; Parasitology, Louisiana State University
 	Health Sciences Center, 1901 Perdido Street, New Orleans, Louisiana
 	70112, USA. billg35445@yahoo.com: 51.
@@ -1488,7 +1596,8 @@ Literaturverzeichnis
 
 .. [GantenMolGrund:97]
 
-	Ganten, Detlev, and Klaus Ruckpaul, eds. 1997. *Molekular- Und
+	Ganten, Detlev und Klaus Ruckpaul, eds:
+	1997.*Molekular- Und
 	Zellbiologische Grundlagen*. Handbuch Der Molekularen Medizin. Springer.
 
 
@@ -1499,7 +1608,8 @@ Literaturverzeichnis
 
 .. [GantenTumorerkr:98]
 
-	———, eds. 1998. *Tumorerkrankungen*. Handbuch Der Molekularen Medizin.
+	———, eds:
+	1998.*Tumorerkrankungen*. Handbuch Der Molekularen Medizin.
 	Springer.
 
 
@@ -1510,10 +1620,13 @@ Literaturverzeichnis
 
 .. [Harrisons18DeKap225]
 
-	Gaziano, Thomas A., and Michael Gaziano. 2012. “Epidemiologie
-	Kardiovaskulärer Erkrankungen.” In *Harrisons Innere Medizin*, edited by
-	Manfred Dietel, Norbert Suttorp, and Martin Zeitz, translated by Jörn
-	Ole Vollert and Martin Möckel, 18th ed., 2:1945–50. ABW
+	Gaziano, Thomas A. und Michael Gaziano. 2012.
+	**Epidemiologie
+	Kardiovaskulärer Erkrankungen.**
+	In *Harrisons Innere Medizin*, edited by
+	Manfred Dietel, Norbert Suttorp und Martin Zeitz, translated by Jörn
+	Ole Vollert and Martin Möckel,
+	18. Auflage, , 2:1945–50. ABW
 	Wissenschaftsverlag.
 
 
@@ -1525,9 +1638,11 @@ Literaturverzeichnis
 .. [OeAG:2007]
 
 	Gemeinsame Erklärung der Deutschen AIDS-Gesellschaft (DAIG) und
-	Osterreichischen AIDS-Gesellschaft (OAG). 2009. “[Post-Exposure
+	Osterreichischen AIDS-Gesellschaft (OAG). 2009.
+	**[Post-Exposure
 	Prophylaxis of Hiv Infection. German-Austrian Recommendations, Update
-	September 2007].” *Dtsch Med Wochenschr* 134 Suppl 1 (January): S16–S33.
+	September 2007].**
+	*Dtsch Med Wochenschr* 134 Suppl 1 (January): S16–S33.
 
 
 
@@ -1537,8 +1652,10 @@ Literaturverzeichnis
 
 .. [youtube:Herzinfarkt]
 
-	Gèneve, Hôpitaux Universitaires de. n.d. “Zur Bekämpfung von Herzinfarkt
-	Und Arteriosklerose.” http://youtu.be/SWZYBrLAnNk.
+	Gèneve, Hôpitaux Universitaires de. n.d.
+	**Zur Bekämpfung von Herzinfarkt
+	Und Arteriosklerose.**
+	http://youtu.be/SWZYBrLAnNk.
 
 
 
@@ -1562,8 +1679,10 @@ Literaturverzeichnis
 
 .. [PraxisleitAllgemeinmed:6]
 
-	Gesenhues, Stefan, and Rainer Ziesch´e, eds. 2010. *Praxisleitfaden
-	Allgemeinmedizin*. 6th ed. Uraban & Fischer.
+	Gesenhues, Stefan und Rainer Ziesch´e, eds:
+	2010.*Praxisleitfaden
+	Allgemeinmedizin*.
+	6. Auflage,  Uraban & Fischer.
 
 
 
@@ -1575,8 +1694,9 @@ Literaturverzeichnis
 
 	Goldberger, Ary L. 2012.
 	**Elektrokardiographie.** In *Harrisons Innere
-	Medizin*, edited by Manfred Dietel, Norbert Suttorp, and Martin Zeitz,
-	translated by Martin Stockburger and Martin Möckel, 18th ed., 2:1965–73.
+	Medizin*, edited by Manfred Dietel, Norbert Suttorp und Martin Zeitz,
+	translated by Martin Stockburger and Martin Möckel,
+	18. Auflage, , 2:1965–73.
 	ABW Wissenschaftsverlag.
 
 
@@ -1588,8 +1708,10 @@ Literaturverzeichnis
 .. [Gorgass:7]
 
 	Gorgass, Bodo, Friedrich Wilhelm Ahnefeld, Rolando Rossiand Hans-Dieter
-	Lippert, Werner Krell, and Ge Weber. 2007. *Rettungsassistent Und
-	Rettungssanitäter*. 7th ed. Springer.
+	Lippert, Werner Krell und Ge Weber:
+	2007.*Rettungsassistent Und
+	Rettungssanitäter*.
+	7. Auflage,  Springer.
 
 
 
@@ -1599,7 +1721,9 @@ Literaturverzeichnis
 
 .. [GrassbergerTodesermittlung:1]
 
-	Grassberger, Martin, and Harald Schmid. 2009. *Todesermittlung*. 1st ed.
+	Grassberger, Martin und Harald Schmid:
+	2009.*Todesermittlung*.
+	1. Auflage,
 	Springer.
 
 
@@ -1610,7 +1734,7 @@ Literaturverzeichnis
 
 .. [Erc-2015-Sektion-10-De]
 
-	Greif, R., A.S. Lockey, P. Conaghan, A. Lippert, W. De Vries, and K.G.
+	Greif, R., A.S. Lockey, P. Conaghan, A. Lippert, W. De Vries und K.G.
 	Monsieurs. 2015a.
 	**Ausbildung Und Implementierung Der Reanimation.**
 	*Notfall + Rettungsmedizin* 18 (8). Springer Berlin Heidelberg: 1016–34.
@@ -1626,9 +1750,11 @@ Literaturverzeichnis
 
 	Greif, Robert, Andrew S. Lockey, Patricia Conaghan, Anne Lippert, Wiebe
 	De Vries, Koenraad G. Monsieurs, Education, implementation of
-	resuscitation section Collaborators, and Collaborators. 2015b. “European
+	resuscitation section Collaborators, and Collaborators. 2015b.
+	**European
 	Resuscitation Council Guidelines for Resuscitation 2015: Section 10.
-	Education and Implementation of Resuscitation.” *Resuscitation* 95
+	Education and Implementation of Resuscitation.**
+	*Resuscitation* 95
 	(October). Imperial College Healthcare NHS Trust, London, UK.: 288–301.
 	doi:\ `10.1016/j.resuscitation.2015.07.032 <https://doi.org/10.1016/j.resuscitation.2015.07.032>`__.
 
@@ -1640,8 +1766,10 @@ Literaturverzeichnis
 
 .. [AerztlicheWundversorgung:2]
 
-	Grey, Joseph E., and Keith Harding, eds. 2008. *Ärztliche
-	Wundversorgung*. 2nd ed. Elsevier.
+	Grey, Joseph E. und Keith Harding, eds:
+	2008.*Ärztliche
+	Wundversorgung*.
+	2. Auflage,  Elsevier.
 
 
 
@@ -1655,8 +1783,10 @@ Literaturverzeichnis
 
 .. [GruberHygieneRD:1]
 
-	Gruber, Harald, Petra Hellmich, and Jürgen Grassl. 2011. *Hygiene Im
-	Rettungsdienst*. 1st ed. facultas.wuv.
+	Gruber, Harald, Petra Hellmich und Jürgen Grassl:
+	2011.*Hygiene Im
+	Rettungsdienst*.
+	1. Auflage,  facultas.wuv.
 
 
 
@@ -1670,8 +1800,9 @@ Literaturverzeichnis
 
 .. [HaagGyn:2007]
 
-	Haag, Petra, Norbert Hanhart, and Markus Müller. 2006a. *Gynäkologie Und
-	Urologie Für Studium Und Praxis - 2007/08*. 3rd ed. Medizinische
+	Haag, Petra, Norbert Hanhart und Markus Müller. 2006a. *Gynäkologie Und
+	Urologie Für Studium Und Praxis - 2007/08*.
+	3. Auflage,  Medizinische
 	Verlags- und Informationsdienste.
 
 
@@ -1683,7 +1814,7 @@ Literaturverzeichnis
 .. [Haag:2006]
 
 	———. 2006b. *Gynäkologie Und Urologie Für Studium Und Praxis - 2007/08*.
-	3rd ed. Medizinische Verlags- und Informationsdienste.
+	3. Auflage,  Medizinische Verlags- und Informationsdienste.
 
 
 
@@ -1692,7 +1823,7 @@ Literaturverzeichnis
 
 
 .. [Soehnke:200607]
-	Hagelberg, Söhnke H., and Hartmut Gehring.:
+	Hagelberg, Söhnke H. und Hartmut Gehring.:
 	**Pulsoxymetrie:
 	Sinnvolle Ergänzung Zur Kapnographie**
 	*Rettungsdienst*
@@ -1706,8 +1837,9 @@ Literaturverzeichnis
 
 .. [HahnMikrobio:6]
 
-	Hahn, Kaufmann, Schulz, and Suerbaum, eds. n.d. *Medizinische
-	Mikrobiologie Und Infektiologie*. 6th ed. Springer.
+	Hahn, Kaufmann, Schulz und Suerbaum  (HG): n.d. *Medizinische
+	Mikrobiologie Und Infektiologie*.
+	6. Auflage,  Springer.
 
 
 
@@ -1717,7 +1849,8 @@ Literaturverzeichnis
 
 .. [TertialeNotfallIntensivmed:1]
 
-	Hamp, and Weidenauer, eds. 2010. *Lehrbuch Tertiale Notfall- Und
+	Hamp und Weidenauer, eds:
+	2010.*Lehrbuch Tertiale Notfall- Und
 	Intensivmedizin*. Springer.
 
 
@@ -1741,7 +1874,8 @@ Literaturverzeichnis
 .. [Erc-2005DeSec2]
 
 	Handley, A. J., R. Koster, K. Monsieurs, G. D. Perkins, S. Davies, and
-	L. Bossaert. 2006. “Lebensrettende Basismaßnahmen Für Erwachsene Und
+	L. Bossaert. 2006.
+	**Lebensrettende Basismaßnahmen Für Erwachsene Und
 	Verwendung Automatisierter Externer Defibrillatoren – Abschnitt 2 Der
 	Leitlinien Zur Reanimation 2005 Des European Resuscitation Council.”
 	*Notfall + Rettungsmedizin* 9: 10–25.
@@ -1757,9 +1891,11 @@ Literaturverzeichnis
 
 	Handley, Anthony J, Rudolph Koster, Koen Monsieurs, Gavin D Perkins,
 	Sian Davies, Leo Bossaert, and European Resuscitation Council. 2005.
-	“European Resuscitation Council Guidelines for Resuscitation 2005.
+
+	**European Resuscitation Council Guidelines for Resuscitation 2005.
 	Section 2. Adult Basic Life Support and Use of Automated External
-	Defibrillators.” *Resuscitation* 67 Suppl 1 (December): S7–23.
+	Defibrillators.**
+	*Resuscitation* 67 Suppl 1 (December): S7–23.
 
 
 
@@ -1769,7 +1905,7 @@ Literaturverzeichnis
 
 .. [Hansak:2012:07]
 
-	Hansak, Peter, Klaus Pesenbacher, Peter Baumgartner, and Haris Begovic.
+	Hansak, Peter, Klaus Pesenbacher, Peter Baumgartner und Haris Begovic.
 	2012.
 	**Lachgas Im Rettungsdienst: Ergebnisse Eines Pilotprojekts.**
 	*Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin* 35 (7):
@@ -1784,7 +1920,9 @@ Literaturverzeichnis
 .. [LPN:3]
 
 	Hansak, Peter, Berthold Petutschnigg, Markus Böbel, Hans-Peter Hündorf,
-	Roland Lipp, and Johannes Veith. 2008. *LPN-San österreich*. 3rd ed.
+	Roland Lipp und Johannes Veith:
+	2008.*LPN-San österreich*.
+	3. Auflage,
 	Stumpf & Kossendey.
 
 
@@ -1802,7 +1940,8 @@ Literaturverzeichnis
 
 .. [PlutchikEmotionVol3-NeuroendocrinePatterns]
 
-	Henry, J. P. 1986. In *Emotion: Theory, Research and Experiences*,
+	Henry, J. P:
+	1986.In *Emotion: Theory, Research and Experiences*,
 	edited by Plutchik H. and Kellerman H., 3:37–60. San Diego: Academic
 	Press.
 
@@ -1816,7 +1955,9 @@ Literaturverzeichnis
 
 .. [InjektionenLeichtGemacht:4]
 
-	Hildebrand, Nikolaus. 2001. *Injektionen – Leicht Gemacht*. 4th ed.
+	Hildebrand, Nikolaus:
+	2001.*Injektionen – Leicht Gemacht*.
+	4. Auflage,
 	Urban & Fischer.
 
 
@@ -1846,7 +1987,8 @@ Literaturverzeichnis
 
 .. [HolaubekASB16h]
 
-	Holaubeck, Karl, Kurt Nistler, and Nicolas Scherer. 2005. *Erste Hilfe.
+	Holaubeck, Karl, Kurt Nistler und Nicolas Scherer:
+	2005.*Erste Hilfe.
 	16 Stunden Für Das Leben*. Arbeiter-Samariter-Bund Österreichs.
 
 
@@ -1882,17 +2024,20 @@ Literaturverzeichnis
 .. [Erc-2010Sek02De]
 
 	Koster, R.W., M.A. Baubin, L.L. Bossaert, A. Caballero, P. Cassan, M.
-	Castrén, C. Granja, et al. 2010a. “Basismaßnahmen Zur Wiederbelebung
+	Castrén, C. Granja, et al. 2010a.
+	**Basismaßnahmen Zur Wiederbelebung
 	Erwachsener Und Verwendung Automatisierter Externer Defibrillatoren –
 	Sektion 2 Der Leitlinien Zur Reanimation 2010 Des European Resuscitation
-	Council.” *Notfall + Rettungsmedizin*, 523–42.
+	Council.**
+	*Notfall + Rettungsmedizin*, 523–42.
 	doi:\ `10.1007/s10049-010-1368-x <https://doi.org/10.1007/s10049-010-1368-x>`__.
 
 
 .. [Erc-2010Sec2]
 
 	Koster, Rudolph W, Michael A Baubin, Leo L Bossaert, Antonio Caballero,
-	Pascal Cassan, Maaret Castrén, Cristina Granja, et al. 2010b. “European
+	Pascal Cassan, Maaret Castrén, Cristina Granja, et al. 2010b.
+	**European
 	Resuscitation Council Guidelines for Resuscitation 2010 Section 2. Adult
 	Basic Life Support and Use of Automated External Defibrillators.”
 	*Resuscitation* 81 (10). Department of Cardiology, Academic Medical
@@ -1902,16 +2047,19 @@ Literaturverzeichnis
 
 .. [Erc-2010Sek10De]
 
-	Lippert, F.K., V. Raffay, M. Georgiou, P.A. Steen, and L. Bossaert.
-	2010. “Ethik Der Reanimation Und Entscheidungen Am Lebensende – Sektion
+	Lippert, F.K., V. Raffay, M. Georgiou, P.A. Steen und L. Bossaert.
+	2010.
+	**Ethik Der Reanimation Und Entscheidungen Am Lebensende – Sektion
 	10 Der Leitlinien Zur Reanimation 2010 Des European Resuscitation
-	Council.” *Notfall + Rettungsmedizin* 13 (7). Springer Berlin /
+	Council.**
+	*Notfall + Rettungsmedizin* 13 (7). Springer Berlin /
 	Heidelberg: 737–44. http://dx.doi.org/10.1007/s10049-010-1376-x.
 
 .. [Erc-2010Sec10]
 
 	Lippert, Freddy K, Violetta Raffay, Marios Georgiou, Petter A Steen, and Leo Bossaert. 2010.
-	“European Resuscitation Council Guidelines for Resuscitation 2010 Section 10. the Ethics of Resuscitation and End-of-Life Decisions.” *Resuscitation* 81 (10). The Capital Region of
+
+	**European Resuscitation Council Guidelines for Resuscitation 2010 Section 10. the Ethics of Resuscitation and End-of-Life Decisions.** *Resuscitation* 81 (10). The Capital Region of
 	Denmark, Copenhagen, Denmark. lippert@regionh.dk: 1445–51.
 	doi:\ `10.1016/j.resuscitation.2010.08.013 <https://doi.org/10.1016/j.resuscitation.2010.08.013>`__.
 
@@ -1931,8 +2079,10 @@ Literaturverzeichnis
 
 
 .. [Verbrennungsmed-2009Praehosp]
-	Krause, Th., and T. Loerbroks. 2009. “Verbrennungsmedizin – Vom
-	Unfallort Bis Zur Rehabilitation.” In, edited by Frank Wappler and
+	Krause, Th. und T. Loerbroks. 2009.
+	**Verbrennungsmedizin – Vom
+	Unfallort Bis Zur Rehabilitation.**
+	In, edited by Frank Wappler and
 	Gerald Spilker, 19–28. Thieme.
 
 
@@ -1940,8 +2090,10 @@ Literaturverzeichnis
 
 
 .. [RkPlsNeu:2008]
-	Kreuz, Österreichisches Rotes. 2008. “Patientenleittasche Neu –- Fragen
-	Und Antworten.” Österreichisches Rotes Kreuz.
+	Kreuz, Österreichisches Rotes. 2008.
+	**Patientenleittasche Neu –- Fragen
+	Und Antworten.**
+	Österreichisches Rotes Kreuz.
 
 
 
@@ -1959,13 +2111,15 @@ Literaturverzeichnis
 
 .. [GeschichteNeuerenDeutschenChirurgie]
 
-	Küster, Ernst. 1915. *Geschichte Der Neueren Deutschen Chirurgie*. Vol.
+	Küster, Ernst:
+	1915.*Geschichte Der Neueren Deutschen Chirurgie*. Vol.
 	15. Neue Deutsche Chirurgie. Verlag von Ferdinand Enke in Stuttgart.
 	http://www.gutenberg.org/ebooks/39529.
 
 .. [NitschStress-StressTransakt]
 
-	Lazarus, R. S., and R Launier. 1981. In *Stress, Theorien,
+	Lazarus, R. S. und R Launier:
+	1981.In *Stress, Theorien,
 	Untersuchungen, Maßnahmen*, edited by J. R. Nitsch, 213–60. Huber.
 
 
@@ -1985,22 +2139,11 @@ Literaturverzeichnis
 
 
 
-.. [LoefflerBiochemie:7]
-
-	Löffler, and Petrides, eds. 2003. *Biochemie & Pathobiochemie*. 7th ed.
-	Springer.
 
 
 
 
 
-
-
-.. [Longmore:2007]
-
-	Longmore, Murray, Ian Wilkinson, Tom Turmezei, Chee Kay Cheung, and Emma
-	Smith. 2007. *Oxford Handbook of Clinical Medicine*. 7th ed. Oxford
-	University Press.
 
 
 
@@ -2010,8 +2153,7 @@ Literaturverzeichnis
 
 .. [Loennecker:2001]
 	Lönnecker, S., and V. Schoder.:
-	**[Hypothermia in Patients with Burn
-	Injuries: Influence of Prehospital Treatment]**
+	**[Hypothermia in Patients with Burn Injuries: Influence of Prehospital Treatment]**
 	*Chirurg*
 	2001:72(2).
 	Abteilung für Anaesthesie, Intensiv- und Rettungsmedizin,
@@ -2025,10 +2167,13 @@ Literaturverzeichnis
 
 .. [Harrisons18DeKap226]
 
-	Loscalzo, Joseph. 2012. “Zugang Zum Patienten Mit Möglicher
-	Kardiovaskulärer Erkrankung.” In *Harrisons Innere Medizin*, edited by
-	Manfred Dietel, Norbert Suttorp, and Martin Zeitz, translated by Martin
-	Möckel, 18th ed., 2:1951–4. ABW Wissenschaftsverlag.
+	Loscalzo, Joseph. 2012.
+	**Zugang Zum Patienten Mit Möglicher
+	Kardiovaskulärer Erkrankung.**
+	In *Harrisons Innere Medizin*, edited by
+	Manfred Dietel, Norbert Suttorp und Martin Zeitz, translated by Martin
+	Möckel,
+	18. Auflage, , 2:1951–4. ABW Wissenschaftsverlag.
 
 
 
@@ -2038,10 +2183,13 @@ Literaturverzeichnis
 
 .. [Harrisons18DeKap224]
 
-	Loscalzo, Joseph, Peter Libby, and Jonathan Epstein. 2012. “Biologische
-	Grundlagen Des Kardiovaskulären Systems.” In *Harrisons Innere Medizin*,
-	edited by Manfred Dietel, Norbert Suttorp, and Martin Zeitz, translated
-	by Julia Searle, Ralf Dechend, and Martin Möckel, 18th ed., 2:1931–44.
+	Loscalzo, Joseph, Peter Libby und Jonathan Epstein. 2012.
+	**Biologische
+	Grundlagen Des Kardiovaskulären Systems.**
+	In *Harrisons Innere Medizin*,
+	edited by Manfred Dietel, Norbert Suttorp und Martin Zeitz, translated
+	by Julia Searle, Ralf Dechend und Martin Möckel,
+	18. Auflage, , 2:1931–44.
 	ABW Wissenschaftsverlag.
 
 
@@ -2052,7 +2200,8 @@ Literaturverzeichnis
 
 .. [LuellmannPharma:16]
 
-	Lüllmann, Mohr, and Hein. 2006. *Pharmakologie Und Toxikologie —
+	Lüllmann, Mohr und Hein:
+	2006.*Pharmakologie Und Toxikologie —
 	Arzneimittelwirkungen Verstehen - Medikamente Gezielt Einsetzen*. 16th
 	ed. Thieme-Verlag.
 
@@ -2064,8 +2213,9 @@ Literaturverzeichnis
 
 .. [LutomskyLeitRett:3]
 
-	Lutomsky, Boris, and Frank Flake, eds. 2003. *Leitfaden Rettungsdienst*.
-	3rd ed. Urban & Fischer.
+	Lutomsky, Boris und Frank Flake, eds:
+	2003.*Leitfaden Rettungsdienst*.
+	3. Auflage,  Urban & Fischer.
 
 
 
@@ -2076,9 +2226,11 @@ Literaturverzeichnis
 .. [Erc-2015-Sektion-06-De]
 
 	Maconochie, I.K., R. Bingham, C. Eich, J. López-Herce, A.
-	Rodríguez-Núñez, T. Rajka, P. Van de Voorde, D.A. Zideman, and D.
-	Biarent. 2015a. “Lebensrettende Maßnahmen Bei Kindern („Paediatric Life
-	Support“).” *Notfall + Rettungsmedizin* 18 (8). Springer Berlin
+	Rodríguez-Núñez, T. Rajka, P. Van de Voorde, D.A. Zideman und D.
+	Biarent. 2015a.
+	**Lebensrettende Maßnahmen Bei Kindern („Paediatric Life
+	Support“).**
+	*Notfall + Rettungsmedizin* 18 (8). Springer Berlin
 	Heidelberg: 932–63.
 	doi:\ `10.1007/s10049-015-0095-8 <https://doi.org/10.1007/s10049-015-0095-8>`__.
 
@@ -2093,8 +2245,10 @@ Literaturverzeichnis
 	Maconochie, Ian K., Robert Bingham, Christoph Eich, Jesús López-Herce,
 	Antonio Rodríguez-Núñez, Thomas Rajka, Patrick Van de Voorde, David A.
 	Zideman, Dominique Biarent, and Paediatric life support section
-	Collaborators. 2015b. “European Resuscitation Council Guidelines for
-	Resuscitation 2015: Section 6. Paediatric Life Support.” *Resuscitation*
+	Collaborators. 2015b.
+	**European Resuscitation Council Guidelines for
+	Resuscitation 2015: Section 6. Paediatric Life Support.**
+	*Resuscitation*
 	95 (October). Anaesthesia; Intensive Care Medicine, Royal United
 	Hospital, Bath, UK; University of Bristol, UK.: 223–48.
 	doi:\ `10.1016/j.resuscitation.2015.07.028 <https://doi.org/10.1016/j.resuscitation.2015.07.028>`__.
@@ -2141,7 +2295,8 @@ Literaturverzeichnis
 
 .. [OskampAppSocPsyAnn84-BurnOrgSett]
 
-	Maslach, C., and S. E. Jackson. 1984. In *Applied Social Psychology
+	Maslach, C., and S. E. Jackson:
+	1984.In *Applied Social Psychology
 	Annual*, edited by S. Oskamp, 133–53. Beverly Hills, CA: Sage.
 
 
@@ -2152,7 +2307,8 @@ Literaturverzeichnis
 
 .. [MaslachBurnout]
 
-	Maslach, C., ed. 1982. *Burnout. the Cost of Caring*. Prentice-Hall.
+	Maslach, C., ed:
+	1982.*Burnout. the Cost of Caring*. Prentice-Hall.
 
 
 
@@ -2164,8 +2320,10 @@ Literaturverzeichnis
 
 	Meron, Giora, Istepan Kürkciyan, Fritz Sterz, Karin Tobler, Heidrun
 	Losert, Roland Sedivy, Anton N Laggner, and Hans Domanovits. 2004.
-	“Non-Traumatic Aortic Dissection or Rupture as Cause of Cardiac Arrest:
-	Presentation and Outcome.” *Resuscitation* 60 (2). Department of
+
+	**Non-Traumatic Aortic Dissection or Rupture as Cause of Cardiac Arrest:
+	Presentation and Outcome.**
+	*Resuscitation* 60 (2). Department of
 	Emergency Medicine, Universitätsklinik für Notfallmedizin, Allgemeines
 	Krankenhaus der Stadt Wien, Währinger Gürtel 18-20/6D, AKH Wien, Vienna
 	1090, Austria.: 143–50.
@@ -2179,9 +2337,11 @@ Literaturverzeichnis
 
 .. [ScholzNotfallmedizin2-20.1-PsychiatrischeNot]
 
-	Messer, T., C. Tiltscher, and F.-G. Pajonk. 2008. In *Notfallmedizin*,
+	Messer, T., C. Tiltscher und F.-G. Pajonk:
+	2008.In *Notfallmedizin*,
 	edited by Jens Scholz, Peter Sefrin, Bernd Böttiger, Volker Dörges, and
-	Volker Wenzel, 2nd ed., 268–76. Thieme.
+	Volker Wenzel,
+	2. Auflage, , 268–76. Thieme.
 
 
 
@@ -2191,8 +2351,10 @@ Literaturverzeichnis
 
 .. [ArzPocketAustria:2]
 
-	Mittermayer, Friedrich, and Andreas Ruß. 2012. *Austria Arzneimittel
-	Pocket*. 2nd ed. Börm Bruckmeier Verlag.
+	Mittermayer, Friedrich und Andreas Ruß:
+	2012.*Austria Arzneimittel
+	Pocket*.
+	2. Auflage,  Börm Bruckmeier Verlag.
 
 
 
@@ -2219,8 +2381,10 @@ Literaturverzeichnis
 
 	Monsieurs, Koenraad G., Jerry P. Nolan, Leo L. Bossaert, Robert Greif,
 	Ian K. Maconochie, Nikolaos I. Nikolaou, Gavin D. Perkins, et al. 2015.
-	“European Resuscitation Council Guidelines for Resuscitation 2015:
-	Section 1. Executive Summary.” *Resuscitation* 95 (October). Imperial
+
+	**European Resuscitation Council Guidelines for Resuscitation 2015:
+	Section 1. Executive Summary.**
+	*Resuscitation* 95 (October). Imperial
 	College Healthcare NHS Trust, London, UK.: 1–80.
 	doi:\ `10.1016/j.resuscitation.2015.07.038 <https://doi.org/10.1016/j.resuscitation.2015.07.038>`__.
 
@@ -2232,8 +2396,10 @@ Literaturverzeichnis
 
 .. [KlinLeitAlle:3]
 
-	Müller, C., Ch. Löll, and H. Bechtold, eds. 2008. *Klinikleitfaden Für
-	Alle Stationen: Leitsymptome - Krankheitsbilder - Praxistipps*. 3rd ed.
+	Müller, C., Ch. Löll und H. Bechtold, eds:
+	2008.*Klinikleitfaden Für
+	Alle Stationen: Leitsymptome - Krankheitsbilder - Praxistipps*.
+	3. Auflage,
 	Urban & Fischer.
 
 
@@ -2244,7 +2410,8 @@ Literaturverzeichnis
 
 .. [MuellerKnie:1]
 
-	Müller, Werner. 1982. *Das Knie. Form, Funktion Und Ligamentäre
+	Müller, Werner:
+	1982.*Das Knie. Form, Funktion Und Ligamentäre
 	Wiederherstellungschirurgie*. Springer-Verlag GmbH.
 
 
@@ -2255,7 +2422,8 @@ Literaturverzeichnis
 
 .. [PHTLS:6]
 
-	NAEMT. 2006. *PHTLS. Prehospital Trauma Life Support*. 6th ed. Mosby.
+	NAEMT:
+	2006.*PHTLS. Prehospital Trauma Life Support*. 6th ed. Mosby.
 
 
 
@@ -2265,7 +2433,8 @@ Literaturverzeichnis
 
 .. [NagelePalliativ:1]
 
-	Nagele, Susanne, and Angelika Feichtner. 2005. *Lehrbuch Der
+	Nagele, Susanne und Angelika Feichtner:
+	2005.*Lehrbuch Der
 	Palliativpflege*. facultas.
 
 
@@ -2289,7 +2458,8 @@ Literaturverzeichnis
 
 .. [NetterPaediatrie:1]
 
-	Netter, Frank H., ed. n.d. *Netters Pädiatrie*. 1st ed. Thieme.
+	Netter, Frank H., ed. n.d. *Netters Pädiatrie*.
+	1. Auflage,  Thieme.
 
 
 
@@ -2299,8 +2469,10 @@ Literaturverzeichnis
 
 .. [ChecklisteAnamUnt:1]
 
-	Neurath, Markus, and Ansgar Lohse, eds. 2002. *Checkliste Anamnese Und
-	Klinische Untersuchung*. 1st ed. Thieme.
+	Neurath, Markus und Ansgar Lohse, eds:
+	2002.*Checkliste Anamnese Und
+	Klinische Untersuchung*.
+	1. Auflage,  Thieme.
 
 
 
@@ -2311,8 +2483,10 @@ Literaturverzeichnis
 .. [Niaura:2002]
 
 	Niaura, R., J. F. Todaro, L. Stroud, A. Spiro, K. D. Ward, and S. Weiss.
-	2002. “Hostility, the Metabolic Syndrome, and Incident Coronary Heart
-	Disease.” *Health Psychology* 21 (6): 588–93.
+	2002.
+	**Hostility, the Metabolic Syndrome, and Incident Coronary Heart
+	Disease.**
+	*Health Psychology* 21 (6): 588–93.
 
 
 
@@ -2339,9 +2513,11 @@ Literaturverzeichnis
 
 	Nikolaou, Nikolaos I., Hans-Richard Arntz, Abdelouahab Bellou, Farzin
 	Beygui, Leo L. Bossaert, Alain Cariou, and Initial management of acute
-	coronary syndromes section Collaborator. 2015b. “European Resuscitation
+	coronary syndromes section Collaborator. 2015b.
+	**European Resuscitation
 	Council Guidelines for Resuscitation 2015 Section 8. Initial Management
-	of Acute Coronary Syndromes.” *Resuscitation* 95 (October). Department
+	of Acute Coronary Syndromes.**
+	*Resuscitation* 95 (October). Department
 	of Cardiology, Hôpital Européen Georges Pompidou, Paris, France.:
 	264–77.
 	doi:\ `10.1016/j.resuscitation.2015.07.030 <https://doi.org/10.1016/j.resuscitation.2015.07.030>`__.
@@ -2354,7 +2530,8 @@ Literaturverzeichnis
 
 .. [Nilsson:1997]
 
-	Nilsson, Lennart, and Lars Hamberger. 1997. *Ein Kind Entsteht*. Mosaik.
+	Nilsson, Lennart und Lars Hamberger:
+	1997.*Ein Kind Entsteht*. Mosaik.
 
 
 
@@ -2364,8 +2541,10 @@ Literaturverzeichnis
 
 .. [Erc-2005DeSec1]
 
-	Nolan, J. 2006. “Leitlinien Zur Reanimation 2005 Des European
-	Resuscitation Council – Abschnitt 1: Einleitung.” *Notfall +
+	Nolan, J. 2006.
+	**Leitlinien Zur Reanimation 2005 Des European
+	Resuscitation Council – Abschnitt 1: Einleitung.**
+	*Notfall +
 	Rettungsmedizin* 9: 6–9.
 	doi:\ `DOI 10.1007/s10049-006-0791-5 <https://doi.org/DOI 10.1007/s10049-006-0791-5>`__.
 
@@ -2377,8 +2556,10 @@ Literaturverzeichnis
 
 .. [Nolan:2001]
 
-	Nolan, J. D. 2001. “Prehospital and Resuscitative Airway Care: Should
-	the Gold Standard Be Reassessed?” *Curr Opin Crit Care* 7 (6). Royal
+	Nolan, J. D. 2001.
+	**Prehospital and Resuscitative Airway Care: Should
+	the Gold Standard Be Reassessed?**
+	*Curr Opin Crit Care* 7 (6). Royal
 	United Hospital, Combe Park, Bath, United Kingdom.
 	jerry.nolan@ryh-bath.swest.nhs.uk: 413–21.
 
@@ -2390,8 +2571,9 @@ Literaturverzeichnis
 
 .. [Erc-2005DeSec4]
 
-	Nolan, J. P., C. D. Deakin, J. Soar, B. W. Böttiger, and G. Smith. 2006.
-	“Erweiterte Reanimationsmaßnahmen Für Erwachsene (Als) – Abschnitt 4 Der
+	Nolan, J. P., C. D. Deakin, J. Soar, B. W. Böttiger und G. Smith. 2006.
+
+	**Erweiterte Reanimationsmaßnahmen Für Erwachsene (Als) – Abschnitt 4 Der
 	Leitlinien Zur Reanimation 2005 Des European Resuscitation Council.”
 	*Notfall + Rettungsmedizin* 9: 38–80.
 	doi:\ `10.1007/s10049-006-0796-0 <https://doi.org/10.1007/s10049-006-0796-0>`__.
@@ -2405,7 +2587,7 @@ Literaturverzeichnis
 .. [Erc-2015-Sektion-05-De]
 
 	Nolan, J.P., J. Soar, A. Cariou, T. Cronberg, V.R.M. Moulaert, C.
-	Deakin, B.W. Böttiger, H. Friberg, K. Sunde, and C. Sandroni.
+	Deakin, B.W. Böttiger, H. Friberg, K. Sunde und C. Sandroni.
 	**Postreanimationsbehandlung.**
 	*Notfall + Rettungsmedizin*
 	2015:18(8).
@@ -2421,8 +2603,9 @@ Literaturverzeichnis
 .. [Erc-2010Sek01De]
 
 	Nolan, J.P., J. Soar, D.A. Zideman, D. Biarent, L.L. Bossaert, C.
-	Deakin, R.W. Koster, J. Wyllie, and B. Böttiger on behalf of the ERC
-	Guidelines Writing Group. 2010. “Kurzdarstellung Sektion 1 Der
+	Deakin, R.W. Koster, J. Wyllie und B. Böttiger on behalf of the ERC
+	Guidelines Writing Group. 2010.
+	**Kurzdarstellung Sektion 1 Der
 	Leitlinien Zur Reanimation 2010 Des European Resuscitation Council.”
 	*Notfall + Rettungsmedizin* 13 (1): 515–22.
 	doi:\ `10.1007/s10049-010-1367-y <https://doi.org/10.1007/s10049-010-1367-y>`__.
@@ -2451,9 +2634,11 @@ Literaturverzeichnis
 .. [Erc-2005Sec4]
 
 	Nolan, Jerry P, Charles D Deakin, Jasmeet Soar, Bernd W Böttiger, Gary
-	Smith, and European Resuscitation Council. 2005. “European Resuscitation
+	Smith, and European Resuscitation Council. 2005.
+	**European Resuscitation
 	Council Guidelines for Resuscitation 2005. Section 4. Adult Advanced
-	Life Support.” *Resuscitation* 67 Suppl 1 (December): S39–S86.
+	Life Support.**
+	*Resuscitation* 67 Suppl 1 (December): S39–S86.
 
 
 
@@ -2465,9 +2650,11 @@ Literaturverzeichnis
 
 	Nolan, Jerry P, Jasmeet Soar, David A Zideman, Dominique Biarent, Leo L
 	Bossaert, Charles Deakin, Rudolph W Koster, Jonathan Wyllie, Bernd
-	Böttiger, and E. R. C. Guidelines Writing Group. 2010. “European
+	Böttiger, and E. R. C. Guidelines Writing Group. 2010.
+	**European
 	Resuscitation Council Guidelines for Resuscitation 2010 Section 1.
-	Executive Summary.” *Resuscitation* 81 (10). Anaesthesia; Intensive Care
+	Executive Summary.**
+	*Resuscitation* 81 (10). Anaesthesia; Intensive Care
 	Medicine, Royal United Hospital, Bath, UK.: 1219–76.
 	doi:\ `10.1016/j.resuscitation.2010.08.021 <https://doi.org/10.1016/j.resuscitation.2010.08.021>`__.
 
@@ -2481,10 +2668,12 @@ Literaturverzeichnis
 
 	Nolan, Jerry P., Jasmeet Soar, Alain Cariou, Tobias Cronberg, Véronique
 	R M. Moulaert, Charles D. Deakin, Bernd W. Bottiger, Hans Friberg,
-	Kjetil Sunde, and Claudio Sandroni. 2015. “European Resuscitation
+	Kjetil Sunde, and Claudio Sandroni. 2015.
+	**European Resuscitation
 	Council and European Society of Intensive Care Medicine Guidelines for
 	Post-Resuscitation Care 2015: Section 5 of the European Resuscitation
-	Council Guidelines for Resuscitation 2015.” *Resuscitation* 95
+	Council Guidelines for Resuscitation 2015.**
+	*Resuscitation* 95
 	(October). Department of Anaesthesiology; Intensive Care, Catholic
 	University School of Medicine, Rome, Italy.: 202–22.
 	doi:\ `10.1016/j.resuscitation.2015.07.018 <https://doi.org/10.1016/j.resuscitation.2015.07.018>`__.
@@ -2497,9 +2686,11 @@ Literaturverzeichnis
 
 .. [Erc-2005Sec1]
 
-	Nolan, Jerry, and European Resuscitation Council. 2005. “European
+	Nolan, Jerry, and European Resuscitation Council. 2005.
+	**European
 	Resuscitation Council Guidelines for Resuscitation 2005. Section 1.
-	Introduction.” *Resuscitation* 67 Suppl 1 (December): S3–S6.
+	Introduction.**
+	*Resuscitation* 67 Suppl 1 (December): S3–S6.
 
 
 
@@ -2509,8 +2700,10 @@ Literaturverzeichnis
 
 .. [OenormS2104-2005]
 
-	"Osterreichisches Normungsinstitut. 2005. “"ONORM S 2104: Abfälle Aus
-	Dem Medizinischen Bereich.” BGBl. II - Ausgegeben am 21. Juli 2008 - Nr.
+	"Osterreichisches Normungsinstitut. 2005.
+	**"ONORM S 2104: Abfälle Aus
+	Dem Medizinischen Bereich.**
+	BGBl. II - Ausgegeben am 21. Juli 2008 - Nr.
 	262.
 	http://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2008_II_262/COO_2026_100_2_464663.pdf.
 
@@ -2522,7 +2715,8 @@ Literaturverzeichnis
 
 .. [Patzelt:2005]
 
-	Patzelt, Johannes. 2005. *Basics Augenheilkunde*. Urban & Fischer Bei
+	Patzelt, Johannes:
+	2005.*Basics Augenheilkunde*. Urban & Fischer Bei
 	Elsevier.
 
 
@@ -2533,8 +2727,10 @@ Literaturverzeichnis
 
 .. [Peiris:2009]
 
-	Peiris, J. S Malik, Leo L M Poon, and Yi Guan. 2009. “Emergence of a
-	Novel Swine-Origin Influenza a Virus (S-Oiv) H1n1 Virus in Humans.” *J
+	Peiris, J. S Malik, Leo L M Poon, and Yi Guan. 2009.
+	**Emergence of a
+	Novel Swine-Origin Influenza a Virus (S-Oiv) H1n1 Virus in Humans.**
+	*J
 	Clin Virol* 45 (3). Department of Microbiology, The University of Hong
 	Kong, Hong Kong SAR, China. malik@hkucc.hku.hk: 169–73.
 	doi:\ `10.1016/j.jcv.2009.06.006 <https://doi.org/10.1016/j.jcv.2009.06.006>`__.
@@ -2548,9 +2744,11 @@ Literaturverzeichnis
 .. [Erc-2015-Sektion-02-De]
 
 	Perkins, G.D., A.J. Handley, R.W. Koster, M. Castrén, M.A. Smyth, T.
-	Olasveengen, K.G. Monsieurs, et al. 2015a. “Basismaßnahmen Zur
+	Olasveengen, K.G. Monsieurs, et al. 2015a.
+	**Basismaßnahmen Zur
 	Wiederbelebung Erwachsener Und Verwendung Automatisierter Externer
-	Defibrillatoren.” *Notfall + Rettungsmedizin* 18 (8). Springer Berlin
+	Defibrillatoren.**
+	*Notfall + Rettungsmedizin* 18 (8). Springer Berlin
 	Heidelberg: 748–69.
 	doi:\ `10.1007/s10049-015-0081-1 <https://doi.org/10.1007/s10049-015-0081-1>`__.
 
@@ -2564,9 +2762,11 @@ Literaturverzeichnis
 
 	Perkins, Gavin D., Anthony J. Handley, Rudolph W. Koster, Maaret
 	Castrén, Michael A. Smyth, Theresa Olasveengen, Koenraad G. Monsieurs,
-	et al. 2015b. “European Resuscitation Council Guidelines for
+	et al. 2015b.
+	**European Resuscitation Council Guidelines for
 	Resuscitation 2015: Section 2. Adult Basic Life Support and Automated
-	External Defibrillation.” *Resuscitation* 95 (October). Department of
+	External Defibrillation.**
+	*Resuscitation* 95 (October). Department of
 	Anaesthesiology; Pain Medicine, University Hospital Bern; University
 	Bern, Bern, Switzerland.: 81–99.
 	doi:\ `10.1016/j.resuscitation.2015.07.015 <https://doi.org/10.1016/j.resuscitation.2015.07.015>`__.
@@ -2579,8 +2779,10 @@ Literaturverzeichnis
 
 .. [PetersenVordereKreuzband:1]
 
-	Petersen, Wolf, and Thore Zantop, eds. 2009. *Das Vordere Kreuzband.
-	Grundlagen Und Aktuelle Praxis Der Operativen Therapie*. 1st ed.
+	Petersen, Wolf und Thore Zantop, eds:
+	2009.*Das Vordere Kreuzband.
+	Grundlagen Und Aktuelle Praxis Der Operativen Therapie*.
+	1. Auflage,
 	Deutscher "Arzte-Verlag.
 
 
@@ -2603,7 +2805,8 @@ Literaturverzeichnis
 
 .. [Platzer:2003]
 
-	Platzer, Werner, ed. 2003. *Bewegungsapparat*. Taschenatlas Der
+	Platzer, Werner, ed:
+	2003.*Bewegungsapparat*. Taschenatlas Der
 	Anatomie. Thieme.
 
 
@@ -2614,8 +2817,9 @@ Literaturverzeichnis
 
 .. [Pschy:259]
 
-	Pschyrembel, Willibald, ed. 2002. *Pschyrembel Klinisches Wörterbuch*.
-	259th ed. de Gruyter.
+	Pschyrembel, Willibald, ed:
+	2002.*Pschyrembel Klinisches Wörterbuch*.
+	259. Auflage,  de Gruyter.
 
 
 
@@ -2627,8 +2831,10 @@ Literaturverzeichnis
 
 	Redelsteiner, Christoph, Heinz Kuderna, Rudolf Kühberger, Michael
 	Baubin, Erwin Feichtelbauer, Philipp Lütgendorf, Gerhard Prause, and
-	Wolfgang Schreiber, eds. 2005. *Das Handbuch Für Notfall- Und
-	Rettungssanitäter. Patientenbetreuung Nach Leitsymptomen*. 1st ed.
+	Wolfgang Schreiber, eds:
+	2005.*Das Handbuch Für Notfall- Und
+	Rettungssanitäter. Patientenbetreuung Nach Leitsymptomen*.
+	1. Auflage,
 	Braumüller.
 
 
@@ -2641,8 +2847,10 @@ Literaturverzeichnis
 
 	Redelsteiner, Christoph, Heinz Kuderna, Rudolf Kühberger, Michael
 	Baubin, Erwin Feichtelbauer, Gerhard Prause, Philipp Lütgendorf, and
-	Wolfgang Schreiber, eds. 2011. *Das Handbuch Für Notfall- Und
-	Rettungssanitäter. Patientenbetreuung Nach Leitsymptomen*. 2nd ed.
+	Wolfgang Schreiber, eds:
+	2011.*Das Handbuch Für Notfall- Und
+	Rettungssanitäter. Patientenbetreuung Nach Leitsymptomen*.
+	2. Auflage,
 	Braumüller.
 
 
@@ -2653,9 +2861,11 @@ Literaturverzeichnis
 
 .. [BLIM:4]
 
-	Renz-Polster, Herbert, and Steffen Krautzig. 2008. *Basislehrbuch Innere
+	Renz-Polster, Herbert und Steffen Krautzig:
+	2008.*Basislehrbuch Innere
 	Medizin. Kompakt, Greifbar, Verständlich. StudentConsult*. Edited by
-	Herbert Renz-Polster and Steffen Krautzig. 4th ed. Urban & Fischer Bei
+	Herbert Renz-Polster and Steffen Krautzig.
+	4. Auflage,  Urban & Fischer Bei
 	Elsevier.
 
 
@@ -2666,9 +2876,10 @@ Literaturverzeichnis
 
 .. [Renz-Polster:2006]
 
-	Renz-Polster, Herbert, Steffen Krautzig, and Jörg Braun. 2006.
+	Renz-Polster, Herbert, Steffen Krautzig und Jörg Braun. 2006.
 	*Basislehrbuch Innere Medizin. Kompakt, Greifbar, Verständlich.
-	StudentConsult*. 3rd ed. Urban & Fischer Bei Elsevier.
+	StudentConsult*.
+	3. Auflage,  Urban & Fischer Bei Elsevier.
 
 
 
@@ -2678,9 +2889,11 @@ Literaturverzeichnis
 
 .. [Erc-2010Sek07De]
 
-	Richmond, S., and J. Wyllie. 2010a. “Versorgung Und Reanimation Des
+	Richmond, S. und J. Wyllie. 2010a.
+	**Versorgung Und Reanimation Des
 	Neugeborenen – Sektion 7 Der Leitlinien Zur Reanimation 2010 Des
-	European Resuscitation Council.” *Notfall + Rettungsmedizin* 13 (7).
+	European Resuscitation Council.**
+	*Notfall + Rettungsmedizin* 13 (7).
 	Springer Berlin / Heidelberg: 665–78.
 	http://dx.doi.org/10.1007/s10049-010-1373-0.
 
@@ -2692,9 +2905,11 @@ Literaturverzeichnis
 
 .. [Erc-2010Sec7]
 
-	Richmond, Sam, and Jonathan Wyllie. 2010b. “European Resuscitation
+	Richmond, Sam, and Jonathan Wyllie. 2010b.
+	**European Resuscitation
 	Council Guidelines for Resuscitation 2010 Section 7. Resuscitation of
-	Babies at Birth.” *Resuscitation* 81 (10). Neonatology, Sunderland Royal
+	Babies at Birth.**
+	*Resuscitation* 81 (10). Neonatology, Sunderland Royal
 	Hospital, Sunderland, UK.: 1389–99.
 	doi:\ `10.1016/j.resuscitation.2010.08.018 <https://doi.org/10.1016/j.resuscitation.2010.08.018>`__.
 
@@ -2706,8 +2921,10 @@ Literaturverzeichnis
 
 .. [AnCompact:3]
 
-	Roewer, Norbert, and Holger Thiel. 2007. *Anästhesie Compact - Leitfaden
-	Für Die Klinische Praxis*. 3rd ed. Thieme-Verlag.
+	Roewer, Norbert und Holger Thiel:
+	2007.*Anästhesie Compact - Leitfaden
+	Für Die Klinische Praxis*.
+	3. Auflage,  Thieme-Verlag.
 
 
 
@@ -2717,7 +2934,9 @@ Literaturverzeichnis
 
 .. [RueckerBildatlas:1]
 
-	Rüecker, Gernot. 2005. *Bildatlas Notfall- Und Rettungsmedizin*. 1st ed.
+	Rüecker, Gernot:
+	2005.*Bildatlas Notfall- Und Rettungsmedizin*.
+	1. Auflage,
 	Springer.
 
 
@@ -2728,7 +2947,9 @@ Literaturverzeichnis
 
 .. [Sachsenweger:2003]
 
-	Sachsenweger, Matthias. 2003. *Augenheilkunde*. 2nd ed. Thieme,
+	Sachsenweger, Matthias:
+	2003.*Augenheilkunde*.
+	2. Auflage,  Thieme,
 	Stuttgart.
 
 
@@ -2755,9 +2976,11 @@ Literaturverzeichnis
 
 .. [SchabusKnie:1]
 
-	Schabus, Rudolf, and Elisabeth Bosina. 2007. *Das Knie. Der Ratgeber Für
+	Schabus, Rudolf und Elisabeth Bosina:
+	2007.*Das Knie. Der Ratgeber Für
 	Das Verletzte Knie: Diagnostik - Therapie - Rehabilitation Bei
-	Verletzungen Des Kniegelenks*. 1st ed. Springer, Wien.
+	Verletzungen Des Kniegelenks*.
+	1. Auflage,  Springer, Wien.
 
 
 
@@ -2768,9 +2991,11 @@ Literaturverzeichnis
 .. [Schalk:2010]
 
 	Schalk, Richard, Christian Byhahn, Felix Fausel, Andreas Egner, Dieter
-	Oberndörfer, Felix Walcher, and Leo Latasch. 2010. “Out-of-Hospital
+	Oberndörfer, Felix Walcher, and Leo Latasch. 2010.
+	**Out-of-Hospital
 	Airway Management by Paramedics and Emergency Physicians Using Laryngeal
-	Tubes.” *Resuscitation* 81 (3). Clinic of Anaesthesiology, Intensive
+	Tubes.**
+	*Resuscitation* 81 (3). Clinic of Anaesthesiology, Intensive
 	Care Medicine,; Pain Therapy, J.W. Goethe University Hospital Frankfurt,
 	Theodor-Stern-Kai 7, D-60590 Frankfurt, Germany.: 323–26.
 	doi:\ `10.1016/j.resuscitation.2009.11.007 <https://doi.org/10.1016/j.resuscitation.2009.11.007>`__.
@@ -2783,8 +3008,10 @@ Literaturverzeichnis
 
 .. [Silbernagl3-Atmung]
 
-	Scheid, P. 2001. In *Lehrbuch Der Physiologie*, edited by R Klinke and
-	St Silbernagl, 3rd ed., 217–72. Thieme-Verlag.
+	Scheid, P:
+	2001.In *Lehrbuch Der Physiologie*, edited by R Klinke and
+	St Silbernagl,
+	3. Auflage, , 217–72. Thieme-Verlag.
 
 
 
@@ -2794,7 +3021,7 @@ Literaturverzeichnis
 
 .. [ThiemesPflege:12]
 
-	Schewior-Popp, Susanne, Franz Sitzmann, and Lothar Ullrich, eds. 2012.
+	Schewior-Popp, Susanne, Franz Sitzmann und Lothar Ullrich  (HG): 2012.
 	*Thiemes Pflege*. 12th ed. Thieme.
 
 
@@ -2805,8 +3032,10 @@ Literaturverzeichnis
 
 .. [SchmidtPhysio:28]
 
-	Schmidt, Robert F., Gerhard Thews, and Florian Lang. 2000. *Physiologie
-	Des Menschen*. 28th ed. Springer Berlin.
+	Schmidt, Robert F., Gerhard Thews und Florian Lang:
+	2000.*Physiologie
+	Des Menschen*.
+	28. Auflage,  Springer Berlin.
 
 
 
@@ -2816,8 +3045,9 @@ Literaturverzeichnis
 
 .. [SchmuckChemie:1]
 
-	Schmuck, Carsten, Bernd Engels, Tanja Schirmeister, and Reinhold Fink.
-	2008. *Chemie Für Mediziner*. 1st ed. Pearson Studium.
+	Schmuck, Carsten, Bernd Engels, Tanja Schirmeister und Reinhold Fink.
+	2008. *Chemie Für Mediziner*.
+	1. Auflage,  Pearson Studium.
 
 
 
@@ -2840,8 +3070,10 @@ Literaturverzeichnis
 
 .. [ScholzNotfallmedizin:2]
 
-	Scholz, Jens, Peter Sefrin, Bernd Böttiger, Volker Dörges, and Volker
-	Wenzel, eds. 2008. *Notfallmedizin*. 2nd ed. Thieme.
+	Scholz, Jens, Peter Sefrin, Bernd Böttiger, Volker Dörges und Volker
+	Wenzel, eds:
+	2008.*Notfallmedizin*.
+	2. Auflage,  Thieme.
 
 
 
@@ -2861,8 +3093,10 @@ Literaturverzeichnis
 
 .. [Silbernagl3-Herz]
 
-	Schrader, J. 2001. In *Lehrbuch Der Physiologie*, edited by R Klinke and
-	St Silbernagl, 3rd ed., 109–44. Thieme-Verlag.
+	Schrader, J:
+	2001.In *Lehrbuch Der Physiologie*, edited by R Klinke and
+	St Silbernagl,
+	3. Auflage, , 109–44. Thieme-Verlag.
 
 
 
@@ -2872,8 +3106,10 @@ Literaturverzeichnis
 
 .. [EkgIsabell:5]
 
-	Schuster, Hans-Peter, and Hans-Joachim Trappe. 2009. *EKG-Kurs Für
-	Isabell*. 5th ed. Thieme.
+	Schuster, Hans-Peter und Hans-Joachim Trappe:
+	2009.*EKG-Kurs Für
+	Isabell*.
+	5. Auflage,  Thieme.
 
 
 
@@ -2883,7 +3119,8 @@ Literaturverzeichnis
 
 .. [SemmelABC:1]
 
-	Semmel, Thomas. 2008. *ABC – Die Beurteilung von Notfallpatienten*. 1st
+	Semmel, Thomas:
+	2008.*ABC – Die Beurteilung von Notfallpatienten*. 1st
 	ed. Elsevier.
 
 
@@ -2896,9 +3133,11 @@ Literaturverzeichnis
 
 	Seto, W. H., D. Tsang, R. W H Yung, T. Y. Ching, T. K. Ng, M. Ho, L. M.
 	Ho, J. S M Peiris, and Advisors of Expert SARS group of Hospital
-	Authority. 2003. “Effectiveness of Precautions Against Droplets and
+	Authority. 2003.
+	**Effectiveness of Precautions Against Droplets and
 	Contact in Prevention of Nosocomial Transmission of Severe Acute
-	Respiratory Syndrome (Sars).” *Lancet* 361 (9368). >: 1519–20.
+	Respiratory Syndrome (Sars).**
+	*Lancet* 361 (9368). >: 1519–20.
 
 
 
@@ -2920,7 +3159,9 @@ Literaturverzeichnis
 
 .. [SiewertChirurgie:8]
 
-	Siewert, Rüdiger, ed. 2006. *Chirurgie*. 8th ed. Springer-Verlag.
+	Siewert, Rüdiger, ed:
+	2006.*Chirurgie*.
+	8. Auflage,  Springer-Verlag.
 
 
 
@@ -2930,7 +3171,9 @@ Literaturverzeichnis
 
 .. [SitzmannPaediatrie:2]
 
-	Sitzmann, Friedrich Carl, ed. 2002. *Pädiatrie*. 2nd ed. Duale Reihe.
+	Sitzmann, Friedrich Carl, ed:
+	2002.*Pädiatrie*.
+	2. Auflage,  Duale Reihe.
 	Thieme.
 
 
@@ -2942,7 +3185,8 @@ Literaturverzeichnis
 .. [Skhirtladze:2010]
 
 	Skhirtladze, Keso, Bruno Mora, Andrea Moritz, Beatrice Birkenberg,
-	Hendrik Jan Ankersmit, and Martin Dworschak. 2010. “Impaired Recovery of
+	Hendrik Jan Ankersmit, and Martin Dworschak. 2010.
+	**Impaired Recovery of
 	Cardiac Output and Mean Arterial Pressure After Successful
 	Defibrillation in Patients with Low Left Ventricular Ejection Fraction.”
 	*Resuscitation* 81 (9). Division of Cardiothoracic; Vascular
@@ -2959,9 +3203,11 @@ Literaturverzeichnis
 .. [Erc-2005DeSec7]
 
 	Soar, J., C. D. Deakin, J. P. Nolan, G. Abbas, A. Alfonzo, A. J. Handley
-	D. Lockey, G. D. Perkins, and K. Thies. 2006. “Kreislaufstillstand Unter
+	D. Lockey, G. D. Perkins und K. Thies. 2006.
+	**Kreislaufstillstand Unter
 	Besonderen Umständen – Abschnitt 7 Der Leitlinien Zur Reanimation 2005
-	Des European Resuscitation Council.” *Notfall + Rettungsmedizin* 9:
+	Des European Resuscitation Council.**
+	*Notfall + Rettungsmedizin* 9:
 	123–45.
 	doi:\ `10.1007/s10049-006-0798-y <https://doi.org/10.1007/s10049-006-0798-y>`__.
 
@@ -2988,8 +3234,10 @@ Literaturverzeichnis
 .. [Erc-2015-Sektion-03-De]
 
 	Soar, J., J.P. Nolan, B.W. Böttiger, G.D. Perkins, C. Lott, P. Carli, T.
-	Pellis, et al. 2015a. “Erweiterte Reanimationsmaßnahmen Für Erwachsene
-	(„Adult Advanced Life Support“).” *Notfall + Rettungsmedizin* 18 (8).
+	Pellis, et al. 2015a.
+	**Erweiterte Reanimationsmaßnahmen Für Erwachsene
+	(„Adult Advanced Life Support“).**
+	*Notfall + Rettungsmedizin* 18 (8).
 	Springer Berlin Heidelberg: 770–832.
 	doi:\ `10.1007/s10049-015-0085-x <https://doi.org/10.1007/s10049-015-0085-x>`__.
 
@@ -3002,11 +3250,13 @@ Literaturverzeichnis
 .. [Erc-2010Sek08De]
 
 	Soar, J., G.D. Perkins, G. Abbas, A. Alfonzo, A. Barelli, J.J.L.M.
-	Bierens, H. Brugger, et al. 2010a. “Kreislaufstillstand Unter Besonderen
+	Bierens, H. Brugger, et al. 2010a.
+	**Kreislaufstillstand Unter Besonderen
 	Umständen: Elektrolytstörungen, Vergiftungen, Ertrinken, Unterkühlung,
 	Hitzekrankheit, Asthma, Anaphylaxie, Herzchirurgie, Trauma,
 	Schwangerschaft, Stromunfall – Sektion 8 Der Leitlinien Zur Reanimation
-	2010 Des European Resuscitation Council.” *Notfall + Rettungsmedizin* 13
+	2010 Des European Resuscitation Council.**
+	*Notfall + Rettungsmedizin* 13
 	(7). Springer Berlin / Heidelberg: 679–722.
 	http://dx.doi.org/10.1007/s10049-010-1374-z.
 
@@ -3020,9 +3270,11 @@ Literaturverzeichnis
 
 	Soar, Jasmeet, Charles D Deakin, Jerry P Nolan, Gamal Abbas, Annette
 	Alfonzo, Anthony J Handley, David Lockey, Gavin D Perkins, Karl Thies,
-	and European Resuscitation Council. 2005. “European Resuscitation
+	and European Resuscitation Council. 2005.
+	**European Resuscitation
 	Council Guidelines for Resuscitation 2005. Section 7. Cardiac Arrest in
-	Special Circumstances.” *Resuscitation* 67 Suppl 1 (December):
+	Special Circumstances.**
+	*Resuscitation* 67 Suppl 1 (December):
 	S135–S170.
 
 
@@ -3035,8 +3287,10 @@ Literaturverzeichnis
 
 	Soar, Jasmeet, Koenraad G Monsieurs, John H W Ballance, Alessandro
 	Barelli, Dominique Biarent, Robert Greif, Anthony J Handley, et al.
-	2010b. “European Resuscitation Council Guidelines for Resuscitation 2010
-	Section 9. Principles of Education in Resuscitation.” *Resuscitation* 81
+	2010b.
+	**European Resuscitation Council Guidelines for Resuscitation 2010
+	Section 9. Principles of Education in Resuscitation.**
+	*Resuscitation* 81
 	(10). Southmead Hospital, North Bristol NHS Trust, Bristol, UK.
 	jas.soar@btinternet.com: 1434–44.
 	doi:\ `10.1016/j.resuscitation.2010.08.014 <https://doi.org/10.1016/j.resuscitation.2010.08.014>`__.
@@ -3050,9 +3304,11 @@ Literaturverzeichnis
 .. [Erc-2015-Section-03]
 
 	Soar, Jasmeet, Jerry P. Nolan, Bernd W. Böttiger, Gavin D. Perkins,
-	Carsten Lott, Pierre Carli, Tommaso Pellis, et al. 2015b. “European
+	Carsten Lott, Pierre Carli, Tommaso Pellis, et al. 2015b.
+	**European
 	Resuscitation Council Guidelines for Resuscitation 2015: Section 3.
-	Adult Advanced Life Support.” *Resuscitation* 95 (October). Cardiology
+	Adult Advanced Life Support.**
+	*Resuscitation* 95 (October). Cardiology
 	Department, Konstantopouleio General Hospital, Athens, Greece.: 100–147.
 	doi:\ `10.1016/j.resuscitation.2015.07.016 <https://doi.org/10.1016/j.resuscitation.2015.07.016>`__.
 
@@ -3065,7 +3321,8 @@ Literaturverzeichnis
 .. [Erc-2010Sec8]
 
 	Soar, Jasmeet, Gavin D Perkins, Gamal Abbas, Annette Alfonzo, Alessandro
-	Barelli, Joost J L M Bierens, Hermann Brugger, et al. 2010b. “European
+	Barelli, Joost J L M Bierens, Hermann Brugger, et al. 2010b.
+	**European
 	Resuscitation Council Guidelines for Resuscitation 2010 Section 8.
 	Cardiac Arrest in Special Circumstances: Electrolyte Abnormalities,
 	Poisoning, Drowning, Accidental Hypothermia, Hyperthermia, Asthma,
@@ -3083,7 +3340,8 @@ Literaturverzeichnis
 
 .. [U:61989]
 
-	Stadt Wien, Magistratsabteilung 38 – U-Bahn-Bau, ed. 1989. *Die
+	Stadt Wien, Magistratsabteilung 38 – U-Bahn-Bau, ed:
+	1989.*Die
 	U-Bahnlinie U6. 1983-1989.* Compress Verlag.
 
 
@@ -3094,7 +3352,8 @@ Literaturverzeichnis
 
 .. [StarkeMedSozAspProbBew:00]
 
-	Starke, D. 2000. *Medizinsoziologie. Kognitive, Emotionale Und Soziale
+	Starke, D:
+	2000.*Medizinsoziologie. Kognitive, Emotionale Und Soziale
 	Aspekte Menschlicher Problembewältigung: Ein Beitrag Zur Aktuellen
 	Stressforschung*. Münster: LIT.
 
@@ -3120,7 +3379,8 @@ Literaturverzeichnis
 .. [Stiell:2008]
 
 	Stiell, Ian G, Lisa P Nesbitt, William Pickett, Douglas Munkley, Daniel
-	W Spaite, Jane Banek, Brian Field, et al. 2008. “The Opals Major Trauma
+	W Spaite, Jane Banek, Brian Field, et al. 2008.
+	**The Opals Major Trauma
 	Study: Impact of Advanced Life-Support on Survival and Morbidity.”
 	*CMAJ* 178 (9). search Institute, Ottawa, Ont.: 1141–52.
 	doi:\ `10.1503/cmaj.071154 <https://doi.org/10.1503/cmaj.071154>`__.
@@ -3147,8 +3407,10 @@ Literaturverzeichnis
 
 .. [Strauss:0000]
 
-	Strauss, Reinhild, and Gerhard Fülöp. n.d. “Influenza in österreich –
-	Epidemiologie Und Durchimpfungsraten.” Homepage des österreichischen
+	Strauss, Reinhild und Gerhard Fülöp. n.d.
+	**Influenza in österreich –
+	Epidemiologie Und Durchimpfungsraten.**
+	Homepage des österreichischen
 	Bundesministeriums für Gesundheit und Frauen (BMGF); Bundesministeriums
 	für Gesundheit und Frauen.
 	`http://www.bmg.gv.at/cms/site/attachments/7/9/0/CH0742/CMS1075899626901/influenza-epidemiologie\\\_bmgf.pdf <http://www.bmg.gv.at/cms/site/attachments/7/9/0/CH0742/CMS1075899626901/influenza-epidemiologie\_bmgf.pdf>`__.
@@ -3161,8 +3423,10 @@ Literaturverzeichnis
 
 .. [StriebelAn:7]
 
-	Striebel, Hans Walter. 2009. *Anästhesie Intensivmedizin Notfallmedizin
-	- Für Studium Und Ausbildung*. 7th ed. Schattauer.
+	Striebel, Hans Walter:
+	2009.*Anästhesie Intensivmedizin Notfallmedizin
+	- Für Studium Und Ausbildung*.
+	7. Auflage,  Schattauer.
 
 
 
@@ -3172,7 +3436,8 @@ Literaturverzeichnis
 
 .. [StriebelAnaesthesie:2]
 
-	———. 2010a. *Die Anästhesie: Grundlagen Und Praxis*. 2nd ed. Schattauer.
+	———. 2010a. *Die Anästhesie: Grundlagen Und Praxis*.
+	2. Auflage,  Schattauer.
 
 
 
@@ -3182,7 +3447,8 @@ Literaturverzeichnis
 
 .. [StriebelAnaesthesie2-Band2]
 
-	———. 2010b. *Die Anästhesie: Grundlagen Und Praxis*. 2nd ed. Vol. 2.
+	———. 2010b. *Die Anästhesie: Grundlagen Und Praxis*.
+	2. Auflage,  Vol. 2.
 	Schattauer.
 
 
@@ -3193,8 +3459,10 @@ Literaturverzeichnis
 
 .. [SudoweProfHandelnRD:1]
 
-	Sudowe, Hendrik. 2007. *Professionell Handeln Im Rettungsdienst – Das
-	Trainingsbuch*. 1st ed. Elsevier.
+	Sudowe, Hendrik:
+	2007.*Professionell Handeln Im Rettungsdienst – Das
+	Trainingsbuch*.
+	1. Auflage,  Elsevier.
 
 
 
@@ -3204,9 +3472,11 @@ Literaturverzeichnis
 
 .. [Supady:2009]
 
-	Supady, A., T. Schwab, and H-J. Busch. 2009. “["’‘Liquid Ecstasy"’:
+	Supady, A., T. Schwab, and H-J. Busch. 2009.
+	**["’‘Liquid Ecstasy"’:
 	Gamma-Butyrolactone Withdrawal Delirium with Rhabdomyolysis and Dialysis
-	Dependent Renal Failure].” *Dtsch Med Wochenschr* 134 (18). Medizin III
+	Dependent Renal Failure].**
+	*Dtsch Med Wochenschr* 134 (18). Medizin III
 	- Kardiologie und Angiologie Universitätsklinikum Freiburg.
 	Alexander.Supady@uniklinik-freiburg.de: 935–37.
 	doi:\ `10.1055/s-0029-1220252 <https://doi.org/10.1055/s-0029-1220252>`__.
@@ -3219,7 +3489,8 @@ Literaturverzeichnis
 
 .. [IntroClinEmergMed:4]
 
-	Swaminatha V, Mahadevan, and Gus M. Garmel, eds. 2008. *An Introduction
+	Swaminatha V, Mahadevan, and Gus M. Garmel, eds:
+	2008.*An Introduction
 	to Clinical Emergency Medicine – Guide for Practitioners in the
 	Emergency Department*. 4th ed. Cambridge University Press.
 
@@ -3232,8 +3503,10 @@ Literaturverzeichnis
 .. [Thierbach:2004]
 
 	Thierbach, A., T. Piepho, B. Wolcke, S. Küster, and W. Dick. 2004.
-	“[Prehospital Emergency Airway Management Procedures. Success Rates and
-	Complications].” *Anaesthesist* 53 (6). Klinik für Anästhesiologie,
+
+	**[Prehospital Emergency Airway Management Procedures. Success Rates and
+	Complications].**
+	*Anaesthesist* 53 (6). Klinik für Anästhesiologie,
 	Johannes Gutenberg-Universität, Mainz. Thierbach@uni-mainz.de: 543–50.
 	doi:\ `10.1007/s00101-004-0679-z <https://doi.org/10.1007/s00101-004-0679-z>`__.
 
@@ -3245,8 +3518,10 @@ Literaturverzeichnis
 
 .. [ThierbachInterhospitaltransfer:1]
 
-	Thierbach, Andreas, and Johannes Veith, eds. 2005. *Praxisleitfaden
-	Interhospitaltransfer*. 1st ed. Stumpf & Kossendey.
+	Thierbach, Andreas und Johannes Veith, eds:
+	2005.*Praxisleitfaden
+	Interhospitaltransfer*.
+	1. Auflage,  Stumpf & Kossendey.
 
 
 
@@ -3256,7 +3531,8 @@ Literaturverzeichnis
 
 .. [ThunRedenI:46]
 
-	Thun, Friedemann Schulz von. 1981. *Störungen Und Klärungen. Allgemeine
+	Thun, Friedemann Schulz von:
+	1981.*Störungen Und Klärungen. Allgemeine
 	Psychologie Der Kommunikation*. 46th ed. Vol. 1. Miteinander Reden.
 	Differentielle Psychologie Der Kommunikation. rororo.
 
@@ -3268,7 +3544,8 @@ Literaturverzeichnis
 
 .. [ThunRedenII:30]
 
-	———. 1989. *Stile, Werte Und Persönlichkeitsentwicklung. Differentielle
+	———:
+	1989.*Stile, Werte Und Persönlichkeitsentwicklung. Differentielle
 	Psychologie Der Kommunikation*. 30th ed. Vol. 2. Miteinander Reden.
 	rororo.
 
@@ -3280,8 +3557,12 @@ Literaturverzeichnis
 
 .. [ThunRedenIII:19]
 
-	———. 2010. *Das “Innere Team” Und Situationsgerechte Kommunikation.
-	Differentielle Psychologie Der Kommunikation*. 19th ed. Vol. 3.
+	———:
+	2010.*Das
+	**Innere Team**
+	Und Situationsgerechte Kommunikation.
+	Differentielle Psychologie Der Kommunikation*.
+	19. Auflage,  Vol. 3.
 	Miteinander Reden. rororo.
 
 
@@ -3293,7 +3574,8 @@ Literaturverzeichnis
 .. [Timmermann:2012]
 
 	Timmermann, A., C. Byhahn, V. Wenzel, C. Eich, T. Piepho, M. Bernhard,
-	and V. Dörges. 2012. “Handlungsempfehlung Für Das Präklinische
+	and V. Dörges. 2012.
+	**Handlungsempfehlung Für Das Präklinische
 	Atemwegsmanagement Für Notärzte Und Rettungsdienstpersonal. Beschluss
 	Des Engeren Präsidiums Der Dgai Vom 18.04.2012 in Frankfurt Am Main.”
 	*Anästh Intensivmed* 53: 294–308.
@@ -3309,8 +3591,10 @@ Literaturverzeichnis
 
 	Timmermann, Arnd, Christoph Eich, Sebastian G. Russo, Ulrich Natge,
 	Anselm Bräuer, William H. Rosenblatt, and Ulrich Braun. 2006.
-	“Prehospital Airway Management: A Prospective Evaluation of Anaesthesia
-	Trained Emergency Physicians.” *Resuscitation* 70 (2). Department of
+
+	**Prehospital Airway Management: A Prospective Evaluation of Anaesthesia
+	Trained Emergency Physicians.**
+	*Resuscitation* 70 (2). Department of
 	Anesthesiology, Emergency; Intensive Care; Medicine, Georg-August
 	University of Goettingen, Germany. atimmer@zari.de: 179–85.
 	doi:\ `10.1016/j.resuscitation.2006.01.010 <https://doi.org/10.1016/j.resuscitation.2006.01.010>`__.
@@ -3324,9 +3608,11 @@ Literaturverzeichnis
 .. [Timmermann:2007]
 
 	Timmermann, Arnd, Sebastian G Russo, Christoph Eich, Markus Roessler,
-	Ulrich Braun, William H Rosenblatt, and Micheal Quintel. 2007. “The
+	Ulrich Braun, William H Rosenblatt, and Micheal Quintel. 2007.
+	**The
 	Out-of-Hospital Esophageal and Endobronchial Intubations Performed by
-	Emergency Physicians.” *Anesth Analg* 104 (3). Department of
+	Emergency Physicians.**
+	*Anesth Analg* 104 (3). Department of
 	Anesthesiology, Emergency; Intensive Care Medicine, Georg-August
 	University, Goettingen, Germany. atimmer@zari.de: 619–23.
 	doi:\ `10.1213/01.ane.0000253523.80050.e9 <https://doi.org/10.1213/01.ane.0000253523.80050.e9>`__.
@@ -3349,7 +3635,8 @@ Literaturverzeichnis
 
 .. [BruederlBelastung88-DefBew]
 
-	Trautmann-Sponsel, R. D. 1988. In *Belastung Und Bewältigung: Trends in
+	Trautmann-Sponsel, R. D:
+	1988.In *Belastung Und Bewältigung: Trends in
 	Der Bewältigungsforschung*, edited by L. Brüderl, 14–24. München:
 	Juventa.
 
@@ -3379,8 +3666,10 @@ Literaturverzeichnis
 
 	Truhlár, Anatolij, Charles D. Deakin, Jasmeet Soar, Gamal Eldin Abbas
 	Khalifa, Annette Alfonzo, Joost J L M. Bierens, Guttorm Brattebø, et al.
-	2015. “European Resuscitation Council Guidelines for Resuscitation 2015:
-	Section 4. Cardiac Arrest in Special Circumstances.” *Resuscitation* 95
+	2015.
+	**European Resuscitation Council Guidelines for Resuscitation 2015:
+	Section 4. Cardiac Arrest in Special Circumstances.**
+	*Resuscitation* 95
 	(October). Department of Anaesthesiology; Intensive Care Medicine,
 	University Hospital of Cologne, Cologne, Germany.: 148–201.
 	doi:\ `10.1016/j.resuscitation.2015.07.017 <https://doi.org/10.1016/j.resuscitation.2015.07.017>`__.
@@ -3393,7 +3682,9 @@ Literaturverzeichnis
 
 .. [UlfigHistologie:1]
 
-	Ulfig, Norbert. 2003. *Kurzlehrbuch Histologie*. 1st ed. Thieme.
+	Ulfig, Norbert:
+	2003.*Kurzlehrbuch Histologie*.
+	1. Auflage,  Thieme.
 
 
 
@@ -3403,7 +3694,8 @@ Literaturverzeichnis
 
 .. [Uicc:3]
 
-	Union Internationale Contre le Cancer, ed. 1993. *TNM-Atlas.
+	Union Internationale Contre le Cancer, ed:
+	1993.*TNM-Atlas.
 	Illustrierter Leitfaden Zur Tnm/pTNM-Klassifikation Maligner Tumoren*.
 	Springer.
 
@@ -3416,9 +3708,11 @@ Literaturverzeichnis
 .. [Uray:2008]
 
 	Uray, Thomas, and Reinhard Malzer on behalf of the Vienna Hypothermia
-	After Cardiac Arrest (HACA) Study Group. 2008. “Out-of-Hospital Surface
+	After Cardiac Arrest (HACA) Study Group. 2008.
+	**Out-of-Hospital Surface
 	Cooling to Induce Mild Hypothermia in Human Cardiac Arrest: A
-	Feasibility Trial.” *Resuscitation* 77 (3). Department of Emergency
+	Feasibility Trial.**
+	*Resuscitation* 77 (3). Department of Emergency
 	Medicine, Medical University of Vienna, Austria.: 331–38.
 
 
@@ -3429,8 +3723,10 @@ Literaturverzeichnis
 
 .. [WundversorgungPflege:2]
 
-	Vasel-Biergans, Anette, and Wiltrud Probst. 2011. *Wundversorgung Für
-	Die Pflege: Ein Praxisbuch*. 2nd ed. Wissenschaftliche
+	Vasel-Biergans, Anette und Wiltrud Probst:
+	2011.*Wundversorgung Für
+	Die Pflege: Ein Praxisbuch*.
+	2. Auflage,  Wissenschaftliche
 	Verlagsgesellschaft Stuttgart.
 
 
@@ -3441,11 +3737,13 @@ Literaturverzeichnis
 
 .. [EG-1272-2008-De]
 
-	“Verordnung (Eg) Nr. 1272/2008 Des Europäischen Parlaments Und Des Rates
+
+	**Verordnung (Eg) Nr. 1272/2008 Des Europäischen Parlaments Und Des Rates
 	Vom 16. Dezember 2008 über Die Einstufung, Kennzeichnung Und Verpackung
 	von Stoffen Und Gemischen, Zur ‘Anderung Und Aufhebung Der Richtlinien
 	67/548/Ewg Und 1999/45/Eg Und Zur ’Anderung Der Verordnung (Eg) Nr.
-	1907/2006.” 2008. Amtsblatt der Europäischen Union.
+	1907/2006.**
+	2008. Amtsblatt der Europäischen Union.
 	http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:353:0001:1355:de:PDF.
 
 
@@ -3456,7 +3754,8 @@ Literaturverzeichnis
 
 .. [AUT-LAW-VBV2002-1]
 
-	“Verordnung Des Bundesministers Für Wirtschaft Und Arbeit über
+
+	**Verordnung Des Bundesministers Für Wirtschaft Und Arbeit über
 	Sicherheitstechnische Bestimmungen Für Versandbehälter -
 	Versandbehälterverordnung 2002 [Vbv:2002]_ idF: BGBl. Ii Nr. 347/2005.”
 	2005. BGBl. II Nr. 347/2005.
@@ -3485,9 +3784,11 @@ Literaturverzeichnis
 .. [Vlcek:2008]
 
 	Vlcek, Marianne, Andreas Bur, Christian Woisetschläger, Harald Herkner,
-	Anton N Laggner, and Michael M Hirschl. 2008. “Association Between
+	Anton N Laggner, and Michael M Hirschl. 2008.
+	**Association Between
 	Hypertensive Urgencies and Subsequent Cardiovascular Events in Patients
-	with Hypertension.” *J Hypertens* 26 (4). Department of Emergency
+	with Hypertension.**
+	*J Hypertens* 26 (4). Department of Emergency
 	Medicine, General Hospital, University of Vienna.: 657–62.
 	doi:\ `10.1097/HJH.0b013e3282f4e8b6 <https://doi.org/10.1097/HJH.0b013e3282f4e8b6>`__.
 
@@ -3499,8 +3800,10 @@ Literaturverzeichnis
 
 .. [Waldeyer:2003]
 
-	Waldeyer, Anton Johannes, J. Fanghänel, F. Pera, F. Anderhuber, and R.
-	Nitsch, eds. 2003. *Waldeyer Anatomie Des Menschen*. 17th ed. de
+	Waldeyer, Anton Johannes, J. Fanghänel, F. Pera, F. Anderhuber und R.
+	Nitsch, eds:
+	2003.*Waldeyer Anatomie Des Menschen*.
+	17. Auflage,  de
 	Gruyter.
 
 
@@ -3511,8 +3814,10 @@ Literaturverzeichnis
 
 .. [Wang-2006a]
 
-	Wang, Henry E, and Donald M Yealy. 2006. “Out-of-Hospital Endotracheal
-	Intubation: Where Are We?” *Ann Emerg Med* 47 (6). Department of
+	Wang, Henry E, and Donald M Yealy. 2006.
+	**Out-of-Hospital Endotracheal
+	Intubation: Where Are We?**
+	*Ann Emerg Med* 47 (6). Department of
 	Emergency Medicine, University of Pittsburgh School of Medicine,
 	Pittsburgh, PA 15213, USA. wanghe@upmc.edu: 532–41.
 	doi:\ `10.1016/j.annemergmed.2006.01.016 <https://doi.org/10.1016/j.annemergmed.2006.01.016>`__.
@@ -3526,8 +3831,10 @@ Literaturverzeichnis
 .. [Wang:2008]
 
 	Wang, Henry E, Lawrence J Cook, Chung-Chou H Chang, Donald M Yealy, and
-	Judith R Lave. 2008. “Outcomes After Out-of-Hospital Endotracheal
-	Intubation Errors.” *Resuscitation*, October. Department of Emergency
+	Judith R Lave. 2008.
+	**Outcomes After Out-of-Hospital Endotracheal
+	Intubation Errors.**
+	*Resuscitation*, October. Department of Emergency
 	Medicine, University of Pittsburgh, Pittsburgh, PA, United States.
 	doi:\ `10.1016/j.resuscitation.2008.08.016 <https://doi.org/10.1016/j.resuscitation.2008.08.016>`__.
 
@@ -3540,8 +3847,10 @@ Literaturverzeichnis
 .. [Wang:2006]
 
 	Wang, Henry E, Judith R Lave, Carl A Sirio, and Donald M Yealy. 2006.
-	“Paramedic Intubation Errors: Isolated Events or Symptoms of Larger
-	Problems?” *Health Aff (Millwood)* 25 (2). Department of Emergency
+
+	**Paramedic Intubation Errors: Isolated Events or Symptoms of Larger
+	Problems?**
+	*Health Aff (Millwood)* 25 (2). Department of Emergency
 	Medicine, University of Pittsburgh School of Medicine, Pennsylvania,
 	USA. wanghe@upmc.edu: 501–9.
 	doi:\ `10.1377/hlthaff.25.2.501 <https://doi.org/10.1377/hlthaff.25.2.501>`__.
@@ -3584,8 +3893,9 @@ Literaturverzeichnis
 .. [BrockhausDrei2Bd2]
 
 	Weiß, Joachin, Sabine-Walburga Anders, Ellen Astor, Ariana Braunbehrens,
-	Ursula Butzek, Silke Garotti, Dieter Geiß, et al., eds. 1995a. *Der
-	Brockhaus in Drei Bänden*. 2nd ed. Vol. 2. F.A. Brockhaus.
+	Ursula Butzek, Silke Garotti, Dieter Geiß, et al.  (HG): 1995a. *Der
+	Brockhaus in Drei Bänden*.
+	2. Auflage,  Vol. 2. F.A. Brockhaus.
 
 
 
@@ -3595,7 +3905,8 @@ Literaturverzeichnis
 
 .. [BrockhausDrei1Bd2]
 
-	———, eds. 1995b. *Der Brockhaus in Drei Bänden*. 2nd ed. Vol. 1. F.A.
+	——— (HG): 1995b. *Der Brockhaus in Drei Bänden*.
+	2. Auflage,  Vol. 1. F.A.
 	Brockhaus.
 
 
@@ -3606,7 +3917,8 @@ Literaturverzeichnis
 
 .. [BrockhausDrei3Bd2]
 
-	———, eds. 1995c. *Der Brockhaus in Drei Bänden*. 2nd ed. Vol. 3. F.A.
+	——— (HG): 1995c. *Der Brockhaus in Drei Bänden*.
+	2. Auflage,  Vol. 3. F.A.
 	Brockhaus.
 
 
@@ -3617,7 +3929,8 @@ Literaturverzeichnis
 
 .. [EcgEmergencyDec:2]
 
-	Wells, Hein J. J., and Mary Conover. 2006. *The Ecg in Emergency
+	Wells, Hein J. J., and Mary Conover:
+	2006.*The Ecg in Emergency
 	Decision Making*. 2nd ed. Saunders Elsevier.
 
 
@@ -3629,9 +3942,11 @@ Literaturverzeichnis
 .. [Wells:2000]
 
 	Wells, P. S., D. R. Anderson, M. Rodger, J. S. Ginsberg, C. Kearon, M.
-	Gent, A. G. Turpie, et al. 2000. “Derivation of a Simple Clinical Model
+	Gent, A. G. Turpie, et al. 2000.
+	**Derivation of a Simple Clinical Model
 	to Categorize Patients Probability of Pulmonary Embolism: Increasing the
-	Models Utility with the Simplired d-Dimer.” *Thromb Haemost* 83 (3).
+	Models Utility with the Simplired d-Dimer.**
+	*Thromb Haemost* 83 (3).
 	Department of Medicine, University of Ottawa, Ontario, Canada.
 	pwells@civich.ottawa.on.ca: 416–20.
 
@@ -3644,9 +3959,11 @@ Literaturverzeichnis
 .. [WHOISH:2003]
 
 	Whitworth, Judith A, and International Society of Hypertension Writing
-	Group World Health Organization. 2003. “2003 World Health Organization
+	Group World Health Organization. 2003.
+	**2003 World Health Organization
 	(Who)/International Society of Hypertension (Ish) Statement on
-	Management of Hypertension.” *J Hypertens* 21 (11). John Curtin School
+	Management of Hypertension.**
+	*J Hypertens* 21 (11). John Curtin School
 	of Medical Research, Australian National University, Canberra,
 	Australia. judith.whitworth@anu.edu.au: 1983–92.
 
@@ -3658,7 +3975,9 @@ Literaturverzeichnis
 
 .. [WiedenmannHygieneRD:1]
 
-	Wiedenmann, Markus, ed. 2011. *Hygiene Im Rettungsdienst*. 1st ed.
+	Wiedenmann, Markus, ed:
+	2011.*Hygiene Im Rettungsdienst*.
+	1. Auflage,
 	Elsevier.
 
 
@@ -3670,9 +3989,11 @@ Literaturverzeichnis
 .. [Wiese:2009]
 
 	Wiese, C H R., T. Semmel, J. U. Müller, J. Bahr, H. Ocker, and B. M.
-	Graf. 2009. “The Use of the Laryngeal Tube Disposable (Lt-d) by
+	Graf. 2009.
+	**The Use of the Laryngeal Tube Disposable (Lt-d) by
 	Paramedics During Out-of-Hospital Resuscitation-an Observational Study
-	Concerning Erc Guidelines 2005.” *Resuscitation* 80 (2). Department of
+	Concerning Erc Guidelines 2005.**
+	*Resuscitation* 80 (2). Department of
 	Anaesthesiology, University Medical Centre Göttingen,
 	Robert-Koch-Strasse 40, D-37075 Göttingen, Germany.
 	cwiese@med.uni-goettingen.de: 194–98.
@@ -3722,7 +4043,8 @@ Literaturverzeichnis
 
 .. [WirthEH]
 
-	Wirth, Armin. 2007. *Erste Hilfe Unterwegs. Effektiv Und Praxisnah.*
+	Wirth, Armin:
+	2007.*Erste Hilfe Unterwegs. Effektiv Und Praxisnah.*
 	Reise-Know-How Verlag Peter Rump.
 
 
@@ -3749,7 +4071,8 @@ Literaturverzeichnis
 
 .. [ICD10De]
 
-	World Health Organization. n.d. “International Statistical
+	World Health Organization. n.d.
+	**International Statistical
 	Classification of Diseases and Related Health Problems 10th Revision –
 	Deutsche übersetzung.”
 
@@ -3761,7 +4084,9 @@ Literaturverzeichnis
 
 .. [WunnPsych:1]
 
-	Wunn, Eva. 2006. *BASICS Psychiatrie*. 1st ed. Elsevier.
+	Wunn, Eva:
+	2006.*BASICS Psychiatrie*.
+	1. Auflage,  Elsevier.
 
 
 
@@ -3776,23 +4101,18 @@ Literaturverzeichnis
 	2009:14(4), 54.
 
 .. [Erc-2015-Sektion-07-De]
-
 	Wyllie, J., J. Bruinenberg, C.C. Roehr, M. Rüdiger, D. Trevisanuto, and
-	B. Urlesberger. 2015a. “Die Versorgung Und Reanimation Des
-	Neugeborenen.” *Notfall + Rettungsmedizin* 18 (8). Springer Berlin
+	B. Urlesberger. 2015a.
+	**Die Versorgung Und Reanimation Des
+	Neugeborenen.**
+	*Notfall + Rettungsmedizin* 18 (8). Springer Berlin
 	Heidelberg: 964–83.
 	doi:\ `10.1007/s10049-015-0090-0 <https://doi.org/10.1007/s10049-015-0090-0>`__.
 
-
-
-
-
-
-
 .. [Erc-2015-Section-07]
-
 	Wyllie, Jonathan, Jos Bruinenberg, Charles Christoph Roehr, Mario
-	Rüdiger, Daniele Trevisanuto, and Berndt Urlesberger. 2015b. “European
+	Rüdiger, Daniele Trevisanuto, and Berndt Urlesberger. 2015b.
+	**European
 	Resuscitation Council Guidelines for Resuscitation 2015: Section 7.
 	Resuscitation and Support of Transition of Babies at Birth.”
 	*Resuscitation* 95 (October). Division of Neonatology, Medical
@@ -3805,21 +4125,12 @@ Literaturverzeichnis
 
 
 
-.. [Yerkes:1908]
-
-	Yerkes, R.M., and J.D Dodson. 1908. “The Relation of Strength of
-	Stimulus to Rapidity of Habit-Formation.” *Journal of Comparative
-	Neurology and Psychology* 18: 459–82.
-
-
-
-
-
 
 
 .. [Zeiler:2001]
 
-	Zeiler, Karl, Eduard Auff, and Lüder Deecke. 2001. *Grundlagen Der
+	Zeiler, Karl, Eduard Auff und Lüder Deecke:
+	2001.*Grundlagen Der
 	Klinischen Neurologie 1. Grundlagen Für Human- Und Zahnmediziner*.
 	facultas.wuv Universitäts.
 
@@ -3848,8 +4159,10 @@ Literaturverzeichnis
 
 	Zideman, David A., Emmy D J. De Buck, Eunice M. Singletary, Pascal
 	Cassan, Athanasios F. Chalkias, Thomas R. Evans, Christina M. Hafner, et
-	al. 2015b. “European Resuscitation Council Guidelines for Resuscitation
-	2015 Section 9. First Aid.” *Resuscitation* 95 (October). Belgian Red
+	al. 2015b.
+	**European Resuscitation Council Guidelines for Resuscitation
+	2015 Section 9. First Aid.**
+	*Resuscitation* 95 (October). Belgian Red
 	Cross-Flanders, Mechelen, Belgium; Department of Public Health; Primary
 	Care, Faculty of Medicine, Catholic University of Leuven, Leuven,
 	Belgium; Faculty of Medicine, University of Ghent, Ghent, Belgium.:
@@ -3877,7 +4190,9 @@ Literaturverzeichnis
 
 .. [ZimbardoPsych:6]
 
-	Zimbardo, G., ed. 1995. *Psychologie*. 6th ed. Springer.
+	Zimbardo, G., ed:
+	1995.*Psychologie*.
+	6. Auflage,  Springer.
 
 
 

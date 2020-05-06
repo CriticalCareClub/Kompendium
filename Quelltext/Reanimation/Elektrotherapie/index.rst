@@ -346,7 +346,7 @@ Therapieelektroden
     Die Verwendung von Hardpaddles führt zu
     **schlechteren Ergebnissen** und soll daher nur wenn nicht anders
     möglich erfolgen
-    [Erc-2015-Section-03]_ [Erc-2015-Sektion-03-De]_ \ .
+    [ERC:2015:03]_ [ERC:2015:03:De]_ \ .
 
 Manueller Modus = manuelle Analyse
     Viele manuelle Defibrillatoren besitzen einen (S)AED-Modus, welcher

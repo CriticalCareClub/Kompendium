@@ -260,9 +260,9 @@ Basismaßnahmen
         Gefahr der CO₂-Narkose durch Hemmung des Atemantriebes!
 
         Sauerstoff vorsichtig dosieren,
-        anfänglich nur 2-3 L / min, weiter je nach SpO₂ oder BGA.
+        anfänglich nur 2-3 L / min, weiter je nach SpO₂ oder BGA.
         Wenn der Patient bereits Heimsauerstoff benutzt,
-        1-2 L / min höher dosieren.
+        1-2 L / min höher dosieren.
         Heimsauerstoff soll jedenfalls weiter gegeben werden!
 
         *Atmung und Bewusstsein müssen bei der O₂-Gabe besonders

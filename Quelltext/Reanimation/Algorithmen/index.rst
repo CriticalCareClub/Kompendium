@@ -185,7 +185,7 @@ siehe :ref:`Figure-Bls-Aed-Algorithmus` … Algorithmus BLS mit AED
 
 	    Basic Life Support mit AED.[Table-algorithmus-bls-aed]
 
-           [Josef Emhofer]_ [ nach  [Erc-2015-Section-02]_ ]
+           [Josef Emhofer]_ [ nach  [ERC:2015:02]_ ]
 
 .. only:: html
 

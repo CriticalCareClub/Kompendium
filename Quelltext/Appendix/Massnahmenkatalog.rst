@@ -260,7 +260,7 @@ Solange es noch unklar ist, ob eine WS-Immobilisation
 notwendig ist, muss eine manuelle Fixierung der HWS
 durchgeführt werden!
 
-[ITLS:6:De]_ [ScholzNotfallmedizin:2]_ [SiewertChirurgie:8]_
+[Campbell:2010:De]_ [Scholz:2]_ [Siewert:8]_
 
 
 

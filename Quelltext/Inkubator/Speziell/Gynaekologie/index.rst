@@ -632,7 +632,6 @@ Maßnahmen: Versorgung des Neugeborenen
             zähflüssigem Mekonium beim schlaffen, avitalen
             Neugeborenen ist die einzige Situation, in der ein
             sofortiges Absaugen des Oropharynx zu erwägen ist.
-            ERC 2010[Erc-2010Sek06De]_
 
     -   Atmung
 
@@ -653,7 +652,7 @@ Maßnahmen: Versorgung des Neugeborenen
     aber irreführend sein.
     Eine Beurteilung der Herzfrequenz
     allein über die Pulsation der Nabelschnur ist nur
-    zuverlässig, wenn die Herzfrequenz über 100\PerMin* liegt. [Erc-2010Sek06De]_
+    zuverlässig, wenn die Herzfrequenz über 100\PerMin* liegt.
 
     Bei Sanitätern, insbesondere der
     niedrigeren Ausbildungsstufen, kann nicht davon
@@ -738,7 +737,7 @@ Maßnahmen: Versorgung des Neugeborenen
     }
 
 
-[Erc-2010Sek06De]_ [AsboeLehrmeinungRd2011-19]_ [AsboeLehrmeinungRd2011-18]_ \
+[AsboeLehrmeinungRd2011-19]_ [AsboeLehrmeinungRd2011-18]_ \
 
 
 
@@ -830,9 +829,6 @@ Basismaßnahmen
     -   Thoraxkompressionen und Beatmungen im Verhältnis von
         **3 : 1**
     -   |TxMassVitMK|
-
-
-[Erc-2010Sek06De]_
 
 
 Peripartale Asphyxie

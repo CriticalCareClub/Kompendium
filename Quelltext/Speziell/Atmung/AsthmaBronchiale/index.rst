@@ -239,21 +239,21 @@ bleibender schwerer Atemnot bzw. Status asthmaticus
     auftreten (CO2-Narkose)! Siehe :ref:`Thema-Copd`.
     Bei sorgfältiger Überwachung des
     Patienten stellt die -Gabe in der Praxis jedoch kein Problem dar
-    [ScholzNotfallmedizin:2]_ \ .
+    [Scholz:2]_.
 
-    O₂ bis eine Sauerstoffsättigung von 94-98% erreicht ist, oder 8 L / min.
+    O₂ bis eine Sauerstoffsättigung von 94-98% erreicht ist, oder 8 L / min.
     Die einschlägige Literatur ist widersprüchlich.
     Besonderes betont muss die Notwendigkeit zur Überwachung des Patienten
     bezüglich Bewusstseinsstörungen und Atmung werden!
 
 -   Beruhigen, voratmen, durch fast geschlossene Lippen ausatmen lassen
     (Lippenbremse)
--   Für nicht-ärztiches Personal:
+-   Für nicht-ärztliches Personal:
     Sprays, die Patient evtl. bei sich hat,
     dürfen ohne ärztliche Anordnung nicht mehr genommen
     werden.
 
-    Es besteht die Gefajr, dass die Luftpassage nicht mehr ausreicht
+    Es besteht die Gefahr, dass die Luftpassage nicht mehr ausreicht
     um den Wirkstoff in die Bronchien, dem Wirkungsort,  zu bringen,
     durch die Schleimhautresorption jedoch es zu einer systemischen
     Beta-mimetischen Wirkung (Tachykardie!)

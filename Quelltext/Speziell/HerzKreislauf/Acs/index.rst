@@ -384,7 +384,7 @@ bzw. das geeigente Verfahren auswählen.
     *Zur Bekämpfung von Herzinfarkt und Arteriosklerose*
     http://youtu.be/SWZYBrLAnNk.
 -   Literatur:
-    [Erc-2015-Section-08]_
+    [ERC:2015:08]_
     [Harrisons18DeKap225]_
     [Harrisons18DeKap230]_
     [Harrisons18DeKap224]_

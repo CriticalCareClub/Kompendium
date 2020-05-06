@@ -54,7 +54,7 @@ Dieser Wert soll auch bei der Beatmung
 angestrebt werden.
 Dazu wird der Beatmungsbeutel gleichmäßig zusammen
 gedrückt bis eine sichtbare Atembewegung vorhanden ist. Der
-*Beatmungsvorgang* soll in etwa *1 s* dauern [Erc-2010Sek02De]_ \ .
+*Beatmungsvorgang* soll in etwa *1 s* dauern.
 Die Frequenz gibt der Reanimationsalgorithmus vor.
 
 Durch Verwendung eines Sauerstoffreservoirs und und einer
@@ -215,7 +215,7 @@ kommen.\ [324]_
    equipped with waveform capnography. In the absence of these
    prerequisites, consider use of bag-mask ventilation and/or an SGA
    until appropriately experience and equipped personnel are present."*
-   [Erc-2015-Section-04]_ .
+   [ERC:2015:04]_ .
    Zur Problematik der Verfügbarkeit der Kapnographie siehe auch
    [Genzwuerker2007`]_ [Timmermann:2007]_  und darin enthaltene
    Referenzen.
@@ -250,7 +250,7 @@ In den letzten Jahren gewinnen die supraglottischen\ [325]_ Hilfsmittel
 aufgrund ihrer verhältnismäßig einfachen Anwendbarkeit immer mehr an
 Bedeutung. Schon die ERC-Leitlinien 2010 sahen die supraglottischen
 Atemwegshilfen bei der Reanimation als weitgehend gleichwertig zur
-klassischen endotrachealen Intubation an [Erc-2010Sec4]_ .\ [326]_
+klassischen endotrachealen Intubation an.\ [326]_
 
 Bei den supraglottischen Atemwegshilfen endet allgmein der
 Beatmungsschenkel im Rachen beziehungsweise oberhalb des Kehldeckels
@@ -334,7 +334,7 @@ Die wichtigsten Ergebnisse dieser Studien sind:
    Fehllagen, ist hoch. Diese werden oft spät oder gar nicht erkannt
    (Risiko der unerkannten Tubusfehllage bei Patienten mit
    außerklinischem Kreislaufstillstand: 0,5--17%
-   [Grmec:2002]_ [Lyon:2010]_ [Jones:2004]_ [Pelucio:1997]_ [Jemmett:2003]_ [Katz:2001]_ [Erc-2010Sek04De]_
+   [Grmec:2002]_ [Lyon:2010]_ [Jones:2004]_ [Pelucio:1997]_ [Jemmett:2003]_ [Katz:2001]_
 
 -  Die Erfolgsraten bei wenig routinierten Anwendern sind
    schlecht\ [327]_.
@@ -352,7 +352,7 @@ Die wichtigsten Ergebnisse dieser Studien sind:
 .. [327]
    *"Die Misserfolgsraten der Intubation betragen in außerklinischen,
    wenig ausgelasteten Systemen mit Anwendern, die selten Intubationen
-   durchführen, bis zu 50%"* [Erc-2010Sek04De]_ \ .
+   durchführen, bis zu 50%".*
 
 .. [328]
    [Timmermann:2007]_ \ : In dieser in
@@ -381,12 +381,12 @@ und sich sehr sicher ist,
 bzw. regelmäßige, laufende Erfahrung mit der Technik hat
 (*"It should be used only when trained personnel are available to
 carry out the procedure with a high level of skill and confidence."*
-[Erc-2010Sec4]_ [Erc-2015-Section-03]_ ).
+[ERC:2015:03]_ ).
 Ohne ausreichendes Training und Erfahrung wird die
 Komplikationsrate als unakzeptabel hoch angesehen. Das Aufschieben der
 endotrachealen Intubation bis zur Wiederkehr des spontanen Kreislaufs,
 wird bereits in den ERC 2010-Leitlinien als Alternative ausdrücklich
-genannt. [Nolan:2001]_ [Nolan:2008]_ [Lecky:2008]_ [Erc-2010Sec4]_
+genannt. [Nolan:2001]_ [Nolan:2008]_ [Lecky:2008]_
 Vor diesem Hintergrund bleibt festzuhalten,
 dass eine unterlassene Intubation nicht – wie oft
 behauptet – mit einer unterlassenen Hilfeleistung, sondern mit einer

@@ -67,7 +67,7 @@ Albträumen, Depressionen und wiederholten Selbstmordversuchen geprägt
 war. Es sollte nicht bei den Versuchen bleiben, doch bis zu seiner
 Selbsttötung am 29. Juli 1890 schuf er hunderte Gemälde und über tausend
 Zeichnungen. Heute gilt van Gogh als bedeutender Mitbegründer und
-Impulsgeber der modernen Malerei. [Wikipedia:2009]_
+Impulsgeber der modernen Malerei. [WP:VanGogh]_
 
     -  Die psychiatrische Diagnose verhält sich zum Patienten wie ein
        Barcode zur Tafel Schokolade: Niemand kauft eine Packung wegen
@@ -523,7 +523,7 @@ Willenssphäre sowie des Denkens (Messer, Tiltscher, and Pajonk 2008).**
 
 Die Depression ist eine sehr häufige Erkrankung (“Volkskrankheit”), etwa
 10% der Patienten einer allgemeinmedizinischen Praxis leiden unter ihr
-[Wunn:2006]_. Sie tritt mit einer Vielzahl von unterschiedlichen
+[Wunn:1]_. Sie tritt mit einer Vielzahl von unterschiedlichen
 Symptomen auf und ist oft nur schwer von alltäglicher Verstimmung
 abzugrenzen (Messer, Tiltscher, and Pajonk 2008).
 
@@ -641,21 +641,19 @@ Beschwerden vortäuschen.
 
 .. todo:: !!! LITERARY !!!
 
+	[Thun:1981]_
 
+	[Thun:1989]_
 
-	  [Thun:1981]_
+	[Thun:2010]_
 
-	  [Thun:1989]_
+	[Argelander:2009]_
 
-	  [Thun:2010]_
+	[Wunn:1]_
 
-	  [Argelander:2009]_
+	[Battegay:2]_
 
-	  [Wunn:2006]_
-
-	  [Battegay:1992]_
-
-	  (Scholz et al. 2008) !!! LITERARY !!!
+	[Scholz:2]_
 
 
 -----

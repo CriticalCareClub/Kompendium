@@ -79,7 +79,7 @@ Nach der Kompression erfolgt die passive vollständige **Entlastung** des
 Brustkorbs ehe eine neuerliche Kompression beginnt.\ [143]_
 Die Kompressions- und Entlastungsphasen
 sollen in etwa gleich lange dauern und
-nicht ruckartig ablaufen [Erc-2010Sec2]_ \ .
+nicht ruckartig ablaufen.
 Die *Zielfrequenz*  der Herzdruckmassage beträgt *100 / min* (bis
 max. 120 / min).
 

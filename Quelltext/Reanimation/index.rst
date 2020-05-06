@@ -65,11 +65,11 @@ Homepage Des Journals Resuscitation: https://www.resuscitationjournal.com/
 
 ERC-Guidelines, englische Originalfassung:
 
-  [Erc-2015-Section-01]_ [Erc-2015-Section-02]_ [Erc-2015-Section-03]_ [Erc-2015-Section-04]_ [Erc-2015-Section-05]_ [Erc-2015-Section-06]_ [Erc-2015-Section-07]_ [Erc-2015-Section-08]_ [Erc-2015-Section-09]_ [Erc-2015-Section-10]_ [ERC:2015:11]_
+  [ERC:2015:01]_ [ERC:2015:02]_ [ERC:2015:03]_ [ERC:2015:04]_ [ERC:2015:05]_ [ERC:2015:06]_ [ERC:2015:07]_ [ERC:2015:08]_ [ERC:2015:09]_ [ERC:2015:10]_ [ERC:2015:11]_
 
 ERC-Guidelines, deutsche Übersetzung:
 
-  [Erc-2015-Sektion-01-De]_ [Erc-2015-Sektion-02-De]_ [Erc-2015-Sektion-03-De]_ [Erc-2015-Sektion-04-De]_ [Erc-2015-Sektion-05-De]_ [Erc-2015-Sektion-06-De]_ [Erc-2015-Sektion-07-De]_ [Erc-2015-Sektion-08-De]_ [Erc-2015-Sektion-09-De]_ [Erc-2015-Sektion-10-De]_ [ERC:2015:11:De]_
+  [ERC:2015:01:De]_ [ERC:2015:02:De]_ [ERC:2015:03:De]_ [ERC:2015:04:De]_ [ERC:2015:05:De]_ [ERC:2015:06:De]_ [ERC:2015:07:De]_ [ERC:2015:08:De]_ [ERC:2015:09:De]_ [ERC:2015:10:De]_ [ERC:2015:11:De]_
 
 
 .. _Fig-Als:
@@ -77,11 +77,11 @@ ERC-Guidelines, deutsche Übersetzung:
 .. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.*
 
         ALS Der ALS-Algorithmus [Emhofer, nach
-        [Erc-2015-Section-03]_ \ ]
+        [ERC:2015:03]_ \ ]
 
 :download:`/Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.pdf`
 
-ALS Der ALS-Algorithmus[Emhofer]_ [ nach  [Erc-2015-Section-03]_ \ ]
+ALS Der ALS-Algorithmus[Emhofer]_ [ nach  [ERC:2015:03]_ \ ]
 
 
 ***********
@@ -92,7 +92,7 @@ Infektionen
    Die Ansteckungsgefahr mit Krankheiten im Rahmen einer Reanimation ist
    sehr gering. Es wurden noch keine Infektionen mit schwerwiegenden
    Erkrankungen wie HIV oder Hepatitis C während einer Basisreanimation
-   beschrieben. [Erc-2010Sec2]_
+   beschrieben.
 
 Probleme bei der HDM während des Defi-Ladevorganges
    In den ERC-Leitlinien von 2010 wird erstmals empfohlen, die

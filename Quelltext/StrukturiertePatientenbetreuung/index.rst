@@ -119,15 +119,15 @@ Punkt *C* in angemessener Weise durchgeführt werden.
 
 [AAOS:2006]_
 
-[Campbell:2010]_
+[Campbell:2010:De]_
 
-[NAEMT:2006]_
+[PHTLS:6]_
 
-[Semmel:2008]_
+[Semmel:1]_
 
-[Sudowe:2007]_
+[Sudowe:1]_
 
-[Kirschnick:2003]_
+[Kirschnick:2]_
 
 (Rüecker 2005)
 

@@ -520,7 +520,7 @@ AZV
     Atemzugsvolumen, *500 ml*
 
 AMV
-    Atemminutenvolumen, *6–8 L / min*
+    Atemminutenvolumen, *6–8 L / min*
 
 :math:`\mbox{AMV} = \mbox{AZV} \times \mbox{AF}`
 

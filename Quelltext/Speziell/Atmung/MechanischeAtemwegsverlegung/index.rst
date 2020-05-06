@@ -47,8 +47,7 @@ einem Bienenstich).
 
 Man unterscheidet zwischen einer *milden* (der
 Patient kann noch sprechen und husten) und einer *schweren
-Atemwegsverlegung* (Sprechen und Husten nicht möglich)
-[Erc-2005Sec2]_ [Erc-2005Sec6]_ [Erc-2005DeSec2]_ [Erc-2005DeSec6]_ .
+Atemwegsverlegung* (Sprechen und Husten nicht möglich).
 
 .. note::
 
@@ -224,7 +223,7 @@ Taktik:
 
 
 -   Atemwege soweit möglich freimachen
--   O₂-Gabe hochdosiert (10—15 L / min)
+-   O₂-Gabe hochdosiert (10—15 L / min)
 -   Lagerung: Situationsgerecht, z.B. Oberkörper erhöht
 -   |TxBeiVit| |TxMassVitMK|
 -   Weitere Maßnahmen abhängig von der Beurteilung der Schwere der
@@ -263,6 +262,3 @@ Möglichkeit abwärts schauen (besonders relevant bei Kindern).
 Durch Anwendung des Heimlich-Handgriffes kann es zu schweren inneren
 Verletzungen kommen. Ein Patient ist nach Anwendung unbedingt zu
 hospitalisieren!
-
-[Erc-2005DeSec2]_
-

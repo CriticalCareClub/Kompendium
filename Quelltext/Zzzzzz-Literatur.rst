@@ -726,8 +726,10 @@ Literaturverzeichnis
 
 .. [Cobas:2009]
 	Cobas, Miguel A., Maria Alejandra De la Peña, Ronald Manning, Keith
-	Candiotti, and Albert J. Varon. 2009. “Prehospital Intubations and
-	Mortality: A Level 1 Trauma Center Perspective.” *Anesth Analg* 109 (2).
+	Candiotti, and Albert J. Varon.:
+	**Prehospital Intubations and
+	Mortality: A Level 1 Trauma Center Perspective**
+	*Anesth Analg* 2009:109(2).
 	Department of Anesthesiology, Miller School of Medicine, University of
 	Miami, Miami, Florida 33136, USA. mcobas@med.miami.ed: 489–93.
 	doi:\ `10.1213/ane.0b013e3181aa3063 <https://doi.org/10.1213/ane.0b013e3181aa3063>`__.
@@ -1405,10 +1407,10 @@ Literaturverzeichnis
 
 
 .. [Grmec:2002]
-
-	Grmec, Stefek. 2002. “Comparison of Three Different Methods to Confirm
-	Tracheal Tube Placement in Emergency Intubation.” *Intensive Care Med*
-	28 (6). Emergency Medical Service - Prehospital unit, Ljubljanska 5,
+	Grmec, Stefek.:
+	**Comparison of Three Different Methods to Confirm
+	Tracheal Tube Placement in Emergency Intubation**
+	*Intensive Care Med* 2002:28(6). Emergency Medical Service - Prehospital unit, Ljubljanska 5,
 	Maribor 2000, Slovenia. grmec-mis@siol.net: 701–4.
 	doi:\ `10.1007/s00134-002-1290-x <https://doi.org/10.1007/s00134-002-1290-x>`__.
 
@@ -1567,11 +1569,11 @@ Literaturverzeichnis
 
 
 .. [Havel:2007]
-
-	Havel, Christof, Wolfgang Schreiber, Eva Riedmuller, Moritz Haugk, Nina
 	Richling, Helmut Trimmel, Reinhard Malzer, Fritz Sterz, and Harald
-	Herkner. 2007. “Quality of Closed Chest Compression in Ambulance
-	Vehicles, Flying Helicopters and at the Scene.” *Resuscitation* 73 (2).
+	Herkner.:
+	**Quality of Closed Chest Compression in Ambulance
+	Vehicles, Flying Helicopters and at the Scene**
+	*Resuscitation* 2007:73(2).
 	Department of Emergency Medicine, Medical University of Vienna,
 	Waehringerguertel 18-20/6D, A-1090 Vienna, Austria.: 264–70.
 	doi:\ `10.1016/j.resuscitation.2006.09.007 <https://doi.org/10.1016/j.resuscitation.2006.09.007>`__.
@@ -1925,10 +1927,10 @@ Literaturverzeichnis
 
 
 .. [Koppensteiner:2012:08]
-
-	Koppensteiner, Stefan. 2012. “Lachgas Im Rettungsdienst: Die Rechtlichen
-	Aspekte.” *Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin*
-	35 (8).
+	Koppensteiner, Stefan.:
+	**Lachgas Im Rettungsdienst: Die Rechtlichen
+	Aspekte**
+	*Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin* 2012:35(8).
 
 
 
@@ -2229,9 +2231,10 @@ Literaturverzeichnis
 
 
 .. [Loennecker:2001]
-
-	Lönnecker, S., and V. Schoder. 2001. “[Hypothermia in Patients with Burn
-	Injuries: Influence of Prehospital Treatment].” *Chirurg* 72 (2).
+	Lönnecker, S., and V. Schoder.:
+	**[Hypothermia in Patients with Burn
+	Injuries: Influence of Prehospital Treatment]**
+	*Chirurg* 2001:72(2).
 	Abteilung für Anaesthesie, Intensiv- und Rettungsmedizin,
 	Berufsgenossenschaftliches Unfallkrankenhaus Hamburg.: 164–67.
 
@@ -2340,10 +2343,11 @@ Literaturverzeichnis
 
 
 .. [Mann:2013]
-
 	Mann, V., S. T. Mann, E. Alejandre-Lafont, R. Röhrig, M. A. Weigand, and
-	M. Müller. 2013. “[Supraglottic Airway Devices in Emergency Medicine :
-	Impact of Gastric Drainage].” *Anaesthesist* 62 (4). Klinik für
+	M. Müller.:
+	**[Supraglottic Airway Devices in Emergency Medicine :
+	Impact of Gastric Drainage]**
+	*Anaesthesist* 2013:62(4). Klinik für
 	Anaesthesiologie, operative Intensivmedizin, Schmerztherapie,
 	Universitätsklinikum Gießen und Marburg GmbH, Campus Gießen,
 	Rudolf-Buchheim-Str. 7, 35382, Gießen, Deutschland.: 285–92.
@@ -2650,9 +2654,10 @@ Literaturverzeichnis
 
 
 .. [Nolan:2008]
-
-	Nolan, Jerry P, and Jasmeet Soar. 2008. “Airway Techniques and
-	Ventilation Strategies.” *Curr Opin Crit Care* 14 (3). Royal United
+	Nolan, Jerry P, and Jasmeet Soar.:
+	**Airway Techniques and
+	Ventilation Strategies**
+	*Curr Opin Crit Care* 2008:14(3). Royal United
 	Hospital, Bath, UK. Jerry.nolan@ruh.nhs.uk: 279–86.
 	doi:\ `10.1097/MCC.0b013e3282f85bc8 <https://doi.org/10.1097/MCC.0b013e3282f85bc8>`__.
 
@@ -3344,11 +3349,11 @@ Literaturverzeichnis
 
 
 .. [Stiell:2004]
-
 	Stiell, Ian G, George A Wells, Brian Field, Daniel W Spaite, Lisa P
-	Nesbitt, Valerie J De Maio, Graham Nichol, et al. 2004. “Advanced
-	Cardiac Life Support in Out-of-Hospital Cardiac Arrest.” *N Engl J Med*
-	351 (7). awa, Ottawa Ont, Canada. istiell@ohri.ca: 647–56.
+	Nesbitt, Valerie J De Maio, Graham Nichol, et al.:
+	**Advanced
+	Cardiac Life Support in Out-of-Hospital Cardiac Arrest**
+	*N Engl J Med* 2004:351(7). awa, Ottawa Ont, Canada. istiell@ohri.ca: 647–56.
 
 
 
@@ -3571,10 +3576,11 @@ Literaturverzeichnis
 
 
 .. [Erc-2015-Sektion-04-De]
-
 	Truhlář, A., C.D. Deakin, J. Soar, G.E.A. Khalifa, A. Alfonzo, J.J.L.M.
-	Bierens, G. Brattebø, et al. 2015. “Kreislaufstillstand in Besonderen
-	Situationen.” *Notfall + Rettungsmedizin* 18 (8). Springer Berlin
+	Bierens, G. Brattebø, et al.:
+	**Kreislaufstillstand in Besonderen
+	Situationen**
+	*Notfall + Rettungsmedizin* 2015:18(8). Springer Berlin
 	Heidelberg: 833–903.
 	doi:\ `10.1007/s10049-015-0096-7 <https://doi.org/10.1007/s10049-015-0096-7>`__.
 
@@ -3761,10 +3767,11 @@ Literaturverzeichnis
 
 
 .. [Wang:2011]
-
 	Wang, Henry E., N Clay Mann, Gregory Mears, Karen Jacobson, and Donald
-	M. Yealy. 2011. “Out-of-Hospital Airway Management in the United
-	States.” *Resuscitation* 82 (4). Department of Emergency Medicine,
+	M. Yealy.:
+	**Out-of-Hospital Airway Management in the United
+	States**
+	*Resuscitation* 2011:82(4). Department of Emergency Medicine,
 	University of Alabama at Birmingham, Birmingham, AL 35249, United
 	States. hwang@uabmc.edu: 378–85.
 	doi:\ `10.1016/j.resuscitation.2010.12.014 <https://doi.org/10.1016/j.resuscitation.2010.12.014>`__.
@@ -3938,9 +3945,10 @@ Literaturverzeichnis
 
 
 .. [Wolf:2009]
-
-	Wolf, T., and H-R. Brodt. 2009. “[The ‘Swine Flu’ Influenza a/H1n1 -
-	Pandemia on Trial].” *Dtsch Med Wochenschr* 134 (30). Medizinische
+	Wolf, T., and H-R. Brodt.:
+	**[The ‘Swine Flu’ Influenza a/H1n1 -
+	Pandemia on Trial]**
+	*Dtsch Med Wochenschr* 2009:134(30). Medizinische
 	Klinik II - Infektiologie, Johann Wolfgang Goethe-Universität,
 	Theodor-Stern-Kai 7, 60590 Frankfurt. timo.wolf@kgu.de: 1539–41.
 	doi:\ `10.1055/s-0029-1233976 <https://doi.org/10.1055/s-0029-1233976>`__.

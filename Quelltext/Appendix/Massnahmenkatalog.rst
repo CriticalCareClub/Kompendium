@@ -112,7 +112,7 @@ aufgeschoben werden
     vorbehalten."* OGH (4 Ob 36/10p)
 
     Das "selbstständige Begeben in ärztliche Behandlung"
-    stellt jedoch keine Beurteilung übder das Vorliegen einer Erkankung
+    stellt jedoch keine Beurteilung über das Vorliegen einer Erkrankung
     oder gesundheitlichen Störung sowie deren
     grundsätzlicher Behandlungsnotwendigkeit dar.
 
@@ -215,7 +215,7 @@ Traumapatienten, bei denen folgendes zutrifft:
 
     #.  Hochgeschwindigkeitsunfall
 
-    #.  Sturz ≥ 3 m oder 3fache Patientengröße
+    #.  Sturz ≥ 3 m oder 3-fache Patientengröße
 
     #.  Penetrierende Verletzungen im Bereich der
         Wirbelsäule

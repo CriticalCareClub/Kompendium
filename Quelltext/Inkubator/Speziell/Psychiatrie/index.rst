@@ -17,7 +17,7 @@ Psychiatrie
 :Reviewer:
     Standard-Reviewprozess
 
-.. todo:: Literatur: (Wunn 2006; Collier and Mark Brinsden 2006) 
+.. todo:: Literatur: (Wunn 2006; Collier and Mark Brinsden 2006)
 
 
 .. _Thema-unterbringungsgesetz:
@@ -31,7 +31,7 @@ Einleitung
 
 Die Psychiatrie beschäftigt sich mit der Prävention, Diagnostik und
 Therapie psychischer Störungen und ist ein sehr
-kompliziertes und anspruchsvolles Fachgebiet der Medizin. 
+kompliziertes und anspruchsvolles Fachgebiet der Medizin.
 Sie beschäftigt sich einerseits mit handfesten, körperlich bedingten
 Störungen, die Auswirkungen auf das Denken und die geistige
 Leistungsfähigkeit haben. Andererseits hat man es in der Psychiatrie
@@ -67,7 +67,7 @@ Albträumen, Depressionen und wiederholten Selbstmordversuchen geprägt
 war. Es sollte nicht bei den Versuchen bleiben, doch bis zu seiner
 Selbsttötung am 29. Juli 1890 schuf er hunderte Gemälde und über tausend
 Zeichnungen. Heute gilt van Gogh als bedeutender Mitbegründer und
-Impulsgeber der modernen Malerei. (Wikipedia 2009)
+Impulsgeber der modernen Malerei. [Wikipedia:2009]_
 
     -  Die psychiatrische Diagnose verhält sich zum Patienten wie ein
        Barcode zur Tafel Schokolade: Niemand kauft eine Packung wegen
@@ -274,8 +274,8 @@ Maßnahmen: Wahnvorstellungen
 
 .. todo:: Maßnahme PF22091C: Anpassung an höherqualifiziertes Personal
 
-Die — für den Außenstehenden — wirren Vorstellungen 
-stellen das Fachpersonal vor die Frage, 
+Die — für den Außenstehenden — wirren Vorstellungen
+stellen das Fachpersonal vor die Frage,
 wie mit diesen Patienten umzugehen ist.
 
 Ziel ist:
@@ -295,8 +295,8 @@ Es gelten somit folgende Grundsätze:
     werden.
 #.  Wahnvorstellungen sollen aber auch **nicht
     bestätigt** werden.
-#.  Am besten man nimmt die Schilderungen des Patienten 
-    **interessiert, aber neutral und möglichst kommentarlos** 
+#.  Am besten man nimmt die Schilderungen des Patienten
+    **interessiert, aber neutral und möglichst kommentarlos**
     zur Kenntnis (*"Mhm!"*, *"*Aha."*).
 
 
@@ -343,9 +343,9 @@ Beschreibung
 ------------
 
 :dfn:`Suizid` :index:`\ <! Suizid>`
-bezeichnet die absichtliche Selbsttötung. 
+bezeichnet die absichtliche Selbsttötung.
 Als :dfn:`erweiterter Suizid` wird die Tötung der eigenen und
-fremder Personen bezeichnet. Selbstmorde und Selbstmordversuche 
+fremder Personen bezeichnet. Selbstmorde und Selbstmordversuche
 (*SMV*) gehören zu den häufigen Einsatzgründen im
 Rettungsdienst. Häufig sind Suizid- oder sonstige selbstschädliche
 Handlungen nicht auf den ersten Blick als solche erkennbar.
@@ -402,7 +402,7 @@ Beschreibung: Psychose
 
 **:dfn:`Psychose` :index:`\ <! Psychose>` ist eine allgemeine Bezeichnung für eine
 *psychische Störung* mit strukturellem *Wandel des Erlebens*
-(Pschyrembel 2002).** Man unterscheidet zwischen organischen, körperlich
+[Pschyrembel:2002]_.** Man unterscheidet zwischen organischen, körperlich
 begründbaren, und nicht-organischen, d.h. körperlich nicht begründbaren
 Psychosen. In beiden Gruppen kann man weitere Unterscheidungen treffen,
 vgl. [Table-psychosen-einteilung]. Körperliche Ursachen für Psychosen
@@ -420,7 +420,7 @@ eines SHT, Intoxikationen, Stoffwechselstörungen u.v.a.m. sein.
 
 ll
 
-| 
+|
 | &
 | (lr)1-1(lr)2-2
 
@@ -452,7 +452,7 @@ ll
 
 #. Schizoaffektive Psychosen
 
-| 
+|
 
 H
 
@@ -523,7 +523,7 @@ Willenssphäre sowie des Denkens (Messer, Tiltscher, and Pajonk 2008).**
 
 Die Depression ist eine sehr häufige Erkrankung (“Volkskrankheit”), etwa
 10% der Patienten einer allgemeinmedizinischen Praxis leiden unter ihr
-(Wunn 2006). Sie tritt mit einer Vielzahl von unterschiedlichen
+[Wunn:2006]_. Sie tritt mit einer Vielzahl von unterschiedlichen
 Symptomen auf und ist oft nur schwer von alltäglicher Verstimmung
 abzugrenzen (Messer, Tiltscher, and Pajonk 2008).
 
@@ -599,7 +599,7 @@ Anamnese
 
 -  …
 
-.. _Thema-alkoholentzugsdelir: 
+.. _Thema-alkoholentzugsdelir:
 .. _Thema-durchgangssyndrom:
 
 Entzugsdelir und Durchgangssyndrom
@@ -641,19 +641,19 @@ Beschwerden vortäuschen.
 
 .. todo:: !!! LITERARY !!!
 
-	  
 
-	  (Thun 1981)
 
-	  (Thun 1989)
+	  [Thun:1981]_
 
-	  (Thun 2010)
+	  [Thun:1989]_
 
-	  (Argelander 2009)
+	  [Thun:2010]_
 
-	  (Wunn 2006)
+	  [Argelander:2009]_
 
-	  (Battegay 1992)
+	  [Wunn:2006]_
+
+	  [Battegay:1992]_
 
 	  (Scholz et al. 2008) !!! LITERARY !!!
 

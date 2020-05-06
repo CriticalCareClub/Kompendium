@@ -78,7 +78,7 @@ Einfache Formatierungen
 
    footnote reference, [1]_;
 
-   citation reference,[CIT-2002]_;
+   citation reference,[CIT:2002]_;
 
    |substitution|; _`inline internal target`.
 
@@ -345,7 +345,7 @@ Explicit Markup      Beispiele
 ===================  ================================================================
 Fußnote              ``.. [1] Manually numbered`` or ``[#] auto-numbered``
                      (even ``[#labelled]``) or ``[*] auto-symbol``
-Literaturzitat       ``.. [CIT-2002] A citation.``
+Literaturzitat       ``.. [CIT:2002] A citation.``
 Hyperlink 1          ``.. _reStructuredText: http://docutils.sf.net/rst.html``
 2                    ``.. _indirect target: reStructuredText_``
 3                    ``.. _internal target:``

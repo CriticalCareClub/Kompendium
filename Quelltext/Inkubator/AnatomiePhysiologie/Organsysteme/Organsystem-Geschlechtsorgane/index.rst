@@ -16,9 +16,9 @@ Als :dfn:`Geschlechtsorgane` (*Genitale*) werden jene
 Organe bezeichnet, welche der Arterhaltung durch Bildung, Aufbewahrung
 und Weiterleitung von Keimzellen, der Durchführung des
 Geschlechtsverkehrs, der Befruchtung von Keimzellen sowie der
-Fruchtpflege bis zur Geburt dienen (Pschyrembel 2002).
+Fruchtpflege bis zur Geburt dienen [Pschyrembel:2002]_.
 
-Man unterscheidet sowohl beim Mann als auch bei der Frau zwischen 
+Man unterscheidet sowohl beim Mann als auch bei der Frau zwischen
 inneren und äußeren Geschlechtsorganen.
 
 Die männlichen Geschlechtsorgane
@@ -33,7 +33,7 @@ Beim Mann ist die Unterteilung folgendermaßen:
 .. figure:: /Bilder/HirtlerLena-Ccc/Genitale-m.*
 
           Die männlichen Geschlechtsorgane im Querschnitt
-          
+
           [Lena Hirtler / MfG]
 
 Hoden
@@ -115,7 +115,7 @@ Prostata und Bläschendrüse
     -  Prostata → 30% des Ejakulates, Beweglichkeit der Spermien
 
     -  Bläschendrüse → 60% des Ejakulates
-    
+
 
 Die Prostata ist eine etwa kastaninengroße Drüse. Sie liegt direkt der
 Harnblase an und die Harnröhre läuft durch sie hindurch. Die Prostata
@@ -180,7 +180,7 @@ Die Unterteilung der Geschlechtsorgane der Frau ist:
 .. figure:: /Bilder/HirtlerLena-Ccc/Genitale-w.*
 
     Weibliche Geschlechtsorgane, Querschnitt
-    
+
     [Lena Hirtler / MfG]
 
 Eierstöcke
@@ -207,7 +207,7 @@ schwangerschaftserhaltend wirken.
 Eileiter
 --------
 
-.. sidebar:: Eileiter 
+.. sidebar:: Eileiter
 
     -  10--18 cm, freie Öffnung in die Bauchhöhle
 
@@ -217,7 +217,7 @@ Eileiter
 
     -  Gefahr: Eileiterschwangerschaft
 
-Der Eileiter (*Tuba uterina*, *Salpinx*) ist ein ca. 
+Der Eileiter (*Tuba uterina*, *Salpinx*) ist ein ca.
 10--18 cm langer Schlauch mit einer freien Öffnung in die Bauchhöhle.
 Nahe dem Ovar zeigt der Eileiter einen Trichter mit fingerförmigen
 Ausläufern, worin die Eizelle normalerweise nach dem Eisprung
@@ -251,7 +251,7 @@ führen sollen. Der Körper der Gebärmutter ist äußerst muskulös um bei
 der Geburt die Austreibung des Fetus zu ermöglichen. Die Schleimhaut
 unterliegt bei der geschlechtsreifen Frau zyklischen Veränderungen
 (siehe weiblicher Zyklus, :ref:`Thema-weiblicher-zyklus`). Über den Hals
-mündet die Gebärmutter in die Scheide, die Mündung wird als 
+mündet die Gebärmutter in die Scheide, die Mündung wird als
 :dfn:`Muttermund` bezeichnet.
 
 .. index::
@@ -319,7 +319,7 @@ Der weibliche Zyklus dauert *28 Tage*, dies entspricht einem
 *Lunarmonat* (*Mondmonat*, Zeit von Vollmond bis Vollmond).
 Er wird von Menstruation (Monatsblutung) zu Menstruation gerechnet.
 Während eines Zyklus wird die Uterusschleimhaut aufgebaut und bei der
-Menstruation wieder abgestoßen. 
+Menstruation wieder abgestoßen.
 Der Zyklus ist durch *Östrogen* und *Progesteron* hormongesteuert.
 Der **Eisprung** findet *in der Mitte* des
 Zyklus statt, ca. am 14. Tag. Wenn es zu keiner Befruchtung der Eizelle
@@ -369,7 +369,7 @@ Der Fortschritt der Schwangerschaft wird in *Schwangerschaftswochen*,
 Abk. *SSW*, angegeben.
 Häufig wird auch die Unterteilung in drei :dfn:`Trimester` [215]_ zu
 je 3 Kalendermonaten verwendet.
-Von einer  *Frühgeburt* spricht man wenn die Geburt *bis zur 
+Von einer  *Frühgeburt* spricht man wenn die Geburt *bis zur
 vollendeten 37. SSW* erfolgt.
 Von einer *Übertragung* spricht man ab der *42. SSW*.
 

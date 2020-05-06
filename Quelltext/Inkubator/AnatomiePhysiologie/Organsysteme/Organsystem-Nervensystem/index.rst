@@ -307,7 +307,7 @@ Beschreibung
 
     Bewusstsein ist ein Oberbegriff für u.a. Wachheit, Orientierung,
     Aufmerksamkeit, Auffassungsgabe, Denkverlauf und Merkfähigkeit
-    (Pschyrembel 2002). [211]_
+    [Pschyrembel:2002]_. [211]_
 
 Es ist eine grundlegende *Vitalfunktion
 erster Ordnung* und wichtig hinsichtlich des Schutzes des Menschen vor
@@ -463,7 +463,7 @@ Beschreibung: Vegetatives Nervensystem
     Das :dfn:`vegetative Nervensystem`
     ist jener Teil des Nervensystems, welcher der Regelung der
     Vitalfunktionen dient und das Zusammenwirken der einzelnen Teile des
-    Körpers gewährleistet [Pschy259]_ .
+    Körpers gewährleistet [Pschy:259]_ .
 
 .. sidebar:: Vegetatives Nervensystem
 

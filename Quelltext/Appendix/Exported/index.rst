@@ -15,7 +15,7 @@ Sunde, et al. 2010) (Charles D Deakin, Nolan, Soar, et al. 2010)
 Wyllie 2010b) (Soar, Perkins, et al. 2010b) (Soar, Monsieurs, et al.
 2010b) (F. K. Lippert et al. 2010)
 
-(Nolan 2006) (Handley et al. 2006) (Deakin and Nolan 2006) (Nolan et al.
+[Nolan:2006]_ (Handley et al. 2006) (Deakin and Nolan 2006) (Nolan et al.
 2006) (Arntz, Bossaert, and Fillipatos 2006) (Biarent et al. 2006) (Soar
 et al. 2006) (Baskett, Steen, and Bossaert 2006) (Baskett et al. 2006)
 (Nolan et al. 2010; Koster et al. 2010b; Charles D Deakin, Nolan, Sunde,

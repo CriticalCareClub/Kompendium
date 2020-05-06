@@ -65,11 +65,11 @@ Homepage Des Journals Resuscitation: https://www.resuscitationjournal.com/
 
 ERC-Guidelines, englische Originalfassung:
 
-  [Erc-2015-Section-01]_ [Erc-2015-Section-02]_ [Erc-2015-Section-03]_ [Erc-2015-Section-04]_ [Erc-2015-Section-05]_ [Erc-2015-Section-06]_ [Erc-2015-Section-07]_ [Erc-2015-Section-08]_ [Erc-2015-Section-09]_ [Erc-2015-Section-10]_ [Erc-2015-Section-11]_
+  [Erc-2015-Section-01]_ [Erc-2015-Section-02]_ [Erc-2015-Section-03]_ [Erc-2015-Section-04]_ [Erc-2015-Section-05]_ [Erc-2015-Section-06]_ [Erc-2015-Section-07]_ [Erc-2015-Section-08]_ [Erc-2015-Section-09]_ [Erc-2015-Section-10]_ [ERC:2015:11]_
 
 ERC-Guidelines, deutsche Übersetzung:
 
-  [Erc-2015-Sektion-01-De]_ [Erc-2015-Sektion-02-De]_ [Erc-2015-Sektion-03-De]_ [Erc-2015-Sektion-04-De]_ [Erc-2015-Sektion-05-De]_ [Erc-2015-Sektion-06-De]_ [Erc-2015-Sektion-07-De]_ [Erc-2015-Sektion-08-De]_ [Erc-2015-Sektion-09-De]_ [Erc-2015-Sektion-10-De]_ [Erc-2015-Sektion-11-De]_
+  [Erc-2015-Sektion-01-De]_ [Erc-2015-Sektion-02-De]_ [Erc-2015-Sektion-03-De]_ [Erc-2015-Sektion-04-De]_ [Erc-2015-Sektion-05-De]_ [Erc-2015-Sektion-06-De]_ [Erc-2015-Sektion-07-De]_ [Erc-2015-Sektion-08-De]_ [Erc-2015-Sektion-09-De]_ [Erc-2015-Sektion-10-De]_ [ERC:2015:11:De]_
 
 
 .. _Fig-Als:

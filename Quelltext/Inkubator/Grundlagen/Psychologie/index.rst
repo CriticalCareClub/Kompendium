@@ -280,7 +280,7 @@ Beschreibung
 
 **Stress ist die Summe körperlicher und psychischer Reaktionen, die
 durch die Wahrnehmung bestimmter Reize in unserer Umwelt bzw. innerhalb
-einer Person ausgelöst werden können [ZimbardoPsych6]_ .**
+einer Person ausgelöst werden können [ZimbardoPsych:6]_ .**
 
 Das Phänomen Stress kann als Summe der Reaktionen auf die bewusste
 und/oder unbewusste Wahrnehmung äußerer Umweltreize oder
@@ -477,7 +477,7 @@ sind. [32]_
 
 .. [32]
    Allgemeines Adaptationssyndrom: Das Allgemeine Adaptationssyndrom
-   (Von Selye postuliert, zitiert nach [ZimbardoPsych6]_ ) ist als eine
+   (Von Selye postuliert, zitiert nach [ZimbardoPsych:6]_ ) ist als eine
    komplexe Antwort des Körpers zu verstehen, wenn die Homöostase des
    Organismus durch Stressoren wie z.B. Gefahr, Lebensbedrohung,
    Belästigung etc. gestört wird. Es gliedert sich in drei Phasen:
@@ -883,13 +883,13 @@ Folgenden werden zwei unterschiedliche Abgrenzungsversuche dargestellt:
    *“Burnout wird in Gang gesetzt durch Autonomieeinbußen in gestörten
    Auseinandersetzungen des Individuums mit seiner Umwelt, genauer:
    durch die innere Repräsentation solcher Interaktionen als gestörter
-   und das Scheitern bei ihrer Bewältigung”* [Burisch, -1994]
+   und das Scheitern bei ihrer Bewältigung”* [Burisch, :1994]
 
 .. [43]
    *“ Burnout ist ein Syndrom emotionaler Erschöpfung,
    Depersonalisierung und reduzierter persönlicher Leistungsfähigkeit,
    das bei Individuen, die in irgendeiner Weise mit Menschen arbeiten,
-   auftreten kann”* [Maslach & Jackson, -1984]
+   auftreten kann”* [Maslach & Jackson, :1984]
 
 .. [44]
    Maslach, 1982; Frieling & Sonntag, 1999; Bergner, 2003
@@ -959,7 +959,7 @@ Symptomen bemerkbar machen. Man kann unterscheiden [45]_:
 
 
 .. [45]
-   nach Schaufeli (1992), zitiert nach (Burisch 2006)
+   nach Schaufeli (1992), zitiert nach [Burisch:2006]_
 
 
 Traumafolgestörungen
@@ -1347,7 +1347,7 @@ Fähigkeiten zu erweitern.
 Arten von Coping
 ----------------
 
-Folgende Arten von Coping lassen sich unterscheiden[ZimbardoPsych6]_ :
+Folgende Arten von Coping lassen sich unterscheiden[ZimbardoPsych:6]_ :
 
 -  *Problemorientiertes Coping* Dieses umfasst alle Strategien des
    direkten Umgangs mit dem Stressor, d.h. hier versucht der Betroffene
@@ -1401,7 +1401,7 @@ Stress. [49]_
 
 
 .. [49]
-   Die Theorie von Hobfoll (zitiert nach (Starke 2000)) stellt eine
+   Die Theorie von Hobfoll (zitiert nach [Starke:2000]_) stellt eine
    modernere Alternative zu der Theorie von Lazarus dar bzw. kann auch
    als deren Komplement angesehen werden. Sie stellt nicht die
    Einschätzungen/Bewertungsprozesse, sondern die Stressbewältigung und
@@ -1593,7 +1593,7 @@ Herausforderung, sondern eher negativ, d.h. als eine Belastung bzw.
 
 
 .. [50]
-   Ungerer (1999), zitiert nach [Karutz-200912]_
+   Ungerer (1999), zitiert nach [Karutz:200912]_
 
 
 Indikation der psychologischen Selbsthilfe
@@ -1620,7 +1620,7 @@ Die folgenden beschriebenen Strategien sollen vorwiegend darauf
 abzielen, *“die Handlungsfähigkeit eines Helfers in einer absoluten
 Ausnahmesituation und nur für eine relativ kurze Zeit aufrecht zu
 erhalten”* und dienen nicht generelle als langfristige Methoden zur
-Stressbewältigung [Karutz-200912]_ .
+Stressbewältigung [Karutz:200912]_ .
 
 Einstellung
 -----------
@@ -1660,16 +1660,16 @@ bis 95 Prozent der Reanimationsversuche enden beispielsweise erfolglos,
 so sehr man sich dies sicherlich anders wünschen würde”*\  [55]_.
 
 .. [52]
-   Ungerer, 1999 zitiert nach [Karutz-200912]_
+   Ungerer, 1999 zitiert nach [Karutz:200912]_
 
 .. [53]
-   Lasogga & Karutz 2005, zitiert nach [Karutz-200912]_
+   Lasogga & Karutz 2005, zitiert nach [Karutz:200912]_
 
 .. [54]
-   Karutz et al., 2003 zitiert nach [Karutz-200912]_
+   Karutz et al., 2003 zitiert nach [Karutz:200912]_
 
 .. [55]
-   Baskett, Stehen & Bossaert, 2006, zitiert nach [Karutz-200912]_
+   Baskett, Stehen & Bossaert, 2006, zitiert nach [Karutz:200912]_
 
 Bewertung von Stress und Angst
 ------------------------------
@@ -1690,7 +1690,7 @@ fördert und daher nicht generell als negativ bewertet werden sollte,
 sofern sie nicht lähmend wirkt.
 
 .. [56]
-   Lasogga & Karutz 2005, zitiert nach [Karutz-200912]_
+   Lasogga & Karutz 2005, zitiert nach [Karutz:200912]_
 
 Kurzfristige Strategien
 -----------------------
@@ -1717,10 +1717,10 @@ ABC der Reanimation, die einzelnen Phasen der Traumaversorgung oder die
 Abarbeiten von Checklisten oder Algorithmen: Je mehr diese in der
 Ausbildung verinnerlicht worden sind, umso eher werden sie auch in einer
 Stresssituation noch angewendet bzw. automatisiert abgerufen werden
-können”* [Karutz-200912]_ .
+können”* [Karutz:200912]_ .
 
 .. [57]
-   Karutz , 2003 zitiert nach [Karutz-200912]_
+   Karutz , 2003 zitiert nach [Karutz:200912]_
 
 Mentale Vorbereitung, Alternativen planen (“Plan B”)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1729,7 +1729,7 @@ Gemeint ist damit, alternative Handlungsmöglichkeiten zu überlegen bzw.
 vorauszuplanen, eine Art Spickzettel mit möglichen Handlungen, die sich
 auch dann noch ausführen lassen, wenn alle andere Interventionen bereits
 ausgeschöpft wurden, um das Gefühl der Handhabbarkeit zu fördern. Ein
-solcher persönlicher Notfallplan kann laut [Karutz-200912]_  vor möglichen
+solcher persönlicher Notfallplan kann laut [Karutz:200912]_  vor möglichen
 Gefühlen der Hilflosigkeit und Ohnmacht schützen, er führt folgende
 Beispiele an:
 
@@ -1798,7 +1798,7 @@ die persönliche Schutzausrüstung, aber auch die Ausstattung des
 Einsatzfahrzeuges.
 Im günstigsten Fall kann man sich sagen:
 *"Ich bin
-gut gerüstet, jetzt kann es losgehen!"* [Karutz-200912]_ .
+gut gerüstet, jetzt kann es losgehen!"* [Karutz:200912]_ .
 
 *Zeitliche Grenzen verdeutlichen*: Einsätze haben einen zeitlichen
 Rahmen, d.h. sie haben einen Beginn, aber ebene auch bei komplexeren
@@ -1807,13 +1807,13 @@ Einsätzen (selbst Großschadenslagen) – ein Ende.
 Einsätze […] innerhalb weniger Stunden abgeschlossen. Man ist den
 jeweiligen Belastungen also nicht ewig, sondern lediglich für einen
 definierten Zeitraum ausgesetzt. Dies sollte man sich bewusst vor Augen
-führen”* [Karutz-200912]_ .
+führen”* [Karutz:200912]_ .
 
 *Zusätzliche Stressoren meiden*: Wenn die Belastung durch das Notfalls
 geschehen ohnehin schon spürbar hoch ist, gilt es zusätzliche
 Belastungsfaktoren zu minimieren bzw. auszuweichen um das
 Erregungsniveau auf angenehmen bzw. leistungsfähigem Level zu halten.
-[Karutz-200912]_  prägt hier den Begriff der “hilfreiche Langsamkeit”, d.h.
+[Karutz:200912]_  prägt hier den Begriff der “hilfreiche Langsamkeit”, d.h.
 “gerade wenn man es eilig hat, eben nicht wie bei einem sportlichen
 Wettkampf zu rennen”, zum Einsatzort zu “rasen”, den Funk im Fahrzeug
 nicht unnötig laut einzustellen sowie Äußerungen zu vermeiden, mit denen
@@ -1835,7 +1835,7 @@ auf neuerliche Stresssituationen vorzubereiten. Während der Relaxation
 werden Entspannungsreaktionen eingeleitet, die komplementär zur
 Stressreaktion von physiologischen Prozessen begleitet werden, nämlich
 dem Sinken der Muskelspannung, der kortikalen Aktivität, der
-Herzfrequenz, des Blutdrucks und der Atmung [ZimbardoPsych6]_ . Auf
+Herzfrequenz, des Blutdrucks und der Atmung [ZimbardoPsych:6]_ . Auf
 psychischer Ebene werden Wohlbefinden, Zufriedenheitsgefühle, Gefühle
 der Gelassenheit sowie Selbstwahrnehmung gefördert. Unterstützt kann
 dies durch div. Entspannungstechniken (progressiven Muskelrelaxation,
@@ -1896,7 +1896,7 @@ konditionierter Reiz wird.
 Unterstützung durch die Umwelt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Zimbardo [ZimbardoPsych6]_  verweist auf die Bedeutung sozialer
+Zimbardo [ZimbardoPsych:6]_  verweist auf die Bedeutung sozialer
 Unterstützung bei der Stressbewältigung und meint damit *“Ressourcen,
 die von anderen Personen bereitgestellt werden [...]”*. Beispielhaft
 zählt er materielle Hilfen, emotionale Unterstützung (Fürsorge,
@@ -1948,32 +1948,32 @@ Freizeit- und Erholungsphasen.
     % % Notfallmedizin und Rettungsdienst (2. Auflage; S. 25-43).
     % % Berlin: Springer.
     %
-    %[BergnerBurnOutAerzten9]_ \ :
+    %[BergnerBurnOutAerzten:9]_ \ :
     % \bibentry{BergnerBurnOutAerzten9} \\
     % % Bergner, Thomas (2004). Burn-out bei Ärzten:
     % % Lebensaufgabe statt Lebens-Aufgabe, 9,  S. 410.
     %
-    %[BurischBurnOut2]_ \ : \bibentry{BurischBurnOut2} \\
+    %[Burisch:1994]_ \ : \bibentry{BurischBurnOut2} \\
     % % Burisch, M. (1994). Das Burnout-Syndrom – Theorie
     % % der inneren Erschöpfung (2. Auflage). Berlin: Springer.
     %
-    %[BurischBurnOut3]_ \ : \bibentry{BurischBurnOut3} \\
+    %[Burisch:2006]_ \ : \bibentry{BurischBurnOut3} \\
     % % Burisch, M. (2006). Das Burnout Syndrom – Theorie
     % % der inneren Erschöpfung (3., überarbeitete Auflage). Berlin:
     % % Springer.
     %
-    %[DavisonKlinPsy-1988]_ \ : \bibentry{DavisonKlinPsy1988} \\
+    %[DavisonKlinPsy:1988]_ \ : \bibentry{DavisonKlinPsy1988} \\
     % % Davison, G. C. \& Neale, J. M. (1988): Klinische
     % % Psychologie. 3. Auflage. München: PVU. Deutsches Institut
     % % für Medizinische Dokumentation und Information (2011).
     %
     %[ICD10-De-2011]_ \
     %
-    %[Freudenberger-1974]_ \ : \bibentry{Freudenberger1974} \\
+    %[Freudenberger:1974]_ \ : \bibentry{Freudenberger1974} \\
     % % Freudenberger, H. J. (1974). Staff Burn-Out. Journal of
     % % Social Issues, Vol. 30 (1), 159–165.
     %
-    %[FrielingLehrbArbeitspsy2]_ \ :
+    %[FrielingLehrbArbeitspsy:2]_ \ :
     % \bibentry{FrielingLehrbArbeitspsy2} \\
     % % Frieling E. \& Sonntag Kh. (1999). Lehrbuch
     % % Arbeitspsychologie (2. vollst. überarb. Und erweiterte
@@ -1985,7 +1985,7 @@ Freizeit- und Erholungsphasen.
     % % Theory, Research and Experiences (Vol. 3; S. 37-60), San
     % % Diego: Academic Press.
     %
-    %[Karutz-200912]_ \ : \bibentry{Karutz200912} \\
+    %[Karutz:200912]_ \ : \bibentry{Karutz200912} \\
     % % Karutz, H. (2009). Wenn die Belastungsgrenze erreicht ist:
     % % Psychologische Selbsthilfe in Extremsituationen.
     % % Rettungsdienst, 12, 40-45.
@@ -2012,14 +2012,14 @@ Freizeit- und Erholungsphasen.
     % % Social Psychology Annual (S. 133-153). Beverly Hills, CA:
     % % Sage.
     %
-    %[Niaura-2002]_ \ : \bibentry{Niaura2002} \\
+    %[Niaura:2002]_ \ : \bibentry{Niaura2002} \\
     % % Niaura, R., Todaro, J. F., Stroud, L., Spiro, A., Ward, K.
     % % D., \& Weiss, S. (2002). Hostility, the metabolic syndrome,
     % % and incident coronary heart disease. Health Psychology, Vol.
     % % 21(6), 588-593.
     %
     %
-    %[StarkeMedSozAspProbBew00]_ \ : \bibentry{StarkeMedSozAspProbBew00} \\
+    %[StarkeMedSozAspProbBew:00]_ \ : \bibentry{StarkeMedSozAspProbBew00} \\
     % % Starke, D. (2000). Medizinsoziologie. Kognitive, emotionale
     % % und soziale Aspekte menschlicher Problembewältigung: ein
     % % Beitrag zur aktuellen Stressforschung. Münster: LIT.
@@ -2030,12 +2030,12 @@ Freizeit- und Erholungsphasen.
     % % und Bewältigung: Trends in der Bewältigungsforschung (S.
     % % 14--24). München: Juventa.  
     %
-    %[Yerkes-1908]_ \ : \bibentry{Yerkes1908} \\
+    %[Yerkes:1908]_ \ : \bibentry{Yerkes1908} \\
     % % Yerkes, R.M. \& Dodson, J.D (1908). The relation of strength
     % % of stimulus to rapidity of habit-formation. Journal of
     % % Comparative Neurology and Psychology, 18, 459-482.
     %
-    %[ZimbardoPsych6]_ \ : \bibentry{ZimbardoPsych6} \\
+    %[ZimbardoPsych:6]_ \ : \bibentry{ZimbardoPsych6} \\
     % % Zimbardo, G.  (1995). Psychologie (6. Auflage). Berlin:
     % % Springer.
     \cite{AntonovskySalutogenese,BengelPsyNotfallmedRd2-PsyBelRdPers,

@@ -26,7 +26,7 @@ wieder auf einen “nüchternen Normalwert” ab. Der normale
 *Nüchtern-Blutzuckerspiegel* bewegt sich zwischen *80—100 mg / dL* (4,4—5,6 mmol / L).
 Im Akutfall kann der Normalbereich
 jedoch großzügiger angesetzt werden, da bei Werten zwischen 60 und
-200 mg / dL keine Notfallsymptome auftreten. (Herold 2012)
+200 mg / dL keine Notfallsymptome auftreten. [Herold:2012]_
 
 -  Abhängig von letzter Mahlzeit!
 

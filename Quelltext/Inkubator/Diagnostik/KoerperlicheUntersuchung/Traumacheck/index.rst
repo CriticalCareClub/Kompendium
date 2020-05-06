@@ -42,7 +42,7 @@ Traumacheck durchgeführt.
 -  *Sichtkontrolle* von Mund, Nase und Ohren auf Blutungen (mit einer
    Lampe)
 
--  Bei Blutungen aus Ohren oder Nase 
+-  Bei Blutungen aus Ohren oder Nase
 
    *Tupfertest*: Etwas Blut aus Ohren oder Nase wird
    mit einem Tupfer auffangen. Aufgrund der Kapillarwirkung steigt das
@@ -99,7 +99,7 @@ Traumacheck durchgeführt.
       und Socken ausziehen)
 
 -  *Durchblutung, Motorik, Sensibilität* (*DMS*) der
-   Peripherie (Finger und Zehen) 
+   Peripherie (Finger und Zehen)
 
 
    -  *Durchblutung*: *Nagelbettprobe*
@@ -146,9 +146,9 @@ Teile des Traumachecks werden während des Einschätzungsblocks bei der
 Bei vital bedrohten (zeitkritischen) Patienten wird ggfs. *kein
 vollständiger* Traumacheck durchgeführt!
 
-!!! LITERARY !!! (Dahmer 2006)
+!!! LITERARY !!! [Dahmer:2006]_
 
-(Lehmeyer 2006)
+[Lehmeyer:2006]_
 
 (Neurath and Lohse 2002)
 

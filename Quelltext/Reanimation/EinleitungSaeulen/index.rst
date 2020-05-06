@@ -65,7 +65,7 @@ verschiedenen Fragestellungen an vielen Forschungszentren auf der ganzen
 Welt durchgeführt, die Ergebnisse ausgewertet und anschließend
 diskutiert. Die derzeit aktuelle Version der ERC-Guidelines wurde im Jahr
 **2015** veröffentlicht
-(*ERC 2015*, [Erc-2015-Section-01]_ [Erc-2015-Section-02]_ [Erc-2015-Section-03]_ [Erc-2015-Section-04]_ [Erc-2015-Section-05]_ [Erc-2015-Section-06]_ [Erc-2015-Section-07]_ [Erc-2015-Section-08]_ [Erc-2015-Section-09]_ [Erc-2015-Section-10]_ [Erc-2015-Section-11]_ ),
+(*ERC 2015*, [Erc-2015-Section-01]_ [Erc-2015-Section-02]_ [Erc-2015-Section-03]_ [Erc-2015-Section-04]_ [Erc-2015-Section-05]_ [Erc-2015-Section-06]_ [Erc-2015-Section-07]_ [Erc-2015-Section-08]_ [Erc-2015-Section-09]_ [Erc-2015-Section-10]_ [ERC:2015:11]_ ),
 die nächste Aktualisierung ist im Jahr 2020 zu erwarten.
 
 .. [318]
@@ -78,7 +78,7 @@ als auch der `ERC <https://erc.europa.eu/>`_ kostenlos
 heruntergeladen werden.
 Eine deutsche Übersetzung ist auf den Homepages der deutschen und der
 österreichischen Fachgesellschaften verfügbar\ [319]_
-[Erc-2015-Sektion-01-De]_ [Erc-2015-Sektion-02-De]_ [Erc-2015-Sektion-03-De]_ [Erc-2015-Sektion-04-De]_ [Erc-2015-Sektion-05-De]_ [Erc-2015-Sektion-06-De]_ [Erc-2015-Sektion-07-De]_ [Erc-2015-Sektion-08-De]_ [Erc-2015-Sektion-09-De]_ [Erc-2015-Sektion-10-De]_ [Erc-2015-Sektion-11-De]_ .
+[Erc-2015-Sektion-01-De]_ [Erc-2015-Sektion-02-De]_ [Erc-2015-Sektion-03-De]_ [Erc-2015-Sektion-04-De]_ [Erc-2015-Sektion-05-De]_ [Erc-2015-Sektion-06-De]_ [Erc-2015-Sektion-07-De]_ [Erc-2015-Sektion-08-De]_ [Erc-2015-Sektion-09-De]_ [Erc-2015-Sektion-10-De]_ [ERC:2015:11:De]_ .
 
 
 .. [319]
@@ -111,7 +111,7 @@ Die ERC-Guidelines sind nach Themen in elf Sektionen unterteilt:
 #.  Ausbildung und Implementierung der Reanimation
     [Erc-2015-Sektion-10-De]_ [Erc-2015-Section-10]_
 #.  Ethik der Reanimation und Entscheidungen am Lebensende
-    [Erc-2015-Sektion-11-De]_ [Erc-2015-Section-11]_
+    [ERC:2015:11:De]_ [ERC:2015:11]_
 
 .. rubric:: Neu oder alt?
 

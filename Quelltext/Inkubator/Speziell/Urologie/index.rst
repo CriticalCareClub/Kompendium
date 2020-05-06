@@ -52,7 +52,7 @@ entsprechend oft bei Patienten anzutreffen.
 
 -  Infektionsgefahr
 
-.. todo:: Bilderserie: Harnkatheter 
+.. todo:: Bilderserie: Harnkatheter
 
 ***********
 Nierenkolik
@@ -133,7 +133,7 @@ verursachen. **Eine :dfn:`Nierenbeckenentzüdung` :index:`\ <! Nierenbeckenentz�
 Entzündung des Nierenbeckens. *Syn.* *Pyelonephritis*.** Sie ist oft
 bakteriell bedingt und umfasst die oberen Harnwege, das
 Nierenbeckenkelchsystem und u.U. auch das Nierengewebe und ist eine der
-häufigsten Erkrankungen der Niere (Pschyrembel 2002). Im schlimmsten
+häufigsten Erkrankungen der Niere [Pschyrembel:2002]_. Im schlimmsten
 Fall kann sich die Infektion weiter ausbreiten und eine Sepsis
 verursachen (:ref:`Thema-sepsis`).
 
@@ -222,7 +222,7 @@ Maßnahmen: Akutes Harnverhalten
 .. todo:: Maßnahme MR33XX1C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
-    -   Zügiger Transport 
+    -   Zügiger Transport
     -   Vorsichtig ablassen über Harnkatheter oder
         Blasenpunktion (Spital)
 

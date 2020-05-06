@@ -222,12 +222,12 @@ Stand der Wissenschaft begründet und durchgeführt. Als Beispiel sei die
 Einführung des Larynxtubus genannt, für die es eine entsprechende
 Rechtsansicht des zuständigen Bundesministerium gibt (Bundesministerium
 für Gesundheit, n.d.). Andernorts wurde bereits der Einsatz von Lachgas
-zur Schmerzbekämpfung erprobt (Hansak et al. 2012; Koppensteiner 2012).
+zur Schmerzbekämpfung erprobt [Hansak:2012:07]_\ [Koppensteiner:2012:08]_.
 
 Die Situation in Österreich ist jedoch noch recht uneinheitlich: Während
 in manchen Regionen eifrig Notfallsanitäter und Notfallkompetenzen
 ausgebildet bzw. angewendet werden, sind manche (Landes-) Organisationen
-äußerst zurückhaltend (Enne 2012).
+äußerst zurückhaltend [Enne:2012]_.
 
 .. _Thema-belastung:
 .. _Thema-anforderung:

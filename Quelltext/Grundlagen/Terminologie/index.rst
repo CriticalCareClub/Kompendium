@@ -3,7 +3,7 @@ Terminologie
 ################
 
 Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung
-mit anderem Fachpersonal. [BertelsmannVolkslexikon25]_ [Pschy259]_
+mit anderem Fachpersonal. [BertelsmannVolkslexikon:25]_ [Pschy:259]_
 
 ********************************************************
 Allgemeine Begriffe: Klinik – Diagnose – Therapie
@@ -279,7 +279,7 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 :dfn:`Chirurgie`
     Fachgebiet zur Erkennung und Behandlung von Erkrankungen, welche
     ohne operative Maßnahmen zu gesundheitlichen Schäden oder dem Tod
-    führen würden (Pschyrembel 2002). Man kann weitere Spezialgebiete
+    führen würden [Pschyrembel:2002]_. Man kann weitere Spezialgebiete
     unterscheiden, z. B. Allgemeinchirurgie (Bauch), Gefäßchirurgie,
     Herzchirurgie, Thoraxchirurgie, Kinderchirurgie, Plastische
     Chirurgie etc. Daneben gibt es noch viele andere operative Fächer.

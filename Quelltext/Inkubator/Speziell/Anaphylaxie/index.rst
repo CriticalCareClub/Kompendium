@@ -89,7 +89,7 @@ und Kreislaufstörungen.
     [`BruceBlaus <https://en.wikipedia.org/wiki/File:Urticaria.png>`_ //`Creative Commons Attribution-Share Alike 4.0 International <https://creativecommons.org/licenses/by-sa/4.0/deed.en>`_]
 
 Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
-:ref:`Tafel-AnaphylaxieStadien` [Ring-1977]_ .
+:ref:`Tafel-AnaphylaxieStadien` [Ring:1977]_ .
 
 
 .. list-table:: Stadien der Anaphylaxie (nach Ring 1977)
@@ -229,7 +229,7 @@ Pharmakotherapie
 
         Wenig Evidenz,
         aber zusätzliche Anwendung empfohlen,
-        da kaum zu erwartende Nebenwirkungen\ [Winbery-2002]_ .
+        da kaum zu erwartende Nebenwirkungen\ [Winbery:2002]_ .
 
 -   Glukokortikoide
 
@@ -294,8 +294,8 @@ und wirken protrahierten bzw. biphasischen Reaktionen entgegen.
 Eine unspezifische membranstabilisierende Wirkung
 innerhalb von zehn bis 30 Minuten
 nach Zufuhr hoher Glukokortikoiddosen
-wird angenommen.\ [Ring-2014]_
+wird angenommen.\ [Ring:2014]_
 
 
 
-[Ring-2014]_
+[Ring:2014]_

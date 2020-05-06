@@ -47,7 +47,7 @@ des Brustkorbes. Im Endstadium zeigen sich Zeichen einer
 Rechtsherzinsuffizienz (:ref:`Thema-rechtsherzinsuffizienz`) aufgrund einer
 Störung im Lungenkreislauf.
 
-[Renz-Polster-2006]_
+[Renz-Polster:2006]_
 
 
 .. [228]
@@ -312,4 +312,4 @@ Palliative Therapie
 
 
 
-[Knacke-200601]_
+[Knacke:200601]_

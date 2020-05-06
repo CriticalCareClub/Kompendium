@@ -130,7 +130,7 @@ yein Kammerflimmern oder ein ähnlicher Rhythmus vorliegt. Es ist
 weitgehend akzeptiert, eine Reanimation abzubrechen, wenn trotz aller
 ALS-Maßnahmen und Fehlen von reversiblen Ursachen für 20 Minuten eine
 Asystolie besteht
-[Erc-2010Sec10]_ [Bonnin-1993]_ [StriebelAnaesthesie2-Band2]_ .
+[Erc-2010Sec10]_ [Bonnin:1993]_ [StriebelAnaesthesie2-Band2]_ .
 Gewisse Bedingungen, etwa eine Hypothermie zum
 Zeitpunkt des Kreislaufstillstands, steigern die Chancen der Wieder-
 herstellung ohne neurologische Schäden, sodass normale Prognosekriterien

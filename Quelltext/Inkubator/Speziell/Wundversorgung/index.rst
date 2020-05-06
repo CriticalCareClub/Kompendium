@@ -346,7 +346,7 @@ Basismaßnahmen
         steriler (NaCl 0,9%) von innen nach außen.
         Bei oberflächlichen
         Wunden ist auch ein Abspülen unter fließendem Leitungswasser
-        zulässig [Fernandez-2012]_ \ .
+        zulässig [Fernandez:2012]_ \ .
         Wunden, die im Spital
         weiter versorgt werden, sollen nicht übermäßig gereinigt werden,
         auch soll keine
@@ -358,7 +358,7 @@ Basismaßnahmen
         Desinfektion mittels Wunddesinfektionsmittels ist aufgrund der
         toxischen Wirkung auf das Gewebe nicht
         mehr standardmäßig empfohlen.
-        [Fernandez-2012]_ [Franz-2012]_ [Schupp-2009]_ [Marquardt-2010]_
+        [Fernandez:2012]_ [Franz:2012]_ [Schupp:2009]_ [Marquardt:2010]_
     -   **Fremdkörper**
         (Messer, Schere oder sonstige Pfählungsgegenstände) sind
         **in der Wunde zu belassen**!
@@ -501,7 +501,7 @@ bestimmt:
 Grade
 =====
 
-Einteilung der Schweregrade (Shea 1975):
+Einteilung der Schweregrade [Shea:1975]_:
 
 -  *Grad 1*: Nicht wegdrückbare, umschriebene *Hautrötung* bei intakter
    Haut. Weitere klinische Zeichen können *Ödembildung, Verhärtung und
@@ -578,7 +578,7 @@ Dekubitusprophylaxe allgemein
     beispielsweise mittels Bauchlagerung, aber auch durch regelmäßigen
     Lagewechsel und Vergrößerung der Auflagefläche durch spezielle
     Hilfsmittel wie spezielle Wechseldruck-Matratzen oder
-    Luftstrom-Matratzensysteme. (PflegeWiki 2012)
+    Luftstrom-Matratzensysteme. [PflegeWiki:2012]_
 
 -   *Ernährung*: Hierbei sei auf die entsprechende Pflege-Fachliteratur
     verwiesen.
@@ -619,7 +619,7 @@ nicht nur für die Pflege:* (Vasel-Biergans and Probst 2011)
 
 *Historische Abhandlung:* (Küster 1915)
 
-(Siewert 2006)
+[Siewert:2006]_
 
 !!! LITERARY !!!
 
@@ -630,7 +630,7 @@ nicht nur für die Pflege:* (Vasel-Biergans and Probst 2011)
 .. [293]
    Wunde: Die übliche Beschreibung einer Wunde als eine Verletzung der
    Haut ist nicht korrekt. Meist werden mehrere Gewebearten in
-   Mitleidenschaft gezogen. Definition (Pschyrembel 2002): Unterbrechung
+   Mitleidenschaft gezogen. Definition [Pschyrembel:2002]_: Unterbrechung
    des Zusammenhangs von Körpergeweben mit oder ohne Substanzverlust.
 
 .. [294]

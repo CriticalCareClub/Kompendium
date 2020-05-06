@@ -183,7 +183,7 @@ Jede Nachricht hat vier Aussagen[#Fn-VierAussagenEinerNachricht]_:
 
 
 .. [#Fn-VierAussagenEinerNachricht]
-   Nach Friedemann Schulz von Thun, (Thun 1981)
+   Nach Friedemann Schulz von Thun, [Thun:1981]_
 
 Entscheidend in der Kommunikation ist die Tatsache, dass die gleiche
 Nachricht beim Sender und beim Empfänger auf unterschiedliche Art und
@@ -214,7 +214,7 @@ Missverständnissen führen kann. Als klassisches Beispiel ist die
 .. figure:: /Bilder/WikipediaCcBySa/SchulzVonThunVierOhrenModell-edited.*
 
     Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von
-    Thun (Thun 1981)
+    Thun [Thun:1981]_
     [CC-BY-SA 3.0User “Mussklprozz” auf Wikipedia, modifiziert]
 
 

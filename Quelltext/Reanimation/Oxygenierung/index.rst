@@ -196,7 +196,7 @@ jedoch zunehmend ein größerer Wert auf die *Kapnographie* gelegt, um die
 Tubuslage zu kontrollieren, die CPR-Qualität abzuschätzen und eine
 frühzeitige Erkennung der Rückkehr des spontanen Kreislaufs zu
 ermöglichen. Die Kapnographie ist die verlässlichste Methode zur
-Lagekontrolle [Grmec-2002]_ . Besonders geeignet sind dazu Geräte, welche
+Lagekontrolle [Grmec:2002]_ . Besonders geeignet sind dazu Geräte, welche
 die CO₂\ -Abatmung als Kurve darstellen.
 Wenn nach 6 Beatmungen CO₂
 nachweisbar ist, kann man davon ausgehen, dass der Tubus in den unteren
@@ -217,7 +217,7 @@ kommen.\ [324]_
    until appropriately experience and equipped personnel are present."*
    [Erc-2015-Section-04]_ .
    Zur Problematik der Verfügbarkeit der Kapnographie siehe auch
-   [Genzwuerker2007`]_ [Timmermann-2007]_  und darin enthaltene
+   [Genzwuerker2007`]_ [Timmermann:2007]_  und darin enthaltene
    Referenzen.
 
 
@@ -321,12 +321,12 @@ Studien haben eine hohe Inzidenz von Fehlintubationen beschrieben.
 Speziell im außerklinischen Bereich erhöht sich der Schwierigkeitsfaktor
 aufgrund der Gegebenheiten (Platzangebot, vorhandenes Material, nicht
 nüchterne bzw. nicht vorbereitete Patienten, Verletzungen,
-Begleiterkrankungen, …) deutlich [Timmermann-2006]_ [Thierbach-2004]_ .
+Begleiterkrankungen, …) deutlich [Timmermann:2006]_ [Thierbach:2004]_ .
 
 In diversen Studien wurden die Erfolgs- und Komplikationsraten der ETI
 untersucht, dabei zeigen sich wenig zufriedenstellende bis alarmierende
 Ergebnisse
-[Nolan-2001]_ [Wang-2011]_ [Cobas-2009]_ [Jones-2004]_ [Wang-2006]_ [Wang-2006a]_ [Wang-2008]_ [Stiell-2004]_ [Stiell-2008]_ \ .
+[Nolan:2001]_ [Wang:2011]_ [Cobas:2009]_ [Jones:2004]_ [Wang:2006]_ [Wang-2006a]_ [Wang:2008]_ [Stiell:2004]_ [Stiell:2008]_ \ .
 
 Die wichtigsten Ergebnisse dieser Studien sind:
 
@@ -334,19 +334,19 @@ Die wichtigsten Ergebnisse dieser Studien sind:
    Fehllagen, ist hoch. Diese werden oft spät oder gar nicht erkannt
    (Risiko der unerkannten Tubusfehllage bei Patienten mit
    außerklinischem Kreislaufstillstand: 0,5--17%
-   [Grmec-2002]_ [Lyon-2010]_ [Jones-2004]_ [Pelucio-1997]_ [Jemmett-2003]_ [Katz-2001]_ [Erc-2010Sek04De]_
+   [Grmec:2002]_ [Lyon:2010]_ [Jones:2004]_ [Pelucio:1997]_ [Jemmett:2003]_ [Katz:2001]_ [Erc-2010Sek04De]_
 
 -  Die Erfolgsraten bei wenig routinierten Anwendern sind
    schlecht\ [327]_.
 
 -  Die Probleme der ETI betreffen grundsätzlich auch ärztliches
-   Personal\ [328]_ [Timmermann-2007]_ [Grmec-2002]_ \ .
+   Personal\ [328]_ [Timmermann:2007]_ [Grmec:2002]_ \ .
 
 -  Der Schulungsaufwand ist groß: Zum Erlernen der Tätigkeit werden
    wenigstens 100 ETI gefordert, zur Aufrechterhaltung mindestens 10 ETI
-   pro Jahr [Timmermann-2012]_ . Damit verbunden wäre eine
+   pro Jahr [Timmermann:2012]_ . Damit verbunden wäre eine
    Vollzeit-Trainingsphase von etwa einem halben Jahr
-   [BERN12]_ \ .
+   [BERN:12]_ \ .
 
 
 .. [327]
@@ -355,7 +355,7 @@ Die wichtigsten Ergebnisse dieser Studien sind:
    durchführen, bis zu 50%"* [Erc-2010Sek04De]_ \ .
 
 .. [328]
-   [Timmermann-2007]_ \ : In dieser in
+   [Timmermann:2007]_ \ : In dieser in
    Deutschland durchgeführten Studie wurde eine hohe Rate an
    Fehlintubationen (ösophageal, bronchial) durch Notärzte
    festgestellt.
@@ -368,12 +368,12 @@ zusammen, dass der Nutzen der ETI bei der präklinischen Reanimation
 nicht durch Studien gezeigt werden konnte, und dass einige sogar das
 Gegenteil erkennen ließen (*"Prehospital studies fail to show any
 benefit from tracheal intubation during cardiopulmonary resuscitation
-and many show harm."* [Nolan-2008]_ ). Dies deckt sich auch mit
+and many show harm."* [Nolan:2008]_ ). Dies deckt sich auch mit
 Beobachtungen aus anderen Studien
-[Stiell-2004]_ [Cobas-2009]_ \ .
+[Stiell:2004]_ [Cobas:2009]_ \ .
 Ein 2008 veröffentlichtes Cochrane-Review kam zu der gleichen
 Schlussfolgerung, mit der Betonung, dass entsprechende, qualitative
-hochwertige Studien fehlen [Lecky-2008]_ \ .
+hochwertige Studien fehlen [Lecky:2008]_ \ .
 
 Die frühe endotracheale Intubation verliert somit an Stellenwert. Sie
 soll nur angewendet werden, wenn der Anwender hochqualifiziert
@@ -386,7 +386,7 @@ Ohne ausreichendes Training und Erfahrung wird die
 Komplikationsrate als unakzeptabel hoch angesehen. Das Aufschieben der
 endotrachealen Intubation bis zur Wiederkehr des spontanen Kreislaufs,
 wird bereits in den ERC 2010-Leitlinien als Alternative ausdrücklich
-genannt. [Nolan-2001]_ [Nolan-2008]_ [Lecky-2008]_ [Erc-2010Sec4]_
+genannt. [Nolan:2001]_ [Nolan:2008]_ [Lecky:2008]_ [Erc-2010Sec4]_
 Vor diesem Hintergrund bleibt festzuhalten,
 dass eine unterlassene Intubation nicht – wie oft
 behauptet – mit einer unterlassenen Hilfeleistung, sondern mit einer
@@ -397,11 +397,11 @@ Airwaysystemen gegenüber, welche eine effektive und technisch einfachere
 Sicherung des Atemweges ermöglichen (supraglottsiche Atemwegshilfen).
 Zwar müssen diese Systeme Abstriche hinsichtlich des Aspirationsschutzes
 machen, wiegen dies jedoch durch ihre einfach und sichere Anwendung auf
-[Schalk-2010]_ [Wiese-2009]_ \ .
+[Schalk:2010]_ [Wiese:2009]_ \ .
 
 .. admonition:: Fazit
 
     -  Wenn die erforderliche Routine und Sicherheit für die
        Durchführung einer ETI nicht gegeben ist und die Indikation für
        ein invasives Atemwegsmanagement besteht, sollen *in erster Linie
-       supraglottische Atemwegshilfen* eingesetzt werden [Timmermann-2012]_ .
+       supraglottische Atemwegshilfen* eingesetzt werden [Timmermann:2012]_ .

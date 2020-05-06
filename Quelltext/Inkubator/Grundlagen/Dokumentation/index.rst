@@ -202,7 +202,7 @@ Beschreibung
 Im folgenden sind häufige (lateinische) Diagnosen bzw. Abkürzungen als
 Referenz angeführt, welche man häufig auf unfallchirurgischen
 Arztbriefen und Ambulanzprotokollen findet. Eine ausführliche
-Aufstellung findet sich in [LatDiag4]_ .
+Aufstellung findet sich in [LatDiag:4]_ .
 
 
 Wund- und Verletzungsarten

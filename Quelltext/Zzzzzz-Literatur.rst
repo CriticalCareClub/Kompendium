@@ -245,7 +245,8 @@ Literaturverzeichnis
 .. [Asai:2005]
 	Asai, T., and K. Shingu:
 	**The Laryngeal Tube.**
-	*Br J Anaesth* 2005:95(6), 10-15, 729–36.
+	*Br J Anaesth*
+	2005:95(6), 10-15, 729–36.
 	doi:\ `10.1093/bja/aei269 <https://doi.org/10.1093/bja/aei269>`__.
 
 
@@ -305,7 +306,8 @@ Literaturverzeichnis
 	Bonnin, M. J., P. E. Pepe, K. T. Kimball, and P. S. Clark:
 	**Distinct Criteria for Termination of Resuscitation in the
 	Out-of-Hospital Setting.**
-	*JAMA* 1993:270(12), 1457–62.
+	*JAMA*
+	1993:270(12), 1457–62.
 
 
 
@@ -347,7 +349,8 @@ Literaturverzeichnis
 .. [Erc-2010Sec5]
 	Arntz, Hans-Richard, Leo L Bossaert, Nicolas Danchin, and Nikolaos I
 	Nikolaou:
-	**European Resuscitation Council Guidelines for Resuscitation 2010 Section 5. Initial Management of Acute Coronary Syndromes.** *Resuscitation* 2010:81(10), 1353–63.
+	**European Resuscitation Council Guidelines for Resuscitation 2010 Section 5. Initial Management of Acute Coronary Syndromes.** *Resuscitation*
+	2010:81(10), 1353–63.
 	Department of Cardiology, Campus Benjamin Franklin, Charite, Berlin, Germany.
 	doi:\ `10.1016/j.resuscitation.2010.08.016 <https://doi.org/10.1016/j.resuscitation.2010.08.016>`__.
 
@@ -372,7 +375,8 @@ Literaturverzeichnis
 	Grmec, Stefek.:
 	**Comparison of Three Different Methods to Confirm
 	Tracheal Tube Placement in Emergency Intubation**
-	*Intensive Care Med* 2002:28(6), 701–4.
+	*Intensive Care Med*
+	2002:28(6), 701–4.
 	doi:\ `10.1007/s00134-002-1290-x <https://doi.org/10.1007/s00134-002-1290-x>`__.
 
 
@@ -382,7 +386,8 @@ Literaturverzeichnis
 .. [Guerri:2009]
 	Guerri, Consuelo, Alissa Bazinet, and Edward P Riley:
 	**Foetal Alcohol Spectrum Disorders and Alterations in Brain and Behaviour.**
-	*Alcohol Alcohol* 2009:44(2), 108–14.
+	*Alcohol Alcohol*
+	2009:44(2), 108–14.
 	doi:\ `10.1093/alcalc/agn105 <https://doi.org/10.1093/alcalc/agn105>`__.
 
 
@@ -395,7 +400,8 @@ Literaturverzeichnis
 	Richling, Helmut Trimmel, Reinhard Malzer, Fritz Sterz, and Harald
 	Herkner.:
 	**Quality of Closed Chest Compression in Ambulance Vehicles, Flying Helicopters and at the Scene**
-	*Resuscitation* 2007:73(2), 264–70.
+	*Resuscitation*
+	2007:73(2), 264–70.
 	doi:\ `10.1016/j.resuscitation.2006.09.007 <https://doi.org/10.1016/j.resuscitation.2006.09.007>`__.
 
 
@@ -451,13 +457,15 @@ Literaturverzeichnis
 .. [Jones:1973]
 	Jones, K. L., and D. W. Smith:
 	**Recognition of the Fetal Alcohol Syndrome in Early Infancy.**
-	*Lancet* 1973:302(7836), 999–1001.
+	*Lancet*
+	1973:302(7836), 999–1001.
 
 .. [Jones:2004]
 	Jones, James H., Michael P. Murphy, Robert L. Dickson, Geoff G.
 	Somerville, and Edward J. Brizendine:
 	**Emergency Physician-Verified Out-of-Hospital Intubation: Miss Rates by Paramedics.**
-	*Acad Emerg Med* 2004:11(6), 707–9.
+	*Acad Emerg Med*
+	2004:11(6), 707–9.
 
 .. [Juurlink:2005]
 
@@ -481,7 +489,8 @@ Literaturverzeichnis
 	Kalla, Karim, Günter Christ, Ronald Karnik, Reinhard Malzer, Georg
 	Norman, Herbert Prachar, Wolfgang Schreiber, et al.:
 	**Implementation of Guidelines Improves the Standard of Care: The Viennese Registry on Reperfusion Strategies in St-Elevation Myocardial Infarction (Vienna Stemi Registry).**
-	*Circulation* 2006:113(20), 2398–2405.
+	*Circulation*
+	2006:113(20), 2398–2405.
 
 .. [Kamolz:2009]
 	Kamolz, Lars-Peter, David N. Herndon, and Marc G. Jeschke:
@@ -492,7 +501,8 @@ Literaturverzeichnis
 .. [Kaplan:2001]
 	Kaplan, L. J., K. McPartland, T. A. Santora, and S. Z. Trooskin:
 	**Start with a Subjective Assessment of Skin Temperature to Identify Hypoperfusion in Intensive Care Unit Patients.**
-	*J Trauma* 2001:50(4), 620–7, discussion 627–8.
+	*J Trauma*
+	2001:50(4), 620–7, discussion 627–8.
 
 .. [Karutz:200912]
 	Karutz, Harald:
@@ -532,7 +542,8 @@ Literaturverzeichnis
 .. [Koppensteiner:2012:08]
 	Koppensteiner, Stefan.:
 	**Lachgas Im Rettungsdienst: Die Rechtlichen Aspekte**
-	*Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin* 2012:35(8).
+	*Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin*
+	2012:35(8).
 
 .. [Kramer:1]
 	Kramer, Axel, and Ojan Assadian (HG):
@@ -958,7 +969,8 @@ Literaturverzeichnis
 	Candiotti, and Albert J. Varon.:
 	**Prehospital Intubations and
 	Mortality: A Level 1 Trauma Center Perspective**
-	*Anesth Analg* 2009:109(2).
+	*Anesth Analg*
+	2009:109(2).
 	Department of Anesthesiology, Miller School of Medicine, University of
 	Miami, Miami, Florida 33136, USA. mcobas@med.miami.ed: 489–93.
 	doi:\ `10.1213/ane.0b013e3181aa3063 <https://doi.org/10.1213/ane.0b013e3181aa3063>`__.
@@ -1535,9 +1547,11 @@ Literaturverzeichnis
 
 
 .. [Genzwuerker:2007]
-
-	Genzwuerker, Harald V. 2007. “Unavailability of Capnometry: A Legal
-	Issue.” *Anesth Analg* 105 (4): 1167; author reply 1169.
+	Genzwuerker, Harald V.:
+	**Unavailability of Capnometry: A Legal
+	Issue**
+	*Anesth Analg*
+	2007:105(4),: 1167; author reply 1169.
 	doi:\ `10.1213/01.ane.0000278151.76711.c1 <https://doi.org/10.1213/01.ane.0000278151.76711.c1>`__.
 
 
@@ -1678,9 +1692,11 @@ Literaturverzeichnis
 
 
 .. [Soehnke:200607]
-
-	Hagelberg, Söhnke H., and Hartmut Gehring. 2006. “Pulsoxymetrie:
-	Sinnvolle Ergänzung Zur Kapnographie.” *Rettungsdienst* 2006 (7): 32–35.
+	Hagelberg, Söhnke H., and Hartmut Gehring.:
+	**Pulsoxymetrie:
+	Sinnvolle Ergänzung Zur Kapnographie**
+	*Rettungsdienst*
+	2006:2006(7), 32–35.
 
 
 
@@ -1816,9 +1832,11 @@ Literaturverzeichnis
 
 
 .. [RD-200811Hoffmann]
-
-	Hoffmann, Jan. 2008. “Chemische Verletzungen Im Rettungsdienst:
-	Verbrennungen Der Anderen Art.” *Rettungsdienst* 31 (11): 1076–81.
+	Hoffmann, Jan.:
+	**Chemische Verletzungen Im Rettungsdienst:
+	Verbrennungen Der Anderen Art**
+	*Rettungsdienst*
+	2008:31(11), 1076–81.
 
 
 
@@ -1954,9 +1972,11 @@ Literaturverzeichnis
 
 
 .. [Loew:200611]
-
-	Loew, Karen. 2006. “Kleine Ursache, Große Wirkung: Infektionen Durch
-	Nadelstichverletzungen Im Rettungsdienst.” *Rettungsdienst* 29 (11):
+	Loew, Karen.:
+	**Kleine Ursache, Große Wirkung: Infektionen Durch
+	Nadelstichverletzungen Im Rettungsdienst**
+	*Rettungsdienst*
+	2006:29(11),:
 	58–62.
 
 
@@ -1992,7 +2012,8 @@ Literaturverzeichnis
 	Lönnecker, S., and V. Schoder.:
 	**[Hypothermia in Patients with Burn
 	Injuries: Influence of Prehospital Treatment]**
-	*Chirurg* 2001:72(2).
+	*Chirurg*
+	2001:72(2).
 	Abteilung für Anaesthesie, Intensiv- und Rettungsmedizin,
 	Berufsgenossenschaftliches Unfallkrankenhaus Hamburg.: 164–67.
 
@@ -2105,7 +2126,8 @@ Literaturverzeichnis
 	M. Müller.:
 	**[Supraglottic Airway Devices in Emergency Medicine :
 	Impact of Gastric Drainage]**
-	*Anaesthesist* 2013:62(4). Klinik für
+	*Anaesthesist*
+	2013:62(4). Klinik für
 	Anaesthesiologie, operative Intensivmedizin, Schmerztherapie,
 	Universitätsklinikum Gießen und Marburg GmbH, Campus Gießen,
 	Rudolf-Buchheim-Str. 7, 35382, Gießen, Deutschland.: 285–92.
@@ -2415,7 +2437,8 @@ Literaturverzeichnis
 	Nolan, Jerry P, and Jasmeet Soar.:
 	**Airway Techniques and
 	Ventilation Strategies**
-	*Curr Opin Crit Care* 2008:14(3). Royal United
+	*Curr Opin Crit Care*
+	2008:14(3). Royal United
 	Hospital, Bath, UK. Jerry.nolan@ruh.nhs.uk: 279–86.
 	doi:\ `10.1097/MCC.0b013e3282f85bc8 <https://doi.org/10.1097/MCC.0b013e3282f85bc8>`__.
 
@@ -2803,9 +2826,11 @@ Literaturverzeichnis
 
 
 .. [Schnelle:200607]
-
-	Schnelle, Ralf. 2006. “Zur Positionierung von Ekg-Elektroden Im
-	Einsatz.” *Rettungsdienst* 29 (1): 24–27.
+	Schnelle, Ralf.:
+	**Zur Positionierung von Ekg-Elektroden Im
+	Einsatz**
+	*Rettungsdienst*
+	2006:29(1), 24–27.
 
 
 
@@ -3111,7 +3136,8 @@ Literaturverzeichnis
 	Nesbitt, Valerie J De Maio, Graham Nichol, et al.:
 	**Advanced
 	Cardiac Life Support in Out-of-Hospital Cardiac Arrest**
-	*N Engl J Med* 2004:351(7). awa, Ottawa Ont, Canada. istiell@ohri.ca: 647–56.
+	*N Engl J Med*
+	2004:351(7). awa, Ottawa Ont, Canada. istiell@ohri.ca: 647–56.
 
 
 
@@ -3338,7 +3364,8 @@ Literaturverzeichnis
 	Bierens, G. Brattebø, et al.:
 	**Kreislaufstillstand in Besonderen
 	Situationen**
-	*Notfall + Rettungsmedizin* 2015:18(8). Springer Berlin
+	*Notfall + Rettungsmedizin*
+	2015:18(8). Springer Berlin
 	Heidelberg: 833–903.
 	doi:\ `10.1007/s10049-015-0096-7 <https://doi.org/10.1007/s10049-015-0096-7>`__.
 
@@ -3441,11 +3468,12 @@ Literaturverzeichnis
 
 
 .. [H1N1InvTeam2009]
-
-	Virus Investigation Team, Novel Swine-Origin Influenza A (H1N1), Fatimah
 	S Dawood, Seema Jain, Lyn Finelli, Michael W Shaw, Stephen Lindstrom,
-	Rebecca J Garten, et al. 2009. “Emergence of a Novel Swine-Origin
-	Influenza a (H1n1) Virus in Humans.” *N Engl J Med* 360 (25): 2605–15.
+	Rebecca J Garten, et al.:
+	**Emergence of a Novel Swine-Origin
+	Influenza a (H1n1) Virus in Humans**
+	*N Engl J Med*
+	2009:360(25), 2605–15.
 	doi:\ `10.1056/NEJMoa0903810 <https://doi.org/10.1056/NEJMoa0903810>`__.
 
 
@@ -3529,7 +3557,8 @@ Literaturverzeichnis
 	M. Yealy.:
 	**Out-of-Hospital Airway Management in the United
 	States**
-	*Resuscitation* 2011:82(4). Department of Emergency Medicine,
+	*Resuscitation*
+	2011:82(4). Department of Emergency Medicine,
 	University of Alabama at Birmingham, Birmingham, AL 35249, United
 	States. hwang@uabmc.edu: 378–85.
 	doi:\ `10.1016/j.resuscitation.2010.12.014 <https://doi.org/10.1016/j.resuscitation.2010.12.014>`__.
@@ -3706,7 +3735,8 @@ Literaturverzeichnis
 	Wolf, T., and H-R. Brodt.:
 	**[The ‘Swine Flu’ Influenza a/H1n1 -
 	Pandemia on Trial]**
-	*Dtsch Med Wochenschr* 2009:134(30). Medizinische
+	*Dtsch Med Wochenschr*
+	2009:134(30). Medizinische
 	Klinik II - Infektiologie, Johann Wolfgang Goethe-Universität,
 	Theodor-Stern-Kai 7, 60590 Frankfurt. timo.wolf@kgu.de: 1539–41.
 	doi:\ `10.1055/s-0029-1233976 <https://doi.org/10.1055/s-0029-1233976>`__.
@@ -3740,15 +3770,10 @@ Literaturverzeichnis
 
 
 .. [Wuttig:2009]
-
-	Wuttig, Björn. 2009. “Verflixt Verschluckt – Tipps Für Ersthelfer:
-	Aspiration.” *Via Medici* 14 (4): 54.
-
-
-
-
-
-
+	Wuttig, Björn.:
+	**Verflixt Verschluckt – Tipps Für Ersthelfer: Aspiration**
+	*Via Medici*
+	2009:14(4), 54.
 
 .. [Erc-2015-Sektion-07-De]
 
@@ -3838,9 +3863,11 @@ Literaturverzeichnis
 
 
 .. [Ziesenitz:2009]
-
-	Ziesenitz, Victoria. 2009. “ABC Auf Halber Treppe – Mein Erstes Mal:
-	Versorgung Eines Schädel-Hirn-Traumas.” *Via Medici* 14 (4): 12–13.
+	Ziesenitz, Victoria.:
+	**ABC Auf Halber Treppe – Mein Erstes Mal:
+	Versorgung Eines Schädel-Hirn-Traumas**
+	*Via Medici*
+	2009:14(4), 12–13.
 
 
 

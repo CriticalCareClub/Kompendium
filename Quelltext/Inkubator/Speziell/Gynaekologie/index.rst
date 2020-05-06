@@ -32,7 +32,7 @@ Fehlgeburt
 
 Ein :dfn:`Abort` :index:`\ <! Abort>` ist die
 Beendigung einer Schwangerschaft bzw. Fruchtabgang bei einem
-Kindesgewicht von unter 500 und fehlenden Lebenszeichen [HaagGyn:2007]_ [ForMed:2]_ \ .
+Kindesgewicht von unter 500 und fehlenden Lebenszeichen [HaagGyn:2007]_ [Hochmeister:2]_ \ .
 Aufgrund verschiedener Ursachen kann es zum Absterben der
 Frucht mit einer nachfolgenden Fehlgeburt (Ausstoßung) kommen. Wenn dies
 vor dem Erreichen von 500 geschieht, spricht man von einer *Fehlgeburt*.
@@ -64,7 +64,7 @@ Erreichen der 500-Grenze des Kindes vorkommen. [275]_
 .. [275]
    Nach dem Erreichen der 500 g-Marke spricht man von einer *Totgeburt*;
    für diese gelten z. T. andere rechtliche Rahmenbedingungen (Kind kann
-   einen Vornamen erhalten, Beurkundung im Sterbebuch, [ForMed:2]_ ).
+   einen Vornamen erhalten, Beurkundung im Sterbebuch, [Hochmeister:2]_ ).
 
 
 

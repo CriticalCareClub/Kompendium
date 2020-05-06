@@ -1948,7 +1948,7 @@ Freizeit- und Erholungsphasen.
     % % Notfallmedizin und Rettungsdienst (2. Auflage; S. 25-43).
     % % Berlin: Springer.
     %
-    %[BergnerBurnOutAerzten:9]_ \ :
+    %[Bergner:9]_ \ :
     % \bibentry{BergnerBurnOutAerzten9} \\
     % % Bergner, Thomas (2004). Burn-out bei Ärzten:
     % % Lebensaufgabe statt Lebens-Aufgabe, 9,  S. 410.
@@ -1997,7 +1997,7 @@ Freizeit- und Erholungsphasen.
     % % (Hrsg.), Stress, Theorien, Untersuchungen, Maßnahmen (S.
     % % 213-260). Bern: Huber.
     %
-    %[LazarusStress]_ \ : \bibentry{LazarusStress} \\
+    %[Lazarus:1984]_ \ : \bibentry{LazarusStress} \\
     % % Lazarus, R.S. \& Folkman, S. (1984). Stress, appraisal, and
     % % coping. New York: Springer.
     %

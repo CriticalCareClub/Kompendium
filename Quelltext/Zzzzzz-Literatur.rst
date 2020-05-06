@@ -209,7 +209,7 @@ Literaturverzeichnis
 
 
 
-.. rubric:: A
+.. rubric:: Alpha
 
 .. [AAOS:2006]
 	AAOS:
@@ -249,7 +249,7 @@ Literaturverzeichnis
 	doi:\ `10.1093/bja/aei269 <https://doi.org/10.1093/bja/aei269>`__.
 
 
-.. rubric:: B
+.. rubric:: Bravo
 
 
 .. [Beneker:2004]
@@ -267,7 +267,11 @@ Literaturverzeichnis
 	17. Auflage, 2008.
 	Elsevier.
 
-
+.. [BertelsmannVolkslexikon:25]
+	Bertelsmann Lexikon-Redaktion:
+	**Bertelsmann Volkslexikon.**
+	25. Auflage, 1964.
+	Bertelsmann.
 
 .. [Bergner:9]
 
@@ -323,7 +327,7 @@ Literaturverzeichnis
 
 
 
-.. rubric:: C
+.. rubric:: Charlie
 
 .. [Classen:5]
 
@@ -332,9 +336,9 @@ Literaturverzeichnis
 	5. Auflage, 2004.
 	Urban & Fischer.
 
-.. rubric:: D
+.. rubric:: Delta
 
-.. rubric:: E
+.. rubric:: Echo
 
 
 
@@ -360,19 +364,244 @@ Literaturverzeichnis
 
 
 
-.. rubric:: F
+.. rubric:: Foxtrott
 
-.. rubric:: G
+.. rubric:: Golf
 
-.. rubric:: H
+.. [Grmec:2002]
+	Grmec, Stefek.:
+	**Comparison of Three Different Methods to Confirm
+	Tracheal Tube Placement in Emergency Intubation**
+	*Intensive Care Med* 2002:28(6), 701–4.
+	doi:\ `10.1007/s00134-002-1290-x <https://doi.org/10.1007/s00134-002-1290-x>`__.
 
-.. rubric:: I
 
-.. rubric:: J
+
+
+
+.. [Guerri:2009]
+	Guerri, Consuelo, Alissa Bazinet, and Edward P Riley:
+	**Foetal Alcohol Spectrum Disorders and Alterations in Brain and Behaviour.**
+	*Alcohol Alcohol* 2009:44(2), 108–14.
+	doi:\ `10.1093/alcalc/agn105 <https://doi.org/10.1093/alcalc/agn105>`__.
+
+
+
+.. rubric:: Hotel
+
+
+
+.. [Havel:2007]
+	Richling, Helmut Trimmel, Reinhard Malzer, Fritz Sterz, and Harald
+	Herkner.:
+	**Quality of Closed Chest Compression in Ambulance Vehicles, Flying Helicopters and at the Scene**
+	*Resuscitation* 2007:73(2), 264–70.
+	doi:\ `10.1016/j.resuscitation.2006.09.007 <https://doi.org/10.1016/j.resuscitation.2006.09.007>`__.
+
+
+
+
+.. [Herold:2005]
+	Gerd Herold (HG):
+	**Innere Medizin.**
+	2005.
+	Gerd Herold.
+
+
+.. [Herold:2012]
+	Gerd Herold (HG):
+	**Innere Medizin.**
+	2012.
+	Gerd Herold.
+
+
+
+.. [Hochmeister:2]
+	Manfred Hochmeister, Martin Grassberger und Thomas Stimpfl:
+	**Forensische Medizin für Studium und Praxis.**
+	2. Auflage, 2007.
+	Maudrich.
+
+
+
+.. [Huch:6]
+	Huch, Renate, and Klaus D. Jürgens (HG):
+	**Mensch Körper Krankheit.
+	Anatomie, Physiologie, Krankheitsbilder. Lehrbuch Und Atlas Für Die
+	Berufe Im Gesundheitswesen.**
+	6. Auflage, 2011.
+	Elsevier.
+
+
+
+
+.. rubric:: India
+
+.. [Igv:2010]
+	IGV Industriegaseverband e. V.
+	**Informationen Zur Euro-Norm Din En
+	1089-3. Farbkennzeichnung von Gasflaschen in Deutschland.**
+	2010, online:
+	http://www.industriegaseverband.de/igv/weitereigv/igvfarb.pdf.
+
+
+
+.. rubric:: Juliett
+
+.. [Jones:1973]
+	Jones, K. L., and D. W. Smith:
+	**Recognition of the Fetal Alcohol Syndrome in Early Infancy.**
+	*Lancet* 1973:302(7836), 999–1001.
+
+.. [Jones:2004]
+	Jones, James H., Michael P. Murphy, Robert L. Dickson, Geoff G.
+	Somerville, and Edward J. Brizendine:
+	**Emergency Physician-Verified Out-of-Hospital Intubation: Miss Rates by Paramedics.**
+	*Acad Emerg Med* 2004:11(6), 707–9.
+
+.. [Juurlink:2005]
+
+	Juurlink, D N, N A Buckley, M B Stanbrook, G K Isbister, M Bennett, and  A McGuigan:
+	**Hyperbaric Oxygen for Carbon Monoxide Poisoning.**
+	*Cochrane Database of Systematic Reviews (Online)*, 2005, no. 1: CD002041.
+	doi:\ `{10.1002/14651858.CD002041.pub2} <https://doi.org/{10.1002/14651858.CD002041.pub2}>`_.
+
+
+
 
 .. rubric:: K
 
+.. [Kaindl:7]
+	Kaindl, F., and P. Kühn:
+	**Elektro-Komiko-Graphie.**
+	7. Auflage, 1997.
+	Maudrich.
+
+.. [Kalla:2006]
+	Kalla, Karim, Günter Christ, Ronald Karnik, Reinhard Malzer, Georg
+	Norman, Herbert Prachar, Wolfgang Schreiber, et al.:
+	**Implementation of Guidelines Improves the Standard of Care: The Viennese Registry on Reperfusion Strategies in St-Elevation Myocardial Infarction (Vienna Stemi Registry).**
+	*Circulation* 2006:113(20), 2398–2405.
+
+.. [Kamolz:2009]
+	Kamolz, Lars-Peter, David N. Herndon, and Marc G. Jeschke:
+	**Verbrennungen: Diagnose, Therapie Und Rehabilitation Des Thermischen Traumas.**
+	1. Auflage,2009.
+	Springer, Wien.
+
+.. [Kaplan:2001]
+	Kaplan, L. J., K. McPartland, T. A. Santora, and S. Z. Trooskin:
+	**Start with a Subjective Assessment of Skin Temperature to Identify Hypoperfusion in Intensive Care Unit Patients.**
+	*J Trauma* 2001:50(4), 620–7, discussion 627–8.
+
+.. [Karutz:200912]
+	Karutz, Harald:
+	**Wenn Die Belastungsgrenze Erreicht Ist: Psychologische Selbsthilfe in Extremsituationen.**
+	*Rettungsdienst*
+	2009:32(12), 1172–7.
+
+.. [Karutz:1]
+	Karutz, Harald, and Manfred Buttlar:
+	**Kursbuch Erste Hilfe.**
+	2008. Deutscher Taschenbuch Verlag.
+
+.. [Kayser:10]
+	Kayser, Fritz H., Kurt A. Bienz, Johannes Eckert, and Rolf M. Zinkernagel:
+	**Medizinische Mikrobiologie**.
+	10. Auflage, 2001.
+	Thieme.
+
+.. [Kirschnick:2]
+	Kirschnick, Olaf:
+	**Pflegetechniken von a – Z. Schritt Für Schrittin Wort Und Bild.**
+	2. Auflage, 2003.
+	Thieme.
+
+.. [Klinke:3]
+	Klinke, R und St. Silbernagl (HG):
+	**Lehrbuch Der Physiologie.**
+	3. Auflage, 2001.
+	Thieme-Verlag.
+
+.. [KontrollamtWienKA-K-13-09]
+	Kontrollamt der Stadt Wien:
+	**MA 70, Prüfung der Qualitätssicherung, Personalsituation, Betriebsorganisation, Technischen und infrastrukturellen Ausstattung, Finanzentwicklung und Tarifgestaltung. Ersuchen Gem. § 73 Abs. 6a Wstv vom 21. Dezember 2009 Tätigkeitsbericht 2010.**
+	*KA - K-13/09.*
+	2011.
+
+.. [Koppensteiner:2012:08]
+	Koppensteiner, Stefan.:
+	**Lachgas Im Rettungsdienst: Die Rechtlichen Aspekte**
+	*Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin* 2012:35(8).
+
+.. [Kramer:1]
+	Kramer, Axel, and Ojan Assadian (HG):
+	**Wallhäußers Praxis Der Sterilisation, Desinfektion, Antiseptik Und Konservierung.**
+	1. Auflage, 2008.
+	Thieme.
+
+.. [Kramer:KHH:1]
+	Kramer, Heeg, and Botzenhart (HG):
+	**Krankenhaus- und Praxishygiene.**
+	1. Auflage, 2001.
+	Urban & Fischer.
+
+.. [Kucera:2010]
+	Kucera, Mrtin:
+	**Schlampigkeit Kostet.**
+	*Kma Das Gesundheitswirtschaftsmagazin*
+	2010:15(2), 56–59.
+
+.. [Kuehn:2002:1]
+	Kühn, P.:
+	**EKG-Fortbildung.**
+	Bd. 1.
+	2002.
+	Verlag Wilhelm Maudrich.
+
+.. [Kuehn:2003:2]
+	Kühn, P.:
+	**EKG-Fortbildung.**
+	Bd. 2.
+	2003.
+	Verlag Wilhelm Maudrich.
+
+
 .. rubric:: L
+
+.. [Lazarus:1984]
+	Lazarus, R.S., and S. Folkman (HG):
+    **Stress, Appraisal, and Coping.**
+    1984.
+     Springer.
+
+.. [Lecky:2008]
+	Lecky, F., D. Bryden, R. Little, N. Tong, and C. Moulton:
+	**Emergency Intubation for Acutely Ill and Injured Patients.**
+	*Cochrane Database Syst Rev*, CD001429, 2008.
+	doi:\ `10.1002/14651858.CD001429.pub2 <https://doi.org/10.1002/14651858.CD001429.pub2>`__.
+
+.. [Lehmeyer:1]
+	Lehmeyer, Lukas:
+	**Anamnese Und Untersuchung.**
+	1. Auflage, 2006.
+	Elsevier.
+
+.. [Leohnhardt:2003]
+	Leonhardt, Helmut, Bernhard Tillmann, Gian Tondury, and Karl Zilles (HG):
+	**Anatomie Des Menschen — Bd. 1: Bewegungsapparat.**
+	3. Auflage, 2003.
+	Thieme.
+
+.. [Lippert:4]
+	Lippert, Désirée:
+	**Die Lateinische Diagnose in Der Unfallchirurgie und ihren Grenzgebieten.**
+	4. Auflage,  2010.
+	Allgemeine Unfallversicheurngsanstalt Wien (AUVA).
+	http://www.auva.at/mediaDB/704539_Lateinische_Diagnose.pdf.
+
+
+
 
 .. rubric:: M
 
@@ -1406,16 +1635,6 @@ Literaturverzeichnis
 
 
 
-.. [Grmec:2002]
-	Grmec, Stefek.:
-	**Comparison of Three Different Methods to Confirm
-	Tracheal Tube Placement in Emergency Intubation**
-	*Intensive Care Med* 2002:28(6). Emergency Medical Service - Prehospital unit, Ljubljanska 5,
-	Maribor 2000, Slovenia. grmec-mis@siol.net: 701–4.
-	doi:\ `10.1007/s00134-002-1290-x <https://doi.org/10.1007/s00134-002-1290-x>`__.
-
-
-
 
 
 
@@ -1428,16 +1647,6 @@ Literaturverzeichnis
 
 
 
-
-
-
-.. [Guerri:2009]
-
-	Guerri, Consuelo, Alissa Bazinet, and Edward P Riley. 2009. “Foetal
-	Alcohol Spectrum Disorders and Alterations in Brain and Behaviour.”
-	*Alcohol Alcohol* 44 (2). Department of Cell Pathology, Centro de
-	Investigacion Principe Felipe, Valencia, Spain. guerri@cipf.es: 108–14.
-	doi:\ `10.1093/alcalc/agn105 <https://doi.org/10.1093/alcalc/agn105>`__.
 
 
 
@@ -1568,26 +1777,6 @@ Literaturverzeichnis
 
 
 
-.. [Havel:2007]
-	Richling, Helmut Trimmel, Reinhard Malzer, Fritz Sterz, and Harald
-	Herkner.:
-	**Quality of Closed Chest Compression in Ambulance
-	Vehicles, Flying Helicopters and at the Scene**
-	*Resuscitation* 2007:73(2).
-	Department of Emergency Medicine, Medical University of Vienna,
-	Waehringerguertel 18-20/6D, A-1090 Vienna, Austria.: 264–70.
-	doi:\ `10.1016/j.resuscitation.2006.09.007 <https://doi.org/10.1016/j.resuscitation.2006.09.007>`__.
-
-
-
-
-
-
-
-.. [Helfen:2008]
-
-	Helfen, Tobias. 2008. *BASICS Notfall- Und Rettungsmedizin*. 1st ed.
-	Urban & Fischer Bei Elsevier.
 
 
 
@@ -1607,24 +1796,6 @@ Literaturverzeichnis
 
 
 
-.. [HeroldInnereMedizin:2005]
-
-	Herold, Gerd, ed. 2005. *Innere Medizin*. Gerd Herold.
-
-
-
-
-
-
-
-.. [HeroldInnereMedizin:2012]
-
-	———, ed. 2012. *Innere Medizin*. Gerd Herold.
-
-
-
-
-
 
 
 .. [InjektionenLeichtGemacht:4]
@@ -1637,11 +1808,6 @@ Literaturverzeichnis
 
 
 
-
-.. [ForMed:2]
-
-	Hochmeister, Manfred, Martin Grassberger, and Thomas Stimpfl. 2007.
-	*Forensische Medizin Für Studium Und Praxis*. 2nd ed. Maudrich.
 
 
 
@@ -1671,36 +1837,6 @@ Literaturverzeichnis
 
 
 
-.. [www:Erc]
-
-	**Homepage Des European Resuscitation Council (Erc).** n.d.
-	http://www.erc.edu.
-
-
-
-
-
-
-
-.. [www:ResuscitationJournal]
-
-	**Homepage Des Journals Resuscitation.** n.d.
-	http://www.resuscitationjournal.com.
-
-
-
-
-
-
-
-.. [MenschKoerperKrankheit:6]
-
-	Huch, Renate, and Klaus D. Jürgens, eds. 2011. *Mensch Körper Krankheit.
-	Anatomie, Physiologie, Krankheitsbilder. Lehrbuch Und Atlas Für Die
-	Berufe Im Gesundheitswesen.* 6th ed. Elsevier.
-
-
-
 
 
 
@@ -1717,220 +1853,7 @@ Literaturverzeichnis
 
 
 
-.. [Igv:2010]
 
-	IGV Industriegaseverband e. V. 2010. “Informationen Zur Euro-Norm Din En
-	1089-3. Farbkennzeichnung von Gasflaschen in Deutschland.”
-	Komödienstraße 48, D - 50667 Köln: online.
-	http://www.industriegaseverband.de/igv/weitereigv/igvfarb.pdf.
-
-
-
-
-
-
-
-.. [Jones:2004]
-
-	Jones, James H., Michael P. Murphy, Robert L. Dickson, Geoff G.
-	Somerville, and Edward J. Brizendine. 2004. “Emergency
-	Physician-Verified Out-of-Hospital Intubation: Miss Rates by
-	Paramedics.” *Acad Emerg Med* 11 (6). Department of Emergency Medicine,
-	Indiana University School of Medicine, Indianapolis, IN 46202, USA.
-	jhjones@iupui.edu: 707–9.
-
-
-
-
-
-
-
-.. [Jones:1973]
-
-	Jones, K. L., and D. W. Smith. 1973. “Recognition of the Fetal Alcohol
-	Syndrome in Early Infancy.” *Lancet* 302 (7836): 999–1001.
-
-
-
-
-
-
-
-.. [Juurlink:2005]
-
-	Juurlink, D N, N A Buckley, M B Stanbrook, G K Isbister, M Bennett, and
-	M A McGuigan. 2005.
-	**Hyperbaric Oxygen for Carbon Monoxide Poisoning.**
-	*Cochrane Database of Systematic Reviews (Online)*, no. 1: CD002041.
-	doi:\ `{10.1002/14651858.CD002041.pub2} <https://doi.org/{10.1002/14651858.CD002041.pub2}>`__.
-
-
-
-
-
-
-
-.. [ElektroKomikoGraphie:7]
-
-	Kaindl, F., and P. Kühn. 1997. *Elektro-Komiko-Graphie*. 7th ed. Ver.
-
-
-
-
-
-
-
-.. [Kalla:2006]
-
-	Kalla, Karim, Günter Christ, Ronald Karnik, Reinhard Malzer, Georg
-	Norman, Herbert Prachar, Wolfgang Schreiber, et al. 2006.
-	“Implementation of Guidelines Improves the Standard of Care: The
-	Viennese Registry on Reperfusion Strategies in St-Elevation Myocardial
-	Infarction (Vienna Stemi Registry).” *Circulation* 113 (20).
-	Wilhelminenhospital, 3rd Medical Department, Medical University Vienna,
-	Austria.: 2398–2405.
-
-
-
-
-
-
-
-.. [Kamolz:2009]
-
-	Kamolz, Lars-Peter, David N. Herndon, and Marc G. Jeschke. 2009.
-	*Verbrennungen: Diagnose, Therapie Und Rehabilitation Des Thermischen
-	Traumas*. 1st ed. Springer, Wien.
-
-
-
-
-
-
-
-.. [Kaplan:2001]
-
-	Kaplan, L. J., K. McPartland, T. A. Santora, and S. Z. Trooskin. 2001.
-	“Start with a Subjective Assessment of Skin Temperature to Identify
-	Hypoperfusion in Intensive Care Unit Patients.” *J Trauma* 50 (4).
-	Department of Surgery, MCP Hahnemann School of Medicine, Philadelphia,
-	Pennsylvania 19129, USA.: 620–7; discussion 627–8.
-
-
-
-
-
-
-
-.. [Karutz:200912]
-
-	Karutz, Harald. 2009. “Wenn Die Belastungsgrenze Erreicht Ist:
-	Psychologische Selbsthilfe in Extremsituationen.” *Rettungsdienst* 32
-	(12): 1172–7.
-
-
-
-
-
-
-
-.. [KarutzKursbuchEH]
-
-	Karutz, Harald, and Manfred Buttlar. 2008. *Kursbuch Erste Hilfe*.
-	Deutscher Taschenbuch Verlag.
-
-
-
-
-
-
-
-.. [KayserMikrobiologie:10]
-
-	Kayser, Fritz H., Kurt A. Bienz, Johannes Eckert, and Rolf M.
-	Zinkernagel. 2001. *Medizinische Mikrobiologie*. 10th ed. Thieme.
-
-
-
-
-
-
-
-.. [KeggenhoffEH]
-
-	Keggenhoff, Franz. 2007. *Erste Hilfe. Das Offizielle Handbuch.
-	Sofortmaßnahmen Bei Babys, Kindern Und Erwachsenen.* Südwest Verlag.
-
-
-
-
-
-
-
-.. [KirschnickPflege:2]
-
-	Kirschnick, Olaf. 2003. *Pflegetechniken von a – Z. Schritt Für Schritt
-	in Wort Und Bild.* 2nd ed. Thieme.
-
-
-
-
-
-
-
-.. [KlinkePhysio:3]
-
-	Klinke, R, and St Silbernagl, eds. 2001. *Lehrbuch Der Physiologie*. 3rd
-	ed. Thieme-Verlag.
-
-
-
-
-
-
-
-.. [Knacke:200601]
-
-	Knacke, Peer G., and Petra Saur. 2006. “‘Akute Luftnot’: Kasuistik Eines
-	Häufigen Notfallbildes.” *Rettungsdienst* 29 (1): 70–71.
-
-
-
-
-
-
-
-.. [KoehnleinEH]
-
-	Köhnlein, Edzard, and Siegfried Weller, eds. 2006. *Erste Hilfe.
-	Aktuelle Empfehlungen Zur Kardiopulmonalen Reanimation*. Thieme.
-
-
-
-
-
-
-
-.. [KontrollamtWienKA-K-13-09]
-
-	Kontrollamt der Stadt Wien, ed. 2011. *MA 70, Prüfung Der
-	Qualitätssicherung, Personalsituation, Betriebsorganisation, Technischen
-	Und Infrastrukturellen Ausstattung, Finanzentwicklung Und
-	Tarifgestaltung. Ersuchen Gem. § 73 Abs. 6a Wstv Vom 21. Dezember 2009
-	Tätigkeitsbericht 2010*. KA - K-13/09. Rathausstraße 9, A-1082 Wien:
-	Stadt Wien.
-
-
-
-
-
-
-
-.. [Koppensteiner:2012:08]
-	Koppensteiner, Stefan.:
-	**Lachgas Im Rettungsdienst: Die Rechtlichen
-	Aspekte**
-	*Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin* 2012:35(8).
 
 
 
@@ -1948,11 +1871,6 @@ Literaturverzeichnis
 	doi:\ `10.1007/s10049-010-1368-x <https://doi.org/10.1007/s10049-010-1368-x>`__.
 
 
-
-
-
-
-
 .. [Erc-2010Sec2]
 
 	Koster, Rudolph W, Michael A Baubin, Leo L Bossaert, Antonio Caballero,
@@ -1964,27 +1882,29 @@ Literaturverzeichnis
 	doi:\ `10.1016/j.resuscitation.2010.08.009 <https://doi.org/10.1016/j.resuscitation.2010.08.009>`__.
 
 
+.. [Erc-2010Sek10De]
+
+	Lippert, F.K., V. Raffay, M. Georgiou, P.A. Steen, and L. Bossaert.
+	2010. “Ethik Der Reanimation Und Entscheidungen Am Lebensende – Sektion
+	10 Der Leitlinien Zur Reanimation 2010 Des European Resuscitation
+	Council.” *Notfall + Rettungsmedizin* 13 (7). Springer Berlin /
+	Heidelberg: 737–44. http://dx.doi.org/10.1007/s10049-010-1376-x.
+
+.. [Erc-2010Sec10]
+
+	Lippert, Freddy K, Violetta Raffay, Marios Georgiou, Petter A Steen, and Leo Bossaert. 2010.
+	“European Resuscitation Council Guidelines for Resuscitation 2010 Section 10. the Ethics of Resuscitation and End-of-Life Decisions.” *Resuscitation* 81 (10). The Capital Region of
+	Denmark, Copenhagen, Denmark. lippert@regionh.dk: 1445–51.
+	doi:\ `10.1016/j.resuscitation.2010.08.013 <https://doi.org/10.1016/j.resuscitation.2010.08.013>`__.
 
 
 
 
 
-.. [KramerWallhaeusersPraxis:1]
-
-	Kramer, Axel, and Ojan Assadian, eds. 2008. *Wallhäußers Praxis Der
-	Sterilisation, Desinfektion, Antiseptik Und Konservierung.* 1st ed.
-	Thieme.
 
 
 
 
-
-
-
-.. [KramerKrankenhausPraxishygiene:1]
-
-	Kramer, Heeg, and Botzenhart, eds. 2001. *Krankenhaus- Und
-	Praxishygiene*. 1st ed. Urban & Fischer.
 
 
 
@@ -1993,7 +1913,6 @@ Literaturverzeichnis
 
 
 .. [Verbrennungsmed-2009Praehosp]
-
 	Krause, Th., and T. Loerbroks. 2009. “Verbrennungsmedizin – Vom
 	Unfallort Bis Zur Rehabilitation.” In, edited by Frank Wappler and
 	Gerald Spilker, 19–28. Thieme.
@@ -2002,21 +1921,7 @@ Literaturverzeichnis
 
 
 
-
-
-.. [SiewertChirurgie8-07.14-Pankreas]
-
-	Kremer, B., and A. Schmid. 2006. In *Chirurgie*, edited by Rüdiger
-	Siewert, 8th ed., 698–707. Springer-Verlag.
-
-
-
-
-
-
-
 .. [RkPlsNeu:2008]
-
 	Kreuz, Österreichisches Rotes. 2008. “Patientenleittasche Neu –- Fragen
 	Und Antworten.” Österreichisches Rotes Kreuz.
 
@@ -2027,47 +1932,11 @@ Literaturverzeichnis
 
 
 .. [RkRahmenvorschriftGrossunfaelle:2007]
-
-	———, ed. 2007. *Rahmenvorschrift Grossunfälle*. Österreichisches Rotes
-	Kreuz. http://vorschriften.roteskreuz.at.
-
-
-
-
-
-
-
-.. [Kucera:2010]
-
-	Kucera, Mrtin. 2010.
-	**Schlampigkeit Kostet.**
-	*Kma Das
-	Gesundheitswirtschaftsmagazin* 15 (Februar): 56–59.
-
-
-
-
-
-
-
-.. [KuehnEkgFortbildung02T1]
-
-	Kühn, P. 2002. *EKG-Fortbildung*. Vol. 1. Verlag Wilhelm Maudrich.
-
-
-
-
-
-
-
-.. [KuehnEkgFortbildung03T2]
-
-	———. 2003. *EKG-Fortbildung*. Vol. 2. Verlag Wilhelm Maudrich.
-
-
-
-
-
+	ÖRK:
+	**Rahmenvorschrift Grossunfälle.**
+	2007.
+	Österreichisches Rotes Kreuz.
+	http://vorschriften.roteskreuz.at.
 
 
 .. [GeschichteNeuerenDeutschenChirurgie]
@@ -2076,121 +1945,10 @@ Literaturverzeichnis
 	15. Neue Deutsche Chirurgie. Verlag von Ferdinand Enke in Stuttgart.
 	http://www.gutenberg.org/ebooks/39529.
 
-
-
-
-
-
-
 .. [NitschStress-StressTransakt]
 
 	Lazarus, R. S., and R Launier. 1981. In *Stress, Theorien,
 	Untersuchungen, Maßnahmen*, edited by J. R. Nitsch, 213–60. Huber.
-
-
-
-
-
-
-
-.. [LazarusStress]
-
-	Lazarus, R.S., and S. Folkman, eds. 1984. *Stress, Appraisal, and
-	Coping*. Springer.
-
-
-
-
-
-
-
-.. [Lecky:2008]
-
-	Lecky, F., D. Bryden, R. Little, N. Tong, and C. Moulton. 2008.
-	**Emergency Intubation for Acutely Ill and Injured Patients.**
-	*Cochrane
-	Database Syst Rev*, no. 2. Hope Hospital, Department of Emergency
-	Medicine, Clinical Sciences Building, Eccles Old Road, Salford, UK, M6
-	8HD. fiona.lecky@manchester.ac.uk: CD001429.
-	doi:\ `10.1002/14651858.CD001429.pub2 <https://doi.org/10.1002/14651858.CD001429.pub2>`__.
-
-
-
-
-
-
-
-.. [LehmeyerAnamUnter:1]
-
-	Lehmeyer, Lukas. 2006. *Anamnese Und Untersuchung*. 1st ed. Basics.
-	Elsevier.
-
-
-
-
-
-
-
-.. [Leohnhardt:2003]
-
-	Leonhardt, Helmut, Bernhard Tillmann, Gian Tondury, and Karl Zilles,
-	eds. 2003. *Bewegungsapparat*. 3rd ed. Vol. 1. Anatomie Des Menschen.
-	Lehrbuch Und Atlas. Thieme.
-
-
-
-
-
-
-
-.. [BertelsmannVolkslexikon:25]
-
-	Lexikon-Redaktion, Bertelsmann, ed. 1964. *Bertelsmann Volkslexikon*.
-	25th ed. Bertelsmann.
-
-
-
-
-
-
-
-.. [LatDiag:4]
-
-	Lippert, Désirée. 2010. *Die Lateinische Diagnose in Der Unfallchirurgie
-	Und Ihren Grenzgebieten*. 4th ed. Allgemeine Unfallversicheurngsanstalt
-	Wien (AUVA). http://www.auva.at/mediaDB/704539_Lateinische_Diagnose.pdf.
-
-
-
-
-
-
-
-.. [Erc-2010Sek10De]
-
-	Lippert, F.K., V. Raffay, M. Georgiou, P.A. Steen, and L. Bossaert.
-	2010. “Ethik Der Reanimation Und Entscheidungen Am Lebensende – Sektion
-	10 Der Leitlinien Zur Reanimation 2010 Des European Resuscitation
-	Council.” *Notfall + Rettungsmedizin* 13 (7). Springer Berlin /
-	Heidelberg: 737–44. http://dx.doi.org/10.1007/s10049-010-1376-x.
-
-
-
-
-
-
-
-.. [Erc-2010Sec10]
-
-	Lippert, Freddy K, Violetta Raffay, Marios Georgiou, Petter A Steen, and
-	Leo Bossaert. 2010. “European Resuscitation Council Guidelines for
-	Resuscitation 2010 Section 10. the Ethics of Resuscitation and
-	End-of-Life Decisions.” *Resuscitation* 81 (10). The Capital Region of
-	Denmark, Copenhagen, Denmark. lippert@regionh.dk: 1445–51.
-	doi:\ `10.1016/j.resuscitation.2010.08.013 <https://doi.org/10.1016/j.resuscitation.2010.08.013>`__.
-
-
-
 
 
 

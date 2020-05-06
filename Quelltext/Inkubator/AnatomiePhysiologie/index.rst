@@ -11,7 +11,7 @@ Anatomie und Physiologie
 
 
 Literatur
-    [Benninghoff:2008:Bd1][Leohnhardt:2003][Platzer:2003][Waldeyer:2003]
+    [Benninghoff:17:Bd1][Leohnhardt:2003][Platzer:2003][Waldeyer:2003]
 
 
 .. index::

@@ -261,6 +261,22 @@ Literaturverzeichnis
 	doi:\ `10.1007/s00390-004-0515-3 <https://doi.org/10.1007/s00390-004-0515-3>`__.
 
 
+.. [Benninghoff:17:Bd1]
+	Benninghof und Detlev Drenckhan (HG):
+	**Anatomie.** Band 1.
+	17. Auflage, 2008.
+	Elsevier.
+
+
+
+.. [Bergner:9]
+
+	Bergner, Thomas:
+	**Burn-Out Bei Ärzten: Lebensaufgabe Statt Lebens-Aufgabe**.
+	9. Auflage, 2004.
+
+
+
 
 .. [Bischofberger:2007]
 
@@ -297,9 +313,24 @@ Literaturverzeichnis
 	Elsevier, Urban und Fischer.
 
 
+.. [Buchfelder:4]
+
+	Buchfelder, Michael, and Albert Buchfelder:
+    **Handbuch Der Ersten Hilfe.**
+    4. Auflage, 2006.
+    Schattauer.
+
+
 
 
 .. rubric:: C
+
+.. [Classen:5]
+
+	Classen, M., V. Diehl, K. Kochsiek, W. E. Berdel, M. Böhm, and W. Schmiegel (HG):
+	**Innere Medizin.**
+	5. Auflage, 2004.
+	Urban & Fischer.
 
 .. rubric:: D
 
@@ -380,7 +411,6 @@ Literaturverzeichnis
 
 
 .. [BattegayHandwPsych:2]
-
 	Battegay, Raymond, ed. 1992. *Handwörterbuch Der Psychiatrie*. 2nd ed.
 	Ferdinand Enke Verlag.
 
@@ -390,7 +420,6 @@ Literaturverzeichnis
 
 
 .. [BengelPsyNotfallmedRd2-PsyBelRdPers]
-
 	Bengel, J., and M. Heinrichs. 2004. In *Psychologie in Notfallmedizin
 	Und Rettungsdienst*, edited by J. Bengel, 2nd ed., 25–43. Springer.
 
@@ -401,7 +430,6 @@ Literaturverzeichnis
 
 
 .. [BengelPsyNotfallmedRd:2]
-
 	Bengel, J., ed. 2004. *Psychologie in Notfallmedizin Und
 	Rettungsdienst*. 2nd ed. Springer.
 
@@ -411,21 +439,6 @@ Literaturverzeichnis
 
 
 
-.. [Benninghoff:2008:Bd1]
-
-	Benninghof, and Detlev Drenckhan, eds. 2008. *Anatomie*.
-    17. Auflage. Bd. 1. Elsevier.
-
-
-
-
-
-
-
-.. [BergnerBurnOutAerzten:9]
-
-	Bergner, Thomas. 2004. *Burn-Out Bei "Arzten: Lebensaufgabe Statt
-	Lebens-Aufgabe*. 9th ed.
 
 
 
@@ -547,13 +560,6 @@ Literaturverzeichnis
 	doi:\ `10.1016/j.resuscitation.2015.07.033 <https://doi.org/10.1016/j.resuscitation.2015.07.033>`__.
 
 
-
-.. [Buchfelder:4]
-
-	Buchfelder, Michael, and Albert Buchfelder:
-    **Handbuch Der Ersten Hilfe.**
-    4. Auflage, 2006.
-    Schattauer.
 
 
 
@@ -710,10 +716,7 @@ Literaturverzeichnis
 
 
 
-.. [ClassenInnere:5]
 
-	Classen, M., V. Diehl, K. Kochsiek, W. E. Berdel, M. Böhm, and W.
-	Schmiegel, eds. 2004. *Innere Medizin*. 5th ed. Urban & Fischer.
 
 
 
@@ -722,7 +725,6 @@ Literaturverzeichnis
 
 
 .. [Cobas:2009]
-
 	Cobas, Miguel A., Maria Alejandra De la Peña, Ronald Manning, Keith
 	Candiotti, and Albert J. Varon. 2009. “Prehospital Intubations and
 	Mortality: A Level 1 Trauma Center Perspective.” *Anesth Analg* 109 (2).

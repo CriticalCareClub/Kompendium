@@ -141,8 +141,8 @@ durch Formulare oder Computerprogramme vorgegebenen Form abweichen.
 
 .. todo:: Tabelle
 
-    :: 
-    
+    ::
+
         Ein Einsatzprotokoll: Schlechte Dokumentation. Dieses Beispiel zeigt eine mangelhafte Dokumentation. Anhand der Niederschrift ist nicht nachvollziehbar, was vorgefallen ist.
 
         | Berufung: & 17-B-01 & Text: &
@@ -158,8 +158,8 @@ durch Formulare oder Computerprogramme vorgegebenen Form abweichen.
 
 .. todo:: Tabelle
 
-    :: 
-    
+    ::
+
         Ein Einsatzprotokoll: Bessere Dokumentation
 
         | Berufung: & 17-B-01 & Text: &
@@ -180,12 +180,12 @@ durch Formulare oder Computerprogramme vorgegebenen Form abweichen.
 
     ::
 
-        Berufung:  25-B-04      Text: 
+        Berufung:  25-B-04      Text:
         Art     :  RTW          QU  01.05.2008  09:10   BO  09:20
                                 ZA  10:00   AO  10:23   EB  10:40
         Name    : MUSTERMANN, Max           Alter   :   32  Geschlecht  : m
-        Vitalwerte 
-        
+        Vitalwerte
+
         09:30   :   RR - HF     : 130/70mmHg - 100/min SpO2 : 98%
                     BZ          : xxx mg/dL  Temp. & xx°C & Schmerzen: &
         Weitere Befunde: &
@@ -202,7 +202,7 @@ Beschreibung
 Im folgenden sind häufige (lateinische) Diagnosen bzw. Abkürzungen als
 Referenz angeführt, welche man häufig auf unfallchirurgischen
 Arztbriefen und Ambulanzprotokollen findet. Eine ausführliche
-Aufstellung findet sich in :cite:`LatDiag4`.
+Aufstellung findet sich in [Lippert:4]_ .
 
 
 Wund- und Verletzungsarten
@@ -225,7 +225,7 @@ Wund- und Verletzungsarten
     (*Artic. apert.*) Gelenkseröffnung
 
 :Bulla haemorrhagica:
-    
+
     (*Bulla haemorrh.*) Blutblase
 
 :Bulla infecta:
@@ -234,7 +234,7 @@ Wund- und Verletzungsarten
 
 :Bursa aperta:
 
-    (*Bursa apert.*)    
+    (*Bursa apert.*)
     Eröffnung des Schleimbeutels
 
 :Bursitis: Schleimbeutelentzündung
@@ -468,53 +468,53 @@ Zusätze
 
 :infectus, -a, -um: infiziert
 
-:inveteratus: 
+:inveteratus:
 
     (*invet.*)
     veraltet
 
-:apertus: 
+:apertus:
 
     (*apert.*)
     offen
 
-:ossea sanata: 
+:ossea sanata:
 
     (*oss. san.*)
     knöchern geheilt
 
-:repositus: 
+:repositus:
 
     (*repos.*)
     eingerichtet, reponiert
 
-:utriusque: 
+:utriusque:
 
     (*utr.*)
     rechts und links
 
-:bilateralis: 
+:bilateralis:
 
     (*bilat.*)
-    beiderseitig an einer Extremität 
+    beiderseitig an einer Extremität
     (d. h. innen und aussen, radial und ulnar etc.)
 
-:operatus: 
+:operatus:
 
     (*operat.*)
     operiert
 
-:suturatus: 
+:suturatus:
 
     (*suturat.*)
     genäht
 
-:fixatus: 
+:fixatus:
 
     (*fixat.*)
     ruhiggestellt im Gips
 
-:signum interrogationis: 
+:signum interrogationis:
 
     (*s. i.*)
     fraglich, Zusatz bei unsicherer Diagnose
@@ -522,77 +522,77 @@ Zusätze
 Richtungs- und Seitenangaben
 ----------------------------
 
-:dexter, -tra, -trum: 
+:dexter, -tra, -trum:
 
     (*dext.*)
     rechts
 
-:sinister, -tra, -trum: 
+:sinister, -tra, -trum:
 
     (*sin.*)
     links
 
-:utriusque: 
+:utriusque:
 
     (*utr.*)
     Rechts und links
 
-:bilateralis, -e: 
+:bilateralis, -e:
 
     (*bilat.*)
-    beidseitig 
+    beidseitig
 
-:medialis, -e: 
+:medialis, -e:
 
     (*med.*)
     innenseitig
 
-:lateralis, -e: 
+:lateralis, -e:
 
     (*lat.*)
     außenseitig
 
-:dorsalis, -e: 
+:dorsalis, -e:
 
     (*dors.*)
     streckseitig
 
-:palmaris, -e: 
+:palmaris, -e:
 
     (*palm.*)
     beugeseitig an der Hand, hohlhandseitig
 
-:plantaris, -e: 
+:plantaris, -e:
 
     (*plant.*)
     beugeseitig am Fuß
 
-:ulnaris, -e: 
+:ulnaris, -e:
 
     (*uln.*)
     innenseitig
 
-:radialis, -e: 
+:radialis, -e:
 
     (*rad.*)
     außenseitig
 
-:proximalis, -e: 
+:proximalis, -e:
 
     (*prox.*)
     körpernahe
 
-:distalis, -e: 
+:distalis, -e:
 
     (*dist.*)
     körperfern
 
-:cranialis, -e: 
+:cranialis, -e:
 
     (*cran.*)
     kopfwärts
 
-:caudalis, -e: 
+:caudalis, -e:
 
     (*caud.*)
     fußwärts
@@ -602,4 +602,4 @@ Richtungs- und Seitenangaben
    §5 SanG
 
 .. [165]
-   NACA 
+   NACA

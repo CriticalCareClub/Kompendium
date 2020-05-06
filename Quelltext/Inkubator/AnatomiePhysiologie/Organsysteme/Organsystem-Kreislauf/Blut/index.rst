@@ -115,7 +115,7 @@ Das Blut besteht aus *festen*, *zellulären*, und *flüssigen* Teilen:
       Bindung des Sauerstoffes in den Erythrozyten verantwortlich. Ein
       Mangel an Hämoglobin wird als :dfn:`Anämie`
       bezeichnet. Die Erythrozyten sind die häufigsten festen
-      Blutbestandteile (4 000 000 T / L) und tragen die 
+      Blutbestandteile (4 000 000 T / L) und tragen die
       **Blutgruppenmerkmale** (A, B bzw. 0 bei Fehlen der Merkmale) und
       die Rhesusfaktoren.
 
@@ -135,7 +135,7 @@ Das Blut besteht aus *festen*, *zellulären*, und *flüssigen* Teilen:
       *Blutstillung* und dem Wundverschluss. Ihre Anzahl wird mit 150 000
       bis 300 000 pro beziffert.
 
--  Die **flüssigen Bestandteile** des Blutes, 
+-  Die **flüssigen Bestandteile** des Blutes,
    das :dfn:`Plasma` besteht zum
    größten Teil aus *Wasser*. Der restliche Anteil enthält darin gelöste
    Stoffe wie z. B. *Proteine*, *Enzyme*, *Hormone*, *Elektrolyte*,
@@ -154,12 +154,12 @@ Das Blut besteht aus *festen*, *zellulären*, und *flüssigen* Teilen:
 
 
 .. [201]
-    **Granulozyten** :index:`\ <Granulozyten>`: 
+    **Granulozyten** :index:`\ <Granulozyten>`:
     Sie bilden den Beginn der Immunabwehr.
-    **Lymphozyten** :index:`\ <Lymphozyten>`: 
+    **Lymphozyten** :index:`\ <Lymphozyten>`:
     In diese Gruppe fallen
-    Antikörper-bildende Zellen. 
-    **Monozyten** :index:`\ <Monozyten>`: 
+    Antikörper-bildende Zellen.
+    **Monozyten** :index:`\ <Monozyten>`:
     Sie können sich
     durch zelleigene Bewegungen im Gewebe bewegen und Keime bzw.
     Fremdkörper verdauen.
@@ -265,7 +265,7 @@ Blutkörperchen (*Erythrozyten*) bzw. der Konzentration des
 Blutfarbstoffes *Hämoglobin* ab. Im arteriellen Blut sind pro Liter ca
 0,2L Sauerstoff enthalten. Im Normalfall werden davon nur ca. 25% vom
 Körper aufgenommen, der Rest gelangt ungenutzt in das venöse System
-zurück. (Gaehtgens 2001)
+zurück. [Gaehtgens:2001]_
 
 .. _Thema-immunsystem:
 
@@ -361,6 +361,6 @@ kommt, ist die Fibrinolyse, bei der es zur Auflösung von Thromben kommt.
 Normalerweise sind diese beiden Mechanismen im Gleichgewicht, sodass das
 Blut weder zu schnell noch zu langsam gerinnt.
 
-.. figure:: /Bilder/WikipediaCcBy/Bleeding_finger.* 
+.. figure:: /Bilder/WikipediaCcBy/Bleeding_finger.*
 
     [Crystal (Crystl) from Bloomington, USA (http://www.flickr.com/people/crystalflickr/) / CC-BY]

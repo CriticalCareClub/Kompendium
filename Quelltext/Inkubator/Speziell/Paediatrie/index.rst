@@ -202,8 +202,8 @@ Basismaßnahmen
     -   Eltern und Kind beruhigen.
     -   Feuchte Luft einatmen lassen (evtl. Fenster
         öffnen; feuchte Tücher im Raum aufhängen; Dusche im Badezimmer aufdrehen)
-    -   Zurückhaltende Diagnostik 
-        und Behandlung 
+    -   Zurückhaltende Diagnostik
+        und Behandlung
     -   **Keine Manipulation im Mund-/Rachenraum!**
 
 
@@ -260,8 +260,8 @@ Basismaßnahmen
     -   |TxMassVitMK|
     -   Luftbefeuchtung
     -   Kinder sitzen lassen!
-    -   Zurückhaltende Diagnostik 
-        und Behandlung 
+    -   Zurückhaltende Diagnostik
+        und Behandlung
     -   **Keine Manipulation im Mund-/Rachenraum!**
 
 
@@ -414,7 +414,7 @@ Krampfanfälle im Kindesalter
 ============================
 
 Grundsätzlich gelten auch bei Kindern die Ausführungen im Abschnitt
-:ref:`Thema-zerebrale-krampfanfaelle`. 
+:ref:`Thema-zerebrale-krampfanfaelle`.
 Eine Besonderheit stellt jedoch der
 :dfn:`Fieberkrampf` :index:`\ <! Fieberkrampf>` dar.
 
@@ -450,9 +450,9 @@ eventuell schon von den Eltern gegeben).
 Maßnahmen: Fieberkrampf im Kindesalter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Die Behandlung erfolgt grundsätzlich wie beim Erwachsenen 
+Die Behandlung erfolgt grundsätzlich wie beim Erwachsenen
 (:ref:`m-zerebraler-krampfanfall-bestendend`).
-Die Körpertemperatur ist immer zu messen! 
+Die Körpertemperatur ist immer zu messen!
 
 Kindesmisshandlung
 ==================
@@ -466,7 +466,7 @@ Querverweise
 
 !!! LITERARY !!! (FRCPCH and FRCPCH 2007)
 
-(Sitzmann 2002)
+[Sitzmann:2002]_
 
 (Netter, n.d.)
 
@@ -484,5 +484,5 @@ LITERARY !!!
 
 .. [278]
    “Pseudokrupp” bezieht sich auf die Heiserkeit (griech.: pseudo für
-   „unecht“; schottisch: croup, „Heiserkeit“(Wikipedia 2010)). Der echte
+   „unecht“; schottisch: croup, „Heiserkeit“[Wikipedia:2010]_). Der echte
    Krupp bezeichnet die Kehlkopfentzündung bei Diphtherie.

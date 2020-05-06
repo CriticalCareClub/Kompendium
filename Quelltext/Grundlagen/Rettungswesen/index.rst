@@ -549,7 +549,7 @@ Distanzen. Der NAH hat aber auch eine Reihe von *Nachteilen*:
 
 .. [16]
    Eine Landung abseits gesicherter Landeplätze in der Nacht ist nur mit
-   spezieller Ausrüstung und Ausbildung möglich (Bischofberger 2007).
+   spezieller Ausrüstung und Ausbildung möglich [Bischofberger:2007]_.
 
 Die Vor- und Nachteile müssen abgewogen werden. So kann es bei dem
 gleichen Patienten mit der gleichen Diagnose klug sein mit dem NAH zu

@@ -312,11 +312,11 @@ Appendizitis (Blinddarmentzündung)
 Beschreibung, Symptome  und Verlauf
 -----------------------------------
 
-Als :dfn:`Appendizitis` :index:`\ <! Appendizitis>` 
+Als :dfn:`Appendizitis` :index:`\ <! Appendizitis>`
 bezeichnet man die Entzündung des
 *Wurmfortsatzes* (*Appendix* vermiformis) des Blinddarms.
-Umgangssprachlich wird oft (fälschlicherweise) der Begriff 
-**Blinddarmentzündung** verwendet. 
+Umgangssprachlich wird oft (fälschlicherweise) der Begriff
+**Blinddarmentzündung** verwendet.
 
 Im Vordergrund der akuten
 Appendizitis steht anfänglich ein meist *diffuser Schmerz* im Bereich
@@ -369,10 +369,10 @@ Gallenkolik
 Beschreibung
 ------------
 
-Eine :dfn:`Gallenkolik` :index:`\ <! Gallenkolik>` 
+Eine :dfn:`Gallenkolik` :index:`\ <! Gallenkolik>`
 zeichnet sich durch kolikartige
 Schmerzen infolge einer Blockade der Gallenwege z.B. durch Gallensteine
-aus. Vgl. Kolik: :ref:`Thema-kolik`. 
+aus. Vgl. Kolik: :ref:`Thema-kolik`.
 Gallensteine verursachen eine
 Verstopfung des Gallengangs und folglich einen Rückstau von
 Gallenflüssigkeit in die Leber. Dabei wird der Gallengang gedehnt und es
@@ -471,13 +471,13 @@ Symptome
 
 Bei Blutungen im *oberen Magen-Darm-Trakt* (Speiseröhre, Magen) kommt es
 je nach Stärke zu schwallartigem Erbrechen von rotem, frischen Blut (
-*Hämatemesis*) 
+*Hämatemesis*)
 oder häufiger zum Erbrechen von Kaffeesatz-artigem Mageninhalt:
 Durch die
 Magensäure kommt es zur Veränderung des Blutes, es wird bräunlich,
 ähnlich dem Kaffeesatz im Kaffeefilter. Bei Blutungen im *mittleren
 Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz, man
-(:dfn:`Meläna` :index:`\ <! Meläna>`. 
+(:dfn:`Meläna` :index:`\ <! Meläna>`.
 Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 -   Oberer Teil: Erbrechen von
@@ -663,8 +663,8 @@ Magen- und Zwölffingerdarmgeschwür
 Beschreibung und Ursachen
 -------------------------
 
-Ein :dfn:`Magengeschwür` :index:`\ <! Magengeschwür>` bzw. 
-ein :dfn:`Zwölffingerdarmgeschwür` :index:`\ <! Zwölffingerdarmgeschwür>` 
+Ein :dfn:`Magengeschwür` :index:`\ <! Magengeschwür>` bzw.
+ein :dfn:`Zwölffingerdarmgeschwür` :index:`\ <! Zwölffingerdarmgeschwür>`
 ist eine Entzündung der Magen- bzw.
 Zwölffingerdarmschleimhaut mit Substanzdefekt. *Syn.* *Gastritis*,
 *Duodenitis*. Die häufigste Ursache für ein Magengeschwür ist eine
@@ -697,7 +697,7 @@ Symptome
 Der Patient klagt über einen *stechend-schneidenden Schmerz*, welcher
 sehr stark sein kann. Daneben kommt es zu Appetitlosigkeit, Völlegefühl,
 Übelkeit und Erbrechen. Wenn gleichzeitig eine *Blutung* besteht, dann
-sind *Teerstühle* (schwarz, übelriechend) 
+sind *Teerstühle* (schwarz, übelriechend)
 oder *Kaffeesatz-artiges Erbrechen* zu beobachten.
 
 -  Schmerzen (Oberbauch), Übelkeit, Erbrechen
@@ -715,7 +715,7 @@ Maßnahmen: Gastritis, Duodenitis
 .. todo:: Maßnahme CK29091C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
-    -   Allgemeine Maßnahmen bei Abdominalerkrankungen 
+    -   Allgemeine Maßnahmen bei Abdominalerkrankungen
         (:ref:`m-am-abdominalerkrankungen`)
 
 
@@ -734,7 +734,7 @@ Bauchspeicheldrüse (Pankreas). Sie kann sowohl *akut*, als auch
 sind *Gallensteinleiden* und *Alkoholmissbrauch* (Kremer and Schmid
 2006; Scholz et al. 2008). Daneben gibt es noch viele, allerdings nicht
 so häufige Ursachen, oft bleibt die Ursache auch gänzlich unbekannt
-(Herold 2005).
+[Herold:2005]_.
 
 *Warum können Gallensteine eine Pankreatitis verursachen?* Bei vielen
 Menschen mündet der Pankreasausführungsgang, welcher Verdauungsenzyme in
@@ -758,7 +758,7 @@ Die Symptome sind oft unspezifisch, eine Erstdiagnosestellung ist
 präklinisch normalerweise nicht möglich. Charakteristisch ist
 bestenfalls ein **gürtelförmiger Oberbauchschmerz** :index:`\ <gürtelförmiger Oberbauchschmerz>`. Die
 häufigsten Begleitsymptome sind Übelkeit und Erbrechen, sowie Fieber.
-(Herold 2005)
+[Herold:2005]_
 
 -  Oberbauchschmerzen, oft gürtelförmig
 

@@ -76,7 +76,7 @@ zusammenarbeiten:
 
 
 
-   
+
 ***************************
 Anwendbarkeit in der Praxis
 ***************************
@@ -117,20 +117,20 @@ Punkt *C* in angemessener Weise durchgeführt werden.
 
 !!! LITERARY !!! (Dalton, Limmer, and Mistovich 2006)
 
-(AAOS 2006)
+[AAOS:2006]_
 
-(Campbell 2010)
+[Campbell:2010:De]_
 
-(NAEMT 2006)
+[PHTLS:6]_
 
-(Semmel 2008)
+[Semmel:1]_
 
-(Sudowe 2007)
+[Sudowe:1]_
 
-(Kirschnick 2003)
+[Kirschnick:2]_
 
 (Rüecker 2005)
 
-(Ziesenitz 2009) !!! LITERARY !!!
+[Ziesenitz:2009]_ !!! LITERARY !!!
 
 

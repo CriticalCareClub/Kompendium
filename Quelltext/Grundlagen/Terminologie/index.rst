@@ -3,7 +3,7 @@ Terminologie
 ################
 
 Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung
-mit anderem Fachpersonal. :cite:`BertelsmannVolkslexikon25,Pschy259`
+mit anderem Fachpersonal. [BertelsmannVolkslexikon:25]_ [Pschy:259]_
 
 ********************************************************
 Allgemeine Begriffe: Klinik – Diagnose – Therapie
@@ -13,14 +13,14 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
 .. index::
    single: Symptom
 
-:dfn:`Symptom` 
+:dfn:`Symptom`
     Krankheitserscheinung
 
 
 
 .. index::
     single: Syndrom
-   
+
 :dfn:`Syndrom`
     definierte Kombination von Symptomen
 
@@ -28,7 +28,7 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
 
 .. index::
     single: Komplikationen
-   
+
 :dfn:`Komplikationen`
     möglicherweise auftretende Schwierigkeiten
 
@@ -36,7 +36,7 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
 
 .. index::
     single: Therapie
-   
+
 :dfn:`Therapie`
     Maßnahmen zur Heilung oder Linderung von Krankheiten und Symptomen
 
@@ -44,7 +44,7 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
 
 .. index::
     single: Indikation
-   
+
 :dfn:`Indikation`
     Grund zur Anwendung eines bestimmten Verfahrens.
 
@@ -52,7 +52,7 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
 
 .. index::
     single: Kontraindikation
-   
+
 :dfn:`Kontraindikation`
     Grund zur *Nicht*\ anwendung eines bestimmten Verfahrens. Es gibt
     *relative* und *absolute* Kontraindikationen. Relative
@@ -64,7 +64,7 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
 
 .. index::
     single: Diagnose
-   
+
 :dfn:`Diagnose`
     Zuordnung von Beschwerden und Symptomen zu einem definierten
     Krankheitsbild. Es gibt verschiedene Arten und Funktionen von
@@ -74,7 +74,7 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
 
 .. index::
     single: Diagnostik
-   
+
 :dfn:`Diagnostik`
     Als Diagnostik versteht man alle Bemühungen um eine Diagnose zu
     stellen, egal ob man sich der eigenen Sinne oder komplizierter
@@ -86,8 +86,8 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
     single: Befund
 
 :dfn:`Befund`
-    Jede diagnostische Maßnahme hat (hoffentlich) ein Ergebnis, 
-    welches man als *Befund* bezeichnet. 
+    Jede diagnostische Maßnahme hat (hoffentlich) ein Ergebnis,
+    welches man als *Befund* bezeichnet.
 
 
 
@@ -279,7 +279,7 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 :dfn:`Chirurgie`
     Fachgebiet zur Erkennung und Behandlung von Erkrankungen, welche
     ohne operative Maßnahmen zu gesundheitlichen Schäden oder dem Tod
-    führen würden (Pschyrembel 2002). Man kann weitere Spezialgebiete
+    führen würden [Pschyrembel:2002]_. Man kann weitere Spezialgebiete
     unterscheiden, z. B. Allgemeinchirurgie (Bauch), Gefäßchirurgie,
     Herzchirurgie, Thoraxchirurgie, Kinderchirurgie, Plastische
     Chirurgie etc. Daneben gibt es noch viele andere operative Fächer.
@@ -299,7 +299,7 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 
 :dfn:`HNO`
     Hals-, Nasen-, Ohrenkrankheiten
-     
+
 
 .. index::
     single: ICU
@@ -426,7 +426,7 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 
 
 .. index::
-    single: Toxikologie 
+    single: Toxikologie
 
 :dfn:`Toxikologie`
     Lehre der Vergiftungen und Giftstoffe

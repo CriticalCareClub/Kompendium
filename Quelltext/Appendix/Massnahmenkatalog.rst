@@ -28,12 +28,12 @@ Immer durchzuführende Standardmaßnahmen
 =======================================
 
 Die folgenden Maßnahmen sind grundsätzlich immer in einer
-*der Situation angemessenen* 
-Art und Weise durchzuführen. 
+*der Situation angemessenen*
+Art und Weise durchzuführen.
 Im begründeten Ausnahmefall kann es
-allerdings notwendig oder sinnvoll sein, 
+allerdings notwendig oder sinnvoll sein,
 dass manche Maßnahmen unterbleiben oder
-aufgeschoben werden 
+aufgeschoben werden
 (Auf Grund des Selbstschutzes, "Aufklärung" eines bewusstlosen Patienten,
 ...) oder angepasst werden müssen.
 
@@ -48,9 +48,9 @@ aufgeschoben werden
 
 - *Wärmeerhalt* oder *Kühlung*
 
-- Angemessene Erhebung der Anamnese 
+- Angemessene Erhebung der Anamnese
 
-- Angemessene Untersuchung 
+- Angemessene Untersuchung
 
 - Spezielle Maßnahmen gemäß Verdachtsdiagnose(n)
 
@@ -86,34 +86,34 @@ aufgeschoben werden
         Intervention durch den geschäftsfähigen Patienten.
 
      -  Belassung des Pateinten nach ärztlicher Befundstellung dass
-        keine behandlungsbedürftige Erkrankung vorliegt.    
+        keine behandlungsbedürftige Erkrankung vorliegt.
 
         Die Frage, wie nichtärztliches Personal
         bei einer Transportverweigerung oder vermeintlich nicht
         vorliegender Behandlungsbedürftigkeit/Spitalspflichtigkeit
         vorzugehen hat, ist nach wie vor nicht
-        zufriedenstellend beantwortet.\ [#Belassung]_
+        zufriedenstellend beantwortet.\[#Belassung]_
 
 - Ggfs. Übergabe an weiterbehandelndes Personal
 
 
-.. [#Belassung] 
+.. [#Belassung]
     Die Untersuchung auf
     das Vorliegen oder Nichtvorliegen von
     körperlichen und psychischen Krankheiten oder Störungen
     ist im § 2 Abs. 2 Z. 1 ÄrzteG geregelt und hat keine
     Entsprechung im SanG; somit fällt die Feststellung, ob
     eine Behandlungsbedürftigkeit besteht unter den
-    Ärztevorbehalt, d. h. ist den Ärzten vorbehalten. 
+    Ärztevorbehalt, d. h. ist den Ärzten vorbehalten.
     *"Ob Behandlungsbedarf vorliegt, kann nur
     von einem Arzt entschieden werden. Denn die dafür erforderliche
     Diagnose von (behaupteten) Krankheitszuständen fällt unter
     § 2 Abs. 2 Z. 1 ÄrzteG und ist daher den Ärzten
     vorbehalten."* OGH (4 Ob 36/10p)
-    
+
     Das "selbstständige Begeben in ärztliche Behandlung"
-    stellt jedoch keine Beurteilung übder das Vorliegen einer Erkankung
-    oder gesundheitlichen Störung sowie deren 
+    stellt jedoch keine Beurteilung über das Vorliegen einer Erkrankung
+    oder gesundheitlichen Störung sowie deren
     grundsätzlicher Behandlungsnotwendigkeit dar.
 
 
@@ -146,27 +146,27 @@ Reihenfolge zählt!
 
 #.  Ggfs. **Notarzt-Nachforderung**:
     mit kurzer Begründung
-  
+
     .. attention::
         Bei manchen Notfällen keine Notarztnachforderung wenn
         der Patient zeitkritisch ist, siehe jeweilige spezielle Maßnahmen!
 
-#.  **Engmaschiges, bestmögliches Monitoring**: 
+#.  **Engmaschiges, bestmögliches Monitoring**:
     Je nach vorhandenem Material
-  
+
     RR, HF, Pulsoxymetrie, EKG,
-    Sitzwache/Patientenbeobachtung, etc. [#Patientenbeobachtung]_ 
+    Sitzwache/Patientenbeobachtung, etc.[#Patientenbeobachtung]_
 
 #.  **Reanimationsbereitschaft** herstellen
     (:ref:`m-reanimationsbereitschaft`)
 
-.. [#Patientenbeobachtung] 
+.. [#Patientenbeobachtung]
     Zuerst werden die Patientenbeobachtung
     und -- wenn vorhanden -- die
     Pulsoxymetrie eingesetzt. Überwachungsgeräte, deren Anlage
     zeitintensiv ist (EKG, ...), sollen erst dann verwendet
     werden, wenn alle dringlicheren Maßnahmen durchgeführt und
-    der Einschätzungsblock beendet ist! 
+    der Einschätzungsblock beendet ist!
     Die
     Patientenbeobachtung bleibt immer ein wesentlicher Teil
     des Monitorings!
@@ -182,7 +182,7 @@ Reanimationsbereitschaft
 ========================
 
 
-#.  Ggfs. Platz schaffen [#PlatzSchaffen]_ 
+#.  Ggfs. Platz schaffen[#PlatzSchaffen]_
 #.  Geräte vorbereiten:
 
     #.  **Beatmungsbeutel**
@@ -193,7 +193,7 @@ Reanimationsbereitschaft
     #.  **Defibrillator** in Griffweite stellen,
         Elektroden und Verbrauchsmaterial bleiben verpackt.
 
-.. [#PlatzSchaffen] 
+.. [#PlatzSchaffen]
     z. B. im Wohnzimmer den Couchtisch, Hocker etc. zur Seite schieben
 
 
@@ -215,7 +215,7 @@ Traumapatienten, bei denen folgendes zutrifft:
 
     #.  Hochgeschwindigkeitsunfall
 
-    #.  Sturz ≥ 3 m oder 3fache Patientengröße
+    #.  Sturz ≥ 3 m oder 3-fache Patientengröße
 
     #.  Penetrierende Verletzungen im Bereich der
         Wirbelsäule
@@ -224,7 +224,7 @@ Traumapatienten, bei denen folgendes zutrifft:
 
     #.  Trauma nach Sprung ins Wasser
 
-    #.  Stauchungsverletzung der HWS 
+    #.  Stauchungsverletzung der HWS
         (z. B. Schlag auf Kopf)
 
     #.  Suizidversuch durch Erhängen
@@ -238,7 +238,7 @@ Traumapatienten, bei denen folgendes zutrifft:
         Wirbelsäule
 
     #.  Auffälliger Befund bei Untersuchung von Motorik
-        und Sensibilität 
+        und Sensibilität
         (sofern nicht anders plausibel erklärbar)
 
     #.  Patientenangaben kann nicht vertraut
@@ -260,7 +260,7 @@ Solange es noch unklar ist, ob eine WS-Immobilisation
 notwendig ist, muss eine manuelle Fixierung der HWS
 durchgeführt werden!
 
-:cite:`ITLSde6,ScholzNotfallmedizin2,SiewertChirurgie8`
+[Campbell:2010:De]_ [Scholz:2]_ [Siewert:8]_
 
 
 

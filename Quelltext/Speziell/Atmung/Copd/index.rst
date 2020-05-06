@@ -47,7 +47,7 @@ des Brustkorbes. Im Endstadium zeigen sich Zeichen einer
 Rechtsherzinsuffizienz (:ref:`Thema-rechtsherzinsuffizienz`) aufgrund einer
 Störung im Lungenkreislauf.
 
-:cite:`Renz-Polster2006`
+[Renz-Polster:2006]_
 
 
 .. [228]
@@ -260,9 +260,9 @@ Basismaßnahmen
         Gefahr der CO₂-Narkose durch Hemmung des Atemantriebes!
 
         Sauerstoff vorsichtig dosieren,
-        anfänglich nur 2-3 L / min, weiter je nach SpO₂ oder BGA.
+        anfänglich nur 2-3 L / min, weiter je nach SpO₂ oder BGA.
         Wenn der Patient bereits Heimsauerstoff benutzt,
-        1-2 L / min höher dosieren.
+        1-2 L / min höher dosieren.
         Heimsauerstoff soll jedenfalls weiter gegeben werden!
 
         *Atmung und Bewusstsein müssen bei der O₂-Gabe besonders
@@ -312,4 +312,4 @@ Palliative Therapie
 
 
 
-:cite:`Knacke200601`
+[Knacke:200601]_

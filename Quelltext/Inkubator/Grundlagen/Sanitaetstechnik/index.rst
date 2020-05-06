@@ -118,7 +118,7 @@ Handlungsschritte
     Sekunden)
 -   Siehe :ref:`Figure-haendedesinfektion`.
 
-(Kirschnick 2003)
+[Kirschnick:2]_
 
 ****************************
 Hebe- und Transporttechniken
@@ -551,7 +551,7 @@ Vorgehen
    HWS-Immobilisation / Zug / ASBÖ: Nach der Lehrmeinung 07/2011 vom
    01.02.2011 (Bundesverband/Bundesschulung, n.d.) darf der Kopf nicht
    mehr unter Zug gehalten werden. Dies ist konsistent mit ITLS (6.A.)
-   (Campbell 2010)
+   [Campbell:2010:De]_
 
 
 .. _Thema-schienungsmaterial:

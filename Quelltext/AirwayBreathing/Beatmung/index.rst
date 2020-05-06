@@ -421,7 +421,7 @@ da die Ausatemluft unkontrolliert über die
 
 .. [140]
    Der Druck wird je nach Modell in cm Wassersäule (cm) oder Millibar
-   (mbar) angebeben. Typische Werte sind z. B. 5 oder 10 cm.
+   (mbar) angebeben. Typische Werte sind z. B. 5 oder 10 cm H₂O.
 
 .. [141]
    Moderne Beatmungsgeräte verfügen oft über eine integrierte

@@ -10,13 +10,14 @@ Durchführung der Reanimation hat großen Einfluss auf das Überleben des
 Patienten bzw. seine Lebensqualität nach der Entlassung aus der
 Spitalsbehandlung.
 Dennoch ist die Überlebensrate bis zur Krankenhausentlassung nach
-rettungsdienstlichen Reanimationen mit ungefähr 10% sehr gering
-:cite:`Erc2010Sek01De`\ .
+rettungsdienstlichen Reanimationen mit ungefähr 10% sehr gering.
 
 Üblicherweise werden die Reanimationsmaßnahmen lose nach ihrer Invasivität
-un dem Anwender (Laie, nciht-ärztliches und ärztliches Fachpersonal)
-in *Basic*, *Intermediate* und *Advanced Life Support*, eventuell noch
-nach der Altersgruppe (Erwachsene, Kinder, Neugeborene) unterschieden,
+un dem Anwender (Laie, nicht-ärztliches und ärztliches Fachpersonal)
+in **Basic Life Support** (**BLS**)
+und **Advanced Life Support** (**ALS**),
+und nach der Altersgruppe
+(Erwachsene, Kinder, Neugeborene) unterschieden,
 von dieser GLiederung möchten wir hier absehen und einen integrativen
 Ansatz wählen.
 Ausgehend von der Reanimation eines erwachsenen Patienten
@@ -25,7 +26,7 @@ werden wir die Reanimation auf Basis der grundsätzlichen
 besprechen.
 Die Besonderheiten einzelner Patientengruppen (Kinder, Neugeborene)
 und die Notwendigen Abweichungen werden basierend darauf
-in eigenen Kapiteln besprochen.
+in eigenen Kapiteln behandelt.
 
 
 .. _Thema-Erc:
@@ -56,14 +57,14 @@ und verwandter Gebiete (*ERC-Guidelines*\ [318]_).
 Die Guidelines definieren *nicht* den einzig richtigen Weg wie eine
 Reanimation ablaufen muss, allerdings sind sie als weithin akzeptierte
 Ansicht zu verstehen, wie diese sicher und effektiv durchgeführt werden
-kann :cite:`Erc2010Sec1`\ .
+kann.
 Jeder neuen Auflage geht ein aufwendiger Forschungs- und
 Diskussionsprozess voraus: Es werden hunderte Studien mit vielen
 verschiedenen Fragestellungen an vielen Forschungszentren auf der ganzen
 Welt durchgeführt, die Ergebnisse ausgewertet und anschließend
 diskutiert. Die derzeit aktuelle Version der ERC-Guidelines wurde im Jahr
 **2015** veröffentlicht
-(*ERC 2015*, :cite:`Erc-2015-Section-01,Erc-2015-Section-02,Erc-2015-Section-03,Erc-2015-Section-04,Erc-2015-Section-05,Erc-2015-Section-06,Erc-2015-Section-07,Erc-2015-Section-08,Erc-2015-Section-09,Erc-2015-Section-10,Erc-2015-Section-11`),
+(*ERC 2015*, [ERC:2015:01]_ [ERC:2015:02]_ [ERC:2015:03]_ [ERC:2015:04]_ [ERC:2015:05]_ [ERC:2015:06]_ [ERC:2015:07]_ [ERC:2015:08]_ [ERC:2015:09]_ [ERC:2015:10]_ [ERC:2015:11]_ ),
 die nächste Aktualisierung ist im Jahr 2020 zu erwarten.
 
 .. [318]
@@ -76,7 +77,7 @@ als auch der `ERC <https://erc.europa.eu/>`_ kostenlos
 heruntergeladen werden.
 Eine deutsche Übersetzung ist auf den Homepages der deutschen und der
 österreichischen Fachgesellschaften verfügbar\ [319]_
-:cite:`Erc-2015-Sektion-01-De,Erc-2015-Sektion-02-De,Erc-2015-Sektion-03-De,Erc-2015-Sektion-04-De,Erc-2015-Sektion-05-De,Erc-2015-Sektion-06-De,Erc-2015-Sektion-07-De,Erc-2015-Sektion-08-De,Erc-2015-Sektion-09-De,Erc-2015-Sektion-10-De,Erc-2015-Sektion-11-De`.
+[ERC:2015:01:De]_ [ERC:2015:02:De]_ [ERC:2015:03:De]_ [ERC:2015:04:De]_ [ERC:2015:05:De]_ [ERC:2015:06:De]_ [ERC:2015:07:De]_ [ERC:2015:08:De]_ [ERC:2015:09:De]_ [ERC:2015:10:De]_ [ERC:2015:11:De]_ .
 
 
 .. [319]
@@ -86,30 +87,30 @@ Eine deutsche Übersetzung ist auf den Homepages der deutschen und der
 Die ERC-Guidelines sind nach Themen in elf Sektionen unterteilt:
 
 #.  Kurzdarstellung
-    :cite:`Erc-2015-Sektion-01-De,Erc-2015-Section-01`
+    [ERC:2015:01:De]_ [ERC:2015:01]_
 #.  Basismaßnahmen zur Wiederbelebung Erwachsener und Verwendung
     automatisierter externer Defibrillatoren
-    :cite:`Erc-2015-Sektion-02-De,Erc-2015-Section-02`
+    [ERC:2015:02:De]_ [ERC:2015:02]_
 #.  Erweiterte Reanimationsmaßnahmen für Erwachsene
     (*"Adult Advanced Life Support"*)
-    :cite:`Erc-2015-Sektion-03-De,Erc-2015-Section-03`
+    [ERC:2015:03:De]_ [ERC:2015:03]_
 #.  Kreislaufstillstand in besonderen Situationen
-    :cite:`Erc-2015-Sektion-04-De,Erc-2015-Section-04`
+    [ERC:2015:04:De]_ [ERC:2015:04]_
 #.  Postreanimationsbehandlung
-    :cite:`Erc-2015-Sektion-05-De,Erc-2015-Section-05`
+    [ERC:2015:05:De]_ [ERC:2015:05]_
 #.  Lebensrettende Maßnahmen bei Kindern
     (*"Paediatric Life Support"*)
-    :cite:`Erc-2015-Sektion-06-De,Erc-2015-Section-06`
+    [ERC:2015:06:De]_ [ERC:2015:06]_
 #.  Die Versorgung und Reanimation des Neugeborenen
-    :cite:`Erc-2015-Sektion-07-De,Erc-2015-Section-07`
+    [ERC:2015:07:De]_ [ERC:2015:07]_
 #.  Das initiale Management des akuten Koronarsyndroms
-    :cite:`Erc-2015-Sektion-08-De,Erc-2015-Section-08`
+    [ERC:2015:08:De]_ [ERC:2015:08]_
 #.  Erste Hilfe
-    :cite:`Erc-2015-Sektion-09-De,Erc-2015-Section-09`
+    [ERC:2015:09:De]_ [ERC:2015:09]_
 #.  Ausbildung und Implementierung der Reanimation
-    :cite:`Erc-2015-Sektion-10-De,Erc-2015-Section-10`
+    [ERC:2015:10:De]_ [ERC:2015:10]_
 #.  Ethik der Reanimation und Entscheidungen am Lebensende
-    :cite:`Erc-2015-Sektion-11-De,Erc-2015-Section-11`
+    [ERC:2015:11:De]_ [ERC:2015:11]_
 
 .. rubric:: Neu oder alt?
 
@@ -138,7 +139,7 @@ Ausbildung, des Trainings und der Routine von Team-Mitgliedern oder der
 vorhandenen Ausstattung fragwürdig, so ist im Zweifel im Sinne eines
 reibungslosen Ablaufes des empfohlene Schema zu verwenden. *Die
 Publikation einer neuen Ausgabe der Guidelines bedeutet nicht, das die
-bisherigen Methoden unsicher oder ineffektiv sind* :cite:`Erc2010Sec1`\ .
+bisherigen Methoden unsicher oder ineffektiv sind.*
 
 
 

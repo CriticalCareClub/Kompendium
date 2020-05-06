@@ -32,7 +32,7 @@ wurde,
 kann es einige Zeit dauern,
 bis das Herz wieder eine ausreichende mechanische Tätigkeit aufweist
 und ein ausreichender Spontankreislauf einsetzt
-:cite:`Sandroni2008,Skhirtladze2010`\ .
+[Sandroni:2008]_ [Skhirtladze:2010]_ \ .
 
 .. note::
 
@@ -79,7 +79,7 @@ Nach der Kompression erfolgt die passive vollständige **Entlastung** des
 Brustkorbs ehe eine neuerliche Kompression beginnt.\ [143]_
 Die Kompressions- und Entlastungsphasen
 sollen in etwa gleich lange dauern und
-nicht ruckartig ablaufen :cite:`Erc2010Sec2`\ .
+nicht ruckartig ablaufen.
 Die *Zielfrequenz*  der Herzdruckmassage beträgt *100 / min* (bis
 max. 120 / min).
 

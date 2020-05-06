@@ -1248,7 +1248,7 @@ Typische Unfallmechanismen
 
 -  Suizidversuch durch Erhängen
 
-nach (Campbell 2010), vgl. !!! FULLPRETTYREFPROCEDURE !!! YY14200B
+nach [Campbell:2010:De]_, vgl. !!! FULLPRETTYREFPROCEDURE !!! YY14200B
 
 -  Hochgeschwindigkeitsunfall
 
@@ -2210,7 +2210,7 @@ Basismaßnahmen
         (Verband)
     -   Transport in doppelwandigem
         Amputatsbeutel (Replant-Beutel) bei  einer Temperatur von
-        ca. 4° :cite:`BoehmerTaschRett6,Gorgass7,LPN3`.
+        ca. 4° [Gorgass:7]_ [LPN:3]_ .
         Zwischen die beiden Schichten des Beutels gibt man Wasser
         mit Eis (im Verhältnis 1:1).
     -   Das Amputat darf auf keinen Fall einfrieren -- im
@@ -2219,7 +2219,7 @@ Basismaßnahmen
         vermieden werden!
     -   Ausgeschlagene Zähne sollten in einer geeigneten
         antiseptischen Flüssigkeit transportiert werden.
-        :cite:`BoehmerTaschRett6,Gorgass7`
+        [Gorgass:7]_
 
 
 Weitere Verletzungsbilder
@@ -2472,7 +2472,6 @@ Basismaßnahmen
         positiver Effekt der Kühlung nicht mehr zu erwarten.
         Bei mehreren Minuten zurückliegenden Verbrennungen
         ist eine Kühlung nicht mehr sinnvoll.
-        :cite:`Asanger2010,AsboeLehrmeinungRd2011-21`
         damit begonnen werden kann, für max. 10\Min* mit handwarmen
         Wasser die betroffenen Körperregionen spülen;
 
@@ -2481,7 +2480,7 @@ Basismaßnahmen
     -   **Abdeckung**:
         Sterile, nicht verklebende
         Wundauflagen; evtl. metalliserte Wundauflagen
-        :cite:`Helfen2008,RedelsteinerHRNS1`\ ; locker anlegen
+        [Redelsteiner:1]_ \ ; locker anlegen
     -   Ggfs. Schockbekämpfung
 
 
@@ -2504,11 +2503,10 @@ Basismaßnahmen
         Bei großflächigen Verbrennungen sollte der Patient
         nur primär abgelöscht werden.
         Es soll keine Kühlung der betroffenen Hautregionen erfolgen.
-        :cite:`Asanger2010`
     -   **Abdeckung**:
         Sterile, nicht verklebende
         Wundauflagen, evtl. metalliserte Wundauflagen
-        :cite:`Helfen2008,RedelsteinerHRNS1`\ .
+        [Redelsteiner:1]_ \ .
         Der Nutzen  von kühlenden
         Spezialverbänden, z. B. Waterjel™ ist
         aufgrund  der Unterkühlungs-Gefahr und einer  möglichen
@@ -2519,7 +2517,7 @@ Basismaßnahmen
         Bei großflächigen Verbrennungen können,
         wenn das sterile Material nicht ausreicht,
         zur Not auch saubere Leintücher o. ä.
-        verwendet werden :cite:`emergency9,Asanger2010`\ .
+        verwendet werden [AAOS:2006]_\ .
     -   Schockbekämpfung
     -   Kolloidale Infusionslösungen sind *kontraindiziert*
 
@@ -2533,7 +2531,7 @@ Was man **nicht** tun darf …
 -  NEIN: Salbe, Puder, etc. auf frische Brandwunde (AAOS 2006; NAEMT
    2006)
 
--  NEIN: Blasen öffnen (AAOS 2006)
+-  NEIN: Blasen öffnen [AAOS:2006]_
 
 -  NEIN: festklebende Kleidung gewaltsam entfernen
 
@@ -2654,9 +2652,6 @@ auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
 
     Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
-
-!!! LITERARY !!! (Hoffmann 2008) !!!
-LITERARY !!!
 
 
 

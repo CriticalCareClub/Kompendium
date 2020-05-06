@@ -54,7 +54,7 @@ Dieser Wert soll auch bei der Beatmung
 angestrebt werden.
 Dazu wird der Beatmungsbeutel gleichmäßig zusammen
 gedrückt bis eine sichtbare Atembewegung vorhanden ist. Der
-*Beatmungsvorgang* soll in etwa *1 s* dauern :cite:`Erc2010Sek02De`\ .
+*Beatmungsvorgang* soll in etwa *1 s* dauern.
 Die Frequenz gibt der Reanimationsalgorithmus vor.
 
 Durch Verwendung eines Sauerstoffreservoirs und und einer
@@ -196,7 +196,7 @@ jedoch zunehmend ein größerer Wert auf die *Kapnographie* gelegt, um die
 Tubuslage zu kontrollieren, die CPR-Qualität abzuschätzen und eine
 frühzeitige Erkennung der Rückkehr des spontanen Kreislaufs zu
 ermöglichen. Die Kapnographie ist die verlässlichste Methode zur
-Lagekontrolle :cite:`Grmec2002`. Besonders geeignet sind dazu Geräte, welche
+Lagekontrolle [Grmec:2002]_ . Besonders geeignet sind dazu Geräte, welche
 die CO₂\ -Abatmung als Kurve darstellen.
 Wenn nach 6 Beatmungen CO₂
 nachweisbar ist, kann man davon ausgehen, dass der Tubus in den unteren
@@ -215,9 +215,9 @@ kommen.\ [324]_
    equipped with waveform capnography. In the absence of these
    prerequisites, consider use of bag-mask ventilation and/or an SGA
    until appropriately experience and equipped personnel are present."*
-   :cite:`Erc-2015-Section-04`.
+   [ERC:2015:04]_ .
    Zur Problematik der Verfügbarkeit der Kapnographie siehe auch
-   :cite:`Genzwuerker2007`, :cite:`Timmermann2007` und darin enthaltene
+   [Genzwuerker2007`]_ [Timmermann:2007]_  und darin enthaltene
    Referenzen.
 
 
@@ -250,7 +250,7 @@ In den letzten Jahren gewinnen die supraglottischen\ [325]_ Hilfsmittel
 aufgrund ihrer verhältnismäßig einfachen Anwendbarkeit immer mehr an
 Bedeutung. Schon die ERC-Leitlinien 2010 sahen die supraglottischen
 Atemwegshilfen bei der Reanimation als weitgehend gleichwertig zur
-klassischen endotrachealen Intubation an :cite:`Erc2010Sec4`.\ [326]_
+klassischen endotrachealen Intubation an.\ [326]_
 
 Bei den supraglottischen Atemwegshilfen endet allgmein der
 Beatmungsschenkel im Rachen beziehungsweise oberhalb des Kehldeckels
@@ -321,12 +321,12 @@ Studien haben eine hohe Inzidenz von Fehlintubationen beschrieben.
 Speziell im außerklinischen Bereich erhöht sich der Schwierigkeitsfaktor
 aufgrund der Gegebenheiten (Platzangebot, vorhandenes Material, nicht
 nüchterne bzw. nicht vorbereitete Patienten, Verletzungen,
-Begleiterkrankungen, …) deutlich :cite:`Timmermann2006,Thierbach2004`.
+Begleiterkrankungen, …) deutlich [Timmermann:2006]_ [Thierbach:2004]_ .
 
 In diversen Studien wurden die Erfolgs- und Komplikationsraten der ETI
 untersucht, dabei zeigen sich wenig zufriedenstellende bis alarmierende
 Ergebnisse
-:cite:`Nolan2001,Wang2011,Cobas2009,Jones2004,Wang2006,Wang2006a,Wang2008,Stiell2004,Stiell2008`\ .
+[Nolan:2001]_ [Wang:2011]_ [Cobas:2009]_ [Jones:2004]_ [Wang:2006]_ [Wang-2006a]_ [Wang:2008]_ [Stiell:2004]_ [Stiell:2008]_ \ .
 
 Die wichtigsten Ergebnisse dieser Studien sind:
 
@@ -334,28 +334,28 @@ Die wichtigsten Ergebnisse dieser Studien sind:
    Fehllagen, ist hoch. Diese werden oft spät oder gar nicht erkannt
    (Risiko der unerkannten Tubusfehllage bei Patienten mit
    außerklinischem Kreislaufstillstand: 0,5--17%
-   :cite:`Grmec2002,Lyon2010,Jones2004,Pelucio1997,Jemmett2003,Katz2001,Erc2010Sek04De`
+   [Grmec:2002]_ [Lyon:2010]_ [Jones:2004]_ [Pelucio:1997]_ [Jemmett:2003]_ [Katz:2001]_
 
 -  Die Erfolgsraten bei wenig routinierten Anwendern sind
    schlecht\ [327]_.
 
 -  Die Probleme der ETI betreffen grundsätzlich auch ärztliches
-   Personal\ [328]_ :cite:`Timmermann2007,Grmec2002`\ .
+   Personal\ [328]_ [Timmermann:2007]_ [Grmec:2002]_ \ .
 
 -  Der Schulungsaufwand ist groß: Zum Erlernen der Tätigkeit werden
    wenigstens 100 ETI gefordert, zur Aufrechterhaltung mindestens 10 ETI
-   pro Jahr :cite:`Timmermann2012`. Damit verbunden wäre eine
+   pro Jahr [Timmermann:2012]_ . Damit verbunden wäre eine
    Vollzeit-Trainingsphase von etwa einem halben Jahr
-   :cite:`Bernhard2012`\ .
+   [BERN:12]_ \ .
 
 
 .. [327]
    *"Die Misserfolgsraten der Intubation betragen in außerklinischen,
    wenig ausgelasteten Systemen mit Anwendern, die selten Intubationen
-   durchführen, bis zu 50%"* :cite:`Erc2010Sek04De`\ .
+   durchführen, bis zu 50%".*
 
 .. [328]
-   :cite:`Timmermann2007`\ : In dieser in
+   [Timmermann:2007]_ \ : In dieser in
    Deutschland durchgeführten Studie wurde eine hohe Rate an
    Fehlintubationen (ösophageal, bronchial) durch Notärzte
    festgestellt.
@@ -368,12 +368,12 @@ zusammen, dass der Nutzen der ETI bei der präklinischen Reanimation
 nicht durch Studien gezeigt werden konnte, und dass einige sogar das
 Gegenteil erkennen ließen (*"Prehospital studies fail to show any
 benefit from tracheal intubation during cardiopulmonary resuscitation
-and many show harm."* :cite:`Nolan2008`). Dies deckt sich auch mit
+and many show harm."* [Nolan:2008]_ ). Dies deckt sich auch mit
 Beobachtungen aus anderen Studien
-:cite:`Stiell2004,Cobas2009`\ .
+[Stiell:2004]_ [Cobas:2009]_ \ .
 Ein 2008 veröffentlichtes Cochrane-Review kam zu der gleichen
 Schlussfolgerung, mit der Betonung, dass entsprechende, qualitative
-hochwertige Studien fehlen :cite:`Lecky2008`\ .
+hochwertige Studien fehlen [Lecky:2008]_ \ .
 
 Die frühe endotracheale Intubation verliert somit an Stellenwert. Sie
 soll nur angewendet werden, wenn der Anwender hochqualifiziert
@@ -381,12 +381,12 @@ und sich sehr sicher ist,
 bzw. regelmäßige, laufende Erfahrung mit der Technik hat
 (*"It should be used only when trained personnel are available to
 carry out the procedure with a high level of skill and confidence."*
-:cite:`Erc2010Sec4,Erc-2015-Section-03`).
+[ERC:2015:03]_ ).
 Ohne ausreichendes Training und Erfahrung wird die
 Komplikationsrate als unakzeptabel hoch angesehen. Das Aufschieben der
 endotrachealen Intubation bis zur Wiederkehr des spontanen Kreislaufs,
 wird bereits in den ERC 2010-Leitlinien als Alternative ausdrücklich
-genannt. :cite:`Nolan2001,Nolan2008,Lecky2008,Erc2010Sec4`
+genannt. [Nolan:2001]_ [Nolan:2008]_ [Lecky:2008]_
 Vor diesem Hintergrund bleibt festzuhalten,
 dass eine unterlassene Intubation nicht – wie oft
 behauptet – mit einer unterlassenen Hilfeleistung, sondern mit einer
@@ -397,11 +397,11 @@ Airwaysystemen gegenüber, welche eine effektive und technisch einfachere
 Sicherung des Atemweges ermöglichen (supraglottsiche Atemwegshilfen).
 Zwar müssen diese Systeme Abstriche hinsichtlich des Aspirationsschutzes
 machen, wiegen dies jedoch durch ihre einfach und sichere Anwendung auf
-:cite:`Schalk2010,Wiese2009`\ .
+[Schalk:2010]_ [Wiese:2009]_ \ .
 
 .. admonition:: Fazit
 
     -  Wenn die erforderliche Routine und Sicherheit für die
        Durchführung einer ETI nicht gegeben ist und die Indikation für
        ein invasives Atemwegsmanagement besteht, sollen *in erster Linie
-       supraglottische Atemwegshilfen* eingesetzt werden :cite:`Timmermann2012`.
+       supraglottische Atemwegshilfen* eingesetzt werden [Timmermann:2012]_ .

@@ -179,7 +179,7 @@ gravierenden Fehldiagnosen kommen kann. [124]_
     Akut-Angiographie im Zuge eines Myokardinfarktes sind die
     dokumentierten EKGs (und damit auch die im Rettungsdienst
     abgeleiteten) ein wichtiges Hilfsmittel, um das in der Akutsituation
-    maßgebliche Koronargefäß zu identifizieren. In (Schnelle 2006) wurde
+    maßgebliche Koronargefäß zu identifizieren. In [Schnelle:2006]_ wurde
     untersucht, wie sich die Anbringungsstelle der Elektroden auf das EKG
     auswirken kann.
 

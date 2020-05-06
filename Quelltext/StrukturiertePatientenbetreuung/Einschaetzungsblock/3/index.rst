@@ -19,7 +19,7 @@
 
 *Bewusstsein ist ein Oberbegriff für u.a. Wachheit, Orientierung,
 Aufmerksamkeit, Auffassungsgabe, Denkverlauf und Merkfähigkeit
-(Pschyrembel 2002).*
+[Pschyrembel:2002]_.*
 Es ist eine grundlegende **Vitalfunktion erster
 Ordnung** und wichtig hinsichtlich des Schutzes des Menschen vor
 Bedrohung.

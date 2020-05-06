@@ -57,12 +57,12 @@ dabei befindet sich der Sauerstoff vollständig im gasförmigen Aggregatzustand.
    Normen zur Kennzeichnung von Gasflaschen: EN 1089-3, in der
    jeweiligen nationalen Umsetzung
    (z. B. DIN EN 1089-3, ÖNORM EN 1089-3
-   (Verbindlichkeit gem. Versandbehälterverordnung 2002 (VBV 2002)), …).
+   (Verbindlichkeit gem. Versandbehälterverordnung 2002 [VBV:2002]_), …).
 
    Die Farbcodierung wurde in der Zeit von 1998--2006, Die
    Umstellung auf das neue Farbsystem gemäß ÖNORM EN 1089-3 musste bei
    allen anderen Gasen bis zum *30. Juni 2006* abgeschlossen sein
-   :cite:`AUT-LAW-VBV2002-1`.
+   [AUT-LAW-VBV2002-1]_ .
    In der Übergangszeit wurden Flaschen mit der
    neuen Codierung mittels Aufbringung des Buchstabens “N” (“neue
    Kennzeichnung”) gekennzeichnet. Dies hat *nichts* mit dem chemischen

@@ -647,8 +647,8 @@ bei der Bewertung des Patienten zu vergegenwärtigen.
 
 (Frischenschlager et al. 2010)
 
-(Thun 1981)
+[Thun:1981]_
 
-(Argelander 2009) !!! LITERARY !!!
+[Argelander:2009]_ !!! LITERARY !!!
 
 

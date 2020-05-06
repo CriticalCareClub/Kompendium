@@ -35,7 +35,7 @@ Dieser Vorgang wird auch :dfn:`Zellatmung` genannt.
 Das Ziel der äußeren Atmung (oder *Lungenatmung*, *Syn.* *Respiration*,
 *engl.* *Breathing*) ist die Zufuhr von Sauerstoff in das Blut
 (*Oxygenierung*) und die Abfuhr von Kohlendioxid aus dem Blut durch
-Abatmung. Dies wird durch einen Mechanismus für den 
+Abatmung. Dies wird durch einen Mechanismus für den
 **Gasaustausch** zwischen Blut und Atemgasen sowie einer zyklischen
 Belüftung (:dfn:`Ventilation`) mit frischen Atemgas der am
 Gasaustausch beteiligten Atemwege mit anschließender (teilweiser)
@@ -52,14 +52,14 @@ Entlüftung (Ein- und Ausatmung) erreicht. Im weiteren Verlauf ist mit
 Die Atemwege gliedern sich in die oberen und die unteren Atemwege
 *****************************************************************
 
-*Syn.* *Respirationstrakt*, *engl.* *Airway*. 
+*Syn.* *Respirationstrakt*, *engl.* *Airway*.
 
 .. _Figure-respiraktionstrakt-uebersicht:
 
 .. figure:: /Bilder/WikipediaPd/Respiratory_system_complete_de-edited.*
 
     Die Atemwege, Übersicht
-    
+
     [Mariana Ruiz Villarreal, Public domain]
 
 Obere Atemwege
@@ -171,7 +171,7 @@ weitergeleitet.
 Die Luftröhre teilt sich in einen *rechten* und einen
 *linken* :dfn:`Hauptbronchus`, welche zu den jeweiligen
 Lungenflügeln ziehen. Jeder Hauptbronchus verzweigt sich immer weiter
-bis schlussendlich sehr dünne *Bronchioli* in die 
+bis schlussendlich sehr dünne *Bronchioli* in die
 :dfn:`Alveolen` (*Lungenbläschen*) münden.
 Hier findet der Gasaustausch statt.
 
@@ -179,7 +179,7 @@ Hier findet der Gasaustausch statt.
 
 -  Hauptbronchus (li./re.)
 
--  
+-
 
 -  Alveolen
 
@@ -286,7 +286,7 @@ Brustwand verwachsen. Die zweite Seite überzieht die Lungenoberfläche
 gleiten können (es gibt keine Verwachsungen der beiden Blätter und die
 Pleuraflüssigkeit fungiert als *Schmiermittel*.). Der Zwischenraum ist
 *dicht abgeschlossen*, es kann von außen keine Luft oder Flüssigkeit
-eindringen. Außerdem herrscht zwischen den beiden Pleuablättern ein 
+eindringen. Außerdem herrscht zwischen den beiden Pleuablättern ein
 *Unterdruck*. Dieser Unterdruck entsteht
 dadurch, dass sich einerseits die (elastische) Lunge zusammenziehen
 möchte, während andererseits der Brustkorb einen Gegenzug ausübt. Durch
@@ -317,7 +317,7 @@ die schmerzempfindlich ist.
 .. figure:: /Bilder/HirtlerLena-Ccc/Pleura.*
 
     Pleura, Schema
-    
+
     [Lena Hirtler, MfG]
 
 *Frage*: *Was würde passieren wenn der Zwischenraum zwischen den
@@ -358,9 +358,9 @@ Gewebe und Pleura(spalt) wichtig:
 -  *:dfn:`Atemmuskulatur` :index:`\ <! Atemmuskulatur>`*: Der wichtigste Atemmuskel ist
    das *Zwerchfell*. In Ruhe erledigt es fast die gesamte Atemarbeit.
    Bei verstärkter Atmung kommen die *Zwischenrippenmuskeln* zum Einsatz
-   (Lippert 2006).
+   [Lippert:2006]_.
 
--  *:dfn:`Atemhilfsmuskulatur` :index:`\ <! Atemhilfsmuskulatur>`*: 
+-  *:dfn:`Atemhilfsmuskulatur` :index:`\ <! Atemhilfsmuskulatur>`*:
    Neben den Hauptatemmuskeln (Zwerchfell, Zwischenrippenmuskulatur)
    gibt es noch eine Reihe weiterer Atemhilfsmuskeln die die Atmung
    unterstützen. Diese verbinden den Thorax und die Oberarme. Fixiert
@@ -388,7 +388,7 @@ Gewebe und Pleura(spalt) wichtig:
 .. figure:: /Bilder/HirtlerLena-Ccc/Thorax-Diaphragma.*
     :width: 99%
 
-    Das *Diaphragma* ist der wichtigste Atemmuskel 
+    Das *Diaphragma* ist der wichtigste Atemmuskel
     und trennt den Brust- und Bauchraum.
 
     [Lena Hirtler, MfG]
@@ -396,7 +396,7 @@ Gewebe und Pleura(spalt) wichtig:
 .. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegung-frontal.*
     :width: 99%
 
-    Bei der Einatmung senkt sich das Zwerchfell 
+    Bei der Einatmung senkt sich das Zwerchfell
     und der Brustkorb hebt sich.
 
     [Lena Hirtler, MfG]
@@ -476,7 +476,7 @@ Ausatmen sozusagen wieder hinaus gedrückt.
 
 .. _Thema-vitalfunktion-atmung:
 
-.. _Thema-atemvolumina: 
+.. _Thema-atemvolumina:
 
 *********************************
 Die Atmung ist eine Vitalfunktion
@@ -520,7 +520,7 @@ AZV
     Atemzugsvolumen, *500 ml*
 
 AMV
-    Atemminutenvolumen, *6–8 L / min*
+    Atemminutenvolumen, *6–8 L / min*
 
 :math:`\mbox{AMV} = \mbox{AZV} \times \mbox{AF}`
 

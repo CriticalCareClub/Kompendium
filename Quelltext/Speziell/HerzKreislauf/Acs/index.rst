@@ -13,7 +13,7 @@ Akutes Koronarsyndrom (ACS)
 ###########################
 
 
-Basierend auf: `2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation <https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393>`_ :cite:`Esc-2017-GuidelinesStemi`
+Basierend auf: `2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation <https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393>`_ [Esc-2017-GuidelinesStemi]_
 
 .. contents::
 
@@ -384,17 +384,17 @@ bzw. das geeigente Verfahren auswählen.
     *Zur Bekämpfung von Herzinfarkt und Arteriosklerose*
     http://youtu.be/SWZYBrLAnNk.
 -   Literatur:
-    :cite:`Erc-2015-Section-08`
-    :cite:`Harrisons18DeKap225`
-    :cite:`Harrisons18DeKap230`
-    :cite:`Harrisons18DeKap224`
+    [ERC:2015:08]_
+    [Harrisons18DeKap225]_
+    [Harrisons18DeKap230]_
+    [Harrisons18DeKap224]_
 
 
 
 Wichtiges Ziel in der MCI-Versorgung ist die Reduktion des
 *System Delay*.
 Daraus ergeben sich folgende logistische Empfehlungen
-:cite:`Esc-2017-GuidelinesStemi`:
+[Esc-2017-GuidelinesStemi]_ :
 
 -   Organisation regionaler STEMI Netzwerke
 -   SOPs für Rettungsdienst und PCI-Zentren
@@ -459,7 +459,7 @@ z. B. Morphin |IV|, titriert in 2--5 mg-Schritten (Erwachsene).
 Heparin
 -------------------------------------
 
-Gabe von **70 IU / kg i. v.** [#AcsTherapieAllgemeinHeparinDosierung]_\ .
+Gabe von **70 IU / kg i. v.**[#AcsTherapieAllgemeinHeparinDosierung]_\ .
 
 .. [#AcsTherapieAllgemeinHeparinDosierung]
         Es werden 70--100 IU / kg i. v. ohne,

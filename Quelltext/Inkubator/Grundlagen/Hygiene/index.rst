@@ -360,7 +360,7 @@ spricht man in der Fachwelt auch von :dfn:`Spitalskeimen` :index:`\ <! Spitalske
 Resistente Keime verursachen komplizierte Infektionen, eine Erhöhung der
 Komplikations- und Sterblichkeitsrate, in Folge eine Verlängerung des
 Krankenhausaufenthaltes und nicht zuletzt enorme zusätzliche –
-vermeidbare – Kosten (Kucera 2010).
+vermeidbare – Kosten [Kucera:2010]_.
 
 -  Bakterien können Resistenzen entwickeln!
 
@@ -476,7 +476,7 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 Maßnahmen
 ---------
 
-[m:mrsa-transport][proc:IU81001C]
+[m:mrsa-transport][proc:IU-81001C]
 
 -  Informationen über MRSA-Trägerschaft sowie Art/Ort der
    MRSA-Besiedelung
@@ -1134,7 +1134,7 @@ Maßnahmen
 
 [m:nadelstichverletzung]
 
-Basierend auf :cite:`OeAG2007`
+Basierend auf [OeAG:2007]_
 
 -  Erstmaßnahmen durchführen:
 
@@ -1177,7 +1177,7 @@ Basierend auf :cite:`OeAG2007`
     -   Sofort in ein geeignetes Krankenhaus!
 
 
-(Loew 2006)
+[Loew:2006]_
 
 
 .. _Thema-entsorgung-infektioeser-abfall:
@@ -1256,7 +1256,7 @@ entsprechend zu entsorgen. Ebenso ist bei umweltgefährdenden Abfällen
 (Batterien, Chemikalien, …) der betriebsinterne Entsorgungsweg zu
 befolgen.
 
-(Kayser et al. 2001) (Hahn et al., n.d.) (Braun 2004) (Collier and Mark
+(Kayser et al. 2001) (Hahn et al., n.d.) [Braun:1]_ (Collier and Mark
 Brinsden 2006) (Gemeinsame Erklärung der Deutschen AIDS-Gesellschaft
 (DAIG) und Osterreichischen AIDS-Gesellschaft (OAG) 2009)
 
@@ -1264,7 +1264,7 @@ Brinsden 2006) (Gemeinsame Erklärung der Deutschen AIDS-Gesellschaft
 Sanitäter: (Gruber, Hellmich, and Grassl 2011)
 
 *Rettungsdienstspezifisches Werk*, richtet sich tendenziell an
-Hygieneverantwortliche und -beauftrage: (Wiedenmann 2011)
+Hygieneverantwortliche und -beauftrage: [Wiedenmann:2011]_
 
 *Standardwerk*: (Kramer and Assadian 2008)
 

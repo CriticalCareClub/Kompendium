@@ -5,7 +5,7 @@ Inkubator
 
 
 In diesem Teil finden sich Inhalte,
-welche noch einer intensiven Überarbeitung und 
+welche noch einer intensiven Überarbeitung und
 Anpassung bedürfen.
 
 
@@ -15,7 +15,7 @@ Anpassung bedürfen.
 
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     1-Mal-1-DerMedizin/index
     AnatomiePhysiologie/index
@@ -24,5 +24,5 @@ Anpassung bedürfen.
     Speziell/index
     Pharmakotherapie/index.rst
     Sonstiges/index
-    
-    
+
+

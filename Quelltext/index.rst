@@ -49,6 +49,13 @@ Kompendium des Critical Care Club Austria
     Appendix/index.rst
 
 
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Projektorganisation
+
+    Organisation/index
+
 ..
     .. only:: html
 

@@ -21,8 +21,26 @@ Anpassung bedürfen.
     AnatomiePhysiologie/index
     Diagnostik/index
     Grundlagen/index
-    Speziell/index
     Pharmakotherapie/index.rst
-    Sonstiges/index
+    ASS/index
 
 
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Spezielle Notfallmedizin (Inkubator)
+
+    Gynaekologie/index.rst
+    Infektiologie/index.rst
+    Kriminalitaet/index.rst
+    Neurologie/index.rst
+    Paediatrie/index.rst
+    Psychiatrie/index.rst
+    Stoffwechsel/index.rst
+    ThermischeStoerungen/index.rst
+    Toxikologie/index.rst
+    Traumatologie/index.rst
+    Urologie/index.rst
+    Wundversorgung/index.rst
+    Abdomen/index.rst
+    Anaphylaxie/index

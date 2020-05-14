@@ -1,7 +1,7 @@
 
 
 ###############################################################
-Opfer von Kriminalität, Misshandlung und Vernachlässigung
+Opfer von Kriminalität, Misshandlung und Vernachlässigung (#64)
 ###############################################################
 
 .. attention::
@@ -100,7 +100,7 @@ das weitere Procedere (sofern absehbar).
 Maßnahmen: Vergewaltigung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. todo:: 
+.. todo::
 
     Maßnahmen Vergewaltigung: Anpassung an höherqualifiziertes Personal
 
@@ -210,7 +210,7 @@ eine ausführliche Dokumentation schon im Verdachtsfall anzufertigen.
    (2) …
 
 .. [286]
-    §212. 
+    §212.
     (1) Wer
 
         1.  mit einer mit ihm in absteigender Linie verwandten minderjährigen
@@ -301,12 +301,12 @@ Basismaßnahmen
         **dokumentieren**
     #.  Obiges verlässlich bei der Übergabe an die nachbetreuende Einrichtung
         weiterleiten. Evtl. Name des Gesprächpartners bei der  Übergabe dokumentieren.
-    #.  **Patienten nicht im Stich lassen**: 
+    #.  **Patienten nicht im Stich lassen**:
         Gelindestes Mittel wählen,
-        evtl. Vorwand für die Hospitalisierung suchen, 
+        evtl. Vorwand für die Hospitalisierung suchen,
         aber wenn ein begründeter
-        Verdacht auf eine Misshandlung besteht 
-        und die Erziehungsberechtigten unkooperativ sind 
+        Verdacht auf eine Misshandlung besteht
+        und die Erziehungsberechtigten unkooperativ sind
         notfalls auch die Exekutive beiziehen.
 
 
@@ -314,7 +314,7 @@ Basismaßnahmen
 
     Jedenfalls zu unterlassen sind:
 
-    -   Voreilige Verdachtsäußerungen. 
+    -   Voreilige Verdachtsäußerungen.
 
         *"Nicht alles was stinkt ist ein Fisch!"*
     -   Andeutungen gegenüber den Erziehungsberechtigten oder Dritten.

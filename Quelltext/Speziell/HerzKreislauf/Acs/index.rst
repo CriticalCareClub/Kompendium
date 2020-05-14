@@ -8,9 +8,9 @@
 
 .. _Thema-Acs:
 
-###########################
-Akutes Koronarsyndrom (ACS)
-###########################
+###################################
+Akutes Koronarsyndrom (ACS) — (#40)
+###################################
 
 
 Basierend auf: `2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation <https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393>`_ [Esc-2017-GuidelinesStemi]_

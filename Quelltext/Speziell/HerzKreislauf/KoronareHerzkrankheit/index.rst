@@ -10,9 +10,9 @@
 
 .. _Thema-khk:
 
-######################
-Koronare Herzkrankheit
-######################
+#############################
+Koronare Herzkrankheit (#49)
+#############################
 
 .. toctree::
     :maxdepth: 1

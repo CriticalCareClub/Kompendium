@@ -1,7 +1,7 @@
 
 
 ##################################################
-Stoffwechselstörungen
+Stoffwechselstörungen (#70)
 ##################################################
 
 .. attention::
@@ -49,7 +49,7 @@ Interpretation des BZ-Wertes: RichtwerteDer Blutzuckerspiegel wird in
 abhängig von der letzten Mahlzeit des Patienten. Nach der
 Nahrungsaufnahme steigt der Blutzuckerspiegel stark an und fällt dann
 wieder auf einen “nüchternen Normalwert” ab. Der normale
-*Nüchtern-Blutzuckerspiegel* bewegt sich zwischen 
+*Nüchtern-Blutzuckerspiegel* bewegt sich zwischen
 *80—100 mg / dL* (4,4—5,6 mmol / L). Im Akutfall
 kann der Normalbereich jedoch großzügiger angesetzt werden, da bei
 Werten zwischen 60 und 200 mg / dL keine Notfallsymptome auftreten. (Herold
@@ -301,7 +301,7 @@ Hyperglykämie: Zustand oder Notfall?
 ------------------------------------
 
 Eine :dfn:`Hyperglykämie` :index:`\ <! Hyperglykämie>` ist eine maßgebliche Erhöhung
-des Blutzuckerspiegels. 
+des Blutzuckerspiegels.
 Dies ist nicht automatisch ein Notfall. Die
 Bedrohlichkeit ist davon abhängig, wie rasch sich diese Erhöhung
 entwickelt hat. So hat ein Patient, bei dem seit Jahren ein unerkannter
@@ -421,9 +421,9 @@ Maßnahmen: Hyperglykämisches Koma
 
 .. todo:: Maßnahme ME14012C: Anpassung an höherqualifiziertes Personal
 
-Taktik 
+Taktik
     **Vitale Bedrohung!**
-    
+
     Sichern der Vitalfunktionen
 
 Basismaßnahmen

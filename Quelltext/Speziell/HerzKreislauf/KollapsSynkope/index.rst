@@ -2,8 +2,8 @@
 
 .. _Thema-synkope:
 
-Kollaps und Synkope
--------------------
+Kollaps und Synkope (#48)
+--------------------------
 
 
 
@@ -69,7 +69,7 @@ Maßnahmen: Kollaps
 
 
 
-.. todo:: 
+.. todo::
 
     Maßnahmen: Anpassung an höherqualifiziertes Personal
 

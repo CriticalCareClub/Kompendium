@@ -1,7 +1,7 @@
 
-*****************
-Asthma bronchiale
-*****************
+*************************
+Asthma bronchiale (#34)
+*************************
 
 ..
     .. sidebar:: Asthma bronchiale

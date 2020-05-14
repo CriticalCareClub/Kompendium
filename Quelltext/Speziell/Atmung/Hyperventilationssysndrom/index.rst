@@ -6,9 +6,9 @@
 .. _Thema-hyperventilationssyndrom:
 .. _thema-hyperventilationstetanie:
 
-*************************************
-Hyperventilationssyndrom und -tetanie
-*************************************
+*********************************************
+Hyperventilationssyndrom und -tetanie (#36)
+*********************************************
 
 
 ..

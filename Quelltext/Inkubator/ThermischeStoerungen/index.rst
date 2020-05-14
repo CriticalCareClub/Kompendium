@@ -1,7 +1,7 @@
 
 
 ####################################################
-Thermische Schädigungen
+Thermische Schädigungen (#71)
 ####################################################
 
 
@@ -29,7 +29,7 @@ Hitzeerkrankungen
 Der menschliche
 Körper hält seine Kerntemperatur im Normalfall zwischen 36,5 und 37,5
 konstant. Übersteigt die Wärmezufuhr die effektive Wärmeabgabe,
-resultiert ein Hitzeschaden: :dfn:`Hitzekollaps` :index:`\ <! Hitzekollaps>`, 
+resultiert ein Hitzeschaden: :dfn:`Hitzekollaps` :index:`\ <! Hitzekollaps>`,
 :dfn:`Hitzeerschöpfung` , :dfn:`Hitzschlag` :index:`\ <! Hitzschlag>` (bzw.
 bei direkter Sonneneinstrahlung auf den Kopf ein Sonnenstich).
 
@@ -91,7 +91,7 @@ Maßnahmen: Hitzekollaps
 Basismaßnahmen
     -   Flachlagerung: → Gehirndurchblutung
         wieder ↑, bewusstseinsklar
-    -   nach Sekunden gebessert, 
+    -   nach Sekunden gebessert,
         regelt sich von selbst
     -   Patient sitzen lassen, Flüssigkeit
 
@@ -202,7 +202,7 @@ Maßnahmen: Hitzschlag, Sonnenstich
         \begin{itemize}
         -   |TxMassVitMK|
         -   Beengende Kleidungsstücke lockern
-        -   Flachlagerung an kühlem Ort (Schatten), Beine und Kopf hochlagern. 
+        -   Flachlagerung an kühlem Ort (Schatten), Beine und Kopf hochlagern.
         -   Kühlung von \E{außen} (Fächer, mit Eiswürfeln abreiben etc.)
         -   Kühlung von *innen*: für **ansprechbare** Patienten viel kühle
         (alkoholfreie) Flüssigkeit, evtl. Elektrolyt-Getränke
@@ -255,7 +255,7 @@ Symptome  und Phasen
    Schmerzen.
 
 -  :dfn:`Erschöpfungsphase` :index:`\ <! Erschöpfungsphase>`: 34—30°C,
-   Bewusstseinstrübung, Kältestarre, Herzfrequenz sinkt wieder (< 60 / min), 
+   Bewusstseinstrübung, Kältestarre, Herzfrequenz sinkt wieder (< 60 / min),
    zu langsame Atmung, keine Schmerzen mehr.
 
 -  :dfn:`Kältenarkose` :index:`\ <! Kältenarkose>`: 30—27°C,

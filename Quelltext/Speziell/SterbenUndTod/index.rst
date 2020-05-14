@@ -1,6 +1,6 @@
 
 ############################################
-Sterben und Tod
+Sterben und Tod (#54
 ############################################
 
 ::
@@ -101,7 +101,7 @@ Totenstarre mit einem tonischen Krampf.
 
 .. index::
     single: Reanimation; Unterlassung der
-    
+
 .. _proc-MY51990C:
 .. _m-reanimation-unterlassung:
 .. _Thema-reanimation-unterlassung:
@@ -119,7 +119,7 @@ werden:
 -   **Mumifizierung**
 -   **Skelettierung**
 -   **Verletzungen, die nicht mit dem Leben vereinbar sind**
--   **Tierfraß**. 
+-   **Tierfraß**.
     Darunter versteht man den Verzehr eines Kadavers
     durch Kadaverfresser. Ein frischer Hundebiss oder
     Ähnliches fällt *nicht* darunter. Maden können
@@ -138,23 +138,23 @@ werden:
     Liegt eine *beachtliche Patientenverfügung* vor, so ist im
     *Einzelfall* zu entscheiden: Das Wohl des Patienten bleibt
     oberstes Gebot und die Verfügung soll in die
-    Entscheidung einfließen. :ref:`Thema-patientenverfuegung`\ ; 
+    Entscheidung einfließen. :ref:`Thema-patientenverfuegung`\ ;
     Bis zur zweifelsfreien Klärung der Situation muss
     jedenfalls eine Reanimation begonnen bzw. fortgeführt
     werden!)
 -   (Abbruch der Reanimationsmaßnahmen aufgrund
     von **Erschöpfung**)
-    
-    Erschöpfung darf im professionellen Umfeld 
-    keine Rolle spielen, 
+
+    Erschöpfung darf im professionellen Umfeld
+    keine Rolle spielen,
     für eine entsprechende Ablösung ist bei Bedarf zu sorgen.
 -   Unvereinbarkeit mit **Selbstschutz**
 
     Es müssen jedoch alle Maßnahmen
     getroffen werden, die ohne Gefährdung des Selbstschutzes
-    möglich sind. 
-    So wird zum Beispiel für Ersthelfer empfohlen, 
-    wenn eine Mund-zu-Mund-Beatmung nicht zumutbar ist, 
+    möglich sind.
+    So wird zum Beispiel für Ersthelfer empfohlen,
+    wenn eine Mund-zu-Mund-Beatmung nicht zumutbar ist,
     zumindest eine Herzdruckmassage durchzuführen.
 
 

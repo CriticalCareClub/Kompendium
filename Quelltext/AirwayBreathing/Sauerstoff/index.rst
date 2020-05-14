@@ -4,7 +4,7 @@
 .. _Thema-Sauerstoff:
 
 ########################
-Sauerstoff – O\ :sub:`2`
+Sauerstoff – O₂ (#24)
 ########################
 
 

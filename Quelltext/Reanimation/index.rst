@@ -13,9 +13,9 @@
 
 .. _Thema-pediatric-life-support:
 
-###########
-Reanimation
-###########
+######################
+Reanimation (#31)
+######################
 
 .. toctree::
     :maxdepth: 1

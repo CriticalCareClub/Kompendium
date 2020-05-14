@@ -5,9 +5,9 @@
 .. _thema-mechanische-atemwegsverlegung:
 
 
-*****************************
-Mechanische Atemwegsverlegung
-*****************************
+**************************************
+Mechanische Atemwegsverlegung (#38)
+**************************************
 
 ..
     .. sidebar:: Mechanische Atemwegsverlegung

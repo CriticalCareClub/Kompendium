@@ -4,9 +4,9 @@
 
 .. _Thema-Herzinsuffizienz:
 
-################
-Herzinsuffizienz
-################
+########################
+Herzinsuffizienz (#46)
+########################
 
 .. admonition:: Definition: Herzinsuffizienz
 

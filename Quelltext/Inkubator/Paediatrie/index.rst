@@ -1,7 +1,7 @@
 
 
 #########################################
-*Spezielle Patientengruppe:* Kinder
+*Spezielle Patientengruppe:* Kinder (#66)
 #########################################
 
 .. attention::

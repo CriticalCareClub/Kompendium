@@ -1,7 +1,7 @@
 
 
 ############################################
-Infektions- und Entzündungskrankheiten
+Infektions- und Entzündungskrankheiten (#63)
 ############################################
 
 .. attention::
@@ -310,7 +310,7 @@ Beschreibung
 
 Die :dfn:`Tuberkulose` :index:`\ <! Tuberkulose>` (*Abk.* :dfn:`Tbc` :index:`\ <! Tbc>`,
 *umgs.* Schwindsucht) ist eine bakterielle Erkrankung, welche praktisch
-alle Organe befallen kann. 
+alle Organe befallen kann.
 Der Verlauf wird vor allem davon bestimmt,
 welches Organ befallen ist (Lunge, Skelett, Darm, Haut, Genitalien,
 ...). Ausgangspunkt ist fast immer die *Lunge*. Die Übertragung erfolgt
@@ -424,7 +424,7 @@ nach der eigentlichen HIV-Infektion aus.
 .. figure:: /Bilder/WikipediaPd/Niaid-hiv-virion-mod.*
 
     Schema eines HI-Virus
-    
+
     [US National Institute of Health, PD-USGov-HHS-NIH]
 
 Übertragung
@@ -565,7 +565,7 @@ Hepatitis-A-Virus (HAV) &
 
 -  kein Übergang in chronischen Verlauf
 
-| 
+|
 | *Hepatitis-B*
 
 Hepatitis-B-Virus (HBV) &
@@ -579,7 +579,7 @@ Hepatitis-B-Virus (HBV) &
 
 -  chronischer Verlauf in ca. 5 %
 
-| 
+|
 | *Hepatitis C*
 
 Hepatitis-C-Virus (HCV) &
@@ -590,7 +590,7 @@ Hepatitis-C-Virus (HCV) &
 
 -  *oft chronischer Verlauf* (in 70 – 80 % der Fälle)
 
-| 
+|
 
 Impfung
 -------
@@ -706,8 +706,8 @@ vor. Bei Verletzungen können durch Kontamination diese Sporen in die
 Wunde kommen. Bei ungünstigen Wundverhältnissen (*anaerobe*
 Verhältnisse) kann es dann zu einer Infektion kommen. Der Erreger
 produziert einen Giftstoff (Toxin), welches einen tonischen Krampf der
-Skelettmuskulatur auslöst. 
-Die Inkubationszeit beträgt ca. 4–21 Tage. 
+Skelettmuskulatur auslöst.
+Die Inkubationszeit beträgt ca. 4–21 Tage.
 Erste Vorzeichen sind Müdigkeit und Inappetenz. (Hahn et
 al., n.d.)
 
@@ -735,7 +735,7 @@ daher nach wie vor groß.
 .. figure:: /Bilder/WikipediaPd/6373_lores_tetanus.*
 
     Patient mit Tetanus
-    
+
     [Public Health Image Library, ID#: 6373, Public Domain]
 
 .. _Thema-tetanus-impfschutz:
@@ -775,7 +775,7 @@ Beschreibung
 Eine Sepsis liegt dann vor, wenn sich innerhalb des Körpers ein Herd
 gebildet hat, von dem kontinuierlich oder periodisch pathogene Bakterien
 in den Kreislauf gelangen und zwar derart, dass dadurch
-Krankheitserscheinungen ausgelöst werden (Schottmüller 1914). 
+Krankheitserscheinungen ausgelöst werden (Schottmüller 1914).
 Dabei
 kommt es zu einer gesteigerten Freisetzung von Stoffen des Entzündungs-,
 Gerinnungs- und Immunsystems, welche zu den unten angeführten Symptomen
@@ -883,7 +883,7 @@ Identifizierung von Personen, bei denen der Verdacht auf Ebola besteht,
 bzw. die auf eine Ebola-Viruserkrankung untersucht werden sollen.
 
 Kriterien
-         
+
 
 #. *Klinische Kriterien*
 
@@ -953,7 +953,7 @@ Kriterien
    #. Isolierung von Ebola-Virus aus einer klinischen Probe
 
 Fallklassifizierung
-                   
+
 
 -  *Verdachtsfall*: Ein Verdachtsfall liegt vor, wenn auf die Person
 
@@ -1005,7 +1005,7 @@ Bei Vorliegen eines Verdachtsfalles müssen folgende Punkte umgehend durchgefüh
 -   Mindestens 1 m Abstand zur betroffenen Person einhalten
 -   Person OP-Maske anlegen lassen
 -   Händedesinfektion
--   Anlegen der eigenen Schutzausrüstung: 
+-   Anlegen der eigenen Schutzausrüstung:
 
     Minimum: FFP3-Maske, 2 Paar Handschuhe, Schutzbrille, Schutzanzug, Überschuhe
 -   Rückmeldung an Leitstelle, Abwarten weiterer Anweisungen

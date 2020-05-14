@@ -1,8 +1,8 @@
 .. _Thema-Diagnose:
 
-############
-Die Diagnose
-############
+##################
+Die Diagnose (#26)
+##################
 
 Eine Diagnose gibt einem Zustand eine Bezeichnung, das
 heißt einem Beschwerdebild wird ein definiertes Krankheitsbild

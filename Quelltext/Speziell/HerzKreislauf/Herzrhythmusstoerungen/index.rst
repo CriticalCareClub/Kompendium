@@ -1,9 +1,9 @@
 
 .. _Thema-herzrhythmusstoerungen:
 
-#####################
-Herzrhythmusstörungen
-#####################
+###########################
+Herzrhythmusstörungen (#47)
+###########################
 
 Herzrhythmusstörungen sind,
 wenig überraschend,

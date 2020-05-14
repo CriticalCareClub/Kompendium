@@ -9,9 +9,9 @@
 
 .. _Thema-atemstillstand:
 
-************************************************
-Allgemein: Störungen der Atemwege und der Atmung
-************************************************
+*******************************************************
+Allgemein: Störungen der Atemwege und der Atmung (#33)
+*******************************************************
 
 ..
     .. sidebar:: Atemstörungen

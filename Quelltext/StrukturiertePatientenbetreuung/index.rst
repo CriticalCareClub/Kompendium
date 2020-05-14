@@ -1,9 +1,9 @@
 
 .. _Thema-Patientenmanagement:
 
-################################
-Strukturierte Patientenbetreuung
-################################
+########################################
+Strukturierte Patientenbetreuung (#32)
+########################################
 
 Unter dem Begriff Patientenmanagement fasst man alle Maßnahmen und
 Entscheidungen zusammen, die der Untersuchung, Betreuung und Behandlung

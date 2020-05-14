@@ -5,7 +5,7 @@ Inkubator
 
 
 In diesem Teil finden sich Inhalte,
-welche noch einer intensiven Überarbeitung und 
+welche noch einer intensiven Überarbeitung und
 Anpassung bedürfen.
 
 
@@ -15,14 +15,32 @@ Anpassung bedürfen.
 
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     1-Mal-1-DerMedizin/index
     AnatomiePhysiologie/index
     Diagnostik/index
     Grundlagen/index
-    Speziell/index
     Pharmakotherapie/index.rst
-    Sonstiges/index
-    
-    
+    ASS/index
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Spezielle Notfallmedizin (Inkubator)
+
+    Gynaekologie/index.rst
+    Infektiologie/index.rst
+    Kriminalitaet/index.rst
+    Neurologie/index.rst
+    Paediatrie/index.rst
+    Psychiatrie/index.rst
+    Stoffwechsel/index.rst
+    ThermischeStoerungen/index.rst
+    Toxikologie/index.rst
+    Traumatologie/index.rst
+    Urologie/index.rst
+    Wundversorgung/index.rst
+    Abdomen/index.rst
+    Anaphylaxie/index

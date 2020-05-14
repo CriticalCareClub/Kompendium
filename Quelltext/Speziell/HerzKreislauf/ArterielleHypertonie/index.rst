@@ -1,7 +1,7 @@
 
-#####################
-Arterielle Hypertonie
-#####################
+###########################
+Arterielle Hypertonie (#42)
+###########################
 
 .. _Thema-ArterielleHypertonie:
 

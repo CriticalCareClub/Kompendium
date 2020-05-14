@@ -1,6 +1,7 @@
+:orphan:
 
 ##########################################
-Sonstiges
+Sonstiges (#69)
 ##########################################
 
 .. attention::
@@ -12,4 +13,3 @@ Sonstiges
 
     ThoraxchirurgischeStoerungen/index.rst
     Sepsis/index.rst
-    ASS/index

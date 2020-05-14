@@ -1,8 +1,8 @@
 .. _Thema-ArteriellerGefaessverschluss:
 
-#####################################
-Peripherer arterieller Gefäßverschluß
-#####################################
+##############################################
+Peripherer arterieller Gefäßverschluß (#51)
+##############################################
 
 ************
 Beschreibung

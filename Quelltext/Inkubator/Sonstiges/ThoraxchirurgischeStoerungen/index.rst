@@ -1,3 +1,5 @@
+:orphan:
+
 ###############################################
 Thoraxchirurgische Störungen
 ###############################################
@@ -15,7 +17,7 @@ Hämatothorax
 .. index::
     single: Chylothorax
     single: Ductus thoracicus
-    
+
 Chylothorax
 ===========
 
@@ -25,7 +27,7 @@ Ursächlich ist oft eine Verletzung des *Ductus thoracicus*
 Duct. thoracicus.
 
 .. note::
-   
+
     Chylon kann auch in das Mediatinum (Chylomediastinum)
     oder in das Perikard (Chyloperikard) eindringen.
 
@@ -41,7 +43,7 @@ Diagnostik
 ----------
 
 - Labor:
-  
+
     - Pleurasekret: Triglyzeride
 
 Therapie
@@ -54,12 +56,12 @@ Therapie
   Diese bilden mehr Ketonkörper als langkettige Fettsäuren und
   werden auch besser resorbeirt und v. a. über die Pfortader,
   und weniger über das lymphatische System,
-  in die Leber transportiert. 
+  in die Leber transportiert.
 
 - Wenn keine Besserung nach 1-2 Wochen:
 
     - Operative Versogung mittels direkter Naht oder Pleurodese
-      
+
 Lobektomie
 ==========
 

@@ -16,14 +16,21 @@ Kompendium des Critical Care Club Austria
 #############################################
 
 
-..
-    .. only:: html
 
-        .. image:: /Bilder/Logos/rect14795-2.png
-            :align: center
-            :width: 50%
+.. only:: html
+
+    .. image:: /Bilder/Logos/Ccca-Logo-10-EuColors-Variante-6-Background-600px.png
+        :align: center
+        :width: 50%
 
 
+
+
+.. only:: html
+
+    .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
+        :align: center
+        :width: 100%
 
 
 
@@ -42,18 +49,19 @@ Kompendium des Critical Care Club Austria
     Appendix/index.rst
 
 
-.. only:: html
 
-    .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
-        :align: center
-        :width: 100%
+.. toctree::
+    :maxdepth: 2
+    :caption: Projektorganisation
 
+    Organisation/index
 
-.. only:: html
+..
+    .. only:: html
 
-    .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
-        :align: center
-        :width: 100%
+        .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
+            :align: center
+            :width: 100%
 
 .. admonition:: Versionsverwaltung (Git-Archiv)
 

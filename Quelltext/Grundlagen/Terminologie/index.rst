@@ -1,6 +1,6 @@
-################
-Terminologie
-################
+##################
+Terminologie (#29)
+##################
 
 Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung
 mit anderem Fachpersonal. [BertelsmannVolkslexikon:25]_ [Pschy:259]_

@@ -1,6 +1,6 @@
 
-Gefäßverschlüsse in den Extremitäten
-====================================
+Gefäßverschlüsse in den Extremitäten (#44)
+==========================================
 
 Unterscheidung
 --------------
@@ -13,7 +13,7 @@ Rückflussbehinderung. Zusätzlich besteht die Gefahr, dass sich ein
 Gerinnsel losreißt und in einem anderen Teil des Körpers Schaden
 anrichtet [243]_.
 
--  
+-
 
 -  *tVT* (tiefe Venen Thrombose)
 

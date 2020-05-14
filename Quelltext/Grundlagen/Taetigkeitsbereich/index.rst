@@ -22,17 +22,7 @@ Tätigkeitsbild und Orientierung (#28)
 
    Ein Übersichtskapitel über das Umfeld und die Tätigkeiten in den Sanitätsberufen.
 
-.. option:: Maintainer
-
-    Sebastian Gabriel
-
-.. option:: Autoren
-
-    Diverse
-
-.. option:: Reviewer
-
-    Standard-Reviewprozess
+.. sectionauthor:: Sebastian Gabriel
 
 
 
@@ -60,7 +50,7 @@ Tätigkeit, Sanitäter haben sich daher laufend tätigkeitsrelevant
 fortzubilden. Darüber hinaus müssen die *Berufs- bzw.
 Tätigkeitspflichten* erfüllt werden (z.B. Dokumentationspflicht,
 Verschwiegenheitspflicht, Auskunftspflicht, vgl.
-[:ref:`Thema-sanitaeter-pflichten`).
+(:ref:`Thema-sanitaeter-pflichten`).
 
 Allgemeiner Tätigkeitsbereich
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -109,17 +99,23 @@ Venenzugang und Infusion, Beatmung und Intubation).
     zum Beispiel bei dieser Überstellung eines Intensivpatienten: Wenn
     danach alle Beteiligten so fröhlich sind ist das ein gutes Zeichen.
 
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-teamwork-arzt-sani.jpg
     :width: 99%
 
     Miteinander statt gegeneinander: Arzt und Sanitäter bilden eine
     Einheit.
 
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-alle.jpg
     :width: 99%
 
     Im Notfall ist die Organisationszugehörigkeit
     nebensächlich.
+
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
 .. subfigend::
     :width: 0.3
@@ -138,6 +134,13 @@ Der Beruf bzw. die Tätigkeiten des Sanitäters dürfen *ehrenamtlich*,
 Umständen [5]_ ausgeübt werden. Die *berufsmäßige* Ausübung von
 Tätigkeiten des Sanitäters setzt neben der jeweiligen Fachausbildung die
 Absolvierung eines *Berufsmoduls* voraus.
+
+.. [5]
+   Die Tätigkeiten des Sanitäters dürfen ferner als Soldat im
+   Bundesheer, als Organ des öffentlichen Sicherheitsdienstes,
+   Zollorgan, Strafvollzugsbediensteter oder als Angehöriger eines
+   sonstigen Wachkörpers ausgeübt werden.
+
 
 Befristung
 ^^^^^^^^^^
@@ -192,21 +195,52 @@ Der Sanitäter – heute
 Das Aufgabengebiet des Sanitäter von heute wird immer mehr um
 Tätigkeiten erweitert, die medizinisch-wissenschaftliche Kenntnisse
 voraussetzen und noch vor einiger Zeit nur den Ärzten oder anderen
-Berufsgruppen vorbehalten waren (z.B. Medikamentengabe).
+Berufsgruppen vorbehalten waren (z. B. Medikamentengabe).
 
 Dies geschah anfangs durch das SanG, später aber auch durch die
 Anforderungen, welche sich zwangsläufig aus der Arbeit in der Praxis
-ergeben und z.T. gar nicht gesetzlich geregelt sind.
+ergeben und z. T. gar nicht gesetzlich geregelt sind.
 
 In letzter Zeit kommt es auch zu einem Einfluss privater, meist
-kommerzieller, internationaler Ausbildungsprogramme wie z.B. AMLS [6]_,
-ITLS [7]_]_[ PHTLS [8]_ etc. Deren Lehrinhalte sind meist auf den
-Kompetenzbereich von Paramedics [9]_ ausgelegt, und reizen Grenzen
+kommerzieller, internationaler Ausbildungsprogramme wie z. B.
+AMLS\ [6]_,
+ITLS\ [7]_,
+PHTLS\ [8]_ etc.
+Deren Lehrinhalte sind meist auf den
+Kompetenzbereich von Paramedics\ [9]_ ausgelegt, und reizen Grenzen
 dessen, was allgemein als Aufgaben der Sanitäter angesehen wird,
 weitgehend aus, oder überschreiten diese. Diesbezüglich kommt es immer
-wieder zu Diskussionen, was Sanitäter tun bzw. unterlassen [10]_
-[STRIKEOUT:dürfen] *müssen*\  [11]_, und was sie *nicht* tun oder
+wieder zu Diskussionen, was Sanitäter tun bzw. unterlassen\ [10]_
+*müssen*\ [11]_, und was sie *nicht* tun oder
 unterlassen dürfen.
+
+
+.. [6]
+   Advanced Medical Life Support
+
+.. [7]
+   International Trauma Life Support
+
+.. [8]
+   Prehospital Trauma Life Support
+
+.. [9]
+   Paramedics sind gutausgebildete Sanitäter im englischsprachigen Raum,
+   welche in nicht-Notarzt-basierten Systemen eingesetzt werden, d.h.
+   sie haben in diesen Ländern das Personal mit der höchsten
+   medizinischen Ausbildung, welches im präklinischen Regelbetrieb
+   eingesetzt wird.
+
+.. [10]
+   Schädliche Dinge zu unterlassen ist genauso wichtig wie nützliche
+   Dinge zu tun.
+
+.. [11]
+   Meist kann man es sich nicht aussuchen, ob man eine Maßnahme ergreift
+   oder nicht. Handlungen, die man machen oder unterlassen darf und die
+   das Patientenwohl fördern, *müssen* i. d. R. entsprechend vorgenommen
+   oder unterlassen werden.
+
 
 Kompetenzen werden erweitert
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -249,7 +283,7 @@ Theoretische Anforderungen
 Die Tätigkeit im medizinischen Bereich geht aufgrund der Komplexität der
 Aufgaben mit einer Fülle von körperlichen, wissensmäßigen und
 psychischen Anforderungen einher. Einen nur kargen Hinweis darüber,
-welche Qualitäten z.B. von einem Sanitäter erwartet werden, liefert das
+welche Qualitäten z. B. von einem Sanitäter erwartet werden, liefert das
 Anforderungsprofil des Arbeitsmarktservice (AMS):
 
 -  Körperliche und psychische Belastbarkeit
@@ -338,7 +372,7 @@ also eine hohe *Frustrationstoleranz* erforderlich machen.
 
 Im Rettungs- und Krankentransportdienst beschäftigte Personen arbeiten
 die meiste Zeit in Teams, sodass Qualitäten wie Toleranz,
-Kritikfähigkeit und Selbstdisziplin (“*Teamfähigkeit*”) ebenso von hoher
+Kritikfähigkeit und Selbstdisziplin (*"Teamfähigkeit"*) ebenso von hoher
 Bedeutung sind (Die Praxis zeigt, dass hier häufig viel Spielraum für
 Verbesserungen besteht ).
 
@@ -370,11 +404,15 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Hilfeleistung
 
+    [Michael Motal / :term:`Lizenz: MfG`]
+
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch2.*
     :width: 99%
 
     Autobrand mit giftigen Dämpfen
+
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00518-0154pt-0300dpi.*
@@ -382,17 +420,21 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Gefahrenstoffunfall
 
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi.*
     :width: 99%
 
     Ungünstige Sichtverhältnisse, hier bei einer Übung im Wiener Kaisermühlentunnel
 
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+
 .. subfigend::
     :width: 0.3
     :label: Figure-BilderserieDiv
 
-    Bilderserie: Div
+    Bilderserie: Diverses
 
 
 
@@ -406,17 +448,23 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Blutzuckermessung
 
+    [Michael Motal / :term:`Lizenz: MfG`]
+
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.*
     :width: 99%
 
     Versorgung nach einem Verkehrsunfall
 
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0030mm.*
     :width: 99%
 
-    Assistenz bei ärztlichen Maßnahmen !!!
+    Assistenz bei ärztlichen Maßnahmen
+
+    [Michael Motal / :term:`Lizenz: MfG`]
 
 
 .. subfigend::
@@ -436,15 +484,21 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.).
 
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/bh_ith_00800.jpg
     :width: 99%
 
     Intensivtransporthubschrauber
 
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/DIF2010-000816-0154pt-0300dpi.*
     :width: 99%
 
-    Ambulanzraum bei einem Sanitätsdienst !!! PICTURESERIESWIDE !!!
+    Ambulanzraum bei einem Sanitätsdienst
+
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
 
 .. subfigend::
@@ -466,11 +520,15 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Organisation im Großschadensfall, hier ein Wagenhalteplatz bei
     einer Nachtübung
 
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00568-0154pt-0300dpi.*
     :width: 99%
 
     Führungsrolle bei der Bewältigung eines
     Großschadensereignis: Der Leiter einer Sanitätshilfestelle (SanHiSt)
+
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
 
 
@@ -491,17 +549,23 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Zusammenarbeit zwischen den Organisationen
 
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-bundesheer1.jpg
     :width: 99%
 
     Integraler Bestandteil der zivilen und militärischen Landesverteidigung: Der
     Bundesheersanitäter
 
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1853_1.jpg
     :width: 99%
 
     Die Zusammenarbeit mit der Exekutive – auch
     an sozialen Brennpunkten – ist Alltag
+
+    [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
 
 .. subfigend::
@@ -520,10 +584,21 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 Ärzte
 *****
 
-Der Arzt ist zur Ausübung der Medizin berufen. Dies umfaßt jede auf
+Der Arzt ist zur Ausübung der Medizin berufen. Dies umfasst jede auf
 medizinisch-wissenschaftlichen Erkenntnissen begründete Tätigkeit, die
 unmittelbar am Menschen oder mittelbar für den Menschen ausgeführt
 wird. [12]_
+
+.. [12]
+   Die Ausübung der Medizin umfasst insbesonders die Untersuchung auf
+   das Vorliegen oder Nichtvorliegen von körperlichen und psychischen
+   Krankheiten oder Störungen, die Beurteilung von diesen Zuständen bei
+   Verwendung medizinisch-diagnostischer Hilfsmittel sowie deren
+   Behandlung; die Vornahme operativer Eingriffe einschließlich der
+   Entnahme oder Infusion von Blut; die Vorbeugung von Erkrankungen; die
+   Geburtshilfe; die Verordnung von Heilmitteln, sowie die Vornahme von
+   Leichenöffnungen. Ferner ist der Arzt befugt, ärztliche Zeugnisse
+   auszustellen und ärztliche Gutachten zu erstatten.
 
 Ausbildung
 ==========
@@ -560,6 +635,14 @@ Interessensvertretung und Aufsichtsbehörde für alle Ärzte ist die
 *Österreichische Ärztekammer* bzw. die jeweils zuständigen
 Landesärztekammern.
 
+
+.. [13]
+   Die in Ausbildung zum Arzt für Allgemeinmedizin oder zum Facharzt
+   befindlichen Ärzte (*Turnusärzte)* :index:`\ <Turnusarzt>` sind
+   lediglich zur unselbstständigen Ausübung in als Ausbildungsstätten
+   anerkannten Einrichtungen, im Rahmen von Lehrpraxen bzw.
+   Lehrgruppenpraxen oder in Lehrambulatorien unter Anleitung und
+   Aufsicht der ausbildenden Ärzte berechtigt.
 
 
 .. index::
@@ -646,7 +729,7 @@ Geburt sowie die Mitwirkung bei der Mutterschafts- und
 Säuglingsfürsorge. Die Berufsgruppe der Hebammen betreut werdende und
 gebärende Mütter und ist zur Leitung von Geburten berechtigt. Sie ist
 zur Durchführung von relevanten medizinischen Maßnahmen, darunter fallen
-auch Blutabhnahmen, das Setzen von peripheren Venenverweilkanülen, die
+auch Blutabnahmen, das Setzen von peripheren Venenverweilkanülen, die
 Gabe von bestimmten Medikamenten, sowie einschlägige chirurgische
 Eingriffe (Versorgung eines Dammriss, …) berechtigt. Die Ausbildung zur
 Hebamme erfolgt in einer entsprechenden Fachschule, neuerdings erfolgt
@@ -683,61 +766,10 @@ Verabreichung von Infusionen und Medikamenten, …) vorsieht. Für
 spezielle Tätigkeitsbereiche gibt es entsprechende Sonderausbildungen
 (Kinder- und Jugendlichenpflege, psychiatrische Pflege, Intensivpflege,
 Anästhesiepflege, Pflege im Operationsbereich, …). Der
-*interdisziplinäre* Tätigkeitsbereich umfaßt jene Bereiche, die sowohl
+*interdisziplinäre* Tätigkeitsbereich umfasst jene Bereiche, die sowohl
 die Gesundheits- und Krankenpflege als auch andere Berufe des
 Gesundheitswesens betreffen. Dabei haben Angehörige des gehobenen
 Dienstes für Gesundheits- und Krankenpflege das Vorschlags- und
 Mitentscheidungsrecht und tragen die Durchführungsverantwortung für alle
 von ihnen in diesen Bereichen gesetzten pflegerischen Maßnahmen.
 
-
-.. [5]
-   Die Tätigkeiten des Sanitäters dürfen ferner als Soldat im
-   Bundesheer, als Organ des öffentlichen Sicherheitsdienstes,
-   Zollorgan, Strafvollzugsbediensteter oder als Angehöriger eines
-   sonstigen Wachkörpers ausgeübt werden.
-
-.. [6]
-   Advanced Medical Life Support
-
-.. [7]
-   International Trauma Life Support
-
-.. [8]
-   Prehospital Trauma Life Support
-
-.. [9]
-   Paramedics sind gutausgebildete Sanitäter im englischsprachigen Raum,
-   welche in nicht-Notarzt-basierten Systemen eingesetzt werden, d.h.
-   sie haben in diesen Ländern das Personal mit der höchsten
-   medizinischen Ausbildung, welches im präklinischen Regelbetrieb
-   eingesetzt wird.
-
-.. [10]
-   Schädliche Dinge zu unterlassen ist genauso wichtig wie nützliche
-   Dinge zu tun.
-
-.. [11]
-   Meist kann man es sich nicht aussuchen, ob man eine Maßnahme ergreift
-   oder nicht. Handlungen, die man machen oder unterlassen darf und die
-   das Patientenwohl fördern, *müssen* i.d.R. entsprechend vorgenommen
-   oder unterlassen werden.
-
-.. [12]
-   Die Ausübung der Medizin umfasst insbesonders die Untersuchung auf
-   das Vorliegen oder Nichtvorliegen von körperlichen und psychischen
-   Krankheiten oder Störungen, die Beurteilung von diesen Zuständen bei
-   Verwendung medizinisch-diagnostischer Hilfsmittel sowie deren
-   Behandlung; die Vornahme operativer Eingriffe einschließlich der
-   Entnahme oder Infusion von Blut; die Vorbeugung von Erkrankungen; die
-   Geburtshilfe; die Verordnung von Heilmitteln, sowie die Vornahme von
-   Leichenöffnungen. Ferner ist der Arzt befugt, ärztliche Zeugnisse
-   auszustellen und ärztliche Gutachten zu erstatten.
-
-.. [13]
-   Die in Ausbildung zum Arzt für Allgemeinmedizin oder zum Facharzt
-   befindlichen Ärzte (*Turnusärzte)* :index:`\ <Turnusarzt>` sind
-   lediglich zur unselbstständigen Ausübung in als Ausbildungsstätten
-   anerkannten Einrichtungen, im Rahmen von Lehrpraxen bzw.
-   Lehrgruppenpraxen oder in Lehrambulatorien unter Anleitung und
-   Aufsicht der ausbildenden Ärzte berechtigt.

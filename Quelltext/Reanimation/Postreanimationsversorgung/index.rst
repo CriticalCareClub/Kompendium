@@ -27,7 +27,7 @@ angeführten Umstände (Abbruchkriterien) eintritt:
     *Atemkontrolle* durchzuführen um sicherzustellen, dass die
     Lebenszeichen richtig erkannt wurden bzw. weiter bestehen.
     Ist eine normale Atmung
-    vorhanden, wird die Reanimation endgültig beendet. [150]_
+    vorhanden, wird die Reanimation endgültig beendet.\ [150]_
     Es ist der :ref:`Einschätzungsblock <Thema-Einschaetzungsblock>` sowie die Standardmaßnahmen bei vital bedrohten Patienten durchzuführen.
     Die Sauerstoffgabe hat dabei einen SpO₂-Zielwert von 94—98%.
     *Erbrechen* ist *kein Lebenszeichen*.
@@ -130,7 +130,7 @@ yein Kammerflimmern oder ein ähnlicher Rhythmus vorliegt. Es ist
 weitgehend akzeptiert, eine Reanimation abzubrechen, wenn trotz aller
 ALS-Maßnahmen und Fehlen von reversiblen Ursachen für 20 Minuten eine
 Asystolie besteht
-[Bonnin:1993]_ [StriebelAnaesthesie2-Band2]_ .
+[Bonnin:1993]_ [StriebelAnaesthesie2-Band2]_\ .
 Gewisse Bedingungen, etwa eine Hypothermie zum
 Zeitpunkt des Kreislaufstillstands, steigern die Chancen der Wieder-
 herstellung ohne neurologische Schäden, sodass normale Prognosekriterien

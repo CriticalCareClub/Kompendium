@@ -18,7 +18,7 @@ Esmarch-Handgriff
 Der  *Esmarch-Handgriff* verstärkt den Effekt des Überstreckens des
 Kopfes.
 Der Helfer befindet sich hinter dem Kopf des Patienten und platziert seine Finger
-2--5 am Ende des Unterkiefers am Kieferwinkel und den Daumen
+2—5 am Ende des Unterkiefers am Kieferwinkel und den Daumen
 am vorderen Bereich des Unterkiefers.
 Durch *auf-* und *vorwärtsgerichteten* Druck der Finger am
 Kieferwinkel kann der Unterkiefer nach oben und vorn geschoben

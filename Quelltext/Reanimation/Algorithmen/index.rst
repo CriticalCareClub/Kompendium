@@ -7,19 +7,18 @@ Algorithmen Herz-Lungen-Wiederbelebung
     .. sidebar:: Einleitung
 
         -  ERC-Leitlinien
-
         -  verschiedene Formen:
 
             -  Basic Life Support (BLS)
-
             -  Advanced Life Support (ALS)
-
             -  Pediatric Life Support (PLS)
+
+
 
 Der Ablauf der Reanimation wird durch die Leitlinien des
 *European Resuscitation Council* (*ERC*) vorgegeben
 und sind durch zahlreiche
-Studien wissenschaftlich abgesichert.\ [146]_
+Studien wissenschaftlich abgesichert.
 Diese Leitlinien werden alle 5 Jahre aktualisiert
 und gliedern sich in verschiedene Themenbereiche,
 einer davon ist der  *Basic Life Support* (*BLS*).
@@ -31,13 +30,7 @@ welcher für speziell ausgebildete Notfallteams konzipiert ist.
 Für Kinder ist der *Pediatric Life Support* (*PLS*) anzuwenden.
 
 
-.. [146]
-   In Österreich gibt es den Österreichischen Rat für Wiederbelebung
-   (Austrian Resucitation Council, ARC), der unter Wahrung der
-   wissenschaftlichen Herangehensweise und in Zusammenarbeit von
-   medizinischen Fachgesellschaften und Rettungsorganisationen (ASBÖ,
-   Johanniter, MA70, Malteser und Rotes Kreuz) die Bereitschaft zur
-   Reanimation und die nötige Ausbildung fördert.
+
 
 
 
@@ -138,7 +131,7 @@ vor:
     Beatmungshilfen einsatzbereit gemacht.
 
 #.  **Analyse**:
-    Sobald der Defibrilaltor einsatzbereit ist wird die erste Rhythmusanalyse durchgeführt.
+    Sobald der Defibrillator einsatzbereit ist wird die erste Rhythmusanalyse durchgeführt.
 
 #.  Liegt ein **nicht-schockbarer Rhythmus** vor,
     so ist die HDM unverzüglich
@@ -155,7 +148,7 @@ vor:
     Kommando *"Achtung! Zurücktreten! — Schock wird abgegeben!"*.
     Bevor der Elektroschock durch Druck auf
     die Schock-Taste am AED endgültig ausgelöst wird, muss sich der
-    Helfer vergewissen, dass niemand den Patient berührt (Sicherungsblick)!
+    Helfer vergewissern, dass niemand den Patient berührt (Sicherungsblick)!
 
 #.  Nach der Schockabgabe wird die *HDM sofort wieder aufgenommen*.
     Die
@@ -167,7 +160,7 @@ vor:
     zeigt oder Abbruchkriterien erfüllt sind.
 
 #.  Um der Erschöpfung der Helfer und damit einem Qualitätsverlust der
-    HDM vorzubeugen, *wird während jeder Anaylsepase die
+    HDM vorzubeugen, *wird während jeder Analysephase die
     Helferposition gewechselt!*
 
 Eine grafische Übersicht über dieses Vorgehen ist in
@@ -185,7 +178,7 @@ siehe :ref:`Figure-Bls-Aed-Algorithmus` … Algorithmus BLS mit AED
 
 	    Basic Life Support mit AED.[Table-algorithmus-bls-aed]
 
-           [Josef Emhofer]_ [ nach  [ERC:2015:02]_ ]
+           [Josef Emhofer, nach  [ERC:2015:02]_\ ]
 
 .. only:: html
 

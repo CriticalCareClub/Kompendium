@@ -42,18 +42,17 @@ in eigenen Kapiteln behandelt.
 Hintergrund: ERC-Leitlinien
 ***********************************************************************
 
-.. sidebar:: ERC
+..
+    .. sidebar:: ERC
 
-  -  Leitlinien zur Reanimation
-
-  -  Aktualisierung alle 5 Jahre
-
-  -  Aktuelle Version: 2015
+        -  Leitlinien zur Reanimation
+        -  Aktualisierung alle 5 Jahre
+        -  Aktuelle Version: 2015
 
 Die für die Reanimation in Europa maßgebliche Fachgesellschaft
 ist das :dfn:`*European Resuscitation Council` (:dfn:`ERC`).
 Das ERC veröffentlicht alle fünf Jahre aktualisierte Guidelines zur Reanimation
-und verwandter Gebiete (*ERC-Guidelines*\ [318]_).
+und verwandter Gebiete (*ERC-Guidelines*).
 Die Guidelines definieren *nicht* den einzig richtigen Weg wie eine
 Reanimation ablaufen muss, allerdings sind sie als weithin akzeptierte
 Ansicht zu verstehen, wie diese sicher und effektiv durchgeführt werden
@@ -67,8 +66,6 @@ diskutiert. Die derzeit aktuelle Version der ERC-Guidelines wurde im Jahr
 (*ERC 2015*, [ERC:2015:01]_ [ERC:2015:02]_ [ERC:2015:03]_ [ERC:2015:04]_ [ERC:2015:05]_ [ERC:2015:06]_ [ERC:2015:07]_ [ERC:2015:08]_ [ERC:2015:09]_ [ERC:2015:10]_ [ERC:2015:11]_ ),
 die nächste Aktualisierung ist im Jahr 2020 zu erwarten.
 
-.. [318]
-   *engl.* *Guideline*: Leit-, Richtlinie, Empfehlung
 
 Die ERC-Leitlinien werden im Journal *Resuscitation* publiziert
 und können sowohl von der `Homepage des
@@ -115,13 +112,8 @@ Die ERC-Guidelines sind nach Themen in elf Sektionen unterteilt:
 .. rubric:: Neu oder alt?
 
 Da alle fünf Jahre eine neue Version der Richtlinien erscheint, kommt es
-gerade in der Übergangszeit\ [320]_ regelmäßig zu Verwirrungen, welche
+gerade in der Übergangszeit regelmäßig zu Verwirrungen, welche
 Versionen oder Varianten in der Praxis angewendet werden sollen.
-
-.. [320]
-   Als Übergangszeit versteht man den Zeitraum zwischen Veröffentlichung
-   einer neuen Version der Leitlinie und Implementierung durch die
-   jeweilige Organisation.
 
 *Grundsätzlich muss das gesamte Personal einer Organisation *das von der
 eigenen Organisation empfohlene* oder angepasste Schema kompetent im
@@ -131,7 +123,7 @@ Voraussetzungen gegeben sind. Dabei ist ganz besonders zu beachten, dass
 das *gesamte* Team mit der anderen oder neueren Version vertraut und die
 entsprechende Routine besitzen muss. Darüber hinaus müssen auch z. B.
 technische Gegebenheiten bedacht werden (Programmierung der AEDs, etc.).
-I. d. R. trifft der Teamleiter als Letztverantworlicher die Entscheidung,
+I. d. R. trifft der Teamleiter als Letztverantwortlicher die Entscheidung,
 er muss daher auch genau über die jeweilige Qualifikation und Routine
 seiner Teammitglieder Bescheid wissen. Ist die Durchführung einer
 anderen Variante als die von der Organisation empfohlene aufgrund der
@@ -177,14 +169,14 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
             Herzdruckmassage
 
-            [Lena Hirtler, MfG]
+            [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
             :width: 99.9%
 
             Beatmung
 
-            [Lena Hirtler, MfG]
+            [Lena Hirtler, :term:`Lizenz: MfG`]
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
@@ -192,7 +184,7 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
             Defibrillation
 
-            [Lena Hirtler, MfG]
+            [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. subfigend::
     :width: 0.3

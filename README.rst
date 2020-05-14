@@ -38,13 +38,14 @@ unter:
 Projektinfo
 ***********************************************************************
 
-`Quelltext/Organisation/index.rst`_
+`./Quelltext/Organisation/index.rst`_
 
-.. list-tables::
+.. list-table::
 
     *   -   Projektleitung
         -   Sebastian GABRIEL
     *   -   Review-Group:
+        -   ???
 
 
 ***********************************************************************

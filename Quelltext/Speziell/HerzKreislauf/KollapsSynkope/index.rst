@@ -75,7 +75,7 @@ Maßnahmen: Kollaps
 
 
 
-Vitale Bedrohung einschätzen, auf Differentialdiagnosen untersuchen, z.B.:
+Vitale Bedrohung einschätzen, auf Differentialdiagnosen untersuchen, z. B.:
 
 -   Insult
 -   Herzrhytmusstörungen
@@ -87,7 +87,7 @@ Vitale Bedrohung einschätzen, auf Differentialdiagnosen untersuchen, z.B.:
 -   …
 
 Es sind dabei alle zur Verfügung stehenden Möglichkeiten auszuschöpfen,
-z.B.:
+z. B.:
 
 -   Traumacheck (Sturz?),
 -   Neurocheck inkl. Blutzuckermessung,

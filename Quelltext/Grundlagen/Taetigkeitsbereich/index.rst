@@ -48,7 +48,7 @@ nach *Maßgabe der fachlichen und wissenschaftlichen Erkenntnisse und
 Erfahrungen* zu wahren. *Fortbildung* ist ein wichtiger Teil der
 Tätigkeit, Sanitäter haben sich daher laufend tätigkeitsrelevant
 fortzubilden. Darüber hinaus müssen die *Berufs- bzw.
-Tätigkeitspflichten* erfüllt werden (z.B. Dokumentationspflicht,
+Tätigkeitspflichten* erfüllt werden (z. B. Dokumentationspflicht,
 Verschwiegenheitspflicht, Auskunftspflicht, vgl.
 (:ref:`Thema-sanitaeter-pflichten`).
 

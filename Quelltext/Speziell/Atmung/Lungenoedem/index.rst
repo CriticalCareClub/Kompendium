@@ -33,7 +33,7 @@ beim kardialen Lungenödem kommt noch das begleitende Herzproblem dazu.
 
 -  Arten
 
-   -  *Kardial*: (Links-)Herzinsuffizienz (Blutrückstau); z.B. bei MCI,
+   -  *Kardial*: (Links-)Herzinsuffizienz (Blutrückstau); z. B. bei MCI,
       zusätzlicher Belastung bei vorgeschädigtem Herz (Infekt), …
 
    -  *Toxisch*: Inhalation giftiger Substanzen
@@ -161,7 +161,7 @@ SAMPLER: Lungenödem
 
 **P**
     Häufig berichten die Patienten über Herz-Kreislauferkrankungen wie
-    z.B. Herzinsuffizienz, Z.n. Herzinfarkt, Bluthochdruck oder
+    z. B. Herzinsuffizienz, Z.n. Herzinfarkt, Bluthochdruck oder
     Herzklappenerkrankungen.
 
 **E**

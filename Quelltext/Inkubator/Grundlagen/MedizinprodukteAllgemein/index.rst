@@ -127,7 +127,7 @@ Verpackungsmaterial lässt sich *aufschälen*, d.h. die Oberseite lässt
 sich von der Unterseite ablösen. Dabei darf das Material nicht
 kontaminiert werden.
 
-Manche vorgefertigten Sets (z.B. für diverse chirurgische Eingriffe)
+Manche vorgefertigten Sets (z. B. für diverse chirurgische Eingriffe)
 werden nicht in foliierten Verpackungen ausgeliefert, sondern sind in
 mehrere Lagen von Spezialpapier eingewickelt. Das Spezialpapier darf nur
 an der Außenseite angefasst werden und wird auf einer Fläche
@@ -155,7 +155,7 @@ Abschnitten:
 -  Beatmungshilfsmittel
 
    -  Beatmungsbeutel :ref:`Thema-beatmungsbeutel`
-      
+
    -  Beatmungsgeräte :ref:`Thema-beatmungsgeraete`
 
    -  PEEP-Ventil :ref:`Thema-peep-ventil`
@@ -227,7 +227,7 @@ Abschnitten:
    wobei … Medikamente fallen nicht darunter.
 
 .. [103]
-   Insbesonders jede Fehlfunktion, aber auch z.B. jeden Mangel in Bezug
+   Insbesonders jede Fehlfunktion, aber auch z. B. jeden Mangel in Bezug
    auf die Kennzeichnung oder die Gebrauchsanweisung, die zum Tod oder
    zu einer schwerwiegenden Schädigung eines Patienten, Anwenders oder
    eines Dritten führen können oder geführt haben

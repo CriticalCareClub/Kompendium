@@ -74,7 +74,7 @@ Anmerkung
 Sollten Zweifel bestehen, ob es sich um einen Abort handelt, sollte die
 Verdachtsdiagnose *“V.a. Abort”* *vermieden* werden, um die Patientin
 nicht – möglicherweise unnötig – zu beunruhigen. Stattdessen sollte man
-eine korrekte Symptombeschreibeung als Verdachtsdiagnose verwenden, z.B.
+eine korrekte Symptombeschreibeung als Verdachtsdiagnose verwenden, z. B.
 *“Vaginale Blutung in 5. SSW”*.
 
 Sollten Zweifel hinsichtlich der Lebensfähigkeit des Kindes bestehen,

@@ -32,7 +32,7 @@ Dosisabweichung im Mikrogramm-Bereich eine fatale Wirkung haben.
 
 Andererseits können Vergiftung in Abhängigkeit vom ursächlichen Stoff so
 ziemlich alle Erscheinungsformen darbieten. Oft findet man nur
-*unspezifische Symptome* vor, wie z.B. Erbrechen, Durchfall, Schmerzen
+*unspezifische Symptome* vor, wie z. B. Erbrechen, Durchfall, Schmerzen
 im Magen-Darm-Trakt, Bewusstseinsstörungen, Krampfanfälle oder
 Entgleisung der Vitalparameter. Es ist weder möglich, noch sinnvoll, auf
 sämtliche mögliche Vergiftungen im Detail einzugehen. Im Folgenden
@@ -49,11 +49,11 @@ Die Aufnahme der Substanz kann über verschiedene Wege erfolgen:
 
 -  *Inhalativ*: Einatmen
 
--  *Stechen, spritzen*: in die Vene (intravenös, z.B. Drogenkonsum), in
-   den Muskel, in die Haut (z.B. Insektenstich)
+-  *Stechen, spritzen*: in die Vene (intravenös, z. B. Drogenkonsum), in
+   den Muskel, in die Haut (z. B. Insektenstich)
 
 -  *Über die Haut*: transkutan; fettlösliche Substanz kann Hautbarriere
-   durchdringen (z.B.: organische Lösungsmittel, Insektenschutzmittel
+   durchdringen (z. B.: organische Lösungsmittel, Insektenschutzmittel
    etc.)
 
 *******************************
@@ -530,7 +530,7 @@ Beschreibung
 ^^^^^^^^^^^^
 
 Kohlendioxid ist ein farb- und geruchsloses Gas. Es ist schwerer als
-Luft und sammelt sich z.B. in Mulden, Weinkellern, Silos, etc. Es fällt
+Luft und sammelt sich z. B. in Mulden, Weinkellern, Silos, etc. Es fällt
 als Gär- oder Verbrennungsgas gehäuft in der Landwirtschaft und der
 Industrie an.
 
@@ -586,10 +586,10 @@ Typen
 -----
 
 Soforttyp
-    (z.B. Tränengas,...) Augenrötung, starker Hustenreiz
+    (z. B. Tränengas,...) Augenrötung, starker Hustenreiz
 
 Verzögerungstyp
-    (z.B. Nitrosegase) kaum Hustenreiz, Latenzphase (kaum Symptome),
+    (z. B. Nitrosegase) kaum Hustenreiz, Latenzphase (kaum Symptome),
     *3—24h später: toxisches Lungenödem*; bei
     Nichtbehandlung evtl. irreversible Lungenschäden
 

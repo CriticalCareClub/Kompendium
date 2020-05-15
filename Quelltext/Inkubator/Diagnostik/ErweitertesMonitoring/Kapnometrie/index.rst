@@ -25,7 +25,7 @@ Mit Hilfe von
 CO₂-Analysatoren kann man den prozentuellen Anteil (Volumen-) oder den
 Partialdruck (mmHg) an Kohlendioxid in der Ausatemluft messen und
 graphisch darstellen. Diese Verfahren sind wichtig, um eine *Fehllage*
-von Hilfsmitteln zur Atemwegssicherung (z.B. *Larynxtubus*
+von Hilfsmitteln zur Atemwegssicherung (z. B. *Larynxtubus*
 (:ref:`Thema-larynxtubus`), *Endotrachealtubus*
 (:ref:`Thema-intubation`)) zu erkennen bzw. auszuschließen und kann
 als Zielwert dienen um die *Beatmungsparameter* bei der Beatmung optimal
@@ -65,13 +65,13 @@ Die Kapnometrie ist die Messung des *Kohlendioxid* (CO₂),
 welche in der Regel im Exspirationsschnekel durchgeführt wird.
 Als nummerischer Wert bei der quantitaviven Messung wird die
 maximale Konzentration am Ende der Exspiration (= endtidal)
-angegeben 
+angegeben
 (*"endtidaler Kohlendioxid-Partialdruck"* **etCO₂**,
 Angabe als Partialdruck in mm Hg oder kP,
 alternativ als Konzentration in Vol.%).
 
 Die Kapno\ *graphie* ist die graphische Darstellung einer CO₂-Konzetrationskurve
-über die Zeit 
+über die Zeit
 und ermöglicht somit die Beurteilung des Verlaufs im Atemzyklus.
 Dies erlaubt Rückschlüsse auf bestimmte Störungen
 (Spastik, Mitatmen des Patienten etc.)
@@ -190,18 +190,18 @@ Die Normwerte beim gesunden Menschen liegen bei ca. 4—5%
 CO₂-Konzentration bzw. 35—40 mmHg CO₂-Partialdruck.
 
 Erhöhte Werte
-             
+
 
 deuten auf eine
 
--  *höhere CO₂-Produktion* des Körpers (z.B. bei Fieber),
+-  *höhere CO₂-Produktion* des Körpers (z. B. bei Fieber),
 
 -  auf ein *zu niedriges Atemminutenvolumen* oder
 
--  auf eine schwere *Lungenerkrankung* (z.B. COPD) hin.
+-  auf eine schwere *Lungenerkrankung* (z. B. COPD) hin.
 
 Erniedrigte Werte
-                 
+
 
 (bzw. keine Werte) bei der CO₂-Messung deuten unter anderem auf eine
 
@@ -209,7 +209,7 @@ Erniedrigte Werte
 
 -  ein *zu hohes Atemminutenvolumen* oder eine
 
--  *schlechte Lungenperfusion* z.B. in Folge einer Lungenembolie oder
+-  *schlechte Lungenperfusion* z. B. in Folge einer Lungenembolie oder
    eines erniedrigten Herzzeitvolumens hin.
 
 Ein erniedrigter Wert oder ein schlagartiger Abfall des Wertes sind ein
@@ -261,7 +261,7 @@ erreichen. Wird dieses Ziel nicht erreicht, so muss die Qualität der
 Herzdruckmassage überprüft und ggfs. verbessert werden. Sollte trotz
 hochqualitativer Herzdruckmassage der Zielwert von über 9mmHg nicht
 erreicht werden, so kann die Ursache in einer Durchblutungsstörung im
-Lungenkreislauf (z.B. aufgrund einer Lungenembolie,
+Lungenkreislauf (z. B. aufgrund einer Lungenembolie,
 :ref:`Thema-lungenembolie`) liegen. Ein plötzlicher Anstieg des etCO₂ unter
 Reanimation ist ein Hinweis auf einen *wiedererlangten Spontankreislauf*
 (ROSC) und ist als Lebenszeichen zu beurteilen.

@@ -24,7 +24,7 @@ knochenmarkschädigende Therapien und Allergien ausgeführt:
 
 -  *Knochenmarkschädigende Therapien*: Einige medizinische
    Behandlungsmethoden verursachen als Nebenwirkung eine massive
-   *Schädigung des Knochenmarks* (z.B. Bestrahlung, Chemotherapien bei
+   *Schädigung des Knochenmarks* (z. B. Bestrahlung, Chemotherapien bei
    Krebspatienten (“onkologische Patienten”), etc.). Diese Patienten
    leiden neben einer Blutarmut auch an einem schwachen Immunsystem, da
    nicht genügend weiße Blutkörperchen gebildet werden. Sie können daher
@@ -84,7 +84,7 @@ Typisch für die Grippe ist das *rasche, hohe Anfiebern (38—40°C) mit Schütt
 Gelenksschmerzen, Husten und stark reduziertem Allgemeinzustand*, sowie
 lang dauernde Abgeschlagenheit nach Ende der Erkrankung. Bei schon
 vorher geschwächten Patienten kann der Verlauf weniger spektakulär
-aussehen (z.B. kaum Fieber), das Risiko einer Komplikation ist
+aussehen (z. B. kaum Fieber), das Risiko einer Komplikation ist
 allerdings natürlich höher.
 
 
@@ -201,10 +201,10 @@ Ursachen
 --------
 
 Eine Lungenentzündung kann grundsätzlich durch eine Infektion durch
-Bakterien, Viren oder Pilze [271]_ oder eine chemische Schädigung, z.B.
+Bakterien, Viren oder Pilze [271]_ oder eine chemische Schädigung, z. B.
 als Folge einer Aspiration von Magensaft entstehen.
 
-Höheres Lebensalter begünstigt Infektionen wie z.B. Pneumonien, da
+Höheres Lebensalter begünstigt Infektionen wie z. B. Pneumonien, da
 ältere Patienten ein schwächeres Abwehrsystem haben.
 
 .. [271]
@@ -412,7 +412,7 @@ hervorgerufen werden (infektiöse, virale Hepatitis). Aber auch
 regelmäßige Schädigungen der Leber durch Giftstoffe wie Alkohol,
 Medikamente (z. B. Paracetamol), etc. können zu einer (chronischen)
 Entzündung führen. Auch ein länger bestehender Rückstau der
-Gallenflüssigkeit, z.B. bei einer Verstopfung des Gallenganges, kann zu
+Gallenflüssigkeit, z. B. bei einer Verstopfung des Gallenganges, kann zu
 einer Entzündung führen.
 
 Je nach Ursache der Hepatitis kann es vorkommen, dass es zu keiner
@@ -627,7 +627,7 @@ kommt es zu einer gesteigerten Freisetzung von Stoffen des Entzündungs-,
 Gerinnungs- und Immunsystems, welche zu den unten angeführten Symptomen
 führt. Eine derartige Reaktion des Körpers ist auch ohne Infektion im
 Rahmen eines Systemic Inflammatory Response Syndrome (SIRS) möglich,
-z.B. nach einem schweren Trauma, nach Verbrennungen oder Gewebshypoxie.
+z. B. nach einem schweren Trauma, nach Verbrennungen oder Gewebshypoxie.
 Siehe auch: Septischer Schock und Toxischer Schock
 (:ref:`Thema-schock-septischer`).
 
@@ -672,7 +672,7 @@ Teile von *Mali* ausbreitet.
 -----------
 
 Die Übertragung des Erregers erfolgt über *direkten* Kontakt mit Blut
-oder anderen *Körperflüssigkeiten* (z.B. Erbrochenes, Urin,
+oder anderen *Körperflüssigkeiten* (z. B. Erbrochenes, Urin,
 Samenflüssigkeit) von lebenden oder toten an Ebola erkrankten Menschen.
 Ansteckungsgefahr besteht auch bei direktem Kontakt mit infizierten
 lebenden oder toten *Wildtieren*, insbesondere von Flughunden und

@@ -276,7 +276,7 @@ der Infektionsgefahren bei der Wundversorgung erfolgen.
 
 -  *Verletzung wichtiger Gewebestrukturen (Organe):* Je nach betroffener
    Körperregion treten unterschiedliche Verletzungsmuster auf. Daraus
-   resultieren spezielle traumatologische Notfallbilder (z.B.
+   resultieren spezielle traumatologische Notfallbilder (z. B.
    Schädel-Hirn-Trauma, Thorax-Trauma, Bauchtrauma etc.), die in den
    folgenden Abschnitten beschrieben werden.
 
@@ -432,7 +432,7 @@ sind gefährdet:
 -  Großer Rollhügel (Trochanter maior des Oberschenkels)
 
 Gleiches gilt für alle Arten von *Fremdkörpern*, auf denen der Patient
-aufliegt, z.B. Kleidungsfalten, Schnallen, im Bett vergessenes Material,
+aufliegt, z. B. Kleidungsfalten, Schnallen, im Bett vergessenes Material,
 …
 
 Ein gesunder Mensch kann effektiv die Entstehung eines Dekubitus
@@ -475,12 +475,12 @@ bestimmt:
 
 -  *Scherkraft* und *Reibung*: Scherkräfte bewirken eine Verschiebung
    zwischen den Gewebeschichten und können ebenso zu ernsthaften
-   Schädigungen führen. Reibung, z.B. durch Ziehen des Patienten über
+   Schädigungen führen. Reibung, z. B. durch Ziehen des Patienten über
    das Bett oder einen Sessel, kann Verletzungen der oberen
    Hautschichten verursachen.
 
 -  *Gewebetoleranz*: Das Gewebe kann unterschiedlich anfällig für
-   Verletzungen und Druckgeschwüre sein. Dies ist z.B. abhängig vom
+   Verletzungen und Druckgeschwüre sein. Dies ist z. B. abhängig vom
    Alter des Patienten, Begleiterkrankungen, dem Grad der
    Bettlägrigkeit, Lähmungen und den eingenommenen Medikamenten.
 

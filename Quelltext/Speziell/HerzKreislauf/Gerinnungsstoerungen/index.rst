@@ -25,5 +25,5 @@ Gerinnungsstörungen können vielfältige Ursachen haben, beispielsweise:
 
 
 .. [246]
-   Knochenmarkschädigende medizinische Therapien: Z.B. Bestrahlung,
+   Knochenmarkschädigende medizinische Therapien: z. B. Bestrahlung,
    Chemotherapien bei Krebspatienten etc.

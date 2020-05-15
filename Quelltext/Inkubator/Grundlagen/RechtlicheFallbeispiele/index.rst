@@ -143,7 +143,7 @@ Für die erste Frage sind die Selbsthilferechte maßgebend, vgl.
 -   *Anhalterecht Privater*:
 
     *Solange keine gerichtlich strafbare Handlung (oder ein
-    entsprechender Verdacht) vorliegt (z.B. eine Körperverletzung oder
+    entsprechender Verdacht) vorliegt (z. B. eine Körperverletzung oder
     Sachbeschädigung durch einen Angriff), kann das Anhalterecht Privater
     nicht angewendet werden.*
 

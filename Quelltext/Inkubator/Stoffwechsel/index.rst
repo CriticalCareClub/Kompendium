@@ -184,7 +184,7 @@ hinweg schädigt den gesamten Körper. Es kommt zu:
 -  *Nervenschäden* (periphere Polyneuropathie): Gefühlslosigkeit vor
    allem in den Extremitäten, aber auch am gesamten Körper. Krankheiten,
    die sonst schmerzhaft sind, können beim Diabetiker aufgrund der
-   Nervenschäden ohne Schmerzen ablaufen, z.B. ein schmerzloser,
+   Nervenschäden ohne Schmerzen ablaufen, z. B. ein schmerzloser,
    *stummer Herzinfarkt*.
 
 -  *Augenschäden*: Bis hin zur Erblindung
@@ -211,7 +211,7 @@ Hypoglykämie sind *Diätfehler* und/oder eine *Überdosierung von Insulin*
 oder bestimmten anderen Diabetes-Medikamenten. Aufgrund besonderer
 *Anstrengungen* kann es zu einem gesteigerten Zuckerbedarf des Körper
 kommen, wodurch der Blutzuckerspiegel sinkt. Dies kommt häufig im Rahmen
-von Begleiterkrankungen, wie z.B. grippalen Infekten, vor. Auch die
+von Begleiterkrankungen, wie z. B. grippalen Infekten, vor. Auch die
 Alkohol-Intoxikation kann zu einer Hypoglykämie führen (Löffler and
 Petrides 2003).
 
@@ -308,7 +308,7 @@ entwickelt hat. So hat ein Patient, bei dem seit Jahren ein unerkannter
 Diabetes mellitus besteht auch mit sehr hohen Blutzuckerwerten (akut)
 keine Probleme. Der Körper hat sich über die Zeit daran *gewöhnt*.
 
-Ein anderer Patient, bei dem der Zustand plötzlich eingetreten ist (z.B.
+Ein anderer Patient, bei dem der Zustand plötzlich eingetreten ist (z. B.
 Erstmanifestation eines Diabetes mellitus Typ I bei einem 19-jährigen,
 oder wenn das Insulin nicht gespritzt wurde, …), kann mit dem gleichen
 Blutzuckerwert bereits im Koma liegen.
@@ -342,7 +342,7 @@ Bei Patienten, die einen noch unerkannten DM Typ I haben, ist ein
 hyperglykämischer Notfall oft die Erstmanifestation (die Diagnose
 Diabetes ist noch nicht bekannt!). Sonst sind Diätfehler oder eine
 mangelnde Insulinzufuhr häufige Ursachen. Auch Stress und
-Begleiterkrankungen wie z.B. akute Infektionen kommen in Betracht, da
+Begleiterkrankungen wie z. B. akute Infektionen kommen in Betracht, da
 hier der Insulinbedarf steigt.
 
 -  Erstmanifestation eines DM Typ I

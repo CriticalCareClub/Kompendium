@@ -49,7 +49,7 @@ Anatomie und Physiologie. :ref:`Table-altersgruppen-kinder` zeigt eine
     -  Kinder sind keine kleinen Erwachsenen!
 
 Übersicht: AltersgruppenIn der Literatur kommt es gelegentlich zu
-abweichenden Definitionen. So ist z.B. in den ERC-Richtlinien zur
+abweichenden Definitionen. So ist z. B. in den ERC-Richtlinien zur
 Reanimation ein Neugeborenes nur bis unmittelbar nach der Geburt als
 solches klassifiziert.
 

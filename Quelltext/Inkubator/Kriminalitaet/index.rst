@@ -58,7 +58,7 @@ Dementsprechend sieht man sich einem “unvorbereiteten”, zumeist
 verstörtem Opfer gegenüber. Das folgende Verhalten des Opfers kann
 äußerst unterschiedlich sein und von Weinkrämpfen bis hin zur
 scheinbaren Teilnahmslosigkeit reichen. Diese Reaktionen sind das
-Ergebnis von Bewältigungsstrategien der menschlichen Psyche (z.B.
+Ergebnis von Bewältigungsstrategien der menschlichen Psyche (z. B.
 Verdrängung etc.). Aus dem anfänglichen Verhalten können keine
 Rückschlüsse auf das Ausmaß des seelischen Traumas gezogen werden!
 
@@ -335,7 +335,7 @@ vor Ort zu erkennen und entsprechende Maßnahmen in die Wege zu leiten.
 Eine ausführliche Dokumentation ist im Verdachtsfall sehr wichtig!
 
 Nebstbei muss auch nicht jede Vernachlässigung strafrechtlich relevant
-sein; sie kann z.B. bei *Überforderung* der Angehörigen auftreten. Auch
+sein; sie kann z. B. bei *Überforderung* der Angehörigen auftreten. Auch
 dann ist das rasche Reagieren wichtig, damit sowohl den Angehörigen, als
 auch dem Pflegling geholfen werden kann!
 

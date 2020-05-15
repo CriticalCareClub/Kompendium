@@ -86,7 +86,7 @@ der Leiche* und die *Totenstarre*. Längere Zeit nach dem Tod treten die
 
 Die Feststellung der Todeszeichen und Leichenerscheinungen ist jedoch
 oft nicht so einfach, die Anzeichen können oft auch mit anderen Sachen
-verwechselt werden, z.B. Totenflecke mit Blutergüssen oder die
+verwechselt werden, z. B. Totenflecke mit Blutergüssen oder die
 Totenstarre mit einem tonischen Krampf.
 
     -  Es gibt sichere Todeszeichen, das Erkennen dieser Zeichen ist

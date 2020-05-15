@@ -33,19 +33,19 @@ neurologischer Störungen, ohne Anspruch auf Vollständigkeit:
    das Denkvermögen …
 
 -  *Stoffwechselstörungen* welche Einfluss auf das Nervensystem nehmen,
-   z.B. Zuckerentgleisungen
+   z. B. Zuckerentgleisungen
 
--  *Infektionen* können das Nervensystem beeinflussen, z.B. Verwirrtheit
+-  *Infektionen* können das Nervensystem beeinflussen, z. B. Verwirrtheit
    bei Fieber
 
 -  *Alter* beeinflusst auch das Nervensystem, im Rahmen einer Demenz
-   kommt es z.B. zum Abbau der Denkleistung
+   kommt es z. B. zum Abbau der Denkleistung
 
 -  *Krampfanfälle* können vom zentralen Nervensystem ausgehen
 
 -  *Erkrankungen des Stützapparates* Aufgrund der räumlichen Nähe zum
    Stütz- und Bewegungsapparates kann das Nervensystem in
-   Mitleidenschaft gezogen werden, z.B. bei Bandscheibenvorfällen
+   Mitleidenschaft gezogen werden, z. B. bei Bandscheibenvorfällen
 
 
 .. rubric:: Querverweise
@@ -73,7 +73,7 @@ Ab einem gewissen Punkt können auch so wesentliche Funktionen wie der
 Mageninhalt, Speichel oder Blut in die Lunge gelangen (*Aspiration*).
 Man spricht auch vom *Ausfall der Schutzreflexe*. Bei schweren
 Bewusstseinsstörungen kann es auch zum Erschlaffen wichtiger Muskeln wie
-z.B. der Zunge kommen. Fällt diese zurück, kann sie zurückfallen und den
+z. B. der Zunge kommen. Fällt diese zurück, kann sie zurückfallen und den
 *Atemweg verlegen*. Dabei ist manchmal ein dem *Schnarchen ähnliches*
 Atemgeräusch zu vernehmen.
 
@@ -393,7 +393,7 @@ werden können:
     anschließendem Absterben der versorgten Hirnregion
 
 -   *:dfn:`Blutiger Insult` :index:`\ <! Blutiger Insult>`*:
-    *Hirnblutung*, z.B. durch
+    *Hirnblutung*, z. B. durch
     Platzen eines Aneurysmas eines Hirngefäßes, kann spontan oder
     aufgrund eines Traumas auftreten.
 
@@ -448,7 +448,7 @@ können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
    anderen Seite kann die Sprache zwar erhalten, aber das
    Sprach\ *verständnis* geschädigt sein.
 
--  *Wahrnehmung*: Es kann zu Wahrnehmungsstörungen wie z.B.
+-  *Wahrnehmung*: Es kann zu Wahrnehmungsstörungen wie z. B.
    *Sehstörungen*, plötzliche Erblindung, Doppelbilder,
    Gesichtsfeldausfälle kommen.
 
@@ -456,7 +456,7 @@ können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
    bei Insult-Patienten immer erwartet werden. Der Bewusstseinszustand
    kann sich auch plötzlich verschlechtern.
 
--  *Allgemein*: Weiters können unspezifische Symptome wie z.B. Schwindel
+-  *Allgemein*: Weiters können unspezifische Symptome wie z. B. Schwindel
    und Kopfschmerzen auftreten. Ein plötzlicher, *donnerschlagartiger
    Kopfschmerz* ist ein klassisches Symptom für eine spontane
    Hirnblutung.
@@ -721,7 +721,7 @@ Grunderkrankungen sind im Folgenden aufgeführt:
 
 -  *Hirnblutung*
 
--  *Sauerstoffmangel*: z.B. Kollaps, Ischämie aufgrund eines
+-  *Sauerstoffmangel*: z. B. Kollaps, Ischämie aufgrund eines
    Gefäßverschlusses
 
 -  *Zuckerstoffwechselstörung*: Der Dauerbrenner. Eine
@@ -742,7 +742,7 @@ Fokaler Anfall
 ==============
 
 Der Krampfanfall ist auf eine Körperregion
-beschränkt, z.B. auf eine Hand. Der Patient kann bei Bewusstsein sein.
+beschränkt, z. B. auf eine Hand. Der Patient kann bei Bewusstsein sein.
 Ein fokaler Anfall kann sich ausweiten und in einen generalisierten
 Anfall übergehen.
 
@@ -821,7 +821,7 @@ Status Epilepticus
 Der Status Epilepticus ist eine lebensgefährliche Steigerung des
 generalisierten Krampfanfalls. Er besteht dann, wenn der Anfall nicht
 nach kurzer Zeit vergeht oder innerhalb kurzer Abstände mehrere Anfälle
-auftreten (z.B. 2 oder mehr Anfälle innerhalb von 24 Stunden). Der
+auftreten (z. B. 2 oder mehr Anfälle innerhalb von 24 Stunden). Der
 Krampf muss dann mit Medikamenten durchbrochen werden.
 
 -  Lange Dauer
@@ -964,7 +964,7 @@ Probleme mit der Wirbelsäule: Lumbago, Lumbo-ischialgie und Bandscheibenvorfall
 Symptome
 ========
 
-Verschiedene Ursachen wie z.B. eine Nervenreizung, ein
+Verschiedene Ursachen wie z. B. eine Nervenreizung, ein
 Bandscheibenvorfall (siehe unten), Erkrankungen der Wirbelsäule oder ein
 Unfall können zu einem Druck auf den *Ischias-Nerv* führen, welcher
 starke Schmerzen im Bereich der Lendenwirbelsäule (LWS) verursachen
@@ -975,7 +975,7 @@ Symtomatik nennt man *Ischialgie* bzw. *Lumbalgie*. Bei plötzlichem
 Auftreten spricht man von Lumboischialgie (:dfn:`Lumbago` :index:`\ <! Lumbago>`)
 oder umgangssprachlich vom *Hexenschuss*.
 
-Bei vorgeschädigten Bandscheiben (z.B. durch jahrelange Fehlhaltung oder
+Bei vorgeschädigten Bandscheiben (z. B. durch jahrelange Fehlhaltung oder
 durch falsches Heben großer Lasten) kann es zu einer (plötzlichen)
 Verschiebung des Bandscheibenkerns in Richtung Rückenmark und somit zu
 einem Druck auf dieses kommen. Dieser Druck verursacht ebenfalls

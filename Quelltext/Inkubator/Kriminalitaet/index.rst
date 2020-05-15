@@ -8,22 +8,13 @@ Opfer von Kriminalität, Misshandlung und Vernachlässigung (#64)
 
     |Text-InkubatorInhalt|
 
-:Maintainer:
-    Sebastian Gabriel
-
-:Autoren:
-    Diverse
-
-:Reviewer:
-    Standard-Reviewprozess
+.. sectionauthor:: ???
 
 
 .. rubric:: Querverweise
 
 -   Anzeigepflicht: :ref:`Thema-anzeigepflicht`
-
 -   Anzeigerecht: :ref:`Thema-anzeigerecht`
-
 -   Dokumentation: :ref:`Thema-dokumentation-rechtlich`, :ref:`Thema-dokumentation-medizinisch`
 
 *************************************************************
@@ -52,8 +43,8 @@ geschlechtlichen Handlung, nötigt. [279]_
 Geschlechtliche Nötigung
 ------------------------
 
-Eine Geschlechtliche Nötigung begeht, wer – außer in den Fällen von
-Vergewaltigung – eine Person mit Gewalt oder durch gefährliche Drohung
+Eine Geschlechtliche Nötigung begeht, wer — außer in den Fällen von
+Vergewaltigung — eine Person mit Gewalt oder durch gefährliche Drohung
 zur Vornahme oder Duldung einer geschlechtlichen Handlung nötigt. [280]_
 
 .. [280]
@@ -68,7 +59,7 @@ verstörtem Opfer gegenüber. Das folgende Verhalten des Opfers kann
 äußerst unterschiedlich sein und von Weinkrämpfen bis hin zur
 scheinbaren Teilnahmslosigkeit reichen. Diese Reaktionen sind das
 Ergebnis von Bewältigungsstrategien der menschlichen Psyche (z.B.
-Verdrängung, etc.). Aus dem anfänglichen Verhalten können keine
+Verdrängung etc.). Aus dem anfänglichen Verhalten können keine
 Rückschlüsse auf das Ausmaß des seelischen Traumas gezogen werden!
 
 Reaktion des Fachpersonals
@@ -106,22 +97,19 @@ Maßnahmen: Vergewaltigung
 
 
 Basismaßnahmen
--   Ruhig und sachlich bleiben
--   Polizei verständigen
--   Ermöglichung von polizeilichen Ermittlungen unter Schonung des Opfers ("vermitteln")
--   Besonders wichtig: Ausführliche sachliche Erklärung aller durchzuführenden Maßnahmen
--   Symptomatische Betreuung von Begleitverletzungen
--   Keine nicht unbedingt notwendigen Untersuchungen
--   Gynäkologische Untersuchungen erst innerklinisch durch einan Fachmann mit Set zur Beweissicherung
--   Zieleinheit: Abt. f. Gynäkologie
--   weiterführende psychologische Betreuung
+    -   Ruhig und sachlich bleiben
+    -   Polizei verständigen
+    -   Ermöglichung von polizeilichen Ermittlungen unter Schonung des Opfers ("vermitteln")
+    -   Besonders wichtig: Ausführliche sachliche Erklärung aller durchzuführenden Maßnahmen
+    -   Symptomatische Betreuung von Begleitverletzungen
+    -   Keine nicht unbedingt notwendigen Untersuchungen
+    -   Gynäkologische Untersuchungen erst innerklinisch durch einan Fachmann mit Set zur Beweissicherung
+    -   Zieleinheit: Abt. f. Gynäkologie
+    -   weiterführende psychologische Betreuung
 
 
 Sexueller Missbrauch
 --------------------
-
-Beschreibung
-^^^^^^^^^^^^
 
 Sexueller Missbrauch umfasst grundsätzlich die Vornahme oder Verleitung
 zu geschlechtlichen Handlungen unter bestimmten Umständen, unter welchen
@@ -132,15 +120,15 @@ das Gesetz genießt*. Darunter fällt:
 -  Sexueller Missbrauch einer wehrlosen oder psychisch beeinträchtigten
    Person [281]_
 
--  Schwerer sexueller Mißbrauch von Unmündigen [282]_
+-  Schwerer sexueller Missbrauch von Unmündigen [282]_
 
--  Sexueller Mißbrauch von Unmündigen [283]_
+-  Sexueller Missbrauch von Unmündigen [283]_
 
 -  Sexueller Missbrauch von Jugendlichen [284]_
 
 -  Sittliche Gefährdung von Personen unter sechzehn Jahren [285]_
 
--  Mißbrauch eines Autoritätsverhältnisses [286]_
+-  Missbrauch eines Autoritätsverhältnisses [286]_
 
 Der sexuelle Missbrauch geschieht meist über lange Zeit und ist nur
 selten ein “akutes” Problem. Wichtig hierbei ist es, ihn zu erkennen und
@@ -172,7 +160,7 @@ eine ausführliche Dokumentation schon im Verdachtsfall anzufertigen.
 .. [283]
    §207. (1) Wer … eine geschlechtliche Handlung an einer *unmündigen
    Person* vornimmt oder von einer unmündigen Person an sich vornehmen
-   läßt, ist mit Freiheitsstrafe … zu bestrafen.
+   lässt, ist mit Freiheitsstrafe … zu bestrafen.
 
    (2) … (3) …
 
@@ -249,9 +237,6 @@ Missbrauch und Misshandlungen
 
 Kindesmisshandlung
 ==================
-
-Beschreibung
-------------
 
 Eine :dfn:`Kindesmisshandlung` ist die Ausübung von
 absichtlicher psychischer oder physischer Gewalt gegen Kinder. Die

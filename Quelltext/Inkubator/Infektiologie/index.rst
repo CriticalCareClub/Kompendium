@@ -8,14 +8,6 @@ Infektions- und Entzündungskrankheiten (#63)
 
     |Text-InkubatorInhalt|
 
-:Maintainer:
-    Sebastian Gabriel
-
-:Autoren:
-    Diverse
-
-:Reviewer:
-    Standard-Reviewprozess
 
 *********
 Allgemein
@@ -25,9 +17,6 @@ Allgemein
 
 Störungen des Immunsystems
 ==========================
-
-Beschreibung
-------------
 
 Störungen des Immunsystems können sowohl zu einer Überfunktion, als auch
 zu einer Insuffizienz führen. Exemplarischen seien hier
@@ -52,16 +41,6 @@ knochenmarkschädigende Therapien und Allergien ausgeführt:
    lebensbedrohlichen Zuständen wie dem anaphylaktischen Schock kommen
    (:ref:`Thema-schock-anaphylaktischer`).
 
--  Knochenmarkschädigende Therapien
-
-   -  Schädigung des Knochenmarks durch med. Therapien (Chemotherapien,
-      Bestrahlung, …)
-
-   -  Zu wenig Leukozyten
-
--  Allergien
-
-   -  Fehlgeleitete Immunreaktion gegen ungefährliche Stoffe
 
 ************************
 Alltägliche Erkrankungen
@@ -75,9 +54,6 @@ Grippe
 ======
 
 
-Beschreibung
-------------
-
 **Die :dfn:`Grippe` :index:`\ <! Grippe>` (*Influenza*) ist eine schwere, durch
 Viren verursachte Infektionskrankheit.** Die Grippe ist eine *virale*
 Erkrankung, welche je nach Patient und Virenstamm (s.u.) für den Körper
@@ -88,25 +64,18 @@ gefährdet sind ältere und immunsupprimierte Personen.
 
 Die Grippe tritt besonders in der kalten Jahreszeit, meistens als
 *Epidemie* auf. Es kann auch zum Ausbruch einer weltweiten Pandemie
-kommen, z.B. Spanische Grippe (1918, 25 Mio Tote), Asiatische Grippe
-(1957, 1 Mio Tote) und Hongkong-Grippe (1968, 800.000 Tote) [269]_.
+kommen, z. B. Spanische Grippe (1918, 25 Mio Tote), Asiatische Grippe
+(1957, 1 Mio Tote) und Hongkong-Grippe (1968, 800 000 Tote) [269]_.
+
+
+.. [269]
+   http://de.wikipedia.org/wiki/Influenza
+
 
 In Österreich erkranken pro Jahr ca. 380.000 Personen an der Influenza,
-ca. 4.500 Personen müssen stationär behandelt werden und ca. 120
-Personen sterben an den Folgen(Strauss and Fülöp, n.d.).
+ca. 4 500 Personen müssen stationär behandelt werden und ca. 120
+Personen sterben an den Folgen [Strauss:0000]_\ .
 
--  Viral
-
--  Sehr belastend für Körper
-
--  Schwere Komplikationen möglich
-
--  Epidemien (“Grippewelle”)
-
-    -  Da es sich bei der Grippe um eine durch Viren verursachte
-       Krankheit handelt sind *Antibiotika wirkungslos*.
-
-    -  Die Grippe tritt in Wellen auf und kann tödlich enden.
 
 Symptome
 --------
@@ -118,11 +87,6 @@ vorher geschwächten Patienten kann der Verlauf weniger spektakulär
 aussehen (z.B. kaum Fieber), das Risiko einer Komplikation ist
 allerdings natürlich höher.
 
--  Hohes Fieber
-
--  Stark reduzierter Allgemeinzustand
-
--  Gelenksschmerzen
 
 
 Wichtige Differentialdiagnosen
@@ -131,15 +95,14 @@ Wichtige Differentialdiagnosen
 Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden
 und auf Meningismus-Zeichen geprüft werden (:ref:`Thema-meningismuszeichen`).
 
--  Meningitis – Meningismus-Zeichen
 
 Stämme
 ------
 
-Grippeviren kommen in verschiedenen Stämmen (???, und ) vor, welche
-wiederum durch unterschiedliche Arten von Hämagglutinin (???) und
-Neuramidase (???) unterschieden werden. Dadurch kommen so klingende Namen
-wie “” oder “” zu Stande. Je nach Unterart verhalten sich die Viren
+Grippeviren kommen in verschiedenen Stämmen (A, B, und C) vor,
+welche wiederum durch unterschiedliche Arten von Hämagglutinin (H) und
+Neuramidase (N) unterschieden werden. Dadurch kommen so klingende Namen
+wie "A(H5N1) oder A(H1N1) zu Stande. Je nach Unterart verhalten sich die Viren
 anders und man beobachtet Unterschiede hinsichtlich der
 Ansteckungsgefahr, Schwere der Erkrankung usw.
 
@@ -156,14 +119,10 @@ und Personen die einem erhöhten Infektionsrisiko ausgesetzt sind
 Impfung hat einen schlechten Ruf, da Geimpfte häufig über leichtes
 Fieber oder leichte Verkühlungen ein paar Tage nach der Impfung klagen.
 
--  Schutzimpfung für *vorhergesagten* Virenstamm der Saison
 
--  Kein 100%iger Schutz
+[Gallaher:2009]_ [Cutler:2009]_ [Peiris:2009]_ [Wolf:2009]_
 
--  Vorhersage kann falsch sein
 
-(Gallaher 2009; Virus Investigation Team et al. 2009; Peiris, Poon, and
-Guan 2009; Wolf and Brodt 2009; Cutler et al. 2009)
 
 Schweinegrippe, Vogelgrippe
 ---------------------------
@@ -182,7 +141,7 @@ zwar vom Tier auf den Menschen und dann weiter auf den Menschen
 infektiös oder zeigten keinen besonders schweren Verlauf.
 
 Einerseits stellt der mögliche Übertragungsweg vom Tier auf den Mensch
-und von dort auf andere Menschen (*Tier-Mensch-Menach-Übertragung*) eine
+und von dort auf andere Menschen (*Tier-Mensch-Mensch-Übertragung*) eine
 ständige Gefahr dar. Andererseits ist das Risiko einer möglichen
 *Kreuzung* mit Stämmen, die sehr infektiös und schwer verlaufend sind,
 gefährlich. Dies kann passieren wenn ein Patient mit mehreren Stämmen
@@ -197,24 +156,9 @@ junge Menschen infiziert wurden.
 
 Man darf gespannt sein was die Zukunft bringt …
 
--  Keimreservoir: Tiere
-
--  Gefahr: Kreuzung von Virenstämmen
-
--  Gefahr: Mensch-Mensch-Übertragung
-
-    -  Die große Gefahr ist die Entwicklung eines hoch infektiösen und
-       schwer verlaufenden Stammes, welcher eine
-       Tier-Mensch-Mensch-Übertragung aufweist.
-
-    -  Eine rasche Isolierung der Infizierten soll die
-       Wahrscheinlichkeit einer bösartigen Kreuzung minimieren!
 
 Grippaler Infekt
 ================
-
-Beschreibung
-------------
 
 Die Verkühlung ist eine Infektion der oberen Luftwege mit Viren,
 allerdings mit anderen als bei der “echten Grippe” (Influenza). Die
@@ -224,10 +168,14 @@ rinnende oder verstopfte Nase und eine eher leicht erhöhte Temperatur.
 In der Folge kann sich die Schleimhaut der Nasennebenhöhlen entzünden,
 man spricht dann von einer *Nebenhöhlenentzündung*, welche oft
 langwierig und schmerzhaft sein kann. Im Nasenrachen mündet die
-*Ohrtrompete*\  [270]_, die für den Druckausgleich des Ohres sorgt. Bei
+*Ohrtrompete*\ [270]_, die für den Druckausgleich des Ohres sorgt. Bei
 Verstopfung dieses Kanals kommt es zu einer Abflussbehinderung und somit
 zu einem Rückstau des Sekrets in das Mittelohr. Hierdurch kann es zu
 Ohrenschmerzen und einer Entzündung kommen.
+
+.. [270]
+   (Tuba auditiva, Eustachische Röhre)
+
 
 Wichtige Differentialdiagnosen
 ------------------------------
@@ -238,7 +186,6 @@ und auf Meningismus-Zeichen geprüft werden (:ref:`Thema-meningismuszeichen`).
 -  Meningitis – Meningismus-Zeichen
 
 .. _Thema-lungenentzuendung:
-
 .. _thema-pneumonie:
 
 Lungenentzündung (Pneumonie)
@@ -260,9 +207,9 @@ als Folge einer Aspiration von Magensaft entstehen.
 Höheres Lebensalter begünstigt Infektionen wie z.B. Pneumonien, da
 ältere Patienten ein schwächeres Abwehrsystem haben.
 
--  Infektiös: Bakterien, Viren, Pilze
+.. [271]
+   (häufig bei HIV/Immunsuppression)
 
--  Chemische Schädigung: z.B. nach Aspiration
 
 Symptome
 --------
@@ -274,11 +221,6 @@ leichte Atemnot. *Fieber* kann, muss aber nicht vorhanden sein.
 Besonders ältere Menschen fiebern selbst bei schwereren Erkrankungen
 kaum an.
 
--  uncharakteristisch:
-
-   -  leichte Atemnot, Husten, :math:`\pm` Fieber
-
--  Reduzierter Allgemeinzustand (AZ)
 
 .. _IJ18090C:
 .. _m-pneumonie:
@@ -305,8 +247,6 @@ Nicht alltägliche Erkrankungen
 Tuberkulose
 ===========
 
-Beschreibung
-------------
 
 Die :dfn:`Tuberkulose` :index:`\ <! Tuberkulose>` (*Abk.* :dfn:`Tbc` :index:`\ <! Tbc>`,
 *umgs.* Schwindsucht) ist eine bakterielle Erkrankung, welche praktisch
@@ -315,16 +255,14 @@ Der Verlauf wird vor allem davon bestimmt,
 welches Organ befallen ist (Lunge, Skelett, Darm, Haut, Genitalien,
 ...). Ausgangspunkt ist fast immer die *Lunge*. Die Übertragung erfolgt
 vor allem *aerogen*, aber unter Umständen auch oral, durch Hautkontakt
-oder plazentär. Die Inkubationszeit beträgt 4–12 Wochen.
+oder plazentär. Die Inkubationszeit beträgt 4—12 Wochen.
 
 Zunehmend treten auf Antibiotika resistente Erreger auf (MDR-TB,
 XDR-TB) [272]_.
 
--  Bakterielle Erkrankung
+.. [272]
+   Quelle: AGES
 
--  Fast alle Organe können befallen werden
-
-   Meist: Lunge
 
 Symptome
 --------
@@ -335,13 +273,6 @@ Auffallend ist manchmal die Schwere des Hustens, Blutbeimengungen gelten
 als Alarmsignal. In der Anamnese ist mitunter eine bereits überstandene
 Tuberkulose erhebbar.
 
--  Husten, Bluthusten
-
--  Erhöhte Temperatur
-
--  *Nachtschweiß, Lymphknotenschwellung*
-
--  Anamnese!
 
 Offene Tuberkulose
 ------------------
@@ -355,9 +286,7 @@ Es ist äußerlich *nicht sicher erkennbar* ob der Patient an einer
 offenen oder geschlossenen Tuberkulose leidet. Bluthusten wäre
 allerdings ein deutlich Hinweiszeichen.
 
--  Infektionsherd hat Luftkontakt
 
--  Tröpfcheninfektion möglich
 
 Ansteckungsgefahr
 -----------------
@@ -366,6 +295,12 @@ Bei Einhaltung der Schutzmaßnahmen (s. Spezielle Maßnahmen) ist eine
 Ansteckung von sonst gesunden und immunkompetenten Personal
 unwahrscheinlich. Für eine Ansteckung wäre ein ca. 8-stündiger Kontakt
 erforderlich. [273]_
+
+
+.. [273]
+   National Institute for Clinical Excellence (NICE) Tuberculosis.
+   National clinical Guideline for Diagnosis, management, prevention and
+   control (2006)
 
 
 .. _IA16091C:
@@ -413,13 +348,6 @@ versterben kann:
 Abhängig von der durchgeführten Therapie bricht das AIDS einige Jahre
 nach der eigentlichen HIV-Infektion aus.
 
--  HIV
-
--  AIDS → Folgeerkrankungen
-
-   -  Infektionen
-
-   -  Tumore
 
 .. figure:: /Bilder/WikipediaPd/Niaid-hiv-virion-mod.*
 
@@ -437,9 +365,6 @@ als klassische Risiken. Es erfolgt *keine Übertragung durch normale
 Sozialkontakte* wie Händeschütteln, wohnen im gemeinsamen Haushalt,
 gemeinsame Benutzung von Geschirr und Toilettenanlagen, etc.
 
--  Körperflüssigkeiten
-
--  *Nicht* durch normale Sozialkontakte
 
 Test
 ----
@@ -447,8 +372,6 @@ Test
 Erst nach 6—12 Wochen sind Antikörper nachweisbar. Das
 bedeutet, dass der *HIV-Test nicht “aktuell”, sondern “12 Wochen blind”*
 ist!
-
--  Erst einige Wochen nach Infektion aussagekräftig
 
 Therapie
 --------
@@ -470,11 +393,7 @@ Nadelstichverletzung kann innerhalb von zwei Stunden eine
 Sexualkontakten stellt die Verwendung von Kondomen einen effektiven,
 wenn auch keinen 100%-igen Schutz dar.
 
--  Allgemeine Selbstschutzmaßnahmen
 
--  Postexpositionsprohylaxe bei Nadelstichverletzungen
-
--  Kondome
 
 .. _Thema-hepatitis-toxisch:
 .. _Thema-hepatitis:
@@ -491,7 +410,7 @@ verschiedene Erreger oder durch schädigende Substanzen.** Diese
 Entzündung kann durch Erreger wie Viren, oder Mikroorganismen
 hervorgerufen werden (infektiöse, virale Hepatitis). Aber auch
 regelmäßige Schädigungen der Leber durch Giftstoffe wie Alkohol,
-Medikamente (z.B. Paracetamol), etc. können zu einer (chronischen)
+Medikamente (z. B. Paracetamol), etc. können zu einer (chronischen)
 Entzündung führen. Auch ein länger bestehender Rückstau der
 Gallenflüssigkeit, z.B. bei einer Verstopfung des Gallenganges, kann zu
 einer Entzündung führen.
@@ -526,22 +445,7 @@ dann von der :dfn:`Leberzirrhose` :index:`\ <! Leberzirrhose>`\ :ref:`Thema-lebe
 Schließlich kann es zu einem Leberversagen und in kurzer Folge zum Tod
 kommen, da die Leber ein überlebenswichtiges Organ ist.
 
--  uncharakteristische Allgemeinsymptome (grippale Symptome,
-   Appetitlosigkeit)
 
--  Schmerzen im re. Oberbauch
-
--  Gelbfärbung Augen/Haut (Ikterus )
-
--  Vergrößerte, schmerzhafte Leber
-
--  Ikterus (Gelbsucht)
-
--  Unterscheide *akut* und *chronisch*
-
-   -  Chronisch: wenn Hepatitis nicht abheilt
-
--  Ende: Leberversagen, Tod
 
 Verschiedene Arten der viralen Hepatitis
 ----------------------------------------
@@ -549,69 +453,41 @@ Verschiedene Arten der viralen Hepatitis
 Abhängig vom jeweiligen Virus unterscheidet man verschiedene Arten der
 viralen Hepatitis:
 
-!!! TABELLE WEIT Übersicht der wichtigsten viralen Hepatitis-Arten
+- *Hepatitis-A*: Hepatitis-A-Virus (HAV)
 
-| p3cmp-4cm **Typ** & **Bemerkungen**
-| *Hepatitis-A*
+   -  Inkubationszeit 10 - 40 Tage
+   -  typische Reisekrankheit (Mittelmeerraum, Südamerika, Orient), meist
+      epidemisch,
+   -  Dauer einige Wochen,
+   -  kein Übergang in chronischen Verlauf
 
-Hepatitis-A-Virus (HAV) &
 
--   Inkubationszeit 10 - 40 Tage
+- *Hepatitis-B*: Hepatitis-B-Virus (HBV)
 
--  typische Reisekrankheit (Mittelmeerraum, Südamerika, Orient), meist
-   epidemisch,
+   -  Inkubationszeit 4 - 12 Wochen,
+   -  meist sporadisches Auftreten
+   -  Übertragung durch Speichel, Blut(produkte), Sperma und andere
+      Körperflüssigkeiten,
+   -  chronischer Verlauf in ca. 5 %
 
--  Dauer einige Wochen,
+- *Hepatitis C*: Hepatitis-C-Virus (HCV)
 
--  kein Übergang in chronischen Verlauf
+   -  Inkubationszeit 6—12 Wochen,
+   -  häufig nach Bluttransfusion oder i.v. Drogenabusus,
+   -  *oft chronischer Verlauf* (in 70—80 % der Fälle)
 
-|
-| *Hepatitis-B*
-
-Hepatitis-B-Virus (HBV) &
-
--   Inkubationszeit 4 - 12 Wochen,
-
--   meist sporadisches Auftreten
-
--  Übertragung durch Speichel, Blut(produkte), Sperma und andere
-   Körperflüssigkeiten,
-
--  chronischer Verlauf in ca. 5 %
-
-|
-| *Hepatitis C*
-
-Hepatitis-C-Virus (HCV) &
-
--   Inkubationszeit 6 - 12 Wochen,
-
--  häufig nach Bluttransfusion oder i.v. Drogenabusus,
-
--  *oft chronischer Verlauf* (in 70 – 80 % der Fälle)
-
-|
 
 Impfung
 -------
 
-Für die Hepatitis A und B ist eine Impfung verfügbar (z.B. Twinrix). Für
+Für die Hepatitis A und B ist eine Impfung verfügbar (z. B. Twinrix). Für
 die Hepatitis C ist derzeit noch keine Impfung regulär am Markt. Gegen
 die toxischen Formen der Hepatitis gibt es natürlich auch keine Impfung.
 Achtung: Es gibt Non-Responder!
 
--  Für Hep. A & B
-
--  Nicht für Hep. C
-
-    -  Für den Rettungsdienst sind besonders die Hepatitis B und C
-       wichtig: Hohe Infektiosität, chronischer Verlauf!
-
-    -  Gegen Hepatitis C gibt es derzeit keine Impfung!
-
-    -  Für Risikopersonal (dazu zählt auch Sanitätspersonal) übernimmt
-       i.d.R. die Unfallversicherungsanstalt die Kosten für die
-       Schutzimpfung.
+Für Risikopersonal (dazu zählt auch Sanitätspersonal) übernimmt
+i. d. R. die Unfallversicherungsanstalt die Kosten für die
+Schutzimpfung.
 
 **********************************
 Seltene, aber schwere Erkrankungen
@@ -622,8 +498,6 @@ Seltene, aber schwere Erkrankungen
 Infektiöse Meningitis
 =====================
 
-Beschreibung
-------------
 
 **Die infektiöse :dfn:`Meningitis` :index:`\ <! Meningitis>` ist eine Entzündung der
 Hirnhäute aufgrund einer Infektion mit Krankheitserregern.** Sie ist ist
@@ -632,11 +506,6 @@ andererseits rasch tödlich enden kann. Als Krankheitserreger treten
 zumeist Bakterien oder Viren auf. Gefährdet sind grundsätzlich alle
 Altersgruppen, besonders aber Kinder, Jugendliche und alte Menschen.
 
--  Infektion und Entzündung der Hirnhäute
-
--  V.a. Bakterien und Viren
-
--  Hochinfektiös und gefährlich
 
 .. _Thema-meningismuszeichen:
 
@@ -654,20 +523,10 @@ kommen, am Körper bilden sich dann dunkle Hämatome. Einer der häufigsten
 Erreger sind die Meningokokken (Bakterien), man spricht dann von einer
 Meningokokken-Meningitis.
 
--  Fieber, Kopfschmerzen
+Verwechslungsgefahr mit “normalem Infekt”!
 
--  Nackensteifigkeit
-
--  Lichtscheu
-
--  Erbrechen, Übelkeit
-
--  Hämatome am ganzen Körper (im Endstadium)
-
--  Verwechslungsgefahr mit “normalem Infekt”!
-
-    -  Die Meningitis wird aufgrund der unspezifischen Symptome oft mit
-       einem einfachen grippalen Infekt oder einer Grippe verwechselt!
+-  Die Meningitis wird aufgrund der unspezifischen Symptome oft mit
+   einem einfachen grippalen Infekt oder einer Grippe verwechselt!
 
 -  Jeder fiebernde Patient ist auf Meningismus-Zeichen zu untersuchen!
 
@@ -698,9 +557,6 @@ Wundstarrkrampf (Tetanus)
 =========================
 
 
-Beschreibung
-------------
-
 Der Erreger des Wundstarrkrampfes [274]_ kommt *überall in der Umgebung*
 vor. Bei Verletzungen können durch Kontamination diese Sporen in die
 Wunde kommen. Bei ungünstigen Wundverhältnissen (*anaerobe*
@@ -708,12 +564,12 @@ Verhältnisse) kann es dann zu einer Infektion kommen. Der Erreger
 produziert einen Giftstoff (Toxin), welches einen tonischen Krampf der
 Skelettmuskulatur auslöst.
 Die Inkubationszeit beträgt ca. 4–21 Tage.
-Erste Vorzeichen sind Müdigkeit und Inappetenz. (Hahn et
-al., n.d.)
+Erste Vorzeichen sind Müdigkeit und Inappetenz. [HahnMikrobio:6]_
 
--  Erreger kommt überall vor
 
--  Produziert Toxin → Muskellähmung
+.. [274]
+   Sporen von *Clostridium tetani*
+
 
 Symptome
 --------
@@ -723,14 +579,9 @@ beginnend bei der Kaumuskulatur (Kiefersperre, Teufelsgrinsen (*Risus
 sardonicus*)). Der Patient hat starke Schmerzen und entwickelt in Folge
 der Krämpfe eine *Atemlähmung*. Die Fortschritte der Intensivmedizin
 haben die Behandlungsmöglichkeiten verbessert, trotzdem sterben noch
-etwa 20–30% der Tetanuserkrankten. Der Wert der Impfung ist
+etwa 20—30% der Tetanuserkrankten. Der Wert der Impfung ist
 daher nach wie vor groß.
 
--  Krämpfe der Skelettmuskulatur
-
--  Schmerzen, Atemlähmung
-
--  Hohe Letalität
 
 .. figure:: /Bilder/WikipediaPd/6373_lores_tetanus.*
 
@@ -756,12 +607,9 @@ zu Hause im Impfpass nachschauen. Erforderlichenfalls soll der Patient
 unverzüglich eine Unfallabteilung aufsuchen. Die entsprechende
 Aufklärung muss am Revers bestätigt werden!
 
--  Impfschutz 5—10 Jahre
-
--  Bei Verletzung: Wenn letzte Impfung >5 Jahre: Auffrischung
 
 -  Eine mangelhafte Aufklärung oder Dokumentation bezüglich Tetanus und
-   dessen Impfschutz ist grob fahrlässig und ein unverzeihbarer
+   dessen Impfschutz ist grob fahrlässig und ein
    Kunstfehler.
 
 .. _thema-sepsis:
@@ -769,8 +617,6 @@ Aufklärung muss am Revers bestätigt werden!
 Sepsis
 ======
 
-Beschreibung
-------------
 
 Eine Sepsis liegt dann vor, wenn sich innerhalb des Körpers ein Herd
 gebildet hat, von dem kontinuierlich oder periodisch pathogene Bakterien
@@ -805,25 +651,10 @@ Grundsätzlich:
 
 -  Organversagen
 
--  Reduzierter Allgemeinzustand
-
--  Temp. (> 38°C) oder (< 36°C)
-
--  Herzfrequenz >90 / min
-
--  Atemfrequenz >20 / min oder Hyperventilation
-
--  Unkontrollierbare Gerinnung oder Blutung
-
--  Hypotonie → Septischer Schock
-
--  Organversagen
 
 Ebola
 =====
 
-Beschreibung
-------------
 
 Die :dfn:`Ebola-Viruserkrankung` :index:`\ <! Ebola-Viruserkrankung>` (:dfn:`Ebola` :index:`\ <! Ebola>`,
 *engl.* *Ebola Virus Disease*, *Abkz.* *EVD*) ist eine seltene, schwere
@@ -831,7 +662,7 @@ Infektionskrankheit, die durch Ebola-Viren verursacht wird. Diese
 erzeugen ein oft tödlich verlaufendes Fieber mit Blutungen (*hämorrhagisches* :index:`\ <Fieber!hämorrhagisches>` Fieber). Das Virus
 verursacht im ganzen Körper schwere Zell- und Gewebsschädigungen, davon
 sind auch die Blutgefäße betroffen. Je nach Virus-Typ verläuft die
-Erkrankung in 25—90 Prozent der Fälle tödlich. Es kommt
+Erkrankung in 25—90% der Fälle tödlich. Es kommt
 immer wieder zu Ausbrüche von Ebola-Epedemien. Aktuell wurde im März
 2014 der bisher größte Ausbruch in Westafrika bekannt, der sich derzeit
 auf die drei Länder *Guinea*, *Liberia* und *Sierra Leone*, sowie auf
@@ -857,7 +688,7 @@ durch Tröpfcheninfektion übertragen.
 Symptome
 --------
 
-Die Leitsymptome sind *hohes Fieber* (über 38,5) und später auch
+Die Leitsymptome sind *hohes Fieber* (über 38,5°C) und später auch
 *Blutungen*, sowohl im Körper, als auch aus den Körperöffnungen. Die
 *Inkuationszeit* beträgt 2—21 Tage. Die ersten Beschwerden
 sind unspezifisch und ähneln einem grippalen Infekt: plötzliches hohes
@@ -914,7 +745,7 @@ Kriterien
    (Jedes einzelne der folgenden Kriterien ist als Hochrisikoexposition
    anzusehen)
 
-   #. Enger Kontakt (<1m) ohne entsprechende Schutzmaßnahmen (Personal
+   #. Enger Kontakt (< 1 m) ohne entsprechende Schutzmaßnahmen (Personal
       Protective Equipment-PPE, inklusive Schutz der Augen und
       Schleimhäute) mit einem wahrscheinlichen oder bestätigten
       Ebola-Fall, mit den Symptomen Husten, Erbrechen, Durchfall oder
@@ -927,7 +758,7 @@ Kriterien
       eines wahrscheinlichen oder bestätigten Ebola-Falls kontaminiert
       ist
 
-   #. Perkutane Verletzung mit kontaminierten Gegenständen (z.B.
+   #. Perkutane Verletzung mit kontaminierten Gegenständen (z. B.
       Nadelstichverletzung)
 
    #. Schleimhautkontakt mit Körperflüssigkeiten, Geweben oder
@@ -976,19 +807,12 @@ Fallklassifizierung
 -  *Bestätigter Fall*: Eine Person, auf die die Laborkriterien
    zutreffen.
 
-!!! LITERARY !!! (Hahn et al., n.d.) (Hahn et al., n.d.)
 
-(Bundesministerium für Gesundheit 2014b) (Bundesministerium für
-Gesundheit 2014b)
-
-(Bundesministerium für Gesundheit 2014a) (Bundesministerium für
-Gesundheit 2014a)
-
+[BmgEbolaFalldefinition:20141028]_ [BmgEbolaFactsheet:20141103]_
 Eine aktualisierte Liste der betroffenen Gebiete ist auf der BMG- und
 ECDC-Website verfügbar unter:
 http://ecdc.europa.eu/en/healthtopics/ebola_marburg_fevers/EVDcasedefinition/Pages/Ebola-affected-areas.aspx
 
-!!! LITERARY !!!
 
 .. _IA98041C:
 
@@ -1007,7 +831,7 @@ Bei Vorliegen eines Verdachtsfalles müssen folgende Punkte umgehend durchgefüh
 -   Händedesinfektion
 -   Anlegen der eigenen Schutzausrüstung:
 
-    Minimum: FFP3-Maske, 2 Paar Handschuhe, Schutzbrille, Schutzanzug, Überschuhe
+    Minimum: FFP-3-Maske, 2 Paar Handschuhe, Schutzbrille, Schutzanzug, Überschuhe
 -   Rückmeldung an Leitstelle, Abwarten weiterer Anweisungen
 
 
@@ -1015,23 +839,3 @@ Das weitere Prozedere richtet sich nach den lokalen Vorgaben.
 
 
 
-.. [269]
-   http://de.wikipedia.org/wiki/Influenza
-
-
-.. [270]
-   (Tuba auditiva, Eustachische Röhre)
-
-.. [271]
-   (häufig bei HIV/Immunsuppression)
-
-.. [272]
-   Quelle: AGES
-
-.. [273]
-   National Institute for Clinical Excellence (NICE) Tuberculosis.
-   National clinical Guideline for Diagnosis, management, prevention and
-   control (2006)
-
-.. [274]
-   Sporen von *Clostridium tetani*

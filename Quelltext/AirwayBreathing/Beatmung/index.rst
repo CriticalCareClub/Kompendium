@@ -358,6 +358,12 @@ Notfallbeatmungsgeräte
 Beispiel: Medumat™ Standard
 ---------------------------
 
+.. todo:: Modernere Beatmungsgeräte vorstellen:
+
+    -   Oxylog 3000
+    -   neuer Medumat
+    -   evtl. Medumat Transport
+
 Exemplarisch sei hier das Notfallbeatmungsgerät *Medumat™ Standard* der
 Fa. Weinmann vorgestellt. Zusammen mit einem Sauerstoffmodul (*Modul
 Oxygen*, Berieselungsmodul) kann ein Patient sowohl beatmet als auch mit

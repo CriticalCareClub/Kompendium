@@ -8,11 +8,18 @@ README — Kompendium des CCCA
 Kurzinfo
 ***********************************************************************
 
-Die aktuelle Entwicklungsversion des ``master``-Zweiges findet sich
+Eine aktuelle **Preview** der Entwicklungsversion des ``master``-Zweiges findet sich
 unter:
 
 -   https://criticalcareclubaustria.gitlab.io/Ccca-Kompendium
 
+Das **Projekthandbuch** findet sich unter:
+
+-   https://criticalcareclubaustria.gitlab.io/Projekthandbuch
+
+Technische Dokumentation und Notizen findet man auch im **Wiki**:
+
+-   https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/wikis/home
 
 ::
 

@@ -2,29 +2,18 @@ image: alpine
 
 pages:
   script:
-  - apk --no-cache add file git py3-pip python-dev imagemagick6
-  - ln -s /usr/bin/convert-6 /usr/bin/convert
-  - ln -s /usr/bin/compare-6 /usr/bin/compare
-  - ln -s /usr/bin/mogrify-6 /usr/bin/mogrify
-  - ln -s /usr/bin/conjure-6 /usr/bin/conjure
-  - ln -s /usr/bin/stream-6 /usr/bin/stream
-  - ln -s /usr/bin/identify-6 /usr/bin/identify
-  - ln -s /usr/bin/montage-6 /usr/bin/montage
-  - ln -s /usr/bin/display-6 /usr/bin/display
-  - ln -s /usr/bin/composite-6 /usr/bin/composite
-  - ln -s /usr/bin/import-6 /usr/bin/import
-  - ln -s /usr/bin/animate-6 /usr/bin/animate
+  - apk --no-cache add file git py3-pip python-dev imagemagick
   - convert --version
   - pip3 install sphinx sphinxcontrib.bibtex sphinx_git
   - apk --no-cache add make
+  - git checkout snapshot
   - make html
-  - mkdir public
-  - echo "Job Done" > public/index.txt
+  - mv Export/snapshot/html public
   artifacts:
     name: "$CI_JOB_NAME-$CI_COMMIT_REF_NAME"
     expire_in: 1 week
     paths:
     - public
   only:
-  - ci-test
+  - snapshot
 

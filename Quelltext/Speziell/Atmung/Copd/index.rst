@@ -26,7 +26,7 @@ Chronische Bronchitis und COPD (#35)
 Die :dfn:`chronische Bronchitis` ist eine chronische
 entzündliche Schleimhautschädigung der unteren Atemwege.
 Die :dfn:`COPD` (:dfn:`Chronische Obstruktive`
-Lungenerkrankung [228]_ ist eine chronische entzündliche
+Lungenerkrankung) [228]_ ist eine chronische entzündliche
 Schleimhautschädigung, welche eine zunehmende obstruktive
 Atemwegseinschränkung aufweist.
 
@@ -65,14 +65,15 @@ durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
 Probleme mit Sauerstoff bei COPD-Patienten
 ==========================================
 
-.. sidebar:: COPD und O₂
+..
+    .. sidebar:: COPD und O₂
 
-    -   Atemantrieb normalerweise durch *CO₂*-Spiegel
-    -   COPD: CO₂-Spiegel dauerhaft erhöht →
-        Gewöhnungseffekt → Atemantrieb gemäß O₂-Spiegel
-    -   Problem bei Sauerstoffgabe: Verminderter Atemantrieb
-    -   Verminderte CO₂-Abatmung → Bewusstseinsstörungen
-    -   Extremfall: Atemstillstand
+        -   Atemantrieb normalerweise durch *CO₂*-Spiegel
+        -   COPD: CO₂-Spiegel dauerhaft erhöht →
+            Gewöhnungseffekt → Atemantrieb gemäß O₂-Spiegel
+        -   Problem bei Sauerstoffgabe: Verminderter Atemantrieb
+        -   Verminderte CO₂-Abatmung → Bewusstseinsstörungen
+        -   Extremfall: Atemstillstand
 
 
 Beim gesunden Menschen ist der *Atemantrieb* vom *CO₂-Gehalt* des Blutes
@@ -208,16 +209,17 @@ einem Atemstillstand kommen.
 SAMPLER: COPD
 =============
 
-.. sidebar:: SAMPLER
+..
+    .. sidebar:: SAMPLER
 
-    ``M``
-        Inhalatoren, evtl. Heimsauerstoff.
+        ``M``
+            Inhalatoren, evtl. Heimsauerstoff.
 
-    ``P``
-        COPD vorbekannt
+        ``P``
+            COPD vorbekannt
 
-    ``L``
-        Letzte Spray-Einnahme?
+        ``L``
+            Letzte Spray-Einnahme?
 
 ``M`` Medikation
     Inhalatoren bzw. Sprays zur Dauer- und Akuttherapie, Heimsauerstoff.
@@ -238,7 +240,7 @@ SAMPLER: COPD
     Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
     “Karriere” hinter sich.
 
-    [Lena Hirtler, MfG]
+    [Lena Hirtler, Lizenz: MfG]
 
 .. _m-copd-exzerbation:
 
@@ -310,6 +312,3 @@ Palliative Therapie
         Einzelfallentscheidung!
 
 
-
-
-[Knacke:200601]_

@@ -214,8 +214,6 @@ Anm.: AF < 8 oder > 30 / min, bzw. AZV zu niedrig
 Atemstillstand
 ---------------
 
--  Reanimation
-
 Bei einem mit Atemstillstand vorgefundenen Patienten ist
 grundsätzlich von einer Reanimation auszugehen.
 

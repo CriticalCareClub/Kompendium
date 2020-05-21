@@ -253,7 +253,8 @@ Bravo
 
 .. [Benninghoff:17:Bd1]
 	Benninghof und Detlev Drenckhan (HG):
-	**Anatomie.** Band 1.
+	**Anatomie.**
+	Band 1.
 	17. Auflage, 2008.
 	Elsevier.
 

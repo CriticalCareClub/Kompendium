@@ -10,15 +10,6 @@ Wunden (#75)
 Eine Wunde ist eine Unterbrechung des Zusammenhangs von Körpergeweben
 durch mechanische, thermische, Strahlen- oder chemische Einwirkungen.
 
-:Maintainer:
-    Sebastian Gabriel
-
-:Autoren:
-    Diverse
-
-:Reviewer:
-    Standard-Reviewprozess
-
 
 .. _Thema-wunden-einteilung:
 .. _Thema-wunden:
@@ -30,20 +21,36 @@ Allgemeines und Einteilung von Wunden
 Beschreibung
 ============
 
-**Eine :dfn:`Wunde` :index:`\ <! Wunde>` (*Lat.* (*Vuln.*)) ist eine
+Eine :dfn:`Wunde` :index:`\ <! Wunde>` (*Lat.* (*Vuln.*)) ist eine
 Unterbrechung des Zusammenhangs von Körpergeweben durch mechanische,
-thermische, Strahlen- oder chemische Einwirkungen (Pschyrembel
-2002).**\  [293]_ Wunden lassen
+thermische, Strahlen- oder chemische Einwirkungen [Pschy:259]_. [293]_ Wunden lassen
 sich *nach verschiedenen Gesichtspunkten* einteilen bzw. unterscheiden.
 In den folgende Abschnitten sind Einteilungen nach der physikalischen
 Verletzungsursache, nach der Tiefe der Schädigung sowie nach der Art der
 Schädigung (Wundart) angeführt.
 
+
+.. [293]
+   Wunde: Die übliche Beschreibung einer Wunde als eine Verletzung der
+   Haut ist nicht korrekt. Meist werden mehrere Gewebearten in
+   Mitleidenschaft gezogen. Definition [Pschyrembel:2002]_: Unterbrechung
+   des Zusammenhangs von Körpergeweben mit oder ohne Substanzverlust.
+
+
 Physikalische Verletzungsursache
 ================================
 
+..
+    .. sidebar:: Wunden
+
+        -  Mechanische Wunden
+        -  Thermische Wunden
+        -  Chemische Wunden
+        -  Strahlenbedingte Wunden
+
+
 Eine Einteilung bezieht sich auf die *physikalische Verletzungsursache*
-(Pschyrembel 2002 S.1796):
+[Pschy:259]_:
 
 #. :dfn:`Mechanische Wunden` :index:`\ <! Mechanische Wunden>`: Entstehen durch spitze oder
    stumpfe Gewalteinwirkung auf den Körper (Stichwunde, Schürfwunde,
@@ -60,14 +67,6 @@ Eine Einteilung bezieht sich auf die *physikalische Verletzungsursache*
    Ultraviolettstrahlung oder ionisierende Strahlung (radioaktive
    Strahlung, Röntgenstrahlung)
 
--  Mechanische Wunden
-
--  Thermische Wunden
-
--  Chemische Wunden
-
--  Strahlenbedingte Wunden
-
 Tiefe der Schädigung
 ====================
 
@@ -79,17 +78,11 @@ Gewebes vorgenommen werden.
 
 -  *Tiefe* Wunden: Neben der Verletzung der Haut können hier auch
    Muskeln, Sehnen, größere Blutgefäße, innere Organe und Knochen
-   betroffen sein (Hansak et al. 2008).
+   betroffen sein.
 
 -  *Penetrierende* Wunden: Penetrierende Wunden sind tiefe Wunden mit
-   Eröffnung mindestens einer Körperhöhle (Schädel, Thorax, Bauch)
-   (Hansak et al. 2008).
+   Eröffnung mindestens einer Körperhöhle (Schädel, Thorax, Bauch).
 
--  Oberflächliche Wunden
-
--  Tiefe Wunden
-
--  Penetrierende Wunden
 
 Zeitlicher Verlauf
 ==================
@@ -98,19 +91,14 @@ Eine weitere Unterteilung kann nach dem *zeitlichen Verlauf* getroffen
 werden:
 
 -  *Frische* Wunden (Rezente Wunden, “rec.”): Wunden innerhalb der
-   ersten 6h nach der Entstehung
+   ersten 6 h nach der Entstehung
 
 -  *Nicht frische* Wunden (Nicht rezente Wunden, “non rec.”): Wunden
-   älter als 6h
+   älter als 6 h
 
 -  *Chronische* Wunden: Wunden, welche seit langer Zeit bestehen und
    Wundheilungsstörungen aufweisen
 
--  Frische Wunden: :math:`\leq`\ 6h
-
--  Nicht-frische Wunden: :math:`>`\ 6h
-
--  Chronische Wunden
 
 
 .. index::
@@ -209,7 +197,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 .. todo:: Bild Schnittwunde
 
 .. figure:: /Bilder/HauerDavid-Ccc/stichwunde-klein.*
-    :width: 99%
+    :width: 100%
 
     Glatte Wundränder und eigentlich ganz unauffällig:
     Die Stichwunde.
@@ -217,42 +205,42 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
     *Hauer*
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.*
-    :width: 99%
+    :width: 100%
 
     Stichverletzung: unauffällig.
 
     **Dieser Patient ist lebensgefährlich verletzt!**
     (Pneumothorax)
 
-    *Hauer*
+    [David Hauer, :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/HauerDavid-Ccc/stichwunde-thorax-tief-01.*
-    :width: 99%
+    :width: 100%
 
     Stichwunde mit eröffneter Brusthöhle.
 
-    *Hauer*
+    [David Hauer, :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/HauerDavid-Ccc/burn-chem01.*
-    :width: 99%
+    :width: 100%
 
     Verätzung
 
-    *Hauer*
+    [David Hauer, :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/HauerDavid-Ccc/burn-chem02.*
-    :width: 99%
+    :width: 100%
 
     Verätzung
 
-    *Hauer*
+    [David Hauer, :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-02-hand.*
-    :width: 99%
+    :width: 100%
 
     Ablederung nach schwerer Verbrennung
 
-    *Hauer*
+    [David Hauer, :term:`Lizenz: MfG`]
 
 .. subfigend::
     :width: 0.23
@@ -298,13 +286,14 @@ der Infektionsgefahren bei der Wundversorgung erfolgen.
    Einsatzprotokoll) zu dokumentieren, wer der Besitzer des Tieres ist.
    Unter Umständen kann es notwendig sein die Polizei einzuschalten.
 
--  Verletzung wichtiger Organe
 
--  Starke Blutung
 
--  Starke Schmerzen
+.. [294]
+   Zur Verifizierung eines aufrechten Tetanus-Impfschutzes muss jede
+   Wunde einem Arzt vorgestellt werden. Eine Impfung muss spätestens
+   alle 10 Jahre aufgefrischt werden, bei entsprechenden Verletzungen
+   schon früher.
 
--  Infektion
 
 ******************************
 Wundversorgung frischer Wunden
@@ -335,7 +324,8 @@ Basismaßnahmen
     -   Wunden dürfen nicht direkt berührt werden,
         außer es ist zur raschen Blutstillung unbedingt notwendig!
         Es muss immer mit Handschuhen und mit **sterilem Material**
-        gearbeitet werden!\footnote{Bei der Wundversorgung sind
+        gearbeitet werden!
+        Bei der Wundversorgung sind
         immer sterile Materialien zu verwenden. Papierhandtücher
         o. ä. sind *nicht zulässig*! Eine Ausnahme kann
         lediglich bei der Versorgung des Stichs bei der
@@ -346,7 +336,7 @@ Basismaßnahmen
         steriler (NaCl 0,9%) von innen nach außen.
         Bei oberflächlichen
         Wunden ist auch ein Abspülen unter fließendem Leitungswasser
-        zulässig [Fernandez:2012]_ \ .
+        zulässig [Fernandez:2012]_\ .
         Wunden, die im Spital
         weiter versorgt werden, sollen nicht übermäßig gereinigt werden,
         auch soll keine
@@ -384,7 +374,7 @@ Basismaßnahmen
 
     Desinfektion einer frischen Wunde
 
-    [Lena Hirtler, MfG]
+    [Lena Hirtler, :term:`Lizenz: MfG`]
 
 
 
@@ -410,13 +400,13 @@ Lage zu ändern, kann es zum Wundliegen kommen. Die Wunden nennt man dann
 Beschreibung
 ============
 
-**:dfn:`Dekubitus` :index:`\ <! Dekubitus>`: *Wundliegen*. Bereich
+:dfn:`Dekubitus` :index:`\ <! Dekubitus>`: *Wundliegen*. Bereich
 lokalisierter Schädigung der Haut und des darunterliegenden Gewebes als
-Folge von lang anhaltendem Druck sowie Scher- und Reibungskräften.**
+Folge von lang anhaltendem Druck sowie Scher- und Reibungskräften.
 Durch den Auflagedruck des Körpers kann die Durchblutung der Haut
 abgedrückt werden. Dies geschieht dann, wenn der Druck, welcher auf der
 Körperstelle lastet, den Blutdruck in den Kapillargefäßen übersteigt
-(ca. 30mmHg). Es kommt dann zur Unterversorgung des Gewebes mit
+(ca. 30 mm Hg). Es kommt dann zur Unterversorgung des Gewebes mit
 Sauerstoff und anderen Nährstoffen. Bereits der Auflagedruck durch das
 Gewicht des eigenen Körpers auf einer Unterlage kann ausreichen um zu
 solch einer Unterversorgung zu führen. Besonders Stellen, an denen
@@ -424,11 +414,8 @@ solch einer Unterversorgung zu führen. Besonders Stellen, an denen
 sind gefährdet:
 
 -  Kreuzbein
-
 -  Fersen
-
 -  Sitzbein
-
 -  Großer Rollhügel (Trochanter maior des Oberschenkels)
 
 Gleiches gilt für alle Arten von *Fremdkörpern*, auf denen der Patient
@@ -449,17 +436,6 @@ Lagerung zu sorgen.
 des darunterliegenden Gewebes als Folge von lang anhaltendem Druck sowie
 Scher- und Reibungskräften.
 
--  Auflagedruck!
-
--  Besonders gefährdet:
-
-   -  Kreuzbein
-
-   -  Fersen
-
-   -  Sitzbein
-
-   -  Großer Rollhügel (Trochanter maior des Oberschenkels)
 
 Faktoren
 ========
@@ -488,15 +464,6 @@ bestimmt:
    bzw. die (Schmerz-) Empfindungen des Patienten sind, desto größer ist
    das Risiko für einen Dekubitus.
 
--  Druck
-
--  Zeit
-
--  Scherkraft und Reibung
-
--  Gewebetoleranz
-
--  Mobilität und Empfindungsvermögen
 
 Grade
 =====
@@ -529,32 +496,23 @@ Lagerung bei Dekubitus und zur Prophylaxe
    weichen Kissen, die unter der Körperhälfte eingebracht werden, der
    Kopf ist durch ein kleines Kissen gestützt. Bei korrekter
    Durchführung kann man leicht unter das Kreuzbein oder den Trochanter
-   des Oberschenkelknochens fassen. (Schewior-Popp, Sitzmann, and
-   Ullrich 2012)
+   des Oberschenkelknochens fassen. [ThiemesPflege:12]_
 
 -  :dfn:`135-Lagerung` :index:`\ <! 135-Lagerung>`: Von der Seitenlage ausgehend wird
    der Patient auf eine zusammengerollte Decke oder zwei Pölster
    gelagert. Die Lagerung ist korrekt, wenn der unten liegende
    Trochanter ohne Druckbelastung ist. Der unten liegende Fuß kann durch
-   einen schmalen Polster freigelagert werden. (Vasel-Biergans and
-   Probst 2011)
+   einen schmalen Polster freigelagert werden. [WundversorgungPflege:2]_
 
 -  :dfn:`5-Kissen-Weichlagerung` :index:`\ <! 5-Kissen-Weichlagerung>`: Der Patient wird komplett
    auf 5 oder mehr Pölstern gelagert. Ziel ist das Freilegen bereits
-   geschädigter Bereiche. (Schewior-Popp, Sitzmann, and Ullrich 2012)
+   geschädigter Bereiche. [ThiemesPflege:12]_
 
 -  **Bauchlage** :index:`\ <Bauchlage>`
 
 Abhängig von Begleiterkrankungen oder -verletzungen können u.U. nicht
 alle Lagerungsarten bei einem Patienten angewendet werden.
 
--  30-Lagerung
-
--  135-Lagerung
-
--  5-Kissen-Weichlagerung
-
--  Bauchlage
 
 Dekubitusprophylaxe allgemein
 =============================
@@ -603,6 +561,14 @@ Bei Hochrisikopatienten bzw. ausgedehnten Transportstrecken soll
 unbedingt mit einer diplomierten Pflegeperson Rücksprache gehalten
 werden und eine individuelle Lösung gefunden werden.
 
+
+
+.. [295]
+   Felle als Unterlage sind im stationären Bereich eher verpönt, im
+   Rahmen des Krankentransports haben sie dennoch eine gewisse
+   Berechtigung.
+
+
 .. figure:: /Bilder/WikipediaPd/Escarre_Stade_4_detail.*
     :width: 99%
 
@@ -610,36 +576,25 @@ werden und eine individuelle Lösung gefunden werden.
 
     *WMC/PD*
 
-!!! LITERARY !!! *Exzellentes, umfassendes Werk über die Wundbehandlung,
-nicht nur für die Pflege:* (Vasel-Biergans and Probst 2011)
+.. rubric:: Literatur
 
-(Schewior-Popp, Sitzmann, and Ullrich 2012)
+[WundversorgungPflege:2]_
+    Vasel-Biergans, Anette und Wiltrud Probst:
+    2011.*Wundversorgung Für
+    Die Pflege: Ein Praxisbuch.*
+    2. Auflage,  Wissenschaftliche
+    Verlagsgesellschaft Stuttgart.
+    *Exzellentes, umfassendes Werk über die Wundbehandlung,
+    nicht nur für die Pflege:*
 
-(Grey and Harding 2008)
+[ThiemesPflege:12]_
 
-*Historische Abhandlung:* (Küster 1915)
+[AerztlicheWundversorgung:2]_
 
-[Siewert:2006]_
+*Historische Abhandlung:* Küster, Ernst:
+*Geschichte Der Neueren Deutschen Chirurgie.* Vol.
+15. Neue Deutsche Chirurgie. 1915.
+Verlag von Ferdinand Enke in Stuttgart.
+http://www.gutenberg.org/ebooks/39529. [Kuester:1915]_
 
-!!! LITERARY !!!
 
-(Schewior-Popp, Sitzmann, and Ullrich 2012; Vasel-Biergans and Probst
-2011)
-
-
-.. [293]
-   Wunde: Die übliche Beschreibung einer Wunde als eine Verletzung der
-   Haut ist nicht korrekt. Meist werden mehrere Gewebearten in
-   Mitleidenschaft gezogen. Definition [Pschyrembel:2002]_: Unterbrechung
-   des Zusammenhangs von Körpergeweben mit oder ohne Substanzverlust.
-
-.. [294]
-   Zur Verifizierung eines aufrechten Tetanus-Impfschutzes muss jede
-   Wunde einem Arzt vorgestellt werden. Eine Impfung muss spätestens
-   alle 10 Jahre aufgefrischt werden, bei entsprechenden Verletzungen
-   schon früher. (Böhmer, Schneider, and Wolcke 2006)
-
-.. [295]
-   Felle als Unterlage sind im stationären Bereich eher verpönt, im
-   Rahmen des Krankentransports haben sie dennoch eine gewisse
-   Berechtigung.

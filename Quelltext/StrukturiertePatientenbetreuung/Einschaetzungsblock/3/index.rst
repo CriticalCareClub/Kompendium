@@ -15,11 +15,11 @@
 
           -  Bewusstseinsgrad (quantitativ)
 
-          -  Orientierung (qualitativ) → **D**
+          -  Orientierung (qualitativ) → ``D``
 
-*Bewusstsein ist ein Oberbegriff für u.a. Wachheit, Orientierung,
+*Bewusstsein ist ein Oberbegriff für u. a. Wachheit, Orientierung,
 Aufmerksamkeit, Auffassungsgabe, Denkverlauf und Merkfähigkeit
-[Pschyrembel:2002]_.*
+[Pschy:259]_.*
 Es ist eine grundlegende **Vitalfunktion erster
 Ordnung** und wichtig hinsichtlich des Schutzes des Menschen vor
 Bedrohung.
@@ -32,7 +32,7 @@ Bei der Diagnostik beurteilt man den **Bewusstseinsgrad**
 und die **Orientierung**
 (**Qualität**; *Wie gut funktioniert das vorhandene Bewusstsein?* Zeitlich, örtlich,
 zur Situation und zur Person).
-Die Orientierung wird unter Punkt **D** beurteilt.
+Die Orientierung wird unter Punkt ``D`` beurteilt.
 
 
 

@@ -72,7 +72,7 @@ Blut. In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
         -   -   Niedriger Sauerstoffpartialdruck ("dünne Luft", z. B. Hochgebirge)
             -   Stickgase (Gärkeller (CO₂ ↑, O₂ ↓); defekte Gastherme (CO))
             -   Ertrinken
-    *   -   O2-Diffusion &
+    *   -   O₂-Diffusion
         -   -   Lungenödem
             -   Pneumonie
             -   Pulmonalembolie
@@ -131,7 +131,7 @@ Häufig erkennbar sind z. B. eine *Zyanose*, Klage über subjektive
 < 8 / min oder > 30 / min*), eine auffällige *Atemtiefe* (flach, tief, evtl.
 *Schnappatmung*), pathologische Atemmuster, eine paradoxe oder überhaupt
 fehlende Atmung oder andere Symptome der Atemnot
-([Table-atmung-symptome]).
+([Table-atmung-symptome]_).
 Bei der Auskultation kann eine ungleichseitige
 Belüftung der Lungen festgestellt werden, sowie diverse
 Atemnebengeräusche (feuchte Rasselgeräusche, spastische Atemgeräusche).
@@ -167,7 +167,7 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     |                     | Flache Atmung                                       |                                                                      |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Tiefe Atmung                                        | z. B. Kußmaul’sche Atmung                                             |    |
+    |                     | Tiefe Atmung                                        | z. B. Kußmaul’sche Atmung                                            |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     | *Hautfarbe*         | Blass                                               | Normal, Anämie, Blutverlust                                          |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
@@ -183,7 +183,7 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     |                     | Aufrechte Position                                  |                                                                      |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Paradoxe Atmung                                     | Brustkorb *senkt* sich bei Einatmung, z. B. bei Serienrippenfraktur   |    |
+    |                     | Paradoxe Atmung                                     | Brustkorb *senkt* sich bei Einatmung, z. B. bei Serienrippenfraktur  |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     | *Geräte*            | Pulsoxymetrie                                       | :ref:`Thema-pulsoxymetrie`                                           |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+

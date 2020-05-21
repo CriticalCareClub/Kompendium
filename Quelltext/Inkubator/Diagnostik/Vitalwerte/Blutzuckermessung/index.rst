@@ -68,7 +68,7 @@ Durchführung
 
 #. Mit einer schnellen, beherzten Bewegung den Patientenfinger *mit der
    Lanzette stechen* und sofort herausziehen *(“Rein-raus-Methode”)*.
-   Bei der Verwendung von Lanzettenautomaten (z.B. mit
+   Bei der Verwendung von Lanzettenautomaten (z. B. mit
    Federdrucksystemen) sind die herstellerspezifischen
    Anwendungshinweise zu beachten.
 
@@ -96,7 +96,7 @@ Durchführung
 
 .. [121]
     Blutzuckermessung, Kapillarwirkung: Je nach Modell kann es hier zu
-    Abweichungen kommen, so gibt es z.B. Geräte, bei denen der
+    Abweichungen kommen, so gibt es z. B. Geräte, bei denen der
     Teststreifen mit Blut benetzt werden muss. Im professionellen Umfeld
     sollten jedoch aus hygienischen Gründen nur Geräte verwendet werden,
     welche nach dem Kapillar-Prinzip verfahren.

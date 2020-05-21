@@ -371,7 +371,7 @@ Beschreibung
 
 Eine :dfn:`Gallenkolik` :index:`\ <! Gallenkolik>`
 zeichnet sich durch kolikartige
-Schmerzen infolge einer Blockade der Gallenwege z.B. durch Gallensteine
+Schmerzen infolge einer Blockade der Gallenwege z. B. durch Gallensteine
 aus. Vgl. Kolik: :ref:`Thema-kolik`.
 Gallensteine verursachen eine
 Verstopfung des Gallengangs und folglich einen Rückstau von
@@ -812,7 +812,7 @@ entsprechenden Darmabschnitts*, dadurch kommt es zu einer Perforation
 mit einer Bauchfellentzündung, Sepsis und einem Versterben des
 Patienten. Er ist somit ein *ischämischer* :index:`\ <Ischämie!Mesenterialinfarkt>` Notfall. Mesenterialinfarkte
 treten gehäuft bei Patienten mit erhöhtem thromboembolischen
-Risikofaktoren auf, z.B. bei Patienten mit *Vorhofflimmern* :index:`\ <Vorhofflimmern!Mesenterialinfarkt>`
+Risikofaktoren auf, z. B. bei Patienten mit *Vorhofflimmern* :index:`\ <Vorhofflimmern!Mesenterialinfarkt>`
 (:ref:`Thema-vorhofflimmern`).
 
 
@@ -944,7 +944,7 @@ Basismaßnahmen
 
 .. [252]
    Medikamente und Magengeschwür: Betroffen sind sog. nicht-steroidale
-   Antirheumatika (NSAR), z.B. Voltaren (Diclofenac), Aspirin
+   Antirheumatika (NSAR), z. B. Voltaren (Diclofenac), Aspirin
    (Acetylsalicylsäure, ASS),etc.)
 
 .. [253]

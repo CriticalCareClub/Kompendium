@@ -24,7 +24,7 @@ unter :ref:`Thema-traumacheck` erklärt.
 
 Auch die Psyche kann als Resultat einer erheblichen seelischen Belastung
 bzw. unzureichender Bewältigungsmöglichkeiten ein Trauma erleiden. Dies
-zeigt sich dann z.B. als Belastungsstörung oder Persönlichkeitsänderung.
+zeigt sich dann z. B. als Belastungsstörung oder Persönlichkeitsänderung.
 Vgl. Kapitel :ref:`chp-PSY`).
 
 ********************************************************
@@ -242,7 +242,7 @@ Es gilt in beiden Fällen besonders zu beachten:
    (evtl. Spinnennetzmuster) deutet auf einen Aufprall des Kopfes gegen
    die Scheibe hin. SHT und HWS-Trauma sind zu befürchten.
 
--  Sichtbare Veränderungen des Radstandes (z.B. Rad zur Seite geknickt,
+-  Sichtbare Veränderungen des Radstandes (z. B. Rad zur Seite geknickt,
    Achsenverschiebung um mehr als 30cm am Unfallfahrzeug) spiegeln ein
    hohes Ausmaß an Verformung wieder (Böhmer, Schneider, and Wolcke
    2006) . Es ist daher generell mit schweren Verletzungen zu rechnen.
@@ -309,7 +309,7 @@ angegeben:
 Sturz aus großer Höhe
 =====================
 
-Bei Stürzen aus großen Höhen (z.B. Leiter, Gerüst, Balkon) ist im
+Bei Stürzen aus großen Höhen (z. B. Leiter, Gerüst, Balkon) ist im
 Szeneüberblick an folgende Fragestellungen zu denken:
 
 -  Aus welcher Höhe ist der Patient gestürzt?
@@ -322,7 +322,7 @@ Szeneüberblick an folgende Fragestellungen zu denken:
 
    Generell ist wieder mit SHT und Wirbelsäulentrauma zu rechnen. Bei
    einem Aufprall auf die gestreckten Beine ist zusätzlich an Frakturen
-   der unteren Extremitäten (z.B. Fraktur der Fersenbeine) sowie an
+   der unteren Extremitäten (z. B. Fraktur der Fersenbeine) sowie an
    Stauchungen der Wirbelsäule zu denken. Kinder schlagen oft mit dem
    Kopf auf, weshalb hier SHT häufig anzutreffen sind.
 
@@ -553,7 +553,7 @@ Gefahren
 
 -  *Infektionsgefahr*: Bei offenen Frakturen ist Keimfreiheit besonders
    wichtig, da die Gefahr einer lebenslangen Knochenmarksentzündung
-   (Osteomyelitis) besteht! Wenn mögllich soll eine Wundfolie (z.B. !!!
+   (Osteomyelitis) besteht! Wenn mögllich soll eine Wundfolie (z. B. !!!
    TERMINUS !!! *OpSite*) verwendet werden.
 
 -  Kombination von mehreren Frakturen → großer
@@ -878,7 +878,7 @@ Gefahren
    einschätzen kann.
 
 -  *Hirnblutung*: Eine Hirnblutung (intrakranielle Blutung) kann sowohl
-   in Folge eines SHT als auch spontan (z.B. durch Platzen eines
+   in Folge eines SHT als auch spontan (z. B. durch Platzen eines
    Aneurysmas, “blutiger Insult”, :ref:`Thema-insult`) auftreten.
 
    Aufgrund der inneren Blutung steigt der Druck im Schädel an, s.u.
@@ -949,7 +949,7 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
    werden, ob es eine Verletzung der (Hals-) Wirbelsäule wahrscheinlich
    ist. Besonders bedenklich sind Sportverletzungen im Kopf- oder
    Nackenbereich, ein Trauma nach Sprung ins Wasser und
-   Stauchungsverletzungen der HWS (z.B. Schlag auf Kopf; vgl. !!!
+   Stauchungsverletzungen der HWS (z. B. Schlag auf Kopf; vgl. !!!
    FULLPRETTYREFPROCEDURE !!! YY14200B). Ggfs. muss eine Immobilisation
    durchgeführt werden
 
@@ -1244,7 +1244,7 @@ Typische Unfallmechanismen
 
 -  Bewusstloser Traumapatient
 
--  Stauchungsverletzung der HWS (z.B. Schlag auf Kopf)
+-  Stauchungsverletzung der HWS (z. B. Schlag auf Kopf)
 
 -  Suizidversuch durch Erhängen
 
@@ -1263,7 +1263,7 @@ nach [Campbell:2010:De]_, vgl. !!! FULLPRETTYREFPROCEDURE !!! YY14200B
 
 -  Bewusstloser Traumapatient
 
--  Stauchungsverletzung der HWS (z.B. Schlag auf Kopf)
+-  Stauchungsverletzung der HWS (z. B. Schlag auf Kopf)
 
 -  Suizidversuch durch Erhängen
 
@@ -1307,7 +1307,7 @@ Ausfälle (in schweren Fällen) bemerkbar macht.
 Querschnittssyndrom
 ===================
 
-Kommt es zu einer Druckerhöhung (z.B. aufgrund einer Blutung) im
+Kommt es zu einer Druckerhöhung (z. B. aufgrund einer Blutung) im
 Rückenmark oder zu einer Durchtrennung des Rückenmarks können Symptome
 eines Querschnitts auftreten. Ein sorgsamer und vorsichtiger Umgang bei
 der Rettung, der Untersuchung und dem Transport des Patienten ist
@@ -1456,7 +1456,7 @@ Pleura, oder reisst diese aufgrund der Gewalteinwirkung ein, ensteht ein
 
 Der Patient leidet unter *Atemnot* und evtl. atemabhängigen Schmerzen.
 Evtl. kommt es zum Bluthusten. Bei der Inspektion des Brustkorbes können
-Prellmarken (z.B. von der Lenksäule eines KFZ) auffallen.
+Prellmarken (z. B. von der Lenksäule eines KFZ) auffallen.
 
 Im Brustkorb befinden sich einige lebenswichtige Organe und Strukturen,
 daher kann es zu schweren *Begleitverletzungen* kommen. Besonders
@@ -1600,7 +1600,7 @@ meist stumpfe Gewalteinwirkung auf den Thorax.
 Von einer **Serienrippenfraktur** spricht man, wenn mindestens drei benachbarte
 Rippen gebrochen sind.
 
-Häufige Mechnismen sind z.B. ein Sturz auf den Thorax (insbesonders
+Häufige Mechnismen sind z. B. ein Sturz auf den Thorax (insbesonders
 gegen einen Gegenstand oder eine Kante), Schlägereien (Knüppel!), oder
 Verletzungen durch einen Airbag.
 
@@ -1676,7 +1676,7 @@ Gefahren
 
 Aufgrund des Unfallmechanismus muss man immer an die Möglichkeit eines
 *Pneumothorax* oder einer *Herzverletzung* bzw. einer
-*Herzbeuteltamponade* denken. Bei der :dfn:`Herbeuteltamponade` :index:`\ <! Herbeuteltamponade>` kommt es durch Eintritt von Flüssigkeit (z.B. Blut)
+*Herzbeuteltamponade* denken. Bei der :dfn:`Herbeuteltamponade` :index:`\ <! Herbeuteltamponade>` kommt es durch Eintritt von Flüssigkeit (z. B. Blut)
 in den Herzbeutel zu einer Einschränkung der Füllung und Bewegung des
 Herzens.
 
@@ -1818,7 +1818,7 @@ Beschreibung
 ------------
 
 Geschlossene Bauchtraumata sind aufgrund der inneren Blutungen besonders
-gefährlich. So kann es z.B. bei einer Milzruptur zu einem Blutverlust
+gefährlich. So kann es z. B. bei einer Milzruptur zu einem Blutverlust
 von 4 Liter kommen! (Gorgass et al. 2007)
 
     -  Immer nach *Prellmarken* suchen. *Patienten entkleiden!*
@@ -1962,7 +1962,7 @@ Leberruptur
 -----------
 
 Die Leber ist auch gut durchblutet und kann im Falle einer Verletzung
-große Probleme machen. Ursachen sind meist stumpfe Verletzungen, z.B.
+große Probleme machen. Ursachen sind meist stumpfe Verletzungen, z. B.
 ein Lenkradaufprall oder eine Sicherheitsgurtkompression. Der Patient
 klagt meist über einen starken Drucksschmerz im rechten Oberbauch. Durch
 den Blutverlust durch die Verletzung dieses stark durchbluteten Organs
@@ -2189,7 +2189,7 @@ bezeichnet einen kompletten oder inkompletten Abriss bzw. Abtrennung
 deren Durchblutung ganz oder teilweise aufgehoben ist. Den abgetrennten
 Körperteil nennt man :dfn:`Amputat` :index:`\ <! Amputat>`. (Böhmer, Schneider, and
 Wolcke 2006)** Amputationen erfolgen meist bei Motorradunfällen oder
-Schnittverletzungen (z.B. mit einer Kreissäge). Je glatter die
+Schnittverletzungen (z. B. mit einer Kreissäge). Je glatter die
 Wundränder sind desto größer ist die Chance dass das Amputat wieder
 erfolgreich angenäht werden kann. Nach dem Amputat ist in jedem Fall zu
 suchen. Der Amputatstumpf wird steril mit einem Druckverband versorgt
@@ -2262,7 +2262,7 @@ Hitzeeinwirkung entstandene Schädigung des Gewebes, besonders häufig der
 Haut. Sie ist eine thermische Wunde.** **Eine :dfn:`Verbrühung` :index:`\ <! Verbrühung>` (*Lat.* *Ambustio* (*Amb.*), *engl.* scald) ist eine
 thermische Schädigung durch heiße Flüssigkeit oder Dampf (Pschyrembel
 2002).**\  [303]_ Verbrennungen reichen von kleinen Brandblasen bis
-schweren Schädigungen der Haut und der darunter liegenden Gewebe (z.B.
+schweren Schädigungen der Haut und der darunter liegenden Gewebe (z. B.
 großflächige Verkohlung). Um die Schwere der Verletzung rasch
 einschätzen zu können müssen die Ausdehnung und der Schweregrad der
 Verbrennung beurteilt werden. Dazu stehen die *Neunerregel* sowie die
@@ -2837,7 +2837,7 @@ Symptome
 
 -  Bewusstseinsstörungen bis Krampfanfälle oder Bewusstlosigkeit
 
--  Thermische Schäden, z.B. Strommarken
+-  Thermische Schäden, z. B. Strommarken
 
 Spezielle Mechanismen und Situationen
 =====================================
@@ -2853,7 +2853,7 @@ Stromüberlandleitungen (Hochspannungsleitungen)
     über den menschlichen Körper von einem Fuß zum anderen Fuß kommen
     kann (*Schrittspannung*). Bei gerissenen Hochspannungsleitungen darf
     man daher keine großen Schritte machen, oder stromleitende
-    Gegenstände (z.B. Matalle) berühren (vgl. Gefahrenzonen:
+    Gegenstände (z. B. Matalle) berühren (vgl. Gefahrenzonen:
     :ref:`Thema-gefahrenzonen`)!
 
 Bahnanlagen

@@ -33,7 +33,7 @@ Struktur der Österreichischen Rechtsordnung
    single: Recht, öffentliches
    single: Recht, Privat-
    single: Privatrecht
-   
+
 Beschreibung
 ------------
 
@@ -72,29 +72,29 @@ jedes von beiden Rechtsgebieten in folgende Bereiche unterteilen:
     :widths: 20 20 20 20 20
     :header-rows: 1
 
-    *   -   Strafrecht 
-        -   Verwaltungsrecht 
-        
+    *   -   Strafrecht
+        -   Verwaltungsrecht
+
             (VwR)
-        -   Verfassungsrecht 
-        
+        -   Verfassungsrecht
+
             (VfR)
-        -   Zivilrecht 
+        -   Zivilrecht
         -   Sonderprivatrechte
     *   -   Strafgesetzbuch (StGB)
-    
-            Strafprozessordnung (StPO)
-        -   Berufsgesetze, 
 
-            KAKuG, 
+            Strafprozessordnung (StPO)
+        -   Berufsgesetze,
+
+            KAKuG,
 
             Unterbringungsgesetz (UbG)
-        -   Bundesverfassungsgesetz (B-VG) 
-        
+        -   Bundesverfassungsgesetz (B-VG)
+
             Staatsgrundgesetz (StGG)
         -   Allgemeines Bürgerliches Gesetzbuch (ABGB)
-        -   Arbeitsrechtsgesetze 
-        
+        -   Arbeitsrechtsgesetze
+
             Unternehmensgesetzbuch
 
 .. index::
@@ -160,7 +160,7 @@ Beschreibung
 ------------
 
 .. sidebar:: Vertragsverhätlnis im Rettungswesen
-	     
+
   -  Verhältnis zwischen Patient und Rettungsorgansiation
 
      -  Heilbehandlungsvertrag
@@ -252,7 +252,7 @@ Personal Rechte und Pflicht im Umgang miteinander.
 
 
 
-.. _Thema-haftbarkeitspruefung: 
+.. _Thema-haftbarkeitspruefung:
 
 .. _Thema-strafbarkeitsvoraussetzung:
 
@@ -316,7 +316,7 @@ Mangelt es auch nur an einer von diesen Voraussetzungen, kommt es zu
 keiner Straf-/ bzw. Haftbarkeit. Liegen die Voraussetzungen hingegen
 vor, kommt es im Strafrecht zu einer *Strafe* (Haft- oder Geldstrafe zu
 Gunsten des *Staates*), bzw. im Zivilrecht zu einem *Schadenersatz*
-(z.B. Heilungskosten, Verdienstentgang, Schmerzengeld, Ersatz für
+(z. B. Heilungskosten, Verdienstentgang, Schmerzengeld, Ersatz für
 entgangenen Gewinn oder realen/ideellen Schaden).
 
 #. *Tatbestandserfüllung* bzw. *Schaden*
@@ -520,16 +520,16 @@ Anhalterechts sind in den Tafeln [Table-notwehr-notwehrueberschreitung]
 [Table-anhalterecht-privater] (Anhalterecht) aufgelistet und
 gegenübergestellt.
 
-.. _Table-notwehr-notwehrueberschreitung: 
+.. _Table-notwehr-notwehrueberschreitung:
 
 .. list-table:: Notwehr und Nptwehrüberschreitung im Affekt
     :widths: 20 40 40
     :header-rows: 1
     :stub-columns: 1
 
-    *   -   
-        -   Notwehr 
-        -   Notwehrüberschreitung im Affekt 
+    *   -
+        -   Notwehr
+        -   Notwehrüberschreitung im Affekt
     *   -   Grundlage:
         -   -   Gerichtliches Strafrecht (§3 Abs. 1 StGB) und bürgerliches Recht (§1306a ABGB)
             -   Anzuwenden, wenn ein menschlicher Angriff tatsächlich (*objektiv*) vorliegt
@@ -558,7 +558,7 @@ gegenübergestellt.
 
 
 
-   
+
 .. _Table-notstand:
 
 .. list-table:: NRechtfertigender und entschuldigender Notstand
@@ -566,15 +566,15 @@ gegenübergestellt.
     :header-rows: 1
     :stub-columns: 1
 
-    *   -   
-        -   Rechtfertigender Notstand 
+    *   -
+        -   Rechtfertigender Notstand
         -   Entschuldigender Notstand
     *   -   Grundlage
         -   -   In keinem Gesetz aufgezeichnet; wird aber einheitlich angenommen
             -   Anzuwenden wenn die Gefahr auch tatsächlich (objektiv) vorliegt
         -   -   Gerichtliches Strafrecht und Bürgerliches Recht (StGB, ABGB [65]_)
             -   Anzuwenden wenn man die Gefahr bloß subjektiv annimmt
-    *   -   Notstandssituation: Gefahr ist ... 
+    *   -   Notstandssituation: Gefahr ist ...
         -   -   Kein menschlicher Angriff
             -   Gegenwärtig oder unmittelbar drohend
             -   Rechtswidrig
@@ -606,7 +606,7 @@ gegenübergestellt.
             -   Anzuwenden wenn ein Verdacht auf eine gerichtlich strafbare Handlung
                 vorliegt
     *   -   Situation:
-        -   Verdacht auf eine gerichtlich strafbare Handlung 
+        -   Verdacht auf eine gerichtlich strafbare Handlung
     *   -   Handlung:
         -   -   Anhalten als schonendstes Mittel (in angemessener Weise)
             -   Zurechnungsprinzip (= Anhaltung des mutmaßlichen Täters)
@@ -627,7 +627,7 @@ Fallbeispiele
 
 -  Fall 2: Gefahr durch Hund :ref:`Thema-jus-langer-dienst-fall-2`
 
-.. _thema-unterbringung : 
+.. _thema-unterbringung :
 
 .. _thema-unterbringung-jus:
 
@@ -674,11 +674,11 @@ Unterbringung ohne Verlangen
 
 Eine Person darf gegen oder ohne ihren Willen nur dann in eine
 psychiatrische Abteilung gebracht werden, wenn ein im *öffentlichen
-Sanitätsdienst stehender Arzt* oder ein *Polizeiarzt* 
-(**Amtsarzt** :index:`\ <Amtsarzt>`) sie untersucht 
-und bescheinigt, 
-dass die Voraussetzungen der Unterbringung vorliegen. 
-In der Bescheinigung sind im einzelnen die Gründe anzuführen, 
+Sanitätsdienst stehender Arzt* oder ein *Polizeiarzt*
+(**Amtsarzt** :index:`\ <Amtsarzt>`) sie untersucht
+und bescheinigt,
+dass die Voraussetzungen der Unterbringung vorliegen.
+In der Bescheinigung sind im einzelnen die Gründe anzuführen,
 aus denen der Arzt die Voraussetzungen der
 Unterbringung für gegeben erachtet. [68]_
 
@@ -769,7 +769,7 @@ Patientenrechte nach dem Krankenanstalten- und Kuranstaltengesetz (KAKuG)
 
 Als zentrale Orientierungshilfe für Rechte eines Patienten dient auch
 für das Rettungswesen die Aufzählung an Patientenrechten des
-KAKuG [75]_, z.B.:
+KAKuG [75]_, z. B.:
 
 -  Informierung des Patienten über seine Rechte
 
@@ -941,7 +941,7 @@ Das bedeutet für den Rettungsdienst:
    ernstlich gefährden würde.
 
 #. *Aber:* Wenn *zweifelsfrei* eine verbindliche Patientenverfügung
-   vorliegt (z.B. weil eine betreuende Pflegekraft diese in der
+   vorliegt (z. B. weil eine betreuende Pflegekraft diese in der
    Zwischenzeit gefunden und die Verbindlichkeit bestätigt hat), muss
    dieser Folge geleistet werden.
 
@@ -1037,7 +1037,7 @@ Behandlungs- bzw. Hilfeleistungspflicht
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Ersthelferische Versorgungspflicht für Durchschnittsbürger
-                                                          
+
 
 Jeder Bürger (und nicht mehr tätigkeitsberechtigte Sanitäter) ist zur
 Setzung von Hilfsleistungen verpflichtet, die seinem Wissens- und
@@ -1186,10 +1186,10 @@ Verschwiegenheitspflicht
 aufgrund seiner Tätigkeit als Arzt oder Sanitäter anvertraut bekommen
 hat, dürfen nicht an unbefugte Dritte weitergegeben werden. Geheimnisse
 sind alle Informationen, die einen Bezug zum Patienten haben oder
-liefern (z.B. Name des Patienten, Versicherungsnummer, Wohnadresse, …).
+liefern (z. B. Name des Patienten, Versicherungsnummer, Wohnadresse, …).
 
-Geheimnisse *dürfen* unter Umständen mitgeteilt werden 
-(**Auskunftsrecht**), z.B. wenn die Anonymität des Patienten gewahrt
+Geheimnisse *dürfen* unter Umständen mitgeteilt werden
+(**Auskunftsrecht**), z. B. wenn die Anonymität des Patienten gewahrt
 bleibt. Daher darf man mit Kollegen oder sonstigen Personen über die
 erlebten Geschehnisse reden, solange aus dem Gesagten nicht erkennbar
 ist, um welche Person es sich bei dem Patienten handelt
@@ -1209,7 +1209,7 @@ Informationspflichten
 
    -  Wenn es zur Behandlung des Patienten dient
 
-   -  Wenn es gesetzlich vorgeschrieben ist (z.B. im Gerichtsverfahren
+   -  Wenn es gesetzlich vorgeschrieben ist (z. B. im Gerichtsverfahren
       als Zeuge)
 
    -  Zum Schutz von höherwertigen Interessen der öffentlichen
@@ -1289,7 +1289,7 @@ Informationspflichten
 
    -  Polizeiliche Ermittlungspflicht [91]_ für alle Delikte
 
-   -  **Anzeige**: 
+   -  **Anzeige**:
       Jeder
       Durchschnittsbürger und auch sonstige Gesundheitsberufe sind
       *nicht verpflichtet* zur Anzeige von Strafdelikten. Sie haben aber
@@ -1311,7 +1311,7 @@ Informationspflichten
    s. :ref:`Thema-aids`
 
 .. [89]
-   in letzter Zeit z.B. *SARS*, *Vogelgrippe*, *Schweinegrippe*
+   in letzter Zeit z. B. *SARS*, *Vogelgrippe*, *Schweinegrippe*
    (:ref:`Thema-grippe`)
 
 .. [90]
@@ -1438,7 +1438,7 @@ Kompetenzstufen
 
         -  diagnostische und therapeutische Verrichtungen
 
-        | 
+        |
         | *NFS*
 
         *Notfallsanitäter* &
@@ -1458,7 +1458,7 @@ Kompetenzstufen
 
         -  Mitarbeit in der Forschung
 
-        | 
+        |
         | *NKA*
 
         Notfallsanitäter mit *allgemeiner Notkompetenz Arzneimittellehre* &
@@ -1473,7 +1473,7 @@ Kompetenzstufen
         Notarzt) *oder* nach Verständigung eines Notarztes verabreicht
         werden.
 
-        | 
+        |
         | *NKV*
 
         Notfallsanitäter mit *allgemeiner Notkompetenz Venenzugang und Infusion*
@@ -1483,7 +1483,7 @@ Kompetenzstufen
         Medikamente der Arzneimittelliste 2 verabreichen, die über venösen
         Zugang verabreicht werden können.
 
-        | 
+        |
         | *NKI*
 
         Notfallsanitäter mit *besonderer Notkompetenz Beatmung und Intubation* &
@@ -1497,7 +1497,7 @@ Kompetenzstufen
         (jeder mit jus practicandi, nicht unbedingt Notarzt) *oder* nach
         Verständigung eines Notarztes.
 
-        | 
+        |
 
 Fallbeispiele
 -------------

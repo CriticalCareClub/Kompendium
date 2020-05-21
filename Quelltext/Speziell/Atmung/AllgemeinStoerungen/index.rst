@@ -69,7 +69,7 @@ Blut. In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
     *   -   Störung des/der
         -   Beispiele
     *   -   O₂-Angebotes
-        -   -   Niedriger Sauerstoffpartialdruck ("dünne Luft", z.B. Hochgebirge)
+        -   -   Niedriger Sauerstoffpartialdruck ("dünne Luft", z. B. Hochgebirge)
             -   Stickgase (Gärkeller (CO₂ ↑, O₂ ↓); defekte Gastherme (CO))
             -   Ertrinken
     *   -   O2-Diffusion &
@@ -126,7 +126,7 @@ Kreislaufstörung ist oft nicht einfach. Eine Störung des Kreislaufes hat
 meist auch einen verminderten Sauerstoff\ *transport* zur Folge, daher
 kommt es dabei häufig auch zur Atemnot.
 
-Häufig erkennbar sind z.B. eine *Zyanose*, Klage über subjektive
+Häufig erkennbar sind z. B. eine *Zyanose*, Klage über subjektive
 *Atemnot*, eine zu schnelle oder langsame Atmung (Tachy-/Bradypnoe; *AF
 < 8 / min oder > 30 / min*), eine auffällige *Atemtiefe* (flach, tief, evtl.
 *Schnappatmung*), pathologische Atemmuster, eine paradoxe oder überhaupt
@@ -167,7 +167,7 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     |                     | Flache Atmung                                       |                                                                      |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Tiefe Atmung                                        | Z.B. Kußmaul’sche Atmung                                             |    |
+    |                     | Tiefe Atmung                                        | z. B. Kußmaul’sche Atmung                                             |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     | *Hautfarbe*         | Blass                                               | Normal, Anämie, Blutverlust                                          |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
@@ -183,7 +183,7 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     |                     | Aufrechte Position                                  |                                                                      |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Paradoxe Atmung                                     | Brustkorb *senkt* sich bei Einatmung, z.B. bei Serienrippenfraktur   |    |
+    |                     | Paradoxe Atmung                                     | Brustkorb *senkt* sich bei Einatmung, z. B. bei Serienrippenfraktur   |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     | *Geräte*            | Pulsoxymetrie                                       | :ref:`Thema-pulsoxymetrie`                                           |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+

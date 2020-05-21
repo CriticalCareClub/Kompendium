@@ -64,7 +64,7 @@ sich verschiedene Begriffe eingebürgert:
    (Abkz.: :abbr:`St. p. (Status post)`, :abbr:`Z. n. (Zustand nach)`)
    Bezeichnet eine “alte Diagnose”, d. h.
    eine Erkrankung oder eine Behandlung die einmal durchgemacht wurde.
-   Z.B.:
+   z. B.:
 
    -  ``Z.n. Blinddarm-Operation``: Der Patient hatte einmal eine
       Blinddarm-Operation.

@@ -157,7 +157,7 @@ SAMPLER: Pulmonalembolie
     Fernreise? Langes Sitzen/Liegen? Wenig getrunken?
 
 **R**
-    *Immobilisation*, z.B. durch Bettlägrigkeit, Gipsverbände oder lange
+    *Immobilisation*, z. B. durch Bettlägrigkeit, Gipsverbände oder lange
     Reisen, innerhalb der letzten 4 Wochen, erhöht das Risiko einer
     Thrombose und damit auch das einer Lungenembolie. Ebenso erhöht eine
     bereits durchgemachte Lungemembolie oder Thrombose das Risiko.

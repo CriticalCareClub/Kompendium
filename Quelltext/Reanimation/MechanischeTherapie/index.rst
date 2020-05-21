@@ -32,7 +32,7 @@ wurde,
 kann es einige Zeit dauern,
 bis das Herz wieder eine ausreichende mechanische Tätigkeit aufweist
 und ein ausreichender Spontankreislauf einsetzt
-[Sandroni:2008]_ [Skhirtladze:2010]_ \ .
+[Sandroni:2008]_ [Skhirtladze:2010]_\ .
 
 .. note::
 
@@ -61,7 +61,7 @@ und ein ausreichender Spontankreislauf einsetzt
 .. rubric:: Durchführung
 
 Der Patient muss auf einer *harten Unterlage*
-(Reanimationsbrett, Boden, ...) liegen,
+(Reanimationsbrett, Boden, …) liegen,
 der Helfer kniet seitlich neben dem Thorax des Patienten
 und beugt sich über den Patienten.
 Der Brustkorb wird frei gemacht und der *Druckpunkt* für
@@ -105,14 +105,14 @@ max. 120 / min).
             Druckpunkt: Mitte des Brustkorbs. Die Finger werden
             ineinander verschränkt,
 
-            [Lena Hirtler, MfG]
+            [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-1.*
             :width: 99.9%
 
             die Arme durchgestreckt
 
-            [Lena Hirtler, MfG]
+            [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-2.*
             :width: 99.9%
@@ -120,7 +120,7 @@ max. 120 / min).
             und Oberkörper nach vorne gebeugt:
             → Druck direkt auf Brustbein
 
-            [Lena Hirtler, MfG]
+            [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. subfigend::
     :width: 0.3
@@ -146,20 +146,15 @@ Fehlerquellen
    durchgeführt werden. Kritische Situationen sind üblicherweise:
 
    -  Nach der Defibrillation
-
    -  Nach Beatmungsversuchen
-
    -  Bei Personalwechsel
-
    -  Intubationsversuche
 
 -  Ein herkömmliches *Bett ist keine feste Unterlage*.
-
--  Vermeidbare Verltzungen durch den Helfer,
+-  Vermeidbare Verletzungen durch den Helfer,
    insbesonders wenn der Druck nicht direkt am korrekten Druck punkt von oben ausgeübt wird;
    die Schultern des Helfers müssen sich direkt über dem Brustbein des
    Patienten befinden.
-
 -  Ruckartiger Druck: Zu kurze Auswurfphase
 
 
@@ -169,7 +164,7 @@ Alternativen
 Thoraxkompressionsgeräte
 ------------------------
 
-Die manuelle Herzdruckmassgae kann auch automatisiert mittels
+Die manuelle Herzdruckmassage kann auch automatisiert mittels
 eines Thoraxkompressionsgeräts
 durchgeführt werden.
 Studienmäßig konnte zwar kein klarer Vorteil bei der routinemäßigen Verwendung

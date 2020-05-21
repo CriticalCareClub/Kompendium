@@ -8,26 +8,12 @@ Psychiatrie (#68)
 
     |Text-InkubatorInhalt|
 
-:Maintainer:
-    Sebastian Gabriel
-
-:Autoren:
-    Diverse
-
-:Reviewer:
-    Standard-Reviewprozess
-
-.. todo:: Literatur: (Wunn 2006; Collier and Mark Brinsden 2006)
-
-
 .. _Thema-unterbringungsgesetz:
 
 ***********
 Allgemeines
 ***********
 
-Einleitung
-==========
 
 Die Psychiatrie beschäftigt sich mit der Prävention, Diagnostik und
 Therapie psychischer Störungen und ist ein sehr
@@ -61,7 +47,7 @@ eine Einnahmequelle. (Subjektiv betrachtet erscheint die Depression
 manchmal als ein treibender Motor der Singe-/Songwriter-Szene.)
 
 Einer der bekanntesten psychiatrischen Patienten war der niederländische
-Maler *Vincent van Gogh* (1853–1890). Im Alter von 35 Jahren erkrankte
+Maler *Vincent van Gogh* (1853—1890). Im Alter von 35 Jahren erkrankte
 er an einer psychiatrischen Erkrankung die von Wahnvorstellungen,
 Albträumen, Depressionen und wiederholten Selbstmordversuchen geprägt
 war. Es sollte nicht bei den Versuchen bleiben, doch bis zu seiner
@@ -75,7 +61,7 @@ Impulsgeber der modernen Malerei. [WP:VanGogh]_
 
 .. figure:: /Bilder/WikipediaPd/van_Gogh_Starry_Night_Over_the_Rhone.*
 
-.. todo: Quelle /Bilder/WikipediaPd/van_Gogh_Starry_Night_Over_the_Rhone.*
+    Vincent van Gogh: Sternennacht über der Rhone
 
 Der Krankheitswert eines Zustandes beginnt dort, wo dieser Zustand für
 den Patienten selbst oder für seine Umgebung ein Problem darstellt.
@@ -96,8 +82,8 @@ behandlungswürdig bzw. sogar behandlungspflichtig angesehen werden. Als
 behandlungspflichtig gelten zum Beispiel die *Eigen-* und
 *Fremdgefährdung* aufgrund einer psychiatrischen Erkrankung, hier hat
 der Gesetzgeber Maßnahmen nach dem :dfn:`Unterbringungsgesetz` :index:`\ <! Unterbringungsgesetz>` (:dfn:`UbG` :index:`\ <! UbG>`) vorgesehen. Auch der
-geistige Verfall (z.B. im Rahmen einer (Alters-)Demenz) kann rechtliche
-Schritte nach sich ziehen, im Sinne einer Besachwaltung. ←
+geistige Verfall (z. B. im Rahmen einer (Alters-)Demenz) kann rechtliche
+Schritte nach sich ziehen, im Sinne einer Besachwaltung.
 
 Der psychiatrische Patient ist nicht entrechtet!
 ================================================
@@ -107,23 +93,14 @@ Patient – genauso wie jeder andere Patient auch – über die selben
 Selbstbestimmungsrechte verfügt, d.h. es ihm grundsätzlich zusteht eine
 Behandlung zu verweigern. Sollten im Rahmen der gesetzlichen
 Bestimmungen (*Unterbringungsgesetz*) Maßnahmen durchzuführen sein, so
-sind diese von der *Exekutive* (Polizei) vorzunehmen. Das Ziel des
+sind diese von der *Exekutive* (Polizei) vorzunehmen.
+Der Rettungsdienst führt von sich aus keine Zwangsmaßnahmen durch.
+Das Ziel des
 Unterbringungsgesetz ist es, das Maß der *Einschränkung der Freiheit des
 Patienten so gering wie möglich zu halten*.
 
 Auch im Rahmen der *Besachwaltung* kann ein *Gericht* das
 Selbstbestimmungsrecht des Patienten einschränken.
-
--  Der psychiatrische Patient hat grundsätzlich die gleichen Rechte!
-
--  Besonderheiten:
-
-   -  Unterbringungsgesetz (UbG)
-
-   -  Besachwaltung
-
-    -  Der Rettungsdienst führt von sich aus keine Zwangsmaßnahmen bei
-       psychiatrischen Patienten durch.
 
 Für die Arbeit im Rettungsdienst ist die Kenntnis einiger spezieller
 Krankheitsbilder und Symptome notwendig, sowie ein allgemeines
@@ -175,11 +152,8 @@ Gefahr als von der Normalbevölkerung ausgeht, so ist es doch ratsam
 grundlegende Punkte des Eigenschutzes zu beachten:
 
 #. Fluchtweg freihalten
-
 #. Rücken freihalten
-
 #. Patienten nicht beengen/bedrängen
-
 #. Patienten über Handlungen informieren und evtl. extra um
    Einverständnis fragen (angurten, …)
 
@@ -223,7 +197,7 @@ Fallgeschichte
 Fazit
 -----
 
-Auch psychiatrische Patienten haben “normale” Alltagsprobleme, wie z.B.
+Auch psychiatrische Patienten haben “normale” Alltagsprobleme, wie z. B.
 einen grippalen Infekt. Die Wahnvorstellungen werden von den Patienten
 komplett real erlebt, auch wenn sie vielleicht sogar wissen, dass sie
 nicht real sein können.
@@ -238,7 +212,7 @@ Wahnidee – Wahnsysteme
 Auch die Wahrnehmung der Umgebung insgesamt kann gestört sein, auch hier
 gibt es verschiedene Abstufungen.
 
-Die einfachste Form ist die :dfn:`Wahnidee` :index:`\ <! Wahnidee>`. Hierbei hat der
+Die einfachste Form ist die :dfn:`Wahnidee` :index:`\ <Wahnidee>`. Hierbei hat der
 Patient eine klar abgegrenzte Vorstellung von etwas, was mit der
 Realität nicht vereinbar ist.
 
@@ -246,7 +220,7 @@ Realität nicht vereinbar ist.
     Verteilerschrank, ob das Antennenkabel korrekt vom Verteiler
     abgesteckt wurde.”*
 
-Diese Wahnideen können in weiterer Folge zu einem :dfn:`Wahnsystem` :index:`\ <! Wahnsystem>` ausgebaut werden
+Diese Wahnideen können in weiterer Folge zu einem :dfn:`Wahnsystem` :index:`\ <Wahnsystem>` ausgebaut werden
 
     *“Das Gebühren-Info-Service des ORF ist eine Deckmantelorganisation
     des israelischen Geheimdienstes Mossad, welcher im Auftrag der CIA
@@ -262,7 +236,7 @@ Diese Wahnideen können in weiterer Folge zu einem :dfn:`Wahnsystem` :index:`\ <
 Wahnthemen
 ----------
 
-Ein Wahn kann unterschiedliche Themen haben, die häufigsten sind z.B.
+Ein Wahn kann unterschiedliche Themen haben, die häufigsten sind z. B.
 Verfolgungswahn, Größenwahn oder der Verarmungswahn.
 
 
@@ -305,12 +279,9 @@ Es gelten somit folgende Grundsätze:
 Psychomotorische Unruhe und Aggressivität
 =========================================
 
-Beschreibung
-------------
-
 Unruhe und Aggressivität kann ein Anzeichen für viele Krankheitsbilder
-sein. Die Differentialdiagnosen umfassen z.B. Blutzuckerstörungen,
-Demenz, Intoxikation, Panikattacken, Manie, akute Psychosen u.v.a.m.
+sein. Die Differentialdiagnosen umfassen z. B. Blutzuckerstörungen,
+Demenz, Intoxikation, Panikattacken, Manie, akute Psychosen u. v. a. m.
 Hier soll nur auf die grundsätzlich zu bedenkenden Maßnahmen im Umgang
 mit diesen Patienten eingegangen werden.
 
@@ -338,9 +309,6 @@ Basismaßnahmen
 
 Suizidalität
 ============
-
-Beschreibung
-------------
 
 :dfn:`Suizid` :index:`\ <! Suizid>`
 bezeichnet die absichtliche Selbsttötung.
@@ -397,112 +365,73 @@ Krankheitsbilder
 Psychose
 ========
 
-Beschreibung: Psychose
-----------------------
-
-**:dfn:`Psychose` :index:`\ <! Psychose>` ist eine allgemeine Bezeichnung für eine
+:dfn:`Psychose` :index:`\ <Psychose>` ist eine allgemeine Bezeichnung für eine
 *psychische Störung* mit strukturellem *Wandel des Erlebens*
-[Pschyrembel:2002]_.** Man unterscheidet zwischen organischen, körperlich
-begründbaren, und nicht-organischen, d.h. körperlich nicht begründbaren
+[Pschyrembel:2002]_. Man unterscheidet zwischen organischen, körperlich
+begründbaren, und nicht-organischen, d. h. körperlich nicht begründbaren
 Psychosen. In beiden Gruppen kann man weitere Unterscheidungen treffen,
-vgl. [Table-psychosen-einteilung]. Körperliche Ursachen für Psychosen
-können Störungen und Verletzungen des ZNS, z.B. bei Hirntumoren, Folge
+vgl. :ref:`Table-psychosen-einteilung`. Körperliche Ursachen für Psychosen
+können Störungen und Verletzungen des ZNS, z. B. bei Hirntumoren, Folge
 eines SHT, Intoxikationen, Stoffwechselstörungen u.v.a.m. sein.
+Grundsätzlich muss bis zum Beweis des Gegenteils von einer
+*organischen* Psychose (mit behebbarer Ursache) ausgegangen
+werden!
 
--  Psychische Störung mit strukturellem Wandel des Erlebens
 
-    -  Grundsätzlich muss bis zum Beweis des Gegenteils von einer
-       *organischen* Psychose (mit behebbarer Ursache) ausgegangen
-       werden!
+.. list-table:: Einteilung der Psychosen nach [Pschy:259]_
+    :name: Table-psychosen-einteilung
+    :stub-columns: 1
 
-!!! TABELLE WEIT Einteilung der Psychosen nach (Pschyrembel
-2002)[Table-psychosen-einteilung]
+    *   -   Akute organische Pschosen
+        -   -   Delir
 
-ll
+                z. B. Alkoholentzugsdelir (:ref:`Thema-alkoholentzugsdelir`)
+            -   Dämmerzustand
+            -    Durchgangssysndrom
 
-|
-| &
-| (lr)1-1(lr)2-2
+                z. B. :ref:`Thema-durchgangssyndrom`
+    *   -   Chronische organische Psychosen
+        -   -   frühkindliches organisches Psychosyndrom
+            -   Hirndiffuses Psychosyndrom
+            -   Hirnlokales Psychosyndrom
+    *   -   Schizophrene Psychosen
+        -
+    *   -   Affektive Psychosen
+        -
+    *   -   Schizoaffektive Psychosen
+        -
 
-#. Akute organische Pschosen
-
-   #. Delir
-
-      z.B. Alkoholentzugsdelir (:ref:`Thema-alkoholentzugsdelir`)
-
-   #. Dämmerzustand
-
-   #. Durchgangssysndrom
-
-      z.B. :ref:`Thema-durchgangssyndrom`
-
-#. Chronische organische Psychosen
-
-   #. frühkindliches organisches Psychosyndrom
-
-   #. Hirndiffuses Psychosyndrom
-
-   #. Hirnlokales Psychosyndrom
-
-&
-
-#. Schizophrene Psychosen
-
-#. Affektive Psychosen
-
-#. Schizoaffektive Psychosen
-
-|
-
-H
 
 Symptome
 --------
 
 Die Symptome einer Psychose sind vielfältig und abhängig von der
 konkreten Störung und dem Schweregrad. Sie sind durch *Störungen des
-Denkens, der Wahrnehmung und des Affektes* charaktersisiert (Messer,
-Tiltscher, and Pajonk 2008).
+Denkens, der Wahrnehmung und des Affektes* charaktersisiert.
 
 Demenz
 ======
 
-Beschreibung
-------------
-
-**Die :dfn:`Demenz` :index:`\ <! Demenz>` ist eine fortschreitende Einschränkung
-der geistigen Leistungsfähigkeit des Gehirns.** Die häufigste Form ist
+Die :dfn:`Demenz` :index:`\ <! Demenz>` ist eine fortschreitende Einschränkung
+der geistigen Leistungsfähigkeit des Gehirns.
+Die häufigste Form ist
 die *Altersdemenz*, daneben gibt es noch viel andere Formen der Demenz.
 Die bekannteste Form ist die Demenz im Rahmen der *Alzheimer*-Krankheit.
 Die geistige Leistungseinschränkung betrifft alle höheren Hirnfunktion,
-z.B. das Gedächtnis, das Denkvermögen, die Sprache, die Motorik, sowie
+z. B. das Gedächtnis, das Denkvermögen, die Sprache, die Motorik, sowie
 die Persönlichkeitsstruktur und Affektverarbeitung.
 
--  Geistige Leistungseinschränkung
-
--  Viele Formen
-
--  Alle höheren Hirnfunktionen können betroffen sein
 
 Symptome
 --------
 
 Die Symptome sind je nach Form, Fortschritt und Person vielfältig und
-unterschiedlich, und darüber hinaus auch sehr wechselhaft und von der
-Tagesverfassung abhängig. Klassisch ist eine zeitliche oder örtliche
-Desorientiertheit, Gedächtnisschwäche (insbesonders das
-Kurzzeitgedächtnis betreffend), das Verkennen von Personen, oder auch
-psychomotorische Unruhe und Aggressivität.
+unterschiedlich, und darüber hinaus auch sehr *wechselhaft* und von der
+Tagesverfassung abhängig. Klassisch ist eine
+*zeitliche oder örtliche Desorientiertheit*,
+*Gedächtnisschwäche* (insbesonders das Kurzzeitgedächtnis betreffend), das Verkennen von Personen, oder auch
+psychomotorische *Unruhe* und *Aggressivität*.
 
--  Zeitliche oder örtliche Desorientierung
-
--  Gedächtnisschwäche
-
--  Psychomotorische Unruhe, Aggressivität
-
--  Personenverkennung
-
--  Wechselnde Symptomatik!
 
 .. _Thema-manie:
 .. _Thema-depression:
@@ -513,19 +442,23 @@ Depression und Manie
 Beschreibung: Depression und Manie
 ----------------------------------
 
-**Die :dfn:`Depression` :index:`\ <! Depression>` ist
-eine sehr häufige psychiatrische Erkrankung, welche durch gedrückte
+Die :dfn:`Depression`
+:index:`\ <! Depression>`
+ist eine sehr häufige psychiatrische Erkrankung, welche durch gedrückte
 Stimmung, Interessensverlust, Freudlosigkeit, Antriebsminderung, erhöhte
-Ermüdbarkeit und Aktivitätseinschränkung charakterisiert ist (World
-Health Organization, n.d.). Die :dfn:`Manie` :index:`\ <! Manie>` ist dagegen ein
+Ermüdbarkeit und Aktivitätseinschränkung charakterisiert ist
+[ICD10De]_.
+Die :dfn:`Manie`
+:index:`\ <! Manie>`
+ist dagegen ein
 Überbegriff für Auffälligkeiten des Affektes, der Antriebs- und
-Willenssphäre sowie des Denkens (Messer, Tiltscher, and Pajonk 2008).**
+Willenssphäre sowie des Denkens.
 
 Die Depression ist eine sehr häufige Erkrankung (“Volkskrankheit”), etwa
 10% der Patienten einer allgemeinmedizinischen Praxis leiden unter ihr
 [Wunn:1]_. Sie tritt mit einer Vielzahl von unterschiedlichen
 Symptomen auf und ist oft nur schwer von alltäglicher Verstimmung
-abzugrenzen (Messer, Tiltscher, and Pajonk 2008).
+abzugrenzen.
 
 Die Depression tritt oft episodenhaft auf. Bei den typischen Episoden
 leidet der betroffene Patient unter einer *gedrückten Stimmung* und
@@ -542,29 +475,14 @@ Symptomen begleitet werden, wie Interessenverlust oder Verlust der
 Freude, Früherwachen, Morgentief, deutliche psychomotorische Hemmung,
 Agitiertheit, Appetitverlust, Gewichtsverlust und Libidoverlust.
 Abhängig von Anzahl und Schwere der Symptome ist eine depressive Episode
-als leicht, mittelgradig oder schwer zu bezeichnen (World Health
-Organization, n.d.). Im schweren Fällen kann es zum Übergang in ein
+als leicht, mittelgradig oder schwer zu bezeichnen [ICD10De]_. Im schweren Fällen kann es zum Übergang in ein
 *suizidales Syndrom* kommen (:ref:`Thema-suizidalität`).
 
 Die Episoden können regelmäßig wiederkommen (rezidivierende depressive
 Störung). Die erste Episode kann in jedem Alter zwischen Kindheit und
 Senium auftreten, der Beginn kann akut oder schleichend sein, die Dauer
-reicht von wenigen Wochen bis zu vielen Monaten. (World Health
-Organization, n.d.)
+reicht von wenigen Wochen bis zu vielen Monaten.
 
--  Depression:
-
-   -  Gedrückte Stimmung, Interessensverlust, Antriebslosigkeit
-
-   -  Sehr häufig
-
-   -  Unterschiedliche Schweregrade
-
--  Manie:
-
-   -  Auffällige Antriebs- und Affektsteigerung
-
--  Suizidalität in schweren Fällen möglich
 
 Alkohol- und Drogenentzug
 =========================
@@ -575,28 +493,19 @@ Symptome
 --------
 
 -  Schwitzen
-
 -  Unruhe
-
 -  Zittern (Tremor)
-
 -  Delirium (Bewusstseinsstörungen, Halluzinationen )
-
 -  Krampfanfälle
-
 -  RR-Entgleisung
-
 -  *“Cold turkey”* bei Heroinentzug
 
 Anamnese
 --------
 
 -  Plötzlich kein Zugang mehr zu Alkohol:
-
 -  Kürzlicher Einzug in Altersheim
-
 -  kürzlich pflegebedürftig geworden
-
 -  …
 
 .. _Thema-alkoholentzugsdelir:
@@ -614,48 +523,37 @@ um einen **lebensbedrohlichen Zustand**!
 Panikattacke
 ============
 
-Beschreibung
-------------
 
 Eine Panikattacke kann sich sehr unterschiedlich äußern und körperliche
 Beschwerden vortäuschen.
 
 -  Plötzliches Angstgefühl
-
 -  Dauer: Sekunden bis Minuten
-
 -  Thoraxbeschwerden (Infarktangst)
-
 -  Hyperventilation
-
 -  Mehrfach durchuntersuchte Patienten, wirken gesund
-
 -  Erwartungsangst
-
 -  Vermeidungsverhalten
-
 -  Antriebslosigkeit / Stupor
 
 
 ----
 
-.. todo:: !!! LITERARY !!!
+.. rubric:: Literatur
 
-	[Thun:1981]_
+[Thun:1981]_
 
-	[Thun:1989]_
+[Thun:1989]_
 
-	[Thun:2010]_
+[Thun:2010]_
 
-	[Argelander:2009]_
+[Argelander:2009]_
 
-	[Wunn:1]_
+[Wunn:1]_
 
-	[Battegay:2]_
+[Battegay:2]_
 
-	[Scholz:2]_
+[Scholz:2]_
 
-
------
 
 

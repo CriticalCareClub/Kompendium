@@ -20,7 +20,7 @@ verfügbaren Material sowie dem Personal und dessen Ausbildung, Training
 und Routine abhängig.
 
 .. index::
-    pair: Reanimation; Beamtung
+    pair: Reanimation; Beatmung
 
 **********************************************************************************
 Beatmung allgemein
@@ -48,8 +48,8 @@ Häufig anzutreffen sind:
         -   Erfolglose Beatmungsversuche nicht wiederholen
         -   Guedel-Tubus
 
-Ein normales  *Atemzugsvolumen* beträgt ca. **6--8 ml / kg
-Soll-Körpergewicht** (Richtwert: **400--500 mL**).
+Ein normales  *Atemzugsvolumen* beträgt ca. **6—8 ml / kg
+Soll-Körpergewicht** (Richtwert: **400—500 mL**).
 Dieser Wert soll auch bei der Beatmung
 angestrebt werden.
 Dazu wird der Beatmungsbeutel gleichmäßig zusammen
@@ -99,13 +99,13 @@ Gefahren
 
 Ein *zu hohes Atemzugsvolumen*
 oder eine zu schnelle Beatmung
-führent zu einem hohen Druck
+führen zu einem hohen Druck
 in den obenren Atemwegen.
 Ab einem Druck von ca 15—20 mbar öffnet sich der Ösophagus
 und es kommt, oft unbemerkt, zur Lufteinfuhr in den Magen.
 Das mangelhafte Freihalten der Atemwege,
 z. B. durch eine ungenügende Überstreckung des Kopfes,
-fehlerhafte Anwenudng von Atemwegshilfsmitteln u. a.,
+fehlerhafte Anwendung von Atemwegshilfsmitteln u. a.,
 bedingt oft erhöhte Beatmungsdrücke
 oder macht eine Ventilation überhaupt unmöglich.
 Bei einem *zu niedrigem Atemzugsvolumen* kann es zu einer
@@ -134,15 +134,11 @@ Endotracheale Intubation (Reanimation)
     .. sidebar:: ETI
 
     - Tubus in Trachea
-
     - Laryngoskop
-
     - Kontrolle Tubuslage:
 
         - Visuelle Darstellung
-
         - Auskultation Magen, Lunge
-
         - Kapnographie (CO₂)
 
 
@@ -280,19 +276,19 @@ Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
             :width: 99%
 
 	    Im Vergleich: Lage eines Larynx-Tubus
-            [Lena Hirtler, MfG]
+            [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.*
             :width: 99%
 
 	    … und eines endotrachealen Tubus.
-            [Lena Hirtler, MfG]
+            [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.*
             :width: 99%
 
 	    Position des Guedel-Tubus im Querschnitt
-            [Lena Hirtler, MfG]
+            [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. subfigend::
     :width: 0.3
@@ -321,7 +317,7 @@ Studien haben eine hohe Inzidenz von Fehlintubationen beschrieben.
 Speziell im außerklinischen Bereich erhöht sich der Schwierigkeitsfaktor
 aufgrund der Gegebenheiten (Platzangebot, vorhandenes Material, nicht
 nüchterne bzw. nicht vorbereitete Patienten, Verletzungen,
-Begleiterkrankungen, …) deutlich [Timmermann:2006]_ [Thierbach:2004]_ .
+Begleiterkrankungen, …) deutlich [Timmermann:2006]_ [Thierbach:2004]_\ .
 
 In diversen Studien wurden die Erfolgs- und Komplikationsraten der ETI
 untersucht, dabei zeigen sich wenig zufriedenstellende bis alarmierende
@@ -338,15 +334,13 @@ Die wichtigsten Ergebnisse dieser Studien sind:
 
 -  Die Erfolgsraten bei wenig routinierten Anwendern sind
    schlecht\ [327]_.
-
 -  Die Probleme der ETI betreffen grundsätzlich auch ärztliches
-   Personal\ [328]_ [Timmermann:2007]_ [Grmec:2002]_ \ .
-
+   Personal\ [328]_ [Timmermann:2007]_ [Grmec:2002]_\ .
 -  Der Schulungsaufwand ist groß: Zum Erlernen der Tätigkeit werden
    wenigstens 100 ETI gefordert, zur Aufrechterhaltung mindestens 10 ETI
    pro Jahr [Timmermann:2012]_ . Damit verbunden wäre eine
    Vollzeit-Trainingsphase von etwa einem halben Jahr
-   [BERN:12]_ \ .
+   [BERN:12]_\ .
 
 
 .. [327]
@@ -370,10 +364,10 @@ Gegenteil erkennen ließen (*"Prehospital studies fail to show any
 benefit from tracheal intubation during cardiopulmonary resuscitation
 and many show harm."* [Nolan:2008]_ ). Dies deckt sich auch mit
 Beobachtungen aus anderen Studien
-[Stiell:2004]_ [Cobas:2009]_ \ .
+[Stiell:2004]_ [Cobas:2009]_\ .
 Ein 2008 veröffentlichtes Cochrane-Review kam zu der gleichen
 Schlussfolgerung, mit der Betonung, dass entsprechende, qualitative
-hochwertige Studien fehlen [Lecky:2008]_ \ .
+hochwertige Studien fehlen [Lecky:2008]_\ .
 
 Die frühe endotracheale Intubation verliert somit an Stellenwert. Sie
 soll nur angewendet werden, wenn der Anwender hochqualifiziert
@@ -386,10 +380,11 @@ Ohne ausreichendes Training und Erfahrung wird die
 Komplikationsrate als unakzeptabel hoch angesehen. Das Aufschieben der
 endotrachealen Intubation bis zur Wiederkehr des spontanen Kreislaufs,
 wird bereits in den ERC 2010-Leitlinien als Alternative ausdrücklich
-genannt. [Nolan:2001]_ [Nolan:2008]_ [Lecky:2008]_
+genannt.\ [Nolan:2001]_ [Nolan:2008]_ [Lecky:2008]_
 Vor diesem Hintergrund bleibt festzuhalten,
-dass eine unterlassene Intubation nicht – wie oft
-behauptet – mit einer unterlassenen Hilfeleistung, sondern mit einer
+dass eine unterlassene Intubation nicht
+— wie oft behauptet —
+mit einer unterlassenen Hilfeleistung, sondern mit einer
 unterlassenen Tradition gleichzusetzen ist.
 
 Der traditionellen ETI steht eine stetige Entwicklung an alternativen
@@ -397,11 +392,11 @@ Airwaysystemen gegenüber, welche eine effektive und technisch einfachere
 Sicherung des Atemweges ermöglichen (supraglottsiche Atemwegshilfen).
 Zwar müssen diese Systeme Abstriche hinsichtlich des Aspirationsschutzes
 machen, wiegen dies jedoch durch ihre einfach und sichere Anwendung auf
-[Schalk:2010]_ [Wiese:2009]_ \ .
+[Schalk:2010]_ [Wiese:2009]_\ .
 
 .. admonition:: Fazit
 
     -  Wenn die erforderliche Routine und Sicherheit für die
        Durchführung einer ETI nicht gegeben ist und die Indikation für
        ein invasives Atemwegsmanagement besteht, sollen *in erster Linie
-       supraglottische Atemwegshilfen* eingesetzt werden [Timmermann:2012]_ .
+       supraglottische Atemwegshilfen* eingesetzt werden [Timmermann:2012]_\ .

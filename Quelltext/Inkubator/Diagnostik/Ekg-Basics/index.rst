@@ -118,7 +118,7 @@ Brustwandableitungen: [123]_
     EKG-Ableitungen: Brustwandableitungen nach *Einthoven* und
     *Goldberger*, Brustwandableitungen nach *Wilson*. Neben diesen
     Standardableitungen gibt es noch für spezielle Fragestellungen
-    weitere Ableitungmöglichkeiten wie z.B. die Ableitungen nach *Nehb*
+    weitere Ableitungmöglichkeiten wie z. B. die Ableitungen nach *Nehb*
     oder die *rechtsthorakalen* :index:`\ <Brustwandableitungen!rechtsthorakale>` bzw. !!!
     INDEX I !!! [Brustwandableitungen!linksdorsale]linksdorsalen
     Brustwandableitungen. Zusammen ergeben die Elektroden der Frontal-
@@ -139,7 +139,7 @@ Extremitätenableitungen
 Die *Extremitätenableitungen* werden mittels vier
 Elektroden abgeleitet. Je eine Elektrode wird an den Enden der
 Extremitäten angebracht. Zur Vereinfachung können die Elektroden auch am
-Übergang vom Rumpf zu den Extremitäten angebracht werden (z.B. statt dem
+Übergang vom Rumpf zu den Extremitäten angebracht werden (z. B. statt dem
 rechten Arm an der rechten Schulter). Wichtig ist, dass die horizontalen
 Elektrodenpärchen immer auf *gleicher Höhe* angebracht werden! Zu den
 Positionen der Elektroden siehe [Table-ekg-elektroden-position].

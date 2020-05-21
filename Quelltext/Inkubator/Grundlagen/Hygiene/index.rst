@@ -46,7 +46,7 @@ Wichtige Begriffe
         #. W. eines Organismus gegen die krankmachenden Eigenschaften
            eines Erregers.
 
-        #. W. eines Krankheitserregers gegen eine Behandlung (z.B. durch
+        #. W. eines Krankheitserregers gegen eine Behandlung (z. B. durch
            Antibiotika, Desinfektionsmittel, …).
 
 :dfn:`Inkubationszeit` :index:`\ <! Inkubationszeit>`
@@ -55,23 +55,23 @@ Wichtige Begriffe
 
 :dfn:`Epidemie` :index:`\ <! Epidemie>`
     örtlich begrenztes, zeitlich vermehrtes Auftreten einer
-    Infektionserkrankung (z.B. Grippe, Salmonellen).
+    Infektionserkrankung (z. B. Grippe, Salmonellen).
 
 :dfn:`Pandemie` :index:`\ <! Pandemie>`
-    Epidemie die sich über Länder u. Kontinente ausbreitet (z.B. Pest im
+    Epidemie die sich über Länder u. Kontinente ausbreitet (z. B. Pest im
     Mittelalter).
 
 :dfn:`Endemie` :index:`\ <! Endemie>`
     Auf kleinere Gebiete beschränktes, zeitlich jedoch nicht begrenztes
-    Auftreten einer Infektionserkrankung (z.B. FSME, Malaria, Lepra).
+    Auftreten einer Infektionserkrankung (z. B. FSME, Malaria, Lepra).
 
 :dfn:`Morbidität` :index:`\ <! Morbidität>`
     Anteil der an einer Erkrankung *Erkrankten* einer bestimmten
-    *Bevölkerungsgruppe* (z.B. 5 pro 100000 Einwohner).
+    *Bevölkerungsgruppe* (z. B. 5 pro 100000 Einwohner).
 
 :dfn:`Mortalität` :index:`\ <! Mortalität>`
     Anteil der an einer Erkrankung *Verstorbenen* einer bestimmten
-    *Bevölkerungsgruppe* (z.B. 5 pro 100000 Einwohner).
+    *Bevölkerungsgruppe* (z. B. 5 pro 100000 Einwohner).
 
 :dfn:`Letalität` :index:`\ <! Letalität>`
     Anteil der an einer Erkrankung *Verstorbenen* bezogen auf die
@@ -111,7 +111,7 @@ Die wichtigsten Erreger
 +----------------------+-----------------------------------------------------------------------------------------------+
 | *Parasiten, Tiere*   | Würmer, Maden, …                                                                              |
 +----------------------+-----------------------------------------------------------------------------------------------+
-| *(Toxine)*           | Giftstoffe, werden z.B. von Bakterien produziert.                                             |
+| *(Toxine)*           | Giftstoffe, werden z. B. von Bakterien produziert.                                             |
 +----------------------+-----------------------------------------------------------------------------------------------+
 
 Bakterien sind Zellen
@@ -121,7 +121,7 @@ Beschreibung
 ^^^^^^^^^^^^
 
 Bakterien sind vollständige, ’echte’ Zellen, welche leben und aktiv
-etwas tun können. Dazu gehört z.B. die Produktion von diversen – z.T.
+etwas tun können. Dazu gehört z. B. die Produktion von diversen – z.T.
 schädlichen – Substanzen (Toxine, ...) und Gasen etc. Sie können die
 unterschiedlichsten Formen (Kugeln, Stäbchen, mit Geißeln …) haben.
 
@@ -163,7 +163,7 @@ entscheidend ist die *Bakterienart*: Je nachdem welcher Spezies und
 welchem Stamm das Bakterium angehört, kann es unterschiedliche Wirkungen
 haben. Der *Ort der Besiedelung* ist ebenso entscheidend. Viele
 Bakterien haben angestammte Besiedlungsorte, wo sie natürlich vorkommen
-oder sogar vorkommen müssen, damit eine gewünschte Funktion (z.B. die
+oder sogar vorkommen müssen, damit eine gewünschte Funktion (z. B. die
 Verdauung) funktioniert. Damit eine Bakterienart nicht ungehemmt wuchern
 kann, ist der “*Konkurrenzkampf der Bakterien*” notwendig. Wenn sich
 verschiedene Bakterienarten um den gleichen Raum und die gleichen
@@ -178,7 +178,7 @@ zurande. Wenn das *Immunsystem* jedoch *geschädigt oder geschwächt* ist,
 können *auch sonst harmlose Keime* zu einer großen Gefahr werden!
 Besonders betroffen sind Patienten mit einer *chemotherapeutischen
 Behandlung* oder Leukämie [255]_, sowie Patienten mit
-*Immunschwäche*-Erkrankungen (z.B. AIDS, :ref:`Thema-aids`). Auch *Kinder*,
+*Immunschwäche*-Erkrankungen (z. B. AIDS, :ref:`Thema-aids`). Auch *Kinder*,
 *ältere Personen* oder Patienten in schlechter körperlicher Verfassung
 haben oft ein schwächeres Immunsystem. Auch sonst gesunde Menschen
 können aufgrund von Stress oder schlechter Ernährung anfälliger für
@@ -220,7 +220,7 @@ Viren. Die missbrauchte Zelle verliert i.d.R. ihr eigentliche Funktion
 oder wird komplett zerstört.
 
 Virale Infektionen sind sehr häufig. Die meisten sog.
-*“Verkühlungskrankheiten”*, sowie andere bekannte Krankheiten wie z.B.
+*“Verkühlungskrankheiten”*, sowie andere bekannte Krankheiten wie z. B.
 die *Grippe*, *Feuchtblattern* und viele *Hepatitis*-Formen, werden
 durch Viren verursacht.
 
@@ -258,7 +258,7 @@ gelangen und eine Infektion verursachen:
 
 2
 
--  Fäkal-oral (Schmierinfektion, z.B. Badesee)
+-  Fäkal-oral (Schmierinfektion, z. B. Badesee)
 
 -  Aerogen (Tröpfcheninfektion, Aerosol)
 
@@ -599,7 +599,7 @@ Medizinprodukten eingesetzt werden, gelten ebenfalls als
 
 -  Keimreduktion
 
--  Z.B. mittels chem. Substanzen
+-  z. B. mittels chem. Substanzen
 
 -  Vorher: Reinigung!
 
@@ -631,7 +631,7 @@ zu beachten! Hinweise zur Reinigung und hygienischen Wiederaufbereitung
 eines Medizinproduktes müssen Bestandteil jeder *Einschulung* sein und
 müssen auch in der *Gebrauchsanweisung* zu finden sein. In Fahrzeugen
 dürfen i.d.R. aufgrund der Acryloberflächen nur
-Flächendesinfektionsmittel ohne Alkohol verwendet werden (z.B.
+Flächendesinfektionsmittel ohne Alkohol verwendet werden (z. B.
 *Acryl-Des*, *Acrylan*)!
 
 Einwirkzeit
@@ -741,9 +741,9 @@ Flächen- und Wischdesinfektion
 Eine Flächendesinfektion wird mit dafür vorgesehenen
 *Flächendesinfektionsmitteln* durchgeführt. Dabei ist darauf zu achten,
 dass für *jede Oberfläche das richtige Mittel* verwendet wird. So
-zerstören z.B. Alkohol-haltige Desinfektionsmittel Acryl-Oberflächen,
+zerstören z. B. Alkohol-haltige Desinfektionsmittel Acryl-Oberflächen,
 wie sie oft in Fahrzeugen oder bei medizinischen Geräten vorzufinden
-sind (s.o.). Es werden in so einem Fall Alkohol-freie Mittel (z.B.
+sind (s.o.). Es werden in so einem Fall Alkohol-freie Mittel (z. B.
 Acryl-Des, Acrylan) angewendet.
 
 Auch hier ist die vom Hersteller vorgegebene *Einwirkzeit* zu beachten,
@@ -763,7 +763,7 @@ zur Wischdesinfektion ist *nicht zulässig*!
 
 -  Material-entsprechende Substanzen!
 
-   -  z.B.: Alkohol zerstört Acryl-Flächen! →
+   -  z. B.: Alkohol zerstört Acryl-Flächen! →
       Alk.-freie Mittel
 
 -  *Von außen *in Richtung Schmutzquelle* wischen*
@@ -792,7 +792,7 @@ Erfahrung voraus. [265]_
 
 -  Aufwendig
 
--   Z.B. Autoklavieren.
+-   z. B. Autoklavieren.
 
 !!! TABELLE WEIT Gegenüberstellung Reinigung – Desinfektion –
 Sterilisation
@@ -921,7 +921,7 @@ ein Niederhaltesieb zu verwenden. Es muss vermerkt werden:
 
 -  Von wem eingelegt
 
-Wenn eine sofortige Desinfektion nicht möglich ist (z.B. weil die
+Wenn eine sofortige Desinfektion nicht möglich ist (z. B. weil die
 Desinfektionwanne bereits benutzt wird), muss das Material in einen
 dicht verschlossenen Plastiksack verpackt werden, welcher ebenso
 beschriftet wird.
@@ -1100,7 +1100,7 @@ ersparen. Dies muss jedoch vorher ausdrücklich kund getan werden.
 Keimvehikel
 -----------
 
-… wie z.B. Kugelschreiber, Haltegriffe, etc. sind nicht nur für den
+… wie z. B. Kugelschreiber, Haltegriffe, etc. sind nicht nur für den
 Patienten im Sinne einer Kreuzinfektion ein Problem, sondern auch für
 das Personal. Daher sind auch in Hinblick auf den Selbstschutz die
 entsprechenden Hygienemaßnahmen zu ergreifen!
@@ -1192,7 +1192,7 @@ Abfall
 Von
 Abfällen gehen im Wesentlichen zwei Gefahren aus, nämlich eine
 *Verletzungsgefahr* (Kanülen und andere spitze Gegenstände) sowie eine
-*Infektionsgefahr* (z.B. Körperflüssigkeiten, kontaminierte
+*Infektionsgefahr* (z. B. Körperflüssigkeiten, kontaminierte
 Einwegartikel und -verpackungen). Die *[OeNORM* :index:`\ <[OeNORM>`
 S2104@ÖNORM S2104]ÖNORM S2104 ("Osterreichisches Normungsinstitut 2005)
 unterscheidet zwischen:
@@ -1209,9 +1209,9 @@ unterscheidet zwischen:
    wie Gefährliche Abfälle entsorgt werden müssen:
    [item:hyg-abfall-oenorm-gruppe2]
 
-   #. Abfälle *ohne Verletzungsgefahr* z.B. Gemische aus
+   #. Abfälle *ohne Verletzungsgefahr* z. B. Gemische aus
       *Wundverbänden*, Gipsverbänden, Stuhlwindeln, Einmalwäsche,
-      Vorlagen, Tampons, Einmalartikel (z.B. *Tupfer*, *Handschuhe*,
+      Vorlagen, Tampons, Einmalartikel (z. B. *Tupfer*, *Handschuhe*,
       *Einmalspritzen* ohne Kanüle, *Katheter*, Infusionsgeräte ohne
       Dorn), restentleerte Urinsammelsysteme und Infusionsbeutel oder
       Ähnliches, *auch wenn diese blutig sind*.
@@ -1219,12 +1219,12 @@ unterscheidet zwischen:
       Die Sammlung dieser Abfälle haben in ausreichend dichten Gebinden
       bzw. Transportbehältern zu erfolgen.
 
-   #. Abfälle *mit Verletzungsgefahr* z.B. Kanülen, Lanzetten und
+   #. Abfälle *mit Verletzungsgefahr* z. B. Kanülen, Lanzetten und
       Skalpelle. Sämtliche Abfälle dieser Art müssen in entsprechenden
       Gebinden gesammelt und transportiert werden
       (*Nadelabwurfbehälter*, :ref:`Thema-nadelabwurfbehaelter`).
 
-   #. *Nassabfälle*: z.B. nicht restentleerte, mit Absaugsekreten
+   #. *Nassabfälle*: z. B. nicht restentleerte, mit Absaugsekreten
       gefüllte Einwegsysteme.
 
       Die Sammlung und der Transport dieser Abfälle haben in ausreichend

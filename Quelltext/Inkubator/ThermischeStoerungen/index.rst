@@ -138,7 +138,7 @@ Dadurch steigt die Temperatur im Kopf, es kommt zu einer Reizung der
 Hirnhäute.
 
 Die Folge sind Symptome wie bei einer Hirnhautentzündung (Meningitis)
-beziehungsweise andere *neurologische Symptome*, wie z.B. Kopfschmerz,
+beziehungsweise andere *neurologische Symptome*, wie z. B. Kopfschmerz,
 sind die Folge. Die *Gesichts- und Kopfhaut ist hochrot und heiß*, der
 restliche Körper bleibt dagegen eher kühl. Der Patient wirkt
 abgeschlagen und klagt über heftige Kopfschmerzen, Schwindel und

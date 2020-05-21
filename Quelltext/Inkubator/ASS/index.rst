@@ -43,11 +43,11 @@ Stärke: Wirkstoff, Dosis, Konzentration
 Die :dfn:`Stärke des Arzneimittels` :index:`\ <! Stärke des Arzneimittels>` ist je nach
 Verabreichungsform der Wirkstoffanteil pro Dosierungs-, Volumens- oder
 Gewichtseinheit. Bei Medikamenten wird normalerweise die Menge des
-Wirkstoffes (z.B. in ) angegeben. Manchmal erfolgt die Angabe auch in
-anderen Einheiten, wie z.B. den *Internationalen Einheiten* (*IE*). Bei
+Wirkstoffes (z. B. in ) angegeben. Manchmal erfolgt die Angabe auch in
+anderen Einheiten, wie z. B. den *Internationalen Einheiten* (*IE*). Bei
 Ampullen findet sich außerdem auch eine Volumsangabe. Aus der Angabe der
 Wirkstoffmenge und des Volumens kann man die Konzentration berechnen. In
-manchen Fällen ist auch eine Konzentrationsangabe üblich (z.B. Glukose ,
+manchen Fällen ist auch eine Konzentrationsangabe üblich (z. B. Glukose ,
 NaCl , Propofol , Adrenalin usw.). Ein Prozent enspricht dann
 umgerechnet 10mg/ML bzw. entspricht .
 
@@ -88,12 +88,12 @@ Manche Medikamente liegen als *Trockensubstanz* in einer
 *Trockenstechampulle* vor, welche vor Verwendung erst mit einem
 *geeigneten* Lösungsmittel aufgelöst werden muss. Das erforderliche
 Lösungmittel ist vom Medikament abhängig. Bei Verwendung eines falschen
-Lösungsmittel kann es z.B. zu Ausflockungen, Wirkminderungen o.ä.
+Lösungsmittel kann es z. B. zu Ausflockungen, Wirkminderungen o.ä.
 kommen, das Medikament ist damit verdorben und darf keinesfalls
 verwendet werden.
 
 -  Medikamente sind oft auch mit *gleichem Namen* in unterschiedlichen
-   Konzentrationen erhältlich (z.B. Dormicum, Ketanest).
+   Konzentrationen erhältlich (z. B. Dormicum, Ketanest).
 
     -  Beim Zubereiten bzw. Aufziehen von Medikamenten muss man sehr
        genau auf die Wirkstoffmenge, das Volumen und die Konzentration
@@ -436,7 +436,7 @@ Medikamenten. Im Kunststoffschlauch liegt eine Führungskanüle
 Katheterisierung ermöglicht. Die Kanüle wird nach Einführen ins
 Blutgefäß entfernt.
 
-Gebräuchliche Marken sind z.B. *Venflon* oder *Braunüle*.
+Gebräuchliche Marken sind z. B. *Venflon* oder *Braunüle*.
 Venenverweilkanülen gibt es in verschiedenen Durchmessern, sie sind
 farbcodiert. Normalerweise werden *grüne* Venenverweilkanülen bei
 Erwachsenen verwendet, bzw. rosafarbene bei schlechten
@@ -453,7 +453,7 @@ Venenverhältnissen.
 -  Verschiedene Größen, farbcodiert. Standard: *grün*, rosa bei
    schlechten Venen
 
--  Gebräuchliche Marken: Z.B. *Venflon*, *Braunüle*
+-  Gebräuchliche Marken: z. B. *Venflon*, *Braunüle*
 
 .. todo::
 

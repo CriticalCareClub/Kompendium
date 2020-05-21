@@ -96,7 +96,7 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
 
 .. subfigend::
     :width: 0.3
-    :label: Figure-BildersrieLarynxtuben
+    :label: Figure-BilderserieLarynxtuben
 
     Bilderserie
 
@@ -258,7 +258,7 @@ Komplikationen
 
 Grundsätzlich ist der Larynxtubus vergleichsweise sicher in der
 Anwendung. Komplikationen umfassen eine Undichtigkeit (Leakage),
-Schädigung der Rachenschlimhaut, evtl. mit Blutung, und eine Überblähung
+Schädigung der Rachenschleimhaut, evtl. mit Blutung, und eine Überblähung
 des Magens und eine Ruptur der Speiseröhre. Der Larynxtubus bietet zwar
 einen guten Aspirationsschutz, dieser ist jedoch nicht komplett
 zuverlässig.
@@ -276,7 +276,7 @@ Der :dfn:`Combitubus` wird ähnlich wie der Larynxtubus ohne
 Hilfsmittel "blind" über den Mund
 eingeführt und kommt im Normalfall im Ösophagus zu liegen.
 Im Gegensatz zum Larynxtubus verfügt der Combitubus jedoch über 2
-Lumina mit entsporechend getrennten Konnektionsstellen,
+Lumina mit entsprechend getrennten Konnektionsstellen,
 sodass selbst im seltenen Fall,
 dass die Tubusspitze in der Trachea zu liegen kommt,
 der Patient beatmet werden kann.

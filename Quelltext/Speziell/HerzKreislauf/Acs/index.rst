@@ -47,16 +47,13 @@ welche sich von den vorgenannten entweder durch die Pathogenese
 Symptome
 ********
 
+..
+    .. sidebar:: Symptome
 
-.. sidebar:: Symptome
-
-    -  Atemnot
-
-    -  Thoraxschmerz
-
-    -  Engegefühl im Thorax
-
-    -  …
+        -  Atemnot
+        -  Thoraxschmerz
+        -  Engegefühl im Thorax
+        -  …
 
 Es sind *zwei Auslösemechanismen* möglich:
 Einerseits kann eine
@@ -75,7 +72,7 @@ Leistungsverlust!
 .. figure:: /Bilder/HirtlerLena-Ccc/Herzschmerz.*
 
     Akutes KoronarsyndromTypische Schmerzausdehnung bzw. -ausstrahlung beim
-    ischämischen HerzschmerzLena [Hirtler MfG]
+    ischämischen HerzschmerzLena [Lena Hirtler,  :term:`Lizenz: MfG`]
 
 ABCDE
 =======
@@ -217,13 +214,9 @@ Differentialdiagnosen
 *********************
 
 - Pneumonie, Pleuritis, Pneumothorax
-
 - Reflux, Pankreatitis, Cholezystitis
-
 - post-CABG-Syndrom
-
 - musko-skelettal
-
 - funktionell
 
 *****************
@@ -247,9 +240,9 @@ STEMI-Kriterien
 
 -   ST-Hebungen in zumindest 2 benachbarten Ableitungen:
 
-    -   Männer: **> 2,5 mm** < 40a, **> 2 mm** > 40 a
-    -   Frauen: **> 1,5 mm** in V2--V3, oder **> 1 mm** in anderen Ableitungen
-    -   ST-Senkungen in V1--V3 und/oder > 0,5 mm in V7--V9:
+    -   Männer: **> 2,5 mm** < 40 a, **> 2 mm** > 40 a
+    -   Frauen: **> 1,5 mm** in V2—V3, oder **> 1 mm** in anderen Ableitungen
+    -   ST-Senkungen in V1—V3 und/oder > 0,5 mm in V7—V9:
         Verdacht auf **CX-Infarkt** (keine ST-Hebungen in Standard-Ableitungen!)
     -   Bei *inferioren Infarkten* ist auch die *rechtspräkordiale Ableitung*
         (rV4) interessant
@@ -270,8 +263,8 @@ Bedenke **atypische Präsentationen**:
 
 -   **CX-Infarkt**:
 
-    -   ST-Senkungen V1--V3 und/oder > 0,5 mm in V7--V9
-    -   Oft hohes R in V1 bis V3
+    -   ST-Senkungen V1—V3 und/oder > 0,5 mm in V7—V9
+    -   Oft hohes R in V1—V3
     -   Tiefe ST-Senkung in den rechts-präkordialen Brustwandableitungen mit positivem T
     -   Oft minimale ST-Hebungen inferior/lateral
 
@@ -363,7 +356,7 @@ Dazu stehen im Wesentlichen zwei Methoden zur Wahl:
    kann diese oft mittels des Herzkatheters
    behandelt werden (Intervention; *PCI* (Percutane Coronary
    Intervention) oder *PTCA* (Perkutane Transluminale Coronare
-   Angioplastie)). Dabei wird ein Ballon in die Engstelle eingebracht,
+   Angioplastie). Dabei wird ein Ballon in die Engstelle eingebracht,
    welcher das Gefäß aufdehnt. Anschließend wird ein **Stent**,
    im Prinzip ein zylindrisches Metallgeflecht, eingebracht, welcher als Stütze für
    das Gefäß dient und dieses längerfristig offen halten soll.
@@ -374,7 +367,7 @@ Somit kann eine kardiologische Betten-, Überwachungs- oder Intensivstation
 alleine *keine* adäquate Versorgung bereitstellen.
 In der Regel muss das erstversorgende Fachpersonal über die Indikation
 zur Einleitung einer Reperfusionsbehandlung stellen
-bzw. das geeigente Verfahren auswählen.
+bzw. das geeignete Verfahren auswählen.
 
 .. rubric:: Ressourcen
 
@@ -439,7 +432,7 @@ Allgemein und Basics
         Zustand des Patienten,
         notwendiger erweiterter Diagnostik (EKG),
         Zielentscheidung
-        und Behandlungsmöglichkeit des nächstgelegen Spiatls
+        und Behandlungsmöglichkeit des nächstgelegen Spitals
         sind im Einzelfall notwendig.
 
 Pharmakotherapie
@@ -454,7 +447,7 @@ Morphin
 -------------------------------------
 
 I. v.-Opiode sollen generell zur Schmerztherapie erwogen werden,
-z. B. Morphin |IV|, titriert in 2--5 mg-Schritten (Erwachsene).
+z. B. Morphin |IV|, titriert in 2—5 mg-Schritten (Erwachsene).
 
 Heparin
 -------------------------------------
@@ -462,8 +455,8 @@ Heparin
 Gabe von **70 IU / kg i. v.**[#AcsTherapieAllgemeinHeparinDosierung]_\ .
 
 .. [#AcsTherapieAllgemeinHeparinDosierung]
-        Es werden 70--100 IU / kg i. v. ohne,
-        und 50--70 IU / kg mit  GP IIb/IIIa-Inhibitor empfohlen,
+        Es werden 70—100 IU / kg i. v. ohne,
+        und 50—70 IU / kg mit  GP IIb/IIIa-Inhibitor empfohlen,
         somit ergibt sich eine Schnittmenge von **70 IU / kg i. v.** (IC).
 
 .. index::
@@ -585,7 +578,7 @@ Eine Koronarangiographie und PCI des Infarktgefäßes ist zwischen
 
 Eine *Notfalls-PCI* bei Patienten mit kardiogenem Schock
 soll nach Thrombolyse durchgeführt werden (1A).
-Eine *Rescue-PCI* ist indiziert wenn nach 60--90 min
+Eine *Rescue-PCI* ist indiziert wenn nach 60—90 min
 keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
 
 .. rubric:: Indikation
@@ -613,14 +606,14 @@ keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
 
 -   Metalyse® (TNK-tPA)
 
-    -   Patient < 60 kg à 6000 IE
-    -   Ab 60 kg 100 IE/kg/KG
+    -   Patient < 60 kg à 6000 IE
+    -   Ab 60 kg 100 IE/kg/KG
 
 -   Begleittherapie lt :ref:`Tafel-ThrombolyseBegleittherapie`
 -   Transport in ein **PCI-Zentrum**
 
     -   Kontaktaufnahme mit PCI-Zentrum
-    -   Wenn nach 60--90 min keine Rückbildung: "Lyse-Versager"
+    -   Wenn nach 60—90 min keine Rückbildung: "Lyse-Versager"
 
 
 .. _Tafel-ThrombolyseBegleittherapie:
@@ -638,17 +631,17 @@ keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
         - 300 mg
         - **75 mg**
     *   - **Enoxaparin**
-        - **30 mg** Bolus **i. v.** und **1 mg/kg s.c.** 15 min. später
-        - **0,75 mg/kg** Bolus s.c.
+        - **30 mg** Bolus **i. v.** und **1 mg/kg s.c.** 15 min. später
+        - **0,75 mg/kg** Bolus s.c.
     *   - Heparin
-        - 60IU/kg bis max. 4000 IU nur wenn kein Enoxaparin zur Verfügung steht
-        - 60IU/kg bis max. 4000 IU nur wenn kein Enoxaparin zur Verfügung steht
+        - 60 IU / kg bis max. 4000 IU nur wenn kein Enoxaparin zur Verfügung steht
+        - 60 IU / kg bis max. 4000 IU nur wenn kein Enoxaparin zur Verfügung steht
 
 .. todo::
     -   Heparindosis:
 
-        -   lt. "Therapieschema NÖ 5000 IE
-        -   lt. Folie "Begleittherapie 4000 IE
+        -   lt. "Therapieschema NÖ 5000 IE
+        -   lt. Folie "Begleittherapie 4000 IE
 
     -   Patient mit = 75 a?
 

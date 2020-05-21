@@ -224,7 +224,7 @@ Taktik:
 
 -   Atemwege soweit möglich freimachen
 -   O₂-Gabe hochdosiert (10—15 L / min)
--   Lagerung: Situationsgerecht, z.B. Oberkörper erhöht
+-   Lagerung: Situationsgerecht, z. B. Oberkörper erhöht
 -   |TxBeiVit| |TxMassVitMK|
 -   Weitere Maßnahmen abhängig von der Beurteilung der Schwere der
     Atemwegsverlegung:

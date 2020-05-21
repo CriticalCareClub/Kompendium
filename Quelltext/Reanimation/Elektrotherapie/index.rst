@@ -15,10 +15,10 @@ Ohne diese
 elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und
 somit zum Kreislaufstillstand.
 Oft ist eine Störung der elektrischen Herzaktivität
-bzw. des elektischen Herzrhythmus die primäre Ursache des Kreislaufstillstands.
+bzw. des elektrischen Herzrhythmus die primäre Ursache des Kreislaufstillstands.
 
 Bei bestimmten Herzrhythmen
-("schockbare Rythmen": (pulslose) ventrikuläre Tachykardie,
+("schockbare Rhythmen": (pulslose) ventrikuläre Tachykardie,
 Kammerflimmern)
 wir die Elektrotherapie angewendet umd den Rhythmus zu normlaisieren. Man nennt diesen Vorgang
 :dfn:`elektrische Kardioversion`\ [321]_.
@@ -59,11 +59,9 @@ Defibrillatoren
 ..
     .. sidebar:: Defibrillatoren
 
-    - Halbautomatische Defibrillatoren (AED)
-
-    - Manuelle Defibrillatoren
-
-    - Automatische implantierbare Defibrillatoren
+        - Halbautomatische Defibrillatoren (AED)
+        - Manuelle Defibrillatoren
+        - Automatische implantierbare Defibrillatoren
 
 Geräte für die Defibrillation werden **Defibrillator**
 genannt.
@@ -136,13 +134,11 @@ Elektrische Herzrhythmen
         -  schockbare Rhythmen
 
             -  Kammerflimmern
-
             -  pulslose ventrikuläre Tachykardie
 
         -  nicht-schockbare Rhythmen
 
             -  Asystolie
-
             -  pulslose elektrische Aktivität
 
 Die Defibrillation ist nicht bei jeder Herzrhythmusstörung
@@ -162,14 +158,15 @@ Rhythmen:
 
 -  *Nicht-schockbare Rhythmen*
 
-    -   **Asystolie** :index:`\ <Asystolie>`: Keine Elektrische Aktivität
-    -   **Pulslose elektrische Aktivität** :index:`\ <Pulslose
-        elektrische Aktivität>`
+    -   **Asystolie** :index:`\ <Asystolie>`:
+        Keine Elektrische Aktivität
+    -   **Pulslose elektrische Aktivität**
+        :index:`\ <Pulslose elektrische Aktivität>`
         (*PEA*):
         Darunter fallen sämtliche andere elektrische Herzrhythmen,
         bei welchen das Herz auf einen elektrischen Impuls
         nicht mit einer adäquaten mechanischen Reaktion antwortet,
-        d. h. trotz elektrischer Herzaktivität kein Herzauswurf efolgt.
+        d. h. trotz elektrischer Herzaktivität kein Herzauswurf erfolgt.
 
 Beim SAED übernimmt das Gerät die Beurteilung ob ein elektrischer
 Herzrhythmus schockbar oder nicht-schockbar ist.
@@ -187,7 +184,7 @@ gemäß den *Gebrauchsanweisungen* des Herstellers zu verwenden.
 Allgemein lässt sich jedoch sagen:
 
 #.  Herzdruckmassage läuft
-#.  **Positionierung des Geäts**:
+#.  **Positionierung des Geräts**:
     Das Gerät wird in unmittelbarer Reichweite zum Patienten und Helfer
     positioniert, die Gerätetasche wird geöffnet.
 #.  Gerät einschalten
@@ -250,7 +247,8 @@ Allgemein lässt sich jedoch sagen:
 
     .. rubric:: Sicherheitshinweise
 
-    -   **Fehlströme**: Der Defibrillator darf nicht in einer *nassen Umgebung*
+    -   **Fehlströme**:
+        Der Defibrillator darf nicht in einer *nassen Umgebung*
         oder auf *Metallunterlagen* eingesetzt werden, da Wasser und die
         meisten Metalle den elektrischen Strom leiten. Dadurch sind Helfer
         bei der Schockabgabe gefährdet. Patienten, die aus dem Wasser
@@ -261,7 +259,8 @@ Allgemein lässt sich jedoch sagen:
         entzündlichen Substanzen oder in Umgebungen, in welchen
         *Explosionsgefahr* herrscht, eingesetzt werden!
 
-    -   **Kinder**: Viele Geräte dürfen bei Kindern erst ab einem bestimmten
+    -   **Kinder**:
+        Viele Geräte dürfen bei Kindern erst ab einem bestimmten
         Körpergewicht oder Alter (je nach Herstellerangabe) eingesetzt
         werden.
 
@@ -269,17 +268,20 @@ Allgemein lässt sich jedoch sagen:
         Sauerstoffquellen so weit wie möglich von den Elektroden weg zu
         halten (Richtwert ca. 1 m).
 
-    -   **Analyseprobleme**: Folgende Umstände können zu einem *Abbruch der
+    -   **Analyseprobleme**:
+        Folgende Umstände können zu einem *Abbruch der
         Analyse* führen: Eigenbewegung des Patienten, Manipulationen am
         Patienten (durch unachtsame Helfer), Manipulationen am Defibrillator
         oder Kabel, maschinelle Beatmung, Transport, sonstige
         Erschütterungen. In diesem Fall kann kein Schock abgegeben werden!
 
-    -   **Elektromagnetische Felder**: Bei Starkstromleitungen muss ein Abstand
+    -   **Elektromagnetische Felder**:
+        Bei Starkstromleitungen muss ein Abstand
         von mindestens 3 m gehalten werden, da sonst die Analyse beeinflusst
         werden kann.
 
-    -   **Medikamentenpflaster** müssen vor der Defibrillation entfernt werden.
+    -   **Medikamentenpflaster**
+        müssen vor der Defibrillation entfernt werden.
 
     -   Die Elektroden müssen **ohne Lufteinschlüsse** aufgeklebt werden.
 
@@ -307,14 +309,16 @@ Verwendung eines manuellen Defibrillators
         -  Positionierung
         -  Aufkleben der Elektroden
         -  Manueller Modus
-        -  Anaylse: Alle 2  min bzw. 5 Zyklen durch kompetenten und befugten Helfer
+        -  Analyse:
+            Alle 2 min bzw. 5 Zyklen durch kompetenten und befugten Helfer
 
         -  Energieauswahl:
 
             - Erwachsene Maximum,
             - Kinder 4  J  /  kg
 
-        -  Synchronisation (“Sync”): Bei Vorhandenen Kammerkomplexen
+        -  **Synchronisation!** (*"Sync"*):
+           Bei Vorhandenen Kammerkomplexen
         -  Schockabgabe
         -  Sicherheitshinweise
 

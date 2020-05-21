@@ -1,6 +1,8 @@
 
-.. _Thema-BeatmungAssistiert:
+.. index::
+    single: Beatmung
 
+.. _Thema-BeatmungAssistiert:
 .. _Thema-BeatmungKontrolliert:
 
 ###################
@@ -8,34 +10,31 @@ Beatmung (#23)
 ###################
 
 
+..
+    .. sidebar:: Beatmung -- Beschreibung
 
-.. sidebar:: Beatmung -- Beschreibung
-
-    -  Künstliche Überdruckbeatmung
-
-    -  Kontrollierte Beatmung: Atmung wird vollständig übernommen
-
-    -  Assistierte Beatmung: Eine vorhandene, aber unzureichende
-       Spontanatmung wird unterstützt
+        -  Künstliche Überdruckbeatmung
+        -  Kontrollierte Beatmung: Atmung wird vollständig übernommen
+        -  Assistierte Beatmung: Eine vorhandene, aber unzureichende
+        Spontanatmung wird unterstützt
 
 Bei *fehlender* oder *nicht ausreichender Spontanatmung*
 (Eigenatmung < 8 bzw. > 35/min oder Atemzugvolumen nicht ausreichend)
 wird eine *künstliche Beatmung* durchgeführt.
 Dabei wird Eigenatmung des Patienten
 künstlich durch geeignete Hilfsmittel ersetzt oder ergänzt.
-Es handelt sich um eine *Überdruckbeatmung*\  [135]_,
+Es handelt sich um eine *Überdruckbeatmung*\ [135]_,
 d. h. es wird mit Druck Luft in die Atemwege des Patienten gepumpt.
 (Im Unterschied dazu wird bei der natürlichen Atmung Luft mit Unterdruck
 in den Patienten eingesogen.)
 Man unterscheidet zwischen einer *kontrollierten* und einer *assistierten*
 Beatmung.
 
-
-
 .. [135]
    Theoretisch kann auch mittels einer Unterdruckkammer eine
    Unterdruckbeatmung durchgeführt werden
-   (*Eiserne* :index:`\ <noindex>` Lunge), dies ist aber sehraufwendig und wird
+   (*Eiserne Lunge* :index:`\ <Lunge; eiserne>`),
+   dies ist aber sehr aufwendig und wird
    praktisch nicht durchgeführt.
 
 Bei der :dfn:`kontrollierten Beatmung`
@@ -87,18 +86,16 @@ angewendet. Um die Atemwege freizuhalten, kann u. U. unterstützend ein
 :dfn:`Guedel-Tubus` :index:`\ <! Guedel-Tubus>` angewendet werden.
 
 ..
-    .. sidebar:: Baetmung -- Hilfsmittel
+    .. sidebar:: Beatmung -- Hilfsmittel
 
         -  Helferseitig:
 
             -  Beatmungsbeutel
-
             -  Beatmungsgerät
 
         -  Patientenseitig
 
             -  Beatmungsmaske
-
             -  Beatmungsschlauch
 
         -  Freihalten der Atemwege: Guedel-Tubus
@@ -112,18 +109,18 @@ Mögliche Sauerstoffkonzentrationen bei der Beatmung
 +-------------------------------------------------------------------------+------------------------+
 | Beutel-Masken-Beatmung                                                  | 21%                    |
 +-------------------------------------------------------------------------+------------------------+
-| Beutel-Masken-Beatmung mit angeschlossenem O₂ (15L/min)                 | 40–70%                 |
+| Beutel-Masken-Beatmung mit angeschlossenem O₂ (15 L / min)              | 40–70%                 |
 +-------------------------------------------------------------------------+------------------------+
-| Beutel-Masken-Beatmung mit angeschlossenem O₂ (15L/min) und Reservoir   | fast 100%              |
+| Beutel-Masken-Beatmung mit angeschlossenem O₂ (15 L / min) u. Reservoir | fast 100%              |
 +-------------------------------------------------------------------------+------------------------+
+
+.. index::
+    single: Beatmungsbeutel
 
 .. _Thema-Beatmungsbeutel:
 
 Beatmungsbeutel
 ===============
-
-Beschreibung
-------------
 
 Der selbstfüllende Beatmungsbeutel ist das einfachste Hilfsmittel,
 welches dem Fachpersonal zur Verfügung steht, und kommt in vielen
@@ -132,12 +129,8 @@ die kontrollierte oder assistierte Beatmung eines Patienten. Er kann
 mittels einer Beatmungsmaske angewendet, oder an andere Systeme (Tuben)
 angeschlossen werden.
 
--  Hilfsmittel zur kontrollierten und assistierten Beatmung
 
-
-
-Besonderheit: Beatmung während der Reanimation
-----------------------------------------------
+.. rubric:: Besonderheit: Beatmung während der Reanimation
 
 Die Beatmung während der Reanimation ist eine kontrollierte Beatmung.
 Wird eine Beatmungsmaske verwendet, so ist das Verhältnis zur
@@ -151,6 +144,15 @@ sie unabhängig von der Herzmassage erfolgen.
 *********************
 Maschinelle Beatmung
 *********************
+
+.. index::
+    single: Driving Pressure
+    single: pressure; driving
+    single: I:E-Verhältnis
+    single: Flow
+    single: Volumen
+    single: Compliance
+    single: Resistance
 
 Die Basics
 ==========
@@ -179,7 +181,7 @@ Druck
 Complicance
     der Lunge
 
-Ressistance
+Resistance
     Der Atemwegswiderstand
 
 Die Compliance bzw. Resistance spiegeln im Wesentlichen die gegebenen
@@ -201,6 +203,14 @@ Verbindung stehen und sich gegenseitig beeinflussen:
 Essentielle Beatmungsmuster
 ===========================
 
+.. index::
+    single: Volumenkontrollierte Beatmung
+    single: Beatmung; volumenkontrollierte
+    single: VCV
+    single: Volume Controlled Ventilation
+    single: IPPV
+    single: Intermittend Positive Pressure Ventilation
+
 Volumenkontrollierte Beatmung: ``VCV``, ``IPPV``
 ------------------------------------------------
 
@@ -217,13 +227,33 @@ definierte Inspirationszeit ein konstanter Flow angelegt, der
 Atemwegsdruck p\ :sub:`aw` steigt im Verlauf an.
 
 
-Druckkontrollierte Beamtung: ``PCV``
+.. index::
+    single: Druckkontrollierte Beamtung
+    single: Beamtung; druckkontrollierte
+    single: PCV
+    single: Pressure Controlled Ventilation
+    single: Driving Pressure
+    single: pressure; driving
+    single: dezelerierender Flow
+    single: Flow; dezelerierender
+
+Druckkontrollierte Beatmung: ``PCV``
 ------------------------------------
 
-Bei der klassichen druckkontrollierten Beatmung wird ein konstanter
+Bei der klassischen druckkontrollierten Beatmung
+(:dfn:`PCV`, :dfn:`Pressure Controlled Ventilation`)
+wird ein konstanter
 Differenzdruck (Δp, Driving Pressure) angelegt, es ergibt sich ein
 Flow, der über die Zeit, aufgrund der Angleichung von Außen- und
 Innendruck, schwächer wird (*dezelerierender Flow*).
+
+.. index::
+    single: Spontanatemmuster
+    single: CPAP
+    single: Continous Positive Airway Pressure
+    single: PSV
+    single: Pressure Support Ventilation
+    single: PEEP; CPAP
 
 Reine Spontanatemmuster: ``CPAP``, ``PSV``
 ------------------------------------------
@@ -239,28 +269,46 @@ Dadurch soll ein Kollabieren der Alveolen und die Bildung von
 Atelektasen verhindert werden.
 
 Im :dfn:`PSV`\ -Modus (:dfn:`Pressure Support Ventilation`) triggert die Eigenatmung
-des Patienten eine Druckunterstüzung und erleichtert so die
+des Patienten eine Druckunterstützung und erleichtert so die
 Atemarbeit.
+
+.. index::
+    single: Nicht-invasive Beatmung
+    single: Beatmung; nicht-invasive
+    single: NIV
 
 Nicht-invasive Beatmung (NIV)
 -----------------------------
 
-Der Begiff :dfn:`nciht-invasive Beatmung` (:dfn:`NIV`) beschreibt
+Der Begriff :dfn:`nicht-invasive Beatmung` (:dfn:`NIV`) beschreibt
 eigentlich keine eigene Beatmungsform,
 sondern die Art wie eine
 Beatmung am Patienten durchgeführt wird.
-Die NIV wird meist mittels Gesichtsmaske oder ähnlichen
+Die NIV wird meist mittels Gesichtsmaske, Helm oder ähnlichen
 Hilfsmitteln durchgeführt.
 Verwendet werden dabei meist die Spontanatmungsformen CPAP bzw. PSV.
+
+
+
+
+.. index::
+    single: Beatmungsgerät
+    single: Intensivbeatmungsgerät
+    single: Beatmungsgerät; Intensiv-
+    single: Transportbeatmungsgerät
+    single: Beatmungsgerät; Transport-
+    single: Notfallbeatmungsgerät
+    single: Beatmungsgerät; Notfall-
+
 
 .. _Thema-Beatmungsgeraete:
 
 Beatmungsgeräte
 ===========================
 
-Beatmungsgeräte übernehmen maschinell die Beatmung des Patienten. Je
-nach Gerät erlauben sie eine genauere Steuerung und Kontrolle der
-Beatmung und bieten z.T. umfangreiche Einstellungen und Beatmungsmuster
+Beatmungsgeräte übernehmen maschinell die Beatmung des Patienten.
+Je nach Gerät erlauben sie eine genauere Steuerung und Kontrolle der
+Beatmung und bieten z. T. umfangreiche Einstellungen und Beatmungsmuster
 zur Auswahl.
 
 Je nach Komplexität unterscheidet man unterschiedliche Typen von
@@ -281,7 +329,7 @@ Intensivbeatmungsgeräte
    dar.
    Auch hier gibt es zwischen den Herstellern und Modellen große
    Unterschiede.
-   Sie bieten an sich auch eine reichhaötige Auswahl an
+   Sie bieten an sich auch eine reichhaltige Auswahl an
    Einstellmöglichkeiten und Beatmungsmustern, bzw. bieten bereits
    diverse Möglichkeiten für eine differenzierte Beatmungstherapie,
    haben jedoch auch einige Einschränkungen
@@ -300,16 +348,29 @@ Notfallbeatmungsgeräte
    sowie Spontanatmungsformen wie CPAP oder NIV.
 
 
-Beispiel: Medumat Standard
---------------------------
+.. index::
+    single: Medumat™; Standard
+    single: Berieselungsmodul
+    single:
+    single:
 
-Exemplarisch sei hier das Notfallbeatmungsgerät *Medumat Standard* der
+
+Beispiel: Medumat™ Standard
+---------------------------
+
+.. todo:: Modernere Beatmungsgeräte vorstellen:
+
+    -   Oxylog 3000
+    -   neuer Medumat
+    -   evtl. Medumat Transport
+
+Exemplarisch sei hier das Notfallbeatmungsgerät *Medumat™ Standard* der
 Fa. Weinmann vorgestellt. Zusammen mit einem Sauerstoffmodul (*Modul
 Oxygen*, Berieselungsmodul) kann ein Patient sowohl beatmet als auch mit
 Sauerstoff berieselt werden. Für die Berieselung und Beatmung gibt es je
 ein eigenes Bedienfeld (Modul). Die Beatmung mittels Beatmungsgerät ist
 grundsätzlich dem ärztlichen Personal vorbehalten. Die Bedienung des
-Beatmungsbedienfeldes erfolgt allerdings auch durch ensprechend, gemäß
+Beatmungsbedienfeldes erfolgt allerdings auch durch entsprechend, gemäß
 MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 ärztliche Anordnung. [139]_
 
@@ -326,7 +387,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 .. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32851-00441pt.*
             :width: 99.9%
 
-            Beatmungsgerät *Medumat compact* auf einer
+            Beatmungsgerät *Medumat™ compact* auf einer
             Tragplatte. Zusätzlich angebracht sind eine
             Sauerstofflasche, eine Berieselungseinheit und daran
             angeschlossen eine Berieselungsmaske.
@@ -337,7 +398,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             :width: 99.9%
 
             Bedienfelder Berieselungseinheit *Modul Oxygen* und
-            Notfallbeatmungsgerät *Medumat Standard*
+            Notfallbeatmungsgerät *Medumat™ Standard*
 
             *Modul Oxygen (li.):* Flowmeter, Ein-Ausschalter und Regelventil. Der
             Anschluss links dient der Verbindung der Einheit mit dem Sauerstoffnetz
@@ -368,28 +429,38 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 
     Bilderserie: Beatmungsgeräte
 
+
+
+
+
+.. index::
+    single: PEEP
+    single: PEEP-Ventil
+    single: Ventil; PEEP-
+    single: Positiver end-exspiratorischer Druck
+    single: Positive End-Exspiratory Pressure
+    single: Alveolen; PEEP
+
+
 .. _Thema-PeepVentil:
-
 .. _Thema-PeepBasic:
-
 .. _Thema-Peep:
-
 .. _thema-peep-ventil :
-
 
 *********************************************************************
 Das PEEP-Ventil sorgt für einen positiven Druck am Ende der Ausatmung
 *********************************************************************
 
-.. sidebar:: PEEP
+..
+    .. sidebar:: PEEP
 
-    -  Positiver end-exspiratorischer Druck
+        -  Positiver end-exspiratorischer Druck
+        -  Zusammenfallen der Lungenbläschen verhindert
 
-    -  Zusammenfallen der Lungenbläschen verhindert
 
-
-:dfn:`PEEP` :index:`\ <PEEP>` steht für “Positive End-Exspiratory Pressure” (positiver
-end-exspiratorischer Druck), d. h. positiver Druck in den Atemwegen am
+:dfn:`PEEP` steht für :dfn:`Positive End-Exspiratory Pressure`
+(positiver end-exspiratorischer Druck),
+d. h. positiver Druck in den Atemwegen (auch) am
 Ende der Ausatmungsphase.
 
 Der PEEP sorgt dafür,
@@ -398,13 +469,23 @@ Atemwegen nicht auf 0 absinkt,
 sondern stattdessen ein positiver Druck
 aufrecht erhalten wird. Dadurch wird das Zusammenfallen der
 Alveolen verhindert.
+
+
+.. figure:: /Bilder/PallingerChristoph-Ccc/Peep_32909-AASS-0112mm.*
+
+            PEEP-Ventil
+
+            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+
+
+
 Ein PEEP kann
 mittels eines :dfn:`PEEP-Ventils` erreicht
 werden.
 Es wird dabei auf die Ausatemöffnung des Beatmungsbeutels bzw.
 Beatmungsschlauches aufgesteckt. Durch Drehen der Kappe kann der
 gewünschte PEEP eingestellt werden. Die Einstellung kann an der
-angebrachten *Skala* abgelesen werden [140]_. Es gibt
+angebrachten *Skala* abgelesen werden\ [140]_. Es gibt
 PEEP-Ventil-Produkte sowohl als *Einweg-*, als auch als
 *Mehrweg*\ material!\ [141]_
 Bei der Maskenbeatmung ist zu beachten,
@@ -420,20 +501,14 @@ da die Ausatemluft unkontrolliert über die
 
 
 .. [140]
-   Der Druck wird je nach Modell in cm Wassersäule (cm) oder Millibar
-   (mbar) angebeben. Typische Werte sind z. B. 5 oder 10 cm H₂O.
+   Der Druck wird je nach Modell in Zentimeter Wassersäule (cm H₂O)
+   oder Millibar (mbar) angebeben.
+   Typische Werte sind z. B. 5 oder 10 cm H₂O.
 
 .. [141]
-   Moderne Beatmungsgeräte verfügen oft über eine integrierte
-   PEEP-Funktion und benötigen kein zusätzliches PEEP-Ventil.
+   Moderne Beatmungsgeräte verfügen über eine integrierte
+   PEEP-Ventil und benötigen kein zusätzliches, externes PEEP-Ventil.
 
-
-
-.. figure:: /Bilder/PallingerChristoph-Ccc/Peep_32909-AASS-0112mm.*
-
-            PEEP-Ventil
-
-            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
 
 
 

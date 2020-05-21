@@ -50,16 +50,14 @@ unterscheidet zwischen dem klinischen und dem biologischen Tod
         :header-rows: 1
         :stub-columns: 0
 
-         *  -  Klinischer Tod
-            -  Biologischer Tod
-         *  -  keine Atmung
+        *   -   Klinischer Tod
+            -   Biologischer Tod
+        *   -   keine Atmung, kein Puls
             -  
-         *  -  kein Puls
-            -  
-         *  -  Unter Umständen reversibel (Reanimation)
-            -  Organtod des Gehirns (irreversibel)
-         *  -  
-            -  Gleichzusetzen mit Tod des Individuums
+        *   -   Unter Umständen reversibel (Reanimation)
+            -   Organtod des Gehirns (irreversibel)
+
+                Gleichzusetzen mit Tod des Individuums
 
 ..
    | **Klinischer Tod** & **Biologischer Tod**

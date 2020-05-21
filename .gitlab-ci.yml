@@ -6,14 +6,14 @@ pages:
   - convert --version
   - pip3 install sphinx sphinxcontrib.bibtex sphinx_git
   - apk --no-cache add make
-  - git checkout master
+  - git checkout snapshot
   - make html
-  - mv Export/master/html public
+  - mv Export/snapshot/html public
   artifacts:
     name: "$CI_JOB_NAME-$CI_COMMIT_REF_NAME"
     expire_in: 1 week
     paths:
     - public
   only:
-  - master
+  - snapshot
 

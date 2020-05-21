@@ -4,16 +4,13 @@
 Peripherer arterieller Gefäßverschluß (#51)
 ##############################################
 
-************
-Beschreibung
-************
-
 Beim *arteriellen Gefäßverschluss* wird das zuführende Gefäß
 verschlossen. Es kommt zu einer schmerzhaften Unterversorgung der
 Extremität mit Blut (Ischämie).
 Der komplette Verschluss passiert plötzlich.
 
--  Verschluß eines blut\ *zuführenden* Gefäßes
+..
+    -  Verschluß eines blut\ *zuführenden* Gefäßes
 
 ********
 Ursachen
@@ -26,7 +23,8 @@ mellitus*), Hypertonie, erhöhte
 Blutfette oder das Rauchen. Die Gefäße verkalken und verändern sich auch
 sonst nicht zu ihrem Vorteil.
 
--  Chronische Gefäßschädigung, z. B. Bei Diabetes mellitus, Hypertonie …
+..
+    -  Chronische Gefäßschädigung, z. B. Bei Diabetes mellitus, Hypertonie …
 
 ********************************
 Chronische Grunderkrankung: pAVK
@@ -38,7 +36,8 @@ ist eine häufige chronische Erkrankung. (*Achtung*: Obwohl es
 "*Verschluss*\ krankheit" heißt, sind die Gefäße nicht komplett
 verschlossen, sondern nur verengt!)
 
--  Periphere arterielle Verschlusskrankheit
+..
+    -  Periphere arterielle Verschlusskrankheit
 
 *****
 ABCDE
@@ -59,19 +58,20 @@ ABCDE
     In der betroffenen Extremität sind die peripheren Pulse schlecht
     oder überhaupt nicht tastbar.
 
-``2``
-    Schmerzen, Schonhaltung
+..
+    ``2``
+        Schmerzen, Schonhaltung
 
-``4``
-    Lokalisierter Schmerz; Blässe, Empfindungsstörungen, evtl. Lähmung
-    der betr. Extremität
+    ``4``
+        Lokalisierter Schmerz; Blässe, Empfindungsstörungen, evtl. Lähmung
+        der betr. Extremität
 
-``C``
-    Periphere Pulse der betr. Extremität schlecht/nicht tastbar
+    ``C``
+        Periphere Pulse der betr. Extremität schlecht/nicht tastbar
 
-    -  Die klassischen Symptome des arteriellen Gefäßverschlusses sind
-       Schmerz, Blässe, Pulslosigkeit, Gefühllosigkeit und evtl. Lähmung
-       der betroffenen Extremität.
+        -  Die klassischen Symptome des arteriellen Gefäßverschlusses sind
+        Schmerz, Blässe, Pulslosigkeit, Gefühllosigkeit und evtl. Lähmung
+        der betroffenen Extremität.
 
 *******
 SAMPLER
@@ -99,17 +99,18 @@ SAMPLER
     führen, insbesonders bei fehlender oder unzureichender
     gerinnungshemmender Therapie.
 
-``S``
-    ABCDE
+..
+    ``S``
+        ABCDE
 
-``M``
-    Je nach Begleiterkrankungen
+    ``M``
+        Je nach Begleiterkrankungen
 
-``P``
-    pAVK, Herz-Kreislauf-Erkrankungen, Diabetes mellitus, Vorhofflimmern
+    ``P``
+        pAVK, Herz-Kreislauf-Erkrankungen, Diabetes mellitus, Vorhofflimmern
 
-``R``
-    Siehe ``P``
+    ``R``
+        Siehe ``P``
 
 ********
 Symptome

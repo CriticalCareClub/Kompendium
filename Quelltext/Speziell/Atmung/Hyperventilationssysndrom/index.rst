@@ -22,9 +22,7 @@ Hyperventilationssyndrom und -tetanie (#36)
             -   Beim Hyperventilationssysdrom ist die Atmung *ohne körperliche
                 Ursache* gesteigert!
 
-..
-    Beschreibung und Ursachen
-    =========================
+
 
 Als :dfn:`Hyperventilationssyndrom` wird die übermäßig
 tiefe und schnelle Atmung *ohne körperliche Ursache* bezeichnet. Durch

@@ -81,20 +81,20 @@ ABCDE: Lungenödem
         **…**
             Beidseitige Beinödeme
 
-**1**
+``1``
     Toxisches Lungenödem: Besonders auf Umgebungssicherheit achten:
     Offene Lacke, Lösungsmittel, Dämpfe, Chemikalien, Warnschilder, ….
 
-**2**
+``2``
     Der Patient sitzt, oft sind die Pölster im Bett aufgetürmt.
 
-**4**
+``4``
     Atemnot
 
-**A**
+``A``
     Es kann zu schaumigem Auswurf kommen.
 
-**B**
+``B``
     Das Leitsymptom ist das |symbol-RedFlag|\  *brodelnde
     Atemgeräusch*, welches in schweren Fällen bereits ohne Hilfsmittel
     hörbar und typisch für das Lungenödem ist. Es klingt, als würde
@@ -108,13 +108,13 @@ ABCDE: Lungenödem
     (Orthopnoe),
     im Liegen verschlechtert sich die Atemnot deutlich.
 
-**C**
+``C``
     Die Herzfrequenz und der Blutdruck können in jede Richtung verändert
     sein (Herzrhythmusstörungen oder ein hypertensiver Notfall können
     ein kardiales Lungenödem auslösen!). Im Verlauf kann es zu einem
     |symbol-RedFlag|\  *kardiogenen Schock* kommen.
 
-**=**
+``=``
     Patienten mit einem |symbol-RedFlag|\  deutlich hörbaren
     Lungenödem (v.a. bei kardialer Ursache) sind schwer und
     *lebensbedrohlich krank*.
@@ -155,16 +155,16 @@ SAMPLER: Lungenödem
             Exposition? Ertrinkungsunfall? Erschwerender Faktor beim
             vorbestehender Herzerkrankung (Infekt, …)?
 
-**M**
+``M``
     Herzpatienten nehmen oft zahlreiche Medikamente ein (Blutdruck,
     Entwässerung, Blutfette, …).
 
-**P**
+``P``
     Häufig berichten die Patienten über Herz-Kreislauferkrankungen wie
     z.B. Herzinsuffizienz, Z.n. Herzinfarkt, Bluthochdruck oder
     Herzklappenerkrankungen.
 
-**E**
+``E``
     War der Patient chemischen Substanzen ausgesetzt? Ertrinkungsunfall?
 
     Erschwerender Faktor bei vorbestehender Herzerkrankung (Infekt, …)?
@@ -219,18 +219,18 @@ Taktik
     ärztliche Therapie notwendig
 
 Basismaßnahmen
--   |TxMassVitMK|
+    -   |TxMassVitMK|
 
-    -   Lagerung: Oberkörper hoch,
-        wenn möglich Beine herabhängen lassen
+        -   Lagerung: Oberkörper hoch,
+            wenn möglich Beine herabhängen lassen
 
-        Striktes Bewegungsverbot
-    -   Notarzt!
-    -   Reanimationsbereitschaft!
+            Striktes Bewegungsverbot
+        -   Notarzt!
+        -   Reanimationsbereitschaft!
 
--   Beengende Kleidung öffnen
--   Transportentscheidung: Internistische Intensiv- bzw.
-    Überwachungstation
+    -   Beengende Kleidung öffnen
+    -   Transportentscheidung: Internistische Intensiv- bzw.
+        Überwachungstation
 
 Pharmakotherapie
     -   Nitrate

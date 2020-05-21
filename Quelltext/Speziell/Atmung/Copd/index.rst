@@ -26,7 +26,7 @@ Chronische Bronchitis und COPD (#35)
 Die :dfn:`chronische Bronchitis` ist eine chronische
 entzündliche Schleimhautschädigung der unteren Atemwege.
 Die :dfn:`COPD` (:dfn:`Chronische Obstruktive`
-Lungenerkrankung) [228]_ ist eine chronische entzündliche
+Lungenerkrankung [228]_\ ) ist eine chronische entzündliche
 Schleimhautschädigung, welche eine zunehmende obstruktive
 Atemwegseinschränkung aufweist.
 
@@ -240,7 +240,7 @@ SAMPLER: COPD
     Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
     “Karriere” hinter sich.
 
-    [Lena Hirtler, Lizenz: MfG]
+    [Lena Hirtler, :term:`Lizenz:`MfG`]
 
 .. _m-copd-exzerbation:
 

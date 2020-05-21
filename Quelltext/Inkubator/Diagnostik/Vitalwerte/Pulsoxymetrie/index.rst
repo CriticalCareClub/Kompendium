@@ -136,16 +136,15 @@ niemals das wachsame Auge auf den Patienten!
 Ermittelte Werte
 ----------------
 
-Die Sauerstoffsättigung wird in Prozent angegeben und wird mit !!!
-TERMINUS !!! *SpO2* abgekürzt. Der Normalwert liegt zwischen *96—100%*.
+Die Sauerstoffsättigung wird in Prozent angegeben und wird mit :dfn:`SpO₂` abgekürzt. Der Normalwert liegt zwischen *96—100%*.
 Bei Patienten mit chronischer Lungenerkrankung findet man
 jedoch oft sehr niedrige Werte (z. B. 90%), ohne dass die Patienten
 Beschwerden haben.
 
--  Normalwert: 96—100%
-
--  chronisch lungenkranke Patient: auch Werte < 90% möglich ohne
-   Beschwerden
+..
+    -  Normalwert: 96—100%
+    -  chronisch lungenkranke Patient: auch Werte < 90% möglich ohne
+    Beschwerden
 
 Beurteilung
 -----------
@@ -196,16 +195,17 @@ Die größte Gefahr ist die falsche Interpretation von Messwerten.
    verfälschen, da es sich ja um eine lichtabhängige Messmethode
    handelt.
 
--  CO-Vergiftungen (falsch hohe Werte)
+..
+    -  CO-Vergiftungen (falsch hohe Werte)
 
--  Minderdurchblutung der Peripherie; Entweder durch Zentralisation beim
-   Schock oder Unterkühlung.
+    -  Minderdurchblutung der Peripherie; Entweder durch Zentralisation beim
+    Schock oder Unterkühlung.
 
--  Nagellack
+    -  Nagellack
 
--  Künstliche Fingernägel
+    -  Künstliche Fingernägel
 
--  Lichteinstrahlung von der Seite
+    -  Lichteinstrahlung von der Seite
 
 Hygienische Wiederaufbereitung
 ------------------------------

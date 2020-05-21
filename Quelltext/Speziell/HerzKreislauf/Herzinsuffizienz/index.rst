@@ -114,7 +114,7 @@ ABCDE
     Es können Zeichen eines |symbol-RedFlag| kardiogenen Schocks
     auftreten.
 
-:…:
+``…``
     Bei der Rechtsherzinsuffizienz kommt es zu einem Rückstau des Blutes
     in den Körperkreislauf und damit zu Ödemen (Beine, …) und gestauten
     Halsvenen. Die Patienten müssen häufig nachts urinieren. Über
@@ -122,7 +122,7 @@ ABCDE
     "Wasserbauch" (Aszites) bilden, dabei wird durch den Rückstau
     Wasser in den freien Bauchraum abgepresst.
 
-:=:
+``=``
     Es ist wichtig, den Schweregrad und die Kompensation einer
     Herzinsuffizienz zu beurteilen. Man muss die Symptome generell
     *anhand ihres Verlaufs beurteilen*: Bekannte, seit längerer Zeit
@@ -145,36 +145,37 @@ ABCDE
     bringen. Es kommt immer wieder vor, dass solche Patienten im
     Stiegenhaus oder im Auto reanimationspflichtig werden.
 
-``2``
-    Blass, evtl. kaltschweißig. Evtl. agitiert
+..
+    ``2``
+        Blass, evtl. kaltschweißig. Evtl. agitiert
 
-``4``
-    *Dyspnoe*, besonders im Liegen → Sitzende
-    Position!
+    ``4``
+        *Dyspnoe*, besonders im Liegen → Sitzende
+        Position!
 
-    Evtl.  schweres kardiales Lungenödem
+        Evtl.  schweres kardiales Lungenödem
 
-``B``
-    *Tachypnoe*,  Dyspnoe
+    ``B``
+        *Tachypnoe*,  Dyspnoe
 
-``C``
-    *Tachykardie*, *Hypotonie* oder *Hypertonie* (RR kann Auslöser
-    sein). Evtl. Zeichen eines   kardiogenen Schocks
+    ``C``
+        *Tachykardie*, *Hypotonie* oder *Hypertonie* (RR kann Auslöser
+        sein). Evtl. Zeichen eines   kardiogenen Schocks
 
-**…**
-    -  Lungenödem
+    ``…``
+        -  Lungenödem
 
-    -  Bein-/*Hautödeme*
+        -  Bein-/*Hautödeme*
 
-    -  gestaute Halsvenen
+        -  gestaute Halsvenen
 
-    -  Nächtliches Wasserlassen
+        -  Nächtliches Wasserlassen
 
-:=:
-    -  Chronisch: oft Gewöhnungseffekte, Kompensation
+    ``=``
+        -  Chronisch: oft Gewöhnungseffekte, Kompensation
 
-    -  Dekompensation: Plötzlich neu auftretende Symptome, evtl.
-       Alarmsymptome
+        -  Dekompensation: Plötzlich neu auftretende Symptome, evtl.
+        Alarmsymptome
 
 
 .. [236]
@@ -201,15 +202,16 @@ SAMPLER
     Infektionen und andere Erkankungen, Stress und ein plötzlicher
     Blutdruckanstieg.
 
-``S``
-    Viele
+..
+    ``S``
+        Viele
 
-``P``
-    | Herzinsuffizienz bereits bekannt,
-    | Befunde, Bluthochdruck, Herzerkrankungen, frühere Herzinfarkte
+    ``P``
+        | Herzinsuffizienz bereits bekannt,
+        | Befunde, Bluthochdruck, Herzerkrankungen, frühere Herzinfarkte
 
-``R``
-    Ungewohnte Belastung: Infekte, Erkrankungen, Blutdruckanstieg
+    ``R``
+        Ungewohnte Belastung: Infekte, Erkrankungen, Blutdruckanstieg
 
 .. _proc-MI50090C:
 .. _m-herzinsuffizienz:

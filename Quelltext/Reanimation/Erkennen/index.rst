@@ -15,7 +15,7 @@ ist das frühzeitige **Erkennen**
 dass ein Patient *reanimationspflichtig* ist.
 Grundsätzlich wird,
 wie bei jedem Patientenkontakt,
-mit dem Einschützungsblock/1234-ABCDE-Schema begonnen (:ref:`Thema-Patientenmanagement`).
+mit dem Einschätzungsblock/1234-ABCDE-Schema begonnen (:ref:`Thema-Patientenmanagement`).
 Nach Erkennen des **fehlenden Bewusstseins** (``4``)
 wird bei ``A`` (Atemweg) der *Kopf überstreckt*
 und eine *Atemkontrolle* durchgeführt,
@@ -25,7 +25,7 @@ Die Kombination *"fehlendes Bewusstsein"* und *"Atemstillstand"*
 (bzw. Schnappatmung) ergibt bereits die Notfalldiagnose
 **Herz-Kreislaufstillstand** und somit die Indikation zur
 Kardiopulmonalen Reanimation.
-Der gesonderderte Nachweis der Pulslosigkeit ist *nicht* erforderlich!
+Der gesonderte Nachweis der Pulslosigkeit ist *nicht* erforderlich!
 
 
 

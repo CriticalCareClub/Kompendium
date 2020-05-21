@@ -72,7 +72,7 @@ Handbewegungen.
 Material
 ========
 
--  Alkoholische Händedesinfektionslösung, z.B.: Sterilium, Manopronto
+-  Alkoholische Händedesinfektionslösung, z. B.: Sterilium, Manopronto
    o. ä.
 
 Handlungsschritte
@@ -575,7 +575,7 @@ FULLPRETTYREFPROCEDURE !!! YY14200B); jedenfalls nach einer Helmabnahme.
 Bei einem Schädel-Hirn-Trauma (SHT) kommt es oft zu Verletzungen der
 HWS, daher sollte hier die Indikation auch großzügig gestellt werden.
 
-Es sind verschiedene Fabrikate verfügbar (z.B. Stifneck, Ambu Perfit,
+Es sind verschiedene Fabrikate verfügbar (z. B. Stifneck, Ambu Perfit,
 …). Es gibt Schienen mit einer fixen Größe oder moderne Schienen, bei
 welchen sich die gewünschte vorher abgemessene Größe einstellen lässt
 (Stifneck select bzw. Stifneck Paedi select für Kinder).
@@ -768,7 +768,7 @@ Vorgehen
 #. Patient liegt, wie unter :ref:`Thema-schaufeltrage-aufschaufeln`,
    beschrieben, auf der Schaufeltrage.
 
-#. Umlagern, z.B. auf Vakuummatratze: Trage mit vorbereiteter Matratze
+#. Umlagern, z. B. auf Vakuummatratze: Trage mit vorbereiteter Matratze
    (:ref:`Thema-vakuummatratze-anwendung`) neben Patienten stellen um diesen
    einen möglichst geringen Weg tragen/bewegen zu müssen.
 
@@ -801,9 +801,9 @@ nicht darauf vorbereitet sind (Tauschmaterial, …). [156]_
    Schaufeltrage / Immobilisation: Die Immobilisation direkt auf der
    Schaufeltrage ist – entgegen vieler Gerüchte – nicht nur möglich,
    sondern auch von Herstellern, wie zum Beispiel Ferno ausdrücklich
-   freigegeben (z.B. Ferno *ScoopEXL* Schaufeltrage). Die Produkte sind
+   freigegeben (z. B. Ferno *ScoopEXL* Schaufeltrage). Die Produkte sind
    auch entsprechnd konstruiert (Röntgendurchlässigkeit, …). Zubehör,
-   wie z.B. die Ferno *SpiderStraps* oder Ferno *Head Immobilizer for
+   wie z. B. die Ferno *SpiderStraps* oder Ferno *Head Immobilizer for
    65EXL*, werden ausdrücklich für Schaufeltragen angeboten.
 
    Ein entsprechendes Instruktionsvideo kann unter
@@ -818,7 +818,7 @@ Material und Personal
 
 -  Passende Kopfstützen
 
--  Passendes Gurtsystem zur Immobilisation (z.B. Ferno *Fastrap Quick
+-  Passendes Gurtsystem zur Immobilisation (z. B. Ferno *Fastrap Quick
    Restraint System*, :ref:`Thema-spiderstraps-beschreibung`)
 
 -  Patient auf Schaufeltrage (:ref:`Thema-schaufeltrage-aufschaufeln`)
@@ -1246,14 +1246,14 @@ Material und Personal
 
 -  Sterile Wundauflage je nach Wundgröße
 
--  Druckkörper: z.B. Mullbinde
+-  Druckkörper: z. B. Mullbinde
 
--  Verbandsmaterial [159]_ (z.B. Dreiecktuchkrawatte)
+-  Verbandsmaterial [159]_ (z. B. Dreiecktuchkrawatte)
 
 
 .. [159]
    Druckverband: Unter Umständen ist die Verwendung von flexiblen
-   Verbandsmaterial (z.B. PehaHaft) ausreichend bzw. je nach
+   Verbandsmaterial (z. B. PehaHaft) ausreichend bzw. je nach
    Wundlokalisation zu bevorzugen.
 
 Vorgehen
@@ -1268,7 +1268,7 @@ Vorgehen
 #. Druckkörper dem Wundverlauf folgend über die sterile Wundauflage
    legen, weiterhin drücken.
 
-#. Mit einem Verband (z.B. Dreiecktuchkrawatte) wird der Druckkörper
+#. Mit einem Verband (z. B. Dreiecktuchkrawatte) wird der Druckkörper
    fest und möglichst vollständig umschlungen.
 
 #. Das Verbandsmaterial wird festgezogen und mit einem festen Knoten und

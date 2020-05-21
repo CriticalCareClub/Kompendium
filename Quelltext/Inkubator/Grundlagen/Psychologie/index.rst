@@ -33,7 +33,7 @@ Beschreibung
 
 Im Kapitel *Tätigkeitsbild* TAE werden unter
 :ref:`Thema-taetigkeitsbild-sanitaeter-belastung` die allgemeinen
-Anforderungen an Sanitätspersonal, wie z.B. medizinisches Wissen und
+Anforderungen an Sanitätspersonal, wie z. B. medizinisches Wissen und
 Kompetenz, Zuverlässigkeit, Eigenverantwortlichkeit, Fähigkeit
 Verantwortung zu übernehmen, Einfühlungsvermögen, Teamfähigkeit und
 *Frustrationstoleranz* besprochen. Im Folgenden wird auf die damit
@@ -106,7 +106,7 @@ Aufgaben
 --------
 
 -  *Arbeitsumgebung*: Sanitäter sehen sich häufig mit *komplexen,
-   mehrdeutigen Situationen* konfrontiert, wie z.B. bei Notfällen bzw.
+   mehrdeutigen Situationen* konfrontiert, wie z. B. bei Notfällen bzw.
    Erkrankungen, die die Handlungsplanung bei der Versorgung erschweren
    und damit nicht zuletzt auch die emotionale Anspannung erhöhen
    können. Auch *Faktoren der Arbeitsumgebung* haben darauf einen
@@ -153,14 +153,14 @@ Rolle
    und gesetzliche Bestimmungen beschränkt. Daraus können Situationen
    entstehen, die zu
 
--  *Rollenkonflikt* (z.B. Konflikt zwischen dem eigenen Anspruch und der
+-  *Rollenkonflikt* (z. B. Konflikt zwischen dem eigenen Anspruch und der
    Ressourcenlage der Organistation),
 
--  *Rollenambiguität* (z.B. unklare Ausgangslage bzgl. lebensrettender
+-  *Rollenambiguität* (z. B. unklare Ausgangslage bzgl. lebensrettender
    Maßnahme aufgrund widersprüchlicher Lehr- bzw. Gesetzesmeinung) und
    auch
 
--  *Rollenüberforderung* (z.B. Überschreitung der persönlichen oder
+-  *Rollenüberforderung* (z. B. Überschreitung der persönlichen oder
    zeitlichen Ressourcen bei Großschadensereignis oder aufgrund zu hoher
    Erwartungshaltung seitens des Betroffenen bzw. deren Angehörige)
 
@@ -174,10 +174,10 @@ Zu guter Letzt sei daraufhingewiesen, dass die individuell erlebte
 Beanspruchung auch von der Fähigkeit des Einzelnen abhängt, in seiner
 Rolle als in einem Versorgungssystem tätige Person *eine persönlich
 angemessene Balance* zwischen einer *professionellen verständnisvollen
-Haltung (z.B. soft skills wie empathisches Umgehen etc.), strukturellen
-bzw. fachlichen Erfordernissen seiner Rollenfunktion als Sanitäter (z.B.
+Haltung (z. B. soft skills wie empathisches Umgehen etc.), strukturellen
+bzw. fachlichen Erfordernissen seiner Rollenfunktion als Sanitäter (z. B.
 Dienstvorschriften, Behandlungsstandards) und persönlichen Grenzen u.
-Bedürfnissen (z.B. eigenes Wohlbefinden, Gefühle) zu finden (Beispiel
+Bedürfnissen (z. B. eigenes Wohlbefinden, Gefühle) zu finden (Beispiel
 siehe Exkurs zu Rollenambivalenz)*.
 
 Die individuelle erlebte Beanspruchung ist daher auch von der Fähigkeit
@@ -207,7 +207,7 @@ bzw. in letzter Instanz evtl. für das Leben eines anderen Menschen
 verantwortlich zu fühlen.
 
 Im Rahmen dieser Aufgabe werden dem professionellen Helfer diverse
-Handlungs- und Entscheidungskompetenzen überantwortet – z.B. die Wahl
+Handlungs- und Entscheidungskompetenzen überantwortet – z. B. die Wahl
 der Maßnahmen am Patienten, die Organisation des Einsatzes etc. –,
 zwischen denen er womöglich auch unter Zeitdruck nach bestem Wissen und
 Gewissen entscheiden soll.
@@ -226,7 +226,7 @@ Ungleichgewichte können sich einerseits durch das übermäßiges Verhaften
 in der Professionistenrolle (*“Versorgungsroboter”*), andererseits aber
 auch durch *zu hohes Einbringen* persönlicher Gefühlsanteile aufgrund
 von Gefühlsansteckung (=Übernahme der Gefühle des Betroffenen) bis hin
-zur Lähmung durch emotionalen Kontrollverlust (z.B. emotionaler Schock)
+zur Lähmung durch emotionalen Kontrollverlust (z. B. emotionaler Schock)
 ausdrücken.
 
 Es muss betont werden, dass eine ausgeglichene Rollenaufteilung
@@ -235,7 +235,7 @@ hilft das persönliche vom professionellen zu trennen, aber gleichzeitig
 auch erlaubt seinen persönlichen Stil in die Versorgung einzubringen.
 Dies erfordert jedoch eine ausgewogene Integration der beiden
 dargestellten Aspekte “Sanitäterrolle” und “Rolle als emotionales
-Individuum”. Das Bewusstmachen persönlicher Gefühle und Grenzen – z.B.
+Individuum”. Das Bewusstmachen persönlicher Gefühle und Grenzen – z. B.
 durch *Selbstreflexion*, Gespräche etc. – ist hierbei wesentlich und
 hilfreich.
 
@@ -349,18 +349,18 @@ Gleichgewicht gefährden. [31]_
 
 Mögliche Belastungsquellen, die die Anpassungsmöglichkeiten des
 Organismus überfordern und krankheitsauslösend wirken können, wenn sie
-als unkontrollierbar erlebt werden sind z.B.
+als unkontrollierbar erlebt werden sind z. B.
 
--  *kritische Lebensereignisse* (*life events*) z.B. der Verlust nahe
+-  *kritische Lebensereignisse* (*life events*) z. B. der Verlust nahe
    stehender Menschen, Scheidung, Unfall, schwere Erkrankung, Verlust
    des Arbeitsplatzes, Schwangerschaft etc.
 
--  *außergewöhnlicher/traumatisiserender Stress* z.B. Katastrophen,
+-  *außergewöhnlicher/traumatisiserender Stress* z. B. Katastrophen,
    lebensbedrohliche Situationen, Verbrechensopfer, Gewalterfahrungen,
    emotionaler Missbrauch, Folter, Gefangenschaft.
 
 -  *alltägliche Hintergrundstressoren* (*daily hassles*), die sich mit
-   der Zeit aufsummieren persönliche Stressoren z.B. dysfunktionale
+   der Zeit aufsummieren persönliche Stressoren z. B. dysfunktionale
    Gedanken wie Selbstentwertung, überhöhte Anforderungen an sich selbst
 
 -  *Idiosynkratische Körperreaktionen* auf Stress
@@ -383,7 +383,7 @@ als unkontrollierbar erlebt werden sind z.B.
    Systemen; trotz äußerer Störfaktoren wird das innere Milieu dank
    verschiedener *Anpassungsreaktionen* konstant gehalten; eine
    Fehlregulation allostatischer Systeme durch zu *häufigen, intensiven
-   oder lange andauernden Stress (z.B. chronischer Stress) kann pathogen
+   oder lange andauernden Stress (z. B. chronischer Stress) kann pathogen
    wirken*, aufgrund langfristiger physiologischer Veränderungen.
 
 
@@ -402,16 +402,16 @@ Folgende Belastungsquellen können die Anpassungsmöglichkeiten des
 Organismus überfordern, beeinträchtigen und krankheitsauslösend wirken,
 v.a. wenn sie als unkontrollierbar erlebt werden:
 
--  *kritische Lebensereignisse* (*life events*) z.B. der Verlust nahe
+-  *kritische Lebensereignisse* (*life events*) z. B. der Verlust nahe
    stehender Menschen, Scheidung, Unfall, schwere Erkrankung, Verlust
    des Arbeitsplatzes, Schwangerschaft etc.
 
--  *außergewöhnlicher/traumatisiserender Stress* z.B. Katastrophen,
+-  *außergewöhnlicher/traumatisiserender Stress* z. B. Katastrophen,
    lebensbedrohliche Situationen, Verbrechensopfer, Gewalterfahrungen,
    emotionaler Missbrauch, Folter, Gefangenschaft.
 
 -  *alltägliche Hintergrundstressoren* (*daily hassles*), die sich mit
-   der Zeit aufsummieren persönliche Stressoren z.B. dysfunktionale
+   der Zeit aufsummieren persönliche Stressoren z. B. dysfunktionale
    Gedanken wie Selbstentwertung, überhöhte Anforderungen an sich selbst
 
 -  *Idiosynkratische Körperreaktionen* auf Stress
@@ -479,7 +479,7 @@ sind. [32]_
    Allgemeines Adaptationssyndrom: Das Allgemeine Adaptationssyndrom
    (Von Selye postuliert, zitiert nach [ZimbardoPsych:6]_ ) ist als eine
    komplexe Antwort des Körpers zu verstehen, wenn die Homöostase des
-   Organismus durch Stressoren wie z.B. Gefahr, Lebensbedrohung,
+   Organismus durch Stressoren wie z. B. Gefahr, Lebensbedrohung,
    Belästigung etc. gestört wird. Es gliedert sich in drei Phasen:
 
    *Alarmphase*: diese ist unterteilt in Schock- und Gegenschockphase.
@@ -628,8 +628,8 @@ Aktivierung, Aktivierungsniveau, Überforderung, Unterforderung
 ==============================================================
 
 Mit dem Begriff Aktivierung ist ein allgemeiner Erregungszustand
-gemeint, der seinen Ausdruck in unterschiedlichen Gefühlszuständen (z.B.
-Gefühl der Anspannung/Aufregung) und physiologischen Veränderungen (z.B.
+gemeint, der seinen Ausdruck in unterschiedlichen Gefühlszuständen (z. B.
+Gefühl der Anspannung/Aufregung) und physiologischen Veränderungen (z. B.
 erhöhte(r) Herzschlag, Muskeltonus und Atemfrequenz) findet und von
 unterschiedlichen Bewusstseinszuständen und Umweltbedingungen
 beeinflusst wird. Zahlreiche psychologische Studien verweisen auf einen
@@ -637,7 +637,7 @@ umgekehrt U-förmigen Zusammenhang zwischen Aktivierung und
 Leistungsfähigkeit hin: d.h. die optimale Leistung lässt sich in
 mittleren Erregungszuständen erbringen, zu niedrige (Unterforderung)
 oder zu hohe Aktivierung (Überforderung) schwächt die Leistungsfähigkeit
-und verursacht gleichzeitig auch Unbehagen (z.B. Anspannungsgefühl wegen
+und verursacht gleichzeitig auch Unbehagen (z. B. Anspannungsgefühl wegen
 Langeweile bzw. Überforderung, Ängstlichkeit, Verunsicherung). In der
 Regel suchen wir -sofern möglich, entsprechend des Gleichgewichtmodells
 - Situationen auf, die uns in ein angenehmes Aktivierungsniveau
@@ -646,12 +646,12 @@ Aktivitäten/Beschäftigungen nach (Gespräch, Hobby, Sport etc.), bei
 hoher Aktivierung ziehen wir uns zurück, versuchen zu entspannen.
 
 Je nach persönlicher Veranlagung und Lebenserfahrung verfügt jeder
-Mensch über sein individuelles Erregungsniveau (z.B. Menschen die
+Mensch über sein individuelles Erregungsniveau (z. B. Menschen die
 generell eine höhere oder niedrigere Grunderregung aufweisen)und
-Aktivierungsprofil (z.B. Menschen die sensibler bzw. weniger sensibel
+Aktivierungsprofil (z. B. Menschen die sensibler bzw. weniger sensibel
 auf Umwelteinflüsse reagieren). Beides kann sich entsprechend jeweiliger
-Situationen/Lebensumstände (z.B. Versorgung einer Schürfwunde vs.
-Reanimation) und Stimmungslage (z.B. unangenehme negative Stimmungslage
+Situationen/Lebensumstände (z. B. Versorgung einer Schürfwunde vs.
+Reanimation) und Stimmungslage (z. B. unangenehme negative Stimmungslage
 erhöht Anspannungslevel und Stresssensibilität)auch verändern bzw.
 verschieben kann. Dies kann das subjektive Gefühl von Über- bzw.
 Unterforderung beeinflussen und pathologische Entwicklungen begünstigen
@@ -668,7 +668,7 @@ Ableitungen für den Sanitätsdienst:
    Person unterschiedlich.
 
 -  Im Sinne der Stressvermeidung wäre es wichtig, Sensibilität für sein
-   persönliches Erregungsprofil zu entwickeln, z.B. “Fühle ich mich
+   persönliches Erregungsprofil zu entwickeln, z. B. “Fühle ich mich
    generell eher angespannt oder aufgeregt? Wie fühle ich mich jetzt
    gerade? Auf welche Auslöser/Situationen reagiere ich besonders
    stark?”
@@ -689,19 +689,19 @@ Stressauswirkungen
 
 Prinzipiell können sich die Auswirkungen von Stress in allen Facetten
 des Erlebens und Verhaltens von Betroffenen wiederspiegeln, d.h. global
-betrachtet im *persönlichen Wohlbefinden* (z.B. unspezifische Gefühle
-des Unwohlseins), *auf emotionaler Ebene* (z.B. gedrückte Stimmung,
+betrachtet im *persönlichen Wohlbefinden* (z. B. unspezifische Gefühle
+des Unwohlseins), *auf emotionaler Ebene* (z. B. gedrückte Stimmung,
 Frustrationsgefühle, Gefühle der Unsicherheit/Ängstlichkeit), *auf
-gedanklicher Ebene* (z.B. neg. Gedanken, Grübeln, Selbst- oder
-Fremdentwertung), *im Antrieb* (z.B. Energielosigkeit,
-Antriebsschwächen), *in der Motivation* (z.B. Unlust,
+gedanklicher Ebene* (z. B. neg. Gedanken, Grübeln, Selbst- oder
+Fremdentwertung), *im Antrieb* (z. B. Energielosigkeit,
+Antriebsschwächen), *in der Motivation* (z. B. Unlust,
 Interessensverlust, Perspektivlosigkeit), in der *persönlichen
-Einstellung bzw. Wertesystemen* (z.B. Zynismus, negativistische
+Einstellung bzw. Wertesystemen* (z. B. Zynismus, negativistische
 Weltsicht, Pessimismus), in der *zirkadianen Rhythmik* (Ein- bzw.
 Durchschlafstörungen, Müdigkeit, Überdrehtsein) sowie *im Umgang mit
-sich selbst* (z.B. selbstschädigendes Verhalten durch Alkohol/Drogen,
+sich selbst* (z. B. selbstschädigendes Verhalten durch Alkohol/Drogen,
 über seine Grenzen gehen, Gefühle unterdrücken/ignorieren) bzw. *mit
-seiner sozialen Umwelt* (z.B. soziale Normen brechen,
+seiner sozialen Umwelt* (z. B. soziale Normen brechen,
 gereiztes/feindseliges Reagieren, sozialer Rückzug). Desweiteren sei auf
 mögliche *körperliche Warnsignale* hingewiesen, wobei häufig in diesem
 Zusammenhang von folgenden Beschwerden berichtet wird: erhöhte
@@ -719,13 +719,13 @@ und *Introspektion* den erstmöglichen Zugang bietet, da der Betroffene
 selbst auf gedanklich-emotionaler Ebene wohl die erste Chance bekommt,
 die Vorboten von Distress zu erkennen bzw. am eigenen Leib zu “spüren”.
 Da viele der o.g. Auswirkungen aber sehr *subtil bzw. schleichend
-sukzessive* erfolgen bzw. auch durch unbewusste Abwehrmechanismen (z.B.
+sukzessive* erfolgen bzw. auch durch unbewusste Abwehrmechanismen (z. B.
 Verdrängung) sich der bewussten Wahrnehmung häufig entziehen, kann eine
 *Sensibilisierung der Eigenwahrnehmung von Gefühlen* bzw. *Schärfung der
 Selbstreflexion durch Inter- und/oder Supervision* einen den
 Selbstschutz fördern. Nehmen Betroffene die Warnsignale nicht wahr,
 könnte eine ausgeprägte *Offenheit für Feedback* über das eigene
-Verhalten durch andere Personen, z.B. Angehörige, Freunde, Kollegen,
+Verhalten durch andere Personen, z. B. Angehörige, Freunde, Kollegen,
 Supervisor, Peergroup etc. (Fremdwahrnehmung) einen möglichen Zugang
 darstellen. Diesbzgl. wäre eine *entsprechende Teamkultur* eine
 unbedingte Voraussetzung.
@@ -740,7 +740,7 @@ Beanspruchungsfolgen
    Frustrationen im zwischenmenschlichen Bereich sowie eingeschränkte
    Handlungsmöglichkeiten, adäquat darauf reagieren zu können, gemeint
    sein. Ebenso ist unter dem Begriff die persönliche Anfälligkeit für
-   *gesundheitliche Erkrankungen* gemeint sein, z.B. durch die oben
+   *gesundheitliche Erkrankungen* gemeint sein, z. B. durch die oben
    beschrieben Schwächung der Immunkompetenz.
 
 -  **Frustration**: Ausgehend von der Prämisse, dass unbewältigter Stress
@@ -776,7 +776,7 @@ Beanspruchungsfolgen
 
 .. [40]
    Dass eine zynische Grundhaltung nicht nur im zwischenmenschlichen
-   Bereich Probleme verursachen (z.B. durch neg. Bewertung durch
+   Bereich Probleme verursachen (z. B. durch neg. Bewertung durch
    Menschen aufgrund wahrgenommener Feindseligkeit im Umgang
    miteinander), sondern auch mit ungünstigen gesundheitlichen
    Konsequenzen einhergehen kann, zeigt die folgende Untersuchung. Die
@@ -1082,7 +1082,7 @@ Diese entsteht als eine protrahierte bzw. *verzögerte
 Reaktion auf ein belastendes Ereignis* oder eine Situation kürzerer oder
 längerer Dauer, mit außergewöhnlicher Bedrohung oder katastrophenartigem
 Ausmaß, die bei fast jedem eine tiefe Verzweiflung hervorrufen würde.
-Prädisponierende Faktoren wie bestimmte, z.B. zwanghafte oder
+Prädisponierende Faktoren wie bestimmte, z. B. zwanghafte oder
 asthenische Persönlichkeitszüge oder neurotische Krankheiten in der
 Vorgeschichte können die Schwelle für die Entwicklung dieses Syndroms
 senken und seinen Verlauf erschweren, aber die letztgenannten Faktoren
@@ -1115,7 +1115,7 @@ Leitsymptome
    oder wach als Flashbacks/Erinnerungsbilder) – evtl. ausgelöst durch
    traumaassoziierte Reize.
 
--  *Vermeidungsverhalten* gegenüber traumarelevanten Reizen, z.B.
+-  *Vermeidungsverhalten* gegenüber traumarelevanten Reizen, z. B.
    Gefühle, Gedanken, Gespräche, Aktivitäten, Personen oder Situationen
 
 -  *emotionale Taubheit*, Entfremdung von anderen Menschen
@@ -1123,7 +1123,7 @@ Leitsymptome
 -  Hypervigilanz: erhöhte Reizbarkeit sowie übertriebene
    Schreckhaftigkeit
 
--  Veränderte kognitiver Schemata/Kontrollüberzeugungen, z.B.
+-  Veränderte kognitiver Schemata/Kontrollüberzeugungen, z. B.
    verstärktes Misstrauen gegenüber Mitmenschen, Gefühl einer
    bedrohlichen Welt/Zukunft.
 
@@ -1139,7 +1139,7 @@ Beschreibung
 Der Umgang mit PTSD-Betroffenen sollte stets ein umsichtiger und
 reflektierter sein, da die Gefahr einer Retraumatisierung (siehe unten)
 besteht. Vermeidungsverhalten sollte, sofern es die Versorgungssituation
-erlaubt, möglichst respektiert werden (z.B. im Anamnesegespräch nicht
+erlaubt, möglichst respektiert werden (z. B. im Anamnesegespräch nicht
 übermäßig nachbohren, wenn der/die Betroffene(r) zu bestimmten Themen
 schweigt oder lieber mit einer weiblichen einem männlichen Sanitäter(in)
 sprechen möchte etc.).
@@ -1174,7 +1174,7 @@ vorausgegangen sein.
 
 Mögliche Auslöser können sein:
 
--  andauerndes Ausgesetztsein lebensbedrohlicher Situationen z.B. durch
+-  andauerndes Ausgesetztsein lebensbedrohlicher Situationen z. B. durch
    wiederholte Gewalterfahrungen, Missbrauch etc.
 
 -  andauernder Gefangenschaft mit unmittelbarer Todesgefahr
@@ -1188,7 +1188,7 @@ Leitsymptome
 
 -  erhöhte Anspannung
 
--  Deutlich Veränderte kognitive Schemata/Kontrollüberzeugungen, z.B.
+-  Deutlich Veränderte kognitive Schemata/Kontrollüberzeugungen, z. B.
    deutliches Misstrauen gegenüber Mitmenschen, starkes Gefühl der
    Entfremdung und ständiges sich Bedrohtfühlen, evtl. auch resignative
    bzw. zynische Grundhaltung.
@@ -1318,7 +1318,7 @@ interpretiert werden, weshalb es schwierig ist einen systematischen
 Überblick zu geben.
 
 Grundsätzlich können Bewältigungsversuche belastenden Ereignissen
-entweder *ereignisbezogen* (z.B. *“Für dieses Problem muss es doch eine
+entweder *ereignisbezogen* (z. B. *“Für dieses Problem muss es doch eine
 Lösung geben”*) oder *selbstzentriert* (*“Hätte ich doch nur nicht so
 gehandelt …”*).
 
@@ -1328,7 +1328,7 @@ oder Kollegen, während andere aus Angst vor Ansehens- u. Prestigeverlust
 versuchen die Situation *alleine* zu bewältigen.
 
 Coping kann rein *innerpsychisch* ablaufen, d.h. es bleibt auf Gefühle
-und Gedanken begrenzt, z.B. wenn versucht wird, den zunächst als hoch
+und Gedanken begrenzt, z. B. wenn versucht wird, den zunächst als hoch
 eingeschätzten Bedeutungsgehalt einer Situation oder deren Folgen in
 einer Art Uminterpretation herunterzuspielen, sich von der Anforderung
 gedanklich zu distanzieren bzw. sich selbst aus der Verantwortung zu
@@ -1354,7 +1354,7 @@ Folgende Arten von Coping lassen sich unterscheiden[ZimbardoPsych:6]_ :
    durch *Informationssuche, direktes Handeln oder auch Unterlassen von
    Handlungen* Belastungssituationen zu bewältigen oder sich den
    Gegebenheiten anzupassen. Diese Copingstrategie orientiert sich an
-   der Ebene der Situation bzw. des Reizes, z.B. Großschadensereignis
+   der Ebene der Situation bzw. des Reizes, z. B. Großschadensereignis
    als massiver Stressor → Informationssuche („Was ist passiert, wer ist
    wie betroffen?“) um Klarheit zu schaffen und weitere Schritte planen
    zu können, gezielte Behandlungsinterventionen nach Plan abarbeiten,
@@ -1363,7 +1363,7 @@ Folgende Arten von Coping lassen sich unterscheiden[ZimbardoPsych:6]_ :
 -  *Emotionsorientiertes Coping* Hierbei handelt es sich um
    innerpsychisches Coping, bei dem hauptsächlich versucht wird, die
    durch die Situation hervorgerufenen emotionalen Spannungen und
-   unangenehmen Gedanken zu verändern (*=Emotionsregulation*). Z.B.
+   unangenehmen Gedanken zu verändern (*=Emotionsregulation*). z. B.
    durch Umdeutung von Gefühlen (Stressgefühl und Ängstlichkeit sind
    natürliche Reaktionen und machen mich handlungsfähig), positive
    Selbstinstruktion (Ich schaffe das, ich habe ähnliche Situationen
@@ -1381,7 +1381,7 @@ Folgende Arten von Coping lassen sich unterscheiden[ZimbardoPsych:6]_ :
    Bewältigungsressourcen frei werden, um angemessen zu reagieren. Dies
    erfordert im Weitern das Auffinden konkreter Problemlösungsansätze
    (siehe problemorientiertes Coping) und somit die Kombination
-   unterschiedlicher Bewältigungsstrategien. Z.B.:
+   unterschiedlicher Bewältigungsstrategien. z. B.:
    Neubewertung/-einschätzung nach Abklingen erster alarmierender,
    lähmender Emotionen: „Die Situation scheint ernst, aber nicht
    aussichtslos.“ „Ich kann nicht alle ungünstigen Bedingungen
@@ -1513,7 +1513,7 @@ Kohärenzgefühl eingegangen.
 *Ableitungen* in Bezug auf die Wirkungsweise des Kohärenzgefühls:
 
 -  *Auswahl gesundheitsfördenden Verhaltens*: Personen mit hohem
-   Kohärenzgefühl interpretieren weniger Eindrücke als stresshaft (z.B.
+   Kohärenzgefühl interpretieren weniger Eindrücke als stresshaft (z. B.
    weil sie sie als bewältigbar einschätzen) und weichen Stressoren, die
    schwer handzuhaben sind, eher aus.
 
@@ -1528,7 +1528,7 @@ ergründet.
 Augenscheinlich lassen sich *für den Sanitätsdienst nachstehende
 Folgerungen* ableiten:
 
--  Verstehbarkeit kann durch Informations- und Wissensvermittlung, z.B.
+-  Verstehbarkeit kann durch Informations- und Wissensvermittlung, z. B.
    durch Fortbildungen, Schulungen, Selbststudium etc. gefördert werden.
    Je ausgeprägter das Wissen über mögliche Betreuungs- und
    Versorgungssituationen, Unfallfolgen, Krankheits- und Zustandsbilder
@@ -1560,7 +1560,7 @@ Grundsätze der Stressbewältigung im Sanitätsdienst, Maßnahmen zur Verhütung
 
 Im Sanitätsberuf lassen sich nach bestimmte Situationen identifizieren,
 die von vielen Professionisten als besonders unangenehm bewerten [50]_,
-z.B. Einsätze,
+z. B. Einsätze,
 
 -   bei denen *Kinder* schwer verletzt worden sind,
 
@@ -1629,7 +1629,7 @@ Eine positive Grundeinstellung an Einsätze kann helfen, die Hoffnung auf
 Erfolg zu stützen, Erwartungsängste zu mildern und die Situation als
 Herausforderung anzusehen. Sollten Einsatzmeldung beunruhigend
 wirken [52]_, kann das Bewusstmachen möglichst angenehmer Vorerfahrungen
-z.B. Erinnerungen an ähnliche Einsätze, die bereits erfolgreich
+z. B. Erinnerungen an ähnliche Einsätze, die bereits erfolgreich
 bewältigt werden konnten nach dem Motto In anderen Fällen kann zumindest
 der Gedanke helfen. [53]_
 
@@ -1711,7 +1711,7 @@ eigene Sicherheitsgefühl stärken und Halt geben:
 -  *“Erst einmal Platz schaffen, damit man gut arbeiten kann!”*
    usw. [57]_.
 
-Ebenso kann das in Erinnerung rufen wichtiger Behandlungsmodule z.B. das
+Ebenso kann das in Erinnerung rufen wichtiger Behandlungsmodule z. B. das
 ABC der Reanimation, die einzelnen Phasen der Traumaversorgung oder die
 4-S-Sätze zur Psychischen Ersten Hilfe. *“Ebenso zweckmäßig ist das
 Abarbeiten von Checklisten oder Algorithmen: Je mehr diese in der
@@ -1759,11 +1759,11 @@ Bewertungsprozesse bei der Verarbeitung von Stress einen wesentlichen
 Faktor dar: dies lässt sich auch auf Notfallsituationen anwenden, im
 Sinn eines positiven Umdeutens [BengelPsyNotfallmedRd2-PsyBelRdPers]_  durch
 problemschwächende Interpretationen
-(z.B. “Eine solche Verletzung ist
+(z. B. “Eine solche Verletzung ist
 beim heutigen Stand der Medizin doch kein Problem mehr”)
 oder
 Realativierungen durch zeitliche und soziale Vergleiche
-(z.B. *“Im
+(z. B. *“Im
 Vergleich zu den anderen hatte ich großes Glück”*).
 
 Positive Selbstinstruktion
@@ -1782,11 +1782,11 @@ unterdrücken [...], die eigene Aufmerksamkeit und Konzentration auf eine
 Aufgabe zu richten und Frustration und Misserfolg zu kontrollieren”*
 [BengelPsyNotfallmedRd2-PsyBelRdPers]_ .
 
-.. todo:: !!! A !!!Gedankenstopp - Imagination: Damit ist gemeint, dass man die eigene Phantasie nutzt und sich hilfreiche Dinge vorstellt. Wer seine Rettungsdienstjacke bewusst anzieht und zuknöpft, kann sich z.B. gedanklich ausmalen, dass die Jacke – wie eine Rüstung oder eine Art Panzerung – auch einen psychischen Schutz bewirkt. Ebenso denkbar ist die Vorstellung eines unsichtbaren Helfers oder Beschützers. In diesem Zusammenhang können durchaus auch religiöse Vorstellungen hilfreich sein. Sich aufdrängende negative Gedanken lassen sich mit der Technik des Gedankenstopps unterbrechen. Auch dabei handelt es sich letztlich um ein imaginatives Verfahren.
+.. todo:: !!! A !!!Gedankenstopp - Imagination: Damit ist gemeint, dass man die eigene Phantasie nutzt und sich hilfreiche Dinge vorstellt. Wer seine Rettungsdienstjacke bewusst anzieht und zuknöpft, kann sich z. B. gedanklich ausmalen, dass die Jacke – wie eine Rüstung oder eine Art Panzerung – auch einen psychischen Schutz bewirkt. Ebenso denkbar ist die Vorstellung eines unsichtbaren Helfers oder Beschützers. In diesem Zusammenhang können durchaus auch religiöse Vorstellungen hilfreich sein. Sich aufdrängende negative Gedanken lassen sich mit der Technik des Gedankenstopps unterbrechen. Auch dabei handelt es sich letztlich um ein imaginatives Verfahren.
 
-.. todo:: !!! A !!!Wahrnehmung lenken: Vor besonders belastenden Anblicken sollten Helfer sich schützen, indem sie sich – so banal dies auch klingen mag – nach Möglichkeit abwenden und eben nicht hinsehen. In bestimmten Situationen, etwa wenn sich jemand in Anwesenheit von Einsatzkräften suizidiert, kann es sogar angebracht sein, sich die Augen, ggf. auch die Ohren zuzuhalten. Einer Person, die in Selbsttötungsabsicht vom Dach eines Gebäudes springt, sollte man nicht hinterher schauen usw. Wenn Situationen insgesamt als etwas sehr Unangenehmes erlebt werden, sollte man sich auch nicht länger am Ort des Geschehens aufhalten, als dies aus medizinisch-einsatztaktischen Gründen unbedingt notwendig ist. Extrem grausamen Anblicken (z.B. dem Anblick eines stark entstellten Mordopfers oder eines bis zur Unkenntlichkeit verbrannten Kindes) und ekelhaften Gerüchen (z.B. Verwesungsgeruch) muss man sich, sobald der Tod des Patienten zweifelsfrei festgestellt worden ist, ebenfalls nicht länger aussetzen. Darüber hinaus wird empfohlen, nicht in die Gesichter bzw. Augen von Verstorbenen zu schauen (2).
+.. todo:: !!! A !!!Wahrnehmung lenken: Vor besonders belastenden Anblicken sollten Helfer sich schützen, indem sie sich – so banal dies auch klingen mag – nach Möglichkeit abwenden und eben nicht hinsehen. In bestimmten Situationen, etwa wenn sich jemand in Anwesenheit von Einsatzkräften suizidiert, kann es sogar angebracht sein, sich die Augen, ggf. auch die Ohren zuzuhalten. Einer Person, die in Selbsttötungsabsicht vom Dach eines Gebäudes springt, sollte man nicht hinterher schauen usw. Wenn Situationen insgesamt als etwas sehr Unangenehmes erlebt werden, sollte man sich auch nicht länger am Ort des Geschehens aufhalten, als dies aus medizinisch-einsatztaktischen Gründen unbedingt notwendig ist. Extrem grausamen Anblicken (z. B. dem Anblick eines stark entstellten Mordopfers oder eines bis zur Unkenntlichkeit verbrannten Kindes) und ekelhaften Gerüchen (z. B. Verwesungsgeruch) muss man sich, sobald der Tod des Patienten zweifelsfrei festgestellt worden ist, ebenfalls nicht länger aussetzen. Darüber hinaus wird empfohlen, nicht in die Gesichter bzw. Augen von Verstorbenen zu schauen (2).
 
-.. todo:: !!! A !!!Atmung, Entspannungstechniken: Es gibt eine ganze Reihe von Entspannungstechniken, die durchaus auch in einem Einsatzgeschehen angewendet werden können und schon nach kurzer Zeit wirksam sind. Eine sehr einfache Methode ist das mehrfache tiefe Ein- und Ausatmen. Darüber hinaus können z.B. Elemente bzw. einzelne Übungen der progressiven Muskelrelaxation oder des Autogenen Trainings durchgeführt werden. Diese Entspannungstechniken müssen zuvor jedoch in entsprechenden Kursen erlernt und trainiert worden sein (7, 8).
+.. todo:: !!! A !!!Atmung, Entspannungstechniken: Es gibt eine ganze Reihe von Entspannungstechniken, die durchaus auch in einem Einsatzgeschehen angewendet werden können und schon nach kurzer Zeit wirksam sind. Eine sehr einfache Methode ist das mehrfache tiefe Ein- und Ausatmen. Darüber hinaus können z. B. Elemente bzw. einzelne Übungen der progressiven Muskelrelaxation oder des Autogenen Trainings durchgeführt werden. Diese Entspannungstechniken müssen zuvor jedoch in entsprechenden Kursen erlernt und trainiert worden sein (7, 8).
 
 *Ressourcen vor Augen halten*: Im Sinne des Kohärenzgefühls bzw. der
 Theorie der Ressourcenerhaltung kann es helfen sich die persönlichen,
@@ -1818,7 +1818,7 @@ Erregungsniveau auf angenehmen bzw. leistungsfähigem Level zu halten.
 Wettkampf zu rennen”, zum Einsatzort zu “rasen”, den Funk im Fahrzeug
 nicht unnötig laut einzustellen sowie Äußerungen zu vermeiden, mit denen
 man Hektik erzeugt
-(z.B. , *“Gas, Gas, Gas! Wir müssen vor dem NEF da
+(z. B. , *“Gas, Gas, Gas! Wir müssen vor dem NEF da
 sein!”*).
 
 Langfristige Strategien
@@ -1840,7 +1840,7 @@ psychischer Ebene werden Wohlbefinden, Zufriedenheitsgefühle, Gefühle
 der Gelassenheit sowie Selbstwahrnehmung gefördert. Unterstützt kann
 dies durch div. Entspannungstechniken (progressiven Muskelrelaxation,
 Autogenes Training, Mediatation, Achtsamkeitsübungen etc.) werden, die
-sich tw. sogar während des Einsatzgeschehens anwenden lassen (z.B.
+sich tw. sogar während des Einsatzgeschehens anwenden lassen (z. B.
 Atemtechniken). Erholungsphasen sind von großer Bedeutung und sollten
 dementsprechend bewusst gestaltet, in den Alltag integriert und
 regelmäßig in angemessenem Ausmaß stattfinden um ihre
@@ -1856,7 +1856,7 @@ bzw. damit einhergehende unangenehme emotionale Zustände (Ärger, Wut,
 Trauer etc.) hintanzustellen bzw. zu unterdrücken, um handlungsfähig zu
 bleiben und “kühlen Kopf zu wahren”. Diese zunächst angestauten Affekte
 können sich aber zu einem weit späteren Zeitpunkt im Stützpunkt oder
-daheim entladen, z.B. durch Frustrationsgefühle bis hin zu aggressiven
+daheim entladen, z. B. durch Frustrationsgefühle bis hin zu aggressiven
 Verhalten gegenüber anderen, ohne dass diese überschießenden Reaktionen
 mit den ursprünglichen Ereignissen in Bezug gesetzt werden.
 
@@ -1870,7 +1870,7 @@ und für die Umwelt sozial verträglichen Art und Weise abzureagieren”.
 Eine Möglichkeit bestünde in Gesprächen mit einem guten Freund,
 Angehörigen, Kollegen. Unspezifische Frustrationen im Sinne von
 Anspannung, innerer Unruhe, negativen Gedanken können auch durch das
-Ausüben anstrengender Tätigkeiten, z.B. Sport, körperliche Betätigung
+Ausüben anstrengender Tätigkeiten, z. B. Sport, körperliche Betätigung
 etc. abgebaut werden.
 
 Rituale
@@ -1883,12 +1883,12 @@ helfen die Rollen als professioneller Helfer und Privatperson zusätzlich
 zu differenzieren, dies kann bewusst gemacht und verstärkt werden durch
 das Hinlenken der Aufmerksamkeit während des Umziehens – .
 
-Gemeinsame Rituale wie z.B. morgendliche Teamsitzung mit Frühstück,
+Gemeinsame Rituale wie z. B. morgendliche Teamsitzung mit Frühstück,
 Einsatznachbesprechungen, gemeinsame Kaffeepausen, etc. können nicht nur
 psychohygienischen sondern auch teamfördernden Charakter haben und
 ermöglichen einen informellen Austausch, auch im Sinne einer Möglichkeit
 Gefühle, Sorgen, Ängste auszudrücken und Unterstützung zu suchen.
-Rituale im Privaten z.B. ein Spaziergang nach der Arbeit, der abendlich
+Rituale im Privaten z. B. ein Spaziergang nach der Arbeit, der abendlich
 *“Wohlfühl-Tee”* oder der Besuch des Lieblingsgeschäfts signalisieren
 evtl. sogar den Beginn von Entspannungsphasen und können als
 konditionierter Reiz wird.
@@ -1910,13 +1910,13 @@ Förderung des Kohärenzgefühls (erweitertes Handlungsrepertoire durch die
 Gemeinschaft) und im Rahmen gemeinsamer Gestaltungsmöglichkeiten der
 Freizeit- und Erholungsphasen.
 
-.. todo:: Rationalisieren Zu dieser Strategie gehört, dass man die Notfallsituation bzw. das Einsatzgeschehen möglichst sachlich und nüchtern betrachtet. Medizinisch-technische, insgesamt eher abstrakte Überlegungen rücken dabei in den Vordergrund, während emotionale Aspekte bewusst ausgeklammert werden. Zwar sind Notfallpatienten eben keine defekten Maschinen, die mit Vitalfunktionsmechanik lediglich repariert werden müssen, sondern Menschen, deren spezifische psychische Situation bei der Hilfeleistung angemessen zu berücksichtigen ist (6). In bestimmten Einzelfällen (!) – nämlich dann, wenn ein Helfer ansonsten handlungsunfähig würde – kann es allerdings sehr wohl angebracht sein, z.B. ausschließlich auf das Polytrauma, den Herzinfarkt oder die Reanimation zu fokussieren.
+.. todo:: Rationalisieren Zu dieser Strategie gehört, dass man die Notfallsituation bzw. das Einsatzgeschehen möglichst sachlich und nüchtern betrachtet. Medizinisch-technische, insgesamt eher abstrakte Überlegungen rücken dabei in den Vordergrund, während emotionale Aspekte bewusst ausgeklammert werden. Zwar sind Notfallpatienten eben keine defekten Maschinen, die mit Vitalfunktionsmechanik lediglich repariert werden müssen, sondern Menschen, deren spezifische psychische Situation bei der Hilfeleistung angemessen zu berücksichtigen ist (6). In bestimmten Einzelfällen (!) – nämlich dann, wenn ein Helfer ansonsten handlungsunfähig würde – kann es allerdings sehr wohl angebracht sein, z. B. ausschließlich auf das Polytrauma, den Herzinfarkt oder die Reanimation zu fokussieren.
 
 .. todo:: Humor Gerade der Umgang mit schwierigen Situationen kann durch eine humorvolle Betrachtung erleichtert werden (Humor ist, wenn man trotzdem lacht). Mitunter wird Humor sogar explizit als Mechanismus zur Abwehr von Stressreaktionen bezeichnet (2, 9). In diesem Zusammenhang ist jedoch niemals Schadenfreude, Ironie oder Sarkasmus gemeint, sondern Humor als Ausdruck der Fähigkeit, auch schwierigen und bedrohlichen Situationen mit innerer Distanz, Ruhe und Gelassenheit zu begegnen. In diesem Sinne kann Humor sogar als Ausdruck von Hoffnung und Trost verstanden werden. Banale Witzeleien erfüllen diese Funktion eher nicht. Auch dass die humorvolle Betrachtung einer Notfallsituation nicht mit Verhaltensweisen der Helfer verbunden sein darf, die Notfallpatienten, Angehörige oder andere Betroffene zusätzlich belasten, versteht sich sicherlich von selbst.
 
-.. todo:: Ablenkung Indem man sich auf die Durchführung einer einzelnen Maßnahme konzentriert (z.B. auf das Vorbereiten einer Infusion oder das Blutdruckmessen), können belastende Aspekte des Notfallgeschehens zumindest vorübergehend ausgeblendet werden. Auch leises Summen, das Aufsagen von Schüttelreimen (Fischers Fritz fischt frische Fische, Frische Fische fischt Fischers Fritz) oder das Durchgehen des kleinen Einmaleins kann von belastenden Eindrücken ablenken. Das bewusste Zählen oder Benennen von Gegenständen im Umfeld hat ebenfalls eine solche Wirkung. Wenn es dazu beiträgt, insgesamt handlungsfähig zu bleiben, kann sogar ein kurzzeitiges mentales Fremdgehen legitim sein, d.h. ein gedankliches Aussteigen, bei dem man für einen Augenblick absichtlich an etwas anderes denkt.
+.. todo:: Ablenkung Indem man sich auf die Durchführung einer einzelnen Maßnahme konzentriert (z. B. auf das Vorbereiten einer Infusion oder das Blutdruckmessen), können belastende Aspekte des Notfallgeschehens zumindest vorübergehend ausgeblendet werden. Auch leises Summen, das Aufsagen von Schüttelreimen (Fischers Fritz fischt frische Fische, Frische Fische fischt Fischers Fritz) oder das Durchgehen des kleinen Einmaleins kann von belastenden Eindrücken ablenken. Das bewusste Zählen oder Benennen von Gegenständen im Umfeld hat ebenfalls eine solche Wirkung. Wenn es dazu beiträgt, insgesamt handlungsfähig zu bleiben, kann sogar ein kurzzeitiges mentales Fremdgehen legitim sein, d.h. ein gedankliches Aussteigen, bei dem man für einen Augenblick absichtlich an etwas anderes denkt.
 
-.. todo:: Abb. 4: Eine Möglichkeit der psychologischen Selbsthilfe: Konzentration auf die Durchführung einer einzelnen Maßnahme, z.B. auf das Vorbereiten einer Infusion
+.. todo:: Abb. 4: Eine Möglichkeit der psychologischen Selbsthilfe: Konzentration auf die Durchführung einer einzelnen Maßnahme, z. B. auf das Vorbereiten einer Infusion
 
 .. todo:: Abb. 3: Die meisten Helfer funktionieren auch in stressigen Situationen und benötigen an der Einsatzstelle keine psychologische Unterstützung
 
@@ -1926,9 +1926,9 @@ Freizeit- und Erholungsphasen.
 
 .. todo:: Supervision: Exkurs: Supervision - ein Tabu? Abhängig von der Organisations- und Teamkultur kann Supervision auch als erstes Anzeichen einer Überforderung, Schwäche etc. fehlinterpretiert bzw. assoziiert werden. Tatsächlich drückt Supervision ein gesundheitsförderliches Verhalten und bewusst verantwortliches Engagement für den Beruf aus, ein fairer Handel auf sein eigenes Wohlbefinden und seine Gesundheit zu achten und in Austausch dafür der Organisation seine unbeeinträchtigte berufliche Leistungsfähigkeit verfügbar machen.
 
-.. todo:: !!! A !!!Stressbewältigung Es gibt verschiedene Möglichkeiten der Stressreduktion und Stressbewältigung: • Stressmanagement: Förderung kognitiver bzw. emotionsbezogene Copingstrategien • Körperliche Stressbewältigung, z.B. durch Aerobes Training • Entspannungsverfahren • Humor • Soziale Stressbewältigung: soziale Unterstützung • Psychische Stressbewältigung, personale Ressourcen • Anwendung von Widerstandsressourcen vor dem Hintergrund eines Kohärenzgefühl als Lebenseinstellung (ANTONOVSKY), d.h. beispielsweise Probleme als Herausforderungen ansehen • Resilienz • Günstige Kontrollüberzeugungen (Attributionsstile) • Hohe Selbstwirksamkeitserwartung • Biofeedback
+.. todo:: !!! A !!!Stressbewältigung Es gibt verschiedene Möglichkeiten der Stressreduktion und Stressbewältigung: • Stressmanagement: Förderung kognitiver bzw. emotionsbezogene Copingstrategien • Körperliche Stressbewältigung, z. B. durch Aerobes Training • Entspannungsverfahren • Humor • Soziale Stressbewältigung: soziale Unterstützung • Psychische Stressbewältigung, personale Ressourcen • Anwendung von Widerstandsressourcen vor dem Hintergrund eines Kohärenzgefühl als Lebenseinstellung (ANTONOVSKY), d.h. beispielsweise Probleme als Herausforderungen ansehen • Resilienz • Günstige Kontrollüberzeugungen (Attributionsstile) • Hohe Selbstwirksamkeitserwartung • Biofeedback
 
-.. todo:: Keywords: Präventive, kurzfristige Strategien (Psychologische Selbsthilfe), Langfristige Strategien: personenenbezogen: Erholungsphasen, Selbsbeobachtung, Ablenkung, Rituale (z.B. aus der Rolle aussteigen), (Entlastung durch zwischenmenschliche Ressourcen, soziale Unterstützung), (Selbstbild vs. Ansprüche: Erkennen und Umgang mit eigenen Schwächen, Zulassen von Schwächen), (Dysfunktionale Strategien - Verhaltenssüchte); organisatorisch: Umgangsregeln im Teamkultur (Kommunikations- und Umgangsregeln), Kohärenzgefühl durch Kompetenz (Fortbildung), (Supervision), (CISM).
+.. todo:: Keywords: Präventive, kurzfristige Strategien (Psychologische Selbsthilfe), Langfristige Strategien: personenenbezogen: Erholungsphasen, Selbsbeobachtung, Ablenkung, Rituale (z. B. aus der Rolle aussteigen), (Entlastung durch zwischenmenschliche Ressourcen, soziale Unterstützung), (Selbstbild vs. Ansprüche: Erkennen und Umgang mit eigenen Schwächen, Zulassen von Schwächen), (Dysfunktionale Strategien - Verhaltenssüchte); organisatorisch: Umgangsregeln im Teamkultur (Kommunikations- und Umgangsregeln), Kohärenzgefühl durch Kompetenz (Fortbildung), (Supervision), (CISM).
 
 .. todo:: Psychologische Grundbegriffe
 

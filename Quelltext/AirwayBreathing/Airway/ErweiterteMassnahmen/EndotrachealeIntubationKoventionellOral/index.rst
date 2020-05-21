@@ -39,7 +39,7 @@ Material
 
 #. Laryngoskop, bestehend aus:
 
-   #. Spatel: gebogen oder gerade; Größen 0–4
+   #. Spatel: gebogen oder gerade; Größen 0—4
    #. Handgriff mit Batterien
 
       Es gibt Warm- und Kaltlichtlaryngoskope.

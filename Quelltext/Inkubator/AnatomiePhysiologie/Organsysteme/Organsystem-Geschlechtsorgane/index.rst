@@ -411,7 +411,7 @@ Begriffe und gängige Abkürzungen
 
 :Gravida:
     *Syn.* Grav., Gravididät. Schwangerschaft, bzw. Anzahl der
-    bisherigen Schwangerschaften inklusive der aktuellen. Z.B. Grav III:
+    bisherigen Schwangerschaften inklusive der aktuellen. z. B. Grav III:
     3. Schwangerschaft
 
 :Para:

@@ -120,7 +120,7 @@ Anwendung
 Zur Anwendung am Patienten wird eine entsprechende Messstelle gesucht.
 Dabei ist besonders auf Nagellack, künstliche Nägel und Verschmutzung
 der Messstelle zu achten. Bei starker Verschmutzung muss die Messstelle
-zuerst entsprechend gereinigt werden (z.B. Alkoholtupfer bei Fingern).
+zuerst entsprechend gereinigt werden (z. B. Alkoholtupfer bei Fingern).
 Dann wird das Gerät eingeschaltet und der Selbsttest abgewartet. Danach
 wird der Sensor an der entsprechenden Stelle platziert (meist
 Mehrwegsensoren für Erwachsene zur Verwendung an Fingern). Nach etwas
@@ -136,16 +136,15 @@ niemals das wachsame Auge auf den Patienten!
 Ermittelte Werte
 ----------------
 
-Die Sauerstoffsättigung wird in Prozent angegeben und wird mit !!!
-TERMINUS !!! *SpO2* abgekürzt. Der Normalwert liegt zwischen *96—100%*.
+Die Sauerstoffsättigung wird in Prozent angegeben und wird mit :dfn:`SpO₂` abgekürzt. Der Normalwert liegt zwischen *96—100%*.
 Bei Patienten mit chronischer Lungenerkrankung findet man
-jedoch oft sehr niedrige Werte (z.B. 90%), ohne dass die Patienten
+jedoch oft sehr niedrige Werte (z. B. 90%), ohne dass die Patienten
 Beschwerden haben.
 
--  Normalwert: 96—100%
-
--  chronisch lungenkranke Patient: auch Werte < 90% möglich ohne
-   Beschwerden
+..
+    -  Normalwert: 96—100%
+    -  chronisch lungenkranke Patient: auch Werte < 90% möglich ohne
+    Beschwerden
 
 Beurteilung
 -----------
@@ -184,9 +183,9 @@ Die größte Gefahr ist die falsche Interpretation von Messwerten.
    hohe Werte an!
 
 -  Voraussetzung für eine korrekte Messung ist eine *ausreichende
-   Durchblutung* der entsprechenden Messstelle, z.B. durch Kälte, Schock
+   Durchblutung* der entsprechenden Messstelle, z. B. durch Kälte, Schock
    oder auch eine Blutdruckmessung kann die Messung gestört oder
-   unmöglich gemacht werden. Weitere Hindernisse sind z.B. kalte Finger
+   unmöglich gemacht werden. Weitere Hindernisse sind z. B. kalte Finger
    (verringerte Durchblutung) oder *Nagellack* (Licht kann den Nagellack
    nicht durchdringen, bzw. dessen Farbe wird verfälscht.) Mit
    Nagellack-Entferner kann der Nagel eventuell gereinigt werden.
@@ -196,16 +195,17 @@ Die größte Gefahr ist die falsche Interpretation von Messwerten.
    verfälschen, da es sich ja um eine lichtabhängige Messmethode
    handelt.
 
--  CO-Vergiftungen (falsch hohe Werte)
+..
+    -  CO-Vergiftungen (falsch hohe Werte)
 
--  Minderdurchblutung der Peripherie; Entweder durch Zentralisation beim
-   Schock oder Unterkühlung.
+    -  Minderdurchblutung der Peripherie; Entweder durch Zentralisation beim
+    Schock oder Unterkühlung.
 
--  Nagellack
+    -  Nagellack
 
--  Künstliche Fingernägel
+    -  Künstliche Fingernägel
 
--  Lichteinstrahlung von der Seite
+    -  Lichteinstrahlung von der Seite
 
 Hygienische Wiederaufbereitung
 ------------------------------

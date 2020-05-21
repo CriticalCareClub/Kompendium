@@ -129,7 +129,7 @@ Neurocheck
 
 #. *Hirndruckzeichen* (:ref:`Thema-hirndruckzeichen`) sind eine typische
    Kombination von Symptomen und deuten auf eine Erhöhung des Druckes
-   innerhalb des Hirnschädels hin (z.B. aufgrund einer Verletzung oder
+   innerhalb des Hirnschädels hin (z. B. aufgrund einer Verletzung oder
    Blutung). Hier sind eigentlich keine neuen Untersuchungsschritte
    notwendig, sondern es erfolgt eine bewusste Neubewertung bereits
    erhobener Befunde:

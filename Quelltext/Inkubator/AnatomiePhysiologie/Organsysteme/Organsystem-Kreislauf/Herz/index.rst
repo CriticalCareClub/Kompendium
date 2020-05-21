@@ -541,7 +541,7 @@ die rechte und linke Herzkammer, wo sie über die Purkinje-\ *Fasern* die
 Muskulatur erreichen.
 
 Bei einem *Ausfall* eines Knotens, bzw. bei Unterbrechung der
-Erregungsleitung (z.B. durch Gewebeschädigung nach einem Herzinfarkt),
+Erregungsleitung (z. B. durch Gewebeschädigung nach einem Herzinfarkt),
 kann die jeweils *nachfolgende Station als Impulsgeber übernehmen* –
 allerdings mit deutlich langsamerer Frequenz,
 d.h. jede der Stationen ist zur eigenständigen Erregungsbildung

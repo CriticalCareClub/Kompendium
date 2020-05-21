@@ -82,7 +82,7 @@ geeignet.
 Für den professionellen Einsatz gibt es spezielle elektronische
 Blutdruckmessgeräte, welche zum Beispiel in Überwachungsmonitoren zum
 Einsatz kommen. Allerdings sind auch diese Geräte mitunter
-fehleranfällig, wenn die Messbedingungen nicht optimal (z.B. bei
+fehleranfällig, wenn die Messbedingungen nicht optimal (z. B. bei
 Erschütterungen) sind.
 
 In der Praxis wird die Blutdruckmessung mit *mechanischen Messgeräten*
@@ -197,9 +197,9 @@ kann vorkommen, dass das Pochen nicht verschwindet, sondern nur
 plötzlich leiser wird, dann gilt der Druck, bei dem das Pochen
 *deutlich* leiser wird, als diastolischer Wert. (Blacky et al. 2012)
 
-Die Werte werden auf die nächste Fünferstelle abgerundet (z.B.: wird
+Die Werte werden auf die nächste Fünferstelle abgerundet (z. B.: wird
 abgerundet auf ). Dokumentiert wird der Blutdruck mit dem Zusatz *RR*
-(z.B.: RR ). Der Normalwert beim Erwachsenen liegt in etwa bei RR 
+(z. B.: RR ). Der Normalwert beim Erwachsenen liegt in etwa bei RR 
 (:ref:`Thema-blutdruck`).
 
 #.  Manschette faltenfrei auf Herzhöhe anlegen
@@ -265,7 +265,7 @@ Die Blutdruckmanschette soll nach Möglichkeit *nicht* auf der Seite …
 
 #. eines *Shuntarmes*\  [119]_ bei Dialysepatienten
 
-#. eines Armödems, z.B. nach einer Brustamputation, oder
+#. eines Armödems, z. B. nach einer Brustamputation, oder
 
 #. einer Halbseitenschwäche oder -lähmung
 

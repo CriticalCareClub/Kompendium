@@ -2514,7 +2514,7 @@ Z
 
 	Scholz, Jens, Peter Sefrin, Bernd Böttiger, Volker Dörges und Volker
 	Wenzel, eds:
-	2008.*Notfallmedizin.*
+	2008. *Notfallmedizin.*
 	2. Auflage,  Thieme.
 
 .. [Schottmueller:1914]

@@ -3,10 +3,6 @@
 Gerinnungsstörungen (#45)
 ##########################
 
-************
-Beschreibung
-************
-
 Gerinnungsstörungen können vielfältige Ursachen haben, beispielsweise:
 
 -  Die *Bluterkrankheit (Hämophilie)* ist eine angeborene Erkrankung,
@@ -18,10 +14,6 @@ Gerinnungsstörungen können vielfältige Ursachen haben, beispielsweise:
    *Schädigung des Knochenmarks* und beeinträchtigen somit auch die
    Bildung der Blutplättchen, welche für die Blutstillung durch
    Ausbildung eines *Thrombozytenpropfs* wichtig sind.
-
--  Bluterkrankheit
-
--  Knochenmarkschädigende Therapien
 
 
 .. [246]

@@ -1,6 +1,6 @@
 
 ############################################
-Sterben und Tod (#54
+Sterben und Tod (#54)
 ############################################
 
 ::
@@ -39,23 +39,36 @@ Der Tod allgemein
 *****************
 
 
-**Der :dfn:`Tod` :index:`\ <! Tod>` ist das Ende der Lebensfunktionen und der
-Zustand danach. Das :dfn:`Sterben` :index:`\ <! Sterben>` ist ein mehr oder weniger
-lang dauernder Prozess, an dessen Ende der Tod steht.** Der Tod gehört
+Der :dfn:`Tod` :index:`\ <Tod>` ist das Ende der Lebensfunktionen und der
+Zustand danach. Das :dfn:`Sterben` :index:`\ <Sterben>` ist ein mehr oder weniger
+lang dauernder Prozess, an dessen Ende der Tod steht. Der Tod gehört
 zu den einschneidensten und unausweichlichsten Dingen des Lebens. Man
 unterscheidet zwischen dem klinischen und dem biologischen Tod
 
-ll
+.. list-table:: Klinischer und biologischer Tod
+        :widths: 30 30
+        :header-rows: 1
+        :stub-columns: 0
 
-| **Klinischer Tod** & **Biologischer Tod**
-| Keine Atmung
+        *   -   Klinischer Tod
+            -   Biologischer Tod
+        *   -   keine Atmung, kein Puls
+            -  
+        *   -   Unter Umständen reversibel (Reanimation)
+            -   Organtod des Gehirns (irreversibel)
 
-Kein Puls
+                Gleichzusetzen mit Tod des Individuums
 
-Unter Umständen reversibel (Reanimation) & Organtod des Gehirns
-(irreversibel)
+..
+   | **Klinischer Tod** & **Biologischer Tod**
+   | Keine Atmung
 
-| Gleichzusetzen mit Tod des Individuums
+   Kein Puls
+
+   Unter Umständen reversibel (Reanimation) & Organtod des Gehirns
+   (irreversibel)
+
+   | Gleichzusetzen mit Tod des Individuums
 
 *****************
 Todesfeststellung
@@ -65,8 +78,9 @@ Zeichen des Todes und Leichenzeichen
 ====================================
 
 Grundsätzlich gibt es Zeichen, die als *sichere Todeszeichen*
-gelten (Hochmeister, Grassberger, and Stimpfl 2007; Grassberger and
-Schmid 2009):
+gelten [Hochmeister:2]_ [GrassbergerTodesermittlung:1]_: 
+..
+   (Hochmeister, Grassberger, and Stimpfl 2007; Grassberger and Schmid 2009):
 
 #. *Bildung von blauvioletten Totenflecken* durch Absackung des Blutes
    an die untenliegenden Stellen.
@@ -89,10 +103,10 @@ oft nicht so einfach, die Anzeichen können oft auch mit anderen Sachen
 verwechselt werden, z. B. Totenflecke mit Blutergüssen oder die
 Totenstarre mit einem tonischen Krampf.
 
-    -  Es gibt sichere Todeszeichen, das Erkennen dieser Zeichen ist
-       aber unsicher und bedarf Wissen und Erfahrung!
+-  Es gibt sichere Todeszeichen, das Erkennen dieser Zeichen ist
+   aber unsicher und bedarf Wissen und Erfahrung!
 
-    -  Die Todesfeststellung erfolgt grundsätzlich nur durch einen Arzt!
+-  Die Todesfeststellung erfolgt grundsätzlich nur durch einen Arzt!
 
 -  Für unterkühlte Patienten gilt: *“Nobody is dead until warm and
    dead!”* (Niemand wird für tot erklärt, bevor er nicht vorher erwärmt
@@ -194,7 +208,7 @@ sind:
     -  Für den Umgang mit Sterben und dem Tod gibt es kein Patentrezept
        und keinen“goldenen Weg”.
 
-Elisabeth :dfn:`Kübler-Ross` :index:`\ <! Kübler-Ross>` beschreibt fünf Phasen, die im
+Elisabeth :dfn:`Kübler-Ross` :index:`\ <Kübler-Ross>` beschreibt fünf Phasen, die im
 Sterbeprozess in unterschiedlicher Reihenfolge, oft auch wiederholt,
 durchlaufen werden:
 
@@ -292,5 +306,9 @@ Folgende Leitsätze können unter Umständen hilfreich sein:
        Sterbenden manche, sonst übliche, Ansichten nicht – oder nur
        eingschränkt – gelten.
 
-(Nagele and Feichtner 2005; Hochmeister, Grassberger, and Stimpfl 2007)
+..
+   (Nagele and Feichtner 2005; Hochmeister, Grassberger, and Stimpfl 2007)
+
+[NagelePalliativ:1]_
+[Hochmeister:2]_
 

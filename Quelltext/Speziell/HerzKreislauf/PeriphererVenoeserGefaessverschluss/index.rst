@@ -5,12 +5,6 @@
 Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose (#52)
 ####################################################################
 
-
-*************************
-Beschreibung und Ursachen
-*************************
-
-
 ..
     .. sidebar:: Beschreibung und Ursachen
 
@@ -55,27 +49,28 @@ ABCDE
 ``4``
     *Schmerzen* in der betroffenen Extremität.
 
-:.:
+``.``
     Die betroffene Extremität ist schmerzhaft, oft überwärmt, und eher
     rötlich-bläulich-violett (livide) verfärbt. Manchmal sind diese
     Zeichen nicht sehr ausgeprägt. In der Regel ist nur eine Extremität
     betroffen, d. h. die Symptome sind nur auf *einer Seite* zu finden.
 
-``1``
-    Bettlägrigkeit, stattgehabte Reisen
+..
+    ``1``
+        Bettlägrigkeit, stattgehabte Reisen
 
-``2``
-    Schwangerschaft
+    ``2``
+        Schwangerschaft
 
-``4``
-    Schmerzen
+    ``4``
+        Schmerzen
 
-:…:
-    -  Dunkel-bläuliche (livide) Verfärbung.
+    ``…``
+        -  Dunkel-bläuliche (livide) Verfärbung.
 
-    -  Überwärmung
+        -  Überwärmung
 
-    -  Symptome i.d.R. *einseitig*
+        -  Symptome i.d.R. *einseitig*
 
 *******
 SAMPLER
@@ -124,36 +119,37 @@ SAMPLER
     Ausserdem können Erkrankungen des Gerinnungssystems (**P**)
     erhebliche Risikofaktoren darstellen.
 
-``S``
-    Siehe ABCDE
+..
+    ``S``
+        Siehe ABCDE
 
-``M``
-    Gerinnungshemmende Medikamente – Einnahmefehler?
+    ``M``
+        Gerinnungshemmende Medikamente – Einnahmefehler?
 
-``P``
-    Siehe *R*
+    ``P``
+        Siehe *R*
 
-``L``
-    Vorangehender Spitalsaufenthalt
+    ``L``
+        Vorangehender Spitalsaufenthalt
 
-``E``
-    Siehe *R*
+    ``E``
+        Siehe *R*
 
-``R``
-    Insuffiziente Venenklappen, stehende bzw. sitzende Tätigkeiten,
-    Immobilisation, unzureichende Flüssigkeitsaufnahme, Rauchen,
-    hormonellen Verhütungsmittel, Thrombose in der Anamnese,
-    Schwangerschaft, Tumorerkankungen, Erkrankungen des
-    Gerinnungssystems
+    ``R``
+        Insuffiziente Venenklappen, stehende bzw. sitzende Tätigkeiten,
+        Immobilisation, unzureichende Flüssigkeitsaufnahme, Rauchen,
+        hormonellen Verhütungsmittel, Thrombose in der Anamnese,
+        Schwangerschaft, Tumorerkankungen, Erkrankungen des
+        Gerinnungssystems
 
 ******
 Gefahr
 ******
 
+..
+    .. sidebar:: Gefahr
 
-.. sidebar:: Gefahr
-
-    -  Lösung des Thrombus → *Lungenembolie*
+        -  Lösung des Thrombus → *Lungenembolie*
 
 Es kann zu einer *Loslösung von Teilen des Thrombus* kommen, dieser
 losgelöste Teil wird :dfn:`Embolus` genannt.
@@ -234,6 +230,9 @@ Pharmakotherapie
 
             Anti-Xa-Spiegelkontrolle!
 
-(Renz-Polster, Krautzig, and Braun 2006; Siewert 2006; Scholz et al.
-2008; Swaminatha V and Garmel 2008; Longmore et al. 2007; Fauci et al.
-2008)
+[Renz-Polster:2006]_
+[Siewert:8]_
+[Scholz:2]_
+[IntroClinEmergMed:4]_
+[Longmore:7]_
+[Fauci:2008]_

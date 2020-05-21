@@ -230,11 +230,6 @@ Pharmakotherapie
 
             Anti-Xa-Spiegelkontrolle!
 
-..
-    (Renz-Polster, Krautzig, and Braun 2006; Siewert 2006; Scholz et al.
-    2008; Swaminatha V and Garmel 2008; Longmore et al. 2007; Fauci et al.
-    2008)
-
 [Renz-Polster:2006]_
 [Siewert:8]_
 [Scholz:2]_

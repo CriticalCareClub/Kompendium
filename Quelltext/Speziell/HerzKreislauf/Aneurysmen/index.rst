@@ -32,7 +32,7 @@ ein blutiger Insult sein.
 Aortenaneurysma
 ***************
 
-(Meron et al. 2004)
+[Meron:2004]_
 
 Beschreibung und Ursachen
 =========================

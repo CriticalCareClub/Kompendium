@@ -41,9 +41,12 @@ Verschlechterung des Patientenzustandes rechtzeitig zu erkennen.
    
 
 
-Das ABCDE-Schema bzw. der Geringschätzung **1--E** dient der Erkennung von vital bedrohten Patienten und dem
-!Erkennen von Hauptbeschwerden und Leitsymptomen, *es deckt nicht
-sämtliche mögliche Untersuchungen ab!* Weiterführende Untersuchungen und
+Das ABCDE-Schema bzw. der Geringschätzung **1--E** 
+dient der Erkennung von vital bedrohten Patienten und dem
+Erkennen von Hauptbeschwerden und Leitsymptomen, 
+*es deckt nicht
+sämtliche mögliche Untersuchungen ab!* 
+Weiterführende Untersuchungen und
 Anamneseschritte bzw. Maßnahmen werden *nach* dem Einschätzungsblock
 nach Bedarf durchgeführt.\ [169]_
 
@@ -63,10 +66,13 @@ nach Bedarf durchgeführt.\ [169]_
 
 
 Die angegebenen Maßnahmen stellen grundsätzlich nur (häufige) Beispiele
-dar. Eine umfassende Aufzählung aller möglichen Sofortmaßnahmen würde
-den Rahmen sprengen und wäre sehr unübersichtlich. Außerdem führt eine
+dar. 
+Eine umfassende Aufzählung aller möglichen Sofortmaßnahmen würde
+den Rahmen sprengen und wäre sehr unübersichtlich. 
+Außerdem führt eine
 taxative Aufzählung zu einer Einschränkung der Flexibilität von
-besonders qualifiziertem Personal. Weiters müssen Maßnahmen immer
+besonders qualifiziertem Personal. 
+Weiters müssen Maßnahmen immer
 **situationsgerecht** sein, und können aufgrund der Vielzahl an Variablen
 nicht starr in Form eines Standard Operating Procedure (SOP)
 festgeschrieben werden.

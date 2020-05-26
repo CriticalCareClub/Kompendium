@@ -3,57 +3,34 @@ Terminologie (#29)
 ##################
 
 Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung
-mit anderem Fachpersonal. [BertelsmannVolkslexikon:25]_ [Pschy:259]_
+mit anderem Fachpersonal. [Bertelsmann:25]_ [Pschy:259]_
 
-********************************************************
+
 Allgemeine Begriffe: Klinik – Diagnose – Therapie
 ********************************************************
 
 
-.. index::
-   single: Symptom
-
-:dfn:`Symptom`
+:index:`Symptom`
     Krankheitserscheinung
 
 
-
-.. index::
-    single: Syndrom
-
-:dfn:`Syndrom`
+:index:`Syndrom`
     definierte Kombination von Symptomen
 
 
-
-.. index::
-    single: Komplikationen
-
-:dfn:`Komplikationen`
+:index:`Komplikationen`
     möglicherweise auftretende Schwierigkeiten
 
 
-
-.. index::
-    single: Therapie
-
-:dfn:`Therapie`
+:index:`Therapie`
     Maßnahmen zur Heilung oder Linderung von Krankheiten und Symptomen
 
 
-
-.. index::
-    single: Indikation
-
-:dfn:`Indikation`
+:index:`Indikation`
     Grund zur Anwendung eines bestimmten Verfahrens.
 
 
-
-.. index::
-    single: Kontraindikation
-
-:dfn:`Kontraindikation`
+:index:`Kontraindikation`
     Grund zur *Nicht*\ anwendung eines bestimmten Verfahrens. Es gibt
     *relative* und *absolute* Kontraindikationen. Relative
     Kontraindikationen treffen nur unter bestimmten Umständen oder in
@@ -61,40 +38,24 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
     Verfahren praktisch immer.
 
 
-
-.. index::
-    single: Diagnose
-
-:dfn:`Diagnose`
+:index:`Diagnose`
     Zuordnung von Beschwerden und Symptomen zu einem definierten
     Krankheitsbild. Es gibt verschiedene Arten und Funktionen von
     Diagnosen, siehe :ref:`Thema-diagnose`.
 
 
-
-.. index::
-    single: Diagnostik
-
-:dfn:`Diagnostik`
+:index:`Diagnostik`
     Als Diagnostik versteht man alle Bemühungen um eine Diagnose zu
     stellen, egal ob man sich der eigenen Sinne oder komplizierter
     Geräte bedient.
 
 
-
-.. index::
-    single: Befund
-
-:dfn:`Befund`
+:index:`Befund`
     Jede diagnostische Maßnahme hat (hoffentlich) ein Ergebnis,
     welches man als *Befund* bezeichnet.
 
 
-
-.. index::
-    single: Morbus
-
-:dfn:`Morbus`
+:index:`Morbus`
     *Abk.* M. *lat.*: Krankheit, Erkrankung. Die Bezeichnung Morbus wird
     oft zusammen mit einem Eigenamen, zumeist vom Entdecker einer
     Erkankung, oder einem lateinische Zusatz zur Benennung von
@@ -102,116 +63,72 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
     Alzheimer-Typ), Morbus Koch (Tuberkulose), Morbus Parkinson, Morbus
     comitialis (Epilepsie).
 
-*********
+
 Vorsilben
 *********
 
 
-
-.. index::
-       single: Hyper-
-
-:dfn:`Hyper-`
+:index:`Hyper-`
     hoch, oben
 
-.. index::
-    single: Hyperglykämie
 
-:dfn:`Hyperglykämie`
+:index:`Hyperglykämie`
     hoher Blutzucker
 
-.. index::
-    single: Hypertonie
 
-:dfn:`Hypertonie`
+:index:`Hypertonie`
     Bluthochdruck
 
 
-.. index::
-    single: Hypo-
-
-:dfn:`Hypo-`
+:index:`Hypo-`
     tief, unten
 
 
-.. index::
-    single: Hypoglykämie
-
-:dfn:`Hypoglykämie`
+:index:`Hypoglykämie`
     niedriger Blutzucker
 
 
-.. index::
-    single: Hypotonie
-
-:dfn:`Hypotonie`
+:index:`Hypotonie`
     niedriger Blutdruck
 
 
-.. index::
-    single: Brady-
-
-:dfn:`Brady-`
+:index:`Brady-`
     langsam
 
 
-.. index::
-    single: Bradykardie
-
-:dfn:`Bradykardie`
+:index:`Bradykardie`
     langsamer Herzschlag
 
 
-.. index::
-    single: Bradypnoe
-
-:dfn:`Bradypnoe`
+:index:`Bradypnoe`
     langsame Atmung
 
 
-.. index::
-    single: Tachy-
-
-:dfn:`Tachy-`
+:index:`Tachy-`
     schnell
 
 
-.. index::
-    single: Tachykardie
-
-:dfn:`Tachykardie`
+:index:`Tachykardie`
     schneller Herzschlag
 
 
-.. index::
-    single: Tachypnoe
-
-:dfn:`Tachypnoe`
+:index:`Tachypnoe`
     schnelle Atmung
 
-******************************************
+
+
 Beschreibung von Krankheiten und Symptomen
 ******************************************
 
-
-.. index::
-    single: akut
-
-:dfn:`akut`
+:index:`akut`
     plötzlich; rascher Handlungsbedarf
 
 
-.. index::
-    single: chronisch
-
-:dfn:`chronisch`
+:index:`chronisch`
     dauerhaft, wiederkehrend
 
 
-.. index::
-    single: rezidivierend
-
-:dfn:`rezidivierend`
+:index:`rezidivierend`
      wiederkommend, neuerlich
 
 
@@ -222,61 +139,35 @@ Beschreibung von Krankheiten und Symptomen
 Stoffe
 ******
 
-
-
-.. index::
-    single: Aminosäure
-
-:Aminosäure::
+:index:`Aminosäure`
     Bausteine von Proteinen.
 
 
-.. index::
-    single: Base
-
-:Base::
-    *Syn.* *Lauge*. Stoff, welcher Protonen aufnehmen kann. [160]_ Sie
-    reagieren mit Säuren und bilden Salze. (Schmuck et al. 2008)
+:index:`Base`
+    *Syn.* *Lauge*. Stoff, welcher Protonen aufnehmen kann.
+    Sie reagieren mit Säuren und bilden Salze. (Schmuck et al. 2008)
 
 
-.. index::
-    single: Enzym
-
-
-
-:Enzym::
+:index:`Enzym`
     Hilfsstoff, welcher eine chemische Reaktion (Umwandlung
     von Stoffen in andere Stoffe) begünstigt.
 
 
-.. index::
-    single: Protein
-
-:Protein:
+:index:`Protein`
     Eiweiß. Proteine werden aus Aminosäuren zusammengesetzt.
 
 
-.. index::
-    single: Säure
-
-:Säure:
+:index:`Säure`
     Stoff, welcher Protonen abgeben kann. Sie reagieren mit Basen und
     bilden Salze. (Schmuck et al. 2008).
 
 
 
-.. [160]
-    Definition nach Brønstedt.
-
-************************************************************************
 Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 ************************************************************************
 
 
-.. index::
-    single: Chirurgie
-
-:dfn:`Chirurgie`
+:index:`Chirurgie`
     Fachgebiet zur Erkennung und Behandlung von Erkrankungen, welche
     ohne operative Maßnahmen zu gesundheitlichen Schäden oder dem Tod
     führen würden [Pschyrembel:2002]_. Man kann weitere Spezialgebiete
@@ -285,29 +176,16 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
     Chirurgie etc. Daneben gibt es noch viele andere operative Fächer.
 
 
-.. index::
-    single: Geburtshilfe
-    single: Gynäkologie
-    single: Frauenheilkunde
-
-:dfn:`Geburtshilfe`, :dfn:`Gynäkologie`, :dfn:`Frauenheilkunde`
+:index:`Geburtshilfe`, :index:`Gynäkologie`, :index:`Frauenheilkunde`
     Fachgebiet die Erkrankungen der Frau betreffend, inkl. Schwangerschaft und Geburtshilfe.
 
 
-.. index::
-    single: HNO
-
-:dfn:`HNO`
+:index:`HNO`
     Hals-, Nasen-, Ohrenkrankheiten
 
 
-.. index::
-    single: ICU
-    single: Intensive Care Unit
-    single: Intensivstation
-
-:dfn:`ICU`
-    *engl.* :dfn:`Intensive Care Unit`; :dfn:`Intensivstation`.
+:index:`ICU`
+    *engl.* :index:`Intensive Care Unit`; :index:`Intensivstation`.
     Besondere Behandlungseinrichtung für intensive, oft lebenserhaltende
     medizinische Maßnahmen und Überwachungen, z. B. Beatmung, Dialyse,
     Sedierung, Therapie mit kreislaufwirksamen Substanzen etc. In der
@@ -317,10 +195,7 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
     mit meist eher chirurgischen Patienten.
 
 
-.. index::
-    single: Innere Medizin
-
-:dfn:`Innere Medizin`
+:index:`Innere Medizin`
     *Syn.* *Interne Medizin*. Die Innere Medizin befasst sich mit der
     Vorbeugung, Diagnostik, konservativen und interventionellen
     Behandlung sowie Rehabilitation und Nachsorge von
@@ -334,167 +209,108 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
     *Rheumatologie* (entzündliche Erkrankungen des Bewegungsapparates).
 
 
-.. index::
-    single: Neurologie
-
-:dfn:`Neurologie`
+:index:`Neurologie`
     Fachgebiet der Medizin, welches sich mit der Erforschung, Diagnostik
     und Behandlung von Erkrankungen des *Nervensystems* und der
     Muskulatur befasst.
 
 
-.. index::
-    single: Nuklearmedizin
-
-:dfn:`Nuklearmedizin`
+:index:`Nuklearmedizin`
     Fachgebiet, welches die Anwendung radioaktiver Substanzen und
     offener Radionuklide zur Diagnostik und Therapie umfasst.
 
 
-.. index::
-    single: Onkologie
 
-:dfn:`Onkologie`
+:index:`Onkologie`
     Fachgebiet, welches sich mit der Erkennung, Diagnostik, Therapie und
     Nachsorge von bösartigen Tumorerkrankungen (“Krebs”) befasst. Die
     Onkologie an sich ist ein Teilgebiet der Inneren Medizin, meist ist
     jedoch eine fachübergreifende Behandlung notwendig.
 
 
-.. index::
-    single: Pädiatrie
-
-:dfn:`Pädiatrie`
+:index:`Pädiatrie`
     *Kinderheilkunde*, zuständig für Patienten bis zur Vollendung des
     18. Lebensjahres.
 
 
-.. index::
-    single: PCI
-
-:dfn:`PCI`
-    *Abkz.* *Perkutane Coronar-Intervention*; Herzkatheterbehandlung,
-    siehe PTCA
+:index:`PCI`
+    *Abkz.* *Perkutane Coronar-Intervention*,
+    auch: :index:`PTCA`
+    *Abkz.* *Perkutane Transluminale Coronar-Angiographie*; Herzkatheterbehandlung, Herzkatheteruntersuchung
 
 
-.. index::
-    single: Physikalische Medizin
-
-:dfn:`Physikalische Medizin`
-
-.. index::
-    single: Psychiatrie
-
-:dfn:`Psychiatrie`
+:index:`Psychiatrie`
     Die Psychiatrie beschäftigt sich mit der Prävention, Diagnostik und
     Therapie psychischer Störungen. In der Psychiatrie ist es besonders
     schwierig, zwischen “gesund” und “krank” treffsicher zu
     unterscheiden. Eine andere, tendenziell humorvolle Definition besagt
-    daher: *“Der, der den Schlüssel hat, ist der Arzt.” (Otto Pötzl
-    (Torberg, n.d.))*
+    daher:
+
+        *“Der, der den Schlüssel hat, ist der Arzt.”*
+
+        — Otto Pötzl, nach [Torberg:DEDTJ]_
 
 
-.. index::
-    single: PTCA
-
-:dfn:`PTCA`
-    *Abkz.* *Perkutane Transluminale Coronar-Angiographie*;
-    Herzkatheteruntersuchung
-
-
-.. index::
-    single: Pulmologie
-
-:dfn:`Pulmologie`
+:index:`Pulmologie`
      *Syn.* Pneumologie. Lungenheilkunde
 
 
-.. index::
-    single: Radiologie
-
-:dfn:`Radiologie`
+:index:`Radiologie`
     Fachgebiet, welches die *Bildgebung* mittels verschiedener Verfahren
     ermöglicht. Die Bildgebung kann auch zu therapeutischen Zwecken
     genutzt werden (interventionelle Radiologie).
 
 
-.. index::
-    single: Stroke Unit
-
-:dfn:`Stroke Unit`
+:index:`Stroke Unit`
     Spezialstation zur Behandlung von *Schlaganfällen*
 
 
-.. index::
-    single: Toxikologie
-
-:dfn:`Toxikologie`
+:index:`Toxikologie`
     Lehre der Vergiftungen und Giftstoffe
 
 
-.. index::
-    single: Unfallchirugie
-    single: Traumratologie
-
-:dfn:`Unfallchirugie` und :dfn:`Traumatologie`
+:index:`Unfallchirugie` und :index:`Traumatologie`
     Lehre und Fachgebiet der Medizin, welches sich mit Unfällen und
     Verletzungen beschäftigt.
 
 
-.. index::
-    single: Urologie
-
-:dfn:`Urologie`
+:index:`Urologie`
     Heilkunde des harnableitenden Systems
 
-*****************
+
+
 Sonstige Begriffe
 *****************
 
 
-.. index::
-    single: Bolus
-
-:dfn:`Bolus`
+:index:`Bolus`
     #. “Happen”;
 
     #. Stoßweise Verabreichung eines Medikaments (intravenös)
 
 
-.. index::
-    single: Cave
-
-:dfn:`Cave`
+:index:`Cave`
     “Achtung!”, “Hüte Dich!”
 
 
-.. index::
-    single: Verlegung
-
-:dfn:`Obstruktion`
+:index:`Obstruktion`, :index:`Verlegung`
     Verlegung, Verengung. z. B. im Rahmen der COPD (:ref:`Thema-copd`).
 
 
-.. index::
-    single: Pathologie
-    single: pathologisch
-    single: Patho-
 
-:dfn:`Pathologie`, :dfn:`pathologisch`, :dfn:`Patho-`
+:index:`Pathologie`, :index:`pathologisch`, :index:`Patho-`
     Lehre von den Krankheiten. Als pathologisch wird alles Krankhafte
     bezeichnet. Die Vorsilbe “Patho” weist auf etwas Abnormales,
     Krankhaftes hin.
 
 
-.. index::
-    single: Zyanose
-
-:dfn:`Zyanose`
+:index:`Zyanose`
     Blaufärbung der Haut aufgrund eines mangelnden Sauerstoffgehaltes
     des Blutes. Betroffen sind insbesonders die Finger, Lippen und das
     Gesicht.
 
-**************************
+
+
 Richtungs- und Lageangaben
 **************************
 
@@ -504,73 +320,53 @@ sind auch regelmäßig in Arzt- und Entlassungsbriefen anzutreffen.
 
 
 
-.. index::
-    single: lateral
 
-:dfn:`lateral`
+:index:`lateral`
     *Abk.* lat.; seitlich
 
 
-.. index::
-    single: medial
 
-:dfn:`medial`
+:index:`medial`
     *Abk.* med.; mittig
 
 
-.. index::
-    single: dorsal
 
-:dfn:`dorsal`
+:index:`dorsal`
     rückenwärts
 
 
-.. index::
-    single: ventral
 
-:dfn:`ventral`
+:index:`ventral`
     bauchwärts
 
 
-.. index::
-    single: cranial
 
-:dfn:`cranial`
+:index:`cranial`
     kopfwärts
 
 
-.. index::
-    single: caudal
 
-:dfn:`caudal`
+:index:`caudal`
     fußwärts (eigentlich: schwanzwärts)
 
 
-.. index::
-    single: distal
 
-:dfn:`distal`
+:index:`distal`
     *Abk.* dist.; körperfern
 
 
-.. index::
-    single: proximal
 
-:dfn:`proximal`
+:index:`proximal`
     *Abk.* prox.; körpernah
 
 
-.. index::
-    single: dexter
 
-:dfn:`dexter`, -tra, trum
+:index:`dexter`, -tra, trum
     *Abk.* dext.; rechts
 
 
-.. index::
-    single: sinister
 
-:dfn:`sinister`, -tra, trum
+:index:`sinister`, -tra, trum
     *Abk.* sin.; links
 
 .. note::

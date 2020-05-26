@@ -12,26 +12,6 @@
 ************************
 
 
-Take a deep breath …
-====================
-
-..
-    .. sidebar:: Take a deep breath
-
-    -  Schätzen: *Frequenz* und *Tiefe*
-
-    -  Atemgeräusche
-
-    -  Inspektion von Thorax inkl. Atemprobe
-
-    -  | Anzeichen:
-        | Hautfarbe, Bauch-/Thoraxbewegungen, Anstrengung beim Atmen,
-        Atemhilfsmuskulatur, Zeichen der Atemnot
-
-    -  Heimsauerstoff
-
-    -   (Auskultation: Seitenvergleich, Lungenbasen)
-
 Als nächstes wird die Funktion der *Atmung* beurteilt:
 
 #.  Achten auf Sprechdyspnoe
@@ -61,7 +41,8 @@ Als nächstes wird die Funktion der *Atmung* beurteilt:
 
     Hier ist besonders auf
     die **seitengleiche Belüftung**,
-    feuchte **Rasselgräusche** (Stauung, Lungenödem, Aspiration) oder
+    feuchte **Rasselgräusche**
+    (Stauung, Lungenödem, Aspiration) oder
     **spastische Atemgräusche** zu achten.
 
 #.  Bei Verdacht auf das Vorliegen einer mechanisch bedingten Atemstörung das Vorziehen des **Abtastens des Thorax** möglich.
@@ -80,18 +61,6 @@ Als nächstes wird die Funktion der *Atmung* beurteilt:
 Totraumventilation und Schnappatmung
 ====================================
 
-..
-    .. sidebar:: Totraumventilation
-
-    -  Zu wenig Frischluft in Alveolen
-
-    -  Kohlendioxid kann nicht abgeatmet werden
-
-    -  Kein ausreichender Sauerstoff-Nachschub
-
-    -  Schnappatmung = insuffizient
-
-    -  Schnappatmung = Keine suffiziente Atmung
 
 Unter dem :dfn:`Totraum` versteht man den Teil der Atemwege der nicht am
 Gasaustausch teilnimmt.
@@ -99,7 +68,8 @@ Er beträgt beim Erwachsenen
 ca. 150 ml. [Klinke:3]_
 
 Bei der :dfn:`Totraumventilation`
-(*Syn.* *Totraumbelüftung*) ist das Atemzugvolumen so gering, dass die
+(*Syn.* *Totraumbelüftung*) ist das Atemzugvolumen so gering,
+dass die
 Ausatemluft im Totraum verbleibt
 und bei der folgenden Einatmung erneut,
 anstatt von Frischluft,
@@ -110,7 +80,9 @@ welches nicht mehr abgeatmet werden kann.
 Bei der :dfn:`Schnappatmung` kann genau dies passieren:
 Hierbai handelt es sich,
 dem Namen entsprechend,
-um, teils eindrucksvolle, schnappende Atembewegungen,
+um,
+teils eindrucksvolle,
+schnappende Atembewegungen,
 welche jedoch nur zu einer minimalen Bewegung der Luftsäule führen.
 Das Atemzugsvolumen folglich so gering dass es zu einer
 Totraumventilation kommt und die Atmung somit hochgradig insuffizient
@@ -210,21 +182,27 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 .. subfigstart::
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm1.*
-            :width: 99.99%
+    :width: 100%
 
-            Annäherung an den Patienten Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
+    Annäherung an den Patienten
+
+    Ⓒ Michael Motal :term:`Ⓛ Mfg`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
-            :width: 99.99%
+    :width: 100%
 
-	    Die Rippen folgen der Atembewegung. [:term:`HiLe`, :term:`MfG`]
+    Die Rippen folgen der Atembewegung.
+
+    Ⓒ :term:`HiLe` :term:`Ⓛ Mfg`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*
-            :width: 99.99%
+    :width: 100%
 
-	    Zyanotische Lippen [:term:`GaSe`, :term:`MfG`]
+    Zyanotische Lippen
 
-            :term:`UE2011FORTUNA-00651`
+    Ⓒ :term:`GaSe` :term:`Ⓛ Mfg`
+
+    :term:`UE2011FORTUNA-00651`
 
 
 .. subfigend::
@@ -235,17 +213,20 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/asthma-paramedic.*
-            :width: 99.99%
+    :width: 100%
 
-	    Patientin mit einem akuten Asthmaanfall
+    Patientin mit einem akuten Asthmaanfall
 
-            Sie sitzt auf einer Treppe und stützt sich nach hinten mit
-            den Armen ab. Die Erstmaßnahmen 	  bei vital bedrohten
-            Patienten wurden ergriffen: Situationsgerechte Lagerung,
-            Sauerstoffgabe, Reanimationsbereitschaft,
-            Notarztnachforderung und Monitoring.
+    Sie sitzt auf einer Treppe und stützt sich nach hinten mit
+    den Armen ab.
+    Die Erstmaßnahmen bei vital bedrohten
+    Patienten wurden ergriffen:
+    Situationsgerechte Lagerung,
+    Sauerstoffgabe,
+    Reanimationsbereitschaft,
+    Notarztnachforderung und Monitoring.
 
-            [:term:`GaSe`, :term:`MfG`]
+    Ⓒ :term:`GaSe` :term:`Ⓛ Mfg`
 
 
 
@@ -254,30 +235,25 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 Typische Maßnahmen
 ==================
 
--  Spezielle Maßnahmen bei Ateminsuffizienz
-
--  Spezielle Maßnahmen bei Atemstillstand
-
--  Sauerstoffberieselung
-
--  :dfn:`Lippenbremse`:  Die
-   Lippenbremse ist eine besondere Atemtechnik bei Erkrankungen der
-   unteren Atemwege und funktioniert ähnlich wie der PEEP
-   (:ref:`Thema-Peep`).
-   Dabei atmet der Patient langsam und gleichmäßig durch
-   die beinahe geschlossenen Lippen, also gegen einen Widerstand, aus.
-   Dadurch kommt es zu einer Verlängerung der Ausatmung und einem
-   Luftrückstau und einer Druckerhöhung bis in die Bronchien und
-   Alveolen, dies verhindert einen Kollaps derselben.
-   Zusätzlich ermöglicht diese Atemtechnik eine vermehrte
-   Schleimablösung.
-
--  Beengende Kleidung öffnen
-
--  Lagerung mit erhöhtem Oberkörper
-
--  Atemkommandos, Voratmen
-
--  Beatmung
-
--  Standardmaßnahmen bei vital bedrohten Patienten
+-   Spezielle Maßnahmen bei Ateminsuffizienz
+-   Spezielle Maßnahmen bei Atemstillstand
+-   Sauerstoffberieselung
+-   :dfn:`Lippenbremse`:  Die
+    Lippenbremse ist eine besondere Atemtechnik bei Erkrankungen der
+    unteren Atemwege und funktioniert ähnlich wie der PEEP
+    (:ref:`Thema-Peep`).
+    Dabei atmet der Patient langsam und gleichmäßig durch
+    die beinahe geschlossenen Lippen,
+    also gegen einen Widerstand,
+    aus.
+    Dadurch kommt es zu einer Verlängerung der Ausatmung und einem
+    Luftrückstau und einer Druckerhöhung bis in die Bronchien und
+    Alveolen,
+    dies verhindert einen Kollaps derselben.
+    Zusätzlich ermöglicht diese Atemtechnik eine vermehrte
+    Schleimablösung.
+-   Beengende Kleidung öffnen
+-   Lagerung mit erhöhtem Oberkörper
+-   Atemkommandos, Voratmen
+-   Beatmung
+-   Standardmaßnahmen bei vital bedrohten Patienten

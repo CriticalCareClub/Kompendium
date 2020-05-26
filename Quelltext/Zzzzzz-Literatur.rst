@@ -1948,16 +1948,6 @@ Z
 
 
 
-.. [Soehnke:200607]
-	Hagelberg, Söhnke H. und Hartmut Gehring:
-	**Pulsoxymetrie:
-	Sinnvolle Ergänzung Zur Kapnographie**
-	*Rettungsdienst*
-	2006:2006(7), 32–35.
-
-
-
-
 
 
 

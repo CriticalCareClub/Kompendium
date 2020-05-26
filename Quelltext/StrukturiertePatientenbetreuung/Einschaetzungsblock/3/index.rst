@@ -17,14 +17,19 @@
 
           -  Orientierung (qualitativ) → ``D``
 
-*Bewusstsein ist ein Oberbegriff für u. a. Wachheit, Orientierung,
-Aufmerksamkeit, Auffassungsgabe, Denkverlauf und Merkfähigkeit
-[Pschy:259]_.*
-Es ist eine grundlegende **Vitalfunktion erster
-Ordnung** und wichtig hinsichtlich des Schutzes des Menschen vor
-Bedrohung.
+*Bewusstsein ist ein Oberbegriff für u. a.
+Wachheit,
+Orientierung,
+Aufmerksamkeit,
+Auffassungsgabe,
+Denkverlauf und Merkfähigkeit*
+[Pschy:259]_.
+Es ist eine grundlegende
+**Vitalfunktion erster Ordnung**
+und wichtig hinsichtlich des Schutzes des Menschen vor Bedrohung.
 Ein bewusstseinsklarer Mensch kann sich gegen Gefahren wehren,
-ein eingetrübter oder bewusstloser Mensch kann dies schlecht
+ein eingetrübter
+oder bewusstloser Mensch kann dies schlecht
 oder gar nicht.
 
 Bei der Diagnostik beurteilt man den **Bewusstseinsgrad**
@@ -55,16 +60,14 @@ Bewusstseinsgrad
 ================
 
 
-..
-  .. sidebar:: Bewusstseinsgrade -- WASB
+.. Ausnahmweise erhalten
 
-    -  Wach *klar*
+.. sidebar:: Bewusstseinsgrade — WASB
 
-    -  Ansprache *somnolent*
-
-    -  Schmerzreiz *soporös*
-
-    -  Bewusstlos *komatös*
+    -   Wach *klar*
+    -   Ansprache *somnolent*
+    -   Schmerzreiz *soporös*
+    -   Bewusstlos *komatös*
 
 
 
@@ -73,7 +76,8 @@ Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins
 Er muss bei jedem Patienten nach
 dem *WASB-Schema* beurteilt werden.
 :dfn:`WASB` ist die
-Abkürzung für *Wach*, Reaktion auf *Ansprechen* oder leichte Weckreize,
+Abkürzung für *Wach*,
+Reaktion auf *Ansprechen* oder leichte Weckreize,
 Reaktion auf *Schmerzreiz* und *Bewusstlos*.
 Dementsprechend kann ein Patient
 **bewusstseinsklar**,
@@ -137,30 +141,32 @@ vgl. :ref:`Table-Wasb`.
 Bewusstseinskontrolle
 =====================
 
-..
-  .. sidebar:: Bewusstseinskontrolle
 
-    -  Ansprechen
+.. sidebar:: Bewusstseinskontrolle
 
-      -  Berühren
+    -   Ansprechen
 
-      -  Rütteln
+        -   Berühren
+        -   Rütteln
 
     -  Schmerzreiz
 
 Die Kontrolle des Bewusstseins und die Beurteilung der
-Bewusstseinsgrades erfolgt durch Ansprechen und ggfs. Setzen eines
+Bewusstseinsgrades erfolgt durch Ansprechen und ggfs.
+Setzen eines
 Schmerzreizes:
 
 #. *Ansprechen*: Zuerst wird der Patient laut und deutlich angesprochen:
 
-       *“Können Sie mich hören? Machen Sie bitte die Augen auf!”*
+        *“Können Sie mich hören?
+        Machen Sie bitte die Augen auf!”*
 
    Reagiert der Patient nicht berührt man in an seinen Schultern und
    rüttelt ihn leicht.
 
-   -  Patienten, die in Folge eines Unfalls verunglückt sind, dürfen
-      nicht, oder nur sehr schwach, gerüttelt werden!
+   -    Patienten, die in Folge eines Unfalls verunglückt sind,
+        dürfen nicht,
+        oder nur sehr schwach, gerüttelt werden!
 
 #. *Schmerzreiz*: Sollte der Patient darauf nicht reagieren wird ein
    Schmerzreiz im Bereich der Nasenscheidewand oder den Kieferwinkeln
@@ -173,36 +179,22 @@ Schmerzreizes:
 Bewusstseinsstörungen
 =====================
 
+Als Bewusstseinsstörungen bezeichnet
+man insbesonders Störungen der Wachheit und der Orientierung.
 
-..
-  .. sidebar:: Bewusstseinsstörungen: Gefahren
-
-    -  Zurückfallen der Zunge
-
-    -  Ausfall der Schutzreflexe
-
-    -  Aspiration
-
-    -  Gefahr:
-
-        -  Bewusstseinsstörungen können aufgrund des Ausfalls der
-          Schutzreflexe und des Zurückfallens der Zunge, sowie der
-          Unfähigkeit des Menschen, sich gegen Gefahren zu wehren,
-          *lebensgefährlich* sein!
-
-**Als Bewusstseinsstörungen bezeichnet
-man insbesonders Störungen der Wachheit und der Orientierung.**
-
-Das Bewusstsein ist wesentlich an der *Abwehr von Gefahren* beteiligt. Je
-mehr das Bewusstsein gestört oder reduziert ist, desto gefährlicher für
+Das Bewusstsein ist wesentlich an der *Abwehr von Gefahren* beteiligt.
+Je mehr das Bewusstsein gestört oder reduziert ist,
+desto gefährlicher für
 den Patienten.
 Ab einem gewissen Punkt können auch so wesentliche Funktionen wie der
 *Schluck-*, *Würge-* bzw. *Hustenreflex* ausfallen
 (Ausfall der ":dfn:`Schutzrefelexe`),
-und es kann Mageninhalt, Speichel oder Blut in die Lunge gelangen (*Aspiration*).
+und es kann Mageninhalt,
+Speichel oder Blut in die Lunge gelangen (*Aspiration*).
 Bei schweren Bewusstseinsstörungen kann es auch zum Erschlaffen der
 Zungenmuskulatur kommen.
-Fällt diese zurück, kann sie den *Atemweg verlegen*.
+Fällt diese zurück,
+kann sie den *Atemweg verlegen*.
 Dabei ist manchmal ein dem *Schnarchen ähnliches*
 Atemgeräusch zu vernehmen.
 
@@ -212,12 +204,11 @@ Atemgeräusch zu vernehmen.
 Typische Maßnahmen
 ------------------
 
--  Spezielle Maßnahmen: Bewusstseinseintrübung (:ref:`MR40001B`)
+-   Spezielle Maßnahmen: Bewusstseinseintrübung (:ref:`MR40001B`)
+-   Spezielle Maßnahmen: Bewusstlose und soporöse Patienten
+    (:ref:`MR40021B`)
+-   Standardmaßnahmen bei vital bedrohten Patienten
 
--  Spezielle Maßnahmen: Bewusstlose und soporöse Patienten (:ref:`MR40021B`)
+    -   Absaugbereitschaft!
 
--  Standardmaßnahmen bei vital bedrohten Patienten
-
-   -  Absaugbereitschaft!
-
--  Stabile Seitenlage nach **B**
+-   Stabile Seitenlage nach **B**

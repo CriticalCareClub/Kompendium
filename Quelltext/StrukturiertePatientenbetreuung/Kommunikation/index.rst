@@ -264,7 +264,7 @@ Als klassisches Beispiel ist die
     Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von
     Thun [Thun:1981]_
 
-    ⒸUser “Mussklprozz” auf Wikipedia, modifiziert
+    Ⓒ User “Mussklprozz” auf Wikipedia, modifiziert
     Ⓛ CC-BY-SA 3.0
 
 

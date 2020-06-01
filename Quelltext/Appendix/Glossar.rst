@@ -168,11 +168,15 @@ Glossar
     \end{multicols}
     \end{ParWide}
 
-********
-Lizenzen
-********
+****************
+Ⓛ — Lizenzen
+****************
 
 .. glossary::
+
+    Ⓛ CC BY-NC 2.5
+
+    .. todo:: Lizenz: CC BY-NC 2.5
 
     Lizenz: CC BY-SA 3.0 unported
         Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
@@ -180,11 +184,13 @@ Lizenzen
         -   https://creativecommons.org/licenses/by-sa/3.0/deed.en
         -   https://creativecommons.org/licenses/by-sa/3.0/legalcode
 
+    Ⓛ Mfg
     Lizenz: MfG
         Mit freundlicher Genehmigung
 
         Vom Rechteinhaber wurde die Verwendung in diesem Projekt erlaubt.
         Eine Verwendung ausserhalb dieses Projekts ist nicht gestattet.
+
 
 .. _thema-gefahrengutunfall:
 .. _thema-leberzirrhose:

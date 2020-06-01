@@ -9,7 +9,9 @@ Anamnese: SAMPLER
 
 .. figure:: /Bilder/xkcd/desert_island.*
 
-	    Stille Wasser sind tief … xkcd.comCC-BY-NC-2.5
+    Stille Wasser sind tief …
+
+    Ⓒ xkcd.com, :term:`Ⓛ CC BY-NC 2.5`
 
 
 Als :dfn:`Anamnese` bezeichnet man das Erheben der
@@ -28,51 +30,45 @@ oder Dokumentationen anderer Gesundheitseinrichtungen
 
 
 .. rubric:: SAMPLER
+.. Ausnahmweise als Beispiel eine Sidebar
 
+.. sidebar:: SAMPLER
 
-..
-  .. sidebar:: SAMPLER
-
-    -  **S**\ ymptome und Schmerzen
-
-    -  **A**\ llergien
-
-    -  **M**\ edikamente
-
-    -  **P**\ atientengeschichte
-
-    -  **L**\ etzte …
-
-    -  **E**\ reignisse vor Notfalleintritt
-
-    -  **R**\ isikofaktoren
+-  ``S`` ymptome und Schmerzen
+-  ``A`` llergien
+-  ``M`` edikamente
+-  ``P`` atientengeschichte
+-  ``L`` etzte …
+-  ``E`` reignisse vor Notfalleintritt
+-  ``R`` isikofaktoren
 
 
 In einer Notfallsituation soll das Anamnesegespräch gleichzeitig alle
-wichtigen Informationen zu Tage fördern, andererseits aber effizient und
+wichtigen Informationen zu Tage fördern,
+andererseits aber effizient und
 zeitsparend durchgeführt werden.
 Um diese Gegensätze miteinander
 vereinen zu können soll es strukturiert durchgeführt werden.
 Die Kernpunkte sind:
 
--  **S** *S*\ ymptome und Schmerzen
+-  ``🅂`` *S*\ ymptome und Schmerzen
 
--  **A** *A*\ llergien
+-  ``🄰`` *A*\ llergien
 
--  **M** *M*\ edikamente
+-  ``🄼`` *M*\ edikamente
 
--  **P** *P*\ atientengeschichte
+-  ``🄿`` *P*\ atientengeschichte
    (Vor- und Grunderkrankungen,
    Operationen, …)
 
--  **L** *L*\ etzte …
+-  ``🄻`` *L*\ etzte …
 
--  **E** *E*\ reignisse vor Notfalleintritt
+-  ``🄴`` *E*\ reignisse vor Notfalleintritt
 
--  **R** *R*\ isikofaktoren
+-  ``🅁`` *R*\ isikofaktoren
 
 In Anlehnung an die Anfangsbuchstaben wird dieses Abfrageschema
-:dfn:`SAMPLER`\ [179]_\ [180]_ bezeichnet.
+:dfn:`SAMPLER`\ [#fn:Sampler]_ bezeichnet.
 Ein derartiges Schema kann im hektischen Notfall Sicherheit geben.
 Das Abarbeiten der Fragen stellt sicher,
 dass keine wichtigen Informationen vergessen werden.
@@ -80,21 +76,23 @@ In der Praxis kann die Reihenfolge der Fragen je nach Situation
 abweichen.
 
 
-
-.. [179]
-   Sample *engl.*: Probe
-
-.. [180]
-   Manchmal wird dieses Schema *S-KAMEL* genannt, für Symptome,
-   Krankheiten, Allergien, Medikamente, Ereignisse und Letztes.
+.. [#fn:Sampler]
+    Sample *engl.*: Probe.
+    Manchmal wird dieses Schema *S-KAMEL* genannt, für Symptome,
+    Krankheiten, Allergien, Medikamente, Ereignisse und Letztes.
 
 
 **********************
 Symptome und Schmerzen
 **********************
 
-Die Einstiegsfrage *“Was kann ich für Sie tun?”* weist oft bereits auf
-das Haupt- bzw. Leitsymptom hin. Ist dies nicht der Fall, so muss als
+Die Einstiegsfrage
+*“Was kann ich für Sie tun?”*
+weist oft bereits auf
+das Haupt- bzw.
+Leitsymptom hin.
+Ist dies nicht der Fall,
+so muss als
 erstes nach dem Hauptsymptom gefragt werden:
 
     *“Welche Beschwerden haben Sie?”*
@@ -105,75 +103,58 @@ Außerdem muss immer auch speziell nach Schmerzen gefragt werden!
 
     *“Haben Sie (dabei) Schmerzen?”*
 
+
+
 .. rubric:: Fragen zu Symptomen – OPQRST
 
-
-Gibt der Patient Symptome an, müssen diese weiter abgeklärt werden, hier
+Gibt der Patient Symptome an,
+müssen diese weiter abgeklärt werden,
+hier
 am Beispiel Schmerzen:
 
--  *Onset / Geschehnisse zum Zeitpunkt des Auftretens*:
+-  **Onset / Geschehnisse zum Zeitpunkt des Auftretens*:
    *“Seit wann haben Sie die Schmerzen?
    Was haben Sie gemacht als es begonnen hat?”*
 
--  *Provokation / Palliation*:
+-  **Provokation / Palliation**:
    *“Was macht den Schmerz besser oder schlechter?”*
 
--  *Qualität*:
+-  **Qualität**:
    *“Wie ist der Schmerz?
    Bohrend, stechend, brennend, ziehend, krampfartig,
    auf- und abschwellend?”*
 
--  *Radiation / Region*:
+-  **Radiation / Region**:
    Ausstrahlung / Lokalisation
    *“Strahlt der Schmerz irgendwohin aus?
    Wo sind die Schmerzen? ”*
 
--  *Severity / Stärke*:
+-  **Severity / Stärke**:
    *“Wie stark ist der Schmerz?”*
    Setzen Sie die Aussage des Patienten immer in Relation zu seinem Verhalten, seinem
    Gesichtsausdruck und zu seiner Körperhaltung! Einem Patienten mit
-   starken Schmerzen sieht man dies oft, aber nicht immer an! [181]_
+   starken Schmerzen sieht man dies oft, aber nicht immer an! [#fn:SchmerzStaerke]_
 
--  *Time / Zeitdauer* : *“Wie lange haben Sie die Schmerzen schon? Haben
+-  **Time / Zeitdauer** : *“Wie lange haben Sie die Schmerzen schon? Haben
    Sie so einen Schmerz schon einmal gehabt? Haben die Schmerzen
    plötzlich oder langsam eingesetzt?”*
 
 Sinngemäß gelten diese Fragen auch für alle anderen denkbaren Symptome.
 Diese Fragenabfolge wird in Anlehnung auf die Benennung der EKG-Zacken
-als :dfn:`OPQRST` bezeichnet [182]_.
+als :dfn:`OPQRST` bezeichnet [#fn:OPQRST]_.
 
 
 
-.. [181]
+.. [#fn:SchmerzStaerke]
    *Stärke des Schmerzes*: Einige Autoren empfehlen, den Schmerz anhand
    einer Skala von 0--10 beurteilen zu lassen.
 
-.. [182]
+.. [#fn:OPQRST]
    *OPQRST*: Onset (Geschehnisse zum Zeitpunkt des Auftretens),
    Provocation or Palliation (Was macht es besser bzw. schlechter),
    Quality (Schmerzqualität, -art), Region and Radiation (Lokalisation
    und Ausstrahlung), Severity (Stärke), Time (zeitlicher Verlauf)
 
-
-**OPQRST**
-
--  *Onset / Geschehnisse zum Zeitpunkt des Auftretens*: *“Seit wann
-   haben Sie die Schmerzen? Was haben Sie gemacht als es begonnen hat?”*
-
--  *Provokation / Palliation*: *“Was macht den Schmerz besser oder
-   schlechter?”*
-
--  *Qualität*: *“Wie ist der Schmerz? Bohrend, stechend, brennend,
-   ziehend, krampfartig, auf- und abschwellend?”*
-
--  *Radiation / Region*: Ausstrahlung / Lokalisation *“Strahlt der
-   Schmerz irgendwohin aus? Wo sind die Schmerzen? ”*
-
--  *Severity / Stärke*: *“Wie stark ist der Schmerz?”*
-
--  *Time / Zeitdauer* : *“Wie lange haben Sie die Schmerzen schon? Haben
-   Sie so einen Schmerz schon einmal gehabt? Haben die Schmerzen
-   plötzlich oder langsam eingesetzt?”*
 
 
 .. index::
@@ -186,25 +167,30 @@ als :dfn:`OPQRST` bezeichnet [182]_.
 Besonderheit: Kolikartiger Schmerz
 ==================================
 
-Ein :dfn:`Kolikartiger Schmerz` ist *an-* und
-*abschwellend*. Er wird oft als krampfhaft und sehr stark beschrieben.
+Ein :dfn:`kolikartiger Schmerz` ist
+*an-* und
+*abschwellend*.
+Er wird oft als krampfhaft und sehr stark beschrieben.
 Er kommt häufig bei Verstopfung der Gallen- und Harnwege durch Steine
 vor.
 
--  Auf- und abschwellend
-
--  Krampfhaft
 
 *********
 Allergien
 *********
 
-Auf die Frage nach möglichen Allergien wird häufig vergessen, ein
-Informationsmangel kann aber fatale Auswirkungen haben. Es muss daher
-immer nach Allergien, in einer zweiten Frage sogar speziell nach
-Medikamentenunverträglichkeiten gefragt werden! Bedenke: Ein
+Auf die Frage nach möglichen Allergien wird häufig vergessen,
+ein
+Informationsmangel kann aber fatale Auswirkungen haben.
+Es muss daher
+immer nach Allergien,
+in einer zweiten Frage sogar speziell nach
+Medikamentenunverträglichkeiten gefragt werden!
+Bedenke:
+Ein
 Notfallpatient kann bewusstlos werden und vielleicht zu einem späteren
 Zeitpunkt nicht mehr befragt werden!
+
 
 ***********
 Medikamente
@@ -212,21 +198,29 @@ Medikamente
 
 Die vom Patienten eingenommenen Medikamente lassen Rückschlüsse auf
 seine Grunderkrankungen zu und sind im Falle eines längeren
-Spitalsaufenthalts eine wertvolle Information. Auch die Regelmäßigkeit
+Spitalsaufenthalts eine wertvolle Information.
+Auch die Regelmäßigkeit
 oder Unregelmäßigkeit der Einnahme kann Anhaltspunkte für das Finden der
-Verdachtsdiagnose bzw. der Umstände des Patienten liefern. Angaben zu
+Verdachtsdiagnose bzw. der Umstände des Patienten liefern.
+Angaben zu
 Medikamenten sind für die nachbehandelnde Einrichtung zu dokumentieren.
-Es muss immer nach Medikamentenlisten o.ä. gefragt werden, diese sind
-für die weiterbehandelnde Stelle mitzunehmen! Sind keine Listen
-vorhanden, so müssen die entsprechenden Medikamentenpackungen,
-Arztbriefe, Rezepte o.ä. des Patienten mitgenommen werden. Sollte dies
-vernachlässigt werden, kann es aufgrund der Unkenntnis über die
+Es muss immer nach Medikamentenlisten o. ä. gefragt werden,
+diese sind
+für die weiterbehandelnde Stelle mitzunehmen!
+Sind keine Listen
+vorhanden,
+so müssen die entsprechenden Medikamentenpackungen,
+Arztbriefe,
+Rezepte o.ä. des Patienten mitgenommen werden.
+Sollte dies
+vernachlässigt werden,
+kann es aufgrund der Unkenntnis über die
 Medikation des Patienten zu einer schlechten oder gefährlichen
-Versorgung des Patienten kommen (verspätete Gabe von Medikamenten,
+Versorgung des Patienten kommen
+(verspätete Gabe von Medikamenten,
 Wechselwirkungen, …).
 
 Fragen zu Medikamenten:
-
 
     *“Welche Medikamente nehmen Sie? Haben Sie eine Liste?”*
 
@@ -236,21 +230,17 @@ Fragen zu Medikamenten:
 
     *“Wann haben Sie Ihre Medikamente zuletzt genommen?”*
 
--  Welche?
-
--  Wogegen?
-
--  Regelmäßige Einnahme?
-
--  Wann zuletzt genommen?
-
--  *Medikamentenliste*
+.. note::
 
     -  Bei der Anamneseerhebung muss immer nach Medikamentenlisten
        gefragt werden!
+    -  Das Ignorieren bzw. die Nicht-Mitnahme von Medikamentenlisten o.ä.
+    stellt einen schweren Fehler dar!
 
--  Das Ignorieren bzw. die Nicht-Mitnahme von Medikamentenlisten o.ä.
-   stellt einen schweren Fehler dar!
+
+.. todo:: Tabelle: Besonders häufige bzw. wichtige Medikamente
+
+    Die folgende Tabelle muss schon aus fachlichen Gesichtspunkten neu erstellt werden.
 
 .. table:: Besonders häufige bzw. wichtige Medikamente
 
@@ -279,25 +269,37 @@ Fragen zu Medikamenten:
   +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
 
 
-Andere ähnliche Präparate, welche die Gerinnung wie Marcoumar
-beeinflussen, wären z. B. Pradaxa oder Sintrom
+Andere ähnliche Präparate,
+welche die Gerinnung wie Marcoumar
+beeinflussen,
+wären z. B.
+Pradaxa™ oder Sintrom™.
 
 *******************
 Patientengeschichte
 *******************
 
 Notfälle ereignen sich manchmal aufgrund der akuten Verschlechterung
-einer bestehenden Vorerkrankung. Außerdem hilft die Beurteilung der
-Messwerte, wenn man über die Grunderkrankungen des Patienten Bescheid
-weiß. Zum Beispiel kann die Ursache eines hohen Blutdrucks eine bereits
-bestehende Erkrankung, aber auch ein Notfallgeschehen sein. Neben der
+einer bestehenden Vorerkrankung.
+Außerdem hilft die Beurteilung der
+Messwerte,
+wenn man über die Grunderkrankungen des Patienten Bescheid
+weiß.
+Zum Beispiel kann die Ursache eines hohen Blutdrucks eine bereits
+bestehende Erkrankung,
+aber auch ein Notfallgeschehen sein.
+Neben der
 Befragung können auch Dokumentationen von anderem
-Gesundheitsfachpersonal (Spitals- bzw. Arztbriefe, Befunde,
-Pflegedokumentation, etc.) Auskunft über bestehende Vorerkrankungen
-liefern. Ebenso können die verschriebenen Medikamente Hinweise auf
+Gesundheitsfachpersonal (Spitals- bzw. Arztbriefe,
+Befunde,
+Pflegedokumentation,
+etc.) Auskunft über bestehende Vorerkrankungen
+liefern.
+Ebenso können die verschriebenen Medikamente Hinweise auf
 chronische Erkrankungen liefern.
 
-Allgemeine Fragen, wie z. B.
+Allgemeine Fragen,
+wie z. B.
 
     *“Leiden Sie unter irgendwelchen Krankheiten?”*
 
@@ -311,36 +313,27 @@ können anschließend durch Symptom-spezifische Fragen ergänzt werden:
 
     *“Sind Sie zuckerkrank?”*
 
+
 Arzt- und Entlassungsbriefe
 ===========================
-
-..
-  .. sidebar:: Arztbriefe
-
-    -  Grund- und Vorerkrankungen?
-
-    -  Behinderungen?
-
-    -  Operationen?
-
-    -  Arzt- und Entlassungsbriefe, Patientenpässe,
-
-    -  Medikamente → Krankheiten
-
-    -  …
 
 
 Nach einer stationären Aufnahme in einer Gesundheitseinrichtung wird ein
 Arzt- bzw. Entlassungsbrief erstellt und dem Patienten übergeben oder
-zugeschickt. In diesem Dokument finden sich wichtige Informationen
-bezüglich der früheren Krankheitsgeschichte des Patienten, der
+zugeschickt.
+In diesem Dokument finden sich wichtige Informationen
+bezüglich der früheren Krankheitsgeschichte des Patienten,
+der
 Medikation sowie dem Behandlungsverlauf in der jeweiligen Einrichtung.
-Eventuell ist auch ein Pflegebericht beigelegt. Der Brief ist somit eine
-ideale *Ergänzung* des Anamnesegespräches (aber kann es *nicht*
-ersetzen!).
+Eventuell ist auch ein Pflegebericht beigelegt.
+Der Brief ist somit eine
+ideale *Ergänzung* des Anamnesegespräches
+(aber kann es *nicht* ersetzen!).
 
-In jedem Fall ist zu überprüfen, ob es sich tatsächlich um den Brief des
-Patienten handelt, und ob die Angaben darin noch aktuell sind
+In jedem Fall ist zu überprüfen,
+ob es sich tatsächlich um den Brief des
+Patienten handelt,
+und ob die Angaben darin noch aktuell sind
 (insbesonders Angaben zu Diagnosen und Medikation können sehr rasch
 veralten).
 
@@ -518,9 +511,11 @@ veralten).
 
             Bei diversen Erkrankungen oder nach
             bestimmten Eingriffen erhält ein Patient spezielle
-            Pässe. Diese geben Auskunft über die Art des Eingriffes,
+            Pässe.
+Diese geben Auskunft über die Art des Eingriffes,
             eventuell eingesetzte Implantate oder weisen auf besondere
-            Risiken hin. Hier abgebildet sind ein Pass nach einer
+            Risiken hin.
+Hier abgebildet sind ein Pass nach einer
             Herzkatheter-Untersuchung mit Stent-Implantation, ein
             Blutdruck-Pass zur Dokumentation des Blutdruckverlaufs und
             eine Medikationsinformation. (Die Patientendaten am Bild
@@ -550,8 +545,11 @@ Letzte …
     -  …
 
 Der letzte Punkt des Abfrageschemas bezieht sich auf letzte Ereignisse,
-welche mit dem Notfall in Zusammenhang stehen könnten. Abhängig von den
-Beschwerden, Leitsymptomen bzw. Verdachtsdiagnosen können verschiedene
+welche mit dem Notfall in Zusammenhang stehen könnten.
+Abhängig von den
+Beschwerden,
+Leitsymptomen bzw.
+Verdachtsdiagnosen können verschiedene
 Fragen zielführend sein:
 
     *“Wann haben Sie zuletzt etwas gegessen/getrunken?”* (Ist der
@@ -570,8 +568,10 @@ Fragen zielführend sein:
 Ereignisse vor Notfalleintritt
 ******************************
 
-Oft ereignen sich vor einem Notfall Schlüsselereignisse, welche den
-Notfall herbeiführen oder diesen auslösen. Fragen Sie daher immer nach
+Oft ereignen sich vor einem Notfall Schlüsselereignisse,
+welche den
+Notfall herbeiführen oder diesen auslösen.
+Fragen Sie daher immer nach
 möglichen Besonderheiten oder Tätigkeiten des Patienten vor dem Notfall:
 
     *“Was haben Sie vor Beginn der Symptome gemacht?”*
@@ -580,7 +580,8 @@ möglichen Besonderheiten oder Tätigkeiten des Patienten vor dem Notfall:
 
     …
 
-In dieser Kategorie kann es auch hilfreich sein, wenn Sie Angehörige
+In dieser Kategorie kann es auch hilfreich sein,
+wenn Sie Angehörige
 oder Zeugen befragen:
 
 -  Hat der Patient vor dem Notfall etwas eingenommen (Überdosierung)?
@@ -596,10 +597,13 @@ Risikofaktoren
 **************
 
 Viele Erkrankungen werden durch das Vorhandensein von Risikofaktoren
-begünstigt. Das Vorliegen von Riskofaktoren bedeutet natürlich nicht,
-dass eine bestimme Erkrankung vorliegt, die Kenntnis über Risikofaktoren
+begünstigt.
+Das Vorliegen von Riskofaktoren bedeutet natürlich nicht,
+dass eine bestimme Erkrankung vorliegt,
+die Kenntnis über Risikofaktoren
 kann aber in der Diagnosefindung hilfreich sein und das Gesamtbild des
-Patienten vervollständigen. Beispiele für Riskofaktoren wären:
+Patienten vervollständigen.
+Beispiele für Riskofaktoren wären:
 
 -  Alter
 
@@ -612,17 +616,22 @@ Patienten vervollständigen. Beispiele für Riskofaktoren wären:
 
 -  Diabetes mellitus (Herz-Kreislauf-Erkrankungen: Koronare
    Herzkrankheit, Herzinfarkt, Schlaganfall, periphere arterielle
-   Verschlusskrankheit (pAVK), Wundheilungsstörungen, …;
+   Verschlusskrankheit (pAVK),
+    Wundheilungsstörungen, …;
    Niereninsuffizienz, …)
 
 -  Arterielle Hypertonie (Herz-Kreislauf-Erkrankungen, s. o.)
 
 -  Hormonelle Verhütung (“Pille”; Lungenembolie, …)
 
-Die Frage nach Risikofaktoren ist abhängig vom Einzelfall, oft sind
+Die Frage nach Risikofaktoren ist abhängig vom Einzelfall,
+oft sind
 wichtige Risikofaktoren auch ohne Nachfragen erkennbar
-(Bettlägrigkeit, Alter, Geschlecht …).
-Es ist wichtig, sich die gefundenen Riskofaktoren
+(Bettlägrigkeit,
+Alter,
+Geschlecht …).
+Es ist wichtig,
+sich die gefundenen Riskofaktoren
 bei der Bewertung des Patienten zu vergegenwärtigen.
 
 -  Begünstigen Erkrankungen
@@ -630,25 +639,25 @@ bei der Bewertung des Patienten zu vergegenwärtigen.
 -  Z. B.:
 
    -  Alter
-
    -  Geschlecht
-
    -  Immobilisierung, Bettlägrigkeit
-
    -  Rauchen
-
    -  Diabetes mellitus
-
    -  Arterielle Hypertonie
-
    -  Hormonelle Verhütung
 
-!!! LITERARY !!! (Dahmer and Dahmer 2003)
 
-(Frischenschlager et al. 2010)
+
+
+.. rubric:: Literatur
+
+
+[DahmerGespraechsfuehrung:5]_
+
+[FamPropAeGeFue:2010]_
 
 [Thun:1981]_
 
-[Argelander:2009]_ !!! LITERARY !!!
+[Argelander:2009]_
 
 

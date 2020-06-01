@@ -211,4 +211,4 @@ Typische Maßnahmen
 
     -   Absaugbereitschaft!
 
--   Stabile Seitenlage nach **B**
+-   Stabile Seitenlage nach ``B``

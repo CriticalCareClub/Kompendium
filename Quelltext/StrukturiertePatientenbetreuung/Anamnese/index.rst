@@ -204,7 +204,7 @@ oder Unregelmäßigkeit der Einnahme kann Anhaltspunkte für das Finden der
 Verdachtsdiagnose bzw. der Umstände des Patienten liefern.
 Angaben zu
 Medikamenten sind für die nachbehandelnde Einrichtung zu dokumentieren.
-Es muss immer nach Medikamentenlisten o.ä. gefragt werden,
+Es muss immer nach Medikamentenlisten o. ä. gefragt werden,
 diese sind
 für die weiterbehandelnde Stelle mitzunehmen!
 Sind keine Listen

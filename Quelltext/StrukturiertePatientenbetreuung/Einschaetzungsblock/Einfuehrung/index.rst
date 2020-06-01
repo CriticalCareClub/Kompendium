@@ -43,13 +43,13 @@ Verschlechterung des Patientenzustandes rechtzeitig zu erkennen.
     verzichtet.
 
 
-
-Das ABCDE-Schema bzw.
-der Geringschätzung **1--E** dient der Erkennung von vital bedrohten Patienten und dem
-!Erkennen von Hauptbeschwerden und Leitsymptomen, *es deckt nicht
-sämtliche mögliche Untersuchungen ab!* Weiterführende Untersuchungen und
-Anamneseschritte bzw.
-Maßnahmen werden *nach* dem Einschätzungsblock
+Das ABCDE-Schema bzw. der Geringschätzung **1--E** 
+dient der Erkennung von vital bedrohten Patienten und dem
+Erkennen von Hauptbeschwerden und Leitsymptomen, 
+*es deckt nicht
+sämtliche mögliche Untersuchungen ab!* 
+Weiterführende Untersuchungen und
+Anamneseschritte bzw. Maßnahmen werden *nach* dem Einschätzungsblock
 nach Bedarf durchgeführt.\ [169]_
 
 .. [169]

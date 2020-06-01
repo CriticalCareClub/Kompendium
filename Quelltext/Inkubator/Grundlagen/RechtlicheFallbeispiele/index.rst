@@ -439,7 +439,7 @@ erlangte Sedierung, zum Fahrzeug, mit dem Spruch auf den Lippen:
 
     Ein NEF
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 Nach nur kurzer Anfahrtszeit begegnet Alex, Sepp und Bernd im ersten
 Stock eines kleinen Reihenhaus der 55 jährige, adipöse Herr Schmerz mit
@@ -524,7 +524,7 @@ kann.
 
     Ein blutiger Venflon — vom Fleischhauer?
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 Rechtsfrage
 -----------
@@ -586,7 +586,7 @@ informiert wurde.
     :align: right
     :width: 50%
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 Rechtsfrage
 -----------
@@ -1060,7 +1060,7 @@ Freund mit angesteckt hat.
     :align: right
     :width: 50%
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 Rechtsfrage
 -----------
@@ -1108,7 +1108,7 @@ gedroht hat, falls sie die Polizei verständigen würde.
 
     Hämatom
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 
 
@@ -1161,7 +1161,7 @@ einrücken kännan!”*
     :align: right
     :width: 50%
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 Rechtsfrage
 -----------

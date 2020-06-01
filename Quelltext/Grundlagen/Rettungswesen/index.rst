@@ -98,7 +98,7 @@ Ereignissen zum Einsatz kommen können.
 
     Arbeit in der Leitstelle
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 
 .. index::
@@ -390,7 +390,7 @@ Rettungstransportwagen – RTW
 
     RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.)
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 Der :dfn:`RTW` ist für den Transport, die erweiterte
 Behandlung und die Überwachung von Patienten – insbesonders
@@ -464,7 +464,7 @@ Notarzteinsatzfahrzeug – NEF
 
     NEF der Wiener Berufsrettung (altes Modell)
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 Ein :abbr:`NEF (Notarzteinsatzfahrzeug)` :dfn:`Notarzteinsatzfahrzeug` ist ein Zubringerfahrzeug, welches den
 Notarzt zu einem Einsatzort bringt. Es führt die für eine ärztliche
@@ -521,7 +521,7 @@ Notarzthubschrauber – NAH
 
     Ein Hubschrauber der Christophorus-Flugrettungsflotte im Landeanflug an das AKH Wien
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 :dfn:`Notarzthubschrauber` (:dfn:`NAH`) werden in der *Notfallrettung*, für *Überstellungen*
 und z.T. bei *Bergungen* eingesetzt. *Vorteile* sind u.a. ein relativ

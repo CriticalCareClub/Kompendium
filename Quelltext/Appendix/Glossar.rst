@@ -120,7 +120,7 @@ Glossar
         .. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
 
             Das Herz mit seinen Koronargefäßen
-            Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
+            Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
         .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
 

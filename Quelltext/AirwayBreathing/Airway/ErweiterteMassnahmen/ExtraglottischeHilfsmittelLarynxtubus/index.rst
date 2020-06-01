@@ -85,14 +85,14 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
             Ein Larynxtubus der ersten Generation mit geblocktem
             Cuff.
 
-            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtuben_Set_33025_textwidth.*
       :width: 99.99%
 
       Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung.
 
-      Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+      Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. subfigend::
     :width: 0.3

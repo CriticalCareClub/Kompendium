@@ -1093,7 +1093,7 @@ ersparen. Dies muss jedoch vorher ausdrücklich kund getan werden.
 
     “Wer sticht, der entsorgt!”
 
-    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 
 

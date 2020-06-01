@@ -453,7 +453,7 @@ Sauerstoff.\
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Atemschutz_IMG_2043_00800.*
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 Anamnese und Szene
 ^^^^^^^^^^^^^^^^^^
@@ -662,7 +662,7 @@ Abstand halten! Wind beachten!), vgl. auch :ref:`Thema-gefahrengutunfall`.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/schild-atemschutzmaske-abnehmen.*
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 ********************************
 Wovon man nicht trinken sollte …

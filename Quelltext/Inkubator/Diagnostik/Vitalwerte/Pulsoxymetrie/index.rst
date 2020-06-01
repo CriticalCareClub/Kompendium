@@ -75,7 +75,7 @@ gibt es verschiedene Gerätearten:
 
     Handpulsoxymeter: Sauerstoffsättigung 96%, Pulsfrequenz 89/min
 
-    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 Sensortypen
 -----------

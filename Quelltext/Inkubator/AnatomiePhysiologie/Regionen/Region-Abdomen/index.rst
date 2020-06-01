@@ -53,7 +53,7 @@ durchführen können.
         (grün), der Magen mit einem Teil der gelben Fettschürze
         “großes Netz”, sowie der Dickdarm und der Dünndarm
 ..
-        Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+        Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 Die Milz
 ========

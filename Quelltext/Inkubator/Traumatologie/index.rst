@@ -2650,7 +2650,7 @@ auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
 
     Notbrause
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 
 

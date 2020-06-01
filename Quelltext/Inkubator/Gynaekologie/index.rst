@@ -749,7 +749,7 @@ Maßnahmen: Versorgung des Neugeborenen
     Nabelklemmen (2 Stk.), Orosauger, Aluminiumdecke, Klebeband, Schere,
     Verbandspäckchen
 
-    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 Apgar-Score
 ^^^^^^^^^^^

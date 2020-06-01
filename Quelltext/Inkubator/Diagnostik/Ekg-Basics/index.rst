@@ -260,4 +260,4 @@ Sowie: (Wells and Conover 2006; Goldberger 2012; Kühn 2002; Kühn 2003)
     Pulsoxymetrie 12-Kanal-EKG und integriertem Defibrillator mit
     SAED-Funktion (Corpuls:sup:`3`)
 
-    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`

@@ -108,7 +108,7 @@ Durchführung
 
     Material zur Blutzuckermessung
 
-    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 
 

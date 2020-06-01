@@ -347,7 +347,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
 
     Anisokorie
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 
 .. _Thema-hirnstammeinklemmung:
@@ -941,7 +941,7 @@ es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben
 
     Fieber
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 Eklamptischer Krampfanfall während der Schwangerschaft
 ------------------------------------------------------

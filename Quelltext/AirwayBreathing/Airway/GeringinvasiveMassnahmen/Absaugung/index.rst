@@ -65,28 +65,28 @@ abgeschraubt und verschlossen werden.
 
             Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)
 
-            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Handpumpe_32789-00441pt.*
             :width: 99.99%
 
             Handabsaugpumpeempty
 
-            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Orosauger_33074-00441pt.*
             :width: 99.99%
 
             Oro-Sauger für Neugeborene
 
-            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Absaugkatheter_Set_33082-00441pt.*
             :width: 99.99%
 
             Absaugkatheter zum Einführen in Mund oder Nase
 
-            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. subfigend::
     :width: 0.24
@@ -131,7 +131,7 @@ werden.
 
             Weinmann AccuVac
 
-            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 Absaugbereitschaft
 ^^^^^^^^^^^^^^^^^^
@@ -203,7 +203,7 @@ Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
 
             Katheterlänge bei Absaugung durch die Nase
 
-            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. subfigend::
     :width: 0.44

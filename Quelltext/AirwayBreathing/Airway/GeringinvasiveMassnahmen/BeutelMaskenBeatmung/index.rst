@@ -21,7 +21,7 @@ zusammen mit einer Gesichts-Beatmungsmaske in der richtigen Größe verwendet.
    O₂-Verbindungsschlauch, Bakterienfilter, Beatmungsmaske und
    aufgestecktem PEEP-Ventil
 
-   Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+   Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 Betamungsbeutel / Bestandteile
 ------------------------------
@@ -75,7 +75,7 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 
             Eine *Beatmungs*\ maske.
 
-            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Mundstuecke_32723_v2-AASS-0112mm.jpg
             :width: 99.9%
@@ -84,7 +84,7 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
             3/4, 5. Die Farben der Masken haben keine besondere
             Bedeutung.
 
-            Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. subfigend::
     :width: 0.45
@@ -165,7 +165,7 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
     :width: 0.3
     :label: Figure-Technik-Beutelmaskenbeatmung
 
-    Bilderserie: Die Technik der Beutel-Masken-Beatmung  Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
+    Bilderserie: Die Technik der Beutel-Masken-Beatmung  Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
 
 

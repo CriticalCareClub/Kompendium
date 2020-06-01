@@ -67,7 +67,7 @@ den Zwölffingerdarm. An den Gallengängen hängt die
 
     Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm.
 
-    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Pankreas-1.*
 

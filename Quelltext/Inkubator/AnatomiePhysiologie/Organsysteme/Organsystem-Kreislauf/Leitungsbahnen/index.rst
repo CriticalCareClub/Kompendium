@@ -100,7 +100,7 @@ Diese münden wiederum in den rechten Vorhof.
 
     Der Blutkreislauf (Schema)
 
-    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
 
 .. todo:: Index-Begriffe

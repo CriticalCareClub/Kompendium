@@ -66,21 +66,21 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 
     Der Bauchsitus mit aufgeklappter Bauchdecke (links = kopfwärts). Am Rand sieht man deutlich den Dickdarm, unter der Fettschürze zeichnen sich die Schlingen des Dünndarms ab. !!!
 
-    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Duenndarm-Mesenterium.*
     :width: 99%
 
     Schema: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.
 
-    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Bauchfilm_Image_022.*
     :width: 99%
 
     Foto: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.
 
-    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
 .. subfigend::
     :width: 0.3

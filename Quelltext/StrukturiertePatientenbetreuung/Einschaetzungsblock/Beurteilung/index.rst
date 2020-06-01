@@ -36,7 +36,7 @@ Die vitale Bedrohung kann sich aus drei wesentlichen Säulen ergeben:
    Kreislauf ``C``)
 
 -  :dfn:`Alarmsymptome`:
-    Zu den Alarmsymptomen gehören u.a.
+   Zu den Alarmsymptomen gehören u.a.
    Atemnot, die sich nicht bessert,
    brodelndes Atemgeräusch,
    Thoraxschmerz,

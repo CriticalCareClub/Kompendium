@@ -240,7 +240,7 @@ Fragen zu Medikamenten:
 
 .. todo:: Tabelle: Besonders häufige bzw. wichtige Medikamente
 
-    Die folgende Tabelle muss schon aus fachlichen Gesichtpunkten neu erstellt werden.
+    Die folgende Tabelle muss schon aus fachlichen Gesichtspunkten neu erstellt werden.
 
 .. table:: Besonders häufige bzw. wichtige Medikamente
 

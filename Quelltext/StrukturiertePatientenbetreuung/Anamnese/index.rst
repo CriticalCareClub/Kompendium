@@ -520,7 +520,7 @@ Hier abgebildet sind ein Pass nach einer
             Blutdruck-Pass zur Dokumentation des Blutdruckverlaufs und
             eine Medikationsinformation. (Die Patientendaten am Bild
             sind erfunden.)
-            Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+            Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 ********
 Letzte …

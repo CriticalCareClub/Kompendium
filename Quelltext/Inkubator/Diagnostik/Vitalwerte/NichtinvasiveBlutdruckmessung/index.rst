@@ -113,7 +113,7 @@ Es gibt Manschetten in unterschiedlichen Größen.
     Blutdruckmanschetten mit Hak- und Klettverschluss, sowie einem Doppel-
     und einem Einzelkopfstethoskop
 
-    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. _Thema-Stethoskop:
 

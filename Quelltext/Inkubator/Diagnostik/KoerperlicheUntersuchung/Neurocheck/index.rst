@@ -165,14 +165,14 @@ durchgeführt.
 
     Ungleiche Pupillen (Anisokorie)
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/N-5/IMG_20150306_132141-01341px.jpg
     :width: 99%
 
     Enge Pupille
 
-    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro1.jpg
     :width: 99%

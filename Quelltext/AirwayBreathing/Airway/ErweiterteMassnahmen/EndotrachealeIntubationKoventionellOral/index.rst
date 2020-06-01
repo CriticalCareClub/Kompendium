@@ -71,7 +71,7 @@ Material
     Blockerspritze (10 ml), verschiedene Spatel, Laryngoskop,
     Guedel-Tuben, Beißkeil, Beatmungsbeutel mit Bakterienfilter, Maske
     und O₂-Line, Fixationsmaterial, Stethoskop
-    Ⓒ Ch. Pallinger Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 Vorbereitung
 ============

@@ -263,28 +263,28 @@ Vorgehen
 
     Kontrolle
 
-    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-aufziehen_4815-00800.*
     :width: 99%
 
     Aufziehen mit Kanüle
 
-    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-kontrollieren_4824-00800.*
     :width: 99%
 
     Übergabe
 
-    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-verabreichen_4826_CLOSEUP-00800.*
     :width: 99%
 
     Verabreichung über Venflon durch befugtes Personal
 
-    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 .. subfigend::
     :width: 0.23

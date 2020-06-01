@@ -116,7 +116,7 @@ einem Atemstillstand kommen.
     Luft nur erschwert wieder entweichen
     kann.
 
-    Ⓒ Lena Hirtler Ⓛ :term:`Lizenz: MfG`
+    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
 1234ABCDE: COPD
 ===============

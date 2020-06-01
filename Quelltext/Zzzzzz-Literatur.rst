@@ -237,7 +237,7 @@ Alpha
 	doi:\ `10.1093/bja/aei269 <https://doi.org/10.1093/bja/aei269>`__.
 
 
-Bravo
+B
 ================================================================================
 
 
@@ -258,7 +258,7 @@ Bravo
 	17. Auflage, 2008.
 	Elsevier.
 
-.. [BertelsmannVolkslexikon:25]
+.. [Bertelsmann:25]
 	Bertelsmann Lexikon-Redaktion:
 	**Bertelsmann Volkslexikon.**
 	25. Auflage, 1964.
@@ -2820,9 +2820,12 @@ Z
 
 
 
-.. [Jolesch:2]
+.. [Torberg:DEDTJ]
 
-	Torberg, Friedrich. n.d. *Die Erben Der Tante Jolesch.* 12th ed. dtv.
+    Torberg, Friedrich:
+    **Die Erben Der Tante Jolesch.**
+    Ungekürzte Ausgabe, April 1981.
+    dtv.
 
 
 

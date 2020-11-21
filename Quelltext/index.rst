@@ -41,11 +41,12 @@ Kompendium des Critical Care Club Austria
 
     Prolog/index.rst
     Grundlagen/index.rst
+    AnatomiePhysiologie/index
+    Skills/index
     StrukturiertePatientenbetreuung/index.rst
     AirwayBreathing/index
     Reanimation/index.rst
     Speziell/index.rst
-    Inkubator/index.rst
     Appendix/index.rst
 
 

@@ -1,5 +1,5 @@
 ##############################
-Grundlagen (#61)
+Skills
 ##############################
 
 .. attention::
@@ -13,12 +13,10 @@ Grundlagen (#61)
 .. toctree::
     :maxdepth: 1
 
-    RechtlicheGrundlagen/index
-    RechtlicheFallbeispiele/index
-    Psychologie/index
-    Hygiene/index.rst
-    MedizinprodukteAllgemein/index.rst
-    Dokumentation/index.rst
+    ASS/index
     Sanitaetstechnik/index.rst
+    Diagnostik/index
+    Wundversorgung/index.rst
+
 
 

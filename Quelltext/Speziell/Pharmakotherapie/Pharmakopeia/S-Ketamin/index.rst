@@ -2,9 +2,7 @@
 Ketamin, S-
 -----------
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 .. Thema-: Spezialitäten
 
@@ -36,11 +34,11 @@ Ketamin, S-
     Anästhesie: Range12,5 mg / kg iv., 2,5-4 mg / kg im.;
     Bronchospasmus: Range12,5 mg / kg iv..
 
-.. warning:: 
+.. warning::
 
     Unterschiedliche Konzentrationen im Handel!
 
-.. note:: 
+.. note::
 
     Schluckreflexe / Spontanatmung extuparrow , Rep: halbe
     Initialdosis. V.a. bei Kindern mit Atropin kombinieren

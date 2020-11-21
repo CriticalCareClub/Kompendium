@@ -3,9 +3,7 @@ Erweitertes Monitoring
 ########################################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. toctree::

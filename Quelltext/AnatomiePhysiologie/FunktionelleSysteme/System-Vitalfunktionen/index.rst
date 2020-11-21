@@ -7,9 +7,7 @@
 Vitalfunktionen
 ***************
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 Überblick
 =========
@@ -55,7 +53,7 @@ Fester Bestandteil des Einschätzungsblockes!
 
 -  Immunsystem
 
-| 
+|
 
 Die meisten Vitalfunktionen werden in den zugehörigen Abschnitten in
 diesem Kapitel beschrieben. Im Folgenden werden noch jene
@@ -150,7 +148,7 @@ Mechanismen sorgen für Wärmeerzeugung und -abgabe:
 
    -  Bis max. 1,5 L / h bei schwerer körperlicher Arbeit
 
-| 
+|
 
 
 .. _Thema-wasser-elektrolythaushalt:
@@ -228,7 +226,7 @@ Chlorid (Cl⁻). [217]_
    Spezielle Transportsysteme sorgend dafür, dass diese Ionen derartig
    verteilt werden.
 
-.. note:: 
+.. note::
 
     -  Im Wasser gelöste, elektrisch geladene Teilchen, wie z. B.
        Natrium, Kalium und Chlorid, heißen :dfn:`Elektrolyte`.
@@ -263,7 +261,7 @@ für die Nerven und den Muskel wichtig.
 .. _Thema-osmose:
 
 .. _Thema-diffusion:
-      
+
 Osmose und Diffusion
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -299,7 +297,7 @@ sagen:
 
 
 .. figure:: /Bilder/WikipediaPd/Semipermeable_membrane.*
-          
+
           Gefäßraum und Zwischengewebsraum, getrennt durch die
           Blutgefäßwand. Es schwimmt viel herum: Die grünen, gelben, blauen und
           violetten Kugeln stellen Ionen und Moleküle dar. Die roten Scheiben sind
@@ -308,11 +306,11 @@ sagen:
           [WMC/pidalka44]
 
 .. figure:: /Bilder/WikipediaPd/Osmotische_druk.*
-            
+
           Osmose
 
           [WMC (Sander van der Molen)/PD]
-          
+
 
 Verteilung der Elektrolyte
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -553,7 +551,7 @@ und folglich zu einer Ansäuerung des Blutes.
 
 
 .. _Thema-azidose-metabolische:
-   
+
 Stoffwechselbedingte Übersäuerung (Metabolische Azidose)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
@@ -593,7 +591,7 @@ tonische Krämpfe. Eine ausführliche Beschreibung des
 :ref:`Thema-hyperventilationstetanie`.
 
 .. _Thema-alkalose-metabolische:
-     
+
 Stoffwechselbedingte (metabolische) Alkalose
 """"""""""""""""""""""""""""""""""""""""""""
 

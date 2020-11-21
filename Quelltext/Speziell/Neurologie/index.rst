@@ -3,9 +3,7 @@
 Neurologische Störungen (#65)
 #############################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 Neurologische Störungen sind Störungen bzw. Erkrankungen und Notfälle
 die das Nervensystem betreffen. Sie gehen oft mit einer Störung des

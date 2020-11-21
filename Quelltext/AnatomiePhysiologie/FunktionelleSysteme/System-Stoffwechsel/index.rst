@@ -6,9 +6,7 @@ Der Stoffwechsel
 ***************************************
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. index::
@@ -18,7 +16,7 @@ Der Stoffwechsel ist eine Vitalfunktion
 =======================================
 
 .. sidebar:: Stoffwechsel::
-             
+
     -  Kohlehydratstoffwechsel (Zucker)
 
         -  Energielieferant
@@ -38,7 +36,7 @@ Der Stoffwechsel ist eine Vitalfunktion
 
         -  Enzyme, Gerinnungsfaktoren, …
 
-           
+
 Unter :dfn:`Stoffwechsel` versteht man Abläufe von
 Stoffumsetzung und Energiegewinnung, wobei Nährstoffe in Wärme, Energie
 und Körperbestandteile umgewandelt werden.

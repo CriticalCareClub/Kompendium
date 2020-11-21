@@ -1,9 +1,7 @@
 
 .. _Thema-Duodenum:
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 .. index::
     single: Duodenum
@@ -17,7 +15,7 @@
     single: Flexura duodeni superior
     single: Pars descendens duodeni
     single: Papilla vateri
-    single: Ductus choledocus 
+    single: Ductus choledocus
     single: Ductus pancreaticus
     single: Flexura duodeni inferior
     single: Pars horizontalis duodeni
@@ -28,7 +26,7 @@ Duodenum
 
 
 .. sidebar:: Duodenum
-             
+
     -  Beginn des Dünndarmes, ca. 30 cm lang
 
     -  Pars superior duodeni
@@ -56,12 +54,12 @@ Duodenum
 
 
 :Synonym: Zwölffingerdarm
-          
+
 Das Duodenum ist der Beginn des Dünndarmes
 ab dem Pförtner des Magens und misst ca. 30 cm.
 Es beginnt nach dem Pförtner,
-der Verlauf ähnelt dem Buchstaben "C" und beginnt mit dem 
-:dfn:`Pars superior duodeni`, welcher *intraperitoneal* liegt und 
+der Verlauf ähnelt dem Buchstaben "C" und beginnt mit dem
+:dfn:`Pars superior duodeni`, welcher *intraperitoneal* liegt und
 ca. 5 cm lang ist. Am Anfang auf Höhe des LWK 1 findet sich die
 apullenförmig erweiterte :dfn:`Ampulla duodeni` (:dfn:`Bulbus
 duodeni`).
@@ -81,5 +79,5 @@ welche *sekundär retroperitoneal* liegt.
 Am Ende liegt auf Höhe des LWK 2
 die :dfn:`Flexura duodenojejunalis` (:dfn:`Treitz'sche Flexur`),
 welche den Übergang in das (intraperitoneal gelegene) Jejunum
-markiert. 
+markiert.
 

@@ -5,9 +5,7 @@
 Sonstige Organe und Strukturen im Bauchraum
 *******************************************
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 Das Bauchfell
 =============

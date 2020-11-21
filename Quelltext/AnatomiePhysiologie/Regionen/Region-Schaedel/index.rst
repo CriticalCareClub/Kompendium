@@ -5,9 +5,7 @@
 Der Schädel
 ###########
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 Der knöcherne :dfn:`Schädel` (:dfn:`Cranium`) gliedert sich in

@@ -4,9 +4,7 @@
 Körperliche Untersuchungen
 **************************
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 .. toctree::
 	:maxdepth: 1

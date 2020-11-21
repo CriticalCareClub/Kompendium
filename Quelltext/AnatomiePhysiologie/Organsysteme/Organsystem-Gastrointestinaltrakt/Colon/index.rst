@@ -3,12 +3,10 @@
 Colon (Dickdarm)
 ************************
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 .. sidebar:: Dickdarm
-	     
+
    -  T-Kreuzung
 
    -  Blinddarm = Sackgasse
@@ -46,7 +44,7 @@ Colon (Dickdarm)
    single: Rektum
    single: Mastdarm
    single: Wasserentzug
-   
+
 Der :dfn:`Dickdarm` (*Term.* *Colon*) ist ca. 1,5m lang und
 wird in verschiedene Abschnitte unterteilt. Das Ileum mündet an einer
 *T-Kreuzung* in den Dickdarm: *Zehenwärts* geht es in den:dfn:`Blinddarm`,

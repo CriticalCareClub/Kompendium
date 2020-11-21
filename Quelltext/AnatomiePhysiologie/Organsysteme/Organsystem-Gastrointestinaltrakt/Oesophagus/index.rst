@@ -6,13 +6,11 @@
 Ösophagus
 -----------
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. sidebar:: Ösophagus
-   
+
     -  :math:`\sim` 25cm langer Muskelschlauch
 
     -  Nahrung: Rachen → Magen
@@ -21,7 +19,7 @@
 
     -  Erkrankung: Ösophagusvarizen
 
-       
+
 Der :dfn:`Ösophagus` (*Speiseröhre*) ist ein ungefähr 25 cm langer
 Muskelschlauch. Er dient dem *Transport* über den Mund aufgenommener
 Nahrung vom Rachen in den Magen. Diese Fortbewegung funktioniert über

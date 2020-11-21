@@ -2,9 +2,7 @@
 Thiopental
 ----------
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 ist das letzte am Markt befindliche Barbiturat-Hypnotikum zur
 Verwendung im Rahmen der Allgemeinanästhesie. Seine Bedeutung hat

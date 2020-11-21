@@ -3,9 +3,7 @@
 Mundhöhle (GI-Trakt)
 --------------------
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 .. sidebar:: Mundhöhle
 
@@ -34,5 +32,5 @@ sonst zu einem Übertritt der Nahrung in die Luftröhre und damit zu einer
 .. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Mundhoehle.*
 
     Die Mundhöhle
-    
+
     [Lena Hirtler, MfG]

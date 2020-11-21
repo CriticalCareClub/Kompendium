@@ -6,9 +6,7 @@ Blutzuckermessung
 ########################################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. toctree::

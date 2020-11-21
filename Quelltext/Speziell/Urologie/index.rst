@@ -3,9 +3,7 @@
 Urologische Erkrankungen (#74)
 #####################################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 Erkrankungen des harnableitenden Systems.
 

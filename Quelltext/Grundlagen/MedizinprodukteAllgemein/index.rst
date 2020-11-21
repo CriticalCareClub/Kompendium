@@ -5,9 +5,7 @@ Medizinprodukte 1
 #################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 ::

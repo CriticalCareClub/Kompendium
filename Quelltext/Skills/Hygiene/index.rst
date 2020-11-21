@@ -3,9 +3,7 @@
 Hygiene
 #############
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 :Maintainer:

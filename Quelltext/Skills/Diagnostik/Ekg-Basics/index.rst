@@ -4,9 +4,7 @@
 EKG (Basics)
 ===========================================
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 Das EKG zeigt die elektrische Herzaktivität
 

@@ -4,9 +4,7 @@
 Anatomie und Physiologie (#58)
 ###############################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 

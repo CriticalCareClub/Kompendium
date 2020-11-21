@@ -6,9 +6,7 @@ Neurocheck
 ########################################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. toctree::

@@ -4,9 +4,7 @@
 Vitalwerte
 **********
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 ..

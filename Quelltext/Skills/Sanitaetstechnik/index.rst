@@ -3,9 +3,7 @@
 Sanitätstechniken
 #######################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 Dieses Kapitel behandelt diverse allgemeine und
 spezielle Maßnahmen der Sanitätshilfe.

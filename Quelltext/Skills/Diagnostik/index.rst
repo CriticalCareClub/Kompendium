@@ -2,9 +2,7 @@
 Diagnostik (#60)
 ############################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 .. toctree::
 	:maxdepth: 2

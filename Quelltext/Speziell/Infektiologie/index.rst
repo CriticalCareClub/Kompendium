@@ -4,9 +4,7 @@
 Infektions- und Entzündungskrankheiten (#63)
 ############################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 *********

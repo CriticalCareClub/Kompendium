@@ -3,9 +3,7 @@
 Respiration: Die Atemwege und die Atmung
 ########################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 ********************************
 Die innere und die äußere Atmung

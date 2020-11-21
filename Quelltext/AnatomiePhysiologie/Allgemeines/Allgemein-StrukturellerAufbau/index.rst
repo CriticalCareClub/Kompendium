@@ -1,9 +1,7 @@
 Der strukturelle Aufbau des Organismus: Zelle, Gewebe, Organe, Organsysteme
 ===========================================================================
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 .. index::
     single: Zelle
@@ -12,22 +10,22 @@ Die Zelle
 ---------
 
 Die :dfn:`Zelle` ist die kleinste selbstständig lebende
-Einheit in unserem Körper. 
+Einheit in unserem Körper.
 Sie besteht i.d.R. aus einem Zellkern, den
-Zellorganellen, dem Zellplasma und der Zellmembran. 
+Zellorganellen, dem Zellplasma und der Zellmembran.
 Im *Zellkern*
 befindet sich die Erbinformation in Form des Riesenmoleküls
-*DNS*\  [184]_. 
+*DNS*\  [184]_.
 Die *Erbinformation* dient u.a. als Bauplan für die
 Produktion von Stoffwechselprodukten und ist wichtig für die Neubildung
 von Zellen. Die *Zellorganellen* sind wichtig für den Zellstoffwechsel
-und erhalten die jeweiligen Zellen am Leben. 
+und erhalten die jeweiligen Zellen am Leben.
 Man kann sie in Ihrer
-Funktion grob mit den Organen des menschlichen Körpers vergleichen. 
+Funktion grob mit den Organen des menschlichen Körpers vergleichen.
 Das *Zellplasma* ist die Zellflüssigkeit und der mengenmäßig der
-Hauptbestandteil der Zelle. 
+Hauptbestandteil der Zelle.
 Die *Zellmembran* umhüllt die Zelle und
-bildet die Grenze der Zelle nach aussen. 
+bildet die Grenze der Zelle nach aussen.
 Sie ist für bestimmte Stoffe
 (z. B. Sauerstoff, Nährstoffe, Elektrolyte) unter Umständen durchlässig.
 (Alberts et al. 2001; Löffler and Petrides 2003)
@@ -49,8 +47,8 @@ Sie ist für bestimmte Stoffe
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Zelle-edited.*
 
-    Schema einer Zelle 
-    
+    Schema einer Zelle
+
     [Lena Hirtler, MfG]
 
 Von der Zelle zum Organismus

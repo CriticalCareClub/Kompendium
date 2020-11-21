@@ -6,9 +6,7 @@
 Der Brustkorb
 =============
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 Beschreibung
 ------------
@@ -21,7 +19,7 @@ Die obersten 7 Rippen-Paare werden als *"echte Rippen"*
 bezeichnet (als "echt" gelten Rippen, die eine direkte Verbindung zum
 Sternum besitzen). Sie erreichen mit ihren Spitzen das Brustbein und
 bilden “Ringe” um die Brustorgane. Die 5 unteren Rippenpaare bilden den
-bogenförmigen unteren Rand des Brustkorbes. Die Rippenpaare 
+bogenförmigen unteren Rand des Brustkorbes. Die Rippenpaare
 8--10 sind dabei nur indirekt über einen Knorpel mit dem Brustbein
 verbunden (*"unechte Rippen"*), das 11. und das 12.
 Paar endet mit knorpeligen Spitzen frei zwischen den Bauchmuskeln
@@ -49,10 +47,10 @@ Herz), als auch die *Oberbauchorgane* (Leber, Magen, Milz, Nieren).
 -  *Brustwirbelsäule* (12 Brustwirbel), mit Rippen in gelenkiger
    Verbindung
 
-.. figure:: /Bilder/WikipediaPd/Thorax.* 
+.. figure:: /Bilder/WikipediaPd/Thorax.*
 
     Der knöcherne ThoraxMariana Ruiz Villarreal
-    
+
     [Public Domain]
 
 -   Die Intaktheit des Brustkorbes ist für die Atmung von großer

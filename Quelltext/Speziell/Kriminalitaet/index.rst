@@ -4,9 +4,7 @@
 Opfer von Kriminalität, Misshandlung und Vernachlässigung (#64)
 ###############################################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 .. sectionauthor:: ???
 

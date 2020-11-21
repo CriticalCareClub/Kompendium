@@ -10,15 +10,13 @@ Körpertemperatur
 ########################################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. toctree::
 	:maxdepth: 1
-	
-	
+
+
 
 
 Die Körpertemperatur kann an

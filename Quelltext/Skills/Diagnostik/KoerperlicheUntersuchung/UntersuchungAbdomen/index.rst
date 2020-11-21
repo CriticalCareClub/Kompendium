@@ -6,9 +6,7 @@ Untersuchung des Abdomens
 ########################################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. toctree::

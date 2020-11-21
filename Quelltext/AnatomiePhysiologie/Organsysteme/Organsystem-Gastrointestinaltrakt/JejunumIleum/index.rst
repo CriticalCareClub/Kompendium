@@ -6,9 +6,7 @@ Jejunum und Ileum
 *****************
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. sidebar:: Jejunum und Ileum

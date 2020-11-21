@@ -4,9 +4,7 @@
 Stoffwechselstörungen (#70)
 ##################################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 *Abkz.* metabolische Störungen.
 

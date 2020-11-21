@@ -5,9 +5,7 @@ Allgemeines
 #####################################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. toctree::

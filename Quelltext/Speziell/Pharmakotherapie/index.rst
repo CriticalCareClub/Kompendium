@@ -3,9 +3,7 @@ Pharmakotherapie (#67)
 #####################################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. toctree::

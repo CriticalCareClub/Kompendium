@@ -4,9 +4,7 @@
 Assistenztätigkeiten (#59)
 ##########################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 :Maintainer:

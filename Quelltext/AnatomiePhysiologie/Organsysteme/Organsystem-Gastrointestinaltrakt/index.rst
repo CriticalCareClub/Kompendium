@@ -3,13 +3,11 @@
 .. _Thema-Gastrointestinaltrakt:
 
 ##################################################
-Der Gastrointestinaltrakt 
+Der Gastrointestinaltrakt
 ##################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 
@@ -38,7 +36,7 @@ aufgenommen und in das Blut überstellt. Über das Blut werden die
 Nährstoffe an ihre Zielzellen transportiert. Abfallstoffe landen
 schlußendlich über die Leber und die Gallenflüssigkeit wieder im Darm
 (bzw. den Nieren) um ausgeschieden zu werden.
- 
+
 
 .. figure:: /Bilder/WikipediaPd/Digestive_system_diagram_de-edited.*
 
@@ -53,17 +51,17 @@ schlußendlich über die Leber und die Gallenflüssigkeit wieder im Darm
     :widths: 15 10 30
     :header-rows: 0
 
-    *   -   
+    *   -
         -   Zunge
         -
     *   -
         -   Zähne
-        - 
+        -
     *   -
         -   Speicheldrüsen
         -
     *   -   **Rachen**
-        -   
+        -
         -   Kreuzung des Speisebreis mit dem Luftweg
 
             Kehldeckel verschließt beim Schlucken die Luftröhre
@@ -71,23 +69,23 @@ schlußendlich über die Leber und die Gallenflüssigkeit wieder im Darm
         -
         -   Speisebrei wird mittels Muskelbewegung  zum Magen befördert
     *   -   **Magen**
-        -   
-        -   Vermischung mit Magensäure,          
-            
+        -
+        -   Vermischung mit Magensäure,
+
             Magensäure zerlegt Nahrung
 
             Pförtner gibt portionsweise Speisebrei an den Zwölffingerdarm ab
     *   -   Dünndarm
         -   *Zwölffingerdarm* (Duodenum)
-        -   Gallenflüssigkeit           (:math:`{\leftarrow}`\ Leber) 
+        -   Gallenflüssigkeit           (:math:`{\leftarrow}`\ Leber)
             und Bauchspeichel           (:math:`{\leftarrow}`\ Pankreas) wird zugesetzt
-    *   -   
+    *   -
         -   *Jejunum* (Leerdarm)
         -   Spaltung von Nährstoffen (Eiweiß,
             Kohlehydrate, Fett) und Nährstoffaufnahme
     *   -
         -   *Ileum* (Krummdarm)
-        -   
+        -
     *   -   Dickdarm
         -   **Blinddarm** :index:`\ <Blinddarm>`
         -   Sackgasse
@@ -142,6 +140,6 @@ Nervale Versorgung des GI-Trakts (allgemein)
 ********************************************
 
 Die :dfn:`Nervi splanchnici<Nn.!splanchnici>` sind die Nerven des
-vegetativen Nervensystems, 
+vegetativen Nervensystems,
 welche die inneren Organe versorgen
-(:ref:`Thema-VegetativesNervensystem`).  
+(:ref:`Thema-VegetativesNervensystem`).

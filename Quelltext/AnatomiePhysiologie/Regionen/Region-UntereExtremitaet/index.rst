@@ -4,9 +4,7 @@
 Der Beckengürtel und die untere Extremität
 ##########################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 ****************
 Der Beckengürtel
@@ -114,9 +112,9 @@ Schien- bzw. Wadenbein).
 .. figure:: /Bilder/WikipediaPd/Human_skeleton_lower-extr-edited.*
 
     Der Beckengürtel und die untere Extremität
-    
+
     [Mariana Ruiz Villarreal, Public Domain]
 
 .. note::
-   
+
     -  Achtung: Unterscheide Fuß – Bein!

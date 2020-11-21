@@ -3,9 +3,7 @@
 Der Stütz- und Bewegungsapparat: Allgemein
 ##########################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 ************
 Beschreibung
@@ -57,8 +55,8 @@ Blutkörperchen sowie den Blutplättchen im roten Knochenmark).
 
 .. figure:: /Bilder/WikipediaPd/Human_skeleton_front-edited.*
 
-    Das menschliche Skelett. 
-    
+    Das menschliche Skelett.
+
     [Mariana Ruiz Villarreal Public domain]
 
 ***********
@@ -118,7 +116,7 @@ Bewegungsapparats. Sie werden nach ihrer Form unterschieden:
    single: Kopf (Knochen)
    single: Hals (Knochen)
    single: Schaft (Knochen)
-   
+
 Aufbau eines Knochens
 =====================
 
@@ -168,7 +166,7 @@ Aufbau eines Knochens
 
 .. [186]
    *Fraktur*: Bruch.
-   
+
 Lange Röhrenknochen kann man außerdem in
 
 -  :dfn:`Kopf`,
@@ -183,8 +181,8 @@ unterteilen.
 
 .. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Knochenbau.*
 
-    Ein langer Röhrenknochen im Querschnitt 
-    
+    Ein langer Röhrenknochen im Querschnitt
+
     [Quelle: *Hirtler*, MfG]
 
 Rotes Knochenmark
@@ -227,11 +225,11 @@ ist nicht unbedingt für den Körper notwendig.
 .. index::
    single: Wachstumszone (Knochen)
    single: Epiphysenfuge
-   
+
 Knochenentwicklung
 ==================
 
-.. sidebar:: Knochenentwicklung 
+.. sidebar:: Knochenentwicklung
 
     -  Geburt: Knorpel
 
@@ -265,7 +263,7 @@ Allgemeine Gelenklehre
 ======================
 
 
-.. sidebar:: Gelenke 
+.. sidebar:: Gelenke
 
     -   Verbindung zwischen mind. zwei Knochen
     -   “echtes Gelenk”
@@ -285,7 +283,7 @@ Gelenk”, Synarthrose) unterscheiden. Zu den Gelenken ohne Gelenksspalt
 gehören alle Knochenverbindungen die *nicht* frei beweglich sind, z. B.
 die Schädelnähte, die Schambeinfuge und die
 Rippen-Brustbein-Verbindungen des Brustkorbes (Thorax,
-:ref`Thema-thorax`). 
+:ref`Thema-thorax`).
 
 Man unterscheidet:
 
@@ -319,11 +317,11 @@ ist mit einer dünnen Schicht *Schmierflüssigkeit*
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Gelenk-edited.*
 
-    Ein Gelenk im QuerschnittLena 
-    
+    Ein Gelenk im QuerschnittLena
+
     [Hirtler / MfG]
 
-.. index:: 
+.. index::
     single: ! Kugelgelenk
     single: ! Gelenk;Kugel-
     single: ! Eigelenk
@@ -365,7 +363,7 @@ Gelenkarten
         #.  Elle–Speiche (*Zapfengelenk*)
 
 Echte Gelenke werden nach ihrem Aufbau und der damit verbundenen
-Beweglichkeit in unterschiedliche Gelenkarten eingeteilt. 
+Beweglichkeit in unterschiedliche Gelenkarten eingeteilt.
 Typische Beispiele sind:
 
 -  :dfn:`Kugelgelenk`: Dreiachsig. Die Bewegung ist in drei
@@ -416,12 +414,12 @@ Typische Beispiele sind:
 .. figure:: /Bilder/HirtlerLena-Ccc/Gelenkarten.*
 
     Gelenkarten:
-    *A* Kugelgelenk (3 Achse; z. B. Hüftgelenk), 
-    *B* Eigelenk (2 Achsen; z. B. Handwurzelgelenk), 
-    *C* Sattelgelenk (2 Achsen; z. B. Daumengrundgelenk), 
-    *D* Scharniergelenk (1 Achse; z. B. Fingergliedgelenke, Elle–Oberarmknochen), 
+    *A* Kugelgelenk (3 Achse; z. B. Hüftgelenk),
+    *B* Eigelenk (2 Achsen; z. B. Handwurzelgelenk),
+    *C* Sattelgelenk (2 Achsen; z. B. Daumengrundgelenk),
+    *D* Scharniergelenk (1 Achse; z. B. Fingergliedgelenke, Elle–Oberarmknochen),
     *E* Zapfengelenk (1 Achse; z. B. Elle–Speiche)
-    
+
     [Lena Hirtler / MfG]
 
 **************************************
@@ -443,14 +441,14 @@ hat, sich aktiv zusammenzuziehen. Die Gesamtheit der Muskeln wird als
 :dfn:`Muskulatur` bezeichnet.
 
 
-.. index:: 
+.. index::
    single: Skelettmuskulatur
    single: glatte Muskulatur
    single: Herzmuskulatur
    single: Muskulatur, Skelett-
    single: Muskulatur, Herz-
    single: Muskulatur, glatte
-   
+
 Muskelarten
 ===========
 
@@ -501,8 +499,8 @@ der Ursprung eines Muskels näher beim Körper, der Ansatz ist der Punkt,
 der weiter entfernter ist. Für alle dieser Erklärungen gibt es natürlich
 Ausnahmen, konkret die Unterstützung der Atemmuskulatur als *Atemhilfsmuskulatur*.
 
-.. figure:: /Bilder/WikipediaPd/Gray361.* 
+.. figure:: /Bilder/WikipediaPd/Gray361.*
 
     Muskelzug
-    
+
     [Gray’s Anatomy / Copyright expired]

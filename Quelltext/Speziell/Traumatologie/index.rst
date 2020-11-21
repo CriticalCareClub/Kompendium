@@ -3,9 +3,7 @@
 Traumatologie (#73)
 ###################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 Als :dfn:`Trauma` :index:`\ <! Trauma>` bezeichnet man eine
 

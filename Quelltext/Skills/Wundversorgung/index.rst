@@ -3,9 +3,7 @@
 Wunden (#75)
 ###################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 Eine Wunde ist eine Unterbrechung des Zusammenhangs von Körpergeweben
 durch mechanische, thermische, Strahlen- oder chemische Einwirkungen.

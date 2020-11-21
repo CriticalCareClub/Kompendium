@@ -4,9 +4,7 @@
 Sonstiges (#69)
 ##########################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 .. toctree::
     :maxdepth: 1

@@ -3,15 +3,13 @@ Pulsfrequenz
 ########################################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. toctree::
 	:maxdepth: 1
-	
-	
+
+
 
 .. _thema-pulsmessung:
 
@@ -22,11 +20,11 @@ Beschreibung und Messstellen
 ----------------------------
 
 Als :dfn:`Herzfrequenz` (*HF*) bezeichnet
-man die Anzahl der Schläge bzw. Aktionen des Herzens pro Minute. 
+man die Anzahl der Schläge bzw. Aktionen des Herzens pro Minute.
 Als :dfn:`Pulsfrequenz` bezeichnet man die Anzahl der Pulsschläge
 pro Minute.
 
-Die Herzfrequenz entspricht normalerweise der 
+Die Herzfrequenz entspricht normalerweise der
 *Pulsfrequenz*, welche mittels Fühlen des Pulses ermittelt
 wird. [112]_
 

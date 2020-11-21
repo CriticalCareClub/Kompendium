@@ -3,9 +3,7 @@ Kapnometrie
 ########################################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. toctree::

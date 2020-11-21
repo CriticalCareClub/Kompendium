@@ -6,9 +6,7 @@ Traumacheck
 ########################################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. toctree::

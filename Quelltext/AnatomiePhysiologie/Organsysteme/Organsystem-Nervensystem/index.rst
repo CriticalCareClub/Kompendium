@@ -3,9 +3,7 @@
 Das Nervensystem
 ****************
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 Beschreibung: Nervensystem
 ==========================

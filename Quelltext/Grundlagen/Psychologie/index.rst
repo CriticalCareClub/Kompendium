@@ -5,9 +5,7 @@ Psychologie und psychische Betreuung
 ##########################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 :Maintainer:

@@ -4,9 +4,7 @@
 Rechtliche Grundlagen (.at)
 #################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 Dieses Kapitel behandelt die allgemeinen und tätigkeitsspezifischen
 rechtlichen Grundlagen.

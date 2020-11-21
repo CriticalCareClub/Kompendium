@@ -2,9 +2,7 @@
 Die Wirbelsäule
 ===============
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 ..

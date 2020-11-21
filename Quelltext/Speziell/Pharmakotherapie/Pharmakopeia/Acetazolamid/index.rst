@@ -12,9 +12,7 @@
 Acetazolamid
 ============
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 .. rubric:: Spezialitäten
 
@@ -26,10 +24,10 @@ Acetazolamid
 
 Carboanhydraseinhibotor, **Sulfonamid**
 
-Acetazolamid ist ein Diuretikum, 
-dessen Wirkung auf der reversiblen Hydratisierung von CO₂ 
-und Dehydratisierung der Kohlensäure-Reaktion in den Nierenbasiert. 
-Das Ergebnis ist in der Niere eine *verstärkte Ausscheidung* von HCO₃⁻\ -Ionen, 
+Acetazolamid ist ein Diuretikum,
+dessen Wirkung auf der reversiblen Hydratisierung von CO₂
+und Dehydratisierung der Kohlensäure-Reaktion in den Nierenbasiert.
+Das Ergebnis ist in der Niere eine *verstärkte Ausscheidung* von HCO₃⁻\ -Ionen,
 die an der Ausscheidung von Natrium, Wasser und Kalium beteiligt sind.
 
 Acetazolamid reduziert den Gehalt von H⁺\ - und HCO₃⁻\ -Ionen
@@ -38,18 +36,18 @@ Acetazolamid reduziert den Gehalt von H⁺\ - und HCO₃⁻\ -Ionen
 
 .. rubric:: Indikationen
 
--   **Diuretikum:** Es kann mit anderen Diuretika kombiniert werden, 
+-   **Diuretikum:** Es kann mit anderen Diuretika kombiniert werden,
     wenn zur Behandlung von Flüssigkeitsretention Wirkungen an mehreren Nephron-Segmenten gewünscht werden.
 
 -   **Epilepsie:** In Kombination mit anderen Antikonvulsiva wurden die besten Ergebnisse mit Diamox bei Kindern mit Petit-Mal-Epilepsie beobachtet, gute Ergebnisse wurden aber auch bei Patienten mit anderen Formen von Anfällen, wie Grand-Mal-Epilepsie, Mischformen, myoklonische Tics usw. gesehen.
 
--   **weiters:** 
-    Herzinsuffizienz, 
-    Diureseeinschränkung, 
-    Glaukom, 
-    Intraoculare Hypertension, 
-    Epilepsie, 
-    Höhenkrankheit, 
+-   **weiters:**
+    Herzinsuffizienz,
+    Diureseeinschränkung,
+    Glaukom,
+    Intraoculare Hypertension,
+    Epilepsie,
+    Höhenkrankheit,
     Idiopathiisch intracranielle Hypertension
 
 .. rubric:: Nebenwirkungen
@@ -60,31 +58,31 @@ Acetazolamid reduziert den Gehalt von H⁺\ - und HCO₃⁻\ -Ionen
 
 -   Bei intravenöser Verabreichung in hohen Dosen kann es zu einem anfänglichen Blutdruckabfall kommen.
 
--   Bei Patienten mit Hydrocephalus kann es nach intravenöser Verabreichung 
-    zu einer kurzfristigen Erhöhung des Hirndrucks 
+-   Bei Patienten mit Hydrocephalus kann es nach intravenöser Verabreichung
+    zu einer kurzfristigen Erhöhung des Hirndrucks
     (für ca. 30 Minuten) kommen.
 
--   Sonstige: 
-    Paraesthesien, 
-    Fatigue, 
-    Schwindel, 
-    Depression, 
-    herabgesetzte Libido, 
-    bitterer oder 
-    metallischer Geschmack, 
-    Übekeit, 
-    Erbrechen, 
-    abdominelle Krämpfe, 
-    Diarrhoe, 
-    schwarzer Stuhl, 
-    Nierensteine, 
-    Anaphylaxie, 
+-   Sonstige:
+    Paraesthesien,
+    Fatigue,
+    Schwindel,
+    Depression,
+    herabgesetzte Libido,
+    bitterer oder
+    metallischer Geschmack,
+    Übekeit,
+    Erbrechen,
+    abdominelle Krämpfe,
+    Diarrhoe,
+    schwarzer Stuhl,
+    Nierensteine,
+    Anaphylaxie,
     *Stevens–Johnson syndrome*
 
 .. rubric:: Kontraindikationen
 
 -   Hyperchloremische Azidose
-    
+
 -   Hypo-K
 
 -   Hypo-Na
@@ -95,13 +93,13 @@ Acetazolamid reduziert den Gehalt von H⁺\ - und HCO₃⁻\ -Ionen
 
 -   Unverträglichkeit von Acetazolamid oder **Sulfonamiden**
 
--   Leberinsuffizienz bzw. schwere Lebererkrankungen, 
-    inkl. Zirrhose; Risiko für hepatische Encephalopathie. 
+-   Leberinsuffizienz bzw. schwere Lebererkrankungen,
+    inkl. Zirrhose; Risiko für hepatische Encephalopathie.
     Acetazolamide verrignert die Ammoniak-Clearence
 
 .. rubric:: Dosierung
 
--   **Glaukom:** Diamox verringert die Ausscheidung von Kammerwasser bei Glaukom 
+-   **Glaukom:** Diamox verringert die Ausscheidung von Kammerwasser bei Glaukom
     und kann möglicherweise nutzbringend mit Präparaten zur Förderung der Drainage von Kammerwasser kombiniert werden.
 
     In akuten Fällen beträgt die Anfangsdosis 2 Tabletten, gefolgt von 1⁄2 bis 1 Tablette alle vier Stunden.

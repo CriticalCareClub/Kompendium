@@ -8,9 +8,7 @@ Esmolol
 ########################################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 .. Thema-: Spezialitäten
@@ -19,42 +17,42 @@ Esmolol
 
 .. Thema-: Beschreibung
 
-    Esmolol ist ein *sehr kurz* wirksamer **β₁-selektiver Betablocker** 
+    Esmolol ist ein *sehr kurz* wirksamer **β₁-selektiver Betablocker**
     (Klasse-II-Antiarrhythmikum)
     *ohne* intrinsischer sympathikomimetischer Aktivität.
 
 .. Thema-: Pharmakokinetik
 
-    Elimination über *Esterase-Hydrolyse*, 
-    E-HWZ 9 min, 
+    Elimination über *Esterase-Hydrolyse*,
+    E-HWZ 9 min,
     Wirkdauer wenige Minuten
 
 .. Thema-: Pharmakodynamik
 
     -   primär: negativ inotrop, chronotrop und dromotrop
-    -   sekundär: Hemmung der Lipolyse; 
-        β₂-vermittelt: Hemmung der Dilatation der glatten Muskulatur 
-        mit Konstriktion bzw. Tonuserhöhung 
+    -   sekundär: Hemmung der Lipolyse;
+        β₂-vermittelt: Hemmung der Dilatation der glatten Muskulatur
+        mit Konstriktion bzw. Tonuserhöhung
         (Bronchokonstriktion, Raynaud-Syndrom)
 
 .. Thema-: Indikation
 
-    -   Tachyarrhythmie (insbes. supraventrikulär), 
+    -   Tachyarrhythmie (insbes. supraventrikulär),
     -   Thyreotoxikose,
     -   Flimmerprophylaxe nach MCI
 
 .. Thema-: Kontraindikationen
 
-    -   Bradykardie, 
-    -   NYHA III—IV, 
-    -   (kardiogener) Schock, 
-    -   AVB 2—3°, 
-    -   Sinusknotensyndrom, 
+    -   Bradykardie,
+    -   NYHA III—IV,
+    -   (kardiogener) Schock,
+    -   AVB 2—3°,
+    -   Sinusknotensyndrom,
     -   akuter Asthmaanfall
     -   Katecholaminbedarf (relativ)
-    
-    .. danger:: 
-      
+
+    .. danger::
+
         CAVE: Keinesfalls mit **Ca-Antagonisten** (Verapamil) kombinieren!
 
 .. Thema-: Dosierung

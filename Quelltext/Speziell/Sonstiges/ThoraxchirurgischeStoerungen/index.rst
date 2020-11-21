@@ -4,9 +4,7 @@
 Thoraxchirurgische Störungen
 ###############################################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 Pleuraempyem
 ============

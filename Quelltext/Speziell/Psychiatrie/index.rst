@@ -4,9 +4,7 @@
 Psychiatrie (#68)
 #################
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 .. _Thema-unterbringungsgesetz:
 

@@ -7,14 +7,12 @@
 Der **Kreislauf**
 ************************************************************************
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 ..
     .. sidebar:: Kreislauf
-            
+
         -   3 Komponenten:
 
             -   Herz: Pumpe
@@ -28,8 +26,8 @@ Der **Kreislauf**
 
 
 Der Kreislauf ist eine *Vitalfunktion* und besteht aus dem **Herz**,
-dem **Gefäßsystem** 
-und dem **Blut**. 
+dem **Gefäßsystem**
+und dem **Blut**.
 Ziel des Kreislaufes ist die Verteilung
 von Stoffen und Gasen im Körper.
 Dazu fließt eine Nährflüssigkeit (*Blut*) in einem Leitungssystem

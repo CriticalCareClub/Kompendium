@@ -5,9 +5,7 @@ Thermische Schädigungen (#71)
 ####################################################
 
 
-.. attention::
 
-    |Text-InkubatorInhalt|
 
 
 

@@ -244,7 +244,7 @@ Schäden am Herzmuskel bestehen.
 .. subfigstart::
 
 .. figure:: /Bilder/WikipediaCcBySa/Heart_normal_short_axis_section-00640.*
-        :width: 99%
+        :width: 100%
 
         Das Herz im Querschnitt, gesehen von unten: Links der rechte
         Ventrikel, rechts der muskelstarke linke Ventrikel.
@@ -252,7 +252,7 @@ Schäden am Herzmuskel bestehen.
         [Patrick Lynch, CC-BY]
 
 .. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_infarct-00640.*
-        :width: 99%
+        :width: 100%
 
         Ischämisches Herzmuskelgewebe ...
 
@@ -261,7 +261,7 @@ Schäden am Herzmuskel bestehen.
 
 
 .. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.*
-        :width: 99%
+        :width: 100%
 
         stirbt nach einger Zeit ab, es
         bildet sich eine (funktionslose) Narbe, die Herzleistung ist in Folge

@@ -12,7 +12,6 @@ Literaturverzeichnis
     AlbertsMolZellbiologie:2
     AntonovskySalutogenese
     ArgelanderErstinterview:8
-    Asai:2005
     AumuellerAnatomie:2
     BattegayHandwPsych:2
     Beneker:2004
@@ -192,6 +191,180 @@ Literaturverzeichnis
     Yerkes:1908
     Ziesenitz:2009
 
+..
+    [UltimateHitchhikersGuide96hitchhikersguide]_
+    [AlbertsMolZellbiologie:2]_
+    [ArgelanderErstinterview:8]_
+    [AumuellerAnatomie:2]_
+    [BattegayHandwPsych:2]_
+    [BenninghoffAnatomie17Bd1]_
+    [BergnerBurnOutAerzten:9]_
+    [BLIM:3]_
+    [ClassenInnere:5]_
+    [Soehnke:200607]_
+    [Hansak:201207]_
+    [HeroldInnereMedizin:2005]_
+    [HeroldInnereMedizin:2012]_
+    [RD-200811Hoffmann]_
+    [www:Erc]_
+    [www:ResuscitationJournal]_
+    [MenschKoerperKrankheit:6]_
+    [ElektroKomikoGraphie:7]_
+    [KarutzKursbuchEH]_
+    [KayserMikrobiologie:10]_
+    [KirschnickPflege:2]_
+    [KoehnleinEH]_
+    [Koppensteiner:201208]_
+    [KramerWallhaeusersPraxis:1]_
+    [KramerKrankenhausPraxishygiene:1]_
+    [SiewertChirurgie8-07.14-Pankreas]_
+    [KuehnEkgFortbildung02T1]_
+    [KuehnEkgFortbildung03T2]_
+    [GeschichteNeuerenDeutschenChirurgie]_
+    [LazarusStress]_
+    [LehmeyerAnamUnter:1]_
+    [LeohnhardtAnatomie:3]_
+    [LoefflerBiochemie:7]_
+    [Longmore:2007]_
+    [ScholzNotfallmedizin2-20.1-PsychiatrischeNot]_
+    [Erc-2005DeSec1]_
+    [Erc-2005DeSec4]_
+    [Erc-2005Sec4]_
+    [Erc-2005Sec1]_
+    [PlatzerTaschenatlasAnat8Bd1]_
+    [RedelsteinerHRNS:2]_
+    [BLIM:4]_
+    [SchabusKnie:1]_
+    [EkgIsannPaediatrie:2]_
+    [SudoweProfHandelnRD:1]_
+    [ThunRedenI:46]_
+    [ThunRedenII:30]_
+    [ThunRedenIII:19]_
+    [Jolesch:2]_
+    [WaldeyerAnatomie:17]_
+    [Brockzivilschutzsignale:20120810]_
+    [WunnPsych:1]_
+
+
+
+[AntonovskySalutogenese]_
+[Beneker:2004]_
+[BengelPsyNotfallmedRd:2]_
+[BatesUntersuchung:1]_
+[youtube:VaginalChildbirth]_
+[Bischofberger:2007]_
+[FamPropPku:2014]_
+[FamPropPku:2011]_
+[FamPropAeGruFert:2011]_
+[FamPropAeGruFert:2012]_
+[BmgEbolaFalldefinition:20141028]_
+[BmgEbolaFactsheet:20141103]_
+[BMG-92250_0080-II_A_2010_2010-12-15]_
+[AsboeLehrmeinungRd2011-06]_
+[AsboeLehrmeinungRd2011-07]_
+[AsboeLehrmeinungRd2011-10]_
+[AsboeLehrmeinungRd2011-20]_
+[Burisch:1994]_
+[Burisch:2006]_
+[JNC7Report]_
+[Cutler:2009]_
+[DahmerGespraechsfuehrung:5]_
+[DahmerAnamneseBefund:10]_
+[DavisonKlinPsy:1988]_
+[ICD10-De-2011]_
+[Harrisons18DeKap244]_
+[Harrisons18DeKap243]_
+[Harrisons18DeKap246]_
+[Harrisons18DeKap245]_
+[EKG-Knacker2]_
+[FrielingLehrbArbeitspsy:2]_
+[SiewertChirurgie8-06-Gefaesschirurgie]_
+[ADR:2011]_
+[www.ekg-online.de]_
+[Enne:2012]_
+[mrsanet]_
+[Fauci:2008]_
+[Ficklscherer:2005]_
+[FlammAngewandteHygiene:4]_
+[Lissauer:2007]_
+[Freudenberger:1974]_
+[FamPropAeGeFue:2010]_
+[InnereMedQuick:3]_
+[Silbernagl3-Kreislaufsystem]_
+[Gallaher:2009]_
+[GantenMolGrund:97]_
+[youtube:Herzinfarkt]_
+[Genzwuerker:2007]_
+[PraxisleitAllgemeinmed:6]_
+[Harrisons18DeKap228]_
+[GrassbergerTodesermittlung:1]_
+[AerztlicheWundversorgung:2]_
+[GruberHygieneRD:1]_
+[Guerri:2009]_
+[Haag:2006]_
+[HahnMikrobio:6]_
+[TertialeNotfallIntensivmed:1]_
+[OeBBRettEinGleis:2009]_
+[HolaubekASB16h]_
+[ASBOeRundschreiben-2010Nr11]_
+[Igv:2010]_
+[Jones:1973]_
+[Kamolz:2009]_
+[Kaplan:2001]_
+[KeggenhoffEH]_
+[KontrollamtWienKA-K-13-09]_
+[Verbrennungsmed-2009Praehosp]_
+[RkPlsNeu:2008]_
+[RkRahmenvorschriftGrossunfaelle:2007]_
+[Kucera:2010]_
+[NitschStress-StressTransakt]_
+[Loew:200611]_
+[Loennecker:2001]_
+[LutomskyLeitRett:3]_
+[Malfertheiner:2004]_
+[OskampAppSocPsyAnn84-BurnOrgSett]_
+[MaslachBurnout]_
+[Meron:2004]_
+[ArzPocketAustria:2]_
+[KlinLeitAlle:3]_
+[MuellerKnie:1]_
+[PHTLS:6]_
+[NagelePalliativ:1]_
+[Cicero911CommissionReport]_
+[NetterPaediatrie:1]_
+[ChecklisteAnamUnt:1]_
+[Niaura:2002]_
+[OenormS2104-2005]_
+[Peiris:2009]_
+[PetersenVordereKreuzband:1]_
+[Pflegewiki:Dekubitus]_
+[AnCompact:3]_
+[Silbernagl3-Atmung]_
+[ThiemesPflege:12]_
+[SchmidtPhysio:28]_
+[SchmuckChemie:1]_
+[Schnelle:200607]_
+[Schottmueller:1914]_
+[Silbernagl3-Herz]_
+[U:61989]_
+[StarkeMedSozAspProbBew:00]_
+[Steinert:2008]_
+[Strauss:0000]_
+[StriebelAnaesthesie:2]_
+[Supady:2009]_
+[IntroClinEmergMed:4]_
+[BruederlBelastung88-DefBew]_
+[Uray:2008]_
+[WundversorgungPflege:2]_
+[EG-1272-2008-De]_
+[H1N1InvTeam2009]_
+[youtube:Herzinfarkt2]_
+[WirthEH]_
+[Wolf:2009]_
+[ICD10De]_
+[Wuttig:2009]_
+[Yerkes:1908]_
+[Ziesenitz:2009]_
 
 
 Alpha
@@ -236,6 +409,38 @@ Alpha
 	2005:95(6), 10-15, 729–36.
 	doi:\ `10.1093/bja/aei269 <https://doi.org/10.1093/bja/aei269>`__.
 
+.. [AsboeLehrmeinungRd2011-06]
+
+	Bundesverband/Bundesschulung, Arbeiter-Samariter-Bund Österreichs. n.d.
+	**Lehrmeinung Nr. 06/2011: Rautekgriff Im Rettungsdienst.** Lehrmeinung.
+	Hollergasse 2-6, A-1150 Wien: Bundesschulung; Arbeiter-Samariter-Bund
+	Österreichs Bundesverband; Rundschreiben, online.
+
+
+
+.. [AsboeLehrmeinungRd2011-07]
+
+	———. n.d. **Lehrmeinung Nr. 07/2011: Helmabnahme Im Rettungsdienst.**
+	Lehrmeinung. Hollergasse 2-6, A-1150 Wien: Bundesschulung;
+	Arbeiter-Samariter-Bund Österreichs Bundesverband; Rundschreiben,
+	online.
+
+.. [AsboeLehrmeinungRd2011-10]
+
+	———. n.d.
+	**Lehrmeinung Nr. 10/2011: Spineboard Im Rettungsdienst.**
+	Lehrmeinung. Hollergasse 2-6, A-1150 Wien: Bundesschulung;
+	Arbeiter-Samariter-Bund Österreichs Bundesverband; Rundschreiben,
+	online.
+
+.. [AsboeLehrmeinungRd2011-20]
+
+	———. n.d.
+	**Lehrmeinung Nr. 20/2011: Geburt Und Dammschutz Im
+	Rettungsdienst.**
+	Lehrmeinung. Hollergasse 2-6, A-1150 Wien:
+	Bundesschulung; Arbeiter-Samariter-Bund Österreichs Bundesverband;
+	Rundschreiben, online.
 
 B
 ================================================================================
@@ -281,6 +486,31 @@ B
 
 
 
+.. [BmgEbolaFalldefinition:20141028]
+
+	Bundesministerium für Gesundheit. 2014a.
+	**EU-Falldefinition Einer
+	Ebola-Viruserkrankung (Ebola Virus Disease - Evd).**
+	Bundesministerium
+	für Gesundheit; online. October.
+	http://www.bmg.gv.at/cms/home/attachments/8/5/4/CH1082/CMS1412756859685/fall_definition_ebola.pdf.
+
+
+
+.. [BmgEbolaFactsheet:20141103]
+
+	2014b. **Informationsblatt Zu Ebola.** Bundesministerium für
+	Gesundheit; online. November.
+	http://www.bmg.gv.at/cms/home/attachments/2/1/6/CH1075/CMS1413795509746/ebola_factsheet.pdf.
+
+
+.. [BMG-92250_0080-II_A_2010_2010-12-15]
+
+	**RICHTIGSTELLUNG-Einsatz Des Larynxtubus Durch Angehörige Der
+	Nichtärztlichen Gesundheitsberufe Im Rahmen Der Lebensrettenden
+	Sofortmaßnahmen.” BMG-92250_0080-II_A_2010_2010-12-15
+
+
 .. [Boecker:2]
 
 	Böcker, Denk und Heitz:
@@ -314,6 +544,22 @@ B
 	**Handbuch Der Ersten Hilfe.**
 	4. Auflage, 2006.
 	Schattauer.
+
+
+
+.. [Burisch:1994]
+
+	Burisch, M:
+	1994.*Das Burnout-Syndrom – Theorie Der Inneren
+	Erschöpfung.*
+	2. Auflage,  Springer.
+
+
+.. [Burisch:2006]
+
+	———:
+	2006.*Das Burnout-Syndrom – Theorie Der Inneren Erschöpfung.* 3rd
+	ed. Springer.
 
 
 
@@ -575,11 +821,11 @@ Echo
 
 
 
-Foxtrott
+F
 ================================================================================
 
 
-Golf
+G
 ================================================================================
 
 
@@ -1164,110 +1410,7 @@ Z
 
 
 
-.. [BmgEbolaFalldefinition:20141028]
 
-	Bundesministerium für Gesundheit. 2014a.
-	**EU-Falldefinition Einer
-	Ebola-Viruserkrankung (Ebola Virus Disease - Evd).**
-	Bundesministerium
-	für Gesundheit; online. October.
-	http://www.bmg.gv.at/cms/home/attachments/8/5/4/CH1082/CMS1412756859685/fall_definition_ebola.pdf.
-
-
-
-.. [BmgEbolaFactsheet:20141103]
-
-	———. 2014b. **Informationsblatt Zu Ebola.** Bundesministerium für
-	Gesundheit; online. November.
-	http://www.bmg.gv.at/cms/home/attachments/2/1/6/CH1075/CMS1413795509746/ebola_factsheet.pdf.
-
-
-.. [BMG-92250_0080-II_A_2010_2010-12-15]
-
-	———. n.d.
-	**RICHTIGSTELLUNG-Einsatz Des Larynxtubus Durch Angehörige Der
-	Nichtärztlichen Gesundheitsberufe Im Rahmen Der Lebensrettenden
-	Sofortmaßnahmen.”
-
-
-
-
-
-
-
-.. [AsboeLehrmeinungRd2011-06]
-
-	Bundesverband/Bundesschulung, Arbeiter-Samariter-Bund Österreichs. n.d.
-	**Lehrmeinung Nr. 06/2011: Rautekgriff Im Rettungsdienst.** Lehrmeinung.
-	Hollergasse 2-6, A-1150 Wien: Bundesschulung; Arbeiter-Samariter-Bund
-	Österreichs Bundesverband; Rundschreiben, online.
-
-
-
-
-
-
-
-.. [AsboeLehrmeinungRd2011-07]
-
-	———. n.d. **Lehrmeinung Nr. 07/2011: Helmabnahme Im Rettungsdienst.**
-	Lehrmeinung. Hollergasse 2-6, A-1150 Wien: Bundesschulung;
-	Arbeiter-Samariter-Bund Österreichs Bundesverband; Rundschreiben,
-	online.
-
-
-
-
-
-
-
-.. [AsboeLehrmeinungRd2011-10]
-
-	———. n.d.
-	**Lehrmeinung Nr. 10/2011: Spineboard Im Rettungsdienst.**
-	Lehrmeinung. Hollergasse 2-6, A-1150 Wien: Bundesschulung;
-	Arbeiter-Samariter-Bund Österreichs Bundesverband; Rundschreiben,
-	online.
-
-
-
-
-
-
-
-.. [AsboeLehrmeinungRd2011-20]
-
-	———. n.d.
-	**Lehrmeinung Nr. 20/2011: Geburt Und Dammschutz Im
-	Rettungsdienst.**
-	Lehrmeinung. Hollergasse 2-6, A-1150 Wien:
-	Bundesschulung; Arbeiter-Samariter-Bund Österreichs Bundesverband;
-	Rundschreiben, online.
-
-
-
-
-
-
-
-.. [Burisch:1994]
-
-	Burisch, M:
-	1994.*Das Burnout-Syndrom – Theorie Der Inneren
-	Erschöpfung.*
-	2. Auflage,  Springer.
-
-
-
-
-
-
-
-.. [Burisch:2006]
-
-	———:
-	2006.*Das Burnout-Syndrom – Theorie Der Inneren Erschöpfung.* 3rd
-	ed. Springer.
 
 
 

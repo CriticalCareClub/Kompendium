@@ -48,7 +48,7 @@ PICTUREWIDE !!!
 .. subfigstart::
 
 .. figure:: /Bilder/WikipediaCcBySa/EKG_Komplex.*
-    :width: 99%
+    :width: 100%
 
     Eine elektrische Herzaktion.
     Die einzelnen Abschnitte im zeitlichen Verlauf repräsentieren unterschiedliche Stadien der Erregung:
@@ -60,7 +60,7 @@ PICTUREWIDE !!!
     [WMC:Hank / CC-BY-SA-2.0-DE]
 
 .. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
-    :width: 99%
+    :width: 100%
 
     Reizleitungssystem, Schema.
     **1**: Sinusknoten,

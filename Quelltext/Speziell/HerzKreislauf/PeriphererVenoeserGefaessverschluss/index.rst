@@ -170,7 +170,7 @@ Es entsteht eine *Lungenembolie*.
 .. subfigstart::
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/economyclass.*
-    :width: 99%
+    :width: 100%
 
     Die Economyclass.
     Sorgsam geschlichtet verbringen Menschen hier Stunden damit,
@@ -179,7 +179,7 @@ Es entsteht eine *Lungenembolie*.
     Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/lovenox1.*
-    :width: 99%
+    :width: 100%
 
     Thromboseprophylaxe.
     Niedermolekulares Heparin (hier "Lovenox") verhindert Thrombosen die
@@ -190,7 +190,7 @@ Es entsteht eine *Lungenembolie*.
     Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.*
-    :width: 99%
+    :width: 100%
 
     Eine Venenthrombose
     kann eine Embolie auslösen.

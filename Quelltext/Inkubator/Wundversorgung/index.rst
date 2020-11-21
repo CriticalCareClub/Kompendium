@@ -181,14 +181,14 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
 
 .. figure:: /Bilder/HauerDavid-Ccc/wunde_rqw1.*
-    :width: 99%
+    :width: 100%
 
     Rissquetschwunde vor der Versorgung im Spital
 
     *Hauer*
 
 .. figure:: /Bilder/HauerDavid-Ccc/wunde_rqw2.*
-    :width: 99%
+    :width: 100%
 
     Rissquetschwunde nach der Versorgung im Spital
 
@@ -570,7 +570,7 @@ werden und eine individuelle Lösung gefunden werden.
 
 
 .. figure:: /Bilder/WikipediaPd/Escarre_Stade_4_detail.*
-    :width: 99%
+    :width: 100%
 
     Dekubitus Grad 4
 

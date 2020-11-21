@@ -61,7 +61,7 @@ muss der Leitstelle eine erste *Lagemeldung* gegeben werden.
 
     Absperrung (hier deutlich verbesserungswürdig)
 
-    Ⓒ Gabriel :term:`Ⓛ Mfg`
+    Ⓒ Gabriel :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/Normsymbole/warntafel-un-60-1710.*
     :width: 100%
@@ -71,7 +71,7 @@ muss der Leitstelle eine erste *Lagemeldung* gegeben werden.
 .. figure:: /Bilder/GabrielSebastian-Ccc/minen_hinweis2.jpg
     :width: 100%
 
-    Spezifische Gefahren erkennen Ⓒ Gabriel :term:`Ⓛ Mfg`
+    Spezifische Gefahren erkennen Ⓒ Gabriel :term:`Ⓛ MfG`
 
 .. subfigend::
     :width: 0.31

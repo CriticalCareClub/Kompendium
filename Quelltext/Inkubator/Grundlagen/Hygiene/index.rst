@@ -438,7 +438,7 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 .. subfigstart::
 
 .. figure:: /Bilder/GabrielChristine-Ccc/staph-aureus.*
-    :width: 99%
+    :width: 100%
 
     Auf einem Nährboden wurde eine Bakterienkultur angelegt.
     Jedes der sechs runden Blättchen enthält ein Antibiotikum.
@@ -448,7 +448,7 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
     [Christine Gabriel/KARPAT]
 
 .. figure:: /Bilder/GabrielChristine-Ccc/staph-aureus-mrsa.*
-    :width: 99%
+    :width: 100%
 
     Diese Bakterien ignorieren 4 von 6 Antibiotika-Blättchen,
     d.h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim.
@@ -457,7 +457,7 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
     [Christine Gabriel/KARPAT]
 
 .. figure:: /Bilder/GabrielChristine-Ccc/amputat-us1.*
-    :width: 99%
+    :width: 100%
 
     Folge einer infizierten, nicht abheilenden Wunde:
     Eine Amputation des Unterschenkels.

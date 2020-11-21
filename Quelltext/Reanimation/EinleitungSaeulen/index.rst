@@ -165,14 +165,14 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 .. subfigstart::
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-2.*
-            :width: 99.9%
+            :width: 100%
 
             Herzdruckmassage
 
             [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
-            :width: 99.9%
+            :width: 100%
 
             Beatmung
 
@@ -180,7 +180,7 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
-            :width: 99.9%
+            :width: 100%
 
             Defibrillation
 

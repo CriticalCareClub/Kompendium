@@ -222,23 +222,24 @@
 
     .. attention::
 
-        |Text-NotReleased|
+        .. centered:: Achtung -- Entwicklungsversion!
 
-    .. centered:: Dieses Dokument ist **in Arbeit** und **nicht freigegeben!**\
+        Dieses Dokument ist **nicht freigegeben** und laufenden Änderungen unterworfen.
+        Es enthält ungesicherte Informationen und ist als **unzuverlässig** und **rein informativ** zu betrachten.
+
+        Die Verbreitung ist nicht gestattet.
+        Alle Rechte vorbehalten.
+
+    .. rubric:: Versionsverwaltung (Git)
+
+    .. git_changelog::
+        :revisions: 1
+
+    .. git_commit_detail::
+        :branch:
+        :commit:
+        :uncommitted:
+        :untracked:
 
 
-    Das vorliegende Werk ist im Entwicklungsstadium und nicht
-    veröffentlicht. Alle Rechte vorbehalten.
 
-    Eine Verbreitung ist nicht gestattet.
-
-.. .. rubric:: Versionsverwaltung (Git)
-
-.. .. git_changelog::
-..     :revisions: 1
-
-.. .. git_commit_detail::
-..     :branch:
-..     :commit:
-..     :uncommitted:
-..     :untracked:

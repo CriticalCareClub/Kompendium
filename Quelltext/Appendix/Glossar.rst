@@ -184,7 +184,7 @@ Glossar
         -   https://creativecommons.org/licenses/by-sa/3.0/deed.en
         -   https://creativecommons.org/licenses/by-sa/3.0/legalcode
 
-    Ⓛ Mfg
+    Ⓛ MfG
     Lizenz: MfG
         Mit freundlicher Genehmigung
 

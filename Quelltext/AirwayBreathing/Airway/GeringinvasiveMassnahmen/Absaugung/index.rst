@@ -1,7 +1,5 @@
 .. _Thema-absaugung-taetigkeit:
-
 .. _Thema-absaugung:
-
 .. _Thema-absauggeraete:
 
 
@@ -61,28 +59,28 @@ abgeschraubt und verschlossen werden.
 .. subfigstart::
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0112mm.*
-            :width: 99.99%
+            :width: 100%
 
             Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)
 
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Handpumpe_32789-00441pt.*
-            :width: 99.99%
+            :width: 100%
 
             Handabsaugpumpeempty
 
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Orosauger_33074-00441pt.*
-            :width: 99.99%
+            :width: 100%
 
             Oro-Sauger für Neugeborene
 
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Absaugkatheter_Set_33082-00441pt.*
-            :width: 99.99%
+            :width: 100%
 
             Absaugkatheter zum Einführen in Mund oder Nase
 
@@ -192,14 +190,14 @@ Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
 .. subfigstart::
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32999_export.*
-            :width: 99.99%
+            :width: 100%
 
             Katheterlänge bei Absaugung des Mundes
 
             [Ch. Pallinger]
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32990_export.*
-            :width: 99.99%
+            :width: 100%
 
             Katheterlänge bei Absaugung durch die Nase
 

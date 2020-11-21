@@ -10,28 +10,28 @@ Larynxmaske
 
 
 
-Die erste Generation der Larynxmaske wurde in den 
-1980er Jahren eingeführt und 
-seitdem stetig weiterentwickelt. 
+Die erste Generation der Larynxmaske wurde in den
+1980er Jahren eingeführt und
+seitdem stetig weiterentwickelt.
 Sie besteht im Grunde
-aus einem anatomisch geformten, 
+aus einem anatomisch geformten,
 annähernd elliptischen,
-Kunststoffcuff, 
+Kunststoffcuff,
 welcher im Patienten oberhalb der Glottis
-(supraglottisch) zu liegen kommt 
+(supraglottisch) zu liegen kommt
 und den Larynx gegenüber den Pharynx
-abdichtet. 
+abdichtet.
 Von der Maske weg führt ein Tubus durch den Oropharynx
 nach außen, hier können dann über einen Normstecker
 Beatmungsgerätschaften (Beatmungsgerät, Beatmungsbeutel)
 angeschlossen werden.
 
 Moderne Larynxmasken unterscheiden sich untereinander in vielen
-Kriterien, 
+Kriterien,
 z. B. Material, Einweg- oder Mehrwegprodukte, Form und
-Flexibilität des Tubus, zusätzliche Luminia 
-(z. B. für gastroösophageale Sonden) 
-oder Art des Cuffs. 
+Flexibilität des Tubus, zusätzliche Luminia
+(z. B. für gastroösophageale Sonden)
+oder Art des Cuffs.
 Gemeinsam ist ihnen eine verhältnismäßig invasivitätsarme Anwendung
 und das Einführen ohne Darstellung des Atemwege ("blind").
 Sie ermöglichen eine Sicherung des Atemweges gegenüber
@@ -48,33 +48,69 @@ entlasten. Ein bekannter Vertreter ist z. B. die *LMA Supreme*,
 welche auch durch einen speziell geformten Tubus das Einführen
 erleichtern soll.
 
-.. table:: Marktübersicht Larynxmasken
-
-    +-------------------+----------------+------------+---------------------------------------------------------+-----------+
-    | Modell            | Hersteller     | Generation | Besonderheiten                                          | Preis ca. |
-    +===================+================+============+=========================================================+===========+
-    | LMA Classic       | Teleflex       | 1          | Mehrweg                                                 |           |
-    +-------------------+----------------+------------+---------------------------------------------------------+-----------+
-    | LMA Unique        | Teleflex       | 1          |                                                         | 8,00      |
-    +-------------------+----------------+------------+---------------------------------------------------------+-----------+
-    | LMA ProSeal       | Teleflex       | 1–2        | 2. Lumen für Regurgitations-Abfluß                      |           |
-    +-------------------+----------------+------------+---------------------------------------------------------+-----------+
-    | LMA Supreme       | Teleflex       | 2          | 2. Lumen für Magensonde, Cuff 90gebogen                 | 18,00     |
-    +-------------------+----------------+------------+---------------------------------------------------------+-----------+
-    | LMA Fasttrach     | Teleflex       | 1          | Intubationslarynxmaske, ein- und Mehrweg verfügbar      |           |
-    +-------------------+----------------+------------+---------------------------------------------------------+-----------+
-    | LMA Flexible      | Teleflex       | 1          | Flexibler Tubus                                         |           |
-    +-------------------+----------------+------------+---------------------------------------------------------+-----------+ 
-    | Ambu AuraGain     | Ambu           | 2          | Magenzugang                                             |           |
-    +-------------------+----------------+------------+---------------------------------------------------------+-----------+
-    | Ambu AruaOnce     | Ambu           | 1          |                                                         |           |
-    +-------------------+----------------+------------+---------------------------------------------------------+-----------+ 
-    | Ambu AuraFlex     | Ambu           | 1          | Flexibler Tubus                                         |           |
-    +-------------------+----------------+------------+---------------------------------------------------------+-----------+
-    | Ambu Aura40       | Ambu           | 1          | Mehrweg                                                 |           |
-    +-------------------+----------------+------------+---------------------------------------------------------+-----------+
-    | Ambu Aura-i       | Ambu           | 1          | Intubationslarynxmaske                                  |           |
-    +-------------------+----------------+------------+---------------------------------------------------------+-----------+
 
 
+.. list-table:: Marktübersicht Larynxmasken
+    :widths: 10 20 5 60 5
+    :header-rows: 1
 
+    *   -   Hersteller
+        -   Modell
+        -   Generation
+        -   Besonderheiten
+        -   Preis ca.
+    *   -   Teleflex
+        -   LMA Classic
+        -   1
+        -   Mehrweg
+        -
+    *   -   Teleflex
+        -   LMA Unique
+        -   1
+        -
+        -   8,00
+    *   -   Teleflex
+        -   LMA ProSeal
+        -   1–2
+        -   \ 2. Lumen für Regurgitations-Abfluß
+        -
+    *   -   Teleflex
+        -   LMA Supreme
+        -   2
+        -   \ 2. Lumen für Magensonde, Cuff 90gebogen
+        -   18,00
+    *   -   Teleflex
+        -   LMA Fasttrach
+        -   1
+        -   Intubationslarynxmaske, ein- und Mehrweg verfügbar
+        -
+    *   -   Teleflex
+        -   LMA Flexible
+        -   1
+        -   Flexibler Tubus
+        -
+    *   -   Ambu
+        -   Ambu AuraGain
+        -   2
+        -   Magenzugang
+        -
+    *   -   Ambu
+        -   AuraOnce
+        -   1
+        -
+        -
+    *   -   Ambu
+        -   AuraFlex
+        -   1
+        -   Flexibler Tubus
+        -
+    *   -   Ambu
+        -   Aura 40
+        -   1
+        -   Mehrweg
+        -
+    *   -   Ambu
+        -   Aura-i
+        -   1
+        -   Intubationslarynxmaske
+        -

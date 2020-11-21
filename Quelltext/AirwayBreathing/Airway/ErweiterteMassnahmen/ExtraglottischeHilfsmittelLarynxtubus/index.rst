@@ -38,24 +38,24 @@ Da ober- und unterhalb der Abzweigung zur Luftröhre abgedichtet ist,
 kann die Luft über den Kehlkopf und den Kehldeckel in die Luftröhre
 strömen und die Gefahr der Aspiration von Mageninhalt kann deutlich
 reduziert werden. Es sind verschiedene Größen je nach Körperlänge
-erhältlich. (Asai and Shingu 2005)
+erhältlich. [Asai:2005]_
 Im direkten Vergleich mit der Beatmung mittels
 Beatmungsmaske sind bei einer korrekten Anwendung des Larynxtubus
 folgende Vorteile gegeben:
 
--  Durch den geblockten Cuff im Ösophagus soll das Überblähen des
-   Magens sowie die Aspiration von Mageninhalt verhindert werden.
+-   Durch den geblockten Cuff im Ösophagus soll das Überblähen des
+    Magens sowie die Aspiration von Mageninhalt verhindert werden.
 
--  Bei Verwendung einer Magensonde kann der Magen zusätzlich entlastet
-   und der Mageninhalt, zumindest teilweise, kontrolliert abgeleitet
-   werden.
+-   Bei Verwendung einer Magensonde kann der Magen zusätzlich entlastet
+    und der Mageninhalt, zumindest teilweise, kontrolliert abgeleitet
+    werden.
 
--  Die Anwendung erfordert keine höhere manuelle Geschicklichkeit als
-   die Anwendung der Beatmungsmaske und -beutel.
+-   Die Anwendung erfordert keine höhere manuelle Geschicklichkeit als
+    die Anwendung der Beatmungsmaske und -beutel.
 
--  Zusätzliche Hilfsmittel zur Anwendung sind in der Regel nicht
-   erforderlich, wodurch die Gefahr von Verletzungen durch solche
-   reduziert ist.
+-   Zusätzliche Hilfsmittel zur Anwendung sind in der Regel nicht
+    erforderlich, wodurch die Gefahr von Verletzungen durch solche
+    reduziert ist.
 
 Der Larynxtubus ist während der Reanimation eine geeignete Alternative
 zur Maskenbeatmung und zur endotrachealen Intubation und kann auch durch
@@ -64,23 +64,23 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
 
 
 .. [129]
-   Airwaymanagement / Larynxtubus / Stellungsnahme: Gemäß einer
-   Stellungsnahme des BM für Gesundheit ist eine Anwendung des
-   Larynxtubus für Angehörige der nichtärztlichen Gesundheitsberufe im
-   Rahmen der lebensrettenden Sofortmaßnahmen möglich, bedarf aber
-   spezieller Maßnahmen im Rahmen der Aus-, Fort- und Weiterbildung.
-   Vgl. Schreiben vom 10.12.2010, Geschäftszahl
-   BMG-92250/0080-II/A/2010)
+    Airwaymanagement / Larynxtubus / Stellungsnahme: Gemäß einer
+    Stellungsnahme des BM für Gesundheit ist eine Anwendung des
+    Larynxtubus für Angehörige der nichtärztlichen Gesundheitsberufe im
+    Rahmen der lebensrettenden Sofortmaßnahmen möglich, bedarf aber
+    spezieller Maßnahmen im Rahmen der Aus-, Fort- und Weiterbildung.
+    Vgl. Schreiben vom 10.12.2010, Geschäftszahl
+    BMG-92250/0080-II/A/2010)
 
 .. subfigstart::
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32890_textwidth.*
-            :width: 99.99%
+            :width: 100%
 
             Larynxtubus mit Blockerspritze
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32885_textwidth.*
-            :width: 99.99%
+            :width: 100%
 
             Ein Larynxtubus der ersten Generation mit geblocktem
             Cuff.
@@ -88,7 +88,7 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtuben_Set_33025_textwidth.*
-      :width: 99.99%
+      :width: 100%
 
       Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung.
 
@@ -126,25 +126,17 @@ Intubation mittels Larynxtubus
 Material
 ^^^^^^^^^
 
-#. Beatmungsbeutel mit Maske, O₂-Line und Reservoir
-
-#. Absaugung
-
-#. Fixierung
-
-#. Passender Larynxtubus mit Blockerspritze. Es sollen unbedingt, wenn
-   verfügbar, nur Modelle mit einem Magendrainagekanal eingesetzt
-   werden!
-
-#. Stethoskop
-
-#. Gleitmittel
-
-#. Ggfs. Bakterienfilter mit *Gänsegurgel*
-
-#. Ggfs. Magensonde mit Drainagebeutel
-
-#. Kapnometrie empfohlen
+#.  Beatmungsbeutel mit Maske, O₂-Line und Reservoir
+#.  Absaugung
+#.  Fixierung
+#.  Passender Larynxtubus mit Blockerspritze. Es sollen unbedingt, wenn
+    verfügbar, nur Modelle mit einem Magendrainagekanal eingesetzt
+    werden!
+#.  Stethoskop
+#.  Gleitmittel
+#.  Ggfs. Bakterienfilter mit *Gänsegurgel*
+#.  Ggfs. Magensonde mit Drainagebeutel
+#.  Kapnometrie empfohlen
 
 Durchführung
 ^^^^^^^^^^^^
@@ -164,100 +156,100 @@ Beutel-Masken-Beatmung oxygeniert werden.
 Der im folgenden dargestellte Ablauf beschreibt allgemein die
 Durchführung der Intubation mit dem Larynxtubus.
 
-#. *Lagerung*: Rückenlage, Kopf in *Schnüffelstellung* (Jackson
-   Position, Kopf leicht erhöht (umgedrehte Nierentasse), nicht
-   überstreckt, nicht gebeugt)
+#.  *Lagerung*: Rückenlage, Kopf in *Schnüffelstellung* (Jackson
+    Position, Kopf leicht erhöht (umgedrehte Nierentasse), nicht
+    überstreckt, nicht gebeugt)
 
-#. Mund öffnen mit “Kreuzgriff” (Daumen und Zeigefinger der linken
-   Hand, der Daumen am Unterkiefer, der Zeigefinger am Oberkiefer (bzw.
-   Zähne) öffnen den Mund. Achtung bei kariösen oder wackeligen Zähnen!)
+#.  Mund öffnen mit “Kreuzgriff” (Daumen und Zeigefinger der linken
+    Hand, der Daumen am Unterkiefer, der Zeigefinger am Oberkiefer (bzw.
+    Zähne) öffnen den Mund. Achtung bei kariösen oder wackeligen Zähnen!)
 
-#. *Einführen*: LT mit der Spitze entlang des harten Gaumens einführen,
-   evt. Unterkiefer anheben
+#.  *Einführen*: LT mit der Spitze entlang des harten Gaumens einführen,
+    evt. Unterkiefer anheben
 
-#. Zahnreihe innerhalb der Markierungen
+#.  Zahnreihe innerhalb der Markierungen
 
-#. *Cuffen*, Volumen nach Farbcodierung
+#.  *Cuffen*, Volumen nach Farbcodierung
 
-#. Manuelles *Fixieren*
+#.  Manuelles *Fixieren*
 
-#. *Beatmen*
+#.  *Beatmen*
 
-#. *Erfolgskontrolle*: sehen, hören, CO₂-Messung, SpO₂ steigt,
-   gleichbleibend
+#.  *Erfolgskontrolle*: sehen, hören, CO₂-Messung, SpO₂ steigt,
+    gleichbleibend
 
-   #. Sehen: Deutliche Thoraxexkursionen sichtbar
+    #.  Sehen: Deutliche Thoraxexkursionen sichtbar
 
-   #. Hören: Auskultation
+    #.  Hören: Auskultation
 
-      -  Keine Undichtigkeiten hörbar
+        -   Keine Undichtigkeiten hörbar
 
-      -  Nur für Geübte: Auskultation:
+        -   Nur für Geübte: Auskultation:
 
-         -  Kein Geräusch über dem Magen
+            -   Kein Geräusch über dem Magen
 
-         -  Atemgeräusche seitengleich über beiden Lungenflügeln
+            -   Atemgeräusche seitengleich über beiden Lungenflügeln
 
-         -  Achtung: Nicht-seitengleiches Atemgeräusch beim Beatmen über
-            den LT bedeutet: Verlegung eines Hauptbronchus (Fremdkörper)
-            oder Pneumothorax, es ist jedoch *kein* Hinweis für einen zu
-            tief oder falsch liegenden Tubus (im Gegensatz zur
-            endotrachealen Intubation)!
+            -   Achtung: Nicht-seitengleiches Atemgeräusch beim Beatmen über
+                den LT bedeutet: Verlegung eines Hauptbronchus (Fremdkörper)
+                oder Pneumothorax, es ist jedoch *kein* Hinweis für einen zu
+                tief oder falsch liegenden Tubus (im Gegensatz zur
+                endotrachealen Intubation)!
 
-   #. CO₂-Messung: Kapnometrie zeigt Messwert an, Kapnographie zeigt
-      eine CO₂-Exspirationskurve, oder das EasyCap II verfärbt sich.
+    #.  CO₂-Messung: Kapnometrie zeigt Messwert an, Kapnographie zeigt
+        eine CO₂-Exspirationskurve, oder das EasyCap II verfärbt sich.
 
-#. Wenn Beatmung möglich und Lagekontrolle positiv: *Fixierung*
+#.  Wenn Beatmung möglich und Lagekontrolle positiv: *Fixierung*
 
-#. Bakterienfilter und Tubusverlängerung anbringen
+#.  Bakterienfilter und Tubusverlängerung anbringen
 
-#. Vorsichtiges Einführen einer *Magensonde* und Entlasten des Magens
-   (Magensonde erst einführen, wenn der Patient verlässlich beatmet ist
-   und der LT fixiert ist (kein Muss!)
+#.  Vorsichtiges Einführen einer *Magensonde* und Entlasten des Magens
+    (Magensonde erst einführen, wenn der Patient verlässlich beatmet ist
+    und der LT fixiert ist (kein Muss!)
 
-#. Maximal 2 Versuche, max. 30 s pro Versuch
+#.  Maximal 2 Versuche, max. 30 s pro Versuch
 
-#. Absaugung von Sekret aus LT: Sekret aus dem LT darf abgesaugt werden.
-   Vorher die Absaugtiefe mit dem Abstand Mundwinkel-Ohrläppchen
-   bestimmen
+#.  Absaugung von Sekret aus LT: Sekret aus dem LT darf abgesaugt werden.
+    Vorher die Absaugtiefe mit dem Abstand Mundwinkel-Ohrläppchen
+    bestimmen
 
-    -  Larynxtubus: Nur durch die Überprüfung aller geforderten
-       Kontrollpunkte kann eine Fehllage hinreichend (aber nicht
-       komplett!) ausgeschlossen werden.
+    -   Larynxtubus: Nur durch die Überprüfung aller geforderten
+        Kontrollpunkte kann eine Fehllage hinreichend (aber nicht
+        komplett!) ausgeschlossen werden.
 
-    -  Die Möglichkeit einer Tubusfehllage muss immer bedacht werden!
+    -   Die Möglichkeit einer Tubusfehllage muss immer bedacht werden!
 
 
 .. _Figure-AlgorithmusLarynxtubusReanimation:
 
 .. figure:: /Bilder/EmhoferJosef-Ccc/Larynxtubus-2015-1.*
-   :alt: Algorithmus: Larynxtubus im Rahmen der Reanimation
-   :width: 99.99%
+    :alt: Algorithmus: Larynxtubus im Rahmen der Reanimation
+    :width: 100%
 
-   Algorithmus: Larynxtubus im Rahmen der Reanimation
+    Algorithmus: Larynxtubus im Rahmen der Reanimation
 
 
 
 Tipps, Tricks, Troubleshooting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  Beim Einführen des Larynxtubus auf die Zähne achten, diese können den
-   Cuff beschädigen
+-   Beim Einführen des Larynxtubus auf die Zähne achten,
+    diese können den Cuff beschädigen
 
--  Durch Hochziehen des Unterkiefers wird der Zungengrund angehoben, das
-   kann Einführen des Larynxtubus erleichtern
+-   Durch Hochziehen des Unterkiefers wird der Zungengrund angehoben,
+    das kann Einführen des Larynxtubus erleichtern
 
--  Eventuell die Zunge mit den Fingern der linken Hand etwas zur Seite
-   schieben, um das Einführen zu erleichtern
+-   Eventuell die Zunge mit den Fingern der linken Hand etwas zur Seite
+    schieben, um das Einführen zu erleichtern
 
--  Möglicherweise Neupositionieren des Kopfes während des Einführens
+-   Möglicherweise Neupositionieren des Kopfes während des Einführens
 
 Komplikationen
 ^^^^^^^^^^^^^^
 
-
 Grundsätzlich ist der Larynxtubus vergleichsweise sicher in der
-Anwendung. Komplikationen umfassen eine Undichtigkeit (Leakage),
+Anwendung.
+Komplikationen umfassen eine Undichtigkeit (Leakage),
 Schädigung der Rachenschleimhaut, evtl. mit Blutung, und eine Überblähung
 des Magens und eine Ruptur der Speiseröhre. Der Larynxtubus bietet zwar
 einen guten Aspirationsschutz, dieser ist jedoch nicht komplett
@@ -267,7 +259,7 @@ zuverlässig.
 .. _Combitubus:
 
 .. index::
-      single: Combitubus
+    single: Combitubus
 
 Combitubus
 ------------

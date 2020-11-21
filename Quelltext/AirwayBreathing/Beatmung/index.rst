@@ -385,7 +385,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 .. subfigstart::
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32851-00441pt.*
-            :width: 99.9%
+            :width: 100%
 
             Beatmungsgerät *Medumat™ compact* auf einer
             Tragplatte. Zusätzlich angebracht sind eine
@@ -395,7 +395,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.*
-            :width: 99.9%
+            :width: 100%
 
             Bedienfelder Berieselungseinheit *Modul Oxygen* und
             Notfallbeatmungsgerät *Medumat™ Standard*
@@ -413,7 +413,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.*
-            :width: 99.9%
+            :width: 100%
 
             Medumat Transport. Dies ist ein
             Intensiv-Transportbeatmungsgerät, welches eine komplexe

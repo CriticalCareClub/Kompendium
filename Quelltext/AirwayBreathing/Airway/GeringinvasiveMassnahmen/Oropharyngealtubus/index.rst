@@ -3,11 +3,11 @@
     single: Guedel-Tubus
 
 .. _Thema-Guedeltubus:
+.. _Guedel-Tubus:
 
 ########################################################################
 Oropharyngealtubus (Guedel-Tubus)
 ########################################################################
-
 
 Der :dfn:`Guedel-Tubus` ist ein bogenförmiges, abgeflachtes Plastikrohr,
 welches zum Offenhalten der Atemwege bei tief bewusstlosen Patienten
@@ -30,15 +30,15 @@ Lage des Guedel-Tubus.
 .. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus1.*
 
             Abmessen,
-            
+
 .. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus2.*
 
             zuerst wird der Guedel-Tubus “verkehrt” herum eingeführt
-            
+
 .. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus3.*
 
             und anschließend mittels Drehbewegung endgültig positioniert.
-   
+
 .. subfigend::
     :width: 0.3
     :label: sagaegaegbdfghdsfhg

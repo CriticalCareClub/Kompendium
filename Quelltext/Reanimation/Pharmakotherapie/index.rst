@@ -65,7 +65,7 @@ Endotrachealtubus (*ET*) zu geben, dies wird nicht mehr empfohlen.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/EKG-Reanimation-VtBewegungsartefakt-00441pt.*
     :alt: Base Mesh + 128x128 Texture (334 KB)
-    :width: 99%
+    :width: 100%
 
     Monitor-Bild während einer Reanimation im AED-Modus:
     Ventrikuläre Tachykardie und Bewegungsartefakte durch die
@@ -75,7 +75,7 @@ Endotrachealtubus (*ET*) zu geben, dies wird nicht mehr empfohlen.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Medikamente-LAdrenalin-Sammlung-Live-00441pt.*
     :alt: Base Mesh + 25% Stream + 256x256 Texture (568 KB)
-    :width: 99%
+    :width: 100%
 
     Während einer Reanimation kann viel Adrenalin verbraucht
     werden.

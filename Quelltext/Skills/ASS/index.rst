@@ -259,28 +259,28 @@ Vorgehen
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-kontrolle_4807-00800.*
-    :width: 99%
+    :width: 100%
 
     Kontrolle
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-aufziehen_4815-00800.*
-    :width: 99%
+    :width: 100%
 
     Aufziehen mit Kanüle
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-kontrollieren_4824-00800.*
-    :width: 99%
+    :width: 100%
 
     Übergabe
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-verabreichen_4826_CLOSEUP-00800.*
-    :width: 99%
+    :width: 100%
 
     Verabreichung über Venflon durch befugtes Personal
 
@@ -357,14 +357,14 @@ Vorgehen
 .. subfigstart::
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Infusionsbesteck_33070-00943pt.*
-    :width: 99%
+    :width: 100%
 
     Infusionsbesteck
 
     *Christoph Pallinger*
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Infusionsbeutel_33016-00943pt.*
-    :width: 99%
+    :width: 100%
 
     Beispiele für Infusionsbeutel und
     -flaschen
@@ -381,27 +381,27 @@ Vorgehen
 .. subfigstart::
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Tropfkammer-Live-00441pt.*
-    :width: 99%
+    :width: 100%
 
     Der Dorn des Infusionsbestecks mit der
     Tropfkammer wird an der Infusionsflasche oder -beutel befestigt, die
     Tropfkammer ca. bis zur Hälfte gefüllt.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Stellrad-Live-00441pt.*
-    :width: 99%
+    :width: 100%
 
     Mit der Radklemme wird
     die Inf eschwindigkeit reguliert.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-3WegHahn-Live-00441pt.*
-    :width: 99%
+    :width: 100%
 
     Mittels eines
     3-Weg-Hahns können weitere Infusionen angeschlossen
     werden.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-AnschlussVenflon-Live-00441pt.*
-    :width: 99%
+    :width: 100%
 
     Schlussendlich wird die Infusion an einem Zugang zum
     Patienten angeschlossen, hier an einer peripheren Venenverweilkanüle.

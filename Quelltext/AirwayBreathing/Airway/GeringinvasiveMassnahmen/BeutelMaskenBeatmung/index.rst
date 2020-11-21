@@ -1,4 +1,5 @@
 .. _Thema-BeutelMaskenBeatmung:
+.. _BeutelMaskenBeatmung:
 
 ########################################################################
 Beutel-Masken-Beatmung
@@ -71,14 +72,14 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 .. subfigstart::
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Beatmungsmaske_32906_v2-AASS-0112mm.jpg
-            :width: 99.9%
+            :width: 100%
 
             Eine *Beatmungs*\ maske.
 
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Mundstuecke_32723_v2-AASS-0112mm.jpg
-            :width: 99.9%
+            :width: 100%
 
             Beatmungsmasken unterschiedlicher Größen: 0, 2,
             3/4, 5. Die Farben der Masken haben keine besondere
@@ -115,7 +116,7 @@ Technik der Beutel-Masken-Beatmung
 
     -  C-Griff
 
-    -  ca. *500 ml* über 1sec
+    -  ca. *500 ml* über 1 s
 
     -  Eigenfrequenz!
 
@@ -143,18 +144,18 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
 .. subfigstart::
 
 .. figure:: /Bilder/HirtlerLena-Ccc/CGriff.*
-            :width: 99.9%
+            :width: 100%
 
             C-Griff
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
-            :width: 99.9%
+            :width: 100%
 
             und überstreckter Kopf
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.*
-            :width: 99.9%
+            :width: 100%
 
             Normalerweise wird bei der Überdruckbeatmung mit einem
             Beatmungsbeutel Luft in die Lunge gepumpt. Übersteigt der

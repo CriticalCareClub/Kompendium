@@ -29,39 +29,39 @@ Material und Personal
 Material
 ========
 
-#. Beatmungsbeutel inkl. passender Beatmungsmaske, Bakterienfilter und
-   Sauerstoffreservoir
-#. O₂-Berieselungseinheit und O₂-Line
-#. Evtl. Beatmungsgerät
-#. Absaugeinheit:
+#.  Beatmungsbeutel inkl. passender Beatmungsmaske, Bakterienfilter und
+    Sauerstoffreservoir
+#.  O₂-Berieselungseinheit und O₂-Line
+#.  Evtl. Beatmungsgerät
+#.  Absaugeinheit:
 
-   **Keine Intubation ohne Absaugung!**
+    **Keine Intubation ohne Absaugung!**
 
-#. Laryngoskop, bestehend aus:
+#.  Laryngoskop, bestehend aus:
 
-   #. Spatel: gebogen oder gerade; Größen 0—4
-   #. Handgriff mit Batterien
+    #.  Spatel: gebogen oder gerade; Größen 0—4
+    #.  Handgriff mit Batterien
 
-      Es gibt Warm- und Kaltlichtlaryngoskope.
-      Bei Warmlichtlarynkoskopen befindet sich die Lichtquelle am
-      Spatel,
-      bei Kaltlichtlaryngoskopen im Handgriff,
-      das Licht wird über eine Fiberoptik in den Spatel geleitet.
-      Daher muss darauf geachtet werden, dass die Spatel mit dem Griff
-      zusammenpassen!
-      Bei Kaltlichtsystemen gibt es ausserdem unterschiedliche
-      Steckverbindungen!
+        Es gibt Warm- und Kaltlichtlaryngoskope.
+        Bei Warmlichtlarynkoskopen befindet sich die Lichtquelle am
+        Spatel,
+        bei Kaltlichtlaryngoskopen im Handgriff,
+        das Licht wird über eine Fiberoptik in den Spatel geleitet.
+        Daher muss darauf geachtet werden, dass die Spatel mit dem Griff
+        zusammenpassen!
+        Bei Kaltlichtsystemen gibt es ausserdem unterschiedliche
+        Steckverbindungen!
 
-      .. figure:: /Bilder/PallingerChristoph-Ccc/Testlunge_32902-AASS-0112mm.*
+        .. figure:: /Bilder/PallingerChristoph-Ccc/Testlunge_32902-AASS-0112mm.*
 
-#. (Endotracheal-)Tubus; verschiedene Größen
-#. Führungsdraht (*Mandrin*)
-#. Silikonspray
-#. Evtl. Magillzange
-#. Mit Luft gefüllte Spritze zum Cuffen (je nach Tubus, i. d. R. 10 ml)
-#. Stethoskop
-#. Beißschutz: Beißkeil oder Guedel-Tubus
-#. Fixationsmaterial (breite Heftpflaster, Mullbinde)
+#.  (Endotracheal-)Tubus; verschiedene Größen
+#.  Führungsdraht (*Mandrin*)
+#.  Silikonspray
+#.  Evtl. Magillzange
+#.  Mit Luft gefüllte Spritze zum Cuffen (je nach Tubus, i. d. R. 10 ml)
+#.  Stethoskop
+#.  Beißschutz: Beißkeil oder Guedel-Tubus
+#.  Fixationsmaterial (breite Heftpflaster, Mullbinde)
 
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Intubation_32939.*
@@ -234,84 +234,84 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 .. _Figure-BilderserieIntubation-1:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4829-AASS-0112mm.*
-    :width: 99.99%
+    :width: 100%
 
     Zusammenbauen des Laryngoskops
 
 .. _Figure-BilderserieIntubation-2:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4831-AASS-0112mm.*
-    :width: 99.99%
+    :width: 100%
 
     Einsprühen des Tubus *in der Verpackung*
 
 .. _Figure-BilderserieIntubation-3:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4834-AASS-0112mm.*
-    :width: 99.99%
+    :width: 100%
 
     Präoxygenierung
 
 .. _Figure-BilderserieIntubation-4:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0112mm.*
-    :width: 99.99%
+    :width: 100%
 
     Zureichen des Laryngoskops (*linke* Hand!)
 
 .. _Figure-BilderserieIntubation-5:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4837-AASS-0112mm.*
-    :width: 99.99%
+    :width: 100%
 
     Zureichen des Tubus (*rechte* Hand!)
 
 .. _Figure-BilderserieIntubation-6:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4839-AASS-0112mm.*
-    :width: 99.99%
+    :width: 100%
 
     Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus
 
 .. _Figure-BilderserieIntubation-7:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4841-AASS-0112mm.*
-    :width: 99.99%
+    :width: 100%
 
     Cuffen nach Entfernung des Führungsdrahtes
 
 .. _Figure-BilderserieIntubation-8:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4843-AASS-0112mm.*
-    :width: 99.99%
+    :width: 100%
 
     Stethoskop zureichen
 
 .. _Figure-BilderserieIntubation-9:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4844-AASS-0112mm.*
-    :width: 99.99%
+    :width: 100%
 
     Abhören des Patienten
 
 .. _Figure-BilderserieIntubation-10:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4847-AASS-0112mm.*
-    :width: 99.99%
+    :width: 100%
 
     Beißkeil (hier: Guedel-Tubus) einführen
 
 .. _Figure-BilderserieIntubation-11:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4849-AASS-0112mm.*
-    :width: 99.99%
+    :width: 100%
 
     Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!
 
 .. _Figure-BilderserieIntubation-12:
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00441pt-4.*
-     :width: 99.99%
+     :width: 100%
 
      Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in
      der Luftröhre zu bestätigen.
@@ -330,11 +330,20 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 [InjektionenLeichtGemacht:4]_
 
 
+.. index::
+    single: Airtraq™
+    single: Videolaryngoskop; Airtraq™
 
-AirTraq
-=======
+Airtraq™
+========
 
-Das optische Airtraq™ -Laryngoskop (Prodol
-Meditec, Vizcaya, Spanien) kann,
-verglichen mit der direkten Laryngoskopie,
-bei Patienten mit schwierigem Atemweg vorteilhaft sein.
+Der Airtraq™
+(Prodol Meditec, Vizcaya, Spanien) ist ein fiberoptisches Gerät mit Okularoptik,
+welches für die indirekte endotracheale Intubation in schwierigen Atemwegsituationen verwendet werden kann.
+Der Spatel ist anatomisch geformt und verfügt über eine batteriebetriebene Lichtquelle an der Spitze. Ferner enthält er eine seitliche Schiene für die Platzierung und das geführte Einführen eines Endotrachealtubus.
+
+Der Airtraq™ ist gegenüber der herkömmlichen direkten Laryngoskopie in Situationen vorteilhaft,
+in denen die Halswirbelsäule immobilisiert werden muss,
+da ein Blick auf die Glottisöffnung ohne signifikante Manipulation der Halswirbelsäule möglich ist
+und er daher eine Intubation mit minimaler Manipulation und Positionierung des Kopfes bzw. der Halswirbelsäule ermöglicht.
+Er setzt jedoch eine grundsätzlich regelhafte Anatomie voraus, da durch die vorgeformte Schiene kaum Spielraum beim Einführen des Tubus besteht.

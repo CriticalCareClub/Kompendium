@@ -6,7 +6,7 @@ Airway: Grundlagen
 .. toctree::
    :maxdepth: 3
 
-.. only:: html
+.. only:: not latex
 
     .. contents::
 
@@ -32,9 +32,9 @@ Grundsätzlich kann man unterscheiden in:
 #.  Gering-invasive Maßnahmen
 
     -   Absaugung
-    -   :ref:`Oropharyngealtubus (Guedel-Tubus) <Thema-Guedeltubus>`
-    -   Nasopharyngealtubus (Wendel-Tubus)
-    -   Beutel-Masken-Beatmung
+    -   :ref:`Oropharyngealtubus (Guedel-Tubus) <Guedel-Tubus>`
+    -   :ref:`Nasopharyngealtubus (Wendl-Tubus) <Wendl-Tubus>`
+    -   :ref:`Beutel-Masken-Beatmung <BeutelMaskenBeatmung>`
 
 #.  Erweiterte Maßnahmen
 

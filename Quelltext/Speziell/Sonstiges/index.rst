@@ -10,4 +10,3 @@ Sonstiges (#69)
     :maxdepth: 1
 
     ThoraxchirurgischeStoerungen/index.rst
-    Sepsis/index.rst

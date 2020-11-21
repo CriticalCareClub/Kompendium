@@ -230,16 +230,16 @@
         Die Verbreitung ist nicht gestattet.
         Alle Rechte vorbehalten.
 
-    .. rubric:: Versionsverwaltung (Git)
+        .. rubric:: Versionsverwaltung (Git)
 
-    .. git_changelog::
-        :revisions: 1
+        .. git_changelog::
+            :revisions: 1
 
-    .. git_commit_detail::
-        :branch:
-        :commit:
-        :uncommitted:
-        :untracked:
+        .. git_commit_detail::
+            :branch:
+            :commit:
+            :uncommitted:
+            :untracked:
 
 
 

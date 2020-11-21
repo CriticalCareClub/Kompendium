@@ -96,21 +96,25 @@ Wichtige Begriffe
 Die wichtigsten Erreger
 =======================
 
-[]Übersicht der Erregerarten
 
-+----------------------+-----------------------------------------------------------------------------------------------+
-| **Erreger**          | **Kurzbeschreibung**                                                                          |
-+----------------------+-----------------------------------------------------------------------------------------------+
-| *Bakterien*          | klein, im Mikroskop meist sichtbar; Normale Zellen                                            |
-+----------------------+-----------------------------------------------------------------------------------------------+
-| *Viren*              | sehr klein, im Mikroskop i.d.R. nicht sichtbar, keine echten Zellen, müssen Zellen befallen   |
-+----------------------+-----------------------------------------------------------------------------------------------+
-| *Pilze*              |                                                                                               |
-+----------------------+-----------------------------------------------------------------------------------------------+
-| *Parasiten, Tiere*   | Würmer, Maden, …                                                                              |
-+----------------------+-----------------------------------------------------------------------------------------------+
-| *(Toxine)*           | Giftstoffe, werden z. B. von Bakterien produziert.                                             |
-+----------------------+-----------------------------------------------------------------------------------------------+
+.. list-table:: Übersicht der Erregerarten
+
+    *   -   **Erreger**
+        -   **Kurzbeschreibung**
+    *   -   *Bakterien*
+        -   klein, im Mikroskop meist sichtbar;
+            Normale Zellen
+    *   -   *Viren*
+        -   sehr klein,
+            im Mikroskop i.d.R. nicht sichtbar,
+            keine echten Zellen, müssen Zellen befallen
+    *   -   *Pilze*
+        -
+    *   -   *Parasiten, Tiere*
+        -   Würmer, Maden, …
+    *   -   *(Toxine)*
+        -   Giftstoffe,
+            werden z. B. von Bakterien produziert
 
 Bakterien sind Zellen
 ---------------------

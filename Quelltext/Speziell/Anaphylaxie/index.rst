@@ -250,7 +250,8 @@ Erniedrigung der Gefäßpermeabilität,
 Bronchodilatation
 und positive Inotropie am Herzen
 alle wichtigen Pathomechanismen der Anaphylaxie.
-Die Intramuskuläre Gabe ist die medikamentöse Therapie der ersten Wahl.[#ImGabe]_
+Die Intramuskuläre Gabe ist die medikamentöse Therapie der ersten Wahl.
+[#ImGabe]_
 
 .. [#ImGabe]
     Gegenüber der intravenösen Applikation ist das Risiko schwerer kardialer Nebenwirkungen erheblich geringer.

@@ -28,46 +28,46 @@ Das rasche Feststellen einer vitalen Bedrohung ist besonders wichtig.
 Die vitale Bedrohung kann sich aus drei wesentlichen Säulen ergeben:
 
 
--  Massive :dfn:`3ABC-Störung`: Massive
-   Störungen von Vitalfunktionen 1. Ordnung
-   (Bewußtsein ``3``,
-   Atemweg ``A``,
-   Atmung ``B``,
-   Kreislauf ``C``)
+-   Massive :dfn:`3ABC-Störung`: Massive
+    Störungen von Vitalfunktionen 1. Ordnung
+    (Bewußtsein ``3``,
+    Atemweg ``A``,
+    Atmung ``B``,
+    Kreislauf ``C``)
 
--  :dfn:`Alarmsymptome`:
-   Zu den Alarmsymptomen gehören u.a.
-   Atemnot, die sich nicht bessert,
-   brodelndes Atemgeräusch,
-   Thoraxschmerz,
-   Schocksymptome,
-   entgleiste Vitalwerte,
-   schwere Verletzungen,
-   Hirndruckzeichen
-   etc.
+-   :dfn:`Alarmsymptome`:
+    Zu den Alarmsymptomen gehören u.a.
+    Atemnot, die sich nicht bessert,
+    brodelndes Atemgeräusch,
+    Thoraxschmerz,
+    Schocksymptome,
+    entgleiste Vitalwerte,
+    schwere Verletzungen,
+    Hirndruckzeichen
+    etc.
 
--  :dfn:`Alarmdiagnosen`: Manche Diagnosen sind automatisch
-   mit einer vitalen Bedrohung gleichzusetzen,
-   auch wenn eventuell
-   Symptome fehlen oder nur schwach ausgeprägt sind.
-   Dazu gehören
-   beispielsweise der Herzinfarkt,
-   das kardiale oder toxische
-   Lungenödem,
-   der Status epilepticus,
-   eine Beckenfraktur
-   usw.
+-   :dfn:`Alarmdiagnosen`: Manche Diagnosen sind automatisch
+    mit einer vitalen Bedrohung gleichzusetzen,
+    auch wenn eventuell
+    Symptome fehlen oder nur schwach ausgeprägt sind.
+    Dazu gehören
+    beispielsweise der Herzinfarkt,
+    das kardiale oder toxische
+    Lungenödem,
+    der Status epilepticus,
+    eine Beckenfraktur
+    usw.
 
 Während des weiteren Behandlungsverlaufs kann man auf weitere Befunde
 oder Fakten stoßen,
 welche auf eine vitale Bedrohung hinweisen.
 
--  Sobald eine vitale Bedrohung erkannt wird,
+-   Sobald eine vitale Bedrohung erkannt wird,
     müssen die
-   Standardmaßnahmen bei vital bedrohten Patienten *frühzeitig*
-   ergriffen werden
-   (evtl. sogar noch vor Abschluss des
-   Einschätzungsblockes)!
+    Standardmaßnahmen bei vital bedrohten Patienten *frühzeitig*
+    ergriffen werden
+    (evtl. sogar noch vor Abschluss des
+    Einschätzungsblockes)!
 
 
 
@@ -88,17 +88,17 @@ durchgeführt wurden,
 wird der Block fortgesetzt.
 Typische Sofortmaßnahmen sind z. B.
 
--  Maßnahmen des Selbst- oder Fremdschutzes (Retten aus dem
-   Gefahrenbereich, GAS-Maßnahmen, …),
+-   Maßnahmen des Selbst- oder Fremdschutzes (Retten aus dem
+    Gefahrenbereich, GAS-Maßnahmen, …),
 
--  Einschätzung der Indikation zur Wirbelsäulenimmobilisation
+-   Einschätzung der Indikation zur Wirbelsäulenimmobilisation
 
--  eine situationsgerechte Lagerung,
+-   eine situationsgerechte Lagerung,
 
--  die *Standardmaßnahmen bei vital bedrohten Patienten* oder auch die
+-   die *Standardmaßnahmen bei vital bedrohten Patienten* oder auch die
 
--  Vorgezogene Transportentscheidung bei absolut zeitkritischen
-   Patienten.
+-   Vorgezogene Transportentscheidung bei absolut zeitkritischen
+    Patienten.
 
 
 .. _Thema-SonderfallAbsolutZeitkritischePatienten:

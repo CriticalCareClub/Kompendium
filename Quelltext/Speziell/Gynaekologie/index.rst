@@ -478,10 +478,10 @@ Nachgeburtsphase
     Presswehen ähnlich sind. Es kommt zur Geburt der *Plazenta*
     (*Mutterkuchen*). Die Gefahr hierbei ist, dass es zu starkem Blutverlust
     bei der Mutter kommen kann. *Die Plazenta ist für weitere
-    Untersuchungen ins Krankenhaus mitzunehmen!* [276]_
+    Untersuchungen ins Krankenhaus mitzunehmen!* [#KontrollePlazenta]_
 
-.. [276]
-   Kontrolle der Vollständigkeit, Prüfen auf Insuffizienzzeichen, …
+.. [#KontrollePlazenta]
+    Kontrolle der Vollständigkeit, Prüfen auf Insuffizienzzeichen, …
 
 .. admonition:: Weblink
 
@@ -637,7 +637,7 @@ Maßnahmen: Versorgung des Neugeborenen
         5 initiale Beatmungen
     -   Kreislauf: HF messen (durch Auskultation
         an der Herzspitze (nur geübtes Personal) oder an
-        *Oberarmarterie*)[#NeugeborenesPulsmessstelle]_. Wenn ein *geeignetes
+        *Oberarmarterie*) [#NeugeborenesPulsmessstelle]_. Wenn ein *geeignetes
         Pulsoxymeter* vorhanden ist, kann auch dieses verwendet werden.
 
 .. [#NeugeborenesPulsmessstelle]

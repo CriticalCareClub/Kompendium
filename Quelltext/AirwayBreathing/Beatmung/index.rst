@@ -351,8 +351,6 @@ Notfallbeatmungsgeräte
 .. index::
     single: Medumat™; Standard
     single: Berieselungsmodul
-    single:
-    single:
 
 
 Beispiel: Medumat™ Standard

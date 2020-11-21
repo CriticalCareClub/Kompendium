@@ -32,15 +32,16 @@ oder Dokumentationen anderer Gesundheitseinrichtungen
 .. rubric:: SAMPLER
 .. Ausnahmweise als Beispiel eine Sidebar
 
-.. sidebar:: SAMPLER
+..
+    .. sidebar:: SAMPLER
 
--  ``S`` ymptome und Schmerzen
--  ``A`` llergien
--  ``M`` edikamente
--  ``P`` atientengeschichte
--  ``L`` etzte …
--  ``E`` reignisse vor Notfalleintritt
--  ``R`` isikofaktoren
+        -  ``S`` ymptome und Schmerzen
+        -  ``A`` llergien
+        -  ``M`` edikamente
+        -  ``P`` atientengeschichte
+        -  ``L`` etzte …
+        -  ``E`` reignisse vor Notfalleintritt
+        -  ``R`` isikofaktoren
 
 
 In einer Notfallsituation soll das Anamnesegespräch gleichzeitig alle
@@ -112,7 +113,7 @@ müssen diese weiter abgeklärt werden,
 hier
 am Beispiel Schmerzen:
 
--  **Onset / Geschehnisse zum Zeitpunkt des Auftretens*:
+-  **Onset / Geschehnisse zum Zeitpunkt des Auftretens**:
    *“Seit wann haben Sie die Schmerzen?
    Was haben Sie gemacht als es begonnen hat?”*
 
@@ -234,8 +235,9 @@ Fragen zu Medikamenten:
 
     -  Bei der Anamneseerhebung muss immer nach Medikamentenlisten
        gefragt werden!
-    -  Das Ignorieren bzw. die Nicht-Mitnahme von Medikamentenlisten o.ä.
-    stellt einen schweren Fehler dar!
+    -  Das Ignorieren
+        bzw. die Nicht-Mitnahme von Medikamentenlisten o.ä.
+        stellt einen schweren Fehler dar!
 
 
 .. todo:: Tabelle: Besonders häufige bzw. wichtige Medikamente
@@ -507,20 +509,21 @@ veralten).
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Dokumentation-Patientenausweise-Gestellt-00943pt.*
 
-            Patientenausweise
+    Patientenausweise
 
-            Bei diversen Erkrankungen oder nach
-            bestimmten Eingriffen erhält ein Patient spezielle
-            Pässe.
-Diese geben Auskunft über die Art des Eingriffes,
-            eventuell eingesetzte Implantate oder weisen auf besondere
-            Risiken hin.
-Hier abgebildet sind ein Pass nach einer
-            Herzkatheter-Untersuchung mit Stent-Implantation, ein
-            Blutdruck-Pass zur Dokumentation des Blutdruckverlaufs und
-            eine Medikationsinformation. (Die Patientendaten am Bild
-            sind erfunden.)
-            Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    Bei diversen Erkrankungen oder nach
+    bestimmten Eingriffen erhält ein Patient spezielle
+    Pässe.
+    Diese geben Auskunft über die Art des Eingriffes,
+    eventuell eingesetzte Implantate oder weisen auf besondere
+    Risiken hin.
+    Hier abgebildet sind ein Pass nach einer
+    Herzkatheter-Untersuchung mit Stent-Implantation, ein
+    Blutdruck-Pass zur Dokumentation des Blutdruckverlaufs und
+    eine Medikationsinformation. (Die Patientendaten am Bild
+    sind erfunden.)
+
+    [Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`]
 
 ********
 Letzte …
@@ -605,24 +608,18 @@ kann aber in der Diagnosefindung hilfreich sein und das Gesamtbild des
 Patienten vervollständigen.
 Beispiele für Riskofaktoren wären:
 
--  Alter
-
--  Geschlecht
-
--  Immobilisierung, Bettlägrigkeit (Thrombosen, Lungenembolie,
-   Pneumonie, …)
-
--  Rauchen (Lungenkrebs, COPD, Lungenembolie, …)
-
--  Diabetes mellitus (Herz-Kreislauf-Erkrankungen: Koronare
-   Herzkrankheit, Herzinfarkt, Schlaganfall, periphere arterielle
-   Verschlusskrankheit (pAVK),
+-   Alter
+-   Geschlecht
+-   Immobilisierung, Bettlägrigkeit (Thrombosen, Lungenembolie,
+    Pneumonie, …)
+-   Rauchen (Lungenkrebs, COPD, Lungenembolie, …)
+-   Diabetes mellitus (Herz-Kreislauf-Erkrankungen: Koronare
+    Herzkrankheit, Herzinfarkt, Schlaganfall, periphere arterielle
+    Verschlusskrankheit (pAVK),
     Wundheilungsstörungen, …;
-   Niereninsuffizienz, …)
-
--  Arterielle Hypertonie (Herz-Kreislauf-Erkrankungen, s. o.)
-
--  Hormonelle Verhütung (“Pille”; Lungenembolie, …)
+    Niereninsuffizienz, …)
+-   Arterielle Hypertonie (Herz-Kreislauf-Erkrankungen, s. o.)
+-   Hormonelle Verhütung (“Pille”; Lungenembolie, …)
 
 Die Frage nach Risikofaktoren ist abhängig vom Einzelfall,
 oft sind

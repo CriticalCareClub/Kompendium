@@ -186,21 +186,21 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
     Annäherung an den Patienten
 
-    Ⓒ Michael Motal :term:`Ⓛ Mfg`
+    Ⓒ Michael Motal :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
     :width: 100%
 
     Die Rippen folgen der Atembewegung.
 
-    Ⓒ :term:`HiLe` :term:`Ⓛ Mfg`
+    Ⓒ :term:`HiLe` :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*
     :width: 100%
 
     Zyanotische Lippen
 
-    Ⓒ :term:`GaSe` :term:`Ⓛ Mfg`
+    Ⓒ :term:`GaSe` :term:`Ⓛ MfG`
 
     :term:`UE2011FORTUNA-00651`
 
@@ -226,7 +226,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
     Reanimationsbereitschaft,
     Notarztnachforderung und Monitoring.
 
-    Ⓒ :term:`GaSe` :term:`Ⓛ Mfg`
+    Ⓒ :term:`GaSe` :term:`Ⓛ MfG`
 
 
 

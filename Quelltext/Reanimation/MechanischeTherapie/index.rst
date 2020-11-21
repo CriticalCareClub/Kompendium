@@ -100,7 +100,7 @@ max. 120 / min).
 .. subfigstart::
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Druckpunkt.*
-            :width: 99.9%
+            :width: 100%
 
             Druckpunkt: Mitte des Brustkorbs. Die Finger werden
             ineinander verschränkt,
@@ -108,14 +108,14 @@ max. 120 / min).
             [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-1.*
-            :width: 99.9%
+            :width: 100%
 
             die Arme durchgestreckt
 
             [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-2.*
-            :width: 99.9%
+            :width: 100%
 
             und Oberkörper nach vorne gebeugt:
             → Druck direkt auf Brustbein

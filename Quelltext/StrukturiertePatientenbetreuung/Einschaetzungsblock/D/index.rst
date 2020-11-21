@@ -160,7 +160,7 @@ festgestellt werden:
 
     Anisokorie (Pupillendifferenz)
 
-    Ⓒ Gabriel :term:`Ⓛ Mfg`
+    Ⓒ Gabriel :term:`Ⓛ MfG`
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.*
@@ -168,7 +168,7 @@ festgestellt werden:
 
     Kraftprobe an den Armen
 
-    Ⓒ Michael Motal :term:`Ⓛ Mfg`
+    Ⓒ Michael Motal :term:`Ⓛ MfG`
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.*
@@ -176,7 +176,7 @@ festgestellt werden:
 
     BZ-Messung
 
-    Ⓒ Michael Motal :term:`Ⓛ Mfg`
+    Ⓒ Michael Motal :term:`Ⓛ MfG`
 
 .. subfigend::
     :width: 0.3

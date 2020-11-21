@@ -93,7 +93,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-teamwork-transfer-lbk.jpg
-    :width: 99%
+    :width: 100%
 
     Die gute Zusammenarbeit mit dem Spitalspersonal ist wichtig, wie
     zum Beispiel bei dieser Überstellung eines Intensivpatienten: Wenn
@@ -102,7 +102,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
     [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-teamwork-arzt-sani.jpg
-    :width: 99%
+    :width: 100%
 
     Miteinander statt gegeneinander: Arzt und Sanitäter bilden eine
     Einheit.
@@ -110,7 +110,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
     [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-alle.jpg
-    :width: 99%
+    :width: 100%
 
     Im Notfall ist die Organisationszugehörigkeit
     nebensächlich.
@@ -400,7 +400,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 .. subfigstart::
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/traumacheck1.jpg
-    :width: 99%
+    :width: 100%
 
     Hilfeleistung
 
@@ -408,7 +408,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch2.*
-    :width: 99%
+    :width: 100%
 
     Autobrand mit giftigen Dämpfen
 
@@ -416,7 +416,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00518-0154pt-0300dpi.*
-    :width: 99%
+    :width: 100%
 
     Gefahrenstoffunfall
 
@@ -424,7 +424,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi.*
-    :width: 99%
+    :width: 100%
 
     Ungünstige Sichtverhältnisse, hier bei einer Übung im Wiener Kaisermühlentunnel
 
@@ -444,7 +444,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.*
-    :width: 99%
+    :width: 100%
 
     Blutzuckermessung
 
@@ -452,7 +452,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.*
-    :width: 99%
+    :width: 100%
 
     Versorgung nach einem Verkehrsunfall
 
@@ -460,7 +460,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0030mm.*
-    :width: 99%
+    :width: 100%
 
     Assistenz bei ärztlichen Maßnahmen
 
@@ -480,21 +480,21 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 .. subfigstart::
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.*
-    :width: 99%
+    :width: 100%
 
     RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.).
 
     [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/bh_ith_00800.jpg
-    :width: 99%
+    :width: 100%
 
     Intensivtransporthubschrauber
 
     [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/DIF2010-000816-0154pt-0300dpi.*
-    :width: 99%
+    :width: 100%
 
     Ambulanzraum bei einem Sanitätsdienst
 
@@ -515,7 +515,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 .. subfigstart::
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00942-0154pt-0300dpi.*
-    :width: 99%
+    :width: 100%
 
     Organisation im Großschadensfall, hier ein Wagenhalteplatz bei
     einer Nachtübung
@@ -523,7 +523,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00568-0154pt-0300dpi.*
-    :width: 99%
+    :width: 100%
 
     Führungsrolle bei der Bewältigung eines
     Großschadensereignis: Der Leiter einer Sanitätshilfestelle (SanHiSt)
@@ -545,14 +545,14 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 .. subfigstart::
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000253-0154pt-0300dpi.*
-    :width: 99%
+    :width: 100%
 
     Zusammenarbeit zwischen den Organisationen
 
     [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-bundesheer1.jpg
-    :width: 99%
+    :width: 100%
 
     Integraler Bestandteil der zivilen und militärischen Landesverteidigung: Der
     Bundesheersanitäter
@@ -560,7 +560,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1853_1.jpg
-    :width: 99%
+    :width: 100%
 
     Die Zusammenarbeit mit der Exekutive – auch
     an sozialen Brennpunkten – ist Alltag

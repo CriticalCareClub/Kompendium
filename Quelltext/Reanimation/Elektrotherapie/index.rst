@@ -393,19 +393,19 @@ Synchronisation
 .. _Figure-Defibrillation:
 
 .. figure:: /Bilder/WikipediaCcBySa/Defib_electrode_placement.*
-    :width: 99.9%
+    :width: 100%
 
     Anbringen der Klebeelektroden
 
     [WMC:Andersat, CC-BY-SA-3.0]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
-    :width: 99.9%
+    :width: 100%
 
     Bei der Analyse und Schockabgabe darf niemand den Patienten berühren!
 
 .. figure:: /Bilder/WikipediaCcBySa/Semi_automatic_defi_with_electrodes.png
-    :width: 99.9%
+    :width: 100%
 
     Automatisierter Externer Defibrillator (AED) mit
     angeschlossenen Klebeelektroden für den
@@ -414,7 +414,7 @@ Synchronisation
     [WMC:Hborkyb, CC-BY-SA-2.5-US]
 
 .. figure:: /Bilder/WikipediaPd/AED_Symbol.*
-    :width: 99.9%
+    :width: 100%
 
     Hinweisschild “Defibrillator”
 

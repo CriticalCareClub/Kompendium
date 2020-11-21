@@ -50,4 +50,4 @@ beinhalten:
 
     "Sie wünschen?"
 
-    Ⓒ Gabriel :term:`Ⓛ Mfg`
+    Ⓒ Gabriel :term:`Ⓛ MfG`

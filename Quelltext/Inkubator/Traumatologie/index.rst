@@ -392,18 +392,18 @@ Folgeverletzungen zu verhindern.
 .. subfigstart::
 
 .. figure:: /Bilder/HauerDavid-Ccc/fremdkoerper-stich-fixierung.*
-    :width: 99%
+    :width: 100%
 
     Fixierung eines penetrierenden Fremdkörpers.
 
     [Hauer]
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/fremdkoerper-stich-messer-01.*
-    :width: 99%
+    :width: 100%
 
     Stich mit einem Küchenmesser. Das Messer verbleibt im Körper … 
 .. figure:: /Bilder/GabrielSebastian-Ccc/fremdkoerper-stich-messer-02.*
-    :width: 99%
+    :width: 100%
 
     … bis in den Operationssaal.
 
@@ -583,18 +583,18 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
 :ref:`Thema-vacuumbeinschiene-anwendung`) vorsichtig vom Fuß abzieht.
 
 .. figure:: /Bilder/HauerDavid-Ccc/fraktur_fehlstellung_nativ.*
-    :width: 99%
+    :width: 100%
 
     Fehlstellung einer Unterschenkelfraktur nach einem
     Verkehrsunfall (PKW gegen Fußgänger) in natura …
 
 .. figure:: /Bilder/HauerDavid-Ccc/fraktur_fehlstellung_xray.*
-    :width: 99%
+    :width: 100%
 
     … und in Röntgendarstellung
 
 .. figure:: /Bilder/WikipediaCcBy/fraktur-offen-finger.*
-    :width: 99%
+    :width: 100%
 
     Nicht immer sind offene Frakturen spektakulär:
     Offene Fraktur des Mittelfingers
@@ -1524,7 +1524,7 @@ Todesangst.
 
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_xray_halb.*
-    :width: 99%
+    :width: 100%
 
     Pneumothorax. Beachte die Randlinie zwischen Lunge (unten,
     innen) und dem luftgefüllten Pleuraspalt (oben, außen)
@@ -1532,7 +1532,7 @@ Todesangst.
     *Hauer*
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_xray_endstadium.*
-    :width: 99%
+    :width: 100%
 
     Im Vergleich: Kompletter Pneumothorax der rechten
     Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert.
@@ -1540,7 +1540,7 @@ Todesangst.
     *Hauer*
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.*
-    :width: 99%
+    :width: 100%
 
     Diese unauffällige Stichverletzung hat
     einen Pneumothorax verursacht. **Dieser Patient ist lebensgefährlich
@@ -2378,21 +2378,21 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
 
 .. figure:: /Bilder/WikipediaPd/Verbrennung1-00441pt.*
-    :width: 99%
+    :width: 100%
 
     Verbrennung 1°
 
     [Trent Easton; de.wikipedia / PD]
 
 .. figure:: /Bilder/WikipediaCcBySa/VerbrennungGrad2a-00441pt.*
-    :width: 99%
+    :width: 100%
 
     Verbrennung 2°
 
     [Yunaerith; WMC / CC-BY-SA 3.0 unported]
 
 .. figure:: /Bilder/WikipediaCcBySa/Verbrennung_3gradig01.*
-    :width: 99%
+    :width: 100%
 
     Verbrennung 3°
 
@@ -2400,21 +2400,21 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
     WMC / CC-BY-SA 3.0 unported]
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-01.*
-    :width: 99%
+    :width: 100%
 
     Großflächige Verbrennung
 
     [David Hauer, MfG]
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-02-hand.*
-    :width: 99%
+    :width: 100%
 
     Ablederung
 
     [David Hauer, MfG]
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-03-escharotomie.*
-    :width: 99%
+    :width: 100%
 
     Aufgrund der ringförmigen Verbrennung am Thorax
     zieht sich die Haut zusammen, der Brustkorb wird gefesselt und die

@@ -230,19 +230,19 @@ Beispiele von Rhythmen werden unter
 .. subfigstart::
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
-    :width: 99%
+    :width: 100%
 
     Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.*
-    :width: 99%
+    :width: 100%
 
     Das Herz, schematisch
 
     [Lena Hirtler, MfG]
 
 .. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
-    :width: 99%
+    :width: 100%
 
     Reizleitungssystem, SchemaJ. Heuser, basierend auf der Arbeit von
     Patrick J. Lynch; illustrator;

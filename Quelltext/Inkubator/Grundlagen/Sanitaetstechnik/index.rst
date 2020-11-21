@@ -81,7 +81,7 @@ Handlungsschritte
 .. _Figure-haendedesinfektion:
 
 .. figure:: /Bilder/CcBySa-4-0/02_Hegasy_Haende_Desinfektion.*
-    :width: 99%
+    :width: 100%
 
     Hygienische Händedesinfektion
 
@@ -149,21 +149,21 @@ Technik eignet sich nur für kurze Distanzen.
 .. subfigstart::
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering1b.jpg
-    :width: 99%
+    :width: 100%
 
     Tragering
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering2b.jpg
-    :width: 99%
+    :width: 100%
 
     Transport mit dem Tragering
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering3b.jpg
-    :width: 99%
+    :width: 100%
 
     Transport mit dem Tragering
 
@@ -197,47 +197,47 @@ wird immer mit den *Füßen voran* getragen.
 .. subfigstart::
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch1b.jpg
-    :width: 99%
+    :width: 100%
 
     Tuch aufbreiten
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch2b.jpg
-    :width: 99%
+    :width: 100%
 
     … die näher zum Patient liegende Hälfte umschlagen…
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch3b.jpg
-    :width: 99%
+    :width: 100%
 
     … die obere Hälfte nochmals Richtung Patient umschlagen…
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch4b.jpg
-    :width: 99%
+    :width: 100%
 
     … und das Tuch an den Patienten legen.
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch5b.jpg
-    :width: 99%
+    :width: 100%
 
     Patient leicht anheben und Tuch bis zur Hälfte unterschieben …
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch6b.jpg
-    :width: 99%
+    :width: 100%
 
     … Patient schonend zurück legen.
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch7b.jpg
-    :width: 99%
+    :width: 100%
 
     Von der anderen Seite ebenfalls leicht anheben und Tuch ausbreiten.
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch8b.jpg
-    :width: 99%
+    :width: 100%
 
     Zu dritt das Tuch fest anpacken …
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch9b.jpg
-    :width: 99%
+    :width: 100%
 
     …und auf Kommando gemeinsam anheben
 
@@ -337,50 +337,50 @@ Lagerungsarten
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungflachb.jpg
-    :width: 99%
+    :width: 100%
 
     Flachlagerung
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerung30gradb.jpg
-    :width: 99%
+    :width: 100%
 
     Lagerung mit 30° erhöhtem Oberkörper
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungoberkoerperhochb.jpg
-    :width: 99%
+    :width: 100%
 
     Lagerung mit stark erhöhtem Oberkörper
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungseiteb.jpg
-    :width: 99%
+    :width: 100%
 
     Seitenlagerung
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungkollaps2b.jpg
-    :width: 99%
+    :width: 100%
 
     Lagerung mit erhöhten Beinen.
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungkollaps1b.jpg
-    :width: 99%
+    :width: 100%
 
     Lagerung mit erhöhten Beinen unter Schonung der Wirbelsäule und des Beckens (bei Verdacht auf Wirbelsäulen- oder Beckenverletzungen)
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungabdomenb.jpg
-    :width: 99%
+    :width: 100%
 
     Lagerung zur Entspannung der Bauchdecke
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungthromboseb.jpg
-    :width: 99%
+    :width: 100%
 
     Lagerung mit erhöhter Extremität
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungembolieb.jpg
-    :width: 99%
+    :width: 100%
 
     Lagerung mit herabhängender Gliedmaße
 
@@ -485,54 +485,54 @@ Vorgehen
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm1.jpg
-    :width: 99%
+    :width: 100%
 
     Während des Annäherns den Patient auffordern, den Kopf nicht zu bewegen.
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm2.jpg
-    :width: 99%
+    :width: 100%
 
     Den Kopf sofort mit den Händen fixieren, Visier öffnen und Patienten ansprechen.
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm3.jpg
-    :width: 99%
+    :width: 100%
 
     Ggfs. Patient synchron und schonend auf den Rücken drehen.
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm4.jpg
-    :width: 99%
+    :width: 100%
 
     Ggfs. Brille entfernen, Kinnriemen öffnen und behindernde Kleidung entfernen.
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm5.jpg
-    :width: 99%
+    :width: 100%
 
     Halswirbelsäule stabilisieren.
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm6.jpg
-    :width: 99%
+    :width: 100%
 
     Helm kippen bis von oben die Nasenspitze sichtbar ist, danach vorsichtig nach hinten wegziehen
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm7.jpg
-    :width: 99%
+    :width: 100%
 
     Nach dem Abziehen Stabilisierung des Kopfes übernehmen. Keinen Zug und keine Stauchung ausüben!
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm8.jpg
-    :width: 99%
+    :width: 100%
 
     Nach der Helmabnahme erfolgt sofort das Anlegen einer HWS-Schiene. Der Kopf bleibt in Neutralposition zug- und stauchungsfrei fixiert. Die passende Größe der HWS-Schiene wird bestimmt und eingestellt.
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/hwsschiene3.jpg
-    :width: 99%
+    :width: 100%
 
     HWS-Schiene zuerst unter dem Patienten durchführen, danach am Kinn anlegen.
 
@@ -1183,12 +1183,12 @@ Trotz Aluminiumkernschiene muss an der betroffenen Extremität ein Armtragetuch 
 
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Sam_Splint_33050_crop-AASS-0112mm.jpg
-    :width: 99%
+    :width: 100%
 
     Ein SAM-Splint® fabriksneu …
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Sam_Splint_33053_crop-AASS-0112mm.jpg
-    :width: 99%
+    :width: 100%
 
     … und nach der Anpassung
 

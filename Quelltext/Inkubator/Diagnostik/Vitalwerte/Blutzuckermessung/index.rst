@@ -104,7 +104,7 @@ Durchführung
 .. subfigstart::
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Blutzucker_32796_export_01312.jpg
-    :width: 99%
+    :width: 100%
 
     Material zur Blutzuckermessung
 
@@ -113,12 +113,12 @@ Durchführung
 
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.jpg
-    :width: 99%
+    :width: 100%
 
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/bz-wert_1214-00800.jpg
-    :width: 99%
+    :width: 100%
 
     Ergebnis: “90mg/dL
 

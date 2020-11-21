@@ -493,7 +493,7 @@ Nachgeburtsphase
 .. subfigstart::
 
 .. figure:: /Bilder/WikipediaPd/Newborn_umbilical_suction-AASS-0030mm.*
-    :width: 99%
+    :width: 100%
 
     Durchtrennung der Nabelschnur, die patientenferne Klemme ist
     durch die Hand verdeckt.
@@ -501,14 +501,14 @@ Nachgeburtsphase
     [WMC: “Jeremykemp” / PD]
 
 .. figure:: /Bilder/WikipediaPd/Navelklem.*
-    :width: 99%
+    :width: 100%
 
     Abgeklemmte Nabelschnur
 
     [WMC: “Harmid” / PD]
 
 .. figure:: /Bilder/WikipediaPd/Umbilicalstump.*
-    :width: 99%
+    :width: 100%
 
     Nabelschnurstumpf nach sieben Tagen
 

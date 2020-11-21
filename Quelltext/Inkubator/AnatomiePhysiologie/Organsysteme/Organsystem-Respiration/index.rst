@@ -386,7 +386,7 @@ Gewebe und Pleura(spalt) wichtig:
 .. subfigstart::
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thorax-Diaphragma.*
-    :width: 99%
+    :width: 100%
 
     Das *Diaphragma* ist der wichtigste Atemmuskel
     und trennt den Brust- und Bauchraum.
@@ -394,7 +394,7 @@ Gewebe und Pleura(spalt) wichtig:
     [Lena Hirtler, MfG]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegung-frontal.*
-    :width: 99%
+    :width: 100%
 
     Bei der Einatmung senkt sich das Zwerchfell
     und der Brustkorb hebt sich.
@@ -402,7 +402,7 @@ Gewebe und Pleura(spalt) wichtig:
     [Lena Hirtler, MfG]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
-    :width: 99%
+    :width: 100%
 
     Die Rippen folgen der Atembewegung.
 

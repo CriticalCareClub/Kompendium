@@ -180,7 +180,7 @@ aushaltbarer Schwindel.
 .. subfigstart::
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Ohr.*
-    :width: 99%
+    :width: 100%
 
     Das Ohr im Querschnitt.
 
@@ -190,7 +190,7 @@ aushaltbarer Schwindel.
     [Lena Hirtler, MfG]
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Mittelohr.*
-    :width: 99%
+    :width: 100%
 
     Das Mittelohr:
 

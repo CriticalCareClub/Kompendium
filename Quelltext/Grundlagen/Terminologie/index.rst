@@ -123,10 +123,8 @@ Beschreibung von Krankheiten und Symptomen
 :index:`akut`
     plötzlich; rascher Handlungsbedarf
 
-
 :index:`chronisch`
     dauerhaft, wiederkehrend
-
 
 :index:`rezidivierend`
      wiederkommend, neuerlich
@@ -142,24 +140,20 @@ Stoffe
 :index:`Aminosäure`
     Bausteine von Proteinen.
 
-
 :index:`Base`
     *Syn.* *Lauge*. Stoff, welcher Protonen aufnehmen kann.
-    Sie reagieren mit Säuren und bilden Salze. (Schmuck et al. 2008)
-
+    Sie reagieren mit Säuren und bilden Salze. [SchmuckChemie:1]_
 
 :index:`Enzym`
     Hilfsstoff, welcher eine chemische Reaktion (Umwandlung
     von Stoffen in andere Stoffe) begünstigt.
 
-
 :index:`Protein`
     Eiweiß. Proteine werden aus Aminosäuren zusammengesetzt.
 
-
 :index:`Säure`
     Stoff, welcher Protonen abgeben kann. Sie reagieren mit Basen und
-    bilden Salze. (Schmuck et al. 2008).
+    bilden Salze. [SchmuckChemie:1]_.
 
 
 
@@ -294,7 +288,8 @@ Sonstige Begriffe
 
 
 :index:`Obstruktion`, :index:`Verlegung`
-    Verlegung, Verengung. z. B. im Rahmen der COPD (:ref:`Thema-copd`).
+    Verlegung, Verengung. z. B. im Rahmen der
+    :ref:`COPD <Thema-copd>`.
 
 
 

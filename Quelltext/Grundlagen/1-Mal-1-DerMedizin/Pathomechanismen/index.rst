@@ -1,5 +1,6 @@
 .. index::
     single: Ödem
+    single: Pathomechanismen
 
 #############################
 Grundlegende Pathomechanismen
@@ -11,60 +12,23 @@ Grundlegende Pathomechanismen
 Durch krankhafte Vorgänge kann es im Gewebe zu
 
 -  Ödemen (Wasseransammlung im Gewebe),
-
 -  Emphysemen (Luftansammlung im Gewebe),
-
 -  Entzündungen (:ref:`Thema-entzuendung`),
-
 -  Tumoren (:ref:`Thema-tumor`) oder
-
 -  Nekrosen (Absterben von Zellen bzw. Gewebe)
 
 kommen. Die letzten drei Punkte werden im Folgenden näher erklärt.
 
+
+.. index::
+    single: Entzündung
+    single: inflammation
 
 .. _Thema-entzuendung:
 
 ****************************************
 Entzündung ist eine Reaktion des Körpers
 ****************************************
-
-.. index::
-    single: Entzündung
-    single: inflammation
-
-*engl., lat.* inflammation.
-Der Begriff bezeichnet eine typische Reaktion des Körpers, bestehend aus
-
-   #. *Rötung*,
-
-   #. *Schwellung*,
-
-   #. *Überwärmung*,
-
-   #. *Schmerz* und
-
-   #. *Funktionsverlust*.
-
-Mögliche Auslöser sind
-Fremdkörper, Krankheitserreger, mechanische Beanspruchung, chemische
-Substanzen oder andere pyhsikalische Noxen. Typisch für die Bezeichnung
-von Entzündungen ist das Suffix :dfn:`-itis`, welches
-i.d.R. an die betreffende Organbezeichnung angehängt wird:
-
--  Gastritis: “Magenentzündung”
-
--  Hepatitis: Leberentzündung
-
--  Pankreatitis: Entzündung der Bauchspeicheldrüse,
-
--  Meningitis: Hirnhautentzündung
-
--  Rhinitis: “Schnupfen”
-
--  Otitis: Ohrenentzündung
-
--  …
 
 
 ..
@@ -99,14 +63,40 @@ i.d.R. an die betreffende Organbezeichnung angehängt wird:
     -  “-itis”
 
 
+*engl., lat.* inflammation.
+Der Begriff bezeichnet eine typische Reaktion des Körpers, bestehend aus
+
+    #.  *Rötung*,
+    #.  *Schwellung*,
+    #.  *Überwärmung*,
+    #.  *Schmerz* und
+    #.  *Funktionsverlust*.
+
+Mögliche Auslöser sind
+Fremdkörper, Krankheitserreger, mechanische Beanspruchung, chemische
+Substanzen oder andere pyhsikalische Noxen. Typisch für die Bezeichnung
+von Entzündungen ist das Suffix :dfn:`-itis`, welches
+i.d.R. an die betreffende Organbezeichnung angehängt wird:
+
+-   Gastritis: “Magenentzündung”
+-   Hepatitis: Leberentzündung
+-   Pankreatitis: Entzündung der Bauchspeicheldrüse,
+-   Meningitis: Hirnhautentzündung
+-   Rhinitis: “Schnupfen”
+-   Otitis: Ohrenentzündung
+
+-  …
+
+
+
+.. index::
+    single: Ischämie
+
 .. _Thema-ischaemie:
 
 ********
 Ischämie
 ********
-
-.. index::
-    single: Ischämie
 
 .. admonition:: Definition
 
@@ -122,11 +112,8 @@ Schmerzen sind ein typisches Symptom.
 Häufig betroffene Gewebe sind:
 
 -   Herzmuskel (Herzinfarkt, :ref:`Thema-herzinfarkt`)
-
 -   Hirn (trockener Insult)
-
 -   Darm (Mesenterialinfarkt)
-
 -   Extremitäten
     (Periphere arterielle Verschlusskrankheit,
     arterieller peripherer Gefäßverschluss, :ref:`Thema-ArteriellerGefaessverschluss`)
@@ -169,8 +156,6 @@ entarten. Dies kann spontan geschehen oder durch andere Faktoren
 (radioaktive Strahlung, chemische Substanzen) begünstigt bzw. ausgelöst
 werden.
 
-
-
 Man unterscheidet zwischen *gutartigen* (**benignen**)
 und *bösartigen* (**malignen**) Neubildungen.
 Gutartige Neubildungen “bleiben wo sie sind”
@@ -186,33 +171,32 @@ Je nach Zellart unterscheidet man bei malignen Tumoren zwischen
 bei malignen Erkrankungen der Blutzellen spricht man
 von *Leukämien* :index:`\ <Leukämie>` bzw. *Lymphomen* :index:`\ <Lymphom>`.
 
-+----------------+---------------------------+---------------------+
-| *Schlagwort*   | *Beispiel*                | ** Im Arztbrief**   |
-+----------------+---------------------------+---------------------+
-| Lungenkrebs    | Bronchialkarzinom         |                     |
-+----------------+---------------------------+---------------------+
-| Brustkrebs     | Mammakarzinom             |                     |
-+----------------+---------------------------+---------------------+
-| Darmkrebs      | Rektumkarzinom            |                     |
-+----------------+---------------------------+---------------------+
-| Blutkrebs      | Leukämie, versch. Arten   |                     |
-+----------------+---------------------------+---------------------+
+..
+    +----------------+---------------------------+---------------------+
+    | *Schlagwort*   | *Beispiel*                | ** Im Arztbrief**   |
+    +----------------+---------------------------+---------------------+
+    | Lungenkrebs    | Bronchialkarzinom         |                     |
+    +----------------+---------------------------+---------------------+
+    | Brustkrebs     | Mammakarzinom             |                     |
+    +----------------+---------------------------+---------------------+
+    | Darmkrebs      | Rektumkarzinom            |                     |
+    +----------------+---------------------------+---------------------+
+    | Blutkrebs      | Leukämie, versch. Arten   |                     |
+    +----------------+---------------------------+---------------------+
 
 .. rubric:: Was ist das Problem?
 
 Zusammengefasst ergeben sich drei wesentliche Probleme:
 
-#. *Neubildungen brauchen Raum.* Dieser Raum ist nicht endlos vorhanden.
-   Je nach Lage können wichtige Strukturen beengt oder behindert werden
-   (Hirn, Luftröhre, …).
-
-#. *Funktionsverlust des gesunden Gewebes.* Durch den Befall mit
-   (nutzlosen) Metastasen wird das gesunde Gewebe soweit durchwachsen
-   und geschwächt, dass es seine Funktion nicht mehr richtig ausführen
-   kann (z. B. Knochenbefall).
-
-#. *Schmerz.* Der Befall verursacht oft starke Schmerzen. Krebspatienten
-   benötigen oft eine dauerhafte, starke Schmerztherapie.
+#.  *Neubildungen brauchen Raum.* Dieser Raum ist nicht endlos vorhanden.
+    Je nach Lage können wichtige Strukturen beengt oder behindert werden
+    (Hirn, Luftröhre, …).
+#.  *Funktionsverlust des gesunden Gewebes.* Durch den Befall mit
+    (nutzlosen) Metastasen wird das gesunde Gewebe soweit durchwachsen
+    und geschwächt, dass es seine Funktion nicht mehr richtig ausführen
+    kann (z. B. Knochenbefall).
+#.  *Schmerz.* Der Befall verursacht oft starke Schmerzen. Krebspatienten
+    benötigen oft eine dauerhafte, starke Schmerztherapie.
 
 .. rubric:: Therapie
 
@@ -221,26 +205,25 @@ vom jeweiligen Patienten abhängig und reicht von sehr gut bis nicht
 vorhanden. Im wesentlichen kommen bei der Krebstherapie folgende
 Methoden zum Einsatz:
 
--  *Chemotherapie*: Einsatz von Medikamenten welche die Zellteilung
-   unterdrücken bzw. Zellen absterben lassen.
-
--  *Bestrahlung*: zur Abtötung oder Vorbeugung von Geschwülsten.
-
--  *Operation*: Chirurgische Entfernung der Neubildung(en).
-
--  *Palliativtherapie*: Je nach Art der Krebserkrankung kann unter
-   Umständen ein Stadium erreicht werden, in dem eine Heilung nicht mehr
-   möglich ist bzw. die dazu notwendigen Therapien vom Patienten als zu
-   belastend und nebenwirkungsreich angesehen werden. Das Ziel der
-   Palliativbehandlung bzw. -betreuung ist nicht die Heilung der
-   Erkrankung, sondern das Ermöglichen eines würdigen und schmerzfreien
-   Lebens bis zum Eintreten des Todes.
+-   *Chemotherapie*: Einsatz von Medikamenten welche die Zellteilung
+    unterdrücken bzw. Zellen absterben lassen.
+-   *Bestrahlung*: zur Abtötung oder Vorbeugung von Geschwülsten.
+-   *Operation*: Chirurgische Entfernung der Neubildung(en).
+-   *Palliativtherapie*: Je nach Art der Krebserkrankung kann unter
+    Umständen ein Stadium erreicht werden, in dem eine Heilung nicht mehr
+    möglich ist bzw. die dazu notwendigen Therapien vom Patienten als zu
+    belastend und nebenwirkungsreich angesehen werden. Das Ziel der
+    Palliativbehandlung bzw. -betreuung ist nicht die Heilung der
+    Erkrankung, sondern das Ermöglichen eines würdigen und schmerzfreien
+    Lebens bis zum Eintreten des Todes.
 
 Diese Therapien sind für den Körper sehr anstrengend und haben viele
 Nebenwirkungen, wie z. B. Haarausfall, Übelkeit, Erbrechen, *Schwächung
-des Immunsystems*, Nervenschäden u.v.a.m.
+des Immunsystems*, Nervenschäden u. v. a. m.
 
-Quellen: [UlfigHistologie:1]_ [GantenTumorerkr:98]_ [Uicc:3]_
+.. rubric:: Siehe auch:
+
+[UlfigHistologie:1]_ [GantenTumorerkr:98]_ [Uicc:3]_
 
 
 

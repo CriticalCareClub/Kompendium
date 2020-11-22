@@ -139,31 +139,26 @@ protokolliert, als auch besondere Ereignisse. Telefongespräche mit der
 Leitstelle werden i.d.R. aufgezeichnet und gespeichert.
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Aufgaben
 
-    -  *Call Taking*
+        -   *Call Taking*
 
-        -  Annahme & Abfrage von Notrufen & Alarmierungen
+            -   Annahme & Abfrage von Notrufen & Alarmierungen
+            -   Erfassung im Einsatzleitsystem, Einteilung und Priorisierung nach
+                Art und Dringlichkeit der Meldung, benötigtes Personal, etc.
 
-        -  Erfassung im Einsatzleitsystem, Einteilung und Priorisierung nach
-            Art und Dringlichkeit der Meldung, benötigtes Personal, etc.
+        -   *Disposition*
 
-    -  *Disposition*
+            -   Welche Einsatzmittel
+            -   Alarmierung der Einheiten
+            -   Übermittlung der Aufträge
+            -   Unterstützung, Koordination
+            -   Evtl. Zuteilung von Krankenhausbetten
+            -   Status-/Standort-Verwaltung
 
-        -  Welche Einsatzmittel
-
-        -  Alarmierung der Einheiten
-
-        -  Übermittlung der Aufträge
-
-        -  Unterstützung, Koordination
-
-        -  Evtl. Zuteilung von Krankenhausbetten
-
-        -  Status-/Standort-Verwaltung
-
-    -  Dokumentation
+        -   Dokumentation
 
 Funk
 ----
@@ -342,14 +337,13 @@ organisationsspezifische andere Einsatzmitteltypen zum Einsatz.
 Krankentransportwagen – KTW
 ---------------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: KTW
 
-    -  Krankentransport
-
-    -  Keine Notfallpatienten
-
-    -  Mind. 2 RS
+        -   Krankentransport
+        -   Keine Notfallpatienten
+        -   Mind. 2 RS
 
 Der :dfn:`Krankentransportwagen` (:dfn:`KTW`) ist für den Transport, die Erstversorgung und
 die Überwachung von Patienten, welche *keine Notfallpatienten* sind und
@@ -372,16 +366,14 @@ Rettungssanitäter*).
 Rettungstransportwagen – RTW
 ----------------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: RTW
 
-    -  Notfallrettung, Überstellungen
-
-    -  Notfallpatienten
-
-    -  Zusammen mit NEF im organisierten Notarztdienst
-
-    -  Mind. 1 NFS, 1--2 RS
+        -   Notfallrettung, Überstellungen
+        -   Notfallpatienten
+        -   Zusammen mit NEF im organisierten Notarztdienst
+        -   Mind. 1 NFS, 1--2 RS
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.*
@@ -420,14 +412,13 @@ Rettungssanitäter* ).
 Notarztwagen – NAW
 ------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: NAW
 
-    -  Notfallrettung, Überstellungen
-
-    -  Notfallpatienten
-
-    -  Mind. 1 NA, 1 NFS, 1--2 RS
+        -   Notfallrettung, Überstellungen
+        -   Notfallpatienten
+        -   Mind. 1 NA, 1 NFS, 1--2 RS
 
 
 Der :dfn:`Notarztwagen` (:dfn:`NAW`) ist für den Transport, die erweiterte
@@ -447,16 +438,14 @@ mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifikation:
 Notarzteinsatzfahrzeug – NEF
 ----------------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: NEF
 
-    -  Notfallrettung, Überstellungen
-
-    -  Kein Transport
-
-    -  Mind. 1 NA, 1 NFS
-
-    -  Ein :abbr:`NEF` transportiert keine Patienten.
+        -   Notfallrettung, Überstellungen
+        -   Kein Transport
+        -   Mind. 1 NA, 1 NFS
+        -   Ein :abbr:`NEF` transportiert keine Patienten.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.*
     :align: right
@@ -490,30 +479,25 @@ Notarzthubschrauber – NAH
 
 
 
-..
+.. only:: not latex
+
     .. sidebar:: NAH
 
-    -  Notfallrettung, Überstellungen
+        -   Notfallrettung, Überstellungen
+        -   Besondere Einsatztaktik
+        -   Vorteile:
 
-    -  Besondere Einsatztaktik
+            -   Erschütterungsarm
+            -   Schnell
 
-    -  Vorteile:
+        -   Nachteile:
 
-        -  Erschütterungsarm
+            -   Landefläche mind. 25\ :math:`\times`\ 25m
+            -   Wetter-, tageszeitabhängig
+            -   Hohe Kosten
+            -   Wenig Platz
 
-        -  Schnell
-
-    -  Nachteile:
-
-        -  Landefläche mind. 25\ :math:`\times`\ 25m
-
-        -  Wetter-, tageszeitabhängig
-
-        -  Hohe Kosten
-
-        -  Wenig Platz
-
-    -  Mind. 1 Pilot, 1 NA, 1 NFS
+        -   Mind. 1 Pilot, 1 NA, 1 NFS
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Landeanflug-OE-XEC_IMG_1912_1.*
     :align: right
@@ -570,16 +554,15 @@ Die Besetzung ist uneinheitlich, zwingend erforderlich sind jedoch mind.
 First Responder
 ---------------
 
-.. sidebar:: First Responder
+.. only:: not latex
 
-  -  Zumindest in erweiterter Ersten Hilfe ausgebildet
+    .. sidebar:: First Responder
 
-  -  Überbrücken Zeit bis Eintreffen des Rettungsdienstes mit
-     qualifizierten Maßnahmen
-
-  -  Ergänzung zur Rettungskette
-
-  -  Nicht Teil des Regelrettungsdienstes, aber Ergänzung
+        -   Zumindest in erweiterter Ersten Hilfe ausgebildet
+        -   Überbrücken Zeit bis Eintreffen des Rettungsdienstes mit
+            qualifizierten Maßnahmen
+        -   Ergänzung zur Rettungskette
+        -   Nicht Teil des Regelrettungsdienstes, aber Ergänzung
 
 
 Die Definition, Ausbildung und der Aufgabenbereich eines First

@@ -172,11 +172,13 @@ Glossar
 Ⓛ — Lizenzen
 ****************
 
+.. todo:: Lizenz: CC BY-NC 2.5
+
 .. glossary::
 
     Ⓛ CC BY-NC 2.5
-
-    .. todo:: Lizenz: CC BY-NC 2.5
+        CC BY-NC 2.5
+        .. todo:: CC BY-NC 2.5
 
     Lizenz: CC BY-SA 3.0 unported
         Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
@@ -192,50 +194,6 @@ Glossar
         Eine Verwendung ausserhalb dieses Projekts ist nicht gestattet.
 
 
-.. _thema-gefahrengutunfall:
-.. _thema-leberzirrhose:
-.. _thema-adr:
-.. _thema-triage:
-.. _thema-gefahrenzonen:
-.. _thema-umgang-psy:
-.. _thema-gefahrenbereich-strom:
-
-*****************
-Verweis ins Leere
-*****************
-
-Dieser Verweis führt ins Leere, das Thema wurde noch nicht integriert.
-
-
-
-.. _thema-parasymapthikus:
-.. _thema-sht:
-.. _thema-alkalose-respiratorische:
-.. _thema-kapnometrie:
-.. _thema-sanitaeter-pflichten:
-.. _chp-jus:
-.. _thema-ptss:
-.. _thema-burn-out:
-.. _thema-belastung-psi:
-.. _thema-reizleitungssystem:
-.. _thema-reanimation-neugeborenes:
-.. _thema-airwaymanagement:
-.. _thema-azidose-respiratorische:
-.. _thema-pulsoxymetrie:
-.. _thema-saeure-basen-haushalt:
-.. _thema-koma-diabetisches:
-.. _thema-ischaemie:
-.. _thema-insult:
-.. _thema-mesenterialinfarkt:
-.. _thema-esmolol:
-.. _thema-adenosin:
-.. _thema-exsikkose:
-.. _thema-sepsis:
-.. _thema-depression:
-.. _thema-patientenverfuegung:
-.. _mr40001b:
-.. _thema-blutdruck:
-.. _mr40021b:
 
 ***********************************************************************
 Verweis auf noch in Entwicklung befindliche Textabschnitte

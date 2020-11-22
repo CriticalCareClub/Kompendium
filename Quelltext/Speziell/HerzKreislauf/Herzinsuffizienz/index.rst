@@ -21,7 +21,8 @@ eher *chronischer* Natur.
 Einteilung
 **********
 
-..
+.. only:: not latex
+
     .. sidebar:: Einteilung
 
         -  Herzteil:

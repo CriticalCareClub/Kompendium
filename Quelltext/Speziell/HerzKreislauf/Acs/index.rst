@@ -47,7 +47,8 @@ welche sich von den vorgenannten entweder durch die Pathogenese
 Symptome
 ********
 
-..
+.. only:: not latex
+
     .. sidebar:: Symptome
 
         -  Atemnot
@@ -77,7 +78,8 @@ Leistungsverlust!
 ABCDE
 =======
 
-..
+.. only:: not latex
+
     .. sidebar:: ABCDE
 
         ``3``
@@ -169,7 +171,8 @@ Transportziel (Herzkatheterlabor?) entscheidend.
 SAMPLER beim akuten Koronarsyndrom
 ==========================================
 
-..
+.. only:: not latex
+
     .. sidebar:: SAMPLER
 
         ``S``
@@ -452,7 +455,7 @@ z. B. Morphin |IV|, titriert in 2—5 mg-Schritten (Erwachsene).
 Heparin
 -------------------------------------
 
-Gabe von **70 IU / kg i. v.**[#AcsTherapieAllgemeinHeparinDosierung]_\ .
+Gabe von **70 IU / kg i. v.** [#AcsTherapieAllgemeinHeparinDosierung]_\ .
 
 .. [#AcsTherapieAllgemeinHeparinDosierung]
         Es werden 70—100 IU / kg i. v. ohne,

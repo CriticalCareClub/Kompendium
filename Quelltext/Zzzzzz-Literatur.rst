@@ -278,7 +278,6 @@ Literaturverzeichnis
 [Harrisons18DeKap245]_
 [EKG-Knacker2]_
 [FrielingLehrbArbeitspsy:2]_
-[SiewertChirurgie8-06-Gefaesschirurgie]_
 [ADR:2011]_
 [www.ekg-online.de]_
 [Enne:2012]_
@@ -311,7 +310,6 @@ Literaturverzeichnis
 [Jones:1973]_
 [Kamolz:2009]_
 [Kaplan:2001]_
-[KeggenhoffEH]_
 [KontrollamtWienKA-K-13-09]_
 [Verbrennungsmed-2009Praehosp]_
 [RkPlsNeu:2008]_
@@ -366,6 +364,40 @@ Literaturverzeichnis
 [Yerkes:1908]_
 [Ziesenitz:2009]_
 
+[Alberts:2001]_
+[Benninghoff:17:Bd1]_
+[Bergner:9]_
+[Buchfelder:4]_
+[Classen:5]_
+[Huch:6]_
+[Kaindl:7]_
+[Karutz:1]_
+[Kayser:10]_
+[Kramer:1]_
+[Kramer:KHH:1]_
+[Kuehn:2002:1]_
+[Kuehn:2003:2]_
+[Lazarus:1984]_
+[Lehmeyer:1]_
+[Leohnhardt:2003]_
+[Loeffler:7]_
+[Platzer:2003]_
+[Redelsteiner:2]_
+[Renz-Polster:4]_
+[Schabus:1]_
+[Seto:2003]_
+[EkgIsabell:5]_
+[SitzmannPaediatrie:2]_
+[Vbv:2002]_
+[Waldeyer:2003]_
+[BrockhausDrei2Bd2]_
+[BrockhausDrei1Bd2]_
+[BrockhausDrei3Bd2]_
+[EcgEmergencyDec:2]_
+[WHOISH:2003]_
+[WiedenmannHygieneRD:1]_
+[wiki:pseudokrupp]_
+[wiki:zivilschutzsignale:20120810]_
 
 Alpha
 ================================================================================
@@ -508,7 +540,7 @@ B
 
 	**RICHTIGSTELLUNG-Einsatz Des Larynxtubus Durch Angehörige Der
 	Nichtärztlichen Gesundheitsberufe Im Rahmen Der Lebensrettenden
-	Sofortmaßnahmen.” BMG-92250_0080-II_A_2010_2010-12-15
+	Sofortmaßnahmen.** BMG-92250_0080-II_A_2010_2010-12-15
 
 
 .. [Boecker:2]
@@ -717,7 +749,7 @@ Echo
 	Rüdiger, Daniele Trevisanuto and Berndt Urlesberger. 2015b.
 	**European
 	Resuscitation Council Guidelines for Resuscitation 2015: Section 7.
-	Resuscitation and Support of Transition of Babies at Birth.”
+	Resuscitation and Support of Transition of Babies at Birth.**
 	*Resuscitation* 95 (October). Division of Neonatology, Medical
 	University Graz, Graz, Austria.: 249–63.
 	doi:\ `10.1016/j.resuscitation.2015.07.029 <https://doi.org/10.1016/j.resuscitation.2015.07.029>`__.
@@ -1044,22 +1076,27 @@ K
 	Verlag Wilhelm Maudrich.
 
 .. [Kuester:1915]
-	Küster, Ernst:
-	*Geschichte Der Neueren Deutschen Chirurgie.* Vol.
-	15. Neue Deutsche Chirurgie. 1915.
+    Küster, Ernst:
+    *Geschichte Der Neueren Deutschen Chirurgie.* Vol.
+    15. Neue Deutsche Chirurgie. 1915.
     Verlag von Ferdinand Enke in Stuttgart.
-	http://www.gutenberg.org/ebooks/39529.
+    http://www.gutenberg.org/ebooks/39529.
 
 
 L
 ================================================================================
 
+.. [Lang:2012]
+    Wilfried Lang, Julia Ferrari, Michael Brainin, Franz Fazekas und Johann Willeit:
+    **Ischämischer Schlaganfall.**
+    Österreichische Ärztezeitung 2012:18.
+    http://www.aerztezeitung.at/fileadmin/PDF/2012_Verlinkungen/StateSchlaganfall.pdf.
 
 .. [Lazarus:1984]
-	Lazarus, R.S. and S. Folkman (HG):
+    Lazarus, R.S. and S. Folkman (HG):
     **Stress, Appraisal and Coping.**
     1984.
-     Springer.
+    Springer.
 
 .. [Lecky:2008]
 	Lecky, F., D. Bryden, R. Little, N. Tong and C. Moulton:
@@ -1164,7 +1201,7 @@ P
 	Taschenatlas der Anatomie.
 	2003.Thieme.
 
-.. [Pschy:259]
+.. [Pschyrembel:259]
 	Pschyrembel, Willibald (HG):
 	**Pschyrembel Klinisches Wörterbuch.**
 	259. Auflage, 2002.
@@ -1207,6 +1244,20 @@ R
 	Urban & Fischer.
 
 
+.. [Ring:1977]
+    Ring, J. and Messmer, K.:
+    **Incidence and severity of anaphylactoid reactions to colloid volume substitutes.**
+    Lancet. 1977 Feb 26;1(8009):466-9.
+    doi: 10.1016/s0140-6736(77)91953-5.
+
+
+
+
+
+.. [Ring:2014]
+    Ring et al.:
+    **Guideline for acute therapy and management of anaphylaxis: S2 Guideline of the German Society for Allergology and Clinical Immunology (DGAKI), the Association of German Allergologists (AeDA), the Society of Pediatric Allergy and Environmental Medicine (GPA), the German Academy of Allergology and Environmental Medicine (DAAU), the German Professional Association of Pediatricians (BVKJ), the Austrian Society for Allergology and Immunology (OGAI), the Swiss Society for Allergy and Immunology (SGAI), the German Society of Anaesthesiology and Intensive Care Medicine (DGAI), the German Society of Pharmacology (DGP), the German Society for Psychosomatic Medicine (DGPM), the German Working Group of Anaphylaxis Training and Education (AGATE) and the patient organization German Allergy and Asthma Association (DAAB).**
+    Allergo J Int. 2014;23(3):96-112. doi: 10.1007/s40629-014-0009-1.
 
 
 S
@@ -1436,7 +1487,7 @@ Z
 	Lee A Green, Joseph L Izzo, Daniel W Jones, et al. 2003.
 	**The Seventh
 	Report of the Joint National Committee on Prevention, Detection,
-	Evaluation and Treatment of High Blood Pressure: The Jnc 7 Report.”
+	Evaluation and Treatment of High Blood Pressure: The Jnc 7 Report.**
 	*JAMA* 289 (19). Department of Medicine, Boston University School of
 	Medicine, Boston, Mass, USA.: 2560–72.
 
@@ -1555,7 +1606,7 @@ Z
 	Dengler, V., P. Wilde, C. Byhahn, M. G. Mack and R. Schalk. 2011.
 
 	**[Prehospital Airway Management of Laryngeal Tubes. Should the Laryngeal
-	Tube S with Gastric Drain Tube Be Preferred in Emergency Medicine?].”
+	Tube S with Gastric Drain Tube Be Preferred in Emergency Medicine?].**
 	*Anaesthesist* 60 (2). Klinik für Anästhesiologie, Intensivmedizin und
 	Schmerztherapie, Klinikum der J.W. Goethe-Universität Frankfurt a.M.,
 	Theodor-Stern-Kai 7, Frankfurt a.M., Germany.: 135–38.
@@ -1572,7 +1623,7 @@ Z
 	Deutsches Institut für Medizinische Information und Dokumentation. 2011.
 
 	**Internationale Statistische Klassifikation Der Krankheiten Und
-	Verwandter Gesundheitsprobleme.”
+	Verwandter Gesundheitsprobleme.**
 
 
 
@@ -1687,15 +1738,6 @@ Z
 
 
 
-
-
-
-.. [SiewertChirurgie8-06-Gefaesschirurgie]
-
-	Eckstein, H.-H., P. Heider, O. Wolf und M. Hanke:
-	2006.In *Chirurgie*,
-	edited by Rüdiger Siewert,
-	8. Auflage, , 434–92. Springer-Verlag.
 
 
 
@@ -2721,7 +2763,7 @@ Z
 	Hendrik Jan Ankersmit and Martin Dworschak. 2010.
 	**Impaired Recovery of
 	Cardiac Output and Mean Arterial Pressure After Successful
-	Defibrillation in Patients with Low Left Ventricular Ejection Fraction.”
+	Defibrillation in Patients with Low Left Ventricular Ejection Fraction.**
 	*Resuscitation* 81 (9). Division of Cardiothoracic; Vascular
 	Anaesthesia; Intensive Care Medicine, Medical University of Vienna,
 	Waehringer Guertel 18-20, A-1090, Vienna, Austria.: 1123–7.
@@ -2774,7 +2816,7 @@ Z
 .. [Stiell:2008]
 
 	Stiell, Ian G, Lisa P Nesbitt, William Pickett, Douglas Munkley, Daniel W Spaite, Jane Banek, Brian Field, et al.:
-	**The Opals Major Trauma Study: Impact of Advanced Life-Support on Survival and Morbidity.”
+	**The Opals Major Trauma Study: Impact of Advanced Life-Support on Survival and Morbidity.**
 	*CMAJ*
 	2008:178 (9), 1141–52.
 	doi:\ `10.1503/cmaj.071154 <https://doi.org/10.1503/cmaj.071154>`__.
@@ -2917,7 +2959,7 @@ Z
 	and V. Dörges. 2012.
 	**Handlungsempfehlung Für Das Präklinische
 	Atemwegsmanagement Für Notärzte Und Rettungsdienstpersonal. Beschluss
-	Des Engeren Präsidiums Der Dgai Vom 18.04.2012 in Frankfurt Am Main.”
+	Des Engeren Präsidiums Der Dgai Vom 18.04.2012 in Frankfurt Am Main.**
 	*Anästh Intensivmed* 53: 294–308.
 	http://www.dgai.de/eev/EEV_AI_05-2012_Verbaende_Timmermann.pdf.
 
@@ -3068,7 +3110,7 @@ Z
 
 
 .. [Vbv:2002]
-	**Verordnung des Bundesministers für Wirtschaft und Arbeit über sicherheitstechnische Bestimmungen für Versandbehälter — Versandbehälterverordnung 2002 idF: BGBl. Ii Nr. 347/2005.”
+	**Verordnung des Bundesministers für Wirtschaft und Arbeit über sicherheitstechnische Bestimmungen für Versandbehälter — Versandbehälterverordnung 2002 idF: BGBl. Ii Nr. 347/2005.**
 	2005. BGBl. II Nr. 347/2005.
 
 
@@ -3330,7 +3372,7 @@ Z
 
 .. [wiki:pseudokrupp]
 
-	———. 2010.
+	2010.
 	**Pseudokrupp — Wikipedia, Die Freie Enzyklopädie.**
 	http://de.wikipedia.org/w/index.php?title=Pseudokrupp&oldid=70531371.
 
@@ -3342,7 +3384,7 @@ Z
 
 .. [wiki:zivilschutzsignale:20120810]
 
-	———. 2012.
+	2012.
 	**Zivilschutzsignale.** Wikipedia, Die freie Enzyklopädie.
 	http://de.wikipedia.org/w/index.php?title=Zivilschutzsignale&oldid=105758278.
 
@@ -3385,7 +3427,7 @@ Z
 	World Health Organization. n.d.
 	**International Statistical
 	Classification of Diseases and Related Health Problems 10th Revision –
-	Deutsche übersetzung.”
+	Deutsche übersetzung.**
 
 
 

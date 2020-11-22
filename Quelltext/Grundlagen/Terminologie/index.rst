@@ -3,7 +3,7 @@ Terminologie (#29)
 ##################
 
 Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung
-mit anderem Fachpersonal. [Bertelsmann:25]_ [Pschy:259]_
+mit anderem Fachpersonal. [Bertelsmann:25]_ [Pschyrembel:259]_
 
 
 Allgemeine Begriffe: Klinik – Diagnose – Therapie
@@ -123,10 +123,8 @@ Beschreibung von Krankheiten und Symptomen
 :index:`akut`
     plötzlich; rascher Handlungsbedarf
 
-
 :index:`chronisch`
     dauerhaft, wiederkehrend
-
 
 :index:`rezidivierend`
      wiederkommend, neuerlich
@@ -142,24 +140,20 @@ Stoffe
 :index:`Aminosäure`
     Bausteine von Proteinen.
 
-
 :index:`Base`
     *Syn.* *Lauge*. Stoff, welcher Protonen aufnehmen kann.
-    Sie reagieren mit Säuren und bilden Salze. (Schmuck et al. 2008)
-
+    Sie reagieren mit Säuren und bilden Salze. [SchmuckChemie:1]_
 
 :index:`Enzym`
     Hilfsstoff, welcher eine chemische Reaktion (Umwandlung
     von Stoffen in andere Stoffe) begünstigt.
 
-
 :index:`Protein`
     Eiweiß. Proteine werden aus Aminosäuren zusammengesetzt.
 
-
 :index:`Säure`
     Stoff, welcher Protonen abgeben kann. Sie reagieren mit Basen und
-    bilden Salze. (Schmuck et al. 2008).
+    bilden Salze. [SchmuckChemie:1]_.
 
 
 
@@ -170,7 +164,7 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 :index:`Chirurgie`
     Fachgebiet zur Erkennung und Behandlung von Erkrankungen, welche
     ohne operative Maßnahmen zu gesundheitlichen Schäden oder dem Tod
-    führen würden [Pschyrembel:2002]_. Man kann weitere Spezialgebiete
+    führen würden [Pschyrembel:259]_. Man kann weitere Spezialgebiete
     unterscheiden, z. B. Allgemeinchirurgie (Bauch), Gefäßchirurgie,
     Herzchirurgie, Thoraxchirurgie, Kinderchirurgie, Plastische
     Chirurgie etc. Daneben gibt es noch viele andere operative Fächer.
@@ -294,7 +288,8 @@ Sonstige Begriffe
 
 
 :index:`Obstruktion`, :index:`Verlegung`
-    Verlegung, Verengung. z. B. im Rahmen der COPD (:ref:`Thema-copd`).
+    Verlegung, Verengung. z. B. im Rahmen der
+    :ref:`COPD <Thema-copd>`.
 
 
 

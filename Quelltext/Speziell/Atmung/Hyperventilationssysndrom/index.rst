@@ -11,7 +11,8 @@ Hyperventilationssyndrom und -tetanie (#36)
 *********************************************
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Hyperventilationssysndrom
 
         -   Tiefe, schnelle Atmung bei sonst gesundem Menschen
@@ -41,7 +42,8 @@ ABCDE: Hyperventilationssyndrom
 ===============================
 
 
-..
+.. only:: not latex
+
     .. sidebar:: 1234ABCDE
 
         **1**
@@ -129,7 +131,8 @@ ABCDE: Hyperventilationssyndrom
 SAMPLER: Hyperventilationssyndrom
 =================================
 
-..
+.. only:: not latex
+
     .. sidebar:: SAMPLER
 
         **E**

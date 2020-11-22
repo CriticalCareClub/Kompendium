@@ -55,7 +55,7 @@ Ziele der Kommunikation sind:
     Untersuchung oder Maßnahme über diese aufzuklären.
     Das *Recht auf
     Aufklärung* ist nach der *Grundrechtecharta* der EU ein
-    *Grundrecht*\[#Fn-AufklaerungGrundrechtEu]_.
+    *Grundrecht* [#Fn-AufklaerungGrundrechtEu]_.
 
     Vor allem ist es aber eine Frage des Respekts gegenüber dem Patienten
     ihm zu sagen,
@@ -135,7 +135,7 @@ Die Nachricht kann *durch Störungen verfälscht* werden.
 Diese Störung
 kann auftreten:
 
--    Beim *Sender*: Der Sender sagt nicht was er sagen will,
+-   Beim *Sender*: Der Sender sagt nicht was er sagen will,
     undeutliche Sprache,
     Sprachschwierigkeiten,
     falsch verstandene Fachsprache, …
@@ -191,7 +191,7 @@ ob und wie er die Botschaft verstanden hat.
 Aussagen einer Nachricht
 ========================
 
-Jede Nachricht hat vier Aussagen[#Fn-VierAussagenEinerNachricht]_:
+Jede Nachricht hat vier Aussagen [#Fn-VierAussagenEinerNachricht]_\ :
 
 -   *Sachaussage*: Hier vermittelt der Sender Daten, Fakten und
     Sachverhalte.
@@ -276,18 +276,19 @@ Allgemeine Grundregeln und Ratschläge
 =====================================
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Allgemeine Grundregeln
 
-    -   Vorstellen
-    -   auf Augenhöhe mit dem Patienten
-    -   deutliche, einfache Sprache
-    -   aktives Zuhören
-    -   Verstehen der Antworten
-    -   nur eine Frage gleichzeitig
-    -   Informieren über die Maßnahmen
-    -   Aufrichtigkeit
-    -   Bezugsperson
+        -   Vorstellen
+        -   auf Augenhöhe mit dem Patienten
+        -   deutliche, einfache Sprache
+        -   aktives Zuhören
+        -   Verstehen der Antworten
+        -   nur eine Frage gleichzeitig
+        -   Informieren über die Maßnahmen
+        -   Aufrichtigkeit
+        -   Bezugsperson
 
 Ein gut geführtes Patientengespräch ist durch folgende Merkmale
 gekennzeichnet:
@@ -304,7 +305,7 @@ gekennzeichnet:
 
 -   *Deutlichkeit und Einfachheit*: Eine deutliche und einfache
     Ausdrucksweise ist besonders wichtig um Missverständnisse zu
-    vermeiden und schnell zur gewünschten Information zu kommen.[#Fn-PatientHoerhilfen]_
+    vermeiden und schnell zur gewünschten Information zu kommen. [#Fn-PatientHoerhilfen]_
     Fachbegriffe sind zu vermeiden!
 
 -   *Aktives Zuhören*: Die Antworten des Patienten müssen bei Helfer

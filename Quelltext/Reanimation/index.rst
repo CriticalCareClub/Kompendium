@@ -74,9 +74,8 @@ ERC-Guidelines, deutsche Übersetzung:
 ALS Der ALS-Algorithmus [Emhofer, nach  [ERC:2015:03]_\ ]
 
 
-***********
-Anmerkungen
-***********
+.. rubric:: Anmerkungen
+
 
 Infektionen
    Die Ansteckungsgefahr mit Krankheiten im Rahmen einer Reanimation ist

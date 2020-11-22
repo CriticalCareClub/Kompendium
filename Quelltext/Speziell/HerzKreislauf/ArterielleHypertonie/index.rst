@@ -13,15 +13,14 @@ Arterielle Hypertonie (#42)
 Beschreibung
 ************
 
-..
+.. only:: not latex
+
     .. sidebar:: Beschreibung
 
-        -  Chronische Erhöhung des arteriellen Blutdrucks
-
-        -  Risikofaktor für Herz-/Kreislauferkrankungen
-
-        -  Bei *Schwangeren* sind die Grenzwerte genau zu beachten!
-        (*EPH-Gestose*)!
+        -   Chronische Erhöhung des arteriellen Blutdrucks
+        -   Risikofaktor für Herz-/Kreislauferkrankungen
+        -   Bei *Schwangeren* sind die Grenzwerte genau zu beachten!
+            (*EPH-Gestose*)!
 
 .. admonition:: Beschreibung
 
@@ -59,7 +58,8 @@ und behandelt werden.
 Langzeitfolgen
 **************
 
-..
+.. only:: not latex
+
     .. sidebar:: Langzeitschäden
 
         -  *Gefäßschädigung*
@@ -223,7 +223,8 @@ ABCDE
 SAMPLER
 =======
 
-..
+.. only:: not latex
+
     .. sidebar:: SAMPLER
 
         ``S``

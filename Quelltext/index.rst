@@ -44,11 +44,12 @@ Arbeits- und Ausbildungsstandards für den Sanitätsdienst
 
     Prolog/index.rst
     Grundlagen/index.rst
+    AnatomiePhysiologie/index
+    Skills/index
     StrukturiertePatientenbetreuung/index.rst
     AirwayBreathing/index
     Reanimation/index.rst
     Speziell/index.rst
-    Inkubator/index.rst
     Appendix/index.rst
 
 

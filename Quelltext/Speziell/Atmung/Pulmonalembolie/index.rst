@@ -12,7 +12,8 @@
 Pulmonalembolie (#39)
 **************************
 
-..
+.. only:: not latex
+
     .. sidebar:: Lungenembolie
 
         -   Verschluss einer Lungenarterie
@@ -46,7 +47,8 @@ ABCDE: Pulmonalembolie
 ======================
 
 
-..
+.. only:: not latex
+
     .. sidebar:: 1234ABCDE
 
         **1**
@@ -124,7 +126,8 @@ ABCDE: Pulmonalembolie
 SAMPLER: Pulmonalembolie
 ========================
 
-..
+.. only:: not latex
+
     .. sidebar:: SAMPLER
 
         **M**
@@ -178,7 +181,7 @@ Maßnahmen: Pulmonalembolie
     Maßnahmen COPD: Anpassung an höherqualifiziertes Personal
 
 
-Taktik: 
+Taktik:
     **Vitale Bedrohung!**
     Atemnot lindern, rasche medikamentöse Therapie, ärztliche Therapie sinnvoll
 

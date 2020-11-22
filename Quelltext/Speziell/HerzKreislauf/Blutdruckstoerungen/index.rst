@@ -11,7 +11,8 @@ Hypotonie
 Beschreibung und Richtwert
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-..
+.. only:: not latex
+
     .. sidebar:: Beschreibung und Richtwert
 
         -  Erwachsener: RR\ :sub:`sys` < ca. 100mmHg

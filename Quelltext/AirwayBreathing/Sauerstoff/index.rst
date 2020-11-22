@@ -8,23 +8,19 @@ Sauerstoff – O₂ (#24)
 ########################
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Sauerstoff
 
-    -  Medizinischer Sauerstoff: Vollständig weiß
+        -   Medizinischer Sauerstoff: Vollständig weiß
+        -   Gefahrengutaufkleber
+        -   Unterschiedliche Füllgrößen
+        -   Druck ca. 200 bar
+        -   Hauptventil mit Standardgewinde
+        -   Daran Druckminderer/Berieselungseinheit angeschlossen
 
-    -  Gefahrengutaufkleber
-
-    -  Unterschiedliche Füllgrößen
-
-    -  Druck ca. 200 bar
-
-    -  Hauptventil mit Standardgewinde
-
-    -  Daran Druckminderer/Berieselungseinheit angeschlossen
-
-        -  Gasflaschen mit *medizinischem* Sauerstoff sind *vollständig
-            weiß*.
+            -   Gasflaschen mit *medizinischem* Sauerstoff sind
+                *vollständig weiß*.
 
 
 
@@ -447,7 +443,8 @@ sodass die Sauerstoffsättigung
 O₂-Zufuhr bei der Beatmung mittels Beatmungsbeutel
 =========================================================
 
-..
+.. only:: not latex
+
     .. sidebar:: O₂-Zufuhr bei Beatmung
 
         -  Beamtungsbeutel:

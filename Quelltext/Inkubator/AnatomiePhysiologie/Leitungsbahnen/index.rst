@@ -1,6 +1,0 @@
-:orphan:
-
-
-.. attention::
-
-    |Text-InkubatorInhalt|

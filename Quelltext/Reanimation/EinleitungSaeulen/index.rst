@@ -42,7 +42,8 @@ in eigenen Kapiteln behandelt.
 Hintergrund: ERC-Leitlinien
 ***********************************************************************
 
-..
+.. only:: not latex
+
     .. sidebar:: ERC
 
         -  Leitlinien zur Reanimation

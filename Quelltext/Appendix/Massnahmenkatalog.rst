@@ -92,7 +92,7 @@ aufgeschoben werden
         bei einer Transportverweigerung oder vermeintlich nicht
         vorliegender Behandlungsbedürftigkeit/Spitalspflichtigkeit
         vorzugehen hat, ist nach wie vor nicht
-        zufriedenstellend beantwortet.\[#Belassung]_
+        zufriedenstellend beantwortet. [#Belassung]_
 
 - Ggfs. Übergabe an weiterbehandelndes Personal
 
@@ -155,7 +155,7 @@ Reihenfolge zählt!
     Je nach vorhandenem Material
 
     RR, HF, Pulsoxymetrie, EKG,
-    Sitzwache/Patientenbeobachtung, etc.[#Patientenbeobachtung]_
+    Sitzwache/Patientenbeobachtung, etc. [#Patientenbeobachtung]_
 
 #.  **Reanimationsbereitschaft** herstellen
     (:ref:`m-reanimationsbereitschaft`)
@@ -182,7 +182,7 @@ Reanimationsbereitschaft
 ========================
 
 
-#.  Ggfs. Platz schaffen[#PlatzSchaffen]_
+#.  Ggfs. Platz schaffen [#PlatzSchaffen]_
 #.  Geräte vorbereiten:
 
     #.  **Beatmungsbeutel**

@@ -7,7 +7,8 @@ Beschreibung: Aneurysma allgmein
 ********************************
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Aneurysma
 
         -  Aussackung eines Blutgefäßes
@@ -58,7 +59,8 @@ Anmerkung
 ---------
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Anmerkungen
 
         -  Gefäßwandaussackung

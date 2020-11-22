@@ -6,7 +6,8 @@ Chronische Bronchitis und COPD (#35)
 **************************************
 
 
-..
+.. only:: not latex
+
     .. sidebar:: COPD
 
         -   Husten mit Auswurf, anfänglich “Raucherhusten”
@@ -65,7 +66,8 @@ durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
 Probleme mit Sauerstoff bei COPD-Patienten
 ==========================================
 
-..
+.. only:: not latex
+
     .. sidebar:: COPD und O₂
 
         -   Atemantrieb normalerweise durch *CO₂*-Spiegel
@@ -122,7 +124,8 @@ einem Atemstillstand kommen.
 ===============
 
 
-..
+.. only:: not latex
+
     .. sidebar:: 1234ABCDE
 
         ``1``
@@ -209,7 +212,8 @@ einem Atemstillstand kommen.
 SAMPLER: COPD
 =============
 
-..
+.. only:: not latex
+
     .. sidebar:: SAMPLER
 
         ``M``

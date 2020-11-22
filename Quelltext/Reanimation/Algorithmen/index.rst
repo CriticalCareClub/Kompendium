@@ -3,7 +3,8 @@
 Algorithmen Herz-Lungen-Wiederbelebung
 **************************************
 
-..
+.. only:: not latex
+
     .. sidebar:: Einleitung
 
         -  ERC-Leitlinien
@@ -75,7 +76,7 @@ vor:
 #.  **Notruf, Hilferuf**:
     Ist der *Patient nicht ansprechbar* wird,
     falls notwendig, ein Hilferuf bzw. Notruf abgesetzt.
-    Idealerweise deligiert man diese Aufgabe an einen zusätzlichen Helfer
+    Idealerweise delegiert man diese Aufgabe an einen zusätzlichen Helfer
     um das weitere Vorgehen nicht zu verzögern.
 
 #.  ``A`` **Kopf überstrecken**:
@@ -176,9 +177,9 @@ siehe :ref:`Figure-Bls-Aed-Algorithmus` … Algorithmus BLS mit AED
 
 .. figure:: /Bilder/EmhoferJosef-Ccc/ReanimationBls-2015-4.*
 
-	    Basic Life Support mit AED.[Table-algorithmus-bls-aed]
+    Basic Life Support mit AED.[Table-algorithmus-bls-aed]
 
-           [Josef Emhofer, nach  [ERC:2015:02]_\ ]
+    [Josef Emhofer, nach  [ERC:2015:02]_\ ]
 
 .. only:: html
 

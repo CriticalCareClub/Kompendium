@@ -13,7 +13,8 @@
 Allgemein: Störungen der Atemwege und der Atmung (#33)
 *******************************************************
 
-..
+.. only:: not latex
+
     .. sidebar:: Atemstörungen
 
         -   Ateminsuffizienz ... nicht ausreichende Atmung
@@ -45,7 +46,8 @@ Atemnot.
 Gefahr der Ateminsuffizienz
 ===========================
 
-..
+.. only:: not latex
+
     .. sidebar:: Gefahr der Ateminsuffizienz
 
         -   O₂-Gehalt im Blut ↓ (Hypoxie)
@@ -104,7 +106,8 @@ Befunde
 =======
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Befunde
 
         -   Zyanose, Atemnot

@@ -56,7 +56,8 @@ sie ist eine Kardioversion bei Kammerflimmern.\ [322]_
 Defibrillatoren
 ---------------
 
-..
+.. only:: not latex
+
     .. sidebar:: Defibrillatoren
 
         - Halbautomatische Defibrillatoren (AED)
@@ -128,7 +129,8 @@ außerplanmäßige Situation flexibler reagiert werden (Intubation, …).
 Elektrische Herzrhythmen
 ------------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: Herzrhythmen
 
         -  schockbare Rhythmen
@@ -302,7 +304,8 @@ Allgemein lässt sich jedoch sagen:
 Verwendung eines manuellen Defibrillators
 -----------------------------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: Defibrillator, Verwendung
 
         -  Verwenden gem. Bedienungsanleitung!

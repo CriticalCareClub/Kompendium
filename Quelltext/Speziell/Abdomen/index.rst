@@ -3,24 +3,11 @@
 Abdominale Störungen (#56)
 ##########################################################
 
-
-
 Der Bauch ist eine echte Herausforderung. Er beinhaltet viele
 unterschiedliche Organe und Strukturen welche weh tun und erkranken
 können. Viele dieser, oft auch mit starken Schmerzen verbundenen
 Störungen sind nicht übermäßig schlimm, einige sind jedoch sehr
 gefährlich oder können rasch gefährlich werden.
-
-:Maintainer:
-    Sebastian Gabriel
-
-:Autoren:
-    Diverse
-
-:Reviewer:
-    Standard-Reviewprozess
-
-
 
 ***********
 Allgemeines
@@ -33,36 +20,28 @@ Es ist wichtig typische Symptome zu erheben und Alarmzeichen sofort zu
 erkennen. Wesentlich ist bei allen unklaren Bauchbeschwerden die
 Erhebung einer exakten *Stuhlanamnese*:
 
--  Auffälligkeiten? (Geruch, Farbe, Konsistenz, Frequenz)
-
--  Blutbeimengungen
-
--  Wann erfolgte der letzte Stuhlgang?
-
--  Winde?
-
--  Genaue Beschreibung von Harn und eventuell Erbrochenem.
-
--  Bei Frauen im gebärfähigem Alter Regelanamnese.
+-   Auffälligkeiten? (Geruch, Farbe, Konsistenz, Frequenz)
+-   Blutbeimengungen
+-   Wann erfolgte der letzte Stuhlgang?
+-   Winde?
+-   Genaue Beschreibung von Harn und eventuell Erbrochenem.
+-   Bei Frauen im gebärfähigem Alter Regelanamnese.
 
 Der Patient muss bis zur endgültigen Klärung der Situation *nüchtern*
 belassen werden! Wenn es der Patient toleriert, muss eine Betrachtung
 und Abtastung des Abdomens beim liegenden Patienten erfolgen wie unter
 :ref:`Thema-untersuchung-abdomen-abtasten` beschrieben.
 
--  Stuhl
+..
+    .. sidebar:: Bauch
 
-   -  Wann letzter?
-
-   -  Auffälligkeiten
-
-   -  Farbe, Konsistenz
-
--  Erbrochen?
-
--  Blut?
-
--  Regel?
+        -   Stuhl
+        -   Wann letzter?
+        -   Auffälligkeiten
+        -   Farbe, Konsistenz
+        -   Erbrochen?
+        -   Blut?
+        -   Regel?
 
 Der schmerzende Bauch
 ---------------------
@@ -73,22 +52,18 @@ Der Bauch – unendliche Weiten
 Gleich vorweg: In vielen Fällen wird der Grund des Bauchschmerzes nicht
 mit hinreichender Sicherheit feststellbar sein und es bietet sich keine
 sichere Verdachtsdiagnose an. Statt einer Diagnose wird dann das
-*Beschwerdebild beschrieben* (Ort des Schmerzes, Art des Schmerzes,
-Dauer, Verlauf, Austrahlung, Ergebnis der abdominellen Tastuntersuchung:
-Abdomen weich oder hart, Druckschmerz, Loslassschmerz). Dennoch muss man
+*Beschwerdebild beschrieben*
+(Ort des Schmerzes, Art des Schmerzes,
+Dauer, Verlauf, Ausstrahlung, Ergebnis der abdominellen Tastuntersuchung:
+Abdomen weich oder hart, Druckschmerz, Loslassschmerz).
+Dennoch muss man
 bei jedem Patienten versuchen, so gut als möglich die in Frage kommenden
 Krankheitsbilder einzugrenzen und gefährliche Erkrankungen nach
 Möglichkeit auszuschließen. Im folgenden sind einige häufige
 Krankheitsbilder beschrieben, die *erkennbar* und relativ häufig sind.
 
--  In vielen Fällen Krankheitsbild unklar
 
--  Im Zweifel: Beschreibung statt Diagnose
-
-Beispiele
----------
-
-für Beschreibungen:
+.. rubric:: Beispiele für Beschreibungen:
 
     **Diagnose:** Unklarer Bauchschmerz: Kolikartige Schmerzen im linken
     Unterbauch seit 1/2h
@@ -110,8 +85,8 @@ für Beschreibungen:
 .. _CKXXXX1C:
 .. _m-am-abdominalerkrankungen:
 
-Maßnahmen: Abdominalerkrankung
-------------------------------
+℞ Maßnahmen: Abdominalerkrankung
+------------------------------------
 
 .. todo:: Maßnahme CKXXXX1C: Anpassung an höherqualifiziertes Personal
 
@@ -132,13 +107,22 @@ Häufige und gut erkennbare Erkrankungen
 Das Akute Abdomen
 =================
 
-Beschreibung
-------------
-
 Das :dfn:`Akutes Abdomen` :index:`\ <! Akutes Abdomen>` ist eine akute Erkrankung des
 Bauchraumes mit plötzlichen, starken *Bauchschmerzen* und *bretthartem
 Bauch*, welche im weiteren Verlauf lebensbedrohlich ist. Es sind
-verschiedene Ursachen möglich.\  [250]_
+verschiedene Ursachen möglich.\ [#AkutesAbdomen]_
+
+
+.. [#AkutesAbdomen]
+   Akutes Abdomen, Definition: Die Definition des Akuten Abdomens ist
+   oft nicht ganz eindeutig: Einerseits kann man darunter jede plötzlich
+   auftretende Baucherkrankung verstehen [Longmore:7]_
+   [Renz-Polster:2006]_.
+   Allerdings verstehen viele
+   Leute darunter eher eine bedrohliche Baucherkrankung, bei der man
+   akut (schnell) handeln muss (Abwehrspannung, harter Bauch). In der
+   Notfallmedizin halten wir uns an letztere Definition.
+
 
 Die zu Grunde liegenden
 Erkrankungen kann plötzlich entstehen, oder sich über längere Zeit
@@ -146,23 +130,16 @@ entwickeln und erst im fortgeschrittenen Stadium die Symptome des akuten
 Abdomens auslösen. Ein akutes Abdomen erfordert eine rasche
 (spitalsmäßige) Behandlung.
 
--  Akute Erkrankung des Bauchraumes mit
-
-   -  Bauchschmerzen
-
-   -  Brettharte Bauchdecke
-
--  Verschiedene Ursachen
 
 Symptome
 --------
 
 Der Patient liegt meistens im Bett. Oft ist eine Schonhaltung
 (angezogene Beine, gekrümmte Körperhaltung) zu beobachten. Er klagt über
-*Schmerzen* im Bauch, diese können als diffus (im gesamten Bauch) oder
+**Schmerzen** im Bauch, diese können als diffus (im gesamten Bauch) oder
 auf ein Bauchsegment beschränkt angegeben werden.
 
-Die *harte Bauchdecke* (“*bretthart*”) ist neben den Schmerzen das
+Die **harte Bauchdecke** (“*bretthart*”) ist neben den Schmerzen das
 Leitsymptom des Akuten Abdomens. Es besteht oft Übelkeit oder auch
 Erbrechen. Der Kreislauf kann kompensiert sein, oder Zeichen von
 Schwäche zeigen, bis hin zu einer Schocksymptomatik (Blutverlust,
@@ -180,19 +157,9 @@ nach Eintreffen beim Patienten ist die Beantwortung der Fragen *“Wie
 schlecht, bzw. wie gut geht es dem Patienten? Ist der Patient vital
 bedroht?”*.
 
--  *Schmerz*: diffus (ganzer Bauch) oder lokalisierbar
+.. admonition:: Synopsis
 
--  *Harte Bauchdecke* (bretthart)
-
--  Schonhaltung (angezogene Beine, Patient krümmt sich)
-
--  Übelkeit, Erbrechen
-
--  Evtl. Stuhl-, Windverhalten
-
--  Evtl. Fieber
-
--  Evtl. Schock
+    Das akute Abdomen ist charakterisiert durch Bauchschmerzen und eine harte Bauchdecke.
 
 Ursachen
 --------
@@ -219,15 +186,6 @@ sind auch die Ursachen:
 
 -  …
 
--  Entzündungen (Bauchfell, Blinddarm, Pankreatitis, …)
-
--  Perforation eines Hohlorganes
-
--  Blutungen (Aneurysma, Eileiterschwangerschaft, …)
-
--  Gynäkologische Erkrankungen
-
--  u.v.a.m. …
 
 
 .. _CR10000C:
@@ -251,17 +209,17 @@ Basismaßnahmen
         verschlechtern.
 
 
-Darmverschluss
-==============
+Darmverschluss (Ileus)
+======================
 
 .. _Thema-ileus:
 
-Beschreibung
-------------
-
-Als :dfn:`Darmverschluss` :index:`\ <! Darmverschluss>` bezeichnet man die Unterbrechung
-der normalen Darmpassage. *Term.* :dfn:`Ileus` :index:`\ <! Ileus>`
-(vollständig), :dfn:`Subileus` :index:`\ <! Subileus>` (unvollständig)
+Als :dfn:`Ileus` (*Darmverschluss*)
+:index:`\ <! Darmverschluss>`
+:index:`\ <! Ileus>`
+bezeichnet man die Unterbrechung
+der normalen Darmpassage.
+Diese kann vollständig oder unvollständig (:dfn:`Subileus` :index:`\ <! Subileus>`) sein.
 
 Der Verschluss kann mechanisch bedingt sein (durch Hindernisse wie
 Verwachsungen oder Tumore), oder durch eine Lähmung der Darmmuskulatur
@@ -269,21 +227,15 @@ Verwachsungen oder Tumore), oder durch eine Lähmung der Darmmuskulatur
 Schmerzmittel (Opiate), welche oft bei Krebspatienten eingesetzt werden,
 sind bekannt dafür Darmlähmungen zu erzeugen.
 
--  Mechanische Blockade oder Lähmung
 
 Symptome
 --------
 
 Typisch für den Darmverschluss ist die mangelhafte Stuhlproduktion. Es
 kommt zu diffusen Bauchschmerzen und einem Blähbauch, sowie zu Übelkeit
-und Erbrechen. In seltenen Fällen kann es auch zum Erbrechen von zurück
+und Erbrechen.
+In extremen Fällen kann es auch zum Erbrechen von zurück
 gestautem Kot kommen (*Miserere)* :index:`\ <Miserere\|Z>`.
-
--  Diffuse Bauchschmerzen
-
--  Stuhlverhalten
-
--  Übelkeit, Erbrechen (selten: Miserere (Koterbrechen))
 
 
 .. _CK56070C:
@@ -307,14 +259,33 @@ Basismaßnahmen
 Appendizitis (Blinddarmentzündung)
 ==================================
 
-Beschreibung, Symptome  und Verlauf
------------------------------------
+
+..
+    .. sidebar:: Appendizitis
+
+        -  Schmerzen im re. Unterbauch
+
+        -  *Druck*\ schmerzen im re. Unterbauch
+
+        -  *Loslass*\ schmerz li. Bauch
+
+        -  Abwehrspannung
+
+        -  Übelkeit, Erbrechen
+
+        -  Evtl. Fieber
+
+        -  Evtl. uncharakteristisch oder untypisch
 
 Als :dfn:`Appendizitis` :index:`\ <! Appendizitis>`
 bezeichnet man die Entzündung des
 *Wurmfortsatzes* (*Appendix* vermiformis) des Blinddarms.
 Umgangssprachlich wird oft (fälschlicherweise) der Begriff
 **Blinddarmentzündung** verwendet.
+
+
+Symptome
+-----------------------------------
 
 Im Vordergrund der akuten
 Appendizitis steht anfänglich ein meist *diffuser Schmerz* im Bereich
@@ -323,26 +294,14 @@ Unterbauch* wandert. Übelkeit, Brechreiz und Verstopfung können das
 Krankheitsbild begleiten. Meist ist die Körpertemperatur bis 38 leicht
 erhöht. Unbehandelt kann es zu einer Eiterung und einem *Durchbruch* in
 die Bauchhöhle, einer anschließenden Bauchfellentzündung und einem
-akuten Abdomen kommen (:ref:`Thema-akutes-abdomen`). Der Verlauf einer akuten
-Appendizitis ist jeweils durch individuelle Faktoren wie Lebensalter und
-Allgemeinzustand des Patienten geprägt. Nicht selten sind die Symptome
+akuten Abdomen kommen (:ref:`Thema-akutes-abdomen`).
+Der Verlauf einer akuten Appendizitis ist jeweils durch individuelle Faktoren wie Lebensalter und
+Allgemeinzustand des Patienten geprägt.
+Nicht selten sind die Symptome
 jedoch völlig uncharakteristisch und evtl. sogar untypisch, sodass eine
 Diagnose selbst mit erweiterten Untersuchungsmethoden schwierig sein
 kann.
 
--  Schmerzen im re. Unterbauch
-
--  *Druck*\ schmerzen im re. Unterbauch
-
--  *Loslass*\ schmerz li. Bauch
-
--  Abwehrspannung
-
--  Übelkeit, Erbrechen
-
--  Evtl. Fieber
-
--  Evtl. uncharakteristisch oder untypisch
 
 
 
@@ -364,9 +323,6 @@ Basismaßnahmen
 Gallenkolik
 ===========
 
-Beschreibung
-------------
-
 Eine :dfn:`Gallenkolik` :index:`\ <! Gallenkolik>`
 zeichnet sich durch kolikartige
 Schmerzen infolge einer Blockade der Gallenwege z. B. durch Gallensteine
@@ -376,11 +332,14 @@ Verstopfung des Gallengangs und folglich einen Rückstau von
 Gallenflüssigkeit in die Leber. Dabei wird der Gallengang gedehnt und es
 kommt zu starken Dehnungsschmerzen.
 
--  Verstopfung der Gallenwege (Stein)
+..
+    .. sidebar:: Gallenkolik
 
--  Rückstau und Dehnung
+        -  Verstopfung der Gallenwege (Stein)
 
--  Kolikartiger Schmerz
+        -  Rückstau und Dehnung
+
+        -  Kolikartiger Schmerz
 
 Symptome
 --------
@@ -393,13 +352,17 @@ Schulterregion. Begleitendes Fieber ist möglich.
 Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr
 *unruhig* und agitiert.
 
--  Kolikartige Schmerzen im re. Oberbauch
 
--  Nach fettreichen Mahlzeiten
+..
+    .. sidebar:: Symptome
 
--  Evtl. Gelbfärbung des Augenweiß (Gelbsucht)
+        -  Kolikartige Schmerzen im re. Oberbauch
 
--  Evtl. Übelkeit, Erbrechen
+        -  Nach fettreichen Mahlzeiten
+
+        -  Evtl. Gelbfärbung des Augenweiß (Gelbsucht)
+
+        -  Evtl. Übelkeit, Erbrechen
 
 
 
@@ -427,9 +390,6 @@ Gastrointestinale Blutungen und Ösophagusvarizenblutung
 =======================================================
 
 
-Beschreibung
-------------
-
 :dfn:`Gastrointestinale Blutungen` :index:`\ <! Gastrointestinale Blutungen>`
 sind Blutungen im Magen-Darm-Trakt.
 :dfn:`Ösophagusvarizenblutungen` :index:`\ <! Ösophagusvarizenblutungen>` sind
@@ -454,11 +414,15 @@ Unterscheidung nach der Stelle der Blutung ist wesentlich:
 -   Blutungen im *Endteil* kommen oft durch Hämorrhoiden oder Tumore zu
     Stande.
 
--   Oberer Teil: Ösophagusvarizen
 
-    (Oft bei Lebererkrankungen, hoher Blutverlust möglich)
+..
+    .. sidebar:: GI-Blutung
 
--   Diverse Erkrankungen, Tumore
+        -   Oberer Teil: Ösophagusvarizen
+
+            (Oft bei Lebererkrankungen, hoher Blutverlust möglich)
+
+        -   Diverse Erkrankungen, Tumore
 
 
 .. index::
@@ -478,18 +442,22 @@ Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz, man
 (:dfn:`Meläna` :index:`\ <! Meläna>`.
 Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
--   Oberer Teil: Erbrechen von
 
-    -   Blut im Schwall
+..
+    .. sidebar:: Symptome
 
-    -   Kaffeesatz-artiger Mageninhalt
+        -   Oberer Teil: Erbrechen von
 
--   Mittlerer Teil: Teerstuhl
+            -   Blut im Schwall
 
--   Endteil: Blutiger Stuhl
+            -   Kaffeesatz-artiger Mageninhalt
 
-    -   Der Patient kann aufgrund des Blutverlustes akut vital bedroht
-        sein, es besteht die Gefahr eines hypovolämischen Schocks.
+        -   Mittlerer Teil: Teerstuhl
+
+        -   Endteil: Blutiger Stuhl
+
+            -   Der Patient kann aufgrund des Blutverlustes akut vital bedroht
+                sein, es besteht die Gefahr eines hypovolämischen Schocks.
 
 .. _CK92020C:
 .. _m-blutung-verdauungstrakt:
@@ -519,14 +487,18 @@ Basismaßnahmen
 Magen-Darm-Grippe, Gastroenteritis, Lebensmittelvergiftung
 ==========================================================
 
+..
+    .. sidebar:: Ursachen
 
-Beschreibung und Ursachen
--------------------------
+        -   Vielfältig
 
-**Die :dfn:`Magen-Darm-Grippe` :index:`\ <! Magen-Darm-Grippe>` ist eine chronisch oder akut
+        -   Häufig Infektionen
+
+Die :dfn:`Magen-Darm-Grippe` :index:`\ <! Magen-Darm-Grippe>` ist eine chronisch oder akut
 verlaufende Entzündung der Magen- und der Dünndarmschleimhaut. *Syn.*
-*Brechdurchfall*, *gastrointestinaler Infekt*, *Gastroduodenitis*.** Die
-Gastroenteritis wird durch Erreger wie Bakterien oder Viren
+*Brechdurchfall*, *gastrointestinaler Infekt*, *Gastroduodenitis*.
+
+Die Gastroenteritis wird durch Erreger wie Bakterien oder Viren
 hervorgerufen. Es gibt völlig harmlose aber auch lebensbedrohliche
 Verlaufsformen, dies ist abhängig vom Erreger und letztendlich auch vom
 Alter des Patienten. Durch den Durchfall und das Erbrechen kann es zu
@@ -535,12 +507,22 @@ Patient nicht ausreichend trinken kann besteht die Gefahr der
 Austrocknung (*[Exsikkose!bei* :index:`\ <[Exsikkose!bei>` gostrointestinalem
 Infekt]Exsikkose).
 
--  Vielfältig
 
--  Häufig Infektionen
+
 
 Symptome
 --------
+
+..
+    .. sidebar:: Symtome
+
+        -  Erbrechen
+
+        -  Durchfall
+
+        -  Bauchschmerzen
+
+        -  Exsikkosezeichen
 
 Klassische Zeichen einer Magen-Darm-Grippe sind Erbrechen ( *Emesis*)
 und Durchfall ( *Diarrhoe*). Dazu hat der Patient meist starke, kaum
@@ -548,25 +530,13 @@ lokalisierbare Bauchschmerzen. Infolge des Erbrechens und des Durchfalls
 kann es zu einem erheblichen Wasser- und Elektrolytverlust und Symptomen
 der Exsikkose (:ref:`Thema-exsikkose`) kommen.
 
--  Erbrechen
 
--  Durchfall
-
--  Bauchschmerzen
-
--  Exsikkosezeichen
-
-Besonders gefährdet
--------------------
+.. rubric:: Besonders gefährdet
 
 Besonders betroffen davon sind Kleinkinder, da sie normalerweise einen
 höheren Wasseranteil am Körpergewicht haben. Die Symptome sind
 klassisch: Oberbauchkrämpfe, die ziemlich heftig sein können, Übelkeit,
 Erbrechen, Durchfälle. Exsikkose-Gefahr!
-
--  (Klein-)Kinder
-
--  Alte Menschen
 
 
 
@@ -592,12 +562,31 @@ Basismaßnahmen
 Flüssigkeitsmangel: Exsikkose
 =============================
 
-Beschreibung und Ursachen
--------------------------
 
-**Als :dfn:`Exsikkose` :index:`\ <! Exsikkose>` (:dfn:`Dehydratation` :index:`\ <! Dehydratation>`,
+..
+    .. sidebar:: Exsikkose
+
+        -  Mangel an Flüssigkeit
+
+            -  Flüssigkeitszufuhr ↓
+
+            -  Verminderter Trinkantrieb
+
+            -  Flüssigkeitsverlust ↑
+
+            -  Erbrechen, Durchfall
+
+            -  Starkes Schwitzen
+
+            -  Fieber (Feuchtigkeit wird vermehrt abgeatmet)
+
+        -  Medikamente
+
+Als :dfn:`Exsikkose` :index:`\ <! Exsikkose>` (:dfn:`Dehydratation` :index:`\ <! Dehydratation>`,
 *Austrocknung*) wird ein hochgradiger Mangel an Flüssigkeit im Körper
-bezeichnet.** Grundsätzlich wird (wurde) entweder *zu wenig Flüssigkeit
+bezeichnet.
+
+Grundsätzlich wird (wurde) entweder *zu wenig Flüssigkeit
 zugeführt* oder *zu viel Flüssigkeit an die Außenwelt abgegeben* (eine
 Kombination aus beidem ist natürlich auch möglich). Dafür gibt es
 jeweils sehr verschiedene Ursachen:
@@ -610,27 +599,24 @@ sowie *starkes Schwitzen* kommen. Bei *Fieber* wird auch vermehrt
 Feuchtigkeit abgeatmet, und natürlich können auch *Medikamente*
 entwässern.
 
--  Mangel an Flüssigkeit
-
--  Flüssigkeitszufuhr ↓
-
-   -  Verminderter Trinkantrieb
-
--  Flüssigkeitsverlust ↑
-
-   -  Erbrechen, Durchfall
-
-   -  Starkes Schwitzen
-
-   -  Fieber (Feuchtigkeit wird vermehrt abgeatmet)
-
-   -  Medikamente
-
 Die genannten Ursachen sind natürlich nur ein kleiner Teil von sehr
 vielen Möglichkeiten.
 
 Symptome
 --------
+
+..
+    .. sidebar:: Symtome
+
+        -  RR ↓
+
+        -  stehende Hautfalten
+
+        -  trockene, belegte Zunge
+
+        -  Elektrolytentgleisung
+
+        -  *Verwirrtheit, Schwindel, Apathie*
 
 Der Patient wirkt allgemein *geschwächt bis apathisch*, oft *verwirrt*,
 klagt über mehr oder minder heftiges Durstgefühl, ev. über Wadenkrämpfe
@@ -641,15 +627,6 @@ charakteristischerweise tiefliegend, die Nase wirkt auffallend spitz.
 Der RR ist mitunter sehr nieder, die HF eher hoch. *Der Patient ist bis
 zur Klärung der Situation nüchtern zu belassen!*
 
--  RR ↓
-
--  stehende Hautfalten
-
--  trockene, belegte Zunge
-
--  Elektrolytentgleisung
-
--  *Verwirrtheit, Schwindel, Apathie*
 
 *********************************************************
 Weniger häufige oder nicht-so-gut-erkennbare Erkrankungen
@@ -658,30 +635,45 @@ Weniger häufige oder nicht-so-gut-erkennbare Erkrankungen
 Magen- und Zwölffingerdarmgeschwür
 ==================================
 
-Beschreibung und Ursachen
--------------------------
+
+..
+    .. sidebar:: Magen- und Zwölffingerdarmgeschwür
+
+        -   Bakteriell
+
+        -   Medikamente
+
+        -   Chemisch-toxisch
+
+        -   Gallensäurenrückfluß
+
+        -   Autoimmunerkrankungen
 
 Ein :dfn:`Magengeschwür` :index:`\ <! Magengeschwür>` bzw.
 ein :dfn:`Zwölffingerdarmgeschwür` :index:`\ <! Zwölffingerdarmgeschwür>`
 ist eine Entzündung der Magen- bzw.
 Zwölffingerdarmschleimhaut mit Substanzdefekt. *Syn.* *Gastritis*,
-*Duodenitis*. Die häufigste Ursache für ein Magengeschwür ist eine
-chronische Infektion mit einem bestimmten Bakterium [251]_
-(Malfertheiner et al. 2004). Bestimmte Medikamente [252]_ schädigen die
+*Duodenitis*.
+
+Die häufigste Ursache für ein Magengeschwür ist eine
+chronische Infektion mit einem bestimmten Bakterium\ [#HP]_
+[Malfertheiner:2004]_.
+Bestimmte Medikamente\ [#MagenulcusMedi]_ schädigen die
 Magenschleimhaut und können bei häufiger Einnahme zu einem Geschwür
 führen. Auch andere Stoffe können auf chemisch-toxischen Weg zu einer
-entsprechenden Schädigung führen. Ein Gallensäurenrückfluß (Reflux) bzw.
+entsprechenden Schädigung führen.
+Ein Gallensäurenrückfluß (Reflux) bzw.
 Autoimmunerkrankungen können ebenso zu einem Geschwür führen.
 
--  Bakteriell
 
--  Medikamente
+.. [#HP]
+   Helicobacter pylori
 
--  Chemisch-toxisch
+.. [#MagenulcusMedi]
+   Medikamente und Magengeschwür: Betroffen sind sog. nicht-steroidale
+   Antirheumatika (NSAR), z. B. Voltaren (Diclofenac), Aspirin
+   (Acetylsalicylsäure, ASS),etc.)
 
--   Gallensäurenrückfluß
-
--   Autoimmunerkrankungen
 
 
 
@@ -692,15 +684,19 @@ Autoimmunerkrankungen können ebenso zu einem Geschwür führen.
 Symptome
 --------
 
+..
+    .. sidebar:: Symptome
+
+        -  Schmerzen (Oberbauch), Übelkeit, Erbrechen
+
+        -  Kaffeesatz-artiges Erbrechen, Teerstuhl
+
 Der Patient klagt über einen *stechend-schneidenden Schmerz*, welcher
 sehr stark sein kann. Daneben kommt es zu Appetitlosigkeit, Völlegefühl,
 Übelkeit und Erbrechen. Wenn gleichzeitig eine *Blutung* besteht, dann
 sind *Teerstühle* (schwarz, übelriechend)
 oder *Kaffeesatz-artiges Erbrechen* zu beobachten.
 
--  Schmerzen (Oberbauch), Übelkeit, Erbrechen
-
--  Kaffeesatz-artiges Erbrechen, Teerstuhl
 
 
 
@@ -723,14 +719,20 @@ Basismaßnahmen
 Entzündung der Bauchspeicheldrüse: Pankreatitis
 ===============================================
 
-Beschreibung und Ursachen
--------------------------
 
-**Eine :dfn:`Pankreatitis` :index:`\ <! Pankreatitis>` ist eine Entzündung der
+..
+    .. sidebar:: Pankreatitis
+
+        -  Gallensteinleiden
+        -  Alkoholmißbrauch
+        -  …
+
+Eine :dfn:`Pankreatitis` :index:`\ <! Pankreatitis>` ist eine Entzündung der
 Bauchspeicheldrüse (Pankreas). Sie kann sowohl *akut*, als auch
-*chronisch* verlaufen.** Die häufigsten Ursachen für eine Pankreatitis
-sind *Gallensteinleiden* und *Alkoholmissbrauch* (Kremer and Schmid
-2006; Scholz et al. 2008). Daneben gibt es noch viele, allerdings nicht
+*chronisch* verlaufen.
+
+Die häufigsten Ursachen für eine Pankreatitis
+sind *Gallensteinleiden* und *Alkoholmissbrauch* [Siewert:8]_ [Scholz:2]_. Daneben gibt es noch viele, allerdings nicht
 so häufige Ursachen, oft bleibt die Ursache auch gänzlich unbekannt
 [Herold:2005]_.
 
@@ -743,14 +745,17 @@ Pankreassaft in die Bauchspeicheldrüse zurück. Es kann sogar dazu
 kommen, dass sich das Pankreas durch die Verdauungsenzyme selber
 an-/verdaut.
 
--  Gallensteinleiden
 
--  Alkoholmißbrauch
-
--  …
 
 Symptome
 --------
+
+..
+    .. sidebar:: Symptome
+
+        -  Oberbauchschmerzen, oft gürtelförmig
+        -  Übelkeit, Erbrechen
+        -  Fieber
 
 Die Symptome sind oft unspezifisch, eine Erstdiagnosestellung ist
 präklinisch normalerweise nicht möglich. Charakteristisch ist
@@ -758,22 +763,21 @@ bestenfalls ein **gürtelförmiger Oberbauchschmerz** :index:`\ <gürtelförmige
 häufigsten Begleitsymptome sind Übelkeit und Erbrechen, sowie Fieber.
 [Herold:2005]_
 
--  Oberbauchschmerzen, oft gürtelförmig
+Verlauf
+-------
 
--  Übelkeit, Erbrechen
+..
+    .. sidebar:: Verlauf
 
--  Fieber
+        -  Ruptur
+        -  Akutes Abdomen
+        -  Septischer Schock
 
 Je nach Schwere und Dauer der Entzündung kann es zum Selbstverdauen der
 Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* :index:`\ <Akutes Abdomen!bei Pankreatitis>` Abdomen auf
 (:ref:`Thema-akutes-abdomen`) und der Patient kann kann einen *septischen* :index:`\ <Schock!septischer!bei Pankreatitis>` Schock erleiden
 (:ref:`Thema-schock-septischer`).
 
--  Ruptur
-
--  Akutes Abdomen
-
--  Septischer Schock
 
 
 
@@ -797,13 +801,19 @@ Basismaßnahmen
 Verschluss eines Mesenterialgefäßes: Mesenterialinfarkt
 =======================================================
 
-Beschreibung
-------------
-
 Ein :dfn:`Mesenterialinfarkt` :index:`\ <! Mesenterialinfarkt>` ist eine Ischämie des Darms
 durch Verschluss einer Darmarterie. *Syn.* *Darminfarkt*. Die den Darm
-versorgenden Arterien verlaufen im Mesenterium [253]_, daher leitet sich
+versorgenden Arterien verlaufen im Mesenterium [#Mesenterium]_, daher leitet sich
 der Name der Erkrankung ab.
+
+
+.. [#Mesenterium]
+   Das *Mesenterium* :index:`\ <Mesenterium!Mesenterialinfarkt>`
+   (*Darmgekröse*) ist die Aufhängung von Teilen des Dünndarms
+   (:ref:`Thema-mesenterium`). Darin verlaufen venöse und arterielle Gefäße
+   zum und vom Darm (*Mesenterialgefäße* mit *Mesenterialarterien)* :index:`\ <Mesenterialarterie>`.
+
+
 
 Die Folge eines Mesenterialinfarktes ist das *Absterben des
 entsprechenden Darmabschnitts*, dadurch kommt es zu einer Perforation
@@ -821,29 +831,29 @@ Risikofaktoren auf, z. B. bei Patienten mit *Vorhofflimmern* :index:`\ <Vorhof
 Symptome
 --------
 
+..
+    .. sidebar:: Symptome
+
+        -  Abdominalschmerzen
+        -  Übelkeit, Erbrechen
+        -  ~ 6 h stilles Intervall
+        -  Nach ~ 12–24 h Durchbruch und
+        Bauchfellentzündung, Ileus
+
+        -  Übelriechende, blutige Stuhlabgänge
+
+
 Die Symptome sind eher unspezifisch. Der Patient klagt oft (aber nicht
 immer) über *abdominelle Schmerzen*, welche oft dumpf und diffus sind.
 Es kann für einige Stunden ein *stilles Intervall* folgen, in welchem
 die Schmerzen eher gering sind.
 
-Nach ungefähr 12–24 h wird ein *Darmverschluss* bemerkbar
+Nach ungefähr 12–24 h wird ein *Darmverschluss* bemerkbar
 und die Darmwand verliert zunehmend an Dichtigkeit, es kann zu einem
 *Durchbruch* (Ruptur) kommen. Es folgt eine *Bauchfellentzündung* und
 ein akutes Abdomen (:ref:`Thema-akutes-abdomen`).
 Es kann zu *blutigen, übel riechenden
-Stuhlabgängen* kommen. (Eckstein et al. 2006)
-
--  Abdominalschmerzen
-
--  Übelkeit, Erbrechen
-
--  :math:`\sim` 6 h stilles Intervall
-
--  Nach :math:`\sim` 12–24 h Durchbruch und
-   Bauchfellentzündung, Ileus
-
--  Übelriechende, blutige Stuhlabgänge
-
+Stuhlabgängen* kommen. [Siewert:8]_
 
 
 .. _CK55001C:
@@ -859,54 +869,61 @@ Basismaßnahmen
         (:ref:`m-am-abdominalerkrankungen`)
     -   Nüchtern lassen!
 
+.. index::
+    single: Peritonitis
 
 .. _Thema-peritonitis:
 
-Bauchfellentzündung
-===================
+Bauchfellentzündung (Peritonitis)
+=================================
 
-Beschreibung
-------------
+..
+    .. sidebar:: Peritonitis
 
-**Eine :dfn:`Bauchfellentzündung` :index:`\ <! Bauchfellentzündung>` (*Peritonitis*) ist eine
-Entzündung bzw. Keimbesiedelung des Bauchfells.** Durch die Entzündung
+        -  Entzündung bzw. Infektion des Bauchfells
+
+Eine :dfn:`Bauchfellentzündung` :index:`\ <! Bauchfellentzündung>` (*Peritonitis*) ist eine
+Entzündung bzw. Keimbesiedelung des Bauchfells.
+
+Durch die Entzündung
 bzw. Infektion des Bauchfelles kommt es zu Symptomen eines Akuten
 Abdomens. Oft ist die Perforation eines Hohlorganes (Magendurchbruch,
 Darmperforation, Blinddarmdurchbruch, …) Ursache der Entzündung. Eine
 Bauchfellentzündung führt üblicherweise zu einer schweren körperweiten
-Entzündungsreaktion (*)* :index:`\ <Sepsis!Bauchfellentzünfdung]Sepsis, [Thema-sepsis>`.
+Entzündungsreaktion.
 
--  Entzündung bzw. Infektion des Bauchfells
 
-Ursache
--------
+Ursachen
+--------
+
+..
+    .. sidebar:: Ursachen
+
+        -  Perforation eines Hohlorganes
+        -  Infektion über Blut- / Lymphwege oder eingewandert über Fremdkörper
 
 -  Perforation eines Hohlorganes (Darm, Magen, Gallenblase, …)
-
 -  Fremdkörper
 
--  Perforation eines Hohlorganes
 
--  Infektion über Blut- / Lymphwege oder eingewandert über Fremdkörper
 
 Symptome
 --------
 
+..
+    .. sidebar:: Symtpome
+
+        -  Symptome eines Akuten Abdomens
+        -  Schmerzen (diffus)
+        -  Evtl. reflektorischer Darmverschluss
+        -  Evtl. Sepsis- und/oder Schockzeichen
+
+
 -  Symptome eines Akuten Abdomens
-
 -  Schmerzen (diffus)
-
 -  Evtl. reflektorischer Darmverschluss
-
 -  Evtl. Sepsis- und/oder Schockzeichen
 
--  Symptome eines Akuten Abdomens
-
--  Schmerzen (diffus)
-
--  Evtl. reflektorischer Darmverschluss
-
--  Evtl. Sepsis- und/oder Schockzeichen
 
 
 
@@ -923,31 +940,4 @@ Basismaßnahmen
         (:ref:`m-akutes-abdomen`),
         und sonst abhängig von der Ursache
 
-
-
------
-
-
-.. [250]
-   Akutes Abdomen, Definition: Die Definition des Akuten Abdomens ist
-   oft nicht ganz eindeutig: Einerseits kann man darunter jede plötzlich
-   auftretende Baucherkrankung verstehen (Longmore et al. 2007;
-   Renz-Polster, Krautzig, and Braun 2006). Allerdings verstehen viele
-   Leute darunter eher eine bedrohliche Baucherkrankung, bei der man
-   akut (schnell) handeln muss (Abwehrspannung, harter Bauch). In der
-   Notfallmedizin halten wir uns an letztere Definition.
-
-.. [251]
-   Helicobacter pylori
-
-.. [252]
-   Medikamente und Magengeschwür: Betroffen sind sog. nicht-steroidale
-   Antirheumatika (NSAR), z. B. Voltaren (Diclofenac), Aspirin
-   (Acetylsalicylsäure, ASS),etc.)
-
-.. [253]
-   Das *Mesenterium* :index:`\ <Mesenterium!Mesenterialinfarkt>`
-   (*Darmgekröse*) ist die Aufhängung von Teilen des Dünndarms
-   (:ref:`Thema-mesenterium`). Darin verlaufen venöse und arterielle Gefäße
-   zum und vom Darm (*Mesenterialgefäße* mit *Mesenterialarterien)* :index:`\ <Mesenterialarterie>`.
 

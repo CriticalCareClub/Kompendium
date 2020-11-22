@@ -1690,15 +1690,6 @@ Z
 
 
 
-.. [SiewertChirurgie8-06-Gefaesschirurgie]
-
-	Eckstein, H.-H., P. Heider, O. Wolf und M. Hanke:
-	2006.In *Chirurgie*,
-	edited by Rüdiger Siewert,
-	8. Auflage, , 434–92. Springer-Verlag.
-
-
-
 
 
 

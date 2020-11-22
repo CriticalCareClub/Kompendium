@@ -6,21 +6,7 @@ Stoffwechselstörungen (#70)
 
 
 
-*Abkz.* metabolische Störungen.
-
-Die relevanteste Stoffwechselstörung im Rettungsdienst ist der !!!
-TERMINUS !!! *Diabetes mellitus*. Dieser stellt eine Störung des
-Kohlehydrat-(zucker-)stoffwechsels dar. *Zucker ist ein Kohlehydrat*.
-
-:Maintainer:
-    Sebastian Gabriel
-
-:Autoren:
-    Diverse
-
-:Reviewer:
-    Standard-Reviewprozess
-
+Metabolische Störungen.
 
 .. _Thema-diabetes-mellitus:
 
@@ -32,14 +18,13 @@ Blutzuckerstoffwechsel: Diabetes Mellitus
 Beschreibung: Blutzuckerstoffwechsel
 ====================================
 
-**Der :dfn:`Diabetes mellitus` :index:`\ <! Diabetes mellitus>` ist eine chronische
-Stoffwechselerkrankung, bei der die Blutzuckerregulation gestört ist.**
+Der :dfn:`Diabetes mellitus` :index:`\ <! Diabetes mellitus>` ist eine chronische
+Stoffwechselerkrankung, bei der die Blutzuckerregulation gestört ist.
 Durch die Erkrankung oder die unsachgemäße Behandlung kann es zu
 folgenden Notfällen kommen:
 
--  Hyp\ **o**\ glykämie: “Unterzucker”
-
--  Hyp\ **er**\ glykämie: “Überzucker”
+-   Hyp\ **o**\ glykämie: “Unterzucker”
+-   Hyp\ **er**\ glykämie: “Überzucker”
 
 Interpretation des BZ-Wertes: RichtwerteDer Blutzuckerspiegel wird in
 *Milligramm pro Deziliter* (mg / dL , entspricht mg%) , manchmal auch in
@@ -53,26 +38,37 @@ kann der Normalbereich jedoch großzügiger angesetzt werden, da bei
 Werten zwischen 60 und 200 mg / dL keine Notfallsymptome auftreten. (Herold
 2012)
 
-+-------+------------------------------+-------+-------------------------------------------+
-|       | **Beurteilung (nüchtern)**   |       |                                           |
-+-------+------------------------------+-------+-------------------------------------------+
-| 0     | –                            | 20    | Lebensgefahr                              |
-+-------+------------------------------+-------+-------------------------------------------+
-| 21    | –                            | 60    | stark erniedrigt, Bewusstseinsstörungen   |
-+-------+------------------------------+-------+-------------------------------------------+
-| 61    | –                            | 80    | erniedrigt, leichte Symptome              |
-+-------+------------------------------+-------+-------------------------------------------+
-| 81    | –                            | 100   | Nüchtern-Blutzucker                       |
-+-------+------------------------------+-------+-------------------------------------------+
-| 101   | –                            | 200   | erhöht (nüchtern)                         |
-+-------+------------------------------+-------+-------------------------------------------+
-| 201   | –                            | 399   | stark erhöht                              |
-+-------+------------------------------+-------+-------------------------------------------+
-| 400   | –                            | ??    | sehr stark erhöht                         |
-+-------+------------------------------+-------+-------------------------------------------+
+.. list-table:: Blutzuckerspiegel und Beurteilung (nüchtern)
+    :header-rows: 1
+    :widths: 20 80
+
+    *   -   Wertbereich
+        -   Beurteilung
+    *   -   0—20
+        -   Lebensgefahr
+    *   -   21—60
+        -   stark erniedrigt, Bewusstseinsstörungen
+    *   -   61—80
+        -   erniedrigt, leichte Symptome
+    *   -   81—100
+        -   Normaler Nüchtern-Blutzucker
+    *   -   101 —200
+        -   erhöht (nüchtern)
+    *   -   201—399
+        -   stark erhöht
+    *   -   400— ??
+        -   sehr stark erhöht
+
 
 Insulin
 =======
+
+
+.. only:: not latex
+
+    .. sidebar:: Insulin
+
+        -   Insulin senkt den Blutzuckerspiegel.
 
 :dfn:`Insulin` :index:`\ <! Insulin>` ist für den Zuckerstoffwechsel wichtig, da es
 dafür sorgt, dass Zucker (:dfn:`Glukose` :index:`\ <! Glukose>`) aus dem Blut in
@@ -83,20 +79,36 @@ Unterzuckers (zu viel Insulin gespritzt oder zu wenig gegessen
 → Spritz-/ Essabstand) erfragen. Hinsichtlich des
 Insulins sind zwei Störungen häufig:
 
-#. Es wird *zu wenig Insulin gebildet* (Bildungsort: Beta-Zellen des
-   Pankreas).
+#.  Es wird *zu wenig Insulin gebildet* (Bildungsort: Beta-Zellen des
+    Pankreas).
 
-#. Der Körper hat einen *gesteigerten Bedarf an Insulin*, weil er schon
-   zu sehr daran gewöhnt ist. Der Körper reagiert auf die “normale”
-   Dosis nicht mehr so wie er sollte, er braucht größere Mengen Insulin
-   um den gleichen Effekt wie ein Gesunder zu erreichen
-   (*Gewöhnungseffekt*), irgendwann kann aber der Körper nicht mehr
-   Insulin produzieren.
+#.  Der Körper hat einen *gesteigerten Bedarf an Insulin*, weil er schon
+    zu sehr daran gewöhnt ist. Der Körper reagiert auf die “normale”
+    Dosis nicht mehr so wie er sollte, er braucht größere Mengen Insulin
+    um den gleichen Effekt wie ein Gesunder zu erreichen
+    (*Gewöhnungseffekt*), irgendwann kann aber der Körper nicht mehr
+    Insulin produzieren.
 
-    -  Insulin senkt den Blutzuckerspiegel.
 
 Diabetes mellitus: Typen
 ========================
+
+.. only:: not latex
+
+    .. sidebar:: Diabetes Typen
+
+        -   Typ I
+
+            -   Insulinproduktion gestört
+            -   Insulin muss gespritzt werden
+            -   Eher Jugendliche und junge Erwachsene
+
+        -  Typ II
+
+            -   Lebensstil, Ernährung
+            -   Insulin-Gewöhnungseffekt
+            -   Eher ab mittlerem Alter
+            -   Lebensstiländerung, Medikamente, Insulin
 
 Ausgehend von den das Insulin betreffenden Störungen unterscheidet man 2
 Typen des Diabetes mellitus:
@@ -131,26 +143,24 @@ Typen des Diabetes mellitus:
    aufwärts, aufgrund der zunehmend fett- und kohlehydratreichen
    Ernährungsgewohnheiten werden die Patienten aber immer jünger.
 
--  Typ I
 
-   -  Insulinproduktion gestört
-
-   -  Insulin muss gespritzt werden
-
-   -  Eher Jugendliche und junge Erwachsene
-
--  Typ II
-
-   -  Lebensstil, Ernährung
-
-   -  Insulin-Gewöhnungseffekt
-
-   -  Eher ab mittlerem Alter
-
-   -  Lebensstiländerung, Medikamente, Insulin
 
 Spätfolgen
 ==========
+
+.. only:: not latex
+
+    .. sidebar:: Diabetes Folgeschäden
+
+        -  Gefäßschäden (Herz, Hirn, Nieren, Extremitäten, …)
+
+        -  Nervenschäden
+
+        -  **Cave “Stummer Infarkt”!**
+
+        -  Augenschäden
+
+        -  Achtung: “Stummer”, schmerzarmer/-loser Herzinfarkt beim Diabetiker!
 
 Die eigentlichen Probleme der Zuckerkrankheit sind – zumindest beim
 Typ-II-Diabetiker – nicht ein akute Beschwerden, sondern die
@@ -174,7 +184,7 @@ hinweg schädigt den gesamten Körper. Es kommt zu:
 
    -  *Niere*: Die sehr kleinen Gefäße der Niere werden geschädigt. Im
       weiteren Verlauf stellt die Niere ihre Arbeit ein, es kommt zu
-      einer “:dfn:`chronischen Niereninsuffizienz` :index:`\ <! chronischen Niereninsuffizienz>`”, die im
+      einer :dfn:`chronischen Niereninsuffizienz` :index:`\ <! chronischen Niereninsuffizienz>`, die im
       Endstadium mittels Blutwäsche (Dialyse) behandelt werden muss.
       Dialyse-Patienten machen einen großen Teil der Krankentransporte
       aus.
@@ -187,24 +197,27 @@ hinweg schädigt den gesamten Körper. Es kommt zu:
 
 -  *Augenschäden*: Bis hin zur Erblindung
 
--  Gefäßschäden (Herz, Hirn, Nieren, Extremitäten, …)
-
--  Nervenschäden
-
--  **Cave “Stummer Infarkt”!**
-
--  Augenschäden
-
--  Achtung: “Stummer”, schmerzarmer/-loser Herzinfarkt beim Diabetiker!
-
 Bei der Hypoglykämie herrscht ein Blutzuckermangel
 ==================================================
 
-Beschreibung und Ursachen
--------------------------
 
-**Die :dfn:`Hypoglykämie` :index:`\ <! Hypoglykämie>` ist eine maßgebliche Erniedrigung
-des Blutzuckerspiegels.** Die häufigsten Ursachen für eine plötzliche
+
+.. only:: not latex
+
+    .. sidebar:: Hypoglykämie
+
+        -  Zu viel Insulin (spritzen ohne zu essen)
+
+        -  Fasten (spritzen ohne zu Essen)
+
+        -  Besondere Anstrengungen, Begleiterkrankungen, insb. Infekte
+
+        -  Alkohol-Intoxikation
+
+Die :dfn:`Hypoglykämie` :index:`\ <! Hypoglykämie>` ist eine maßgebliche Erniedrigung
+des Blutzuckerspiegels.
+
+Die häufigsten Ursachen für eine plötzliche
 Hypoglykämie sind *Diätfehler* und/oder eine *Überdosierung von Insulin*
 oder bestimmten anderen Diabetes-Medikamenten. Aufgrund besonderer
 *Anstrengungen* kann es zu einem gesteigerten Zuckerbedarf des Körper
@@ -213,16 +226,30 @@ von Begleiterkrankungen, wie z. B. grippalen Infekten, vor. Auch die
 Alkohol-Intoxikation kann zu einer Hypoglykämie führen (Löffler and
 Petrides 2003).
 
--  Zu viel Insulin (spritzen ohne zu essen)
-
--  Fasten (spritzen ohne zu Essen)
-
--  Besondere Anstrengungen, Begleiterkrankungen, insb. Infekte
-
--  Alkohol-Intoxikation
 
 Symptome
 --------
+
+.. only:: not latex
+
+    .. sidebar:: Symptome
+
+        -   Unruhe, Zittern, Schweißausbruch
+        -   Aggressives Verhalten, unkooperativ
+        -   Neurologische Symptomatik
+
+            -   Bewusstseinsstörungen, Verwirrtheit, Kopfschmerzen, Krampfanfälle,
+                Bewusstlosigkeit
+
+        -   Heißhunger, Übelkeit.
+        -   Tachykardie, Tachypnoe
+        -   Haut feucht/blass
+        -   Bei der Hypoglykämie können Symptome auftreten,
+            die den Patient wie alkoholisiert wirken lassen!
+            *Hüte dich vor vorschnellen Diagnosen!*
+
+            -   → BZ-Messung bei jeder neurologischen
+                Störung.
 
 Der Patient mit Hypoglykämie ist meistens *unruhig*, *desorientiert* und
 *agitiert*, oft auch unkooperativ und aggressiv. Oft fällt ein Zittern
@@ -238,26 +265,6 @@ Häufig sind Kopfschmerzen und Bewusstseinsstörungen, evtl. auch
 Krampfanfälle. Bei jeder neurologischen Symptomatik muss man daher an
 eine Hypoglykämie denken!
 
--  Unruhe, Zittern, Schweißausbruch
-
--  Aggressives Verhalten, unkooperativ
-
--  Neurologische Symptomatik
-
-   -  Bewusstseinsstörungen, Verwirrtheit, Kopfschmerzen, Krampfanfälle,
-      Bewusstlosigkeit
-
--  Heißhunger, Übelkeit.
-
--  Tachykardie, Tachypnoe
-
--  Haut feucht/blass
-
--  Bei der Hypoglykämie können Symptome auftreten, die den Patient wie
-   alkoholisiert wirken lassen! *Hüte dich vor vorschnellen Diagnosen!*
-
-    -  → BZ-Messung bei jeder neurologischen
-       Störung.
 
 
 .. _ME16020C:
@@ -288,15 +295,18 @@ Zuckergabe nur über eine venöse Gabe, z. B. durch einen
 Notarzt oder NKV, erfolgen (getrübte Patienten dürfen
 aufgrund der Aspirationsgefahr nichts mehr essen).
 
-Pharmakotherapie
-    -   ...
 
 
 Bei der Hyperglykämie ist der Blutzuckerspiegel erhöht
 ======================================================
 
-Hyperglykämie: Zustand oder Notfall?
-------------------------------------
+
+.. only:: not latex
+
+    .. sidebar:: Hyperglykämie
+
+        -   Beurteile nicht nur den Messwert, sondern immer auch den Zustand
+            des Patienten.
 
 Eine :dfn:`Hyperglykämie` :index:`\ <! Hyperglykämie>` ist eine maßgebliche Erhöhung
 des Blutzuckerspiegels.
@@ -311,11 +321,19 @@ Erstmanifestation eines Diabetes mellitus Typ I bei einem 19-jährigen,
 oder wenn das Insulin nicht gespritzt wurde, …), kann mit dem gleichen
 Blutzuckerwert bereits im Koma liegen.
 
-    -  Beurteile nicht nur den Messwert, sondern immer auch den Zustand
-       des Patienten.
-
 Auswirkungen
 ------------
+
+.. only:: not latex
+
+    .. sidebar:: Auswirkungen
+
+        -   Störung des Wasser- und Elektrolythaushaltes
+
+            -   Umverteilung
+            -   Zucker wie Elektrolyt
+
+        -   Nährstoffmangel in Zellen
 
 Im Grunde verursacht der Zuckerspiegel im Akutfall zwei Probleme:
 Einerseits wirkt der Zucker wie ein Elektrolyt auf den
@@ -324,16 +342,23 @@ ungünstigen Wasserumverteilung. Andererseits mangelt es den Körperzellen
 an Zucker, da das Insulin fehlt, um den Zucker in die Zellen
 hineinzubekommen – es entsteht ein *Nährstoffmangel*.
 
--  Störung des Wasser- und Elektrolythaushaltes
-
-   -  Umverteilung
-
-   -  Zucker wie Elektrolyt
-
--  Nährstoffmangel in Zellen
 
 Ursachen
 --------
+
+.. only:: not latex
+
+    .. sidebar:: Ursachen
+
+        -  Erstmanifestation eines DM Typ I
+
+        -  Diätfehler
+
+        -  Insulinzufuhr ↓
+
+        -  Stress
+
+        -  Infektionen (Insulinbedarf ↑)
 
 Die Hyperglykämie betrifft praktisch nur Diabetes mellitus-Patienten.
 Bei Patienten, die einen noch unerkannten DM Typ I haben, ist ein
@@ -343,15 +368,6 @@ mangelnde Insulinzufuhr häufige Ursachen. Auch Stress und
 Begleiterkrankungen wie z. B. akute Infektionen kommen in Betracht, da
 hier der Insulinbedarf steigt.
 
--  Erstmanifestation eines DM Typ I
-
--  Diätfehler
-
--  Insulinzufuhr ↓
-
--  Stress
-
--  Infektionen (Insulinbedarf ↑)
 
 
 .. _Thema-diabetisches-koma:
@@ -360,15 +376,33 @@ hier der Insulinbedarf steigt.
 Symptome
 --------
 
+.. only:: not latex
+
+    .. sidebar:: Symptome
+
+        -   Durstgefühl
+        -   Vermehrte Harnproduktion
+        -   Abgeschlagenheit, Bewusstseinstrübung bis
+        -   Bewusstlosigkeit (Koma)
+
+            -    Problem Flüssigkeitshaushalt
+
+                -   Hyperosmolares Koma
+
+            -   Problem Nährstoffmangel
+
+                -   Ketoazidotisches Koma
+                -   Azidose → Hyperventilation zur Kompensation
+
+        -  Azeton-Geruch (Nicht mit Alkoholfahne verwechseln!)
+
+
 Der Patient hat i.d.R. ein erhöhtes Durstgefühl und gleichzeitig eine
 *vermehrte Harnproduktion* (Zucker wird ausgeschieden). Er klagt über
 Abgeschlagenheit, in weiterer Folge kann es zu *Bewusstseinsstörungen*
 bis hin zum *Koma* (s.u.) kommen. Die Geschwindigkeit der
 Veschlechterung ist je nach Patient sehr unterschiedlich.
 
-
-Koma
-^^^^
 
 Wie oben bereits beschrieben wurde, kann es
 sowohl zu einem Problem des Flüssigkeitshaushaltes und/oder der
@@ -380,7 +414,7 @@ hyperosmolaren Koma, dessen Leitsymptom erwartungsgemäß die
 Bewusstseinsstörung ist. Steht der Nährstoffmangel im Vordergrund
 passiert etwas Interessantes: Der Körper produziert sog. Ketonkörper. Da
 diese *sauer* sind, kommt es zu einer stoffwechselbedingten
-*Übersäuerung* (metabolische *Azidose*\  [249]_
+*Übersäuerung* (metabolische *Azidose*\  [#DiabetischeKetoazidose]_
 :ref:`Thema-azidose-metabolische`). Er *hyperventiliert*, um CO₂ abzuatmen
 und somit den pH wieder zu normalisieren (Puffersystem). Es ist daher
 bei diesen Patienten eine *schnelle, tiefe Atmung* feststellbar (
@@ -390,25 +424,6 @@ Mitunter kann auch ein blumig/fruchtiger oder Azeton-artiger Atemgeruch
 wahrgenommen werden. Dieser darf nicht mit einer “Alkoholfahne”
 verwechselt werden!
 
--  Durstgefühl
-
--  Vermehrte Harnproduktion
-
--  Abgeschlagenheit, Bewusstseinstrübung bis
-
--  Bewusstlosigkeit (Koma)
-
-   -  Problem Flüssigkeitshaushalt
-
-      -   Hyperosmolares Koma
-
-   -  Problem Nährstoffmangel
-
-      -   Ketoazidotisches Koma
-
-      -  Azidose → Hyperventilation zur Kompensation
-
--  Azeton-Geruch (Nicht mit Alkoholfahne verwechseln!)
 
 
 .. _ME14012C:
@@ -429,9 +444,7 @@ Basismaßnahmen
 
     -   Lagerung: Stabile Seitenlage
 
-Pharmakotherapie
-    -   ?
 
-.. [249]
-   Genauer: *diabetischen* :index:`\ <Ketoazidose!diabetische>`
-   Ketoazidose
+.. [#DiabetischeKetoazidose]
+    Genauer: *diabetischen* :index:`\ <Ketoazidose!diabetische>`
+    Ketoazidose

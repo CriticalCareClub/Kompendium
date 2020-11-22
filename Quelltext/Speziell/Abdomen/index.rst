@@ -16,6 +16,17 @@ Allgemeines
 Anamnese und Untersuchung
 =========================
 
+..
+    .. sidebar:: Bauch
+
+        -   Stuhl
+        -   Wann letzter?
+        -   Auffälligkeiten
+        -   Farbe, Konsistenz
+        -   Erbrochen?
+        -   Blut?
+        -   Regel?
+
 Es ist wichtig typische Symptome zu erheben und Alarmzeichen sofort zu
 erkennen. Wesentlich ist bei allen unklaren Bauchbeschwerden die
 Erhebung einer exakten *Stuhlanamnese*:
@@ -32,19 +43,6 @@ belassen werden! Wenn es der Patient toleriert, muss eine Betrachtung
 und Abtastung des Abdomens beim liegenden Patienten erfolgen wie unter
 :ref:`Thema-untersuchung-abdomen-abtasten` beschrieben.
 
-..
-    .. sidebar:: Bauch
-
-        -   Stuhl
-        -   Wann letzter?
-        -   Auffälligkeiten
-        -   Farbe, Konsistenz
-        -   Erbrochen?
-        -   Blut?
-        -   Regel?
-
-Der schmerzende Bauch
----------------------
 
 Der Bauch – unendliche Weiten
 =============================
@@ -65,21 +63,21 @@ Krankheitsbilder beschrieben, die *erkennbar* und relativ häufig sind.
 
 .. rubric:: Beispiele für Beschreibungen:
 
-    **Diagnose:** Unklarer Bauchschmerz: Kolikartige Schmerzen im linken
-    Unterbauch seit 1/2h
+**Diagnose:** Unklarer Bauchschmerz: Kolikartige Schmerzen im linken
+Unterbauch seit 1/2h
 
-    **Anmerkungen:** keine Ausstrahlung, Druckschmerz im li. Unterbauch,
-    Abdomen sonst weich.
+**Anmerkungen:** keine Ausstrahlung, Druckschmerz im li. Unterbauch,
+Abdomen sonst weich.
 
-    **Diagnose:** Unklarer Bauchschmerz: Brennend-stechender Schmerz im
-    mittleren Oberbauch seit 2h mit Ausstrahlung in den Rücken
+**Diagnose:** Unklarer Bauchschmerz: Brennend-stechender Schmerz im
+mittleren Oberbauch seit 2h mit Ausstrahlung in den Rücken
 
-    **Anmerkungen:** Abdomen weich, keine Druck- oder Loslassschmerzen
+**Anmerkungen:** Abdomen weich, keine Druck- oder Loslassschmerzen
 
-    **Diagnose:** Unklarer Bauchschmerz: „Dumpfer“ Schmerz im linken und
-    rechten Oberbauch seit gestern.
+**Diagnose:** Unklarer Bauchschmerz: „Dumpfer“ Schmerz im linken und
+rechten Oberbauch seit gestern.
 
-    **Anmerkungen:** Abdomen weich, keine Druck- oder Loslassschmerzen
+**Anmerkungen:** Abdomen weich, keine Druck- oder Loslassschmerzen
 
 
 .. _CKXXXX1C:

@@ -101,6 +101,10 @@ Venenzugang und Infusion, Beatmung und Intubation).
 
     [Sebastian Gabriel / :term:`Lizenz: MfG`]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-teamwork-arzt-sani.jpg
     :width: 100%
 
@@ -108,6 +112,11 @@ Venenzugang und Infusion, Beatmung und Intubation).
     Einheit.
 
     [Sebastian Gabriel / :term:`Lizenz: MfG`]
+
+.. raw:: latex
+
+    \hfill
+
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-alle.jpg
     :width: 100%

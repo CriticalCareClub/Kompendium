@@ -24,14 +24,14 @@ eine Ahnung hat. In der Psychiatrie ist es auch besonders schwierig,
 zwischen “gesund” und “krank” treffsicher zu unterscheiden.
 
 Grundsätzlich muss aber gesagt werden, dass psychiatrische
-Erkrankungen [288]_ etwas alltägliches und nichts außergewöhnliches
+Erkrankungen [#PsyErkrankung]_ etwas alltägliches und nichts außergewöhnliches
 sind. Je nach Studie leiden bis zu 30% der Bevölkerung an
 psychiatrischen Erkrankungen, allen voran an Depressionen und der
 Alkoholkrankheit.
 
 
-.. [288]
-   Sofern der Begriff *“Erkrankung”* überhaupt angebracht ist …
+.. [#PsyErkrankung]
+    Sofern der Begriff *“Erkrankung”* überhaupt angebracht ist …
 
 Der Krankheitsbegriff in der Psychiatrie
 ========================================
@@ -40,7 +40,7 @@ Man trifft oft auch auf nicht klar umrissene Krankheitsbilder, und auch
 deren jeweiliger Krankheitswert ist oft umstritten, sehr vom einzelnen
 Patienten und seiner Situation abhängig: Während der eine Mensch an
 seiner Depression leidet, verarbeitet ein anderer seine
-Gefühlserfahrungen zu einem Lied und sichert sich dank der AKM [289]_
+Gefühlserfahrungen zu einem Lied und sichert sich dank der AKM [#Akm]_
 eine Einnahmequelle. (Subjektiv betrachtet erscheint die Depression
 manchmal als ein treibender Motor der Singe-/Songwriter-Szene.)
 
@@ -66,7 +66,7 @@ den Patienten selbst oder für seine Umgebung ein Problem darstellt.
 Dabei gibt es keine scharfe Grenze und die Grauzone ist beträchtlich.
 
 
-.. [289]
+.. [#Akm]
     Autoren, Komponisten und Musikverleger. Die AKM ist die größte
     Urheberrechts- und Verwertungsgesellschaft in Österreich.
 
@@ -128,19 +128,15 @@ Wertschätzung wie ein körperlich Erkrankter.
 Auftreten
 =========
 
--  Besonders wichtig ist ein *ruhiges, sachliches Auftreten*.
-
--  Eventuelle *Aufregung* (durch den Patienten; Angehörige; Feuerwehr;
-   Polizei; Spezialeinsatzgruppe mit Rammbock, Tränengas,
-   Maschinengewehr und Angst; …) *soll nicht auf den Helfer abfärben*.
-
--  Der Patient soll sich *nicht beengt*, bedroht und – wenn möglich –
-   nicht bevormundet *fühlen*.
-
--  Es sollen *keine falschen oder nicht einlösbare Versprechen* gegeben
-   werden.
-
--  *Keine Lügen!*
+-   Besonders wichtig ist ein *ruhiges, sachliches Auftreten*.
+-   Eventuelle *Aufregung* (durch den Patienten; Angehörige; Feuerwehr;
+    Polizei; Spezialeinsatzgruppe mit Rammbock, Tränengas,
+    Maschinengewehr und Angst; …) *soll nicht auf den Helfer abfärben*.
+-   Der Patient soll sich *nicht beengt*, bedroht und – wenn möglich –
+    nicht bevormundet *fühlen*.
+-   Es sollen *keine falschen oder nicht einlösbare Versprechen* gegeben
+    werden.
+-   *Keine Lügen!*
 
 Eigenschutz
 ===========
@@ -149,11 +145,11 @@ Auch wenn vom durchschnittlichen psychiatrischen Patienten keine höhere
 Gefahr als von der Normalbevölkerung ausgeht, so ist es doch ratsam
 grundlegende Punkte des Eigenschutzes zu beachten:
 
-#. Fluchtweg freihalten
-#. Rücken freihalten
-#. Patienten nicht beengen/bedrängen
-#. Patienten über Handlungen informieren und evtl. extra um
-   Einverständnis fragen (angurten, …)
+#.  Fluchtweg freihalten
+#.  Rücken freihalten
+#.  Patienten nicht beengen/bedrängen
+#.  Patienten über Handlungen informieren und evtl. extra um
+    Einverständnis fragen (angurten, …)
 
 Diese Punkte sind grundsätzlich für jeden Einsatz sinnvoll!
 
@@ -164,8 +160,6 @@ Symptome
 Der Patient mit Wahnvorstellungen
 =================================
 
-Einleitung
-----------
 
 Menschen können – aus unterschiedlichen Gründen – Wahnvorstellungen
 (Halluzinationen) entwickeln. Diese können sehr unterschiedlich sein und
@@ -231,12 +225,19 @@ Diese Wahnideen können in weiterer Folge zu einem :dfn:`Wahnsystem` :index:`\ <
     Gebühren-Info-Service einen Agenten vorbei geschickt, welcher nun
     gewaltsam die Gedanken des Patienten wegnehmen wollte.”*
 
+
+.. index::
+    single: Wahnthemen
+
+
 Wahnthemen
 ----------
 
 Ein Wahn kann unterschiedliche Themen haben, die häufigsten sind z. B.
 Verfolgungswahn, Größenwahn oder der Verarmungswahn.
 
+.. index::
+    single: Wahnvorstellungen
 
 .. _PF22091C:
 .. _m-wahnvorstellungen:
@@ -332,19 +333,17 @@ Patienten sollen nicht gewertet, verharmlost oder verniedlicht werden!*
 
 Ein misslungener – oft zögerlicher – Selbstmordversuch wird oft von
 Unwissenden im Sinne von *“Der hat es gar nicht so gemeint”* aufgefasst.
-Das ist falsch [290]_! Ein Selbstmordversuch ist oft der letzte
+Das ist meistens falsch! Ein Selbstmordversuch ist oft der letzte
 Hilferuf, den ein Mensch – sei es aus Vereinsamung oder aus anderen
 Gründen – aussenden kann.
 
--  Jede Suizidäußerung des Patienten muss ernst genommen und
-   dokumentiert werden.
+-   Jede Suizidäußerung des Patienten muss ernst genommen und
+    dokumentiert werden.
 
--  Jeder Selbstmordversuch muss ernst genommen werden, auch wenn er noch
-   so lächerlich oder unglaubwürdig aussieht.
+-   Jeder Selbstmordversuch muss ernst genommen werden, auch wenn er noch
+    so lächerlich oder unglaubwürdig aussieht.
 
 
-.. [290]
-   Zumindest meistens.
 
 
 Der unmittelbar eigen- oder fremdgefährdende Patient
@@ -537,20 +536,14 @@ Beschwerden vortäuschen.
 
 ----
 
-.. rubric:: Literatur
+.. rubric:: Siehe auch:
 
-[Thun:1981]_
-
-[Thun:1989]_
-
-[Thun:2010]_
-
-[Argelander:2009]_
-
-[Wunn:1]_
-
-[Battegay:2]_
-
+[Thun:1981]_,
+[Thun:1989]_,
+[Thun:2010]_,
+[Argelander:2009]_,
+[Wunn:1]_,
+[Battegay:2]_,
 [Scholz:2]_
 
 

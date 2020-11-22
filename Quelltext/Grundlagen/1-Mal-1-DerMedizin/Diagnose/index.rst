@@ -1,8 +1,23 @@
+.. index::
+    single:: Diagnose
+
 .. _Thema-Diagnose:
 
 ##################
 Die Diagnose (#26)
 ##################
+
+..
+    .. sidebar:: Diagnosen
+
+        -  Verdachtsdiagnose
+
+        -  Arbeitsdiagnose
+
+        -  Notfalldiagnose
+
+        -  Status post, Zustand nach
+
 
 Eine Diagnose gibt einem Zustand eine Bezeichnung, das
 heißt einem Beschwerdebild wird ein definiertes Krankheitsbild
@@ -15,6 +30,8 @@ zugeordnet.
 +------------------------------------------+--------------------+------------------------------+
 | Realität                                 | **→ DIAGNOSE ←**   | Lehre                        |
 +------------------------------------------+--------------------+------------------------------+
+
+.. admonition:: Synopsis
 
     -  Die Diagnose ordnet die Beschwerden des Patienten einem
        definierten Krankheitsbild zu.
@@ -36,64 +53,50 @@ Diese Zuordnung kann einfach sein, sehr oft ist die Diagnosestellung
 aber unsicher. Um die Unsicherheit dieser Diagnosen anzuzeigen haben
 sich verschiedene Begriffe eingebürgert:
 
--  :dfn:`*Verdachtsdiagnose`: Die Diagnose ist unsicher, man
-   hat zwar den Verdacht in Richtung eines bestimmten Krankheitsbildes,
-   andere ähnliche Krankheitsbilder können allerdings nicht mit
-   hinreichender Sicherheit ausgeschlossen werden. Die endgültige
-   Klärung überlässt man jemand anderen [161]_.
+-   :dfn:`*Verdachtsdiagnose`: Die Diagnose ist unsicher, man
+    hat zwar den Verdacht in Richtung eines bestimmten Krankheitsbildes,
+    andere ähnliche Krankheitsbilder können allerdings nicht mit
+    hinreichender Sicherheit ausgeschlossen werden. Die endgültige
+    Diagnosestellung erfolgt zu einem späteren Zeitpunkt.
 
-   Sanitäter erstellen i.d.R. nur Verdachtsdiagnosen.
+    Sanitäter erstellen i.d.R. nur Verdachtsdiagnosen.
 
--  :dfn:`Arbeitsdiagnose`: Arbeitsdiagnosen sind
-   Verdachtsdiagnosen, bei denen eine endgültige Klärung nicht möglich
-   ist. Für die Behandlung wird die wahrscheinlichste oder gefährlichste
-   Diagnose ausgewählt um *“am Patienten arbeiten zu können”.*
+-   :dfn:`Arbeitsdiagnose`: Arbeitsdiagnosen sind
+    Verdachtsdiagnosen, bei denen eine endgültige Klärung nicht möglich
+    ist. Für die Behandlung wird die wahrscheinlichste oder gefährlichste
+    Diagnose ausgewählt um *“am Patienten arbeiten zu können”.*
 
--  :dfn:`Notfalldiagnose`: Eine Notfalldiagnose ist im
-   Prinzip eine Arbeitsdiagnose. Der Patient ist dabei in einem Zustand
-   bei dem *sofortiges Handeln* notwendig ist und die eigentliche
-   Diagnose, die zu dieser Situation geführt hat, in dem Moment
-   unwichtig ist.
+-   :dfn:`Notfalldiagnose`: Eine Notfalldiagnose ist im
+    Prinzip eine Arbeitsdiagnose. Der Patient ist dabei in einem Zustand
+    bei dem *sofortiges Handeln* notwendig ist und die eigentliche
+    Diagnose, die zu dieser Situation geführt hat, in dem Moment
+    unwichtig ist.
 
-   Ein Beispiel hierfür sind die Bewusstlosigkeit und der
-   Kreislaufstillstand. Die Ursachen dafür sind erstmal unwichtig, mit
-   der entsprechenden Behandlung der Notfalldiagnose muss sofort
-   begonnen werden.
+    Ein Beispiel hierfür sind die Bewusstlosigkeit und der
+    Kreislaufstillstand. Die Ursachen dafür sind erstmal unwichtig, mit
+    der entsprechenden Behandlung der Notfalldiagnose muss sofort
+    begonnen werden.
 
--  :dfn:`Status post`, :dfn:`Zustand nach`:
-   (Abkz.: :abbr:`St. p. (Status post)`, :abbr:`Z. n. (Zustand nach)`)
-   Bezeichnet eine “alte Diagnose”, d. h.
-   eine Erkrankung oder eine Behandlung die einmal durchgemacht wurde.
-   z. B.:
+-   :dfn:`Status post`, :dfn:`Zustand nach`:
+    (Abkz.: :abbr:`St. p. (Status post)`, :abbr:`Z. n. (Zustand nach)`)
+    Bezeichnet eine “alte Diagnose”, d. h.
+    eine Erkrankung oder eine Behandlung die einmal durchgemacht wurde.
+    z. B.:
 
-   -  ``Z.n. Blinddarm-Operation``: Der Patient hatte einmal eine
-      Blinddarm-Operation.
+    -   ``Z.n. Blinddarm-Operation``: Der Patient hatte einmal eine
+        Blinddarm-Operation.
 
-   -  ``Z.n. Herzinfarkt 2/2006``: Der Patient hatte im Februar 2006
-      einen Herzinfarkt.
+    -   ``Z.n. Herzinfarkt 2/2006``: Der Patient hatte im Februar 2006
+        einen Herzinfarkt.
 
-   Umgangssprachlich wird oft auch der Umstand der zu einer Diagnose
-   geführt hat mit *“Z.n.”* angegeben.
+    Umgangssprachlich wird oft auch der Umstand der zu einer Diagnose
+    geführt hat mit *“Z.n.”* angegeben.
 
-   -  ``V.a. Schenkelhalsfraktur re., Z.n. Sturz``: Der Patient ist
-      gestürzt und hat deshalb möglicherweise eine Schenkelhalsfraktur
-      rechts.
+    -   ``V.a. Schenkelhalsfraktur re., Z.n. Sturz``: Der Patient ist
+        gestürzt und hat deshalb möglicherweise eine Schenkelhalsfraktur
+        rechts.
 
 
-
-.. [161]
-   z. B. dem Krankenhaus
-
-..
-    .. sidebar:: Diagnosen
-
-        -  Verdachtsdiagnose
-
-        -  Arbeitsdiagnose
-
-        -  Notfalldiagnose
-
-        -  Status post, Zustand nach
 
 
 .. index::
@@ -124,12 +127,12 @@ eine genauere Beschreibung der Diagnose.
 
 *Beispiel*:
 
--  ``S50-S59``: Verletzungen des Ellenbogens und des Unterarmes
+-   ``S50-S59``: Verletzungen des Ellenbogens und des Unterarmes
 
--  ``S52.3-``: Fraktur des Radiusschaftes
+-   ``S52.3-``: Fraktur des Radiusschaftes
 
--  ``S52.31``: Fraktur des distalen Radiusschaftes mit Luxation des
-   Ulnakopfes
+-   ``S52.31``: Fraktur des distalen Radiusschaftes mit Luxation des
+    Ulnakopfes
 
 
 **************************
@@ -140,12 +143,11 @@ Diagnosen, welche bei den jeweiligen Symptomen auch möglich, jedoch
 weniger wahrscheinlich sind wie jene Diagnose, für welche man sich
 “entscheidet”.
 
-    Beispiel: Patient mit Kopfschmerzen nach ausgiebigen Alkoholgenuss
-    am Vortag.
+.. rubric:: Beispiel: Patient mit Kopfschmerzen
 
-    Verdachtsdiagnose:
-        ``Kopfschmerzen``
+:Verdachtsdiagnose:
+    ``Kopfschmerzen``
 
-    Differentialdiagnosen:
-        Migraine, Hirnblutung, Schlaganfall, Hypoglykämie, Intoxikation,
-        …
+:Differentialdiagnosen:
+    Migraine, Hirnblutung, Schlaganfall, Hypoglykämie, Intoxikation,
+    …

@@ -14,7 +14,6 @@ und Linderung.
     Rettungswesen/index.rst
     1-Mal-1-DerMedizin/index
     Terminologie/index
-    Diagnose/index
     RechtlicheGrundlagen/index
     RechtlicheFallbeispiele/index
     Psychologie/index

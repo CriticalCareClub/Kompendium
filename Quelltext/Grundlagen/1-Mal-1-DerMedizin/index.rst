@@ -14,4 +14,5 @@ der Gesunderhaltung, Heilung und Linderung.
     :maxdepth: 2
 
     Pathomechanismen/index
+    Diagnose/index
 

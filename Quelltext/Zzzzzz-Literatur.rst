@@ -1207,6 +1207,20 @@ R
 	Urban & Fischer.
 
 
+.. [Ring:1977]
+    Ring, J. and Messmer, K.:
+    **Incidence and severity of anaphylactoid reactions to colloid volume substitutes.**
+    Lancet. 1977 Feb 26;1(8009):466-9.
+    doi: 10.1016/s0140-6736(77)91953-5.
+
+
+
+
+
+.. [Ring:2014]
+    Ring et al.:
+    **Guideline for acute therapy and management of anaphylaxis: S2 Guideline of the German Society for Allergology and Clinical Immunology (DGAKI), the Association of German Allergologists (AeDA), the Society of Pediatric Allergy and Environmental Medicine (GPA), the German Academy of Allergology and Environmental Medicine (DAAU), the German Professional Association of Pediatricians (BVKJ), the Austrian Society for Allergology and Immunology (OGAI), the Swiss Society for Allergy and Immunology (SGAI), the German Society of Anaesthesiology and Intensive Care Medicine (DGAI), the German Society of Pharmacology (DGP), the German Society for Psychosomatic Medicine (DGPM), the German Working Group of Anaphylaxis Training and Education (AGATE) and the patient organization German Allergy and Asthma Association (DAAB).**
+    Allergo J Int. 2014;23(3):96-112. doi: 10.1007/s40629-014-0009-1.
 
 
 S

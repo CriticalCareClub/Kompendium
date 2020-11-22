@@ -4,7 +4,7 @@
     single: Kontrastmittel; Allergie
 
 ############################
-Anaphylaxie
+Anaphylaxie (#57)
 ############################
 
 Eine **Allergie** ist eine fehlgeleitete Reaktion
@@ -89,10 +89,10 @@ und Kreislaufstörungen.
     [`BruceBlaus <https://en.wikipedia.org/wiki/File:Urticaria.png>`_ //`Creative Commons Attribution-Share Alike 4.0 International <https://creativecommons.org/licenses/by-sa/4.0/deed.en>`_]
 
 Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
-:ref:`Tafel-AnaphylaxieStadien` [Ring:1977]_ .
+:ref:`Tafel-AnaphylaxieStadien` [Ring:1977]_\ .
 
 
-.. list-table:: Stadien der Anaphylaxie (nach Ring 1977)
+.. list-table:: Stadien der Anaphylaxie (nach [Ring:1977]_)
     :widths: 8 22 22 22 22
     :header-rows: 1
     :stub-columns: 1
@@ -135,7 +135,7 @@ Diagnostik
 **********
 
 
--   Patienteneinschätzung (:ref:`Thema-Einschaetzungsblock`:)
+-   Patienteneinschätzung (:ref:`Thema-Einschaetzungsblock`)
 
     Besonderheiten:
 
@@ -150,22 +150,20 @@ Therapie
 ********
 
 Basismaßnahmen
-==============
+    -   Lagerung: symptomorientiert
 
--   Lagerung: symptomorientiert
+        -   Grundsätzlich: Flachlagerung, Bewegungsverbot
+        -   Eingeschränkter Bewusstseinslage:
+            stabile Seitenlage
+        -   Hypotonie: Trendelenburg-Lagerung
+            (Beine hoch)
+        -   Atemnot: (halb-)sitzende Position
 
-    -   Grundsätzlich: Flachlagerung, Bewegungsverbot
-    -   Eingeschränkter Bewusstseinslage:
-        stabile Seitenlage
-    -   Hypotonie: Trendelenburg-Lagerung
-        (Beine hoch)
-    -   Atemnot: (halb-)sitzende Position
-
--   Stopp einer weiteren Allergenexposition (wenn möglich)
--   Weitere Hilfe ist anzufordern
--   Sauerstoff: Bei Atemstörungen:
-    Atemmaske mit Reservoirbeutel mit möglichst hoher Flußrate, sodass möglicht 100 % Sauerstoff erreicht werden.
--   Anlage eines i. v.-Zuganges, möglichst großkalibrig
+    -   Stopp einer weiteren Allergenexposition (wenn möglich)
+    -   Weitere Hilfe ist anzufordern
+    -   Sauerstoff: Bei Atemstörungen:
+        Atemmaske mit Reservoirbeutel mit möglichst hoher Flußrate, sodass möglicht 100 % Sauerstoff erreicht werden.
+    -   Anlage eines i. v.-Zuganges, möglichst großkalibrig
 
 .. index::
     single: Antihistaminika
@@ -174,66 +172,63 @@ Basismaßnahmen
     single: Salbutamol
 
 Pharmakotherapie
-====================
+    -   **Volumengabe**: Behandlung der relativen Hypovolämie,
+        balancierte Volelektrloytlösung,
+        z. B. **Elo-Mel™ isoton**,
+        Ringer-Laktat.
+        Primär Bolusgabe von 500 mL schnell tropfend.
 
+        Der anaphylaktische Schock erfordert
+        innerhalb kurzer Zeit bei Erwachsenen eine Zufuhr
+        von 0,5–1 L, ggf.
+        bis zu 2–3 L Flüssigkeit
+        je nach Ansprechen,
+        im Kindesalter initial 20 mL / kg KG.
 
--   **Volumengabe**: Behandlung der relativen Hypovolämie,
-    balancierte Volelektrloytlösung,
-    z. B. **Elo-Mel™ isoton**,
-    Ringer-Laktat.
-    Primär Bolusgabe von 500 mL schnell tropfend.
+    -   **Adrenalin i. m.** (wenn Atem- oder Kreislaufsymptome vorhanden):
 
-    Der anaphylaktische Schock erfordert
-    innerhalb kurzer Zeit bei Erwachsenen eine Zufuhr
-    von 0,5–1 L, ggf.
-    bis zu 2–3 L Flüssigkeit
-    je nach Ansprechen,
-    im Kindesalter initial 20 mL / kg KG.
+        i. m.-Applikation 0,3–0,5 mg Adrenalin (ab 30–50 kg KG)
+        in die Außenseite des Oberschenkels
 
--   **Adrenalin i. m.** (wenn Atem- oder Kreislaufsymptome vorhanden):
+        Wiederholung bei fehlender Wirkung
+        in Abhängigkeit von Nebenwirkungen
+        alle fünf bis zehn Minuten möglich
 
-    i. m.-Applikation 0,3–0,5 mg Adrenalin (ab 30–50 kg KG)
-    in die Außenseite des Oberschenkels
+        Die i. v.-Gabe ist ausschließlich
+        damit Erfahrenen vorbehalten!
 
-    Wiederholung bei fehlender Wirkung
-    in Abhängigkeit von Nebenwirkungen
-    alle fünf bis zehn Minuten möglich
+    -   **Inhalation** bei Atemsymptome
 
-    Die i. v.-Gabe ist ausschließlich
-    damit Erfahrenen vorbehalten!
+        -   Bei Bronchospasmus:
+            Salbutamol (**Combivent™**) 5 mg (2 Ampullen)
+            über Verneblermaske
 
--   **Inhalation** bei Atemsymptome
+        -   Bei Uvulaschwellung, Larynxödem:
+            Adrenalin inhalativ
+            (z. B. 2 mL à 1 mg / mL)
+            über Verneblermaske
 
-    -   Bei Bronchospasmus:
-        Salbutamol (**Combivent™**) 5 mg (2 Ampullen)
-        über Verneblermaske
+    -   **Antihistaminika**
+        haben einen langsameren Wirkungseintritt,
+        aber ein günstiges Nutzen-Nebenwirkungs-Profil,
+        große therapeutische
+        Breite
 
-    -   Bei Uvulaschwellung, Larynxödem:
-        Adrenalin inhalativ
-        (z. B. 2 mL à 1 mg / mL)
-        über Verneblermaske
+        -   H1-Rezeptorblocker:
 
--   **Antihistaminika**
-    haben einen langsameren Wirkungseintritt,
-    aber ein günstiges Nutzen-Nebenwirkungs-Profil,
-    große therapeutische
-    Breite
+            Dimetinden (Fenistil™): 0,1 mg/kg KG: ca. 4—8 mg (1—2 Amp.)
 
-    -   H1-Rezeptorblocker:
+            alternativ: Diphenhydraminhydrochlorid (Dibondrin™)
 
-        Dimetinden (Fenistil™): 0,1 mg/kg KG: ca. 4—8 mg (1—2 Amp.)
+        -   H2-Rezeptorenblocker: Ranitidin (Ulsal™)
 
-        alternativ: Diphenhydraminhydrochlorid (Dibondrin™)
+            Wenig Evidenz,
+            aber zusätzliche Anwendung empfohlen,
+            da kaum zu erwartende Nebenwirkungen\ [Winbery:2002]_ .
 
-    -   H2-Rezeptorenblocker: Ranitidin (Ulsal™)
+    -   Glukokortikoide
 
-        Wenig Evidenz,
-        aber zusätzliche Anwendung empfohlen,
-        da kaum zu erwartende Nebenwirkungen\ [Winbery:2002]_ .
-
--   Glukokortikoide
-
-    z. B. Prednisolon (SoluDacortin™) 500 mg i. v.
+        z. B. Prednisolon (SoluDacortin™) 500 mg i. v.
 
 
 
@@ -287,7 +282,6 @@ Augeninnendruckerhöhung bis hin zum Glaukomanfall
 sowie paradoxe Erregungszustände
 auslösen.
 
-
 Glukokortikoide haben einen langsamen Wirkungseintritt
 und daher kaum Einfluss auf die akute Phase einer Anaphylaxie,
 sie sind aber effektiv bei Behandlung von Asthma
@@ -295,8 +289,5 @@ und wirken protrahierten bzw. biphasischen Reaktionen entgegen.
 Eine unspezifische membranstabilisierende Wirkung
 innerhalb von zehn bis 30 Minuten
 nach Zufuhr hoher Glukokortikoiddosen
-wird angenommen.\ [Ring:2014]_
+wird angenommen. [Ring:2014]_
 
-
-
-[Ring:2014]_

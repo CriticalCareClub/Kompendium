@@ -3,25 +3,26 @@
 Urologische Erkrankungen (#74)
 #####################################################
 
-
-
 Erkrankungen des harnableitenden Systems.
-
-:Maintainer:
-    Sebastian Gabriel
-
-:Autoren:
-    Diverse
-
-:Reviewer:
-    Standard-Reviewprozess
 
 ********************
 Exkurs: Harnkatheter
 ********************
 
-Beschreibung
-============
+
+.. only:: not latex
+
+    .. sidebar:: Harnkatheter
+
+        -   Katheter leitet aus Harnblase Urin ab
+
+        -   Harnbeutel – *unterhalb* d. Patienten
+
+        -   Schlauch abklemmen beim Umlagern
+
+        -   Wenn ablassen, Menge notieren
+
+        -   Infektionsgefahr
 
 Ein *Harnkatheter* ist ein harnableitendes System, bei dem ein Schlauch
 (Katheter) über die Harnröhre in die Harnblase eingeführt wird um Harn
@@ -40,41 +41,48 @@ Patienten der Flüssigkeitshaushalt bilanziert wird.
 Ein Harnkatheter ist eine medizinisch-pflegerische Routinemaßnahme und
 entsprechend oft bei Patienten anzutreffen.
 
--  Katheter leitet aus Harnblase Urin ab
-
--  Harnbeutel – *unterhalb* d. Patienten
-
--  Schlauch abklemmen beim Umlagern
-
--  Wenn ablassen, Menge notieren
-
--  Infektionsgefahr
-
 .. todo:: Bilderserie: Harnkatheter
 
 ***********
 Nierenkolik
 ***********
 
+.. only:: not latex
+
+    .. sidebar:: Nirenkolik
+
+        -  Blockade des Harnleiters → Harnstau
+        -  Dehnung des Harnleiters → Kolikartiger Schmerz
+        -  Nierenstein(e)
+
 Beschreibung und Ursachen
 =========================
 
-**Eine :dfn:`Nierenkolik` :index:`\ <! Nierenkolik>` ist gekennzeichnet durch
+Eine :dfn:`Nierenkolik` :index:`\ <! Nierenkolik>` ist gekennzeichnet durch
 kolikartige Schmerzen aufgrund einer Blockade des Harnleiters und dem
-daraus folgenden Harnstau.** Vgl. Kolik: :ref:`Thema-kolik`. Sie ist eine
+daraus folgenden Harnstau. Vgl. Kolik: :ref:`Thema-kolik`.
+
+Sie ist eine
 äußerst schmerzhafte akute Erkrankung und entsteht meist dadurch, dass
 Nierensteine den Harnleiter blockieren bzw. verstopfen. Dadurch wird der
-Harn gestaut und der Harnleiter gedehnt dadruch kommt es zu einem
+Harn gestaut und der Harnleiter gedehnt dadurch kommt es zu einem
 Dehnungsschmerz.
 
--  Blockade des Harnleiters → Harnstau
-
--  Dehnung des Harnleiters → Kolikartiger Schmerz
-
--  Nierenstein(e)
 
 Symptome
 ========
+
+.. only:: not latex
+
+    .. sidebar:: Symptome
+
+        -  Rücken-/Flankenschmerzen
+
+        -  Evtl. Unterbauchschmerzen bei Stein-/Sandabgang
+
+        -  *“Der Stein wandert, der Schmerz wandert, der Patient wandert”*
+
+        -  Blut im Harn (Hämaturie)
 
 Die Folge sind massive, kolikartige Schmerzen, in der Flanke bzw. im
 Unterbauch der jeweiligen Seite, welcher auch in den Hoden bzw. in die
@@ -85,13 +93,6 @@ gestikulierend und wehklagend durch die Gegend. Mitunter ist eine
 entsprechende Vorerkrankung *(Nierensteine)* bereits bekannt und kann
 erfragt werden. Unter Umständen kann Blut im Harn sein.
 
--  Rücken-/Flankenschmerzen
-
--  Evtl. Unterbauchschmerzen bei Stein-/Sandabgang
-
--  *“Der Stein wandert, der Schmerz wandert, der Patient wandert”*
-
--  Blut im Harn (Hämaturie)
 
 
 .. _MN23XX0C:
@@ -107,8 +108,6 @@ Basismaßnahmen
     -   Bei unerträglichen Schmerzen Notarzt zur
         Schmerztherapie beiziehen
 
-Pharmakotherapie
-    -   ?
 
 
 .. _Thema-nierenbeckenentzuendung:
@@ -117,18 +116,27 @@ Pharmakotherapie
 Harnwegsinfekt und Nierenbeckenentzüdung
 ****************************************
 
+.. only:: not latex
 
-Beschreibung
-============
+    .. sidebar:: Harnwegsinfektion
 
-**Als :dfn:`Harnwegsinfekt` :index:`\ <! Harnwegsinfekt>` wird allgemein eine Infektion
-der Harnwege bezeichnet.** Besonders gefährdet sind Frauen, infolge der
+        -  Infektion der Harnwege
+        -  Oft: Darmkeime
+
+Als :dfn:`Harnwegsinfekt` :index:`\ <! Harnwegsinfekt>` wird allgemein eine Infektion
+der Harnwege bezeichnet.
+
+Besonders gefährdet sind Frauen, infolge der
 kürzeren Harnröhre und der normalen bakteriellen Besiedelung der
 Scheide. Die häufigsten Erreger sind, aufgrund der räumlichen Nähe,
 klassische Darmkeime (E. coli). Wird ein Harnwegsinfekt nicht behandelt,
 kann die Infektion aufsteigen und eine Nierenbeckenentzüdung
-verursachen. **Eine :dfn:`Nierenbeckenentzüdung` :index:`\ <! Nierenbeckenentzüdung>` ist eine
-Entzündung des Nierenbeckens. *Syn.* *Pyelonephritis*.** Sie ist oft
+verursachen.
+
+Eine :dfn:`Nierenbeckenentzüdung` :index:`\ <! Nierenbeckenentzüdung>` ist eine
+Entzündung des Nierenbeckens. *Syn.* *Pyelonephritis*.
+
+Sie ist oft
 bakteriell bedingt und umfasst die oberen Harnwege, das
 Nierenbeckenkelchsystem und u.U. auch das Nierengewebe und ist eine der
 häufigsten Erkrankungen der Niere [Pschyrembel:2002]_. Im schlimmsten
@@ -143,12 +151,23 @@ Auslöser sind, welche deutlich schwieriger zu behandeln sind. Ein
 besonderes Risiko stellen hierbei harnableitende Systeme (Harnkatheter,
 -beutel) da.
 
--  Infektion der Harnwege
-
--  Oft: Darmkeime
 
 Symptome
 ========
+
+.. only:: not latex
+
+    .. sidebar:: Symptome
+
+        -   Harnwegsinfekt:
+
+            -   Schmerzen beim urinieren, evtl. im Nierenlager, Blasengegend
+            -   Häufiger, unergiebiger Harndrang
+            -   Fieber
+
+        -  Nierenbeckenentzüdung:
+
+            -   Evtl. Flankenschmerz
 
 Der Patient klagt über Schmerzen beim Harnlassen, sowie häufigen, aber
 nicht ergiebigen Harndrang. Es können Schmerzen im Nierenlager oder der
@@ -159,35 +178,33 @@ Bei der akuten Nierenbeckenentzündung leidet der Patient unter Fieber,
 Flankenschmerzen, häufigen, aber nicht ergiebigen Harndrang sowie
 Schmerzen beim urinieren. Ein chronischer Verlauf ist oft symptomarm.
 
--  Harnwegsinfekt:
-
-   -  Schmerzen beim urinieren, evtl. im Nierenlager, Blasengegend
-
-   -  Häufiger, unergiebiger Harndrang
-
-   -  Fieber
-
--  Nierenbeckenentzüdung:
-
-   -  Evtl. Flankenschmerz
 
 
 .. _thema-harnverhalten:
 
 ********************
-Akutes Harnverhalten
+Akuter Harnverhalt
 ********************
 
-Beschreibung und Ursachen
-=========================
 
-**Ein :dfn:`Akutes Harnverhalten` :index:`\ <! Akutes Harnverhalten>` ist Abflussbehinderung des
-Harns aus der Harnblase, bei der verschiedene Ursachen möglich sind.**
+.. only:: not latex
+
+    .. sidebar:: Harnverhalt
+
+    -   Vergrößerung der *Prostata*
+    -   Lähmung (Querschnittlähmung)
+    -   Schließmuskel-Krampf
+    -   Verlegung der Harnröhre
+    -   Medikamente
+
+Ein :dfn:`Akuter Harnverhalt` :index:`\ <! Akuter Harnverhalt>` ist Abflussbehinderung des
+Harns aus der Harnblase, bei der verschiedene Ursachen möglich sind.
+
 Es ist besonders bei Männern im “besten” oder fortgeschrittenem Alter
 häufig anzutreffen. Hauptursache dafür ist eine altersbedingte
 Vergrößerung der Prostata, die die Harnröhre abschnürt. Davon abgesehen
 können auch alte Narben, Medikamente oder eine Störung der Schließmuskel
-der Harnblase [254]_ zu Harnverhalten führen.
+der Harnblase [#HarnverhaltBeispiel]_ zu Harnverhalten führen.
 
 Je nach Füllungszustand der Harnblase kann das Harnverhalten sehr
 schmerzhaft sein. Die Maßnahmen beschränken sich auf einen zügigen
@@ -196,25 +213,16 @@ kaum sinnvoll, da ein NEF oder NAW selten geeignetes Material zur
 Harnableitung mitführt.
 
 
-.. [254]
-   zum Beispiel im Rahmen eines Querschnitt-Syndroms nach
-   Wirbelsäulenverletzungen
+.. [#HarnverhaltBeispiel]
+    zum Beispiel im Rahmen eines Querschnitt-Syndroms nach
+    Wirbelsäulenverletzungen
 
 
--  Vergrößerung der *Prostata*
-
--  Lähmung (Querschnittlähmung)
-
--  Schließmuskel-Krampf
-
--  Verlegung der Harnröhre
-
--  Medikamente
 
 .. _MR33XX1C:
 .. _m-harnverhalten:
 
-Maßnahmen: Akutes Harnverhalten
+Maßnahmen: Akuter Harnverhalt
 ===============================
 
 .. todo:: Maßnahme MR33XX1C: Anpassung an höherqualifiziertes Personal
@@ -224,20 +232,24 @@ Basismaßnahmen
     -   Vorsichtig ablassen über Harnkatheter oder
         Blasenpunktion (Spital)
 
+.. _Thema-niereninsuffizienz:
+.. _Thema-cni-therapie-dialyse:
+
 **********************************************
 Niereninsuffizienz, Nierenversagen und Dialyse
 **********************************************
 
-.. _Thema-niereninsuffizienz:
-.. _Thema-cni-therapie-dialyse:
+.. only:: not latex
 
-Beschreibung
-============
+    .. sidebar:: Chronische Niereninsuffizienz
 
-**Bei der !!!
-TERMINUS !!! [Niereninsuffizienz!chronische]chronischen
-Niereninsuffizienz (*Abkz.* *CNI*) besteht eine chronisch
-beeinträchtigte, herabgesetzte Funktion der Nieren.**
+        -  Chronisch verminderte Nierenfunktion
+        -  Oft in Folge von chronischen Erkankungen
+        -  Dialyse (Blutwäsche)
+
+Bei der :dfn:`chronischen
+Niereninsuffizienz` (*Abkz.* *CNI*) besteht eine chronisch
+beeinträchtigte, herabgesetzte Funktion der Nieren.
 
 Typischerweise kommt es im Rahmen anderer chronischer Krankheiten
 (Diabetes mellitus, Hypertonie, erhöhte Blutfette …) zu einer
@@ -255,22 +267,26 @@ welche sein Blut reinigen kann. Die “Dialysefahrten”, also Transport zu
 einem oder von einem Dialysezentrum, sind eine der Hauptaufgaben des
 Krankentransportdienstes.
 
--  Chronisch verminderte Nierenfunktion
-
--  Oft in Folge von chronischen Erkankungen
-
--  Dialyse (Blutwäsche)
-
 .. _Thema-dialysepatienten-gefahren:
-
-
 
 .. index::
     single: Herzstillstand; bei Niereninsuffizienz
     single: Elektrolytstörung; bei Dialyse
 
-??? und Gefahren
-================
+Besonderheiten  und Gefahren
+===============================
+
+.. only:: not latex
+
+    .. sidebar:: Gefahren
+
+        -   Dialyse-Shunt (Blutungen)
+        -   Wasserhaushalt (Trinkmenge, Lungenödem)
+        -   Elektrolytstörungen (Herzrhythmusstörungen bis zum Herzstillstand)
+        -   Dialyse: Elektrolytstörungen
+        -   Dialysepatientienten sind immer sorgsam zu überwachen.
+            Lebensbedrohliche Notfälle sind aufgrund einer Elektrolytentgleisung,
+            besonders unmittelbar vor und nach einer Dialyse, möglich!
 
 Die Niereninsuffizienz und die
 Nierenersatztherapien bergen Gefahren für den Patienten:
@@ -278,57 +294,57 @@ Nierenersatztherapien bergen Gefahren für den Patienten:
 -  Dialyse-Patienten haben häufig einen *Dialyse-Shunt* (:ref:`Thema-shunt`).
    Die Verbindungsstelle zwischen Arterie und Vene ist verletzlich, hier
    kann es zu Blutungen kommen.
-
 -  Je nach Schweregrad kann der Ausfall der normalen Nierenfunktion
    Auswirkungen auf den *Wasserhaushalt*, den *Elektrolythaushalt* und
    den *Säure-Basen-Haushalt* haben. Diese Funktionen der Niere sind zum
    Überleben elementar (Vitalfunktionen zweiter Ordnung).
    Dialysepatienten müssen daher oft, abhängig von der verbliebenen
-   Flüssigkeitsausscheidung, auf Ihre Trinkmenge achten. Bei einer
-   Überwässerung kann es zu einem Lungenödem kommen. Weiters können !!!
-   INDEX II !!! [Elektrolytstörung!bei
-   Niereninsuffizienz]Elektrolytstörungen zu lebensbedrohlichen **!!!
-   INDEX II !!! [Herzrhythmusstörung!bei
-   Niereninsuffizienz]Herzrhythmusstörungen** bis hin zum Herzstillstand führen.
-
+   Flüssigkeitsausscheidung, auf Ihre Trinkmenge achten.
+   Bei einer
+   Überwässerung kann es zu einem Lungenödem kommen.
+   Weiters können Elektrolytstörungen
+   :index:`\ <Elektrolytstörungen; Dialyse>`
+   zu lebensbedrohlichen **Herzrhythmusstörungen**
+   :index:`\ <Herzrhythmusstörungen; Dialyse>`
+   bis hin zum Herzstillstand führen.
 -  Die **Dialyse** :index:`\ <Dialyse>` stellt einen schwerwiegenden Eingriff in
    den Wasser- und Elektrolythaushalt dar, dementsprechend kann es auch
    nach einer Dialyse zu den oben genannten Elektrolytstörungen kommen!
 
--  Dialyse-Shunt (Blutungen)
 
--  Wasserhaushalt (Trinkmenge, Lungenödem)
 
--  Elektrolytstörungen (Herzrhythmusstörungen bis zum Herzstillstand)
 
--  Dialyse: Elektrolytstörungen
 
--  Dialysepatientienten sind immer sorgsam zu überwachen.
-   Lebensbedrohliche Notfälle sind aufgrund einer Elektrolytentgleisung,
-   besonders unmittelbar vor und nach einer Dialyse, möglich!
+
+
+
+.. index::
+    single: Hodentorsion
+
+
 
 ************
 Hodentorsion
 ************
 
-Beschreibung und Symptome
-=========================
+.. only:: not latex
 
-**Eine :dfn:`Hodentorsion` :index:`\ <! Hodentorsion>` ist eine Drehung des Hodens um
-seine eigene Achse.** Es werden dabei die versorgenden *Blutgefäße
+    .. sidebar:: Hodentorsion
+
+        -  Verdrehung des Hodens um eigene Achse
+        -  Blutgefäße werden abgeschnürt
+        -  Starke Schmerzen, Übelkeit und Erbrechen
+        -  Absterben des Hodens
+
+
+Eine :dfn:`Hodentorsion` :index:`\ <! Hodentorsion>` ist eine Drehung des Hodens um
+seine eigene Achse. Es werden dabei die versorgenden *Blutgefäße
 abgeschnürt*. Es kommt zu sehr starken Schmerzen und vegetativen
 Symptomen wie Übelkeit und Erbrechen. Der Hoden kann geschwollen und
 druckempfindlich sein. Ohne Behandlung stirbt der Hoden schlussendlich
 innerhalb weniger Stunden ab. Die Hodentorsion ist daher ein absoluter
 Notfall.
 
--  Vedrehung des Hodens um eigene Achse
-
--  Blutgefäße werden abgeschnürt
-
--  Starke Schmerzen, Übelkeit und Erbrechen
-
--  Absterben des Hodens
 
 
 .. _MN44000C:

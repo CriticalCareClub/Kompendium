@@ -136,13 +136,13 @@ Endotracheale Intubation (Reanimation)
 
     .. sidebar:: ETI
 
-    - Tubus in Trachea
-    - Laryngoskop
-    - Kontrolle Tubuslage:
+        -   Tubus in Trachea
+        -   Laryngoskop
+        -   Kontrolle Tubuslage:
 
-        - Visuelle Darstellung
-        - Auskultation Magen, Lunge
-        - Kapnographie (CO₂)
+            -   Visuelle Darstellung
+            -   Auskultation Magen, Lunge
+            -   Kapnographie (CO₂)
 
 
 :term:`ETI`

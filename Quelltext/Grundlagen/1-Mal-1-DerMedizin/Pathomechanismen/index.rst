@@ -35,33 +35,24 @@ Entzündung ist eine Reaktion des Körpers
 
     .. sidebar:: Entzündung
 
-    -  Reaktion des Körpers
+        -   Reaktion des Körpers
 
-        #. *Rötung*,
+            #. *Rötung*,
+            #. *Schwellung*,
+            #. *Überwärmung*,
+            #. *Schmerz* und
+            #. *Funktionsverlust*.
 
-        #. *Schwellung*,
+        -   Auslöser
 
-        #. *Überwärmung*,
+            -   Fremdkörper
+            -   Krankheitserreger
+            -   Mechanische Beanspruchung
+            -   Chemische Substanzen
+            -   Physikalische Noxen
+            -   …
 
-        #. *Schmerz* und
-
-        #. *Funktionsverlust*.
-
-    -  Auslöser
-
-        -  Fremdkörper
-
-        -  Krankheitserreger
-
-        -  Mechanische Beanspruchung
-
-        -  Chemische Substanzen
-
-        -  Physikalische Noxen
-
-        -  …
-
-    -  “-itis”
+        -   “-itis”
 
 
 *engl., lat.* inflammation.

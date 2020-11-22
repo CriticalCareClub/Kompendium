@@ -231,19 +231,14 @@ durch Viren verursacht.
 
     .. sidebar:: Viren
 
-    -  Keine vollständigen Zellen
+        -   Keine vollständigen Zellen
+        -   Benötigen Wirtszellen zur Vermehrung
+        -   Virale Erkrankungen sind häuFigure-
 
-    -  Benötigen Wirtszellen zur Vermehrung
-
-    -  Virale Erkrankungen sind häuFigure-
-
-        -  Grippe
-
-        -  Feuchtblattern
-
-        -  Hepatitis-Formen
-
-        -  :math:`\cdots`
+            -   Grippe
+            -   Feuchtblattern
+            -   Hepatitis-Formen
+            -   :math:`\cdots`
 
 Nachweis
 ^^^^^^^^

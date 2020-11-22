@@ -14,10 +14,10 @@ Beatmung (#23)
 
     .. sidebar:: Beatmung -- Beschreibung
 
-        -  Künstliche Überdruckbeatmung
-        -  Kontrollierte Beatmung: Atmung wird vollständig übernommen
-        -  Assistierte Beatmung: Eine vorhandene, aber unzureichende
-        Spontanatmung wird unterstützt
+        -   Künstliche Überdruckbeatmung
+        -   Kontrollierte Beatmung: Atmung wird vollständig übernommen
+        -   Assistierte Beatmung: Eine vorhandene, aber unzureichende
+            Spontanatmung wird unterstützt
 
 Bei Vorliegen einer Ateminsuffizienz\ [#Ateminsuffizienz])
 kann eine *künstliche Beatmung* durchgeführt werden.
@@ -63,15 +63,15 @@ durchgeführt werden.
 
     .. sidebar:: Gefahren
 
-        -  Zu hoher Druck → Magenbeatmung/-blähung, Erbrechen
+        -   Zu hoher Druck → Magenbeatmung/-blähung, Erbrechen
 
-        -  Zu schnell, zu tief: Hyperventilation, atmungsbedingte Alkalose
+        -   Zu schnell, zu tief: Hyperventilation, atmungsbedingte Alkalose
 
-            -  Faustregel: Eine kontrollierte Beatmung eines Erwachsenen soll
-            grundsätzlich im Eigenrhythmus des Helfers erfolgen: Helfer atmet
-            → Patient wird beatmet.
+            -   Faustregel: Eine kontrollierte Beatmung eines Erwachsenen soll
+                grundsätzlich im Eigenrhythmus des Helfers erfolgen: Helfer atmet
+                → Patient wird beatmet.
 
-        -  Durch Hyperventilation kommt es zu einer atmungsbedingten Alkalose
+        -   Durch Hyperventilation kommt es zu einer atmungsbedingten Alkalose
 
 Der notwendige *Überdruck* kann zu Problemen führen, wie z. B.
 Überschreiten des *Speiseröhren-Öffnungsdrucks* (*Magenbeatmung*,
@@ -384,7 +384,7 @@ Beatmungsbedienfeldes erfolgt allerdings auch durch entsprechend, gemäß
 MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 ärztliche Anordnung. [#BedienungBeatmungsgeraetArzt]_
 
-.. [[#BedienungBeatmungsgeraetArzt]
+.. [#BedienungBeatmungsgeraetArzt]
    *Bedienung des Beatmungsrätes durch nichtärztliches Personal*:
    Ausdrückliche Ausnahmen können für höher qualifiziertes Personal
    (NKI) bestehen.

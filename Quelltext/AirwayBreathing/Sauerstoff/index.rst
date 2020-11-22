@@ -12,20 +12,15 @@ Sauerstoff – O₂ (#24)
 
     .. sidebar:: Sauerstoff
 
-    -  Medizinischer Sauerstoff: Vollständig weiß
+        -   Medizinischer Sauerstoff: Vollständig weiß
+        -   Gefahrengutaufkleber
+        -   Unterschiedliche Füllgrößen
+        -   Druck ca. 200 bar
+        -   Hauptventil mit Standardgewinde
+        -   Daran Druckminderer/Berieselungseinheit angeschlossen
 
-    -  Gefahrengutaufkleber
-
-    -  Unterschiedliche Füllgrößen
-
-    -  Druck ca. 200 bar
-
-    -  Hauptventil mit Standardgewinde
-
-    -  Daran Druckminderer/Berieselungseinheit angeschlossen
-
-        -  Gasflaschen mit *medizinischem* Sauerstoff sind *vollständig
-            weiß*.
+            -   Gasflaschen mit *medizinischem* Sauerstoff sind
+                *vollständig weiß*.
 
 
 

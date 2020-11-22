@@ -76,7 +76,7 @@ vor:
 #.  **Notruf, Hilferuf**:
     Ist der *Patient nicht ansprechbar* wird,
     falls notwendig, ein Hilferuf bzw. Notruf abgesetzt.
-    Idealerweise deligiert man diese Aufgabe an einen zusätzlichen Helfer
+    Idealerweise delegiert man diese Aufgabe an einen zusätzlichen Helfer
     um das weitere Vorgehen nicht zu verzögern.
 
 #.  ``A`` **Kopf überstrecken**:

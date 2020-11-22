@@ -364,7 +364,7 @@ Psychose
 
 :dfn:`Psychose` :index:`\ <Psychose>` ist eine allgemeine Bezeichnung für eine
 *psychische Störung* mit strukturellem *Wandel des Erlebens*
-[Pschyrembel:2002]_. Man unterscheidet zwischen organischen, körperlich
+[Pschyrembel:259]_. Man unterscheidet zwischen organischen, körperlich
 begründbaren, und nicht-organischen, d. h. körperlich nicht begründbaren
 Psychosen. In beiden Gruppen kann man weitere Unterscheidungen treffen,
 vgl. :ref:`Table-psychosen-einteilung`. Körperliche Ursachen für Psychosen
@@ -375,7 +375,7 @@ Grundsätzlich muss bis zum Beweis des Gegenteils von einer
 werden!
 
 
-.. list-table:: Einteilung der Psychosen nach [Pschy:259]_
+.. list-table:: Einteilung der Psychosen nach [Pschyrembel:259]_
     :name: Table-psychosen-einteilung
     :stub-columns: 1
 

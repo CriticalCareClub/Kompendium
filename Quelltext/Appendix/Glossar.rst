@@ -177,6 +177,8 @@ Glossar
 .. glossary::
 
     Ⓛ CC BY-NC 2.5
+        CC BY-NC 2.5
+        .. todo:: CC BY-NC 2.5
 
     Lizenz: CC BY-SA 3.0 unported
         Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)

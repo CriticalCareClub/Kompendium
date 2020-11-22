@@ -46,9 +46,6 @@ einen *Vorhof* (:dfn:`Atrium`) und eine
         -   Endokard
         -   Myokard
         -   Epikard
-
-        -----
-
         -   Herzbeutel (Perikard)
 
 Das Herz ist in **drei Schichten** aufgebaut,

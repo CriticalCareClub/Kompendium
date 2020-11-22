@@ -305,7 +305,7 @@ Beschreibung
 
     Bewusstsein ist ein Oberbegriff für u.a. Wachheit, Orientierung,
     Aufmerksamkeit, Auffassungsgabe, Denkverlauf und Merkfähigkeit
-    [Pschyrembel:2002]_. [211]_
+    [Pschyrembel:259]_. [211]_
 
 Es ist eine grundlegende *Vitalfunktion
 erster Ordnung* und wichtig hinsichtlich des Schutzes des Menschen vor
@@ -323,8 +323,7 @@ zur Situation und zur Person). Details siehe :ref:`Thema-Bewusstseinsgrad`.
    Die "wahre" Definition von Bewusstsein ist seit tausenden von Jahren
    ungeklärt. Auch an dieser Stelle wird das Geheimnis nicht gelüftet
    werden, daher muss die obige Definition für den Alltag ausreichen.
-   Hinweisen zufolge könnte die Antwort eventuell "42" sein (Adams
-   1996).
+   Hinweisen zufolge könnte die Antwort eventuell "42" sein [Adams:1996]_.
 
 
 
@@ -461,7 +460,7 @@ Beschreibung: Vegetatives Nervensystem
     Das :dfn:`vegetative Nervensystem`
     ist jener Teil des Nervensystems, welcher der Regelung der
     Vitalfunktionen dient und das Zusammenwirken der einzelnen Teile des
-    Körpers gewährleistet [Pschy:259]_ .
+    Körpers gewährleistet [Pschyrembel:259]_ .
 
 .. sidebar:: Vegetatives Nervensystem
 

@@ -296,32 +296,25 @@ welche Qualitäten z. B. von einem Sanitäter erwartet werden, liefert das
 Anforderungsprofil des Arbeitsmarktservice (AMS):
 
 -  Körperliche und psychische Belastbarkeit
-
 -  rasches Auffassungs- und Reaktionsvermögen
-
 -  Einfühlungsvermögen
-
 -  Beobachtungsgabe
-
 -  Kommunikations- und Teamfähigkeit
-
 -  Zuverlässigkeit
-
 -  Verantwortungsbewusstsein
 
--  Körperliche und psychische Belastbarkeit
 
--  rasches Auffassungs- und Reaktionsvermögen
+.. only:: not latex
 
--  Einfühlungsvermögen
+    .. sidebar:: Anforderungen
 
--  Beobachtungsgabe
-
--  Kommunikations- und Teamfähigkeit
-
--  Zuverlässigkeit
-
--  Verantwortungsbewusstsein
+        -  Körperliche und psychische Belastbarkeit
+        -  rasches Auffassungs- und Reaktionsvermögen
+        -  Einfühlungsvermögen
+        -  Beobachtungsgabe
+        -  Kommunikations- und Teamfähigkeit
+        -  Zuverlässigkeit
+        -  Verantwortungsbewusstsein
 
 
 .. _thema-taetigkeitsbild-sanitaeter-belastung:
@@ -333,28 +326,19 @@ Anforderungen und Belastungen in der Praxis
 
     .. sidebar:: Anforderungen und Belastungen in der Praxis
 
-    -  Medizinisches Wissen und Kompetenz
+        -   Medizinisches Wissen und Kompetenz
+        -   Zuverlässigkeit
+        -   Eigenverantwortlichkeit
+        -   Schnelles Einschätzen
+        -   Verantwortung übernehmen
+        -   Kommunikation
+        -   Einfühlungsvermögen
+        -   *Frustrationstoleranz*
+        -   Teamfähigkeit
+        -   *körperliche* und *psychische* Belastungsfähigkeit
 
-    -  Zuverlässigkeit
-
-    -  Eigenverantwortlichkeit
-
-    -  Schnelles Einschätzen
-
-    -  Verantwortung übernehmen
-
-    -  Kommunikation
-
-    -  Einfühlungsvermögen
-
-    -  *Frustrationstoleranz*
-
-    -  Teamfähigkeit
-
-    -  *körperliche* und *psychische* Belastungsfähigkeit
-
-        -  Der (richtige) Umgang mit Frustration ist wesentlich, um im
-        Rettungs- und Krankentransportdienst auf Dauer “zu überleben”.
+            -  Der (richtige) Umgang mit Frustration ist wesentlich,
+                um im Rettungs- und Krankentransportdienst auf Dauer “zu überleben”.
 
 Es versteht sich von selbst, dass die professionelle Versorgung
 erkrankter bzw. verunfallter Menschen solides *medizinisches Wissen*

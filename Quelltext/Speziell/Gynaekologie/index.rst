@@ -742,9 +742,6 @@ Maßnahmen: Versorgung des Neugeborenen
     }
 
 
-[AsboeLehrmeinungRd2011-19]_ [AsboeLehrmeinungRd2011-18]_ \
-
-
 
 .. _Figure-partus-set:
 

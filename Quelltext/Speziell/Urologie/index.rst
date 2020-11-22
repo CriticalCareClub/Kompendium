@@ -15,13 +15,9 @@ Exkurs: Harnkatheter
     .. sidebar:: Harnkatheter
 
         -   Katheter leitet aus Harnblase Urin ab
-
         -   Harnbeutel – *unterhalb* d. Patienten
-
         -   Schlauch abklemmen beim Umlagern
-
         -   Wenn ablassen, Menge notieren
-
         -   Infektionsgefahr
 
 Ein *Harnkatheter* ist ein harnableitendes System, bei dem ein Schlauch
@@ -139,7 +135,7 @@ Entzündung des Nierenbeckens. *Syn.* *Pyelonephritis*.
 Sie ist oft
 bakteriell bedingt und umfasst die oberen Harnwege, das
 Nierenbeckenkelchsystem und u.U. auch das Nierengewebe und ist eine der
-häufigsten Erkrankungen der Niere [Pschyrembel:2002]_. Im schlimmsten
+häufigsten Erkrankungen der Niere [Pschyrembel:259]_. Im schlimmsten
 Fall kann sich die Infektion weiter ausbreiten und eine Sepsis
 verursachen (:ref:`Thema-sepsis`).
 
@@ -191,11 +187,11 @@ Akuter Harnverhalt
 
     .. sidebar:: Harnverhalt
 
-    -   Vergrößerung der *Prostata*
-    -   Lähmung (Querschnittlähmung)
-    -   Schließmuskel-Krampf
-    -   Verlegung der Harnröhre
-    -   Medikamente
+        -   Vergrößerung der *Prostata*
+        -   Lähmung (Querschnittlähmung)
+        -   Schließmuskel-Krampf
+        -   Verlegung der Harnröhre
+        -   Medikamente
 
 Ein :dfn:`Akuter Harnverhalt` :index:`\ <! Akuter Harnverhalt>` ist Abflussbehinderung des
 Harns aus der Harnblase, bei der verschiedene Ursachen möglich sind.

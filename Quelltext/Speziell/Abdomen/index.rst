@@ -848,13 +848,12 @@ Symptome
 
     .. sidebar:: Symptome
 
-        -  Abdominalschmerzen
-        -  Übelkeit, Erbrechen
-        -  ~ 6 h stilles Intervall
-        -  Nach ~ 12–24 h Durchbruch und
-        Bauchfellentzündung, Ileus
-
-        -  Übelriechende, blutige Stuhlabgänge
+        -   Abdominalschmerzen
+        -   Übelkeit, Erbrechen
+        -   ~ 6 h stilles Intervall
+        -   Nach ~ 12–24 h Durchbruch und
+            Bauchfellentzündung, Ileus
+        -   Übelriechende, blutige Stuhlabgänge
 
 
 Die Symptome sind eher unspezifisch. Der Patient klagt oft (aber nicht

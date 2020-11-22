@@ -38,8 +38,8 @@ Befunde
 
     .. sidebar:: Atemweg -- Befunde
 
-    -   Frei, verlegt, gefährdet
-    -   Atemgeräusche: Pfeifen, Gurgeln, Schnarchen; Gestik
+        -   Frei, verlegt, gefährdet
+        -   Atemgeräusche: Pfeifen, Gurgeln, Schnarchen; Gestik
 
 Speziell *pfeifende*, *gurgelnde* oder *schnarchende* Atemgeräusche
 können ein Hinweis auf eine Verlegung sein.

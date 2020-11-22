@@ -21,7 +21,7 @@ Beschreibung
 
 Eine :dfn:`Wunde` :index:`\ <! Wunde>` (*Lat.* (*Vuln.*)) ist eine
 Unterbrechung des Zusammenhangs von Körpergeweben durch mechanische,
-thermische, Strahlen- oder chemische Einwirkungen [Pschy:259]_. [293]_ Wunden lassen
+thermische, Strahlen- oder chemische Einwirkungen [Pschyrembel:259]_. [293]_ Wunden lassen
 sich *nach verschiedenen Gesichtspunkten* einteilen bzw. unterscheiden.
 In den folgende Abschnitten sind Einteilungen nach der physikalischen
 Verletzungsursache, nach der Tiefe der Schädigung sowie nach der Art der
@@ -31,7 +31,7 @@ Schädigung (Wundart) angeführt.
 .. [293]
    Wunde: Die übliche Beschreibung einer Wunde als eine Verletzung der
    Haut ist nicht korrekt. Meist werden mehrere Gewebearten in
-   Mitleidenschaft gezogen. Definition [Pschyrembel:2002]_: Unterbrechung
+   Mitleidenschaft gezogen. Definition [Pschyrembel:259]_: Unterbrechung
    des Zusammenhangs von Körpergeweben mit oder ohne Substanzverlust.
 
 
@@ -49,7 +49,7 @@ Physikalische Verletzungsursache
 
 
 Eine Einteilung bezieht sich auf die *physikalische Verletzungsursache*
-[Pschy:259]_:
+[Pschyrembel:259]_:
 
 #. :dfn:`Mechanische Wunden` :index:`\ <! Mechanische Wunden>`: Entstehen durch spitze oder
    stumpfe Gewalteinwirkung auf den Körper (Stichwunde, Schürfwunde,

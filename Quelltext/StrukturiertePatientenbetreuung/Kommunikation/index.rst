@@ -280,15 +280,15 @@ Allgemeine Grundregeln und Ratschläge
 
     .. sidebar:: Allgemeine Grundregeln
 
-    -   Vorstellen
-    -   auf Augenhöhe mit dem Patienten
-    -   deutliche, einfache Sprache
-    -   aktives Zuhören
-    -   Verstehen der Antworten
-    -   nur eine Frage gleichzeitig
-    -   Informieren über die Maßnahmen
-    -   Aufrichtigkeit
-    -   Bezugsperson
+        -   Vorstellen
+        -   auf Augenhöhe mit dem Patienten
+        -   deutliche, einfache Sprache
+        -   aktives Zuhören
+        -   Verstehen der Antworten
+        -   nur eine Frage gleichzeitig
+        -   Informieren über die Maßnahmen
+        -   Aufrichtigkeit
+        -   Bezugsperson
 
 Ein gut geführtes Patientengespräch ist durch folgende Merkmale
 gekennzeichnet:

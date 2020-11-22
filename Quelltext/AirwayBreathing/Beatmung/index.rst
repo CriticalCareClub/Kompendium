@@ -18,24 +18,32 @@ Beatmung (#23)
         -  Assistierte Beatmung: Eine vorhandene, aber unzureichende
         Spontanatmung wird unterstützt
 
-Bei *fehlender* oder *nicht ausreichender Spontanatmung*
-(Eigenatmung < 8 bzw. > 35/min oder Atemzugvolumen nicht ausreichend)
-wird eine *künstliche Beatmung* durchgeführt.
-Dabei wird Eigenatmung des Patienten
+Bei Vorliegen einer Ateminsuffizienz\ [#Ateminsuffizienz])
+kann eine *künstliche Beatmung* durchgeführt werden.
+Dabei wird die Atmung des Patienten
 künstlich durch geeignete Hilfsmittel ersetzt oder ergänzt.
-Es handelt sich um eine *Überdruckbeatmung*\ [135]_,
+Es handelt sich um eine *Überdruckbeatmung*\ [#Ueberdruckbeatmung]_,
 d. h. es wird mit Druck Luft in die Atemwege des Patienten gepumpt.
 (Im Unterschied dazu wird bei der natürlichen Atmung Luft mit Unterdruck
-in den Patienten eingesogen.)
+durch den Patienten eingesogen.)
 Man unterscheidet zwischen einer *kontrollierten* und einer *assistierten*
 Beatmung.
 
-.. [135]
-   Theoretisch kann auch mittels einer Unterdruckkammer eine
-   Unterdruckbeatmung durchgeführt werden
-   (*Eiserne Lunge* :index:`\ <Lunge; eiserne>`),
-   dies ist aber sehr aufwendig und wird
-   praktisch nicht durchgeführt.
+.. [#Ateminsuffizienz]
+    Zur Beurteilung einer Ateminsuffizienz sind verschiedene Faktoren zu beachten.
+    Bei einem Atemstillstand oder einer Schnappatmung ist jedenfalls von einer (beatmungspflichtigen) Ateminsuffizienz auszugehen.
+    Darüber hinaus können klinische Parameter wie die Atemfrequenz,
+    die Atemmechanik des Patienten,
+    oder auch Messwerte wie die Blutgasanalyse
+    auf das Vorliegen einer Ateminsuffizienz hinweisen
+    bzw. deren Schwere beurteilen.
+
+.. [#Ueberdruckbeatmung]
+    Theoretisch kann auch mittels einer Unterdruckkammer eine
+    Unterdruckbeatmung durchgeführt werden
+    (*Eiserne Lunge* :index:`\ <Lunge; eiserne>`),
+    dies ist aber sehr aufwendig und wird
+    praktisch nicht durchgeführt.
 
 Bei der :dfn:`kontrollierten Beatmung`
 wird die gesamte Atmung künstlich aufrecht erhalten; hingegen bei der
@@ -50,6 +58,19 @@ durchgeführt werden.
 
 .. rubric:: Gefahren
 
+..
+    .. sidebar:: Gefahren
+
+        -  Zu hoher Druck → Magenbeatmung/-blähung, Erbrechen
+
+        -  Zu schnell, zu tief: Hyperventilation, atmungsbedingte Alkalose
+
+            -  Faustregel: Eine kontrollierte Beatmung eines Erwachsenen soll
+            grundsätzlich im Eigenrhythmus des Helfers erfolgen: Helfer atmet
+            → Patient wird beatmet.
+
+        -  Durch Hyperventilation kommt es zu einer atmungsbedingten Alkalose
+
 Der notwendige *Überdruck* kann zu Problemen führen, wie z. B.
 Überschreiten des *Speiseröhren-Öffnungsdrucks* (*Magenbeatmung*,
 *Magenblähung*, *Erbrechen*) oder Lungenschäden. Es ist oft zu
@@ -59,15 +80,6 @@ haben, da es zu einer *Hyperventilation* und dadurch zu einer
 atmungsbedingen Alkalose kommt (Störung des Säure-Basen-Haushaltes, vgl.
 :ref:`Thema-alkalose-respiratorische`).
 
--  Zu hoher Druck → Magenbeatmung/-blähung, Erbrechen
-
--  Zu schnell, zu tief: Hyperventilation, atmungsbedingte Alkalose
-
-    -  Faustregel: Eine kontrollierte Beatmung eines Erwachsenen soll
-       grundsätzlich im Eigenrhythmus des Helfers erfolgen: Helfer atmet
-       → Patient wird beatmet.
-
--  Durch Hyperventilation kommt es zu einer atmungsbedingten Alkalose
 
 Die Technik der Beatmung mittels Maske und Beatmungsbeutel ist unter :ref:`Thema-BeutelMaskenBeatmung` beschrieben.
 
@@ -166,38 +178,37 @@ Parameter:
 Frequenz :math:`f`
     der Atemzyklen
 
-Dauer von Inspiration und Exspiration
-    bzw. I:E-Verhältnis
+Dauer von Inspiration (I) und Exspiration (E)
+    *"I:E-Verhältnis"*
 
 Flow
-    im Verlauf des Atemzyklus
+    Fluss im Verlauf des Atemzyklus
 
 Volumen (V)
-    ergibt sich aus Flow über Zeit
+    ergibt sich aus Flow über die Zeit
 
 Druck
     im Verlauf des Atemzyklus
 
 Complicance
-    der Lunge
+    Dehnbarkeit der Lunge
 
 Resistance
     Der Atemwegswiderstand
 
 Die Compliance bzw. Resistance spiegeln im Wesentlichen die gegebenen
-Eingenschaften des Gewebes wider.
+Eingenschaften des Gewebes und des Atemwegs wider.
 
 Essentiell ist das Verständnis dass die Parameter miteinander in
 Verbindung stehen und sich gegenseitig beeinflussen:
 
-- Die Frequenz limitiert die Zeiten für Inspiration und Exspiration
-
-- Bei gegebener Compliance und gewähltem Zielvolumen (und Flow)
-  ergeben sich gewisse Druckverhältnisse
-  (Wahl: Volumen, Freiheitsgrad: Druck)
-
-- Bei gegebener Compliance und gewähltem Druck ergibt sich ein Volumen
-  (Wahl: Druck, Freiheitsgrad: Volumen (und Flow))
+-   Die Frequenz limitiert die Zeiten für Inspiration und Exspiration
+-   Bei gegebener Compliance und gewähltem Zielvolumen (und Flow)
+    ergeben sich gewisse Druckverhältnisse
+    (Wahl: Volumen, Freiheitsgrad: Druck)
+-   Bei gegebener Compliance
+    und gewähltem Druck ergibt sich ein Volumen
+    (Wahl: Druck, Freiheitsgrad: Volumen (und Flow))
 
 
 Essentielle Beatmungsmuster
@@ -214,12 +225,10 @@ Essentielle Beatmungsmuster
 Volumenkontrollierte Beatmung: ``VCV``, ``IPPV``
 ------------------------------------------------
 
-:dfn:`VCV`
-
+:VCV:
      :dfn:`Volume Controlled Ventilation`
 
-:dfn:`IPPV`
-
+:IPPV:
      :dfn:`Intermittend Positive Pressure Ventilation`, Synonym für VCV
 
 Bei der klassischen volumenkontrollierten Beatmung wird über eine
@@ -315,43 +324,42 @@ Je nach Komplexität unterscheidet man unterschiedliche Typen von
 Beatmungsgeräten:
 
 Intensivbeatmungsgeräte
-   bieten große Freiheiten bei der
-   Beatmungstherapie,
-   unterstützen in der Regel Spontanatemmuster und
-   können sowohl volumenkontrolliert, als auch druckkontrolliert
-   beatmen.
-   Zwischen den unterschiedlichen Typen gibt es erhebliche Unterschiede im
-   Funktionsumfang, in der Bedienung und auch in der Nomenklatur.
-   Sie sind für die Langzeitbeatmung vorgesehen.
+    bieten große Freiheiten bei der
+    Beatmungstherapie,
+    unterstützen in der Regel Spontanatemmuster und
+    können sowohl volumenkontrolliert, als auch druckkontrolliert
+    beatmen.
+    Zwischen den unterschiedlichen Typen gibt es erhebliche Unterschiede im
+    Funktionsumfang, in der Bedienung und auch in der Nomenklatur.
+    Sie sind für die Langzeitbeatmung vorgesehen.
 
 (Intensiv-)Transportbeatmungsgeräte
-   Sie stellen eine Mischung aus Notfall- und Intensivbeatmungsgerät
-   dar.
-   Auch hier gibt es zwischen den Herstellern und Modellen große
-   Unterschiede.
-   Sie bieten an sich auch eine reichhaltige Auswahl an
-   Einstellmöglichkeiten und Beatmungsmustern, bzw. bieten bereits
-   diverse Möglichkeiten für eine differenzierte Beatmungstherapie,
-   haben jedoch auch einige Einschränkungen
-   (Gasversorgung, Befeuchtung, …).
+    Sie stellen eine Mischung aus Notfall- und Intensivbeatmungsgerät
+    dar.
+    Auch hier gibt es zwischen den Herstellern und Modellen große
+    Unterschiede.
+    Sie bieten an sich auch eine reichhaltige Auswahl an
+    Einstellmöglichkeiten und Beatmungsmustern, bzw. bieten bereits
+    diverse Möglichkeiten für eine differenzierte Beatmungstherapie,
+    haben jedoch auch einige Einschränkungen
+    (Gasversorgung, Befeuchtung, …).
 
 Notfallbeatmungsgeräte
-   bieten nur elementare Einstellungen und Beatmungsmuster und sind in Ihrer
-   Funktion am ehesten mit einem “automatisierten Beatmungsbeutel”
-   vergleichbar.
-   Reine Notfallbeatmungsgeräte bieten sie nur die Möglichkeit zur
-   kontrollierten, volumskontrollierten Beatmung
-   und können nur zeitlich begrenzt eingesetzt werden.
-   Zunehmend bieten aber auch notfallbeatmungsgeräte differenzierte
-   Beatmungsformen an,
-   insbesonders auch druckkontrollierte Beatmung,
-   sowie Spontanatmungsformen wie CPAP oder NIV.
+    bieten nur elementare Einstellungen und Beatmungsmuster und sind in Ihrer
+    Funktion am ehesten mit einem “automatisierten Beatmungsbeutel”
+    vergleichbar.
+    Reine Notfallbeatmungsgeräte bieten sie nur die Möglichkeit zur
+    kontrollierten, volumskontrollierten Beatmung
+    und können nur zeitlich begrenzt eingesetzt werden.
+    Zunehmend bieten aber auch notfallbeatmungsgeräte differenzierte
+    Beatmungsformen an,
+    insbesonders auch druckkontrollierte Beatmung,
+    sowie Spontanatmungsformen wie CPAP oder NIV.
 
 
 .. index::
     single: Medumat™; Standard
     single: Berieselungsmodul
-
 
 Beispiel: Medumat™ Standard
 ---------------------------
@@ -367,12 +375,13 @@ Fa. Weinmann vorgestellt. Zusammen mit einem Sauerstoffmodul (*Modul
 Oxygen*, Berieselungsmodul) kann ein Patient sowohl beatmet als auch mit
 Sauerstoff berieselt werden. Für die Berieselung und Beatmung gibt es je
 ein eigenes Bedienfeld (Modul). Die Beatmung mittels Beatmungsgerät ist
-grundsätzlich dem ärztlichen Personal vorbehalten. Die Bedienung des
+grundsätzlich dem ärztlichen Personal vorbehalten.
+Die Bedienung des
 Beatmungsbedienfeldes erfolgt allerdings auch durch entsprechend, gemäß
 MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
-ärztliche Anordnung. [139]_
+ärztliche Anordnung. [#BedienungBeatmungsgeraetArzt]_
 
-.. [139]
+.. [[#BedienungBeatmungsgeraetArzt]
    *Bedienung des Beatmungsrätes durch nichtärztliches Personal*:
    Ausdrückliche Ausnahmen können für höher qualifiziertes Personal
    (NKI) bestehen.
@@ -482,10 +491,12 @@ mittels eines :dfn:`PEEP-Ventils` erreicht
 werden.
 Es wird dabei auf die Ausatemöffnung des Beatmungsbeutels bzw.
 Beatmungsschlauches aufgesteckt. Durch Drehen der Kappe kann der
-gewünschte PEEP eingestellt werden. Die Einstellung kann an der
-angebrachten *Skala* abgelesen werden\ [140]_. Es gibt
+gewünschte PEEP eingestellt werden.
+Die Einstellung kann an der
+angebrachten *Skala* abgelesen werden\ [#DruckEinheit]_.
+Es gibt
 PEEP-Ventil-Produkte sowohl als *Einweg-*, als auch als
-*Mehrweg*\ material!\ [141]_
+*Mehrweg*\ material!\ [#PeepIntern]_
 Bei der Maskenbeatmung ist zu beachten,
 dass der PEEP nur erreicht werden kann,
 wenn das Beatmungssystem *luftdicht* ist.
@@ -498,12 +509,12 @@ da die Ausatemluft unkontrolliert über die
 
 
 
-.. [140]
+.. [#DruckEinheit]
    Der Druck wird je nach Modell in Zentimeter Wassersäule (cm H₂O)
    oder Millibar (mbar) angebeben.
    Typische Werte sind z. B. 5 oder 10 cm H₂O.
 
-.. [141]
+.. [#PeepIntern]
    Moderne Beatmungsgeräte verfügen über eine integrierte
    PEEP-Ventil und benötigen kein zusätzliches, externes PEEP-Ventil.
 

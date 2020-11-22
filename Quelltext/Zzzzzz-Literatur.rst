@@ -278,7 +278,6 @@ Literaturverzeichnis
 [Harrisons18DeKap245]_
 [EKG-Knacker2]_
 [FrielingLehrbArbeitspsy:2]_
-[SiewertChirurgie8-06-Gefaesschirurgie]_
 [ADR:2011]_
 [www.ekg-online.de]_
 [Enne:2012]_
@@ -311,7 +310,6 @@ Literaturverzeichnis
 [Jones:1973]_
 [Kamolz:2009]_
 [Kaplan:2001]_
-[KeggenhoffEH]_
 [KontrollamtWienKA-K-13-09]_
 [Verbrennungsmed-2009Praehosp]_
 [RkPlsNeu:2008]_
@@ -366,6 +364,40 @@ Literaturverzeichnis
 [Yerkes:1908]_
 [Ziesenitz:2009]_
 
+[Alberts:2001]_
+[Benninghoff:17:Bd1]_
+[Bergner:9]_
+[Buchfelder:4]_
+[Classen:5]_
+[Huch:6]_
+[Kaindl:7]_
+[Karutz:1]_
+[Kayser:10]_
+[Kramer:1]_
+[Kramer:KHH:1]_
+[Kuehn:2002:1]_
+[Kuehn:2003:2]_
+[Lazarus:1984]_
+[Lehmeyer:1]_
+[Leohnhardt:2003]_
+[Loeffler:7]_
+[Platzer:2003]_
+[Redelsteiner:2]_
+[Renz-Polster:4]_
+[Schabus:1]_
+[Seto:2003]_
+[EkgIsabell:5]_
+[SitzmannPaediatrie:2]_
+[Vbv:2002]_
+[Waldeyer:2003]_
+[BrockhausDrei2Bd2]_
+[BrockhausDrei1Bd2]_
+[BrockhausDrei3Bd2]_
+[EcgEmergencyDec:2]_
+[WHOISH:2003]_
+[WiedenmannHygieneRD:1]_
+[wiki:pseudokrupp]_
+[wiki:zivilschutzsignale:20120810]_
 
 Alpha
 ================================================================================
@@ -1054,6 +1086,11 @@ K
 L
 ================================================================================
 
+.. [Lang:2012]
+    Wilfried Lang, Julia Ferrari, Michael Brainin, Franz Fazekas und Johann Willeit:
+    **Ischämischer Schlaganfall.**
+    Österreichische Ärztezeitung 2012:18.
+    http://www.aerztezeitung.at/fileadmin/PDF/2012_Verlinkungen/StateSchlaganfall.pdf.
 
 .. [Lazarus:1984]
     Lazarus, R.S. and S. Folkman (HG):
@@ -1164,7 +1201,7 @@ P
 	Taschenatlas der Anatomie.
 	2003.Thieme.
 
-.. [Pschy:259]
+.. [Pschyrembel:259]
 	Pschyrembel, Willibald (HG):
 	**Pschyrembel Klinisches Wörterbuch.**
 	259. Auflage, 2002.
@@ -3335,7 +3372,7 @@ Z
 
 .. [wiki:pseudokrupp]
 
-	———. 2010.
+	2010.
 	**Pseudokrupp — Wikipedia, Die Freie Enzyklopädie.**
 	http://de.wikipedia.org/w/index.php?title=Pseudokrupp&oldid=70531371.
 
@@ -3347,7 +3384,7 @@ Z
 
 .. [wiki:zivilschutzsignale:20120810]
 
-	———. 2012.
+	2012.
 	**Zivilschutzsignale.** Wikipedia, Die freie Enzyklopädie.
 	http://de.wikipedia.org/w/index.php?title=Zivilschutzsignale&oldid=105758278.
 

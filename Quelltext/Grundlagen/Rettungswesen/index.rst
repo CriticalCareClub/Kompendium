@@ -139,7 +139,8 @@ protokolliert, als auch besondere Ereignisse. Telefongespräche mit der
 Leitstelle werden i.d.R. aufgezeichnet und gespeichert.
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Aufgaben
 
     -  *Call Taking*
@@ -342,7 +343,8 @@ organisationsspezifische andere Einsatzmitteltypen zum Einsatz.
 Krankentransportwagen – KTW
 ---------------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: KTW
 
     -  Krankentransport
@@ -372,7 +374,8 @@ Rettungssanitäter*).
 Rettungstransportwagen – RTW
 ----------------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: RTW
 
     -  Notfallrettung, Überstellungen
@@ -420,7 +423,8 @@ Rettungssanitäter* ).
 Notarztwagen – NAW
 ------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: NAW
 
     -  Notfallrettung, Überstellungen
@@ -447,7 +451,8 @@ mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifikation:
 Notarzteinsatzfahrzeug – NEF
 ----------------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: NEF
 
     -  Notfallrettung, Überstellungen
@@ -490,7 +495,8 @@ Notarzthubschrauber – NAH
 
 
 
-..
+.. only:: not latex
+
     .. sidebar:: NAH
 
     -  Notfallrettung, Überstellungen

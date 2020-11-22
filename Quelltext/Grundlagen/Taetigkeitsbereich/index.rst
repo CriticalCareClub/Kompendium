@@ -329,7 +329,8 @@ Anforderungsprofil des Arbeitsmarktservice (AMS):
 Anforderungen und Belastungen in der Praxis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-..
+.. only:: not latex
+
     .. sidebar:: Anforderungen und Belastungen in der Praxis
 
     -  Medizinisches Wissen und Kompetenz

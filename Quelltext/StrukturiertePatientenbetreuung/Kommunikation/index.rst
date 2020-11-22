@@ -276,7 +276,8 @@ Allgemeine Grundregeln und Ratschläge
 =====================================
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Allgemeine Grundregeln
 
     -   Vorstellen

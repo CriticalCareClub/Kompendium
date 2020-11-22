@@ -38,7 +38,8 @@ Schädigung (Wundart) angeführt.
 Physikalische Verletzungsursache
 ================================
 
-..
+.. only:: not latex
+
     .. sidebar:: Wunden
 
         -  Mechanische Wunden

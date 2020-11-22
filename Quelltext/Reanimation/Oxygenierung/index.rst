@@ -39,7 +39,8 @@ Häufig anzutreffen sind:
 -   Beatmung mittels supra-/extraglottischer Atemwegshilfsmittel
 -   Beatmung mittels endotrachealer Intubation
 
-..
+.. only:: not latex
+
     .. sidebar:: Technik und Parameter
 
         -   Sauerstoff und Beatmungshilfsmittel
@@ -88,7 +89,8 @@ Erfolglose Beatmungsversuche sollen nicht wiederholt werden.
 Gefahren
 ========
 
-..
+.. only:: not latex
+
     .. sidebar:: Beutel-Maske / Gefahren
 
         -   Atemzugsvolumen oder Beatmungsdruck ↑↑↑ → Luft in den Magen
@@ -130,7 +132,8 @@ Endotracheale Intubation (Reanimation)
 **********************************************************************************
 
 
-..
+.. only:: not latex
+
     .. sidebar:: ETI
 
     - Tubus in Trachea

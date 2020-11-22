@@ -7,7 +7,8 @@
 Die Diagnose (#26)
 ##################
 
-..
+.. only:: not latex
+
     .. sidebar:: Diagnosen
 
         -  Verdachtsdiagnose

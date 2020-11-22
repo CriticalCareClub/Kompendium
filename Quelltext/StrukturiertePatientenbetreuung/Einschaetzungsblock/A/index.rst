@@ -34,7 +34,8 @@ Diese sind auch für den folgenden Punkt ``B`` (Atmung) relevant.
 Befunde
 =======
 
-..
+.. only:: not latex
+
     .. sidebar:: Atemweg -- Befunde
 
     -   Frei, verlegt, gefährdet

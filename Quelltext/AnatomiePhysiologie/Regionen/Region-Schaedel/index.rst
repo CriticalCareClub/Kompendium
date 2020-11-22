@@ -19,7 +19,8 @@ auch alle übrigen Strukturen der Region ein (Haut, Muskeln, Hirn, …).
 Aufbau des Hirnschädels
 ***********************
 
-..
+.. only:: not latex
+
     .. sidebar:: Hirnschädel
 
         -  Schädelbasis
@@ -66,7 +67,8 @@ welche Richtung der Kopf des Kindes schaut.
 Schädelbasis
 ************
 
-..
+.. only:: not latex
+
     .. sidebar:: Schädelbasis
 
         -   Auflagefläche des Gehirns

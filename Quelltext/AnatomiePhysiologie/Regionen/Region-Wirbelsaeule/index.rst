@@ -5,7 +5,8 @@ Die Wirbelsäule
 
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Wirbelsäule
 
         -   Doppelt S-förmig gekrümmtes Achsenskelett, ermöglicht aufrechten Gang

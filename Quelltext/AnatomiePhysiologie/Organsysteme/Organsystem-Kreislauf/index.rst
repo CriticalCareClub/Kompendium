@@ -10,7 +10,8 @@ Der **Kreislauf**
 
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Kreislauf
 
         -   3 Komponenten:

@@ -39,7 +39,8 @@ und ein ausreichender Spontankreislauf einsetzt
     -   Die Unterbrechung der HDM durch den AED/Defibrillator soll
         insgesamt  **unter 5 s** betragen!
 
-..
+.. only:: not latex
+
     .. sidebar:: HDM / Technik
 
         -   Druckpunkt: *Mitte* des Brustkorbes
@@ -133,7 +134,8 @@ max. 120 / min).
 Fehlerquellen
 ----------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: Fehlerquellen
 
         -   Leerlauf

@@ -39,7 +39,8 @@ Teile des Neurochecks werden während des Einschätzungsblockes
 Neurocheck
 ----------
 
-..
+.. only:: not latex
+
     .. sidebar:: Neurocheck
 
         -  	Bewusstseinslage

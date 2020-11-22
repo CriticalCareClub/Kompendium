@@ -31,7 +31,8 @@ Entzündung ist eine Reaktion des Körpers
 ****************************************
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Entzündung
 
     -  Reaktion des Körpers

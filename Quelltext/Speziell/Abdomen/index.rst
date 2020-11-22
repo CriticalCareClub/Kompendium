@@ -16,7 +16,8 @@ Allgemeines
 Anamnese und Untersuchung
 =========================
 
-..
+.. only:: not latex
+
     .. sidebar:: Bauch
 
         -   Stuhl
@@ -258,7 +259,8 @@ Appendizitis (Blinddarmentzündung)
 ==================================
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Appendizitis
 
         -  Schmerzen im re. Unterbauch
@@ -330,7 +332,8 @@ Verstopfung des Gallengangs und folglich einen Rückstau von
 Gallenflüssigkeit in die Leber. Dabei wird der Gallengang gedehnt und es
 kommt zu starken Dehnungsschmerzen.
 
-..
+.. only:: not latex
+
     .. sidebar:: Gallenkolik
 
         -  Verstopfung der Gallenwege (Stein)
@@ -351,7 +354,8 @@ Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr
 *unruhig* und agitiert.
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Symptome
 
         -  Kolikartige Schmerzen im re. Oberbauch
@@ -413,7 +417,8 @@ Unterscheidung nach der Stelle der Blutung ist wesentlich:
     Stande.
 
 
-..
+.. only:: not latex
+
     .. sidebar:: GI-Blutung
 
         -   Oberer Teil: Ösophagusvarizen
@@ -441,7 +446,8 @@ Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz, man
 Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Symptome
 
         -   Oberer Teil: Erbrechen von
@@ -485,7 +491,8 @@ Basismaßnahmen
 Magen-Darm-Grippe, Gastroenteritis, Lebensmittelvergiftung
 ==========================================================
 
-..
+.. only:: not latex
+
     .. sidebar:: Ursachen
 
         -   Vielfältig
@@ -511,7 +518,8 @@ Infekt]Exsikkose).
 Symptome
 --------
 
-..
+.. only:: not latex
+
     .. sidebar:: Symtome
 
         -  Erbrechen
@@ -561,7 +569,8 @@ Flüssigkeitsmangel: Exsikkose
 =============================
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Exsikkose
 
         -  Mangel an Flüssigkeit
@@ -603,7 +612,8 @@ vielen Möglichkeiten.
 Symptome
 --------
 
-..
+.. only:: not latex
+
     .. sidebar:: Symtome
 
         -  RR ↓
@@ -634,7 +644,8 @@ Magen- und Zwölffingerdarmgeschwür
 ==================================
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Magen- und Zwölffingerdarmgeschwür
 
         -   Bakteriell
@@ -682,7 +693,8 @@ Autoimmunerkrankungen können ebenso zu einem Geschwür führen.
 Symptome
 --------
 
-..
+.. only:: not latex
+
     .. sidebar:: Symptome
 
         -  Schmerzen (Oberbauch), Übelkeit, Erbrechen
@@ -718,7 +730,8 @@ Entzündung der Bauchspeicheldrüse: Pankreatitis
 ===============================================
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Pankreatitis
 
         -  Gallensteinleiden
@@ -748,7 +761,8 @@ an-/verdaut.
 Symptome
 --------
 
-..
+.. only:: not latex
+
     .. sidebar:: Symptome
 
         -  Oberbauchschmerzen, oft gürtelförmig
@@ -764,7 +778,8 @@ häufigsten Begleitsymptome sind Übelkeit und Erbrechen, sowie Fieber.
 Verlauf
 -------
 
-..
+.. only:: not latex
+
     .. sidebar:: Verlauf
 
         -  Ruptur
@@ -829,7 +844,8 @@ Risikofaktoren auf, z. B. bei Patienten mit *Vorhofflimmern* :index:`\ <Vorhof
 Symptome
 --------
 
-..
+.. only:: not latex
+
     .. sidebar:: Symptome
 
         -  Abdominalschmerzen
@@ -875,7 +891,8 @@ Basismaßnahmen
 Bauchfellentzündung (Peritonitis)
 =================================
 
-..
+.. only:: not latex
+
     .. sidebar:: Peritonitis
 
         -  Entzündung bzw. Infektion des Bauchfells
@@ -894,7 +911,8 @@ Entzündungsreaktion.
 Ursachen
 --------
 
-..
+.. only:: not latex
+
     .. sidebar:: Ursachen
 
         -  Perforation eines Hohlorganes
@@ -908,7 +926,8 @@ Ursachen
 Symptome
 --------
 
-..
+.. only:: not latex
+
     .. sidebar:: Symtpome
 
         -  Symptome eines Akuten Abdomens

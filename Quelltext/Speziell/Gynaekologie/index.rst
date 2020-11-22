@@ -22,7 +22,8 @@ Notfälle in der Frühschwangerschaft
 Fehlgeburt
 ----------
 
-..
+.. only:: not latex
+
     .. sidebar:: Fehlgeburt
 
         -   Frühe Fehlgeburt/Fruchtabgang
@@ -39,7 +40,8 @@ vor dem Erreichen von 500 geschieht, spricht man von einer *Fehlgeburt*.
 Symptome
 ^^^^^^^^
 
-..
+.. only:: not latex
+
     .. sidebar:: Symptome
 
         -   Vaginale Blutung
@@ -112,7 +114,8 @@ Eileiterschwangerschaft
 Beschreibung
 ^^^^^^^^^^^^
 
-..
+.. only:: not latex
+
     .. sidebar:: Eileiterschwangerschaft
 
         -   Einnistung der Frucht in Eileiter (statt Gebärmutter)
@@ -276,7 +279,8 @@ geklärt.
 Symptome
 ^^^^^^^^
 
-..
+.. only:: not latex
+
     .. sidebar:: Präeklampsie et al.
 
         -   *E*\ dema (Ödeme)
@@ -393,7 +397,8 @@ Die Geburt verläuft in 3 Phasen:
 Eröffnungsphase
 ---------------
 
-..
+.. only:: not latex
+
     .. sidebar:: Eröffnungsphase
 
         -   Von Beginn regelmäßger Wehen bis vollst. Eröffnung des Muttermundes
@@ -427,7 +432,8 @@ Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
 Austreibungsphase
 -----------------
 
-..
+.. only:: not latex
+
     .. sidebar:: Austreibungsphase
 
         -   Von vollständiger Eröffnung des Muttermundes bis Geburt des Kindes
@@ -468,7 +474,8 @@ dem Stuhl der Mutter geschützt* werden (:dfn:`Stuhlschutz` :index:`\ <! Stuhlsc
 Nachgeburtsphase
 ----------------
 
-..
+.. only:: not latex
+
     .. sidebar:: Nachgeburtsphase
 
         -   Nach 10—20 Min. neuerlich Wehen.
@@ -901,7 +908,8 @@ Basismaßnahmen
 Die Placenta praevia liegt im Geburtskanal
 ------------------------------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: Placenta praevia
 
         -   Plazenta liegt vor dem Geburtskanal
@@ -1016,7 +1024,8 @@ Basismaßnahmen
 Blutungen in der Nachgeburtsperiode
 -----------------------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: Blutungen in der Nachgeburtsperiode
 
         -   Starke Blutungen möglich!
@@ -1060,7 +1069,8 @@ Sonstige gynäkologische Erkrankungen und Notfälle
 Vaginale Blutungen
 ==================
 
-..
+.. only:: not latex
+
     .. sidebar:: Vaginale Blutung
 
         -   Verstärkte Monatsblutung

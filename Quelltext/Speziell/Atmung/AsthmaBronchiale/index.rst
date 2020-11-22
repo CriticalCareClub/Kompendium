@@ -3,7 +3,8 @@
 Asthma bronchiale (#34)
 *************************
 
-..
+.. only:: not latex
+
     .. sidebar:: Asthma bronchiale
 
         Wiederholte Anfälle von Atemnot durch
@@ -55,7 +56,8 @@ einen Notarzt.
 Status Asthmaticus
 ==================
 
-..
+.. only:: not latex
+
     .. sidebar:: Status asthmaticus
 
         -   Lebensgefährliche Komplikation
@@ -70,7 +72,8 @@ Atmen hat (Erschöpfung). Der Status asthmaticus kann tödlich enden.
 ABCDE
 =====
 
-..
+.. only:: not latex
+
     .. sidebar:: 1234ABCDE
 
         **1**
@@ -171,7 +174,8 @@ ABCDE
 SAMPLER
 =======
 
-..
+.. only:: not latex
+
     .. sidebar:: SAMPLER
 
         **A**

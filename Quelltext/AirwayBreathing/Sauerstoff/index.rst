@@ -8,7 +8,8 @@ Sauerstoff – O₂ (#24)
 ########################
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Sauerstoff
 
     -  Medizinischer Sauerstoff: Vollständig weiß
@@ -447,7 +448,8 @@ sodass die Sauerstoffsättigung
 O₂-Zufuhr bei der Beatmung mittels Beatmungsbeutel
 =========================================================
 
-..
+.. only:: not latex
+
     .. sidebar:: O₂-Zufuhr bei Beatmung
 
         -  Beamtungsbeutel:

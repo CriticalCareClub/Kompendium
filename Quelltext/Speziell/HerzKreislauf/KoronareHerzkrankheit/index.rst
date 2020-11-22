@@ -19,7 +19,8 @@ Koronare Herzkrankheit (#49)
 
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Koronare Herzkrankheit
 
         -   Erkrankung der Herzkranzgefäße → Verengung
@@ -105,7 +106,8 @@ kann es zu einer Reihe von Folgeerkrankungen kommen, wie z. B.:
 SAMPLER bei der KHK
 ==========================================
 
-..
+.. only:: not latex
+
     .. sidebar:: SAMPLER
 
         ``S``
@@ -174,7 +176,8 @@ SAMPLER bei der KHK
 Angina pectoris (AP)
 =====================
 
-..
+.. only:: not latex
+
     .. sidebar:: Angina pectoris
 
         Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf
@@ -222,7 +225,8 @@ mit Absterben von Herzmuskelgewebe kommt.
 Herzinfarkt (Myocardinfarkt, MCI)
 ==========================================
 
-..
+.. only:: not latex
+
     .. sidebar:: Herzinfarkt
 
         -  *Verschluss* von Herzkranzgefäßen
@@ -280,7 +284,8 @@ Schäden am Herzmuskel bestehen.
 Gefahren
 ----------------------------
 
-..
+.. only:: not latex
+
     .. sidebar:: MCI, Gefahren
 
         -   Jede Herzrhythmusstörung als Komplikation möglich!

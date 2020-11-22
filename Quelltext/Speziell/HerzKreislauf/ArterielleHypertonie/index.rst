@@ -13,7 +13,8 @@ Arterielle Hypertonie (#42)
 Beschreibung
 ************
 
-..
+.. only:: not latex
+
     .. sidebar:: Beschreibung
 
         -  Chronische Erhöhung des arteriellen Blutdrucks
@@ -59,7 +60,8 @@ und behandelt werden.
 Langzeitfolgen
 **************
 
-..
+.. only:: not latex
+
     .. sidebar:: Langzeitschäden
 
         -  *Gefäßschädigung*
@@ -223,7 +225,8 @@ ABCDE
 SAMPLER
 =======
 
-..
+.. only:: not latex
+
     .. sidebar:: SAMPLER
 
         ``S``

@@ -43,7 +43,8 @@ beim kardialen Lungenödem kommt noch das begleitende Herzproblem dazu.
 ABCDE: Lungenödem
 =================
 
-..
+.. only:: not latex
+
     .. sidebar:: 1234ABCDE
 
         **…**
@@ -141,7 +142,8 @@ ABCDE: Lungenödem
 SAMPLER: Lungenödem
 ===================
 
-..
+.. only:: not latex
+
     .. sidebar:: SAMPLER
 
         **M**

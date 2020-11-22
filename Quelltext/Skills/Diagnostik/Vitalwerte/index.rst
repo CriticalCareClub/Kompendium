@@ -7,7 +7,8 @@ Vitalwerte
 
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Vitalwerte
 
         -   Herzfrequenz

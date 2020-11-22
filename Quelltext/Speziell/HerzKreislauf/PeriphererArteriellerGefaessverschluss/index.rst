@@ -117,7 +117,8 @@ Symptome
 ********
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Symptome
 
         -  Schmerz

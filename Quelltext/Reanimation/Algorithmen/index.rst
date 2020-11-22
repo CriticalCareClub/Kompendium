@@ -3,7 +3,8 @@
 Algorithmen Herz-Lungen-Wiederbelebung
 **************************************
 
-..
+.. only:: not latex
+
     .. sidebar:: Einleitung
 
         -  ERC-Leitlinien

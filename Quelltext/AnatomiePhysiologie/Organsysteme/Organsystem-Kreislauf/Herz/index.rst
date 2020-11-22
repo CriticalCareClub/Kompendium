@@ -13,7 +13,8 @@ Das Herz
 Basics
 ******
 
-..
+.. only:: not latex
+
     .. sidebar:: Aufbau, Lage
 
         -   Hohlmuskel
@@ -38,7 +39,8 @@ Jede Hälfte wird durch *Klappen* in
 einen *Vorhof* (:dfn:`Atrium`) und eine
 *Kammer* (:dfn:`Ventrikel`) geteilt.
 
-..
+.. only:: not latex
+
     .. sidebar:: Schichten
 
         -   Endokard
@@ -57,7 +59,8 @@ und dem **Epikard** (außen).
 Darin befindet sich eine geringe Menge Flüssigkeit,
 die eine reibungsarme Bewegung des Herzens ermöglicht.
 
-..
+.. only:: not latex
+
     .. sidebar:: Herzklappen
 
         -   4 Stück, je 2 pro Seite:
@@ -76,7 +79,8 @@ die Taschenklappen befinden sich an den Ausflussöffnungen der Kammern am
 linke Kammer von der Aorta trennt, wird :dfn:`Aortenklappe`
 genannt.
 
-..
+.. only:: not latex
+
     .. sidebar:: Blutversorgung
 
         -   Herzkrankgefäße (Koronargefäße)
@@ -85,7 +89,8 @@ Die **Blutversorgung** des Herzens erfolgt über mehrere
 **Koronararterien** (*Herzkranzgefäße*).
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Mechanische Herzfunktion
 
         -   Pumpt 60--100/min ca. 70ml
@@ -132,7 +137,8 @@ sorgt dafür, dass das Gewebe von Blut durchflossen wird. Der arterielle
 Blutdruck lässt sich einfach mittels Blutdruckmanschette messen.
 (:ref:`Thema-blutdruck`) (Schrader 2001; Gaehtgens 2001).
 
-..
+.. only:: not latex
+
     .. sidebar:: Blutdruck
 
         -   systolischer :
@@ -153,7 +159,8 @@ sein *Minimum* (*Diastolischer* Blutdruck).
 Zur Durchführung der Blutdruckmessung vgl.
 :ref:`Thema-rr-messung`.
 
-..
+.. only:: not latex
+
     .. sidebar:: Elektrische Herzfunktion
 
         -   Reizleitungssystem

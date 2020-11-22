@@ -10,7 +10,8 @@ Beatmung (#23)
 ###################
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Beatmung -- Beschreibung
 
         -  Künstliche Überdruckbeatmung
@@ -58,7 +59,8 @@ durchgeführt werden.
 
 .. rubric:: Gefahren
 
-..
+.. only:: not latex
+
     .. sidebar:: Gefahren
 
         -  Zu hoher Druck → Magenbeatmung/-blähung, Erbrechen
@@ -97,7 +99,8 @@ Patientenseitig werden *Beatmungsmasken* oder *Beatmungsschläuche*
 angewendet. Um die Atemwege freizuhalten, kann u. U. unterstützend ein
 :dfn:`Guedel-Tubus` :index:`\ <! Guedel-Tubus>` angewendet werden.
 
-..
+.. only:: not latex
+
     .. sidebar:: Beatmung -- Hilfsmittel
 
         -  Helferseitig:
@@ -458,7 +461,8 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 Das PEEP-Ventil sorgt für einen positiven Druck am Ende der Ausatmung
 *********************************************************************
 
-..
+.. only:: not latex
+
     .. sidebar:: PEEP
 
         -  Positiver end-exspiratorischer Druck

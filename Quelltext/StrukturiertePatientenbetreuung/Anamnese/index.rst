@@ -32,7 +32,8 @@ oder Dokumentationen anderer Gesundheitseinrichtungen
 .. rubric:: SAMPLER
 .. Ausnahmweise als Beispiel eine Sidebar
 
-..
+.. only:: not latex
+
     .. sidebar:: SAMPLER
 
         -  ``S`` ymptome und Schmerzen

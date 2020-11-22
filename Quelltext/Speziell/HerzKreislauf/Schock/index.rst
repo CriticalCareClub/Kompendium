@@ -10,7 +10,8 @@ Der Schock ist eine lebensbedrohliche Kreislaufstörung (#53)
 Beschreibung
 ************
 
-..
+.. only:: not latex
+
     .. sidebar:: Schock
 
         -  Lebensbedrohliche Kreislaufstörung
@@ -57,7 +58,8 @@ Kompensation, Dekompensation
 ****************************
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Kompensation, Dekompensation
 
         -  Gegensteuerung (*Kompensation*)
@@ -167,7 +169,8 @@ sich dann *bereits im Vollbild eines Schocks!* *Die Schockschere ist ein
 Schockschere befindet, kann er trotzdem einen Schock haben!*
 
 
-..
+.. only:: not latex
+
     .. sidebar:: Schockschere
 
         -  RR\ :sub:`syst`\ < HF

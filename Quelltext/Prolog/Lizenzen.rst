@@ -58,7 +58,7 @@ http://creativecommons.org/licenses/by-nd/3.0/at/ einzubinden.
 .. index::
     single: Lizenz
     pair: Lizenzen; Creative Commons Namensnennung – Keine Bearbeitungen 3.0 Österreich
-   
+
 .. _Topic_Lizenz:
 
 Creative Commons Namensnennung – Keine Bearbeitungen 3.0 Österreich
@@ -162,7 +162,7 @@ an die Lizenzbedingungen akzeptieren.*
     in digitaler Form oder auf einem anderen elektronischen Medium.
 
 2.  **Beschränkungen der Verwertungsrechte**
-   
+
     Diese Lizenz ist in keiner Weise darauf gerichtet, Befugnisse zur
     Nutzung des Schutzgegenstandes zu vermindern, zu beschränken oder zu
     vereiteln, die sich aus den Beschränkungen der Verwertungsrechte,
@@ -171,7 +171,7 @@ an die Lizenzbedingungen akzeptieren.*
     aus dem Fehlen eines immaterialgüterrechtlichen Schutzes ergeben.
 
 3.  **Lizenzierung**
-   
+
     Unter den Bedingungen dieser Lizenz erteilt Ihnen der Lizenzgeber –
     unbeschadet unverzichtbarer Rechte und vorbehaltlich des Abschnitts
     3.c) – die vergütungsfreie, räumlich und zeitlich (für die Dauer des
@@ -223,7 +223,7 @@ an die Lizenzbedingungen akzeptieren.*
 4.  **Bedingungen**
     Die Erteilung der Nutzungsbewilligung gemäß Abschnitt 3 dieser
     Lizenz erfolgt ausdrücklich nur unter den folgenden Bedingungen:
-   
+
     -  Sie dürfen den Schutzgegenstand ausschließlich unter den
         Bedingungen dieser Lizenz verbreiten oder öffentlich wiedergeben.
         Sie müssen dabei stets eine Kopie dieser Lizenz oder deren
@@ -291,7 +291,7 @@ an die Lizenzbedingungen akzeptieren.*
         dieser Lizenz unberührt.
 
 5.  **Gewährleistung**
-   
+
     Sofern keine anders lautende, schriftliche Vereinbarung zwischen
     dem Lizenzgeber und ihnen geschlossen wurde und soweit Mängel nicht
     arglistig verschwiegen wurden, bietet der Lizenzgeber den
@@ -304,7 +304,7 @@ an die Lizenzbedingungen akzeptieren.*
     Zweck sowie die Korrektheit von Beschreibungen.
 
 6.  **Haftungsbeschränkung**
-   
+
     Über die in Ziffer 5 genannte Gewährleistung hinaus haftet der
     Lizenzgeber Ihnen gegenüber für Schäden jeglicher Art nur bei grober
     Fahrlässigkeit oder Vorsatz, und übernimmt darüber hinaus keinerlei
@@ -312,7 +312,7 @@ an die Lizenzbedingungen akzeptieren.*
     über die Möglichkeit Ihres Eintritts unterrichtet wurde.
 
 7.  **Erlöschen**
-   
+
     Diese Lizenz und die durch sie erteilte Nutzungsbewilligung
     erlöschen mit Wirkung für die Zukunft im Falle eines Verstoßes gegen
     die Lizenzbedingungen durch Sie, ohne dass es dazu der Kenntnis des
@@ -375,7 +375,7 @@ an die Lizenzbedingungen akzeptieren.*
     pair: Lizenzen; Lizenz-Addendum
 
 .. _Topic_LizenzAddendum:
-    
+
 Erweiterung der Nutzungsrechte (Lizenz-Addendum)
 ================================================
 
@@ -404,9 +404,13 @@ folgende Nutzungen gestattet:
 
     #.  Übersicht "Weiterführende Maßnahmen"
 
-**************************
-Andere verwendete Lizenzen
-**************************
+******************************************
+Andere verwendete Ⓛ — Lizenzen
+******************************************
+
+
+.. todo:: Lizenz: CC BY-NC 2.5
+
 
 **Die Auflistung dieser Lizenzen bedeutet nicht, dass die AASS als
 Ganzes unter diesen Lizenzen lizensiert sind!**
@@ -418,7 +422,25 @@ Ganzes unter diesen Lizenzen lizensiert sind!**
     \begin{ParWide}
     \begin{multicols}{3}
 
-.. glossary:: 
+.. glossary::
+
+
+    Ⓛ CC BY-NC 2.5
+        CC BY-NC 2.5
+        .. todo:: CC BY-NC 2.5
+
+    Lizenz: CC BY-SA 3.0 unported
+        Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+
+        -   https://creativecommons.org/licenses/by-sa/3.0/deed.en
+        -   https://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+    Ⓛ MfG
+    Lizenz: MfG
+        Mit freundlicher Genehmigung
+
+        Vom Rechteinhaber wurde die Verwendung in diesem Projekt erlaubt.
+        Eine Verwendung ausserhalb dieses Projekts ist nicht gestattet.
 
     CC
       *Creative Commons*. Sammelbegriff für die Lizenzen der Creative
@@ -499,7 +521,7 @@ Ganzes unter diesen Lizenzen lizensiert sind!**
       Mit freundlicher Genehmigung.
       Vom Urheber für dieses Werk zur Verfügung gestellt,
       alle Rechte dem Urheber vorbehalten.
-          
+
     PD
       *Public domain*, *gemeinfrei*. Die Gemeinfreiheit bezeichnet alle
       Werke, die keinem Urheberrecht mehr unterliegen oder ihm nie

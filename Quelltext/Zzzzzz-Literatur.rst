@@ -109,9 +109,8 @@ Literaturverzeichnis
     GeschichteNeuerenDeutschenChirurgie
     NitschStress-StressTransakt
     LazarusStress
-    LehmeyerAnamUnter:1
     LeohnhardtAnatomie:3
-    Loew:200611
+    Loew:2006
     LoefflerBiochemie:7
     Longmore:2007
     Loennecker:2001
@@ -147,16 +146,16 @@ Literaturverzeichnis
     ThiemesPflege:12
     SchmidtPhysio:28
     SchmuckChemie:1
-    Schnelle:200607
+    Schnelle:2006
     Schottmueller:1914
     Silbernagl3-Herz
     EkgIsabell:5
     SemmelABC:1
     Seto:2003
     Shea:1975
-    SitzmannPaediatrie:2
+    Sitzmann:2
     U:61989
-    StarkeMedSozAspProbBew:00
+    Starke:2000
     Steinert:2008
     Strauss:0000
     StriebelAnaesthesie:2
@@ -179,7 +178,7 @@ Literaturverzeichnis
     BrockhausDrei3Bd2
     EcgEmergencyDec:2
     WHOISH:2003
-    WiedenmannHygieneRD:1
+    Wiedenmann:1
     wikiVanGogh
     wiki:pseudokrupp
     wiki:zivilschutzsignale:20120810
@@ -222,7 +221,6 @@ Literaturverzeichnis
     [KuehnEkgFortbildung03T2]_
     [GeschichteNeuerenDeutschenChirurgie]_
     [LazarusStress]_
-    [LehmeyerAnamUnter:1]_
     [LeohnhardtAnatomie:3]_
     [LoefflerBiochemie:7]_
     [Longmore:2007]_
@@ -289,7 +287,6 @@ Literaturverzeichnis
 [Freudenberger:1974]_
 [FamPropAeGeFue:2010]_
 [InnereMedQuick:3]_
-[Silbernagl3-Kreislaufsystem]_
 [Gallaher:2009]_
 [GantenMolGrund:97]_
 [youtube:Herzinfarkt]_
@@ -316,7 +313,7 @@ Literaturverzeichnis
 [RkRahmenvorschriftGrossunfaelle:2007]_
 [Kucera:2010]_
 [NitschStress-StressTransakt]_
-[Loew:200611]_
+[Loew:2006]_
 [Loennecker:2001]_
 [LutomskyLeitRett:3]_
 [Malfertheiner:2004]_
@@ -337,15 +334,13 @@ Literaturverzeichnis
 [PetersenVordereKreuzband:1]_
 [Pflegewiki:Dekubitus]_
 [AnCompact:3]_
-[Silbernagl3-Atmung]_
 [ThiemesPflege:12]_
 [SchmidtPhysio:28]_
 [SchmuckChemie:1]_
-[Schnelle:200607]_
+[Schnelle:2006]_
 [Schottmueller:1914]_
-[Silbernagl3-Herz]_
 [U:61989]_
-[StarkeMedSozAspProbBew:00]_
+[Starke:2000]_
 [Steinert:2008]_
 [Strauss:0000]_
 [StriebelAnaesthesie:2]_
@@ -387,15 +382,14 @@ Literaturverzeichnis
 [Schabus:1]_
 [Seto:2003]_
 [EkgIsabell:5]_
-[SitzmannPaediatrie:2]_
-[Vbv:2002]_
+[Sitzmann:2]_
 [Waldeyer:2003]_
 [BrockhausDrei2Bd2]_
 [BrockhausDrei1Bd2]_
 [BrockhausDrei3Bd2]_
 [EcgEmergencyDec:2]_
 [WHOISH:2003]_
-[WiedenmannHygieneRD:1]_
+[Wiedenmann:1]_
 [wiki:pseudokrupp]_
 [wiki:zivilschutzsignale:20120810]_
 
@@ -843,7 +837,10 @@ Echo
 	doi:\ `10.1007/s10049-015-0083-z <https://doi.org/10.1007/s10049-015-0083-z>`__.
 
 
-
+.. [Esc-2017-GuidelinesStemi]
+    Ibanez et al.:
+    **2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).**
+    *Eur Heart J.* 2018 Jan 7;39(2):119-177. doi: 10.1093/eurheartj/ehx393.
 
 
 
@@ -856,6 +853,19 @@ Echo
 F
 ================================================================================
 
+.. [Fernandez:2012]
+    Ritin Fernandez and Rhonda Griffiths:
+    **Water for wound cleansing.**
+    Cochrane Database Syst Rev, 2:CD003861, 2012.
+    http://dx.doi.org/10.1002/14651858.CD003861.pub3.
+    doi:10.1002/14651858.CD003861.pub3.
+
+.. [Franz:2012]
+    T. Franz and E. Vögelin:
+    **Aseptic tissue necrosis and chronic inflammation after irrigation of penetrating hand wounds using octenisept®.**
+    J Hand Surg Eur Vol, 37(1):61–64, Jan 2012.
+    http://dx.doi.org/10.1177/1753193411414353.
+    doi:10.1177/1753193411414353.
 
 G
 ================================================================================
@@ -914,6 +924,13 @@ Hotel
 
 
 
+.. [Hildebrand:4]
+	Hildebrand, Nikolaus:
+	2001.*Injektionen – Leicht Gemacht.*
+	4. Auflage,
+	Urban & Fischer.
+
+
 .. [Hochmeister:2]
 	Manfred Hochmeister, Martin Grassberger und Thomas Stimpfl:
 	**Forensische Medizin für Studium und Praxis.**
@@ -949,6 +966,11 @@ India
 Juliett
 ================================================================================
 
+
+.. [Jemmett:2003]
+    Michael E. Jemmett et al.:
+    **Unrecognized misplacement of endotracheal tubes in a mixed urban to rural emergency medical services setting.**
+    Acad Emerg Med 2003:10(9), 961—965.
 
 .. [Jones:1973]
 	Jones, K. L. and D. W. Smith:
@@ -1012,6 +1034,14 @@ K
 	Karutz, Harald und Manfred Buttlar:
 	**Kursbuch Erste Hilfe.**
 	2008. Deutscher Taschenbuch Verlag.
+
+.. [Katz:2001]
+    S. H. Katz and J. L. Falk:
+    **Misplaced endotracheal tubes by paramedics in an urban emergency medical services system.**
+    Ann Emerg Med, 37(1):32–37, Jan 2001.
+    http://dx.doi.org/10.1067/mem.2001.112098.
+    doi:10.1067/mem.2001.112098.
+
 
 .. [Kayser:10]
 	Kayser, Fritz H., Kurt A. Bienz, Johannes Eckert und Rolf M. Zinkernagel:
@@ -1136,7 +1166,7 @@ L
 	*Chirurg*
 	2001:72(2), 164–67.
 
-.. [Loew:200611]
+.. [Loew:2006]
 	Loew, Karen:
 	**Kleine Ursache, Große Wirkung: Infektionen Durch
 	Nadelstichverletzungen Im Rettungsdienst**
@@ -1155,7 +1185,12 @@ L
 	16. Auflage, 2006.
 	Thieme-Verlag.
 
-
+.. [Lyon:2010]
+    Richard M. Lyon et al.:
+    **Field intubation of cardiac arrest patients: a dying art?**
+    Emerg Med J 2010:27(4) 321--323.
+    DOI: 10.1136/emj.2009.076737.
+    http://dx.doi.org/10.1136/emj.2009.076737.
 
 M
 ================================================================================
@@ -1169,6 +1204,11 @@ M
 	*Anaesthesist*
 	2013:62(4), 285–92.
 	doi:\ `10.1007/s00101-013-2154-1 <https://doi.org/10.1007/s00101-013-2154-1>`__.
+
+.. [Marquardt:2010]
+    C. Marquardt et al.:
+    **Evaluation of the tissue toxicity of antiseptics by the hen’s egg test on the chorioallantoic membrane (hetcam).**
+    *Eur J Med Res* 15(5):204–209, May 2010.
 
 .. [Meron:2004]
 	Meron, Giora, Istepan Kürkciyan, Fritz Sterz, Karin Tobler, Heidrun
@@ -1193,6 +1233,20 @@ O
 
 P
 ================================================================================
+
+
+.. [Pelucio:1997]
+    M. Pelucio, L. Halligan und H. Dhindsa:
+    **Out-of-hospital experience with the syringe esophageal detector device.**
+    Acad Emerg Med 1997:4(6) 563—568.
+
+
+.. [Pflegewiki:Dekubitus]
+
+	PflegeWiki, ed. 2012.
+	**Dekubitus.** PflegeWiki. Accessed August 25.
+	http://www.pflegewiki.de/wiki/Dekubitus.
+
 
 
 .. [Platzer:2003]
@@ -1281,6 +1335,14 @@ S
 	*Resuscitation* 2010:81(3), 323–26.
 	doi:\ `10.1016/j.resuscitation.2009.11.007 <https://doi.org/10.1016/j.resuscitation.2009.11.007>`__.
 
+.. [Schupp:2009]
+    C. J. Schupp and S. Holland-Cunz:
+    **Persistent subcutaneous oedema and aseptic fatty tissue necrosis after using octenisept.**
+    *Eur J Pediatr Surg* 19(3):179–183, Jun 2009.
+    http://dx.doi.org/10.1055/s-0029-1216379.
+    doi:10.1055/s-0029-1216379.
+
+
 .. [Semmel:1]
 	Semmel, Thomas:
 	**ABC – Die Beurteilung von Notfallpatienten.**
@@ -1297,6 +1359,11 @@ S
 	**Chirurgie.**
 	8. Auflage, 2006. Springer-Verlag.
 
+.. [Sitzmann:2]
+	Sitzmann, Friedrich Carl, ed:
+	2002.*Pädiatrie.*
+	2. Auflage,  Duale Reihe.
+	Thieme.
 
 T
 ================================================================================
@@ -1332,10 +1399,17 @@ U
 V
 ================================================================================
 
+.. [VBV:2002]
+    Verordnung des Bundesministers für Wirtschaft und Arbeit über sicherheitstechnische Bestimmungen für Versandbehälter - Versandbehälterverordnung 2002 (VBV 2002) idF: BGBl. II Nr. 347/2005
+
 
 W
 ================================================================================
 
+.. [Winbery:2002]
+    Stephen L. and Philip L. Lieberman:
+    **Histamine and antihistamines in anaphylaxis.**
+    Clin Allergy Immunol. 2002;17:287-317.
 
 X
 ================================================================================
@@ -1938,18 +2012,6 @@ Z
 
 
 
-.. [Silbernagl3-Kreislaufsystem]
-
-	Gaehtgens, P:
-	2001.In *Lehrbuch Der Physiologie*, edited by R Klinke
-	and St Silbernagl,
-	3. Auflage, , 145–88. Thieme-Verlag.
-
-
-
-
-
-
 
 .. [Gallaher:2009]
 
@@ -2223,14 +2285,6 @@ Z
 
 
 
-
-
-.. [InjektionenLeichtGemacht:4]
-
-	Hildebrand, Nikolaus:
-	2001.*Injektionen – Leicht Gemacht.*
-	4. Auflage,
-	Urban & Fischer.
 
 
 
@@ -2553,15 +2607,6 @@ Z
 
 
 
-.. [Pflegewiki:Dekubitus]
-
-	PflegeWiki, ed. 2012.
-	**Dekubitus.** PflegeWiki. Accessed August 25.
-	http://www.pflegewiki.de/wiki/Dekubitus.
-
-
-
-
 
 
 
@@ -2622,20 +2667,6 @@ Z
 
 
 
-
-.. [Silbernagl3-Atmung]
-
-	Scheid, P:
-	2001.In *Lehrbuch Der Physiologie*, edited by R Klinke and
-	St Silbernagl,
-	3. Auflage, , 217–72. Thieme-Verlag.
-
-
-
-
-
-
-
 .. [ThiemesPflege:12]
 
 	Schewior-Popp, Susanne, Franz Sitzmann und Lothar Ullrich  (HG): 2012.
@@ -2672,10 +2703,9 @@ Z
 
 
 
-.. [Schnelle:200607]
+.. [Schnelle:2006]
 	Schnelle, Ralf:
-	**Zur Positionierung von Ekg-Elektroden Im
-	Einsatz**
+	**Zur Positionierung von Ekg-Elektroden im 	Einsatz**
 	*Rettungsdienst*
 	2006:29(1), 24–27.
 
@@ -2699,15 +2729,6 @@ Z
 
 
 
-
-
-
-.. [Silbernagl3-Herz]
-
-	Schrader, J:
-	2001.In *Lehrbuch Der Physiologie*, edited by R Klinke and
-	St Silbernagl,
-	3. Auflage, , 109–44. Thieme-Verlag.
 
 
 
@@ -2744,12 +2765,7 @@ Z
 
 
 
-.. [SitzmannPaediatrie:2]
 
-	Sitzmann, Friedrich Carl, ed:
-	2002.*Pädiatrie.*
-	2. Auflage,  Duale Reihe.
-	Thieme.
 
 
 
@@ -2787,7 +2803,7 @@ Z
 
 
 
-.. [StarkeMedSozAspProbBew:00]
+.. [Starke:2000]
 
 	Starke, D:
 	2000.*Medizinsoziologie. Kognitive, Emotionale Und Soziale
@@ -3106,19 +3122,6 @@ Z
 
 
 
-
-
-
-.. [Vbv:2002]
-	**Verordnung des Bundesministers für Wirtschaft und Arbeit über sicherheitstechnische Bestimmungen für Versandbehälter — Versandbehälterverordnung 2002 idF: BGBl. Ii Nr. 347/2005.**
-	2005. BGBl. II Nr. 347/2005.
-
-
-
-
-
-
-
 .. [H1N1InvTeam2009]
 	S Dawood, Seema Jain, Lyn Finelli, Michael W Shaw, Stephen Lindstrom,
 	Rebecca J Garten, et al.:
@@ -3326,7 +3329,7 @@ Z
 
 
 
-.. [WiedenmannHygieneRD:1]
+.. [Wiedenmann:1]
 
 	Wiedenmann, Markus, ed:
 	2011.*Hygiene Im Rettungsdienst.*

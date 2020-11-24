@@ -464,7 +464,7 @@ Querverweise
 
 !!! LITERARY !!! (FRCPCH and FRCPCH 2007)
 
-[Sitzmann:2002]_
+[Sitzmann:2]_
 
 (Netter, n.d.)
 
@@ -482,5 +482,5 @@ LITERARY !!!
 
 .. [278]
    “Pseudokrupp” bezieht sich auf die Heiserkeit (griech.: pseudo für
-   „unecht“; schottisch: croup, „Heiserkeit“[Wikipedia:2010]_). Der echte
+   „unecht“; schottisch: croup, „Heiserkeit“). Der echte
    Krupp bezeichnet die Kehlkopfentzündung bei Diphtherie.

@@ -327,7 +327,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
 [ArbeitstechnikenAZ:1]_
 
-[InjektionenLeichtGemacht:4]_
+[Hildebrand:4]_
 
 
 .. index::

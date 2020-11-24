@@ -1263,7 +1263,7 @@ Brinsden 2006) (Gemeinsame Erklärung der Deutschen AIDS-Gesellschaft
 Sanitäter: (Gruber, Hellmich, and Grassl 2011)
 
 *Rettungsdienstspezifisches Werk*, richtet sich tendenziell an
-Hygieneverantwortliche und -beauftrage: [Wiedenmann:2011]_
+Hygieneverantwortliche und -beauftrage: [Wiedenmann:1]_
 
 *Standardwerk*: (Kramer and Assadian 2008)
 

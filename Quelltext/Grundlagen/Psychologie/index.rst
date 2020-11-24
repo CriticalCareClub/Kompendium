@@ -2017,7 +2017,7 @@ Freizeit- und Erholungsphasen.
     % % 21(6), 588-593.
     %
     %
-    %[StarkeMedSozAspProbBew:00]_ \ : \bibentry{StarkeMedSozAspProbBew00} \\
+    %[Starke:2000]_ \ : \bibentry{StarkeMedSozAspProbBew00} \\
     % % Starke, D. (2000). Medizinsoziologie. Kognitive, emotionale
     % % und soziale Aspekte menschlicher Problembewältigung: ein
     % % Beitrag zur aktuellen Stressforschung. Münster: LIT.

@@ -535,7 +535,7 @@ Dekubitusprophylaxe allgemein
     beispielsweise mittels Bauchlagerung, aber auch durch regelmäßigen
     Lagewechsel und Vergrößerung der Auflagefläche durch spezielle
     Hilfsmittel wie spezielle Wechseldruck-Matratzen oder
-    Luftstrom-Matratzensysteme. [PflegeWiki:2012]_
+    Luftstrom-Matratzensysteme. [Pflegewiki:Dekubitus]_
 
 -   *Ernährung*: Hierbei sei auf die entsprechende Pflege-Fachliteratur
     verwiesen.

@@ -244,7 +244,7 @@ SAMPLER: COPD
     Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
     “Karriere” hinter sich.
 
-    [Lena Hirtler, :term:`Lizenz:`MfG`]
+    [Lena Hirtler, :term:`Ⓛ MfG`]
 
 .. _m-copd-exzerbation:
 

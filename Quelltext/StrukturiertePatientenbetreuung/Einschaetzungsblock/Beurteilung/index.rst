@@ -21,7 +21,7 @@ Alarmzeichen (“Red Flags” 🚩)
 ----------------------------------------------
 
 .. image:: /Bilder/GabrielSebastian-Ccc/minen_hinweis2.*
-    :width:23%
+    :width: 23%
     :align: right
 
 Das rasche Feststellen einer vitalen Bedrohung ist besonders wichtig.

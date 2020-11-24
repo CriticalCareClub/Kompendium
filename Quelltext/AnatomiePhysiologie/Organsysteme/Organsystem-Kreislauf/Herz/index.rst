@@ -132,7 +132,7 @@ werden. Durch die Pumpfunktion des Herzens entsteht ein lebenswichtiger
 Druck im (arteriellen) Gefäßsystem, der **Blutdruck**, dieser
 sorgt dafür, dass das Gewebe von Blut durchflossen wird. Der arterielle
 Blutdruck lässt sich einfach mittels Blutdruckmanschette messen.
-(:ref:`Thema-blutdruck`) (Schrader 2001; Gaehtgens 2001).
+(:ref:`Thema-blutdruck`) ([Klinke:3]_\ ; [Klinke:3]_\ ).
 
 .. only:: not latex
 
@@ -473,7 +473,7 @@ werden. Durch die Pumpfunktion des Herzens entsteht ein lebenswichtiger
 Druck im (arteriellen) Gefäßsystem, der **Blutdruck**, dieser
 sorgt dafür, dass das Gewebe von Blut durchflossen wird. Der arterielle
 Blutdruck lässt sich einfach mittels Blutdruckmanschette messen.
-(:ref:`Thema-blutdruck`) (Schrader 2001; Gaehtgens 2001).
+(:ref:`Thema-blutdruck`) ([Klinke:3]_\ ; [Klinke:3]_\ ).
 
 
 

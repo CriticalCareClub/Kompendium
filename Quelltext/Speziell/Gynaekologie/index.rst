@@ -948,7 +948,6 @@ Basismaßnahmen
             Fritsch.
         -   Ggfs. Schockbekämpfung
 
-[MA70-Protokoll-2012-10-11]_
 
 
 Pathologische Geburtslagen

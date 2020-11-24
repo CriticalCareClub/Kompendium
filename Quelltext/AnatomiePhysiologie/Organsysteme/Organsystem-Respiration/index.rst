@@ -355,8 +355,7 @@ Gewebe und Pleura(spalt) wichtig:
 
 -  *:dfn:`Atemmuskulatur` :index:`\ <! Atemmuskulatur>`*: Der wichtigste Atemmuskel ist
    das *Zwerchfell*. In Ruhe erledigt es fast die gesamte Atemarbeit.
-   Bei verstärkter Atmung kommen die *Zwischenrippenmuskeln* zum Einsatz
-   [Lippert:2006]_.
+   Bei verstärkter Atmung kommen die *Zwischenrippenmuskeln* zum Einsatz.
 
 -  *:dfn:`Atemhilfsmuskulatur` :index:`\ <! Atemhilfsmuskulatur>`*:
    Neben den Hauptatemmuskeln (Zwerchfell, Zwischenrippenmuskulatur)

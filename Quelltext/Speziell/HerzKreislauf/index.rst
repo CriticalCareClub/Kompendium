@@ -81,7 +81,6 @@ führen kann.
 [Vlcek:2008]_  (Association between hypertensive urgencies and subsequent cardiovascular events in patients with hypertension.)
 [Wells:2000]_  (Derivation of a simple clinical model to categorize patients probability of pulmonary embolism: increasing the models utility with the SimpliRED D-dimer.)
 [Boecker:2]_  (Pathologie)
-[LippertAnatomie:7]_  ()
 [Patzelt:2005]_  (Basics Augenheilkunde)
 [Sachsenweger:2003]_  (Augenheilkunde)
 [Redelsteiner:1]_  ()

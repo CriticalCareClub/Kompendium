@@ -144,15 +144,17 @@ Teile des Traumachecks werden während des Einschätzungsblocks bei der
 Bei vital bedrohten (zeitkritischen) Patienten wird ggfs. *kein
 vollständiger* Traumacheck durchgeführt!
 
-!!! LITERARY !!! [Dahmer:2006]_
 
-[Lehmeyer:2006]_
+[Lehmeyer:1]_
 
-(Neurath and Lohse 2002)
+.. todo:: Literatur
 
-(Bickley et al. 2000)
+    !!! LITERARY !!!
+    (Neurath and Lohse 2002)
 
-(Blacky et al. 2014) !!! LITERARY !!!
+    (Bickley et al. 2000)
+
+    (Blacky et al. 2014) !!! LITERARY !!!
 
 
 

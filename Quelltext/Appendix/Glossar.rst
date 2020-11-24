@@ -168,30 +168,6 @@ Glossar
     \end{multicols}
     \end{ParWide}
 
-****************
-Ⓛ — Lizenzen
-****************
-
-.. todo:: Lizenz: CC BY-NC 2.5
-
-.. glossary::
-
-    Ⓛ CC BY-NC 2.5
-        CC BY-NC 2.5
-        .. todo:: CC BY-NC 2.5
-
-    Lizenz: CC BY-SA 3.0 unported
-        Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
-
-        -   https://creativecommons.org/licenses/by-sa/3.0/deed.en
-        -   https://creativecommons.org/licenses/by-sa/3.0/legalcode
-
-    Ⓛ MfG
-    Lizenz: MfG
-        Mit freundlicher Genehmigung
-
-        Vom Rechteinhaber wurde die Verwendung in diesem Projekt erlaubt.
-        Eine Verwendung ausserhalb dieses Projekts ist nicht gestattet.
 
 
 

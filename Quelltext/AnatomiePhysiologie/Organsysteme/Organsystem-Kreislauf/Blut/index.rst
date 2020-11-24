@@ -263,7 +263,7 @@ Blutkörperchen (*Erythrozyten*) bzw. der Konzentration des
 Blutfarbstoffes *Hämoglobin* ab. Im arteriellen Blut sind pro Liter ca
 0,2L Sauerstoff enthalten. Im Normalfall werden davon nur ca. 25% vom
 Körper aufgenommen, der Rest gelangt ungenutzt in das venöse System
-zurück. [Gaehtgens:2001]_
+zurück.
 
 .. _Thema-immunsystem:
 

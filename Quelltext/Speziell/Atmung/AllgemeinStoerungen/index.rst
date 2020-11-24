@@ -118,7 +118,7 @@ Befunde
         -   Sauerstoffsättigung
         -   Auskultation: Belüftung, feuchte Rasselgaräusche, Spastik
         -   Heimsauerstoff, Atemhilfen
-        -   [Table-atmung-symptome]
+        -   :ref:`Table-atmung-symptome`
 
 
 Atemstörungen können viele verschiedene Symptome verursachen.
@@ -134,7 +134,7 @@ Häufig erkennbar sind z. B. eine *Zyanose*, Klage über subjektive
 < 8 / min oder > 30 / min*), eine auffällige *Atemtiefe* (flach, tief, evtl.
 *Schnappatmung*), pathologische Atemmuster, eine paradoxe oder überhaupt
 fehlende Atmung oder andere Symptome der Atemnot
-([Table-atmung-symptome]_).
+(:ref:`Table-atmung-symptome`).
 Bei der Auskultation kann eine ungleichseitige
 Belüftung der Lungen festgestellt werden, sowie diverse
 Atemnebengeräusche (feuchte Rasselgeräusche, spastische Atemgeräusche).
@@ -144,10 +144,8 @@ Hyperventilationssyndrom). Ebenso wichtig sind Umstände wie das
 Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
 
 
-.. _Table-atmung-symptome:
-
 .. table:: Symptome von Atemstörungen
-
+    :name: Table-atmung-symptome
 
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     | **Kriterium**       | **Befund**                                          | **Beschreibung**                                                     |    |

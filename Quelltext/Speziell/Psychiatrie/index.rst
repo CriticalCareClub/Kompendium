@@ -104,6 +104,9 @@ Für die Arbeit im Rettungsdienst ist die Kenntnis einiger spezieller
 Krankheitsbilder und Symptome notwendig, sowie ein allgemeines
 Verständnis über den Umgang mit psychiatrischen Patienten.
 
+
+.. _Thema-umgang-psy:
+
 ************************************
 Umgang mit psychiatrischen Patienten
 ************************************

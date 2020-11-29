@@ -4,7 +4,6 @@ Neurologische Störungen (`#65 <https://gitlab.com/CriticalCareClubAustria/Ccca-
 #################################################################################################################################################
 
 
-
 Neurologische Störungen sind Störungen bzw. Erkrankungen und Notfälle
 die das Nervensystem betreffen. Sie gehen oft mit einer Störung des
 Bewusstseins oder anderer Funktionen des Nervensystems einher. Die
@@ -14,25 +13,18 @@ Die folgende Übersicht nennt einige Beispiele für Ursachen
 neurologischer Störungen, ohne Anspruch auf Vollständigkeit:
 
 -   *Schlaganfall*
-
 -   *Vergiftungen* können fast alles verursachen, inkl. neurologischer
     Symptome.
-
 -   *Schädel-Hirn-Trauma* (SHT);
     Ein Schlag auf den Kopf erhöht *nicht*
     das Denkvermögen …
-
 -   *Stoffwechselstörungen* welche Einfluss auf das Nervensystem nehmen,
     z. B. Zuckerentgleisungen
-
 -   *Infektionen* können das Nervensystem beeinflussen,
     z. B. Verwirrtheit bei Fieber
-
 -   *Alter* beeinflusst auch das Nervensystem, im Rahmen einer Demenz
     kommt es z. B. zum Abbau der Denkleistung
-
 -   *Krampfanfälle* können vom zentralen Nervensystem ausgehen
-
 -   *Erkrankungen des Stützapparates* Aufgrund der räumlichen Nähe zum
     Stütz- und Bewegungsapparates kann das Nervensystem in
     Mitleidenschaft gezogen werden, z. B. bei Bandscheibenvorfällen
@@ -700,7 +692,7 @@ Grunderkrankungen sind im Folgenden aufgeführt:
     durch wiederkehrende Episoden von zerebralen Krampfanfällen
     gekennzeichnet ist.
 -   *Vergiftungen*: (Medikamente/Drogen/...) können wieder fast alles
-    machen, also auch Krampfanfälle. [Supady:2009]_
+    machen, also auch Krampfanfälle\ [#FallberichtSupady]_.
 -   *Hirntumor*: Durch den Tumor wird das Hirn beschädigt, auch dadurch
     kann es zu Anfällen kommen.
 -   *Narbengewebe*: nach Insult oder Hirnverletzung.
@@ -715,17 +707,22 @@ Grunderkrankungen sind im Folgenden aufgeführt:
 -   *Infektionen*
 -   *Entzug*: Entzug von Alkohol oder anderen Drogen
 
+.. [#FallberichtSupady]
+
+    Fallbericht: *Gamma-Butyrolacton-Entzugsdelir mit Rhabdomyolyse und dialysepflichtiger Niereninsuffizienz* [Supady:2009]_
+
+
 .. _Thema-krampfanfall-fokaler:
 
 Fokaler Anfall
 ==============
 
-Der Krampfanfall ist auf eine Körperregion
-beschränkt, z. B. auf eine Hand. Der Patient kann bei Bewusstsein sein.
+Der Krampfanfall ist auf eine Körperregion beschränkt,
+z. B. auf eine Hand. Der Patient kann bei Bewusstsein sein.
 Ein fokaler Anfall kann sich ausweiten und in einen generalisierten
 Anfall übergehen.
 
-Der fokale Anfall wird auch "petit mal" [#PetitMal]_ genannt.
+Der fokale Anfall wird auch "petit mal"\ [#PetitMal]_ genannt.
 
 .. [#PetitMal]
     Petit mal: *franz.:* "kleines Unglück"
@@ -763,13 +760,16 @@ Generalisierter Anfall
             -   *Traumacheck* nach Krampfanfall
 
 Der generalisierte Krampfanfall
-("grand mal" [#GrandMal]_) betrifft den ganzen Körper. Häufig kommt es während
-des Anfalles zu einem Zungenbiss, außerdem zum Einnässen oder Einkoten.
+(*"grand mal"*\ [#GrandMal]_)
+betrifft den ganzen Körper.
+Häufig kommt es während
+des Anfalles zu einem Zungenbiss,
+außerdem zum Einnässen oder Einkoten.
 Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
 
 #.  *Beginn*:
     Dem Anfall kann ein *Dämmerzustand* vorausgehen,
-    eine sog. "Absence".
+    eine sog. *"Absence"*.
     Der Patient wirkt dabei plötzlich abwesend
     und *"irgendwie komisch"*.
     Dann verliert er das Bewusstsein und die Muskeln werden
@@ -829,7 +829,7 @@ generalisierten Krampfanfalls.
 Er besteht dann, wenn der Anfall nicht
 nach kurzer Zeit vergeht oder innerhalb kurzer Abstände
 mehrere Anfälle auftreten
-(z. B. 2 oder mehr Anfälle innerhalb von 24 Stunden).
+(z. B. *zwei oder mehr* Anfälle innerhalb von 24 Stunden).
 Der Krampf muss dann mit Medikamenten durchbrochen werden.
 
 
@@ -1005,5 +1005,3 @@ Ereignis plötzlich auf, spricht man von einem
 :index:`\ <! akuten Bandscheibenvorfall>`.
 Häufig ist die Lendenwirbelsäule (LWS-Bereich)
 betroffen.
-
-

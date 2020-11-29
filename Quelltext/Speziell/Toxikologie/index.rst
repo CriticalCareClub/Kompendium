@@ -2,7 +2,7 @@
 
 
 
-Vergiftungen (`#72 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/72>`)
+Vergiftungen (`#72 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/72>`_)
 ###########################################################################################################################
 
 

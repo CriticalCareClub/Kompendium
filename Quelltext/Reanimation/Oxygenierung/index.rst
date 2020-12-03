@@ -265,7 +265,7 @@ Dazu gehören der Larynxtubus und die Larynxmaske.
 
 .. [326]
    Supraglottische Methoden zur Atemwegssicherung werden oft als
-   “alternativer Atemweg” bezeichnet, da sie oft eine Alternative zur
+   "alternativer Atemweg" bezeichnet, da sie oft eine Alternative zur
    endotrachealen Intubation (*ETI*) angesehen werden. Die ETI gilt
    weithin als Goldstandard der Atemwegssicherung, dennoch hat sie
    einige gewichtige Nachteile und ist in vielen Situationen *nicht die

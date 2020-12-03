@@ -129,8 +129,8 @@ solche Steigerung kann besonders bei Verletzungen oder blutigen
 Schlaganfällen vorkommen.
 Eine Hirndruckerhöhung wirkt sich negativ
 sowohl auf das Hirn selbst,
-als auch auf dessen Durchblutung aus (*“Das
-Hirn drück sich selbst ab.”*).
+als auch auf dessen Durchblutung aus (*"Das
+Hirn drück sich selbst ab."*).
 
 Zusammen mit anderen Befunden aus den vorangegangenen Schritten des
 Einschätzungsblockes können typische Kombinationen von Symptomen

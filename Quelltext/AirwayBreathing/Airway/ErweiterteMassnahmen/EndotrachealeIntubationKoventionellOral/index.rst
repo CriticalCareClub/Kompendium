@@ -158,7 +158,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
     | **5**  |                                                                               |                                                       |
     |        |                                                                               | Evtl. **Krikoiddruck**:                               |
     |        |                                                                               |                                                       |
-    |        |                                                                               | Anweisung *“Kehlkopfdruck”* (“Krikoiddruck”)          |
+    |        |                                                                               | Anweisung *"Kehlkopfdruck"* ("Krikoiddruck")          |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
     | 5.a    | Auf Anweisung: Krikoiddruck durchführen                                       |                                                       |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
@@ -169,7 +169,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
     | **8**  |                                                                               | **Einführen des Tubus**                               |
     |        |                                                                               | bis die zwischen die Stimmbänder durchdringt          |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **9**  |                                                                               | Anweisung: **“Führungsdraht entfernen!”**             |
+    | **9**  |                                                                               | Anweisung: **"Führungsdraht entfernen!"**             |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
     | **10** | Wenn die Tubusspitze durch die Stimmritzen durchgetreten ist                  |                                                       |
     |        | muss der Mandrin entfernt werden um Verletzungen zu vermeiden.                |                                                       |
@@ -183,7 +183,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
     | **12** |                                                                               | Tubus bis zur **bis zu endgültigen Tiefe einführen**  |
     |        |                                                                               | und vorübergehend **manuell fixieren**                |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **13** |                                                                               | Anweisung **“Cuffen”**                                |
+    | **13** |                                                                               | Anweisung **"Cuffen"**                                |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
     | **14** | **Cuffen**: Cuff mit luftgefüllter Spritze Cuff aufblasen                     |                                                       |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
@@ -200,7 +200,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
     |        |                                                                               |                                                       |
     |        |                                                                               | - beide Lungenflügel auskultieren,                    |
     |        |                                                                               |                                                       |
-    |        |                                                                               | dabei jeweils Anweisung *“Atemhub”*                   |
+    |        |                                                                               | dabei jeweils Anweisung *"Atemhub"*                   |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
     | **19** |                                                                               | Beatmungsbeutel übernehmen                            |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
@@ -327,7 +327,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
 [ArbeitstechnikenAZ:1]_
 
-[InjektionenLeichtGemacht:4]_
+[Hildebrand:4]_
 
 
 .. index::

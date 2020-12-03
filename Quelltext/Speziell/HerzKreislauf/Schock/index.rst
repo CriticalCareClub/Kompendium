@@ -402,9 +402,9 @@ Blutdruck fällt massiv ab! Mögliche *Auslöser* können sein:
 
 
 Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
-:ref:`Tafel-AnaphylaxieStadien`.
+:ref:`Tafel-AnaphylaxieStadien-Schock`.
 
-.. _Tafel-AnaphylaxieStadien:
+.. _Tafel-AnaphylaxieStadien-Schock:
 
 .. list-table:: Stadien der Anaphylaxie
     :widths: 10 40

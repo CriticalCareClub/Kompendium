@@ -11,17 +11,17 @@ Alarmzeichen für *vital bedroht* erklärt werden.
 Im Verlauf des Einschätzungsblocks gewinnt man erste Hinweise auf
 mögliche Diagnosen und kann meist eine vorläufige *Verdachtsdiagnose*
 formulieren
-(*“Was ist das Problem des Patienten?”*).
+(*"Was ist das Problem des Patienten?"*).
 
 
-Alarmzeichen (“Red Flags” 🚩) sind Zeichen einer vitalen Bedrohung
+Alarmzeichen ("Red Flags" 🚩) sind Zeichen einer vitalen Bedrohung
 ========================================================================
 
-Alarmzeichen (“Red Flags” 🚩)
+Alarmzeichen ("Red Flags" 🚩)
 ----------------------------------------------
 
 .. image:: /Bilder/GabrielSebastian-Ccc/minen_hinweis2.*
-    :width:23%
+    :width: 23%
     :align: right
 
 Das rasche Feststellen einer vitalen Bedrohung ist besonders wichtig.
@@ -162,13 +162,13 @@ und der Strategie.\ [#fn:ReEvaluation]_
    Die    Forderung nach regelmäßiger,
    angepasster Wiederholung des
    Einschätzungsblockes entspricht dem früher gebräuchlichen Begriff
-   “ständige Verlaufskontrolle”.
-   Die Formulierungen “regelmäßig” und “in
-   angemessenem Umfang” sind bewusst offen gewählt worden,
+   "ständige Verlaufskontrolle".
+   Die Formulierungen "regelmäßig" und "in
+   angemessenem Umfang" sind bewusst offen gewählt worden,
    da dies
    sowohl z. B. für den kritischen Bewusstlosen,
-   als auch für den “munter
-   vor sich hinplaudernden” KTW-Patienten gelten soll.
+   als auch für den "munter
+   vor sich hinplaudernden" KTW-Patienten gelten soll.
 
 
 

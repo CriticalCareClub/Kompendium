@@ -52,7 +52,7 @@ Reaktion des Opfers
 -------------------
 
 Eine Vergewaltigung oder sexuelle Nötigung ist meist ein akuter Vorfall.
-Dementsprechend sieht man sich einem “unvorbereiteten”, zumeist
+Dementsprechend sieht man sich einem "unvorbereiteten", zumeist
 verstörtem Opfer gegenüber. Das folgende Verhalten des Opfers kann
 äußerst unterschiedlich sein und von Weinkrämpfen bis hin zur
 scheinbaren Teilnahmslosigkeit reichen. Diese Reaktionen sind das
@@ -73,13 +73,13 @@ an sich selbst schaden in der Situation der Betreuung des Patienten!
 Verhalten gegenüber dem Opfer
 -----------------------------
 
-Ist man aufgrund der ungewohnten Situation unschlüssig, wie man “richtig
-reagieren” soll, so soll man den Fokus auf eine *sachliche* und
+Ist man aufgrund der ungewohnten Situation unschlüssig, wie man "richtig
+reagieren" soll, so soll man den Fokus auf eine *sachliche* und
 *höfliche* Betreuung richten und versuchen, auf der *Sachebene*
 ausführlich zu kommunizieren.
 
-Für Patienten in einer Ausnahmesituation ist es wichtig, *“sich irgendwo
-anhalten zu können”* bzw. *“einen Plan zu haben”*. Dementsprechend
+Für Patienten in einer Ausnahmesituation ist es wichtig, *"sich irgendwo
+anhalten zu können"* bzw. *"einen Plan zu haben"*. Dementsprechend
 wichtig ist auch die Information über alle zu setzenden Maßnahmen und
 das weitere Procedere (sofern absehbar).
 
@@ -129,7 +129,7 @@ das Gesetz genießt*. Darunter fällt:
 -  Missbrauch eines Autoritätsverhältnisses [286]_
 
 Der sexuelle Missbrauch geschieht meist über lange Zeit und ist nur
-selten ein “akutes” Problem. Wichtig hierbei ist es, ihn zu erkennen und
+selten ein "akutes" Problem. Wichtig hierbei ist es, ihn zu erkennen und
 eine ausführliche Dokumentation schon im Verdachtsfall anzufertigen.
 
 
@@ -261,7 +261,7 @@ Hinweiszeichen
 -  Verletzungen bzw. Schmerzen in der Genitalregion (Achtung: Es gibt
    auch andere Ursachen als sexueller Missbrauch!).
 
--  “Untypische” Verletzungen.
+-  "Untypische" Verletzungen.
 
 -  Verhaltensstörungen.
 

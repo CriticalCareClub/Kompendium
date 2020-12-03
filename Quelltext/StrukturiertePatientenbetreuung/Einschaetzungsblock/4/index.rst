@@ -11,8 +11,8 @@ I.d.R. wird hier auf den **S**-Teil des SAMPLER
 vorgegriffen.
 Es bietet sich die Frage an:
 
-    *“Was können wir für sie tun?”* *“Warum haben Sie die Rettung
-    gerufen?”*
+    *"Was können wir für sie tun?"* *"Warum haben Sie die Rettung
+    gerufen?"*
 
 Eventuell ist auch die Umgebung
 (Angehörige, Dritte)

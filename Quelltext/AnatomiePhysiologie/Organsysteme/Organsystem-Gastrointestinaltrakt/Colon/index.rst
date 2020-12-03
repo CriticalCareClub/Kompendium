@@ -1,49 +1,42 @@
 
+.. index::
+    single: Dickdarm
+    single: Colon
+    single: Blinddarm
+    single: Appendix
+    single: Wurmfortsatz
+    single: Appendizitis
+    single: aufsteigender Teil des Dickdarms
+    single: querender Teil des Dickdarms
+    single: absteigender Teil des Dickdarms
+    single: s-förmig gebogener Teil des Dickdarms
+    single: Sigmoid
+    single: Anus
+    single: Rektum
+    single: Mastdarm
+    single: Wasserentzug
+
 ************************
 Colon (Dickdarm)
 ************************
 
 
+.. only:: not latex
 
-.. sidebar:: Dickdarm
+    .. sidebar:: Dickdarm
 
-   -  T-Kreuzung
+        -   T-Kreuzung
+        -   Blinddarm = Sackgasse
+        -   Wurmfortsatz (Appendix)
+        -   Aufsteigender Teil
+        -   Querender Teil
+        -   Absteigender Teil
+        -   S-förmig gebogener Teil
+        -   Mastdarm (Rektum)
+        -   Funktion des Dickdarms:
+            Stuhleindickung, Wasserentzug, Speicherung
+        -   Darmbakterien
 
-   -  Blinddarm = Sackgasse
-
-   -  Wurmfortsatz (Appendix)
-
-   -  Aufsteigender Teil
-
-   -  Querender Teil
-
-   -  Absteigender Teil
-
-   -  S-förmig gebogener Teil
-
-   -  Mastdarm (Rektum)
-
-   -  Funktion des Dickdarms: Stuhleindickung, Wasserentzug, Speicherung
-
-   -  Darmbakterien
-
-
-.. index::
-   single: Dickdarm
-   single: Colon
-   single: Blinddarm
-   single: Appendix
-   single: Wurmfortsatz
-   single: Appendizitis
-   single: aufsteigender Teil des Dickdarms
-   single: querender Teil des Dickdarms
-   single: absteigender Teil des Dickdarms
-   single: s-förmig gebogener Teil des Dickdarms
-   single: Sigmoid
-   single: Anus
-   single: Rektum
-   single: Mastdarm
-   single: Wasserentzug
 
 Der :dfn:`Dickdarm` (*Term.* *Colon*) ist ca. 1,5m lang und
 wird in verschiedene Abschnitte unterteilt. Das Ileum mündet an einer
@@ -53,10 +46,10 @@ Wie der Name des Blinddarmes schon andeutet endet er blind, er ist daher
 eine Sackgasse. Am Blinddarm angehängt findet man den :dfn:`Wurmfortsatz`
 (:dfn:`Appendix`),
 welcher klassischerweise
-für seine Neigung sich zu entzünden bekannt ist (*Appendizitis*). Der
-Wurmfortsatz erfüllt beim Menschen keine nennenswerte Funktion, außer
-der Arbeitsplatzsicherung von Anästhesisten und Chirurgen [212]_. Es
-wird vermutet, dass er eine immunologische Funktion hat.
+für seine Neigung sich zu entzünden bekannt ist (*Appendizitis*).
+Der Wurmfortsatz erfüllt beim Menschen keine nennenswerte Funktion,
+außer der Arbeitsplatzsicherung von Anästhesisten und Chirurgen aufgrund häufig notwendiger Appendix-Operationen.
+Es wird vermutet, dass er eine immunologische Funktion hat.
 
 Vom Blinddarm geht es weiter in den **aufsteigenden Teil**,
 den **querenden** und den **absteigenden Teil des Dickdarms** (Colon
@@ -68,15 +61,15 @@ und danach der **Mastdarm** (*Rektum*),
 welcher den Stuhl über den **Anus** nach außen entlässt.
 
 Die Hauptfunktion des Dickdarms ist der **Wasserentzug** und
-das *Eindicken* des Stuhls, sowie dessen *Speicherung*. Der Großteil der
+das *Eindicken* des Stuhls, sowie dessen *Speicherung*.
+Der Großteil der
 Wasseraufnahme aus der verdauten Nahrung findet hier statt. Der Dickdarm
 ist von *Darmbakterien* besiedelt.
 
-.. [212]
-    Wegen der oft notwendigen Blinddarm-Operationen
 
 .. figure:: /Bilder/WikipediaPd/Colon_anatomy.*
+    :width: 75%
 
-	    Der Dickdarm
+    Der Dickdarm
 
-	    *Mariana Ruiz Villarreal, Public domain*
+    Ⓒ Mariana Ruiz Villarreal Ⓛ Public domain

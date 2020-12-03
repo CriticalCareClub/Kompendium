@@ -34,8 +34,8 @@ Können *nachfolgende Kräfte* den Einsatzort leicht finden?
 Wichtig ist das Erkennen von speziellen Gefahren,
 wie z. B.
 Tiere
-(*“Vorsicht vor dem
-Hund”*-Schilder,
+(*"Vorsicht vor dem
+Hund"*-Schilder,
 *Futternäpfe*),
 Hinweise auf *Gasunfälle*,
 unsichere Gebäude(-teile)

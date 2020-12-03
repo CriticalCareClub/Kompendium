@@ -161,7 +161,7 @@ Beschreibung
 
 Glasmpullen lassen sich unterschiedlich öffnen: Ampullen mit einem
 *roten Punkt* haben eine *Sollbruchstelle*, der Daumen muss beim
-Aufbrechen auf dem roten Punkt liegen. Ampulle mit einem “*Halsring*”
+Aufbrechen auf dem roten Punkt liegen. Ampulle mit einem "*Halsring*"
 können nach allen Richtungen aufgebrochen werden. Beim Arbeiten muss
 besonderes Augenmerk auf eine *sterile Arbeitsweise* gelegt werden! Es
 kann sonst zu Infektionen kommen.
@@ -198,7 +198,7 @@ Vorgehen
       Öffnen der Medikamenten-Ampulle mit Tupfer, roter Punkt weist zum
       Körper
 
-   -  Plastikampulle mit “Dreh-und-Drink”-Verschluss: Verschlussknopf
+   -  Plastikampulle mit "Dreh-und-Drink"-Verschluss: Verschlussknopf
       abdrehen.
 
 #. Ampulle abstellen.
@@ -493,7 +493,7 @@ Material
    -  Die farbige Lasche des Zuspritzventils in rechten Winkel zur
       Venflonachse stellen
 
--  Einmalverschlusskappe (“roter Stoppel”)
+-  Einmalverschlusskappe ("roter Stoppel")
 
 -  Fixierungspflaster und evtl. zusätzliches Fixationsmaterial
 
@@ -554,6 +554,6 @@ Assistenz
 
 !!! LITERARY !!! (Flake and Runggaldier 2008)
 
-[Hildebrand:2001]_
+[Hildebrand:4]_
 
 (Blacky, Schahawi, et al. 2011) !!! LITERARY !!!

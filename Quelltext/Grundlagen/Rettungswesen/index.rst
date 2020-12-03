@@ -1,13 +1,14 @@
 
 
+.. index::
+    single: Rettungswesen
+    single: Einsatztaktik
 
-
-**************************************************************
-Rettungswesen und Einsatztaktik (#27)
-**************************************************************
+********************************************************************************************************************************
+Rettungswesen und Einsatztaktik (`#27 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/27>`_)
+********************************************************************************************************************************
 
 Einführung ist die Strukturen des Rettungswesens und der Einsatztaktik.
-
 
 
 Der Krankentransport- und Rettungsdienst
@@ -27,34 +28,28 @@ Rettungsdienst
 
 Zu den Aufgaben eines *Rettungsdienstes* gehört es:
 
-#. Personen, die eine erhebliche Gesundheitsstörung oder erhebliche
-   Verletzung erlitten haben, *erste Hilfe* zu leisten, sie
-   *transportfähig zu machen* und sie erforderlichenfalls *unter
-   sachgerechter Betreuung* mit geeigneten Transportmitteln *in eine
-   Krankenanstalt zu befördern* oder ärztlicher Hilfe zuzuführen;
-
-#. Personen wegen unmittelbarer Lebensgefahr sofortige erste
-   *notärztliche* Hilfe zu leisten, die anders nicht gewährleistet ist;
-
-#. den Transport von Personen durchzuführen, bei denen *lebenswichtige
-   Funktionen ständig überwacht oder aufrecht erhalten werden müssen*;
-
-#. akute *Blut-, Blutprodukte- oder Organtransporte* durchzuführen;
-
-#. *Sanitätsdienste* zur Behandlung von akuten Erkrankungen oder
-   Verletzungen bei *Veranstaltungen* mit dem hierfür erforderlichen
-   Personal, den erforderlichen Einrichtungen und erforderlichen
-   Transportmitteln bereit zu stellen;
-
-#. die Bevölkerung in erster Hilfe zu *schulen*;
-
-#. im zivilen *Katastrophenschutz* mitzuwirken.
+#.  Personen, die eine erhebliche Gesundheitsstörung oder erhebliche
+    Verletzung erlitten haben, *erste Hilfe* zu leisten, sie
+    *transportfähig zu machen* und sie erforderlichenfalls *unter
+    sachgerechter Betreuung* mit geeigneten Transportmitteln *in eine
+    Krankenanstalt zu befördern* oder ärztlicher Hilfe zuzuführen;
+#.  Personen wegen unmittelbarer Lebensgefahr sofortige erste
+    *notärztliche* Hilfe zu leisten, die anders nicht gewährleistet ist;
+#.  den Transport von Personen durchzuführen, bei denen *lebenswichtige
+    Funktionen ständig überwacht oder aufrecht erhalten werden müssen*;
+#.  akute *Blut-, Blutprodukte- oder Organtransporte* durchzuführen;
+#.  *Sanitätsdienste* zur Behandlung von akuten Erkrankungen oder
+    Verletzungen bei *Veranstaltungen* mit dem hierfür erforderlichen
+    Personal, den erforderlichen Einrichtungen und erforderlichen
+    Transportmitteln bereit zu stellen;
+#.  die Bevölkerung in erster Hilfe zu *schulen*;
+#.  im zivilen *Katastrophenschutz* mitzuwirken.
 
 Kennzeichnung
 ^^^^^^^^^^^^^
 
-Die Verwendung der Bezeichnungen “Rettungsdienst” oder
-“Krankentransportdienst” und von Übersetzungen dieser Bezeichnungen in
+Die Verwendung der Bezeichnungen "Rettungsdienst" oder
+"Krankentransportdienst" und von Übersetzungen dieser Bezeichnungen in
 andere Sprachen in Geschäftspapieren, Beschriftungen, Firmennamen oder
 Beschriftungen auf Transportmitteln, die fälschlicherweise den Anschein
 erwecken, dass es sich um einen Rettungs- oder Krankentransportdienst
@@ -77,28 +72,33 @@ Kommunikationswege
 Die Leitstelle
 --------------
 
-Eine Leitstelle leitet den Betrieb einer oder mehrerer zugeordneten
-Organisationseinheiten. Sie nimmt Informationen (Notrufe, Meldungen der
-Einheiten, …) entgegen, wertet sie aus und koordiniert die einzelnen,
-ihr zugeordneten Einheiten.
-
-Eine Leitstelle kann sowohl organisationsübergreifend (eine Leitstelle
-ist für mehrere Organisationen zuständig, z. B. für Rettungsdienst *und*
-Feuerwehr) eingerichtet werden, es kann jedoch auch innerhalb einer
-Organisation verschiedene Leitstellen, getrennt nach
-Zuständigkeitsbereichen, geben (z. B. getrennte Leitstellen für Rettungs-
-und Krankentransport, Sonderleitstellen während Veranstaltungen,
-regionale Trennung, …) Leitstellen sind meistens ortsfest eingerichtet,
-es gibt jedoch auch mobile Leitstellen, welche bei besonderen
-Ereignissen zum Einsatz kommen können.
-
 .. figure:: /Bilder/GabrielSebastian-Ccc/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.*
     :align: right
     :width: 50%
 
     Arbeit in der Leitstelle
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+
+Eine Leitstelle leitet den Betrieb einer oder mehrerer zugeordneten
+Organisationseinheiten. Sie nimmt Informationen
+(Notrufe, Meldungen der Einheiten, …)
+entgegen, wertet sie aus und koordiniert die einzelnen,
+ihr zugeordneten Einheiten.
+
+Eine Leitstelle kann sowohl organisationsübergreifend (eine Leitstelle
+ist für mehrere Organisationen zuständig,
+z. B. für Rettungsdienst *und*
+Feuerwehr) eingerichtet werden, es kann jedoch auch innerhalb einer
+Organisation verschiedene Leitstellen, getrennt nach
+Zuständigkeitsbereichen, geben
+(z. B. getrennte Leitstellen für Rettungs-
+und Krankentransport, Sonderleitstellen während Veranstaltungen,
+regionale Trennung, …)
+Leitstellen sind meistens ortsfest eingerichtet,
+es gibt jedoch auch mobile Leitstellen,
+welche bei besonderen Ereignissen zum Einsatz kommen können.
+
 
 
 .. index::
@@ -108,6 +108,27 @@ Ereignissen zum Einsatz kommen können.
 
 Aufgaben
 ^^^^^^^^
+
+.. only:: not latex
+
+    .. sidebar:: Aufgaben
+
+        -   *Call Taking*
+
+            -   Annahme & Abfrage von Notrufen & Alarmierungen
+            -   Erfassung im Einsatzleitsystem, Einteilung und Priorisierung nach
+                Art und Dringlichkeit der Meldung, benötigtes Personal, etc.
+
+        -   *Disposition*
+
+            -   Welche Einsatzmittel
+            -   Alarmierung der Einheiten
+            -   Übermittlung der Aufträge
+            -   Unterstützung, Koordination
+            -   Evtl. Zuteilung von Krankenhausbetten
+            -   Status-/Standort-Verwaltung
+
+        -   Dokumentation
 
 Zu den typischen Aufgaben einer Rettungsdienstleitstelle gehört das
 :dfn:`Call Taking`,
@@ -139,27 +160,6 @@ protokolliert, als auch besondere Ereignisse. Telefongespräche mit der
 Leitstelle werden i.d.R. aufgezeichnet und gespeichert.
 
 
-.. only:: not latex
-
-    .. sidebar:: Aufgaben
-
-        -   *Call Taking*
-
-            -   Annahme & Abfrage von Notrufen & Alarmierungen
-            -   Erfassung im Einsatzleitsystem, Einteilung und Priorisierung nach
-                Art und Dringlichkeit der Meldung, benötigtes Personal, etc.
-
-        -   *Disposition*
-
-            -   Welche Einsatzmittel
-            -   Alarmierung der Einheiten
-            -   Übermittlung der Aufträge
-            -   Unterstützung, Koordination
-            -   Evtl. Zuteilung von Krankenhausbetten
-            -   Status-/Standort-Verwaltung
-
-        -   Dokumentation
-
 Funk
 ----
 
@@ -181,14 +181,14 @@ Feststationen zum Einsatz kommen.
 Der klassische Funkbetrieb wird im Wechselverkehr
 (:dfn:`Halbduplexbetrieb`)
 abgewickelt, d. h. es kann nur ein
-Teilnehmer gleichzeitig senden und belegt dabei die Frequenz. [14]_ Um
-einen geordneten Funkbetrieb zu ermöglichen, gibt es für jeden
-organisierten Funkbereich Vorschriften (Protokolle), wie der Funkverkehr
-abzuwickeln ist.
+Teilnehmer gleichzeitig senden und belegt dabei die Frequenz.\ [#Vollduplexbetrieb]_
+Um einen geordneten Funkbetrieb zu ermöglichen, gibt es für jeden
+organisierten Funkbereich Vorschriften (Protokolle),
+wie der Funkverkehr abzuwickeln ist.
 
-.. [14]
-   Beim :index:`Vollduplexbetrieb` kann man
-   gleichzeitig empfangen und senden (z. B. Telefon).
+.. [#Vollduplexbetrieb]
+    Beim :index:`Vollduplexbetrieb` kann man
+    gleichzeitig empfangen und senden (z. B. Telefon).
 
 .. index::
     single: Funkname
@@ -196,87 +196,90 @@ abzuwickeln ist.
 
 .. rubric:: Funkname
 
-I.d.R. wird jede Funkstelle mit einem eigenen Funknamen
+I. d. R. wird jede Funkstelle mit einem eigenen Funknamen
 (:dfn:`Rufnahmen`)
 bezeichnet und kann mit diesem gerufen werden. Die
-Systematik der Bennenung kann je nach Land, Organisation, Leitstellen-
-und Funkbereich sehr unterschiedlich sein. Die entsprechenden Protokolle
-sind zu beachten.
+Systematik der Benennung kann je nach Land, Organisation, Leitstellen-
+und Funkbereich sehr unterschiedlich sein.
+Die entsprechenden Protokolle sind zu beachten.
 
-    -  Funken: *Denken* – *drücken* – *kurz und bündig sprechen*
+.. note::
+
+    -   Funken: *Denken* – *drücken* – *kurz und bündig sprechen*
+
 
 .. rubric:: Beispiel
 
 Funkwagen 249 trifft am Berufungsort ein:
 
     249
-        *“Leitstelle für Zwoneunundvierzig.”*
+        *"Leitstelle für Zwoneunundvierzig."*
 
     Leitstelle
-        *“Kommen Zwoneunundvierzig.”*
+        *"Kommen Zwoneunundvierzig."*
 
     249
-        *“Zwoneunundvierzig ist am BO eingetroffen.”*
+        *"Zwoneunundvierzig ist am BO eingetroffen."*
 
     Leitstelle
-        *“Verstanden Zwoneunundvierzig. Ende.”*
+        *"Verstanden Zwoneunundvierzig. Ende."*
 
 .. rubric:: Beispiel
 
 Der RTW *ABD-Donaustadt* erhält über Sprechfunk einen Einsatz:
 
     Leitstelle
-        *“ABD-Donaustadt für die Leitstelle.”*
+        *"ABD-Donaustadt für die Leitstelle."*
 
     ABD-D
-        *“ABD-Donaustadt hört.”*
+        *"ABD-Donaustadt hört."*
 
     Leitstelle
-        *“Neuer Einsatz – Zweiter Bezirk, Musterstraße – Musterstraße
+        *"Neuer Einsatz – Zweiter Bezirk, Musterstraße – Musterstraße
         Einhundertneunundfünzig, Stiege Zwo, dritter Stock, Tür
         dreiundvierzig – mit sechsundzwanzig-Alpha-eins und Casus
-        zwohundertfünfundsechzigtausend-dreihundertsiebenundzwanzig.”*
+        zwohundertfünfundsechzigtausend-dreihundertsiebenundzwanzig."*
 
     ABD-D
-        *“ABD-Donaustadt hat verstanden und fährt Richtung BO. Ende.”*
+        *"ABD-Donaustadt hat verstanden und fährt Richtung BO. Ende."*
 
 .. table:: Buchstabieralphabetenach ÖNORM A 1081, DIN 5009 und NATO
 
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           |        | **ÖNORM**   | **DIN**                   | **NATO**   |         | **ÖNORM**    | **DIN**                   | **NATO**   |         |          |           |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *A*    | Anton       |  :math:`\hookleftarrow`   | Alpha      | *O*     | Otto         |  :math:`\hookleftarrow`   | Oscar      | *0*     | Null     | Zero      |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *Ä*    | Ärger       |  :math:`\hookleftarrow`   | —          | *Ö*     | Österreich   | Ökonom                    | —          | *1*     | Eins     | One       |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *B*    | Berta       |  :math:`\hookleftarrow`   | Bravo      | *P*     | Paula        |  :math:`\hookleftarrow`   | Papa       | *2*     | Zwo      | Two       |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *C*    | Cäsar       |  :math:`\hookleftarrow`   | Charlie    | *Q*     | Quelle       |  :math:`\hookleftarrow`   | Quebec     | *3*     | Drei     | Three     |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *Ch*   | —           | Charlotte                 | —          | *R*     | Richard      |  :math:`\hookleftarrow`   | Romeo      | *4*     | Vier     | Fower     |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *D*    | Dora        |  :math:`\hookleftarrow`   | Delta      | *S*     | Siegfried    | Samuel                    | Sierra     | *5*     | Fünf     | Five      |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *E*    | Emil        |  :math:`\hookleftarrow`   | Echo       | *Sch*   | —            | Schule                    | —          | *6*     | Sechs    | Six       |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *F*    | Friedrich   |  :math:`\hookleftarrow`   | Foxtrott   | *ß*     | Scharfes s   | Eszett                    | —          | *7*     | Sieben   | Seven     |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *G*    | Gustav      |  :math:`\hookleftarrow`   | Golf       | *T*     | Theodor      |  :math:`\hookleftarrow`   | Tango      | *8*     | Acht     | Eight     |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *H*    | Heinrich    |  :math:`\hookleftarrow`   | Hotel      | *U*     | Ulrich       |  :math:`\hookleftarrow`   | Uniform    | *9*     | Neun     | Niner     |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *I*    | Ida         |  :math:`\hookleftarrow`   | India      | *Ü*     | Übel         | Übermut                   | —          | *./,*   | —        | Decimal   |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *J*    | Julius      |  :math:`\hookleftarrow`   | Juliett    | *V*     | Viktor       |  :math:`\hookleftarrow`   | Victor     | *.*     | —        | Stop      |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *K*    | Konrad      | Kaufmann                  | Kilo       | *W*     | Wilhelm      |  :math:`\hookleftarrow`   | Whiskey    |         |          |           |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *L*    | Ludwig      |  :math:`\hookleftarrow`   | Lima       | *X*     | Xaver        | Xanthippe                 | X-ray      |         |          |           |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *M*    | Martha      |  :math:`\hookleftarrow`   | Mike       | *Y*     | Ypsilon      |  :math:`\hookleftarrow`   | Yankee     |         |          |           |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-           | *N*    | Nordpol     |  :math:`\hookleftarrow`   | November   | *Z*     | Zürich       | Zacharias                 | Zulu       |         |          |           |
-           +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    |        | **ÖNORM**   | **DIN**                   | **NATO**   |         | **ÖNORM**    | **DIN**                   | **NATO**   |         |          |           |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *A*    | Anton       |  :math:`\hookleftarrow`   | Alpha      | *O*     | Otto         |  :math:`\hookleftarrow`   | Oscar      | *0*     | Null     | Zero      |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *Ä*    | Ärger       |  :math:`\hookleftarrow`   | —          | *Ö*     | Österreich   | Ökonom                    | —          | *1*     | Eins     | One       |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *B*    | Berta       |  :math:`\hookleftarrow`   | Bravo      | *P*     | Paula        |  :math:`\hookleftarrow`   | Papa       | *2*     | Zwo      | Two       |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *C*    | Cäsar       |  :math:`\hookleftarrow`   | Charlie    | *Q*     | Quelle       |  :math:`\hookleftarrow`   | Quebec     | *3*     | Drei     | Three     |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *Ch*   | —           | Charlotte                 | —          | *R*     | Richard      |  :math:`\hookleftarrow`   | Romeo      | *4*     | Vier     | Fower     |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *D*    | Dora        |  :math:`\hookleftarrow`   | Delta      | *S*     | Siegfried    | Samuel                    | Sierra     | *5*     | Fünf     | Five      |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *E*    | Emil        |  :math:`\hookleftarrow`   | Echo       | *Sch*   | —            | Schule                    | —          | *6*     | Sechs    | Six       |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *F*    | Friedrich   |  :math:`\hookleftarrow`   | Foxtrott   | *ß*     | Scharfes s   | Eszett                    | —          | *7*     | Sieben   | Seven     |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *G*    | Gustav      |  :math:`\hookleftarrow`   | Golf       | *T*     | Theodor      |  :math:`\hookleftarrow`   | Tango      | *8*     | Acht     | Eight     |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *H*    | Heinrich    |  :math:`\hookleftarrow`   | Hotel      | *U*     | Ulrich       |  :math:`\hookleftarrow`   | Uniform    | *9*     | Neun     | Niner     |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *I*    | Ida         |  :math:`\hookleftarrow`   | India      | *Ü*     | Übel         | Übermut                   | —          | *./,*   | —        | Decimal   |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *J*    | Julius      |  :math:`\hookleftarrow`   | Juliett    | *V*     | Viktor       |  :math:`\hookleftarrow`   | Victor     | *.*     | —        | Stop      |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *K*    | Konrad      | Kaufmann                  | Kilo       | *W*     | Wilhelm      |  :math:`\hookleftarrow`   | Whiskey    |         |          |           |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *L*    | Ludwig      |  :math:`\hookleftarrow`   | Lima       | *X*     | Xaver        | Xanthippe                 | X-ray      |         |          |           |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *M*    | Martha      |  :math:`\hookleftarrow`   | Mike       | *Y*     | Ypsilon      |  :math:`\hookleftarrow`   | Yankee     |         |          |           |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+    | *N*    | Nordpol     |  :math:`\hookleftarrow`   | November   | *Z*     | Zürich       | Zacharias                 | Zulu       |         |          |           |
+    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
 
 Datenfunk
 ---------
@@ -316,16 +319,12 @@ und Ausstattung von Rettungsmitteln, sie wird von den Mitgliedsstaaten
 jedoch nur teilweise umgesetzt. Im deutschsprachigen Raum hat sich
 stattdessen die Einteilung in die grundlegenden Typen
 
--  *Krankentransportwagen* (*KTW*),
-
--  *Rettungstransportwagen* (*RTW*),
-
--  *Notarztwagen* (*NAW*),
-
--  *Notarzteinsatzfahrzeug* (*NEF*) und
-
--  *Notarzthubschrauber* (*NAH*) (in Deutschland:
-   Rettungstransporthubschrauber, RTH)
+-   *Krankentransportwagen* (*KTW*),
+-   *Rettungstransportwagen* (*RTW*),
+-   *Notarztwagen* (*NAW*),
+-   *Notarzteinsatzfahrzeug* (*NEF*) und
+-   *Notarzthubschrauber* (*NAH*) (in Deutschland:
+    Rettungstransporthubschrauber, RTH)
 
 eingebürgert. Daneben kommen oft regional unterschiedliche oder
 organisationsspezifische andere Einsatzmitteltypen zum Einsatz.
@@ -355,13 +354,12 @@ im Rahmen des Rettungsdienstes eingesetzt.
 Im *Ausnahmefall*, wenn z. B. kein geeigneteres Fahrzeug in angemessener
 Zeit verfügbar ist, oder im Großschadensfall, können auch
 Notfallpatienten mit einem KTW transportiert werden. Ein KTW ist mit
-mindestestens 2 Fachkräften besetzt (Mindestqualifikation: *2
-Rettungssanitäter*).
+mindestestens 2 Fachkräften besetzt
+(Mindestqualifikation: *2 Rettungssanitäter*).
 
 .. index::
     single: Rettungstransportwagen
     single: RTW
-
 
 Rettungstransportwagen – RTW
 ----------------------------
@@ -373,34 +371,27 @@ Rettungstransportwagen – RTW
         -   Notfallrettung, Überstellungen
         -   Notfallpatienten
         -   Zusammen mit NEF im organisierten Notarztdienst
-        -   Mind. 1 NFS, 1--2 RS
+        -   Mind. 1 NFS, 1—2 RS
 
-
-.. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.*
-    :align: right
-    :width: 50%
-
-    RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.)
-
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 Der :dfn:`RTW` ist für den Transport, die erweiterte
 Behandlung und die Überwachung von Patienten – insbesonders
 *Notfallpatienten* – konstruiert und ausgerüstet. Er wird in der
 *Notfallrettung* und bei *Überstellungen* von Patienten, welche eine
 erweiterte Behandlung benötigen, eingesetzt. Steigt ein Notarzt zu,
-sollte der RTW weitgehend gleichwertig zu einem NAW sein [15]_. Zusammen
+sollte der RTW weitgehend gleichwertig zu einem NAW sein [#RtwNaw]_. Zusammen
 mit dem *NEF* führt der RTW notarztpflichtige Einsätze durch. Ein RTW
 ist mit mindestens 2, oft auch 3 Fachkräften besetzt
-(Mindestqualifikation: *1 Notfallsanitäter, 1--2
-Rettungssanitäter* ).
+(Mindestqualifikation:
+*1 Notfallsanitäter,
+1—2 Rettungssanitäter* ).
 
-.. [15]
+.. [#RtwNaw]
    Aufgrund diverser Umstände und Vorgaben kann die Forderung, dass ein
    RTW einem NAW ohne Notarzt entspricht, nicht immer uneingeschränkt
    umgesetzt werden. Probleme ergeben sich insbesonders durch das
    Suchtmittelgesetz und besonders teure Geräte oder Medikamente. In
-   jedem Fall soll aber eine “Umrüstung” vom RTW hin zum NAW während des
+   jedem Fall soll aber eine "Umrüstung" vom RTW hin zum NAW während des
    Einsatzes mit *wenigen Handgriffen* möglich sein.
 
 
@@ -418,7 +409,7 @@ Notarztwagen – NAW
 
         -   Notfallrettung, Überstellungen
         -   Notfallpatienten
-        -   Mind. 1 NA, 1 NFS, 1--2 RS
+        -   Mind. 1 NA, 1 NFS, 1—2 RS
 
 
 Der :dfn:`Notarztwagen` (:dfn:`NAW`) ist für den Transport, die erweiterte
@@ -427,8 +418,45 @@ Der :dfn:`Notarztwagen` (:dfn:`NAW`) ist für den Transport, die erweiterte
 *Notfallrettung* und bei *Überstellungen* von Patienten, welche eine
 ärztliche Behandlung oder Überwachung benötigen, eingesetzt. Der NAW ist
 mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifikation:
-*1 Notarzt, 1 Notfallsanitäter, 1­2 Rettungssanitäter*).
+*1 Notarzt, 1 Notfallsanitäter, 1­—2 Rettungssanitäter*).
 
+
+.. subfigstart::
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.*
+    :width: 100%
+
+    RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.)
+
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.*
+    :width: 100%
+
+    NEF der Wiener Berufsrettung (altes Modell)
+
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/Landeanflug-OE-XEC_IMG_1912_1.*
+    :width: 100%
+
+    Ein Hubschrauber der Christophorus-Flugrettungsflotte im Landeanflug an das AKH Wien
+
+    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+
+.. subfigend::
+    :width: 0.3
+    :label: Figure-Rettungsmittel
+
+    Bilderserie: Rettungsmittel
 
 
 .. index::
@@ -447,15 +475,8 @@ Notarzteinsatzfahrzeug – NEF
         -   Mind. 1 NA, 1 NFS
         -   Ein :abbr:`NEF` transportiert keine Patienten.
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.*
-    :align: right
-    :width: 50%
-
-    NEF der Wiener Berufsrettung (altes Modell)
-
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
-
-Ein :abbr:`NEF (Notarzteinsatzfahrzeug)` :dfn:`Notarzteinsatzfahrzeug` ist ein Zubringerfahrzeug, welches den
+Ein :abbr:`NEF (Notarzteinsatzfahrzeug)`
+ist ein Zubringerfahrzeug, welches den
 Notarzt zu einem Einsatzort bringt. Es führt die für eine ärztliche
 Behandlung notwendige Ausstattung mit sich. Ein NEF kann zwar
 grundsätzlich ohne andere Rettungsmittel Patienten versorgen, ein
@@ -467,17 +488,12 @@ Das NEF ist mit mindestens 2 Personen besetzt, (Mindestqualifikation: 1
 Notarzt, 1 Notfallsanitäter (im Ausnahmefall auch Rettungssanitäter)).
 
 
-
-
-
 .. index::
    single: Notarzthubschrauber
    single: NAH
 
 Notarzthubschrauber – NAH
 -------------------------
-
-
 
 .. only:: not latex
 
@@ -492,48 +508,44 @@ Notarzthubschrauber – NAH
 
         -   Nachteile:
 
-            -   Landefläche mind. 25\ :math:`\times`\ 25m
+            -   Landefläche mind. 25 × 25 m
             -   Wetter-, tageszeitabhängig
             -   Hohe Kosten
             -   Wenig Platz
 
         -   Mind. 1 Pilot, 1 NA, 1 NFS
 
-.. figure:: /Bilder/GabrielSebastian-Ccc/Landeanflug-OE-XEC_IMG_1912_1.*
-    :align: right
-    :width: 50%
-
-    Ein Hubschrauber der Christophorus-Flugrettungsflotte im Landeanflug an das AKH Wien
-
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
-
 :dfn:`Notarzthubschrauber` (:dfn:`NAH`) werden in der *Notfallrettung*, für *Überstellungen*
-und z.T. bei *Bergungen* eingesetzt. *Vorteile* sind u.a. ein relativ
+und z.T. bei *Bergungen* eingesetzt.
+*Vorteile* sind u. a. ein relativ
 erschütterungsfreier Transport und kürzere Transportzeiten auf längeren
-Distanzen. Der NAH hat aber auch eine Reihe von *Nachteilen*:
+Distanzen.
+Der NAH hat aber auch eine Reihe von *Nachteilen*:
 
--  *Landefläche*: Der Hubschrauber benötigt einen geeigneten Landeplatz,
-   i.d.R. mind. *25\ :math:`\times`\ 25m*, es dürfen keine
-   Oberleitungen, lose Gegenstände o.ä. den gefahrlosen Anflug stören.
-   Ist in der Nähe des Einsatzortes keine geeignete Landefläche
-   verfügbar, muss der Patient erst mittels eines Fahrzeuges zu einem
-   entsprechenden Platz transportiert werden, dabei geht Zeit verloren.
+-   *Landefläche*:
+    Der Hubschrauber benötigt einen geeigneten Landeplatz,
+    i. d. R. mind. *25 × 25 m*, es dürfen keine
+    Oberleitungen, lose Gegenstände o.ä. den gefahrlosen Anflug stören.
+    Ist in der Nähe des Einsatzortes keine geeignete Landefläche
+    verfügbar, muss der Patient erst mittels eines Fahrzeuges zu einem
+    entsprechenden Platz transportiert werden, dabei geht Zeit verloren.
 
--  *Wetter*: Geeignetes Flugwetter ist Voraussetzung.
+-   *Wetter*: Geeignetes Flugwetter ist Voraussetzung.
 
--  *Tageszeit*: Ein Nachteinsatz ist in den meisten Gegenden nicht oder
-   nur eingeschränkt möglich. [16]_
+-   *Tageszeit*: Ein Nachteinsatz ist in den meisten Gegenden nicht oder
+    nur eingeschränkt möglich. [#Nachtflug]_
 
--  *Kosten*: Sowohl die Vorhaltung als auch der Einsatz eines
-   Hubschraubers ist sehr teuer.
+-   *Kosten*: Sowohl die Vorhaltung als auch der Einsatz eines
+    Hubschraubers ist sehr teuer.
 
--  *Platz*: Je nach Typ ist im Hubschrauber aufgrund des beschränkten
-   Platzangebotes selber eine Behandlung und Betreuung oft nur
-   eingeschränkt möglich.
+-   *Platz*: Je nach Typ ist im Hubschrauber aufgrund des beschränkten
+    Platzangebotes selber eine Behandlung und Betreuung oft nur
+    eingeschränkt möglich.
 
-.. [16]
-   Eine Landung abseits gesicherter Landeplätze in der Nacht ist nur mit
-   spezieller Ausrüstung und Ausbildung möglich [Bischofberger:2007]_.
+.. [#Nachtflug]
+    Eine Landung abseits gesicherter Landeplätze in der Nacht
+    ist nur mit
+    spezieller Ausrüstung und Ausbildung möglich [Bischofberger:2007]_.
 
 Die Vor- und Nachteile müssen abgewogen werden. So kann es bei dem
 gleichen Patienten mit der gleichen Diagnose klug sein mit dem NAH zu
@@ -590,22 +602,22 @@ zu finden.
 
 .. table:: Übersicht der grundlegenden Einsatzmitteltypen
 
-           +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-           | Abkz.   | *Name*                 | *Besatzung*          | *Funktion*                      | *Anmerkungen*                                                          |
-           +=========+========================+======================+=================================+========================================================================+
-           | **KTW** | Krankentransportwagen  | 2 RS                 | Krankentransport                | Transport von Patienten, die keine intensiven med. Maßnahmen benötigen |
-           +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-           | **RTW** | Rettungstransportwagen | 1 NFS, 1--2 RS       |  Notfallrettung                 | Überstellungen, Versorgung und Transport von Patienten                 |
-           |         |                        |                      |                                 | und Notfallpatienten,                                                  |
-           |         |                        |                      |                                 | Ausstattungsmäßig weitgehend gleichwertig zu einem NAW                 |
-           +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-           | **NAW** | Notarztwagen           | 1 NA, 1 NFS, 1--2 RS | Notfallrettung, Überstellungen  |  Versorgung und Transport von Notfallpatienten                         |
-           +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-           | **NEF** | Notarzteinsatzfahrzeug | 1 NFS, 1 NA          | Notfallrettung,  Überstellungen | Versorgung von erkrankten Notfallpatienten,                            |
-           |         |                        |                      |                                 | *kein Transport* (“Notarzt-Zubringer”)                                 |
-           +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-           | **NAH** | Notarzthubschrauber    | 1 Pilot, 1 NFS, 1 NA | Notfallrettung, Überstellungen  | Versorgung und Transport von Notfallpatienten  In Deutschland: *RTH*   |
-           +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+    | Abkz.   | *Name*                 | *Besatzung*          | *Funktion*                      | *Anmerkungen*                                                          |
+    +=========+========================+======================+=================================+========================================================================+
+    | **KTW** | Krankentransportwagen  | 2 RS                 | Krankentransport                | Transport von Patienten, die keine intensiven med. Maßnahmen benötigen |
+    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+    | **RTW** | Rettungstransportwagen | 1 NFS, 1--2 RS       |  Notfallrettung                 | Überstellungen, Versorgung und Transport von Patienten                 |
+    |         |                        |                      |                                 | und Notfallpatienten,                                                  |
+    |         |                        |                      |                                 | Ausstattungsmäßig weitgehend gleichwertig zu einem NAW                 |
+    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+    | **NAW** | Notarztwagen           | 1 NA, 1 NFS, 1--2 RS | Notfallrettung, Überstellungen  |  Versorgung und Transport von Notfallpatienten                         |
+    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+    | **NEF** | Notarzteinsatzfahrzeug | 1 NFS, 1 NA          | Notfallrettung,  Überstellungen | Versorgung von erkrankten Notfallpatienten,                            |
+    |         |                        |                      |                                 | *kein Transport* ("Notarzt-Zubringer")                                 |
+    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+    | **NAH** | Notarzthubschrauber    | 1 Pilot, 1 NFS, 1 NA | Notfallrettung, Überstellungen  | Versorgung und Transport von Notfallpatienten  In Deutschland: *RTH*   |
+    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
 
 
 
@@ -620,7 +632,7 @@ Primäreinsatz, -transport
 -------------------------
 
 Beim Primäreinsatz ist der Rettungsdienst das *erste Glied* der
-professionellen Versorung und wird präklinisch (“vor der Klinik”) tätig.
+professionellen Versorung und wird präklinisch ("vor der Klinik") tätig.
 
 -  Erstes Glied der professionellen Versorgung
 
@@ -630,13 +642,17 @@ professionellen Versorung und wird präklinisch (“vor der Klinik”) tätig.
 Sekundärtransport
 -----------------
 
+.. only:: not latex
+
+    .. sidebar:: Sekundärtransport
+
+        -   Patient bereits versorgt
+        -   Überstellungen
+
 Beim Sekundärtransport wird ein *bereits versorgter Patient*
 transportiert, z. B. zwischen unterschiedlichen Spitälern
 (Transferierung, *Überstellung*).
 
--  Patient bereits versorgt
-
--  Überstellungen
 
 Regionales Rettungswesen
 ========================
@@ -657,15 +673,10 @@ Anbieter mit Gewinnabsicht sein.
     single: Magistratsabteilung 70 (Wien)
     single: MA 70
     single: Berufsrettung (Wien)
+    single: Wiener Berufsrettung
 
 Rettungswesen in Wien
 ^^^^^^^^^^^^^^^^^^^^^
-
-.. index::
-   single: Magistratsabteilung 70
-   single: MA 70
-   single: Wiener Berufsrettung
-   single: Berufsrettung (Wien)
 
 Die Stadt Wien ist für die Durchführung des Rettungsdienstes für das
 Gemeindegebiet verantwortlich. Zur Erfüllung dieser Aufgabe betreibt sie
@@ -684,7 +695,6 @@ Rettungsdienste und bewilligte Krankentransportdienste, darüber hinaus
 gibt es auch noch andere Anbieter behördlich anerkannte, wie z. B. das
 Grüne Kreuz oder der Sozialmedizinische Dienst (SMD).
 
-
 Das *Wiener Rettungs- und Krankentransportgesetz* (WRKG) regelt als
 Landesgesetz den Rettungs- und Krankentransportdienst in Wien.
 
@@ -701,7 +711,7 @@ organisieren.
 .. index::
     single: Vier für Wien
 
-Die “Vier für Wien”
+Die "Vier für Wien"
 """""""""""""""""""
 
 Historisch gesehen unterstützen der *Malteser Hospitaldienst Austria*,
@@ -709,47 +719,44 @@ der *Österreichische Arbeiter-Samariter-Bund*, die *Johanniter-
 Unfall-Hilfe, Bereich Wien* und das *Rote Kreuz* die Wiener
 Berufsrettung am längsten. Diese Organisationen werden im Zusammenhang
 mit dem Rettungswesen auch als die **Vier für Wien**
-tituliert. [17]_ (Kontrollamt der Stadt Wien 2011)
+tituliert. [#VierFuerWienKooperation]_ [KontrollamtWienKA-K-13-09]_
 
-.. [17]
-   Die Kooperation der Wiener Rettung mit privaten Rettungsdiensten ist
-   im Jahr 1977 auf Initiative des damaligen amtsführenden Stadtrates
-   für Gesundheits- und Spitalswesen mit dem Ziel entstanden, das
-   Rettungswesen in Wien neu zu strukturieren und zu regeln. Seit diesem
-   Zeitpunkt arbeiteten die Rettungsorganisationen auf der Basis
-   mündlicher Vereinbarungen zusammen. Ab dem Jahr 1995 erfolgt die
-   Kooperation auf der Basis schriftlicher Verträge zwischen der Wiener
-   Rettung und den jeweiligen privaten Organisationen. (Kontrollamt der
-   Stadt Wien 2011)
+.. [#VierFuerWienKooperation]
+    Die Kooperation der Wiener Rettung mit privaten Rettungsdiensten ist
+    im Jahr 1977 auf Initiative des damaligen amtsführenden Stadtrates
+    für Gesundheits- und Spitalswesen mit dem Ziel entstanden, das
+    Rettungswesen in Wien neu zu strukturieren und zu regeln. Seit diesem
+    Zeitpunkt arbeiteten die Rettungsorganisationen auf der Basis
+    mündlicher Vereinbarungen zusammen. Ab dem Jahr 1995 erfolgt die
+    Kooperation auf der Basis schriftlicher Verträge zwischen der Wiener
+    Rettung und den jeweiligen privaten Organisationen. [KontrollamtWienKA-K-13-09]_
 
 Die Wiener Rettung verpflichtet sich gegenüber den genannten privaten
 Organisationen, die erforderliche nachrichten- und EDV-technische
 Ausstattung der Fahrzeuge zur Verfügung zu stellen und zu warten. Diese
-Ausstattung bleibt Eigentum der Stadt Wien. (Kontrollamt der Stadt Wien
-2011)
+Ausstattung bleibt Eigentum der Stadt Wien. [KontrollamtWienKA-K-13-09]_
 
 Im Gegenzug verpflichten sich die *Vier für Wien*, die von der MA70
 ausgestatteten Fahrzeuge entweder als NAW oder als RTW zur Verfügung zu
 halten und über Auftrag der Stadt Wien für Rettungseinsätze
 bereitzustellen. Auch die personelle Ausstattung dieser Einsatzmittel
-wird von den privaten Organisationen gestellt. [18]_ (Kontrollamt der
-Stadt Wien 2011)
+wird von den privaten Organisationen gestellt. [#Einsatzvergabe]_ [KontrollamtWienKA-K-13-09]_
 
-.. [18]
-   Ferner enthalten die Verträge Bestimmungen über die Vergabe der
-   Einsätze. Diese erfolgt unter Wahrung der Verwendung des geeigneten
-   Rettungsmittels und der kürzesten Einsatzzeit. Sind die Fahrzeuge der
-   *Vier für Wien* nicht ausreichend ausgelastet, ist auf eine
-   gleichmäßige Vergabe der Einsätze an die privaten Organisationen
-   Bedacht zu nehmen; es besteht jedoch kein Rechtsanspruch auf die
-   Zuteilung bestimmter Rettungseinsätze bzw. eine Mindestanzahl von
-   Einsätzen. An dieser Stelle sei darauf hingewiesen, dass die Wiener
-   Rettung für diese Einsätze keine finanzielle Leistung erbringt. Die
-   privaten Organisationen bedienen sich allerdings für die Verrechnung
-   der für Rettungseinsätze anfallenden Gebühren der Magistratsabteilung
-   6 - Rechnungs- und Abgabenwesen. Die Verträge aus dem Jahr 1995
-   wurden im Jahr 2007 dahingehend ergänzt. (Kontrollamt der Stadt Wien
-   2011)
+.. [#Einsatzvergabe]
+    Ferner enthalten die Verträge Bestimmungen über die Vergabe der
+    Einsätze. Diese erfolgt unter Wahrung der Verwendung des geeigneten
+    Rettungsmittels und der kürzesten Einsatzzeit. Sind die Fahrzeuge der
+    *Vier für Wien* nicht ausreichend ausgelastet, ist auf eine
+    gleichmäßige Vergabe der Einsätze an die privaten Organisationen
+    Bedacht zu nehmen; es besteht jedoch kein Rechtsanspruch auf die
+    Zuteilung bestimmter Rettungseinsätze bzw. eine Mindestanzahl von
+    Einsätzen. An dieser Stelle sei darauf hingewiesen, dass die Wiener
+    Rettung für diese Einsätze keine finanzielle Leistung erbringt. Die
+    privaten Organisationen bedienen sich allerdings für die Verrechnung
+    der für Rettungseinsätze anfallenden Gebühren der Magistratsabteilung
+    6 - Rechnungs- und Abgabenwesen. Die Verträge aus dem Jahr 1995
+    wurden im Jahr 2007 dahingehend ergänzt.
+    [KontrollamtWienKA-K-13-09]_
 
 Kooperation mit weiteren Rettungsdiensten
 """""""""""""""""""""""""""""""""""""""""
@@ -760,7 +767,7 @@ freier Einsatzmittel niedrig priorisierte Einsätze von der
 Rettungsleitstelle vermehrt an die *Vier für Wien* abgegeben, wodurch
 sich die MA70 in höherem Ausmaß auf jene Einsätze konzentrieren konnte
 bzw. kann, die als zeitkritisch bzw. höher priorisiert einzustufen waren
-bzw. sind. (Kontrollamt der Stadt Wien 2011)
+bzw. sind. [KontrollamtWienKA-K-13-09]_
 
 Im Herbst 2009 äußerten die *Vier für Wien* gegenüber der Wiener
 Rettung, dass Personalengpässe die Abwicklung der ihnen zugeteilten
@@ -770,12 +777,12 @@ Kreuz* und der *SMD Rettungsdienst und Krankentransport GmbH* ins
 Einvernehmen. Als Ergebnis der Verhandlungen wurde mündlich vereinbart,
 dass diese beiden Organisationen seither ebenfalls vor allem niedrig
 priorisierte Einsätze übernehmen, falls die Kapazitäten der *Vier für
-Wien* erschöpft sind. (Kontrollamt der Stadt Wien 2011)
+Wien* erschöpft sind. [KontrollamtWienKA-K-13-09]_
 
 Bei der Kooperation der Wiener Rettung mit privaten
 Rettungsorganisationen handelte es sich nicht um einen Rettungsverbund,
 sondern um einen losen Zusammenschluss der Rettungsorganisationen in
-Wien. (Kontrollamt der Stadt Wien 2011)
+Wien. [KontrollamtWienKA-K-13-09]_
 
 
 

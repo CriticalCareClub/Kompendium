@@ -95,7 +95,7 @@ vor:
 
 #.  *Beurteilung* ob die *Atmung normal* ist:
     Das ERC versteht unter
-    “normaler” Atmung jede Atemtätigkeit,
+    "normaler" Atmung jede Atemtätigkeit,
     die mit selbständiger
     Aufrechterhaltung der Lebensfunktionen vereinbar ist.
 

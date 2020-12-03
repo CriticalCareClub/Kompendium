@@ -7,8 +7,8 @@ Ziel des Einschätzungsblocks ist das rasche Erkennen einer vitalen
 Bedrohung, Überblick zu gewinnen und Hauptbeschwerden/Leitsymptome zu
 ermitteln.
 Das Modell
-folgt dem Grundsatz *“Treat first what kills first”* und die
-traditionelle Reihenfolge “Atemwege – Atmung – Kreislauf” wird natürlich
+folgt dem Grundsatz *"Treat first what kills first"* und die
+traditionelle Reihenfolge "Atemwege – Atmung – Kreislauf" wird natürlich
 beibehalten.
 Diese Interpretation des ABCDE-Models ermöglicht
 einer schrittweise und geradlinig abarbeitenbaren Struktur zu folgen,
@@ -33,7 +33,7 @@ Verschlechterung des Patientenzustandes rechtzeitig zu erkennen.
     dass im Dienstbetrieb die bisherigen *Primary-/ Secondary-Modelle*
     eher nur bei schon von Anfang an als kritisch erkennbaren Patienten
     (und hier vor allem bei Trauma-Patienten) verwendet werden und die
-    klassischen “NACA-II-Patienten” nicht in den Genuss eines
+    klassischen "NACA-II-Patienten" nicht in den Genuss eines
     systematisierten Screening gekommen sind.
     Daher haben wir großen Wert
     darauf gelegt unser System so zu formulieren,
@@ -43,11 +43,11 @@ Verschlechterung des Patientenzustandes rechtzeitig zu erkennen.
     verzichtet.
 
 
-Das ABCDE-Schema bzw. der Geringschätzung **1--E** 
+Das ABCDE-Schema bzw. der Geringschätzung **1--E**
 dient der Erkennung von vital bedrohten Patienten und dem
-Erkennen von Hauptbeschwerden und Leitsymptomen, 
+Erkennen von Hauptbeschwerden und Leitsymptomen,
 *es deckt nicht
-sämtliche mögliche Untersuchungen ab!* 
+sämtliche mögliche Untersuchungen ab!*
 Weiterführende Untersuchungen und
 Anamneseschritte bzw. Maßnahmen werden *nach* dem Einschätzungsblock
 nach Bedarf durchgeführt.\ [169]_

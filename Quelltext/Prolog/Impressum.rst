@@ -27,12 +27,12 @@ Publikationsart:
     den autorisierten Nutzer.
 
 ISBN:
-	--- 
+	---
 
 Status:
     ()
 
-Versionsgeschichte 
+Versionsgeschichte
 
     0.2.0
         2009-07 (Vorabversion)
@@ -121,14 +121,14 @@ Derivate:
 Versionsverwaltung (Git)
     .. git_changelog::
         :revisions: 1
-        
+
     .. git_commit_detail::
         :branch:
         :commit:
         :uncommitted:
         :untracked:
 
-Siehe Abschnitt “Lizenzen”.
+Siehe Abschnitt "Lizenzen".
 
 Wie jede Wissenschaft ist die Medizin ständigen Entwicklungen
 unterworfen. Soweit fachliche Angaben gemacht werden, darf der Leser

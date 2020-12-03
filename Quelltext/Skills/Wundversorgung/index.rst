@@ -1,7 +1,7 @@
 
-###################################
-Wunden (#75)
-###################################
+#########################################################################################################
+Wunden (`#75 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/75>`_)
+#########################################################################################################
 
 
 
@@ -19,20 +19,22 @@ Allgemeines und Einteilung von Wunden
 Beschreibung
 ============
 
-Eine :dfn:`Wunde` :index:`\ <! Wunde>` (*Lat.* (*Vuln.*)) ist eine
+Eine :dfn:`Wunde`
+:index:`\ <! Wunde>`
+(*Lat.* (*Vuln.*)) ist eine
 Unterbrechung des Zusammenhangs von Körpergeweben durch mechanische,
-thermische, Strahlen- oder chemische Einwirkungen [Pschyrembel:259]_. [293]_ Wunden lassen
+thermische, Strahlen- oder chemische Einwirkungen [Pschyrembel:259]_. [#WundeDefinition]_ Wunden lassen
 sich *nach verschiedenen Gesichtspunkten* einteilen bzw. unterscheiden.
 In den folgende Abschnitten sind Einteilungen nach der physikalischen
 Verletzungsursache, nach der Tiefe der Schädigung sowie nach der Art der
 Schädigung (Wundart) angeführt.
 
 
-.. [293]
-   Wunde: Die übliche Beschreibung einer Wunde als eine Verletzung der
-   Haut ist nicht korrekt. Meist werden mehrere Gewebearten in
-   Mitleidenschaft gezogen. Definition [Pschyrembel:259]_: Unterbrechung
-   des Zusammenhangs von Körpergeweben mit oder ohne Substanzverlust.
+.. [#WundeDefinition]
+    Wunde: Die übliche Beschreibung einer Wunde als eine Verletzung der
+    Haut ist nicht korrekt. Meist werden mehrere Gewebearten in
+    Mitleidenschaft gezogen. Definition [Pschyrembel:259]_: Unterbrechung
+    des Zusammenhangs von Körpergeweben mit oder ohne Substanzverlust.
 
 
 Physikalische Verletzungsursache
@@ -51,20 +53,28 @@ Physikalische Verletzungsursache
 Eine Einteilung bezieht sich auf die *physikalische Verletzungsursache*
 [Pschyrembel:259]_:
 
-#. :dfn:`Mechanische Wunden` :index:`\ <! Mechanische Wunden>`: Entstehen durch spitze oder
-   stumpfe Gewalteinwirkung auf den Körper (Stichwunde, Schürfwunde,
-   Schusswunde, Bisswunde, …)
+#.  :dfn:`Mechanische Wunden`
+    :index:`\ <! Mechanische Wunden>`:
+    Entstehen durch spitze oder
+    stumpfe Gewalteinwirkung auf den Körper (Stichwunde, Schürfwunde,
+    Schusswunde, Bisswunde, …)
 
-#. :dfn:`Thermische Wunden` :index:`\ <! Thermische Wunden>`: Entstehen durch Kälte- oder
-   Hitzeeinwirkung auf den Körper (Verbrennungen, Stromeinwirkung,
-   Erfrierung, …)
+#.  :dfn:`Thermische Wunden`
+    :index:`\ <! Thermische Wunden>`:
+    Entstehen durch Kälte- oder
+    Hitzeeinwirkung auf den Körper (Verbrennungen, Stromeinwirkung,
+    Erfrierung, …)
 
-#. :dfn:`Chemische Wunden` :index:`\ <! Chemische Wunden>`: Entstehen durch Verätzungen mit
-   Laugen oder Säuren
+#.  :dfn:`Chemische Wunden`
+    :index:`\ <! Chemische Wunden>`:
+    Entstehen durch Verätzungen mit
+    Laugen oder Säuren
 
-#. :dfn:`Strahlenbedingte Wunden` :index:`\ <! Strahlenbedingte Wunden>`: Entstehen durch
-   Ultraviolettstrahlung oder ionisierende Strahlung (radioaktive
-   Strahlung, Röntgenstrahlung)
+#.  :dfn:`Strahlenbedingte Wunden`
+    :index:`\ <! Strahlenbedingte Wunden>`:
+    Entstehen durch
+    Ultraviolettstrahlung oder ionisierende Strahlung (radioaktive
+    Strahlung, Röntgenstrahlung)
 
 Tiefe der Schädigung
 ====================
@@ -72,15 +82,13 @@ Tiefe der Schädigung
 Eine weitere Unterteilung kann nach der *Tiefe der Schädigung* des
 Gewebes vorgenommen werden.
 
--  *Oberflächliche* Wunden: Leichte Verletzungen, welche max. bis zur
-   Lederhaut reichen.
-
--  *Tiefe* Wunden: Neben der Verletzung der Haut können hier auch
-   Muskeln, Sehnen, größere Blutgefäße, innere Organe und Knochen
-   betroffen sein.
-
--  *Penetrierende* Wunden: Penetrierende Wunden sind tiefe Wunden mit
-   Eröffnung mindestens einer Körperhöhle (Schädel, Thorax, Bauch).
+-   *Oberflächliche* Wunden: Leichte Verletzungen, welche max. bis zur
+    Lederhaut reichen.
+-   *Tiefe* Wunden: Neben der Verletzung der Haut können hier auch
+    Muskeln, Sehnen, größere Blutgefäße, innere Organe und Knochen
+    betroffen sein.
+-   *Penetrierende* Wunden: Penetrierende Wunden sind tiefe Wunden mit
+    Eröffnung mindestens einer Körperhöhle (Schädel, Thorax, Bauch).
 
 
 Zeitlicher Verlauf
@@ -89,14 +97,12 @@ Zeitlicher Verlauf
 Eine weitere Unterteilung kann nach dem *zeitlichen Verlauf* getroffen
 werden:
 
--  *Frische* Wunden (Rezente Wunden, “rec.”): Wunden innerhalb der
-   ersten 6 h nach der Entstehung
-
--  *Nicht frische* Wunden (Nicht rezente Wunden, “non rec.”): Wunden
-   älter als 6 h
-
--  *Chronische* Wunden: Wunden, welche seit langer Zeit bestehen und
-   Wundheilungsstörungen aufweisen
+-   *Frische* Wunden (Rezente Wunden, "rec."): Wunden innerhalb der
+    ersten 6 h nach der Entstehung
+-   *Nicht frische* Wunden (Nicht rezente Wunden, "non rec."): Wunden
+    älter als 6 h
+-   *Chronische* Wunden: Wunden, welche seit langer Zeit bestehen und
+    Wundheilungsstörungen aufweisen
 
 
 
@@ -135,7 +141,8 @@ Wundarten
 =========
 
 Unterschiedliche *Entstehungsmechanismen* erzeugen unterschiedliche
-*Wundarten* bzw. *Wundformen*. In :ref:`Table-Wundarten` findet sich eine
+*Wundarten* bzw. *Wundformen*.
+In :ref:`Table-Wundarten` findet sich eine
 Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
 .. _Table-Wundarten:
@@ -261,37 +268,40 @@ Neben der Beurteilung der Wunde selbst muss daher immer auch eine
 Beurteilung der Vitalfunktionen und der Schmerzen des Patienten sowie
 der Infektionsgefahren bei der Wundversorgung erfolgen.
 
--  *Verletzung wichtiger Gewebestrukturen (Organe):* Je nach betroffener
-   Körperregion treten unterschiedliche Verletzungsmuster auf. Daraus
-   resultieren spezielle traumatologische Notfallbilder (z. B.
-   Schädel-Hirn-Trauma, Thorax-Trauma, Bauchtrauma etc.), die in den
-   folgenden Abschnitten beschrieben werden.
+-   *Verletzung wichtiger Gewebestrukturen (Organe):*
+    Je nach betroffener
+    Körperregion treten unterschiedliche Verletzungsmuster auf. Daraus
+    resultieren spezielle traumatologische Notfallbilder (z. B.
+    Schädel-Hirn-Trauma, Thorax-Trauma, Bauchtrauma etc.), die in den
+    folgenden Abschnitten beschrieben werden.
 
--  *Starke Blutung:* Bei großflächigen Wunden oder Verletzung wichtiger
-   Blutgefäße kann es zu starken Blutungen und infolge dessen zu einem
-   Volumenmangelschock kommen. Blutstillung und Schockbekämpfung sind
-   die wichtigsten Maßnahmen.
+-   *Starke Blutung:* Bei großflächigen Wunden oder Verletzung wichtiger
+    Blutgefäße kann es zu starken Blutungen und infolge dessen zu einem
+    Volumenmangelschock kommen. Blutstillung und Schockbekämpfung sind
+    die wichtigsten Maßnahmen.
 
--  *Starke Schmerzen:* Treten im Zusammenhang mit einer Verletzung
-   starke Schmerzen auf, muss ein Notarzt für eine Schmerztherapie
-   gerufen werden.
+-   *Starke Schmerzen:* Treten im Zusammenhang mit einer Verletzung
+    starke Schmerzen auf, muss ein Notarzt für eine Schmerztherapie
+    gerufen werden.
 
--  *Eintritt von Krankheitserregern (Infektionsgefahr):* Jede Wunde ist
-   eine Eintrittsstelle für Krankheitserreger in unseren Organismus. Der
-   Patient sollte daher über einen aufrechten *Tetanus*-Impfschutz
-   verfügen (s. :ref:`Thema-tetanus-impfschutz`) [294]_. Bei Bisswunden kann
-   über den Speichel einer erkrankten Tieres *Tollwut* übertragen
-   werden. Bei Bisswunden soll daher versucht werden (am
-   Einsatzprotokoll) zu dokumentieren, wer der Besitzer des Tieres ist.
-   Unter Umständen kann es notwendig sein die Polizei einzuschalten.
+-   *Eintritt von Krankheitserregern (Infektionsgefahr):* Jede Wunde ist
+    eine Eintrittsstelle für Krankheitserreger in unseren Organismus. Der
+    Patient sollte daher über einen aufrechten *Tetanus*-Impfschutz
+    verfügen
+    (s. :ref:`Thema-tetanus-impfschutz`)\ [#TetanusImpfschutz]_.
+    Bei Bisswunden kann
+    über den Speichel einer erkrankten Tieres *Tollwut* übertragen
+    werden. Bei Bisswunden soll daher versucht werden (am
+    Einsatzprotokoll) zu dokumentieren, wer der Besitzer des Tieres ist.
+    Unter Umständen kann es notwendig sein die Polizei einzuschalten.
 
 
 
-.. [294]
-   Zur Verifizierung eines aufrechten Tetanus-Impfschutzes muss jede
-   Wunde einem Arzt vorgestellt werden. Eine Impfung muss spätestens
-   alle 10 Jahre aufgefrischt werden, bei entsprechenden Verletzungen
-   schon früher.
+.. [#TetanusImpfschutz]
+    Zur Verifizierung eines aufrechten Tetanus-Impfschutzes muss jede
+    Wunde einem Arzt vorgestellt werden. Eine Impfung muss spätestens
+    alle 10 Jahre aufgefrischt werden, bei entsprechenden Verletzungen
+    schon früher.
 
 
 ******************************
@@ -412,10 +422,10 @@ solch einer Unterversorgung zu führen. Besonders Stellen, an denen
 *Knochen ohne Muskel- oder Fettpolster direkt unter der Haut* liegen
 sind gefährdet:
 
--  Kreuzbein
--  Fersen
--  Sitzbein
--  Großer Rollhügel (Trochanter maior des Oberschenkels)
+-   Kreuzbein
+-   Fersen
+-   Sitzbein
+-   Großer Rollhügel (Trochanter maior des Oberschenkels)
 
 Gleiches gilt für alle Arten von *Fremdkörpern*, auf denen der Patient
 aufliegt, z. B. Kleidungsfalten, Schnallen, im Bett vergessenes Material,
@@ -442,26 +452,26 @@ Faktoren
 Die Entstehung eines Dekubitus wird im wesentlichen von fünf Faktoren
 bestimmt:
 
--  *Druck*: Je höher der Druck, desto größer ist die Schädigung.
-
--  *Zeit*: Je länger der Druck auf das Gewebe einwirkt, desto größer ist
-   die Schädigung. Erste Anzeichen eines Dekubitus können sich bereits
-   nach weniger als einer Stunde bilden!
-
--  *Scherkraft* und *Reibung*: Scherkräfte bewirken eine Verschiebung
-   zwischen den Gewebeschichten und können ebenso zu ernsthaften
-   Schädigungen führen. Reibung, z. B. durch Ziehen des Patienten über
-   das Bett oder einen Sessel, kann Verletzungen der oberen
-   Hautschichten verursachen.
-
--  *Gewebetoleranz*: Das Gewebe kann unterschiedlich anfällig für
-   Verletzungen und Druckgeschwüre sein. Dies ist z. B. abhängig vom
-   Alter des Patienten, Begleiterkrankungen, dem Grad der
-   Bettlägrigkeit, Lähmungen und den eingenommenen Medikamenten.
-
--  *Mobilität und Empfindungsvermögen*: Je eingeschränkter die Mobilität
-   bzw. die (Schmerz-) Empfindungen des Patienten sind, desto größer ist
-   das Risiko für einen Dekubitus.
+-   *Druck*:
+    Je höher der Druck, desto größer ist die Schädigung.
+-   *Zeit*:
+    Je länger der Druck auf das Gewebe einwirkt, desto größer ist
+    die Schädigung. Erste Anzeichen eines Dekubitus können sich bereits
+    nach weniger als einer Stunde bilden!
+-   *Scherkraft* und *Reibung*: Scherkräfte bewirken eine Verschiebung
+    zwischen den Gewebeschichten und können ebenso zu ernsthaften
+    Schädigungen führen. Reibung, z. B. durch Ziehen des Patienten über
+    das Bett oder einen Sessel, kann Verletzungen der oberen
+    Hautschichten verursachen.
+-   *Gewebetoleranz*:
+    Das Gewebe kann unterschiedlich anfällig für
+    Verletzungen und Druckgeschwüre sein. Dies ist z. B. abhängig vom
+    Alter des Patienten, Begleiterkrankungen, dem Grad der
+    Bettlägrigkeit, Lähmungen und den eingenommenen Medikamenten.
+-   *Mobilität und Empfindungsvermögen*:
+    Je eingeschränkter die Mobilität
+    bzw. die (Schmerz-) Empfindungen des Patienten sind, desto größer ist
+    das Risiko für einen Dekubitus.
 
 
 Grade
@@ -469,45 +479,47 @@ Grade
 
 Einteilung der Schweregrade [Shea:1975]_:
 
--  *Grad 1*: Nicht wegdrückbare, umschriebene *Hautrötung* bei intakter
-   Haut. Weitere klinische Zeichen können *Ödembildung, Verhärtung und
-   eine lokale Überwärmung* sein.
-
--  *Grad 2*: Teilverlust der Haut; Epidermis bis hin zu Anteilen der
-   Lederhaut sind geschädigt. Der Druckschaden ist oberflächlich und
-   kann sich klinisch als *Blase, Hautabschürfung oder flaches Geschwür*
-   darstellen.
-
--  *Grad 3*: Verlust aller Hautschichten einschließlich Schädigung oder
-   Nekrose des subkutanen Gewebes, die bis auf, aber nicht unter, die
-   darunterliegende Faszie reichen kann. Der Dekubitus zeigt sich
-   klinisch als *tiefes, offenes Geschwür*.
-
--  *Grad 4*: *Verlust aller Hautschichten* mit ausgedehnter Zerstörung,
-   Gewebsnekrose oder Schädigung von *Muskeln, Knochen oder stützenden
-   Strukturen* wie Sehnen oder Gelenkkapseln, mit oder ohne Verlust
-   aller Hautschichten.
+-   *Grad 1*: Nicht wegdrückbare, umschriebene *Hautrötung* bei intakter
+    Haut. Weitere klinische Zeichen können *Ödembildung, Verhärtung und
+    eine lokale Überwärmung* sein.
+-   *Grad 2*: Teilverlust der Haut; Epidermis bis hin zu Anteilen der
+    Lederhaut sind geschädigt. Der Druckschaden ist oberflächlich und
+    kann sich klinisch als *Blase, Hautabschürfung oder flaches Geschwür*
+    darstellen.
+    -   *Grad 3*: Verlust aller Hautschichten einschließlich Schädigung oder
+    Nekrose des subkutanen Gewebes, die bis auf, aber nicht unter, die
+    darunterliegende Faszie reichen kann. Der Dekubitus zeigt sich
+    klinisch als *tiefes, offenes Geschwür*.
+-   *Grad 4*: *Verlust aller Hautschichten* mit ausgedehnter Zerstörung,
+    Gewebsnekrose oder Schädigung von *Muskeln, Knochen oder stützenden
+    Strukturen* wie Sehnen oder Gelenkkapseln, mit oder ohne Verlust
+    aller Hautschichten.
 
 Lagerung bei Dekubitus und zur Prophylaxe
 =========================================
 
--  :dfn:`30-Lagerung` :index:`\ <! 30-Lagerung>`: Der Patient liegt auf einem oder zwei
-   weichen Kissen, die unter der Körperhälfte eingebracht werden, der
-   Kopf ist durch ein kleines Kissen gestützt. Bei korrekter
-   Durchführung kann man leicht unter das Kreuzbein oder den Trochanter
-   des Oberschenkelknochens fassen. [ThiemesPflege:12]_
+-   :dfn:`30-Lagerung`
+    :index:`\ <! 30-Lagerung>`: Der Patient liegt auf einem oder zwei
+    weichen Kissen, die unter der Körperhälfte eingebracht werden, der
+    Kopf ist durch ein kleines Kissen gestützt. Bei korrekter
+    Durchführung kann man leicht unter das Kreuzbein oder den Trochanter
+    des Oberschenkelknochens fassen. [ThiemesPflege:12]_
+-   :dfn:`135-Lagerung`
+    :index:`\ <! 135-Lagerung>`:
+    Von der Seitenlage ausgehend wird
+    der Patient auf eine zusammengerollte Decke oder zwei Pölster
+    gelagert. Die Lagerung ist korrekt, wenn der unten liegende
+    Trochanter ohne Druckbelastung ist.
+    Der unten liegende Fuß kann durch
+    einen schmalen Polster freigelagert werden.
+    [WundversorgungPflege:2]_
+-   :dfn:`5-Kissen-Weichlagerung`
+    :index:`\ <! 5-Kissen-Weichlagerung>`:
+    Der Patient wird komplett
+    auf 5 oder mehr Pölstern gelagert. Ziel ist das Freilegen bereits
+    geschädigter Bereiche. [ThiemesPflege:12]_
 
--  :dfn:`135-Lagerung` :index:`\ <! 135-Lagerung>`: Von der Seitenlage ausgehend wird
-   der Patient auf eine zusammengerollte Decke oder zwei Pölster
-   gelagert. Die Lagerung ist korrekt, wenn der unten liegende
-   Trochanter ohne Druckbelastung ist. Der unten liegende Fuß kann durch
-   einen schmalen Polster freigelagert werden. [WundversorgungPflege:2]_
-
--  :dfn:`5-Kissen-Weichlagerung` :index:`\ <! 5-Kissen-Weichlagerung>`: Der Patient wird komplett
-   auf 5 oder mehr Pölstern gelagert. Ziel ist das Freilegen bereits
-   geschädigter Bereiche. [ThiemesPflege:12]_
-
--  **Bauchlage** :index:`\ <Bauchlage>`
+-   **Bauchlage** :index:`\ <Bauchlage>`
 
 Abhängig von Begleiterkrankungen oder -verletzungen können u.U. nicht
 alle Lagerungsarten bei einem Patienten angewendet werden.
@@ -524,7 +536,6 @@ Dekubitusprophylaxe allgemein
     keine allgemein gültigen Aussagen. Sinnvoll ist es regelmäßig zu
     überprüfen, ob Zeichen von Druckeinwirkungen auftreten und das
     Intervall entsprechend anzupassen.
-
 -   *Druckentlastung*: Es gibt verschiedene Möglichkeiten, die
     Druckbelastung einzelner Hautregionen zu mindern. Die Aktivierung und
     Mobilisation der Patienten sollte die erste Maßnahme sein.
@@ -535,8 +546,7 @@ Dekubitusprophylaxe allgemein
     beispielsweise mittels Bauchlagerung, aber auch durch regelmäßigen
     Lagewechsel und Vergrößerung der Auflagefläche durch spezielle
     Hilfsmittel wie spezielle Wechseldruck-Matratzen oder
-    Luftstrom-Matratzensysteme. [PflegeWiki:2012]_
-
+    Luftstrom-Matratzensysteme. [Pflegewiki:Dekubitus]_
 -   *Ernährung*: Hierbei sei auf die entsprechende Pflege-Fachliteratur
     verwiesen.
 
@@ -552,20 +562,21 @@ Rahmen der Übergabe des Patienten müssen etwaige Dekubitus-Gefahren oder
 bereits vorhandene Geschwüre besprochen werden.
 
 Die Mobilisation bzw. regelmäßige Umlagerung soll nach Möglichkeit auch
-während des Transports durchgeführt werden. Als einfaches technisches
+während des Transports durchgeführt werden.
+Als einfaches technisches
 Hilfsmittel steht die (nicht abgesaugte!) Vakuummatratze zur Verfügung,
 welche bei geringen Dekubitusrisiko als Unterlage verwendet werden kann.
-Außerdem sind diverse künstliche Auflagefelle [295]_ am Markt verfügbar.
+Außerdem sind diverse künstliche Auflagefelle [#Auflagefelle]_ am Markt verfügbar.
 Bei Hochrisikopatienten bzw. ausgedehnten Transportstrecken soll
 unbedingt mit einer diplomierten Pflegeperson Rücksprache gehalten
 werden und eine individuelle Lösung gefunden werden.
 
 
 
-.. [295]
-   Felle als Unterlage sind im stationären Bereich eher verpönt, im
-   Rahmen des Krankentransports haben sie dennoch eine gewisse
-   Berechtigung.
+.. [#Auflagefelle]
+    Felle als Unterlage sind im stationären Bereich eher verpönt, im
+    Rahmen des Krankentransports haben sie dennoch eine gewisse
+    Berechtigung.
 
 
 .. figure:: /Bilder/WikipediaPd/Escarre_Stade_4_detail.*
@@ -578,22 +589,8 @@ werden und eine individuelle Lösung gefunden werden.
 .. rubric:: Literatur
 
 [WundversorgungPflege:2]_
-    Vasel-Biergans, Anette und Wiltrud Probst:
-    2011.*Wundversorgung Für
-    Die Pflege: Ein Praxisbuch.*
-    2. Auflage,  Wissenschaftliche
-    Verlagsgesellschaft Stuttgart.
-    *Exzellentes, umfassendes Werk über die Wundbehandlung,
-    nicht nur für die Pflege:*
-
 [ThiemesPflege:12]_
-
 [AerztlicheWundversorgung:2]_
-
-*Historische Abhandlung:* Küster, Ernst:
-*Geschichte Der Neueren Deutschen Chirurgie.* Vol.
-15. Neue Deutsche Chirurgie. 1915.
-Verlag von Ferdinand Enke in Stuttgart.
-http://www.gutenberg.org/ebooks/39529. [Kuester:1915]_
+[Kuester:1915]_
 
 

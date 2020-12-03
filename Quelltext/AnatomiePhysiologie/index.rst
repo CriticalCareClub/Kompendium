@@ -1,15 +1,12 @@
-.. _chp-VIT:
 
-###############################################
-Anatomie und Physiologie (#58)
-###############################################
+.. _AnatomiePhysiologie:
 
-
-
+#############################################################################################################################################
+Anatomie und Physiologie (`#58 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/58>`_)
+#############################################################################################################################################
 
 
-Literatur
-    [Benninghoff:17:Bd1][Leohnhardt:2003][Platzer:2003][Waldeyer:2003]
+
 
 
 .. index::
@@ -18,16 +15,17 @@ Literatur
 
 Aufgrund der Überlappungsbereiche hinsichtlich der Sichtweise auf
 anatomische Strukturen und physiologische Eigenschaften und Funktionen
-ist die angewandte Systematik nicht strikt und linear, sondern
-elastisch und versucht sich an die Bedürfnisse, welche die AINS an
-diese Grundlagenwissenschaften stellen, anzupassen.
-Sie orientiert sich daher an folgenden Bereichen:
+ist die angewandte Systematik nicht strikt und linear,
+sondern elastisch und versucht sich an die Bedürfnisse,
+welche die klinische Praxis an diese Grundlagenwissenschaften stellen,
+anzupassen.
+Daher orientiert sich unsere Darstellung an folgender Klassifikation:
 
 -   Allgemeines
--   Regionen (topographisch)
--   Organsystemen (funktionell)
+-   topographische Regionen
+-   funktionelle Organsystemen
 -   Leitungsbahnen
--   Funktionelle Systeme, nicht primär organbezogen
+-   Funktionelle Systeme, die nicht primär organbezogen sind
 
 
 
@@ -39,3 +37,12 @@ Sie orientiert sich daher an folgenden Bereichen:
     Regionen/index
     Organsysteme/index
     FunktionelleSysteme/index
+
+
+
+.. rubric:: Literatur
+
+[Benninghoff:17:Bd1],
+[Leohnhardt:2003],
+[Platzer:2003],
+[Waldeyer:2003]

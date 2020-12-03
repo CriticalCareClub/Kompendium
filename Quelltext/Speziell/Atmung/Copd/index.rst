@@ -10,7 +10,7 @@ Chronische Bronchitis und COPD (#35)
 
     .. sidebar:: COPD
 
-        -   Husten mit Auswurf, anfänglich “Raucherhusten”
+        -   Husten mit Auswurf, anfänglich "Raucherhusten"
         -   Voranschreitende, sich verschlechternde *Ateminsuffizienz*:
         -   Belastungsdyspnoe (bei schwererer COPD auch in Ruhe)
         -   Ausatmung (Exspiration) erschwert
@@ -34,7 +34,7 @@ Atemwegseinschränkung aufweist.
 Die COPD ist durch eine
 voranschreitende Verschlechterung der Atemleistung gekennzeichnet. Am
 Anfang steht die chronische Bronchitis, welche durch Husten mit
-schleimigem Auswurf gekennzeichnet ist (“*Raucherhusten*”). Es kommt
+schleimigem Auswurf gekennzeichnet ist ("*Raucherhusten*"). Es kommt
 dabei zu einer gesteigerten Entzündungsantwort auf eingeatmete Stoffe
 (Zigarettenrauch, Umweltschadstoffe, …). Wenn man in der
 Lungenfunktionsuntersuchung eine Atmungsseinschränkung nachweisen kann,
@@ -43,7 +43,7 @@ Diese geht mit bleibenden Veränderungen der unteren Atemwege einher,
 diese sind in der Grafik :ref:`Figure-copd-veraenderungen` dargestellt.
 
 Durch die erschwerte Ausatmung kommt es zu einer chronischen
-Überblähung der Lungenbläschen und zu einer “Faß-förmigen” Verformung
+Überblähung der Lungenbläschen und zu einer "Faß-förmigen" Verformung
 des Brustkorbes. Im Endstadium zeigen sich Zeichen einer
 Rechtsherzinsuffizienz (:ref:`Thema-rechtsherzinsuffizienz`) aufgrund einer
 Störung im Lungenkreislauf.
@@ -242,9 +242,9 @@ SAMPLER: COPD
     Entwicklung einer COPD-Erkrankung
 
     Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
-    “Karriere” hinter sich.
+    "Karriere" hinter sich.
 
-    [Lena Hirtler, :term:`Lizenz:`MfG`]
+    [Lena Hirtler, :term:`Ⓛ MfG`]
 
 .. _m-copd-exzerbation:
 

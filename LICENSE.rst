@@ -13,8 +13,8 @@ veröffentlicht. Alle Rechte vorbehalten.
 Eine Verbreitung ist nicht gestattet.
 
 .. Die Inhalte der AASS als Gesamt- und Sammelwerk unterliegen den
-.. Nutzungsbedingungen der Creative-Commons-Lizenz *“Namensnennung – Keine
-.. Bearbeitungen 3.0 Österreich”* (*CC-BY-ND/3.0/at*, abrufbar unter
+.. Nutzungsbedingungen der Creative-Commons-Lizenz *"Namensnennung – Keine
+.. Bearbeitungen 3.0 Österreich"* (*CC-BY-ND/3.0/at*, abrufbar unter
 .. http://creativecommons.org/licenses/by-nd/3.0/at/) zuzüglich dem unter
 .. :ref:`_Topic_LizenzAddendum` angeführten Lizenz-Addendum.
 
@@ -58,7 +58,7 @@ http://creativecommons.org/licenses/by-nd/3.0/at/ einzubinden.
 Creative Commons Namensnennung – Keine Bearbeitungen 3.0 Österreich
 ===================================================================
 
-*Der Gegenstand dieser Lizenz (wie unter “Schutzgegenstand” definiert)
+*Der Gegenstand dieser Lizenz (wie unter "Schutzgegenstand" definiert)
 wird unter den Bedingungen dieser *Creative Commons Public License*
 (*CCPL*, *Lizenz* oder *Lizenzvertrag*) zur Verfügung gestellt. Der
 Schutzgegenstand ist durch das Urheberrecht und / oder andere Gesetze
@@ -73,7 +73,7 @@ an die Lizenzbedingungen akzeptieren.*
 
 
 1.  Definitionen
-    Der Begriff “**Bearbeitung**” im Sinne dieser Lizenz bezeichnet das
+    Der Begriff "**Bearbeitung**" im Sinne dieser Lizenz bezeichnet das
     Ergebnis jeglicher Art von Veränderung des Schutzgegenstandes,
     solange dieses erkennbar vom Schutzgegenstand abgeleitet wurde. Dies
     kann insbesondere auch eine Umgestaltung, Änderung, Anpassung,
@@ -82,7 +82,7 @@ an die Lizenzbedingungen akzeptieren.*
     gelten seine Aufnahme in eine Sammlung oder ein Sammelwerk und die
     freie Nutzung des Schutzgegenstandes.
 
-    Der Begriff “**Sammelwerk**” im Sinne dieser Lizenz meint eine
+    Der Begriff "**Sammelwerk**" im Sinne dieser Lizenz meint eine
     Zusammenstellung von literarischen, künstlerischen oder
     wissenschaftlichen Inhalten zu einem einheitlichen Ganzen, sofern
     diese Zusammenstellung aufgrund von Auswahl und Anordnung der darin
@@ -91,24 +91,24 @@ an die Lizenzbedingungen akzeptieren.*
     oder methodisch angelegt und dadurch einzeln zugänglich sind oder
     nicht.
 
-    “**Verbreiten**” im Sinne dieser Lizenz bedeutet, den Schutzgegenstand
+    "**Verbreiten**" im Sinne dieser Lizenz bedeutet, den Schutzgegenstand
     oder Bearbeitungen im Original oder in Form von
     Vervielfältigungsstücken, mithin in körperlich fixierter Form der
     Öffentlichkeit zugänglich zu machen oder in Verkehr zu bringen.
 
-    Der “**Lizenzgeber**” im Sinne dieser Lizenz ist diejenige natürliche
+    Der "**Lizenzgeber**" im Sinne dieser Lizenz ist diejenige natürliche
     oder juristische Person oder Gruppe, die den Schutzgegenstand unter
     den Bedingungen dieser Lizenz anbietet und insoweit als
     Rechteinhaberin auftritt.
 
-    “**Rechteinhaber**” im Sinne dieser Lizenz ist der Urheber des
+    "**Rechteinhaber**" im Sinne dieser Lizenz ist der Urheber des
     Schutzgegenstandes oder jede andere natürliche oder juristische
     Person, die am Schutzgegenstand ein Immaterialgüterrecht erlangt
     hat, welches die in Abschnitt 3 genannten Handlungen erfasst und
     eine Erteilung, Übertragung oder Einräumung von
     Nutzungsbewilligungen bzw Nutzungsrechten an Dritte erlaubt.
 
-    Der Begriff “**Schutzgegenstand**” bezeichnet in dieser Lizenz den
+    Der Begriff "**Schutzgegenstand**" bezeichnet in dieser Lizenz den
     literarischen, künstlerischen oder wissenschaftlichen Inhalt, der
     unter den Bedingungen dieser Lizenz angeboten wird. Das kann
     insbesondere eine eigentümliche geistige Schöpfung jeglicher Art
@@ -119,9 +119,9 @@ an die Lizenzbedingungen akzeptieren.*
     ob in analoger oder digitaler Form. Soweit Datenbanken oder
     Zusammenstellungen von Daten einen immaterialgüterrechtlichen Schutz
     eigener Art genießen, unterfallen auch sie dem Begriff
-    “Schutzgegenstand” im Sinne dieser Lizenz.
+    "Schutzgegenstand" im Sinne dieser Lizenz.
 
-    Mit “*Sie*” bzw. “*Ihnen*” ist die natürliche oder juristische
+    Mit "*Sie*" bzw. "*Ihnen*" ist die natürliche oder juristische
     Person gemeint, die in dieser Lizenz im Abschnitt 3 genannte
     Nutzungen des Schutzgegenstandes vornimmt und zuvor in Hinblick auf
     den Schutzgegenstand nicht gegen Bedingungen dieser Lizenz verstoßen
@@ -129,7 +129,7 @@ an die Lizenzbedingungen akzeptieren.*
     die durch diese Lizenz gewährte Nutzungsbewilligung trotz eines
     vorherigen Verstoßes auszuüben.
 
-    Unter “**Öffentlich Wiedergeben**” im Sinne dieser Lizenz sind
+    Unter "**Öffentlich Wiedergeben**" im Sinne dieser Lizenz sind
     Wahrnehmbarmachungen des Schutzgegenstandes in unkörperlicher Form
     zu verstehen, die für eine Mehrzahl von Mitgliedern der
     Öffentlichkeit bestimmt sind und mittels öffentlicher Wiedergabe in
@@ -139,7 +139,7 @@ an die Lizenzbedingungen akzeptieren.*
     Verfahren, einschließlich drahtgebundener oder drahtloser Mittel und
     Einstellen in das Internet.
 
-    “**Vervielfältigen**” im Sinne dieser Lizenz bedeutet, gleichviel in
+    "**Vervielfältigen**" im Sinne dieser Lizenz bedeutet, gleichviel in
     welchem Verfahren, auf welchem Träger, in welcher Menge und ob
     vorübergehend oder dauerhaft, Vervielfältigungsstücke des
     Schutzgegenstandes herzustellen, insbesondere durch Ton- oder
@@ -251,7 +251,7 @@ an die Lizenzbedingungen akzeptieren.*
         Rechtevermerk, in den Nutzungsbedingungen oder auf andere
         angemessene Weise eine Zuschreibung an Dritte vorgenommen hat
         (z. B. an eine Stiftung, ein Verlagshaus oder eine Zeitung)
-        (“Zuschreibungsempfänger”), Namen bzw. Bezeichnung dieses oder
+        ("Zuschreibungsempfänger"), Namen bzw. Bezeichnung dieses oder
         dieser Dritten; den Titel des Inhaltes; in einer praktikablen
         Form den Uniform-Resource-Identifier (URI, z. B. Internetadresse),
         den der Lizenzgeber zum Schutzgegenstand angegeben hat, es sei
@@ -412,21 +412,21 @@ CC-BY
         | Version 3.0: http://creativecommons.org/licenses/by/3.0/.
 
     Kurzfassung (ohne Gewähr):
-    “You let others copy, distribute, display, and perform your
+    "You let others copy, distribute, display, and perform your
     copyrighted work — and derivative works based upon it — but only
-    if they give credit the way you request.”
+    if they give credit the way you request."
 
 CC-BY-1.0
-    *Creative-Commons Attribution Unported*, *“Creative-Commons
-    Attribution Unported 1.0.”*.
+    *Creative-Commons Attribution Unported*, *"Creative-Commons
+    Attribution Unported 1.0."*.
 
 CC-BY-2.0
-    *Creative-Commons Attribution Unported*, *“Creative-Commons
-    Attribution Unported 2.0.”*.
+    *Creative-Commons Attribution Unported*, *"Creative-Commons
+    Attribution Unported 2.0."*.
 
 CC-BY-2.1
-    *Creative-Commons Attribution Unported*, *“Creative-Commons
-    Attribution Unported 2.1.”*.
+    *Creative-Commons Attribution Unported*, *"Creative-Commons
+    Attribution Unported 2.1."*.
 
 CC-BY-.at-3.0
     *Creative-Commons Namensnennung 3.0 Österreich*, *Creative-Commons

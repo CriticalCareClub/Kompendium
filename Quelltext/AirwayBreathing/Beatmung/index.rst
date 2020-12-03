@@ -349,7 +349,7 @@ Intensivbeatmungsgeräte
 
 Notfallbeatmungsgeräte
     bieten nur elementare Einstellungen und Beatmungsmuster und sind in Ihrer
-    Funktion am ehesten mit einem “automatisierten Beatmungsbeutel”
+    Funktion am ehesten mit einem "automatisierten Beatmungsbeutel"
     vergleichbar.
     Reine Notfallbeatmungsgeräte bieten sie nur die Möglichkeit zur
     kontrollierten, volumskontrollierten Beatmung
@@ -416,9 +416,9 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 
             *Medumat Standard (re.):* Air-Mix-Schalter, Ein-Ausschalter, Stellräder
             für Atemfrequenz, Atemminutenvolumen (!) und Druckbegrenzung,
-            Beatmungsdruckanzeige, Warnleuchten für Verlegung (“Stenosis”), Lösung
-            des Beatmungsschlauches (“Disconnection”), niederen Flaschendruck
-            (“<2.7bar”) und schwache Batterie.
+            Beatmungsdruckanzeige, Warnleuchten für Verlegung ("Stenosis"), Lösung
+            des Beatmungsschlauches ("Disconnection"), niederen Flaschendruck
+            ("<2.7bar") und schwache Batterie.
 
             Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 

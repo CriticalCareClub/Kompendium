@@ -75,7 +75,7 @@ mittleren Oberbauch seit 2h mit Ausstrahlung in den Rücken
 
 **Anmerkungen:** Abdomen weich, keine Druck- oder Loslassschmerzen
 
-**Diagnose:** Unklarer Bauchschmerz: „Dumpfer“ Schmerz im linken und
+**Diagnose:** Unklarer Bauchschmerz: „Dumpfer" Schmerz im linken und
 rechten Oberbauch seit gestern.
 
 **Anmerkungen:** Abdomen weich, keine Druck- oder Loslassschmerzen
@@ -138,7 +138,7 @@ Der Patient liegt meistens im Bett. Oft ist eine Schonhaltung
 **Schmerzen** im Bauch, diese können als diffus (im gesamten Bauch) oder
 auf ein Bauchsegment beschränkt angegeben werden.
 
-Die **harte Bauchdecke** (“*bretthart*”) ist neben den Schmerzen das
+Die **harte Bauchdecke** ("*bretthart*") ist neben den Schmerzen das
 Leitsymptom des Akuten Abdomens. Es besteht oft Übelkeit oder auch
 Erbrechen. Der Kreislauf kann kompensiert sein, oder Zeichen von
 Schwäche zeigen, bis hin zu einer Schocksymptomatik (Blutverlust,
@@ -152,9 +152,9 @@ Lebensalter, von anderen vorbestehenden Erkrankungen des Patienten und
 der Dauer des aktuellen Zustandes abhängig.
 
 Der Patient ist nicht unbedingt unmittelbar vital bedroht. Wesentlich
-nach Eintreffen beim Patienten ist die Beantwortung der Fragen *“Wie
+nach Eintreffen beim Patienten ist die Beantwortung der Fragen *"Wie
 schlecht, bzw. wie gut geht es dem Patienten? Ist der Patient vital
-bedroht?”*.
+bedroht?"*.
 
 .. admonition:: Synopsis
 
@@ -395,7 +395,7 @@ Gastrointestinale Blutungen und Ösophagusvarizenblutung
 :dfn:`Gastrointestinale Blutungen` :index:`\ <! Gastrointestinale Blutungen>`
 sind Blutungen im Magen-Darm-Trakt.
 :dfn:`Ösophagusvarizenblutungen` :index:`\ <! Ösophagusvarizenblutungen>` sind
-Blutungen aus erweiterten Gefäßen (“Krampfadern”) in der Speiseröhre.
+Blutungen aus erweiterten Gefäßen ("Krampfadern") in der Speiseröhre.
 
 Im Verlauf des Magen-Darm-Traktes kann es an verschiedenen Stellen zu
 Blutungen kommen, die auch sehr schwer ausfallen können. Die
@@ -600,7 +600,7 @@ jeweils sehr verschiedene Ursachen:
 
 Besonders ältere Menschen haben oft ein mangelndes Durstgefühl und daher
 einen *verminderten Trinkantrieb*. Auch durch die Einnahme von *Drogen*
-(Ecstacy) kann auf den Durst “vergessen” werden. Andererseits kann es zu
+(Ecstacy) kann auf den Durst "vergessen" werden. Andererseits kann es zu
 einem erhöhtren *Flüssigkeitsverlust* durch *Erbrechen*, *Durchfall*
 sowie *starkes Schwitzen* kommen. Bei *Fieber* wird auch vermehrt
 Feuchtigkeit abgeatmet, und natürlich können auch *Medikamente*

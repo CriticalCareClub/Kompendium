@@ -1,19 +1,11 @@
 
 
 
-#########################################
-Vergiftungen (#72)
-#########################################
+
+Vergiftungen (`#72 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/72>`_)
+###########################################################################################################################
 
 
-:Maintainer:
-    Sebastian Gabriel
-
-:Autoren:
-    Diverse
-
-:Reviewer:
-    Standard-Reviewprozess
 
 .. _Thema-vergiftung:
 
@@ -21,9 +13,11 @@ Vergiftungen (#72)
 Beschreibung
 ************
 
-**Eine :dfn:`Vergiftung` :index:`\ <! Vergiftung>` ist eine (meist dosisabhängige)
+Eine :dfn:`Vergiftung` :index:`\ <! Vergiftung>` ist eine (meist dosisabhängige)
 organische Funktionsbeeinträchtigung bzw. Schädigung des Organismus
-durch eine aufgenommene Substanz.** Vergiftungen sind eine interessante
+durch eine aufgenommene Substanz.
+
+Vergiftungen sind eine interessante
 Sache: Ein an sich nützlicher Stoff kann sich in eine todbringende Waffe
 verwandeln, wenn er im Übermaß zugeführt wird. So ist zum Beispiel ein
 Überleben ohne Salz nicht möglich. Führt man jedoch 20dag zu, endet das
@@ -45,16 +39,14 @@ Der Weg in den Körper – Aufnahme des Giftes
 
 Die Aufnahme der Substanz kann über verschiedene Wege erfolgen:
 
--  *Oral*: über den Mund
-
--  *Inhalativ*: Einatmen
-
--  *Stechen, spritzen*: in die Vene (intravenös, z. B. Drogenkonsum), in
-   den Muskel, in die Haut (z. B. Insektenstich)
-
--  *Über die Haut*: transkutan; fettlösliche Substanz kann Hautbarriere
-   durchdringen (z. B.: organische Lösungsmittel, Insektenschutzmittel
-   etc.)
+-   *Oral*: über den Mund
+-   *Inhalativ*: Einatmen
+-   *Stechen, spritzen*: in die Vene
+    (intravenös, z. B. Drogenkonsum), in
+    den Muskel, in die Haut (z. B. Insektenstich)
+-   *Über die Haut*: transkutan; fettlösliche Substanz kann Hautbarriere
+    durchdringen (z. B.: organische Lösungsmittel, Insektenschutzmittel
+    etc.)
 
 *******************************
 Vergiftungsinformationszentrale
@@ -69,7 +61,8 @@ kann wird hier auch bei der Identifizierung des Stoffes geholfen.
     -  Vergiftungsinformationszentrale: 01 / 406 43 43
 
 Gegen die meisten Vergiftungen kann man präklinisch, ursächlich wenig
-unternehmen. Das Hauptaugenmerk liegt daher auf:
+unternehmen.
+Das Hauptaugenmerk liegt daher auf der Sicherung der Vitalfunktionen und symptomatischer Therapie.
 
 
 .. _MT65091C:
@@ -129,49 +122,55 @@ Basismaßnahmen
 Vergiftungen mit Alkohol
 ************************
 
-Einleitung, Wirkung
-===================
+.. only:: not latex
 
-Die Vergiftung mit Alkohol ist häufig anzutreffen, weil sie sozial
-akzeptiert ist. Wenn der Betroffene “über’s Ziel hinaus schießt”, kann
-es schnell zu lebensbedrohlichen Zuständen kommen.
+    .. sidebar:: Alkohol
 
-Alkohol wirkt enthemmend, z.T. stimulierend und stimmungsmodulatorisch.
+        -  Enthemmend, stimmungsmodulatorisch
+        -  Sprach- und Gangunsicherheit
+        -  Bewusstseinstrübung
+
+Die Vergiftung mit Alkohol ist häufig anzutreffen,
+weil sie sozial akzeptiert ist.
+Wenn der Betroffene "über’s Ziel hinaus schießt",
+kann es schnell zu lebensbedrohlichen Zuständen kommen.
+
+Alkohol wirkt enthemmend,
+z. T. stimulierend und stimmungsmodulatorisch.
 Weiters kommt es zu einer Sprach- und Gangunsicherheit.
 
 Die akute Alkoholvergiftung ist von der chronischen Alkoholabhängigkeit
 (Alkoholkrankheit) zu unterscheiden.
 
--  Enthemmend, stimmungsmodulatorisch
-
--  Sprach- und Gangunsicherheit
-
--  Bewusstseinstrübung
-
 .. figure:: /Bilder/GabrielSebastian-Ccc/dif-w2-zelt-1.*
+    :width: 100%
 
 Gefahren
 ========
 
+.. only:: not latex
+
+    .. sidebar::Alkohol: Gefahren
+
+-   Koma
+-   Atemdepression
+-   Ausfall der Schutzreflexe
+-   Aspiration
+-   Schmerzunempfindlichkeit
+-   Unterkühlung
+
 Mit zunehmender Menge kommt es zu einem totalen Kontrollverlust,
 Bewusstseinstrübung, Schmerzunempfindlichkeit,
-Temperaturregulationsstörung und Inkontinenz [291]_. Im Extremfall kann
+Temperaturregulationsstörung und Inkontinenz [#Inkontinenz]_. Im Extremfall kann
 es zu einer vegetativen Entgleisung und einem tief komatösen Zustand
 kommen. Spätestens dann besteht akute Lebensgefahr. Weitere Gefahren
 sind Atemdepression, Aspiration, Ausfall der Schutzreflexe und –
 besonders in der kalten Jahreszeit – Unterkühlung.
 
--  Koma
 
--  Atemdepression
+.. [#Inkontinenz]
+    *Inkontinenz:* Unfähigkeit Harn und/oder Stuhl zu halten.
 
--  Ausfall der Schutzreflexe
-
--  Aspiration
-
--  Schmerzunempfindlichkeit
-
--  Unterkühlung
 
 Es ist unbedingt zu erheben, ob noch andere Substanzen (Medikamente,
 Drogen, …) eingenommen wurden (*Mischintoxikation*). Aufgrund der oft
@@ -200,32 +199,21 @@ Basismaßnahmen
 Chronische Schäden
 ==================
 
--  Leberschäden, Zirrhose
-
--  Aszites (Wasserbauch)
-
--  Krampfadern in der unteren Speiseröhre (Blutungsgefahr)
-
--  Verminderte Blutgerinnung
-
--  Vitaminmangel
-
--  Geistiger Abbau, Gedächtnisschwäche (Korsakow-Syndrom,
-   Wernicke-Enzephalopathie)
-
--  Anämie
-
--  Pankreatitis
-
--  Fetales Alkoholsyndrom (Schädigung des Fötus in der Schwangerschaft)
-   (Jones and Smith 1973; Guerri, Bazinet, and Riley 2009)
+-   Leberschäden, Zirrhose
+-   Aszites (Wasserbauch)
+-   Krampfadern in der unteren Speiseröhre (Blutungsgefahr)
+-   Verminderte Blutgerinnung
+-   Vitaminmangel
+-   Geistiger Abbau, Gedächtnisschwäche (Korsakow-Syndrom,
+    Wernicke-Enzephalopathie)
+-   Anämie
+-   Pankreatitis
+-   Fetales Alkoholsyndrom (Schädigung des Fötus in der Schwangerschaft)
+    [Jones:1973]_ [Guerri:2009]_
 
 ******************************
 Vergiftungen durch Medikamente
 ******************************
-
-Einleitung
-==========
 
 Überdosierungen von Medikamenten können komplett unterschiedliche
 Symptome erzeugen, je nach eingenommenen Medikamenten. Manchmal können
@@ -237,8 +225,11 @@ Neben unabsichtlichen Fehleinnahmen oder Überdosierungen werden
 Arzneimittel oft auch in Selbstmordabsicht eingenommen. Die Umstände der
 Einnahme müssen daher abgeklärt werden.
 
-Paracetamol (Mexalen, APA, …)
+Paracetamol
 =============================
+
+:Markennamen:
+    Mexalen™, APA™
 
 Paracetamol kann in hoher Dosis zu Leberversagen führen. Symptome treten
 erst nach Stunden auf. Es gibt ein Gegenmittel, dieses muss jedoch
@@ -251,9 +242,9 @@ Digitalis
 Digitalis ist ein auf das Herz wirkendes Medikament und wird seit langer
 Zeit zur Behandlung der Herzinsuffizienz und von Herzrhythmusstörungen
 eingesetzt. Es ist jedoch sehr schwierig die richtige Dosis für einen
-Patienten zu finden, daher kommt es – trotz korrekter Einnahme – häufig
+Patienten zu finden, daher kommt es — trotz korrekter Einnahme — häufig
 zu Überdosierungen. Die Folge sind Herzrhythmusstörungen und andere
-EKG-Veränderungen und “Farbensehen”.
+EKG-Veränderungen und "Farbensehen".
 
 ****************************************
 Vergiftungen mit Suchtmitteln und Drogen
@@ -263,42 +254,51 @@ Opiate: Heroin & Co.
 ====================
 
 Heroin und Morphium gehören zu der Gruppe der Opiate und sind im
-Drogenmilieu weit verbreitet, die Anwendung erfolgt i.d.R. intravenös.
+Drogenmilieu weit verbreitet, die Anwendung erfolgt i. d. R. intravenös.
 
 Symptome der Opiatvergiftung
 ----------------------------
 
-Die gefährlichste Wirkung der Opiate ist die Atemdepressionen, d.h. die
-Atemfrequenz wird dosisabhängig immer weiter reduziert bis es
-schließlich zu einem Atemstillstand kommt. Die Patienten zeigen
-dementsprechend Zeichen einer Hypoxie (Zyanose). Charakteristisch ist
+.. only:: not latex
+
+    .. sidebar:: Opiatintoxikation
+
+        -   Atemdepression
+        -   Hypoxie
+        -   Stecknadelkopfgroße Pupillen
+        -   Oft Begleiterkrankungen (HIV, Hep. C)
+        -   **Vorsicht Spritzbesteck!**
+        -   Gegenmittel verfügbar, wirkt aber nicht so lang
+
+Die gefährlichste Wirkung der Opiate ist die Atemdepressionen,
+d.h. die Atemfrequenz wird dosisabhängig immer weiter reduziert bis es
+schließlich zu einem Atemstillstand kommt.
+Die Patienten zeigen
+dementsprechend Zeichen einer Hypoxie (Zyanose).
+Charakteristisch ist
 die starke Verengung der Pupillen *(stecknadelkopfgroße Pupillen)*. Oft
-findet man alte Einstichstellen in der Armbeuge. Da in der “Szene” oft
+findet man alte Einstichstellen in der Armbeuge.
+Da in der "Szene" oft
 unsauberes oder getauschtes Spritzbesteck verwendet wird, besteht eine
-erhöhte Erkrankungsrate an HIV und Hepatitis C. Eine weitere Gefahr geht
-vom Spritzbesteck aus, wenn es nicht sicher verwahrt wird (**Vorsicht
-vor der Nadel!**)
-
--  Atemdepression
-
--  Hypoxie
-
--  Stecknadelkopfgroße Pupillen
-
--  Oft Begleiterkrankungen (HIV, Hep. C)
-
--  **Vorsicht Spritzbesteck!**
-
--  Gegenmittel verfügbar, wirkt aber nicht so lang
+erhöhte Erkrankungsrate an HIV und Hepatitis C.
+Eine weitere Gefahr geht
+vom Spritzbesteck aus, wenn es nicht sicher verwahrt wird
+(**Vorsicht vor der Nadel!**)
 
 Gegenmittel
 -----------
 
 Jedes Notarztmittel führt ein Opiat-Gegenmittel mit sich, dieses ist
-sehr effektiv. [292]_ Es ist jedoch wichtig zu wissen, dass dieses
+sehr effektiv. [#Naloxon]_
+Es ist jedoch wichtig zu wissen, dass dieses
 Gegenmittel nicht so lange wirkt wie das Opiat, d.h. es kann wieder zu
 einer verminderten Atmung kommen, wenn die Wirkung des Gegenmittels
-nachlässt. Daher soll der Transport nur mit Arztbegleitung erfolgen.
+nachlässt.
+Daher soll der Transport nur mit Arztbegleitung erfolgen.
+
+
+.. [#Naloxon]
+    Naloxon. Markenname z. B. *Narcanti*, *Naloxon-ratiopharm*
 
 
 .. _MT40021C:
@@ -322,11 +322,17 @@ Pharmakotherapie
 
 
 
-“Partydrogen”: Ecstacy, Schwammerl, Special K …
+"Partydrogen": Ecstacy, Schwammerl, Special K …
 ===============================================
 
-Beschreibung
-------------
+.. only:: not latex
+
+    .. sidebar::Partydrogen
+
+        -   Ecstasy (XTC, E, X).
+        -   Gesteigertes "Glücksgefühl".
+        -   Gefühl von unerschöpflicher Energie.
+        -   Gesteigertes Erleben der Umwelt.
 
 Als :dfn:`Partydrogen` :index:`\ <! Partydrogen>` bezeichnet man Amphetaminpräparate
 oder ähnliche Stimulantien. Zu den bekanntesten Drogen dieser Art
@@ -336,16 +342,26 @@ als *Partydroge*: Der Patient erlebt ein gesteigertes Glücksgefühl, ein
 Gefühl von unerschöpflicher Energie und ein gesteigertes Erleben der
 Umwelt.
 
--  Ecstasy (XTC, E, X).
-
--  Gesteigertes “Glücksgefühl”.
-
--  Gefühl von unerschöpflicher Energie.
-
--  Gesteigertes Erleben der Umwelt.
-
 Symptome
 --------
+
+.. only:: not latex
+
+    .. sidebar:: Symptome
+
+        -   Nebenwirkungen Psychisch
+
+            -   Halluzinationen
+            -   Panik-Attacken
+
+        -   Nebenwirkungen Körperlich
+
+            -    Tachykarde Herzrhythmusstörungen
+            -    Hypertensive Krisen
+            -    Krampfanfälle
+            -    Massiver Temperaturanstieg über >40°C
+            -    Flüssigkeitsmangel
+
 
 Man kann sie unterteilen in körperliche und psychische Nebenwirkungen.
 Psychisch kommt es dosisabhängig zu Halluzinationen und Panik-Attacken.
@@ -356,26 +372,6 @@ ausgeprägten Vergiftung kann eine vitale Bedrohung bestehen. Häufig
 kommt es zum *Flüssigkeitsmangel* :index:`\ <Flüssigkeitsmangel!Ecstacy>` (*Dehydratation)* :index:`\ <Dehydratation!Ecstacy>` da der Patient einerseits auf das
 Trinken vergisst, und andererseits i.d.R. körperlich aktiv ist und dabei
 durch Schwitzen viel Flüssigkeit verliert.
-
--  Nebenwirkungen Psychisch
-
-   -  Halluzinationen
-
-   -  Panik-Attacken
-
--  Nebenwirkungen Körperlich
-
-   -  Tachykarde Herzrhythmusstörungen
-
-   -  Hypertensive Krisen
-
-   -  Krampfanfälle
-
-   -  Massiver Temperaturanstieg über >40°C
-
-   -  Flüssigkeitsmangel
-
-
 
 .. _MT43091C:
 .. _m-intoxikation-uppers:
@@ -393,7 +389,7 @@ Basismaßnahmen
     -   |TxBeiVit| |TxMassVitMK|
 
 
-(Supady, Schwab, and Busch 2009)
+[Supady:2009]_
 
 ****
 Gase
@@ -443,11 +439,11 @@ Kohlenmonoxid (CO) – oder: Von defekten Heizlüftern, Gasthermen und Autoabgas
 Einleitung
 ^^^^^^^^^^
 
-Kohlenmonoxid () ist ein farb- und geruchloses Gas. Es entsteht bei
-unvollständiger Verbrennung (O2-Zufuhr ↓), dies
+Kohlenmonoxid (CO) ist ein farb- und geruchloses Gas. Es entsteht bei
+unvollständiger Verbrennung (O₂-Zufuhr ↓), dies
 passiert vor allem bei schlecht gewarteten Gasheizungen und
-Durchlauferhitzern. bindet 300 mal besser an den roten Blutfarbstoff
-Hämoglobin als O2, daher verdrängen schon kleine Mengen den Sauerstoff
+Durchlauferhitzern. CO bindet 300 mal besser an den roten Blutfarbstoff
+Hämoglobin als O₂, daher verdrängen schon kleine Mengen den Sauerstoff
 aus dem Blut! Die Folge ist logischerweise eine Unterversorgung mit
 Sauerstoff.\
 
@@ -458,20 +454,33 @@ Sauerstoff.\
 Anamnese und Szene
 ^^^^^^^^^^^^^^^^^^
 
+.. only:: not latex
+
+    .. sidebar:: CO
+
+        -   Mehrere, unerklärliche Opfer, tote Tiere
+        -   Gasofen, Durchlauferhitzer
+        -   *"Immer beim duschen!"*
+
 -  Mehrere, unerklärliche Opfer, leblose Haustiere
 
 -  Gasofen, Durchlauferhitzer
 
--  *“Immer beim Duschen!”*
-
--  Mehrere, unerklärliche Opfer, tote Tiere
-
--  Gasofen, Durchlauferhitzer
-
--  *“Immer beim duschen!”*
+-  *"Immer beim Duschen!"*
 
 Symptome
 ^^^^^^^^
+
+.. only:: not latex
+
+    .. sidebar:: Symptome
+
+        -   Dyspnoe *ohne* Zyanose
+        -   Tachykardie
+        -   Schwindel, Kopfschmerz, Übelkeit, Erbrechen
+        -   Bewusstseinsstörungen, Koma
+        -   Krämpfe
+        -   Pulsoxymeter zeigt falsche Werte an!
 
 Kohlenmonoxid-beladenes Blut ist – wie Sauerstoff-beladenes – hellrot.
 Der Patient ist daher eher nicht bleich oder zyanotisch, sondern die
@@ -485,19 +494,6 @@ Allgemeinsymptomen wie Schwindel, Kopfschmerz, Übelkeit und Erbrechen,
 evtl. besteht auch eine Tachykardie. Es können sich rasch
 Bewusstseinsstörungen bis hin zur Bewusstlosigkeit entwickeln, auch
 Krämpfe sind gut möglich.
-
--  Dyspnoe *ohne* Zyanose
-
--  Tachykardie
-
--  Schwindel, Kopfschmerz, Übelkeit, Erbrechen
-
--  Bewusstseinsstörungen, Koma
-
--  Krämpfe
-
--  Pulsoxymeter zeigt falsche Werte an!
-
 
 .. _MT58001C:
 .. _m-intoxikation-kohlenmonoxid:
@@ -537,22 +533,21 @@ Industrie an.
 Symptome
 ^^^^^^^^
 
--  Kopfschmerz, Schwindel, Übelkeit
+.. only:: not latex
 
--  Krämpfe
+    .. sidebar:: Symptome
 
--  Zyanose
+        -   Kopfschmerz, Schwindel, Übelkeit
+        -   Krämpfe
+        -   Zyanose
+        -   Hyperventilation
 
--  Hyperventilation, da der hohe CO₂-Spiegel im Blut das Atemzentrum
-   stimuliert
 
--  Kopfschmerz, Schwindel, Übelkeit
-
--  Krämpfe
-
--  Zyanose
-
--  Hyperventilation
+-   Kopfschmerz, Schwindel, Übelkeit
+-   Krämpfe
+-   Zyanose
+-   Hyperventilation, da der hohe CO₂-Spiegel im Blut das Atemzentrum
+    stimuliert
 
 
 
@@ -573,7 +568,8 @@ Basismaßnahmen
 
 .. note:: Bedenke!
 
-    -   Bei Gasunfällen hat der *Selbstschutz* Vorrang. Oft ist die Bergung
+    -   Bei Gasunfällen hat der *Selbstschutz* Vorrang.
+        Oft ist die Bergung
         nur mit *schwerem Atemschutz* möglich →
         FEUERWEHR!
 
@@ -590,7 +586,7 @@ Soforttyp
 
 Verzögerungstyp
     (z. B. Nitrosegase) kaum Hustenreiz, Latenzphase (kaum Symptome),
-    *3—24h später: toxisches Lungenödem*; bei
+    *3—24 h später: toxisches Lungenödem*; bei
     Nichtbehandlung evtl. irreversible Lungenschäden
 
 .. table:: Vorkommen von Reizgasen
@@ -654,11 +650,6 @@ Spezialisten beigezogen werden.
 Wichtig ist, auf Selbst- und Fremdschutz zu achten (Absperrmaßnahmen!
 Abstand halten! Wind beachten!), vgl. auch :ref:`Thema-gefahrengutunfall`.
 
--  Selbst- und Fremdschutz
-
--  Spezialisten
-
--  :ref:`Thema-gefahrengutunfall`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/schild-atemschutzmaske-abnehmen.*
 
@@ -686,33 +677,26 @@ von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
 Symptome
 --------
 
+.. only:: not latex
+
+    .. sidebar:: Symptome
+
+        -   Ätz-, Abrinnspuren
+        -   Würgen
+        -   Erbrechen
+        -   Schmerzen
+
 -  Ätzspuren (Mund/Rachen), Abrinnspuren
-
 -  Würgen
-
 -  Erbrechen
-
 -  Schmerzen
 
--  Ätz-, Abrinnspuren
-
--  Würgen
-
--  Erbrechen
-
--  Schmerzen
 
 Gefahren
 --------
 
--  Ruptur/Perforation von Speiseröhre oder Magen
-
--  Blutung
-
--  Ruptur/Perforation Speiseröhre oder Magen
-
--  Blutung
-
+-   Ruptur/Perforation von Speiseröhre oder Magen
+-   Blutung
 
 
 .. _MT54091C:
@@ -735,8 +719,6 @@ Basismaßnahmen
 Schaumbildner (Wasch-/Putzmittel)
 =================================
 
-Beschreibung, Symptome  und Gefahren
-------------------------------------
 
 Schaumbildner vermindern die Oberflächenspannung, dadurch kommt es zur
 Bildung von Schaum. Werden Schaumbildner eingenommen, besteht durch die
@@ -744,15 +726,13 @@ Schaumbildung eine *hohe Aspirationsgefahr* bzw. eine hohe Gefahr der
 *Verlegung* der Atemwege. Zusätzlich kann der Patient über Übelkeit
 klagen bzw. erbrechen.
 
--  Schaumbildung
+-   Schaumbildung
 
-   -  Aspirationsgefahr
+    -    Aspirationsgefahr
+    -    Verlegung der Atemwege
 
-   -  Verlegung der Atemwege
+-   Übelkeit, Erbrechen
 
--  Übelkeit, Erbrechen
-
-0
 
 .. _MT17023C:
 .. _m-schaumbildner:
@@ -768,9 +748,3 @@ Basismaßnahmen
     -   Patienten nüchtern lassen
     -   **Niemals absichtlich Erbrechen herbeiführen!**
 
-
-.. [291]
-   *Inkontinenz:* Unfähigkeit Harn und/oder Stuhl zu halten.
-
-.. [292]
-    Naloxon. Im Handel als: *Narcanti*, *Naloxon-ratiopharm*, u.a.

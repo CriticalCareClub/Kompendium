@@ -20,7 +20,7 @@ Der Blutzuckerspiegel wird in *Milligramm pro Deziliter* (mg / dL ,
 entspricht mg%) , manchmal auch in *Millimol pro Liter* (mmol / L), gemessen. Der
 Wert ist abhängig von der letzten Mahlzeit des Patienten. Nach der
 Nahrungsaufnahme steigt der Blutzuckerspiegel stark an und fällt dann
-wieder auf einen “nüchternen Normalwert” ab. Der normale
+wieder auf einen "nüchternen Normalwert" ab. Der normale
 *Nüchtern-Blutzuckerspiegel* bewegt sich zwischen *80—100 mg / dL* (4,4—5,6 mmol / L).
 Im Akutfall kann der Normalbereich
 jedoch großzügiger angesetzt werden, da bei Werten zwischen 60 und
@@ -65,7 +65,7 @@ Durchführung
    einrasten lassen.
 
 #. Mit einer schnellen, beherzten Bewegung den Patientenfinger *mit der
-   Lanzette stechen* und sofort herausziehen *(“Rein-raus-Methode”)*.
+   Lanzette stechen* und sofort herausziehen *("Rein-raus-Methode")*.
    Bei der Verwendung von Lanzettenautomaten (z. B. mit
    Federdrucksystemen) sind die herstellerspezifischen
    Anwendungshinweise zu beachten.
@@ -118,7 +118,7 @@ Durchführung
 .. figure:: /Bilder/GabrielSebastian-Ccc/bz-wert_1214-00800.jpg
     :width: 100%
 
-    Ergebnis: “90mg/dL
+    Ergebnis: "90mg/dL
 
 
 

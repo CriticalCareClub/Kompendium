@@ -23,15 +23,15 @@ Stoffwechselerkrankung, bei der die Blutzuckerregulation gestört ist.
 Durch die Erkrankung oder die unsachgemäße Behandlung kann es zu
 folgenden Notfällen kommen:
 
--   Hyp\ **o**\ glykämie: “Unterzucker”
--   Hyp\ **er**\ glykämie: “Überzucker”
+-   Hyp\ **o**\ glykämie: "Unterzucker"
+-   Hyp\ **er**\ glykämie: "Überzucker"
 
 Interpretation des BZ-Wertes: RichtwerteDer Blutzuckerspiegel wird in
 *Milligramm pro Deziliter* (mg / dL , entspricht mg%) , manchmal auch in
 *Millimol pro Liter* (mmol / L), gemessen. Der Wert ist
 abhängig von der letzten Mahlzeit des Patienten. Nach der
 Nahrungsaufnahme steigt der Blutzuckerspiegel stark an und fällt dann
-wieder auf einen “nüchternen Normalwert” ab. Der normale
+wieder auf einen "nüchternen Normalwert" ab. Der normale
 *Nüchtern-Blutzuckerspiegel* bewegt sich zwischen
 *80—100 mg / dL* (4,4—5,6 mmol / L). Im Akutfall
 kann der Normalbereich jedoch großzügiger angesetzt werden, da bei
@@ -83,7 +83,7 @@ Insulins sind zwei Störungen häufig:
     Pankreas).
 
 #.  Der Körper hat einen *gesteigerten Bedarf an Insulin*, weil er schon
-    zu sehr daran gewöhnt ist. Der Körper reagiert auf die “normale”
+    zu sehr daran gewöhnt ist. Der Körper reagiert auf die "normale"
     Dosis nicht mehr so wie er sollte, er braucht größere Mengen Insulin
     um den gleichen Effekt wie ein Gesunder zu erreichen
     (*Gewöhnungseffekt*), irgendwann kann aber der Körper nicht mehr
@@ -156,11 +156,11 @@ Spätfolgen
 
         -  Nervenschäden
 
-        -  **Cave “Stummer Infarkt”!**
+        -  **Cave "Stummer Infarkt"!**
 
         -  Augenschäden
 
-        -  Achtung: “Stummer”, schmerzarmer/-loser Herzinfarkt beim Diabetiker!
+        -  Achtung: "Stummer", schmerzarmer/-loser Herzinfarkt beim Diabetiker!
 
 Die eigentlichen Probleme der Zuckerkrankheit sind – zumindest beim
 Typ-II-Diabetiker – nicht ein akute Beschwerden, sondern die
@@ -171,7 +171,7 @@ hinweg schädigt den gesamten Körper. Es kommt zu:
 
    -  Gefäßverschlüsse (kleine und große Gefäße)
 
-   -  *Beine*: “Diabetischer Fuß”, infolge der Mangeldurchblutung in der
+   -  *Beine*: "Diabetischer Fuß", infolge der Mangeldurchblutung in der
       Peripherie heilen auch kleine Wunden nicht mehr, in weiterer Folge
       muss immer weiter amputiert werden.
 
@@ -421,7 +421,7 @@ bei diesen Patienten eine *schnelle, tiefe Atmung* feststellbar (
 *Kußmaul-Atmung*).
 
 Mitunter kann auch ein blumig/fruchtiger oder Azeton-artiger Atemgeruch
-wahrgenommen werden. Dieser darf nicht mit einer “Alkoholfahne”
+wahrgenommen werden. Dieser darf nicht mit einer "Alkoholfahne"
 verwechselt werden!
 
 

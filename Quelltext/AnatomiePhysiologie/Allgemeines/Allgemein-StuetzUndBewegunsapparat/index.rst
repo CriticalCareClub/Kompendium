@@ -1,13 +1,15 @@
 
+
+Der Stütz- und Bewegungsapparat
 ##########################################
-Der Stütz- und Bewegungsapparat: Allgemein
-##########################################
 
 
+.. only:: not latex
 
-************
-Beschreibung
-************
+    .. sidebar:: Stütz- und Bewegungsapparat
+
+        -   Aktiver
+        -   Passiver
 
 Unter dem Begriff Halte- und Bewegungsapparat sind das Skelett, die
 Muskeln, Sehnen und Bänder zusammengefasst. Man unterteilt ihn in einen
@@ -22,46 +24,47 @@ Sehnen. Die Muskeln sind über Sehnen mit den Knochen verbunden. Durch
 das *aktive* Zusammenziehen (*Kontraktion*) und das (passive) Entspannen
 der einzelnen Muskeln werden gezielte Bewegungen ermöglicht.
 
--  Aktiver
-
--  Passiver
 
 Der passive Halte- und Bewegungsapparat
-=======================================
+************************************************************************
 
 Das Skelett
------------
+============
 
-*********************
-Beschreibung: Skelett
-*********************
+.. only:: not latex
 
-Das Skelettsystem besteht aus ca. 200 einzelnen *Knochen* sowie
-*Knorpeln* und dient hauptsächlich als Stützgerüst der *Haltung* des
-Körpers (aufrechte Haltung) und als *Ursprungs- und Ansatzfläche für die
-Muskulatur*. Die Befestigung der Muskulatur an den Knochen mittels
-Sehnen ist Voraussetzung für die aktive Bewegung – aus eigener Kraft
-könnte sich das Skelett nicht bewegen. Weiters dient es als
-*Kalziumspeicher* () und der *Blutbildung* (Bildung von roten und weißen
+    .. sidebar:: Skelett
+
+        -   Haltung
+        -   Ursprungs- und Ansatzfläche für Muskulatur
+        -   Kalziumspeicher
+        -   Blutbildung
+
+Das Skelettsystem besteht aus ca. 200 einzelnen
+*Knochen* sowie *Knorpeln*
+und dient hauptsächlich als Stützgerüst der *Haltung* des
+Körpers (aufrechte Haltung)
+und als *Ursprungs- und Ansatzfläche für die
+Muskulatur*.
+Die Befestigung der Muskulatur an den Knochen mittels
+Sehnen ist Voraussetzung für die aktive Bewegung — aus eigener Kraft
+könnte sich das Skelett nicht bewegen.
+Weiters dient es als
+*Kalziumspeicher* und der *Blutbildung*
+(Bildung von roten und weißen
 Blutkörperchen sowie den Blutplättchen im roten Knochenmark).
 
--  Haltung
-
--  Ursprungs- und Ansatzfläche für Muskulatur
-
--  Kalziumspeicher
-
--  Blutbildung
 
 .. figure:: /Bilder/WikipediaPd/Human_skeleton_front-edited.*
+    :width: 100%
 
     Das menschliche Skelett.
 
-    [Mariana Ruiz Villarreal Public domain]
+    Ⓒ Mariana Ruiz Villarreal Ⓛ Public domain
 
-***********
+
 Die Knochen
-***********
+===========
 
 .. index::
     single: Knochen;platte -
@@ -70,156 +73,163 @@ Die Knochen
     single: Knochen;irreguläre -
 
 Knocheneinteilung
-=================
+-----------------
 
-.. sidebar:: Knochenarten
+.. only:: not latex
 
-    -  Platte Knochen
+    .. sidebar:: Knochenarten
 
-    -  Röhrenknochen
-
-    -  Würfelknochen
-
-    -  Irreguläre Knochen
+        -   Platte Knochen
+        -   Röhrenknochen
+        -   Würfelknochen
+        -   Irreguläre Knochen
 
 Die Knochen bilden den harten und stützenden Anteil des
 Bewegungsapparats. Sie werden nach ihrer Form unterschieden:
 
--  :dfn:`Platte Knochen` sind flache, kompakte
-   Knochen, z. B. Beckenknochen, Schulterblatt, Brustbein, Schädel
+-   :dfn:`Platte Knochen` sind flache, kompakte
+    Knochen,
+    z. B. Beckenknochen, Schulterblatt, Brustbein, Schädel
 
--  :dfn:`Röhrenknochen` bestehen aus einem
-   langen, röhrenförmigen Schaft mit zwei meist verdickten Enden, z. B.
-   Oberarmknochen, Oberschenkelknochen, Schienbein
+-   :dfn:`Röhrenknochen` bestehen aus einem
+    langen, röhrenförmigen Schaft mit zwei meist verdickten Enden,
+    z. B. Oberarmknochen, Oberschenkelknochen, Schienbein
 
--  :dfn:`Würfelknochen` sind annähernd
-   würfel- oder quaderförmig, z. B. Hand-, Fußwurzelknochen
+-   :dfn:`Würfelknochen` sind annähernd
+    würfel- oder quaderförmig,
+    z. B. Hand-, Fußwurzelknochen
 
--  :dfn:`Irreguläre Knochen` können
-   aufgrund ihrer Form in keine der vorgenannten Gruppen eingeordnet
-   werden, z. B. Unterkieferknochen, Wirbelknochen, Jochbein
+-   :dfn:`Irreguläre Knochen` können
+    aufgrund ihrer Form in keine der vorgenannten Gruppen eingeordnet
+    werden,
+    z. B. Unterkieferknochen, Wirbelknochen, Jochbein
 
 
 
 
 .. index::
-   single: Periost
-   single: Beinhaut
-   single: Kompakta
-   single: Knochenrinde
-   single: Spongiosa
-   single: Knochenbälckchen
-   single: Markhöhle
-   single: Epiphysenfuge
-   single: Wachstumsfuge
-   single: Gelenkfläche
-   single: Kopf (Knochen)
-   single: Hals (Knochen)
-   single: Schaft (Knochen)
+    single: Periost
+    single: Beinhaut
+    single: Kompakta
+    single: Knochenrinde
+    single: Spongiosa
+    single: Knochenbälckchen
+    single: Markhöhle
+    single: Epiphysenfuge
+    single: Wachstumsfuge
+    single: Gelenkfläche
+    single: Kopf (Knochen)
+    single: Hals (Knochen)
+    single: Schaft (Knochen)
 
 Aufbau eines Knochens
-=====================
-
-.. sidebar:: Knochenaufbau
-
-    -  Allgemein
-
-        -  Periost
-
-        -  Kompakta
-
-        -  Spongiosa
-
-        -  Markhöhle
-
-        -  Epiphysenfuge
-
-        -  Gelenkfläche
-
-    -  Langer Röhrenknochen
-
-        -  Kopf
-
-        -  Hals
-
-        -  Schaft
-
--  :dfn:`Periost`: *Beinhaut*, überzieht den Knochen und ist
-   sehr gut mit Nerven versorgt. Es ist daher die einzige Struktur des
-   Knochens die schmerzempfindlich ist. Sie ist verantwortlich für
-   Dickenwachstum und Frakturheilung [186]_.
-
--  :dfn:`Kompakta` (Kortikalis, “Knochenrinde”): feste
-   äußere Schicht, äußere Form, verantwortlich für Stabilität des
-   Knochens
-
--  :dfn:`Spongiosa`: Knochenbälkchen →
-   Zug- und Druckfestigkeit, rotes Knochenmark
-
--  :dfn:`Markhöhle`: Gefüllt mit Knochenmark
-
--  :dfn:`Epiphysenfuge`: Wachstumsfuge
-
--  :dfn:`Gelenkfläche`: mit knorpeligen Überzug als Teil
-   eines Gelenkes. Manche Knochen haben keine Gelenksfläche.
+-----------------------
 
 
-.. [186]
-   *Fraktur*: Bruch.
+
+.. only:: not latex
+
+    .. sidebar:: Knochenaufbau
+
+            -   Allgemein
+
+                -   Periost
+                -   Kompakta
+                -   Spongiosa
+                -   Markhöhle
+                -   Epiphysenfuge
+                -   Gelenkfläche
+
+            -   Langer Röhrenknochen
+
+                -   Kopf
+                -   Hals
+                -   Schaft
+
+-   :dfn:`Periost`: *Beinhaut*, überzieht den Knochen und ist
+    sehr gut mit Nerven versorgt. Es ist daher die einzige Struktur des
+    Knochens die schmerzempfindlich ist. Sie ist verantwortlich für
+    Dickenwachstum und Frakturheilung [#Fraktur]_.
+-   :dfn:`Kompakta` (Kortikalis, "Knochenrinde"): feste
+    äußere Schicht, äußere Form, verantwortlich für Stabilität des
+    Knochens
+-   :dfn:`Spongiosa`: Knochenbälkchen →
+    Zug- und Druckfestigkeit, rotes Knochenmark
+-   :dfn:`Markhöhle`: Gefüllt mit Knochenmark
+-   :dfn:`Epiphysenfuge`: Wachstumsfuge
+-   :dfn:`Gelenkfläche`: mit knorpeligen Überzug als Teil
+    eines Gelenkes. Manche Knochen haben keine Gelenksfläche.
+
+
+.. [#Fraktur]
+    *Fraktur*: Bruch.
 
 Lange Röhrenknochen kann man außerdem in
 
--  :dfn:`Kopf`,
-
--  :dfn:`Hals` und
-
--  :dfn:`Schaft`
+-   :dfn:`Kopf`,
+-   :dfn:`Hals` und
+-   :dfn:`Schaft`
 
 unterteilen.
 
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Knochenbau.*
+    :width: 50%
 
     Ein langer Röhrenknochen im Querschnitt
 
-    [Quelle: *Hirtler*, MfG]
+    Ⓒ Lena Hirtler :term:`Ⓛ MfG`
+
 
 Rotes Knochenmark
-=================
+--------------------
 
-Es ist das wichtigste blutbildende Organ des Körpers. Hier werden die
-*zellulären Bestandteile des Blutes gebildet*. Dazu gehören die *roten
+.. only:: not latex
+
+    .. sidebar:: Rotes Knochenmark
+
+        -   Bildung der zellulären Blutbestandteile:
+            rote, weiße Blutkörperchen, Blutplättchen
+
+        -   im Erwachsenenalter nur noch in platten Knochen
+
+            -   Das *rote Knochenmark* ist für die Blutbildung zuständig.
+
+Es ist das wichtigste blutbildende Organ des Körpers.
+Hier werden die
+*zellulären Bestandteile des Blutes gebildet*.
+Dazu gehören die *roten
 Blutkörperchen* (*Erythrozyten*), die *weißen Blutkörperchen*
-(*Leukozyten*) sowie die *Blutplättchen* (*Thrombozyten*) –
-:ref:`Thema-blut`.
+(*Leukozyten*) sowie die *Blutplättchen* (*Thrombozyten*) —
+vgl. Abschnitt :ref:`Thema-blut`.
 
 Bei Neugeborenen findet man das rote Knochenmark in sämtlichen Knochen
 und Markhöhlen, im Laufe des Lebens bildet es sich in den Markhöhlen
-zurück und verwandelt sich in gelbes Fettmark. Rotes Knochenmark findet
+zurück und verwandelt sich in gelbes Fettmark.
+Rotes Knochenmark findet
 man dann lediglich in platten Knochen wie Becken, Brustbein und Schädel
 sowie in Bereichen mit Spongiosa, wo es für die Blutbildung
 verantwortlich ist und normalerweise zeitlebens erhalten bleibt.
 
--  Bildung der zellulären Blutbestandteile rote Blutkörperchen weiße
-   Blutkörperchen Blutplättchen
-
--  im Erwachsenenalter nur noch in platten Knochen
-
-    -  Das *rote Knochenmark* ist für die Blutbildung zuständig.
 
 Gelbes Knochenmark
-==================
+---------------------
+
+.. only:: not latex
+
+    .. sidebar:: Gelbes Knochenmark
+
+        -   fettreich
+        -   Grund für Komplikationen bei Frakturen
+
+            -   Das *gelbe Knochenmark* besteht aus Fett.
 
 Im Laufe des Lebens bildet sich in den Röhrenknochen das rote
-Knochenmark zu *fettreichem*, gelben Knochenmark um. Dieses Knochenmark
+Knochenmark zu *fettreichem*, gelben Knochenmark um.
+Dieses Knochenmark
 ist nicht unbedingt für den Körper notwendig.
 
--  fettreich
-
--  Grund für Komplikationen bei Frakturen
-
-    -  Das *gelbe Knochenmark* besteht aus Fett.
 
 
 .. index::
@@ -227,17 +237,16 @@ ist nicht unbedingt für den Körper notwendig.
    single: Epiphysenfuge
 
 Knochenentwicklung
-==================
+--------------------------
 
-.. sidebar:: Knochenentwicklung
+.. only:: not latex
 
-    -  Geburt: Knorpel
+    .. sidebar:: Knochenentwicklung
 
-    -  Knochenkerne
-
-    -  Wachstumszone
-
-    -  Verknöcherung der Wachstumszone
+        -   Geburt: Knorpel
+        -   Knochenkerne
+        -   Wachstumszone (Epiphysenfuge)
+        -   Verknöcherung der Wachstumszone
 
 Das Skelett eines Neugeborenen besteht bei der Geburt zum größten Teil
 aus Knorpel.
@@ -253,62 +262,69 @@ vollständig *verknöchert*,
 sodass keinerlei Wachstum mehr stattfinden kann.
 
 
-*************************
+
+.. index::
+    single: Syndesmose
+    single: Synchondrose
+    single: Synostose
+
 Gelenke verbinden Knochen
-*************************
-
-.. index:: Syndesmose, Synchondrose, Synostose
-
-Allgemeine Gelenklehre
-======================
+==================================
 
 
-.. sidebar:: Gelenke
 
-    -   Verbindung zwischen mind. zwei Knochen
-    -   “echtes Gelenk”
-    -   “unechtes Gelenk”
+.. only:: not latex
 
-        -   Das, was man umgangssprachlich unter dem Begriff “Gelenk”
-            versteht, sind “echte” Gelenke mit Gelenksspalt.
+    .. sidebar:: Gelenke
 
-.. admonition:: Defintion
+        -   Verbindung zwischen mind. zwei Knochen
+        -   "echtes Gelenk"
+        -   "unechtes Gelenk"
 
-    Gelenke sind (meistens bewegliche) Verbindung zwischen mindestens zwei
-    Knochen.
+            -   Das, was man umgangssprachlich unter dem Begriff
+                "Gelenk" versteht,
+                sind "echte" Gelenke mit Gelenksspalt.
 
-Man kann zwischen Gelenken *mit Gelenksspalt* (“echtes
-Gelenk”, Diarthrose) und Gelenken *ohne Gelenksspalt* (“unechtes
-Gelenk”, Synarthrose) unterscheiden. Zu den Gelenken ohne Gelenksspalt
-gehören alle Knochenverbindungen die *nicht* frei beweglich sind, z. B.
-die Schädelnähte, die Schambeinfuge und die
-Rippen-Brustbein-Verbindungen des Brustkorbes (Thorax,
-:ref`Thema-thorax`).
+:dfn:`Gelenke` sind (meistens bewegliche) *Verbindung zwischen mindestens zwei Knochen*.
+
+Man kann zwischen Gelenken **mit Gelenksspalt**
+("echtes Gelenk", *Diarthrose*)
+und Gelenken **ohne Gelenksspalt**
+("unechtes Gelenk", *Synarthrose*) unterscheiden.
+Zu den Gelenken ohne Gelenksspalt
+gehören alle Knochenverbindungen die *nicht* frei beweglich sind,
+z. B. die Schädelnähte, die Schambeinfuge und die
+Rippen-Brustbein-Verbindungen des
+:ref:`Brustkorbes (Thorax) <Thema-thorax>`.
 
 Man unterscheidet:
 
--   :dfn:`Syndesmose`: “Bandhaft”, bindegewebige Verbindung zwischen
+-   :dfn:`Syndesmose`: "Bandhaft", bindegewebige Verbindung zwischen
     Knochen, z. B. zwischen Elle und Speiche und Schienbein und
     Wadenbein.
--   :dfn:`Synchondrose`: “Knorpelhaft”, knorpelige Verbindung zwischen
+-   :dfn:`Synchondrose`: "Knorpelhaft", knorpelige Verbindung zwischen
     Knochen, z. B. die Bandscheiben und die Symphyse.
--   :dfn:`Synostose`: “Knochenhaft”, knöcherne Verbindung zwischen Knochen,
+-   :dfn:`Synostose`: "Knochenhaft", knöcherne Verbindung zwischen Knochen,
     z. B. die Schädelnähte.
 
 
 Prinzipieller Aufbau eines Gelenks
-==================================
+----------------------------------
 
-.. sidebar:: Gelenksaufbau
+.. only:: not latex
 
-    -   Kapsel
-    -   Knorpelüberzug der Gelenkflächen
-    -   Gelenksflüssigkeit
-    -   Gelenkarten
+    .. sidebar:: Gelenksaufbau
+
+        -   Kapsel
+        -   Knorpelüberzug der Gelenkflächen
+        -   Gelenksflüssigkeit
+        -   Gelenkarten
 
 Ein Gelenk ist von einer bindegewebigen *Gelenkskapsel* umgeben und
-durch Bänder stabil verbunden. Die knöchernen Anteile werden vom
-*Gelenkskopf* und der *Gelenkspfanne* gebildet. Die Gelenksflächen sind
+durch Bänder stabil verbunden.
+Die knöchernen Anteile werden vom
+*Gelenkskopf* und der *Gelenkspfanne* gebildet.
+Die Gelenksflächen sind
 zur Reibungsverminderung mit *Knorpel* überzogen und der *Gelenksspalt*
 ist mit einer dünnen Schicht *Schmierflüssigkeit*
 (*Synovialflüssigkeit*) gefüllt.
@@ -316,10 +332,11 @@ ist mit einer dünnen Schicht *Schmierflüssigkeit*
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Gelenk-edited.*
+    :width: 50%
 
-    Ein Gelenk im QuerschnittLena
+    Ein Gelenk im Querschnitt
 
-    [Hirtler / MfG]
+    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
 .. index::
     single: ! Kugelgelenk
@@ -338,29 +355,25 @@ ist mit einer dünnen Schicht *Schmierflüssigkeit*
     single: ! Gelenk;zusammengesteztes -
 
 Gelenkarten
-===========
+----------------
 
-.. sidebar:: Gelenkarten
+.. only:: not latex
 
-    -   Kugelgelenk (3 Achsen; Hüftgelenk, …)
+    .. sidebar:: Gelenkarten
 
-    -   Eigelenk (2 Achsen; Handwurzelgelenk, …)
+        -   Kugelgelenk (3 Achsen; Hüftgelenk, …)
+        -   Eigelenk (2 Achsen; Handwurzelgelenk, …)
+        -   Sattelgelenk (2 Achsen; Daumengrundgelenk, …)
+        -   Scharniergelenk
+            (1 Achse; Fingergliedgelenke, Elle–Oberarmknochen, …)
+        -   Zapfengelenk (1 Achse; Elle–Speiche, …)
+        -   Zusammengesetzte Gelenke
 
-    -   Sattelgelenk (2 Achsen; Daumengrundgelenk, …)
+            Z. B. Ellenbogengelenk:
 
-    -   Scharniergelenk (1 Achse; Fingergliedgelenke, Elle–Oberarmknochen, …)
-
-    -   Zapfengelenk (1 Achse; Elle–Speiche, …)
-
-    -   Zusammengesetzte Gelenke
-
-        Z. B. Ellenbogengelenk:
-
-        #.  Oberarmknochen–Elle (*Scharniergelenk*)
-
-        #.  Oberarmknochen–Speiche (*Kugelgelenk*)
-
-        #.  Elle–Speiche (*Zapfengelenk*)
+            #.  Oberarmknochen–Elle (*Scharniergelenk*)
+            #.  Oberarmknochen–Speiche (*Kugelgelenk*)
+            #.  Elle–Speiche (*Zapfengelenk*)
 
 Echte Gelenke werden nach ihrem Aufbau und der damit verbundenen
 Beweglichkeit in unterschiedliche Gelenkarten eingeteilt.
@@ -404,27 +417,26 @@ Typische Beispiele sind:
    zusammengesetzten Gelenk *drei* Gelenksarten:
 
    #.   *Scharniergelenk*: Oberarmknochen–Elle
-
    #.   *Kugelgelenk*: Oberarmknochen–Speiche
-
    #.   *Zapfengelenk*: Elle–Speiche
 
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Gelenkarten.*
+    :width: 100%
 
     Gelenkarten:
-    *A* Kugelgelenk (3 Achse; z. B. Hüftgelenk),
-    *B* Eigelenk (2 Achsen; z. B. Handwurzelgelenk),
-    *C* Sattelgelenk (2 Achsen; z. B. Daumengrundgelenk),
-    *D* Scharniergelenk (1 Achse; z. B. Fingergliedgelenke, Elle–Oberarmknochen),
-    *E* Zapfengelenk (1 Achse; z. B. Elle–Speiche)
+    **A** Kugelgelenk (3 Achse; z. B. Hüftgelenk),
+    **B** Eigelenk (2 Achsen; z. B. Handwurzelgelenk),
+    **C** Sattelgelenk (2 Achsen; z. B. Daumengrundgelenk),
+    **D** Scharniergelenk (1 Achse; z. B. Fingergliedgelenke, Elle–Oberarmknochen),
+    **E** Zapfengelenk (1 Achse; z. B. Elle–Speiche)
 
-    [Lena Hirtler / MfG]
+    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
-**************************************
+
 Der aktive Halte- und Bewegungsapparat
-**************************************
+************************************************************************
 
 Die Muskulatur ermöglicht eine aktive Bewegung
 ==============================================
@@ -433,11 +445,10 @@ Die Muskulatur ermöglicht eine aktive Bewegung
    single: Muskel
    single: Muskulatur
 
-Beschreibung: Muskel
-====================
 
 Ein :dfn:`Muskel` ist ein Gewebe, welches die Fähigkeit
-hat, sich aktiv zusammenzuziehen. Die Gesamtheit der Muskeln wird als
+hat, sich aktiv zusammenzuziehen.
+Die Gesamtheit der Muskeln wird als
 :dfn:`Muskulatur` bezeichnet.
 
 
@@ -450,21 +461,21 @@ hat, sich aktiv zusammenzuziehen. Die Gesamtheit der Muskeln wird als
    single: Muskulatur, glatte
 
 Muskelarten
-===========
+-----------------
 
-.. sidebar:: Muskelarten
+.. only:: not latex
 
-    -  Quergestreifte Muskulatur
+    .. sidebar:: Muskelarten
 
-    -  Glatte Muskulatur
-
-    -  Herzmuskulatur
+        -   Quergestreifte Muskulatur
+        -   Glatte Muskulatur
+        -   Herzmuskulatur
 
 Prinzipiell gibt es 3 Arten von Muskelzellen:
 
 -  :dfn:`Quergestreifte (Skelett-)Muskulatur`: Willkürlich
    steuerbar, trainierbar, ermüdbar, schnell und kräftig. Sie heißt
-   deswegen “quergestreift”, da man unter dem Mikroskop tatsächlich eine
+   deswegen "quergestreift", da man unter dem Mikroskop tatsächlich eine
    Streifung sehen kann, allerdings nicht mit dem freien Auge.
 
 -  :dfn:`Glatte Muskulatur`: Nicht willentlich
@@ -477,30 +488,33 @@ Prinzipiell gibt es 3 Arten von Muskelzellen:
    Leitungssystem). Weiters ist er natürlich trainierbar.
 
 
-Gegenspieler
-============
+Spieler—Gegenspieler-Prinzip
+-----------------------------------
 
-.. sidebar:: Gegenspieler
+.. only:: not latex
 
-    -  Agonist – Antagonist
+    .. sidebar:: Gegenspieler
 
-    -  Ursprung – Ansatz
+        -   Agonist — Antagonist
+        -   Ursprung — Ansatz
 
 Muskel können nur Zug und keinen Druck ausüben, daher sind
 *Gegenspieler* (Agonist und Antagonist) erforderlich (z. B. ein Muskel
 streckt den Arm, ein *anderer* beugt ihn).
 
-Jeder Muskel hat einen *Ursprung* (*“Wo kommt er her?”*) und einen
-*Ansatz* (*“Wo geht er hin?”*). Diese beiden Punkte bestimmen die
+.. figure:: /Bilder/WikipediaPd/Gray361.*
+    :width: 50%
+    :align: right
+
+    Muskelzug
+
+    Ⓒ Gray’s Anatomy  Ⓛ Copyright expired
+
+Jeder Muskel hat einen *Ursprung* (*"Wo kommt er her?"*) und einen
+*Ansatz* (*"Wo geht er hin?"*). Diese beiden Punkte bestimmen die
 Bewegung, die der Muskel durchführen kann. Der Ursprung ist
 definitionsgemäß immer der Punkt, der stillgehalten wird. Der Ansatz
 dagegen wird durch den Muskelzug auf ihn zu bewegt. Normalerweise liegt
 der Ursprung eines Muskels näher beim Körper, der Ansatz ist der Punkt,
 der weiter entfernter ist. Für alle dieser Erklärungen gibt es natürlich
 Ausnahmen, konkret die Unterstützung der Atemmuskulatur als *Atemhilfsmuskulatur*.
-
-.. figure:: /Bilder/WikipediaPd/Gray361.*
-
-    Muskelzug
-
-    [Gray’s Anatomy / Copyright expired]

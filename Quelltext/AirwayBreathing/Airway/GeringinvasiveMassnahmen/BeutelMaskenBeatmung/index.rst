@@ -16,9 +16,9 @@ Zur Beutel-Masken-Beatmung wird eine selbstfüllender Beatmungsbeutel
 zusammen mit einer Gesichts-Beatmungsmaske in der richtigen Größe verwendet.
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Ambubeutel_32741-AASS-0176mm.*
-   :alt: Selbstfüllender Beatmungsbeutel “Ambu Mark IV” mit Reservoir, O₂-Verbindungsschlauch, Bakterienfilter, Beatmungsmaske und aufgestecktem PEEP-Ventil
+   :alt: Selbstfüllender Beatmungsbeutel "Ambu Mark IV" mit Reservoir, O₂-Verbindungsschlauch, Bakterienfilter, Beatmungsmaske und aufgestecktem PEEP-Ventil
 
-   Selbstfüllender Beatmungsbeutel “Ambu Mark IV” mit Reservoir,
+   Selbstfüllender Beatmungsbeutel "Ambu Mark IV" mit Reservoir,
    O₂-Verbindungsschlauch, Bakterienfilter, Beatmungsmaske und
    aufgestecktem PEEP-Ventil
 
@@ -125,7 +125,7 @@ Beatmungsbeutels und einer Beatmungsmaske in geeigneter Größe, welche
 dicht sitzend angelegt wird. Der Kopf des Patienten wird
 *überstreckt*\  [137]_ und die Maske wird mittels
 :dfn:`C-Griff` angelegt: Der Daumen und der Zeigefinger umschließen die
-Beatmungsmaske und bilden dabei die Form des Buchstaben “C”, die
+Beatmungsmaske und bilden dabei die Form des Buchstaben "C", die
 restlichen drei Finger heben das Kinn am Unterkiefer an.
 
 
@@ -137,7 +137,7 @@ restlichen drei Finger heben das Kinn am Unterkiefer an.
 Ein erwachsener Patient wird mit mit einem Volumen von ca. *500 ml*
 beatmet, welches über 1sec verabreicht werden soll (*nicht* stoßweise!).
 Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
-(“*Eigenfrequenz*”) erfolgen.
+("*Eigenfrequenz*") erfolgen.
 
 
 

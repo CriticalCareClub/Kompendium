@@ -8,7 +8,7 @@
 Einschätzungsblock: 1234–ABCDE
 ##############################
 
-    *“Von 1 bis E.”*
+    *"Von 1 bis E."*
 
 
 .. toctree::
@@ -31,9 +31,6 @@ Einschätzungsblock: 1234–ABCDE
 
 
 
-   
-
-   
 
 
 
@@ -41,7 +38,10 @@ Einschätzungsblock: 1234–ABCDE
 
 
 
-	    
+
+
+
+
 
 
 

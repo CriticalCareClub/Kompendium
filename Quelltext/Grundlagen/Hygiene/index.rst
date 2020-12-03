@@ -73,7 +73,7 @@ Wichtige Begriffe
 
 :dfn:`Letalität` :index:`\ <! Letalität>`
     Anteil der an einer Erkrankung *Verstorbenen* bezogen auf die
-    *Gesamtzahl der Erkrankten* (*“1 von 5 Erkrankten stirbt”*).
+    *Gesamtzahl der Erkrankten* (*"1 von 5 Erkrankten stirbt"*).
 
 :dfn:`Entzündung` :index:`\ <! Entzündung>`
     Reaktion des Körpers mit den Symptomen
@@ -131,7 +131,7 @@ Bakterien sind nicht grundsätzlich schlecht. Viele können für den
 Menschen gut, neutral oder manchmal auch schädlich sein. Dies hängt von
 verschiedenen Faktoren ab, s.u.
 
--  Vollständige, “echte” Zellen/Lebewesen
+-  Vollständige, "echte" Zellen/Lebewesen
 
 -  Nicht grundsätzlich schlecht
 
@@ -168,7 +168,7 @@ haben. Der *Ort der Besiedelung* ist ebenso entscheidend. Viele
 Bakterien haben angestammte Besiedlungsorte, wo sie natürlich vorkommen
 oder sogar vorkommen müssen, damit eine gewünschte Funktion (z. B. die
 Verdauung) funktioniert. Damit eine Bakterienart nicht ungehemmt wuchern
-kann, ist der “*Konkurrenzkampf der Bakterien*” notwendig. Wenn sich
+kann, ist der "*Konkurrenzkampf der Bakterien*" notwendig. Wenn sich
 verschiedene Bakterienarten um den gleichen Raum und die gleichen
 Nährstoffe ’streiten’ müssen, können einzelne Stämme keine derart
 schädigende Wirkung entfalten, als wie wenn sie ungestört und ungehemmt
@@ -223,7 +223,7 @@ Viren. Die missbrauchte Zelle verliert i.d.R. ihr eigentliche Funktion
 oder wird komplett zerstört.
 
 Virale Infektionen sind sehr häufig. Die meisten sog.
-*“Verkühlungskrankheiten”*, sowie andere bekannte Krankheiten wie z. B.
+*"Verkühlungskrankheiten"*, sowie andere bekannte Krankheiten wie z. B.
 die *Grippe*, *Feuchtblattern* und viele *Hepatitis*-Formen, werden
 durch Viren verursacht.
 
@@ -287,7 +287,7 @@ Kreuzinfektion
 
 Unter einer :dfn:`Kreuzinfektion` :index:`\ <! Kreuzinfektion>` versteht man die
 Verschleppung von Erregern von einem Patienten auf einen (unbeteiligten)
-anderen, wobei das Personal oder Gegenstände als “Vehikel” fungieren.
+anderen, wobei das Personal oder Gegenstände als "Vehikel" fungieren.
 *Hygienisches Arbeiten* und *sachgerechte Desinfektionsmaßnahmen* sind
 wichtige Mittel zur *Vermeidung von Kreuzinfektionen*. Patient 1
 → *Personal* → Patient 2
@@ -311,7 +311,7 @@ Multiresistente Keime
 
 .. rubric:: Linktip
 
-(“EUREGIO Mrsa-Net: Gemeinsam Gegen Mrsa,” n.d.) *EUREGIO MRSA-net* http://www.mrsa-net.org/
+("EUREGIO Mrsa-Net: Gemeinsam Gegen Mrsa," n.d.) *EUREGIO MRSA-net* http://www.mrsa-net.org/
 
 Geschichte und Bedeutung der Antibiotika
 ========================================
@@ -321,7 +321,7 @@ Infektionen sehr gefürchtet, viele Menschen sind an – nach heutiger
 Sicht simplen – Infektionen gestorben. Wer es im Ersten Weltkrieg
 lebendig in ein Lazarett geschafft hatte, verstarb dort im Verlauf oft
 an den Folgen des *Wundbrandes*. Erkrankungen wie *Scharlach* oder
-“Blutvergiftungen” waren häufig ein Todesurteil.
+"Blutvergiftungen" waren häufig ein Todesurteil.
 
 Im Jahr 1928 verschimmelte dem englischen Wissenschaftler Alexander
 Fleming versehentlich eine Nährplatte mit Bakterienkulturen. Er
@@ -352,7 +352,7 @@ Rettungs- und Krankentransport kommt dabei eine *Schlüsselrolle* zu, da
 es hier leicht zu *Kreuzinfektionen* kommen kann.
 
 Gesundheitseinrichtungen wie Spitäler oder Pflegeheime sind eine ideale
-“Zuchtanstalt” und Brutstätte für Resistenzen: Es werden viele
+"Zuchtanstalt" und Brutstätte für Resistenzen: Es werden viele
 Antibiotika verwendet, viele Patienten liegen räumlich nahe beieinander.
 Es finden sich daher dort *gehäuft* resistente Keime, umgangssprachlich
 spricht man in der Fachwelt auch von :dfn:`Spitalskeimen` :index:`\ <! Spitalskeimen>`.
@@ -415,7 +415,7 @@ MRSA: Multi-Resistenter Staphylococcus aureus
 Staphylococcus aureus
 ---------------------
 
-Der *Staphylococcus aureus* ist ein “Allerweltskeim”, bis zu 50% der
+Der *Staphylococcus aureus* ist ein "Allerweltskeim", bis zu 50% der
 Bevölkerung sind besiedelt. Vor allem ist die vordere Nasenhöhle
 besiedelt, aber auch die Haut (Achselhöhle, Analregion) und die
 Schleimhäute können ihn beherbergen. Auch im Spital ist er häufig,
@@ -423,7 +423,7 @@ aufgrund des hohen Antibiotikaverbrauchs ist er dort aber oft schon
 Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 (Multi-resistenter Staphylococcus aureus).
 
--  Staph. aureus = “Allerweltskeim”
+-  Staph. aureus = "Allerweltskeim"
 
 -  aber resistente Form: :dfn:`MRSA` :index:`\ <! MRSA>`
 
@@ -683,8 +683,8 @@ kommen dass sich in der Desinfektionslösung *Keime sogar vermehren!*
 -  In Fahrzeugen dürfen i.d.R. keine alkoholischen Desinfektionsmittel
    verwendet werden, da diese die Acryloberflächen zerstören können!
 
--  Die Verdünnungsangabe “**1:10**” steht für “1 Teil
-   Desinfektionsmittel und ** Teile Wasser!**”
+-  Die Verdünnungsangabe "**1:10**" steht für "1 Teil
+   Desinfektionsmittel und ** Teile Wasser!**"
 
     -  Desinfektionsmittel müssen richtig hergestellt, gepflegt und
        angewendet werden, sonst können sie mehr Schaden als Nutzen
@@ -955,7 +955,7 @@ beschriftet wird.
 
    -  sonst nur bereit legen, in Plastiksack
 
-      -  *“was, von wo, von wem, warum”*
+      -  *"was, von wo, von wem, warum"*
 
 Hygienische Händedesinfektion
 -----------------------------
@@ -1010,7 +1010,7 @@ Schutzkleidung
    unterschiedliche Schutzmasken bzw. Schutzklassen empfohlen, welche
    sich bezüglich ihrer Schutzwirkung wesentlich unterscheiden. Die
    einfachste Form ist die altbekannte, bei Operationen verwendete,
-   *Mund-Nasen-Maske* (MNM, “OP-Maske”), welche für viele
+   *Mund-Nasen-Maske* (MNM, "OP-Maske"), welche für viele
    Situationen einen ausreichenden Schutz darstellt [268]_.
    *FFP-Masken* bieten einen deutlich höhren Schutz.
    Es gibt je nach
@@ -1058,14 +1058,14 @@ Umgang mit spitzen Gegenständen
 
 .. sidebar:: Spitze Gegenstände
 
-    -   *“Wer sticht, der entsorgt!”*
+    -   *"Wer sticht, der entsorgt!"*
 
     -   Nadelabwurfbehälter: *Nie* nachstopfen, *nie* ausleeren. – Wenn
         die Box voll ist, wird sie verschlossen und ausgetauscht.
 
 Spitze Gegenstände (Kanülen, Lanzetten, …)
-sind sofort nach Gebrauch in den Nadelabwurfbehälter (“Gelbe Box”,
-“Kontamed”, “Sharp-Box”, …) zu entsorgen!
+sind sofort nach Gebrauch in den Nadelabwurfbehälter ("Gelbe Box",
+"Kontamed", "Sharp-Box", …) zu entsorgen!
 
 Es gibt jedoch *eine Ausnahme*: wenn aus einer Kanüle Blut für
 diagnostische Zwecke entnommen werden soll, darf diese nicht gleich
@@ -1075,11 +1075,11 @@ ersparen. Dies muss jedoch vorher ausdrücklich kund getan werden.
 
 -  Nadelabwurfbehälter.
 
-   -  “Gelbe Box”
+   -  "Gelbe Box"
 
    -  Kontamed
 
-   -  “Sharp”
+   -  "Sharp"
 
 -  Nadel/Kanüle/Lanzette *sofort nach Gebrauch* entsorgen
 
@@ -1090,7 +1090,7 @@ ersparen. Dies muss jedoch vorher ausdrücklich kund getan werden.
 
 .. figure:: /Bilder/MotalMichael-Ccc/kontamed_4779-00800.*
 
-    “Wer sticht, der entsorgt!”
+    "Wer sticht, der entsorgt!"
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
@@ -1263,7 +1263,7 @@ Brinsden 2006) (Gemeinsame Erklärung der Deutschen AIDS-Gesellschaft
 Sanitäter: (Gruber, Hellmich, and Grassl 2011)
 
 *Rettungsdienstspezifisches Werk*, richtet sich tendenziell an
-Hygieneverantwortliche und -beauftrage: [Wiedenmann:2011]_
+Hygieneverantwortliche und -beauftrage: [Wiedenmann:1]_
 
 *Standardwerk*: (Kramer and Assadian 2008)
 

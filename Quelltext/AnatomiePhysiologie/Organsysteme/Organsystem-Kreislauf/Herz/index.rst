@@ -90,12 +90,12 @@ Die **Blutversorgung** des Herzens erfolgt über mehrere
 
     .. sidebar:: Mechanische Herzfunktion
 
-        -   Pumpt 60--100/min ca. 70ml
-        -   4--6L pro Minute
+        -   Pumpt 60—100 / min ca. 70 mL
+        -   4—6L pro Minute
         -   Auswurfphase (Systole)
         -   Füllungsphase (Diastole)
-        -   Schlagvolumen (SV; 70--80 ml)
-        -   Herzminutenvolumen (HMV; 5--8 L / min)
+        -   Schlagvolumen (SV; 70—80 mL)
+        -   Herzminutenvolumen (HMV; 5—8 L / min)
         -   Blutdruck:
 
             -   Druck im arteriellen Gefäßsystem
@@ -110,29 +110,30 @@ Die **mechanische Herzfunktion** ist im Wesentlichen
 die Pumpfunktion der Herzmuskels durch regelmäßige
 *aktive Kontraktion* und *passive Entspannung*,
 mit einer Frequenz beim Erwachsenen
-in Ruhe von ca. *60--100 mal* in der Minute.
+in Ruhe von ca. *60—100 mal* in der Minute.
 Bei jeder Kontraktion wirft das Herz ca. *70 mL* Blut in die
-Hauptschlagader aus, in der Minute ergibt das ca. *4--6 L*.
+Hauptschlagader aus, in der Minute ergibt das ca. *4—6 L*.
 
 Die Herzleistung lässt sich u.a. durch *drei Kennzahlen* beschreiben:
-Die **Herzfrequenz** (*HF*, bzw. *Pulsfrequenz*, *PF*)
+Die **Herzfrequenz** (*Hf*, bzw. *Pulsfrequenz*, *PF*)
 gibt die Anzahl der Kontraktionen pro Minute an. Der Normalwert beim
-Erwachsenen beträgt 60--100 / min und ist stark von der
+Erwachsenen beträgt 60—100 / min und ist stark von der
 körperlichen Belastung bzw. Erregungszustand abhängig.
 Das **Schlagvolumen** (*SV*) ist jenes Volumen,
 welches das Herz bei einer Kontraktion auswirft (Normalwert ca. 70--80 ml).
 Daraus ergibt sich das *Herzminutenvolumen* (*HMV*)
 als Produkt von Herzfrequenz und Schlagvolumen:
 
-   .. math:: \mbox{HMV} = \mbox{HF} \times \mbox{SV}
+.. math:: \rm HMV = Hf \times SV
 
-Der Normalwert beträgt ca. 5--8 L / min.
+Der Normalwert beträgt ca. 5—8 L / min.
 Bei Belastung kann das Herzminutenvolumen beträchtlich gesteigert
 werden. Durch die Pumpfunktion des Herzens entsteht ein lebenswichtiger
 Druck im (arteriellen) Gefäßsystem, der **Blutdruck**, dieser
 sorgt dafür, dass das Gewebe von Blut durchflossen wird. Der arterielle
-Blutdruck lässt sich einfach mittels Blutdruckmanschette messen.
-(:ref:`Thema-blutdruck`) (Schrader 2001; Gaehtgens 2001).
+Blutdruck lässt sich einfach mittels
+:ref:`Blutdruckmanschette <Thema-blutdruck>` messen
+[Klinke:3]_.
 
 .. only:: not latex
 
@@ -147,7 +148,7 @@ Blutdruck lässt sich einfach mittels Blutdruckmanschette messen.
             (Diastole)
 
 Durch den Herzauswurf entsteht ein Druck im arteriellen Gefäßsystem,
-der **arterielle Blutdruck**. (Vgl. :ref:`Thema-blutdruck`)
+der **arterielle Blutdruck** (vgl. :ref:`Thema-blutdruck`).
 Abhängig von der Phase der Herzaktion schwankt der Blutdruck im Zeitverlauf.
 In der **Auswurfphase** (**Systole**) erreicht der Druck sein *Maximum*
 (**systolischer** Blutdruck),
@@ -161,12 +162,12 @@ Zur Durchführung der Blutdruckmessung vgl.
     .. sidebar:: Elektrische Herzfunktion
 
         -   Reizleitungssystem
-        -   Herzfrequenz, Pulsfrequenz (HF, PF; 60--100 / min)
+        -   Herzfrequenz, Pulsfrequenz (HF, PF; 60—100 / min)
         -   Elektrische → mechanische Herzfunktion
         -   Abfolge:
 
-            -   Sinusknoten *(1)*
-            -   AV-Knoten *(2)*
+            -   Sinusknoten
+            -   AV-Knoten
             -   His-Bündel
             -   Tawara-Schenkel
             -   Purkinje-Fasern
@@ -204,18 +205,18 @@ Bei einem *Ausfall* eines Knotens, bzw. bei Unterbrechung der
 Erregungsleitung
 (z. B. durch Gewebeschädigung nach einem Herzinfarkt),
 kann die jeweils *nachfolgende Station als Impulsgeber übernehmen* –
-allerdings mit einer langsameren Frequenz [208]_.
+allerdings mit einer langsameren Frequenz [#Erregungsbildung]_.
 Im Extremfall,
 wenn das gesamte Leitungssystem ausfällt,
 können auch die Herzmuskelzellen
 selbst einen minimalen Rhythmus
-(:math:`\sim`\ 30/min)
+(~ 30 / min)
 aufrecht erhalten.
 Beispiele von Rhythmen werden unter
 :ref:`Thema-herzrhythmusstoerungen` vorgestellt.
 
 
-.. [208]
+.. [#Erregungsbildung]
    D.h. jede der Stationen ist zur eigenständigen Erregungsbildung
    fähig, sofern ihr nicht die übergeordnete Station zuvor kommt.
 
@@ -236,20 +237,34 @@ Beispiele von Rhythmen werden unter
 
     Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
+
+.. raw:: latex
+
+    \hfill
+
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.*
     :width: 100%
 
     Das Herz, schematisch
 
-    [Lena Hirtler, MfG]
+    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+
+
+.. raw:: latex
+
+    \hfill
+
 
 .. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
     :width: 100%
 
-    Reizleitungssystem, SchemaJ. Heuser, basierend auf der Arbeit von
+    Reizleitungssystem, Schema
+
+    Ⓒ J. Heuser, basierend auf der Arbeit von
     Patrick J. Lynch; illustrator;
     C. Carl Jaffe; MD; cardiologist Yale University Center for
-    Advanced Instructional MediaCC-BY
+    Advanced Instructional Media Ⓛ CC-BY
 
 .. subfigend::
     :width: 0.3
@@ -264,6 +279,12 @@ Beispiele von Rhythmen werden unter
 *****************************************
 Aufbau und Lagebeziehungen
 *****************************************
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
+    :width: 40%
+    :align: right
+
+    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
 Das Herz ist ein *Hohlmuskel* und hat die
 Funktion einer *Pumpe* im *Blutkreislauf*.
@@ -288,7 +309,7 @@ dem *Myokard* (*Muskelschicht*)
 und dem *Epikard* (außen).
 Das **Endokard** bedeckt lückenlos die innere Oberfläche
 und geht in die *Intima* (*Tunica intima*) der Gefäße über,
-die in das HErz führen bzw. diesem entspringen.
+die in das Herz führen bzw. diesem entspringen.
 Das **Myokard** ist die realtiv dicke Muskelschicht.
 Sie enthält quergestreifte,
 aber abweichend von der Skelettmuskulatur
@@ -307,17 +328,12 @@ Herzens ermöglicht.
 
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
-
-    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
-
 
 .. index::
     single: Herzklappen
 
 Herzklappen
 ===========
-
 
 Insgesamt vier **Herzklappen**
 fungieren als *Ventile*
@@ -362,13 +378,17 @@ Blutversorgung
 *****************************************
 
 Die Blutversorgung des Herzens erfolgt über die :dfn:`Koronararterien`
-(*Herzkranzgefäße*), welche direkt aus
-der Aorta (Hauptschlagader) – gleich oberhalb der Aortenklappe beim
-Ausgang des linken Ventrikels – abgehen.
+(*Herzkranzgefäße*),
+welche direkt aus
+der Aorta (Hauptschlagader) — gleich oberhalb der Aortenklappe beim
+Ausgang des linken Ventrikels — abgehen.
 
-**********************************************************************************
-Nervale Versorgung und Adrenorezeptoren
-**********************************************************************************
+.. todo:: Neu: `#82 Nervale Versorgung und Adrenorezeptoren <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/82>`_
+
+..
+    **********************************************************************************
+    Nervale Versorgung und Adrenorezeptoren
+    **********************************************************************************
 
 
 .. index::
@@ -389,32 +409,32 @@ Die Arbeit des Herzens wird durch zwei wesentliche
 Funktionen gewährleistet: Die *mechanische* und die *elektrische*
 Herzfunktion. Normalerweise arbeiten beide Komponenten Hand-in-Hand.
 
--  *Mechanische Herzfunktion*:  Der
-   Herzmuskel spannt (kontrahiert) und entspannt sich beim Erwachsenen
-   in Ruhe ca. 60--100 mal in der Minute. Bei jeder
-   Anspannung (Kontraktion) wirft das Herz ca. 70 mL Blut in die
-   Hauptschlagader aus, in der Minute ergibt das ca. 4--6 L
-   (bzw. einmal das gesamte Blutvolumen). Dadurch entsteht ein
-   lebenswichtiger Druck im (arteriellen) Gefäßsystem, der (arterielle)
-   *Blutdruck*. (Vgl. :ref:`Thema-blutdruck`)
+-   *Mechanische Herzfunktion*:  Der
+    Herzmuskel spannt (kontrahiert) und entspannt sich beim Erwachsenen
+    in Ruhe ca. 60—100 mal in der Minute. Bei jeder
+    Anspannung (Kontraktion) wirft das Herz ca. 70 mL Blut in die
+    Hauptschlagader aus, in der Minute ergibt das ca. 4—6 L
+    (bzw. einmal das gesamte Blutvolumen). Dadurch entsteht ein
+    lebenswichtiger Druck im (arteriellen) Gefäßsystem, der (arterielle)
+    *Blutdruck*. (Vgl. :ref:`Thema-blutdruck`)
 
-   Im zeitlichen Verlauf unterscheidet man zwischen der
+    Im zeitlichen Verlauf unterscheidet man zwischen der
 
-   #. :dfn:`Auswurfphase` (:dfn:`Systole`) in
-      der sich der Herzmuskel kontrahiert und Blut auswirft, und der
+    #.  :dfn:`Auswurfphase` (:dfn:`Systole`) in
+        der sich der Herzmuskel kontrahiert und Blut auswirft, und der
 
-   #. :dfn:`Füllungsphase` (:dfn:`Diastole`), in
-      der sich der Herzmuskel entspannt und sich die Herzkammern füllen.
+    #.  :dfn:`Füllungsphase` (:dfn:`Diastole`), in
+        der sich der Herzmuskel entspannt und sich die Herzkammern füllen.
 
-   Dadurch schwankt der Druck in der Arterie in Abhängigkeit zum
-   Herzauswurf: In der *Auswurfphase* erreicht er sein *Maximum*, und
-   sinkt danach in der *Füllungsphase* des Herzens wieder ab, bis das
-   Herz neuerlich Blut auswirft.
+    Dadurch schwankt der Druck in der Arterie in Abhängigkeit zum
+    Herzauswurf: In der *Auswurfphase* erreicht er sein *Maximum*, und
+    sinkt danach in der *Füllungsphase* des Herzens wieder ab, bis das
+    Herz neuerlich Blut auswirft.
 
--  *Elektrische Herzfunktion*: Die Steuerung der mechanischen
-   Herzfunktion erfolgt durch elektrische Aktionen. Dafür verfügt das
-   Herz über ein eigenes *Reizleitungssystem*, siehe
-   :ref:`Thema-reizleitungssystem`.
+-   *Elektrische Herzfunktion*: Die Steuerung der mechanischen
+    Herzfunktion erfolgt durch elektrische Aktionen. Dafür verfügt das
+    Herz über ein eigenes *Reizleitungssystem*, siehe
+    :ref:`Thema-reizleitungssystem`.
 
 
 
@@ -437,7 +457,7 @@ Die Pemeabilität des Sarkolemms, als auch der Membran des
 sarkoplasmatischen Retikulums, kann reguliert werden.
 
 Die Aktivierung von β₁-Rezeptoren potenziert den
-transmembranösen Ca⁺⁺-Einstrom. , da die Kanäle für einen längeren
+transmembranösen Ca⁺⁺-Einstrom, da die Kanäle für einen längeren
 Zeitraum geöffnet werden und der Ca⁺⁺-Einstrom während der
 Depolarisation deutliche ansteigt.
 Dadurch kommt es zu einem **positiv inotropen** Effekt.
@@ -453,27 +473,26 @@ Die Herzleistung erzeugt den Blutdruck
 Die Herzleistung lässt sich durch drei grundlegende
 Kennzahlen beschreiben:
 
-#.  Die *Herzfrequenz* (*HF*, bzw. *Pulsfrequenz*, *PF*)
+#.  Die *Herzfrequenz* (*Hf*, bzw. *Pulsfrequenz*, *Pf*)
     gibt die Anzahl der Kontraktionen pro Minute an. Der Normalwert beim
-    Erwachsenen beträgt 60--100 / min und ist stark von der
+    Erwachsenen beträgt 60—100 / min und ist stark von der
     körperlichen Belastung bzw. Erregungszustand abhängig.
 
 #.  Das *Schlagvolumen* (*SV*) ist jenes Volumen,
-    welches das Herz bei einer Kontraktion auswirft (Normalwert ca. 70--80 ml).
+    welches das Herz bei einer Kontraktion auswirft
+    (Normalwert ca. 70—80 ml).
 
 #.  Daraus ergibt sich das *Herzminutenvolumen* (*HMV*)
     als Produkt von Herzfrequenz und Schlagvolumen:
 
-    .. math:: \mbox{HMV} = \mbox{HF} \times \mbox{SV}
+    .. math:: \rm HMV = Hf \times SV
 
-    Der Normalwert beträgt ca. 5--8 L / min.
+    Der Normalwert beträgt ca. 5—8 L / min.
 
 Bei Belastung kann das Herzminutenvolumen beträchtlich gesteigert
 werden. Durch die Pumpfunktion des Herzens entsteht ein lebenswichtiger
 Druck im (arteriellen) Gefäßsystem, der **Blutdruck**, dieser
-sorgt dafür, dass das Gewebe von Blut durchflossen wird. Der arterielle
-Blutdruck lässt sich einfach mittels Blutdruckmanschette messen.
-(:ref:`Thema-blutdruck`) (Schrader 2001; Gaehtgens 2001).
+sorgt dafür, dass das Gewebe von Blut durchflossen wird.
 
 
 
@@ -485,6 +504,20 @@ Blutdruck lässt sich einfach mittels Blutdruckmanschette messen.
 Blutdruck
 ---------
 
+.. only:: not latex
+
+    .. sidebar:: Blutdruck
+
+        -   2 Phasen:
+
+            systolisch:
+                Maximaldruck in der Arterie am Höhepunkt der Kammerkontraktion
+
+            diastolisch:
+                Druck in der Arterie während die Kammer erschlafft ist
+
+        -   Durchführung: :ref:`Thema-rr-messung`
+
 Durch die Pumpfunktion des Herzens entsteht ein
 lebenswichtiger Druck im (arteriellen) Gefäßsystem, der *Blutdruck*. Da
 das Herz rhythmisch kontrahiert, kommt es infolge des Blutauswurfes zu
@@ -494,18 +527,10 @@ der *Füllungsphase* des Herzens (*Diastole*) wieder ab, bis das Herz
 neuerlich Blut auswirft. Der :dfn:`systolische Blutdruck`
 ist somit der
 Spitzendruck, der *diastolische
-Blutdruck* der Minimaldruck. Zur Durchführung der Blutdruckmessung vgl.
+Blutdruck* der Minimaldruck.
+Zur Durchführung der indirekten Blutdruckmessung vgl.
 :ref:`Thema-rr-messung`.
 
--  2 Phasen:
-
-   systolisch:
-       Maximaldruck in der Arterie am Höhepunkt der Kammerkontraktion
-
-   diastolisch:
-       Druck in der Arterie während die Kammer erschlafft ist
-
--  Durchführung: :ref:`Thema-rr-messung`
 
 
 
@@ -526,12 +551,24 @@ beantwortet (*mechanische Herzfunktion*). Das Reizbildungs- und
 -leitungssystem ist an sich hirarchisch angeordnet:
 
 
+.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
+    :width: 40%
+    :align: right
+
+    Reizleitungssystem, Schema
+
+    Ⓒ J. Heuser, basierend auf der Arbeit von
+    Patrick J. Lynch; illustrator;
+    C. Carl Jaffe; MD; cardiologist Yale University Center for
+    Advanced Instructional Media
+    Ⓛ CC-BY
+
 
 An erster Stelle steht der :dfn:`Sinusknoten` *(1)* im
 rechten Vorhof: Er ist im Normalfall der Impulsgeber und hat eine
-Eigenfrequenz von ca. 60--100/min (*natürlicher
+Eigenfrequenz von ca. 60—100 / min (*natürlicher
 Schrittmacher*, :dfn:`Sinusrhythmus`). Eine Erregung des
-Sinusknotenn wird über den rechten Vorhof zum :dfn:`AV-Knoten`
+Sinusknoten wird über den rechten Vorhof zum :dfn:`AV-Knoten`
 *(2)* geleitet, dort gebündelt, und über das *His-Bündel*,
 welches sich im Bereich der Vorhof-Kammer-Grenze
 befindet, in Richtung der Kammern weitergeleitet. Der AV-Knoten und das
@@ -550,24 +587,15 @@ d.h. jede der Stationen ist zur eigenständigen Erregungsbildung
 fähig, sofern ihr nicht die übergeordnete Station zuvor kommt.
 Im Extremfall, wenn
 das gesamte Leitungssystem ausfällt, können auch die Herzmuskelzellen
-selbst einen minimalen Rhythmus (:math:`\sim`\ 30/min) aufrecht
+selbst einen minimalen Rhythmus (~ 30 / min) aufrecht
 erhalten. Beispiele von Rhythmen werden unter
 :ref:`Thema-herzrhythmusstoerungen` vorgestellt.
-
-
 
 
 
 Der normale Schrittmacher ist der Sinusknoten, welcher die
 elektrischen Impulse für die Vorhöfe und die Kammern erzeugt. Man
 spricht dann vom *Sinusrhythmus*.
-
-.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
-
-    Reizleitungssystem, SchemaJ. Heuser, basierend auf der Arbeit von
-    Patrick J. Lynch; illustrator;
-    C. Carl Jaffe; MD; cardiologist Yale University Center for
-    Advanced Instructional MediaCC-BY
 
 
 **********************
@@ -586,4 +614,4 @@ Es erhöht in der Niere nie Natrium- und Wasserausscheidung.
 
 Weiters kommt es über den Dehnungsreiz nerval vermittelt zu einer
 Hemmung der ADH-Freisetzung aus dem Hypophysenhinterlappen,
-was wiederrum zun einer verstärkten Diurese führt.
+was wiederum zun einer verstärkten Diurese führt.

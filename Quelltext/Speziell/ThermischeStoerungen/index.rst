@@ -44,7 +44,7 @@ Bei einem Wärmestau, bei dem die zugeführte Wärme größer ist, als die
 abgegebene, kann es zu einem so genannten :dfn:`Hitzekollaps` :index:`\ <! Hitzekollaps>` kommen. Die *Blutgefäße* in der Haut *erweitern* sich und
 das Blut versackt, der *Blutdruck fällt ab* und die Durchblutung des
 Gehirns nimmt kurzfristig ab. Die Folge ist eine *kurze Ohnmacht*, dem
-Patient wird “schwarz vor Augen”. Lagert man ihn flach, oder eventuell
+Patient wird "schwarz vor Augen". Lagert man ihn flach, oder eventuell
 mit erhöhten Beinen, und kühlt ihn, bzw. bringt ihn an einen kühlen Ort,
 so bessert sich sein Zustand recht rasch.
 
@@ -64,7 +64,7 @@ es wichtig den Patienten zu kühlen.
    -  RR\ ↓ , Durchblutung des Gehirns kurzzeitig
       ↓
 
-   -  kurze Ohnmacht, “schwarz vor Augen”
+   -  kurze Ohnmacht, "schwarz vor Augen"
 
 -  Hitzeerschöpfung:
 
@@ -269,7 +269,7 @@ Symptome  und Phasen
 
 -  <27°C → klinisch tot
 
-    -  “Nobody is dead until warm and dead!” Schwer unterkühlte
+    -  "Nobody is dead until warm and dead!" Schwer unterkühlte
        Patienten können auch noch nach Stunden (!) ohne
        Kreislauftätigkeit erfolgreich reanimiert werden!
 

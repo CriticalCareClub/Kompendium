@@ -40,11 +40,11 @@ Der Tod allgemein
 
 
 Der :dfn:`Tod` :index:`\ <Tod>` ist das Ende der Lebensfunktionen und der
-Zustand danach. 
+Zustand danach.
 Das :dfn:`Sterben` :index:`\ <Sterben>` ist ein mehr oder weniger
-lang dauernder Prozess, an dessen Ende der Tod steht. 
+lang dauernder Prozess, an dessen Ende der Tod steht.
 Der Tod gehört
-zu den einschneidensten und unausweichlichsten Dingen des Lebens. 
+zu den einschneidensten und unausweichlichsten Dingen des Lebens.
 Man unterscheidet zwischen dem klinischen und dem biologischen Tod.
 
 .. list-table:: Klinischer und biologischer Tod
@@ -55,7 +55,7 @@ Man unterscheidet zwischen dem klinischen und dem biologischen Tod.
         *   -   Klinischer Tod
             -   Biologischer Tod
         *   -   keine Atmung, kein Puls
-            -  
+            -
         *   -   Unter Umständen reversibel (Reanimation)
             -   Organtod des Gehirns (irreversibel)
 
@@ -102,8 +102,8 @@ Totenstarre mit einem tonischen Krampf.
 
 -  Die Todesfeststellung erfolgt grundsätzlich nur durch einen Arzt!
 
--  Für unterkühlte Patienten gilt: *“Nobody is dead until warm and
-   dead!”* (Niemand wird für tot erklärt, bevor er nicht vorher erwärmt
+-  Für unterkühlte Patienten gilt: *"Nobody is dead until warm and
+   dead!"* (Niemand wird für tot erklärt, bevor er nicht vorher erwärmt
    wurde.)
 
 
@@ -192,15 +192,15 @@ sind:
 -  Hoffnungen, welche sich an den Tod anknüpfen (Wiedergeburt, Leben im
    Jenseits)
 
--  Vermächtnis an die Nachwelt; Schaffen von etwas, was “größer als man
-   selbst ist”
+-  Vermächtnis an die Nachwelt; Schaffen von etwas, was "größer als man
+   selbst ist"
 
 -  Rationalisierung (Vorsorgeversicherungen, Testamente, …)
 
 -  Rituale (Gebete, Begräbniszeremonien, Leichenschmaus, …)
 
     -  Für den Umgang mit Sterben und dem Tod gibt es kein Patentrezept
-       und keinen“goldenen Weg”.
+       und keinen"goldenen Weg".
 
 Elisabeth :dfn:`Kübler-Ross` :index:`\ <Kübler-Ross>` beschreibt fünf Phasen, die im
 Sterbeprozess in unterschiedlicher Reihenfolge, oft auch wiederholt,
@@ -208,21 +208,21 @@ durchlaufen werden:
 
 -  *Abwehr*: Nicht wahrhaben wollen, Abwehr, Verdrängung
 
--  *Zorn*: Wütend auf das Schicksal (*“Warum ausgerechnet ich und nicht
-   ein anderer?”*) und neidig auf das “Glück” anderer
+-  *Zorn*: Wütend auf das Schicksal (*"Warum ausgerechnet ich und nicht
+   ein anderer?"*) und neidig auf das "Glück" anderer
 
 -  *Verhandeln* … mit dem betreuenden Personal, mit Gott oder generell
    mit dem Schicksal
 
 -  *Depression*: Traurige, deprimierte Stimmungslage, Verlust des
-   “sinnerfüllten Daseins”; vgl. :ref:`Thema-depression`
+   "sinnerfüllten Daseins"; vgl. :ref:`Thema-depression`
 
 -  *Akzeptanz*: Der Patient kann sein Schicksal annehmen, er findet sich
    damit ab.
 
 Demnach ist es verständlich, dass der gleiche Patient zu
 unterschiedlichen Zeitpunkten völlig unterschiedlich reagieren kann. Was
-auf den ersten Blick wie “launisches Verhalten” wirkt, ist oft durch die
+auf den ersten Blick wie "launisches Verhalten" wirkt, ist oft durch die
 Phasen des Sterbeprozesses erklärbar.
 
 .. _Thema-palliativbehandlung-tod:
@@ -238,7 +238,7 @@ Lebens bis zum Eintreten des Todes. Die Bedürfnisse der Patienten sind
 unterschiedlich und richten sich zum Beispiel nach dem Alter, der
 Erkrankung, den familiären Umständen, der Religion, usw.
 
-Der Umgang mit “geplant” sterbenden Patienten im Rettungs- und Krankentransportdienst
+Der Umgang mit "geplant" sterbenden Patienten im Rettungs- und Krankentransportdienst
 =====================================================================================
 
 Die Zeitdauer des Kontakts ist naturgemäß eher gering, und die
@@ -250,7 +250,7 @@ Transportes. Dennoch gibt es einige Dinge zu bedenken:
    (neuerliche) Klinikeinweisung bevorsteht. Oft kann man Angst vor der
    folgenden Ungewissheit beobachten. Hier ist es wichtig, selber ein
    *ruhiger Pol* bzw. ein *Fels in der Brandung* zu sein, an dem sich
-   der Patient und die Angehörigen “anhalten” können.
+   der Patient und die Angehörigen "anhalten" können.
 
 -  *Sachebene als Brücke*: Sachliche und klare Informationen über das
    weitere Vorgehen sind für Patienten und Angehörige wichtig. Sie geben
@@ -280,7 +280,7 @@ Besondere am Umgang mit Sterbenden ist, dass viele Dinge, die sonst im
 Leben und in der Ausübung von Gesundheitsberufen selbstverständlich
 sind, hier keine Geltung haben. Der Tod soll dort normalerweise um jeden
 Preis vermieden und bekämpft werden. Derartige, in diesem Bereich
-unerfüllbare, Zielsetzungen (“Heilen wollen”) führen zwangsläufig zu
+unerfüllbare, Zielsetzungen ("Heilen wollen") führen zwangsläufig zu
 einer Überforderung.
 
 Folgende Leitsätze können unter Umständen hilfreich sein:

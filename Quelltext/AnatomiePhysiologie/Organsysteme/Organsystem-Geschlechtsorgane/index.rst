@@ -6,10 +6,6 @@ Die Geschlechtsorgane
 *********************
 
 
-
-Beschreibung
-============
-
 Als :dfn:`Geschlechtsorgane` (*Genitale*) werden jene
 Organe bezeichnet, welche der Arterhaltung durch Bildung, Aufbewahrung
 und Weiterleitung von Keimzellen, der Durchführung des
@@ -24,26 +20,26 @@ Die männlichen Geschlechtsorgane
 
 Beim Mann ist die Unterteilung folgendermaßen:
 
--  Innen: Hoden, Nebenhoden, Samenstrang, Prostata und Samenbläschen
-
--  Außen: Glied, Hodensack
+-   Innen: Hoden, Nebenhoden, Samenstrang, Prostata und Samenbläschen
+-   Außen: Glied, Hodensack
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Genitale-m.*
+    :width: 75%
 
-          Die männlichen Geschlechtsorgane im Querschnitt
+    Die männlichen Geschlechtsorgane im Querschnitt
 
-          [Lena Hirtler / MfG]
+    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
 Hoden
 -----
 
-.. sidebar:: Hoden
+.. only:: not latex
 
-    -  Bildung von Spermien
+    .. sidebar:: Hoden
 
-    -  Paarig
-
-    -  Sollte nach Geburt im Hodensack angekommen sein
+        -   Bildung von Spermien
+        -   Paarig
+        -   Sollte nach Geburt im Hodensack angekommen sein
 
 Im Hoden findet die Spermiogenese, also die Bildung der Spermien, statt.
 Der Hoden hat eine Pflaumenform mit einem ungefähren Längsdurchmesser
@@ -58,20 +54,20 @@ Geburt kontrolliert werden.
 Nebenhoden
 ----------
 
-.. sidebar:: Nebenhoden
+.. only:: not latex
 
-    -  Im Hodensack
+    .. sidebar:: Nebenhoden
 
-    -  Enzymbildung
-
-    -  Transport der Spermien
+        -   Im Hodensack
+        -   Enzymbildung
+        -   Transport der Spermien
 
 Der Nebenhoden liegt dem Hoden kappenförmig an. Er befindet sich daher
 auch im Hodensack. Er ist verantwortlich für einige Enzyme die z. B. den
 Spermien helfen sollen, die Eizelle zu finden. Weiters verfügt die Wand
 des Nebenhodens über eine starke Muskulatur, die mittels
 Muskelbewegungen den Transport der Spermien bewirkt. Die Spermien
-bleiben im Nebenhoden ca. 7--14 Tage und erlangen im
+bleiben im Nebenhoden ca. 7—14 Tage und erlangen im
 Nebenhoden ihre volle Befruchtungsfähigkeit. Nicht verwendete Spermien
 werden im Nebenhoden abgebaut.
 
@@ -80,74 +76,82 @@ werden im Nebenhoden abgebaut.
 Samenstrang
 -----------
 
-.. sidebar:: Samenstrang
+.. only:: not latex
 
-    -  Enthält Samenleiter
+    .. sidebar:: Samenstrang
 
-    -  Läuft im Leistenkanal
-
-    -  Hodenheber-Muskel
+        -   Enthält Samenleiter
+        -   Läuft im Leistenkanal
+        -   Hodenheber-Muskel
 
 
 Unter Samenstrang versteht man die Struktur, die vom Hoden durch den
-Leistenkanal in Richtung Prostata und Penis führt. In ihm verlaufen
-folgende Strukturen:
+Leistenkanal in Richtung Prostata und Penis führt.
+In ihm verlaufen folgende Strukturen:
 
--  Hodengefäße
-
--  Samenleiter
-
--  Nervenfasern des vegetativen Nervensystems
+-   Hodengefäße
+-   Samenleiter
+-   Nervenfasern des vegetativen Nervensystems
 
 In der Wand des Samenstrangs verläuft der Hodenheber-Muskel, ein
-Ausläufer der schrägen Bauchmuskeln. Er ist dafür verantwortlich, den
-Hoden vor zu großen Temperaturunterschieden zu schützen (z. B. zieht er
-den Hoden bei Kälte Richtung Bauchraum).
+Ausläufer der schrägen Bauchmuskeln.
+Er ist dafür verantwortlich, den
+Hoden vor zu großen Temperaturunterschieden zu schützen
+(z. B. zieht er den Hoden bei Kälte Richtung Bauchraum).
 
 
 Prostata und Bläschendrüse
 --------------------------
 
-.. sidebar:: Prostata
+.. only:: not latex
 
-    -  Prostata → 30% des Ejakulates, Beweglichkeit der Spermien
+    .. sidebar:: Prostata
 
-    -  Bläschendrüse → 60% des Ejakulates
+        -   Prostata → 30% des Ejakulates, Beweglichkeit der Spermien
+        -   Bläschendrüse → 60% des Ejakulates
 
 
-Die Prostata ist eine etwa kastaninengroße Drüse. Sie liegt direkt der
-Harnblase an und die Harnröhre läuft durch sie hindurch. Die Prostata
-liegt außerdem dem Enddarm an und ist von dort tastbar. Die Prostata ist
+Die Prostata ist eine etwa kastaninengroße Drüse.
+Sie liegt direkt der
+Harnblase an und die Harnröhre läuft durch sie hindurch.
+Die Prostata
+liegt außerdem dem Enddarm an und ist von dort tastbar.
+Die Prostata ist
 zuständig für ca. 30% der Ejakulatflüssikeit und erzeugt Enzyme, die die
-Beweglichkeit der Spermien fördern. Die Bläschendrüse liegt der Prostata
-an beiden Seiten an. Sie sorgt für ca. 60% der Ejakulatflüssigkeit.
+Beweglichkeit der Spermien fördern.
+Die Bläschendrüse liegt der Prostata
+an beiden Seiten an.
+Sie sorgt für ca. 60% der Ejakulatflüssigkeit.
 
 
 Penis
 -----
 
-.. sidebar:: Penis
+.. only:: not latex
 
-    -  Schwellkörper - bestehend aus zwei Teilen
+    .. sidebar:: Penis
 
-    -  Vorhaut - Eichel
+        -   Schwellkörper - bestehend aus zwei Teilen
+        -   Vorhaut - Eichel
+        -   Erektion vs. Ejakulation
+        -   Potenzstörung
 
-    -  Erektion vs. Ejakulation
+:Syn.:: Glied
 
-    -  Potenzstörung
-
-*Syn.* Glied. Der wichtigste Bestandteil des Penis ist der
+Der wichtigste Bestandteil des Penis ist der
 Schwellkörper.
 
 Er besteht aus zwei Untereinheiten:
 
--  Corpus cavernosum: Ist in zwei Teile geteilt und befindet sich an der
-   Oberseite. Es sorgt durch Blutaufnahme für das Steifwerden des Penis.
+-   Corpus cavernosum:
+    Ist in zwei Teile geteilt und befindet sich an der
+    Oberseite. Es sorgt durch Blutaufnahme für das Steifwerden des Penis.
 
--  Corpus spongiosum: liegt an der Unterseite. In ihm liegt die
-   Harnröhre, die in der Eichel endet. Dadurch dass sich dieser Körper
-   nicht so sehr mit Blut füllt, wird die Harnröhre nicht abgedrückt und
-   die Ejakulation ermöglicht.
+-   Corpus spongiosum:
+    liegt an der Unterseite. In ihm liegt die
+    Harnröhre, die in der Eichel endet. Dadurch dass sich dieser Körper
+    nicht so sehr mit Blut füllt, wird die Harnröhre nicht abgedrückt
+    und die Ejakulation ermöglicht.
 
 Der berührungsempfindlichste Teil des Penis ist die Eichel. Sie ist im
 erektionslosen Zustand unter der Vorhaut verborgen, die sich bei
@@ -164,36 +168,36 @@ Der Hodensack umschließt *Hoden*, *Nebenhoden* und *Samenstränge*. Er
 ist aus einzelnen Schichten aufgebaut. Am wichtigsten ist, dass auch er
 Fasern des Hodenheber-Muskels enthält.
 
--  Hodenheber-Muskel
 
 Die weiblichen Geschlechtsorgane
 ================================
 
 Die Unterteilung der Geschlechtsorgane der Frau ist:
 
--  innen: Eierstöcke, Eileiter, Gebärmutter, Scheide
-
--  außen: Schamlippen, Klitoris
+-   innen: Eierstöcke, Eileiter, Gebärmutter, Scheide
+-   außen: Schamlippen, Klitoris
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Genitale-w.*
 
     Weibliche Geschlechtsorgane, Querschnitt
 
-    [Lena Hirtler / MfG]
+    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
 Eierstöcke
 ----------
 
-.. sidebar:: Eierstöcke
+.. only:: not latex
 
-    -  2 Stück, im Beckenbereich
+    .. sidebar:: Eierstöcke
 
-    -  Heranreifen von Eizellen
+        -   2 Stück, im Beckenbereich
+        -   Heranreifen von Eizellen
+        -   Hormonbildung
 
-    -  Hormonbildung
-
-In den Eierstöcken (Ovarien) reifen die Eizellen heran. Sie sind paarig
-und liegen im Beckenbereich und sind ca. 4 ✕ 2 ✕ 1 cm groß.
+In den Eierstöcken (Ovarien) reifen die Eizellen heran.
+Sie sind paarig
+und liegen im Beckenbereich
+und sind ca. 4 ✕ 2 ✕ 1 cm groß.
 Dadurch dass in den Ovarien regelmäßig
 Eizellen heranreifen, kann man in ihnen alle Entwicklungsstadien finden.
 Nach dem Eisprung ist das Ovar auch zuständig für die Bildung von
@@ -205,21 +209,20 @@ schwangerschaftserhaltend wirken.
 Eileiter
 --------
 
-.. sidebar:: Eileiter
+.. only:: not latex
 
-    -  10--18 cm, freie Öffnung in die Bauchhöhle
+    .. sidebar:: Eileiter
 
-    -  Trichterförmig
-
-    -  Befruchtung
-
-    -  Gefahr: Eileiterschwangerschaft
+        -   10—18 cm, freie Öffnung in die Bauchhöhle
+        -   Trichterförmig
+        -   Befruchtung
+        -   Gefahr: Eileiterschwangerschaft
 
 Der Eileiter (*Tuba uterina*, *Salpinx*) ist ein ca.
-10--18 cm langer Schlauch mit einer freien Öffnung in die Bauchhöhle.
+10—18 cm langer Schlauch mit einer freien Öffnung in die Bauchhöhle.
 Nahe dem Ovar zeigt der Eileiter einen Trichter mit fingerförmigen
 Ausläufern, worin die Eizelle normalerweise nach dem Eisprung
-“aufgefangen” wird. Die *Befruchtung* der Eizelle findet im Eileiter
+"aufgefangen" wird. Die *Befruchtung* der Eizelle findet im Eileiter
 statt, die befruchtete Eizelle gelangt dann normalerweise über den
 Eileiter in die Gebärmutter, wo sie sich einnistet.
 
@@ -230,17 +233,17 @@ Eileiter in die Gebärmutter, wo sie sich einnistet.
     single: ! Zervix
     single: ! Muttermund
 
-
-.. sidebar:: Uterus
-
-    -  2 Teile: Körper, Hals
-
-    -  Körper → muskulös, Schleimhaut unterliegt zyklischen Veränderungen
-
-    -  CAVE: Gebärmutterhalskrebs
-
 Uterus (Gebärmutter)
 ----------------------
+
+.. only:: not latex
+
+    .. sidebar:: Uterus
+
+        -   2 Teile: Körper, Hals
+        -   Körper → muskulös,
+            Schleimhaut unterliegt zyklischen Veränderungen
+        -   CAVE: Gebärmutterhalskrebs
 
 Der :dfn:`Uterus` (:dfn:`Gebärmutter`) kann grob in zwei Teile,
 dem *Körper* und dem *Hals* (*Zervix*), eingeteilt werden. In den Körper
@@ -259,11 +262,12 @@ mündet die Gebärmutter in die Scheide, die Mündung wird als
 Vagina (Scheide)
 ---------------------
 
-.. sidebar:: Vagina
+.. only:: not latex
 
-    -  Dehnbarkeit → Geburtsvorgang
+    .. sidebar:: Vagina
 
-    -  hormonelle Zyklusschwankungen
+        -   Dehnbarkeit → Geburtsvorgang
+        -   hormonelle Zyklusschwankungen
 
 Auf den Muttermund der Gebärmutter folgt die :dfn:`Vagina`
 (*Scheide*).
@@ -278,21 +282,25 @@ Geburtsvorganges.
 Schamlippen und Klitoris
 ------------------------
 
-.. sidebar:: Schamlippen, Klitoris
+.. only:: not latex
 
-    -  4 Schamlippen
+    .. sidebar:: Schamlippen, Klitoris
 
-    -  Drüsen
-
-    -  Klitoris + Schwellkörpers
+        -   4 Schamlippen
+        -   Drüsen
+        -   Klitoris + Schwellkörpers
 
 Bei der Frau gibt es insgesamt vier Schamlippen, jeweils zwei große und
 zwei kleine. Die großen Schamlippen liegen außen, die kleinen innen und
 umrahmen den Scheideneingang mit den Öffnungen der Scheide und der
-Harnröhre. An den kleinen Schamlippen münden Drüsen, die für den
-Feuchtigkeitserhalt dieser Region zuständig sind. Die Frau besitzt, wie
-der Mann auch, Schwellkörper. Diese liegen in der Klitoris und im
-Bereich der großen Schamlippen. Vergleichsweise mit der Eichel ist die
+Harnröhre.
+An den kleinen Schamlippen münden Drüsen, die für den
+Feuchtigkeitserhalt dieser Region zuständig sind.
+Die Frau besitzt, wie
+der Mann auch, Schwellkörper.
+Diese liegen in der Klitoris und im
+Bereich der großen Schamlippen.
+Vergleichsweise mit der Eichel ist die
 Klitoris die berührungsempfindlichste Stelle der Frau.
 
 .. _thema-weiblicher-zyklus:
@@ -300,18 +308,14 @@ Klitoris die berührungsempfindlichste Stelle der Frau.
 Der weibliche Zyklus
 ====================
 
-Beschreibung
-------------
+.. only:: not latex
 
-.. sidebar:: Zyklus
+    .. sidebar:: Zyklus
 
-    -  28 Tage
-
-    -  Eisprung am 14. Tag
-
-    -  keiner Befruchtung → Menstruation
-
-    -  Befruchtung → Schwangerschaft
+        -   28 Tage
+        -   Eisprung am 14. Tag
+        -   keiner Befruchtung → Menstruation
+        -   Befruchtung → Schwangerschaft
 
 Der weibliche Zyklus dauert *28 Tage*, dies entspricht einem
 *Lunarmonat* (*Mondmonat*, Zeit von Vollmond bis Vollmond).
@@ -329,16 +333,22 @@ angehalten und die Eizelle kann sich in die Uterusschleimhaut einnisten.
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Zyklus.*
 
-          Der weibliche Zyklus. Oben: Follikelreifung. Unten: Auf- und
-          Abbau der Uterusschleimhaut. Am Tag 0 des Zyklus wird die
-          Uterusschleimhaut abgestoßen, es kommt zur Regelblutung,
-          danach wird die Schleimhaut wieder aufgebaut. Am Tag 14
-          erfolgt der Eisprung. Kommt es zu keiner Befruchtung, wird
-          die Schleimhaut erneut am Tag 28 abgestoßen. Nach einer
-          Befruchtung wandert die Eizelle weiter in den Uterus und
-          nistet sich dort ein.
+    Der weibliche Zyklus.
 
-          [Lena Hirtler / MfG]
+    Oben: Follikelreifung.
+    Unten: Auf- und
+    Abbau der Uterusschleimhaut.
+    Am Tag 0 des Zyklus wird die
+    Uterusschleimhaut abgestoßen, es kommt zur Regelblutung,
+    danach wird die Schleimhaut wieder aufgebaut.
+    Am Tag 14
+    erfolgt der Eisprung. Kommt es zu keiner Befruchtung, wird
+    die Schleimhaut erneut am Tag 28 abgestoßen.
+    Nach einer
+    Befruchtung wandert die Eizelle weiter in den Uterus und
+    nistet sich dort ein.
+
+    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
 
 .. _Thema-schwangerschaft:
@@ -349,71 +359,83 @@ Die Schwangerschaft
 Beschreibung: Schwangerschaft
 -----------------------------
 
-.. sidebar:: Schwangerschaft
+.. only:: not latex
 
-    -  40 :math:`\pm` 2 Schwangerschaftswochen (SSW)
+    .. sidebar:: Schwangerschaft
 
-    -  3 Trimester
-
-    -  Frühgeburt: bis 37. SSW
-
-    -  Übertragung: > 42. SSW
+        -   40 ± 2 Schwangerschaftswochen (SSW)
+        -   3 Trimester
+        -   Frühgeburt: bis 37. SSW
+        -   Übertragung: > 42. SSW
 
 Die normale *Schwangerschaft*
 (*Term.* *Gestation*, *Gravidität*, *Abkz.* *Grav.*) dauert
-*40\ :math:`\pm`\ 2 Wochen*.
-Das sind rund *9 Kalendermonate* oder 10 Lunarmonate [214]_.
+*40 ± 2 Wochen*.
+Das sind rund *9 Kalendermonate* oder 10 Lunarmonate [#Luna]_.
 Der Fortschritt der Schwangerschaft wird in *Schwangerschaftswochen*,
 Abk. *SSW*, angegeben.
-Häufig wird auch die Unterteilung in drei :dfn:`Trimester` [215]_ zu
+Häufig wird auch die Unterteilung in drei :dfn:`Trimester` [#Tri]_ zu
 je 3 Kalendermonaten verwendet.
 Von einer  *Frühgeburt* spricht man wenn die Geburt *bis zur
 vollendeten 37. SSW* erfolgt.
 Von einer *Übertragung* spricht man ab der *42. SSW*.
 
+.. [#Luna]
+    *lat.* luna: Mond.
+
+.. [#Tri]
+   *lat.* tri: drei; *lat.* mensis: Monat; Trimenon, Trimester:
+   dreimonatig
 
 Schwangerschaftsverlauf
 -----------------------
 
-.. sidebar:: Schwangerschaftsverlauf
+.. only:: not latex
 
-    -  Eierstock Eileiter Gebärmutter
+    .. sidebar:: Schwangerschaftsverlauf
 
-    -  Befruchtung
+        -   Eierstock Eileiter Gebärmutter
+        -   Befruchtung
+        -   Einnistung in Gebärmutterschleimhaut
+        -   Mutterkuchen (Plazenta)
+        -   Fruchtblase, Fruchtwasser
+        -   Ab 24. SSW überlebensfähig
 
-    -  Einnistung in Gebärmutterschleimhaut
-
-    -  Mutterkuchen (Plazenta)
-
-    -  Fruchtblase, Fruchtwasser
-
-    -  Ab 24. SSW überlebensfähig
-
-Nach dem Eisprung ist die Eizelle 8–10 Stunden
+Nach dem Eisprung ist die Eizelle 8—10 Stunden
 befruchtungsfähig. Sie benötigt für die Wanderung Eierstock Eileiter
-Uterus (Gebärmutter) 4–6 Tage. Wurde die Eizelle
-befruchtet, kommt es zur *Einnistung in der Gebärmutterschleimhaut*.
+Uterus (Gebärmutter) 4—6 Tage.
+Wurde die Eizelle befruchtet,
+kommt es zur *Einnistung in der Gebärmutterschleimhaut*.
 Dort bildet sich der :dfn:`Plazenta` :index:`\ <! Plazenta>` (*Mutterkuchen*),
-welcher das Blut der Frucht [216]_ mit Nährstoffen und Sauerstoff
-versorgt. Weiters bildet sich um die Frucht eine
+welcher das Blut der Frucht [#Frucht]_ mit Nährstoffen und Sauerstoff
+versorgt.
+Weiters bildet sich um die Frucht eine
 :dfn:`Fruchtblase` :index:`\ <! Fruchtblase>`,
-welche mit :dfn:`Fruchtwasser` :index:`\ <! Fruchtwasser>` gefüllt ist
-und sie so ideal vor äußeren Erschütterungen schützt. Zwischen der 18.
-und der 20. SSW kann die Mutter die ersten Kindesbewegungen spüren. *Ab
-der 24. SSW gilt das Kind als überlebensfähig* und ggfs. bei einer
+welche mit
+:dfn:`Fruchtwasser` :index:`\ <! Fruchtwasser>`
+gefüllt ist
+und sie so ideal vor äußeren Erschütterungen schützt.
+Zwischen der 18. und der 20. SSW kann die Mutter die ersten Kindesbewegungen spüren.
+*Ab der 24. SSW gilt das Kind als überlebensfähig* und ggfs. bei einer
 Frühgeburt als reanimationspflichtig.
 
+.. [#Frucht]
+    Mit dem Begriff *"Frucht"* ist das Kind gemeint. Die Frucht hat je
+    nach Schwangerschaftsfortschritt verschiedene Namen: Man spricht vom
+    *Embryo* bis zur 12. SSW, danach vom *Fetus*.
 
 Begriffe und gängige Abkürzungen
 --------------------------------
 
 :Gravida:
     *Syn.* Grav., Gravididät. Schwangerschaft, bzw. Anzahl der
-    bisherigen Schwangerschaften inklusive der aktuellen. z. B. Grav III:
+    bisherigen Schwangerschaften inklusive der aktuellen.
+    Z. B. ``Grav III``:
     3. Schwangerschaft
 
 :Para:
-    Anzahl der vorangegenagenen Geburten. Sonderfall *Nullipara*: Noch
+    Anzahl der vorangegenagenen Geburten.
+    Sonderfall *Nullipara*: Noch
     keine Geburt
 
 :Partus:
@@ -436,20 +458,8 @@ Begriffe und gängige Abkürzungen
 Schwangerschaft am 4. Tag der 39. Schwangerschaftswoche, zweitgebärend
 (Par I bzw. Part II) , zwei Fruchtabgänge.
 
-.. todo:: !!! PICTURESERIESWIDE !!!Bilderserie: Schwangerschaft !!!
+.. todo:: `#81 Bilderserie: Schwangerschaft <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/81>`_
 
-          PICTURESERIESROWWIDE !!! 3  Die Lage des Fötus in der
-          Gebärmutter. !!! SOURCEPICTURE !!! *Gray’s Anatomy, 20th
-          ed., PD, Copyright expired.* empty empty empty !!! PICTURESERIESWIDE !!!
+    Die Lage des Fötus in der Gebärmutter.
+    Ⓒ Gray’s Anatomy, 20th ed. Ⓛ PD, Copyright expired
 
-.. [214]
-    *lat.* luna: Mond.
-
-.. [215]
-   *lat.* tri: drei; *lat.* mensis: Monat; Trimenon, Trimester:
-   dreimonatig
-
-.. [216]
-   Mit dem Begriff *"Frucht"* ist das Kind gemeint. Die Frucht hat je
-   nach Schwangerschaftsfortschritt verschiedene Namen: Man spricht vom
-   *Embryo* bis zur 12. SSW, danach vom *Fetus*.

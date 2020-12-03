@@ -1,6 +1,5 @@
 
 .. _Thema-blutkreislauf:
-
 .. _Thema-vitalfunktion-kreislauf:
 
 ************************************************************************

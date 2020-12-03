@@ -53,8 +53,8 @@ fortgeschritten ist bzw. die Frucht entwickelt ist. Ein sehr früher
 Fruchtabgang wird oft nicht einmal bemerkt bzw. mit
 Regelunregelmäßigkeiten verwechselt, oft weiß die Frau nicht einmal,
 dass sie schwanger gewesen ist. Ein Abort macht sich dann vor allem
-durch eine *vaginale Blutung* bemerkbar, die mitunter als *“verstärkte
-Regelblutung”* fehlgedeutet wird. Weiters kann es zum *Abgang von
+durch eine *vaginale Blutung* bemerkbar, die mitunter als *"verstärkte
+Regelblutung"* fehlgedeutet wird. Weiters kann es zum *Abgang von
 Gewebeteilen* und *Unterbauchschmerzen* kommen. Eine Fehlgeburt kann
 jedoch auch zu einem späteren Zeitpunkt während der Schwangerschaft vor
 Erreichen der 500-Grenze des Kindes vorkommen. [275]_
@@ -72,10 +72,10 @@ Anmerkung
 ^^^^^^^^^
 
 Sollten Zweifel bestehen, ob es sich um einen Abort handelt, sollte die
-Verdachtsdiagnose *“V.a. Abort”* *vermieden* werden, um die Patientin
+Verdachtsdiagnose *"V.a. Abort"* *vermieden* werden, um die Patientin
 nicht – möglicherweise unnötig – zu beunruhigen. Stattdessen sollte man
 eine korrekte Symptombeschreibeung als Verdachtsdiagnose verwenden, z. B.
-*“Vaginale Blutung in 5. SSW”*.
+*"Vaginale Blutung in 5. SSW"*.
 
 Sollten Zweifel hinsichtlich der Lebensfähigkeit des Kindes bestehen,
 muss mit einer Reanimation begonnen werden.
@@ -272,7 +272,7 @@ Die Maximalvariante der Präeklampsie ist das
 Unbehandelt kann die Präeklampsie und das HELLP-Syndrom
 zu einem *eklamptischen Krampfanfall*
 (:dfn:`Eklampsie` :index:`\ <! Eklampsie>`,
-ähnlich einem “normalen” zerebralen Krampfanfall) und in weiterer Folge
+ähnlich einem "normalen" zerebralen Krampfanfall) und in weiterer Folge
 zum Tod von Mutter und Kind führen. Die Ursachen sind nicht vollständig
 geklärt.
 
@@ -503,21 +503,21 @@ Nachgeburtsphase
     Durchtrennung der Nabelschnur, die patientenferne Klemme ist
     durch die Hand verdeckt.
 
-    [WMC: “Jeremykemp” / PD]
+    [WMC: "Jeremykemp" / PD]
 
 .. figure:: /Bilder/WikipediaPd/Navelklem.*
     :width: 100%
 
     Abgeklemmte Nabelschnur
 
-    [WMC: “Harmid” / PD]
+    [WMC: "Harmid" / PD]
 
 .. figure:: /Bilder/WikipediaPd/Umbilicalstump.*
     :width: 100%
 
     Nabelschnurstumpf nach sieben Tagen
 
-    [WMC: “Fatrabbit” / PD]
+    [WMC: "Fatrabbit" / PD]
 
 .. subfigend::
     :width: 0.3
@@ -948,7 +948,6 @@ Basismaßnahmen
             Fritsch.
         -   Ggfs. Schockbekämpfung
 
-[MA70-Protokoll-2012-10-11]_
 
 
 Pathologische Geburtslagen

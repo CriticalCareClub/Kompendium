@@ -108,7 +108,7 @@ Wutausbrüche im Zuge seiner psychiatrischen Erkrankung. Als Alex, Sepp
 und Bernd eintreffen, droht er – aus einiger Entfernung – sich oder
 einen anderen zu verletzen, falls man sich ihm auch nur nähern würde.
 
-Variante “unmittelbare Bedrohung”
+Variante "unmittelbare Bedrohung"
     Herr Hauzu stürmt auf Alex zu, schmeißt ihn zu Boden und holt zum Schlag
     aus.
 
@@ -145,7 +145,7 @@ Für die erste Frage sind die Selbsthilferechte maßgebend, vgl.
     Sachbeschädigung durch einen Angriff), kann das Anhalterecht Privater
     nicht angewendet werden.*
 
-Bezüglich einer “Einweisung” ist das *Unterbringungsgesetz* :index:`\ <Unterbringungsgesetz!Fallbeispiel>`
+Bezüglich einer "Einweisung" ist das *Unterbringungsgesetz* :index:`\ <Unterbringungsgesetz!Fallbeispiel>`
 (:ref:`Thema-unterbringungsgesetz`) zu berücksichtigen:
 
 -   *Da Herr Hauzu eine psychiatrische Erkrankung hat, durch diese eine
@@ -164,7 +164,7 @@ Situation, in der bloß aus einiger Entfernung mit Gewalt gedroht wird,
 zurück zu treten, die Wohnung zu verlassen und die Polizei zu
 verständigen.
 
-Variante “unmittelbare Bedrohung”:
+Variante "unmittelbare Bedrohung":
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Alex, Sepp und Bernd können das verhältnismäßig gelindeste Zwangsmittel
@@ -183,9 +183,9 @@ Fall 2. Gefahr durch Hund
 Sachverhalt
 -----------
 
-Zwischenzeitlich befreit sich der “kleine” (65kg schwere)
+Zwischenzeitlich befreit sich der "kleine" (65kg schwere)
 Rottweiler-Kampfhund von Herrn Hauzu aus einem Nebenzimmer, erblickt die
-drei “Eindringlinge” und möchte mit fletschenden Zähnen sein Revier
+drei "Eindringlinge" und möchte mit fletschenden Zähnen sein Revier
 verteidigen.
 
 Rechtsfrage
@@ -302,7 +302,7 @@ raschen, aber möglichst reizarmen Transport auf die Gynäkologie
 benötigt. Da er aber wenig von jungen Müttern hält, erachtet er es auch
 nicht für notwendig Frau Uninformiert über die nächsten Geschehnisse zu
 informieren, sondern ordnet nur streng Befehle an, die von Frau
-Uninformiert “gefälligst” durchzuführen sind.
+Uninformiert "gefälligst" durchzuführen sind.
 
 Rechtsfrage
 -----------
@@ -328,7 +328,7 @@ folgenden Bestimmungen:
 
     -   Eigenmächtige Heilbehandlung (§ 110 StGB):
 
-        -   nur bei “Gefahr in Verzug” [309]_ benötigt es keine Aufklärung
+        -   nur bei "Gefahr in Verzug" [309]_ benötigt es keine Aufklärung
             bzw. Einwilligung und es dürfen alle nach Ansicht der
             Einsatzkräfte direkt notwendigen Maßnahmen gesetzt werden
 
@@ -369,8 +369,8 @@ Heimpflegerin auf Alex, Sepp und Bernd zustürmt und sie zu der 70
 jährigen, regungslosen Patientin, Frau Finito, bringt. Gleichzeitig hält
 die Heimpflegerin den Sanitätern eine Patientenverfügung vor, die Frau
 Finito vor über 5 Jahren auf einer Serviette unterschrieben hat und nach
-der “bei ausbleibenden Kreislauf keine Wiederbelebungsmaßnahmen gesetzt
-werden” dürfen. Deshalb hatte die Pflegerin es bis jetzt auch
+der "bei ausbleibenden Kreislauf keine Wiederbelebungsmaßnahmen gesetzt
+werden" dürfen. Deshalb hatte die Pflegerin es bis jetzt auch
 unterlassen mit einer Reanimation zu beginnen. Da sie aber ebenso nicht
 weiß, ob die Verfügung bindend ist, rief sie die Rettung und setzte sich
 wartend neben die Patientin.
@@ -385,7 +385,7 @@ Rechtslage
 
 Siehe :ref:`Thema-patientenverfuegung`.
 
-*Die “Verfügung” erfüllt nicht die strengen Kriterien einer
+*Die "Verfügung" erfüllt nicht die strengen Kriterien einer
 verbindlichen Patientenverfügung:*
 
 -   Schriflichkeit vor Notar bzw. Rechtsanwalt
@@ -424,12 +424,12 @@ Sachverhalt
 
 Endlich am Stützpunkt angekommen, ist Alex auch schon der Erste der sich
 zum Kaffeeautomaten begibt. Entkräftet durch die einsetzende
-“Hypokoffeinämie” kramt er nach Kleingeld und kaum als er es
+"Hypokoffeinämie" kramt er nach Kleingeld und kaum als er es
 einwurfbereit in Händen hält, tönt die nächste Ausfahrt durch die
 Lautsprecher mit dem Hinweis einer dringenden Berufung. Alex geht aber
 in seiner typisch ruhigen Manie, glücklich durch die enteral [310]_
 erlangte Sedierung, zum Fahrzeug, mit dem Spruch auf den Lippen:
-“immerhin konn des Wagl’ eh net ohne mie foahrn!”
+"immerhin konn des Wagl’ eh net ohne mie foahrn!"
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.*
     :align: right
@@ -445,7 +445,7 @@ Schmerzen hinter der Brust, die in den linken Arm ausstrahlen und ihm
 selbst in Ruhelage mit Atemnot und kalten Schweißausbrüchen plagen. Für
 Sepp ist sofort klar, dass es sich um einen Herzinfarkt handelt. Er
 möchte schleunigst einen NEF nachfordern, doch Alex meint, dass er keine
-Lust hätte schon wieder auf einen “Boder” [311]_ zu warten und der
+Lust hätte schon wieder auf einen "Boder" [311]_ zu warten und der
 Patient auch selbst runter zum Fahrzeug gehen sollte, da er es im Kreuz
 hätte und sowieso noch eine ca. 20 Minuten lange Anfahrtszeit zur
 Krankenanstalt durch den schon einsetzende Morgenstau bewältigen müsste.
@@ -454,7 +454,7 @@ Krankenanstalt durch den schon einsetzende Morgenstau bewältigen müsste.
     Enteral: den Darm betreffend.
 
 .. [311]
-    “Bader”: früher Kundiger der Heilbäder, heute umgangssprachlich für
+    "Bader": früher Kundiger der Heilbäder, heute umgangssprachlich für
     Arzt
 
 Rechtsfrage
@@ -572,9 +572,9 @@ Sachverhalt
 Sepp konnte sich nun dazu überreden lassen keinen Venflon zu legen und
 möchte wenigstens Nitro verabreichen. Gerade noch rechtzeitig bemerkt er
 eine offene Packung von Viagra am Tisch liegen. Herr Schmerz meint, als
-er Sepp die Packung betrachten sieht, dass das “Zeug” nichts nutzt, da
+er Sepp die Packung betrachten sieht, dass das "Zeug" nichts nutzt, da
 er vor zwei Stunden eine Tablette eingenommen hätte und noch immer
-“nichts steht”. Kurze Zeit später trifft der NEF mit der Notärztin
+"nichts steht". Kurze Zeit später trifft der NEF mit der Notärztin
 Natascha ein, die den Patienten oberflächlich untersucht und eine
 sofortige Nitro-Verabreichung zur Bekämpfung des hohen Blutdrucks ()
 anordnet, obwohl sie von Sepp über die gefundene Viagra-Packung
@@ -599,9 +599,9 @@ Rechtslage
 
 -  Zivildienstleistende: §22 Abs. 2 Zivildienstgesetz:
 
-   -  “Er darf die Befolgung einer Weisung nur dann ablehnen, wenn […]
+   -  "Er darf die Befolgung einer Weisung nur dann ablehnen, wenn […]
       die Befolgung gegen strafgesetzliche Vorschriften verstoßen
-      würde.”
+      würde."
 
 -  Haupt- und Ehrenamtliche:
 
@@ -644,7 +644,7 @@ Sachverhalt
 
 Genervt von der Auseinandersetzung der Notärztin mit den Sanitätern,
 beginnt Herr Schmerz wild vor Schmerzen die Beteiligten anzubrüllen,
-dass sie doch endlich ihre “gottverdammte Arbeit” tun sollen.
+dass sie doch endlich ihre "gottverdammte Arbeit" tun sollen.
 Erschrocken von dem verbalen Angriff des Herrn Schmerz tritt Bernd einen
 Schritt zurück und hört ein dumpfes Klirren unter seinem Fuß. Als er
 hinunterblickt sieht er, dass unter seinem Schuh Porzellanscherben
@@ -655,7 +655,7 @@ wurde. Bernd erinnert sich aber, die Scherben schon beim Betreten des
 Raumes gesehen zu haben, da er extra über sie hinweggestiegen ist.
 
 Wochen später beschwert sich Herr Schmerz beim Arbeitgeber von Alex,
-Sepp und Bernd über das “randalierende Verhalten” von Bernd. Bernd
+Sepp und Bernd über das "randalierende Verhalten" von Bernd. Bernd
 seinerseits ist überzeugt, dass er sich korrekt verhalten hat, doch er
 kann sich so recht an den alten Fall nicht mehr erinnern, da er
 zwischenzeitlich unzählige weitere Einsätze hatte und der Vorfall nicht
@@ -732,8 +732,8 @@ umgelagert, um über die enge Treppe den ersten Stock zu verlassen. Doch
 handelt es sich bei dem Tragsessel um einen neuen Stryker-Sessel, der
 dem Bernd noch vollkommen neu ist, da es den Sessel zum Zeitpunkt seiner
 RS-Ausbildung noch gar nicht gegeben hat. Aber genau wegen dieser
-Neuheit hatte sein Arbeitgeber eine interne Fortbildung über die “Neuen
-Medizinprodukte” abgehalten, zu der Bernd aber nicht gekommen ist, da er
+Neuheit hatte sein Arbeitgeber eine interne Fortbildung über die "Neuen
+Medizinprodukte" abgehalten, zu der Bernd aber nicht gekommen ist, da er
 meinte sowieso schon alles zu wissen und zu keinen Fortbildungen
 verpflichtet ist.
 
@@ -765,10 +765,10 @@ Schadensersatzanspruch einbringen kann. Denn sollte es im Umgang mit dem
 Medizinprodukt zu Körperverletzungen kommen, wird aufgrund der
 mangelnden Materialkenntnis die Behandlung als nicht-lege-artis
 gewertet. Um einer solchen Strafe zu entgehen genügt es, dass Bernd noch
-vor Ort, aber vor Anwendung, durch eine “geeignete Person” eingeschult
+vor Ort, aber vor Anwendung, durch eine "geeignete Person" eingeschult
 wird.
 
-Als “geeignete Person” gelten vorrangig Medizinproduktebeauftragter,
+Als "geeignete Person" gelten vorrangig Medizinproduktebeauftragter,
 Lehrsanitäter oder Praxisanleiter sowie jene, die von der
 Rettungsorganisation als geeignet genannt werden.
 
@@ -788,15 +788,15 @@ Sachverhalt
 
 Nachdem nun Sepp unseren Bernd kurzum erklärt hat, wie er mit den
 Stryker-Sessel umzugehen hat, unterlässt er trotzdem das Anschnallen des
-Patienten, da er meint, dass “eh kana däs mocht”. Leider ist Herr
+Patienten, da er meint, dass "eh kana däs mocht". Leider ist Herr
 Schmerz kein Fliegengewicht und der Treppenaufgang derart verwinkelt,
 dass es alle Kraft benötigt, um den Tragsessel ruhig zu halten.
 
 Fast am Ende des Abgangs angekommen flitzt auf einmal die aufgeschreckte
-Katze des Herr Schmerz an den beiden “Trägern” vorbei, wodurch der
+Katze des Herr Schmerz an den beiden "Trägern" vorbei, wodurch der
 vorangehende Bernd seine Konzentration verliert, ausrutscht und samt dem
 Patient seitlich nach vorne auf einen Kasten und die darunter sich
-versteckende Katze namens *“Kitty”* fällt. Bernd kann sich beim Sturz
+versteckende Katze namens *"Kitty"* fällt. Bernd kann sich beim Sturz
 wenigsten selber abstützen und bleibt (auch durch die abfedernde Wirkung
 der Katze) unverletzt. Doch Herr Schmerz prallt mit Schädel und
 Brustkorb ungeschützt gegen den Kasten und wird unter dem hinter ihm
@@ -979,7 +979,7 @@ Fall 14. Behandlungspflicht von Krankenanstalten, Ärzten, Sanitätern und Durch
 Sachverhalt
 -----------
 
-Vor Schmerzen und Trauer, um seine geliebte Katze *“Kitty”*, beschimpft
+Vor Schmerzen und Trauer, um seine geliebte Katze *"Kitty"*, beschimpft
 und verflucht Herr Schmerz die Anwesenden mit wilden Gestikulierungen.
 Als er dann wenigstens von Alex und Sepp vorbildlich versorgt wird,
 beruhigt sich Herr Schmerz und lässt sich sogar mühelos ins Auto
@@ -1002,7 +1002,7 @@ Aufnahme.
 
 Der dortige Aufnahmearzt Dr. Wasbringst hat schon einen 22 Stunden
 Dienst hinter sich und ist alles andere als erfreut über das
-“Mitbringsel” des Teams. Wutentbrannt brüllt er Natascha an, was sie
+"Mitbringsel" des Teams. Wutentbrannt brüllt er Natascha an, was sie
 sich eigentliche erlaube trotz gesperrten Bettenkontingent seine Station
 anzufahren und verweigert ihr die Aufnahme des Herr Schmerz.
 
@@ -1051,7 +1051,7 @@ zum selben BO schickt.
 Dort angekommen finden sie in einer Lacke von Blut die 25-jährige Frau
 Hilflos liegen, die sich selber (querverlaufend) die Pulsadern
 aufgeschnitten hat. Als Sepp beginnt sie zu versorgen, erzählt Frau
-Hilflos, dass ihr Leben “sowieso keinen Sinn mehr hat”, da sie ihr
+Hilflos, dass ihr Leben "sowieso keinen Sinn mehr hat", da sie ihr
 Freund mit angesteckt hat.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/blut-tatort-jacke.*
@@ -1151,9 +1151,9 @@ Sachverhalt
 Nach Durchführung der Behandlung und Anzeige gegen den aggressiven
 Freund, begibt sich das RTW-Team erschöpft zum Stützpunkt zurück.
 Hungrig und müde quält sich die RTW-Mannschaft durch das alltägliche
-Wiener Verkehrschaos, als Sepp auf einmal meint: *“Geh, schalt doch das
+Wiener Verkehrschaos, als Sepp auf einmal meint: *"Geh, schalt doch das
 Hörndl und die Blitzer ei, damit dee uns endli Plotz machen und wir
-einrücken kännan!”*
+einrücken kännan!"*
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1896_00800.*
     :align: right

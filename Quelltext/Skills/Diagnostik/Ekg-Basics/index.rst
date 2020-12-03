@@ -197,7 +197,7 @@ In der Praxis ergeben sich daraus zwei Anwendungsfälle:
    Diagnostik des Herzrhythmus und zur Diagnose und Lokalisation von
    Herzschädigungen, vorwiegend des Herzmuskels. Störungen können damit
    der jeweiligen Herzregion zugeordnet werden. Wenn vorhanden, ist das
-   12-Kanal-EKG (*“12er”*) für die Diagnostik das Mittel der Wahl.
+   12-Kanal-EKG (*"12er"*) für die Diagnostik das Mittel der Wahl.
 
 -  Rhythmusstreifen: 6 Extremitätenableitungen
 
@@ -239,7 +239,7 @@ In der Praxis ergeben sich daraus zwei Anwendungsfälle:
 
 !!! LITERARY !!! (Kaindl and Kühn 1997)
 
-(“EKG Online,” n.d.)
+("EKG Online," n.d.)
 
 (Dietz and Schubert 2007)
 

@@ -15,26 +15,26 @@ Der Stoffwechsel
 Der Stoffwechsel ist eine Vitalfunktion
 =======================================
 
-.. sidebar:: Stoffwechsel::
 
-    -  Kohlehydratstoffwechsel (Zucker)
+.. only:: not latex
 
-        -  Energielieferant
+    .. sidebar:: Stoffwechsel::
 
-        -  Regulation durch Insulin
+        -   Kohlehydratstoffwechsel (Zucker)
 
-    -  Fettstoffwechsel (Fettsäuren, gesättigt und ungesättigt)
+            -   Energielieferant
+            -   Regulation durch Insulin
 
-        -  Hoher Energiegehalt
+        -   Fettstoffwechsel (Fettsäuren, gesättigt und ungesättigt)
 
-        -  Lösungsmittel für Vitamine, Bausteine der Zellmembran und von
-           Hormonen
+            -   Hoher Energiegehalt
+            -   Lösungsmittel für Vitamine, Bausteine der Zellmembran
+                und von Hormonen
 
-    -  Eiweißstoffwechsel (Proteine)
+        -   Eiweißstoffwechsel (Proteine)
 
-        -  Zellmembranbausteine
-
-        -  Enzyme, Gerinnungsfaktoren, …
+            -   Zellmembranbausteine
+            -   Enzyme, Gerinnungsfaktoren, …
 
 
 Unter :dfn:`Stoffwechsel` versteht man Abläufe von
@@ -46,33 +46,43 @@ Stoffwechselsysteme, die ihm zur Verfügung stehen. Man unterscheidet den
 *Zucker- bzw. Kohlehydratstoffwechsel*, den *Fettstoffwechsel* und den
 *Eiweißstoffwechsel*:
 
--  :dfn:`Kohlehydratstoffwechsel` (*Zuckerstoffwechsel*):
-   Zucker ist ein Kohlehydrat und ein potenter *Energielieferant*, er
-   kann vom Körper schnell umgesetzt werden. Er wird durch Aufspaltung
-   von komplexen *Kohlehydraten* (Stärke) gewonnen und zirkuliert in
-   Form des *Blutzuckers* in der Blutbahn. Die Leber speichert eine
-   Zuckerreserve von ca. 24h.
+-   :dfn:`Kohlehydratstoffwechsel` (*Zuckerstoffwechsel*):
+    Zucker ist ein Kohlehydrat und ein potenter *Energielieferant*,
+    er kann vom Körper schnell umgesetzt werden.
+    Er wird durch Aufspaltung
+    von komplexen *Kohlehydraten* (Stärke) gewonnen und zirkuliert in
+    Form des *Blutzuckers* in der Blutbahn.
+    Die *Leber* speichert eine *Zuckerreserve* von ca. 24 h.
 
-   Das Hormon :dfn:`Insulin`, welches in
-   der Bauchspeicheldrüse (Pankreas) produziert wird, ermöglicht die
-   *Aufnahme von Blutzucker in die Zellen* und *senkt dabei den
-   Blutzuckerspiegel*.
+    Das Hormon :dfn:`Insulin`, welches in
+    der Bauchspeicheldrüse (Pankreas) produziert wird, ermöglicht die
+    *Aufnahme von Blutzucker in die Zellen* und *senkt dabei den
+    Blutzuckerspiegel*.
 
--  :dfn:`Fettstoffwechsel`: Fette haben einen doppelt so
-   hohen Energiegehalt als Kohlenhydrate, können aber nicht so rasch vom
-   Körper verwendet werden. Sie dienen außerdem u. a. als Lösungsmittel
-   für Vitamine, Bausteine der Zellmembran und von Hormonen. (Weiters
-   unterscheidet man zwischen gesättigten und ungesättigten Fettsäuren.)
+-   :dfn:`Fettstoffwechsel`:
+    Fette haben einen doppelt so
+    hohen Energiegehalt als Kohlenhydrate,
+    können aber nicht so rasch vom
+    Körper verwendet werden.
+    Sie dienen außerdem u. a. als Lösungsmittel
+    für Vitamine, Bausteine der Zellmembran und von Hormonen.
+    (Weiters unterscheidet man zwischen gesättigten und ungesättigten Fettsäuren.)
 
--  :dfn:`Proteinstoffwechsel` (*Eiweißstoffwechsel*): :dfn:`Proteine`
-   sind vergleichbar mit dem LEGO-System: Sie sind aus
-   Bausteinen zusammengebaut, den Aminosäuren. Zusammengebaute Proteine
-   können wieder beim Verdauungsvorgang *zerlegt* werden, mit den
-   dadurch entstehenden Aminosäuren können wiederum andere, *neue
-   Proteine* gebaut werden. Proteine sind in vielen Bereichen im
-   menschlichen Körper unabkömmlich, sie kommen zum Beispiel als
-   *Enzyme* (:ref:`Thema-enzym`), *Gerinnungsfaktoren*
-   (:ref:`Thema-gerinnungsfaktoren`), Zellmembranbausteine u. a. zum Einsatz.
+-   :dfn:`Proteinstoffwechsel` (*Eiweißstoffwechsel*):
+    :dfn:`Proteine`
+    sind vergleichbar mit dem LEGO-System: Sie sind aus
+    Bausteinen zusammengebaut, den Aminosäuren.
+    Zusammengebaute Proteine
+    können wieder beim Verdauungsvorgang *zerlegt* werden, mit den
+    dadurch entstehenden Aminosäuren können wiederum andere, *neue
+    Proteine* gebaut werden.
+    Proteine sind in vielen Bereichen im
+    menschlichen Körper unabkömmlich, sie kommen zum Beispiel als
+    *Enzyme*
+    (vgl. :ref:`Thema-enzym`),
+    *Gerinnungsfaktoren*
+    (vgl. :ref:`Thema-gerinnungsfaktoren`),
+    Zellmembranbausteine u. a. zum Einsatz.
 
-(Alberts et al. 2001; Löffler and Petrides 2003)
+[Alberts:2001]_ [Loeffler:7]_
 

@@ -166,13 +166,13 @@ Allgemeines
 ^^^^^^^^^^^
 
 Es ist derzeit noch relativ unklar wie der Sanitäter in das etablierte
-Berufsfeld der Gesundheitsberufe “hineinpasst”. Die Berufsgruppen der
+Berufsfeld der Gesundheitsberufe "hineinpasst". Die Berufsgruppen der
 Ärzte, Hebammen, Pflegepersonal usw. gibt es schon seit Jahrzehnten oder
 gar Jahrhunderten und es blieb genug Zeit für Streitigkeiten bezüglich
 der jeweiligen Kompetenz und der Abgrenzung der Tätigkeitsfelder. Des
 öfteren hat der Gesetzgeber Regelungen aufgestellt und die Gerichte
 Orientierungspunkte gegeben; darüber hinaus wurden durch die ständige
-Arbeit miteinander Realitäten “geschaffen”. In manchen Punkten ist aber
+Arbeit miteinander Realitäten "geschaffen". In manchen Punkten ist aber
 auch heutzutage einiges unklar, oder einem stetigen Wandel unterworfen.
 
 Sanitätergesetz 2002
@@ -255,7 +255,7 @@ Kompetenzen werden erweitert
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Anfänglich war das Tätigkeitsprofil weitgehend auf das traditionelle
-Gebiet der “erweiterten Ersten Hilfe” beschränkt. Die ändert sich
+Gebiet der "erweiterten Ersten Hilfe" beschränkt. Die ändert sich
 zunehmend. Einerseits durch die gesetzlich definierten
 Notfallkompetenzen, welche dem ärztlichen Leiter in der großen Spielraum
 hinsichtlich der Definition von Therapiemaßnahmen lassen, welche durch
@@ -338,7 +338,7 @@ Anforderungen und Belastungen in der Praxis
         -   *körperliche* und *psychische* Belastungsfähigkeit
 
             -  Der (richtige) Umgang mit Frustration ist wesentlich,
-                um im Rettungs- und Krankentransportdienst auf Dauer “zu überleben”.
+                um im Rettungs- und Krankentransportdienst auf Dauer "zu überleben".
 
 Es versteht sich von selbst, dass die professionelle Versorgung
 erkrankter bzw. verunfallter Menschen solides *medizinisches Wissen*

@@ -6,10 +6,20 @@
 Der Brustkorb
 =============
 
+.. only:: not latex
 
+    .. sidebar:: Der Brustkorb
 
-Beschreibung
-------------
+        -   *Sternum* (Brustbein)
+        -   *12 Rippenpaare*
+
+            -   7 "echte"
+            -   3 "unechte"
+            -   2 "fliegende"
+
+        -   *Brustwirbelsäule* (12 Brustwirbel),
+            mit Rippen in gelenkiger
+            Verbindung
 
 Der Brustkorb besteht *vorne* aus dem :dfn:`Sternum` (*Brustbein*)
 und *12 Rippenpaaren*, welche *hinten* mit der
@@ -18,10 +28,11 @@ und *12 Rippenpaaren*, welche *hinten* mit der
 Die obersten 7 Rippen-Paare werden als *"echte Rippen"*
 bezeichnet (als "echt" gelten Rippen, die eine direkte Verbindung zum
 Sternum besitzen). Sie erreichen mit ihren Spitzen das Brustbein und
-bilden “Ringe” um die Brustorgane. Die 5 unteren Rippenpaare bilden den
-bogenförmigen unteren Rand des Brustkorbes. Die Rippenpaare
-8--10 sind dabei nur indirekt über einen Knorpel mit dem Brustbein
-verbunden (*"unechte Rippen"*), das 11. und das 12.
+bilden "Ringe" um die Brustorgane. Die 5 unteren Rippenpaare bilden den
+bogenförmigen unteren Rand des Brustkorbes.
+Die Rippenpaare 8—10 sind dabei
+nur indirekt über einen Knorpel mit dem Brustbein verbunden
+(*"unechte Rippen"*), das 11. und das 12.
 Paar endet mit knorpeligen Spitzen frei zwischen den Bauchmuskeln
 (*"fliegende Rippen"*).
 
@@ -34,24 +45,15 @@ Brustraum nach unten hin ab und trennt somit den Brustraum vom Bauchraum
 Der Brustkorb enthält und schützt sowohl die *Brustorgane* (Lunge,
 Herz), als auch die *Oberbauchorgane* (Leber, Magen, Milz, Nieren).
 
--  *Sternum* (Brustbein)
-
--  *12 Rippenpaare*
-
-   -   7 “echte”
-
-   -   3 “unechte”
-
-   -   2 “fliegende”
-
--  *Brustwirbelsäule* (12 Brustwirbel), mit Rippen in gelenkiger
-   Verbindung
 
 .. figure:: /Bilder/WikipediaPd/Thorax.*
+    :width: 70%
 
-    Der knöcherne ThoraxMariana Ruiz Villarreal
+    Der knöcherne Thorax
 
-    [Public Domain]
+    Ⓒ Mariana Ruiz Villarreal Ⓛ Public domain
 
--   Die Intaktheit des Brustkorbes ist für die Atmung von großer
-    Bedeutung.
+.. note::
+
+    -   Die Intaktheit des Brustkorbes ist für die Atmung von großer
+        Bedeutung.

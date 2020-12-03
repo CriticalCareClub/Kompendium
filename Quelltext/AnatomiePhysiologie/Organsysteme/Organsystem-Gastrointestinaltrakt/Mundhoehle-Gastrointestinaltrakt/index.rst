@@ -1,17 +1,15 @@
 .. _Thema-Mundhoehle-Gastrointestinaltrakt:
 
-Mundhöhle (GI-Trakt)
+Mundhöhle
 --------------------
 
+.. only:: not latex
 
+    .. sidebar:: Mundhöhle
 
-.. sidebar:: Mundhöhle
-
-    -  Zähne: Nahrungszerkleinerung
-
-    -  Speicheldrüsen
-
-    -  Zunge: Nahrungsfortbewegung, Kehldeckelverschluss
+        -   Zähne: Nahrungszerkleinerung
+        -   Speicheldrüsen
+        -   Zunge: Nahrungsfortbewegung, Kehldeckelverschluss
 
 In der Mundhöhle kommt es durch die Zähne zur *Zerkleinerung* der
 Nahrung. Durch die Kaubewegungen der Zähne und durch die Bewegungen der
@@ -21,7 +19,8 @@ der Speise.
 
 Der Erwachsene besitzt bis zu 32 Zähne. Diese Anzahl kann insbesondere
 durch die unterschiedliche Ausprägung der hintersten Mahlzähne
-(“Weisheitszähne”) variieren. Das Milchgebiss unterscheidet sich durch
+("Weisheitszähne") variieren.
+Das :index:`Milchgebiss` unterscheidet sich durch
 die Anzahl von den bleibenden Zähnen.
 
 Die Zunge schiebt den Bissen Schritt für Schritt in den Rachen. Beim
@@ -33,4 +32,4 @@ sonst zu einem Übertritt der Nahrung in die Luftröhre und damit zu einer
 
     Die Mundhöhle
 
-    [Lena Hirtler, MfG]
+    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`

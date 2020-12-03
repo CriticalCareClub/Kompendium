@@ -3,21 +3,44 @@
 Sinnesorgane
 ############
 
+.. _Thema-auge:
+
 ********
 Das Auge
 ********
 
-.. _Thema-auge:
+.. only:: not latex
 
-Beschreibung
-============
+    .. sidebar:: Das Auge
+
+        -   Schichten des Auges:
+
+            -   Lederhaut (Sclera)
+            -   Aderhaut (Choroidea)
+            -   Netzhaut (Retina)
+
+        -   Lichtstrahl von vorne nach hinten:
+
+            -   Hornhaut (Cornea)
+            -   Vorderkammer
+            -   Pupille, begrenzt von Iris
+            -   Linse → Scharfstellen
+            -   Glaskörper
+            -   Netzhaut
+            -   Sehnerv → Sehzentrum im Gehirn
+
+        -   Bewegung des Auges durch Augenmuskeln
+
+        -   Schutzapparat des Auges:
+
+            -   Tränendrüse und Bindehaut (Konjunktiva)
+            -   Lider
 
 Das Auge als Sehorgan ist ein spezialisiertes Sinnesorgan, das sensibel
 auf Lichtreize reagiert. Es besteht aus:
 
--  Augapfel
-
--  Hilfseinrichtungen: Augenmuskeln, Augenlider und Tränendrüsen
+-   Augapfel
+-   Hilfseinrichtungen: Augenmuskeln, Augenlider und Tränendrüsen
 
 Das gesamte Sehorgan befindet sich in der *Augenhöhle*. Die
 lichtempfindlichen Zellen liegen auf der Netzhaut des Auges und werden
@@ -25,27 +48,24 @@ nach einer Passage durch die lichtbrechenden Strukturen des Augapfels
 erreicht. Der *Augapfel* hat eine annähernde Kugelform. Von außen nach
 innen hat er verschiedene Schichten:
 
--  :dfn:`Sklera` (*Lederhaut*): Die Lederhaut ist eine derbe
-   Bindegewebsschicht. Sie ist zusammen mit dem Glaskörper
-   verantwortlich für die Formgebung des Auges.
-
--  Aderhaut (Choroidea): In der Aderhaut verlaufen alle Blutgefäße des
-   Auges.
-
--  :dfn:`Retina` (*Netzhaut*): In der Netzhaut befinden sich
-   die Sinneszellen des Auges. Stäbchen für das Schwarz-Weiß- bzw.
-   Dämmerungs-Sehen und Zapfen für das Farb-Sehen.
+-   :dfn:`Sklera` (*Lederhaut*): Die Lederhaut ist eine derbe
+    Bindegewebsschicht. Sie ist zusammen mit dem Glaskörper
+    verantwortlich für die Formgebung des Auges.
+-   Aderhaut (Choroidea): In der Aderhaut verlaufen alle Blutgefäße des
+    Auges.
+-   :dfn:`Retina` (*Netzhaut*): In der Netzhaut befinden sich
+    die Sinneszellen des Auges. Stäbchen für das Schwarz-Weiß- bzw.
+    Dämmerungs-Sehen und Zapfen für das Farb-Sehen.
 
 An der Vorderseite ist diese Schichten-Aufteilung anders:
 
--  :dfn:`Cornea` (*Hornhaut*): Die Hornhaut ist eine
-   durchsichtige Schicht von Bindegewebe.
-
--  :dfn:`Iris` (*Regenbogenhaut*): Die Iris ist der
-   verschiedenfärbige (blau, braun, grün) Bereich rund um die Pupille.
-   Sie ist eine dünne Haut mit einer eigenen Muskulatur – vegetativ
-   gesteuert – und sorgt dafür, dass bei Bedarf die Pupille vergrößert
-   bzw. verkleinert wird.
+-   :dfn:`Cornea` (*Hornhaut*): Die Hornhaut ist eine
+    durchsichtige Schicht von Bindegewebe.
+-   :dfn:`Iris` (*Regenbogenhaut*): Die Iris ist der
+    verschiedenfärbige (blau, braun, grün) Bereich rund um die Pupille.
+    Sie ist eine dünne Haut mit einer eigenen Muskulatur – vegetativ
+    gesteuert – und sorgt dafür, dass bei Bedarf die Pupille vergrößert
+    bzw. verkleinert wird.
 
 Wenn man einem Lichtstrahl folgt, der in das Auge einfällt, muss dieser
 zuerst die Hornhaut durchdringen, darauf folgt die Vorderkammer
@@ -77,37 +97,6 @@ Tränenfilm gleichzeitig verteilen zu können,
 verfügen wir über Augenlider, die willkürlich und
 unwillkürlich geschlossen werden können.
 
--  Schichten des Auges:
-
-   -  Lederhaut (Sclera)
-
-   -   Aderhaut (Choroidea)
-
-   -  Netzhaut (Retina)
-
--  Lichtstrahl von vorne nach hinten:
-
-   -  Hornhaut (Cornea)
-
-   -  Vorderkammer
-
-   -  Pupille, begrenzt von Iris
-
-   -  Linse → Scharfstellen
-
-   -  Glaskörper
-
-   -  Netzhaut
-
-   -  Sehnerv → Sehzentrum im Gehirn
-
--  Bewegung des Auges durch Augenmuskeln
-
--  Schutzapparat des Auges:
-
-   -  Tränendrüse und Bindehaut (Konjunktiva)
-
-   -  Lider
 
 
 .. _Thema-ohr:
@@ -116,8 +105,15 @@ unwillkürlich geschlossen werden können.
 Das Ohr
 *******
 
-Beschreibung
-============
+.. only:: not latex
+
+    .. sidebar:: Das Ohr
+
+        -   Gliederung des Ohres:
+
+            -   Außenohr: Ohrmuschel und äußerer Gehörgang
+            -   Mittelohr: Trommelfell, Hammer, Amboß, Steigbügel
+            -   Innenohr: Schnecke, Gleichgewichtsorgan
 
 Das Ohr ist das Organ für die akustische Sinneswahrnehmung des Körpers.
 Zum Ohr gehört weiters das Gleichgewichtsorgan. Man kann das Ohr in drei
@@ -137,28 +133,24 @@ befindet sich im Felsenbein. Wenn man einer Schallwelle folgt, die von
 der Ohrmuschel eingefangen wurde, durchläuft man folgende Strukturen der
 Reihe nach:
 
--  *Äußerer Gehörgang*: dieser geht nach vorne oben – daher die Hörer
-   des Stetoskopes immer in diese Richtung schauend einsetzen, sonst
-   hört man nichts!
+-   *Äußerer Gehörgang*: dieser geht nach vorne oben – daher die Hörer
+    des Stetoskopes immer in diese Richtung schauend einsetzen, sonst
+    hört man nichts!
+-   *Trommelfell*: Es dient der Schallweiterleitung und zur Abgrenzung
+    des Mittelohres und Innenohres gegen die Außenwelt.
+-   Nun folgen die Gehörknöchelchen:
 
--  *Trommelfell*: Es dient der Schallweiterleitung und zur Abgrenzung
-   des Mittelohres und Innenohres gegen die Außenwelt.
+    -   *Hammer* (Malleus): ist fest mit dem Trommelfell verwachsen, ist
+        teilweise durch das Trommelfell hindurch sichtbar, verbunden mit
+        dem
+    -   *Amboss* (Incus): dieser gibt die erhaltenen Schwingungen weiter
+        an den
+    -   *Steigbügel* (Stapes): ist mit der Schnecke verbunden
 
--  Nun folgen die Gehörknöchelchen:
-
-   -  *Hammer* (Malleus): ist fest mit dem Trommelfell verwachsen, ist
-      teilweise durch das Trommelfell hindurch sichtbar, verbunden mit
-      dem
-
-   -  *Amboss* (Incus): dieser gibt die erhaltenen Schwingungen weiter
-      an den
-
-   -  *Steigbügel* (Stapes): ist mit der Schnecke verbunden
-
--  *Schnecke* (Cochlea): ist mit einer eigenen Flüssigkeit gefüllt. In
-   der Schnecke werden die empfangenen Schallwellen nach ihrer Frequenz
-   aufgelöst und durch die Sinneszellen über den Gehörnerven an das
-   Hörzentrum im Gehirn weitergeleitet.
+-   *Schnecke* (Cochlea): ist mit einer eigenen Flüssigkeit gefüllt. In
+    der Schnecke werden die empfangenen Schallwellen nach ihrer Frequenz
+    aufgelöst und durch die Sinneszellen über den Gehörnerven an das
+    Hörzentrum im Gehirn weitergeleitet.
 
 Das *Gleichgewichtsorgan*, als Teil des Innenohrs in direkter Nähe der
 Schnecke im Felsenbein liegend, ist dafür zuständig, dass man ein Gefühl
@@ -169,13 +161,6 @@ rechts sorgen für eine vollständige Informationserfassung. Wenn das
 Gleichgewichtsorgan einer Seite eine Störung hat, resultiert ein kaum
 aushaltbarer Schwindel.
 
--  Gliederung des Ohres:
-
-   -  Außenohr: Ohrmuschel und äußerer Gehörgang
-
-   -  Mittelohr: Trommelfell, Hammer, Amboß, Steigbügel
-
-   -  Innenohr: Schnecke, Gleichgewichtsorgan
 
 .. subfigstart::
 
@@ -208,68 +193,29 @@ aushaltbarer Schwindel.
 
 
 
+.. index::
+   single: Haut
+   single: Derma
+
 .. _Thema-haut:
 
 ***************************************
 Die Haut ist die Barriere zur Außenwelt
 ***************************************
 
+.. only:: not latex
 
+    .. sidebar:: Haut
 
-Beschreibung
-============
-
-
-.. sidebar:: Haut
-
-  -  Grenzfläche des Körpers
-
-  -  1/6 des Körpergewichts
-
-  -  Ca. 1,6m
-
-
-.. index::
-   single: Haut
-   single: Derma
-
+        -   Grenzfläche des Körpers
+        -   1/6 des Körpergewichts
+        -   Ca. 1,6 m
 
 
 Die Haut, *Term.* *Derma*, ist die Grenzfläche des Körpers zur Außenwelt
 und gleichzeitig das größte Sinnesorgan des menschlichen Körpers. Sie
 macht ca. 1/6 des Körpergewichts aus, ihre Oberfläche
-beträgt beim Erwachsenen ca. 1,6m.
-
-Die Haut ist in Schichten aufgebaut
-===================================
-
-..
-   .. sidebar:: Schichten der Haut
-
-   -   *Oberhaut* (Epidermis)
-
-      -  Hornschicht, geschichtetes Plattenepithel
-
-   -  *Lederhaut* (Corium, Dermis)
-
-      -  Hautanhangsgebilde
-
-         -  Schweißdrüsen
-
-         -  Talgdrüsen
-
-         -  Haarfollikel, Nagelmatrix
-
-      -  Tastkörperchen, freie Nervenendigungen (Schmerz)
-
-      -   Kollagenfasern (Stütznetzwerk)
-
-      -  Arteriolen, Venolen (Versorgung der Haut, Temperaturregulation)
-
-   -   *Unterhaut* (*Subcutis*)
-
-      -  Depotfett, Wärmeisolierung
-
+beträgt beim Erwachsenen ca. 1,6 m.
 
 .. index::
    single: Oberhaut
@@ -280,6 +226,33 @@ Die Haut ist in Schichten aufgebaut
    single: Unterhaut
    single: Subcutis
 
+Die Haut ist in Schichten aufgebaut
+===================================
+
+.. only:: not latex
+
+    .. sidebar:: Schichten der Haut
+
+        -   *Oberhaut* (Epidermis)
+
+            -   Hornschicht, geschichtetes Plattenepithel
+
+        -   *Lederhaut* (Corium, Dermis)
+
+            -   Hautanhangsgebilde
+
+                -   Schweißdrüsen
+                -   Talgdrüsen
+                -   Haarfollikel, Nagelmatrix
+
+            -   Tastkörperchen, freie Nervenendigungen (Schmerz)
+            -   Kollagenfasern (Stütznetzwerk)
+            -   Arteriolen, Venolen
+                (Versorgung der Haut, Temperaturregulation)
+
+        -   *Unterhaut* (*Subcutis*)
+
+            -   Depotfett, Wärmeisolierung
 
 Die oberflächlichste Schicht der Haut ist die :dfn:`Oberhaut` (*Epidermis*).
 Sie besteht aus einer mehr oder weniger dicken
@@ -297,32 +270,31 @@ Unter der Dermis befindet sich die :dfn:`Unterhaut`
 Wärmeisolierung.
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Haut-edited.*
+    :width: 70%
+
+    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
 
 
 Aufgaben
 ========
 
-..
-   .. sidebar:: Aufgaben der Haut
+.. only:: not latex
 
-   -  Schutz vor äußeren Einflüssen
+    .. sidebar:: Aufgaben der Haut
 
-   -  Schutz vor Wasserverlust/Austrocknung
+        -   Schutz vor äußeren Einflüssen
+        -   Schutz vor Wasserverlust/Austrocknung
+        -   Temperaturregulation
 
-   -  Temperaturregulation
+            -   Isolation
+            -   Wärmeabgabe
 
-      -  Isolation
+                -   Erweiterung der Blutgefäße
+                -   Verdunstungskälte des Schweißes
 
-      -  Wärmeabgabe
-
-         -  Erweiterung der Blutgefäße
-
-         -  Verdunstungskälte des Schweißes
-
-   -  Sekretionsorgan (Schweiß, Talg)
-
-   -  Sinnesorgan (Tast-, Temperatursinn)
+        -   Sekretionsorgan (Schweiß, Talg)
+        -   Sinnesorgan (Tast-, Temperatursinn)
 
 Die Haut ist eine mechanische *Barriere gegen Umwelteinflüsse*. Sie
 verhindert das Eindringen von Fremdkörpern und Keimen und sorgt für

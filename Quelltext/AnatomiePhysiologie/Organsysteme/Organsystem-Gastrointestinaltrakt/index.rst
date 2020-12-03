@@ -7,47 +7,57 @@ Der Gastrointestinaltrakt
 ##################################################
 
 
-
-
-
-
-************************************
-Beschreibung
-************************************
-
 .. sidebar:: Gastrointestinaltrakt
 
-    -  Nahrungsaufnahme
-
-    -  Weiterverarbeitung im Magen-Darm-Trakt
-
-    -  Transport der Nährstoffe und Energieträger ins Blut
-
-    -  Zellaufbau und Abbau von Abfallstoffen
+    -   Nahrungsaufnahme
+    -   Weiterverarbeitung im Magen-Darm-Trakt
+    -   Transport der Nährstoffe und Energieträger ins Blut
+    -   Zellaufbau und Abbau von Abfallstoffen
 
 Der :dfn:`Gastrointestinaltrakt`
 (*Verdauungstrakt*, Syn. *Magen-Darm-Trakt*, *GI-Trakt*)
 dient der
 Verstoffwechselung der mit dem Essen aufgenommenen Nährstoffe. Er
 beginnt im Mund mit der Nahrungsaufnahme und deren Zerkleinerung. Durch
-diverse Enzyme erfolgt die Weiterverarbeitung im Magen-Darm-Trakt. Wenn
-die Stoffe klein genug zerlegt sind, werden sie durch die Darmzellen
-aufgenommen und in das Blut überstellt. Über das Blut werden die
-Nährstoffe an ihre Zielzellen transportiert. Abfallstoffe landen
-schlußendlich über die Leber und die Gallenflüssigkeit wieder im Darm
-(bzw. den Nieren) um ausgeschieden zu werden.
+diverse Enzyme erfolgt die Weiterverarbeitung im Magen-Darm-Trakt.
+Wenn die Stoffe klein genug zerlegt sind, werden sie durch die Darmzellen
+aufgenommen und in das Blut überstellt.
+Über das Blut werden die
+Nährstoffe an ihre Zielzellen transportiert.
+Abfallstoffe landen
+schlussendlich über die Leber und die Gallenflüssigkeit wieder im Darm
+(bzw. den Nieren)
+um ausgeschieden zu werden.
 
 
 .. figure:: /Bilder/WikipediaPd/Digestive_system_diagram_de-edited.*
 
-            Übersicht Verdauungstrakt
+    Übersicht Verdauungstrakt
 
-            [Mariana Ruiz Villarreal, Public domain]
+    Ⓒ Mariana Ruiz Villarreal Ⓛ Public domain
 
+
+
+
+-----
+
+.. toctree::
+    :caption: Organe des Gastrointestinaltrakts
+
+    Mundhoehle-Gastrointestinaltrakt/index
+    Oesophagus/index
+    Magen/index
+    Duodenum/index
+    LeberGallenblase/index
+    Pankreas/index
+    JejunumIleum/index
+    Colon/index
+
+-----
 
 .. _Table-verdauungstrakt-uebersicht:
 
-.. list-table:: Übersicht über den Verdauungstrakt\ *“Von der Schüssel in die Schüssel”*
+.. list-table:: Übersicht über den Verdauungstrakt\ *"Von der Schüssel in die Schüssel"*
     :widths: 15 10 30
     :header-rows: 0
 
@@ -77,8 +87,8 @@ schlußendlich über die Leber und die Gallenflüssigkeit wieder im Darm
             Pförtner gibt portionsweise Speisebrei an den Zwölffingerdarm ab
     *   -   Dünndarm
         -   *Zwölffingerdarm* (Duodenum)
-        -   Gallenflüssigkeit           (:math:`{\leftarrow}`\ Leber)
-            und Bauchspeichel           (:math:`{\leftarrow}`\ Pankreas) wird zugesetzt
+        -   Gallenflüssigkeit           (← Leber)
+            und Bauchspeichel           (← Pankreas) wird zugesetzt
     *   -
         -   *Jejunum* (Leerdarm)
         -   Spaltung von Nährstoffen (Eiweiß,
@@ -112,34 +122,18 @@ schlußendlich über die Leber und die Gallenflüssigkeit wieder im Darm
         -   Absetzen des Stuhls
 
 
------
+..
+    **********************************************
+    Vaskuläre Versorgung des GI-Trakts (allgemein)
+    **********************************************
 
-.. toctree::
-    :caption: Organe des Gastrointestinaltrakts
-
-    Mundhoehle-Gastrointestinaltrakt/index
-    Oesophagus/index
-    Magen/index
-    Duodenum/index
-    LeberGallenblase/index
-    Pankreas/index
-    JejunumIleum/index
-    Colon/index
-
------
-
-
-
-
-**********************************************
-Vaskuläre Versorgung des GI-Trakts (allgemein)
-**********************************************
+.. todo:: Ticket `#80 Vaskuläre Versorgung des GI-Trakts (allgemein) <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/80>`_ (neuer Inhalt)
 
 ********************************************
 Nervale Versorgung des GI-Trakts (allgemein)
 ********************************************
 
-Die :dfn:`Nervi splanchnici<Nn.!splanchnici>` sind die Nerven des
+Die :dfn:`Nervi splanchnici` sind die Nerven des
 vegetativen Nervensystems,
 welche die inneren Organe versorgen
-(:ref:`Thema-VegetativesNervensystem`).
+(vgl. :ref:`Thema-VegetativesNervensystem`).

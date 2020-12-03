@@ -10,19 +10,31 @@ Der Beckengürtel und die untere Extremität
 Der Beckengürtel
 ****************
 
+.. only:: not latex
+
+    .. sidebar:: Beckengürtel
+
+        -   Kreuzbein (Os sacrum)
+        -   Beckenknochen
+
+            -   Darmbein
+            -   Sitzbein
+            -   Schambein
+
+        -  Schambeinfuge (Symphyse)
+
 Der Beckengürtel besteht (von hinten nach vorne) aus dem
 
 -  :dfn:`Os sacrum` (:dfn:`Kreuzbein`) und dem
+-  :dfn:`Beckenknochen`,
 
--  :dfn:`Beckenknochen`
-
-   , welcher wiederum aus dem
+welcher wiederum aus dem
 
    -   Darmbein, dem
-
    -   Sitzbein und dem
+   -   Schambein
 
-   -   Schambein besteht.
+besteht.
 
 Die :dfn:`Symphyse` (*Schambeinfuge*) stellt eine straffe
 Knorpelverbindung vorne zwischen den beiden Beckenknochen dar
@@ -32,23 +44,41 @@ Beine unabdingbar. Die Gelenkspfanne des Hüftgelenkes befindet sich im
 Beckenknochen. Der Oberschenkelknochen wird hauptsächlich durch Bänder
 im Gelenk gehalten.
 
--  Kreuzbein (Os sacrum)
-
--  Beckenknochen
-
-   -   Darmbein
-
-   -   Sitzbein
-
-   -   Schambein
-
--  Schambeinfuge (Symphyse)
 
 .. _Thema-untere-extremitaet:
 
 *********************
 Die untere Extremität
 *********************
+
+..
+    .. only:: not latex
+
+        .. sidebar:: Untere Extremität
+
+            -   Hüftgelenk
+            -   Oberschenkel (Femur)
+            -   Kniegelenk
+            -   Kniescheibe
+            -   Unterschenkelknochen* (2)
+
+                -   Schienbein (Tibia) , dick, vorne
+                -   Wadenbein (Fibula), dünn, seitlich hinten
+
+            -   Sprunggelenk
+            -   7 Fußwurzelknochen, u.a. Sprungbein, Fersenbein
+            -   5 Mittelfußknochen
+            -   Zehengliederknochen mit je 2-3 Gliedern
+
+
+.. figure:: /Bilder/WikipediaPd/Human_skeleton_lower-extr-edited.*
+    :width: 50%
+    :align: right
+
+    Der Beckengürtel und die untere Extremität
+
+    Ⓒ Mariana Ruiz Villarreal Ⓛ Public domain
+
 
 Das Bein beginnt mit dem :dfn:`Hüftgelenk`, einem **Kugelgelenk**,
 gebildet aus dem *Beckenknochen* und dem *Oberschenkelknochen*.
@@ -59,7 +89,7 @@ bewerkstelligt.
 
 Der :dfn:`Femur` (*Oberschenkelknochen*) bildet als einziger
 Knochen den Oberschenkel. Er ist gekenzeichnet durch einen ausgeprägten
-:dfn:`Schenkelhals` mit “Knick” zwischen Kopf-Hals-Bereich
+:dfn:`Schenkelhals` mit "Knick" zwischen Kopf-Hals-Bereich
 und Körper. Körperfern endet der Oberschenkelknochen im Kniegelenk.
 
 Das :dfn:`Kniegelenk` verbindet den Ober- und Unterschenkel
@@ -69,8 +99,7 @@ gebeugtem Knie möglich. Das Kniegelenk weist einige Besonderheiten auf:
 Jeweils zwei Kreuzbänder, Seitenbänder sowie Menisken sorgen
 für die Stabilität in diesem Gelenk. Weiters sorgt die
 :dfn:`Patella` (*Kniescheibe*)  für eine bessere Kraftübertragung des
-Kniestreckers. (Petersen and Zantop 2009; Müller 1982; Schabus and
-Bosina 2007)
+Kniestreckers. [Petersen:1]_ [Mueller:1]_ [Schabus:1]_
 
 Der :dfn:`Unterschenkel` wird von der :dfn:`Tibia` (*Schienbein*)
 und der :dfn:`Fibula` (*Wadenbein*) gebildet. Sie gehen im Sprunggelenk
@@ -87,34 +116,7 @@ aus Schien- und Wadenbein auf Höhe des Sprunggelenks gebildet wird. Es
 gibt einen Innen- und einen Außenknöchel (jeweils körperfernes Ende von
 Schien- bzw. Wadenbein).
 
--  *Hüftgelenk*
 
--  *Oberschenkel* (Femur)
+.. attention::
 
--  *Kniegelenk*
-
--  *Kniescheibe*
-
--  *Unterschenkelknochen* (2)
-
-   -  *Schienbein* (Tibia) , dick, vorne
-
-   -  *Wadenbein* (Fibula), dünn, seitlich hinten
-
--  *Sprunggelenk*
-
--  7 *Fußwurzelknochen*, u.a. Sprungbein, Fersenbein
-
--  5 *Mittelfußknochen*
-
--  *Zehengliederknochen* mit je 2-3 Gliedern
-
-.. figure:: /Bilder/WikipediaPd/Human_skeleton_lower-extr-edited.*
-
-    Der Beckengürtel und die untere Extremität
-
-    [Mariana Ruiz Villarreal, Public Domain]
-
-.. note::
-
-    -  Achtung: Unterscheide Fuß – Bein!
+    -   Unterscheide Fuß — Bein!

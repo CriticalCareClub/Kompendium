@@ -6,8 +6,6 @@ Der Schädel
 ###########
 
 
-
-
 Der knöcherne :dfn:`Schädel` (:dfn:`Cranium`) gliedert sich in
 den :dfn:`Gesichtsschädel` und den :dfn:`Hirnschädel`.
 Der Begriff *Kopf* (;dfn:`Caput`) bezieht neben den knöchernen Strukturen
@@ -23,19 +21,27 @@ Aufbau des Hirnschädels
 
     .. sidebar:: Hirnschädel
 
-        -  Schädelbasis
-
-        -  Kalotte (Schädeldach)
-
-        -  Platte Knochen, durch Schädelnähte verzahnt und verknöchert
+        -   Schädelbasis
+        -   Kalotte (Schädeldach)
+        -   Platte Knochen, durch Schädelnähte verzahnt und verknöchert
 
 Der Hirnschädel besteht aus der :dfn:`Schädelbasis` und dem der :dfn:`Kalotte` (Schädeldach). Beide Strukturen werden durch platte
 Knochen gebildet, welche beim Erwachsenen durch *Schädelnähte*
 miteinander verzahnt und verknöchert sind.
 
-**********
-Fontanelle
-**********
+***********
+Fontanellen
+***********
+
+.. only:: not latex
+
+    .. sidebar:: Fontanellen
+
+        -   Verschluss bis 18. Lebensmonat
+
+        -   Große Fontanelle
+
+        -   Kleine Fontanelle
 
 Die :dfn:`Fontanellen` sind *knorpelige
 Verbindungen* zwischen Schädelknochen beim Neugeborenen und Säugling.
@@ -45,23 +51,20 @@ Lebensmonat, verknöchern aber erst vollständig mit zunehmendem
 Lebensalter (ca. bis zum 20. Lebensjahr). Durch die Verknöcherung
 entstehen die *Schädelnähte* *Suturen*.
 
+.. figure:: /Bilder/WikipediaPd/fontanelle-dt.*
+    :width: 50%
+    :align: right
+
+    Fontanellen
+
+    Ⓒ Gray’s Anatomy Ⓛ Copyright expired
+
 Es gibt zwei Fontanellen: Die *große Fontanelle* befindet sich zwischen
 dem Stirnbein und den Scheitelbeinen, die *kleine* Fontanelle zwischen
 den Scheitelbeinen und dem Hinterhauptsbein. Die Unterscheidung ist für
 die Geburtshilfe interessant, da man dadurch unterscheiden kann in
 welche Richtung der Kopf des Kindes schaut.
 
--  Verschluss bis 18. Lebensmonat
-
--   Große Fontanelle
-
--   Kleine Fontanelle
-
-.. figure:: /Bilder/WikipediaPd/fontanelle-dt.*
-
-    Fontanellen
-
-    [Gray’s Anatomy, Copyright expired]
 
 ************
 Schädelbasis
@@ -72,9 +75,7 @@ Schädelbasis
     .. sidebar:: Schädelbasis
 
         -   Auflagefläche des Gehirns
-
         -   Hirnnerven
-
         -   Großes Hinterhauptsloch (Foramen magnum)
 
             -   Durchtritt Rückenmark
@@ -86,7 +87,8 @@ ist die *Durchtrittsstelle des Rückenmarks*.
 
 
 .. figure:: /Bilder/WikipediaPd/Gray1196-edited.*
+    :width: 50%
 
     Aufsicht auf die Schädelbasis
 
-    [Gray’s Anatomy, Copyright expired]
+    Ⓒ Gray’s Anatomy Ⓛ Copyright expired

@@ -2,7 +2,9 @@
 Leitungsbahnen
 ##############################################################
 
-.. contents::
+.. only:: not latex
+
+    .. contents::
 
 
 Abschnitte des Kreislaufs
@@ -31,6 +33,41 @@ der wiederum das Blut in die linke Herzkammer pumpt.
 Großer (Körper-)Kreislauf
 -------------------------
 
+.. only:: not latex
+
+    .. sidebar:: Kreislauf
+
+        -   Rechter Vorhof
+        -   Segelklappe
+        -   Rechte Herzkammer
+        -   Taschenklappe
+        -   Lungenarterie(n)
+        -   Lungenkapillaren
+            (CO₂-Abgabe, O₂-Aufnahme)
+        -   Lungenvenen
+        -   Linker Vorhof
+        -   Segelklappe
+        -   Linke Herzkammer
+        -   Taschenklappe (Aortenklappe)
+        -   Aorta
+        -   Arterien
+        -   Kapillaren
+            (O₂-Abgabe, CO₂-Aufnahme)
+        -   Venen
+        -   Hohlvene
+        -   Rechter Vorhof ↻
+
+.. _fig-blutkreislauf-schema:
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Kreislauf-Schema.*
+    :width: 40%
+    :align: right
+
+    Der Blutkreislauf (Schema)
+
+    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+
+
 Das Blut wird aus der linken Herzkammer ausgestoßen und gelangt durch
 eine **Taschenklappe** (*Aortenklappe*) über die **Aorta** in den
 Körperkreislauf.
@@ -54,59 +91,9 @@ bis sie letztendlich in die *obere* oder *untere Hohlvene*
 (Vena cava superior bzw. inferior) münden.
 Diese münden wiederum in den rechten Vorhof.
 
-.. sidebar:: Kreislauf
 
-    -  Rechter Vorhof
-
-    -  Segelklappe
-
-    -  Rechte Herzkammer
-
-    -  Taschenklappe
-
-    -  Lungenarterie(n)
-
-    -  Lungenkapillaren
-       (CO₂-Abgabe, O₂-Aufnahme)
-
-    -  Lungenvenen
-
-    -  Linker Vorhof
-
-    -  Segelklappe
-
-    -  Linke Herzkammer
-
-    -  Taschenklappe (Aortenklappe)
-
-    -  Aorta
-
-    -  Arterien
-
-    -  Kapillaren
-       (O₂-Abgabe, CO₂-Aufnahme)
-
-    -  Venen
-
-    -  Hohlvene
-
-    -  Rechter Vorhof :math:`\circlearrowright`
-
-.. todo:: Gasaustausch und Sauerstoffbindungskurve
-
-.. _fig-blutkreislauf-schema:
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Kreislauf-Schema.*
-
-    Der Blutkreislauf (Schema)
-
-    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
-
-
-.. todo:: Index-Begriffe
 
 .. _Thema-blutgefaesse-wichtige:
-
 .. _Thema-pfortader:
 
 .. table:: Übersicht wichtiger Blutgefäße
@@ -114,7 +101,7 @@ Diese münden wiederum in den rechten Vorhof.
     +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
     | **Gefäß**         | **Fachbegriff**      | **Typ**   | **Bemerkungen**                                                                                                                                                                                              |
     +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Hauptschlagader* | *Aorta*              | Arterie   | “Hauptarterie”, geht von der linken Herzkammer ab, von dort zweigen alle anderen Körperarterien ab.                                                                                                          |
+    | *Hauptschlagader* | *Aorta*              | Arterie   | "Hauptarterie", geht von der linken Herzkammer ab, von dort zweigen alle anderen Körperarterien ab.                                                                                                          |
     +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
     | *Halsschlagader*  | *Karotis*            | Arterie   | 1 Paar (2 Stk.), versorgen den Kopf und das Gehirn, Puls tastbar seitlich vom Kehlkopf                                                                                                                       |
     +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

@@ -9,21 +9,18 @@
 Magen
 -----
 
+.. only:: not latex
+
+    .. sidebar:: Magen
+
+        -   Magensaft mit Salzsäure
+        -   Schleim schützt Magenschleimhaut
+        -   Wandmuskulatur durchmischt Speisebrei
+        -   Portionsweise Abgabe von Speisebrei
+            durch den Magenpförtner in den Zwölffingerdarm
 
 
 :Synonym: Gaster, Ventriculus
-
-.. sidebar:: Magen
-
-    -  Magensaft mit Salzsäure
-
-    -  Schleim schützt Magenschleimhaut
-
-    -  Wandmuskulatur durchmischt Speisebrei
-
-    -  Portionsweise Abgabe von Speisebrei durch den Magenpförtner in den
-       Zwölffingerdarm
-
 
 Der Magen ist ein muskuläres Hohlorgan
 und dient der Nahrungsspeicherung, Nahrungsdurchmischung sowie der
@@ -37,5 +34,5 @@ starken Säure schützt.
 
 Nachdem die Wandmuskulatur den Speisebrei mit dem Magensaft
 *durchmischt* hat, gibt der :dfn:`Pylorus` (*Pförtner*)
-den Speisebrei portionsweise an den Dünndarm – genauer: an das
-:ref:`Duodenum<Thema-Duodenum>` – weiter.
+den Speisebrei portionsweise an den Dünndarm — genauer: an das
+:ref:`Duodenum <Thema-Duodenum>` — weiter.

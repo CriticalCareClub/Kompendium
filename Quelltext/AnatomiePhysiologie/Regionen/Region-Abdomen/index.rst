@@ -10,24 +10,22 @@ Sonstige Organe und Strukturen im Bauchraum
 Das Bauchfell
 =============
 
-..
-        .. sidebar:: Bauchfell (Peritoneum)
+.. only:: not latex
 
-        -  Auskleidung der gesamten Bauchhöhle
+    .. sidebar:: Bauchfell (Peritoneum)
 
-        -  Dünner Überzug
-
-        -  Bewegung der Organe
-
-        -  Schmerzempfindlich
+        -   Auskleidung der gesamten Bauchhöhle
+        -   Dünner Überzug
+        -   Bewegung der Organe
+        -   Schmerzempfindlich
 
 .. index::
-   single: Bauchfell
-   single: Peritoneum
+    single: Bauchfell
+    single: Peritoneum
 
 Das :dfn:`Bauchfell` (**Peritoneum**) ist eine
 dünne Haut, welche *die gesamte Bauchhöhle auskleidet*. Dieser Überzug
-bedeckt die meisten Bauchorgane [213]_ und das große und kleine Netz
+bedeckt die meisten Bauchorgane und das große und kleine Netz
 (Omentum majus und minus). Das große Netz bedeckt die Bauchorgane und
 ist die erste Struktur, die man bei einer Baucheröffnung sieht. Es
 ermöglicht die Abkapselung von Entzündungen, sodass sich diese nicht
@@ -37,10 +35,6 @@ Es sorgt durch seine feuchte und glatte Oberfläche dafür, dass die
 Organe, wie z. B. Darm, ihre Bewegungen zur Verdauungen besser
 durchführen können.
 
-
-.. [213]
-   außer z. B. die Nieren
-
 ..
     .. figure::
         /Bilder/GabrielSebastian-Ccc/Torso_GABS_IMG_1251_00800_frei.*
@@ -49,32 +43,31 @@ durchführen können.
         Zu sehen sind die Lunge, dahinter das Herz, darunter die
         Leber (braun) mit einem kleinen Stück der Gallenblase
         (grün), der Magen mit einem Teil der gelben Fettschürze
-        “großes Netz”, sowie der Dickdarm und der Dünndarm
+        "großes Netz", sowie der Dickdarm und der Dünndarm
 ..
         Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
-Die Milz
-========
-
-..
-        .. sidebar:: Milz
-
-        -  12cm, oval, im linken Oberbauch unter den Rippen gelegen
-
-        -  Von *Kapsel* umgeben
-
-        -  Teil des Immunsystems, entfernt alte rote Blutkörperchen
-
-        -  Gut durchblutet!
 
 .. index::
    single: Milz
    single: Lien
    single: Splen
 
-Die :dfn:`Milz` (*Lien*, *Splen*) ist ca. 12cm groß, oval
-geformt und und liegt im linken Oberbauch, verdeckt von den Rippen. Sie
-ist nicht an der Verdauung beteiligt.
+Die Milz
+========
+
+.. only:: not latex
+
+    .. sidebar:: Milz
+
+        -   12 cm, oval, im linken Oberbauch unter den Rippen gelegen
+        -   Von *Kapsel* umgeben
+        -   Teil des Immunsystems, entfernt alte rote Blutkörperchen
+        -   Gut durchblutet!
+
+Die :dfn:`Milz` (*Lien*, *Splen*) ist ca. 12 cm groß, oval
+geformt und und liegt im linken Oberbauch, verdeckt von den Rippen.
+Sie ist nicht an der Verdauung beteiligt.
 
 Die Milz dient der immunologischen Überwachung des Blutes und ist daher
 Teil des Immunsystems. Sie filtert das Blut, zu alte rote Blutkörperchen
@@ -86,45 +79,61 @@ umgeben und in das Bauchfell gehüllt.
 
 
 
+.. index::
+    single: Niere
+    single: Ren
+    single: Nephros
+
 Die Nieren filtern das Blut und produzieren den Harn
 ====================================================
 
-Beschreibung
-------------
-.. index::
-   single: Niere
-   single: Ren
-   single: Nephros
 
+.. only:: not latex
 
-..
-        .. sidebar:: Niere
-        -  Paarig angelegtes, bohnenförmiges Organ
+    .. sidebar:: Niere
 
-        -  Rückenwärts bds. der Wirbelsäule, Höhe der unteren Rippenpaare
-
-        -  Ca. 10--12 cm lang
-
-        -  Stark durchblutet
+        -   Paarig angelegtes, bohnenförmiges Organ
+        -   Rückenwärts bds. der Wirbelsäule,
+            Höhe der unteren Rippenpaare
+        -   Ca. 10—12 cm lang
+        -   Stark durchblutet
 
 Die :dfn:`Niere` ( *Ren*, *Nephros*) ist ein paarig
 angelegtes, bohnenförmiges Organ und befindet sich rückenwärts beidseits
 der Wirbelsäule auf Höhe der unteren Rippenpaare, das entspricht der
 Höhe des zwölften Brustwirbels, und reichen ca. bis zum dritten
-Lendenwirbel hinab. Die rechte Niere liegt (wegen des großen rechten
-Leberlappens) ungefähr eine halbe Wirbelhöhe tiefer als die Linke. Die
-Nieren besitzen wie die Milz eine Bindegewebskapsel. Eine Niere ist ca.
-10--12cm lang und ca. 5--6,5cm breit. Die Nieren
-sind stark durchblutet.
+Lendenwirbel hinab.
 
 
 .. figure:: /Bilder/WikipediaPd/Kidneys.*
+    :width: 50%
+    :align: right
 
-	    Die Nieren
-	    *WmCo/Mikael Häggström and Madhero88PD*
+    Die Nieren
+
+    Ⓒ WmCo/Mikael Häggström and Madhero88 Ⓛ PD
+
+Die rechte Niere liegt (wegen des großen rechten
+Leberlappens) ungefähr eine halbe Wirbelhöhe tiefer als die Linke. Die
+Nieren besitzen wie die Milz eine Bindegewebskapsel. Eine Niere ist ca.
+10--12cm lang und ca. 5—6,5cm breit.
+Die Nieren
+sind stark durchblutet.
+
 
 Aufgaben
 --------
+
+.. only:: not latex
+
+    .. sidebar:: Niere, Aufgaben
+
+        -   Stark durchblutet, empfindlich auf RR- Abfall →
+        -   reguliert
+        -   *Wasser-* und *Elektrolythaushalt*
+        -   *Säure/Basen-Haushalt*
+        -   Blutdruck
+        -   Hormonproduktion
 
 Die Niere *filtert ausscheidungspflichtige Stoffe* (z. B. Stickstoff und
 Abfallstoffe von Medikamenten) aus dem Blut. Daher ist auch sie äußerst
@@ -137,23 +146,18 @@ den *Säure-Basen-Haushalt* im Körper (pH) sowie für den
 Blutdruckregulierung (Renin) und für die Blutbildung (*Erythropoetin*).
 
 
-..
-        .. sidebar:: Niere, Aufgaben
-
-        -  Stark durchblutet, empfindlich auf RR- Abfall →
-
-        -  reguliert
-
-        -  *Wasser-* und *Elektrolythaushalt*
-
-        -  *Säure/Basen-Haushalt*
-
-        -  Blutdruck
-
-        -  Hormonproduktion
 
 Aufbau der Nieren
 -----------------
+
+.. only:: not latex
+
+    .. sidebar:: Aufbau
+
+        -   Rinde, Mark
+        -   Hilus (Stiel)
+        -   Gefäße
+        -   Nierenbecken mit Anschluss an den Harntrakt
 
 Wenn man die Niere längs durchschneidet kann man ihren Aufbau erkennen.
 Sie ist unterteilbar in ein Nierenmark und eine Nierenrinde. Das
@@ -178,22 +182,20 @@ entlang, dabei werden die meisten wichtigen Stoffe und der Großteil des
 Wassers zurückgeholt (rückresorbiert), sodass am Ende nur mehr
 1,5--2 L Harn, welcher die nicht zurückgeholten
 ausscheidungspflichtigen Stoffe enthält, über das Nierenbecken und den
-Harnleiter in die Harnblasen abgeleitet werden. (Löffler and Petrides
-2003)
+Harnleiter in die Harnblasen abgeleitet werden. [Loeffler:7]_
 
--  Rinde, Mark
-
--  Hilus (Stiel)
-
--  Gefäße
-
--  Nierenbecken mit Anschluss an den Harntrakt
 
 Das harnableitende System: Der Harntrakt
 ========================================
 
-Beschreibung
-------------
+.. only:: not latex
+
+    .. sidebar:: Harntrakt
+
+        -   Nieren inkl. Nierenbecken
+        -   je 1 Harnleiter (Ureter), 30cm lang, mündet in die
+        -   Blase
+        -   Harnröhre ( Urethra, Mann: 25 cm, Frau 4 cm)
 
 Der Harntrakt besteht aus den paarig angelegten Nieren mit den
 Nierenkelchen und den Nierenbecken, auf jeder Seite je ein
@@ -214,25 +216,26 @@ beim Mann und mündet oberhalb des Scheideneinganges.
 Durch die kürzeren Harnwege bei der Frau kann es leichter zu
 *Harnwegsinfektionen* kommen.
 
--  Nieren inkl. Nierenbecken
 
--  je 1 Harnleiter (Ureter), 30cm lang, mündet in die
 
--  Blase
-
--  Harnröhre ( Urethra, Mann: 25 cm, Frau 4 cm)
-
-.. todo:: image  Harntraktmit Nieren (rechte Niere im Querschnitt mit          Nierenbecken), Harnleiter, Blase und          Harnröhre[Figure-harntrakt]Lena HirtlerMfG
+.. todo:: image  Harntraktmit Nieren (rechte Niere im Querschnitt mit          Nierenbecken), Harnleiter, Blase und          Harnröhre[Figure-harntrakt]Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
 Die Nebennieren
 ===============
 
-Beschreibung
-------------
+.. only:: not latex
+
+    .. sidebar:: Die Nebennieren
+
+        -   Adrenalin, Noradrenalin
+        -   Sexualhormone (Androgene)
+        -   Kortisol
+        -   Aldosteron
+        -   Hormonproduktion (Adrenalin, Sexualhormone, …)
 
 Die  :dfn:`Adren` (*Nebennieren*) sind ein paariges, jeweils
 am oberen Nierenpol gelegenes Organ und überdecken die Niere
-“mützenformig”.
+"mützenformig".
 Sie sind nicht an der Harnproduktion beteiligt.
 
 Die Hauptaufgabe der Nebennieren ist die *Hormonproduktion*.
@@ -241,15 +244,6 @@ unterteilen.
 In den jeweiligen Abschnitten werden jeweils verschiedene Hormone
 produziert. Die wichtigsten produzierten Hormone sind:
 
--  Adrenalin, Noradrenalin
-
--  Sexualhormone (Androgene)
-
--   Kortisol
-
--   Aldosteron
-
--  Hormonproduktion (Adrenalin, Sexualhormone, …)
 
 Was gibt es noch?
 =================
@@ -257,13 +251,17 @@ Was gibt es noch?
 Weitere Strukturen im Bauchraum
 -------------------------------
 
-Außer den “klassischen Bauchorganen” liegen auch andere Organsysteme im
+
+.. only:: not latex
+
+    .. sidebar:: Weitere Strukturen
+
+        -   Noch andere Organsysteme
+        -   Z. B. Geschlechtsorgane
+
+Außer den "klassischen Bauchorganen" liegen auch andere Organsysteme im
 Bauchraum auf die nicht vergessen werden sollte. Besonders betrifft das
 die inneren weiblichen und männlichen **Geschlechtsorgane**
 wie Eierstöcke, Eileiter und Uterus bzw. Prostata und Samenbläschen.
 Diese werden unter :ref:`Thema-geschlechtsorgane`, gesondert besprochen.
-
--  Noch andere Organsysteme
-
--  Z. B. Geschlechtsorgane
 

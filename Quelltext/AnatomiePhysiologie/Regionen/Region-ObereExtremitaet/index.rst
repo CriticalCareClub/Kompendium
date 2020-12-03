@@ -8,22 +8,30 @@ Der Schultergürtel und die obere Extremität
 
 
 .. figure:: /Bilder/WikipediaPd/Human_arm_bones_diagram_de-edited.*
+    :width: 100%
 
     Der Schultergürtel und die obere Extremität
 
-    [Mariana Ruiz Villarreal, Public Domain]
+    Ⓒ Mariana Ruiz Villarreal Ⓛ Public domain
 
 ******************
 Der Schultergürtel
 ******************
 
+.. only:: not latex
+
+    .. sidebar:: Schultergürtel
+
+        -   Brustbein (Sternum)
+        -   Schlüsselbein (Clavicula)
+        -   Schulterblatt (Scapula)
+        -   Befestigung des Oberarmes durch Muskelzug
+
 Der Schultergürtel besteht (von vorne nach hinten) aus:
 
--  *Brustbein* (:dfn:`Sternum` :index:`\ <! Sternum>`)
-
--  *Schlüsselbein* (Clavicula)
-
--  *Schulterblatt* (Scapula)
+-   *Brustbein* (:dfn:`Sternum` :index:`\ <! Sternum>`)
+-   *Schlüsselbein* (Clavicula)
+-   *Schulterblatt* (Scapula)
 
 Der Schultergürtel ermöglicht die Bewegung der Arme. Über eine
 Bandverbindung des Schlüsselbeines am Brustbein und wiederum eine
@@ -34,22 +42,34 @@ befindet sich am Schulterblatt.
 Der Oberarm ist hauptsächlich durch Muskelzug (M. deltoideus,
 Rotatorenmanschette) am Schultergürtel befestigt.
 
--  Brustbein (Sternum)
+.. admonition:: Beachte
 
--  Schlüsselbein (Clavicula)
-
--  Schulterblatt (Scapula)
-
--  Befestigung des Oberarmes durch Muskelzug
-
-    -  Bänder und Muskel sind für die Stabilität des Schultergelenkes
-       wichtig.
+    -   Bänder und Muskel sind für die Stabilität des Schultergelenkes
+        wichtig.
 
 .. _Thema-obere-extremitaet:
 
 ********************
 Die obere Extremität
 ********************
+
+.. only:: not latex
+
+    .. sidebar:: Obere Extremität
+
+        -   Schultergelenk
+        -   Oberarmknochen
+        -   Ellenbogengelenk
+        -   (2) Unterarmknochen
+
+            -   Elle (Ulna)
+            -   Speiche (Radius), daumenseitig!
+
+        -   Handwurzelgelenk
+        -   (8) Handwurzelknochen
+        -   (5) Mittelhandknochen
+        -   Fingergliedknochen mit 2—3 Gliedern
+
 Der Arm beginnt mit dem  :dfn:`Schultergelenk`.
 Dieses ist ein klassisches *Kugelgelenk*, es
 ermöglicht die Bewegung in allen drei Raumebenen. Die beteiligten
@@ -70,11 +90,12 @@ Die beiden Knochen des *Unterarmes* sind die :dfn:`Ulna`
 (*Elle*) und der :dfn:`Radius` (*Speiche*),
 sie liegen bei Drehung der Handfläche nach oben parallel, bei Drehung
 der Handfläche zum Boden hingegen überkreuz. Die **Speiche**
-(Radius) liegt *daumenseitig*\  [189]_, die Elle auf der Seite des
+(Radius) liegt *daumenseitig*\ [#Radialarterie]_,
+die Elle auf der Seite des
 kleinen Fingers.
 
-.. [189]
-   Daher ist die Radialarterie daumenseitig zu tasten!
+.. [#Radialarterie]
+    Daher ist die Radialarterie daumenseitig zu tasten!
 
 Es folgt das *Handwurzelgelenk*, welches hauptsächlich aus der Speiche
 und den *Handwurzelknochen* gebildet wird. Das Handwurzelgelenk ist ein
@@ -95,25 +116,8 @@ Finger mit jeweils 2 (Daumen) oder 3 (Finger II--V)
 → körpernahe Fingergliedknochen) sind von der
 Funktion Scharniegelenke, die *Fingergliedgelenke* sind *Scharniergelenke*.
 
--  *Schultergelenk*
 
--  *Oberarmknochen*
+.. attention::
 
--  *Ellenbogengelenk*
-
--  (2) *Unterarmknochen*
-
-   -  *Elle* (*Ulna*)
-
-   -  *Speiche* (*Radius*), daumenseitig!
-
--  Handwurzelgelenk
-
--  (8) *Handwurzelknochen*
-
--  (5) *Mittelhandknochen*
-
--  *Fingergliedknochen* mit 2--3 Gliedern
-
-    -  Achtung: Unterscheide: Hand – Arm!
+    -   Unterscheide: Hand – Arm!
 

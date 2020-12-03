@@ -286,7 +286,6 @@ Literaturverzeichnis
 [FamPropAeGeFue:2010]_
 [InnereMedQuick:3]_
 [Gallaher:2009]_
-[GantenMolGrund:97]_
 [youtube:Herzinfarkt]_
 [Genzwuerker:2007]_
 [PraxisleitAllgemeinmed:6]_
@@ -313,14 +312,12 @@ Literaturverzeichnis
 [NitschStress-StressTransakt]_
 [Loew:2006]_
 [Loennecker:2001]_
-[LutomskyLeitRett:3]_
 [Malfertheiner:2004]_
 [OskampAppSocPsyAnn84-BurnOrgSett]_
 [MaslachBurnout]_
 [Meron:2004]_
 [ArzPocketAustria:2]_
 [KlinLeitAlle:3]_
-[MuellerKnie:1]_
 [PHTLS:6]_
 [NagelePalliativ:1]_
 [Cicero911CommissionReport]_
@@ -329,7 +326,6 @@ Literaturverzeichnis
 [Niaura:2002]_
 [OenormS2104-2005]_
 [Peiris:2009]_
-[PetersenVordereKreuzband:1]_
 [Pflegewiki:Dekubitus]_
 [AnCompact:3]_
 [ThiemesPflege:12]_

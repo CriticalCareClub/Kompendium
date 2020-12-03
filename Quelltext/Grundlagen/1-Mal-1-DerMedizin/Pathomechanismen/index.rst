@@ -215,7 +215,7 @@ des Immunsystems*, Nervenschäden u. v. a. m.
 
 .. rubric:: Siehe auch:
 
-[UlfigHistologie:1]_ [GantenTumorerkr:98]_ [Uicc:3]_
+[Ulfig:1]_ [GantenTumorerkr:98]_ [Uicc:3]_
 
 
 

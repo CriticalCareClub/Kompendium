@@ -9,7 +9,6 @@ Literaturverzeichnis
     Not referenced:
 
     UltimateHitchhikersGuide96hitchhikersguide
-    AlbertsMolZellbiologie:2
     AntonovskySalutogenese
     ArgelanderErstinterview:8
     AumuellerAnatomie:2
@@ -192,7 +191,6 @@ Literaturverzeichnis
 
 ..
     [UltimateHitchhikersGuide96hitchhikersguide]_
-    [AlbertsMolZellbiologie:2]_
     [ArgelanderErstinterview:8]_
     [AumuellerAnatomie:2]_
     [BattegayHandwPsych:2]_
@@ -397,7 +395,7 @@ Alpha
 ================================================================================
 
 
-.. [AAOS:2006]
+.. [AAOS:9]
 	AAOS:
 	**Emergency Care and Transportation of the Sick and Injured.**
 	9th ed., 2006.
@@ -667,7 +665,7 @@ Echo
 	Soar, J., J.P. Nolan, B.W. Böttiger, G.D. Perkins, C. Lott, P. Carli, T.
 	Pellis, et al. 2015a.
 	**Erweiterte Reanimationsmaßnahmen Für Erwachsene
-	(„Adult Advanced Life Support“).**
+	(„Adult Advanced Life Support").**
 	*Notfall + Rettungsmedizin* 18 (8).
 	Springer Berlin Heidelberg: 770–832.
 	doi:\ `10.1007/s10049-015-0085-x <https://doi.org/10.1007/s10049-015-0085-x>`__.
@@ -733,7 +731,7 @@ Echo
 	Rodríguez-Núñez, T. Rajka, P. Van de Voorde, D.A. Zideman und D.
 	Biarent. 2015a.
 	**Lebensrettende Maßnahmen Bei Kindern („Paediatric Life
-	Support“).**
+	Support").**
 	*Notfall + Rettungsmedizin* 18 (8). Springer Berlin
 	Heidelberg: 932–63.
 	doi:\ `10.1007/s10049-015-0095-8 <https://doi.org/10.1007/s10049-015-0095-8>`__.
@@ -2030,7 +2028,7 @@ Z
 
 
 
-.. [GantenMolGrund:97]
+.. [Ganten:1]
 
 	Ganten, Detlev und Klaus Ruckpaul, eds:
 	1997.*Molekular- Und
@@ -2410,7 +2408,7 @@ Z
 
 
 
-.. [LutomskyLeitRett:3]
+.. [Lutomsky:3]
 
 	Lutomsky, Boris und Frank Flake, eds:
 	2003.*Leitfaden Rettungsdienst.*
@@ -2460,7 +2458,7 @@ Z
 	Urban & Fischer.
 
 
-.. [MuellerKnie:1]
+.. [Mueller:1]
 	Müller, Werner:
 	1982.*Das Knie. Form, Funktion Und Ligamentäre
 	Wiederherstellungschirurgie.* Springer-Verlag GmbH.
@@ -2593,7 +2591,7 @@ Z
 
 
 
-.. [PetersenVordereKreuzband:1]
+.. [Petersen:1]
 
 	Petersen, Wolf und Thore Zantop, eds:
 	2009.*Das Vordere Kreuzband.
@@ -3051,7 +3049,7 @@ Z
 
 
 
-.. [UlfigHistologie:1]
+.. [Ulfig:1]
 
 	Ulfig, Norbert:
 	2003.*Kurzlehrbuch Histologie.*

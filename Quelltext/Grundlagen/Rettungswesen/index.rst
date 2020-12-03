@@ -49,7 +49,7 @@ Kennzeichnung
 ^^^^^^^^^^^^^
 
 Die Verwendung der Bezeichnungen "Rettungsdienst" oder
-“Krankentransportdienst” und von Übersetzungen dieser Bezeichnungen in
+"Krankentransportdienst" und von Übersetzungen dieser Bezeichnungen in
 andere Sprachen in Geschäftspapieren, Beschriftungen, Firmennamen oder
 Beschriftungen auf Transportmitteln, die fälschlicherweise den Anschein
 erwecken, dass es sich um einen Rettungs- oder Krankentransportdienst
@@ -213,35 +213,35 @@ Die entsprechenden Protokolle sind zu beachten.
 Funkwagen 249 trifft am Berufungsort ein:
 
     249
-        *“Leitstelle für Zwoneunundvierzig.”*
+        *"Leitstelle für Zwoneunundvierzig."*
 
     Leitstelle
-        *“Kommen Zwoneunundvierzig.”*
+        *"Kommen Zwoneunundvierzig."*
 
     249
-        *“Zwoneunundvierzig ist am BO eingetroffen.”*
+        *"Zwoneunundvierzig ist am BO eingetroffen."*
 
     Leitstelle
-        *“Verstanden Zwoneunundvierzig. Ende.”*
+        *"Verstanden Zwoneunundvierzig. Ende."*
 
 .. rubric:: Beispiel
 
 Der RTW *ABD-Donaustadt* erhält über Sprechfunk einen Einsatz:
 
     Leitstelle
-        *“ABD-Donaustadt für die Leitstelle.”*
+        *"ABD-Donaustadt für die Leitstelle."*
 
     ABD-D
-        *“ABD-Donaustadt hört.”*
+        *"ABD-Donaustadt hört."*
 
     Leitstelle
-        *“Neuer Einsatz – Zweiter Bezirk, Musterstraße – Musterstraße
+        *"Neuer Einsatz – Zweiter Bezirk, Musterstraße – Musterstraße
         Einhundertneunundfünzig, Stiege Zwo, dritter Stock, Tür
         dreiundvierzig – mit sechsundzwanzig-Alpha-eins und Casus
-        zwohundertfünfundsechzigtausend-dreihundertsiebenundzwanzig.”*
+        zwohundertfünfundsechzigtausend-dreihundertsiebenundzwanzig."*
 
     ABD-D
-        *“ABD-Donaustadt hat verstanden und fährt Richtung BO. Ende.”*
+        *"ABD-Donaustadt hat verstanden und fährt Richtung BO. Ende."*
 
 .. table:: Buchstabieralphabetenach ÖNORM A 1081, DIN 5009 und NATO
 
@@ -391,7 +391,7 @@ ist mit mindestens 2, oft auch 3 Fachkräften besetzt
    RTW einem NAW ohne Notarzt entspricht, nicht immer uneingeschränkt
    umgesetzt werden. Probleme ergeben sich insbesonders durch das
    Suchtmittelgesetz und besonders teure Geräte oder Medikamente. In
-   jedem Fall soll aber eine “Umrüstung” vom RTW hin zum NAW während des
+   jedem Fall soll aber eine "Umrüstung" vom RTW hin zum NAW während des
    Einsatzes mit *wenigen Handgriffen* möglich sein.
 
 
@@ -614,7 +614,7 @@ zu finden.
     | **NAW** | Notarztwagen           | 1 NA, 1 NFS, 1--2 RS | Notfallrettung, Überstellungen  |  Versorgung und Transport von Notfallpatienten                         |
     +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
     | **NEF** | Notarzteinsatzfahrzeug | 1 NFS, 1 NA          | Notfallrettung,  Überstellungen | Versorgung von erkrankten Notfallpatienten,                            |
-    |         |                        |                      |                                 | *kein Transport* (“Notarzt-Zubringer”)                                 |
+    |         |                        |                      |                                 | *kein Transport* ("Notarzt-Zubringer")                                 |
     +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
     | **NAH** | Notarzthubschrauber    | 1 Pilot, 1 NFS, 1 NA | Notfallrettung, Überstellungen  | Versorgung und Transport von Notfallpatienten  In Deutschland: *RTH*   |
     +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
@@ -711,7 +711,7 @@ organisieren.
 .. index::
     single: Vier für Wien
 
-Die “Vier für Wien”
+Die "Vier für Wien"
 """""""""""""""""""
 
 Historisch gesehen unterstützen der *Malteser Hospitaldienst Austria*,

@@ -193,7 +193,7 @@ Als wichtigstes Verhältnis in dieser Dreiecksbeziehung ist das
 *Verhältnis zwischen Patient und Rettungsorganisation* zu bezeichnen, da
 direkter (Vertrags-)Partner zum Patient niemals der Sanitäter, sondern
 stets die von ihm vertretene Organisation ist. Man nimmt nämlich an,
-dass ein Patient, wenn er eine “Rettung” verständigt, nicht mit dem
+dass ein Patient, wenn er eine "Rettung" verständigt, nicht mit dem
 einzelnen Einsatzpersonal in rechtlichen Kontakt treten möchte, sondern
 mit der Gesamtheit einer Organisation. (Er bestellt ja nicht dieses eine
 Fahrzeug mit jenem speziellen Personal.) Das Rechtsverhältnis kann nun
@@ -372,7 +372,7 @@ grundsätzlich bei jedem volljährigen Menschen anzunehmen. Nur wenn
 außerordentliche Situationen vorliegen, kann man sie nicht annehmen.
 Solche Situationen wären:
 
--  Psychiatrische Erkrankung, vgl. auch “Unterbringung”,
+-  Psychiatrische Erkrankung, vgl. auch "Unterbringung",
    :ref:`Thema-unterbringung-jus`
 
 -  Starke Berauschung (bei Alkohol ab ca. 2,5)
@@ -398,8 +398,8 @@ Heilbehandlung handelt, muss das Pflegschaftsgericht angerufen werden
 
 .. [59]
    Aus der juristischen Literatur geht nicht eindeutig hervor, ob ein
-   “Schock” im Sinne psychischen Reaktion, oder der “medizinische
-   Schock” im Sinne einer lebensbedrohlichen Kreislaufstörung
+   "Schock" im Sinne psychischen Reaktion, oder der "medizinische
+   Schock" im Sinne einer lebensbedrohlichen Kreislaufstörung
    (:ref:`Thema-schock`) gemeint ist.
 
 Fallbeispiele
@@ -504,7 +504,7 @@ oder nur *subjektiv* angenommen wird [60]_.
 
 .. [60]
    Unter *subjektiv annehmen* versteht man eine Situation, bei der der
-   “Verteidiger” glaubt eine Gefahr zu erkennen, obwohl diese bei
+   "Verteidiger" glaubt eine Gefahr zu erkennen, obwohl diese bei
    späterer Betrachtung gar nicht bestanden hat, was aber zum damaligen
    Zeitpunkt nicht erkennbar war.
 
@@ -835,8 +835,8 @@ Eigenmächtige Heilbehandlung
 
 Von einer *eigenmächtigen
 Heilbehandlung* spricht man, wenn der Patient in die Behandlung *nicht
-einwilligt* bzw. *nicht aufgeklärt* wird. Dies ist nur bei *“Gefahr in
-Verzug”* (*unmittelbar* drohende oder gegenwärtige Gefahr, die ein
+einwilligt* bzw. *nicht aufgeklärt* wird. Dies ist nur bei *"Gefahr in
+Verzug"* (*unmittelbar* drohende oder gegenwärtige Gefahr, die ein
 Abwarten nicht zulässt bzw. unmittelbares Handeln verlangt) zulässig.
 Sonst stellt sie einen gerichtlichen *Straftatbestand* dar [77]_, da sie
 dem Selbstbestimmungsrecht des Patienten zuwider läuft.
@@ -1297,8 +1297,8 @@ Informationspflichten
       jedem Einsatz, bei dem der Verdacht einer strafbaren Handlung
       vorliegt, zumindest die Polizei nachgefordert werden. Die
       Nachalarmierung kann man in weiter Analogie mit der aus 4 SanG
-      entstammenden Pflicht für den Sanitäter *“das Wohl der Patienten
-      […] zu wahren”* begründen.
+      entstammenden Pflicht für den Sanitäter *"das Wohl der Patienten
+      […] zu wahren"* begründen.
 
 
 

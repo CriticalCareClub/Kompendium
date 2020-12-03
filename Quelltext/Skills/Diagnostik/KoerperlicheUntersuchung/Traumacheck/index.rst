@@ -110,8 +110,8 @@ Traumacheck durchgeführt.
 
    -  *Motorik*: Bewegen lassen
 
-   -  *Sensibilität*: *“Spüren Sie das? Welchen Finger habe ich
-      berührt?”*
+   -  *Sensibilität*: *"Spüren Sie das? Welchen Finger habe ich
+      berührt?"*
 
 Bei Hinweis auf eine Schädelverletzung ist ein *Neurocheck*
 (:ref:`Thema-neurocheck`) auf jeden Fall erforderlich!

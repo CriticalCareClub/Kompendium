@@ -217,7 +217,7 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 
 :index:`Onkologie`
     Fachgebiet, welches sich mit der Erkennung, Diagnostik, Therapie und
-    Nachsorge von bösartigen Tumorerkrankungen (“Krebs”) befasst. Die
+    Nachsorge von bösartigen Tumorerkrankungen ("Krebs") befasst. Die
     Onkologie an sich ist ein Teilgebiet der Inneren Medizin, meist ist
     jedoch eine fachübergreifende Behandlung notwendig.
 
@@ -236,11 +236,11 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 :index:`Psychiatrie`
     Die Psychiatrie beschäftigt sich mit der Prävention, Diagnostik und
     Therapie psychischer Störungen. In der Psychiatrie ist es besonders
-    schwierig, zwischen “gesund” und “krank” treffsicher zu
+    schwierig, zwischen "gesund" und "krank" treffsicher zu
     unterscheiden. Eine andere, tendenziell humorvolle Definition besagt
     daher:
 
-        *“Der, der den Schlüssel hat, ist der Arzt.”*
+        *"Der, der den Schlüssel hat, ist der Arzt."*
 
         — Otto Pötzl, nach [Torberg:DEDTJ]_
 
@@ -278,13 +278,13 @@ Sonstige Begriffe
 
 
 :index:`Bolus`
-    #. “Happen”;
+    #. "Happen";
 
     #. Stoßweise Verabreichung eines Medikaments (intravenös)
 
 
 :index:`Cave`
-    “Achtung!”, “Hüte Dich!”
+    "Achtung!", "Hüte Dich!"
 
 
 :index:`Obstruktion`, :index:`Verlegung`
@@ -295,7 +295,7 @@ Sonstige Begriffe
 
 :index:`Pathologie`, :index:`pathologisch`, :index:`Patho-`
     Lehre von den Krankheiten. Als pathologisch wird alles Krankhafte
-    bezeichnet. Die Vorsilbe “Patho” weist auf etwas Abnormales,
+    bezeichnet. Die Vorsilbe "Patho" weist auf etwas Abnormales,
     Krankhaftes hin.
 
 

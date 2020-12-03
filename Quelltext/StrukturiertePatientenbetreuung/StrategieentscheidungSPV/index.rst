@@ -145,7 +145,7 @@ vs. Stabilisierung vor Ort).
 Zielentscheidung beim Primäreinsatz
 ===================================
 
-Beim Primäreinsatz (“Rettungseinsätze”) ist der Transport des Patienten
+Beim Primäreinsatz ("Rettungseinsätze") ist der Transport des Patienten
 die Regel.
 Besonders wichtig ist die *Auswahl des richtigen Zieles*.
 Hierbei muss bedacht werden:
@@ -154,7 +154,7 @@ Hierbei muss bedacht werden:
 
 -   Eventuell benötigte Fachabteilungen,
     welche vor Ort
-    (“im    Hintergrund”) verfügbar sein sollten
+    ("im    Hintergrund") verfügbar sein sollten
     (z. B. Gynäkologie bei Patientinnen mit Bauchbeschwerden)
 
 -   Regionale Regelungen (Bettenkontingente,
@@ -247,7 +247,7 @@ Datenterminals.
    single: Bett, Überwachungs-
    single: Spezialbetten
 
-“Spezialbetten”
+"Spezialbetten"
 ---------------
 
 
@@ -301,8 +301,8 @@ Spitalsbedürftigkeit wieder in das gleiche Spital aufgenommen werden
 sollen oder müssen.
 Das soll einerseits einen reibungsfreieren Ablauf ermöglichen,
 da der Patient im Spital bereits bekannt ist,
-und andererseits ein “Abschieben” von Patienten seitens der Krankenanstalten
-verhindern (“Bumerang-Patient”).
+und andererseits ein "Abschieben" von Patienten seitens der Krankenanstalten
+verhindern ("Bumerang-Patient").
 
 Diese Regelung trifft natürlich nur zu,
 wenn das betreffende Spital über
@@ -320,7 +320,7 @@ Sonderfall: Bettenzusage
 ------------------------
 
 Spitäler können grundsätzlich auf Anfrage von sich aus sog.
-“Bettenzusagen” erteilen.
+"Bettenzusagen" erteilen.
 In der Regel erfolgt dies häufig bei
 Privatspitälern und Patienten
 mit einer privaten Zusatzversicherung,

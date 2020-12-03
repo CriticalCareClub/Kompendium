@@ -65,7 +65,7 @@ sich verschiedene Begriffe eingebürgert:
 -   :dfn:`Arbeitsdiagnose`: Arbeitsdiagnosen sind
     Verdachtsdiagnosen, bei denen eine endgültige Klärung nicht möglich
     ist. Für die Behandlung wird die wahrscheinlichste oder gefährlichste
-    Diagnose ausgewählt um *“am Patienten arbeiten zu können”.*
+    Diagnose ausgewählt um *"am Patienten arbeiten zu können".*
 
 -   :dfn:`Notfalldiagnose`: Eine Notfalldiagnose ist im
     Prinzip eine Arbeitsdiagnose. Der Patient ist dabei in einem Zustand
@@ -80,7 +80,7 @@ sich verschiedene Begriffe eingebürgert:
 
 -   :dfn:`Status post`, :dfn:`Zustand nach`:
     (Abkz.: :abbr:`St. p. (Status post)`, :abbr:`Z. n. (Zustand nach)`)
-    Bezeichnet eine “alte Diagnose”, d. h.
+    Bezeichnet eine "alte Diagnose", d. h.
     eine Erkrankung oder eine Behandlung die einmal durchgemacht wurde.
     z. B.:
 
@@ -91,7 +91,7 @@ sich verschiedene Begriffe eingebürgert:
         einen Herzinfarkt.
 
     Umgangssprachlich wird oft auch der Umstand der zu einer Diagnose
-    geführt hat mit *“Z.n.”* angegeben.
+    geführt hat mit *"Z.n."* angegeben.
 
     -   ``V.a. Schenkelhalsfraktur re., Z.n. Sturz``: Der Patient ist
         gestürzt und hat deshalb möglicherweise eine Schenkelhalsfraktur
@@ -142,7 +142,7 @@ Differentialdiagnosen (DD)
 
 Diagnosen, welche bei den jeweiligen Symptomen auch möglich, jedoch
 weniger wahrscheinlich sind wie jene Diagnose, für welche man sich
-“entscheidet”.
+"entscheidet".
 
 .. rubric:: Beispiel: Patient mit Kopfschmerzen
 

@@ -481,6 +481,6 @@ LITERARY !!!
 -----
 
 .. [278]
-   “Pseudokrupp” bezieht sich auf die Heiserkeit (griech.: pseudo für
-   „unecht“; schottisch: croup, „Heiserkeit“). Der echte
+   "Pseudokrupp" bezieht sich auf die Heiserkeit (griech.: pseudo für
+   „unecht"; schottisch: croup, „Heiserkeit"). Der echte
    Krupp bezeichnet die Kehlkopfentzündung bei Diphtherie.

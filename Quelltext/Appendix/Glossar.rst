@@ -16,7 +16,7 @@ Glossar
         und Veränderungen der Gefäßen führt.
 
     Cave
-        *lat.* *"Hüte Dich vor …"*. Auch: “Achtung, gib Acht!”
+        *lat.* *"Hüte Dich vor …"*. Auch: "Achtung, gib Acht!"
 
     Computertomographie
     CT
@@ -126,7 +126,7 @@ Glossar
 
             Darstellung der Herzkranzgefäße während einer
             Herzkatheteruntersuchung
-            [WmCo “Bionerd”, CC-BY-3.0]
+            [WmCo "Bionerd", CC-BY-3.0]
 
         .. figure:: /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.*
 

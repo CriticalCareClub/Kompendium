@@ -76,15 +76,15 @@ Symptome
 
         -  Evtl. Unterbauchschmerzen bei Stein-/Sandabgang
 
-        -  *“Der Stein wandert, der Schmerz wandert, der Patient wandert”*
+        -  *"Der Stein wandert, der Schmerz wandert, der Patient wandert"*
 
         -  Blut im Harn (Hämaturie)
 
 Die Folge sind massive, kolikartige Schmerzen, in der Flanke bzw. im
 Unterbauch der jeweiligen Seite, welcher auch in den Hoden bzw. in die
 Schamlippen ausstrahlen kann. Im Gegensatz zu anderen abdominellen
-Erkrankungen ist der Patient extrem unruhig und agitiert (*“Der Stein
-wandert, der Schmerz wandert, der Patient wandert”*). Oft läuft er
+Erkrankungen ist der Patient extrem unruhig und agitiert (*"Der Stein
+wandert, der Schmerz wandert, der Patient wandert"*). Oft läuft er
 gestikulierend und wehklagend durch die Gegend. Mitunter ist eine
 entsprechende Vorerkrankung *(Nierensteine)* bereits bekannt und kann
 erfragt werden. Unter Umständen kann Blut im Harn sein.
@@ -140,8 +140,8 @@ Fall kann sich die Infektion weiter ausbreiten und eine Sepsis
 verursachen (:ref:`Thema-sepsis`).
 
 Harnwegsinfektionen werden häufig in Gesundheitseinrichtungen übertragen
-(“Spitalsinfektion”). Problematisch ist hierbei, dass bei derartigen
-Infektionen häufig multiresistente Keime (“Spitalskeime”, gegen
+("Spitalsinfektion"). Problematisch ist hierbei, dass bei derartigen
+Infektionen häufig multiresistente Keime ("Spitalskeime", gegen
 Antibiotika unempfindliche Bakterien, :ref:`Thema-multiresistente-keime`) der
 Auslöser sind, welche deutlich schwieriger zu behandeln sind. Ein
 besonderes Risiko stellen hierbei harnableitende Systeme (Harnkatheter,
@@ -168,7 +168,7 @@ Symptome
 Der Patient klagt über Schmerzen beim Harnlassen, sowie häufigen, aber
 nicht ergiebigen Harndrang. Es können Schmerzen im Nierenlager oder der
 Blasengegend bestehen. Allgemeinsymptome wie Fieber, Müdigkeit und
-“Krankheitsgefühl” sind möglich.
+"Krankheitsgefühl" sind möglich.
 
 Bei der akuten Nierenbeckenentzündung leidet der Patient unter Fieber,
 Flankenschmerzen, häufigen, aber nicht ergiebigen Harndrang sowie
@@ -196,7 +196,7 @@ Akuter Harnverhalt
 Ein :dfn:`Akuter Harnverhalt` :index:`\ <! Akuter Harnverhalt>` ist Abflussbehinderung des
 Harns aus der Harnblase, bei der verschiedene Ursachen möglich sind.
 
-Es ist besonders bei Männern im “besten” oder fortgeschrittenem Alter
+Es ist besonders bei Männern im "besten" oder fortgeschrittenem Alter
 häufig anzutreffen. Hauptursache dafür ist eine altersbedingte
 Vergrößerung der Prostata, die die Harnröhre abschnürt. Davon abgesehen
 können auch alte Narben, Medikamente oder eine Störung der Schließmuskel
@@ -259,7 +259,7 @@ später jedoch nur die Nierentransplantation oder eine
 Nierenersatztherapie (:dfn:`Dialyse` :index:`\ <! Dialyse>`, *Blutwäsche*) zur
 Verfügung. Bei der klassischen Dialyse wird der Patient jeden zweiten
 oder dritten Tag für einige Stunden an eine Maschine angeschlossen,
-welche sein Blut reinigen kann. Die “Dialysefahrten”, also Transport zu
+welche sein Blut reinigen kann. Die "Dialysefahrten", also Transport zu
 einem oder von einem Dialysezentrum, sind eine der Hauptaufgaben des
 Krankentransportdienstes.
 

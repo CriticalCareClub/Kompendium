@@ -33,7 +33,7 @@ Lage des Guedel-Tubus.
 
 .. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus2.*
 
-            zuerst wird der Guedel-Tubus “verkehrt” herum eingeführt
+            zuerst wird der Guedel-Tubus "verkehrt" herum eingeführt
 
 .. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus3.*
 

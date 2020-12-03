@@ -54,8 +54,8 @@ Beschreibung
 
 
 Unter dem Begriff :dfn:`Beanspruchung` versteht man in der
-Technik *“die Auswirkung einer äußeren Belastung auf das Innere eines
-Körpers bzw. eines Werkstoffes”* (**???**). Mechanische Beanspruchung
+Technik *"die Auswirkung einer äußeren Belastung auf das Innere eines
+Körpers bzw. eines Werkstoffes"* (**???**). Mechanische Beanspruchung
 ist also durch die Ausbildung von mechanischen Spannungen
 gekennzeichnet. Analog dazu kann man psychische Beanspruchung als die
 *Entstehung psychischer Spannungszustände* verstehen, die im größeren
@@ -221,19 +221,19 @@ Diesen Rollenkonflikt in einer angenehmen und funktionellen Balance zu
 halten setzt die Bereitschaft zur Selbstreflexion und Auseinandersetzung
 mit persönlichen Grenzen und Emotionen voraus. Diesbzgl.
 Ungleichgewichte können sich einerseits durch das übermäßiges Verhaften
-in der Professionistenrolle (*“Versorgungsroboter”*), andererseits aber
+in der Professionistenrolle (*"Versorgungsroboter"*), andererseits aber
 auch durch *zu hohes Einbringen* persönlicher Gefühlsanteile aufgrund
 von Gefühlsansteckung (=Übernahme der Gefühle des Betroffenen) bis hin
 zur Lähmung durch emotionalen Kontrollverlust (z. B. emotionaler Schock)
 ausdrücken.
 
 Es muss betont werden, dass eine ausgeglichene Rollenaufteilung
-“Sanitäters vs. Person” einen Schutzfaktor (Ressource) darstellt, da sie
+"Sanitäters vs. Person" einen Schutzfaktor (Ressource) darstellt, da sie
 hilft das persönliche vom professionellen zu trennen, aber gleichzeitig
 auch erlaubt seinen persönlichen Stil in die Versorgung einzubringen.
 Dies erfordert jedoch eine ausgewogene Integration der beiden
-dargestellten Aspekte “Sanitäterrolle” und “Rolle als emotionales
-Individuum”. Das Bewusstmachen persönlicher Gefühle und Grenzen – z. B.
+dargestellten Aspekte "Sanitäterrolle" und "Rolle als emotionales
+Individuum". Das Bewusstmachen persönlicher Gefühle und Grenzen – z. B.
 durch *Selbstreflexion*, Gespräche etc. – ist hierbei wesentlich und
 hilfreich.
 
@@ -432,7 +432,7 @@ Aktivierung aller Energiereserven kommt, um Handlungen setzen zu können.
 Werden sämtliche Energiereserven aufgebraucht, setzt anschließend die
 Erschöpfungsphase ein (Überforderung durch chronischen Stress,
 Schwächung der Immunabwehr) – eine Erholungsphase ist erforderlich um
-Energie-Ressourcen “aufzufüllen” und neuerlichen Wiederstand zu
+Energie-Ressourcen "aufzufüllen" und neuerlichen Wiederstand zu
 ermöglichen. Insgesamt wird eine Reaktions-/Alarmbereitschaft erzeugt,
 die ein adäquates Reagieren auf den Stressor ermöglichen soll, solange
 Ressourcen vorhanden sind. Die verschiedenen Phasen sind mit jeweiligen
@@ -448,9 +448,9 @@ biochemische Prozesse.
 Auch im dzt. geläufigen Transaktionalen Stressmodell spielen
 Bewertungsprozesse eine wesentliche Rolle: es unterscheidet eine primäre
 und sekundäre Bewertung. Im ersten Bewertungsschritt wird geprüft „Ist
-ein Reiz oder eine Situation für mich überhaupt relevant?“. Falls ja,
+ein Reiz oder eine Situation für mich überhaupt relevant?". Falls ja,
 folgt die Frage „Stellt er/sie eine Herausforderung oder Bedrohung für
-mich da?“ – hier spielen die Einschätzung des eigenen Könnens und der
+mich da?" – hier spielen die Einschätzung des eigenen Könnens und der
 Aktivationsgrad eine wichtige Rolle. In der zweiten Bewertungsphase wägt
 der Betroffene seine Handlungsmöglichkeiten ab. Erlebt sich der/die
 Betroffene als handlungsfähig kann er /sie entsprechend reagieren und
@@ -496,7 +496,7 @@ sind. [32]_
    Stressreaktion bei chronischem Stress, Immunsuppression aufgrund
    dauernder Cortisol-Ausschüttung, Wachstum/Reparatur und
    Reproduktionsfunktion sind gehemmt. Eine Erholungsphase ist
-   erforderlich um Ressourcen “aufzufüllen” und Wiederstand zu
+   erforderlich um Ressourcen "aufzufüllen" und Wiederstand zu
    ermöglichen.
 
 Psychoneuroendokrines Stressmodell
@@ -543,14 +543,14 @@ stressauslösende Situation zu bewältigen. [36]_.
 
  [37]_
 
--  *Primäre Bewertung*: *“Ist der Reiz für mich überhaupt relevant?”*
-   Wenn ja: *“Ist er eine Herausforderung oder eine Bedrohung?”* Die
+-  *Primäre Bewertung*: *"Ist der Reiz für mich überhaupt relevant?"*
+   Wenn ja: *"Ist er eine Herausforderung oder eine Bedrohung?"* Die
    Beantwortung dieser Fragen hängt von der Einschätzung des eigenen
    Könnens sowie vom Aktivationsgrad ab.
 
--  *Sekundäre Bewertung*: *“Habe ich Handlungsmöglichkeiten?”* Wird
-   diese Frage mit *“Nein”* beantwortet, entsteht Stress; wird sie mit
-   *“Ja”* beantwortet, kann das Individuum entsprechend reagieren und
+-  *Sekundäre Bewertung*: *"Habe ich Handlungsmöglichkeiten?"* Wird
+   diese Frage mit *"Nein"* beantwortet, entsteht Stress; wird sie mit
+   *"Ja"* beantwortet, kann das Individuum entsprechend reagieren und
    geht zum Coping über.
 
 -  *Coping*: problemorientiert
@@ -599,7 +599,7 @@ stressauslösende Situation zu bewältigen. [36]_.
 
 .. [38]
    Theorien Stressmodelle: Den vorgestellten Theorien entsprechend setzt
-   sich das Phänomen “Stress” also aus folgenden Komponenten zusammen:
+   sich das Phänomen "Stress" also aus folgenden Komponenten zusammen:
    dem ideellen *Gleichgewicht (Homöostase)* einer Person, das, abhängig
    von ihrer *individuellen angeborenen bzw. erworbenen
    Stressvulnerabilität, persönlichen Bewertungsprozessen* zur Relevanz
@@ -610,14 +610,14 @@ stressauslösende Situation zu bewältigen. [36]_.
    erneute Bewertungsprozesse schätzen den Erfolg oder Misserfolg ein.
    Intensive kritische oder chronisch belastende Situationen können
    *Fehlregulationen* in Gang setzten, die pathologische Folgen haben
-   können (siehe Kapitel “Stressauswirkungen”).
+   können (siehe Kapitel "Stressauswirkungen").
 
    Hervorgehoben werden soll, dass demzufolge die Bewertungsprozesse und
    ein daran geknüpftes Gefühl der Handlungsmöglichkeit einen
    maßgeblichen Einfluss auf das Stresserleben ausübt. Daraus
    abgeleitete Implikationen zur positiven Stressbewältigung sollen in
-   den Kapiteln “Stressbewältigung” und “Grundsätze der
-   Stressvermeidung” behandelt werden.
+   den Kapiteln "Stressbewältigung" und "Grundsätze der
+   Stressvermeidung" behandelt werden.
 
 
 .. _Thema-unterforderung-psi:
@@ -666,16 +666,16 @@ Ableitungen für den Sanitätsdienst:
    Person unterschiedlich.
 
 -  Im Sinne der Stressvermeidung wäre es wichtig, Sensibilität für sein
-   persönliches Erregungsprofil zu entwickeln, z. B. “Fühle ich mich
+   persönliches Erregungsprofil zu entwickeln, z. B. "Fühle ich mich
    generell eher angespannt oder aufgeregt? Wie fühle ich mich jetzt
    gerade? Auf welche Auslöser/Situationen reagiere ich besonders
-   stark?”
+   stark?"
 
 -  Es bestehen Möglichkeiten der Einflussnahme, Techniken sein
    persönliches Aktivierungsniveau zu beeinflussen können
    erlernt/gefördert werden: Aktivierung durch persönliche Zielsetzung,
    betrachten einer Aufgabe als Herausforderung etc. ebenso wie
-   Entspannung durch pos. Selbstinstruktion (*“ich schaffe das”*),
+   Entspannung durch pos. Selbstinstruktion (*"ich schaffe das"*),
    Atemtechniken (bewusstes ruhiges Atmen), bewusste Pausen etc.
 
 *******************************************************
@@ -715,7 +715,7 @@ Früherkennung nicht unbedingt leicht. Hervorzuheben ist, dass die
 *eigene Selbstwahrnehmung* (v.a. im Bezug auf Gefühle und Stimmungen)
 und *Introspektion* den erstmöglichen Zugang bietet, da der Betroffene
 selbst auf gedanklich-emotionaler Ebene wohl die erste Chance bekommt,
-die Vorboten von Distress zu erkennen bzw. am eigenen Leib zu “spüren”.
+die Vorboten von Distress zu erkennen bzw. am eigenen Leib zu "spüren".
 Da viele der o.g. Auswirkungen aber sehr *subtil bzw. schleichend
 sukzessive* erfolgen bzw. auch durch unbewusste Abwehrmechanismen (z. B.
 Verdrängung) sich der bewussten Wahrnehmung häufig entziehen, kann eine
@@ -766,8 +766,8 @@ Beanspruchungsfolgen
 
 
 .. [39]
-   *griech.* kynismós, wörtlich “Hündigkeit” im Sinne von “Bissigkeit”,
-   von *griech.* kyon, “Hund”) bezeichnete ursprünglich die
+   *griech.* kynismós, wörtlich "Hündigkeit" im Sinne von "Bissigkeit",
+   von *griech.* kyon, "Hund") bezeichnete ursprünglich die
    Lebensanschauung und -weise der antiken Kyniker (philosophische
    Richtung der griechischen Antike, deren Zentrale Grundhaltung der
    ethischen Skeptizismus darstellt.
@@ -778,8 +778,8 @@ Beanspruchungsfolgen
    Menschen aufgrund wahrgenommener Feindseligkeit im Umgang
    miteinander), sondern auch mit ungünstigen gesundheitlichen
    Konsequenzen einhergehen kann, zeigt die folgende Untersuchung. Die
-   Studie “Hostility, the Metabolic Syndrome, and Incident Coronary
-   Heart Disease” (Niaura et al. 2002) ist dem Zusammenhang zwischen
+   Studie "Hostility, the Metabolic Syndrome, and Incident Coronary
+   Heart Disease" (Niaura et al. 2002) ist dem Zusammenhang zwischen
    Feindseligkeit und der Schwere koronarer Herzerkrankungen
    nachgegangen. Zwei potentielle Wirkmechanismen wurden für den hohen
    positiven Zusammenhang angenommen, nämlich, dass Personen mit hohen
@@ -796,10 +796,10 @@ Pathologische Phänomene
 
 Im Extremfall können andauernde oder sehr intensive
 Belastungssituationen klinische Zustandsbilder im Sinne psychischer
-Erkrankungen auslösen, wobei betont sei, dass er Übergang von “psychisch
-gesund” zu “psychisch krank” ein fließender ist
+Erkrankungen auslösen, wobei betont sei, dass er Übergang von "psychisch
+gesund" zu "psychisch krank" ein fließender ist
 ``!!! A !!!(siehe Exkurs Diagnosestellung)``. Exemplarisch sei hier auf
-die Phänomene “Burnout” und “Traumafolgestörungen” eingegangen, da diese
+die Phänomene "Burnout" und "Traumafolgestörungen" eingegangen, da diese
 Folgen chronischen bzw. besonders intensiven emotionalen
 Belastungsgeschehens darstellen können.
 
@@ -820,7 +820,7 @@ Folgenden werden zwei unterschiedliche Abgrenzungsversuche dargestellt:
    einer *Diskrepanz zwischen dem Helferideal* – also den eigenen
    Ansprüchen als Helfer – *und der Wirklichkeit des Helfens*. [42]_
 
-   *“Before you get burned-out you have to get on fire”*
+   *"Before you get burned-out you have to get on fire"*
 
    -  Perfektionismus, Zwanghaftigkeit
 
@@ -874,20 +874,20 @@ Folgenden werden zwei unterschiedliche Abgrenzungsversuche dargestellt:
    Erkrankungen (v.a. depressiven Erkrankungen) sich als entsprechend
    schwierig erweist, weswegen bisher nach ICD-10 (Deutsches Institut
    für Medizinische Information und Dokumentation 2011) ausschließlich
-   die *Hilfsdiagnose Z73.0 “Ausgebranntsein”*, *“Zustand der totalen
-   Erschöpfung”* existiert.
+   die *Hilfsdiagnose Z73.0 "Ausgebranntsein"*, *"Zustand der totalen
+   Erschöpfung"* existiert.
 
 .. [42]
-   *“Burnout wird in Gang gesetzt durch Autonomieeinbußen in gestörten
+   *"Burnout wird in Gang gesetzt durch Autonomieeinbußen in gestörten
    Auseinandersetzungen des Individuums mit seiner Umwelt, genauer:
    durch die innere Repräsentation solcher Interaktionen als gestörter
-   und das Scheitern bei ihrer Bewältigung”* [Burisch, :1994]
+   und das Scheitern bei ihrer Bewältigung"* [Burisch, :1994]
 
 .. [43]
-   *“ Burnout ist ein Syndrom emotionaler Erschöpfung,
+   *" Burnout ist ein Syndrom emotionaler Erschöpfung,
    Depersonalisierung und reduzierter persönlicher Leistungsfähigkeit,
    das bei Individuen, die in irgendeiner Weise mit Menschen arbeiten,
-   auftreten kann”* [Maslach & Jackson, :1984]
+   auftreten kann"* [Maslach & Jackson, :1984]
 
 .. [44]
    Maslach, 1982; Frieling & Sonntag, 1999; Bergner, 2003
@@ -972,8 +972,8 @@ Hilflosigkeit oder Entsetzen* reagiert. Für eine exemplarische
 Auflistung möglicher Traumaereignisse siehe Fehlregulationsmodell.
 Hervorzuheben ist jedoch deutlich, dass unabhängig von der Art des
 Ereignisses das *subjektive Erleben des/r Betroffenen entscheidend* ist,
-also *“nicht die objektive, sondern die subjektive Bedrohlichkeit eines
-Traumas die posttraumatische Symptombelastung vorhersagt”*\  [46]_. Um
+also *"nicht die objektive, sondern die subjektive Bedrohlichkeit eines
+Traumas die posttraumatische Symptombelastung vorhersagt"*\  [46]_. Um
 ein ungefähres Bild darüber zu bekommen, wie etwaige Folgen einer
 Traumatisierung sich gestalten können, sind im Folgenden Abschnitt die
 jeweiligen Diagnosebeschreibungen laut ICD-10 und phänomenolgischen
@@ -994,7 +994,7 @@ Stunden oder Tagen abklingt. Die individuelle Vulnerabilität und die zur
 Verfügung stehenden Bewältigungsmechanismen (Coping-Strategien) spielen
 bei Auftreten und Schweregrad der akuten Belastungsreaktionen eine
 Rolle. Die Symptomatik zeigt typischerweise ein gemischtes und
-wechselndes Bild, beginnend mit einer Art von “Betäubung”, mit einer
+wechselndes Bild, beginnend mit einer Art von "Betäubung", mit einer
 gewissen Bewusstseinseinengung und eingeschränkten Aufmerksamkeit, einer
 Unfähigkeit, Reize zu verarbeiten und Desorientiertheit. Diesem Zustand
 kann ein weiteres Sichzurückziehen aus der Umweltsituation folgen (bis
@@ -1049,7 +1049,7 @@ Verhaltensregeln von Vorteil sein:
 
 -   Aufmerksamkeit aufs Hier und Jetzt lenken
 
-–   alles nach dem Motto: *“Begleiten, aber nicht aufdrängen”*, denn es
+–   alles nach dem Motto: *"Begleiten, aber nicht aufdrängen"*, denn es
     handelt sich um eine *normale Reaktion* auf eine *unnormale Situation*
     und in der Regel verfügen die Betroffenen über
     *Selbstregulationsmechanismen* zur Bewältigung. Ggfs. kann auch auf
@@ -1147,7 +1147,7 @@ Misstrauen zurückzuführen sein, dennoch sind auch in der empathischen
 Helferrolle die persönliche Grenzen klar aufzuzeigen (siehe
 Sekundärtraumatisierung). Das Schaffen einer ruhigen Atmosphäre kann
 Schreckreaktionen vermeiden, jedenfalls könnten solche, sollten sie
-ausgelöst werden, als “normale” Folge des Krankheitsbildes im Sinne der
+ausgelöst werden, als "normale" Folge des Krankheitsbildes im Sinne der
 Hypervigilanz bewertet werden. Hervorzuheben ist, dass bei
 PTSD-Betroffenen keines der oben genannten Leitsymptome manifest sein
 muss, da viel bereits über langjährige Symptomkompetenz verfügen bzw.
@@ -1238,7 +1238,7 @@ Anzeichen einer Sekundärtraumatisierung sind
    Grausamkeit, Machtmissbrauch und Destruktivität.
 
 -  Verlust von Lebensfreude und Arbeitsfreude, Empathiemüdigkeit,
-   „Seelenverlust“, „Psychische Ansteckung“, Gefühle der Verstörung,
+   „Seelenverlust", „Psychische Ansteckung", Gefühle der Verstörung,
 
 -  Bedrohung der Bedürfnisse nach Sicherheit und Geborgenheit in der
    Welt, Verunsicherung der eigenen Identität, Zusammenbruch der
@@ -1257,10 +1257,10 @@ Stressbewältigung
 Das Copingkonzept
 =================
 
-**Stressbewältigung**  (:dfn:`Coping`) ist der *“Prozess der
+**Stressbewältigung**  (:dfn:`Coping`) ist der *"Prozess der
 Handhabung jener externen oder internen Anforderungen, die vom
 Individuum als die eigenen Ressourcen beanspruchend oder übersteigend
-bewertet werden”*. [47]_
+bewertet werden"*. [47]_
 Bei *Copingstrategien* handelt
 es sich um alle *kognitiven, emotionalen und behaviouralen
 Anstrengungen*, die dazu dienen *Belastung und Stress zu
@@ -1316,9 +1316,9 @@ interpretiert werden, weshalb es schwierig ist einen systematischen
 Überblick zu geben.
 
 Grundsätzlich können Bewältigungsversuche belastenden Ereignissen
-entweder *ereignisbezogen* (z. B. *“Für dieses Problem muss es doch eine
-Lösung geben”*) oder *selbstzentriert* (*“Hätte ich doch nur nicht so
-gehandelt …”*).
+entweder *ereignisbezogen* (z. B. *"Für dieses Problem muss es doch eine
+Lösung geben"*) oder *selbstzentriert* (*"Hätte ich doch nur nicht so
+gehandelt …"*).
 
 Um eine Stresssituation zu meistern, suchen manche nach *sozialer
 Unterstützung*, holen sich Hilfe bzw. Ratschläge bei Familie, Freunden
@@ -1354,7 +1354,7 @@ Folgende Arten von Coping lassen sich unterscheiden[ZimbardoPsych:6]_ :
    Gegebenheiten anzupassen. Diese Copingstrategie orientiert sich an
    der Ebene der Situation bzw. des Reizes, z. B. Großschadensereignis
    als massiver Stressor → Informationssuche („Was ist passiert, wer ist
-   wie betroffen?“) um Klarheit zu schaffen und weitere Schritte planen
+   wie betroffen?") um Klarheit zu schaffen und weitere Schritte planen
    zu können, gezielte Behandlungsinterventionen nach Plan abarbeiten,
    Hektische und komplizierte Handlungen vermeiden.
 
@@ -1382,8 +1382,8 @@ Folgende Arten von Coping lassen sich unterscheiden[ZimbardoPsych:6]_ :
    unterschiedlicher Bewältigungsstrategien. z. B.:
    Neubewertung/-einschätzung nach Abklingen erster alarmierender,
    lähmender Emotionen: „Die Situation scheint ernst, aber nicht
-   aussichtslos.“ „Ich kann nicht alle ungünstigen Bedingungen
-   beeinflussen, aber x,y und z könnte ich verändern...“
+   aussichtslos." „Ich kann nicht alle ungünstigen Bedingungen
+   beeinflussen, aber x,y und z könnte ich verändern..."
 
 Die Theorie der Ressourcenerhaltung
 ===================================
@@ -1516,7 +1516,7 @@ Kohärenzgefühl eingegangen.
    schwer handzuhaben sind, eher aus.
 
 -  *Erfolgreicherer Umgang mit Stressoren*: Personen mit hohem
-   Kohärenzgefühl “verarbeiten” Stressoren erfolgreicher, was zu
+   Kohärenzgefühl "verarbeiten" Stressoren erfolgreicher, was zu
    Spannungsreduktion und Vermeidung von Schädigung führe.
 
 Inwieweit sich diese von Antonovsky postulierten Grundhaltungen
@@ -1546,7 +1546,7 @@ Folgerungen* ableiten:
    kann. Sowohl sehr niedrige (kein Sinnerleben mehr in der Tätigkeit)
    als auch hohe Bedeutsamkeit (Übereifer, Überidentifikation,
    Überverantwortlichkeit)kann Stressfolge als auch -wirkung sein und
-   könnte als persönlicher „Thermometer“ einen Hinweis auf Stressfolgen
+   könnte als persönlicher „Thermometer" einen Hinweis auf Stressfolgen
    (siehe auch: Sekundärtraumatisierung, Burnout) darstellen.
 
 .. todo:: !!! A !!!Keywords: Stressbewältigung, Copingstrategien (Exkurs: Proaktives Coping), Theorie der Ressourcenerhaltung, Kohärenzgefühl, (Resilienz), (Abwehrmechanismen).
@@ -1583,7 +1583,7 @@ z. B. Einsätze,
     besonders großem *Zeitdruck* ablaufen.
 
 Häufig werden diese Situationen von einer psychophysischen Übererregung
-im Sinne des oben beschriebenen Erregungsniveaus (siehe “Aktivierung”)
+im Sinne des oben beschriebenen Erregungsniveaus (siehe "Aktivierung")
 einhergehen, sodass das jeweilige Notfallgeschehen und die
 durchzuführenden Maßnahmen nicht mehr als durchaus positiv bewertete
 Herausforderung, sondern eher negativ, d.h. als eine Belastung bzw.
@@ -1601,10 +1601,10 @@ Verschiedene Symptome weisen auf eine hohe Belastung von
 professionellen Helfern hin (siehe Tabellen) und können Hinweise bzw.
 Warnsignale darstellen, entsprechend zu intervenieren (siehe
 Psychologische Selbsthilfe). Um diese möglichst frühzeitig zu erkennen
-sollten *“Einsatzkräfte [...] daher auch unmittelbar im Einsatzgeschehen
+sollten *"Einsatzkräfte [...] daher auch unmittelbar im Einsatzgeschehen
 auf ihre eigene Befindlichkeit achten und ihre psychische Situation
 angemessen beurteilen, ohne sich selbst zu über- oder zu unterschätzen
-”*\  [51]_.
+"*\  [51]_.
 
 
 .. [51]
@@ -1615,9 +1615,9 @@ Präventive Strategien
 =====================
 
 Die folgenden beschriebenen Strategien sollen vorwiegend darauf
-abzielen, *“die Handlungsfähigkeit eines Helfers in einer absoluten
+abzielen, *"die Handlungsfähigkeit eines Helfers in einer absoluten
 Ausnahmesituation und nur für eine relativ kurze Zeit aufrecht zu
-erhalten”* und dienen nicht generelle als langfristige Methoden zur
+erhalten"* und dienen nicht generelle als langfristige Methoden zur
 Stressbewältigung [Karutz:200912]_ .
 
 Einstellung
@@ -1651,11 +1651,11 @@ kompetenter Hilfeleistung kaum oder nicht beeinflussbar sind. Weiters
 kann die Entstehung unbegründeter Schuldgefühle und Selbstvorwürfe bzw.
 einem Gefühl der Überverantwortlichkeit durch eine realistische
 Einschätzung der Handlungsmöglichkeiten vorgebeugt werden.
-*“Rettungsdienstmitarbeiter können das tun, was menschlich bzw. fachlich
+*"Rettungsdienstmitarbeiter können das tun, was menschlich bzw. fachlich
 unter den gegebenen Bedingungen möglich ist – sie sollten sich aber auch
 zugestehen, dass dies in einigen Fällen nun einmal nicht ausreicht: 70
 bis 95 Prozent der Reanimationsversuche enden beispielsweise erfolglos,
-so sehr man sich dies sicherlich anders wünschen würde”*\  [55]_.
+so sehr man sich dies sicherlich anders wünschen würde"*\  [55]_.
 
 .. [52]
    Ungerer, 1999 zitiert nach [Karutz:200912]_
@@ -1679,10 +1679,10 @@ Einsatz einen gewissen Grad an Aufregung wahrzunehmen sollte somit nicht
 gleich einen Grund zur Sorge oder gar Scham darstellen. Aktivierung
 bewirkt über die Ausschüttung von Stresshormonen entsprechend des
 Yerkes-Dodson-Gesetzes zunächst eine Leistungssteigerung im Organismus:
-*“Die Konzentrationsfähigkeit steigt, die Muskulatur wird besser
+*"Die Konzentrationsfähigkeit steigt, die Muskulatur wird besser
 durchblutet usw. Es werden also die Grundvoraussetzungen geschaffen, auf
 die Anforderungen der Versorgungssituation adäquat reagieren zu
-können”*, d.h.. [56]_ Ebenso stellt das Erleben einer gewissen Angst ein
+können"*, d.h.. [56]_ Ebenso stellt das Erleben einer gewissen Angst ein
 evolutionär verankertes Frühwarnsystem dar, das Wachsamkeit und Vorsicht
 fördert und daher nicht generell als negativ bewertet werden sollte,
 sofern sie nicht lähmend wirkt.
@@ -1700,27 +1700,27 @@ Die einzelnen Maßnahmen zu strukturieren, nach Prioritäten zu ordnen und
 die wichtigsten Handlungsrichtlinien (s. unten) durchzudenken kann das
 eigene Sicherheitsgefühl stärken und Halt geben:
 
--  *“Eigenschutz geht immer vor!”*
+-  *"Eigenschutz geht immer vor!"*
 
--  *“Tue nur das, was Du sicher beherrschst”*
+-  *"Tue nur das, was Du sicher beherrschst"*
 
--  *“Behandle zuerst, was zuerst tötet”*
+-  *"Behandle zuerst, was zuerst tötet"*
 
--  *“Erst einmal Platz schaffen, damit man gut arbeiten kann!”*
+-  *"Erst einmal Platz schaffen, damit man gut arbeiten kann!"*
    usw. [57]_.
 
 Ebenso kann das in Erinnerung rufen wichtiger Behandlungsmodule z. B. das
 ABC der Reanimation, die einzelnen Phasen der Traumaversorgung oder die
-4-S-Sätze zur Psychischen Ersten Hilfe. *“Ebenso zweckmäßig ist das
+4-S-Sätze zur Psychischen Ersten Hilfe. *"Ebenso zweckmäßig ist das
 Abarbeiten von Checklisten oder Algorithmen: Je mehr diese in der
 Ausbildung verinnerlicht worden sind, umso eher werden sie auch in einer
 Stresssituation noch angewendet bzw. automatisiert abgerufen werden
-können”* [Karutz:200912]_ .
+können"* [Karutz:200912]_ .
 
 .. [57]
    Karutz , 2003 zitiert nach [Karutz:200912]_
 
-Mentale Vorbereitung, Alternativen planen (“Plan B”)
+Mentale Vorbereitung, Alternativen planen ("Plan B")
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Gemeint ist damit, alternative Handlungsmöglichkeiten zu überlegen bzw.
@@ -1741,9 +1741,9 @@ Beispiele an:
 -  In Großschadenslagen eventuell kleinere Pausen einlegen, um etwas zu
    trinken oder zu essen.
 
--  Sich notfalls ablösen zu lassen. Dieses sollte nicht *“als
+-  Sich notfalls ablösen zu lassen. Dieses sollte nicht *"als
    persönliches Versagen interpretiert werden, eher handelt es sich um
-   den Ausdruck realistischer Selbsteinschätzung”*\  [58]_.
+   den Ausdruck realistischer Selbsteinschätzung"*\  [58]_.
 
 
 .. [58]
@@ -1757,12 +1757,12 @@ Bewertungsprozesse bei der Verarbeitung von Stress einen wesentlichen
 Faktor dar: dies lässt sich auch auf Notfallsituationen anwenden, im
 Sinn eines positiven Umdeutens [BengelPsyNotfallmedRd2-PsyBelRdPers]_  durch
 problemschwächende Interpretationen
-(z. B. “Eine solche Verletzung ist
-beim heutigen Stand der Medizin doch kein Problem mehr”)
+(z. B. "Eine solche Verletzung ist
+beim heutigen Stand der Medizin doch kein Problem mehr")
 oder
 Realativierungen durch zeitliche und soziale Vergleiche
-(z. B. *“Im
-Vergleich zu den anderen hatte ich großes Glück”*).
+(z. B. *"Im
+Vergleich zu den anderen hatte ich großes Glück"*).
 
 Positive Selbstinstruktion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1773,11 +1773,11 @@ innere Zustände verstärken oder abschwächen, im negativen wie im
 positiven.
 Sich selbst zu beruhigen
 (*"Keine Panik, nur die Ruhe"*),
-Mut zuzusprechen (“Du schaffst das”),
+Mut zuzusprechen ("Du schaffst das"),
 Trost zu spenden (*"Jeder macht mal Fehler"*) kann helfen
-*“impulsive Reaktionen zu
+*"impulsive Reaktionen zu
 unterdrücken [...], die eigene Aufmerksamkeit und Konzentration auf eine
-Aufgabe zu richten und Frustration und Misserfolg zu kontrollieren”*
+Aufgabe zu richten und Frustration und Misserfolg zu kontrollieren"*
 [BengelPsyNotfallmedRd2-PsyBelRdPers]_ .
 
 .. todo:: !!! A !!!Gedankenstopp - Imagination: Damit ist gemeint, dass man die eigene Phantasie nutzt und sich hilfreiche Dinge vorstellt. Wer seine Rettungsdienstjacke bewusst anzieht und zuknöpft, kann sich z. B. gedanklich ausmalen, dass die Jacke – wie eine Rüstung oder eine Art Panzerung – auch einen psychischen Schutz bewirkt. Ebenso denkbar ist die Vorstellung eines unsichtbaren Helfers oder Beschützers. In diesem Zusammenhang können durchaus auch religiöse Vorstellungen hilfreich sein. Sich aufdrängende negative Gedanken lassen sich mit der Technik des Gedankenstopps unterbrechen. Auch dabei handelt es sich letztlich um ein imaginatives Verfahren.
@@ -1789,7 +1789,7 @@ Aufgabe zu richten und Frustration und Misserfolg zu kontrollieren”*
 *Ressourcen vor Augen halten*: Im Sinne des Kohärenzgefühls bzw. der
 Theorie der Ressourcenerhaltung kann es helfen sich die persönlichen,
 materiellen oder sozialen Ressourcen bewusst zu machen um Anspannung zu
-vermindern. *“So ist man bei einem Einsatz im Rettungsdienst
+vermindern. *"So ist man bei einem Einsatz im Rettungsdienst
 üblicherweise niemals allein. Die Kameraden sind ebenfalls vor Ort, d.h.
 man arbeitet immer in einem Team. Zu den materiellen Ressourcen gehört
 die persönliche Schutzausrüstung, aber auch die Ausstattung des
@@ -1801,23 +1801,23 @@ gut gerüstet, jetzt kann es losgehen!"* [Karutz:200912]_ .
 *Zeitliche Grenzen verdeutlichen*: Einsätze haben einen zeitlichen
 Rahmen, d.h. sie haben einen Beginn, aber ebene auch bei komplexeren
 Einsätzen (selbst Großschadenslagen) – ein Ende.
-*“In der Regel sind
+*"In der Regel sind
 Einsätze […] innerhalb weniger Stunden abgeschlossen. Man ist den
 jeweiligen Belastungen also nicht ewig, sondern lediglich für einen
 definierten Zeitraum ausgesetzt. Dies sollte man sich bewusst vor Augen
-führen”* [Karutz:200912]_ .
+führen"* [Karutz:200912]_ .
 
 *Zusätzliche Stressoren meiden*: Wenn die Belastung durch das Notfalls
 geschehen ohnehin schon spürbar hoch ist, gilt es zusätzliche
 Belastungsfaktoren zu minimieren bzw. auszuweichen um das
 Erregungsniveau auf angenehmen bzw. leistungsfähigem Level zu halten.
-[Karutz:200912]_  prägt hier den Begriff der “hilfreiche Langsamkeit”, d.h.
-“gerade wenn man es eilig hat, eben nicht wie bei einem sportlichen
-Wettkampf zu rennen”, zum Einsatzort zu “rasen”, den Funk im Fahrzeug
+[Karutz:200912]_  prägt hier den Begriff der "hilfreiche Langsamkeit", d.h.
+"gerade wenn man es eilig hat, eben nicht wie bei einem sportlichen
+Wettkampf zu rennen", zum Einsatzort zu "rasen", den Funk im Fahrzeug
 nicht unnötig laut einzustellen sowie Äußerungen zu vermeiden, mit denen
 man Hektik erzeugt
-(z. B. , *“Gas, Gas, Gas! Wir müssen vor dem NEF da
-sein!”*).
+(z. B. , *"Gas, Gas, Gas! Wir müssen vor dem NEF da
+sein!"*).
 
 Langfristige Strategien
 -----------------------
@@ -1828,7 +1828,7 @@ Erholung
 Sie dient dazu – im Sinne der oben dargestellten Stresskonzepte – das
 homöostatische Gleichgewicht wiederherzustellen, Widerstandsenergien
 erneut aufzubauen, Ressourcen zu nutzen und zu erweitern, symbolisch
-gesprochen also “die persönlichen Energietanks wieder aufzufüllen” und
+gesprochen also "die persönlichen Energietanks wieder aufzufüllen" und
 auf neuerliche Stresssituationen vorzubereiten. Während der Relaxation
 werden Entspannungsreaktionen eingeleitet, die komplementär zur
 Stressreaktion von physiologischen Prozessen begleitet werden, nämlich
@@ -1852,7 +1852,7 @@ bewusst, sondern sukzessive und unterschwellig ab. Während des Einsatzes
 führen diverse Copingstrategien dazu, Anspannung in Grenzen zu halten
 bzw. damit einhergehende unangenehme emotionale Zustände (Ärger, Wut,
 Trauer etc.) hintanzustellen bzw. zu unterdrücken, um handlungsfähig zu
-bleiben und “kühlen Kopf zu wahren”. Diese zunächst angestauten Affekte
+bleiben und "kühlen Kopf zu wahren". Diese zunächst angestauten Affekte
 können sich aber zu einem weit späteren Zeitpunkt im Stützpunkt oder
 daheim entladen, z. B. durch Frustrationsgefühle bis hin zu aggressiven
 Verhalten gegenüber anderen, ohne dass diese überschießenden Reaktionen
@@ -1863,8 +1863,8 @@ ist, sie durch gezielte Selbstbeobachtung (in sich hören,
 Körperwahrnehmung) zu identifizieren, innerlich zuzulassen und im
 Idealfall auch auszudrücken. Bengel [BengelPsyNotfallmedRd2-PsyBelRdPers]_  betont,
 dass gereizte-aggressive unkontrollierte Emotionsäußerungen ineffektiv
-sind und es wichtig wäre “unangenehme Gefühle in einer kontrollierten
-und für die Umwelt sozial verträglichen Art und Weise abzureagieren”.
+sind und es wichtig wäre "unangenehme Gefühle in einer kontrollierten
+und für die Umwelt sozial verträglichen Art und Weise abzureagieren".
 Eine Möglichkeit bestünde in Gesprächen mit einem guten Freund,
 Angehörigen, Kollegen. Unspezifische Frustrationen im Sinne von
 Anspannung, innerer Unruhe, negativen Gedanken können auch durch das
@@ -1887,7 +1887,7 @@ psychohygienischen sondern auch teamfördernden Charakter haben und
 ermöglichen einen informellen Austausch, auch im Sinne einer Möglichkeit
 Gefühle, Sorgen, Ängste auszudrücken und Unterstützung zu suchen.
 Rituale im Privaten z. B. ein Spaziergang nach der Arbeit, der abendlich
-*“Wohlfühl-Tee”* oder der Besuch des Lieblingsgeschäfts signalisieren
+*"Wohlfühl-Tee"* oder der Besuch des Lieblingsgeschäfts signalisieren
 evtl. sogar den Beginn von Entspannungsphasen und können als
 konditionierter Reiz wird.
 
@@ -1895,8 +1895,8 @@ Unterstützung durch die Umwelt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Zimbardo [ZimbardoPsych:6]_  verweist auf die Bedeutung sozialer
-Unterstützung bei der Stressbewältigung und meint damit *“Ressourcen,
-die von anderen Personen bereitgestellt werden [...]”*. Beispielhaft
+Unterstützung bei der Stressbewältigung und meint damit *"Ressourcen,
+die von anderen Personen bereitgestellt werden [...]"*. Beispielhaft
 zählt er materielle Hilfen, emotionale Unterstützung (Fürsorge,
 Wertschätzung, Sympathie, Zugehörigkeitsgefühl) und Zuwendung durch
 Information (Ratschläge, Feedback) auf. Soziale Netze zu entwickeln,

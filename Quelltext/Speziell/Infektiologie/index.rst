@@ -23,7 +23,7 @@ knochenmarkschädigende Therapien und Allergien ausgeführt:
 -  *Knochenmarkschädigende Therapien*: Einige medizinische
    Behandlungsmethoden verursachen als Nebenwirkung eine massive
    *Schädigung des Knochenmarks* (z. B. Bestrahlung, Chemotherapien bei
-   Krebspatienten (“onkologische Patienten”), etc.). Diese Patienten
+   Krebspatienten ("onkologische Patienten"), etc.). Diese Patienten
    leiden neben einer Blutarmut auch an einem schwachen Immunsystem, da
    nicht genügend weiße Blutkörperchen gebildet werden. Sie können daher
    sehr leicht schwerwiegende Infektionen bekommen. Diese Patienten sind
@@ -33,7 +33,7 @@ knochenmarkschädigende Therapien und Allergien ausgeführt:
    fälschlicherweise gegen an sich ungefährliche Stoffen aktiv werden,
    man spricht dann von einer :dfn:`Allergie` :index:`\ <! Allergie>`. Im
    leichtesten Fall kommt es bei Kontakt mit dem auslösenden Stoff zu
-   einer Schleimhautreizung (“laufende Nase”), Augenrötung, tränen,
+   einer Schleimhautreizung ("laufende Nase"), Augenrötung, tränen,
    einer lokalen Rötung bzw. einem Juckreiz. Je nach Stärke der Allergie
    sowie Dauer und Intensität des Kontakts kann es aber auch zu
    lebensbedrohlichen Zuständen wie dem anaphylaktischen Schock kommen
@@ -149,7 +149,7 @@ rasch als möglich einzudämmen.
 Die jüngste Entwicklung war die Übertragung des Stammes vom Schwein auf
 den Menschen in Mexiko im Frühjahr 2009 (:dfn:`Schweinegrippe` :index:`\ <! Schweinegrippe>`). Der neue Stamm breitete sich sehr rasch um die ganze
 Welt aus, *die Erkrankung verlief jedoch recht mild*. Bemerkenswert war
-jedoch, dass – anders als bei einer “normalen Grippe” üblich – besonders
+jedoch, dass – anders als bei einer "normalen Grippe" üblich – besonders
 junge Menschen infiziert wurden.
 
 Man darf gespannt sein was die Zukunft bringt …
@@ -159,7 +159,7 @@ Grippaler Infekt
 ================
 
 Die Verkühlung ist eine Infektion der oberen Luftwege mit Viren,
-allerdings mit anderen als bei der “echten Grippe” (Influenza). Die
+allerdings mit anderen als bei der "echten Grippe" (Influenza). Die
 Symptome ähneln denen der Grippe, allerdings sind sie bei weitem nicht
 so stark ausgeprägt. Im Vordergrund stehen Halsschmerzen, Husten,
 rinnende oder verstopfte Nase und eine eher leicht erhöhte Temperatur.
@@ -338,7 +338,7 @@ versterben kann:
 
 -   *Infektionen* mit normalerweise harmlosen Erregern
 
-    -   Pilze, “fakultative” Erreger, “Opportunisten”, seltene Arten der
+    -   Pilze, "fakultative" Erreger, "Opportunisten", seltene Arten der
         Lungenentzündung
 
 -   *Tumore*
@@ -358,7 +358,7 @@ nach der eigentlichen HIV-Infektion aus.
 
 Übertragen wird das HI-Virus v.a. durch Körperflüssigkeiten wie Blut,
 Blutprodukte, Sperma und Scheidensekret, Liquor oder Muttermilch.
-*“Ungeschützter Sex”*, Transfusionen und *Nadelstichverletzungen* gelten
+*"Ungeschützter Sex"*, Transfusionen und *Nadelstichverletzungen* gelten
 als klassische Risiken. Es erfolgt *keine Übertragung durch normale
 Sozialkontakte* wie Händeschütteln, wohnen im gemeinsamen Haushalt,
 gemeinsame Benutzung von Geschirr und Toilettenanlagen, etc.
@@ -368,7 +368,7 @@ Test
 ----
 
 Erst nach 6—12 Wochen sind Antikörper nachweisbar. Das
-bedeutet, dass der *HIV-Test nicht “aktuell”, sondern “12 Wochen blind”*
+bedeutet, dass der *HIV-Test nicht "aktuell", sondern "12 Wochen blind"*
 ist!
 
 Therapie
@@ -521,7 +521,7 @@ kommen, am Körper bilden sich dann dunkle Hämatome. Einer der häufigsten
 Erreger sind die Meningokokken (Bakterien), man spricht dann von einer
 Meningokokken-Meningitis.
 
-Verwechslungsgefahr mit “normalem Infekt”!
+Verwechslungsgefahr mit "normalem Infekt"!
 
 -  Die Meningitis wird aufgrund der unspezifischen Symptome oft mit
    einem einfachen grippalen Infekt oder einer Grippe verwechselt!
@@ -770,7 +770,7 @@ Kriterien
    #. Direkter Kontakt mit Fledermäusen, Nagetieren oder Primaten
       (lebend oder tot) in oder aus betroffenen Gebieten
 
-   #. Konsum von oder direkter Kontakt mit “Buschfleisch” aus
+   #. Konsum von oder direkter Kontakt mit "Buschfleisch" aus
       betroffenen Gebieten.
 
 #. *Laborkriterien* (eines der folgenden)

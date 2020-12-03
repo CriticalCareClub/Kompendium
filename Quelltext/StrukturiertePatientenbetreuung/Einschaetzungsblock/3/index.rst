@@ -158,8 +158,8 @@ Schmerzreizes:
 
 #. *Ansprechen*: Zuerst wird der Patient laut und deutlich angesprochen:
 
-        *“Können Sie mich hören?
-        Machen Sie bitte die Augen auf!”*
+        *"Können Sie mich hören?
+        Machen Sie bitte die Augen auf!"*
 
    Reagiert der Patient nicht berührt man in an seinen Schultern und
    rüttelt ihn leicht.

@@ -35,9 +35,9 @@ Durchblutungsstörung\ [171]_ oder Zentralisierung hin.
 
 .. [171]
     *Verlängerte Rekap-Zeit*:
-    Unter “lokale Durchblutungsstörung” fallen
+    Unter "lokale Durchblutungsstörung" fallen
     auch in Folge von Kälte minderdurchblutete Extremitäten,
-    also “kalte Finger”.
+    also "kalte Finger".
 
 
 Herzleistung und Blutdruck
@@ -113,17 +113,17 @@ Bei der Interpretation des Wertes muss daher immer bedacht werden:
         Der Blutdruck ist für den Patienten zu niedrig, der Körper ist
         auf eine so plötzliche Umstellung nicht vorbereitet gewesen.
         Durch das Anamnesegespräch erfahren sie, dass er heute das erste
-        Mal einen “Nitro-Spray” verwendet hat. Sie vermerken dies am
+        Mal einen "Nitro-Spray" verwendet hat. Sie vermerken dies am
         Einsatzprotokoll. Im Krankenhaus erfahren Sie, dass
         wahrscheinlich eine Überdosierung dieses Medikaments die Ursache
         dieses Blutdruckabfalls war. → Obwohl der
-        Patient laut Lehrbuch einen “schönen” Blutdruck hatte,
+        Patient laut Lehrbuch einen "schönen" Blutdruck hatte,
         war dieser dennoch zu niedrig!
 
 #.  Ein 56-jähriger Patient klagt über starke kolikartige Schmerzen im
     linken Unterbauch. Sie messen einen Blutdruck von 155 / 95 mm Hg.
     Der Patient kennt
-    seinen “gewöhnlichen” Blutdruck nicht.
+    seinen "gewöhnlichen" Blutdruck nicht.
 
         Der Blutdruck ist laut Lehrbuch erhöht,
         aber dies ist erklärbar

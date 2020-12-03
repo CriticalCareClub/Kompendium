@@ -22,7 +22,7 @@ Beschreibung
 ------------
 
 Der Blutdruck ist jener Druck, welcher in unseren Blutgefäßen herrscht.
-Wenn wir vom *“Blutdruck”* sprechen beziehen wir uns auf den Blutdruck
+Wenn wir vom *"Blutdruck"* sprechen beziehen wir uns auf den Blutdruck
 in den Arterien [113]_. Er gehört in Kombination mit der Herzfrequenz zu
 den grundlegenden Vitalwerten.
 
@@ -59,7 +59,7 @@ mechanische Herzfunktion), und :ref:`Thema-blutdruck` (Blutdruck).
 
 -  Einheit: Millimeter Quecksilbersäule ()
 
-Der “Nicht-invasive Blutdruck” wird auf manchen Überwachungsmonitoren
+Der "Nicht-invasive Blutdruck" wird auf manchen Überwachungsmonitoren
 mit *NIBD* oder *NIBP* (*engl.*
 Non-Invasive Blood Pressure) abgekürzt.
 
@@ -125,7 +125,7 @@ Allgemein
     Ein Stethoskop ist eine Hörvorrichtung. Es besteht patientenseitig
     aus einem Kopf mit einer Membran oder einem Trichter, einem Schlauch
     und untersucherseitig aus einem Bügel mit zwei Oliven
-    (“Ohrenstöpsel”). Die Oliven sollen *nach vorne* gerichtet sein, da
+    ("Ohrenstöpsel"). Die Oliven sollen *nach vorne* gerichtet sein, da
     auch der äußere Gehörgang nach vorne verläuft.
 
 Funktionen
@@ -155,7 +155,7 @@ Beschreibung
 Die :dfn:`Blutdruckmessung nach Riva-Rocci`\ [116]_ ist
 eine indirekte, unblutige, mechanische Messung mittels einer
 Druckmanschette.** Umgangssprachlich wird die Blutdruckmessung nach
-Riva-Rocci als *“RR-Messung”*, bzw. der ermittelte Wert als *“RR”*
+Riva-Rocci als *"RR-Messung"*, bzw. der ermittelte Wert als *"RR"*
 abgekürzt.
 
 Bei der RR-Messung gibt es zwei Möglichkeiten zu einem Wert zu kommen.

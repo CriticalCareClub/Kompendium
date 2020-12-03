@@ -49,7 +49,7 @@ Behandlung von Krankheiten, Verletzungen oder Behinderungen bestimmt
 sind [102]_.
 
 Gegenstände und Stoffe, die dazu bestimmt sind, zusammen mit einem
-Medizinprodukt verwendet zu werden (“Zubehör”), gelten selber auch als
+Medizinprodukt verwendet zu werden ("Zubehör"), gelten selber auch als
 Medizinprodukt. Dies trifft auch auf *Desinfektionsmittel* zu, mit
 welchen Medizinprodukte gereinigt und wiederaufbereitet werden!
 
@@ -89,7 +89,7 @@ Verpflichtungen:
 -  *Funktionskontrolle*: Der Anwender muss sich vor jeder Anwendung
    eines Medizinproduktes von der Funktionstüchtigkeit,
    Betriebssicherheit und dem ordnungsgemäßen Zustand überzeugen
-   (“Gerätecheck”).
+   ("Gerätecheck").
 
 -  *Einweisung*: Medizinprodukte dürfen nur von solchen Personen
    angewendet werden, die auf Grund ihrer Ausbildung, und

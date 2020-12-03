@@ -10,7 +10,7 @@
 
 .. _Tafel-Alarmzeichen:
 
-.. table:: **Alarmzeichen**\ : Wann ist eine vitale Bedrohung wahrscheinlich? Eine Übersicht. 
+.. table:: **Alarmzeichen**\ : Wann ist eine vitale Bedrohung wahrscheinlich? Eine Übersicht.
 
   +---------------------------+-------------------------------------+-------------------------+
   | **Massive Störung**       | **Alarmsymptome**                   | **Alarmdiagnosen**      |
@@ -29,7 +29,7 @@
   +---------------------------+-------------------------------------+-------------------------+
   |                           | Hirndruckzeichen                    |                         |
   +---------------------------+-------------------------------------+-------------------------+
-  
+
 .. raw:: latex
 
     \end{ParWide}
@@ -39,9 +39,9 @@
 .. raw:: latex
 
     \begin{ParWide}
-    
+
 .. _Table-checkliste-patientenmanagement:
-.. _Table-pam-weiterfuehrende: 
+.. _Table-pam-weiterfuehrende:
 
 .. table:: 1--E Kurzübersicht
 
@@ -147,7 +147,7 @@
   |                                                                                                                                                       |
   | *Mit einem \* versehene Punkte werden nur durchgeführt, wenn sie *situationsentsprechend* sind.                                                       |
   |                                                                                                                                                       |
-  | “Typische Sofortmaßnahmen” sind als*Beispiele* zu verstehen.                                                                                          |
+  | "Typische Sofortmaßnahmen" sind als*Beispiele* zu verstehen.                                                                                          |
   |                                                                                                                                                       |
   | Bei **absolut zeitkritischen Patienten**,                                                                                                             |
   | bei denen bereits dieABC-Einschätzung ergibt dass ein Transport nicht aufschiebbar ist,                                                               |
@@ -161,7 +161,7 @@
   | **Fett** gedruckte Punkte haben eine besonders hohe Priorität.                                                                                        |
   +-------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-  
+
 .. raw:: latex
 
     \end{ParWide}

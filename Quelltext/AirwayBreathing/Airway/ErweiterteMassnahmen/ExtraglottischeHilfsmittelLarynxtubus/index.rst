@@ -160,7 +160,7 @@ Durchführung der Intubation mit dem Larynxtubus.
     Position, Kopf leicht erhöht (umgedrehte Nierentasse), nicht
     überstreckt, nicht gebeugt)
 
-#.  Mund öffnen mit “Kreuzgriff” (Daumen und Zeigefinger der linken
+#.  Mund öffnen mit "Kreuzgriff" (Daumen und Zeigefinger der linken
     Hand, der Daumen am Unterkiefer, der Zeigefinger am Oberkiefer (bzw.
     Zähne) öffnen den Mund. Achtung bei kariösen oder wackeligen Zähnen!)
 

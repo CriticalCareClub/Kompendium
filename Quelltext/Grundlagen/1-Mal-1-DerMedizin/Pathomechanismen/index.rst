@@ -52,7 +52,7 @@ Entzündung ist eine Reaktion des Körpers
             -   Physikalische Noxen
             -   …
 
-        -   “-itis”
+        -   "-itis"
 
 
 *engl., lat.* inflammation.
@@ -70,11 +70,11 @@ Substanzen oder andere pyhsikalische Noxen. Typisch für die Bezeichnung
 von Entzündungen ist das Suffix :dfn:`-itis`, welches
 i.d.R. an die betreffende Organbezeichnung angehängt wird:
 
--   Gastritis: “Magenentzündung”
+-   Gastritis: "Magenentzündung"
 -   Hepatitis: Leberentzündung
 -   Pankreatitis: Entzündung der Bauchspeicheldrüse,
 -   Meningitis: Hirnhautentzündung
--   Rhinitis: “Schnupfen”
+-   Rhinitis: "Schnupfen"
 -   Otitis: Ohrenentzündung
 
 -  …
@@ -137,11 +137,11 @@ die Zellteilung im richtigen Maß zu halten.
 Wenn diese Mechanismen versagen, kommt es zu einer *Entartung* und
 *Wucherung*, meist in Form einer *Raumforderung* und Schwellung
 (Tumor).
-Der Begriff :dfn:`Tumor` bedeutet ganz allgemein “Schwellung”.
-Umgangssprachlich wird er oft (fälschlicherweise) mit “Krebs”
+Der Begriff :dfn:`Tumor` bedeutet ganz allgemein "Schwellung".
+Umgangssprachlich wird er oft (fälschlicherweise) mit "Krebs"
 gleichgesetzt.
 Man spricht dann von einer Neubildung
-(Neoplasie), in Arztbriefen oft mit “N.” abgekürzt. Der medizinische
+(Neoplasie), in Arztbriefen oft mit "N." abgekürzt. Der medizinische
 Fachbereich der sich mit Neubildungen (Krebserkrankungen) befasst ist
 die *Onkologie*. Grundsätzlich können alle teilungsfähigen Zellen
 entarten. Dies kann spontan geschehen oder durch andere Faktoren
@@ -150,7 +150,7 @@ werden.
 
 Man unterscheidet zwischen *gutartigen* (**benignen**)
 und *bösartigen* (**malignen**) Neubildungen.
-Gutartige Neubildungen “bleiben wo sie sind”
+Gutartige Neubildungen "bleiben wo sie sind"
 und Überschreiten keine Grenzen von Gewebsstrukturen.
 Bösartige Neubildungen bilden *Absiedelungen*,
 sog. **Metastasen**,

@@ -15,7 +15,7 @@ Bei der Versorgung eines Patienten gilt dieser
 Grundsatz ebenso,
 zusätzlich finden sich hier spezielle
 Herausforderungen.
-Einerseits besteht diese “Gemeinschaft” aus sehr
+Einerseits besteht diese "Gemeinschaft" aus sehr
 unterschiedlichen Personen: Fachpersonal unterschiedlicher
 Ausbildungsstufen einerseits,
 und Patienten und Angehörige,
@@ -72,7 +72,7 @@ Ziele der Kommunikation sind:
 
 -   *Verständigung* innerhalb des Teams
 
-    -   “Alle Teammitglieder am gleichen Stand”
+    -   "Alle Teammitglieder am gleichen Stand"
     -   Absprache des weiteren Vorgehens
     -   Koordination von Untersuchungen und Maßnahmen
 
@@ -166,7 +166,7 @@ kann auftreten:
             sondern was verstanden wurde.
 
 Ein gutes Beispiel einer Störung der Kommunikation ist das
-“Stille-Post”-Spiel,
+"Stille-Post"-Spiel,
 bei welchem am Ende der Übertragungskette die
 ursprüngliche Nachricht zumeist völlig entstellt ist.
 Um deratige
@@ -243,7 +243,7 @@ Als klassisches Beispiel ist die
     welche auf grün
     wechselt.
 
-    Er sagt: *“Du, da vorne ist grün!”*
+    Er sagt: *"Du, da vorne ist grün!"*
 
     *Eine* mögliche Deutung:
 
@@ -264,7 +264,7 @@ Als klassisches Beispiel ist die
     Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von
     Thun [Thun:1981]_
 
-    Ⓒ User “Mussklprozz” auf Wikipedia, modifiziert
+    Ⓒ User "Mussklprozz" auf Wikipedia, modifiziert
     Ⓛ CC-BY-SA 3.0
 
 
@@ -309,7 +309,7 @@ gekennzeichnet:
     Fachbegriffe sind zu vermeiden!
 
 -   *Aktives Zuhören*: Die Antworten des Patienten müssen bei Helfer
-    “ankommen” und nicht “verloren gehen”.
+    "ankommen" und nicht "verloren gehen".
     Wichtige Informationen werden
     oft nur einmal berichtet,
     der Patient nimmt im weiteren Verlauf an,
@@ -318,13 +318,13 @@ gekennzeichnet:
     Negativbeispiel:
 
         Sanitäter:
-            *“Haben Sie Schmerzen?”*
+            *"Haben Sie Schmerzen?"*
 
         Patient:
-            *“Nein.”*
+            *"Nein."*
 
         Sanitäter:
-            *“Wie stark ist der Schmerz?”*
+            *"Wie stark ist der Schmerz?"*
 
 -   *Verstehen*: Es ist wichtig zu verstehen was der Patient mit dem
     Gesagten *meint*! Um sich zu vergewissern,
@@ -333,7 +333,7 @@ gekennzeichnet:
     kann man das Gesagte in eigenen Worten
     wiederholen und sich vom Patient die Richtigkeit bestätigen lassen.
 
--   *“Monogam”*: Es ist immer nur *eine Frage gleichzeitig* zu stellen.
+-   *"Monogam"*: Es ist immer nur *eine Frage gleichzeitig* zu stellen.
 
 -   *Information*: Der Patient ist immer über das Vorgehen der Helfer zu
     informieren!
@@ -375,48 +375,48 @@ Grundsätzlich unterscheidet man *offene* und *geschlossene*, sowie
     Informationen ungeordnet und mitunter auch in der Situation mäßig
     wichtig sind.
 
-        *“Was haben Sie für ein Problem?”*
+        *"Was haben Sie für ein Problem?"*
 
-        *“Bitte beschreiben Sie den Schmerz.”*
+        *"Bitte beschreiben Sie den Schmerz."*
 
 -   *Geschlossene Fragen*
     sind sehr direkt und speziell, der Patient kann
-    i.d.R. nur mit *“ja”*, *“nein”* oder *“weiß nicht”* antworten.
+    i.d.R. nur mit *"ja"*, *"nein"* oder *"weiß nicht"* antworten.
     Sie machen daher eher nur dann Sinn,
     wenn man ganz spezielle Dinge
     bewusst direkt abfragen kann oder muss. **Achtung!** Manche Patienten
     neigen dazu,
-    grundsätzlich *“ja”* zu sagen,
+    grundsätzlich *"ja"* zu sagen,
     ohne dass sie die Frage
     wirklich verstanden haben!
 
-        *“Haben Sie sich vorher angestrengt?”*
+        *"Haben Sie sich vorher angestrengt?"*
 
-        *“Haben Sie das schon einmal gehabt?”*
+        *"Haben Sie das schon einmal gehabt?"*
 
 -   *Gezielte Fragen*
     fokussieren die Antwort des Patienten und lassen
-    sich nur schwer “umgehen”.
+    sich nur schwer "umgehen".
     Sie dienen der Präzisierung.
     Werden zu
     viele von diesen Fragen gestellt,
     kann das Gespräch leicht in eine
-    “Einbahnstraße” abgleiten.
+    "Einbahnstraße" abgleiten.
     Gezielte Fragen können sowohl offen,
     als
     auch geschlossen sein.
 
-        *“Wohin strahlt der Schmerz aus?”*
+        *"Wohin strahlt der Schmerz aus?"*
 
--   *Suggestivfragen* sind “böse”:
+-   *Suggestivfragen* sind "böse":
     Hier legt der Gesprächsführende dem
-    Patienten die Antworten “in den Mund”.
+    Patienten die Antworten "in den Mund".
     Sie können sowohl als offene,
     als auch als geschlossene Fragen formuliert werden.
 
-       *“Haben Sie *eh keine* Schmerzen?”*
+       *"Haben Sie *eh keine* Schmerzen?"*
 
-       *“Ist der Schmerz stechend?”*
+       *"Ist der Schmerz stechend?"*
 
     Dieser Fragentyp soll nicht – oder nur im begründeten Ausnahmefall –
     angewendet werden.
@@ -437,10 +437,10 @@ aufregende und i.d.R.
 angsteinflößende Ausnahmesituation dar.
 Die
 folgenden Vorschläge können unter Umständen hilfreich sein – ein
-allgemeingültiges “Kochrezept” gibt es allerdings nicht:
+allgemeingültiges "Kochrezept" gibt es allerdings nicht:
 
--   *Kleine Erwachsene*: Manchmal sind Kinder doch einfach “kleine
-    Erwachsene”: Die elementaren Grundsätze *Aufrichtigkeit* und
+-   *Kleine Erwachsene*: Manchmal sind Kinder doch einfach "kleine
+    Erwachsene": Die elementaren Grundsätze *Aufrichtigkeit* und
     *Aufklärung*,
     welche für das Verhalten gegenüber Erwachsenen gilt,
     gilt genauso für Kinder.

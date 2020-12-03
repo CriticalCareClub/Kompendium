@@ -70,7 +70,7 @@ Man unterscheidet dabei folgende Gerätekategorien:
 
 Automatische und halbautomatische externe Defibrillatoren
    (:dfn:`AED`: :dfn:`Automatischer externer Defibrillator`;
-   :dfn:`SAED`: :dfn:`Semi-automatischer externer Defibrillator`, “Halbautomat”):
+   :dfn:`SAED`: :dfn:`Semi-automatischer externer Defibrillator`, "Halbautomat"):
    :index:`\ <AED>`
    :index:`\ <SAED>`
    :index:`\ <Defibrillator; automatischer externer>`
@@ -88,7 +88,7 @@ Manuelle Defibrillatoren
    muss entscheiden, ob ein Schock abgegeben werden soll. Manuelle
    Defibrillatoren dürfen nur durch entsprechend ausgebildetes und
    befugtes (i. d. R. ärztliches) Personal angewendet werden.
-   Viele Geräte verfügen auch über einen “Halbautomaten-Modus”
+   Viele Geräte verfügen auch über einen "Halbautomaten-Modus"
    ((S)AED-Modus),
    in welchem das Gerät als (S)AED verwendet werden kann.
 
@@ -151,7 +151,7 @@ Rhythmen:
 -  *Schockbare Rhythmen*
 
     -   **Kammerflimmern** :index:`\ <Kammerflimmern>`:
-        Unkoordnierte, “wirre” elektrische
+        Unkoordnierte, "wirre" elektrische
         Aktivität
     -   **Pulslose Ventrikuläre Tachykardie**
         :index:`\ <Pulslose Ventrikuläre Tachykardie>` (*PVT*): Zu
@@ -217,7 +217,7 @@ Allgemein lässt sich jedoch sagen:
     ``Analyse``\ -Taste drücken.
     Die Analyse führt das Gerät nun selbständig durch.
     Es ertönt eine Warnung, z. B.
-    *“Analyse läuft! Patienten nicht berühren!”*
+    *"Analyse läuft! Patienten nicht berühren!"*
     Der Patient
     (oder elektrisch leitende Gegenstände
     (z. B. Metalle, Wasser),
@@ -374,11 +374,11 @@ Auswahl der Energie
 
 Synchronisation
     Bei vorhandenen Kammerkomplexen im EKG kann eine Schockabgabe zu
-    bestimmten Zeiten des Herzzyklus (“vulnerable Phase”) Kammerflimmern
+    bestimmten Zeiten des Herzzyklus ("vulnerable Phase") Kammerflimmern
     ausgelöst werden. Um dies zu verhindern kann die Schockabgabe
     synchronisiert mit dem Herzzyklus erfolgen, der Defibrillator gibt
     dann denn Stromstoß in einem gefahrlosen Intervall ab. Neuere Geräte
-    verfügen oft über eine Rhythmuserkennung und “*Auto-Sync*”-Funktion,
+    verfügen oft über eine Rhythmuserkennung und "*Auto-Sync*"-Funktion,
     hier entfällt die manuelle Einstellung.
 
     .. warning::
@@ -419,7 +419,7 @@ Synchronisation
 .. figure:: /Bilder/WikipediaPd/AED_Symbol.*
     :width: 100%
 
-    Hinweisschild “Defibrillator”
+    Hinweisschild "Defibrillator"
 
 .. subfigend::
     :width: 0.24

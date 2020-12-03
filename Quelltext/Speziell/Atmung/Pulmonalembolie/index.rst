@@ -165,7 +165,7 @@ SAMPLER: Pulmonalembolie
     Thrombose und damit auch das einer Lungenembolie. Ebenso erhöht eine
     bereits durchgemachte Lungemembolie oder Thrombose das Risiko.
     Weiters tritt die Lungenembolie gehäuft in der Schwangerschaft auf.
-    Rauchen sowie die Einnahme der “Pille” erhöhen ebenso das Risiko.
+    Rauchen sowie die Einnahme der "Pille" erhöhen ebenso das Risiko.
 
 
 .. _m-lungenembolie:

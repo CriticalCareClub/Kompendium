@@ -62,8 +62,8 @@ dabei befindet sich der Sauerstoff vollständig im gasförmigen Aggregatzustand.
    allen anderen Gasen bis zum *30. Juni 2006* abgeschlossen sein
    [VBV:2002]_.
    In der Übergangszeit wurden Flaschen mit der
-   neuen Codierung mittels Aufbringung des Buchstabens “N” (“neue
-   Kennzeichnung”) gekennzeichnet. Dies hat *nichts* mit dem chemischen
+   neuen Codierung mittels Aufbringung des Buchstabens "N" ("neue
+   Kennzeichnung") gekennzeichnet. Dies hat *nichts* mit dem chemischen
    Symbol für Stickstoff (N) zu tun!
 
 

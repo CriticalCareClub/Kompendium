@@ -21,7 +21,7 @@ Störungen, die Auswirkungen auf das Denken und die geistige
 Leistungsfähigkeit haben. Andererseits hat man es in der Psychiatrie
 sehr oft mit Störungen zu tun, von deren Ursache die Wissenschaft kaum
 eine Ahnung hat. In der Psychiatrie ist es auch besonders schwierig,
-zwischen “gesund” und “krank” treffsicher zu unterscheiden.
+zwischen "gesund" und "krank" treffsicher zu unterscheiden.
 
 Grundsätzlich muss aber gesagt werden, dass psychiatrische
 Erkrankungen [#PsyErkrankung]_ etwas alltägliches und nichts außergewöhnliches
@@ -31,7 +31,7 @@ Alkoholkrankheit.
 
 
 .. [#PsyErkrankung]
-    Sofern der Begriff *“Erkrankung”* überhaupt angebracht ist …
+    Sofern der Begriff *"Erkrankung"* überhaupt angebracht ist …
 
 Der Krankheitsbegriff in der Psychiatrie
 ========================================
@@ -167,8 +167,8 @@ Der Patient mit Wahnvorstellungen
 Menschen können – aus unterschiedlichen Gründen – Wahnvorstellungen
 (Halluzinationen) entwickeln. Diese können sehr unterschiedlich sein und
 alle Sinne betreffen. Man kann Dinge *hören* (Stimmen hören, …) oder
-Sachen *sehen* (“weiße Mäuse”, …) die nicht existieren. Der Betroffene
-nimmt dies jedoch als vollkommen “echt” und real wahr.
+Sachen *sehen* ("weiße Mäuse", …) die nicht existieren. Der Betroffene
+nimmt dies jedoch als vollkommen "echt" und real wahr.
 
 Der Wirklichkeitsbezug kann teilweise erhalten oder nahezu komplett
 verloren gegangen sein.
@@ -192,14 +192,14 @@ Fallgeschichte
 Fazit
 -----
 
-Auch psychiatrische Patienten haben “normale” Alltagsprobleme, wie z. B.
+Auch psychiatrische Patienten haben "normale" Alltagsprobleme, wie z. B.
 einen grippalen Infekt. Die Wahnvorstellungen werden von den Patienten
 komplett real erlebt, auch wenn sie vielleicht sogar wissen, dass sie
 nicht real sein können.
 
 Diese Patientin hat noch eine teilweise intakte Realitätswahrnehmung:
 Psychiatrische Erkrankungen oder Symptome funktionieren *nicht* nach dem
-“Alles-oder-Nichts”-Prinzip.
+"Alles-oder-Nichts"-Prinzip.
 
 Wahnidee – Wahnsysteme
 ----------------------
@@ -211,13 +211,13 @@ Die einfachste Form ist die :dfn:`Wahnidee` :index:`\ <Wahnidee>`. Hierbei hat d
 Patient eine klar abgegrenzte Vorstellung von etwas, was mit der
 Realität nicht vereinbar ist.
 
-    *“Das Gebühren-Info-Service des ORF kontrolliert jede Woche am
+    *"Das Gebühren-Info-Service des ORF kontrolliert jede Woche am
     Verteilerschrank, ob das Antennenkabel korrekt vom Verteiler
-    abgesteckt wurde.”*
+    abgesteckt wurde."*
 
 Diese Wahnideen können in weiterer Folge zu einem :dfn:`Wahnsystem` :index:`\ <Wahnsystem>` ausgebaut werden
 
-    *“Das Gebühren-Info-Service des ORF ist eine Deckmantelorganisation
+    *"Das Gebühren-Info-Service des ORF ist eine Deckmantelorganisation
     des israelischen Geheimdienstes Mossad, welcher im Auftrag der CIA
     geheime Abhöranlagen im ganzen Wohnhaus installiert hat. Bei
     unliebsamen Äußerungen der Bewohner werden Strahlen, welche das
@@ -226,7 +226,7 @@ Diese Wahnideen können in weiterer Folge zu einem :dfn:`Wahnsystem` :index:`\ <
     abgesteckt und zahlt keine Fernsehgebühren mehr. Da ihn nun der
     Geheimdienst nicht mehr erreichen kann, haben sie vom
     Gebühren-Info-Service einen Agenten vorbei geschickt, welcher nun
-    gewaltsam die Gedanken des Patienten wegnehmen wollte.”*
+    gewaltsam die Gedanken des Patienten wegnehmen wollte."*
 
 
 .. index::
@@ -325,9 +325,9 @@ vertraulich, aber *direkt angesprochen und geklärt werden*. Es ist dabei
 wichtig, einen **neutralen Tonfall** zu verwenden und **nicht anklagend
 zu klingen!**
 
-    *“Wollten Sie sich verletzen?”*
+    *"Wollten Sie sich verletzen?"*
 
-    *“Wollten Sie sich umbringen?”*
+    *"Wollten Sie sich umbringen?"*
 
 Häufig berichten Patienten über Gefühle der Hoffnungslosigkeit,
 Einsamkeit, Verzweiflung, innerer Leere oder lassen einen fehlenden
@@ -335,7 +335,7 @@ Realitätsbezug erkennen. *Die geäußerten Aussagen und Gefühle des
 Patienten sollen nicht gewertet, verharmlost oder verniedlicht werden!*
 
 Ein misslungener – oft zögerlicher – Selbstmordversuch wird oft von
-Unwissenden im Sinne von *“Der hat es gar nicht so gemeint”* aufgefasst.
+Unwissenden im Sinne von *"Der hat es gar nicht so gemeint"* aufgefasst.
 Das ist meistens falsch! Ein Selbstmordversuch ist oft der letzte
 Hilferuf, den ein Mensch – sei es aus Vereinsamung oder aus anderen
 Gründen – aussenden kann.
@@ -454,7 +454,7 @@ ist dagegen ein
 Überbegriff für Auffälligkeiten des Affektes, der Antriebs- und
 Willenssphäre sowie des Denkens.
 
-Die Depression ist eine sehr häufige Erkrankung (“Volkskrankheit”), etwa
+Die Depression ist eine sehr häufige Erkrankung ("Volkskrankheit"), etwa
 10% der Patienten einer allgemeinmedizinischen Praxis leiden unter ihr
 [Wunn:1]_. Sie tritt mit einer Vielzahl von unterschiedlichen
 Symptomen auf und ist oft nur schwer von alltäglicher Verstimmung
@@ -470,7 +470,7 @@ Selbstvertrauen sind fast immer beeinträchtigt. Sogar bei der leichten
 Form kommen Schuldgefühle oder Gedanken über eigene *Wertlosigkeit* vor.
 
 Die gedrückte Stimmung verändert sich von Tag zu Tag wenig, *reagiert
-nicht auf Lebensumstände* und kann von so genannten “somatischen”
+nicht auf Lebensumstände* und kann von so genannten "somatischen"
 Symptomen begleitet werden, wie Interessenverlust oder Verlust der
 Freude, Früherwachen, Morgentief, deutliche psychomotorische Hemmung,
 Agitiertheit, Appetitverlust, Gewichtsverlust und Libidoverlust.
@@ -498,7 +498,7 @@ Symptome
 -  Delirium (Bewusstseinsstörungen, Halluzinationen )
 -  Krampfanfälle
 -  RR-Entgleisung
--  *“Cold turkey”* bei Heroinentzug
+-  *"Cold turkey"* bei Heroinentzug
 
 Anamnese
 --------
@@ -516,7 +516,7 @@ Entzugsdelir und Durchgangssyndrom
 
 Im Extremfall leidet der Patient an einem Entzugsdelir (Delirium
 tremens). Dabei kann es zu Zittern, Unruhe, Angst, *Halluzinationen*
-(“weiße Mäuse”, …), vegetativer Entgleisung (Tachykardie,
+("weiße Mäuse", …), vegetativer Entgleisung (Tachykardie,
 Hypo-/Hypertonie) und zerebralen Krampfanfällen kommen. Es handelt sich
 um einen **lebensbedrohlichen Zustand**!
 

@@ -294,8 +294,8 @@ eine Erhöhung des Druckes innerhalb des Hirnschädels hin (*Hirndruck*,
 *intrakranieller* :index:`\ <Druck!intrakranieller>` Druck). Eine
 solche Steigerung kann besonders bei Verletzungen oder blutigen
 Schlaganfällen vorkommen. Eine Hirndruckerhöhung wirkt sich negativ
-sowohl auf das Hirn selbst, als auch auf dessen Durchblutung aus (*“Das
-Hirn drück sich selbst ab.”*).
+sowohl auf das Hirn selbst, als auch auf dessen Durchblutung aus (*"Das
+Hirn drück sich selbst ab."*).
 
 Es kommt es zu einer typischen Kombination von Symptomen:
 
@@ -444,14 +444,14 @@ können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
 
     Der :dfn:`Herdblick` :index:`\ <! Herdblick>` ist eine Blickdiagnose:
     Es kann zu Blicklähmungen kommen,
-    der Patient blickt in Richtung des “Herdes des
-    Geschehens”.
+    der Patient blickt in Richtung des "Herdes des
+    Geschehens".
 
 -   *Sprache*: Störungen der Sprache sind ebenfalls sehr häufig. Oft
     nimmt man eine *verwaschene Sprache* wahr, welche (fälschlich) an
-    Trunkenheit erinnert. Weiters kann es zu einer “wirren Sprache”
+    Trunkenheit erinnert. Weiters kann es zu einer "wirren Sprache"
     kommen: Worte fehlen dabei oder Silben werden vertauscht. Im
-    Extremfall kann die Sprache gänzlich “verloren” gehen. Auf der
+    Extremfall kann die Sprache gänzlich "verloren" gehen. Auf der
     anderen Seite kann die Sprache zwar erhalten, aber das
     Sprach\ *verständnis* geschädigt sein.
 
@@ -666,7 +666,7 @@ verschiedene Arten einteilen:
 
 #. Nach Art:
 
-    -   *Tonisch*: “Verkrampfung”, erhöhter Muskeltonus
+    -   *Tonisch*: "Verkrampfung", erhöhter Muskeltonus
     -   *Klonisch*: Zuckungen
     -   *Tonisch-klonisch*: Kombination aus beidem, das klassische
         Erscheinungsbild eines Krampfanfalles
@@ -807,7 +807,7 @@ Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
     unbedingt notwendig!
 
 .. [#GrandMal]
-    Grand mal: *franz.:* “großes Unglück”
+    Grand mal: *franz.:* "großes Unglück"
 
 
 Status Epilepticus

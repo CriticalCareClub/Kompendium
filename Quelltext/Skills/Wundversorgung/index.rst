@@ -97,9 +97,9 @@ Zeitlicher Verlauf
 Eine weitere Unterteilung kann nach dem *zeitlichen Verlauf* getroffen
 werden:
 
--   *Frische* Wunden (Rezente Wunden, “rec.”): Wunden innerhalb der
+-   *Frische* Wunden (Rezente Wunden, "rec."): Wunden innerhalb der
     ersten 6 h nach der Entstehung
--   *Nicht frische* Wunden (Nicht rezente Wunden, “non rec.”): Wunden
+-   *Nicht frische* Wunden (Nicht rezente Wunden, "non rec."): Wunden
     älter als 6 h
 -   *Chronische* Wunden: Wunden, welche seit langer Zeit bestehen und
     Wundheilungsstörungen aufweisen

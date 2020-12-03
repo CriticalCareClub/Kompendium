@@ -877,7 +877,7 @@ Gefahren
 
 -  *Hirnblutung*: Eine Hirnblutung (intrakranielle Blutung) kann sowohl
    in Folge eines SHT als auch spontan (z. B. durch Platzen eines
-   Aneurysmas, “blutiger Insult”, :ref:`Thema-insult`) auftreten.
+   Aneurysmas, "blutiger Insult", :ref:`Thema-insult`) auftreten.
 
    Aufgrund der inneren Blutung steigt der Druck im Schädel an, s.u.
 
@@ -1007,7 +1007,7 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
     Sebastian GabrielMfG
 
 -  *Jedes SHT ist im Spital abzuklären!* Es besteht die Gefahr dass sich
-   der Patient gegenwärtig im “*luziden Intervall*” befindet und sich
+   der Patient gegenwärtig im "*luziden Intervall*" befindet und sich
    sein Zustand erst in einigen Stunden, dann aber schlagartig
    verschlechtert. Im Zweifelsfall wird der Patient dort zur Beobachtung
    (24h lang) aufgenommen.
@@ -2444,7 +2444,7 @@ allmählich.
 Für
 
     -  Ab *10% :math:`\geq`\ 2* verbrannter Körperoberfläche gilt eine
-       Verbrennung als “schwer”, für *Kinder* gilt eine Grenze von *5%.*
+       Verbrennung als "schwer", für *Kinder* gilt eine Grenze von *5%.*
 
 
 
@@ -2515,7 +2515,7 @@ Basismaßnahmen
         Bei großflächigen Verbrennungen können,
         wenn das sterile Material nicht ausreicht,
         zur Not auch saubere Leintücher o. ä.
-        verwendet werden [AAOS:2006]_\ .
+        verwendet werden [AAOS:9]_\ .
     -   Schockbekämpfung
     -   Kolloidale Infusionslösungen sind *kontraindiziert*
 
@@ -2529,7 +2529,7 @@ Was man **nicht** tun darf …
 -  NEIN: Salbe, Puder, etc. auf frische Brandwunde (AAOS 2006; NAEMT
    2006)
 
--  NEIN: Blasen öffnen [AAOS:2006]_
+-  NEIN: Blasen öffnen [AAOS:9]_
 
 -  NEIN: festklebende Kleidung gewaltsam entfernen
 
@@ -2608,7 +2608,7 @@ Basismaßnahmen
 
 .. _thema-veraetzung-trauma:
 
-Verletzungen durch chemische Stoffe – “Chemische Verbrennungen”
+Verletzungen durch chemische Stoffe – "Chemische Verbrennungen"
 ===============================================================
 
 Vergiftungen durch Einnahme von Säuren und Laugen werden unter
@@ -2620,7 +2620,7 @@ Beschreibung
 Schädigungen der Haut durch Säuren, Laugen oder andere schädliche Stoffe
 weisen – trotz der unterschiedlichen Entstehung – Gemeinsamkeiten mit
 Verbrennungsschäden auf. Daher werden diese Verletzungen oft auch als
-*“chemische Verbrennung”* bezeichnet, auch wenn meist keine Hitze im
+*"chemische Verbrennung"* bezeichnet, auch wenn meist keine Hitze im
 Spiel ist.
 
 Genau wie bei der Verbrennung kommt es zu einem Ausfall der

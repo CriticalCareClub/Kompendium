@@ -244,7 +244,7 @@ Zeit zur Behandlung der Herzinsuffizienz und von Herzrhythmusstörungen
 eingesetzt. Es ist jedoch sehr schwierig die richtige Dosis für einen
 Patienten zu finden, daher kommt es — trotz korrekter Einnahme — häufig
 zu Überdosierungen. Die Folge sind Herzrhythmusstörungen und andere
-EKG-Veränderungen und “Farbensehen”.
+EKG-Veränderungen und "Farbensehen".
 
 ****************************************
 Vergiftungen mit Suchtmitteln und Drogen
@@ -278,7 +278,7 @@ dementsprechend Zeichen einer Hypoxie (Zyanose).
 Charakteristisch ist
 die starke Verengung der Pupillen *(stecknadelkopfgroße Pupillen)*. Oft
 findet man alte Einstichstellen in der Armbeuge.
-Da in der “Szene” oft
+Da in der "Szene" oft
 unsauberes oder getauschtes Spritzbesteck verwendet wird, besteht eine
 erhöhte Erkrankungsrate an HIV und Hepatitis C.
 Eine weitere Gefahr geht
@@ -322,7 +322,7 @@ Pharmakotherapie
 
 
 
-“Partydrogen”: Ecstacy, Schwammerl, Special K …
+"Partydrogen": Ecstacy, Schwammerl, Special K …
 ===============================================
 
 .. only:: not latex
@@ -330,7 +330,7 @@ Pharmakotherapie
     .. sidebar::Partydrogen
 
         -   Ecstasy (XTC, E, X).
-        -   Gesteigertes “Glücksgefühl”.
+        -   Gesteigertes "Glücksgefühl".
         -   Gefühl von unerschöpflicher Energie.
         -   Gesteigertes Erleben der Umwelt.
 
@@ -460,13 +460,13 @@ Anamnese und Szene
 
         -   Mehrere, unerklärliche Opfer, tote Tiere
         -   Gasofen, Durchlauferhitzer
-        -   *“Immer beim duschen!”*
+        -   *"Immer beim duschen!"*
 
 -  Mehrere, unerklärliche Opfer, leblose Haustiere
 
 -  Gasofen, Durchlauferhitzer
 
--  *“Immer beim Duschen!”*
+-  *"Immer beim Duschen!"*
 
 Symptome
 ^^^^^^^^

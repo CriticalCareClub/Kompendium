@@ -89,7 +89,7 @@ Symptome und Schmerzen
 **********************
 
 Die Einstiegsfrage
-*“Was kann ich für Sie tun?”*
+*"Was kann ich für Sie tun?"*
 weist oft bereits auf
 das Haupt- bzw.
 Leitsymptom hin.
@@ -97,13 +97,13 @@ Ist dies nicht der Fall,
 so muss als
 erstes nach dem Hauptsymptom gefragt werden:
 
-    *“Welche Beschwerden haben Sie?”*
+    *"Welche Beschwerden haben Sie?"*
 
-    *“Was können wir für Sie tun?”*
+    *"Was können wir für Sie tun?"*
 
 Außerdem muss immer auch speziell nach Schmerzen gefragt werden!
 
-    *“Haben Sie (dabei) Schmerzen?”*
+    *"Haben Sie (dabei) Schmerzen?"*
 
 
 
@@ -115,31 +115,31 @@ hier
 am Beispiel Schmerzen:
 
 -  **Onset / Geschehnisse zum Zeitpunkt des Auftretens**:
-   *“Seit wann haben Sie die Schmerzen?
-   Was haben Sie gemacht als es begonnen hat?”*
+   *"Seit wann haben Sie die Schmerzen?
+   Was haben Sie gemacht als es begonnen hat?"*
 
 -  **Provokation / Palliation**:
-   *“Was macht den Schmerz besser oder schlechter?”*
+   *"Was macht den Schmerz besser oder schlechter?"*
 
 -  **Qualität**:
-   *“Wie ist der Schmerz?
+   *"Wie ist der Schmerz?
    Bohrend, stechend, brennend, ziehend, krampfartig,
-   auf- und abschwellend?”*
+   auf- und abschwellend?"*
 
 -  **Radiation / Region**:
    Ausstrahlung / Lokalisation
-   *“Strahlt der Schmerz irgendwohin aus?
-   Wo sind die Schmerzen? ”*
+   *"Strahlt der Schmerz irgendwohin aus?
+   Wo sind die Schmerzen? "*
 
 -  **Severity / Stärke**:
-   *“Wie stark ist der Schmerz?”*
+   *"Wie stark ist der Schmerz?"*
    Setzen Sie die Aussage des Patienten immer in Relation zu seinem Verhalten, seinem
    Gesichtsausdruck und zu seiner Körperhaltung! Einem Patienten mit
    starken Schmerzen sieht man dies oft, aber nicht immer an! [#fn:SchmerzStaerke]_
 
--  **Time / Zeitdauer** : *“Wie lange haben Sie die Schmerzen schon? Haben
+-  **Time / Zeitdauer** : *"Wie lange haben Sie die Schmerzen schon? Haben
    Sie so einen Schmerz schon einmal gehabt? Haben die Schmerzen
-   plötzlich oder langsam eingesetzt?”*
+   plötzlich oder langsam eingesetzt?"*
 
 Sinngemäß gelten diese Fragen auch für alle anderen denkbaren Symptome.
 Diese Fragenabfolge wird in Anlehnung auf die Benennung der EKG-Zacken
@@ -224,13 +224,13 @@ Wechselwirkungen, …).
 
 Fragen zu Medikamenten:
 
-    *“Welche Medikamente nehmen Sie? Haben Sie eine Liste?”*
+    *"Welche Medikamente nehmen Sie? Haben Sie eine Liste?"*
 
-    *“Wogegen nehmen Sie diese Medikamente?”*
+    *"Wogegen nehmen Sie diese Medikamente?"*
 
-    *“Nehmen Sie Ihre Medikamente regelmäßig?”*
+    *"Nehmen Sie Ihre Medikamente regelmäßig?"*
 
-    *“Wann haben Sie Ihre Medikamente zuletzt genommen?”*
+    *"Wann haben Sie Ihre Medikamente zuletzt genommen?"*
 
 .. note::
 
@@ -249,7 +249,7 @@ Fragen zu Medikamenten:
 
   +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
   | **(Marken-) Name**           | **(Grund-) Erkrankungen**               | **Anmerkungen**                                                         | **Andere Namen / Generika**                         | **Wirkstoff**                     | **Wirkung**                                                              |
-  +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
+  +==============================+=========================================+=========================================================================+=====================================================+===================================+==========================================================================+
   | **Marcoumar®**               | z. B. Herzrhytmusstörungen              | Massiv gesteigerte  *Blutungsneigung*                                   |                                                     |                                   | Blutgerinnung ↓                                                          |
   +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
   | Aspirin®                     | Schmerzen, gripp. Infekte               | Gesteigerte Blutungsneigung,  schädigt Magenschleimhaut                 | unzählige, z. B.: ASS-Genericon,  ASS-Ratiopharm, … | Acetyl-Salicylsäure (ASS)         | Gerinnungshemmend, schmerzhemmend, entzündungshemmend, fiebersenkend     |
@@ -304,17 +304,17 @@ chronische Erkrankungen liefern.
 Allgemeine Fragen,
 wie z. B.
 
-    *“Leiden Sie unter irgendwelchen Krankheiten?”*
+    *"Leiden Sie unter irgendwelchen Krankheiten?"*
 
-    *“Bestehen bei Ihnen Vorerkrankungen?”*
+    *"Bestehen bei Ihnen Vorerkrankungen?"*
 
 können anschließend durch Symptom-spezifische Fragen ergänzt werden:
 
-    *“Hatten Sie schon einmal einen Herzinfarkt?”*
+    *"Hatten Sie schon einmal einen Herzinfarkt?"*
 
-    *“Leiden Sie unter hohem Blutdruck?”*
+    *"Leiden Sie unter hohem Blutdruck?"*
 
-    *“Sind Sie zuckerkrank?”*
+    *"Sind Sie zuckerkrank?"*
 
 
 Arzt- und Entlassungsbriefe
@@ -556,16 +556,16 @@ Leitsymptomen bzw.
 Verdachtsdiagnosen können verschiedene
 Fragen zielführend sein:
 
-    *“Wann haben Sie zuletzt etwas gegessen/getrunken?”* (Ist der
+    *"Wann haben Sie zuletzt etwas gegessen/getrunken?"* (Ist der
     Patient nüchtern?)
 
-    *“Wann hatten Sie zuletzt Stuhlgang?”* (weiterführende Fragen: Wie
+    *"Wann hatten Sie zuletzt Stuhlgang?"* (weiterführende Fragen: Wie
     hat der Stuhl ausgesehen? Gab es Auffälligkeiten?)
 
-    *“Wann war die letzte Regelblutung?”* (Besteht die Möglichkeit einer
+    *"Wann war die letzte Regelblutung?"* (Besteht die Möglichkeit einer
     Schwangerschaft?)
 
-    *“Wann waren Sie zuletzt beim Arzt bzw. im Spital?”*
+    *"Wann waren Sie zuletzt beim Arzt bzw. im Spital?"*
 
 
 ******************************
@@ -578,9 +578,9 @@ Notfall herbeiführen oder diesen auslösen.
 Fragen Sie daher immer nach
 möglichen Besonderheiten oder Tätigkeiten des Patienten vor dem Notfall:
 
-    *“Was haben Sie vor Beginn der Symptome gemacht?”*
+    *"Was haben Sie vor Beginn der Symptome gemacht?"*
 
-    *“Haben Sie sich vor Beginn der Symptome besonders angestrengt?”*
+    *"Haben Sie sich vor Beginn der Symptome besonders angestrengt?"*
 
     …
 
@@ -620,7 +620,7 @@ Beispiele für Riskofaktoren wären:
     Wundheilungsstörungen, …;
     Niereninsuffizienz, …)
 -   Arterielle Hypertonie (Herz-Kreislauf-Erkrankungen, s. o.)
--   Hormonelle Verhütung (“Pille”; Lungenembolie, …)
+-   Hormonelle Verhütung ("Pille"; Lungenembolie, …)
 
 Die Frage nach Risikofaktoren ist abhängig vom Einzelfall,
 oft sind

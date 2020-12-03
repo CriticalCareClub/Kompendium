@@ -132,7 +132,7 @@ Punkt *C* in angemessener Weise durchgeführt werden.
 
 [AMLS:3]_
 
-[AAOS:2006]_
+[AAOS:9]_
 
 [Campbell:2010:De]_
 

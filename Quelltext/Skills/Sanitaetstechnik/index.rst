@@ -909,7 +909,7 @@ Vorgehen
 
 #. *Absaugen* mit Absauggerät, dabei zügig Matratze an den Patienten
    *anpassen*. Besonderes Augenmerk gilt der Fixierung der verletzten
-   Regionen sowie dem Kopf (“Ohren” formen: Ecken neben dem Kopf hoch
+   Regionen sowie dem Kopf ("Ohren" formen: Ecken neben dem Kopf hoch
    formen). Einige Modelle bieten die Möglichkeit einer zusätzlichen
    Fixierung mittels an der Vakuummatratze befestigter Gurte.
 
@@ -972,8 +972,8 @@ auch mit einem Spineboard verwendet werden. [158]_
     Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. [158]
-   Ferno Fastrap / Schaufeltrage: *“The Fastrap system is compatible
-   with Ferno backboards and Scoop stretchers.”* Ferno International
+   Ferno Fastrap / Schaufeltrage: *"The Fastrap system is compatible
+   with Ferno backboards and Scoop stretchers."* Ferno International
    Online Shop, http://www.fernointernational.com, 2011-05-13
 
 
@@ -996,14 +996,14 @@ mit dem Verdacht auf eine Verletzung der Wirbelsäule verwendet. Am
 Kopfgriff des Korsetts kann, falls nötig, ein Kranhaken eingehängt
 werden. Das Rettungskorsett wird (ausser wenn es ausschliesslich dazu
 verwendet wird, den Patienten zur Erleichterung der Rettung mit
-“Haltegriffen” auszustatten) gemeinsam mit einer *HWS-Schiene*
+"Haltegriffen" auszustatten) gemeinsam mit einer *HWS-Schiene*
 verwendet.
 
 .. figure:: /Bilder/WikipediaPd/KED.jpg
 
     Rettungskorsett
 
-    [Wikipedia: *"Onthost”, PD*]
+    [Wikipedia: *"Onthost", PD*]
 
 Material und Personal
 ^^^^^^^^^^^^^^^^^^^^^

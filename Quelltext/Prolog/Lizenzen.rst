@@ -81,7 +81,7 @@ an die Lizenzbedingungen akzeptieren.*
 
     \scriptsize
     \begin{ParWide}
-    \begin{multicols}{3}
+    \begin{multicols}{2}
 
 1.  Definitionen
     Der Begriff "**Bearbeitung**" im Sinne dieser Lizenz bezeichnet das
@@ -420,7 +420,8 @@ Ganzes unter diesen Lizenzen lizensiert sind!**
 .. raw:: latex
 
     \begin{ParWide}
-    \begin{multicols}{3}
+    \begin{multicols}{2}
+    \scriptsize
 
 .. glossary::
 

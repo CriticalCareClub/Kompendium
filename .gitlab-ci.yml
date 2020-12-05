@@ -2,18 +2,22 @@ image: alpine
 
 pages:
   script:
-  - apk --no-cache add file git py3-pip python-dev imagemagick
+  - apk --no-cache add file git py3-pip python3-dev imagemagick zlib-dev jpeg-dev musl-dev py3-setuptools python3-dev gcc zip
   - convert --version
-  - pip3 install sphinx sphinxcontrib.bibtex sphinx_git
+  - set LIBRARY_PATH=$LIBRARY_PATH:/lib:/usr/lib
+  - pip3 install --upgrade pip
+  - pip3 install Pillow
+  - pip3 install sphinx sphinxcontrib.bibtex sphinx_git sphinxcontrib-actdiag sphinxcontrib-blockdiag sphinxcontrib-seqdiag sphinxcontrib-nwdiag
   - apk --no-cache add make
-  - git checkout snapshot
+  - pwd
+  - git checkout master
+  - git status
+  - mkdir ~/.font
+  - cp Quelltext/_static/source-sans-pro/TTF/* ~/.font
   - make html
-  - mv Export/snapshot/html public
+  - mv Export/master/html public
   artifacts:
-    name: "$CI_JOB_NAME-$CI_COMMIT_REF_NAME"
-    expire_in: 1 week
     paths:
     - public
   only:
   - master
-

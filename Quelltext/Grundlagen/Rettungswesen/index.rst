@@ -610,7 +610,7 @@ mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifikation:
     Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-Rettungsmittel
 
     Bilderserie: Rettungsmittel

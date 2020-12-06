@@ -180,6 +180,10 @@ Es entsteht eine *Lungenembolie*.
 
     Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/lovenox1.*
     :width: 100%
 
@@ -191,6 +195,10 @@ Es entsteht eine *Lungenembolie*.
 
     Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.*
     :width: 100%
 
@@ -200,7 +208,7 @@ Es entsteht eine *Lungenembolie*.
     Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieTeaserThrombose
 
     Bilderserie: Thrombose

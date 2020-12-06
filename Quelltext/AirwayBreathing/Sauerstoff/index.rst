@@ -376,7 +376,7 @@ Sauerstoffmasken mit Reservoir [#BerieselungBeatmungsbeutel]_.
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-Bilderserie-Sauerstoffberieselung
 
      Bilderserie: Mittel zur Berieselung mit Sauerstoff

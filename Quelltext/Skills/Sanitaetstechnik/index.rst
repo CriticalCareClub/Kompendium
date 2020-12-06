@@ -153,12 +153,20 @@ Technik eignet sich nur für kurze Distanzen.
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering2b.jpg
     :width: 100%
 
     Transport mit dem Tragering
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering3b.jpg
     :width: 100%
@@ -168,7 +176,7 @@ Technik eignet sich nur für kurze Distanzen.
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieTragering
 
     Bilderserie: Transport mit einem *Tragering*
@@ -199,40 +207,72 @@ wird immer mit den *Füßen voran* getragen.
 
     Tuch aufbreiten
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch2b.jpg
     :width: 100%
 
     … die näher zum Patient liegende Hälfte umschlagen…
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch3b.jpg
     :width: 100%
 
     … die obere Hälfte nochmals Richtung Patient umschlagen…
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch4b.jpg
     :width: 100%
 
     … und das Tuch an den Patienten legen.
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch5b.jpg
     :width: 100%
 
     Patient leicht anheben und Tuch bis zur Hälfte unterschieben …
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch6b.jpg
     :width: 100%
 
     … Patient schonend zurück legen.
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch7b.jpg
     :width: 100%
 
     Von der anderen Seite ebenfalls leicht anheben und Tuch ausbreiten.
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch8b.jpg
     :width: 100%
 
     Zu dritt das Tuch fest anpacken …
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch9b.jpg
     :width: 100%
@@ -242,7 +282,7 @@ wird immer mit den *Füßen voran* getragen.
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieTragetuch
 
     Bilderserie: Transport mit dem Tragetuch
@@ -339,43 +379,72 @@ Lagerungsarten
 
     Flachlagerung
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerung30gradb.jpg
     :width: 100%
 
     Lagerung mit 30° erhöhtem Oberkörper
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungoberkoerperhochb.jpg
     :width: 100%
 
     Lagerung mit stark erhöhtem Oberkörper
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungseiteb.jpg
     :width: 100%
 
     Seitenlagerung
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungkollaps2b.jpg
     :width: 100%
 
     Lagerung mit erhöhten Beinen.
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungkollaps1b.jpg
     :width: 100%
 
     Lagerung mit erhöhten Beinen unter Schonung der Wirbelsäule und des Beckens (bei Verdacht auf Wirbelsäulen- oder Beckenverletzungen)
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungabdomenb.jpg
     :width: 100%
 
     Lagerung zur Entspannung der Bauchdecke
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungthromboseb.jpg
     :width: 100%
 
     Lagerung mit erhöhter Extremität
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungembolieb.jpg
     :width: 100%
@@ -383,7 +452,7 @@ Lagerungsarten
     Lagerung mit herabhängender Gliedmaße
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-lagerungsarten
 
     Bilderserie: Lagerungsarten
@@ -1211,6 +1280,10 @@ Trotz Aluminiumkernschiene muss an der betroffenen Extremität ein Armtragetuch 
     :width: 100%
 
     Ein SAM-Splint® fabriksneu …
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Sam_Splint_33053_crop-AASS-0112mm.jpg
     :width: 100%

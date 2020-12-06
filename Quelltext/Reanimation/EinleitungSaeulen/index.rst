@@ -172,6 +172,10 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
             [Lena Hirtler, :term:`Lizenz: MfG`]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
             :width: 100%
 
@@ -179,6 +183,9 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
             [Lena Hirtler, :term:`Lizenz: MfG`]
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
             :width: 100%
@@ -188,7 +195,7 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
             [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BasisreanimationDreiKoenige
 
     Die *drei Könige* der Basisreanimation

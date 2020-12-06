@@ -1,3 +1,4 @@
+.. index:: Traumatologie
 
 ###################################
 Traumatologie (#73)
@@ -7,11 +8,9 @@ Traumatologie (#73)
 
 Als :dfn:`Trauma` :index:`\ <! Trauma>` bezeichnet man eine
 
-#. Schädigung,
-
-#. Verletzung, oder
-
-#. Wunde,
+#.  Schädigung,
+#.  Verletzung, oder
+#.  Wunde,
 
 die durch eine Gewalteinwirkung physikalischer (mechanischer,
 thermischer) oder chemischer Art verursacht wurde.
@@ -302,7 +301,7 @@ angegeben:
 
 
 
-.. todo:: Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  *Hauer*
+.. todo:: Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
 
 Sturz aus großer Höhe
 =====================
@@ -394,19 +393,28 @@ Folgeverletzungen zu verhindern.
 
     Fixierung eines penetrierenden Fremdkörpers.
 
-    [Hauer]
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/fremdkoerper-stich-messer-01.*
     :width: 100%
 
     Stich mit einem Küchenmesser. Das Messer verbleibt im Körper … 
+
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/fremdkoerper-stich-messer-02.*
     :width: 100%
 
     … bis in den Operationssaal.
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieFremdkoerper
 
     Bilderserie: Fremdkörper
@@ -580,16 +588,31 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
 öffnet und schließlich mittels Stiefelgriff (siehe
 :ref:`Thema-vacuumbeinschiene-anwendung`) vorsichtig vom Fuß abzieht.
 
+
+.. subfigstart::
+
 .. figure:: /Bilder/HauerDavid-Ccc/fraktur_fehlstellung_nativ.*
     :width: 100%
 
     Fehlstellung einer Unterschenkelfraktur nach einem
     Verkehrsunfall (PKW gegen Fußgänger) in natura …
 
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HauerDavid-Ccc/fraktur_fehlstellung_xray.*
     :width: 100%
 
     … und in Röntgendarstellung
+
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/WikipediaCcBy/fraktur-offen-finger.*
     :width: 100%
@@ -597,7 +620,16 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
     Nicht immer sind offene Frakturen spektakulär:
     Offene Fraktur des Mittelfingers
 
-    [Ben Stephenson, Cleveland, OH, USA. Lizenz: CC-BY 2.0]
+    Ⓒ Ben Stephenson, Cleveland, OH, USA Ⓛ CC-BY 2.0]
+
+.. subfigend::
+    :width: 0.32
+    :label: Figure-Bilderserie-OffeneFrakturen
+
+     Bilderserie: Offene Frakturen
+
+
+
 
 
 
@@ -611,8 +643,8 @@ Maßnahmen: Fraktur
 .. todo:: Maßnahme TT14200C: Anpassung an höherqualifiziertes Personal
 
 
-Taktik \Ca{Zeitkritisch. Evtl. vitale
-Bedrohung v. a. durch Blutverlust.}
+:Taktik: Zeitkritisch. Evtl. vitale Bedrohung v. a. durch Blutverlust.
+
 Erkennen
 von großen Blutverlusten, Blutstillung,  Steriles
 Abdecken, Einschätzen der vitalen Bedrohung, ggfs
@@ -696,8 +728,10 @@ Verstauchung, Bänderzerrung und Bänderriss
 Beschreibung
 ------------
 
-**Eine :dfn:`Verstauchung` :index:`\ <! Verstauchung>` (*Syn.* :dfn:`Distorsion` :index:`\ <! Distorsion>`, *lat.* *Distorsio* (*Dist.*)) ist eine Zerrung bzw.
-Überdehnung des Kapsel-/ Bandapparates eines Gelenks.** Bei der
+Eine :dfn:`Verstauchung` :index:`\ <! Verstauchung>` (*Syn.* :dfn:`Distorsion` :index:`\ <! Distorsion>`, *lat.* *Distorsio* (*Dist.*)) ist eine Zerrung bzw.
+Überdehnung des Kapsel-/ Bandapparates eines Gelenks.
+
+Bei der
 Verstauchung (:dfn:`Distorsion` :index:`\ <! Distorsion>`) handelt es sich um eine
 Gelenksverletzung, bei welcher ein Knochen durch stumpfe
 Gewalteinwirkung kurz verschoben oder verdreht wird. Im Gegensatz zur
@@ -1010,7 +1044,7 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
    der Patient gegenwärtig im "*luziden Intervall*" befindet und sich
    sein Zustand erst in einigen Stunden, dann aber schlagartig
    verschlechtert. Im Zweifelsfall wird der Patient dort zur Beobachtung
-   (24h lang) aufgenommen.
+   (24 h lang) aufgenommen.
 
 
 
@@ -1520,13 +1554,19 @@ Todesangst.
 -  Spontanpneumothorax
 
 
+.. subfigstart::
+
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_xray_halb.*
     :width: 100%
 
     Pneumothorax. Beachte die Randlinie zwischen Lunge (unten,
     innen) und dem luftgefüllten Pleuraspalt (oben, außen)
 
-    *Hauer*
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_xray_endstadium.*
     :width: 100%
@@ -1534,7 +1574,7 @@ Todesangst.
     Im Vergleich: Kompletter Pneumothorax der rechten
     Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert.
 
-    *Hauer*
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.*
     :width: 100%
@@ -1543,7 +1583,19 @@ Todesangst.
     einen Pneumothorax verursacht. **Dieser Patient ist lebensgefährlich
     verletzt!**
 
-    *Hauer*
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. subfigend::
+    :width: 0.32
+    :label: Figure-Bilderserie-
+
+     Bilderserie:
+
+
 
 
 
@@ -1655,9 +1707,6 @@ Gefahren
 Sternumfraktur
 --------------
 
-Beschreibung
-------------
-
 Eine Fraktur des Brustbeins (Sternum) tritt vor allem bei nicht
 angeschnallten Fahrzeuglenkern auf, wenn der Brustkorb gegen das Lenkrad
 prallt. Meistens treten starke Schmerzen auf, gelegentlich lassen sich
@@ -1685,9 +1734,6 @@ Herzens.
 
 Verletzung des Herzens und der großen Gefäße
 ============================================
-
-Beschreibung
-------------
 
 Verletzungen des Herzens und der großen Gefäße treten am
 wahrscheinlichsten bei Stürzen aus großer Höhe und Verkehrsunfällen mit
@@ -1717,10 +1763,6 @@ oder Stichverletzungen. Folgende Verletzungen sind typisch:
 ***********************
 Bauch- und Beckentrauma
 ***********************
-
-
-Beschreibung
-============
 
 Ein Bauchtrauma oder Abdominaltrauma ist eine Verletzung des Abdomens.
 In einigen Büchern ist das Bauchtrauma als Untergruppe des akuten
@@ -1757,8 +1799,13 @@ verbunden sein.
 Offenes Bauchtrauma
 ===================
 
-Beschreibung
-------------
+.. figure:: /Bilder/HauerDavid-Ccc/bauchtrauma-offenes-01.*
+    :width: 50%
+    :align: right
+
+    Offenes Bauchtrauma mit Austritt von Darmschlingen
+
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
 
 Offene Bauchtraumata sind seltener als geschlossene Bauchtraumata. Beim
 offenen Bauchtrauma kann es zum Austritt von Darmschlingen kommen. Die
@@ -1773,11 +1820,7 @@ Begleitverletzungen im Brustkorb auf (Strauss and Fülöp, n.d.).
 
 -  innere Blutungen
 
-.. figure:: /Bilder/HauerDavid-Ccc/bauchtrauma-offenes-01.*
 
-    Offenes Bauchtrauma mit Austritt von Darmschlingen
-
-    [David Hauer, MfG]
 
 
 
@@ -1811,8 +1854,6 @@ Basismaßnahmen
 Geschlossenes Bauchtrauma
 =========================
 
-Beschreibung
-------------
 
 Geschlossene Bauchtraumata sind aufgrund der inneren Blutungen besonders
 gefährlich. So kann es z. B. bei einer Milzruptur zu einem Blutverlust
@@ -2254,11 +2295,11 @@ Verbrennung und Verbrühung
 Beschreibung
 ============
 
-**Eine Verbrennung (*Lat.* *Combustio*, *Abkz.* *Comb.*) ist eine durch
+Eine Verbrennung (*Lat.* *Combustio*, *Abkz.* *Comb.*) ist eine durch
 Hitzeeinwirkung entstandene Schädigung des Gewebes, besonders häufig der
 Haut. Sie ist eine thermische Wunde.** **Eine :dfn:`Verbrühung` :index:`\ <! Verbrühung>` (*Lat.* *Ambustio* (*Amb.*), *engl.* scald) ist eine
 thermische Schädigung durch heiße Flüssigkeit oder Dampf (Pschyrembel
-2002).**\  [#303]_ Verbrennungen reichen von kleinen Brandblasen bis
+2002)\ [#303]_. Verbrennungen reichen von kleinen Brandblasen bis
 schweren Schädigungen der Haut und der darunter liegenden Gewebe (z. B.
 großflächige Verkohlung). Um die Schwere der Verletzung rasch
 einschätzen zu können müssen die Ausdehnung und der Schweregrad der
@@ -2374,41 +2415,63 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 -  3: Schorfbildung, Verbrennungspanzer
 
 
+.. subfigstart::
+
 .. figure:: /Bilder/WikipediaPd/Verbrennung1-00441pt.*
     :width: 100%
 
     Verbrennung 1°
 
-    [Trent Easton; de.wikipedia / PD]
+    Ⓒ Trent Easton; de.wikipedia  Ⓛ  PD
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/VerbrennungGrad2a-00441pt.*
     :width: 100%
 
     Verbrennung 2°
 
-    [Yunaerith; WMC / CC-BY-SA 3.0 unported]
+    Ⓒ Yunaerith; WMC  Ⓛ CC-BY-SA 3.0 unported
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/Verbrennung_3gradig01.*
     :width: 100%
 
     Verbrennung 3°
 
-    [Sushma Koirala Memorial Hospital, Dr. Andreas Settje;
-    WMC / CC-BY-SA 3.0 unported]
+    Ⓒ Sushma Koirala Memorial Hospital, Dr. Andreas Settje; WMC
+    Ⓛ CC-BY-SA 3.0 unported
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-01.*
     :width: 100%
 
     Großflächige Verbrennung
 
-    [David Hauer, MfG]
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-02-hand.*
     :width: 100%
 
     Ablederung
 
-    [David Hauer, MfG]
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-03-escharotomie.*
     :width: 100%
@@ -2419,7 +2482,20 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
     Entlastungsschnitte (*Escharatomie*) ermöglichen dem Brustkorb
     wieder sich auszudehnen und dem Patienten damit zu atmen.
 
-    [David Hauer]
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. subfigend::
+    :width: 0.32
+    :label: Figure-Bilderserie-
+
+     Bilderserie:
+
+
+
+
+
+
+
 
 
 Einschätzung
@@ -2613,8 +2689,14 @@ Verletzungen durch chemische Stoffe – "Chemische Verbrennungen"
 Vergiftungen durch Einnahme von Säuren und Laugen werden unter
 :ref:`Thema-veraetzung-intoxikation`, besprochen.
 
-Beschreibung
-------------
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/notbrause2.*
+    :width: 50%
+    :align: right
+
+    Notbrause
+
+    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
 
 Schädigungen der Haut durch Säuren, Laugen oder andere schädliche Stoffe
 weisen – trotz der unterschiedlichen Entstehung – Gemeinsamkeiten mit
@@ -2642,12 +2724,6 @@ auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
 -  Gefahr für den Helfer
 
 -  Selbstschutz, Dekontamination!!!
-
-.. figure:: /Bilder/GabrielSebastian-Ccc/notbrause2.*
-
-    Notbrause
-
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 
 
@@ -2697,13 +2773,13 @@ Basismaßnahmen
 Erfrierungen
 ************
 
-Beschreibung
-============
 
-**Eine :dfn:`Erfrierung` :index:`\ <! Erfrierung>` ( *Lat.* *Congelatio*
+Eine :dfn:`Erfrierung` :index:`\ <! Erfrierung>` ( *Lat.* *Congelatio*
 (*Congelat.*)) ist eine Gewebsnekrose, die durch lokale
 Durchblutungsstörungen aufgrund von Kälteeinwirkung (Eis, Wind, Nässe,
-Kälte) entstanden ist.** Besonders gefährdet sind körperferne
+Kälte) entstanden ist.
+
+Besonders gefährdet sind körperferne
 Körperteile wie Zehen, Finger, Ohren oder Nase. Die Einteilung erfolgt
 in drei *Stadien* (siehe [Table-Erfrierungen]), diese haben am Notfallort
 keine entscheidende Bedeutung für die zu setzenden Maßnahmen. Den
@@ -2742,8 +2818,6 @@ Basismaßnahmen
 Unfälle durch Strom- und Blitzschlag
 ************************************
 
-Beschreibung
-============
 
 Stromunfälle sind zwar selten, stellen jedoch für die Helfer eine große
 Herausforderung dar. Der Grund hierfür ist, dass bereits im

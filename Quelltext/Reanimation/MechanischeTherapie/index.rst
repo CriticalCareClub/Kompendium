@@ -108,12 +108,20 @@ max. 120 / min).
 
             [Lena Hirtler, :term:`Lizenz: MfG`]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-1.*
             :width: 100%
 
             die Arme durchgestreckt
 
             [Lena Hirtler, :term:`Lizenz: MfG`]
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-2.*
             :width: 100%
@@ -124,7 +132,7 @@ max. 120 / min).
             [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Fig-Hdm
 
     Bilderserie: *Herzdruckmassage*

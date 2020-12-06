@@ -505,12 +505,20 @@ Nachgeburtsphase
 
     [WMC: "Jeremykemp" / PD]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/WikipediaPd/Navelklem.*
     :width: 100%
 
     Abgeklemmte Nabelschnur
 
     [WMC: "Harmid" / PD]
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/WikipediaPd/Umbilicalstump.*
     :width: 100%
@@ -520,7 +528,7 @@ Nachgeburtsphase
     [WMC: "Fatrabbit" / PD]
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieNabelschnur
 
     Bilderserie: Nabelschnur

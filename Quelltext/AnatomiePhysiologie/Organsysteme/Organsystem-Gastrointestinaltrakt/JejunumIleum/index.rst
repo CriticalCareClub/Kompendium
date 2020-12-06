@@ -70,12 +70,20 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 
     Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Duenndarm-Mesenterium.*
     :width: 100%
 
     Schema: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.
 
     Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Bauchfilm_Image_022.*
     :width: 100%
@@ -85,7 +93,7 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
     Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieBauchsitus
 
     Bilderserie: Bauchsitus und Mesenterium

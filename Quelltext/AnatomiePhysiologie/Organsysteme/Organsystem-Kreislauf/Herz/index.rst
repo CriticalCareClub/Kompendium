@@ -237,11 +237,9 @@ Beispiele von Rhythmen werden unter
 
     Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
-
 .. raw:: latex
 
     \hfill
-
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.*
     :width: 100%
@@ -250,11 +248,9 @@ Beispiele von Rhythmen werden unter
 
     Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
-
 .. raw:: latex
 
     \hfill
-
 
 .. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
     :width: 100%
@@ -267,7 +263,7 @@ Beispiele von Rhythmen werden unter
     Advanced Instructional Media Ⓛ CC-BY
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieHerz
 
     Bilderserie: Herz

@@ -126,7 +126,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
     Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieMiteinander
 
     Bilderserie: Miteinander
@@ -432,7 +432,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieDiv
 
     Bilderserie: Diverses
@@ -475,7 +475,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieDiagnostikTherapie
 
     Bilderserie: Diagnostik und Therapie
@@ -517,7 +517,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieArbeitsplaetze
 
     Bilderserie: Verschiedene Arbeitsplätze
@@ -593,7 +593,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieZusammenarbeit
 
     Bilderserie: Zusammenarbeit

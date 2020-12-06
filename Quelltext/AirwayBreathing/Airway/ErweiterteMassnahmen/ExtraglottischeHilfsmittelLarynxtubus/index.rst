@@ -79,6 +79,10 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [#129]_
 
             Larynxtubus mit Blockerspritze
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32885_textwidth.*
             :width: 100%
 
@@ -86,6 +90,10 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [#129]_
             Cuff.
 
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtuben_Set_33025_textwidth.*
       :width: 100%
@@ -95,7 +103,7 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [#129]_
       Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieLarynxtuben
 
     Bilderserie

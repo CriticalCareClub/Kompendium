@@ -108,12 +108,16 @@ Durchführung
 
     Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
+.. raw:: latex
 
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.jpg
     :width: 100%
 
+.. raw:: latex
 
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/bz-wert_1214-00800.jpg
     :width: 100%
@@ -123,7 +127,7 @@ Durchführung
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieBlutzuckermessung
 
     Bilderserie: Blutzuckermessung

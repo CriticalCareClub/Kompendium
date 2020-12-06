@@ -402,10 +402,18 @@ Synchronisation
 
     [WMC:Andersat, CC-BY-SA-3.0]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
     :width: 100%
 
     Bei der Analyse und Schockabgabe darf niemand den Patienten berühren!
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/Semi_automatic_defi_with_electrodes.png
     :width: 100%
@@ -416,13 +424,17 @@ Synchronisation
 
     [WMC:Hborkyb, CC-BY-SA-2.5-US]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/WikipediaPd/AED_Symbol.*
     :width: 100%
 
     Hinweisschild "Defibrillator"
 
 .. subfigend::
-    :width: 0.24
+    :width: 0.48
     :label: fsdgfergehrwthrwthtr
 
     Bilderserie: *Defibrillation*

@@ -162,6 +162,9 @@ festgestellt werden:
 
     Ⓒ Gabriel :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.*
     :width: 100%
@@ -170,6 +173,9 @@ festgestellt werden:
 
     Ⓒ Michael Motal :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.*
     :width: 100%
@@ -179,7 +185,7 @@ festgestellt werden:
     Ⓒ Michael Motal :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieD
 
     Bilderserie: D

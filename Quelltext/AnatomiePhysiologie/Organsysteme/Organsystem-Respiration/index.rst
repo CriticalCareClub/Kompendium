@@ -457,7 +457,7 @@ Gewebe und Pleura(spalt) wichtig:
     Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieAtemmechanik
 
     Bilderserie: Atemmechanik

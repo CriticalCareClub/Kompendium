@@ -55,6 +55,10 @@ Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
 
     [WMC:Hank / CC-BY-SA-2.0-DE]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
     :width: 100%
 
@@ -66,9 +70,6 @@ Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
     basierend auf der Arbeit von Patrick J. Lynch; illustrator;
     C. Carl Jaffe; MD; cardiologist Yale University Center for Advanced Instructional Media;
     CC-BY]
-
-
-
 
 .. subfigend::
     :width: 0.45

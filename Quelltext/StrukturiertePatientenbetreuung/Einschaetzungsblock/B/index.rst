@@ -188,12 +188,20 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
     Ⓒ Michael Motal :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
     :width: 100%
 
     Die Rippen folgen der Atembewegung.
 
     Ⓒ :term:`HiLe` :term:`Ⓛ MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*
     :width: 100%
@@ -206,7 +214,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieB
 
     Bilderserie: Breathing

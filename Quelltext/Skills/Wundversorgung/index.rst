@@ -193,6 +193,10 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     *Hauer*
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HauerDavid-Ccc/wunde_rqw2.*
     :width: 100%
 
@@ -202,6 +206,10 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
 .. todo:: Bild Schnittwunde
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HauerDavid-Ccc/stichwunde-klein.*
     :width: 100%
 
@@ -209,6 +217,10 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
     Die Stichwunde.
 
     *Hauer*
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.*
     :width: 100%
@@ -220,12 +232,20 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     [David Hauer, :term:`Lizenz: MfG`]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HauerDavid-Ccc/stichwunde-thorax-tief-01.*
     :width: 100%
 
     Stichwunde mit eröffneter Brusthöhle.
 
     [David Hauer, :term:`Lizenz: MfG`]
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/burn-chem01.*
     :width: 100%
@@ -241,6 +261,10 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     [David Hauer, :term:`Lizenz: MfG`]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-02-hand.*
     :width: 100%
 
@@ -249,7 +273,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
     [David Hauer, :term:`Lizenz: MfG`]
 
 .. subfigend::
-    :width: 0.23
+    :width: 0.32
     :label: Figure-BilderserieWundarten
 
     Bilderserie: Wundarten

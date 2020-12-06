@@ -238,12 +238,20 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
     Zusammenbauen des Laryngoskops
 
+.. raw:: latex
+
+    \hfill
+
 .. _Figure-BilderserieIntubation-2:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4831-AASS-0112mm.*
     :width: 100%
 
     Einsprühen des Tubus *in der Verpackung*
+
+.. raw:: latex
+
+    \hfill
 
 .. _Figure-BilderserieIntubation-3:
 
@@ -252,12 +260,20 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
     Präoxygenierung
 
+.. raw:: latex
+
+    \hfill
+
 .. _Figure-BilderserieIntubation-4:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0112mm.*
     :width: 100%
 
     Zureichen des Laryngoskops (*linke* Hand!)
+
+.. raw:: latex
+
+    \hfill
 
 .. _Figure-BilderserieIntubation-5:
 
@@ -266,12 +282,20 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
     Zureichen des Tubus (*rechte* Hand!)
 
+.. raw:: latex
+
+    \hfill
+
 .. _Figure-BilderserieIntubation-6:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4839-AASS-0112mm.*
     :width: 100%
 
     Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus
+
+.. raw:: latex
+
+    \hfill
 
 .. _Figure-BilderserieIntubation-7:
 
@@ -280,12 +304,20 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
     Cuffen nach Entfernung des Führungsdrahtes
 
+.. raw:: latex
+
+    \hfill
+
 .. _Figure-BilderserieIntubation-8:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4843-AASS-0112mm.*
     :width: 100%
 
     Stethoskop zureichen
+
+.. raw:: latex
+
+    \hfill
 
 .. _Figure-BilderserieIntubation-9:
 
@@ -294,6 +326,10 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
     Abhören des Patienten
 
+.. raw:: latex
+
+    \hfill
+
 .. _Figure-BilderserieIntubation-10:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4847-AASS-0112mm.*
@@ -301,12 +337,20 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
     Beißkeil (hier: Guedel-Tubus) einführen
 
+.. raw:: latex
+
+    \hfill
+
 .. _Figure-BilderserieIntubation-11:
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4849-AASS-0112mm.*
     :width: 100%
 
     Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!
+
+.. raw:: latex
+
+    \hfill
 
 .. _Figure-BilderserieIntubation-12:
 
@@ -317,7 +361,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
      der Luftröhre zu bestätigen.
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieIntubation
 
     Bilderserie: Intubation

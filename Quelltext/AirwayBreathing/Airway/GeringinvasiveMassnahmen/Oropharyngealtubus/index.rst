@@ -31,16 +31,24 @@ Lage des Guedel-Tubus.
 
             Abmessen,
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus2.*
 
             zuerst wird der Guedel-Tubus "verkehrt" herum eingeführt
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus3.*
 
             und anschließend mittels Drehbewegung endgültig positioniert.
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: sagaegaegbdfghdsfhg
 
     Bilderserie: Einführen des Guedel-Tubus [Lena Hirtler, MfG]

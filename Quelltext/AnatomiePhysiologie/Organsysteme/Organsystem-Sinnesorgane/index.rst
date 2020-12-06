@@ -174,6 +174,10 @@ aushaltbarer Schwindel.
 
     [Lena Hirtler, MfG]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Mittelohr.*
     :width: 100%
 

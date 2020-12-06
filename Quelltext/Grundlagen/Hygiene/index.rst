@@ -446,6 +446,10 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 
     [Christine Gabriel/KARPAT]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/GabrielChristine-Ccc/staph-aureus-mrsa.*
     :width: 100%
 
@@ -454,6 +458,10 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
     Er ist *multiresistent*.
 
     [Christine Gabriel/KARPAT]
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielChristine-Ccc/amputat-us1.*
     :width: 100%
@@ -465,7 +473,7 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieMultiresistenteKeime
 
     Bilderserie: Multiresistente Keime in der Praxis. Auf

@@ -56,6 +56,9 @@ auf eine Wirbelsäulenverletzung erkannt werden.
 
     Ⓒ Gabriel :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*
     :width: 100%

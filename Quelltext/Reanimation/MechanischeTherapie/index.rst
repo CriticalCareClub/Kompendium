@@ -75,9 +75,9 @@ direkt über dem Druckpunkt,
 die Finger werden ineinander verschränkt.
 Die Arme des Helfers sind durchstreckt und
 er drückt mit Hilfe seines eigenen Gewichts
-*gerade nach unten* mit einer *Eindrücktiefe* von **5—6 cm**.\ [142]_
+*gerade nach unten* mit einer *Eindrücktiefe* von **5—6 cm**.\ [#142]_
 Nach der Kompression erfolgt die passive vollständige **Entlastung** des
-Brustkorbs ehe eine neuerliche Kompression beginnt.\ [143]_
+Brustkorbs ehe eine neuerliche Kompression beginnt.\ [#143]_
 Die Kompressions- und Entlastungsphasen
 sollen in etwa gleich lange dauern und
 nicht ruckartig ablaufen.
@@ -85,10 +85,10 @@ Die *Zielfrequenz*  der Herzdruckmassage beträgt *100 / min* (bis
 max. 120 / min).
 
 
-.. [142]
+.. [#142]
    Beim durchschnittlichen Erwachsenen entspricht das ungefähr 1/3 des Brustkorbes.
 
-.. [143]
+.. [#143]
    Vollständige Entlastung bedeutet, dass der Helfer keinerlei Druck
    mehr auf den Brustkorb des Patienten ausübt. Die Handballen werden
    also in ihre Ausgangslage zurückgeführt, wobei sie gerade nicht vom

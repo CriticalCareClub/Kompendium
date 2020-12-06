@@ -151,7 +151,7 @@ Akute obstruktive Laryngitis, Pseudokrupp
 Beschreibung
 ------------
 
-Bei der Laryngitis (Pseudokrupp [278]_) handelt es sich um eine
+Bei der Laryngitis (Pseudokrupp [#278]_) handelt es sich um eine
 Entzündung des Kehlkopfes. Es können auch die oberen Atemwege durch das
 Anschwellen der Schleimhäute behindert sein (Pseudokrupp/Kruppsyndrom).
 Diese Infektion wird durch Viren verursacht.
@@ -480,7 +480,7 @@ LITERARY !!!
 
 -----
 
-.. [278]
+.. [#278]
    "Pseudokrupp" bezieht sich auf die Heiserkeit (griech.: pseudo für
    „unecht"; schottisch: croup, „Heiserkeit"). Der echte
    Krupp bezeichnet die Kehlkopfentzündung bei Diphtherie.

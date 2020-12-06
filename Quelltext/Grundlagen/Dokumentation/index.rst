@@ -64,7 +64,7 @@ Dokumentationspflicht
 
 Schon nach dem Sanitätergesetz besteht für jeden Sanitäter die Pflicht,
 die von ihm gesetzten sanitätsdienstlichen Maßnahmen zu
-dokumentieren. [164]_ Darüber hinaus müssen analog zu anderen
+dokumentieren. [#164]_ Darüber hinaus müssen analog zu anderen
 Gesundheitsberufen auch alle anderen medizinisch relevanten Sachverhalte
 schriftlich und nachvollziehbar fixiert werden.
 
@@ -101,7 +101,7 @@ oder, wenn nötig, auf einem beigelegten Blatt Papier erfolgen.
 NACA-Score
 ==========
 
-Der *NACA-Score*\  [165]_ diente ursprünglich der Bewertung
+Der *NACA-Score*\  [#165]_ diente ursprünglich der Bewertung
 von Erkrankungen / Verletzungen als Entscheidungshilfe welche Soldaten
 zuerst auszufliegen wären. Heutzutage dient der NACA-Score der groben
 statistischen Erfassung. Man unterscheidet die Stufen 1 bis 7:
@@ -596,8 +596,8 @@ Richtungs- und Seitenangaben
     fußwärts
 
 
-.. [164]
+.. [#164]
    §5 SanG
 
-.. [165]
+.. [#165]
    NACA

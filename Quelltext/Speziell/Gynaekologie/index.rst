@@ -57,11 +57,11 @@ durch eine *vaginale Blutung* bemerkbar, die mitunter als *"verstärkte
 Regelblutung"* fehlgedeutet wird. Weiters kann es zum *Abgang von
 Gewebeteilen* und *Unterbauchschmerzen* kommen. Eine Fehlgeburt kann
 jedoch auch zu einem späteren Zeitpunkt während der Schwangerschaft vor
-Erreichen der 500-Grenze des Kindes vorkommen. [275]_
+Erreichen der 500-Grenze des Kindes vorkommen. [#275]_
 
 
 
-.. [275]
+.. [#275]
    Nach dem Erreichen der 500 g-Marke spricht man von einer *Totgeburt*;
    für diese gelten z. T. andere rechtliche Rahmenbedingungen (Kind kann
    einen Vornamen erhalten, Beurkundung im Sterbebuch, [Hochmeister:2]_ ).
@@ -1081,14 +1081,14 @@ jede vaginale Blutung abgeklärt gehört, da sich dahinter auch ein
 Tumorgeschehen (besonders bei Patientinnen in der Menopause) verstecken
 kann. Darüber hinaus kommt eine verstärkte Monatsblutung, Verletzung
 (nach Sturz, Geschlechtsverkehr oder nach Vergewaltigungen),
-Defloration [277]_ oder Blutungen im Rahmen einer Schwangerschaft in
+Defloration [#277]_ oder Blutungen im Rahmen einer Schwangerschaft in
 Betracht. Bei vaginalen Blutungen bei Kindern darf man *nicht*
 automatisch von einem erfolgten Missbrauch ausgehen. Eine akute vitale
 Bedrohung besteht seltenst, dennoch muss sie routinemäßig vor allem
 anhand des Blutverlustes und der Vitalwerte eingeschätzt werden.
 
 
-.. [277]
+.. [#277]
    Entjungferung
 
 

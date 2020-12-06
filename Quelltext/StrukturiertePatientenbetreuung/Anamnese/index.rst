@@ -341,17 +341,20 @@ und ob die Angaben darin noch aktuell sind
 veralten).
 
 
---------------
 
-::
+.. admonition:: Beispiel: Patientenbrief
 
-  **Krankenanstalt der Barmherzigkeit**
-  II. Med. Abteilung
+  .. raw:: latex
+
+        \ttfamily\small
+
+  | **Krankenanstalt der Barmherzigkeit**
+  | II. Med. Abteilung
 
   Vorstand: Prim. Univ.-Doz. Dr. Vicco von Bülow
 
-  Hartlgasse 16a, A-1240 Wien
-  Tel.: +43555328745-0     Fax: +43555328745-100
+  | Hartlgasse 16a, A-1240 Wien
+  | Tel.: +43555328745-0     Fax: +43555328745-100
 
   | Peter Zapfl
   | Diesseitsweg 13a/12/5/34
@@ -388,6 +391,8 @@ veralten).
   **Bisherige Med.:**
 
     +---------------------+----+---------------+
+    | Präparat            |    | Dosierung     |
+    +=====================+====+===============+
     | Renitec 10 mg       |    | 1-1-1         |
     +---------------------+----+---------------+
     | Diabetex 850 mg     |    | 1-1-1         |
@@ -504,7 +509,8 @@ veralten).
 
     vidit OA Univ.Doz. Dr. Alois Schremser
 
---------------
+
+
 
 
 

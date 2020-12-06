@@ -243,43 +243,200 @@ Der RTW *ABD-Donaustadt* erhält über Sprechfunk einen Einsatz:
     ABD-D
         *"ABD-Donaustadt hat verstanden und fährt Richtung BO. Ende."*
 
-.. table:: Buchstabieralphabetenach ÖNORM A 1081, DIN 5009 und NATO
 
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    |        | **ÖNORM**   | **DIN**                   | **NATO**   |         | **ÖNORM**    | **DIN**                   | **NATO**   |         |          |           |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *A*    | Anton       |  :math:`\hookleftarrow`   | Alpha      | *O*     | Otto         |  :math:`\hookleftarrow`   | Oscar      | *0*     | Null     | Zero      |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *Ä*    | Ärger       |  :math:`\hookleftarrow`   | —          | *Ö*     | Österreich   | Ökonom                    | —          | *1*     | Eins     | One       |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *B*    | Berta       |  :math:`\hookleftarrow`   | Bravo      | *P*     | Paula        |  :math:`\hookleftarrow`   | Papa       | *2*     | Zwo      | Two       |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *C*    | Cäsar       |  :math:`\hookleftarrow`   | Charlie    | *Q*     | Quelle       |  :math:`\hookleftarrow`   | Quebec     | *3*     | Drei     | Three     |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *Ch*   | —           | Charlotte                 | —          | *R*     | Richard      |  :math:`\hookleftarrow`   | Romeo      | *4*     | Vier     | Fower     |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *D*    | Dora        |  :math:`\hookleftarrow`   | Delta      | *S*     | Siegfried    | Samuel                    | Sierra     | *5*     | Fünf     | Five      |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *E*    | Emil        |  :math:`\hookleftarrow`   | Echo       | *Sch*   | —            | Schule                    | —          | *6*     | Sechs    | Six       |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *F*    | Friedrich   |  :math:`\hookleftarrow`   | Foxtrott   | *ß*     | Scharfes s   | Eszett                    | —          | *7*     | Sieben   | Seven     |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *G*    | Gustav      |  :math:`\hookleftarrow`   | Golf       | *T*     | Theodor      |  :math:`\hookleftarrow`   | Tango      | *8*     | Acht     | Eight     |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *H*    | Heinrich    |  :math:`\hookleftarrow`   | Hotel      | *U*     | Ulrich       |  :math:`\hookleftarrow`   | Uniform    | *9*     | Neun     | Niner     |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *I*    | Ida         |  :math:`\hookleftarrow`   | India      | *Ü*     | Übel         | Übermut                   | —          | *./,*   | —        | Decimal   |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *J*    | Julius      |  :math:`\hookleftarrow`   | Juliett    | *V*     | Viktor       |  :math:`\hookleftarrow`   | Victor     | *.*     | —        | Stop      |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *K*    | Konrad      | Kaufmann                  | Kilo       | *W*     | Wilhelm      |  :math:`\hookleftarrow`   | Whiskey    |         |          |           |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *L*    | Ludwig      |  :math:`\hookleftarrow`   | Lima       | *X*     | Xaver        | Xanthippe                 | X-ray      |         |          |           |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *M*    | Martha      |  :math:`\hookleftarrow`   | Mike       | *Y*     | Ypsilon      |  :math:`\hookleftarrow`   | Yankee     |         |          |           |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
-    | *N*    | Nordpol     |  :math:`\hookleftarrow`   | November   | *Z*     | Zürich       | Zacharias                 | Zulu       |         |          |           |
-    +--------+-------------+---------------------------+------------+---------+--------------+---------------------------+------------+---------+----------+-----------+
+.. tabularcolumns:: CLLLCLLLCLL
+
+.. list-table:: Buchstabieralphabete nach ÖNORM A 1081, DIN 5009 und NATO
+    :header-rows: 1
+
+    *   -
+        -   ÖNORM
+        -   DIN
+        -   NATO
+        -
+        -   ÖNORM
+        -   DIN
+        -   NATO
+        -
+        -
+        -
+    *   -   *A*
+        -   Anton
+        -   ←
+        -   Alpha
+        -   *O*
+        -   Otto
+        -   ←
+        -   Oscar
+        -   *0*
+        -   Null
+        -   Zero
+    *   -   *Ä*
+        -   Ärger
+        -   ←
+        -   —
+        -   *Ö*
+        -   Österreich
+        -   Ökonom
+        -   —
+        -   *1*
+        -   Eins
+        -   One
+    *   -   *B*
+        -   Berta
+        -   ←
+        -   Bravo
+        -   *P*
+        -   Paula
+        -   ←
+        -   Papa
+        -   *2*
+        -   Zwo
+        -   Two
+    *   -   *C*
+        -   Cäsar
+        -   ←
+        -   Charlie
+        -   *Q*
+        -   Quelle
+        -   ←
+        -   Quebec
+        -   *3*
+        -   Drei
+        -   Three
+    *   -   *Ch*
+        -   —
+        -   Charlotte
+        -   —
+        -   *R*
+        -   Richard
+        -   ←
+        -   Romeo
+        -   *4*
+        -   Vier
+        -   Fower
+    *   -   *D*
+        -   Dora
+        -   ←
+        -   Delta
+        -   *S*
+        -   Siegfried
+        -   Samuel
+        -   Sierra
+        -   *5*
+        -   Fünf
+        -   Five
+    *   -   *E*
+        -   Emil
+        -   ←
+        -   Echo
+        -   *Sch*
+        -   —
+        -   Schule
+        -   —
+        -   *6*
+        -   Sechs
+        -   Six
+    *   -   *F*
+        -   Friedrich
+        -   ←
+        -   Foxtrott
+        -   *ß*
+        -   Scharfes s
+        -   Eszett
+        -   —
+        -   *7*
+        -   Sieben
+        -   Seven
+    *   -   *G*
+        -   Gustav
+        -   ←
+        -   Golf
+        -   *T*
+        -   Theodor
+        -   ←
+        -   Tango
+        -   *8*
+        -   Acht
+        -   Eight
+    *   -   *H*
+        -   Heinrich
+        -   ←
+        -   Hotel
+        -   *U*
+        -   Ulrich
+        -   ←
+        -   Uniform
+        -   *9*
+        -   Neun
+        -   Niner
+    *   -   *I*
+        -   Ida
+        -   ←
+        -   India
+        -   *Ü*
+        -   Übel
+        -   Übermut
+        -   —
+        -   *./,*
+        -   —
+        -   Decimal
+    *   -   *J*
+        -   Julius
+        -   ←
+        -   Juliett
+        -   *V*
+        -   Viktor
+        -   ←
+        -   Victor
+        -   *.*
+        -   —
+        -   Stop
+    *   -   *K*
+        -   Konrad
+        -   Kaufmann
+        -   Kilo
+        -   *W*
+        -   Wilhelm
+        -   ←
+        -   Whiskey
+        -
+        -
+        -
+    *   -   *L*
+        -   Ludwig
+        -   ←
+        -   Lima
+        -   *X*
+        -   Xaver
+        -   Xanthippe
+        -   X-ray
+        -
+        -
+        -
+    *   -   *M*
+        -   Martha
+        -   ←
+        -   Mike
+        -   *Y*
+        -   Ypsilon
+        -   ←
+        -   Yankee
+        -
+        -
+        -
+    *   -   *N*
+        -   Nordpol
+        -   ←
+        -   November
+        -   *Z*
+        -   Zürich
+        -   Zacharias
+        -   Zulu
+        -
+        -
+        -
+
 
 Datenfunk
 ---------
@@ -783,8 +940,6 @@ Bei der Kooperation der Wiener Rettung mit privaten
 Rettungsorganisationen handelte es sich nicht um einen Rettungsverbund,
 sondern um einen losen Zusammenschluss der Rettungsorganisationen in
 Wien. [KontrollamtWienKA-K-13-09]_
-
-
 
 
 

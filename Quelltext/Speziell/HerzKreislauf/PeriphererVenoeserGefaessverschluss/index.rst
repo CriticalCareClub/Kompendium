@@ -16,7 +16,7 @@ Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose (#52)
         -  Gesteigerte bzw. krankhafte Neigung
 
 Eine tiefe :dfn:`Beinvenenthrombose` ist eine Verstopfung
-einer tiefen Beinvene durch ein Blutgerinnsel (Thrombus [245]_).
+einer tiefen Beinvene durch ein Blutgerinnsel (Thrombus [#245]_).
 
 Ursächlich für die Bildung eines Blutgerinnsels ist meistens eine
 verminderte Blutflussgeschwindigkeit bzw. Rückstau, eine Verminderung
@@ -29,7 +29,7 @@ insuffiziente Venenklappen, stehende bzw. sitzende Tätigkeiten und
 fehlende Bewegung.
 
 
-.. [245]
+.. [#245]
    Thrombus: Blutgerinnsel. Im Gegensatz dazu
    *Embolus*: Losgelöster Thrombus, welcher woanders ein Gefäß verstopft
    und eine :dfn:`Embolie` verursacht.

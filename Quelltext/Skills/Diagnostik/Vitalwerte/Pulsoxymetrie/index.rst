@@ -31,7 +31,7 @@ Die Pulsoxymetrie ist eine einfache apparative Untersuchungsmethode zur
 nicht-invasiven Ermittlung der Sauerstoffsättigung des kapillären
 Blutes, welche mit einem *Pulsoxymeter* durchgeführt wird. Sie dient zur
 nicht-invasiven Überwachung der **Sauerstoffsättigung**
-(*SpO₂*) des Hämoglobins [120]_ im kapillären Blut. Das
+(*SpO₂*) des Hämoglobins [#120]_ im kapillären Blut. Das
 Messprinzip basiert auf einer Messung der Lichtabsorption bzw. der
 Lichtremission bei Durchleuchtung der Haut mittels eines Sensors
 bestehend aus einer Lichtquelle und einem Fotosensor. Auf diese Weise
@@ -218,6 +218,6 @@ wasserdicht, es darf kein Desinfektionsmittel in das Gerät gelangen.
 
 
 
-.. [120]
+.. [#120]
     Das Hämoglobin ist der für die Sauerstoffbindung verantwortliche
     Stoff in den roten Blutkörperchen (:ref:`Thema-haemoglobin`).

@@ -341,7 +341,7 @@ Stich- und Schussverletzungen
 =============================
 
 Stich- bzw. Pfählungsverletzungen und Schussverletzungen werden zu
-*penetrierende Verletzungen* zusammen gefasst. [296]_
+*penetrierende Verletzungen* zusammen gefasst. [#296]_
 
 Besonderheiten von Stichverletzungen sind, dass sie meistens
 unspektakulär aussehen. Sie sind oft klein und nur schwach blutend.
@@ -468,9 +468,9 @@ ist eine Kontinuitätsunterbrechung
 eines Knochens mit Bildung von Fragmenten (Bruchstücken) (Pschyrembel
 2002).** Grundsätzlich wird zwischen zwei Arten von Knochenbrüchen
 unterschieden: Beim *geschlossenen Knochenbruch* ist die Haut über der
-Bruchstelle noch intakt, während beim *offenen Knochenbruch*\  [297]_
+Bruchstelle noch intakt, während beim *offenen Knochenbruch*\  [#297]_
 aufgrund der Gewalteinwirkung von außen die Haut über der Bruchstelle
-verletzt ist. Der Knochen muss dabei nicht herausragen. [298]_
+verletzt ist. Der Knochen muss dabei nicht herausragen. [#298]_
 
 -  Geschlossener Knochenbruch
 
@@ -501,7 +501,7 @@ werden.
 
     -  Fehlstellung (abnorme Stellung, Verkürzung, Treppenbildung)
 
-    -  Knochenreiben (Krepitus) [299]_
+    -  Knochenreiben (Krepitus) [#299]_
 
     -  Sichtbare freie Knochenteile (= offener Bruch)
 
@@ -575,7 +575,7 @@ Gefahren
 Auch bei einer harmlos anmutenden Fraktur muss ein gründlicher
 Traumacheck durchgeführt werden, damit keine Begleitverletzungen
 übersehen werden. Dafür ist es unbedingt notwendig, dass der Patient
-entkleidet wird. [300]_ Beim Entfernen der Schuhe ist darauf zu achten,
+entkleidet wird. [#300]_ Beim Entfernen der Schuhe ist darauf zu achten,
 dass eine Person das Bein fixiert während eine andere Person den Schuh
 öffnet und schließlich mittels Stiefelgriff (siehe
 :ref:`Thema-vacuumbeinschiene-anwendung`) vorsichtig vom Fuß abzieht.
@@ -1231,7 +1231,7 @@ Typische Unfallmechanismen
 
 -  Hochgeschwindigkeitsunfall
 
--  Sturz :math:`\geq` 3fache Patientengröße
+-  Sturz ≥ 3-fache Patientengröße
    ``!!! A !!!3fache Patientengröße (ITLS) oder 3m?``
 
 -  Penetrierende Verletzungen im Bereich der Wirbelsäule
@@ -1250,8 +1250,7 @@ nach [Campbell:2010:De]_, vgl. !!! FULLPRETTYREFPROCEDURE !!! YY14200B
 
 -  Hochgeschwindigkeitsunfall
 
--  Sturz :math:`\geq` 3fache Patientengröße
-   ``!!! A !!!3fache Patientengröße (ITLS) oder 3m?``
+-  Sturz ≥ 3-fache Patientengröße
 
 -  Penetrierende Verletzungen im Bereich der Wirbelsäule
 
@@ -1450,7 +1449,7 @@ beeinträchtigt, da sich die Lunge nicht mehr an den Rippen aufspannen
 kann. Es kommt folglich zu einer *paradoxen Atmung*, bei der sich der
 Brustkorb beim Einatmen senkt. Verletzt eine der gebrochenen Rippen die
 Pleura, oder reisst diese aufgrund der Gewalteinwirkung ein, ensteht ein
-*Pneumothorax* oder ein Spannungspneumothorax [301]_.
+*Pneumothorax* oder ein Spannungspneumothorax [#301]_.
 
 Der Patient leidet unter *Atemnot* und evtl. atemabhängigen Schmerzen.
 Evtl. kommt es zum Bluthusten. Bei der Inspektion des Brustkorbes können
@@ -1900,7 +1899,7 @@ unterscheidet man:
    begründete Verdacht auf eine Milzverletzung besteht, einer
    weiterführenden Untersuchung und Überwachung im Spital zuzuführen und
    bis dahin jede weitere Bewegung zu vermeiden
-   (*Bewegungsverbot*)!*\  [302]_
+   (*Bewegungsverbot*)!*\  [#302]_
 
 -  Schmerzen im linken Oberbauch
 
@@ -2259,14 +2258,14 @@ Beschreibung
 Hitzeeinwirkung entstandene Schädigung des Gewebes, besonders häufig der
 Haut. Sie ist eine thermische Wunde.** **Eine :dfn:`Verbrühung` :index:`\ <! Verbrühung>` (*Lat.* *Ambustio* (*Amb.*), *engl.* scald) ist eine
 thermische Schädigung durch heiße Flüssigkeit oder Dampf (Pschyrembel
-2002).**\  [303]_ Verbrennungen reichen von kleinen Brandblasen bis
+2002).**\  [#303]_ Verbrennungen reichen von kleinen Brandblasen bis
 schweren Schädigungen der Haut und der darunter liegenden Gewebe (z. B.
 großflächige Verkohlung). Um die Schwere der Verletzung rasch
 einschätzen zu können müssen die Ausdehnung und der Schweregrad der
 Verbrennung beurteilt werden. Dazu stehen die *Neunerregel* sowie die
 Einteilung nach (Schwere-)Graden zur Verfügung. Schwere Verbrennungen
 können – wie alle Wunden – Auswirkungen auf den gesamten Organismus
-haben. [304]_
+haben. [#304]_
 
 Abhängig von den Umständen muss auch an ein *Inhalationstrauma*
 (:ref:`Thema-inhalationstrauma`) oder andere Begleitverletzungen gedacht
@@ -2303,7 +2302,7 @@ entwickelt sich allerdings erst allmählich.
 Bei *ringförmige Verbrennungen*, die um den Brustkorb herumlaufen, kann
 sich das Gewebe zusammenziehen und die Dehnbarkeit des Brustkorbes
 abnehmen; dadurch wird die Atmung stark behindert. *Unterkühlung*
-bedeutet erhöhte *Sterblichkeit*. [305]_
+bedeutet erhöhte *Sterblichkeit*. [#305]_
 
 -  Haut verliert Schutzfunktion
 
@@ -2333,7 +2332,7 @@ der Vebrennung abschätzen zu können.
 
 +-----------------+-------------------+-------------------------------+----------------+
 +-----------------+-------------------+-------------------------------+----------------+
-| (lr)2-4         | **Erwachsener**   | **Kind** :math:`\leq` 5. Lj   | **Säugling**   |
+| (lr)2-4         | **Erwachsener**   | **Kind** ≤            5. Lj   | **Säugling**   |
 +-----------------+-------------------+-------------------------------+----------------+
 | Kopf:           | 9                 | 15                            | 20             |
 +-----------------+-------------------+-------------------------------+----------------+
@@ -2432,18 +2431,18 @@ Verbrennung, maßgebliche Faktoren sind die *Ausbreitung* und der
 (Erwachsene; Kinder >10%, Säuglinge >5%) gilt eine Verbrennung als
 *großflächig*. Aufgrund des *Flüssigkeitsverlustes* durch die
 Verbrennungskrankheit und Verdunstung besteht bereits ab *10%* (oder *5%
-bei Kindern*) *:math:`\geq`\ 2* verbrannter Körperoberfläche
+bei Kindern*) *≥ 2°* verbrannter Körperoberfläche
 *Schockgefahr* (hypovolämischer Schock), diese Verbrennungen gelten
 daher als *schwer*! Der Schock entwickelt sich allerdings erst
 allmählich.
 
--  Ab *10% :math:`\geq`\ 2* → schwer
+-  Ab 10% ≥ 2° → schwer
 
 -  *Kinder*: *5%*
 
 Für
 
-    -  Ab *10% :math:`\geq`\ 2* verbrannter Körperoberfläche gilt eine
+    -  Ab *10% ≥ 2°* verbrannter Körperoberfläche gilt eine
        Verbrennung als "schwer", für *Kinder* gilt eine Grenze von *5%.*
 
 
@@ -2784,8 +2783,8 @@ Bedrohung ist bei Elektrounfällen sehr schwierig. Dies hat mehrere
 Gründe:
 
 #. Die Wirkung des Stromes im menschlichen Körper hängt von mehreren
-   Faktoren ab: Höhe der elektrischen Spannung [306]_, Stärke des
-   elektrischen Stromes [307]_, der Stromart (Gleich- oder
+   Faktoren ab: Höhe der elektrischen Spannung [#306]_, Stärke des
+   elektrischen Stromes [#307]_, der Stromart (Gleich- oder
    Wechselstrom), dem Weg des Stromes durch den Körper, dem
    Kontaktwiderstand (feuchte Hände, Wasserlacke, …) und der
    Einwirkzeit. Meistens sind die Zahlenwerte dieser Faktoren im
@@ -2948,13 +2947,13 @@ Flake and Runggaldier 2008; Scholz et al. 2008)
 
 
 
-.. [296]
+.. [#296]
     lat. penetrare: eindringen, durchdringen.
 
-.. [297]
+.. [#297]
    Offener Bruch: *Fractura aperta* (*Fract* :index:`\ <Fract.!apert.>`. apert.)
 
-.. [298]
+.. [#298]
    Die Literatur ist bei der Definition offener Knochenbrüche nicht
    einheitlich. In manchen Büchern, z. B. in (Gorgass et al. 2007), wird
    ein offener Knochenbruch durch eine direkte Verbindung zwischen Wunde
@@ -2965,40 +2964,40 @@ Flake and Runggaldier 2008; Scholz et al. 2008)
    Das Achten auf Keimfreiheit ist in jedem der beschriebenen Fälle
    unbedingt notwenidg!
 
-.. [299]
+.. [#299]
    absichtlich ausprobieren!
 
-.. [300]
+.. [#300]
    Nachdem der Patient für die Untersuchung entkleidet wurde, muss er
    nach der Untersuchung zugedeckt werden (Wärmeerhaltung)!
 
-.. [301]
+.. [#301]
    Pneumothorax evtl. mit Hautemphysem (Luftansammlung in der Haut,
    typisches Knistern)
 
-.. [302]
+.. [#302]
    Mittels Ultraschall oder Computertomographie (CT) kann eine
    Milzblutung nachgewiesen werden.
 
-.. [303]
+.. [#303]
    Verbrennung / ASBÖ-Lehrmeinung: Dieser Abschnitt ist kompatibel mit
    der ASBÖ-Lehrmeinung, publiziert unter *(ASBÖ Akademie 2010)* (ASBÖ
    Akademie 2010).
 
-.. [304]
+.. [#304]
    Verbrennung / Unterscheidung leichte und schwere Verbrennung: Um die
    Unterscheidung zwischen leichter und schwerer Vebrennung für den
    Leser einfacher zu gestalten, wurden diese Unterscheidung hier
    eingeführt und die Begriffe im Konsens und nach Maßgabe der
    einschlägigen Literatur entsprechend definiert.
 
-.. [305]
+.. [#305]
    (Lönnecker and Schoder 2001) spricht bei Verbrennungspatienten von
    einer über 40%ig erhöhten Chance zu versterben wenn die
    Körpertemperatur um 1 Grad abnimmt. Eine Unterkühlung tritt vor allem
    bei narkotisierten Patienten leicht ein.
 
-.. [306]
+.. [#306]
    Die elektrische Spannung wird in Volt (V) gemessen. Typische Werte
    sind 12V bei einer Autobatterie, 230V an einer Haushaltssteckdose,
    15000V bei Eisenbahn-Oberleitungen und bis zu 380000V bei
@@ -3007,5 +3006,5 @@ Flake and Runggaldier 2008; Scholz et al. 2008)
    hängt jedoch auch vom elektrischen Widerstand des durchströmten
    Materials ab.
 
-.. [307]
+.. [#307]
    Die Stärke des elektrischen Stromes wird in Ampere (A) gemessen.

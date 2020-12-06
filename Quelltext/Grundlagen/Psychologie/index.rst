@@ -247,9 +247,9 @@ gekennzeichnet durch mangelndes Vertrauen, geringe
 Unterstützungsbereitschaft und geringes Interesse zuzuhören bzw. sich
 mit den Problemen anderer auseinanderzusetzen –, *Hierarchieprobleme*
 sowie *mangelnde Rückmeldung über Einsatzerfolge* zählen laut einer
-Studien [27]_ zu den Hauptbelastungsfaktoren, ebenso wie beeinträchtigte
+Studien [#27]_ zu den Hauptbelastungsfaktoren, ebenso wie beeinträchtigte
 Kooperationsmöglichkeiten und *unzureichende Anerkennung* sowohl durch
-Mitarbeiter als auch Leiter. [28]_ Demzufolge lässt sich dem *sozialen
+Mitarbeiter als auch Leiter. [#28]_ Demzufolge lässt sich dem *sozialen
 Zusammenhalt* im Rettungsdienst für die erfolgreiche Bewältigung der
 Aufgaben eine hohe Bedeutung zuschreiben.
 
@@ -260,10 +260,10 @@ Aufgaben eine hohe Bedeutung zuschreiben.
 
 
 
-.. [27]
+.. [#27]
    Gigsby & Mc New, 1988 zitiert nach [BengelPsyNotfallmedRd2-PsyBelRdPers]_
 
-.. [28]
+.. [#28]
    Udris, 1981 zitiert nach [BengelPsyNotfallmedRd2-PsyBelRdPers]_
 
 **********************************************************
@@ -288,7 +288,7 @@ manifestieren. Aufgrund seiner Funktion, den Organismus auf eine
 Handlung vorzubereiten/in *Alarmbereitschaft* zu versetzen, ist er per
 se nicht als positiv oder negativ zu bewerten, sondern stellt eine
 *überlebenswichtige, evolutionär entstandene natürliche Reaktion*
-dar. [29]_
+dar. [#29]_
 
 
 
@@ -300,7 +300,7 @@ dar. [29]_
 
 
 
-.. [29]
+.. [#29]
    In jeder Sekunde strömen ca. 11 Millionen Reize auf unser
    Nervensystem ein. Sie werden zunächst einer unbewussten Sofortanalyse
    unterzogen. Dabei findet v.a. eine kognitiv-emotionalen Bewertung
@@ -343,7 +343,7 @@ Modell der Homöostase-Allostase
 
 Unter :dfn:`Homöostase` versteht man ein (fiktives
 biopsychosoziales) *Gleichgewicht eines Individuums*; Stress kann dieses
-Gleichgewicht gefährden. [31]_
+Gleichgewicht gefährden. [#31]_
 
 Mögliche Belastungsquellen, die die Anpassungsmöglichkeiten des
 Organismus überfordern und krankheitsauslösend wirken können, wenn sie
@@ -375,7 +375,7 @@ als unkontrollierbar erlebt werden sind z. B.
 
 
 
-.. [31]
+.. [#31]
    Unter :dfn:`Allostase` :index:`\ <! Allostase>` versteht man einen *Regelkreis,
    dessen Sollwert stärker verstellbar ist* als bei homöostatischen
    Systemen; trotz äußerer Störfaktoren wird das innere Milieu dank
@@ -468,12 +468,12 @@ die Energie-Reserven verbrauchen. Die verschiedenen Phasen sind mit
 jeweiligen physiologisch-vegetativen Reaktion verknüpft. Insgesamt wird
 eine Reaktions-/Alarmbereitschaft erzeugt, die ein adäquates Reagieren
 auf den Stressor ermöglichen soll, solange Ressourcen vorhanden
-sind. [32]_
+sind. [#32]_
 
 
 
 
-.. [32]
+.. [#32]
    Allgemeines Adaptationssyndrom: Das Allgemeine Adaptationssyndrom
    (Von Selye postuliert, zitiert nach [ZimbardoPsych:6]_ ) ist als eine
    komplexe Antwort des Körpers zu verstehen, wenn die Homöostase des
@@ -505,7 +505,7 @@ Psychoneuroendokrines Stressmodell
 
 Je nach Stressor und dessen emotionaler Bewertung (Furcht, Ärger,
 Depression) initiiert der Körper spezifische biochemische
-Reaktionen [33]_.
+Reaktionen [#33]_.
 Zuerst erfolgt eine Verarbeitung
 im frontotemporalen Kortex (Aufmerksamkeit), dann erfolgt die
 emotionale Bewertung: *Furcht*: Anstieg des Adrenalin (basale
@@ -518,7 +518,7 @@ Testosteron (Hippocampus).
        spezifische biochemische Prozesse auf verschiedene Affekte.
 
 
-.. [33]
+.. [#33]
    Psychoneuroendokrines Stressmodell:
    Von Henry [PlutchikEmotionVol3-NeuroendocrinePatterns]_
    postuliert,
@@ -533,15 +533,15 @@ Unter *Diathese* versteht man die angeborene bzw. erworbene
 Verletzlichkeit (Vulnerabilität) gegenüber Krankheitsauslösern, oder im
 weiteren Sinne auch Stressoren, d.h. eine interindividuelle
 Grundausstattung mit der Personen Stress begegnen und somit anfälliger
-oder weniger anfällig für Stressfolgen sind. [35]_
+oder weniger anfällig für Stressfolgen sind. [#35]_
 
 .. index::
    single: Coping
 
 Als :dfn:`Coping` bezeichnet man ein Verhalten, um eine
-stressauslösende Situation zu bewältigen. [36]_.
+stressauslösende Situation zu bewältigen. [#36]_.
 
- [37]_
+ [#37]_
 
 -  *Primäre Bewertung*: *"Ist der Reiz für mich überhaupt relevant?"*
    Wenn ja: *"Ist er eine Herausforderung oder eine Bedrohung?"* Die
@@ -571,16 +571,16 @@ stressauslösende Situation zu bewältigen. [36]_.
        sekundären Bewertung seine persönlichen Möglichkeiten, den
        Stressor zu bewältigen und geht ggfs. zum Coping über.
 
- [38]_
+ [#38]_
 
 
-.. [35]
+.. [#35]
    (Davison & Neale, 1988)
 
-.. [36]
+.. [#36]
    *engl.* *to cope with*: fertig werden mit
 
-.. [37]
+.. [#37]
    Diathese-Stress-Modell bzw. transaktionales Stressmodell: Unter
    *Diathese* wird die angeborene bzw. erworbene Verletzlichkeit
    (Vulnerabilität) gegenüber Krankheitsauslösern, oder im weiteren
@@ -597,7 +597,7 @@ stressauslösende Situation zu bewältigen. [36]_.
    gegebenenfalls mit ihr fertig zu werden (englisch to cope with =
    fertig werden mit).
 
-.. [38]
+.. [#38]
    Theorien Stressmodelle: Den vorgestellten Theorien entsprechend setzt
    sich das Phänomen "Stress" also aus folgenden Komponenten zusammen:
    dem ideellen *Gleichgewicht (Homöostase)* einer Person, das, abhängig
@@ -751,7 +751,7 @@ Beanspruchungsfolgen
    neg. Gedanken, Gefühlen der Unzulänglichkeit/Überforderung und
    gedrückter Stimmung).
 
--  **Zynismus**\  [39]_ bezeichnet zum einen eine
+-  **Zynismus**\  [#39]_ bezeichnet zum einen eine
    *Haltung, die in (oft absichtlich) verletzender Weise die
    Wertvorstellungen anderer herabsetzt oder missachtet* und zum anderen
    auch eine *Haltung, die moralische Werte grundsätzlich in Frage
@@ -762,17 +762,17 @@ Beanspruchungsfolgen
 
    Dies legt ein erhöhtes Risiko für Angehörige der Gesundheitsberufe
    nahe, da die Konfrontation mit hoffnungslos erscheinenden Situationen
-   ein Gefühl der Hilflosigkeit erzeugen kann. [40]_
+   ein Gefühl der Hilflosigkeit erzeugen kann. [#40]_
 
 
-.. [39]
+.. [#39]
    *griech.* kynismós, wörtlich "Hündigkeit" im Sinne von "Bissigkeit",
    von *griech.* kyon, "Hund") bezeichnete ursprünglich die
    Lebensanschauung und -weise der antiken Kyniker (philosophische
    Richtung der griechischen Antike, deren Zentrale Grundhaltung der
    ethischen Skeptizismus darstellt.
 
-.. [40]
+.. [#40]
    Dass eine zynische Grundhaltung nicht nur im zwischenmenschlichen
    Bereich Probleme verursachen (z. B. durch neg. Bewertung durch
    Menschen aufgrund wahrgenommener Feindseligkeit im Umgang
@@ -812,13 +812,13 @@ Burnout
 -------
 
 Eine genaue Definitionen des Burnout-Syndroms im Sinne
-einer Diagnose nach Klassifikationssystem ist schwierig. [41]_ Im
+einer Diagnose nach Klassifikationssystem ist schwierig. [#41]_ Im
 Folgenden werden zwei unterschiedliche Abgrenzungsversuche dargestellt:
 
 -  *Persönlichkeitsorientierte Ansätze*: Sie stellen Persönlichkeit des
    Helfenden in den Vordergrund und sehen die Ursache für Burnout in
    einer *Diskrepanz zwischen dem Helferideal* – also den eigenen
-   Ansprüchen als Helfer – *und der Wirklichkeit des Helfens*. [42]_
+   Ansprüchen als Helfer – *und der Wirklichkeit des Helfens*. [#42]_
 
    *"Before you get burned-out you have to get on fire"*
 
@@ -841,7 +841,7 @@ Folgenden werden zwei unterschiedliche Abgrenzungsversuche dargestellt:
 -  *Organistationsorientierte Ansätze*: Diese betonen die Relevanz von
    sozialen, Arbeits- und Organisations-Bedingungen und sehen die
    Entstehungsgründe für Burnout im emotional beanspruchenden und
-   erschöpfenden Umgang mit Menschen. [43]_ [44]_
+   erschöpfenden Umgang mit Menschen. [#43]_ [#44]_
 
    -  Sozialer Stress: Interaktion mit Patienten, Überforderung im
       Umgang mit Krankheiten, hohe Verantwortung, Mangel an positivem
@@ -866,7 +866,7 @@ Folgenden werden zwei unterschiedliche Abgrenzungsversuche dargestellt:
    -  Verminderung der materiellen Entschädigung
 
 
-.. [41]
+.. [#41]
    Burnout: Geprägt wurde der Begriff 1974 durch Psychoanalytiker
    Freudenberger. Die Abgrenzung ist deshalb besonders schwierig, da es
    sich dzt. noch um ein beforschtes Konstrukt handelt und die
@@ -877,19 +877,19 @@ Folgenden werden zwei unterschiedliche Abgrenzungsversuche dargestellt:
    die *Hilfsdiagnose Z73.0 "Ausgebranntsein"*, *"Zustand der totalen
    Erschöpfung"* existiert.
 
-.. [42]
+.. [#42]
    *"Burnout wird in Gang gesetzt durch Autonomieeinbußen in gestörten
    Auseinandersetzungen des Individuums mit seiner Umwelt, genauer:
    durch die innere Repräsentation solcher Interaktionen als gestörter
    und das Scheitern bei ihrer Bewältigung"* [Burisch, :1994]
 
-.. [43]
+.. [#43]
    *" Burnout ist ein Syndrom emotionaler Erschöpfung,
    Depersonalisierung und reduzierter persönlicher Leistungsfähigkeit,
    das bei Individuen, die in irgendeiner Weise mit Menschen arbeiten,
    auftreten kann"* [Maslach & Jackson, :1984]
 
-.. [44]
+.. [#44]
    Maslach, 1982; Frieling & Sonntag, 1999; Bergner, 2003
 
 
@@ -897,7 +897,7 @@ Symptome
 ^^^^^^^^
 
 Burnout kann sich durch eine Reihe von höchst unterschiedlichen
-Symptomen bemerkbar machen. Man kann unterscheiden [45]_:
+Symptomen bemerkbar machen. Man kann unterscheiden [#45]_:
 
 -  *Psychische Symptome* emotional: großer Widerstand täglich zur Arbeit
    zu gehen, Gefühle des Versagens, Angstzustände, Ärgers und
@@ -956,7 +956,7 @@ Symptomen bemerkbar machen. Man kann unterscheiden [45]_:
 -  Problematische Einstellung
 
 
-.. [45]
+.. [#45]
    nach Schaufeli (1992), zitiert nach [Burisch:2006]_
 
 
@@ -973,7 +973,7 @@ Auflistung möglicher Traumaereignisse siehe Fehlregulationsmodell.
 Hervorzuheben ist jedoch deutlich, dass unabhängig von der Art des
 Ereignisses das *subjektive Erleben des/r Betroffenen entscheidend* ist,
 also *"nicht die objektive, sondern die subjektive Bedrohlichkeit eines
-Traumas die posttraumatische Symptombelastung vorhersagt"*\  [46]_. Um
+Traumas die posttraumatische Symptombelastung vorhersagt"*\  [#46]_. Um
 ein ungefähres Bild darüber zu bekommen, wie etwaige Folgen einer
 Traumatisierung sich gestalten können, sind im Folgenden Abschnitt die
 jeweiligen Diagnosebeschreibungen laut ICD-10 und phänomenolgischen
@@ -981,7 +981,7 @@ Leitsymptome dargestellt (Deutsches Institut für Medizinische
 Information und Dokumentation 2011).
 
 
-.. [46]
+.. [#46]
    Kilpatrick, Best, Veronen, Villeponteaux & Amick-Mc-Mullen, 1986
 
 Akute Belastungsreaktion (F43.0)
@@ -1260,11 +1260,11 @@ Das Copingkonzept
 **Stressbewältigung**  (:dfn:`Coping`) ist der *"Prozess der
 Handhabung jener externen oder internen Anforderungen, die vom
 Individuum als die eigenen Ressourcen beanspruchend oder übersteigend
-bewertet werden"*. [47]_
+bewertet werden"*. [#47]_
 Bei *Copingstrategien* handelt
 es sich um alle *kognitiven, emotionalen und behaviouralen
 Anstrengungen*, die dazu dienen *Belastung und Stress zu
-bewältigen*. [48]_
+bewältigen*. [#48]_
 Nach Lazarus hat Coping hauptsächlich folgende
 *Aufgaben*:
 
@@ -1299,10 +1299,10 @@ hängt von diversen Faktoren ab:
 -  Persönliche Präferenzen aufgrund von Sozialisationserfahrungen
 
 
-.. [47]
+.. [#47]
    Lazarus & Folkman (1984)
 
-.. [48]
+.. [#48]
    Trautmann-Sponsel (1988)
 
 
@@ -1395,10 +1395,10 @@ Nach der Theorie der Ressourcenerhaltung *tritt Stress dann auf, wenn
 Ressourcen bedroht werden, verloren gegangen sind oder fehlinvestiert
 wurden*, d.h. er sieht nicht Herausforderung, Bedrohung oder Schädigung,
 sondern das Erleben von Verlust als zentrale Eigenschaft von
-Stress. [49]_
+Stress. [#49]_
 
 
-.. [49]
+.. [#49]
    Die Theorie von Hobfoll (zitiert nach [Starke:2000]_) stellt eine
    modernere Alternative zu der Theorie von Lazarus dar bzw. kann auch
    als deren Komplement angesehen werden. Sie stellt nicht die
@@ -1557,7 +1557,7 @@ Grundsätze der Stressbewältigung im Sanitätsdienst, Maßnahmen zur Verhütung
 
 
 Im Sanitätsberuf lassen sich nach bestimmte Situationen identifizieren,
-die von vielen Professionisten als besonders unangenehm bewerten [50]_,
+die von vielen Professionisten als besonders unangenehm bewerten [#50]_,
 z. B. Einsätze,
 
 -   bei denen *Kinder* schwer verletzt worden sind,
@@ -1590,7 +1590,7 @@ Herausforderung, sondern eher negativ, d.h. als eine Belastung bzw.
 Überforderung erlebt werden.
 
 
-.. [50]
+.. [#50]
    Ungerer (1999), zitiert nach [Karutz:200912]_
 
 
@@ -1604,10 +1604,10 @@ Psychologische Selbsthilfe). Um diese möglichst frühzeitig zu erkennen
 sollten *"Einsatzkräfte [...] daher auch unmittelbar im Einsatzgeschehen
 auf ihre eigene Befindlichkeit achten und ihre psychische Situation
 angemessen beurteilen, ohne sich selbst zu über- oder zu unterschätzen
-"*\  [51]_.
+"*\  [#51]_.
 
 
-.. [51]
+.. [#51]
    Lasogga & Karutz 2005, zitiert nach Karutz 2009
 
 
@@ -1626,10 +1626,10 @@ Einstellung
 Eine positive Grundeinstellung an Einsätze kann helfen, die Hoffnung auf
 Erfolg zu stützen, Erwartungsängste zu mildern und die Situation als
 Herausforderung anzusehen. Sollten Einsatzmeldung beunruhigend
-wirken [52]_, kann das Bewusstmachen möglichst angenehmer Vorerfahrungen
+wirken [#52]_, kann das Bewusstmachen möglichst angenehmer Vorerfahrungen
 z. B. Erinnerungen an ähnliche Einsätze, die bereits erfolgreich
 bewältigt werden konnten nach dem Motto In anderen Fällen kann zumindest
-der Gedanke helfen. [53]_
+der Gedanke helfen. [#53]_
 
 **Erwartungshaltung** :index:`\ <Erwartungshaltung>`:
 Überhöhte Erwartungen an das eigene
@@ -1644,7 +1644,7 @@ Unzulänglichkeiten passieren können, k
 ann Druck nehmen und ermöglicht
 auch ein **Fehlerbewusstsein**
 :index:`\ <Fehlerbewusstsein>`: nämlich Fehlerquellen zu
-erkennen, zu analysieren und zu optimieren. [54]_
+erkennen, zu analysieren und zu optimieren. [#54]_
 
 Es wird immer Notfallsituationen geben, die trotz hoch engagierter und
 kompetenter Hilfeleistung kaum oder nicht beeinflussbar sind. Weiters
@@ -1655,18 +1655,18 @@ Einschätzung der Handlungsmöglichkeiten vorgebeugt werden.
 unter den gegebenen Bedingungen möglich ist – sie sollten sich aber auch
 zugestehen, dass dies in einigen Fällen nun einmal nicht ausreicht: 70
 bis 95 Prozent der Reanimationsversuche enden beispielsweise erfolglos,
-so sehr man sich dies sicherlich anders wünschen würde"*\  [55]_.
+so sehr man sich dies sicherlich anders wünschen würde"*\  [#55]_.
 
-.. [52]
+.. [#52]
    Ungerer, 1999 zitiert nach [Karutz:200912]_
 
-.. [53]
+.. [#53]
    Lasogga & Karutz 2005, zitiert nach [Karutz:200912]_
 
-.. [54]
+.. [#54]
    Karutz et al., 2003 zitiert nach [Karutz:200912]_
 
-.. [55]
+.. [#55]
    Baskett, Stehen & Bossaert, 2006, zitiert nach [Karutz:200912]_
 
 Bewertung von Stress und Angst
@@ -1682,12 +1682,12 @@ Yerkes-Dodson-Gesetzes zunächst eine Leistungssteigerung im Organismus:
 *"Die Konzentrationsfähigkeit steigt, die Muskulatur wird besser
 durchblutet usw. Es werden also die Grundvoraussetzungen geschaffen, auf
 die Anforderungen der Versorgungssituation adäquat reagieren zu
-können"*, d.h.. [56]_ Ebenso stellt das Erleben einer gewissen Angst ein
+können"*, d.h.. [#56]_ Ebenso stellt das Erleben einer gewissen Angst ein
 evolutionär verankertes Frühwarnsystem dar, das Wachsamkeit und Vorsicht
 fördert und daher nicht generell als negativ bewertet werden sollte,
 sofern sie nicht lähmend wirkt.
 
-.. [56]
+.. [#56]
    Lasogga & Karutz 2005, zitiert nach [Karutz:200912]_
 
 Kurzfristige Strategien
@@ -1707,7 +1707,7 @@ eigene Sicherheitsgefühl stärken und Halt geben:
 -  *"Behandle zuerst, was zuerst tötet"*
 
 -  *"Erst einmal Platz schaffen, damit man gut arbeiten kann!"*
-   usw. [57]_.
+   usw. [#57]_.
 
 Ebenso kann das in Erinnerung rufen wichtiger Behandlungsmodule z. B. das
 ABC der Reanimation, die einzelnen Phasen der Traumaversorgung oder die
@@ -1717,7 +1717,7 @@ Ausbildung verinnerlicht worden sind, umso eher werden sie auch in einer
 Stresssituation noch angewendet bzw. automatisiert abgerufen werden
 können"* [Karutz:200912]_ .
 
-.. [57]
+.. [#57]
    Karutz , 2003 zitiert nach [Karutz:200912]_
 
 Mentale Vorbereitung, Alternativen planen ("Plan B")
@@ -1743,10 +1743,10 @@ Beispiele an:
 
 -  Sich notfalls ablösen zu lassen. Dieses sollte nicht *"als
    persönliches Versagen interpretiert werden, eher handelt es sich um
-   den Ausdruck realistischer Selbsteinschätzung"*\  [58]_.
+   den Ausdruck realistischer Selbsteinschätzung"*\  [#58]_.
 
 
-.. [58]
+.. [#58]
    Karutz et al., 2003 zitiert nach Karutz, 2009
 
 Kognitive Umbewertung

@@ -6,7 +6,7 @@
 
 
 Mit den Punkten ``A``—``D`` wären die
-wichtigsten Untersuchungen durchgeführt.\ [174]_
+wichtigsten Untersuchungen durchgeführt.\ [#174]_
 Dennoch gibt es einige Patientengruppen,
 die zwar bei den ABCDs nicht auffällig sind,
 aber
@@ -25,7 +25,7 @@ Im Punkt E können sämtliche Untersuchungen und Anamneseschritte
 durchgeführt werden,
 welche zur Feststellung (oder Quasi-Ausschluss) der vitalen Bedrohung notwendig sind.
 
-.. [174]
+.. [#174]
    E: *engl.* *Exposure*.
 
     Ein Beispiel für so eine Patientengruppe wäre der Patient mit

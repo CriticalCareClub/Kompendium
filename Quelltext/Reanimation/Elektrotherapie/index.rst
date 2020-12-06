@@ -21,15 +21,15 @@ Bei bestimmten Herzrhythmen
 ("schockbare Rhythmen": (pulslose) ventrikuläre Tachykardie,
 Kammerflimmern)
 wir die Elektrotherapie angewendet umd den Rhythmus zu normlaisieren. Man nennt diesen Vorgang
-:dfn:`elektrische Kardioversion`\ [321]_.
+:dfn:`elektrische Kardioversion`\ [#321]_.
 Ein Sonderfall ist die :dfn:`Defibrillation`,
-sie ist eine Kardioversion bei Kammerflimmern.\ [322]_
+sie ist eine Kardioversion bei Kammerflimmern.\ [#322]_
 
-.. [321]
+.. [#321]
    Eine Kardioversion, also die Überführung in einen anderen Rhythmus,
    kann auch mittels Medikamenten erfolgen.
 
-.. [322]
+.. [#322]
    Die elektrische Kardioversion wird auch bei nicht akut
    lebensbedrohlichen Rhythmusstörungen, wie zum Beispiel beim
    Vorhofflimmern, eingesetzt. Die Anwendung erfolgt dann in Narkose

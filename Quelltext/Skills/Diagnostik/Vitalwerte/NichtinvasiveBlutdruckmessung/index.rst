@@ -23,7 +23,7 @@ Beschreibung
 
 Der Blutdruck ist jener Druck, welcher in unseren Blutgefäßen herrscht.
 Wenn wir vom *"Blutdruck"* sprechen beziehen wir uns auf den Blutdruck
-in den Arterien [113]_. Er gehört in Kombination mit der Herzfrequenz zu
+in den Arterien [#113]_. Er gehört in Kombination mit der Herzfrequenz zu
 den grundlegenden Vitalwerten.
 
 *Der Druck in der Arterie schwankt in Abhängigkeit zum Herzauswurf*:
@@ -68,7 +68,7 @@ Arten der Blutdruckmessung
 
 Der Blutdruck kann auf verschiedene Arten gemessen werden. Üblich ist
 die unblutige, *indirekte Methode*, mittels einer an der Extremität
-angelegten Druckmanschette [114]_. Dazu gibt es unterschiedliche
+angelegten Druckmanschette [#114]_. Dazu gibt es unterschiedliche
 Messgeräte, grundsätzlich unterscheidet man zwischen elektronischen und
 rein mechanischen Messgeräten.
 
@@ -130,7 +130,7 @@ Allgemein
 
 Funktionen
     Manche Typen verfügen über einen zweiseitigen Kopf. Meistens haben
-    sie sowohl eine Membran, als auch einen Schalltrichter.  [115]_
+    sie sowohl eine Membran, als auch einen Schalltrichter.  [#115]_
     Durch Drehen am Kopf kann man die gewünschte Seite einstellen.
 
 Funktionsprüfung
@@ -152,7 +152,7 @@ Bludruckmessung nach Riva-Rocci
 Beschreibung
 ^^^^^^^^^^^^
 
-Die :dfn:`Blutdruckmessung nach Riva-Rocci`\ [116]_ ist
+Die :dfn:`Blutdruckmessung nach Riva-Rocci`\ [#116]_ ist
 eine indirekte, unblutige, mechanische Messung mittels einer
 Druckmanschette.** Umgangssprachlich wird die Blutdruckmessung nach
 Riva-Rocci als *"RR-Messung"*, bzw. der ermittelte Wert als *"RR"*
@@ -167,7 +167,7 @@ Methode* (durch Tasten des Pulses).
        *auskultatorischen* Methode ermittelt werden!
 
 
-.. [116]
+.. [#116]
     Benannt nach dem Erfinder Scipione Riva-Rocci.
 
 Auskultatorische Methode
@@ -175,7 +175,7 @@ Auskultatorische Methode
 
 Die Manschette sollte faltenfrei und nicht über Kleidung, in der Mitte
 des Oberarms angelegt werden und sich, wenn möglich, auf *Herzhöhe*
-befinden.\ [117]_
+befinden.\ [#117]_
 Die Mitte der Luftkammer soll über der Oberarmarterie zu
 liegen kommen. Manche Manschetten haben einen Markierungspfeil für die
 Oberarmarterie, der Pfeil soll dann oberhalb dieser zu liegen kommen.
@@ -233,7 +233,7 @@ Palpatorische Methode
 
 Die Manschette sollte faltenfrei und nicht über Kleidung, in der Mitte
 des Oberarms angelegt werden und sich, wenn möglich, auf *Herzhöhe*
-befinden [118]_. Nun wird der Puls an der Radialarterie (A. radialis)
+befinden [#118]_. Nun wird der Puls an der Radialarterie (A. radialis)
 ertastet. Die Manschette wird solange aufgepumpt, bis der Puls nicht
 mehr getastet werden kann, dann wird der Druck um weitere 20mmHg erhöht.
 Die Finger bleiben auf der Radialarterie (A. radialis). Die Luft wird
@@ -261,7 +261,7 @@ Was ist besonders zu beachten?
 
 Die Blutdruckmanschette soll nach Möglichkeit *nicht* auf der Seite …
 
-#. eines *Shuntarmes*\  [119]_ bei Dialysepatienten
+#. eines *Shuntarmes*\  [#119]_ bei Dialysepatienten
 
 #. eines Armödems, z. B. nach einer Brustamputation, oder
 
@@ -282,16 +282,16 @@ angelegt werden.
 
 
 
-.. [113]
+.. [#113]
     *Arterie:* Vom Herzen wegführendes Blutgefäß.
 
-.. [114]
+.. [#114]
     Mittels einer Druckmanschette wird gemessen, bei welchem Druck ein
     mit einem Stethoskop hörbarer, durch Pulstasten fühlbarer oder durch
     sonstige technische Hilfsmittel messbarer Blutfluss stattfindet. Dies
     erlaubt Rückschlüsse auf den Druck im Blutgefäß.
 
-.. [115]
+.. [#115]
     Der Unterschied besteht in einer unterschiedlichen Verstärkung von
     hohen oder tiefen Frequenzen, was für den fortgeschrittenen Anwender
     beim Abhören von Herz oder Lunge eine Rolle spielt. Teurere Modelle
@@ -300,15 +300,15 @@ angelegt werden.
     verstärken kann.
 
 
-.. [117]
+.. [#117]
     Wenn die Manschette nicht auf Herzhöhe liegt, wird ein zu hoher oder
     zu niedriger Druck gemessen.
 
-.. [118]
+.. [#118]
     Wenn die Manschette nicht auf Herzhöhe liegt wird ein zu hoher oder
     zu niedriger Druck gemessen.
 
-.. [119]
+.. [#119]
     Ein (Dialyse-)*Shunt* ist ein künstlicher Kurzschluss zwischen einer
     Armarterie und einer Armvene. Dadurch wird die Vene erweitert und sie
     pulsiert. Man kann viel mehr Durchfluss für die Dialyse erreichen.

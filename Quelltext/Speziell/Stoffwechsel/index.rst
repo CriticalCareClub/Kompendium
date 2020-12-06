@@ -122,7 +122,7 @@ Typen des Diabetes mellitus:
 
    Ursache für die Störung ist eine Störung des Immunsystems, bei der
    es zu einer Zerstörung der Insulin-produzierenden
-   :math:`{\beta}`-Zellen des Pankreas kommt. Durch den
+   β-Zellen des Pankreas kommt. Durch den
    Produktionsausfall kommt es zu einem absoluten Mangel.
 
 -  *Typ II*: (NIDDM, non insuline dependent DM)

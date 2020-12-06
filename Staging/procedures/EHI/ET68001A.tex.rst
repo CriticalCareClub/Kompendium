@@ -12,9 +12,9 @@
 
 -  Keinen Alkohol zu trinken geben!
 
--  Keinesfalls bewegen oder frottieren: sog.  [1]_
+-  Keinesfalls bewegen oder frottieren: sog.  [#1]_
 
-.. [1]
+.. [#1]
    Unter dem Begriff *Bergungstod* versteht man das Versterben des
    Patienten während der Rettung in Folge eines Blutrückflusses aus der
    kalten Körperschale in den wärmeren Körperkern, welcher durch die

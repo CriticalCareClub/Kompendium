@@ -586,6 +586,7 @@ Atemminutenvolumen von 6—8 L / min.
 
 
 .. list-table:: Übersicht Normalwerte: Atemfrequenz und Atemzugsvolumen
+    :header-rows: 1
 
     *   -
         -   AF [/ min]

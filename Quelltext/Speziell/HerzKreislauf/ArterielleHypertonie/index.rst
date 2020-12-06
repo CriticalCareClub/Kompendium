@@ -32,10 +32,10 @@ Sie kann auf Dauer zu schweren Schäden an den Blutgefäße und im Zuge von
 plötzlichen *Blutdruckkrisen* auch zu akuten Problemen führen. Aufgrund
 der Schädigung der Blutgefäße ist sie ein ein wesentlicher
 *Risikofaktor* für Erkrankungen wie die koronare Herzkrankheit,
-Schlaganfälle etc. [232]_
+Schlaganfälle etc. [#232]_
 
 Bei der chronischen arteriellen Hypertonie liegt der obere Grenzwert im
-Allgemeinen [233]_ beim Erwachsenen bei 140 mm Hg. Dieser Grenzwert ist nur für
+Allgemeinen [#233]_ beim Erwachsenen bei 140 mm Hg. Dieser Grenzwert ist nur für
 die dauerhafte Behandlung maßgeblich, akute Beschwerden sind erst bei
 deutlich höheren Werten zu erwarten. Eine Ausnahme stellen *Schwangere*
 dar: Eine Hypertonie kann ein Zeichen einer schwerwiegenden
@@ -43,12 +43,12 @@ Schwangerschaftserkrankung sein und muss zeitnah entsprechend abgeklärt
 und behandelt werden.
 
 
-.. [232]
+.. [#232]
    Hypertonie: Neben der systemischen arteriellen (essentiellen)
    Hypertonie gibt es auch andere Krankheitsbilder, bei denen der Druck
    in anderen Blutgefäßen erhöht ist, z. B. die pulmonale Hypertonie.
 
-.. [233]
+.. [#233]
    Grenzwert Blutdruck: Bei Patienten mit Risikofaktoren gelten andere
    Grenzwerte.
 
@@ -161,10 +161,10 @@ Schwindel …). Vgl. [Table-hxpertension-krise-notfall].
        hypertensiven Notfall ist das Vorhandensein von Symptomen einer
        Organstörung.
 
-[234]_
+[#234]_
 
 
-.. [234]
+.. [#234]
    Hypertensive Krise/Notfall: (Die Unterscheidung zwischen
    "Hypertensiver Krise" und "Hypertensiven Notfall" ist in der
    Literatur nicht einheitlich. Oft wird auch nur zwischen
@@ -248,7 +248,7 @@ SAMPLER
 ``M``
     Meistens ist bereits eine medikamentöse Einstellung durch den
     Hausarzt mittels eines oder Kombination mehrerer Medikamente
-    erfolgt [235]_.
+    erfolgt [#235]_.
     Entscheidend ist die Frage, ob diese Medikation auch
     tatsächlich eingenommen wurde, Fehler bei der Einnahme (vergessen,
     Packung aufgebraucht, …) sind eine gute Erklärung für eine
@@ -272,7 +272,7 @@ SAMPLER
 
 
 
-.. [235]
+.. [#235]
    Gängige Antihypertensive Medikamente:
 
    -  Beta-Blocker: Bisoprolol (Concor), Carvedilol (Dilatrend),

@@ -28,3 +28,15 @@ Appendix (#25)
 Ⓒ Credits
 
 Ⓛ License
+
+≈ approx
+
+← leftwards arrow
+
+≥ geq
+
+… ...
+
+⇄ arrows both sides
+
+β beta

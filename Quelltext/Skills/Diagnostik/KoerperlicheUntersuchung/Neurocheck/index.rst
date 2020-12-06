@@ -54,7 +54,7 @@ Neurocheck
 
 
 #. *Bewusstseinslage*: Für eine grobe Einschätzung ist folgende
-   Einteilung ausreichend [125]_:
+   Einteilung ausreichend [#125]_:
 
    #. bewusstseinsklar
 
@@ -147,7 +147,7 @@ Neurocheck
 
 
 
-.. [125]
+.. [#125]
     Diese Einteilung entspricht weitgehend dem
     *WASB*\ -Schema (*W*\ ach, Reaktion auf *A*\ nsprechen, auf
     *S*\ chmerzreiz, *b*\ ewusstlos)

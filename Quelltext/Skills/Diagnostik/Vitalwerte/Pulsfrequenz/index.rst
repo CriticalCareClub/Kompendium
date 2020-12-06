@@ -26,7 +26,7 @@ pro Minute.
 
 Die Herzfrequenz entspricht normalerweise der
 *Pulsfrequenz*, welche mittels Fühlen des Pulses ermittelt
-wird. [112]_
+wird. [#112]_
 
 Dieser wird idealerweise an der *Radialarterie* (A.
 *radialis*) bzw. bei nicht ansprechbaren oder schockierten Patienten an
@@ -39,7 +39,7 @@ ermittelt wird, darf nie auf beiden Seiten gleichzeitig gemessen werden,
 da sonst die Gefahr besteht, dass es zu einer Unterversorgung des
 Gehirns mit Blut kommen kann.
 
-.. [112]
+.. [#112]
     Nicht immer hat eine Herzaktion einen Pulsschlag zur Folge, man
     spricht dann vom *Pulsdefizit*. Außerdem kann man zwischen
     elektrischen und mechanischen Herzaktionen unterscheiden (vgl.

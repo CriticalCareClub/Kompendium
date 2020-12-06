@@ -140,11 +140,11 @@ Dienstverhältnis
 
 Der Beruf bzw. die Tätigkeiten des Sanitäters dürfen *ehrenamtlich*,
 *berufsmäßig*, als *Zivildienstleistender* oder unter anderen bestimmten
-Umständen [5]_ ausgeübt werden. Die *berufsmäßige* Ausübung von
+Umständen [#5]_ ausgeübt werden. Die *berufsmäßige* Ausübung von
 Tätigkeiten des Sanitäters setzt neben der jeweiligen Fachausbildung die
 Absolvierung eines *Berufsmoduls* voraus.
 
-.. [5]
+.. [#5]
    Die Tätigkeiten des Sanitäters dürfen ferner als Soldat im
    Bundesheer, als Organ des öffentlichen Sicherheitsdienstes,
    Zollorgan, Strafvollzugsbediensteter oder als Angehöriger eines
@@ -212,39 +212,39 @@ ergeben und z. T. gar nicht gesetzlich geregelt sind.
 
 In letzter Zeit kommt es auch zu einem Einfluss privater, meist
 kommerzieller, internationaler Ausbildungsprogramme wie z. B.
-AMLS\ [6]_,
-ITLS\ [7]_,
-PHTLS\ [8]_ etc.
+AMLS\ [#6]_,
+ITLS\ [#7]_,
+PHTLS\ [#8]_ etc.
 Deren Lehrinhalte sind meist auf den
-Kompetenzbereich von Paramedics\ [9]_ ausgelegt, und reizen Grenzen
+Kompetenzbereich von Paramedics\ [#9]_ ausgelegt, und reizen Grenzen
 dessen, was allgemein als Aufgaben der Sanitäter angesehen wird,
 weitgehend aus, oder überschreiten diese. Diesbezüglich kommt es immer
-wieder zu Diskussionen, was Sanitäter tun bzw. unterlassen\ [10]_
-*müssen*\ [11]_, und was sie *nicht* tun oder
+wieder zu Diskussionen, was Sanitäter tun bzw. unterlassen\ [#10]_
+*müssen*\ [#11]_, und was sie *nicht* tun oder
 unterlassen dürfen.
 
 
-.. [6]
+.. [#6]
    Advanced Medical Life Support
 
-.. [7]
+.. [#7]
    International Trauma Life Support
 
-.. [8]
+.. [#8]
    Prehospital Trauma Life Support
 
-.. [9]
+.. [#9]
    Paramedics sind gutausgebildete Sanitäter im englischsprachigen Raum,
    welche in nicht-Notarzt-basierten Systemen eingesetzt werden, d.h.
    sie haben in diesen Ländern das Personal mit der höchsten
    medizinischen Ausbildung, welches im präklinischen Regelbetrieb
    eingesetzt wird.
 
-.. [10]
+.. [#10]
    Schädliche Dinge zu unterlassen ist genauso wichtig wie nützliche
    Dinge zu tun.
 
-.. [11]
+.. [#11]
    Meist kann man es sich nicht aussuchen, ob man eine Maßnahme ergreift
    oder nicht. Handlungen, die man machen oder unterlassen darf und die
    das Patientenwohl fördern, *müssen* i. d. R. entsprechend vorgenommen
@@ -581,9 +581,9 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 Der Arzt ist zur Ausübung der Medizin berufen. Dies umfasst jede auf
 medizinisch-wissenschaftlichen Erkenntnissen begründete Tätigkeit, die
 unmittelbar am Menschen oder mittelbar für den Menschen ausgeführt
-wird. [12]_
+wird. [#12]_
 
-.. [12]
+.. [#12]
    Die Ausübung der Medizin umfasst insbesonders die Untersuchung auf
    das Vorliegen oder Nichtvorliegen von körperlichen und psychischen
    Krankheiten oder Störungen, die Beurteilung von diesen Zuständen bei
@@ -623,14 +623,14 @@ Die selbstständige Ausübung des ärztlichen Berufes ist ausschließlich
 *approbierten* :index:`\ <Arzt!approbierter>` Ärzten sowie *Fachärzten*
 :index:`\ <Facharzt>` vorbehalten (*Arztvorbehalt*, von diesem
 Vorbehalt gibt es für andere medizinische Berufsgruppen entsprechende
-Ausnahmeregelungen in den jeweiligen Berufsgesetzen). [13]_
+Ausnahmeregelungen in den jeweiligen Berufsgesetzen). [#13]_
 
 Interessensvertretung und Aufsichtsbehörde für alle Ärzte ist die
 *Österreichische Ärztekammer* bzw. die jeweils zuständigen
 Landesärztekammern.
 
 
-.. [13]
+.. [#13]
    Die in Ausbildung zum Arzt für Allgemeinmedizin oder zum Facharzt
    befindlichen Ärzte (*Turnusärzte)* :index:`\ <Turnusarzt>` sind
    lediglich zur unselbstständigen Ausübung in als Ausbildungsstätten

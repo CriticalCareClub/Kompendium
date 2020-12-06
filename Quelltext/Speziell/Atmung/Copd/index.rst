@@ -27,7 +27,7 @@ Chronische Bronchitis und COPD (#35)
 Die :dfn:`chronische Bronchitis` ist eine chronische
 entzündliche Schleimhautschädigung der unteren Atemwege.
 Die :dfn:`COPD` (:dfn:`Chronische Obstruktive`
-Lungenerkrankung [228]_\ ) ist eine chronische entzündliche
+Lungenerkrankung [#228]_\ ) ist eine chronische entzündliche
 Schleimhautschädigung, welche eine zunehmende obstruktive
 Atemwegseinschränkung aufweist.
 
@@ -51,7 +51,7 @@ Störung im Lungenkreislauf.
 [Renz-Polster:2006]_
 
 
-.. [228]
+.. [#228]
    *engl.* Chronic obstructive pulmonary disease)
 
 Exazerbation
@@ -148,7 +148,7 @@ einem Atemstillstand kommen.
 
             Brummendes, pfeifendes Atemgeräusch
 
-            SpO₂ chronisch niedrig (:math:`\sim`\ 90%): Normalwert gilt nicht!
+            SpO₂ chronisch niedrig (~ 90%): Normalwert gilt nicht!
 
         ``C``
             HF ↑, RR ↑
@@ -188,7 +188,7 @@ einem Atemstillstand kommen.
     pfeifendes oder giemendes Atemgeräusch* hören.
 
     Die *Sauerstoffsättigung* bei einem COPD-Patienten ist auch ohne
-    akute Symptome meist *deutlich vermindert* (:math:`\sim`\ 90%). Der
+    akute Symptome meist *deutlich vermindert* (~ 90%). Der
     sonst übliche Normalwert gilt hier nicht!
     Bei fortgeschrittener
     Ateminsuffizienz bekommt der Patient oft eine

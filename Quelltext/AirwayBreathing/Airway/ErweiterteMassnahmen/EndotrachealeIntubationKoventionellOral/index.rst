@@ -81,7 +81,7 @@ Vorbereitung
     -   Beim spontan atmenden Patienten:
         Hochdosierte Sauerstoffgabe über O₂-Maske
     -   Beim nicht-spontan-atmenden Patienten:
-        Je nach Situation evtl. Beatmung mittels Beatmungsbeutel [316]_
+        Je nach Situation evtl. Beatmung mittels Beatmungsbeutel [#316]_
 
 #. Festlegung von:
 
@@ -136,7 +136,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
     | #      | **Assistenz**                                                                 | **Durchführender**                                    |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+    +========+===============================================================================+=======================================================+
     |        | **Narkoseeinleitung**                                                                                                                 |
     | **1**  |                                                                                                                                       |
     |        | Von jetzt an besteht ein sehr hohes Risiko                                                                                            |
@@ -153,7 +153,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
     | **3**  |                                                                               | Anweisung *"Beginn Intubation"*                       |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **4**  | **Laryngoskop zureichen**: in die *linke (!)* Hand [317]_                     |                                                       |
+    | **4**  | **Laryngoskop zureichen**: in die *linke (!)* Hand [#317]_                    |                                                       |
     +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
     | **5**  |                                                                               |                                                       |
     |        |                                                                               | Evtl. **Krikoiddruck**:                               |
@@ -218,13 +218,13 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
     \end{ParWide}
 
-.. [316]
+.. [#316]
     Beim nicht-nüchternen nicht-spontan-atmenden Patienten soll eine
     Beutelbeatmung nur wenn unbedingt notwendig durchgeführt werden
     (Rapid Sequence Induction, Schnelleinleitung).
     Bei der Reanimation entfällt die Präoxygenierung.
 
-.. [317]
+.. [#317]
     Es ist egal, ob der Durchführende Rechts- oder Linkshänder ist,
     das Laryngoskop wird *immer in der linken Hand* gehalten.
 

@@ -31,7 +31,7 @@ folgt beschrieben:
     Es wird die Mundhöhle inspiziert und etwaige
     Fremdkörper entfernt.
 
-    Beim Säugling (1. Lebensjahr) wird der Kopf in Neutralposition\ [147]_
+    Beim Säugling (1. Lebensjahr) wird der Kopf in Neutralposition\ [#147]_
     gehalten, beim Kind (Ende des 1. Lebensjahrs bis zur Pubertät) wird
     der Kopf vorsichtig überstreckt um die Atemwege zu öffnen.
 #.  ``B`` **Atmung prüfen**: Wie beim BLS wird für die Dauer von 10 s die Atmung
@@ -61,7 +61,7 @@ folgt beschrieben:
 
     -   Es wechseln *15 HDM* mit *zwei Beatmungen* ab.
     -   Die HDM erfolgt je nach Körpergröße mit zwei Fingern (Säugling)
-        bzw. mit einer oder beiden Händen bei Kindern.\ [148]_
+        bzw. mit einer oder beiden Händen bei Kindern.\ [#148]_
     -   Der *Druckpunkt* liegt auf der unteren Hälfte des Brustbeins.
 
         -   Bei *Säuglingen* und *Neugeborenen* kann er dadurch gefunden
@@ -83,12 +83,12 @@ folgt beschrieben:
         gleich wie bei Erwachsenen.
 
 
-.. [147]
+.. [#147]
    Beim auf dem Rücken liegenden Säugling ist der Kopf i.d.R. nach vorne
    gebeugt, sodass eine *leichte* Streckung erforderlich sein kann um
    den Kopf in Neutralposition zu bringen (Biarent et al. 2010a).
 
-.. [148]
+.. [#148]
    Die ERC empfiehlt beim Säugling alternativ auch die
    thoraxumschließende Zweidaumentechnik (Biarent et al. 2010a).
 

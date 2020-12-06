@@ -333,7 +333,7 @@ Dazu stehen im Wesentlichen zwei Methoden zur Wahl:
    perkutane Koronar-Intervention)`,
    :abbr:`PTCA (Perkutane Transluminale Coronar-Angioplastie)`).
    Dazu benötigt man ein *dienstbereites*
-   und *verfügbares* **Herzkatheterlabor**. [241]_
+   und *verfügbares* **Herzkatheterlabor**. [#241]_
 
    Hinsichtlich der Strategie unterscheidet man:
 
@@ -346,7 +346,7 @@ Dazu stehen im Wesentlichen zwei Methoden zur Wahl:
 
 
 
-.. [241]
+.. [#241]
    Herzkatheter: Bei einer Herzkatheteruntersuchung
    (*Koronarangiographie*) wird über eine Leisten- oder Radialarterie ein Katheter
    eingebracht und bis knapp vor das Herz zu den Abgängen der

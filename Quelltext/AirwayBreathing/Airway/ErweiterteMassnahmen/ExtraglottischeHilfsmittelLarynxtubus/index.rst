@@ -60,10 +60,10 @@ folgende Vorteile gegeben:
 Der Larynxtubus ist während der Reanimation eine geeignete Alternative
 zur Maskenbeatmung und zur endotrachealen Intubation und kann auch durch
 Angehörige der nichtärztlichen Gesundheitsberufe im Rahmen der
-lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
+lebensrettenden Sofortmaßnahmen angewendet werden.\ [#129]_
 
 
-.. [129]
+.. [#129]
     Airwaymanagement / Larynxtubus / Stellungsnahme: Gemäß einer
     Stellungsnahme des BM für Gesundheit ist eine Anwendung des
     Larynxtubus für Angehörige der nichtärztlichen Gesundheitsberufe im

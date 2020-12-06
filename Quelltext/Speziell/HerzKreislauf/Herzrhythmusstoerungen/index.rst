@@ -480,10 +480,10 @@ Angina-pectoris-Anfall oder sogar ein
 Herzinfarkt ausgelöst wird.
 Weiters kann die Rhytmusstörung in eine andere, akut
 lebensbedrohende Rhythmusstörungen umschlagen und es dadurch zu einer
-akut lebensbedrohlichen Situation kommen. [242]_
+akut lebensbedrohlichen Situation kommen. [#242]_
 
 
-.. [242]
+.. [#242]
    Tachykarde Attacke / Gefahren: Es gibt viele verschiedene Auslöser
    für tachykarde Attacken. Manche Rhythmusstörungen sind tückisch, dass
    sie von einem Moment umschlagen und einen Kreislaufstillstand

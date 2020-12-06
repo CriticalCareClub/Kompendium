@@ -18,14 +18,14 @@ bedrohlichen Erkrankungen (und Verletzungen) geeignet ist.
 Der Einschätzungsblock ist eine Einheit und folgt einem
 durchgängigen Schema,
 bei dem die Aktionen flüssig nacheinander
-abgearbeitet und nur durch Sofortmaßnahmen unterbrochen werden.\ [168]_
+abgearbeitet und nur durch Sofortmaßnahmen unterbrochen werden.\ [#168]_
 Der Einschätzungsblock muss in regelmäßigen Abständen sowie
 bei Verdacht in angemessenem Umfang wiederholt werden,
 um eine
 Verschlechterung des Patientenzustandes rechtzeitig zu erkennen.
 
 
-.. [168]
+.. [#168]
     Primary- und Secondary Survey:
     Es wird formal *nicht* zwischen einer
     Primary- und Secondary Survey unterschieden.
@@ -50,9 +50,9 @@ Erkennen von Hauptbeschwerden und Leitsymptomen,
 sämtliche mögliche Untersuchungen ab!*
 Weiterführende Untersuchungen und
 Anamneseschritte bzw. Maßnahmen werden *nach* dem Einschätzungsblock
-nach Bedarf durchgeführt.\ [169]_
+nach Bedarf durchgeführt.\ [#169]_
 
-.. [169]
+.. [#169]
     Was ist mit der General Impression?: Traditionell werden einige
     Punkte vor dem Beginn des ABCDE-Blocks im Rahmen einer *General
     Impression* zwar erwähnt,

@@ -32,16 +32,14 @@ Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
 *QRS-Komplex* wird durch die Kammererregung erzeugt, wohingegen die
 *ST-Strecke* und die *T-Welle* die Erregungsrückbildung repräsentieren.
 
--  P-Welle :math:`\approx` Vorhoferregung
+-  P-Welle ≈ Vorhoferregung
 
--  PQ-Zeit :math:`\approx` AV-Überleitung
+-  PQ-Zeit ≈ AV-Überleitung
 
--  QRS-Komplex :math:`\approx` Kammererregung
+-  QRS-Komplex ≈ Kammererregung
 
--  ST-Strecke + T-Welle :math:`\approx` Erregungsrückbildung
+-  ST-Strecke + T-Welle ≈ Erregungsrückbildung
 
-!!! PICTURESERIES !!!Schema einer elektrischen Herzaktion !!!
-PICTUREWIDE !!!
 
 .. subfigstart::
 
@@ -50,10 +48,10 @@ PICTUREWIDE !!!
 
     Eine elektrische Herzaktion.
     Die einzelnen Abschnitte im zeitlichen Verlauf repräsentieren unterschiedliche Stadien der Erregung:
-    **P**-Welle :math:`\approx` Vorhoferregung,
-    **PQ**-Zeit :math:`\approx` AV-Überleitung,
-    **QRS**-Komplex :math:`\approx` Kammererregung,
-    **ST**-Strecke + **T**-Welle :math:`\approx` Erregungsrückbildung.
+    **P**-Welle ≈ Vorhoferregung,
+    **PQ**-Zeit ≈ AV-Überleitung,
+    **QRS**-Komplex ≈ Kammererregung,
+    **ST**-Strecke + **T**-Welle ≈ Erregungsrückbildung.
 
     [WMC:Hank / CC-BY-SA-2.0-DE]
 
@@ -100,7 +98,7 @@ Kurve abzubilden und beurteilen zu können, diese Kurven jedoch zwischen
 verschiedenen Untersuchungen und Patienten vergleichbar zu machen, haben
 sich Standard-Elektrodenpositionen und *Standardableitungen* etabliert.
 Die gebräuchlichsten sind die Extremitätenableitungen und den
-Brustwandableitungen: [123]_
+Brustwandableitungen: [#123]_
 
 -  6 Extremitätenableitungen : I, II, III, aVL, aVR, aVF
 
@@ -112,7 +110,7 @@ Brustwandableitungen: [123]_
 
 
 
-.. [123]
+.. [#123]
     EKG-Ableitungen: Brustwandableitungen nach *Einthoven* und
     *Goldberger*, Brustwandableitungen nach *Wilson*. Neben diesen
     Standardableitungen gibt es noch für spezielle Fragestellungen
@@ -163,7 +161,7 @@ V1—V6. Zu den Positionen der Elektroden siehe
 EKG-Elektroden ist Voraussetzung um ein sinnvoll auswertbares und den
 einzelnen Herzabschnitten zuordenbares EKG zu erstellen. Falsch
 angebrachte Elektroden können ein EKG derart verfälschen, dass es zu
-gravierenden Fehldiagnosen kommen kann. [124]_
+gravierenden Fehldiagnosen kommen kann. [#124]_
 
 -  6 Elektroden am Brustkorb
 
@@ -172,7 +170,7 @@ gravierenden Fehldiagnosen kommen kann. [124]_
 -  Genaue Positionierung wichtig!
 
 
-.. [124]
+.. [#124]
     EKG, Positionierung der EKG-Elektroden: Zum Beispiel Rahmen einer
     Akut-Angiographie im Zuge eines Myokardinfarktes sind die
     dokumentierten EKGs (und damit auch die im Rettungsdienst

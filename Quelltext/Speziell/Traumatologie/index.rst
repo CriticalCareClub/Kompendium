@@ -2292,14 +2292,28 @@ hier der Vollständigkeit halber erwähnt sind:
 Verbrennung und Verbrühung
 **************************
 
-Beschreibung
-============
+.. admonition:: Definition
 
-Eine Verbrennung (*Lat.* *Combustio*, *Abkz.* *Comb.*) ist eine durch
-Hitzeeinwirkung entstandene Schädigung des Gewebes, besonders häufig der
-Haut. Sie ist eine thermische Wunde.** **Eine :dfn:`Verbrühung` :index:`\ <! Verbrühung>` (*Lat.* *Ambustio* (*Amb.*), *engl.* scald) ist eine
-thermische Schädigung durch heiße Flüssigkeit oder Dampf (Pschyrembel
-2002)\ [#303]_. Verbrennungen reichen von kleinen Brandblasen bis
+    Eine Verbrennung
+    :index:`\ <! Verbrühung>`
+    :index:`\ <! Combustio>`
+    :index:`\ <! Comb.>`
+    (*Lat.* *Combustio*, *Abkz.* *Comb.*)
+    ist eine durch
+    Hitzeeinwirkung entstandene Schädigung des Gewebes,
+    besonders häufig der Haut.
+    Sie ist eine thermische Wunde.
+
+    Eine :dfn:`Verbrühung`
+    :index:`\ <! Verbrühung>`
+    :index:`\ <! Ambustio>`
+    :index:`\ <! Amb.>`
+    :index:`\ <! scald>`
+    (*Lat.* *Ambustio* (*Amb.*), *engl.* scald)
+    ist eine thermische Schädigung durch heiße Flüssigkeit
+    oder Dampf\ [#303]_ [Pschyrembel:259]_.
+
+Verbrennungen reichen von kleinen Brandblasen bis
 schweren Schädigungen der Haut und der darunter liegenden Gewebe (z. B.
 großflächige Verkohlung). Um die Schwere der Verletzung rasch
 einschätzen zu können müssen die Ausdehnung und der Schweregrad der

@@ -59,7 +59,7 @@ gedrückt bis eine sichtbare Atembewegung vorhanden ist. Der
 Die Frequenz gibt der Reanimationsalgorithmus vor.
 
 Durch Verwendung eines Sauerstoffreservoirs und und einer
-ausreichenden Sauerstoffzufuhr (Richtwert: 10--15 L / min, oder
+ausreichenden Sauerstoffzufuhr (Richtwert: 10—15 L / min, oder
 Verwendung eines Demand-Ventils)
 kann die inspiratorische Sauerstoffkonzentration (FiO₂) auf fast 100% erhöht
 werden.
@@ -332,7 +332,7 @@ Die wichtigsten Ergebnisse dieser Studien sind:
 -  Die Gefahr von Fehlintubationen, insbesonders von ösophagealen
    Fehllagen, ist hoch. Diese werden oft spät oder gar nicht erkannt
    (Risiko der unerkannten Tubusfehllage bei Patienten mit
-   außerklinischem Kreislaufstillstand: 0,5--17%
+   außerklinischem Kreislaufstillstand: 0,5—17%
    [Grmec:2002]_ [Lyon:2010]_ [Jones:2004]_ [Pelucio:1997]_ [Jemmett:2003]_ [Katz:2001]_
 
 -  Die Erfolgsraten bei wenig routinierten Anwendern sind

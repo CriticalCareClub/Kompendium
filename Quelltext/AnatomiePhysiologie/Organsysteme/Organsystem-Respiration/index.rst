@@ -538,7 +538,7 @@ Atemfrequenz, -tiefe und -volumen
     .. sidebar:: Atemfrequenz, -tiefe, -volumen
 
         AF
-            Atemfrequenz, *12--16 / min*
+            Atemfrequenz, *12—16 / min*
 
         AZV
             Atemzugsvolumen, *500 ml*

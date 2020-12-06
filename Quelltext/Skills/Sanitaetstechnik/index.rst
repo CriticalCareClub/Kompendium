@@ -1234,7 +1234,7 @@ Material und Personal
 
 -  Sam-Splint
 
--  Peha-Haft, Mullbinde + Leukoplast oder 2--3 Dreiecktuchkrawatten
+-  Peha-Haft, Mullbinde + Leukoplast oder 2—3 Dreiecktuchkrawatten
 
 -  Ein weiteres Dreiecktuch als Armtragetuch
 
@@ -1267,7 +1267,7 @@ Der Druckverband dient der Stillung einer starken Blutung.
 Material und Personal
 ---------------------
 
--  1--2 Helfer
+-  1—2 Helfer
 
 -  Sterile Wundauflage je nach Wundgröße
 

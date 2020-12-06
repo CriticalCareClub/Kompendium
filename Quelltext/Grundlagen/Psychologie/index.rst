@@ -2026,7 +2026,7 @@ Freizeit- und Erholungsphasen.
     % % Trautmann-Sponsel, R. D. (1988): Definition und Abgrenzung
     % % des Begriffs Bewältigung. In L. Brüderl (Hrsg.), Belastung
     % % und Bewältigung: Trends in der Bewältigungsforschung (S.
-    % % 14--24). München: Juventa.  
+    % % 14—24). München: Juventa.  
     %
     %[Yerkes:1908]_ \ : \bibentry{Yerkes1908} \\
     % % Yerkes, R.M. \& Dodson, J.D (1908). The relation of strength

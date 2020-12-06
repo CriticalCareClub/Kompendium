@@ -28,7 +28,7 @@ Bei der Rekap-Zeit wird ein leichter Druck
 auf das Nagelende ausgeübt bis das Nagelbett weiß ist,
 dann lässt man
 los.
-Innerhalb von 1--2 Sekunden sollte das Nagelbett wieder
+Innerhalb von 1—2 Sekunden sollte das Nagelbett wieder
 rosarot sein.
 Eine verlängerte Rekap-Zeit deutet auf eine lokale
 Durchblutungsstörung\ [#171]_ oder Zentralisierung hin.

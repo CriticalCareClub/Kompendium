@@ -72,7 +72,7 @@ folgt beschrieben:
     -   Die *Eindrücktiefe* soll ungefähr ⅓ des
         Brustkorbs betragen. Das sind beim Säugling ca. 4 cm und bei
         Kindern ca. 5 cm (Biarent et al. 2010a).
-    -   Die *Druckfrequenz* ("Arbeitsgeschwindigkeit") soll 100--120/min
+    -   Die *Druckfrequenz* ("Arbeitsgeschwindigkeit") soll 100—120/min
         betragen. Bei der Beatmung richtet sich das Atemzugvolumen
         ebenfalls nach der Körpergröße des Patienten.
     -   Gemäß ERC kann eine Defibrillation bei Kindern bereits ab dem 1.

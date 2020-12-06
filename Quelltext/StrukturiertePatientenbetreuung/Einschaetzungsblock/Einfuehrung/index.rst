@@ -61,7 +61,7 @@ nach Bedarf durchgeführt.\ [#169]_
     Unser Konzept integriert die Punkte der General Impression
     als *zum ABCDE gleichberechtigte Punkte* und betont somit diese:
     *Szeneüberblick*, *Eindruck*, *Bewusstsein* und *Hauptbeschwerde*
-    haben als Punkte **1--4** einen größeren
+    haben als Punkte **1—4** einen größeren
     Stellenwert als bei vielen anderen Interpretationen des
     ABC(DE)-Schemas.
     Bei der Re-Evaluation werden diese Punkte ebenso

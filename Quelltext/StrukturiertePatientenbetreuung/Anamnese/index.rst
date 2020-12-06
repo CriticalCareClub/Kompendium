@@ -149,7 +149,7 @@ als :dfn:`OPQRST` bezeichnet [#fn:OPQRST]_.
 
 .. [#fn:SchmerzStaerke]
    *Stärke des Schmerzes*: Einige Autoren empfehlen, den Schmerz anhand
-   einer Skala von 0--10 beurteilen zu lassen.
+   einer Skala von 0—10 beurteilen zu lassen.
 
 .. [#fn:OPQRST]
    *OPQRST*: Onset (Geschehnisse zum Zeitpunkt des Auftretens),

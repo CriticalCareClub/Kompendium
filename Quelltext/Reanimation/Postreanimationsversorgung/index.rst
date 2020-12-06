@@ -76,7 +76,7 @@ ist die weitere Versorgung wichtig.
 Primär ist eine **Patientenevaluation** (:ref:`Einschätzungsblock <Thema-Einschaetzungsblock>`) durchzuführen.
 Bezüglich der Sofortmaßnahmen gelten sinngemäß die *Standardmaßnahmen bei vital bedrohten Patienten*.
 Die Sauerstoffgabe hat einen |SpO2|-Zielbereich von
-**94--98%**.
+**94—98%**.
 Besonders zu beachten ist:
 
 -   ``A``: Ist der Atemweg (noch) sicher?
@@ -122,7 +122,7 @@ die Überlebenswahrscheinlichtkeit und werden zunehmend implementiert.
 Ende und Abbruch der Reanimation
 *********************************
 
-In ca. 70--95% der Fälle ist der Reanimationsversuch
+In ca. 70—95% der Fälle ist der Reanimationsversuch
 erfolglos und der Patient verstirbt
 [StriebelAnaesthesie2-Band2]_.
 Grundsätzlich wird eine Reanimation fortgesetzt, solange

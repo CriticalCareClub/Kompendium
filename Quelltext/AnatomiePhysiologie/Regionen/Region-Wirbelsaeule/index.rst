@@ -22,14 +22,14 @@ Die Wirbelsäule
         -   *Gliederung*
 
             -   7 *Hals*\ wirbel
-                (Cervical-Wirbel, C 1--7)
+                (Cervical-Wirbel, C 1—7)
             -   12 *Brust*\ wirbel
-                (Thorakal-Wirbel, Th 1--12)
+                (Thorakal-Wirbel, Th 1—12)
             -   5 *Lenden*\ wirbel
-                (Lumbal-Wirbel, L 1--5)
+                (Lumbal-Wirbel, L 1—5)
             -   5 verschmolzene *Kreuzbein*\ wirbel
-                (Os sacrum, S 1--5)
-            -   3--4 *Steißbein*\ "wirbel"
+                (Os sacrum, S 1—5)
+            -   3—4 *Steißbein*\ "wirbel"
                 (Os coccygis)
 
         -   Klinisch: Bandscheibenvorfall, Wirbelsäulentrauma

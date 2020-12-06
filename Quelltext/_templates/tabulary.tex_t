@@ -19,7 +19,7 @@
 \phantomsection<%= labels %>\nobreak
 <% endif -%>
 \renewcommand{\hline}{\addlinespace}
-\begin{tabulary}{\linewidth}[t]{*{10}{J}}
+\begin{tabulary}{\linewidth}[t]{*{15}{J}}
 \toprule\addlinespace
 <%= ''.join(table.header) %>
 \midrule\addlinespace

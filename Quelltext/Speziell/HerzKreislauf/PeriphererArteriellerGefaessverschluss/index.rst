@@ -135,10 +135,10 @@ Die Symptome ergeben sich aus der Unterversorgung der Extremität mit
 sauerstoffreichem Blut: sie ist blass, kalt, tut höllisch weh und die
 Rekap-Zeit ist nicht mehr sinnvoll messbar. Zusätzlich wird die
 Extremität gefühllos und gelähmt. Der Patient kann ein Kribbeln
-empfinden (*"Ameisenlaufen"*). [244]_ (Lähmung).
+empfinden (*"Ameisenlaufen"*). [#244]_ (Lähmung).
 
 
-.. [244]
+.. [#244]
    Im englischen werden die Symptome als die *"five P’s of limb
    ischemia"* zusammengefasst: Pain (schmerzend) Pale (blaß), Pulseless
    (pulslos), Paresthesia (gefühllos), Paralysis

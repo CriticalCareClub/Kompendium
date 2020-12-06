@@ -4,39 +4,6 @@
 Sonstige exportierte Sachen
 ********************************
 
-(Nolan and Council 2005) (Handley et al. 2005) (Deakin, Nolan, and
-Council 2005) (Nolan et al. 2005) (Arntz et al. 2005) (Biarent et al.
-2005) (Soar et al. 2005) (Peter J F Baskett, Steen, et al. 2005) (Peter
-J F Baskett, Nolan, et al. 2005)
-
-(Nolan et al. 2010) (Koster et al. 2010b) (Charles D Deakin, Nolan,
-Sunde, et al. 2010) (Charles D Deakin, Nolan, Soar, et al. 2010)
-(Hans-Richard Arntz et al. 2010) (Biarent et al. 2010b) (Richmond and
-Wyllie 2010b) (Soar, Perkins, et al. 2010b) (Soar, Monsieurs, et al.
-2010b) (F. K. Lippert et al. 2010)
-
-(Handley et al. 2006) (Deakin and Nolan 2006) (Nolan et al.
-2006) (Arntz, Bossaert, and Fillipatos 2006) (Biarent et al. 2006) (Soar
-et al. 2006) (Baskett, Steen, and Bossaert 2006) (Baskett et al. 2006)
-(Nolan et al. 2010; Koster et al. 2010b; Charles D Deakin, Nolan, Sunde,
-et al. 2010; Charles D Deakin, Nolan, Soar, et al. 2010; Hans-Richard
-Arntz et al. 2010; Biarent et al. 2010b; Richmond and Wyllie 2010b;
-Soar, Perkins, et al. 2010b; Soar, Monsieurs, et al. 2010b; F. K.
-Lippert et al. 2010; J.P. Nolan, Soar, Zideman, et al. 2010; Koster et
-al. 2010a; Deakin, Nolan, Sunde, et al. 2010; Deakin, Nolan, Soar, et
-al. 2010; H.-R. Arntz et al. 2010; Biarent et al. 2010a; Richmond and
-Wyllie 2010a; Soar, Perkins, et al. 2010a; Soar, Monsieurs, et al.
-2010a; F. Lippert et al. 2010; K. G. Monsieurs et al. 2015; Perkins et
-al. 2015b; Soar, Nolan, et al. 2015b; Truhlár et al. 2015; Nolan et al.
-2015; Maconochie et al. 2015b; Wyllie et al. 2015b; Nikolaou et al.
-2015b; Zideman et al. 2015b; Greif et al. 2015b; Bossaert et al. 2015b;
-Monsieurs et al. 2015; Perkins et al. 2015a; Soar, Nolan, et al. 2015a;
-Truhlář et al. 2015; J.P. Nolan, Soar, Cariou, et al. 2015; Maconochie
-et al. 2015a; Wyllie et al. 2015a; Nikolaou et al. 2015a; Zideman et al.
-2015a; Greif et al. 2015a; Bossaert et al. 2015a)
-
-(Blacky, Fossler, et al. 2011; Blacky, Schahawi, et al. 2011;
-Frischenschlager et al. 2010)
 
 **Wünsche, Anregungen, Kritik?**
 

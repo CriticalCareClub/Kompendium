@@ -92,11 +92,11 @@ Probleme bei der HDM während des Defi-Ladevorganges
    AED-Geräten kann es jedoch zu Problemen kommen,
    sie interpretieren die
    reanimationsbedingten Störungen der EKG-Ableitung als Kontaktverlust
-   bzw. Bewegungsartefakt und brechen den Ladevorgang ab.\ [151]_
+   bzw. Bewegungsartefakt und brechen den Ladevorgang ab.\ [#151]_
 
 
 
-.. [151]
+.. [#151]
    Herzmassage während AED-Ladezyklus: Bei älteren Geräten
    bzw. Geräten mit alter Software ist dies unter Umständen nicht
    möglich, da bei diesen die Interferenzen durch die

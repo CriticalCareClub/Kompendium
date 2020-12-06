@@ -120,7 +120,7 @@ gibt die Anzahl der Kontraktionen pro Minute an. Der Normalwert beim
 Erwachsenen beträgt 60—100 / min und ist stark von der
 körperlichen Belastung bzw. Erregungszustand abhängig.
 Das **Schlagvolumen** (*SV*) ist jenes Volumen,
-welches das Herz bei einer Kontraktion auswirft (Normalwert ca. 70--80 ml).
+welches das Herz bei einer Kontraktion auswirft (Normalwert ca. 70—80 ml).
 Daraus ergibt sich das *Herzminutenvolumen* (*HMV*)
 als Produkt von Herzfrequenz und Schlagvolumen:
 
@@ -191,7 +191,7 @@ Das Reizbildungs- und
 An erster Stelle steht der **Sinusknoten** ``1`` im
 rechten Vorhof:
 Er ist im Normalfall der Impulsgeber
-und hat eine Eigenfrequenz von ca. 60--100/min
+und hat eine Eigenfrequenz von ca. 60—100/min
 (*natürlicher Schrittmacher*, :dfn:`Sinusrhythmus`).
 Eine Erregung des
 Sinusknotenn wird über den rechten Vorhof zum :dfn:`AV-Knoten`
@@ -237,11 +237,9 @@ Beispiele von Rhythmen werden unter
 
     Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
-
 .. raw:: latex
 
     \hfill
-
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.*
     :width: 100%
@@ -250,11 +248,9 @@ Beispiele von Rhythmen werden unter
 
     Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
-
 .. raw:: latex
 
     \hfill
-
 
 .. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
     :width: 100%
@@ -267,7 +263,7 @@ Beispiele von Rhythmen werden unter
     Advanced Instructional Media Ⓛ CC-BY
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieHerz
 
     Bilderserie: Herz

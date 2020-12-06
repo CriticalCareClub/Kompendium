@@ -21,7 +21,7 @@ Körpertemperatur
 
 Die Körpertemperatur kann an
 unterschiedlichen Stellen und mit unterschiedlichen Mitteln bestimmt
-werden. Mit dem *herkömmlichen Fieberthermometer*\  [122]_ kann die
+werden. Mit dem *herkömmlichen Fieberthermometer*\  [#122]_ kann die
 Temperatur unter der *Achsel* (*axillär*) oder im *Enddarm* (*rektal*,
 vor allem bei Kleinkindern) bestimmt werden, die Messung im Mund ist im
 professionellen Umfeld eher unüblich. Es ist bei jeder der Messung eine
@@ -47,7 +47,7 @@ niedriger sein.
    -  Ohrthermometer
 
 
-.. [122]
+.. [#122]
     Unter herkömmlichen Fieberthermometern versteht man heute
     elektronische Messgeräte. Quecksilberthermometer werden wegen des
     darin enthaltenen, giftigen Schwermetalls Quecksilber nicht mehr

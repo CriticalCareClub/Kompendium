@@ -79,7 +79,7 @@ Durchführung
    angezeigt wird ist das Gerät messbereit.
 
 #. Den Messstreifen mit dem Gerät *an den Bluttropfen halten*, das Blut
-   steigt aufgrund der Kapillarwirkung auf. [121]_
+   steigt aufgrund der Kapillarwirkung auf. [#121]_
 
 #. Beim *Piepton* ist genug Blut in die Testkammer eingeströmt und das
    Gerät beginnt mit der Messung und kann entfernt werden.
@@ -92,7 +92,7 @@ Durchführung
 #. *Messstreifen entsorgen* (normaler Restmüll).
 
 
-.. [121]
+.. [#121]
     Blutzuckermessung, Kapillarwirkung: Je nach Modell kann es hier zu
     Abweichungen kommen, so gibt es z. B. Geräte, bei denen der
     Teststreifen mit Blut benetzt werden muss. Im professionellen Umfeld
@@ -108,12 +108,16 @@ Durchführung
 
     Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
+.. raw:: latex
 
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.jpg
     :width: 100%
 
+.. raw:: latex
 
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/bz-wert_1214-00800.jpg
     :width: 100%
@@ -123,7 +127,7 @@ Durchführung
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieBlutzuckermessung
 
     Bilderserie: Blutzuckermessung

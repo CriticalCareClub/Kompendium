@@ -71,6 +71,10 @@ Endotrachealtubus (*ET*) zu geben, dies wird nicht mehr empfohlen.
     Ventrikuläre Tachykardie und Bewegungsartefakte durch die
     Herzdruckmassage.
 
+.. raw:: latex
+
+    \hfill
+
 .. _fig-cc-teddy-25:
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Medikamente-LAdrenalin-Sammlung-Live-00441pt.*
@@ -81,7 +85,7 @@ Endotrachealtubus (*ET*) zu geben, dies wird nicht mehr empfohlen.
     werden.
 
 .. subfigend::
-    :width: 0.45
+    :width: 0.48
     :alt: Example Model Chart Merge
     :label: fig-cc-charts
 

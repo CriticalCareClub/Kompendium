@@ -263,12 +263,20 @@ Vorgehen
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/medi-aufziehen_4815-00800.*
     :width: 100%
 
     Aufziehen mit Kanüle
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-kontrollieren_4824-00800.*
     :width: 100%
@@ -277,6 +285,10 @@ Vorgehen
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/medi-verabreichen_4826_CLOSEUP-00800.*
     :width: 100%
 
@@ -284,8 +296,12 @@ Vorgehen
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. subfigend::
-    :width: 0.23
+    :width: 0.48
     :label: Figure-Bilderserie
 
     Bilderserie: Medikamentengabe
@@ -352,6 +368,7 @@ Vorgehen
 
    #. Radklemme schließen
 
+
 .. subfigstart::
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Infusionsbesteck_33070-00943pt.*
@@ -361,22 +378,17 @@ Vorgehen
 
     *Christoph Pallinger*
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Infusionsbeutel_33016-00943pt.*
     :width: 100%
 
     Beispiele für Infusionsbeutel und
     -flaschen
 
-    *Christoph Pallinger*!!!
-
-.. subfigend::
-    :width: 0.3
-    :label: Figure-BilderserieInfusionsbesteck
-
-    Bilderserie: Infusionsbesteck
-
-
-.. subfigstart::
+    *Christoph Pallinger*
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Tropfkammer-Live-00441pt.*
     :width: 100%
@@ -385,11 +397,19 @@ Vorgehen
     Tropfkammer wird an der Infusionsflasche oder -beutel befestigt, die
     Tropfkammer ca. bis zur Hälfte gefüllt.
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Stellrad-Live-00441pt.*
     :width: 100%
 
     Mit der Radklemme wird
     die Inf eschwindigkeit reguliert.
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-3WegHahn-Live-00441pt.*
     :width: 100%
@@ -397,6 +417,10 @@ Vorgehen
     Mittels eines
     3-Weg-Hahns können weitere Infusionen angeschlossen
     werden.
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-AnschlussVenflon-Live-00441pt.*
     :width: 100%
@@ -406,10 +430,10 @@ Vorgehen
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieInfusionsset
 
-    Bilderserie: Infusionsset
+    Bilderserie: Infusion
 
 
 

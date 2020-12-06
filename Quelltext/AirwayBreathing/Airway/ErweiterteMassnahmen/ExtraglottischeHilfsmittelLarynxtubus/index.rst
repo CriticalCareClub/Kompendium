@@ -60,10 +60,10 @@ folgende Vorteile gegeben:
 Der Larynxtubus ist während der Reanimation eine geeignete Alternative
 zur Maskenbeatmung und zur endotrachealen Intubation und kann auch durch
 Angehörige der nichtärztlichen Gesundheitsberufe im Rahmen der
-lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
+lebensrettenden Sofortmaßnahmen angewendet werden.\ [#129]_
 
 
-.. [129]
+.. [#129]
     Airwaymanagement / Larynxtubus / Stellungsnahme: Gemäß einer
     Stellungsnahme des BM für Gesundheit ist eine Anwendung des
     Larynxtubus für Angehörige der nichtärztlichen Gesundheitsberufe im
@@ -79,6 +79,10 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
 
             Larynxtubus mit Blockerspritze
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtubus_32885_textwidth.*
             :width: 100%
 
@@ -86,6 +90,10 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
             Cuff.
 
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Larynxtuben_Set_33025_textwidth.*
       :width: 100%
@@ -95,7 +103,7 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [129]_
       Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieLarynxtuben
 
     Bilderserie

@@ -18,7 +18,7 @@ Das Blut hat viele Aufgaben
 
     .. sidebar:: Blut
 
-        -   5--6 Liter
+        -   5—6 Liter
         -   Feste Bestandteile (Zellen, Blutkörperchen)
         -   Flüssige Bestandteile (Plasma)
         -   Vgl. :ref:`tab-blut-bestandteile`

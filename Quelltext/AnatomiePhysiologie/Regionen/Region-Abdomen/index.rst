@@ -116,7 +116,7 @@ Lendenwirbel hinab.
 Die rechte Niere liegt (wegen des großen rechten
 Leberlappens) ungefähr eine halbe Wirbelhöhe tiefer als die Linke. Die
 Nieren besitzen wie die Milz eine Bindegewebskapsel. Eine Niere ist ca.
-10--12cm lang und ca. 5—6,5cm breit.
+10—12cm lang und ca. 5—6,5cm breit.
 Die Nieren
 sind stark durchblutet.
 
@@ -180,7 +180,7 @@ Schleifenapparat abgepresst (ca. 150 L, Primärharn). Im
 Tubulus wandert das abgepresste Plasmawasser den Schleifenapparat
 entlang, dabei werden die meisten wichtigen Stoffe und der Großteil des
 Wassers zurückgeholt (rückresorbiert), sodass am Ende nur mehr
-1,5--2 L Harn, welcher die nicht zurückgeholten
+1,5—2 L Harn, welcher die nicht zurückgeholten
 ausscheidungspflichtigen Stoffe enthält, über das Nierenbecken und den
 Harnleiter in die Harnblasen abgeleitet werden. [Loeffler:7]_
 

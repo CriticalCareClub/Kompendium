@@ -91,7 +91,7 @@ ABCDE
 ``4``
     Der Patient klagt über  Atemnot (*Dyspnoe*). Oft
     berichten die Patienten, dass sie nur mehr im Sitzen Luft bekommen,
-    sie können nicht flach liegen ( Orthopnoe [236]_).
+    sie können nicht flach liegen ( Orthopnoe [#236]_).
 
 ``B``
     Die Atemfrequenz ist oft erhöht (*Tachypnoe*), oft besteht ein
@@ -179,7 +179,7 @@ ABCDE
         Alarmsymptome
 
 
-.. [236]
+.. [#236]
    *Orthopnoe*: Der Patient muss aufrecht sitzen um die Atemnot zu
    lindern.
 

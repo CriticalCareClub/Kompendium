@@ -9,56 +9,56 @@ Liebe Leserinnen und Leser!
 
 Die Wurzeln dieses Werkes reichen zurück in das Jahr 2008.
 Damals entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
-Florisdorf-Donaustadt, 
-ausgehend von den Erfordernissen der Rettungssanitäter-Kurse, 
+Florisdorf-Donaustadt,
+ausgehend von den Erfordernissen der Rettungssanitäter-Kurse,
 die *"Arbeits- und Ausbildungsstandards für den Sanitätsdienst"* (*AASS*).
-Sie bildeten die Grundlage der Rettungssanitäter-Curricula 
+Sie bildeten die Grundlage der Rettungssanitäter-Curricula
 und konnten sich schon früh, etappenweise und
 unter kontrollierten Bedingungen eingeführt, als Lern- und
 Ausbildungsunterlage bewähren.
 
-Doch jedes Buch hat einen stillen Mitautor, die Zeit. 
+Doch jedes Buch hat einen stillen Mitautor, die Zeit.
 Unter ihrer umsorgenden Führung hat die Professionalisierung
-der Notfallmedizin, allen voran der präklinischen Notfallmedizin, 
-in unseren Breiten spürbar zugenommen, 
+der Notfallmedizin, allen voran der präklinischen Notfallmedizin,
+in unseren Breiten spürbar zugenommen,
 und damit auch die Anforderungen an das Fachpersonal drastisch erhöht.
-Dem wollen wir nun mit einer umfassenden Neuausrichtung 
+Dem wollen wir nun mit einer umfassenden Neuausrichtung
 und drastischen Überarbeitung der AASS und Überführung in ein "neues" Projekt
-Rechnung tragen. 
-Waren die AASS bisher eher Rettungspersonal 
+Rechnung tragen.
+Waren die AASS bisher eher Rettungspersonal
 mit eher minimalem medizinischem Basiswissen ausgerichtet
-(in Österreich klassischerweise Rettungssanitäter), 
+(in Österreich klassischerweise Rettungssanitäter),
 so wendet sich der neue :dfn:`Plan P` (so der vorläufige Projektitel)
-an fortgeschrittenes medizinisches Fachpersonal, 
-konkret von Notfallsanitätern und -innen, 
-welche bereits am Anfang der Versorgungskette wesentliche 
-Entscheidungen zum Patientenwohle treffen *müssen*, 
+an fortgeschrittenes medizinisches Fachpersonal,
+konkret von Notfallsanitätern und -innen,
+welche bereits am Anfang der Versorgungskette wesentliche
+Entscheidungen zum Patientenwohle treffen *müssen*,
 bis hin zum endversorgenden ärztlichen und Fachpflegepersonal.
 
-Dieser umfassende, integrative Ansatz 
-und der Versuch, 
+Dieser umfassende, integrative Ansatz
+und der Versuch,
 in einem Werk so viele verschiedene medizinische Kompetenzniveaus zu bedienen,
-ist sicherlich nicht problemfrei oder einfach. 
+ist sicherlich nicht problemfrei oder einfach.
 Dennoch ist es gerade im permanenten Hochrisikoumfeld der
 medizinischen Betreuung kritisch Kranker ein wesentliches
 Qualitäts- und Erfolgskriterium,
 wenn das eigene Wissen und der persönliche Horizont
 das eigene Tätigkeitsfeld überschreitet
-und man einen Sinn für die wesentlichen Faktoren 
+und man einen Sinn für die wesentlichen Faktoren
 des gesamten Behandlungsprozesses hat.
 
-Wie wir das Spannungsfeld zwischen "medizinischen Basics" 
-und "High-yield-Medicine" didaktisch konkret meistern werden? 
-Das ist ein interessanter und herausfordernder, 
-wahrscheinlich nicht ganz konfliktfreier, 
-Teil dieses Projekts. 
-Ja, es ist ein bisschen ein Experiment, 
-und dieses Werk lebte (als AASS) 
-und lebt von Experimenten. 
-Unser Ziel ist keine "Fertigstellung", 
+Wie wir das Spannungsfeld zwischen "medizinischen Basics"
+und "High-yield-Medicine" didaktisch konkret meistern werden?
+Das ist ein interessanter und herausfordernder,
+wahrscheinlich nicht ganz konfliktfreier,
+Teil dieses Projekts.
+Ja, es ist ein bisschen ein Experiment,
+und dieses Werk lebte (als AASS)
+und lebt von Experimenten.
+Unser Ziel ist keine "Fertigstellung",
 sondern ein beharrliches Weiterentwickeln unserer Fähigkeiten
-und der ebenso beharrliche Versuch, 
-andere in der Betreuung kritisch kranker Menschen 
+und der ebenso beharrliche Versuch,
+andere in der Betreuung kritisch kranker Menschen
 mit unserer Arbeit zu unterstützen.
 
 -- saluti et solatio aegrorum
@@ -72,19 +72,19 @@ Frequently asked questions (FAQs)
 **************************************
 
 An wen wendet sich dieses Buch?
-    Dieses Werk richtet sich an ärztliches und nicht-ärztliches medizinisches Fachpersonal, 
+    Dieses Werk richtet sich an ärztliches und nicht-ärztliches medizinisches Fachpersonal,
     welches mit der Betreuung von kritischen Patienten betraut ist.
 
 Für wen ist dieses Werk *nicht* gedacht?
-    Diese Werk wird diese nicht erfreuen, 
+    Diese Werk wird diese nicht erfreuen,
     welche gerne einfache Antworten auf komplizierte Fragen haben möchten.
-    Unser Ziel ist selbstständiges, regel\ *geleitetes* Arbeiten, 
+    Unser Ziel ist selbstständiges, regel\ *geleitetes* Arbeiten,
     anstatt strikten, regel\ *gebundenen* Handelns.
 
 
  –
 
-*salus aegroti suprema lex*\  [4]_.
+*salus aegroti suprema lex*\  [#4]_.
 
 
 ::
@@ -102,7 +102,7 @@ Für wen ist dieses Werk *nicht* gedacht?
                    ||     ||
 
 
-.. [4]
+.. [#4]
    salus aegroti suprema lex *lat.*: *Das Wohl des Kranken ist oberstes
    Gebot.*
 

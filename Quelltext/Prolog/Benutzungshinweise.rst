@@ -12,12 +12,12 @@ Im Text
 *Betonte* Textteile sind kursiv, *Besonders stark betonte* sind fett
 gedruckt. :dfn:`Fachbegriffe`, welche an dieser
 Stelle erklärt werden, haben ebenfalls eine eigene Formatierung.
-Normale Fußnoten [1]_ beinhalten
+Normale Fußnoten [#1]_ beinhalten
 Hintergrundinformationen, die nicht uninteressant sind, aber den
 normalen Fließtext unnötig aufblähen würden.
 
 
-.. [1]
+.. [#1]
    Ich bin eine normale Fußnote.
 
 **************
@@ -29,7 +29,7 @@ wie in der folgenden Tabelle gegliedert:
 
 .. tabularcolumns:: cclL
 
-.. list-table:: Kompetenzlevel 
+.. list-table:: Kompetenzlevel
     :class: tabulary
     :header-rows: 1
     :stub-columns: 1
@@ -58,17 +58,17 @@ wie in der folgenden Tabelle gegliedert:
     *   -   4
         -   E
         -   Advanced
-        -   Ärzte, 
-            diplomiertes Pflegepersonal; 
+        -   Ärzte,
+            diplomiertes Pflegepersonal;
             *.at* Notfallsanitäter mit Notfallkompetenz NKV oder NKI;
-            *.de* Notfallsanitäter, 
+            *.de* Notfallsanitäter,
             Rettungsassistenten
     *   -   5
         -   F
         -   Expert
-        -   Experten, 
-            Ärzte, 
-            Fachärzte, 
+        -   Experten,
+            Ärzte,
+            Fachärzte,
             diplomiertes Pflegepersonal mit Zusatzausbildung
 
 
@@ -107,8 +107,8 @@ im Download-Bereich verfügbar (http://www.aass.at/cms/download/aass/).
 
 .. _Table-Versionstypen:
 
-.. table:: Versionstypen. Es gibt sechs verschiedene Versionstypen, welche den Entwicklungsfortschritt einer Version angeben 
-	   
+.. table:: Versionstypen. Es gibt sechs verschiedene Versionstypen, welche den Entwicklungsfortschritt einer Version angeben
+
 	   +---------------+--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
 	   | **Kennung**   | **Versionstyp**          | **Beschreibung**                                                                                                                                                                                                                                                                                                                                                               | **Beispiel**                     |
 	   +---------------+--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
@@ -124,7 +124,7 @@ im Download-Bereich verfügbar (http://www.aass.at/cms/download/aass/).
 	   +---------------+--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
 	   | *final*       | *Release*                | Es handelt sich hierbei um die endgültige Version, welche für den öffentlichen und produktiven Einsatz konzipiert wurde. Die finale Version hat keine Versionstyp-spezifische Nummerierung.                                                                                                                                                                                    | ``2.0.0``                        |
 	   +---------------+--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
-	   
+
 
 Eine Versionsnummer besteht aus
 

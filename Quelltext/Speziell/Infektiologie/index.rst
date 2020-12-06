@@ -63,10 +63,10 @@ gefährdet sind ältere und immunsupprimierte Personen.
 Die Grippe tritt besonders in der kalten Jahreszeit, meistens als
 *Epidemie* auf. Es kann auch zum Ausbruch einer weltweiten Pandemie
 kommen, z. B. Spanische Grippe (1918, 25 Mio Tote), Asiatische Grippe
-(1957, 1 Mio Tote) und Hongkong-Grippe (1968, 800 000 Tote) [269]_.
+(1957, 1 Mio Tote) und Hongkong-Grippe (1968, 800 000 Tote) [#269]_.
 
 
-.. [269]
+.. [#269]
    http://de.wikipedia.org/wiki/Influenza
 
 
@@ -166,12 +166,12 @@ rinnende oder verstopfte Nase und eine eher leicht erhöhte Temperatur.
 In der Folge kann sich die Schleimhaut der Nasennebenhöhlen entzünden,
 man spricht dann von einer *Nebenhöhlenentzündung*, welche oft
 langwierig und schmerzhaft sein kann. Im Nasenrachen mündet die
-*Ohrtrompete*\ [270]_, die für den Druckausgleich des Ohres sorgt. Bei
+*Ohrtrompete*\ [#270]_, die für den Druckausgleich des Ohres sorgt. Bei
 Verstopfung dieses Kanals kommt es zu einer Abflussbehinderung und somit
 zu einem Rückstau des Sekrets in das Mittelohr. Hierdurch kann es zu
 Ohrenschmerzen und einer Entzündung kommen.
 
-.. [270]
+.. [#270]
    (Tuba auditiva, Eustachische Röhre)
 
 
@@ -199,13 +199,13 @@ Ursachen
 --------
 
 Eine Lungenentzündung kann grundsätzlich durch eine Infektion durch
-Bakterien, Viren oder Pilze [271]_ oder eine chemische Schädigung, z. B.
+Bakterien, Viren oder Pilze [#271]_ oder eine chemische Schädigung, z. B.
 als Folge einer Aspiration von Magensaft entstehen.
 
 Höheres Lebensalter begünstigt Infektionen wie z. B. Pneumonien, da
 ältere Patienten ein schwächeres Abwehrsystem haben.
 
-.. [271]
+.. [#271]
    (häufig bei HIV/Immunsuppression)
 
 
@@ -256,9 +256,9 @@ vor allem *aerogen*, aber unter Umständen auch oral, durch Hautkontakt
 oder plazentär. Die Inkubationszeit beträgt 4—12 Wochen.
 
 Zunehmend treten auf Antibiotika resistente Erreger auf (MDR-TB,
-XDR-TB) [272]_.
+XDR-TB) [#272]_.
 
-.. [272]
+.. [#272]
    Quelle: AGES
 
 
@@ -292,10 +292,10 @@ Ansteckungsgefahr
 Bei Einhaltung der Schutzmaßnahmen (s. Spezielle Maßnahmen) ist eine
 Ansteckung von sonst gesunden und immunkompetenten Personal
 unwahrscheinlich. Für eine Ansteckung wäre ein ca. 8-stündiger Kontakt
-erforderlich. [273]_
+erforderlich. [#273]_
 
 
-.. [273]
+.. [#273]
    National Institute for Clinical Excellence (NICE) Tuberculosis.
    National clinical Guideline for Diagnosis, management, prevention and
    control (2006)
@@ -555,7 +555,7 @@ Wundstarrkrampf (Tetanus)
 =========================
 
 
-Der Erreger des Wundstarrkrampfes [274]_ kommt *überall in der Umgebung*
+Der Erreger des Wundstarrkrampfes [#274]_ kommt *überall in der Umgebung*
 vor. Bei Verletzungen können durch Kontamination diese Sporen in die
 Wunde kommen. Bei ungünstigen Wundverhältnissen (*anaerobe*
 Verhältnisse) kann es dann zu einer Infektion kommen. Der Erreger
@@ -565,7 +565,7 @@ Die Inkubationszeit beträgt ca. 4–21 Tage.
 Erste Vorzeichen sind Müdigkeit und Inappetenz. [HahnMikrobio:6]_
 
 
-.. [274]
+.. [#274]
    Sporen von *Clostridium tetani*
 
 
@@ -716,7 +716,7 @@ Kriterien
 
 #. *Klinische Kriterien*
 
-   #. Fieber :math:`\geqq` 38,6°C
+   #. Fieber ≥ 38,6°C
 
    #. mindestens eines der folgenden Symptome:
 

@@ -65,6 +65,10 @@ abgeschraubt und verschlossen werden.
 
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Handpumpe_32789-00441pt.*
             :width: 100%
 
@@ -72,12 +76,20 @@ abgeschraubt und verschlossen werden.
 
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Orosauger_33074-00441pt.*
             :width: 100%
 
             Oro-Sauger für Neugeborene
 
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Absaugkatheter_Set_33082-00441pt.*
             :width: 100%
@@ -196,6 +208,10 @@ Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
 
             [Ch. Pallinger]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32990_export.*
             :width: 100%
 
@@ -204,7 +220,7 @@ Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.44
+    :width: 0.48
     :label: Figure-AbsaugkatheterLaenge
 
     Bilderserie: Länge des Absaugkatheters

@@ -74,11 +74,11 @@ Journals <https://www.resuscitationjournal.com/>`_
 als auch der `ERC <https://erc.europa.eu/>`_ kostenlos
 heruntergeladen werden.
 Eine deutsche Übersetzung ist auf den Homepages der deutschen und der
-österreichischen Fachgesellschaften verfügbar\ [319]_
+österreichischen Fachgesellschaften verfügbar\ [#319]_
 [ERC:2015:01:De]_ [ERC:2015:02:De]_ [ERC:2015:03:De]_ [ERC:2015:04:De]_ [ERC:2015:05:De]_ [ERC:2015:06:De]_ [ERC:2015:07:De]_ [ERC:2015:08:De]_ [ERC:2015:09:De]_ [ERC:2015:10:De]_ [ERC:2015:11:De]_ .
 
 
-.. [319]
+.. [#319]
    *GRC*: *German Resuscitation Council*; *ARC*: *Austrian Resuscitation
    Council*
 
@@ -172,6 +172,10 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
             [Lena Hirtler, :term:`Lizenz: MfG`]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
             :width: 100%
 
@@ -179,6 +183,9 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
             [Lena Hirtler, :term:`Lizenz: MfG`]
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
             :width: 100%
@@ -188,7 +195,7 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
             [Lena Hirtler, :term:`Lizenz: MfG`]
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BasisreanimationDreiKoenige
 
     Die *drei Könige* der Basisreanimation

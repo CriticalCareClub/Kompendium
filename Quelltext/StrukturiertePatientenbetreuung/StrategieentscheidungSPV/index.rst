@@ -262,7 +262,7 @@ dazu zählen:
 -   **Stroke Unit**: Behandlungseinheit für
     Schlaganfallpatienten
 -   **Herzkatheterlabor**
-    (PTCA\ [176]_]_[ PCI\ [177]_) für Herzinfarktpatienten
+    (PTCA\ [#176]_]_[ PCI\ [#177]_) für Herzinfarktpatienten
 -   **Schockraum**:
     Behandlungseinheit mit Vorrichtungen zur
     Stabilisierung und Aufrechterhaltung von Vitalfunktionen,
@@ -276,10 +276,10 @@ dazu zählen:
 
 
 
-.. [176]
+.. [#176]
    PTCA: Perkutane Transluminale Coronar-Angioplastie
 
-.. [177]
+.. [#177]
    PCI: Percutane Coronar-Intervention
 
 Bei *gebärenden Patientinnen* ist meistens die Anmeldung zur Geburt bei

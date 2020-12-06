@@ -142,7 +142,7 @@ Reihenfolge zählt!
 #. **Situationsgerechte Lagerung}**
 #. **Sauerstoffgabe**
    (:ref:`m-sauerstoffberieselung`): je nach Indikation,
-   allgemeiner Zielwert: |SpO2| von 94--98%
+   allgemeiner Zielwert: |SpO2| von 94—98%
 
 #.  Ggfs. **Notarzt-Nachforderung**:
     mit kurzer Begründung

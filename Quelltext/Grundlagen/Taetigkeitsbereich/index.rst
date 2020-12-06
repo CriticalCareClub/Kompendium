@@ -99,7 +99,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
     zum Beispiel bei dieser Überstellung eines Intensivpatienten: Wenn
     danach alle Beteiligten so fröhlich sind ist das ein gutes Zeichen.
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. raw:: latex
 
@@ -111,12 +111,11 @@ Venenzugang und Infusion, Beatmung und Intubation).
     Miteinander statt gegeneinander: Arzt und Sanitäter bilden eine
     Einheit.
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. raw:: latex
 
     \hfill
-
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-alle.jpg
     :width: 100%
@@ -124,10 +123,10 @@ Venenzugang und Infusion, Beatmung und Intubation).
     Im Notfall ist die Organisationszugehörigkeit
     nebensächlich.
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieMiteinander
 
     Bilderserie: Miteinander
@@ -140,11 +139,11 @@ Dienstverhältnis
 
 Der Beruf bzw. die Tätigkeiten des Sanitäters dürfen *ehrenamtlich*,
 *berufsmäßig*, als *Zivildienstleistender* oder unter anderen bestimmten
-Umständen [5]_ ausgeübt werden. Die *berufsmäßige* Ausübung von
+Umständen [#5]_ ausgeübt werden. Die *berufsmäßige* Ausübung von
 Tätigkeiten des Sanitäters setzt neben der jeweiligen Fachausbildung die
 Absolvierung eines *Berufsmoduls* voraus.
 
-.. [5]
+.. [#5]
    Die Tätigkeiten des Sanitäters dürfen ferner als Soldat im
    Bundesheer, als Organ des öffentlichen Sicherheitsdienstes,
    Zollorgan, Strafvollzugsbediensteter oder als Angehöriger eines
@@ -212,39 +211,39 @@ ergeben und z. T. gar nicht gesetzlich geregelt sind.
 
 In letzter Zeit kommt es auch zu einem Einfluss privater, meist
 kommerzieller, internationaler Ausbildungsprogramme wie z. B.
-AMLS\ [6]_,
-ITLS\ [7]_,
-PHTLS\ [8]_ etc.
+AMLS\ [#6]_,
+ITLS\ [#7]_,
+PHTLS\ [#8]_ etc.
 Deren Lehrinhalte sind meist auf den
-Kompetenzbereich von Paramedics\ [9]_ ausgelegt, und reizen Grenzen
+Kompetenzbereich von Paramedics\ [#9]_ ausgelegt, und reizen Grenzen
 dessen, was allgemein als Aufgaben der Sanitäter angesehen wird,
 weitgehend aus, oder überschreiten diese. Diesbezüglich kommt es immer
-wieder zu Diskussionen, was Sanitäter tun bzw. unterlassen\ [10]_
-*müssen*\ [11]_, und was sie *nicht* tun oder
+wieder zu Diskussionen, was Sanitäter tun bzw. unterlassen\ [#10]_
+*müssen*\ [#11]_, und was sie *nicht* tun oder
 unterlassen dürfen.
 
 
-.. [6]
+.. [#6]
    Advanced Medical Life Support
 
-.. [7]
+.. [#7]
    International Trauma Life Support
 
-.. [8]
+.. [#8]
    Prehospital Trauma Life Support
 
-.. [9]
+.. [#9]
    Paramedics sind gutausgebildete Sanitäter im englischsprachigen Raum,
    welche in nicht-Notarzt-basierten Systemen eingesetzt werden, d.h.
    sie haben in diesen Ländern das Personal mit der höchsten
    medizinischen Ausbildung, welches im präklinischen Regelbetrieb
    eingesetzt wird.
 
-.. [10]
+.. [#10]
    Schädliche Dinge zu unterlassen ist genauso wichtig wie nützliche
    Dinge zu tun.
 
-.. [11]
+.. [#11]
    Meist kann man es sich nicht aussuchen, ob man eine Maßnahme ergreift
    oder nicht. Handlungen, die man machen oder unterlassen darf und die
    das Patientenwohl fördern, *müssen* i. d. R. entsprechend vorgenommen
@@ -282,9 +281,8 @@ Anforderungen – Beanspruchung – Belastung: Was erwartet die Welt von mir?
 Querverweise
 ^^^^^^^^^^^^
 
--  Gesprächsführung: [chp:KOM]
-
--  Belastungsreaktion, Burn-out: :ref:`Thema-ptss`, :ref:`Thema-burn-out`
+-   Gesprächsführung: [chp:KOM]
+-   Belastungsreaktion, Burn-out: :ref:`Thema-ptss`, :ref:`Thema-burn-out`
 
 Theoretische Anforderungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -398,34 +396,43 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Hilfeleistung
 
-    [Michael Motal / :term:`Lizenz: MfG`]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch2.*
     :width: 100%
 
     Autobrand mit giftigen Dämpfen
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00518-0154pt-0300dpi.*
     :width: 100%
 
     Gefahrenstoffunfall
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ —
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi.*
     :width: 100%
 
     Ungünstige Sichtverhältnisse, hier bei einer Übung im Wiener Kaisermühlentunnel
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieDiv
 
     Bilderserie: Diverses
@@ -442,27 +449,33 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Blutzuckermessung
 
-    [Michael Motal / :term:`Lizenz: MfG`]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.*
     :width: 100%
 
     Versorgung nach einem Verkehrsunfall
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0030mm.*
     :width: 100%
 
     Assistenz bei ärztlichen Maßnahmen
 
-    [Michael Motal / :term:`Lizenz: MfG`]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieDiagnostikTherapie
 
     Bilderserie: Diagnostik und Therapie
@@ -478,25 +491,33 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.).
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/bh_ith_00800.jpg
     :width: 100%
 
     Intensivtransporthubschrauber
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/DIF2010-000816-0154pt-0300dpi.*
     :width: 100%
 
     Ambulanzraum bei einem Sanitätsdienst
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieArbeitsplaetze
 
     Bilderserie: Verschiedene Arbeitsplätze
@@ -514,7 +535,11 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Organisation im Großschadensfall, hier ein Wagenhalteplatz bei
     einer Nachtübung
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00568-0154pt-0300dpi.*
     :width: 100%
@@ -522,9 +547,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Führungsrolle bei der Bewältigung eines
     Großschadensereignis: Der Leiter einer Sanitätshilfestelle (SanHiSt)
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
-
-
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
     :width: 0.45
@@ -543,7 +566,11 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Zusammenarbeit zwischen den Organisationen
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-bundesheer1.jpg
     :width: 100%
@@ -551,7 +578,11 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Integraler Bestandteil der zivilen und militärischen Landesverteidigung: Der
     Bundesheersanitäter
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1853_1.jpg
     :width: 100%
@@ -559,11 +590,10 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Die Zusammenarbeit mit der Exekutive – auch
     an sozialen Brennpunkten – ist Alltag
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
-
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieZusammenarbeit
 
     Bilderserie: Zusammenarbeit
@@ -581,9 +611,9 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 Der Arzt ist zur Ausübung der Medizin berufen. Dies umfasst jede auf
 medizinisch-wissenschaftlichen Erkenntnissen begründete Tätigkeit, die
 unmittelbar am Menschen oder mittelbar für den Menschen ausgeführt
-wird. [12]_
+wird. [#12]_
 
-.. [12]
+.. [#12]
    Die Ausübung der Medizin umfasst insbesonders die Untersuchung auf
    das Vorliegen oder Nichtvorliegen von körperlichen und psychischen
    Krankheiten oder Störungen, die Beurteilung von diesen Zuständen bei
@@ -601,11 +631,6 @@ Die ärztliche Ausbildung gründet sich auf einem abgeschlossenes
 Universitätsstudium, der weitere Ausbildungsweg ist jedoch international
 sehr unterschiedlich.
 
-Situation in Österreich
------------------------
-
-
-
 .. index::
     single: Arzt; approbierter
     single: Ärztegesetz
@@ -613,6 +638,8 @@ Situation in Österreich
     single: Facharzt
     single: Ärztekammer
 
+Situation in Österreich
+-----------------------
 
 Allgemeines
 ^^^^^^^^^^^
@@ -623,14 +650,14 @@ Die selbstständige Ausübung des ärztlichen Berufes ist ausschließlich
 *approbierten* :index:`\ <Arzt!approbierter>` Ärzten sowie *Fachärzten*
 :index:`\ <Facharzt>` vorbehalten (*Arztvorbehalt*, von diesem
 Vorbehalt gibt es für andere medizinische Berufsgruppen entsprechende
-Ausnahmeregelungen in den jeweiligen Berufsgesetzen). [13]_
+Ausnahmeregelungen in den jeweiligen Berufsgesetzen). [#13]_
 
 Interessensvertretung und Aufsichtsbehörde für alle Ärzte ist die
 *Österreichische Ärztekammer* bzw. die jeweils zuständigen
 Landesärztekammern.
 
 
-.. [13]
+.. [#13]
    Die in Ausbildung zum Arzt für Allgemeinmedizin oder zum Facharzt
    befindlichen Ärzte (*Turnusärzte)* :index:`\ <Turnusarzt>` sind
    lediglich zur unselbstständigen Ausübung in als Ausbildungsstätten
@@ -662,7 +689,7 @@ nun an einer anerkannten Ausbildungseinrichtungen unter Aufsicht
 ärztlich tätig werden. Dies kann entweder im Rahmen eines
 Ausbildungsverhältnisses zum Arzt für Allgemeinmedizin, welches
 mindestens drei Jahre dauert, erfolgen oder in Ausbildung zu einem
-Facharzt, diese Ausbildungszeit beträgt je nach Fach 5--6
+Facharzt, diese Ausbildungszeit beträgt je nach Fach 5—6
 Jahre. Die Ausbildung zum Facharzt kann grundsätzlich gleich nach dem
 Studium beginnen, bzw. auch erst nach der Absolvierung der Ausbildung
 zum Arzt für Allgemeinmedizin begonnen werden. Während der
@@ -670,7 +697,7 @@ Ausbildungszeit durchläuft der Auszubildende im Turnus-System diverse
 Fachabteilungen, welche in der jeweiligen Ausbildungsordnung vorgegeben
 sind (daher die Bezeichnung **Turnusarzt**). Die
 Turnus-Ausbildung zum Arzt für Allgemeinmedizin dauert 3 Jahre bzw. zum
-Facharzt je nach Fachgebiet 5--6 Jahre.
+Facharzt je nach Fachgebiet 5—6 Jahre.
 
 Ein Arzt für Allgemeinmedizin verfügt über ein so genanntes
 uneingeschränktes :dfn:`Jus practicandi` (Recht zu

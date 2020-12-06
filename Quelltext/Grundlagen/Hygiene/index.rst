@@ -180,7 +180,7 @@ Immunsystem des Menschen gut mit den natürlich vorkommenden Keimen
 zurande. Wenn das *Immunsystem* jedoch *geschädigt oder geschwächt* ist,
 können *auch sonst harmlose Keime* zu einer großen Gefahr werden!
 Besonders betroffen sind Patienten mit einer *chemotherapeutischen
-Behandlung* oder Leukämie [255]_, sowie Patienten mit
+Behandlung* oder Leukämie [#255]_, sowie Patienten mit
 *Immunschwäche*-Erkrankungen (z. B. AIDS, :ref:`Thema-aids`). Auch *Kinder*,
 *ältere Personen* oder Patienten in schlechter körperlicher Verfassung
 haben oft ein schwächeres Immunsystem. Auch sonst gesunde Menschen
@@ -216,7 +216,7 @@ Beschreibung
 ^^^^^^^^^^^^
 
 :dfn:`Viren` sind kleiner als Bakterien und sind keine
-vollständigen Zellen. [256]_ Sie brauchen Wirtszellen um sich vermehren
+vollständigen Zellen. [#256]_ Sie brauchen Wirtszellen um sich vermehren
 zu können. Sie schleusen ihr eigenes genetisches Programm
 (Erbinformationen) in die fremde Zelle ein, diese produziert dann neue
 Viren. Die missbrauchte Zelle verliert i.d.R. ihr eigentliche Funktion
@@ -238,13 +238,13 @@ durch Viren verursacht.
             -   Grippe
             -   Feuchtblattern
             -   Hepatitis-Formen
-            -   :math:`\cdots`
+            -   …
 
 Nachweis
 ^^^^^^^^
 
 Die Tests haben üblicherweise ein *diagnostisches Fenster*, in dem eine
-Infektion (noch) nicht nachweisbar ist. [257]_
+Infektion (noch) nicht nachweisbar ist. [#257]_
 
 -  Diagnostisches Fenster: Test wird erst einige Zeit nach der Infektion
    aussagekräftig.
@@ -326,10 +326,10 @@ an den Folgen des *Wundbrandes*. Erkrankungen wie *Scharlach* oder
 Im Jahr 1928 verschimmelte dem englischen Wissenschaftler Alexander
 Fleming versehentlich eine Nährplatte mit Bakterienkulturen. Er
 bemerkte, dass in der Umgebung des Pilzes die Bakterien nicht wachsen
-konnten: das *Penicillin* war entdeckt. [258]_ Der erste Patient der mit
+konnten: das *Penicillin* war entdeckt. [#258]_ Der erste Patient der mit
 Penicillin behandelt wurde war ein Londoner Polizist. Er hatte sich beim
 Rasieren verletzt und eine Blutvergiftung zugezogen – er galt als
-unrettbar.  [259]_
+unrettbar.  [#259]_
 
 In weiterer Folge wurde eine Vielzahl weiterer Antibiotika entwickelt
 und man dachte, man hätte die bakteriellen Infektionen besiegt. Doch man
@@ -388,7 +388,7 @@ Spectrum Beta-Laktamase-Bildner, Vancomycin-resistente Enterokokken,
 Vancomycin-resistenter Staph. aureus). Auch bei der Tuberkulose treten
 mittlerweile resistente Keime auf: *2008* wurden die ersten Fälle
 registriert, bei denen der Keim auf mind. *4* Antibiotika resistent
-war [260]_. *Das Problem der multiresistenten Keime wird immer größer.*
+war [#260]_. *Das Problem der multiresistenten Keime wird immer größer.*
 
 -  Krankentransport: Patienten aus Gesundheitseinrichtungen
 
@@ -446,6 +446,10 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 
     [Christine Gabriel/KARPAT]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/GabrielChristine-Ccc/staph-aureus-mrsa.*
     :width: 100%
 
@@ -454,6 +458,10 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
     Er ist *multiresistent*.
 
     [Christine Gabriel/KARPAT]
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielChristine-Ccc/amputat-us1.*
     :width: 100%
@@ -465,7 +473,7 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieMultiresistenteKeime
 
     Bilderserie: Multiresistente Keime in der Praxis. Auf
@@ -549,7 +557,7 @@ durchzuführen, dass der Erfolg dieser Verfahren nachvollziehbar
 gewährleistet ist und die Sicherheit und Gesundheit von Patienten,
 Anwendern oder Dritten nicht gefährdet wird. *(Desinfektions-)Mittel*,
 welche zur Wiederaufbereitung von Medizinprodukten eingesetzt werden,
-gelten ebenfalls als *Medizinprodukte*\  [261]_; es gelten daher die
+gelten ebenfalls als *Medizinprodukte*\  [#261]_; es gelten daher die
 gleichen Unterweisungspflichten.
 
 Die Reinigung entfernt Verunreinigungen
@@ -593,7 +601,7 @@ des Gegenstandes.
 
 *(Desinfektions-)Mittel*, welche zur Wiederaufbereitung von
 Medizinprodukten eingesetzt werden, gelten ebenfalls als
-*Medizinprodukte*\  [262]_; es gelten daher die gleichen
+*Medizinprodukte*\  [#262]_; es gelten daher die gleichen
 *Unterweisungspflichten*.
 
 -  Keimreduktion
@@ -619,7 +627,7 @@ Jedes Desinfektionsmittel hat einen klar umrissenen Einsatzbereich
 Desinfektionsmittel für Einlegebäder, Händedesinfektionsmittel,
 Hautdesinfektionsmittel, …). Ein Desinfektionsmittel darf nur im dafür
 vorgesehenen Bereich verwendet werden, da es sonst wirkungslos oder
-schädlich sein kann. [263]_ Verschiedene Flächen können auch
+schädlich sein kann. [#263]_ Verschiedene Flächen können auch
 unterschiedliche Desinfektionsmittel benötigen: So dürfen
 Acryl-Oberflächen keinesfalls mit Alkohol-hältigen Mitteln desinfiziert
 werden, da sonst das Material angegriffen und stark geschädigt wird. Es
@@ -703,7 +711,7 @@ Einlegebad ist nur zulässig, wenn diese ausschließlich in Kontakt mit
 intakter Haut kommen.*
 
 Bei der Desinfektion mittels Einlegebad wird in einer geeigneten Wanne
-eine Desinfektionslösung zubereitet [264]_ und Gegenstände darin über
+eine Desinfektionslösung zubereitet [#264]_ und Gegenstände darin über
 einen längeren Zeitraum (mehrere Stunden) eingelegt. Dabei ist es
 wichtig, dass die gesamte Oberfläche benetzt ist, es muss daher
 *luftblasenfrei* eingelegt werden. Schwimmende Teile werden mittels
@@ -783,7 +791,7 @@ Voraussetzung für die Sterilisation ist eine *vorherige Reinigung* und
 Das bekannteste Verfahren ist das *Autoklavieren*, dabei wird der
 Gegenstand unter Überdruck mit Hitze und Wasserdampf behandelt.
 Sterilisationsverfahren sind relativ aufwendig und setzen Wissen und
-Erfahrung voraus. [265]_
+Erfahrung voraus. [#265]_
 
 -  Keimfreiheit – Sterilität
 
@@ -850,7 +858,7 @@ ist Ansprechpartner für Belange der Hygiene. Er hat Maßnahmen zu setzen
 oder zu veranlassen, die der Erkennung, Verhütung und Bekämpfung von
 Infektionen, deren Übertragung und der Gesunderhaltung dienen. Zur
 Durchführung dieser Maßnahmen erstellt er u.a. den Hygieneplan. Je nach
-Art der Einrichtung hat er eine spezielle Ausbildung [266]_ bzw.
+Art der Einrichtung hat er eine spezielle Ausbildung [#266]_ bzw.
 Kenntnisse im Bereich der Infektionslehre und Hygiene.
 
 -  Hygieneplan: konkrete Bestimmungen
@@ -867,7 +875,7 @@ Schmuck, Uhren, Freundschaftsarmbänder sind perfekte Nährböden für Keime
 (warm, feucht durch Schweiß), und verhindern gleichzeitig eine effektive
 Reinigung. Daher müssen diese Dinge vor dem Dienst ablegt werden!
 Weiters müssen bei Dienstantritt die Hände gewaschen und anschließend
-eine hygienische Händedesinfektion durchgeführt werden. [267]_ Die Nägel
+eine hygienische Händedesinfektion durchgeführt werden. [#267]_ Die Nägel
 und Nagelfalze müssen optisch sauber sein. Künstliche Fingernägel oder
 Nagellack sind nicht statthaft, da sich auf den künstlichen Oberflächen
 leicht Keime ansiedeln können. Lange Haare müssen nach hinten gebunden
@@ -1011,7 +1019,7 @@ Schutzkleidung
    sich bezüglich ihrer Schutzwirkung wesentlich unterscheiden. Die
    einfachste Form ist die altbekannte, bei Operationen verwendete,
    *Mund-Nasen-Maske* (MNM, "OP-Maske"), welche für viele
-   Situationen einen ausreichenden Schutz darstellt [268]_.
+   Situationen einen ausreichenden Schutz darstellt [#268]_.
    *FFP-Masken* bieten einen deutlich höhren Schutz.
    Es gibt je nach
    Partikelgröße, die ausgefiltert wird, verschiedene Klassen: FFP 1,
@@ -1277,15 +1285,15 @@ Werk mit Österreich-Bezug: (Flamm and Rotter 1999) !!! LITERARY !!!
 ----
 
 
-.. [255]
+.. [#255]
    *Leukämie*: Bösartige Erkrankung des blutbildenden Systems, es kommt
    u.a. zu einer unzureichenden Bildung von für das Immunsystem
    wichtigen weißen Blutkörperchen.
 
-.. [256]
+.. [#256]
    Sie sind so klein dass sie im Lichtmikroskop nicht sichtbar sind.
 
-.. [257]
+.. [#257]
    Viren lassen sich nicht auf Nährböden anzüchten. Man verwendet
    entweder indirekte Antigen- oder Antikörpernachweistests oder die
    Polymerase-Kettenreaktion (PCR) zum direkten Nachweis der
@@ -1293,50 +1301,50 @@ Werk mit Österreich-Bezug: (Flamm and Rotter 1999) !!! LITERARY !!!
    ausreichend entsprechendes Material gebildet wird um den Test positiv
    werden zu lassen.
 
-.. [258]
+.. [#258]
    Zuvor hatten bereits deutsche Wissenschaftler eine andere
    Antibiotika-Art entwickelt, die Sulfonamide.
 
-.. [259]
+.. [#259]
    Leider wusste man damals noch nicht, wieviel Penicillin ein Mensch
    für eine erfolgreiche Behandlung benötigte. Der Polizist verstarb –
    nach anfänglicher deutlicher Besserung – als das experimentell
    hergestellte Penicillin aufgebraucht war.
 
-.. [260]
+.. [#260]
    Quelle: AGES
 
-.. [261]
+.. [#261]
    §2 Abs 2 Medizinproduktegesetz
 
-.. [262]
+.. [#262]
    §2 Abs 2 Medizinproduktegesetz
 
-.. [263]
+.. [#263]
    So darf man zum Beispiel nicht vor einer Venenpunktion die Haut
    mittels eines Händedesinfektionsmittel desinfizieren.
    Händedesinfektionsmittel beinhalten rückfettende Substanzen um
    hautverträglicher zu sein. Gelangen diese durch den Stich in das
    Blutgefäß kann es zu Venenreizungen kommen.
 
-.. [264]
+.. [#264]
    Typischer Weise wird ein Konzentrat entsprechend verdünnt.
 
-.. [265]
+.. [#265]
    Sterilgut sollte nur von entsprechend qualifizierten und
    zertifizierten Einrichtungen mit validierten Verfahren aufbereitet
    werden!
 
-.. [266]
+.. [#266]
    Hygienefachkraft, Arzt mit Weiterbildung für Krankenhaushygiene,
    Facharzt für Hygiene und Mikrobiologie, spezielle Fortbildungskurse …
 
-.. [267]
+.. [#267]
    Die Händewaschung dient dem mechanischen Entfernen von Schmutz und
    der Verringerung der Anzahl von Bakteriensporen, welchedurch die
    alkoholische Händedesinfektion nicht abgetötet werden können.
 
-.. [268]
+.. [#268]
    Beim Ausbruch von SARS in Hongkong in 2003 konnten simple OP-Masken
    das Infektionsrisiko für das Personal auf 0 senken (das infizierte
    Personal trug entweder keine Maske oder einfache Papiermasken) (Seto

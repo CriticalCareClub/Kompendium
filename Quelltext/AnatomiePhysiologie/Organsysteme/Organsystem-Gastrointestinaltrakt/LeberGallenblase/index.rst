@@ -71,11 +71,9 @@ in welcher die Gallenflüssigkeit *gespeichert (!)*
 
     Ⓒ WMC Ⓛ ???
 
-
 .. raw:: latex
 
     \hfill
-
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Gallenblase.*
     :width: 100%
@@ -102,7 +100,7 @@ in welcher die Gallenflüssigkeit *gespeichert (!)*
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-LeberGallenblasePankreas
 
     Bilderserie: Leber, Gallenblase und Pankreas

@@ -78,9 +78,9 @@ ein schwerst bewusstseinsgestörter oder toter Patient 3 Punkte
 (nicht 0!).
 Bewertet werden die Augenöffnung,
 die beste
-verbale und die beste motorische Reaktion des Patienten.\ [173]_
+verbale und die beste motorische Reaktion des Patienten.\ [#173]_
 
-.. [173]
+.. [#173]
     Regelmäßig findet man Handlungsanweisungen — überwiegend für
     ärztliches Personal — in der Literatur,
     welche die GCS als
@@ -162,6 +162,9 @@ festgestellt werden:
 
     Ⓒ Gabriel :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.*
     :width: 100%
@@ -170,6 +173,9 @@ festgestellt werden:
 
     Ⓒ Michael Motal :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.*
     :width: 100%
@@ -179,7 +185,7 @@ festgestellt werden:
     Ⓒ Michael Motal :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieD
 
     Bilderserie: D

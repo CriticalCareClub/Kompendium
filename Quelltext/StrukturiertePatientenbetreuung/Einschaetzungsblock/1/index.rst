@@ -63,10 +63,18 @@ muss der Leitstelle eine erste *Lagemeldung* gegeben werden.
 
     Ⓒ Gabriel :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/Normsymbole/warntafel-un-60-1710.*
     :width: 100%
 
     Warntafel
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/minen_hinweis2.jpg
     :width: 100%

@@ -376,7 +376,7 @@ Sauerstoffmasken mit Reservoir [#BerieselungBeatmungsbeutel]_.
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-Bilderserie-Sauerstoffberieselung
 
      Bilderserie: Mittel zur Berieselung mit Sauerstoff
@@ -422,7 +422,7 @@ ist oder einzutreten droht ("Notfallpatient"), soll,
 sofern keine Kontraindiktaionen vorliegen, soviel Sauerstoff
 verabreicht werden,
 sodass die Sauerstoffsättigung
-(SpO₂) im Bereich von **94--98%** erreicht wird.
+(SpO₂) im Bereich von **94—98%** erreicht wird.
 
 
 #.  Kontraindikationen und Gegenanzeigen prüfen:
@@ -435,7 +435,7 @@ sodass die Sauerstoffsättigung
     zugrundeliegender Erkrankung.
     Grundsätzlich soll ein
     SpO₂ von
-    **94--98%** erreicht werden.
+    **94—98%** erreicht werden.
     Steht keine Pulsoxymetrie zur Verfügung, ist als
     Richtwert von einer Dosis von **8 L / min** auszugehen,
     welche dem klinischen Zustand des Patienten angepasst werden

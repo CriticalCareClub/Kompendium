@@ -154,7 +154,7 @@ vor:
 #.  Nach der Schockabgabe wird die *HDM sofort wieder aufgenommen*.
     Die
     Kombination 30 HDM und zwei Beatmungen wird rund zwei Minuten
-    (5--6 HDM-/Beatmungs-Zyklen) fortgesetzt, danach erfolgt die
+    (5—6 HDM-/Beatmungs-Zyklen) fortgesetzt, danach erfolgt die
     nächste Rhythmusanalyse.
 
 #.  Das Vorgehen wiederholt sich jetzt bis der Patient Lebenszeichen

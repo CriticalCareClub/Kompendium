@@ -59,7 +59,7 @@ Esmolol
 
     Bolus: 0,5 mg / kg, Rep. idem (70 kg: 35 mg; 100 kg: 50 mg)
 
-    Perfusor: 3--18 mg / kg / h
+    Perfusor: 3—18 mg / kg / h
 
 .. Thema-: Anwendungshinweise
 

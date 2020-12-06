@@ -32,9 +32,9 @@ Eine :index:`Vergewaltigung` begeht, wer eine Person mit
 Gewalt, durch Entziehung der persönlichen Freiheit oder durch Drohung
 mit gegenwärtiger Gefahr für Leib oder Leben zur Vornahme oder Duldung
 des Beischlafes, oder einer dem Beischlaf gleichzusetzenden
-geschlechtlichen Handlung, nötigt. [279]_
+geschlechtlichen Handlung, nötigt. [#279]_
 
-.. [279]
+.. [#279]
    §201 StGB
 
 
@@ -43,9 +43,9 @@ Geschlechtliche Nötigung
 
 Eine Geschlechtliche Nötigung begeht, wer — außer in den Fällen von
 Vergewaltigung — eine Person mit Gewalt oder durch gefährliche Drohung
-zur Vornahme oder Duldung einer geschlechtlichen Handlung nötigt. [280]_
+zur Vornahme oder Duldung einer geschlechtlichen Handlung nötigt. [#280]_
 
-.. [280]
+.. [#280]
    §202 StGB
 
 Reaktion des Opfers
@@ -116,17 +116,17 @@ bestehender Abhängigkeiten oder anderer Gründe *besonderen Schutz durch
 das Gesetz genießt*. Darunter fällt:
 
 -  Sexueller Missbrauch einer wehrlosen oder psychisch beeinträchtigten
-   Person [281]_
+   Person [#281]_
 
--  Schwerer sexueller Missbrauch von Unmündigen [282]_
+-  Schwerer sexueller Missbrauch von Unmündigen [#282]_
 
--  Sexueller Missbrauch von Unmündigen [283]_
+-  Sexueller Missbrauch von Unmündigen [#283]_
 
--  Sexueller Missbrauch von Jugendlichen [284]_
+-  Sexueller Missbrauch von Jugendlichen [#284]_
 
--  Sittliche Gefährdung von Personen unter sechzehn Jahren [285]_
+-  Sittliche Gefährdung von Personen unter sechzehn Jahren [#285]_
 
--  Missbrauch eines Autoritätsverhältnisses [286]_
+-  Missbrauch eines Autoritätsverhältnisses [#286]_
 
 Der sexuelle Missbrauch geschieht meist über lange Zeit und ist nur
 selten ein "akutes" Problem. Wichtig hierbei ist es, ihn zu erkennen und
@@ -134,7 +134,7 @@ eine ausführliche Dokumentation schon im Verdachtsfall anzufertigen.
 
 
 
-.. [281]
+.. [#281]
    §205. (1) Wer eine wehrlose Person oder eine Person, die wegen einer
    Geisteskrankheit, wegen einer geistigen Behinderung, wegen einer
    tiefgreifenden Bewusstseinsstörung oder wegen einer anderen schweren,
@@ -148,14 +148,14 @@ eine ausführliche Dokumentation schon im Verdachtsfall anzufertigen.
 
    (2) …
 
-.. [282]
+.. [#282]
    unmündigen Person den Beischlaf oder … gleichzusetzende
    geschlechtliche Handlung unternimmt, ist mit Freiheitsstrafe … zu
    bestrafen.
 
    (2) … (3) … (4) …
 
-.. [283]
+.. [#283]
    §207. (1) Wer … eine geschlechtliche Handlung an einer *unmündigen
    Person* vornimmt oder von einer unmündigen Person an sich vornehmen
    lässt, ist mit Freiheitsstrafe … zu bestrafen.
@@ -167,7 +167,7 @@ eine ausführliche Dokumentation schon im Verdachtsfall anzufertigen.
    *nicht zu bestrafen*, es sei denn, die unmündige Person hätte das
    zwölfte Lebensjahr noch nicht vollendet.
 
-.. [284]
+.. [#284]
    §207b. (1) Wer an einer Person, die das *16. Lebensjahr* noch nicht
    vollendet hat und aus bestimmten Gründen noch nicht reif genug ist, …
    unter Ausnützung dieser mangelnden Reife sowie seiner
@@ -182,7 +182,7 @@ eine ausführliche Dokumentation schon im Verdachtsfall anzufertigen.
    unmittelbar durch ein Entgelt dazu verleitet, eine geschlechtliche
    Handlung … vorzunehmen …, ist … zu bestrafen.
 
-.. [285]
+.. [#285]
    §208. (1) Wer eine Handlung, die geeignet ist, die sittliche,
    seelische oder gesundheitliche Entwicklung von Personen unter
    sechzehn Jahren zu gefährden, vor einer unmündigen Person oder einer
@@ -195,7 +195,7 @@ eine ausführliche Dokumentation schon im Verdachtsfall anzufertigen.
 
    (2) …
 
-.. [286]
+.. [#286]
     §212.
     (1) Wer
 
@@ -317,10 +317,10 @@ Behinderung wehrlos ist, körperliche oder seelische Qualen zufügt; bzw.
 wer seine *Verpflichtung zur Fürsorge oder Obhut* einem solchen Menschen
 gegenüber *gröblich vernachlässigt* und dadurch, wenn auch nur
 fahrlässig, dessen Gesundheit oder dessen körperliche oder geistige
-Entwicklung beträchtlich schädigt. [287]_
+Entwicklung beträchtlich schädigt. [#287]_
 
 
-.. [287]
+.. [#287]
    §92 StGB: Quälen oder Vernachlässigen unmündiger, jüngerer oder
    wehrloser Personen
 

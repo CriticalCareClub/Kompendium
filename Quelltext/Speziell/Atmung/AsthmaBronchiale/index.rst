@@ -202,7 +202,7 @@ SAMPLER
 ``M``
     Oft werden Sprays bzw. Inhalatoren zur Dauertherpaie und für den
     Anfall eingesetzt. Manche Medikamente, insbesonders
-    Schmerzmedikamente, können Anfälle auslösen. [227]_ Nahm der Patient
+    Schmerzmedikamente, können Anfälle auslösen. [#227]_ Nahm der Patient
     in letzter Zeit (neue) Medikamente?
 
 ``P``
@@ -217,7 +217,7 @@ SAMPLER
 
 
 
-.. [227]
+.. [#227]
    Besonders nichtsteroidale Antirheumatika (ASS, Aspirin, etc.) und
    Betablocker (Antiarrhythmika, Blutdruckmittel) können Asthma-Anfälle
    auslösen.

@@ -153,12 +153,20 @@ Technik eignet sich nur für kurze Distanzen.
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering2b.jpg
     :width: 100%
 
     Transport mit dem Tragering
 
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering3b.jpg
     :width: 100%
@@ -168,7 +176,7 @@ Technik eignet sich nur für kurze Distanzen.
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieTragering
 
     Bilderserie: Transport mit einem *Tragering*
@@ -199,40 +207,72 @@ wird immer mit den *Füßen voran* getragen.
 
     Tuch aufbreiten
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch2b.jpg
     :width: 100%
 
     … die näher zum Patient liegende Hälfte umschlagen…
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch3b.jpg
     :width: 100%
 
     … die obere Hälfte nochmals Richtung Patient umschlagen…
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch4b.jpg
     :width: 100%
 
     … und das Tuch an den Patienten legen.
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch5b.jpg
     :width: 100%
 
     Patient leicht anheben und Tuch bis zur Hälfte unterschieben …
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch6b.jpg
     :width: 100%
 
     … Patient schonend zurück legen.
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch7b.jpg
     :width: 100%
 
     Von der anderen Seite ebenfalls leicht anheben und Tuch ausbreiten.
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch8b.jpg
     :width: 100%
 
     Zu dritt das Tuch fest anpacken …
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch9b.jpg
     :width: 100%
@@ -242,7 +282,7 @@ wird immer mit den *Füßen voran* getragen.
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieTragetuch
 
     Bilderserie: Transport mit dem Tragetuch
@@ -327,7 +367,7 @@ Lagerungsarten
 
 
 
-[152]_
+[#152]_
 
 
 
@@ -339,43 +379,72 @@ Lagerungsarten
 
     Flachlagerung
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerung30gradb.jpg
     :width: 100%
 
     Lagerung mit 30° erhöhtem Oberkörper
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungoberkoerperhochb.jpg
     :width: 100%
 
     Lagerung mit stark erhöhtem Oberkörper
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungseiteb.jpg
     :width: 100%
 
     Seitenlagerung
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungkollaps2b.jpg
     :width: 100%
 
     Lagerung mit erhöhten Beinen.
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungkollaps1b.jpg
     :width: 100%
 
     Lagerung mit erhöhten Beinen unter Schonung der Wirbelsäule und des Beckens (bei Verdacht auf Wirbelsäulen- oder Beckenverletzungen)
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungabdomenb.jpg
     :width: 100%
 
     Lagerung zur Entspannung der Bauchdecke
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungthromboseb.jpg
     :width: 100%
 
     Lagerung mit erhöhter Extremität
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungembolieb.jpg
     :width: 100%
@@ -383,7 +452,7 @@ Lagerungsarten
     Lagerung mit herabhängender Gliedmaße
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-lagerungsarten
 
     Bilderserie: Lagerungsarten
@@ -397,7 +466,7 @@ Lagerungsarten
 
 
 
-.. [152]
+.. [#152]
     Lagerung mit erhöhten Beinen: Diese Lagerung wurde früher als in
     Hinblick auf den Hypovolämischen Schock als *Schocklagerung*
     bezeichnet. Da sich die Lagerung je nach Schockart unterscheidet (Die
@@ -471,7 +540,7 @@ Vorgehen
    C-Griff: Daumen und Zeigefinger um ein Ohr. Der Kopf darf *nicht*
    auf Zug gehalten werden, die HWS darf *nicht gestaucht* werden. Der
    Kopf wird in Neutralposition stabilisiert. (Campbell 2010;
-   Bundesverband/Bundesschulung, n.d.) [153]_
+   Bundesverband/Bundesschulung, n.d.) [#153]_
 
 #. *ActorB*\ B Der *seitliche* Helfer legt eine HWS-Schiene an
    (:ref:`Thema-hws-schiene-anlegen`).
@@ -487,47 +556,72 @@ Vorgehen
 
     Während des Annäherns den Patient auffordern, den Kopf nicht zu bewegen.
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm2.jpg
     :width: 100%
 
     Den Kopf sofort mit den Händen fixieren, Visier öffnen und Patienten ansprechen.
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm3.jpg
     :width: 100%
 
     Ggfs. Patient synchron und schonend auf den Rücken drehen.
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm4.jpg
     :width: 100%
 
     Ggfs. Brille entfernen, Kinnriemen öffnen und behindernde Kleidung entfernen.
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm5.jpg
     :width: 100%
 
     Halswirbelsäule stabilisieren.
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm6.jpg
     :width: 100%
 
     Helm kippen bis von oben die Nasenspitze sichtbar ist, danach vorsichtig nach hinten wegziehen
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm7.jpg
     :width: 100%
 
     Nach dem Abziehen Stabilisierung des Kopfes übernehmen. Keinen Zug und keine Stauchung ausüben!
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/helm8.jpg
     :width: 100%
 
     Nach der Helmabnahme erfolgt sofort das Anlegen einer HWS-Schiene. Der Kopf bleibt in Neutralposition zug- und stauchungsfrei fixiert. Die passende Größe der HWS-Schiene wird bestimmt und eingestellt.
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/hwsschiene3.jpg
     :width: 100%
@@ -537,7 +631,7 @@ Vorgehen
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-Figure-helmabnahme-hws-schiene
 
     Bilderserie: Helmabnahme und Anlage einer HWS-Schiene
@@ -545,7 +639,7 @@ Vorgehen
     Ⓒ Michael Motal  :term:`Ⓛ MfG`
 
 
-.. [153]
+.. [#153]
    HWS-Immobilisation / Zug / ASBÖ: Nach der Lehrmeinung 07/2011 vom
    01.02.2011 (Bundesverband/Bundesschulung, n.d.) darf der Kopf nicht
    mehr unter Zug gehalten werden. Dies ist konsistent mit ITLS (6.A.)
@@ -566,7 +660,7 @@ HWS-Immobilisationsschiene (Stifneck)
 
 
 
-Die HWS-Schiene [154]_ zum Ruhigstellen und Stabilisieren der
+Die HWS-Schiene [#154]_ zum Ruhigstellen und Stabilisieren der
 **H**\ als\ **W**\ irbel\ **S**\ äule (HWS). Sie soll bei jedem Verdacht
 auf eine Verletzung der (Hals-) Wirbelsäule eingesetzt werden (!!!
 FULLPRETTYREFPROCEDURE !!! YY14200B); jedenfalls nach einer Helmabnahme.
@@ -585,7 +679,7 @@ welchen sich die gewünschte vorher abgemessene Größe einstellen lässt
 
     Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
-.. [154]
+.. [#154]
    HWS-Schiene: Auch *HWS-Orthese*.
 
 
@@ -738,12 +832,12 @@ Vorgehen
       #. Abschließend wird eine Kontrolle des sicheren Schlusses
          durchgeführt.
 
-#. Angurten: mehrere Gurte [155]_; jeden Gurt zuerst um den Handgriff
+#. Angurten: mehrere Gurte [#155]_; jeden Gurt zuerst um den Handgriff
    der einen, dann der anderen Hälfte führen, dann über dem Patienten
    schließen und festziehen.
 
 
-.. [155]
+.. [#155]
    Anzahl der Gurte lt. Herstellerangabe. Wir empfehlen die Verwendung
    von mind. *3* Gurten
 
@@ -793,9 +887,9 @@ Auf manchen Schaufeltragen kann ein
 Patient direkt (ohne Vakuummatratze) immobilisiert werden. Die
 Immobilisation auf der Schaufeltrage wird jedoch nicht in allen
 Rettungsdienstbereichen empfohlen, da die aufnehmenden Spitäler i.d.R.
-nicht darauf vorbereitet sind (Tauschmaterial, …). [156]_
+nicht darauf vorbereitet sind (Tauschmaterial, …). [#156]_
 
-.. [156]
+.. [#156]
    Schaufeltrage / Immobilisation: Die Immobilisation direkt auf der
    Schaufeltrage ist – entgegen vieler Gerüchte – nicht nur möglich,
    sondern auch von Herstellern, wie zum Beispiel Ferno ausdrücklich
@@ -854,7 +948,7 @@ Verdacht auf mögliche Wirbelsäulenverletzungen, Becken- oder
 Oberschenkelfrakturen (Oberschenkelhals und Schaft). Ziel ist es, die
 Matratze an die Körperform der Patienten eng anzupassen und somit
 Bewegungen effektiv zu verhindern. Vielerorts wird die Immobilisation
-mittels Vakuummatratze als Mittel der Wahl empfohlen. [157]_
+mittels Vakuummatratze als Mittel der Wahl empfohlen. [#157]_
 
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Vacuummatratze_32960-AASS-0176mm.*
@@ -863,7 +957,7 @@ mittels Vakuummatratze als Mittel der Wahl empfohlen. [157]_
 
     [Quelle: Ch. Pallinger, MfG]
 
-.. [157]
+.. [#157]
    Vakuummatratze / Immobilisation: Die Immobilisation auf der
    Vakuummatratze wird derzeit als Methode der Wahl empfohlen, da die
    Technik organisationsübergreifend weit verbreitet und das Personal
@@ -963,7 +1057,7 @@ Ferno Fastrap Quick Restraint System
    single: Fastrap Quick Restraint System
 
 Das Fastrap-System kann sowohl zusammen mit einer Schaufeltrage, als
-auch mit einem Spineboard verwendet werden. [158]_
+auch mit einem Spineboard verwendet werden. [#158]_
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Spiderstrap_32954_v2-AASS-0112mm.jpg
 
@@ -971,7 +1065,7 @@ auch mit einem Spineboard verwendet werden. [158]_
 
     Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
-.. [158]
+.. [#158]
    Ferno Fastrap / Schaufeltrage: *"The Fastrap system is compatible
    with Ferno backboards and Scoop stretchers."* Ferno International
    Online Shop, http://www.fernointernational.com, 2011-05-13
@@ -1180,10 +1274,16 @@ Trotz Aluminiumkernschiene muss an der betroffenen Extremität ein Armtragetuch 
 
 
 
+.. subfigstart::
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Sam_Splint_33050_crop-AASS-0112mm.jpg
     :width: 100%
 
     Ein SAM-Splint® fabriksneu …
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Sam_Splint_33053_crop-AASS-0112mm.jpg
     :width: 100%
@@ -1207,7 +1307,7 @@ Material und Personal
 
 -  Sam-Splint
 
--  Peha-Haft, Mullbinde + Leukoplast oder 2--3 Dreiecktuchkrawatten
+-  Peha-Haft, Mullbinde + Leukoplast oder 2—3 Dreiecktuchkrawatten
 
 -  Ein weiteres Dreiecktuch als Armtragetuch
 
@@ -1240,16 +1340,16 @@ Der Druckverband dient der Stillung einer starken Blutung.
 Material und Personal
 ---------------------
 
--  1--2 Helfer
+-  1—2 Helfer
 
 -  Sterile Wundauflage je nach Wundgröße
 
 -  Druckkörper: z. B. Mullbinde
 
--  Verbandsmaterial [159]_ (z. B. Dreiecktuchkrawatte)
+-  Verbandsmaterial [#159]_ (z. B. Dreiecktuchkrawatte)
 
 
-.. [159]
+.. [#159]
    Druckverband: Unter Umständen ist die Verwendung von flexiblen
    Verbandsmaterial (z. B. PehaHaft) ausreichend bzw. je nach
    Wundlokalisation zu bevorzugen.

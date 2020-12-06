@@ -28,12 +28,12 @@ Bei der Rekap-Zeit wird ein leichter Druck
 auf das Nagelende ausgeübt bis das Nagelbett weiß ist,
 dann lässt man
 los.
-Innerhalb von 1--2 Sekunden sollte das Nagelbett wieder
+Innerhalb von 1—2 Sekunden sollte das Nagelbett wieder
 rosarot sein.
 Eine verlängerte Rekap-Zeit deutet auf eine lokale
-Durchblutungsstörung\ [171]_ oder Zentralisierung hin.
+Durchblutungsstörung\ [#171]_ oder Zentralisierung hin.
 
-.. [171]
+.. [#171]
     *Verlängerte Rekap-Zeit*:
     Unter "lokale Durchblutungsstörung" fallen
     auch in Folge von Kälte minderdurchblutete Extremitäten,
@@ -179,7 +179,7 @@ Bei der Interpretation des Wertes muss daher immer bedacht werden:
 
 Liegt ein Verdacht auf ein Trauma vor,
 wird eine schnelle
-Traumauntersuchung (STU) durchgeführt\ [172]_.
+Traumauntersuchung (STU) durchgeführt\ [#172]_.
 Ziel ist das Aufspüren von
 akut *lebensgefährlichen* Verletzungen (insbesonders Blutungsquellen und
 Schäden des ZNS).
@@ -203,7 +203,7 @@ besteht aus der Inspektion und dem Abtasten von
     Spine Board).
 
 
-.. [172]
+.. [#172]
     Wenn Verletzungen auf einen Körperteil beschränkt sind und der
     Unfallhergang eindeutig ist (Amputation eine Fingers durch eine Säge,
     …) oder Bagatellverletzungen vorliegen (eingezogener Schiefer, …),

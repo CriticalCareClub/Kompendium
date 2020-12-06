@@ -52,10 +52,10 @@ erhöhen. Am einfachsten erfolgt dies über einen Verbindungsschlauch und
 eine O₂-Berieselungseinheit, welche mit einem Flow von 15L/min
 eingestellt ist. Mit Hilfe eines Reservoirs, welches Sauerstoff während
 der Beatmungspausen zwischenspeichert, kann die O₂-Konzentration des
-Einatemgases weiter gesteigert werden.  [136]_
+Einatemgases weiter gesteigert werden.  [#136]_
 
 
-.. [136]
+.. [#136]
    Andere O₂-Systeme sind am Markt verfügbar (Demand-Ventile, etc.),
    aber nur begrenzt verbreitet.
 
@@ -78,6 +78,10 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Mundstuecke_32723_v2-AASS-0112mm.jpg
             :width: 100%
 
@@ -88,7 +92,7 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.45
+    :width: 0.48
     :label: Figure-Bilderserie-Beatmungsmasken
 
     Bilderserie: Beatmungsmasken
@@ -123,13 +127,13 @@ Technik der Beutel-Masken-Beatmung
 Bei der Beutel-Masken-Beatmung erfolgt die Beatmung mittels eines
 Beatmungsbeutels und einer Beatmungsmaske in geeigneter Größe, welche
 dicht sitzend angelegt wird. Der Kopf des Patienten wird
-*überstreckt*\  [137]_ und die Maske wird mittels
+*überstreckt*\  [#137]_ und die Maske wird mittels
 :dfn:`C-Griff` angelegt: Der Daumen und der Zeigefinger umschließen die
 Beatmungsmaske und bilden dabei die Form des Buchstaben "C", die
 restlichen drei Finger heben das Kinn am Unterkiefer an.
 
 
-.. [137]
+.. [#137]
    Überstrecken des Kopfes bei der Beatmung: Wenn der Atemweg durch
    andere Maßnahmen (Guedel-Tubus, Wendel-Tubus, etc.; ärztliche
    Maßnahme!) freigehalten wird, entfällt das Überstrecken des Kopfes.)
@@ -148,11 +152,18 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
 
             C-Griff
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
             :width: 100%
 
             und überstreckter Kopf
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.*
             :width: 100%
@@ -163,10 +174,12 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
             wird Luft auch in den Magen gepumpt.
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-Technik-Beutelmaskenbeatmung
 
-    Bilderserie: Die Technik der Beutel-Masken-Beatmung  Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+    Bilderserie: Die Technik der Beutel-Masken-Beatmung
+
+    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
 
 
 

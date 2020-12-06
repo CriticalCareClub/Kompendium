@@ -1,3 +1,4 @@
+.. index:: Traumatologie
 
 ###################################
 Traumatologie (#73)
@@ -7,11 +8,9 @@ Traumatologie (#73)
 
 Als :dfn:`Trauma` :index:`\ <! Trauma>` bezeichnet man eine
 
-#. Schädigung,
-
-#. Verletzung, oder
-
-#. Wunde,
+#.  Schädigung,
+#.  Verletzung, oder
+#.  Wunde,
 
 die durch eine Gewalteinwirkung physikalischer (mechanischer,
 thermischer) oder chemischer Art verursacht wurde.
@@ -302,7 +301,7 @@ angegeben:
 
 
 
-.. todo:: Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  *Hauer*
+.. todo:: Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
 
 Sturz aus großer Höhe
 =====================
@@ -341,7 +340,7 @@ Stich- und Schussverletzungen
 =============================
 
 Stich- bzw. Pfählungsverletzungen und Schussverletzungen werden zu
-*penetrierende Verletzungen* zusammen gefasst. [296]_
+*penetrierende Verletzungen* zusammen gefasst. [#296]_
 
 Besonderheiten von Stichverletzungen sind, dass sie meistens
 unspektakulär aussehen. Sie sind oft klein und nur schwach blutend.
@@ -394,19 +393,28 @@ Folgeverletzungen zu verhindern.
 
     Fixierung eines penetrierenden Fremdkörpers.
 
-    [Hauer]
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/fremdkoerper-stich-messer-01.*
     :width: 100%
 
     Stich mit einem Küchenmesser. Das Messer verbleibt im Körper … 
+
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/fremdkoerper-stich-messer-02.*
     :width: 100%
 
     … bis in den Operationssaal.
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieFremdkoerper
 
     Bilderserie: Fremdkörper
@@ -468,9 +476,9 @@ ist eine Kontinuitätsunterbrechung
 eines Knochens mit Bildung von Fragmenten (Bruchstücken) (Pschyrembel
 2002).** Grundsätzlich wird zwischen zwei Arten von Knochenbrüchen
 unterschieden: Beim *geschlossenen Knochenbruch* ist die Haut über der
-Bruchstelle noch intakt, während beim *offenen Knochenbruch*\  [297]_
+Bruchstelle noch intakt, während beim *offenen Knochenbruch*\  [#297]_
 aufgrund der Gewalteinwirkung von außen die Haut über der Bruchstelle
-verletzt ist. Der Knochen muss dabei nicht herausragen. [298]_
+verletzt ist. Der Knochen muss dabei nicht herausragen. [#298]_
 
 -  Geschlossener Knochenbruch
 
@@ -501,7 +509,7 @@ werden.
 
     -  Fehlstellung (abnorme Stellung, Verkürzung, Treppenbildung)
 
-    -  Knochenreiben (Krepitus) [299]_
+    -  Knochenreiben (Krepitus) [#299]_
 
     -  Sichtbare freie Knochenteile (= offener Bruch)
 
@@ -575,10 +583,13 @@ Gefahren
 Auch bei einer harmlos anmutenden Fraktur muss ein gründlicher
 Traumacheck durchgeführt werden, damit keine Begleitverletzungen
 übersehen werden. Dafür ist es unbedingt notwendig, dass der Patient
-entkleidet wird. [300]_ Beim Entfernen der Schuhe ist darauf zu achten,
+entkleidet wird. [#300]_ Beim Entfernen der Schuhe ist darauf zu achten,
 dass eine Person das Bein fixiert während eine andere Person den Schuh
 öffnet und schließlich mittels Stiefelgriff (siehe
 :ref:`Thema-vacuumbeinschiene-anwendung`) vorsichtig vom Fuß abzieht.
+
+
+.. subfigstart::
 
 .. figure:: /Bilder/HauerDavid-Ccc/fraktur_fehlstellung_nativ.*
     :width: 100%
@@ -586,10 +597,22 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
     Fehlstellung einer Unterschenkelfraktur nach einem
     Verkehrsunfall (PKW gegen Fußgänger) in natura …
 
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/HauerDavid-Ccc/fraktur_fehlstellung_xray.*
     :width: 100%
 
     … und in Röntgendarstellung
+
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/WikipediaCcBy/fraktur-offen-finger.*
     :width: 100%
@@ -597,7 +620,16 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
     Nicht immer sind offene Frakturen spektakulär:
     Offene Fraktur des Mittelfingers
 
-    [Ben Stephenson, Cleveland, OH, USA. Lizenz: CC-BY 2.0]
+    Ⓒ Ben Stephenson, Cleveland, OH, USA Ⓛ CC-BY 2.0]
+
+.. subfigend::
+    :width: 0.32
+    :label: Figure-Bilderserie-OffeneFrakturen
+
+     Bilderserie: Offene Frakturen
+
+
+
 
 
 
@@ -611,8 +643,8 @@ Maßnahmen: Fraktur
 .. todo:: Maßnahme TT14200C: Anpassung an höherqualifiziertes Personal
 
 
-Taktik \Ca{Zeitkritisch. Evtl. vitale
-Bedrohung v. a. durch Blutverlust.}
+:Taktik: Zeitkritisch. Evtl. vitale Bedrohung v. a. durch Blutverlust.
+
 Erkennen
 von großen Blutverlusten, Blutstillung,  Steriles
 Abdecken, Einschätzen der vitalen Bedrohung, ggfs
@@ -696,8 +728,10 @@ Verstauchung, Bänderzerrung und Bänderriss
 Beschreibung
 ------------
 
-**Eine :dfn:`Verstauchung` :index:`\ <! Verstauchung>` (*Syn.* :dfn:`Distorsion` :index:`\ <! Distorsion>`, *lat.* *Distorsio* (*Dist.*)) ist eine Zerrung bzw.
-Überdehnung des Kapsel-/ Bandapparates eines Gelenks.** Bei der
+Eine :dfn:`Verstauchung` :index:`\ <! Verstauchung>` (*Syn.* :dfn:`Distorsion` :index:`\ <! Distorsion>`, *lat.* *Distorsio* (*Dist.*)) ist eine Zerrung bzw.
+Überdehnung des Kapsel-/ Bandapparates eines Gelenks.
+
+Bei der
 Verstauchung (:dfn:`Distorsion` :index:`\ <! Distorsion>`) handelt es sich um eine
 Gelenksverletzung, bei welcher ein Knochen durch stumpfe
 Gewalteinwirkung kurz verschoben oder verdreht wird. Im Gegensatz zur
@@ -1010,7 +1044,7 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
    der Patient gegenwärtig im "*luziden Intervall*" befindet und sich
    sein Zustand erst in einigen Stunden, dann aber schlagartig
    verschlechtert. Im Zweifelsfall wird der Patient dort zur Beobachtung
-   (24h lang) aufgenommen.
+   (24 h lang) aufgenommen.
 
 
 
@@ -1231,7 +1265,7 @@ Typische Unfallmechanismen
 
 -  Hochgeschwindigkeitsunfall
 
--  Sturz :math:`\geq` 3fache Patientengröße
+-  Sturz ≥ 3-fache Patientengröße
    ``!!! A !!!3fache Patientengröße (ITLS) oder 3m?``
 
 -  Penetrierende Verletzungen im Bereich der Wirbelsäule
@@ -1250,8 +1284,7 @@ nach [Campbell:2010:De]_, vgl. !!! FULLPRETTYREFPROCEDURE !!! YY14200B
 
 -  Hochgeschwindigkeitsunfall
 
--  Sturz :math:`\geq` 3fache Patientengröße
-   ``!!! A !!!3fache Patientengröße (ITLS) oder 3m?``
+-  Sturz ≥ 3-fache Patientengröße
 
 -  Penetrierende Verletzungen im Bereich der Wirbelsäule
 
@@ -1450,7 +1483,7 @@ beeinträchtigt, da sich die Lunge nicht mehr an den Rippen aufspannen
 kann. Es kommt folglich zu einer *paradoxen Atmung*, bei der sich der
 Brustkorb beim Einatmen senkt. Verletzt eine der gebrochenen Rippen die
 Pleura, oder reisst diese aufgrund der Gewalteinwirkung ein, ensteht ein
-*Pneumothorax* oder ein Spannungspneumothorax [301]_.
+*Pneumothorax* oder ein Spannungspneumothorax [#301]_.
 
 Der Patient leidet unter *Atemnot* und evtl. atemabhängigen Schmerzen.
 Evtl. kommt es zum Bluthusten. Bei der Inspektion des Brustkorbes können
@@ -1521,13 +1554,19 @@ Todesangst.
 -  Spontanpneumothorax
 
 
+.. subfigstart::
+
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_xray_halb.*
     :width: 100%
 
     Pneumothorax. Beachte die Randlinie zwischen Lunge (unten,
     innen) und dem luftgefüllten Pleuraspalt (oben, außen)
 
-    *Hauer*
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_xray_endstadium.*
     :width: 100%
@@ -1535,7 +1574,7 @@ Todesangst.
     Im Vergleich: Kompletter Pneumothorax der rechten
     Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert.
 
-    *Hauer*
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.*
     :width: 100%
@@ -1544,7 +1583,19 @@ Todesangst.
     einen Pneumothorax verursacht. **Dieser Patient ist lebensgefährlich
     verletzt!**
 
-    *Hauer*
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. subfigend::
+    :width: 0.32
+    :label: Figure-Bilderserie-
+
+     Bilderserie:
+
+
 
 
 
@@ -1656,9 +1707,6 @@ Gefahren
 Sternumfraktur
 --------------
 
-Beschreibung
-------------
-
 Eine Fraktur des Brustbeins (Sternum) tritt vor allem bei nicht
 angeschnallten Fahrzeuglenkern auf, wenn der Brustkorb gegen das Lenkrad
 prallt. Meistens treten starke Schmerzen auf, gelegentlich lassen sich
@@ -1686,9 +1734,6 @@ Herzens.
 
 Verletzung des Herzens und der großen Gefäße
 ============================================
-
-Beschreibung
-------------
 
 Verletzungen des Herzens und der großen Gefäße treten am
 wahrscheinlichsten bei Stürzen aus großer Höhe und Verkehrsunfällen mit
@@ -1718,10 +1763,6 @@ oder Stichverletzungen. Folgende Verletzungen sind typisch:
 ***********************
 Bauch- und Beckentrauma
 ***********************
-
-
-Beschreibung
-============
 
 Ein Bauchtrauma oder Abdominaltrauma ist eine Verletzung des Abdomens.
 In einigen Büchern ist das Bauchtrauma als Untergruppe des akuten
@@ -1758,8 +1799,13 @@ verbunden sein.
 Offenes Bauchtrauma
 ===================
 
-Beschreibung
-------------
+.. figure:: /Bilder/HauerDavid-Ccc/bauchtrauma-offenes-01.*
+    :width: 50%
+    :align: right
+
+    Offenes Bauchtrauma mit Austritt von Darmschlingen
+
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
 
 Offene Bauchtraumata sind seltener als geschlossene Bauchtraumata. Beim
 offenen Bauchtrauma kann es zum Austritt von Darmschlingen kommen. Die
@@ -1774,11 +1820,7 @@ Begleitverletzungen im Brustkorb auf (Strauss and Fülöp, n.d.).
 
 -  innere Blutungen
 
-.. figure:: /Bilder/HauerDavid-Ccc/bauchtrauma-offenes-01.*
 
-    Offenes Bauchtrauma mit Austritt von Darmschlingen
-
-    [David Hauer, MfG]
 
 
 
@@ -1812,8 +1854,6 @@ Basismaßnahmen
 Geschlossenes Bauchtrauma
 =========================
 
-Beschreibung
-------------
 
 Geschlossene Bauchtraumata sind aufgrund der inneren Blutungen besonders
 gefährlich. So kann es z. B. bei einer Milzruptur zu einem Blutverlust
@@ -1900,7 +1940,7 @@ unterscheidet man:
    begründete Verdacht auf eine Milzverletzung besteht, einer
    weiterführenden Untersuchung und Überwachung im Spital zuzuführen und
    bis dahin jede weitere Bewegung zu vermeiden
-   (*Bewegungsverbot*)!*\  [302]_
+   (*Bewegungsverbot*)!*\  [#302]_
 
 -  Schmerzen im linken Oberbauch
 
@@ -2252,21 +2292,35 @@ hier der Vollständigkeit halber erwähnt sind:
 Verbrennung und Verbrühung
 **************************
 
-Beschreibung
-============
+.. admonition:: Definition
 
-**Eine Verbrennung (*Lat.* *Combustio*, *Abkz.* *Comb.*) ist eine durch
-Hitzeeinwirkung entstandene Schädigung des Gewebes, besonders häufig der
-Haut. Sie ist eine thermische Wunde.** **Eine :dfn:`Verbrühung` :index:`\ <! Verbrühung>` (*Lat.* *Ambustio* (*Amb.*), *engl.* scald) ist eine
-thermische Schädigung durch heiße Flüssigkeit oder Dampf (Pschyrembel
-2002).**\  [303]_ Verbrennungen reichen von kleinen Brandblasen bis
+    Eine Verbrennung
+    :index:`\ <! Verbrühung>`
+    :index:`\ <! Combustio>`
+    :index:`\ <! Comb.>`
+    (*Lat.* *Combustio*, *Abkz.* *Comb.*)
+    ist eine durch
+    Hitzeeinwirkung entstandene Schädigung des Gewebes,
+    besonders häufig der Haut.
+    Sie ist eine thermische Wunde.
+
+    Eine :dfn:`Verbrühung`
+    :index:`\ <! Verbrühung>`
+    :index:`\ <! Ambustio>`
+    :index:`\ <! Amb.>`
+    :index:`\ <! scald>`
+    (*Lat.* *Ambustio* (*Amb.*), *engl.* scald)
+    ist eine thermische Schädigung durch heiße Flüssigkeit
+    oder Dampf\ [#303]_ [Pschyrembel:259]_.
+
+Verbrennungen reichen von kleinen Brandblasen bis
 schweren Schädigungen der Haut und der darunter liegenden Gewebe (z. B.
 großflächige Verkohlung). Um die Schwere der Verletzung rasch
 einschätzen zu können müssen die Ausdehnung und der Schweregrad der
 Verbrennung beurteilt werden. Dazu stehen die *Neunerregel* sowie die
 Einteilung nach (Schwere-)Graden zur Verfügung. Schwere Verbrennungen
 können – wie alle Wunden – Auswirkungen auf den gesamten Organismus
-haben. [304]_
+haben. [#304]_
 
 Abhängig von den Umständen muss auch an ein *Inhalationstrauma*
 (:ref:`Thema-inhalationstrauma`) oder andere Begleitverletzungen gedacht
@@ -2303,7 +2357,7 @@ entwickelt sich allerdings erst allmählich.
 Bei *ringförmige Verbrennungen*, die um den Brustkorb herumlaufen, kann
 sich das Gewebe zusammenziehen und die Dehnbarkeit des Brustkorbes
 abnehmen; dadurch wird die Atmung stark behindert. *Unterkühlung*
-bedeutet erhöhte *Sterblichkeit*. [305]_
+bedeutet erhöhte *Sterblichkeit*. [#305]_
 
 -  Haut verliert Schutzfunktion
 
@@ -2333,7 +2387,7 @@ der Vebrennung abschätzen zu können.
 
 +-----------------+-------------------+-------------------------------+----------------+
 +-----------------+-------------------+-------------------------------+----------------+
-| (lr)2-4         | **Erwachsener**   | **Kind** :math:`\leq` 5. Lj   | **Säugling**   |
+| (lr)2-4         | **Erwachsener**   | **Kind** ≤            5. Lj   | **Säugling**   |
 +-----------------+-------------------+-------------------------------+----------------+
 | Kopf:           | 9                 | 15                            | 20             |
 +-----------------+-------------------+-------------------------------+----------------+
@@ -2375,41 +2429,63 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 -  3: Schorfbildung, Verbrennungspanzer
 
 
+.. subfigstart::
+
 .. figure:: /Bilder/WikipediaPd/Verbrennung1-00441pt.*
     :width: 100%
 
     Verbrennung 1°
 
-    [Trent Easton; de.wikipedia / PD]
+    Ⓒ Trent Easton; de.wikipedia  Ⓛ  PD
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/VerbrennungGrad2a-00441pt.*
     :width: 100%
 
     Verbrennung 2°
 
-    [Yunaerith; WMC / CC-BY-SA 3.0 unported]
+    Ⓒ Yunaerith; WMC  Ⓛ CC-BY-SA 3.0 unported
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/Verbrennung_3gradig01.*
     :width: 100%
 
     Verbrennung 3°
 
-    [Sushma Koirala Memorial Hospital, Dr. Andreas Settje;
-    WMC / CC-BY-SA 3.0 unported]
+    Ⓒ Sushma Koirala Memorial Hospital, Dr. Andreas Settje; WMC
+    Ⓛ CC-BY-SA 3.0 unported
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-01.*
     :width: 100%
 
     Großflächige Verbrennung
 
-    [David Hauer, MfG]
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-02-hand.*
     :width: 100%
 
     Ablederung
 
-    [David Hauer, MfG]
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-03-escharotomie.*
     :width: 100%
@@ -2420,7 +2496,20 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
     Entlastungsschnitte (*Escharatomie*) ermöglichen dem Brustkorb
     wieder sich auszudehnen und dem Patienten damit zu atmen.
 
-    [David Hauer]
+    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+
+.. subfigend::
+    :width: 0.32
+    :label: Figure-Bilderserie-
+
+     Bilderserie:
+
+
+
+
+
+
+
 
 
 Einschätzung
@@ -2432,18 +2521,18 @@ Verbrennung, maßgebliche Faktoren sind die *Ausbreitung* und der
 (Erwachsene; Kinder >10%, Säuglinge >5%) gilt eine Verbrennung als
 *großflächig*. Aufgrund des *Flüssigkeitsverlustes* durch die
 Verbrennungskrankheit und Verdunstung besteht bereits ab *10%* (oder *5%
-bei Kindern*) *:math:`\geq`\ 2* verbrannter Körperoberfläche
+bei Kindern*) *≥ 2°* verbrannter Körperoberfläche
 *Schockgefahr* (hypovolämischer Schock), diese Verbrennungen gelten
 daher als *schwer*! Der Schock entwickelt sich allerdings erst
 allmählich.
 
--  Ab *10% :math:`\geq`\ 2* → schwer
+-  Ab 10% ≥ 2° → schwer
 
 -  *Kinder*: *5%*
 
 Für
 
-    -  Ab *10% :math:`\geq`\ 2* verbrannter Körperoberfläche gilt eine
+    -  Ab *10% ≥ 2°* verbrannter Körperoberfläche gilt eine
        Verbrennung als "schwer", für *Kinder* gilt eine Grenze von *5%.*
 
 
@@ -2614,8 +2703,14 @@ Verletzungen durch chemische Stoffe – "Chemische Verbrennungen"
 Vergiftungen durch Einnahme von Säuren und Laugen werden unter
 :ref:`Thema-veraetzung-intoxikation`, besprochen.
 
-Beschreibung
-------------
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/notbrause2.*
+    :width: 50%
+    :align: right
+
+    Notbrause
+
+    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
 
 Schädigungen der Haut durch Säuren, Laugen oder andere schädliche Stoffe
 weisen – trotz der unterschiedlichen Entstehung – Gemeinsamkeiten mit
@@ -2643,12 +2738,6 @@ auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
 -  Gefahr für den Helfer
 
 -  Selbstschutz, Dekontamination!!!
-
-.. figure:: /Bilder/GabrielSebastian-Ccc/notbrause2.*
-
-    Notbrause
-
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
 
 
@@ -2698,13 +2787,13 @@ Basismaßnahmen
 Erfrierungen
 ************
 
-Beschreibung
-============
 
-**Eine :dfn:`Erfrierung` :index:`\ <! Erfrierung>` ( *Lat.* *Congelatio*
+Eine :dfn:`Erfrierung` :index:`\ <! Erfrierung>` ( *Lat.* *Congelatio*
 (*Congelat.*)) ist eine Gewebsnekrose, die durch lokale
 Durchblutungsstörungen aufgrund von Kälteeinwirkung (Eis, Wind, Nässe,
-Kälte) entstanden ist.** Besonders gefährdet sind körperferne
+Kälte) entstanden ist.
+
+Besonders gefährdet sind körperferne
 Körperteile wie Zehen, Finger, Ohren oder Nase. Die Einteilung erfolgt
 in drei *Stadien* (siehe [Table-Erfrierungen]), diese haben am Notfallort
 keine entscheidende Bedeutung für die zu setzenden Maßnahmen. Den
@@ -2743,8 +2832,6 @@ Basismaßnahmen
 Unfälle durch Strom- und Blitzschlag
 ************************************
 
-Beschreibung
-============
 
 Stromunfälle sind zwar selten, stellen jedoch für die Helfer eine große
 Herausforderung dar. Der Grund hierfür ist, dass bereits im
@@ -2784,8 +2871,8 @@ Bedrohung ist bei Elektrounfällen sehr schwierig. Dies hat mehrere
 Gründe:
 
 #. Die Wirkung des Stromes im menschlichen Körper hängt von mehreren
-   Faktoren ab: Höhe der elektrischen Spannung [306]_, Stärke des
-   elektrischen Stromes [307]_, der Stromart (Gleich- oder
+   Faktoren ab: Höhe der elektrischen Spannung [#306]_, Stärke des
+   elektrischen Stromes [#307]_, der Stromart (Gleich- oder
    Wechselstrom), dem Weg des Stromes durch den Körper, dem
    Kontaktwiderstand (feuchte Hände, Wasserlacke, …) und der
    Einwirkzeit. Meistens sind die Zahlenwerte dieser Faktoren im
@@ -2948,13 +3035,13 @@ Flake and Runggaldier 2008; Scholz et al. 2008)
 
 
 
-.. [296]
+.. [#296]
     lat. penetrare: eindringen, durchdringen.
 
-.. [297]
+.. [#297]
    Offener Bruch: *Fractura aperta* (*Fract* :index:`\ <Fract.!apert.>`. apert.)
 
-.. [298]
+.. [#298]
    Die Literatur ist bei der Definition offener Knochenbrüche nicht
    einheitlich. In manchen Büchern, z. B. in (Gorgass et al. 2007), wird
    ein offener Knochenbruch durch eine direkte Verbindung zwischen Wunde
@@ -2965,40 +3052,40 @@ Flake and Runggaldier 2008; Scholz et al. 2008)
    Das Achten auf Keimfreiheit ist in jedem der beschriebenen Fälle
    unbedingt notwenidg!
 
-.. [299]
+.. [#299]
    absichtlich ausprobieren!
 
-.. [300]
+.. [#300]
    Nachdem der Patient für die Untersuchung entkleidet wurde, muss er
    nach der Untersuchung zugedeckt werden (Wärmeerhaltung)!
 
-.. [301]
+.. [#301]
    Pneumothorax evtl. mit Hautemphysem (Luftansammlung in der Haut,
    typisches Knistern)
 
-.. [302]
+.. [#302]
    Mittels Ultraschall oder Computertomographie (CT) kann eine
    Milzblutung nachgewiesen werden.
 
-.. [303]
+.. [#303]
    Verbrennung / ASBÖ-Lehrmeinung: Dieser Abschnitt ist kompatibel mit
    der ASBÖ-Lehrmeinung, publiziert unter *(ASBÖ Akademie 2010)* (ASBÖ
    Akademie 2010).
 
-.. [304]
+.. [#304]
    Verbrennung / Unterscheidung leichte und schwere Verbrennung: Um die
    Unterscheidung zwischen leichter und schwerer Vebrennung für den
    Leser einfacher zu gestalten, wurden diese Unterscheidung hier
    eingeführt und die Begriffe im Konsens und nach Maßgabe der
    einschlägigen Literatur entsprechend definiert.
 
-.. [305]
+.. [#305]
    (Lönnecker and Schoder 2001) spricht bei Verbrennungspatienten von
    einer über 40%ig erhöhten Chance zu versterben wenn die
    Körpertemperatur um 1 Grad abnimmt. Eine Unterkühlung tritt vor allem
    bei narkotisierten Patienten leicht ein.
 
-.. [306]
+.. [#306]
    Die elektrische Spannung wird in Volt (V) gemessen. Typische Werte
    sind 12V bei einer Autobatterie, 230V an einer Haushaltssteckdose,
    15000V bei Eisenbahn-Oberleitungen und bis zu 380000V bei
@@ -3007,5 +3094,5 @@ Flake and Runggaldier 2008; Scholz et al. 2008)
    hängt jedoch auch vom elektrischen Widerstand des durchströmten
    Materials ab.
 
-.. [307]
+.. [#307]
    Die Stärke des elektrischen Stromes wird in Ampere (A) gemessen.

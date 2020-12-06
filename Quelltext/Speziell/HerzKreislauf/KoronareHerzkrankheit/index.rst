@@ -58,6 +58,9 @@ spricht man von einer 1-, 2- oder 3-Gefäßerkrankung
 
     [Lena Hirtler, MfG]
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.*
     :width: 100%
@@ -73,6 +76,9 @@ spricht man von einer 1-, 2- oder 3-Gefäßerkrankung
 
     [WmCo "Bionerd", CC-BY-3.0]
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
     :width: 100%
@@ -82,7 +88,7 @@ spricht man von einer 1-, 2- oder 3-Gefäßerkrankung
     [Patrick J. Lynch, CC-BY-2.5]
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieKoronargefaesse
 
     Bilderserie: Koronargefäße
@@ -255,6 +261,10 @@ Schäden am Herzmuskel bestehen.
 
         [Patrick Lynch, CC-BY]
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_infarct-00640.*
         :width: 100%
 
@@ -262,7 +272,9 @@ Schäden am Herzmuskel bestehen.
 
         [Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5]
 
+.. raw:: latex
 
+    \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.*
         :width: 100%
@@ -275,7 +287,7 @@ Schäden am Herzmuskel bestehen.
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieHerzischaemie
 
     Bilderserie: Herzischämie

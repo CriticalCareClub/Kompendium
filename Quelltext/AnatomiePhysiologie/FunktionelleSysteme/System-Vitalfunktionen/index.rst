@@ -321,7 +321,6 @@ sagen:
 
     Ⓒ WMC/pidalka44 Ⓛ ???
 
-
 .. raw:: latex
 
     \hfill
@@ -333,9 +332,8 @@ sagen:
 
     Ⓒ WMC (Sander van der Molen) Ⓛ Public domain
 
-
 .. subfigend::
-    :width: 0.45
+    :width: 0.48
     :label: Figure-Osmose
 
     Osmose und Diffusion

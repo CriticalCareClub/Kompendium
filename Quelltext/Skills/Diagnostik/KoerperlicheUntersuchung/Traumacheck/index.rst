@@ -61,7 +61,7 @@ Traumacheck durchgeführt.
 
       #. Schnelligkeit der Reaktion: prompt, verzögert?
 
-      #. Reagieren immer beide Pupillen? [126]_
+      #. Reagieren immer beide Pupillen? [#126]_
 
 -  *Inspektion und Abtasten*: mit festem Griff von Kopf bis Fuß.
    *Schmerzhafte Stellen zuletzt untersuchen.*
@@ -159,5 +159,5 @@ vollständiger* Traumacheck durchgeführt!
 
 
 
-.. [126]
+.. [#126]
     isokor

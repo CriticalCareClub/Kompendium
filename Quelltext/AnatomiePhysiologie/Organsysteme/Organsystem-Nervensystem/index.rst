@@ -456,7 +456,7 @@ vegetativen Nervensystems (:ref:`Thema-vegetatives-nervensystem`).
 
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-Pns
 
     Bilderserie: PNS

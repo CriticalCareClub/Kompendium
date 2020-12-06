@@ -46,7 +46,7 @@ Medizinprodukten. Als Medizinprodukte gelten alle Instrumente, Apparate,
 Vorrichtungen, Stoffe oder andere Gegenstände (inkl. Software), die vom
 Hersteller zur Anwendung am Menschen zwecks Erkennen, Überwachen und
 Behandlung von Krankheiten, Verletzungen oder Behinderungen bestimmt
-sind [102]_.
+sind [#102]_.
 
 Gegenstände und Stoffe, die dazu bestimmt sind, zusammen mit einem
 Medizinprodukt verwendet zu werden ("Zubehör"), gelten selber auch als
@@ -101,9 +101,9 @@ Verpflichtungen:
    zugänglich zu machen.
 
 -  *Meldepflicht*: Fachpersonal muss Informationen über Medizinprodukte
-   im Hinblick auf *Zwischenfälle*\  [103]_, schwerwiegende
+   im Hinblick auf *Zwischenfälle*\  [#103]_, schwerwiegende
    *Nebenwirkungen* oder schwerwiegende *Qualitätsmängel*, unverzüglich
-   dem Bundesamt für Sicherheit im Gesundheitswesen melden. [104]_
+   dem Bundesamt für Sicherheit im Gesundheitswesen melden. [#104]_
 
 -  Sachgerechte Anwendung
 
@@ -208,7 +208,7 @@ Abschnitten:
 
 
 
-.. [102]
+.. [#102]
    Genauer: Zwecks
 
    #. Erkennung, Verhütung, Überwachung, Behandlung oder Linderung von
@@ -224,11 +224,11 @@ Abschnitten:
 
    wobei … Medikamente fallen nicht darunter.
 
-.. [103]
+.. [#103]
    Insbesonders jede Fehlfunktion, aber auch z. B. jeden Mangel in Bezug
    auf die Kennzeichnung oder die Gebrauchsanweisung, die zum Tod oder
    zu einer schwerwiegenden Schädigung eines Patienten, Anwenders oder
    eines Dritten führen können oder geführt haben
 
-.. [104]
+.. [#104]
    §70 MPG

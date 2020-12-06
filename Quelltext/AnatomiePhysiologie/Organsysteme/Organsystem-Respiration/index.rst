@@ -457,7 +457,7 @@ Gewebe und Pleura(spalt) wichtig:
     Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieAtemmechanik
 
     Bilderserie: Atemmechanik
@@ -538,7 +538,7 @@ Atemfrequenz, -tiefe und -volumen
     .. sidebar:: Atemfrequenz, -tiefe, -volumen
 
         AF
-            Atemfrequenz, *12--16 / min*
+            Atemfrequenz, *12—16 / min*
 
         AZV
             Atemzugsvolumen, *500 ml*
@@ -586,6 +586,7 @@ Atemminutenvolumen von 6—8 L / min.
 
 
 .. list-table:: Übersicht Normalwerte: Atemfrequenz und Atemzugsvolumen
+    :header-rows: 1
 
     *   -
         -   AF [/ min]

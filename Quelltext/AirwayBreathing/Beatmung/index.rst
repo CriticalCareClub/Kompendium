@@ -404,6 +404,10 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.*
             :width: 100%
 
@@ -422,6 +426,10 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 
             Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
 
+.. raw:: latex
+
+    \hfill
+
 .. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.*
             :width: 100%
 
@@ -434,7 +442,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 .. subfigend::
-    :width: 0.3
+    :width: 0.32
     :label: Figure-BilderserieBeatmungsgeraete
 
     Bilderserie: Beatmungsgeräte

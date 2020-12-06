@@ -7,7 +7,7 @@ Esmarch-Handgriff
 ..
    .. sidebar:: Esmarch-Handgriff
 
-   -  Finger 2--5 am Kieferwinkel
+   -  Finger 2—5 am Kieferwinkel
 
       → aufwärts, vorne
 

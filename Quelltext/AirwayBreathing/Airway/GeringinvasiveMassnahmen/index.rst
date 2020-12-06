@@ -8,27 +8,27 @@ Geringinvasive A-Maßnahmen
 .. subfigstart::
 
 .. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.*
-            :width: 100%
+    :width: 100%
 
-            Position des Guedel-Tubus im Querschnitt
+    Position des Guedel-Tubus im Querschnitt
 
 .. raw:: latex
 
     \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/LageLarynxTubus.*
-            :width: 100%
+    :width: 100%
 
-            Im Vergleich: Lage eines Larynx-Tubus
+    Im Vergleich: Lage eines Larynx-Tubus
 
 .. raw:: latex
 
     \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.*
-            :width: 100%
+    :width: 100%
 
-            und eines endotrachealen Tubus.
+    und eines endotrachealen Tubus.
 
 .. subfigend::
     :width: 0.32

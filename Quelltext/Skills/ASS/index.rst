@@ -368,6 +368,7 @@ Vorgehen
 
    #. Radklemme schließen
 
+
 .. subfigstart::
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Infusionsbesteck_33070-00943pt.*
@@ -387,16 +388,7 @@ Vorgehen
     Beispiele für Infusionsbeutel und
     -flaschen
 
-    *Christoph Pallinger*!!!
-
-.. subfigend::
-    :width: 0.48
-    :label: Figure-BilderserieInfusionsbesteck
-
-    Bilderserie: Infusionsbesteck
-
-
-.. subfigstart::
+    *Christoph Pallinger*
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Tropfkammer-Live-00441pt.*
     :width: 100%
@@ -438,10 +430,10 @@ Vorgehen
 
 
 .. subfigend::
-    :width: 0.48
+    :width: 0.32
     :label: Figure-BilderserieInfusionsset
 
-    Bilderserie: Infusionsset
+    Bilderserie: Infusion
 
 
 

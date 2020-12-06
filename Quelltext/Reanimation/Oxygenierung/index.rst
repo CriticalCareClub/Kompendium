@@ -276,7 +276,7 @@ Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
 .. subfigstart::
 
 .. figure:: /Bilder/HirtlerLena-Ccc/LageLarynxTubus.*
-            :width: 100%
+    :width: 100%
 
     Im Vergleich: Lage eines Larynx-Tubus
 
@@ -287,7 +287,7 @@ Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
     \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.*
-            :width: 100%
+    :width: 100%
 
     … und eines endotrachealen Tubus.
 
@@ -298,7 +298,7 @@ Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
     \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.*
-            :width: 100%
+    :width: 100%
 
     Position des Guedel-Tubus im Querschnitt
 

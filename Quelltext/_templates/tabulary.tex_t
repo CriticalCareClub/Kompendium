@@ -1,11 +1,11 @@
-\begin{savenotes}\sffamily\small\begin{ParWide}\sphinxattablestart
+\begin{savenotes}\FontTable\small\begin{ParWide}\sphinxattablestart
 <% if table.align -%>
   <%- if table.align == 'center' -%>
   \centering
   <%- elif table.align == 'left' -%>
   \raggedright
   <%- else -%>
-  \raggedleft
+  \centering
   <%- endif %>
 <%- else -%>
   \centering

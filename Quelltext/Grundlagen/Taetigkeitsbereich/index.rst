@@ -99,7 +99,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
     zum Beispiel bei dieser Überstellung eines Intensivpatienten: Wenn
     danach alle Beteiligten so fröhlich sind ist das ein gutes Zeichen.
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. raw:: latex
 
@@ -111,12 +111,11 @@ Venenzugang und Infusion, Beatmung und Intubation).
     Miteinander statt gegeneinander: Arzt und Sanitäter bilden eine
     Einheit.
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. raw:: latex
 
     \hfill
-
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-alle.jpg
     :width: 100%
@@ -124,7 +123,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
     Im Notfall ist die Organisationszugehörigkeit
     nebensächlich.
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
     :width: 0.3
@@ -282,9 +281,8 @@ Anforderungen – Beanspruchung – Belastung: Was erwartet die Welt von mir?
 Querverweise
 ^^^^^^^^^^^^
 
--  Gesprächsführung: [chp:KOM]
-
--  Belastungsreaktion, Burn-out: :ref:`Thema-ptss`, :ref:`Thema-burn-out`
+-   Gesprächsführung: [chp:KOM]
+-   Belastungsreaktion, Burn-out: :ref:`Thema-ptss`, :ref:`Thema-burn-out`
 
 Theoretische Anforderungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -398,31 +396,40 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Hilfeleistung
 
-    [Michael Motal / :term:`Lizenz: MfG`]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch2.*
     :width: 100%
 
     Autobrand mit giftigen Dämpfen
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00518-0154pt-0300dpi.*
     :width: 100%
 
     Gefahrenstoffunfall
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ —
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi.*
     :width: 100%
 
     Ungünstige Sichtverhältnisse, hier bei einer Übung im Wiener Kaisermühlentunnel
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
     :width: 0.3
@@ -442,23 +449,29 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Blutzuckermessung
 
-    [Michael Motal / :term:`Lizenz: MfG`]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.*
     :width: 100%
 
     Versorgung nach einem Verkehrsunfall
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0030mm.*
     :width: 100%
 
     Assistenz bei ärztlichen Maßnahmen
 
-    [Michael Motal / :term:`Lizenz: MfG`]
+    Ⓒ Michael Motal Ⓛ :term:`Lizenz: MfG`
 
 
 .. subfigend::
@@ -478,21 +491,29 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.).
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/bh_ith_00800.jpg
     :width: 100%
 
     Intensivtransporthubschrauber
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/DIF2010-000816-0154pt-0300dpi.*
     :width: 100%
 
     Ambulanzraum bei einem Sanitätsdienst
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 
 .. subfigend::
@@ -514,7 +535,11 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Organisation im Großschadensfall, hier ein Wagenhalteplatz bei
     einer Nachtübung
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00568-0154pt-0300dpi.*
     :width: 100%
@@ -522,9 +547,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Führungsrolle bei der Bewältigung eines
     Großschadensereignis: Der Leiter einer Sanitätshilfestelle (SanHiSt)
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
-
-
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
     :width: 0.45
@@ -543,7 +566,11 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Zusammenarbeit zwischen den Organisationen
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-bundesheer1.jpg
     :width: 100%
@@ -551,7 +578,11 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Integraler Bestandteil der zivilen und militärischen Landesverteidigung: Der
     Bundesheersanitäter
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
+
+.. raw:: latex
+
+    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1853_1.jpg
     :width: 100%
@@ -559,8 +590,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Die Zusammenarbeit mit der Exekutive – auch
     an sozialen Brennpunkten – ist Alltag
 
-    [Sebastian Gabriel / :term:`Lizenz: MfG`]
-
+    Ⓒ Sebastian Gabriel Ⓛ :term:`Lizenz: MfG`
 
 .. subfigend::
     :width: 0.3
@@ -601,11 +631,6 @@ Die ärztliche Ausbildung gründet sich auf einem abgeschlossenes
 Universitätsstudium, der weitere Ausbildungsweg ist jedoch international
 sehr unterschiedlich.
 
-Situation in Österreich
------------------------
-
-
-
 .. index::
     single: Arzt; approbierter
     single: Ärztegesetz
@@ -613,6 +638,8 @@ Situation in Österreich
     single: Facharzt
     single: Ärztekammer
 
+Situation in Österreich
+-----------------------
 
 Allgemeines
 ^^^^^^^^^^^
@@ -662,7 +689,7 @@ nun an einer anerkannten Ausbildungseinrichtungen unter Aufsicht
 ärztlich tätig werden. Dies kann entweder im Rahmen eines
 Ausbildungsverhältnisses zum Arzt für Allgemeinmedizin, welches
 mindestens drei Jahre dauert, erfolgen oder in Ausbildung zu einem
-Facharzt, diese Ausbildungszeit beträgt je nach Fach 5--6
+Facharzt, diese Ausbildungszeit beträgt je nach Fach 5—6
 Jahre. Die Ausbildung zum Facharzt kann grundsätzlich gleich nach dem
 Studium beginnen, bzw. auch erst nach der Absolvierung der Ausbildung
 zum Arzt für Allgemeinmedizin begonnen werden. Während der
@@ -670,7 +697,7 @@ Ausbildungszeit durchläuft der Auszubildende im Turnus-System diverse
 Fachabteilungen, welche in der jeweiligen Ausbildungsordnung vorgegeben
 sind (daher die Bezeichnung **Turnusarzt**). Die
 Turnus-Ausbildung zum Arzt für Allgemeinmedizin dauert 3 Jahre bzw. zum
-Facharzt je nach Fachgebiet 5--6 Jahre.
+Facharzt je nach Fachgebiet 5—6 Jahre.
 
 Ein Arzt für Allgemeinmedizin verfügt über ein so genanntes
 uneingeschränktes :dfn:`Jus practicandi` (Recht zu

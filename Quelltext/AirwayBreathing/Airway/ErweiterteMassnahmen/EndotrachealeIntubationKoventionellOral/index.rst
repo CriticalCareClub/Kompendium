@@ -65,12 +65,24 @@ Material
 
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Intubation_32939.*
+    :width: 100%
 
     Zubehör für die endotracheale IntubationAbsaugeinheit mit
-    Absaugkatheter, Magill-Zange, Silikonspray, Tubus, Führungsdraht,
-    Blockerspritze (10 ml), verschiedene Spatel, Laryngoskop,
-    Guedel-Tuben, Beißkeil, Beatmungsbeutel mit Bakterienfilter, Maske
-    und O₂-Line, Fixationsmaterial, Stethoskop
+    Absaugkatheter,
+    Magill-Zange,
+    Silikonspray,
+    Tubus,
+    Führungsdraht,
+    Blockerspritze (10 ml),
+    verschiedene Spatel,
+    Laryngoskop,
+    Guedel-Tuben, Beißkeil,
+    Beatmungsbeutel mit Bakterienfilter,
+    Maske
+    und O₂-Line,
+    Fixationsmaterial,
+    Stethoskop
+
     Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
 
 Vorbereitung

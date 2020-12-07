@@ -100,29 +100,30 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 Hygienische Wiederaufbereitung
 ------------------------------
 
+.. only:: not latex
+
+    .. sidebar:: Hygienische Wiederaufbereitung
+
+        -   Ein- und Mehrwegprodukte
+        -   Ggfs. Desinfektion gem. Hygieneplan
+
 Es gibt Beatmungsbeutel als Einweg- und Mehrwegprodukt. Einwegprodukte
 müssen nach Gebrauch entsorgt werden. Mehrwegprodukte können durch
 Desinfektion gemäß des jeweils gültigen Hygieneplans wiederaufbereitet
 werden. I. d. R. muss der Beatmungsbeutel dazu *komplett zerlegt* werden!
 Die Herstellerhinweise sind zu beachten.
 
-..
-    -   Ein- und Mehrwegprodukte
 
-    -   Ggfs. Desinfektion gem. Hygieneplan
 
 Technik der Beutel-Masken-Beatmung
 ----------------------------------
 
 .. sidebar:: Beutel-Masken-Beatmung
 
-    -  Kopf überstrecken
-
-    -  C-Griff
-
-    -  ca. *500 ml* über 1 s
-
-    -  Eigenfrequenz!
+    -   Kopf überstrecken
+    -   C-Griff
+    -   ca. **500 ml** über 1 s
+    -   Eigenfrequenz!
 
 Bei der Beutel-Masken-Beatmung erfolgt die Beatmung mittels eines
 Beatmungsbeutels und einer Beatmungsmaske in geeigneter Größe, welche

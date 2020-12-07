@@ -228,6 +228,15 @@ Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
 Gefahren
 ^^^^^^^^
 
+.. only:: not latex
+
+    .. sidebar:: Gefahren
+
+        -   Reizung des Vagus-Nerv
+        -   Gefährliche Kreislaufstörungen
+        -   Schleimhautverletzungen, Blutungen
+        -   Brechreiz
+
 In der Rachenhinterwand verläuft ein Nerv, welcher Einfluss auf den
 Kreislauf hat (Vagus-Nerv). Wenn dieser gereizt wird, kann es zu
 gefährlichen *Kreislaufstörungen* kommen. Der Vagus-Nerv ist Teil des
@@ -238,16 +247,7 @@ der Katheter zu tief eingeführt wird. Bei Verdacht auf ein
 Schädel-Hirn-Trauma (:ref:`Thema-sht`) darf aufgrund möglicher Verletzungen
 der Schädelbasis nicht über die Nase abgesaugt werden!
 
-..
-  .. sidebar:: Gefahren
 
-    -  Reizung des Vagus-Nerv
-
-    -  Gefährliche Kreislaufstörungen
-
-    -  Schleimhautverletzungen, Blutungen
-
-    -  Brechreiz
 
 
 .. danger::

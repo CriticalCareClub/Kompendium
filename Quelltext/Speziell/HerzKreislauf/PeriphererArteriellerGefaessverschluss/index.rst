@@ -117,7 +117,7 @@ Symptome
 ********
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 

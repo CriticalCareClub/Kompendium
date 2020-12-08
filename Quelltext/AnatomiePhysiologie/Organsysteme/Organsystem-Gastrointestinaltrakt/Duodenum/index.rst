@@ -24,7 +24,7 @@
 Duodenum
 ---------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Duodenum
 

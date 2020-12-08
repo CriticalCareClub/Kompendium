@@ -9,7 +9,7 @@ Der strukturelle Aufbau des Organismus: Zelle, Gewebe, Organe, Organsysteme
 Die Zelle
 ---------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Zelle
 
@@ -60,7 +60,7 @@ Von der Zelle zum Organismus
 ----------------------------
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gewebe, Organe, Organismus
 

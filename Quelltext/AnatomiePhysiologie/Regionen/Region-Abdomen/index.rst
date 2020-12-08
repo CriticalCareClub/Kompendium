@@ -10,7 +10,7 @@ Sonstige Organe und Strukturen im Bauchraum
 Das Bauchfell
 =============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Bauchfell (Peritoneum)
 
@@ -56,7 +56,7 @@ durchführen können.
 Die Milz
 ========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Milz
 
@@ -88,7 +88,7 @@ Die Nieren filtern das Blut und produzieren den Harn
 ====================================================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Niere
 
@@ -124,7 +124,7 @@ sind stark durchblutet.
 Aufgaben
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Niere, Aufgaben
 
@@ -150,7 +150,7 @@ Blutdruckregulierung (Renin) und für die Blutbildung (*Erythropoetin*).
 Aufbau der Nieren
 -----------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Aufbau
 
@@ -188,7 +188,7 @@ Harnleiter in die Harnblasen abgeleitet werden. [Loeffler:7]_
 Das harnableitende System: Der Harntrakt
 ========================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Harntrakt
 
@@ -223,7 +223,7 @@ Durch die kürzeren Harnwege bei der Frau kann es leichter zu
 Die Nebennieren
 ===============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Die Nebennieren
 
@@ -252,7 +252,7 @@ Weitere Strukturen im Bauchraum
 -------------------------------
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Weitere Strukturen
 

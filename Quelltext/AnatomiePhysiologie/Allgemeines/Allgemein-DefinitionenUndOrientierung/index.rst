@@ -4,7 +4,7 @@ Definitionen und Orientierung
 
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Anatomie, Physiologie, Pathologie
 
@@ -45,7 +45,7 @@ deren Störung längere Zeit toleriert bzw. kompensiert werden kann.
 Gliederung des Körpers
 ######################
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gliederung
 

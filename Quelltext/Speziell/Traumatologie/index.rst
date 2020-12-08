@@ -29,7 +29,7 @@ Einsatztaktische Überlegungen bei verunfallten Patienten
 Unfallort
 =========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Unfallort
 
@@ -56,7 +56,7 @@ wichtigsten Aufgaben sind:
 Unfallmechanismus
 =================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Unfallmechanismus
 
@@ -82,7 +82,7 @@ Versorgung des Patienten Prioritäten besser setzen zu können.
 Besondere Unfallmechanismen
 ---------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Besondere Unfallmechanismen
 
@@ -109,7 +109,7 @@ vorgestellt.
 Verkehrsunfälle
 ---------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Verkehrsunfälle
 
@@ -142,7 +142,7 @@ es Airbags gibt, die beim Aufprall ordnungsgemäß ausgelöst wurden.
 Unfälle mit Fahrzeugen
 ----------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Unfälle mit Fahrzeugen
 
@@ -204,7 +204,7 @@ Weiters kann es zu Stößen durch im Fahrzeug herumfliegende Teile kommen.
 Frontal- und Heckzusammenstöße
 ------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Frontal- und Heckzusammenstöße
 
@@ -258,7 +258,7 @@ Es gilt in beiden Fällen besonders zu beachten:
 Seitenaufprall
 --------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Seitenaufprall
 
@@ -334,7 +334,7 @@ Szeneüberblick an folgende Fragestellungen zu denken:
 Stich- und Schussverletzungen
 =============================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Stichverletzungen, Fremdkörper
 
@@ -467,7 +467,7 @@ Verletzungen der Knochen: Frakturen
 Allgemeines
 ===========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Frakturen
 
@@ -505,7 +505,7 @@ verletzt ist. Der Knochen muss dabei nicht herausragen. [#298]_
 Symptome : Frakturzeichen
 -------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Frakturzeichen
 
@@ -539,7 +539,7 @@ werden.
 Gefahren
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gefahren
 
@@ -692,7 +692,7 @@ Bei *stabilen Patienten*: Schienung}
 Spezielle Knochenbrüche
 =======================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Spezielle Knochenbrüche
 
@@ -758,7 +758,7 @@ Gewalteinwirkung reißen.
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -822,7 +822,7 @@ Schultergelenk [Gorgass:7]_.
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -863,7 +863,7 @@ Basismaßnahmen
 Schädel-Hirn-Trauma (SHT)
 *************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Schädel-Hirn-Trauma (SHT)
 
@@ -891,7 +891,7 @@ es zu Bewusstseinsstörungen.
 Begleitende Verletzungen
 ========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SHT: Begleitende Verletzungen
 
@@ -920,7 +920,7 @@ Untersuchung* ist daher bei jedem SHT Pflicht!
 Gefahren
 ========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SHT: Gefahren
 
@@ -987,7 +987,7 @@ Hirnstammeinklemmung enden kann.
 Spezielle Diagnostik beim SHT
 =============================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SHT: Spezielle Diagnostik
 
@@ -1137,7 +1137,7 @@ Grade des geschlossenen SHT
 -   Gehirnprellung … SHT 2°
 -   Gehirnquetschung … SHT 3°
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SHT: Grade
 
@@ -1259,7 +1259,7 @@ ohne Rückenmarkschädigung führt [Gorgass:7]_.
 Typische Unfallmechanismen
 ==========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Typische Unfallmechanismen
 
@@ -1303,7 +1303,7 @@ Gefahren
 Schleudertrauma, Peitschenschlagsyndrom
 =======================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Schleudertrauma, Peitschenschlagsyndrom
 
@@ -1320,7 +1320,7 @@ Ausfälle (in schweren Fällen) bemerkbar macht.
 Querschnittssyndrom
 ===================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Querschnittssyndrom
 
@@ -1346,7 +1346,7 @@ unbedingt notwendig. Es können folgende Symtome auftreten:
 Spinaler Schock
 ===============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Spinaler Schock
 
@@ -1456,7 +1456,7 @@ Fast jeder zweite Verkehrstote hat ein Thoraxtrauma. (Gorgass et al.
 Symptome des Thoraxtraumas
 ==========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -1495,7 +1495,7 @@ hinter den den Rippen und können ebenfalls verletzt sein.
 Beim Pneumothorax befindet sich Luft im Pleuraspalts
 ====================================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Pneumothorax
 
@@ -1623,7 +1623,7 @@ Basismaßnahmen
 Rippenfraktur, Serienrippenfraktur und instabiler Thorax
 ========================================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Rippenfrakturen
 
@@ -1664,7 +1664,7 @@ kommen.
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -1691,7 +1691,7 @@ Gefahren
 Sternumfraktur
 --------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Sternumfraktur
 
@@ -1708,7 +1708,7 @@ Begleitverletzungen kommen.
 Gefahren
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gefahren
 
@@ -1726,7 +1726,7 @@ Herzens.
 Verletzung des Herzens und der großen Gefäße
 ============================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Verletzung des Herzens und der großen Gefäße
 
@@ -1758,7 +1758,7 @@ oder Stichverletzungen. Folgende Verletzungen sind typisch:
 Bauch- und Beckentrauma
 ***********************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Bauch- und Beckentrauma
 
@@ -1802,7 +1802,7 @@ Offenes Bauchtrauma
 
     Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Offenes Bauchtrauma
 
@@ -1879,7 +1879,7 @@ Symptome
 Gefahren
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Geschlossenes Bauchtrauma, Gefahren
 
@@ -1913,7 +1913,7 @@ Gefahren
 Milzruptur
 ==========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Milzruptur
 
@@ -1973,7 +1973,7 @@ unterscheidet man:
 Weitere innere Verletzungen
 ===========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Weitere innere Verletzungen
 
@@ -1997,7 +1997,7 @@ zügige Transport in ein Traumazentrum.
 Leberruptur
 -----------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Leberruptur
 
@@ -2018,7 +2018,7 @@ auch hier zu einer zweizeitigen Leberruptur kommen.
 Aortenruptur
 ------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Aortenruptur
 
@@ -2042,7 +2042,7 @@ Verletzung auch massive Probleme machen.
 Beckentrauma
 ============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Beckentrauma
 
@@ -2263,7 +2263,7 @@ Basismaßnahmen
 Weitere Verletzungsbilder
 =========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Weitere Verletzungsbilder
 
@@ -2288,7 +2288,7 @@ hier der Vollständigkeit halber erwähnt sind:
 Verbrennung und Verbrühung
 **************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Verbrennung, Verbrühung
 
@@ -2351,7 +2351,7 @@ werden.
 Gefahren
 ========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gefahren
 
@@ -2390,7 +2390,7 @@ bedeutet erhöhte *Sterblichkeit*. [#305]_
 Ausdehnung: Handregel und Neunerregel
 =====================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Ausdehnung
 
@@ -2435,7 +2435,7 @@ der Vebrennung abschätzen zu können.
 Grade
 =====
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Verbrennungsgrade
 
@@ -2540,7 +2540,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 Einschätzung
 ============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Einschätzung
 
@@ -2660,7 +2660,7 @@ Inhalationstrauma
 Beschreibung und Symptome
 -------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Inhalationstrauma
 
@@ -2717,7 +2717,7 @@ Basismaßnahmen
 Verletzungen durch chemische Stoffe — "Chemische Verbrennungen"
 ===============================================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Chemische Stoffe
 
@@ -2918,7 +2918,7 @@ Bedrohung daher oft sinnvoller.
 Symptome
 ========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Strom
 
@@ -2979,7 +2979,7 @@ Bahnanlagen
 Blitzschlag
 ===========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blitzschlag
 

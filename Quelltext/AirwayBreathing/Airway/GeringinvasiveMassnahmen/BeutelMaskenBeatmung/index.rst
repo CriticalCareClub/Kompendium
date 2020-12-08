@@ -100,7 +100,7 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 Hygienische Wiederaufbereitung
 ------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Hygienische Wiederaufbereitung
 

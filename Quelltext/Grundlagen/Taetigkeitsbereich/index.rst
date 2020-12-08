@@ -302,7 +302,7 @@ Anforderungsprofil des Arbeitsmarktservice (AMS):
 -  Verantwortungsbewusstsein
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Anforderungen
 
@@ -320,7 +320,7 @@ Anforderungsprofil des Arbeitsmarktservice (AMS):
 Anforderungen und Belastungen in der Praxis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Anforderungen und Belastungen in der Praxis
 

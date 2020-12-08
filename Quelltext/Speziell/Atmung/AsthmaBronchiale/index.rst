@@ -3,7 +3,7 @@
 Asthma bronchiale (#34)
 *************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Asthma bronchiale
 
@@ -56,7 +56,7 @@ einen Notarzt.
 Status Asthmaticus
 ==================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Status asthmaticus
 
@@ -72,7 +72,7 @@ Atmen hat (Erschöpfung). Der Status asthmaticus kann tödlich enden.
 ABCDE
 =====
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: 1234ABCDE
 
@@ -174,7 +174,7 @@ ABCDE
 SAMPLER
 =======
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SAMPLER
 

@@ -21,7 +21,7 @@ Colon (Dickdarm)
 ************************
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Dickdarm
 

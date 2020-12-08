@@ -40,7 +40,7 @@ Schädigung (Wundart) angeführt.
 Physikalische Verletzungsursache
 ================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Wunden
 

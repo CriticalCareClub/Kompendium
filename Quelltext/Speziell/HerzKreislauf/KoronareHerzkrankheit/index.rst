@@ -19,7 +19,7 @@ Koronare Herzkrankheit (#49)
 
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Koronare Herzkrankheit
 
@@ -112,7 +112,7 @@ kann es zu einer Reihe von Folgeerkrankungen kommen, wie z. B.:
 SAMPLER bei der KHK
 ==========================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SAMPLER
 
@@ -182,7 +182,7 @@ SAMPLER bei der KHK
 Angina pectoris (AP)
 =====================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Angina pectoris
 
@@ -231,7 +231,7 @@ mit Absterben von Herzmuskelgewebe kommt.
 Herzinfarkt (Myocardinfarkt, MCI)
 ==========================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Herzinfarkt
 
@@ -296,7 +296,7 @@ Schäden am Herzmuskel bestehen.
 Gefahren
 ----------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: MCI, Gefahren
 

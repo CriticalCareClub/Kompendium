@@ -139,7 +139,7 @@ Bakterien und Pathogenität
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Bakterien, Pathogenität
 
@@ -227,7 +227,7 @@ Virale Infektionen sind sehr häufig. Die meisten sog.
 die *Grippe*, *Feuchtblattern* und viele *Hepatitis*-Formen, werden
 durch Viren verursacht.
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Viren
 

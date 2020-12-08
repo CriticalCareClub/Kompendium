@@ -11,7 +11,7 @@ Hyperventilationssyndrom und -tetanie (#36)
 *********************************************
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Hyperventilationssysndrom
 
@@ -42,7 +42,7 @@ ABCDE: Hyperventilationssyndrom
 ===============================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: 1234ABCDE
 
@@ -131,7 +131,7 @@ ABCDE: Hyperventilationssyndrom
 SAMPLER: Hyperventilationssyndrom
 =================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SAMPLER
 

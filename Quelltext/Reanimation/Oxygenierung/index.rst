@@ -39,7 +39,7 @@ Häufig anzutreffen sind:
 -   Beatmung mittels supra-/extraglottischer Atemwegshilfsmittel
 -   Beatmung mittels endotrachealer Intubation
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Technik und Parameter
 
@@ -89,7 +89,7 @@ Erfolglose Beatmungsversuche sollen nicht wiederholt werden.
 Gefahren
 ========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Beutel-Maske / Gefahren
 
@@ -132,7 +132,7 @@ Endotracheale Intubation (Reanimation)
 **********************************************************************************
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: ETI
 

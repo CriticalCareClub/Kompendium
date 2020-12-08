@@ -7,7 +7,7 @@ Beschreibung: Aneurysma allgmein
 ********************************
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Aneurysma
 
@@ -59,7 +59,7 @@ Anmerkung
 ---------
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Anmerkungen
 

@@ -9,7 +9,7 @@ Sinnesorgane
 Das Auge
 ********
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Das Auge
 
@@ -105,7 +105,7 @@ unwillkürlich geschlossen werden können.
 Das Ohr
 *******
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Das Ohr
 
@@ -207,7 +207,7 @@ aushaltbarer Schwindel.
 Die Haut ist die Barriere zur Außenwelt
 ***************************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Haut
 
@@ -233,7 +233,7 @@ beträgt beim Erwachsenen ca. 1,6 m.
 Die Haut ist in Schichten aufgebaut
 ===================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Schichten der Haut
 
@@ -283,7 +283,7 @@ Wärmeisolierung.
 Aufgaben
 ========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Aufgaben der Haut
 

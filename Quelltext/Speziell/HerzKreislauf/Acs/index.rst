@@ -47,7 +47,7 @@ welche sich von den vorgenannten entweder durch die Pathogenese
 Symptome
 ********
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -78,7 +78,7 @@ Leistungsverlust!
 ABCDE
 =======
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: ABCDE
 
@@ -171,7 +171,7 @@ Transportziel (Herzkatheterlabor?) entscheidend.
 SAMPLER beim akuten Koronarsyndrom
 ==========================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SAMPLER
 

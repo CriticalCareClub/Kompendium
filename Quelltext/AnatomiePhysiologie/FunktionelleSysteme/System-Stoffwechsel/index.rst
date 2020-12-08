@@ -16,7 +16,7 @@ Der Stoffwechsel ist eine Vitalfunktion
 =======================================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Stoffwechsel::
 

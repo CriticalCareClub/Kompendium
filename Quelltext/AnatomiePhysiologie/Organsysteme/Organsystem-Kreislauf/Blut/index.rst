@@ -14,7 +14,7 @@ Das Blut hat viele Aufgaben
     .. contents::
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blut
 
@@ -61,7 +61,7 @@ Außerdem enthält es *Proteine* und andere *gelöste Stoffe*.
 Bestandteile
 ------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blut: --: Bestandteile
 
@@ -194,7 +194,7 @@ Schlußendlich sorgt es auch für die Wärmeverteilung im Körper.
 Aufgaben
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blut: Aufgaben
 
@@ -295,7 +295,7 @@ und der Herzfrequenz bestimmt.
 Das Immunsystem ist eine Vitalfunktion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Immunsystem
 
@@ -324,7 +324,7 @@ unterstützen.
 Blutprodukte
 ------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blutprodukte
 
@@ -354,7 +354,7 @@ geringen Umfang vorrätig sind.
 Blutstillung
 ------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blutstillung
 

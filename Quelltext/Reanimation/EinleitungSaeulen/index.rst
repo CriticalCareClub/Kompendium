@@ -42,7 +42,7 @@ in eigenen Kapiteln behandelt.
 Hintergrund: ERC-Leitlinien
 ***********************************************************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: ERC
 

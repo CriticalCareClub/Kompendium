@@ -14,7 +14,7 @@
 Jejunum und Ileum
 *****************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Jejunum und Ileum
 

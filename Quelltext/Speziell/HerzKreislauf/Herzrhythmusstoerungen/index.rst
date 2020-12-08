@@ -23,7 +23,7 @@ Einteilung
 *******************************
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Einteilung von Herzrhythmusstörungen
 
@@ -54,7 +54,7 @@ oder :term:`intermittierend <intermittieren>` auftreten.
 
 .. rubric:: … Frequenz: Tachy- und Bradykardie
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Brady-, Tachykardie
 
@@ -222,7 +222,7 @@ Besondere Rhythmen
 Reanimationspflichtige Rhythmusstörungen
 ========================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Reanimationspflichtig
 
@@ -277,7 +277,7 @@ Pulslose elektrische Aktivität (*PEA*)
 Vorhofflimmern
 ==============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Vorhofflimmern
 
@@ -318,7 +318,7 @@ Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
 Extrasystolen
 =============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Extrasystolen
 
@@ -361,7 +361,7 @@ Untersuchungen oft nicht leicht zu ermitteln.
 ABCDE
 =====
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Einschätzungsblock
 
@@ -398,7 +398,7 @@ Im Extremfall ist auch ein |symbol-RedFlag| Kreislaufstillstand möglich.
 SAMPLER
 =======
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SAMPLER
 

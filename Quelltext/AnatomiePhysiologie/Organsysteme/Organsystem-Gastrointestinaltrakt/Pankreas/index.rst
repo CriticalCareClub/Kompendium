@@ -8,7 +8,7 @@
 Exkurs: Pankreas
 ****************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Pankreas / Aufgaben
 

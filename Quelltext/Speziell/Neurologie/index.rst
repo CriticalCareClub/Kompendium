@@ -73,7 +73,7 @@ Gefahren:
 Ursachen
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Ursachen
 
@@ -137,7 +137,7 @@ Ursachen auf.
 Bewusstseinsgrad
 ================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Bewusstseinsgrad: W–A–S–B
 
@@ -279,7 +279,7 @@ Hirndruckzeichen und Hirnstammeinklemmung
 Hirndruckzeichen
 ----------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Hirndruckzeichen
 
@@ -330,7 +330,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
 Hirnstammeinklemmung
 --------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Hirnstammeinklemmung
 
@@ -361,7 +361,7 @@ Ein Schlaganfall kann ischämisch oder durch eine Blutung entstehen
 Arten
 =====
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Insult: Arten
 
@@ -387,7 +387,7 @@ werden können:
 TIA
 ===
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: TIA
 
@@ -407,7 +407,7 @@ Symptome
 ========
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -493,7 +493,7 @@ Verschlechterung ist jederzeit möglich!
 Differentialdiagnose
 ====================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Differentialdiagnosen
 
@@ -515,7 +515,7 @@ weitergehende Untersuchungen oft schwierig bzw. schwer möglich.
 Spezielle Anamnese
 ==================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Spezielle Anamnese
 
@@ -641,7 +641,7 @@ Vom Gehirn ausgehende Krämpfe: Zerebrale Krampfanfälle
 Beschreibung und Einteilung
 ===========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Krampfanfälle: Einteilung
 
@@ -733,7 +733,7 @@ Der fokale Anfall wird auch "petit mal"\ [#PetitMal]_ genannt.
 Generalisierter Anfall
 ======================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Generalisierter Krampfanfall
 
@@ -813,7 +813,7 @@ Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
 Status Epilepticus
 ==================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Status epilepticus
 
@@ -923,7 +923,7 @@ Besondere Krampfanfälle
 Fieberkrampf
 ------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Fieberkrampf
 
@@ -951,7 +951,7 @@ es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben
 Eklamptischer Krampfanfall während der Schwangerschaft
 ------------------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Krampfanfall in der Schwangerschaft
 
@@ -973,7 +973,7 @@ Probleme mit der Wirbelsäule: Lumbago, Lumbo-ischialgie und Bandscheibenvorfall
 Symptome
 ========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 

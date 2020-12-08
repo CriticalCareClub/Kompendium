@@ -13,7 +13,7 @@ Das Herz
 Basics
 ******
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Aufbau, Lage
 
@@ -39,7 +39,7 @@ Jede Hälfte wird durch *Klappen* in
 einen *Vorhof* (:dfn:`Atrium`) und eine
 *Kammer* (:dfn:`Ventrikel`) geteilt.
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Schichten
 
@@ -56,7 +56,7 @@ und dem **Epikard** (außen).
 Darin befindet sich eine geringe Menge Flüssigkeit,
 die eine reibungsarme Bewegung des Herzens ermöglicht.
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Herzklappen
 
@@ -76,7 +76,7 @@ die Taschenklappen befinden sich an den Ausflussöffnungen der Kammern am
 linke Kammer von der Aorta trennt, wird :dfn:`Aortenklappe`
 genannt.
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blutversorgung
 
@@ -86,7 +86,7 @@ Die **Blutversorgung** des Herzens erfolgt über mehrere
 **Koronararterien** (*Herzkranzgefäße*).
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Mechanische Herzfunktion
 
@@ -135,7 +135,7 @@ Blutdruck lässt sich einfach mittels
 :ref:`Blutdruckmanschette <Thema-blutdruck>` messen
 [Klinke:3]_.
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blutdruck
 
@@ -157,7 +157,7 @@ sein *Minimum* (*Diastolischer* Blutdruck).
 Zur Durchführung der Blutdruckmessung vgl.
 :ref:`Thema-rr-messung`.
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Elektrische Herzfunktion
 
@@ -500,7 +500,7 @@ sorgt dafür, dass das Gewebe von Blut durchflossen wird.
 Blutdruck
 ---------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blutdruck
 

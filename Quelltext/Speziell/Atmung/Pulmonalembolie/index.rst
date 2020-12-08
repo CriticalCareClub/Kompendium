@@ -12,7 +12,7 @@
 Pulmonalembolie (#39)
 **************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Lungenembolie
 
@@ -47,7 +47,7 @@ ABCDE: Pulmonalembolie
 ======================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: 1234ABCDE
 
@@ -126,7 +126,7 @@ ABCDE: Pulmonalembolie
 SAMPLER: Pulmonalembolie
 ========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SAMPLER
 

@@ -11,7 +11,7 @@ Hypotonie
 Beschreibung und Richtwert
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Beschreibung und Richtwert
 

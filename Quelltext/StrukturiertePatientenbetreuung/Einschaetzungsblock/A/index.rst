@@ -34,7 +34,7 @@ Diese sind auch für den folgenden Punkt ``B`` (Atmung) relevant.
 Befunde
 =======
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Atemweg -- Befunde
 

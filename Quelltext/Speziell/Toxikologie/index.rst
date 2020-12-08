@@ -122,7 +122,7 @@ Basismaßnahmen
 Vergiftungen mit Alkohol
 ************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Alkohol
 
@@ -259,7 +259,7 @@ Drogenmilieu weit verbreitet, die Anwendung erfolgt i. d. R. intravenös.
 Symptome der Opiatvergiftung
 ----------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Opiatintoxikation
 
@@ -345,7 +345,7 @@ Umwelt.
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -454,7 +454,7 @@ Sauerstoff.\
 Anamnese und Szene
 ^^^^^^^^^^^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: CO
 
@@ -471,7 +471,7 @@ Anamnese und Szene
 Symptome
 ^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -533,7 +533,7 @@ Industrie an.
 Symptome
 ^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -677,7 +677,7 @@ von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 

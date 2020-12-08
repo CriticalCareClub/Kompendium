@@ -10,7 +10,7 @@ Beatmung (#23)
 ###################
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Beatmung -- Beschreibung
 
@@ -59,7 +59,7 @@ durchgeführt werden.
 
 .. rubric:: Gefahren
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gefahren
 
@@ -99,7 +99,7 @@ Patientenseitig werden *Beatmungsmasken* oder *Beatmungsschläuche*
 angewendet. Um die Atemwege freizuhalten, kann u. U. unterstützend ein
 :dfn:`Guedel-Tubus` :index:`\ <! Guedel-Tubus>` angewendet werden.
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Beatmung -- Hilfsmittel
 
@@ -469,7 +469,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 Das PEEP-Ventil sorgt für einen positiven Druck am Ende der Ausatmung
 *********************************************************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: PEEP
 

@@ -5,7 +5,7 @@
 Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose (#52)
 ####################################################################
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Beschreibung und Ursachen
 
@@ -147,7 +147,7 @@ SAMPLER
 Gefahr
 ******
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gefahr
 

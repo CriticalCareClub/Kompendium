@@ -13,7 +13,7 @@ Arterielle Hypertonie (#42)
 Beschreibung
 ************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Beschreibung
 
@@ -58,7 +58,7 @@ und behandelt werden.
 Langzeitfolgen
 **************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Langzeitschäden
 
@@ -223,7 +223,7 @@ ABCDE
 SAMPLER
 =======
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SAMPLER
 

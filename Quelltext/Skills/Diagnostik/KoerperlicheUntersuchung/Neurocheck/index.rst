@@ -39,7 +39,7 @@ Teile des Neurochecks werden während des Einschätzungsblockes
 Neurocheck
 ----------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Neurocheck
 

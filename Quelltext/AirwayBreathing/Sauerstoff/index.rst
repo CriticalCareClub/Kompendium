@@ -7,7 +7,7 @@ Sauerstoff – O₂ (`#24 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompe
 ########################################################################################################################
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Sauerstoff
 
@@ -288,7 +288,7 @@ aber auch bei der *Beatmung* zugeführt werden.
 O₂-Berieselungseinheit
 ======================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Berieselungseinheit
 
@@ -465,7 +465,7 @@ sodass die Sauerstoffsättigung
 O₂-Zufuhr bei der Beatmung mittels Beatmungsbeutel
 =========================================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: O₂-Zufuhr bei Beatmung
 

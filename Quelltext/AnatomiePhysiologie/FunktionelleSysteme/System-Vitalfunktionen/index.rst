@@ -56,7 +56,7 @@ werden konnten.
 Vitalfunktionen 1. Ordnung
 ************************************************************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Vitalfunktionen 1. Ordnung
 
@@ -81,7 +81,7 @@ und werden ebendort näher erläutert.
 Vitalfunktionen 2. Ordnung
 ************************************************************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Vitalfunktionen 2. Ordnung
 
@@ -135,7 +135,7 @@ Wasser- und Elektrolythaushalt
 Verteilungsräume
 ------------------------------------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Verteilungsräume
 
@@ -230,7 +230,7 @@ zwischen dem Zellinneren und der Umgebung kommen.
 Funktion der Elektrolyte
 ------------------------------------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Funktionen der Elektrolyte
 
@@ -390,7 +390,7 @@ Häufige Ursachen von Elektrolytstörungen
 Ausscheidung und Flüssigkeitsverlust
 ------------------------------------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Flüssigkeitsverlust
 
@@ -429,7 +429,7 @@ Säure-/Basenhaushalt
 Säuren und Laugen
 ------------------------------------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Säuren, Laugen
 
@@ -461,7 +461,7 @@ Begriff Base. [Loeffler:7]_
 pH-Wert
 ------------------------------------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: pH-Wert
 
@@ -496,7 +496,7 @@ wenn der Patient basisch wird von einer :dfn:`Alkalose`\ [#PH-2]_.
 Regulationsmechanismen
 ------------------------------------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: pH-Regulationsmechanismen
 
@@ -555,7 +555,7 @@ Oder in einer Gleichung mit den chemischen Summenformeln:
     Puffergleichung für den Bikarbonatpuffer.
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Bikarbonat-Puffer
 
@@ -602,7 +602,7 @@ Das CO₂ wird normalerweise über die Lunge abgeatmet. Daraus folgt:
 Atmungsbedingte Übersäuerung (Respiratorische Azidose)
 ------------------------------------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Respiratorische Azidose
 
@@ -634,7 +634,7 @@ und folglich zu einer Ansäuerung des Blutes.
 Stoffwechselbedingte Übersäuerung (Metabolische Azidose)
 ------------------------------------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Metabolische Azidose
 

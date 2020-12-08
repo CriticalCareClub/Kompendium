@@ -32,7 +32,7 @@ oder Dokumentationen anderer Gesundheitseinrichtungen
 .. rubric:: SAMPLER
 .. Ausnahmweise als Beispiel eine Sidebar
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SAMPLER
 

@@ -6,7 +6,7 @@
 Der Brustkorb
 =============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Der Brustkorb
 

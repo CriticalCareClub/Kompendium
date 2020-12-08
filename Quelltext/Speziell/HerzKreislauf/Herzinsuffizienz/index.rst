@@ -21,7 +21,7 @@ eher *chronischer* Natur.
 Einteilung
 **********
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Einteilung
 

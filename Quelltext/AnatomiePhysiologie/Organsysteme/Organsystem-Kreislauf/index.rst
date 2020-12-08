@@ -9,7 +9,7 @@ Der **Kreislauf**
 
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Kreislauf
 

@@ -9,7 +9,7 @@
 Mechanische Atemwegsverlegung (#38)
 **************************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Mechanische Atemwegsverlegung
 
@@ -60,7 +60,7 @@ Atemwegsverlegung* (Sprechen und Husten nicht möglich).
 ABCDE
 =====
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: 1234ABCDE
 
@@ -161,7 +161,7 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
 ==============================================================================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Spezielle Techniken
 

@@ -3,7 +3,7 @@
 Algorithmen Herz-Lungen-Wiederbelebung
 **************************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Einleitung
 

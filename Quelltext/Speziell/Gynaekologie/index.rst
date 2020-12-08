@@ -22,7 +22,7 @@ Notfälle in der Frühschwangerschaft
 Fehlgeburt
 ----------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Fehlgeburt
 
@@ -40,7 +40,7 @@ vor dem Erreichen von 500 geschieht, spricht man von einer *Fehlgeburt*.
 Symptome
 ^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -114,7 +114,7 @@ Eileiterschwangerschaft
 Beschreibung
 ^^^^^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Eileiterschwangerschaft
 
@@ -279,7 +279,7 @@ geklärt.
 Symptome
 ^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Präeklampsie et al.
 
@@ -397,7 +397,7 @@ Die Geburt verläuft in 3 Phasen:
 Eröffnungsphase
 ---------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Eröffnungsphase
 
@@ -432,7 +432,7 @@ Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
 Austreibungsphase
 -----------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Austreibungsphase
 
@@ -474,7 +474,7 @@ dem Stuhl der Mutter geschützt* werden (:dfn:`Stuhlschutz` :index:`\ <! Stuhlsc
 Nachgeburtsphase
 ----------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Nachgeburtsphase
 
@@ -913,7 +913,7 @@ Basismaßnahmen
 Die Placenta praevia liegt im Geburtskanal
 ------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Placenta praevia
 
@@ -1028,7 +1028,7 @@ Basismaßnahmen
 Blutungen in der Nachgeburtsperiode
 -----------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blutungen in der Nachgeburtsperiode
 
@@ -1073,7 +1073,7 @@ Sonstige gynäkologische Erkrankungen und Notfälle
 Vaginale Blutungen
 ==================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Vaginale Blutung
 

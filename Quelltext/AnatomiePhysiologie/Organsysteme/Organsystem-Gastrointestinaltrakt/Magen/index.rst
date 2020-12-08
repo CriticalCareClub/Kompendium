@@ -9,7 +9,7 @@
 Magen
 -----
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Magen
 

@@ -10,7 +10,7 @@ Der Beckengürtel und die untere Extremität
 Der Beckengürtel
 ****************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Beckengürtel
 

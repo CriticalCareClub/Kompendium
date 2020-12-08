@@ -6,7 +6,7 @@ Chronische Bronchitis und COPD (#35)
 **************************************
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: COPD
 
@@ -66,7 +66,7 @@ durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
 Probleme mit Sauerstoff bei COPD-Patienten
 ==========================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: COPD und O₂
 
@@ -124,7 +124,7 @@ einem Atemstillstand kommen.
 ===============
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: 1234ABCDE
 
@@ -212,7 +212,7 @@ einem Atemstillstand kommen.
 SAMPLER: COPD
 =============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SAMPLER
 

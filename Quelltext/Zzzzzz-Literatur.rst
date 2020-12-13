@@ -1505,11 +1505,12 @@ Z
 
 .. [FamPropAeGruFert:2011]
 
-	Blacky, Alexander, Magda Diab-El Schahawi, Sebastian Gabriel, Walter
-	Koller, Martin Lischka und Michael Schmidts:
-	2011.*Ärztliche
-	Grundfertigkeiten.* Skills Line 2. Department für medizinische Aus- und
-	Weiterbildung, Medizinische Universität Wien.
+    Blacky, Alexander, Magda Diab-El Schahawi, Sebastian Gabriel, Walter
+    Koller, Martin Lischka und Michael Schmidts:
+    **Ärztliche Grundfertigkeiten.**
+    Skills Line 2. Department für medizinische Aus- und
+    Weiterbildung, Medizinische Universität Wien.
+    2011.
 
 
 .. [FamPropAeGruFert:2012]

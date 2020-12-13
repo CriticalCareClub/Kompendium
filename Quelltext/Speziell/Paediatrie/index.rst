@@ -6,126 +6,121 @@
 
 
 
-:Maintainer:
-    Sebastian Gabriel
-
-:Autoren:
-    Diverse
-
-:Reviewer:
-    Standard-Reviewprozess
-
 ******************
 Umgang mit Kindern
 ******************
-
-Beschreibung
-============
 
 Der Umgang soll prinzipiell schonend erfolgen, Aufregung soll nach
 Möglichkeit vermieden werden. Wichtig ist, dem Kind eine Bezugsperson zu
 geben; Die Vertrauensperson bzw. Eltern müssen unbebedingt in die
 (Be-)Handlung einbezogen werden. Nach Möglichkeit soll das Kind während
 eng bei Vertrauensperson belassen werden (auf den Schoss setzen, …).
-(Hansak et al. 2008)
+[LPN:3]_
+
+.. _Thema-kind-besonderheiten:
 
 *********************************************
 Anatomische und physiologische Besonderheiten
 *********************************************
 
-.. _Thema-kind-besonderheiten:
-
-Beschreibung
-============
-
 Kinder unterscheiden sich wesentlich von
 erwachsenen Patienten, nicht nur in ihrer Fähigkeit ihre Umwelt und
 gesetzte Handlungen zu verstehen, sondern auch hinsichtlich ihrer
-Anatomie und Physiologie. :ref:`Table-altersgruppen-kinder` zeigt eine
+Anatomie und Physiologie.
+Die Tabelle :ref:`Table-altersgruppen-kinder` zeigt eine
 Übersicht über die Einteilung von Kindern nach Altersgruppen.
 
-    -  Kinder sind keine kleinen Erwachsenen!
+.. note::
 
-Übersicht: AltersgruppenIn der Literatur kommt es gelegentlich zu
-abweichenden Definitionen. So ist z. B. in den ERC-Richtlinien zur
-Reanimation ein Neugeborenes nur bis unmittelbar nach der Geburt als
-solches klassifiziert.
+    -   Kinder sind keine kleinen Erwachsenen!
+
+
 
 .. _Table-altersgruppen-kinder:
 
-.. table:: Altersgruppen
+.. table:: Übersicht: Altersgruppen. In der Literatur kommt es gelegentlich zu abweichenden Definitionen. So ist z. B. in den ERC-Richtlinien zur Reanimation ein Neugeborenes nur bis unmittelbar nach der Geburt als solches klassifiziert.
+    :header-row: 1
 
-    +-------------------+----------------------------------+-------------------------------+
-    | **Bezeichnung**   | **Alter**                        | **alternativ**                |
-    +-------------------+----------------------------------+-------------------------------+
-    | *Neugeborenes*    | bis zum 28. Lebenstag            | unmittelbar nach der Geburt   |
-    +-------------------+----------------------------------+-------------------------------+
-    | *Säugling*        | bis zum Ende des 1. Lebensjahr   |                               |
-    +-------------------+----------------------------------+-------------------------------+
-    | *Kleinkind*       | 1--5 Jahre                       |                               |
-    +-------------------+----------------------------------+-------------------------------+
-    | *Schulkind*       | 6--13 Jahre                      |                               |
-    +-------------------+----------------------------------+-------------------------------+
-    | *Jugendlicher*    | 14--18 Jahre                     |                               |
-    +-------------------+----------------------------------+-------------------------------+
+    *   -   Bezeichnung
+        -   Alter
+        -   alternativ             |
+    *   -   Neugeborenes
+        -   bis zum 28. Lebenstag
+        -   unmittelbar nach der Geburt   |
+    *   -   Säugling
+        -   bis zum Ende des 1. Lebensjahr
+        -
+    *   -   Kleinkind*
+        -   1--5 Jahre
+        -
+    *   -   Schulkind*
+        -   6--13 Jahre
+        -
+    *   -   Jugendlicher
+        -   14--18 Jahre
+        -
 
-.. todo:: Table Anatomische und physiologische Besonderheiten von Kindern
+.. list-table:: Anatomische und physiologische Besonderheiten von Kindern
+    :stub-columns: 1
 
-    ::
+    *   -   Atemfrequenz & Neugeborenes: 30—50 / min
 
-        ll *Atemfrequenz* & Neugeborenes: 30—50/min
+        -   Säugling: 20—30 / min
 
-        Säugling: 20—30/min
+            Kleinkind: 20—30 / min
 
-        Kleinkind: 20—30/min
+            Beatmung bis zum Säugling in Neutralposition (Kopf nicht überstrecken)
 
-        | Beatmung bis zum Säugling in Neutralposition (Kopf nicht überstrecken)
-        | *Zeichen der Atemnot*\ :ref:`Thema-atemnot-zeichen-kinder`& Einziehungen
-        zwischen Rippen
+    *   -   Zeichen der Atemnot
+        -   Einziehungen zwischen Rippen
 
-        | :dfn:`Nasenflügeln` :index:`\ <! Nasenflügeln>` beschleunigte Atmung, Atemgeräusche
-        | *Pulstasten beim Säugling* & Oberarmarterie (Oberarm Innenseite),
-        Achsel
-        | *Herzfrequenz* & Neugeborenes: 140–180 / min(Lebensgefahr
-        unter 80/min)
+            :dfn:`Nasenflügeln`
+            :index:`\ <Nasenflügeln>`
+            beschleunigte Atmung, Atemgeräusche
 
-        Säugling: 110—160 / min(FRCPCH and FRCPCH 2007)
+    *   -   Pulstasten beim Säugling
+        -   Oberarmarterie (Oberarm Innenseite),
+            Achsel
+    *   -   Herzfrequenz
+        -   Neugeborenes: 140–180 / min (Lebensgefahr unter 80 / min)
 
-        Kleinkind: 95—140 / min(FRCPCH and FRCPCH 2007)
+            Säugling: 110—160 / min
 
-        Schulkind: 80—120 / min(FRCPCH and FRCPCH 2007)
+            Kleinkind: 95—140 / min
 
-        | Bradykardie ist fast immer hypoxiebedingt
-        | *Systolischer Blutdruck* & Neugeborenes: 75mmHg(Hagelberg and Gehring
-        2006)(FRCPCH and FRCPCH 2007)
+            Schulkind: 80—120 / min
 
-        Säugling: 80—90mmHg(Hagelberg and Gehring 2006)
+            Bradykardie ist fast immer hypoxiebedingt
 
-        Kleinkind: 95mmHg(FRCPCH and FRCPCH 2007)
+    *   -   Systolischer Blutdruck
+        -   Neugeborenes: 75 mm Hg
 
-        Schulkind: 100–110 mm Hg(Hagelberg and Gehring 2006)(FRCPCH
-        and FRCPCH 2007)
+            Säugling: 80—90 mm Hg
 
-        | Jugendlicher: 120mmHg(Hagelberg and Gehring 2006)
-        | *Wasser-, Elektrolyt- und Wärmehaushalt* & Kinder haben im Verhältnis
-        zu ihrem Körpergewicht eine größere Körperoberfläche als Erwachsene!
+            Kleinkind: 95 mm Hg
 
-        höherer Wasseranteil
+            Schulkind: 100–110 mm Hg
 
-        | Austrocknung und Unterkühlung schneller möglich!
+            Jugendlicher: 120 mm Hg
+
+    *   -   Wasser-, Elektrolyt- und Wärmehaushalt
+        -   Kinder haben im Verhältnis
+            zu ihrem Körpergewicht eine größere Körperoberfläche als Erwachsene!
+
+            höherer Wasseranteil
+
+            Austrocknung und Unterkühlung schneller möglich!
 
 
 
 Allgemeines zu Erkrankungen im Kindes- und Jugendalter
 ======================================================
 
-Beschreibung
-------------
-
 Grundsätzlich können Kinder viele der bereits erwähnten Erkrankungen
 auch bekommen. Bei Kindernotfällen können als zusätzlicher Stressfaktor
-für den Rettungsdienst stark emotional betroffene Angehörige sein. Daher
-gilt es besonders ruhig und gezielt zu handeln. Sie sollten sich der
+für den Rettungsdienst stark emotional betroffene Angehörige sein.
+Daher gilt es besonders ruhig und gezielt zu handeln.
+Sie sollten sich der
 Verantwortung bewusst sein, es geht um die Rettung eines jungen Menschen
 mit langer Lebenserwartung.
 
@@ -136,9 +131,6 @@ Speziell die Kindheit und Jugend betreffende Erkrankungen
 Fremdkörperaspiration
 =====================
 
-Beschreibung
-------------
-
 Die Fremdkörperaspiration und mechanische Atemwegsverlegung wird unter
 :ref:`Thema-mechanische-atemwegsverlegung`, behandelt.
 
@@ -148,18 +140,36 @@ Akute obstruktive Laryngitis, Pseudokrupp
 =========================================
 
 
-Beschreibung
-------------
 
-Bei der Laryngitis (Pseudokrupp [#278]_) handelt es sich um eine
+Bei der Laryngitis (Pseudokrupp\ [#278]_) handelt es sich um eine
 Entzündung des Kehlkopfes. Es können auch die oberen Atemwege durch das
 Anschwellen der Schleimhäute behindert sein (Pseudokrupp/Kruppsyndrom).
 Diese Infektion wird durch Viren verursacht.
 
--  Entzündung des Kehlkopfes
+.. [#278]
+    "Pseudokrupp" bezieht sich auf die Heiserkeit (griech.: pseudo für
+    „unecht"; schottisch: croup, „Heiserkeit"). Der echte
+    Krupp bezeichnet die Kehlkopfentzündung bei Diphtherie.
 
 Symptome
 --------
+
+.. only:: not nosidebar
+
+    .. sidebar:: Symptome
+
+    -   Trockener, bellender Husten
+    -   Pfeifendes Geräusch beim Einatmen, Heiserkeit
+    -   Dyspnoe
+    -   Kaum Fieber
+    -   Typisch:
+
+        -   Alter: 3 Monate – 6 Jahre
+        -   warme, trockene Räume
+
+    -   Bei Manipulation im Mund-/Rachenraum
+        kann es zu einem Anschwellen und
+        einer Verlegung der Atemwege kommen!
 
 Das Leitsymptom ist ein typischer, *trockener, bellender Husten*. Oft
 ist auch ein pfeifendes Geräusch beim Einatmen *(inspiratorischer
@@ -168,22 +178,6 @@ eher diskret und steht nicht im Vordergrund. Die Laryngitis tritt vor
 allem im Alter zwischen 3 Monaten und 6 Jahren auf, gut geheizte und
 trockene Räume fördern das Auftreten.
 
--  Trockener, bellender Husten
-
--  Pfeifendes Geräusch beim Einatmen, Heiserkeit
-
--  Dyspnoe
-
--  Kaum Fieber
-
--  Typisch:
-
-   -  Alter: 3 Monate – 6 Jahre
-
-   -  warme, trockene Räume
-
--  Bei Manipulation im Mund-/Rachenraum kann es zu einem Anschwellen und
-   einer Verlegung der Atemwege kommen!
 
 
 .. _KJ05000C:
@@ -191,10 +185,6 @@ trockene Räume fördern das Auftreten.
 
 Akute obstruktive Laryngitis
 ----------------------------
-
-
-.. todo:: Maßnahme KJ05000C: Anpassung an höherqualifiziertes Personal
-
 
 Basismaßnahmen
     -   Eltern und Kind beruhigen.
@@ -211,8 +201,11 @@ Basismaßnahmen
 Akute Epiglottitis
 ==================
 
-Beschreibung
-------------
+.. only:: not nosidebar
+
+    .. sidebar:: Epiglottitis
+
+    -   Entzündung mit Schwellung des Kehldeckels
 
 Bei der Epiglottitis handelt es sich um eine *bakterielle Entzündung*
 und daraus folgende *Schwellung des Kehldeckels*. Sie kommt eher selten
@@ -220,26 +213,27 @@ vor, kann jedoch **lebensbedrohlich** werden. Die Epiglottitis ist eine
 schwere Erkrankung, mit richtiger Behandlung besteht aber meist eine
 gute Prognose.
 
--  Entzündung mit Schwellung des Kehldeckels
 
 Symptome
 --------
+
+.. only:: not nosidebar
+
+    .. sidebar:: Symptome
+
+    -   Hoch fieberhafte Erkrankung
+    -   Inspiratorischer Stridor
+    -   Mund offen, Speichelfluss, spricht kaum!
+    -   Angst!
+    -   Bei Manipulation im Mund-/Rachenraum
+        kann es zu einem Anschwellen und
+        einer Verlegung der Atemwege kommen!
 
 Die Epiglottitis geht mit hohem Fieber einher. Es ist ein Atemgeräusch
 bei der Einatmung wahrnehmbar (*inspiratorischer Stridor*). Der Patient
 hält den Mund offen und es ist ein Speichelfluss bemerkbar. Der Patient
 ist eher ruhig und spricht kaum, er hat Angst.
 
--  Hoch fieberhafte Erkrankung
-
--  Inspiratorischer Stridor
-
--  Mund offen, Speichelfluss, spricht kaum!
-
--  Angst!
-
--  Bei Manipulation im Mund-/Rachenraum kann es zu einem Anschwellen und
-   einer Verlegung der Atemwege kommen!
 
 
 
@@ -248,11 +242,6 @@ ist eher ruhig und spricht kaum, er hat Angst.
 
 Akute Epiglottitis
 ------------------
-
-
-.. todo:: Maßnahme KJ05010C: Anpassung an höherqualifiziertes Personal
-
-
 
 Basismaßnahmen
     -   |TxMassVitMK|
@@ -275,8 +264,8 @@ Differenzialdiagnosen Laryngitis und Epiglottitis:
 .. table:: Gegenüberstellung Laryngitis vs. Epiglottitis
 
     +-----------------------------+----------------------------------+
-    | **Laryngitis**              | **Epiglottitis**                 |
-    +-----------------------------+----------------------------------+
+    | Laryngitis                  | Epiglottitis                     |
+    +=============================+==================================+
     | Wenig bedrohlich            | Lebensgefährlich                 |
     +-----------------------------+----------------------------------+
     | Kind ist weinerlich         | Ruhiges Kind, apathisch          |
@@ -293,9 +282,14 @@ Differenzialdiagnosen Laryngitis und Epiglottitis:
 SIDS: Sudden Infant Death Syndrome (Plötzlicher Kindstod)
 =========================================================
 
+.. only:: not nosidebar
 
-Beschreibung
-------------
+    .. sidebar:: SIDS
+
+        -   Plötzlich, meist im Schlaf
+        -   Vorwiegend 1.—4. Lebensmonat
+        -   Gehäuft Jänner bis März
+        -   Bei Frühgeburten gehäuft
 
 Der plötzliche Kindstod ist eine plötzliche, einschneidende Katastrophe
 im Familienleben. Aus *unbekannter Ursache* – und aus oft völliger
@@ -303,16 +297,18 @@ Gesundheit – hört das Kind plötzlich auf zu atmen und verstirbt. Dieses
 Schicksal ereilt Kinder im ersten bis vierten Lebensmonat, es ist eine
 Häufung in den Monaten Jänner bis März zu beobachten.
 
--  Plötzlich, meist im Schlaf
-
--  Vorwiegend 1.--4. Lebensmonat
-
--  Gehäuft Jänner bis März
-
--  Bei Frühgeburten gehäuft
 
 Ursachen
 --------
+
+.. only:: not nosidebar
+
+    .. sidebar:: Ursachen
+
+        -   Ursache unbekannt
+        -   Risikogruppen
+        -   Zentrale Atemregulationsstörung (unreifes Atemzentrum?)
+        -   Eltern trifft keine Schuld!
 
 Es wird viel über die möglichen Ursachen spekuliert. Als mögliche
 Ursache wird oft ein unreifes Atemzentrum und eine zentrale
@@ -326,13 +322,6 @@ erhöhen.
 Es muss betont werden, dass eine verlässliche Vorhersage nicht möglich
 ist und *die Eltern keine Schuld trifft*!
 
--  Ursache unbekannt
-
--  Risikogruppen
-
--  Zentrale Atemregulationsstörung (unreifes Atemzentrum?)
-
--  Eltern trifft keine Schuld!
 
 
 
@@ -373,18 +362,25 @@ Basismaßnahmen
 Ertrinkungsunfall
 =================
 
-**Als *Ertrinken* wird der Tod in den ersten 24h nach einem
-Ertrinkungsunfall bezeichnet; ansonsten besteht ein :dfn:`Beinahe-Ertrinken` :index:`\ <! Beinahe-Ertrinken>`.** Kleinkinder sind besonders gefährdet, da sie
+.. only:: not nosidebar
+
+    .. sidebar:: Ertrinkungsunfall
+
+        -   Ertrinken: Tod innerhalb 24 h nach Ertrinkungsunfall
+        -   Sonst: Beinahe-Ertrinken
+
+            -   Nobody is dead until warm and dead!
+
+
+Als *Ertrinken* wird der Tod in den ersten 24h nach einem
+Ertrinkungsunfall bezeichnet; ansonsten besteht ein
+:dfn:`Beinahe-Ertrinken`\ :index:`\ <Beinahe-Ertrinken>`.
+Kleinkinder sind besonders gefährdet, da sie
 meist nicht schwimmen können und sich oft schnell und unbemerkt der
 Aufmerksamkeit der Aufsichtsperson entziehen. Besonders ungesicherte
 Gartenteiche, Seen, Schwimmbecken, Badeanstalten oder auch Wannenbäder
 stellen eine Gefahrenquelle im Alltag dar.
 
--  Ertrinken: Tod innerhalb 24h nach Ertrinkungsunfall
-
--  Sonst: Beinahe-Ertrinken
-
-    -  Nobody is dead until warm and dead!
 
 
 
@@ -419,8 +415,13 @@ Eine Besonderheit stellt jedoch der
 Fieberkrampf
 ------------
 
-Beschreibung
-^^^^^^^^^^^^
+.. only:: not nosidebar
+
+    .. sidebar:: Fieberkrampf
+
+        -   Kinder < 5 Jahre
+        -   Hohes Fieber
+        -   Wie generalisierter Krampfanfall
 
 Kleinkinder *unter 5 Jahren* können bei Fieber sogenannte Fieberkrämpfe
 entwickeln. Sie entsprechen einem vom Gehirn ausgehenden Krampfanfall
@@ -429,21 +430,10 @@ des Kindes zu Fieberkrämpfen schon bekannt und es wurden bereits
 spezielle Zäpfchen für den Bedarfsfall verschrieben (und bei Eintreffen
 eventuell schon von den Eltern gegeben).
 
--  Kinder < 5 Jahre
-
--  Hohes Fieber
-
--  Wie generalisierter Krampfanfall
 
 
 .. _KR56001C:
 .. _m-fieberkrampf-kindesalter:
-
-.. todo:: Maßnahme KR56001C: Anpassung an höherqualifiziertes Personal
-
-
-:orphan:
-
 
 Maßnahmen: Fieberkrampf im Kindesalter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -454,33 +444,12 @@ Die Körpertemperatur ist immer zu messen!
 
 Kindesmisshandlung
 ==================
+Siehe :ref:`Thema-kindesmisshandlung`
 
-Querverweise
-============
+**********
+Literatur
+**********
 
--   :ref:`Thema-kindesmisshandlung`
-
--   :ref:`Thema-kindesmisshandlung`
-
-!!! LITERARY !!! (FRCPCH and FRCPCH 2007)
-
+[Lissauer:2007]_
 [Sitzmann:2]_
-
-(Netter, n.d.)
-
-(Biarent et al. 2010b)
-
-Weiters: (Dalton, Limmer, and Mistovich 2006; Böhmer, Schneider, and
-Wolcke 2006; Fauci et al. 2008; Hansak et al. 2008; Böcker, Denk, and
-Heitz 2001; Lippert 2006; Redelsteiner et al. 2011; Striebel 2009;
-Klinke and Silbernagl 2001; Esch et al. 2007; Forth et al. 2001;
-Lüllmann, Mohr, and Hein 2006; Roewer and Thiel 2007; Rüecker 2005) !!!
-LITERARY !!!
-
-
------
-
-.. [#278]
-   "Pseudokrupp" bezieht sich auf die Heiserkeit (griech.: pseudo für
-   „unecht"; schottisch: croup, „Heiserkeit"). Der echte
-   Krupp bezeichnet die Kehlkopfentzündung bei Diphtherie.
+[ERC:2015:06]_

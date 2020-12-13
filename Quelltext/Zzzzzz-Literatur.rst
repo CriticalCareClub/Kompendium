@@ -2172,18 +2172,12 @@ Z
 	Rettungsdienst.*
 	1. Auflage,  facultas.wuv.
 
-.. [HaagGyn:2007]
+.. [Haag:3]
 
 	Haag, Petra, Norbert Hanhart und Markus Müller. 2006a. *Gynäkologie Und
 	Urologie Für Studium Und Praxis - 2007/08.*
 	3. Auflage,  Medizinische
 	Verlags- und Informationsdienste.
-
-.. [Haag:2006]
-
-	———. 2006b. *Gynäkologie Und Urologie Für Studium Und Praxis - 2007/08.*
-	3. Auflage,  Medizinische Verlags- und Informationsdienste.
-
 
 
 

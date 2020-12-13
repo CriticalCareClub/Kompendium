@@ -2334,11 +2334,10 @@ Z
 
 
 .. [Verbrennungsmed-2009Praehosp]
-	Krause, Th. und T. Loerbroks. 2009.
-	**Verbrennungsmedizin – Vom
-	Unfallort Bis Zur Rehabilitation.**
-	In, edited by Frank Wappler and
-	Gerald Spilker, 19–28. Thieme.
+    Krause, Th. und T. Loerbroks:
+    **Verbrennungsmedizin – Vom
+    Unfallort Bis Zur Rehabilitation.**
+    Thieme. 2009.
 
 
 
@@ -2787,9 +2786,9 @@ Z
 
 .. [U:61989]
 
-	Stadt Wien, Magistratsabteilung 38 – U-Bahn-Bau, ed:
-	1989.*Die
-	U-Bahnlinie U6. 1983-1989.* Compress Verlag.
+    Stadt Wien, Magistratsabteilung 38 – U-Bahn-Bau:
+    *Die U-Bahnlinie U6. 1983-1989.*
+    Compress Verlag, 1989.
 
 
 

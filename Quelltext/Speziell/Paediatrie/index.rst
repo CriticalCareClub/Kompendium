@@ -36,10 +36,9 @@ Die Tabelle :ref:`Table-altersgruppen-kinder` zeigt eine
 
 
 
-.. _Table-altersgruppen-kinder:
-
 .. table:: Übersicht: Altersgruppen. In der Literatur kommt es gelegentlich zu abweichenden Definitionen. So ist z. B. in den ERC-Richtlinien zur Reanimation ein Neugeborenes nur bis unmittelbar nach der Geburt als solches klassifiziert.
-    :header-row: 1
+    :header-rows: 1
+    :name: Table-altersgruppen-kinder
 
     *   -   Bezeichnung
         -   Alter
@@ -158,18 +157,18 @@ Symptome
 
     .. sidebar:: Symptome
 
-    -   Trockener, bellender Husten
-    -   Pfeifendes Geräusch beim Einatmen, Heiserkeit
-    -   Dyspnoe
-    -   Kaum Fieber
-    -   Typisch:
+        -   Trockener, bellender Husten
+        -   Pfeifendes Geräusch beim Einatmen, Heiserkeit
+        -   Dyspnoe
+        -   Kaum Fieber
+        -   Typisch:
 
-        -   Alter: 3 Monate – 6 Jahre
-        -   warme, trockene Räume
+            -   Alter: 3 Monate – 6 Jahre
+            -   warme, trockene Räume
 
-    -   Bei Manipulation im Mund-/Rachenraum
-        kann es zu einem Anschwellen und
-        einer Verlegung der Atemwege kommen!
+        -   Bei Manipulation im Mund-/Rachenraum
+            kann es zu einem Anschwellen und
+            einer Verlegung der Atemwege kommen!
 
 Das Leitsymptom ist ein typischer, *trockener, bellender Husten*. Oft
 ist auch ein pfeifendes Geräusch beim Einatmen *(inspiratorischer
@@ -205,7 +204,7 @@ Akute Epiglottitis
 
     .. sidebar:: Epiglottitis
 
-    -   Entzündung mit Schwellung des Kehldeckels
+        -   Entzündung mit Schwellung des Kehldeckels
 
 Bei der Epiglottitis handelt es sich um eine *bakterielle Entzündung*
 und daraus folgende *Schwellung des Kehldeckels*. Sie kommt eher selten
@@ -221,13 +220,13 @@ Symptome
 
     .. sidebar:: Symptome
 
-    -   Hoch fieberhafte Erkrankung
-    -   Inspiratorischer Stridor
-    -   Mund offen, Speichelfluss, spricht kaum!
-    -   Angst!
-    -   Bei Manipulation im Mund-/Rachenraum
-        kann es zu einem Anschwellen und
-        einer Verlegung der Atemwege kommen!
+        -   Hoch fieberhafte Erkrankung
+        -   Inspiratorischer Stridor
+        -   Mund offen, Speichelfluss, spricht kaum!
+        -   Angst!
+        -   Bei Manipulation im Mund-/Rachenraum
+            kann es zu einem Anschwellen und
+            einer Verlegung der Atemwege kommen!
 
 Die Epiglottitis geht mit hohem Fieber einher. Es ist ein Atemgeräusch
 bei der Einatmung wahrnehmbar (*inspiratorischer Stridor*). Der Patient

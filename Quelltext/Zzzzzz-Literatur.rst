@@ -70,7 +70,6 @@ Literaturverzeichnis
     AerztlicheWundversorgung:2
     GruberHygieneRD:1
     Guerri:2009
-    Haag:2006
     Soehnke:200607
     HahnMikrobio:6
     TertialeNotfallIntensivmed:1
@@ -294,7 +293,6 @@ Literaturverzeichnis
 [AerztlicheWundversorgung:2]_
 [GruberHygieneRD:1]_
 [Guerri:2009]_
-[Haag:2006]_
 [HahnMikrobio:6]_
 [TertialeNotfallIntensivmed:1]_
 [OeBBRettEinGleis:2009]_

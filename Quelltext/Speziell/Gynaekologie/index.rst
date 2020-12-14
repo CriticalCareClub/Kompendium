@@ -897,7 +897,8 @@ Strangulation des Kindes.
 .. _m-nabelschnurvorfall:
 
 Maßnahmen: Nabelschnurvorfall
-^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Basismaßnahmen
     -   **Zeitkritisch!**
     -   **Notarztnachforderung nur wenn Stabilisierung notwendig**

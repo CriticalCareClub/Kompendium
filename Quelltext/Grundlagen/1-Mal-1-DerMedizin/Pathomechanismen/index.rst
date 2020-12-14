@@ -80,8 +80,6 @@ i.d.R. an die betreffende Organbezeichnung angehängt wird:
 -   Rhinitis: "Schnupfen"
 -   Otitis: Ohrenentzündung
 
--  …
-
 
 
 .. index::

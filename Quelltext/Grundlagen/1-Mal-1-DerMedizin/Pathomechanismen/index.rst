@@ -88,6 +88,7 @@ i.d.R. an die betreffende Organbezeichnung angehängt wird:
     single: Ischämie
 
 .. _Thema-ischaemie:
+.. _Ischaemie:
 
 ********
 Ischämie

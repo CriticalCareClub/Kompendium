@@ -357,6 +357,12 @@ Kreislaufzentrum befindet besteht dabei akute **Lebensgefahr**!
 Ein Schlaganfall kann ischämisch oder durch eine Blutung entstehen
 ******************************************************************
 
+.. index::
+    single: Insult; ischämischer
+    single: Insult; trockener
+    single: Insult; hämorrhagischer
+    single: Insult; blutiger
+
 
 Arten
 =====
@@ -365,22 +371,28 @@ Arten
 
     .. sidebar:: Insult: Arten
 
-        -   "Trockener" Insult
-        -   "Blutiger" Insult
+        -   Ischämischer ("trockener") Insult
+        -   Hämorrhagischer ("blutiger") Insult
 
 Grundsätzlich gibt es 2 Formen, die aber vor Ort nicht unterschieden
 werden können:
 
--   *:dfn:`Trockener Insult` :index:`\ <! Trockener Insult>`*:
-    *Ischämie* :index:`\ <Ischämie!trockener Insult>`.
+-   :dfn:`Ischämischer Insult` ("trocken"):
+    :index:`\ <Ischämie!trockener Insult>`.
     Verschluss eines Hirngefäßes mit
-    anschließendem Absterben der versorgten Hirnregion
+    anschließendem Absterben der versorgten Hirnregion.
+    Vgl. :ref:`Ischaemie`.
 
--   *:dfn:`Blutiger Insult` :index:`\ <! Blutiger Insult>`*:
+-   :dfn:`Hämorrhagischer Insult` ("blutig"):
     *Hirnblutung*, z. B. durch
-    Platzen eines Aneurysmas eines Hirngefäßes, kann spontan oder
+    Ruptur eines Aneurysmas eines Hirngefäßes,
+    kann spontan oder
     aufgrund eines Traumas auftreten.
 
+.. index::
+    single: TIA
+    single: Transitorisch-Ischämische Attacke
+    single: Attacke; Transitorisch-Ischämische -
 
 .. _Thema-tia:
 
@@ -394,7 +406,7 @@ TIA
         -   Transitorisch-Ischämische Attacke.
         -   Symptome < 24 h.
 
-:dfn:`TIA` :index:`\ <! TIA>` ist die Abkürzung für
+:dfn:`TIA` :index:`\ <TIA>` ist die Abkürzung für
 *Transitorisch-Ischämische Attacke*.
 Von einer TIA spricht man,
 wenn die Symptome innerhalb von 24 Stunden vergehen.
@@ -419,13 +431,13 @@ Symptome
         -   Sehstörungen
         -   Bewusstseinsstörungen
         -   Kopfschmerzen
-        -   Hirndruckzeichen
+        -   Hirndruckzeichen:
 
-        -    Übelkeit, Erbrechen
-        -    **3** Bewusstseinsstörungen
-        -    **C** HF\ ↓, RR\ ↑
-        -    **D** Ungleichweite Pupillen, verlangsamte Lichtreaktion
-        -    Strecksynergismen
+            -   Übelkeit, Erbrechen
+            -   **3** Bewusstseinsstörungen
+            -   **C** HF\ ↓, RR\ ↑
+            -   **D** Ungleichweite Pupillen, verlangsamte Lichtreaktion
+            -   Strecksynergismen
 
 Die diversen *Funktionsareale* (Sprachzentren, Sehzentrum, motorische
 Zentren, …) sind in verschiedenen Regionen des Hirns verteilt.

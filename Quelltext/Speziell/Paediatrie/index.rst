@@ -29,6 +29,10 @@ gesetzte Handlungen zu verstehen, sondern auch hinsichtlich ihrer
 Anatomie und Physiologie.
 Die Tabelle :ref:`Table-altersgruppen-kinder` zeigt eine
 Übersicht über die Einteilung von Kindern nach Altersgruppen.
+In der Literatur kommt es gelegentlich zu abweichenden Definitionen.
+So ist z. B. in den ERC-Richtlinien
+zur Reanimation ein Neugeborenes nur bis unmittelbar
+nach der Geburt als solches klassifiziert.
 
 .. note::
 
@@ -36,7 +40,7 @@ Die Tabelle :ref:`Table-altersgruppen-kinder` zeigt eine
 
 
 
-.. table:: Übersicht: Altersgruppen. In der Literatur kommt es gelegentlich zu abweichenden Definitionen. So ist z. B. in den ERC-Richtlinien zur Reanimation ein Neugeborenes nur bis unmittelbar nach der Geburt als solches klassifiziert.
+.. list-table:: Übersicht: Altersgruppen.
     :header-rows: 1
     :name: Table-altersgruppen-kinder
 

@@ -1,6 +1,6 @@
 
 *****************************
-``3`` Bewusstsein (Alertness)
+③ Bewusstsein (Alertness)
 *****************************
 
 ..
@@ -15,7 +15,7 @@
 
           -  Bewusstseinsgrad (quantitativ)
 
-          -  Orientierung (qualitativ) → ``D``
+          -  Orientierung (qualitativ) → Ⓓ
 
 *Bewusstsein ist ein Oberbegriff für u. a.
 Wachheit,
@@ -37,7 +37,7 @@ Bei der Diagnostik beurteilt man den **Bewusstseinsgrad**
 und die **Orientierung**
 (**Qualität**; *Wie gut funktioniert das vorhandene Bewusstsein?* Zeitlich, örtlich,
 zur Situation und zur Person).
-Die Orientierung wird unter Punkt ``D`` beurteilt.
+Die Orientierung wird unter Punkt Ⓓ beurteilt.
 
 
 
@@ -211,4 +211,4 @@ Typische Maßnahmen
 
     -   Absaugbereitschaft!
 
--   Stabile Seitenlage nach ``B``
+-   Stabile Seitenlage nach Ⓑ

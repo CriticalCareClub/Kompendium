@@ -188,14 +188,14 @@ Das Herz verfügt über ein **Reizleitungssystem**
 (s. :ref:`Thema-reizleitungssystem`).
 Das Reizbildungs- und
 -leitungssystem ist an sich hirarchisch angeordnet:
-An erster Stelle steht der **Sinusknoten** ``1`` im
+An erster Stelle steht der **Sinusknoten** ① im
 rechten Vorhof:
 Er ist im Normalfall der Impulsgeber
 und hat eine Eigenfrequenz von ca. 60—100/min
 (*natürlicher Schrittmacher*, :dfn:`Sinusrhythmus`).
 Eine Erregung des
 Sinusknotenn wird über den rechten Vorhof zum :dfn:`AV-Knoten`
-``2`` geleitet, dort gebündelt,
+② geleitet, dort gebündelt,
 und über das *His-Bündel*,
 in Richtung der Kammern weitergeleitet.
 Im nächsten Schritt gelangen die Impulse über die Tawara-\ *Schenkel* in

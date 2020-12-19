@@ -84,16 +84,16 @@ ABCDE
 *****
 
 
-``2``
+②
     Evtl. ist der Patient bleich bzw. blass, vielleicht auch
     kaltschweissig. Mitunter wirken die Patienten unruhig und ängstlich.
 
-``4``
+④
     Der Patient klagt über  Atemnot (*Dyspnoe*). Oft
     berichten die Patienten, dass sie nur mehr im Sitzen Luft bekommen,
     sie können nicht flach liegen ( Orthopnoe [#236]_).
 
-``B``
+Ⓑ
     Die Atemfrequenz ist oft erhöht (*Tachypnoe*), oft besteht ein
     *Hustenreiz*. Die  Sauerstoffsättigung kann
     deutlich erniedrigt sein.
@@ -103,7 +103,7 @@ ABCDE
     den Lungenkreislauf* kann es zu einem Lungenödem bis hin zum
      *schweren kardialen Lungenödem* kommen.
 
-``C``
+Ⓒ
     Die Herzfrequenz ist oft erhöht (*Tachykardie*). Grundsätzlich ist
     der Blutdruck vermindert (*Hypotonie*).
     Allerdings kann ein erhöhter
@@ -147,19 +147,19 @@ ABCDE
     Stiegenhaus oder im Auto reanimationspflichtig werden.
 
 ..
-    ``2``
+    ②
         Blass, evtl. kaltschweißig. Evtl. agitiert
 
-    ``4``
+    ④
         *Dyspnoe*, besonders im Liegen → Sitzende
         Position!
 
         Evtl.  schweres kardiales Lungenödem
 
-    ``B``
+    Ⓑ
         *Tachypnoe*,  Dyspnoe
 
-    ``C``
+    Ⓒ
         *Tachykardie*, *Hypotonie* oder *Hypertonie* (RR kann Auslöser
         sein). Evtl. Zeichen eines   kardiogenen Schocks
 
@@ -187,31 +187,31 @@ ABCDE
 SAMPLER
 *******
 
-``S``
+🅂
     Es werden meist viele Medikamente genommen, sowohl für die
     Herzinsuffizienz, als auch für die Begleiterkrankungen.
 
-``P``
+🄿
     Die Herzinsuffizienz ist als chronische Erkrankung bekannt,
     entsprechende Befunde vorhanden. Oft bestehen Erkrankungen oder gab
     es Ereignisse, welche den Herzmuskel geschädigt haben, wie z. B.
     diverse Herzerkrankungen, frühere Herzinfarkte, Bluthochdruck, u.a.
 
-``R``
+🅁
     Auslöser für akute Beschwerden können alle Umstände sein, welche vom
     Herz eine ungewohnte Mehrarbeit erfordern: Darunter fallen z. B.
     Infektionen und andere Erkankungen, Stress und ein plötzlicher
     Blutdruckanstieg.
 
 ..
-    ``S``
+    🅂
         Viele
 
-    ``P``
+    🄿
         | Herzinsuffizienz bereits bekannt,
         | Befunde, Bluthochdruck, Herzerkrankungen, frühere Herzinfarkte
 
-    ``R``
+    🅁
         Ungewohnte Belastung: Infekte, Erkrankungen, Blutdruckanstieg
 
 .. _proc-MI50090C:

@@ -30,10 +30,10 @@ Die vitale Bedrohung kann sich aus drei wesentlichen Säulen ergeben:
 
 -   Massive :dfn:`3ABC-Störung`: Massive
     Störungen von Vitalfunktionen 1. Ordnung
-    (Bewußtsein ``3``,
+    (Bewußtsein ③,
     Atemweg ``A``,
-    Atmung ``B``,
-    Kreislauf ``C``)
+    Atmung Ⓑ,
+    Kreislauf Ⓒ)
 
 -   :dfn:`Alarmsymptome`:
     Zu den Alarmsymptomen gehören u.a.
@@ -111,12 +111,12 @@ Bei **absolut zeitkritischen Patienten**,
 bei denen bereits die ``ABC``\ -Einschätzung
 ergibt,
 dass ein Transport nicht aufschiebbar ist,
-kann schon **nach dem Punkt** ``C``
+kann schon **nach dem Punkt** Ⓒ
 **eine Transportentscheidung**
 (Spital, Notarzt-Rendez-vous, …,
 vgl. :ref:`Thema-PamStrategie`)
 getroffen werden.
-Die Maßnahmen von ``D`` und ``E`` sollen dann,
+Die Maßnahmen von Ⓓ und ``E`` sollen dann,
 sofern möglich,
 während des Transportes erfolgen.
 Diese Einschätzung setzt jedoch ein hohes Maß an Erfahrung voraus und ist auch

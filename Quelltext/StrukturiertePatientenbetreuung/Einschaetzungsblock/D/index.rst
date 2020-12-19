@@ -1,5 +1,5 @@
 ******************************
-``D`` Neurologie (Disability)
+Ⓓ Neurologie (Disability)
 ******************************
 
 
@@ -115,9 +115,9 @@ Hirndruckzeichen
 
 .. sidebar:: Hirndruckzeichen
 
-    -   ``3`` Bewusstseinsstörungen
-    -   ``4`` Übelkeit, Erbrechen
-    -   ``C`` HF ↓, RR ↑
+    -   ③ Bewusstseinsstörungen
+    -   ④ Übelkeit, Erbrechen
+    -   Ⓒ HF ↓, RR ↑
     -   Ungleichweite Pupillen, verlangsamte Lichtreaktion
     -   Strecksynergismen
 
@@ -136,11 +136,11 @@ Zusammen mit anderen Befunden aus den vorangegangenen Schritten des
 Einschätzungsblockes können typische Kombinationen von Symptomen
 festgestellt werden:
 
--   ``3`` *Bewusstseinsstörungen*
--   ``4`` *Übelkeit*
+-   ③ *Bewusstseinsstörungen*
+-   ④ *Übelkeit*
     und Erbrechen, meist in Verbindung mit Kopfschmerzen
--   ``B`` *Atmung*: Evtl. unregelmäßig
--   ``C`` *Kreislauf*: Der Patient ist *hyperton*, aber *bradykard*
+-   Ⓑ *Atmung*: Evtl. unregelmäßig
+-   Ⓒ *Kreislauf*: Der Patient ist *hyperton*, aber *bradykard*
     (*HF ↓, RR ↑*), der Puls ist
     langsam, aber äußerst stark spürbar (*Druckpuls*).
 -   *Pupillen*: Typisch für das späte Stadium ist die *Ungleichheit der

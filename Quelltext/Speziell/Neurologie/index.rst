@@ -283,10 +283,10 @@ Hirndruckzeichen
 
     .. sidebar:: Hirndruckzeichen
 
-        -   ``3`` Bewusstseinsstörungen
-        -   ``4`` Übelkeit, Erbrechen
-        -   ``C`` HF\ ↓, RR\ ↑
-        -   ``D`` Ungleichweite Pupillen, verlangsamte Lichtreaktion
+        -   ③ Bewusstseinsstörungen
+        -   ④ Übelkeit, Erbrechen
+        -   Ⓒ HF\ ↓, RR\ ↑
+        -   Ⓓ Ungleichweite Pupillen, verlangsamte Lichtreaktion
         -   Strecksynergismen
 
 **Hirndruckzeichen** :index:`\ <Hirndruckzeichen>` deuten auf
@@ -299,17 +299,17 @@ Hirn drück sich selbst ab."*).
 
 Es kommt es zu einer typischen Kombination von Symptomen:
 
--   ``3`` *Bewusstseinsstörungen*
+-   ③ *Bewusstseinsstörungen*
 
--   ``4`` *Übelkeit* und Erbrechen, meist in Verbindung mit Kopfschmerzen
+-   ④ *Übelkeit* und Erbrechen, meist in Verbindung mit Kopfschmerzen
 
--   ``B`` *Atmung*: Evtl. unregelmäßig
+-   Ⓑ *Atmung*: Evtl. unregelmäßig
 
--   ``C`` *Kreislauf*: Der Patient ist *hyperton*, aber *bradykard*
+-   Ⓒ *Kreislauf*: Der Patient ist *hyperton*, aber *bradykard*
     (*HF\ ↓, RR\ ↑*), der Puls ist
     langsam, aber äußerst stark spürbar (*Druckpuls*).
 
--   ``D`` *Pupillen*:
+-   Ⓓ *Pupillen*:
     Typisch für das späte Stadium ist die *Ungleichheit
     der Pupillen* (Anisokorie), bzw. eine verlangsamte Lichtreaktion.
 

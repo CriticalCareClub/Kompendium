@@ -300,7 +300,7 @@ Beschreibung
         -   Beurteilung:
 
             -   Bewusstseinsgrad (quantitativ)
-            -   Orientierung (qualitativ) → ``D``
+            -   Orientierung (qualitativ) → Ⓓ
 
 .. admonition:: Defintion
 

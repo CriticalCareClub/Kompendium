@@ -116,23 +116,23 @@ ABCDE
             ↓ → Akute Lebensgefahr
 
 
-``1``
+①
     Kalte Temperaturen oder Allergene (Gräser, Pollen, …) begünstigen
     einen Asthma-Anfall.
 
-``2``
+②
     Der Patient nimmt meist automatisch und unbewusst eine Position ein,
     die seine Atemhilfsmuskulatur unterstützt: Er sitzt aufrecht und
     stützt sich oft nach vorne oder hinten ab.
 
-``3``
+③
     Im schweren Anfall kann es zu |symbol-RedFlag|\
      *Bewusstseinsstörungen* kommen.
 
-``4``
+④
     Das Leitsymptom ist die Atemnot.
 
-``B``
+Ⓑ
     Die Atemfrequenz ist erhöht (*Tachypnoe*), die |symbol-RedFlag|\
     *Sauerstoffsättigung* kann erniedrigt sein.
     Bei einer manifesten Hypoxie kann eine |symbol-RedFlag|\  *Zyanose*
@@ -163,7 +163,7 @@ ABCDE
     Es besteht die Gefahr der |symbol-RedFlag|\  *Erschöpfung der
     Atemmuskulatur* und einer reduzierten Atemarbeit.
 
-``C``
+Ⓒ
     Die Herzfrequenz ist meist erhöht (*Tachykardie*).
 
 ``=``
@@ -199,16 +199,16 @@ SAMPLER
     Patienten mit allergischem Asthma haben häufig Allergien gegen
     Gräser, Pollen, Tierhaare usw.
 
-``M``
+🄼
     Oft werden Sprays bzw. Inhalatoren zur Dauertherpaie und für den
     Anfall eingesetzt. Manche Medikamente, insbesonders
     Schmerzmedikamente, können Anfälle auslösen. [#227]_ Nahm der Patient
     in letzter Zeit (neue) Medikamente?
 
-``P``
+🄿
     Meist ist Asthma vorbekannt.
 
-``L``
+🄻
     Letzte Spray-Einnahme erfragen!
 
 ``E``

@@ -82,12 +82,12 @@ ABCDE
 
  
 
-``2``
+②
     Evtl. können  **Schockzeichen** vorliegen (Blässe,
     Kaltschweißigkeit, …). Manche Patienten nehmen eine Schonhaltung
     aufgrund der Schmerzen ein.
 
-``4``
+④
     Je nach Ort des Aneurysmas klagt der Patient über
      *Brust-*, *Bauch-* oder *Rückenschmerzen*,
     diese werden oft
@@ -96,7 +96,7 @@ ABCDE
     Aortenaneurysmen kommt es häufig zu Symptomen eines
      *Akuten Koronarsyndroms* (ACS, :ref:`Thema-Acs`).
 
-``C``
+Ⓒ
     Je nach Umfang der Blutung kann der Patient völlig *kreislaufstabil*
     sein oder  **Schockzeichen** zeigen
     (hypovolämischer Schock). Herzfrequenz und Blutdruck können
@@ -109,14 +109,14 @@ ABCDE
     Schwellung bei einem abdominellen Aortenaneurysma im Bauch getastet
     werden.
 
-``2``
+②
     Evtl.  **Schockzeichen**, Schohnhaltung
 
-``4``
+④
      **Brust-, Bauch- oder Rückenschmerzen**; evtl.
     Symptome eines  **ACS**
 
-``C``
+Ⓒ
     Kreislaufstabil, evtl.  **Schockzeichen**
 
 ``E``
@@ -125,24 +125,24 @@ ABCDE
 SAMPLER
 =======
 
-``S``
+🅂
     Siehe ABCDE. Evtl. haben die ersten Beschwerden vor einigen Tagen
     oder Wochen z. B. in Form von leichten Rückenschmerzen begonnen.
 
-``P``
+🄿
     Mitunter ist bereits das Aneurysma bekannt (Befunde, Arztbriefe!).
 
-``R``
+🅁
     Besonders betroffen sind Patienten mit systemischen
     Kreislauferkrankungen (Hypertonie, erhöhte Blutfette, …), sowie
     Patienten mit einer krankhaften Bindegewebsschwäche (Z. B.
     Marfan-Syndrom).
 
-``S``
+🅂
     Siehe ABCDE; evtl. Rückenschmerzen
 
-``P``
+🄿
     Aneurysma evtl. vorbekannt
 
-``R``
+🅁
     Kreislauferkrankungen, Bindegewebsschwäche

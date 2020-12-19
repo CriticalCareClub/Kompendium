@@ -78,7 +78,7 @@ ABCDE: Hyperventilationssyndrom
             Normal keine vitale Bedrohung (Differentialdiagnosen bedenken!).
 
 
-``1``
+①
     Oft kommt es bei vornehmlich jugendlichen Besuchern von
     Pop-Konzerten u.ä. zu Erregungszuständen, welche zum
     Hyperventilationssysdrom führen können. Daneben kann jedoch jede
@@ -86,28 +86,28 @@ ABCDE: Hyperventilationssyndrom
     entsprechender Auslöser sein, siehe **E**. Das Schaffen bzw.
     Aufsuchen einer ruhigen Umgebung ist wichtig!
 
-``2``
+②
     Häufig kann man Zeichen psychischer Erregtheit wahrnehmen: Wildes
     gestikulieren, Weinkrämpfe usw. Klassisch ist die sog.
     *Pfötchenstellung*: Die Arme sind angezogen und Handhaltung
     erinnert an Pfoten eines Tieres.
 
-``3``
+③
     Wird die Hyperventilation nicht rechtzeitig beendet, kann es zur
     Eintrübung bis hin zur Bewusstlosigkeit kommen.
 
-``4``
+④
     Das Leitsymptom ist die *Atemnot*. Durch das
     Elektrolyt-Ungleichgewicht kommt es zuerst zu *Schwindelgefühlen*,
     etwas später zu einem *Kribbeln* in den Fingern. In weiterer Folge
     zeigen sich tonische *Krämpfe* (*Hyperventilationstetanie*).
 
-``B``
+Ⓑ
     Die Patienten beklagen *Atemnot*, obwohl die O2-Zufuhr nicht
     beeinträchtigt und das Blut maximal gesättigt ist (SpO2 von 100%).
     Sie haben eine *tiefe und schnelle Atmung* (*Tachypnoe*).
 
-``C``
+Ⓒ
     Herzfrequenz und Blutdruck können in Folge der Erregung etwas erhöht
     sein.
 

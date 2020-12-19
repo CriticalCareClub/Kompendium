@@ -178,10 +178,10 @@ Schwindel …). Vgl. [Table-hxpertension-krise-notfall].
 ABCDE
 =====
 
-``2``
+②
     Oft hat der Patient einen hochroten Kopf.
 
-``4``
+④
     Ein erhöhter Blutdruck alleine ist oft symptomlos und wird vom
     betreffenden Patienten oft gar nicht bemerkt. Häufig ist
     *Nasenbluten* (*Epistaxis*) das erste Zeichen einer
@@ -194,10 +194,10 @@ ABCDE
      Erbrechen und
      Schwindel.
 
-``B``
+Ⓑ
     Evtl. kommt es aufgrund der kardialen Belastung zur  **Atemnot**.
 
-``C``
+Ⓒ
     In sehr schweren Fällen,
     v. a. wenn eine kardiale Grunderkrankung besteht,
     können sich Symptome eines  kardiogenen
@@ -205,18 +205,18 @@ ABCDE
     Es ist eine deutliche Blutdruckerhöhung
     (Richtwert RR > 200 mm Hg bzw. deutliche individuelle Erhöhung) festzustellen
 
-``2``
+②
     Hochroter Kopf
 
-``4``
+④
     Nasenbluten,  Kopfschmerzen, |symbol-RedFlag|\
     **Sehstörungen**,   Brustschmerzen, Übelkeit,
      Erbrechen,  Schwindel
 
-``B``
+Ⓑ
     Evtl.  Dyspnoe
 
-``C``
+Ⓒ
     Evtl.  kardiogener Schock RR ↑
     (RichtwertRR >  bzw. deutliche individuelle Erhöhung)
 
@@ -227,25 +227,25 @@ SAMPLER
 
     .. sidebar:: SAMPLER
 
-        ``S``
+        🅂
             Siehe ABCDE.
 
-        ``M``
+        🄼
             Blutdrucksenkende Medikamente. Neue Verschreibungen? Einnahmefehler?
 
-        ``P``
+        🄿
             (Chronische) arterielle Hypertonie, Blutdruckprotokoll
 
-        ``L``
+        🄻
             Letzte Medikamenteneinnahme, letzte ärztliche Kontrollen?
 
         ``E``
             Ursachen für Einnahmefehler?
 
-``S``
+🅂
     Siehe ABCDE.
 
-``M``
+🄼
     Meistens ist bereits eine medikamentöse Einstellung durch den
     Hausarzt mittels eines oder Kombination mehrerer Medikamente
     erfolgt [#235]_.
@@ -256,12 +256,12 @@ SAMPLER
     Ebenso kann es nach einer Medikamentenumstellung
     zur Blutdruckentgleisungen kommen.
 
-``P``
+🄿
     Eine chronische arterielle Hypertonie ist oft schon bekannt und der
     Patient befindet sich deswegen bereits in Behandlung. Oft führt der
     Patient ein *Blutdruckprotokoll*.
 
-``L``
+🄻
     Wann war die letzte Medikamenteneinnahme bzw. die letzten ärztlichen
     Kontrollen?
 

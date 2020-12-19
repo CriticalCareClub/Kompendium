@@ -8,7 +8,7 @@
 .. _Thema-Breathing:
 
 ************************
-``B`` Atmung (Breathing)
+Ⓑ Atmung (Breathing)
 ************************
 
 

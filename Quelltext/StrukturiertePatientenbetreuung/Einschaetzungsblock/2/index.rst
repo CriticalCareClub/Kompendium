@@ -1,6 +1,6 @@
 
 ***************************************************************************
-``2`` Eindruck und HWS-Stabilisierung (General Impression + Cervical Spine)
+② Eindruck und HWS-Stabilisierung (General Impression + Cervical Spine)
 ***************************************************************************
 
 

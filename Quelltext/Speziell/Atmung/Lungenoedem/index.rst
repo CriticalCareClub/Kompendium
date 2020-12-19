@@ -82,20 +82,20 @@ ABCDE: Lungenödem
         **…**
             Beidseitige Beinödeme
 
-``1``
+①
     Toxisches Lungenödem: Besonders auf Umgebungssicherheit achten:
     Offene Lacke, Lösungsmittel, Dämpfe, Chemikalien, Warnschilder, ….
 
-``2``
+②
     Der Patient sitzt, oft sind die Pölster im Bett aufgetürmt.
 
-``4``
+④
     Atemnot
 
 ``A``
     Es kann zu schaumigem Auswurf kommen.
 
-``B``
+Ⓑ
     Das Leitsymptom ist das |symbol-RedFlag|\  *brodelnde
     Atemgeräusch*, welches in schweren Fällen bereits ohne Hilfsmittel
     hörbar und typisch für das Lungenödem ist. Es klingt, als würde
@@ -109,7 +109,7 @@ ABCDE: Lungenödem
     (Orthopnoe),
     im Liegen verschlechtert sich die Atemnot deutlich.
 
-``C``
+Ⓒ
     Die Herzfrequenz und der Blutdruck können in jede Richtung verändert
     sein (Herzrhythmusstörungen oder ein hypertensiver Notfall können
     ein kardiales Lungenödem auslösen!). Im Verlauf kann es zu einem
@@ -157,11 +157,11 @@ SAMPLER: Lungenödem
             Exposition? Ertrinkungsunfall? Erschwerender Faktor beim
             vorbestehender Herzerkrankung (Infekt, …)?
 
-``M``
+🄼
     Herzpatienten nehmen oft zahlreiche Medikamente ein (Blutdruck,
     Entwässerung, Blutfette, …).
 
-``P``
+🄿
     Häufig berichten die Patienten über Herz-Kreislauferkrankungen wie
     z. B. Herzinsuffizienz, Z.n. Herzinfarkt, Bluthochdruck oder
     Herzklappenerkrankungen.

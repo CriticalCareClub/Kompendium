@@ -26,7 +26,7 @@ werden
 Nase und Hals auch *abgetastet*.
 Weiters werden die mit freiem Ohr hörbaren *Atemgeräusche*
 beurteilt.
-Diese sind auch für den folgenden Punkt ``B`` (Atmung) relevant.
+Diese sind auch für den folgenden Punkt Ⓑ (Atmung) relevant.
 
 .. index::
     single: Atemweg, gefährdeter
@@ -63,7 +63,7 @@ Typische Maßnahmen
 
 -   Überstrecken des Kopfes
 -   Esmarch-Handgriff
--   Stabile Seitenlage nach ``B``
+-   Stabile Seitenlage nach Ⓑ
 -   Absaugung
 -   Spezielle Maßnahmen bei Atemwegsverlegung
 -   Standardmaßnahmen bei vital bedrohten Patienten

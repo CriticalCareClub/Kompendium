@@ -82,10 +82,10 @@ ABCDE
 
     .. sidebar:: ABCDE
 
-        ``3``
+        ③
             Leidend, evtl. kaltschweißig, blass
 
-        ``4``
+        ④
              *Akuter, nicht atemabhängiger, Brustschmerz*
             (brennend, stechend; Hinter dem Brustbein, evtl. *Ausstrahlung* in
             Kiefer, (linken) Arm, in Rücken) und  *Atemnot*,
@@ -93,10 +93,10 @@ ABCDE
 
             Typisch untypisch: *Oberbauchschmerz*; "stummer Infarkt"
 
-        ``B``
+        Ⓑ
              *Atemnot*, evtl.  Zyanose
 
-        ``C``
+        Ⓒ
             Puls evtl. unregelmäßig, Blutdruck in jede Richtung verändert, evtl.
             Zeichen eines  kardiogenen Schocks
 
@@ -175,23 +175,23 @@ SAMPLER beim akuten Koronarsyndrom
 
     .. sidebar:: SAMPLER
 
-        ``S``
+        🅂
             Siehe ABCDE
 
-        ``M``
+        🄼
             Nitroglycerin: Pflaster, Kapseln, Spray
 
-        ``P``
+        🄿
             Koronare Herzkrankheit (KHK)
 
         ``E``
             Körperliche Anstrengung
 
 
-``S`` — Symptome
+🅂 — Symptome
     Siehe ABCDE
 
-``M`` — Medikation
+🄼 — Medikation
     **Nitroglycerin** wird zur Erweiterung der Koronargefäße
     von KHK-Patienten eingenommen. Dies kann entweder mittels eines
     Pflasters (Nitro-Pflaster), über Kapseln oder mittels eines Sprays
@@ -199,7 +199,7 @@ SAMPLER beim akuten Koronarsyndrom
     erfolgen. Herzkranke Patienten nehmen daneben oft noch viele andere
     Medikamente ein.
 
-``P`` — Patientenhistorie
+🄿 — Patientenhistorie
     Bei den meisten Patienten ist die Angina Pectoris schon bekannt,
     bzw. es besteht eine *koronare Herz-Krankheit* (*KHK*). Die KHK ist
     eine Erkrankung der Herzkranzgefäße, diese werden durch Ablagerung

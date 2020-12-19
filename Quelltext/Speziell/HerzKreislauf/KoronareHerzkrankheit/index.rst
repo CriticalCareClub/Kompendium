@@ -116,22 +116,22 @@ SAMPLER bei der KHK
 
     .. sidebar:: SAMPLER
 
-        ``S``
+        🅂
             Siehe ABCDE
 
-        ``M``
+        🄼
             ASS,
             Nitroglycerin,
             Molsidomin,
             Isosorbiddinitrat
 
-        ``P``
+        🄿
             Befunde:
             Koronarangiographie,
             Ergometrie,
             Echokardiographie
 
-        ``R``
+        🅁
             Rauchen,
             Arterielle Hypertonie,
             Hyperlipidämie,
@@ -139,10 +139,10 @@ SAMPLER bei der KHK
             Positive Familienanamnese,
             Alter,
 
-``S`` — Symptome
+🅂 — Symptome
     Atemnot bei Anstrengung
 
-``M`` — Medikation
+🄼 — Medikation
     Niedrigdosierte Acetylsalicylsäure
     (ASS; z. B. ThromboASS™, HerzschutzASS™)
     gehört zur Standardmedikation
@@ -155,7 +155,7 @@ SAMPLER bei der KHK
     der glatten Gefäßmuskulatur auswirken sind
     Molsidomin und Isosorbiddinitrat (Isoket™).
 
-``P`` — Patientenhistorie
+🄿 — Patientenhistorie
     Eine KHK ist häufig schon bekannt.
     Entscheidend sind Koronarangiographie-
     und Ergometer-Untersuchungen ("Belastungs-EKG"),
@@ -164,7 +164,7 @@ SAMPLER bei der KHK
     Begleit- und Folgeerkrankungen sind häufig,
     z. B. eine ischänische Kardiomyapthie.
 
-``R`` — Risikofaktoren
+🅁 — Risikofaktoren
     Klassische Risikofaktoren sind:
 
     -   Rauchen

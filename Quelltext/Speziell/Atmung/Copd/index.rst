@@ -128,29 +128,29 @@ einem Atemstillstand kommen.
 
     .. sidebar:: 1234ABCDE
 
-        ``1``
+        ①
             Kalte Umgebung
 
-        ``2``
+        ②
             Atemhilfsmuskulatur, Anstrengung beim Atmen, ängstlich
 
-        ``3``
+        ③
             Evtl. **|symbol-RedFlag|**\ Bewusstseinsstörungen
 
-        ``4``
+        ④
             Atemnot
 
         ``A``
-            Siehe ``B``
+            Siehe Ⓑ
 
-        ``B``
+        Ⓑ
             Atemnot! Ausatmung erschwert, Husten Tachypnoe, |symbol-RedFlag|\  Zyanose;
 
             Brummendes, pfeifendes Atemgeräusch
 
             SpO₂ chronisch niedrig (~ 90%): Normalwert gilt nicht!
 
-        ``C``
+        Ⓒ
             HF ↑, RR ↑
 
         ``=``
@@ -159,24 +159,24 @@ einem Atemstillstand kommen.
         ``…``
             Evtl. erhöhte Körpertemperatur
 
-``1`` Szene
+① Szene
     Evtl. kalte Umgebung (kalte Luft führt zur Verengung der Bronchien)
 
-``2`` Ersteindruck
+② Ersteindruck
     Einsatz der Atemhilfsmuskulatur, Mühe beim Atmen, evtl.
     Heimsauerstoff, oft wirkt der Patient ängstlich.
 
-``3`` Bewusstsein
+③ Bewusstsein
     Bei schweren Anfällen kann es aufgrund der Hypoxie zu
     |symbol-RedFlag|\ **Bewusstseinsstörungen** kommen.
 
-``4`` Hauptbeschwerde
+④ Hauptbeschwerde
     Atemnot
 
 ``A`` Atemweg
-    Siehe ``B``
+    Siehe Ⓑ
 
-``B`` Atmung
+Ⓑ Atmung
     Je nach Schweregrad kommt es zu Zeichen einer Atemwegsverlegung der
     *unteren* Atemwege (Obstruktion, durch Verengung der Bronchien und
     Schleimproduktion) und Ateminsuffizienz:
@@ -197,7 +197,7 @@ einem Atemstillstand kommen.
     kann es zu |symbol-RedFlag|\  *Bewusstseinsstörungen kommen*
     (*CO₂-Narkose*)!
 
-``C`` Kreislauf
+Ⓒ Kreislauf
     Evtl. tachkard und hyperton
 
 ``=`` Beurteilung
@@ -216,24 +216,24 @@ SAMPLER: COPD
 
     .. sidebar:: SAMPLER
 
-        ``M``
+        🄼
             Inhalatoren, evtl. Heimsauerstoff.
 
-        ``P``
+        🄿
             COPD vorbekannt
 
-        ``L``
+        🄻
             Letzte Spray-Einnahme?
 
-``M`` Medikation
+🄼 Medikation
     Inhalatoren bzw. Sprays zur Dauer- und Akuttherapie, Heimsauerstoff.
     Häufig Kortisonpräparate; bei vorbekanntem Infekt wurden oft schon
     Antibiotika verschrieben.
 
-``P`` Krankengeschichte
+🄿 Krankengeschichte
     Eine COPD ist normalerweise vorbekannt.
 
-``L`` Letztes
+🄻 Letztes
     Letzte Spray-Einnahme?
 
 

@@ -82,16 +82,16 @@ ABCDE: Pulmonalembolie
             Venöser Verschluss?
 
 
-``1``
+①
     Lässt die Szenarie Hinweise auf eine Bettlägrigkeit (Pflegebett, …)
     erkennen? Gibt es Hinweise auf eine Fernreise (herumstehende Koffer,
     …)?
 
-``2``
+②
     Kann man beim Patienten Hinweise auf Bettlägrigkeit (Alter,
     Gipsverband, körperlicher Zustand, …) erkennen?
 
-``4``
+④
     Das Leitsymptom ist die |symbol-RedFlag|\  *Atemnot*, eventuell in
     Kombination mit (atemabhängigen) |symbol-RedFlag|\  Thorax- oder
     Rückenschmerzen.
@@ -99,11 +99,11 @@ ABCDE: Pulmonalembolie
     Eine Unterscheidung zwischen einer Lungenembolie und einem Akuten
     Koronarsyndrom ist oft nicht möglich.
 
-``B``
+Ⓑ
     Meist atmet der Patient schnell (Tachypnoe) und klagt über einen
     *atemabhängigen |symbol-RedFlag|\  Thoraxschmerz*.
 
-``C``
+Ⓒ
     Es kommt zu einer *Tachykardie* und Angstgefühlen, oft findet man
     deutlich hervortretende, *gestaute Venen* am Hals aufgrund des
     Blutrückstaus. Evtl. kann man auch einen *arrhythmischen Puls*
@@ -144,12 +144,12 @@ SAMPLER: Pulmonalembolie
             Schwangerschaft, Rauchen, Verhütungspille
 
 
-``M``
+🄼
     Bettlägrigen Patienten werden zur Thromboseprophylaxe oft
     gerinnungshemmende Medikamente verschrieben (*Thrombosespritzen*).
     Wurden diese genommen?
 
-``P``
+🄿
     Oft ist bei den Patienten *Vorhofflimmern* als chronische Erkrankung
     bekannt. Patienten, welche bereits schon einmal eine Thrombose oder
     eine Embolie hatten, haben ein erhöhtes Risiko neuerlich daran zu
@@ -159,7 +159,7 @@ SAMPLER: Pulmonalembolie
 ``E``
     Fernreise? Langes Sitzen/Liegen? Wenig getrunken?
 
-``R``
+🅁
     *Immobilisation*, z. B. durch Bettlägrigkeit, Gipsverbände oder lange
     Reisen, innerhalb der letzten 4 Wochen, erhöht das Risiko einer
     Thrombose und damit auch das einer Lungenembolie. Ebenso erhöht eine

@@ -5,9 +5,8 @@
 Herzrhythmusstörungen (#47)
 ###########################
 
-Herzrhythmusstörungen sind,
-wenig überraschend,
-Störungen des regulären (Sinus-) Herzrhythmus.
+Herzrhythmusstörungen sind
+Störungen des regulären Herzrhythmus.
 
 Herzrhythmusstörungen sind häufig, allerdings auch oft sehr
 unterschiedlich in ihrer Bedeutung: Manche sind chronisch und eher wenig
@@ -43,12 +42,18 @@ ihren Ursachen
 oder nach ihrer klinischen Auswirkung
 (Regelmäßigkeit, Frequenz)
 unterscheiden.
-Eine Sonderform nimmt die *Entkoppelung der
-elektrischen und der mechanischen Herzaktion* ein,
+Eine Sonderform nimmt die
+*Entkoppelung der elektrischen und der mechanischen Herzaktion* ein,
 wenn nicht jedem elektrischen Impuls ein Herzschlag folgt.
-Dies wird als :dfn:`elektromechanische Dissoziation` bezeichnet
+Dies wird als
+:dfn:`elektromechanische Dissoziation`
+:index:` \<Dissoziation; elektromechanische>`
+:index:` \<elektromechanische Dissoziation>`
+bezeichnet
 und kann dauerhaft
-oder :term:`intermittierend <intermittieren>` auftreten.
+oder
+:term:`intermittierend <intermittieren>`
+auftreten.
 
 
 
@@ -90,6 +95,8 @@ Eine noch feinere Unterscheidung ist möglich.
     via `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:De-Atrial_ventricular_(CardioNetworks_ECGpedia).png>`_
     `OTRS ticket #2011102310008874 <https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2011102310008874>`_
     Ⓛ :term:`Lizenz: CC BY-SA 3.0 unported`
+
+
 
 .. rubric:: … Regelmäßigkeit
 
@@ -175,7 +182,7 @@ Für spezielle Fragestellungen kann eine elektrophysiologische Untersuchung mitt
         -   Bemerkung
     *   -   **Bradykardie**
 
-            (HF<60/min)
+            (HF < 60 / min)
         -   Situationsabhängig
         -   *"zu langsam"*
     *   -   **Tachykardie**
@@ -226,22 +233,16 @@ Reanimationspflichtige Rhythmusstörungen
 
     .. sidebar:: Reanimationspflichtig
 
-        -  Pulslose Ventrikuläre Tachykardie
-
-        -  Keine Zeit zum Füllen → kein Auswurf
-
-        -  Kammerflimmern
-
-        -  Wirre Erregung, keine sinnvolle Muskelarbeit →
+        -   Pulslose Ventrikuläre Tachykardie
+        -   Keine Zeit zum Füllen → kein Auswurf
+        -   Kammerflimmern
+        -   Wirre Erregung, keine sinnvolle Muskelarbeit →
             kein Auswurf.
-
-        -  Asystolie
-
-        -  Keine elektrische Erregung, keine Muskelarbeit, kein Auswurf
-
-        -  Pulslose elektrische Aktivität
-
-        -  Entkoppelung von Herzschlag und Impulsen des Reizleitungssystems
+        -   Asystolie
+        -   Keine elektrische Erregung, keine Muskelarbeit, kein Auswurf
+        -   Pulslose elektrische Aktivität
+        -   Entkoppelung von Herzschlag
+            und Impulsen des Reizleitungssystems
 
 Pulslose Ventrikuläre Tachykardie (*pVT*)
     Vorstufe zum
@@ -269,7 +270,7 @@ Pulslose elektrische Aktivität (*PEA*)
 
 
 
-.. todo:: !!! PICTUREWIDE !!! Unauffälliger EKG-BefundWMPD\
+.. todo:: !!! PICTUREWIDE !!! Unauffälliger EKG-Befund WMPD\
 
 
 .. _Thema-Vorhofflimmern:
@@ -281,13 +282,10 @@ Vorhofflimmern
 
     .. sidebar:: Vorhofflimmern
 
-        -  Flimmern im *Vorhof*
-
-        -  Häufige und oft chronische Erkrankung
-
-        -  Thrombenbildung, Tachykardieanfälle
-
-        -  Oft *gerinnngshemmende Medikamente*
+        -   Flimmern im *Vorhof*
+        -   Häufige und oft chronische Erkrankung
+        -   Thrombenbildung, Tachykardieanfälle
+        -   Oft *gerinnngshemmende Medikamente*
 
 Regellose Erregung im *Vorhof*, die oft
 symptomlos ist. (Die Herzkammern arbeiten dabei normal!) Vorhofflimmern
@@ -295,21 +293,23 @@ kann ständig bestehen oder auch nur manchmal (episodenhaft) auftreten.
 Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
 *Komplikationen* sind jedoch:
 
--  *Tachykardie-Anfälle*
+-   *Tachykardie-Anfälle*
 
--  *Thrombenbildung* in den Vorhöfen: Dies stellt wiederum ein Risko dar
-   für:
+-   *Thrombenbildung* in den Vorhöfen:
+    Dies stellt wiederum ein Risko dar    für:
 
-   -  Arterielle Gefäßverschlüsse
-      (:ref:`Thema-ArteriellerGefaessverschluss`)
+    -   Arterielle Gefäßverschlüsse
+        (:ref:`Thema-ArteriellerGefaessverschluss`)
 
-   -  Schlaganfälle (:ref:`Thema-insult`)
+    -   Schlaganfälle (:ref:`Thema-insult`)
 
-   -  Mesenterialinfarkte (:ref:`Thema-Mesenterialinfarkt`)
+    -   Mesenterialinfarkte (:ref:`Thema-Mesenterialinfarkt`)
 
-   Daher werden diesen Patienten meist *gerinnungshemmende*
-   ("blutverdünnenden") Medikamente zur Vorbeugung verschrieben (z. B.
-   *Marcoumar*, der Patient ist blutungsgefährdet)
+        Daher werden diesen Patienten meist
+        *gerinnungshemmende* ("blutverdünnenden") Medikamente
+        (*Antikoagulatien*)
+        zur Vorbeugung verschrieben
+        (z. B. *Marcoumar*, der Patient ist blutungsgefährdet)
 
 
 
@@ -344,19 +344,15 @@ sein.
 Tachykarde Attacke
 ******************
 
-Beschreibung
-============
 
 Plötzliche Tachykardie ohne erkennbare Ursache, wobei der Patient
-(meistens) Symptome wahrnimmt und eine Herzfrequenz um bzw. über 160 / min
-vorliegt.
+(meistens) Symptome wahrnimmt und eine Herzfrequenz um
+bzw. über 160 / min vorliegt.
 
 Tachykarde Attacken sind ein häufiges Notfallbild. Oft sind
 chronische Erkrankungen die Ursache, diese können jedoch sehr
 unterschiedlich sein und sind auch vom Fachmann bei weiterführenden
 Untersuchungen oft nicht leicht zu ermitteln.
-
--  HF ≥ 160 / min
 
 ABCDE
 =====
@@ -365,14 +361,12 @@ ABCDE
 
     .. sidebar:: Einschätzungsblock
 
-        .. rubric:: |Text-Abcde-B-Short|
+        Ⓑ
+            Evtl. |symbol-RedFlag|  Dyspnoe
 
-        Evtl. |symbol-RedFlag|  Dyspnoe
-
-        .. rubric:: |Text-Abcde-C-Short|
-
-        Tachykardie |symbol-RedFlag|  ≥ 160 / min, Puls evtl.
-        schwach tastbar;
+        Ⓒ
+            Tachykardie |symbol-RedFlag|  ≥ 160 / min, Puls evtl.
+            schwach tastbar;
 
         Evtl. |symbol-RedFlag|  Kreislaufinsuffizienz,
         |symbol-RedFlag| **kardiogener Schock**,
@@ -380,12 +374,12 @@ ABCDE
 
 
 
-.. rubric:: |Text-Abcde-B|
+.. rubric:: Ⓑ
 
 |symbol-RedFlag| Dyspnoe kann in Folge der kardialen
 Mehrbelastung auftreten
 
-.. rubric:: |Text-Abcde-C|
+.. rubric:: Ⓒ
 
 Es liegt eine *Tachykardie* vor.
 Der Puls ist i.d.R. hoch,
@@ -469,9 +463,6 @@ Die Ereignisse sind genau zu erfragen und zu dokumentieren,
 eventuell ergibt sich dadurch eine Spur zum auslösenden Faktor.
 
 
-   -  Angina pectoris
-
-   -  Herzinfarkt
 
 Da das *Herz plötzlich viel mehr Arbeit leisten muss*, kann es sein,
 dass es an seine *Grenzen* stößt und *versagt* bzw. die Blutversorgung
@@ -484,15 +475,16 @@ akut lebensbedrohlichen Situation kommen. [#242]_
 
 
 .. [#242]
-   Tachykarde Attacke / Gefahren: Es gibt viele verschiedene Auslöser
-   für tachykarde Attacken. Manche Rhythmusstörungen sind tückisch, dass
-   sie von einem Moment umschlagen und einen Kreislaufstillstand
-   verursachen können. Zum Beispiel beim Kammerflattern besteht oft eine
-   -Überleitung vom Vorhof in die Kammern mit einer resultierenden
-   Frequenz um die 140/min. Kommt es zu der gefürchteten -Überleitung
-   wird die Flatterfrequenz der Vorhöfe von 250—350 / min (!)
-   direkt auf die Kammern übergeleitet, dies kommt meist einem
-   Herzstillstand gleich. (Renz-Polster and Krautzig 2008)
+    Tachykarde Attacke / Gefahren: Es gibt viele verschiedene Auslöser
+    für tachykarde Attacken. Manche Rhythmusstörungen sind tückisch, dass
+    sie von einem Moment umschlagen und einen Kreislaufstillstand
+    verursachen können. Zum Beispiel beim Kammerflattern besteht oft eine
+    -Überleitung vom Vorhof in die Kammern mit einer resultierenden
+    Frequenz um die 140/min. Kommt es zu der gefürchteten -Überleitung
+    wird die Flatterfrequenz der Vorhöfe von
+    250—350 / min (!)
+    direkt auf die Kammern übergeleitet, dies kommt meist einem
+    Herzstillstand gleich.
 
 .. _proc-MR47091C:
 .. _m-tachykarde-attacke:
@@ -516,50 +508,55 @@ Basismaßnahmen
     -   Lagerung: Lagerung: **Oberkörper hoch**
     -   Striktes Bewegungsverbot!
     -   Beengende Kleidung öffnen
-    -   O2-Gabe gemäß :ref:`M-sauerstoffberieselung`
+    -   O₂-Gabe gemäß :ref:`M-sauerstoffberieselung`
     -   |TxBeiVit| |TxMassVitMKBes|
 
         -   Notarzt: Eine medikamentöse Therapie ist meistens erforderlich.
 
-    -   Psychische Betreuung! Oase der Ruhe schaffen.
+    -   Psychische Betreuung!
+        "Oase der Ruhe" schaffen.
     -   Wenn der Patient versorgt ist (d.h. alle obigen Punkte erfüllt
         wurden) soll – wenn möglich – ein *EKG* (Extremitätenableitung, )
         abgeleitet werden.
-        Der Ausdruck dient v.a. der Dokumentation und der Information
-        für das nachbehandelnde Personal (Notarzt, Spital, Facharzt, …).
+        Der Ausdruck dient v. a. der Dokumentation und der Information
+        für das nachbehandelnde Personal
+        (Notarzt, Spital, Facharzt, …).
     -   Valsalva-Versuch
 
-Pharmakotherapie
-    -   Ursachenabhängig!
-    -   **Magnesium**:
-        Z. B. *Magnesium gluconicum* 1000—4000 mg in einer Kurzinfusion
-    -   **Kalium**: Substitution nur unter Elektrolyt-Kontrolle
-    -   Tachykardes Vorhofflimmern de novo: **Medkamentöse Kardioversion**
 
-        -   **Amiodaron** (Sedacoron™, Cordarex™) 300 mg
-            in Kurzinfusion (in Glukose 5%)
+..
+    Pharmakotherapie
+        -   Ursachenabhängig!
+        -   **Magnesium**:
+            Z. B. *Magnesium gluconicum* 1000—4000 mg in einer Kurzinfusion
+        -   **Kalium**: Substitution nur unter Elektrolyt-Kontrolle
+        -   Tachykardes Vorhofflimmern de novo:
+            **Medkamentöse Kardioversion** wenn Dauer < 24 h:
 
-    -   Tachykardes Vorhofflimmern, schon länger bestehend:
-        Kein Kardioversionsversuch ohne vorherigen Ausschluss eines Thrombus,
-        auf **Frequenzkontrolle** beschränken.
+            -   **Amiodaron** (Sedacoron™, Cordarex™) 300 mg
+                in Kurzinfusion (in Glukose 5%)
 
-        -   :ref:`Esmolol <Thema-Esmolol>`\ -Bolus i. v.,
-            bei ansprechen weiter mit Perfusor
-        -   Digitoxin (Digimerck™) i. v. als Kurzinfusion
-            (beachte vorbestehende Dauertherapie, Spiegelbestimmung!)
-    -   FBI-Tachykardie (Fast, Broad, Irregular)
+        -   Tachykardes Vorhofflimmern, schon länger bestehend:
+            Kein Kardioversionsversuch ohne vorherigen Ausschluss eines Thrombus,
+            auf **Frequenzkontrolle** beschränken.
 
-        CAVE:
-        Aufgrund der akzessorischen Leitungsbahn
-        keine Blockade der AV-Bahn,
-        Fibrillationsgefahr!
+            -   :ref:`Esmolol <Thema-Esmolol>`\ -Bolus i. v.,
+                bei ansprechen weiter mit Perfusor
+            -   Digitoxin (Digimerck™) i. v. als Kurzinfusion
+                (beachte vorbestehende Dauertherapie, Spiegelbestimmung!)
+        -   FBI-Tachykardie (Fast, Broad, Irregular)
 
-        -   Ajmalin (Gilurytmal™) i. v.
+            CAVE:
+            Aufgrund der akzessorischen Leitungsbahn
+            keine Blockade der AV-Bahn,
+            Fibrillationsgefahr!
 
-    -   Schmalkomplextachykardie:
-        Versuch der Unterbrechung des Re-Entry-Zyklus durch kurzfristige Blocakde des AV-Knotens
+            -   Ajmalin (Gilurytmal™) i. v.
 
-        -   :ref:`Adenosin <Thema-Adenosin>` i. v.
+        -   Schmalkomplextachykardie:
+            Versuch der Unterbrechung des Re-Entry-Zyklus durch kurzfristige Blocakde des AV-Knotens
+
+            -   :ref:`Adenosin <Thema-Adenosin>` i. v.
 
     .. danger::
 

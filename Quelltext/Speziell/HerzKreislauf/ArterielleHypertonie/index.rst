@@ -1,32 +1,28 @@
 
-###########################
-Arterielle Hypertonie (#42)
-###########################
-
-.. _Thema-ArterielleHypertonie:
 
 .. index::
     single: Hypertonie, arterielle
     single: Bluthochdruck
 
-************
-Beschreibung
-************
+.. _Thema-ArterielleHypertonie:
+
+###########################
+Arterielle Hypertonie (#42)
+###########################
 
 .. only:: not nosidebar
 
-    .. sidebar:: Beschreibung
+    .. sidebar:: Arterielle Hypertonie
 
         -   Chronische Erhöhung des arteriellen Blutdrucks
         -   Risikofaktor für Herz-/Kreislauferkrankungen
         -   Bei *Schwangeren* sind die Grenzwerte genau zu beachten!
             (*EPH-Gestose*)!
 
-.. admonition:: Beschreibung
-
-    Die arterielle :dfn:`Hypertonie` (*Bluthochdruck*,
-    *Hochdruckkrankheit*) ist eine meist symptomlose, *chronische*
-    Erkrankung, bei welcher der arterielle Blutdruck dauerhaft erhöht ist.
+Die :dfn:`arterielle Hypertonie`
+(*Bluthochdruck*, *Hochdruckkrankheit*)
+ist eine meist symptomlose, *chronische*
+Erkrankung, bei welcher der arterielle Blutdruck dauerhaft erhöht ist.
 
 Sie kann auf Dauer zu schweren Schäden an den Blutgefäße und im Zuge von
 plötzlichen *Blutdruckkrisen* auch zu akuten Problemen führen. Aufgrund
@@ -44,13 +40,13 @@ und behandelt werden.
 
 
 .. [#232]
-   Hypertonie: Neben der systemischen arteriellen (essentiellen)
-   Hypertonie gibt es auch andere Krankheitsbilder, bei denen der Druck
-   in anderen Blutgefäßen erhöht ist, z. B. die pulmonale Hypertonie.
+    Hypertonie: Neben der systemischen arteriellen (essentiellen)
+    Hypertonie gibt es auch andere Krankheitsbilder, bei denen der Druck
+    in anderen Blutgefäßen erhöht ist, z. B. die pulmonale Hypertonie.
 
 .. [#233]
-   Grenzwert Blutdruck: Bei Patienten mit Risikofaktoren gelten andere
-   Grenzwerte.
+    Grenzwert Blutdruck: Bei Patienten mit Risikofaktoren gelten andere
+    Grenzwerte.
 
 
 
@@ -62,23 +58,17 @@ Langzeitfolgen
 
     .. sidebar:: Langzeitschäden
 
-        -  *Gefäßschädigung*
-
-        -  Herzkranzgefäße → Infarkt
-
-        -  Hirngefäße → Schlaganfall
-
-        -  Nierengefäße → Niereninsuffizienz
+        -   *Gefäßschädigung*
+        -   Herzkranzgefäße → Infarkt
+        -   Hirngefäße → Schlaganfall
+        -   Nierengefäße → Niereninsuffizienz
             → Dialyse → typischer
             KTW-Patient
+        -   Hauptschlagader → Aneurysma
+        -   *Herzmuskelschädigung*
 
-        -  Hauptschlagader → Aneurysma
-
-        -  *Herzmuskelschädigung*
-
-        (Herz muss gegen größeren Widerstand pumpen)
-
-        -  Krankhafte Vergrößerung des Herzmuskels
+            (Herz muss gegen größeren Widerstand pumpen)
+        -   Krankhafte Vergrößerung des Herzmuskels
 
 Die Hypertonie hat in der Notfallmedizin auch eine wichtige indirekte
 Bedeutung: Sie ist Ursache für viele andere Erkrankungen, die ihrerseits
@@ -105,10 +95,8 @@ Notfälle. Daher ist es auch verständlich, dass die Behandlung der
 Hypertonie einen großen Stellenwert in der medizinischen Versorgung der
 Bevölkerung hat.
 
-.. todo:: image Der Strawinsky-Brunnen von Jean Tinguely beim Centre Pompidou in Paris Sebastian GabrielMfG
 
 .. _Thema-HypertensiverNotfall:
-
 .. _Thema-HypertensiveKrise:
 
 ********************************************
@@ -116,12 +104,17 @@ Hypertensive Krise und Hypertensiver Notfall
 ********************************************
 
 Eine plötzliche, sehr starke Erhöhung des Blutdrucks wird als
-:dfn:`hypertensive Krise` oder :dfn:`hypertensiver Notfall`
+:dfn:`hypertensive Krise` oder
+:dfn:`hypertensiver Notfall`
 bezeichnet.
 Der Unterschied zwischen den beiden Diagnosen ist das Fehlen bzw.
 Vorhandensein von typischen Symptomen einer Endorganstörung (z. B.
 Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen,
 Schwindel …). Vgl. [Table-hxpertension-krise-notfall].
+
+
+
+
 
 .. todo:: !!! TABELLE WEIT Unterscheidung Hypertensive Krise und Hypertensiver Notfall(Whitworth and World Health Organization 2003; Chobanian et al.
 
@@ -130,49 +123,48 @@ Schwindel …). Vgl. [Table-hxpertension-krise-notfall].
 
     ll
 
-    **Hypertensive Krise** & **Hypertensiver Notfall**
-    RR >  (Richtwert) bzw. deutliche individuelle Erhöhung
+.. list-table::
 
-    *Patient fühlt sich gut*, evtl. Nasenbluten & RR >  (Richtwert) bzw.
-    deutliche individuelle Erhöhung
+    *   -   Hypertensive Krise
+        -   Hypertensiver Notfall
+    *   -   RR >  (Richtwert) bzw. deutliche individuelle Erhöhung
 
-    *+ Symptome einer Organstörung*
-    Zufallsbefund? – Oder steht der Blutdruck doch in Zusammenhang mit der
-    Berufung?
+            *Patient fühlt sich gut*, evtl. Nasenbluten & RR >  (Richtwert) bzw.
+            deutliche individuelle Erhöhung
 
-    &
+            *+ Symptome einer Organstörung*
+            Zufallsbefund? – Oder steht der Blutdruck doch in Zusammenhang mit der
+            Berufung?
 
-    -  Kopfschmerz
+        -   Zeichen einer Endorganschädigung:
 
-    -  Sehstörungen
+            -   Kopfschmerz
+            -   Sehstörungen
+            -   Brustschmerz
+            -   Übelkeit, Erbrechen, Schwindel
 
-    -  Brustschmerz
+    *   -   Eine notfallmäßige Blutdrucksenkung ist (eher) nicht erforderlich.
+        -   **Vitale Bedrohung** möglich,
+            z. B. Gefahr des Herzversagens: Das Herz muss
+            plötzlich gegen großen Druck pumpen
 
-    -  Übelkeit, Erbrechen, Schwindel
+            Eine frühzeitige Blutdrucksenkung ist notwendig.
 
+.. note::
 
-    Eine notfallmäßige Blutdrucksenkung ist (eher) nicht erforderlich. &
-    **Vitale Bedrohung**: *Gefahr des Herzversagens: Das Herz muss
-    plötzlich gegen großen Druck pumpen*
-
-    Eine frühzeitige Blutdrucksenkung ist notwendig.
-
-    -  Der Unterschied zwischen einer hypertensiven Krise und dem
-       hypertensiven Notfall ist das Vorhandensein von Symptomen einer
-       Organstörung.
-
-[#234]_
+    -   Der Unterschied zwischen einer hypertensiven Krise und dem
+        hypertensiven Notfall ist das Vorhandensein von Symptomen einer
+        Organstörung\ [#234]_.
 
 
 .. [#234]
-   Hypertensive Krise/Notfall: (Die Unterscheidung zwischen
-   "Hypertensiver Krise" und "Hypertensiven Notfall" ist in der
-   Literatur nicht einheitlich. Oft wird auch nur zwischen
-   "Hypertensiver Krise ohne Symptome" bzw. "mit Symptomen"
-   unterschieden oder generell eine andere Einteilung gewählt. Von
-   diesen Spitzfindigkeiten abgesehen gilt das Vorhandensein von
-   Symptomen durchgehend als entscheidendes Kriterium. (Classen et al.
-   2004; Müller, Löll, and Bechtold 2008; Fauci et al. 2008))
+    Hypertensive Krise/Notfall: (Die Unterscheidung zwischen
+    "Hypertensiver Krise" und "Hypertensiven Notfall" ist in der
+    Literatur nicht einheitlich. Oft wird auch nur zwischen
+    "Hypertensiver Krise ohne Symptome" bzw. "mit Symptomen"
+    unterschieden oder generell eine andere Einteilung gewählt. Von
+    diesen Spitzfindigkeiten abgesehen gilt das Vorhandensein von
+    Symptomen durchgehend als entscheidendes Kriterium.)
 
 
 ABCDE
@@ -275,25 +267,52 @@ SAMPLER
 .. [#235]
    Gängige Antihypertensive Medikamente:
 
-   -  Beta-Blocker: Bisoprolol (Concor), Carvedilol (Dilatrend),
-      Metoprolol (Beloc, Seloken), Nebivolol (Nebilan, Nomexor)
+    -   Beta-Blocker:
+        Bisoprolol (Concor™),
+        Carvedilol (Dilatrend™),
+        Metoprolol (Beloc™, Seloken™),
+        Nebivolol (Nebilan™, Nomexor™)
 
-   -  ACE-Hemmer: Enalapril (Mepril, Renitec), Lisinopril (Acemin,
-      Acetan) Ramipril (Tritace), Fosinopril (Fositens), Captopril
+    -   ACE-Hemmer:
+        Enalapril (Mepril™, Renitec™),
+        Lisinopril (Acemin™,
+        Acetan™)
+        Ramipril (Tritace™),
+        Fosinopril (Fositens™),
+        Captopril
 
-   -  AT-II-Inhibitoren: Candesartan (Atacand, Blopress), Losartan
-      (Cosaar), Telmisartan (Micaardis), Valsartan (Diovan)
+    -   AT-II-Inhibitoren:
+        Candesartan (Atacand™, Blopress™),
+        Losartan
+        (Cosaar™),
+        Telmisartan (Micaardis™),
+        Valsartan (Diovan)™
 
-   -  Kalzium-Antagonisten: Diltiazem, Verapamil (Isoptin), Amlodipin
-      (Norvasc), Lercanidipin (Zanidip), Nifedipin (Adalat, Buconif)
+    -   Kalzium-Antagonisten:
+        Diltiazem, Verapamil (Isoptin™),
+        Amlodipin
+        (Norvasc™),
+        Lercanidipin (Zanidip™),
+        Nifedipin (Adalat™, Buconif™)
 
-   -  Entwässerung (Diuretika): Furosemid (Lasix, Furon), Spironolacton
-      (Aldactone, Spirobene), Hydrochlorthiazid (HCT) üblicherweise in
-      Kombination mit andren Medikamenten
+    -   Entwässerung (Diuretika):
+        Furosemid (Lasix™, Furon™),
+        Spironolacton
+        (Aldactone™, Spirobene™),
+        Hydrochlorthiazid (HCT) üblicherweise in
+        Kombination mit andren Medikamenten
 
-   -  Kombinationspräparate: Diverse Kombinationen, oft mit Zusätzen wie
-      "Co-", "-comb", "-comp", "plus" oder Zusammensetzung aus
-      Wirkstoff- bzw. Markennamen. Z. B.: Acecomb, Exforge, Fosicomb,
+    -  Kombinationspräparate: Diverse Kombinationen,
+        oft mit Zusätzen wie
+        "Co-", "-comb", "-comp", "plus" oder Zusammensetzung aus
+        Wirkstoff- bzw. Markennamen.
+        Z. B.:
+        Acecomb™,
+        Exforge™,
+        Fosicomb™, ...
+
+
+
 
 .. _MI10911C:
 .. _m-hypertensive-krise:
@@ -306,17 +325,17 @@ Maßnahmen: Hypertensive Krise
 Taktik
     Symptomatische Therapie
 
+Basismaßnahmen
+    -   Lagerung: Oberkörper hoch
 
--   Lagerung: Oberkörper hoch
+        Bei Nasenbluten: Kopf nach vorne halten.
+    -   Beengende Kleidung öffnen
+    -   O₂-Gabe gemäß :ref:`m-sauerstoffberieselung`
+    -   Transportentscheidung: Abt. f. Innere Medizin;
 
-    Bei Nasenbluten: Kopf nach vorne halten.
--   Beengende Kleidung öffnen
--   O₂-Gabe gemäß :ref:`m-sauerstoffberieselung`
--   Transportentscheidung: Abt. f. Innere Medizin;
+        bei Nasenbluten: HNO im Hintergrund
 
-    bei Nasenbluten: HNO im Hintergrund
-
-Eine notfallmäßige Blutdrucksenkung ist *nicht*
+Eine notfallmäßige Blutdrucksenkung ist in der Regel *nicht*
 sinnvoll.
 
 .. _MI10912C:
@@ -324,8 +343,6 @@ sinnvoll.
 
 Maßnahmen: Hypertensiver Notfall
 ================================
-
-.. todo:: Maßnahme MI10912C: Anpassung an höherqualifiziertes Personal
 
 Taktik
     **Vitale Bedrohung!**
@@ -339,4 +356,4 @@ Basismaßnahmen
     -   |TxMassVitMK|
 
 Pharmakotherapie
-    -   Urapidil (Ebrantil™)
+    z. B. Urapidil (Ebrantil™)

@@ -100,11 +100,11 @@ Eine noch feinere Unterscheidung ist möglich.
 
 .. rubric:: … Regelmäßigkeit
 
-Eine Ryhthmusstörung kann zu einem regelmäßigen oder einem unregelmäßigen (arhythmischen) Rhythmus führen.
+Eine Rhythmusstörung kann zu einem regelmäßigen oder einem unregelmäßigen (arhythmischen) Rhythmus führen.
 
-.. rubric:: … Eletrik vs. Mechanik
+.. rubric:: … Elektrik vs. Mechanik
 
-Eine Rhythmusstörung kann die elektrische, die mechnaische und beide Herzfunktionen im Prinzip unabhängig voneinander betreffen.
+Eine Rhythmusstörung kann die elektrische, die mechanische und beide Herzfunktionen im Prinzip unabhängig voneinander betreffen.
 So kann beispielsweise eine atriale tachykarde Rhythmusstörungen nur die mechanische Funktion des Vorhofs betreffen,
 jedoch aufgrund der frequenzfilternden Funktion des AV-Knotens
 unter Umständen die Kammerfrequenz nicht beeinträchtigen.
@@ -323,9 +323,7 @@ Extrasystolen
     .. sidebar:: Extrasystolen
 
         -   Extraschläge
-
         -   Vereinzelt od. gehäuft, evtl. "salvenartig"
-
         -   Unterschiedliche Auswirkungen auf Kreislauf:
             symptomlos bis lebensbedrohlich möglich
 

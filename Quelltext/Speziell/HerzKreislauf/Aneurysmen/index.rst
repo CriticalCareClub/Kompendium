@@ -1,24 +1,24 @@
+
+.. index::
+    single: Aneurysma
+
+.. _Aneurysma:
+
 #################################################
 Aneurysmen der großen arteriellen Gefäße (#41)
 #################################################
-
-********************************
-Beschreibung: Aneurysma allgmein
-********************************
-
 
 .. only:: not nosidebar
 
     .. sidebar:: Aneurysma
 
-        -  Aussackung eines Blutgefäßes
-
-        -  Z. B. Aorta, Hirngefäße
-
-        -  Gefahr: Schock, Insult
+        -   Aussackung eines Blutgefäßes
+        -   Z. B. Aorta, Hirngefäße
+        -   Gefahr: Schock, Insult
 
 Als :dfn:`Aneurysma` bezeichnet man eine Aussackung und
-Erweiterung von Blutgefäßen aufgrund von Veränderungen der Gefäßwand.**
+Erweiterung von Blutgefäßen aufgrund von Veränderungen der Gefäßwand.
+
 Durch die zunehmende Erweiterung oder Verletzungen der
 Gefäßwandschichten kann es zu einem Riss des Aneurysmas und zu Blutungen
 kommen. Aneurysmen treten häufig an den großen Gefäßen (Aorta,
@@ -33,10 +33,16 @@ ein blutiger Insult sein.
 Aortenaneurysma
 ***************
 
-[Meron:2004]_
 
-Beschreibung und Ursachen
-=========================
+.. only:: not nosidebar
+
+    .. sidebar:: Anmerkungen
+
+        -   Gefäßwandaussackung
+        -   Thorakales und abdominelles Aortenaneurysma
+        -   Evtl. vorbekannt
+
+
 
 Aneurysmen können im gesammten Verlauf der Aorta auftreten, man
 unterscheidet zwischen dem *thorakalen*
@@ -55,20 +61,6 @@ Da das Operationsrisiko sehr hoch ist
 werden Aneurysmen erst ab einer gewissen Größe operiert, bei kleinen
 Formen werden nur regelmäßige Kontrollen durchgeführt.
 
-Anmerkung
----------
-
-
-.. only:: not nosidebar
-
-    .. sidebar:: Anmerkungen
-
-        -  Gefäßwandaussackung
-
-        -  Thorakales und abdominelles Aortenaneurysma
-
-        -  Evtl. vorbekannt
-
 Aortenaneurysmen sind sehr oft schwer zu diagnostizieren, in der
 präklinischen Versorgung kann im Regelfall nur durch die Anamnese bei
 einem bereits bekannten Aneurysma ein entsprechender Verdacht geäussert
@@ -77,10 +69,28 @@ klinischen Behandlung werden Aneurysmen häufig erst sehr spät erkannt,
 da die Symptome oft eher auf andere Erkrankungen hinweisen (Lumbago,
 ACS, Koliken, …).
 
-ABCDE
-=====
+[Meron:2004]_
 
- 
+
+ABCDE
+===== 
+
+.. only:: not nosidebar
+
+    .. sidebar:: ABCDE
+
+        ②
+            Evtl.  **Schockzeichen**, Schohnhaltung
+
+        ④
+             **Brust-, Bauch- oder Rückenschmerzen**; evtl.
+            Symptome eines  **ACS**
+
+        Ⓒ
+            Kreislaufstabil, evtl.  **Schockzeichen**
+
+        ``E``
+             **Harte Bauchdecke** bei Blutung in Bauch
 
 ②
     Evtl. können  **Schockzeichen** vorliegen (Blässe,
@@ -94,7 +104,7 @@ ABCDE
     als schneidend und plötzlich einsetzend beschrieben und sind oft
     (aber nicht immer) heftig (*Vernichtungsschmerz*). Bei thorakalen
     Aortenaneurysmen kommt es häufig zu Symptomen eines
-     *Akuten Koronarsyndroms* (ACS, :ref:`Thema-Acs`).
+     *Akuten Koronarsyndroms* (ACS, vgl. :ref:`Thema-Acs`).
 
 Ⓒ
     Je nach Umfang der Blutung kann der Patient völlig *kreislaufstabil*
@@ -109,21 +119,22 @@ ABCDE
     Schwellung bei einem abdominellen Aortenaneurysma im Bauch getastet
     werden.
 
-②
-    Evtl.  **Schockzeichen**, Schohnhaltung
-
-④
-     **Brust-, Bauch- oder Rückenschmerzen**; evtl.
-    Symptome eines  **ACS**
-
-Ⓒ
-    Kreislaufstabil, evtl.  **Schockzeichen**
-
-``E``
-     **Harte Bauchdecke** bei Blutung in Bauch
 
 SAMPLER
 =======
+
+.. only:: not nosidebar
+
+    .. sidebar:: SAMPLER
+
+        🅂
+            Siehe ABCDE; evtl. Rückenschmerzen
+
+        🄿
+            Aneurysma evtl. vorbekannt
+
+        🅁
+            Kreislauferkrankungen, Bindegewebsschwäche
 
 🅂
     Siehe ABCDE. Evtl. haben die ersten Beschwerden vor einigen Tagen
@@ -138,11 +149,3 @@ SAMPLER
     Patienten mit einer krankhaften Bindegewebsschwäche (Z. B.
     Marfan-Syndrom).
 
-🅂
-    Siehe ABCDE; evtl. Rückenschmerzen
-
-🄿
-    Aneurysma evtl. vorbekannt
-
-🅁
-    Kreislauferkrankungen, Bindegewebsschwäche

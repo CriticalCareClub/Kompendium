@@ -1,29 +1,23 @@
 
-Störungen des Blutdrucks (#??)
-===============================
-
-Hypotonie
----------
-
 .. index::
     single: Hypotonie
 
-Beschreibung und Richtwert
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Hypotonie (#43)
+===============================
+
 
 .. only:: not nosidebar
 
-    .. sidebar:: Beschreibung und Richtwert
+    .. sidebar:: Hypotonie
 
-        -  Erwachsener: RR\ :sub:`sys` < ca. 100mmHg
+        -   Erwachsener: RR\ :sub:`sys` < ca. 100 mm Hg
+        -   Individuell unterschiedlich
+        -   Kinder haben andere Normalwerte
 
-        -  Individuell unterschiedlich
 
-        -  Kinder haben andere Normalwerte
 
-.. admonition:: Definition
-
-    Als :dfn:`Hypotonie` bezeichnet man einen unangemessen zu niedrigen Blutdruck.
+Als :dfn:`Hypotonie` bezeichnet man einen unangemessen zu niedrigen Blutdruck.
 
 Beim Erwachsenen beträgt der *untere* Grenzwert
 des systolischen Blutdrucks 100 mm Hg. Dieser Grenzwert ist jedoch sehr

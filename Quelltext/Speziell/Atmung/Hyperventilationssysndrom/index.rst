@@ -1,6 +1,8 @@
 
 
-
+.. index::
+    single: Hyperventialtionssyndrom
+    single: Hyperventilationstetanie
 
 
 .. _Thema-hyperventilationssyndrom:
@@ -46,50 +48,51 @@ ABCDE: Hyperventilationssyndrom
 
     .. sidebar:: 1234ABCDE
 
-        **1**
+        ①
             Konzerte, stressige bzw. erregende Situationen
 
-        **2**
+        ②
             Gestikulieren, Weinkrämpfe, Pfötchenstellung
 
-        **3**
+        ③
             Evtl. Bewusstseinsstörungen
 
-        **4**
+        ④
             Atemnot. Evtl. Kribbeln, Schwindel, Krämpfe
 
-        **B**
+        Ⓑ
             Klagt über Atemnot, Tachypnoe, aber sonst keine physischen Anzeichen
             (keine Zyanose, SpO2 normal, …)
 
-        **C**
+        Ⓒ
             HF und RR evtl. ↑
 
-        **E**
+        Ⓔ
             Ausschließen:
 
-            -  Atemnot mit körperlicher Ursache
+            -   Atemnot mit körperlicher Ursache
+            -   Ateminsuffizienz
+            -   Stoffwechselbedingte Azidose (z. B. Diabetisches Koma)
 
-            -  Ateminsuffizienz
-
-            -  Stoffwechselbedingte Azidose (z. B. Diabetisches Koma)
-
-        **=**
+        ``=``
             Normal keine vitale Bedrohung (Differentialdiagnosen bedenken!).
 
 
 ①
     Oft kommt es bei vornehmlich jugendlichen Besuchern von
     Pop-Konzerten u.ä. zu Erregungszuständen, welche zum
-    Hyperventilationssysdrom führen können. Daneben kann jedoch jede
+    Hyperventilationssysdrom führen können.
+    Daneben kann jedoch jede
     Situation, welche zu erhöhtem Stress oder Erregung führt, ebenso ein
-    entsprechender Auslöser sein, siehe **E**. Das Schaffen bzw.
+    entsprechender Auslöser sein, siehe 🄴.
+    Das Schaffen bzw.
     Aufsuchen einer ruhigen Umgebung ist wichtig!
 
 ②
     Häufig kann man Zeichen psychischer Erregtheit wahrnehmen: Wildes
     gestikulieren, Weinkrämpfe usw. Klassisch ist die sog.
-    *Pfötchenstellung*: Die Arme sind angezogen und Handhaltung
+    *Pfötchenstellung*:
+    Die Arme sind angezogen und Handhaltung
     erinnert an Pfoten eines Tieres.
 
 ③
@@ -97,27 +100,34 @@ ABCDE: Hyperventilationssyndrom
     Eintrübung bis hin zur Bewusstlosigkeit kommen.
 
 ④
-    Das Leitsymptom ist die *Atemnot*. Durch das
-    Elektrolyt-Ungleichgewicht kommt es zuerst zu *Schwindelgefühlen*,
-    etwas später zu einem *Kribbeln* in den Fingern. In weiterer Folge
-    zeigen sich tonische *Krämpfe* (*Hyperventilationstetanie*).
+    Das Leitsymptom ist die *Atemnot*.
+    Durch das
+    Elektrolyt-Ungleichgewicht
+    kommt es zuerst zu *Schwindelgefühlen*,
+    etwas später zu einem *Kribbeln* in den Fingern.
+    In weiterer Folge
+    zeigen sich tonische *Krämpfe*
+    (*Hyperventilationstetanie*).
 
 Ⓑ
-    Die Patienten beklagen *Atemnot*, obwohl die O2-Zufuhr nicht
-    beeinträchtigt und das Blut maximal gesättigt ist (SpO2 von 100%).
+    Die Patienten beklagen *Atemnot*, obwohl die O₂-Zufuhr nicht
+    beeinträchtigt und das Blut maximal gesättigt ist
+    (SpO₂ von 100%).
     Sie haben eine *tiefe und schnelle Atmung* (*Tachypnoe*).
 
 Ⓒ
     Herzfrequenz und Blutdruck können in Folge der Erregung etwas erhöht
     sein.
 
-``E``
-    *Ausschließen von gefährlichen Differentialdiagnosen*: Die psychisch
+Ⓔ
+    *Ausschließen von gefährlichen Differentialdiagnosen*:
+    Die psychisch
     bedingte Hyperventilation muß unbedingt von der Hyperventilation
-    aufgrund anderer Ursachen abgegrenzt werden. Bei *Ateminsuffizienz*
+    aufgrund anderer Ursachen abgegrenzt werden.
+    Bei *Ateminsuffizienz*
     oder *durch Erkrankungen verursachte Atemnot* kommt es natürlich
-    auch oft zu einer (kompensatorischen) Hyperventilation (Herzinfarkt,
-    Lungenembolie, Pneumothorax, Asthma-Anfall, …).
+    auch oft zu einer (kompensatorischen) Hyperventilation
+    (Herzinfarkt, Lungenembolie, Pneumothorax, Asthma-Anfall, …).
 
     Bei einer stoffwechselbedingten *Übersäuerung* (Azidose) kommt es zu
     einer Hyperventilation um CO₂ abzuatmen (dadurch wird Säure im
@@ -126,7 +136,7 @@ ABCDE: Hyperventilationssyndrom
 
 ``=``
     Normalerweise keine vitale Bedrohung (Differentialdiagnosen
-    bedenken!).
+    bedenken!)
 
 SAMPLER: Hyperventilationssyndrom
 =================================
@@ -135,13 +145,14 @@ SAMPLER: Hyperventilationssyndrom
 
     .. sidebar:: SAMPLER
 
-        **E**
+        🄴
             Stressige oder aufregende Erlebnisse
 
-``E``
+🄴
     Oft wird über stressige oder aufregende Erlebnisse berichtet
-    (Trennung, Todesfälle, Prüfungsstress, Verlust des Arbeitsplatzes,
-    …).
+    (Trennung, Todesfälle, Prüfungsstress,
+    Verlust des Arbeitsplatzes, …).
+
 
 .. _Proc-MF45331C:
 .. _m-Hyperventilationssysndrom:

@@ -292,7 +292,7 @@ angegeben:
 
 
 
-.. todo:: Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+.. todo:: Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  Ⓒ David Hauer :term:`Ⓛ MfG`
 
 Sturz aus großer Höhe
 =====================
@@ -389,7 +389,7 @@ Folgeverletzungen zu verhindern.
 
     Fixierung eines penetrierenden Fremdkörpers.
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -613,7 +613,7 @@ vorsichtig vom Fuß abzieht.
     Fehlstellung einer Unterschenkelfraktur nach einem
     Verkehrsunfall (PKW gegen Fußgänger) in natura …
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -624,7 +624,7 @@ vorsichtig vom Fuß abzieht.
 
     … und in Röntgendarstellung
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -1562,7 +1562,7 @@ Todesangst.
     Pneumothorax. Beachte die Randlinie zwischen Lunge (unten,
     innen) und dem luftgefüllten Pleuraspalt (oben, außen)
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -1574,7 +1574,7 @@ Todesangst.
     Im Vergleich: Kompletter Pneumothorax der rechten
     Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert.
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.*
     :width: 100%
@@ -1583,7 +1583,7 @@ Todesangst.
     einen Pneumothorax verursacht. **Dieser Patient ist lebensgefährlich
     verletzt!**
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -1822,7 +1822,7 @@ Offenes Bauchtrauma
 
     Offenes Bauchtrauma mit Austritt von Darmschlingen
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 Offene Bauchtraumata sind seltener als geschlossene Bauchtraumata. Beim
 offenen Bauchtrauma kann es zum Austritt von Darmschlingen kommen. Die
@@ -2512,7 +2512,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     Großflächige Verbrennung
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -2523,7 +2523,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     Ablederung
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -2538,7 +2538,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
     Entlastungsschnitte (*Escharatomie*) ermöglichen dem Brustkorb
     wieder sich auszudehnen und dem Patienten damit zu atmen.
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. subfigend::
     :width: 0.32

@@ -138,7 +138,8 @@ listet typische allgemeine Schocksymptome auf.
             -   Peripherie schlecht durchblutet, Rekapzeit erhöht
     *   -   **Schwerer Schock – Vollbild**
         -   -   Tachykardie (HF ↑, "fliehender" Puls)
-            -   RR-Abfall (schwacher Puls, peripher schlecht oder nicht tastbar)
+            -   RR-Abfall
+                (schwacher Puls, peripher schlecht oder nicht tastbar)
             -   Herzfrequenz > systolischer RR
             -   Tachypnoe (schnelle, flache Atmung)
             -   Neurologisch auffällig, getrübt
@@ -552,6 +553,7 @@ Maßnahmen: Schock
             ggfs Immobilisation
             (WS-Verletzung!)
         -   Ursachenabhängig
+        -
 
 ..
     Pharmakotherapie

@@ -94,7 +94,7 @@ Eine noch feinere Unterscheidung ist möglich.
     Ⓒ CardioNetworks, https://www.ecgpedia.org,
     via `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:De-Atrial_ventricular_(CardioNetworks_ECGpedia).png>`_
     `OTRS ticket #2011102310008874 <https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2011102310008874>`_
-    Ⓛ :term:`Lizenz: CC BY-SA 3.0 unported`
+    :term:`Ⓛ CC BY-SA 3.0`
 
 
 

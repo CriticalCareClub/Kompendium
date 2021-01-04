@@ -106,7 +106,7 @@ max. 120 / min).
             Druckpunkt: Mitte des Brustkorbs. Die Finger werden
             ineinander verschränkt,
 
-            [Lena Hirtler, :term:`Lizenz: MfG`]
+            [Lena Hirtler, :term:`Ⓛ MfG`]
 
 .. raw:: latex
 
@@ -117,7 +117,7 @@ max. 120 / min).
 
             die Arme durchgestreckt
 
-            [Lena Hirtler, :term:`Lizenz: MfG`]
+            [Lena Hirtler, :term:`Ⓛ MfG`]
 
 .. raw:: latex
 
@@ -129,7 +129,7 @@ max. 120 / min).
             und Oberkörper nach vorne gebeugt:
             → Druck direkt auf Brustbein
 
-            [Lena Hirtler, :term:`Lizenz: MfG`]
+            [Lena Hirtler, :term:`Ⓛ MfG`]
 
 .. subfigend::
     :width: 0.32

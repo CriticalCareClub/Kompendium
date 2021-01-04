@@ -47,7 +47,7 @@ einen Notarzt.
     Lagerung, Sauerstoffgabe, Reanimationsbereitschaft,
     Notarztnachforderung und Monitoring.
 
-    [Sebastian Gabriel, Lizenz: MfG]
+    [Sebastian Gabriel, Ⓛ MfG]
 
 
 

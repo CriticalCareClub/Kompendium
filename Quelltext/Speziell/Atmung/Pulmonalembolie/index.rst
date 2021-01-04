@@ -41,7 +41,7 @@ Blutgerinnseln führen.
 
     Herkunft des Thrombus
 
-    [Lena Hirtler,Lizenz: MfG]
+    [Lena Hirtler,Ⓛ MfG]
 
 ABCDE: Pulmonalembolie
 ======================

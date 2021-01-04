@@ -230,7 +230,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
     **Dieser Patient ist lebensgefährlich verletzt!**
     (Pneumothorax)
 
-    [David Hauer, :term:`Lizenz: MfG`]
+    [David Hauer, :term:`Ⓛ MfG`]
 
 .. raw:: latex
 
@@ -241,7 +241,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     Stichwunde mit eröffneter Brusthöhle.
 
-    [David Hauer, :term:`Lizenz: MfG`]
+    [David Hauer, :term:`Ⓛ MfG`]
 
 .. raw:: latex
 
@@ -252,14 +252,14 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     Verätzung
 
-    [David Hauer, :term:`Lizenz: MfG`]
+    [David Hauer, :term:`Ⓛ MfG`]
 
 .. figure:: /Bilder/HauerDavid-Ccc/burn-chem02.*
     :width: 100%
 
     Verätzung
 
-    [David Hauer, :term:`Lizenz: MfG`]
+    [David Hauer, :term:`Ⓛ MfG`]
 
 .. raw:: latex
 
@@ -270,7 +270,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     Ablederung nach schwerer Verbrennung
 
-    [David Hauer, :term:`Lizenz: MfG`]
+    [David Hauer, :term:`Ⓛ MfG`]
 
 .. subfigend::
     :width: 0.32
@@ -407,7 +407,7 @@ Basismaßnahmen
 
     Desinfektion einer frischen Wunde
 
-    [Lena Hirtler, :term:`Lizenz: MfG`]
+    [Lena Hirtler, :term:`Ⓛ MfG`]
 
 
 

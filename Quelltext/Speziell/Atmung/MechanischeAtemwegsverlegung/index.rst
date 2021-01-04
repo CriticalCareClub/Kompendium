@@ -1,3 +1,5 @@
+.. index::
+    single: Atemwegsverlegung
 
 .. _Thema-fremdkoerperaspiration:
 .. _Thema-AspirationFremdkoerper:
@@ -26,7 +28,8 @@ Mechanische Atemwegsverlegung (#38)
         -   Schweregrad:
 
             -   Milde Verlegung: *Kann Sprechen & Husten*
-            -   Schwere Verlegung: Sprechen oder effektiv husten nicht möglich
+            -   Schwere Verlegung:
+                Sprechen oder effektiv husten nicht möglich
 
 
 
@@ -64,24 +67,24 @@ ABCDE
 
     .. sidebar:: 1234ABCDE
 
-        **1**
+        ①
             Essensreste, Spielsachen, etc.
 
-        **2**
+        ②
             Gestik, evtl. |symbol-RedFlag|\  Zyanose
 
-        **3**
+        ③
             Evtl. |symbol-RedFlag|\  *Bewusstseinstrübung*
 
-        **4**
+        ④
             Atemnot, Fremdkörpergefühl
 
-        **A**
+        Ⓐ
             -  Fremdkörper oft nicht sichtbar
 
             -  Evtl. pfeifendes Atemgeräusch (Stridor)
 
-        **B**
+        Ⓑ
             -  Atemnot
 
             -  Milde Verlegung: *Kann Sprechen & Husten*
@@ -95,37 +98,37 @@ ABCDE
                 |symbol-RedFlag|\  Bewusstlosigkeit, Hypoxie bis Kreislaufstillstand
                 möglich
 
-        **C**
+        Ⓒ
             HF ↑, RR ↑
 
-        **=**
+        ``=``
             Bei schwerer Verlegung vital bedroht, sonst je nach Befund
 
 
-**1**
+:①:
     Achte auf Essenreste, Spielsachen (Murmeln!) und andere potentielle
     Fremdkörper.
 
-**2**
+:②:
     Oft gestikuliert der Patient entsprechend. Bei fortgeschrittener
     Hypoxie kann der Patient |symbol-RedFlag| **zyanotisch** sein.
 
-**3**
+:③:
     Infolge einer Hypoxie kann es zu einer
     |symbol-RedFlag|\  *Bewusstseinstrübung* kommen.
 
-**4**
+:④:
     Das Leitsymptom ist Atemnot bzw. Fremdkörpergefühl, zusammen mit
     einer entsprechenden Anamnese.
 
-**A**
+:Ⓐ:
     Der Atemweg ist teilweise oder ganz verlegt. Eventuell ist ein
     pfeifendes Atemgeräusch (*Stridor*) zu hören. Bei einer hochgradigen
     oder kompletten Verlegung ist das Atemgeräusch abgeschwächt oder
     fehlt völlig. Der Fremdkörper ist oft nicht sichtbar, da er sich oft
     unterhalb des Rachenraums befindet.
 
-**B**
+:Ⓑ:
     Je nach Ausmaß der Verlegung kann die Sauerstoffsättigung erniedrigt
     sein. Der Patient hat eine schnelle und erschwerte Atmung
     (*Tachypnoe*).
@@ -146,14 +149,18 @@ ABCDE
        |symbol-RedFlag|\  *Bewusstlosigkeit*, gefolgt von einem
        *Kreislaufstillstand* kommen.
 
-**C**
+:Ⓒ:
     Der Patient ist tachykard. Oft liegt eine Hypertonie aufgrund des
     Stress vor.
 
-**=**
+:``=``:
     Bei einer schweren Atemwegsverlegung ist der Patient vital bedroht.
     Bei der milden Verlegung ist die Einschätzung von den Befunden
     abhängig.
+
+.. index::
+    single: Heimlich-Manöver
+    single: Manöver; Heimlich-
 
 .. _Thema-heimlich-manoever:
 
@@ -169,27 +176,29 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
         -   Heimlich-Manöver
 
             -   Kompression des Bauchraumes → Überdruck
-            -   Ansatzpunkt unterhalb des Rippenbogens, ruckartige Bewegung
+            -   Ansatzpunkt unterhalb des Rippenbogens,
+                ruckartige Bewegung
             -   **Verletzungsgefahr!**
 
 
--  *Schläge zwischen die Schulterblätter*: Durch kräftige Schläge auf den Rücken
-   zwischen die Schulterblätter kann ein festsitzender Fremdkörper evtl.
-   gelockert und ausgehustet werden.
+-   *Schläge zwischen die Schulterblätter*:
+    Durch kräftige Schläge auf den Rücken
+    zwischen die Schulterblätter kann ein festsitzender Fremdkörper
+    evtl. gelockert und ausgehustet werden.
 
--  *Heimlich-Manöver*:  *Syn.*
-   *Heimlich-Handgriff*. Beim Heimlich-Manöver versucht man durch
-   Kompression des Bauchraums den Fremdkörper durch den entstandenen
-   Überdruck aus den Atemwegen zu entfernen.
+-   *Heimlich-Manöver*:  *Syn.*
+    *Heimlich-Handgriff*. Beim Heimlich-Manöver versucht man durch
+    Kompression des Bauchraums den Fremdkörper durch den entstandenen
+    Überdruck aus den Atemwegen zu entfernen.
 
-   Der Helfer umfasst von hinten den Oberbauch des Patienten und bildet
-   mit der einen Hand eine Faust und umschliesst diese mit der anderen
-   Hand. Nun legt er die Faust unterhalb der Rippen und des Brustbeins
-   an und zieht sie dann ruckartig gerade nach hinten zu sich.
+    Der Helfer umfasst von hinten den Oberbauch des Patienten und bildet
+    mit der einen Hand eine Faust und umschliesst diese mit der anderen
+    Hand. Nun legt er die Faust unterhalb der Rippen und des Brustbeins
+    an und zieht sie dann ruckartig gerade nach hinten zu sich.
 
-   **Verletzungsgefahr!** Durch Anwendung des Heimlich-Handgriffes kann
-   es zu schweren inneren Verletzungen kommen (Magen, Leber, …), die
-   Anwendung ist daher auf bedrohliche Situationen beschränkt.
+    **Verletzungsgefahr!** Durch Anwendung des Heimlich-Handgriffes kann
+    es zu schweren inneren Verletzungen kommen (Magen, Leber, …), die
+    Anwendung ist daher auf bedrohliche Situationen beschränkt.
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Fremdkoerper.*
@@ -197,26 +206,24 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
     Atemwegsverlegung (Schema): Der linke Bissen steckt in der
     Luftröhre fest, der andere befindet sich in der Speiseröhre.
 
-    [Lena Hirtler]
+    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
 
 .. figure:: /Bilder/WikipediaPd/Abdominal_thrusts3.jpg
 
-    Heimlich-Manöver: U.S. Naval Hospital, Okinawa, Japanese intern
-    Naoko Uehara teaches proper technique for treating a choking
+    Heimlich-Manöver:
+    Japanese intern Naoko Uehara
+    at U.S. Naval Hospital, Okinawa,
+    teaches proper technique for treating a choking
     victim with the assistance of Hospital Corpsman Second Class Ross
-    Francis. Amanda M. Woodhead, USMC
+    Francis.
 
-    [WmCo, PD]
+    Ⓒ Amanda M. Woodhead, USMC, :term:`Ⓛ PD`
 
 .. _m-atemwegsverlegung:
 
 Maßnahmen
 =========
-
-.. role:: raw-latex(raw)
-   :format: latex
-..
 
 Taktik:
     -   Schwer: **Vitale Bedrohung! Zeitkritisch**;

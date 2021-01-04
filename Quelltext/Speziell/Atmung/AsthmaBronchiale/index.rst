@@ -1,4 +1,7 @@
 
+.. index::
+    single: Asthma bronchiale
+
 *************************
 Asthma bronchiale (#34)
 *************************
@@ -47,9 +50,12 @@ einen Notarzt.
     Lagerung, Sauerstoffgabe, Reanimationsbereitschaft,
     Notarztnachforderung und Monitoring.
 
-    [Sebastian Gabriel, Ⓛ MfG]
+    Ⓒ Sebastian Gabriel
+    :term:`Ⓛ MfG`
 
 
+.. index::
+    single: Status asthmaticus
 
 .. _Thema-status-asthmaticus:
 
@@ -76,19 +82,19 @@ ABCDE
 
     .. sidebar:: 1234ABCDE
 
-        **1**
+        ①
             Kälte, Allergene
 
-        **2**
+        ②
             Einsatz der Atemhilfsmuskulatur
 
-        **3**
+        ③
             Schwerer Anfall: **|symbol-RedFlag|**\ Bewusstseinsstörungen
 
-        **4**
+        ④
             Akute Atemnot
 
-        **B**
+        Ⓑ
             Akute Atemnot mit trockenem Husten, Verlängerte Ausatmungsphase, AF
             ↑, Exspiratorisches Atemgeräusch (Stridor)
 
@@ -103,13 +109,10 @@ ABCDE
 
             Endstadium: |symbol-RedFlag|\  Atemarbeit erschöpft
 
-        **C**
+        Ⓒ
             HF ↑
 
             Schwerer Anfall: HF ↓
-
-        **D**
-            Schwerer Anfall: RR ↓
 
         **=**
             Schwere Atemnot: Vital bedroht. Erschöpfung: Atemarbeit
@@ -154,17 +157,17 @@ ABCDE
     Bei der Einschätzung der Atmung ist es wichtig auf die *Zeichen
     einer erschwerten Atemarbeit* zu achten:
 
-    -  Einsatz der Atemhilfsmuskulatur
-
-    -  Einziehungen an den Rippen
-
-    -  Erschöpfungszeichen
+    -   Einsatz der Atemhilfsmuskulatur
+    -   Einziehungen an den Rippen
+    -   Erschöpfungszeichen
 
     Es besteht die Gefahr der |symbol-RedFlag|\  *Erschöpfung der
     Atemmuskulatur* und einer reduzierten Atemarbeit.
 
 Ⓒ
-    Die Herzfrequenz ist meist erhöht (*Tachykardie*).
+    Die Herzfrequenz ist meist erhöht (*Tachykardie*),
+    im schweren Anfall kann sie aufgrund der Hypoxie
+    aber auch erniedrigt sein.
 
 ``=``
     Bei schwerer Atemnot besteht eine vitale Bedrohung. Bei Erschöpfung
@@ -178,31 +181,32 @@ SAMPLER
 
     .. sidebar:: SAMPLER
 
-        **A**
+        🄰
             Gräser, Pollen, Tierhaare, …
 
-        **M**
+        🄼
             Sprays, Inhalatoren. (Neue) Medikamente in letzter Zeit?
 
-        **P**
+        🄿
             Asthma oft vorbekannt
 
-        **L**
+        🄻
             Spray-Einnahme?
 
-        **E**
+        🄴
             Stress, Anstrengung, Allergene
 
 
 
-``A``
+🄰
     Patienten mit allergischem Asthma haben häufig Allergien gegen
     Gräser, Pollen, Tierhaare usw.
 
 🄼
     Oft werden Sprays bzw. Inhalatoren zur Dauertherpaie und für den
     Anfall eingesetzt. Manche Medikamente, insbesonders
-    Schmerzmedikamente, können Anfälle auslösen. [#227]_ Nahm der Patient
+    Schmerzmedikamente, können Anfälle auslösen\ [#227]_.
+    Nahm der Patient
     in letzter Zeit (neue) Medikamente?
 
 🄿
@@ -211,16 +215,18 @@ SAMPLER
 🄻
     Letzte Spray-Einnahme erfragen!
 
-``E``
+🄴
     Häufige Auslösefaktoren sind Stress, Anstrengung und
     Allergenexposition.
 
 
 
 .. [#227]
-   Besonders nichtsteroidale Antirheumatika (ASS, Aspirin, etc.) und
-   Betablocker (Antiarrhythmika, Blutdruckmittel) können Asthma-Anfälle
-   auslösen.
+    Besonders nichtsteroidale Antirheumatika
+    (ASS, Aspirin, etc.) und
+    Betablocker (Antiarrhythmika, Blutdruckmittel)
+    können Asthma-Anfälle
+    auslösen.
 
 
 .. _m-asthmaanfall:
@@ -239,19 +245,21 @@ Maßnahmen
     -   O₂-Gabe gemäß :ref:`m-sauerstoffberieselung`
 
         Achtung: In seltenen Fällen kann es vorkommen, dass bei hochdosierter
-        Sauerstoffgabe der Patient weniger atmet und Bewusstseinsstörungen
-        auftreten (CO2-Narkose)! Siehe :ref:`Thema-Copd`.
+        Sauerstoffgabe der Patient weniger atmet
+        und Bewusstseinsstörungen auftreten
+        (CO₂-Narkose, vgl. :ref:`Thema-Copd`)!
         Bei sorgfältiger Überwachung des
-        Patienten stellt die -Gabe in der Praxis jedoch kein Problem dar
-        [Scholz:2]_.
+        Patienten stellt die O₂-Gabe in der Praxis
+        jedoch kein Problem dar [Scholz:2]_.
 
-        O₂ bis eine Sauerstoffsättigung von 94-98% erreicht ist, oder 8 L / min.
+        O₂ bis eine Sauerstoffsättigung von 94—98% erreicht ist, oder 8 L / min.
         Die einschlägige Literatur ist widersprüchlich.
         Besonderes betont muss die Notwendigkeit zur Überwachung des Patienten
         bezüglich Bewusstseinsstörungen und Atmung werden!
 
-    -   Beruhigen, voratmen, durch fast geschlossene Lippen ausatmen lassen
-        (Lippenbremse)
+    -   Beruhigen, voratmen, durch fast geschlossene Lippen
+        ausatmen lassen
+        (**Lippenbremse**)
     -   Für nicht-ärztliches Personal:
         Sprays, die Patient evtl. bei sich hat,
         dürfen ohne ärztliche Anordnung nicht mehr genommen
@@ -262,4 +270,6 @@ Maßnahmen
         durch die Schleimhautresorption jedoch es zu einer systemischen
         Beta-mimetischen Wirkung (Tachykardie!)
         mit erhöhtem kardialen Sauerstoffbedarf kommt.
-    -   Inhalative Beta-Mimetika sind häufig Teil einer Arzneimittellieste gem. SanG.
+    -   Inhalative Beta-Mimetika
+        (z. B. Salbutamol (Cobivent™))
+        sind häufig Teil einer Arzneimittelliste gem. SanG.

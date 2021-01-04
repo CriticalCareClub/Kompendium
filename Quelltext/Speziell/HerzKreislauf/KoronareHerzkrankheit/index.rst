@@ -7,6 +7,9 @@
     single: Koronarsyndrom, akutes
     single: ACS
     single: Ischämie (akutes Koronarsyndrom)
+    single: VD
+    singke: Vessel disease
+    single: Disease; Vessel -
 
 .. _Thema-khk:
 
@@ -14,25 +17,17 @@
 Koronare Herzkrankheit (#49)
 #############################
 
-.. toctree::
-    :maxdepth: 1
-
-
 
 .. only:: not nosidebar
 
     .. sidebar:: Koronare Herzkrankheit
 
         -   Erkrankung der Herzkranzgefäße → Verengung
-
         -   Koronare Herzkrankheit (KHK, chronisch)
-
         -   Akutes Koronarsyndrom (ACS, akut)
-
         -   Symptomenkomplex, z. B. bei:
 
             -   Angina pectoris
-
             -   Herzinfarkt
 
 Die :dfn:`Koronare Herzkrankheit` (:dfn:`KHK`)
@@ -44,7 +39,8 @@ welche Folgeerkrankungen bedingt
 und in akuten Notfallsituationen resultieren kann.
 Je nachdem wieviele Koronargefäße betroffen sind,
 spricht man von einer 1-, 2- oder 3-Gefäßerkrankung
-(*engl.* 1-, 2-, 3-Vessel-Disease; bzw. *Abkz.* 1-, 2.-, 3.-VD).
+(Term.: *1-, 2-, 3-Vessel-Disease*
+bzw. Abkz.: *1-, 2-, 3-VD*).
 
 
 
@@ -56,13 +52,13 @@ spricht man von einer 1-, 2- oder 3-Gefäßerkrankung
 
     Das Herz mit seinen Koronargefäßen
 
-    [Lena Hirtler, MfG]
+    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
 .. raw:: latex
 
     \hfill
 
-.. figure:: /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.*
+.. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
     :width: 100%
 
     Darstellung der Herzkranzgefäße mittels Koronarangiographie
@@ -74,18 +70,18 @@ spricht man von einer 1-, 2- oder 3-Gefäßerkrankung
     Kontrastmittel appliziert um die Gefäße mittels Röntgendurchleuchtung
     sichtbar zu machen.
 
-    [WmCo "Bionerd", CC-BY-3.0]
+    Ⓒ WmCo "Bionerd", :term:`Ⓛ CC BY 3.0`
 
 .. raw:: latex
 
     \hfill
 
-.. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
+.. figure:: /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.*
     :width: 100%
 
     Die Koronargefäße versorgen den Herzmuskel von außen nach innen.
 
-    [Patrick J. Lynch, CC-BY-2.5]
+    Ⓒ Patrick Lynch, :term:`Ⓛ CC BY 2.5`
 
 .. subfigend::
     :width: 0.32
@@ -109,12 +105,12 @@ kann es zu einer Reihe von Folgeerkrankungen kommen, wie z. B.:
     oder eine instabile Angina pectoris
 
 
-SAMPLER bei der KHK
+SAMPLER: KHK
 ==========================================
 
 .. only:: not nosidebar
 
-    .. sidebar:: SAMPLER
+    .. sidebar:: SAMPLER:KHK
 
         🅂
             Siehe ABCDE
@@ -139,10 +135,10 @@ SAMPLER bei der KHK
             Positive Familienanamnese,
             Alter,
 
-🅂 — Symptome
+:🅂:
     Atemnot bei Anstrengung
 
-🄼 — Medikation
+:🄼:
     Niedrigdosierte Acetylsalicylsäure
     (ASS; z. B. ThromboASS™, HerzschutzASS™)
     gehört zur Standardmedikation
@@ -155,7 +151,7 @@ SAMPLER bei der KHK
     der glatten Gefäßmuskulatur auswirken sind
     Molsidomin und Isosorbiddinitrat (Isoket™).
 
-🄿 — Patientenhistorie
+:🄿:
     Eine KHK ist häufig schon bekannt.
     Entscheidend sind Koronarangiographie-
     und Ergometer-Untersuchungen ("Belastungs-EKG"),
@@ -164,7 +160,7 @@ SAMPLER bei der KHK
     Begleit- und Folgeerkrankungen sind häufig,
     z. B. eine ischänische Kardiomyapthie.
 
-🅁 — Risikofaktoren
+:🅁:
     Klassische Risikofaktoren sind:
 
     -   Rauchen
@@ -189,13 +185,12 @@ Angina pectoris (AP)
         Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf
 
         -   Einengung(en) von Herzkranzgefäßen
-
         -   Erhöhter Sauerstoffbedarf bei Anstrengung
-
-        -   Symptome des akuten Koronarsyndrom, eher bei Belastung, vergehen oft
+        -   Symptome des akuten Koronarsyndrom,
+            eher bei Belastung, vergehen oft
             bei Entspannung
-
-        -   Primär *nicht sicher vom Herzinfarkt unterscheidbar*
+        -   Klinisch
+            *nicht sicher vom Herzinfarkt unterscheidbar*
 
 
 Die Angina pectoris (lat., *"Brustenge"*)
@@ -223,9 +218,7 @@ mit Absterben von Herzmuskelgewebe kommt.
 
 
 .. _Thema-herzinfarkt:
-
 .. _Thema-myocardinfarkt:
-
 .. _Thema-mci:
 
 Herzinfarkt (Myocardinfarkt, MCI)
@@ -235,11 +228,9 @@ Herzinfarkt (Myocardinfarkt, MCI)
 
     .. sidebar:: Herzinfarkt
 
-        -  *Verschluss* von Herzkranzgefäßen
-
-        -  *Absterben* von Herzmuskelgewebe
-
-        -  Symptome eines *ACS*
+        -   *Verschluss* von Herzkranzgefäßen
+        -   *Absterben* von Herzmuskelgewebe
+        -   Symptome eines *ACS*
 
 
 Verschluss eines oder mehrerer Herzkranzgefäße
@@ -259,31 +250,36 @@ Schäden am Herzmuskel bestehen.
         Das Herz im Querschnitt, gesehen von unten: Links der rechte
         Ventrikel, rechts der muskelstarke linke Ventrikel.
 
-        [Patrick Lynch, CC-BY]
+        Ⓒ Patrick Lynch
+        :term:`Ⓛ CC BY 2.5`
 
 .. raw:: latex
 
     \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_infarct-00640.*
-        :width: 100%
+    :width: 100%
 
-        Ischämisches Herzmuskelgewebe ...
+    Ischämisches Herzmuskelgewebe ...
 
-        [Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5]
+    Ⓒ Patrick J. Lynch, medical illustrator,
+    C. Carl Jaffe MD, cardiologist.
+    :term:`Ⓛ CC BY 2.5`
 
 .. raw:: latex
 
     \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.*
-        :width: 100%
+    :width: 100%
 
-        stirbt nach einger Zeit ab, es
-        bildet sich eine (funktionslose) Narbe, die Herzleistung ist in Folge
-        beeinträchtigt.
+    stirbt nach einger Zeit ab,
+    es bildet sich eine (funktionslose) Narbe,
+    die Herzleistung ist in Folge beeinträchtigt.
 
-        [Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; CC-BY 2.5]
+    Ⓒ Patrick J. Lynch, medical illustrator,
+    C. Carl Jaffe MD, cardiologist.
+    :term:`Ⓛ CC BY 2.5`
 
 
 .. subfigend::
@@ -310,7 +306,7 @@ Gefahren
 *Herzrhythmusstörungen* (alle Arten),
 bis hin zum Kreislaufstillstand
 und zur Reanimationspflichtigkeit
-sind klassische Komplikationen eines Mycardinfarktes.
+sind klassische Komplikationen eines Myocardinfarktes.
 Besonders häufig kommt es
 als Frühkomplikation zu plötzlichen,
 lebensgefährlichen Rhythmusstörungen
@@ -329,10 +325,10 @@ Ein Herzinfarkt stellt somit eine **akute vitale Bedrohung** dar.
 
 .. figure:: /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.*
 
-          Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre
-          Tachykardie, sind häufige Komplikationen eines Herzinfarktes
+    Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre
+    Tachykardie, sind häufige Komplikationen eines Herzinfarktes
 
-          WMPD
+    :term:`Ⓛ PD`
 
 
 

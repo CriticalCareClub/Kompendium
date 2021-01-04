@@ -3,6 +3,7 @@
     single: Herzinsuffizienz
 
 .. _Thema-Herzinsuffizienz:
+.. _Linksherzinsuffizienz:
 
 ########################
 Herzinsuffizienz (#46)
@@ -104,15 +105,16 @@ ABCDE
             sein). Evtl. Zeichen eines   kardiogenen Schocks
 
         ⌥
-            -  Lungenödem
-            -  Bein-/*Hautödeme*
-            -  gestaute Halsvenen
-            -  Nächtliches Wasserlassen
+            -   Lungenödem
+            -   Bein-/*Hautödeme*
+            -   gestaute Halsvenen
+            -   Nächtliches Wasserlassen
 
         =
-            -  Chronisch: oft Gewöhnungseffekte, Kompensation
-            -  Dekompensation: Plötzlich neu auftretende Symptome, evtl.
-            Alarmsymptome
+            -   Chronisch: oft Gewöhnungseffekte, Kompensation
+            -   Dekompensation:
+                Plötzlich neu auftretende Symptome, evtl.
+                Alarmsymptome
 
 
 :②:

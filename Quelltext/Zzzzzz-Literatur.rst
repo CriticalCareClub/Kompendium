@@ -1468,7 +1468,7 @@ Z
 
 
 
-.. [BatesUntersuchung:1]
+.. [Bates:1]
 
 	Bickley, Lynn S., Robert A. Hoekelman, Elizabeth H. Naumburg und Joyce
 	Beebe Thompson:
@@ -1777,16 +1777,6 @@ Z
 
 
 
-
-
-
-
-.. [EKG-Knacker2]
-
-	Dietz, Thomas G. und Marcus P. Schubert:
-	2007.*Der Ekg-Knacker. Das
-	Notfall-Ekg-Buch.*
-	2. Auflage,  de Gruyter.
 
 
 

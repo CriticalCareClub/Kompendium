@@ -264,4 +264,4 @@ Typische Maßnahmen
 -   Lagerung mit erhöhtem Oberkörper
 -   Atemkommandos, Voratmen
 -   Beatmung
--   Standardmaßnahmen bei vital bedrohten Patienten
+-   :ref:`m-standardmassnahmen-vital`

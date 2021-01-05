@@ -14,6 +14,11 @@ formulieren
 (*"Was ist das Problem des Patienten?"*).
 
 
+.. only:: html
+
+    .. contents::
+
+
 Alarmzeichen ("Red Flags" 🚩) sind Zeichen einer vitalen Bedrohung
 ========================================================================
 
@@ -72,7 +77,6 @@ welche auf eine vitale Bedrohung hinweisen.
 
 
 .. _Thema-PatientenmanagementErstmassnahmen:
-
 .. _Thema-PatientenmanagementSofortmassnahmen:
 
 Sofortmaßnahmen müssen bei Bedarf sofort ergriffen werden
@@ -101,6 +105,79 @@ Typische Sofortmaßnahmen sind z. B.
     Patienten.
 
 
+
+
+
+.. _m-standardmassnahmen-vital:
+.. _Thema-standardmassnahmen-vital:
+.. _proc-YY13100B:
+.. _YY13100B:
+.. _SMBVBP:
+
+Standardmaßnahmen bei vital bedrohten Patienten
+===============================================
+
+Reihenfolge zählt!
+
+#.  **Situationsgerechte Lagerung}**
+#.  **Sauerstoffgabe**
+    (:ref:`m-sauerstoffberieselung`): je nach Indikation,
+    allgemeiner Zielwert: SpO₂ von 94—98%
+
+#.  Ggfs. **Notarzt-Nachforderung**:
+    mit kurzer Begründung
+
+    .. attention::
+        Bei manchen Notfällen keine Notarztnachforderung wenn
+        der Patient zeitkritisch ist, siehe jeweilige spezielle Maßnahmen!
+
+#.  **Engmaschiges, bestmögliches Monitoring**:
+    Je nach vorhandenem Material
+
+    RR, HF, Pulsoxymetrie, EKG,
+    Sitzwache/Patientenbeobachtung, etc. [#Patientenbeobachtung]_
+
+#.  **Reanimationsbereitschaft** herstellen
+    (:ref:`m-reanimationsbereitschaft`)
+
+.. [#Patientenbeobachtung]
+    Zuerst werden die Patientenbeobachtung
+    und -- wenn vorhanden -- die
+    Pulsoxymetrie eingesetzt. Überwachungsgeräte, deren Anlage
+    zeitintensiv ist (EKG, ...), sollen erst dann verwendet
+    werden, wenn alle dringlicheren Maßnahmen durchgeführt und
+    der Einschätzungsblock beendet ist!
+    Die
+    Patientenbeobachtung bleibt immer ein wesentlicher Teil
+    des Monitorings!
+
+
+
+.. _m-reanimationsbereitschaft:
+
+Reanimationsbereitschaft
+========================
+
+
+#.  Ggfs. Platz schaffen [#PlatzSchaffen]_
+#.  Geräte vorbereiten:
+
+    #.  **Beatmungsbeutel**
+    #.  **Absaugeinheit** und passenden Katheter  in
+        Griffweite stellen. Steriles Material bleibt verpackt.
+    #.  **Defibrillator** in Griffweite stellen,
+        Elektroden und Verbrauchsmaterial bleiben verpackt.
+
+.. [#PlatzSchaffen]
+    z. B. im Wohnzimmer den Couchtisch, Hocker etc. zur Seite schieben
+
+
+
+
+
+
+
+
 .. _Thema-SonderfallAbsolutZeitkritischePatienten:
 
 Vorgezogene Transportentscheidung bei absolut zeitkritischen Patienten
@@ -111,12 +188,12 @@ Bei **absolut zeitkritischen Patienten**,
 bei denen bereits die ``ABC``\ -Einschätzung
 ergibt,
 dass ein Transport nicht aufschiebbar ist,
-kann schon **nach dem Punkt** Ⓒ
+kann schon **nach Ⓒ**
 **eine Transportentscheidung**
 (Spital, Notarzt-Rendez-vous, …,
 vgl. :ref:`Thema-PamStrategie`)
 getroffen werden.
-Die Maßnahmen von Ⓓ und ``E`` sollen dann,
+Die Maßnahmen von Ⓓ und Ⓔ sollen dann,
 sofern möglich,
 während des Transportes erfolgen.
 Diese Einschätzung setzt jedoch ein hohes Maß an Erfahrung voraus und ist auch
@@ -126,10 +203,9 @@ Beispiele für ein solches Vorgehen wären z. B.
 nicht beherrschbare starke
 Blutungen oder geburtsunmögliche Lagen.
 
--  **Im Ausnahmefall schon nach dem Punkt C Strategie- und
-   Zielentscheidung**
-
--  Z. B. nicht beherrschbare starke Blutungen, geburtsunmögliche Lagen
+-   **Im Ausnahmefall schon nach Ⓒ Strategie- und
+    Zielentscheidung**
+-   Z. B. nicht beherrschbare starke Blutungen, geburtsunmögliche Lagen
 
 Nicht vital bedrohte Patienten
 ==============================
@@ -157,18 +233,18 @@ als auch notwendige Änderungen in der Behandlung
 und der Strategie.\ [#fn:ReEvaluation]_
 
 .. [#fn:ReEvaluation]
-   Einschätzungsblock:
-   Regelmäßge, angepasste Wiederholung:
-   Die    Forderung nach regelmäßiger,
-   angepasster Wiederholung des
-   Einschätzungsblockes entspricht dem früher gebräuchlichen Begriff
-   "ständige Verlaufskontrolle".
-   Die Formulierungen "regelmäßig" und "in
-   angemessenem Umfang" sind bewusst offen gewählt worden,
-   da dies
-   sowohl z. B. für den kritischen Bewusstlosen,
-   als auch für den "munter
-   vor sich hinplaudernden" KTW-Patienten gelten soll.
+    Einschätzungsblock:
+    Regelmäßge, angepasste Wiederholung:
+    Die    Forderung nach regelmäßiger,
+    angepasster Wiederholung des
+    Einschätzungsblockes entspricht dem früher gebräuchlichen Begriff
+    "ständige Verlaufskontrolle".
+    Die Formulierungen "regelmäßig" und "in
+    angemessenem Umfang" sind bewusst offen gewählt worden,
+    da dies
+    sowohl z. B. für den kritischen Bewusstlosen,
+    als auch für den "munter
+    vor sich hinplaudernden" KTW-Patienten gelten soll.
 
 
 

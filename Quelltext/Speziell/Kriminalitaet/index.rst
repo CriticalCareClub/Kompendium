@@ -6,9 +6,6 @@ Opfer von Kriminalität, Misshandlung und Vernachlässigung (#64)
 
 
 
-.. sectionauthor:: ???
-
-
 .. rubric:: Querverweise
 
 -   Anzeigepflicht: :ref:`Thema-anzeigepflicht`
@@ -35,7 +32,7 @@ des Beischlafes, oder einer dem Beischlaf gleichzusetzenden
 geschlechtlichen Handlung, nötigt. [#279]_
 
 .. [#279]
-   §201 StGB
+    §201 StGB
 
 
 Geschlechtliche Nötigung
@@ -46,7 +43,7 @@ Vergewaltigung — eine Person mit Gewalt oder durch gefährliche Drohung
 zur Vornahme oder Duldung einer geschlechtlichen Handlung nötigt. [#280]_
 
 .. [#280]
-   §202 StGB
+    §202 StGB
 
 Reaktion des Opfers
 -------------------
@@ -102,7 +99,7 @@ Basismaßnahmen
     -   Symptomatische Betreuung von Begleitverletzungen
     -   Keine nicht unbedingt notwendigen Untersuchungen
     -   Gynäkologische Untersuchungen erst innerklinisch durch einan Fachmann mit Set zur Beweissicherung
-    -   Zieleinheit: Abt. f. Gynäkologie
+    -   Ziel: Abt. f. Gynäkologie
     -   weiterführende psychologische Betreuung
 
 
@@ -112,21 +109,16 @@ Sexueller Missbrauch
 Sexueller Missbrauch umfasst grundsätzlich die Vornahme oder Verleitung
 zu geschlechtlichen Handlungen unter bestimmten Umständen, unter welchen
 die betroffene Person aufgrund ihres Alters, Geschäftsfähigkeit,
-bestehender Abhängigkeiten oder anderer Gründe *besonderen Schutz durch
-das Gesetz genießt*. Darunter fällt:
+bestehender Abhängigkeiten oder anderer Gründe
+*besonderen Schutz durch das Gesetz genießt*. Darunter fällt:
 
--  Sexueller Missbrauch einer wehrlosen oder psychisch beeinträchtigten
-   Person [#281]_
-
--  Schwerer sexueller Missbrauch von Unmündigen [#282]_
-
--  Sexueller Missbrauch von Unmündigen [#283]_
-
--  Sexueller Missbrauch von Jugendlichen [#284]_
-
--  Sittliche Gefährdung von Personen unter sechzehn Jahren [#285]_
-
--  Missbrauch eines Autoritätsverhältnisses [#286]_
+-   Sexueller Missbrauch einer wehrlosen oder psychisch beeinträchtigten
+    Person [#281]_
+-   Schwerer sexueller Missbrauch von Unmündigen [#282]_
+-   Sexueller Missbrauch von Unmündigen [#283]_
+-   Sexueller Missbrauch von Jugendlichen [#284]_
+-   Sittliche Gefährdung von Personen unter sechzehn Jahren [#285]_
+-   Missbrauch eines Autoritätsverhältnisses [#286]_
 
 Der sexuelle Missbrauch geschieht meist über lange Zeit und ist nur
 selten ein "akutes" Problem. Wichtig hierbei ist es, ihn zu erkennen und
@@ -135,65 +127,65 @@ eine ausführliche Dokumentation schon im Verdachtsfall anzufertigen.
 
 
 .. [#281]
-   §205. (1) Wer eine wehrlose Person oder eine Person, die wegen einer
-   Geisteskrankheit, wegen einer geistigen Behinderung, wegen einer
-   tiefgreifenden Bewusstseinsstörung oder wegen einer anderen schweren,
-   einem dieser Zustände gleichwertigen seelischen Störung *unfähig ist,
-   die Bedeutung des Vorgangs einzusehen* …, … dadurch missbraucht, dass
-   er an ihr eine *geschlechtliche Handlung* vornimmt oder von ihr an
-   sich vornehmen lässt oder sie zu einer geschlechtlichen Handlung mit
-   einer anderen Person oder, …, dazu verleitet, eine geschlechtliche
-   Handlung an sich selbst vorzunehmen, ist mit Freiheitsstrafe … zu
-   bestrafen.
+    §205. (1) Wer eine wehrlose Person oder eine Person, die wegen einer
+    Geisteskrankheit, wegen einer geistigen Behinderung, wegen einer
+    tiefgreifenden Bewusstseinsstörung oder wegen einer anderen schweren,
+    einem dieser Zustände gleichwertigen seelischen Störung *unfähig ist,
+    die Bedeutung des Vorgangs einzusehen* …, … dadurch missbraucht, dass
+    er an ihr eine *geschlechtliche Handlung* vornimmt oder von ihr an
+    sich vornehmen lässt oder sie zu einer geschlechtlichen Handlung mit
+    einer anderen Person oder, …, dazu verleitet, eine geschlechtliche
+    Handlung an sich selbst vorzunehmen, ist mit Freiheitsstrafe … zu
+    bestrafen.
 
-   (2) …
+    (2) …
 
 .. [#282]
-   unmündigen Person den Beischlaf oder … gleichzusetzende
-   geschlechtliche Handlung unternimmt, ist mit Freiheitsstrafe … zu
-   bestrafen.
+    unmündigen Person den Beischlaf oder … gleichzusetzende
+    geschlechtliche Handlung unternimmt, ist mit Freiheitsstrafe … zu
+    bestrafen.
 
-   (2) … (3) … (4) …
+    (2) … (3) … (4) …
 
 .. [#283]
-   §207. (1) Wer … eine geschlechtliche Handlung an einer *unmündigen
-   Person* vornimmt oder von einer unmündigen Person an sich vornehmen
-   lässt, ist mit Freiheitsstrafe … zu bestrafen.
+    §207. (1) Wer … eine geschlechtliche Handlung an einer *unmündigen
+    Person* vornimmt oder von einer unmündigen Person an sich vornehmen
+    lässt, ist mit Freiheitsstrafe … zu bestrafen.
 
-   (2) … (3) …
+    (2) … (3) …
 
-   (4) Übersteigt das Alter des Täters das Alter der unmündigen Person
-   nicht um mehr als vier Jahre …, so ist der Täter nach Abs. 1 und 2
-   *nicht zu bestrafen*, es sei denn, die unmündige Person hätte das
-   zwölfte Lebensjahr noch nicht vollendet.
+    (4) Übersteigt das Alter des Täters das Alter der unmündigen Person
+    nicht um mehr als vier Jahre …, so ist der Täter nach Abs. 1 und 2
+    *nicht zu bestrafen*, es sei denn, die unmündige Person hätte das
+    zwölfte Lebensjahr noch nicht vollendet.
 
 .. [#284]
-   §207b. (1) Wer an einer Person, die das *16. Lebensjahr* noch nicht
-   vollendet hat und aus bestimmten Gründen noch nicht reif genug ist, …
-   unter Ausnützung dieser mangelnden Reife sowie seiner
-   *altersbedingten Überlegenheit* eine geschlechtliche Handlung
-   vornimmt, …, ist … zu bestrafen.
+    §207b. (1) Wer an einer Person, die das *16. Lebensjahr* noch nicht
+    vollendet hat und aus bestimmten Gründen noch nicht reif genug ist, …
+    unter Ausnützung dieser mangelnden Reife sowie seiner
+    *altersbedingten Überlegenheit* eine geschlechtliche Handlung
+    vornimmt, …, ist … zu bestrafen.
 
-   (2) Wer an einer Person, die das 16. Lebensjahr noch nicht vollendet
-   hat, *unter Ausnützung einer Zwangslage* dieser Person eine
-   geschlechtliche Handlung vornimmt, …, ist … zu bestrafen.
+    (2) Wer an einer Person, die das 16. Lebensjahr noch nicht vollendet
+    hat, *unter Ausnützung einer Zwangslage* dieser Person eine
+    geschlechtliche Handlung vornimmt, …, ist … zu bestrafen.
 
-   (3) Wer eine Person, die das 18. Lebensjahr noch nicht vollendet hat,
-   unmittelbar durch ein Entgelt dazu verleitet, eine geschlechtliche
-   Handlung … vorzunehmen …, ist … zu bestrafen.
+    (3) Wer eine Person, die das 18. Lebensjahr noch nicht vollendet hat,
+    unmittelbar durch ein Entgelt dazu verleitet, eine geschlechtliche
+    Handlung … vorzunehmen …, ist … zu bestrafen.
 
 .. [#285]
-   §208. (1) Wer eine Handlung, die geeignet ist, die sittliche,
-   seelische oder gesundheitliche Entwicklung von Personen unter
-   sechzehn Jahren zu gefährden, vor einer unmündigen Person oder einer
-   seiner Erziehung, Ausbildung oder Aufsicht unterstehenden Person
-   unter sechzehn Jahren vornimmt, um dadurch sich oder einen Dritten
-   geschlechtlich zu erregen oder zu befriedigen, ist mit
-   Freiheitsstrafe bis zu einem Jahr zu bestrafen, es sei denn, daß nach
-   den Umständen des Falles eine Gefährdung der unmündigen oder Person
-   unter sechzehn Jahren ausgeschlossen ist.
+    §208. (1) Wer eine Handlung, die geeignet ist, die sittliche,
+    seelische oder gesundheitliche Entwicklung von Personen unter
+    sechzehn Jahren zu gefährden, vor einer unmündigen Person oder einer
+    seiner Erziehung, Ausbildung oder Aufsicht unterstehenden Person
+    unter sechzehn Jahren vornimmt, um dadurch sich oder einen Dritten
+    geschlechtlich zu erregen oder zu befriedigen, ist mit
+    Freiheitsstrafe bis zu einem Jahr zu bestrafen, es sei denn, daß nach
+    den Umständen des Falles eine Gefährdung der unmündigen oder Person
+    unter sechzehn Jahren ausgeschlossen ist.
 
-   (2) …
+    (2) …
 
 .. [#286]
     §212.
@@ -247,23 +239,16 @@ kommen.
 Hinweiszeichen
 --------------
 
--  Langes Intervall zwischen Verletzungszeitpunkt und Verständigung der
-   Rettung.
-
--  Anamnese und Verletzungsmuster widersprechen einander!
-
--  Mehrere Verletzungen verschiedenen Alters.
-
--  Erkennbarer, verletzungsverursachender Gegenstand (Schuhabdruck, …).
-
--  Zeichen der Vernachlässigung.
-
--  Verletzungen bzw. Schmerzen in der Genitalregion (Achtung: Es gibt
-   auch andere Ursachen als sexueller Missbrauch!).
-
--  "Untypische" Verletzungen.
-
--  Verhaltensstörungen.
+-   Langes Intervall zwischen Verletzungszeitpunkt und Verständigung der
+    Rettung.
+-   Anamnese und Verletzungsmuster widersprechen einander!
+-   Mehrere Verletzungen verschiedenen Alters.
+-   Erkennbarer, verletzungsverursachender Gegenstand (Schuhabdruck, …).
+-   Zeichen der Vernachlässigung.
+-   Verletzungen bzw. Schmerzen in der Genitalregion (Achtung: Es gibt
+    auch andere Ursachen als sexueller Missbrauch!).
+-   "Untypische" Verletzungen.
+-   Verhaltensstörungen.
 
 
 .. _KT74011C:
@@ -271,8 +256,6 @@ Hinweiszeichen
 
 Maßnahmen: Kindesmisshandlung
 -----------------------------
-
-.. todo:: Maßnahme KT74011C: Anpassung an höherqualifiziertes Personal
 
 
 Die Aufgaben des Rettungsdienstes bei Verdacht auf Kindesmisshandlung besteht in:
@@ -321,8 +304,8 @@ Entwicklung beträchtlich schädigt. [#287]_
 
 
 .. [#287]
-   §92 StGB: Quälen oder Vernachlässigen unmündiger, jüngerer oder
-   wehrloser Personen
+    §92 StGB: Quälen oder Vernachlässigen unmündiger, jüngerer oder
+    wehrloser Personen
 
 Konsequenz
 ----------

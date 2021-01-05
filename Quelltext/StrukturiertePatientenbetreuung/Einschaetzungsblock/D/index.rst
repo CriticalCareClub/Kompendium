@@ -151,6 +151,11 @@ festgestellt werden:
     der Extremitäten.
 
 
+Typische Maßnahmen
+==========================
+
+-   :ref:`m-einschaetzung-indikation-ws-immobilisation`
+-   :ref:`m-standardmassnahmen-vital`
 
 
 .. subfigstart::

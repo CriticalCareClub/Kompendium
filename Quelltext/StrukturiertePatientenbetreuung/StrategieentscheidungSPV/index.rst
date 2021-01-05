@@ -37,11 +37,11 @@ Transportpriorität
 ..
   .. sidebar:: Transportpriorität
 
-    #. *Zeitkritisch?*
-    #. *Stabilisierung notwendig?*
-    #. Ggfs. *Verfügbarkeit eines Notarztmittels*
-    #. *Transportdauer* zur Zieleinrichtung
-    #. Evtl. *Rendez-vous*?
+    #.  *Zeitkritisch?*
+    #.  *Stabilisierung notwendig?*
+    #.  Ggfs. *Verfügbarkeit eines Notarztmittels*
+    #.  *Transportdauer* zur Zieleinrichtung
+    #.  Evtl. *Rendez-vous*?
 
 
 

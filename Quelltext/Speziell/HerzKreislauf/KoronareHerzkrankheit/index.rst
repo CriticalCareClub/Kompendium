@@ -220,8 +220,9 @@ mit Absterben von Herzmuskelgewebe kommt.
 .. _Thema-herzinfarkt:
 .. _Thema-myocardinfarkt:
 .. _Thema-mci:
+.. _Myokardinfarkt:
 
-Herzinfarkt (Myocardinfarkt, MCI)
+Herzinfarkt (Myokardinfarkt, MCI)
 ==========================================
 
 .. only:: not nosidebar

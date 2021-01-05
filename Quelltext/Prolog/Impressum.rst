@@ -5,15 +5,15 @@ Offenlegung, Impressum, Nutzungsbedingungen und Hinweise
 
 Dieses Werk ist in Entwicklung und gegenwärtig nicht zur Veröffentlichung bestimmt!
 
-| Critical Care Club Austria
+| Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für den Sanitätsdienst
 | Engerthstraße 146/8/3
 | A-1200 Wien – AUSTRIA
 
 E-Mail:
-    office@criticalcareclub.at
+    office@aass.at
 
 Homepage:
-    http://www.criticalcareclub.at
+    http://www.aass.at
 
 ZVR:
     846678982
@@ -29,8 +29,7 @@ Publikationsart:
 ISBN:
 	---
 
-Status:
-    ()
+Status: Entwicklungsversion
 
 Versionsgeschichte
 
@@ -95,7 +94,7 @@ Versionsgeschichte
         2016-09 (Release)
 
     4.0.0
-        2020 (geplant, ERC-Leitlinien 2020)
+        2021 (geplant, ERC-Leitlinien 2020/2021)
 
     5.0.0.gamma.1
         2021-01 (geplant, Vorabversion *Kompendium des CCCA*)
@@ -173,6 +172,5 @@ Entwicklungsumgebung
 Versionsverwaltung
     Git
 
-Literaturverzeichnis
-    JabRef, BibLaTeX, Biber
-
+Projektmanagement-Plattform
+    GitLab™ (https://www.gitlab.com)

@@ -98,3 +98,4 @@ Typische Maßnahmen
 -   Anlegen von Schutzausrüstung
 -   Nachforderung weiterer Kräfte
 -   Rettung aus einer Gefahrenzone
+-   :ref:`m-einschaetzung-indikation-ws-immobilisation`

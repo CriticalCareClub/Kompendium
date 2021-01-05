@@ -244,6 +244,7 @@ bedingte Atemstörung festgestellt werden (Ⓑ-Befund).
 Typische Maßnahmen
 ==================
 
+-   :ref:`m-einschaetzung-indikation-ws-immobilisation`
 -   Lagerung mit erhöhten Beinen
 -   Blutstillung
--   Standardmaßnahmen bei vital bedrohten Patienten
+-   :ref:`m-standardmassnahmen-vital`

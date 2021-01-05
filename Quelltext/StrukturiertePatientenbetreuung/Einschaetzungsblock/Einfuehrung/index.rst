@@ -43,7 +43,7 @@ Verschlechterung des Patientenzustandes rechtzeitig zu erkennen.
     verzichtet.
 
 
-Das ABCDE-Schema bzw. der Geringschätzung **1--E**
+Das ABCDE-Schema bzw. der Geringschätzung **①—Ⓔ**
 dient der Erkennung von vital bedrohten Patienten und dem
 Erkennen von Hauptbeschwerden und Leitsymptomen,
 *es deckt nicht
@@ -61,7 +61,7 @@ nach Bedarf durchgeführt.\ [#169]_
     Unser Konzept integriert die Punkte der General Impression
     als *zum ABCDE gleichberechtigte Punkte* und betont somit diese:
     *Szeneüberblick*, *Eindruck*, *Bewusstsein* und *Hauptbeschwerde*
-    haben als Punkte **1—4** einen größeren
+    haben als Punkte **①—④** einen größeren
     Stellenwert als bei vielen anderen Interpretationen des
     ABC(DE)-Schemas.
     Bei der Re-Evaluation werden diese Punkte ebenso

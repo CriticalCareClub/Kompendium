@@ -1,6 +1,9 @@
 .. index::
     single: SAMPLER
 
+.. _Anamnese:
+.. _Sampler:
+
 #################
 Anamnese: SAMPLER
 #################
@@ -36,13 +39,13 @@ oder Dokumentationen anderer Gesundheitseinrichtungen
 
     .. sidebar:: SAMPLER
 
-        -  🅂 ymptome und Schmerzen
-        -  ``A`` llergien
-        -  🄼 edikamente
-        -  🄿 atientengeschichte
-        -  🄻 etzte …
-        -  ``E`` reignisse vor Notfalleintritt
-        -  🅁 isikofaktoren
+        -   🅂ymptome und Schmerzen
+        -   🄰llergien
+        -   🄼edikamente
+        -   🄿atientengeschichte
+        -   🄻etzte …
+        -   🄴reignisse vor Notfalleintritt
+        -   🅁isikofaktoren
 
 
 In einer Notfallsituation soll das Anamnesegespräch gleichzeitig alle
@@ -53,21 +56,15 @@ Um diese Gegensätze miteinander
 vereinen zu können soll es strukturiert durchgeführt werden.
 Die Kernpunkte sind:
 
--  ``🅂`` *S*\ ymptome und Schmerzen
-
--  ``🄰`` *A*\ llergien
-
--  ``🄼`` *M*\ edikamente
-
--  ``🄿`` *P*\ atientengeschichte
+-  🅂ymptome und Schmerzen
+-  🄰llergien
+-  🄼edikamente
+-  🄿atientengeschichte
    (Vor- und Grunderkrankungen,
    Operationen, …)
-
--  ``🄻`` *L*\ etzte …
-
--  ``🄴`` *E*\ reignisse vor Notfalleintritt
-
--  ``🅁`` *R*\ isikofaktoren
+-  🄻etzte …
+-  🄴reignisse vor Notfalleintritt
+-  🅁isikofaktoren
 
 In Anlehnung an die Anfangsbuchstaben wird dieses Abfrageschema
 :dfn:`SAMPLER`\ [#fn:Sampler]_ bezeichnet.
@@ -84,9 +81,9 @@ abweichen.
     Krankheiten, Allergien, Medikamente, Ereignisse und Letztes.
 
 
-**********************
-Symptome und Schmerzen
-**********************
+*************************
+🅂 Symptome und Schmerzen
+*************************
 
 Die Einstiegsfrage
 *"Was kann ich für Sie tun?"*
@@ -177,9 +174,9 @@ Er kommt häufig bei Verstopfung der Gallen- und Harnwege durch Steine
 vor.
 
 
-*********
-Allergien
-*********
+************
+🄰 Allergien
+************
 
 Auf die Frage nach möglichen Allergien wird häufig vergessen,
 ein
@@ -194,9 +191,9 @@ Notfallpatient kann bewusstlos werden und vielleicht zu einem späteren
 Zeitpunkt nicht mehr befragt werden!
 
 
-***********
-Medikamente
-***********
+**************
+🄼 Medikamente
+**************
 
 Die vom Patienten eingenommenen Medikamente lassen Rückschlüsse auf
 seine Grunderkrankungen zu und sind im Falle eines längeren
@@ -234,9 +231,9 @@ Fragen zu Medikamenten:
 
 .. note::
 
-    -  Bei der Anamneseerhebung muss immer nach Medikamentenlisten
-       gefragt werden!
-    -  Das Ignorieren
+    -   Bei der Anamneseerhebung muss immer nach Medikamentenlisten
+        gefragt werden!
+    -   Das Ignorieren
         bzw. die Nicht-Mitnahme von Medikamentenlisten o.ä.
         stellt einen schweren Fehler dar!
 
@@ -278,9 +275,9 @@ beeinflussen,
 wären z. B.
 Pradaxa™ oder Sintrom™.
 
-*******************
-Patientengeschichte
-*******************
+**********************
+🄿 Patientengeschichte
+**********************
 
 Notfälle ereignen sich manchmal aufgrund der akuten Verschlechterung
 einer bestehenden Vorerkrankung.
@@ -532,27 +529,24 @@ veralten).
 
     [Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`]
 
-********
-Letzte …
-********
+***********
+🄻 Letzte …
+***********
 
 
-..
-  .. sidebar:: Letzte ...
 
-    -  Letzte Mahlzeit?
 
-    -  Letzter Stuhlgang?
+.. only:: not nosidebar
 
-    -  Letzte Regelblutung?
+    .. sidebar:: 🄻 Letzte(r) …
 
-    -  Letzter Spitalsaufenthalt?
-
-    -  Letzter Arztbesuch?
-
-    -  Letzte Blutzuckerkontrolle?
-
-    -  …
+        -   Mahlzeit?
+        -   Stuhlgang?
+        -   Regelblutung?
+        -   Spitalsaufenthalt?
+        -   Arztbesuch?
+        -   Blutzuckerkontrolle?
+        -   …
 
 Der letzte Punkt des Abfrageschemas bezieht sich auf letzte Ereignisse,
 welche mit dem Notfall in Zusammenhang stehen könnten.
@@ -574,9 +568,9 @@ Fragen zielführend sein:
     *"Wann waren Sie zuletzt beim Arzt bzw. im Spital?"*
 
 
-******************************
-Ereignisse vor Notfalleintritt
-******************************
+*********************************
+🄴 Ereignisse vor Notfalleintritt
+*********************************
 
 Oft ereignen sich vor einem Notfall Schlüsselereignisse,
 welche den
@@ -602,9 +596,26 @@ oder Zeugen befragen:
 
 -  u. v. m.
 
-**************
-Risikofaktoren
-**************
+*****************
+🅁 Risikofaktoren
+*****************
+
+
+.. only:: not nosidebar
+
+    .. sidebar::  🅁 Risikofaktoren
+
+        -   Begünstigen Erkrankungen
+        -   Z. B.:
+
+            -   Alter
+            -   Geschlecht
+            -   Immobilisierung, Bettlägrigkeit
+            -   Rauchen
+            -   Diabetes mellitus
+            -   Arterielle Hypertonie
+            -   Hormonelle Verhütung
+
 
 Viele Erkrankungen werden durch das Vorhandensein von Risikofaktoren
 begünstigt.
@@ -637,18 +648,6 @@ Geschlecht …).
 Es ist wichtig,
 sich die gefundenen Riskofaktoren
 bei der Bewertung des Patienten zu vergegenwärtigen.
-
--  Begünstigen Erkrankungen
-
--  Z. B.:
-
-   -  Alter
-   -  Geschlecht
-   -  Immobilisierung, Bettlägrigkeit
-   -  Rauchen
-   -  Diabetes mellitus
-   -  Arterielle Hypertonie
-   -  Hormonelle Verhütung
 
 
 

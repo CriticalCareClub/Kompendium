@@ -8,20 +8,14 @@ Untersuchung des Abdomens
 
 
 
+.. sidebar:: Untersuchung Abdomen
 
-.. toctree::
-	:maxdepth: 1
-
-
-..
-	.. sidebar:: Untersuchung Abdomen
-
-		-  	Fremdkörper? Wunden?
-		-  	Schmerzen?
-		-  	Einteilung in 4 Quadranten
-		-  	Abtasten der 4 Quadranten, beginnen dort wo kein Schmerz
-		-  	harter oder weicher Bauch?
-		-  	Druck- oder Loslassschmerz?
+    -   Fremdkörper? Wunden?
+    -   Schmerzen?
+    -   Einteilung in 4 Quadranten
+    -   Abtasten der 4 Quadranten, beginnen dort wo kein Schmerz
+    -   harter oder weicher Bauch?
+    -   Druck- oder Loslassschmerz?
 
 Das Abdomen kann man abtasten um
 die Anspannung der Bauchdecke und Schmerzen zu beurteilen und
@@ -37,6 +31,9 @@ oder verhärtet ist. Dabei fragt man den Patienten ob er Schmerzen
 empfindet. Dies wiederholt man in allen vier Quadranten.
 
 Weiters kann man beurteilen ob der Patient Schmerzen durch den Druck hat
-(*Druckschmerz*) oder ob er Schmerzen beim Loslassen bekommt (!!!
-TERMINUS !!! *Loslassschmerz*).
+(*Druckschmerz*) oder ob er Schmerzen beim Loslassen bekommt *Loslassschmerz*). [Bates:1]_
+
+.. todo:: #89: Bilderserie Abdomen-Palpation
+
+    https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/89
 

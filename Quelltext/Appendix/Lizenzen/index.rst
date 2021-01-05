@@ -84,6 +84,7 @@ an die Lizenzbedingungen akzeptieren.*
     \begin{multicols}{2}
 
 1.  Definitionen
+
     Der Begriff "**Bearbeitung**" im Sinne dieser Lizenz bezeichnet das
     Ergebnis jeglicher Art von Veränderung des Schutzgegenstandes,
     solange dieses erkennbar vom Schutzgegenstand abgeleitet wurde. Dies
@@ -161,7 +162,7 @@ an die Lizenzbedingungen akzeptieren.*
     einer geschützten Darbietung oder eines Bild- und/oder Schallträgers
     in digitaler Form oder auf einem anderen elektronischen Medium.
 
-2.  **Beschränkungen der Verwertungsrechte**
+2.  Beschränkungen der Verwertungsrechte
 
     Diese Lizenz ist in keiner Weise darauf gerichtet, Befugnisse zur
     Nutzung des Schutzgegenstandes zu vermindern, zu beschränken oder zu
@@ -170,7 +171,7 @@ an die Lizenzbedingungen akzeptieren.*
     Rechtsinhabers oder anderen entsprechenden Rechtsnormen oder sich
     aus dem Fehlen eines immaterialgüterrechtlichen Schutzes ergeben.
 
-3.  **Lizenzierung**
+3.  Lizenzierung
 
     Unter den Bedingungen dieser Lizenz erteilt Ihnen der Lizenzgeber –
     unbeschadet unverzichtbarer Rechte und vorbehaltlich des Abschnitts
@@ -220,7 +221,8 @@ an die Lizenzbedingungen akzeptieren.*
     Art genießen, verzichtet der Lizenzgeber auf die Geltendmachung
     sämtlicher daraus resultierender Rechte.
 
-4.  **Bedingungen**
+4.  Bedingungen
+
     Die Erteilung der Nutzungsbewilligung gemäß Abschnitt 3 dieser
     Lizenz erfolgt ausdrücklich nur unter den folgenden Bedingungen:
 
@@ -290,7 +292,7 @@ an die Lizenzbedingungen akzeptieren.*
         (Urheber)Persönlichkeitsrechte bleiben - soweit sie bestehen - von
         dieser Lizenz unberührt.
 
-5.  **Gewährleistung**
+5.  Gewährleistung
 
     Sofern keine anders lautende, schriftliche Vereinbarung zwischen
     dem Lizenzgeber und ihnen geschlossen wurde und soweit Mängel nicht
@@ -303,7 +305,7 @@ an die Lizenzbedingungen akzeptieren.*
     des Schutzgegenstandes, seine Verwendbarkeit für einen bestimmten
     Zweck sowie die Korrektheit von Beschreibungen.
 
-6.  **Haftungsbeschränkung**
+6.  Haftungsbeschränkung
 
     Über die in Ziffer 5 genannte Gewährleistung hinaus haftet der
     Lizenzgeber Ihnen gegenüber für Schäden jeglicher Art nur bei grober
@@ -311,7 +313,7 @@ an die Lizenzbedingungen akzeptieren.*
     freiwillige Haftung für Folge- oder andere Schäden, auch wenn er
     über die Möglichkeit Ihres Eintritts unterrichtet wurde.
 
-7.  **Erlöschen**
+7.  Erlöschen
 
     Diese Lizenz und die durch sie erteilte Nutzungsbewilligung
     erlöschen mit Wirkung für die Zukunft im Falle eines Verstoßes gegen
@@ -336,7 +338,8 @@ an die Lizenzbedingungen akzeptieren.*
     oben zum Erlöschen genannten Bedingungen vollumfänglich wirksam
     bleibt.
 
-8.  **Sonstige**
+8.  Sonstige
+
     Jedes Mal wenn Sie den Schutzgegenstand für sich genommen oder als
     Teil eines Sammelwerkes verbreiten oder öffentlich wiedergeben,
     bietet der Lizenzgeber dem Empfänger eine Lizenz zu den gleichen
@@ -401,7 +404,6 @@ folgende Nutzungen gestattet:
     :ref:`Thema-Lizenz` nutzen:
 
     #.  Doppelseite "Standardisierte Patientenversorung"
-
     #.  Übersicht "Weiterführende Maßnahmen"
 
 ******************************************
@@ -490,6 +492,14 @@ Andere verwendete Ⓛ — Lizenzen
     Ⓛ CC BY-ND 3.0
         *Creative-Commons Attribution No Derivatives 3.0*:
         http://creativecommons.org/licenses/by-nd/3.0/legalcode;
+
+
+    Ⓛ CC BY-SA 2.0 DE
+        *Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Deutschland*:
+        https://creativecommons.org/licenses/by-sa/2.0/de
+
+
+
 
     Ⓛ CC BY-SA 3.0
         *Creative Commons Attribution-ShareAlike 3.0 Unported*:

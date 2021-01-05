@@ -13,12 +13,10 @@ Appendix (#25)
 .. toctree::
     :maxdepth: 2
 
-    Glossar.rst
-    Massnahmenkatalog.rst
-    Autorendokumentation/index
+    Glossar/index
     /Zzzzzz-Literatur.rst
-    Exported/index
-    Todo/index
+    Autorendokumentation/index
+    Lizenzen/index
 
 
 
@@ -40,3 +38,12 @@ Appendix (#25)
 ⇄ arrows both sides
 
 β beta
+
+½ 1/2
+
+SpO₂
+
+m²
+
+
+.. todolist::

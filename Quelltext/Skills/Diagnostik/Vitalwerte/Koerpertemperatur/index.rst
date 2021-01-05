@@ -2,6 +2,8 @@
 
 .. index::
     single: Körperkerntemperatur
+    single: tympanal; Temperaturmessung
+    single: Fieber; Temperaturmessung
 
 .. _Thema-koerpertemperatur-messung:
 
@@ -9,42 +11,44 @@
 Körpertemperatur
 ########################################################################
 
+.. only:: not nosidebar
 
+    .. sidebar:: Messung der Körpertemperatur
 
+        Nach dem Ort der Messung
 
+        -   axillär
+        -   rektal
+        -   tympanal
+        -   spezielle Sonden
 
-.. toctree::
-	:maxdepth: 1
+        Nach dem Gerätetyp
 
+        -   herkömmliches (elektronisches) Thermometer
+        -   Ohrthermometer
 
-
+        Fieber: ≥ 38°C
 
 Die Körpertemperatur kann an
 unterschiedlichen Stellen und mit unterschiedlichen Mitteln bestimmt
-werden. Mit dem *herkömmlichen Fieberthermometer*\  [#122]_ kann die
+werden. Mit dem *herkömmlichen Fieberthermometer*\ [#122]_ kann die
 Temperatur unter der *Achsel* (*axillär*) oder im *Enddarm* (*rektal*,
 vor allem bei Kleinkindern) bestimmt werden, die Messung im Mund ist im
-professionellen Umfeld eher unüblich. Es ist bei jeder der Messung eine
+professionellen Umfeld eher unüblich.
+In der Praxis sehr zuverlässig ist die Messung im Gehörgang (*tympanal*) mittels eines *Ohrthermometers*. Es ist bei jeder der Messung eine
 Schutzhülle zu verwenden.
 
-Mit dem *Ohrthermometer* kann mittels Infrarot die Temperatur im
-*Mittelohr* bestimmt werden. Es sind die entsprechenden *Schutzkappen*
-zu verwenden. Die Temperatur im Enddarm und im Mittelohr bezeichnet man
-als ;dfn:`Körperkerntemperatur`, diese beträgt um die 37.
-Die unter der Achsel gemessene Temperatur kann ca. !!! NICEFRAC !!! 12°C
+Die Temperatur im Enddarm und im Mittelohr bezeichnet man
+als :dfn:`Körperkerntemperatur`, diese beträgt um die 37°C.
+Die unter der Achsel gemessene Temperatur kann ca. ½°C
 niedriger sein.
+Bei besonderen Fragestellungen können auch andere Sonden,
+z. B. in einen Harnkatheter integrierte, zur Anwendung kommen.
 
--  nach dem Ort der Messung
+Von **Fieber** spricht man,
+wenn die Körpertemperatur ab 38°C erhöht ist
 
-   -  axillär
 
-   -  rektal
-
--  nach dem Gerätetyp
-
-   -  herkömmliches (elektronisches) Thermometer
-
-   -  Ohrthermometer
 
 
 .. [#122]

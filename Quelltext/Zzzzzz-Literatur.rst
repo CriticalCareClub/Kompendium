@@ -147,7 +147,6 @@ Literaturverzeichnis
     Schnelle:2006
     Schottmueller:1914
     Silbernagl3-Herz
-    EkgIsabell:5
     SemmelABC:1
     Seto:2003
     Shea:1975
@@ -245,7 +244,6 @@ Literaturverzeichnis
 [AntonovskySalutogenese]_
 [Beneker:2004]_
 [BengelPsyNotfallmedRd:2]_
-[BatesUntersuchung:1]_
 [youtube:VaginalChildbirth]_
 [Bischofberger:2007]_
 [FamPropPku:2014]_
@@ -271,7 +269,6 @@ Literaturverzeichnis
 [Harrisons18DeKap243]_
 [Harrisons18DeKap246]_
 [Harrisons18DeKap245]_
-[EKG-Knacker2]_
 [FrielingLehrbArbeitspsy:2]_
 [ADR:2011]_
 [www.ekg-online.de]_
@@ -283,7 +280,6 @@ Literaturverzeichnis
 [Lissauer:2007]_
 [Freudenberger:1974]_
 [FamPropAeGeFue:2010]_
-[InnereMedQuick:3]_
 [Gallaher:2009]_
 [youtube:Herzinfarkt]_
 [Genzwuerker:2007]_
@@ -373,7 +369,6 @@ Literaturverzeichnis
 [Renz-Polster:4]_
 [Schabus:1]_
 [Seto:2003]_
-[EkgIsabell:5]_
 [Sitzmann:2]_
 [Waldeyer:2003]_
 [BrockhausDrei2Bd2]_
@@ -1470,7 +1465,7 @@ Z
 
 
 
-.. [BatesUntersuchung:1]
+.. [Bates:1]
 
 	Bickley, Lynn S., Robert A. Hoekelman, Elizabeth H. Naumburg und Joyce
 	Beebe Thompson:
@@ -1783,16 +1778,6 @@ Z
 
 
 
-.. [EKG-Knacker2]
-
-	Dietz, Thomas G. und Marcus P. Schubert:
-	2007.*Der Ekg-Knacker. Das
-	Notfall-Ekg-Buch.*
-	2. Auflage,  de Gruyter.
-
-
-
-
 
 
 
@@ -1987,17 +1972,6 @@ Z
 	DEMAW; online; Medizinische Universität Wien, Department für Mediznische
 	Aus- und Weiterbildung.
 
-
-
-
-
-
-
-.. [InnereMedQuick:3]
-
-	Furger, Philippe, ed:
-	2011.*Innere Medizin Quick.*
-	3. Auflage,  Thieme.
 
 
 
@@ -2722,12 +2696,11 @@ Z
 
 
 
-.. [EkgIsabell:5]
+.. [Schuster:5]
 
-	Schuster, Hans-Peter und Hans-Joachim Trappe:
-	2009.*EKG-Kurs Für
-	Isabell.*
-	5. Auflage,  Thieme.
+    Schuster, Hans-Peter und Hans-Joachim Trappe:
+    *EKG-Kurs für Isabell.*
+    5. Auflage, 2009. Thieme.
 
 
 

@@ -174,19 +174,19 @@ Quellennachweise
     \begin{ParWide}
     \begin{multicols}{3}
 
-.. glossary:: 
+.. glossary::
 
     GaSe
-      Sebastian Gabriel
+        Sebastian Gabriel
 
     HiLe
-      Lena Hirtler
+        Lena Hirtler
 
     MoMi
-      Michael Motal
+        Michael Motal
 
     UE2011FORTUNA-00651
-      Sebastian Gabriel, Lizenz: :term:`MfG`
+        Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
 
 .. raw:: latex
 

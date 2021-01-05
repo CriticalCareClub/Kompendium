@@ -4,41 +4,35 @@
 EKG (Basics)
 ===========================================
 
-
-
-Das EKG zeigt die elektrische Herzaktivität
-
-.. toctree::
-	:maxdepth: 1
-
-
-Beschreibung
-------------
-
-Das *Elektrokardiogramm* (EKG) zeigt mittels eines
-entsprechenden Gerätes die elektrische Herzaktivität des Reizbildungs-
-und Reizleitungssystems an. Dazu werden auf dem Körper nach einem
-bestimmten Muster Elektroden aufgeklebt und mittels eines Kabels mit dem
-EKG-Gerät verbunden. Im Rettungsdienst werden fast ausschließlich
-Klebeelektroden für den einmaligen Gebrauch verwendet.
+Mittels der :dfn:`Elektrokardiographie` (**EKG**)
+wird die elektrische Aktivität des Herzens
+und damit des Reizbildungs- und leitungssystems
+in einem *Elektrokardiogramm* über die Zeit dargestellt.
+Dazu werden auf dem Körper nach einem
+bestimmten Muster Elektroden aufgeklebt und mittels eines Kabels
+mit einem EKG-Gerät verbunden.
 
 EKG – Ablauf einer Erregung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. only:: not nosidebar
+
+    .. sidebar:: EKG: Zyklus
+
+        -   P-Welle ≈ Vorhoferregung
+        -   PQ-Zeit ≈ AV-Überleitung
+        -   RS-Komplex ≈ Kammererregung
+        -   ST-Strecke + T-Welle ≈ Erregungsrückbildung
+
 Die einzelnen Abschnitte einer EKG-Kurve zeigen die Erregung der
-unterschieldichen Teile des Erregungsleitungssystems im Zeitverlauf an.
+unterschiedlichen Teile des Erregungsleitungssystems
+*im Zeitverlauf* an.
+Demenstsprechend kann man die EKG-Kurve in verschiedene Segmente teilen:
 Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
 Überleitung vom Vorhof in die Kammern (*AV-Überleitung*). Der
 *QRS-Komplex* wird durch die Kammererregung erzeugt, wohingegen die
 *ST-Strecke* und die *T-Welle* die Erregungsrückbildung repräsentieren.
 
--  P-Welle ≈ Vorhoferregung
-
--  PQ-Zeit ≈ AV-Überleitung
-
--  QRS-Komplex ≈ Kammererregung
-
--  ST-Strecke + T-Welle ≈ Erregungsrückbildung
 
 
 .. subfigstart::
@@ -53,7 +47,7 @@ Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
     **QRS**-Komplex ≈ Kammererregung,
     **ST**-Strecke + **T**-Welle ≈ Erregungsrückbildung.
 
-    [WMC:Hank / CC-BY-SA-2.0-DE]
+    Ⓒ WMC:Hank, :term:`Ⓛ CC BY-SA 2.0 DE`
 
 .. raw:: latex
 
@@ -63,13 +57,14 @@ Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
     :width: 100%
 
     Reizleitungssystem, Schema.
-    **1**: Sinusknoten,
-    **2**: AV-Knoten
+    ``1``: Sinusknoten,
+    ``2``: AV-Knoten
 
-    [J. Heuser,
-    basierend auf der Arbeit von Patrick J. Lynch; illustrator;
-    C. Carl Jaffe; MD; cardiologist Yale University Center for Advanced Instructional Media;
-    CC-BY]
+    Ⓒ J. Heuser,
+    basierend auf der Arbeit von
+    Patrick J. Lynch, illustrator;
+    C. Carl Jaffe MD, cardiologist,
+    Yale University Center for Advanced Instructional Media, :term:`Ⓛ CC BY 2.5`
 
 .. subfigend::
     :width: 0.45
@@ -77,20 +72,44 @@ Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
 
     Bilderserie: Reizleitungssystem
 
+.. note::
 
--  Das EKG zeigt nur die *elektrische* Aktivität, nicht aber die
-   tatsächliche Muskelarbeit an!
+    -   Das EKG zeigt nur die *elektrische* Aktivität, nicht aber die
+        tatsächliche Muskelarbeit an!
 
--  Es erlaubt *keine Aussage über die Auswurfleistung!*
+    -   Es erlaubt *keine Aussage über die Auswurfleistung!*
 
-    -  Grundsatz: Selbst ein pulsloser Patient kann für einige Zeit ein
-       unauffälliges EKG aufweisen!
+        -   Grundsatz:
+            Selbst ein pulsloser Patient kann
+            (für einige Zeit)
+            ein unauffälliges EKG aufweisen!
+
+
 
 Ein EKG kann verschiedene Ableitungen haben
 -------------------------------------------
 
-Beschreibung
-^^^^^^^^^^^^
+.. only:: not nosidebar
+
+    .. sidebar:: EKG-Ableitungen
+
+        -   6 Extremitätenableitungen
+
+            -   4 Elektroden an den Extremitäten
+                (bzw. am Übergang Rumpf – Extremitäten)
+            -   I, II, III, aVL, aVR, aVF
+
+        -   6 Brustwandableitungen
+
+            -   6 Elektroden am Brustkorb
+            -   V1—V6
+            -   Genaue Positionierung wichtig!
+
+        -   *"Rhythmusstreifen"* =
+            Extremitätenableitungen
+
+        -   *"12-Kanal-EKG"* =
+            Extremitäten- + Brustwandableitungen
 
 Je nach Position der Elektroden (und elektrischer Schaltung)
 unterscheiden sich die abgeleiteten elektrischen Herzströme. Um die
@@ -101,24 +120,35 @@ sich Standard-Elektrodenpositionen und *Standardableitungen* etabliert.
 Die gebräuchlichsten sind die Extremitätenableitungen und den
 Brustwandableitungen: [#123]_
 
--  6 Extremitätenableitungen : I, II, III, aVL, aVR, aVF
+-   6 Extremitätenableitungen:
 
--  6 Brustwandableitungen : V1 V6
+    -   4 Elektroden an den Extremitäten
+        (bzw. am Übergang Rumpf – Extremitäten)
+    -   I, II, III, aVL, aVR, aVF
 
--  6 Extremitätenableitungen
+-   6 Brustwandableitungen:
 
--  6 Brustwandableitungen
+    -   6 Elektroden am Brustkorb
+    -   V1—V6
+    -   Genaue Positionierung wichtig!
+
+
 
 
 
 .. [#123]
     EKG-Ableitungen: Brustwandableitungen nach *Einthoven* und
-    *Goldberger*, Brustwandableitungen nach *Wilson*. Neben diesen
-    Standardableitungen gibt es noch für spezielle Fragestellungen
-    weitere Ableitungmöglichkeiten wie z. B. die Ableitungen nach *Nehb*
-    oder die *rechtsthorakalen* :index:`\ <Brustwandableitungen!rechtsthorakale>` bzw. !!!
-    INDEX I !!! [Brustwandableitungen!linksdorsale]linksdorsalen
-    Brustwandableitungen. Zusammen ergeben die Elektroden der Frontal-
+    *Goldberger*, Brustwandableitungen nach *Wilson*.
+    Neben diesen
+    Standardableitungen gibt es noch
+    für spezielle Fragestellungen
+    weitere Ableitungmöglichkeiten wie
+    z. B. die Ableitungen nach *Nehb*
+    oder die *rechtsthorakalen*
+    :index:`\ <Brustwandableitungen!rechtsthorakale>` bzw.
+    linksdorsalen :index:`\ <Brustwandableitungen!linksdorsale>`
+    Brustwandableitungen.
+    Zusammen ergeben die Elektroden der Frontal-
     und Horizontalebene eine dreidimensionale Darstellung der
     elektrischen Herzaktivität:
     | *Inferior*: II, III, aVF
@@ -126,8 +156,7 @@ Brustwandableitungen: [#123]_
     | *Lateral*: I, aVL, V5, V6
     | *Dorsal*: V7—V9
     | *Rechtes Herz*: V3R—V6R
-    | (Schuster and Trappe 2009; Furger 2011)
-
+    | [Schuster:5]_
 
 
 Extremitätenableitungen
@@ -141,14 +170,9 @@ rechten Arm an der rechten Schulter). Wichtig ist, dass die horizontalen
 Elektrodenpärchen immer auf *gleicher Höhe* angebracht werden! Zu den
 Positionen der Elektroden siehe [Table-ekg-elektroden-position].
 
-Aus den Informationen der *vier Elektroden* erzeugt das EKG-Gerät *sechs
-Ableitungen* (I, II, III, aVL, aVR und aVF).
+Aus den Informationen der *vier Elektroden* erzeugt das EKG-Gerät
+*sechs Ableitungen* (I, II, III, aVL, aVR und aVF).
 
--  4 Elektroden an den Extremitäten
-
-   (bzw. am Übergang Rumpf – Extremitäten).
-
--  6 Ableitungen.
 
 Brustwandableitungen
 ^^^^^^^^^^^^^^^^^^^^
@@ -164,89 +188,16 @@ einzelnen Herzabschnitten zuordenbares EKG zu erstellen. Falsch
 angebrachte Elektroden können ein EKG derart verfälschen, dass es zu
 gravierenden Fehldiagnosen kommen kann. [#124]_
 
--  6 Elektroden am Brustkorb
-
--  6 Ableitungen
-
--  Genaue Positionierung wichtig!
-
-
 .. [#124]
     EKG, Positionierung der EKG-Elektroden: Zum Beispiel Rahmen einer
     Akut-Angiographie im Zuge eines Myokardinfarktes sind die
     dokumentierten EKGs (und damit auch die im Rettungsdienst
     abgeleiteten) ein wichtiges Hilfsmittel, um das in der Akutsituation
-    maßgebliche Koronargefäß zu identifizieren. In [Schnelle:2006]_ wurde
-    untersucht, wie sich die Anbringungsstelle der Elektroden auf das EKG
+    maßgebliche Koronargefäß zu identifizieren.
+    In [Schnelle:2006]_ wurde untersucht,
+    wie sich die Anbringungsstelle der Elektroden auf das EKG
     auswirken kann.
 
-.. _Table-ekg-elektroden-position:
-
-Praxis des EKG-Schreibens
--------------------------
-
-In der Praxis ergeben sich daraus zwei Anwendungsfälle:
-
--  *Rhythmusstreifen*: Bestehend aus den
-   *Extremitätenableitungen* zur Beurteilung des Herzrhythmus und zum
-   Monitoring.
-
--  *12-Kanal-EKG*: Bestehend aus den
-   *Extremitätenableitungen* und den *Brustwandableitungen* zur
-   Diagnostik des Herzrhythmus und zur Diagnose und Lokalisation von
-   Herzschädigungen, vorwiegend des Herzmuskels. Störungen können damit
-   der jeweiligen Herzregion zugeordnet werden. Wenn vorhanden, ist das
-   12-Kanal-EKG (*"12er"*) für die Diagnostik das Mittel der Wahl.
-
--  Rhythmusstreifen: 6 Extremitätenableitungen
-
--  12-Kanal-EKG: Extremitäten- + Brustwandableitungen
-
-
-.. todo:: !!! TABELLE WEIT [H]Farbe und Standardpositionen der EKG-Elektroden
-
-    ::
-
-        lll
-
-        | **Elektrode** & **Position** & **Alternative Position**
-        | & Rechte Hand & Rechte Schulter
-        | & Linke Hand & Linke Schulter
-        | & Linker Fuß & Linke Leiste
-        | & Rechter Fuß & Rechte Leiste
-        | **V1** & 4. Zwischenrippenraum rechts vom Sternum
-        | **V2** & 4. Zwischenrippenraum links vom Sternum
-        | **V3** & Mitte zwischen V2 und V4
-        | **V4** & 5. Zwischenrippenraum links in der Verlängerung der
-        Schlüsselbein-Mittellinie
-        | **V5** & 5. Zwischenrippenraum vordere Achsellinie (zw. V4 und V6)
-        | **V6** & 6. Zwischenrippenraum in der mittleren Achsellinie
-
-.. figure:: /Bilder/WikipediaPd/12_lead_generated_sinus_rhythm.*
-
-    Unauffälliger 12-Kanal-EKG-Befund
-
-    [WMPD]
-
-.. figure:: /Bilder/WikipediaPd/ECGcolor_edited.*
-
-    Extremitätenableitungen und Brustwandableitungen
-
-    [WmCo/Madhero88, PD]
-
-
-
-!!! LITERARY !!! (Kaindl and Kühn 1997)
-
-("EKG Online," n.d.)
-
-(Dietz and Schubert 2007)
-
-(Schuster and Trappe 2009)
-
-Sowie: (Wells and Conover 2006; Goldberger 2012; Kühn 2002; Kühn 2003)
-
-!!! LITERARY !!!
 
 
 .. _Figure-corpuls3:
@@ -258,3 +209,90 @@ Sowie: (Wells and Conover 2006; Goldberger 2012; Kühn 2002; Kühn 2003)
     SAED-Funktion (Corpuls:sup:`3`)
 
     Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+
+
+
+Praxis des EKG-Schreibens
+-------------------------
+
+In der Praxis ergeben sich daraus zwei Anwendungsfälle:
+
+-   *Rhythmusstreifen*: Bestehend aus den
+    *Extremitätenableitungen* zur Beurteilung des Herzrhythmus und zum
+    Monitoring.
+
+-   *12-Kanal-EKG*: Bestehend aus den
+    *Extremitätenableitungen* und den *Brustwandableitungen* zur
+    Diagnostik des Herzrhythmus und zur Diagnose und Lokalisation von
+    Herzschädigungen, vorwiegend des Herzmuskels. Störungen können damit
+    der jeweiligen Herzregion zugeordnet werden. Wenn vorhanden, ist das
+    12-Kanal-EKG (*"12er"*) für die Diagnostik das Mittel der Wahl.
+
+
+
+.. list-table:: Farbe und Standardpositionen der EKG-Elektroden
+    :header-rows: 1
+    :stub-columns: 1
+    :widths: 20 40 40
+    :name: Table-ekg-elektroden-position
+
+    *   -   Elektrode
+        -   Position
+        -   Alternative Position
+    *   -   ROT
+        -   Rechte Hand
+        -   Rechte Schulter
+    *   -   GELB
+        -   Linke Hand
+        -   Linke Schulter
+    *   -   GRÜN
+        -   Linker Fuß
+        -   Linke Leiste
+    *   -   SCHWARZ
+        -   Rechter Fuß
+        -   Rechte Leiste
+    *   -   V1
+        -   \ 4. ICR rechts vom Sternum
+        -
+    *   -   V2
+        -   \ 4. ICR links vom Sternum
+        -
+    *   -   V3
+        -   Mitte zwischen V2 und V4
+        -
+    *   -   V4
+        -   \ 5. ICR links
+            in der Verlängerung der Schlüsselbein-Mittellinie
+        -
+    *   -   V5
+        -   \ 5. ICR vordere Achsellinie (zw. V4 und V6)
+        -
+    *   -   V6
+        -   \ 6. ICR in der mittleren Achsellinie
+        -
+
+
+.. figure:: /Bilder/WikipediaPd/ECGcolor_edited.*
+    :width: 70%
+
+    Extremitätenableitungen und Brustwandableitungen
+
+    Ⓒ WmCo/Madhero88, :term:`Ⓛ PD`
+
+.. figure:: /Bilder/WikipediaPd/12_lead_generated_sinus_rhythm.*
+    :width: 100%
+
+    10 Elektroden ergeben 12 Ableitungen: Unauffälliger 12-Kanal-EKG-Befund
+
+    Ⓒ WMC, :term:`Ⓛ PD`
+
+
+Literatur
+=========
+
+[Kaindl:7]_
+[Kuehn:2002:1]_
+[Kuehn:2003:2]_
+[Schuster:5]_
+[EcgEmergencyDec:2]_
+[Harrisons18DeKap228]_

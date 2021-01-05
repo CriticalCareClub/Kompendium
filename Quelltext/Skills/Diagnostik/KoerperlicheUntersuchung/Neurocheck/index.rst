@@ -6,20 +6,6 @@ Neurocheck
 ########################################################################
 
 
-
-
-
-.. toctree::
-	:maxdepth: 1
-
-
-
-Der Neurocheck ist eine überblickshafte neurologische Untersuchung.
-
-
-Beschreibung
-------------
-
 Der :dfn:`Neurocheck` ist eine einfache, überblickshafte
 ("grobe") Untersuchung der wichtigsten Funktionen des Nervensystems.**
 Teile des Neurochecks werden während des Einschätzungsblockes
@@ -43,117 +29,111 @@ Neurocheck
 
     .. sidebar:: Neurocheck
 
-        -  	Bewusstseinslage
-        -  	Orientierung
-        -  	Pupillen
-        -  	Lichtscheue, Sehstörungen
-        -  	Kraftprobe
-        -  	Nackensteifigkeit
-        -  	Blutzuckermessung
-        -  	Hirndruckzeichen
+        -   Bewusstseinslage
+        -   Orientierung
+        -   Pupillen
+        -   Lichtscheue, Sehstörungen
+        -   Kraftprobe
+        -   Nackensteifigkeit
+        -   Blutzuckermessung
+        -   Hirndruckzeichen
 
 
-#. *Bewusstseinslage*: Für eine grobe Einschätzung ist folgende
-   Einteilung ausreichend [#125]_:
+#.  *Bewusstseinslage*: Für eine grobe Einschätzung ist folgende
+    Einteilung ausreichend [#125]_:
 
-   #. bewusstseinsklar
+    #.  bewusstseinsklar
+    #.  bewusstseinsgetrübt (somnolent, soporös)
+    #.  bewusstlos
 
-   #. bewusstseinsgetrübt (somnolent, soporös)
+    Die Glasgow Coma Scale (GCS) erlaubt eine detailliertere Beschreibung
+    des Bewusstseins und des Verlaufs.
+    Vgl. :ref:`Thema-bewusstsein`
+    und :ref:`Thema-gcs`
 
-   #. bewusstlos
+#.  *Orientierung*:
 
-   Die Glasgow Coma Scale (GCS) erlaubt eine detailliertere Beschreibung
-   des Bewusstseins und des Verlaufs. Vgl. :ref:`Thema-bewusstsein`, und
-   :ref:`Thema-gcs`
-
-#. *Orientierung*:
-
-   #. zur Person (Patient kennt seinen Namen)
-
-   #. zum Ort (Patient weiß wo er sich befindet)
-
-   #. zur Zeit (Patient kann das ungefähre Datum, die ungefähre Uhrzeit
-      bzw. Jahres-/Tageszeit nennen)
-
-   #. Situation
+    #.  zur Person (Patient kennt seinen Namen)
+    #.  zum Ort (Patient weiß wo er sich befindet)
+    #.  zur Zeit
+        (Patient kann das ungefähre Datum, die ungefähre Uhrzeit
+        bzw. Jahres-/Tageszeit nennen)
+    #.  Situation
 
 #. *Pupillen*: Begutachtung und Lichtreaktion
 
-   #. Pupillen gleich weit (*isokor*)?
+    #.  Pupillen gleich weit (*isokor*)?
 
-   #. Blickstarre (**Herdblick**)?
+    #.  Blickstarre (**Herdblick**)?
 
-   #. **Lichtreaktion**: In jedes Auge zwei mal leuchten
-      und jeweils das gleiche und das andere Auge beobachten
+    #.  **Lichtreaktion**: In jedes Auge zwei mal leuchten
+        und jeweils das gleiche und das andere Auge beobachten
 
-      Beurteilung von:
+        Beurteilung von:
 
-      #. Schnelligkeit der Reaktion: prompt, verzögert?
+        #.  Schnelligkeit der Reaktion: prompt, verzögert?
+        #.  Reagieren immer beide Pupillen seitengleich
+            (*isokore* :index:`\ <isokor!-e Lichtreaktion>` Lichtreaktion)?
 
-      #. Reagieren immer beide Pupillen seitengleich
-         (*isokore* :index:`\ <isokor!-e Lichtreaktion>` Lichtreaktion)?
+    #.  Lichtscheu und Sehstörungen?
 
-#. Lichtscheu und Sehstörungen?
+#.  *Kraftprobe*: Grobe Prüfung an oberer und unterer Extremität,
+    beurteilt wird die Kraft und die Seitengleichheit.
 
-#. *Kraftprobe*: Grobe Prüfung an oberer und unterer Extremität,
-   beurteilt wird die Kraft und die Seitengleichheit.
+    #.  *Händedruck*: Patient überkreuzt die Hände geben (bei kräftigen
+        Patienten nur Zeige- und Mittelfinger) und Patienten bitten
+        kräftig zuzudrücken.
+    #.  *Pedalprobe*:
+        Mit Handflächen von unten gegen die Zehen und Vorfuß
+        drücken und Patienten bitten dagegen zu drücken.
+    #.  Von oben auf die Zehen drücken und Patienten bitten die Zehen
+        Richtung Kopf zu heben.
 
-   #. *Händedruck*: Patient überkreuzt die Hände geben (bei kräftigen
-      Patienten nur Zeige- und Mittelfinger) und Patienten bitten
-      kräftig zuzudrücken.
+#.  :dfn:`Nackensteifigkeit`:
+    Die Nackensteifogkeit ist ein *Meningismuszeichen*
+    :index:`\ <Meningismuszeichen!Nackensteifigkeit!Untersuchung>`.
+    Der Patient liegt *flach* auf dem Rücken. Der Untersucher fasst den
+    Kopf des Patienten und versucht das Kinn an die Brust zu führen. Es
+    handelt sich um eine *passive Bewegung*, der Patient darf dabei nicht
+    mithelfen. Normalerweise ist diese Bewegung ohne Probleme möglich.
 
-   #. *Pedalprobe*: Mit Handflächen von unten gegen die Zehen und Vorfuß
-      drücken und Patienten bitten dagegen zu drücken.
+    Wenn eine Nackensteifigkeit vorliegt ist die Beugung nicht möglich
+    und der Versuch schmerzhaft, der Patient bewegt evtl. den ganzen
+    Rumpf mit. Die Bedeutung der Nackensteifigkeit wird unter
+    :ref:`Thema-meningitis` besprochen.
+    *Bei jedem Patienten mit Fieber ist auf das Vorliegen einer Nackensteifigkeit zu untersuchen*,
+    jedoch
+    **nicht bei Verdacht auf Wirbelsäulenverletzung!**
+#.  *Blutzuckermessung*: Eine Blutzuckermessung gehört zu einem
+    vollständigen Neurocheck.
+#.  *Hirndruckzeichen* (:ref:`Thema-hirndruckzeichen`) sind eine typische
+    Kombination von Symptomen und deuten auf eine Erhöhung des Druckes
+    innerhalb des Hirnschädels hin (z. B. aufgrund einer Verletzung oder
+    Blutung). Hier sind eigentlich keine neuen Untersuchungsschritte
+    notwendig, sondern es erfolgt eine bewusste Neubewertung bereits
+    erhobener Befunde:
 
-   #. Von oben auf die Zehen drücken und Patienten bitten die Zehen
-      Richtung Kopf zu heben.
-
-#. :dfn:`Nackensteifigkeit`:
-   Die Nackensteifogkeit ist ein *Meningismuszeichen*
-   :index:`\ <Meningismuszeichen!Nackensteifigkeit!Untersuchung>`.
-   Der Patient liegt *flach* auf dem Rücken. Der Untersucher fasst den
-   Kopf des Patienten und versucht das Kinn an die Brust zu führen. Es
-   handelt sich um eine *passive Bewegung*, der Patient darf dabei nicht
-   mithelfen. Normalerweise ist diese Bewegung ohne Probleme möglich.
-
-   Wenn eine Nackensteifigkeit vorliegt ist die Beugung nicht möglich
-   und der Versuch schmerzhaft, der Patient bewegt evtl. den ganzen
-   Rumpf mit. Die Bedeutung der Nackensteifigkeit wird unter
-   :ref:`Thema-meningitis` besprochen. *Bei jedem Patienten mit Fieber ist
-   auf das Vorliegen einer Nackensteifigkeit zu untersuchen*, jedoch
-   **nicht bei Verdacht auf Wirbelsäulenverletzung!**
-
-#. *Blutzuckermessung*: Eine Blutzuckermessung gehört zu einem
-   vollständigen Neurocheck.
-
-#. *Hirndruckzeichen* (:ref:`Thema-hirndruckzeichen`) sind eine typische
-   Kombination von Symptomen und deuten auf eine Erhöhung des Druckes
-   innerhalb des Hirnschädels hin (z. B. aufgrund einer Verletzung oder
-   Blutung). Hier sind eigentlich keine neuen Untersuchungsschritte
-   notwendig, sondern es erfolgt eine bewusste Neubewertung bereits
-   erhobener Befunde:
-
-   #. Übelkeit, Erbrechen
-
-   #. Bewusstseinsstörungen
-
-   #. Vitalwertveränderung: Niedrige Herzfrequnz, hoher Blutdruck
-      (HF↓, RR\ ↑)
-
-   #. Ungleichweite Pupillen ([Figure-anisokorie-bau]), verlangsamte
-      Lichtreaktion
-
-   #.  Strecksynergismen
-
+    #.  Übelkeit, Erbrechen
+    #.  Bewusstseinsstörungen
+    #.  Vitalwertveränderung: Niedrige Herzfrequnz, hoher Blutdruck
+        (HF↓, RR\ ↑)
+    #.  Ungleichweite Pupillen, verlangsamte
+        Lichtreaktion
+    #.  Strecksynergismen
 
 
 .. [#125]
     Diese Einteilung entspricht weitgehend dem
-    *WASB*\ -Schema (*W*\ ach, Reaktion auf *A*\ nsprechen, auf
-    *S*\ chmerzreiz, *b*\ ewusstlos)
+    *WASB*\ -Schema
+    (*W*\ ach,
+    Reaktion auf *A*\ nsprechen,
+    auf *S*\ chmerzreiz,
+    *b*\ ewusstlos)
 
-Teile des Neurochecks werden während des Einschätzungsblockes
-durchgeführt.
+.. note::
+
+    Teile des Neurochecks werden während des Einschätzungsblockes
+    durchgeführt.
 
 .. subfigstart::
 

@@ -198,7 +198,19 @@ gravierenden Fehldiagnosen kommen kann. [#124]_
     wie sich die Anbringungsstelle der Elektroden auf das EKG
     auswirken kann.
 
-.. _Table-ekg-elektroden-position:
+
+
+.. _Figure-corpuls3:
+
+.. figure:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-01445pt.*
+
+    Ein Multifunktionsgerät mit Monitor, nicht-invasiver Blutdruckmessung,
+    Pulsoxymetrie 12-Kanal-EKG und integriertem Defibrillator mit
+    SAED-Funktion (Corpuls:sup:`3`)
+
+    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+
+
 
 Praxis des EKG-Schreibens
 -------------------------
@@ -222,6 +234,7 @@ In der Praxis ergeben sich daraus zwei Anwendungsfälle:
     :header-rows: 1
     :stub-columns: 1
     :widths: 20 40 40
+    :name: Table-ekg-elektroden-position
 
     *   -   Elektrode
         -   Position
@@ -258,39 +271,28 @@ In der Praxis ergeben sich daraus zwei Anwendungsfälle:
         -   \ 6. ICR in der mittleren Achsellinie
         -
 
-.. figure:: /Bilder/WikipediaPd/12_lead_generated_sinus_rhythm.*
-
-    Unauffälliger 12-Kanal-EKG-Befund
-
-    [WMPD]
 
 .. figure:: /Bilder/WikipediaPd/ECGcolor_edited.*
+    :width: 70%
 
     Extremitätenableitungen und Brustwandableitungen
 
-    [WmCo/Madhero88, PD]
+    Ⓒ WmCo/Madhero88, :term:`Ⓛ PD`
+
+.. figure:: /Bilder/WikipediaPd/12_lead_generated_sinus_rhythm.*
+    :width: 100%
+
+    10 Elektroden ergeben 12 Ableitungen: Unauffälliger 12-Kanal-EKG-Befund
+
+    Ⓒ WMC, :term:`Ⓛ PD`
 
 
+Literatur
+=========
 
-!!! LITERARY !!! (Kaindl and Kühn 1997)
-
-("EKG Online," n.d.)
-
-(Dietz and Schubert 2007)
-
-(Schuster and Trappe 2009)
-
-Sowie: (Wells and Conover 2006; Goldberger 2012; Kühn 2002; Kühn 2003)
-
-!!! LITERARY !!!
-
-
-.. _Figure-corpuls3:
-
-.. figure:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-01445pt.*
-
-    Ein Multifunktionsgerät mit Monitor, nicht-invasiver Blutdruckmessung,
-    Pulsoxymetrie 12-Kanal-EKG und integriertem Defibrillator mit
-    SAED-Funktion (Corpuls:sup:`3`)
-
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+[Kaindl:7]_
+[Kuehn:2002:1]_
+[Kuehn:2003:2]_
+[Schuster:5]_
+[EcgEmergencyDec:2]_
+[Harrisons18DeKap228]_

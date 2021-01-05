@@ -16,6 +16,14 @@ Blutzuckermessung
 Interpretation und Normalwert
 -----------------------------
 
+.. only:: not nosidebar
+
+    .. sidebar:: Blutzucker, Interpretation
+
+        -   Abhängig von letzter Mahlzeit!
+        -   Normalwert: 80—100 mg / dL (nüchtern)
+        -   Bereich ohne Notfallsymptome: 60—200 mg / dL
+
 Der Blutzuckerspiegel wird in *Milligramm pro Deziliter* (mg / dL ,
 entspricht mg%) , manchmal auch in *Millimol pro Liter* (mmol / L), gemessen. Der
 Wert ist abhängig von der letzten Mahlzeit des Patienten. Nach der
@@ -26,28 +34,17 @@ Im Akutfall kann der Normalbereich
 jedoch großzügiger angesetzt werden, da bei Werten zwischen 60 und
 200 mg / dL keine Notfallsymptome auftreten. [Herold:2012]_
 
--  Abhängig von letzter Mahlzeit!
-
--  Normalwert: 80—100 mg / dL (nüchtern)
-
--  Bereich ohne Notfallsymptome: 60—200 mg / dL
 
 Material
 --------
 
-#. Handschuhe
-
-#. Kontamed-Box
-
-#. Alkoholtupfer
-
-#. Trockene Tupfer
-
-#. Blutzuckermessgerät
-
-#. Blutzuckermessstreifen
-
-#. Lanzette
+#.  Handschuhe
+#.  Kontamed-Box
+#.  Alkoholtupfer
+#.  Trockene Tupfer
+#.  Blutzuckermessgerät
+#.  Blutzuckermessstreifen
+#.  Lanzette
 
 Durchführung
 ------------

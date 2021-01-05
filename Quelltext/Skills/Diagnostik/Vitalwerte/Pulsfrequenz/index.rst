@@ -3,21 +3,19 @@ Pulsfrequenz
 ########################################################################
 
 
-
-
-
-.. toctree::
-	:maxdepth: 1
-
-
-
 .. _thema-pulsmessung:
 
 Palpatorische Messung der Pulsfrequenz
 ===========================================================
 
-Beschreibung und Messstellen
-----------------------------
+.. only:: not nosidebar
+
+    .. sidebar:: Messung der Pulsfrequenz
+
+        -   Herzfrequenz, Pulsfrequenz
+        -   Radialarterie (A. *radialis*)
+        -   Halsschlagader (A. *carotis*)
+        -   Oberarmarterie (A. *brachialis*; Neugeborene, Säuglinge)
 
 Als :dfn:`Herzfrequenz` (*HF*) bezeichnet
 man die Anzahl der Schläge bzw. Aktionen des Herzens pro Minute.
@@ -45,34 +43,29 @@ Gehirns mit Blut kommen kann.
     elektrischen und mechanischen Herzaktionen unterscheiden (vgl.
     :ref:`Thema-herz`).
 
--  Herzfrequenz, Pulsfrequenz
 
--  Radialarterie (A. *radialis*)
-
--  Halsschlagader (A. *carotis*)
-
--  Oberarmarterie (A. *brachialis*; Neugeborene, Säuglinge)
 
 Durchführung
 ------------
 
+.. only:: not nosidebar
+
+    .. sidebar:: Durchführung
+
+        -   15 s
+        -   2—3 Finger (nicht der Daumen!)
+        -   Mit 4 multiplizieren
+
 Es wird an der Arterie (s.o.) der Puls mit zwei bis drei Fingern
-ertastet. Nun werden 15 Sekunden lang die Schläge gezählt. Anschließend
-wird das Ergebnis *mit vier multipliziert*, man erhält die Herzfrequenz
-(HF) in Pulsschläge *pro Minute* (/ min). Der Normalwert liegt beim
-Erwachsenen zwischen 60 und 100 Schlägen pro Minute. Neben der Frequenz
+(nicht der Daumen!)
+ertastet.
+Nun werden *15 Sekunden* lang die Schläge gezählt.
+Anschließend wird das Ergebnis *mit vier multipliziert*,
+man erhält die Herzfrequenz
+(HF) in Pulsschläge *pro Minute* (/ min).
+Der Normalwert liegt beim Erwachsenen zwischen
+60 und 100 Schlägen pro Minute.
+Neben der Frequenz
 wird auch die *Regelmäßigkeit* beurteilt, das heißt ob der Puls
 *rhythmisch* oder *arrhythmisch* ist.
 
--  15 s
-
--  2—3 Finger
-
--  Mit 4 multiplizieren
-
-Befunde
--------
-
-???() [60—100/min]
-
-60—100/min]

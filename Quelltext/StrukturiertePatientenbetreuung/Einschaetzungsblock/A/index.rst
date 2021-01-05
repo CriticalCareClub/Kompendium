@@ -9,11 +9,11 @@
 .. _Thema-Airway:
 
 **********************
-``A`` Atemweg (Airway)
+Ⓐ Atemweg (Airway)
 **********************
 
 
-Unter Punkt **A** wird eingeschätzt,
+Unter Punkt Ⓐ wird eingeschätzt,
 ob der Atemweg frei,
 verlegt oder gefährdet ist.
 Dazu werden zuerst
@@ -62,11 +62,11 @@ Typische Maßnahmen
 ==================
 
 -   Überstrecken des Kopfes
--   Esmarch-Handgriff
--   Stabile Seitenlage nach Ⓑ
+-   :ref:`Esmarch-Handgriff <Esmarch-Handgriff>`
+-   :ref:`Stabile Seitenlage <StabileSeitenlage>` nach Ⓑ
 -   Absaugung
 -   Spezielle Maßnahmen bei Atemwegsverlegung
--   Standardmaßnahmen bei vital bedrohten Patienten
+-   :ref:`m-standardmassnahmen-vital`
 
     -   Absaugbereitschaft!
 

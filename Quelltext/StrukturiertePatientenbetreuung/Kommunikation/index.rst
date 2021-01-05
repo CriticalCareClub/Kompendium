@@ -108,7 +108,6 @@ Dabei stehen zwei Aspekte im Vordergrund:
 
 #.  *Übermittlung*: Es gibt bei der Nachrichtenübermittlung einen Sender
     und einen Empfänger.
-
 #.  *Aussage*: Eine Nachricht enthält unterschiedliche Aussagen.
 
 Übermittlung: Sender und Empfänger

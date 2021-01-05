@@ -31,7 +31,7 @@ oder verhärtet ist. Dabei fragt man den Patienten ob er Schmerzen
 empfindet. Dies wiederholt man in allen vier Quadranten.
 
 Weiters kann man beurteilen ob der Patient Schmerzen durch den Druck hat
-(*Druckschmerz*) oder ob er Schmerzen beim Loslassen bekommt *Loslassschmerz*).
+(*Druckschmerz*) oder ob er Schmerzen beim Loslassen bekommt *Loslassschmerz*). [Bates:1]_
 
 .. todo:: #89: Bilderserie Abdomen-Palpation
 

@@ -1,11 +1,11 @@
 *****************************
-``E`` Erweiterte Untersuchung
+Ⓔ Erweiterte Untersuchung
 *****************************
 
-| ``E`` – Wenn es nicht so klar ist: Raum für Instinkt und Erfahrung
+| Ⓔ– Wenn es nicht so klar ist: Raum für Instinkt und Erfahrung
 
 
-Mit den Punkten ``A``—Ⓓ wären die
+Mit den Punkten Ⓐ—Ⓓ wären die
 wichtigsten Untersuchungen durchgeführt.\ [#174]_
 Dennoch gibt es einige Patientengruppen,
 die zwar bei den ABCDs nicht auffällig sind,
@@ -28,19 +28,12 @@ welche zur Feststellung (oder Quasi-Ausschluss) der vitalen Bedrohung notwendig 
 .. [#174]
    E: *engl.* *Exposure*.
 
-    Ein Beispiel für so eine Patientengruppe wäre der Patient mit
-    wiederholten Krampfanfällen, der sich als St.p. Kollaps-Patient
-    präsentiert
-    (Schlüsselfragen: *Hat der Patient gekrampft?
-    Wie oft hat er gekrampft?*).
+Ein Beispiel für so eine Patientengruppe wäre der Patient mit
+wiederholten Krampfanfällen, der sich als St.p. Kollaps-Patient
+präsentiert
+(Schlüsselfragen: *Hat der Patient gekrampft?
+Wie oft hat er gekrampft?*).
 
--   Wenn Einschätzung der vitalen Bedrohung oder Hauptbeschwerde unklar
-    ist.
-
--   Wichtig:
-
-    -   Erfahrung
-    -   Hintergrundwissen
 
 Das heißt?
 ==========
@@ -114,3 +107,9 @@ können Hinweise auf innere Verletzungen sein (zweizeitige Milzruptur.
 *Einstiche* können ein Hinweis auf eine Intoxikation sein
 (wobei diese nicht die Ursache des aktuellen Problem
 sein muss!).
+
+
+Typische Maßnahmen
+==========================
+
+-   :ref:`m-standardmassnahmen-vital`

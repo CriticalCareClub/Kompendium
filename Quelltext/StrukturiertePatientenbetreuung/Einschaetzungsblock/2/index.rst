@@ -74,10 +74,63 @@ auf eine Wirbelsäulenverletzung erkannt werden.
     Bilderserie: Ersteindruck
 
 
+.. _m-einschaetzung-indikation-ws-immobilisation:
+.. _proc-YY14200B:
+.. _YY14200B:
+.. _Thema-IndikationWirbelsaeulenimmobilisation:
+
+Indikation zur Wirbelsäulenimmobilisation
+=========================================
+
+
+Eine Immobilisation der Wirbelsäule ist notwendig bei
+Traumapatienten, bei denen folgendes zutrifft:
+
+
+#.  **Typischer Unfallmechanismus**
+
+    #.  Hochgeschwindigkeitsunfall
+    #.  Sturz ≥ 3 m oder 3-fache Patientengröße
+    #.  Penetrierende Verletzungen im Bereich der
+        Wirbelsäule
+    #.  Sportverletzungen im Kopf- oder Nackenbereich
+    #.  Trauma nach Sprung ins Wasser
+    #.  Stauchungsverletzung der HWS
+        (z. B. Schlag auf Kopf)
+    #.  Suizidversuch durch Erhängen
+    #.  Bewusstloser Traumapatient
+
+#.  **Unklarer Unfallmechanismus**, bei dem einer der
+    genden Punkte zutrifft:
+
+    #.  Spinaler Schmerz oder Druckschmerz über der
+        Wirbelsäule
+    #.  Auffälliger Befund bei Untersuchung von Motorik
+        und Sensibilität
+        (sofern nicht anders plausibel erklärbar)
+    #.  Patientenangaben kann nicht vertraut
+        werden
+
+        #.  Stresssituation
+        #.  Schädel- oder zerebrale Verletzung
+        #.  Auffälliger Bewusstseinszustand
+        #.  Intoxikation
+        #.  Ablenkende Verletzungen
+
+#.  **Verdacht**
+
+Solange es noch unklar ist, ob eine WS-Immobilisation
+notwendig ist, muss eine manuelle Fixierung der HWS
+durchgeführt werden!
+
+[Campbell:2010:De]_ [Scholz:2]_ [Siewert:8]_
+
+
 
 Typische Maßnahmen
 ==================
 
--  Manuelle HWS-Immobilisation
--  Bewegungsverbot
--  Stillen von starken Blutungen
+-   :ref:`m-einschaetzung-indikation-ws-immobilisation`
+-   Manuelle HWS-Immobilisation
+-   Bewegungsverbot
+-   Stillen von starken Blutungen

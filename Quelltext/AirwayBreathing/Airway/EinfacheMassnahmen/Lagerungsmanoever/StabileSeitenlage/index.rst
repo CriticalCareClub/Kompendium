@@ -3,7 +3,8 @@
    single: stabile Seitenlage
    single: Seitenlage, stabile
 
-.. _Thema-StabileSeitenlage: 
+.. _Thema-StabileSeitenlage:
+.. _StabileSeitenlage:
 
 ################################
 Stabile Seitenlage
@@ -27,7 +28,7 @@ Aspirationsprophylaxe.
 
 .. figure:: /Bilder/WikipediaPd/Seitenlage1.png
 
-    Stabile Seitenlage 
+    Stabile Seitenlage
 
     Der Helfer fasst unter das von ihm abgewandte Knie des Patienten
     und hebt es an.
@@ -39,7 +40,7 @@ Aspirationsprophylaxe.
 Durch die stabile Seitenlage bewegt sich die Zunge auf Grund der
 Schwerkraft vom Rachenraum weg und die Atemwege werden dadurch frei. Bei
 Erbrechen fließt der Großteil des Erbrochenen in der stabilen Seitenlage
-allein aus dem Mund- und Rachenraum. 
+allein aus dem Mund- und Rachenraum.
 
 
 .. todo:: Stabile Seitenlage: Bilder fehlen

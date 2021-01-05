@@ -77,7 +77,6 @@ welche auf eine vitale Bedrohung hinweisen.
 
 
 .. _Thema-PatientenmanagementErstmassnahmen:
-
 .. _Thema-PatientenmanagementSofortmassnahmen:
 
 Sofortmaßnahmen müssen bei Bedarf sofort ergriffen werden
@@ -113,6 +112,7 @@ Typische Sofortmaßnahmen sind z. B.
 .. _Thema-standardmassnahmen-vital:
 .. _proc-YY13100B:
 .. _YY13100B:
+.. _SMBVBP:
 
 Standardmaßnahmen bei vital bedrohten Patienten
 ===============================================
@@ -122,7 +122,7 @@ Reihenfolge zählt!
 #.  **Situationsgerechte Lagerung}**
 #.  **Sauerstoffgabe**
     (:ref:`m-sauerstoffberieselung`): je nach Indikation,
-    allgemeiner Zielwert: |SpO2| von 94—98%
+    allgemeiner Zielwert: SpO₂ von 94—98%
 
 #.  Ggfs. **Notarzt-Nachforderung**:
     mit kurzer Begründung
@@ -174,58 +174,6 @@ Reanimationsbereitschaft
 
 
 
-.. _m-einschaetzung-indikation-ws-immobilisation:
-.. _proc-YY14200B:
-.. _YY14200B:
-.. _Thema-IndikationWirbelsaeulenimmobilisation:
-
-Indikation zur Wirbelsäulenimmobilisation
-=========================================
-
-
-Eine Immobilisation der Wirbelsäule ist notwendig bei
-Traumapatienten, bei denen folgendes zutrifft:
-
-
-#.  **Typischer Unfallmechanismus**
-
-    #.  Hochgeschwindigkeitsunfall
-    #.  Sturz ≥ 3 m oder 3-fache Patientengröße
-    #.  Penetrierende Verletzungen im Bereich der
-        Wirbelsäule
-    #.  Sportverletzungen im Kopf- oder Nackenbereich
-    #.  Trauma nach Sprung ins Wasser
-    #.  Stauchungsverletzung der HWS
-        (z. B. Schlag auf Kopf)
-    #.  Suizidversuch durch Erhängen
-    #.  Bewusstloser Traumapatient
-
-#.  **Unklarer Unfallmechanismus**, bei dem einer der
-    genden Punkte zutrifft:
-
-    #.  Spinaler Schmerz oder Druckschmerz über der
-        Wirbelsäule
-    #.  Auffälliger Befund bei Untersuchung von Motorik
-        und Sensibilität
-        (sofern nicht anders plausibel erklärbar)
-    #.  Patientenangaben kann nicht vertraut
-        werden
-
-        #.  Stresssituation
-        #.  Schädel- oder zerebrale Verletzung
-        #.  Auffälliger Bewusstseinszustand
-        #.  Intoxikation
-        #.  Ablenkende Verletzungen
-
-#.  **Verdacht**
-
-Solange es noch unklar ist, ob eine WS-Immobilisation
-notwendig ist, muss eine manuelle Fixierung der HWS
-durchgeführt werden!
-
-[Campbell:2010:De]_ [Scholz:2]_ [Siewert:8]_
-
-
 
 
 
@@ -240,12 +188,12 @@ Bei **absolut zeitkritischen Patienten**,
 bei denen bereits die ``ABC``\ -Einschätzung
 ergibt,
 dass ein Transport nicht aufschiebbar ist,
-kann schon **nach dem Punkt** Ⓒ
+kann schon **nach Ⓒ**
 **eine Transportentscheidung**
 (Spital, Notarzt-Rendez-vous, …,
 vgl. :ref:`Thema-PamStrategie`)
 getroffen werden.
-Die Maßnahmen von Ⓓ und ``E`` sollen dann,
+Die Maßnahmen von Ⓓ und Ⓔ sollen dann,
 sofern möglich,
 während des Transportes erfolgen.
 Diese Einschätzung setzt jedoch ein hohes Maß an Erfahrung voraus und ist auch
@@ -255,10 +203,9 @@ Beispiele für ein solches Vorgehen wären z. B.
 nicht beherrschbare starke
 Blutungen oder geburtsunmögliche Lagen.
 
--  **Im Ausnahmefall schon nach dem Punkt C Strategie- und
-   Zielentscheidung**
-
--  Z. B. nicht beherrschbare starke Blutungen, geburtsunmögliche Lagen
+-   **Im Ausnahmefall schon nach Ⓒ Strategie- und
+    Zielentscheidung**
+-   Z. B. nicht beherrschbare starke Blutungen, geburtsunmögliche Lagen
 
 Nicht vital bedrohte Patienten
 ==============================
@@ -286,18 +233,18 @@ als auch notwendige Änderungen in der Behandlung
 und der Strategie.\ [#fn:ReEvaluation]_
 
 .. [#fn:ReEvaluation]
-   Einschätzungsblock:
-   Regelmäßge, angepasste Wiederholung:
-   Die    Forderung nach regelmäßiger,
-   angepasster Wiederholung des
-   Einschätzungsblockes entspricht dem früher gebräuchlichen Begriff
-   "ständige Verlaufskontrolle".
-   Die Formulierungen "regelmäßig" und "in
-   angemessenem Umfang" sind bewusst offen gewählt worden,
-   da dies
-   sowohl z. B. für den kritischen Bewusstlosen,
-   als auch für den "munter
-   vor sich hinplaudernden" KTW-Patienten gelten soll.
+    Einschätzungsblock:
+    Regelmäßge, angepasste Wiederholung:
+    Die    Forderung nach regelmäßiger,
+    angepasster Wiederholung des
+    Einschätzungsblockes entspricht dem früher gebräuchlichen Begriff
+    "ständige Verlaufskontrolle".
+    Die Formulierungen "regelmäßig" und "in
+    angemessenem Umfang" sind bewusst offen gewählt worden,
+    da dies
+    sowohl z. B. für den kritischen Bewusstlosen,
+    als auch für den "munter
+    vor sich hinplaudernden" KTW-Patienten gelten soll.
 
 
 

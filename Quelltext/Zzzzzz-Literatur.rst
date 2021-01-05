@@ -244,7 +244,6 @@ Literaturverzeichnis
 [AntonovskySalutogenese]_
 [Beneker:2004]_
 [BengelPsyNotfallmedRd:2]_
-[BatesUntersuchung:1]_
 [youtube:VaginalChildbirth]_
 [Bischofberger:2007]_
 [FamPropPku:2014]_
@@ -270,7 +269,6 @@ Literaturverzeichnis
 [Harrisons18DeKap243]_
 [Harrisons18DeKap246]_
 [Harrisons18DeKap245]_
-[EKG-Knacker2]_
 [FrielingLehrbArbeitspsy:2]_
 [ADR:2011]_
 [www.ekg-online.de]_
@@ -282,7 +280,6 @@ Literaturverzeichnis
 [Lissauer:2007]_
 [Freudenberger:1974]_
 [FamPropAeGeFue:2010]_
-[InnereMedQuick:3]_
 [Gallaher:2009]_
 [youtube:Herzinfarkt]_
 [Genzwuerker:2007]_

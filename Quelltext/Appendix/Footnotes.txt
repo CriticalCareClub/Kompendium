@@ -1,9 +1,0 @@
-
-
-.. [227]
-   Besonders nichtsteroidale Antirheumatika (ASS, Aspirin, etc.) und
-   Betablocker (Antiarrhythmika, Blutdruckmittel) können Asthma-Anfälle
-   auslösen.
-
-
-

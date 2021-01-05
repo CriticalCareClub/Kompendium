@@ -73,11 +73,13 @@ zusammenarbeiten:
     :maxdepth: 1
     :caption: Inhalt
 
-    Kommunikation/index.rst
+    Kommunikation/index
+    Einsatzablauf/index
     Einschaetzungsblock/index
     StrategieentscheidungSPV/index
     Anamnese/index
     Uebergabe/index
+
 
 
 

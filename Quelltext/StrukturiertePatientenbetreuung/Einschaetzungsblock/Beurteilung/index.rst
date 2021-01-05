@@ -14,6 +14,11 @@ formulieren
 (*"Was ist das Problem des Patienten?"*).
 
 
+.. only:: html
+
+    .. contents::
+
+
 Alarmzeichen ("Red Flags" 🚩) sind Zeichen einer vitalen Bedrohung
 ========================================================================
 
@@ -99,6 +104,130 @@ Typische Sofortmaßnahmen sind z. B.
 
 -   Vorgezogene Transportentscheidung bei absolut zeitkritischen
     Patienten.
+
+
+
+
+
+.. _m-standardmassnahmen-vital:
+.. _Thema-standardmassnahmen-vital:
+.. _proc-YY13100B:
+.. _YY13100B:
+
+Standardmaßnahmen bei vital bedrohten Patienten
+===============================================
+
+Reihenfolge zählt!
+
+#.  **Situationsgerechte Lagerung}**
+#.  **Sauerstoffgabe**
+    (:ref:`m-sauerstoffberieselung`): je nach Indikation,
+    allgemeiner Zielwert: |SpO2| von 94—98%
+
+#.  Ggfs. **Notarzt-Nachforderung**:
+    mit kurzer Begründung
+
+    .. attention::
+        Bei manchen Notfällen keine Notarztnachforderung wenn
+        der Patient zeitkritisch ist, siehe jeweilige spezielle Maßnahmen!
+
+#.  **Engmaschiges, bestmögliches Monitoring**:
+    Je nach vorhandenem Material
+
+    RR, HF, Pulsoxymetrie, EKG,
+    Sitzwache/Patientenbeobachtung, etc. [#Patientenbeobachtung]_
+
+#.  **Reanimationsbereitschaft** herstellen
+    (:ref:`m-reanimationsbereitschaft`)
+
+.. [#Patientenbeobachtung]
+    Zuerst werden die Patientenbeobachtung
+    und -- wenn vorhanden -- die
+    Pulsoxymetrie eingesetzt. Überwachungsgeräte, deren Anlage
+    zeitintensiv ist (EKG, ...), sollen erst dann verwendet
+    werden, wenn alle dringlicheren Maßnahmen durchgeführt und
+    der Einschätzungsblock beendet ist!
+    Die
+    Patientenbeobachtung bleibt immer ein wesentlicher Teil
+    des Monitorings!
+
+
+
+.. _m-reanimationsbereitschaft:
+
+Reanimationsbereitschaft
+========================
+
+
+#.  Ggfs. Platz schaffen [#PlatzSchaffen]_
+#.  Geräte vorbereiten:
+
+    #.  **Beatmungsbeutel**
+    #.  **Absaugeinheit** und passenden Katheter  in
+        Griffweite stellen. Steriles Material bleibt verpackt.
+    #.  **Defibrillator** in Griffweite stellen,
+        Elektroden und Verbrauchsmaterial bleiben verpackt.
+
+.. [#PlatzSchaffen]
+    z. B. im Wohnzimmer den Couchtisch, Hocker etc. zur Seite schieben
+
+
+
+
+.. _m-einschaetzung-indikation-ws-immobilisation:
+.. _proc-YY14200B:
+.. _YY14200B:
+.. _Thema-IndikationWirbelsaeulenimmobilisation:
+
+Indikation zur Wirbelsäulenimmobilisation
+=========================================
+
+
+Eine Immobilisation der Wirbelsäule ist notwendig bei
+Traumapatienten, bei denen folgendes zutrifft:
+
+
+#.  **Typischer Unfallmechanismus**
+
+    #.  Hochgeschwindigkeitsunfall
+    #.  Sturz ≥ 3 m oder 3-fache Patientengröße
+    #.  Penetrierende Verletzungen im Bereich der
+        Wirbelsäule
+    #.  Sportverletzungen im Kopf- oder Nackenbereich
+    #.  Trauma nach Sprung ins Wasser
+    #.  Stauchungsverletzung der HWS
+        (z. B. Schlag auf Kopf)
+    #.  Suizidversuch durch Erhängen
+    #.  Bewusstloser Traumapatient
+
+#.  **Unklarer Unfallmechanismus**, bei dem einer der
+    genden Punkte zutrifft:
+
+    #.  Spinaler Schmerz oder Druckschmerz über der
+        Wirbelsäule
+    #.  Auffälliger Befund bei Untersuchung von Motorik
+        und Sensibilität
+        (sofern nicht anders plausibel erklärbar)
+    #.  Patientenangaben kann nicht vertraut
+        werden
+
+        #.  Stresssituation
+        #.  Schädel- oder zerebrale Verletzung
+        #.  Auffälliger Bewusstseinszustand
+        #.  Intoxikation
+        #.  Ablenkende Verletzungen
+
+#.  **Verdacht**
+
+Solange es noch unklar ist, ob eine WS-Immobilisation
+notwendig ist, muss eine manuelle Fixierung der HWS
+durchgeführt werden!
+
+[Campbell:2010:De]_ [Scholz:2]_ [Siewert:8]_
+
+
+
+
 
 
 .. _Thema-SonderfallAbsolutZeitkritischePatienten:

@@ -10,7 +10,6 @@ Vorwort, Lizenzen und Metainformationen
     Impressum
     Autoren
     Benutzungshinweise
-    Lizenzen
 
 
 

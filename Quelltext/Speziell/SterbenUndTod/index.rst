@@ -27,10 +27,6 @@ andere Weise damit konfrontiert. Ziel ist es, den legitimen Wünschen der
 Patienten und Angehörigen Rechnung zu tragen, und andererseits selbst
 mit zum Teil sehr fordernden Situationen und Fragen zurecht zu kommen.
 
-:Maintainer:
-    Sebastian Gabriel
-
-
 
 .. _Thema-tod:
 
@@ -76,16 +72,16 @@ gelten [Hochmeister:2]_ [GrassbergerTodesermittlung:1]_: 
 
 
 
-#. *Bildung von blauvioletten Totenflecken* durch Absackung des Blutes
-   an die untenliegenden Stellen.
+#.  *Bildung von blauvioletten Totenflecken* durch Absackung des Blutes
+    an die untenliegenden Stellen.
 
-#. *Totenstarre*
+#.  *Leichenstarre* (Rigor mortis)
 
-#. *Nicht mit dem Leben vereinbare Verletzungen* wie zum Beispiel eine
-   Abtrennung des Kopfes vom Körper.
+#.  *Nicht mit dem Leben vereinbare Verletzungen* wie zum Beispiel eine
+    Abtrennung des Kopfes vom Körper.
 
-#. Späte Leichenerscheinungen: *Fäulnis*, *Verwesung*, *Mumifizierung*,
-   *Tierfraß* und *Skelettierung*
+#.  Späte Leichenerscheinungen: *Fäulnis*, *Verwesung*, *Mumifizierung*,
+    *Tierfraß* und *Skelettierung*
 
 Die ersten drei Punkte sind *frühe Leichenerscheinungen*, da sie relativ
 rasch auftreten. Andere frühe Leichenerscheinungen sind die *Abkühlung
@@ -97,14 +93,15 @@ oft nicht so einfach, die Anzeichen können oft auch mit anderen Sachen
 verwechselt werden, z. B. Totenflecke mit Blutergüssen oder die
 Totenstarre mit einem tonischen Krampf.
 
--  Es gibt sichere Todeszeichen, das Erkennen dieser Zeichen ist
-   aber unsicher und bedarf Wissen und Erfahrung!
+-   Es gibt sichere Todeszeichen, das Erkennen dieser Zeichen ist
+    aber unsicher und bedarf Wissen und Erfahrung!
 
--  Die Todesfeststellung erfolgt grundsätzlich nur durch einen Arzt!
+-   Die Todesfeststellung erfolgt grundsätzlich nur durch einen Arzt!
 
--  Für unterkühlte Patienten gilt: *"Nobody is dead until warm and
-   dead!"* (Niemand wird für tot erklärt, bevor er nicht vorher erwärmt
-   wurde.)
+-   Für unterkühlte Patienten gilt:
+    *"Nobody is dead until warm and dead!"*
+    (Niemand wird für tot erklärt, bevor er nicht vorher erwärmt
+    wurde.)
 
 
 .. index::
@@ -135,18 +132,21 @@ werden:
     auch kein sicheres Todeszeichen.}
 -   (Verbindliche) **Patientenverfügung**
 
-    *Patientenverfügung*: Bei Notfallversorgungen darf **nicht nach einer Verfügung gesucht
-    werden, wenn dadurch das Leben oder die Gesundheit des Patienten ernstlich
-    gefährdet werden würde**.
+    Im Rahmen der Notfallversorgungen darf
+    **nicht** nach einer Verfügung gesucht werden,
+    wenn dadurch das *Leben oder die Gesundheit des Patienten ernstlich
+    gefährdet werden würde*.
     **Aber:** Wenn *zweifelsfrei* eine verbindliche
     Patientenverfügung vorliegt (z. B. weil eine betreuende
     Pflegekraft diese in der Zwischenzeit gefunden und die
     Verbindlichkeit bestätigt hat), muss dieser Folge
     geleistet werden.
+
     Liegt eine *beachtliche Patientenverfügung* vor, so ist im
     *Einzelfall* zu entscheiden: Das Wohl des Patienten bleibt
     oberstes Gebot und die Verfügung soll in die
-    Entscheidung einfließen. :ref:`Thema-patientenverfuegung`\ ;
+    Entscheidung einfließen. Vgl. :ref:`Thema-patientenverfuegung`.
+
     Bis zur zweifelsfreien Klärung der Situation muss
     jedenfalls eine Reanimation begonnen bzw. fortgeführt
     werden!)
@@ -155,7 +155,7 @@ werden:
 
     Erschöpfung darf im professionellen Umfeld
     keine Rolle spielen,
-    für eine entsprechende Ablösung ist bei Bedarf zu sorgen.
+    für eine entsprechende Ablöse ist bei Bedarf zu sorgen.
 -   Unvereinbarkeit mit **Selbstschutz**
 
     Es müssen jedoch alle Maßnahmen
@@ -187,38 +187,31 @@ anderen Faktoren abhängig, und kann im Verlauf des Lebens ebenso
 radikalen Änderungen unterworfen sein. Mögliche Bewältigungstrategien
 sind:
 
--  Verdrängung
+-   Verdrängung
+-   Hoffnungen, welche sich an den Tod anknüpfen
+    (Wiedergeburt, Leben im Jenseits)
+-   Vermächtnis an die Nachwelt;
+    Schaffen von etwas, was "größer als man selbst ist"
+-   Rationalisierung (Vorsorgeversicherungen, Testamente, …)
+-   Rituale (Gebete, Begräbniszeremonien, Leichenschmaus, …)
 
--  Hoffnungen, welche sich an den Tod anknüpfen (Wiedergeburt, Leben im
-   Jenseits)
-
--  Vermächtnis an die Nachwelt; Schaffen von etwas, was "größer als man
-   selbst ist"
-
--  Rationalisierung (Vorsorgeversicherungen, Testamente, …)
-
--  Rituale (Gebete, Begräbniszeremonien, Leichenschmaus, …)
-
-    -  Für den Umgang mit Sterben und dem Tod gibt es kein Patentrezept
-       und keinen"goldenen Weg".
+    -   Für den Umgang mit Sterben und dem Tod gibt es kein Patentrezept
+        und keinen"goldenen Weg".
 
 Elisabeth :dfn:`Kübler-Ross` :index:`\ <Kübler-Ross>` beschreibt fünf Phasen, die im
 Sterbeprozess in unterschiedlicher Reihenfolge, oft auch wiederholt,
 durchlaufen werden:
 
--  *Abwehr*: Nicht wahrhaben wollen, Abwehr, Verdrängung
-
--  *Zorn*: Wütend auf das Schicksal (*"Warum ausgerechnet ich und nicht
-   ein anderer?"*) und neidig auf das "Glück" anderer
-
--  *Verhandeln* … mit dem betreuenden Personal, mit Gott oder generell
-   mit dem Schicksal
-
--  *Depression*: Traurige, deprimierte Stimmungslage, Verlust des
-   "sinnerfüllten Daseins"; vgl. :ref:`Thema-depression`
-
--  *Akzeptanz*: Der Patient kann sein Schicksal annehmen, er findet sich
-   damit ab.
+-   *Abwehr*: Nicht wahrhaben wollen, Abwehr, Verdrängung
+-   *Zorn*: Wütend auf das Schicksal (*"Warum ausgerechnet ich und nicht
+    ein anderer?"*) und neidig auf das "Glück" anderer
+-   *Verhandeln* … mit dem betreuenden Personal, mit Gott oder generell
+    mit dem Schicksal
+-   *Depression*: Traurige, deprimierte Stimmungslage, Verlust des
+    "sinnerfüllten Daseins"; vgl. :ref:`Thema-depression`
+-   *Akzeptanz*:
+    Der Patient kann sein Schicksal annehmen, er findet sich
+    damit ab.
 
 Demnach ist es verständlich, dass der gleiche Patient zu
 unterschiedlichen Zeitpunkten völlig unterschiedlich reagieren kann. Was
@@ -245,31 +238,32 @@ Die Zeitdauer des Kontakts ist naturgemäß eher gering, und die
 palliative Versorgung ist nicht unbedingt ein Schwerpunkt während eines
 Transportes. Dennoch gibt es einige Dinge zu bedenken:
 
--  *Angst und Ausnahmesituation*: Sowohl die Angehörigen wie auch der
-   Patient befinden sich u.U. in einer Ausnahmesituation wenn eine
-   (neuerliche) Klinikeinweisung bevorsteht. Oft kann man Angst vor der
-   folgenden Ungewissheit beobachten. Hier ist es wichtig, selber ein
-   *ruhiger Pol* bzw. ein *Fels in der Brandung* zu sein, an dem sich
-   der Patient und die Angehörigen "anhalten" können.
-
--  *Sachebene als Brücke*: Sachliche und klare Informationen über das
-   weitere Vorgehen sind für Patienten und Angehörige wichtig. Sie geben
-   ihnen (und auch dem Personal) Sicherheit im Gespräch und können ein
-   erster Schritt hin zu einer vertrauensvollen Gesprächsbasis sein. Es
-   kann damit auch gelingen, so manche überschießende emotionale
-   Reaktion zu kanalisieren.
-
--  *Verweigerung der Einweisung*: Viele Patienten wollen nicht in einem
-   Spital oder einer anderen Institution, sondern zu Hause sterben.
-   Dieser Wunsch ist zu akzeptieren. Es muss abgeklärt werden, ob der
-   Patient einsichts- und urteilsfähig (Bedenke: Besachwaltung!) und wie
-   er sonst versorgt (Essen auf Rädern, Heimhilfe, Angehörige, …) ist.
-
--  *Patientenverfügungen*: Eventuell vorhandene Patientenverfügungen
-   (verbindliche und beachtliche; :ref:`Thema-patientenverfuegung`) sollen,
-   wenn vorhanden, mitgenommen werden.
-
--  *Eigene Psychohygiene*
+-   *Angst und Ausnahmesituation*:
+    Sowohl die Angehörigen wie auch der
+    Patient befinden sich u.U. in einer Ausnahmesituation wenn eine
+    (neuerliche) Klinikeinweisung bevorsteht. Oft kann man Angst vor der
+    folgenden Ungewissheit beobachten. Hier ist es wichtig, selber ein
+    *ruhiger Pol* bzw. ein *Fels in der Brandung* zu sein, an dem sich
+    der Patient und die Angehörigen "anhalten" können.
+-   *Sachebene als Brücke*: Sachliche und klare Informationen über das
+    weitere Vorgehen sind für Patienten und Angehörige wichtig.
+    Sie geben
+    ihnen (und auch dem Personal) Sicherheit im Gespräch und können ein
+    erster Schritt hin zu einer vertrauensvollen Gesprächsbasis sein. Es
+    kann damit auch gelingen, so manche überschießende emotionale
+    Reaktion zu kanalisieren.
+-   *Verweigerung der Hospitalisierung*:
+    Viele Patienten wollen nicht in einem
+    Spital oder einer anderen Institution, sondern zu Hause sterben.
+    Dieser Wunsch ist zu akzeptieren. Es muss abgeklärt werden, ob der
+    Patient einsichts- und urteilsfähig (Bedenke: Besachwaltung!)
+    und wie er sonst versorgt
+    (Essen auf Rädern, Heimhilfe, Angehörige, …) ist.
+-   *Patientenverfügungen*:
+    Eventuell vorhandene Patientenverfügungen
+    (verbindliche und beachtliche; Vgl. :ref:`Thema-patientenverfuegung`)
+    sollen, wenn vorhanden, mitgenommen werden.
+-   *Eigene Psychohygiene*
 
 Der Helfer und der Sterbende
 ============================
@@ -285,20 +279,21 @@ einer Überforderung.
 
 Folgende Leitsätze können unter Umständen hilfreich sein:
 
--  *Persönliche Abgrenzung*: Das Problem des Patienten bleibt
-   grundsätzlich das Problem des Patienten. Eine Übernahme der Probleme
-   des Patienten durch den Helfer ist weder möglich noch sinvoll.
+-   *Persönliche Abgrenzung*:
+    Das Problem des Patienten bleibt
+    grundsätzlich das Problem des Patienten. Eine Übernahme der Probleme
+    des Patienten durch den Helfer ist weder möglich noch sinvoll.
 
--  Der Helfer muss im Rahmen der Möglichkeiten im Sinne des Patienten
-   handeln und seine angemessenen Bedürfnisse befriedigen.
+-   Der Helfer muss im Rahmen der Möglichkeiten im Sinne des Patienten
+    handeln und seine angemessenen Bedürfnisse befriedigen.
 
--  Man darf nicht seine eigenen Vorstellungen bezüglich der Hilfe mit
-   denen des Patienten gleichstellen. Wenn man dem Patienten helfen
-   möchte, muss man wissen, was *er* tatsächlich will.
+-   Man darf nicht seine eigenen Vorstellungen bezüglich der Hilfe mit
+    denen des Patienten gleichstellen. Wenn man dem Patienten helfen
+    möchte, muss man wissen, was *er* tatsächlich will.
 
-    -  Man muss sich also ständig vor Augen halten, dass im Umgang mit
-       Sterbenden manche, sonst übliche, Ansichten nicht – oder nur
-       eingschränkt – gelten.
+    Man muss sich also ständig vor Augen halten, dass im Umgang mit
+    Sterbenden manche, sonst übliche, Ansichten nicht – oder nur
+    eingschränkt – gelten.
 
 
 

@@ -147,7 +147,6 @@ Literaturverzeichnis
     Schnelle:2006
     Schottmueller:1914
     Silbernagl3-Herz
-    EkgIsabell:5
     SemmelABC:1
     Seto:2003
     Shea:1975
@@ -373,7 +372,6 @@ Literaturverzeichnis
 [Renz-Polster:4]_
 [Schabus:1]_
 [Seto:2003]_
-[EkgIsabell:5]_
 [Sitzmann:2]_
 [Waldeyer:2003]_
 [BrockhausDrei2Bd2]_
@@ -1993,17 +1991,6 @@ Z
 
 
 
-.. [InnereMedQuick:3]
-
-	Furger, Philippe, ed:
-	2011.*Innere Medizin Quick.*
-	3. Auflage,  Thieme.
-
-
-
-
-
-
 
 
 .. [Gallaher:2009]
@@ -2722,12 +2709,11 @@ Z
 
 
 
-.. [EkgIsabell:5]
+.. [Schuster:5]
 
-	Schuster, Hans-Peter und Hans-Joachim Trappe:
-	2009.*EKG-Kurs Für
-	Isabell.*
-	5. Auflage,  Thieme.
+    Schuster, Hans-Peter und Hans-Joachim Trappe:
+    *EKG-Kurs für Isabell.*
+    5. Auflage, 2009. Thieme.
 
 
 

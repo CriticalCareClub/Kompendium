@@ -1,7 +1,6 @@
 
-#######
-Glossar
-#######
+Abkürungsverzeichnis und Glossar
+########################################################################
 
 .. raw:: latex
 
@@ -63,6 +62,9 @@ Glossar
         (übermäßiges, anhaltendes Erbrechen),
         die EPH-Gestose bzw. Präekplampsie,
         die Eklampsie und das HELLP-Syndrom.
+
+    ICR
+        Intercostalraum. Vgl. :ref:`Intercostalraum`
 
     intermittieren
         zeitweilig aussetzen,

@@ -491,6 +491,14 @@ Andere verwendete Ⓛ — Lizenzen
         *Creative-Commons Attribution No Derivatives 3.0*:
         http://creativecommons.org/licenses/by-nd/3.0/legalcode;
 
+
+    Ⓛ CC BY-SA 2.0 DE
+        *Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Deutschland*:
+        https://creativecommons.org/licenses/by-sa/2.0/de
+
+
+
+
     Ⓛ CC BY-SA 3.0
         *Creative Commons Attribution-ShareAlike 3.0 Unported*:
         https://creativecommons.org/licenses/by-sa/3.0

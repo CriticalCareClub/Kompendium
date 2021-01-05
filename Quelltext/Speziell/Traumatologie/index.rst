@@ -4,8 +4,6 @@
 Traumatologie (#73)
 ###################################
 
-
-
 Als :dfn:`Trauma` :index:`\ <! Trauma>` bezeichnet man eine
 
 #.  Schädigung,
@@ -22,7 +20,7 @@ unter :ref:`Thema-traumacheck` erklärt.
 Auch die Psyche kann als Resultat einer erheblichen seelischen Belastung
 bzw. unzureichender Bewältigungsmöglichkeiten ein Trauma erleiden. Dies
 zeigt sich dann z. B. als Belastungsstörung oder Persönlichkeitsänderung.
-Vgl. Kapitel :ref:`chp-PSY`).
+Vgl. Kapitel :ref:`chp-PSY`.
 
 ********************************************************
 Einsatztaktische Überlegungen bei verunfallten Patienten
@@ -31,34 +29,39 @@ Einsatztaktische Überlegungen bei verunfallten Patienten
 Unfallort
 =========
 
+.. only:: not nosidebar
+
+    .. sidebar:: Unfallort
+
+        -   Absichern
+        -   Evt. Nachalarmierung
+        -   Triage
+        -   Stabilisierung bei eingeklemmten Personen
+
 Bevor die Patientenversorgung beginnen kann, müssen am Unfallort einige
 Vorkehrungen für den weiteren Einsatzablauf getroffen werden. Die
 wichtigsten Aufgaben sind:
 
--  *Absichern* der Unfallstelle und Selbstschutz (Blaulicht,
-   Warnblinkanlage, Uniformjacke anziehen, evtl. Helm aufsetzen)
+-   *Absichern* der Unfallstelle und Selbstschutz (Blaulicht,
+    Warnblinkanlage, Uniformjacke anziehen, evtl. Helm aufsetzen)
+-   Evtl. Nachalarmierung weiterer Einsatzkräfte: weitere Rettungsmittel
+    bei mehreren Verletzten, Feuerwehr, Polizei (Alarmierung
+    ausschließlich über das Journal, Meldung der Anzahl an Verletzten)
+-   Bei mehreren Verletzten Triage (:ref:`Thema-triage`)
+-   Eingeklemmte Personen werden im Fahrzeug stabilisiert bis die
+    Feuerwehr die Verunfallten rettet; Helme tragen!
+-   Crash-Rettung nur bei Fremdgefährdung, HWS stabilisieren!
 
--  Evtl. Nachalarmierung weiterer Einsatzkräfte: weitere Rettungsmittel
-   bei mehreren Verletzten, Feuerwehr, Polizei (Alarmierung
-   ausschließlich über das Journal, Meldung der Anzahl an Verletzten)
-
--  Bei mehreren Verletzten Triage (:ref:`Thema-triage`)
-
--  Eingeklemmte Personen werden im Fahrzeug stabilisiert bis die
-   Feuerwehr die Verunfallten rettet; Helme tragen!
-
--  Crash-Rettung nur bei Fremdgefährdung, HWS stabilisieren!
-
--  Absichern
-
--  Evt. Nachalarmierung
-
--  Triage
-
--  Stabilisierung bei eingeklemmten Personen
 
 Unfallmechanismus
 =================
+
+.. only:: not nosidebar
+
+    .. sidebar:: Unfallmechanismus
+
+        -   Was?
+        -   Wie?
 
 Eine rasche, überblicksmäßige Beurteilung des Unfallgeschehens erfolgt
 bereits im Szenenüberblick bzw. indirekt in der Ersteinschätzung des
@@ -68,89 +71,89 @@ detaillierte Analyse des Unfallhergangs kann durch die Anamnese
 erfolgen. Zusätzlich kann das Unfallszenario fotographiert werden.
 Primär müssen folgende Fragen geklärt werden:
 
--  *Was ist passiert?*
+-   *Was ist passiert?*
+-   *Wie wurde der Patient verletzt?*
 
--  *Wie wurde der Patient verletzt?*
-
--  Was?
-
--  Wie?
-
-    -  Es ist sinnvoll, nach Möglichkeit den Unfallmechanismus mittels
-       Fotos zu dokumentieren, um die Bilder der weiterbetreuenden
-       Stelle zeigen zu können. Dies kann helfen, um bei der klinischen
-       Versorgung des Patienten Prioritäten besser setzen zu können.
+Es ist sinnvoll, nach Möglichkeit den Unfallmechanismus mittels
+Fotos zu dokumentieren, um die Bilder der weiterbetreuenden
+Stelle zeigen zu können. Dies kann helfen, um bei der klinischen
+Versorgung des Patienten Prioritäten besser setzen zu können.
 
 Besondere Unfallmechanismen
 ---------------------------
 
-Übersicht
-^^^^^^^^^
+.. only:: not nosidebar
+
+    .. sidebar:: Besondere Unfallmechanismen
+
+        -   Verkehrsunfälle
+        -   Unfälle mit Fahrzeugen
+        -   Frontalzusammenstöße
+        -   Seitenaufprall
+        -   Fußgänger vs. Fahrzeug
+        -   Sturz aus großer Höhe
+        -   Stich- und Schussverletzungen
 
 Im Folgenden werden einige Kennzeichen der wichtigsten Unfallmechanismen
 vorgestellt.
 
--  Verkehrsunfälle
+-   Verkehrsunfälle
+-   Unfälle mit Fahrzeugen
+-   Frontalzusammenstöße
+-   Seitenaufprall
+-   Fußgänger vs. Fahrzeug
+-   Sturz aus großer Höhe
+-   Stich- und Schussverletzungen
 
--  Unfälle mit Fahrzeugen
-
--  Frontalzusammenstöße
-
--  Seitenaufprall
-
--  Fußgänger vs. Fahrzeug
-
--  Sturz aus großer Höhe
-
--  Stich- und Schussverletzungen
-
--  Verkehrsunfälle
-
--  Unfälle mit Fahrzeugen
-
--  Frontalzusammenstöße
-
--  Seitenaufprall
-
--  Fußgänger vs. Fahrzeug
-
--  Sturz aus großer Höhe
-
--  Stich- und Schussverletzungen
 
 Verkehrsunfälle
 ---------------
 
+.. only:: not nosidebar
+
+    .. sidebar:: Verkehrsunfälle
+
+        -   Fahrzeug
+        -   Teile im Fahrzeug
+        -   Patient
+
+        -    Verletzungsmuster
+        -    Patient angegurtet?
+        -    Airbags ausgelöst?
+
 Zur Beurteilung von Verletzungen durch Verkehrsunfälle werden in der
 Literatur drei Faktoren genannt:
 
--  Ausmaß der Verformung des Fahrzeugs (Hinweis auf die beteiligten
-   Kräfte)
+-   Ausmaß der Verformung des Fahrzeugs (Hinweis auf die beteiligten
+    Kräfte)
 
--  Beschädigung von Teilen in der Fahrzeugkabine (Hinweis für
-   Aufschlagpunkt des Körpers im Fahrzeug)
+-   Beschädigung von Teilen in der Fahrzeugkabine (Hinweis für
+    Aufschlagpunkt des Körpers im Fahrzeug)
 
--  Verletzungsmuster des Patienten (Hinweis darauf, welche Körperteile
-   direkt aufgeprallt sind)
+-   Verletzungsmuster des Patienten (Hinweis darauf, welche Körperteile
+    direkt aufgeprallt sind)
 
 Es gilt weiters heraus zu finden, ob der Patient angegurtet war und ob
 es Airbags gibt, die beim Aufprall ordnungsgemäß ausgelöst wurden.
-(Campbell 2010; Redelsteiner et al. 2005)
 
--  Fahrzeug
 
--  Teile im Fahrzeug
 
--  Patient
-
-   -  Verletzungsmuster
-
-   -  Patient angegurtet?
-
-   -  Airbags ausgelöst?
 
 Unfälle mit Fahrzeugen
 ----------------------
+
+.. only:: not nosidebar
+
+    .. sidebar:: Unfälle mit Fahrzeugen
+
+        -   Geschwindigkeit: Je schneller das Fahrzeug unterwegs war, desto
+            schwerer die Verletzungen.
+        -   Aus dem Fahrzeug geschleudert: Risiko schwerer Verletzungen ↑↑↑
+        -   Kraftübertragung:
+
+        -    Aufprall des Fahrzeugs
+        -    Aufprall des Körpers
+        -    Aufprall der Organe
 
 Für Unfälle mit Fahrzeugen gilt allgemein, dass die Geschwindigkeit des
 Fahrzeugs vor dem Unfall eine große Auswirkung auf den Schweregrad des
@@ -167,7 +170,7 @@ Verletzungen auf der jeweiligen Körperseite des Patienten. Von besonders
 schweren Verletzungen (SHT, Wirbelsäulentrauma, Thoraxtrauma,
 Bauchtrauma, …) ist auszugehen, wenn der Patient aus dem Fahrzeug
 geschleudert wird. Das Riskio für derart schwere Verletzungen ist um
-300% erhöht (Böhmer, Schneider, and Wolcke 2006).
+300% erhöht.
 
 Gibt es bei einem Unfall mehrere Verletzte und ist ein Patient schwer
 verletzt, eingeklemmt oder sogar getötet, muss man davon ausgehen, dass
@@ -180,45 +183,49 @@ Bei der Beurteilung des Verletzungsmusters muss bedacht werden, dass es
 durch einen Zusammenstoß aufgrund der Kraftübertragung zu einer ganzen
 Kette an Stößen kommt:
 
--  Kraftübertragung beim Aufprall des Fahrzeugs
+-   Kraftübertragung beim Aufprall des Fahrzeugs
+-   Kraftübertragung beim Aufprall des Körpers
+-   Kraftübertragung beim Aufprall der Organe innerhalb des Körpers.
 
--  Kraftübertragung beim Aufprall des Körpers
-
--  Kraftübertragung beim Aufprall der Organe innerhalb des Körpers.
-
-   Beispiel für die Kraftübertragung innerhalb des Körpers: Prallt der
-   Patient mit dem Knie gegen das Lenkrad oder das Amaturenbrett, so
-   wird die Kraft (in Richtung der Gewalteinwirkung) über den
-   Oberschenkel auch auf die Hüfte übertragen. Bei Knieverletzungen
-   durch den Aufprall in einem Fahrzeug muss daher auch an mögliche
-   Oberschenkel- und Beckenfrakturen gedacht werden.
+    Beispiel für die Kraftübertragung innerhalb des Körpers: Prallt der
+    Patient mit dem Knie gegen das Lenkrad oder das Amaturenbrett, so
+    wird die Kraft (in Richtung der Gewalteinwirkung) über den
+    Oberschenkel auch auf die Hüfte übertragen. Bei Knieverletzungen
+    durch den Aufprall in einem Fahrzeug muss daher auch an mögliche
+    Oberschenkel- und Beckenfrakturen gedacht werden.
 
 Weiters kann es zu Stößen durch im Fahrzeug herumfliegende Teile kommen.
-(Campbell 2010; Redelsteiner et al. 2005; Böhmer, Schneider, and Wolcke
-2006)
 
--  Geschwindigkeit: Je schneller das Fahrzeug unterwegs war, desto
-   schwerer die Verletzungen.
 
--  Aus dem Fahrzeug geschleudert: Risiko schwerer Verletzungen ↑↑↑
-
--  Kraftübertragung:
-
-   -  Aufprall des Fahrzeugs
-
-   -  Aufprall des Körpers
-
-   -  Aufprall der Organe
 
 Frontal- und Heckzusammenstöße
 ------------------------------
 
+.. only:: not nosidebar
+
+    .. sidebar:: Frontal- und Heckzusammenstöße
+
+        -   Kraft von vorne bei
+
+            -   Frontalzusammenstoß und
+            -   Heckaufprall
+
+        -   Beachte:
+
+            -   Knieanstoß
+            -   Windschutzscheibe
+            -   Radstand
+            -   Fahrzeugverformung
+
 Bei Frontalzusammenstößen wird die Kraft von vorne auf das Unfallopfer
 übertragen. Der Insasse wird aufgrund der Trägheit nach vorne
-geschleudert und schlägt daher u.U. auf das Lenkrad oder die
-Frontscheibe auf. Im Allgemeinen gilt: War der Patient nicht angegurtet,
-ist mit schweren Verletzungen zu rechnen! Aufgrund der Kraftrichtung von
-vorne sind folgende schwere Verletzungen typisch: Thoraxtrauma mit
+geschleudert und schlägt daher u. U. auf das Lenkrad oder die
+Frontscheibe auf.
+Im Allgemeinen gilt: War der Patient nicht angegurtet,
+ist mit schweren Verletzungen zu rechnen!
+Aufgrund der Kraftrichtung von
+vorne sind folgende schwere Verletzungen typisch:
+Thoraxtrauma mit
 Herzkontusion und Pneumothorax, HWS-Trauma, Leber- und Milzruptur,
 Beckenfraktur.
 
@@ -232,50 +239,37 @@ Großteil vom Sitz abgefedert.
 
 Es gilt in beiden Fällen besonders zu beachten:
 
--  Ein Knieanstoß am Lenkrad oder Armaturenbrett kann in der Folge zu
-   Oberschenkel- und Beckenfrakturen führen.
+-   Ein Knieanstoß am Lenkrad oder Armaturenbrett kann in der Folge zu
+    Oberschenkel- und Beckenfrakturen führen.
+-   Eine eingedrückte, leicht nach außen gewölbte Windschutzscheibe
+    (evtl. Spinnennetzmuster) deutet auf einen Aufprall des Kopfes gegen
+    die Scheibe hin. SHT und HWS-Trauma sind zu befürchten.
+-   Sichtbare Veränderungen des Radstandes
+    (z. B. Rad zur Seite geknickt,
+    Achsenverschiebung um mehr als 30 cm am Unfallfahrzeug) spiegeln ein
+    hohes Ausmaß an Verformung wieder.
+    Es ist daher generell mit schweren Verletzungen zu rechnen.
+-   Faustregel: Fahrzeugverformung um mehr als 50 cm sind als starke
+    Deformierung zu werten.
 
--  Eine eingedrückte, leicht nach außen gewölbte Windschutzscheibe
-   (evtl. Spinnennetzmuster) deutet auf einen Aufprall des Kopfes gegen
-   die Scheibe hin. SHT und HWS-Trauma sind zu befürchten.
-
--  Sichtbare Veränderungen des Radstandes (z. B. Rad zur Seite geknickt,
-   Achsenverschiebung um mehr als 30cm am Unfallfahrzeug) spiegeln ein
-   hohes Ausmaß an Verformung wieder (Böhmer, Schneider, and Wolcke
-   2006) . Es ist daher generell mit schweren Verletzungen zu rechnen.
-
--  Faustregel: Fahrzeugverformung um mehr als 50cm sind als starke
-   Deformierung zu werten. (Böhmer, Schneider, and Wolcke 2006)
-
--  Kraft von vorne bei
-
-   -  Frontalzusammenstoß und
-
-   -  Heckaufprall
-
--  Beachte:
-
-   -  Knieanstoß
-
-   -  Windschutzscheibe
-
-   -  Radstand
-
-   -  Fahrzeugverformung
 
 Seitenaufprall
 --------------
 
+.. only:: not nosidebar
+
+    .. sidebar:: Seitenaufprall
+
+        -   Kraft von der Seite
+        -   Beachte Kopf- und Seitenairbags
+
 Beim Seitenaufprall wirken die Kräfte seitlich auf den Patienten ein. Es
 kommt daher häufig zu HWS-Verrenkungen, Thoraxtrauma, Verletzungen der
 Aorta, seitenabhängig Leber- oder Milzrupturen und/oder Frakturen des
-Beckens (Böhmer, Schneider, and Wolcke 2006). Wurden im Fahrzeug Seiten-
+Beckens . Wurden im Fahrzeug Seiten-
 und Kopfairbags ausgelöst, ist zu beachten ob der Patient in diese (oder
 in die entgegengesetzte) Richtung geschleudert wurde.
 
--  Kraft von der Seite
-
--  Beachte Kopf- und Seitenairbags
 
 Fußgänger vs. Fahrzeug
 ----------------------
@@ -283,85 +277,92 @@ Fußgänger vs. Fahrzeug
 Stellt man im Szeneüberblick fest, dass ein *Fußgänger von einem
 Fahrzeug (frontal) erfasst* wurde, ist zunächst immer von schweren
 Verletzungen (insbesondere SHT und Wirbelsäulentrauma) auszugehen. In
-(Böhmer, Schneider, and Wolcke 2006) sind folgende Faustregeln
+sind folgende Faustregeln
 angegeben:
 
 -   Bis 30 km / h: Lebensbedrohliche Verletzungen möglich
     (Eine Fahrzeuggeschwindigkeit von mehr als 30 km / h
-    kann bei trockener Fahrbahn an Bremsspuren, die länger als !!!
-    VONBIS !!!1020m sind, erkannt werden.)
-
+    kann bei trockener Fahrbahn an Bremsspuren, die länger als
+    10—20 m sind, erkannt werden.)
 -   Bis 50 km / h: Aufprall des Kopfes auf die Kühlerhaube
-
 -   Bis 70 km / h: Aufprall des Kopfes auf die
     Windschutzscheibe
-
 -   Mehr als 70 km / h: Fußgänger wird über das
     Fahrzeugdach geworfen (gilt für PKW)
 
 
 
-.. todo:: Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+.. todo:: Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  Ⓒ David Hauer :term:`Ⓛ MfG`
 
 Sturz aus großer Höhe
 =====================
 
-Bei Stürzen aus großen Höhen (z. B. Leiter, Gerüst, Balkon) ist im
+.. only:: not nosidebar
+
+    .. sidebar:: Sturz aus großer Höhe
+
+        -   Fallhöhe
+        -   zuerst aufprallender Körperteil
+        -   Oberflächenbeschaffenheit des Bodens
+
+Bei Stürzen aus großen Höhen
+(z. B. Leiter, Gerüst, Balkon)
+ist im
 Szeneüberblick an folgende Fragestellungen zu denken:
 
--  Aus welcher Höhe ist der Patient gestürzt?
+-   Aus welcher Höhe ist der Patient gestürzt?
 
-   Ab einer Fallhöhe von 3m ist mit schweren Verletzungen zu rechnen, ab
-   einer Fallhöhe von *6m* ist von einem *Polytrauma*
-   (:ref:`Thema-polytrauma`) auszugehen (Böhmer, Schneider, and Wolcke 2006).
+    Ab einer Fallhöhe von 3 m ist mit schweren Verletzungen zu rechnen, ab
+    einer Fallhöhe von *6 m* ist von einem *Polytrauma*
+    (:ref:`Thema-polytrauma`) auszugehen .
+-   Mit welchem Körperteil ist er auf dem Boden aufgeprallt?
 
--  Mit welchem Körperteil ist er auf dem Boden aufgeprallt?
+    Generell ist wieder mit SHT und Wirbelsäulentrauma zu rechnen. Bei
+    einem Aufprall auf die gestreckten Beine ist zusätzlich an Frakturen
+    der unteren Extremitäten (z. B. Fraktur der Fersenbeine) sowie an
+    Stauchungen der Wirbelsäule zu denken. Kinder schlagen oft mit dem
+    Kopf auf, weshalb hier SHT häufig anzutreffen sind.
+-   Wie ist der Boden beschaffen (Beton, Wiese etc.)?
+    Ist der Patient auf
+    herumliegende Gegenstände gefallen?
 
-   Generell ist wieder mit SHT und Wirbelsäulentrauma zu rechnen. Bei
-   einem Aufprall auf die gestreckten Beine ist zusätzlich an Frakturen
-   der unteren Extremitäten (z. B. Fraktur der Fersenbeine) sowie an
-   Stauchungen der Wirbelsäule zu denken. Kinder schlagen oft mit dem
-   Kopf auf, weshalb hier SHT häufig anzutreffen sind.
+.. attention::
 
--  Wie ist der Boden beschaffen (Beton, Wiese etc.)? Ist der Patient auf
-   herumliegende Gegenstände gefallen?
-
--  Beachte:
-
-   -  Fallhöhe
-
-   -  zuerst aufprallender Körperteil
-
-   -  Oberflächenbeschaffenheit des Bodens
-
--  Rechne mit HWS-Trauma, Wirbelsäulentrauma, SHT, Beckenfraktur
+    -   Rechne mit HWS-Trauma, Wirbelsäulentrauma, SHT, Beckenfraktur
 
 Stich- und Schussverletzungen
 =============================
 
+.. only:: not nosidebar
+
+    .. sidebar:: Stichverletzungen, Fremdkörper
+
+        -   Können harmlos aussehen, aber trotzdem lebensbedrohlich sein!
+        -   Fremdkörper nicht entfernen!
+        -   Fremdkörper mittels Verband sichern!
+
 Stich- bzw. Pfählungsverletzungen und Schussverletzungen werden zu
 *penetrierende Verletzungen* zusammen gefasst. [#296]_
 
+.. [#296]
+    lat. penetrare: eindringen, durchdringen.
+
 Besonderheiten von Stichverletzungen sind, dass sie meistens
 unspektakulär aussehen. Sie sind oft klein und nur schwach blutend.
-Dennoch können sie im Körperinneren großen Schaden anrichten. Um das
-Verletzungsausmaß von Stichwunden richtig beurteilen zu können, müssen
-folgende Aspekte beachtet werden:
+Dennoch können sie im Körperinneren großen Schaden anrichten.
+Um das Verletzungsausmaß von Stichwunden richtig beurteilen zu können,
+müssen folgende Aspekte beachtet werden:
 
--  Welche Körperteile sind betroffen? (Welche Organe liegen direkt unter
-   der Einstichstelle?)
-
--  Gibt es mehrere Einstichstellen? Wie viele?
-
--  Wie lang war die Klinge?
-
--  Wie war der Einstichwinkel? (Welche Organe könnten noch betroffen
-   sein?)
-
-   Beispiel: Ein schräg in den Oberbauch eindringender Gegenstand kann
-   auch Organe im Thorax verletzen!
-
--  Wurde nach dem Einstich die Lage des Gegenstands im Körper verändert?
+-   Welche Körperteile sind betroffen?
+    (Welche Organe liegen direkt unter
+    der Einstichstelle?)
+-   Gibt es mehrere Einstichstellen? Wie viele?
+-   Wie lang war die Klinge?
+-   Wie war der Einstichwinkel? (Welche Organe könnten noch betroffen
+    sein?)
+    Beispiel: Ein schräg in den Oberbauch eindringender Gegenstand kann
+    auch Organe im Thorax verletzen!
+-   Wurde nach dem Einstich die Lage des Gegenstands im Körper verändert?
 
 Die Besonderheit von Schussverletzungen ist, dass das Geschoss mit sehr
 großer Geschwindigkeit in den Körper eindringt. Die dadurch entstehende
@@ -376,11 +377,6 @@ Operationssaal* erfolgen. Für den Transport muss man den *Fremdkörper
 mittels eines Verbandes sichern*, um ein Verrutschen und
 Folgeverletzungen zu verhindern.
 
--  Können harmlos aussehen, aber trotzdem lebensbedrohlich sein!
-
--  Fremdkörper nicht entfernen!
-
--  Fremdkörper mittels Verband sichern!
 
 
 
@@ -393,7 +389,7 @@ Folgeverletzungen zu verhindern.
 
     Fixierung eines penetrierenden Fremdkörpers.
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -418,7 +414,6 @@ Folgeverletzungen zu verhindern.
     :label: Figure-BilderserieFremdkoerper
 
     Bilderserie: Fremdkörper
-
 
 
 Zusammenfassung
@@ -464,129 +459,150 @@ Maßnahmen: Unfälle
 Verletzungen der Knochen: Frakturen
 ***********************************
 
+
+.. only:: not nosidebar
+
+    .. sidebar:: Frakturen
+
+        -   Geschlossener Knochenbruch
+        -   Offener Knochenbruch
+
 Allgemeines
 ===========
 
-Beschreibung und Arten
-----------------------
-
-Ein **:dfn:`Knochenbruch` :index:`\ <! Knochenbruch>`
-(*Syn.* :dfn:`Fraktur` , *lat.* (*Fract.*))
+Ein :dfn:`Knochenbruch`
+:index:`\ <! Knochenbruch>`
+(*Syn.* :dfn:`Fraktur` , *lat.* :dfn:`Fract.`)
 ist eine Kontinuitätsunterbrechung
-eines Knochens mit Bildung von Fragmenten (Bruchstücken) (Pschyrembel
-2002).** Grundsätzlich wird zwischen zwei Arten von Knochenbrüchen
+eines Knochens mit Bildung von Fragmenten (Bruchstücken) [Pschyrembel:259]_.
+
+Grundsätzlich wird zwischen zwei Arten von Knochenbrüchen
 unterschieden: Beim *geschlossenen Knochenbruch* ist die Haut über der
-Bruchstelle noch intakt, während beim *offenen Knochenbruch*\  [#297]_
+Bruchstelle noch intakt, während beim *offenen Knochenbruch*\ [#297]_
 aufgrund der Gewalteinwirkung von außen die Haut über der Bruchstelle
-verletzt ist. Der Knochen muss dabei nicht herausragen. [#298]_
+verletzt ist. Der Knochen muss dabei nicht herausragen\ [#298]_.
 
--  Geschlossener Knochenbruch
 
--  Offener Knochenbruch
+.. [#297]
+    Offener Bruch: *Fractura aperta* (*Fract* :index:`\ <Fract.!apert.>`. apert.)
+
+.. [#298]
+    Die Literatur ist bei der Definition offener Knochenbrüche nicht
+    einheitlich. In manchen Büchern, z. B. in [Gorgass:7]_, wird
+    ein offener Knochenbruch durch eine direkte Verbindung zwischen Wunde
+    und Bruchstelle beschrieben, in anderen Büchern genügt es, wenn über
+    der Bruchstelle eine Hautverletzung vorliegt. Andere Quellen geben drei Schweregrade für offene
+    Frakturen an. Die genau Definition spielt für die Praxis keine Rolle.
+    Das Achten auf Keimfreiheit ist in jedem der beschriebenen Fälle
+    unbedingt notwendig!
+
 
 .. _Thema-frakturzeichen:
 
 Symptome : Frakturzeichen
 -------------------------
 
+.. only:: not nosidebar
+
+    .. sidebar:: Frakturzeichen
+
+        -   Sichere Frakturzeichen
+        -   Unsichere Frakturzeichen
+        -   :ref:`Table-frakturzeichen`
+
 Erkennbar ist ein Knochenbruch anhand von
-klassischen Frakturzeichen. Dabei gibt es sichere und unsichere
-Frakturzeichen, welche in [Table-frakturzeichen] angeführt sind. Nicht
-immer kann die Diagnose eines Bruches gestellt oder ausgeschlossen
+klassischen Frakturzeichen.
+Dabei gibt es sichere und unsichere
+Frakturzeichen,
+welche in der Tabelle :ref:`Table-frakturzeichen` angeführt sind.
+Nicht immer kann die Diagnose eines Bruches gestellt oder ausgeschlossen
 werden.
 
--  Sichere Frakturzeichen
 
--  Unsichere Frakturzeichen
+.. list-table:: Frakturzeichen
+    :header-rows: 1
+    :name: Table-frakturzeichen
 
--  [Table-frakturzeichen]
+    *   -   "Sichere" Frakturzeichen
+        -   Unsichere Frakturzeichen
+    *   -   -   Abnorme Beweglichkeit
+            -   Fehlstellung (abnorme Stellung, Verkürzung, Treppenbildung)
+            -   Knochenreiben (Krepitus)
+            -   Sichtbare freie Knochenteile (= offener Bruch)
+        -   -   Schmerz
+            -   Schwellung
+            -   Hämatom
+            -   Gestörte Funktion / Bewegungsunfähigkeit
 
-.. todo:: Table Frakturzeichen[Table-frakturzeichen]
-
-    | ll &
-
-    -  Abnorme Beweglichkeit
-
-    -  Fehlstellung (abnorme Stellung, Verkürzung, Treppenbildung)
-
-    -  Knochenreiben (Krepitus) [#299]_
-
-    -  Sichtbare freie Knochenteile (= offener Bruch)
-
-    &
-
-    -  Schmerz
-
-    -  Schwellung
-
-    -  Hämatom
-
-    -  Gestörte Funktion / Bewegungsunfähigkeit
-
-    |
 
 Gefahren
 --------
 
--  **Starke Blutungen** bis hin zum Schock Je nach betroffenen Knochen
-   kann es zu unterschiedlich großen Blutverlusten kommen:
+.. only:: not nosidebar
 
-   Oberarm
-       100–\ *800*\ ml
+    .. sidebar:: Gefahren
 
-   Unterarm
-       50–\ *400*\ ml
+        -   **Starke Blutung**
+        -   *Fettembolie*
+        -   Nervenverletzungen
+        -   Infektion
+        -   Kombination mehrerer Frakturen
+        -   Muskelquetschungen
 
-   **Becken**
-       500–\ **5000**\ ml
+-   **Starke Blutungen** bis hin zum Schock Je nach betroffenen Knochen
+    kann es zu unterschiedlich großen Blutverlusten kommen:
 
-   **Oberschenkel**
-       300–\ **2000**\ ml (Schaftfraktur!)
+    Oberarm
+       100–\ *800*\  ml
 
-   Unterschenkel
-       100–\ *1000*\ ml
+    Unterarm
+       50–\ *400*\  ml
 
-   Die Blutung kann aus dem Knochenmark, zerrissener Muskulatur oder aus
-   einem verletzten Gefäß kommen.
+    **Becken**
+       500–\ **5000**\  ml
 
--  **Fettembolie**: Das gelbe Knochenmark, welches vor allem aus Fett
-   besteht, kann v.a. bei Frakturen langer Röhrenknochen zu Fettembolien
-   führen: Kleine Fetttröpfchen gelangen dabei in die Blutbahn und
-   können eine Lungenarterie verstopfen, dadurch kommt es zu einer
-   Lungenembolie (:ref:`Thema-lungenembolie`).
+    **Oberschenkel**
+       300–\ **2000**\  ml (Schaftfraktur!)
 
--  Begleitende *Nervenverletzungen*
+    Unterschenkel
+       100–\ *1000*\  ml
 
--  *Infektionsgefahr*: Bei offenen Frakturen ist Keimfreiheit besonders
-   wichtig, da die Gefahr einer lebenslangen Knochenmarksentzündung
-   (Osteomyelitis) besteht! Wenn mögllich soll eine Wundfolie (z. B. !!!
-   TERMINUS !!! *OpSite*) verwendet werden.
+    Die Blutung kann aus dem Knochenmark, zerrissener Muskulatur oder aus
+    einem verletzten Gefäß kommen.
 
--  Kombination von mehreren Frakturen → großer
-   Blutverlust
+-   **Fettembolie**: Das gelbe Knochenmark, welches vor allem aus Fett
+    besteht, kann v.a. bei Frakturen langer Röhrenknochen zu Fettembolien
+    führen: Kleine Fetttröpfchen gelangen dabei in die Blutbahn und
+    können eine Lungenarterie verstopfen, dadurch kommt es zu einer
+    Lungenembolie (:ref:`Thema-lungenembolie`).
 
--  Schwere Muskelquetschung kann zu einem Sauerstoffmangel im Muskel
-   führen (Kompartmentsyndrom)
+-   Begleitende *Nervenverletzungen*
 
--  **Starke Blutung**
+-   *Infektionsgefahr*: Bei offenen Frakturen ist Keimfreiheit besonders
+    wichtig, da die Gefahr einer lebenslangen Knochenmarksentzündung
+    (Osteomyelitis) besteht! Wenn mögllich soll eine Wundfolie
+    (z. B. *OpSite*) verwendet werden.
 
--  *Fettembolie*
+-   Kombination von mehreren Frakturen → großer
+    Blutverlust
 
--  Nervenverletzungen
+-   Schwere Muskelquetschung kann zu einem Sauerstoffmangel im Muskel
+    führen (Kompartmentsyndrom)
 
--  Infektion
-
--  Kombination mehrerer Frakturen
-
--  Muskelquetschungen
 
 Auch bei einer harmlos anmutenden Fraktur muss ein gründlicher
 Traumacheck durchgeführt werden, damit keine Begleitverletzungen
 übersehen werden. Dafür ist es unbedingt notwendig, dass der Patient
-entkleidet wird. [#300]_ Beim Entfernen der Schuhe ist darauf zu achten,
+entkleidet wird\ [#300]_. Beim Entfernen der Schuhe ist darauf zu achten,
 dass eine Person das Bein fixiert während eine andere Person den Schuh
-öffnet und schließlich mittels Stiefelgriff (siehe
-:ref:`Thema-vacuumbeinschiene-anwendung`) vorsichtig vom Fuß abzieht.
+öffnet und schließlich mittels Stiefelgriff
+(siehe :ref:`Thema-vacuumbeinschiene-anwendung`)
+vorsichtig vom Fuß abzieht.
+
+
+.. [#300]
+    Nachdem der Patient für die Untersuchung entkleidet wurde, muss er
+    nach der Untersuchung zugedeckt werden (Wärmeerhaltung)!
 
 
 .. subfigstart::
@@ -597,7 +613,7 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
     Fehlstellung einer Unterschenkelfraktur nach einem
     Verkehrsunfall (PKW gegen Fußgänger) in natura …
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -608,7 +624,7 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
 
     … und in Röntgendarstellung
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -626,7 +642,7 @@ dass eine Person das Bein fixiert während eine andere Person den Schuh
     :width: 0.32
     :label: Figure-Bilderserie-OffeneFrakturen
 
-     Bilderserie: Offene Frakturen
+    Bilderserie: Offene Frakturen
 
 
 
@@ -646,14 +662,13 @@ Maßnahmen: Fraktur
 :Taktik: Zeitkritisch. Evtl. vitale Bedrohung v. a. durch Blutverlust.
 
 Erkennen
-von großen Blutverlusten, Blutstillung,  Steriles
+von großen Blutverlusten, Blutstillung,
+Steriles
 Abdecken, Einschätzen der vitalen Bedrohung, ggfs
 Schmerztherapie.
 Bei *vitaler Bedrohung*: Zeitkritisch,
 zügiger Transport.
 Bei *stabilen Patienten*: Schienung}
-
-
 
 Basismaßnahmen
     -   **Blutstillung**: Z. B. mit Beckengurt
@@ -678,15 +693,16 @@ Basismaßnahmen
 Spezielle Knochenbrüche
 =======================
 
-Beschreibung
-------------
+.. only:: not nosidebar
+
+    .. sidebar:: Spezielle Knochenbrüche
+
+        -   Schlüsselbeinfraktur
+        -   Schenkelhalsfraktur
 
 Die beiden im Rettungsdienst am häufigsten anzutreffenden, speziellen
 Knochenbrüche sind die Schlüsselbeinfraktur und die Schenkelhalsfraktur.
 
--  Schlüsselbeinfraktur
-
--  Schenkelhalsfraktur
 
 Schlüsselbeinfraktur
 --------------------
@@ -705,11 +721,9 @@ Bei der Schenkelhalsfraktur handelt es sich um einen Bruch des
 Oberschenkelhalses. Meist sind ältere Menschen betroffen, die auf die
 Hüfte gestürzt sind. Symptome sind:
 
--  Starker Bewegungs- oder Stauchungsschmerz
-
--  Betroffenes Bein ist nach außen gedreht und verkürzt
-
--  Unfallhergang meist Sturz (auch an Kollaps denken!)
+-   Starker Bewegungs- oder Stauchungsschmerz
+-   Betroffenes Bein ist nach außen gedreht und verkürzt
+-   Unfallhergang meist Sturz (auch an Kollaps denken!)
 
 Die Versorgung erfolgt durch Rettung mittels Schaufeltrage und
 Ruhigstellung mittels Vakuummatratze. An große Blutverluste denken
@@ -725,17 +739,22 @@ Verletzungen der Gelenke: Verrenkung und Verstauchung
 Verstauchung, Bänderzerrung und Bänderriss
 ==========================================
 
-Beschreibung
-------------
+Eine :dfn:`Verstauchung`
+:index:`\ <! Verstauchung>`
+(*Syn.* :dfn:`Distorsion`
+:index:`\ <! Distorsion>`,
+*lat.* *Distorsio* (*Dist.*))
+ist eine Zerrung bzw.
+Überdehnung des Kapsel-/Bandapparates eines Gelenks.
 
-Eine :dfn:`Verstauchung` :index:`\ <! Verstauchung>` (*Syn.* :dfn:`Distorsion` :index:`\ <! Distorsion>`, *lat.* *Distorsio* (*Dist.*)) ist eine Zerrung bzw.
-Überdehnung des Kapsel-/ Bandapparates eines Gelenks.
-
-Bei der
-Verstauchung (:dfn:`Distorsion` :index:`\ <! Distorsion>`) handelt es sich um eine
-Gelenksverletzung, bei welcher ein Knochen durch stumpfe
-Gewalteinwirkung kurz verschoben oder verdreht wird. Im Gegensatz zur
-Verrenkung springt der Knochen aber von selbst wieder in seine
+Bei der Verstauchung
+(:dfn:`Distorsion`
+:index:`\ <! Distorsion>`)
+handelt es sich um eine Gelenksverletzung,
+bei welcher ein Knochen durch stumpfe
+Gewalteinwirkung kurz verschoben oder verdreht wird.
+Im Gegensatz zur Verrenkung springt der Knochen
+aber von selbst wieder in seine
 ursprüngliche Stellung im Gelenk zurück.
 
 Da Gelenke durch Bänder vor unnatürlichen bzw. übermäßigen Bewegungen
@@ -746,6 +765,14 @@ Gewalteinwirkung reißen.
 Symptome
 --------
 
+.. only:: not nosidebar
+
+    .. sidebar:: Symptome
+
+        -   Schmerzen, Schwellung, Bluterguß (Hämatom)
+        -   Evtl. Bewegungseinschränkungen
+        -   Hörbares Schnalzen beim Bänderriss
+
 Bei einer Distorsion klagt der Patient über *Schmerzen* im
 Gelenksbereich. Je nach Unfallschwere kann der Patient das entsprechende
 Gelenk evtl. *eingeschränkt bewegen*. Durch die Weichteilverletzung
@@ -754,11 +781,6 @@ kommt es zu einem *Anschwellen* des umliegenden Gewebes und zu einem
 berichten der Patient oder die Unfallzeugen meist über ein hörbares
 *Schnalzen*.
 
--  Schmerzen, Schwellung, Bluterguß (Hämatom)
-
--  Evtl. Bewegungseinschränkungen
-
--  Hörbares Schnalzen beim Bänderriss
 
 
 
@@ -786,14 +808,18 @@ Basismaßnahmen
 Verrenkung
 ==========
 
-Beschreibung
-------------
-
-**Eine :dfn:`Verrenkung` :index:`\ <! Verrenkung>` (*Syn.* :dfn:`Luxation` :index:`\ <! Luxation>`, *lat.* *Luxatio* (*Lux.*)) ist eine Gelenkverletzung, bei
-der zwei das Gelenk bildende Knochenenden aus ihrer normalen Stellung
+Eine :dfn:`Verrenkung`
+:index:`\ <! Verrenkung>`
+(*Syn.* :dfn:`Luxation`
+:index:`\ <! Luxation>`,
+*lat.* *Luxatio* (*Lux.*))
+ist eine Gelenkverletzung,
+bei der zwei das Gelenk bildende Knochenenden aus ihrer normalen Stellung
 zueinander verschoben werden. Dabei kommt es meist zu
-Begleitverletzungen an der Gelenkkapsel bzw. den Gelenkbändern (Gorgass
-et al. 2007).** Die Verrenkung (:dfn:`Luxation` :index:`\ <! Luxation>`) ist eine
+Begleitverletzungen an der Gelenkkapsel bzw. den Gelenkbändern [Gorgass:7]_.
+
+Die Verrenkung
+(:dfn:`Luxation`\ :index:`\ <! Luxation>`) ist eine
 Gelenksverletzung, bei der – im Gegensatz zur Verstauchung – der
 verschobene oder verdrehte Knochen nicht von selbst in das Gelenk zurück
 gesprungen ist. Die betroffene Extremität kann daher nicht mehr bewegt
@@ -803,10 +829,17 @@ unternommen werden!
 Durch das inadäquate Verhältnis zwischen Kopfgröße und Pfannengröße im
 Schultergelenk ist dies das am häufigsten luxierte Gelenk im
 menschlichen Körper. 45% aller Luxationen entfallen auf das
-Schultergelenk (Gorgass et al. 2007).
+Schultergelenk [Gorgass:7]_.
 
 Symptome
 --------
+
+.. only:: not nosidebar
+
+    .. sidebar:: Symptome
+
+        -   Schmerzen, Schwellung, Bluterguss
+        -   Abnorme Gelenkstellung (federnd fixiert), bewegungsunfähig
 
 Der Patient klagt über Schmerzen im Bereich des Gelenks, durch die
 Weichteilverletzung kommt es zu einer Schwellung der umliegenden Gewebe
@@ -814,9 +847,6 @@ und zu einem Hämatom. Klinisch kann man eine abnorme Gelenksstellung,
 welche einen federnd fixierten Charakter hat, feststellen. Der Patient
 kann das entsprechende Gelenk nicht bewegen.
 
--  Schmerzen, Schwellung, Bluterguss
-
--  Abnorme Gelenkstellung (federnd fixiert), bewegungsunfähig
 
 
 .. _TT14032C:
@@ -824,8 +854,6 @@ kann das entsprechende Gelenk nicht bewegen.
 
 Maßnahmen Verrenkung
 --------------------
-
-.. todo:: Maßnahme TT14032C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
     -   Kleidung und Schmuck von der betroffenen Gliedmaße entfernen
@@ -845,13 +873,22 @@ Basismaßnahmen
 Schädel-Hirn-Trauma (SHT)
 *************************
 
-Beschreibung und Arten
-======================
+.. only:: not nosidebar
+
+    .. sidebar:: Schädel-Hirn-Trauma (SHT)
+
+        -   Leitsymptom: *Bewusstseinsstörung*.
+        -   Arten:
+
+            -   Gedecktes SHT: ohne Eröffnung der harten Hirnhaut
+            -   Offenes SHT: mit Eröffnung der harten Hirnhaut
 
 Ein :dfn:`Schädel-Hirn-Trauma`
-(*Abkz.* :dfn:`SHT` :index:`\ <! SHT>`) ist eine Gewalteinwirkung auf den Kopf,
+(*Abkz.* :dfn:`SHT`\ :index:`\ <! SHT>`)
+ist eine Gewalteinwirkung auf den Kopf,
 welche Funktionsstörungen und Verletzungen des Gehirns hervorruft
-(Gorgass et al. 2007). Die häufigsten Ursachen von
+[Gorgass:7]_.
+Die häufigsten Ursachen von
 Schädel-Hirn-Traumata (SHT) sind Verkehrsunfälle, Stürze und
 Gewaltverbrechen. Je nach Schwere und Mechanismus können verschiedene
 Formen des SHT auftreten. Man unterscheidet das *gedeckte SHT*, bei dem
@@ -859,178 +896,171 @@ die harte Hirnhaut (Dura mater) nicht eröffnet wird, sowie das *offene
 SHT*, bei dem die harte Hirnhaut eröffnet wird. Bei beiden Arten kommt
 es zu Bewusstseinsstörungen.
 
--  Leitsymptom: *Bewusstseinsstörung*.
+.. note::
 
--  Arten:
-
-   -  Gedecktes SHT: ohne Eröffnung der harten Hirnhaut
-
-   -  Offenes SHT: mit Eröffnung der harten Hirnhaut
-
-
--  Das Leitsymptom des SHT ist die *Bewusstseinsstörung*.
+    -   Das Leitsymptom des SHT ist die *Bewusstseinsstörung*.
 
 Begleitende Verletzungen
 ========================
 
--  HWS-Verletzung
+.. only:: not nosidebar
 
--  Verletzung der Kopfschwarte (Rissquetschwunde)
+    .. sidebar:: SHT: Begleitende Verletzungen
 
--  Frakturen von
+        -   HWS-Verletzung
+        -   Rissquetschwunden
+        -   Frakturen
 
-   -  Schädeldach
 
-   -  Schädelbasis (Blutung bzw. Liquoraustritt aus Ohren oder Nase, !!!
-      INDEX I !!! [Monokelhämatom]Monokel- oder *Brillenhämatom*)
+-   HWS-Verletzung
+-   Verletzung der Kopfschwarte (Rissquetschwunde)
+-   Frakturen von
 
-   -  Gesichtsschädel
+    -   Schädeldach
+    -   Schädelbasis (Blutung bzw. Liquoraustritt aus Ohren oder Nase,
+        Monokel- oder *Brillenhämatom*)
 
-   -  Unterkiefer
+    -   Gesichtsschädel
+    -   Unterkiefer
 
--  HWS-Verletzung
 
--  Rissquetschwunden
-
--  Frakturen
-
--  Die Schwere eines SHT lässt sich nur bedingt von den äußerlich
-   sichtbaren Verletzungen ableiten! Oft werden im Krankenhaus Frakturen
-   festgestellt, ohne dass äußere Wunden vorliegen. Eine *sorgfältige
-   Untersuchung* ist daher bei jedem SHT Pflicht!
+Die Schwere eines SHT lässt sich nur bedingt von den äußerlich
+sichtbaren Verletzungen ableiten! Oft werden im Krankenhaus Frakturen
+festgestellt, ohne dass äußere Wunden vorliegen. Eine *sorgfältige
+Untersuchung* ist daher bei jedem SHT Pflicht!
 
 Gefahren
 ========
 
--  :dfn:`Luzides Intervall` (lichtes
-   Intervall)*: Die Symptome können eventuell erst Stunden nach der
-   Verletzung einsetzen. Dazwischen ist der Patient unauffällig. Diese
-   Zeitspanne wird *Luzides Intervall*
-   genannt und ist sehr gefährlich, da man den Patienten leicht falsch
-   einschätzen kann.
+.. only:: not nosidebar
 
--  *Hirnblutung*: Eine Hirnblutung (intrakranielle Blutung) kann sowohl
-   in Folge eines SHT als auch spontan (z. B. durch Platzen eines
-   Aneurysmas, "blutiger Insult", :ref:`Thema-insult`) auftreten.
+    .. sidebar:: SHT: Gefahren
 
-   Aufgrund der inneren Blutung steigt der Druck im Schädel an, s.u.
+        -   **Luzides Intervall**
 
--  *Hirndrucksteigerung*: Sowohl durch eine *Hirnblutung*, als auch
-   durch ein verletzungsbedingtes *Anschwellen des Hirngewebes*
-   (*Hirnödem*) kann es zu einer Drucksteigerung innerhalb des Schädels
-   und zum Auftreten von *Hirndruckzeichen* (:ref:`Thema-hirndruckzeichen`)
-   kommen:
+            -   Symptome erst Stunden nach Verletzung
 
-   -  Übelkeit, Erbrechen
+        -   Hirnblutung
+        -   Hirndrucksteigerung, **Hirnstammeinklemmung**
+        -   HWS-Verletzung
+        -   Unregelmäßige Atmung
 
-   -  Bewusstseinsstörungen
+-   Das luzide Intervall kann zu einer katastrophalen Fehleinschätzung
+    des Patientenzustandes führen!
+-   Die Hirnstammeinklemmung ist akut lebensbedrohlich!
+-   :dfn:`Luzides Intervall` (lichtes
+    Intervall)*: Die Symptome können eventuell erst Stunden nach der
+    Verletzung einsetzen. Dazwischen ist der Patient unauffällig. Diese
+    Zeitspanne wird *Luzides Intervall*
+    genannt und ist sehr gefährlich, da man den Patienten leicht falsch
+    einschätzen kann.
+-   *Hirnblutung*: Eine Hirnblutung (intrakranielle Blutung) kann sowohl
+    in Folge eines SHT als auch spontan (z. B. durch Platzen eines
+    Aneurysmas, "blutiger Insult", :ref:`Thema-insult`) auftreten.
 
-   -  Bradykardie, Hypertonie (HF↓,
-      RR\ ↑)
+    Aufgrund der inneren Blutung steigt der Druck im Schädel an, s.u.
+-   *Hirndrucksteigerung*: Sowohl durch eine *Hirnblutung*, als auch
+    durch ein verletzungsbedingtes *Anschwellen des Hirngewebes*
+    (*Hirnödem*) kann es zu einer Drucksteigerung innerhalb des Schädels
+    und zum Auftreten von *Hirndruckzeichen* (:ref:`Thema-hirndruckzeichen`)
+    kommen:
 
-   -  Ungleichweite Pupillen, verlangsamte Lichtreaktion
+    -   Übelkeit, Erbrechen
+    -   Bewusstseinsstörungen
+    -   Bradykardie, Hypertonie (HF ↓,
+        RR ↑)
+    -   Ungleichweite Pupillen, verlangsamte Lichtreaktion
+    -   Strecksynergismen
 
-   -   Strecksynergismen
+    Durch die Hirndrucksteigerung besteht die Gefahr einer
+    **Hirnstammeinklemmung** (:ref:`Thema-hirnstammeinklemmung`). Da sich im
+    Hirnstamm das Atem- und Kreislaufzentrum befindet besteht dabei akute
+    **Lebensgefahr**!
 
-   Durch die Hirndrucksteigerung besteht die Gefahr einer
-   **Hirnstammeinklemmung** (:ref:`Thema-hirnstammeinklemmung`). Da sich im
-   Hirnstamm das Atem- und Kreislaufzentrum befindet besteht dabei akute
-   **Lebensgefahr**!
+-   *HWS-Verletzung*: Oft kommt es bei einer einem SHT zu einer
+    Mitverletzung der Halswirbelsäule.
+-   **B** *Atmungsprobleme*:
+    Unregelmäßige oder insuffiziente Atmung u. a.
+    aufgrund einer direkten oder indirekten Hirn- bzw.
+    Rückenmarksschädigung
 
--  *HWS-Verletzung*: Oft kommt es bei einer einem SHT zu einer
-   Mitverletzung der Halswirbelsäule.
 
--  **B** *Atmungsprobleme*: Unregelmäßige oder insuffiziente Atmung u.a.
-   aufgrund einer direkten oder indirekten Hirn- bzw.
-   Rückenmarksschädigung
 
--  **Luzides Intervall**
+Aufgrund des lichten Intervalls können
+Symptome eines SHT erst
+Stunden nach der eigentlichen Verletzung auftreten.
+Bei einem SHT kann es zu einer Hirndrucksteigerung kommen, ,
+die in einer akut lebensbedrohlichen
+Hirnstammeinklemmung enden kann.
 
-   -  Symptome erst Stunden nach Verletzung
-
--  Hirnblutung
-
--  Hirndrucksteigerung, **Hirnstammeinklemmung**
-
--  HWS-Verletzung
-
--  Unregelmäßige Atmung
-
-    -  Aufgrund des lichten Intervalls können Symptome eines SHT erst
-       Stunden nach der eigentlichen Verletzung auftreten.
-
-    -  Bei einem SHT kann es zu einer Hirndrucksteigerung kommen, die in
-       einer akut lebensbedrohlichen Hirnstammeinklemmung enden kann.
-
--  Das luzide Intervall kann zu einer katastrophalen Fehleinschätzung
-   des Patientenzustandes führen!
-
--  Die Hirnstammeinklemmung ist akut lebensbedrohlich!
 
 .. _Thema-sht-diagnostik:
 
 Spezielle Diagnostik beim SHT
 =============================
 
+.. only:: not nosidebar
+
+    .. sidebar:: SHT: Spezielle Diagnostik
+
+        -   Neurologische Beurteilung wichtig!
+
+            -   Bewusstseinsstörungen können andere Ursachen haben!
+            -   Hirndruckzeichen (Pupillen!)
+
+        -   Traumacheck
+        -   Weitere Diagnostik im Spital, auch bei symptomfreien Patienten
+
 Grundsätzlich ist beim Schädel-Hirn-Trauma die
 übliche Trauma-Diagnostik durchzuführen. Die *neurologische
 Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
 *Begleit- oder Folgeverletzungen* sind besonders zu betonen.
 
--  *Unfallmechanismus*: Anhand des Unfallmechanismus muss ermittelt
-   werden, ob es eine Verletzung der (Hals-) Wirbelsäule wahrscheinlich
-   ist. Besonders bedenklich sind Sportverletzungen im Kopf- oder
-   Nackenbereich, ein Trauma nach Sprung ins Wasser und
-   Stauchungsverletzungen der HWS (z. B. Schlag auf Kopf; vgl. !!!
-   FULLPRETTYREFPROCEDURE !!! YY14200B). Ggfs. muss eine Immobilisation
-   durchgeführt werden
+-   *Unfallmechanismus*: Anhand des Unfallmechanismus muss ermittelt
+    werden, ob es eine Verletzung der (Hals-) Wirbelsäule wahrscheinlich
+    ist. Besonders bedenklich sind Sportverletzungen im Kopf- oder
+    Nackenbereich, ein Trauma nach Sprung ins Wasser und
+    Stauchungsverletzungen der HWS.
+    Ggfs. muss eine HWS-Immobilisation
+    durchgeführt werden
 
--  *Neurologische Beurteilung*: Die neurologische Beurteilung ist beim
-   SHT natürlich besonders wichtig und besonders genau durchzuführen.
-   Ein *Neurocheck* ist verpflichtend. Auffälligkeiten können Hinweise
-   auf eine direkte Hirnschädigung oder eine Hirnblutung sein.
+-   *Neurologische Beurteilung*: Die neurologische Beurteilung ist beim
+    SHT natürlich besonders wichtig und besonders genau durchzuführen.
+    Ein *Neurocheck* ist verpflichtend. Auffälligkeiten können Hinweise
+    auf eine direkte Hirnschädigung oder eine Hirnblutung sein.
 
-   Die *Bewusstseinslage* ist besonders genau abzuklären: Eine
-   Bewusstseinsstörunge kann auch andere Ursachen als den
-   gegenständlichen Unfall haben (Blutzucker, Alkohol, Exsikkose,
-   Schlaganfall, …). Evtl. ist diese andere Ursache überhaupt erst der
-   Auslöser für einen Unfall.
+    Die *Bewusstseinslage* ist besonders genau abzuklären: Eine
+    Bewusstseinsstörunge kann auch andere Ursachen als den
+    gegenständlichen Unfall haben (Blutzucker, Alkohol, Exsikkose,
+    Schlaganfall, …). Evtl. ist diese andere Ursache überhaupt erst der
+    Auslöser für einen Unfall.
 
-   Die *Pupillen* können im Sinne von Hirndruckzeichen
-   (:ref:`Thema-hirndruckzeichen`) pathologisch sein (ungleich weit,
-   verlangsamte, einseitige oder fehlende Lichtreaktion).
+    Die *Pupillen* können im Sinne von Hirndruckzeichen
+    (:ref:`Thema-hirndruckzeichen`) pathologisch sein (ungleich weit,
+    verlangsamte, einseitige oder fehlende Lichtreaktion).
 
-   Daneben ist auch zu beurteilen, ob andere Hirndruckzeichen
-   (Hypertonie mit Bradykardie, Strecksynergismen, …) vorliegen, vgl.
-   :ref:`Thema-hirndruckzeichen`.
+    Daneben ist auch zu beurteilen, ob andere Hirndruckzeichen
+    (Hypertonie mit Bradykardie, Strecksynergismen, …) vorliegen, vgl.
+    :ref:`Thema-hirndruckzeichen`.
 
-   Weiters muss auf *neurologische Ausfälle* (sensorisch, motorisch) in
-   Folge einer *HWS-Verletzung* geachtet werden.
+    Weiters muss auf *neurologische Ausfälle* (sensorisch, motorisch) in
+    Folge einer *HWS-Verletzung* geachtet werden.
 
-   Die Schwere der Bewusstseinsstörung kann der erfahrene Helfer
-   zusätzlich durch die Glasgow Coma Scale einschätzen.
+    Die Schwere der Bewusstseinsstörung kann der erfahrene Helfer
+    zusätzlich durch die Glasgow Coma Scale einschätzen.
 
--  *Traumacheck* Ein Traumacheck ist natürlich verpflichtend
-   durchzuführen (:ref:`Thema-traumacheck`).
+-   *Traumacheck* Ein Traumacheck ist natürlich verpflichtend
+    durchzuführen (:ref:`Thema-traumacheck`).
 
-   Besonders zu beachten ist die Gefahr einer hohen Querschnittslähmung,
-   ebenso dass Schädel, HWS und BWS eine Linie bilden.
+    Besonders zu beachten ist die Gefahr einer hohen Querschnittslähmung,
+    ebenso dass Schädel, HWS und BWS eine Linie bilden.
 
--  *Spitalsabklärung*: Jedes SHT, auch wenn die Diagnostik vor Ort
-   unauffällig und der Patient gegenwärtig symptomfrei ist, ist im
-   Spital abzuklären!
+-   *Spitalsabklärung*: Jedes SHT, auch wenn die Diagnostik vor Ort
+    unauffällig und der Patient gegenwärtig symptomfrei ist, ist im
+    Spital abzuklären!
 
--  Neurologische Beurteilung wichtig!
 
-   -  Bewusstseinsstörungen können andere Ursachen haben!
-
-   -  Hirndruckzeichen (Pupillen!)
-
--  Traumacheck
-
--  Weitere Diagnostik im Spital, auch bei symptomfreien Patienten
-
-   **Luzides Intervall**
+    **Luzides Intervall**
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/pupillendifferenz.*
 
@@ -1038,13 +1068,15 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
     Pupillendifferenz kann ein wichtiger Hinweis auf einen erhöhten
     Hirndruck sein!
 
-    Sebastian GabrielMfG
+    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
 
--  *Jedes SHT ist im Spital abzuklären!* Es besteht die Gefahr dass sich
-   der Patient gegenwärtig im "*luziden Intervall*" befindet und sich
-   sein Zustand erst in einigen Stunden, dann aber schlagartig
-   verschlechtert. Im Zweifelsfall wird der Patient dort zur Beobachtung
-   (24 h lang) aufgenommen.
+.. attention::
+
+    -   *Jedes SHT ist im Spital abzuklären!* Es besteht die Gefahr dass sich
+        der Patient gegenwärtig im *"luziden Intervall"* befindet und sich
+        sein Zustand erst in einigen Stunden, dann aber schlagartig
+        verschlechtert. Im Zweifelsfall wird der Patient dort zur Beobachtung
+        (24 h lang) aufgenommen.
 
 
 
@@ -1054,8 +1086,6 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
 
 Maßnahmen SHT
 =============
-
-.. todo:: Maßnahme TS06XX0C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
     -   Vitale Bedrohung beurteilen.
@@ -1084,57 +1114,70 @@ Basismaßnahmen
 Offenes SHT
 ===========
 
-Hinweise
---------
-
 Hinweise auf ein offenes SHT sind:
 
--  Große RQW mit tast-/sichtbaren Knochensplittern
-
--  Hirnaustritt (schlechte Prognose)
-
--  Blutungen aus Nase/Ohren
-
--  Liquoraustritt, oft mit Blut vermischt (Tupfertest)
-
--  Knochensplitter
-
--  Hirnaustritt
-
--  Blutungen
-
--  Liquoraustritt
+-   Große RQW mit tast-/sichtbaren Knochensplittern
+-   Hirnaustritt (schlechte Prognose)
+-   Blutungen aus Nase/Ohren
+-   Liquoraustritt, oft mit Blut vermischt (Tupfertest)
+-   Knochensplitter
+-   Hirnaustritt
+-   Blutungen
+-   Liquoraustritt
 
 Gedecktes SHT
 =============
 
-Beschreibung
-------------
 
 Ein gedecktes (geschlossenes) Schädel-Hirn-Trauma ist ein SHT ohne
 Eröffnung der harten Hirnhaut. Je nach Schwere wird das SHT in drei
 Grade eingeteilt:
 
--  :dfn:`Gehirnerschütterung` :index:`\ <! Gehirnerschütterung>` SHT 1, Commotio cerebri
+-   :dfn:`Gehirnerschütterung` :index:`\ <! Gehirnerschütterung>` SHT 1°, Commotio cerebri
+-   :dfn:`Gehirnprellung` :index:`\ <! Gehirnprellung>` SHT 2°, Contusio cerebri
+-   :dfn:`Gehirnquetschung` :index:`\ <! Gehirnquetschung>` SHT 3°
 
--  :dfn:`Gehirnprellung` :index:`\ <! Gehirnprellung>` SHT 2, Contusio cerebri
-
--  :dfn:`Gehirnquetschung` :index:`\ <! Gehirnquetschung>` SHT 3
-
--  Gehirnerschütterung … SHT 1
-
--  Gehirnprellung … SHT 2
-
--  Gehirnquetschung … SHT 3
 
 Grade des geschlossenen SHT
 ---------------------------
 
-Gehirnerschütterung – SHT 1
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. only:: not nosidebar
+
+    .. sidebar:: SHT: Grade
+
+        -   *Gehirnerschütterung – 1*
+
+            -   Bewusstlosigkeit / Bewusstseinstrübung < 1 h
+            -   Übelkeit, Erbrechen, Schwindel
+            -   Evtl. flüchtige neurologische Ausfälle
+            -   Retrograde Amnesie
+                (kann sich an den Unfallhergang nicht erinnern)
+            -   Keine bleibenden Schäden
+
+        -   *Gehirnprellung – 2*
+
+            -   Bewußtlosigkeit / Bewusstseinstrübung >1h
+            -   Nachweisbare Gehirnschädigung / bleibende Ausfälle
+            -   Evtl. Gehirnnervenabrisse
+            -   vegetative Störungen
+
+        -   *Gehirnquetschung – 3*
+
+            -   Bewußtlosigkeit >24h
+            -   Atmungs-/ Kreislaufstörungen
+            -   Hirndrucksymptomatik
+            -   Evtl. Einklemmung des Atemzentrums → zentraler
+                Atemstillstand
+            -   Behinderung der Hirndurchblutung
+            -   Hirnblutungen
+            -   Lähmungen
+            -   Zerebrale Krämpfe
+
+Gehirnerschütterung — SHT 1°
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-*Term.* *Commotio cerebri*
+:Term.: *Commotio cerebri*
 
 Die Gehirnerschütterung ist die leichteste Form des Schädelhirntraumas.
 Leitsymptom ist ein Trauma mit anschließender *kurzer Bewusstlosigkeit*.
@@ -1144,23 +1187,22 @@ auch eine *retrograde* :index:`\ <Anmesie!retrograde>` Amnesie
 klagt der Patient über Übelkeit erbrechen und Schwindel. Die
 Gehirnerschütterung zieht keine bleibenden Schäden nach sich.
 
-Gehirnprellung – SHT 2
-^^^^^^^^^^^^^^^^^^^^^^
+Gehirnprellung — SHT 2°
+^^^^^^^^^^^^^^^^^^^^^^^
 
-
-*Term.* *Contusio cerebri*
+:Term.: *Contusio cerebri*
 
 Die Gehirnprellung ist eine schwerere Form des Schädel-Hirntraumas.
-Leitsymptom ist die *Bewusstlosigkeit länger als 1h*, beziehungsweise
-die Bewusstseinseintrübung <24h. Mittels weiterführender Diagnostik im
+Leitsymptom ist die *Bewusstlosigkeit länger als 1 h*, beziehungsweise
+die Bewusstseinseintrübung < 24 h. Mittels weiterführender Diagnostik im
 Spital lassen sich die *Hirnschädigungen* nachweisen. Es kann zu
 Nervenverletzungen kommen, dies kann zu vegetativen Störungen führen.
 Bleibende Schäden sind möglich.
 
 .. _Thema-hirnblutung:
 
-Gehirnquetschung – SHT 3
-^^^^^^^^^^^^^^^^^^^^^^^^
+Gehirnquetschung — SHT 3°
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Die Gehirnquetschung ist eine sehr schwere Form des
 Schädelhirntraumas. Es kommt zu einer *Bewusstlosigkeit länger als 24h*
@@ -1174,77 +1216,51 @@ neurologischen Ausfällen und Symptomen wie zum Beispiel zerebrale
 Krampfanfälle. Mit *bleibenden Schäden* und Langzeitfolgen ist zu
 rechnen.
 
--  *Gehirnerschütterung – 1*
 
-   -  Bewusstlosigkeit / Bewusstseinstrübung <1h
+.. list-table:: SHT-Grade: Übersicht
+    :header-rows: 1
+    :stub-columns: 1
 
-   -  Übelkeit, Erbrechen, Schwindel
+    *   -
+        -   I°
+        -   II°
+        -   III°
+    *   -
+        -   Gerhinerschütterung
+        -   Prellung
+        -   Quetschung
+    *   -   … cerebri*
+        -   Commotio
+        -   Contusio
+        -
+    *   -   Bewusstlosigkeit / Trübung
+        -   < 1h
+        -   1 h < x < 24 h
+        -   > 24 h
+    *   -   Symptome
+        -   Übelkeit, Erbrechen, Schwindel
 
-   -  Evtl. flüchtige neurologische Ausfälle
+            Evtl. flüchtige neurologische Ausfälle
 
-   -  Retrograde Amnesie (kann sich an den Unfallhergang nicht erinnern
-      )
+            Retrograde Amnesie (kann sich an den Unfallhergang nicht erinnern )
 
-   -  Keine bleibenden Schäden
+            Keine bleibenden Schäden
+        -   Nachweisbare Gehirnschädigung / bleibende
+            Ausfälle
 
--  *Gehirnprellung – 2*
+            Evtl. Gehirnnervenabrisse
 
-   -  Bewußtlosigkeit / Bewusstseinstrübung >1h
+            vegetative Störungen
+        -   Atmungs-/ Kreislaufstörungen
 
-   -  Nachweisbare Gehirnschädigung / bleibende Ausfälle
+            Hirndrucksymptomatik
 
-   -  Evtl. Gehirnnervenabrisse
+            Evtl. Einklemmung des Atemzentrums → zentraler
+            Atemstillstand
 
-   -  vegetative Störungen
+            Behinderung der Hirndurchblutung
 
--  *Gehirnquetschung – 3*
-
-   -  Bewußtlosigkeit >24h
-
-   -  Atmungs-/ Kreislaufstörungen
-
-   -  Hirndrucksymptomatik
-
-   -  Evtl. Einklemmung des Atemzentrums → zentraler
-      Atemstillstand
-
-   -  Behinderung der Hirndurchblutung
-
-   -  Hirnblutungen
-
-   -  Lähmungen
-
-   -  Zerebrale Krämpfe
-
-!!! TABELLE WEIT SHT-Grade: Übersicht
-
-| llll   & **I** & **II** & **III**
-| & Gerhinerschütterung & Prellung & Quetschung
-| *… cerebri* & Commotio & Contusio &
-
-|
-| *Bewusstlosigkeit / Trübung* & < 1h & 1h < x < 24& > 24
-| *Symptome* & Übelkeit, Erbrechen, Schwindel
-
-Evtl. flüchtige neurologische Ausfälle
-
-Retrograde Amnesie (kann sich an den Unfallhergang nicht erinnern )
-
-Keine bleibenden Schäden & Nachweisbare Gehirnschädigung / bleibende
-Ausfälle
-
-Evtl. Gehirnnervenabrisse
-
-vegetative Störungen & Atmungs-/ Kreislaufstörungen
-
-Hirndrucksymptomatik
-
-Evtl. Einklemmung des Atemzentrums → zentraler
-Atemstillstand
-
-Behinderung der Hirndurchblutung
-
-Hirnblutungen, Lähmungen, zerebrale Krämpfe
+            Hirnblutungen, Lähmungen, zerebrale Krämpfe
 
 
 .. _thema-wirbelsaeulentrauma:
@@ -1253,77 +1269,62 @@ Hirnblutungen, Lähmungen, zerebrale Krämpfe
 Verletzungen der Wirbelsäule und des Rückenmarks
 ************************************************
 
-Beschreibung
-============
 
 Ein Wirbelsäulentrauma ist eine Gewalteinwirkung auf die Wirbelsäule,
 die zur Verschiebung, Verrenkung oder zur Fraktur von Wirbeln mit oder
-ohne Rückenmarkschädigung führt (Gorgass et al. 2007).
+ohne Rückenmarkschädigung führt [Gorgass:7]_.
 
 Typische Unfallmechanismen
 ==========================
 
--  Hochgeschwindigkeitsunfall
+.. only:: not nosidebar
 
--  Sturz ≥ 3-fache Patientengröße
-   ``!!! A !!!3fache Patientengröße (ITLS) oder 3m?``
+    .. sidebar:: Typische Unfallmechanismen
 
--  Penetrierende Verletzungen im Bereich der Wirbelsäule
+        -   Hochgeschwindigkeitsunfall
+        -   Sturz ≥ 3-fache Patientengröße bzw- > 3 m
+        -   Penetrierende Verletzungen im Bereich der Wirbelsäule
+        -   Sportverletzungen im Kopf- oder Nackenbereich
+        -   Trauma nach Sprung ins Wasser
+        -   Bewusstloser Traumapatient
+        -   Stauchungsverletzung der HWS (z. B. Schlag auf Kopf)
+        -   Suizidversuch durch Erhängen
 
--  Sportverletzungen im Kopf- oder Nackenbereich
+-   Hochgeschwindigkeitsunfall
+-   Sturz ≥ 3-fache Patientengröße bzw- > 3 m
+-   Penetrierende Verletzungen im Bereich der Wirbelsäule
+-   Sportverletzungen im Kopf- oder Nackenbereich
+-   Trauma nach Sprung ins Wasser
+-   Bewusstloser Traumapatient
+-   Stauchungsverletzung der HWS (z. B. Schlag auf Kopf)
+-   Suizidversuch durch Erhängen
 
--  Trauma nach Sprung ins Wasser
-
--  Bewusstloser Traumapatient
-
--  Stauchungsverletzung der HWS (z. B. Schlag auf Kopf)
-
--  Suizidversuch durch Erhängen
-
-nach [Campbell:2010:De]_, vgl. !!! FULLPRETTYREFPROCEDURE !!! YY14200B
-
--  Hochgeschwindigkeitsunfall
-
--  Sturz ≥ 3-fache Patientengröße
-
--  Penetrierende Verletzungen im Bereich der Wirbelsäule
-
--  Sportverletzungen im Kopf- oder Nackenbereich
-
--  Trauma nach Sprung ins Wasser
-
--  Bewusstloser Traumapatient
-
--  Stauchungsverletzung der HWS (z. B. Schlag auf Kopf)
-
--  Suizidversuch durch Erhängen
 
 Gefahren
 ========
 
--  Kompression des Rückenmarks (aufgrund von Einblutungen ins Rückenmark
-   und dadurch bedingtes Ödem)
-
--  Durchtrennung des Rückenmarks
-
--  Lähmungen (Parese)
-
--  Sensibilitätsstörungen (Parästhesie)
-
--  Schock (Neurogener / spinaler Schock)
-
--  Begleitverletzungen
-
--  Verletzung des Rückenmarks
-
--  Neurologische Ausfälle
-
--  Neurogener Schock
-
--  Begleitverletzungen
+-   Kompression des Rückenmarks
+    (aufgrund von Einblutungen ins Rückenmark
+    und dadurch bedingtes Ödem)
+-   Durchtrennung des Rückenmarks
+-   Lähmungen (Parese)
+-   Sensibilitätsstörungen (Parästhesie)
+-   Schock (Neurogener / spinaler Schock)
+-   Begleitverletzungen
+-   Verletzung des Rückenmarks
+-   Neurologische Ausfälle
+-   Neurogener Schock
+-   Begleitverletzungen
 
 Schleudertrauma, Peitschenschlagsyndrom
 =======================================
+
+.. only:: not nosidebar
+
+    .. sidebar:: Schleudertrauma, Peitschenschlagsyndrom
+
+        -   Auffahrunfall
+        -   Zerrung des Halsmarks
 
 Schleudertraumen kommen bei Auffahrunfällen vor, insbesondere dann, wenn
 der Patient nicht angeschnallt war, oder die Kopfstütze fehlt. Es kommt
@@ -1331,12 +1332,19 @@ zu einer Zerrung des Halsmarks, welche sich durch *Schmerzen im
 HWS-Bereich*, Kopfschmerzen, Schwindel, Tinnitus und evtl. neurologische
 Ausfälle (in schweren Fällen) bemerkbar macht.
 
--  Auffahrunfall
-
--  Zerrung des Halsmarks
 
 Querschnittssyndrom
 ===================
+
+.. only:: not nosidebar
+
+    .. sidebar:: Querschnittssyndrom
+
+        -   Ausfall von Motorik und/oder Sensibilität
+        -   Blutdruckabfall
+        -   Schlaffe oder spastische Lähmung der Extremitäten
+        -   Inkontinenz
+        -   Dauererektion
 
 Kommt es zu einer Druckerhöhung (z. B. aufgrund einer Blutung) im
 Rückenmark oder zu einer Durchtrennung des Rückenmarks können Symptome
@@ -1344,28 +1352,23 @@ eines Querschnitts auftreten. Ein sorgsamer und vorsichtiger Umgang bei
 der Rettung, der Untersuchung und dem Transport des Patienten ist
 unbedingt notwendig. Es können folgende Symtome auftreten:
 
--  Ausfall von Motorik und/oder Sensibilität
+-   Ausfall von Motorik und/oder Sensibilität
+-   Blutdruckabfall aufgrund fehlender Gefäßregulation
+-   Schlaffe oder spastische Lähmung der Extremitäten
+-   Inkontinenz aufgrund von Blasen-/Darmlähmung
+-   Dauererektion (Priapismus)
 
--  Blutdruckabfall aufgrund fehlender Gefäßregulation
-
--  Schlaffe oder spastische Lähmung der Extremitäten
-
--  Inkontinenz aufgrund von Blasen-/Darmlähmung
-
--  Dauererektion (Priapismus)
-
--  Ausfall von Motorik und/oder Sensibilität
-
--  Blutdruckabfall
-
--  Schlaffe oder spastische Lähmung der Extremitäten
-
--  Inkontinenz
-
--  Dauererektion
 
 Spinaler Schock
 ===============
+
+.. only:: not nosidebar
+
+    .. sidebar:: Spinaler Schock
+
+        -   Querschnittslähmung
+        -   Fehlender Gefäßregulation
+        -   Atemlähmungen (bei hohem Querschnitt (im Bereich der HWS))
 
 Aufgrund des Unfalls kommt es zu einer plötzlichen Durchtrennung des
 Rückenmarks, wodurch die Steuerung der Gefäßregulation (und somit der
@@ -1374,11 +1377,6 @@ einer lebensbedrohlichen Kreislaufstörung. Bei einem hohen Querschnitt
 kann auch nervöse die Atemmuskulatur betroffen sein und es zur
 Atemlähmung kommen.
 
--  Querschnittslähmung
-
--  Fehlender Gefäßregulation
-
--  Atemlähmungen (bei hohem Querschnitt (im Bereich der HWS))
 
 
 .. _TT09031C:
@@ -1386,8 +1384,6 @@ Atemlähmung kommen.
 
 Maßnahmen: Rückenmarksverletzung, Verdacht
 ------------------------------------------
-
-.. todo:: Maßnahme TT09031C: Anpassung an höherqualifiziertes Personal
 
 Taktik
     Immobilisation und Transport in eine geeignete Einrichtung
@@ -1421,8 +1417,6 @@ Basismaßnahmen
 Maßnahmen: Rückenmarksverletzung mit Symptomen
 ----------------------------------------------
 
-.. todo:: Maßnahme TT09032C: Anpassung an höherqualifiziertes Personal
-
 Taktik
     **Zeitkritisch! Vitale Bedrohung!**
     Zügige Bergung,
@@ -1452,29 +1446,37 @@ Basismaßnahmen
     -   **Transportentscheidung**: Schockraum
 
 
-
-
 ************
 Thoraxtrauma
 ************
 
-Beschreibung
-============
+Ein Thoraxtrauma bezeichnet eine Gewalteinwirkung auf den Brustkorb
+mit Verletzung des Brustkorbes bzw. der darin enthaltenen Organe.
 
-**Ein Thoraxtrauma bezeichnet eine Gewalteinwirkung auf den Brustkorb
-mit Verletzung des Brustkorbes bzw. der darin enthaltenen Organe.**
 Thoraxverletzungen gelten als besonders gefährlich, da im Brustkorb
 (Thorax) lebenswichtige Organe (Herz, Lunge) und große Gefäße liegen.
-Fast jeder zweite Verkehrstote hat ein Thoraxtrauma. (Gorgass et al.
-2007), (Redelsteiner et al. 2005)
+Fast jeder zweite Verkehrstote hat ein Thoraxtrauma.
 
--  Man darf niemals aufgrund der äußeren Verletzungen auf die Schwere
-   des Thoraxtraumas schließen, da schwere innere Verletzungen auftreten
-   können! Oft ist von außen gar keine Verletzung erkennbar (Strauss and
-   Fülöp, n.d.).
+.. attention::
+
+    -   Man darf niemals aufgrund der äußeren Verletzungen auf die Schwere
+        des Thoraxtraumas schließen, da schwere innere Verletzungen auftreten
+        können! Oft ist von außen gar keine Verletzung erkennbar.
 
 Symptome des Thoraxtraumas
 ==========================
+
+.. only:: not nosidebar
+
+    .. sidebar:: Symptome
+
+        -   Instabiler Thorax
+        -   Evtl. Pneumothorax
+        -   Dyspnoe
+        -   Atemabhängige Schmerzen
+        -   Bluthusten
+        -   Prellmarken
+        -   Begleitverletzungen!
 
 Die Hauptgefahr beim Thoraxtrauma ist eine wesentliche Verletzung des
 knöchernen Brustkorbes (Sternumfraktur, Serienrippenfraktur), wodurch
@@ -1482,8 +1484,12 @@ ein *instabiler Thorax* resultiert: Die Atemmechanik ist stark
 beeinträchtigt, da sich die Lunge nicht mehr an den Rippen aufspannen
 kann. Es kommt folglich zu einer *paradoxen Atmung*, bei der sich der
 Brustkorb beim Einatmen senkt. Verletzt eine der gebrochenen Rippen die
-Pleura, oder reisst diese aufgrund der Gewalteinwirkung ein, ensteht ein
-*Pneumothorax* oder ein Spannungspneumothorax [#301]_.
+Pleura, oder reisst diese aufgrund der Gewalteinwirkung ein,
+ensteht ein *Pneumothorax* oder ein Spannungspneumothorax\ [#301]_.
+
+.. [#301]
+    Pneumothorax evtl. mit Hautemphysem (Luftansammlung in der Haut,
+    typisches Knistern)
 
 Der Patient leidet unter *Atemnot* und evtl. atemabhängigen Schmerzen.
 Evtl. kommt es zum Bluthusten. Bei der Inspektion des Brustkorbes können
@@ -1495,27 +1501,23 @@ erwähnenswert sind hierbei die Lunge, das Herz, die Aorta, die Luft- und
 die Speiseröhre. Auch die Organe des Oberbauches (Leber, Milz, …) liegen
 hinter den den Rippen und können ebenfalls verletzt sein.
 
--  Instabiler Thorax
-
--  Evtl. Pneumothorax
-
--  Dyspnoe
-
--  Atemabhängige Schmerzen
-
--  Bluthusten
-
--  Prellmarken
-
--  Begleitverletzungen!
+.. index:: Pneumothorax
 
 Beim Pneumothorax befindet sich Luft im Pleuraspalts
 ====================================================
 
-Beschreibung und Arten
-----------------------
+.. only:: not nosidebar
 
-**Ein Pneumothorax ist eine Luftansammlung im Pleuraspalt.** Zwischen
+    .. sidebar:: Pneumothorax
+
+        -   Offener Pneumothorax
+        -   Geschlossener Pneumothorax
+        -   Spannungspneumothorax
+        -   Spontanpneumothorax
+
+Ein :dfn:`Pneumothorax` ist eine Luftansammlung im Pleuraspalt.
+
+Zwischen
 Lungenoberfläche und innerer Thoraxwand herrscht beim Gesunden ein
 Unterdruck gegenüber dem äußeren Luftdruck. Die Lunge ist dadurch
 flexibel im Brustkorb aufgespannt. Beim Pneumothorax gelangt durch eine
@@ -1523,10 +1525,12 @@ Verletzung Luft in diesen Pleuraspalt, welche den Unterdruck aufhebt und
 die Lunge zieht sich zusammen. Vgl. Anatomie: :ref:`Thema-atemmechanik`, und
 :ref:`Thema-pleura`.
 
-Man unterscheidet zwischen :dfn:`offenem Pneumothorax` :index:`\ <! offenem Pneumothorax>` (Luft
-strömt durch eine Verletzung der Brustwand von außen in den Pleuraspalt)
-und :dfn:`geschlossenem Pneumothorax` :index:`\ <! geschlossenem Pneumothorax>` (Luft strömt durch
-eine Verletzung der Lungenoberfläche von innen in den Pleuraspalt).
+Man unterscheidet zwischen
+:dfn:`offenem Pneumothorax` :index:`\ <Pneumothorax; offen>`
+(Luft strömt durch eine Verletzung der Brustwand von außen in den Pleuraspalt)
+und
+:dfn:`geschlossenem Pneumothorax` :index:`\ <Pneumothorax; geschlossen>`
+(Luft strömt durch eine Verletzung der Lungenoberfläche von innen in den Pleuraspalt).
 
 Entsteht durch die Form der Wunde ein Ventilmechanismus wird beim
 Einatmen Luft in den Pleuraspalt gesogen, während sich beim Ausatmen die
@@ -1537,21 +1541,17 @@ betroffenen Pleuraspalt ein Überdruck entsteht. Im Extremfall drückt der
 auch noch die gesunde Lungenhälfte und evtl. die Hohlvene komprimiert
 wird. Im schlimmsten Fall kann das Herz an seiner Bewegung gehindert
 werden. Tritt bei einem Pneumothorax ein derartiger Ventilmechanismus
-auf, spricht man vom :dfn:`Spannungspneumothorax` :index:`\ <! Spannungspneumothorax>`.
+auf, spricht man vom
+:dfn:`Spannungspneumothorax` :index:`\ <Spannungspneumothorax>`.
 
 Ein Pneumothorax kann *auch ohne einer Verletzung* auftreten. Diese Form
-des Pneumothorax nennt man :dfn:`Spontanpneumothorax` :index:`\ <! Spontanpneumothorax>` und
+des Pneumothorax nennt man
+:dfn:`Spontanpneumothorax`
+:index:`\ <Spontanpneumothorax>` und
 tritt am häufigsten bei jungen, hochgewachsenen und schlanken Menschen
 auf. Symptome des Spontanpneumothorax sind Schmerzen, Atemnot und
 Todesangst.
 
--  Offener Pneumothorax
-
--  Geschlossener Pneumothorax
-
--  Spannungspneumothorax
-
--  Spontanpneumothorax
 
 
 .. subfigstart::
@@ -1562,7 +1562,7 @@ Todesangst.
     Pneumothorax. Beachte die Randlinie zwischen Lunge (unten,
     innen) und dem luftgefüllten Pleuraspalt (oben, außen)
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -1574,7 +1574,7 @@ Todesangst.
     Im Vergleich: Kompletter Pneumothorax der rechten
     Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert.
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.*
     :width: 100%
@@ -1583,7 +1583,7 @@ Todesangst.
     einen Pneumothorax verursacht. **Dieser Patient ist lebensgefährlich
     verletzt!**
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -1604,8 +1604,6 @@ Todesangst.
 
 Maßnahmen: Pneumothorax
 ------------------------
-
-.. todo:: Maßnahme TJ93090C: Anpassung an höherqualifiziertes Personal
 
 Taktik
     **Zeitkritisch! Vitale Bedrohung!**
@@ -1641,8 +1639,20 @@ Basismaßnahmen
 Rippenfraktur, Serienrippenfraktur und instabiler Thorax
 ========================================================
 
-Beschreibung
-------------
+.. only:: not nosidebar
+
+    .. sidebar:: Rippenfrakturen
+
+        -   Stumpfe Gewalteinwirkung gegen Thorax
+
+            -   Gefahren:
+
+                -   Pneumothorax
+                -   Ateminsuffizienz
+                -   Schädigung der Oberbauchorgane
+
+            -   Der Pneumothorax ist eine gefährliche Komplikation einer
+                Rippenfraktur.
 
 Eine Fraktur einer oder mehrer Rippen ensteht typischerweise durch eine
 meist stumpfe Gewalteinwirkung auf den Thorax.
@@ -1661,18 +1671,6 @@ Röntgenuntersuchung und Verlaufskontrolle ist daher unbedingt
 erforderlich. Ebenso kann es zu einer Schädigung der Oberbauchorgane
 kommen.
 
--  Stumpfe Gewalteinwirkung gegen Thorax
-
--  Gefahren:
-
-   -  Pneumothorax
-
-   -  Ateminsuffizienz
-
-   -  Schädigung der Oberbauchorgane
-
--  Der Pneumothorax ist eine gefährliche Komplikation einer
-   Rippenfraktur.
 
 
 
@@ -1682,6 +1680,15 @@ kommen.
 Symptome
 --------
 
+.. only:: not nosidebar
+
+    .. sidebar:: Symptome
+
+        -   Schmerzen beim Einatmen
+        -   Evtl. Atemnot, Zyanose, Tachypnoe
+        -   Evtl. paradoxe Atmung
+        -   Evtl. Schocksymptome
+
 Sind die Rippen an verschiedenen Stellen gebrochen oder gar zertrümmert,
 werden diese Teile bei der Einatmung nach innen gezogen und bei der
 Ausatmung nach außen gedrückt. Man bezeichnet dies (Brustkorb *senkt*
@@ -1690,16 +1697,9 @@ ist eine hochgradige Atemnot, außerdem treten (z.T. heftige) Schmerzen
 auf, die sich bei der Einatmung verstärken. Rippenbruchstücke können
 darunter liegende Organe verletzen. Es kann zu Lungeneinrissen, sowie
 Leber- und Milz- und Nierenverletzungen mit starken *inneren Blutungen*
-kommen. Der Blutverlust kann mehrere Liter betragen (Hansak et al.
-2008). In diesem Fall herrscht höchste *Schockgefahr*.
+kommen. Der Blutverlust kann mehrere Liter betragen.
+In diesem Fall herrscht höchste *Schockgefahr*.
 
--  Schmerzen beim Einatmen
-
--  Evtl. Atemnot, Zyanose, Tachypnoe
-
--  Evtl. paradoxe Atmung
-
--  Evtl. Schocksymptome
 
 Gefahren
 ========
@@ -1707,62 +1707,81 @@ Gefahren
 Sternumfraktur
 --------------
 
+.. only:: not nosidebar
+
+    .. sidebar:: Sternumfraktur
+
+        -   Aufprall des Brustkorbes
+        -   Schmerzen
+
 Eine Fraktur des Brustbeins (Sternum) tritt vor allem bei nicht
 angeschnallten Fahrzeuglenkern auf, wenn der Brustkorb gegen das Lenkrad
 prallt. Meistens treten starke Schmerzen auf, gelegentlich lassen sich
-eine Delle oder eine Stufe tasten. (Hansak et al. 2008) Es kann zu
+eine Delle oder eine Stufe tasten. Es kann zu
 Begleitverletzungen kommen.
 
--  Aufprall des Brustkorbes
-
--  Schmerzen
 
 Gefahren
 --------
 
+.. only:: not nosidebar
+
+    .. sidebar:: Gefahren
+
+        -   Pneumothorax
+        -   Herzverletzung
+        -   Herzbeuteltamponade
+
 Aufgrund des Unfallmechanismus muss man immer an die Möglichkeit eines
 *Pneumothorax* oder einer *Herzverletzung* bzw. einer
-*Herzbeuteltamponade* denken. Bei der :dfn:`Herbeuteltamponade` :index:`\ <! Herbeuteltamponade>` kommt es durch Eintritt von Flüssigkeit (z. B. Blut)
+*Herzbeuteltamponade* denken.
+Bei der :dfn:`Herbeuteltamponade` :index:`\ <Herbeuteltamponade>`
+kommt es durch Eintritt von Flüssigkeit (z. B. Blut)
 in den Herzbeutel zu einer Einschränkung der Füllung und Bewegung des
 Herzens.
 
--  Pneumothorax
-
--  Herzverletzung
-
--  Herzbeuteltamponade
 
 Verletzung des Herzens und der großen Gefäße
 ============================================
+
+.. only:: not nosidebar
+
+    .. sidebar:: Verletzung des Herzens und der großen Gefäße
+
+        -   Aortenruptur
+        -   Herzkontusion
+        -   Herzbeuteltamponade
 
 Verletzungen des Herzens und der großen Gefäße treten am
 wahrscheinlichsten bei Stürzen aus großer Höhe und Verkehrsunfällen mit
 Frontalaufprall und großer Geschwindigkeit auf, seltener bei Schuss-
 oder Stichverletzungen. Folgende Verletzungen sind typisch:
 
--  *Aortenruptur*: Durch einen Einriss der Aorta kommt es zu schweren
-   inneren Blutungen. Siehe auch Abschnitt :ref:`Thema-aortenruptur`.
+-   *Aortenruptur*: Durch einen Einriss der Aorta kommt es zu schweren
+    inneren Blutungen. Siehe auch Abschnitt :ref:`Thema-aortenruptur`.
 
--  *Herzkontusion*: Hier kommt es durch Quetschungen der Herzmuskulatur
-   zu Sickerblutungen. Bei Sternumfrakturen mit Herzrhythmusstörungen
-   sollte man an eine Herzkontusion denken.
+-   *Herzkontusion*: Hier kommt es durch Quetschungen der Herzmuskulatur
+    zu Sickerblutungen. Bei Sternumfrakturen mit Herzrhythmusstörungen
+    sollte man an eine Herzkontusion denken.
 
--  *Herzbeuteltamponade*: Es kommt zu einer Einblutung in den
-   Herzbeutel, wodurch das Herz komprimiert wird und sich nicht mehr mit
-   Blut füllen kann. Leitsymptome sind gestaute Halsvenen und schwerer
-   Schockzustand (kardiogener Schock).
+-   *Herzbeuteltamponade*: Es kommt zu einer Einblutung in den
+    Herzbeutel, wodurch das Herz komprimiert wird und sich nicht mehr mit
+    Blut füllen kann. Leitsymptome sind gestaute Halsvenen und schwerer
+    Schockzustand (kardiogener Schock).
 
--  Aortenruptur
-
--  Herzkontusion
-
--  Herzbeuteltamponade
 
 .. _Thema-bauchtrauma:
 
 ***********************
 Bauch- und Beckentrauma
 ***********************
+
+.. only:: not nosidebar
+
+    .. sidebar:: Bauch- und Beckentrauma
+
+        -   Offenes (perforierendes) Bauchtrauma
+        -   Geschlossenes (stumpfes) Bauchtrauma
 
 Ein Bauchtrauma oder Abdominaltrauma ist eine Verletzung des Abdomens.
 In einigen Büchern ist das Bauchtrauma als Untergruppe des akuten
@@ -1773,31 +1792,29 @@ penetrierendem) und geschlossenem (stumpfem) Bauchtrauma zu
 unterscheiden. Alle Bauchtrauma können mit massiven inneren Blutungen
 verbunden sein.
 
--  Offenes (perforierendes) Bauchtrauma
 
--  Geschlossenes (stumpfes) Bauchtrauma
+.. list-table:: Offenes und geschlossenes Bauchtrauma
+    :header-rows: 1
 
-!!! TABELLE WEIT Offenes und geschlossenes Bauchtrauma
+    *   -   Offenes (perforierendes) Bauchtrauma
+        -   Geschlossenes (stumpfes) Bauchtrauma
+    *   -   -   Eröffnung der Bauchhöhle, evtl. Austritt von Darmschlingen
+            -   Stich-, Pfählungsverletzung
+            -   Schnittverletzung, Platzbauch
+        -   -   Schlag, Tritt
+            -   Prellung durch Lenkstange bei PKW-Unfall
 
-| ll **Offenes (perforierendes) Bauchtrauma** & **Geschlossenes
-  (stumpfes) Bauchtrauma**
-
--  Eröffnung der Bauchhöhle, evtl. Austritt von Darmschlingen
-
--  Stich-, Pfählungsverletzung
-
--  Schnittverletzung, Platzbauch
-
-&
-
--  Schlag, Tritt
-
--  Prellung durch Lenkstange bei PKW-Unfall
-
-|
 
 Offenes Bauchtrauma
 ===================
+
+.. only:: not nosidebar
+
+    .. sidebar:: Offenes Bauchtrauma
+
+        -   Austritt von Darmschlingen
+        -   unterschiedlich schwere Organschäden
+        -   innere Blutungen
 
 .. figure:: /Bilder/HauerDavid-Ccc/bauchtrauma-offenes-01.*
     :width: 50%
@@ -1805,7 +1822,7 @@ Offenes Bauchtrauma
 
     Offenes Bauchtrauma mit Austritt von Darmschlingen
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 Offene Bauchtraumata sind seltener als geschlossene Bauchtraumata. Beim
 offenen Bauchtrauma kann es zum Austritt von Darmschlingen kommen. Die
@@ -1814,11 +1831,6 @@ aus, da unter der Eintrittswunde unterschiedlich schwere Organschäden
 mit inneren Blutungen versteckt sein können. In 25% der Fälle treten
 Begleitverletzungen im Brustkorb auf (Strauss and Fülöp, n.d.).
 
--  Austritt von Darmschlingen
-
--  unterschiedlich schwere Organschäden
-
--  innere Blutungen
 
 
 
@@ -1857,64 +1869,80 @@ Geschlossenes Bauchtrauma
 
 Geschlossene Bauchtraumata sind aufgrund der inneren Blutungen besonders
 gefährlich. So kann es z. B. bei einer Milzruptur zu einem Blutverlust
-von 4 Liter kommen! (Gorgass et al. 2007)
+von 4 Liter kommen! [Gorgass:7]_
+
+.. attention::
 
     -  Immer nach *Prellmarken* suchen. *Patienten entkleiden!*
 
 Symptome
 --------
 
--  Starke Bauchschmerzen
-
--  Brettharte Bauchdecke (Abwehrspannung, Défense )
-
--  Leitsymptom: Schockzeichen
-
--  Beim Bewußtlosen schwierig zu diagnostizieren
+-   Starke Bauchschmerzen
+-   Brettharte Bauchdecke (Abwehrspannung, Défense )
+-   Leitsymptom: Schockzeichen
+-   Beim Bewußtlosen schwierig zu diagnostizieren
 
    -  Gründlich nach *Prellmarken* suchen!
 
--  Brettharte Bauchdecke
-
--  Prellmarken!
 
 Gefahren
 --------
 
--  Gefäßverletzungen
+.. only:: not nosidebar
 
-   -  Aorta, Vena cava, …
+    .. sidebar:: Geschlossenes Bauchtrauma, Gefahren
 
-   -  Massive innere Blutungen → Volumenmangelschock
+        -   Gefäßverletzungen
+        -   Zerreißung von Organen
+        -   Zerreißung von Hohlorganen
 
--  Zerreißung von Organen (*Milz*, *Leber*)
+-   Gefäßverletzungen
 
-   -  Massive *innere Blutungen* (bis über 4 Liter)
-      → Volumenmangelschock
+    -   Aorta, Vena cava, …
+    -   Massive innere Blutungen → Volumenmangelschock
 
--  Zerreißung von Hohlorganen (Magen, Darm,Gallengänge )
+-   Zerreißung von Organen (*Milz*, *Leber*)
 
-   -  Austritt von Speisebrei, Magensaft, Stuhl, Gallensekret
+    -   Massive *innere Blutungen* (bis über 4 Liter)
+        → Volumenmangelschock
 
-      -  Bauchfellentzündung (Peritonitis) nach Std. bis Tagen
+-   Zerreißung von Hohlorganen (Magen, Darm,Gallengänge )
 
-      -  Sepsis (hohe Letalität), septischer Schock
+   -    Austritt von Speisebrei, Magensaft, Stuhl, Gallensekret
 
--  Gefäßverletzungen
+        -   Bauchfellentzündung (Peritonitis) nach Std. bis Tagen
+        -   Sepsis (hohe Letalität), septischer Schock
 
--  Zerreißung von Organen
 
--  Zerreißung von Hohlorganen
+.. index:: Milzruptur
 
 .. _Thema-milzruptur:
+.. _Thema-milzruptur-zweizeitig:
 
 Milzruptur
 ==========
 
-.. _Thema-milzruptur-zweizeitig:
+.. only:: not nosidebar
 
-Beschreibung und Gefahren
--------------------------
+    .. sidebar:: Milzruptur
+
+        -   Schmerzen im linken Oberbauch
+        -   Manchmal Ausstrahlung der Schmerzen in die linke Schulter
+            (Kehr-Zeichen)
+        -   Volumenmangelschock
+        -   Möglicherweise zeitversetzter Kapselriss (sekundäre Milzruptur,
+            unerwartetes Schockgeschehen)
+        -   Primäre Milzruptur
+        -   Sekundäre Milzruptur:
+
+            -   Erst nur Riss des Milzgewebes, Kapsel intakt
+            -   Blutung in die Kapsel, Druck steigt
+            -   Symptomfreies Intervall (Latenzzeit)
+            -   Wenn Druck weiter steigt: Kapselriss →  plötzlich
+                starke Blutung → Volumenmangelschock
+
+        -   Cave: Zweizeitige Milzruptur
 
 Die Milz ist ein sehr gut durchblutetes Organ, daher ist bei einer
 Verletzung die Blutungsgefahr sehr groß. Aufgrund der festen Kapsel kann
@@ -1922,50 +1950,31 @@ es sowohl unmittelbar nach der Verletzung zu starken Blutungen kommen,
 aber auch zeitversetzte, verspätete Blutungen sind möglich. Demnach
 unterscheidet man:
 
--  :dfn:`Einzeitige (primäre)
-   Milzruptur`: Die Milz und die Kapsel reißen gleichzeitig, es kommt zu
-   einem unmittelbaren Schockzustand.
+-   :dfn:`Einzeitige (primäre)
+    Milzruptur`: Die Milz und die Kapsel reißen gleichzeitig, es kommt zu
+    einem unmittelbaren Schockzustand.
 
--  :dfn:`Zweizeitige (sekundäre) Milzruptur`: Das Milzgewebe ist
-   verletzt, die Kapsel bleibt jedoch erhalten: Es blutet zuerst in die
-   noch erhaltene Kapsel ein und der Druck steigt. Wird der Druck zu
-   groß reißt nach einer gewissen Zeit, es kann sich dabei um Stunden
-   oder auch Tage handeln *(Latenzzeit)*, die Kapsel und der Patient
-   blutet nun *plötzlich* ungehindert in den Bauchraum: **Der Patient
-   wirkt zuerst unauffällig, unerwartet und plötzlich verschlechtert
-   sich seine Kreislaufsituation und sein Zustand,** er kann binnen
-   kurzer Zeit in einen *Volumenmangelschock* :index:`\ <Schock!Milzruptur>` geraten.
+-   :dfn:`Zweizeitige (sekundäre) Milzruptur`: Das Milzgewebe ist
+    verletzt, die Kapsel bleibt jedoch erhalten: Es blutet zuerst in die
+    noch erhaltene Kapsel ein und der Druck steigt. Wird der Druck zu
+    groß reißt nach einer gewissen Zeit, es kann sich dabei um Stunden
+    oder auch Tage handeln *(Latenzzeit)*, die Kapsel und der Patient
+    blutet nun *plötzlich* ungehindert in den Bauchraum: **Der Patient
+    wirkt zuerst unauffällig, unerwartet und plötzlich verschlechtert
+    sich seine Kreislaufsituation und sein Zustand,** er kann binnen
+    kurzer Zeit in einen *Volumenmangelschock*
+    :index:`\ <Schock; Milzruptur>` geraten.
 
-   *Daher ist es wichtig jeden Patienten, bei dem auch nur der geringste
-   begründete Verdacht auf eine Milzverletzung besteht, einer
-   weiterführenden Untersuchung und Überwachung im Spital zuzuführen und
-   bis dahin jede weitere Bewegung zu vermeiden
-   (*Bewegungsverbot*)!*\  [#302]_
+    *Daher ist es wichtig jeden Patienten, bei dem auch nur der geringste
+    begründete Verdacht auf eine Milzverletzung besteht, einer
+    weiterführenden Untersuchung und Überwachung im Spital zuzuführen und
+    bis dahin jede weitere Bewegung zu vermeiden
+    (*Bewegungsverbot*)!*\ [#302]_
 
--  Schmerzen im linken Oberbauch
+.. [#302]
+    Mittels Ultraschall oder Computertomographie (CT) kann eine
+    Milzblutung nachgewiesen werden.
 
--  Manchmal Ausstrahlung der Schmerzen in die linke Schulter
-   (Kehr-Zeichen)
-
--  Volumenmangelschock
-
--  Möglicherweise zeitversetzter Kapselriss (sekundäre Milzruptur,
-   unerwartetes Schockgeschehen)
-
--  Primäre Milzruptur
-
--  Sekundäre Milzruptur:
-
-   -  Erst nur Riss des Milzgewebes, Kapsel intakt
-
-   -  Blutung in die Kapsel, Druck steigt
-
-   -  Symptomfreies Intervall (Latenzzeit)
-
-   -  Wenn Druck weiter steigt: Kapselriss →  plötzlich
-      starke Blutung → Volumenmangelschock
-
--  Cave: Zweizeitige Milzruptur
 
 
 .. _Thema-leberruptur:
@@ -1975,8 +1984,13 @@ unterscheidet man:
 Weitere innere Verletzungen
 ===========================
 
-Beschreibung
-------------
+.. only:: not nosidebar
+
+    .. sidebar:: Weitere innere Verletzungen
+
+        -   Leberruptur
+        -   Aortenruptur
+        -   Nierenruptur
 
 Der Bauchraum beherbergt viele, teilweise sehr gut durchblutete Organe
 die bei einer Verletzung zu erheblichen Blutverlusten führen können. Im
@@ -1990,14 +2004,18 @@ Außerhalb eines Spitals kann man derartige Verletzungen kaum ursächlich
 behandeln, im Vordergrund steht die Erkennung, Schockbehandlung und der
 zügige Transport in ein Traumazentrum.
 
--  Leberruptur
-
--  Aortenruptur
-
--  Nierenruptur
 
 Leberruptur
 -----------
+
+.. only:: not nosidebar
+
+    .. sidebar:: Leberruptur
+
+        -   Druckschmerz im rechten Oberbauch
+        -   Volumenmangelschock
+        -   Späterer Kapselriss möglich (zweizeitige Ruptur wie bei Milz, siehe
+            oben)
 
 Die Leber ist auch gut durchblutet und kann im Falle einer Verletzung
 große Probleme machen. Ursachen sind meist stumpfe Verletzungen, z. B.
@@ -2007,24 +2025,22 @@ den Blutverlust durch die Verletzung dieses stark durchbluteten Organs
 kann es zu einem Volumenmangelschock kommen. Wie bei der Milz kann es
 auch hier zu einer zweizeitigen Leberruptur kommen.
 
--  Druckschmerz im rechten Oberbauch
-
--  Volumenmangelschock
-
--  Späterer Kapselriss möglich (zweizeitige Ruptur wie bei Milz, siehe
-   oben)
 
 Aortenruptur
 ------------
+
+.. only:: not nosidebar
+
+    .. sidebar:: Aortenruptur
+
+        -   Riss in der Aorta
+        -   schlechte Prognose
 
 Durch einwirkende starke Kräfte kann es zu einem Riss in der Aorta
 kommen. Besonders bei Stürzen aus großen Höhen kann dies vorkommen. Da
 es sich bei der Aorta um das größte Gefäß des Körpers handelt ist die
 Prognose äußerst schlecht.
 
--  Riss in der Aorta
-
--  schlechte Prognose
 
 Nierenruptur
 ------------
@@ -2037,9 +2053,15 @@ Verletzung auch massive Probleme machen.
 Beckentrauma
 ============
 
+.. only:: not nosidebar
 
-Beschreibung und Symptome
--------------------------
+    .. sidebar:: Beckentrauma
+
+        -   Verletzung des Beckens
+        -   Massive innere Blutungen → Schockzeichen
+        -   Kompression des Beckens ist überlebenswichtig!
+        -   Verlust von bis zu 5 Litern Blut (= gesamtes Blutvolumen des
+            Menschen) möglich!
 
 Ein Beckentrauma ist eine Verletzung des Beckens.
 
@@ -2048,33 +2070,21 @@ Besonders gefährlich sind Frakturen des Beckengürtels
 der Patient verspürt starke Schmerzen bei jeder passiven Bewegung
 *beider* Beine. Da der Beckenknochen gut durchblutet ist, können binnen
 weniger Minuten bis zu fünf Liter Blut (also fast die gesamte Blutmenge)
-verloren gehen. Es besteht höchste *Schockgefahr!* Eine *Kompression des
-Beckens* ist *überlebenswichtig* um den möglichen großen Blutverlust
-einzudämmen.
+verloren gehen. Es besteht höchste *Schockgefahr!*
+Eine *Kompression des Beckens* ist *überlebenswichtig*
+um den möglichen großen Blutverlust einzudämmen.
 
--  Entstehung durch erhebliche Gewalteinwirkung (Verschüttung,
-   Überrolltrauma)
+-   Entstehung durch erhebliche Gewalteinwirkung (Verschüttung,
+    Überrolltrauma)
+-   Massive Blutungen (bis 5L in wenigen Minuten), Gefahr des Ausblutens
+    (evtl. ohne sichtbare Blutungsquelle!)
+-   Mitverletzung von Organen im kleinen Becken:
 
--  Massive Blutungen (bis 5L in wenigen Minuten), Gefahr des Ausblutens
-   (evtl. ohne sichtbare Blutungsquelle!)
+    -   Dickdarm → Blutung aus Anus
+    -   Harnsystem → Blut im Harn, Harn in der
+        Bauchhöhle
+    -   Hoden → Hämatome am Skrotum und am Damm
 
--  Mitverletzung von Organen im kleinen Becken:
-
-   -  Dickdarm → Blutung aus Anus
-
-   -  Harnsystem → Blut im Harn, Harn in der
-      Bauchhöhle
-
-   -  Hoden → Hämatome am Skrotum und am Damm
-
--  Verletzung des Beckens
-
--  Massive innere Blutungen → Schockzeichen
-
--  Kompression des Beckens ist überlebenswichtig!
-
--  Verlust von bis zu 5 Litern Blut (= gesamtes Blutvolumen des
-   Menschen) möglich!
 
 
 .. _TS32831C:
@@ -2109,56 +2119,60 @@ Basismaßnahmen
 Polytrauma
 **********
 
-**Der Begriff :dfn:`Polytrauma` :index:`\ <! Polytrauma>` bezeichnet gleichzeitige
+Der Begriff
+:dfn:`Polytrauma` :index:`\ <! Polytrauma>`
+bezeichnet gleichzeitige
 *Verletzungen mehrerer Körperregionen* oder Organsysteme, von denen
 *wenigstens eine* allein *oder die Kombination mehrerer*
-*lebensgefährlich* ist (Böhmer, Schneider, and Wolcke 2006; Gorgass et
-al. 2007; Redelsteiner et al. 2005; Hansak et al. 2008).** Die
-Arbeitsdiagnose Polytrauma kann auch ausschließlich aufgrund eines
+*lebensgefährlich* ist.
+
+Die Arbeitsdiagnose Polytrauma kann auch ausschließlich aufgrund eines
 Verdachts, begründet auf den Unfallmechanismus und eventuell der
 Vitalparameter, gestellt werden.
 
 Beispiele:
 
--  Bauchtrauma + Oberschenkelfraktur
+-   Bauchtrauma + Oberschenkelfraktur
 
-   SHT + WS + Thoraxtrauma
+    SHT + WS + Thoraxtrauma
 
    → Polytrauma
 
--  Gebrochener Finger + gebrochene Zehe → kein
-   Polytrauma
+-   Gebrochener Finger + gebrochene Zehe → kein
+    Polytrauma
 
-Die Sterblichkeit bei polytraumatisierten Patienten liegt zwischen !!!
-VONBIS !!!2050%, ist also hoch. Ein gezieltes, strukturiertes und
-zügiges Vorgehen ist daher unabdingbar! Im Idealfall sollten zwischen
+Die Sterblichkeit bei polytraumatisierten Patienten liegt zwischen
+20—50%, ist also hoch.
+Ein gezieltes, strukturiertes und
+zügiges Vorgehen ist daher unabdingbar!
+Im Idealfall sollten zwischen
 dem Eintreffen der Rettungskräfte und der definitiven Versorgung im
-Spital nicht mehr als 60 Minuten vergehen (Böhmer, Schneider, and Wolcke
-2006). Die Behandlung muss sich daher in erster Linie an der
+Spital nicht mehr als 60 Minuten vergehen.
+Die Behandlung muss sich daher in erster Linie an der
 Stabilisierung der Vitalfunktionen und nicht an den Einzelverletzungen
 orientieren!
 
-    -  Der Patient gilt als polytraumatisiert bis zum Beweis des
-       Gegenteils! Jedes Polytrauma stellt eine *vitale Bedrohung* dar.
+.. admonition:: Fazit
 
-    -  Ein polytraumatisierter Patient ist ein *zeitkritischer* Patient!
+    -   Der Patient gilt als polytraumatisiert bis zum Beweis des
+        Gegenteils! Jedes Polytrauma stellt eine *vitale Bedrohung* dar.
+    -   Ein polytraumatisierter Patient ist ein *zeitkritischer* Patient!
 
-Häufigkeit der betroffenen Organsysteme bei der Diagnose Polytraumanach
-(Böhmer, Schneider, and Wolcke 2006; Gorgass et al. 2007)
+.. table:: Häufigkeit der betroffenen Organsysteme bei der Diagnose Polytrauma
 
-+----------------------+----------------------+
-| **%**                | **Bereich**          |
-+----------------------+----------------------+
-| 60--67               | Schädel-Hirn         |
-+----------------------+----------------------+
-| 45--75               | Extremitäten         |
-+----------------------+----------------------+
-| 25--30               | Thorax               |
-+----------------------+----------------------+
-| 10--37               | Abdomen und Becken   |
-+----------------------+----------------------+
-| 5--15                | Wirbelsäule          |
-+----------------------+----------------------+
+    +----------------------+----------------------+
+    | Anteil [%]           | Verletzung           |
+    +======================+======================+
+    | 60--67               | Schädel-Hirn         |
+    +----------------------+----------------------+
+    | 45--75               | Extremitäten         |
+    +----------------------+----------------------+
+    | 25--30               | Thorax               |
+    +----------------------+----------------------+
+    | 10--37               | Abdomen und Becken   |
+    +----------------------+----------------------+
+    | 5--15                | Wirbelsäule          |
+    +----------------------+----------------------+
 
 
 .. _TT07XX1C:
@@ -2166,8 +2180,7 @@ Häufigkeit der betroffenen Organsysteme bei der Diagnose Polytraumanach
 
 Maßnahmen Polytrauma, allgemein
 =================================
-
-.. todo:: Maßnahme TT07XX1C: Anpassung an höherqualifiziertes Personal
+ziertes Personal
 
 Taktik
     **Vitale Bedrohung! Zeitkritisch!**
@@ -2184,7 +2197,7 @@ Basismaßnahmen
             Verletzungen und der Herz-Kreislauf-Situation
 
     -   Gefährliche Verletzungen versorgen (starke
-        Blutungen, Beckengurt, \ldots)
+        Blutungen, Beckengurt, …)
     -   **Wärmeerhalt**: Der Wärmeerhalt hat massiven Einfluss auf das
         Überleben!
     -   Verletzungsmuster/Unfallmechanismus erheben → zu
@@ -2199,8 +2212,6 @@ Basismaßnahmen
         -   Hubschrauber-Transport erwägen
 
 
-
-
 ****************************************
 Extremitätentrauma und Sportverletzungen
 ****************************************
@@ -2210,23 +2221,24 @@ Beschreibung
 
 Verletzungen der Extremitäten können in verschiedenen Formen auftreten:
 
--  Verstauchung (Distorsion, :ref:`Thema-verstauchung-tra`)
-
--  Verrenkung (Luxation, :ref:`Thema-verrenkung`)
-
--  Knochenbruch (Fraktur, :ref:`Thema-frakturen`)
-
--  Amputationen
+-   Verstauchung (Distorsion, :ref:`Thema-verstauchung-tra`)
+-   Verrenkung (Luxation, :ref:`Thema-verrenkung`)
+-   Knochenbruch (Fraktur, :ref:`Thema-frakturen`)
+-   Amputationen
 
 Amputationen
 ============
 
-**Eine :dfn:`Amputation` :index:`\ <! Amputation>` (*Lat.* *Amputatio* (*Amp.*))
+Eine
+:dfn:`Amputation` :index:`\ <! Amputation>`
+(*Lat.* *Amputatio* (*Amp.*))
 bezeichnet einen kompletten oder inkompletten Abriss bzw. Abtrennung
 (von Teilen) einer Extremität oder eines anderen Körperteils, sodass
 deren Durchblutung ganz oder teilweise aufgehoben ist. Den abgetrennten
-Körperteil nennt man :dfn:`Amputat` :index:`\ <! Amputat>`. (Böhmer, Schneider, and
-Wolcke 2006)** Amputationen erfolgen meist bei Motorradunfällen oder
+Körperteil nennt man
+:dfn:`Amputat` :index:`\ <! Amputat>`.
+
+Amputationen erfolgen meist bei Motorradunfällen oder
 Schnittverletzungen (z. B. mit einer Kreissäge). Je glatter die
 Wundränder sind desto größer ist die Chance dass das Amputat wieder
 erfolgreich angenäht werden kann. Nach dem Amputat ist in jedem Fall zu
@@ -2263,34 +2275,40 @@ Basismaßnahmen
 Weitere Verletzungsbilder
 =========================
 
-Beschreibung
-------------
+.. only:: not nosidebar
+
+    .. sidebar:: Weitere Verletzungsbilder
+
+        -   Muskelzerrung
+        -   Muskelfaserriss
+        -   Achillessehnenriss
+        -   Meniskusschaden
 
 Neben den bereits genannten Verletzungen, treten (im Sport oder in der
 Freizeit) oft auch folgende, meist harmlose, Verletzungen auf, welche
 hier der Vollständigkeit halber erwähnt sind:
 
--  Muskelzerrung
+-   Muskelzerrung
+-   Muskelfaserriss
+-   Achillessehnenriss
+-   Meniskusschaden
 
--  Muskelfaserriss
-
--  Achillessehnenriss
-
--  Meniskusschaden
-
--  Muskelzerrung
-
--  Muskelfaserriss
-
--  Achillessehnenriss
-
--  Meniskusschaden
 
 .. _thema-verbrennung:
 
 **************************
 Verbrennung und Verbrühung
 **************************
+
+.. only:: not nosidebar
+
+    .. sidebar:: Verbrennung, Verbrühung
+
+        -   Verbrennung
+        -   Verbrühung
+        -   Verschiedene Schweregrade
+        -   Neunerregel
+        -   Cave: Inhalationstrauma
 
 .. admonition:: Definition
 
@@ -2322,25 +2340,37 @@ Einteilung nach (Schwere-)Graden zur Verfügung. Schwere Verbrennungen
 können – wie alle Wunden – Auswirkungen auf den gesamten Organismus
 haben. [#304]_
 
+.. [#303]
+    Verbrennung / ASBÖ-Lehrmeinung: Dieser Abschnitt ist kompatibel mit
+    der ASBÖ-Lehrmeinung, publiziert unter *(ASBÖ Akademie 2010)* (ASBÖ
+    Akademie 2010).
+
+.. [#304]
+    Verbrennung / Unterscheidung leichte und schwere Verbrennung: Um die
+    Unterscheidung zwischen leichter und schwerer Vebrennung für den
+    Leser einfacher zu gestalten, wurden diese Unterscheidung hier
+    eingeführt und die Begriffe im Konsens und nach Maßgabe der
+    einschlägigen Literatur entsprechend definiert.
+
 Abhängig von den Umständen muss auch an ein *Inhalationstrauma*
 (:ref:`Thema-inhalationstrauma`) oder andere Begleitverletzungen gedacht
 werden.
 
--  Verbrennung
-
--  Verbrühung
-
--  Verschiedene Schweregrade
-
--  Neunerregel
-
--  Cave: Inhalationstrauma
 
 
 .. _Thema-verbrennungskrankheit:
 
 Gefahren
 ========
+
+.. only:: not nosidebar
+
+    .. sidebar:: Gefahren
+
+        -   Haut verliert Schutzfunktion
+        -   Verbrennungskrankheit, Schock
+        -   Ringförmige Brustkorbverbrennung: Atembehinderung
+        -   Unterkühlung
 
 In den verbrannten Arealen *verliert die Haut ihre Schutzfunktion*; es
 besteht die Gefahr von *Verdunstung*, *Unterkühlung* und *Infektionen*.
@@ -2359,50 +2389,57 @@ sich das Gewebe zusammenziehen und die Dehnbarkeit des Brustkorbes
 abnehmen; dadurch wird die Atmung stark behindert. *Unterkühlung*
 bedeutet erhöhte *Sterblichkeit*. [#305]_
 
--  Haut verliert Schutzfunktion
+.. [#305]
+    (Lönnecker and Schoder 2001) spricht bei Verbrennungspatienten von
+    einer über 40%ig erhöhten Chance zu versterben wenn die
+    Körpertemperatur um 1 Grad abnimmt. Eine Unterkühlung tritt vor allem
+    bei narkotisierten Patienten leicht ein.
 
--  Verbrennungskrankheit, Schock
-
--  Ringförmige Brustkorbverbrennung: Atembehinderung
-
--  Unterkühlung
+.. index::
+    single: Handregel
+    single: Neunerregel
 
 Ausdehnung: Handregel und Neunerregel
 =====================================
 
+.. only:: not nosidebar
+
+    .. sidebar:: Ausdehnung
+
+        -   Handregel
+        -   Neunerregel
+
 Das Verbrennungsausmaß, also die Größe des geschädigten Bereichs, wird
 in Prozent der verbrannten Körperoberfläche angegeben. Diese kann
 entweder mit der *Handregel* oder mittels der *Neunerregel* geschätzt
-werden. Die :dfn:`Handregel` :index:`\ <! Handregel>` besagt, dass die Handfläche
+werden. Die :dfn:`Handregel` :index:`\ <Handregel>` besagt, dass die Handfläche
 (ohne Finger!) des Patienten zirka einem Prozent seiner Körperoberfläche
 entspricht.
 
-Bei großflächigen Verbrennungen wird die :dfn:`Neunerregel` :index:`\ <! Neunerregel>`
+Bei großflächigen Verbrennungen wird die :dfn:`Neunerregel` :index:`\ <Neunerregel>`
 angewendet: Hier wird der Körper in 9%-Teile eingeteilt um das Ausmaß
 der Vebrennung abschätzen zu können.
 
--  Handregel
+.. _Neunerregel:
 
--  Neunerregel
+.. table:: Neunerregel
 
-+-----------------+-------------------+-------------------------------+----------------+
-+-----------------+-------------------+-------------------------------+----------------+
-| (lr)2-4         | **Erwachsener**   | **Kind** ≤            5. Lj   | **Säugling**   |
-+-----------------+-------------------+-------------------------------+----------------+
-| Kopf:           | 9                 | 15                            | 20             |
-+-----------------+-------------------+-------------------------------+----------------+
-| Arm, je:        | 9                 | 9,5                           | 9              |
-+-----------------+-------------------+-------------------------------+----------------+
-| Rumpf vorne:    | 18                | 16                            | 15             |
-+-----------------+-------------------+-------------------------------+----------------+
-| Rumpf hinten:   | 18                | 16                            | 15             |
-+-----------------+-------------------+-------------------------------+----------------+
-| Bein, je:       | 18                | 17                            | 15             |
-+-----------------+-------------------+-------------------------------+----------------+
-| Genitalien:     | 1                 | 0                             | 2              |
-+-----------------+-------------------+-------------------------------+----------------+
+    +-----------------+-------------------+-------------------------------+----------------+
+    |                 | Erwachsener       | Kind (≤ 5. Lj)                | Säugling       |
+    +=================+===================+===============================+================+
+    | Kopf:           | 9                 | 15                            | 20             |
+    +-----------------+-------------------+-------------------------------+----------------+
+    | Arm, je:        | 9                 | 9,5                           | 9              |
+    +-----------------+-------------------+-------------------------------+----------------+
+    | Rumpf vorne:    | 18                | 16                            | 15             |
+    +-----------------+-------------------+-------------------------------+----------------+
+    | Rumpf hinten:   | 18                | 16                            | 15             |
+    +-----------------+-------------------+-------------------------------+----------------+
+    | Bein, je:       | 18                | 17                            | 15             |
+    +-----------------+-------------------+-------------------------------+----------------+
+    | Genitalien:     | 1                 | 0                             | 2              |
+    +-----------------+-------------------+-------------------------------+----------------+
 
-Table: Neunerregel
 
 .. index::
     single: Verschorfung
@@ -2410,23 +2447,28 @@ Table: Neunerregel
 Grade
 =====
 
+.. only:: not nosidebar
+
+    .. sidebar:: Verbrennungsgrade
+
+        -   1°: Rötung, Schwellung, Schmerzen
+        -   2°: Blasenbildung, Schmerzen
+        -   3°: Schorfbildung, Verbrennungspanzer
+
+
 Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
-+------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Grad**   | **Symptome**                                                                                                                                                                                             |
-+------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 1          | Rötung, Schmerz, Schwellung                                                                                                                                                                              |
-+------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2          | Blasenbildung, Schmerz                                                                                                                                                                                   |
-+------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3          | Verschorfung (Vebrennungspanzer), Schmerzen abhängig von der Tiefe der Schädigung (Zerstörung von Nerven), Schrumpfung des Gewebes durch Hitzeeinwirkung, reicht bis zur Verkohlung                      |
-+------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+.. table:: Verbrennungsgrade
 
--  1: Rötung, Schwellung, Schmerzen
-
--  2: Blasenbildung, Schmerzen
-
--  3: Schorfbildung, Verbrennungspanzer
+    +------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | Grad       | Symptome                                                                                                                                                                                                 |
+    +============+==========================================================================================================================================================================================================+
+    | 1°         | Rötung, Schmerz, Schwellung                                                                                                                                                                              |
+    +------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 2°         | Blasenbildung, Schmerz                                                                                                                                                                                   |
+    +------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 3°         | Verschorfung (Vebrennungspanzer), Schmerzen abhängig von der Tiefe der Schädigung (Zerstörung von Nerven), Schrumpfung des Gewebes durch Hitzeeinwirkung, reicht bis zur Verkohlung                      |
+    +------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 .. subfigstart::
@@ -2470,7 +2512,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     Großflächige Verbrennung
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -2481,7 +2523,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     Ablederung
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -2496,7 +2538,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
     Entlastungsschnitte (*Escharatomie*) ermöglichen dem Brustkorb
     wieder sich auszudehnen und dem Patienten damit zu atmen.
 
-    Ⓒ David Hauer Ⓛ :term:`Lizenz: MfG`
+    Ⓒ David Hauer :term:`Ⓛ MfG`
 
 .. subfigend::
     :width: 0.32
@@ -2509,11 +2551,15 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
 
 
-
-
-
 Einschätzung
 ============
+
+.. only:: not nosidebar
+
+    .. sidebar:: Einschätzung
+
+        -   Ab 10% ≥ 2° → schwer
+        -   *Kinder*: *5%*
 
 Man unterscheidet zwischen einer *leichten* und einer *schweren*
 Verbrennung, maßgebliche Faktoren sind die *Ausbreitung* und der
@@ -2526,14 +2572,10 @@ bei Kindern*) *≥ 2°* verbrannter Körperoberfläche
 daher als *schwer*! Der Schock entwickelt sich allerdings erst
 allmählich.
 
--  Ab 10% ≥ 2° → schwer
+.. attention::
 
--  *Kinder*: *5%*
-
-Für
-
-    -  Ab *10% ≥ 2°* verbrannter Körperoberfläche gilt eine
-       Verbrennung als "schwer", für *Kinder* gilt eine Grenze von *5%.*
+    -   Ab *10% ≥ 2°* verbrannter Körperoberfläche gilt eine
+        Verbrennung als "schwer", für *Kinder* gilt eine Grenze von *5%.*
 
 
 .. todo:: bla!
@@ -2560,7 +2602,7 @@ Basismaßnahmen
         positiver Effekt der Kühlung nicht mehr zu erwarten.
         Bei mehreren Minuten zurückliegenden Verbrennungen
         ist eine Kühlung nicht mehr sinnvoll.
-        damit begonnen werden kann, für max. 10\Min* mit handwarmen
+        damit begonnen werden kann, für max. 10 \ min mit handwarmen
         Wasser die betroffenen Körperregionen spülen;
 
         Bei Frösteln des Patienten früher abzubrechen:
@@ -2568,7 +2610,7 @@ Basismaßnahmen
     -   **Abdeckung**:
         Sterile, nicht verklebende
         Wundauflagen; evtl. metalliserte Wundauflagen
-        [Redelsteiner:1]_ \ ; locker anlegen
+        [Redelsteiner:1]_\ ; locker anlegen
     -   Ggfs. Schockbekämpfung
 
 
@@ -2579,8 +2621,6 @@ Basismaßnahmen
 
 Maßnahmen: Verbrennung, schwer
 ==============================
-
-.. todo:: Maßnahme TT30002C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
     -   |TxMassVitMK|
@@ -2594,7 +2634,7 @@ Basismaßnahmen
     -   **Abdeckung**:
         Sterile, nicht verklebende
         Wundauflagen, evtl. metalliserte Wundauflagen
-        [Redelsteiner:1]_ \ .
+        [Redelsteiner:1]_\ .
         Der Nutzen  von kühlenden
         Spezialverbänden, z. B. Waterjel™ ist
         aufgrund  der Unterkühlungs-Gefahr und einer  möglichen
@@ -2611,70 +2651,57 @@ Basismaßnahmen
 
 
 
-
-
 Was man **nicht** tun darf …
 ============================
 
--  NEIN: Salbe, Puder, etc. auf frische Brandwunde (AAOS 2006; NAEMT
-   2006)
+-   NEIN: Salbe, Puder, etc. auf frische Brandwunde ([AAOS:9]_; [PHTLS:6]_)
+-   NEIN: Blasen öffnen [AAOS:9]_
+-   NEIN: festklebende Kleidung gewaltsam entfernen
 
--  NEIN: Blasen öffnen [AAOS:9]_
-
--  NEIN: festklebende Kleidung gewaltsam entfernen
-
-(Kamolz, Herndon, and Jeschke 2009; Krause and Loerbroks 2009; Beneker
-and Martens 2004; Lönnecker and Schoder 2001; Hamp and Weidenauer 2010)
-
+[TertialeNotfallIntensivmed:1]_
+[Kamolz:2009]_
+[Verbrennungsmed-2009Praehosp]_
+[Loennecker:2001]_
+[Beneker:2004]_
 
 .. _thema-inhalationstrauma:
 
 Inhalationstrauma
 =================
 
-Beschreibung und Symptome
--------------------------
+.. only:: not nosidebar
 
-**Von einem :dfn:`Inhalationstrauma` :index:`\ <! Inhalationstrauma>` spricht man bei
+    .. sidebar:: Inhalationstrauma
+
+        -   Z. n. Gasexposition
+        -   Angebrannte Gesichtshaare
+        -   Geschwollene, rußige Lippen
+        -   Rußpartikel im Auswurf
+        -   Husten
+        -   Heiserkeit
+        -   Stridor
+        -   Atemnot
+
+Von einem
+:dfn:`Inhalationstrauma` :index:`\ <! Inhalationstrauma>`
+spricht man bei
 Einatmung von reizenden, giftigen und/oder heißen Gasen, was eine
-Schädigung der Atemwege und der Lunge zur Folge hat.** Typische
-Leitsymptome sind:
+Schädigung der Atemwege und der Lunge zur Folge hat.
+Typische Leitsymptome sind:
 
--  Z.n. Gasexposition
-
--  Angebrannte Gesichtshaare
-
--  Geschwollene, rußige Lippen
-
--  Rußpartikel im Auswurf
-
--  Husten
-
--  Heiserkeit
-
--  Stridor
-
--  Atemnot
+-   Z. n. Gasexposition
+-   Angebrannte Gesichtshaare
+-   Geschwollene, rußige Lippen
+-   Rußpartikel im Auswurf
+-   Husten
+-   Heiserkeit
+-   Stridor
+-   Atemnot
 
 Das volle Ausmaß der Schädigung kann unmittelbar oder innerhalb von
 Stunden erreicht werden. Eine engmaschige Beobachtung des Patienten ist
 daher sehr wichtig.
 
--  Z.n. Gasexposition
-
--  Angebrannte Gesichtshaare
-
--  Geschwollene, rußige Lippen
-
--  Rußpartikel im Auswurf
-
--  Husten
-
--  Heiserkeit
-
--  Stridor
-
--  Atemnot
 
 Volles Ausmaß oft erst nach Stunden!
 
@@ -2684,8 +2711,6 @@ Volles Ausmaß oft erst nach Stunden!
 
 Maßnahmen: Inhalationstrauma
 ------------------------------
-
-.. todo:: Maßnahme TT49091C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
     -   Vitale Bedrohung einschätzen. \par
@@ -2698,8 +2723,18 @@ Basismaßnahmen
 
 .. _thema-veraetzung-trauma:
 
-Verletzungen durch chemische Stoffe – "Chemische Verbrennungen"
+Verletzungen durch chemische Stoffe — "Chemische Verbrennungen"
 ===============================================================
+
+.. only:: not nosidebar
+
+    .. sidebar:: Chemische Stoffe
+
+        -   Ausfall der Schutzfunktion der Haut
+        -   Schmerzen
+        -   gefährliche Schockzustände
+        -   Gefahr für den Helfer
+        -   Selbstschutz, Dekontamination!
 
 Vergiftungen durch Einnahme von Säuren und Laugen werden unter
 :ref:`Thema-veraetzung-intoxikation`, besprochen.
@@ -2730,23 +2765,12 @@ kontaminiert ist. Von diesem Stoff kann sowohl für den Patienten, als
 auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
 *Dekontamination* muss großer Wert gelegt werden.
 
--  Ausfall der Schutzfunktion der Haut
-
--  Schmerzen
-
--  gefährliche Schockzustände
-
--  Gefahr für den Helfer
-
--  Selbstschutz, Dekontamination!!!
 
 
 
 
 .. _TT30041C:
 .. _m-chemische-verletzungen:
-
-.. todo:: Maßnahme TT30041C: Anpassung an höherqualifiziertes Personal
 
 Maßnahmen: Verletzungen mit chemischen Substanzen
 -------------------------------------------------
@@ -2782,17 +2806,17 @@ Basismaßnahmen
         Bei Augenverletzungen Abt.
         für Augenheilkunde.
 
-
-
 ************
 Erfrierungen
 ************
 
 
-Eine :dfn:`Erfrierung` :index:`\ <! Erfrierung>` ( *Lat.* *Congelatio*
-(*Congelat.*)) ist eine Gewebsnekrose, die durch lokale
-Durchblutungsstörungen aufgrund von Kälteeinwirkung (Eis, Wind, Nässe,
-Kälte) entstanden ist.
+Eine
+:dfn:`Erfrierung` :index:`\ <Erfrierung>`
+( *Lat.* *Congelatio* (*Congelat.*))
+ist eine Gewebsnekrose, die durch lokale
+Durchblutungsstörungen aufgrund von Kälteeinwirkung
+(Eis, Wind, Nässe, Kälte) entstanden ist.
 
 Besonders gefährdet sind körperferne
 Körperteile wie Zehen, Finger, Ohren oder Nase. Die Einteilung erfolgt
@@ -2801,15 +2825,17 @@ keine entscheidende Bedeutung für die zu setzenden Maßnahmen. Den
 Schweregrad einer Erfrierung kann man erst nach Tagen voll einschätzen.
 Deshalb ist es wichtig, die Warnsymptome ernst zu nehmen!
 
-+---------------+---------------------------------------------------------+-----+
-| **Stadien**   | **Symptome**                                            |     |
-+---------------+---------------------------------------------------------+-----+
-| 1             | Blässe, Empfindungsstörungen                            |     |
-+---------------+---------------------------------------------------------+-----+
-| 2             | Blasenbildung, Schmerzen                                |     |
-+---------------+---------------------------------------------------------+-----+
-| 3             | grau/schwarze Marmorierung (Nekrose), Gefühllosigkeit   |     |
-+---------------+---------------------------------------------------------+-----+
+.. table:: Grade der Erfrierung
+
+    +---------------+---------------------------------------------------------+
+    | Stadien       | Symptome                                                |
+    +===============+=========================================================+
+    | 1             | Blässe, Empfindungsstörungen                            |
+    +---------------+---------------------------------------------------------+
+    | 2             | Blasenbildung, Schmerzen                                |
+    +---------------+---------------------------------------------------------+
+    | 3             | grau/schwarze Marmorierung (Nekrose), Gefühllosigkeit   |
+    +---------------+---------------------------------------------------------+
 
 
 .. _TT35071C:
@@ -2817,8 +2843,6 @@ Deshalb ist es wichtig, die Warnsymptome ernst zu nehmen!
 
 Maßnahmen: Erfrierungen
 =======================
-
-.. todo:: Maßnahme TT35071C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
     -   Beengende Kleidungsstücke lockern
@@ -2840,50 +2864,54 @@ Szeneüberblick die Gefahr eines möglichen weiteren Stromschlages erkannt
 werden muss! Erster Anhaltspunkt ist daher die Situation am Einsatzort.
 Typisch sind:
 
--  Spielende Jugendliche oder Arbeiter auf Eisenbahnwaggons
-
--  LKW-Hebekräne oder Bagger, die in Freileitungen geraten sind
-
--  Unachtsamer Umgang mit Elektrogeräten im Badezimmer
-
--  Unsachgemäße Reparatur von Elektrogeräten
-
--  Arbeitsunfälle (Elektriker, Heimwerker)
-
--  Verkehrsunfall mit herabhängenden Stromleitungen
-
--  Blitzunfall
+-   Spielende Jugendliche oder Arbeiter auf Eisenbahnwaggons
+-   LKW-Hebekräne oder Bagger, die in Freileitungen geraten sind
+-   Unachtsamer Umgang mit Elektrogeräten im Badezimmer
+-   Unsachgemäße Reparatur von Elektrogeräten
+-   Arbeitsunfälle (Elektriker, Heimwerker)
+-   Verkehrsunfall mit herabhängenden Stromleitungen
+-   Blitzunfall
 
 Die erste Maßnahme muss daher immer dem Selbstschutz gelten:
 
--  Strom abschalten (lassen)! → Sicherungen,
-   Abziehen des Netzkabels, NOT-AUS-Taste, Abschalten ganzer Anlagen
-   durch den Fachmann, …
-
--  Sicherheitsabstand einhalten! Bei Hochspannungsleitungen sind dies
-   mindestens 5m. (Böhmer, Schneider, and Wolcke 2006)
-
--  Bahnanlagen sperren und sichern lassen!
-
--  Strom gegen Wiedereinschalten sichern (lassen)!
+-   Strom abschalten (lassen)! → Sicherungen,
+    Abziehen des Netzkabels, NOT-AUS-Taste, Abschalten ganzer Anlagen
+    durch den Fachmann, …
+-   Sicherheitsabstand einhalten! Bei Hochspannungsleitungen sind dies
+    mindestens 5 m.
+-   Bahnanlagen sperren und sichern lassen!
+-   Strom gegen Wiedereinschalten sichern (lassen)!
 
 Die Einschätzung über das Ausmaß der Verletzung bzw. der vitalen
 Bedrohung ist bei Elektrounfällen sehr schwierig. Dies hat mehrere
 Gründe:
 
-#. Die Wirkung des Stromes im menschlichen Körper hängt von mehreren
-   Faktoren ab: Höhe der elektrischen Spannung [#306]_, Stärke des
-   elektrischen Stromes [#307]_, der Stromart (Gleich- oder
-   Wechselstrom), dem Weg des Stromes durch den Körper, dem
-   Kontaktwiderstand (feuchte Hände, Wasserlacke, …) und der
-   Einwirkzeit. Meistens sind die Zahlenwerte dieser Faktoren im
-   Einsatzfall jedoch nicht bekannt, sodass eine theoretische
-   Abschätzung der Gefährung praktisch nicht durchführbar ist.
+#.  Die Wirkung des Stromes im menschlichen Körper hängt von mehreren
+    Faktoren ab: Höhe der elektrischen Spannung\ [#306]_,
+    Stärke des elektrischen Stromes\ [#307]_, der Stromart
+    (Gleich- oder Wechselstrom),
+    dem Weg des Stromes durch den Körper, dem
+    Kontaktwiderstand (feuchte Hände, Wasserlacke, …) und der
+    Einwirkzeit. Meistens sind die Zahlenwerte dieser Faktoren im
+    Einsatzfall jedoch nicht bekannt, sodass eine theoretische
+    Abschätzung der Gefährung praktisch nicht durchführbar ist.
 
-#. Die *Strommarken* (Verbrennungen an den Ein- und Austrittsstellen)
-   sind i.d.R. klein, sodass die Schädung im Körperinneren nicht
-   abgeschätzt werden kann. Im Zweifelsfall muss man mit ausgedehnten
-   inneren Verletzungen rechnen.
+#.  Die *Strommarken* (Verbrennungen an den Ein- und Austrittsstellen)
+    sind i. d. R. klein, sodass die Schädung im Körperinneren nicht
+    abgeschätzt werden kann. Im Zweifelsfall muss man mit ausgedehnten
+    inneren Verletzungen rechnen.
+
+.. [#306]
+    Die elektrische Spannung wird in Volt (V) gemessen. Typische Werte
+    sind 12 V bei einer Autobatterie, 230 V an einer Haushaltssteckdose,
+    15 000 V bei Eisenbahn-Oberleitungen und bis zu 380 000 V bei
+    Hochspannungsleitungen. Die elektrische Spannung ist die treibende
+    Kraft hinter dem Stromfluss. Die tatsächliche Stärke des Stromes
+    hängt jedoch auch vom elektrischen Widerstand des durchströmten
+    Materials ab.
+
+.. [#307]
+    Die Stärke des elektrischen Stromes wird in Ampere (A) gemessen.
 
 Die Orientierung an Symptomen ist für die Einschätzung der vitalen
 Bedrohung daher oft sinnvoller.
@@ -2891,45 +2919,40 @@ Bedrohung daher oft sinnvoller.
 Symptome
 ========
 
--  Szeneüberblick: Unfallmechanismus und Unfallhergang
+.. only:: not nosidebar
 
--  Reizeffekte (Muskel-/ Nervenerregung):
+    .. sidebar:: Strom
 
-   -  Verkrampfung (kann den stromführenden Teil nicht loslassen)
+        -   Reizeffekte (Muskel-/ Nervenerregung)
+        -   Bewusstseinsstörungen bis Krampfanfälle oder Bewusstlosigkeit
+        -   Thermische Schäden, z. B. Strommarken
 
-   -  Sensibilitätsstörungen
+-   Szeneüberblick: Unfallmechanismus und Unfallhergang
+-   Reizeffekte (Muskel-/ Nervenerregung):
 
-   -  ZNS → Bewußtseinsstörung
+    -   Verkrampfung (kann den stromführenden Teil nicht loslassen)
+    -   Sensibilitätsstörungen
+    -   ZNS → Bewußtseinsstörung
+    -   Herzrhythmusstörungen (Kammerflimmern, evtl. als Spätfolge!)
 
-   -  Herzrhythmusstörungen (Kammerflimmern, evtl. als Spätfolge!)
+-   Bewusstseinsstörungen bis Krampfanfälle oder Bewusstlosigkeit
+-   Lähmungen (vorübergehend)
+-   Thermische Schäden durch Wärmeentstehung
 
--  Bewusstseinsstörungen bis Krampfanfälle oder Bewusstlosigkeit
+    -   Strommarken (Ein-/ Austrittsverbrennung)
+    -   Lichtbogen: oberflächliche und tiefe Verbrennungen
+    -   Blitzfiguren an der Haut
 
--  Lähmungen (vorübergehend)
+-   Das eigentliche Ausmaß der Verletzung ist oft *unsichtbar*, da der
+    Strom im Körperinneren – unterhalb des Hautmantels – viel Schaden
+    anrichtet.
 
--  Thermische Schäden durch Wärmeentstehung
-
-   -  Strommarken (Ein-/ Austrittsverbrennung)
-
-   -  Lichtbogen: oberflächliche und tiefe Verbrennungen
-
-   -  Blitzfiguren an der Haut
-
--  Das eigentliche Ausmaß der Verletzung ist oft *unsichtbar*, da der
-   Strom im Körperinneren – unterhalb des Hautmantels – viel Schaden
-   anrichtet.
-
--  Reizeffekte (Muskel-/ Nervenerregung)
-
--  Bewusstseinsstörungen bis Krampfanfälle oder Bewusstlosigkeit
-
--  Thermische Schäden, z. B. Strommarken
 
 Spezielle Mechanismen und Situationen
 =====================================
 
 Stromüberlandleitungen (Hochspannungsleitungen)
-    Bei Überlandleitungen ist mit Hochspannung (380000 Volt (380kV)) zu
+    Bei Überlandleitungen ist mit Hochspannung (380 000 V (380 kV)) zu
     rechnen. Ist eine Hochspannungsleitung gerissen und berührt den
     Boden, so ist besondere Vorsicht geboten! Da auch das Erdreich einen
     elektrischen Widerstand hat, gibt es in der Nähe der gerissenen
@@ -2943,44 +2966,39 @@ Stromüberlandleitungen (Hochspannungsleitungen)
     :ref:`Thema-gefahrenzonen`)!
 
 Bahnanlagen
-    Die Eisenbahn arbeitet mit einer Oberleitungsspannung von 15000V,
+    Die Eisenbahn arbeitet mit einer Oberleitungsspannung von 15 000 V,
     auch bei gesenktem Stromabnehmer oder Dieselfahrzeugen kann durch
-    Kondensatorladung eine Spannung von bis zu 3000V anliegen (vgl.
-    Gefahrenzonen: :ref:`Thema-gefahrenzonen`).
+    Kondensatorladung eine Spannung von bis zu 3 000 V anliegen
+    (vgl. Gefahrenzonen: :ref:`Thema-gefahrenzonen`).
 
-    Im U-Bahnbereich werden Spannungen um die 700V eingesetzt. (Stadt
-    Wien, Magistratsabteilung 38 – U-Bahn-Bau 1989)
+    Im U-Bahnbereich werden Spannungen um die 700 V eingesetzt. [U:61989]_
 
--  Stromüberlandleitungen → Schrittspannung
-
--  Bahnanlagen
 
 Blitzschlag
 ===========
 
+.. only:: not nosidebar
+
+    .. sidebar:: Blitzschlag
+
+        -   extrem kurze Einwirkdauer
+        -   typische Symptome
+
 Bei Gewitterblitzen treten Spannungen von Millionen von Volt und
-Stromstärken von bis zu 300000 Ampere auf. Trotzdem gibt es auch bei
+Stromstärken von bis zu 300 000 A auf. Trotzdem gibt es auch bei
 Blitzunfällen immer wieder Überlebende, da die Einwirkdauer extrem kurz
 (wenige Millisekunden) ist. Typische Symptome sind
 
--  Bewusstlosigkeit
+-   Bewusstlosigkeit
+-   Vorübergehende Lähmung
+-   Blitzfiguren auf der Haut
+-   Herzrhythmusstörungen
 
--  Vorübergehende Lähmung
-
--  Blitzfiguren auf der Haut
-
--  Herzrhythmusstörungen
-
--  extrem kurze Einwirkdauer
-
--  typische Symptome
 
 
 
 .. _TT75040C:
 .. _m-stromunfall:
-
-.. todo:: Maßnahme TT75040C: Anpassung an höherqualifiziertes Personal
 
 Maßnahmen: Stromunfälle
 =========================
@@ -3022,78 +3040,3 @@ Basismaßnahmen
 
 
 
-
-
-************************
-Weiterführende Literatur
-************************
-
-(NAEMT 2006; AAOS 2006; Collier and Mark Brinsden 2006; Helfen 2008;
-Campbell 2010; Esch et al. 2007; Patzelt 2005; Ficklscherer 2005;
-Sachsenweger 2003; Siewert 2006; Thierbach and Veith 2005; Rüecker 2005;
-Flake and Runggaldier 2008; Scholz et al. 2008)
-
-
-
-
-.. [#296]
-    lat. penetrare: eindringen, durchdringen.
-
-.. [#297]
-   Offener Bruch: *Fractura aperta* (*Fract* :index:`\ <Fract.!apert.>`. apert.)
-
-.. [#298]
-   Die Literatur ist bei der Definition offener Knochenbrüche nicht
-   einheitlich. In manchen Büchern, z. B. in (Gorgass et al. 2007), wird
-   ein offener Knochenbruch durch eine direkte Verbindung zwischen Wunde
-   und Bruchstelle beschrieben, in anderen Büchern genügt es, wenn über
-   der Bruchstelle eine Hautverletzung vorliegt. Wieder andere Bücher,
-   z. B. (Strauss and Fülöp, n.d.), geben drei Schweregrade für offene
-   Frakturen an. Die genau Definition spielt für die Praxis keine Rolle.
-   Das Achten auf Keimfreiheit ist in jedem der beschriebenen Fälle
-   unbedingt notwenidg!
-
-.. [#299]
-   absichtlich ausprobieren!
-
-.. [#300]
-   Nachdem der Patient für die Untersuchung entkleidet wurde, muss er
-   nach der Untersuchung zugedeckt werden (Wärmeerhaltung)!
-
-.. [#301]
-   Pneumothorax evtl. mit Hautemphysem (Luftansammlung in der Haut,
-   typisches Knistern)
-
-.. [#302]
-   Mittels Ultraschall oder Computertomographie (CT) kann eine
-   Milzblutung nachgewiesen werden.
-
-.. [#303]
-   Verbrennung / ASBÖ-Lehrmeinung: Dieser Abschnitt ist kompatibel mit
-   der ASBÖ-Lehrmeinung, publiziert unter *(ASBÖ Akademie 2010)* (ASBÖ
-   Akademie 2010).
-
-.. [#304]
-   Verbrennung / Unterscheidung leichte und schwere Verbrennung: Um die
-   Unterscheidung zwischen leichter und schwerer Vebrennung für den
-   Leser einfacher zu gestalten, wurden diese Unterscheidung hier
-   eingeführt und die Begriffe im Konsens und nach Maßgabe der
-   einschlägigen Literatur entsprechend definiert.
-
-.. [#305]
-   (Lönnecker and Schoder 2001) spricht bei Verbrennungspatienten von
-   einer über 40%ig erhöhten Chance zu versterben wenn die
-   Körpertemperatur um 1 Grad abnimmt. Eine Unterkühlung tritt vor allem
-   bei narkotisierten Patienten leicht ein.
-
-.. [#306]
-   Die elektrische Spannung wird in Volt (V) gemessen. Typische Werte
-   sind 12V bei einer Autobatterie, 230V an einer Haushaltssteckdose,
-   15000V bei Eisenbahn-Oberleitungen und bis zu 380000V bei
-   Hochspannungsleitungen. Die elektrische Spannung ist die treibende
-   Kraft hinter dem Stromfluss. Die tatsächliche Stärke des Stromes
-   hängt jedoch auch vom elektrischen Widerstand des durchströmten
-   Materials ab.
-
-.. [#307]
-   Die Stärke des elektrischen Stromes wird in Ampere (A) gemessen.

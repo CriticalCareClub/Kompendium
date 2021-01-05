@@ -228,7 +228,7 @@ Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
 Gefahren
 ^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gefahren
 

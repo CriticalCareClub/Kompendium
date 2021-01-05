@@ -1,4 +1,11 @@
 
+.. index::
+    single: COPD
+    single: Chronic Obstructive Pulmonary Disease
+    single: Disease; Chronic Obstructive Pulmonary -
+    single: Lungenerkrankung; chronisch-obstruktive
+    single: Bronchitis, chronische
+
 .. _thema-copd:
 
 **************************************
@@ -6,7 +13,7 @@ Chronische Bronchitis und COPD (#35)
 **************************************
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: COPD
 
@@ -26,16 +33,18 @@ Chronische Bronchitis und COPD (#35)
 
 Die :dfn:`chronische Bronchitis` ist eine chronische
 entzündliche Schleimhautschädigung der unteren Atemwege.
-Die :dfn:`COPD` (:dfn:`Chronische Obstruktive`
-Lungenerkrankung [#228]_\ ) ist eine chronische entzündliche
-Schleimhautschädigung, welche eine zunehmende obstruktive
+Die :dfn:`COPD`
+(engl. *Chronic Obstructive Pulmonary Disease*,
+:dfn:`chronisch-obstruktive Lungenerkrankung`)
+ist eine chronische entzündliche Schleimhautschädigung,
+welche eine zunehmende obstruktive
 Atemwegseinschränkung aufweist.
 
 Die COPD ist durch eine
 voranschreitende Verschlechterung der Atemleistung gekennzeichnet. Am
-Anfang steht die chronische Bronchitis, welche durch Husten mit
-schleimigem Auswurf gekennzeichnet ist ("*Raucherhusten*"). Es kommt
-dabei zu einer gesteigerten Entzündungsantwort auf eingeatmete Stoffe
+Anfang steht die chronische Bronchitis,
+welche durch Husten mit schleimigem Auswurf gekennzeichnet ist ("*Raucherhusten*").
+Es kommt dabei zu einer gesteigerten Entzündungsantwort auf eingeatmete Stoffe
 (Zigarettenrauch, Umweltschadstoffe, …). Wenn man in der
 Lungenfunktionsuntersuchung eine Atmungsseinschränkung nachweisen kann,
 spricht man von der chronisch-obstruktiven Lungenerkrankung (COPD).
@@ -48,11 +57,6 @@ des Brustkorbes. Im Endstadium zeigen sich Zeichen einer
 Rechtsherzinsuffizienz (:ref:`Thema-rechtsherzinsuffizienz`) aufgrund einer
 Störung im Lungenkreislauf.
 
-[Renz-Polster:2006]_
-
-
-.. [#228]
-   *engl.* Chronic obstructive pulmonary disease)
 
 Exazerbation
 ==============
@@ -66,11 +70,11 @@ durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
 Probleme mit Sauerstoff bei COPD-Patienten
 ==========================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: COPD und O₂
 
-        -   Atemantrieb normalerweise durch *CO₂*-Spiegel
+        -   Atemantrieb normalerweise durch **CO₂**\ -Spiegel
         -   COPD: CO₂-Spiegel dauerhaft erhöht →
             Gewöhnungseffekt → Atemantrieb gemäß O₂-Spiegel
         -   Problem bei Sauerstoffgabe: Verminderter Atemantrieb
@@ -118,65 +122,66 @@ einem Atemstillstand kommen.
     Luft nur erschwert wieder entweichen
     kann.
 
-    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+    Ⓒ Lena Hirtler
+    :term:`Ⓛ MfG`
 
 1234ABCDE: COPD
 ===============
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: 1234ABCDE
 
-        ``1``
+        ①
             Kalte Umgebung
 
-        ``2``
+        ②
             Atemhilfsmuskulatur, Anstrengung beim Atmen, ängstlich
 
-        ``3``
+        ③
             Evtl. **|symbol-RedFlag|**\ Bewusstseinsstörungen
 
-        ``4``
+        ④
             Atemnot
 
-        ``A``
-            Siehe ``B``
+        Ⓐ
+            Siehe Ⓑ
 
-        ``B``
+        Ⓑ
             Atemnot! Ausatmung erschwert, Husten Tachypnoe, |symbol-RedFlag|\  Zyanose;
 
             Brummendes, pfeifendes Atemgeräusch
 
             SpO₂ chronisch niedrig (~ 90%): Normalwert gilt nicht!
 
-        ``C``
+        Ⓒ
             HF ↑, RR ↑
 
         ``=``
             Vitale Bedrohung bei schwerer Atemnot und Bewusstseinsstörungen
 
-        ``…``
+        ⌥
             Evtl. erhöhte Körpertemperatur
 
-``1`` Szene
+①
     Evtl. kalte Umgebung (kalte Luft führt zur Verengung der Bronchien)
 
-``2`` Ersteindruck
+②
     Einsatz der Atemhilfsmuskulatur, Mühe beim Atmen, evtl.
     Heimsauerstoff, oft wirkt der Patient ängstlich.
 
-``3`` Bewusstsein
+③
     Bei schweren Anfällen kann es aufgrund der Hypoxie zu
     |symbol-RedFlag|\ **Bewusstseinsstörungen** kommen.
 
-``4`` Hauptbeschwerde
+④
     Atemnot
 
-``A`` Atemweg
-    Siehe ``B``
+Ⓐ
+    Siehe Ⓑ
 
-``B`` Atmung
+Ⓑ
     Je nach Schweregrad kommt es zu Zeichen einer Atemwegsverlegung der
     *unteren* Atemwege (Obstruktion, durch Verengung der Bronchien und
     Schleimproduktion) und Ateminsuffizienz:
@@ -197,14 +202,14 @@ einem Atemstillstand kommen.
     kann es zu |symbol-RedFlag|\  *Bewusstseinsstörungen kommen*
     (*CO₂-Narkose*)!
 
-``C`` Kreislauf
+Ⓒ Kreislauf
     Evtl. tachkard und hyperton
 
 ``=`` Beurteilung
     Bei |symbol-RedFlag|\  schwerer Atemnot oder
     |symbol-RedFlag|\  Bewusstseinsstörungen vitale Bedrohung.
 
-``…`` Sonstiges
+⌥
     Als Nebenbefund können Infektzeichen vorliegen (erhöhte
     Körpertemperatur).
 
@@ -212,28 +217,28 @@ einem Atemstillstand kommen.
 SAMPLER: COPD
 =============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SAMPLER
 
-        ``M``
+        🄼
             Inhalatoren, evtl. Heimsauerstoff.
 
-        ``P``
+        🄿
             COPD vorbekannt
 
-        ``L``
+        🄻
             Letzte Spray-Einnahme?
 
-``M`` Medikation
+🄼 Medikation
     Inhalatoren bzw. Sprays zur Dauer- und Akuttherapie, Heimsauerstoff.
     Häufig Kortisonpräparate; bei vorbekanntem Infekt wurden oft schon
     Antibiotika verschrieben.
 
-``P`` Krankengeschichte
+🄿 Krankengeschichte
     Eine COPD ist normalerweise vorbekannt.
 
-``L`` Letztes
+🄻 Letztes
     Letzte Spray-Einnahme?
 
 
@@ -244,16 +249,12 @@ SAMPLER: COPD
     Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
     "Karriere" hinter sich.
 
-    [Lena Hirtler, :term:`Ⓛ MfG`]
+    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
 .. _m-copd-exzerbation:
 
 Maßnahmen COPD
 ==============
-
-.. todo::
-
-    Maßnahmen COPD: Anpassung an höherqualifiziertes Personal
 
 Taktik
     Linderung der Atemnot und rasche medikamentöse Therapie
@@ -276,43 +277,60 @@ Basismaßnahmen
     -   Lagerung: Oberkörper hoch
     -   Voratmen, *Lippenbremse*
 
-Medikamentöse Therapieoptionen
-    -   **Beta-Mimetikum inhalativ**
+Pharmakotherapie
+    -   **Beta-Mimetikum inhalativ**:
+        Im Allgemeinen gut verträglich,
+        eine ausreichende Ventilation ist aber Voraussetzung!
+
         -   *Salbutamol* (Combivent™)
         -   *Berodual™* (Fenoterol kombiniert mit Ipratropiumbromid)
-    -   Anxiolyse und leichte Sedierung mit Morphin (Vendal™)
+
+    -   Anxiolyse und leichte Sedierung mit **Morphin** (Vendal™)
 
         1 Amp. Vendal™ auf 10 mL verdünnen (1 mg / mL);
         Start mit 2 mg, mg-weise titrieren.
         Cave Atemdepression!
     -   **Kortikoid i. v.**: eher mittelfristige Therapie
-        -   *Prednisolon* 25—100 mg i. v.
+
+        z. B. *Prednisolon* 25—100 mg i. v.
     -   **Kortikoid inhalativ**: eher mittelfristige Therapie
     -   **Beta-Mimetikum i. v.**: wenn therapierefraktär
 
         Cave Tachykardie!
 
         *Terbutalin* (Bricanyl™) 0,500 mg (1. Amp.) auf 10 mL verdünnen,
-        mL-weise (0,050 mg) i. v. nach Klinik *titrieren*
+        mL-weise (0,050 mg) i. v.
+        nach Klinik und *Herzfrequenz* titrieren
 
         Alternativ *s. c.-Gabe* möglich: 0,250—0,500 mg s. c.
-    -   *Theophyllin* i. v.: eher nicht empfehlenswert,
-        bei Theophyllin-Dauertherapie erst Spiegelbestimmung
+
+        .. danger::
+
+            Cave: Tachykardie!
+
+    -   *Theophyllin*: :index:`\ <Theophyllin; COPD>`
+        Aufgrund der geringen therapeutischen Breite
+        und aufgrund des großen Spektrums an Nebenwirkungen
+        bzw. Interaktionen eher *nicht empfehlenswert*;
+        bei Theophyllin-Dauertherapie Spiegelbestimmung.
 
 Beatmungstherapie
-    -   Option: **CPAP**\ -Therapie
+    -   Nicht-invasive **CPAP**\ -Beamtung.
         Voraussetzung: Kooperativer Patient,
         evtl. leichte Sedierung mit Morphin erwägen.
-    -   Intubation und kontrollierte Beatmung mit erhöhtem PEEP (10 mbar)
-        als Ultima ratio falls trotz Therapie respiratorische Insuffizeinz bestehen bleibt.
-        Entwöhnung kann extrem schwierig sein!
+    -   Intubation, Relaxierung
+        und kontrollierte Beatmung mit erhöhtem PEEP
+        (10 mbar)
+        als Ultima ratio falls trotz Therapie respiratorische Insuffizienz bestehen bleibt.
+        Cave: Entwöhnung kann extrem schwierig sein!
 
 Palliative Therapie
-    -   COPD ist eine chronische, oft mit viel Leid verbundene, Erkrankung.
+    -   COPD ist eine chronische,
+        oft mit viel Leid verbundene, Erkrankung.
         Es ist möglich, dass der Patient bereits im Vorfeld
         Therapieentscheidungen getroffen hat,
         bzw. das Stadium oder der Fortschritt der Erkrankung
-        die Indikation zur palliativen Therpiestrategie stellt.
+        die Indikation zur palliativen Therapiestrategie stellt.
         Einzelfallentscheidung!
 
 

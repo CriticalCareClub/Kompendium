@@ -1,7 +1,7 @@
 
-###############################################################################
+########################################################################
 Gynäkologie (#62)
-###############################################################################
+########################################################################
 
 
 
@@ -22,25 +22,29 @@ Notfälle in der Frühschwangerschaft
 Fehlgeburt
 ----------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Fehlgeburt
 
         -   Frühe Fehlgeburt/Fruchtabgang
         -   Oft unbemerkt
 
-Ein :dfn:`Abort` :index:`\ <! Abort>` ist die
+Ein
+:dfn:`Abort`
+:index:`\ <Abort>`
+ist die
 Beendigung einer Schwangerschaft bzw. Fruchtabgang bei einem
-Kindesgewicht von unter 500 und fehlenden Lebenszeichen [HaagGyn:2007]_ [Hochmeister:2]_ \ .
+Kindesgewicht von unter 500 und fehlenden Lebenszeichen [Haag:3]_ [Hochmeister:2]_ \ .
 Aufgrund verschiedener Ursachen kann es zum Absterben der
-Frucht mit einer nachfolgenden Fehlgeburt (Ausstoßung) kommen. Wenn dies
-vor dem Erreichen von 500 geschieht, spricht man von einer *Fehlgeburt*.
+Frucht mit einer nachfolgenden Fehlgeburt (Ausstoßung) kommen.
+Wenn dies vor dem Erreichen von 500 g geschieht,
+spricht man von einer *Fehlgeburt*.
 
 
 Symptome
 ^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -49,36 +53,40 @@ Symptome
         -   Unterbauchschmerzen
 
 Die Symptome sind vor allem davon abhängig, wie weit die Schwangerschaft
-fortgeschritten ist bzw. die Frucht entwickelt ist. Ein sehr früher
+fortgeschritten ist bzw. die Frucht entwickelt ist.
+Ein sehr früher
 Fruchtabgang wird oft nicht einmal bemerkt bzw. mit
 Regelunregelmäßigkeiten verwechselt, oft weiß die Frau nicht einmal,
-dass sie schwanger gewesen ist. Ein Abort macht sich dann vor allem
+dass sie schwanger gewesen ist.
+Ein Abort macht sich dann vor allem
 durch eine *vaginale Blutung* bemerkbar, die mitunter als *"verstärkte
 Regelblutung"* fehlgedeutet wird. Weiters kann es zum *Abgang von
-Gewebeteilen* und *Unterbauchschmerzen* kommen. Eine Fehlgeburt kann
+Gewebeteilen* und *Unterbauchschmerzen* kommen.
+Eine Fehlgeburt kann
 jedoch auch zu einem späteren Zeitpunkt während der Schwangerschaft vor
-Erreichen der 500-Grenze des Kindes vorkommen. [#275]_
+Erreichen der 500-Grenze des Kindes vorkommen\ [#275]_.
 
 
 
 .. [#275]
-   Nach dem Erreichen der 500 g-Marke spricht man von einer *Totgeburt*;
-   für diese gelten z. T. andere rechtliche Rahmenbedingungen (Kind kann
-   einen Vornamen erhalten, Beurkundung im Sterbebuch, [Hochmeister:2]_ ).
+    Nach dem Erreichen der 500 g-Marke spricht man von einer *Totgeburt*;
+    für diese gelten z. T. andere rechtliche Rahmenbedingungen (Kind kann
+    einen Vornamen erhalten, Beurkundung im Sterbebuch, [Hochmeister:2]_ ).
 
 
 
-Anmerkung
-^^^^^^^^^
+.. note::
 
-Sollten Zweifel bestehen, ob es sich um einen Abort handelt, sollte die
-Verdachtsdiagnose *"V.a. Abort"* *vermieden* werden, um die Patientin
-nicht – möglicherweise unnötig – zu beunruhigen. Stattdessen sollte man
-eine korrekte Symptombeschreibeung als Verdachtsdiagnose verwenden, z. B.
-*"Vaginale Blutung in 5. SSW"*.
+    Sollten Zweifel bestehen, ob es sich um einen Abort handelt,
+    sollte die Verdachtsdiagnose *"V. a. Abort"* *vermieden* werden, um die Patientin
+    nicht – möglicherweise unnötig – zu beunruhigen. Stattdessen sollte man
+    eine korrekte Symptombeschreibeung als Verdachtsdiagnose verwenden,
+    z. B. *"Vaginale Blutung in 5. SSW"*.
 
-Sollten Zweifel hinsichtlich der Lebensfähigkeit des Kindes bestehen,
-muss mit einer Reanimation begonnen werden.
+.. important::
+
+    Sollten Zweifel hinsichtlich der Lebensfähigkeit des Kindes bestehen,
+    muss mit einer Reanimation begonnen werden.
 
 
 
@@ -111,10 +119,7 @@ Basismaßnahmen:
 Eileiterschwangerschaft
 -----------------------
 
-Beschreibung
-^^^^^^^^^^^^
-
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Eileiterschwangerschaft
 
@@ -126,7 +131,10 @@ Beschreibung
             -   Akutes Abdomen
             -   Schock
 
-Eine :dfn:`Eileiterschwangerschaft` :index:`\ <! Eileiterschwangerschaft>` ist eine
+Eine
+:dfn:`Eileiterschwangerschaft`
+:index:`\ <Eileiterschwangerschaft>`
+ist eine
 Schwangerschaft, bei der sich die Frucht im Eileiter einninstet. *Term.*
 Tubaria, *Syn.* extrauterine Schwangerschaft.
 Das Problem dabei:
@@ -146,9 +154,6 @@ Abdomens und eines hypovolämischen Schocks.
 
 Maßnahmen: Eileiterschwangerschaft, Verdacht
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. todo:: Maßnahme GO00091C: Anpassung an höherqualifiziertes Personal
-
 Basismaßnahmen
     -   Symptomatische Erstversorgung
 
@@ -158,8 +163,6 @@ Basismaßnahmen
 
 Maßnahmen: Eileiterschwangerschaft, rupturiert
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. todo:: Maßnahme GO00092C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
     -   |TxMassVitMKBes|
@@ -178,7 +181,9 @@ Notfälle in der Spätschwangerschaft
 Vorzeitige Plazentalösung
 -------------------------
 
-Eine :dfn:`vorzeitige Plazentalösung` ist eine Ablösung
+Eine
+:dfn:`vorzeitige Plazentalösung`
+ist eine Ablösung
 des Mutterkuchens (Plazenta) vor
 Beendigung der Geburt.
 
@@ -201,8 +206,6 @@ Symptome eines *akuten Abdomens* zeigen.
 .. _GO45090C:
 .. _m-plazentaloesung:
 
-.. todo:: Maßnahme GO45090C: Anpassung an höherqualifiziertes Personal
-
 Maßnahmen: Vorzeitige Plazentalösung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -223,8 +226,6 @@ Basismaßnahmen
 Vena-cava-Kompressionssyndrom
 -----------------------------
 
-Beschreibung
-^^^^^^^^^^^^
 
 Bei hochschwangeren Frauen kann es vorkommen, dass das *Kind die untere
 Hohlvene der Mutter abdrückt*. Dadurch wird der Blutstrom zum Herzen
@@ -246,8 +247,6 @@ rechts der Körpermitte verläuft.
 Maßnahmen: Vena-cava-Syndrom
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. todo:: Maßnahme GO26051C: Anpassung an höherqualifiziertes Personal
-
 Basismaßnahmen
     -   Linksseitenlage, grundsätzlich immer bei
         hochschwangeren Patientinnen.
@@ -261,25 +260,29 @@ Basismaßnahmen
 Präeklampsie, EPH-Gestose, HELLP-Syndrom, Eklampsie
 ---------------------------------------------------
 
-Die :dfn:`EPH-Gestose` :index:`\ <! EPH-Gestose>`,
-auch :dfn:`Präeklampsie` :index:`\ <! Präeklampsie>`
+Die
+:dfn:`EPH-Gestose`
+:index:`\ <EPH-Gestose>`,
+auch
+:dfn:`Präeklampsie`
+:index:`\ <Präeklampsie>`
 genannt, ist eine gefürchtete Komplikation der Spätschwangerschaft, bei
 der es zu einer Durchblutungsstörung der Gebärmutter, und in weiterer
 Folge zu diversen Komplikationen bei der Mutter kommt. Sie wird in der
 Regel im Rahmen der Mutter-Kind-Pass-Untersuchungen erkannt.
 Die Maximalvariante der Präeklampsie ist das
-:dfn:`HELLP-Syndrom` :index:`\ <! HELLP-Syndrom>`.
+:dfn:`HELLP-Syndrom` :index:`\ <HELLP-Syndrom>`.
 Unbehandelt kann die Präeklampsie und das HELLP-Syndrom
 zu einem *eklamptischen Krampfanfall*
 (:dfn:`Eklampsie` :index:`\ <! Eklampsie>`,
-ähnlich einem "normalen" zerebralen Krampfanfall) und in weiterer Folge
-zum Tod von Mutter und Kind führen. Die Ursachen sind nicht vollständig
-geklärt.
+ähnlich einem "normalen" zerebralen Krampfanfall)
+und in weiterer Folge zum Tod von Mutter und Kind führen.
+Die Ursachen sind nicht vollständig geklärt.
 
 Symptome
 ^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Präeklampsie et al.
 
@@ -305,7 +308,7 @@ Die Präeklampsie ist charakterisiert durch:
 Beim HELLP-Syndrom kommt es zu einem *rechten Oberbauchschmerz*
 (Leberdehnungsschmerz). Bei einer drohenden Eklampsie klagt die
 Patientin über *Kopfschmerzen*, Sehstörungen sowie Übelkeit und
-Erbrechen. (Haag, Hanhart, and Müller 2006b)
+Erbrechen. [Haag:3]_
 
 
 .. _GO14090C:
@@ -313,8 +316,6 @@ Erbrechen. (Haag, Hanhart, and Müller 2006b)
 
 Maßnahmen: Präeklampsie
 ^^^^^^^^^^^^^^^^^^^^^^^
-
-.. todo:: Maßnahme GO14090C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
     -   schonender Transport
@@ -334,8 +335,6 @@ Basismaßnahmen
 
 Maßnahmen: Eklampsie, eklamptischer Krampfanfall
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. todo:: Maßnahme GO15091C: Anpassung an höherqualifiziertes Personal
 
 Grundsätzlich ist so wie bei jedem anderen Krampfanfall zu verfahren,
 vgl. :ref:`Thema-krampfanfall`.
@@ -360,11 +359,8 @@ geburtshilflichen Abteilung vorzustellen.
 .. _GO42090C:
 .. _m-fruchtwasserabgang:
 
-% GO42090C
 Basismaßnahmen: Vorzeitiger Blasensprung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. todo:: Maßnahme GO42090C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
     -   Lagerung: Linksseitenlagerung, Becken erhöht
@@ -397,7 +393,7 @@ Die Geburt verläuft in 3 Phasen:
 Eröffnungsphase
 ---------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Eröffnungsphase
 
@@ -411,40 +407,46 @@ Eröffnungsphase
 
 Die :dfn:`Eröffnungsphase` :index:`\ <! Eröffnungsphase>` beginnt mit den ersten
 regelmäßigen Wehen und endet mit der vollständigen Eröffnung des
-Muttermundes auf 10cm. (Striebel 2010a; Bühling and Friedmann 2004;
-Haag, Hanhart, and Müller 2006a) Durch Zusammenziehen der
+Muttermundes auf 10 cm.
+Durch Zusammenziehen der
 Gebärmuttermuskulatur (Wehen) wird das Kind langsam in den Geburtskanal
-nach unten gepresst. Dadurch verkürzt sich der Gebärmutterhals (Zervix),
+nach unten gepresst.
+Dadurch verkürzt sich der Gebärmutterhals (Zervix),
 und der Muttermund wird eröffnet.
-Der Wehenabstand beträgt ca. 2-10min.
+Der Wehenabstand beträgt ca. 2—10 min.
 Während der Eröffnungsphase kommt es zum Platzen der
-Fruchtblase (:dfn:`Blasensprung` :index:`\ <! Blasensprung>`), dabei geht Fruchtwasser
+Fruchtblase
+(:dfn:`Blasensprung` :index:`\ <Blasensprung>`),
+dabei geht Fruchtwasser
 und etwas blutiges Sekret ab.
 
-Bei Erstgebärenden dauert die Eröffnungsperiode ca. 6-9 h,
-bei Mehrgebärenden ca. 3-7 h (Bühling and Friedmann 2004).
+Bei Erstgebärenden dauert die Eröffnungsperiode ca. 6—9 h,
+bei Mehrgebärenden ca. 3—7 h.
 Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
 
 -   Ab dem Blasensprung darf die Gebärende nicht mehr aufstehen, sondern
     muss liegend transportiert werden. Es besteht die Gefahr eines
     Nabelschnurvorfalls in den Geburtskanal!
 
+[Buehling:2004]_ [Haag:3]_
+
 Austreibungsphase
 -----------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Austreibungsphase
 
         -   Von vollständiger Eröffnung des Muttermundes bis Geburt des Kindes
-        -   Wehen im Abstand von 2–3 min
+        -   Wehen im Abstand von 2–3 min
         -   Presswehen
         -   Dammschutz = Stuhlschutz
         -   Geburt des Kindes
 
-Die :dfn:`Austreibungsphase` :index:`\ <! Austreibungsphase>` beginnt mit der vollständigen
-*Eröffnung* des Muttermundes (10cm) und endet mit der *Geburt* des
-Kindes. (Bühling and Friedmann 2004; Haag, Hanhart, and Müller 2006a)
+Die :dfn:`Austreibungsphase` :index:`\ <Austreibungsphase>`
+beginnt mit der vollständigen
+*Eröffnung* des Muttermundes (10 cm) und endet mit der *Geburt* des
+Kindes.
 Der Wehenabstand beträgt nun *2-3* Minuten. Die Wehen
 werden im Verlauf kraftvoller und die Frau verspürt mit Fortschreiten
 der Geburt einen *Pressdrang* (*Presswehen*). Der Kopf des Kindes wird
@@ -455,26 +457,31 @@ Kind ist durch die Fruchtschmiere rutschig!
 Der Damm
 ^^^^^^^^
 
-Als :dfn:`Damm` :index:`\ <! Damm>` wird das Stück Haut zwischen Scheide und
+Als
+:dfn:`Damm` :index:`\ <Damm>`
+wird das Stück Haut zwischen Scheide und
 Anus bezeichnet.
-Mittels eines Griffes namens :dfn:`Dammschutz` :index:`\ <! Dammschutz>`
+Mittels eines Griffes namens
+:dfn:`Dammschutz` :index:`\ <Dammschutz>`
 kann theoretisch die Wahrscheinlichkeit eines Dammrisses
 minimiert werden. Dabei wird die Hand unterhalb der Scheide angelegt und
-man versucht das Gewebe zu stabilisieren. In der Praxis ist dieser
+man versucht das Gewebe zu stabilisieren.
+In der Praxis ist dieser
 Schutz, insbesonders für darin nicht routiniertes Personal, schwer zu
-erreichen (Bundesverband/Bundesschulung, n.d.).
+erreichen.
 
 Dennoch ist der Dammschutz nicht unwichtig: Durch das Pressen wird nicht
 nur das Kind geboren, sondern in der Regel auch *Stuhl* abgesetzt. Durch
 den Dammschutz, in Verbindung mit einer Unterlage, kann das Kind *vor
-dem Stuhl der Mutter geschützt* werden (:dfn:`Stuhlschutz` :index:`\ <! Stuhlschutz>`).
+dem Stuhl der Mutter geschützt* werden
+(:dfn:`Stuhlschutz` :index:`\ <Stuhlschutz>`).
 
 
 
 Nachgeburtsphase
 ----------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Nachgeburtsphase
 
@@ -503,7 +510,7 @@ Nachgeburtsphase
     Durchtrennung der Nabelschnur, die patientenferne Klemme ist
     durch die Hand verdeckt.
 
-    [WMC: "Jeremykemp" / PD]
+    Ⓒ WMC: "Jeremykemp" Ⓛ PD
 
 .. raw:: latex
 
@@ -514,7 +521,7 @@ Nachgeburtsphase
 
     Abgeklemmte Nabelschnur
 
-    [WMC: "Harmid" / PD]
+    Ⓒ WMC: "Harmid" Ⓛ PD
 
 .. raw:: latex
 
@@ -525,7 +532,7 @@ Nachgeburtsphase
 
     Nabelschnurstumpf nach sieben Tagen
 
-    [WMC: "Fatrabbit" / PD]
+    Ⓒ WMC: "Fatrabbit" Ⓛ PD
 
 .. subfigend::
     :width: 0.32
@@ -548,7 +555,8 @@ Anamnese – Spezielle Fragen
 -   Wehenabstand
 -   Blasensprung?
 -   Komplikationen bekannt?
--   **Mutter-Kind-Pass** :index:`\ <! Mutter-Kind-Pass>` verlangen. Darin stehen mit unter
+-   **Mutter-Kind-Pass** :index:`\ <Mutter-Kind-Pass>` verlangen.
+    Darin stehen mit unter
     wichtige Informationen über die Schwangerschaft bzw. die Geburt.
 -   In welchem Krankenhaus ist die Geburt angemeldet?
 -   SSW, Termin?
@@ -569,7 +577,8 @@ Befindet sich die Mutter noch in der Eröffnungsphase wird ein
 schnellstmöglicher, schonender Transport ins Krankenhaus angestrebt.
 Grundsätzlich soll die Gebärende in, zumindest leichter, *Seitenlage*
 transportiert werden um ein *Vena-cava-Kompressionssyndroms*
-(:ref:`Thema-vena-cava-syndrom`) zu vermeiden. Idealerweise wird nach lins
+(vgl. :ref:`Thema-vena-cava-syndrom`) zu vermeiden.
+Idealerweise wird nach lins
 (Linksseitenlage) gelagert, doch ist das nicht zwingend. Ab dem
 erfolgtem *Blasensprung* darf die werdende Mutter jedenfalls nur mehr
 *liegend* transportiert werden, um einen Nabelschnurvorfall vorzubeugen.
@@ -590,10 +599,6 @@ Geburt Hilfestellung leisten.
 
 Maßnahmen: Spontangeburt
 ------------------------
-
-.. todo:: Maßnahme GO80XX1C: Anpassung an höherqualifiziertes Personal
-
-
 
 Vorbereitung
     -   (Not-)Arzt hinzuziehen
@@ -620,9 +625,6 @@ Geburt
 
 Maßnahmen: Versorgung des Neugeborenen
 --------------------------------------
-
-.. todo:: Maßnahme GY51310C: Anpassung an höherqualifiziertes Personal
-
 
 -   Neugeborenes abrubbeln
 -   Erstbeurteilung:
@@ -844,14 +846,16 @@ Basismaßnahmen
 Peripartale Asphyxie
 ---------------------------
 
-Eine :dfn:`peripartale Asphyxie` :index:`\ <! Asphyxie>`
+Eine
+:dfn:`peripartale Asphyxie`
+:index:`\ <Asphyxie>`
 ist eine Sauerstoffunterversorgung
 (Hypoxie) des Neugeborenen infolge einer atem- oder kreislaufbedingten
 Störung vor, während oder nach der Geburt.
 
 Die möglichen Ursachen für
 die Hypoxie sind vielfältig und umfassen u. a. eine Placenta praevia,
-einen Nabelschnurvorfall, Lageanomalien, eine Frühgeburt, u. v. a. m.
+einen Nabelschnurvorfall, Lageanomalien, eine Frühgeburt, u. v. a. m.
 Wird die Ursache nicht rechtzeitig behoben
 und bleibt die Hypoxie bestehen,
 kommt es zu einer irreperablen Hirnschädigung.
@@ -859,7 +863,7 @@ kommt es zu einer irreperablen Hirnschädigung.
 Symptome
 ^^^^^^^^
 
-Das Leitsymptom einer Asphyxie ist eine *Herzfrequenz < 100/min*, eine
+Das Leitsymptom einer Asphyxie ist eine *Herzfrequenz < 100 / min*, eine
 *unzureichende Atmung* (Schnappatmung, fehlende Atmung) und/oder ein
 *schlaffer Muskeltonus* des Kindes Weitere Hinweise auf eine Asphyxie
 sind eine grünlich-trübe Verfärbung des Fruchtwassers sowie eine
@@ -875,10 +879,8 @@ normal).
 Maßnahmen: Asphyxie des Neugeborenen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. todo:: Maßnahme GP21090C: Anpassung an höherqualifiziertes Personal
-
 Die Behandlung der Asphyxie erfolgt im Rahmen der Versorgung
-des Neugeborenen (:ref:`m-neugeborenes`).
+des Neugeborenen (vgl. :ref:`m-neugeborenes`).
 
 
 Nabelschnurvorfall
@@ -895,9 +897,7 @@ Strangulation des Kindes.
 .. _m-nabelschnurvorfall:
 
 Maßnahmen: Nabelschnurvorfall
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. todo:: Maßnahme GO69000C: Anpassung an höherqualifiziertes Personal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Basismaßnahmen
     -   **Zeitkritisch!**
@@ -913,7 +913,7 @@ Basismaßnahmen
 Die Placenta praevia liegt im Geburtskanal
 ------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Placenta praevia
 
@@ -943,8 +943,6 @@ Unter Wehentätigkeit kommt es zu starken Blutungen aus der Scheide.
 
 Maßnahmen: Placenta praevia bei bevorstehender Geburt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. todo:: Maßnahme GO69041C: Anpassung an höherqualifiziertes Personal
 
 Basismaßnahmen
     -   |TxMassVitMKBes|
@@ -978,8 +976,6 @@ Lageanomalie.
 .. _GO64090C:
 .. _m-pathologische-geburtslagen:
 
-.. todo:: Maßnahme GO64090C: Anpassung an höherqualifiziertes Personal
-
 Maßnahmen: Pathologische Geburtslagen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -1004,7 +1000,7 @@ vor. Es treten während der Wehen plötzlich Schmerzen auf, welche anders
 als Wehenschmerzen empfunden werden. Die Wehen nehmen dann ab oder hören
 plötzlich auf. Damit wird der Geburtsvorgang gestoppt und es herrscht
 Lebensgefahr für die Mutter aufgrund starker Blutungen und für das Kind
-wegen des O2-Mangels.
+wegen des O₂-Mangels.
 
 
 
@@ -1013,9 +1009,6 @@ wegen des O2-Mangels.
 
 Maßnahmen: Uterusruptur
 ^^^^^^^^^^^^^^^^^^^^^^^
-
-.. todo:: Maßnahme GO71010C: Anpassung an höherqualifiziertes Personal
-
 
 Basismaßnahmen
     -   |TxMassVitMK|
@@ -1028,7 +1021,7 @@ Basismaßnahmen
 Blutungen in der Nachgeburtsperiode
 -----------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blutungen in der Nachgeburtsperiode
 
@@ -1039,8 +1032,10 @@ Blutungen in der Nachgeburtsperiode
 Blutungen in der Nachgeburtsperiode können sehr schwerwiegend sein und
 können verschiedene Ursachen haben. Der Blutverlust kann sehr hoch sein
 und vom hypovolämischen Schock bis zum Kreislaufversagen führen. Eine
-häufige Ursache ist die :dfn:`Uterusatonie` :index:`\ <! Uterusatonie>`: Normalerweise
-zieht sich in der Nachgeburtsphase die Uterusmuskulatur zusammen und
+häufige Ursache ist die
+:dfn:`Uterusatonie`
+:index:`\ <Uterusatonie>`:
+Normalerweise zieht sich in der Nachgeburtsphase die Uterusmuskulatur zusammen und
 komprimiert somit die Blutgefäße. Bei der Uterusatonie kommt es jedoch
 zur Erschlaffung (Atonie) der Gebärmutter, die Folge sind
 lebensbedrohliche Blutungen durch das Fehlen der Kontraktion des Uterus
@@ -1073,7 +1068,7 @@ Sonstige gynäkologische Erkrankungen und Notfälle
 Vaginale Blutungen
 ==================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Vaginale Blutung
 
@@ -1089,7 +1084,7 @@ jede vaginale Blutung abgeklärt gehört, da sich dahinter auch ein
 Tumorgeschehen (besonders bei Patientinnen in der Menopause) verstecken
 kann. Darüber hinaus kommt eine verstärkte Monatsblutung, Verletzung
 (nach Sturz, Geschlechtsverkehr oder nach Vergewaltigungen),
-Defloration [#277]_ oder Blutungen im Rahmen einer Schwangerschaft in
+Defloration\ [#277]_ oder Blutungen im Rahmen einer Schwangerschaft in
 Betracht. Bei vaginalen Blutungen bei Kindern darf man *nicht*
 automatisch von einem erfolgten Missbrauch ausgehen. Eine akute vitale
 Bedrohung besteht seltenst, dennoch muss sie routinemäßig vor allem
@@ -1116,7 +1111,7 @@ Basismaßnahmen
 
 .. rubric:: Literatur
 
-[HaagGyn:2007]_ [Buehling:2004]_ [OHCSP:7]_ [Nilsson:1997]_
+[Haag:3]_ [Buehling:2004]_ [OHCSP:7]_ [Nilsson:1997]_
 
 
 

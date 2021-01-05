@@ -38,7 +38,10 @@ Allgemeines zu Medikamenten
 Stärke: Wirkstoff, Dosis, Konzentration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Die :dfn:`Stärke des Arzneimittels` :index:`\ <! Stärke des Arzneimittels>` ist je nach
+Die
+:dfn:`Stärke des Arzneimittels`
+:index:`\ <Stärke des Arzneimittels>`
+ist je nach
 Verabreichungsform der Wirkstoffanteil pro Dosierungs-, Volumens- oder
 Gewichtseinheit. Bei Medikamenten wird normalerweise die Menge des
 Wirkstoffes (z. B. in ) angegeben. Manchmal erfolgt die Angabe auch in
@@ -50,32 +53,63 @@ NaCl , Propofol , Adrenalin usw.). Ein Prozent enspricht dann
 umgerechnet 10mg/ML bzw. entspricht .
 
 
-.. table:: Typische Angaben zu Wirkstoffmenge und Konzentration. Beachte: Gleichlautende Spezialitäten können erheblich unterschiedliche Wirkstoffkonzentrationen sowie Wirkstoff- und Füllmengen aufweisen!
+.. list-table:: Typische Angaben zu Wirkstoffmenge und Konzentration. Beachte: Gleichlautende Spezialitäten können erheblich unterschiedliche Wirkstoffkonzentrationen sowie Wirkstoff- und Füllmengen aufweisen!
+    :header-rows: 1
 
-    +-----------------------+----------------------+---------------+---------------------+------------------------+
-    | **Form**              | **Wirkstoffmenge**   | **Volumen**   | **Konzentration**   | **Beispiele**          |
-    +-----------------------+----------------------+---------------+---------------------+------------------------+
-    | Ampulle               | 2 mg                 | 20 ml         | 1 mL = 0,1 mg       | L-Adrenalin            |
-    +-----------------------+----------------------+---------------+---------------------+------------------------+
-    | Ampulle               | 5 mg                 | 5 ml          |                     | Dormicum               |
-    +-----------------------+----------------------+---------------+---------------------+------------------------+
-    | Ampulle               | 15 mg                | 3 ml          |                     | Dormicum               |
-    +-----------------------+----------------------+---------------+---------------------+------------------------+
-    | Ampulle               | 25 mg                | 5 ml          |                     | Ketanest               |
-    +-----------------------+----------------------+---------------+---------------------+------------------------+
-    | Ampulle               | 50 mg                | 2 ml          |                     | Ketanest               |
-    +-----------------------+----------------------+---------------+---------------------+------------------------+
-    | Stechampulle          | 500 mg               | 50 ml         | =                   | Propofol               |
-    +-----------------------+----------------------+---------------+---------------------+------------------------+
-    | Stechampulle          | 1000 mg              | 50 ml         | =                   | Propofol               |
-    +-----------------------+----------------------+---------------+---------------------+------------------------+
-    | Tabletten             | 500 mg               |               |                     | Parkemed, Mexalen, …   |
-    +-----------------------+----------------------+---------------+---------------------+------------------------+
-    | Trockenstechampulle   | 4000 IE              |               |                     | Heparin                |
-    +-----------------------+----------------------+---------------+---------------------+------------------------+
+    *   -   Form
+        -   Wirkstoffmenge
+        -   Volumen
+        -   Konzentration
+        -   Beispiele
+    *   -   Ampulle
+        -   2 mg
+        -   20 ml
+        -   1 mL = 0,1 mg
+        -   L-Adrenalin
+    *   -   Ampulle
+        -   5 mg
+        -   5 ml
+        -
+        -   Dormicum
+    *   -   Ampulle
+        -   15 mg
+        -   3 ml
+        -
+        -   Dormicum
+    *   -   Ampulle
+        -   25 mg
+        -   5 ml
+        -
+        -   Ketanest
+    *   -   Ampulle
+        -   50 mg
+        -   2 ml
+        -
+        -   Ketanest
+    *   -   Stechampulle
+        -   500 mg
+        -   50 ml
+        -   =
+        -   Propofol
+    *   -   Stechampulle
+        -   1000 mg
+        -   50 ml
+        -   =
+        -   Propofol
+    *   -   Tabletten
+        -   500 mg
+        -
+        -
+        -   Parkemed, Mexalen, …
+    *   -   Trockenstechampulle
+        -   4000 IE
+        -
+        -
+        -   Heparin
 
-Viele Medikamente können auch zur besseren Dosierung mit *geeigneten
-Substanzen* (siehe Packungsbeilage) verdünnt werden:
+
+Viele Medikamente können auch zur besseren Dosierung mit
+*geeigneten Substanzen* (siehe Packungsbeilage) verdünnt werden:
 
 -  Ampulle mit Wirkstoff 15 mg in 3 ml: Konzentration 5 mg / mL
 
@@ -84,21 +118,27 @@ Substanzen* (siehe Packungsbeilage) verdünnt werden:
 
 Manche Medikamente liegen als *Trockensubstanz* in einer
 *Trockenstechampulle* vor, welche vor Verwendung erst mit einem
-*geeigneten* Lösungsmittel aufgelöst werden muss. Das erforderliche
-Lösungmittel ist vom Medikament abhängig. Bei Verwendung eines falschen
-Lösungsmittel kann es z. B. zu Ausflockungen, Wirkminderungen o.ä.
-kommen, das Medikament ist damit verdorben und darf keinesfalls
+*geeigneten* Lösungsmittel aufgelöst werden muss.
+Das erforderliche Lösungmittel ist vom Medikament abhängig.
+Bei Verwendung eines falschen Lösungsmittel kann es z. B. zu
+Ausflockungen,
+Wirkminderungen
+o. ä.
+kommen,
+das Medikament ist damit verdorben und darf keinesfalls
 verwendet werden.
 
--  Medikamente sind oft auch mit *gleichem Namen* in unterschiedlichen
-   Konzentrationen erhältlich (z. B. Dormicum, Ketanest).
+.. admonition:: Synopsis
 
-    -  Beim Zubereiten bzw. Aufziehen von Medikamenten muss man sehr
-       genau auf die Wirkstoffmenge, das Volumen und die Konzentration
-       achten.
+    -   Medikamente sind oft auch mit *gleichem Namen* in unterschiedlichen
+        Konzentrationen erhältlich (z. B. Dormicum, Ketanest).
 
-    -  Beim Auflösen oder Verdünnen von Medikamenten muss darauf
-       geachtet werden, eine geeignete Flüssigkeit zu verwenden!
+        -   Beim Zubereiten bzw. Aufziehen von Medikamenten muss man sehr
+            genau auf die Wirkstoffmenge, das Volumen und die Konzentration
+            achten.
+
+        -   Beim Auflösen oder Verdünnen von Medikamenten muss darauf
+            geachtet werden, eine geeignete Flüssigkeit zu verwenden!
 
 Verabreichungsarten
 ^^^^^^^^^^^^^^^^^^^
@@ -109,48 +149,65 @@ entweder **invasiv** :index:`\ <invasiv>` (verletzend) oder **nicht-invasiv** :i
 Invasiv
 ^^^^^^^
 
+.. only:: not nosidebar
+
+    .. sidebar:: Invasive Applikationswege
+
+        -   Intravenös (i.v.)
+        -   Intramuskulär (i.m.)
+        -   Subkutan (s.c.)
+        -   Intraossär (i.o.)
+
 Bei der invasiven Verabreichung wird das Medikament mittels einer Kanüle
 in das jeweilige Gewebe bzw. Gefäß dem Patienten injiziert. Diese
 Verabreichungsarten sind i.d.R. den Ärzten, besonders dafür geschulten
 Sanitätern, diplomiertem Krankenpflegepersonal oder Hebammen
 vorbehalten. Die gängigen Injektionsarten sind:
 
--  *Intravenöse Injektion* (**i.v.** :index:`\ <i.v.>`): Das Medikament wird
-   mittels Kanüle, Venenverweilkanüle o.ä. direkt in eine *Vene*
-   gespritzt.
+-   *Intravenöse Injektion*
+    (**i.v.** :index:`\ <i.v.>`):
+    Das Medikament wird
+    mittels Kanüle, Venenverweilkanüle o.ä. direkt in eine *Vene*
+    gespritzt.
 
--  *Intramuskuläre Injektion* (**i.m.** :index:`\ <i.m.>`): Das Medikament wird
-   in den *Muskel* verabreicht.
+-   *Intramuskuläre Injektion*
+    (**i.m.** :index:`\ <i.m.>`):
+    Das Medikament wird
+    in den *Muskel* verabreicht.
 
--  *Subkutane Injektion* (**s.c.** :index:`\ <s.c.>`): Die Substanz wird in die
-   Fettschicht der Unterhaut (Subkutis) eingespritzt.
+-   *Subkutane Injektion*
+    (**s.c.** :index:`\ <s.c.>`):
+    Die Substanz wird in die
+    Fettschicht der Unterhaut (Subkutis) eingespritzt.
 
--  Eine Besonderheit ist der *intraossäre Zugang* (**i.o.** :index:`\ <i.o.>`),
-   bei dem die Substanz mittels einer speziellen Kanüle in die
-   Knochenmarkhöhle verabreicht wird.
+-   Eine Besonderheit ist der *intraossäre Zugang*
+    (**i.o.** :index:`\ <i.o.>`),
+    bei dem die Substanz mittels einer speziellen Kanüle in die
+    Knochenmarkhöhle verabreicht wird.
 
--  Intravenös (i.v.)
 
--  Intramuskulär (i.m.)
-
--  Subkutan (s.c.)
-
--  Intraossär (i.o.)
 
 Nicht invasiv
 ^^^^^^^^^^^^^
 
+.. only:: not nosidebar
+
+    .. sidebar:: Nicht-invasive Applikationwege
+
+        -   Oral
+        -   Sublingual
+        -   Perkutan
+
 Bei der nicht invasiven Verabreichung wird das Medikament über eine
-Schleimhaut oder direkt über die Haut aufgenommen. Für die **orale** :index:`\ <orale>` Aufnahme muss das Arzneimittel geschluckt werden. Bei der *sublingualen* :index:`\ <sublingual>` Methode kommt die Substanz unter
-die Zunge des Patienten. Bei der *perkutanen* :index:`\ <perkutan>`
+Schleimhaut oder direkt über die Haut aufgenommen.
+Für die **orale** :index:`\ <orale>` Aufnahme muss das Arzneimittel geschluckt werden.
+Bei der *sublingualen* :index:`\ <sublingual>` Methode kommt die Substanz unter
+die Zunge des Patienten.
+Bei der *perkutanen* :index:`\ <perkutan>`
 Verabreichung wird das Medikament auf die Haut aufgetragen und
 aufgenommen.
 
--  Oral
 
--  Sublingual
-
--  Perkutan
 
 **********************************************
 Aufziehen eines Medikamentes aus einer Ampulle
@@ -169,86 +226,60 @@ kann sonst zu Infektionen kommen.
 Material
 ========
 
--  Spritze, passende Größe
-
--  Kanüle(n)
-
--  Ampulle mit Medikament
-
--  Trockene Tupfer
-
--  Nadelabwurfbehälter
-
--  Ggfs. Verschlussstoppel, Permanentstift
+-   Spritze, passende Größe
+-   Kanüle(n)
+-   Ampulle mit Medikament
+-   Trockene Tupfer
+-   Nadelabwurfbehälter
+-   Ggfs. Verschlussstoppel, Permanentstift
 
 Vorgehen
 ========
 
-#. Verschlossene *Ampulle vorzeigen* bevor sie geöffnet wird.
+#.  Verschlossene *Ampulle vorzeigen* bevor sie geöffnet wird.
 
-#. *Kontrolle* Ablaufdatum und Inhalt: Verfärbung, Ausflockung?
+#.  *Kontrolle* Ablaufdatum und Inhalt: Verfärbung, Ausflockung?
 
-#. *Öffnen* der Ampulle:
+#.  *Öffnen* der Ampulle:
 
-   -  Glasampulle:
+    -   Glasampulle:
 
-      Ampullenspitze beklopfen, darauf achten, dass sich keine
-      Flüssigkeit im Ampullenkopf mehr befindet
+        Ampullenspitze beklopfen, darauf achten, dass sich keine
+        Flüssigkeit im Ampullenkopf mehr befindet
 
-      Öffnen der Medikamenten-Ampulle mit Tupfer, roter Punkt weist zum
-      Körper
+        Öffnen der Medikamenten-Ampulle mit Tupfer, roter Punkt weist zum
+        Körper
 
-   -  Plastikampulle mit "Dreh-und-Drink"-Verschluss: Verschlussknopf
-      abdrehen.
+   -    Plastikampulle mit "Dreh-und-Drink"-Verschluss: Verschlussknopf
+        abdrehen.
 
-#. Ampulle abstellen.
+#.  Ampulle abstellen.
+#.  *Spritzenverpackung öffnen*:
+    aufschälen, Spritze in Verpackung lassen.
+#.  *Kanülenverpackung öffnen*: aufschälen
+#.  *Spritze auf Kanüle* aufstecken.
+#.  *Kanülenabdeckung entfernen* (nicht abdrehen, sondern abziehen!)
+#.  *Kanüle in Ampulle* einführen
 
-#. *Spritzenverpackung öffnen*: aufschälen, Spritze in Verpackung
-   lassen.
-
-#. *Kanülenverpackung öffnen*: aufschälen
-
-#. *Spritze auf Kanüle* aufstecken.
-
-#. *Kanülenabdeckung entfernen* (nicht abdrehen, sondern abziehen!)
-
-#. *Kanüle in Ampulle* einführen
-
-   Beim Einführen der Kanüle in die Ampulle den Ampullenrand nicht
-   berühren.
-
-#. *Aufziehen* des Medikamentes.
-
-#. Verabreichung:
-
-#. Kanüle *händisch abziehen* und in den Nadelabwurfbehälter verwerfen –
-   **Keinesfalls Kanüle am Nadelabwurfbehälter abstreifen
-   (Kontamination)!**
-
-#. *Entlüften*
-
-#. Wird das Medikament nicht sofort verwendet, Spritze mit Stoppel
-   verschließen und Ampulle ankleben
-
-#. Spritze übergeben, Ampulle zeigen
-
-#. Gummimembran desinfizieren.
-
-#. Kanüle nicht bis zum Schaft einstechen.
-
-#. Medikament zuspritzen.
-
-#. Beschriften der Flasche.
-
-#. *Kanülengröße* erfragen
-
-#. *Aufziehkanüle* **händisch** entfernen
-
-#. *Entlüften*
-
-#. *Spritzkanüle* aufstecken
-
-#. Spritze mit Schutzkappe über Kanüle reichen, Ampulle zeigen
+    Beim Einführen der Kanüle in die Ampulle den Ampullenrand nicht
+    berühren.
+#.  *Aufziehen* des Medikamentes.
+#.  Verabreichung:
+#.  Kanüle *händisch abziehen* und in den Nadelabwurfbehälter verwerfen –
+    **Keinesfalls Kanüle am Nadelabwurfbehälter abstreifen (Kontamination)!**
+#.  *Entlüften*
+#.  Wird das Medikament nicht sofort verwendet, Spritze mit Stoppel
+    verschließen und Ampulle ankleben
+#.  Spritze übergeben, Ampulle zeigen
+#.  Gummimembran desinfizieren.
+#.  Kanüle nicht bis zum Schaft einstechen.
+#.  Medikament zuspritzen.
+#.  Beschriften der Flasche.
+#.  *Kanülengröße* erfragen
+#.  *Aufziehkanüle* **händisch** entfernen
+#.  *Entlüften*
+#.  *Spritzkanüle* aufstecken
+#.  Spritze mit Schutzkappe über Kanüle reichen, Ampulle zeigen
 
 
 
@@ -314,59 +345,45 @@ Vorbereitung einer Infusion
 Material
 ========
 
--  Infusion (Flasche, Beutel)
-
--  Infusionsbesteck
-
--  Aufhängevorrichtung
-
--  Alkoholhaltiges Desinfektionsmittel
-
--  einige saubere Tupfer
-
--  Permanentmarker
+-   Infusion (Flasche, Beutel)
+-   Infusionsbesteck
+-   Aufhängevorrichtung
+-   Alkoholhaltiges Desinfektionsmittel
+-   einige saubere Tupfer
+-   Permanentmarker
 
 Vorgehen
 ========
 
-#. Ggfs. *Aufhängevorrichtung* auf Flasche aufsetzen
+#.  Ggfs. *Aufhängevorrichtung* auf Flasche aufsetzen
 
-#. *Abdeckung* entfernen (Membranschutz)
+#.  *Abdeckung* entfernen (Membranschutz)
 
-#. Ggfs. *Wischdesinfektion* der Gummimembran
+#.  Ggfs. *Wischdesinfektion* der Gummimembran
 
-   Alkoholgetränkter Tupfer kann während weiterer Vorbereitung auf
-   Membran belassen werden.
+    Alkoholgetränkter Tupfer kann während weiterer Vorbereitung auf
+    Membran belassen werden.
 
-#. *Infusionsbesteck montieren*
+#.  *Infusionsbesteck montieren*
 
-   #. *Durchflußregler schließen* (Radklemme)
+    #.  *Durchflußregler schließen* (Radklemme)
+    #.  Einstich des Tropfkammerdorns in Infusionsflasche mit
+        geschlossenem Lüftungsventil und geschlossener Radklemme
+    #.  Dorn der Tropfkammer und Gummimembran der Infusionsflasche dürfen
+        nicht berührt werden!
 
-   #. Einstich des Tropfkammerdorns in Infusionsflasche mit
-      geschlossenem Lüftungsventil und geschlossener Radklemme
+#.  *Infusionsschlauch füllen*
 
-   #. Dorn der Tropfkammer und Gummimembran der Infusionsflasche dürfen
-      nicht berührt werden!
-
-#. *Infusionsschlauch füllen*
-
-   #. Flasche wenden und hochhalten
-
-   #. Tropfkammerluftventil öffnen
-
-   #. Tropfkammer durch Zusammendrücken bis zur Hälfte füllen
-
-   #. Konusabdeckung des Infusionsschlauchs am anderen Ende muss bei der
-      Belüftung nicht entfernt werden
-
-   #. Infusionsflasche und Ende des Infusionsschlauchs mit nicht
-      dominanter Hand halten
-
-   #. Radklemme öffnen
-
-   #. Infusionsschlauch entlüften
-
-   #. Radklemme schließen
+    #.  Flasche wenden und hochhalten
+    #.  Tropfkammerluftventil öffnen
+    #.  Tropfkammer durch Zusammendrücken bis zur Hälfte füllen
+    #.  Konusabdeckung des Infusionsschlauchs am anderen Ende muss bei der
+        Belüftung nicht entfernt werden
+    #.  Infusionsflasche und Ende des Infusionsschlauchs mit nicht
+        dominanter Hand halten
+    #.  Radklemme öffnen
+    #.  Infusionsschlauch entlüften
+    #.  Radklemme schließen
 
 
 .. subfigstart::
@@ -376,7 +393,7 @@ Vorgehen
 
     Infusionsbesteck
 
-    *Christoph Pallinger*
+    Ⓒ Christoph Pallinger :term:`Ⓛ MfG`
 
 .. raw:: latex
 
@@ -388,7 +405,7 @@ Vorgehen
     Beispiele für Infusionsbeutel und
     -flaschen
 
-    *Christoph Pallinger*
+    Ⓒ Christoph Pallinger :term:`Ⓛ MfG`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Tropfkammer-Live-00441pt.*
     :width: 100%
@@ -441,12 +458,21 @@ Vorgehen
 
 
 
-*****************************
-Venenverweilkanüle: Assistenz
-*****************************
+**********************************************************
+Periphere Venenverweilkanüle: Assistenz
+**********************************************************
 
-Beschreibung
-============
+.. only:: not nosidebar
+
+    .. sidebar:: Periphere Venenverweilkanüle
+
+        -   Kunststoffschlauch, der in der Vene zu liegen kommt
+        -   Konnektionsstelle für Infusionen
+        -   Konus mit Rückschlagventil
+        -   Führungskanüle (*Mandrin*)
+        -   Verschiedene Größen, farbcodiert. Standard: *grün*, rosa bei
+            schlechten Venen
+        -   Gebräuchliche Marken: z. B. *Venflon*, *Braunüle*
 
 Periphere Venenverweilkanülen werden routinemäßig zur intravenösen Gabe
 von Medikamenten bzw. Infusionen verwendet. Sie bestehen aus einem
@@ -464,110 +490,86 @@ farbcodiert. Normalerweise werden *grüne* Venenverweilkanülen bei
 Erwachsenen verwendet, bzw. rosafarbene bei schlechten
 Venenverhältnissen.
 
--  Kunststoffschlauch, der in der Vene zu liegen kommt
 
--  Konnektionsstelle für Infusionen
+.. list-table:: Farbcodierung von peripheren Venenverweilkanülen
+    :header-rows: 1
 
--  Konus mit Rückschlagventil
-
--  Führungskanüle (*Mandrin*)
-
--  Verschiedene Größen, farbcodiert. Standard: *grün*, rosa bei
-   schlechten Venen
-
--  Gebräuchliche Marken: z. B. *Venflon*, *Braunüle*
-
-.. todo::
-
-    Bild: "Eine periphere Venenverweilkanüle (Venflon), in ihre Einzelbestandteile zerlegt
-
-
-.. todo: Table Venflon Größen
-
-    ::
-
-        m1.5619999cmcccll
-
-        **Farbcode** &
-
-        & **Gauge** &
-
-        | & **Länge** & **Durchfluss**
-        | & & &Ø & & [!!! NICEFRAC !!! mlmin]
-        | blau & Sehr dünn & 22 & 0,5 x 0,8 & 25 & 25
-        | rosa & dünn & 20 & 0,7 x 1,0 & 32 & 55
-        | grün & normal & 18 & 0,9 x 1,2 & 40 & 90
-        | weiß & dick & 17 & 1,1 x 1,4 & 42 & 135
-        | grau & Sehr dick & 16 & 1,3 x 1,7 & 42 & 170
-        | orange & Noch dicker & 14 & 1,6 x 2,1 & 42 & 265
+    *   -   Farbcode
+        -   Gauge
+        -   Länge
+        -   Durchfluss [ml / min]
+    *   -   blau
+        -   Sehr dünn
+        -   22
+        -   25
+    *   -   rosa
+        -   dünn
+        -   20
+        -   55
+    *   -   grün
+        -   normal
+        -   18
+        -   90
+    *   -   weiß
+        -   dick
+        -   17
+        -   135
+    *   -   grau
+        -   Sehr dick
+        -   16
+        -   170
+    *   -   orange
+        -   Noch dicker
+        -   14
+        -   265
 
 Material
 ========
 
--  Nierentasse
+-   Nierentasse
+-   Staubinde
 
--  Staubinde
+    -   Venflon:
+    -   Die Größe (= Farbe) ist vom Durchführenden vorher zu erfragen!
+    -   Die Flügel werden hinunter geklappt
+    -   Die farbige Lasche des Zuspritzventils in rechten Winkel zur
+        Venflonachse stellen
 
--  Venflon:
+-   Einmalverschlusskappe ("roter Stoppel")
+-   Fixierungspflaster und evtl. zusätzliches Fixationsmaterial
+-   Trockene Tupfer
+-   Desinfektions-Tupfer
+-   Spülung, wahlweise:
 
-   -  Die Größe (= Farbe) ist vom Durchführenden vorher zu erfragen!
+    -   Spritze mit 5—10 ml Spülflüssigkeit (NaCl 0,9%), oder
+    -   Infusion
 
-   -  Die Flügel werden hinunter geklappt
-
-   -  Die farbige Lasche des Zuspritzventils in rechten Winkel zur
-      Venflonachse stellen
-
--  Einmalverschlusskappe ("roter Stoppel")
-
--  Fixierungspflaster und evtl. zusätzliches Fixationsmaterial
-
--  Trockene Tupfer
-
--  Desinfektions-Tupfer
-
--  Spülung, wahlweise:
-
-   -  Spritze mit 5-10 ml Spülflüssigkeit (NaCl 0,9%), oder
-
-   -  Infusion
-
--  3-Wege-Hahn (optional)
-
--  (Faserschreiber)
-
--  Nadelabwurfbehälter
+-   3-Wege-Hahn (optional)
+-   (Faserschreiber)
+-   Nadelabwurfbehälter
 
 Assistenz
 =========
 
-#. Ggfs. *3-Wege-Hahn spülen*
+#.  Ggfs. *3-Wege-Hahn spülen*
 
     -   Spritze mit Spülflüssigkeit ansetzen und durchspülen
-
     -   Alternativ, bei Verwendung mit Infusion: 3-Wege-Hahn an
         Infusionsbesteck anschließen und mit Infusionslösung durchspülen
 
 #.  *Nadelabwurfbehälter* in Reichweite des Durchführenden bereitstellen,
     sodass er später den Mandrin abwerfen kann.
-
 #.  *Stauschlauch* zureichen
-
 #.  Der Durchführende legt nun den Stauschlauch an, staut, und sucht
     eine passende Vene für die Punktion.
-
 #.  *Alko-Tupfer zureichen*: Mit geöffneter Verpackung sodass dieser
     entnommen werden kann
-
 #.  *Venenverweilkanüle zureichen*: An der Schutzkappe halten, sodass der
     Durchführende die Verweilkanüle abziehen kann
-
 #.  Der Durchführende punktiert nun die Vene.
-
 #.  *Trockene Tupfer* zureichen
-
 #.  Je nach Situation 3-Wege-Hahn, Stoppel und Spülung oder
     Infusionsschlauch zureichen
-
 #.  *Fixierpflaster* zureichen
 
 .. todo:: Bilder
@@ -575,9 +577,8 @@ Assistenz
     - Anlage einer periph. Venenverweilkanüle
     - Eine fixierte Venenverweilkanüle mit Infusion
 
+.. rubric:: Literatur
 
-!!! LITERARY !!! (Flake and Runggaldier 2008)
-
+[ArbeitstechnikenAZ:1]_
 [Hildebrand:4]_
-
-(Blacky, Schahawi, et al. 2011) !!! LITERARY !!!
+[FamPropAeGruFert:2011]_

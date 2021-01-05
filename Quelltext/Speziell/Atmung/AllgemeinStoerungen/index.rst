@@ -13,7 +13,7 @@
 Allgemein: Störungen der Atemwege und der Atmung (#33)
 *******************************************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Atemstörungen
 
@@ -46,7 +46,7 @@ Atemnot.
 Gefahr der Ateminsuffizienz
 ===========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gefahr der Ateminsuffizienz
 
@@ -106,7 +106,7 @@ Befunde
 =======
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Befunde
 

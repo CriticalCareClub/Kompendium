@@ -73,7 +73,7 @@ Gefahren:
 Ursachen
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Ursachen
 
@@ -137,7 +137,7 @@ Ursachen auf.
 Bewusstseinsgrad
 ================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Bewusstseinsgrad: W–A–S–B
 
@@ -279,14 +279,14 @@ Hirndruckzeichen und Hirnstammeinklemmung
 Hirndruckzeichen
 ----------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Hirndruckzeichen
 
-        -   ``3`` Bewusstseinsstörungen
-        -   ``4`` Übelkeit, Erbrechen
-        -   ``C`` HF\ ↓, RR\ ↑
-        -   ``D`` Ungleichweite Pupillen, verlangsamte Lichtreaktion
+        -   ③ Bewusstseinsstörungen
+        -   ④ Übelkeit, Erbrechen
+        -   Ⓒ HF\ ↓, RR\ ↑
+        -   Ⓓ Ungleichweite Pupillen, verlangsamte Lichtreaktion
         -   Strecksynergismen
 
 **Hirndruckzeichen** :index:`\ <Hirndruckzeichen>` deuten auf
@@ -299,17 +299,17 @@ Hirn drück sich selbst ab."*).
 
 Es kommt es zu einer typischen Kombination von Symptomen:
 
--   ``3`` *Bewusstseinsstörungen*
+-   ③ *Bewusstseinsstörungen*
 
--   ``4`` *Übelkeit* und Erbrechen, meist in Verbindung mit Kopfschmerzen
+-   ④ *Übelkeit* und Erbrechen, meist in Verbindung mit Kopfschmerzen
 
--   ``B`` *Atmung*: Evtl. unregelmäßig
+-   Ⓑ *Atmung*: Evtl. unregelmäßig
 
--   ``C`` *Kreislauf*: Der Patient ist *hyperton*, aber *bradykard*
+-   Ⓒ *Kreislauf*: Der Patient ist *hyperton*, aber *bradykard*
     (*HF\ ↓, RR\ ↑*), der Puls ist
     langsam, aber äußerst stark spürbar (*Druckpuls*).
 
--   ``D`` *Pupillen*:
+-   Ⓓ *Pupillen*:
     Typisch für das späte Stadium ist die *Ungleichheit
     der Pupillen* (Anisokorie), bzw. eine verlangsamte Lichtreaktion.
 
@@ -330,7 +330,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
 Hirnstammeinklemmung
 --------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Hirnstammeinklemmung
 
@@ -357,44 +357,56 @@ Kreislaufzentrum befindet besteht dabei akute **Lebensgefahr**!
 Ein Schlaganfall kann ischämisch oder durch eine Blutung entstehen
 ******************************************************************
 
+.. index::
+    single: Insult; ischämischer
+    single: Insult; trockener
+    single: Insult; hämorrhagischer
+    single: Insult; blutiger
+
 
 Arten
 =====
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Insult: Arten
 
-        -   "Trockener" Insult
-        -   "Blutiger" Insult
+        -   Ischämischer ("trockener") Insult
+        -   Hämorrhagischer ("blutiger") Insult
 
 Grundsätzlich gibt es 2 Formen, die aber vor Ort nicht unterschieden
 werden können:
 
--   *:dfn:`Trockener Insult` :index:`\ <! Trockener Insult>`*:
-    *Ischämie* :index:`\ <Ischämie!trockener Insult>`.
+-   :dfn:`Ischämischer Insult` ("trocken"):
+    :index:`\ <Ischämie!trockener Insult>`.
     Verschluss eines Hirngefäßes mit
-    anschließendem Absterben der versorgten Hirnregion
+    anschließendem Absterben der versorgten Hirnregion.
+    Vgl. :ref:`Ischaemie`.
 
--   *:dfn:`Blutiger Insult` :index:`\ <! Blutiger Insult>`*:
+-   :dfn:`Hämorrhagischer Insult` ("blutig"):
     *Hirnblutung*, z. B. durch
-    Platzen eines Aneurysmas eines Hirngefäßes, kann spontan oder
+    Ruptur eines Aneurysmas eines Hirngefäßes,
+    kann spontan oder
     aufgrund eines Traumas auftreten.
 
+.. index::
+    single: TIA
+    single: Transitorisch-Ischämische Attacke
+    single: Attacke; Transitorisch-Ischämische -
 
 .. _Thema-tia:
 
 TIA
 ===
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: TIA
 
         -   Transitorisch-Ischämische Attacke.
         -   Symptome < 24 h.
 
-:dfn:`TIA` :index:`\ <! TIA>` ist die Abkürzung für
+:dfn:`TIA` :index:`\ <TIA>` ist die Abkürzung für
 *Transitorisch-Ischämische Attacke*.
 Von einer TIA spricht man,
 wenn die Symptome innerhalb von 24 Stunden vergehen.
@@ -407,7 +419,7 @@ Symptome
 ========
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -419,13 +431,13 @@ Symptome
         -   Sehstörungen
         -   Bewusstseinsstörungen
         -   Kopfschmerzen
-        -   Hirndruckzeichen
+        -   Hirndruckzeichen:
 
-        -    Übelkeit, Erbrechen
-        -    **3** Bewusstseinsstörungen
-        -    **C** HF\ ↓, RR\ ↑
-        -    **D** Ungleichweite Pupillen, verlangsamte Lichtreaktion
-        -    Strecksynergismen
+            -   Übelkeit, Erbrechen
+            -   **3** Bewusstseinsstörungen
+            -   **C** HF\ ↓, RR\ ↑
+            -   **D** Ungleichweite Pupillen, verlangsamte Lichtreaktion
+            -   Strecksynergismen
 
 Die diversen *Funktionsareale* (Sprachzentren, Sehzentrum, motorische
 Zentren, …) sind in verschiedenen Regionen des Hirns verteilt.
@@ -493,7 +505,7 @@ Verschlechterung ist jederzeit möglich!
 Differentialdiagnose
 ====================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Differentialdiagnosen
 
@@ -515,7 +527,7 @@ weitergehende Untersuchungen oft schwierig bzw. schwer möglich.
 Spezielle Anamnese
 ==================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Spezielle Anamnese
 
@@ -641,7 +653,7 @@ Vom Gehirn ausgehende Krämpfe: Zerebrale Krampfanfälle
 Beschreibung und Einteilung
 ===========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Krampfanfälle: Einteilung
 
@@ -733,7 +745,7 @@ Der fokale Anfall wird auch "petit mal"\ [#PetitMal]_ genannt.
 Generalisierter Anfall
 ======================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Generalisierter Krampfanfall
 
@@ -813,7 +825,7 @@ Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
 Status Epilepticus
 ==================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Status epilepticus
 
@@ -923,7 +935,7 @@ Besondere Krampfanfälle
 Fieberkrampf
 ------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Fieberkrampf
 
@@ -951,7 +963,7 @@ es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben
 Eklamptischer Krampfanfall während der Schwangerschaft
 ------------------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Krampfanfall in der Schwangerschaft
 
@@ -973,7 +985,7 @@ Probleme mit der Wirbelsäule: Lumbago, Lumbo-ischialgie und Bandscheibenvorfall
 Symptome
 ========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 

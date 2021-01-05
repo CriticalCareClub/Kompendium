@@ -109,7 +109,7 @@ welche bei besonderen Ereignissen zum Einsatz kommen können.
 Aufgaben
 ^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Aufgaben
 
@@ -493,7 +493,7 @@ organisationsspezifische andere Einsatzmitteltypen zum Einsatz.
 Krankentransportwagen – KTW
 ---------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: KTW
 
@@ -521,7 +521,7 @@ mindestestens 2 Fachkräften besetzt
 Rettungstransportwagen – RTW
 ----------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: RTW
 
@@ -560,7 +560,7 @@ ist mit mindestens 2, oft auch 3 Fachkräften besetzt
 Notarztwagen – NAW
 ------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: NAW
 
@@ -623,7 +623,7 @@ mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifikation:
 Notarzteinsatzfahrzeug – NEF
 ----------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: NEF
 
@@ -652,7 +652,7 @@ Notarzt, 1 Notfallsanitäter (im Ausnahmefall auch Rettungssanitäter)).
 Notarzthubschrauber – NAH
 -------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: NAH
 
@@ -723,7 +723,7 @@ Die Besetzung ist uneinheitlich, zwingend erforderlich sind jedoch mind.
 First Responder
 ---------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: First Responder
 
@@ -799,7 +799,7 @@ professionellen Versorung und wird präklinisch ("vor der Klinik") tätig.
 Sekundärtransport
 -----------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Sekundärtransport
 

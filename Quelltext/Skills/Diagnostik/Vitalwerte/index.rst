@@ -7,7 +7,7 @@ Vitalwerte
 
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Vitalwerte
 

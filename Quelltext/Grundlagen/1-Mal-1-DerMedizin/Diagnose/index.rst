@@ -7,7 +7,7 @@
 Die Diagnose (#26)
 ##################
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Diagnosen
 

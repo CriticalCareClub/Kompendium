@@ -3,7 +3,7 @@
 Mundhöhle
 --------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Mundhöhle
 

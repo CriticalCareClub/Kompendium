@@ -5,7 +5,7 @@ Die Wirbelsäule
 
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Wirbelsäule
 
@@ -98,7 +98,7 @@ man die ersten drei Teile der Wirbelsäule als
 Die Wirbel: Aufbau und Arten
 ----------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Aufbau:
 

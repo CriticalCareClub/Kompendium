@@ -10,13 +10,12 @@ Der Schock ist eine lebensbedrohliche Kreislaufstörung (#53)
 Beschreibung
 ************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Schock
 
-        -  Lebensbedrohliche Kreislaufstörung
-
-        -  Kreislaufinsuffizienz
+        -   Lebensbedrohliche Kreislaufstörung
+        -   Kreislaufinsuffizienz
 
 .. admonition:: Definition
 
@@ -40,13 +39,16 @@ Gehirnskommen kann.
 
     *Missverhältnis Herzminutenvolumen:Sauerstoffbedarf*
 
-        -  Schock = Kreislaufinsuffizienz = *Missverhältnis
-           Herzminutenvolumen:Sauerstoffbedarf* des Körpers
+        -   Schock = Kreislaufinsuffizienz =
+            *Missverhältnis Herzminutenvolumen:Sauerstoffbedarf*
+            des Körpers
 
-        -  Es können einzelne oder mehrere Teile des Kreislaufsystems
-           betroffen sein (Blut, Gefäße, Herz).
+        -   Es können einzelne
+            oder mehrere Teile des Kreislaufsystems
+            betroffen sein (Blut, Gefäße, Herz).
 
-        -  Beim Schock kommt zu wenig sauerstoffreiches Blut zu den Organen.
+        -   Beim Schock kommt zu wenig
+            sauerstoffreiches Blut zu den Organen.
 
 
 .. index::
@@ -58,17 +60,14 @@ Kompensation, Dekompensation
 ****************************
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Kompensation, Dekompensation
 
-        -  Gegensteuerung (*Kompensation*)
-
-        -  Sympathikus (*"Fight!"*)
-
-        -  Zentralisation
-
-        -  Ende: *Dekompensierter Schock*
+        -   Gegensteuerung (*Kompensation*)
+        -   Sympathikus (*"Fight!"*)
+        -   Zentralisation
+        -   Ende: *Dekompensierter Schock*
 
 Der Körper versucht durch Aktivierung des Sympathikus
 gegenzusteuern (zu *kompensieren*).
@@ -101,17 +100,19 @@ abhängig vom jeweiligen Stadium.
 Problematisch ist, dass am Anfang die
 Symptome eher diskret sind.
 Das erste Anzeichen eines beginnenden
-Schocks ist oft lediglich eine kühle Haut (Kaplan et al. 2001)!
+Schocks ist oft lediglich eine kühle Haut [Kaplan:2001]_!
 Natürlich kann es auch andere Ursachen für eine kühle Haut geben, z. B.
 eine kalte Umgebungstemperatur. Die Tabelle :ref:`Tafel-Schocksymptomatik`,
 listet typische allgemeine Schocksymptome auf.
 
--  Stadienabhängig
 
--  :ref:`Tafel-Schocksymptomatik`
 
-    -  Ob ein Schock oder eine Schockgefahr besteht wird anhand von und
-       anhand der beurteilt.
+.. only:: not nosidebar
+
+    .. sidebar:: Symptome
+
+        -   Stadienabhängig
+        -   :ref:`Tafel-Schocksymptomatik`
 
 
 .. _Tafel-Schocksymptomatik:
@@ -137,7 +138,8 @@ listet typische allgemeine Schocksymptome auf.
             -   Peripherie schlecht durchblutet, Rekapzeit erhöht
     *   -   **Schwerer Schock – Vollbild**
         -   -   Tachykardie (HF ↑, "fliehender" Puls)
-            -   RR-Abfall (schwacher Puls, peripher schlecht oder nicht tastbar)
+            -   RR-Abfall
+                (schwacher Puls, peripher schlecht oder nicht tastbar)
             -   Herzfrequenz > systolischer RR
             -   Tachypnoe (schnelle, flache Atmung)
             -   Neurologisch auffällig, getrübt
@@ -160,8 +162,10 @@ Schockschere
 ************
 
 Normalerweise ist die Herzfrequenz niedriger als
-der systolische Blutdruck. (Achtung: *Kinder haben andere Normalwerte
-für HF und RR!* Die Faustregel ist deshalb nicht anwendbar!) Wenn der
+der systolische Blutdruck.
+(Achtung: *Kinder haben andere Normalwerte für HF und RR!*
+Die Faustregel ist deshalb nicht anwendbar!)
+Wenn der
 Körper versucht den Schock zu kompensieren, kann sich dieses Verhältnis
 umkehren. Man spricht dann von der Schockschere, der Patient befindet
 sich dann *bereits im Vollbild eines Schocks!* *Die Schockschere ist ein
@@ -169,32 +173,31 @@ sich dann *bereits im Vollbild eines Schocks!* *Die Schockschere ist ein
 Schockschere befindet, kann er trotzdem einen Schock haben!*
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Schockschere
 
-        -  RR\ :sub:`syst`\ < HF
+        -   RR\ :sub:`syst`\ < HF
+        -   Dann bereits *schwerer* Schock
+        -   Spätzeichen, auch ohne Schockschere kann Schock bestehen.
 
-        -  Dann bereits *schwerer* Schock
+-   *Schockbeurteilung*: Schocksymptome und Verdachtsdiagnose, *nicht*
+    primär Schockschere!
 
-        -  Spätzeichen, auch ohne Schockschere kann Schock bestehen.
+-   Für Kinder nicht anwendbar
 
--  *Schockbeurteilung*: Schocksymptome und Verdachtsdiagnose, *nicht*
-   primär Schockschere!
+    -   Wenn sich das Verhältnis
+        "Herzfrequenz zu systolischem Blutdruck"
+        umkehrt, befindet sich der Patient bereits in einem schweren
+        Schock.
 
--  Für Kinder nicht anwendbar
+    -   Die Schockschere ist ein *Spätzeichen!* Auch wenn die
+        Herzfrequenz niedriger ist als der systolische Blutdruck kann
+        sich der Patient bereits im Schock befinden!
 
-    -  Wenn sich das Verhältnis "Herzfrequenz zu systolischem Blutdruck"
-       umkehrt, befindet sich der Patient bereits in einem schweren
-       Schock.
-
-    -  Die Schockschere ist ein *Spätzeichen!* Auch wenn die
-       Herzfrequenz niedriger ist als der systolische Blutdruck kann
-       sich der Patient bereits im Schock befinden!
-
-    -  Ob ein Schock oder eine Schockgefahr besteht, wird anhand von
-       *Schocksymptomen* und anhand der *Verdachtsdiagnose* beurteilt,
-       **nicht** primär anhand der Schockschere!
+    -   Ob ein Schock oder eine Schockgefahr besteht, wird anhand von
+        *Schocksymptomen* und anhand der *Verdachtsdiagnose* beurteilt,
+        **nicht** primär anhand der Schockschere!
 
 ****************
 Schock beim Kind
@@ -213,8 +216,9 @@ Unterschiedliche Schockarten
 Beim Schock können einzelne oder mehrere Teile des
 Kreislaufsystems (Blut, Gefäße, Herz) gestört sein. Dementsprechend
 werden unterschiedliche Mechanismen schlagend und man kann verschiedene
-Schockarten unterscheiden, siehe :ref:`Tafel-SchockMechanismen`, und
-:ref:`Tafel-UebersichtSchockarten`.
+Schockarten unterscheiden,
+siehe Tabelle :ref:`Tafel-SchockMechanismen`, und
+Tabelle :ref:`Tafel-UebersichtSchockarten`.
 
 
 .. _Tafel-SchockMechanismen:
@@ -325,7 +329,9 @@ Hypovolämischer Schock
 **********************
 
 **Schock aufgrund eines Verlustes von
-Flüssigkeit aus den Gefäßen.** Es können dabei (Voll-) Blut, oder auch
+Flüssigkeit aus den Gefäßen.**
+
+Es können dabei (Voll-) Blut, oder auch
 nur Blutbestandteile wie Plasma oder Wasser und Elektrolyte verloren
 gehen. Der Verlust kann jeweils nach innen und/oder nach außen erfolgen,
 siehe :ref:`Tafel-UebersichtUrsachenFluessigkeitsverlustSchock`. Bei akutem
@@ -373,7 +379,7 @@ Durch den *Blutrückstau* kann es zu Stauungszeichen kommen (Lungenödem
 bei Linksherzversagen, Beinödeme und gestaute Halsvenen bei
 Rechtsherzversagen).
 Häufig klagen die Patienten über *Atemnot*.
-[Tafel-uebersicht-schockarten]
+
 
 .. _Thema-SchockAnaphylaktischer:
 .. _thema-schock-anaphylaktischer:
@@ -383,7 +389,9 @@ Anaphylaktischer Schock
 ***********************
 
 **Schock aufgrund einer überschießenden
-allergischen Reaktion – "Allergischer Schock".** Ein anaphylaktischer
+allergischen Reaktion – "Allergischer Schock".**
+
+Ein anaphylaktischer
 Schock wird durch eine überschießende Reaktion der Körperabwehr
 (Immunreaktion) auf bestimmte Stoffe (Antigene) ausgelöst. Durch von den
 Immunzellen gebildete Stoffe werden die Gefäße erweitert, zusätzlich
@@ -440,7 +448,9 @@ Septischer Schock und Toxischer Schock
 
 **Schock infolge
 einer schweren, körperweiten Infektion oder aufgrund eines, die Gefäße
-beeinflussenden, Giftstoffes (Toxins).** Siehe auch
+beeinflussenden, Giftstoffes (Toxins).**
+
+Siehe auch Thema
 :ref:`Thema-Sepsis`.
 Ein septisch-/toxischer Schock wird durch diverse Bakterien und Toxine
 verursacht.
@@ -470,7 +480,9 @@ Neurogener Schock
 
 **Schockzustand ausgelöst durch eine Unterbrechung oder Störung der
 nervlichen Versorgung der Kreislaufregulation. Es kommt zu inadäquater
-arterieller und venöser Gefäßerweiterung. (Vasodilatation)** Auch die
+arterieller und venöser Gefäßerweiterung. (Vasodilatation)**
+
+Auch die
 Muskulatur der Blutgefäßwand wird mit Nerven versogrt, damit die Weite
 der Gefäße reguliert werden kann. Im Rahmen von Erkrankungen und
 Verletzungen kann diese nervale Versorgung unterbochen sein, in weiterer
@@ -481,8 +493,8 @@ bei der das Rückenmark geschädigt bzw. unterbrochen wird
 
 .. note::
 
-    -  Grundsatz: *Der Schock muss bekämpft werden bevor man ihn
-       bemerkt.*
+    -   Grundsatz:
+        *Der Schock muss bekämpft werden bevor man ihn bemerkt.*
 
 .. _MR57XX0B:
 .. _am-schock:
@@ -491,9 +503,6 @@ bei der das Rückenmark geschädigt bzw. unterbrochen wird
 *****************************
 Maßnahmen: Schock
 *****************************
-
-.. todo:: Maßnahme MR57XX0B: Anpassung an höherqualifiziertes Personal
-
 
 .. rubric:: Allgemein
 
@@ -510,69 +519,45 @@ Maßnahmen: Schock
 .. rubric:: Speziell
 
 
-.. todo:: Tabelle Maßnahmen Schock (MR57XX0B )
+.. list-table:: Spezielle Maßnhamen und Schocktypen
+    :header-rows: 1
+    :stub-columns: 1
 
-    ::
+    *   -   Schockart
+        -   Lagerung
+        -   Sonstige Maßnahmen
+        -   Transport
+    *   -   Volumenmangel
+        -   Flachlagerung
+        -   Blutstillung
+            Schonende/schnelle Bergung
+            (schonend oder schnell?
+        -   Schockraum,
+            zügiger Abtransport
+    *   -   Kardiogen
+        -   Oberkörper hoch, evtl. Beine hängen  lassen.
+        -   Medikamentöse Therapie
+            (Diuretika, Katecholamine, Heparin)
+        -   Ursachenabhängig
+    *   -   Anaphylaktisch
+        -   Flachlagerung,
+            bei Atemproblemen ggfs. stark erhöhten Oberkörper
+        -   Auslösendes Antigen nach Möglichkeit entfernen
+        -   Intensivstation
+    *   -   Septisch, toxisch
+        -   situationsgerecht, Beine hoch
+        -
+        -   Intensivstation
+    *   -   Neurogen}
+        -   Flachlagerung,
+            ggfs Immobilisation
+            (WS-Verletzung!)
+        -   Ursachenabhängig
+        -
 
-        {\TableBaseModification
-        \begin{tabularx}{\linewidth}{XXXX}\addlinespace\toprule\addlinespace
-        \noindent\TabHeading{Schockart}
-        &
-        \noindent\TabHeading{Lagerung}
-        &
-        \noindent\TabHeading{Sonstige Maßnahmen}
-        &
-        \noindent\TabHeading{Transport}
-        \\\addlinespace\midrule\addlinespace
-        \noindent\TabSub{Volumenmangel}
-        &
-        Flachlagerung
-        &
-        Blutstillung
-
-        Schonende/schnelle Bergung\A{Schonend
-        oder schnell?}
-        &
-        Schockraum,
-
-        zügiger Abtransport
-        \\\addlinespace\midrule\addlinespace
-        \noindent\TabSub{Kardiogen}
-        &
-        Oberkörper hoch, evtl. Beine hängen  lassen.
-        &
-        Medikamentöse Therapie durch Notarzt\ZFootnote{(Diuretika, Katecholamine, Heparin)}
-        &
-        Ursachenabhängig
-        \\\addlinespace\midrule\addlinespace
-        \noindent\TabSub{Anaphylaktisch}
-        &
-        Flachlagerung, bei
-        Atemproblemen ggfs. stark erhöhten Oberkörper
-        &
-        Auslösendes Antigen nach Möglichkeit entfernen
-        &
-        Intensivstation
-        \\\addlinespace\midrule\addlinespace
-        \noindent\TabSub{Septisch, toxisch}
-        &
-        situationsgerecht, Beine hoch
-        &
-        &
-        Intensivstation
-        \\\addlinespace\midrule\addlinespace
-        \noindent\TabSub{Neurogen}
-        &
-        Flachlagerung, ggfs Immobilisation
-        (WS-Verletzung!)
-        &
-        Ursachenabhängig
-        \\\addlinespace\bottomrule
-        \end{tabularx}
-        }
-
-Pharmakotherapie
-    -   ?
+..
+    Pharmakotherapie
+        -   ?
 
 
 

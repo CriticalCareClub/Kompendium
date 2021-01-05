@@ -6,15 +6,13 @@ Infektions- und Entzündungskrankheiten (#63)
 
 
 
-
-*********
-Allgemein
-*********
-
 .. _Thema-allergie:
 
+
+******************************************************
 Störungen des Immunsystems
-==========================
+******************************************************
+
 
 Störungen des Immunsystems können sowohl zu einer Überfunktion, als auch
 zu einer Insuffizienz führen. Exemplarischen seien hier
@@ -52,8 +50,9 @@ Grippe
 ======
 
 
-**Die :dfn:`Grippe` :index:`\ <! Grippe>` (*Influenza*) ist eine schwere, durch
-Viren verursachte Infektionskrankheit.** Die Grippe ist eine *virale*
+Die :dfn:`Grippe` :index:`\ <! Grippe>` (*Influenza*) ist eine schwere, durch
+Viren verursachte Infektionskrankheit.
+Sie ist eine *virale*
 Erkrankung, welche je nach Patient und Virenstamm (s.u.) für den Körper
 sehr belastend sein kann und einen sehr schweren Verlauf nehmen und auch
 tödlich enden kann. Gefürchtet sind *Komplikationen* wie Lungen- oder
@@ -63,16 +62,16 @@ gefährdet sind ältere und immunsupprimierte Personen.
 Die Grippe tritt besonders in der kalten Jahreszeit, meistens als
 *Epidemie* auf. Es kann auch zum Ausbruch einer weltweiten Pandemie
 kommen, z. B. Spanische Grippe (1918, 25 Mio Tote), Asiatische Grippe
-(1957, 1 Mio Tote) und Hongkong-Grippe (1968, 800 000 Tote) [#269]_.
+(1957, 1 Mio Tote) und Hongkong-Grippe (1968, 800 000 Tote)\ [#269]_.
 
 
 .. [#269]
-   http://de.wikipedia.org/wiki/Influenza
+    http://de.wikipedia.org/wiki/Influenza
 
 
 In Österreich erkranken pro Jahr ca. 380.000 Personen an der Influenza,
 ca. 4 500 Personen müssen stationär behandelt werden und ca. 120
-Personen sterben an den Folgen [Strauss:0000]_\ .
+Personen sterben an den Folgen [Strauss:0000]_.
 
 
 Symptome
@@ -91,7 +90,7 @@ Wichtige Differentialdiagnosen
 ------------------------------
 
 Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden
-und auf Meningismus-Zeichen geprüft werden (:ref:`Thema-meningismuszeichen`).
+und auf Meningismus-Zeichen geprüft werden (vgl. :ref:`Thema-meningismuszeichen`).
 
 
 Stämme
@@ -116,7 +115,6 @@ und Personen die einem erhöhten Infektionsrisiko ausgesetzt sind
 (darunter fällt auch Personal im Gesundheitsbereich) empfohlen. Die
 Impfung hat einen schlechten Ruf, da Geimpfte häufig über leichtes
 Fieber oder leichte Verkühlungen ein paar Tage nach der Impfung klagen.
-
 
 [Gallaher:2009]_ [Cutler:2009]_ [Peiris:2009]_ [Wolf:2009]_
 
@@ -147,12 +145,12 @@ gleichzeitig infiziert ist. Daher ist es wichtig die Infektionen so
 rasch als möglich einzudämmen.
 
 Die jüngste Entwicklung war die Übertragung des Stammes vom Schwein auf
-den Menschen in Mexiko im Frühjahr 2009 (:dfn:`Schweinegrippe` :index:`\ <! Schweinegrippe>`). Der neue Stamm breitete sich sehr rasch um die ganze
+den Menschen in Mexiko im Frühjahr 2009
+(:dfn:`Schweinegrippe` :index:`\ <! Schweinegrippe>`).
+Der neue Stamm breitete sich sehr rasch um die ganze
 Welt aus, *die Erkrankung verlief jedoch recht mild*. Bemerkenswert war
 jedoch, dass – anders als bei einer "normalen Grippe" üblich – besonders
 junge Menschen infiziert wurden.
-
-Man darf gespannt sein was die Zukunft bringt …
 
 
 Grippaler Infekt
@@ -172,7 +170,7 @@ zu einem Rückstau des Sekrets in das Mittelohr. Hierdurch kann es zu
 Ohrenschmerzen und einer Entzündung kommen.
 
 .. [#270]
-   (Tuba auditiva, Eustachische Röhre)
+    (Tuba auditiva, Eustachische Röhre)
 
 
 Wichtige Differentialdiagnosen
@@ -181,7 +179,6 @@ Wichtige Differentialdiagnosen
 Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden
 und auf Meningismus-Zeichen geprüft werden (:ref:`Thema-meningismuszeichen`).
 
--  Meningitis – Meningismus-Zeichen
 
 .. _Thema-lungenentzuendung:
 .. _thema-pneumonie:
@@ -199,14 +196,16 @@ Ursachen
 --------
 
 Eine Lungenentzündung kann grundsätzlich durch eine Infektion durch
-Bakterien, Viren oder Pilze [#271]_ oder eine chemische Schädigung, z. B.
+Bakterien, Viren oder Pilze\ [#271]_ oder eine chemische Schädigung,
+z. B.
 als Folge einer Aspiration von Magensaft entstehen.
 
 Höheres Lebensalter begünstigt Infektionen wie z. B. Pneumonien, da
 ältere Patienten ein schwächeres Abwehrsystem haben.
 
 .. [#271]
-   (häufig bei HIV/Immunsuppression)
+    Pilz-Pneumonien sind besonders häufig bei
+    immunsuppremierten Patienten anzutreffen.
 
 
 Symptome
@@ -226,13 +225,11 @@ kaum an.
 Maßnahmen: Pneumonie
 --------------------
 
-.. todo:: Maßnahme IJ18090C: Anpassung an höherqualifiziertes Personal
-
 Basismaßnahmen
-   -   Symptomatisch
-   -   Wärmeerhalt
-   -   Bei Fieber Meningismus-Zeichen prüfen!
-   -   Transportentscheidung: Abt. f. Innere Medizin
+    -   Symptomatisch
+    -   Wärmeerhalt
+    -   Bei Fieber Meningismus-Zeichen prüfen!
+    -   Transportentscheidung: Abt. f. Innere Medizin
 
 
 
@@ -246,26 +243,27 @@ Tuberkulose
 ===========
 
 
-Die :dfn:`Tuberkulose` :index:`\ <! Tuberkulose>` (*Abk.* :dfn:`Tbc` :index:`\ <! Tbc>`,
-*umgs.* Schwindsucht) ist eine bakterielle Erkrankung, welche praktisch
+Die :dfn:`Tuberkulose` :index:`\ <! Tuberkulose>`
+(*Abk.* :dfn:`Tbc` :index:`\ <! Tbc>`,
+*umgs.* Schwindsucht)
+ist eine bakterielle Erkrankung,
+welche praktisch
 alle Organe befallen kann.
 Der Verlauf wird vor allem davon bestimmt,
-welches Organ befallen ist (Lunge, Skelett, Darm, Haut, Genitalien,
-...). Ausgangspunkt ist fast immer die *Lunge*. Die Übertragung erfolgt
+welches Organ befallen ist
+(Lunge, Skelett, Darm, Haut, Genitalien, ...).
+Ausgangspunkt ist fast immer die *Lunge*. Die Übertragung erfolgt
 vor allem *aerogen*, aber unter Umständen auch oral, durch Hautkontakt
 oder plazentär. Die Inkubationszeit beträgt 4—12 Wochen.
 
 Zunehmend treten auf Antibiotika resistente Erreger auf (MDR-TB,
-XDR-TB) [#272]_.
-
-.. [#272]
-   Quelle: AGES
+XDR-TB).
 
 
 Symptome
 --------
 
-Es dominieren vor allem Allgemeinsymtptome wie erhöhte Temperatur,
+Es dominieren vor allem Allgemeinsymptome wie erhöhte Temperatur,
 Abgeschlagenheit, Nachtschweiß, Lymphknotenschwellung und Husten.
 Auffallend ist manchmal die Schwere des Hustens, Blutbeimengungen gelten
 als Alarmsignal. In der Anamnese ist mitunter eine bereits überstandene
@@ -276,7 +274,9 @@ Offene Tuberkulose
 ------------------
 
 Wenn der Infektionsherd in der Lunge *Luftkontakt* hat, spricht man von
-der :dfn:`Offenen Tuberkulose` :index:`\ <! Offenen Tuberkulose>`. Der Patient ist dann
+der :
+dfn:`Offenen Tuberkulose` :index:`\ <! Offenen Tuberkulose>`.
+Der Patient ist dann
 infektiös, eine Tröpfcheninfektion ist möglich. Die Verwendung von
 Schutzmasken ist anzuraten.
 
@@ -306,8 +306,6 @@ erforderlich. [#273]_
 
 Maßnahmen: Tuberkulose
 ----------------------
-
-.. todo:: Maßnahme IA16091C: Anpassung an höherqualifiziertes Personal
 
 
 Basismaßnahmen
@@ -351,7 +349,8 @@ nach der eigentlichen HIV-Infektion aus.
 
     Schema eines HI-Virus
 
-    [US National Institute of Health, PD-USGov-HHS-NIH]
+    Ⓒ US National Institute of Health, :term:`Ⓛ PD` (USGov-HHS-NIH)
+
 
 Übertragung
 -----------
@@ -378,7 +377,6 @@ Derzeit ist *keine Heilung* möglich, jedoch kann eine *deutliche
 Lebensverlängerung* durch Medikamente erreicht werden, indem der
 Krankheitsausbruch (AIDS) verzögert wird.
 
--  Keine Heilung, aber Verzögerung des Krankheitsausbruchs möglich
 
 Prophylaxe
 ----------
@@ -403,8 +401,11 @@ Entzündung der Leber: Hepatitis
 Beschreibung und Ursachen
 -------------------------
 
-**Die :dfn:`Hepatitis` :index:`\ <! Hepatitis>` ist eine Entzündung der Leber durch
-verschiedene Erreger oder durch schädigende Substanzen.** Diese
+Die :dfn:`Hepatitis`
+:index:`\ <! Hepatitis>`
+ist eine Entzündung der Leber durch
+verschiedene Erreger oder durch schädigende Substanzen.
+Diese
 Entzündung kann durch Erreger wie Viren, oder Mikroorganismen
 hervorgerufen werden (infektiöse, virale Hepatitis). Aber auch
 regelmäßige Schädigungen der Leber durch Giftstoffe wie Alkohol,
@@ -415,16 +416,9 @@ einer Entzündung führen.
 
 Je nach Ursache der Hepatitis kann es vorkommen, dass es zu keiner
 Abheilung kommt und die Hepatitis dauerhaft bestehen bleibt. Man spricht
-dann von der :dfn:`chronischen Hepatitis` :index:`\ <! chronischen Hepatitis>`.
+dann von der
+:dfn:`chronischen Hepatitis`\ :index:`\ <! chronischen Hepatitis>`.
 
--  Virusinfektionen (Hep. A, B, C, …)
-
--  Gallen-Abflussstau
-
--  Vergiftungen Lebensmittel(Pilze) / Medikamente (Paracetamol) / chron.
-   Alkoholismus
-
--  Chronische Verlaufsform möglich
 
 Symptome
 --------
@@ -439,7 +433,9 @@ gelblichen Verfärbung der Haut (*Ikterus*) kommen.
 
 Bei einem chronischen Verlauf kommt es zu einem Umbau von
 funktionierendem Lebergewebe zu funktionslosem Bindegewebe. Man spricht
-dann von der :dfn:`Leberzirrhose` :index:`\ <! Leberzirrhose>`\ :ref:`Thema-leberzirrhose`.
+dann von der
+:index:`\ <! Leberzirrhose>`
+:ref:`Leberzirrhose <Thema-leberzirrhose>`.
 Schließlich kann es zu einem Leberversagen und in kurzer Folge zum Tod
 kommen, da die Leber ein überlebenswichtiges Organ ist.
 
@@ -451,34 +447,35 @@ Verschiedene Arten der viralen Hepatitis
 Abhängig vom jeweiligen Virus unterscheidet man verschiedene Arten der
 viralen Hepatitis:
 
-- *Hepatitis-A*: Hepatitis-A-Virus (HAV)
+-   *Hepatitis-A*: Hepatitis-A-Virus (HAV)
 
-   -  Inkubationszeit 10 - 40 Tage
-   -  typische Reisekrankheit (Mittelmeerraum, Südamerika, Orient), meist
-      epidemisch,
-   -  Dauer einige Wochen,
-   -  kein Übergang in chronischen Verlauf
+    -   Inkubationszeit 10 - 40 Tage
+    -   typische Reisekrankheit
+        (Mittelmeerraum, Südamerika, Orient), meist
+        epidemisch,
+    -   Dauer einige Wochen,
+    -   kein Übergang in chronischen Verlauf
 
 
-- *Hepatitis-B*: Hepatitis-B-Virus (HBV)
+-   *Hepatitis-B*: Hepatitis-B-Virus (HBV)
 
-   -  Inkubationszeit 4 - 12 Wochen,
-   -  meist sporadisches Auftreten
-   -  Übertragung durch Speichel, Blut(produkte), Sperma und andere
-      Körperflüssigkeiten,
-   -  chronischer Verlauf in ca. 5 %
+    -   Inkubationszeit 4 - 12 Wochen,
+    -   meist sporadisches Auftreten
+    -   Übertragung durch Speichel, Blut(produkte), Sperma und andere
+        Körperflüssigkeiten,
+    -   chronischer Verlauf in ca. 5 %
 
-- *Hepatitis C*: Hepatitis-C-Virus (HCV)
+-   *Hepatitis C*: Hepatitis-C-Virus (HCV)
 
-   -  Inkubationszeit 6—12 Wochen,
-   -  häufig nach Bluttransfusion oder i.v. Drogenabusus,
-   -  *oft chronischer Verlauf* (in 70—80 % der Fälle)
+    -   Inkubationszeit 6—12 Wochen,
+    -   häufig nach Bluttransfusion oder i.v. Drogenabusus,
+    -   *oft chronischer Verlauf* (in 70—80 % der Fälle)
 
 
 Impfung
 -------
 
-Für die Hepatitis A und B ist eine Impfung verfügbar (z. B. Twinrix). Für
+Für die Hepatitis A und B ist eine Impfung verfügbar (z. B. Twinrix™). Für
 die Hepatitis C ist derzeit noch keine Impfung regulär am Markt. Gegen
 die toxischen Formen der Hepatitis gibt es natürlich auch keine Impfung.
 Achtung: Es gibt Non-Responder!
@@ -497,8 +494,11 @@ Infektiöse Meningitis
 =====================
 
 
-**Die infektiöse :dfn:`Meningitis` :index:`\ <! Meningitis>` ist eine Entzündung der
-Hirnhäute aufgrund einer Infektion mit Krankheitserregern.** Sie ist ist
+Die infektiöse
+:dfn:`Meningitis` :index:`\ <! Meningitis>`
+ist eine Entzündung der
+Hirnhäute aufgrund einer Infektion mit Krankheitserregern.
+Sie ist ist
 eine gefürchtete Erkrankung, da sie einerseits hoch ansteckend ist, und
 andererseits rasch tödlich enden kann. Als Krankheitserreger treten
 zumeist Bakterien oder Viren auf. Gefährdet sind grundsätzlich alle
@@ -512,7 +512,9 @@ Symptome
 
 Leitsymptome sind *Fieber*,
 *Nackensteifigkeit* (Meningismus) und *Lichtscheue*. Dies bezeichnet man
-als :dfn:`Meningismuszeichen` :index:`\ <! Meningismuszeichen>`. Darüber hinaus kann es zu
+als
+:dfn:`Meningismuszeichen` :index:`\ <! Meningismuszeichen>`.
+Darüber hinaus kann es zu
 anderen unspezifischen Symptomen wie Kopfschmerzen, Übelkeit, Erbrechen,
 etc. kommen.
 
@@ -521,12 +523,15 @@ kommen, am Körper bilden sich dann dunkle Hämatome. Einer der häufigsten
 Erreger sind die Meningokokken (Bakterien), man spricht dann von einer
 Meningokokken-Meningitis.
 
-Verwechslungsgefahr mit "normalem Infekt"!
+.. danger::
 
--  Die Meningitis wird aufgrund der unspezifischen Symptome oft mit
-   einem einfachen grippalen Infekt oder einer Grippe verwechselt!
+    **Verwechslungsgefahr** mit grippalem Infekt!
 
--  Jeder fiebernde Patient ist auf Meningismus-Zeichen zu untersuchen!
+    -   Die Meningitis wird aufgrund der unspezifischen Symptome oft mit
+        einem einfachen grippalen Infekt oder einer Grippe verwechselt!
+
+    -   Jeder fiebernde Patient
+        ist auf Meningismus-Zeichen zu untersuchen!
 
 
 .. _IG03091C:
@@ -535,12 +540,10 @@ Verwechslungsgefahr mit "normalem Infekt"!
 Maßnahmen: Meningitis
 ---------------------
 
-.. todo:: Maßnahme IG03091C: Anpassung an höherqualifiziertes Personal
-
-
 Basismaßnahmen
     -   Schutzmaske für Personal und Patient (wenn zumutbar)
-    -   Rückmeldung an Leitstelle vor Transport, Voranmeldung im Krankenhaus
+    -   Rückmeldung an Leitstelle vor Transport,
+        Voranmeldung im Krankenhaus
     -   Patient erst in das Spitalsgebäude bringen, wenn
         Ziel und Weg dorthin klar ist
     -   Desinfektionsmaßnahmen gem. Hygieneplan
@@ -555,8 +558,9 @@ Wundstarrkrampf (Tetanus)
 =========================
 
 
-Der Erreger des Wundstarrkrampfes [#274]_ kommt *überall in der Umgebung*
-vor. Bei Verletzungen können durch Kontamination diese Sporen in die
+Der Erreger des Wundstarrkrampfes\ [#274]_ kommt
+*überall in der Umgebung* ("ubiquitär") vor.
+Bei Verletzungen können durch Kontamination diese Sporen in die
 Wunde kommen. Bei ungünstigen Wundverhältnissen (*anaerobe*
 Verhältnisse) kann es dann zu einer Infektion kommen. Der Erreger
 produziert einen Giftstoff (Toxin), welches einen tonischen Krampf der
@@ -566,7 +570,7 @@ Erste Vorzeichen sind Müdigkeit und Inappetenz. [HahnMikrobio:6]_
 
 
 .. [#274]
-   Sporen von *Clostridium tetani*
+    Sporen von *Clostridium tetani*
 
 
 Symptome
@@ -585,7 +589,8 @@ daher nach wie vor groß.
 
     Patient mit Tetanus
 
-    [Public Health Image Library, ID#: 6373, Public Domain]
+    Ⓒ Public Health Image Library, ID#: 6373, :term:`Ⓛ PD`
+
 
 .. _Thema-tetanus-impfschutz:
 
@@ -605,10 +610,12 @@ zu Hause im Impfpass nachschauen. Erforderlichenfalls soll der Patient
 unverzüglich eine Unfallabteilung aufsuchen. Die entsprechende
 Aufklärung muss am Revers bestätigt werden!
 
+.. attention::
 
--  Eine mangelhafte Aufklärung oder Dokumentation bezüglich Tetanus und
-   dessen Impfschutz ist grob fahrlässig und ein
-   Kunstfehler.
+    -   Eine mangelhafte Aufklärung
+        bzw. Dokumentation bezüglich Tetanus und
+        dessen Impfschutz ist grob fahrlässig und ein
+        Kunstfehler.
 
 .. _thema-sepsis:
 
@@ -635,31 +642,30 @@ Symptome
 Die Symptome sind sehr von Fortschritt und körperlichem Abbau abhängig.
 Grundsätzlich:
 
--  Sehr stark reduzierter Allgemeinzustand
-
--  Fieber (> 38°C) oder Hypothermie (< 36°C)
-
--  Herzfrequenz >90 / min
-
--  Atemfrequenz >20 / min oder Hyperventilation
-
--  Unkontrollierbare Gerinnung oder Blutung
-
--  Hypotonie → Septischer Schock
-
--  Organversagen
+-   Sehr stark reduzierter Allgemeinzustand
+-   Fieber (> 38°C) oder Hypothermie (< 36°C)
+-   Herzfrequenz >90 / min
+-   Atemfrequenz >20 / min oder Hyperventilation
+-   Unkontrollierbare Gerinnung oder Blutung
+-   Hypotonie → Septischer Schock
+-   Organversagen
 
 
 Ebola
 =====
 
 
-Die :dfn:`Ebola-Viruserkrankung` :index:`\ <! Ebola-Viruserkrankung>` (:dfn:`Ebola` :index:`\ <! Ebola>`,
-*engl.* *Ebola Virus Disease*, *Abkz.* *EVD*) ist eine seltene, schwere
-Infektionskrankheit, die durch Ebola-Viren verursacht wird. Diese
-erzeugen ein oft tödlich verlaufendes Fieber mit Blutungen (*hämorrhagisches* :index:`\ <Fieber!hämorrhagisches>` Fieber). Das Virus
-verursacht im ganzen Körper schwere Zell- und Gewebsschädigungen, davon
-sind auch die Blutgefäße betroffen. Je nach Virus-Typ verläuft die
+Die :dfn:`Ebola-Viruserkrankung`
+:index:`\ <! Ebola-Viruserkrankung>`
+(:dfn:`Ebola` :index:`\ <! Ebola>`,
+*engl.* *Ebola Virus Disease*, *Abkz.* *EVD*)
+ist eine seltene, schwere Infektionskrankheit,
+die durch Ebola-Viren verursacht wird.
+Diese erzeugen ein oft tödlich verlaufendes Fieber mit Blutungen (*hämorrhagisches* :index:`\ <Fieber!hämorrhagisches>` Fieber).
+Das Virus verursacht im ganzen Körper schwere
+Zell- und Gewebsschädigungen,
+davon sind auch die Blutgefäße betroffen.
+Je nach Virus-Typ verläuft die
 Erkrankung in 25—90% der Fälle tödlich. Es kommt
 immer wieder zu Ausbrüche von Ebola-Epedemien. Aktuell wurde im März
 2014 der bisher größte Ausbruch in Westafrika bekannt, der sich derzeit
@@ -711,102 +717,93 @@ Hochrisikoexpositions-Kriterien. Diese Kriterien gestatten die
 Identifizierung von Personen, bei denen der Verdacht auf Ebola besteht,
 bzw. die auf eine Ebola-Viruserkrankung untersucht werden sollen.
 
-Kriterien
+.. rubric:: Kriterien
 
 
-#. *Klinische Kriterien*
+#.  *Klinische Kriterien*
 
-   #. Fieber ≥ 38,6°C
+    #.  Fieber ≥ 38,6°C
 
-   #. mindestens eines der folgenden Symptome:
+    #.  mindestens eines der folgenden Symptome:
 
-      #. Starke Kopfschmerzen
+        #.  Starke Kopfschmerzen
+        #.  Erbrechen, Durchfall, Bauchschmerzen
+        #.  Unerklärliche Blutungen
+        #.  Multi-Organversagen
 
-      #. Erbrechen, Durchfall, Bauchschmerzen
+    #.  eine Person, die plötzlich und auf unerklärliche Weise verstarb.
 
-      #. Unerklärliche Blutungen
+#.  *Epidemiologische Kriterien*
 
-      #. Multi-Organversagen
+    #.  In den letzten 21 Tagen vor Beginn der Symptome:
 
-   #. eine Person, die plötzlich und auf unerklärliche Weise verstarb.
+        #.  Aufenthalt in einem der betroffenen Gebiete 1
+        #.  Kontakt mit einem wahrscheinlichen
+            oder bestätigten Ebola-Fall.
 
-#. *Epidemiologische Kriterien*
+#.  *Kriterien für Hochrisikoexposition*
 
-   #. In den letzten 21 Tagen vor Beginn der Symptome:
+    (Jedes einzelne der folgenden Kriterien ist als Hochrisikoexposition
+    anzusehen)
 
-      #. Aufenthalt in einem der betroffenen Gebiete 1
+    #.  Enger Kontakt (< 1 m) ohne entsprechende Schutzmaßnahmen
+        (Personal Protective Equipment-PPE,
+        inklusive Schutz der Augen und
+        Schleimhäute)
+        mit einem wahrscheinlichen oder bestätigten
+        Ebola-Fall,
+        mit den Symptomen Husten, Erbrechen, Durchfall oder
+        Blutungen
+    #.  Ungeschützter sexueller Kontakt mit einem Ebola-Fall bis zu drei
+        Monaten nach Genesung
+    #.  Direkter Kontakt mit jedem Material, das mit Körperflüssigkeiten
+        eines wahrscheinlichen oder bestätigten Ebola-Falls kontaminiert
+        ist
+    #.  Perkutane Verletzung mit kontaminierten Gegenständen (z. B.
+        Nadelstichverletzung)
+    #.  Schleimhautkontakt mit Körperflüssigkeiten, Geweben oder
+        Laborproben von wahrscheinlichen oder bestätigten Ebola-Fällen
+        (Erkrankte/Tote)
+    #.  Teilnahme an Begräbnisritualen mit direktem Kontakt mit
+        sterblichen Überresten in oder aus betroffenen Gebieten ohne
+        entsprechende persönliche Schutzausrüstung (PPE)
+    #.  Direkter Kontakt mit Fledermäusen, Nagetieren oder Primaten
+        (lebend oder tot) in oder aus betroffenen Gebieten
+    #.  Konsum von oder direkter Kontakt mit "Buschfleisch" aus
+        betroffenen Gebieten.
 
-      #. Kontakt mit einem wahrscheinlichen oder bestätigten Ebola-Fall.
+#.  *Laborkriterien* (eines der folgenden)
 
-#. *Kriterien für Hochrisikoexposition*
+    #.  Nachweis von Ebola-Virus-Nukleinsäure in einer klinischen Probe
+        und Bestätigung durch Sequenzierung oder anhand eines zweiten
+        Nachweises anderer genomischer Targets
+    #.  Isolierung von Ebola-Virus aus einer klinischen Probe
 
-   (Jedes einzelne der folgenden Kriterien ist als Hochrisikoexposition
-   anzusehen)
-
-   #. Enger Kontakt (< 1 m) ohne entsprechende Schutzmaßnahmen (Personal
-      Protective Equipment-PPE, inklusive Schutz der Augen und
-      Schleimhäute) mit einem wahrscheinlichen oder bestätigten
-      Ebola-Fall, mit den Symptomen Husten, Erbrechen, Durchfall oder
-      Blutungen
-
-   #. Ungeschützter sexueller Kontakt mit einem Ebola-Fall bis zu drei
-      Monaten nach Genesung
-
-   #. Direkter Kontakt mit jedem Material, das mit Körperflüssigkeiten
-      eines wahrscheinlichen oder bestätigten Ebola-Falls kontaminiert
-      ist
-
-   #. Perkutane Verletzung mit kontaminierten Gegenständen (z. B.
-      Nadelstichverletzung)
-
-   #. Schleimhautkontakt mit Körperflüssigkeiten, Geweben oder
-      Laborproben von wahrscheinlichen oder bestätigten Ebola-Fällen
-      (Erkrankte/Tote)
-
-   #. Teilnahme an Begräbnisritualen mit direktem Kontakt mit
-      sterblichen Überresten in oder aus betroffenen Gebieten ohne
-      entsprechende persönliche Schutzausrüstung (PPE)
-
-   #. Direkter Kontakt mit Fledermäusen, Nagetieren oder Primaten
-      (lebend oder tot) in oder aus betroffenen Gebieten
-
-   #. Konsum von oder direkter Kontakt mit "Buschfleisch" aus
-      betroffenen Gebieten.
-
-#. *Laborkriterien* (eines der folgenden)
-
-   #. Nachweis von Ebola-Virus-Nukleinsäure in einer klinischen Probe
-      und Bestätigung durch Sequenzierung oder anhand eines zweiten
-      Nachweises anderer genomischer Targets
-
-   #. Isolierung von Ebola-Virus aus einer klinischen Probe
-
-Fallklassifizierung
+.. rubric:: Fallklassifizierung
 
 
--  *Verdachtsfall*: Ein Verdachtsfall liegt vor, wenn auf die Person
+-   *Verdachtsfall*: Ein Verdachtsfall liegt vor, wenn auf die Person
 
-   -  die klinischen
+    -   die klinischen
+    -   epidemiologischen Kriterien zutreffen,
 
-   -  epidemiologischen Kriterien zutreffen,
+    bei
 
-   bei
+    -   Personen mit Hochrisikoexposition
+    -   zumindest einem der aufgelisteten Symptome der klinischen
+        Kriterien (Fieber jeder Höhe, starke Kopfschmerzen,
+        Bauchschmerzen, Erbrechen, Durchfall, unerklärliche Blutungen).
 
-   -  Personen mit Hochrisikoexposition
+-   *Wahrscheinlicher Fall*: Ein wahrscheinlicher Fall liegt vor, wenn
+    auf eine Person die klinischen und die
+    Hochrisikoexpositions-Kriterien zutreffen.
 
-   -  zumindest einem der aufgelisteten Symptome der klinischen
-      Kriterien (Fieber jeder Höhe, starke Kopfschmerzen,
-      Bauchschmerzen, Erbrechen, Durchfall, unerklärliche Blutungen).
-
--  *Wahrscheinlicher Fall*: Ein wahrscheinlicher Fall liegt vor, wenn
-   auf eine Person die klinischen und die
-   Hochrisikoexpositions-Kriterien zutreffen.
-
--  *Bestätigter Fall*: Eine Person, auf die die Laborkriterien
-   zutreffen.
+-   *Bestätigter Fall*: Eine Person, auf die die Laborkriterien
+    zutreffen.
 
 
 [BmgEbolaFalldefinition:20141028]_ [BmgEbolaFactsheet:20141103]_
+
 Eine aktualisierte Liste der betroffenen Gebiete ist auf der BMG- und
 ECDC-Website verfügbar unter:
 http://ecdc.europa.eu/en/healthtopics/ebola_marburg_fevers/EVDcasedefinition/Pages/Ebola-affected-areas.aspx
@@ -816,8 +813,6 @@ http://ecdc.europa.eu/en/healthtopics/ebola_marburg_fevers/EVDcasedefinition/Pag
 
 Maßnahmen: Ebola-Viruserkrankung
 ---------------------------------
-
-.. todo:: Maßnahme IA98041C: Anpassung an höherqualifiziertes Personal
 
 Grundsätzlich müssen die lokalen Einsatz-
 und Alarmpläne gekannt und berücksichtigt werden.
@@ -829,7 +824,12 @@ Bei Vorliegen eines Verdachtsfalles müssen folgende Punkte umgehend durchgefüh
 -   Händedesinfektion
 -   Anlegen der eigenen Schutzausrüstung:
 
-    Minimum: FFP-3-Maske, 2 Paar Handschuhe, Schutzbrille, Schutzanzug, Überschuhe
+    Minimum:
+    FFP-3-Maske,
+    2 Paar Handschuhe,
+    Schutzbrille,
+    Schutzanzug,
+    Überschuhe
 -   Rückmeldung an Leitstelle, Abwarten weiterer Anweisungen
 
 

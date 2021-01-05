@@ -1,9 +1,10 @@
 
 
 .. index::
-    single: Pulmonalembolie
-    single: PE
+    single: Embolie; Pulmonal-
     single: Lungenembolie
+    single: PE
+    single: Pulmonalembolie
 
 .. _thema-lungenembolie:
 .. _Thema-Pulmonalembolie:
@@ -12,7 +13,7 @@
 Pulmonalembolie (#39)
 **************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Lungenembolie
 
@@ -41,32 +42,32 @@ Blutgerinnseln führen.
 
     Herkunft des Thrombus
 
-    [Lena Hirtler,Lizenz: MfG]
+    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
 
 ABCDE: Pulmonalembolie
 ======================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: 1234ABCDE
 
-        **1**
+        ①
             Bettlägrigkeit? Fernreise?
 
-        **2**
+        ②
             Bettlägrigkeit?
 
-        **4**
+        ④
             Dyspnoe, (atemabhängige) |symbol-RedFlag|\  Thorax- od.
             Rückenschmerzen, Angstgefühl
 
             Unterscheidung zu ACS oft nicht möglich
 
-        **B**
+        Ⓑ
             |symbol-RedFlag|\  Atemnot, Tachypnoe
 
-        **C**
+        Ⓒ
             HF ↑, evtl. arrhythmischer Puls (Vorhofflimmern), RR
             normal od. |symbol-RedFlag|\  ↓
 
@@ -75,23 +76,26 @@ ABCDE: Pulmonalembolie
 
             |symbol-RedFlag|\  Schockzeichen?
 
-        **=**
-            Bei bestehender Atemnot oder Thoraxschmerzen vitale Bedrohung.
+        Ⓔ
+            Umspezifische EKG-Veränderungen
 
-        **…**
+        ⌥
             Venöser Verschluss?
 
+        ``=``
+            Bei bestehender Atemnot oder Thoraxschmerzen vitale Bedrohung.
 
-``1``
+
+:①:
     Lässt die Szenarie Hinweise auf eine Bettlägrigkeit (Pflegebett, …)
     erkennen? Gibt es Hinweise auf eine Fernreise (herumstehende Koffer,
     …)?
 
-``2``
+:②:
     Kann man beim Patienten Hinweise auf Bettlägrigkeit (Alter,
     Gipsverband, körperlicher Zustand, …) erkennen?
 
-``4``
+:④:
     Das Leitsymptom ist die |symbol-RedFlag|\  *Atemnot*, eventuell in
     Kombination mit (atemabhängigen) |symbol-RedFlag|\  Thorax- oder
     Rückenschmerzen.
@@ -99,11 +103,11 @@ ABCDE: Pulmonalembolie
     Eine Unterscheidung zwischen einer Lungenembolie und einem Akuten
     Koronarsyndrom ist oft nicht möglich.
 
-``B``
+:Ⓑ:
     Meist atmet der Patient schnell (Tachypnoe) und klagt über einen
     *atemabhängigen |symbol-RedFlag|\  Thoraxschmerz*.
 
-``C``
+:Ⓒ:
     Es kommt zu einer *Tachykardie* und Angstgefühlen, oft findet man
     deutlich hervortretende, *gestaute Venen* am Hals aufgrund des
     Blutrückstaus. Evtl. kann man auch einen *arrhythmischen Puls*
@@ -112,54 +116,65 @@ ABCDE: Pulmonalembolie
     einem |symbol-RedFlag|\  *kardiogenen Schock* kommen, es ist daher
     wichtig auf |symbol-RedFlag|\  Schockzeichen zu achten!
 
-``=``
-    Bei |symbol-RedFlag|\  anhaltender Atemnot oder |symbol-RedFlag|\
-    Thoraxschmerzen besteht eine vitale Bedrohung.
+:Ⓔ:
+    Es kann zu — meist unspezifischen — *EKG-Veränderungen* kommen. Klassisch, aber selten ausgeprägt, ist der  S\ :sub:`I`\ Q\ :sub:`III`-Typ als Zeichen einer Rechtsherzbelastung.
+    Daneben kann es zur Ausbildung eines Rechtstyps,
+    einem P pulmonale,
+    einer T-Wellen-Inversion (V1-V3),
+    zur Ausbildung eines Rechtsschenkelblocks
+    und auch zu ST-Streckenveränderungen
+    (Senkungen V4—V6, Hebungen III, V1, aVR)
+    kommen.
+    Die Sensitivität und Spezifität der EKG-Veränderungen sind jedoch gering.
 
-``…``
+:⌥:
     Je nach Ursache der Embolie und Herkunft des Embolus kann man
     Zeichen anderer Krankheitsbilder wahrnehmen: Bei einer *tiefen
     Beinvenenthrombose* ist ein Bein geschwollen, überwärmt,
     rot/rot-bläulich verfärbt und schmerzhaft (:ref:`Thema-thrombose`).
 
+``=``
+    Bei |symbol-RedFlag|\  anhaltender Atemnot oder |symbol-RedFlag|\
+    Thoraxschmerzen besteht eine vitale Bedrohung.
+
 
 SAMPLER: Pulmonalembolie
 ========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SAMPLER
 
-        **M**
+        🄼
             Thrombosespritzen
 
-        **P**
+        🄿
             Vorhofflimmern, Thrombose, Embolie, Krebserkrankungen
 
-        **E**
+        🄴
             Fernreise? Langes Sitzen/Liegen? Wenig getrunken?
 
-        **R**
+        🅁
             Immobilisation, Vorhofflimmern, vorangegange Thrombose oder Embolie,
             Schwangerschaft, Rauchen, Verhütungspille
 
 
-``M``
+🄼
     Bettlägrigen Patienten werden zur Thromboseprophylaxe oft
     gerinnungshemmende Medikamente verschrieben (*Thrombosespritzen*).
     Wurden diese genommen?
 
-``P``
+🄿
     Oft ist bei den Patienten *Vorhofflimmern* als chronische Erkrankung
     bekannt. Patienten, welche bereits schon einmal eine Thrombose oder
     eine Embolie hatten, haben ein erhöhtes Risiko neuerlich daran zu
     erkranken. Im Rahmen von Krebserkrankungen kann es gehäuft zu
     Thrombosen und Embolien kommen.
 
-``E``
+🄴
     Fernreise? Langes Sitzen/Liegen? Wenig getrunken?
 
-``R``
+🅁
     *Immobilisation*, z. B. durch Bettlägrigkeit, Gipsverbände oder lange
     Reisen, innerhalb der letzten 4 Wochen, erhöht das Risiko einer
     Thrombose und damit auch das einer Lungenembolie. Ebenso erhöht eine
@@ -168,8 +183,18 @@ SAMPLER: Pulmonalembolie
     Rauchen sowie die Einnahme der "Pille" erhöhen ebenso das Risiko.
 
 
-.. _m-lungenembolie:
 
+Intrahospitale Diagnostik
+==========================
+
+-   Blutgasanalyse: Erhöhtes pCO₂, vermindertes pO₂
+-   Labor: D-Dimer (sehr unspezifisch)
+-   Spiral-CT mit Kontrastmittel
+-   Echokardiographie zur Abklärung/Ausschluss einer Rechtsherzbelastung
+-   Perfusionsszintigraphie
+
+
+.. _m-lungenembolie:
 .. _m-Pulmonalembolie:
 
 Maßnahmen: Pulmonalembolie

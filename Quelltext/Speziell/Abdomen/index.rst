@@ -16,7 +16,7 @@ Allgemeines
 Anamnese und Untersuchung
 =========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Bauch
 
@@ -259,7 +259,7 @@ Appendizitis (Blinddarmentzündung)
 ==================================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Appendizitis
 
@@ -332,7 +332,7 @@ Verstopfung des Gallengangs und folglich einen Rückstau von
 Gallenflüssigkeit in die Leber. Dabei wird der Gallengang gedehnt und es
 kommt zu starken Dehnungsschmerzen.
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gallenkolik
 
@@ -354,7 +354,7 @@ Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr
 *unruhig* und agitiert.
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -417,7 +417,7 @@ Unterscheidung nach der Stelle der Blutung ist wesentlich:
     Stande.
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: GI-Blutung
 
@@ -446,7 +446,7 @@ Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz, man
 Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -491,7 +491,7 @@ Basismaßnahmen
 Magen-Darm-Grippe, Gastroenteritis, Lebensmittelvergiftung
 ==========================================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Ursachen
 
@@ -518,7 +518,7 @@ Infekt]Exsikkose).
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symtome
 
@@ -569,7 +569,7 @@ Flüssigkeitsmangel: Exsikkose
 =============================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Exsikkose
 
@@ -612,7 +612,7 @@ vielen Möglichkeiten.
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symtome
 
@@ -644,7 +644,7 @@ Magen- und Zwölffingerdarmgeschwür
 ==================================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Magen- und Zwölffingerdarmgeschwür
 
@@ -693,7 +693,7 @@ Autoimmunerkrankungen können ebenso zu einem Geschwür führen.
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -730,7 +730,7 @@ Entzündung der Bauchspeicheldrüse: Pankreatitis
 ===============================================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Pankreatitis
 
@@ -761,7 +761,7 @@ an-/verdaut.
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -778,7 +778,7 @@ häufigsten Begleitsymptome sind Übelkeit und Erbrechen, sowie Fieber.
 Verlauf
 -------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Verlauf
 
@@ -844,7 +844,7 @@ Risikofaktoren auf, z. B. bei Patienten mit *Vorhofflimmern* :index:`\ <Vorhof
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -890,7 +890,7 @@ Basismaßnahmen
 Bauchfellentzündung (Peritonitis)
 =================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Peritonitis
 
@@ -910,7 +910,7 @@ Entzündungsreaktion.
 Ursachen
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Ursachen
 
@@ -925,7 +925,7 @@ Ursachen
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symtpome
 

@@ -408,14 +408,11 @@ folgende Nutzungen gestattet:
 Andere verwendete Ⓛ — Lizenzen
 ******************************************
 
+.. important::
 
-.. todo:: Lizenz: CC BY-NC 2.5
+    Die Auflistung dieser Lizenzen bedeutet nicht, dass die AASS als
+    Ganzes unter diesen Lizenzen lizensiert sind!
 
-
-**Die Auflistung dieser Lizenzen bedeutet nicht, dass die AASS als
-Ganzes unter diesen Lizenzen lizensiert sind!**
-
-.. rubric:: Lizenzen
 
 .. raw:: latex
 
@@ -426,109 +423,92 @@ Ganzes unter diesen Lizenzen lizensiert sind!**
 .. glossary::
 
 
-    Ⓛ CC BY-NC 2.5
-        CC BY-NC 2.5
-        .. todo:: CC BY-NC 2.5
-
-    Lizenz: CC BY-SA 3.0 unported
-        Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
-
-        -   https://creativecommons.org/licenses/by-sa/3.0/deed.en
-        -   https://creativecommons.org/licenses/by-sa/3.0/legalcode
-
-    Ⓛ MfG
-    Lizenz: MfG
-        Mit freundlicher Genehmigung
-
-        Vom Rechteinhaber wurde die Verwendung in diesem Projekt erlaubt.
-        Eine Verwendung ausserhalb dieses Projekts ist nicht gestattet.
-
     CC
       *Creative Commons*. Sammelbegriff für die Lizenzen der Creative
       Commons-Initiative, ohne nähere Angabe der Sublizenz. Alternativ
       kann auch das Symbol !!! CREATIVECOMMONS !!! verwendet werden.
 
-    CC-BY
-      *Creative-Commons Attribution Unported*
+    CC BY
+        *Creative-Commons Attribution Unported*
 
-      Lizenztext (Link):
-         | Version 1.0: http://creativecommons.org/licenses/by/1.0/;
-         | Version 2.0: http://creativecommons.org/licenses/by/2.0/;
-         | Version 2.1: http://creativecommons.org/licenses/by/2.1/;
-         | Version 2.5: http://creativecommons.org/licenses/by/2.5/;
-         | Version 3.0: http://creativecommons.org/licenses/by/3.0/.
-
-      Kurzfassung (ohne Gewähr):
-        "You let others copy, distribute, display, and perform your
+        Kurzfassung (ohne Gewähr):
+        *"You let others copy, distribute, display, and perform your
         copyrighted work — and derivative works based upon it — but only
-        if they give credit the way you request."
+        if they give credit the way you request."*
 
-    CC-BY-1.0
-      *Creative-Commons Attribution Unported*, *"Creative-Commons
-      Attribution Unported 1.0."*.
+    Ⓛ CC BY 1.0
+        | *Creative-Commons Attribution Unported 1.0*
+        | http://creativecommons.org/licenses/by/1.0/
 
-    CC-BY-2.0
-      *Creative-Commons Attribution Unported*, *"Creative-Commons
-      Attribution Unported 2.0."*.
+    Ⓛ CC BY 2.0
+        *Creative-Commons Attribution Unported 2.0*:
+        http://creativecommons.org/licenses/by/2.0/
 
-    CC-BY-2.1
-      *Creative-Commons Attribution Unported*, *"Creative-Commons
-      Attribution Unported 2.1."*.
+    Ⓛ CC BY 2.1
+        *Creative-Commons Attribution Unported 2.1*:
+        http://creativecommons.org/licenses/by/2.1/
 
-    CC-BY-.at-3.0
-      *Creative-Commons Namensnennung 3.0 Österreich*, *Creative-Commons
-      Namensnennung 3.0 Österreich*.
+    Ⓛ CC BY 2.5
+        *Creative-Commons Attribution Unported 2.5*:
+        http://creativecommons.org/licenses/by/2.5/
 
-      Lizenztext (Link):
-          http://creativecommons.org/licenses/by/3.0/at/
+    Ⓛ CC BY 3.0
+        .. image:: /Bilder/Logos/FreeCulturalWorks_seal_x2.jpeg
+            :width: 15%
+            :align: right
 
-    Kurzfassung (ohne Gewähr):
-        *Sie dürfen:*
+        *Creative Commons Attribution 3.0 Unported*
 
-        -  das Werk vervielfältigen, verbreiten und öffentlich
-           zugänglich machen
+        https://creativecommons.org/licenses/by/3.0/
 
-        -  Bearbeitungen des Werkes anfertigen;
+    Ⓛ CC BY AUT 3.0
+        *Creative-Commons Namensnennung 3.0 Österreich*
 
-        *Zu den folgenden Bedingungen:*
+        http://creativecommons.org/licenses/by/3.0/at/
 
-        -  Namensnennung: Sie müssen den Namen des Autors/Rechteinhabers
-           in der von ihm festgelegten Weise nennen.
+        Kurzfassung (ohne Gewähr):
+        Sie dürfen das Werk vervielfältigen, verbreiten und öffentlich
+        zugänglich machen sowie Bearbeitungen des Werkes anfertigen;
+        Sie müssen dabei den Namen des Autors/Rechteinhabers
+        in der von ihm festgelegten Weise nennen (*Namensnennung*).
 
-    CC-BY-NC
-      *Creative-Commons Attribution Non-Commercial*, *Creative-Commons
-      Attribution Non-Commercial*.
 
-      Lizenztext (Link):
-          http://creativecommons.org/licenses/by-nc/3.0/legalcode;
+    Ⓛ CC BY-NC 2.5
+        *Creative-Commons Attribution Non-Commercial 2.5*:
+        http://creativecommons.org/licenses/by-nc/2.5
 
-      Kurzfassung (ohne Gewähr):
 
-    CC-BY-NC-ND
-      *Creative-Commons Attribution Non-Commercial No Derivatives*,
-      *Creative-Commons Attribution Non-Commercial No Derivatives*.
+    Ⓛ CC BY-NC 3.0
+        *Creative-Commons Attribution Non-Commercial 3.0*:
+        http://creativecommons.org/licenses/by-nc/3.0
 
-      Lizenztext (Link):
-          http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode;
 
-    CC-BY-ND
-      *Creative-Commons Attribution No Derivatives*, *Creative-Commons
-      Attribution No Derivatives*.
+    Ⓛ CC BY-NC-ND 3.0
+        *Creative-Commons Attribution Non-Commercial No Derivatives 3.0*:
+        http://creativecommons.org/licenses/by-nc-nd/3.0
 
-      Lizenztext (Link):
-          http://creativecommons.org/licenses/by-nd/3.0/legalcode;
+    Ⓛ CC BY-ND 3.0
+        *Creative-Commons Attribution No Derivatives 3.0*:
+        http://creativecommons.org/licenses/by-nd/3.0/legalcode;
 
-    MfG
-      Mit freundlicher Genehmigung.
-      Vom Urheber für dieses Werk zur Verfügung gestellt,
-      alle Rechte dem Urheber vorbehalten.
+    Ⓛ CC BY-SA 3.0
+        *Creative Commons Attribution-ShareAlike 3.0 Unported*:
+        https://creativecommons.org/licenses/by-sa/3.0
 
-    PD
-      *Public domain*, *gemeinfrei*. Die Gemeinfreiheit bezeichnet alle
-      Werke, die keinem Urheberrecht mehr unterliegen oder ihm nie
-      unterlegen haben. Das im angloamerikanischen Raum anzutreffende
-      Public Domain ist ähnlich, aber nicht identisch mit der europäischen
-      Gemeinfreiheit.
+
+    Ⓛ MfG
+        *"Mit freundlicher Genehmigung"*
+
+        Vom Rechteinhaber wurde die Verwendung in diesem Projekt erlaubt.
+        Eine Verwendung ausserhalb dieses Projekts ist nicht gestattet.
+
+
+    Ⓛ PD
+        *Public domain*, *gemeinfrei*. Die Gemeinfreiheit bezeichnet alle
+        Werke, die keinem Urheberrecht mehr unterliegen oder ihm nie
+        unterlegen haben. Das im angloamerikanischen Raum anzutreffende
+        Public Domain ist ähnlich, aber nicht identisch mit der europäischen
+        Gemeinfreiheit.
 
 .. raw:: latex
 

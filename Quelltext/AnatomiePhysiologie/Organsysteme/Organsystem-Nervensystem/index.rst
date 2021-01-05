@@ -21,7 +21,7 @@ bzw. an den Zielorganen erfolgt die Weiterleitung an Verknüpfungsstellen
 Unterteilung
 ============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Unterteilung
 
@@ -68,7 +68,7 @@ aber wichtige Übersicht wieder.
 Das Zentralnervensystem (ZNS)
 =============================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: ZNS
 
@@ -92,7 +92,7 @@ des ZNS. Zum ZNS gehören das *Gehirn* und das *Rückenmark*.
 Unterteilung nach Lage und Aufbau
 ---------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: ZNS Aufbau
 
@@ -125,7 +125,7 @@ sind.
 Das Gehirn und das verlängerte Rückenmark
 -----------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gehirn & verlängertes Rückenmark
 
@@ -203,7 +203,7 @@ Hirnnerven.
 Rückenmark
 ----------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Rückenmark
 
@@ -241,7 +241,7 @@ der Ausdruck *Cauda equina*
 Exkurs: Der Kopf besteht aus Schichten
 --------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Kopf / Schichten
 
@@ -291,7 +291,7 @@ Das Bewusstsein ist eine Vitalfunktion
 Beschreibung
 ^^^^^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Bewusstsein
 
@@ -300,7 +300,7 @@ Beschreibung
         -   Beurteilung:
 
             -   Bewusstseinsgrad (quantitativ)
-            -   Orientierung (qualitativ) → ``D``
+            -   Orientierung (qualitativ) → Ⓓ
 
 .. admonition:: Defintion
 
@@ -342,7 +342,7 @@ Das Periphere Nervensystem (PNS)
     die Verbindungsnerven zwischen dem ZNS und den Endorganen zusammen.
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: PNS
 
@@ -376,7 +376,7 @@ Nervensystem gehören alle peripheren Nerven.
 Unterteilung nach Lage und Aufbau
 ---------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: PNS / Aufbau
 
@@ -399,7 +399,7 @@ brachialis, Plexus lumbalis und Plexus sacralis).
 Unterteilung nach Funktion
 --------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: PNS / Funktion
 
@@ -475,7 +475,7 @@ Das vegetative Nervensystem sorgt für die autonome Steuerung wichtiger Körperf
 Beschreibung: Vegetatives Nervensystem
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Vegetatives Nervensystem
 
@@ -511,7 +511,7 @@ und dem **Parasympathikus**
 Sympathikus und Parasympathikus sind Gegenspieler
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Sympathikus und Parasympathikus
 

@@ -7,7 +7,7 @@
 Exkurs: Leber und Gallenblase
 *****************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Leber
 

@@ -12,7 +12,7 @@ Die innere und die äußere Atmung
 Innere Atmung
 =============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Innere Atmung
 
@@ -32,7 +32,7 @@ Dieser Vorgang wird auch :dfn:`Zellatmung` genannt.
 Äußere Atmung
 =============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Äußere Atmung
 
@@ -71,7 +71,7 @@ Die Atemwege gliedern sich in die oberen und die unteren Atemwege
 Obere Atemwege
 ==============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Obere Atemwege
 
@@ -185,7 +185,7 @@ bis schlussendlich sehr dünne *Bronchioli* in die
 Hier findet der Gasaustausch statt.
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Untere Atemwege
 
@@ -197,7 +197,7 @@ Hier findet der Gasaustausch statt.
 Die Lunge ist für einen Teil des Gasaustausches zuständig
 =========================================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Lunge
 
@@ -239,7 +239,7 @@ immer weitere kleinere Bronchien bis schließlich die Bronchioli in die
 Die Alveolen sind Endstücke des Atemwegs und für den Gasaustausch zuständig
 ---------------------------------------------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Alveolen
 
@@ -297,7 +297,7 @@ dienen, bezeichnet man als :dfn:`Totraum`.
 Die Pleura
 ----------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Pleura
 
@@ -375,7 +375,7 @@ Fußzeile ( [#Antwort]_)
 Ventilation: Die Atemmechanik sorgt für einen Zu- und Abfluss von Atemgas
 =========================================================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Atemmechanik
 
@@ -467,7 +467,7 @@ Gewebe und Pleura(spalt) wichtig:
 Resultat: Der Atemzyklus
 ========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Der Atemzyklus
 
@@ -533,7 +533,7 @@ Die Atmung ist eine Vitalfunktion
 Atemfrequenz, -tiefe und -volumen
 =================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Atemfrequenz, -tiefe, -volumen
 
@@ -622,7 +622,7 @@ Atemminutenvolumen von 6—8 L / min.
 Totraumbelüftung
 ================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Totraum
 
@@ -644,7 +644,7 @@ teilzunehmen. Der Totraum beträgt beim Erwachsenen ca. 150 mL. [Klinke:3]_
 Atemgase
 ========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Atemgase
 
@@ -692,7 +692,7 @@ aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
 Steuerung der Atmung
 ====================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Steuerung der Atmung
 
@@ -722,7 +722,7 @@ Die Voraussetzungen für eine funktionierende Atmung
 ===================================================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Voraussetzungen für die Atmung
 

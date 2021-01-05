@@ -11,7 +11,7 @@ Blutgefäße
 Arten von Blutgefäßen
 ---------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blutgefäßarten
 
@@ -43,7 +43,7 @@ Man unterscheidet zwischen:
 Sonderfall Shunt
 ----------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Dialyseshunt
 
@@ -73,7 +73,7 @@ das betrifft insbesonders die *Blutdruckmessung*
 Aufbau in Schichten
 --------------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Blutgefäße / Schichten
 

@@ -138,7 +138,7 @@ Vertragsverhältnis im Rettungswesen
 ===================================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Vertragsverhätlnis im Rettungswesen
 
@@ -239,7 +239,7 @@ Personal Rechte und Pflicht im Umgang miteinander.
 Straf- und Haftbarkeitsvoraussetzungen
 ======================================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Straf- und Haftbarkeitsvoraussetzungen
 
@@ -917,7 +917,7 @@ Pflichten des Sanitäters
 ------------------------
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Pflichten des Sanitäters
 
@@ -939,7 +939,7 @@ Pflichten des Sanitäters
 Behandlungs- bzw. Hilfeleistungspflicht
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Behandlungs-, Hilfeleistungspflicht
 
@@ -1303,7 +1303,7 @@ nach dem Medizinproduktegesetz (MPG) fortbilden.
 Rezertifizierungspflicht
 ------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Rezertifizierungspflicht
 

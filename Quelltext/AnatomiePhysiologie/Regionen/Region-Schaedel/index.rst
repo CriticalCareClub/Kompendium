@@ -17,7 +17,7 @@ auch alle übrigen Strukturen der Region ein (Haut, Muskeln, Hirn, …).
 Aufbau des Hirnschädels
 ***********************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Hirnschädel
 
@@ -33,7 +33,7 @@ miteinander verzahnt und verknöchert sind.
 Fontanellen
 ***********
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Fontanellen
 
@@ -70,7 +70,7 @@ welche Richtung der Kopf des Kindes schaut.
 Schädelbasis
 ************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Schädelbasis
 

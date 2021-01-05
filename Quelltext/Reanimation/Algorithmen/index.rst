@@ -3,7 +3,7 @@
 Algorithmen Herz-Lungen-Wiederbelebung
 **************************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Einleitung
 
@@ -53,17 +53,17 @@ sinkt die Überlebenswahrscheinlichkeit des Patienten um ca. 10%.
 Ist der Patient (bereits beim Antreffen) reglos, so geht man wie folgt
 vor:
 
-#.  ``1`` **Szeneüberblick mit (Selbst-)Schutz**: Es ist auf Sicherheit zu
+#.  ① **Szeneüberblick mit (Selbst-)Schutz**: Es ist auf Sicherheit zu
     achten. Helfer und Patient dürfen nicht gefährdet sein. Dieser Punkt
     ist ident mit dem allgemeinen Vorgehen des Patientenmanagements.
 
-#.  ``2`` **Eindruck**:
+#.  ② **Eindruck**:
     Der Patient ist reglos. Bei
     Atemnot/Atemstillstand kann Blässe und/oder Zyanose auffallen.
     Eventuell ist ein Unfallhergang ersichtlich. Dieser Punkt ist ident
     mit dem allgemeinen Vorgehen des Patientenmanagements.
 
-#.  ``3`` **Bewusstseinskontrolle**:
+#.  ③ **Bewusstseinskontrolle**:
     Der Patient ist
     laut und deutlich anzusprechen. Dabei kann man gleichzeitig an den
     Schultern des Patienten rütteln (Ausnahme: Traumageschehen!). Ein
@@ -83,7 +83,7 @@ vor:
     Um die Atemwege zu öffnen und frei zu halten
     wird der Kopf überstreckt.
 
-#.  ``B`` **Atmung prüfen**:
+#.  Ⓑ **Atmung prüfen**:
     Das Ohr des Helfers wird knapp über den Mund des
     Patienten gehalten. Die Blickrichtung des Helfers fällt auf den
     Brustkorb des Patienten. Jetzt wird für die Dauer von 10 s die

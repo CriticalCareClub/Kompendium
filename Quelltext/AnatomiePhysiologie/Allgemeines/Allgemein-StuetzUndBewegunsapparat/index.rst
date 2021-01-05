@@ -4,7 +4,7 @@ Der Stütz- und Bewegungsapparat
 ##########################################
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Stütz- und Bewegungsapparat
 
@@ -31,7 +31,7 @@ Der passive Halte- und Bewegungsapparat
 Das Skelett
 ============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Skelett
 
@@ -75,7 +75,7 @@ Die Knochen
 Knocheneinteilung
 -----------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Knochenarten
 
@@ -127,7 +127,7 @@ Aufbau eines Knochens
 
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Knochenaufbau
 
@@ -185,7 +185,7 @@ unterteilen.
 Rotes Knochenmark
 --------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Rotes Knochenmark
 
@@ -216,7 +216,7 @@ verantwortlich ist und normalerweise zeitlebens erhalten bleibt.
 Gelbes Knochenmark
 ---------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gelbes Knochenmark
 
@@ -239,7 +239,7 @@ ist nicht unbedingt für den Körper notwendig.
 Knochenentwicklung
 --------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Knochenentwicklung
 
@@ -273,7 +273,7 @@ Gelenke verbinden Knochen
 
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gelenke
 
@@ -311,7 +311,7 @@ Man unterscheidet:
 Prinzipieller Aufbau eines Gelenks
 ----------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gelenksaufbau
 
@@ -357,7 +357,7 @@ ist mit einer dünnen Schicht *Schmierflüssigkeit*
 Gelenkarten
 ----------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gelenkarten
 
@@ -463,7 +463,7 @@ Die Gesamtheit der Muskeln wird als
 Muskelarten
 -----------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Muskelarten
 
@@ -491,7 +491,7 @@ Prinzipiell gibt es 3 Arten von Muskelzellen:
 Spieler—Gegenspieler-Prinzip
 -----------------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gegenspieler
 

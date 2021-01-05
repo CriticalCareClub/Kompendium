@@ -10,24 +10,19 @@ Kollaps und Synkope (#48)
 Beschreibung und Ursachen
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Als Kollaps bzw. Synkope bezeichnet man eine kurzfristige
-Kreislaufregulationsstörung.** Manche Autoren unterscheiden zwischen
+Als Kollaps bzw. Synkope bezeichnet man eine kurzfristige
+Kreislaufregulationsstörung. Manche Autoren unterscheiden zwischen
 beiden Begriffen und ordnen der Synkope eher kardiale Ursachen zu.
 
 Ein Kollaps kann seine Ursachen in verschiedenen Organssystemen haben:
 
--  Herz (z. B. Herzrhythmusstörungen (*Adams-Stokes-Anfall*))
-
--  Gefäßen (z. B. Hitzebedingte Erweiterung der Gefäße mit "Versacken"
-   des Blutes in den Beinen)
-
--  Blut (z. B. Blutarmut (*Anämie*))
-
--  Hirn
-
--  Hirngefäßen (z. B. :abbr:`TIA (Transiente Ischämische Attacke)`) …
-
--  Sonstige Ursachen und Faktoren: Hypoglykämie, Menstruation
+-   Herz (z. B. Herzrhythmusstörungen (*Adams-Stokes-Anfall*))
+-   Gefäßen (z. B. Hitzebedingte Erweiterung der Gefäße mit "Versacken"
+    des Blutes in den Beinen)
+-   Blut (z. B. Blutarmut (*Anämie*))
+-   Hirn
+-   Hirngefäßen (z. B. :abbr:`TIA (Transiente Ischämische Attacke)`) …
+-   Sonstige Ursachen und Faktoren: Hypoglykämie, Menstruation
 
 Eine Abklärung ist präklinisch oft nicht möglich, und auch unter
 stationären Bedingungen oft langwierig und nicht selten ergebnislos. Da
@@ -47,13 +42,15 @@ dass er sich fast in die Grube neben den Sarg dazugelegt hätte …
 Symptome
 ^^^^^^^^
 
-.. sidebar:: Symptome
 
-    -  Schwindel
 
-    -  Evtl. kurze Ohnmacht, Schwarzwerden vor Augen
+.. only:: not nosidebar
 
-    -  RR ↓, evtl. Bradykardie oder Tachykardie
+    .. sidebar:: Symptome
+
+        -   Schwindel
+        -   Evtl. kurze Ohnmacht, Schwarzwerden vor Augen
+        -   RR ↓, evtl. Bradykardie oder Tachykardie
 
 Der Patient berichtet über Schwindel, evtl. ist er zusammengesackt, war
 kurz bewusstlos. Der Patient wacht oft auf dem Boden liegend auf und
@@ -67,15 +64,8 @@ eventuell bradykard oder tachykard.
 Maßnahmen: Kollaps
 ^^^^^^^^^^^^^^^^^^^
 
-
-
-.. todo::
-
-    Maßnahmen: Anpassung an höherqualifiziertes Personal
-
-
-
-Vitale Bedrohung einschätzen, auf Differentialdiagnosen untersuchen, z. B.:
+Vitale Bedrohung einschätzen, auf Differentialdiagnosen untersuchen,
+z. B.:
 
 -   Insult
 -   Herzrhytmusstörungen

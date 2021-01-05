@@ -39,7 +39,7 @@ Häufig anzutreffen sind:
 -   Beatmung mittels supra-/extraglottischer Atemwegshilfsmittel
 -   Beatmung mittels endotrachealer Intubation
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Technik und Parameter
 
@@ -89,7 +89,7 @@ Erfolglose Beatmungsversuche sollen nicht wiederholt werden.
 Gefahren
 ========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Beutel-Maske / Gefahren
 
@@ -132,7 +132,7 @@ Endotracheale Intubation (Reanimation)
 **********************************************************************************
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: ETI
 
@@ -280,7 +280,7 @@ Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
 
     Im Vergleich: Lage eines Larynx-Tubus
 
-    [Lena Hirtler, :term:`Lizenz: MfG`]
+    [Lena Hirtler, :term:`Ⓛ MfG`]
 
 .. raw:: latex
 
@@ -291,7 +291,7 @@ Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
 
     … und eines endotrachealen Tubus.
 
-    [Lena Hirtler, :term:`Lizenz: MfG`]
+    [Lena Hirtler, :term:`Ⓛ MfG`]
 
 .. raw:: latex
 
@@ -302,7 +302,7 @@ Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
 
     Position des Guedel-Tubus im Querschnitt
 
-    [Lena Hirtler, :term:`Lizenz: MfG`]
+    [Lena Hirtler, :term:`Ⓛ MfG`]
 
 .. subfigend::
     :width: 0.32

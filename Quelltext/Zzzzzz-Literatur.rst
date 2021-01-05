@@ -70,7 +70,6 @@ Literaturverzeichnis
     AerztlicheWundversorgung:2
     GruberHygieneRD:1
     Guerri:2009
-    Haag:2006
     Soehnke:200607
     HahnMikrobio:6
     TertialeNotfallIntensivmed:1
@@ -294,7 +293,6 @@ Literaturverzeichnis
 [AerztlicheWundversorgung:2]_
 [GruberHygieneRD:1]_
 [Guerri:2009]_
-[Haag:2006]_
 [HahnMikrobio:6]_
 [TertialeNotfallIntensivmed:1]_
 [OeBBRettEinGleis:2009]_
@@ -1505,11 +1503,12 @@ Z
 
 .. [FamPropAeGruFert:2011]
 
-	Blacky, Alexander, Magda Diab-El Schahawi, Sebastian Gabriel, Walter
-	Koller, Martin Lischka und Michael Schmidts:
-	2011.*Ärztliche
-	Grundfertigkeiten.* Skills Line 2. Department für medizinische Aus- und
-	Weiterbildung, Medizinische Universität Wien.
+    Blacky, Alexander, Magda Diab-El Schahawi, Sebastian Gabriel, Walter
+    Koller, Martin Lischka und Michael Schmidts:
+    **Ärztliche Grundfertigkeiten.**
+    Skills Line 2. Department für medizinische Aus- und
+    Weiterbildung, Medizinische Universität Wien.
+    2011.
 
 
 .. [FamPropAeGruFert:2012]
@@ -2171,18 +2170,12 @@ Z
 	Rettungsdienst.*
 	1. Auflage,  facultas.wuv.
 
-.. [HaagGyn:2007]
+.. [Haag:3]
 
 	Haag, Petra, Norbert Hanhart und Markus Müller. 2006a. *Gynäkologie Und
 	Urologie Für Studium Und Praxis - 2007/08.*
 	3. Auflage,  Medizinische
 	Verlags- und Informationsdienste.
-
-.. [Haag:2006]
-
-	———. 2006b. *Gynäkologie Und Urologie Für Studium Und Praxis - 2007/08.*
-	3. Auflage,  Medizinische Verlags- und Informationsdienste.
-
 
 
 
@@ -2334,11 +2327,10 @@ Z
 
 
 .. [Verbrennungsmed-2009Praehosp]
-	Krause, Th. und T. Loerbroks. 2009.
-	**Verbrennungsmedizin – Vom
-	Unfallort Bis Zur Rehabilitation.**
-	In, edited by Frank Wappler and
-	Gerald Spilker, 19–28. Thieme.
+    Krause, Th. und T. Loerbroks:
+    **Verbrennungsmedizin – Vom
+    Unfallort Bis Zur Rehabilitation.**
+    Thieme. 2009.
 
 
 
@@ -2787,9 +2779,9 @@ Z
 
 .. [U:61989]
 
-	Stadt Wien, Magistratsabteilung 38 – U-Bahn-Bau, ed:
-	1989.*Die
-	U-Bahnlinie U6. 1983-1989.* Compress Verlag.
+    Stadt Wien, Magistratsabteilung 38 – U-Bahn-Bau:
+    *Die U-Bahnlinie U6. 1983-1989.*
+    Compress Verlag, 1989.
 
 
 

@@ -16,7 +16,7 @@ dass ein Patient *reanimationspflichtig* ist.
 Grundsätzlich wird,
 wie bei jedem Patientenkontakt,
 mit dem Einschätzungsblock/1234-ABCDE-Schema begonnen (:ref:`Thema-Patientenmanagement`).
-Nach Erkennen des **fehlenden Bewusstseins** (``4``)
+Nach Erkennen des **fehlenden Bewusstseins** (④)
 wird bei ``A`` (Atemweg) der *Kopf überstreckt*
 und eine *Atemkontrolle* durchgeführt,
 welche eine **fehlende Atmung** oder **Schnappatmung** zeigt.

@@ -6,7 +6,7 @@
 Ösophagus
 -----------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Ösophagus
 

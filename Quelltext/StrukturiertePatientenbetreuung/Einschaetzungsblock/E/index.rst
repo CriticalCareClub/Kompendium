@@ -5,7 +5,7 @@
 | ``E`` – Wenn es nicht so klar ist: Raum für Instinkt und Erfahrung
 
 
-Mit den Punkten ``A``—``D`` wären die
+Mit den Punkten ``A``—Ⓓ wären die
 wichtigsten Untersuchungen durchgeführt.\ [#174]_
 Dennoch gibt es einige Patientengruppen,
 die zwar bei den ABCDs nicht auffällig sind,

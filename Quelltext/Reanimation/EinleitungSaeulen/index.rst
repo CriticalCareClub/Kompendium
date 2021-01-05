@@ -42,7 +42,7 @@ in eigenen Kapiteln behandelt.
 Hintergrund: ERC-Leitlinien
 ***********************************************************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: ERC
 
@@ -170,7 +170,7 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
             Herzdruckmassage
 
-            [Lena Hirtler, :term:`Lizenz: MfG`]
+            [Lena Hirtler, :term:`Ⓛ MfG`]
 
 .. raw:: latex
 
@@ -181,7 +181,7 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
             Beatmung
 
-            [Lena Hirtler, :term:`Lizenz: MfG`]
+            [Lena Hirtler, :term:`Ⓛ MfG`]
 
 .. raw:: latex
 
@@ -192,7 +192,7 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
             Defibrillation
 
-            [Lena Hirtler, :term:`Lizenz: MfG`]
+            [Lena Hirtler, :term:`Ⓛ MfG`]
 
 .. subfigend::
     :width: 0.32

@@ -81,14 +81,14 @@ Besonders zu beachten ist:
 
 -   ``A``: Ist der Atemweg (noch) sicher?
     (Kapnometrie! Auskultation)
--   ``B``: Hypo-/Hyperventilation (Kapnometrie!)
+-   Ⓑ: Hypo-/Hyperventilation (Kapnometrie!)
     Oxygenation,
     Sekundärverletzungen nach Reanimation (Spannungspneumothorax!)
--   ``C``:
+-   Ⓒ:
     Großzügige Indikation für eine schnelle Traumauntersuchung (STU;
     Denke an Sekundärverltzungen durch die Reanimation,
     Blutungsquellen (Abdomen!))
--   ``D``: Pupillen, Blutzucker
+-   Ⓓ: Pupillen, Blutzucker
 -   ``E``: 12-Kanal-EKG!
 
 Die Ermittlung der **Ursache**, sofern möglich,

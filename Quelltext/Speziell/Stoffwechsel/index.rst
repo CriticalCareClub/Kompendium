@@ -64,7 +64,7 @@ Insulin
 =======
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Insulin
 
@@ -93,7 +93,7 @@ Insulins sind zwei Störungen häufig:
 Diabetes mellitus: Typen
 ========================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Diabetes Typen
 
@@ -148,7 +148,7 @@ Typen des Diabetes mellitus:
 Spätfolgen
 ==========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Diabetes Folgeschäden
 
@@ -202,7 +202,7 @@ Bei der Hypoglykämie herrscht ein Blutzuckermangel
 
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Hypoglykämie
 
@@ -230,7 +230,7 @@ Petrides 2003).
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -301,7 +301,7 @@ Bei der Hyperglykämie ist der Blutzuckerspiegel erhöht
 ======================================================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Hyperglykämie
 
@@ -324,7 +324,7 @@ Blutzuckerwert bereits im Koma liegen.
 Auswirkungen
 ------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Auswirkungen
 
@@ -346,7 +346,7 @@ hineinzubekommen – es entsteht ein *Nährstoffmangel*.
 Ursachen
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Ursachen
 
@@ -376,7 +376,7 @@ hier der Insulinbedarf steigt.
 Symptome
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 

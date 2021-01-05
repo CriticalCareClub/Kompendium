@@ -276,7 +276,7 @@ Allgemeine Grundregeln und Ratschläge
 =====================================
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Allgemeine Grundregeln
 

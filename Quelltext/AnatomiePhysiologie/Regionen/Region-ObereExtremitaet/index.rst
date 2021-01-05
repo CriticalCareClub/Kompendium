@@ -18,7 +18,7 @@ Der Schultergürtel und die obere Extremität
 Der Schultergürtel
 ******************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Schultergürtel
 
@@ -53,7 +53,7 @@ Rotatorenmanschette) am Schultergürtel befestigt.
 Die obere Extremität
 ********************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Obere Extremität
 

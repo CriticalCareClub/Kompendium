@@ -1,12 +1,19 @@
 
+.. index::
+    single: Interkostalraum
+    single: ICR
+    single: Zwischenrippenraum
+
+
 .. _Thema-brustkorb-skelett:
 
 .. _Thema-thorax:
+.. _Intercostalraum:
 
 Der Brustkorb
 =============
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Der Brustkorb
 
@@ -17,6 +24,7 @@ Der Brustkorb
             -   3 "unechte"
             -   2 "fliegende"
 
+        -   Intercostalraum
         -   *Brustwirbelsäule* (12 Brustwirbel),
             mit Rippen in gelenkiger
             Verbindung
@@ -35,6 +43,7 @@ nur indirekt über einen Knorpel mit dem Brustbein verbunden
 (*"unechte Rippen"*), das 11. und das 12.
 Paar endet mit knorpeligen Spitzen frei zwischen den Bauchmuskeln
 (*"fliegende Rippen"*).
+Der Raum zwischen benachbarten Rippen heißt :dfn:`Intercostalraum` (Abkz. :dfn:`ICR`).
 
 Am Unterrand der Rippen verlaufen Nerven- und Gefäßbündel. Zwischen den
 Rippen spannt sich die :dfn:`Zwischenrippenmuskulatur`

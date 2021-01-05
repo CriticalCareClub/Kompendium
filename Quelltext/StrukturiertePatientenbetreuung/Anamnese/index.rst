@@ -32,17 +32,17 @@ oder Dokumentationen anderer Gesundheitseinrichtungen
 .. rubric:: SAMPLER
 .. Ausnahmweise als Beispiel eine Sidebar
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: SAMPLER
 
-        -  ``S`` ymptome und Schmerzen
+        -  🅂 ymptome und Schmerzen
         -  ``A`` llergien
-        -  ``M`` edikamente
-        -  ``P`` atientengeschichte
-        -  ``L`` etzte …
+        -  🄼 edikamente
+        -  🄿 atientengeschichte
+        -  🄻 etzte …
         -  ``E`` reignisse vor Notfalleintritt
-        -  ``R`` isikofaktoren
+        -  🅁 isikofaktoren
 
 
 In einer Notfallsituation soll das Anamnesegespräch gleichzeitig alle

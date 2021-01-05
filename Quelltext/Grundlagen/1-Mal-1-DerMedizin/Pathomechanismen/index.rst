@@ -34,7 +34,7 @@ Entzündung ist eine Reaktion des Körpers
 ****************************************
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Entzündung
 
@@ -80,14 +80,13 @@ i.d.R. an die betreffende Organbezeichnung angehängt wird:
 -   Rhinitis: "Schnupfen"
 -   Otitis: Ohrenentzündung
 
--  …
-
 
 
 .. index::
     single: Ischämie
 
 .. _Thema-ischaemie:
+.. _Ischaemie:
 
 ********
 Ischämie

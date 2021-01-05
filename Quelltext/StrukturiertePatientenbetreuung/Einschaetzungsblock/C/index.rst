@@ -1,5 +1,5 @@
 ************************************************************************
-``C`` Kreislauf (Circulation) und Schnelle Trauma-Untersuchung (``STU``)
+Ⓒ Kreislauf (Circulation) und Schnelle Trauma-Untersuchung (``STU``)
 ************************************************************************
 
 .. _Thema-Circulation:
@@ -236,7 +236,7 @@ Bei der Schnellen Trauma-Untersuchung (STU) können Blutungsquellen oder
 Hinweise auf Verletzungen des zentralen Nervensystems (ZNS) gefunden
 werden.
 Als Nebenbefund kann bei Verletzungen des Thorax eine mechanisch
-bedingte Atemstörung festgestellt werden (``B``-Befund).
+bedingte Atemstörung festgestellt werden (Ⓑ-Befund).
 
 
 

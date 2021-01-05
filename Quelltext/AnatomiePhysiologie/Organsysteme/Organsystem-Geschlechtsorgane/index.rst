@@ -33,7 +33,7 @@ Beim Mann ist die Unterteilung folgendermaßen:
 Hoden
 -----
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Hoden
 
@@ -54,7 +54,7 @@ Geburt kontrolliert werden.
 Nebenhoden
 ----------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Nebenhoden
 
@@ -76,7 +76,7 @@ werden im Nebenhoden abgebaut.
 Samenstrang
 -----------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Samenstrang
 
@@ -103,7 +103,7 @@ Hoden vor zu großen Temperaturunterschieden zu schützen
 Prostata und Bläschendrüse
 --------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Prostata
 
@@ -127,7 +127,7 @@ Sie sorgt für ca. 60% der Ejakulatflüssigkeit.
 Penis
 -----
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Penis
 
@@ -186,7 +186,7 @@ Die Unterteilung der Geschlechtsorgane der Frau ist:
 Eierstöcke
 ----------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Eierstöcke
 
@@ -209,7 +209,7 @@ schwangerschaftserhaltend wirken.
 Eileiter
 --------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Eileiter
 
@@ -236,7 +236,7 @@ Eileiter in die Gebärmutter, wo sie sich einnistet.
 Uterus (Gebärmutter)
 ----------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Uterus
 
@@ -262,7 +262,7 @@ mündet die Gebärmutter in die Scheide, die Mündung wird als
 Vagina (Scheide)
 ---------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Vagina
 
@@ -282,7 +282,7 @@ Geburtsvorganges.
 Schamlippen und Klitoris
 ------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Schamlippen, Klitoris
 
@@ -308,7 +308,7 @@ Klitoris die berührungsempfindlichste Stelle der Frau.
 Der weibliche Zyklus
 ====================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Zyklus
 
@@ -359,7 +359,7 @@ Die Schwangerschaft
 Beschreibung: Schwangerschaft
 -----------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Schwangerschaft
 
@@ -390,7 +390,7 @@ Von einer *Übertragung* spricht man ab der *42. SSW*.
 Schwangerschaftsverlauf
 -----------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Schwangerschaftsverlauf
 

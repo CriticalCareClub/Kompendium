@@ -16,9 +16,9 @@ folgt beschrieben:
 
 
 
-#.  ``1`` *Szeneüberblick mit (Selbst-)Schutz*: wie bei BLS
-#.  ``2`` *Eindruck*: wie BLS, zusätzlich Abschätzen des Alters
-#.  ``3`` *Bewusstsein beurteilen*: wie BLS,
+#.  ① *Szeneüberblick mit (Selbst-)Schutz*: wie bei BLS
+#.  ② *Eindruck*: wie BLS, zusätzlich Abschätzen des Alters
+#.  ③ *Bewusstsein beurteilen*: wie BLS,
     *kindgerecht* ansprechen
 
     -   Ist der *Patient ansprechbar* folgt das Vorgehen den allgemeinen
@@ -34,7 +34,7 @@ folgt beschrieben:
     Beim Säugling (1. Lebensjahr) wird der Kopf in Neutralposition\ [#147]_
     gehalten, beim Kind (Ende des 1. Lebensjahrs bis zur Pubertät) wird
     der Kopf vorsichtig überstreckt um die Atemwege zu öffnen.
-#.  ``B`` **Atmung prüfen**: Wie beim BLS wird für die Dauer von 10 s die Atmung
+#.  Ⓑ **Atmung prüfen**: Wie beim BLS wird für die Dauer von 10 s die Atmung
     des Patienten durch *Sehen*, *Höhren* und *Fühlen* beurteilt.
 
     *Beurteilung* ob die *Atmung normal* ist: wie BLS

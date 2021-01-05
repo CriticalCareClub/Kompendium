@@ -10,7 +10,7 @@ Exkurs: Harnkatheter
 ********************
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Harnkatheter
 
@@ -43,7 +43,7 @@ entsprechend oft bei Patienten anzutreffen.
 Nierenkolik
 ***********
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Nirenkolik
 
@@ -68,7 +68,7 @@ Dehnungsschmerz.
 Symptome
 ========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -112,7 +112,7 @@ Basismaßnahmen
 Harnwegsinfekt und Nierenbeckenentzüdung
 ****************************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Harnwegsinfektion
 
@@ -151,7 +151,7 @@ besonderes Risiko stellen hierbei harnableitende Systeme (Harnkatheter,
 Symptome
 ========
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Symptome
 
@@ -183,7 +183,7 @@ Akuter Harnverhalt
 ********************
 
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Harnverhalt
 
@@ -235,7 +235,7 @@ Basismaßnahmen
 Niereninsuffizienz, Nierenversagen und Dialyse
 **********************************************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Chronische Niereninsuffizienz
 
@@ -272,7 +272,7 @@ Krankentransportdienstes.
 Besonderheiten  und Gefahren
 ===============================
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Gefahren
 
@@ -323,7 +323,7 @@ Nierenersatztherapien bergen Gefahren für den Patienten:
 Hodentorsion
 ************
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Hodentorsion
 

@@ -33,7 +33,7 @@ der wiederum das Blut in die linke Herzkammer pumpt.
 Großer (Körper-)Kreislauf
 -------------------------
 
-.. only:: not latex
+.. only:: not nosidebar
 
     .. sidebar:: Kreislauf
 

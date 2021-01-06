@@ -391,4 +391,4 @@ Blut weder zu schnell noch zu langsam gerinnt.
 
 .. figure:: /Bilder/WikipediaCcBy/Bleeding_finger.*
 
-    Ⓒ Crystal (Crystl) from Bloomington, USA (http://www.flickr.com/people/crystalflickr/) Ⓛ CC-BY
+    ₢ Crystal (Crystl) from Bloomington, USA (http://www.flickr.com/people/crystalflickr/) ℓ CC-BY

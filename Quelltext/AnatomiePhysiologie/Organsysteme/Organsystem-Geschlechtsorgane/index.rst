@@ -28,7 +28,7 @@ Beim Mann ist die Unterteilung folgendermaßen:
 
     Die männlichen Geschlechtsorgane im Querschnitt
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 Hoden
 -----
@@ -181,7 +181,7 @@ Die Unterteilung der Geschlechtsorgane der Frau ist:
 
     Weibliche Geschlechtsorgane, Querschnitt
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 Eierstöcke
 ----------
@@ -348,7 +348,7 @@ angehalten und die Eizelle kann sich in die Uterusschleimhaut einnisten.
     Befruchtung wandert die Eizelle weiter in den Uterus und
     nistet sich dort ein.
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
 .. _Thema-schwangerschaft:
@@ -461,5 +461,5 @@ Schwangerschaft am 4. Tag der 39. Schwangerschaftswoche, zweitgebärend
 .. todo:: `#81 Bilderserie: Schwangerschaft <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/81>`_
 
     Die Lage des Fötus in der Gebärmutter.
-    Ⓒ Gray’s Anatomy, 20th ed. Ⓛ PD, Copyright expired
+    ₢ Gray’s Anatomy, 20th ed. ℓ PD, Copyright expired
 

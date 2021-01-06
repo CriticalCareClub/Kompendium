@@ -78,7 +78,7 @@ Die Leitstelle
 
     Arbeit in der Leitstelle
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 Eine Leitstelle leitet den Betrieb einer oder mehrerer zugeordneten
 Organisationseinheiten. Sie nimmt Informationen
@@ -585,7 +585,7 @@ mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifikation:
 
     RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.)
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -596,7 +596,7 @@ mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifikation:
 
     NEF der Wiener Berufsrettung (altes Modell)
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -607,7 +607,7 @@ mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifikation:
 
     Ein Hubschrauber der Christophorus-Flugrettungsflotte im Landeanflug an das AKH Wien
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32

@@ -53,4 +53,4 @@ beinhalten:
 
     "Sie wünschen?"
 
-    Ⓒ Gabriel :term:`Ⓛ MfG`
+    ₢ Gabriel :term:`ℓ MfG`

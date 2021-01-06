@@ -490,5 +490,5 @@ Synchronisation
 	    Ein Multifunktionsgerät mit integriertem Defibrillator
             (Corpuls:sup:`3`)
 
-            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+            ₢ Ch. Pallinger  :term:`ℓ MfG`
 

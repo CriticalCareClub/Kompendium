@@ -54,7 +54,7 @@ Sie ist für bestimmte Stoffe
 
     Schema einer Zelle
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 Von der Zelle zum Organismus
 ----------------------------

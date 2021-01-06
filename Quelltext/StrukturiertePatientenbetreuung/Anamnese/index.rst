@@ -14,7 +14,7 @@ Anamnese: SAMPLER
 
     Stille Wasser sind tief …
 
-    Ⓒ xkcd.com, :term:`Ⓛ CC BY-NC 2.5`
+    ₢ xkcd.com, :term:`ℓ CC BY-NC 2.5`
 
 
 Als :dfn:`Anamnese` bezeichnet man das Erheben der
@@ -527,7 +527,7 @@ veralten).
     eine Medikationsinformation. (Die Patientendaten am Bild
     sind erfunden.)
 
-    [Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`]
+    [₢ Sebastian Gabriel  :term:`ℓ MfG`]
 
 ***********
 🄻 Letzte …

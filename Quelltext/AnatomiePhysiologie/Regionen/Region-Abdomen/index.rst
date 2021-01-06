@@ -45,7 +45,7 @@ durchführen können.
         (grün), der Magen mit einem Teil der gelben Fettschürze
         "großes Netz", sowie der Dickdarm und der Dünndarm
 ..
-        Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+        ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 
 .. index::
@@ -111,7 +111,7 @@ Lendenwirbel hinab.
 
     Die Nieren
 
-    Ⓒ WmCo/Mikael Häggström and Madhero88 Ⓛ PD
+    ₢ WmCo/Mikael Häggström and Madhero88 ℓ PD
 
 Die rechte Niere liegt (wegen des großen rechten
 Leberlappens) ungefähr eine halbe Wirbelhöhe tiefer als die Linke. Die
@@ -218,7 +218,7 @@ Durch die kürzeren Harnwege bei der Frau kann es leichter zu
 
 
 
-.. todo:: image  Harntraktmit Nieren (rechte Niere im Querschnitt mit          Nierenbecken), Harnleiter, Blase und          Harnröhre[Figure-harntrakt]Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+.. todo:: image  Harntraktmit Nieren (rechte Niere im Querschnitt mit          Nierenbecken), Harnleiter, Blase und          Harnröhre[Figure-harntrakt]₢ Lena Hirtler, :term:`ℓ MfG`
 
 Die Nebennieren
 ===============

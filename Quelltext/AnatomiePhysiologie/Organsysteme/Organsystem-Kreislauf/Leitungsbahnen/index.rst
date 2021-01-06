@@ -65,7 +65,7 @@ Großer (Körper-)Kreislauf
 
     Der Blutkreislauf (Schema)
 
-    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+    ₢ Lena Hirtler  :term:`ℓ MfG`
 
 
 Das Blut wird aus der linken Herzkammer ausgestoßen und gelangt durch

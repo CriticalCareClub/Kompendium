@@ -144,7 +144,7 @@ Neurocheck
 
     Ungleiche Pupillen (Anisokorie)
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -155,7 +155,7 @@ Neurocheck
 
     Enge Pupille
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 .. raw:: latex
 

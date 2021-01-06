@@ -165,7 +165,7 @@ Typische Maßnahmen
 
     Anisokorie (Pupillendifferenz)
 
-    Ⓒ Gabriel :term:`Ⓛ MfG`
+    ₢ Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -176,7 +176,7 @@ Typische Maßnahmen
 
     Kraftprobe an den Armen
 
-    Ⓒ Michael Motal :term:`Ⓛ MfG`
+    ₢ Michael Motal :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -187,7 +187,7 @@ Typische Maßnahmen
 
     BZ-Messung
 
-    Ⓒ Michael Motal :term:`Ⓛ MfG`
+    ₢ Michael Motal :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32

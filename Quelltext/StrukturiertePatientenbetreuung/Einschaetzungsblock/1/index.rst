@@ -61,7 +61,7 @@ muss der Leitstelle eine erste *Lagemeldung* gegeben werden.
 
     Absperrung (hier deutlich verbesserungswürdig)
 
-    Ⓒ Gabriel :term:`Ⓛ MfG`
+    ₢ Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -79,7 +79,7 @@ muss der Leitstelle eine erste *Lagemeldung* gegeben werden.
 .. figure:: /Bilder/GabrielSebastian-Ccc/minen_hinweis2.jpg
     :width: 100%
 
-    Spezifische Gefahren erkennen Ⓒ Gabriel :term:`Ⓛ MfG`
+    Spezifische Gefahren erkennen ₢ Gabriel :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.31

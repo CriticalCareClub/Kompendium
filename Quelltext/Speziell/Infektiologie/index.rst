@@ -225,7 +225,7 @@ kaum an.
 Maßnahmen: Pneumonie
 --------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Symptomatisch
     -   Wärmeerhalt
     -   Bei Fieber Meningismus-Zeichen prüfen!
@@ -308,7 +308,7 @@ Maßnahmen: Tuberkulose
 ----------------------
 
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Bei Verdacht auf eine offene Tuberkulose
         Schutzmasken verwenden: FFP~3 für das Personal,
         Mund-Nasenmaske für den
@@ -349,7 +349,7 @@ nach der eigentlichen HIV-Infektion aus.
 
     Schema eines HI-Virus
 
-    Ⓒ US National Institute of Health, :term:`Ⓛ PD` (USGov-HHS-NIH)
+    ₢ US National Institute of Health, :term:`ℓ PD` (USGov-HHS-NIH)
 
 
 Übertragung
@@ -540,7 +540,7 @@ Meningokokken-Meningitis.
 Maßnahmen: Meningitis
 ---------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Schutzmaske für Personal und Patient (wenn zumutbar)
     -   Rückmeldung an Leitstelle vor Transport,
         Voranmeldung im Krankenhaus
@@ -589,7 +589,7 @@ daher nach wie vor groß.
 
     Patient mit Tetanus
 
-    Ⓒ Public Health Image Library, ID#: 6373, :term:`Ⓛ PD`
+    ₢ Public Health Image Library, ID#: 6373, :term:`ℓ PD`
 
 
 .. _Thema-tetanus-impfschutz:

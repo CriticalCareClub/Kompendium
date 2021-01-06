@@ -117,7 +117,7 @@ Es gibt Manschetten in unterschiedlichen Größen.
     Blutdruckmanschetten mit Hak- und Klettverschluss, sowie einem Doppel-
     und einem Einzelkopfstethoskop
 
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 .. _Thema-Stethoskop:
 
@@ -241,7 +241,7 @@ Der Normalwert beim Erwachsenen liegt in etwa bei RR 130/80
     anliegenden Manschettendruck kommt es zu einem unterschiedlich starken
     Blutfluss und dadurch entstehenden, hörbaren, Strömungsgeräuschen.
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 Palpatorische Methode
 ^^^^^^^^^^^^^^^^^^^^^

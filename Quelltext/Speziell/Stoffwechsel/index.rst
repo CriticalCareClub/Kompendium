@@ -279,7 +279,7 @@ Taktik
     Vitale Bedrohung je nach Bewusstseinsgrad,
     Zucker zuführen
 
-Basismaßnahmen
+⛑ Basismaßnahmen
 -   Vitale Bedrohung einschätzen. |TxBeiVit| |TxMassVitMK|
 
 -   BZ messen! Zur Diagnosestellung bzw. *vor* und *nach*
@@ -439,7 +439,7 @@ Taktik
 
     Sichern der Vitalfunktionen
 
-Basismaßnahmen
+⛑ Basismaßnahmen
 -   |TxMassVitMKBes|
 
     -   Lagerung: Stabile Seitenlage

@@ -103,7 +103,7 @@ Durchführung
 
     Material zur Blutzuckermessung
 
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 .. raw:: latex
 

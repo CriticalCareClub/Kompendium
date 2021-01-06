@@ -61,7 +61,7 @@ aufgrund von *Inhalation giftiger Substanzen* (*toxisch*) entstehen:
 .. note::
     Ein kardiales und ein hypertensives Lungenödem
     zeigen mit dem Leitsymptom "Atemnot" zwar primär ein Ⓑ-\ *Symptom*,
-    ursächlich ist jedoch eine Kreislaufstörung und somit ein Ⓒ-\ *Problem*.
+    ursächlich ist jedoch eine Kreislaufstörung und somit ein ₢-\ *Problem*.
 
 In allen Fällen behindern die Ödeme bzw. die Flüssigkeit in den Alveolen den *Gasaustausch*, d. h. die Diffuion, massiv,
 beim kardialen Lungenödem kommt noch das begleitende Herz- und damit Kreislaufproblemproblem dazu.
@@ -207,7 +207,7 @@ Maßnahmen: Kardilaes Lungenödem, leicht
 Taktik
     Belastung minimieren, bestmögliches Monitoring
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Vitale Bedrohung beurteilen.
         |TxBeiVit|\ :
         Behandlung wie schweres Lungenödem (:ref:`m-lungenoedem-schwer`)
@@ -216,7 +216,7 @@ Basismaßnahmen
     -   Bestmögliches Monitoring
     -   Transportentscheidung: Abt. f. Innere Medizin
 
-Pharmakotherapie
+🕏 Pharmakotherapie
     -   Diuretika
 
 Beatmungstherapie
@@ -237,7 +237,7 @@ Taktik
     rasche medikamentöse Therapie (veranlassen);
     ärztliche Therapie notwendig
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMK|
 
         -   Lagerung: Oberkörper hoch,
@@ -251,7 +251,7 @@ Basismaßnahmen
     -   Transportentscheidung: Internistische Intensiv- bzw.
         Überwachungstation
 
-Pharmakotherapie
+🕏 Pharmakotherapie
     -   Morphin
     -   Nitrate
     -   Diurektika

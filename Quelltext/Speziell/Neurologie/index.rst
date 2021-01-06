@@ -223,7 +223,7 @@ Maßnahmen: Bewusstseinseintrübung
 .. todo:: Maßnahme MR40001B: Anpassung an höherqualifiziertes Personal
 
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Lagerung: situationsgerecht je nach
         Verdachtsdiagnose, im Zweifel **stabile
         Seitenlage**, bei hochschwangeren Frauen auf die
@@ -252,7 +252,7 @@ Maßnahmen: Bewusstlose und soporöse Patienten
 
 .. todo:: Maßnahme MR40021B: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMKBes|
 
         -   Lagerung: stabile Seitenlage, bei hochschwangeren Frauen auf die
@@ -322,7 +322,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
 
     Anisokorie
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 
 .. _Thema-hirnstammeinklemmung:
@@ -573,7 +573,7 @@ d. h. es ist sehr wichtig,
 dass diese Therapie möglichst schnell erfolgt.
 
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMKBes|
 
         -   **Lagerung**: *leicht erhöhter Oberkörper*
@@ -864,7 +864,7 @@ Taktik
     besteht, Klärung des Herganges (Fremdanamnese!),
     Differentialdiagnosen abklären
 
-Basismaßnahmen
+⛑ Basismaßnahmen
 -   |TxMassVitMKBes|
 
     -   Lagerung: sichern. In der Nachschlafphase stabile
@@ -908,7 +908,7 @@ Taktik
     Differentialdiagnosen abklären
     Neuerlicher Krampfanfall möglich!
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Umstände klären und entscheiden ob **Notarzt**
         notwendig ist:
 
@@ -958,7 +958,7 @@ es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben
 
     Fieber
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 Eklamptischer Krampfanfall während der Schwangerschaft
 ------------------------------------------------------

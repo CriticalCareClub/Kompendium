@@ -108,7 +108,7 @@ Die CO₂-Messung hat im wesentlichen folgende Funktionen:
     Die Kapnometrie ist wichtig, um die korrekte
     Lage des Tubus in der Luftröhre zu bestätigen.
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 Bei allen Messvorrichtungen muss ein *Bakterienfilter* zwischen
 Tubus und Messeinrichtung eingebaut sein, da die Feuchtigkeit

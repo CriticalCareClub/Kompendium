@@ -52,7 +52,7 @@ bzw. Abkz.: *1-, 2-, 3-VD*).
 
     Das Herz mit seinen Koronargefäßen
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -70,7 +70,7 @@ bzw. Abkz.: *1-, 2-, 3-VD*).
     Kontrastmittel appliziert um die Gefäße mittels Röntgendurchleuchtung
     sichtbar zu machen.
 
-    Ⓒ WmCo "Bionerd", :term:`Ⓛ CC BY 3.0`
+    ₢ WmCo "Bionerd", :term:`ℓ CC BY 3.0`
 
 .. raw:: latex
 
@@ -81,7 +81,7 @@ bzw. Abkz.: *1-, 2-, 3-VD*).
 
     Die Koronargefäße versorgen den Herzmuskel von außen nach innen.
 
-    Ⓒ Patrick Lynch, :term:`Ⓛ CC BY 2.5`
+    ₢ Patrick Lynch, :term:`ℓ CC BY 2.5`
 
 .. subfigend::
     :width: 0.32
@@ -251,8 +251,8 @@ Schäden am Herzmuskel bestehen.
         Das Herz im Querschnitt, gesehen von unten: Links der rechte
         Ventrikel, rechts der muskelstarke linke Ventrikel.
 
-        Ⓒ Patrick Lynch
-        :term:`Ⓛ CC BY 2.5`
+        ₢ Patrick Lynch
+        :term:`ℓ CC BY 2.5`
 
 .. raw:: latex
 
@@ -263,9 +263,9 @@ Schäden am Herzmuskel bestehen.
 
     Ischämisches Herzmuskelgewebe ...
 
-    Ⓒ Patrick J. Lynch, medical illustrator,
+    ₢ Patrick J. Lynch, medical illustrator,
     C. Carl Jaffe MD, cardiologist.
-    :term:`Ⓛ CC BY 2.5`
+    :term:`ℓ CC BY 2.5`
 
 .. raw:: latex
 
@@ -278,9 +278,9 @@ Schäden am Herzmuskel bestehen.
     es bildet sich eine (funktionslose) Narbe,
     die Herzleistung ist in Folge beeinträchtigt.
 
-    Ⓒ Patrick J. Lynch, medical illustrator,
+    ₢ Patrick J. Lynch, medical illustrator,
     C. Carl Jaffe MD, cardiologist.
-    :term:`Ⓛ CC BY 2.5`
+    :term:`ℓ CC BY 2.5`
 
 
 .. subfigend::
@@ -329,7 +329,7 @@ Ein Herzinfarkt stellt somit eine **akute vitale Bedrohung** dar.
     Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre
     Tachykardie, sind häufige Komplikationen eines Herzinfarktes
 
-    :term:`Ⓛ PD`
+    :term:`ℓ PD`
 
 
 

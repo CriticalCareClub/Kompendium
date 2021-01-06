@@ -43,5 +43,5 @@ In der Wand des Ösophagus befinden sich zahlreiche Venen.
 
     Ösophagus, Schema
 
-    Ⓛ [PD]
+    ℓ [PD]
 

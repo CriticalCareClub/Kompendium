@@ -134,5 +134,5 @@ Abschnitten der Wirbelsäule sehen die Wirbel unterschiedlich aus.
 
     Wirbel
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 

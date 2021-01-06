@@ -89,7 +89,7 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [#129]_
             Ein Larynxtubus der ersten Generation mit geblocktem
             Cuff.
 
-            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+            ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -100,7 +100,7 @@ lebensrettenden Sofortmaßnahmen angewendet werden.\ [#129]_
 
       Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung.
 
-      Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+      ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32

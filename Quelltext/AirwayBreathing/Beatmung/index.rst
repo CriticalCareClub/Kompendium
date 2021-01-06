@@ -402,7 +402,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             Sauerstofflasche, eine Berieselungseinheit und daran
             angeschlossen eine Berieselungsmaske.
 
-            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+            ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -424,7 +424,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             des Beatmungsschlauches ("Disconnection"), niederen Flaschendruck
             ("<2.7bar") und schwache Batterie.
 
-            Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+            ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -439,7 +439,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
             mittels Monitor und Drehräder. Abgebildet ist die
             Durchführung einer Funktionskontrolle der Bedienelemente.
 
-            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+            ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32
@@ -494,7 +494,7 @@ Alveolen verhindert.
 
             PEEP-Ventil
 
-            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+            ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 
 

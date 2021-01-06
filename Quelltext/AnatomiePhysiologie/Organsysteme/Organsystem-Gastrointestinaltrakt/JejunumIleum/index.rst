@@ -54,7 +54,7 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 
     Dünndarm
 
-    Ⓒ WmCo/Mikael Häggström Ⓛ Public domain
+    ₢ WmCo/Mikael Häggström ℓ Public domain
 
 
 
@@ -68,7 +68,7 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 
     Am Rand sieht man deutlich den Dickdarm, unter der Fettschürze zeichnen sich die Schlingen des Dünndarms ab.
 
-    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+    ₢ Lena Hirtler  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -79,7 +79,7 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 
     Schema: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.
 
-    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+    ₢ Lena Hirtler  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -90,7 +90,7 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 
     Foto: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.
 
-    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+    ₢ Lena Hirtler  :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32

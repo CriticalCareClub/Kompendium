@@ -295,7 +295,7 @@ Maßnahmen: Unruhiger oder aggressiver Patient
 
 .. todo:: Maßnahme PF92091C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Ruhe vermitteln und deeskalieren:
 
         -   Ruhig bleiben! Achtung auf eigenen Tonfall!

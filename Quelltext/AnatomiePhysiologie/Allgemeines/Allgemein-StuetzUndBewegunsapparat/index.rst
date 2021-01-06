@@ -60,7 +60,7 @@ Blutkörperchen sowie den Blutplättchen im roten Knochenmark).
 
     Das menschliche Skelett.
 
-    Ⓒ Mariana Ruiz Villarreal Ⓛ Public domain
+    ₢ Mariana Ruiz Villarreal ℓ Public domain
 
 
 Die Knochen
@@ -179,7 +179,7 @@ unterteilen.
 
     Ein langer Röhrenknochen im Querschnitt
 
-    Ⓒ Lena Hirtler :term:`Ⓛ MfG`
+    ₢ Lena Hirtler :term:`ℓ MfG`
 
 
 Rotes Knochenmark
@@ -336,7 +336,7 @@ ist mit einer dünnen Schicht *Schmierflüssigkeit*
 
     Ein Gelenk im Querschnitt
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 .. index::
     single: ! Kugelgelenk
@@ -432,7 +432,7 @@ Typische Beispiele sind:
     **D** Scharniergelenk (1 Achse; z. B. Fingergliedgelenke, Elle–Oberarmknochen),
     **E** Zapfengelenk (1 Achse; z. B. Elle–Speiche)
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
 Der aktive Halte- und Bewegungsapparat
@@ -508,7 +508,7 @@ streckt den Arm, ein *anderer* beugt ihn).
 
     Muskelzug
 
-    Ⓒ Gray’s Anatomy  Ⓛ Copyright expired
+    ₢ Gray’s Anatomy  ℓ Copyright expired
 
 Jeder Muskel hat einen *Ursprung* (*"Wo kommt er her?"*) und einen
 *Ansatz* (*"Wo geht er hin?"*). Diese beiden Punkte bestimmen die

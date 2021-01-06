@@ -32,13 +32,13 @@ Reanimation (#31)
 
         ALS-Algorithmus
 
-        [Josef Emhofer, nach [ERC:2015:03]_\ / :term:`Ⓛ MfG`]
+        [Josef Emhofer, nach [ERC:2015:03]_\ / :term:`ℓ MfG`]
 
 
 :download:`/Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.pdf`
 
 ALS-Algorithmus
-[Josef Emhofer, nach [ERC:2015:03]_\ / :term:`Ⓛ MfG`]
+[Josef Emhofer, nach [ERC:2015:03]_\ / :term:`ℓ MfG`]
 
 
 .. rubric:: Literatur

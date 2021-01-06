@@ -421,7 +421,7 @@ Fall 6. Unterlassung der Notarztnachforderung
 
     Ein NEF
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 Endlich am Stützpunkt angekommen, ist Alex auch schon der Erste der sich
 zum Kaffeeautomaten begibt. Entkräftet durch die einsetzende
@@ -504,7 +504,7 @@ Fall 7. Sanitäterkompetenzen
 
     Ein blutiger Venflon — vom Fleischhauer?
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 Nach langem hin und her können Sepp und Bernd gemeinsam den Alex
 überreden doch einen Notarzt nachzufordern und Sepp, der gerade frisch
@@ -560,7 +560,7 @@ Fall 8. Rechtswidrige Anordnung durch Notarzt
     :align: right
     :width: 50%
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 Sepp konnte sich nun dazu überreden lassen keinen Venflon zu legen und
 möchte wenigstens Nitro verabreichen. Gerade noch rechtzeitig bemerkt er
@@ -1007,7 +1007,7 @@ Fall 15. Ansteckende Krankheiten
     :align: right
     :width: 50%
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 Als Herr Schmerz nach langem hin und her auf der Abteilung für *Innere
 Medizin* aufgenommen wurde, erholen sich Alex, Sepp und Bernd bei einem
@@ -1054,7 +1054,7 @@ Fall 16. Strafbare Handlungen
 
     Hämatom
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 
 
@@ -1105,7 +1105,7 @@ Fall 17. Blaulichtverwendung
     :align: right
     :width: 50%
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 Nach Durchführung der Behandlung und Anzeige gegen den aggressiven
 Freund, begibt sich das RTW-Team erschöpft zum Stützpunkt zurück.

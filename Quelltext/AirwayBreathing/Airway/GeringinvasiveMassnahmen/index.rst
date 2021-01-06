@@ -34,7 +34,7 @@ Geringinvasive A-Maßnahmen
     :width: 0.32
     :label: Figure-uebersicht-lage-atemwegshilfen
 
-    Übersicht: Lage verschiedener Hilfsmittel zur Atemwegssicherung Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+    Übersicht: Lage verschiedener Hilfsmittel zur Atemwegssicherung ₢ Lena Hirtler  :term:`ℓ MfG`
 
 .. toctree::
     :maxdepth: 2

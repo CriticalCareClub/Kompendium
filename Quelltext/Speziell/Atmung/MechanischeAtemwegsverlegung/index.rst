@@ -206,7 +206,7 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
     Atemwegsverlegung (Schema): Der linke Bissen steckt in der
     Luftröhre fest, der andere befindet sich in der Speiseröhre.
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
 .. figure:: /Bilder/WikipediaPd/Abdominal_thrusts3.jpg
@@ -218,7 +218,7 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
     victim with the assistance of Hospital Corpsman Second Class Ross
     Francis.
 
-    Ⓒ Amanda M. Woodhead, USMC, :term:`Ⓛ PD`
+    ₢ Amanda M. Woodhead, USMC, :term:`ℓ PD`
 
 .. _m-atemwegsverlegung:
 

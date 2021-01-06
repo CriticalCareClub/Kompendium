@@ -77,7 +77,7 @@ Die untere Extremität
 
     Der Beckengürtel und die untere Extremität
 
-    Ⓒ Mariana Ruiz Villarreal Ⓛ Public domain
+    ₢ Mariana Ruiz Villarreal ℓ Public domain
 
 
 Das Bein beginnt mit dem :dfn:`Hüftgelenk`, einem **Kugelgelenk**,

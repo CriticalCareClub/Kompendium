@@ -292,7 +292,7 @@ Vorgehen
 
     Kontrolle
 
-    Ⓒ Michael Motal  :term:`Ⓛ MfG`
+    ₢ Michael Motal  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -303,7 +303,7 @@ Vorgehen
 
     Aufziehen mit Kanüle
 
-    Ⓒ Michael Motal  :term:`Ⓛ MfG`
+    ₢ Michael Motal  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -314,7 +314,7 @@ Vorgehen
 
     Übergabe
 
-    Ⓒ Michael Motal  :term:`Ⓛ MfG`
+    ₢ Michael Motal  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -325,7 +325,7 @@ Vorgehen
 
     Verabreichung über Venflon durch befugtes Personal
 
-    Ⓒ Michael Motal  :term:`Ⓛ MfG`
+    ₢ Michael Motal  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -393,7 +393,7 @@ Vorgehen
 
     Infusionsbesteck
 
-    Ⓒ Christoph Pallinger :term:`Ⓛ MfG`
+    ₢ Christoph Pallinger :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -405,7 +405,7 @@ Vorgehen
     Beispiele für Infusionsbeutel und
     -flaschen
 
-    Ⓒ Christoph Pallinger :term:`Ⓛ MfG`
+    ₢ Christoph Pallinger :term:`ℓ MfG`
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Tropfkammer-Live-00441pt.*
     :width: 100%

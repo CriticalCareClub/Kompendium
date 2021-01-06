@@ -100,7 +100,7 @@ Maßnahmen: Abort
 
 .. todo:: Maßnahme GO06XX1C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen:
+⛑ Basismaßnahmen:
     -   Lagerung:
         sterile Vorlage und Lagerung nach Fritsch
     -   |TxBeiVit|: |TxMassVitMKBes|
@@ -154,7 +154,7 @@ Abdomens und eines hypovolämischen Schocks.
 
 Maßnahmen: Eileiterschwangerschaft, Verdacht
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Symptomatische Erstversorgung
 
 
@@ -164,7 +164,7 @@ Basismaßnahmen
 Maßnahmen: Eileiterschwangerschaft, rupturiert
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMKBes|
 
         -   Lagerung: Bauchdeckenentspannend.
@@ -209,7 +209,7 @@ Symptome eines *akuten Abdomens* zeigen.
 Maßnahmen: Vorzeitige Plazentalösung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMKBes|
 
         -   Lagerung: sterile Vorlage und Lagerung nach Fritsch.
@@ -247,7 +247,7 @@ rechts der Körpermitte verläuft.
 Maßnahmen: Vena-cava-Syndrom
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Linksseitenlage, grundsätzlich immer bei
         hochschwangeren Patientinnen.
 
@@ -317,7 +317,7 @@ Erbrechen. [Haag:3]_
 Maßnahmen: Präeklampsie
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   schonender Transport
     -   Überwachung, evtl. O₂
     -   Reizabschirmung
@@ -359,10 +359,10 @@ geburtshilflichen Abteilung vorzustellen.
 .. _GO42090C:
 .. _m-fruchtwasserabgang:
 
-Basismaßnahmen: Vorzeitiger Blasensprung
+⛑ Basismaßnahmen: Vorzeitiger Blasensprung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Lagerung: Linksseitenlagerung, Becken erhöht
         (Schwerkraft verzögert Geburt), Lagerung nach Fritsch
     -   Nicht mehr aufstehen lassen! Liegender Transport!
@@ -510,7 +510,7 @@ Nachgeburtsphase
     Durchtrennung der Nabelschnur, die patientenferne Klemme ist
     durch die Hand verdeckt.
 
-    Ⓒ WMC: "Jeremykemp" Ⓛ PD
+    ₢ WMC: "Jeremykemp" ℓ PD
 
 .. raw:: latex
 
@@ -521,7 +521,7 @@ Nachgeburtsphase
 
     Abgeklemmte Nabelschnur
 
-    Ⓒ WMC: "Harmid" Ⓛ PD
+    ₢ WMC: "Harmid" ℓ PD
 
 .. raw:: latex
 
@@ -532,7 +532,7 @@ Nachgeburtsphase
 
     Nabelschnurstumpf nach sieben Tagen
 
-    Ⓒ WMC: "Fatrabbit" Ⓛ PD
+    ₢ WMC: "Fatrabbit" ℓ PD
 
 .. subfigend::
     :width: 0.32
@@ -761,7 +761,7 @@ Maßnahmen: Versorgung des Neugeborenen
     Nabelklemmen (2 Stk.), Orosauger, Aluminiumdecke, Klebeband, Schere,
     Verbandspäckchen
 
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 Apgar-Score
 ^^^^^^^^^^^
@@ -830,7 +830,7 @@ Maßnahmen: Basisreanimation des Neugeborenen
 
 .. todo:: Maßnahme GY51140C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   2 Daumen nebeneinander über dem
         unteren Drittel des Brustbeins,
         direkt unter einer gedachten Linie zwischen den
@@ -899,7 +899,7 @@ Strangulation des Kindes.
 Maßnahmen: Nabelschnurvorfall
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   **Zeitkritisch!**
     -   **Notarztnachforderung nur wenn Stabilisierung notwendig**
     -   Beckenhochlagerung
@@ -944,7 +944,7 @@ Unter Wehentätigkeit kommt es zu starken Blutungen aus der Scheide.
 Maßnahmen: Placenta praevia bei bevorstehender Geburt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMKBes|
 
         -   **Zeitkritisch!**
@@ -979,7 +979,7 @@ Lageanomalie.
 Maßnahmen: Pathologische Geburtslagen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Bei Geburtsunmöglichen Lagen:
 
         -   **Zeitkritisch!**
@@ -1010,7 +1010,7 @@ wegen des O₂-Mangels.
 Maßnahmen: Uterusruptur
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMK|
     -   Schockbekämpfung
     -   Lagerung: Fritsch, Beine hoch
@@ -1052,7 +1052,7 @@ Maßnahmen: Blutung in der Nachgeburtsperiode
 
 .. todo:: Maßnahme GO72000C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMK|
     -   Schockbekämpfung
     -   Lagerung: Fritsch, Beine hoch
@@ -1105,7 +1105,7 @@ Maßnahmen: Vaginale Blutung
 ---------------------------
 
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Lagerung nach Fritsch
 
 

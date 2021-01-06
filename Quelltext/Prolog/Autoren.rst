@@ -186,7 +186,7 @@ Quellennachweise
         Michael Motal
 
     UE2011FORTUNA-00651
-        Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+        ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 

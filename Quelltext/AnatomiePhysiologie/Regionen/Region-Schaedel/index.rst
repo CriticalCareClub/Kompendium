@@ -57,7 +57,7 @@ entstehen die *Schädelnähte* *Suturen*.
 
     Fontanellen
 
-    Ⓒ Gray’s Anatomy Ⓛ Copyright expired
+    ₢ Gray’s Anatomy ℓ Copyright expired
 
 Es gibt zwei Fontanellen: Die *große Fontanelle* befindet sich zwischen
 dem Stirnbein und den Scheitelbeinen, die *kleine* Fontanelle zwischen
@@ -91,4 +91,4 @@ ist die *Durchtrittsstelle des Rückenmarks*.
 
     Aufsicht auf die Schädelbasis
 
-    Ⓒ Gray’s Anatomy Ⓛ Copyright expired
+    ₢ Gray’s Anatomy ℓ Copyright expired

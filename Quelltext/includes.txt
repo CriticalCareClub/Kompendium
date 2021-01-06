@@ -1,0 +1,245 @@
+
+
+
+
+
+
+
+
+
+
+
+
+.. |-| replace:: ` `
+.. |CO2| replace:: CO\ :sub:`2`
+.. |EtCO2| replace:: EtCO\ :sub:`2`
+.. |FiO2| replace:: FiO\ :sub:`2`
+.. |G-| replace:: G\ :sub:`neg`
+.. |G+| replace:: G\ :sub:`+`
+.. |H2O| replace:: H\ :sub:`2`\ O
+.. |H+| replace:: H\ :sup:`+`
+.. |HCO3-| replace:: HCO\ :sub:`3`\ :sup:`-`
+.. |IV| replace:: i. v.
+.. |McgPerKg| replace:: mcg / kg
+.. |McgPerKgPerH| replace:: mcg / kg / h
+.. |McgPerKgPerMin| replace:: mcg / kg / min
+.. |MgPerKg| replace:: mg / kg
+.. |MgPerKgPerH| replace:: mg / kg / h
+.. |MgPerMl| replace:: mg / mL
+.. |MlPerKg| replace:: mL / kg
+.. |MlPerKgPerH| replace:: mL / kg / h
+.. |paCO2| replace:: p\ :sub:`a`\ CO\ :sub:`2`
+.. |paO2| replace:: p\ :sub:`a`\ O\ :sub:`2`
+.. |pCO2| replace:: pCO\ :sub:`2`
+.. |pO2| replace:: pO\ :sub:`2`
+.. |O2| replace:: O\ :sub:`2`
+.. |P2Y12| replace:: P2Y\ :sub:`12`
+.. |SaO2| replace:: SaO\ :sub:`2`
+.. |SpO2| replace:: SpO\ :sub:`2`
+.. |symbol-RedFlag| replace:: ⚑
+.. |TxBeiVit| replace:: Bei vitaler Bedrohung:
+.. |TxMassVitMK| replace:: Standardmaßnahmen bei vital bedrohten Patienten
+.. |TxMassVitMKBes| replace:: Standardmaßnahmen bei vital bedrohten Patienten, Besonderheiten:
+.. |z. B.| replace:: z. B.
+.. |ZB| replace:: Z. B.
+.. |zB| replace:: z. B.
+
+.. |Text-NotReleased| replace:: Achtung -- Entwicklungsversion! Dieses Dokument ist **nicht freigegeben** und laufenden Änderungen unterworfen. Es enthält ungesicherte Informationen und ist als **unzuverlässig** und **rein informativ** zu betrachten. Die unerlaubte Verbreitung ist untersagt!
+
+.. |Text-InkubatorInhalt| replace:: Diese Inhalte sind noch im **Inkubator-Stadium** und befinden sich noch nicht auf dem gewünschten fachlichen Niveau, bzw. sind unvollständig und bedürfen einer umfangreichen Überarbeitung. *Nur zur Ansicht oder zu Entwicklungszwecken!*
+
+
+.. |Text-Abcde-1| replace:: ① — Szeneüberblick und (Selbst-)Schutz
+.. |Text-Abcde-2| replace:: ② Eindruck und HWS-Stabilisierung
+.. |Text-Abcde-3| replace:: ③ — Bewusstsein
+.. |Text-Abcde-4| replace:: ④ — Hauptbeschwerde
+.. |Text-Abcde-A| replace:: Ⓐ — Atemweg
+.. |Text-Abcde-B| replace:: Ⓑ — Atmung
+.. |Text-Abcde-C| replace:: Ⓒ — Kreislauf und STU
+.. |Text-Abcde-D| replace:: Ⓓ — Neurologie
+.. |Text-Abcde-E| replace:: Ⓔ — Erweiterte Untersuchung
+.. |Text-Abcde-Alt| replace:: ``…`` — Weiteres
+.. |Text-Abcde-Fazit| replace:: ``=`` — Beurteilung
+
+.. |Text-Sampler-S| replace:: ``S`` — Symptome und Schmerzen
+.. |Text-Sampler-A| replace:: ``A`` — Allergien
+.. |Text-Sampler-M| replace:: ``M`` — Medikation
+.. |Text-Sampler-P| replace:: ``P`` — Patientengeschichte
+.. |Text-Sampler-L| replace:: ``L`` — Letze …
+.. |Text-Sampler-E| replace:: ``E`` — Ereignisse vor Notfalleintritt
+.. |Text-Sampler-R| replace:: ``R`` — Risikofaktoren
+
+.. |Text-Abcde-1-Short| replace:: ① — Szeneüberblick, Schutz
+.. |Text-Abcde-2-Short| replace:: ② — Eindruck, HWS
+.. |Text-Abcde-3-Short| replace:: ③ — Bewusstsein
+.. |Text-Abcde-4-Short| replace:: ④ — Hauptbeschwerde
+.. |Text-Abcde-A-Short| replace:: Ⓐ — Atemweg
+.. |Text-Abcde-B-Short| replace:: Ⓑ — Atmung
+.. |Text-Abcde-C-Short| replace:: Ⓒ — Kreislauf, STU
+.. |Text-Abcde-D-Short| replace:: Ⓓ — Neurologie
+.. |Text-Abcde-E-Short| replace:: Ⓔ — Erweitertet
+.. |Text-Abcde-Alt-Short| replace:: ``…`` — Weiteres
+.. |Text-Abcde-Fazit-Short| replace:: ``=`` — Beurteilung
+
+.. |Text-Sampler-S-Short| replace:: ``S`` — Symptome
+.. |Text-Sampler-A-Short| replace:: ``A`` — Allergien
+.. |Text-Sampler-M-Short| replace:: ``M`` — Medikation
+.. |Text-Sampler-P-Short| replace:: ``P`` — Patientengeschichte
+.. |Text-Sampler-L-Short| replace:: ``L`` — Letze …
+.. |Text-Sampler-E-Short| replace:: ``E`` — Ereignisse
+.. |Text-Sampler-R-Short| replace:: ``R`` — Risikofaktoren
+
+
+.. |alpha|  unicode:: U+003B1 .. GREEK SMALL LETTER ALPHA
+.. |beta|   unicode:: U+003B2 .. GREEK SMALL LETTER BETA
+.. |chi|    unicode:: U+003C7 .. GREEK SMALL LETTER CHI
+.. |Delta|  unicode:: U+00394 .. GREEK CAPITAL LETTER DELTA
+.. |delta|  unicode:: U+003B4 .. GREEK SMALL LETTER DELTA
+.. |epsi|   unicode:: U+003F5 .. GREEK LUNATE EPSILON SYMBOL
+.. |epsis|  unicode:: U+003F5 .. GREEK LUNATE EPSILON SYMBOL
+.. |epsiv|  unicode:: U+003B5 .. GREEK SMALL LETTER EPSILON
+.. |eta|    unicode:: U+003B7 .. GREEK SMALL LETTER ETA
+.. |Gamma|  unicode:: U+00393 .. GREEK CAPITAL LETTER GAMMA
+.. |gamma|  unicode:: U+003B3 .. GREEK SMALL LETTER GAMMA
+.. |Gammad| unicode:: U+003DC .. GREEK LETTER DIGAMMA
+.. |gammad| unicode:: U+003DD .. GREEK SMALL LETTER DIGAMMA
+.. |iota|   unicode:: U+003B9 .. GREEK SMALL LETTER IOTA
+.. |kappa|  unicode:: U+003BA .. GREEK SMALL LETTER KAPPA
+.. |kappav| unicode:: U+003F0 .. GREEK KAPPA SYMBOL
+.. |Lambda| unicode:: U+0039B .. GREEK CAPITAL LETTER LAMDA
+.. |lambda| unicode:: U+003BB .. GREEK SMALL LETTER LAMDA
+.. |mu|     unicode:: U+003BC .. GREEK SMALL LETTER MU
+.. |nu|     unicode:: U+003BD .. GREEK SMALL LETTER NU
+.. |Omega|  unicode:: U+003A9 .. GREEK CAPITAL LETTER OMEGA
+.. |omega|  unicode:: U+003C9 .. GREEK SMALL LETTER OMEGA
+.. |Phi|    unicode:: U+003A6 .. GREEK CAPITAL LETTER PHI
+.. |phi|    unicode:: U+003D5 .. GREEK PHI SYMBOL
+.. |phis|   unicode:: U+003D5 .. GREEK PHI SYMBOL
+.. |phiv|   unicode:: U+003C6 .. GREEK SMALL LETTER PHI
+.. |Pi|     unicode:: U+003A0 .. GREEK CAPITAL LETTER PI
+.. |pi|     unicode:: U+003C0 .. GREEK SMALL LETTER PI
+.. |piv|    unicode:: U+003D6 .. GREEK PI SYMBOL
+.. |Psi|    unicode:: U+003A8 .. GREEK CAPITAL LETTER PSI
+.. |psi|    unicode:: U+003C8 .. GREEK SMALL LETTER PSI
+.. |rho|    unicode:: U+003C1 .. GREEK SMALL LETTER RHO
+.. |rhov|   unicode:: U+003F1 .. GREEK RHO SYMBOL
+.. |Sigma|  unicode:: U+003A3 .. GREEK CAPITAL LETTER SIGMA
+.. |sigma|  unicode:: U+003C3 .. GREEK SMALL LETTER SIGMA
+.. |sigmav| unicode:: U+003C2 .. GREEK SMALL LETTER FINAL SIGMA
+.. |tau|    unicode:: U+003C4 .. GREEK SMALL LETTER TAU
+.. |Theta|  unicode:: U+00398 .. GREEK CAPITAL LETTER THETA
+.. |theta|  unicode:: U+003B8 .. GREEK SMALL LETTER THETA
+.. |thetas| unicode:: U+003B8 .. GREEK SMALL LETTER THETA
+.. |thetav| unicode:: U+003D1 .. GREEK THETA SYMBOL
+.. |Upsi|   unicode:: U+003D2 .. GREEK UPSILON WITH HOOK SYMBOL
+.. |upsi|   unicode:: U+003C5 .. GREEK SMALL LETTER UPSILON
+.. |Xi|     unicode:: U+0039E .. GREEK CAPITAL LETTER XI
+.. |xi|     unicode:: U+003BE .. GREEK SMALL LETTER XI
+.. |zeta|   unicode:: U+003B6 .. GREEK SMALL LETTER ZETA
+
+
+
+.. |b.Gammad| unicode:: U+003DC .. GREEK LETTER DIGAMMA
+.. |b.gammad| unicode:: U+003DD .. GREEK SMALL LETTER DIGAMMA
+
+
+.. |cent|   unicode:: U+000A2 .. CENT SIGN
+.. |commat| unicode:: U+00040 .. COMMERCIAL AT
+.. |copy|   unicode:: U+000A9 .. COPYRIGHT SIGN
+.. |curren| unicode:: U+000A4 .. CURRENCY SIGN
+.. |darr|   unicode:: U+02193 .. DOWNWARDS ARROW
+.. |deg|    unicode:: U+000B0 .. DEGREE SIGN
+.. |divide| unicode:: U+000F7 .. DIVISION SIGN
+.. |dollar| unicode:: U+00024 .. DOLLAR SIGN
+.. |equals| unicode:: U+0003D .. EQUALS SIGN
+.. |gt|     unicode:: U+0003E .. GREATER-THAN SIGN
+.. |half|   unicode:: U+000BD .. VULGAR FRACTION ONE HALF
+.. |horbar| unicode:: U+02015 .. HORIZONTAL BAR
+.. |hyphen| unicode:: U+02010 .. HYPHEN
+.. |iexcl|  unicode:: U+000A1 .. INVERTED EXCLAMATION MARK
+.. |iquest| unicode:: U+000BF .. INVERTED QUESTION MARK
+.. |larr|   unicode:: U+02190 .. LEFTWARDS ARROW
+.. |lcub|   unicode:: U+0007B .. LEFT CURLY BRACKET
+.. |ldquo|  unicode:: U+0201C .. LEFT DOUBLE QUOTATION MARK
+.. |lowbar| unicode:: U+0005F .. LOW LINE
+.. |lt|     unicode:: U+0003C .. LESS-THAN SIGN
+.. |micro|  unicode:: U+000B5 .. MICRO SIGN
+.. |middot| unicode:: U+000B7 .. MIDDLE DOT
+.. |nbsp|   unicode:: U+000A0 .. NO-BREAK SPACE
+.. |not|    unicode:: U+000AC .. NOT SIGN
+.. |num|    unicode:: U+00023 .. NUMBER SIGN
+.. |ohm|    unicode:: U+02126 .. OHM SIGN
+.. |ordf|   unicode:: U+000AA .. FEMININE ORDINAL INDICATOR
+.. |ordm|   unicode:: U+000BA .. MASCULINE ORDINAL INDICATOR
+.. |plusmn| unicode:: U+000B1 .. PLUS-MINUS SIGN
+.. |pound|  unicode:: U+000A3 .. POUND SIGN
+.. |raquo|  unicode:: U+000BB .. RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+.. |rarr|   unicode:: U+02192 .. RIGHTWARDS ARROW
+.. |reg|    unicode:: U+000AE .. REGISTERED SIGN
+.. |sect|   unicode:: U+000A7 .. SECTION SIGN
+.. |shy|    unicode:: U+000AD .. SOFT HYPHEN
+.. |sol|    unicode:: U+0002F .. SOLIDUS
+.. |times|  unicode:: U+000D7 .. MULTIPLICATION SIGN
+.. |trade|  unicode:: U+02122 .. TRADE MARK SIGN
+.. |uarr|   unicode:: U+02191 .. UPWARDS ARROW
+.. |verbar| unicode:: U+0007C .. VERTICAL LINE
+.. |yen|    unicode:: U+000A5 .. YEN SIGN
+
+..
+
+
+.. |emsp|   unicode:: U+02003 .. EM SPACE
+.. |emsp13| unicode:: U+02004 .. THREE-PER-EM SPACE
+.. |emsp14| unicode:: U+02005 .. FOUR-PER-EM SPACE
+.. |ensp|   unicode:: U+02002 .. EN SPACE
+.. |female| unicode:: U+02640 .. FEMALE SIGN
+.. |hellip| unicode:: U+02026 .. HORIZONTAL ELLIPSIS
+.. |hybull| unicode:: U+02043 .. HYPHEN BULLET
+.. |incare| unicode:: U+02105 .. CARE OF
+.. |male|   unicode:: U+02642 .. MALE SIGN
+.. |malt|   unicode:: U+02720 .. MALTESE CROSS
+.. |mdash|  unicode:: U+02014 .. EM DASH
+.. |mldr|   unicode:: U+02026 .. HORIZONTAL ELLIPSIS
+.. |ndash|  unicode:: U+02013 .. EN DASH
+.. |phone|  unicode:: U+0260E .. BLACK TELEPHONE
+.. |thinsp| unicode:: U+02009 .. THIN SPACE
+.. |vellip| unicode:: U+022EE .. VERTICAL ELLIPSIS
+
+
+
+
+
+
+
+
+
+
+
+
+.. -----
+
+.. only:: html
+
+    .. attention::
+
+        .. centered:: Achtung -- Entwicklungsversion!
+
+        Dieses Dokument ist **nicht freigegeben** und laufenden Änderungen unterworfen.
+        Es enthält ungesicherte Informationen und ist als **unzuverlässig** und **rein informativ** zu betrachten.
+
+        Die Verbreitung ist nicht gestattet.
+        Alle Rechte vorbehalten.
+
+        .. rubric:: Versionsverwaltung (Git)
+
+        .. git_changelog::
+            :revisions: 1
+
+        .. git_commit_detail::
+            :branch:
+            :commit:
+            :uncommitted:
+            :untracked:
+
+
+

@@ -6,10 +6,10 @@
 # SPHINXBUILD   = python -msphinx
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = Notarzttraining
-SOURCEDIR     = .
+SOURCEDIR     = Quelltext
 GITBRANCH := $(shell git rev-parse --abbrev-ref HEAD)
 # BUILDDIR      = "$(HOME)"/Export/21-Notarzt-Sphinx-"$(GITBRANCH)"
-BUILDDIR      = _build/"$(GITBRANCH)"
+BUILDDIR      = Export/"$(GITBRANCH)"
 # BUILDDIR      = _build
 
 # Put it first so that "make" without argument is like "make help".

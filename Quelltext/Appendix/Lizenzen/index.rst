@@ -407,7 +407,7 @@ folgende Nutzungen gestattet:
     #.  Übersicht "Weiterführende Maßnahmen"
 
 ******************************************
-Andere verwendete Ⓛ — Lizenzen
+Andere verwendete ℓ — Lizenzen
 ******************************************
 
 .. important::
@@ -438,23 +438,23 @@ Andere verwendete Ⓛ — Lizenzen
         copyrighted work — and derivative works based upon it — but only
         if they give credit the way you request."*
 
-    Ⓛ CC BY 1.0
+    ℓ CC BY 1.0
         | *Creative-Commons Attribution Unported 1.0*
         | http://creativecommons.org/licenses/by/1.0/
 
-    Ⓛ CC BY 2.0
+    ℓ CC BY 2.0
         *Creative-Commons Attribution Unported 2.0*:
         http://creativecommons.org/licenses/by/2.0/
 
-    Ⓛ CC BY 2.1
+    ℓ CC BY 2.1
         *Creative-Commons Attribution Unported 2.1*:
         http://creativecommons.org/licenses/by/2.1/
 
-    Ⓛ CC BY 2.5
+    ℓ CC BY 2.5
         *Creative-Commons Attribution Unported 2.5*:
         http://creativecommons.org/licenses/by/2.5/
 
-    Ⓛ CC BY 3.0
+    ℓ CC BY 3.0
         .. image:: /Bilder/Logos/FreeCulturalWorks_seal_x2.jpeg
             :width: 15%
             :align: right
@@ -463,7 +463,7 @@ Andere verwendete Ⓛ — Lizenzen
 
         https://creativecommons.org/licenses/by/3.0/
 
-    Ⓛ CC BY AUT 3.0
+    ℓ CC BY AUT 3.0
         *Creative-Commons Namensnennung 3.0 Österreich*
 
         http://creativecommons.org/licenses/by/3.0/at/
@@ -475,45 +475,45 @@ Andere verwendete Ⓛ — Lizenzen
         in der von ihm festgelegten Weise nennen (*Namensnennung*).
 
 
-    Ⓛ CC BY-NC 2.5
+    ℓ CC BY-NC 2.5
         *Creative-Commons Attribution Non-Commercial 2.5*:
         http://creativecommons.org/licenses/by-nc/2.5
 
 
-    Ⓛ CC BY-NC 3.0
+    ℓ CC BY-NC 3.0
         *Creative-Commons Attribution Non-Commercial 3.0*:
         http://creativecommons.org/licenses/by-nc/3.0
 
 
-    Ⓛ CC BY-NC-ND 3.0
+    ℓ CC BY-NC-ND 3.0
         *Creative-Commons Attribution Non-Commercial No Derivatives 3.0*:
         http://creativecommons.org/licenses/by-nc-nd/3.0
 
-    Ⓛ CC BY-ND 3.0
+    ℓ CC BY-ND 3.0
         *Creative-Commons Attribution No Derivatives 3.0*:
         http://creativecommons.org/licenses/by-nd/3.0/legalcode;
 
 
-    Ⓛ CC BY-SA 2.0 DE
+    ℓ CC BY-SA 2.0 DE
         *Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Deutschland*:
         https://creativecommons.org/licenses/by-sa/2.0/de
 
 
 
 
-    Ⓛ CC BY-SA 3.0
+    ℓ CC BY-SA 3.0
         *Creative Commons Attribution-ShareAlike 3.0 Unported*:
         https://creativecommons.org/licenses/by-sa/3.0
 
 
-    Ⓛ MfG
+    ℓ MfG
         *"Mit freundlicher Genehmigung"*
 
         Vom Rechteinhaber wurde die Verwendung in diesem Projekt erlaubt.
         Eine Verwendung ausserhalb dieses Projekts ist nicht gestattet.
 
 
-    Ⓛ PD
+    ℓ PD
         *Public domain*, *gemeinfrei*. Die Gemeinfreiheit bezeichnet alle
         Werke, die keinem Urheberrecht mehr unterliegen oder ihm nie
         unterlegen haben. Das im angloamerikanischen Raum anzutreffende

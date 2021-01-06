@@ -73,7 +73,7 @@ es wichtig den Patienten zu kühlen.
 Maßnahmen: Hitzekollaps
 -----------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Flachlagerung: → Gehirndurchblutung
         wieder ↑, bewusstseinsklar
     -   nach Sekunden gebessert,
@@ -86,7 +86,7 @@ Basismaßnahmen
 Maßnahmen: Hitzeerschöpfung
 ---------------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Kühlung, Schatten
     -   Flüssigkeitszufuhr, wenn bewusstseinsklar
     -   Neurocheck inkl. BZ-Messung
@@ -163,7 +163,7 @@ und Bewusstlosigkeit kommen.
 Maßnahmen: Hitzschlag, Sonnenstich
 ----------------------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     Siehe Tabelle
 
     .. list-table::
@@ -202,7 +202,7 @@ Unterkühlung
 .. image:: /Bilder/GabrielSebastian-Ccc/huette_winter_mariazell.*
     :width: 50%
     :align: right
-    :alt: Eine Hütte im Winter. Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    :alt: Eine Hütte im Winter. ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 Eine :dfn:`Unterkühlung` :index:`\ <! Unterkühlung>` ist eine Erniedrigung der
 Körperkerntemperatur auf unter 36°C. Ähnlich wie beim Schock kommt es
@@ -256,7 +256,7 @@ Symptome  und Phasen
 Maßnahmen: Schwere Unterkühlung (< 34°C)
 ========================================
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMK|
     -   Den Patient so wenig als möglich
         (nur soviel wie unbedingt nötig)

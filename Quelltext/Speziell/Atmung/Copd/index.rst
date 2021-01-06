@@ -122,8 +122,8 @@ einem Atemstillstand kommen.
     Luft nur erschwert wieder entweichen
     kann.
 
-    Ⓒ Lena Hirtler
-    :term:`Ⓛ MfG`
+    ₢ Lena Hirtler
+    :term:`ℓ MfG`
 
 1234ABCDE: COPD
 ===============
@@ -249,7 +249,7 @@ SAMPLER: COPD
     Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
     "Karriere" hinter sich.
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 .. _m-copd-exzerbation:
 
@@ -261,7 +261,7 @@ Taktik
 
     **Vitale Bedrohung** bei anhaltender schwerer Atemnot!
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxBeiVit| |TxMassVitMK|
     -   O₂-Gabe:
         Gefahr der CO₂-Narkose durch Hemmung des Atemantriebes!
@@ -277,7 +277,7 @@ Basismaßnahmen
     -   Lagerung: Oberkörper hoch
     -   Voratmen, *Lippenbremse*
 
-Pharmakotherapie
+🕏 Pharmakotherapie
     -   **Beta-Mimetikum inhalativ**:
         Im Allgemeinen gut verträglich,
         eine ausreichende Ventilation ist aber Voraussetzung!
@@ -314,7 +314,7 @@ Pharmakotherapie
         bzw. Interaktionen eher *nicht empfehlenswert*;
         bei Theophyllin-Dauertherapie Spiegelbestimmung.
 
-Beatmungstherapie
+Beatmungstherapie 🏥🚑
     -   Nicht-invasive **CPAP**\ -Beamtung.
         Voraussetzung: Kooperativer Patient,
         evtl. leichte Sedierung mit Morphin erwägen.

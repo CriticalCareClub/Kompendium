@@ -186,7 +186,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
     Annäherung an den Patienten
 
-    Ⓒ Michael Motal :term:`Ⓛ MfG`
+    ₢ Michael Motal :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -197,7 +197,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
     Die Rippen folgen der Atembewegung.
 
-    Ⓒ :term:`HiLe` :term:`Ⓛ MfG`
+    ₢ :term:`HiLe` :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -208,7 +208,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
     Zyanotische Lippen
 
-    Ⓒ :term:`GaSe` :term:`Ⓛ MfG`
+    ₢ :term:`GaSe` :term:`ℓ MfG`
 
     :term:`UE2011FORTUNA-00651`
 
@@ -234,7 +234,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
     Reanimationsbereitschaft,
     Notarztnachforderung und Monitoring.
 
-    Ⓒ :term:`GaSe` :term:`Ⓛ MfG`
+    ₢ :term:`GaSe` :term:`ℓ MfG`
 
 
 

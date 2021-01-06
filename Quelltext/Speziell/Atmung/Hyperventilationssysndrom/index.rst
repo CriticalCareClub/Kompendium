@@ -163,7 +163,7 @@ Maßnahmen: Hyperventilationssyndrom
 Taktik
     Beruhigen, Differentialdiagnosen ausschließen, symptomatische Therapie
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Psychische Betreuung: Patient beruhigen, mit ruhiger, langsamer
         Stimme mit dem Patienten sprechen
     -   Kommandoatmung
@@ -178,5 +178,5 @@ Basismaßnahmen
     -   Wenn nicht erfolgreich und Krämpfe bestehen bleiben bzw.
         Bewusstseinsstörungen auftreten: |TxMassVitMK|
 
-Pharmakotherapie
+🕏 Pharmakotherapie
     -   Sedierung oder Anxiolyse erwägen (zurückhaltend!)

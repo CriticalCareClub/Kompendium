@@ -170,7 +170,7 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
             Herzdruckmassage
 
-            [Lena Hirtler, :term:`Ⓛ MfG`]
+            [Lena Hirtler, :term:`ℓ MfG`]
 
 .. raw:: latex
 
@@ -181,7 +181,7 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
             Beatmung
 
-            [Lena Hirtler, :term:`Ⓛ MfG`]
+            [Lena Hirtler, :term:`ℓ MfG`]
 
 .. raw:: latex
 
@@ -192,7 +192,7 @@ Die Reanimationsbehandlung fußt auf sieben Säulen:
 
             Defibrillation
 
-            [Lena Hirtler, :term:`Ⓛ MfG`]
+            [Lena Hirtler, :term:`ℓ MfG`]
 
 .. subfigend::
     :width: 0.32

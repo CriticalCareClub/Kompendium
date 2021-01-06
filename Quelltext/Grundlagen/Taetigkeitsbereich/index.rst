@@ -99,7 +99,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
     zum Beispiel bei dieser Überstellung eines Intensivpatienten: Wenn
     danach alle Beteiligten so fröhlich sind ist das ein gutes Zeichen.
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -111,7 +111,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
     Miteinander statt gegeneinander: Arzt und Sanitäter bilden eine
     Einheit.
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -123,7 +123,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
     Im Notfall ist die Organisationszugehörigkeit
     nebensächlich.
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32
@@ -396,7 +396,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Hilfeleistung
 
-    Ⓒ Michael Motal :term:`Ⓛ MfG`
+    ₢ Michael Motal :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -407,7 +407,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Autobrand mit giftigen Dämpfen
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -418,7 +418,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Gefahrenstoffunfall
 
-    Ⓒ —
+    ₢ —
 
 .. raw:: latex
 
@@ -429,7 +429,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Ungünstige Sichtverhältnisse, hier bei einer Übung im Wiener Kaisermühlentunnel
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32
@@ -449,7 +449,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Blutzuckermessung
 
-    Ⓒ Michael Motal :term:`Ⓛ MfG`
+    ₢ Michael Motal :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -460,7 +460,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Versorgung nach einem Verkehrsunfall
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -471,7 +471,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Assistenz bei ärztlichen Maßnahmen
 
-    Ⓒ Michael Motal :term:`Ⓛ MfG`
+    ₢ Michael Motal :term:`ℓ MfG`
 
 
 .. subfigend::
@@ -491,7 +491,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.).
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -502,7 +502,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Intensivtransporthubschrauber
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -513,7 +513,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Ambulanzraum bei einem Sanitätsdienst
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 
 .. subfigend::
@@ -535,7 +535,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Organisation im Großschadensfall, hier ein Wagenhalteplatz bei
     einer Nachtübung
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -547,7 +547,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Führungsrolle bei der Bewältigung eines
     Großschadensereignis: Der Leiter einer Sanitätshilfestelle (SanHiSt)
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.45
@@ -566,7 +566,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     Zusammenarbeit zwischen den Organisationen
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -578,7 +578,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Integraler Bestandteil der zivilen und militärischen Landesverteidigung: Der
     Bundesheersanitäter
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -590,7 +590,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Die Zusammenarbeit mit der Exekutive – auch
     an sozialen Brennpunkten – ist Alltag
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32

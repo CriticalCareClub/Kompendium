@@ -292,7 +292,7 @@ angegeben:
 
 
 
-.. todo:: Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  Ⓒ David Hauer :term:`Ⓛ MfG`
+.. todo:: Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  ₢ David Hauer :term:`ℓ MfG`
 
 Sturz aus großer Höhe
 =====================
@@ -389,7 +389,7 @@ Folgeverletzungen zu verhindern.
 
     Fixierung eines penetrierenden Fremdkörpers.
 
-    Ⓒ David Hauer :term:`Ⓛ MfG`
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -613,7 +613,7 @@ vorsichtig vom Fuß abzieht.
     Fehlstellung einer Unterschenkelfraktur nach einem
     Verkehrsunfall (PKW gegen Fußgänger) in natura …
 
-    Ⓒ David Hauer :term:`Ⓛ MfG`
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -624,7 +624,7 @@ vorsichtig vom Fuß abzieht.
 
     … und in Röntgendarstellung
 
-    Ⓒ David Hauer :term:`Ⓛ MfG`
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -636,7 +636,7 @@ vorsichtig vom Fuß abzieht.
     Nicht immer sind offene Frakturen spektakulär:
     Offene Fraktur des Mittelfingers
 
-    Ⓒ Ben Stephenson, Cleveland, OH, USA Ⓛ CC-BY 2.0]
+    ₢ Ben Stephenson, Cleveland, OH, USA ℓ CC-BY 2.0]
 
 .. subfigend::
     :width: 0.32
@@ -670,7 +670,7 @@ Bei *vitaler Bedrohung*: Zeitkritisch,
 zügiger Transport.
 Bei *stabilen Patienten*: Schienung}
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   **Blutstillung**: Z. B. mit Beckengurt
         (Beckenfraktur)
     -   Vitale Bedrohung einschätzen, ggfs. |TxMassVitMK|.
@@ -792,7 +792,7 @@ berichten der Patient oder die Unfallzeugen meist über ein hörbares
 Maßnahmen: Verstauchung
 -----------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Kleidung und Schmuck von der betroffenen Gliedmaße entfernen
         (Vorsicht Schwellung!)
     -   Ruhigstellen
@@ -855,7 +855,7 @@ kann das entsprechende Gelenk nicht bewegen.
 Maßnahmen Verrenkung
 --------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Kleidung und Schmuck von der betroffenen Gliedmaße entfernen
         (Vorsicht Schwellung!)
     -   Stellung der Gliedmaße belassen
@@ -1068,7 +1068,7 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
     Pupillendifferenz kann ein wichtiger Hinweis auf einen erhöhten
     Hirndruck sein!
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 .. attention::
 
@@ -1087,7 +1087,7 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
 Maßnahmen SHT
 =============
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Vitale Bedrohung beurteilen.
         |TxBeiVit|
         |TxMassVitMKBes|
@@ -1392,7 +1392,7 @@ Taktik
 
 Vgl. :ref:`m-einschaetzung-indikation-ws-immobilisation`
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   **HWS-Immobilisation** (HWS-Schiene)
     -   Bergung mit Schaufeltrage, Spineboard oder
         KED-System
@@ -1425,7 +1425,7 @@ Taktik
 
 Vgl. :ref:`m-einschaetzung-indikation-ws-immobilisation`
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Bei ansprechbaren Patienten:
         immer
         **HWS-Immobilisation** (HWS-Schiene)
@@ -1562,7 +1562,7 @@ Todesangst.
     Pneumothorax. Beachte die Randlinie zwischen Lunge (unten,
     innen) und dem luftgefüllten Pleuraspalt (oben, außen)
 
-    Ⓒ David Hauer :term:`Ⓛ MfG`
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -1574,7 +1574,7 @@ Todesangst.
     Im Vergleich: Kompletter Pneumothorax der rechten
     Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert.
 
-    Ⓒ David Hauer :term:`Ⓛ MfG`
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.*
     :width: 100%
@@ -1583,7 +1583,7 @@ Todesangst.
     einen Pneumothorax verursacht. **Dieser Patient ist lebensgefährlich
     verletzt!**
 
-    Ⓒ David Hauer :term:`Ⓛ MfG`
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -1610,7 +1610,7 @@ Taktik
     Entlastungspunktion, zügiger Transport
     in eine geeignete Einrichtung
 
-Basismaßnahmen
+⛑ Basismaßnahmen
 -   |TxMassVitMKBes|
 
     -   **Lagerung**: Oberkörper hoch. Wenn stabile
@@ -1822,7 +1822,7 @@ Offenes Bauchtrauma
 
     Offenes Bauchtrauma mit Austritt von Darmschlingen
 
-    Ⓒ David Hauer :term:`Ⓛ MfG`
+    ₢ David Hauer :term:`ℓ MfG`
 
 Offene Bauchtraumata sind seltener als geschlossene Bauchtraumata. Beim
 offenen Bauchtrauma kann es zum Austritt von Darmschlingen kommen. Die
@@ -1849,7 +1849,7 @@ Taktik
     **Zeitkritisch! Vitale Bedrohung!**
     Zügiger Transport in eine geeignete Einrichtung
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMKBes|
 
         -   **Lagerung**: Bauchdecke entspannen , Knierolle
@@ -2095,7 +2095,7 @@ Maßnahmen: Beckentrauma, instabil
 
 .. todo:: Maßnahme TS32831C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMKBes|
 
         -   Lagerung: flach
@@ -2189,7 +2189,7 @@ Taktik
     *gefährlichen* Verletzungen, rascher Transport
 
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMKBes|
 
         -   Lagerung: situationsgerecht, ggfs.
@@ -2254,7 +2254,7 @@ Maßnahmen Versorgung eines Amputats
 
 .. todo:: Maßnahme TT14071C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Keine Reinigung des Amputats
     -   Sterile und trockene Versorgung des Amputats
         (Verband)
@@ -2478,7 +2478,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     Verbrennung 1°
 
-    Ⓒ Trent Easton; de.wikipedia  Ⓛ  PD
+    ₢ Trent Easton; de.wikipedia  ℓ  PD
 
 .. raw:: latex
 
@@ -2489,7 +2489,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     Verbrennung 2°
 
-    Ⓒ Yunaerith; WMC  Ⓛ CC-BY-SA 3.0 unported
+    ₢ Yunaerith; WMC  ℓ CC-BY-SA 3.0 unported
 
 .. raw:: latex
 
@@ -2500,8 +2500,8 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     Verbrennung 3°
 
-    Ⓒ Sushma Koirala Memorial Hospital, Dr. Andreas Settje; WMC
-    Ⓛ CC-BY-SA 3.0 unported
+    ₢ Sushma Koirala Memorial Hospital, Dr. Andreas Settje; WMC
+    ℓ CC-BY-SA 3.0 unported
 
 .. raw:: latex
 
@@ -2512,7 +2512,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     Großflächige Verbrennung
 
-    Ⓒ David Hauer :term:`Ⓛ MfG`
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -2523,7 +2523,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     Ablederung
 
-    Ⓒ David Hauer :term:`Ⓛ MfG`
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -2538,7 +2538,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
     Entlastungsschnitte (*Escharatomie*) ermöglichen dem Brustkorb
     wieder sich auszudehnen und dem Patienten damit zu atmen.
 
-    Ⓒ David Hauer :term:`Ⓛ MfG`
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32
@@ -2588,7 +2588,7 @@ Maßnahmen:  Verbrennung, leicht
 
 .. todo:: Maßnahme TT30001C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Selbstschutz!
     -   Kleiderbrand löschen
     -   Vitale Bedrohung einschätzen.
@@ -2622,7 +2622,7 @@ Basismaßnahmen
 Maßnahmen: Verbrennung, schwer
 ==============================
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMK|
     -   Kleidung und Schmuck entfernen (sofern nicht  eingeschmolzen!)
     -   Besonders auf **Wärmeerhalt** achten!
@@ -2712,7 +2712,7 @@ Volles Ausmaß oft erst nach Stunden!
 Maßnahmen: Inhalationstrauma
 ------------------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Vitale Bedrohung einschätzen. \par
         |TxBeiVit| |TxMassVitMK|
     -   Lagerung: Oberkörper hoch
@@ -2746,7 +2746,7 @@ Vergiftungen durch Einnahme von Säuren und Laugen werden unter
 
     Notbrause
 
-    Ⓒ Sebastian Gabriel :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel :term:`ℓ MfG`
 
 Schädigungen der Haut durch Säuren, Laugen oder andere schädliche Stoffe
 weisen – trotz der unterschiedlichen Entstehung – Gemeinsamkeiten mit
@@ -2775,7 +2775,7 @@ auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
 Maßnahmen: Verletzungen mit chemischen Substanzen
 -------------------------------------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     #.  Auf Selbsschutz achten!
 
         -   Patienten ggfs. retten, aber nur wenn es der
@@ -2844,7 +2844,7 @@ Deshalb ist es wichtig, die Warnsymptome ernst zu nehmen!
 Maßnahmen: Erfrierungen
 =======================
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Beengende Kleidungsstücke lockern
         (Einschnürung erhöht Risiko einer Erfrierung)
     -   Keimfreier, gepolsterter Verband
@@ -3003,7 +3003,7 @@ Blitzunfällen immer wieder Überlebende, da die Einwirkdauer extrem kurz
 Maßnahmen: Stromunfälle
 =========================
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   **Eigenschutz!** Bevor der Patienten berührt wird,
         muss man sich vergewissern, dass der Patient
         keinen Kontakt mehr mit dem Stromkreis hat!

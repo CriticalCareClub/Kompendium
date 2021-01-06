@@ -82,7 +82,7 @@ angeschlossen.
 
     Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
 
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 Umgang mit Sauerstoff und Druckflaschen
 =======================================
@@ -271,7 +271,7 @@ Verabreichung von Sauerstoff
     :width: 50%
     :align: right
 
-    Ⓒ Michael Motal  :term:`Ⓛ MfG`
+    ₢ Michael Motal  :term:`ℓ MfG`
 
 Die Verabreichung von Sauerstoff ist eine wichtige und häufige Maßnahme.
 Sauerstoff kann sowohl einem selbst atmenden Patienten zusätzlich
@@ -323,7 +323,7 @@ Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.
     Druckminderer mit integrierter Berieselungseinheit an einer
     Sauerstofflasche
 
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 
 .. _Thema-Berieselung:
@@ -353,7 +353,7 @@ Sauerstoffmasken mit Reservoir [#BerieselungBeatmungsbeutel]_.
 
             Sauerstoffbrille
 
-            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+            ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -363,7 +363,7 @@ Sauerstoffmasken mit Reservoir [#BerieselungBeatmungsbeutel]_.
 
             Sauerstoffmaske
 
-            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+            ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -373,7 +373,7 @@ Sauerstoffmasken mit Reservoir [#BerieselungBeatmungsbeutel]_.
 
             Sauerstoffmaske mit Reservoir
 
-            Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+            ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32

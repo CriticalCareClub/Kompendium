@@ -189,7 +189,7 @@ trockene Räume fördern das Auftreten.
 Akute obstruktive Laryngitis
 ----------------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Eltern und Kind beruhigen.
     -   Feuchte Luft einatmen lassen (evtl. Fenster
         öffnen; feuchte Tücher im Raum aufhängen; Dusche im Badezimmer aufdrehen)
@@ -246,7 +246,7 @@ ist eher ruhig und spricht kaum, er hat Angst.
 Akute Epiglottitis
 ------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMK|
     -   Luftbefeuchtung
     -   Kinder sitzen lassen!
@@ -338,7 +338,7 @@ Maßanhamen: SIDS
 .. todo:: Maßnahme KR95090C: Anpassung an höherqualifiziertes Personal
 
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Reanimation
     -   Betreuung der Angehörigen.
         Den Eltern muss das Gefühl gegeben werden,
@@ -395,7 +395,7 @@ Maßnahmen: Ertrinkungsunfall
 
 .. todo:: Maßnahme MT75010C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Wenn erforderlich Reanimation mit fünf
         Initialbeatmungen. Die Reanimation kann auch nach länger
         andauerndem Kreislaufstillstand erfolgreich sein, da bei

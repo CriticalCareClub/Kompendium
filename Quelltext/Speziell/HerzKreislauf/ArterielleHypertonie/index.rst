@@ -325,7 +325,7 @@ Maßnahmen: Hypertensive Krise
 Taktik
     Symptomatische Therapie
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Lagerung: Oberkörper hoch
 
         Bei Nasenbluten: Kopf nach vorne halten.
@@ -348,12 +348,12 @@ Taktik
     **Vitale Bedrohung!**
     Rasche Blutdrucksenkung (veranlassen)
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Lagerung: Oberkörper hoch
 
         Bei Nasenbluten: Kopf nach vorne halten.
     -   Beengende Kleidung öffnen
     -   |TxMassVitMK|
 
-Pharmakotherapie
+🕏 Pharmakotherapie
     z. B. Urapidil (Ebrantil™)

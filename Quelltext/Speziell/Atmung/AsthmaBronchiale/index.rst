@@ -50,8 +50,8 @@ einen Notarzt.
     Lagerung, Sauerstoffgabe, Reanimationsbereitschaft,
     Notarztnachforderung und Monitoring.
 
-    Ⓒ Sebastian Gabriel
-    :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel
+    :term:`ℓ MfG`
 
 
 .. index::

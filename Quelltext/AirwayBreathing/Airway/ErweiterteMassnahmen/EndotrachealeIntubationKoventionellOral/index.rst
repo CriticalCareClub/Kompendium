@@ -83,7 +83,7 @@ Material
     Fixationsmaterial,
     Stethoskop
 
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 Vorbereitung
 ============

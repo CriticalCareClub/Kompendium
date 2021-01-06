@@ -149,7 +149,7 @@ Diagnostik
 Therapie
 ********
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Lagerung: symptomorientiert
 
         -   Grundsätzlich: Flachlagerung, Bewegungsverbot
@@ -171,7 +171,7 @@ Basismaßnahmen
     single: Epinephrin
     single: Salbutamol
 
-Pharmakotherapie
+🕏 Pharmakotherapie
     -   **Volumengabe**: Behandlung der relativen Hypovolämie,
         balancierte Volelektrloytlösung,
         z. B. **Elo-Mel™ isoton**,

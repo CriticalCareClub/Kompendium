@@ -276,7 +276,7 @@ Wärmeisolierung.
 .. figure:: /Bilder/HirtlerLena-Ccc/Haut-edited.*
     :width: 70%
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
 

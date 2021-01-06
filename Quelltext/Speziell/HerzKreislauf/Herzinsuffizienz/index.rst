@@ -238,7 +238,7 @@ sind grundsätzlich als unmittelbar vital bedroht anzusehen.
 Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor
 Ort Vorrang. Bereits der Transport in das Fahrzeug kann gefährlich sein!
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Bewegungsverbot
     -   Lagerung: Oberkörper hoch
     -   Beengende Kleidung öffnen
@@ -249,7 +249,7 @@ Basismaßnahmen
         Grundsätzlich Kardiologische Überwachungsstation oder Intensivstation,
         je nach zu Grunde liegender Ursache evtl. andere Einheit (Herzkatheterlabor, ...)
 
-Pharmakotherapie
+🕏 Pharmakotherapie
     -   Nitrate
     -   Diuretika
 

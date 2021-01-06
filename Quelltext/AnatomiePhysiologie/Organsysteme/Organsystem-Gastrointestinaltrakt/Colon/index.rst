@@ -72,4 +72,4 @@ ist von *Darmbakterien* besiedelt.
 
     Der Dickdarm
 
-    Ⓒ Mariana Ruiz Villarreal Ⓛ Public domain
+    ₢ Mariana Ruiz Villarreal ℓ Public domain

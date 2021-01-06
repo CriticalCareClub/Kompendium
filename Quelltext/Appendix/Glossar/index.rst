@@ -122,7 +122,7 @@ Abkürungsverzeichnis und Glossar
         .. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
 
             Das Herz mit seinen Koronargefäßen
-            Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+            ₢ Lena Hirtler  :term:`ℓ MfG`
 
         .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
 

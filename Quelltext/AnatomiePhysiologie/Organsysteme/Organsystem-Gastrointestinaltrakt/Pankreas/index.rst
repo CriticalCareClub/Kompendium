@@ -44,4 +44,4 @@ Glukagon hingegen ist verantwortlich für
 die Steigerung der Menge an Zucker im Blut.
 
 
-.. todo:: image Pankreas Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+.. todo:: image Pankreas ₢ Lena Hirtler, :term:`ℓ MfG`

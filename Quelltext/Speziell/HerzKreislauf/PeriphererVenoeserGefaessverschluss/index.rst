@@ -184,7 +184,7 @@ Es entsteht eine *Lungenembolie*.
     Sorgsam geschlichtet verbringen Menschen hier Stunden damit,
     Thrombosen zu basteln.
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -201,7 +201,7 @@ Es entsteht eine *Lungenembolie*.
     Die Substanz wird unter die Haut ("subkutan")
     gespritzt.
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -213,7 +213,7 @@ Es entsteht eine *Lungenembolie*.
     Eine Venenthrombose
     kann eine Embolie auslösen.
 
-    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+    ₢ Lena Hirtler  :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32
@@ -227,13 +227,13 @@ Es entsteht eine *Lungenembolie*.
 Maßnahmen: Tiefe Beinvenenthrombose
 ********************************************************
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Lagerung: liegend, betroffenes Bein hochlagern
     -   Bewegungsverbot (Emboliegefahr!)
     -   Auf Zeichen einer Lungenembolie achten
         (vgl. :ref:`Thema-Lungenembolie`)
 
-Pharmakotherapie
+🕏 Pharmakotherapie
     -   Antikoagulation
 
         -   Nieder-molekulares Heparin (LMWH),

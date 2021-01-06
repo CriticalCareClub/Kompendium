@@ -69,7 +69,7 @@ in welcher die Gallenflüssigkeit *gespeichert (!)*
 
     Leber, Gallenblase und Pankreas.
 
-    Ⓒ WMC Ⓛ ???
+    ₢ WMC ℓ ???
 
 .. raw:: latex
 
@@ -80,7 +80,7 @@ in welcher die Gallenflüssigkeit *gespeichert (!)*
 
     Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm.
 
-    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+    ₢ Lena Hirtler  :term:`ℓ MfG`
 
 
 .. raw:: latex
@@ -96,7 +96,7 @@ in welcher die Gallenflüssigkeit *gespeichert (!)*
     Deutlich zu erkennen ist die Einmündung des
     Pankreas- und des Gallenganges in den Darm.
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
 .. subfigend::

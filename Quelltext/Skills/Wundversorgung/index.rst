@@ -230,7 +230,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
     **Dieser Patient ist lebensgefährlich verletzt!**
     (Pneumothorax)
 
-    [David Hauer, :term:`Ⓛ MfG`]
+    [David Hauer, :term:`ℓ MfG`]
 
 .. raw:: latex
 
@@ -241,7 +241,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     Stichwunde mit eröffneter Brusthöhle.
 
-    [David Hauer, :term:`Ⓛ MfG`]
+    [David Hauer, :term:`ℓ MfG`]
 
 .. raw:: latex
 
@@ -252,14 +252,14 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     Verätzung
 
-    [David Hauer, :term:`Ⓛ MfG`]
+    [David Hauer, :term:`ℓ MfG`]
 
 .. figure:: /Bilder/HauerDavid-Ccc/burn-chem02.*
     :width: 100%
 
     Verätzung
 
-    [David Hauer, :term:`Ⓛ MfG`]
+    [David Hauer, :term:`ℓ MfG`]
 
 .. raw:: latex
 
@@ -270,7 +270,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     Ablederung nach schwerer Verbrennung
 
-    [David Hauer, :term:`Ⓛ MfG`]
+    [David Hauer, :term:`ℓ MfG`]
 
 .. subfigend::
     :width: 0.32
@@ -353,7 +353,7 @@ Maßnahmen: Basis-Wundversorgung
 .. todo:: Maßnahme TY61000C: Anpassung an höherqualifiziertes Personal
 
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Wunden dürfen nicht direkt berührt werden,
         außer es ist zur raschen Blutstillung unbedingt notwendig!
         Es muss immer mit Handschuhen und mit **sterilem Material**
@@ -407,7 +407,7 @@ Basismaßnahmen
 
     Desinfektion einer frischen Wunde
 
-    [Lena Hirtler, :term:`Ⓛ MfG`]
+    [Lena Hirtler, :term:`ℓ MfG`]
 
 
 

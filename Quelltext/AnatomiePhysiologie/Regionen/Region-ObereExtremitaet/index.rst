@@ -12,7 +12,7 @@ Der Schultergürtel und die obere Extremität
 
     Der Schultergürtel und die obere Extremität
 
-    Ⓒ Mariana Ruiz Villarreal Ⓛ Public domain
+    ₢ Mariana Ruiz Villarreal ℓ Public domain
 
 ******************
 Der Schultergürtel

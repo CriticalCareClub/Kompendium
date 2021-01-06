@@ -47,7 +47,7 @@ Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
     **QRS**-Komplex ≈ Kammererregung,
     **ST**-Strecke + **T**-Welle ≈ Erregungsrückbildung.
 
-    Ⓒ WMC:Hank, :term:`Ⓛ CC BY-SA 2.0 DE`
+    ₢ WMC:Hank, :term:`ℓ CC BY-SA 2.0 DE`
 
 .. raw:: latex
 
@@ -60,11 +60,11 @@ Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
     ``1``: Sinusknoten,
     ``2``: AV-Knoten
 
-    Ⓒ J. Heuser,
+    ₢ J. Heuser,
     basierend auf der Arbeit von
     Patrick J. Lynch, illustrator;
     C. Carl Jaffe MD, cardiologist,
-    Yale University Center for Advanced Instructional Media, :term:`Ⓛ CC BY 2.5`
+    Yale University Center for Advanced Instructional Media, :term:`ℓ CC BY 2.5`
 
 .. subfigend::
     :width: 0.45
@@ -208,7 +208,7 @@ gravierenden Fehldiagnosen kommen kann. [#124]_
     Pulsoxymetrie 12-Kanal-EKG und integriertem Defibrillator mit
     SAED-Funktion (Corpuls:sup:`3`)
 
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 
 
@@ -277,14 +277,14 @@ In der Praxis ergeben sich daraus zwei Anwendungsfälle:
 
     Extremitätenableitungen und Brustwandableitungen
 
-    Ⓒ WmCo/Madhero88, :term:`Ⓛ PD`
+    ₢ WmCo/Madhero88, :term:`ℓ PD`
 
 .. figure:: /Bilder/WikipediaPd/12_lead_generated_sinus_rhythm.*
     :width: 100%
 
     10 Elektroden ergeben 12 Ableitungen: Unauffälliger 12-Kanal-EKG-Befund
 
-    Ⓒ WMC, :term:`Ⓛ PD`
+    ₢ WMC, :term:`ℓ PD`
 
 
 Literatur

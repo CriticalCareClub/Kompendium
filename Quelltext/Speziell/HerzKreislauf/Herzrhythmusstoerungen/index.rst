@@ -91,10 +91,10 @@ Eine noch feinere Unterscheidung ist möglich.
 
     Verortung von Herzrhythmusstörungen
 
-    Ⓒ CardioNetworks, https://www.ecgpedia.org,
+    ₢ CardioNetworks, https://www.ecgpedia.org,
     via `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:De-Atrial_ventricular_(CardioNetworks_ECGpedia).png>`_
     `OTRS ticket #2011102310008874 <https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2011102310008874>`_
-    :term:`Ⓛ CC BY-SA 3.0`
+    :term:`ℓ CC BY-SA 3.0`
 
 
 
@@ -377,7 +377,7 @@ ABCDE
 |symbol-RedFlag| Dyspnoe kann in Folge der kardialen
 Mehrbelastung auftreten
 
-.. rubric:: Ⓒ
+.. rubric:: ₢
 
 Es liegt eine *Tachykardie* vor.
 Der Puls ist i.d.R. hoch,
@@ -502,7 +502,7 @@ Maßnahmen: Hämodynamisch wirksame Tachykardie
 Taktik
     **Vitale Bedrohung!** Ärztliche Therapie sinnvoll.
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Lagerung: Lagerung: **Oberkörper hoch**
     -   Striktes Bewegungsverbot!
     -   Beengende Kleidung öffnen

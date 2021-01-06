@@ -182,10 +182,10 @@ ob und wie er die Botschaft verstanden hat.
 
     Das Sender-Empfänger-Modell
 
-    Ⓒ User:Wiska Bodo, original
+    ₢ User:Wiska Bodo, original
     uploader Freak222 auf http://de.wikipedia.org,
     modifiziert
-    Ⓛ CC-BY-SA 3.0
+    ℓ CC-BY-SA 3.0
 
 Aussagen einer Nachricht
 ========================
@@ -263,8 +263,8 @@ Als klassisches Beispiel ist die
     Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von
     Thun [Thun:1981]_
 
-    Ⓒ User "Mussklprozz" auf Wikipedia, modifiziert
-    Ⓛ CC-BY-SA 3.0
+    ₢ User "Mussklprozz" auf Wikipedia, modifiziert
+    ℓ CC-BY-SA 3.0
 
 
 .. _thema-kommunikationsregeln:

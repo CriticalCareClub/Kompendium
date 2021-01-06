@@ -60,7 +60,7 @@ Herz), als auch die *Oberbauchorgane* (Leber, Magen, Milz, Nieren).
 
     Der knöcherne Thorax
 
-    Ⓒ Mariana Ruiz Villarreal Ⓛ Public domain
+    ₢ Mariana Ruiz Villarreal ℓ Public domain
 
 .. note::
 

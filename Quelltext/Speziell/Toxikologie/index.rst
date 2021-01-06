@@ -74,7 +74,7 @@ Maßnahmen: Vergiftungen, allgemein
 
 .. todo:: Maßnahme MT65091C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Selbstschutz
     -   Beendigung des Giftkontaktes
     -   Evtl. Dekontamination bei
@@ -190,7 +190,7 @@ Der Alkoholentzug und das Entzugsdelir wird unter
 Maßnahmen: Vergiftungen mit Alkohol
 ===================================
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Vergiftungen
         (:ref:`m-am-vergiftung`)
     -   |TxBeiVit| |TxMassVitMK|
@@ -310,13 +310,13 @@ Maßnahmen: Vergiftung mit Opiaten
 .. todo:: Maßnahme MT40021C: Anpassung an höherqualifiziertes Personal
 
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Vergiftungen
         (:ref:`m-am-vergiftung`) und
         symptomatische Therapie
     -   |TxBeiVit| |TxMassVitMK|
 
-Pharmakotherapie
+🕏 Pharmakotherapie
     -   Naloxon
 
 
@@ -382,7 +382,7 @@ Maßnahmen: Vergiftung mit Uppers
 
 .. todo:: Maßnahme MT43091C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Vergiftungen
         (:ref:`m-am-vergiftung`) und
         symptomatische Therapie
@@ -449,7 +449,7 @@ Sauerstoff.\
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Atemschutz_IMG_2043_00800.*
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 Anamnese und Szene
 ^^^^^^^^^^^^^^^^^^
@@ -503,7 +503,7 @@ Maßnahmen: Vergiftung mit Kohlenmonoxid
 
 .. todo:: Maßnahme MT58001C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei
         Stickgas-Vergiftungen
         (:ref:`m-am-stickgase`)
@@ -560,7 +560,7 @@ Maßnahmen: Vergiftung mit Kohlendioxid
 
 .. todo:: Maßnahme MT59070C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei
         Stickgas-Vergiftungen
         (:ref:`m-am-stickgase`)
@@ -614,7 +614,7 @@ Verzögerungstyp
 Maßnahmen: Vergiftung mit Reizgasen
 -----------------------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Auf Selbstschutz achten!
 
         -   Patienten retten, aber nur wenn es der
@@ -653,7 +653,7 @@ Abstand halten! Wind beachten!), vgl. auch :ref:`Thema-gefahrengutunfall`.
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/schild-atemschutzmaske-abnehmen.*
 
-    Ⓒ Sebastian Gabriel  :term:`Ⓛ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 ********************************
 Wovon man nicht trinken sollte …
@@ -707,7 +707,7 @@ Gefahren
 Maßnahmen: Einnahme von Säuren oder Laugen
 ------------------------------------------
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Vergiftungen
         (:ref:`m-am-vergiftung`)
     -   Schluckweise Wasser zur Verdünnung trinken lassen
@@ -742,7 +742,7 @@ Maßnahmen: Einnahme von schaumbildenden Substanzen
 
 .. todo:: Maßnahme MT17023C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Vergiftungen
         (:ref:`m-am-vergiftung`)
     -   Patienten nüchtern lassen

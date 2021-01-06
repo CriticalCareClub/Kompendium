@@ -188,7 +188,7 @@ des Tubus zu überprüfen:
     :align: right
 
     Endotracheale Intubation
-    Ⓒ Michael Motal  :term:`Ⓛ MfG`
+    ₢ Michael Motal  :term:`ℓ MfG`
 
 Es sollen immer *alle drei Möglichkeiten* angewendet werden. Es wird
 jedoch zunehmend ein größerer Wert auf die *Kapnographie* gelegt, um die
@@ -280,7 +280,7 @@ Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
 
     Im Vergleich: Lage eines Larynx-Tubus
 
-    [Lena Hirtler, :term:`Ⓛ MfG`]
+    [Lena Hirtler, :term:`ℓ MfG`]
 
 .. raw:: latex
 
@@ -291,7 +291,7 @@ Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
 
     … und eines endotrachealen Tubus.
 
-    [Lena Hirtler, :term:`Ⓛ MfG`]
+    [Lena Hirtler, :term:`ℓ MfG`]
 
 .. raw:: latex
 
@@ -302,7 +302,7 @@ Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
 
     Position des Guedel-Tubus im Querschnitt
 
-    [Lena Hirtler, :term:`Ⓛ MfG`]
+    [Lena Hirtler, :term:`ℓ MfG`]
 
 .. subfigend::
     :width: 0.32

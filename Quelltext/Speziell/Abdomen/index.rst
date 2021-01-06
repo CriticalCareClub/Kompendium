@@ -195,7 +195,7 @@ Maßnahmen: Akutes Abdomen
 
 .. todo:: Maßnahme CR10000C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Abdominalerkrankungen
         (:ref:`m-am-abdominalerkrankungen`)
     -   **Vitale Bedrohung einschätzen.** Ggfs.
@@ -246,7 +246,7 @@ Maßnahmen: Darmverschluß
 
 .. todo:: Maßnahme CK56070C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Abdominalerkrankungen
         (:ref:`m-am-abdominalerkrankungen`)
     -   Lagerung: bauchdeckenentspannend, bzw. je nach
@@ -313,7 +313,7 @@ Maßnahmen: Akute Appendizitis
 
 .. todo:: Maßnahme CK35080C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Abdominalerkrankungen
         (:ref:`m-am-abdominalerkrankungen`)
     -   Patient nüchtern lassen.
@@ -376,7 +376,7 @@ Maßnahmen: Gallenkolik
 
 .. todo:: Maßnahme CK80811C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Abdominalerkrankungen
         (:ref:`m-am-abdominalerkrankungen`)
     -   Rasche Schmerztherapie veranlassen: Je nach
@@ -471,7 +471,7 @@ Maßnahmen: Blutungen des Verdauungstrakts
 
 .. todo:: Maßnahme CK92020C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   |TxMassVitMK|
 
         -   Lagerung:
@@ -554,7 +554,7 @@ Maßnahmen: Gastroenteritis
 
 .. todo:: Maßnahme CA09091C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Abdominalerkrankungen
         (:ref:`m-am-abdominalerkrankungen`)
     -   Patient nüchtern lassen
@@ -718,7 +718,7 @@ Maßnahmen: Gastritis, Duodenitis
 
 .. todo:: Maßnahme CK29091C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Abdominalerkrankungen
         (:ref:`m-am-abdominalerkrankungen`)
 
@@ -802,7 +802,7 @@ Maßnahmen: Akute Pankreatitis
 
 .. todo:: Maßnahme CK859X0C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Abdominalerkrankungen
         (:ref:`m-am-abdominalerkrankungen`)
 
@@ -877,7 +877,7 @@ Maßnahmen: Mesenterialinfarkt
 
 .. todo:: Maßnahme CK55001C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Allgemeine Maßnahmen bei Abdominalerkrankungen
         (:ref:`m-am-abdominalerkrankungen`)
     -   Nüchtern lassen!
@@ -951,7 +951,7 @@ Maßnahmen: Bauchfellentzündung
 
 .. todo:: Maßnahme CK65090C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Maßnahmen wie bei akutem Abdomen
         (:ref:`m-akutes-abdomen`),
         und sonst abhängig von der Ursache

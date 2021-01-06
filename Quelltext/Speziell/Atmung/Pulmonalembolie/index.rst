@@ -42,7 +42,7 @@ Blutgerinnseln führen.
 
     Herkunft des Thrombus
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 ABCDE: Pulmonalembolie
 ======================
@@ -184,8 +184,8 @@ SAMPLER: Pulmonalembolie
 
 
 
-Intrahospitale Diagnostik
-==========================
+🏥 Intrahospitale Diagnostik
+============================
 
 -   Blutgasanalyse: Erhöhtes pCO₂, vermindertes pO₂
 -   Labor: D-Dimer (sehr unspezifisch)
@@ -210,6 +210,7 @@ Taktik:
     **Vitale Bedrohung!**
     Atemnot lindern, rasche medikamentöse Therapie, ärztliche Therapie sinnvoll
 
+⛑ Basismaßnahmen
     -   |TxMassVitMKBes|
 
         -  Lagerung: Oberkörper hoch
@@ -217,14 +218,14 @@ Taktik:
     -   Striktes Bewegungsverbot!
     -   Beengende Kleidung öffnen
 
-Pharmakotherapie
-    -   Morphin bei Atemnot, titrieren (z. B. 2 mg-Schritte)
-    -   Präklinisch:
+🕏 Pharmakotherapie
+    -   🚑 Morphin bei Atemnot, titrieren (z. B. 2 mg-Schritte)
+    -   🚑 Präklinisch:
 
         -   Eventuell Lyse-Therapie (Ultima ratio)
 
     -   Klinisch:
 
-        -   Heparinisierung unter aPTT-Kontrolle
+        -   🏥 Heparinisierung unter aPTT-Kontrolle
             oder niedermolekulares Heparin in therapeutischer Dosierung
 

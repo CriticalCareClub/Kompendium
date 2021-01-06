@@ -54,7 +54,7 @@ auf eine Wirbelsäulenverletzung erkannt werden.
 
     Schädel-Hirn-Trauma: manuelle HWS-Stabilisierung
 
-    Ⓒ Gabriel :term:`Ⓛ MfG`
+    ₢ Gabriel :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -65,7 +65,7 @@ auf eine Wirbelsäulenverletzung erkannt werden.
 
     Zyanotische Lippen können schon frühzeitig auffallen.
 
-    Ⓒ Gabriel :term:`Ⓛ MfG`
+    ₢ Gabriel :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.45

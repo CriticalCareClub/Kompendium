@@ -117,10 +117,10 @@ sind.
 
     Das Hirn im seitlichen Querschnitt
 
-    Ⓒ Patrick J. Lynch, medical illustrator,
+    ₢ Patrick J. Lynch, medical illustrator,
     http://patricklynch.net;
     C. Carl Jaffe, MD, cardiologist; modifiziert
-    Ⓛ CC-BY 2.5
+    ℓ CC-BY 2.5
 
 Das Gehirn und das verlängerte Rückenmark
 -----------------------------------------
@@ -370,7 +370,7 @@ Nervensystem gehören alle peripheren Nerven.
     Das zentrale Nervensystem (grau) und davon abgehende periphere
     Nerven (gelb)
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
 Unterteilung nach Lage und Aufbau
@@ -428,7 +428,7 @@ vegetativen Nervensystems (:ref:`Thema-vegetatives-nervensystem`).
     Vom Rückenmark (grau) gehen die peripheren Spinalnerven
     (gelb) ab.
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -441,7 +441,7 @@ vegetativen Nervensystems (:ref:`Thema-vegetatives-nervensystem`).
     (türkis). Beachte dass die Nerven geordnet nach
     Rückenmarkssegmenten abgehen.
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -452,7 +452,7 @@ vegetativen Nervensystems (:ref:`Thema-vegetatives-nervensystem`).
     Das zentrale Nervensystem (grau) und davon abgehende periphere
     Nerven (gelb)
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
 .. subfigend::
@@ -587,4 +587,4 @@ Organsysteme wie z. B. die Verdauung.
 
     "Fight or flight, rest and digest."
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`

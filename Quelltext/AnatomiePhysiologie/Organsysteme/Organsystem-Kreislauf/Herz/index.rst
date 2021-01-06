@@ -235,7 +235,7 @@ Beispiele von Rhythmen werden unter
 .. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
     :width: 100%
 
-    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+    ₢ Lena Hirtler  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -246,7 +246,7 @@ Beispiele von Rhythmen werden unter
 
     Das Herz, schematisch
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -257,10 +257,10 @@ Beispiele von Rhythmen werden unter
 
     Reizleitungssystem, Schema
 
-    Ⓒ J. Heuser, basierend auf der Arbeit von
+    ₢ J. Heuser, basierend auf der Arbeit von
     Patrick J. Lynch; illustrator;
     C. Carl Jaffe; MD; cardiologist Yale University Center for
-    Advanced Instructional Media Ⓛ CC-BY
+    Advanced Instructional Media ℓ CC-BY
 
 .. subfigend::
     :width: 0.32
@@ -280,7 +280,7 @@ Aufbau und Lagebeziehungen
     :width: 40%
     :align: right
 
-    Ⓒ Lena Hirtler  :term:`Ⓛ MfG`
+    ₢ Lena Hirtler  :term:`ℓ MfG`
 
 Das Herz ist ein *Hohlmuskel* und hat die
 Funktion einer *Pumpe* im *Blutkreislauf*.
@@ -553,11 +553,11 @@ beantwortet (*mechanische Herzfunktion*). Das Reizbildungs- und
 
     Reizleitungssystem, Schema
 
-    Ⓒ J. Heuser, basierend auf der Arbeit von
+    ₢ J. Heuser, basierend auf der Arbeit von
     Patrick J. Lynch; illustrator;
     C. Carl Jaffe; MD; cardiologist Yale University Center for
     Advanced Instructional Media
-    Ⓛ CC-BY
+    ℓ CC-BY
 
 
 An erster Stelle steht der :dfn:`Sinusknoten` *(1)* im

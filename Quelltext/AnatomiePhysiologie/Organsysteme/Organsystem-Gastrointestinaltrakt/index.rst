@@ -34,7 +34,7 @@ um ausgeschieden zu werden.
 
     Übersicht Verdauungstrakt
 
-    Ⓒ Mariana Ruiz Villarreal Ⓛ Public domain
+    ₢ Mariana Ruiz Villarreal ℓ Public domain
 
 
 

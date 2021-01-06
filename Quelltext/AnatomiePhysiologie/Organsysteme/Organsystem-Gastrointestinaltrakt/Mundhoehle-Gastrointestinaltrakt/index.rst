@@ -32,4 +32,4 @@ sonst zu einem Übertritt der Nahrung in die Luftröhre und damit zu einer
 
     Die Mundhöhle
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`

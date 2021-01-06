@@ -319,7 +319,7 @@ sagen:
     violetten Kugeln stellen Ionen und Moleküle dar.
     Die roten Scheiben sind rote Blutkörperchen.
 
-    Ⓒ WMC/pidalka44 Ⓛ ???
+    ₢ WMC/pidalka44 ℓ ???
 
 .. raw:: latex
 
@@ -330,7 +330,7 @@ sagen:
 
     Osmose
 
-    Ⓒ WMC (Sander van der Molen) Ⓛ Public domain
+    ₢ WMC (Sander van der Molen) ℓ Public domain
 
 .. subfigend::
     :width: 0.48

@@ -99,7 +99,7 @@ Maßnahmen: Nierenkolik
 
 .. todo:: Maßnahme MN23XX0C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Lagerung nach Wunsch des Patienten
     -   Bei unerträglichen Schmerzen Notarzt zur
         Schmerztherapie beiziehen
@@ -223,7 +223,7 @@ Maßnahmen: Akuter Harnverhalt
 
 .. todo:: Maßnahme MR33XX1C: Anpassung an höherqualifiziertes Personal
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Zügiger Transport
     -   Vorsichtig ablassen über Harnkatheter oder
         Blasenpunktion (Spital)

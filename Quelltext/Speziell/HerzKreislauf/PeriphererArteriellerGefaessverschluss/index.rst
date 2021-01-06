@@ -162,13 +162,13 @@ Maßnahmen: Peripherer arterieller Gefäßverschluss
 Taktik
     Symptomatische Therapie und zügiger Transport an geeignete Einrichtung
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Lagerung: Extremität hängen lassen, weich und warm lagern
     -   Schonend transportieren
     -   Nüchtern lassen
     -   Zieleinheit: Abteilung für Chirurgie (Gefäßchirurgie)
 
-Pharmakotherapie
+🕏 Pharmakotherapie
     -   Flüssikeitssubstitution, Vollelektrolytlösung
         (Herabsetzung der Blutviskosität)
     -   Schmerztherapie

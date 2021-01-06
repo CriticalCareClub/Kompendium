@@ -65,8 +65,8 @@ Die Atemwege gliedern sich in die oberen und die unteren Atemwege
 
     Die Atemwege, Übersicht
 
-    Ⓒ Mariana Ruiz Villarreal
-    Ⓛ Public domain
+    ₢ Mariana Ruiz Villarreal
+    ℓ Public domain
 
 Obere Atemwege
 ==============
@@ -329,7 +329,7 @@ eindringen. Außerdem herrscht zwischen den beiden Pleuablättern ein
 
     Pleura, Schema
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
 Dieser Unterdruck entsteht
@@ -431,7 +431,7 @@ Gewebe und Pleura(spalt) wichtig:
     Das *Diaphragma* ist der wichtigste Atemmuskel
     und trennt den Brust- und Bauchraum.
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -443,7 +443,7 @@ Gewebe und Pleura(spalt) wichtig:
     Bei der Einatmung senkt sich das Zwerchfell
     und der Brustkorb hebt sich.
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -454,7 +454,7 @@ Gewebe und Pleura(spalt) wichtig:
 
     Die Rippen folgen der Atembewegung.
 
-    Ⓒ Lena Hirtler, :term:`Ⓛ MfG`
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32

@@ -73,7 +73,7 @@ Leistungsverlust!
 .. figure:: /Bilder/HirtlerLena-Ccc/Herzschmerz.*
 
     Akutes KoronarsyndromTypische Schmerzausdehnung bzw. -ausstrahlung beim
-    ischämischen HerzschmerzLena [Lena Hirtler,  :term:`Ⓛ MfG`]
+    ischämischen HerzschmerzLena [Lena Hirtler,  :term:`ℓ MfG`]
 
 ABCDE
 =======

@@ -151,7 +151,7 @@ Technik eignet sich nur für kurze Distanzen.
 
     Tragering
 
-    Ⓒ Michael Motal  :term:`Ⓛ MfG`
+    ₢ Michael Motal  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -162,7 +162,7 @@ Technik eignet sich nur für kurze Distanzen.
 
     Transport mit dem Tragering
 
-    Ⓒ Michael Motal  :term:`Ⓛ MfG`
+    ₢ Michael Motal  :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -173,7 +173,7 @@ Technik eignet sich nur für kurze Distanzen.
 
     Transport mit dem Tragering
 
-    Ⓒ Michael Motal  :term:`Ⓛ MfG`
+    ₢ Michael Motal  :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32
@@ -287,7 +287,7 @@ wird immer mit den *Füßen voran* getragen.
 
     Bilderserie: Transport mit dem Tragetuch
 
-    Ⓒ Michael Motal  :term:`Ⓛ MfG`
+    ₢ Michael Motal  :term:`ℓ MfG`
 
 
 
@@ -353,7 +353,7 @@ Gefahr des seitlichen Kippens besteht.
 .. figure:: /Bilder/PallingerChristoph-Ccc/Trage_32970_v2-AASS-0176mm.jpg
 
     Krankentrage der Firma Stollenwerk mit Fahrgestell und einer Auflage der Firma Schnitzler mit Brust-, Bein- und Rucksackgurten
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 ********
 Lagerung
@@ -457,7 +457,7 @@ Lagerungsarten
 
     Bilderserie: Lagerungsarten
 
-    Ⓒ Michael Motal  :term:`Ⓛ MfG`
+    ₢ Michael Motal  :term:`ℓ MfG`
 
 
 
@@ -636,7 +636,7 @@ Vorgehen
 
     Bilderserie: Helmabnahme und Anlage einer HWS-Schiene
 
-    Ⓒ Michael Motal  :term:`Ⓛ MfG`
+    ₢ Michael Motal  :term:`ℓ MfG`
 
 
 .. [#153]
@@ -677,7 +677,7 @@ welchen sich die gewünschte vorher abgemessene Größe einstellen lässt
 
     Einstellbare HWS-Schienen für Erwachsene und KinderLaerdal Stifneck Select und Stifneck Pedi-Select
 
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 .. [#154]
    HWS-Schiene: Auch *HWS-Orthese*.
@@ -1041,7 +1041,7 @@ eingesetzt und erfährt auch hierzulande immer größere Verbreitung.
 
     Spineboard.
 
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 Gurtensysteme für Schaufeltrage und Spineboards
 ===============================================
@@ -1063,7 +1063,7 @@ auch mit einem Spineboard verwendet werden. [#158]_
 
     Ferno Fastrap Quick Restraint System.
 
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 .. [#158]
    Ferno Fastrap / Schaufeltrage: *"The Fastrap system is compatible
@@ -1202,7 +1202,7 @@ Material und Personal
 
     Vakuumbeinschiene mit Zubehör
 
-    Ⓒ Ch. Pallinger  :term:`Ⓛ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 Vorgehen
 ^^^^^^^^

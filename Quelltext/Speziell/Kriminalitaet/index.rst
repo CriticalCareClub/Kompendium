@@ -91,7 +91,7 @@ Maßnahmen: Vergewaltigung
     Maßnahmen Vergewaltigung: Anpassung an höherqualifiziertes Personal
 
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     -   Ruhig und sachlich bleiben
     -   Polizei verständigen
     -   Ermöglichung von polizeilichen Ermittlungen unter Schonung des Opfers ("vermitteln")
@@ -260,7 +260,7 @@ Maßnahmen: Kindesmisshandlung
 
 Die Aufgaben des Rettungsdienstes bei Verdacht auf Kindesmisshandlung besteht in:
 
-Basismaßnahmen
+⛑ Basismaßnahmen
     #.  Daran denken!
     #.  Umstände und Umfeld abklären
     #.  Unstimmigkeiten und Auffälligkeiten auf eine neutrale Weise

@@ -174,6 +174,8 @@ aller Art mit Hilfe elektromagnetischer Wellen im Radiofrequenzbereich
 Sprechfunk
 ^^^^^^^^^^
 
+    "Komme per Draht" ist der ultimative Abturner am Funk für alle unbeteiligten Mithörer.
+
 Das drahtlose Übertragen von *gesprochenen* Informationen wird als
 Sprechfunk bezeichnet. Dabei können Handfunkgeräte, Mobilfunkgeräte oder
 Feststationen zum Einsatz kommen.

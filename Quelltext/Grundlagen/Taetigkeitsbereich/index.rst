@@ -20,7 +20,8 @@ Tätigkeitsbild und Orientierung (#28)
 
 .. Thema-: Topic
 
-   Ein Übersichtskapitel über das Umfeld und die Tätigkeiten in den Sanitätsberufen.
+    Ein Übersichtskapitel über das Umfeld und die Tätigkeiten in den Sanitätsberufen.
+    Sofern nicht anders angegeben bezieht sich dieser Abschnitt auf die rechtlichen und organisatorischen Rahmenbedingungen in Österreich.
 
 .. sectionauthor:: Sebastian Gabriel
 

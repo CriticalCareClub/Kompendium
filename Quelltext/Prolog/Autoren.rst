@@ -32,7 +32,7 @@ Sebastian Gabriel
 
 Lena Hirtler
 
-    Priv.-Doz. Mag. DDr. med.univ. et scient. med.
+    Priv.-Doz. Mag. DDr.
 
     Medizinische Universität Wien, Zentrum für Anatomie und Zellbiologie,
     Abt. für Anatomie, Wien

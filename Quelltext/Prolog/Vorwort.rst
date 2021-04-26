@@ -8,8 +8,8 @@ Vorwort
 Liebe Leserinnen und Leser!
 
 Die Wurzeln dieses Werkes reichen zurück in das Jahr 2008.
-Damals entstanden in Zusammenarbeit mit dem Ausbildungszentrum des ASB
-Florisdorf-Donaustadt,
+Damals entstanden in Zusammenarbeit mit dem Ausbildungszentrum des
+Arbeiter-Samariter-Bund Österreichs Gruppe Floridsdorf-Donaustadt, Wien,
 ausgehend von den Erfordernissen der Rettungssanitäter-Kurse,
 die *"Arbeits- und Ausbildungsstandards für den Sanitätsdienst"* (*AASS*).
 Sie bildeten die Grundlage der Rettungssanitäter-Curricula
@@ -25,7 +25,7 @@ und damit auch die Anforderungen an das Fachpersonal drastisch erhöht.
 Dem wollen wir nun mit einer umfassenden Neuausrichtung
 und drastischen Überarbeitung der AASS und Überführung in ein "neues" Projekt
 Rechnung tragen.
-Waren die AASS bisher eher Rettungspersonal
+Waren die AASS bisher eher auf Rettungspersonal
 mit eher minimalem medizinischem Basiswissen ausgerichtet
 (in Österreich klassischerweise Rettungssanitäter),
 so wendet sich der neue :dfn:`Plan P` (so der vorläufige Projektitel)
@@ -73,7 +73,7 @@ Frequently asked questions (FAQs)
 
 An wen wendet sich dieses Buch?
     Dieses Werk richtet sich an ärztliches und nicht-ärztliches medizinisches Fachpersonal,
-    welches mit der Betreuung von kritischen Patienten betraut ist.
+    welches mit der Betreuung von kritisch kranken oder verletzten Patienten betraut ist.
 
 Für wen ist dieses Werk *nicht* gedacht?
     Diese Werk wird diese nicht erfreuen,

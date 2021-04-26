@@ -143,11 +143,11 @@ die gegebene Aussage oder Empfehlung für Dosierungen oder die Beachtung
 von Kontraindikationen gegenüber der Angabe in diesem Werk abweicht.
 Jede Dosierung oder Applikation erfolgt auf eigene Gefahr des Benutzers.
 
-Die bittet jeden Leser, ihm aufgefallene Ungenauigkeiten und Fehler,
+Die Herausgeber bitten jeden Leser, ihm aufgefallene Ungenauigkeiten und Fehler,
 sowie Anregungen und konstruktive Kritik, über unsere Entwicklungs- und
 Feedback-Webseite unter
 
-http://aass.at/entwicklung
+https://aass.at/entwicklung
 
 mitzuteilen.
 

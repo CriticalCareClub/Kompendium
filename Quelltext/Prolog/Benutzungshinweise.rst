@@ -53,7 +53,7 @@ wie in der folgenden Tabelle gegliedert:
     *   -   3
         -   D
         -   Intermediate
-        -   .at Notfallsanitäter mit oder ohne Notfallkompetenz NKA;
+        -   *.at* Notfallsanitäter mit oder ohne Notfallkompetenz NKA;
             *.de* Rettungssanitäter
     *   -   4
         -   E

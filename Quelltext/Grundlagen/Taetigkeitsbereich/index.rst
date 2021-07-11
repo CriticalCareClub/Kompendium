@@ -1,4 +1,6 @@
 
+.. _Taetigkeitsbild:
+
 #####################################
 Tätigkeitsbild und Orientierung (#28)
 #####################################
@@ -233,7 +235,7 @@ unterlassen dürfen.
 
 .. [#9]
    Paramedics sind gutausgebildete Sanitäter im englischsprachigen Raum,
-   welche in nicht-Notarzt-basierten Systemen eingesetzt werden, d.h.
+   welche in nicht-Notarzt-basierten Systemen eingesetzt werden, d. h.
    sie haben in diesen Ländern das Personal mit der höchsten
    medizinischen Ausbildung, welches im präklinischen Regelbetrieb
    eingesetzt wird.
@@ -376,7 +378,7 @@ Rettungssanitäters umfasst diverse Aufgaben, die mit körperlichem
 Einsatz und dementsprechender Anstrengung verbunden sind.
 
 Zu guter Letzt und im besonderen sei auf die Bedeutung *psychischer
-Belastbarkeit* hingewiesen, v.a. in Hinblick auf den Umgang mit
+Belastbarkeit* hingewiesen, v. a. in Hinblick auf den Umgang mit
 psychischem Stress: Sanitätsdienst zu leisten, bedeutet tägliche
 *Konfrontation* mit dem persönlichen Leid von Mitmenschen, des weiteren
 die *Verantwortlichkeit* – ggfs. auch noch unter Zeitdruck – darauf

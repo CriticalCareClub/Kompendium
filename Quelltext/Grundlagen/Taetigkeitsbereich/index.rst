@@ -40,7 +40,7 @@ Sanitäter in der Theorie
 ------------------------
 
 Der Beruf bzw. die Tätigkeit des Sanitäters wurde 2002 durch das
-*Sanitätergesetz* (SanG) neu geregelt. Demnach unterteilt man in
+*Sanitätergesetz* (SanG) geregelt. Demnach unterteilt man in
 *Rettungssanitäter* oder *Notfallsanitäter*. Der Beruf bzw. die
 Tätigkeiten des Sanitäters dürfen nur nach Maßgabe des Sanitätergesetzes
 ausgeübt werden.
@@ -49,7 +49,7 @@ Sanitäter haben ihre Tätigkeit *ohne Ansehen der Person* gewissenhaft
 auszuüben und haben das Wohl der Patienten und der betreuten Personen
 nach *Maßgabe der fachlichen und wissenschaftlichen Erkenntnisse und
 Erfahrungen* zu wahren. *Fortbildung* ist ein wichtiger Teil der
-Tätigkeit, Sanitäter haben sich daher laufend tätigkeitsrelevant
+Tätigkeit. Sanitäter haben sich daher laufend tätigkeitsrelevant
 fortzubilden. Darüber hinaus müssen die *Berufs- bzw.
 Tätigkeitspflichten* erfüllt werden (z. B. Dokumentationspflicht,
 Verschwiegenheitspflicht, Auskunftspflicht, vgl.
@@ -100,7 +100,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
 
     Die gute Zusammenarbeit mit dem Spitalspersonal ist wichtig, wie
     zum Beispiel bei dieser Überstellung eines Intensivpatienten: Wenn
-    danach alle Beteiligten so fröhlich sind ist das ein gutes Zeichen.
+    danach alle Beteiligten so fröhlich sind, ist das ein gutes Zeichen.
 
     ₢ Sebastian Gabriel :term:`ℓ MfG`
 
@@ -163,9 +163,6 @@ Rezertifizierung.
 
 Sanitäter in der Praxis
 -----------------------
-
-Allgemeines
-^^^^^^^^^^^
 
 Es ist derzeit noch relativ unklar wie der Sanitäter in das etablierte
 Berufsfeld der Gesundheitsberufe "hineinpasst". Die Berufsgruppen der
@@ -257,7 +254,7 @@ Kompetenzen werden erweitert
 Anfänglich war das Tätigkeitsprofil weitgehend auf das traditionelle
 Gebiet der "erweiterten Ersten Hilfe" beschränkt. Die ändert sich
 zunehmend. Einerseits durch die gesetzlich definierten
-Notfallkompetenzen, welche dem ärztlichen Leiter in der großen Spielraum
+Notfallkompetenzen, welche dem ärztlichen Leiter einen großen Spielraum
 hinsichtlich der Definition von Therapiemaßnahmen lassen, welche durch
 (Notfall-) Sanitäter durchgeführt werden können; andererseits werden
 andernorts auch Kompetenzerweiterungen auch mit dem sich wandelnden
@@ -272,18 +269,19 @@ in manchen Regionen eifrig Notfallsanitäter und Notfallkompetenzen
 ausgebildet bzw. angewendet werden, sind manche (Landes-) Organisationen
 äußerst zurückhaltend [Enne:2012]_.
 
+
+
 .. _Thema-belastung:
 .. _Thema-anforderung:
 
 Anforderungen – Beanspruchung – Belastung: Was erwartet die Welt von mir?
 -------------------------------------------------------------------------
 
-
-Querverweise
-^^^^^^^^^^^^
+.. rubricc:: Querverweise
 
 -   Gesprächsführung: [chp:KOM]
 -   Belastungsreaktion, Burn-out: :ref:`Thema-ptss`, :ref:`Thema-burn-out`
+
 
 Theoretische Anforderungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -746,7 +744,7 @@ gebärende Mütter und ist zur Leitung von Geburten berechtigt. Sie ist
 zur Durchführung von relevanten medizinischen Maßnahmen, darunter fallen
 auch Blutabnahmen, das Setzen von peripheren Venenverweilkanülen, die
 Gabe von bestimmten Medikamenten, sowie einschlägige chirurgische
-Eingriffe (Versorgung eines Dammriss, …), berechtigt. Die Ausbildung zur
+Eingriffe (Versorgung eines Dammrisses, …), berechtigt. Die Ausbildung zur
 Hebamme erfolgt in einer entsprechenden Fachschule, neuerdings erfolgt
 die Ausbildung auch in Fachhochschulen. Die Bezeichnung Hebamme gilt für
 weibliche und männliche Berufsangehörige. Die gesetzliche Grundlage
@@ -792,7 +790,7 @@ Intensiv-, Anästhesiepflege ...).
 
 Der Tätigkeitsbereich des gehobenen Gesundheits- und
 Krankenpflegedienstes beinhaltet einen *eigenverantwortlichen*
-Tätigkeitsbereich, welcher insbesonders die Pflege von von Patienten
+Tätigkeitsbereich, welcher insbesonders die Pflege von Patienten
 vorsieht, sowie einen *mitverantwortlichen* Tätigkeitsbereich, welcher
 die Durchführung von einfachen ärztlichen Tätigkeiten (Blutentnahme,
 Verabreichung von Infusionen und Medikamenten, …) vorsieht. Für

@@ -355,7 +355,7 @@ nach der eigentlichen HIV-Infektion aus.
 Übertragung
 -----------
 
-Übertragen wird das HI-Virus v.a. durch Körperflüssigkeiten wie Blut,
+Übertragen wird das HI-Virus v. a. durch Körperflüssigkeiten wie Blut,
 Blutprodukte, Sperma und Scheidensekret, Liquor oder Muttermilch.
 *"Ungeschützter Sex"*, Transfusionen und *Nadelstichverletzungen* gelten
 als klassische Risiken. Es erfolgt *keine Übertragung durch normale

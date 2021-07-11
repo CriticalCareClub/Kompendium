@@ -121,7 +121,7 @@ Entpacken von sterilem Material
 
 Die Verpackung von sterilem Material muss *fachkundig* geöffnet werden,
 damit es beim Öffnen nicht verunreinigt wird. Gängiges
-Verpackungsmaterial lässt sich *aufschälen*, d.h. die Oberseite lässt
+Verpackungsmaterial lässt sich *aufschälen*, d. h. die Oberseite lässt
 sich von der Unterseite ablösen. Dabei darf das Material nicht
 kontaminiert werden.
 

@@ -198,7 +198,7 @@ Gefahren und Fehlerquellen
 
 Die größte Gefahr ist die falsche Interpretation von Messwerten.
 
--   Manche Geräte sind *nicht defibrillationssicher*, d.h. es können
+-   Manche Geräte sind *nicht defibrillationssicher*, d. h. es können
     während und nach der Defibrillation falsche Werte angezeigt werden,
     das Gerät darf während der Defibrillation nicht berührt werden. Bei
     Mehrwegsensoren besteht das Risiko der Keimübertragung

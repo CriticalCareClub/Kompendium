@@ -40,7 +40,7 @@ Nasenflügeln,
 Einziehungen an
 den Rippen, …),
 eine verwaschene oder wirre *Sprache*,
-*Desorientiertheit*, *Krämpfe* u.v.a.m.
+*Desorientiertheit*, *Krämpfe* u.v. a.m.
 Ebenso können eventuell Hinweise
 auf ein *Trauma*,
 sichtbare Verletzungen,

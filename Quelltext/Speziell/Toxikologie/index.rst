@@ -271,7 +271,7 @@ Symptome der Opiatvergiftung
         -   Gegenmittel verfügbar, wirkt aber nicht so lang
 
 Die gefährlichste Wirkung der Opiate ist die Atemdepressionen,
-d.h. die Atemfrequenz wird dosisabhängig immer weiter reduziert bis es
+d. h. die Atemfrequenz wird dosisabhängig immer weiter reduziert bis es
 schließlich zu einem Atemstillstand kommt.
 Die Patienten zeigen
 dementsprechend Zeichen einer Hypoxie (Zyanose).
@@ -291,7 +291,7 @@ Gegenmittel
 Jedes Notarztmittel führt ein Opiat-Gegenmittel mit sich, dieses ist
 sehr effektiv. [#Naloxon]_
 Es ist jedoch wichtig zu wissen, dass dieses
-Gegenmittel nicht so lange wirkt wie das Opiat, d.h. es kann wieder zu
+Gegenmittel nicht so lange wirkt wie das Opiat, d. h. es kann wieder zu
 einer verminderten Atmung kommen, wenn die Wirkung des Gegenmittels
 nachlässt.
 Daher soll der Transport nur mit Arztbegleitung erfolgen.

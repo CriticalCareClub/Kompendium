@@ -52,7 +52,7 @@ Handbewegungen.
 .. figure:: /Bilder/GabrielChristine-Ccc/staph-aureus-mrsa.jpg
 
     Diese Bakterien (gleicher Keim!) ignorieren 4 von 6 Antibiotika-Plättchen,
-    d.h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim.
+    d. h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim.
     Er ist *multiresistent*.
     Die beste Maßmnahme dagegen: **Gar nicht erst übertragen!**
     *Ch. Gabriel/KARPAT*

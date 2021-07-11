@@ -172,7 +172,7 @@ aushaltbarer Schwindel.
     Man sieht den äußeren Gehörgang, das Trommelfell,
     die Gehörknöchelchen, die Schnecke und die Bogengänge.
 
-    [Lena Hirtler, MfG]
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -187,7 +187,7 @@ aushaltbarer Schwindel.
     sowie die Gehörknöchelchen Hammer,
     Amboss und Steigbügel zu sehen.
 
-    [Lena Hirtler, MfG]
+    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.45

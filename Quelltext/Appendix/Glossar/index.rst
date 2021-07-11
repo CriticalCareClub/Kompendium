@@ -32,7 +32,7 @@ Abkürungsverzeichnis und Glossar
 
     Erysipel
         *Syn.* Rotlauf, Wundrose. Infektionserkrankung,
-        v.a. der unteren Extremität, welche gekennzeichnet ist durch eine
+        v. a. der unteren Extremität, welche gekennzeichnet ist durch eine
         lokale Rötung und Schwellung andere betreffende Extremität.
         Ursächlich ist das Eindringen von Keimen, zumeist Streptokokken oder
         Staphylokokken, durch eine Eintrittspforte (zum Beispiel

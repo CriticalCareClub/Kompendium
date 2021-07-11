@@ -313,7 +313,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
     Typisch für das späte Stadium ist die *Ungleichheit
     der Pupillen* (Anisokorie), bzw. eine verlangsamte Lichtreaktion.
 
--   In schweren Fällen kommt es zu sog. *Strecksynergismen*, d.h. der
+-   In schweren Fällen kommt es zu sog. *Strecksynergismen*, d. h. der
     Patient reagiert bei Schmerzreiz nur mit einem ungerichtetem Strecken
     der Extremitäten.
 

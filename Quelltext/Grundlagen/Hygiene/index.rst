@@ -454,7 +454,7 @@ Antibiotika-resistent: Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
     :width: 100%
 
     Diese Bakterien ignorieren 4 von 6 Antibiotika-Blättchen,
-    d.h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim.
+    d. h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim.
     Er ist *multiresistent*.
 
     [Christine Gabriel/KARPAT]
@@ -784,7 +784,7 @@ Beschreibung: Sterilisation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Das Ziel der :dfn:`Sterilisation` :index:`\ <! Sterilisation>` ist die Abtötung
-*sämtlicher* Krankheitserreger, d.h. *Keimfreiheit* (Sterilität).
+*sämtlicher* Krankheitserreger, d. h. *Keimfreiheit* (Sterilität).
 Voraussetzung für die Sterilisation ist eine *vorherige Reinigung* und
 *Desinfektion*!
 

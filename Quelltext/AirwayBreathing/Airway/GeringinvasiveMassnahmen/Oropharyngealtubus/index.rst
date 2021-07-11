@@ -51,5 +51,5 @@ Lage des Guedel-Tubus.
     :width: 0.32
     :label: sagaegaegbdfghdsfhg
 
-    Bilderserie: Einführen des Guedel-Tubus [Lena Hirtler, MfG]
+    Bilderserie: Einführen des Guedel-Tubus ₢ Lena Hirtler, :term:`ℓ MfG`
 

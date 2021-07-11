@@ -571,7 +571,7 @@ Gefahren
     einem verletzten Gefäß kommen.
 
 -   **Fettembolie**: Das gelbe Knochenmark, welches vor allem aus Fett
-    besteht, kann v.a. bei Frakturen langer Röhrenknochen zu Fettembolien
+    besteht, kann v. a. bei Frakturen langer Röhrenknochen zu Fettembolien
     führen: Kleine Fetttröpfchen gelangen dabei in die Blutbahn und
     können eine Lungenarterie verstopfen, dadurch kommt es zu einer
     Lungenembolie (:ref:`Thema-lungenembolie`).

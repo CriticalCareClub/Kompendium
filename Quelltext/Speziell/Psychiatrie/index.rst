@@ -88,7 +88,7 @@ Der psychiatrische Patient ist nicht entrechtet!
 
 Es ist hierbei jedoch festzuhalten, dass auch ein psychiatrischer
 Patient – genauso wie jeder andere Patient auch – über die selben
-Selbstbestimmungsrechte verfügt, d.h. es ihm grundsätzlich zusteht eine
+Selbstbestimmungsrechte verfügt, d. h. es ihm grundsätzlich zusteht eine
 Behandlung zu verweigern. Sollten im Rahmen der gesetzlichen
 Bestimmungen (*Unterbringungsgesetz*) Maßnahmen durchzuführen sein, so
 sind diese von der *Exekutive* (Polizei) vorzunehmen.
@@ -372,7 +372,7 @@ begründbaren, und nicht-organischen, d. h. körperlich nicht begründbaren
 Psychosen. In beiden Gruppen kann man weitere Unterscheidungen treffen,
 vgl. :ref:`Table-psychosen-einteilung`. Körperliche Ursachen für Psychosen
 können Störungen und Verletzungen des ZNS, z. B. bei Hirntumoren, Folge
-eines SHT, Intoxikationen, Stoffwechselstörungen u.v.a.m. sein.
+eines SHT, Intoxikationen, Stoffwechselstörungen u.v. a.m. sein.
 Grundsätzlich muss bis zum Beweis des Gegenteils von einer
 *organischen* Psychose (mit behebbarer Ursache) ausgegangen
 werden!

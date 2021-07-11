@@ -144,7 +144,7 @@ ABCDE: Lungenödem
 
 :``=``:
     Patienten mit einem |symbol-RedFlag|\  deutlich hörbaren
-    Lungenödem (v.a. bei kardialer Ursache) sind schwer und
+    Lungenödem (v. a. bei kardialer Ursache) sind schwer und
     *lebensbedrohlich krank*.
     Das Herz verbraucht oft schon die
     allerletzten Reserven.

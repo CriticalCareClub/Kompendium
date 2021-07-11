@@ -476,7 +476,7 @@ Besteht die Pflicht für Sanitäter zur Nachforderung eines Notarztes?
         gleichzeitig beinhaltet, dass er bei Notwendigkeit eine unverzügliche
         Anforderung des Notarztes oder sonstigen Arztes zu veranlassen hat.
 
-Anmerkung: Die Unterlassung von schädlichen Handlungen, d.h. Handlungen
+Anmerkung: Die Unterlassung von schädlichen Handlungen, d. h. Handlungen
 die *nicht* dem Patientenwohl dienen, stellt *keine* unterlassene
 Hilfeleistung dar. Schädliche Dinge zu unterlassen ist genauso wichtig
 wie nützliche Dinge zu tun.

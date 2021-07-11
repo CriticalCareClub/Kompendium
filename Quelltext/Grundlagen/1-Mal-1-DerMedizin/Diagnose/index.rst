@@ -119,6 +119,8 @@ sich verschiedene Begriffe eingebürgert:
     single: World Health Organization
     single: Weltgesundheitsorganisation
 
+.. _Icd-10:
+
 *************
 Diagnosecodes
 *************

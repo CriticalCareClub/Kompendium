@@ -243,7 +243,7 @@ Literaturverzeichnis
 
 [AntonovskySalutogenese]_
 [Beneker:2004]_
-[BengelPsyNotfallmedRd:2]_
+[Bengel:2]_
 [youtube:VaginalChildbirth]_
 [Bischofberger:2007]_
 [FamPropPku:2014]_
@@ -269,7 +269,7 @@ Literaturverzeichnis
 [Harrisons18DeKap243]_
 [Harrisons18DeKap246]_
 [Harrisons18DeKap245]_
-[FrielingLehrbArbeitspsy:2]_
+[Frieling:2]_
 [ADR:2011]_
 [www.ekg-online.de]_
 [Enne:2012]_
@@ -307,8 +307,8 @@ Literaturverzeichnis
 [Loew:2006]_
 [Loennecker:2001]_
 [Malfertheiner:2004]_
-[OskampAppSocPsyAnn84-BurnOrgSett]_
-[MaslachBurnout]_
+[Maslach:1984]_
+[Maslach:1982]_
 [Meron:2004]_
 [ArzPocketAustria:2]_
 [KlinLeitAlle:3]_
@@ -591,6 +591,9 @@ Charlie
 Delta
 ================================================================================
 
+.. [Def:Beanspruchung]
+
+    Seite „Beanspruchung (Begriffsklärung)“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 16. Juli 2013, 11:32 UTC. URL: https://de.wikipedia.org/w/index.php?title=Beanspruchung_(Begriffskl%C3%A4rung)&oldid=120596188 (Abgerufen: 11. Juli 2021, 10:54 UTC)
 
 Echo
 ================================================================================
@@ -1011,7 +1014,7 @@ K
 	*J Trauma*
 	2001:50(4), 620–7, discussion 627–8.
 
-.. [Karutz:200912]
+.. [Karutz:2009]
 	Karutz, Harald:
 	**Wenn Die Belastungsgrenze Erreicht Ist: Psychologische Selbsthilfe in Extremsituationen.**
 	*Rettungsdienst*
@@ -1433,23 +1436,12 @@ Z
 
 
 
-.. [BengelPsyNotfallmedRd2-PsyBelRdPers]
-	Bengel, J. und M. Heinrichs:
-	2004.In *Psychologie in Notfallmedizin
-	Und Rettungsdienst*, edited by J. Bengel,
-	2. Auflage, , 25–43. Springer.
-
-
-
-
-
-
-
-.. [BengelPsyNotfallmedRd:2]
-	Bengel, J., ed:
-	2004.*Psychologie in Notfallmedizin Und
-	Rettungsdienst.*
-	2. Auflage,  Springer.
+.. [Bengel:2]
+	Bengel, J. (Hrsg.):
+	2004.
+    **Psychologie in Notfallmedizin Und Rettungsdienst.**
+    2. Auflage, 2004.
+	3. Springer.
 
 
 .. [BERN:12]
@@ -1781,7 +1773,7 @@ Z
 
 
 
-.. [FrielingLehrbArbeitspsy:2]
+.. [Frieling:2]
 
 	E., Frieling und Sonntag Kh., eds:
 	1999.*Lehrbuch Arbeitspsychologie.*
@@ -2388,7 +2380,7 @@ Z
 	doi:\ `10.1055/s-2004-831344 <https://doi.org/10.1055/s-2004-831344>`__.
 
 
-.. [OskampAppSocPsyAnn84-BurnOrgSett]
+.. [Maslach:1984]
 
 	Maslach, C. and S. E. Jackson:
 	1984.In *Applied Social Psychology
@@ -2396,7 +2388,7 @@ Z
 
 
 
-.. [MaslachBurnout]
+.. [Maslach:1982]
 	Maslach, C., ed:
 	1982.*Burnout. the Cost of Caring.* Prentice-Hall.
 
@@ -2995,10 +2987,10 @@ Z
 
 .. [BruederlBelastung88-DefBew]
 
-	Trautmann-Sponsel, R. D:
-	1988.In *Belastung Und Bewältigung: Trends in
-	Der Bewältigungsforschung*, edited by L. Brüderl, 14–24. München:
-	Juventa.
+    Trautmann-Sponsel, R. D:
+    In *Belastung Und Bewältigung: Trends in Der Bewältigungsforschung*, edited by L. Brüderl, 14–24.
+    1988, München.
+    Juventa.
 
 
 
@@ -3451,7 +3443,7 @@ Z
 
 
 
-.. [ZimbardoPsych:6]
+.. [Zimbardo:6]
 
 	Zimbardo, G., ed:
 	1995.*Psychologie.*

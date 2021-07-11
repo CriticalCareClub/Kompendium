@@ -287,7 +287,7 @@ Tabelle :ref:`Tafel-UebersichtSchockarten`.
                 -   Medikamente
                 -   Kontrastmittel
                 -   tierische Gifte
-                -   u.v.a.m.
+                -   u.v. a.m.
 
         -   Stadienabhängig
 

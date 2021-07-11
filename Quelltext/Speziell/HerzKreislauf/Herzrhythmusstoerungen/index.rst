@@ -513,7 +513,7 @@ Taktik
 
     -   Psychische Betreuung!
         "Oase der Ruhe" schaffen.
-    -   Wenn der Patient versorgt ist (d.h. alle obigen Punkte erfüllt
+    -   Wenn der Patient versorgt ist (d. h. alle obigen Punkte erfüllt
         wurden) soll – wenn möglich – ein *EKG* (Extremitätenableitung, )
         abgeleitet werden.
         Der Ausdruck dient v. a. der Dokumentation und der Information

@@ -8,7 +8,7 @@
 Rettungswesen und Einsatztaktik (`#27 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/27>`_)
 ********************************************************************************************************************************
 
-Einführung ist die Strukturen des Rettungswesens und der Einsatztaktik.
+Einführung in die Strukturen des Rettungswesens und der Einsatztaktik.
 
 
 Der Krankentransport- und Rettungsdienst
@@ -37,7 +37,7 @@ Zu den Aufgaben eines *Rettungsdienstes* gehört es:
     *notärztliche* Hilfe zu leisten, die anders nicht gewährleistet ist;
 #.  den Transport von Personen durchzuführen, bei denen *lebenswichtige
     Funktionen ständig überwacht oder aufrecht erhalten werden müssen*;
-#.  akute *Blut-, Blutprodukte- oder Organtransporte* durchzuführen;
+#.  akute *Blut-, Blutprodukt- oder Organtransporte* durchzuführen;
 #.  *Sanitätsdienste* zur Behandlung von akuten Erkrankungen oder
     Verletzungen bei *Veranstaltungen* mit dem hierfür erforderlichen
     Personal, den erforderlichen Einrichtungen und erforderlichen
@@ -573,7 +573,11 @@ Der :dfn:`Notarztwagen` (:dfn:`NAW`) ist für den Transport, die erweiterte
 *ärztliche* Behandlung und die Überwachung von Patienten – insbesonders
 *Notfallpatienten* – konstruiert und ausgerüstet. Er wird in der
 *Notfallrettung* und bei *Überstellungen* von Patienten, welche eine
-ärztliche Behandlung oder Überwachung benötigen, eingesetzt. Der NAW ist
+ärztliche Behandlung oder Überwachung benötigen, eingesetzt.
+Heutzutage wird im Primärrettungsdienst jedoch die Kombination aus RTW und Notarzteinsatzfahrzeug (NEF)
+aufgrund der höheren Flexibilität bevorzugt,
+sodass der NAW in der Praxis meist nur mehr bei speziellen Einsatzlagen zum Einsatz kommt.
+Der NAW ist
 mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifikation:
 *1 Notarzt, 1 Notfallsanitäter, 1­—2 Rettungssanitäter*).
 
@@ -630,7 +634,7 @@ Notarzteinsatzfahrzeug – NEF
         -   Notfallrettung, Überstellungen
         -   Kein Transport
         -   Mind. 1 NA, 1 NFS
-        -   Ein :abbr:`NEF` transportiert keine Patienten.
+        -   Transportiert keine Patienten
 
 Ein :abbr:`NEF (Notarzteinsatzfahrzeug)`
 ist ein Zubringerfahrzeug, welches den
@@ -638,11 +642,13 @@ Notarzt zu einem Einsatzort bringt. Es führt die für eine ärztliche
 Behandlung notwendige Ausstattung mit sich. Ein NEF kann zwar
 grundsätzlich ohne andere Rettungsmittel Patienten versorgen, ein
 *Transport* muss jedoch mit einem anderen Fahrzeug (RTW, KTW, …)
-erfolgen. In Verbindung mit einem anderen Rettungmittel wird das NEF in
-der *Notfallrettung* und bei *Überstellungen* eingesetzt.
+erfolgen.
+In Verbindung mit einem anderen Rettungmittel wird das NEF in
+der *Notfallrettung* und bei *Überstellungen* eingesetzt,
+hier hat es den NAW weitgehend abgelöst.
 
 Das NEF ist mit mindestens 2 Personen besetzt, (Mindestqualifikation: 1
-Notarzt, 1 Notfallsanitäter (im Ausnahmefall auch Rettungssanitäter)).
+Notarzt, 1 Notfallsanitäter).
 
 
 .. index::
@@ -727,6 +733,7 @@ First Responder
 
     .. sidebar:: First Responder
 
+        -   Ersthelfer
         -   Zumindest in erweiterter Ersten Hilfe ausgebildet
         -   Überbrücken Zeit bis Eintreffen des Rettungsdienstes mit
             qualifizierten Maßnahmen
@@ -740,7 +747,8 @@ Responders sind regional sehr unterschiedlich. Grundsätzlich sind
 Ersten Hilfe ausgebildete Personen, die bei Notfällen die Zeit bis zum
 Eintreffen des Rettungsdienstes mit qualifizierten Maßnahmen
 *überbrücken* sollen und stellen somit eine *Ergänzung zur
-Rettungskette* dar.
+Rettungskette* dar (**Ersthelfer**).
+
 Hauptaufgabe ist es, das sogenannte *therapiefreie
 Intervall* zu verkürzen. First Responder sind nicht Teil des
 Regelrettungsdienstes, sondern ergänzen diesen. Insbesonders in
@@ -748,7 +756,7 @@ ländlichen Gebieten ist es oft üblich, dass dienstfreies
 Sanitätsfachpersonal und Ärzte über die regional zuständige Leitstelle
 mittels Pager bei Notfällen in der näheren Umgebung mitalarmiert werden.
 In neuerer Zeit wird zunehmend versucht auch in städtischen Gebieten
-First-Responder-Systeme zu etablieren. So startete vor kurzem der Verein
+First-Responder-Systeme zu etablieren. So startete der Verein
 *Lebensretter* mit einer App für Smartphones, über die registrierte
 Sanitäter von der Leitstelle der Wiener Berufsrettung bei in der Nähe
 stattfindenden Reanimationen alarmiert werden. Mittels einer Datenbank
@@ -826,120 +834,128 @@ Grünes Kreuz, Rotes Kreuz, …) beauftragt. Diese Anbieter können
 grundsätzlich sowohl gemeinnützige Hilfsorganisationen oder kommerzielle
 Anbieter mit Gewinnabsicht sein.
 
-.. index::
-    single: Magistratsabteilung 70 (Wien)
-    single: MA 70
-    single: Berufsrettung (Wien)
-    single: Wiener Berufsrettung
 
-Rettungswesen in Wien
-^^^^^^^^^^^^^^^^^^^^^
+..
+    Der Abschnitt "Rettungswesen in Wien" wird vorerst herausgenommen, da er nicht gewartet wird und nicht aktuell ist.
 
-Die Stadt Wien ist für die Durchführung des Rettungsdienstes für das
-Gemeindegebiet verantwortlich. Zur Erfüllung dieser Aufgabe betreibt sie
-einerseits durch die
-:dfn:`Magistratsabteilung 70`
-(:dfn:`MA70`, *Wiener Berufsrettung*)
-einen eigenen Rettungsdienst,
-andererseits bedient sie sich auch der Tätigkeit anderer bewilligter
-(privater) Rettungsdienste, welche in einem *Rettungsverbund*
-organisiert sind.
+    GABRIEL 2021-04-26
 
-Der Arbeiter-Samariter-Bund Österreichs, die Johanniter-Unfall-Hilfe in
-Österreich, der Malteser Hospitaldienst Austria und das Österreichische
-Rote Kreuz, Landesverband Wien, gelten per Gesetz als bewilligte
-Rettungsdienste und bewilligte Krankentransportdienste, darüber hinaus
-gibt es auch noch andere Anbieter behördlich anerkannte, wie z. B. das
-Grüne Kreuz oder der Sozialmedizinische Dienst (SMD).
+..
+    .. index::
+        single: Magistratsabteilung 70 (Wien)
+        single: MA 70
+        single: Berufsrettung (Wien)
+        single: Wiener Berufsrettung
 
-Das *Wiener Rettungs- und Krankentransportgesetz* (WRKG) regelt als
-Landesgesetz den Rettungs- und Krankentransportdienst in Wien.
+    Beispiel: Rettungswesen in Wien
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Zusammenarbeit der MA 70 und privater Organisationen
-""""""""""""""""""""""""""""""""""""""""""""""""""""
+    Die Stadt Wien ist für die Durchführung des Rettungsdienstes für das
+    Gemeindegebiet verantwortlich. Zur Erfüllung dieser Aufgabe betreibt sie
+    einerseits durch die
+    :dfn:`Magistratsabteilung 70`
+    (:dfn:`MA70`, *Wiener Berufsrettung*)
+    einen eigenen Rettungsdienst,
+    andererseits bedient sie sich auch der Tätigkeit anderer bewilligter
+    (privater) Rettungsdienste, welche in einem *Rettungsverbund*
+    organisiert sind.
 
-Die Stadt Wien ist gem. WRKG zur Sicherstelllung des Rettungsdienstes
-für das Gemeindegebiet verpflichtet. Sie kann zur Erfüllung dieser
-Aufgabe einen eigenen Rettungsdienst (öffentlicher Rettungsdienst)
-betreiben, sich aber auch der ausschließlichen oder teilweisen Tätigkeit
-bewilligter Rettungsdienste bedienen und einen Rettungsverbund
-organisieren.
+    Der Arbeiter-Samariter-Bund Österreichs, die Johanniter-Unfall-Hilfe in
+    Österreich, der Malteser Hospitaldienst Austria und das Österreichische
+    Rote Kreuz, Landesverband Wien, gelten per Gesetz als bewilligte
+    Rettungsdienste und bewilligte Krankentransportdienste, darüber hinaus
+    gibt es auch noch andere Anbieter behördlich anerkannte, wie z. B. das
+    Grüne Kreuz oder der Sozialmedizinische Dienst (SMD).
 
-.. index::
-    single: Vier für Wien
+    Das *Wiener Rettungs- und Krankentransportgesetz* (WRKG) regelt als
+    Landesgesetz den Rettungs- und Krankentransportdienst in Wien.
 
-Die "Vier für Wien"
-"""""""""""""""""""
+    Zusammenarbeit der MA 70 und privater Organisationen
+    """"""""""""""""""""""""""""""""""""""""""""""""""""
 
-Historisch gesehen unterstützen der *Malteser Hospitaldienst Austria*,
-der *Österreichische Arbeiter-Samariter-Bund*, die *Johanniter-
-Unfall-Hilfe, Bereich Wien* und das *Rote Kreuz* die Wiener
-Berufsrettung am längsten. Diese Organisationen werden im Zusammenhang
-mit dem Rettungswesen auch als die **Vier für Wien**
-tituliert. [#VierFuerWienKooperation]_ [KontrollamtWienKA-K-13-09]_
+    Die Stadt Wien ist gem. WRKG zur Sicherstelllung des Rettungsdienstes
+    für das Gemeindegebiet verpflichtet.
+    Sie kann zur Erfüllung dieser
+    Aufgabe einen eigenen Rettungsdienst (öffentlicher Rettungsdienst)
+    betreiben, sich aber auch der ausschließlichen oder teilweisen Tätigkeit
+    bewilligter Rettungsdienste bedienen und einen Rettungsverbund
+    organisieren.
 
-.. [#VierFuerWienKooperation]
-    Die Kooperation der Wiener Rettung mit privaten Rettungsdiensten ist
-    im Jahr 1977 auf Initiative des damaligen amtsführenden Stadtrates
-    für Gesundheits- und Spitalswesen mit dem Ziel entstanden, das
-    Rettungswesen in Wien neu zu strukturieren und zu regeln. Seit diesem
-    Zeitpunkt arbeiteten die Rettungsorganisationen auf der Basis
-    mündlicher Vereinbarungen zusammen. Ab dem Jahr 1995 erfolgt die
-    Kooperation auf der Basis schriftlicher Verträge zwischen der Wiener
-    Rettung und den jeweiligen privaten Organisationen. [KontrollamtWienKA-K-13-09]_
+    .. index::
+        single: Vier für Wien
 
-Die Wiener Rettung verpflichtet sich gegenüber den genannten privaten
-Organisationen, die erforderliche nachrichten- und EDV-technische
-Ausstattung der Fahrzeuge zur Verfügung zu stellen und zu warten. Diese
-Ausstattung bleibt Eigentum der Stadt Wien. [KontrollamtWienKA-K-13-09]_
+    Die "Vier für Wien"
+    """""""""""""""""""
 
-Im Gegenzug verpflichten sich die *Vier für Wien*, die von der MA70
-ausgestatteten Fahrzeuge entweder als NAW oder als RTW zur Verfügung zu
-halten und über Auftrag der Stadt Wien für Rettungseinsätze
-bereitzustellen. Auch die personelle Ausstattung dieser Einsatzmittel
-wird von den privaten Organisationen gestellt. [#Einsatzvergabe]_ [KontrollamtWienKA-K-13-09]_
+    Historisch gesehen unterstützen der *Malteser Hospitaldienst Austria*,
+    der *Österreichische Arbeiter-Samariter-Bund*, die *Johanniter-
+    Unfall-Hilfe, Bereich Wien* und das *Rote Kreuz* die Wiener
+    Berufsrettung am längsten. Diese Organisationen werden im Zusammenhang
+    mit dem Rettungswesen auch als die **Vier für Wien**
+    tituliert. [#VierFuerWienKooperation]_ [KontrollamtWienKA-K-13-09]_
 
-.. [#Einsatzvergabe]
-    Ferner enthalten die Verträge Bestimmungen über die Vergabe der
-    Einsätze. Diese erfolgt unter Wahrung der Verwendung des geeigneten
-    Rettungsmittels und der kürzesten Einsatzzeit. Sind die Fahrzeuge der
-    *Vier für Wien* nicht ausreichend ausgelastet, ist auf eine
-    gleichmäßige Vergabe der Einsätze an die privaten Organisationen
-    Bedacht zu nehmen; es besteht jedoch kein Rechtsanspruch auf die
-    Zuteilung bestimmter Rettungseinsätze bzw. eine Mindestanzahl von
-    Einsätzen. An dieser Stelle sei darauf hingewiesen, dass die Wiener
-    Rettung für diese Einsätze keine finanzielle Leistung erbringt. Die
-    privaten Organisationen bedienen sich allerdings für die Verrechnung
-    der für Rettungseinsätze anfallenden Gebühren der Magistratsabteilung
-    6 - Rechnungs- und Abgabenwesen. Die Verträge aus dem Jahr 1995
-    wurden im Jahr 2007 dahingehend ergänzt.
-    [KontrollamtWienKA-K-13-09]_
+    .. [#VierFuerWienKooperation]
+        Die Kooperation der Wiener Rettung mit privaten Rettungsdiensten ist
+        im Jahr 1977 auf Initiative des damaligen amtsführenden Stadtrates
+        für Gesundheits- und Spitalswesen mit dem Ziel entstanden, das
+        Rettungswesen in Wien neu zu strukturieren und zu regeln. Seit diesem
+        Zeitpunkt arbeiteten die Rettungsorganisationen auf der Basis
+        mündlicher Vereinbarungen zusammen. Ab dem Jahr 1995 erfolgt die
+        Kooperation auf der Basis schriftlicher Verträge zwischen der Wiener
+        Rettung und den jeweiligen privaten Organisationen. [KontrollamtWienKA-K-13-09]_
 
-Kooperation mit weiteren Rettungsdiensten
-"""""""""""""""""""""""""""""""""""""""""
+    Die Wiener Rettung verpflichtet sich gegenüber den genannten privaten
+    Organisationen, die erforderliche nachrichten- und EDV-technische
+    Ausstattung der Fahrzeuge zur Verfügung zu stellen und zu warten. Diese
+    Ausstattung bleibt Eigentum der Stadt Wien. [KontrollamtWienKA-K-13-09]_
 
-Infolge der kontinuierlich gestiegenen Zahl der zu bewältigenden
-Einsätze wurden im Laufe des Jahres 2008 nach Maßgabe entsprechender
-freier Einsatzmittel niedrig priorisierte Einsätze von der
-Rettungsleitstelle vermehrt an die *Vier für Wien* abgegeben, wodurch
-sich die MA70 in höherem Ausmaß auf jene Einsätze konzentrieren konnte
-bzw. kann, die als zeitkritisch bzw. höher priorisiert einzustufen waren
-bzw. sind. [KontrollamtWienKA-K-13-09]_
+    Im Gegenzug verpflichten sich die *Vier für Wien*, die von der MA70
+    ausgestatteten Fahrzeuge entweder als NAW oder als RTW zur Verfügung zu
+    halten und über Auftrag der Stadt Wien für Rettungseinsätze
+    bereitzustellen. Auch die personelle Ausstattung dieser Einsatzmittel
+    wird von den privaten Organisationen gestellt. [#Einsatzvergabe]_ [KontrollamtWienKA-K-13-09]_
 
-Im Herbst 2009 äußerten die *Vier für Wien* gegenüber der Wiener
-Rettung, dass Personalengpässe die Abwicklung der ihnen zugeteilten
-Einsätze zunehmend erschweren würde. Um die Versorgungssicherheit auch
-weiterhin zu gewährleisten, setzte sich die MA70 mit dem Verein *Grünes
-Kreuz* und der *SMD Rettungsdienst und Krankentransport GmbH* ins
-Einvernehmen. Als Ergebnis der Verhandlungen wurde mündlich vereinbart,
-dass diese beiden Organisationen seither ebenfalls vor allem niedrig
-priorisierte Einsätze übernehmen, falls die Kapazitäten der *Vier für
-Wien* erschöpft sind. [KontrollamtWienKA-K-13-09]_
+    .. [#Einsatzvergabe]
+        Ferner enthalten die Verträge Bestimmungen über die Vergabe der
+        Einsätze. Diese erfolgt unter Wahrung der Verwendung des geeigneten
+        Rettungsmittels und der kürzesten Einsatzzeit. Sind die Fahrzeuge der
+        *Vier für Wien* nicht ausreichend ausgelastet, ist auf eine
+        gleichmäßige Vergabe der Einsätze an die privaten Organisationen
+        Bedacht zu nehmen; es besteht jedoch kein Rechtsanspruch auf die
+        Zuteilung bestimmter Rettungseinsätze bzw. eine Mindestanzahl von
+        Einsätzen. An dieser Stelle sei darauf hingewiesen, dass die Wiener
+        Rettung für diese Einsätze keine finanzielle Leistung erbringt. Die
+        privaten Organisationen bedienen sich allerdings für die Verrechnung
+        der für Rettungseinsätze anfallenden Gebühren der Magistratsabteilung
+        6 - Rechnungs- und Abgabenwesen. Die Verträge aus dem Jahr 1995
+        wurden im Jahr 2007 dahingehend ergänzt.
+        [KontrollamtWienKA-K-13-09]_
 
-Bei der Kooperation der Wiener Rettung mit privaten
-Rettungsorganisationen handelte es sich nicht um einen Rettungsverbund,
-sondern um einen losen Zusammenschluss der Rettungsorganisationen in
-Wien. [KontrollamtWienKA-K-13-09]_
+    Kooperation mit weiteren Rettungsdiensten
+    """""""""""""""""""""""""""""""""""""""""
+
+    Infolge der kontinuierlich gestiegenen Zahl der zu bewältigenden
+    Einsätze wurden im Laufe des Jahres 2008 nach Maßgabe entsprechender
+    freier Einsatzmittel niedrig priorisierte Einsätze von der
+    Rettungsleitstelle vermehrt an die *Vier für Wien* abgegeben, wodurch
+    sich die MA70 in höherem Ausmaß auf jene Einsätze konzentrieren konnte
+    bzw. kann, die als zeitkritisch bzw. höher priorisiert einzustufen waren
+    bzw. sind. [KontrollamtWienKA-K-13-09]_
+
+    Im Herbst 2009 äußerten die *Vier für Wien* gegenüber der Wiener
+    Rettung, dass Personalengpässe die Abwicklung der ihnen zugeteilten
+    Einsätze zunehmend erschweren würde. Um die Versorgungssicherheit auch
+    weiterhin zu gewährleisten, setzte sich die MA70 mit dem Verein *Grünes
+    Kreuz* und der *SMD Rettungsdienst und Krankentransport GmbH* ins
+    Einvernehmen. Als Ergebnis der Verhandlungen wurde mündlich vereinbart,
+    dass diese beiden Organisationen seither ebenfalls vor allem niedrig
+    priorisierte Einsätze übernehmen, falls die Kapazitäten der *Vier für
+    Wien* erschöpft sind. [KontrollamtWienKA-K-13-09]_
+
+    Bei der Kooperation der Wiener Rettung mit privaten
+    Rettungsorganisationen handelte es sich nicht um einen Rettungsverbund,
+    sondern um einen losen Zusammenschluss der Rettungsorganisationen in
+    Wien. [KontrollamtWienKA-K-13-09]_
 
 
 

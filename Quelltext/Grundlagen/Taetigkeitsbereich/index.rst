@@ -1,4 +1,6 @@
 
+.. _Taetigkeitsbild:
+
 #####################################
 Tätigkeitsbild und Orientierung (#28)
 #####################################
@@ -20,7 +22,8 @@ Tätigkeitsbild und Orientierung (#28)
 
 .. Thema-: Topic
 
-   Ein Übersichtskapitel über das Umfeld und die Tätigkeiten in den Sanitätsberufen.
+    Ein Übersichtskapitel über das Umfeld und die Tätigkeiten in den Sanitätsberufen.
+    Sofern nicht anders angegeben bezieht sich dieser Abschnitt auf die rechtlichen und organisatorischen Rahmenbedingungen in Österreich.
 
 .. sectionauthor:: Sebastian Gabriel
 
@@ -36,7 +39,7 @@ Sanitäter
 Sanitäter in der Theorie
 ------------------------
 
-Der Beruf bzw. die Tätigkeit des Sanitäters wurde 2002 durch das neue
+Der Beruf bzw. die Tätigkeit des Sanitäters wurde 2002 durch das
 *Sanitätergesetz* (SanG) neu geregelt. Demnach unterteilt man in
 *Rettungssanitäter* oder *Notfallsanitäter*. Der Beruf bzw. die
 Tätigkeiten des Sanitäters dürfen nur nach Maßgabe des Sanitätergesetzes
@@ -169,13 +172,13 @@ Berufsfeld der Gesundheitsberufe "hineinpasst". Die Berufsgruppen der
 Ärzte, Hebammen, Pflegepersonal usw. gibt es schon seit Jahrzehnten oder
 gar Jahrhunderten und es blieb genug Zeit für Streitigkeiten bezüglich
 der jeweiligen Kompetenz und der Abgrenzung der Tätigkeitsfelder. Des
-öfteren hat der Gesetzgeber Regelungen aufgestellt und die Gerichte
+öfteren hat der Gesetzgeber Regelungen aufgestellt und die Gerichte haben
 Orientierungspunkte gegeben; darüber hinaus wurden durch die ständige
 Arbeit miteinander Realitäten "geschaffen". In manchen Punkten ist aber
 auch heutzutage einiges unklar, oder einem stetigen Wandel unterworfen.
 
-Sanitätergesetz 2002
-^^^^^^^^^^^^^^^^^^^^
+Sanitätergesetz 2002 (Österreich)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Mit der Schaffung des Sanitätergesetzes im Jahr 2002 wollte man die
 Tätigkeit der Sanitäter endlich klar regeln und Rechtssicherheit
@@ -189,18 +192,16 @@ Sanitäter widmen.
 Das Miteinander
 ^^^^^^^^^^^^^^^
 
-Es scheint ein Naturgesetz zu sein dass, sobald zwei oder mehr
+Es scheint ein Naturgesetz zu sein, dass, sobald zwei oder mehr
 Berufsgruppen aufeinander treffen, es zu Streitigkeiten bezüglich der
 jeweiligen Kompetenzen, Rechte und Befugnisse kommt. Auf der Strecke
-bleibt oft das Potential welches entwickelt werden könnte, würden die
-Berufsgruppen konstruktiv und zielgerichtet zusammenarbeiten. In diesem
-Sinne sind die auf ein interdisziplinäres Miteinander der Berufsgruppen
-ausgerichtet.
+bleibt oft das Potential, welches entwickelt werden könnte, würden die
+Berufsgruppen konstruktiv und zielgerichtet zusammenarbeiten.
 
 Der Sanitäter – heute
 ^^^^^^^^^^^^^^^^^^^^^
 
-Das Aufgabengebiet des Sanitäter von heute wird immer mehr um
+Das Aufgabengebiet des Sanitäters von heute wird immer mehr um
 Tätigkeiten erweitert, die medizinisch-wissenschaftliche Kenntnisse
 voraussetzen und noch vor einiger Zeit nur den Ärzten oder anderen
 Berufsgruppen vorbehalten waren (z. B. Medikamentengabe).
@@ -234,7 +235,7 @@ unterlassen dürfen.
 
 .. [#9]
    Paramedics sind gutausgebildete Sanitäter im englischsprachigen Raum,
-   welche in nicht-Notarzt-basierten Systemen eingesetzt werden, d.h.
+   welche in nicht-Notarzt-basierten Systemen eingesetzt werden, d. h.
    sie haben in diesen Ländern das Personal mit der höchsten
    medizinischen Ausbildung, welches im präklinischen Regelbetrieb
    eingesetzt wird.
@@ -287,6 +288,18 @@ Querverweise
 Theoretische Anforderungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. only:: not nosidebar
+
+    .. sidebar:: Anforderungen
+
+        -   Körperliche und psychische Belastbarkeit
+        -   rasches Auffassungs- und Reaktionsvermögen
+        -   Einfühlungsvermögen
+        -   Beobachtungsgabe
+        -   Kommunikations- und Teamfähigkeit
+        -   Zuverlässigkeit
+        -   Verantwortungsbewusstsein
+
 Die Tätigkeit im medizinischen Bereich geht aufgrund der Komplexität der
 Aufgaben mit einer Fülle von körperlichen, wissensmäßigen und
 psychischen Anforderungen einher. Einen nur kargen Hinweis darüber,
@@ -302,17 +315,6 @@ Anforderungsprofil des Arbeitsmarktservice (AMS):
 -  Verantwortungsbewusstsein
 
 
-.. only:: not nosidebar
-
-    .. sidebar:: Anforderungen
-
-        -  Körperliche und psychische Belastbarkeit
-        -  rasches Auffassungs- und Reaktionsvermögen
-        -  Einfühlungsvermögen
-        -  Beobachtungsgabe
-        -  Kommunikations- und Teamfähigkeit
-        -  Zuverlässigkeit
-        -  Verantwortungsbewusstsein
 
 
 .. _thema-taetigkeitsbild-sanitaeter-belastung:
@@ -335,8 +337,9 @@ Anforderungen und Belastungen in der Praxis
         -   Teamfähigkeit
         -   *körperliche* und *psychische* Belastungsfähigkeit
 
-            -  Der (richtige) Umgang mit Frustration ist wesentlich,
-                um im Rettungs- und Krankentransportdienst auf Dauer "zu überleben".
+        Der (richtige) Umgang mit Frustration ist wesentlich,
+        um im Rettungs- und Krankentransportdienst auf Dauer
+        "zu überleben".
 
 Es versteht sich von selbst, dass die professionelle Versorgung
 erkrankter bzw. verunfallter Menschen solides *medizinisches Wissen*
@@ -346,11 +349,12 @@ umzusetzen zu können.
 
 Dringliche Versorgungssituationen bzw. Notfälle, in denen jede zeitliche
 Verzögerung zulasten des Patienten fallen könnten, machen ein *schnelles
-Einschätzen der Lage* so wie die Bereitschaft *Verantwortung zu
-übernehmen* notwendig. Da es sich stets um eine Interaktion zwischen
+Einschätzen der Lage* so wie die Bereitschaft, *Verantwortung zu
+übernehmen*, notwendig.
+Da es sich stets um eine Interaktion zwischen
 zwei Personen – nämlich Versorgendem und zu Versorgenden – handelt,
-gelten zwischenmenschliche Fähigkeiten wie höfliche Umgangsformen,
-*Kommunikationsfähigkeit* sowie *Einfühlungsvermögen* als
+gelten zwischenmenschliche Fähigkeiten, wie höfliche Umgangsformen,
+*Kommunikationsfähigkeit* sowie *Einfühlungsvermögen*, als
 Grundvoraussetzung.
 
 Erkrankung bzw. Unfall stellen für die Betroffenen in häufigen Fällen
@@ -374,7 +378,7 @@ Rettungssanitäters umfasst diverse Aufgaben, die mit körperlichem
 Einsatz und dementsprechender Anstrengung verbunden sind.
 
 Zu guter Letzt und im besonderen sei auf die Bedeutung *psychischer
-Belastbarkeit* hingewiesen, v.a. in Hinblick auf den Umgang mit
+Belastbarkeit* hingewiesen, v. a. in Hinblick auf den Umgang mit
 psychischem Stress: Sanitätsdienst zu leisten, bedeutet tägliche
 *Konfrontation* mit dem persönlichen Leid von Mitmenschen, des weiteren
 die *Verantwortlichkeit* – ggfs. auch noch unter Zeitdruck – darauf
@@ -614,15 +618,15 @@ unmittelbar am Menschen oder mittelbar für den Menschen ausgeführt
 wird. [#12]_
 
 .. [#12]
-   Die Ausübung der Medizin umfasst insbesonders die Untersuchung auf
-   das Vorliegen oder Nichtvorliegen von körperlichen und psychischen
-   Krankheiten oder Störungen, die Beurteilung von diesen Zuständen bei
-   Verwendung medizinisch-diagnostischer Hilfsmittel sowie deren
-   Behandlung; die Vornahme operativer Eingriffe einschließlich der
-   Entnahme oder Infusion von Blut; die Vorbeugung von Erkrankungen; die
-   Geburtshilfe; die Verordnung von Heilmitteln, sowie die Vornahme von
-   Leichenöffnungen. Ferner ist der Arzt befugt, ärztliche Zeugnisse
-   auszustellen und ärztliche Gutachten zu erstatten.
+    Die Ausübung der Medizin umfasst insbesonders die Untersuchung auf
+    das Vorliegen oder Nichtvorliegen von körperlichen und psychischen
+    Krankheiten oder Störungen, die Beurteilung von diesen Zuständen bei
+    Verwendung medizinisch-diagnostischer Hilfsmittel sowie deren
+    Behandlung; die Vornahme operativer Eingriffe einschließlich der
+    Entnahme oder Infusion von Blut; die Vorbeugung von Erkrankungen; die
+    Geburtshilfe; die Verordnung von Heilmitteln, sowie die Vornahme von
+    Leichenöffnungen. Ferner ist der Arzt befugt, ärztliche Zeugnisse
+    auszustellen und ärztliche Gutachten zu erstatten.
 
 Ausbildung
 ==========
@@ -630,6 +634,8 @@ Ausbildung
 Die ärztliche Ausbildung gründet sich auf einem abgeschlossenes
 Universitätsstudium, der weitere Ausbildungsweg ist jedoch international
 sehr unterschiedlich.
+
+
 
 .. index::
     single: Arzt; approbierter
@@ -641,29 +647,19 @@ sehr unterschiedlich.
 Situation in Österreich
 -----------------------
 
-Allgemeines
-^^^^^^^^^^^
-
 Der ärztliche Beruf wird durch das *Ärztegesetz* (*ÄrzteG*) geregelt.
 Die selbstständige Ausübung des ärztlichen Berufes ist ausschließlich
 Ärzten für Allgemeinmedizin,
-*approbierten* :index:`\ <Arzt!approbierter>` Ärzten sowie *Fachärzten*
-:index:`\ <Facharzt>` vorbehalten (*Arztvorbehalt*, von diesem
+*approbierten* :index:`\ <Arzt!approbierter>` Ärzten
+sowie *Fachärzten* :index:`\ <Facharzt>` vorbehalten
+(*Arztvorbehalt*, von diesem
 Vorbehalt gibt es für andere medizinische Berufsgruppen entsprechende
-Ausnahmeregelungen in den jeweiligen Berufsgesetzen). [#13]_
+Ausnahmeregelungen in den jeweiligen Berufsgesetzen).
 
 Interessensvertretung und Aufsichtsbehörde für alle Ärzte ist die
 *Österreichische Ärztekammer* bzw. die jeweils zuständigen
 Landesärztekammern.
 
-
-.. [#13]
-   Die in Ausbildung zum Arzt für Allgemeinmedizin oder zum Facharzt
-   befindlichen Ärzte (*Turnusärzte)* :index:`\ <Turnusarzt>` sind
-   lediglich zur unselbstständigen Ausübung in als Ausbildungsstätten
-   anerkannten Einrichtungen, im Rahmen von Lehrpraxen bzw.
-   Lehrgruppenpraxen oder in Lehrambulatorien unter Anleitung und
-   Aufsicht der ausbildenden Ärzte berechtigt.
 
 
 .. index::
@@ -671,33 +667,31 @@ Landesärztekammern.
     single: Jus practicandi
     single: Arzt für Allgemeinmedizin
     single: Facharzt
-
+    single: Allgemeinmedizin; Arzt für
 
 Ausbildung und Jus practicandi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In Österreich dauert das Studium der Humanmedizin je nach Universität
-und Curriculum -- Jahre. Im Anschluss an das Studium
+und Curriculum 5—6 Jahre. Im Anschluss an das Studium
 verfügen die Absolventen *nicht* über das Recht zur Berufsausübung, sie
 sind auch nach dem Studium noch nicht als Ärzte, sondern als Mediziner
 zu bezeichnen.
 
-Nach Abschluss des Studiums wird ein Ausbildungsverhältnis angetreten,
-es erfolgt die Aufnahme in die *Ärzteliste*, welche von der
-Österreichischen Ärztekammer geführt wird. Der Arzt in Ausbildung darf
-nun an einer anerkannten Ausbildungseinrichtungen unter Aufsicht
-ärztlich tätig werden. Dies kann entweder im Rahmen eines
-Ausbildungsverhältnisses zum Arzt für Allgemeinmedizin, welches
-mindestens drei Jahre dauert, erfolgen oder in Ausbildung zu einem
-Facharzt, diese Ausbildungszeit beträgt je nach Fach 5—6
-Jahre. Die Ausbildung zum Facharzt kann grundsätzlich gleich nach dem
-Studium beginnen, bzw. auch erst nach der Absolvierung der Ausbildung
-zum Arzt für Allgemeinmedizin begonnen werden. Während der
-Ausbildungszeit durchläuft der Auszubildende im Turnus-System diverse
-Fachabteilungen, welche in der jeweiligen Ausbildungsordnung vorgegeben
-sind (daher die Bezeichnung **Turnusarzt**). Die
-Turnus-Ausbildung zum Arzt für Allgemeinmedizin dauert 3 Jahre bzw. zum
-Facharzt je nach Fachgebiet 5—6 Jahre.
+Nach Abschluss des Studiums wird ein Ausbildungsverhältnis angetreten
+und es erfolgt die Aufnahme in die *Ärzteliste* der Österreichischen Ärztekammer.
+Der Arzt in Ausbildung darf dabei
+nur an einer anerkannten Ausbildungseinrichtungen unter Aufsicht
+ärztlich tätig werden.
+
+Die Ausbildung gliedert sich in eine Basisausbildung, gefolgt von der Ausbildung zum Arzt für Allgemeinmedizin oder als Facharzt ind einem Sonderfach. Die Dauer ist abhängig von der jeweiligen Fachrichtung und beträgt ca. 5—6 Jahre. [#Turnusarzt]_
+
+.. [#Turnusarzt]
+    Früher war die Ausbildung zum Arzt für Allgemeinmedizin anders gegliedert.
+    Sie dauerte drei Jahre,
+    in dieser Zeit durchlief der Auszubildende im Turnus-System diverse
+    Fachabteilungen,
+    daher rührt die Bezeichnung **Turnusarzt**.
 
 Ein Arzt für Allgemeinmedizin verfügt über ein so genanntes
 uneingeschränktes :dfn:`Jus practicandi` (Recht zu
@@ -705,11 +699,7 @@ praktizieren). Ein Facharzt verfügt ebenfalls über ein Jus practicandi,
 welches jedoch auf Tätigkeiten in seinem Fachgebiet beschränkt ist, es
 sei denn, der betreffende Facharzt hat auch die Ausbildung zum Arzt für
 Allgemeinmedizin absolviert. Gegenwärtig gibt es in Österreich über 40
-Fachgebiete für die man sich qualifizieren kann.
-
-Die Ausbildungsordnungen, sowohl für den Arzt für Allgemeinmedizin, als
-auch für Fachärzte, befinden sich derzeit in Überarbeitung und werden
-sich in naher Zukunft deutlich ändern.
+Sonderfächer für die man sich qualifizieren kann.
 
 
 
@@ -724,21 +714,25 @@ Der Arzt im Rettungs- und Krankentransportdienst
 
 Das ÄrzteG sieht hierfür zwei Ausbildungen vor:
 
--  :dfn:`Notarzt`: Die Ausbildung zum Notarzt setzt die
-   Absolvierung eines 60-stündigen, von der österreichische Ärztekammer
-   anerkannten und mit einer Prüfung abschließenden Diplomkurs voraus.
-   Zum Erhalt der Tätigkeitsberechtigung ist eine regelmäßige
-   Rezertifizierung (Notarzt-Refresher-Kurs) notwendig.
+-   :dfn:`Notarzt`: Die Ausbildung zum Notarzt setzt die
+    Absolvierung eines,
+    von der österreichische Ärztekammer
+    anerkannten und mit einer Prüfung abschließenden,
+    Diplomkurses voraus.
+    Zum Erhalt der Tätigkeitsberechtigung ist eine regelmäßige
+    Rezertifizierung (Notarzt-Refresher-Kurs) notwendig.
 
--  :dfn:`Leitender Notarzt`: Leitende Funktion, insbesonders
-   im Großschadensfall. Die Ausbildung zum Leitenden Notarzt setzt eine
-   entsprechende Berufserfahrung als Notarzt sowie die Absolvierung
-   eines entsprechenden Kurs voraus.
+-   :dfn:`Leitender Notarzt`: Leitende Funktion, insbesonders
+    im Großschadensfall. Die Ausbildung zum Leitenden Notarzt setzt eine
+    entsprechende Berufserfahrung als Notarzt sowie die Absolvierung
+    eines entsprechenden Kurs voraus.
 
 
 
 .. index::
     single: Hebamme
+    single: Gesetz; Hebammen-
+    single: HebG
 
 ********
 Hebammen
@@ -752,7 +746,7 @@ gebärende Mütter und ist zur Leitung von Geburten berechtigt. Sie ist
 zur Durchführung von relevanten medizinischen Maßnahmen, darunter fallen
 auch Blutabnahmen, das Setzen von peripheren Venenverweilkanülen, die
 Gabe von bestimmten Medikamenten, sowie einschlägige chirurgische
-Eingriffe (Versorgung eines Dammriss, …) berechtigt. Die Ausbildung zur
+Eingriffe (Versorgung eines Dammriss, …), berechtigt. Die Ausbildung zur
 Hebamme erfolgt in einer entsprechenden Fachschule, neuerdings erfolgt
 die Ausbildung auch in Fachhochschulen. Die Bezeichnung Hebamme gilt für
 weibliche und männliche Berufsangehörige. Die gesetzliche Grundlage
@@ -766,19 +760,37 @@ bietet das *Hebammengesetz* (*HebG*).
     single: DGKP
     single: DGKKS
     single: DKKP
+    single: Pflege; Gesundheits- und Kranken-
+    single: GuKG
+    single: Gesetz; Gesundheits- und Krankenpflege-
+    single: Gesundheits- und Krankenpflege
 
 
 **********************************************
+Gesundheits- und Krankenpflege
+**********************************************
+
+
+Die Gesundheits- und Krankenpflegeberufe sind im Gesundheits- und Krankenpflegegesetz (GuKG) geregelt. Dazu gehören:
+
+-   der gehobene Dienst für Gesundheits- und Krankenpflege,
+-   die Pflegefachassistenz und
+-   die Pflegeassistenz.
+
 Gehobener Gesundheits- und Krankenpflegedienst
-**********************************************
+================================================
 
-Zum gehobenen Gesundheits- und Krankenpflegedienst gehören die
-diplomierten Gesundheits- und Krankenschwestern und -pfleger (*DGKS*,
-*DGKP*), die diplomierten Kinderkrankenschwestern und -pfleger (*DGKKS*,
-*DGKKP*), sowie die diplomierten psychiatrischen Gesundheits- und
-Krankenschwestern und -pfleger. Die Ausbildung erfolgt an Fachschulen,
-aktuell wird die Ausbildung auch im Rahmen eines Fachhochschulstudiums
-angeboten. Der Tätigkeitsbereich des gehobenen Gesundheits- und
+Der gehobene Gesundheits- und Krankenpflegedienst besteht aus den
+Diplomierten Gesundheits- und Krankenpflegern bzw. Diplomierten Gesundheits- und Krankenpflegerinnen (*DGKP*).
+Die Ausbildung erfolgte früher an Fachschulen,
+aktuell wird die Ausbildung zunehmend im Rahmen eines Fachhochschulstudiums
+absolviert.
+Darüber hinaus ist eine Spezialisierung möglich
+(z. B. Kinder- und Jugendlichenpflege,
+Psychiatrische Gesundheits- und Krankenpflege,
+Intensiv-, Anästhesiepflege ...).
+
+Der Tätigkeitsbereich des gehobenen Gesundheits- und
 Krankenpflegedienstes beinhaltet einen *eigenverantwortlichen*
 Tätigkeitsbereich, welcher insbesonders die Pflege von von Patienten
 vorsieht, sowie einen *mitverantwortlichen* Tätigkeitsbereich, welcher
@@ -786,7 +798,9 @@ die Durchführung von einfachen ärztlichen Tätigkeiten (Blutentnahme,
 Verabreichung von Infusionen und Medikamenten, …) vorsieht. Für
 spezielle Tätigkeitsbereiche gibt es entsprechende Sonderausbildungen
 (Kinder- und Jugendlichenpflege, psychiatrische Pflege, Intensivpflege,
-Anästhesiepflege, Pflege im Operationsbereich, …). Der
+Anästhesiepflege, Pflege im Operationsbereich, …).
+
+Der
 *interdisziplinäre* Tätigkeitsbereich umfasst jene Bereiche, die sowohl
 die Gesundheits- und Krankenpflege als auch andere Berufe des
 Gesundheitswesens betreffen. Dabei haben Angehörige des gehobenen
@@ -794,3 +808,17 @@ Dienstes für Gesundheits- und Krankenpflege das Vorschlags- und
 Mitentscheidungsrecht und tragen die Durchführungsverantwortung für alle
 von ihnen in diesen Bereichen gesetzten pflegerischen Maßnahmen.
 
+.. index::
+    single: Pflegeassistenz
+    single: Pflegefachassistenz
+
+Pflegeassistenzberufe
+============================
+
+Pflegeassistenzberufe sind
+die *Pflegeassistenz* und
+die *Pflegefachassistenz*.
+
+Ihre Aufgabe ist die Unterstützung von Angehörigen des gehobenen Dienstes für Gesundheits- und Krankenpflege sowie von Ärzten.
+Sie umfassen die Durchführung der ihnen nach Beurteilung durch Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege im Rahmen des Pflegeprozesses übertragenen Aufgaben und Tätigkeiten in verschiedenen Pflege- und Behandlungssituationen bei Menschen aller Altersstufen in mobilen, ambulanten, teilstationären und stationären Versorgungsformen sowie auf allen Versorgungsstufen.
+Im Rahmen der medizinischen Diagnostik und Therapie führen Pflegeassistenzberufe die ihnen von Ärzten übertragenen oder von Angehörigen des gehobenen Dienstes für Gesundheits- und Krankenpflege weiterübertragenen Maßnahmen durch.

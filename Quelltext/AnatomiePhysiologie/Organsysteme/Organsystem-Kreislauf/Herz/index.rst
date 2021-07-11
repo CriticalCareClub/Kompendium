@@ -579,7 +579,7 @@ Bei einem *Ausfall* eines Knotens, bzw. bei Unterbrechung der
 Erregungsleitung (z. B. durch Gewebeschädigung nach einem Herzinfarkt),
 kann die jeweils *nachfolgende Station als Impulsgeber übernehmen* –
 allerdings mit deutlich langsamerer Frequenz,
-d.h. jede der Stationen ist zur eigenständigen Erregungsbildung
+d. h. jede der Stationen ist zur eigenständigen Erregungsbildung
 fähig, sofern ihr nicht die übergeordnete Station zuvor kommt.
 Im Extremfall, wenn
 das gesamte Leitungssystem ausfällt, können auch die Herzmuskelzellen

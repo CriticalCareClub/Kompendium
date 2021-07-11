@@ -10,7 +10,15 @@ Konventionelle endotracheale Intubation (oral)
 .. toctree::
     :maxdepth: 2
 
+.. todo:: `#101 neu: Rapid Sequence Induction <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/101>`_
 
+    In Verbindung mit #22 (Airway) und #100 (Konventionelle endotracheale Intubation (oral))
+
+
+.. todo:: `#100 Konventionelle endotracheale Intubation (oral): Diagramme und neue Nummerierung <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/100>`_
+
+    #22 ``/AirwayBreathing/Airway/ErweiterteMassnahmen/EndotrachealeIntubationKoventionellOral/``
+    Ablauf mit Hilde von Diagramm (actdiag) neu strukturieren und klar nummerieren.
 
 Bei der :dfn:`endotrachealen Intubation` (:dfn:`ETI`) wird ein
 Beatmungsschlauch (*Tubus*) über den Mund (seltener über die Nase) durch
@@ -53,6 +61,9 @@ Material
         Steckverbindungen!
 
         .. figure:: /Bilder/PallingerChristoph-Ccc/Testlunge_32902-AASS-0112mm.*
+            :width: 100%
+
+            Laryngoskop
 
 #.  (Endotracheal-)Tubus; verschiedene Größen
 #.  Führungsdraht (*Mandrin*)
@@ -136,116 +147,353 @@ Intubation
 
 Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 
+
+..
+    .. raw:: latex
+
+        \begin{ParWide}
+
+    .. table::
+        :class: longtable
+        :widths: 10 40 40
+
+
+
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | #      | **Assistenz**                                                                 | **Durchführender**                                    |
+        +========+===============================================================================+=======================================================+
+        |        | **Narkoseeinleitung**                                                                                                                 |
+        | **1**  |                                                                                                                                       |
+        |        | Von jetzt an besteht ein sehr hohes Risiko                                                                                            |
+        |        | dass es zu Erbrechen                                                                                                                  |
+        |        | kommen kann,                                                                                                                          |
+        |        | ggfs. muss sofort abgesaugt werden!                                                                                                   |
+        |        |                                                                                                                                       |
+        |        | Der Wirkeintritt der Medikamente wird abgewartet.                                                                                     |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | 1.a    | **Injektion** der Medikamente                                                 | Achten auf Wirkung der Medikamente und Zeit           |
+        |        | in der festgelegten Reihenfolge und Dosierung                                 |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **2**  | **Abwarten** des Wirkeintritts der Medikamente                                                                                        |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **3**  |                                                                               | Anweisung *"Beginn Intubation"*                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **4**  | **Laryngoskop zureichen**: in die *linke (!)* Hand [#317]_                    |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **5**  |                                                                               | Laryngoskop von rechts kommend langsam                |
+        |        |                                                                               | und *unter Sicht* einführen,                          |
+        |        |                                                                               | dabei die Zunge nach links verdrängen.                |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | 5.a    |                                                                               | Zielstruktur (Epiglottis) identifizieren.             |
+        |        |                                                                               |                                                       |
+        |        |                                                                               |                                                       |
+        |        |                                                                               | Evtl. **Krikoiddruck**:                               |
+        |        |                                                                               | Anweisung *"Kehlkopfdruck"* ("Krikoiddruck")          |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | 5.b    | Auf Anweisung: Krikoiddruck durchführen                                       |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | 5.c    |                                                                               | Gebogener Spatel:                                     |
+        |        |                                                                               | Spatelspitze in der Vallecula epiglottica             |
+        |        |                                                                               | positionieren.                                        |
+        |        |                                                                               |                                                       |
+        |        |                                                                               | Gerader Spatel:                                       |
+        |        |                                                                               | Epiglottis aufladen                                   |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | 5.d    |                                                                               | Stimmbänder visualisieren:                            |
+        |        |                                                                               | Zug in Achsenrichtung des Handgriffs                  |
+        |        |                                                                               | um den Mundboden anzuheben,                           |
+        |        |                                                                               | die Epiglottis öffnet passiv.                         |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **6**  | **Tubus zureichen**: in die *rechte (!)* Hand                                 |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **7**  | Auf Anweisung absaugen                                                        |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **8**  |                                                                               | **Einführen des Tubus**                               |
+        |        |                                                                               | bis die zwischen die Stimmbänder durchdringt          |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **9**  |                                                                               | Anweisung: **"Führungsdraht entfernen!"**             |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **10** | Wenn die Tubusspitze durch die Stimmritzen durchgetreten ist                  |                                                       |
+        |        | muss der Mandrin entfernt werden um Verletzungen zu vermeiden.                |                                                       |
+        |        |                                                                               |                                                       |
+        |        | Der **Führungsdraht wird herausgezogen**,                                     |                                                       |
+        |        | dabei am Tubus-Konus Gegenhalten um ein Verrutschen des Tubus zu verhindern,  |                                                       |
+        |        | da dieser ragt nur knapp in die Luftröhre hinein!                             |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **11** |                                                                               |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **12** |                                                                               | Tubus bis zur **bis zu endgültigen Tiefe einführen**  |
+        |        |                                                                               | und vorübergehend **manuell fixieren**                |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **13** |                                                                               | Anweisung **"Cuffen"**                                |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **14** | **Cuffen**: Cuff mit luftgefüllter Spritze Cuff aufblasen                     |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **15** | *Stethoskop* dem Durchführenden in die Ohren klemmen                          |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **16** | Beatmungsmaske vom Beatmungsbeutel trennen                                    |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **17** | *Beatmungsbeutel* an Tubus anschließen und halten                             |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **18** | Auf Anweisung Atemhub verabreichen lassen                                     | *Lagekontrolle* mittels Auskulatation:                |
+        |        | (mind. 3 Atemhübe in Summe)                                                   |                                                       |
+        |        |                                                                               |                                                       |
+        |        |                                                                               | - Magengegend und                                     |
+        |        |                                                                               |                                                       |
+        |        |                                                                               | - beide Lungenflügel auskultieren,                    |
+        |        |                                                                               |                                                       |
+        |        |                                                                               | dabei jeweils Anweisung *"Atemhub"*                   |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **19** |                                                                               | Beatmungsbeutel übernehmen                            |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **20** | Einführen des **Beißkeils** oder des Guedel-Tubus                             |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        | **21** | **Fixierung** des Tubus und des Beißschutzes mittels                          |                                                       |
+        |        | Mullbinde,                                                                    |                                                       |
+        |        | Klebestreifen                                                                 |                                                       |
+        |        | oder speziellen Fixationsmaterialien                                          |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+        |        | Ggfs. Beatmungsgerät einstellen und anschließen                               |                                                       |
+        +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+
+    .. raw:: latex
+
+        \end{ParWide}
+
+
+Narkoseeinleitung
+----------------------
+
+1.  **Narkoseeinleitung**
+
+    Von jetzt an besteht ein sehr hohes Risiko
+    dass es zu Erbrechen
+    kommen kann,
+    ggfs. muss sofort abgesaugt werden!
+
+    Der Wirkeintritt der Medikamente wird abgewartet.
+
+    a.  **Injektion** der Medikamente
+        in der festgelegten Reihenfolge und Dosierung
+
+    Achten auf Wirkung der Medikamente und Zeit
+
+2.  **Abwarten** des Wirkeintritts der Medikamente
+
+
 .. raw:: latex
 
     \begin{ParWide}
 
-.. table::
-    :class: longtable
-    :widths: 10 40 40
+.. actdiag::
+    :caption: Ablauf einer endotrachealen Intubation
 
+    actdiag {
+    node_width = 170;
+    span_width = 100;
+    span_height = 20;
+    default_fontsize = 12;
+    default_node_color = lightyellow;
+    default_group_color = lightgreen;
+    default_linecolor = darkblue;
+    default_textcolor = darkblue;
 
+    lane Assistenz {
 
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | #      | **Assistenz**                                                                 | **Durchführender**                                    |
-    +========+===============================================================================+=======================================================+
-    |        | **Narkoseeinleitung**                                                                                                                 |
-    | **1**  |                                                                                                                                       |
-    |        | Von jetzt an besteht ein sehr hohes Risiko                                                                                            |
-    |        | dass es zu Erbrechen                                                                                                                  |
-    |        | kommen kann,                                                                                                                          |
-    |        | ggfs. muss sofort abgesaugt werden!                                                                                                   |
-    |        |                                                                                                                                       |
-    |        | Der Wirkeintritt der Medikamente wird abgewartet.                                                                                     |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | 1.a    | **Injektion** der Medikamente                                                 | Achten auf Wirkung der Medikamente und Zeit           |
-    |        | in der festgelegten Reihenfolge und Dosierung                                 |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **2**  | **Abwarten** des Wirkeintritts der Medikamente                                                                                        |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **3**  |                                                                               | Anweisung *"Beginn Intubation"*                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **4**  | **Laryngoskop zureichen**: in die *linke (!)* Hand [#317]_                    |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **5**  |                                                                               | Laryngoskop von rechts kommend langsam                |
-    |        |                                                                               | und *unter Sicht* einführen,                          |
-    |        |                                                                               | dabei die Zunge nach links verdrängen.                |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | 5.a    |                                                                               | Zielstruktur (Epiglottis) identifizieren.             |
-    |        |                                                                               |                                                       |
-    |        |                                                                               |                                                       |
-    |        |                                                                               | Evtl. **Krikoiddruck**:                               |
-    |        |                                                                               | Anweisung *"Kehlkopfdruck"* ("Krikoiddruck")          |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | 5.b    | Auf Anweisung: Krikoiddruck durchführen                                       |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | 5.c    |                                                                               | Gebogener Spatel:                                     |
-    |        |                                                                               | Spatelspitze in der Vallecula epiglottica             |
-    |        |                                                                               | positionieren.                                        |
-    |        |                                                                               |                                                       |
-    |        |                                                                               | Gerader Spatel:                                       |
-    |        |                                                                               | Epiglottis aufladen                                   |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | 5.d    |                                                                               | Stimmbänder visualisieren:                            |
-    |        |                                                                               | Zug in Achsenrichtung des Handgriffs                  |
-    |        |                                                                               | um den Mundboden anzuheben,                           |
-    |        |                                                                               | die Epiglottis öffnet passiv.                         |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **6**  | **Tubus zureichen**: in die *rechte (!)* Hand                                 |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **7**  | Auf Anweisung absaugen                                                        |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **8**  |                                                                               | **Einführen des Tubus**                               |
-    |        |                                                                               | bis die zwischen die Stimmbänder durchdringt          |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **9**  |                                                                               | Anweisung: **"Führungsdraht entfernen!"**             |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **10** | Wenn die Tubusspitze durch die Stimmritzen durchgetreten ist                  |                                                       |
-    |        | muss der Mandrin entfernt werden um Verletzungen zu vermeiden.                |                                                       |
-    |        |                                                                               |                                                       |
-    |        | Der **Führungsdraht wird herausgezogen**,                                     |                                                       |
-    |        | dabei am Tubus-Konus Gegenhalten um ein Verrutschen des Tubus zu verhindern,  |                                                       |
-    |        | da dieser ragt nur knapp in die Luftröhre hinein!                             |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **11** |                                                                               |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **12** |                                                                               | Tubus bis zur **bis zu endgültigen Tiefe einführen**  |
-    |        |                                                                               | und vorübergehend **manuell fixieren**                |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **13** |                                                                               | Anweisung **"Cuffen"**                                |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **14** | **Cuffen**: Cuff mit luftgefüllter Spritze Cuff aufblasen                     |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **15** | *Stethoskop* dem Durchführenden in die Ohren klemmen                          |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **16** | Beatmungsmaske vom Beatmungsbeutel trennen                                    |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **17** | *Beatmungsbeutel* an Tubus anschließen und halten                             |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **18** | Auf Anweisung Atemhub verabreichen lassen                                     | *Lagekontrolle* mittels Auskulatation:                |
-    |        | (mind. 3 Atemhübe in Summe)                                                   |                                                       |
-    |        |                                                                               |                                                       |
-    |        |                                                                               | - Magengegend und                                     |
-    |        |                                                                               |                                                       |
-    |        |                                                                               | - beide Lungenflügel auskultieren,                    |
-    |        |                                                                               |                                                       |
-    |        |                                                                               | dabei jeweils Anweisung *"Atemhub"*                   |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **19** |                                                                               | Beatmungsbeutel übernehmen                            |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **20** | Einführen des **Beißkeils** oder des Guedel-Tubus                             |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    | **21** | **Fixierung** des Tubus und des Beißschutzes mittels                          |                                                       |
-    |        | Mullbinde,                                                                    |                                                       |
-    |        | Klebestreifen                                                                 |                                                       |
-    |        | oder speziellen Fixationsmaterialien                                          |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
-    |        | Ggfs. Beatmungsgerät einstellen und anschließen                               |                                                       |
-    +--------+-------------------------------------------------------------------------------+-------------------------------------------------------+
+    NarkEinA [label=Narkoseeinleitung, numbered=1];
+    }
+
+    lane Durchführender {
+    C [label="\"Beginn Intubation\"", numbered=9]
+    Weiter [label="Weiter: \nIntubation", numbered="W", shape="flowchart.loopout"]
+    }
+
+    NarkEinA -> C -> Weiter;
+    }
+
 
 .. raw:: latex
 
     \end{ParWide}
+
+
+
+    Intubation
+----------------
+
+1.  Anweisung *"Beginn Intubation"*
+
+2.   **Laryngoskop zureichen**: in die *linke (!)* Hand [#317]_
+
+3.  Laryngoskop von rechts kommend langsam
+    und *unter Sicht* einführen,
+    dabei die Zunge nach links verdrängen.
+
+    a.  Zielstruktur (Epiglottis) identifizieren.
+
+        Evtl. **Krikoiddruck**:
+        Anweisung *"Kehlkopfdruck"* ("Krikoiddruck")
+
+    b.  Auf Anweisung: Krikoiddruck durchführen
+
+    c.  Gebogener Spatel:
+        Spatelspitze in der Vallecula epiglottica
+        positionieren.
+
+        Gerader Spatel:
+        Epiglottis aufladen
+
+    d.  Stimmbänder visualisieren:
+        Zug in Achsenrichtung des Handgriffs
+        um den Mundboden anzuheben,
+        die Epiglottis öffnet passiv.
+
+4.  **Tubus zureichen**: in die *rechte (!)* Hand
+
+5.  auf Anweisung absaugen
+
+6.  **Einführen des Tubus**
+    bis die zwischen die Stimmbänder durchdringt
+
+7.  Anweisung: **"Führungsdraht entfernen!"**
+
+8.  Wenn die Tubusspitze durch die Stimmritzen durchgetreten ist
+    muss der Mandrin entfernt werden um Verletzungen zu vermeiden.
+
+    Der **Führungsdraht wird herausgezogen**,
+    dabei am Tubus-Konus Gegenhalten um ein Verrutschen des Tubus zu verhindern,
+    da dieser ragt nur knapp in die Luftröhre hinein!
+
+9.  Tubus bis zur **bis zu endgültigen Tiefe einführen**
+    und vorübergehend **manuell fixieren**
+
+10. Anweisung **"Cuffen"**
+
+11. **Cuffen**: Cuff mit luftgefüllter Spritze Cuff aufblasen
+
+12. Erfolgskontrolle
+
+
+
+.. actdiag::
+    :caption: Ablauf einer endotrachealen Intubation
+    :scale: 100%
+
+    actdiag {
+    node_width = 170;
+    span_width = 100;
+    span_height = 20;
+    default_fontsize = 12;
+    default_node_color = lightyellow;
+    default_group_color = lightgreen;
+    default_linecolor = darkblue;
+    default_textcolor = darkblue;
+
+    lane Assistenz {
+
+    LarZu   [label="Laryngoskop zureichen", numbered=4]
+    KrikDru2[label="ggfs. Krikoiddruck"]
+    TubZu   [label="Tubus zureichen"];
+    FDEnt   [label="Führungsdraht entfernen"];
+    Cuffen  [label="Cuffen"];
+    }
+
+
+
+    lane Durchführender {
+    C [label="\"Beginn Intubation\"", numbered=3, shape="flowchart.loopin"]
+    LarEin  [label="Laryngoskop \neinführen", numbered=5]
+    ZielId  [label="Epiglottis \nidentifizieren", numbered="5a"]
+    KrikDru [label="Optional:\n\"Krikoiddruck!\""]
+    VallEpi [label="Spatelspitze positionieren"]
+    StimmB  [label="Stimmbänder visualisieren"]
+    TubEin  [label="Tubus einführen:\nBis Spitze bei Stimmbändern"];
+    AnwFDEnt [label="\"Führungsdraht entfernen\""];
+    TubPos  [label="Tubus endgültig positionieren"];
+    AnwCuff [label="\"Cuffen\""];
+    ErfKont  [label="Erfolgskontrolle", numbered=30, shape="flowchart.loopout"];
+
+    }
+
+
+
+    C -> LarZu -> LarEin  -> ZielId -> KrikDru -> VallEpi -> StimmB ->TubZu -> TubEin -> AnwFDEnt -> FDEnt -> TubPos -> AnwCuff -> Cuffen -> ErfKont;
+
+    KrikDru -> KrikDru2;
+
+    ZielId -> KrikDru -> KrikDru2 -> VallEpi;
+
+    AnwCuff -> ErfKont;
+
+    }
+
+Erfolgskontrolle
+
+1.  *Stethoskop* dem Durchführenden in die Ohren klemmen
+
+2.  Beatmungsmaske vom Beatmungsbeutel trennen
+
+3.  *Beatmungsbeutel* an Tubus anschließen und halten
+
+4.  Auf Anweisung Atemhub verabreichen lassen
+
+    *Lagekontrolle* mittels Auskulatation:
+    (mind. 3 Atemhübe in Summe)
+
+    -   Magengegend und
+    -   beide Lungenflügel auskultieren,
+        dabei jeweils Anweisung *"Atemhub"*
+
+5.  Beatmungsbeutel übernehmen
+
+6.  Einführen des **Beißkeils** oder des Guedel-Tubus
+
+7.  **Fixierung** des Tubus und des Beißschutzes mittels
+    Mullbinde,
+    Klebestreifen
+    oder speziellen Fixationsmaterialien
+
+    Ggfs. Beatmungsgerät einstellen und anschließen
+
+
+.. actdiag::
+    :caption: Erfolgskontrolle Atemweg
+
+    actdiag {
+    node_width = 170;
+    span_width = 100;
+    span_height = 20;
+    default_fontsize = 12;
+    default_node_color = lightyellow;
+    default_group_color = lightgreen;
+    default_linecolor = darkblue;
+    default_textcolor = darkblue;
+
+    lane Assistenz {
+
+    StetOhr [label="Stethoskop ins Ohr klemmen", numbered="31"];
+    BeMaVoBeuTr [label="Beatmungsmaske vom Beutel trennen", numbered="32"];
+    BeAnTub [label="Beatmungsbeutel an Tubus", numbered="33?"];
+    Atemhub  [label="Auf Anweisung Atemhub", numbered="34"];
+    Fix [label="Fixierung", numbered="40", shape="flowchart.loopout"];
+
+    }
+
+    lane Durchführender {
+    ErfKont  [label="Erfolgskontrolle", numbered=30, shape="flowchart.loopin"];
+    Auskult  [label="Auskultation\n1) Magen\n2) Beide Lungenflügel", numbered="35", height=75];
+    Kapno [label="Kapnographie", numbered="36"];
+    AtemExk [label="Atemexkursionen", numbered="37"];
+    Atemger [label="Geräusche?", numbered="38"];
+    BeutUeber [label="Beatmungsbeutel übernehmen", numbered="39"];
+
+    }
+
+    ErfKont -> StetOhr -> BeMaVoBeuTr -> BeAnTub -> Atemhub -> Auskult -> Kapno -> AtemExk -> Atemger -> BeutUeber -> Fix
+
+    }
+
+
 
 .. [#316]
     Beim nicht-nüchternen nicht-spontan-atmenden Patienten soll eine

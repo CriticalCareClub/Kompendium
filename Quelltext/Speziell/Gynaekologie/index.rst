@@ -360,7 +360,7 @@ geburtshilflichen Abteilung vorzustellen.
 .. _m-fruchtwasserabgang:
 
 ⛑ Basismaßnahmen: Vorzeitiger Blasensprung
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ⛑ Basismaßnahmen
     -   Lagerung: Linksseitenlagerung, Becken erhöht

@@ -1,5 +1,6 @@
 
 .. _Thema-Schaedel:
+.. _Schaedel:
 
 ###########
 Der Schädel

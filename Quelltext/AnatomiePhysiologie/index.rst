@@ -1,4 +1,3 @@
-
 .. _AnatomiePhysiologie:
 
 #############################################################################################################################################
@@ -21,11 +20,10 @@ welche die klinische Praxis an diese Grundlagenwissenschaften stellen,
 anzupassen.
 Daher orientiert sich unsere Darstellung an folgender Klassifikation:
 
--   Allgemeines
--   topographische Regionen
--   funktionelle Organsystemen
--   Leitungsbahnen
--   Funktionelle Systeme, die nicht primär organbezogen sind
+-   Allgemeine Anatomie und Physiologie
+-   Organsysteme
+-   funktionelle Systeme
+-   wichtige topographische Regionen
 
 
 
@@ -34,9 +32,9 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
     :caption: Inhalt
 
     Allgemeines/index
-    Regionen/index
     Organsysteme/index
     FunktionelleSysteme/index
+    TopographischeRegionen/index
 
 
 

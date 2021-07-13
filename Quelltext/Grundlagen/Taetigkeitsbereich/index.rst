@@ -277,7 +277,7 @@ ausgebildet bzw. angewendet werden, sind manche (Landes-) Organisationen
 Anforderungen – Beanspruchung – Belastung: Was erwartet die Welt von mir?
 -------------------------------------------------------------------------
 
-.. rubricc:: Querverweise
+.. rubric:: Querverweise
 
 -   Gesprächsführung: [chp:KOM]
 -   Belastungsreaktion, Burn-out: :ref:`Thema-ptss`, :ref:`Thema-burn-out`

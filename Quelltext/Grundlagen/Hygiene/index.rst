@@ -139,7 +139,7 @@ Bakterien sind eigenständige Zellen, welche leben und aktiv
 etwas tun können. Dazu gehört z. B. die Produktion von diversen
 — z. T. schädlichen —
 Substanzen (Toxine, Gase etc.).
- Sie können die unterschiedlichsten Formen (Kugeln, Stäbchen, Geißeln …) haben.
+Sie können die unterschiedlichsten Formen (Kugeln, Stäbchen, Geißeln …) haben.
 
 Bakterien sind nicht grundsätzlich schlecht. Viele können für den
 Menschen gut, neutral oder manchmal auch schädlich sein. Dies hängt von
@@ -887,7 +887,8 @@ Erfahrung voraus. [#265]_
         -   Mechanische Beseitigung von Schmutz
         -   Keimreduktion
 
-            Richtet sich gegen ausgewählte Keime & Abtötung aller Mikroorganismen
+            Richtet sich gegen ausgewählte Keime
+        -   Abtötung aller Mikroorganismen
     *   -   Ergebnis
         -   Sauber
         -   Keimreduziert – Nicht keimfrei!
@@ -1131,28 +1132,28 @@ Schutzkleidung
     :header-rows: 1
     :stub-columns: 1
 
-
-*   -   Typ
-    -   Mindestrückhaltevermögen
-    -   Max. Gesamtleckage
-    -   Anwendung (Beispiele)
-*   -   Mund-Nasen-Maske
-    -   95%
-    -   k.A.
-    -   Basisschutz; MRSA, …
-*   -   FFP 1
-    -   80%
-    -   22%
-*   -   FFP 2
-    -   94%
-    -   8%
-    -   Influenza, SARS-CoV-2
-*   -   FFP 3
-    -   99%
-    -   2%
-    -   SARS,
-        offene Tuberkulose,
-        SARS-CoV-2 bei Situationen mit erhöhter Aerosolbildung (Intubation etc.)
+    *   -   Typ
+        -   Mindestrückhaltevermögen
+        -   Max. Gesamtleckage
+        -   Anwendung (Beispiele)
+    *   -   Mund-Nasen-Maske
+        -   95%
+        -   k.A.
+        -   Basisschutz; MRSA, …
+    *   -   FFP 1
+        -   80%
+        -   22%
+        -
+    *   -   FFP 2
+        -   94%
+        -   8%
+        -   Influenza, SARS-CoV-2
+    *   -   FFP 3
+        -   99%
+        -   2%
+        -   SARS,
+            offene Tuberkulose,
+            SARS-CoV-2 bei Situationen mit erhöhter Aerosolbildung (Intubation etc.)
 
 
 
@@ -1161,11 +1162,11 @@ Arbeitsaufteilung
 
 .. sidebar:: Arbeitsaufteilung
 
--   Material nicht unnötig kontaminieren.
--   Ein Teammitglied hat Patientenkontakt, Kollege reicht zu.
+    -   Material nicht unnötig kontaminieren.
+    -   Ein Teammitglied hat Patientenkontakt, Kollege reicht zu.
 
-    -   Nie mit schmutzigen Handschuhen in die Tasche greifen! Ein
-        Teammitglied hat Patientenkontakt, der andere reicht zu!
+        -   Nie mit schmutzigen Handschuhen in die Tasche greifen! Ein
+            Teammitglied hat Patientenkontakt, der andere reicht zu!
 
 Unter :ref:`Thema-einer-redet` wurde bereits erwähnt, dass möglichst nur ein
 Teammitglied ein Patientengespräch führen soll. Dies ist auch aus
@@ -1227,8 +1228,8 @@ Keimvehikel
 
 .. sidebar:: Keimvehikel
 
--   Kugelschreiber, Haltegriffe, Lenkrad …
--   **Kreuzinfektion!**
+    -   Kugelschreiber, Haltegriffe, Lenkrad …
+    -   **Kreuzinfektion!**
 
 … wie z. B. Kugelschreiber, Haltegriffe, etc. sind nicht nur für den
 Patienten im Sinne einer Kreuzinfektion ein Problem, sondern auch für

@@ -1437,11 +1437,11 @@ Z
 
 
 .. [Bengel:2]
-	Bengel, J. (Hrsg.):
-	2004.
+    Bengel, J. (Hrsg.):
+    2004.
     **Psychologie in Notfallmedizin Und Rettungsdienst.**
     2. Auflage, 2004.
-	3. Springer.
+    3. Springer.
 
 
 .. [BERN:12]

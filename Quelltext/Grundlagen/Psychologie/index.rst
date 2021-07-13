@@ -203,19 +203,19 @@ Exkurs: Rollenambivalenz
 
 .. list-table:: Rollenambivalenz
 
-*   -   Professionist
-    -   vs.
-    -   Person
-*   -   Verantwortlichkeit
-    -   vs.
-    -   pers. Gefühle
-*   -   Schnelles, aber professionelles
-        und möglichst fehlerfreies Handeln
-        bei gleichzeitig hoher Verantwortung
-    -   vs.
-    -   Emotional berührende Situationen,
-        Konfrontation mit den Themen
-        Unfall/Krankheit, Leid, Trauer, Schock und Tod
+    *   -   Professionist
+        -   vs.
+        -   Person
+    *   -   Verantwortlichkeit
+        -   vs.
+        -   pers. Gefühle
+    *   -   Schnelles, aber professionelles
+            und möglichst fehlerfreies Handeln
+            bei gleichzeitig hoher Verantwortung
+        -   vs.
+        -   Emotional berührende Situationen,
+            Konfrontation mit den Themen
+            Unfall/Krankheit, Leid, Trauer, Schock und Tod
 
 
 
@@ -268,9 +268,9 @@ Interaktion
 
 .. sidebar:: Interaktion
 
--   Kommunikation und Kooperation zwischen Vorgesetzten und Mitarbeitern
-    sowie Kollegen
--   Sozialer Zusammenhalt
+    -   Kommunikation und Kooperation zwischen Vorgesetzten und Mitarbeitern
+        sowie Kollegen
+    -   Sozialer Zusammenhalt
 
 Sie betrifft die *Kommunikation und Kooperation* zwischen
 *Vorgesetzten und Mitarbeitern* sowie *zwischen Kollegen* untereinander:
@@ -1522,8 +1522,8 @@ andauerndes und dennoch dynamisches *Gefühl des Vertrauens* hat, dass
     vorhersehbar und erklärbar* sind (=Verstehbarkeit).
 -   einem persönlich die *Ressourcen zur Verfügung* stehen werden,
     um den *Anforderungen*,
-    die diese Eindrücke/Erlebnisse stellen, *zu
-
+    die diese Eindrücke/Erlebnisse stellen, *zu begegnen*
+    (= Handhabbarkeit)
 -   diese Anforderungen *Herausforderungen* sind, die *Anstrengung und
     Engagement lohnen* (= Bedeutsamkeit).
 

@@ -33,7 +33,6 @@ führen kann.
     Herzrhythmusstoerungen/index
     KoronareHerzkrankheit/index
     Acs/index
-    Herzrhythmusstoerungen/index
     Herzinsuffizienz/index
     Schock/index
 

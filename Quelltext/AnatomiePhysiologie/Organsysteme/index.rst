@@ -7,9 +7,12 @@ Organsysteme
 .. toctree::
     :maxdepth: 2
 
-    Organsystem-Respiration/index
-    Organsystem-Kreislauf/index
-    Organsystem-Nervensystem/index
-    Organsystem-Sinnesorgane/index
-    Organsystem-Gastrointestinaltrakt/index
-    Organsystem-Geschlechtsorgane/index
+    StuetzUndBewegunsapparat/index
+    Kreislauf/index
+    Respiration/index
+    Gastrointestinaltrakt/index
+    Harntrakt/index
+    Geschlechtsorgane/index
+    Nervensystem/index
+    Sinnesorgane/index
+    EndokrinesSystem/index

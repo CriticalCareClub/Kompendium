@@ -1,82 +1,5 @@
-
-.. _Thema-sonstige-bauchorgane:
-
-*******************************************
-Sonstige Organe und Strukturen im Bauchraum
-*******************************************
-
-
-
-Das Bauchfell
-=============
-
-.. only:: not nosidebar
-
-    .. sidebar:: Bauchfell (Peritoneum)
-
-        -   Auskleidung der gesamten Bauchhöhle
-        -   Dünner Überzug
-        -   Bewegung der Organe
-        -   Schmerzempfindlich
-
-.. index::
-    single: Bauchfell
-    single: Peritoneum
-
-Das :dfn:`Bauchfell` (**Peritoneum**) ist eine
-dünne Haut, welche *die gesamte Bauchhöhle auskleidet*. Dieser Überzug
-bedeckt die meisten Bauchorgane und das große und kleine Netz
-(Omentum majus und minus). Das große Netz bedeckt die Bauchorgane und
-ist die erste Struktur, die man bei einer Baucheröffnung sieht. Es
-ermöglicht die Abkapselung von Entzündungen, sodass sich diese nicht
-sofort auf den ganzen Bauchraum ausbreiten können.
-
-Es sorgt durch seine feuchte und glatte Oberfläche dafür, dass die
-Organe, wie z. B. Darm, ihre Bewegungen zur Verdauungen besser
-durchführen können.
-
-..
-    .. figure::
-        /Bilder/GabrielSebastian-Ccc/Torso_GABS_IMG_1251_00800_frei.*
-..
-        Der Brust- und Bauchraum, geöffnet am Torso in Aufsicht.
-        Zu sehen sind die Lunge, dahinter das Herz, darunter die
-        Leber (braun) mit einem kleinen Stück der Gallenblase
-        (grün), der Magen mit einem Teil der gelben Fettschürze
-        "großes Netz", sowie der Dickdarm und der Dünndarm
-..
-        ₢ Sebastian Gabriel  :term:`ℓ MfG`
-
-
-.. index::
-   single: Milz
-   single: Lien
-   single: Splen
-
-Die Milz
-========
-
-.. only:: not nosidebar
-
-    .. sidebar:: Milz
-
-        -   12 cm, oval, im linken Oberbauch unter den Rippen gelegen
-        -   Von *Kapsel* umgeben
-        -   Teil des Immunsystems, entfernt alte rote Blutkörperchen
-        -   Gut durchblutet!
-
-Die :dfn:`Milz` (*Lien*, *Splen*) ist ca. 12 cm groß, oval
-geformt und und liegt im linken Oberbauch, verdeckt von den Rippen.
-Sie ist nicht an der Verdauung beteiligt.
-
-Die Milz dient der immunologischen Überwachung des Blutes und ist daher
-Teil des Immunsystems. Sie filtert das Blut, zu alte rote Blutkörperchen
-werden durch weiße Blutkörperchen in der Milz erkannt und entfernt. Beim
-Embryo ist sie auch an der Blutbildung beteiligt. Ihre Vene mündet in
-die Pfortader. Damit sie ihre Aufgaben erfüllen kann, ist sie *sehr gut
-durchblutet*! Sie ist weiters von einer festen *Bindegewebskapsel*
-umgeben und in das Bauchfell gehüllt.
-
+Harnproduzierendes und -ableitendes System
+****************************************************************
 
 
 .. index::
@@ -88,9 +11,7 @@ Die Nieren filtern das Blut und produzieren den Harn
 ====================================================
 
 
-.. only:: not nosidebar
-
-    .. sidebar:: Niere
+.. sidebar:: Niere
 
         -   Paarig angelegtes, bohnenförmiges Organ
         -   Rückenwärts bds. der Wirbelsäule,
@@ -124,9 +45,7 @@ sind stark durchblutet.
 Aufgaben
 --------
 
-.. only:: not nosidebar
-
-    .. sidebar:: Niere, Aufgaben
+.. sidebar:: Niere, Aufgaben
 
         -   Stark durchblutet, empfindlich auf RR- Abfall →
         -   reguliert
@@ -150,9 +69,7 @@ Blutdruckregulierung (Renin) und für die Blutbildung (*Erythropoetin*).
 Aufbau der Nieren
 -----------------
 
-.. only:: not nosidebar
-
-    .. sidebar:: Aufbau
+.. sidebar:: Aufbau
 
         -   Rinde, Mark
         -   Hilus (Stiel)
@@ -188,9 +105,7 @@ Harnleiter in die Harnblasen abgeleitet werden. [Loeffler:7]_
 Das harnableitende System: Der Harntrakt
 ========================================
 
-.. only:: not nosidebar
-
-    .. sidebar:: Harntrakt
+.. sidebar:: Harntrakt
 
         -   Nieren inkl. Nierenbecken
         -   je 1 Harnleiter (Ureter), 30cm lang, mündet in die
@@ -219,49 +134,3 @@ Durch die kürzeren Harnwege bei der Frau kann es leichter zu
 
 
 .. todo:: image  Harntraktmit Nieren (rechte Niere im Querschnitt mit          Nierenbecken), Harnleiter, Blase und          Harnröhre[Figure-harntrakt]₢ Lena Hirtler, :term:`ℓ MfG`
-
-Die Nebennieren
-===============
-
-.. only:: not nosidebar
-
-    .. sidebar:: Die Nebennieren
-
-        -   Adrenalin, Noradrenalin
-        -   Sexualhormone (Androgene)
-        -   Kortisol
-        -   Aldosteron
-        -   Hormonproduktion (Adrenalin, Sexualhormone, …)
-
-Die  :dfn:`Adren` (*Nebennieren*) sind ein paariges, jeweils
-am oberen Nierenpol gelegenes Organ und überdecken die Niere
-"mützenformig".
-Sie sind nicht an der Harnproduktion beteiligt.
-
-Die Hauptaufgabe der Nebennieren ist die *Hormonproduktion*.
-Man kann die Nebenniere im Querschnitt in Nebennierenrinde und -mark
-unterteilen.
-In den jeweiligen Abschnitten werden jeweils verschiedene Hormone
-produziert. Die wichtigsten produzierten Hormone sind:
-
-
-Was gibt es noch?
-=================
-
-Weitere Strukturen im Bauchraum
--------------------------------
-
-
-.. only:: not nosidebar
-
-    .. sidebar:: Weitere Strukturen
-
-        -   Noch andere Organsysteme
-        -   Z. B. Geschlechtsorgane
-
-Außer den "klassischen Bauchorganen" liegen auch andere Organsysteme im
-Bauchraum auf die nicht vergessen werden sollte. Besonders betrifft das
-die inneren weiblichen und männlichen **Geschlechtsorgane**
-wie Eierstöcke, Eileiter und Uterus bzw. Prostata und Samenbläschen.
-Diese werden unter :ref:`Thema-geschlechtsorgane`, gesondert besprochen.
-

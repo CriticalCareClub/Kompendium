@@ -34,7 +34,7 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
     Allgemeines/index
     Organsysteme/index
     FunktionelleSysteme/index
-    TopographischeRegionen/index
+    Regionen/index
 
 
 

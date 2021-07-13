@@ -7,5 +7,9 @@ Funktionelle Systeme
 .. toctree::
     :maxdepth: 2
 
-    System-Vitalfunktionen/index
-    System-Stoffwechsel/index
+    Vitalfunktionen/index
+    Stoffwechsel/index
+    Temperaturhaushalt/index
+    WasserElythaushalt/index
+    SaeureBasenHaushalt/index
+    Schlaf/index

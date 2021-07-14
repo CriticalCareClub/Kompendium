@@ -280,6 +280,7 @@ Sonstige Begriffe
     Gesicht.
 
 
+.. _RichtungsLageangaben:
 
 Richtungs- und Lageangaben
 **************************
@@ -290,10 +291,16 @@ sind auch regelmäßig in Arzt- und Entlassungsbriefen anzutreffen.
 
 
 :index:`lateral`
-    Abk. *lat.*; seitlich
+    (*lat.*) seitlich
 
 :index:`medial`
-    Abk. *med.*; mittig
+    (*med.*) mittig
+
+:bilateralis, -e:
+
+    (*bilat.*)
+    beidseitig
+
 
 :index:`dorsal`
     rückenwärts
@@ -301,42 +308,409 @@ sind auch regelmäßig in Arzt- und Entlassungsbriefen anzutreffen.
 :index:`ventral`
     bauchwärts
 
+:index:`cranialis`, -e:
+    (*cran.*)
+    kopfwärts
+
+:index:`caudalis`, -e:
+    (*caud.*)
+    fußwärts
+
+:index:`palmaris`, -e:
+    (*palm.*)
+    beugeseitig an der Hand, hohlhandseitig
+
+:index:`plantaris`, -e:
+    (*plant.*)
+    beugeseitig am Fuß
+
 :index:`cranial`
     kopfwärts
 
 :index:`caudal`
     fußwärts (eigentlich: schwanzwärts)
 
+
 :index:`distal`
-    Abk. *dist.*; körperfern
+    (*dist.*) körperfern
 
 :index:`proximal`
-    Abk. *prox.*; körpernah
+    (*prox.*) körpernah
+
 
 :index:`dexter`, -tra, trum
-    Abk. *dext.*; rechts
+    (*dext.*) rechts
 
 :index:`sinister`, -tra, trum
-    Abk. *sin.*; links
+    (*sin.*) links
+
+:index:`utriusque`
+    (*utr.*)
+    beidseitig
+
 
 :index:`anterior`
-    Abk. *ant.*; davor liegend
+    (*ant.*) davor liegend
 
 :index:`posterior`
-    Abk. *post;* dahinter liegend
+    (*post.*) dahinter liegend
+
 
 :index:`superior`
-    Abk. *sup.*; darüber liegend
+    (*sup.*) darüber liegend
 
 :index:`inferior`
-    Abk. *inf.; darunter liegend
+    (*inf.*) darunter liegend
+
 
 :index:`superficial`
-    Abk. *superfic.*; oberflächlich
+    (*superfic.*) oberflächlich
 
 :index:`profund`
-    Abk. *prof.*; tief
+    (*prof.*) tief
+
+
+:index:`ulnaris`, -e:
+    (*uln.*)
+    ellenseitig
+
+:index:`radialis`, -e:
+    (*rad.*)
+    speichenseitig
+
+
 
 .. note::
     Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer
     auf die betreffende Person (Patienten)!
+
+
+
+Richtungs- und Seitenangaben
+=================================================================
+
+
+Unfallchirurgische Diagnosen
+****************************
+
+Im folgenden sind häufige (lateinische) Diagnosen bzw. Abkürzungen als
+Referenz angeführt, welche man häufig auf unfallchirurgischen
+Arztbriefen und Ambulanzprotokollen findet. Eine ausführliche
+Aufstellung findet sich in [Lippert:4]_\ .
+Die Diagnosen werden durch :ref:`RichtungsLageangaben` ergänzt.
+
+
+
+Wund- und Verletzungsarten
+=================================================================
+
+:Abruptio (ossea):
+
+    (*Abrupt. oss.*) Knöcherner Ausriß-Abriß
+
+:Abscessus:
+
+    (*Abscess.*) Abszeß
+
+:Amputatio traumatica:
+
+    (*Amput. traumat.*) Unfallbedingte Abtrennung
+
+:Articulatio aperta:
+
+    (*Artic. apert.*) Gelenkseröffnung
+
+:Bulla haemorrhagica:
+
+    (*Bulla haemorrh.*) Blutblase
+
+:Bulla infecta:
+
+    (*Bulla infect.*) infizierte Blase
+
+:Bursa aperta:
+
+    (*Bursa apert.*)
+    Eröffnung des Schleimbeutels
+
+:Bursitis: Schleimbeutelentzündung
+
+    :- purulenta: eitrige ~
+
+:Cauterisatio:
+
+    (*Cauteris.*)
+    Verätzung
+
+:Combustio (graddus ...):
+
+    (*Comb. (grad. n)*)
+    Verbrennung n. Grades
+
+:Congelatio:
+
+    (*Congel.*)
+    Erfrierung
+
+:Contusio:
+
+    (*Cont.*)
+    Prellung, Quetschung
+
+:Corpus alienum:
+
+    (*Corp. alien.*)
+    Fremdkörper
+
+    :- ligneum, - ferreum, - vitreum: Holz-, Eisen-, Glas-Fremdkörper
+
+:Corpus liberum:
+
+    Freier Gelenkskörper
+
+:Decollement:
+
+    Hautabscherung
+
+:Defectus cutis:
+
+    (*Defect. cutis*)
+    Hautverlust
+
+:Discissio:
+
+    (*Disciss.*)
+    Durchtrennung
+
+    :Discissio nervi:
+
+        Burchtrennung des Nervs (an den Fingern numeriert von 1-10 beginnend von der radialen Daumenseite)
+
+:Distorsio:
+
+    (*Dist.*)
+    Zerrung
+
+:Empyema articulare: Gelenkseiterung
+
+:Enucleatio traumatica: Auslösung im Gelenk
+
+:Epidermiolysis:
+
+    (*Epidermiol.*)
+    Ablederung der oberen Haut
+
+:Epiphysiolysis:
+
+    (*Epiphys.*)
+    Wachstumsfugenlösung
+
+:Excoriatio:
+
+    (*Excor.*)
+    Hautabschürfung
+
+:Fissura:
+
+    (*Fiss.*)
+    Sprung des Knochens
+
+:Fistula: Fistel
+
+:Fractura:
+
+    (*Fract.*)
+
+    Fraktur, Bruch des Knochens
+
+    :Fractura aperta:
+
+        (*Fract. apert.*)
+        offener Bruch
+
+    :Fractura comminuta: Trümmerbruch
+
+    :Fractura duplex/triplex: zwei/dreifacher Bruch
+
+    :Fractura epiphysis: Bruch der Epiphyse
+
+    :Fractura subperiostalis: Grünholzbruch
+
+:Hämarthros: Bluterguß im Gelenk
+
+:Hämatoma: Bluterguß
+
+:Hydrops: Erguß im Gelenk
+
+:Inflammatio:	Hautrötung,Entzündung
+
+:Laesio:
+
+    (*Laes.*)
+    Verletzung, Läsion
+
+    :Laesio cartilaginis:
+
+        (*Laes. cartilag.*)
+        Verletzung des Knorpels
+
+    :Laesio nervi:
+
+        (*Laes. nerv.*)
+        Verletzung des Nervs
+
+:Luxatio:
+
+    (*Lux.*)
+    Verrenkung
+
+:Luxatio et fractura:
+
+    (*Luxfract.*)
+    Verrenkungsbruch
+
+:Lyphangitis-adenitis: Lymphbahn-knotenentzündung
+
+:Necrosis cutis: abgestorbene Haut
+
+:Panaritium subcutaneum: Eiterung des Unterhautfettgewebes an Fingern oder Zehen
+
+:Panaritium tendineum: eitrige Sehnenscheidenentz.
+
+:Paralysis: Lähmung
+
+:Paresis: Teillähmung
+
+:Paronychia: Nagelbettentzündung
+
+:Phlegmona: Phlegmone
+
+:Refractura:
+
+    (*Refract.*)
+    Neuerlicher Bruch im Bereich eines alten Bruches
+
+:Ruptura:
+
+    (*Rupt.*)
+    Riß, Zerreißung
+
+:Ruptura syndesmosis: Syndesmosenzerreißung
+
+:Seroma: Erguß seröser Flüssigkeit
+
+:Subluxatio:
+
+    (*Sublux.*)
+    Teilverrenkung
+
+:supraarticularis:
+
+    (*supraartic.*)
+    über dem Gelenk
+
+:Vulnus:
+
+   (*Vuln.*)
+   Wunde
+
+    :Vulnus ictum:
+
+        (*Vuln. ict.*)
+        Stichwunde
+
+    :Vulnus lacero-contusum:
+
+        (*Vlc.*)
+        Rißquetschwunde
+
+    :Vulnus morsum animalis:
+
+        (*Vuln. mors. anim.*)
+        Tierbiß
+
+    :Vulnus morsum hominis:
+
+        (*Vuln. mors. hom.*)
+        Menschenbiß
+
+    :Vulnus perforans: Durchdringende Stichwunde
+
+    :Vulnus scissum:
+
+        (*Vuln. sciss.*)
+        Schnittwunde
+
+    :Vulnus sclopetarium:
+
+        (*Vuln. sclopet.*)
+        Schußwunde
+
+Zusätze
+=================================================================
+
+:recens:
+
+    (*rec.*)
+    frisch (nur bei Unterscheidung gegen ältere Verletzungen anführen)
+
+:non recens:
+
+    (*non rec.*)
+    nicht frisch;
+    bei bereits sichtbar infizierten oder über 8 Stunden alten Wunden
+    oder offenen Brüchen,
+    bei geschlossenen Brüchen nach 24 Stunden
+
+:infectus, -a, -um: infiziert
+
+:inveteratus:
+
+    (*invet.*)
+    veraltet
+
+:apertus:
+
+    (*apert.*)
+    offen
+
+:ossea sanata:
+
+    (*oss. san.*)
+    knöchern geheilt
+
+:repositus:
+
+    (*repos.*)
+    eingerichtet, reponiert
+
+:utriusque:
+
+    (*utr.*)
+    rechts und links
+
+:bilateralis:
+
+    (*bilat.*)
+    beiderseitig an einer Extremität
+    (d. h. innen und aussen, radial und ulnar etc.)
+
+:operatus:
+
+    (*operat.*)
+    operiert
+
+:suturatus:
+
+    (*suturat.*)
+    genäht
+
+:fixatus:
+
+    (*fixat.*)
+    ruhiggestellt im Gips
+
+:signum interrogationis:
+
+    (*s. i.*)
+    fraglich, Zusatz bei unsicherer Diagnose

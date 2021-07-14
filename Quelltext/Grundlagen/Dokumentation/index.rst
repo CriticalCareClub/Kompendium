@@ -14,14 +14,6 @@ die Ereignisse davor oder die Einsatzsituation soll für denjenigen
 verständlich sein (Unfallhergang, Wohnsituation bei psychiatrischen
 Patienten, …)
 
-:Maintainer:
-    –
-
-:Autoren:
-    Diverse
-
-:Reviewer:
-    Standard-Reviewprozess
 
 
 .. _Thema-dokumentation-medizinisch:
@@ -43,21 +35,27 @@ Querverweise
 
 -  Andere Gesundheitsberufe:
 
+
+
 Dokumentation – Oder: Damit sich auch ein Anderer auskennt …
 ============================================================
 
 Die medizinische Dokumentation muss eine Geschichte erzählen. Eine
-Geschichte die ein Dritter, unbeteiligter, verstehen *muss*. Dieser
-unbeteiligte Dritte soll allein anhand der Schilderung in der
-Dokumentation fähig sein eine Verdachtsdiagnose zu stellen. Weiters
+Geschichte die ein Dritter, unbeteiligter, verstehen *muss*.
+Dieser unbeteiligte Dritte soll allein anhand der Schilderung in der
+Dokumentation fähig sein, eine Verdachtsdiagnose zu stellen. Weiters
 sollte er nachvollziehen können, was mit dem Patient passiert ist. Auch
 die Ereignisse davor oder die Einsatzsituation soll für denjenigen
 verständlich sein (Unfallhergang, Wohnsituation bei psychiatrischen
 Patienten, …).
 
-    -  Die Dokumentation dient sowohl der rechtlichen Absicherung, als
-       auch der Beschreibung der Situation gegenüber Dritter, welche am
-       Einsatz nicht beteiligt waren.
+.. admonition:: Synopsis
+
+    -   Die Dokumentation dient sowohl der rechtlichen Absicherung, als
+        auch der Beschreibung der Situation gegenüber Dritter, welche am
+        Einsatz nicht beteiligt waren.
+
+
 
 Dokumentationspflicht
 =====================
@@ -67,6 +65,10 @@ die von ihm gesetzten sanitätsdienstlichen Maßnahmen zu
 dokumentieren. [#164]_ Darüber hinaus müssen analog zu anderen
 Gesundheitsberufen auch alle anderen medizinisch relevanten Sachverhalte
 schriftlich und nachvollziehbar fixiert werden.
+
+.. [#164]
+    §5 SanG
+
 
 Hintergrund dieser Dokumentationspflicht ist der
 *Heilbehandlungsvertrag*. Im österreichischen Recht hat grundsätzlich
@@ -106,6 +108,10 @@ von Erkrankungen / Verletzungen als Entscheidungshilfe welche Soldaten
 zuerst auszufliegen wären. Heutzutage dient der NACA-Score der groben
 statistischen Erfassung. Man unterscheidet die Stufen 1 bis 7:
 
+.. [#165]
+    NACA
+
+
 +------------+-------------------------------------------+-------------------+--------------+
 | **NACA**   | **Bedeutung**                             | **Anteil Pat.**   | **Anteil**   |
 +------------+-------------------------------------------+-------------------+--------------+
@@ -126,478 +132,6 @@ statistischen Erfassung. Man unterscheidet die Stufen 1 bis 7:
 |            |                                           | 117849            | 100          |
 +------------+-------------------------------------------+-------------------+--------------+
 
-*********
-Beispiele
-*********
 
-Beschreibung
-============
 
-Die hier angeführten Beispiele dienen der Demonstration, wie ausführlich
-man dokumentieren könnte. Sie können vom sonst regional üblichen und
-durch Formulare oder Computerprogramme vorgegebenen Form abweichen.
 
-.. todo:: Tabelle
-
-    ::
-
-        Ein Einsatzprotokoll: Schlechte Dokumentation. Dieses Beispiel zeigt eine mangelhafte Dokumentation. Anhand der Niederschrift ist nicht nachvollziehbar, was vorgefallen ist.
-
-        | Berufung: & 17-B-01 & Text: &
-        | Art: & RTW & QU & 01.04.2007 12:00 & BO & 12:05
-        | ZA & 12:31 & AO & 12:55 & EB & 13:02
-        | Name: & MUSTERMANN, Hannes & Alter: & 36 & Geschlecht: & m
-        | Vitalwerte & 12:10 & RR - HF & 130/70mmHg - 90/min & SpO2 & 99%
-        | Vitalwerte & 12:43 & RR - HF & 130/80mmHg - 81/min & SpO2 & 99%
-        | BZ & xxxmg/dL& Temp. & xx°C & Schmerzen: &
-        | Weitere Befunde: &
-        | NACA: & 2 & GCS: & 15
-        | Zielabt.: & Unfallchirurgie & Trpt. m. Arzt: & nein & Zustand: &   gleich
-
-.. todo:: Tabelle
-
-    ::
-
-        Ein Einsatzprotokoll: Bessere Dokumentation
-
-        | Berufung: & 17-B-01 & Text: &
-        | Art: & RTW & QU & 01.04.2007 12:00 & BO & 12:05
-        | ZA & 12:31 & AO & 12:55 & EB & 13:02
-        | Name: & MUSTERMANN, Hannes & Alter: & 36 & Geschlecht: & m
-        | Vitalwerte & 12:10 & RR - HF & 130/70mmHg - 90/min & SpO2 & 99%
-        | Vitalwerte & 12:43 & RR - HF & 130/80mmHg - 81/min & SpO2 & 99%
-        | BZ & xxxmg/dL& Temp. & xx°C & Schmerzen: &
-        | Weitere Befunde: &
-        | NACA: & 2 & GCS: & 15
-        | Zielabt.: & Unfallchirurgie & Trpt. m. Arzt: & nein & Zustand: &   gleich
-
-
-.. todo:: Tabelle
-
-    Einsatzprotokoll: Psychiatrischer und psychosozialer Patient Hier ist nicht nur nachvollziehbar was passiert ist, auch ist erkennbar dass versucht wurde, mögliche gefährliche Diagnosen auszuschliessen (Schädel-Hirn-Trauma, Hirnblutungen, …). Bei diesem Patienten ist die Schilderung der Lebensumstände wichtig, sie hilft der weiterbehandelnden Stelle beim Entlassungmenagement – der Patient kann ja schließlich nicht in eine bestialisch stinkende, verkotete Wohnung zurückgeschickt werden.
-
-    ::
-
-        Berufung:  25-B-04      Text:
-        Art     :  RTW          QU  01.05.2008  09:10   BO  09:20
-                                ZA  10:00   AO  10:23   EB  10:40
-        Name    : MUSTERMANN, Max           Alter   :   32  Geschlecht  : m
-        Vitalwerte
-
-        09:30   :   RR - HF     : 130/70mmHg - 100/min SpO2 : 98%
-                    BZ          : xxx mg/dL  Temp. & xx°C & Schmerzen: &
-        Weitere Befunde: &
-        NACA: & 3 & GCS: & 15
-        Zielabt.: & Psychiatrie & Trpt. m. Arzt: & n & Zustand: & gleich
-
-****************************
-Unfallchirurgische Diagnosen
-****************************
-
-Beschreibung
-============
-
-Im folgenden sind häufige (lateinische) Diagnosen bzw. Abkürzungen als
-Referenz angeführt, welche man häufig auf unfallchirurgischen
-Arztbriefen und Ambulanzprotokollen findet. Eine ausführliche
-Aufstellung findet sich in [Lippert:4]_ .
-
-
-Wund- und Verletzungsarten
---------------------------
-
-:Abruptio (ossea):
-
-    (*Abrupt. oss.*) Knöcherner Ausriß-Abriß
-
-:Abscessus:
-
-    (*Abscess.*) Abszeß
-
-:Amputatio traumatica:
-
-    (*Amput. traumat.*) Unfallbedingte Abtrennung
-
-:Articulatio aperta:
-
-    (*Artic. apert.*) Gelenkseröffnung
-
-:Bulla haemorrhagica:
-
-    (*Bulla haemorrh.*) Blutblase
-
-:Bulla infecta:
-
-    (*Bulla infect.*) infizierte Blase
-
-:Bursa aperta:
-
-    (*Bursa apert.*)
-    Eröffnung des Schleimbeutels
-
-:Bursitis: Schleimbeutelentzündung
-
-    :- purulenta: eitrige ~
-
-:Cauterisatio:
-
-    (*Cauteris.*)
-    Verätzung
-
-:Combustio (graddus ...):
-
-    (*Comb. (grad. n)*)
-    Verbrennung n. Grades
-
-:Congelatio:
-
-    (*Congel.*)
-    Erfrierung
-
-:Contusio:
-
-    (*Cont.*)
-    Prellung, Quetschung
-
-:Corpus alienum:
-
-    (*Corp. alien.*)
-    Fremdkörper
-
-    :- ligneum, - ferreum, - vitreum: Holz-, Eisen-, Glas-Fremdkörper
-
-:Corpus liberum:
-
-    Freier Gelenkskörper
-
-:Decollement:
-
-    Hautabscherung
-
-:Defectus cutis:
-
-    (*Defect. cutis*)
-    Hautverlust
-
-:Discissio:
-
-    (*Disciss.*)
-    Durchtrennung
-
-    :Discissio nervi:
-
-        Burchtrennung des Nervs (an den Fingern numeriert von 1-10 beginnend von der radialen Daumenseite)
-
-:Distorsio:
-
-    (*Dist.*)
-    Zerrung
-
-:Empyema articulare: Gelenkseiterung
-
-:Enucleatio traumatica: Auslösung im Gelenk
-
-:Epidermiolysis:
-
-    (*Epidermiol.*)
-    Ablederung der oberen Haut
-
-:Epiphysiolysis:
-
-    (*Epiphys.*)
-    Wachstumsfugenlösung
-
-:Excoriatio:
-
-    (*Excor.*)
-    Hautabschürfung
-
-:Fissura:
-
-    (*Fiss.*)
-    Sprung des Knochens
-
-:Fistula: Fistel
-
-:Fractura:
-
-    (*Fract.*)
-
-    Fraktur, Bruch des Knochens
-
-    :Fractura aperta:
-
-        (*Fract. apert.*)
-        offener Bruch
-
-    :Fractura comminuta: Trümmerbruch
-
-    :Fractura duplex/triplex: zwei/dreifacher Bruch
-
-    :Fractura epiphysis: Bruch der Epiphyse
-
-    :Fractura subperiostalis: Grünholzbruch
-
-:Hämarthros: Bluterguß im Gelenk
-
-:Hämatoma: Bluterguß
-
-:Hydrops: Erguß im Gelenk
-
-:Inflammatio:	Hautrötung,Entzündung
-
-:Laesio:
-
-    (*Laes.*)
-    Verletzung, Läsion
-
-    :Laesio cartilaginis:
-
-        (*Laes. cartilag.*)
-        Verletzung des Knorpels
-
-    :Laesio nervi:
-
-        (*Laes. nerv.*)
-        Verletzung des Nervs
-
-:Luxatio:
-
-    (*Lux.*)
-    Verrenkung
-
-:Luxatio et fractura:
-
-    (*Luxfract.*)
-    Verrenkungsbruch
-
-:Lyphangitis-adenitis: Lymphbahn-knotenentzündung
-
-:Necrosis cutis: abgestorbene Haut
-
-:Panaritium subcutaneum: Eiterung des Unterhautfettgewebes an Fingern oder Zehen
-
-:Panaritium tendineum: eitrige Sehnenscheidenentz.
-
-:Paralysis: Lähmung
-
-:Paresis: Teillähmung
-
-:Paronychia: Nagelbettentzündung
-
-:Phlegmona: Phlegmone
-
-:Refractura:
-
-    (*Refract.*)
-    Neuerlicher Bruch im Bereich eines alten Bruches
-
-:Ruptura:
-
-    (*Rupt.*)
-    Riß, Zerreißung
-
-:Ruptura syndesmosis: Syndesmosenzerreißung
-
-:Seroma: Erguß seröser Flüssigkeit
-
-:Subluxatio:
-
-    (*Sublux.*)
-    Teilverrenkung
-
-:supraarticularis:
-
-    (*supraartic.*)
-    über dem Gelenk
-
-:Vulnus:
-
-   (*Vuln.*)
-   Wunde
-
-    :Vulnus ictum:
-
-        (*Vuln. ict.*)
-        Stichwunde
-
-    :Vulnus lacero-contusum:
-
-        (*Vlc.*)
-        Rißquetschwunde
-
-    :Vulnus morsum animalis:
-
-        (*Vuln. mors. anim.*)
-        Tierbiß
-
-    :Vulnus morsum hominis:
-
-        (*Vuln. mors. hom.*)
-        Menschenbiß
-
-    :Vulnus perforans: Durchdringende Stichwunde
-
-    :Vulnus scissum:
-
-        (*Vuln. sciss.*)
-        Schnittwunde
-
-    :Vulnus sclopetarium:
-
-        (*Vuln. sclopet.*)
-        Schußwunde
-
-Zusätze
--------
-
-:recens:
-
-    (*rec.*)
-    frisch (nur bei Unterscheidung gegen ältere Verletzungen anführen)
-
-:non recens:
-
-    (*non rec.*)
-    nicht frisch;
-    bei bereits sichtbar infizierten oder über 8 Stunden alten Wunden
-    oder offenen Brüchen,
-    bei geschlossenen Brüchen nach 24 Stunden
-
-:infectus, -a, -um: infiziert
-
-:inveteratus:
-
-    (*invet.*)
-    veraltet
-
-:apertus:
-
-    (*apert.*)
-    offen
-
-:ossea sanata:
-
-    (*oss. san.*)
-    knöchern geheilt
-
-:repositus:
-
-    (*repos.*)
-    eingerichtet, reponiert
-
-:utriusque:
-
-    (*utr.*)
-    rechts und links
-
-:bilateralis:
-
-    (*bilat.*)
-    beiderseitig an einer Extremität
-    (d. h. innen und aussen, radial und ulnar etc.)
-
-:operatus:
-
-    (*operat.*)
-    operiert
-
-:suturatus:
-
-    (*suturat.*)
-    genäht
-
-:fixatus:
-
-    (*fixat.*)
-    ruhiggestellt im Gips
-
-:signum interrogationis:
-
-    (*s. i.*)
-    fraglich, Zusatz bei unsicherer Diagnose
-
-Richtungs- und Seitenangaben
-----------------------------
-
-:dexter, -tra, -trum:
-
-    (*dext.*)
-    rechts
-
-:sinister, -tra, -trum:
-
-    (*sin.*)
-    links
-
-:utriusque:
-
-    (*utr.*)
-    Rechts und links
-
-:bilateralis, -e:
-
-    (*bilat.*)
-    beidseitig
-
-:medialis, -e:
-
-    (*med.*)
-    innenseitig
-
-:lateralis, -e:
-
-    (*lat.*)
-    außenseitig
-
-:dorsalis, -e:
-
-    (*dors.*)
-    streckseitig
-
-:palmaris, -e:
-
-    (*palm.*)
-    beugeseitig an der Hand, hohlhandseitig
-
-:plantaris, -e:
-
-    (*plant.*)
-    beugeseitig am Fuß
-
-:ulnaris, -e:
-
-    (*uln.*)
-    innenseitig
-
-:radialis, -e:
-
-    (*rad.*)
-    außenseitig
-
-:proximalis, -e:
-
-    (*prox.*)
-    körpernahe
-
-:distalis, -e:
-
-    (*dist.*)
-    körperfern
-
-:cranialis, -e:
-
-    (*cran.*)
-    kopfwärts
-
-:caudalis, -e:
-
-    (*caud.*)
-    fußwärts
-
-
-.. [#164]
-   §5 SanG
-
-.. [#165]
-   NACA

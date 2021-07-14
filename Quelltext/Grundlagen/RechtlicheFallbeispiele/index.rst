@@ -366,7 +366,7 @@ Heimpflegerin auf Alex, Sepp und Bernd zustürmt und sie zu der 70
 jährigen, regungslosen Patientin, Frau Finito, bringt. Gleichzeitig hält
 die Heimpflegerin den Sanitätern eine Patientenverfügung vor, die Frau
 Finito vor über 5 Jahren auf einer Serviette unterschrieben hat und nach
-der "bei ausbleibenden Kreislauf keine Wiederbelebungsmaßnahmen gesetzt
+der "bei ausbleibendem Kreislauf keine Wiederbelebungsmaßnahmen gesetzt
 werden" dürfen. Deshalb hatte die Pflegerin es bis jetzt auch
 unterlassen mit einer Reanimation zu beginnen. Da sie aber ebenso nicht
 weiß, ob die Verfügung bindend ist, rief sie die Rettung und setzte sich
@@ -569,7 +569,7 @@ er Sepp die Packung betrachten sieht, dass das "Zeug" nichts nutzt, da
 er vor zwei Stunden eine Tablette eingenommen hätte und noch immer
 "nichts steht". Kurze Zeit später trifft der NEF mit der Notärztin
 Natascha ein, die den Patienten oberflächlich untersucht und eine
-sofortige Nitro-Verabreichung zur Bekämpfung des hohen Blutdrucks ()
+sofortige Nitro-Verabreichung zur Bekämpfung des hohen Blutdrucks
 anordnet, obwohl sie von Sepp über die gefundene Viagra-Packung
 informiert wurde.
 
@@ -968,7 +968,7 @@ Aufnahme.
 Der dortige Aufnahmearzt Dr. Wasbringst hat schon einen 22 Stunden
 Dienst hinter sich und ist alles andere als erfreut über das
 "Mitbringsel" des Teams. Wutentbrannt brüllt er Natascha an, was sie
-sich eigentliche erlaube trotz gesperrten Bettenkontingent seine Station
+sich eigentliche erlaube trotz gesperrten Bettenkontingents seine Station
 anzufahren und verweigert ihr die Aufnahme des Herr Schmerz.
 
 .. rubric:: Rechtsfrage

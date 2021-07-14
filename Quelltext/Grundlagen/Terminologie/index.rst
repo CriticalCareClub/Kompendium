@@ -64,6 +64,17 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
     comitialis (Epilepsie).
 
 
+:index:`akut`
+    plötzlich; rascher Handlungsbedarf
+
+:index:`chronisch`
+    dauerhaft
+
+:index:`rezidivierend`
+     wiederkommend, neuerlich
+
+
+
 Vorsilben
 *********
 
@@ -117,23 +128,9 @@ Vorsilben
 
 
 
-Beschreibung von Krankheiten und Symptomen
-******************************************
-
-:index:`akut`
-    plötzlich; rascher Handlungsbedarf
-
-:index:`chronisch`
-    dauerhaft, wiederkehrend
-
-:index:`rezidivierend`
-     wiederkommend, neuerlich
-
-
-
 .. _Thema-Enzym:
 
-******
+
 Stoffe
 ******
 
@@ -169,14 +166,11 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
     Herzchirurgie, Thoraxchirurgie, Kinderchirurgie, Plastische
     Chirurgie etc. Daneben gibt es noch viele andere operative Fächer.
 
-
 :index:`Geburtshilfe`, :index:`Gynäkologie`, :index:`Frauenheilkunde`
     Fachgebiet die Erkrankungen der Frau betreffend, inkl. Schwangerschaft und Geburtshilfe.
 
-
 :index:`HNO`
     Hals-, Nasen-, Ohrenkrankheiten
-
 
 :index:`ICU`
     *engl.* :index:`Intensive Care Unit`; :index:`Intensivstation`.
@@ -187,7 +181,6 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
     welche sich eher der Behandlung von Herz-Kreislauferkrankungen
     widmen, und allgemeinen oder anästhesiologischen Intensivstationen,
     mit meist eher chirurgischen Patienten.
-
 
 :index:`Innere Medizin`
     *Syn.* *Interne Medizin*. Die Innere Medizin befasst sich mit der
@@ -202,18 +195,14 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
     *Pneumologie* (*Syn.* *Pulmologie*, Lunge, eigenes Sonderfach),
     *Rheumatologie* (entzündliche Erkrankungen des Bewegungsapparates).
 
-
 :index:`Neurologie`
     Fachgebiet der Medizin, welches sich mit der Erforschung, Diagnostik
     und Behandlung von Erkrankungen des *Nervensystems* und der
     Muskulatur befasst.
 
-
 :index:`Nuklearmedizin`
     Fachgebiet, welches die Anwendung radioaktiver Substanzen und
     offener Radionuklide zur Diagnostik und Therapie umfasst.
-
-
 
 :index:`Onkologie`
     Fachgebiet, welches sich mit der Erkennung, Diagnostik, Therapie und
@@ -221,17 +210,14 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
     Onkologie an sich ist ein Teilgebiet der Inneren Medizin, meist ist
     jedoch eine fachübergreifende Behandlung notwendig.
 
-
 :index:`Pädiatrie`
     *Kinderheilkunde*, zuständig für Patienten bis zur Vollendung des
     18. Lebensjahres.
-
 
 :index:`PCI`
     *Abkz.* *Perkutane Coronar-Intervention*,
     auch: :index:`PTCA`
     *Abkz.* *Perkutane Transluminale Coronar-Angiographie*; Herzkatheterbehandlung, Herzkatheteruntersuchung
-
 
 :index:`Psychiatrie`
     Die Psychiatrie beschäftigt sich mit der Prävention, Diagnostik und
@@ -244,29 +230,23 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 
         — Otto Pötzl, nach [Torberg:DEDTJ]_
 
-
 :index:`Pulmologie`
      *Syn.* Pneumologie. Lungenheilkunde
-
 
 :index:`Radiologie`
     Fachgebiet, welches die *Bildgebung* mittels verschiedener Verfahren
     ermöglicht. Die Bildgebung kann auch zu therapeutischen Zwecken
     genutzt werden (interventionelle Radiologie).
 
-
 :index:`Stroke Unit`
     Spezialstation zur Behandlung von *Schlaganfällen*
-
 
 :index:`Toxikologie`
     Lehre der Vergiftungen und Giftstoffe
 
-
 :index:`Unfallchirugie` und :index:`Traumatologie`
     Lehre und Fachgebiet der Medizin, welches sich mit Unfällen und
     Verletzungen beschäftigt.
-
 
 :index:`Urologie`
     Heilkunde des harnableitenden Systems
@@ -282,22 +262,17 @@ Sonstige Begriffe
 
     #. Stoßweise Verabreichung eines Medikaments (intravenös)
 
-
 :index:`Cave`
     "Achtung!", "Hüte Dich!"
 
-
-:index:`Obstruktion`, :index:`Verlegung`
-    Verlegung, Verengung. z. B. im Rahmen der
+:index:`Obstruktion`,
+    :index:`Verlegung`,  Verengung. z. B. im Rahmen der
     :ref:`COPD <Thema-copd>`.
-
-
 
 :index:`Pathologie`, :index:`pathologisch`, :index:`Patho-`
     Lehre von den Krankheiten. Als pathologisch wird alles Krankhafte
     bezeichnet. Die Vorsilbe "Patho" weist auf etwas Abnormales,
     Krankhaftes hin.
-
 
 :index:`Zyanose`
     Blaufärbung der Haut aufgrund eines mangelnden Sauerstoffgehaltes
@@ -314,56 +289,54 @@ systematische Terminologie verwendet. Die einschlägigen Bezeichnungen
 sind auch regelmäßig in Arzt- und Entlassungsbriefen anzutreffen.
 
 
-
-
 :index:`lateral`
-    *Abk.* lat.; seitlich
-
-
+    Abk. *lat.*; seitlich
 
 :index:`medial`
-    *Abk.* med.; mittig
-
-
+    Abk. *med.*; mittig
 
 :index:`dorsal`
     rückenwärts
 
-
-
 :index:`ventral`
     bauchwärts
-
-
 
 :index:`cranial`
     kopfwärts
 
-
-
 :index:`caudal`
     fußwärts (eigentlich: schwanzwärts)
 
-
-
 :index:`distal`
-    *Abk.* dist.; körperfern
-
-
+    Abk. *dist.*; körperfern
 
 :index:`proximal`
-    *Abk.* prox.; körpernah
-
-
+    Abk. *prox.*; körpernah
 
 :index:`dexter`, -tra, trum
-    *Abk.* dext.; rechts
-
-
+    Abk. *dext.*; rechts
 
 :index:`sinister`, -tra, trum
-    *Abk.* sin.; links
+    Abk. *sin.*; links
+
+:index:`anterior`
+    Abk. *ant.*; davor liegend
+
+:index:`posterior`
+    Abk. *post;* dahinter liegend
+
+:index:`superior`
+    Abk. *sup.*; darüber liegend
+
+:index:`inferior`
+    Abk. *inf.; darunter liegend
+
+:index:`superficial`
+    Abk. *superfic.*; oberflächlich
+
+:index:`profund`
+    Abk. *prof.*; tief
 
 .. note::
-   Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer
-   auf die betreffende Person (Patienten)!
+    Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer
+    auf die betreffende Person (Patienten)!

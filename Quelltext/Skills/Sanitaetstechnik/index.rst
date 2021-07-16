@@ -1360,7 +1360,7 @@ Material und Personal
 
 .. [#159]
    Druckverband: Unter Umständen ist die Verwendung von flexiblen
-   Verbandsmaterial (z. B. PehaHaft) ausreichend bzw. je nach
+   Verbandsmaterial (z. B. PehaHaft™) ausreichend bzw. je nach
    Wundlokalisation zu bevorzugen.
 
 Vorgehen

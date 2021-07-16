@@ -28,7 +28,7 @@ Patienten und Angehörigen Rechnung zu tragen, und andererseits selbst
 mit zum Teil sehr fordernden Situationen und Fragen zurecht zu kommen.
 
 
-.. _Thema-tod:
+.. _tod:
 
 *****************
 Der Tod allgemein
@@ -109,7 +109,7 @@ Totenstarre mit einem tonischen Krampf.
 
 .. _proc-MY51990C:
 .. _m-reanimation-unterlassung:
-.. _Thema-reanimation-unterlassung:
+.. _reanimation-unterlassung:
 
 ******************************
 Unterlassung einer Reanimation
@@ -145,7 +145,7 @@ werden:
     Liegt eine *beachtliche Patientenverfügung* vor, so ist im
     *Einzelfall* zu entscheiden: Das Wohl des Patienten bleibt
     oberstes Gebot und die Verfügung soll in die
-    Entscheidung einfließen. Vgl. :ref:`Thema-patientenverfuegung`.
+    Entscheidung einfließen. Vgl. :ref:`patientenverfuegung`.
 
     Bis zur zweifelsfreien Klärung der Situation muss
     jedenfalls eine Reanimation begonnen bzw. fortgeführt
@@ -167,7 +167,7 @@ werden:
 
 
 
-.. _Thema-sterbende-betreuung:
+.. _sterbende-betreuung:
 
 ***********************************
 Begleitung und Betreuung Sterbender
@@ -208,7 +208,7 @@ durchlaufen werden:
 -   *Verhandeln* … mit dem betreuenden Personal, mit Gott oder generell
     mit dem Schicksal
 -   *Depression*: Traurige, deprimierte Stimmungslage, Verlust des
-    "sinnerfüllten Daseins"; vgl. :ref:`Thema-depression`
+    "sinnerfüllten Daseins"; vgl. :ref:`depression`
 -   *Akzeptanz*:
     Der Patient kann sein Schicksal annehmen, er findet sich
     damit ab.
@@ -218,7 +218,7 @@ unterschiedlichen Zeitpunkten völlig unterschiedlich reagieren kann. Was
 auf den ersten Blick wie "launisches Verhalten" wirkt, ist oft durch die
 Phasen des Sterbeprozesses erklärbar.
 
-.. _Thema-palliativbehandlung-tod:
+.. _palliativbehandlung-tod:
 
 Palliativbehandlung
 ===================
@@ -261,7 +261,7 @@ Transportes. Dennoch gibt es einige Dinge zu bedenken:
     (Essen auf Rädern, Heimhilfe, Angehörige, …) ist.
 -   *Patientenverfügungen*:
     Eventuell vorhandene Patientenverfügungen
-    (verbindliche und beachtliche; Vgl. :ref:`Thema-patientenverfuegung`)
+    (verbindliche und beachtliche; Vgl. :ref:`patientenverfuegung`)
     sollen, wenn vorhanden, mitgenommen werden.
 -   *Eigene Psychohygiene*
 

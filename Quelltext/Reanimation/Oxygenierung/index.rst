@@ -12,7 +12,7 @@ Atemweg freigehalten werden und andererseits einer möglichen Aspiration
 von Mageninhalt, Blut etc. vorgebeugt werden.
 Zum Erreichen dieser Ziele
 gibt es verschiedene Techniken, welche sich bezüglich Aufwand und
-Komplexität deutlich unterscheiden, siehe dazu :ref:`Thema-Airwaymanagement`.
+Komplexität deutlich unterscheiden, siehe dazu :ref:`Airwaymanagement`.
 Es gibt nicht genügend Beweise für
 oder gegen eine spezielle Technik zum *Airwaymanagement* beim
 Kreislaufstillstand, vielmehr ist die Auswahl von der Situation, dem
@@ -32,10 +32,10 @@ Notfalls kann eine Beatmung mittels Mund-zu-Mund-,
 Mund-zu-Nasen- und Mund-zu-Mund/Nasen-Beatmung durchgeführt werden.
 Im professionellen Setting erfolgt eine Beatmung regelhaft mittels Hilfsmittel wie ein Beatmungsbeutel,
 Sauerstoffreservoir und Sauerstoffzufuhr, eine Übersicht der verschiedenen
-Techniken findet sich unter :ref:`Thema-Airwaymanagement`.
+Techniken findet sich unter :ref:`Airwaymanagement`.
 Häufig anzutreffen sind:
 
--   Beutel-Masken-Beatmung (:ref:`Thema-BeutelMaskenBeatmung`)
+-   Beutel-Masken-Beatmung (:ref:`BeutelMaskenBeatmung`)
 -   Beatmung mittels supra-/extraglottischer Atemwegshilfsmittel
 -   Beatmung mittels endotrachealer Intubation
 
@@ -82,7 +82,7 @@ zusätzlich erschwert.
 
 Zum Freihalten der Atemwege ist zusätzlich zum Überstrecken des Kopfes
 ein **Guedel-Tubus** :index:`\ <Guedel-Tubus>`
-(:ref:`Thema-Guedeltubus`) empfehlenswert.
+(:ref:`Guedeltubus`) empfehlenswert.
 
 Erfolglose Beatmungsversuche sollen nicht wiederholt werden.
 
@@ -111,7 +111,7 @@ fehlerhafte Anwendung von Atemwegshilfsmitteln u. a.,
 bedingt oft erhöhte Beatmungsdrücke
 oder macht eine Ventilation überhaupt unmöglich.
 Bei einem *zu niedrigem Atemzugsvolumen* kann es zu einer
-:ref:`Totraumventilation <Thema-Totraumventilation>` kommen.
+:ref:`Totraumventilation <Totraumventilation>` kommen.
 Eine ungenügende Abdichtung der Beatmungsmaske am Gesicht führt zu einer *Leckage*
 und kann zu einem niedrigen Atemzugsvolumen und einem PEEP-Verlust führen.
 Insbesonders bei Bartträgern ist die Abdichtung der Atemmaske am Gesicht oft erschwert.
@@ -271,7 +271,7 @@ Dazu gehören der Larynxtubus und die Larynxmaske.
    einige gewichtige Nachteile und ist in vielen Situationen *nicht die
    Methode der Wahl*.
 
-Der Larynxtubus ist unter :ref:`Thema-Larynxtubus` beschrieben.
+Der Larynxtubus ist unter :ref:`Larynxtubus` beschrieben.
 
 .. subfigstart::
 

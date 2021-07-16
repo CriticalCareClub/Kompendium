@@ -1,6 +1,6 @@
 
-.. _Thema-saeure-basen-haushalt:
-.. _Thema-vitalfunktion-saeure-basen-haushalt:
+.. _saeure-basen-haushalt:
+.. _vitalfunktion-saeure-basen-haushalt:
 
 Säure-/Basenhaushalt
 ========================================================================
@@ -101,7 +101,7 @@ oder Wiederaufnhame von Säure in Form von Wasserstoffionen.
 
 
 
-.. _Thema-bikarbonatpuffer:
+.. _bikarbonatpuffer:
 
 Puffersystem im Blut
 ------------------------------------------------------------------------
@@ -177,7 +177,7 @@ Das CO₂ wird normalerweise über die Lunge abgeatmet. Daraus folgt:
 
 
 
-.. _Thema-azidose-respiratorische:
+.. _azidose-respiratorische:
 
 Atmungsbedingte Übersäuerung (Respiratorische Azidose)
 ------------------------------------------------------------------------
@@ -209,7 +209,7 @@ und folglich zu einer Ansäuerung des Blutes.
 
 
 
-.. _Thema-azidose-metabolische:
+.. _azidose-metabolische:
 
 Stoffwechselbedingte Übersäuerung (Metabolische Azidose)
 ------------------------------------------------------------------------
@@ -239,7 +239,7 @@ Es bestehen die *Symptome der Grunderkrankung*. Weiters fällt eine
 
 
 
-.. _Thema-alkalose-respiratorische:
+.. _alkalose-respiratorische:
 
 Atmungsbedingte (respiratorische) Alkalose
 ------------------------------------------------------------------------
@@ -252,9 +252,9 @@ Bewusstseinsstörungen, Kribbeln in den Fingern, Pfötchenstellung und
 tonische Krämpfe.
 Eine ausführliche Beschreibung des
 *Hyperventilationssyndroms* findet sich unter
-:ref:`Thema-hyperventilationstetanie`.
+:ref:`hyperventilationstetanie`.
 
-.. _Thema-alkalose-metabolische:
+.. _alkalose-metabolische:
 
 Stoffwechselbedingte (metabolische) Alkalose
 ------------------------------------------------------------------------

@@ -27,7 +27,7 @@ Leistenarterien) und an den Hirngefäßen auf. Folgen eines geplatzen
 ein blutiger Insult sein.
 
 
-.. _Thema-Bauchaortenaneurysma:
+.. _Bauchaortenaneurysma:
 
 ***************
 Aortenaneurysma
@@ -104,7 +104,7 @@ ABCDE
     als schneidend und plötzlich einsetzend beschrieben und sind oft
     (aber nicht immer) heftig (*Vernichtungsschmerz*). Bei thorakalen
     Aortenaneurysmen kommt es häufig zu Symptomen eines
-     *Akuten Koronarsyndroms* (ACS, vgl. :ref:`Thema-Acs`).
+     *Akuten Koronarsyndroms* (ACS, vgl. :ref:`Acs`).
 
 Ⓒ
     Je nach Umfang der Blutung kann der Patient völlig *kreislaufstabil*

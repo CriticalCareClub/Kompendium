@@ -35,4 +35,4 @@ starken Säure schützt.
 Nachdem die Wandmuskulatur den Speisebrei mit dem Magensaft
 *durchmischt* hat, gibt der :dfn:`Pylorus` (*Pförtner*)
 den Speisebrei portionsweise an den Dünndarm — genauer: an das
-:ref:`Duodenum <Thema-Duodenum>` — weiter.
+:ref:`Duodenum <Duodenum>` — weiter.

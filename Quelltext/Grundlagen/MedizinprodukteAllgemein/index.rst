@@ -164,41 +164,41 @@ Gebrauchsanleitungen bzw. Herstellerhinweise zu beachten. Allgemeine,
 nicht produktspezifische Informationen finden sich in folgenden
 Abschnitten:
 
--   Absauggeräte :ref:`Thema-absaugung`
+-   :ref:`Absauggeräte <absaugung>`
 -   Beatmungshilfsmittel
 
-    -   Beatmungsbeutel :ref:`Thema-beatmungsbeutel`
-    -   Beatmungsgeräte :ref:`Thema-beatmungsgeraete`
-    -   PEEP-Ventil :ref:`Thema-peep-ventil`
+    -   :ref:`Beatmungsbeutel <beatmungsbeutel>`
+    -   :ref:`Beatmungsgeräte <beatmungsgeraete>`
+    -   :ref:`PEEP-Ventil <peep-ventil>`
 
 -   Berieselungshilfsmittel
 
-    -   Berieselungsbrille :ref:`Thema-berieselungsbrille`
-    -   Berieselungsmaske mit/ohne Reservoir :ref:`Thema-berieselungsmaske`
+    -   :ref:`Berieselungsbrille <berieselungsbrille>`
+    -   :ref:`Berieselungsmaske mit/ohne Reservoir <berieselungsmaske>`
 
--   Sauerstoff :ref:`Thema-sauerstoff`
+-   :ref:`Sauerstoff <sauerstoff>`
 
 -   Geräte zum Retten von Patienten und Schienungsmaterial
 
-    -   Aluminiumkernschiene :ref:`Thema-aluminiumkernschiene`
-    -   HWS-Schiene :ref:`Thema-hws-schiene-beschreibung`
-    -   Rettungskorsett :ref:`Thema-rettungskorsett-beschreibung`
-    -   Schaufeltrage :ref:`Thema-schaufeltrage-beschreibung`
-    -   Spineboard :ref:`Thema-spineboard-beschreibung`
-    -   Vakuummatratze :ref:`Thema-vakuummatratze-beschreibung`
-    -   Vakuumschiene :ref:`Thema-vakuumschiene`
+    -   :ref:`Aluminiumkernschiene <aluminiumkernschiene>`
+    -   :ref:`HWS-Schiene <hws-schiene-beschreibung>`
+    -   :ref:`Rettungskorsett <rettungskorsett-beschreibung>`
+    -   :ref:`Schaufeltrage <schaufeltrage-beschreibung>`
+    -   :ref:`Spineboard <spineboard-beschreibung>`
+    -   :ref:`Vakuummatratze <vakuummatratze-beschreibung>`
+    -   :ref:`Vakuumschiene <vakuumschiene>`
 
 -   Transporthilfsmittel
 
-    -   (Fahr-)Trage :ref:`Thema-fahrtrage`
-    -   Tragering :ref:`Thema-tragering`
-    -   Tragetuch :ref:`Thema-tragetuch-taetigkeit`
-    -   Tragsessel :ref:`Thema-tragsessel`
+    -   :ref:`(Fahr-)Trage <fahrtrage>`
+    -   :ref:`Tragering <tragering>`
+    -   :ref:`Tragetuch <tragetuch-taetigkeit>`
+    -   :ref:`Tragsessel <tragsessel>`
 
 -   Diagnostik und Monitoring
 
-    -   Blutdruckmessung :ref:`Thema-blutdruckmessung`
-    -   Blutzuckermessung :ref:`Thema-blutzucker-messung`
-    -   Pulsoxymetrie :ref:`Thema-pulsoxymetrie`
-    -   Stethoskop :ref:`Thema-stethoskop`
-    -   Temperaturmessung :ref:`Thema-koerpertemperatur-messung`
+    -   :ref:`Blutdruckmessung <blutdruckmessung>`
+    -   :ref:`Blutzuckermessung <blutzucker-messung>`
+    -   :ref:`Pulsoxymetrie <pulsoxymetrie>`
+    -   :ref:`Stethoskop <stethoskop>`
+    -   :ref:`Temperaturmessung <koerpertemperatur-messung>`

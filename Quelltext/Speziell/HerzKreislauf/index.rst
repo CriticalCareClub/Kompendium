@@ -64,7 +64,7 @@ führen kann.
     Kreislaufstillstand/index
 
 .. _sec-herz-kreislauf-stoerungen:
-.. _Thema-herz-kreislauf-stoerungen:
+.. _herz-kreislauf-stoerungen:
 
 
 

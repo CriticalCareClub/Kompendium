@@ -92,8 +92,8 @@ man die ersten drei Teile der Wirbelsäule als
 
 .. rubric:: Querverweise
 
--  Wirbelsäulentrauma: :ref:`Thema-wirbelsaeulentrauma`
--  Bandscheibenvorfall: :ref:`Thema-lumbago`
+-  Wirbelsäulentrauma: :ref:`wirbelsaeulentrauma`
+-  Bandscheibenvorfall: :ref:`lumbago`
 
 Die Wirbel: Aufbau und Arten
 ----------------------------

@@ -1,6 +1,6 @@
 
 
-.. _Thema-Gastrointestinaltrakt:
+.. _Gastrointestinaltrakt:
 
 ##################################################
 Der Gastrointestinaltrakt
@@ -136,4 +136,4 @@ Nervale Versorgung des GI-Trakts (allgemein)
 Die :dfn:`Nervi splanchnici` sind die Nerven des
 vegetativen Nervensystems,
 welche die inneren Organe versorgen
-(vgl. :ref:`Thema-VegetativesNervensystem`).
+(vgl. :ref:`VegetativesNervensystem`).

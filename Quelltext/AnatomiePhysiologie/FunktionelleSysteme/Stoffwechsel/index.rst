@@ -1,5 +1,5 @@
 
-.. _Thema-vitalfunktion-stoffwechsel:
+.. _vitalfunktion-stoffwechsel:
 
 ***************************************
 Der Stoffwechsel
@@ -79,9 +79,9 @@ Stoffwechselsysteme, die ihm zur Verfügung stehen. Man unterscheidet den
     Proteine sind in vielen Bereichen im
     menschlichen Körper unabkömmlich, sie kommen zum Beispiel als
     *Enzyme*
-    (vgl. :ref:`Thema-enzym`),
+    (vgl. :ref:`enzym`),
     *Gerinnungsfaktoren*
-    (vgl. :ref:`Thema-gerinnungsfaktoren`),
+    (vgl. :ref:`gerinnungsfaktoren`),
     Zellmembranbausteine u. a. zum Einsatz.
 
 [Alberts:2001]_ [Loeffler:7]_

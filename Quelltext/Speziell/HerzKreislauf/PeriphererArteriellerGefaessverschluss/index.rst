@@ -1,4 +1,4 @@
-.. _Thema-ArteriellerGefaessverschluss:
+.. _ArteriellerGefaessverschluss:
 
 ##############################################
 Peripherer arterieller Gefäßverschluß (#51)

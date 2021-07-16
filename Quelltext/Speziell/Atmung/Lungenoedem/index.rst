@@ -2,7 +2,7 @@
 .. index::
     single: Lungenödem
 
-.. _Thema-Lungenoedem:
+.. _Lungenoedem:
 
 *********************
 Lungenödem (#37)

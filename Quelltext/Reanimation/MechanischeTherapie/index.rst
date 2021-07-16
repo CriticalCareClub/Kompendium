@@ -187,7 +187,7 @@ Das ERC sieht diese Geräte als sinnvolle Möglichkeit an wenn die Durchführung
 einer anhaltend guten Herzdruckmassage nicht praktikabel ist
 oder die Sicherheit der Helfer gefährdet.
 
-.. _Thema-ReanimationExtrakorporaleVerfahren:
+.. _ReanimationExtrakorporaleVerfahren:
 
 Extrakorporale Verfahren
 ------------------------

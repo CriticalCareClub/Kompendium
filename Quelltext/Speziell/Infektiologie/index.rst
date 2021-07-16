@@ -6,7 +6,7 @@ Infektions- und Entzündungskrankheiten (#63)
 
 
 
-.. _Thema-allergie:
+.. _allergie:
 
 
 ******************************************************
@@ -35,7 +35,7 @@ knochenmarkschädigende Therapien und Allergien ausgeführt:
    einer lokalen Rötung bzw. einem Juckreiz. Je nach Stärke der Allergie
    sowie Dauer und Intensität des Kontakts kann es aber auch zu
    lebensbedrohlichen Zuständen wie dem anaphylaktischen Schock kommen
-   (:ref:`Thema-schock-anaphylaktischer`).
+   (:ref:`schock-anaphylaktischer`).
 
 
 ************************
@@ -43,8 +43,8 @@ Alltägliche Erkrankungen
 ************************
 
 
-.. _Thema-grippe:
-.. _Thema-influenza:
+.. _grippe:
+.. _influenza:
 
 Grippe
 ======
@@ -90,7 +90,7 @@ Wichtige Differentialdiagnosen
 ------------------------------
 
 Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden
-und auf Meningismus-Zeichen geprüft werden (vgl. :ref:`Thema-meningismuszeichen`).
+und auf Meningismus-Zeichen geprüft werden (vgl. :ref:`meningismuszeichen`).
 
 
 Stämme
@@ -177,11 +177,11 @@ Wichtige Differentialdiagnosen
 ------------------------------
 
 Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden
-und auf Meningismus-Zeichen geprüft werden (:ref:`Thema-meningismuszeichen`).
+und auf Meningismus-Zeichen geprüft werden (:ref:`meningismuszeichen`).
 
 
-.. _Thema-lungenentzuendung:
-.. _thema-pneumonie:
+.. _lungenentzuendung:
+.. _pneumonie:
 
 Lungenentzündung (Pneumonie)
 ============================
@@ -237,7 +237,7 @@ Maßnahmen: Pneumonie
 Nicht alltägliche Erkrankungen
 ******************************
 
-.. _thema-tuberkulose:
+.. _tuberkulose:
 
 Tuberkulose
 ===========
@@ -317,8 +317,8 @@ Maßnahmen: Tuberkulose
     -   Desinfektion laut Hygieneplan
 
 
-.. _Thema-hiv:
-.. _Thema-aids:
+.. _hiv:
+.. _aids:
 
 HIV und AIDS
 ============
@@ -391,8 +391,8 @@ wenn auch keinen 100%-igen Schutz dar.
 
 
 
-.. _Thema-hepatitis-toxisch:
-.. _Thema-hepatitis:
+.. _hepatitis-toxisch:
+.. _hepatitis:
 
 Entzündung der Leber: Hepatitis
 ===============================
@@ -435,7 +435,7 @@ Bei einem chronischen Verlauf kommt es zu einem Umbau von
 funktionierendem Lebergewebe zu funktionslosem Bindegewebe. Man spricht
 dann von der
 :index:`\ <! Leberzirrhose>`
-:ref:`Leberzirrhose <Thema-leberzirrhose>`.
+:ref:`Leberzirrhose <leberzirrhose>`.
 Schließlich kann es zu einem Leberversagen und in kurzer Folge zum Tod
 kommen, da die Leber ein überlebenswichtiges Organ ist.
 
@@ -488,7 +488,7 @@ Schutzimpfung.
 Seltene, aber schwere Erkrankungen
 **********************************
 
-.. _Thema-meningitis:
+.. _meningitis:
 
 Infektiöse Meningitis
 =====================
@@ -505,7 +505,7 @@ zumeist Bakterien oder Viren auf. Gefährdet sind grundsätzlich alle
 Altersgruppen, besonders aber Kinder, Jugendliche und alte Menschen.
 
 
-.. _Thema-meningismuszeichen:
+
 .. _Meningismuszeichen:
 
 Symptome
@@ -553,7 +553,7 @@ Maßnahmen: Meningitis
 
 
 
-.. _Thema-Wundstarrkrampf:
+.. _Wundstarrkrampf:
 
 Wundstarrkrampf (Tetanus)
 =========================
@@ -593,7 +593,7 @@ daher nach wie vor groß.
     ₢ Public Health Image Library, ID#: 6373, :term:`ℓ PD`
 
 
-.. _Thema-tetanus-impfschutz:
+.. _tetanus-impfschutz:
 
 Schutzimpfung
 -------------
@@ -618,7 +618,7 @@ Aufklärung muss am Revers bestätigt werden!
         dessen Impfschutz ist grob fahrlässig und ein
         Kunstfehler.
 
-.. _thema-sepsis:
+.. _sepsis:
 
 Sepsis
 ======
@@ -635,7 +635,7 @@ führt. Eine derartige Reaktion des Körpers ist auch ohne Infektion im
 Rahmen eines Systemic Inflammatory Response Syndrome (SIRS) möglich,
 z. B. nach einem schweren Trauma, nach Verbrennungen oder Gewebshypoxie.
 Siehe auch: Septischer Schock und Toxischer Schock
-(:ref:`Thema-schock-septischer`).
+(:ref:`schock-septischer`).
 
 Symptome
 --------

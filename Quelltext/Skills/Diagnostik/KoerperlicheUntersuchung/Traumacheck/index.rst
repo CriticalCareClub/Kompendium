@@ -1,5 +1,5 @@
 
-.. _Thema-Traumacheck:
+.. _Traumacheck:
 
 ########################################################################
 Traumacheck
@@ -13,17 +13,18 @@ Er dient dem raschen Erkennen von
 ersetzt keine vollständige körperliche Untersuchung.
 
 Bei Hinweis auf eine Schädelverletzung ist ein
-:ref:`Neurocheck <Thema-neurocheck>`
+:ref:`Neurocheck <neurocheck>`
 auf jeden Fall erforderlich!
 Teile des Traumachecks werden während des
-:ref:`Einschätzungsblocks <Thema-einschaetzungsblock>`
+:ref:`Einschätzungsblocks <einschaetzungsblock>`
 bei der *Schnellen-Trauma-Untersuchung* (*STU*) durchgeführt.
 Bei vital bedrohten (zeitkritischen) Patienten wird ggfs.
 bewusst *kein vollständiger* Traumacheck durchgeführt
 um nicht unnötig Zeit zu verlieren!
 
-.. _Thema-tupfertest:
-.. _Thema-dms:
+
+
+.. _Tupfertest:
 .. _DMS:
 
 *Vollständiger* Traumacheck

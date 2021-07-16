@@ -1,7 +1,7 @@
 .. index::
     single:: Diagnose
 
-.. _Thema-Diagnose:
+.. _Diagnose:
 
 ##################
 Die Diagnose (#26)

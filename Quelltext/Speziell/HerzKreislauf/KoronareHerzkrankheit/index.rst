@@ -11,7 +11,7 @@
     singke: Vessel disease
     single: Disease; Vessel -
 
-.. _Thema-khk:
+.. _khk:
 
 #############################
 Koronare Herzkrankheit (#49)
@@ -97,10 +97,10 @@ in Erscheinung treten.
 Durch die chronische oder auch akute Unterversorgung des Herzmuskels
 kann es zu einer Reihe von Folgeerkrankungen kommen, wie z. B.:
 
--   :ref:`Herzinsuffizienz <Thema-Herzinsuffizienz>`
+-   :ref:`Herzinsuffizienz <Herzinsuffizienz>`
     durch eine ischämische Kardiomyopathie
 -   Angina pectoris
--   :ref:`Akutes Koronarsyndrom <Thema-Acs>`
+-   :ref:`Akutes Koronarsyndrom <Acs>`
     bedingt durch einen Herzinfarkt
     oder eine instabile Angina pectoris
 
@@ -173,7 +173,7 @@ SAMPLER: KHK
 
 
 
-.. _Thema-angina-pectoris:
+.. _angina-pectoris:
 
 Angina pectoris (AP)
 =====================
@@ -217,9 +217,9 @@ mit Absterben von Herzmuskelgewebe kommt.
 
 
 
-.. _Thema-herzinfarkt:
-.. _Thema-myocardinfarkt:
-.. _Thema-mci:
+.. _herzinfarkt:
+.. _myocardinfarkt:
+.. _mci:
 .. _Myokardinfarkt:
 
 Herzinfarkt (Myokardinfarkt, MCI)
@@ -236,7 +236,7 @@ Herzinfarkt (Myokardinfarkt, MCI)
 
 Verschluss eines oder mehrerer Herzkranzgefäße
 mit anschließendem Absterben des betroffenen Herzmuskelgewebes
-(Ischämie, :ref:`Thema-ischaemie`).
+(Ischämie, :ref:`ischaemie`).
 Die Symptome entsprechen denen des akuten Koronarsyndroms,
 doch vergehen diese nicht mehr und es bleiben
 – selbst bei optimaler Behandlung –
@@ -338,7 +338,7 @@ KHK akut: Akutes Koronarsyndrom
 
 Die akute Ausformung der koronaren Herzkrankheit
 wird unter dem Symptomenkomplex des
-:ref:`akuten Koronarsyndroms (Acute Coronary Syndrome, ACS) <Thema-Acs>`
+:ref:`akuten Koronarsyndroms (Acute Coronary Syndrome, ACS) <Acs>`
 zusammengefasst,
 zu Symptomen und Therapie siehe ebendort.
 

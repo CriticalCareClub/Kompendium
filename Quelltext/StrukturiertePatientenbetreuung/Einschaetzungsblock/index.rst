@@ -1,9 +1,8 @@
 
 
-.. _Thema-Einschaetzungsblock:
+.. _Einschaetzungsblock:
 .. _m-ersteinschaetzung:
 .. _m-einschaetzungsblock:
-.. _Einschaetzungsblock:
 
 ##############################
 Einschätzungsblock: 1234–ABCDE

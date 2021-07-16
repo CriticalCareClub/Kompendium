@@ -6,8 +6,8 @@
     single: PE
     single: Pulmonalembolie
 
-.. _thema-lungenembolie:
-.. _Thema-Pulmonalembolie:
+.. _lungenembolie:
+.. _Pulmonalembolie:
 
 **************************
 Pulmonalembolie (#39)
@@ -131,7 +131,7 @@ ABCDE: Pulmonalembolie
     Je nach Ursache der Embolie und Herkunft des Embolus kann man
     Zeichen anderer Krankheitsbilder wahrnehmen: Bei einer *tiefen
     Beinvenenthrombose* ist ein Bein geschwollen, überwärmt,
-    rot/rot-bläulich verfärbt und schmerzhaft (:ref:`Thema-thrombose`).
+    rot/rot-bläulich verfärbt und schmerzhaft (:ref:`thrombose`).
 
 ``=``
     Bei |symbol-RedFlag|\  anhaltender Atemnot oder |symbol-RedFlag|\

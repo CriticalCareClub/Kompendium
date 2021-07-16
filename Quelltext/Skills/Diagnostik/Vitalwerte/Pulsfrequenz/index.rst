@@ -24,14 +24,14 @@ man spricht andernfalls vom *Pulsdefizit*.
 .. [#EMHerzaktion]
     Man unterscheidet zwischen einer
     elektrischen und mechanischen Herzaktionen
-    (vgl. :ref:`Thema-herz`).
+    (vgl. :ref:`herz`).
 
 
 
 .. index::
     single: Puls; palpatorische Messung
 
-.. _thema-pulsmessung:
+.. _pulsmessung:
 
 Palpatorische Messung der Pulsfrequenz
 ===========================================================

@@ -7,7 +7,7 @@ Vergiftungen (`#72 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-
 
 
 
-.. _Thema-vergiftung:
+.. _vergiftung:
 
 ************
 Beschreibung
@@ -180,7 +180,7 @@ der körperlichen Untersuchung und des Bewusstseinszustandes zu
 beurteilen.
 
 Der Alkoholentzug und das Entzugsdelir wird unter
-:ref:`Thema-alkohol-entzug`, abgehandelt.
+:ref:`alkohol-entzug`, abgehandelt.
 
 .. _MT51001C:
 .. _m-intoxikation-alkohol:
@@ -626,7 +626,7 @@ Maßnahmen: Vergiftung mit Reizgasen
     -   Wenn erforderlich: Absperrmaßnahmen durchführen
     -   Wenn erforderlich:  Spezialkräfte anfordern
     -   Vorgehen analog zu Abschnitt "Gefahrengutunfall"
-        (:ref:`Thema-gefahrengutunfall`)
+        (:ref:`gefahrengutunfall`)
     -   Weitere Opfer ausschließen (lassen):
         Nachbarwohnungen, etc
     -   Sicherung der Vitalfunktionen, Beurteilung ob der
@@ -648,7 +648,7 @@ Gesundheitseinrichtungen. Daher kurz und bündig: Hier müssen
 Spezialisten beigezogen werden.
 
 Wichtig ist, auf Selbst- und Fremdschutz zu achten (Absperrmaßnahmen!
-Abstand halten! Wind beachten!), vgl. auch :ref:`Thema-gefahrengutunfall`.
+Abstand halten! Wind beachten!), vgl. auch :ref:`gefahrengutunfall`.
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/schild-atemschutzmaske-abnehmen.*
@@ -659,13 +659,13 @@ Abstand halten! Wind beachten!), vgl. auch :ref:`Thema-gefahrengutunfall`.
 Wovon man nicht trinken sollte …
 ********************************
 
-.. _thema-veraetzung-intoxikation:
+.. _veraetzung-intoxikation:
 
 Einnahme von Säuren und Laugen
 ==============================
 
 Verletzungen der Haut und Augen durch Säuren und Laugen werden unter
-:ref:`Thema-veraetzung-trauma` besprochen.
+:ref:`veraetzung-trauma` besprochen.
 
 Beschreibung
 ------------

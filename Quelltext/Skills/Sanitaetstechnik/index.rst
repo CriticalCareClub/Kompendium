@@ -10,7 +10,7 @@ spezielle Maßnahmen der Sanitätshilfe.
 
 
 
-.. _thema-hygienische-haendedesinfektion:
+.. _hygienische-haendedesinfektion:
 
 ***********************************************************************
 Hygienische Händedesinfektion
@@ -139,7 +139,7 @@ zeitraubend ist.
 
 
 
-.. _Thema-tragering:
+.. _tragering:
 
 Tragering
 ========================================================================
@@ -188,8 +188,8 @@ Technik eignet sich nur für kurze Distanzen.
 
 
 
-.. _Thema-bergetuch:
-.. _Thema-tragetuch-taetigkeit:
+.. _bergetuch:
+.. _tragetuch-taetigkeit:
 
 Tragetuch
 ========================================================================
@@ -301,7 +301,7 @@ wird immer mit den *Füßen voran* getragen.
 
 
 
-.. _Thema-tragsessel:
+.. _tragsessel:
 
 Tragsessel
 ========================================================================
@@ -328,7 +328,7 @@ Stiegen hat der Patient immer *talwärts* zu blicken.
 
 
 
-.. _Thema-Fahrtrage:
+.. _Fahrtrage:
 
 Umgang mit Krankentragen
 ========================================================================
@@ -369,7 +369,7 @@ Gefahr des seitlichen Kippens besteht.
 Lagerung
 ********
 
-.. _Thema-lagerungsarten:
+.. _lagerungsarten:
 
 Lagerungsarten
 ==============
@@ -489,11 +489,11 @@ Manuelle Traumatechniken
 
 .. rubric:: Querverweise
 
--   Traumacheck: :ref:`Thema-traumacheck`.
+-   Traumacheck: :ref:`traumacheck`.
 
 
 
-.. _Thema-hws-stabilisierung-manuell:
+.. _hws-stabilisierung-manuell:
 
 Helmabnahme und manuelle HWS-Stabilisierung
 ===========================================
@@ -511,6 +511,7 @@ Material und Personal
 
     -   Ⓐ *Hinterer* Helfer
     -   Ⓑ *Seitlicher* Helfer
+
 
 
 Vorgehen
@@ -549,7 +550,7 @@ Vorgehen
     Kopf wird in Neutralposition stabilisiert. [#153]_
 
 #.  Ⓑ legt eine HWS-Schiene an
-    (:ref:`Thema-hws-schiene-anlegen`).
+    (:ref:`hws-schiene-anlegen`).
 
 
 
@@ -653,13 +654,13 @@ Vorgehen
 
 
 
-.. _Thema-schienungsmaterial:
+.. _schienungsmaterial:
 
 *******************************
 Ruhigstellung mittels Schienung
 *******************************
 
-.. _Thema-hws-schiene-beschreibung:
+.. _hws-schiene-beschreibung:
 
 HWS-Immobilisationsschiene
 =====================================
@@ -690,7 +691,7 @@ welchen sich die gewünschte vorher abgemessene Größe einstellen lässt
 
 
 
-.. _thema-hws-schiene-anlegen :
+.. _hws-schiene-anlegen :
 
 Material und Personal
 ---------------------
@@ -744,8 +745,8 @@ Siehe auch Bilderserie :ref:`Figure-Figure-helmabnahme-hws-schiene`.
 .. index::
    single: Schaufeltrage
 
-.. _Thema-schaufeltrage-handhabung:
-.. _Thema-schaufeltrage-beschreibung:
+.. _schaufeltrage-handhabung:
+.. _schaufeltrage-beschreibung:
 
 Schaufeltrage
 =============
@@ -776,19 +777,19 @@ bei der eine Wirbelsäulenverletzung ausgeschlossen werden kann.
 Die Schaufeltrage kann vielfältig eingesetzt werden:
 
 -   Retten und Aufschaufeln eines Patienten
-    (:ref:`Thema-schaufeltrage-aufschaufeln`)
--   Umlagern eines Patienten (:ref:`Thema-schaufeltrage-umlagern`)
+    (:ref:`schaufeltrage-aufschaufeln`)
+-   Umlagern eines Patienten (:ref:`schaufeltrage-umlagern`)
 -   Immobilisation direkt auf der Schaufeltrage (manche Modelle)
-    (:ref:`Thema-schaufeltrage-immobilisation`)
+    (:ref:`schaufeltrage-immobilisation`)
 
 .. note::
 
-    Das :ref:`Spineboard <Thema-spineboard-beschreibung>` ist in vielen Fällen
+    Das :ref:`Spineboard <spineboard-beschreibung>` ist in vielen Fällen
     eine Alternative zur Schaufeltrage [Campbell:2010:De]_ [PHTLS:6]_.
 
 
 
-.. _Thema-schaufeltrage-aufschaufeln:
+.. _schaufeltrage-aufschaufeln:
 
 Aufschaufeln mittels Schaufeltrage
 ----------------------------------
@@ -850,7 +851,7 @@ Vorgehen
 
 
 
-.. _Thema-schaufeltrage-umlagern:
+.. _schaufeltrage-umlagern:
 
 Umlagern mittels Schaufeltrage
 ------------------------------
@@ -859,17 +860,17 @@ Material und Personal
 ^^^^^^^^^^^^^^^^^^^^^
 
 -   Mind. 2 Helfer
--   Patient auf Schaufeltrage (:ref:`Thema-schaufeltrage-aufschaufeln`)
+-   Patient auf Schaufeltrage (:ref:`schaufeltrage-aufschaufeln`)
 
 Vorgehen
 ^^^^^^^^
 
-#.  Patient liegt, wie unter :ref:`Thema-schaufeltrage-aufschaufeln`,
+#.  Patient liegt, wie unter :ref:`schaufeltrage-aufschaufeln`,
     beschrieben, auf der Schaufeltrage.
 
 #.  Umlagern, z. B. auf Vakuummatratze:
     Trage mit vorbereiteter
-    :ref:`Vakuummatratze <Thema-vakuummatratze-anwendung>` neben Patienten stellen,
+    :ref:`Vakuummatratze <vakuummatratze-anwendung>` neben Patienten stellen,
     um diesen einen möglichst geringen Weg tragen/bewegen zu müssen.
 
 #.  Gurte öffnen und entfernen.
@@ -877,7 +878,7 @@ Vorgehen
 #.  Hälften trennen: beide Schnappverschlüsse öffnen
 
 #.  Hälften parallel zum Patienten flach wegziehen. Der Patient soll
-   hierbei nicht bewegt werden!
+    hierbei nicht bewegt werden!
 
 #.  Sollten die Schnappschlösser klemmen, kann man die Trage wie bei der
     Scherentechnik an nur einer Seite öffnen und in V-Form (gleichzeitig,
@@ -885,7 +886,7 @@ Vorgehen
 
 
 
-.. _Thema-schaufeltrage-immobilisation:
+.. _schaufeltrage-immobilisation:
 
 Immobilisation auf der Schaufeltrage
 ------------------------------------
@@ -917,13 +918,13 @@ Material und Personal
 -   Schaufeltrage mit Zulassung zur Immobilisation von Patienten
 -   Passende Kopfstützen
 -   Passendes Gurtsystem zur Immobilisation (z. B. Ferno *Fastrap Quick
-    Restraint System*, :ref:`Thema-spiderstraps-beschreibung`)
--   Patient auf Schaufeltrage (:ref:`Thema-schaufeltrage-aufschaufeln`)
+    Restraint System*, :ref:`spiderstraps-beschreibung`)
+-   Patient auf Schaufeltrage (:ref:`schaufeltrage-aufschaufeln`)
 
 Vorgehen
 ^^^^^^^^
 
-#.  Patient liegt, wie unter :ref:`Thema-schaufeltrage-aufschaufeln`,
+#.  Patient liegt, wie unter :ref:`schaufeltrage-aufschaufeln`,
     beschrieben, auf der Schaufeltrage.
 #.  Gurtsystem und Kopfstützen wie vom Hersteller beschrieben anbringen.
 
@@ -941,8 +942,8 @@ Vorgehen
 .. index::
    single: Vakuummatratze
 
-.. _Thema-vakuummatratze-beschreibung:
-.. _Thema-vakuummatratze-anwendung:
+.. _vakuummatratze-beschreibung:
+.. _vakuummatratze-anwendung:
 
 Vakuummatratze
 ==============
@@ -1001,7 +1002,7 @@ Vorgehen
     Tragetuch auf die Matratze legen.
 
 #.  Angegurteten Patienten mit Schaufeltrage auf die Vakuummatratze
-    legen, Schaufeltrage entfernen (:ref:`Thema-schaufeltrage-handhabung`).
+    legen, Schaufeltrage entfernen (:ref:`schaufeltrage-handhabung`).
 
 #.  *Absaugen* mit Absauggerät, dabei zügig Matratze an den Patienten
     *anpassen*. Besonderes Augenmerk gilt der Fixierung der verletzten
@@ -1023,7 +1024,7 @@ Vorgehen
 .. index::
    single: Spindeboard
 
-.. _Thema-spineboard-beschreibung:
+.. _spineboard-beschreibung:
 
 Spineboard
 ==========
@@ -1047,8 +1048,8 @@ eingesetzt und erfährt auch hierzulande immer größere Verbreitung.
 Gurtsysteme für Schaufeltrage und Spineboards
 ===============================================
 
-.. _Thema-spiderstraps-beschreibung:
-.. _Thema-fastrap-beschreibung:
+.. _spiderstraps-beschreibung:
+.. _fastrap-beschreibung:
 
 Ferno Fastrap Quick Restraint System™
 -------------------------------------
@@ -1078,7 +1079,7 @@ auch mit einem Spineboard verwendet werden. [#158]_
    single: KED™
    single: Kendrick Extrication Device™
 
-.. _Thema-rettungskorsett-beschreibung:
+.. _rettungskorsett-beschreibung:
 
 Rettungskorsett
 ---------------
@@ -1114,7 +1115,7 @@ Vorgehen
 ^^^^^^^^
 
 #.  Patient aufsuchen und sofort HWS-Schiene anlegen.
-    (:ref:`Thema-hws-schiene-anlegen`)
+    (:ref:`hws-schiene-anlegen`)
 
 #.  Ein Helfer stabilisiert von nun an am besten von hinten den Kopf um
     seitliche Bewegungen des Kopfes zu vermeiden.
@@ -1152,18 +1153,18 @@ Vorgehen
     kann mittels der 3 am Korsett angebrachten Griffe gehoben werden.
 
 #.  Sanftes Umlagern auf die vorbereitete Vakuummatratze
-    (:ref:`Thema-vakuummatratze-anwendung`).
+    (:ref:`vakuummatratze-anwendung`).
 
 #.  Beingurte leicht lockern.
 
 #.  Den obersten Bauchgurt öffnen.
 
 #.  Vakuummatratze anformen und sichern
-    (:ref:`Thema-vakuummatratze-anwendung`).
+    (:ref:`vakuummatratze-anwendung`).
 
 
 
-.. _Thema-vakuumschiene:
+.. _vakuumschiene:
 
 Vakuumschiene
 =============
@@ -1174,7 +1175,7 @@ Unterarmschienen, wobei letztere kaum eingesetzt werden, da sie
 gegenüber eines Armtragetuches wenig Vorteile bieten.
 
 
-.. _Thema-vacuumbeinschiene-beschreibung:
+.. _vacuumbeinschiene-beschreibung:
 
 Vakuumbeinschiene
 -----------------
@@ -1186,7 +1187,7 @@ ruhiggestellt werden, da sie das Hüftgelenk nicht schient
 
 
 
-.. _thema-vacuumbeinschiene-anwendung:
+.. _vacuumbeinschiene-anwendung:
 
 Material und Personal
 ^^^^^^^^^^^^^^^^^^^^^
@@ -1245,16 +1246,16 @@ Vorgehen
 #. Fertig abgesaugt: Ventil schließen, Absauggerät abschalten.
 
 #. Nochmalige Kontrolle von Durchblutung, Motorik und Sensibilität (DMS)
-   an der betroffenen Extremität (:ref:`Thema-dms`).
+   an der betroffenen Extremität (:ref:`dms`).
 
 Die Schiene soll bretthart sein, das Bein leicht auf Zug fixiert. Der
 Fuß soll weder seitlich noch zum Körper hin/vom Körper weg beweglich
 sein.
 
 
-.. _Thema-aluminiumkernschiene:
-.. _Thema-schienung-arm:
-.. _Thema-sam-splint-beschreibung:
+.. _aluminiumkernschiene:
+.. _schienung-arm:
+.. _sam-splint-beschreibung:
 
 Aluminiumkernschiene
 ====================

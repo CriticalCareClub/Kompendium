@@ -6,7 +6,7 @@ Psychiatrie (#68)
 
 
 
-.. _Thema-unterbringungsgesetz:
+.. _unterbringungsgesetz:
 
 ***********
 Allgemeines
@@ -105,7 +105,7 @@ Krankheitsbilder und Symptome notwendig, sowie ein allgemeines
 Verständnis über den Umgang mit psychiatrischen Patienten.
 
 
-.. _Thema-umgang-psy:
+.. _umgang-psy:
 
 ************************************
 Umgang mit psychiatrischen Patienten
@@ -124,7 +124,7 @@ Haltung gegenüber dem Patienten
 ===============================
 
 Dementsprechend gelten grundsätzlich auch die gleichen Regeln für die
-Gesprächsführung wie sie unter :ref:`Thema-kommunikationsregeln` besprochen
+Gesprächsführung wie sie unter :ref:`kommunikationsregeln` besprochen
 wurden. Der Patient verdient den gleichen Respekt und die gleiche
 Wertschätzung wie ein körperlich Erkrankter.
 
@@ -306,8 +306,8 @@ Maßnahmen: Unruhiger oder aggressiver Patient
     -   Selbstschutz, Fluchtweg offen halten
 
 
-.. _Thema-suizidalität:
-.. _Thema-suizid1:
+.. _suizidalität:
+.. _suizid1:
 
 Suizidalität
 ============
@@ -354,13 +354,13 @@ Der unmittelbar eigen- oder fremdgefährdende Patient
 
 .. rubric:: Querverweise
 
--   Unterbringung: :ref:`Thema-unterbringung-jus`
+-   Unterbringung: :ref:`unterbringung-jus`
 
 ****************
 Krankheitsbilder
 ****************
 
-.. _Thema-psychose:
+.. _psychose:
 
 Psychose
 ========
@@ -385,11 +385,11 @@ werden!
     *   -   Akute organische Pschosen
         -   -   Delir
 
-                z. B. Alkoholentzugsdelir (:ref:`Thema-alkoholentzugsdelir`)
+                z. B. Alkoholentzugsdelir (:ref:`alkoholentzugsdelir`)
             -   Dämmerzustand
             -    Durchgangssysndrom
 
-                z. B. :ref:`Thema-durchgangssyndrom`
+                z. B. :ref:`durchgangssyndrom`
     *   -   Chronische organische Psychosen
         -   -   frühkindliches organisches Psychosyndrom
             -   Hirndiffuses Psychosyndrom
@@ -433,8 +433,8 @@ Tagesverfassung abhängig. Klassisch ist eine
 psychomotorische *Unruhe* und *Aggressivität*.
 
 
-.. _Thema-manie:
-.. _Thema-depression:
+.. _manie:
+.. _depression:
 
 Depression und Manie
 ====================
@@ -476,7 +476,7 @@ Freude, Früherwachen, Morgentief, deutliche psychomotorische Hemmung,
 Agitiertheit, Appetitverlust, Gewichtsverlust und Libidoverlust.
 Abhängig von Anzahl und Schwere der Symptome ist eine depressive Episode
 als leicht, mittelgradig oder schwer zu bezeichnen [ICD10De]_. Im schweren Fällen kann es zum Übergang in ein
-*suizidales Syndrom* kommen (:ref:`Thema-suizidalität`).
+*suizidales Syndrom* kommen (:ref:`suizidalität`).
 
 Die Episoden können regelmäßig wiederkommen (rezidivierende depressive
 Störung). Die erste Episode kann in jedem Alter zwischen Kindheit und
@@ -487,7 +487,7 @@ reicht von wenigen Wochen bis zu vielen Monaten.
 Alkohol- und Drogenentzug
 =========================
 
-.. _Thema-alkohol-entzug:
+.. _alkohol-entzug:
 
 Symptome
 --------
@@ -508,8 +508,8 @@ Anamnese
 -  kürzlich pflegebedürftig geworden
 -  …
 
-.. _Thema-alkoholentzugsdelir:
-.. _Thema-durchgangssyndrom:
+.. _alkoholentzugsdelir:
+.. _durchgangssyndrom:
 
 Entzugsdelir und Durchgangssyndrom
 ----------------------------------

@@ -1,7 +1,7 @@
 
 
-.. _Thema-wasser-elektrolythaushalt:
-.. _Thema-vitalfunktion-wasserhaushalt:
+.. _wasser-elektrolythaushalt:
+.. _vitalfunktion-wasserhaushalt:
 
 Wasser- und Elektrolythaushalt
 ========================================================================
@@ -40,9 +40,9 @@ Zellmembran getrennt, der Zwischengewebsraum vom Gefäßraum durch die
 Blutgefäßwand.
 
 
-.. _Thema-atome:
-.. _Thema-ionen:
-.. _Thema-elektrolyte:
+.. _atome:
+.. _ionen:
+.. _elektrolyte:
 
 Atome, Ionen und Elektrolyte
 ------------------------------------------------------------------------
@@ -57,7 +57,7 @@ Kalium (K⁺),
 Kalzium (Ca⁺⁺) und
 Chlorid (Cl⁻).
 Wenn die Ionen in Wasser gelöst sind,
-heißen sie :dfn:`Elektrolyte`\ [#Elektrolyte]_
+heißen sie :dfn:`Elektrolyte`\ [#fnElektrolyte]_
 Man
 unterscheidet dabei zwischen
 positiv geladenen Teilchen,
@@ -71,7 +71,7 @@ geladenen Teilchen,
 den *Anionen*
 (z. B. Chlorid (Cl⁻)).
 
-.. [#Elektrolyte]
+.. [#fnElektrolyte]
     Elektrolyte sind geladene Teilchen,
     die bei Aufspaltung von Säuren,
     Laugen oder deren Salzen in wässriger Lösung entstehen.
@@ -136,8 +136,7 @@ für die Nerven und den Muskel wichtig.
     wäre innen der Minuspol und außen der Pluspol.
 
 
-.. _Thema-osmose:
-.. _Thema-diffusion:
+
 .. _Osmose:
 .. _Diffusion:
 
@@ -236,8 +235,8 @@ Zu solchen Verteilungsstörungen kann es z. B. nach einer Blutwäsche
    die die Ionen zwischen den intra- und extrazelluärraum befördern.
 
 
-.. _Thema-elektrolytstoerungen:
-.. _Thema-dialyse-elektrolyte:
+.. _elektrolytstoerungen:
+.. _dialyse-elektrolyte:
 
 Häufige Ursachen von Elektrolytstörungen
 ------------------------------------------------------------------------

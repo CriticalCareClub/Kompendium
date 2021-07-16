@@ -42,7 +42,7 @@ Erhebung einer exakten *Stuhlanamnese*:
 Der Patient muss bis zur endgültigen Klärung der Situation *nüchtern*
 belassen werden! Wenn es der Patient toleriert, muss eine Betrachtung
 und Abtastung des Abdomens beim liegenden Patienten erfolgen wie unter
-:ref:`Thema-untersuchung-abdomen-abtasten` beschrieben.
+:ref:`untersuchung-abdomen-abtasten` beschrieben.
 
 
 Der Bauch – unendliche Weiten
@@ -101,7 +101,7 @@ rechten Oberbauch seit gestern.
 Häufige und gut erkennbare Erkrankungen
 ***************************************
 
-.. _thema-akutes-abdomen:
+.. _akutes-abdomen:
 
 Das Akute Abdomen
 =================
@@ -211,7 +211,7 @@ Maßnahmen: Akutes Abdomen
 Darmverschluss (Ileus)
 ======================
 
-.. _Thema-ileus:
+.. _ileus:
 
 Als :dfn:`Ileus` (*Darmverschluss*)
 :index:`\ <! Darmverschluss>`
@@ -294,7 +294,7 @@ Unterbauch* wandert. Übelkeit, Brechreiz und Verstopfung können das
 Krankheitsbild begleiten. Meist ist die Körpertemperatur bis 38 leicht
 erhöht. Unbehandelt kann es zu einer Eiterung und einem *Durchbruch* in
 die Bauchhöhle, einer anschließenden Bauchfellentzündung und einem
-akuten Abdomen kommen (:ref:`Thema-akutes-abdomen`).
+akuten Abdomen kommen (:ref:`akutes-abdomen`).
 Der Verlauf einer akuten Appendizitis ist jeweils durch individuelle Faktoren wie Lebensalter und
 Allgemeinzustand des Patienten geprägt.
 Nicht selten sind die Symptome
@@ -326,7 +326,7 @@ Gallenkolik
 Eine :dfn:`Gallenkolik` :index:`\ <! Gallenkolik>`
 zeichnet sich durch kolikartige
 Schmerzen infolge einer Blockade der Gallenwege z. B. durch Gallensteine
-aus. Vgl. Kolik: :ref:`Thema-kolik`.
+aus. Vgl. Kolik: :ref:`kolik`.
 Gallensteine verursachen eine
 Verstopfung des Gallengangs und folglich einen Rückstau von
 Gallenflüssigkeit in die Leber. Dabei wird der Gallengang gedehnt und es
@@ -386,7 +386,7 @@ Maßnahmen: Gallenkolik
 
 
 
-.. _Thema-gastrointestinale-blutung:
+.. _gastrointestinale-blutung:
 
 Gastrointestinale Blutungen und Ösophagusvarizenblutung
 =======================================================
@@ -404,7 +404,7 @@ Unterscheidung nach der Stelle der Blutung ist wesentlich:
 -   Blutungen im *oberen Teil* des Verdauungstraktes können durch
     *Ösophagusvarizen*
     verursacht werden: Bei Patienten mit einer fortgeschrittenen
-    Lebererkrankung (Leberzirrhose, :ref:`Thema-leberzirrhose`) kann es zur
+    Lebererkrankung (Leberzirrhose, :ref:`leberzirrhose`) kann es zur
     Bildung von krampfaderartigen Gefäßerweiterungen in der Speiseröhre
     kommen. Diese Gefäße können massive Blutungen verursachen, die
     tödlich enden können. Auch Blutungen im Rahmen eines Magengeschwürs
@@ -481,12 +481,12 @@ Maßnahmen: Blutungen des Verdauungstrakts
     -   Allgemeine Maßnahmen der Schockbekämpfung
         (:ref:`m-am-schock`)
     -   Ggfs. spezielle Maßnahmen bei hypovolämischem Schock
-        (:ref:`Thema-schock-hypovolaemischer`)
+        (:ref:`schock-hypovolaemischer`)
 
 
 
 
-.. _Thema-lebensmittelvergiftung:
+.. _lebensmittelvergiftung:
 
 Magen-Darm-Grippe, Gastroenteritis, Lebensmittelvergiftung
 ==========================================================
@@ -534,7 +534,7 @@ Klassische Zeichen einer Magen-Darm-Grippe sind Erbrechen ( *Emesis*)
 und Durchfall ( *Diarrhoe*). Dazu hat der Patient meist starke, kaum
 lokalisierbare Bauchschmerzen. Infolge des Erbrechens und des Durchfalls
 kann es zu einem erheblichen Wasser- und Elektrolytverlust und Symptomen
-der Exsikkose (:ref:`Thema-exsikkose`) kommen.
+der Exsikkose (:ref:`exsikkose`) kommen.
 
 
 .. rubric:: Besonders gefährdet
@@ -563,7 +563,7 @@ Maßnahmen: Gastroenteritis
 
 
 
-.. _thema-exsikkose:
+.. _exsikkose:
 
 Flüssigkeitsmangel: Exsikkose
 =============================
@@ -788,8 +788,8 @@ Verlauf
 
 Je nach Schwere und Dauer der Entzündung kann es zum Selbstverdauen der
 Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* :index:`\ <Akutes Abdomen!bei Pankreatitis>` Abdomen auf
-(:ref:`Thema-akutes-abdomen`) und der Patient kann kann einen *septischen* :index:`\ <Schock!septischer!bei Pankreatitis>` Schock erleiden
-(:ref:`Thema-schock-septischer`).
+(:ref:`akutes-abdomen`) und der Patient kann kann einen *septischen* :index:`\ <Schock!septischer!bei Pankreatitis>` Schock erleiden
+(:ref:`schock-septischer`).
 
 
 
@@ -809,7 +809,7 @@ Maßnahmen: Akute Pankreatitis
 
 
 
-.. _thema-mesenterialinfarkt:
+.. _mesenterialinfarkt:
 
 Verschluss eines Mesenterialgefäßes: Mesenterialinfarkt
 =======================================================
@@ -823,7 +823,7 @@ der Name der Erkrankung ab.
 .. [#Mesenterium]
    Das *Mesenterium* :index:`\ <Mesenterium!Mesenterialinfarkt>`
    (*Darmgekröse*) ist die Aufhängung von Teilen des Dünndarms
-   (:ref:`Thema-mesenterium`). Darin verlaufen venöse und arterielle Gefäße
+   (:ref:`mesenterium`). Darin verlaufen venöse und arterielle Gefäße
    zum und vom Darm (*Mesenterialgefäße* mit *Mesenterialarterien)* :index:`\ <Mesenterialarterie>`.
 
 
@@ -834,7 +834,7 @@ mit einer Bauchfellentzündung, Sepsis und einem Versterben des
 Patienten. Er ist somit ein *ischämischer* :index:`\ <Ischämie!Mesenterialinfarkt>` Notfall. Mesenterialinfarkte
 treten gehäuft bei Patienten mit erhöhtem thromboembolischen
 Risikofaktoren auf, z. B. bei Patienten mit *Vorhofflimmern* :index:`\ <Vorhofflimmern!Mesenterialinfarkt>`
-(:ref:`Thema-vorhofflimmern`).
+(:ref:`vorhofflimmern`).
 
 
 
@@ -864,7 +864,7 @@ die Schmerzen eher gering sind.
 Nach ungefähr 12–24 h wird ein *Darmverschluss* bemerkbar
 und die Darmwand verliert zunehmend an Dichtigkeit, es kann zu einem
 *Durchbruch* (Ruptur) kommen. Es folgt eine *Bauchfellentzündung* und
-ein akutes Abdomen (:ref:`Thema-akutes-abdomen`).
+ein akutes Abdomen (:ref:`akutes-abdomen`).
 Es kann zu *blutigen, übel riechenden
 Stuhlabgängen* kommen. [Siewert:8]_
 
@@ -885,7 +885,7 @@ Maßnahmen: Mesenterialinfarkt
 .. index::
     single: Peritonitis
 
-.. _Thema-peritonitis:
+.. _peritonitis:
 
 Bauchfellentzündung (Peritonitis)
 =================================

@@ -2,8 +2,9 @@
 .. index::
     single: Herzinsuffizienz
 
-.. _Thema-Herzinsuffizienz:
+.. _Herzinsuffizienz:
 .. _Linksherzinsuffizienz:
+.. _Rechtsherzinsuffizienz:
 
 ########################
 Herzinsuffizienz (#46)
@@ -76,8 +77,8 @@ oder der Fähigkeit des Körpers zur Kompensation erfolgen:
         nicht mehr mit der reduzierten Herzleistung auskommt. Es treten
         plötzlich akute Symptome auf.
 
-.. _Thema-linksherzinsuffizienz:
-.. _Thema-rechtsherzinsuffizienz:
+
+
 
 *****
 ABCDE
@@ -141,8 +142,8 @@ ABCDE
     der Blutdruck vermindert (*Hypotonie*).
     Allerdings kann ein erhöhter
     Blutdruck bei einer Blutdruckkrise (*Hypertonie*, *hypertensive
-    Krise* (:ref:`Thema-HypertensiveKrise`), *hypertensiver Notfall*
-    (:ref:`Thema-HypertensiverNotfall`)) der eigentliche *Auslöser* einer
+    Krise* (:ref:`HypertensiveKrise`), *hypertensiver Notfall*
+    (:ref:`HypertensiverNotfall`)) der eigentliche *Auslöser* einer
     Herzinsuffizenz sein.
     Der Blutdruck kann dann natürlich erhöht sein.
     Es können Zeichen eines |symbol-RedFlag| kardiogenen Schocks

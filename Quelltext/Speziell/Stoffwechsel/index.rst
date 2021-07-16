@@ -8,7 +8,7 @@ Stoffwechselstörungen (#70)
 
 Metabolische Störungen.
 
-.. _Thema-diabetes-mellitus:
+.. _diabetes-mellitus:
 
 *****************************************
 Blutzuckerstoffwechsel: Diabetes Mellitus
@@ -370,8 +370,8 @@ hier der Insulinbedarf steigt.
 
 
 
-.. _Thema-diabetisches-koma:
-.. _thema-koma-diabetisches:
+.. _diabetisches-koma:
+.. _koma-diabetisches:
 
 Symptome
 --------
@@ -415,7 +415,7 @@ Bewusstseinsstörung ist. Steht der Nährstoffmangel im Vordergrund
 passiert etwas Interessantes: Der Körper produziert sog. Ketonkörper. Da
 diese *sauer* sind, kommt es zu einer stoffwechselbedingten
 *Übersäuerung* (metabolische *Azidose*\  [#DiabetischeKetoazidose]_
-:ref:`Thema-azidose-metabolische`). Er *hyperventiliert*, um CO₂ abzuatmen
+:ref:`azidose-metabolische`). Er *hyperventiliert*, um CO₂ abzuatmen
 und somit den pH wieder zu normalisieren (Puffersystem). Es ist daher
 bei diesen Patienten eine *schnelle, tiefe Atmung* feststellbar (
 *Kußmaul-Atmung*).

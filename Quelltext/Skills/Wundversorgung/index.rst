@@ -1,8 +1,8 @@
 .. index::
     single: Wunde
 
-.. _Wunden:
 .. _Wunde:
+.. _Wunden:
 
 #########################################################################################################
 Wunden (`#75 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/75>`_)
@@ -10,8 +10,7 @@ Wunden (`#75 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issue
 
 
 
-.. _Thema-wunden-einteilung:
-.. _Thema-wunden:
+.. _wunden-einteilung:
 
 *************************************
 Allgemeines und Einteilung von Wunden
@@ -190,7 +189,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
         -   Vulnus sclopetarium (*Vuln. sclopet.*)
     *   -   Verbrennung
         -   Durch Hitzeeinwirkung entstandene Schädigung,
-            siehe :ref:`Thema-verbrennung`
+            siehe :ref:`verbrennung`
         -   Combustio (*Comb.*)
     *   -   Verbrühung
         -   Sonderform der Verbrennung,
@@ -334,7 +333,7 @@ der Infektionsgefahren bei der Wundversorgung erfolgen.
     eine Eintrittsstelle für Krankheitserreger in unseren Organismus. Der
     Patient sollte daher über einen aufrechten *Tetanus*-Impfschutz
     verfügen
-    (s. :ref:`Thema-tetanus-impfschutz`)\ [#TetanusImpfschutz]_.
+    (s. :ref:`tetanus-impfschutz`)\ [#TetanusImpfschutz]_.
     Bei Bisswunden kann
     über den Speichel einer erkrankten Tieres *Tollwut* übertragen
     werden.
@@ -431,8 +430,8 @@ Maßnahmen: Basis-Wundversorgung
 
 
 
-.. _Thema-dekubitusprophylaxe:
-.. _Thema-dekubitus:
+.. _dekubitusprophylaxe:
+.. _dekubitus:
 
 *********************************
 Dekubitus und Dekubitusprophylaxe

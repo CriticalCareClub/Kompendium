@@ -1,5 +1,4 @@
 
-.. _Thema-Schaedel:
 .. _Schaedel:
 
 ###########

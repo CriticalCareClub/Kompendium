@@ -1,4 +1,4 @@
-.. _Thema-beckenguertel:
+.. _beckenguertel:
 
 ##########################################
 Der Beckengürtel und die untere Extremität
@@ -45,7 +45,7 @@ Beckenknochen. Der Oberschenkelknochen wird hauptsächlich durch Bänder
 im Gelenk gehalten.
 
 
-.. _Thema-untere-extremitaet:
+.. _untere-extremitaet:
 
 *********************
 Die untere Extremität

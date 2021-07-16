@@ -1,5 +1,5 @@
 
-.. _Thema-schulterguertel:
+.. _schulterguertel:
 
 ###########################################
 Der Schultergürtel und die obere Extremität
@@ -47,7 +47,7 @@ Rotatorenmanschette) am Schultergürtel befestigt.
     -   Bänder und Muskel sind für die Stabilität des Schultergelenkes
         wichtig.
 
-.. _Thema-obere-extremitaet:
+.. _obere-extremitaet:
 
 ********************
 Die obere Extremität

@@ -1,5 +1,5 @@
 
-.. _Thema-herzrhythmusstoerungen:
+.. _herzrhythmusstoerungen:
 
 ###########################
 Herzrhythmusstörungen (#47)
@@ -222,9 +222,9 @@ Für spezielle Fragestellungen kann eine elektrophysiologische Untersuchung mitt
 Besondere Rhythmen
 ******************
 
-.. _Thema-PulsloseVentrikulaereTachykardie:
-.. _Thema-Kammerflimmern:
-.. _Thema-Asystolie:
+.. _PulsloseVentrikulaereTachykardie:
+.. _Kammerflimmern:
+.. _Asystolie:
 
 Reanimationspflichtige Rhythmusstörungen
 ========================================
@@ -273,7 +273,7 @@ Pulslose elektrische Aktivität (*PEA*)
 .. todo:: !!! PICTUREWIDE !!! Unauffälliger EKG-Befund WMPD\
 
 
-.. _Thema-Vorhofflimmern:
+.. _Vorhofflimmern:
 
 Vorhofflimmern
 ==============
@@ -299,11 +299,11 @@ Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
     Dies stellt wiederum ein Risko dar    für:
 
     -   Arterielle Gefäßverschlüsse
-        (:ref:`Thema-ArteriellerGefaessverschluss`)
+        (:ref:`ArteriellerGefaessverschluss`)
 
-    -   Schlaganfälle (:ref:`Thema-insult`)
+    -   Schlaganfälle (:ref:`insult`)
 
-    -   Mesenterialinfarkte (:ref:`Thema-Mesenterialinfarkt`)
+    -   Mesenterialinfarkte (:ref:`Mesenterialinfarkt`)
 
         Daher werden diesen Patienten meist
         *gerinnungshemmende* ("blutverdünnenden") Medikamente
@@ -313,7 +313,7 @@ Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
 
 
 
-.. _Thema-extrasystolen:
+.. _extrasystolen:
 
 Extrasystolen
 =============
@@ -538,7 +538,7 @@ Taktik
             Kein Kardioversionsversuch ohne vorherigen Ausschluss eines Thrombus,
             auf **Frequenzkontrolle** beschränken.
 
-            -   :ref:`Esmolol <Thema-Esmolol>`\ -Bolus i. v.,
+            -   :ref:`Esmolol <Esmolol>`\ -Bolus i. v.,
                 bei ansprechen weiter mit Perfusor
             -   Digitoxin (Digimerck™) i. v. als Kurzinfusion
                 (beachte vorbestehende Dauertherapie, Spiegelbestimmung!)
@@ -554,7 +554,7 @@ Taktik
         -   Schmalkomplextachykardie:
             Versuch der Unterbrechung des Re-Entry-Zyklus durch kurzfristige Blocakde des AV-Knotens
 
-            -   :ref:`Adenosin <Thema-Adenosin>` i. v.
+            -   :ref:`Adenosin <Adenosin>` i. v.
 
     .. danger::
 

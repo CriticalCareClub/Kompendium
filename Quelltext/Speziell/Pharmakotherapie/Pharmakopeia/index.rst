@@ -1,4 +1,4 @@
-.. _Thema-Pharmakopeia:
+.. _Pharmakopeia:
 
 ################################################
 Pharmakopeia

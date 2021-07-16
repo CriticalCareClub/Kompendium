@@ -32,13 +32,13 @@ neurologischer Störungen, ohne Anspruch auf Vollständigkeit:
 
 .. rubric:: Querverweise
 
--   Infektiöse (bakterielle) Meningitis: :ref:`Thema-meningitis`
+-   Infektiöse (bakterielle) Meningitis: :ref:`meningitis`
 
 *********************************
 Allgemeine neurologische Symptome
 *********************************
 
-.. _Thema-bewusstseinsstoerung:
+.. _bewusstseinsstoerung:
 
 Bewusstseinsstörungen
 =====================
@@ -131,8 +131,8 @@ Ursachen auf.
    single: Koma
    single: WASB
 
-.. _Thema-bewusstseinsstoerung-grade:
-.. _Thema-bewusstseinsgrad-Neurologie:
+.. _bewusstseinsstoerung-grade:
+.. _bewusstseinsgrad-Neurologie:
 
 Bewusstseinsgrad
 ================
@@ -148,7 +148,7 @@ Bewusstseinsgrad
 
 Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins
 (*Wieviel* Bewusstsein ist vorhanden? Vgl.
-:ref:`Thema-bewusstseinsstoerung-grade`).
+:ref:`bewusstseinsstoerung-grade`).
 Er muss bei jedem Patienten nach
 dem *WASB-Schema* beurteilt werden.
 :dfn:`WASB` ist die Abkürzung für
@@ -274,7 +274,7 @@ Maßnahmen: Bewusstlose und soporöse Patienten
 Hirndruckzeichen und Hirnstammeinklemmung
 =========================================
 
-.. _Thema-hirndruckzeichen-neu:
+.. _hirndruckzeichen-neu:
 
 Hirndruckzeichen
 ----------------
@@ -325,7 +325,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
     ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 
-.. _Thema-hirnstammeinklemmung:
+.. _hirnstammeinklemmung:
 
 Hirnstammeinklemmung
 --------------------
@@ -350,8 +350,8 @@ Da sich im Hirnstamm das Atem- und
 Kreislaufzentrum befindet besteht dabei akute **Lebensgefahr**!
 
 
-.. _Thema-insult:
-.. _Thema-schlaganfall:
+.. _insult:
+.. _schlaganfall:
 
 ******************************************************************
 Ein Schlaganfall kann ischämisch oder durch eine Blutung entstehen
@@ -394,7 +394,7 @@ werden können:
     single: Transitorisch-Ischämische Attacke
     single: Attacke; Transitorisch-Ischämische -
 
-.. _Thema-tia:
+.. _tia:
 
 TIA
 ===
@@ -482,7 +482,7 @@ können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
 
 -   *Hirndruckzeichen*: Durch eine Hirnblutung oder Schwellung des
     Gehirns (*Hirnödem*) kann es zu einer Hirndrucksteigerung und zum
-    Auftreten von Hirndruckzeichen (:ref:`Thema-hirndruckzeichen`) kommen:
+    Auftreten von Hirndruckzeichen (:ref:`hirndruckzeichen`) kommen:
 
     -   Übelkeit, Erbrechen
     -   Bewusstseinsstörungen
@@ -647,8 +647,8 @@ dass diese Therapie möglichst schnell erfolgt.
 Vom Gehirn ausgehende Krämpfe: Zerebrale Krampfanfälle
 ******************************************************
 
-.. _Thema-krampfanfall:
-.. _thema-zerebrale-krampfanfaelle :
+.. _krampfanfall:
+.. _zerebrale-krampfanfaelle :
 
 Beschreibung und Einteilung
 ===========================
@@ -686,9 +686,9 @@ verschiedene Arten einteilen:
 #. Nach Lokalisation:
 
     -   *Fokaler Anfall*: Der Krampfanfall ist auf eine Körperregion
-        beschränkt, siehe :ref:`Thema-krampfanfall-fokaler`
+        beschränkt, siehe :ref:`krampfanfall-fokaler`
     -   *Generalisierter Anfall*: Er betrifft den ganzen Körper, siehe
-        :ref:`Thema-krampfanfall-generalisierter`
+        :ref:`krampfanfall-generalisierter`
 
 
 Ursachen
@@ -724,7 +724,7 @@ Grunderkrankungen sind im Folgenden aufgeführt:
     Fallbericht: *Gamma-Butyrolacton-Entzugsdelir mit Rhabdomyolyse und dialysepflichtiger Niereninsuffizienz* [Supady:2009]_
 
 
-.. _Thema-krampfanfall-fokaler:
+.. _krampfanfall-fokaler:
 
 Fokaler Anfall
 ==============
@@ -740,7 +740,7 @@ Der fokale Anfall wird auch "petit mal"\ [#PetitMal]_ genannt.
     Petit mal: *franz.:* "kleines Unglück"
 
 
-.. _Thema-krampfanfall-generalisierter:
+.. _krampfanfall-generalisierter:
 
 Generalisierter Anfall
 ======================
@@ -930,7 +930,7 @@ Taktik
 Besondere Krampfanfälle
 =======================
 
-.. _Thema-fieberkrampf:
+.. _fieberkrampf:
 
 Fieberkrampf
 ------------
@@ -968,14 +968,14 @@ Eklamptischer Krampfanfall während der Schwangerschaft
     .. sidebar:: Krampfanfall in der Schwangerschaft
 
         -   Folge einer Präemklampsie.
-        -   Vgl. :ref`Thema-eklampsie`
+        -   Vgl. :ref`eklampsie`
 
 In Folge einer Präeklampsie (EPH-Gestose) kann es zu einem sog.
 *eklamptischen Krampfanfall* kommen.
-Dieser wird unter :ref:`Thema-eklampsie` besprochen.
+Dieser wird unter :ref:`eklampsie` besprochen.
 
 
-.. _Thema-lumbago:
+.. _lumbago:
 
 *******************************************************************************
 Probleme mit der Wirbelsäule: Lumbago, Lumbo-ischialgie und Bandscheibenvorfall

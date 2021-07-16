@@ -16,7 +16,7 @@ Patienten, …)
 
 
 
-.. _Thema-dokumentation-medizinisch:
+.. _dokumentation-medizinisch:
 
 *****************************
 Allgemeines zur Dokumentation
@@ -25,13 +25,13 @@ Allgemeines zur Dokumentation
 Querverweise
 ============
 
--  Rechtliche Aspekte: :ref:`Thema-dokumentation-rechtlich`,
-   :ref:`Thema-dokumentationspflicht-fallbeispiel`
+-  Rechtliche Aspekte: :ref:`dokumentation-rechtlich`,
+   :ref:`dokumentationspflicht-fallbeispiel`
 
 -  Dokumentation anderer Gesundheitsberufe (Anamnese)
 
--  Rechtlich: :ref:`Thema-dokumentation-rechtlich`,
-   :ref:`Thema-dokumentationspflicht-fallbeispiel`
+-  Rechtlich: :ref:`dokumentation-rechtlich`,
+   :ref:`dokumentationspflicht-fallbeispiel`
 
 -  Andere Gesundheitsberufe:
 
@@ -98,7 +98,7 @@ Es muss *gründlich*, *ausführlich* und *nachvollziehbar* dokumentiert
 werden. Die Dokumentation soll vorrangig am Einsatzprotokoll selbst
 oder, wenn nötig, auf einem beigelegten Blatt Papier erfolgen.
 
-.. _Thema-naca:
+.. _naca:
 
 NACA-Score
 ==========

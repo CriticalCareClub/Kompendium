@@ -1,4 +1,4 @@
-.. _Thema-Mundhoehle-Gastrointestinaltrakt:
+.. _Mundhoehle-Gastrointestinaltrakt:
 
 Mundhöhle
 --------------------

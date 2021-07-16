@@ -89,7 +89,7 @@ Abkürungsverzeichnis und Glossar
         Dies erlaubt Rückschlüsse auf bestimmte Störungen
         (Spastik, Mitatmen des Patienten etc.)
 
-        Siehe :ref:`Thema-Kapnometrie`
+        Siehe :ref:`Kapnometrie`
 
 
 
@@ -149,11 +149,11 @@ Abkürungsverzeichnis und Glossar
 
     NSTEMI
         Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt.
-        Siehe auch: :ref:`Thema-AkutesKoronarsyndrom`.
+        Siehe auch: :ref:`AkutesKoronarsyndrom`.
 
     STEMI
         ST-Elevation Myocardial Infacrtion; ST-Hebungsinfarkt.
-        Siehe auch: :ref:`Thema-AkutesKoronarsyndrom`.
+        Siehe auch: :ref:`AkutesKoronarsyndrom`.
 
 
     Tokolyse

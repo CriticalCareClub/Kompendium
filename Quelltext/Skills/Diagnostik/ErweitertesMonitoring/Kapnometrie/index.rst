@@ -32,12 +32,12 @@ Partialdruck (mmHg) an Kohlendioxid in der Ausatemluft messen und
 graphisch darstellen.
 Diese Verfahren sind wichtig, um eine *Fehllage*
 von Hilfsmitteln zur Atemwegssicherung (z. B. *Larynxtubus*
-(:ref:`Thema-larynxtubus`), *Endotrachealtubus*
-(:ref:`Thema-intubation`)) zu erkennen bzw. auszuschließen und kann
+(:ref:`larynxtubus`), *Endotrachealtubus*
+(:ref:`intubation`)) zu erkennen bzw. auszuschließen und kann
 als Zielwert dienen um die *Beatmungsparameter* bei der Beatmung optimal
 für den Patienten einstellen zu können. Zusätzlich kann man durch die
 CO₂-Messung eine gewisse Aussage über die *Durchblutung der Lunge*
-(*Lungenperfusion*, :ref:`Thema-lungenperfusion`)
+(*Lungenperfusion*, :ref:`lungenperfusion`)
 bzw. über die *Kreislaufsituation* treffen.
 
 ..
@@ -64,7 +64,7 @@ Bezeichnung :dfn:`etCO₂` ab: Sie steht für den
 
 
 
-.. _Thema-Kapnometrie:
+.. _Kapnometrie:
 
 Kapnometrie und Kapnographie
 ************************************************************************
@@ -88,9 +88,9 @@ Die CO₂-Messung hat im wesentlichen folgende Funktionen:
 
 #.  Lagekontrolle von Atemwegshilfsmitteln,
     insbes. *Endotrachealtubus*
-    (:ref:`Thema-EndotrachealeIntubation`)
+    (:ref:`EndotrachealeIntubation`)
     und *Larynxtubus*
-    (:ref:`Thema-Larynxtubus`)
+    (:ref:`Larynxtubus`)
 #.  Einschätzung der alveolären CO₂-Konzentration
     somit als Surrogatwert zur Einschätzung der Blut-CO₂-Konzentration (paCO₂),
     sofern keine Diffusionsstörung vorliegt.

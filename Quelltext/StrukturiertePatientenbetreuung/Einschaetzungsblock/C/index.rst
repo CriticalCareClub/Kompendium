@@ -4,7 +4,7 @@
 Ⓒ Kreislauf (Circulation) und Schnelle Trauma-Untersuchung (``STU``)
 ************************************************************************
 
-.. _Thema-Circulation:
+.. _Circulation:
 
 Klinische Einschätzung des Kreislaufs
 =====================================
@@ -53,7 +53,7 @@ von 60—100 / min [Klinke:3]_.
 Bei Belastung kann die Herzfrequenz beträchtlich
 gesteigert werden.
 Durch die Pumpfunktion des Herzens entsteht der
-:ref:`arterielle Blutdruck <Thema-blutdruck>`.
+:ref:`arterielle Blutdruck <blutdruck>`.
 
 
 

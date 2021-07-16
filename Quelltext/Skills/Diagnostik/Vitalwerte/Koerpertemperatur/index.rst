@@ -5,7 +5,7 @@
     single: tympanal; Temperaturmessung
     single: Fieber; Temperaturmessung
 
-.. _Thema-koerpertemperatur-messung:
+.. _koerpertemperatur-messung:
 
 ########################################################################
 Körpertemperatur

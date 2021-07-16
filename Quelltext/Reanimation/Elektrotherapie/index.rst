@@ -10,7 +10,7 @@
 
 Das Herz ist die Pumpe des Blutkreislaufes und leistet eine beachtliche mechanische Arbeit,
 welche über elektrische Reize koordiniert wird
-(Reizleitungssystem, :ref:`Thema-reizleitungssystem`).
+(Reizleitungssystem, :ref:`reizleitungssystem`).
 Ohne diese
 elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und
 somit zum Kreislaufstillstand.
@@ -173,10 +173,10 @@ Rhythmen:
 Beim SAED übernimmt das Gerät die Beurteilung ob ein elektrischer
 Herzrhythmus schockbar oder nicht-schockbar ist.
 Die Herzrhythmen werden
-im Kapitel :ref:`Thema-herzrhythmusstoerungen`, genauer besprochen.
+im Kapitel :ref:`herzrhythmusstoerungen`, genauer besprochen.
 
 
-.. _Thema-DefibrillationBls:
+.. _DefibrillationBls:
 
 Verwendung eines SAED
 ----------------------

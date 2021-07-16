@@ -1,10 +1,10 @@
 
 
-.. _thema-gefahrenzonen:
-.. _thema-gefahrenbereich-strom:
-.. _thema-gefahrengutunfall:
-.. _thema-triage:
-.. _thema-adr:
+.. _gefahrenzonen:
+.. _gefahrenbereich-strom:
+.. _gefahrengutunfall:
+.. _triage:
+.. _adr:
 
 ###############
 Appendix (#25)

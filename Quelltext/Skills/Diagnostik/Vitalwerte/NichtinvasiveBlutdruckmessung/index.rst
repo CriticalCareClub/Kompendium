@@ -4,7 +4,7 @@
     single: Blutdruck; systolischer; Messung
     single: Blutdruck; diastolischer; Messung
 
-.. _Thema-blutdruckmessung:
+.. _blutdruckmessung:
 
 ########################################################################
 Nicht-invasive Messung des Blutdrucks
@@ -51,7 +51,7 @@ Quecksilbersäule* (*mm Hg*, Hg ist das chemische Symbol für
 Quecksilber).
 
 Siehe auch :ref:`Systole, Diastole,
-mechanische Herzfunktion <Thema-mechanische-herzfunktion>`, und :ref:`Blutdruck <Thema-blutdruck>`.
+mechanische Herzfunktion <mechanische-herzfunktion>`, und :ref:`Blutdruck <blutdruck>`.
 
 Der "Nicht-invasive Blutdruck" wird auf manchen Überwachungsmonitoren
 mit *NIBD* oder *NIBP* (*engl.*
@@ -120,7 +120,7 @@ Es gibt Manschetten in unterschiedlichen Größen.
 
 
 
-.. _Thema-Stethoskop:
+.. _Stethoskop:
 
 Exkurs: Stethoskop
 ------------------
@@ -157,7 +157,7 @@ Das Stethoskop ist ein häufiges Vehikel zur Keimübertragung. Nach
 jedem Patienten soll eine Wischdesinfektion mit
 Flächendesinfektionsmittel vorgenommen werden.
 
-.. _Thema-rr-messung:
+.. _rr-messung:
 
 Bludruckmessung nach Riva-Rocci
 -------------------------------
@@ -230,7 +230,7 @@ plötzlich leiser wird, dann gilt der Druck, bei dem das Pochen
 Dokumentiert wird der Blutdruck mit dem Zusatz *RR*
 (z. B.: ``RR 120/80 mm Hg``).
 Der Normalwert beim Erwachsenen liegt in etwa bei RR 130/80
-(vgl. :ref:`Thema-blutdruck`).
+(vgl. :ref:`blutdruck`).
 
 
 

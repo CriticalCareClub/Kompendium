@@ -1,5 +1,5 @@
 
-.. _Thema-Geschlechtsorgane:
+.. _Geschlechtsorgane:
 
 *********************
 Die Geschlechtsorgane
@@ -251,7 +251,7 @@ münden die beiden Eileiter, die die befruchtete Eizelle in den Uterus
 führen sollen. Der Körper der Gebärmutter ist äußerst muskulös um bei
 der Geburt die Austreibung des Fetus zu ermöglichen. Die Schleimhaut
 unterliegt bei der geschlechtsreifen Frau zyklischen Veränderungen
-(siehe weiblicher Zyklus, :ref:`Thema-weiblicher-zyklus`). Über den Hals
+(siehe weiblicher Zyklus, :ref:`weiblicher-zyklus`). Über den Hals
 mündet die Gebärmutter in die Scheide, die Mündung wird als
 :dfn:`Muttermund` bezeichnet.
 
@@ -303,7 +303,7 @@ Bereich der großen Schamlippen.
 Vergleichsweise mit der Eichel ist die
 Klitoris die berührungsempfindlichste Stelle der Frau.
 
-.. _thema-weiblicher-zyklus:
+.. _weiblicher-zyklus:
 
 Der weibliche Zyklus
 ====================
@@ -351,7 +351,7 @@ angehalten und die Eizelle kann sich in die Uterusschleimhaut einnisten.
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
-.. _Thema-schwangerschaft:
+.. _schwangerschaft:
 
 Die Schwangerschaft
 ===================

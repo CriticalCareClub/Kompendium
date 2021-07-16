@@ -4,9 +4,8 @@
     pair: Breathing; Einschätzungsblock
     pair: B; Einschätzungsblock
 
-.. _Thema-Abcde-B:
-.. _Thema-Breathing:
 .. _Abcde-B:
+.. _Breathing:
 
 ************************
 Ⓑ Atmung (Breathing)
@@ -55,12 +54,10 @@ Als nächstes wird die Funktion der *Atmung* beurteilt:
     single: Totraumventilation
     single: Schnappatmung
 
-.. _thema-schnappatmung:
 .. _Schnappatmung:
 
 Totraumventilation und Schnappatmung
 ====================================
-
 
 Unter dem :dfn:`Totraum` versteht man den Teil der Atemwege, der nicht am
 Gasaustausch teilnimmt,
@@ -235,7 +232,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
 
 
-.. _Thema-Lippenbremse-Basic:
+.. _Lippenbremse-Basic:
 
 Typische Maßnahmen
 ==================
@@ -245,7 +242,7 @@ Typische Maßnahmen
 -   Sauerstoffberieselung
 -   :dfn:`Lippenbremse`:  Die
     Lippenbremse ist eine besondere Atemtechnik bei Erkrankungen der
-    unteren Atemwege und funktioniert ähnlich wie der :ref:`PEEP <Thema-Peep>`.
+    unteren Atemwege und funktioniert ähnlich wie der :ref:`PEEP <Peep>`.
 
     Dabei atmet der Patient langsam und gleichmäßig durch
     die beinahe geschlossenen Lippen,

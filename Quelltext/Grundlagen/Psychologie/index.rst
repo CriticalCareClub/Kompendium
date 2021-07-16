@@ -27,7 +27,7 @@ Anforderungen
 =============
 
 Im Abschnitt :ref:`Taetigkeitsbild`werden unter
-:ref:`Thema-taetigkeitsbild-sanitaeter-belastung` die allgemeinen
+:ref:`taetigkeitsbild-sanitaeter-belastung` die allgemeinen
 Anforderungen an Fachpersonal,
 wie z. B. medizinisches Wissen und
 Kompetenz, Zuverlässigkeit, Eigenverantwortlichkeit, Fähigkeit
@@ -37,8 +37,8 @@ einhergehende Belastung durch diese und andere Anforderungen und die
 daraus resultierenden Belastungen eingegangen.
 
 
-.. _Thema-beanspruchung-psi:
-.. _Thema-belastung-psi:
+.. _beanspruchung-psi:
+.. _belastung-psi:
 
 Beanspruchung/Belastung
 =======================
@@ -636,7 +636,7 @@ Stressvermeidung" behandelt werden.
 
 
 
-.. _Thema-unterforderung-psi:
+.. _unterforderung-psi:
 
 Aktivierung, Aktivierungsniveau, Überforderung, Unterforderung
 ==============================================================
@@ -846,7 +846,7 @@ Belastungsgeschehens darstellen können.
 .. index::
     single: Burn-out
 
-.. _Thema-burn-out:
+.. _burn-out:
 
 Burnout
 -------
@@ -1102,7 +1102,7 @@ Hilfestellungen auch selbstverständlich zu nutzen, wäre günstig.
     single: PTSS
     single: PTSD
 
-.. _Thema-ptss:
+.. _ptss:
 
 Posttraumatische Belastungsstörung (F43.1)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2114,11 +2114,11 @@ Psychische Betreuung von Kranken/Verletzten
 .. rubric:: Querverweise
 
 
--  Gesprächsführung, Beziehungsaufbau: :ref:`Thema-kommunikationsregeln`
+-  Gesprächsführung, Beziehungsaufbau: :ref:`kommunikationsregeln`
 
--  Begleitung Sterbender: :ref:`Thema-sterbende-betreuung`
+-  Begleitung Sterbender: :ref:`sterbende-betreuung`
 
--  Umgang mit psychiatrischen Patienten: :ref:`Thema-umgang-psy`
+-  Umgang mit psychiatrischen Patienten: :ref:`umgang-psy`
 
 -----
 

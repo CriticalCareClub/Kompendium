@@ -1,5 +1,5 @@
 
-.. _thema-blutzucker-messung :
+.. _blutzucker-messung :
 
 ########################################################################
 Blutzuckermessung

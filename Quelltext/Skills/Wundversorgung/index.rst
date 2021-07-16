@@ -197,6 +197,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
             verursacht durch heiße Flüssigkeiten oder Dampf
         -   Ambustio (*Amb.*)
     *   -   Verätzung
+        -
         -   (*Cauteris.*)
     *   -   (Hämatom)*
         -   Bluterguss;

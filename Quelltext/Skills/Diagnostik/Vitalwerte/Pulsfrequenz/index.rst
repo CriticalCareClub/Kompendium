@@ -1,7 +1,35 @@
+
+.. index::
+    single: Puls
+    single: Frequenz; Puls-
+    single Puls; -frequenz
+    singe: Pulsdefizit
+
 ########################################################################
 Pulsfrequenz
 ########################################################################
 
+
+Als :dfn:`Herzfrequenz` (*HF*) bezeichnet
+man die Anzahl der Schläge bzw. Aktionen des Herzens pro Minute.
+Als :dfn:`Pulsfrequenz` bezeichnet man die Anzahl der Pulsschläge
+pro Minute.
+
+Die Herzfrequenz entspricht normalerweise der *Pulsfrequenz*,
+jedoch hat nicht zwangsläufig jede
+(elektrische\ [#EMHerzaktion]_) Herzaktion
+einen Pulsschlag zur Folge;
+man spricht andernfalls vom *Pulsdefizit*.
+
+.. [#EMHerzaktion]
+    Man unterscheidet zwischen einer
+    elektrischen und mechanischen Herzaktionen
+    (vgl. :ref:`Thema-herz`).
+
+
+
+.. index::
+    single: Puls; palpatorische Messung
 
 .. _thema-pulsmessung:
 
@@ -17,16 +45,7 @@ Palpatorische Messung der Pulsfrequenz
         -   Halsschlagader (A. *carotis*)
         -   Oberarmarterie (A. *brachialis*; Neugeborene, Säuglinge)
 
-Als :dfn:`Herzfrequenz` (*HF*) bezeichnet
-man die Anzahl der Schläge bzw. Aktionen des Herzens pro Minute.
-Als :dfn:`Pulsfrequenz` bezeichnet man die Anzahl der Pulsschläge
-pro Minute.
-
-Die Herzfrequenz entspricht normalerweise der
-*Pulsfrequenz*, welche mittels Fühlen des Pulses ermittelt
-wird. [#112]_
-
-Dieser wird idealerweise an der *Radialarterie* (A.
+Der Puls wird idealerweise an der *Radialarterie* (A.
 *radialis*) bzw. bei nicht ansprechbaren oder schockierten Patienten an
 der *Halsschlagader* (A. *carotis*) ertastet. Bei Neugeborenen und
 Säuglingen wird an der *Oberarmarterie* (A. *brachialis*) gefühlt.
@@ -36,12 +55,6 @@ Patienten. Wenn an der Halsschlagader (A. *carotis*) die Herzfrequenz
 ermittelt wird, darf nie auf beiden Seiten gleichzeitig gemessen werden,
 da sonst die Gefahr besteht, dass es zu einer Unterversorgung des
 Gehirns mit Blut kommen kann.
-
-.. [#112]
-    Nicht immer hat eine Herzaktion einen Pulsschlag zur Folge, man
-    spricht dann vom *Pulsdefizit*. Außerdem kann man zwischen
-    elektrischen und mechanischen Herzaktionen unterscheiden (vgl.
-    :ref:`Thema-herz`).
 
 
 

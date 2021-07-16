@@ -79,7 +79,7 @@ Durchführung
    steigt aufgrund der Kapillarwirkung auf. [#121]_
 
 #. Beim *Piepton* ist genug Blut in die Testkammer eingeströmt und das
-   Gerät beginnt mit der Messung und kann entfernt werden.
+   Gerät beginnt mit der Messung.
 
 #. Mit einem trockenen *Tupfer* auf die Einstichstelle drücken (lassen).
 

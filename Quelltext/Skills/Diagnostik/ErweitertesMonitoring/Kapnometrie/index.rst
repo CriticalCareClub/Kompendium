@@ -44,12 +44,12 @@ bzw. über die *Kreislaufsituation* treffen.
     Die Messung kann
     in 3 Phasen eingeteilt werden:
 
-    -   1. Phase:
+    -   \ 1. Phase:
         Das Atemgas aus dem Totraum der vorangegangenen Inspiration
         wird abgeatmet.
-    -   2. Phase:
+    -   \ 2. Phase:
         Ein Gemisch aus Totraumgas und Alveolargas wird abgeatmet.
-    -   3. Phase: Reines Alveolargas wird abgeatmet.
+    -   \ 3. Phase: Reines Alveolargas wird abgeatmet.
 
 Am aussagekräftigsten ist der Messwert am Ende der Ausatmung,
 da hier die höchste CO₂-Konzentration gemessen wird.
@@ -61,6 +61,7 @@ Bezeichnung :dfn:`etCO₂` ab: Sie steht für den
 
     Die CO₂-Messung (Kapnometrie) ist ein
     Standardmonitoringverfahren bei beatmeten Patienten
+
 
 
 .. _Thema-Kapnometrie:
@@ -119,9 +120,13 @@ der Ausatemluft die Geräte beschädigen kann.
 Anwendungshinweise
 ==================
 
-Bei allen Messvorrichtungen muss ein *Bakterienfilter* zwischen Tubus
-und Messeinrichtung eingebaut sein, da die Feuchtigkeit der Ausatemluft
-die Geräte beschädigen, sowie Sekret die Messung vereiteln kann.
+Bei allen Messvorrichtungen muss ein *Bakterienfilter*
+zwischen dem Atemwegshilfsmittel (Tubus, Larynxmakse etc.)
+und Messeinrichtung eingebaut sein,
+da die Feuchtigkeit der Ausatemluft die Geräte beschädigen,
+Sekret die Messung vereiteln kann
+und Keime das System kontaminieren.
+
 
 
 Beurteilung
@@ -131,7 +136,7 @@ Beurteilung
 
     .. sidebar:: Beurteilung
 
-        -   4–5% CO₂-Konzentration; 35–40 mmHg CO₂-Partialdruck
+        -   4—5% CO₂-Konzentration; 35—40 mm Hg CO₂-Partialdruck
 
         -   Erniedrigt:
 
@@ -219,7 +224,7 @@ Reanimation ist ein Hinweis auf einen *wiedererlangten Spontankreislauf*
 
 .. note::
 
-    In der Reanimation kann durch die etCO₂-Messung
+    Während der Reanimation kann durch die etCO₂-Messung
     unter Umständen keine zuverlässige
     Aussage über die Tubuslage getroffen werden,
     da die Lungenperfusion deutlich schlechter ist, als bei einem Menschen mit Spontankreislauf!

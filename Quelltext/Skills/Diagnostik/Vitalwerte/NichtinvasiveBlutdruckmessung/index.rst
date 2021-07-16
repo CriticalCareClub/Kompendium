@@ -23,13 +23,10 @@ Nicht-invasive Messung des Blutdrucks
 
 Der Blutdruck ist jener Druck, welcher in unseren Blutgefäßen herrscht.
 Wenn wir vom *"Blutdruck"* sprechen beziehen wir uns auf den Blutdruck
-in den Arterien [#113]_.
-Er gehört in Kombination mit der Herzfrequenz zu
+in den :ref:`Arterien <Arterie>`.
+Er gehört, in Kombination mit der Herzfrequenz, zu
 den grundlegenden Vitalwerten.
 
-
-.. [#113]
-    Arterie: Vom Herzen wegführendes Blutgefäß.
 
 
 *Der Druck in der Arterie schwankt in Abhängigkeit zum Herzauswurf*:
@@ -53,12 +50,14 @@ Blutdruck angegeben wird, ist *Millimeter
 Quecksilbersäule* (*mm Hg*, Hg ist das chemische Symbol für
 Quecksilber).
 
-Siehe auch :ref:`Thema-mechanische-herzfunktion` (Systole, Diastole,
-mechanische Herzfunktion), und :ref:`Thema-blutdruck` (Blutdruck).
+Siehe auch :ref:`Systole, Diastole,
+mechanische Herzfunktion <Thema-mechanische-herzfunktion>`, und :ref:`Blutdruck <Thema-blutdruck>`.
 
 Der "Nicht-invasive Blutdruck" wird auf manchen Überwachungsmonitoren
 mit *NIBD* oder *NIBP* (*engl.*
 Non-Invasive Blood Pressure) abgekürzt.
+
+
 
 Arten der Blutdruckmessung
 --------------------------
@@ -104,9 +103,9 @@ Dosenmanometer und Pumpballen mit einem Ablassventil benötigt. Im
 Idealfall wird auch noch ein Stethoskop verwendet.
 
 
+
 Manuelle Blutdruckmessgeräte
 ----------------------------
-
 
 Ein manuelles Blutdruckmessgerät besteht aus einer Manschette, einem
 Schlauch, einem Auslassventil, einem Pumpballen und einer Druckanzeige.
@@ -119,11 +118,12 @@ Es gibt Manschetten in unterschiedlichen Größen.
 
     ₢ Ch. Pallinger  :term:`ℓ MfG`
 
+
+
 .. _Thema-Stethoskop:
 
 Exkurs: Stethoskop
 ------------------
-
 
 Ein Stethoskop ist eine Hörvorrichtung. Es besteht patientenseitig
 aus einem Kopf mit einer Membran oder einem Trichter, einem Schlauch
@@ -215,8 +215,9 @@ Man achte auf die Lage der Innen- bzw. Außenseite!
 Nun wird der Puls an der Radialarterie (A. radialis) getastet. Die
 Manschette wird solange aufgepumpt, bis der Puls nicht mehr getastet
 werden kann. Dann werden noch 20-30 mm Hg weiter aufgepumpt.
-Das Stethoskop wird in der Ellenbeuge auf die Oberarmarterie (A.
-brachialis, Verlauf eher zur Körpermitte) angelegt. Die Luft wird
+Das Stethoskop wird in der Ellenbeuge auf die Oberarmarterie
+(A. brachialis, Verlauf an der Innenseite der Ellenbeuge)
+angelegt. Die Luft wird
 langsam aus der Manschette abgelassen.
 
 Der Wert, bei dem man erstmalig ein Pochen (Korotkowsche Geräusche)
@@ -226,10 +227,8 @@ kann vorkommen, dass das Pochen nicht verschwindet, sondern nur
 plötzlich leiser wird, dann gilt der Druck, bei dem das Pochen
 *deutlich* leiser wird, als diastolischer Wert. [FamPropPku:2014]_
 
-Die Werte werden auf die nächste Fünferstelle abgerundet (z. B.: wird
-abgerundet auf ).
 Dokumentiert wird der Blutdruck mit dem Zusatz *RR*
-(z. B.: ``RR 120/80``).
+(z. B.: ``RR 120/80 mm Hg``).
 Der Normalwert beim Erwachsenen liegt in etwa bei RR 130/80
 (vgl. :ref:`Thema-blutdruck`).
 
@@ -237,11 +236,15 @@ Der Normalwert beim Erwachsenen liegt in etwa bei RR 130/80
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Riva-Rocci_edited.*
 
-    Prinzip der auskultatorischen RR-MessungIn Abhängigkeit vom außen
+    Prinzip der auskultatorischen RR-Messung
+
+    In Abhängigkeit vom außen
     anliegenden Manschettendruck kommt es zu einem unterschiedlich starken
     Blutfluss und dadurch entstehenden, hörbaren, Strömungsgeräuschen.
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
+
+
 
 Palpatorische Methode
 ^^^^^^^^^^^^^^^^^^^^^
@@ -314,7 +317,7 @@ Idealerweise sollte die Manschette auch nicht an einer Extremität mit einem ven
 
 
 
-.. note::
+.. attention::
 
     Shunt-Arme sind tabu für die Blutdruckmessung!
 

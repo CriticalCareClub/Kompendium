@@ -78,6 +78,7 @@ auf eine Wirbelsäulenverletzung erkannt werden.
 .. _proc-YY14200B:
 .. _YY14200B:
 .. _Thema-IndikationWirbelsaeulenimmobilisation:
+.. _IndikationWirbelsaeulenimmobilisation:
 
 Indikation zur Wirbelsäulenimmobilisation
 =========================================

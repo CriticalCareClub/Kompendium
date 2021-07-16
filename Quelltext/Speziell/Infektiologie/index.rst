@@ -506,6 +506,7 @@ Altersgruppen, besonders aber Kinder, Jugendliche und alte Menschen.
 
 
 .. _Thema-meningismuszeichen:
+.. _Meningismuszeichen:
 
 Symptome
 --------

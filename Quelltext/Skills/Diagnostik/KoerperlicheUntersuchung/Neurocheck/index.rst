@@ -49,7 +49,7 @@ Neurocheck
     Die Glasgow Coma Scale (GCS) erlaubt eine detailliertere Beschreibung
     des Bewusstseins und des Verlaufs.
     Vgl. :ref:`Thema-bewusstsein`
-    und :ref:`Thema-gcs`
+    und :ref:`Glasgow Coma Scale <Thema-gcs>`.
 
 #.  *Orientierung*:
 
@@ -90,16 +90,19 @@ Neurocheck
         Richtung Kopf zu heben.
 
 #.  :dfn:`Nackensteifigkeit`:
-    Die Nackensteifogkeit ist ein *Meningismuszeichen*
+    Die Nackensteifogkeit ist ein
+    :ref:`Meningismuszeichen <Meningismuszeichen>`
     :index:`\ <Meningismuszeichen!Nackensteifigkeit!Untersuchung>`.
     Der Patient liegt *flach* auf dem Rücken. Der Untersucher fasst den
     Kopf des Patienten und versucht das Kinn an die Brust zu führen. Es
     handelt sich um eine *passive Bewegung*, der Patient darf dabei nicht
     mithelfen. Normalerweise ist diese Bewegung ohne Probleme möglich.
 
-    Wenn eine Nackensteifigkeit vorliegt ist die Beugung nicht möglich
+    Wenn eine Nackensteifigkeit vorliegt, ist die Beugung nicht möglich
     und der Versuch schmerzhaft, der Patient bewegt evtl. den ganzen
-    Rumpf mit. Die Bedeutung der Nackensteifigkeit wird unter
+    Rumpf mit.
+
+    Die Bedeutung der Nackensteifigkeit wird unter
     :ref:`Thema-meningitis` besprochen.
     *Bei jedem Patienten mit Fieber ist auf das Vorliegen einer Nackensteifigkeit zu untersuchen*,
     jedoch

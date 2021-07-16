@@ -12,15 +12,6 @@
 Pulsoxymetrie
 ########################################################################
 
-
-
-
-Die Pulsoxymetrie misst die Sauerstoffsättigung und Pulsfrequenz
-
-
-Beschreibung
-------------
-
 Die Pulsoxymetrie ist eine einfache,
 *nicht-invasive* Untersuchungsmethode zur Ermittlung
 der **Sauerstoffsättigung** des Hämoglobins\ [#120]_ im kapillären Blut (*SpO₂*)
@@ -44,6 +35,8 @@ Als *Messstelle* eignen sich meist leicht zugängliche Körperstellen
 (*Finger, Zeh, Ohrläppchen*) – die Herstellerangaben über die Eignung
 des Sensors für die gewünschte Messstelle müssen jedoch beachtet werden.
 [ArbeitstechnikenAZ:1]_
+
+
 
 Gerätearten
 -----------
@@ -72,7 +65,7 @@ gibt es verschiedene Gerätearten:
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Pulsoxymeter_32779-00943pt.*
 
-    Handpulsoxymeter: Sauerstoffsättigung 96%, Pulsfrequenz 89/min
+    Handpulsoxymeter: Sauerstoffsättigung 96%, Pulsfrequenz 89 / min
 
     ₢ Ch. Pallinger  :term:`ℓ MfG`
 
@@ -106,6 +99,7 @@ Prinzipiell kann man zwei Sensorgrundarten unterscheiden:
     erhältlich.
 
 
+
 Funktionsprüfung
 ----------------
 
@@ -116,6 +110,8 @@ Batteriestand zu prüfen. Anschließend ist das Gerät im Selbstversuch zur
 Messung der eigenen Sauerstoffsättigung und der Pulsfrequenz zu
 verwenden. Nur bei einwandfreier Funktion darf das Gerät zur Messung am
 Patienten verwendet werden.
+
+
 
 Anwendung
 ---------
@@ -137,6 +133,9 @@ niemals das wachsame Auge auf den Patienten!
 
     Pulsoxymetrie: Eine ausreichende Blutversorgung der Körperstelle,
     an der der Sensor angebracht ist, ist notwendig.
+
+
+
 
 Ermittelte Werte
 ----------------
@@ -204,7 +203,7 @@ Die größte Gefahr ist die falsche Interpretation von Messwerten.
     Mehrwegsensoren besteht das Risiko der Keimübertragung
     (Kreuzinfektion, vgl. :ref:`Thema-kreuzinfektion`).
 
--   Eine besondere Fehlerquelle ist die *Kohlenmonoxid-(CO)-Vergiftung*.
+-   Eine besondere Fehlerquelle ist die *Kohlenmonoxid-Vergiftung*.
     Kohlenmonoxid-beladenes Blut ist ebenso hellrot wie
     Sauerstoff-beladenes, daher wird der Patient nicht zyanotisch obwohl
     er eigentlich zu wenig Sauerstoff hat. Das Pulsoxymeter verwechselt

@@ -142,7 +142,7 @@ zeitraubend ist.
 .. _Thema-tragering:
 
 Tragering
----------
+========================================================================
 
 Das Tragen mit dem Tragering funktioniert nur bei
 bewusstseinsklaren und kooperativen Patienten, außerdem sollte das
@@ -187,11 +187,12 @@ Technik eignet sich nur für kurze Distanzen.
     Bilderserie: Transport mit einem *Tragering*
 
 
+
 .. _Thema-bergetuch:
 .. _Thema-tragetuch-taetigkeit:
 
 Tragetuch
----------
+========================================================================
 
 Das Tragetuch (ESE-Tuch)
 eignet sich ideal für den Transport von liegenden Patienten bei denen
@@ -303,7 +304,7 @@ wird immer mit den *Füßen voran* getragen.
 .. _Thema-tragsessel:
 
 Tragsessel
-----------
+========================================================================
 
 Der Tragsessel ist eines der am häufigsten verwendeten
 Transportmittel für Patienten im Krankentransport. In der Notfallrettung
@@ -330,7 +331,7 @@ Stiegen hat der Patient immer *talwärts* zu blicken.
 .. _Thema-Fahrtrage:
 
 Umgang mit Krankentragen
-------------------------
+========================================================================
 
 Eine Krankentrage besteht aus einer Liegefläche für den Patienten und 4
 Holmen, mit welchen die Trage von zwei oder mehr Personen getragen

@@ -1,4 +1,6 @@
 
+.. _Abcde-2:
+
 ***************************************************************************
 ② Eindruck und HWS-Stabilisierung (General Impression + Cervical Spine)
 ***************************************************************************
@@ -34,8 +36,7 @@ Auffallen kann eine *blasse Haut*,
 *Schonhaltung*,
 *Atemnot*
 (Gestik,
-Aufstützen der Arme um die *Atemhilfsmuskulatur*
-einzusetzen,
+Aufstützen der Arme, um die *Atemhilfsmuskulatur* einzusetzen,
 Nasenflügeln,
 Einziehungen an
 den Rippen, …),

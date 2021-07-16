@@ -1,21 +1,18 @@
 
+.. _Abcde-3:
+
 *****************************
 ③ Bewusstsein (Alertness)
 *****************************
 
-..
-  .. sidebar:: Bewusstsein (Alertness)
+.. sidebar:: Bewusstsein (Alertness)
 
+    -   Vitalfunktion 1. Ordnung
+    -   Überlebenswichtig
+    -   Beurteilung:
 
-      -  Vitalfunktion 1. Ordnung
-
-      -  Überlebenswichtig
-
-      -  Beurteilung:
-
-          -  Bewusstseinsgrad (quantitativ)
-
-          -  Orientierung (qualitativ) → Ⓓ
+        -   Bewusstseinsgrad (quantitativ)
+        -   Orientierung (qualitativ) → Ⓓ
 
 *Bewusstsein ist ein Oberbegriff für u. a.
 Wachheit,
@@ -33,10 +30,12 @@ oder bewusstloser Mensch kann dies schlecht
 oder gar nicht.
 
 Bei der Diagnostik beurteilt man den **Bewusstseinsgrad**
-(**quantitativ**; *Wieviel* Bewusstsein ist vorhanden?)
+(**quantitativ**;
+*Wieviel* Bewusstsein ist vorhanden?)
 und die **Orientierung**
-(**Qualität**; *Wie gut funktioniert das vorhandene Bewusstsein?* Zeitlich, örtlich,
-zur Situation und zur Person).
+(**qualitativ**;
+*Wie gut funktioniert das vorhandene Bewusstsein?*
+Zeitlich, örtlich, zur Situation und zur Person).
 Die Orientierung wird unter Punkt Ⓓ beurteilt.
 
 
@@ -88,17 +87,31 @@ vgl. :ref:`Table-Wasb`.
 
 .. _Table-Wasb:
 
-.. table:: WASB
+.. list-table:: WASB
+    :stub-columns: 1
+    :widths: 8 24 20 32 16
 
-  +---------+--------------------------------+-----------------------+----------------------------------------------------------------+---------------------+
-  | **W**   | *W*\ ach                       | *bewusstseinsklar*    | wach                                                           |                     |
-  +---------+--------------------------------+-----------------------+----------------------------------------------------------------+---------------------+
-  | **A**   | Reaktion auf *A*\ nsprache     | somnolent             | schläfrig, aber leicht erweckbar.                              |                     |
-  +---------+--------------------------------+-----------------------+----------------------------------------------------------------+---------------------+
-  | **S**   | Reaktion auf *S*\ chmerzreiz   | soporös               | kaum und nur mit erheblichen Aufwand (Schmerzreiz) erweckbar   | *Gefahr!*           |
-  +---------+--------------------------------+-----------------------+----------------------------------------------------------------+---------------------+
-  | **B**   | *B*\ ewusstlosigkeit           | komatös               | nicht erweckbar, ohne Bewusstsein                              | **Lebensgefahr!**   |
-  +---------+--------------------------------+-----------------------+----------------------------------------------------------------+---------------------+
+    *   -   W
+        -   *W*\ ach
+        -   *bewusstseinsklar*
+        -   wach
+        -
+    *   -   A
+        -   Reaktion auf *A*\ nsprache
+        -   somnolent
+        -   schläfrig, aber leicht erweckbar.
+        -
+    *   -   S
+        -   Reaktion auf *S*\ chmerzreiz
+        -   soporös
+        -   kaum und nur mit erheblichen Aufwand (Schmerzreiz) erweckbar
+        -   *Gefahr!*
+    *   -   B
+        -   *B*\ ewusstlosigkeit
+        -   komatös
+        -   nicht erweckbar, ohne Bewusstsein
+        -   **Lebensgefahr!**
+
 
 .. _Table-Gcs-PAM:
 
@@ -109,38 +122,39 @@ vgl. :ref:`Table-Wasb`.
   +-------------------------+------------+--------------+-------------------------------+
   | *Augenöffnung*          | 4          | 4            | spontan                       |
   +-------------------------+------------+--------------+-------------------------------+
-  |                         |            | 3            | auf Ansprache                 |
-  +-------------------------+------------+--------------+-------------------------------+
-  |                         |            | 2            | Schmerzreiz                   |
-  +-------------------------+------------+--------------+-------------------------------+
-  |                         |            | 1            | nicht                         |
+  |                                      | 3            | auf Ansprache                 |
+  |                                      +--------------+-------------------------------+
+  |                                      | 2            | Schmerzreiz                   |
+  |                                      +--------------+-------------------------------+
+  |                                      | 1            | nicht                         |
   +-------------------------+------------+--------------+-------------------------------+
   | *Verbale Antwort*       | 5          | 5            | klar                          |
   +-------------------------+------------+--------------+-------------------------------+
-  |                         |            | 4            | verwaschen                    |
-  +-------------------------+------------+--------------+-------------------------------+
-  |                         |            | 3            | unzusammenhängende Worte      |
-  +-------------------------+------------+--------------+-------------------------------+
-  |                         |            | 2            | unartikuliert                 |
-  +-------------------------+------------+--------------+-------------------------------+
-  |                         |            | 1            | nicht                         |
+  |                                      | 4            | verwaschen                    |
+  |                                      +--------------+-------------------------------+
+  |                                      | 3            | unzusammenhängende Worte      |
+  |                                      +--------------+-------------------------------+
+  |                                      | 2            | unartikuliert                 |
+  |                                      +--------------+-------------------------------+
+  |                                      | 1            | nicht                         |
   +-------------------------+------------+--------------+-------------------------------+
   | *Motorische Reaktion*   | 6          | 6            | spontan                       |
   +-------------------------+------------+--------------+-------------------------------+
-  |                         |            | 5            | gezielte Abwehrbewegungen     |
+  |                                      | 5            | gezielte Abwehrbewegungen     |
+  |                                      +--------------+-------------------------------+
+  |                                      | 4            | ungezielte Abwehrbewegungen   |
+  |                                      +--------------+-------------------------------+
+  |                                      | 3            | Beugung                       |
+  |                                      +--------------+-------------------------------+
+  |                                      | 2            | Strecken                      |
+  |                                      +--------------+-------------------------------+
+  |                                      | 1            | bewegt gar nicht              |
   +-------------------------+------------+--------------+-------------------------------+
-  |                         |            | 4            | ungezielte Abwehrbewegungen   |
-  +-------------------------+------------+--------------+-------------------------------+
-  |                         |            | 3            | Beugung                       |
-  +-------------------------+------------+--------------+-------------------------------+
-  |                         |            | 2            | Strecken                      |
-  +-------------------------+------------+--------------+-------------------------------+
-  |                         |            | 1            | bewegt gar nicht              |
-  +-------------------------+------------+--------------+-------------------------------+
+
+
 
 Bewusstseinskontrolle
 =====================
-
 
 .. sidebar:: Bewusstseinskontrolle
 
@@ -149,28 +163,28 @@ Bewusstseinskontrolle
         -   Berühren
         -   Rütteln
 
-    -  Schmerzreiz
+    -   Schmerzreiz
 
 Die Kontrolle des Bewusstseins und die Beurteilung der
 Bewusstseinsgrades erfolgt durch Ansprechen und ggfs.
 Setzen eines
 Schmerzreizes:
 
-#. *Ansprechen*: Zuerst wird der Patient laut und deutlich angesprochen:
+#.  *Ansprechen*: Zuerst wird der Patient laut und deutlich angesprochen:
 
         *"Können Sie mich hören?
         Machen Sie bitte die Augen auf!"*
 
-   Reagiert der Patient nicht berührt man in an seinen Schultern und
-   rüttelt ihn leicht.
+    Reagiert der Patient nicht, berührt man in an seinen Schultern und
+    rüttelt ihn leicht.
 
-   -    Patienten, die in Folge eines Unfalls verunglückt sind,
+    -   Patienten, die in Folge eines Unfalls verunglückt sind,
         dürfen nicht,
         oder nur sehr schwach, gerüttelt werden!
 
-#. *Schmerzreiz*: Sollte der Patient darauf nicht reagieren wird ein
-   Schmerzreiz im Bereich der Nasenscheidewand oder den Kieferwinkeln
-   gesetzt.
+#.  *Schmerzreiz*: Sollte der Patient darauf nicht reagieren, wird ein
+    Schmerzreiz im Bereich der Nasenscheidewand oder den Kieferwinkeln
+    gesetzt.
 
 
 
@@ -184,8 +198,7 @@ man insbesonders Störungen der Wachheit und der Orientierung.
 
 Das Bewusstsein ist wesentlich an der *Abwehr von Gefahren* beteiligt.
 Je mehr das Bewusstsein gestört oder reduziert ist,
-desto gefährlicher für
-den Patienten.
+desto gefährlicher ist dies für den Patienten.
 Ab einem gewissen Punkt können auch so wesentliche Funktionen wie der
 *Schluck-*, *Würge-* bzw. *Hustenreflex* ausfallen
 (Ausfall der ":dfn:`Schutzrefelexe`),
@@ -211,4 +224,4 @@ Typische Maßnahmen
 
     -   Absaugbereitschaft!
 
--   Stabile Seitenlage nach Ⓑ
+-   Stabile Seitenlage nach :ref:`Ⓑ <Abcde-B>`.

@@ -1,3 +1,5 @@
+.. _Abcde-C:
+
 ************************************************************************
 Ⓒ Kreislauf (Circulation) und Schnelle Trauma-Untersuchung (``STU``)
 ************************************************************************
@@ -40,16 +42,20 @@ Durchblutungsstörung\ [#171]_ oder Zentralisierung hin.
     also "kalte Finger".
 
 
+
 Herzleistung und Blutdruck
 ==========================
 
 Das Herz schlägt beim Erwachsenen mit einer *Herzfrequenz* (*HF*,
 bzw.
-*Pulsfrequenz*, *PF*) von 60—100 / min [Klinke:3]_.
+*Pulsfrequenz*, *PF*)
+von 60—100 / min [Klinke:3]_.
 Bei Belastung kann die Herzfrequenz beträchtlich
 gesteigert werden.
 Durch die Pumpfunktion des Herzens entsteht der
-arterielle *Blutdruck* (:ref:`Thema-blutdruck`).
+:ref:`arterielle Blutdruck <Thema-blutdruck>`.
+
+
 
 Beurteilung der Herzfrequenz
 --------------------------------
@@ -96,6 +102,7 @@ bettlägrigen Patienten sind systolische Blutdruckwerte um die 90 mm Hg
 möglich.
 Bei der Interpretation des Wertes muss daher immer bedacht werden:
 
+-   Geschlecht
 -   *Zustand* des Patienten
 -   *Schmerzen*
 -   Der *sonst übliche* Blutdruck des Patienten
@@ -104,10 +111,12 @@ Bei der Interpretation des Wertes muss daher immer bedacht werden:
     (Traumapatienten!)
 -   Der *Erregungszustand* des Patienten (Nervosität, …).
 
-#.  Ein 65-jähriger, männlicher Patient klagt über Schwindelgefühl, sie
-    messen einen Blutdruck von .
-    Im Blutdruckprotokoll finden sie für die
-    vergangenen vier Tage folgende Einträge:
+.. admonition:: Beispiel
+
+    Ein 65-jähriger, männlicher Patient klagt über Schwindelgefühl,
+    es wird ein Blutdruck von 155 / 95 mm Hg gemessen.
+    Im Blutdruckprotokoll finden sich die Einträge der
+    vergangenen vier Tage:
     ``170 / 110, 140 / 115, 175 / 113, 183 / 112, …``
 
         Der Blutdruck ist für den Patienten zu niedrig, der Körper ist
@@ -120,7 +129,9 @@ Bei der Interpretation des Wertes muss daher immer bedacht werden:
         Patient laut Lehrbuch einen "schönen" Blutdruck hatte,
         war dieser dennoch zu niedrig!
 
-#.  Ein 56-jähriger Patient klagt über starke kolikartige Schmerzen im
+.. admonition:: Beispiel
+
+    Ein 56-jähriger Patient klagt über starke kolikartige Schmerzen im
     linken Unterbauch. Sie messen einen Blutdruck von 155 / 95 mm Hg.
     Der Patient kennt
     seinen "gewöhnlichen" Blutdruck nicht.
@@ -132,7 +143,10 @@ Bei der Interpretation des Wertes muss daher immer bedacht werden:
         Die Beschwerden stehen wahrscheinlich in keinem
         ursächlichen Zusammenhang mit dem Blutdruck.
 
-#.  Eine 50-jährige Patientin hat Nasenbluten.
+
+.. admonition:: Beispiel
+
+    Eine 50-jährige Patientin hat Nasenbluten.
     Sie messen einen
     Blutdruck von 220 / 120 mm Hg.
     Auf Nachfrage gibt sie an etwas Kopfsschmerzen zu
@@ -183,7 +197,7 @@ Traumauntersuchung (STU) durchgeführt\ [#172]_.
 Ziel ist das Aufspüren von
 akut *lebensgefährlichen* Verletzungen (insbesonders Blutungsquellen und
 Schäden des ZNS).
-Sie beschränkt sich auf die wichtigsten Organeund
+Sie beschränkt sich auf die wichtigsten Organe und
 besteht aus der Inspektion und dem Abtasten von
 
 #.  *Kopf* inkl. Mund, Nase, Ohren,

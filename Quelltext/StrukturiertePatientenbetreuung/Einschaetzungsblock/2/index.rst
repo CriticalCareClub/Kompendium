@@ -1,7 +1,9 @@
 
-***************************************************************************
+.. _Abcde-2:
+
+************************************************************************
 ② Eindruck und HWS-Stabilisierung (General Impression + Cervical Spine)
-***************************************************************************
+************************************************************************
 
 
 
@@ -20,7 +22,7 @@ v. a. beurteilt:
 Liegt der Verdacht auf eine Wirbelsäulenverletzung vor,
 wird bereits
 hier mit der manuellen Stabilisierung der Halswirbelsäule begonnen
-(:ref:`Thema-IndikationWirbelsaeulenimmobilisation`).
+(:ref:`IndikationWirbelsaeulenimmobilisation`).
 
 
 
@@ -34,8 +36,7 @@ Auffallen kann eine *blasse Haut*,
 *Schonhaltung*,
 *Atemnot*
 (Gestik,
-Aufstützen der Arme um die *Atemhilfsmuskulatur*
-einzusetzen,
+Aufstützen der Arme, um die *Atemhilfsmuskulatur* einzusetzen,
 Nasenflügeln,
 Einziehungen an
 den Rippen, …),
@@ -77,7 +78,7 @@ auf eine Wirbelsäulenverletzung erkannt werden.
 .. _m-einschaetzung-indikation-ws-immobilisation:
 .. _proc-YY14200B:
 .. _YY14200B:
-.. _Thema-IndikationWirbelsaeulenimmobilisation:
+.. _IndikationWirbelsaeulenimmobilisation:
 
 Indikation zur Wirbelsäulenimmobilisation
 =========================================

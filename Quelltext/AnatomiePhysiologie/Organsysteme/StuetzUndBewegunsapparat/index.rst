@@ -202,7 +202,7 @@ Hier werden die
 Dazu gehören die *roten
 Blutkörperchen* (*Erythrozyten*), die *weißen Blutkörperchen*
 (*Leukozyten*) sowie die *Blutplättchen* (*Thrombozyten*) —
-vgl. Abschnitt :ref:`Thema-blut`.
+vgl. Abschnitt :ref:`blut`.
 
 Bei Neugeborenen findet man das rote Knochenmark in sämtlichen Knochen
 und Markhöhlen, im Laufe des Lebens bildet es sich in den Markhöhlen
@@ -295,7 +295,7 @@ Zu den Gelenken ohne Gelenksspalt
 gehören alle Knochenverbindungen die *nicht* frei beweglich sind,
 z. B. die Schädelnähte, die Schambeinfuge und die
 Rippen-Brustbein-Verbindungen des
-:ref:`Brustkorbes (Thorax) <Thema-thorax>`.
+:ref:`Brustkorbes (Thorax) <thorax>`.
 
 Man unterscheidet:
 

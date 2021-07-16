@@ -1,7 +1,7 @@
 
-.. _Thema-speiseroehre:
+.. _speiseroehre:
 
-.. _Thema-Oesophagus:
+.. _Oesophagus:
 
 Ösophagus
 -----------

@@ -5,9 +5,9 @@
     single: Zwischenrippenraum
 
 
-.. _Thema-brustkorb-skelett:
+.. _brustkorb-skelett:
 
-.. _Thema-thorax:
+.. _thorax:
 .. _Intercostalraum:
 
 Der Brustkorb
@@ -49,7 +49,7 @@ Am Unterrand der Rippen verlaufen Nerven- und Gefäßbündel. Zwischen den
 Rippen spannt sich die :dfn:`Zwischenrippenmuskulatur`
 (wichtig für *Atemmechanik*) auf. Das *Zwerchfell* schließt den
 Brustraum nach unten hin ab und trennt somit den Brustraum vom Bauchraum
-(Vgl. Atemmechanik, :ref:`Thema-atemmechanik`).
+(Vgl. Atemmechanik, :ref:`atemmechanik`).
 
 Der Brustkorb enthält und schützt sowohl die *Brustorgane* (Lunge,
 Herz), als auch die *Oberbauchorgane* (Leber, Magen, Milz, Nieren).

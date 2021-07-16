@@ -232,9 +232,9 @@ Personal Rechte und Pflicht im Umgang miteinander.
 
 
 
-.. _Thema-haftbarkeitspruefung:
-.. _Thema-strafbarkeitsvoraussetzung:
-.. _Thema-haftbarkeitsvoraussetzung:
+.. _haftbarkeitspruefung:
+.. _strafbarkeitsvoraussetzung:
+.. _haftbarkeitsvoraussetzung:
 
 Straf- und Haftbarkeitsvoraussetzungen
 ======================================
@@ -315,8 +315,8 @@ entgangenen Gewinn oder realen/ideellen Schaden).
 
 .. rubric:: Fallbeispiele
 
--   :ref:`Thema-jus-langer-dienst-fall-13`
--   :ref:`Thema-jus-langer-dienst-fall-16`
+-   :ref:`jus-langer-dienst-fall-13`
+-   :ref:`jus-langer-dienst-fall-16`
 
 **************************
 Besondere Rechtsgrundlagen
@@ -325,7 +325,7 @@ Besondere Rechtsgrundlagen
 Spezielles Sanitätsrecht
 ========================
 
-.. _Thema-urteilsfaehigkeit:
+.. _urteilsfaehigkeit:
 
 Einsichts- und Urteilsfähigkeit
 -------------------------------
@@ -336,7 +336,7 @@ außerordentliche Situationen vorliegen, kann man sie nicht annehmen.
 Solche Situationen wären:
 
 -   Psychiatrische Erkrankung,
-    vgl. auch :ref:`Thema-unterbringung-jus`
+    vgl. auch :ref:`unterbringung-jus`
 -   Starke Berauschung (bei Alkohol ab ca. 2,5)
 -   Bewusstlosigkeit
 -   Schockzustand [#Schockzustand]_
@@ -355,18 +355,20 @@ spielt (im Zweifel die Mutter) oder das Pflegschaftsgericht ist
 anzurufen. Lehnen beide ab, obwohl es sich um eine notwendige
 Heilbehandlung handelt, muss das Pflegschaftsgericht angerufen werden
 
+.. todo:: #104 Erklärung mündig, unmündig
+
 
 .. [#Schockzustand]
     Aus der juristischen Literatur geht nicht eindeutig hervor,
     ob ein "Schock" im Sinne psychischen Reaktion,
-    oder der "medizinische :ref:`Schock <Thema-schock>`"
+    oder der "medizinische :ref:`Schock <schock>`"
     im Sinne einer lebensbedrohlichen Kreislaufstörung gemeint ist.
 
 .. rubric:: Fallbeispiele
 
--   :ref:`Thema-jus-langer-dienst-fall-4`
+-   :ref:`jus-langer-dienst-fall-4`
 
-.. _Thema-aufklaerung:
+.. _aufklaerung:
 
 Aufklärung – Aufklärungspflicht
 -------------------------------
@@ -396,7 +398,7 @@ wesentlicher Ausdruck des Respekts gegenüber dem Patienten und
 Voraussetzung für die Bildung einer Vertrauensbasis und Führung eines
 professionellen Gesprächs im Rahmen der Versorgung.
 
-.. _Thema-revers:
+.. _revers:
 
 Der Revers
 ^^^^^^^^^^
@@ -429,10 +431,10 @@ Einsatzpersonals) mittels Unterschrift zu bestätigen.
 .. index::
    single: Anhalterecht
 
-.. _Thema-selbsthilferechte:
-.. _Thema-notstand:
-.. _Thema-notwehr:
-.. _Thema-anhalterecht-privater:
+.. _selbsthilferechte:
+.. _notstand:
+.. _notwehr:
+.. _anhalterecht-privater:
 
 Selbsthilferecht
 ----------------
@@ -566,11 +568,11 @@ aufgelistet und gegenübergestellt.
 Fallbeispiele
 ^^^^^^^^^^^^^
 
--   :ref:`Thema-jus-langer-dienst-fall-1`
--   :ref:`Thema-jus-langer-dienst-fall-2`
+-   :ref:`jus-langer-dienst-fall-1`
+-   :ref:`jus-langer-dienst-fall-2`
 
-.. _thema-unterbringung :
-.. _thema-unterbringung-jus:
+.. _unterbringung :
+.. _unterbringung-jus:
 
 Unterbringungsrecht
 -------------------
@@ -681,9 +683,9 @@ Patienten erfolgen. Da dann auch der Transport freiwillig stattfindet,
 sind dabei (beim Primäreinsatz) keine besonderen Bestimmungen zu
 beachten.
 
-.. rubric:: Fallbeispiele^
+.. rubric:: Fallbeispiele
 
--   :ref:`Thema-jus-langer-dienst-fall-1`
+-   :ref:`jus-langer-dienst-fall-1`
 
 Rechte des Patienten
 ====================
@@ -719,7 +721,7 @@ KAKuG [#KAKuG-A-5-a]_, z. B.:
 .. index::
     single: Heilbehandlung
 
-.. _Thema-heilbehandlung:
+.. _heilbehandlung:
 
 Heilbehandlung
 --------------
@@ -738,7 +740,7 @@ gilt:
     Wissenschaft)
 
 #.  Aufklärung und Einwilligung des Patienten (sofern einsichts- und
-    urteilsfähig; vgl. :ref:`Thema-jus-fall-aufklaerung`)
+    urteilsfähig; vgl. :ref:`jus-fall-aufklaerung`)
 
 Sobald diese Voraussetzungen vorliegen, wird eine Heilbehandlung, auch
 wenn sie Einwirkung auf den Körper des Patienten nimmt, als
@@ -754,13 +756,13 @@ haftbar [#HeilbehandlungStrafbarkeit]_.
         #.  *Körperverletzung* (§§ 83 ff StGB)
         #.  *Eigenmächtige Heilbehandlung*
             (§ 110 StGB,
-            :ref:`Thema-eigenmächtige-heilbehandlung`)
+            :ref:`eigenmächtige-heilbehandlung`)
 
     *Zivilrecht*:
 
         #.  *Schadenersatzansprüche* (§§ 1293 ff ABGB)
 
-.. _Thema-eigenmächtige-heilbehandlung:
+.. _eigenmächtige-heilbehandlung:
 
 Eigenmächtige Heilbehandlung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -781,15 +783,15 @@ da sie dem Selbstbestimmungsrecht des Patienten zuwider läuft.
 Fallbeispiele
 ^^^^^^^^^^^^^
 
--   :ref:`Thema-jus-langer-dienst-fall-3`
--   :ref:`Thema-jus-langer-dienst-fall-4`
+-   :ref:`jus-langer-dienst-fall-3`
+-   :ref:`jus-langer-dienst-fall-4`
 
 
 .. index::
     single: Patientenverfügung; beachtliche
     single: Patientenverfügung; verbindliche
 
-.. _Thema-patientenverfuegung:
+.. _patientenverfuegung:
 
 Die Patientenverfügung
 ----------------------
@@ -876,12 +878,12 @@ müssen.
 Fallbeispiele
 ^^^^^^^^^^^^^
 
--   :ref:`Thema-jus-langer-dienst-fall-5`
+-   :ref:`jus-langer-dienst-fall-5`
 
 Berufs- und Tätigkeitsrecht
 ===========================
 
-Die Aufgaben des Sanitäters
+Aufgaben des Sanitäters
 ---------------------------
 
 Der Sanitätsdienst umfasst den Tätigkeitsbereich des Rettungssanitäters
@@ -908,10 +910,10 @@ tätigkeitsrelevant fortzubilden. [#80]_
 Fallbeispiele
 ^^^^^^^^^^^^^
 
--   :ref:`Thema-jus-langer-dienst-fall-6`
--   :ref:`Thema-jus-langer-dienst-fall-8`
+-   :ref:`jus-langer-dienst-fall-6`
+-   :ref:`jus-langer-dienst-fall-8`
 
-.. _thema-sanitaeter-pflichten:
+.. _sanitaeter-pflichten:
 
 Pflichten des Sanitäters
 ------------------------
@@ -1039,8 +1041,8 @@ zumutbar, wenn man …
     single: Dokumentationspflicht
 
 
-.. _Thema-dokumentationspflicht:
-.. _Thema-dokumentation-rechtlich:
+.. _dokumentationspflicht:
+.. _dokumentation-rechtlich:
 
 Dokumentationspflicht
 ---------------------
@@ -1088,7 +1090,7 @@ oder, wenn nötig, auf einem beigelegten Blatt Papier erfolgen.
     single: Pflichten des Sanitäters; Verschwiegenheitspflicht
     single: Auskunftsrecht
 
-.. _Thema-verschwiegenheitspflicht:
+.. _verschwiegenheitspflicht:
 
 Verschwiegenheitspflicht
 ------------------------
@@ -1116,8 +1118,8 @@ der Patient das Fachpersonal von der *Schweigepflicht entbunden* hat.
     single: Anzeigepflicht
 
 
-.. _thema-auskunftspflicht:
-.. _Thema-anzeigepflicht:
+.. _auskunftspflicht:
+.. _anzeigepflicht:
 
 Informationspflichten
 ---------------------
@@ -1225,11 +1227,11 @@ Informationspflichten
     § 7 SanG
 
 .. [#88]
-    s. :ref:`Thema-aids`
+    s. :ref:`aids`
 
 .. [#89]
     in letzter Zeit z. B. *SARS*, *Vogelgrippe*, *Schweinegrippe*
-    (:ref:`Thema-grippe`)
+    (:ref:`grippe`)
 
 .. [#90]
     § 54 Abs. 4 und 5 ÄrzteG
@@ -1241,7 +1243,7 @@ Informationspflichten
     § 80 Abs. 1 StPO
 
 
-.. _Thema-fortbildungspflicht:
+.. _fortbildungspflicht:
 
 Fortbildungspflicht
 -------------------
@@ -1298,7 +1300,7 @@ nach dem Medizinproduktegesetz (MPG) fortbilden.
     §83 MPG
 
 
-.. _Thema-rezertifizierungspflicht:
+.. _rezertifizierungspflicht:
 
 Rezertifizierungspflicht
 ------------------------
@@ -1330,10 +1332,10 @@ Intubation prüfen lassen.
 Fallbeispiele
 -------------
 
--   :ref:`Thema-jus-langer-dienst-fall-9`
--   :ref:`Thema-jus-langer-dienst-fall-10`
--   :ref:`Thema-jus-langer-dienst-fall-11`
--   :ref:`Thema-jus-langer-dienst-fall-14`
+-   :ref:`jus-langer-dienst-fall-9`
+-   :ref:`jus-langer-dienst-fall-10`
+-   :ref:`jus-langer-dienst-fall-11`
+-   :ref:`jus-langer-dienst-fall-14`
 
 Kompetenzstufen
 ===============
@@ -1417,13 +1419,13 @@ Kompetenzstufen
 Fallbeispiele
 -------------
 
--   :ref:`Thema-jus-langer-dienst-fall-7`
+-   :ref:`jus-langer-dienst-fall-7`
 
 Im Straßenverkehr
 =================
 
-.. _Thema-einsatzfahrt:
-.. _Thema-einsatzfahrtt-missbrauch:
+.. _einsatzfahrt:
+.. _einsatzfahrtt-missbrauch:
 
 Allgemein
 ---------
@@ -1493,7 +1495,7 @@ Schuld beim Fahrer entfällt. Für Kranken- und Rettungstransport besteht
 zusätzlich gem. Kraftfahrzeuggesetz (KFG) die Ausnahme, dass ein
 Passagier (Personal wie Patient) unangeschnallt mitfahren darf, wenn es
 ansonsten mit dem Zweck der Fahrt unvereinbar ist\ [#100]_.
-Trotzdem sollte der Patient aufgefordert werden sich anzuschnallen
+Trotzdem sollte der Patient aufgefordert werden, sich anzuschnallen,
 bzw. sollte vom Sanitäter angeschnallt werden.
 Verweigert der Patient,
 muss diese Verweigerung dokumentiert werden
@@ -1549,9 +1551,11 @@ bestehen\ [#101]_.
 Fallbeispiele
 -------------
 
--   :ref:`Thema-jus-langer-dienst-fall-17`
+-   :ref:`jus-langer-dienst-fall-17`
 
 
 
+.. todo:: #105: JUS: neu: DSVGO
 
+.. todo:: #106: JUS: Erwachsenenschutzgesetz
 

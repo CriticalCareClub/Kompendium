@@ -5,8 +5,8 @@
     single: Hyperventilationstetanie
 
 
-.. _Thema-hyperventilationssyndrom:
-.. _thema-hyperventilationstetanie:
+.. _hyperventilationssyndrom:
+.. _hyperventilationstetanie:
 
 *********************************************
 Hyperventilationssyndrom und -tetanie (#36)
@@ -30,7 +30,7 @@ Hyperventilationssyndrom und -tetanie (#36)
 Als :dfn:`Hyperventilationssyndrom` wird die übermäßig
 tiefe und schnelle Atmung *ohne körperliche Ursache* bezeichnet. Durch
 die Atmung wird der Säure-Basen-Haushalt des Körpers wesentlich
-beeinflusst (:ref:`Thema-saeure-basen-haushalt`). Atmet ein sonst gesunder
+beeinflusst (:ref:`saeure-basen-haushalt`). Atmet ein sonst gesunder
 Mensch übermäßig tief und schnell, so wird sein Blut-pH sehr rasch
 basisch. Dadurch geraten die *Elektrolyte* im Blut in ein
 Ungleichgewicht, es kommt zu Symptomen.
@@ -132,7 +132,7 @@ ABCDE: Hyperventilationssyndrom
     Bei einer stoffwechselbedingten *Übersäuerung* (Azidose) kommt es zu
     einer Hyperventilation um CO₂ abzuatmen (dadurch wird Säure im
     Körper abgebaut). Die *Kussmaul’sche Atmung* beim *diabetischen
-    Koma* wäre ein typisches Beispiel dafür (:ref:`Thema-koma-diabetisches`).
+    Koma* wäre ein typisches Beispiel dafür (:ref:`koma-diabetisches`).
 
 ``=``
     Normalerweise keine vitale Bedrohung (Differentialdiagnosen

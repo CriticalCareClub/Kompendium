@@ -41,7 +41,7 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
 :index:`Diagnose`
     Zuordnung von Beschwerden und Symptomen zu einem definierten
     Krankheitsbild. Es gibt verschiedene Arten und Funktionen von
-    Diagnosen, siehe :ref:`Thema-diagnose`.
+    Diagnosen, siehe :ref:`diagnose`.
 
 
 :index:`Diagnostik`
@@ -62,6 +62,17 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
     Krankheiten verwendet; z. B.: Morbus Alzheimer (Demenz vom
     Alzheimer-Typ), Morbus Koch (Tuberkulose), Morbus Parkinson, Morbus
     comitialis (Epilepsie).
+
+
+:index:`akut`
+    plötzlich; rascher Handlungsbedarf
+
+:index:`chronisch`
+    dauerhaft
+
+:index:`rezidivierend`
+     wiederkommend, neuerlich
+
 
 
 Vorsilben
@@ -117,23 +128,9 @@ Vorsilben
 
 
 
-Beschreibung von Krankheiten und Symptomen
-******************************************
-
-:index:`akut`
-    plötzlich; rascher Handlungsbedarf
-
-:index:`chronisch`
-    dauerhaft, wiederkehrend
-
-:index:`rezidivierend`
-     wiederkommend, neuerlich
+.. _Enzym:
 
 
-
-.. _Thema-Enzym:
-
-******
 Stoffe
 ******
 
@@ -169,14 +166,11 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
     Herzchirurgie, Thoraxchirurgie, Kinderchirurgie, Plastische
     Chirurgie etc. Daneben gibt es noch viele andere operative Fächer.
 
-
 :index:`Geburtshilfe`, :index:`Gynäkologie`, :index:`Frauenheilkunde`
     Fachgebiet die Erkrankungen der Frau betreffend, inkl. Schwangerschaft und Geburtshilfe.
 
-
 :index:`HNO`
     Hals-, Nasen-, Ohrenkrankheiten
-
 
 :index:`ICU`
     *engl.* :index:`Intensive Care Unit`; :index:`Intensivstation`.
@@ -187,7 +181,6 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
     welche sich eher der Behandlung von Herz-Kreislauferkrankungen
     widmen, und allgemeinen oder anästhesiologischen Intensivstationen,
     mit meist eher chirurgischen Patienten.
-
 
 :index:`Innere Medizin`
     *Syn.* *Interne Medizin*. Die Innere Medizin befasst sich mit der
@@ -202,18 +195,14 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
     *Pneumologie* (*Syn.* *Pulmologie*, Lunge, eigenes Sonderfach),
     *Rheumatologie* (entzündliche Erkrankungen des Bewegungsapparates).
 
-
 :index:`Neurologie`
     Fachgebiet der Medizin, welches sich mit der Erforschung, Diagnostik
     und Behandlung von Erkrankungen des *Nervensystems* und der
     Muskulatur befasst.
 
-
 :index:`Nuklearmedizin`
     Fachgebiet, welches die Anwendung radioaktiver Substanzen und
     offener Radionuklide zur Diagnostik und Therapie umfasst.
-
-
 
 :index:`Onkologie`
     Fachgebiet, welches sich mit der Erkennung, Diagnostik, Therapie und
@@ -221,17 +210,14 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
     Onkologie an sich ist ein Teilgebiet der Inneren Medizin, meist ist
     jedoch eine fachübergreifende Behandlung notwendig.
 
-
 :index:`Pädiatrie`
     *Kinderheilkunde*, zuständig für Patienten bis zur Vollendung des
     18. Lebensjahres.
-
 
 :index:`PCI`
     *Abkz.* *Perkutane Coronar-Intervention*,
     auch: :index:`PTCA`
     *Abkz.* *Perkutane Transluminale Coronar-Angiographie*; Herzkatheterbehandlung, Herzkatheteruntersuchung
-
 
 :index:`Psychiatrie`
     Die Psychiatrie beschäftigt sich mit der Prävention, Diagnostik und
@@ -244,29 +230,23 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 
         — Otto Pötzl, nach [Torberg:DEDTJ]_
 
-
 :index:`Pulmologie`
      *Syn.* Pneumologie. Lungenheilkunde
-
 
 :index:`Radiologie`
     Fachgebiet, welches die *Bildgebung* mittels verschiedener Verfahren
     ermöglicht. Die Bildgebung kann auch zu therapeutischen Zwecken
     genutzt werden (interventionelle Radiologie).
 
-
 :index:`Stroke Unit`
     Spezialstation zur Behandlung von *Schlaganfällen*
-
 
 :index:`Toxikologie`
     Lehre der Vergiftungen und Giftstoffe
 
-
 :index:`Unfallchirugie` und :index:`Traumatologie`
     Lehre und Fachgebiet der Medizin, welches sich mit Unfällen und
     Verletzungen beschäftigt.
-
 
 :index:`Urologie`
     Heilkunde des harnableitenden Systems
@@ -282,22 +262,17 @@ Sonstige Begriffe
 
     #. Stoßweise Verabreichung eines Medikaments (intravenös)
 
-
 :index:`Cave`
     "Achtung!", "Hüte Dich!"
 
-
-:index:`Obstruktion`, :index:`Verlegung`
-    Verlegung, Verengung. z. B. im Rahmen der
-    :ref:`COPD <Thema-copd>`.
-
-
+:index:`Obstruktion`,
+    :index:`Verlegung`,  Verengung. z. B. im Rahmen der
+    :ref:`COPD <copd>`.
 
 :index:`Pathologie`, :index:`pathologisch`, :index:`Patho-`
     Lehre von den Krankheiten. Als pathologisch wird alles Krankhafte
     bezeichnet. Die Vorsilbe "Patho" weist auf etwas Abnormales,
     Krankhaftes hin.
-
 
 :index:`Zyanose`
     Blaufärbung der Haut aufgrund eines mangelnden Sauerstoffgehaltes
@@ -305,6 +280,7 @@ Sonstige Begriffe
     Gesicht.
 
 
+.. _RichtungsLageangaben:
 
 Richtungs- und Lageangaben
 **************************
@@ -314,56 +290,427 @@ systematische Terminologie verwendet. Die einschlägigen Bezeichnungen
 sind auch regelmäßig in Arzt- und Entlassungsbriefen anzutreffen.
 
 
-
-
 :index:`lateral`
-    *Abk.* lat.; seitlich
-
-
+    (*lat.*) seitlich
 
 :index:`medial`
-    *Abk.* med.; mittig
+    (*med.*) mittig
 
+:bilateralis, -e:
+
+    (*bilat.*)
+    beidseitig
 
 
 :index:`dorsal`
     rückenwärts
 
-
-
 :index:`ventral`
     bauchwärts
 
+:index:`cranialis`, -e:
+    (*cran.*)
+    kopfwärts
 
+:index:`caudalis`, -e:
+    (*caud.*)
+    fußwärts
+
+:index:`palmaris`, -e:
+    (*palm.*)
+    beugeseitig an der Hand, hohlhandseitig
+
+:index:`plantaris`, -e:
+    (*plant.*)
+    beugeseitig am Fuß
 
 :index:`cranial`
     kopfwärts
-
-
 
 :index:`caudal`
     fußwärts (eigentlich: schwanzwärts)
 
 
-
 :index:`distal`
-    *Abk.* dist.; körperfern
-
-
+    (*dist.*) körperfern
 
 :index:`proximal`
-    *Abk.* prox.; körpernah
-
+    (*prox.*) körpernah
 
 
 :index:`dexter`, -tra, trum
-    *Abk.* dext.; rechts
-
-
+    (*dext.*) rechts
 
 :index:`sinister`, -tra, trum
-    *Abk.* sin.; links
+    (*sin.*) links
+
+:index:`utriusque`
+    (*utr.*)
+    beidseitig
+
+
+:index:`anterior`
+    (*ant.*) davor liegend
+
+:index:`posterior`
+    (*post.*) dahinter liegend
+
+
+:index:`superior`
+    (*sup.*) darüber liegend
+
+:index:`inferior`
+    (*inf.*) darunter liegend
+
+
+:index:`superficial`
+    (*superfic.*) oberflächlich
+
+:index:`profund`
+    (*prof.*) tief
+
+
+:index:`ulnaris`, -e:
+    (*uln.*)
+    ellenseitig
+
+:index:`radialis`, -e:
+    (*rad.*)
+    speichenseitig
+
+
 
 .. note::
-   Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer
-   auf die betreffende Person (Patienten)!
+    Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer
+    auf die betreffende Person (Patienten)!
+
+
+
+Richtungs- und Seitenangaben
+=================================================================
+
+
+Unfallchirurgische Diagnosen
+****************************
+
+Im folgenden sind häufige (lateinische) Diagnosen bzw. Abkürzungen als
+Referenz angeführt, welche man häufig auf unfallchirurgischen
+Arztbriefen und Ambulanzprotokollen findet. Eine ausführliche
+Aufstellung findet sich in [Lippert:4]_\ .
+Die Diagnosen werden durch :ref:`RichtungsLageangaben` ergänzt.
+
+
+
+Wund- und Verletzungsarten
+=================================================================
+
+:Abruptio (ossea):
+
+    (*Abrupt. oss.*) Knöcherner Ausriß-Abriß
+
+:Abscessus:
+
+    (*Abscess.*) Abszeß
+
+:Amputatio traumatica:
+
+    (*Amput. traumat.*) Unfallbedingte Abtrennung
+
+:Articulatio aperta:
+
+    (*Artic. apert.*) Gelenkseröffnung
+
+:Bulla haemorrhagica:
+
+    (*Bulla haemorrh.*) Blutblase
+
+:Bulla infecta:
+
+    (*Bulla infect.*) infizierte Blase
+
+:Bursa aperta:
+
+    (*Bursa apert.*)
+    Eröffnung des Schleimbeutels
+
+:Bursitis: Schleimbeutelentzündung
+
+    :- purulenta: eitrige ~
+
+:Cauterisatio:
+
+    (*Cauteris.*)
+    Verätzung
+
+:Combustio (graddus ...):
+
+    (*Comb. (grad. n)*)
+    Verbrennung n. Grades
+
+:Congelatio:
+
+    (*Congel.*)
+    Erfrierung
+
+:Contusio:
+
+    (*Cont.*)
+    Prellung, Quetschung
+
+:Corpus alienum:
+
+    (*Corp. alien.*)
+    Fremdkörper
+
+    :- ligneum, - ferreum, - vitreum: Holz-, Eisen-, Glas-Fremdkörper
+
+:Corpus liberum:
+
+    Freier Gelenkskörper
+
+:Decollement:
+
+    Hautabscherung
+
+:Defectus cutis:
+
+    (*Defect. cutis*)
+    Hautverlust
+
+:Discissio:
+
+    (*Disciss.*)
+    Durchtrennung
+
+    :Discissio nervi:
+
+        Burchtrennung des Nervs (an den Fingern numeriert von 1-10 beginnend von der radialen Daumenseite)
+
+:Distorsio:
+
+    (*Dist.*)
+    Zerrung
+
+:Empyema articulare: Gelenkseiterung
+
+:Enucleatio traumatica: Auslösung im Gelenk
+
+:Epidermiolysis:
+
+    (*Epidermiol.*)
+    Ablederung der oberen Haut
+
+:Epiphysiolysis:
+
+    (*Epiphys.*)
+    Wachstumsfugenlösung
+
+:Excoriatio:
+
+    (*Excor.*)
+    Hautabschürfung
+
+:Fissura:
+
+    (*Fiss.*)
+    Sprung des Knochens
+
+:Fistula: Fistel
+
+:Fractura:
+
+    (*Fract.*)
+
+    Fraktur, Bruch des Knochens
+
+    :Fractura aperta:
+
+        (*Fract. apert.*)
+        offener Bruch
+
+    :Fractura comminuta: Trümmerbruch
+
+    :Fractura duplex/triplex: zwei/dreifacher Bruch
+
+    :Fractura epiphysis: Bruch der Epiphyse
+
+    :Fractura subperiostalis: Grünholzbruch
+
+:Hämarthros: Bluterguß im Gelenk
+
+:Hämatoma: Bluterguß
+
+:Hydrops: Erguß im Gelenk
+
+:Inflammatio:	Hautrötung,Entzündung
+
+:Laesio:
+
+    (*Laes.*)
+    Verletzung, Läsion
+
+    :Laesio cartilaginis:
+
+        (*Laes. cartilag.*)
+        Verletzung des Knorpels
+
+    :Laesio nervi:
+
+        (*Laes. nerv.*)
+        Verletzung des Nervs
+
+:Luxatio:
+
+    (*Lux.*)
+    Verrenkung
+
+:Luxatio et fractura:
+
+    (*Luxfract.*)
+    Verrenkungsbruch
+
+:Lyphangitis-adenitis: Lymphbahn-knotenentzündung
+
+:Necrosis cutis: abgestorbene Haut
+
+:Panaritium subcutaneum: Eiterung des Unterhautfettgewebes an Fingern oder Zehen
+
+:Panaritium tendineum: eitrige Sehnenscheidenentz.
+
+:Paralysis: Lähmung
+
+:Paresis: Teillähmung
+
+:Paronychia: Nagelbettentzündung
+
+:Phlegmona: Phlegmone
+
+:Refractura:
+
+    (*Refract.*)
+    Neuerlicher Bruch im Bereich eines alten Bruches
+
+:Ruptura:
+
+    (*Rupt.*)
+    Riß, Zerreißung
+
+:Ruptura syndesmosis: Syndesmosenzerreißung
+
+:Seroma: Erguß seröser Flüssigkeit
+
+:Subluxatio:
+
+    (*Sublux.*)
+    Teilverrenkung
+
+:supraarticularis:
+
+    (*supraartic.*)
+    über dem Gelenk
+
+:Vulnus:
+
+   (*Vuln.*)
+   Wunde
+
+    :Vulnus ictum:
+
+        (*Vuln. ict.*)
+        Stichwunde
+
+    :Vulnus lacero-contusum:
+
+        (*Vlc.*)
+        Rißquetschwunde
+
+    :Vulnus morsum animalis:
+
+        (*Vuln. mors. anim.*)
+        Tierbiß
+
+    :Vulnus morsum hominis:
+
+        (*Vuln. mors. hom.*)
+        Menschenbiß
+
+    :Vulnus perforans: Durchdringende Stichwunde
+
+    :Vulnus scissum:
+
+        (*Vuln. sciss.*)
+        Schnittwunde
+
+    :Vulnus sclopetarium:
+
+        (*Vuln. sclopet.*)
+        Schußwunde
+
+Zusätze
+=================================================================
+
+:recens:
+
+    (*rec.*)
+    frisch (nur bei Unterscheidung gegen ältere Verletzungen anführen)
+
+:non recens:
+
+    (*non rec.*)
+    nicht frisch;
+    bei bereits sichtbar infizierten oder über 8 Stunden alten Wunden
+    oder offenen Brüchen,
+    bei geschlossenen Brüchen nach 24 Stunden
+
+:infectus, -a, -um: infiziert
+
+:inveteratus:
+
+    (*invet.*)
+    veraltet
+
+:apertus:
+
+    (*apert.*)
+    offen
+
+:ossea sanata:
+
+    (*oss. san.*)
+    knöchern geheilt
+
+:repositus:
+
+    (*repos.*)
+    eingerichtet, reponiert
+
+:utriusque:
+
+    (*utr.*)
+    rechts und links
+
+:bilateralis:
+
+    (*bilat.*)
+    beiderseitig an einer Extremität
+    (d. h. innen und aussen, radial und ulnar etc.)
+
+:operatus:
+
+    (*operat.*)
+    operiert
+
+:suturatus:
+
+    (*suturat.*)
+    genäht
+
+:fixatus:
+
+    (*fixat.*)
+    ruhiggestellt im Gips
+
+:signum interrogationis:
+
+    (*s. i.*)
+    fraglich, Zusatz bei unsicherer Diagnose

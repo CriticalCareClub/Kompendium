@@ -36,7 +36,7 @@ zusammenarbeiten.
 
 .. _m-standardmassnahmen-immer:
 .. _M-StandardmassnahmenImmer:
-.. _Thema-standardmassnahmen-immer:
+.. _standardmassnahmen-immer:
 .. _Tafel-pam-weiterfuehrende:
 
 Immer durchzuführende Standardmaßnahmen

@@ -93,8 +93,8 @@ Diese münden wiederum in den rechten Vorhof.
 
 
 
-.. _Thema-blutgefaesse-wichtige:
-.. _Thema-pfortader:
+.. _blutgefaesse-wichtige:
+.. _pfortader:
 
 .. table:: Übersicht wichtiger Blutgefäße
 

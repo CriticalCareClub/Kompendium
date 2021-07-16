@@ -6,7 +6,7 @@ Einfache A-Maßnahmen
 Sobald der Atemweg gefährdet ist oder eine Atemwegsverlegung bemerkt
 wird, müssen sofort Maßnahmen eingeleitet werden, die die Atemwege frei
 machen und frei halten sollen. Bei einer Verlegung der Atemwege durch
-Flüssigkeiten bietet sich die *Absaugung* an (:ref:`Thema-absaugung`).
+Flüssigkeiten bietet sich die *Absaugung* an (:ref:`absaugung`).
 Um einer Verlegung durch ein Herabsinken der Zunge zu vermeiden gibt es
 folgende einfache Möglichkeiten:
 

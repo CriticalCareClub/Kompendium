@@ -3,7 +3,7 @@
    single: stabile Seitenlage
    single: Seitenlage, stabile
 
-.. _Thema-StabileSeitenlage:
+.. _StabileSeitenlage:
 .. _StabileSeitenlage:
 
 ################################

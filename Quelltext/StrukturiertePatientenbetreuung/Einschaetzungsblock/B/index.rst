@@ -4,8 +4,8 @@
     pair: Breathing; Einschätzungsblock
     pair: B; Einschätzungsblock
 
-.. _Thema-Abcde-B:
-.. _Thema-Breathing:
+.. _Abcde-B:
+.. _Breathing:
 
 ************************
 Ⓑ Atmung (Breathing)
@@ -45,7 +45,7 @@ Als nächstes wird die Funktion der *Atmung* beurteilt:
     (Stauung, Lungenödem, Aspiration) oder
     **spastische Atemgräusche** zu achten.
 
-#.  Bei Verdacht auf das Vorliegen einer mechanisch bedingten Atemstörung das Vorziehen des **Abtastens des Thorax** möglich.
+#.  Bei Verdacht auf das Vorliegen einer mechanisch bedingten Atemstörung ist das Vorziehen des **Abtastens des Thorax** möglich.
 
 
 
@@ -54,31 +54,25 @@ Als nächstes wird die Funktion der *Atmung* beurteilt:
     single: Totraumventilation
     single: Schnappatmung
 
-.. _Thema-Totraumventilation:
-
-.. _thema-schnappatmung:
+.. _Schnappatmung:
 
 Totraumventilation und Schnappatmung
 ====================================
 
-
-Unter dem :dfn:`Totraum` versteht man den Teil der Atemwege der nicht am
-Gasaustausch teilnimmt.
+Unter dem :dfn:`Totraum` versteht man den Teil der Atemwege, der nicht am
+Gasaustausch teilnimmt,
+im wesentlichen der
+gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen
+(Alveolen).
 Er beträgt beim Erwachsenen
-ca. 150 ml. [Klinke:3]_
+ca. 150 mL. [Klinke:3]_
 
-Bei der :dfn:`Totraumventilation`
-(*Syn.* *Totraumbelüftung*) ist das Atemzugvolumen so gering,
-dass die
-Ausatemluft im Totraum verbleibt
-und bei der folgenden Einatmung erneut,
-anstatt von Frischluft,
-in die Lungenbläschen gelangt.
-Somit kommt es sowohl zu einem Mangel an frischem Sauerstoff in den Alveolen,
-als auch zu einem Rückstau von Kohlendioxid,
-welches nicht mehr abgeatmet werden kann.
-Bei der :dfn:`Schnappatmung` kann genau dies passieren:
-Hierbai handelt es sich,
+Bei der :ref:`Totraumventilation <Totraumventilation>`
+ist das Atemzugvolumen im Verhältnis zum Totraum zu gering,
+sodass nicht ausreichend Frischluft in die Alveolen gelangt.
+
+Insbesonders bei der :dfn:`Schnappatmung` kann genau dies passieren:
+Hierbei handelt es sich,
 dem Namen entsprechend,
 um,
 teils eindrucksvolle,
@@ -238,7 +232,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
 
 
-.. _Thema-Lippenbremse-Basic:
+.. _Lippenbremse-Basic:
 
 Typische Maßnahmen
 ==================
@@ -248,8 +242,8 @@ Typische Maßnahmen
 -   Sauerstoffberieselung
 -   :dfn:`Lippenbremse`:  Die
     Lippenbremse ist eine besondere Atemtechnik bei Erkrankungen der
-    unteren Atemwege und funktioniert ähnlich wie der PEEP
-    (:ref:`Thema-Peep`).
+    unteren Atemwege und funktioniert ähnlich wie der :ref:`PEEP <Peep>`.
+
     Dabei atmet der Patient langsam und gleichmäßig durch
     die beinahe geschlossenen Lippen,
     also gegen einen Widerstand,

@@ -1,5 +1,10 @@
 
-.. _Thema-untersuchung-abdomen-abtasten:
+.. index::
+    single: Loslassschmerz
+    single: Abdomen; Untersuchung
+    single: Druckschmerz
+
+.. _untersuchung-abdomen-abtasten:
 
 ########################################################################
 Untersuchung des Abdomens

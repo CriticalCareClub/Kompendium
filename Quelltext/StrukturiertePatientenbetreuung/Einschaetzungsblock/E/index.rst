@@ -1,8 +1,12 @@
+
+.. _Abcde-E:
+
+
 *****************************
 Ⓔ Erweiterte Untersuchung
 *****************************
 
-| Ⓔ– Wenn es nicht so klar ist: Raum für Instinkt und Erfahrung
+Ⓔ — Wenn es nicht so klar ist: Raum für Instinkt und Erfahrung
 
 
 Mit den Punkten Ⓐ—Ⓓ wären die
@@ -53,7 +57,7 @@ und *Verdachtsmomente** abzuleiten.
 Es müssen dann zielgerichtete Fragen oder Untersuchungen zur Abklärung
 von *Alarmzeichen*,
 insbesonders Alarmdiagnosen und relevante
-Begleiterkrankungen gestellt bzw.
+Begleiterkrankungen, gestellt bzw.
 durchgeführt werden.
 Begleiterkrankungen können sich erschwerend auf die Beschwerden des
 Patienten auswirken (z. B. vorgeschädigtes,
@@ -82,13 +86,17 @@ beherrscht wird,
 desto gezielter können Fragen und Befunde erhoben
 werden und desto besser wird die Einschätzung des Patienten erfolgen.
 
--   Zuerst: *Situation und bereits erhobenen Befunde vergegenwärtigen
-    und daraus entsprechende Schlüsse und Verdachtsmomente ableiten*
--   Zielgerichtete Fragen auf Alarmzeichen,
-    insb. Alarm-Diagnosen und
-    rel. Begleiterkrankungen
--   Inkl. relevante Teile der (Fremd-)Anamnese
--   Ggfs. entkleiden (in warmer Umgebung)
+.. admonition:: Synposis
+
+    -   Zuerst: *Situation und bereits erhobenen Befunde vergegenwärtigen
+        und daraus entsprechende Schlüsse und Verdachtsmomente ableiten*
+    -   Zielgerichtete Fragen auf Alarmzeichen,
+        insb. Alarm-Diagnosen und
+        rel. Begleiterkrankungen
+    -   Inkl. relevante Teile der (Fremd-)Anamnese
+    -   Ggfs. entkleiden (in warmer Umgebung)
+
+
 
 Befunde
 =======

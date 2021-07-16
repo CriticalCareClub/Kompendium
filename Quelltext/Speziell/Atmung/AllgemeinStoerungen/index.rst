@@ -7,7 +7,7 @@
     single: Bradypnoe
     single: Tachypnoe
 
-.. _Thema-atemstillstand:
+.. _atemstillstand:
 
 *******************************************************
 Allgemein: Störungen der Atemwege und der Atmung (#33)
@@ -59,7 +59,7 @@ einer *Hypoxie* und in weiterer Folge zu einer Unterversorgung
 lebenswichtiger Organe wie Herz und Hirn mit Sauerstoff. Außerdem ist
 die *CO₂-Abgabe* gestört und es kommt zu einer Anhäufung von CO₂ im
 Blut. In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
-(*Respiratorische Azidose*, :ref:`Thema-azidose-respiratorische`) kommen.
+(*Respiratorische Azidose*, :ref:`azidose-respiratorische`) kommen.
 
 .. _Table-atemstoerungen-ursachen:
 .. _Tab-atemstoerungen-ursachen:
@@ -164,7 +164,7 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     |                     | Verlangsamt                                         | Bradypnoe                                                            |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    | *Atemzugsvolumen*   | Schnappatmung                                       | :ref:`Thema-schnappatmung`                                           |    |
+    | *Atemzugsvolumen*   | Schnappatmung                                       | :ref:`Schnappatmung`                                                 |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     |                     | Flache Atmung                                       |                                                                      |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
@@ -186,9 +186,9 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     |                     | Paradoxe Atmung                                     | Brustkorb *senkt* sich bei Einatmung, z. B. bei Serienrippenfraktur  |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    | *Geräte*            | Pulsoxymetrie                                       | :ref:`Thema-pulsoxymetrie`                                           |    |
+    | *Geräte*            | Pulsoxymetrie                                       | :ref:`Pulsoxymetrie`                                                 |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     |  Kapnometrie                                        |  CO₂-Messung                                                         |    |
+    |                     | Kapnometrie                                         |  CO₂-Messung                                                         |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
 
 Maßnahmen

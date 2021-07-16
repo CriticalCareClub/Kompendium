@@ -1,6 +1,6 @@
 
 
-.. _Thema-synkope:
+.. _synkope:
 
 Kollaps und Synkope (#48)
 --------------------------

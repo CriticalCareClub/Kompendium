@@ -1,3 +1,8 @@
+.. index::
+    single: Wunde
+
+.. _Wunde:
+.. _Wunden:
 
 #########################################################################################################
 Wunden (`#75 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/75>`_)
@@ -5,36 +10,24 @@ Wunden (`#75 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issue
 
 
 
-Eine Wunde ist eine Unterbrechung des Zusammenhangs von Körpergeweben
-durch mechanische, thermische, Strahlen- oder chemische Einwirkungen.
-
-
-.. _Thema-wunden-einteilung:
-.. _Thema-wunden:
+.. _wunden-einteilung:
 
 *************************************
 Allgemeines und Einteilung von Wunden
 *************************************
 
-Beschreibung
-============
-
 Eine :dfn:`Wunde`
 :index:`\ <! Wunde>`
 (*Lat.* (*Vuln.*)) ist eine
 Unterbrechung des Zusammenhangs von Körpergeweben durch mechanische,
-thermische, Strahlen- oder chemische Einwirkungen [Pschyrembel:259]_. [#WundeDefinition]_ Wunden lassen
+thermische, Strahlen- oder chemische Einwirkungen
+mit oder ohne Substanzverlust [Pschyrembel:259]_.\
+Wunden lassen
 sich *nach verschiedenen Gesichtspunkten* einteilen bzw. unterscheiden.
 In den folgende Abschnitten sind Einteilungen nach der physikalischen
 Verletzungsursache, nach der Tiefe der Schädigung sowie nach der Art der
 Schädigung (Wundart) angeführt.
 
-
-.. [#WundeDefinition]
-    Wunde: Die übliche Beschreibung einer Wunde als eine Verletzung der
-    Haut ist nicht korrekt. Meist werden mehrere Gewebearten in
-    Mitleidenschaft gezogen. Definition [Pschyrembel:259]_: Unterbrechung
-    des Zusammenhangs von Körpergeweben mit oder ohne Substanzverlust.
 
 
 Physikalische Verletzungsursache
@@ -53,28 +46,27 @@ Physikalische Verletzungsursache
 Eine Einteilung bezieht sich auf die *physikalische Verletzungsursache*
 [Pschyrembel:259]_:
 
-#.  :dfn:`Mechanische Wunden`
-    :index:`\ <! Mechanische Wunden>`:
+#.  :dfn:`Mechanische Wunden`:
     Entstehen durch spitze oder
     stumpfe Gewalteinwirkung auf den Körper (Stichwunde, Schürfwunde,
     Schusswunde, Bisswunde, …)
 
-#.  :dfn:`Thermische Wunden`
-    :index:`\ <! Thermische Wunden>`:
+#.  :dfn:`Thermische Wunden`:
     Entstehen durch Kälte- oder
-    Hitzeeinwirkung auf den Körper (Verbrennungen, Stromeinwirkung,
+    Hitzeeinwirkung auf den Körper
+    (Verbrennung, Stromeinwirkung,
     Erfrierung, …)
 
-#.  :dfn:`Chemische Wunden`
-    :index:`\ <! Chemische Wunden>`:
+#.  :dfn:`Chemische Wunden`:
     Entstehen durch Verätzungen mit
     Laugen oder Säuren
 
-#.  :dfn:`Strahlenbedingte Wunden`
-    :index:`\ <! Strahlenbedingte Wunden>`:
+#.  :dfn:`Strahlenbedingte Wunden`:
     Entstehen durch
     Ultraviolettstrahlung oder ionisierende Strahlung (radioaktive
-    Strahlung, Röntgenstrahlung)
+    Strahlung, Röntgenstrahlung, Infrarot-Strahlung, ...)
+
+
 
 Tiefe der Schädigung
 ====================
@@ -147,41 +139,70 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
 .. _Table-Wundarten:
 
-.. table:: Wundarten
+.. list-table:: Wundarten
+    :header-rows: 1
+    :stub-columns: 1
 
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | **Wundart**                | **Beschreibung**                                                                                                                                                                                           | ** Lat. Diagnose**                                                          |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Schürfwunde                | Oberflächliche Wunde                                                                                                                                                                                       |  (*Excor.*)                                                                 |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Schnittwunde               | Glatte Wundränder; tiefer liegende Nerven und Blutgefäße können verletzt sein                                                                                                                              |  Vulnus scissum (*Vuln. sciss.*)                                            |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Stichwunde                 | Glatte Wundränder; meist kleine Wunde dafür aber tiefer, kann mitunter in Körperhöhlen penetrieren; Das harmlose Aussehen kann über das tatsächliche Verletzungsausmaß hinweg täuschen!                    |  Vulnus ictum (*Vuln. ict.*)                                                |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Risswunde                  | Unregelmäßige Wundränder; meist nur Schädigung der Haut und keine tieferliegenden Nerven und Blutgefäßen                                                                                                   |  Vulnus laceratum (*Vuln. lac.*)                                            |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Quetschwunde               | Unregelmäßige Wundränder; es kann zum Aufplatzen der Haut kommen (Platzwunde)                                                                                                                              |  Vulnus contusum (*Vuln. cont.*)                                            |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Rissquetschwunde (*RQW*)   | Kombination aus Riss- und Quetschwunde                                                                                                                                                                     |  Vulnus lacero-contusum (*Vlc.*)                                            |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Bisswunde                  | Kombination aus Riss-, Stich- und Quetschwunde mit hoher Infektionsgefahr                                                                                                                                  |  Vulnus morsum (animalis, hominis) (*Vuln. mors.* (anim., hom.))            |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Ablederung                 | Abscherung und Ablederung der Haut infolge von Rotation und Quetschung, Ablösung der Haut vom Untergrund                                                                                                   |  Decollement                                                                |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Amputation                 | Abtrennung eines Körperteiles                                                                                                                                                                              |  (*Amp.*)                                                                   |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Pfählung                   | Eindringen (oder Durchdringen) und Verbleiben von spitzen, u.U. unregelmäßigen Fremdkörpern (z. B. Messer, Injektionsnadel)                                                                                |  Vulnus perforans                                                           |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Schusswunde                | Meist klein aussehende Wunde, das eigentliche Schadensausmaß im Körperinneren ist meist nicht ersichtlich (Druckwelle kann starke innere Verletzungen verursachen), evtl. Ausschuss größer als Einschuss   |  Vulnus sclopetarium (*Vuln. sclopet.*)                                     |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Verbrennung                | Durch Hitzeeinwirkung entstandene Schädigung, siehe :ref:`Thema-verbrennung`                                                                                                                               |  (*Comb.*)                                                                  |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Verbrühung                 | Sonderform der Verbrennung, verursacht durch heiße Flüssigkeiten oder Dampf                                                                                                                                |  (*Amb.*)                                                                   |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | Verätzung                  | Lokale Schädigung der Oberfläche durch stoffe aufgrund einer irreversiblen Zerstörung (Denaturierung) von Eiweißstoffen, siehe :ref:`Thema-veraetzung-intoxikation`                                        |  (*Cauteris.*)                                                              |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
-    | *(Hämatom)*                | Bluterguss; Ansammlung von Blut im Gewebe außerhalb der Blutgefäße                                                                                                                                         |  (*Haem.*)                                                                  |
-    +----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    *   -   Wundart**
+        -   Beschreibung**
+        -   Lat. Diagnose**
+    *   -   Schürfwunde
+        -   Oberflächliche Wunde
+        -   Excorationis (*Excor.*)
+    *   -   Schnittwunde
+        -   Glatte Wundränder;
+            tiefer liegende Nerven und Blutgefäße können verletzt sein
+        -   Vulnus scissum (*Vuln. sciss.*)
+    *   -   Stichwunde
+        -   Glatte Wundränder;
+            meist kleine Wunde dafür aber tiefer, kann mitunter in Körperhöhlen penetrieren; Das harmlose Aussehen kann über das tatsächliche Verletzungsausmaß hinweg täuschen!
+        -   Vulnus ictum (*Vuln. ict.*)
+    *   -   Risswunde
+        -   Unregelmäßige Wundränder; meist nur Schädigung der Haut und keine tieferliegenden Nerven und Blutgefäßen
+        -   Vulnus laceratum (*Vuln. lac.*)
+    *   -   Quetschwunde
+        -   Unregelmäßige Wundränder;
+            es kann zum Aufplatzen der Haut kommen (Platzwunde)
+        -   Vulnus contusum (*Vuln. cont.*)
+    *   -   Rissquetschwunde (*RQW*)
+        -   Kombination aus Riss- und Quetschwunde
+        -   Vulnus lacero-contusum (*Vlc.*)
+    *   -   Bisswunde
+        -   Kombination aus
+            Riss-, Stich- und Quetschwunde mit hoher Infektionsgefahr
+        -   Vulnus morsum (animalis, hominis)
+            (*Vuln. mors.* (anim., hom.))
+    *   -   Ablederung
+        -   Abscherung und Ablederung der Haut
+            infolge von Rotation und Quetschung, Ablösung der Haut vom Untergrund
+        -   Decollement
+    *   -   Amputation
+        -   Abtrennung eines Körperteiles
+        -   Amputatio (*Amp.*)
+    *   -   Pfählung
+        -   Eindringen (oder Durchdringen)
+            und Verbleiben von spitzen, u.U. unregelmäßigen Fremdkörpern (z. B. Messer, Injektionsnadel)
+        -   Vulnus perforans
+    *   -   Schusswunde
+        -   Meist klein aussehende Wunde,
+            das eigentliche Schadensausmaß im Körperinneren ist meist nicht ersichtlich (Druckwelle kann starke innere Verletzungen verursachen), evtl. Ausschuss größer als Einschuss
+        -   Vulnus sclopetarium (*Vuln. sclopet.*)
+    *   -   Verbrennung
+        -   Durch Hitzeeinwirkung entstandene Schädigung,
+            siehe :ref:`verbrennung`
+        -   Combustio (*Comb.*)
+    *   -   Verbrühung
+        -   Sonderform der Verbrennung,
+            verursacht durch heiße Flüssigkeiten oder Dampf
+        -   Ambustio (*Amb.*)
+    *   -   Verätzung
+        -
+        -   (*Cauteris.*)
+    *   -   (Hämatom)*
+        -   Bluterguss;
+            Ansammlung von Blut im Gewebe außerhalb der Blutgefäße in das umliegende Gewebe
+        -   Haematoma (*Haem.*)
+
 
 .. subfigstart::
 
@@ -191,7 +212,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     Rissquetschwunde vor der Versorgung im Spital
 
-    *Hauer*
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -202,7 +223,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     Rissquetschwunde nach der Versorgung im Spital
 
-    *Hauer*
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. todo:: Bild Schnittwunde
 
@@ -216,7 +237,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
     Glatte Wundränder und eigentlich ganz unauffällig:
     Die Stichwunde.
 
-    *Hauer*
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -230,7 +251,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
     **Dieser Patient ist lebensgefährlich verletzt!**
     (Pneumothorax)
 
-    [David Hauer, :term:`ℓ MfG`]
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -241,7 +262,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     Stichwunde mit eröffneter Brusthöhle.
 
-    [David Hauer, :term:`ℓ MfG`]
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. raw:: latex
 
@@ -252,7 +273,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     Verätzung
 
-    [David Hauer, :term:`ℓ MfG`]
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. figure:: /Bilder/HauerDavid-Ccc/burn-chem02.*
     :width: 100%
@@ -270,7 +291,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
     Ablederung nach schwerer Verbrennung
 
-    [David Hauer, :term:`ℓ MfG`]
+    ₢ David Hauer :term:`ℓ MfG`
 
 .. subfigend::
     :width: 0.32
@@ -312,12 +333,12 @@ der Infektionsgefahren bei der Wundversorgung erfolgen.
     eine Eintrittsstelle für Krankheitserreger in unseren Organismus. Der
     Patient sollte daher über einen aufrechten *Tetanus*-Impfschutz
     verfügen
-    (s. :ref:`Thema-tetanus-impfschutz`)\ [#TetanusImpfschutz]_.
+    (s. :ref:`tetanus-impfschutz`)\ [#TetanusImpfschutz]_.
     Bei Bisswunden kann
     über den Speichel einer erkrankten Tieres *Tollwut* übertragen
-    werden. Bei Bisswunden soll daher versucht werden (am
-    Einsatzprotokoll) zu dokumentieren, wer der Besitzer des Tieres ist.
-    Unter Umständen kann es notwendig sein die Polizei einzuschalten.
+    werden.
+    Bei Bisswunden soll daher der Halter bzw. der Besitzer des Tieres dokumentiert werden.
+    Unter Umständen kann es notwendig sein, die Polizei einzuschalten.
 
 
 
@@ -331,9 +352,6 @@ der Infektionsgefahren bei der Wundversorgung erfolgen.
 ******************************
 Wundversorgung frischer Wunden
 ******************************
-
-Beschreibung
-============
 
 Die Wundversorgung orientiert sich an der Wundart sowie an der Stärke
 der Blutung.
@@ -353,54 +371,55 @@ Maßnahmen: Basis-Wundversorgung
 .. todo:: Maßnahme TY61000C: Anpassung an höherqualifiziertes Personal
 
 
-⛑ Basismaßnahmen
-    -   Wunden dürfen nicht direkt berührt werden,
-        außer es ist zur raschen Blutstillung unbedingt notwendig!
-        Es muss immer mit Handschuhen und mit **sterilem Material**
-        gearbeitet werden!
-        Bei der Wundversorgung sind
-        immer sterile Materialien zu verwenden. Papierhandtücher
-        o. ä. sind *nicht zulässig*! Eine Ausnahme kann
-        lediglich bei der Versorgung des Stichs bei der
-        Blutzuckermessung mittels eines sauberen Tupfers gemacht
-        werden, da die Wunde minimal klein ist.
-    -   **Reinigung**:
-        Oberflächliches **ab**\ spülen mit
-        steriler (NaCl 0,9%) von innen nach außen.
-        Bei oberflächlichen
-        Wunden ist auch ein Abspülen unter fließendem Leitungswasser
-        zulässig [Fernandez:2012]_\ .
-        Wunden, die im Spital
-        weiter versorgt werden, sollen nicht übermäßig gereinigt werden,
-        auch soll keine
-        wesentliche Zeitverzögerung entstehen.
+.. rubric:: ⛑ Basismaßnahmen
 
-        Alternativ sind
-        statt der physiologischen Kochsalzlösung auch andere
-        kristalloide Infusionslösungen verwendbar. Die
-        Desinfektion mittels Wunddesinfektionsmittels ist aufgrund der
-        toxischen Wirkung auf das Gewebe nicht
-        mehr standardmäßig empfohlen.
-        [Fernandez:2012]_ [Franz:2012]_ [Schupp:2009]_ [Marquardt:2010]_
-    -   **Fremdkörper**
-        (Messer, Schere oder sonstige Pfählungsgegenstände) sind
-        **in der Wunde zu belassen**!
-        Diese Gegenstände sind mit geeignetem Fixationsmaterial
-        (z. B. Mullbinden) zu stabilisieren. Lose, kleine
-        Fremdkörper wie z. B. Glassplitter
-        dürfen mittels *steriler Instrumente*
-        (Pinzette, ...) entfernt werden.
-    -   Ausgetretene Strukturen
-        (z. B. Gehirn, Eingeweide)
-        dürfen *nicht zurückgestopft* werden! Solche Organteile
-        sollten mit steriler physiologischer Kochsalzlösung
-        feucht gehalten und anschließend steril abgedeckt werden!
-    -   Ein steriler
-        Wundverband mit der jeweiligen Situation angemessenem
-        Material (z. B. Pflaster, Momentverband, Kompresse mit
-        Mullbinde, Wundfolie, ...) muss angelegt oder die
-        Wunde anderweitig steril, aber *nicht* luftdicht
-        abgedeckt werden (Ausnahme: Bagatellverletzungen).
+-   Wunden dürfen nicht direkt berührt werden,
+    außer es ist zur raschen Blutstillung unbedingt notwendig!
+    Es muss immer mit Handschuhen und mit **sterilem Material**
+    gearbeitet werden!
+    Bei der Wundversorgung sind
+    immer sterile Materialien zu verwenden. Papierhandtücher
+    o. ä. sind *nicht zulässig*! Eine Ausnahme kann
+    lediglich bei der Versorgung des Stichs bei der
+    Blutzuckermessung mittels eines sauberen Tupfers gemacht
+    werden, da die Wunde minimal klein ist.
+-   **Reinigung**:
+    Oberflächliches **ab**\ spülen mit
+    steriler (NaCl 0,9%) von innen nach außen.
+    Bei oberflächlichen
+    Wunden ist auch ein Abspülen unter fließendem Leitungswasser
+    zulässig [Fernandez:2012]_\ .
+    Wunden, die im Spital
+    weiter versorgt werden, sollen nicht übermäßig gereinigt werden,
+    auch soll keine
+    wesentliche Zeitverzögerung entstehen.
+
+    Alternativ sind
+    statt der physiologischen Kochsalzlösung auch andere
+    kristalloide Infusionslösungen verwendbar. Die
+    Desinfektion mittels Wunddesinfektionsmittels ist aufgrund der
+    toxischen Wirkung auf das Gewebe nicht
+    mehr standardmäßig empfohlen.
+    [Fernandez:2012]_ [Franz:2012]_ [Schupp:2009]_ [Marquardt:2010]_
+-   **Fremdkörper**
+    (Messer, Schere oder sonstige Pfählungsgegenstände) sind
+    **in der Wunde zu belassen**!
+    Diese Gegenstände sind mit geeignetem Fixationsmaterial
+    (z. B. Mullbinden) zu stabilisieren. Lose, kleine
+    Fremdkörper wie z. B. Glassplitter
+    dürfen mittels *steriler Instrumente*
+    (Pinzette, ...) entfernt werden.
+-   Ausgetretene Strukturen
+    (z. B. Gehirn, Eingeweide)
+    dürfen *nicht zurückgestopft* werden! Solche Organteile
+    sollten mit steriler physiologischer Kochsalzlösung
+    feucht gehalten und anschließend steril abgedeckt werden!
+-   Ein steriler
+    Wundverband mit der jeweiligen Situation angemessenem
+    Material (z. B. Pflaster, Momentverband, Kompresse mit
+    Mullbinde, Wundfolie, ...) muss angelegt oder die
+    Wunde anderweitig steril, aber *nicht* luftdicht
+    abgedeckt werden (Ausnahme: Bagatellverletzungen).
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/frische-Wunde-desinfizieren.*
@@ -411,29 +430,25 @@ Maßnahmen: Basis-Wundversorgung
 
 
 
-.. _Thema-dekubitusprophylaxe:
-.. _Thema-dekubitus:
+.. _dekubitusprophylaxe:
+.. _dekubitus:
 
 *********************************
 Dekubitus und Dekubitusprophylaxe
 *********************************
 
-Wundliegen
-==========
+.. sidebar:: Dekubitus
+
+    -   Unfähigkeit der Lageänderung
+    -   besonders an prädestinierten Druckstellen
+    -   Betroffene: Bettlägrige, Bewusstlose, Intensivpatienten,
+        Querschnittsgelähmte
 
 Wenn der Mensch nicht fähig ist in ausreichendem Umfang regelmäßig seine
-Lage zu ändern, kann es zum Wundliegen kommen. Die Wunden nennt man dann
+Lage zu ändern, kann es zum Wundliegen kommen.
+Die Wunden nennt man
 :dfn:`Dekubitus` :index:`\ <! Dekubitus>` oder Druckgeschwüre.
-
--   Unfähigkeit der Lageänderung
--   besonders an prädestinierten Druckstellen
--   Betroffene: Bettlägrige, Bewusstlose, Intensivpatienten,
-    Querschnittsgelähmte
-
-Beschreibung
-============
-
-:dfn:`Dekubitus` :index:`\ <! Dekubitus>`: *Wundliegen*. Bereich
+Sie sind eine
 lokalisierter Schädigung der Haut und des darunterliegenden Gewebes als
 Folge von lang anhaltendem Druck sowie Scher- und Reibungskräften.
 Durch den Auflagedruck des Körpers kann die Durchblutung der Haut
@@ -456,18 +471,14 @@ aufliegt, z. B. Kleidungsfalten, Schnallen, im Bett vergessenes Material,
 …
 
 Ein gesunder Mensch kann effektiv die Entstehung eines Dekubitus
-verhindern, indem er sich instinktiv umlagert, sobald man einen Schmerz
-infolge einer ungünstigen Lagerung verspürt. Bei bettlägrigen oder sogar
+verhindern, indem er sich instinktiv umlagert.
+Bei *bettlägrigen* oder sogar
 bewusstlosen oder narkotisierten Patienten ist dies nur mehr
 eingeschränkt oder gar nicht mehr möglich. Betroffen sind somit vor
 allem alte oder pflegebedürftige bettlägrige Menschen, bewusstlose
 Patienten bzw. sedierte Intensivpatienten sowie Patienten mit
 Querschnittsläsionen. Es ist Aufgabe des Fachpersonals für eine korrekte
 Lagerung zu sorgen.
-
-*Dekubitus*: *Wundliegen*. Bereich lokalisierter Schädigung der Haut und
-des darunterliegenden Gewebes als Folge von lang anhaltendem Druck sowie
-Scher- und Reibungskräften.
 
 
 Faktoren
@@ -498,6 +509,7 @@ bestimmt:
     das Risiko für einen Dekubitus.
 
 
+
 Grade
 =====
 
@@ -510,7 +522,7 @@ Einteilung der Schweregrade [Shea:1975]_:
     Lederhaut sind geschädigt. Der Druckschaden ist oberflächlich und
     kann sich klinisch als *Blase, Hautabschürfung oder flaches Geschwür*
     darstellen.
-    -   *Grad 3*: Verlust aller Hautschichten einschließlich Schädigung oder
+-   *Grad 3*: Verlust aller Hautschichten einschließlich Schädigung oder
     Nekrose des subkutanen Gewebes, die bis auf, aber nicht unter, die
     darunterliegende Faszie reichen kann. Der Dekubitus zeigt sich
     klinisch als *tiefes, offenes Geschwür*.
@@ -519,17 +531,17 @@ Einteilung der Schweregrade [Shea:1975]_:
     Strukturen* wie Sehnen oder Gelenkkapseln, mit oder ohne Verlust
     aller Hautschichten.
 
+
+
 Lagerung bei Dekubitus und zur Prophylaxe
 =========================================
 
--   :dfn:`30-Lagerung`
-    :index:`\ <! 30-Lagerung>`: Der Patient liegt auf einem oder zwei
+-   :dfn:`30°-Lagerung`: Der Patient liegt auf einem oder zwei
     weichen Kissen, die unter der Körperhälfte eingebracht werden, der
     Kopf ist durch ein kleines Kissen gestützt. Bei korrekter
     Durchführung kann man leicht unter das Kreuzbein oder den Trochanter
     des Oberschenkelknochens fassen. [ThiemesPflege:12]_
--   :dfn:`135-Lagerung`
-    :index:`\ <! 135-Lagerung>`:
+-   :dfn:`135°-Lagerung`:
     Von der Seitenlage ausgehend wird
     der Patient auf eine zusammengerollte Decke oder zwei Pölster
     gelagert. Die Lagerung ist korrekt, wenn der unten liegende
@@ -537,13 +549,11 @@ Lagerung bei Dekubitus und zur Prophylaxe
     Der unten liegende Fuß kann durch
     einen schmalen Polster freigelagert werden.
     [WundversorgungPflege:2]_
--   :dfn:`5-Kissen-Weichlagerung`
-    :index:`\ <! 5-Kissen-Weichlagerung>`:
+-   :dfn:`5-Kissen-Weichlagerung`:
     Der Patient wird komplett
     auf 5 oder mehr Pölstern gelagert. Ziel ist das Freilegen bereits
     geschädigter Bereiche. [ThiemesPflege:12]_
-
--   **Bauchlage** :index:`\ <Bauchlage>`
+-   *Bauchlage* :index:`\ <Bauchlage>`
 
 Abhängig von Begleiterkrankungen oder -verletzungen können u.U. nicht
 alle Lagerungsarten bei einem Patienten angewendet werden.
@@ -557,8 +567,10 @@ Dekubitusprophylaxe allgemein
     Transfer oder Umlagerung. Nur wenn die Anregungen zu eigenen
     Bewegungen (wie minimal auch immer) erfolglos bleiben, sind passive
     Positionsveränderungen sinnvoll. Bezüglich des Zeitintervalls gibt es
-    keine allgemein gültigen Aussagen. Sinnvoll ist es regelmäßig zu
-    überprüfen, ob Zeichen von Druckeinwirkungen auftreten und das
+    keine allgemein gültigen Aussagen.
+    Sinnvoll ist es,
+    regelmäßig zu überprüfen,
+    ob Zeichen von Druckeinwirkungen auftreten und das
     Intervall entsprechend anzupassen.
 -   *Druckentlastung*: Es gibt verschiedene Möglichkeiten, die
     Druckbelastung einzelner Hautregionen zu mindern. Die Aktivierung und

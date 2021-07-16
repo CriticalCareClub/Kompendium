@@ -2,7 +2,7 @@
 .. index::
     single: Guedel-Tubus
 
-.. _Thema-Guedeltubus:
+.. _Guedeltubus:
 .. _Guedel-Tubus:
 
 ########################################################################

@@ -2,8 +2,8 @@
 .. index::
     single: Beatmung
 
-.. _Thema-BeatmungAssistiert:
-.. _Thema-BeatmungKontrolliert:
+.. _BeatmungAssistiert:
+.. _BeatmungKontrolliert:
 
 ###################
 Beatmung (#23)
@@ -80,12 +80,12 @@ beobachten, dass (wahrscheinlich in Folge von Stress) Beatmungen zu
 schnell bzw. zu tief erfolgen. Dies kann katastrophale Auswirkungen
 haben, da es zu einer *Hyperventilation* und dadurch zu einer
 atmungsbedingen Alkalose kommt (Störung des Säure-Basen-Haushaltes, vgl.
-:ref:`Thema-alkalose-respiratorische`).
+:ref:`alkalose-respiratorische`).
 
 
-Die Technik der Beatmung mittels Maske und Beatmungsbeutel ist unter :ref:`Thema-BeutelMaskenBeatmung` beschrieben.
+Die Technik der Beatmung mittels Maske und Beatmungsbeutel ist unter :ref:`BeutelMaskenBeatmung` beschrieben.
 
-.. _Thema-ManuelleBeatmung:
+.. _ManuelleBeatmung:
 
 *****************
 Manuelle Beatmung
@@ -93,7 +93,7 @@ Manuelle Beatmung
 
 Eine Beatmung wird normalerweise mit Hilfsmitteln durchgeführt.
 Helferseitig kommen dabei ein *Beatmungsbeutel*
-(:ref:`Thema-Beatmungsbeutel`) oder ein *Beatmungsgerät* zum Einsatz.
+(:ref:`Beatmungsbeutel`) oder ein *Beatmungsgerät* zum Einsatz.
 Patientenseitig werden *Beatmungsmasken* oder *Beatmungsschläuche*
 (Endotrachealtuben, Larynxtuben, Larynxmasken, Combituben, …)
 angewendet. Um die Atemwege freizuhalten, kann u. U. unterstützend ein
@@ -132,7 +132,7 @@ Mögliche Sauerstoffkonzentrationen bei der Beatmung
 .. index::
     single: Beatmungsbeutel
 
-.. _Thema-Beatmungsbeutel:
+.. _Beatmungsbeutel:
 
 Beatmungsbeutel
 ===============
@@ -313,7 +313,7 @@ Verwendet werden dabei meist die Spontanatmungsformen CPAP bzw. PSV.
     single: Beatmungsgerät; Notfall-
 
 
-.. _Thema-Beatmungsgeraete:
+.. _Beatmungsgeraete:
 
 Beatmungsgeräte
 ===========================
@@ -460,10 +460,10 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
     single: Alveolen; PEEP
 
 
-.. _Thema-PeepVentil:
-.. _Thema-PeepBasic:
-.. _Thema-Peep:
-.. _thema-peep-ventil :
+.. _PeepVentil:
+.. _PeepBasic:
+.. _Peep:
+.. _peep-ventil :
 
 *********************************************************************
 Das PEEP-Ventil sorgt für einen positiven Druck am Ende der Ausatmung

@@ -11,13 +11,13 @@ Gynäkologie (#62)
 Betreuung in der Schwangerschaft
 ********************************
 
-Vgl. :ref:`Thema-schwangerschaft`
+Vgl. :ref:`schwangerschaft`
 
 Notfälle in der Frühschwangerschaft
 ===================================
 
-.. _Thema-fehlgeburt:
-.. _Thema-abort:
+.. _fehlgeburt:
+.. _abort:
 
 Fehlgeburt
 ----------
@@ -221,7 +221,7 @@ Maßnahmen: Vorzeitige Plazentalösung
 
 
 
-.. _thema-vena-cava-syndrom:
+.. _vena-cava-syndrom:
 
 Vena-cava-Kompressionssyndrom
 -----------------------------
@@ -252,10 +252,10 @@ Maßnahmen: Vena-cava-Syndrom
         hochschwangeren Patientinnen.
 
 
-.. _Thema-praeeklampsie:
-.. _Thema-eklampsie:
-.. _Thema-hellp-syndrom:
-.. _thema-eph-gestose:
+.. _praeeklampsie:
+.. _eklampsie:
+.. _hellp-syndrom:
+.. _eph-gestose:
 
 Präeklampsie, EPH-Gestose, HELLP-Syndrom, Eklampsie
 ---------------------------------------------------
@@ -337,7 +337,7 @@ Maßnahmen: Eklampsie, eklamptischer Krampfanfall
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Grundsätzlich ist so wie bei jedem anderen Krampfanfall zu verfahren,
-vgl. :ref:`Thema-krampfanfall`.
+vgl. :ref:`krampfanfall`.
 Bedenke:
 Der eklamptische Krampfanfall ist für Mutter und Kind lebensgefährlich!
 
@@ -577,7 +577,7 @@ Befindet sich die Mutter noch in der Eröffnungsphase wird ein
 schnellstmöglicher, schonender Transport ins Krankenhaus angestrebt.
 Grundsätzlich soll die Gebärende in, zumindest leichter, *Seitenlage*
 transportiert werden um ein *Vena-cava-Kompressionssyndroms*
-(vgl. :ref:`Thema-vena-cava-syndrom`) zu vermeiden.
+(vgl. :ref:`vena-cava-syndrom`) zu vermeiden.
 Idealerweise wird nach lins
 (Linksseitenlage) gelagert, doch ist das nicht zwingend. Ab dem
 erfolgtem *Blasensprung* darf die werdende Mutter jedenfalls nur mehr
@@ -815,7 +815,7 @@ Vollständigkeit und Reife untersucht.
 Notfälle während und unmittelbar nach der Geburt
 ================================================
 
-.. _thema-reanimation-neugeborenes:
+.. _reanimation-neugeborenes:
 
 Basisreanimation des Neugeborenen
 ---------------------------------
@@ -1063,7 +1063,7 @@ Maßnahmen: Blutung in der Nachgeburtsperiode
 Sonstige gynäkologische Erkrankungen und Notfälle
 *************************************************
 
-.. _Thema-unterleibsblutungen:
+.. _unterleibsblutungen:
 
 Vaginale Blutungen
 ==================

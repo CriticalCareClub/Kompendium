@@ -57,7 +57,7 @@ einen Notarzt.
 .. index::
     single: Status asthmaticus
 
-.. _Thema-status-asthmaticus:
+.. _status-asthmaticus:
 
 Status Asthmaticus
 ==================
@@ -247,7 +247,7 @@ Maßnahmen
         Achtung: In seltenen Fällen kann es vorkommen, dass bei hochdosierter
         Sauerstoffgabe der Patient weniger atmet
         und Bewusstseinsstörungen auftreten
-        (CO₂-Narkose, vgl. :ref:`Thema-Copd`)!
+        (CO₂-Narkose, vgl. :ref:`Copd`)!
         Bei sorgfältiger Überwachung des
         Patienten stellt die O₂-Gabe in der Praxis
         jedoch kein Problem dar [Scholz:2]_.

@@ -1,5 +1,5 @@
 
-.. _thema-neurocheck:
+.. _neurocheck:
 
 ########################################################################
 Neurocheck
@@ -9,7 +9,7 @@ Neurocheck
 Der :dfn:`Neurocheck` ist eine einfache, überblickshafte
 ("grobe") Untersuchung der wichtigsten Funktionen des Nervensystems.**
 Teile des Neurochecks werden während des Einschätzungsblockes
-(:ref:`Thema-einschaetzungsblock`) durchgeführt.
+(:ref:`einschaetzungsblock`) durchgeführt.
 
 
 
@@ -20,7 +20,7 @@ Teile des Neurochecks werden während des Einschätzungsblockes
     single: Nackensteifigkeit; Untersuchung
 
 
-.. _Thema-nackensteifigkeit-untersuchung:
+.. _nackensteifigkeit-untersuchung:
 
 Neurocheck
 ----------
@@ -48,8 +48,8 @@ Neurocheck
 
     Die Glasgow Coma Scale (GCS) erlaubt eine detailliertere Beschreibung
     des Bewusstseins und des Verlaufs.
-    Vgl. :ref:`Thema-bewusstsein`
-    und :ref:`Thema-gcs`
+    Vgl. :ref:`bewusstsein`
+    und :ref:`Glasgow Coma Scale <gcs>`.
 
 #.  *Orientierung*:
 
@@ -90,23 +90,26 @@ Neurocheck
         Richtung Kopf zu heben.
 
 #.  :dfn:`Nackensteifigkeit`:
-    Die Nackensteifogkeit ist ein *Meningismuszeichen*
+    Die Nackensteifogkeit ist ein
+    :ref:`Meningismuszeichen <Meningismuszeichen>`
     :index:`\ <Meningismuszeichen!Nackensteifigkeit!Untersuchung>`.
     Der Patient liegt *flach* auf dem Rücken. Der Untersucher fasst den
     Kopf des Patienten und versucht das Kinn an die Brust zu führen. Es
     handelt sich um eine *passive Bewegung*, der Patient darf dabei nicht
     mithelfen. Normalerweise ist diese Bewegung ohne Probleme möglich.
 
-    Wenn eine Nackensteifigkeit vorliegt ist die Beugung nicht möglich
+    Wenn eine Nackensteifigkeit vorliegt, ist die Beugung nicht möglich
     und der Versuch schmerzhaft, der Patient bewegt evtl. den ganzen
-    Rumpf mit. Die Bedeutung der Nackensteifigkeit wird unter
-    :ref:`Thema-meningitis` besprochen.
+    Rumpf mit.
+
+    Die Bedeutung der Nackensteifigkeit wird unter
+    :ref:`meningitis` besprochen.
     *Bei jedem Patienten mit Fieber ist auf das Vorliegen einer Nackensteifigkeit zu untersuchen*,
     jedoch
     **nicht bei Verdacht auf Wirbelsäulenverletzung!**
 #.  *Blutzuckermessung*: Eine Blutzuckermessung gehört zu einem
     vollständigen Neurocheck.
-#.  *Hirndruckzeichen* (:ref:`Thema-hirndruckzeichen`) sind eine typische
+#.  *Hirndruckzeichen* (:ref:`hirndruckzeichen`) sind eine typische
     Kombination von Symptomen und deuten auf eine Erhöhung des Druckes
     innerhalb des Hirnschädels hin (z. B. aufgrund einer Verletzung oder
     Blutung). Hier sind eigentlich keine neuen Untersuchungsschritte

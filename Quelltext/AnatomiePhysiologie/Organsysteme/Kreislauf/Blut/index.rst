@@ -3,7 +3,7 @@
     single: ! Blut
 
 
-.. _Thema-blut:
+.. _blut:
 
 Das Blut hat viele Aufgaben
 ===========================
@@ -53,10 +53,10 @@ Außerdem enthält es *Proteine* und andere *gelöste Stoffe*.
     single: Blutgruppenmerkmale
 
 
-.. _Thema-haemoglobin:
-.. _Thema-leukozyten:
-.. _Thema-erythrozyten:
-.. _Thema-thrombozyten:
+.. _haemoglobin:
+.. _leukozyten:
+.. _erythrozyten:
+.. _thrombozyten:
 
 Bestandteile
 ------------
@@ -115,7 +115,7 @@ Blutkörperchen (Leukozyten) und Blutplättchen (Thrombozyten):
 
     -   Die :dfn:`weißen Blutkörperchen` (*Leukozyten*) sind
         ein wichtiger Teil des Immunsystems und dienen der *Infekt- und
-        Fremdkörperabwehr* des Körpers (:ref:`Thema-immunsystem`). Es befinden
+        Fremdkörperabwehr* des Körpers (:ref:`immunsystem`). Es befinden
         sich zwischen 4000 und 8000 Leukozyten pro im Blut des Körpers;
         es gibt verschiedene Arten von Leukozyten [#LeukosArten]_.
 
@@ -213,7 +213,7 @@ Das Blut hat vielfältige Aufgaben:
 
 -   *Stoff- und Gastransport*: Das Blut transportiert *Sauerstoff* und
     Nährstoffe hin zu den Zellen und *Kohlendioxid* von den Zellen weg
-    (:ref:`Thema-blut-sauerstofftransport`). Weiters transportiert es die über
+    (:ref:`blut-sauerstofftransport`). Weiters transportiert es die über
     den Darm aufgenommenen *Nährstoffe* zu den entsprechenden
     Weiterverarbeitungsstellen und sorgt für den Abtransport von
     *Abfallprodukten* zu Leber und Niere. Außerdem werden über das Blut
@@ -222,7 +222,7 @@ Das Blut hat vielfältige Aufgaben:
 -   *Immunsystem*: Das Blut spielt eine wichtige Rolle im Rahmen des
     Immun(abwehr)systems: Weiße Blutkörperchen und bestimmte, im Blut
     gelöste, Stoffe sind ein wichtiger Bestandteil des Immunsystems
-    (:ref:`Thema-immunsystem`). Durch das Blut gelangen die weißen
+    (:ref:`immunsystem`). Durch das Blut gelangen die weißen
     Blutkörperchen und die gelösten Stoffe an den Ort von Infektionen.
 
 -   *Regulation der Körpertemperatur* gemeinsam mit den Blutgefäßen: Bei
@@ -233,12 +233,12 @@ Das Blut hat vielfältige Aufgaben:
     Hitze wie möglich loszuwerden.
 
 -   *Säure-Basen-Haushalt*: Mittels eines *Puffersystems*
-    (:ref:`Thema-bikarbonatpuffer`) hilft das Blut bei der Aufrechterhaltung
+    (:ref:`bikarbonatpuffer`) hilft das Blut bei der Aufrechterhaltung
     eines ausgeglichenen pH-Wert im Körper.
 
 
 
-.. _Thema-blut-sauerstofftransport:
+.. _blut-sauerstofftransport:
 
 Sauerstofftransport
 ^^^^^^^^^^^^^^^^^^^
@@ -289,8 +289,8 @@ und der Herzfrequenz bestimmt.
 
 
 
-.. _Thema-immunsystem:
-.. _Thema-vitalfunktion-immunsystem:
+.. _immunsystem:
+.. _vitalfunktion-immunsystem:
 
 Das Immunsystem ist eine Vitalfunktion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -306,7 +306,7 @@ Das Immunsystem ist eine Vitalfunktion
 Das :dfn:`Immunsystem` (Abwehrsystem) schützt den Körper vor
 Infektionskrankheiten und ist eine Vitalfunktion 2. Ordnung. Eine
 besonders bedeutende Rolle spielen die *Leukozyten* (Weiße
-Blutkörperchen, :ref:`Thema-leukozyten`). Sie ermöglichen das Abtötung und
+Blutkörperchen, :ref:`leukozyten`). Sie ermöglichen das Abtötung und
 den Abbau von Krankheitserregern im Körper. Bestimmte Arten von
 Leukozyten können *Antikörper* (*Immunglobuline*)
 produzieren, das sind Proteine, welche an die Oberfläche von anderen
@@ -349,7 +349,7 @@ Organisation von derartigen Produkten kann aufwendig und zeitkritisch
 sein, da u.U. die benötigten Einheiten nur in speziellen Zentren im
 geringen Umfang vorrätig sind.
 
-.. _Thema-Gerinnungsfaktoren:
+.. _Gerinnungsfaktoren:
 
 Blutstillung
 ------------

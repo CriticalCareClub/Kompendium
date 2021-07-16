@@ -1,6 +1,6 @@
 
-.. _Thema-O2:
-.. _Thema-Sauerstoff:
+.. _O2:
+.. _Sauerstoff:
 
 ########################################################################################################################
 Sauerstoff – O₂ (`#24 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/24>`_)
@@ -326,9 +326,9 @@ Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.
     ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 
-.. _Thema-Berieselung:
-.. _Thema-Berieselungsbrille:
-.. _Thema-Berieselungsmaske:
+.. _Berieselung:
+.. _Berieselungsbrille:
+.. _Berieselungsmaske:
 
 O₂-Berieselung bei erhaltener Eigenatmung
 =================================================

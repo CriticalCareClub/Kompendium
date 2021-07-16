@@ -11,7 +11,7 @@ folgt dem Grundsatz *"Treat first what kills first"* und die
 traditionelle Reihenfolge "Atemwege – Atmung – Kreislauf" wird natürlich
 beibehalten.
 Diese Interpretation des ABCDE-Models ermöglicht
-einer schrittweise und geradlinig abarbeitenbaren Struktur zu folgen,
+einer geradlinigen Struktur zu folgen,
 welche dennoch genügend Freiraum für spezielle
 Situationen bietet und als **Screening** für die wichtigsten vital
 bedrohlichen Erkrankungen (und Verletzungen) geeignet ist.
@@ -82,6 +82,6 @@ besonders qualifiziertem Personal.
 Weiters müssen Maßnahmen immer
 **situationsgerecht** sein,
 und können aufgrund der Vielzahl an Variablen
-nicht starr in Form eines Standard Operating Procedures (SOP)
+nicht starr in Form von Standard Operating Procedures (SOP)
 festgeschrieben werden.
 

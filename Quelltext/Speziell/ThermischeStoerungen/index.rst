@@ -8,8 +8,8 @@ Thermische Schädigungen (#71)
 
 
 
-.. _Thema-Hitzeerkrankungen:
-.. _Thema-system-Hitzeschaeden:
+.. _Hitzeerkrankungen:
+.. _system-Hitzeschaeden:
 
 *****************
 Hitzeerkrankungen
@@ -24,7 +24,7 @@ resultiert ein Hitzeschaden:
 :dfn:`Hitzeerschöpfung`, :dfn:`Hitzschlag` :index:`\ <! Hitzschlag>` (bzw. Sonnenstich
 bei direkter Sonneneinstrahlung auf den Kopf ein Sonnenstich).
 
-.. _Thema-hitzeerschoepfung:
+.. _hitzeerschoepfung:
 
 Hitzekollaps und Hitzeerschöpfung
 =================================
@@ -92,7 +92,7 @@ Maßnahmen: Hitzeerschöpfung
     -   Neurocheck inkl. BZ-Messung
 
 
-.. _Thema-sonnenstich:
+.. _sonnenstich:
 
 Hitzschlag und Sonnenstich
 ==========================

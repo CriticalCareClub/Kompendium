@@ -32,24 +32,24 @@ Partialdruck (mmHg) an Kohlendioxid in der Ausatemluft messen und
 graphisch darstellen.
 Diese Verfahren sind wichtig, um eine *Fehllage*
 von Hilfsmitteln zur Atemwegssicherung (z. B. *Larynxtubus*
-(:ref:`Thema-larynxtubus`), *Endotrachealtubus*
-(:ref:`Thema-intubation`)) zu erkennen bzw. auszuschließen und kann
+(:ref:`larynxtubus`), *Endotrachealtubus*
+(:ref:`intubation`)) zu erkennen bzw. auszuschließen und kann
 als Zielwert dienen um die *Beatmungsparameter* bei der Beatmung optimal
 für den Patienten einstellen zu können. Zusätzlich kann man durch die
 CO₂-Messung eine gewisse Aussage über die *Durchblutung der Lunge*
-(*Lungenperfusion*, :ref:`Thema-lungenperfusion`)
+(*Lungenperfusion*, :ref:`lungenperfusion`)
 bzw. über die *Kreislaufsituation* treffen.
 
 ..
     Die Messung kann
     in 3 Phasen eingeteilt werden:
 
-    -   1. Phase:
+    -   \ 1. Phase:
         Das Atemgas aus dem Totraum der vorangegangenen Inspiration
         wird abgeatmet.
-    -   2. Phase:
+    -   \ 2. Phase:
         Ein Gemisch aus Totraumgas und Alveolargas wird abgeatmet.
-    -   3. Phase: Reines Alveolargas wird abgeatmet.
+    -   \ 3. Phase: Reines Alveolargas wird abgeatmet.
 
 Am aussagekräftigsten ist der Messwert am Ende der Ausatmung,
 da hier die höchste CO₂-Konzentration gemessen wird.
@@ -63,7 +63,8 @@ Bezeichnung :dfn:`etCO₂` ab: Sie steht für den
     Standardmonitoringverfahren bei beatmeten Patienten
 
 
-.. _Thema-Kapnometrie:
+
+.. _Kapnometrie:
 
 Kapnometrie und Kapnographie
 ************************************************************************
@@ -87,9 +88,9 @@ Die CO₂-Messung hat im wesentlichen folgende Funktionen:
 
 #.  Lagekontrolle von Atemwegshilfsmitteln,
     insbes. *Endotrachealtubus*
-    (:ref:`Thema-EndotrachealeIntubation`)
+    (:ref:`EndotrachealeIntubation`)
     und *Larynxtubus*
-    (:ref:`Thema-Larynxtubus`)
+    (:ref:`Larynxtubus`)
 #.  Einschätzung der alveolären CO₂-Konzentration
     somit als Surrogatwert zur Einschätzung der Blut-CO₂-Konzentration (paCO₂),
     sofern keine Diffusionsstörung vorliegt.
@@ -119,9 +120,13 @@ der Ausatemluft die Geräte beschädigen kann.
 Anwendungshinweise
 ==================
 
-Bei allen Messvorrichtungen muss ein *Bakterienfilter* zwischen Tubus
-und Messeinrichtung eingebaut sein, da die Feuchtigkeit der Ausatemluft
-die Geräte beschädigen, sowie Sekret die Messung vereiteln kann.
+Bei allen Messvorrichtungen muss ein *Bakterienfilter*
+zwischen dem Atemwegshilfsmittel (Tubus, Larynxmakse etc.)
+und Messeinrichtung eingebaut sein,
+da die Feuchtigkeit der Ausatemluft die Geräte beschädigen,
+Sekret die Messung vereiteln kann
+und Keime das System kontaminieren.
+
 
 
 Beurteilung
@@ -131,7 +136,7 @@ Beurteilung
 
     .. sidebar:: Beurteilung
 
-        -   4–5% CO₂-Konzentration; 35–40 mmHg CO₂-Partialdruck
+        -   4—5% CO₂-Konzentration; 35—40 mm Hg CO₂-Partialdruck
 
         -   Erniedrigt:
 
@@ -219,7 +224,7 @@ Reanimation ist ein Hinweis auf einen *wiedererlangten Spontankreislauf*
 
 .. note::
 
-    In der Reanimation kann durch die etCO₂-Messung
+    Während der Reanimation kann durch die etCO₂-Messung
     unter Umständen keine zuverlässige
     Aussage über die Tubuslage getroffen werden,
     da die Lungenperfusion deutlich schlechter ist, als bei einem Menschen mit Spontankreislauf!

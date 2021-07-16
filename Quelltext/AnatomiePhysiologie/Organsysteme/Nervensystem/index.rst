@@ -63,7 +63,7 @@ unterteilen.
 Die Begriffe sind recht unscharf definiert und geben nur eine grobe,
 aber wichtige Übersicht wieder.
 
-.. _Thema-zns:
+.. _zns:
 
 Das Zentralnervensystem (ZNS)
 =============================
@@ -282,8 +282,8 @@ Tritt Liquor in die Umwelt aus,
 ist das ein Zeichen für eine schwerwiegende Verletzung.
 
 
-.. _Thema-vitalfunktion-bewusstsein:
-.. _Thema-bewusstsein:
+.. _vitalfunktion-bewusstsein:
+.. _bewusstsein:
 
 Das Bewusstsein ist eine Vitalfunktion
 --------------------------------------
@@ -304,7 +304,7 @@ Beschreibung
 
 .. admonition:: Defintion
 
-    Bewusstsein\ [#Bewusstsein]_ ist ein Oberbegriff für u.a. Wachheit, Orientierung,
+    Bewusstsein\ [#fnBewusstsein]_ ist ein Oberbegriff für u.a. Wachheit, Orientierung,
     Aufmerksamkeit, Auffassungsgabe, Denkverlauf und Merkfähigkeit
     [Pschyrembel:259]_.
 
@@ -318,10 +318,10 @@ oder bewusstloser Mensch kann dies schlecht oder gar nicht.
 Bei der Diagnostik beurteilt man den *Bewusstseinsgrad* (*quantitativ*;
 *Wieviel* Bewusstsein ist vorhanden?) und die *Orientierung* (Qualität;
 *Wie gut funktioniert das vorhandene Bewusstsein?* Zeitlich, örtlich,
-zur Situation und zur Person). Details siehe :ref:`Thema-Bewusstseinsgrad`.
+zur Situation und zur Person). Details siehe :ref:`Bewusstseinsgrad`.
 
 
-.. [#Bewusstsein]
+.. [#fnBewusstsein]
     Die "wahre" Definition von Bewusstsein ist seit tausenden von Jahren
     ungeklärt.
     Auch an dieser Stelle wird das Geheimnis nicht gelüftet
@@ -418,7 +418,7 @@ auch weniger offensichtliche Dinge, wie z. B. die Gelenksstellung gehören
 dazu.
 
 *Vegetative Nerven* leiten Informationen des
-vegetativen Nervensystems (:ref:`Thema-vegetatives-nervensystem`).
+vegetativen Nervensystems (:ref:`vegetatives-nervensystem`).
 
 
 .. subfigstart::
@@ -465,9 +465,9 @@ vegetativen Nervensystems (:ref:`Thema-vegetatives-nervensystem`).
 .. index::
     single: Nervensystem; vegetatives -
 
-.. _Thema-vegetatives-nervensystem:
-.. _Thema-nervensystem-vegetatives:
-.. _Thema-VegetativesNervensystem:
+.. _vegetatives-nervensystem:
+.. _nervensystem-vegetatives:
+.. _VegetativesNervensystem:
 
 Das vegetative Nervensystem sorgt für die autonome Steuerung wichtiger Körperfunktionen
 ---------------------------------------------------------------------------------------
@@ -505,8 +505,8 @@ und dem **Parasympathikus**
 
 
 
-.. _Thema-sympathikus:
-.. _Thema-parasymapthikus:
+.. _sympathikus:
+.. _parasymapthikus:
 
 Sympathikus und Parasympathikus sind Gegenspieler
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

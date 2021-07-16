@@ -1,5 +1,5 @@
 
-.. _Thema-sonstige-bauchorgane:
+.. _sonstige-bauchorgane:
 
 *******************************************
 Sonstige Organe und Strukturen im Bauchraum
@@ -97,5 +97,5 @@ Außer den "klassischen Bauchorganen" liegen auch andere Organsysteme im
 Bauchraum auf die nicht vergessen werden sollte. Besonders betrifft das
 die inneren weiblichen und männlichen **Geschlechtsorgane**
 wie Eierstöcke, Eileiter und Uterus bzw. Prostata und Samenbläschen.
-Diese werden unter :ref:`Thema-geschlechtsorgane`, gesondert besprochen.
+Diese werden unter :ref:`geschlechtsorgane`, gesondert besprochen.
 

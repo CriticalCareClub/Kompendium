@@ -50,7 +50,7 @@ Entlüftung (Ein- und Ausatmung) erreicht. Im weiteren Verlauf ist mit
 "Atmung" die äußere Atmung gemeint.
 
 
-.. _Thema-atemwege-lunge:
+.. _atemwege-lunge:
 
 *****************************************************************
 Die Atemwege gliedern sich in die oberen und die unteren Atemwege
@@ -116,6 +116,8 @@ und Mundrachen können während des Schluckvorgangs durch den weichen
 Gaumen voneinander getrennt werden. Die Grenze zwischen Mundrachen und
 Schlundrachen bildet der Kehldeckel, ein Teil des Kehlkopfs.
 
+
+
 Kehlkopf und Kehldeckel
 -----------------------
 
@@ -138,6 +140,8 @@ mehreren Teilen, die aus Knorpel aufgebaut sind:
 -   :dfn:`Stellknorpel` (*Cartilago arytenoidea*):
     befinden sich innerhalb des Schildknorpel-Bereichs. Über diese
     Knorpel (2) bewegen und spannen sich die Stimmbänder.
+
+
 
 Schluckakt und Schluckreflex
 ----------------------------
@@ -168,11 +172,10 @@ Ein Ausfall dieses Reflex kann u. U. auch ein Zeichen des Hirntods sein.
     single: Trachea
     single: Luftröhre
 
-.. _Thema-alveolen:
+.. _alveolen:
 
 Untere Atemwege
 ===============
-
 
 In der :dfn:`Trachea` (*Luftröhre*)
 wird die vom Rachen und Kehlkopf kommende Luft zur Lunge
@@ -234,7 +237,7 @@ immer weitere kleinere Bronchien bis schließlich die Bronchioli in die
 
 
 
-.. _Thema-lungenperfusion:
+.. _lungenperfusion:
 
 Die Alveolen sind Endstücke des Atemwegs und für den Gasaustausch zuständig
 ---------------------------------------------------------------------------
@@ -282,17 +285,17 @@ der die Alveole umgebenden Blutgefäße. Die Abschnitte der Atemwege, in
 denen kein Gasaustausch stattfindet und die z. B. nur dem Transport
 dienen, bezeichnet man als :dfn:`Totraum`.
 
-
 .. admonition:: Synopsis
 
     -   Lunge: Sauerstoff (O₂): Alveolen → Blut
     -   Lunge: Kohlendioxid (CO₂): Blut → Alveolen
 
 
+
 .. index::
     single: Pleura
 
-.. _Thema-pleura:
+.. _pleura:
 
 Die Pleura
 ----------
@@ -369,22 +372,20 @@ Fußzeile ( [#Antwort]_)
         aufgezogen und Luft angesaugt.
 
 
-.. _Thema-atemhilfsmuskulatur:
-.. _Thema-atemmechanik:
+
+.. _atemhilfsmuskulatur:
+.. _atemmechanik:
 
 Ventilation: Die Atemmechanik sorgt für einen Zu- und Abfluss von Atemgas
-=========================================================================
+===============================================================================
 
 .. only:: not nosidebar
 
     .. sidebar:: Atemmechanik
 
         -   Atemmuskulatur: Zwerchfell, Zwischenrippenmuskeln
-
         -   Atemhilfsmuskulatur
-
         -   Elastische Eigenschaften von Thorax und Lunge
-
         -    Unterdruck für Atmung wichtig
 
 Wenn man sich den Thorax annähernd als Zylinder
@@ -413,7 +414,7 @@ Gewebe und Pleura(spalt) wichtig:
     des Brustkorbes unterstützen.
 
 -   *Pleura*:
-    Die Funktion der Pleura ist unter :ref:`Thema-pleura`, erklärt.
+    Die Funktion der Pleura ist unter :ref:`pleura`, erklärt.
 
 .. admonition:: Synopsis
 
@@ -523,8 +524,8 @@ Ausatmen sozusagen wieder hinaus gedrückt.
 
 
 
-.. _Thema-vitalfunktion-atmung:
-.. _Thema-atemvolumina:
+.. _vitalfunktion-atmung:
+.. _atemvolumina:
 
 *********************************
 Die Atmung ist eine Vitalfunktion
@@ -617,9 +618,16 @@ Atemminutenvolumen von 6—8 L / min.
 
 [Lissauer:2007]_ [Lutomsky:3]_
 
-.. _Thema-totraum:
 
-Totraumbelüftung
+
+
+.. index::
+    single: Totraum
+
+.. _Totraum:
+.. _Totraumventilation:
+
+Totraum
 ================
 
 .. only:: not nosidebar
@@ -628,8 +636,9 @@ Totraumbelüftung
 
         -   Totraum: Teil der Atemwege, der nicht am Gassaustausch teilnimmt
         -   Von Nase bis zur vor Alveolen
+        -   :ref:`Schnappatmung <Schnappatmung>`
 
-Unter dem *Totraum* versteht man den Teil der Atemwege
+Unter dem :dfn:`Totraum` versteht man den Teil der Atemwege,
 der nicht am Gasaustausch teilnimmt. Dies ist im wesentlichen der
 gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen
 (Alveolen). Die Luft muss erst diesen Totraum passieren um in die
@@ -640,6 +649,22 @@ teilzunehmen. Der Totraum beträgt beim Erwachsenen ca. 150 mL. [Klinke:3]_
 
     -   Die Einatemluft muss erst den Totraum passieren um am
         Gasaustausch in den Alveolen teilzunehmen.
+
+
+Bei der :dfn:`Totraumventilation`
+(*Syn.* *Totraumbelüftung*) ist das Atemzugvolumen so gering,
+dass die
+Ausatemluft im Totraum verbleibt
+und bei der folgenden Einatmung erneut,
+anstatt von Frischluft,
+in die Lungenbläschen gelangt.
+Somit kommt es sowohl zu einem Mangel an frischem Sauerstoff in den Alveolen,
+als auch zu einem Rückstau von Kohlendioxid,
+welches nicht mehr abgeatmet werden kann.
+
+Insbesonder bei der :ref:`Schnappatmung <Schnappatmung>` kann genau dies passieren.
+
+
 
 Atemgase
 ========
@@ -673,9 +698,9 @@ aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
 :ref:`Table-luft-gas`.
 
 
-.. _Table-luft-gas:
 
 .. table:: Gasgehalt in der Raum- und Ausatemluft
+    :name: Table-luft-gas
 
     +----------------+----------------------+-------------------+
     | **Raumluft**   |                      | **Ausatemluft**   |
@@ -688,6 +713,8 @@ aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
     +----------------+----------------------+-------------------+
     | 1%             | Edelgase             | 1%                |
     +----------------+----------------------+-------------------+
+
+
 
 Steuerung der Atmung
 ====================
@@ -710,7 +737,7 @@ gibt es Sensoren im Körper, die die Konzentration bestimmter Gase
 *Atemantrieb* von der *CO₂-Konzentration* des Blutes abhängig: Je höher
 der CO₂-Gehalt, desto stärker der Atemantrieb. Der Sauerstoffanteil
 spielt nur eine untergeordnete Rolle! Unter
-:ref:`Thema-saeure-basen-haushalt`, wird ausgeführt, dass das CO₂ eine
+:ref:`saeure-basen-haushalt`, wird ausgeführt, dass das CO₂ eine
 wichtige Rolle im Säure-Basen-Haushalt des Körpers einnimmt.
 
 

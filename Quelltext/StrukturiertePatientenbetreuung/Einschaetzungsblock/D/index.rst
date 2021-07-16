@@ -1,3 +1,6 @@
+
+.. _Abcde-D:
+
 ******************************
 Ⓓ Neurologie (Disability)
 ******************************
@@ -31,7 +34,7 @@ Wenn erforderlich (neurologische Defizite,
 Hinweise auf Stoffwechselstörungen, …) erfolgt eine *Blutzuckermessung*.
 
 
-.. _Thema-Orientierung:
+.. _Orientierung:
 
 Orientierung
 ============
@@ -55,7 +58,7 @@ Man unterscheidet dabei die Orientierung zu:
 -   *Situation*: Was passiert gerade?
 
 
-.. _Thema-Gcs:
+.. _Gcs:
 
 Glasgow Coma Scale (GCS)
 ========================
@@ -108,7 +111,7 @@ Zuckerstoffwechselstörungen.
     single: Druck, intrakranieller
     single: Hirndruckzeichen
 
-.. _Thema-Hirndruckzeichen:
+.. _Hirndruckzeichen:
 
 Hirndruckzeichen
 ================

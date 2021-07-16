@@ -97,7 +97,7 @@ einem ganz normalen Sanitätsdienst und seinen typischen Problemen.
 Gefahrenbekämpfung
 ******************
 
-.. _Thema-jus-langer-dienst-fall-1:
+.. _jus-langer-dienst-fall-1:
 
 Fall 1. Randalierender Patient
 ==============================
@@ -125,7 +125,7 @@ Variante "unmittelbare Bedrohung"
 .. rubric:: Rechtslage
 
 Für die erste Frage sind die Selbsthilferechte maßgebend, vgl.
-:ref:`Thema-selbsthilferechte`:
+:ref:`selbsthilferechte`:
 
 -   Notwehr: Abwehr eines Angriffes auf ein eigenes oder fremdes
     Rechtsgut
@@ -149,7 +149,7 @@ Für die erste Frage sind die Selbsthilferechte maßgebend, vgl.
     nicht angewendet werden.
 
 Bezüglich einer "Einweisung" ist das *Unterbringungsgesetz* :index:`\ <Unterbringungsgesetz!Fallbeispiel>`
-(:ref:`Thema-unterbringungsgesetz`) zu berücksichtigen:
+(:ref:`unterbringungsgesetz`) zu berücksichtigen:
 
 -   Da Herr Hauzu eine psychiatrische Erkrankung hat, durch diese eine
     ernstliche Gefährdung für andere droht und keine verhältnismäßigeren
@@ -180,7 +180,7 @@ Variante "unmittelbare Bedrohung":
     Daher der Grundsatz: Selbstschutz geht vor
     Fremdschutz (bzw. übertriebenen Heldenmut).
 
-.. _Thema-jus-langer-dienst-fall-2:
+.. _jus-langer-dienst-fall-2:
 
 Fall 2. Gefahr durch Hund
 =========================
@@ -228,7 +228,7 @@ Unabhängig davon treten sie jedoch den Rückzug an.
 Heilbehandlung
 **************
 
-.. _Thema-jus-langer-dienst-fall-3:
+.. _jus-langer-dienst-fall-3:
 
 Fall 3. Blutzuckermessung = Heilbehandlung
 ==========================================
@@ -250,7 +250,7 @@ durchgeführt werden?
 
 Sowohl die geplante neurologische Untersuchung, als auch die
 Blutzuckermessung stellen eine Heilbehandlung dar
-(:ref:`Thema-heilbehandlung`). Aufgrund der krankheitsbedingt fehlenden
+(:ref:`heilbehandlung`). Aufgrund der krankheitsbedingt fehlenden
 Einsichts- und Urteilsfähigkeit muss von einer Aufklärung bzw.
 Einwilligung des Patienten (in seinem Interesse!) abgesehen
 werden\ [#308]_.
@@ -275,8 +275,8 @@ nicht möglich.
 Selbstbestimmungsrecht
 **********************
 
-.. _Thema-jus-langer-dienst-fall-4:
-.. _thema-jus-fall-aufklaerung:
+.. _jus-langer-dienst-fall-4:
+.. _jus-fall-aufklaerung:
 
 Fall 4. Aufklärung und Einwilligung
 ===================================
@@ -295,7 +295,7 @@ geschwollene Knöchel, ein Blutdruck von und nach beiläufiger Aussage der
 Patientin starker Harndrang mit süßlichem Geruch diagnostiziert.
 
 Schnell ist Sepp klar, dass es sich um eine
-:ref:`EPH-Gestose <Thema-eph-gestose>`
+:ref:`EPH-Gestose <eph-gestose>`
 handelt, die zur Eklampsie führen kann und einen
 raschen, aber möglichst reizarmen Transport auf die Gynäkologie
 benötigt. Da er aber wenig von jungen Müttern hält, erachtet er es auch
@@ -310,7 +310,7 @@ Einwilligung erfolgen und wenn ja, in welcher Form?
 
 .. rubric:: Rechtslage
 
-:ref:`Thema-aufklaerung`: Die Patientin Frau Uninformiert ist volljährig und
+:ref:`aufklaerung`: Die Patientin Frau Uninformiert ist volljährig und
 zeigt keine Kennzeichen einer fehlenden Einsichts- und Urteilsfähigkeit.
 Ihre Entscheidungsbefugnis ist gegeben, daher ist sie vollinhaltlich
 aufzuklären.*
@@ -349,7 +349,7 @@ folgenden Bestimmungen:
     Gefahr in Verzug: *unmittelbar* drohende oder gegenwärtige Gefahr,
     die ein Abwarten nicht zulässt bzw. unmittelbares Handeln verlangt
 
-.. _Thema-jus-langer-dienst-fall-5:
+.. _jus-langer-dienst-fall-5:
 
 Fall 5. Patientenverfügung
 ==========================
@@ -366,7 +366,7 @@ Heimpflegerin auf Alex, Sepp und Bernd zustürmt und sie zu der 70
 jährigen, regungslosen Patientin, Frau Finito, bringt. Gleichzeitig hält
 die Heimpflegerin den Sanitätern eine Patientenverfügung vor, die Frau
 Finito vor über 5 Jahren auf einer Serviette unterschrieben hat und nach
-der "bei ausbleibenden Kreislauf keine Wiederbelebungsmaßnahmen gesetzt
+der "bei ausbleibendem Kreislauf keine Wiederbelebungsmaßnahmen gesetzt
 werden" dürfen. Deshalb hatte die Pflegerin es bis jetzt auch
 unterlassen mit einer Reanimation zu beginnen. Da sie aber ebenso nicht
 weiß, ob die Verfügung bindend ist, rief sie die Rettung und setzte sich
@@ -378,7 +378,7 @@ Was ist eine Patientenverfügung? Ab wann und wie weit ist sie bindend?
 
 .. rubric:: Rechtslage
 
-Siehe :ref:`Thema-patientenverfuegung`.
+Siehe :ref:`patientenverfuegung`.
 
 Die "Verfügung" erfüllt nicht die strengen Kriterien einer
 verbindlichen Patientenverfügung:
@@ -408,7 +408,7 @@ Mit einer Reanimation ist zu beginnen.
 Rechte und Pflichten des Sanitäters
 ***********************************
 
-.. _Thema-jus-langer-dienst-fall-6:
+.. _jus-langer-dienst-fall-6:
 
 Fall 6. Unterlassung der Notarztnachforderung
 =============================================
@@ -491,7 +491,7 @@ macht er sich gleichzeitig nach strafrechtlichen (§ 95 StGB) und
 verwaltungsrechtlichen Bestimmungen (§ 9 in Verbindung mit § 53 SanG)
 strafbar.
 
-.. _Thema-jus-langer-dienst-fall-7:
+.. _jus-langer-dienst-fall-7:
 
 Fall 7. Sanitäterkompetenzen
 ============================
@@ -549,7 +549,7 @@ werden dürfen bzw. i. S. d. § 95 StGB gesetzt werden müssen.
 Sepp darf keinen venösen Zugang legen oder sogar Medikamente darüber
 verabreichen, selbst wenn Gefahr in Verzug vorliegt.
 
-.. _Thema-jus-langer-dienst-fall-8:
+.. _jus-langer-dienst-fall-8:
 
 Fall 8. Rechtswidrige Anordnung durch Notarzt
 =============================================
@@ -569,7 +569,7 @@ er Sepp die Packung betrachten sieht, dass das "Zeug" nichts nutzt, da
 er vor zwei Stunden eine Tablette eingenommen hätte und noch immer
 "nichts steht". Kurze Zeit später trifft der NEF mit der Notärztin
 Natascha ein, die den Patienten oberflächlich untersucht und eine
-sofortige Nitro-Verabreichung zur Bekämpfung des hohen Blutdrucks ()
+sofortige Nitro-Verabreichung zur Bekämpfung des hohen Blutdrucks
 anordnet, obwohl sie von Sepp über die gefundene Viagra-Packung
 informiert wurde.
 
@@ -617,8 +617,8 @@ Anordnung ablehnen. Natascha hingegen macht sich strafbar wegen
 Körperverletzung und riskiert uU. zivilrechtliche Schadenersatzansprüche
 (→ Nitro-Gabe nicht lege artis).
 
-.. _Thema-jus-langer-dienst-fall-9:
-.. _Thema-dokumentationspflicht-fallbeispiel:
+.. _jus-langer-dienst-fall-9:
+.. _dokumentationspflicht-fallbeispiel:
 
 Fall 9. Dokumentationspflicht
 =============================
@@ -653,7 +653,7 @@ Besteht eine *Dokumentationspflicht* und wenn ja, in welchem Umfang?
 Für Sanitäter besteht die Pflicht, nicht nur gesetzte medizinische
 Maßnahmen zu dokumentieren, sondern auch andere relevante Umstände.
 Daher sind die Behauptungen des Patienten in die Dokumentation
-aufzunehmen. :ref:`Thema-dokumentationspflicht`
+aufzunehmen. :ref:`dokumentationspflicht`
 
  
 
@@ -662,7 +662,7 @@ aufzunehmen. :ref:`Thema-dokumentationspflicht`
 Bernd hat keine ausreichende Dokumentation durchgeführt und kann sich
 somit nicht gegen die Beschuldigungen zur Wehr setzen.
 
-.. _Thema-jus-langer-dienst-fall-10:
+.. _jus-langer-dienst-fall-10:
 
 Fall 10. Verschwiegenheits- und Auskunftspflicht
 ================================================
@@ -684,8 +684,8 @@ Besteht auch eine Auskunftspflicht derselben?
 
 *Jeden Sanitäter trifft die grundsätzliche Pflicht zur Verschwiegenheit.
 Nur in Ausnahmesituationen darf oder muss Auskunft über Geheimnisse
-gegeben werden.(:ref:`Thema-verschwiegenheitspflicht`,
-:ref:`Thema-auskunftspflicht`)*
+gegeben werden.(:ref:`verschwiegenheitspflicht`,
+:ref:`auskunftspflicht`)*
 
 .. rubric:: Rechtsfolge
 
@@ -694,8 +694,8 @@ Auskunftsberechtigten, solange der Patient die Weitergabe von
 Informationen nicht gestattet.
 
 
-.. _Thema-jus-fall-fortbildung:
-.. _Thema-jus-langer-dienst-fall-11:
+.. _jus-fall-fortbildung:
+.. _jus-langer-dienst-fall-11:
 
 Fall 11. Fortbildungspflicht
 ============================
@@ -726,7 +726,7 @@ Medizinproduktes vor der Anwendung eine gerätespezifische Einschulung zu
 absolvieren. Davon unabhängig besteht eine fachbezogene
 Fortbildungspflicht sowie eine Rezertifizierungspflicht.*
 
-:ref:`Thema-fortbildungspflicht`, :ref:`Thema-rezertifizierungspflicht`
+:ref:`fortbildungspflicht`, :ref:`rezertifizierungspflicht`
 
 .. rubric:: Rechtsfolge
 
@@ -750,7 +750,7 @@ Da Sepp Praxisanleiter ist, darf er vorab Bernd einweisen.
 Schadenersatz
 *************
 
-.. _Thema-jus-langer-dienst-fall-12:
+.. _jus-langer-dienst-fall-12:
 
 Fall 12. Verletzung des Patienten durch Sanitäter:
 ==================================================
@@ -788,7 +788,7 @@ Rechtsfrage - Schadenersatz wegen Körperverletzung
 ergeben sich aus dem Bürgerlichen Rechit\ [#313]_.
 
 *Voraussetzungen der Schadenersatzpflicht*, vgl.
-:ref:`Thema-haftbarkeitsvoraussetzung`:
+:ref:`haftbarkeitsvoraussetzung`:
 
 #.  *Schaden*: Nachteil am Körper, an der Gesundheit:
 
@@ -872,7 +872,7 @@ Daher kann Herr Schmerz Schadenersatzansprüche gegen die Sanitäter oder,
 wirtschaftlich vernünftiger, gegen die Rettungsorganisation geltend
 machen.
 
-.. _Thema-jus-langer-dienst-fall-13:
+.. _jus-langer-dienst-fall-13:
 
 Fall 13. Sachbeschädigung
 =========================
@@ -936,8 +936,8 @@ Gleiche Lösung wie bei Fall 12.
 Behandlungspflicht
 ******************
 
-.. _Thema-behandlungspflichtJUS:
-.. _Thema-jus-langer-dienst-fall-14:
+.. _behandlungspflichtJUS:
+.. _jus-langer-dienst-fall-14:
 
 Fall 14. Behandlungspflicht von Krankenanstalten, Ärzten, Sanitätern und Durchschnittsbürgern:
 ==============================================================================================
@@ -968,7 +968,7 @@ Aufnahme.
 Der dortige Aufnahmearzt Dr. Wasbringst hat schon einen 22 Stunden
 Dienst hinter sich und ist alles andere als erfreut über das
 "Mitbringsel" des Teams. Wutentbrannt brüllt er Natascha an, was sie
-sich eigentliche erlaube trotz gesperrten Bettenkontingent seine Station
+sich eigentliche erlaube trotz gesperrten Bettenkontingents seine Station
 anzufahren und verweigert ihr die Aufnahme des Herr Schmerz.
 
 .. rubric:: Rechtsfrage
@@ -996,7 +996,7 @@ werden kann.
 Meldepflichtenrecht
 *******************
 
-.. _Thema-jus-langer-dienst-fall-15:
+.. _jus-langer-dienst-fall-15:
 
 Fall 15. Ansteckende Krankheiten
 ================================
@@ -1040,8 +1040,8 @@ verpflichtet, doch sehr wohl zur Meldung an die weiterbehandelnden
 Gesundheitsberufe aufgrund der schon erwähnten Auskunftspflicht gem. 7
 SanG.
 
-.. _Thema-strafbare-handlungen:
-.. _Thema-jus-langer-dienst-fall-16:
+.. _strafbare-handlungen:
+.. _jus-langer-dienst-fall-16:
 
 Fall 16. Strafbare Handlungen
 =============================
@@ -1075,7 +1075,7 @@ gedroht hat, falls sie die Polizei verständigen würde.
 Besteht eine Pflicht zur Anzeige von strafbaren Handlungen? Wenn ja, für
 wen besteht diese Anzeigepflicht?
 
-.. _thema-anzeigerecht:
+.. _anzeigerecht:
 
 .. rubric:: Rechtslage
 
@@ -1094,7 +1094,7 @@ Anzeige einbringen möchte.
 Straßenordnung
 **************
 
-.. _Thema-jus-langer-dienst-fall-17:
+.. _jus-langer-dienst-fall-17:
 
 Fall 17. Blaulichtverwendung
 ============================
@@ -1122,7 +1122,7 @@ bzw. muss man sich bei einer Blaulichtfahrt verhalten?
 .. rubric:: Rechtslage
 
 Voraussetzung für eine Einsatzfahrt ist Gefahr im Verzug, diese liegt
-im gegenwärtigen Fall nicht vor (:ref:`Thema-einsatzfahrt`).
+im gegenwärtigen Fall nicht vor (:ref:`einsatzfahrt`).
 
 .. rubric:: Rechtsfolge
 

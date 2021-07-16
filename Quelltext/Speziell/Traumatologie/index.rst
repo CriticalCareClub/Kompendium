@@ -15,7 +15,7 @@ thermischer) oder chemischer Art verursacht wurde.
 
 
 Die Untersuchung des traumatologischen Patienten (Traumacheck) wird
-unter :ref:`Thema-traumacheck` erklärt.
+unter :ref:`traumacheck` erklärt.
 
 Auch die Psyche kann als Resultat einer erheblichen seelischen Belastung
 bzw. unzureichender Bewältigungsmöglichkeiten ein Trauma erleiden. Dies
@@ -47,7 +47,7 @@ wichtigsten Aufgaben sind:
 -   Evtl. Nachalarmierung weiterer Einsatzkräfte: weitere Rettungsmittel
     bei mehreren Verletzten, Feuerwehr, Polizei (Alarmierung
     ausschließlich über das Journal, Meldung der Anzahl an Verletzten)
--   Bei mehreren Verletzten Triage (:ref:`Thema-triage`)
+-   Bei mehreren Verletzten Triage (:ref:`triage`)
 -   Eingeklemmte Personen werden im Fahrzeug stabilisiert bis die
     Feuerwehr die Verunfallten rettet; Helme tragen!
 -   Crash-Rettung nur bei Fremdgefährdung, HWS stabilisieren!
@@ -314,7 +314,7 @@ Szeneüberblick an folgende Fragestellungen zu denken:
 
     Ab einer Fallhöhe von 3 m ist mit schweren Verletzungen zu rechnen, ab
     einer Fallhöhe von *6 m* ist von einem *Polytrauma*
-    (:ref:`Thema-polytrauma`) auszugehen .
+    (:ref:`polytrauma`) auszugehen .
 -   Mit welchem Körperteil ist er auf dem Boden aufgeprallt?
 
     Generell ist wieder mit SHT und Wirbelsäulentrauma zu rechnen. Bei
@@ -453,7 +453,7 @@ Maßnahmen: Unfälle
 
 
 
-.. _thema-frakturen:
+.. _frakturen:
 
 ***********************************
 Verletzungen der Knochen: Frakturen
@@ -497,7 +497,7 @@ verletzt ist. Der Knochen muss dabei nicht herausragen\ [#298]_.
     unbedingt notwendig!
 
 
-.. _Thema-frakturzeichen:
+.. _frakturzeichen:
 
 Symptome : Frakturzeichen
 -------------------------
@@ -574,7 +574,7 @@ Gefahren
     besteht, kann v. a. bei Frakturen langer Röhrenknochen zu Fettembolien
     führen: Kleine Fetttröpfchen gelangen dabei in die Blutbahn und
     können eine Lungenarterie verstopfen, dadurch kommt es zu einer
-    Lungenembolie (:ref:`Thema-lungenembolie`).
+    Lungenembolie (:ref:`lungenembolie`).
 
 -   Begleitende *Nervenverletzungen*
 
@@ -596,7 +596,7 @@ Traumacheck durchgeführt werden, damit keine Begleitverletzungen
 entkleidet wird\ [#300]_. Beim Entfernen der Schuhe ist darauf zu achten,
 dass eine Person das Bein fixiert während eine andere Person den Schuh
 öffnet und schließlich mittels Stiefelgriff
-(siehe :ref:`Thema-vacuumbeinschiene-anwendung`)
+(siehe :ref:`vacuumbeinschiene-anwendung`)
 vorsichtig vom Fuß abzieht.
 
 
@@ -734,7 +734,7 @@ Ruhigstellung mittels Vakuummatratze. An große Blutverluste denken
 Verletzungen der Gelenke: Verrenkung und Verstauchung
 *****************************************************
 
-.. _thema-verstauchung-tra:
+.. _verstauchung-tra:
 
 Verstauchung, Bänderzerrung und Bänderriss
 ==========================================
@@ -803,7 +803,7 @@ Maßnahmen: Verstauchung
         der Gegenseite
 
 
-.. _thema-verrenkung:
+.. _verrenkung:
 
 Verrenkung
 ==========
@@ -867,7 +867,7 @@ Maßnahmen Verrenkung
 
 
 
-.. _thema-sht:
+.. _sht:
 
 *************************
 Schädel-Hirn-Trauma (SHT)
@@ -956,13 +956,13 @@ Gefahren
     einschätzen kann.
 -   *Hirnblutung*: Eine Hirnblutung (intrakranielle Blutung) kann sowohl
     in Folge eines SHT als auch spontan (z. B. durch Platzen eines
-    Aneurysmas, "blutiger Insult", :ref:`Thema-insult`) auftreten.
+    Aneurysmas, "blutiger Insult", :ref:`insult`) auftreten.
 
     Aufgrund der inneren Blutung steigt der Druck im Schädel an, s.u.
 -   *Hirndrucksteigerung*: Sowohl durch eine *Hirnblutung*, als auch
     durch ein verletzungsbedingtes *Anschwellen des Hirngewebes*
     (*Hirnödem*) kann es zu einer Drucksteigerung innerhalb des Schädels
-    und zum Auftreten von *Hirndruckzeichen* (:ref:`Thema-hirndruckzeichen`)
+    und zum Auftreten von *Hirndruckzeichen* (:ref:`hirndruckzeichen`)
     kommen:
 
     -   Übelkeit, Erbrechen
@@ -973,7 +973,7 @@ Gefahren
     -   Strecksynergismen
 
     Durch die Hirndrucksteigerung besteht die Gefahr einer
-    **Hirnstammeinklemmung** (:ref:`Thema-hirnstammeinklemmung`). Da sich im
+    **Hirnstammeinklemmung** (:ref:`hirnstammeinklemmung`). Da sich im
     Hirnstamm das Atem- und Kreislaufzentrum befindet besteht dabei akute
     **Lebensgefahr**!
 
@@ -994,7 +994,7 @@ die in einer akut lebensbedrohlichen
 Hirnstammeinklemmung enden kann.
 
 
-.. _Thema-sht-diagnostik:
+.. _sht-diagnostik:
 
 Spezielle Diagnostik beim SHT
 =============================
@@ -1036,12 +1036,12 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
     Auslöser für einen Unfall.
 
     Die *Pupillen* können im Sinne von Hirndruckzeichen
-    (:ref:`Thema-hirndruckzeichen`) pathologisch sein (ungleich weit,
+    (:ref:`hirndruckzeichen`) pathologisch sein (ungleich weit,
     verlangsamte, einseitige oder fehlende Lichtreaktion).
 
     Daneben ist auch zu beurteilen, ob andere Hirndruckzeichen
     (Hypertonie mit Bradykardie, Strecksynergismen, …) vorliegen, vgl.
-    :ref:`Thema-hirndruckzeichen`.
+    :ref:`hirndruckzeichen`.
 
     Weiters muss auf *neurologische Ausfälle* (sensorisch, motorisch) in
     Folge einer *HWS-Verletzung* geachtet werden.
@@ -1050,7 +1050,7 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
     zusätzlich durch die Glasgow Coma Scale einschätzen.
 
 -   *Traumacheck* Ein Traumacheck ist natürlich verpflichtend
-    durchzuführen (:ref:`Thema-traumacheck`).
+    durchzuführen (:ref:`traumacheck`).
 
     Besonders zu beachten ist die Gefahr einer hohen Querschnittslähmung,
     ebenso dass Schädel, HWS und BWS eine Linie bilden.
@@ -1095,7 +1095,7 @@ Maßnahmen SHT
         -   Lagerung: s. u.
         -   Monitoring: Zusätzlich Beurteilung nach GCS
             (Verlauf beobachten und
-            dokumentieren, :ref:`Thema-gcs`)
+            dokumentieren, :ref:`gcs`)
 
     -   Lagerung: leicht erhöhter Oberkörper,
         ca. 30°,
@@ -1199,7 +1199,7 @@ Spital lassen sich die *Hirnschädigungen* nachweisen. Es kann zu
 Nervenverletzungen kommen, dies kann zu vegetativen Störungen führen.
 Bleibende Schäden sind möglich.
 
-.. _Thema-hirnblutung:
+.. _hirnblutung:
 
 Gehirnquetschung — SHT 3°
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1207,7 +1207,7 @@ Gehirnquetschung — SHT 3°
 Die Gehirnquetschung ist eine sehr schwere Form des
 Schädelhirntraumas. Es kommt zu einer *Bewusstlosigkeit länger als 24h*
 und zu teils sehr ausgeprägten Begleitsymptomen wie zum Beispiel
-Hirndruckzeichen (:ref:`Thema-hirndruckzeichen`), Atem und Kreislaufstörungen
+Hirndruckzeichen (:ref:`hirndruckzeichen`), Atem und Kreislaufstörungen
 bis hin zum Atemstillstand durch Einklemmen des Atemzentrums.
 
 Es kann weiteres zu intrakraniellen Blutungen kommen (epidural,
@@ -1263,7 +1263,7 @@ rechnen.
             Hirnblutungen, Lähmungen, zerebrale Krämpfe
 
 
-.. _thema-wirbelsaeulentrauma:
+.. _wirbelsaeulentrauma:
 
 ************************************************
 Verletzungen der Wirbelsäule und des Rückenmarks
@@ -1522,8 +1522,8 @@ Lungenoberfläche und innerer Thoraxwand herrscht beim Gesunden ein
 Unterdruck gegenüber dem äußeren Luftdruck. Die Lunge ist dadurch
 flexibel im Brustkorb aufgespannt. Beim Pneumothorax gelangt durch eine
 Verletzung Luft in diesen Pleuraspalt, welche den Unterdruck aufhebt und
-die Lunge zieht sich zusammen. Vgl. Anatomie: :ref:`Thema-atemmechanik`, und
-:ref:`Thema-pleura`.
+die Lunge zieht sich zusammen. Vgl. Anatomie: :ref:`atemmechanik`, und
+:ref:`pleura`.
 
 Man unterscheidet zwischen
 :dfn:`offenem Pneumothorax` :index:`\ <Pneumothorax; offen>`
@@ -1758,7 +1758,7 @@ Frontalaufprall und großer Geschwindigkeit auf, seltener bei Schuss-
 oder Stichverletzungen. Folgende Verletzungen sind typisch:
 
 -   *Aortenruptur*: Durch einen Einriss der Aorta kommt es zu schweren
-    inneren Blutungen. Siehe auch Abschnitt :ref:`Thema-aortenruptur`.
+    inneren Blutungen. Siehe auch Abschnitt :ref:`aortenruptur`.
 
 -   *Herzkontusion*: Hier kommt es durch Quetschungen der Herzmuskulatur
     zu Sickerblutungen. Bei Sternumfrakturen mit Herzrhythmusstörungen
@@ -1770,7 +1770,7 @@ oder Stichverletzungen. Folgende Verletzungen sind typisch:
     Schockzustand (kardiogener Schock).
 
 
-.. _Thema-bauchtrauma:
+.. _bauchtrauma:
 
 ***********************
 Bauch- und Beckentrauma
@@ -1917,8 +1917,8 @@ Gefahren
 
 .. index:: Milzruptur
 
-.. _Thema-milzruptur:
-.. _Thema-milzruptur-zweizeitig:
+.. _milzruptur:
+.. _milzruptur-zweizeitig:
 
 Milzruptur
 ==========
@@ -1977,9 +1977,9 @@ unterscheidet man:
 
 
 
-.. _Thema-leberruptur:
-.. _Thema-aortenruptur:
-.. _Thema-nierenruptur:
+.. _leberruptur:
+.. _aortenruptur:
+.. _nierenruptur:
 
 Weitere innere Verletzungen
 ===========================
@@ -2048,7 +2048,7 @@ Nierenruptur
 Die Niere als naturgemäß gut durchblutetes Organ kann im Falle einer
 Verletzung auch massive Probleme machen.
 
-.. _Thema-beckentrauma:
+.. _beckentrauma:
 
 Beckentrauma
 ============
@@ -2066,7 +2066,7 @@ Beckentrauma
 Ein Beckentrauma ist eine Verletzung des Beckens.
 
 Besonders gefährlich sind Frakturen des Beckengürtels
-(:ref:`Thema-beckenguertel`). Stehen und Gehen ist dann nicht mehr möglich,
+(:ref:`beckenguertel`). Stehen und Gehen ist dann nicht mehr möglich,
 der Patient verspürt starke Schmerzen bei jeder passiven Bewegung
 *beider* Beine. Da der Beckenknochen gut durchblutet ist, können binnen
 weniger Minuten bis zu fünf Liter Blut (also fast die gesamte Blutmenge)
@@ -2113,7 +2113,7 @@ Maßnahmen: Beckentrauma, instabil
 
 
 
-.. _thema-polytrauma:
+.. _polytrauma:
 
 **********
 Polytrauma
@@ -2221,9 +2221,9 @@ Beschreibung
 
 Verletzungen der Extremitäten können in verschiedenen Formen auftreten:
 
--   Verstauchung (Distorsion, :ref:`Thema-verstauchung-tra`)
--   Verrenkung (Luxation, :ref:`Thema-verrenkung`)
--   Knochenbruch (Fraktur, :ref:`Thema-frakturen`)
+-   Verstauchung (Distorsion, :ref:`verstauchung-tra`)
+-   Verrenkung (Luxation, :ref:`verrenkung`)
+-   Knochenbruch (Fraktur, :ref:`frakturen`)
 -   Amputationen
 
 Amputationen
@@ -2294,7 +2294,7 @@ hier der Vollständigkeit halber erwähnt sind:
 -   Meniskusschaden
 
 
-.. _thema-verbrennung:
+.. _verbrennung:
 
 **************************
 Verbrennung und Verbrühung
@@ -2353,12 +2353,12 @@ haben. [#304]_
     einschlägigen Literatur entsprechend definiert.
 
 Abhängig von den Umständen muss auch an ein *Inhalationstrauma*
-(:ref:`Thema-inhalationstrauma`) oder andere Begleitverletzungen gedacht
+(:ref:`inhalationstrauma`) oder andere Begleitverletzungen gedacht
 werden.
 
 
 
-.. _Thema-verbrennungskrankheit:
+.. _verbrennungskrankheit:
 
 Gefahren
 ========
@@ -2664,7 +2664,7 @@ Was man **nicht** tun darf …
 [Loennecker:2001]_
 [Beneker:2004]_
 
-.. _thema-inhalationstrauma:
+.. _inhalationstrauma:
 
 Inhalationstrauma
 =================
@@ -2721,7 +2721,7 @@ Maßnahmen: Inhalationstrauma
 
 
 
-.. _thema-veraetzung-trauma:
+.. _veraetzung-trauma:
 
 Verletzungen durch chemische Stoffe — "Chemische Verbrennungen"
 ===============================================================
@@ -2737,7 +2737,7 @@ Verletzungen durch chemische Stoffe — "Chemische Verbrennungen"
         -   Selbstschutz, Dekontamination!
 
 Vergiftungen durch Einnahme von Säuren und Laugen werden unter
-:ref:`Thema-veraetzung-intoxikation`, besprochen.
+:ref:`veraetzung-intoxikation`, besprochen.
 
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/notbrause2.*
@@ -2785,7 +2785,7 @@ Maßnahmen: Verletzungen mit chemischen Substanzen
     #.  Wenn erforderlich:
         Vorgehen analog zu Abschnitt
         "Gefahrengutunfall", GAS-Regel
-        (:ref:`Thema-gefahrengutunfall`)
+        (:ref:`gefahrengutunfall`)
     #.  Weitere Opfer ausschließen (lassen)
     #.  Sicherung der Vitalfunktionen, Beurteilung ob der
         Patient vital bedroht ist.
@@ -2963,13 +2963,13 @@ Stromüberlandleitungen (Hochspannungsleitungen)
     kann (*Schrittspannung*). Bei gerissenen Hochspannungsleitungen darf
     man daher keine großen Schritte machen, oder stromleitende
     Gegenstände (z. B. Matalle) berühren (vgl. Gefahrenzonen:
-    :ref:`Thema-gefahrenzonen`)!
+    :ref:`gefahrenzonen`)!
 
 Bahnanlagen
     Die Eisenbahn arbeitet mit einer Oberleitungsspannung von 15 000 V,
     auch bei gesenktem Stromabnehmer oder Dieselfahrzeugen kann durch
     Kondensatorladung eine Spannung von bis zu 3 000 V anliegen
-    (vgl. Gefahrenzonen: :ref:`Thema-gefahrenzonen`).
+    (vgl. Gefahrenzonen: :ref:`gefahrenzonen`).
 
     Im U-Bahnbereich werden Spannungen um die 700 V eingesetzt. [U:61989]_
 
@@ -3009,7 +3009,7 @@ Maßnahmen: Stromunfälle
         keinen Kontakt mehr mit dem Stromkreis hat!
 
         **Strom abschalten (lassen)!**
-        (Vgl. :ref:`Thema-gefahrenbereich-strom`)
+        (Vgl. :ref:`gefahrenbereich-strom`)
 
         -   Gefahrenbreich beachten
         -   Sicherheitsabstand

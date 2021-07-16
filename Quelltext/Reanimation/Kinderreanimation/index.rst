@@ -114,4 +114,4 @@ Reanimation des Neugeborenen
 ============================
 
 Die Reanimation des Neugeborenen wird unter
-:ref:`Thema-reanimation-neugeborenes` ausgeführt.
+:ref:`reanimation-neugeborenes` ausgeführt.

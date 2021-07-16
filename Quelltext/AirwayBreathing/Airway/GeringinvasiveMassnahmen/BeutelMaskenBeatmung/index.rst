@@ -1,4 +1,4 @@
-.. _Thema-BeutelMaskenBeatmung:
+.. _BeutelMaskenBeatmung:
 .. _BeutelMaskenBeatmung:
 
 ########################################################################
@@ -7,7 +7,7 @@ Beutel-Masken-Beatmung
 
 Dieser Abschnitt beschreibt die *Technik* der Beutel-Masken-Beatmung.
 Informationen zur manuellen Beatmung an sich finden sich unter
-:ref:`Thema-ManuelleBeatmung`.
+:ref:`ManuelleBeatmung`.
 
 Der Beatmungsbeutel
 -----------------------

@@ -28,7 +28,7 @@ angeführten Umstände (Abbruchkriterien) eintritt:
     Lebenszeichen richtig erkannt wurden bzw. weiter bestehen.
     Ist eine normale Atmung
     vorhanden, wird die Reanimation endgültig beendet.\ [#150]_
-    Es ist der :ref:`Einschätzungsblock <Thema-Einschaetzungsblock>` sowie die Standardmaßnahmen bei vital bedrohten Patienten durchzuführen.
+    Es ist der :ref:`Einschätzungsblock <Einschaetzungsblock>` sowie die Standardmaßnahmen bei vital bedrohten Patienten durchzuführen.
     Die Sauerstoffgabe hat dabei einen SpO₂-Zielwert von 94—98%.
     *Erbrechen* ist *kein Lebenszeichen*.
 -   **Erschöpfung**:
@@ -51,7 +51,7 @@ angeführten Umstände (Abbruchkriterien) eintritt:
 
 
 
-.. _Thema-Rosc-Bls:
+.. _Rosc-Bls:
 
 
 ********************************************************************************
@@ -73,7 +73,7 @@ Wird bei der Reanimation der Kreislauf wiederhergestellt
 (:dfn:`ROSC`, :dfn:`Resumption Of Spontaneous Circulation`)
 ist die weitere Versorgung wichtig.
 
-Primär ist eine **Patientenevaluation** (:ref:`Einschätzungsblock <Thema-Einschaetzungsblock>`) durchzuführen.
+Primär ist eine **Patientenevaluation** (:ref:`Einschätzungsblock <Einschaetzungsblock>`) durchzuführen.
 Bezüglich der Sofortmaßnahmen gelten sinngemäß die *Standardmaßnahmen bei vital bedrohten Patienten*.
 Die Sauerstoffgabe hat einen |SpO2|-Zielbereich von
 **94—98%**.

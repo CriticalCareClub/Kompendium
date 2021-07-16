@@ -4,7 +4,7 @@
     single: Hypertonie, arterielle
     single: Bluthochdruck
 
-.. _Thema-ArterielleHypertonie:
+.. _ArterielleHypertonie:
 
 ###########################
 Arterielle Hypertonie (#42)
@@ -96,8 +96,8 @@ Hypertonie einen großen Stellenwert in der medizinischen Versorgung der
 Bevölkerung hat.
 
 
-.. _Thema-HypertensiverNotfall:
-.. _Thema-HypertensiveKrise:
+.. _HypertensiverNotfall:
+.. _HypertensiveKrise:
 
 ********************************************
 Hypertensive Krise und Hypertensiver Notfall

@@ -42,11 +42,11 @@ unsichere Gebäude(-teile)
 usw.
 Ggfs. sind auch Fluchtwege einzuplanen.
 
-Eventuell ist hier schon zu erkennen ob *weitere Ressourcen* benötigt
+Eventuell ist hier schon zu erkennen, ob *weitere Ressourcen* benötigt
 werden,
 oder ob es sich um eine *Großschadenslage*
 oder einen *Gefahrengutunfall* handelt.
-Ausserdem können Hinweise wahrgenommen werden,
+Außerdem können Hinweise wahrgenommen werden,
 ob ein *Trauma* vorliegt.
 Bei Unfällen gibt die Inspektion des
 Einsatzortes oft auch Aufschluss

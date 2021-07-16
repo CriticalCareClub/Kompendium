@@ -87,7 +87,7 @@ Wichtige Begriffe
 
     #. Funktionsverlust.
 
-    Vgl. :ref:`Thema-entzuendung`.
+    Vgl. :ref:`entzuendung`.
 
 :dfn:`Prophylaxe` :index:`\ <Prophylaxe>`
     Vorbeugende Maßnahme(n).
@@ -184,7 +184,7 @@ zurande. Wenn das *Immunsystem* jedoch *geschädigt oder geschwächt* ist,
 können *auch sonst harmlose Keime* zu einer großen Gefahr werden!
 Besonders betroffen sind Patienten mit einer *chemotherapeutischen
 Behandlung* oder Leukämie [#255]_, sowie Patienten mit
-*Immunschwäche*-Erkrankungen (z. B. AIDS, :ref:`Thema-aids`). Auch *Kinder*,
+*Immunschwäche*-Erkrankungen (z. B. AIDS, :ref:`aids`). Auch *Kinder*,
 *ältere Personen* oder Patienten in schlechter körperlicher Verfassung
 haben oft ein schwächeres Immunsystem. Auch sonst gesunde Menschen
 können aufgrund von Stress oder schlechter Ernährung anfälliger für
@@ -220,7 +220,7 @@ nur auf bestimmte Keime.
 Ein großes Problem ist die zunehmende Bildung von *Resistenzen* von
 Bakterien gegen Antibiotika, welche diese Medikamente wirkungslos
 machen. Man spricht auch von der Bildung von *multiresistenten Keimen*.
-Diese werden unter :ref:`Thema-multiresistente-keime` näher besprochen.
+Diese werden unter :ref:`multiresistente-keime` näher besprochen.
 
 
 
@@ -302,7 +302,7 @@ Da sie nicht durchblutet werden und somit vom Immunsystem praktisch nicht erschl
 .. index::
     single: Kreuzinfektion
 
-.. _Thema-kreuzinfektion:
+.. _kreuzinfektion:
 
 Kreuzinfektion
 ==============
@@ -331,7 +331,7 @@ als bei einem beatmeten Intensivpatienten.
 
 
 
-.. _thema-multiresistente-keime:
+.. _multiresistente-keime:
 
 *********************
 Multiresistente Keime
@@ -636,7 +636,7 @@ Voraussetzung für eine weiterführende Desinfektion oder Sterilisation.
 
 
 
-.. _Thema-desinfektion-grundzuege:
+.. _desinfektion-grundzuege:
 
 Desinfektion: Keimreduktion
 ----------------------------------------
@@ -931,7 +931,7 @@ Erfahrung voraus. [#265]_
 Praktisches
 ===========
 
-.. _Thema-hygieneplan:
+.. _hygieneplan:
 
 Hygieneplan — Hygienebeauftragter
 ---------------------------------
@@ -963,7 +963,7 @@ Kenntnisse im Bereich der Infektionslehre und Hygiene.
 
 
 
-.. _Thema-persoenliche-hygiene:
+.. _persoenliche-hygiene:
 
 Persönliche Hygiene
 -------------------
@@ -1065,7 +1065,7 @@ Hygienische Händedesinfektion
 Die hygienische Händedesinfektion ist eine der wichtigsten Maßnahmen zur
 Verhütung von Kreuzinfektionen.
 Sie ist eine Standardmaßnahme und wird
-unter :ref:`Thema-hygienische-haendedesinfektion` besprochen.
+unter :ref:`hygienische-haendedesinfektion` besprochen.
 
 
 
@@ -1086,8 +1086,8 @@ Maßnahmen zum (hygienischen) Selbstschutz kurz erläutert:
     single: Masken; FFP-
 
 
-.. _Thema-schutzkleidung-hygiene:
-.. _Thema-atemmasken:
+.. _schutzkleidung-hygiene:
+.. _atemmasken:
 
 Schutzkleidung
 --------------
@@ -1101,7 +1101,7 @@ Schutzkleidung
     *zwei Paar* gleichzeitig.
     Die Handschuhe müssen nach jedem Patienten gewechselt
     werden, nach dem Ablegen ist eine *hygienische Händedesinfektion*
-    erforderlich (:ref:`Thema-hygienische-haendedesinfektion`)!
+    erforderlich (:ref:`hygienische-haendedesinfektion`)!
 -   *Schürzen*: Einweg-Plastikschürzen bieten Schutz gegen Kontamination
     der Kleidung im Rumpf- und Beinbereich.
 -   *Schutzbrillen* sollen in allen Situationen getragen werden in denen
@@ -1168,7 +1168,7 @@ Arbeitsaufteilung
         -   Nie mit schmutzigen Handschuhen in die Tasche greifen! Ein
             Teammitglied hat Patientenkontakt, der andere reicht zu!
 
-Unter :ref:`Thema-einer-redet` wurde bereits erwähnt, dass möglichst nur ein
+Unter :ref:`einer-redet` wurde bereits erwähnt, dass möglichst nur ein
 Teammitglied ein Patientengespräch führen soll. Dies ist auch aus
 hygienischer Sicht ähnlich: Derjenige, welcher direkten Patientenkontakt
 hat, sollte nach Möglichkeit keinen Kontakt mit dem sauberen Material
@@ -1178,7 +1178,7 @@ werden.
 
 
 
-.. _Thema-nadelabwurfbehaelter:
+.. _nadelabwurfbehaelter:
 
 Umgang mit spitzen Gegenständen
 -------------------------------
@@ -1246,7 +1246,7 @@ unter :ref:`m-mrsa-transport`: besprochen.
 
 
 
-.. _Thema-nadelstichverletzung:
+.. _nadelstichverletzung:
 .. _m-nadelstichverletzung:
 
 Nadelstichverletzungen
@@ -1295,8 +1295,8 @@ Basierend auf [OeAG:2007]_
 [Loew:2006]_
 
 
-.. _Thema-entsorgung-infektioeser-abfall:
-.. _Thema-abfall-infektioeser-entsorgung:
+.. _entsorgung-infektioeser-abfall:
+.. _abfall-infektioeser-entsorgung:
 
 Entsorgung von Abfall
 =====================
@@ -1342,7 +1342,7 @@ unterscheidet zwischen:
    b.  Abfälle *mit Verletzungsgefahr* z. B. Kanülen, Lanzetten und
        Skalpelle. Sämtliche Abfälle dieser Art müssen in entsprechenden
        Gebinden gesammelt und transportiert werden
-       (*Nadelabwurfbehälter*, :ref:`Thema-nadelabwurfbehaelter`).
+       (*Nadelabwurfbehälter*, :ref:`nadelabwurfbehaelter`).
 
    c.  *Nassabfälle*: z. B. nicht restentleerte, mit Absaugsekreten
        gefüllte Einwegsysteme.
@@ -1364,7 +1364,7 @@ unterscheidet zwischen:
     Erregern behafteter Abfall
 
     Diese Abfälle sind Gefahrgut im Sinne des ADR, Klasse 6.2
-    (:ref:`Thema-adr`); sie sind vor der Abfallbereitstellung zu desinfizieren
+    (:ref:`adr`); sie sind vor der Abfallbereitstellung zu desinfizieren
 
 Die im Rettungs- und Krankentransportdienst anfallenden Abfällen gehören
 i. d. R. den Gruppen

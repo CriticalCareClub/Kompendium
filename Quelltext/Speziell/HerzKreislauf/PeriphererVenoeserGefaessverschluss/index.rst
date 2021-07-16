@@ -1,5 +1,5 @@
 
-.. _Thema-thrombose:
+.. _thrombose:
 
 ####################################################################
 Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose (#52)
@@ -231,7 +231,7 @@ Maßnahmen: Tiefe Beinvenenthrombose
     -   Lagerung: liegend, betroffenes Bein hochlagern
     -   Bewegungsverbot (Emboliegefahr!)
     -   Auf Zeichen einer Lungenembolie achten
-        (vgl. :ref:`Thema-Lungenembolie`)
+        (vgl. :ref:`Lungenembolie`)
 
 🕏 Pharmakotherapie
     -   Antikoagulation

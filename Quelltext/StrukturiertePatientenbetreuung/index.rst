@@ -1,5 +1,5 @@
 
-.. _Thema-Patientenmanagement:
+.. _Patientenmanagement:
 
 ########################################
 Strukturierte Patientenbetreuung (#32)

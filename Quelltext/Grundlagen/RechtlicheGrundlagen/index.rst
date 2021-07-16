@@ -355,6 +355,8 @@ spielt (im Zweifel die Mutter) oder das Pflegschaftsgericht ist
 anzurufen. Lehnen beide ab, obwohl es sich um eine notwendige
 Heilbehandlung handelt, muss das Pflegschaftsgericht angerufen werden
 
+.. todo:: #104 Erklärung mündig, unmündig
+
 
 .. [#Schockzustand]
     Aus der juristischen Literatur geht nicht eindeutig hervor,
@@ -681,7 +683,7 @@ Patienten erfolgen. Da dann auch der Transport freiwillig stattfindet,
 sind dabei (beim Primäreinsatz) keine besonderen Bestimmungen zu
 beachten.
 
-.. rubric:: Fallbeispiele^
+.. rubric:: Fallbeispiele
 
 -   :ref:`Thema-jus-langer-dienst-fall-1`
 
@@ -881,7 +883,7 @@ Fallbeispiele
 Berufs- und Tätigkeitsrecht
 ===========================
 
-Die Aufgaben des Sanitäters
+Aufgaben des Sanitäters
 ---------------------------
 
 Der Sanitätsdienst umfasst den Tätigkeitsbereich des Rettungssanitäters
@@ -1493,7 +1495,7 @@ Schuld beim Fahrer entfällt. Für Kranken- und Rettungstransport besteht
 zusätzlich gem. Kraftfahrzeuggesetz (KFG) die Ausnahme, dass ein
 Passagier (Personal wie Patient) unangeschnallt mitfahren darf, wenn es
 ansonsten mit dem Zweck der Fahrt unvereinbar ist\ [#100]_.
-Trotzdem sollte der Patient aufgefordert werden sich anzuschnallen
+Trotzdem sollte der Patient aufgefordert werden, sich anzuschnallen,
 bzw. sollte vom Sanitäter angeschnallt werden.
 Verweigert der Patient,
 muss diese Verweigerung dokumentiert werden
@@ -1553,5 +1555,7 @@ Fallbeispiele
 
 
 
+.. todo:: #105: JUS: neu: DSVGO
 
+.. todo:: #106: JUS: Erwachsenenschutzgesetz
 

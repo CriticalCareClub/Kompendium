@@ -116,6 +116,8 @@ und Mundrachen können während des Schluckvorgangs durch den weichen
 Gaumen voneinander getrennt werden. Die Grenze zwischen Mundrachen und
 Schlundrachen bildet der Kehldeckel, ein Teil des Kehlkopfs.
 
+
+
 Kehlkopf und Kehldeckel
 -----------------------
 
@@ -138,6 +140,8 @@ mehreren Teilen, die aus Knorpel aufgebaut sind:
 -   :dfn:`Stellknorpel` (*Cartilago arytenoidea*):
     befinden sich innerhalb des Schildknorpel-Bereichs. Über diese
     Knorpel (2) bewegen und spannen sich die Stimmbänder.
+
+
 
 Schluckakt und Schluckreflex
 ----------------------------
@@ -172,7 +176,6 @@ Ein Ausfall dieses Reflex kann u. U. auch ein Zeichen des Hirntods sein.
 
 Untere Atemwege
 ===============
-
 
 In der :dfn:`Trachea` (*Luftröhre*)
 wird die vom Rachen und Kehlkopf kommende Luft zur Lunge
@@ -617,9 +620,17 @@ Atemminutenvolumen von 6—8 L / min.
 
 [Lissauer:2007]_ [Lutomsky:3]_
 
-.. _Thema-totraum:
 
-Totraumbelüftung
+
+
+.. index::
+    single: Totraum
+
+.. _Thema-totraum:
+.. _Totraum:
+.. _Totraumventilation:
+
+Totraum
 ================
 
 .. only:: not nosidebar
@@ -628,8 +639,9 @@ Totraumbelüftung
 
         -   Totraum: Teil der Atemwege, der nicht am Gassaustausch teilnimmt
         -   Von Nase bis zur vor Alveolen
+        -   :ref:`Schnappatmung <Schnappatmung>`
 
-Unter dem *Totraum* versteht man den Teil der Atemwege
+Unter dem :dfn:`Totraum` versteht man den Teil der Atemwege,
 der nicht am Gasaustausch teilnimmt. Dies ist im wesentlichen der
 gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen
 (Alveolen). Die Luft muss erst diesen Totraum passieren um in die
@@ -640,6 +652,22 @@ teilzunehmen. Der Totraum beträgt beim Erwachsenen ca. 150 mL. [Klinke:3]_
 
     -   Die Einatemluft muss erst den Totraum passieren um am
         Gasaustausch in den Alveolen teilzunehmen.
+
+
+Bei der :dfn:`Totraumventilation`
+(*Syn.* *Totraumbelüftung*) ist das Atemzugvolumen so gering,
+dass die
+Ausatemluft im Totraum verbleibt
+und bei der folgenden Einatmung erneut,
+anstatt von Frischluft,
+in die Lungenbläschen gelangt.
+Somit kommt es sowohl zu einem Mangel an frischem Sauerstoff in den Alveolen,
+als auch zu einem Rückstau von Kohlendioxid,
+welches nicht mehr abgeatmet werden kann.
+
+Insbesonder bei der :ref:`Schnappatmung <Schnappatmung>` kann genau dies passieren.
+
+
 
 Atemgase
 ========

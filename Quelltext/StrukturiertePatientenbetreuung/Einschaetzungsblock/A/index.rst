@@ -4,8 +4,7 @@
     single: Atemweg; Einschätzungsblock
     single: A; Einschätzungsblock
 
-.. _Thema-Abcde-A:
-
+.. _Abcde-A:
 .. _Thema-Airway:
 
 **********************

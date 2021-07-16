@@ -22,8 +22,8 @@ und Patienten und Angehörige,
 welche
 zumeist über wenig Fachwissen,
 dafür aber oft über ausgeprägte und mal mehr,
-mal weniger verständliche Eigeninteressen verfügen andererseits.
-Dazu kommen mitunter noch weitere Personen wie Polizisten,
+mal weniger verständliche Eigeninteressen verfügen, andererseits.
+Dazu kommen mitunter noch weitere Personen, wie Polizisten,
 Feuerwehrleute,
 Bedienstete von Verkehrsbetrieben,
 Dritte
@@ -88,12 +88,10 @@ Ziele der Kommunikation sind:
     *Grundrecht*.
 
 
+
 ***************************************************************
 Die Kommunikationstheorie versucht Kommunikation zu beschreiben
 ***************************************************************
-
-Beschreibung
-============
 
 Es gibt Theorien zur Kommunikation wie Sand am Meer.
 Im folgenden wollen
@@ -134,7 +132,8 @@ Die Nachricht kann *durch Störungen verfälscht* werden.
 Diese Störung
 kann auftreten:
 
--   Beim *Sender*: Der Sender sagt nicht was er sagen will,
+-   Beim *Sender*:
+    Der Sender sagt nicht, was er sagen will,
     undeutliche Sprache,
     Sprachschwierigkeiten,
     falsch verstandene Fachsprache, …
@@ -185,7 +184,9 @@ ob und wie er die Botschaft verstanden hat.
     ₢ User:Wiska Bodo, original
     uploader Freak222 auf http://de.wikipedia.org,
     modifiziert
-    ℓ CC-BY-SA 3.0
+    :term:`ℓ CC BY-SA 3.0`
+
+
 
 Aussagen einer Nachricht
 ========================
@@ -248,7 +249,7 @@ Als klassisches Beispiel ist die
 
     +-----------------------+------------------------------------------------------+----------------------------------------------+
     |                       | **Er (Sender)**                                      | **Sie (Empfänger)**                          |
-    +-----------------------+------------------------------------------------------+----------------------------------------------+
+    +=======================+======================================================+==============================================+
     | *Sachaussage*         | Die Ampel ist grün.                                  | Die Ampel ist grün.                          |
     +-----------------------+------------------------------------------------------+----------------------------------------------+
     | *Beziehungsaussage*   | Du brauchst meine Hilfe weil Du unaufmerksam bist.   | Er fühlt sich mir überlegen.                 |
@@ -258,22 +259,22 @@ Als klassisches Beispiel ist die
     | *Selbstoffenbarung*   | Ich habe es eilig.                                   | Er will mich bevormunden.                    |
     +-----------------------+------------------------------------------------------+----------------------------------------------+
 
+
 .. figure:: /Bilder/WikipediaCcBySa/SchulzVonThunVierOhrenModell-edited.*
 
     Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von
     Thun [Thun:1981]_
 
     ₢ User "Mussklprozz" auf Wikipedia, modifiziert
-    ℓ CC-BY-SA 3.0
+    :term:`ℓ CC BY-SA 3.0`
+
 
 
 .. _thema-kommunikationsregeln:
-
 .. _thema-einer-redet:
 
 Allgemeine Grundregeln und Ratschläge
 =====================================
-
 
 .. only:: not nosidebar
 
@@ -292,8 +293,8 @@ Allgemeine Grundregeln und Ratschläge
 Ein gut geführtes Patientengespräch ist durch folgende Merkmale
 gekennzeichnet:
 
--   *Vorstellen*: Zur Vorstellung gehört die Nennung des eigenen Namens,
-    der Funktion und – so es die Dringlichkeit zulässt – ein Händedruck.
+-   *Vorstellen*: Zur Vorstellung gehört die Nennung des eigenen Namens
+    und der Funktion.
 
 -   *Augenhöhe*: Geht man in die Hocke oder organisiert man sich einen
     Sessel,
@@ -325,7 +326,7 @@ gekennzeichnet:
         Sanitäter:
             *"Wie stark ist der Schmerz?"*
 
--   *Verstehen*: Es ist wichtig zu verstehen was der Patient mit dem
+-   *Verstehen*: Es ist wichtig zu verstehen, was der Patient mit dem
     Gesagten *meint*! Um sich zu vergewissern,
     dass man die Information
     richtig verarbeitet hat,
@@ -340,8 +341,8 @@ gekennzeichnet:
 -   *Aufrichtigkeit*:
     Die Fragen des Patienten sind nach bestem Wissen zu
     beantworten! *Das Anlügen des Patienten ist *tabu*!* Liegen mögliche
-    Antworten außerhalb des Wissens- oder Kompetenzbereiches ist auf die
-    zuständige Stelle zu verweisen.
+    Antworten außerhalb des Wissens- oder Kompetenzbereiches,
+    ist auf die zuständige Stelle zu verweisen.
 
 -   *Bezugsperson*:
     Sind mehrere Helfer vorort,
@@ -486,7 +487,7 @@ allgemeingültiges "Kochrezept" gibt es allerdings nicht:
     Außerdem muss besonders auf die *Körperhaltung*
     u.ä. äußere Anzeichen geachtet werden!
 
--   *Aufrichtigkeit* und *Aufklärung* gelten auch für Kinder
+-   Die Prinzipien *Aufrichtigkeit* und *Aufklärung* gelten auch in der Kommunikation mit Kindern!
 
 
 

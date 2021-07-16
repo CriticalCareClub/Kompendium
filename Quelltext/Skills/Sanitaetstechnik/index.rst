@@ -1335,7 +1335,7 @@ Verbände
 
 Verbände dienen dem Schutz und der Blutstillung.
 
-
+.. todo:: `#108 Verbände, Druckverband: Von "Sanitätstechniken" ad "Wundversorgung"? <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/108>`
 
 .. index::
     single: Druckverband

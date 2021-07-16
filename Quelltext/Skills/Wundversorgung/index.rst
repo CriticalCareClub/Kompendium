@@ -16,9 +16,6 @@ durch mechanische, thermische, Strahlen- oder chemische Einwirkungen.
 Allgemeines und Einteilung von Wunden
 *************************************
 
-Beschreibung
-============
-
 Eine :dfn:`Wunde`
 :index:`\ <! Wunde>`
 (*Lat.* (*Vuln.*)) ist eine
@@ -331,9 +328,6 @@ der Infektionsgefahren bei der Wundversorgung erfolgen.
 ******************************
 Wundversorgung frischer Wunden
 ******************************
-
-Beschreibung
-============
 
 Die Wundversorgung orientiert sich an der Wundart sowie an der Stärke
 der Blutung.

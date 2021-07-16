@@ -1,12 +1,12 @@
 
-.. _Thema-Stemi:
+.. _Stemi:
 
-.. _Thema-AkutesKoronarsyndrom:
-.. _Thema-akutes-koronarsyndrom:
+.. _AkutesKoronarsyndrom:
+.. _akutes-koronarsyndrom:
 
 .. _AnginaPectoris:
 
-.. _Thema-Acs:
+.. _Acs:
 
 ###################################
 Akutes Koronarsyndrom (ACS) — (#40)
@@ -32,7 +32,7 @@ es zu einer akuten *Unterversorgung des Herzmuskels* mit Blut und
 Sauerstoff aufgrund der Durchblutungsstörung.
 Die Ursache sind in erster
 Linie verengte oder verstopfte Herzkranzgefäße
-(*Ischämie*, :ref:`Thema-ischaemie`).
+(*Ischämie*, :ref:`ischaemie`).
 Das akute Koronarsyndrom ist häufig das Ergebnis einer vorbestehenden koronaren
 Herzkrankheit.
 Daneben gibt es noch andere Erkrankungen,
@@ -133,7 +133,7 @@ einem schmerzlosen Verlauf kommen, man spricht dabei auch vom
 *Todesangst und Vernichtungsgefühl* sind häufig. Bei Auftreten eines *kardiogenen
 Schocks* können die entsprechenden Schockzeichen beobachtet werden:
 Blässe, Kaltschweißigkeit, Hypotonie, etc.
-(:ref:`Thema-SchockKardiogener`).
+(:ref:`SchockKardiogener`).
 
 
 .. rubric:: |Text-Abcde-B|

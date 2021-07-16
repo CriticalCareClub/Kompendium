@@ -1,5 +1,5 @@
 
-.. _Thema-kreislaufstillstand:
+.. _kreislaufstillstand:
 
 Kreislaufstillstand (#50)
 ============================

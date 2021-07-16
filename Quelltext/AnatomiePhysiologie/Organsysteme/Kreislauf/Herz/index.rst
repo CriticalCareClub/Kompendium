@@ -1,5 +1,5 @@
 
-.. _Thema-Herz:
+.. _Herz:
 
 ########
 Das Herz
@@ -132,7 +132,7 @@ werden. Durch die Pumpfunktion des Herzens entsteht ein lebenswichtiger
 Druck im (arteriellen) Gefäßsystem, der **Blutdruck**, dieser
 sorgt dafür, dass das Gewebe von Blut durchflossen wird. Der arterielle
 Blutdruck lässt sich einfach mittels
-:ref:`Blutdruckmanschette <Thema-blutdruck>` messen
+:ref:`Blutdruckmanschette <blutdruck>` messen
 [Klinke:3]_.
 
 .. only:: not nosidebar
@@ -148,14 +148,14 @@ Blutdruck lässt sich einfach mittels
             (Diastole)
 
 Durch den Herzauswurf entsteht ein Druck im arteriellen Gefäßsystem,
-der **arterielle Blutdruck** (vgl. :ref:`Thema-blutdruck`).
+der **arterielle Blutdruck** (vgl. :ref:`blutdruck`).
 Abhängig von der Phase der Herzaktion schwankt der Blutdruck im Zeitverlauf.
 In der **Auswurfphase** (**Systole**) erreicht der Druck sein *Maximum*
 (**systolischer** Blutdruck),
 in der **Enttspannungs-** und **Füllungsphase** (**Diastole**)
 sein *Minimum* (*Diastolischer* Blutdruck).
 Zur Durchführung der Blutdruckmessung vgl.
-:ref:`Thema-rr-messung`.
+:ref:`rr-messung`.
 
 .. only:: not nosidebar
 
@@ -185,7 +185,7 @@ Jeder dieser
 Impulse wird normalerweise vom Herzmuskel mit einer Kontraktion
 beantwortet (*mechanische Herzfunktion*).
 Das Herz verfügt über ein **Reizleitungssystem**
-(s. :ref:`Thema-reizleitungssystem`).
+(s. :ref:`reizleitungssystem`).
 Das Reizbildungs- und
 -leitungssystem ist an sich hirarchisch angeordnet:
 An erster Stelle steht der **Sinusknoten** ① im
@@ -213,7 +213,7 @@ selbst einen minimalen Rhythmus
 (~ 30 / min)
 aufrecht erhalten.
 Beispiele von Rhythmen werden unter
-:ref:`Thema-herzrhythmusstoerungen` vorgestellt.
+:ref:`herzrhythmusstoerungen` vorgestellt.
 
 
 .. [#Erregungsbildung]
@@ -394,8 +394,8 @@ Ausgang des linken Ventrikels — abgehen.
     single: Diastole
     single: Blutdruck
 
-.. _Thema-mechanische-herzfunktion:
-.. _Thema-herzfunktion:
+.. _mechanische-herzfunktion:
+.. _herzfunktion:
 
 *****************************************
 Mechanische Funktion
@@ -412,7 +412,7 @@ Herzfunktion. Normalerweise arbeiten beide Komponenten Hand-in-Hand.
     Hauptschlagader aus, in der Minute ergibt das ca. 4—6 L
     (bzw. einmal das gesamte Blutvolumen). Dadurch entsteht ein
     lebenswichtiger Druck im (arteriellen) Gefäßsystem, der (arterielle)
-    *Blutdruck*. (Vgl. :ref:`Thema-blutdruck`)
+    *Blutdruck*. (Vgl. :ref:`blutdruck`)
 
     Im zeitlichen Verlauf unterscheidet man zwischen der
 
@@ -430,7 +430,7 @@ Herzfunktion. Normalerweise arbeiten beide Komponenten Hand-in-Hand.
 -   *Elektrische Herzfunktion*: Die Steuerung der mechanischen
     Herzfunktion erfolgt durch elektrische Aktionen. Dafür verfügt das
     Herz über ein eigenes *Reizleitungssystem*, siehe
-    :ref:`Thema-reizleitungssystem`.
+    :ref:`reizleitungssystem`.
 
 
 
@@ -495,7 +495,7 @@ sorgt dafür, dass das Gewebe von Blut durchflossen wird.
 .. index::
     single: Blutdruck; systolischer]
 
-.. _Thema-blutdruck:
+.. _blutdruck:
 
 Blutdruck
 ---------
@@ -512,7 +512,7 @@ Blutdruck
             diastolisch:
                 Druck in der Arterie während die Kammer erschlafft ist
 
-        -   Durchführung: :ref:`Thema-rr-messung`
+        -   Durchführung: :ref:`rr-messung`
 
 Durch die Pumpfunktion des Herzens entsteht ein
 lebenswichtiger Druck im (arteriellen) Gefäßsystem, der *Blutdruck*. Da
@@ -525,7 +525,7 @@ ist somit der
 Spitzendruck, der *diastolische
 Blutdruck* der Minimaldruck.
 Zur Durchführung der indirekten Blutdruckmessung vgl.
-:ref:`Thema-rr-messung`.
+:ref:`rr-messung`.
 
 
 
@@ -535,7 +535,7 @@ Elektrische Herzfunktion und Reizleitungssystem
 **********************************************************************************
 
 
-.. _Thema-reizleitungssystem:
+.. _reizleitungssystem:
 
 Reizleitungssystem
 ==================
@@ -585,7 +585,7 @@ Im Extremfall, wenn
 das gesamte Leitungssystem ausfällt, können auch die Herzmuskelzellen
 selbst einen minimalen Rhythmus (~ 30 / min) aufrecht
 erhalten. Beispiele von Rhythmen werden unter
-:ref:`Thema-herzrhythmusstoerungen` vorgestellt.
+:ref:`herzrhythmusstoerungen` vorgestellt.
 
 
 

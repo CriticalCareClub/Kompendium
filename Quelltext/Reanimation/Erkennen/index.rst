@@ -15,7 +15,7 @@ ist das frühzeitige **Erkennen**
 dass ein Patient *reanimationspflichtig* ist.
 Grundsätzlich wird,
 wie bei jedem Patientenkontakt,
-mit dem Einschätzungsblock/1234-ABCDE-Schema begonnen (:ref:`Thema-Patientenmanagement`).
+mit dem Einschätzungsblock/1234-ABCDE-Schema begonnen (:ref:`Patientenmanagement`).
 Nach Erkennen des **fehlenden Bewusstseins** (④)
 wird bei ``A`` (Atemweg) der *Kopf überstreckt*
 und eine *Atemkontrolle* durchgeführt,

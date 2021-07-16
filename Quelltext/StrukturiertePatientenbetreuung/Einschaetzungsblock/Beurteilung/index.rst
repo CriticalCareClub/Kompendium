@@ -86,8 +86,8 @@ welche auf eine vitale Bedrohung hinweisen.
 .. index::
     single: Sofortmaßnahmen
 
-.. _Thema-PatientenmanagementErstmassnahmen:
-.. _Thema-PatientenmanagementSofortmassnahmen:
+.. _PatientenmanagementErstmassnahmen:
+.. _PatientenmanagementSofortmassnahmen:
 
 Sofortmaßnahmen
 =========================================================
@@ -119,7 +119,7 @@ Typische Sofortmaßnahmen sind z. B.
 
 
 .. _m-standardmassnahmen-vital:
-.. _Thema-standardmassnahmen-vital:
+.. _standardmassnahmen-vital:
 .. _proc-YY13100B:
 .. _YY13100B:
 .. _SMBVBP:
@@ -188,7 +188,7 @@ Reanimationsbereitschaft
 
 
 
-.. _Thema-SonderfallAbsolutZeitkritischePatienten:
+.. _SonderfallAbsolutZeitkritischePatienten:
 
 Vorgezogene Transportentscheidung bei absolut zeitkritischen Patienten
 ======================================================================
@@ -201,7 +201,7 @@ dass ein Transport nicht aufschiebbar ist,
 kann schon **nach Ⓒ**
 **eine Transportentscheidung**
 (Spital, Notarzt-Rendez-vous, …,
-vgl. :ref:`Thema-PamStrategie`)
+vgl. :ref:`PamStrategie`)
 getroffen werden.
 Die Maßnahmen von Ⓓ und Ⓔ sollen dann,
 sofern möglich,

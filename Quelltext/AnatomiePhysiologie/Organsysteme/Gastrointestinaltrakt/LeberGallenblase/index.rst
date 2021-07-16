@@ -1,7 +1,7 @@
 
-.. _Thema-gallenblase:
-.. _Thema-leber:
-.. _Thema-Leberzirrhose:
+.. _gallenblase:
+.. _leber:
+.. _Leberzirrhose:
 
 *****************************
 Exkurs: Leber und Gallenblase
@@ -44,7 +44,7 @@ Die Leber nimmt dabei durch die Giftstoffe mit der Zeit
 selbst auch Schaden, welches zu chronischen Leberschädigungen,
 wie z. B. einer Leberentzündung (Hepatitis) oder Leberzirrhose (könnte man als fortschreitende "Vernarbung" der Leber bezeichnen),
 führen kann.
-Über die :ref:`Pfortader <Thema-pfortader>` (Vena portae)
+Über die :ref:`Pfortader <pfortader>` (Vena portae)
 erhält die Leber nährstoffreiches Blut von Teilen des Darms um es zu
 entgiften,
 bevor es in den normalen Blutkreislauf zurückkehrt.

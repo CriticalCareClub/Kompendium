@@ -1,10 +1,10 @@
 .. index::
     single: Atemwegsverlegung
 
-.. _Thema-fremdkoerperaspiration:
-.. _Thema-AspirationFremdkoerper:
-.. _Thema-HeimlichManoever:
-.. _thema-mechanische-atemwegsverlegung:
+.. _fremdkoerperaspiration:
+.. _AspirationFremdkoerper:
+.. _HeimlichManoever:
+.. _mechanische-atemwegsverlegung:
 
 
 **************************************
@@ -162,7 +162,7 @@ ABCDE
     single: Heimlich-Manöver
     single: Manöver; Heimlich-
 
-.. _Thema-heimlich-manoever:
+.. _heimlich-manoever:
 
 Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöver
 ==============================================================================

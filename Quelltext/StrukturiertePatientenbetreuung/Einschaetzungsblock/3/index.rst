@@ -51,9 +51,9 @@ Die Orientierung wird unter Punkt Ⓓ beurteilt.
     pair: komatös; Bewusstseinsgrad
 
 
-.. _Thema-BewusstseinsstoerungGrade:
+.. _BewusstseinsstoerungGrade:
 
-.. _Thema-Bewusstseinsgrad:
+.. _Bewusstseinsgrad:
 
 Bewusstseinsgrad
 ================
@@ -188,7 +188,7 @@ Schmerzreizes:
 
 
 
-.. _Thema-Bewusstseinsstoerung-Pam:
+.. _Bewusstseinsstoerung-Pam:
 
 Bewusstseinsstörungen
 =====================
@@ -211,7 +211,7 @@ kann sie den *Atemweg verlegen*.
 Dabei ist manchmal ein dem *Schnarchen ähnliches*
 Atemgeräusch zu vernehmen.
 
-.. Details siehe :ref:`Thema-Bewusstseinsstoerung`.
+.. Details siehe :ref:`Bewusstseinsstoerung`.
 
 
 Typische Maßnahmen

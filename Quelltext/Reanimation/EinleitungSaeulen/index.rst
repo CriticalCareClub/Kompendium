@@ -29,7 +29,7 @@ und die Notwendigen Abweichungen werden basierend darauf
 in eigenen Kapiteln behandelt.
 
 
-.. _Thema-Erc:
+.. _Erc:
 
 .. index::
     single: ERC

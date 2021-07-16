@@ -56,7 +56,7 @@ Beschreibung und Ursachen
 
 Eine :dfn:`Nierenkolik` :index:`\ <! Nierenkolik>` ist gekennzeichnet durch
 kolikartige Schmerzen aufgrund einer Blockade des Harnleiters und dem
-daraus folgenden Harnstau. Vgl. Kolik: :ref:`Thema-kolik`.
+daraus folgenden Harnstau. Vgl. Kolik: :ref:`kolik`.
 
 Sie ist eine
 äußerst schmerzhafte akute Erkrankung und entsteht meist dadurch, dass
@@ -106,7 +106,7 @@ Maßnahmen: Nierenkolik
 
 
 
-.. _Thema-nierenbeckenentzuendung:
+.. _nierenbeckenentzuendung:
 
 ****************************************
 Harnwegsinfekt und Nierenbeckenentzüdung
@@ -137,12 +137,12 @@ bakteriell bedingt und umfasst die oberen Harnwege, das
 Nierenbeckenkelchsystem und u.U. auch das Nierengewebe und ist eine der
 häufigsten Erkrankungen der Niere [Pschyrembel:259]_. Im schlimmsten
 Fall kann sich die Infektion weiter ausbreiten und eine Sepsis
-verursachen (:ref:`Thema-sepsis`).
+verursachen (:ref:`sepsis`).
 
 Harnwegsinfektionen werden häufig in Gesundheitseinrichtungen übertragen
 ("Spitalsinfektion"). Problematisch ist hierbei, dass bei derartigen
 Infektionen häufig multiresistente Keime ("Spitalskeime", gegen
-Antibiotika unempfindliche Bakterien, :ref:`Thema-multiresistente-keime`) der
+Antibiotika unempfindliche Bakterien, :ref:`multiresistente-keime`) der
 Auslöser sind, welche deutlich schwieriger zu behandeln sind. Ein
 besonderes Risiko stellen hierbei harnableitende Systeme (Harnkatheter,
 -beutel) da.
@@ -176,7 +176,7 @@ Schmerzen beim urinieren. Ein chronischer Verlauf ist oft symptomarm.
 
 
 
-.. _thema-harnverhalten:
+.. _harnverhalten:
 
 ********************
 Akuter Harnverhalt
@@ -228,8 +228,8 @@ Maßnahmen: Akuter Harnverhalt
     -   Vorsichtig ablassen über Harnkatheter oder
         Blasenpunktion (Spital)
 
-.. _Thema-niereninsuffizienz:
-.. _Thema-cni-therapie-dialyse:
+.. _niereninsuffizienz:
+.. _cni-therapie-dialyse:
 
 **********************************************
 Niereninsuffizienz, Nierenversagen und Dialyse
@@ -263,7 +263,7 @@ welche sein Blut reinigen kann. Die "Dialysefahrten", also Transport zu
 einem oder von einem Dialysezentrum, sind eine der Hauptaufgaben des
 Krankentransportdienstes.
 
-.. _Thema-dialysepatienten-gefahren:
+.. _dialysepatienten-gefahren:
 
 .. index::
     single: Herzstillstand; bei Niereninsuffizienz
@@ -287,7 +287,7 @@ Besonderheiten  und Gefahren
 Die Niereninsuffizienz und die
 Nierenersatztherapien bergen Gefahren für den Patienten:
 
--  Dialyse-Patienten haben häufig einen *Dialyse-Shunt* (:ref:`Thema-shunt`).
+-  Dialyse-Patienten haben häufig einen *Dialyse-Shunt* (:ref:`shunt`).
    Die Verbindungsstelle zwischen Arterie und Vene ist verletzlich, hier
    kann es zu Blutungen kommen.
 -  Je nach Schweregrad kann der Ausfall der normalen Nierenfunktion

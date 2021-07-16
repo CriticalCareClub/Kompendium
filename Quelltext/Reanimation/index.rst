@@ -1,11 +1,11 @@
 
 .. _chp-ALS:
 .. _chp-BLS:
-.. _Thema-atemstillstand-aed:
-.. _Thema-kreislaufstillstand-aed:
-.. _Thema-atemstillstand-bls:
-.. _Thema-kreislaufstillstand-bls:
-.. _Thema-pediatric-life-support:
+.. _atemstillstand-aed:
+.. _kreislaufstillstand-aed:
+.. _atemstillstand-bls:
+.. _kreislaufstillstand-bls:
+.. _pediatric-life-support:
 .. _Reanimation:
 
 ######################

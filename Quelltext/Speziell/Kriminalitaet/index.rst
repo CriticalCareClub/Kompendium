@@ -8,9 +8,9 @@ Opfer von Kriminalität, Misshandlung und Vernachlässigung (#64)
 
 .. rubric:: Querverweise
 
--   Anzeigepflicht: :ref:`Thema-anzeigepflicht`
--   Anzeigerecht: :ref:`Thema-anzeigerecht`
--   Dokumentation: :ref:`Thema-dokumentation-rechtlich`, :ref:`Thema-dokumentation-medizinisch`
+-   Anzeigepflicht: :ref:`anzeigepflicht`
+-   Anzeigerecht: :ref:`anzeigerecht`
+-   Dokumentation: :ref:`dokumentation-rechtlich`, :ref:`dokumentation-medizinisch`
 
 *************************************************************
 Handlungen gegen die sexuelle Selbstbestimmung und Integrität
@@ -20,7 +20,7 @@ Sexuelle Gewalt, Vergewaltigung und geschlechtliche Nötigung
 ============================================================
 
 
-.. _Thema-vergewaltigung:
+.. _vergewaltigung:
 
 Vergewaltigung
 --------------
@@ -223,7 +223,7 @@ Missbrauch und Misshandlungen
 .. index::
    single: Kindesmisshandlung
 
-.. _thema-kindesmisshandlung :
+.. _kindesmisshandlung :
 
 Kindesmisshandlung
 ==================

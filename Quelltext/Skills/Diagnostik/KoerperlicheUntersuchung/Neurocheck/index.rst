@@ -1,5 +1,5 @@
 
-.. _thema-neurocheck:
+.. _neurocheck:
 
 ########################################################################
 Neurocheck
@@ -9,7 +9,7 @@ Neurocheck
 Der :dfn:`Neurocheck` ist eine einfache, überblickshafte
 ("grobe") Untersuchung der wichtigsten Funktionen des Nervensystems.**
 Teile des Neurochecks werden während des Einschätzungsblockes
-(:ref:`Thema-einschaetzungsblock`) durchgeführt.
+(:ref:`einschaetzungsblock`) durchgeführt.
 
 
 
@@ -20,7 +20,7 @@ Teile des Neurochecks werden während des Einschätzungsblockes
     single: Nackensteifigkeit; Untersuchung
 
 
-.. _Thema-nackensteifigkeit-untersuchung:
+.. _nackensteifigkeit-untersuchung:
 
 Neurocheck
 ----------
@@ -48,8 +48,8 @@ Neurocheck
 
     Die Glasgow Coma Scale (GCS) erlaubt eine detailliertere Beschreibung
     des Bewusstseins und des Verlaufs.
-    Vgl. :ref:`Thema-bewusstsein`
-    und :ref:`Glasgow Coma Scale <Thema-gcs>`.
+    Vgl. :ref:`bewusstsein`
+    und :ref:`Glasgow Coma Scale <gcs>`.
 
 #.  *Orientierung*:
 
@@ -103,13 +103,13 @@ Neurocheck
     Rumpf mit.
 
     Die Bedeutung der Nackensteifigkeit wird unter
-    :ref:`Thema-meningitis` besprochen.
+    :ref:`meningitis` besprochen.
     *Bei jedem Patienten mit Fieber ist auf das Vorliegen einer Nackensteifigkeit zu untersuchen*,
     jedoch
     **nicht bei Verdacht auf Wirbelsäulenverletzung!**
 #.  *Blutzuckermessung*: Eine Blutzuckermessung gehört zu einem
     vollständigen Neurocheck.
-#.  *Hirndruckzeichen* (:ref:`Thema-hirndruckzeichen`) sind eine typische
+#.  *Hirndruckzeichen* (:ref:`hirndruckzeichen`) sind eine typische
     Kombination von Symptomen und deuten auf eine Erhöhung des Druckes
     innerhalb des Hirnschädels hin (z. B. aufgrund einer Verletzung oder
     Blutung). Hier sind eigentlich keine neuen Untersuchungsschritte

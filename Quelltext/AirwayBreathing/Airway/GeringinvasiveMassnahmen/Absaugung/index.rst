@@ -1,6 +1,6 @@
-.. _Thema-absaugung-taetigkeit:
-.. _Thema-absaugung:
-.. _Thema-absauggeraete:
+.. _absaugung-taetigkeit:
+.. _absaugung:
+.. _absauggeraete:
 
 
 ########################################################################
@@ -241,10 +241,10 @@ In der Rachenhinterwand verläuft ein Nerv, welcher Einfluss auf den
 Kreislauf hat (Vagus-Nerv). Wenn dieser gereizt wird, kann es zu
 gefährlichen *Kreislaufstörungen* kommen. Der Vagus-Nerv ist Teil des
 *Parasympathikus* und des vegetativen Nervensystems
-(:ref:`Thema-parasymapthikus`). Weiters kann es zu *Schleimhautverletzungen*
+(:ref:`parasymapthikus`). Weiters kann es zu *Schleimhautverletzungen*
 und Blutungen kommen. Ebenso kann ein *Brechreiz* ausgelöst werden, wenn
 der Katheter zu tief eingeführt wird. Bei Verdacht auf ein
-Schädel-Hirn-Trauma (:ref:`Thema-sht`) darf aufgrund möglicher Verletzungen
+Schädel-Hirn-Trauma (:ref:`sht`) darf aufgrund möglicher Verletzungen
 der Schädelbasis nicht über die Nase abgesaugt werden!
 
 

@@ -29,11 +29,11 @@ man darauf verzichten kann (zum Beispiel tobende Patienten).
 Zu den Vitalwerten im engeren Sinn zählt man:
 
 -   die *Herzfrequenz* …
-    :ref:`Thema-pulsmessung`,
-    :ref:`Thema-pulsoxymetrie`
+    :ref:`pulsmessung`,
+    :ref:`pulsoxymetrie`
 
 -   den *Blutdruck* …
-    :ref:`Thema-rr-messung`
+    :ref:`rr-messung`
 
 -   die **Atemfrequenz**\ :index:`\ <Atemfrequenz>`:
     Bei der Messung der Atemfrequenz

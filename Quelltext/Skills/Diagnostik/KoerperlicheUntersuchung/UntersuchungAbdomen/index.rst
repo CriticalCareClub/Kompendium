@@ -4,7 +4,7 @@
     single: Abdomen; Untersuchung
     single: Druckschmerz
 
-.. _Thema-untersuchung-abdomen-abtasten:
+.. _untersuchung-abdomen-abtasten:
 
 ########################################################################
 Untersuchung des Abdomens

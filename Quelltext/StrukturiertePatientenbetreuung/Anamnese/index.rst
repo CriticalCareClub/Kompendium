@@ -161,7 +161,7 @@ als :dfn:`OPQRST` bezeichnet [#fn:OPQRST]_.
    single: kolikartiger Schmerz
    single: Kolik
 
-.. _Thema-Kolik:
+.. _Kolik:
 
 Besonderheit: Kolikartiger Schmerz
 ==================================

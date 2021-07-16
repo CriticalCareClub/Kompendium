@@ -6,7 +6,7 @@
     single: Lungenerkrankung; chronisch-obstruktive
     single: Bronchitis, chronische
 
-.. _thema-copd:
+.. _copd:
 
 **************************************
 Chronische Bronchitis und COPD (#35)
@@ -54,7 +54,7 @@ diese sind in der Grafik :ref:`Figure-copd-veraenderungen` dargestellt.
 Durch die erschwerte Ausatmung kommt es zu einer chronischen
 Überblähung der Lungenbläschen und zu einer "Faß-förmigen" Verformung
 des Brustkorbes. Im Endstadium zeigen sich Zeichen einer
-Rechtsherzinsuffizienz (:ref:`Thema-rechtsherzinsuffizienz`) aufgrund einer
+Rechtsherzinsuffizienz (:ref:`rechtsherzinsuffizienz`) aufgrund einer
 Störung im Lungenkreislauf.
 
 

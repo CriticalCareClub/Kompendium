@@ -19,7 +19,7 @@
     single: Pars horizontalis duodeni
     single: Pars ascendens
 
-.. _Thema-Duodenum:
+.. _Duodenum:
 
 Duodenum
 ---------------

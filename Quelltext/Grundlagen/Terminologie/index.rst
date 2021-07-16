@@ -41,7 +41,7 @@ Allgemeine Begriffe: Klinik – Diagnose – Therapie
 :index:`Diagnose`
     Zuordnung von Beschwerden und Symptomen zu einem definierten
     Krankheitsbild. Es gibt verschiedene Arten und Funktionen von
-    Diagnosen, siehe :ref:`Thema-diagnose`.
+    Diagnosen, siehe :ref:`diagnose`.
 
 
 :index:`Diagnostik`
@@ -128,7 +128,7 @@ Vorsilben
 
 
 
-.. _Thema-Enzym:
+.. _Enzym:
 
 
 Stoffe
@@ -267,7 +267,7 @@ Sonstige Begriffe
 
 :index:`Obstruktion`,
     :index:`Verlegung`,  Verengung. z. B. im Rahmen der
-    :ref:`COPD <Thema-copd>`.
+    :ref:`COPD <copd>`.
 
 :index:`Pathologie`, :index:`pathologisch`, :index:`Patho-`
     Lehre von den Krankheiten. Als pathologisch wird alles Krankhafte

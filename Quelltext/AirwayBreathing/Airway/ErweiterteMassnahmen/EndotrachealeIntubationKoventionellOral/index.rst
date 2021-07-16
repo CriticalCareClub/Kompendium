@@ -1,6 +1,6 @@
 
-.. _Thema-EndotrachealeIntubation:
-.. _thema-intubation:
+.. _EndotrachealeIntubation:
+.. _intubation:
 
 ########################################################################
 Konventionelle endotracheale Intubation (oral)

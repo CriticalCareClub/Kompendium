@@ -6,7 +6,7 @@
     single: SpO₂
     single: Pulsoxymeter
 
-.. _Thema-Pulsoxymetrie:
+.. _Pulsoxymetrie:
 
 ########################################################################
 Pulsoxymetrie
@@ -21,7 +21,7 @@ Durchgeführt wird sie mittels eines *Pulsoxymeters*.
 
 .. [#120]
     Das Hämoglobin ist der für die Sauerstoffbindung verantwortliche
-    Stoff in den roten Blutkörperchen (:ref:`Thema-haemoglobin`).
+    Stoff in den roten Blutkörperchen (:ref:`haemoglobin`).
 
 
 Das Messprinzip basiert auf einer Messung der Lichtabsorption bzw. der
@@ -201,7 +201,7 @@ Die größte Gefahr ist die falsche Interpretation von Messwerten.
     während und nach der Defibrillation falsche Werte angezeigt werden,
     das Gerät darf während der Defibrillation nicht berührt werden. Bei
     Mehrwegsensoren besteht das Risiko der Keimübertragung
-    (Kreuzinfektion, vgl. :ref:`Thema-kreuzinfektion`).
+    (Kreuzinfektion, vgl. :ref:`kreuzinfektion`).
 
 -   Eine besondere Fehlerquelle ist die *Kohlenmonoxid-Vergiftung*.
     Kohlenmonoxid-beladenes Blut ist ebenso hellrot wie

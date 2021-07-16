@@ -17,7 +17,7 @@ geben; Die Vertrauensperson bzw. Eltern müssen unbebedingt in die
 eng bei Vertrauensperson belassen werden (auf den Schoss setzen, …).
 [LPN:3]_
 
-.. _Thema-kind-besonderheiten:
+.. _kind-besonderheiten:
 
 *********************************************
 Anatomische und physiologische Besonderheiten
@@ -135,9 +135,9 @@ Fremdkörperaspiration
 =====================
 
 Die Fremdkörperaspiration und mechanische Atemwegsverlegung wird unter
-:ref:`Thema-mechanische-atemwegsverlegung`, behandelt.
+:ref:`mechanische-atemwegsverlegung`, behandelt.
 
-.. _Thema-pseudokrupp:
+.. _pseudokrupp:
 
 Akute obstruktive Laryngitis, Pseudokrupp
 =========================================
@@ -280,7 +280,7 @@ Differenzialdiagnosen Laryngitis und Epiglottitis:
     | Kind schreit; weint evtl.   | Sehr leise, verfällt zusehends   |
     +-----------------------------+----------------------------------+
 
-.. _Thema-sids:
+.. _sids:
 
 SIDS: Sudden Infant Death Syndrome (Plötzlicher Kindstod)
 =========================================================
@@ -411,7 +411,7 @@ Krampfanfälle im Kindesalter
 ============================
 
 Grundsätzlich gelten auch bei Kindern die Ausführungen im Abschnitt
-:ref:`Thema-zerebrale-krampfanfaelle`.
+:ref:`zerebrale-krampfanfaelle`.
 Eine Besonderheit stellt jedoch der
 :dfn:`Fieberkrampf` :index:`\ <! Fieberkrampf>` dar.
 
@@ -447,7 +447,7 @@ Die Körpertemperatur ist immer zu messen!
 
 Kindesmisshandlung
 ==================
-Siehe :ref:`Thema-kindesmisshandlung`
+Siehe :ref:`kindesmisshandlung`
 
 **********
 Literatur

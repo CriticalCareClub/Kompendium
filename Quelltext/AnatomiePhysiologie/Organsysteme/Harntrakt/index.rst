@@ -124,7 +124,7 @@ Harnblase durch die **Prostata** und den Penis und mündet an
 der Eichel in die Außenwelt.
 Bei einer Vergrößerung der Prostata kann der Harnabfluss bis zur
 Unpassierbarkeit erschwert sein (*Harnverhalt*,
-:ref:`Thema-harnverhalten`).
+:ref:`harnverhalten`).
 
 Bei der *Frau* ist die Harnröhre mit ungefähr 4 cm *deutlich kürzer* als
 beim Mann und mündet oberhalb des Scheideneinganges.

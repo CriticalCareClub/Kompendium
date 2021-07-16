@@ -8,7 +8,7 @@
    single: Mesenterium
    single: Darmgekröse
 
-.. _Thema-mesenterium:
+.. _mesenterium:
 
 *****************
 Jejunum und Ileum

@@ -1,6 +1,6 @@
 
-.. _Thema-vitalfunktionen-definition:
-.. _Thema-Vitalfunktionen:
+.. _vitalfunktionen-definition:
+.. _Vitalfunktionen:
 
 
 Vitalfunktionen
@@ -19,7 +19,7 @@ zum Tod führen können, und Vitalfunktionen 2. Ordnung, deren Störung
 längere Zeit toleriert werden kann.
 Die Untersuchung der Vitalfunktionen
 1. Ordnung sind fester Bestandteil des
-:ref:`Einschätzungsblocks <Thema-Einschaetzungsblock>`.
+:ref:`Einschätzungsblocks <Einschaetzungsblock>`.
 
 
 .. list-table:: Übersicht über die Vitalfunktionen 1. und 2. Ordnung
@@ -60,21 +60,21 @@ Vitalfunktionen 1. Ordnung
 
     .. sidebar:: Vitalfunktionen 1. Ordnung
 
-        -   :ref:`Bewusstsein <Thema-vitalfunktion-bewusstsein>`
-        -   :ref:`Atmung <Thema-vitalfunktion-atmung>`
-        -   :ref:`Kreislauf <Thema-vitalfunktion-kreislauf>`
-        -   Untersuchungen: :ref:`Thema-Einschaetzungsblock`
+        -   :ref:`Bewusstsein <vitalfunktion-bewusstsein>`
+        -   :ref:`Atmung <vitalfunktion-atmung>`
+        -   :ref:`Kreislauf <vitalfunktion-kreislauf>`
+        -   Untersuchungen: :ref:`Einschaetzungsblock`
 
 Die Vitalfunktionen 1. Ordnung sind für das kurzfristige Überleben
 unbedingt notwendig. Diese sind:
 
--   :ref:`Bewusstsein <Thema-vitalfunktion-bewusstsein>`
--   :ref:`Atmung <Thema-vitalfunktion-atmung>`
--   :ref:`Kreislauf <Thema-vitalfunktion-kreislauf>`
+-   :ref:`Bewusstsein <vitalfunktion-bewusstsein>`
+-   :ref:`Atmung <vitalfunktion-atmung>`
+-   :ref:`Kreislauf <vitalfunktion-kreislauf>`
 
 Die Untersuchung der Vitalfunktionen 1. Ordnung sind aufgrund ihrer
 Überlebenswichtigkeit fester Bestandteil des
-:ref:`Einschätzungsblocks <Thema-einschaetzungsblock>`
+:ref:`Einschätzungsblocks <einschaetzungsblock>`
 und werden ebendort näher erläutert.
 
 
@@ -85,8 +85,8 @@ Vitalfunktionen 2. Ordnung
 
     .. sidebar:: Vitalfunktionen 2. Ordnung
 
-        -   :ref:`Stoffwechsel <Thema-vitalfunktion-stoffwechsel>`
-        -   :ref:`Immunsystem <Thema-vitalfunktion-immunsystem>`
+        -   :ref:`Stoffwechsel <vitalfunktion-stoffwechsel>`
+        -   :ref:`Immunsystem <vitalfunktion-immunsystem>`
         -   Wasser- und Elektrolythaushalt
         -   Säure-/Basenhaushalt
         -   Temperaturregulation
@@ -95,8 +95,8 @@ Vitalfunktionen 2. Ordnung sind ebenso lebenswichtig, jedoch kann eine
 Störung in der Regel eine gewisse Zeit toleriert und vom Körper
 kompensiert werden. Vitalfunktionen 2. Ordnung sind:
 
--   :ref:`Stoffwechsel <Thema-vitalfunktion-stoffwechsel>`
--   :ref:`Immunsystem <Thema-vitalfunktion-immunsystem>`
+-   :ref:`Stoffwechsel <vitalfunktion-stoffwechsel>`
+-   :ref:`Immunsystem <vitalfunktion-immunsystem>`
 -   Wasser- und Elektrolythaushalt
 -   Säure-/Basenhaushalt
 -   Temperaturregulation

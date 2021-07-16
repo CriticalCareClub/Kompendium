@@ -16,8 +16,8 @@ Durch krankhafte Vorgänge kann es im Gewebe zu
 
 -  Ödemen (Wasseransammlung im Gewebe),
 -  Emphysemen (Luftansammlung im Gewebe),
--  Entzündungen (:ref:`Thema-entzuendung`),
--  Tumoren (:ref:`Thema-tumor`)
+-  Entzündungen (:ref:`entzuendung`),
+-  Tumoren (:ref:`tumor`)
 -  Ischämie (Mangeldurchblutung) oder
 -  Nekrosen (Absterben von Zellen bzw. Gewebe)
 
@@ -33,7 +33,7 @@ kommen.
     single: Dolor; Entzündung
     single: Funtio laesa
 
-.. _Thema-entzuendung:
+.. _entzuendung:
 
 ****************************************
 Entzündung ist eine Reaktion des Körpers
@@ -92,7 +92,6 @@ i.d.R. an die betreffende Organbezeichnung angehängt wird:
 .. index::
     single: Ischämie
 
-.. _Thema-ischaemie:
 .. _Ischaemie:
 
 ********
@@ -111,12 +110,12 @@ bishin zur **Nekrose** (Gewebstod) kommen.
 Schmerzen sind ein typisches Symptom.
 Häufig betroffene Gewebe sind:
 
--   Herzmuskel (Herzinfarkt, :ref:`Thema-herzinfarkt`)
+-   Herzmuskel (Herzinfarkt, :ref:`herzinfarkt`)
 -   Hirn (trockener Insult)
 -   Darm (Mesenterialinfarkt)
 -   Extremitäten
     (Periphere arterielle Verschlusskrankheit,
-    arterieller peripherer Gefäßverschluss, :ref:`Thema-ArteriellerGefaessverschluss`)
+    arterieller peripherer Gefäßverschluss, :ref:`ArteriellerGefaessverschluss`)
 
 
 
@@ -131,7 +130,7 @@ Häufig betroffene Gewebe sind:
     single: Blastom
     single: Leukämie
 
-.. _Thema-tumor:
+.. _tumor:
 
 ***************************
 Tumore, Neubildungen, Krebs

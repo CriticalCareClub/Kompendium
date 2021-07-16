@@ -1,5 +1,5 @@
 
-.. _Thema-Schock:
+.. _Schock:
 
 ############################################################
 Der Schock ist eine lebensbedrohliche Kreislaufstörung (#53)
@@ -89,7 +89,7 @@ die Kompensationsmaßnahmen nicht mehr ausreichen, spricht man vom
 
     Ein Schockzustand ist grundsätzlich als vitale Bedrohung einzustufen!
 
-.. _Thema-SchockAllgemeineSymptomatik:
+.. _SchockAllgemeineSymptomatik:
 
 ****************************
 Allgemeine Schocksymptomatik
@@ -155,7 +155,7 @@ listet typische allgemeine Schocksymptome auf.
             -   Evtl. Schnappatmung
             -   Patient ist sterbend.
 
-.. _Thema-Schockschere:
+.. _Schockschere:
 
 ************
 Schockschere
@@ -207,7 +207,7 @@ Die Schockschere gilt beim Kind nicht, da die Normalwerte andere sind!
 Kinder bleiben außerdem lange kreislaufstabil, verfallen dann aber
 schlagartig!
 
-.. _Thema-schock-arten:
+.. _schock-arten:
 
 ****************************
 Unterschiedliche Schockarten
@@ -256,7 +256,7 @@ Tabelle :ref:`Tafel-UebersichtSchockarten`.
                 -   Blutung
                 -   Verbrennungen (Hautbarriere versagt großflächig)
                 -   Gastrointestinal (Durchfall, Diarrhoe)
-                -   Exsikkose (:ref:`Thema-exsikkose`)
+                -   Exsikkose (:ref:`exsikkose`)
 
             -   Verlust nach innen
 
@@ -321,8 +321,8 @@ Tabelle :ref:`Tafel-UebersichtSchockarten`.
         -   :ref:`Tafel-Schocksymptomatik`
 
 
-.. _Thema-SchockHypovolaemischer:
-.. _thema-schock-hypovolaemischer:
+.. _SchockHypovolaemischer:
+.. _schock-hypovolaemischer:
 
 **********************
 Hypovolämischer Schock
@@ -357,7 +357,7 @@ Herzauswurf und RR!
             -   Aszites ("Wasserbauch", z. B. bei Lebererkrankungen)
 
 
-.. _Thema-SchockKardiogener:
+.. _SchockKardiogener:
 
 ******************
 Kardiogener Schock
@@ -381,8 +381,8 @@ Rechtsherzversagen).
 Häufig klagen die Patienten über *Atemnot*.
 
 
-.. _Thema-SchockAnaphylaktischer:
-.. _thema-schock-anaphylaktischer:
+.. _SchockAnaphylaktischer:
+.. _schock-anaphylaktischer:
 
 ***********************
 Anaphylaktischer Schock
@@ -438,9 +438,9 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
             Schwerer Schock
 
 
-.. _Thema-SchockSeptischer:
-.. _Thema-SchockToxischer:
-.. _thema-schock-septischer:
+.. _SchockSeptischer:
+.. _SchockToxischer:
+.. _schock-septischer:
 
 **************************************
 Septischer Schock und Toxischer Schock
@@ -451,7 +451,7 @@ einer schweren, körperweiten Infektion oder aufgrund eines, die Gefäße
 beeinflussenden, Giftstoffes (Toxins).**
 
 Siehe auch Thema
-:ref:`Thema-Sepsis`.
+:ref:`Sepsis`.
 Ein septisch-/toxischer Schock wird durch diverse Bakterien und Toxine
 verursacht.
 Die Erreger können auf unterschiedliche Wege in die Blutbahn

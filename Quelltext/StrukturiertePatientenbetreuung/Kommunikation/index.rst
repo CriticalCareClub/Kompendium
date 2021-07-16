@@ -270,8 +270,8 @@ Als klassisches Beispiel ist die
 
 
 
-.. _thema-kommunikationsregeln:
-.. _thema-einer-redet:
+.. _kommunikationsregeln:
+.. _einer-redet:
 
 Allgemeine Grundregeln und Ratschläge
 =====================================

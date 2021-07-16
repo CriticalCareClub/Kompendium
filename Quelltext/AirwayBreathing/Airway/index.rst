@@ -1,5 +1,5 @@
 
-.. _thema-airwaymanagement:
+.. _airwaymanagement:
 
 ################################
 Airway (#22)

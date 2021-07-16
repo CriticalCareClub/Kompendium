@@ -3,7 +3,7 @@
 Sinnesorgane
 ############
 
-.. _Thema-auge:
+.. _auge:
 
 ********
 Das Auge
@@ -99,7 +99,7 @@ unwillkürlich geschlossen werden können.
 
 
 
-.. _Thema-ohr:
+.. _ohr:
 
 *******
 Das Ohr
@@ -201,7 +201,7 @@ aushaltbarer Schwindel.
    single: Haut
    single: Derma
 
-.. _Thema-haut:
+.. _haut:
 
 ***************************************
 Die Haut ist die Barriere zur Außenwelt

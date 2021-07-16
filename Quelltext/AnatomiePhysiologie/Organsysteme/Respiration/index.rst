@@ -50,7 +50,7 @@ Entlüftung (Ein- und Ausatmung) erreicht. Im weiteren Verlauf ist mit
 "Atmung" die äußere Atmung gemeint.
 
 
-.. _Thema-atemwege-lunge:
+.. _atemwege-lunge:
 
 *****************************************************************
 Die Atemwege gliedern sich in die oberen und die unteren Atemwege
@@ -172,7 +172,7 @@ Ein Ausfall dieses Reflex kann u. U. auch ein Zeichen des Hirntods sein.
     single: Trachea
     single: Luftröhre
 
-.. _Thema-alveolen:
+.. _alveolen:
 
 Untere Atemwege
 ===============
@@ -237,7 +237,7 @@ immer weitere kleinere Bronchien bis schließlich die Bronchioli in die
 
 
 
-.. _Thema-lungenperfusion:
+.. _lungenperfusion:
 
 Die Alveolen sind Endstücke des Atemwegs und für den Gasaustausch zuständig
 ---------------------------------------------------------------------------
@@ -285,17 +285,17 @@ der die Alveole umgebenden Blutgefäße. Die Abschnitte der Atemwege, in
 denen kein Gasaustausch stattfindet und die z. B. nur dem Transport
 dienen, bezeichnet man als :dfn:`Totraum`.
 
-
 .. admonition:: Synopsis
 
     -   Lunge: Sauerstoff (O₂): Alveolen → Blut
     -   Lunge: Kohlendioxid (CO₂): Blut → Alveolen
 
 
+
 .. index::
     single: Pleura
 
-.. _Thema-pleura:
+.. _pleura:
 
 Die Pleura
 ----------
@@ -372,22 +372,20 @@ Fußzeile ( [#Antwort]_)
         aufgezogen und Luft angesaugt.
 
 
-.. _Thema-atemhilfsmuskulatur:
-.. _Thema-atemmechanik:
+
+.. _atemhilfsmuskulatur:
+.. _atemmechanik:
 
 Ventilation: Die Atemmechanik sorgt für einen Zu- und Abfluss von Atemgas
-=========================================================================
+===============================================================================
 
 .. only:: not nosidebar
 
     .. sidebar:: Atemmechanik
 
         -   Atemmuskulatur: Zwerchfell, Zwischenrippenmuskeln
-
         -   Atemhilfsmuskulatur
-
         -   Elastische Eigenschaften von Thorax und Lunge
-
         -    Unterdruck für Atmung wichtig
 
 Wenn man sich den Thorax annähernd als Zylinder
@@ -416,7 +414,7 @@ Gewebe und Pleura(spalt) wichtig:
     des Brustkorbes unterstützen.
 
 -   *Pleura*:
-    Die Funktion der Pleura ist unter :ref:`Thema-pleura`, erklärt.
+    Die Funktion der Pleura ist unter :ref:`pleura`, erklärt.
 
 .. admonition:: Synopsis
 
@@ -526,8 +524,8 @@ Ausatmen sozusagen wieder hinaus gedrückt.
 
 
 
-.. _Thema-vitalfunktion-atmung:
-.. _Thema-atemvolumina:
+.. _vitalfunktion-atmung:
+.. _atemvolumina:
 
 *********************************
 Die Atmung ist eine Vitalfunktion
@@ -626,7 +624,6 @@ Atemminutenvolumen von 6—8 L / min.
 .. index::
     single: Totraum
 
-.. _Thema-totraum:
 .. _Totraum:
 .. _Totraumventilation:
 
@@ -701,9 +698,9 @@ aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
 :ref:`Table-luft-gas`.
 
 
-.. _Table-luft-gas:
 
 .. table:: Gasgehalt in der Raum- und Ausatemluft
+    :name: Table-luft-gas
 
     +----------------+----------------------+-------------------+
     | **Raumluft**   |                      | **Ausatemluft**   |
@@ -716,6 +713,8 @@ aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
     +----------------+----------------------+-------------------+
     | 1%             | Edelgase             | 1%                |
     +----------------+----------------------+-------------------+
+
+
 
 Steuerung der Atmung
 ====================
@@ -738,7 +737,7 @@ gibt es Sensoren im Körper, die die Konzentration bestimmter Gase
 *Atemantrieb* von der *CO₂-Konzentration* des Blutes abhängig: Je höher
 der CO₂-Gehalt, desto stärker der Atemantrieb. Der Sauerstoffanteil
 spielt nur eine untergeordnete Rolle! Unter
-:ref:`Thema-saeure-basen-haushalt`, wird ausgeführt, dass das CO₂ eine
+:ref:`saeure-basen-haushalt`, wird ausgeführt, dass das CO₂ eine
 wichtige Rolle im Säure-Basen-Haushalt des Körpers einnimmt.
 
 

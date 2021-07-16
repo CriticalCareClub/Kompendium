@@ -53,7 +53,7 @@ Tätigkeit. Sanitäter haben sich daher laufend tätigkeitsrelevant
 fortzubilden. Darüber hinaus müssen die *Berufs- bzw.
 Tätigkeitspflichten* erfüllt werden (z. B. Dokumentationspflicht,
 Verschwiegenheitspflicht, Auskunftspflicht, vgl.
-(:ref:`Thema-sanitaeter-pflichten`).
+(:ref:`sanitaeter-pflichten`).
 
 Allgemeiner Tätigkeitsbereich
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -271,8 +271,8 @@ ausgebildet bzw. angewendet werden, sind manche (Landes-) Organisationen
 
 
 
-.. _Thema-belastung:
-.. _Thema-anforderung:
+.. _belastung:
+.. _anforderung:
 
 Anforderungen – Beanspruchung – Belastung: Was erwartet die Welt von mir?
 -------------------------------------------------------------------------
@@ -280,7 +280,7 @@ Anforderungen – Beanspruchung – Belastung: Was erwartet die Welt von mir?
 .. rubric:: Querverweise
 
 -   Gesprächsführung: [chp:KOM]
--   Belastungsreaktion, Burn-out: :ref:`Thema-ptss`, :ref:`Thema-burn-out`
+-   Belastungsreaktion, Burn-out: :ref:`ptss`, :ref:`burn-out`
 
 
 Theoretische Anforderungen
@@ -315,7 +315,7 @@ Anforderungsprofil des Arbeitsmarktservice (AMS):
 
 
 
-.. _thema-taetigkeitsbild-sanitaeter-belastung:
+.. _taetigkeitsbild-sanitaeter-belastung:
 
 Anforderungen und Belastungen in der Praxis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -388,7 +388,7 @@ sein persönliches Wohlbefinden wahren und pathologischen Entwicklungen
 (Burnout, Belastungsreaktion, etc.) präventiv entgegenwirken zu können.
 
 Weitere Informationen zu Stress und Belastungen finden sich unter
-:ref:`Thema-belastung-psi`.
+:ref:`belastung-psi`.
 
 
 .. subfigstart::

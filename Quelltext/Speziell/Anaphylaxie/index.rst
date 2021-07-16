@@ -135,7 +135,7 @@ Diagnostik
 **********
 
 
--   Patienteneinschätzung (:ref:`Thema-Einschaetzungsblock`)
+-   Patienteneinschätzung (:ref:`Einschaetzungsblock`)
 
     Besonderheiten:
 

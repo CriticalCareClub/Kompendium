@@ -10,6 +10,8 @@ Chirurgische A-Maßnahmen
 
 Zur Schaffung eines chirurgischen Atemweges stehen die *Koniotomie* und die *Tracheotomie* zur Verfügung.
 
+
+
 .. index::
     single: Ligamentum; cricothyroideum
     single: Ligamentum; conicum
@@ -23,17 +25,19 @@ Eine Koniotomie ist ein Schnitt bzw. Stich durch die Haut und die Cricothyroid-M
 Es handelt sich um ein Notfall-Atemwegsverfahren und wird fast immer als letzter Ausweg durchgeführt, wenn eine endotracheale Intubation bzw. eine anderes alternatives Atemwegsverfahren unmöglich oder kontraindiziert ist.
 Die Koniotomie ist einfacher und schneller durchzuführen als eine Tracheotomie, ist jedoch nur eine temporäre Möglichkeit eines Atemwegszugangs.
 
+
+
 Durchführung
 ========================================================================
 
 1.  Zuerst erfolgt das Ertasten der Schildknorpels (Cartilago thyroidea) und des kaudal liegenden Ringknorpels (Cartilago cricoidea) bei leicht überstrecktem Kopf.
 2.  Anschließend erfolgt ein vertikaler Schnitt in Medianebene zwischen Schild- und Ringknorpel,
 3.  Spreizen der Wunde und
-4.  ein weiterer transversaler Schnitt durch das Lig. cricothyreoideum.
+4.  ein weiterer transversaler Schnitt durch das Lig. cricothyroideum.
 5.  Anschließend wird ein Tubus eingeführt, gecufft und fixiert.
 
 Eine Sonderform der Koniotomie ist die Nadelkoniotomie.
-Hier wird mit einer Kanüle durch die Haut und das Lig. cricothyreoideum in die Trachea gestochen, ein Führungsdraht eingeführt, darüber die Öffnung aufgedehnt und eine Kanüle oder ein Tubus eingeführt.
+Hier wird mit einer Kanüle durch die Haut und das Lig. cricothyroideum in die Trachea gestochen, ein Führungsdraht eingeführt, darüber die Öffnung aufgedehnt und eine Kanüle oder ein Tubus eingeführt.
 Die genaue Vorgangsweise unterscheidet sich je nach verwendetem Set bzw. Material.
 
 .. attention::
@@ -43,8 +47,12 @@ Die genaue Vorgangsweise unterscheidet sich je nach verwendetem Set bzw. Materia
 .. index::
     single: Tracheotomie
 
+
+
 Tracheotomie
 ************************************************************************
+
+.. todo:: `#110: Fotos: Tracheotomie <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/110>`_
 
 Eine Tracheotomie ist ein chirurgischer Eingriff, bei dem ein Schnitt an der Vorderseite des Halses vorgenommen und ein direkter Atemweg durch einen Schnitt in der Luftröhre geöffnet wird.
 Es existieren eine Reihe verschiedener chirurgischer Techniken zur Anlage.

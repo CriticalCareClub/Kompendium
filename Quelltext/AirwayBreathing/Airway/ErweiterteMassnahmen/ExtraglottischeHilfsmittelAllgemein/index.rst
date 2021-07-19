@@ -1,15 +1,16 @@
 
 ########################################################################
-Extra-/Suprglottische Atemwegshilfsmittel — Allgemeines
+Extra-/Supraglottische Atemwegshilfsmittel — Allgemeines
 ########################################################################
 
 
 Supraglottische Methoden zur Atemwegssicherung werden oft als
 "alternativer Atemweg" bezeichnet, da sie oft eine Alternative zur
-endotrachealen Intubation (ETI) angesehen werden. Die ETI gilt weithin
+endotrachealen Intubation (ETI) angesehen werden.
+Die ETI gilt weithin
 als Goldstandard der Atemwegssicherung, dennoch hat sie einige
-gewichtige Nachteile und ist in vielen Situationen *nicht die Methode
-der Wahl*.
+gewichtige Nachteile (hoher Trainings- und Routinebedarf, schwieriger Atemweg, ...)
+und ist in vielen Situationen *nicht die Methode der Wahl*.
 
 Der Einsatz von supraglottischen Atemwegshilfen, beispielsweise von
 Larynxtuben, ist eine anerkannte Strategie im Management des schwierigen

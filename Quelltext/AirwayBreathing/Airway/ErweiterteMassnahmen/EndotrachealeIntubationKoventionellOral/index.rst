@@ -644,6 +644,10 @@ Erfolgskontrolle
     Bilderserie: Intubation
 
 
+.. todo:: `#109: Endotracheale Intubation: Komplikationen <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/109>`_
+
+
+
 .. rubric:: Literatur
 
 [ArbeitstechnikenAZ:1]_

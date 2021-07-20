@@ -16,27 +16,28 @@ unterschieden zwischen einer *elektrischen Absaugeinheit*, einer
 *manueller Absaugpumpe* und als Sonderfall dem *Oro-Sauger* oder
 Schleimabsauger.
 
-Ein *Absaugkatheter* ist jenes Zubehör zum Absauggerät, mit welchem die
-Sekrete aus Mund oder Nase abgesaugt werden können. Es ist ein
-flexibler, ca. 50cm langer Schlauch, der direkt an die Absaugpumpe
-angeschlossen wird (siehe Abbildung in [Figure-absaugvorrichtungen]). Die
-meisten Absaugkatheter haben auf Patientenseite eine kleine Öffnung, die
-das Festsaugen an dem Patienten verhindert. Die Absaugkatheter sind
-steril verpackt und müssen auch dementsprechend behandelt werden. Die
-farbige Kennung gibt den Durchmesser des Absaugkatheters an. Die
-Farbcodierung kann :ref:`Table-Absaugkatheter`: entnommen werden.
+Ein **Absaugkatheter** ist jenes Zubehör zum Absauggerät,
+mit welchem die Sekrete aus Mund oder Nase abgesaugt werden können.
+Es ist ein flexibler, ca. 50cm langer Schlauch,
+der direkt an die Absaugpumpe
+angeschlossen wird (siehe Abbildung :ref:`Figure-absaugvorrichtungen`).
+Die meisten Absaugkatheter haben auf Patientenseite eine kleine Öffnung,
+die das Festsaugen an dem Patienten verhindert.
+Die Absaugkatheter sind steril verpackt und müssen auch dementsprechend behandelt werden.
+Die Farbkodierung gibt den Durchmesser des Absaugkatheters an (vgl. Tabelle :ref:`Table-Absaugkatheter`).
 
-.. _Table-Absaugkatheter:
+
 
 .. table:: Farbcodierung: Absaugkatheter
+    :name: Table-Absaugkatheter
 
-   +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
-   | **Farbe**            | **grau**   | **hellgrün**   | **blau**   | **schwarz**   | **weiß**   | **grün**   | **orange**   | **rot**   | **gelb**   |
-   +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
-   | Durchmesser in mm    | 1,7        | 2,0            | 2,7        | 3,3           | 4,1        | 4,7        | 5,3          | 6,1       | 6,6        |
-   +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
-   | Größe in Charrière   | CH 5       | CH 6           | CH 8       | CH 10         | CH 12      | CH 14      | CH 16        | CH 18     | CH 20      |
-   +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
+    +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
+    | **Farbe**            | **grau**   | **hellgrün**   | **blau**   | **schwarz**   | **weiß**   | **grün**   | **orange**   | **rot**   | **gelb**   |
+    +======================+============+================+============+===============+============+============+==============+===========+============+
+    | Durchmesser in mm    | 1,7        | 2,0            | 2,7        | 3,3           | 4,1        | 4,7        | 5,3          | 6,1       | 6,6        |
+    +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
+    | Größe in Charrière   | CH 5       | CH 6           | CH 8       | CH 10         | CH 12      | CH 14      | CH 16        | CH 18     | CH 20      |
+    +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
 
 Oro-Sauger
 ^^^^^^^^^^

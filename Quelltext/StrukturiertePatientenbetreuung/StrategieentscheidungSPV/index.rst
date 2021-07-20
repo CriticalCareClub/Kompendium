@@ -6,9 +6,6 @@
 Strategieentscheidung
 ###############################################################
 
-… in der strukturierten Patientenversorgung
-
-
 Während und nach dem
 Einschätzungsblock (und den Sofortmaßnahmen) müssen die Prioritäten des
 Patienten gesetzt und der weitere Plan erstellt werden.
@@ -71,9 +68,10 @@ Zu bedenken ist hierbei:
     Die Verfügbarkeit ist abzuwägen gegen die …
 
 #.  *Transportdauer zur Zieleinrichtung*:
-    Ist die erwartete Transportdauer kürzer als die Eintreffzeit eines Notarztmittels ist --
-    sofern der Patient nicht stabilisert werden muss -- der Transport oft
-    vorteilhafter.
+    Ist die erwartete Transportdauer kürzer als die Eintreffzeit eines Notarztmittels,
+    ist --
+    sofern der Patient nicht stabilisert werden muss --
+    der Transport oft vorteilhafter.
 
 #.  *Rendez-vous*:
     Beim Rendez-vous (*franz.* Treffen) treffen sich das
@@ -86,7 +84,7 @@ Zu bedenken ist hierbei:
     Daher wird diese Strategie eher in ländlichen,
     und kaum in städtischen Gebieten angewendet.
 
-Wie unter :ref:`SonderfallAbsolutZeitkritischePatienten`,
+Wie unter :ref:`SonderfallAbsolutZeitkritischePatienten`
 bereits ausgeführt,
 kann als Sofortmaßnahme bei *absolut zeitkritischen Patienten*,
 bei denen bereits die ABC-Einschätzung ergibt dass ein
@@ -237,6 +235,7 @@ Datenterminals.
 -   Zuteilung durch eine Leitstelle
 
 
+
 .. index::
    single: Überwachungsbett
    single: Intensivbett
@@ -247,7 +246,7 @@ Datenterminals.
    single: Bett, Überwachungs-
    single: Spezialbetten
 
-"Spezialbetten"
+Spezielle Ziele
 ---------------
 
 
@@ -256,21 +255,24 @@ benötigten Spezialabteilungen verfügbar.
 Zusätzlich können jedoch spezielle Einrichtungen erforderlich werden,
 dazu zählen:
 
--   Überwachungsbett
-    **Intensivbett** für kritisch kranke Patienten,
-    die einer intensivmedizinischen Behandlung bedürfen
+-   **Überwachung**:
+    Einheit zur Überwachung kritisch kranker Patienten.
+    Überwachungseinheiten haben meiste keine Möglichkeit zur künstlichen Beatmung.
+    **Intensivstation** für kritisch kranke Patienten,
+    die einer intensivmedizinischen Behandlung bedürfen.
 -   **Stroke Unit**: Behandlungseinheit für
     Schlaganfallpatienten
 -   **Herzkatheterlabor**
-    (PTCA\ [#176]_]_[ PCI\ [#177]_) für Herzinfarktpatienten
+    (PTCA\ [#176]_ bzw. PCI\ [#177]_) für Herzinfarktpatienten
 -   **Schockraum**:
     Behandlungseinheit mit Vorrichtungen zur
-    Stabilisierung und Aufrechterhaltung von Vitalfunktionen,
-    normalerweise von schwer verletzten,
-    je nach regionaler Regelung eventuell auch von schwer erkrankten
-    Patienten.
-    Hier wird der Patient vor einer weiteren Behandlung stabilisiert.
-    Der Schockraum ist normalerweise einer Abteilung für Unfallchirurgie zugeordnet.
+    Stabilisierung und Aufrechterhaltung von Vitalfunktionen.
+    Dieser kann von unterschiedlichen Fachrichtungen (Innere Medizin, Unfallchirurgie, ...) eingerichtet sein,
+    oder fachübergreifend betrieben werden.
+    Der Schockraum verfügt über umfangreiche intensivmedizinische, diagnostische und therapeutische Möglichkeiten.
+    Hier wird der Patient vor einer weiteren Behandlung bzw. stationären Aufnahme stabilisiert.
+    Trotz seines Namens ist ein vorliegender :ref:`Schock <Schock>`
+    *keine* Vorraussetzung für die Behandlung in einem Schockraum.
 -   Gebärende
 -   Psychiatrische Patienten
 
@@ -288,6 +290,8 @@ Für *psychiatrische
 Patienten* gibt es oft regionale,
 rechtlich begründete,
 Vorschriften.
+
+
 
 Sonderfall: Kurz zurückliegende Spitalsentlassung
 -------------------------------------------------
@@ -311,10 +315,10 @@ Einrichtungen und Abteilungen verfügt.
 Ist der neuerliche Grund
 einer Spitalsbehandlung ein grundsätzlich
 anderer als der vorherige,
-und kann ist das in Frage kommende Spital für
+und ist das in Frage kommende Spital für
 das neue Problem ungeeignet,
 muss der Patient natürlich in eine
-*geeignete Einrichtung transportiert werden.*
+*geeignete* Einrichtung transportiert werden.
 
 Sonderfall: Bettenzusage
 ------------------------

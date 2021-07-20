@@ -834,8 +834,116 @@ Echo
 
 
 
+.. [ERC:2021:01]
+    Gavin D. Perkins et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Executive summary.**
+    *Resuscitation* 161:98-114.
+    DOI:https://doi.org/10.1016/j.resuscitation.2021.02.009
+
+.. [ERC:2021:02]
+    Jan-Thorsten Gräsner et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Epidemiology of cardiac arrest in Europe.**
+    *Resuscitation* 161:61-79.
+    DOI:https://doi.org/10.1016/j.resuscitation.2021.02.007
+
+.. [ERC:2021:03]
+
+    Federico Semeraro et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Systems saving lives.**
+    *Resuscitation* 161:80-97.
+    DOI:https://doi.org/10.1016/j.resuscitation.2021.02.008
+
+.. [ERC:2021:04]
+
+    Theresa M. Olasveengen et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Basic Life Support.**
+     *Resuscitation* 161:98-114.
+    DOI:https://doi.org/10.1016/j.resuscitation.2021.02.009
+
+.. [ERC:2021:05]
+    Jasmeet Soar et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Adult advanced life support.**
+    *Resuscitation* 161:115-151.
+    DOI:https://doi.org/10.1016/j.resuscitation.2021.02.010
+
+.. [ERC:2021:06]
+    Carsten Lott et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Cardiac arrest in special circumstances.**
+    *Resuscitation* 161:152-219, April 01, 2021
+    DOI:https://doi.org/10.1016/j.resuscitation.2021.02.011
+
+.. [ERC:2021:07]
+    Jerry P. Nolan et al.:
+    *European Resuscitation Council and European Society of Intensive Care Medicine Guidelines 2021:*
+    **Post-resuscitation care.**
+    *Resuscitation* 161:220-269.
+    DOI:https://doi.org/10.1016/j.resuscitation.2021.02.012
+
+.. [ERC:2021:08]
+    David A. Zideman et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **First aid.**
+    *Resuscitation* 161:270-290.
+    DOI:https://doi.org/10.1016/j.resuscitation.2021.02.013
+
+.. [ERC:2021:09]
+    John Madar et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Newborn resuscitation and support of transition of infants at birth.**
+    *Resuscitation* 161:291-326, April 01, 2021
+    DOI:https://doi.org/10.1016/j.resuscitation.2021.02.014
+
+.. [ERC:2021:10]
+    Patrick Van de Voorde et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Paediatric Life Support.**
+    *Resuscitation* 161:327-387.
+    DOI:https://doi.org/10.1016/j.resuscitation.2021.02.015
 
 
+.. [ERC:2021:11]
+    Robert Greif et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Education for resuscitation.**
+    *Resuscitation* 161:388-407.
+    DOI:https://doi.org/10.1016/j.resuscitation.2021.02.016
+
+.. [ERC:2021:12]
+    Spyros D. Mentzelopoulos et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Ethics of resuscitation and end of life decisions.**
+    *Resuscitation* 161:408-432.
+    DOI:https://doi.org/10.1016/j.resuscitation.2021.02.017
+
+.. [ERC:2021:01:De]
+
+.. [ERC:2021:02:De]
+
+.. [ERC:2021:03:De]
+
+.. [ERC:2021:04:De]
+
+.. [ERC:2021:05:De]
+
+.. [ERC:2021:06:De]
+
+.. [ERC:2021:07:De]
+
+.. [ERC:2021:08:De]
+
+.. [ERC:2021:09:De]
+
+.. [ERC:2021:10:De]
+
+.. [ERC:2021:11:De]
+
+.. [ERC:2021:12:De]
 
 
 
@@ -917,7 +1025,7 @@ Hotel
 .. [Hildebrand:4]
 	Hildebrand, Nikolaus:
 	2001.*Injektionen – Leicht Gemacht.*
-	4. Auflage,
+	1. Auflage,
 	Urban & Fischer.
 
 

@@ -8,8 +8,6 @@
 Larynxmaske
 ########################################################################
 
-
-
 Die erste Generation der Larynxmaske wurde in den
 1980er Jahren eingeführt und
 seitdem stetig weiterentwickelt.
@@ -29,13 +27,13 @@ angeschlossen werden.
 Moderne Larynxmasken unterscheiden sich untereinander in vielen
 Kriterien,
 z. B. Material, Einweg- oder Mehrwegprodukte, Form und
-Flexibilität des Tubus, zusätzliche Luminia
+Flexibilität des Tubus, zusätzliche Lumina
 (z. B. für gastroösophageale Sonden)
 oder Art des Cuffs.
 Gemeinsam ist ihnen eine verhältnismäßig invasivitätsarme Anwendung
 und das Einführen ohne Darstellung des Atemwege ("blind").
 Sie ermöglichen eine Sicherung des Atemweges gegenüber
-Verlegungen durch zurückfallen der Zunge o. ä.,
+Verlegungen durch Zurückfallen der Zunge o. ä.,
 bieten aber kaum Schutz gegenüber einer Aspiration.
 *Intubationslarynxmasken* ermöglichen
 einerseits die kurzfristige Ventilations des Patienten und dienen

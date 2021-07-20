@@ -921,29 +921,6 @@ Echo
     *Resuscitation* 161:408-432.
     https://doi.org/10.1016/j.resuscitation.2021.02.017
 
-.. [ERC:2021:01:De]
-
-.. [ERC:2021:02:De]
-
-.. [ERC:2021:03:De]
-
-.. [ERC:2021:04:De]
-
-.. [ERC:2021:05:De]
-
-.. [ERC:2021:06:De]
-
-.. [ERC:2021:07:De]
-
-.. [ERC:2021:08:De]
-
-.. [ERC:2021:09:De]
-
-.. [ERC:2021:10:De]
-
-.. [ERC:2021:11:De]
-
-.. [ERC:2021:12:De]
 
 
 

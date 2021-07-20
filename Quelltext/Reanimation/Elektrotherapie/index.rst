@@ -10,7 +10,7 @@
 
 Das Herz ist die Pumpe des Blutkreislaufes und leistet eine beachtliche mechanische Arbeit,
 welche über elektrische Reize koordiniert wird
-(Reizleitungssystem, :ref:`reizleitungssystem`).
+(vgl. :ref:`Reizleitungssystem <reizleitungssystem>`).
 Ohne diese
 elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und
 somit zum Kreislaufstillstand.
@@ -20,25 +20,25 @@ bzw. des elektrischen Herzrhythmus die primäre Ursache des Kreislaufstillstands
 Bei bestimmten Herzrhythmen
 ("schockbare Rhythmen": (pulslose) ventrikuläre Tachykardie,
 Kammerflimmern)
-wir die Elektrotherapie angewendet umd den Rhythmus zu normlaisieren. Man nennt diesen Vorgang
+wird die Elektrotherapie angewendet, um den Rhythmus zu normalisieren. Man nennt diesen Vorgang
 :dfn:`elektrische Kardioversion`\ [#321]_.
 Ein Sonderfall ist die :dfn:`Defibrillation`,
 sie ist eine Kardioversion bei Kammerflimmern.\ [#322]_
 
 .. [#321]
-   Eine Kardioversion, also die Überführung in einen anderen Rhythmus,
-   kann auch mittels Medikamenten erfolgen.
+    Eine Kardioversion, also die Überführung in einen anderen Rhythmus,
+    kann auch mittels Medikamenten erfolgen.
 
 .. [#322]
-   Die elektrische Kardioversion wird auch bei nicht akut
-   lebensbedrohlichen Rhythmusstörungen, wie zum Beispiel beim
-   Vorhofflimmern, eingesetzt. Die Anwendung erfolgt dann in Narkose
-   bzw. Sedierung und es werden geringere Energien eingesetzt.
-   Im Rahmen der Reanimation werden die Begriffe Kardioversion und Defibrillation jedoch umgangssprachlich oft synonym verwendet.
+    Die elektrische Kardioversion wird auch bei nicht akut
+    lebensbedrohlichen Rhythmusstörungen, wie zum Beispiel beim
+    Vorhofflimmern, eingesetzt. Die Anwendung erfolgt dann in Narkose
+    bzw. Sedierung und es werden geringere Energien eingesetzt.
+    Im Rahmen der Reanimation werden die Begriffe Kardioversion und Defibrillation jedoch umgangssprachlich oft synonym verwendet.
 
 .. note::
 
-    Die Defibrillation soll die normale *elektrische* Herztätigkeit wiederherstellen
+    Die Defibrillation soll die normale *elektrische* Herztätigkeit wiederherstellen.
 
 
 .. index::
@@ -64,7 +64,8 @@ Defibrillatoren
         - Manuelle Defibrillatoren
         - Automatische implantierbare Defibrillatoren
 
-Geräte für die Defibrillation werden **Defibrillator**
+Geräte für die Defibrillation werden
+**Defibrillator** (Abk. *Defi*)
 genannt.
 Man unterscheidet dabei folgende Gerätekategorien:
 
@@ -82,6 +83,7 @@ Automatische und halbautomatische externe Defibrillatoren
    die Analyse manuell gestartet, sie sind für nicht-ärztliches
    Fachpersonal konzipiert. Die Schockauslösung erfolgt bei beiden Arten
    durch den Anwender.
+   Ein :ref:`Normsymbol <Figure-NormsymbolAed>` weißt auf das Vorhandensein eines entsprechenden Gerätes hin.
 
 Manuelle Defibrillatoren
    Das Gerät zeigt das EKG an, der Anwender
@@ -99,15 +101,11 @@ Automatische implantierbare Defibrillatoren
    :index:`\ <ICD>`
    :index:`\ <Implantable Cardiac Device>`
    (*Abkz.* :dfn:`ICD`: :dfn:`Implantable Cardiac Device`).
-   Diese geben automatisch einen Schock ab wenn sie eine defibrillationspflichtige
+   Diese geben automatisch einen Schock ab,
+   wenn sie eine defibrillationspflichtige
    Rhythmusstörung erkennen.
 
 
-.. figure:: /Bilder/WikipediaPd/AED_Symbol.*
-    :width: 25%
-    :align: right
-
-    Normsymbol "AED"
 
 Grundsätzlich kann eine Reanimation auch beim ALS mittels AED
 durchgeführt werden. Es empfiehlt sich jedoch, sofern möglich, in den
@@ -115,6 +113,20 @@ manuellen Modus zu wechseln, wenn geeignetes Personal zur Verfügung
 steht.
 Dadurch kann die Analysezeit drastisch reduziert werden und auf
 außerplanmäßige Situation flexibler reagiert werden (Intubation, …).
+
+
+
+
+.. figure:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-00943pt.*
+    :width: 100%
+
+    Multifunktionsmonitor mit integriertem Defibrillator
+    (Corpuls³ ™)
+
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
+
+
+
 
 
 .. index::
@@ -133,22 +145,22 @@ Elektrische Herzrhythmen
 
     .. sidebar:: Herzrhythmen
 
-        -  schockbare Rhythmen
+        -   schockbare Rhythmen
 
-            -  Kammerflimmern
-            -  pulslose ventrikuläre Tachykardie
+            -   Kammerflimmern
+            -   pulslose ventrikuläre Tachykardie
 
-        -  nicht-schockbare Rhythmen
+        -   nicht-schockbare Rhythmen
 
-            -  Asystolie
-            -  pulslose elektrische Aktivität
+            -   Asystolie
+            -   pulslose elektrische Aktivität
 
 Die Defibrillation ist nicht bei jeder Herzrhythmusstörung
 sinnvoll.
 Man unterscheidet daher **schockbare** und **nicht-schockbare**
 Rhythmen:
 
--  *Schockbare Rhythmen*
+-   **Schockbare** Rhythmen
 
     -   **Kammerflimmern** :index:`\ <Kammerflimmern>`:
         Unkoordnierte, "wirre" elektrische
@@ -158,7 +170,7 @@ Rhythmen:
         schneller Herzrhythmus, das Herz kann sich nicht ausreichend
         füllen, daher fehlt die Pumpleistung
 
--  *Nicht-schockbare Rhythmen*
+-   **Nicht-schockbare** Rhythmen
 
     -   **Asystolie** :index:`\ <Asystolie>`:
         Keine Elektrische Aktivität
@@ -170,10 +182,65 @@ Rhythmen:
         nicht mit einer adäquaten mechanischen Reaktion antwortet,
         d. h. trotz elektrischer Herzaktivität kein Herzauswurf erfolgt.
 
-Beim SAED übernimmt das Gerät die Beurteilung ob ein elektrischer
-Herzrhythmus schockbar oder nicht-schockbar ist.
+Beim SAED übernimmt das Gerät die Beurteilung,
+ob ein elektrischer Herzrhythmus schockbar oder nicht-schockbar ist.
 Die Herzrhythmen werden
 im Kapitel :ref:`herzrhythmusstoerungen`, genauer besprochen.
+
+
+
+
+
+.. subfigstart::
+
+.. figure:: /Bilder/WikipediaCcBySa/Defib_electrode_placement.*
+    :width: 100%
+    :name: Figure-Defibrillation
+
+    Anbringen der Klebeelektroden
+
+    [WMC:Andersat, :term:`ℓ CC BY-SA 3.0`]
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
+    :width: 100%
+
+    Bei der Analyse und Schockabgabe darf niemand den Patienten berühren! ₢ Lena Hirtler, :term:`ℓ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/WikipediaCcBySa/Semi_automatic_defi_with_electrodes.png
+    :width: 100%
+
+    Automatisierter Externer Defibrillator (AED) mit
+    angeschlossenen Klebeelektroden für den
+    Einmalgebrauch
+
+    [WMC:Hborkyb, CC-BY-SA-2.5-US]
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/WikipediaPd/AED_Symbol.*
+    :width: 100%
+    :name: Figure-NormsymbolAed
+
+    Normsymbol "AED"
+
+.. subfigend::
+    :width: 0.48
+    :label: Figure-Bilderserie-Defibrillation
+
+    Bilderserie: *Defibrillation*
+
+
+
 
 
 .. _DefibrillationBls:
@@ -197,7 +264,8 @@ Allgemein lässt sich jedoch sagen:
         Nach Öffnen der Schutzhülle werden die Kabel der Elektroden an das Gerät angeschlossen.
     #.  Elektroden anbringen:
         Elektroden von der Schutzfolie abziehen und *faltenfrei* auf den Patienten kleben.
-        Ist die Schutzfolie einmal abgezogen darf die Elektrode nicht mehr abgelegt werden,
+        Ist die Schutzfolie einmal abgezogen,
+        darf die Elektrode nicht mehr abgelegt werden,
         da die Klebeschicht sonst verschmutzt und der Kontakt beeinträchtigt wird.
 
         Ggf. müssen die Brusthaare des Patienten vor dem Aufkleben abrasiert werden.
@@ -218,6 +286,7 @@ Allgemein lässt sich jedoch sagen:
     Die Analyse führt das Gerät nun selbständig durch.
     Es ertönt eine Warnung, z. B.
     *"Analyse läuft! Patienten nicht berühren!"*
+
     Der Patient
     (oder elektrisch leitende Gegenstände
     (z. B. Metalle, Wasser),
@@ -232,8 +301,8 @@ Allgemein lässt sich jedoch sagen:
             eine Vollständige Ladung wird durch einen Signalton angezeigt.
         #.  Warnen der Umgebung:
             *"Achtung! Zurücktreten! Schockabgabe!"*
-        #.  **Sicherungsblick**: Patient und Umgebung kontrollieren,
-            Keiner darf den Patienten berühren!
+        #.  **Sicherungsblick**: Patient und Umgebung kontrollieren!
+            Niemand darf den Patienten berühren!
         #.  Mittels Betätigen der ``Schock``-Taste
             (oft rot, oder mittels Blitz-Symbols gekennzeichnet)
             wird der Elektroschock ausgelöst werden.
@@ -244,53 +313,6 @@ Allgemein lässt sich jedoch sagen:
         Kommando "*START!"*: Herzdruckmassage fortführen
 
 
-
-.. caution::
-
-    .. rubric:: Sicherheitshinweise
-
-    -   **Fehlströme**:
-        Der Defibrillator darf nicht in einer *nassen Umgebung*
-        oder auf *Metallunterlagen* eingesetzt werden, da Wasser und die
-        meisten Metalle den elektrischen Strom leiten. Dadurch sind Helfer
-        bei der Schockabgabe gefährdet. Patienten, die aus dem Wasser
-        gerettet werden, müssen daher vor der Schockabgabe abgetrocknet und
-        auf trockenen Untergrund gebracht werden.
-
-    -   **Brandgefahr**: Der Defibrillator darf nicht in der Nähe von
-        entzündlichen Substanzen oder in Umgebungen, in welchen
-        *Explosionsgefahr* herrscht, eingesetzt werden!
-
-    -   **Kinder**:
-        Viele Geräte dürfen bei Kindern erst ab einem bestimmten
-        Körpergewicht oder Alter (je nach Herstellerangabe) eingesetzt
-        werden.
-
-    -   **Sauerstoffquellen**: Während der Schockabgabe sind etwaige
-        Sauerstoffquellen so weit wie möglich von den Elektroden weg zu
-        halten (Richtwert ca. 1 m).
-
-    -   **Analyseprobleme**:
-        Folgende Umstände können zu einem *Abbruch der
-        Analyse* führen: Eigenbewegung des Patienten, Manipulationen am
-        Patienten (durch unachtsame Helfer), Manipulationen am Defibrillator
-        oder Kabel, maschinelle Beatmung, Transport, sonstige
-        Erschütterungen. In diesem Fall kann kein Schock abgegeben werden!
-
-    -   **Elektromagnetische Felder**:
-        Bei Starkstromleitungen muss ein Abstand
-        von mindestens 3 m gehalten werden, da sonst die Analyse beeinflusst
-        werden kann.
-
-    -   **Medikamentenpflaster**
-        müssen vor der Defibrillation entfernt werden.
-
-    -   Die Elektroden müssen **ohne Lufteinschlüsse** aufgeklebt werden.
-
-    Zusätzliche Sicherheits- und Bedienhinweise sind in der
-    Bedienungsanleitung des jeweiligen Geräts nachzulesen!
-
-    .. centered:: Lebensgefahr bei unsachgemäßer Anwendung!
 
 
 .. index::
@@ -325,7 +347,8 @@ Verwendung eines manuellen Defibrillators
         -  Schockabgabe
         -  Sicherheitshinweise
 
-Grundsätzlich ist jedes Gerät so zu verwenden wie es der Hersteller in
+Grundsätzlich ist jedes Gerät so zu verwenden,
+wie es der Hersteller in
 der *Bedienungsanleitung* vorschreibt.
 Manuelle Defibrillatoren sind meist Bestandteil eines
 Multifunktionsgerätes,
@@ -333,7 +356,7 @@ welches oft zusätzliche umfangreiche
 Überwachungsmöglichkeiten bietet.
 
 Therapieelektroden
-    Grundsätzlich sollen aufgrund der besseren elektrischen Eigenschaftenm **Klebeelektroden**
+    Grundsätzlich sollen aufgrund der besseren elektrischen Eigenschaften **Klebeelektroden**
     verwendet werden,
     wie sie auch bei (S)AEDs zum
     Einsatz kommen.
@@ -353,12 +376,13 @@ Therapieelektroden
     Die Verwendung von Hardpaddles führt zu
     **schlechteren Ergebnissen** und soll daher nur wenn nicht anders
     möglich erfolgen
-    [ERC:2015:03]_ [ERC:2015:03:De]_ \ .
+    [ERC:2021:05]_.
 
 Manueller Modus = manuelle Analyse
     Viele manuelle Defibrillatoren besitzen einen (S)AED-Modus, welcher
     oft bei Starten des Geräts automatisch aktiviert ist.
-    Wenn möglich soll jedoch der manuelle Modus verwendet werden,
+    Wenn möglich,
+    soll jedoch der manuelle Modus verwendet werden,
     da dadurch die Zeit für die Analyse des Rhythmus
     deutlich reduziert werden kann.
     Die Analyse erfolgt im manuellen Modus durch einen kompetenten und
@@ -375,10 +399,13 @@ Auswahl der Energie
 Synchronisation
     Bei vorhandenen Kammerkomplexen im EKG kann eine Schockabgabe zu
     bestimmten Zeiten des Herzzyklus ("vulnerable Phase") Kammerflimmern
-    ausgelöst werden. Um dies zu verhindern kann die Schockabgabe
-    synchronisiert mit dem Herzzyklus erfolgen, der Defibrillator gibt
-    dann denn Stromstoß in einem gefahrlosen Intervall ab. Neuere Geräte
-    verfügen oft über eine Rhythmuserkennung und "*Auto-Sync*"-Funktion,
+    ausgelöst werden.
+    Um dies zu verhindern, kann die Schockabgabe
+    synchronisiert mit dem Herzzyklus erfolgen,
+    der Defibrillator gibt dann den Stromstoß
+    in einem gefahrlosen Intervall ab.
+    Neuere Geräte verfügen oft über eine Rhythmuserkennung
+    und "*Auto-Sync*"-Funktion,
     hier entfällt die manuelle Einstellung.
 
     .. warning::
@@ -391,104 +418,59 @@ Synchronisation
 
 
 
-.. subfigstart::
+.. danger::
 
-.. _Figure-Defibrillation:
+    -   **Fehlströme**:
+        Der Defibrillator darf nicht in einer *nassen Umgebung*
+        (Wasser, Regen, ...)
+        oder auf *Metallunterlagen* eingesetzt werden,
+        da Wasser und die meisten Metalle elektrische Leiter sind.
+        Dadurch sind Helfer bei der Schockabgabe gefährdet.
+        Patienten, die aus dem Wasser gerettet werden,
+        müssen daher vor der Schockabgabe abgetrocknet und
+        auf trockenen Untergrund gebracht werden.
 
-.. figure:: /Bilder/WikipediaCcBySa/Defib_electrode_placement.*
-    :width: 100%
+    -   **Brandgefahr**: Der Defibrillator darf nicht in der Nähe von
+        entzündlichen Substanzen oder in Umgebungen, in welchen
+        *Explosionsgefahr* herrscht, eingesetzt werden!
 
-    Anbringen der Klebeelektroden
+    -   **Kinder**:
+        Viele Geräte dürfen bei Kindern erst ab einem bestimmten
+        Körpergewicht oder Alter (je nach Herstellerangabe) eingesetzt
+        werden.
 
-    [WMC:Andersat, CC-BY-SA-3.0]
+    -   **Sauerstoffquellen**: Während der Schockabgabe sind etwaige
+        Sauerstoffquellen so weit wie möglich von den Elektroden weg zu
+        halten (Richtwert ca. 1 m).
 
-.. raw:: latex
-
-    \hfill
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
-    :width: 100%
-
-    Bei der Analyse und Schockabgabe darf niemand den Patienten berühren!
-
-.. raw:: latex
-
-    \hfill
-
-.. figure:: /Bilder/WikipediaCcBySa/Semi_automatic_defi_with_electrodes.png
-    :width: 100%
-
-    Automatisierter Externer Defibrillator (AED) mit
-    angeschlossenen Klebeelektroden für den
-    Einmalgebrauch
-
-    [WMC:Hborkyb, CC-BY-SA-2.5-US]
-
-.. raw:: latex
-
-    \hfill
-
-.. figure:: /Bilder/WikipediaPd/AED_Symbol.*
-    :width: 100%
-
-    Hinweisschild "Defibrillator"
-
-.. subfigend::
-    :width: 0.48
-    :label: fsdgfergehrwthrwthtr
-
-    Bilderserie: *Defibrillation*
-
-
-.. caution::
-
-    -  **Fehlströme**: Der Defibrillator darf nicht in einer *nassen Umgebung*
-       oder auf *Metallunterlagen* eingesetzt werden, da Wasser und die
-       meisten Metalle den elektrischen Strom leiten. Dadurch sind Helfer
-       bei der Schockabgabe gefährdet. Patienten, die aus dem Wasser
-       gerettet werden, müssen daher vor der Schockabgabe abgetrocknet und
-       auf trockenen Untergrund gebracht werden.
-
-    -  **Brandgefahr**: Der Defibrillator darf nicht in der Nähe von
-       entzündlichen Substanzen oder in Umgebungen, in welchen
-       *Explosionsgefahr* herrscht, eingesetzt werden!
-
-    -  **Kinder**: Viele Geräte dürfen bei Kindern erst ab einem bestimmten
-       Körpergewicht oder Alter (je nach Herstellerangabe) eingesetzt
-       werden.
-
-    -  **Sauerstoffquellen**: Während der Schockabgabe sind etwaige
-       *Sauerstoffquellen* so weit wie möglich von den Elektroden weg zu
-       halten (Richtwert ca. 1 m).
-
-    -  **Interferenzen**: Folgende Umstände können die Beurteilung des
-       Herzrhythmus verfälschen
+    -   **Interferenzen**: Folgende Umstände können die Beurteilung des
+        Herzrhythmus verfälschen:
 
         -   **Bewegungsartefakte**: Eigenbewegung des Patienten,
             Herzdruckmassage, Manipulationen am Patienten, Manipulationen am
             Defibrillator oder Kabel, maschinelle Beatmung, Transport,
             sonstige Erschütterungen.
+        -   **Elektromagnetische Felder**:
+            Bei Hochspannungsleitungen muss ein
+            Abstand von mindestens 3 m gehalten werden.
+        -   **Analyseprobleme** (SAED):
+            Interferenzen können die Analysefunktion stören,
+            und somit eine Schockabgabe unmöglich machen.
 
-        -   **Elektromagnetische Felder**: Bei Starkstromleitungen muss ein
-            Abstand von mindestens 3m gehalten werden.
+    -   **Medikamentenpflaster**
+        müssen vor der Defibrillation entfernt werden.
 
-    -  **Medikamentenpflaster** müssen vor der Defibrillation entfernt werden.
+    -   Die Elektroden müssen **ohne Lufteinschlüsse**
+        aufgeklebt werden.
 
-    -  Die Klebeelektroden müssen *ohne Lufteinschlüsse* aufgeklebt werden.
-
-    -  **Paddles**: Bei Verwendung von Paddles muss Elektrodengel und ein
-       Anpressdruck von mind. 8 kg verwendet werden
+    -   Paddles: Bei Verwendung von Paddles (nicht empfohlen!)
+        muss Elektrodengel
+        und ein Anpressdruck von mind. 8 kg angewendet werden.
+        Die Paddles dürfen *nicht* gegeneinander gerieben werden!
 
     Zusätzliche Sicherheits- und Bedienhinweise sind in der
     Bedienungsanleitung des jeweiligen Geräts nachzulesen!
 
-    **Lebensgefahr!**
+    .. centered:: **Lebensgefahr** bei unsachgemäßer Anwendung!
 
-
-.. figure:: /Bilder/PallingerChristoph-Ccc/Corpuls_32863-00943pt.*
-
-	    Ein Multifunktionsgerät mit integriertem Defibrillator
-            (Corpuls:sup:`3`)
-
-            ₢ Ch. Pallinger  :term:`ℓ MfG`
 

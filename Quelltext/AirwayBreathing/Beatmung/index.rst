@@ -139,7 +139,7 @@ Beatmungsbeutel
 
 Der selbstfüllende Beatmungsbeutel ist das einfachste Hilfsmittel,
 welches dem Fachpersonal zur Verfügung steht, und kommt in vielen
-Bereichen (Rettungsdienst, Krankenhaus, …) zum Einsatz. Er ermöglichst
+Bereichen (Rettungsdienst, Krankenhaus, …) zum Einsatz. Er ermöglicht
 die kontrollierte oder assistierte Beatmung eines Patienten. Er kann
 mittels einer Beatmungsmaske angewendet, oder an andere Systeme (Tuben)
 angeschlossen werden.
@@ -181,8 +181,8 @@ Parameter:
 Frequenz :math:`f`
     der Atemzyklen
 
-Dauer von Inspiration (I) und Exspiration (E)
-    *"I:E-Verhältnis"*
+I:E-Verhältnis
+    Dauer von Inspiration (I) und Exspiration (E)
 
 Flow
     Fluss im Verlauf des Atemzyklus
@@ -197,7 +197,7 @@ Complicance
     Dehnbarkeit der Lunge
 
 Resistance
-    Der Atemwegswiderstand
+    Atemwegswiderstand
 
 Die Compliance bzw. Resistance spiegeln im Wesentlichen die gegebenen
 Eingenschaften des Gewebes und des Atemwegs wider.

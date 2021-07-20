@@ -4,12 +4,15 @@ Herz-Kreislauf-Störungen
 
 
 
-Herz-Kreislauferkrankungen sind die häufigste Todesursache. [#229]_ Fast
-jeder zweite Todesfall geht auf eine Erkrankung des
-Herz-Kreislauf-Systems zurück. Mit steigendem Lebensalter erhöht sich
-die Wahrscheinlichkeit an einer solchen zu erkranken. Eine wichtige
-Gruppe stellen die erworbenen, durch den Lebensstil bedingten
-Erkrankungen dar. Zu den wesentlichen Risikofaktoren zählen Übergewicht,
+Herz-Kreislauferkrankungen sind die häufigste Todesursache\ [#229]_.
+Fast jeder zweite Todesfall geht auf eine Erkrankung des
+Herz-Kreislauf-Systems zurück.
+Mit steigendem Lebensalter erhöht sich
+die Wahrscheinlichkeit,
+an einer solchen zu erkranken.
+Eine wichtige Gruppe stellen die erworbenen,
+durch den Lebensstil bedingten Erkrankungen dar.
+Zu den wesentlichen Risikofaktoren zählen Übergewicht,
 mangelnde Bewegung, Rauchen, Bluthochdruck, erhöhte Blutfettspiegel und
 ein erhöhter Blutzuckerspiegel.
 

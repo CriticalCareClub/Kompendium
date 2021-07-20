@@ -29,7 +29,7 @@ kontrollierten Weiterleitung des durchmischten Speisebreis.
 Verantwortlich für den Beginn der Verdauung der Nahrung ist der durch
 die Magenschleimhaut gebildete saure, aus **Salzsäure**
 bestehende, *Magensaft*. Die Magenschleimhaut produziert
-ausserdem eine *schützende Schleimschicht*, die die Oberfläche vor der
+außerdem eine *schützende Schleimschicht*, die die Oberfläche vor der
 starken Säure schützt.
 
 Nachdem die Wandmuskulatur den Speisebrei mit dem Magensaft

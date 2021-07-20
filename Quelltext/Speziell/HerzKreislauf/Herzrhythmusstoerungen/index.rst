@@ -82,7 +82,7 @@ Rhythmusstörungen lassen sich nach unterscheidlichen Kriterien einteilen, nach 
 
 Rhythmusstörungen können direkt in der Herzkammer (ventrikulär)
 oder oberhalb der Kammer (supraventrikulär) begründet sein.
-Supraventrikulär wird ausserdem zwischen dem Vorhof (atrial)
+Supraventrikulär wird außerdem zwischen dem Vorhof (atrial)
 und der AV-Überleitung
 (AV-Knoten, nodal; bzw. akzessorische Leitungsbahnen) unterschieden.
 Eine noch feinere Unterscheidung ist möglich.
@@ -170,7 +170,6 @@ Für spezielle Fragestellungen kann eine elektrophysiologische Untersuchung mitt
 
 
 .. _Tafel-HerzrhythmusstoerungenWichtige:
-
 .. _Tafel-Herzrhythmusstoerungen:
 
 .. list-table:: Wichtige Herzrhythmusstörungen
@@ -333,8 +332,8 @@ eventuell auch "salvenartig".
 Je nach Häufigkeit haben Extrasystolen unterschiedliche
 Auswirkungen auf den Kreislauf und können symptom- bzw. bedeutungslos
 sein, oder auch Beschwerden verursachen. Wenn die Extrasystolen die
-normale Herzpumpfunktion massiv stören, können Sie auch lebensbedrohlich
-sein.
+normale Herzpumpfunktion massiv stören,
+können sie auch lebensbedrohlich sein.
 
 
 

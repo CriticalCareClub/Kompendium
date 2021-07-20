@@ -4,7 +4,8 @@
 #######################################################################
 
 
-Ziel der Oxygenierung ist die ausreichende Oxygenierung des Blutes und des Gewebes.
+Ziel der Oxygenierung ist die ausreichende Sauerstoffversorgung
+des Blutes und des Gewebes.
 Klassisch wird dies durch eine ausreichende
 Belüftung (Ventilation) der (unteren) Atemwege versucht zu erreichen (Atemwegsmanagement).
 Dazu muss einerseits der
@@ -22,22 +23,29 @@ und Routine abhängig.
 .. index::
     pair: Reanimation; Beatmung
 
-**********************************************************************************
+************************************************************************
 Beatmung allgemein
-**********************************************************************************
+************************************************************************
 
 Durch die Beatmung erfolgt einerseits eine Oxygenation des Körpers,
-sowie eine Abfuhr von Kohlendioxid.
+sowie eine Abfuhr von Kohlendioxid (*Decarboxylierung*).
 Notfalls kann eine Beatmung mittels Mund-zu-Mund-,
-Mund-zu-Nasen- und Mund-zu-Mund/Nasen-Beatmung durchgeführt werden.
-Im professionellen Setting erfolgt eine Beatmung regelhaft mittels Hilfsmittel wie ein Beatmungsbeutel,
-Sauerstoffreservoir und Sauerstoffzufuhr, eine Übersicht der verschiedenen
+Mund-zu-Nase- und Mund-zu-Mund/Nase-Beatmung durchgeführt werden.
+
+Im professionellen Setting erfolgt eine Beatmung regelhaft mittels Hilfsmitteln
+wie dem Beatmungsbeutel,
+Sauerstoffreservoir und Sauerstoffzufuhr.
+Eine Übersicht der verschiedenen
 Techniken findet sich unter :ref:`Airwaymanagement`.
 Häufig anzutreffen sind:
 
--   Beutel-Masken-Beatmung (:ref:`BeutelMaskenBeatmung`)
--   Beatmung mittels supra-/extraglottischer Atemwegshilfsmittel
--   Beatmung mittels endotrachealer Intubation
+-   :ref:`Beutel-Masken-Beatmung <BeutelMaskenBeatmung>`
+-   Beatmung mittels
+    :ref:`supra-/extraglottischer Atemwegshilfsmittel <SupraglottischerAirwayAllgemein>`
+-   Beatmung mittels
+    :ref:`Endotrachealtubus <EndotrachealeIntubation>`
+
+
 
 .. only:: not nosidebar
 
@@ -49,8 +57,9 @@ Häufig anzutreffen sind:
         -   Erfolglose Beatmungsversuche nicht wiederholen
         -   Guedel-Tubus
 
-Ein normales  *Atemzugsvolumen* beträgt ca. **6—8 ml / kg
-Soll-Körpergewicht** (Richtwert: **400—500 mL**).
+Das normale  *Atemzugsvolumen* beträgt ca. **6—8 ml / kg
+Soll-Körpergewicht**
+(Richtwert: **400—500 mL** beim Erwachsenen).
 Dieser Wert soll auch bei der Beatmung
 angestrebt werden.
 Dazu wird der Beatmungsbeutel gleichmäßig zusammen
@@ -58,9 +67,10 @@ gedrückt bis eine sichtbare Atembewegung vorhanden ist. Der
 *Beatmungsvorgang* soll in etwa *1 s* dauern.
 Die Frequenz gibt der Reanimationsalgorithmus vor.
 
-Durch Verwendung eines Sauerstoffreservoirs und und einer
-ausreichenden Sauerstoffzufuhr (Richtwert: 10—15 L / min, oder
-Verwendung eines Demand-Ventils)
+Durch Verwendung eines Sauerstoffreservoirs und einer
+ausreichenden Sauerstoffzufuhr
+(Richtwert: 10—15 L / min,
+oder Verwendung eines Demand-Ventils)
 kann die inspiratorische Sauerstoffkonzentration (FiO₂) auf fast 100% erhöht
 werden.
 Dies ist im Rahmen der Reanimation, sofern technisch möglich, obligat!
@@ -71,19 +81,18 @@ Dies ist im Rahmen der Reanimation, sofern technisch möglich, obligat!
 
 
 
-**********************************************************************************
+************************************************************************
 Beutel-Masken-Beatmung (Reanimation)
-**********************************************************************************
+************************************************************************
 
 Die Beutel-Masken-Beatmung ist eine an sich schon anspruchsvolle Technik,
 welche viel Übung und Routine voraussetzt.
-Im Rahmen der Renaimation sind die BEdingungen durch die Herzdruckmassage
+Im Rahmen der Reanimation sind die Bedingungen durch die Herzdruckmassage
 zusätzlich erschwert.
 
-Zum Freihalten der Atemwege ist zusätzlich zum Überstrecken des Kopfes
-ein **Guedel-Tubus** :index:`\ <Guedel-Tubus>`
-(:ref:`Guedeltubus`) empfehlenswert.
-
+Zum Freihalten der Atemwege ist zusätzlich zum Überstrecken des Kopfes ein
+:index:`\ <Guedel-Tubus>`
+:ref:`Guedel-Tubus <Guedeltubus>` empfehlenswert.
 Erfolglose Beatmungsversuche sollen nicht wiederholt werden.
 
 Gefahren
@@ -245,15 +254,18 @@ Supraglottische Atemwegshilfsmittel (Reanimation)
     Ein Larynxtubus
     [Bild: Christoph Pallinger, MfG]
 
-In den letzten Jahren gewinnen die supraglottischen\ [#325]_ Hilfsmittel
-aufgrund ihrer verhältnismäßig einfachen Anwendbarkeit immer mehr an
-Bedeutung. Schon die ERC-Leitlinien 2010 sahen die supraglottischen
+In den letzten Jahren gewinnen die
+:ref:`supraglottischen Atemwegshilfen <SupraglottischerAirwayAllgemein>`\ [#325]_
+aufgrund ihrer verhältnismäßig einfachen Anwendung
+immer mehr an Bedeutung.
+Schon die ERC-Leitlinien 2010 sahen die supraglottischen
 Atemwegshilfen bei der Reanimation als weitgehend gleichwertig zur
 klassischen endotrachealen Intubation an.\ [#326]_
 
-Bei den supraglottischen Atemwegshilfen endet allgmein der
-Beatmungsschenkel im Rachen beziehungsweise oberhalb des Kehldeckels
-(supraglottisch).
+Bei den supraglottischen Atemwegshilfen
+endet der Beatmungsschenkel
+im Rachen beziehungsweise oberhalb des Kehldeckels
+("supraglottisch").
 Es gibt verschiedene Produkte, welche
 dieses Ziel auf unterschiedliche Weise erreichen.
 Dazu gehören der Larynxtubus und die Larynxmaske.
@@ -336,37 +348,37 @@ Begleiterkrankungen, …) deutlich [Timmermann:2006]_ [Thierbach:2004]_\ .
 In diversen Studien wurden die Erfolgs- und Komplikationsraten der ETI
 untersucht, dabei zeigen sich wenig zufriedenstellende bis alarmierende
 Ergebnisse
-[Nolan:2001]_ [Wang:2011]_ [Cobas:2009]_ [Jones:2004]_ [Wang:2006]_ [Wang-2006a]_ [Wang:2008]_ [Stiell:2004]_ [Stiell:2008]_ \ .
+[Nolan:2001]_ [Wang:2011]_ [Cobas:2009]_ [Jones:2004]_ [Wang:2006]_ [Wang-2006a]_ [Wang:2008]_ [Stiell:2004]_ [Stiell:2008]_\ .
 
 Die wichtigsten Ergebnisse dieser Studien sind:
 
--  Die Gefahr von Fehlintubationen, insbesonders von ösophagealen
-   Fehllagen, ist hoch. Diese werden oft spät oder gar nicht erkannt
-   (Risiko der unerkannten Tubusfehllage bei Patienten mit
-   außerklinischem Kreislaufstillstand: 0,5—17%
-   [Grmec:2002]_ [Lyon:2010]_ [Jones:2004]_ [Pelucio:1997]_ [Jemmett:2003]_ [Katz:2001]_
+-   Die Gefahr von Fehlintubationen, insbesonders von ösophagealen
+    Fehllagen, ist hoch. Diese werden oft spät oder gar nicht erkannt
+    (Risiko der unerkannten Tubusfehllage bei Patienten mit
+    außerklinischem Kreislaufstillstand: 0,5—17%
+    [Grmec:2002]_ [Lyon:2010]_ [Jones:2004]_ [Pelucio:1997]_ [Jemmett:2003]_ [Katz:2001]_
 
--  Die Erfolgsraten bei wenig routinierten Anwendern sind
-   schlecht\ [#327]_.
--  Die Probleme der ETI betreffen grundsätzlich auch ärztliches
-   Personal\ [#328]_ [Timmermann:2007]_ [Grmec:2002]_\ .
--  Der Schulungsaufwand ist groß: Zum Erlernen der Tätigkeit werden
-   wenigstens 100 ETI gefordert, zur Aufrechterhaltung mindestens 10 ETI
-   pro Jahr [Timmermann:2012]_ . Damit verbunden wäre eine
-   Vollzeit-Trainingsphase von etwa einem halben Jahr
-   [BERN:12]_\ .
+-   Die Erfolgsraten bei wenig routinierten Anwendern sind
+    schlecht\ [#327]_.
+-   Die Probleme der ETI betreffen grundsätzlich auch ärztliches
+    Personal\ [#328]_ [Timmermann:2007]_ [Grmec:2002]_\ .
+-   Der Schulungsaufwand ist groß: Zum Erlernen der Tätigkeit werden
+    wenigstens 100 ETI gefordert, zur Aufrechterhaltung mindestens 10 ETI
+    pro Jahr [Timmermann:2012]_ . Damit verbunden wäre eine
+    Vollzeit-Trainingsphase von etwa einem halben Jahr
+    [BERN:12]_\ .
 
 
 .. [#327]
-   *"Die Misserfolgsraten der Intubation betragen in außerklinischen,
-   wenig ausgelasteten Systemen mit Anwendern, die selten Intubationen
-   durchführen, bis zu 50%".*
+    *"Die Misserfolgsraten der Intubation betragen in außerklinischen,
+    wenig ausgelasteten Systemen mit Anwendern, die selten Intubationen
+    durchführen, bis zu 50%".*
 
 .. [#328]
-   [Timmermann:2007]_ \ : In dieser in
-   Deutschland durchgeführten Studie wurde eine hohe Rate an
-   Fehlintubationen (ösophageal, bronchial) durch Notärzte
-   festgestellt.
+    [Timmermann:2007]_\ : In dieser in
+    Deutschland durchgeführten Studie wurde eine hohe Rate an
+    Fehlintubationen (ösophageal, bronchial) durch Notärzte
+    festgestellt.
 
 
 
@@ -376,7 +388,8 @@ zusammen, dass der Nutzen der ETI bei der präklinischen Reanimation
 nicht durch Studien gezeigt werden konnte, und dass einige sogar das
 Gegenteil erkennen ließen (*"Prehospital studies fail to show any
 benefit from tracheal intubation during cardiopulmonary resuscitation
-and many show harm."* [Nolan:2008]_ ). Dies deckt sich auch mit
+and many show harm."* [Nolan:2008]_\ ).
+Dies deckt sich auch mit
 Beobachtungen aus anderen Studien
 [Stiell:2004]_ [Cobas:2009]_\ .
 Ein 2008 veröffentlichtes Cochrane-Review kam zu der gleichen
@@ -394,7 +407,7 @@ Ohne ausreichendes Training und Erfahrung wird die
 Komplikationsrate als unakzeptabel hoch angesehen. Das Aufschieben der
 endotrachealen Intubation bis zur Wiederkehr des spontanen Kreislaufs,
 wird bereits in den ERC 2010-Leitlinien als Alternative ausdrücklich
-genannt.\ [Nolan:2001]_ [Nolan:2008]_ [Lecky:2008]_
+genannt [Nolan:2001]_ [Nolan:2008]_ [Lecky:2008]_.
 Vor diesem Hintergrund bleibt festzuhalten,
 dass eine unterlassene Intubation nicht
 — wie oft behauptet —

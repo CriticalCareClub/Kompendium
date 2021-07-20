@@ -13,10 +13,11 @@
 
 Die Gabe von Medikamenten ist eine Routinemaßnahme während der
 Reanimation. Typischerweise erfolgt die Medikamentengabe über eine
-periphere Venenverweilkanüle (Venflon, Braunüle). Sinvoller weise wird
-standardmäßig auch eine Infusion mit kristalloider Infusionslösung
-(Kochsalz-, Ringerlösung, Ringerlaktat) angeschlossen, um eine schnelle
-Spülung zu ermöglichen.
+periphere Venenverweilkanüle (Venflon, Braunüle).
+Sinvollerweise wird standardmäßig auch eine Infusion mit kristalloider Infusionslösung
+(Kochsalz-, Ringerlösung, Ringerlaktat, Elo-Mel isoton™)
+angeschlossen,
+um eine schnelle Spülung zu ermöglichen.
 
 Sollte die rasche Anlage einer solchen nicht gelingen, kann als
 Alternative ein intraossärer Zugang mittels spezieller Hilfsmittel

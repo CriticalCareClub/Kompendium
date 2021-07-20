@@ -28,6 +28,7 @@ ein blutiger Insult sein.
 
 
 .. _Bauchaortenaneurysma:
+.. _Aortenaneurysma:
 
 ***************
 Aortenaneurysma
@@ -80,7 +81,7 @@ ABCDE
     .. sidebar:: ABCDE
 
         ②
-            Evtl.  **Schockzeichen**, Schohnhaltung
+            Evtl.  **Schockzeichen**, Schonhaltung
 
         ④
              **Brust-, Bauch- oder Rückenschmerzen**; evtl.
@@ -89,7 +90,7 @@ ABCDE
         Ⓒ
             Kreislaufstabil, evtl.  **Schockzeichen**
 
-        ``E``
+        Ⓔ
              **Harte Bauchdecke** bei Blutung in Bauch
 
 ②
@@ -112,7 +113,7 @@ ABCDE
     (hypovolämischer Schock). Herzfrequenz und Blutdruck können
     entsprechend eines Schockgeschehens verändert sein.
 
-``E``
+Ⓔ
     Bei einer Blutung in den Bauchraum kann es zu einer Verhärtung der
     Bauchdecke kommen (**Akutes Abdomen**).
     Selten kann eine deutliche pulsierende

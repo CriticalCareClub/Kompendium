@@ -143,7 +143,7 @@ SAMPLER
     einer Schwangerschaft
     oder von Erkrankungen, z. B. Tumorerkankungen, kann das
     Gerinnungsystem gestört sein, wodurch es zu Thrombosen kommen kann.
-    Ausserdem können Erkrankungen des Gerinnungssystems (**P**)
+    Außerdem können Erkrankungen des Gerinnungssystems (**P**)
     erhebliche Risikofaktoren darstellen.
 
 

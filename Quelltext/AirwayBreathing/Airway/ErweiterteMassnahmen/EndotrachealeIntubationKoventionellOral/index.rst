@@ -57,7 +57,7 @@ Material
         das Licht wird über eine Fiberoptik in den Spatel geleitet.
         Daher muss darauf geachtet werden, dass die Spatel mit dem Griff
         zusammenpassen!
-        Bei Kaltlichtsystemen gibt es ausserdem unterschiedliche
+        Bei Kaltlichtsystemen gibt es außerdem unterschiedliche
         Steckverbindungen!
 
         .. figure:: /Bilder/PallingerChristoph-Ccc/Testlunge_32902-AASS-0112mm.*
@@ -318,7 +318,7 @@ Narkoseeinleitung
 
 
 
-    Intubation
+Intubation
 ----------------
 
 1.  Anweisung *"Beginn Intubation"*

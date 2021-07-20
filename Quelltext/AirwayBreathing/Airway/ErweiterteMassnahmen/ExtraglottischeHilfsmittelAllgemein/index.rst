@@ -1,4 +1,6 @@
 
+.. _SupraglottischerAirwayAllgemein:
+
 ########################################################################
 Extra-/Supraglottische Atemwegshilfsmittel — Allgemeines
 ########################################################################

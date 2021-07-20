@@ -7,12 +7,12 @@ Algorithmen Herz-Lungen-Wiederbelebung
 
     .. sidebar:: Einleitung
 
-        -  ERC-Leitlinien
-        -  verschiedene Formen:
+        -   ERC-Leitlinien
+        -   verschiedene Formen:
 
-            -  Basic Life Support (BLS)
-            -  Advanced Life Support (ALS)
-            -  Pediatric Life Support (PLS)
+            -   Basic Life Support (BLS)
+            -   Advanced Life Support (ALS)
+            -   Pediatric Life Support (PLS)
 
 
 
@@ -79,7 +79,7 @@ vor:
     Idealerweise delegiert man diese Aufgabe an einen zusätzlichen Helfer
     um das weitere Vorgehen nicht zu verzögern.
 
-#.  ``A`` **Kopf überstrecken**:
+#.  Ⓐ **Kopf überstrecken**:
     Um die Atemwege zu öffnen und frei zu halten
     wird der Kopf überstreckt.
 
@@ -132,7 +132,8 @@ vor:
     Beatmungshilfen einsatzbereit gemacht.
 
 #.  **Analyse**:
-    Sobald der Defibrillator einsatzbereit ist wird die erste Rhythmusanalyse durchgeführt.
+    Sobald der Defibrillator einsatzbereit ist,
+    wird die erste Rhythmusanalyse durchgeführt.
 
 #.  Liegt ein **nicht-schockbarer Rhythmus** vor,
     so ist die HDM unverzüglich

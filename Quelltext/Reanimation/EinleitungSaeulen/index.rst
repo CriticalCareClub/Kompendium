@@ -29,7 +29,7 @@ und die Notwendigen Abweichungen werden basierend darauf
 in eigenen Kapiteln behandelt.
 
 
-.. _Erc:
+.. _Erc-Reanimation:
 
 .. index::
     single: ERC

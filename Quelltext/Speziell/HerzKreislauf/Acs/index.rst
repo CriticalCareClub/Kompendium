@@ -5,7 +5,7 @@
 .. _akutes-koronarsyndrom:
 .. _AnginaPectoris:
 .. _Herzinfarkt:
-.. _Mci:
+.. _Mci-Acs:
 .. _Stemi:
 
 ###################################

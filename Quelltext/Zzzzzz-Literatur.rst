@@ -9,7 +9,6 @@ Literaturverzeichnis
     Not referenced:
 
     UltimateHitchhikersGuide96hitchhikersguide
-    AntonovskySalutogenese
     ArgelanderErstinterview:8
     AumuellerAnatomie:2
     BattegayHandwPsych:2
@@ -18,7 +17,6 @@ Literaturverzeichnis
     BenninghoffAnatomie17Bd1
     BergnerBurnOutAerzten:9
     BatesUntersuchung:1
-    youtube:VaginalChildbirth
     Bischofberger:2007
     FamPropPku:2014
     FamPropPku:2011
@@ -28,10 +26,6 @@ Literaturverzeichnis
     BmgEbolaFalldefinition:20141028
     BmgEbolaFactsheet:20141103
     BMG-92250_0080-II_A_2010_2010-12-15
-    AsboeLehrmeinungRd2011-06
-    AsboeLehrmeinungRd2011-07
-    AsboeLehrmeinungRd2011-10
-    AsboeLehrmeinungRd2011-20
     Burisch:1994
     Burisch:2006
     JNC7Report
@@ -41,10 +35,6 @@ Literaturverzeichnis
     DahmerAnamneseBefund:10
     DavisonKlinPsy:1988
     ICD10-De-2011
-    Harrisons18DeKap244
-    Harrisons18DeKap243
-    Harrisons18DeKap246
-    Harrisons18DeKap245
     EKG-Knacker2
     FrielingLehrbArbeitspsy:2
     SiewertChirurgie8-06-Gefaesschirurgie
@@ -79,8 +69,6 @@ Literaturverzeichnis
     HeroldInnereMedizin:2012
     RD-200811Hoffmann
     HolaubekASB16h
-    www:Erc
-    www:ResuscitationJournal
     MenschKoerperKrankheit:6
     ASBOeRundschreiben-2010Nr11
     Igv:2010
@@ -123,14 +111,9 @@ Literaturverzeichnis
     MuellerKnie:1
     PHTLS:6
     NagelePalliativ:1
-    Cicero911CommissionReport
     NetterPaediatrie:1
     ChecklisteAnamUnt:1
     Niaura:2002
-    Erc-2005DeSec1
-    Erc-2005DeSec4
-    Erc-2005Sec4
-    Erc-2005Sec1
     OenormS2104-2005
     Peiris:2009
     PetersenVordereKreuzband:1
@@ -170,9 +153,6 @@ Literaturverzeichnis
     H1N1InvTeam2009
     WaldeyerAnatomie:17
     youtube:Herzinfarkt2
-    BrockhausDrei2Bd2
-    BrockhausDrei1Bd2
-    BrockhausDrei3Bd2
     EcgEmergencyDec:2
     WHOISH:2003
     Wiedenmann:1
@@ -586,23 +566,24 @@ Literaturverzeichnis
     Seite „Beanspruchung (Begriffsklärung)“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 16. Juli 2013, 11:32 UTC. URL: https://de.wikipedia.org/w/index.php?title=Beanspruchung_(Begriffskl%C3%A4rung)&oldid=120596188 (Abgerufen: 11. Juli 2021, 10:54 UTC)
 
 
+..
+    .. [ERC:2015:01]
+        Monsieurs, Koenraad G., Jerry P. Nolan, Leo L. Bossaert, Robert Greif,
+        Ian K. Maconochie, Nikolaos I. Nikolaou, Gavin D. Perkins, et al. 2015.
+        **European Resuscitation Council Guidelines for Resuscitation 2015:
+        Section 1. Executive Summary.**
+        *Resuscitation* 95 (October). Imperial
+        College Healthcare NHS Trust, London, UK.: 1–80.
+        doi:\ `10.1016/j.resuscitation.2015.07.038 <https://doi.org/10.1016/j.resuscitation.2015.07.038>`__.
 
-.. [ERC:2015:01]
-	Monsieurs, Koenraad G., Jerry P. Nolan, Leo L. Bossaert, Robert Greif,
-	Ian K. Maconochie, Nikolaos I. Nikolaou, Gavin D. Perkins, et al. 2015.
-	**European Resuscitation Council Guidelines for Resuscitation 2015:
-	Section 1. Executive Summary.**
-	*Resuscitation* 95 (October). Imperial
-	College Healthcare NHS Trust, London, UK.: 1–80.
-	doi:\ `10.1016/j.resuscitation.2015.07.038 <https://doi.org/10.1016/j.resuscitation.2015.07.038>`__.
-
-.. [ERC:2015:01:De]
-	Monsieurs, K.G., J.P. Nolan, L.L. Bossaert, R. Greif, I.K. Maconochie,
-	N.I. Nikolaou, G.D. Perkins, et al. 2015.
-	**Kurzdarstellung.**
-	*Notfall +
-	Rettungsmedizin* 18 (8). Springer Berlin Heidelberg: 655–747.
-	doi:\ `10.1007/s10049-015-0097-6 <https://doi.org/10.1007/s10049-015-0097-6>`__.
+..
+    .. [ERC:2015:01:De]
+        Monsieurs, K.G., J.P. Nolan, L.L. Bossaert, R. Greif, I.K. Maconochie,
+        N.I. Nikolaou, G.D. Perkins, et al. 2015.
+        **Kurzdarstellung.**
+        *Notfall +
+        Rettungsmedizin* 18 (8). Springer Berlin Heidelberg: 655–747.
+        doi:\ `10.1007/s10049-015-0097-6 <https://doi.org/10.1007/s10049-015-0097-6>`__.
 
 .. [ERC:2015:02]
 	Perkins, Gavin D., Anthony J. Handley, Rudolph W. Koster, Maaret
@@ -617,16 +598,16 @@ Literaturverzeichnis
 	doi:\ `10.1016/j.resuscitation.2015.07.015 <https://doi.org/10.1016/j.resuscitation.2015.07.015>`__.
 
 
-
-.. [ERC:2015:02:De]
-	Perkins, G.D., A.J. Handley, R.W. Koster, M. Castrén, M.A. Smyth, T.
-	Olasveengen, K.G. Monsieurs, et al. 2015a.
-	**Basismaßnahmen Zur
-	Wiederbelebung Erwachsener Und Verwendung Automatisierter Externer
-	Defibrillatoren.**
-	*Notfall + Rettungsmedizin* 18 (8). Springer Berlin
-	Heidelberg: 748–69.
-	doi:\ `10.1007/s10049-015-0081-1 <https://doi.org/10.1007/s10049-015-0081-1>`__.
+..
+    .. [ERC:2015:02:De]
+        Perkins, G.D., A.J. Handley, R.W. Koster, M. Castrén, M.A. Smyth, T.
+        Olasveengen, K.G. Monsieurs, et al. 2015a.
+        **Basismaßnahmen Zur
+        Wiederbelebung Erwachsener Und Verwendung Automatisierter Externer
+        Defibrillatoren.**
+        *Notfall + Rettungsmedizin* 18 (8). Springer Berlin
+        Heidelberg: 748–69.
+        doi:\ `10.1007/s10049-015-0081-1 <https://doi.org/10.1007/s10049-015-0081-1>`__.
 
 
 
@@ -640,14 +621,15 @@ Literaturverzeichnis
 	Department, Konstantopouleio General Hospital, Athens, Greece.: 100–147.
 	doi:\ `10.1016/j.resuscitation.2015.07.016 <https://doi.org/10.1016/j.resuscitation.2015.07.016>`__.
 
-.. [ERC:2015:03:De]
-	Soar, J., J.P. Nolan, B.W. Böttiger, G.D. Perkins, C. Lott, P. Carli, T.
-	Pellis, et al. 2015a.
-	**Erweiterte Reanimationsmaßnahmen Für Erwachsene
-	(„Adult Advanced Life Support").**
-	*Notfall + Rettungsmedizin* 18 (8).
-	Springer Berlin Heidelberg: 770–832.
-	doi:\ `10.1007/s10049-015-0085-x <https://doi.org/10.1007/s10049-015-0085-x>`__.
+..
+    .. [ERC:2015:03:De]
+        Soar, J., J.P. Nolan, B.W. Böttiger, G.D. Perkins, C. Lott, P. Carli, T.
+        Pellis, et al. 2015a.
+        **Erweiterte Reanimationsmaßnahmen Für Erwachsene
+        („Adult Advanced Life Support").**
+        *Notfall + Rettungsmedizin* 18 (8).
+        Springer Berlin Heidelberg: 770–832.
+        doi:\ `10.1007/s10049-015-0085-x <https://doi.org/10.1007/s10049-015-0085-x>`__.
 
 .. [ERC:2015:04]
 
@@ -661,15 +643,16 @@ Literaturverzeichnis
 	University Hospital of Cologne, Cologne, Germany.: 148–201.
 	doi:\ `10.1016/j.resuscitation.2015.07.017 <https://doi.org/10.1016/j.resuscitation.2015.07.017>`__.
 
-.. [ERC:2015:04:De]
-	Truhlář, A., C.D. Deakin, J. Soar, G.E.A. Khalifa, A. Alfonzo, J.J.L.M.
-	Bierens, G. Brattebø, et al.:
-	**Kreislaufstillstand in Besonderen
-	Situationen**
-	*Notfall + Rettungsmedizin*
-	2015:18(8). Springer Berlin
-	Heidelberg: 833–903.
-	doi:\ `10.1007/s10049-015-0096-7 <https://doi.org/10.1007/s10049-015-0096-7>`__.
+..
+    .. [ERC:2015:04:De]
+        Truhlář, A., C.D. Deakin, J. Soar, G.E.A. Khalifa, A. Alfonzo, J.J.L.M.
+        Bierens, G. Brattebø, et al.:
+        **Kreislaufstillstand in Besonderen
+        Situationen**
+        *Notfall + Rettungsmedizin*
+        2015:18(8). Springer Berlin
+        Heidelberg: 833–903.
+        doi:\ `10.1007/s10049-015-0096-7 <https://doi.org/10.1007/s10049-015-0096-7>`__.
 
 .. [ERC:2015:05]
 	Nolan, Jerry P., Jasmeet Soar, Alain Cariou, Tobias Cronberg, Véronique
@@ -705,113 +688,124 @@ Literaturverzeichnis
 	Hospital, Bath, UK; University of Bristol, UK.: 223–48.
 	doi:\ `10.1016/j.resuscitation.2015.07.028 <https://doi.org/10.1016/j.resuscitation.2015.07.028>`__.
 
-.. [ERC:2015:06:De]
-	Maconochie, I.K., R. Bingham, C. Eich, J. López-Herce, A.
-	Rodríguez-Núñez, T. Rajka, P. Van de Voorde, D.A. Zideman und D.
-	Biarent. 2015a.
-	**Lebensrettende Maßnahmen Bei Kindern („Paediatric Life
-	Support").**
-	*Notfall + Rettungsmedizin* 18 (8). Springer Berlin
-	Heidelberg: 932–63.
-	doi:\ `10.1007/s10049-015-0095-8 <https://doi.org/10.1007/s10049-015-0095-8>`__.
+..
+    .. [ERC:2015:06:De]
+        Maconochie, I.K., R. Bingham, C. Eich, J. López-Herce, A.
+        Rodríguez-Núñez, T. Rajka, P. Van de Voorde, D.A. Zideman und D.
+        Biarent. 2015a.
+        **Lebensrettende Maßnahmen Bei Kindern („Paediatric Life
+        Support").**
+        *Notfall + Rettungsmedizin* 18 (8). Springer Berlin
+        Heidelberg: 932–63.
+        doi:\ `10.1007/s10049-015-0095-8 <https://doi.org/10.1007/s10049-015-0095-8>`__.
 
-.. [ERC:2015:07]
-	Wyllie, Jonathan, Jos Bruinenberg, Charles Christoph Roehr, Mario
-	Rüdiger, Daniele Trevisanuto and Berndt Urlesberger. 2015b.
-	**European
-	Resuscitation Council Guidelines for Resuscitation 2015: Section 7.
-	Resuscitation and Support of Transition of Babies at Birth.**
-	*Resuscitation* 95 (October). Division of Neonatology, Medical
-	University Graz, Graz, Austria.: 249–63.
-	doi:\ `10.1016/j.resuscitation.2015.07.029 <https://doi.org/10.1016/j.resuscitation.2015.07.029>`__.
+..
+    .. [ERC:2015:07]
+        Wyllie, Jonathan, Jos Bruinenberg, Charles Christoph Roehr, Mario
+        Rüdiger, Daniele Trevisanuto and Berndt Urlesberger. 2015b.
+        **European
+        Resuscitation Council Guidelines for Resuscitation 2015: Section 7.
+        Resuscitation and Support of Transition of Babies at Birth.**
+        *Resuscitation* 95 (October). Division of Neonatology, Medical
+        University Graz, Graz, Austria.: 249–63.
+        doi:\ `10.1016/j.resuscitation.2015.07.029 <https://doi.org/10.1016/j.resuscitation.2015.07.029>`__.
 
-.. [ERC:2015:07:De]
-	Wyllie, J., J. Bruinenberg, C.C. Roehr, M. Rüdiger, D. Trevisanuto, and
-	B. Urlesberger. 2015a.
-	**Die Versorgung Und Reanimation Des
-	Neugeborenen.**
-	*Notfall + Rettungsmedizin* 18 (8). Springer Berlin
-	Heidelberg: 964–83.
-	doi:\ `10.1007/s10049-015-0090-0 <https://doi.org/10.1007/s10049-015-0090-0>`__.
+..
+    .. [ERC:2015:07:De]
+        Wyllie, J., J. Bruinenberg, C.C. Roehr, M. Rüdiger, D. Trevisanuto, and
+        B. Urlesberger. 2015a.
+        **Die Versorgung Und Reanimation Des
+        Neugeborenen.**
+        *Notfall + Rettungsmedizin* 18 (8). Springer Berlin
+        Heidelberg: 964–83.
+        doi:\ `10.1007/s10049-015-0090-0 <https://doi.org/10.1007/s10049-015-0090-0>`__.
 
-.. [ERC:2015:08]
-	Nikolaou, Nikolaos I., Hans-Richard Arntz, Abdelouahab Bellou, Farzin
-	Beygui, Leo L. Bossaert, Alain Cariou and Initial management of acute
-	coronary syndromes section Collaborator. 2015b.
-	**European Resuscitation
-	Council Guidelines for Resuscitation 2015 Section 8. Initial Management
-	of Acute Coronary Syndromes.**
-	*Resuscitation* 95 (October). Department
-	of Cardiology, Hôpital Européen Georges Pompidou, Paris, France.:
-	264–77.
-	doi:\ `10.1016/j.resuscitation.2015.07.030 <https://doi.org/10.1016/j.resuscitation.2015.07.030>`__.
+..
+    .. [ERC:2015:08]
+        Nikolaou, Nikolaos I., Hans-Richard Arntz, Abdelouahab Bellou, Farzin
+        Beygui, Leo L. Bossaert, Alain Cariou and Initial management of acute
+        coronary syndromes section Collaborator. 2015b.
+        **European Resuscitation
+        Council Guidelines for Resuscitation 2015 Section 8. Initial Management
+        of Acute Coronary Syndromes.**
+        *Resuscitation* 95 (October). Department
+        of Cardiology, Hôpital Européen Georges Pompidou, Paris, France.:
+        264–77.
+        doi:\ `10.1016/j.resuscitation.2015.07.030 <https://doi.org/10.1016/j.resuscitation.2015.07.030>`__.
 
-.. [ERC:2015:08:De]
-	Nikolaou, N.I., H.R. Arntz, A. Bellou, F. Beygui, L.L. Bossaert und A. Cariou. 2015a.
-	**Das Initiale Management Des Akuten Koronarsyndroms.**
-	*Notfall + Rettungsmedizin* 18 (8). Springer Berlin Heidelberg:
-	984–1002.
-	doi:\ `10.1007/s10049-015-0084-y <https://doi.org/10.1007/s10049-015-0084-y>`__.
+..
+    .. [ERC:2015:08:De]
+        Nikolaou, N.I., H.R. Arntz, A. Bellou, F. Beygui, L.L. Bossaert und A. Cariou. 2015a.
+        **Das Initiale Management Des Akuten Koronarsyndroms.**
+        *Notfall + Rettungsmedizin* 18 (8). Springer Berlin Heidelberg:
+        984–1002.
+        doi:\ `10.1007/s10049-015-0084-y <https://doi.org/10.1007/s10049-015-0084-y>`__.
 
-.. [ERC:2015:09]
-	Zideman, David A., Emmy D J. De Buck, Eunice M. Singletary, Pascal
-	Cassan, Athanasios F. Chalkias, Thomas R. Evans, Christina M. Hafner, et
-	al. 2015b.
-	**European Resuscitation Council Guidelines for Resuscitation
-	2015 Section 9. First Aid.**
-	*Resuscitation* 95 (October). Belgian Red
-	Cross-Flanders, Mechelen, Belgium; Department of Public Health; Primary
-	Care, Faculty of Medicine, Catholic University of Leuven, Leuven,
-	Belgium; Faculty of Medicine, University of Ghent, Ghent, Belgium.:
-	278–87.
-	doi:\ `10.1016/j.resuscitation.2015.07.031 <https://doi.org/10.1016/j.resuscitation.2015.07.031>`__.
+..
+    .. [ERC:2015:09]
+        Zideman, David A., Emmy D J. De Buck, Eunice M. Singletary, Pascal
+        Cassan, Athanasios F. Chalkias, Thomas R. Evans, Christina M. Hafner, et
+        al. 2015b.
+        **European Resuscitation Council Guidelines for Resuscitation
+        2015 Section 9. First Aid.**
+        *Resuscitation* 95 (October). Belgian Red
+        Cross-Flanders, Mechelen, Belgium; Department of Public Health; Primary
+        Care, Faculty of Medicine, Catholic University of Leuven, Leuven,
+        Belgium; Faculty of Medicine, University of Ghent, Ghent, Belgium.:
+        278–87.
+        doi:\ `10.1016/j.resuscitation.2015.07.031 <https://doi.org/10.1016/j.resuscitation.2015.07.031>`__.
 
-.. [ERC:2015:09:De]
-	Zideman, D.A., E.D.J. De Buck, E.M. Singletary, P. Cassan, A.F.
-	Chalkias, T.R. Evans, C.M. Hafner, et al. 2015a.
-	**Erste Hilfe.**
-	*Notfall
-	+ Rettungsmedizin* 18 (8). Springer Berlin Heidelberg: 1003–15.
-	doi:\ `10.1007/s10049-015-0093-x <https://doi.org/10.1007/s10049-015-0093-x>`__.
+..
+    .. [ERC:2015:09:De]
+        Zideman, D.A., E.D.J. De Buck, E.M. Singletary, P. Cassan, A.F.
+        Chalkias, T.R. Evans, C.M. Hafner, et al. 2015a.
+        **Erste Hilfe.**
+        *Notfall
+        + Rettungsmedizin* 18 (8). Springer Berlin Heidelberg: 1003–15.
+        doi:\ `10.1007/s10049-015-0093-x <https://doi.org/10.1007/s10049-015-0093-x>`__.
 
-.. [ERC:2015:10]
-	Greif, Robert, Andrew S. Lockey, Patricia Conaghan, Anne Lippert, Wiebe
-	De Vries, Koenraad G. Monsieurs, Education, implementation of
-	resuscitation section Collaborators and Collaborators. 2015b.
-	**European
-	Resuscitation Council Guidelines for Resuscitation 2015: Section 10.
-	Education and Implementation of Resuscitation.**
-	*Resuscitation* 95
-	(October). Imperial College Healthcare NHS Trust, London, UK.: 288–301.
-	doi:\ `10.1016/j.resuscitation.2015.07.032 <https://doi.org/10.1016/j.resuscitation.2015.07.032>`__.
+..
+    .. [ERC:2015:10]
+        Greif, Robert, Andrew S. Lockey, Patricia Conaghan, Anne Lippert, Wiebe
+        De Vries, Koenraad G. Monsieurs, Education, implementation of
+        resuscitation section Collaborators and Collaborators. 2015b.
+        **European
+        Resuscitation Council Guidelines for Resuscitation 2015: Section 10.
+        Education and Implementation of Resuscitation.**
+        *Resuscitation* 95
+        (October). Imperial College Healthcare NHS Trust, London, UK.: 288–301.
+        doi:\ `10.1016/j.resuscitation.2015.07.032 <https://doi.org/10.1016/j.resuscitation.2015.07.032>`__.
 
-.. [ERC:2015:10:De]
-	Greif, R., A.S. Lockey, P. Conaghan, A. Lippert, W. De Vries und K.G.
-	Monsieurs. 2015a.
-	**Ausbildung Und Implementierung Der Reanimation.**
-	*Notfall + Rettungsmedizin* 18 (8). Springer Berlin Heidelberg: 1016–34.
-	doi:\ `10.1007/s10049-015-0092-y <https://doi.org/10.1007/s10049-015-0092-y>`__.
+..
+    .. [ERC:2015:10:De]
+        Greif, R., A.S. Lockey, P. Conaghan, A. Lippert, W. De Vries und K.G.
+        Monsieurs. 2015a.
+        **Ausbildung Und Implementierung Der Reanimation.**
+        *Notfall + Rettungsmedizin* 18 (8). Springer Berlin Heidelberg: 1016–34.
+        doi:\ `10.1007/s10049-015-0092-y <https://doi.org/10.1007/s10049-015-0092-y>`__.
 
-.. [ERC:2015:11]
-	Bossaert, Leo L., Gavin D. Perkins, Helen Askitopoulou, Violetta I.
-	Raffay, Robert Greif, Kirstie L. Haywood, Spyros D. Mentzelopoulos, et
-	al. 2015b.
-	**European Resuscitation Council Guidelines for Resuscitation
-	2015: Section 11. the Ethics of Resuscitation and End-of-Life
-	Decisions.**
-	*Resuscitation* 95 (October). University of Oslo, Oslo
-	University Hospital Ulleval, Oslo, Norway.: 302–11.
-	doi:\ `10.1016/j.resuscitation.2015.07.033 <https://doi.org/10.1016/j.resuscitation.2015.07.033>`__.
+..
+    .. [ERC:2015:11]
+        Bossaert, Leo L., Gavin D. Perkins, Helen Askitopoulou, Violetta I.
+        Raffay, Robert Greif, Kirstie L. Haywood, Spyros D. Mentzelopoulos, et
+        al. 2015b.
+        **European Resuscitation Council Guidelines for Resuscitation
+        2015: Section 11. the Ethics of Resuscitation and End-of-Life
+        Decisions.**
+        *Resuscitation* 95 (October). University of Oslo, Oslo
+        University Hospital Ulleval, Oslo, Norway.: 302–11.
+        doi:\ `10.1016/j.resuscitation.2015.07.033 <https://doi.org/10.1016/j.resuscitation.2015.07.033>`__.
 
-.. [ERC:2015:11:De]
-    Bossaert, L.L., G.D. Perkins, H. Askitopoulou, V.I. Raffay, R. Greif,
-    K.L. Haywood, S.D. Mentzelopoulos, J.P. Nolan, P. Van de Voorde, and
-    T.T. Xanthos. 2015a.
-    **Ethik Der Reanimation Und Entscheidungen Am
-    Lebensende.**
-    *Notfall + Rettungsmedizin* 18 (8). Springer Berlin
-    Heidelberg: 1035–47.
-    doi:\ `10.1007/s10049-015-0083-z <https://doi.org/10.1007/s10049-015-0083-z>`__.
+..
+    .. [ERC:2015:11:De]
+        Bossaert, L.L., G.D. Perkins, H. Askitopoulou, V.I. Raffay, R. Greif,
+        K.L. Haywood, S.D. Mentzelopoulos, J.P. Nolan, P. Van de Voorde, and
+        T.T. Xanthos. 2015a.
+        **Ethik Der Reanimation Und Entscheidungen Am
+        Lebensende.**
+        *Notfall + Rettungsmedizin* 18 (8). Springer Berlin
+        Heidelberg: 1035–47.
+        doi:\ `10.1007/s10049-015-0083-z <https://doi.org/10.1007/s10049-015-0083-z>`__.
 
 .. [ERC:2021:01]
     Gavin D. Perkins et al.:

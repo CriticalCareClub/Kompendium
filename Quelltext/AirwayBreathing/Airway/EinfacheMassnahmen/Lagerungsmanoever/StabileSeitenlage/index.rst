@@ -4,7 +4,6 @@
    single: Seitenlage, stabile
 
 .. _StabileSeitenlage:
-.. _StabileSeitenlage:
 
 ################################
 Stabile Seitenlage

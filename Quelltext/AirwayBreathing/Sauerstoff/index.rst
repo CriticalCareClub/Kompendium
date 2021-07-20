@@ -2,9 +2,8 @@
 .. _O2:
 .. _Sauerstoff:
 
-########################################################################################################################
-Sauerstoff – O₂ (`#24 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/24>`_)
-########################################################################################################################
+Sauerstoff — O₂ (#24)
+########################################################################
 
 
 .. only:: not nosidebar
@@ -40,7 +39,7 @@ bei medizinischem Sauerstoff ist zusätzlich auch der Flaschenkörper
 weiß,
 d. h. Gasflaschen mit *medizinischem Sauerstoff* sind
 **vollständig weiß**.
-Die verbindliche Kennzeichnung des Gaseinhalts erfolgt auf einem *Gefahrengutaufkleber*.
+Die verbindliche Kennzeichnung des Gasinhalts erfolgt auf einem *Gefahrengutaufkleber*.
 
 Die Druckflaschen haben unterschiedliche *Füllgrößen* (Volumina),
 i. d. R. zwischen 0,5 und 10 L.

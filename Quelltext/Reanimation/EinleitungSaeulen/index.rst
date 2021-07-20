@@ -76,15 +76,14 @@ Journals <https://www.resuscitationjournal.com/>`_
 als auch der `ERC <https://erc.europa.eu/>`_ kostenlos
 heruntergeladen werden.
 Eine deutsche Übersetzung ist auf den Homepages der deutschen und der
-österreichischen Fachgesellschaften verfügbar\ [#319]_
-[ERC:2015:01:De]_ [ERC:2015:02:De]_ [ERC:2015:03:De]_ [ERC:2015:04:De]_ [ERC:2015:05:De]_ [ERC:2015:06:De]_ [ERC:2015:07:De]_ [ERC:2015:08:De]_ [ERC:2015:09:De]_ [ERC:2015:10:De]_ [ERC:2015:11:De]_ .
+österreichischen Fachgesellschaften verfügbar\ [#319]_.
 
 
 .. [#319]
    *GRC*: *German Resuscitation Council*; *ARC*: *Austrian Resuscitation
    Council*
 
-Die ERC-Guidelines sind nach Themen in zwölf Sektionen unterteilt:
+Die ERC-Guidelines sind in zwölf Sektionen unterteilt:
 
 1.  Kurzdarstellung
     [ERC:2021:01]_
@@ -116,11 +115,13 @@ Da alle fünf Jahre eine neue Version der Richtlinien erscheint, kommt es
 gerade in der Übergangszeit regelmäßig zu Verwirrungen, welche
 Versionen oder Varianten in der Praxis angewendet werden sollen.
 
-*Grundsätzlich muss das gesamte Personal einer Organisation *das von der
+Grundsätzlich muss das gesamte Personal einer Organisation *das von der
 eigenen Organisation empfohlene* oder angepasste Schema kompetent im
-Team anwenden können.* Das behandelnde Fachpersonal kann jedoch davon im
+Team anwenden können.
+Das behandelnde Fachpersonal kann jedoch davon im
 Rahmen der *Eigenverantwortung* abweichen, sofern die dazu notwendigen
-Voraussetzungen gegeben sind. Dabei ist ganz besonders zu beachten, dass
+Voraussetzungen gegeben sind.
+Dabei ist ganz besonders zu beachten, dass
 das *gesamte* Team mit der anderen oder neueren Version vertraut und die
 entsprechende Routine besitzen muss. Darüber hinaus müssen auch z. B.
 technische Gegebenheiten bedacht werden (Programmierung der AEDs, etc.).
@@ -135,7 +136,7 @@ reibungslosen Ablaufes das empfohlene Schema zu verwenden.
 
 .. note::
 
-    Die Publikation einer neuen Ausgabe der Guidelines bedeutet nicht, das die bisherigen Methoden unsicher oder ineffektiv sind.
+    Die Publikation einer neuen Ausgabe der Guidelines bedeutet nicht, dass die bisherigen Methoden unsicher oder ineffektiv sind.
 
 
 

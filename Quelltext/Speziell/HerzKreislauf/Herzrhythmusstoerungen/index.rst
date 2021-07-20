@@ -82,7 +82,7 @@ Rhythmusstörungen lassen sich nach unterscheidlichen Kriterien einteilen, nach 
 
 Rhythmusstörungen können direkt in der Herzkammer (ventrikulär)
 oder oberhalb der Kammer (supraventrikulär) begründet sein.
-Supraventrikulär wird ausserdem zwischen dem Vorhof (atrial)
+Supraventrikulär wird außerdem zwischen dem Vorhof (atrial)
 und der AV-Überleitung
 (AV-Knoten, nodal; bzw. akzessorische Leitungsbahnen) unterschieden.
 Eine noch feinere Unterscheidung ist möglich.

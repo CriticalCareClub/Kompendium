@@ -371,7 +371,7 @@ Therapieelektroden
     um den Leitungswiderstand herabzusetzen. Anders als in Filmen
     dargestellt, dürfen die Elektroden der Paddles keinesfalls
     gegeneinander gerieben werden um das Elektrodengel zu verreiben!
-    Ausserdem muss bei Verwendung von Paddles ein *Anpressdruck* von
+    Außerdem muss bei Verwendung von Paddles ein *Anpressdruck* von
     mind. 8 kg angewendet werden.
     Die Verwendung von Hardpaddles führt zu
     **schlechteren Ergebnissen** und soll daher nur wenn nicht anders

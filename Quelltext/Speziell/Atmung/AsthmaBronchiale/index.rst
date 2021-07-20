@@ -143,7 +143,7 @@ ABCDE
 
     Oft ist ein pfeifendes, brummendes oder giemendes Atemgeräusch,
     besonders während der Ausatmung (*Exspiration*, *exspiratorischer
-    Stridor*) wahrnehmbar. Die Exspiration ist ausserdem verlängert.
+    Stridor*) wahrnehmbar. Die Exspiration ist außerdem verlängert.
     Trockener Husten ist häufig.
 
     Im *schweren Anfall* ist oft *kein*, oder nur mehr ein *leises

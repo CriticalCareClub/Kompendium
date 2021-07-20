@@ -380,8 +380,6 @@ Literaturverzeichnis
 [wiki:pseudokrupp]_
 [wiki:zivilschutzsignale:20120810]_
 
-Alpha
-================================================================================
 
 
 .. [AAOS:9]
@@ -454,9 +452,6 @@ Alpha
 	Lehrmeinung. Hollergasse 2-6, A-1150 Wien:
 	Bundesschulung; Arbeiter-Samariter-Bund Österreichs Bundesverband;
 	Rundschreiben, online.
-
-B
-================================================================================
 
 
 
@@ -577,9 +572,6 @@ B
 
 
 
-Charlie
-================================================================================
-
 
 .. [Classen:5]
 
@@ -588,15 +580,10 @@ Charlie
 	5. Auflage, 2004.
 	Urban & Fischer.
 
-Delta
-================================================================================
 
 .. [Def:Beanspruchung]
 
     Seite „Beanspruchung (Begriffsklärung)“. In: Wikipedia, Die freie Enzyklopädie. Bearbeitungsstand: 16. Juli 2013, 11:32 UTC. URL: https://de.wikipedia.org/w/index.php?title=Beanspruchung_(Begriffskl%C3%A4rung)&oldid=120596188 (Abgerufen: 11. Juli 2021, 10:54 UTC)
-
-Echo
-================================================================================
 
 
 
@@ -817,22 +804,14 @@ Echo
 	doi:\ `10.1016/j.resuscitation.2015.07.033 <https://doi.org/10.1016/j.resuscitation.2015.07.033>`__.
 
 .. [ERC:2015:11:De]
-	Bossaert, L.L., G.D. Perkins, H. Askitopoulou, V.I. Raffay, R. Greif,
-	K.L. Haywood, S.D. Mentzelopoulos, J.P. Nolan, P. Van de Voorde, and
-	T.T. Xanthos. 2015a.
-	**Ethik Der Reanimation Und Entscheidungen Am
-	Lebensende.**
-	*Notfall + Rettungsmedizin* 18 (8). Springer Berlin
-	Heidelberg: 1035–47.
-	doi:\ `10.1007/s10049-015-0083-z <https://doi.org/10.1007/s10049-015-0083-z>`__.
-
-
-.. [Esc-2017-GuidelinesStemi]
-    Ibanez et al.:
-    **2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).**
-    *Eur Heart J.* 2018 Jan 7;39(2):119-177. doi: 10.1093/eurheartj/ehx393.
-
-
+    Bossaert, L.L., G.D. Perkins, H. Askitopoulou, V.I. Raffay, R. Greif,
+    K.L. Haywood, S.D. Mentzelopoulos, J.P. Nolan, P. Van de Voorde, and
+    T.T. Xanthos. 2015a.
+    **Ethik Der Reanimation Und Entscheidungen Am
+    Lebensende.**
+    *Notfall + Rettungsmedizin* 18 (8). Springer Berlin
+    Heidelberg: 1035–47.
+    doi:\ `10.1007/s10049-015-0083-z <https://doi.org/10.1007/s10049-015-0083-z>`__.
 
 .. [ERC:2021:01]
     Gavin D. Perkins et al.:
@@ -906,7 +885,6 @@ Echo
     *Resuscitation* 161:327-387.
     https://doi.org/10.1016/j.resuscitation.2021.02.015
 
-
 .. [ERC:2021:11]
     Robert Greif et al.:
     *European Resuscitation Council Guidelines 2021:*
@@ -921,12 +899,14 @@ Echo
     *Resuscitation* 161:408-432.
     https://doi.org/10.1016/j.resuscitation.2021.02.017
 
+.. [Esc-2017-GuidelinesStemi]
+    Ibanez et al.:
+    **2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).**
+    *Eur Heart J.* 2018 Jan 7;39(2):119-177. doi: 10.1093/eurheartj/ehx393.
 
 
 
 
-F
-================================================================================
 
 .. [Fernandez:2012]
     Ritin Fernandez and Rhonda Griffiths:
@@ -939,11 +919,8 @@ F
     T. Franz and E. Vögelin:
     **Aseptic tissue necrosis and chronic inflammation after irrigation of penetrating hand wounds using octenisept®.**
     J Hand Surg Eur Vol, 37(1):61–64, Jan 2012.
-    http://dx.doi.org/10.1177/1753193411414353.
-    doi:10.1177/1753193411414353.
+    http://dx.doi.org/10.1177/1753193411414353
 
-G
-================================================================================
 
 
 .. [Grmec:2002]
@@ -967,8 +944,6 @@ G
 
 
 
-Hotel
-================================================================================
 
 
 
@@ -1025,8 +1000,6 @@ Hotel
 
 
 
-India
-================================================================================
 
 
 .. [Igv:2010]
@@ -1038,8 +1011,6 @@ India
 
 
 
-Juliett
-================================================================================
 
 
 .. [Jemmett:2003]
@@ -1069,9 +1040,6 @@ Juliett
 
 
 
-
-K
-================================================================================
 
 
 .. [Kaindl:7]
@@ -1188,8 +1156,6 @@ K
     http://www.gutenberg.org/ebooks/39529.
 
 
-L
-================================================================================
 
 .. [Lang:2012]
     Wilfried Lang, Julia Ferrari, Michael Brainin, Franz Fazekas und Johann Willeit:
@@ -1267,8 +1233,6 @@ L
     DOI: 10.1136/emj.2009.076737.
     http://dx.doi.org/10.1136/emj.2009.076737.
 
-M
-================================================================================
 
 
 .. [Mann:2013]
@@ -1293,8 +1257,6 @@ M
 	doi:\ `10.1016/j.resuscitation.2003.10.005 <https://doi.org/10.1016/j.resuscitation.2003.10.005>`__.
 
 
-N
-================================================================================
 
 
 .. [Niaura:2002]
@@ -1302,12 +1264,7 @@ N
 	**Hostility, the Metabolic Syndrome and Incident Coronary Heart Disease.**
 	*Health Psychology* 2002:21(6), 588–93.
 
-O
-================================================================================
-
-
-P
-================================================================================
+=====================================================================
 
 
 .. [Pelucio:1997]
@@ -1336,12 +1293,9 @@ P
 	259. Auflage, 2002.
 	de Gruyter.
 
-Q
-================================================================================
 
 
-R
-================================================================================
+
 
 
 .. [Redelsteiner:1]
@@ -1389,8 +1343,6 @@ R
     Allergo J Int. 2014;23(3):96-112. doi: 10.1007/s40629-014-0009-1.
 
 
-S
-================================================================================
 
 
 .. [Sandroni:2008]
@@ -1440,8 +1392,6 @@ S
 	2. Auflage,  Duale Reihe.
 	Thieme.
 
-T
-================================================================================
 
 
 
@@ -1466,32 +1416,18 @@ T
 	19. Auflage, 2010.
 	rororo.
 
-
-U
-================================================================================
-
-
-V
-================================================================================
+=======================================================================
 
 .. [VBV:2002]
     Verordnung des Bundesministers für Wirtschaft und Arbeit über sicherheitstechnische Bestimmungen für Versandbehälter - Versandbehälterverordnung 2002 (VBV 2002) idF: BGBl. II Nr. 347/2005
 
 
-W
-================================================================================
 
 .. [Winbery:2002]
     Stephen L. and Philip L. Lieberman:
     **Histamine and antihistamines in anaphylaxis.**
     Clin Allergy Immunol. 2002;17:287-317.
 
-X
-================================================================================
-
-
-Y
-================================================================================
 
 
 .. [Yerkes:1908]
@@ -1501,10 +1437,6 @@ Y
 	1908:18, 459–82.
 
 
-
-
-Z
-================================================================================
 
 
 

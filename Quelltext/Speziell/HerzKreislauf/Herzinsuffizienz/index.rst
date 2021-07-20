@@ -256,7 +256,7 @@ Ort Vorrang. Bereits der Transport in das Fahrzeug kann gefährlich sein!
 
         -   Furosemid (Lasix™, Furon™)
 
-    -   Klinisch: Erwäge Kalziumsensitzer
+    -   Klinisch: Erwäge Kalziumsensitizer
         (Levosimedan (Simdax™), Expertenrat)
 
 Beatmungstherapie

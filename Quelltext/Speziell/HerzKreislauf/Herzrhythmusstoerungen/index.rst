@@ -170,7 +170,6 @@ Für spezielle Fragestellungen kann eine elektrophysiologische Untersuchung mitt
 
 
 .. _Tafel-HerzrhythmusstoerungenWichtige:
-
 .. _Tafel-Herzrhythmusstoerungen:
 
 .. list-table:: Wichtige Herzrhythmusstörungen
@@ -333,8 +332,8 @@ eventuell auch "salvenartig".
 Je nach Häufigkeit haben Extrasystolen unterschiedliche
 Auswirkungen auf den Kreislauf und können symptom- bzw. bedeutungslos
 sein, oder auch Beschwerden verursachen. Wenn die Extrasystolen die
-normale Herzpumpfunktion massiv stören, können Sie auch lebensbedrohlich
-sein.
+normale Herzpumpfunktion massiv stören,
+können sie auch lebensbedrohlich sein.
 
 
 

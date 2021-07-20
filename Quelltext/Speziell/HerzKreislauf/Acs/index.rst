@@ -1,12 +1,12 @@
 
-.. _Stemi:
-
-.. _AkutesKoronarsyndrom:
-.. _akutes-koronarsyndrom:
-
-.. _AnginaPectoris:
 
 .. _Acs:
+.. _AkutesKoronarsyndrom:
+.. _akutes-koronarsyndrom:
+.. _AnginaPectoris:
+.. _Herzinfarkt:
+.. _Mci:
+.. _Stemi:
 
 ###################################
 Akutes Koronarsyndrom (ACS) — (#40)
@@ -184,7 +184,7 @@ SAMPLER beim akuten Koronarsyndrom
         🄿
             Koronare Herzkrankheit (KHK)
 
-        ``E``
+        🄴
             Körperliche Anstrengung
 
 
@@ -200,14 +200,11 @@ SAMPLER beim akuten Koronarsyndrom
     Medikamente ein.
 
 🄿 — Patientenhistorie
-    Bei den meisten Patienten ist die Angina Pectoris schon bekannt,
-    bzw. es besteht eine *koronare Herz-Krankheit* (*KHK*). Die KHK ist
-    eine Erkrankung der Herzkranzgefäße, diese werden durch Ablagerung
-    von Fetten und Kalk geschädigt und eingeengt, dadurch kann weniger
-    Blut durchfließen. So kommt es zu einer Mangelversorgung des
-    Herzmuskels und zu den Symptomen der Angina pectoris.
+    Bei den meisten Patienten ist die Angina pectoris schon bekannt,
+    bzw. es besteht eine :ref:`koronare Herz-Krankheit (KHK) <KHK>`.
 
-``E``
+
+🄴 — Ereignisse
     Häufig wird über körperliche Anstrengung oder Aufregung vor Beginn
     des Anfalls berichtet.
 
@@ -216,11 +213,11 @@ SAMPLER beim akuten Koronarsyndrom
 Differentialdiagnosen
 *********************
 
-- Pneumonie, Pleuritis, Pneumothorax
-- Reflux, Pankreatitis, Cholezystitis
-- post-CABG-Syndrom
-- musko-skelettal
-- funktionell
+-   Pneumonie, Pleuritis, Pneumothorax
+-   Reflux, Pankreatitis, Cholezystitis
+-   post-CABG-Syndrom
+-   musko-skelettal
+-   funktionell
 
 *****************
 Diagnostik
@@ -272,7 +269,7 @@ Bedenke **atypische Präsentationen**:
     -   Oft minimale ST-Hebungen inferior/lateral
 
 
-Besonders häufige Patientengruppen mit **atypischer MCI-Präsentation** umfassen:
+Besonders häufige Patientengruppen mit **atypischen** Symptomen umfassen:
 
 -   Junge Patienten
 -   Alte Patienten
@@ -281,22 +278,43 @@ Besonders häufige Patientengruppen mit **atypischer MCI-Präsentation** umfasse
 -   Patienten mit Niereninffuzienz
 
 
+
+.. index::
+    single: CK
+    single: CK-MB
+    single: LDH
+    single: Herzenzyme
+    single: Troponin
+
 Weiterführende Diagnostik
-=============================================================================
+========================================================================
 
 
-.. rubric:: Echokardiographie
+-   **Echokardiographie:**
+    Abschätzung des Schweregrades,
+    Infarktlokalisation,
+    Einschätzung der hämodynamischen Stabilität und
+    Ausschluss von Differentialdiagnosen.
 
-Abschätzung des Schweregrades,
-Infarktlokalisation,
-Einschätzung der hämodynamischen Stabilität und
-Ausschluss von Differentialdiagnosen.
+-   **Labor:**
 
-.. rubric:: Labor
+    -   Wenn Vorhanden: Schnelltests (z. B. Troponin)
+    -   Herzenzyme
+        (CK\ [#CK]_,
+        CK-MB\ [#CKMB]_,
+        LDH¸[#LDH]_,
+        Troponin-T,
+        ggfs. proBNP)
 
--  Wenn Vorhanden: Schnelltests (z. B. Troponin)
--  Herzenzyme (CK, CK-MB, LDH, Troponin-T, ggfs. proBNP)
 
+.. [#CK]
+    CK: Creatininkinase
+
+.. [#CKMB]
+    CK-MB: myokardspezifische Creatininkinase
+
+.. [#LDH]
+    LDH: Laktatdehydrogenase
 
 
 
@@ -379,11 +397,7 @@ bzw. das geeignete Verfahren auswählen.
 -   Video, Youtube: Gèneve, Hôpitaux Universitaires:
     *Zur Bekämpfung von Herzinfarkt und Arteriosklerose*
     http://youtu.be/SWZYBrLAnNk.
--   Literatur:
-    [ERC:2015:08]_
-    [Harrisons18DeKap225]_
-    [Harrisons18DeKap230]_
-    [Harrisons18DeKap224]_
+
 
 
 

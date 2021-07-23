@@ -26,7 +26,8 @@ Allgemein: Störungen der Atemwege und der Atmung (#33)
 
 
 Störungen der Atmung können aus vielen Ursachen eintreten.
-:ref:`Table-atemstoerungen-ursachen`, beschreibt die wichtigsten
+Die Tabelle :ref:`Table-atemstoerungen-ursachen`
+beschreibt die wichtigsten
 Pathomechanismen und Störungen.
 
 Der Begriff :dfn:`Ateminsuffizienz` beschreibt allgemein
@@ -54,12 +55,16 @@ Gefahr der Ateminsuffizienz
         -   CO₂-Gehalt im Blut ↑
         -   Respiratorische Azidose
 
-Bei einer Ateminsuffizienz sinkt der *O2-Gehalt* im Blut. Es kommt zu
+Bei einer Ateminsuffizienz sinkt der *O₂-Gehalt* im Blut. Es kommt zu
 einer *Hypoxie* und in weiterer Folge zu einer Unterversorgung
 lebenswichtiger Organe wie Herz und Hirn mit Sauerstoff. Außerdem ist
 die *CO₂-Abgabe* gestört und es kommt zu einer Anhäufung von CO₂ im
-Blut. In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
-(*Respiratorische Azidose*, :ref:`azidose-respiratorische`) kommen.
+Blut.
+In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
+(:ref:`respiratorische Azidose <azidose-respiratorische>`)
+kommen.
+
+
 
 .. _Table-atemstoerungen-ursachen:
 .. _Tab-atemstoerungen-ursachen:
@@ -71,7 +76,7 @@ Blut. In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
     *   -   Störung des/der
         -   Beispiele
     *   -   O₂-Angebotes
-        -   -   Niedriger Sauerstoffpartialdruck ("dünne Luft", z. B. Hochgebirge)
+        -   -   Niedriger Sauerstoffpartialdruck (pO₂; "dünne Luft", z. B. Hochgebirge)
             -   Stickgase (Gärkeller (CO₂ ↑, O₂ ↓); defekte Gastherme (CO))
             -   Ertrinken
     *   -   O₂-Diffusion
@@ -99,12 +104,12 @@ Blut. In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
         -   -   Psychogen (z. B. Panikattacke)
 
 
+
 .. index::
    single: Atmung, paradoxe
 
 Befunde
 =======
-
 
 .. only:: not nosidebar
 
@@ -176,7 +181,7 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     |                     | Bläulich                                            | Zyanose: Hypoxie!                                                    |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    | *Körperlich*        | Einziehungen an den Rippen                          | Einsatz der Atemhilfsmuskulatur                                      |    |
+    | *Körperlich*        | Einziehungen an den Rippen                          | Einsatz der Zwischenrippenmuskulatur                                 |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     |                     | Aufstützen                                          | Einsatz der Atemhilfsmuskulatur                                      |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
@@ -190,6 +195,8 @@ Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
     |                     | Kapnometrie                                         |  CO₂-Messung                                                         |    |
     +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+
+
 
 Maßnahmen
 =========
@@ -216,7 +223,7 @@ Atemstillstand
 ---------------
 
 Bei einem mit Atemstillstand vorgefundenen Patienten ist
-grundsätzlich von einer Reanimation auszugehen.
+grundsätzlich auch von einem Kreislaufstillstand auszugehen.
 
 Nur in sehr seltenen Fällen kann primär ein isolierter
 Atemstillstand ohne gleichzeitigem Kreislaufstillstand

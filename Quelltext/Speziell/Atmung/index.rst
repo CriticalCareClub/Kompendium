@@ -5,11 +5,6 @@ Atmungsstörungen
 ################
 
 
-Störungen der Atmung können aus vielen Ursachen eintreten.
-:ref:`tab-atemstoerungen-ursachen` beschreibt die
-wichtigsten Pathomechanismen und Störungen.
-
-
 .. toctree::
     :maxdepth: 1
 

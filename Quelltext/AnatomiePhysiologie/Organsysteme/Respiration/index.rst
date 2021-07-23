@@ -465,6 +465,16 @@ Gewebe und Pleura(spalt) wichtig:
 
 
 
+.. index::
+    single: Atemzyklus
+    single: Exspiration
+    single: Inspiration
+
+.. _Atemzyklus:
+.. _Inspiration:
+.. _Exspiration:
+
+
 Resultat: Der Atemzyklus
 ========================
 
@@ -472,7 +482,7 @@ Resultat: Der Atemzyklus
 
     .. sidebar:: Der Atemzyklus
 
-        -   Einatemphase: Aktiv
+        -   Inspiration: Aktiv
 
             #.  Aktive Bewegung
                 des Zwerchfells und Zwischenrippenmuskulatur
@@ -484,14 +494,16 @@ Resultat: Der Atemzyklus
             #.  Unterdruck
             #.  Luft strömt ein
 
-        -   Ausatemphase: Passiv
+        -   Exspiration: Passiv
 
             #.  Entspannung des Zwerchfells
             #.  Volumen von Thorax- und Lunge verkleinert sich
             #.  Luft strömt aus
 
-Ein :dfn:`Atemzyklus` :index:`\ <! Atemzyklus>` besteht aus der Einatemphase und der
-Ausatemphase. Dabei kommt es zu einem Ungleichgewicht zwischen der nach
+Ein *Atemzyklus*
+besteht aus der Einatemphase (:dfn:`Inspiration`)
+und der Ausatemphase (:dfn:`Exspiration`).
+Dabei kommt es zu einem Ungleichgewicht zwischen der nach
 außen gerichteten Zugkraft des Thorax und der nach innen gerichteten
 Zugkraft der Lunge. Dieses Ungleichgewicht wird beim Einatmen zunächst
 von einer zusätzlichen Zugkraft des Zwerchfells und der äußeren

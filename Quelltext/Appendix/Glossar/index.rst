@@ -49,6 +49,9 @@ Abkürungsverzeichnis und Glossar
         der Atemwegssicherung angesehen, dies berücksichtigt aber nicht die
         Sicherheit der Anwendung.
 
+    Exspiration
+        Ausatmung
+
     FMC
         First Medical Contact
 
@@ -65,6 +68,9 @@ Abkürungsverzeichnis und Glossar
 
     ICR
         Intercostalraum. Vgl. :ref:`Intercostalraum`
+
+    Inspiration
+        Einatmung
 
     intermittieren
         zeitweilig aussetzen,

@@ -146,7 +146,7 @@ ABCDE
     (:ref:`HypertensiverNotfall`)) der eigentliche *Auslöser* einer
     Herzinsuffizenz sein.
     Der Blutdruck kann dann natürlich erhöht sein.
-    Es können Zeichen eines |symbol-RedFlag| kardiogenen Schocks
+    Es können Zeichen eines 🚩 kardiogenen Schocks
     auftreten.
 
 :⌥:
@@ -170,7 +170,7 @@ ABCDE
      *kardiogenen Schocks*.
 
     Eine besonders kritische Komplikation ist das
-    |symbol-RedFlag| kardiale *Lungenödem*.
+    🚩 kardiale *Lungenödem*.
     Wenn es sehr stark ausgeprägt ist,
     kann man es mit freiem Ohr hören (*"brodelndes Atemgeräusch"*).
     Diese Patienten sind als besonders kritisch einzuschätzen, sie sind

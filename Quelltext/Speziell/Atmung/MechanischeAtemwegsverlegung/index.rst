@@ -6,7 +6,6 @@
 .. _HeimlichManoever:
 .. _mechanische-atemwegsverlegung:
 
-
 **************************************
 Mechanische Atemwegsverlegung (#38)
 **************************************
@@ -34,7 +33,8 @@ Mechanische Atemwegsverlegung (#38)
 
 
 Wenn ein Fremdkörper den Atemweg teilweise oder vollständig *blockiert*
-oder *behindert*, spricht man von einer mechanische Verlegung. Abhängig
+oder *behindert*
+spricht man von einer mechanische Verlegung. Abhängig
 von der Größe des Fremdkörpers können sowohl die oberen als auch die
 unteren Atemwege betroffen sein.
 Wenn der Fremdkörper in die *unteren Atemwege* gelangt,
@@ -42,11 +42,12 @@ spricht man von einer (Fremdkörper-) :dfn:`Aspiration`.
 
 Nicht nur feste Körper, sondern auch Flüssigkeiten können Auslöser einer
 Verlegung oder Aspiration sein.
-Besonders Blut, Magensaft, Erbrochenes
-oder Speisebrei stellen diesbezüglich eine Gefahr dar. Besonders
-gefährdet hinsichtlich einer Atemwegsverlegung sind Kinder, ältere
-Personen, bewusstseinseingschränkte Personen, Patienten mit
-Schluckstörungen oder Allergiker (z. B. Anschwellen der Schleimhäute nach
+Blut, Magensaft, Erbrochenes
+oder Speisebrei stellen diesbezüglich eine große Gefahr dar.
+esonders gefährdet hinsichtlich einer Atemwegsverlegung sind Kinder, ältere Personen,
+bewusstseinseingschränkte Personen,
+Patienten mit Schluckstörungen
+oder Allergiker (z. B. Anschwellen der Schleimhäute nach
 einem Bienenstich).
 
 Man unterscheidet zwischen einer *milden* (der
@@ -55,9 +56,11 @@ Atemwegsverlegung* (Sprechen und Husten nicht möglich).
 
 .. note::
 
-    -   Die (Un-) Fähigkeit zu sprechen
-        und zu husten ist das wesentliche Kriterium
-        um die Schwere einer Atemwegsverlegung einzuschätzen.
+    Die (Un-) Fähigkeit zu sprechen
+    und zu husten ist das wesentliche Kriterium
+    um die Schwere einer Atemwegsverlegung einzuschätzen.
+
+
 
 
 ABCDE
@@ -71,10 +74,10 @@ ABCDE
             Essensreste, Spielsachen, etc.
 
         ②
-            Gestik, evtl. |symbol-RedFlag|\  Zyanose
+            Gestik, evtl. 🚩 Zyanose
 
         ③
-            Evtl. |symbol-RedFlag|\  *Bewusstseinstrübung*
+            Evtl. 🚩 *Bewusstseinstrübung*
 
         ④
             Atemnot, Fremdkörpergefühl
@@ -91,11 +94,11 @@ ABCDE
 
             -  Schwere Verlegung:
 
-            -  **|symbol-RedFlag|**\ Unfähigkeit zu Sprechen oder effektiv zu
+            -  🚩 Unfähigkeit zu Sprechen oder effektiv zu
                 husten
 
-            -  Evtl. |symbol-RedFlag|\ Atemstillstand,
-                |symbol-RedFlag|\  Bewusstlosigkeit, Hypoxie bis Kreislaufstillstand
+            -  Evtl. 🚩 Atemstillstand,
+                🚩 Bewusstlosigkeit, Hypoxie bis Kreislaufstillstand
                 möglich
 
         Ⓒ
@@ -111,11 +114,11 @@ ABCDE
 
 :②:
     Oft gestikuliert der Patient entsprechend. Bei fortgeschrittener
-    Hypoxie kann der Patient |symbol-RedFlag| **zyanotisch** sein.
+    Hypoxie kann der Patient 🚩 **zyanotisch** sein.
 
 :③:
     Infolge einer Hypoxie kann es zu einer
-    |symbol-RedFlag|\  *Bewusstseinstrübung* kommen.
+    🚩 *Bewusstseinstrübung* kommen.
 
 :④:
     Das Leitsymptom ist Atemnot bzw. Fremdkörpergefühl, zusammen mit
@@ -142,11 +145,11 @@ ABCDE
 
     -  *Schwere Verlegung*:
        Bei einer schweren Verlegung der Atemwege ist der Patient
-       |symbol-RedFlag|\  *unfähig zu reden oder effektiv zu husten*.
+       🚩\  *unfähig zu reden oder effektiv zu husten*.
        Eventuell kann er nur durch Nicken oder Gesten kommunizieren. In
        besonders schweren Fällen kann es zu einem
-       |symbol-RedFlag|\  *Atemstillstand* und nach kurzer Zeit zu einer
-       |symbol-RedFlag|\  *Bewusstlosigkeit*, gefolgt von einem
+       🚩\  *Atemstillstand* und nach kurzer Zeit zu einer
+       🚩\  *Bewusstlosigkeit*, gefolgt von einem
        *Kreislaufstillstand* kommen.
 
 :Ⓒ:
@@ -187,7 +190,8 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
     evtl. gelockert und ausgehustet werden.
 
 -   *Heimlich-Manöver*:  *Syn.*
-    *Heimlich-Handgriff*. Beim Heimlich-Manöver versucht man durch
+    *Heimlich-Handgriff*.
+    Beim Heimlich-Manöver versucht man durch
     Kompression des Bauchraums den Fremdkörper durch den entstandenen
     Überdruck aus den Atemwegen zu entfernen.
 
@@ -203,8 +207,9 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Fremdkoerper.*
 
-    Atemwegsverlegung (Schema): Der linke Bissen steckt in der
-    Luftröhre fest, der andere befindet sich in der Speiseröhre.
+    Atemwegsverlegung (Schema):
+    Der linke Bissen steckt im Atemweg fest,
+    der andere befindet sich in der Speiseröhre.
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
@@ -219,6 +224,9 @@ Spezielle Techniken: Schläge zwischen die Schulterblätter und Heimlich-Manöve
     Francis.
 
     ₢ Amanda M. Woodhead, USMC, :term:`ℓ PD`
+
+
+
 
 .. _m-atemwegsverlegung:
 

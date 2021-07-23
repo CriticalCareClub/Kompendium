@@ -20,7 +20,7 @@ Chronische Bronchitis und COPD (#35)
         -   Husten mit Auswurf, anfänglich "Raucherhusten"
         -   Voranschreitende, sich verschlechternde *Ateminsuffizienz*:
         -   Belastungsdyspnoe (bei schwererer COPD auch in Ruhe)
-        -   Ausatmung (Exspiration) erschwert
+        -   Exspiration erschwert
         -   Brummendes, pfeifendes od. giemendes Ausatemgeräusch
         -   Evtl. chronische Zyanose
         -   Evtl. Heimsauerstoff
@@ -41,22 +41,27 @@ welche eine zunehmende obstruktive
 Atemwegseinschränkung aufweist.
 
 Die COPD ist durch eine
-voranschreitende Verschlechterung der Atemleistung gekennzeichnet. Am
-Anfang steht die chronische Bronchitis,
+voranschreitende Verschlechterung der Atemleistung gekennzeichnet.
+Am Anfang steht die chronische Bronchitis,
 welche durch Husten mit schleimigem Auswurf gekennzeichnet ist ("*Raucherhusten*").
 Es kommt dabei zu einer gesteigerten Entzündungsantwort auf eingeatmete Stoffe
 (Zigarettenrauch, Umweltschadstoffe, …). Wenn man in der
 Lungenfunktionsuntersuchung eine Atmungsseinschränkung nachweisen kann,
 spricht man von der chronisch-obstruktiven Lungenerkrankung (COPD).
-Diese geht mit bleibenden Veränderungen der unteren Atemwege einher,
-diese sind in der Grafik :ref:`Figure-copd-veraenderungen` dargestellt.
+Diese geht mit bleibenden Veränderungen der unteren Atemwege einher
+und sind in der Grafik :ref:`Figure-copd-veraenderungen` dargestellt.
 
 Durch die erschwerte Ausatmung kommt es zu einer chronischen
-Überblähung der Lungenbläschen und zu einer "Faß-förmigen" Verformung
-des Brustkorbes. Im Endstadium zeigen sich Zeichen einer
-Rechtsherzinsuffizienz (:ref:`rechtsherzinsuffizienz`) aufgrund einer
-Störung im Lungenkreislauf.
+Überblähung der Lungenbläschen und zu einer "Fass-förmigen" Verformung
+des Brustkorbes.
+Im Endstadium zeigen sich Zeichen einer
+:ref:`Rechtsherzinsuffizienz <rechtsherzinsuffizienz>`
+aufgrund einer Störung im Lungenkreislauf.
 
+
+
+.. index::
+    single: Exazerbation; COPD
 
 Exazerbation
 ==============
@@ -65,6 +70,7 @@ Kommt zu der ohnehin schweren Grunderkrankung noch ein erschwerender
 Faktor hinzu, z. B. eine Infektion der Atemwege, kann es zu einer
 plötzlichen Verschlechterung kommen, zur *Exazerbation*. Diese ist meist
 durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
+
 
 
 Probleme mit Sauerstoff bei COPD-Patienten
@@ -98,7 +104,10 @@ CO₂-Gehalt im Blut steigt weiter an und es kommt dadurch zu
 *Bewusstseinsstörungen* (CO₂-Narkose). Im Extremfall kann es auch zu
 einem Atemstillstand kommen.
 
-**Bewusstseinsstörungen bei übermäßiger Sauerstoffgabe möglich!**
+
+.. danger::
+
+    **Bewusstseinsstörungen** bei übermäßiger Sauerstoffgabe möglich!
 
 
 .. danger::
@@ -140,7 +149,7 @@ einem Atemstillstand kommen.
             Atemhilfsmuskulatur, Anstrengung beim Atmen, ängstlich
 
         ③
-            Evtl. **|symbol-RedFlag|**\ Bewusstseinsstörungen
+            Evtl. **🚩**\ Bewusstseinsstörungen
 
         ④
             Atemnot
@@ -149,7 +158,7 @@ einem Atemstillstand kommen.
             Siehe Ⓑ
 
         Ⓑ
-            Atemnot! Ausatmung erschwert, Husten Tachypnoe, |symbol-RedFlag|\  Zyanose;
+            Atemnot! Ausatmung erschwert, Husten Tachypnoe, 🚩\  Zyanose;
 
             Brummendes, pfeifendes Atemgeräusch
 
@@ -173,7 +182,7 @@ einem Atemstillstand kommen.
 
 ③
     Bei schweren Anfällen kann es aufgrund der Hypoxie zu
-    |symbol-RedFlag|\ **Bewusstseinsstörungen** kommen.
+    🚩\ **Bewusstseinsstörungen** kommen.
 
 ④
     Atemnot
@@ -185,10 +194,9 @@ einem Atemstillstand kommen.
     Je nach Schweregrad kommt es zu Zeichen einer Atemwegsverlegung der
     *unteren* Atemwege (Obstruktion, durch Verengung der Bronchien und
     Schleimproduktion) und Ateminsuffizienz:
-    Die *Ausatmung*
-    (Exspiration) ist erschwert, der Patient klagt über
+    Die *Exspiration* ist erschwert, der Patient klagt über
     *Belastungsdyspnoe*, ein Engegefühl, *Husten* und hat Tachypnoe und
-    evtl. |symbol-RedFlag|\  *Zyanose*.
+    evtl. 🚩\  *Zyanose*.
     Man kann oft ein *brummendes,
     pfeifendes oder giemendes Atemgeräusch* hören.
 
@@ -199,15 +207,15 @@ einem Atemstillstand kommen.
     Ateminsuffizienz bekommt der Patient oft eine
     *Heimsauerstofftherapie* verordnet.
     Bei übermäßiger Sauerstoffgabe
-    kann es zu |symbol-RedFlag|\  *Bewusstseinsstörungen kommen*
+    kann es zu 🚩\  *Bewusstseinsstörungen kommen*
     (*CO₂-Narkose*)!
 
 Ⓒ Kreislauf
     Evtl. tachkard und hyperton
 
 ``=`` Beurteilung
-    Bei |symbol-RedFlag|\  schwerer Atemnot oder
-    |symbol-RedFlag|\  Bewusstseinsstörungen vitale Bedrohung.
+    Bei 🚩\  schwerer Atemnot oder
+    🚩\  Bewusstseinsstörungen vitale Bedrohung.
 
 ⌥
     Als Nebenbefund können Infektzeichen vorliegen (erhöhte
@@ -322,7 +330,7 @@ Beatmungstherapie 🏥🚑
         und kontrollierte Beatmung mit erhöhtem PEEP
         (10 mbar)
         als Ultima ratio falls trotz Therapie respiratorische Insuffizienz bestehen bleibt.
-        Cave: Entwöhnung kann extrem schwierig sein!
+        Cave: Die Entwöhnung kann extrem schwierig sein!
 
 Palliative Therapie
     -   COPD ist eine chronische,

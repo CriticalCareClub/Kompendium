@@ -59,22 +59,22 @@ ABCDE: Pulmonalembolie
             Bettlägrigkeit?
 
         ④
-            Dyspnoe, (atemabhängige) |symbol-RedFlag|\  Thorax- od.
+            Dyspnoe, (atemabhängige) 🚩\  Thorax- od.
             Rückenschmerzen, Angstgefühl
 
             Unterscheidung zu ACS oft nicht möglich
 
         Ⓑ
-            |symbol-RedFlag|\  Atemnot, Tachypnoe
+            🚩\  Atemnot, Tachypnoe
 
         Ⓒ
             HF ↑, evtl. arrhythmischer Puls (Vorhofflimmern), RR
-            normal od. |symbol-RedFlag|\  ↓
+            normal od. 🚩\  ↓
 
             Gestaute Halsvenen (Blutrückstau), evtl. arrhythmischer Puls bei
             Vorhofflimmern
 
-            |symbol-RedFlag|\  Schockzeichen?
+            🚩\  Schockzeichen?
 
         Ⓔ
             Umspezifische EKG-Veränderungen
@@ -96,8 +96,8 @@ ABCDE: Pulmonalembolie
     Gipsverband, körperlicher Zustand, …) erkennen?
 
 :④:
-    Das Leitsymptom ist die |symbol-RedFlag|\  *Atemnot*, eventuell in
-    Kombination mit (atemabhängigen) |symbol-RedFlag|\  Thorax- oder
+    Das Leitsymptom ist die 🚩\  *Atemnot*, eventuell in
+    Kombination mit (atemabhängigen) 🚩\  Thorax- oder
     Rückenschmerzen.
 
     Eine Unterscheidung zwischen einer Lungenembolie und einem Akuten
@@ -105,7 +105,7 @@ ABCDE: Pulmonalembolie
 
 :Ⓑ:
     Meist atmet der Patient schnell (Tachypnoe) und klagt über einen
-    *atemabhängigen |symbol-RedFlag|\  Thoraxschmerz*.
+    *atemabhängigen 🚩\  Thoraxschmerz*.
 
 :Ⓒ:
     Es kommt zu einer *Tachykardie* und Angstgefühlen, oft findet man
@@ -113,8 +113,8 @@ ABCDE: Pulmonalembolie
     Blutrückstaus. Evtl. kann man auch einen *arrhythmischen Puls*
     aufgrund eines Vorhofflimmerns, ertasten. Der Blutdruck kann normal
     oder vermindert sein. Bei einer schweren Lungenembolie kann es zu
-    einem |symbol-RedFlag|\  *kardiogenen Schock* kommen, es ist daher
-    wichtig auf |symbol-RedFlag|\  Schockzeichen zu achten!
+    einem 🚩\  *kardiogenen Schock* kommen, es ist daher
+    wichtig auf 🚩\  Schockzeichen zu achten!
 
 :Ⓔ:
     Es kann zu — meist unspezifischen — *EKG-Veränderungen* kommen. Klassisch, aber selten ausgeprägt, ist der  S\ :sub:`I`\ Q\ :sub:`III`-Typ als Zeichen einer Rechtsherzbelastung.
@@ -134,7 +134,7 @@ ABCDE: Pulmonalembolie
     rot/rot-bläulich verfärbt und schmerzhaft (:ref:`thrombose`).
 
 ``=``
-    Bei |symbol-RedFlag|\  anhaltender Atemnot oder |symbol-RedFlag|\
+    Bei 🚩\  anhaltender Atemnot oder 🚩\
     Thoraxschmerzen besteht eine vitale Bedrohung.
 
 
@@ -155,7 +155,7 @@ SAMPLER: Pulmonalembolie
             Fernreise? Langes Sitzen/Liegen? Wenig getrunken?
 
         🅁
-            Immobilisation, Vorhofflimmern, vorangegange Thrombose oder Embolie,
+            Immobilisation, Vorhofflimmern, vorangegangene Thrombose oder Embolie,
             Schwangerschaft, Rauchen, Verhütungspille
 
 
@@ -167,8 +167,9 @@ SAMPLER: Pulmonalembolie
 🄿
     Oft ist bei den Patienten *Vorhofflimmern* als chronische Erkrankung
     bekannt. Patienten, welche bereits schon einmal eine Thrombose oder
-    eine Embolie hatten, haben ein erhöhtes Risiko neuerlich daran zu
-    erkranken. Im Rahmen von Krebserkrankungen kann es gehäuft zu
+    eine Embolie hatten, haben ein erhöhtes Risiko,
+    neuerlich daran zu erkranken.
+    Im Rahmen von Krebserkrankungen kann es gehäuft zu
     Thrombosen und Embolien kommen.
 
 🄴

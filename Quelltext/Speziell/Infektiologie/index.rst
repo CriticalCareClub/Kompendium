@@ -8,34 +8,37 @@ Infektions- und Entzündungskrankheiten (#63)
 
 .. _allergie:
 
-
 ******************************************************
 Störungen des Immunsystems
 ******************************************************
 
 
 Störungen des Immunsystems können sowohl zu einer Überfunktion, als auch
-zu einer Insuffizienz führen. Exemplarischen seien hier
+zu einer Insuffizienz führen.
+Exemplarisch seien hier
 knochenmarkschädigende Therapien und Allergien ausgeführt:
 
--  *Knochenmarkschädigende Therapien*: Einige medizinische
-   Behandlungsmethoden verursachen als Nebenwirkung eine massive
-   *Schädigung des Knochenmarks* (z. B. Bestrahlung, Chemotherapien bei
-   Krebspatienten ("onkologische Patienten"), etc.). Diese Patienten
-   leiden neben einer Blutarmut auch an einem schwachen Immunsystem, da
-   nicht genügend weiße Blutkörperchen gebildet werden. Sie können daher
-   sehr leicht schwerwiegende Infektionen bekommen. Diese Patienten sind
-   im Krankentransport häufig anzutreffen.
+-   *Knochenmarkschädigende Therapien*:
+    Einige medizinische Behandlungsmethoden verursachen
+    als Nebenwirkung eine massive
+    *Schädigung des Knochenmarks* (z. B. Bestrahlung, Chemotherapien bei
+    Krebspatienten ("onkologische Patienten"), etc.).
+    Diese Patienten leiden neben einer Blutarmut auch an einem schwachen Immunsystem,
+    da nicht genügend weiße Blutkörperchen gebildet werden.
+    Sie können daher sehr leicht schwerwiegende Infektionen bekommen.
+    Diese Patienten sind im Krankentransport häufig anzutreffen.
 
--  *Allergie*: Das Immunsystem kann jedoch auch
-   fälschlicherweise gegen an sich ungefährliche Stoffen aktiv werden,
-   man spricht dann von einer :dfn:`Allergie` :index:`\ <! Allergie>`. Im
-   leichtesten Fall kommt es bei Kontakt mit dem auslösenden Stoff zu
-   einer Schleimhautreizung ("laufende Nase"), Augenrötung, tränen,
-   einer lokalen Rötung bzw. einem Juckreiz. Je nach Stärke der Allergie
-   sowie Dauer und Intensität des Kontakts kann es aber auch zu
-   lebensbedrohlichen Zuständen wie dem anaphylaktischen Schock kommen
-   (:ref:`schock-anaphylaktischer`).
+-   *Allergie*: Das Immunsystem kann jedoch auch
+    fälschlicherweise gegen an sich ungefährliche Stoffen aktiv werden,
+    man spricht dann von einer :dfn:`Allergie` :index:`\ <Allergie>`. Im
+    leichtesten Fall kommt es bei Kontakt mit dem auslösenden Stoff zu
+    einer Schleimhautreizung ("laufende Nase"), Augenrötung, tränen,
+    einer lokalen Rötung bzw. einem Juckreiz.
+    Je nach Stärke der Allergie
+    sowie Dauer und Intensität des Kontakts
+    kann es aber auch zu lebensbedrohlichen Zuständen wie dem
+    :ref:`anaphylaktischen Schock <schock-anaphylaktischer>`
+    kommen.
 
 
 ************************
@@ -90,7 +93,8 @@ Wichtige Differentialdiagnosen
 ------------------------------
 
 Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden
-und auf Meningismus-Zeichen geprüft werden (vgl. :ref:`meningismuszeichen`).
+und auf :ref:`Meningismus-Zeichen <meningismuszeichen>` geprüft werden.
+
 
 
 Stämme
@@ -99,9 +103,12 @@ Stämme
 Grippeviren kommen in verschiedenen Stämmen (A, B, und C) vor,
 welche wiederum durch unterschiedliche Arten von Hämagglutinin (H) und
 Neuramidase (N) unterschieden werden. Dadurch kommen so klingende Namen
-wie "A(H5N1) oder A(H1N1) zu Stande. Je nach Unterart verhalten sich die Viren
+wie "A(H5N1)" oder "A(H1N1)" zu Stande.
+Je nach Unterart verhalten sich die Viren
 anders und man beobachtet Unterschiede hinsichtlich der
 Ansteckungsgefahr, Schwere der Erkrankung usw.
+
+
 
 Schutzimpfung
 -------------
@@ -113,8 +120,9 @@ Saison) und muss jede Saison wiederholt werden. Die Impfung bietet
 keinen hundertprozentigen Schutz, wird aber trotzdem für Risikopatienten
 und Personen die einem erhöhten Infektionsrisiko ausgesetzt sind
 (darunter fällt auch Personal im Gesundheitsbereich) empfohlen. Die
-Impfung hat einen schlechten Ruf, da Geimpfte häufig über leichtes
-Fieber oder leichte Verkühlungen ein paar Tage nach der Impfung klagen.
+Impfung hat einen schlechten Ruf,
+da Geimpfte häufig über Impfreaktionen
+wie leichtes Fieber oder leichte Verkühlungen ein paar Tage nach der Impfung klagen.
 
 [Gallaher:2009]_ [Cutler:2009]_ [Peiris:2009]_ [Wolf:2009]_
 
@@ -310,7 +318,7 @@ Maßnahmen: Tuberkulose
 
 ⛑ Basismaßnahmen
     -   Bei Verdacht auf eine offene Tuberkulose
-        Schutzmasken verwenden: FFP~3 für das Personal,
+        Schutzmasken verwenden: FFP-3-Masken für das Personal,
         Mund-Nasenmaske für den
         Patienten, wenn zumutbar.
     -   **Meldung an Leitstelle** und ggfs. Betriebsleitung!
@@ -402,7 +410,7 @@ Beschreibung und Ursachen
 -------------------------
 
 Die :dfn:`Hepatitis`
-:index:`\ <! Hepatitis>`
+:index:`\ <Hepatitis>`
 ist eine Entzündung der Leber durch
 verschiedene Erreger oder durch schädigende Substanzen.
 Diese
@@ -417,7 +425,7 @@ einer Entzündung führen.
 Je nach Ursache der Hepatitis kann es vorkommen, dass es zu keiner
 Abheilung kommt und die Hepatitis dauerhaft bestehen bleibt. Man spricht
 dann von der
-:dfn:`chronischen Hepatitis`\ :index:`\ <! chronischen Hepatitis>`.
+:dfn:`chronischen Hepatitis`\ :index:`\ <Hepatitis; chronische>`.
 
 
 Symptome
@@ -434,7 +442,7 @@ gelblichen Verfärbung der Haut (*Ikterus*) kommen.
 Bei einem chronischen Verlauf kommt es zu einem Umbau von
 funktionierendem Lebergewebe zu funktionslosem Bindegewebe. Man spricht
 dann von der
-:index:`\ <! Leberzirrhose>`
+:index:`\ <Leberzirrhose>`
 :ref:`Leberzirrhose <leberzirrhose>`.
 Schließlich kann es zu einem Leberversagen und in kurzer Folge zum Tod
 kommen, da die Leber ein überlebenswichtiges Organ ist.
@@ -484,6 +492,8 @@ Für Risikopersonal (dazu zählt auch Sanitätspersonal) übernimmt
 i. d. R. die Unfallversicherungsanstalt die Kosten für die
 Schutzimpfung.
 
+
+
 **********************************
 Seltene, aber schwere Erkrankungen
 **********************************
@@ -493,9 +503,8 @@ Seltene, aber schwere Erkrankungen
 Infektiöse Meningitis
 =====================
 
-
 Die infektiöse
-:dfn:`Meningitis` :index:`\ <! Meningitis>`
+:dfn:`Meningitis` :index:`\ <Meningitis>`
 ist eine Entzündung der
 Hirnhäute aufgrund einer Infektion mit Krankheitserregern.
 Sie ist ist
@@ -558,7 +567,6 @@ Maßnahmen: Meningitis
 Wundstarrkrampf (Tetanus)
 =========================
 
-
 Der Erreger des Wundstarrkrampfes\ [#274]_ kommt
 *überall in der Umgebung* ("ubiquitär") vor.
 Bei Verletzungen können durch Kontamination diese Sporen in die
@@ -580,10 +588,10 @@ Symptome
 Es kommt zu tonischen *Krämpfen der quergestreiften Muskulatur*, oft
 beginnend bei der Kaumuskulatur (Kiefersperre, Teufelsgrinsen (*Risus
 sardonicus*)). Der Patient hat starke Schmerzen und entwickelt in Folge
-der Krämpfe eine *Atemlähmung*. Die Fortschritte der Intensivmedizin
-haben die Behandlungsmöglichkeiten verbessert, trotzdem sterben noch
-etwa 20—30% der Tetanuserkrankten. Der Wert der Impfung ist
-daher nach wie vor groß.
+der Krämpfe eine *Atemlähmung*.
+Die Fortschritte der Intensivmedizin haben die Behandlungsmöglichkeiten verbessert,
+trotzdem sterben noch etwa 20—30% der Tetanuserkrankten.
+Der Wert der Impfung ist daher nach wie vor groß.
 
 
 .. figure:: /Bilder/WikipediaPd/6373_lores_tetanus.*
@@ -600,29 +608,35 @@ Schutzimpfung
 
 Es existiert eine Schutzimpfung, diese muss
 dem Patienten *rechtzeitig* nach der Verletzung gegeben werden. Der
-Impfschutz beträgt normalerweise ca *10 Jahre*, bei einer Verletzung
+Impfschutz beträgt normalerweise ca. *10 Jahre*, bei einer Verletzung
 wird sicherheitshalber allerdings schon bei einer *länger als 5 Jahre*
 zurückliegenden Impfung eine neuerliche Gabe verabreicht.
 
 Auch bei kleinen Verletzungen muss nach dem Impfschutz gefragt werden,
 dies muss auch unbedingt *dokumentiert werden!* Ist das Datum der
-letzten Impfung nicht sicher erinnerlich soll der Patient unverzüglich
-zu Hause im Impfpass nachschauen. Erforderlichenfalls soll der Patient
-unverzüglich eine Unfallabteilung aufsuchen. Die entsprechende
-Aufklärung muss am Revers bestätigt werden!
+letzten Impfung nicht sicher erinnerlich,
+soll der Patient unverzüglich zu Hause im Impfpass nachschauen.
+Erforderlichenfalls soll der Patient unverzüglich eine Unfallabteilung aufsuchen.
+Die entsprechende Aufklärung muss am Revers bestätigt werden!
 
 .. attention::
 
-    -   Eine mangelhafte Aufklärung
-        bzw. Dokumentation bezüglich Tetanus und
-        dessen Impfschutz ist grob fahrlässig und ein
-        Kunstfehler.
+    Eine mangelhafte Aufklärung
+    bzw. Dokumentation bezüglich Tetanus und
+    dessen Impfschutz ist grob fahrlässig und ein
+    Kunstfehler.
+
+
+
+.. index::
+    single: Sepsis
 
 .. _sepsis:
 
 Sepsis
 ======
 
+.. todo:: `#111 Sepsis: Überarbeitung <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/111>`_
 
 Eine Sepsis liegt dann vor, wenn sich innerhalb des Körpers ein Herd
 gebildet hat, von dem kontinuierlich oder periodisch pathogene Bakterien
@@ -636,6 +650,7 @@ Rahmen eines Systemic Inflammatory Response Syndrome (SIRS) möglich,
 z. B. nach einem schweren Trauma, nach Verbrennungen oder Gewebshypoxie.
 Siehe auch: Septischer Schock und Toxischer Schock
 (:ref:`schock-septischer`).
+
 
 Symptome
 --------
@@ -652,13 +667,17 @@ Grundsätzlich:
 -   Organversagen
 
 
+
+.. index::
+    single: Ebola
+
+.. _Ebola:
+
 Ebola
 =====
 
-
 Die :dfn:`Ebola-Viruserkrankung`
-:index:`\ <! Ebola-Viruserkrankung>`
-(:dfn:`Ebola` :index:`\ <! Ebola>`,
+(:dfn:`Ebola`,
 *engl.* *Ebola Virus Disease*, *Abkz.* *EVD*)
 ist eine seltene, schwere Infektionskrankheit,
 die durch Ebola-Viren verursacht wird.
@@ -738,7 +757,7 @@ bzw. die auf eine Ebola-Viruserkrankung untersucht werden sollen.
 
     #.  In den letzten 21 Tagen vor Beginn der Symptome:
 
-        #.  Aufenthalt in einem der betroffenen Gebiete 1
+        #.  Aufenthalt in einem der betroffenen Gebiete
         #.  Kontakt mit einem wahrscheinlichen
             oder bestätigten Ebola-Fall.
 

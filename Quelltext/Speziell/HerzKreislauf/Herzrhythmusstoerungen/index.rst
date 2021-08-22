@@ -2,7 +2,7 @@
 .. _herzrhythmusstoerungen:
 
 ###########################
-Herzrhythmusstörungen (#47)
+Herzrhythmusstörungen
 ###########################
 
 Herzrhythmusstörungen sind

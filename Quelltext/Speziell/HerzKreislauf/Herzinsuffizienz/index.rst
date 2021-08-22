@@ -7,7 +7,7 @@
 .. _Rechtsherzinsuffizienz:
 
 ########################
-Herzinsuffizienz (#46)
+Herzinsuffizienz
 ########################
 
 .. admonition:: Definition: Herzinsuffizienz

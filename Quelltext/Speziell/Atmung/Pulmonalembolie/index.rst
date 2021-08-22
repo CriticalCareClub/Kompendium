@@ -10,7 +10,7 @@
 .. _Pulmonalembolie:
 
 **************************
-Pulmonalembolie (#39)
+Pulmonalembolie
 **************************
 
 .. only:: not nosidebar

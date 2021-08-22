@@ -3,7 +3,7 @@
 .. _chp-JUF:
 
 ########################################################################
-Rechtliche Fallbeispiele (.at): *"Ein langer Dienst"* (#85)
+Rechtliche Fallbeispiele (.at): *"Ein langer Dienst"*
 ########################################################################
 
 

@@ -9,7 +9,7 @@
 .. _copd:
 
 **************************************
-Chronische Bronchitis und COPD (#35)
+Chronische Bronchitis und COPD
 **************************************
 
 

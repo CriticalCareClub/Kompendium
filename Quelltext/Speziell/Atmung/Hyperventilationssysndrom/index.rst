@@ -9,7 +9,7 @@
 .. _hyperventilationstetanie:
 
 *********************************************
-Hyperventilationssyndrom und -tetanie (#36)
+Hyperventilationssyndrom und -tetanie
 *********************************************
 
 

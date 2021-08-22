@@ -2,7 +2,7 @@
 .. _Patientenmanagement:
 
 ########################################
-Strukturierte Patientenbetreuung (#32)
+Strukturierte Patientenbetreuung
 ########################################
 
 Unter dem Begriff Patientenmanagement fasst man alle Maßnahmen und

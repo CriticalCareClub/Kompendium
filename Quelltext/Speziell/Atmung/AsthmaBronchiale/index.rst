@@ -3,7 +3,7 @@
     single: Asthma bronchiale
 
 *************************
-Asthma bronchiale (#34)
+Asthma bronchiale
 *************************
 
 .. only:: not nosidebar

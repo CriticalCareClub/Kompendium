@@ -6,7 +6,7 @@
 .. _BeatmungKontrolliert:
 
 ###################
-Beatmung (#23)
+Beatmung
 ###################
 
 

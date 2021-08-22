@@ -1,5 +1,5 @@
 ##################
-Terminologie (#29)
+Terminologie
 ##################
 
 Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung

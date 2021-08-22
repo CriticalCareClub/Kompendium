@@ -1,6 +1,6 @@
 
 ##########################################################
-Abdominale Störungen (#56)
+Abdominale Störungen
 ##########################################################
 
 Der Bauch ist eine echte Herausforderung. Er beinhaltet viele

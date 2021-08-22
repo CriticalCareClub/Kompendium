@@ -1,7 +1,7 @@
 .. _chp-psy:
 
 #################
-Psychiatrie (#68)
+Psychiatrie
 #################
 
 

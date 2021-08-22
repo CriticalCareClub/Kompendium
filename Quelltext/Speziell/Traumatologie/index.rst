@@ -1,7 +1,7 @@
 .. index:: Traumatologie
 
 ###################################
-Traumatologie (#73)
+Traumatologie
 ###################################
 
 Als :dfn:`Trauma` :index:`\ <! Trauma>` bezeichnet man eine

@@ -5,7 +5,7 @@
 .. _Lungenoedem:
 
 *********************
-Lungenödem (#37)
+Lungenödem
 *********************
 
 .. only:: not nosidebar

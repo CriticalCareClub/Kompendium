@@ -2,7 +2,7 @@
 .. _Taetigkeitsbild:
 
 #####################################
-Tätigkeitsbild und Orientierung (#28)
+Tätigkeitsbild und Orientierung
 #####################################
 
 

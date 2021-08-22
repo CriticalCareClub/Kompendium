@@ -9,7 +9,7 @@
 .. _Reanimation:
 
 ######################
-Reanimation (#31)
+Reanimation
 ######################
 
 ..

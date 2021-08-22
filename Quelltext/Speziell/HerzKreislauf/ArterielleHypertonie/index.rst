@@ -7,7 +7,7 @@
 .. _ArterielleHypertonie:
 
 ###########################
-Arterielle Hypertonie (#42)
+Arterielle Hypertonie
 ###########################
 
 .. only:: not nosidebar

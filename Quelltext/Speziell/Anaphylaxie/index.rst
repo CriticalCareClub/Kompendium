@@ -4,7 +4,7 @@
     single: Kontrastmittel; Allergie
 
 ############################
-Anaphylaxie (#57)
+Anaphylaxie
 ############################
 
 Eine **Allergie** ist eine fehlgeleitete Reaktion

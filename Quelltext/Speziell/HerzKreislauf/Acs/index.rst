@@ -9,7 +9,7 @@
 .. _Stemi:
 
 ###################################
-Akutes Koronarsyndrom (ACS) — (#40)
+Akutes Koronarsyndrom (ACS)
 ###################################
 
 

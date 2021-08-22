@@ -7,7 +7,7 @@
 .. _adr:
 
 ###############
-Appendix (#25)
+Appendix
 ###############
 
 .. toctree::

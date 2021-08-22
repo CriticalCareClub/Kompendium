@@ -1,6 +1,6 @@
 
 #####################################################
-Urologische Erkrankungen (#74)
+Urologische Erkrankungen
 #####################################################
 
 Erkrankungen des harnableitenden Systems.

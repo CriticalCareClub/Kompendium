@@ -1,7 +1,7 @@
 
 
 ############################################
-Infektions- und Entzündungskrankheiten (#63)
+Infektions- und Entzündungskrankheiten
 ############################################
 
 

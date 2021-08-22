@@ -10,7 +10,7 @@
 .. _atemstillstand:
 
 *******************************************************
-Allgemein: Störungen der Atemwege und der Atmung (#33)
+Allgemein: Störungen der Atemwege und der Atmung
 *******************************************************
 
 .. only:: not nosidebar

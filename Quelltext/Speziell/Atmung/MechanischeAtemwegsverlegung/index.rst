@@ -7,7 +7,7 @@
 .. _mechanische-atemwegsverlegung:
 
 **************************************
-Mechanische Atemwegsverlegung (#38)
+Mechanische Atemwegsverlegung
 **************************************
 
 .. only:: not nosidebar

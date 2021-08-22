@@ -2,7 +2,7 @@
 .. _thrombose:
 
 ####################################################################
-Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose (#52)
+Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose
 ####################################################################
 
 .. only:: not nosidebar

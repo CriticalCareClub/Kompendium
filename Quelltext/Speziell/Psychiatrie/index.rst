@@ -41,8 +41,9 @@ deren jeweiliger Krankheitswert ist oft umstritten, sehr vom einzelnen
 Patienten und seiner Situation abhängig: Während der eine Mensch an
 seiner Depression leidet, verarbeitet ein anderer seine
 Gefühlserfahrungen zu einem Lied und sichert sich dank der AKM [#Akm]_
-eine Einnahmequelle. (Subjektiv betrachtet erscheint die Depression
-manchmal als ein treibender Motor der Singe-/Songwriter-Szene.)
+eine Einnahmequelle.
+(Subjektiv betrachtet erscheint die Depression
+manchmal als ein treibender Motor der Singer-/Songwriter-Szene.)
 
 Einer der bekanntesten psychiatrischen Patienten war der niederländische
 Maler *Vincent van Gogh* (1853—1890). Im Alter von 35 Jahren erkrankte
@@ -97,7 +98,7 @@ Das Ziel des
 Unterbringungsgesetz ist es, das Maß der *Einschränkung der Freiheit des
 Patienten so gering wie möglich zu halten*.
 
-Auch im Rahmen der *Besachwaltung* kann ein *Gericht* das
+Auch im Rahmen der *Erwachsenenvertretung* kann ein *Gericht* das
 Selbstbestimmungsrecht des Patienten einschränken.
 
 Für die Arbeit im Rettungsdienst ist die Kenntnis einiger spezieller
@@ -183,7 +184,7 @@ Fallgeschichte
     Halluzinationen leide. Jedes Mal wenn sie das Badezimmer betritt,
     sieht sie eine ihr unbekannte Frau beim Fenster hinein schauen,
     obwohl sie im zweiten Stock wohnt. Sie erzählt, dass sie wisse, dass
-    es nicht real sein kann, trotzdem nimmt sie diese Frau so wahr als
+    es nicht real sein kann, trotzdem nimmt sie diese Frau so wahr, als
     würde sie tatsächlich vor dem Fenster stehen. Sie ist nun schon seit
     Jahren in psychiatrischer Behandlung, allerdings stellt sich keine
     Besserung ihrer Symptome ein. Die Patientin gibt an einen massiven
@@ -209,7 +210,7 @@ gibt es verschiedene Abstufungen.
 
 Die einfachste Form ist die :dfn:`Wahnidee` :index:`\ <Wahnidee>`. Hierbei hat der
 Patient eine klar abgegrenzte Vorstellung von etwas, was mit der
-Realität nicht vereinbar ist.
+Realität kaum oder gar nicht plausibel vereinbar ist:
 
     *"Das Gebühren-Info-Service des ORF kontrolliert jede Woche am
     Verteilerschrank, ob das Antennenkabel korrekt vom Verteiler
@@ -222,16 +223,16 @@ Diese Wahnideen können in weiterer Folge zu einem :dfn:`Wahnsystem` :index:`\ <
     geheime Abhöranlagen im ganzen Wohnhaus installiert hat. Bei
     unliebsamen Äußerungen der Bewohner werden Strahlen, welche das
     Denken beeinflussen können, in die Wohnungen geleitet. Um diesen zu
-    entgehen hat der Patient das Antennenkabel am Verteilerkasten
+    entgehen, hat der Patient das Antennenkabel am Verteilerkasten
     abgesteckt und zahlt keine Fernsehgebühren mehr. Da ihn nun der
     Geheimdienst nicht mehr erreichen kann, haben sie vom
     Gebühren-Info-Service einen Agenten vorbei geschickt, welcher nun
     gewaltsam die Gedanken des Patienten wegnehmen wollte."*
 
 
+
 .. index::
     single: Wahnthemen
-
 
 Wahnthemen
 ----------

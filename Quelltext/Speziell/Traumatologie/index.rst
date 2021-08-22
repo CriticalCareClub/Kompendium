@@ -68,7 +68,7 @@ bereits im Szenenüberblick bzw. indirekt in der Ersteinschätzung des
 Patienten. Der Unfallmechanismus kann dabei wichtige Hinweise auf
 mögliche bzw. wahrscheinliche Verletzungen des Patienten geben. Eine
 detaillierte Analyse des Unfallhergangs kann durch die Anamnese
-erfolgen. Zusätzlich kann das Unfallszenario fotographiert werden.
+erfolgen. Zusätzlich kann das Unfallszenario fotografiert werden.
 Primär müssen folgende Fragen geklärt werden:
 
 -   *Was ist passiert?*
@@ -595,8 +595,8 @@ Traumacheck durchgeführt werden, damit keine Begleitverletzungen
 übersehen werden. Dafür ist es unbedingt notwendig, dass der Patient
 entkleidet wird\ [#300]_. Beim Entfernen der Schuhe ist darauf zu achten,
 dass eine Person das Bein fixiert während eine andere Person den Schuh
-öffnet und schließlich mittels Stiefelgriff
-(siehe :ref:`vacuumbeinschiene-anwendung`)
+öffnet und schließlich mittels
+:ref:`Stiefelgriff <vacuumbeinschiene-anwendung>`
 vorsichtig vom Fuß abzieht.
 
 
@@ -677,7 +677,7 @@ Bei *stabilen Patienten*: Schienung}
         Ggfs. mit hypovolämischen Schock rechnen, Schockbekämpfung
     -   **Wundversorgung**:
         Bei offenen Frakturen ist
-        Keimfreiheit be\-sonders wichtig, da  die Gefahr einer lebenslangen
+        Keimfreiheit besonders wichtig, da  die Gefahr einer lebenslangen
         Knochenmarksentzündung (Osteomyelitis) besteht!
         Wenn möglich soll eine *Wundfolie*
         (z. B. OpSite™) verwendet werden.
@@ -945,8 +945,6 @@ Gefahren
         -   HWS-Verletzung
         -   Unregelmäßige Atmung
 
--   Das luzide Intervall kann zu einer katastrophalen Fehleinschätzung
-    des Patientenzustandes führen!
 -   Die Hirnstammeinklemmung ist akut lebensbedrohlich!
 -   :dfn:`Luzides Intervall` (lichtes
     Intervall)*: Die Symptome können eventuell erst Stunden nach der
@@ -984,14 +982,17 @@ Gefahren
     aufgrund einer direkten oder indirekten Hirn- bzw.
     Rückenmarksschädigung
 
-
-
 Aufgrund des lichten Intervalls können
 Symptome eines SHT erst
 Stunden nach der eigentlichen Verletzung auftreten.
 Bei einem SHT kann es zu einer Hirndrucksteigerung kommen, ,
 die in einer akut lebensbedrohlichen
 Hirnstammeinklemmung enden kann.
+
+.. danger::
+
+    Das **luzide Intervall** kann zu einer katastrophalen Fehleinschätzung
+    des Patientenzustandes führen!
 
 
 .. _sht-diagnostik:
@@ -1013,15 +1014,20 @@ Spezielle Diagnostik beim SHT
 
 Grundsätzlich ist beim Schädel-Hirn-Trauma die
 übliche Trauma-Diagnostik durchzuführen. Die *neurologische
-Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
+Beurteilung*, die Erhebung des *Unfallmechanismus*
+und die Suche nach
 *Begleit- oder Folgeverletzungen* sind besonders zu betonen.
 
 -   *Unfallmechanismus*: Anhand des Unfallmechanismus muss ermittelt
     werden, ob es eine Verletzung der (Hals-) Wirbelsäule wahrscheinlich
-    ist. Besonders bedenklich sind Sportverletzungen im Kopf- oder
+    ist und ob eine
+    :ref:`Indikation zur Wirbelsäulenimmobilisation <IndikationWirbelsaeulenimmobilisation>`
+    besteht.
+
+    Besonders bedenklich sind Sportverletzungen im Kopf- oder
     Nackenbereich, ein Trauma nach Sprung ins Wasser und
     Stauchungsverletzungen der HWS.
-    Ggfs. muss eine HWS-Immobilisation
+    Ggfs. muss eine *HWS-Immobilisation*
     durchgeführt werden
 
 -   *Neurologische Beurteilung*: Die neurologische Beurteilung ist beim
@@ -1029,19 +1035,20 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
     Ein *Neurocheck* ist verpflichtend. Auffälligkeiten können Hinweise
     auf eine direkte Hirnschädigung oder eine Hirnblutung sein.
 
-    Die *Bewusstseinslage* ist besonders genau abzuklären: Eine
-    Bewusstseinsstörunge kann auch andere Ursachen als den
+    Die *Bewusstseinslage* ist besonders genau abzuklären:
+    Eine Bewusstseinsstörung kann auch andere Ursachen als den
     gegenständlichen Unfall haben (Blutzucker, Alkohol, Exsikkose,
-    Schlaganfall, …). Evtl. ist diese andere Ursache überhaupt erst der
+    Schlaganfall, …).
+    Evtl. ist diese andere Ursache überhaupt erst der
     Auslöser für einen Unfall.
 
-    Die *Pupillen* können im Sinne von Hirndruckzeichen
-    (:ref:`hirndruckzeichen`) pathologisch sein (ungleich weit,
+    Die *Pupillen* können im Sinne von
+    :ref:`Hirndruckzeichen <hirndruckzeichen>`
+    pathologisch sein (ungleich weit,
     verlangsamte, einseitige oder fehlende Lichtreaktion).
 
     Daneben ist auch zu beurteilen, ob andere Hirndruckzeichen
-    (Hypertonie mit Bradykardie, Strecksynergismen, …) vorliegen, vgl.
-    :ref:`hirndruckzeichen`.
+    (Hypertonie mit Bradykardie, Strecksynergismen, …) vorliegen.
 
     Weiters muss auf *neurologische Ausfälle* (sensorisch, motorisch) in
     Folge einer *HWS-Verletzung* geachtet werden.
@@ -1049,8 +1056,8 @@ Beurteilung*, die Erhebung des *Unfallmechanismus* und die suche nach
     Die Schwere der Bewusstseinsstörung kann der erfahrene Helfer
     zusätzlich durch die Glasgow Coma Scale einschätzen.
 
--   *Traumacheck* Ein Traumacheck ist natürlich verpflichtend
-    durchzuführen (:ref:`traumacheck`).
+-   *Traumacheck*:
+    Ein :ref:`Traumacheck <traumacheck>` ist natürlich verpflichtend durchzuführen.
 
     Besonders zu beachten ist die Gefahr einer hohen Querschnittslähmung,
     ebenso dass Schädel, HWS und BWS eine Linie bilden.
@@ -1093,9 +1100,9 @@ Maßnahmen SHT
         |TxMassVitMKBes|
 
         -   Lagerung: s. u.
-        -   Monitoring: Zusätzlich Beurteilung nach GCS
-            (Verlauf beobachten und
-            dokumentieren, :ref:`gcs`)
+        -   Monitoring: Zusätzlich Beurteilung nach
+            :ref:`GCS <gcs>`
+            (Verlauf beobachten und dokumentieren)
 
     -   Lagerung: leicht erhöhter Oberkörper,
         ca. 30°,
@@ -1390,9 +1397,10 @@ Taktik
     zur Abklärung
 
 
-Vgl. :ref:`m-einschaetzung-indikation-ws-immobilisation`
 
 ⛑ Basismaßnahmen
+    -   Erkennen der
+        :ref:`Indikation zur Wirbelsäulenimmobilisation <IndikationWirbelsaeulenimmobilisation>`
     -   **HWS-Immobilisation** (HWS-Schiene)
     -   Bergung mit Schaufeltrage, Spineboard oder
         KED-System
@@ -1446,22 +1454,29 @@ Vgl. :ref:`m-einschaetzung-indikation-ws-immobilisation`
     -   **Transportentscheidung**: Schockraum
 
 
+.. index::
+    single: Thorax; -trauma
+
 ************
 Thoraxtrauma
 ************
 
 Ein Thoraxtrauma bezeichnet eine Gewalteinwirkung auf den Brustkorb
 mit Verletzung des Brustkorbes bzw. der darin enthaltenen Organe.
-
 Thoraxverletzungen gelten als besonders gefährlich, da im Brustkorb
 (Thorax) lebenswichtige Organe (Herz, Lunge) und große Gefäße liegen.
-Fast jeder zweite Verkehrstote hat ein Thoraxtrauma.
+Darüber hinaus hat die Stabilität des knöchernen Thorax einen wesentlichen Einfluss auf die :ref:`Atemmechanik <atemmechanik>`.
+
+Somit beinhaltet der Begriff sowohl Verletzungen des knöchernen Thorax,
+als auch Weichteilverletzungen der darin liegenden Organe.
 
 .. attention::
 
     -   Man darf niemals aufgrund der äußeren Verletzungen auf die Schwere
         des Thoraxtraumas schließen, da schwere innere Verletzungen auftreten
         können! Oft ist von außen gar keine Verletzung erkennbar.
+
+
 
 Symptome des Thoraxtraumas
 ==========================
@@ -1478,9 +1493,8 @@ Symptome des Thoraxtraumas
         -   Prellmarken
         -   Begleitverletzungen!
 
-Die Hauptgefahr beim Thoraxtrauma ist eine wesentliche Verletzung des
-knöchernen Brustkorbes (Sternumfraktur, Serienrippenfraktur), wodurch
-ein *instabiler Thorax* resultiert: Die Atemmechanik ist stark
+Durch die Verletzung des knöchernen Brustkorbes (Sternumfraktur, Serienrippenfraktur) kann ein *instabiler Thorax* resultieren:
+Die Atemmechanik ist stark
 beeinträchtigt, da sich die Lunge nicht mehr an den Rippen aufspannen
 kann. Es kommt folglich zu einer *paradoxen Atmung*, bei der sich der
 Brustkorb beim Einatmen senkt. Verletzt eine der gebrochenen Rippen die
@@ -1500,6 +1514,7 @@ daher kann es zu schweren *Begleitverletzungen* kommen. Besonders
 erwähnenswert sind hierbei die Lunge, das Herz, die Aorta, die Luft- und
 die Speiseröhre. Auch die Organe des Oberbauches (Leber, Milz, …) liegen
 hinter den den Rippen und können ebenfalls verletzt sein.
+Häufig kommt es auch zu Blutungen in den Thorax (:dfn:`Hämatothorax`).
 
 .. index:: Pneumothorax
 
@@ -1522,8 +1537,9 @@ Lungenoberfläche und innerer Thoraxwand herrscht beim Gesunden ein
 Unterdruck gegenüber dem äußeren Luftdruck. Die Lunge ist dadurch
 flexibel im Brustkorb aufgespannt. Beim Pneumothorax gelangt durch eine
 Verletzung Luft in diesen Pleuraspalt, welche den Unterdruck aufhebt und
-die Lunge zieht sich zusammen. Vgl. Anatomie: :ref:`atemmechanik`, und
-:ref:`pleura`.
+die Lunge fällt in sich zusammen und kollabiert
+(vgl. Anatomie: :ref:`atemmechanik` und
+:ref:`pleura`).
 
 Man unterscheidet zwischen
 :dfn:`offenem Pneumothorax` :index:`\ <Pneumothorax; offen>`
@@ -1532,11 +1548,10 @@ und
 :dfn:`geschlossenem Pneumothorax` :index:`\ <Pneumothorax; geschlossen>`
 (Luft strömt durch eine Verletzung der Lungenoberfläche von innen in den Pleuraspalt).
 
-Entsteht durch die Form der Wunde ein Ventilmechanismus wird beim
-Einatmen Luft in den Pleuraspalt gesogen, während sich beim Ausatmen die
-Wunde verschließt und die Luft nicht mehr entweichen kann. Dadurch füllt
-sich der Pleuraspalt mehr und mehr mit Luft, bis schließlich im
-betroffenen Pleuraspalt ein Überdruck entsteht. Im Extremfall drückt der
+Ist lediglich die lungenseitige Pleura verletzt,
+oder entsteht durch die Form der Wunde ein Ventilmechanismus bei dem keine Luft nach ausserhalb entweichen kann,
+entsteht durch die sich im Pleuraraum aufstauende Luft ein Überdruck.
+Im Extremfall drückt der
 Überdruck den Mittelfellraum mit dem Herz auf die Gegenseite, wodurch
 auch noch die gesunde Lungenhälfte und evtl. die Hohlvene komprimiert
 wird. Im schlimmsten Fall kann das Herz an seiner Bewegung gehindert
@@ -1664,8 +1679,10 @@ gegen einen Gegenstand oder eine Kante), Schlägereien (Knüppel!), oder
 Verletzungen durch einen Airbag.
 
 Nach Rippenfrakturen kann es durch spitze Fragmente zu einer Lungenfell-
-oder Lungenverletzung kommen, die aufgrund einer Blutung oder
-Ateminsuffizienz lebensgefährlich werden kann. Eine wesentliche
+oder Lungenverletzung kommen,
+die aufgrund einer Blutung
+(*Hämatothorax*)
+oder Ateminsuffizienz lebensgefährlich werden kann. Eine wesentliche
 Komplikation ist dabei die Entstehung eines **Pneumothorax**. Eine
 Röntgenuntersuchung und Verlaufskontrolle ist daher unbedingt
 erforderlich. Ebenso kann es zu einer Schädigung der Oberbauchorgane
@@ -1787,7 +1804,7 @@ Ein Bauchtrauma oder Abdominaltrauma ist eine Verletzung des Abdomens.
 In einigen Büchern ist das Bauchtrauma als Untergruppe des akuten
 Abdomens klassifiziert. Häufigste Ursachen sind Verkehrsunfälle, Stürze
 aus großer Höhe sowie Stoß- und Schlagverletzungen. (Redelsteiner et al.
-2005) Grundsätzlich ist zwischen offenem (perforierendem,
+1)    Grundsätzlich ist zwischen offenem (perforierendem,
 penetrierendem) und geschlossenem (stumpfem) Bauchtrauma zu
 unterscheiden. Alle Bauchtrauma können mit massiven inneren Blutungen
 verbunden sein.
@@ -1957,7 +1974,7 @@ unterscheidet man:
 -   :dfn:`Zweizeitige (sekundäre) Milzruptur`: Das Milzgewebe ist
     verletzt, die Kapsel bleibt jedoch erhalten: Es blutet zuerst in die
     noch erhaltene Kapsel ein und der Druck steigt. Wird der Druck zu
-    groß reißt nach einer gewissen Zeit, es kann sich dabei um Stunden
+    groß, reißt nach einer gewissen Zeit, es kann sich dabei um Stunden
     oder auch Tage handeln *(Latenzzeit)*, die Kapsel und der Patient
     blutet nun *plötzlich* ungehindert in den Bauchraum: **Der Patient
     wirkt zuerst unauffällig, unerwartet und plötzlich verschlechtert
@@ -2216,9 +2233,6 @@ Taktik
 Extremitätentrauma und Sportverletzungen
 ****************************************
 
-Beschreibung
-============
-
 Verletzungen der Extremitäten können in verschiedenen Formen auftreten:
 
 -   Verstauchung (Distorsion, :ref:`verstauchung-tra`)
@@ -2236,7 +2250,7 @@ bezeichnet einen kompletten oder inkompletten Abriss bzw. Abtrennung
 (von Teilen) einer Extremität oder eines anderen Körperteils, sodass
 deren Durchblutung ganz oder teilweise aufgehoben ist. Den abgetrennten
 Körperteil nennt man
-:dfn:`Amputat` :index:`\ <! Amputat>`.
+:dfn:`Amputat`\ :index:`\ <Amputat>`.
 
 Amputationen erfolgen meist bei Motorradunfällen oder
 Schnittverletzungen (z. B. mit einer Kreissäge). Je glatter die
@@ -2260,7 +2274,7 @@ Maßnahmen Versorgung eines Amputats
         (Verband)
     -   Transport in doppelwandigem
         Amputatsbeutel (Replant-Beutel) bei  einer Temperatur von
-        ca. 4° [Gorgass:7]_ [LPN:3]_ .
+        ca. 4°.
         Zwischen die beiden Schichten des Beutels gibt man Wasser
         mit Eis (im Verhältnis 1:1).
     -   Das Amputat darf auf keinen Fall einfrieren -- im
@@ -2269,7 +2283,7 @@ Maßnahmen Versorgung eines Amputats
         vermieden werden!
     -   Ausgeschlagene Zähne sollten in einer geeigneten
         antiseptischen Flüssigkeit transportiert werden.
-        [Gorgass:7]_
+
 
 
 Weitere Verletzungsbilder
@@ -2595,22 +2609,19 @@ Maßnahmen:  Verbrennung, leicht
         |TxBeiVit| |TxMassVitMK|
     -   Kleidung und Schmuck entfernen
         (sofern nicht eingeschmolzen!)
-    -   Nur wenn *unmittelbar nach dem Unfall*
-        Bereits zwei Minuten nach Verbrennungsbeginn
-        und damit bei Eintreffen
-        des Rettungsdienstes ist ein
-        positiver Effekt der Kühlung nicht mehr zu erwarten.
-        Bei mehreren Minuten zurückliegenden Verbrennungen
-        ist eine Kühlung nicht mehr sinnvoll.
-        damit begonnen werden kann, für max. 10 \ min mit handwarmen
-        Wasser die betroffenen Körperregionen spülen;
+    -   Kühlung mit handwarmen Wasser: Nur *unmittelbar nach dem Unfall!*
 
+        Für max. 10 min mit handwarmen
+        Wasser die betroffenen Körperregionen spülen.
         Bei Frösteln des Patienten früher abzubrechen:
         **Gefahr der Unterkühlung!**
+
+        Bereits zwei Minuten nach Verbrennungsbeginn
+        ist ein positiver Effekt der Kühlung nicht mehr zu erwarten
+        und daher nicht mehr sinnvoll.
     -   **Abdeckung**:
         Sterile, nicht verklebende
-        Wundauflagen; evtl. metalliserte Wundauflagen
-        [Redelsteiner:1]_\ ; locker anlegen
+        Wundauflagen; evtl. metalliserte Wundauflagen; locker anlegen
     -   Ggfs. Schockbekämpfung
 
 
@@ -2627,10 +2638,9 @@ Maßnahmen: Verbrennung, schwer
     -   Kleidung und Schmuck entfernen (sofern nicht  eingeschmolzen!)
     -   Besonders auf **Wärmeerhalt** achten!
     -   Luftzug vermeiden
-    -   *Keine* Kühlung
+    -   *Keine* Kühlung der betroffenen Hautregionen!
         Bei großflächigen Verbrennungen sollte der Patient
         nur primär abgelöscht werden.
-        Es soll keine Kühlung der betroffenen Hautregionen erfolgen.
     -   **Abdeckung**:
         Sterile, nicht verklebende
         Wundauflagen, evtl. metalliserte Wundauflagen
@@ -2647,9 +2657,10 @@ Maßnahmen: Verbrennung, schwer
         zur Not auch saubere Leintücher o. ä.
         verwendet werden [AAOS:9]_\ .
     -   Schockbekämpfung
-    -   Kolloidale Infusionslösungen sind *kontraindiziert*
+    -   *Kolloidale* Infusionslösungen sind *kontraindiziert** [#KolloidaleLsgVerbrennung]_\ **!**
 
-
+.. [#KolloidaleLsgVerbrennung]
+    Im Rahmen der Verbrennungskrankheit kommt es zu einem Capillary Leak, daher können kolloidale Stoffe in das Gewebe übertreten und eine unerwünschte Volumsverschiebung in das Gewebe und damit massive Ödeme verursachen können. Erschwerend kommt hinzu, dass künstliche kolloidale Stoffe oft nur schwer im Gewebe wieder abgebaut werden.
 
 Was man **nicht** tun darf …
 ============================
@@ -2703,7 +2714,7 @@ Stunden erreicht werden. Eine engmaschige Beobachtung des Patienten ist
 daher sehr wichtig.
 
 
-Volles Ausmaß oft erst nach Stunden!
+Das volle Ausmaß wird oft erst nach Stunden erreicht!
 
 
 .. _TT49091C:
@@ -2713,10 +2724,10 @@ Maßnahmen: Inhalationstrauma
 ------------------------------
 
 ⛑ Basismaßnahmen
-    -   Vitale Bedrohung einschätzen. \par
+    -   Vitale Bedrohung einschätzen.
         |TxBeiVit| |TxMassVitMK|
     -   Lagerung: Oberkörper hoch
-    -   O₂-Gabe gemäß \prettyref{m:sauerstoffberieselung}
+    -   :ref:`O₂-Gabe <m-sauerstoffberieselung>`
     -   Engmaschiges Monitoring
 
 
@@ -2887,16 +2898,20 @@ Bedrohung ist bei Elektrounfällen sehr schwierig. Dies hat mehrere
 Gründe:
 
 #.  Die Wirkung des Stromes im menschlichen Körper hängt von mehreren
-    Faktoren ab: Höhe der elektrischen Spannung\ [#306]_,
-    Stärke des elektrischen Stromes\ [#307]_, der Stromart
-    (Gleich- oder Wechselstrom),
-    dem Weg des Stromes durch den Körper, dem
-    Kontaktwiderstand (feuchte Hände, Wasserlacke, …) und der
-    Einwirkzeit. Meistens sind die Zahlenwerte dieser Faktoren im
+    Faktoren ab:
+
+    -   Höhe der elektrischen Spannung (Volt, [#306]_)
+    -   Stärke des elektrischen Stromes (Ampere, [#307]_)
+    -   Stromart (Gleich- oder Wechselstrom)
+    -   Weg des Stroms durch den Körper
+    -   Kontaktwiderstand (feuchte Hände, Wasserlacke, …)
+    -   Einwirkzeit
+
+    Meistens sind die Zahlenwerte dieser Faktoren im
     Einsatzfall jedoch nicht bekannt, sodass eine theoretische
     Abschätzung der Gefährung praktisch nicht durchführbar ist.
 
-#.  Die *Strommarken* (Verbrennungen an den Ein- und Austrittsstellen)
+#.  Die **Strommarken** (Verbrennungen an den Ein- und Austrittsstellen)
     sind i. d. R. klein, sodass die Schädung im Körperinneren nicht
     abgeschätzt werden kann. Im Zweifelsfall muss man mit ausgedehnten
     inneren Verletzungen rechnen.
@@ -2962,8 +2977,8 @@ Stromüberlandleitungen (Hochspannungsleitungen)
     über den menschlichen Körper von einem Fuß zum anderen Fuß kommen
     kann (*Schrittspannung*). Bei gerissenen Hochspannungsleitungen darf
     man daher keine großen Schritte machen, oder stromleitende
-    Gegenstände (z. B. Matalle) berühren (vgl. Gefahrenzonen:
-    :ref:`gefahrenzonen`)!
+    Gegenstände (z. B. Metalle) berühren
+    (vgl. :ref:`Gefahrenzonen <gefahrenzonen>`!
 
 Bahnanlagen
     Die Eisenbahn arbeitet mit einer Oberleitungsspannung von 15 000 V,

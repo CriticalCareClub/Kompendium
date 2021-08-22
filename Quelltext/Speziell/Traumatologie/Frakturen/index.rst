@@ -3,7 +3,7 @@
 .. _frakturen:
 
 ***********************************
-Verletzungen der Knochen: Frakturen
+Knochentrauma: Frakturen
 ***********************************
 
 

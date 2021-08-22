@@ -3,7 +3,7 @@
 .. _wirbelsaeulentrauma:
 
 ************************************************
-Verletzungen der Wirbelsäule und des Rückenmarks
+Wirbelsäulen- und Rückenmarkstrauma
 ************************************************
 
 

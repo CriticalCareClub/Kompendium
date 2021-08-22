@@ -1,7 +1,7 @@
 
 
 *****************************************************
-Verletzungen der Gelenke: Verrenkung und Verstauchung
+Gelenkstrauma: Verrenkung und Verstauchung
 *****************************************************
 
 .. _verstauchung-tra:

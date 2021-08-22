@@ -1,6 +1,6 @@
 
 ****************************************
-Extremitätentrauma und Sportverletzungen
+Extremitätentrauma
 ****************************************
 
 Verletzungen der Extremitäten können in verschiedenen Formen auftreten:

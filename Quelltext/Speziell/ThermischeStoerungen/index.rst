@@ -7,7 +7,6 @@ Thermische Schädigungen (#71)
 
 
 
-
 .. _Hitzeerkrankungen:
 .. _system-Hitzeschaeden:
 

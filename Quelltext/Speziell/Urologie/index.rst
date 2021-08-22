@@ -5,6 +5,13 @@ Urologische Erkrankungen (#74)
 
 Erkrankungen des harnableitenden Systems.
 
+
+.. index::
+    pair: Ausfuhr; Flüssigkeitsbilanz
+    pair: Einfuhr; Flüssigkeitsbilanz
+    single: Harnkatheter
+
+
 ********************
 Exkurs: Harnkatheter
 ********************
@@ -21,18 +28,24 @@ Exkurs: Harnkatheter
         -   Infektionsgefahr
 
 Ein *Harnkatheter* ist ein harnableitendes System, bei dem ein Schlauch
-(Katheter) über die Harnröhre in die Harnblase eingeführt wird um Harn
+(Katheter) über die Harnröhre in die Harnblase eingeführt wird, um Harn
 abzulassen. Mittels eines aufblasbaren Ballons kann der Katheter in der
-Blase fixiert werden, man spricht dann vom *Dauerkatheter*. Am
-Harnkatheter kann ein **Harnbeutel** :index:`\ <Harnbeutel>` angeschlossen werden,
-welcher den Urin sammelt und sich entleeren lässt. Der Harnbeutel muss
-*unter dem Patienten angebracht* sein, da andernfalls der Urin
-zurückrinnen würde. Beim Umlagern ist daher der zum Patienten führende
+Blase fixiert werden, man spricht dann vom *Dauerkatheter*.
+Am Harnkatheter kann ein **Harnbeutel** :index:`\ <Harnbeutel>` angeschlossen werden,
+welcher den Urin sammelt und sich entleeren lässt.
+Der Harnbeutel muss
+*unter dem Patienten angebracht* sein,
+damit der Urin der Schwerkraft folgend abrinnen kann;
+andernfalls würde der Urin zurückrinnen.
+Beim Umlagern ist daher der zum Patienten führende
 *Schlauch abzuklemmen*. Der Katheter und das daran hängende System ist
 eine mögliche *Eintrittspforte für Keime*, daher ist auf einen sauberen,
-kontaminationsfreien Umgang zu achten. Wenn der Harnbeutel ausgelassen
-werden muss, so ist die abgelassene Menge zu notieren, da bei manchen
-Patienten der Flüssigkeitshaushalt bilanziert wird.
+kontaminationsfreien Umgang zu achten.
+Wenn der Harnbeutel abgelassen
+werden muss,
+so ist die abgelassene Menge zu notieren,
+damit der Flüssigkeitshaushalt (Einfuhr, Ausfuhr; Flüssigkeitsbilanz)
+bilanziert werden kann.
 
 Ein Harnkatheter ist eine medizinisch-pflegerische Routinemaßnahme und
 entsprechend oft bei Patienten anzutreffen.
@@ -54,9 +67,11 @@ Nierenkolik
 Beschreibung und Ursachen
 =========================
 
-Eine :dfn:`Nierenkolik` :index:`\ <! Nierenkolik>` ist gekennzeichnet durch
-kolikartige Schmerzen aufgrund einer Blockade des Harnleiters und dem
-daraus folgenden Harnstau. Vgl. Kolik: :ref:`kolik`.
+Eine :dfn:`Nierenkolik` :index:`\ <! Nierenkolik>`
+ist gekennzeichnet durch
+kolikartige Schmerzen aufgrund einer Blockade des Harnleiters
+und dem daraus folgenden Harnstau und Dehnung des Harnleiters,
+vgl. :ref:`Kolik <kolik>`.
 
 Sie ist eine
 äußerst schmerzhafte akute Erkrankung und entsteht meist dadurch, dass
@@ -122,11 +137,12 @@ Harnwegsinfekt und Nierenbeckenentzüdung
 Als :dfn:`Harnwegsinfekt` :index:`\ <! Harnwegsinfekt>` wird allgemein eine Infektion
 der Harnwege bezeichnet.
 
-Besonders gefährdet sind Frauen, infolge der
+Besonders gefährdet sind Frauen aufgrund der
 kürzeren Harnröhre und der normalen bakteriellen Besiedelung der
-Scheide. Die häufigsten Erreger sind, aufgrund der räumlichen Nähe,
+Scheide.
+Die häufigsten Erreger sind, aufgrund der räumlichen Nähe,
 klassische Darmkeime (E. coli). Wird ein Harnwegsinfekt nicht behandelt,
-kann die Infektion aufsteigen und eine Nierenbeckenentzüdung
+kann die Infektion aufsteigen und eine Nierenbeckenentzündung
 verursachen.
 
 Eine :dfn:`Nierenbeckenentzüdung` :index:`\ <! Nierenbeckenentzüdung>` ist eine
@@ -193,20 +209,24 @@ Akuter Harnverhalt
         -   Verlegung der Harnröhre
         -   Medikamente
 
-Ein :dfn:`Akuter Harnverhalt` :index:`\ <! Akuter Harnverhalt>` ist Abflussbehinderung des
-Harns aus der Harnblase, bei der verschiedene Ursachen möglich sind.
+Ein :dfn:`Akuter Harnverhalt` :index:`\ <! Akuter Harnverhalt>`
+ist eineAbflussbehinderung des
+Harns aus der Harnblase,
+bei der verschiedene Ursachen möglich sind.
 
-Es ist besonders bei Männern im "besten" oder fortgeschrittenem Alter
-häufig anzutreffen. Hauptursache dafür ist eine altersbedingte
-Vergrößerung der Prostata, die die Harnröhre abschnürt. Davon abgesehen
+Besonders betroffen sind Männer im fortgeschrittenen Alter
+aufgrund der häufigen altersbedingten
+Vergrößerung der Prostata,
+die die Harnröhre abschnürt.
+Davon abgesehen
 können auch alte Narben, Medikamente oder eine Störung der Schließmuskel
 der Harnblase [#HarnverhaltBeispiel]_ zu Harnverhalten führen.
 
 Je nach Füllungszustand der Harnblase kann das Harnverhalten sehr
 schmerzhaft sein. Die Maßnahmen beschränken sich auf einen zügigen
-Transport an eine Abteilung für Urologie. Eine Notarzt-Nachforderung ist
-kaum sinnvoll, da ein NEF oder NAW selten geeignetes Material zur
-Harnableitung mitführt.
+Transport an eine Abteilung für Urologie.
+Eine medikamentöse Schmerztherapie ist selten sinnvoll,
+Erlösung bringt die schnelle Harnableitung z. B. mittels eines Harnkatheters.
 
 
 .. [#HarnverhaltBeispiel]
@@ -249,7 +269,7 @@ beeinträchtigte, herabgesetzte Funktion der Nieren.
 
 Typischerweise kommt es im Rahmen anderer chronischer Krankheiten
 (Diabetes mellitus, Hypertonie, erhöhte Blutfette …) zu einer
-allmählichen Schädigung der kleinen Nierengefäße und in weiterer Folge
+allmählichen Schädigung der kleinen Nierengefäße, in weiterer Folge
 zur Insuffizienz und schließlich zum Nierenversagen. Da die zuvor
 erwähnten Krankheiten sehr häufig sind, ist in weiterer Folge die
 Niereninsuffizienz ebenfalls häufig anzutreffen.
@@ -287,25 +307,33 @@ Besonderheiten  und Gefahren
 Die Niereninsuffizienz und die
 Nierenersatztherapien bergen Gefahren für den Patienten:
 
--  Dialyse-Patienten haben häufig einen *Dialyse-Shunt* (:ref:`shunt`).
-   Die Verbindungsstelle zwischen Arterie und Vene ist verletzlich, hier
-   kann es zu Blutungen kommen.
--  Je nach Schweregrad kann der Ausfall der normalen Nierenfunktion
-   Auswirkungen auf den *Wasserhaushalt*, den *Elektrolythaushalt* und
-   den *Säure-Basen-Haushalt* haben. Diese Funktionen der Niere sind zum
-   Überleben elementar (Vitalfunktionen zweiter Ordnung).
-   Dialysepatienten müssen daher oft, abhängig von der verbliebenen
-   Flüssigkeitsausscheidung, auf Ihre Trinkmenge achten.
-   Bei einer
-   Überwässerung kann es zu einem Lungenödem kommen.
-   Weiters können Elektrolytstörungen
-   :index:`\ <Elektrolytstörungen; Dialyse>`
-   zu lebensbedrohlichen **Herzrhythmusstörungen**
-   :index:`\ <Herzrhythmusstörungen; Dialyse>`
-   bis hin zum Herzstillstand führen.
--  Die **Dialyse** :index:`\ <Dialyse>` stellt einen schwerwiegenden Eingriff in
-   den Wasser- und Elektrolythaushalt dar, dementsprechend kann es auch
-   nach einer Dialyse zu den oben genannten Elektrolytstörungen kommen!
+-   Dialyse-Patienten haben häufig einen *Dialyse-Shunt* (:ref:`shunt`).
+    Die Verbindungsstelle zwischen Arterie und Vene ist verletzlich,
+    hier kann es zu Blutungen kommen.
+    Die Extremität an welcher ein Shunt angelegt ist soll nach Möglichkeit geschont werden
+    (keine Blutdruckmessung, keine Gefäßzugänge, etc.).
+-   Patienten, bei denen eine Peritonealdialyse durchgeführt wird,
+    verfügen über einen Zugang in den Peritonealraum,
+    über welchen die Dialyseflüssigkeit eingefüllt wird.
+    Dieser Zugang kann zu einer Keimverschlepptung und einer
+    bakteriellen :ref:`Peritonitis <Peritonitis>` führen.
+-   Je nach Schweregrad kann der Ausfall der normalen Nierenfunktion
+    Auswirkungen auf den *Wasserhaushalt*, den *Elektrolythaushalt* und
+    den *Säure-Basen-Haushalt* haben.
+    Diese Funktionen der Niere sind zum
+    Überleben elementar (Vitalfunktionen zweiter Ordnung).
+    Dialysepatienten müssen daher oft, abhängig von der verbliebenen
+    Flüssigkeitsausscheidung, auf ihre Trinkmenge achten.
+    Bei einer
+    Überwässerung kann es zu einem Lungenödem kommen.
+    Weiters können Elektrolytstörungen
+    :index:`\ <Elektrolytstörungen; Dialyse>`
+    zu lebensbedrohlichen **Herzrhythmusstörungen**
+    :index:`\ <Herzrhythmusstörungen; Dialyse>`
+    bis hin zum Herzstillstand führen.
+-   Die **Dialyse** :index:`\ <Dialyse>` stellt einen schwerwiegenden Eingriff in
+    den Wasser- und Elektrolythaushalt dar, dementsprechend kann es auch
+    nach einer Dialyse zu den oben genannten Elektrolytstörungen kommen!
 
 
 

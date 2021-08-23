@@ -4,7 +4,7 @@
 
 .. _Hypotonie:
 
-Hypotonie (#43)
+Hypotonie
 ===============================
 
 

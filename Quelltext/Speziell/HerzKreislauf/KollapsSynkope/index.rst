@@ -3,7 +3,7 @@
 .. _Kollaps:
 .. _synkope:
 
-Kollaps und Synkope (#48)
+Kollaps und Synkope
 --------------------------
 
 Als Kollaps bzw. Synkope bezeichnet man eine kurzfristige

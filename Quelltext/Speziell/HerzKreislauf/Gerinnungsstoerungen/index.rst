@@ -1,6 +1,6 @@
 
 ##########################
-Gerinnungsstörungen (#45)
+Gerinnungsstörungen
 ##########################
 
 Gerinnungsstörungen können vielfältige Ursachen haben, beispielsweise:

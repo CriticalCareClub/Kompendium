@@ -3,7 +3,7 @@
     single: Asthma bronchiale
 
 *************************
-Asthma bronchiale (#34)
+Asthma bronchiale
 *************************
 
 .. only:: not nosidebar
@@ -70,9 +70,12 @@ Status Asthmaticus
         -   Anfall hört nicht mehr auf
 
 Der Status asthamticus ist eine gefürchtete Komplikation
-des Asthmaanfalles bei der die Atemnot nicht wieder vergeht. Es besteht
-die Gefahr, dass der Patient nach einiger Zeit keine Kraft mehr zum
-Atmen hat (Erschöpfung). Der Status asthmaticus kann tödlich enden.
+des Asthmaanfalles,
+bei der die Atemnot nicht wieder vergeht.
+Es besteht die Gefahr,
+dass der Patient nach einiger Zeit keine Kraft mehr zum
+Atmen hat (Erschöpfung).
+Der Status asthmaticus kann tödlich enden.
 
 
 ABCDE
@@ -89,17 +92,18 @@ ABCDE
             Einsatz der Atemhilfsmuskulatur
 
         ③
-            Schwerer Anfall: **|symbol-RedFlag|**\ Bewusstseinsstörungen
+            Schwerer Anfall: **🚩**\ Bewusstseinsstörungen
 
         ④
             Akute Atemnot
 
         Ⓑ
-            Akute Atemnot mit trockenem Husten, Verlängerte Ausatmungsphase, AF
-            ↑, Exspiratorisches Atemgeräusch (Stridor)
+            Akute Atemnot mit trockenem Husten, Verlängerte Exspiration,
+            AF ↑,
+            Exspiratorisches Atemgeräusch (Stridor)
 
             Schwerer Anfall: Kein oder leises Atemgeräusch,
-            |symbol-RedFlag|\  SpO2 ↓↓
+            🚩\  SpO2 ↓↓
 
             Zeichen einer erschwerten Atemarbeit:
 
@@ -107,12 +111,12 @@ ABCDE
             -   Einziehungen an den Rippen
             -   Erschöpfungszeichen
 
-            Endstadium: |symbol-RedFlag|\  Atemarbeit erschöpft
+            Endstadium: 🚩\  Atemarbeit erschöpft
 
         Ⓒ
-            HF ↑
+            HF ↑
 
-            Schwerer Anfall: HF ↓
+            Schwerer Anfall: HF ↓
 
         **=**
             Schwere Atemnot: Vital bedroht. Erschöpfung: Atemarbeit
@@ -129,29 +133,30 @@ ABCDE
     stützt sich oft nach vorne oder hinten ab.
 
 ③
-    Im schweren Anfall kann es zu |symbol-RedFlag|\
+    Im schweren Anfall kann es zu 🚩\
      *Bewusstseinsstörungen* kommen.
 
 ④
     Das Leitsymptom ist die Atemnot.
 
 Ⓑ
-    Die Atemfrequenz ist erhöht (*Tachypnoe*), die |symbol-RedFlag|\
+    Die Atemfrequenz ist erhöht (*Tachypnoe*), die 🚩\
     *Sauerstoffsättigung* kann erniedrigt sein.
-    Bei einer manifesten Hypoxie kann eine |symbol-RedFlag|\  *Zyanose*
+    Bei einer manifesten Hypoxie kann eine 🚩\  *Zyanose*
     beobachtbar sein.
 
     Oft ist ein pfeifendes, brummendes oder giemendes Atemgeräusch,
-    besonders während der Ausatmung (*Exspiration*, *exspiratorischer
-    Stridor*) wahrnehmbar. Die Exspiration ist außerdem verlängert.
+    besonders während der *Exspiration* (*exspiratorischer
+    Stridor*) wahrnehmbar.
+    Die Exspiration ist außerdem verlängert.
     Trockener Husten ist häufig.
 
     Im *schweren Anfall* ist oft *kein*, oder nur mehr ein *leises
     Atemgeräusch* hörbar, da kaum mehr Luft bewegt wird (*silent
     chest*).
-    Die |symbol-RedFlag|\  Sauerstoffsättigung ist stark
-    vermindert und der Patient ist |symbol-RedFlag|\  *zyanotisch*.
-    Im Endstadium kann der Patient zu |symbol-RedFlag|\  erschöpft für
+    Die 🚩\  Sauerstoffsättigung ist stark
+    vermindert und der Patient ist 🚩\  *zyanotisch*.
+    Im Endstadium kann der Patient zu 🚩\  erschöpft für
     eine ausreichende *Atemarbeit* sein.
 
     Bei der Einschätzung der Atmung ist es wichtig auf die *Zeichen
@@ -161,7 +166,7 @@ ABCDE
     -   Einziehungen an den Rippen
     -   Erschöpfungszeichen
 
-    Es besteht die Gefahr der |symbol-RedFlag|\  *Erschöpfung der
+    Es besteht die Gefahr der 🚩\  *Erschöpfung der
     Atemmuskulatur* und einer reduzierten Atemarbeit.
 
 Ⓒ
@@ -203,7 +208,7 @@ SAMPLER
     Gräser, Pollen, Tierhaare usw.
 
 🄼
-    Oft werden Sprays bzw. Inhalatoren zur Dauertherpaie und für den
+    Oft werden Sprays bzw. Inhalatoren zur Dauertherapie und für den
     Anfall eingesetzt. Manche Medikamente, insbesonders
     Schmerzmedikamente, können Anfälle auslösen\ [#227]_.
     Nahm der Patient

@@ -49,6 +49,9 @@ Abkürungsverzeichnis und Glossar
         der Atemwegssicherung angesehen, dies berücksichtigt aber nicht die
         Sicherheit der Anwendung.
 
+    Exspiration
+        Ausatmung
+
     FMC
         First Medical Contact
 
@@ -65,6 +68,9 @@ Abkürungsverzeichnis und Glossar
 
     ICR
         Intercostalraum. Vgl. :ref:`Intercostalraum`
+
+    Inspiration
+        Einatmung
 
     intermittieren
         zeitweilig aussetzen,
@@ -146,6 +152,9 @@ Abkürungsverzeichnis und Glossar
         Jod-haltigen Kontrastmitteln), sowie eine Einschränkung der
         Nierenfunktion. Häufige unbedenkliche Nebenwirkungen sind ein Wärme-
         oder Hitzegefühl sowie ein metallischer Geschmack.
+
+Mekonium
+    Der erste Stuhl des Neugeborenen, der während der intrauterinen Entwicklung gebildet wird.
 
     NSTEMI
         Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt.

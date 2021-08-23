@@ -1,7 +1,7 @@
 
 
 #########################################
-*Spezielle Patientengruppe:* Kinder (#66)
+*Spezielle Patientengruppe:* Kinder
 #########################################
 
 
@@ -13,8 +13,10 @@ Umgang mit Kindern
 Der Umgang soll prinzipiell schonend erfolgen, Aufregung soll nach
 Möglichkeit vermieden werden. Wichtig ist, dem Kind eine Bezugsperson zu
 geben; Die Vertrauensperson bzw. Eltern müssen unbebedingt in die
-(Be-)Handlung einbezogen werden. Nach Möglichkeit soll das Kind während
-eng bei Vertrauensperson belassen werden (auf den Schoss setzen, …).
+(Be-)Handlung einbezogen werden.
+Nach Möglichkeit soll das Kind während der Betreuung
+eng bei der Vertrauensperson belassen werden
+auf den Schoss setzen, …).
 [LPN:3]_
 
 .. _kind-besonderheiten:
@@ -24,8 +26,9 @@ Anatomische und physiologische Besonderheiten
 *********************************************
 
 Kinder unterscheiden sich wesentlich von
-erwachsenen Patienten, nicht nur in ihrer Fähigkeit ihre Umwelt und
-gesetzte Handlungen zu verstehen, sondern auch hinsichtlich ihrer
+erwachsenen Patienten, nicht nur in ihrer Fähigkeit,
+ihre Umwelt und gesetzte Handlungen zu verstehen,
+sondern auch hinsichtlich ihrer
 Anatomie und Physiologie.
 Die Tabelle :ref:`Table-altersgruppen-kinder` zeigt eine
 Übersicht über die Einteilung von Kindern nach Altersgruppen.
@@ -315,7 +318,8 @@ Ursachen
 
 Es wird viel über die möglichen Ursachen spekuliert. Als mögliche
 Ursache wird oft ein unreifes Atemzentrum und eine zentrale
-Atemregulationsstörung angeführt Letzten Endes ist die genaue *Ursache
+Atemregulationsstörung angeführt.
+Letzten Endes ist die genaue *Ursache
 unbekannt*, eine verlässliche Vorhersage, welche Kinder betroffen sein
 werden, gibt es nicht. Es wurden lediglich Risikogruppen wie
 Frühgeburten und Zwillingsgeschwister von betroffenen Kindern,
@@ -385,6 +389,9 @@ Gartenteiche, Seen, Schwimmbecken, Badeanstalten oder auch Wannenbäder
 stellen eine Gefahrenquelle im Alltag dar.
 
 
+.. attention::
+
+    Nobody is dead until warm and dead!
 
 
 .. _MT75010C:
@@ -447,7 +454,8 @@ Die Körpertemperatur ist immer zu messen!
 
 Kindesmisshandlung
 ==================
-Siehe :ref:`kindesmisshandlung`
+
+Siehe :ref:`kindesmisshandlung`.
 
 **********
 Literatur

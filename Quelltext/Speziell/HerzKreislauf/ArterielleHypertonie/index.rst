@@ -7,7 +7,7 @@
 .. _ArterielleHypertonie:
 
 ###########################
-Arterielle Hypertonie (#42)
+Arterielle Hypertonie
 ###########################
 
 .. only:: not nosidebar
@@ -186,7 +186,7 @@ ABCDE
     (*Organstörungen*), z. B. oft zu  neurologischen
     Symptomen wie  Kopfschmerzen und
      **Sehstörungen**, weiters evtl. zu
-     **Brustschmerzen**, Übelkeit, |symbol-RedFlag|\
+     **Brustschmerzen**, Übelkeit, 🚩\
      Erbrechen und
      Schwindel.
 
@@ -205,7 +205,7 @@ ABCDE
     Hochroter Kopf
 
 ④
-    Nasenbluten,  Kopfschmerzen, |symbol-RedFlag|\
+    Nasenbluten,  Kopfschmerzen, 🚩\
     **Sehstörungen**,   Brustschmerzen, Übelkeit,
      Erbrechen,  Schwindel
 

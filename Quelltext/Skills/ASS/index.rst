@@ -1,7 +1,7 @@
 
 
 ##########################
-Assistenztätigkeiten (#59)
+Assistenztätigkeiten
 ##########################
 
 

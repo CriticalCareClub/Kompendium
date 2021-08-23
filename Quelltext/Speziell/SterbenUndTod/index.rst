@@ -1,6 +1,6 @@
 
 ############################################
-Sterben und Tod (#54)
+Sterben und Tod
 ############################################
 
 ::
@@ -84,8 +84,11 @@ gelten [Hochmeister:2]_ [GrassbergerTodesermittlung:1]_: 
     *Tierfraß* und *Skelettierung*
 
 Die ersten drei Punkte sind *frühe Leichenerscheinungen*, da sie relativ
-rasch auftreten. Andere frühe Leichenerscheinungen sind die *Abkühlung
-der Leiche* und die *Totenstarre*. Längere Zeit nach dem Tod treten die
+rasch auftreten. Andere frühe Leichenerscheinungen
+(aber *keine* sicheren Todeszeichen!)
+sind die *Abkühlung der Leiche*
+und die *Totenstarre*.
+Längere Zeit nach dem Tod treten die
 *späten Leichenerscheinungen* auf.
 
 Die Feststellung der Todeszeichen und Leichenerscheinungen ist jedoch
@@ -128,8 +131,9 @@ werden:
     Darunter versteht man den Verzehr eines Kadavers
     durch Kadaverfresser. Ein frischer Hundebiss oder
     Ähnliches fällt *nicht* darunter. Maden können
-    sich im Gewebe von Lebenden einnisten und sind daher
-    auch kein sicheres Todeszeichen.}
+    sich im Gewebe von Lebenden einnisten
+    bzw. werden auch therapeutisch eingesetzt)
+    und sind daher auch kein sicheres Todeszeichen.
 -   (Verbindliche) **Patientenverfügung**
 
     Im Rahmen der Notfallversorgungen darf
@@ -142,10 +146,12 @@ werden:
     Verbindlichkeit bestätigt hat), muss dieser Folge
     geleistet werden.
 
-    Liegt eine *beachtliche Patientenverfügung* vor, so ist im
-    *Einzelfall* zu entscheiden: Das Wohl des Patienten bleibt
+    Liegt eine*beachtliche
+    :ref:`Patientenverfügung <patientenverfuegung>`
+    vor, so ist im *Einzelfall* zu entscheiden:
+    Das Wohl des Patienten bleibt
     oberstes Gebot und die Verfügung soll in die
-    Entscheidung einfließen. Vgl. :ref:`patientenverfuegung`.
+    Entscheidung einfließen.
 
     Bis zur zweifelsfreien Klärung der Situation muss
     jedenfalls eine Reanimation begonnen bzw. fortgeführt
@@ -256,7 +262,7 @@ Transportes. Dennoch gibt es einige Dinge zu bedenken:
     Viele Patienten wollen nicht in einem
     Spital oder einer anderen Institution, sondern zu Hause sterben.
     Dieser Wunsch ist zu akzeptieren. Es muss abgeklärt werden, ob der
-    Patient einsichts- und urteilsfähig (Bedenke: Besachwaltung!)
+    Patient einsichts- und urteilsfähig (Bedenke: Erwachsenenvertretung!)
     und wie er sonst versorgt
     (Essen auf Rädern, Heimhilfe, Angehörige, …) ist.
 -   *Patientenverfügungen*:
@@ -282,7 +288,7 @@ Folgende Leitsätze können unter Umständen hilfreich sein:
 -   *Persönliche Abgrenzung*:
     Das Problem des Patienten bleibt
     grundsätzlich das Problem des Patienten. Eine Übernahme der Probleme
-    des Patienten durch den Helfer ist weder möglich noch sinvoll.
+    des Patienten durch den Helfer ist weder möglich noch sinnvoll.
 
 -   Der Helfer muss im Rahmen der Möglichkeiten im Sinne des Patienten
     handeln und seine angemessenen Bedürfnisse befriedigen.
@@ -292,8 +298,8 @@ Folgende Leitsätze können unter Umständen hilfreich sein:
     möchte, muss man wissen, was *er* tatsächlich will.
 
     Man muss sich also ständig vor Augen halten, dass im Umgang mit
-    Sterbenden manche, sonst übliche, Ansichten nicht – oder nur
-    eingschränkt – gelten.
+    Sterbenden manche, sonst übliche, Ansichten nicht
+    — oder nur eingschränkt — gelten.
 
 
 

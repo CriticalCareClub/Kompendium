@@ -1,7 +1,7 @@
 .. _chp-jus:
 
 #################################
-Rechtliche Grundlagen (.at) (#84)
+Rechtliche Grundlagen (.at)
 #################################
 
 

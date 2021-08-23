@@ -1,7 +1,7 @@
 .. _ArteriellerGefaessverschluss:
 
 ##############################################
-Peripherer arterieller Gefäßverschluß (#51)
+Peripherer arterieller Gefäßverschluß
 ##############################################
 
 .. only:: not nosidebar

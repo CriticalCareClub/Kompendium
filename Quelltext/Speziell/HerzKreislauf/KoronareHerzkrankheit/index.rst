@@ -14,7 +14,7 @@
 .. _khk:
 
 #############################
-Koronare Herzkrankheit (#49)
+Koronare Herzkrankheit
 #############################
 
 

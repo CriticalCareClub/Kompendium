@@ -2,8 +2,8 @@
 
 
 
-Vergiftungen (`#72 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/72>`_)
-###########################################################################################################################
+Vergiftungen
+########################################################################
 
 
 
@@ -20,7 +20,7 @@ durch eine aufgenommene Substanz.
 Vergiftungen sind eine interessante
 Sache: Ein an sich nützlicher Stoff kann sich in eine todbringende Waffe
 verwandeln, wenn er im Übermaß zugeführt wird. So ist zum Beispiel ein
-Überleben ohne Salz nicht möglich. Führt man jedoch 20dag zu, endet das
+Überleben ohne Salz nicht möglich. Führt man jedoch 200 g zu, endet das
 meist tödlich. Sonst nützliche Medikamente können schon bei einer
 Dosisabweichung im Mikrogramm-Bereich eine fatale Wirkung haben.
 
@@ -43,10 +43,11 @@ Die Aufnahme der Substanz kann über verschiedene Wege erfolgen:
 -   *Inhalativ*: Einatmen
 -   *Stechen, spritzen*: in die Vene
     (intravenös, z. B. Drogenkonsum), in
-    den Muskel, in die Haut (z. B. Insektenstich)
+    den Muskel, in die Haut (z. B. Insektenstich, Bisswunden)
 -   *Über die Haut*: transkutan; fettlösliche Substanz kann Hautbarriere
     durchdringen (z. B.: organische Lösungsmittel, Insektenschutzmittel
-    etc.)
+    etc.).
+    Die schließt auch Schleimhäute und Verätzungen ein.
 
 *******************************
 Vergiftungsinformationszentrale
@@ -211,6 +212,8 @@ Chronische Schäden
 -   Fetales Alkoholsyndrom (Schädigung des Fötus in der Schwangerschaft)
     [Jones:1973]_ [Guerri:2009]_
 
+
+
 ******************************
 Vergiftungen durch Medikamente
 ******************************
@@ -225,6 +228,12 @@ Neben unabsichtlichen Fehleinnahmen oder Überdosierungen werden
 Arzneimittel oft auch in Selbstmordabsicht eingenommen. Die Umstände der
 Einnahme müssen daher abgeklärt werden.
 
+
+
+.. index::
+    pair: Intoxikation; Paracetamol
+    pail: n-Acetylcystein; Antidot
+
 Paracetamol
 =============================
 
@@ -232,9 +241,14 @@ Paracetamol
     Mexalen™, APA™
 
 Paracetamol kann in hoher Dosis zu Leberversagen führen. Symptome treten
-erst nach Stunden auf. Es gibt ein Gegenmittel, dieses muss jedoch
+erst nach Stunden auf.
+Es gibt ein Gegenmittel (n-Acetylcystein), dieses muss jedoch
 rechtzeitig gegeben werden. Ohne Behandlung kommt es zum Leberversagen
 und in Folge zum Tod.
+
+
+.. index::
+    pair: Intoxikation; Digitalis
 
 Digitalis
 =========
@@ -245,6 +259,9 @@ eingesetzt. Es ist jedoch sehr schwierig die richtige Dosis für einen
 Patienten zu finden, daher kommt es — trotz korrekter Einnahme — häufig
 zu Überdosierungen. Die Folge sind Herzrhythmusstörungen und andere
 EKG-Veränderungen und "Farbensehen".
+
+
+
 
 ****************************************
 Vergiftungen mit Suchtmitteln und Drogen
@@ -433,11 +450,14 @@ Maßnahmen: Vergiftung mit Stickgasen
 
 
 
+.. index::
+    pair: Intoxikation; Kohlenmonoxid
+    single: CO; Intoxikation
+
+
 Kohlenmonoxid (CO) – oder: Von defekten Heizlüftern, Gasthermen und Autoabgasen
 -------------------------------------------------------------------------------
 
-Einleitung
-^^^^^^^^^^
 
 Kohlenmonoxid (CO) ist ein farb- und geruchloses Gas. Es entsteht bei
 unvollständiger Verbrennung (O₂-Zufuhr ↓), dies
@@ -512,18 +532,27 @@ Maßnahmen: Vergiftung mit Kohlenmonoxid
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/2006-01-31-gaswienheute2.*
 
-    VergiftungRegelmäßig kommt es zu Unfällen durch defekte Gasthermen oder
+    CO-Vergiftung in einem Wohnhaus in Wien
+
+    Regelmäßig kommt es zu Unfällen durch defekte Gasthermen oder
     Heizlüfter. Bei diesem Einsatz war ein RTW des ASB
-    Floridsdorf-Donaustadt beteiligt. Die dritte Patientin wurde erst
-    *nachdem die Feuerwehr *sämtliche*\ (!) Wohnungen des Wohnhauses
-    aufgebrochen hatte* in der *darüberliegenden Wohnung* gefunden.Wien
-    heute, http://wien.orf.at\
+    Floridsdorf-Donaustadt beteiligt.
+    Die dritte Patientin wurde erst,
+    nachdem die Feuerwehr *sämtliche*\ (!) Wohnungen des Wohnhauses
+    aufgebrochen hatte,
+    in der *darüberliegenden Wohnung* gefunden.
+
+    [Österreichischer Rundfunk, http://wien.orf.at/stories/86725, zuletzt abgerufen am 31.01.2006]
+
+
+
+
+.. index::
+    pair: Intoxikation; Kohlendioxid
+    single: CO₂; Intoxikation
 
 Kohlendioxid (CO₂) – Tod im Weinkeller
 --------------------------------------
-
-Beschreibung
-^^^^^^^^^^^^
 
 Kohlendioxid ist ein farb- und geruchsloses Gas. Es ist schwerer als
 Luft und sammelt sich z. B. in Mulden, Weinkellern, Silos, etc. Es fällt

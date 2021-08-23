@@ -5,7 +5,7 @@
 .. _Aneurysma:
 
 #################################################
-Aneurysmen der großen arteriellen Gefäße (#41)
+Aneurysmen der großen arteriellen Gefäße
 #################################################
 
 .. only:: not nosidebar

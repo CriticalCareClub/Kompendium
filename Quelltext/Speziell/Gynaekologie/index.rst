@@ -1,6 +1,6 @@
 
 ########################################################################
-Gynäkologie (#62)
+Gynäkologie
 ########################################################################
 
 
@@ -13,8 +13,17 @@ Betreuung in der Schwangerschaft
 
 Vgl. :ref:`schwangerschaft`
 
+
+
+
 Notfälle in der Frühschwangerschaft
 ===================================
+
+
+
+.. index::
+    single: Abort
+    single: Fehlgeburt
 
 .. _fehlgeburt:
 .. _abort:
@@ -31,14 +40,15 @@ Fehlgeburt
 
 Ein
 :dfn:`Abort`
-:index:`\ <Abort>`
 ist die
 Beendigung einer Schwangerschaft bzw. Fruchtabgang bei einem
-Kindesgewicht von unter 500 und fehlenden Lebenszeichen [Haag:3]_ [Hochmeister:2]_ \ .
+Kindesgewicht von unter 500 g und fehlenden Lebenszeichen
+[Haag:3]_ [Hochmeister:2]_ \ .
 Aufgrund verschiedener Ursachen kann es zum Absterben der
 Frucht mit einer nachfolgenden Fehlgeburt (Ausstoßung) kommen.
 Wenn dies vor dem Erreichen von 500 g geschieht,
-spricht man von einer *Fehlgeburt*.
+spricht man von einer :dfn:`Fehlgeburt`.
+
 
 
 Symptome
@@ -64,7 +74,7 @@ Regelblutung"* fehlgedeutet wird. Weiters kann es zum *Abgang von
 Gewebeteilen* und *Unterbauchschmerzen* kommen.
 Eine Fehlgeburt kann
 jedoch auch zu einem späteren Zeitpunkt während der Schwangerschaft vor
-Erreichen der 500-Grenze des Kindes vorkommen\ [#275]_.
+Erreichen der 500 g-Grenze des Kindes vorkommen\ [#275]_.
 
 
 
@@ -171,9 +181,10 @@ Maßnahmen: Eileiterschwangerschaft, rupturiert
         -   Schockbekämpfung
 
 
+
+
 .. index::
     single: Plazentalösung; vorzeitige
-
 
 Notfälle in der Spätschwangerschaft
 ===================================
@@ -203,6 +214,7 @@ infolge der Blutung. Zusätzlich zu den Schocksymptomen kann die Frau
 Symptome eines *akuten Abdomens* zeigen.
 
 
+
 .. _GO45090C:
 .. _m-plazentaloesung:
 
@@ -220,12 +232,13 @@ Maßnahmen: Vorzeitige Plazentalösung
 
 
 
+.. index::
+    single: Vena cava; Kompressionssysdrom
 
 .. _vena-cava-syndrom:
 
 Vena-cava-Kompressionssyndrom
 -----------------------------
-
 
 Bei hochschwangeren Frauen kann es vorkommen, dass das *Kind die untere
 Hohlvene der Mutter abdrückt*. Dadurch wird der Blutstrom zum Herzen
@@ -236,8 +249,8 @@ rechts der Körpermitte verläuft.
 
 .. note::
 
-    -  *Jede hochschwangere Patientin* soll in (leichter)
-       Linksseitenlage und nicht in Rückenlage transportiert werden.
+    -   *Jede hochschwangere Patientin* soll in (leichter)
+        Linksseitenlage und nicht in Rückenlage transportiert werden.
 
 
 
@@ -380,8 +393,7 @@ Die Geburt
 
 Als *Beginn der Geburt* zählt:
 
--   Regelmäßige Wehen in 10–15 Minuten Abstand auftreten und
-    dieser Zustand länger als eine Stunde dauert
+-   Regelmäßige Wehen in 10—15 Minuten Abstand für länger als eine Stunde
 -   Sprung der Fruchtblase und Abgang von Fruchtwasser
 
 Die Geburt verläuft in 3 Phasen:
@@ -429,6 +441,8 @@ Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
     Nabelschnurvorfalls in den Geburtskanal!
 
 [Buehling:2004]_ [Haag:3]_
+
+
 
 Austreibungsphase
 -----------------
@@ -573,14 +587,14 @@ Betreuung der Gebärenden und Transport
 Anhand des Wehenabstandes und dem Vorliegen oder Nichtvorliegen eines
 Pressdrangs oder Blasensprungs kann man den Fortschritt der Geburt
 einschätzen. Bei Mehrgebärenden ist der Geburtsverlauf oft rascher.
-Befindet sich die Mutter noch in der Eröffnungsphase wird ein
-schnellstmöglicher, schonender Transport ins Krankenhaus angestrebt.
+Befindet sich die Mutter noch in der Eröffnungsphase,
+wird ein schnellstmöglicher, schonender Transport ins Krankenhaus angestrebt.
 Grundsätzlich soll die Gebärende in, zumindest leichter, *Seitenlage*
 transportiert werden um ein *Vena-cava-Kompressionssyndroms*
 (vgl. :ref:`vena-cava-syndrom`) zu vermeiden.
-Idealerweise wird nach lins
-(Linksseitenlage) gelagert, doch ist das nicht zwingend. Ab dem
-erfolgtem *Blasensprung* darf die werdende Mutter jedenfalls nur mehr
+Idealerweise wird in *Linksseitenlage* gelagert,
+doch ist das nicht zwingend.
+Ab dem erfolgtem *Blasensprung* darf die werdende Mutter jedenfalls nur mehr
 *liegend* transportiert werden, um einen Nabelschnurvorfall vorzubeugen.
 Sollte die Mutter stehend angetroffen werden, muss dies dokumentiert
 werden.
@@ -636,11 +650,11 @@ Maßnahmen: Versorgung des Neugeborenen
 
             Absaugen ist nur notwendig,
             wenn die Atemwege verlegt sind.
-            Eine solche Verlegung kann aufgrund von Mekonium,
+            Eine solche Verlegung kann aufgrund von Mekonium\ [#fnMekonium]_,
             auch wenn das Neugeborene keine Mekoniumablagerungen auf
             der Haut zeigt, aber auch Blutkoageln, zähem Schleim
             oder Vernix bestehen. Wird abgesaugt, ist zu bedenken,
-            dass zu heftiges oropharyngeales Ab- saugen das
+            dass zu heftiges oropharyngeales Absaugen das
             Einsetzen einer suffizienten Spontanatmung verzögern
             und zu einem Laryngospasmus sowie zu einer vagalen
             Bradykardie führen kann. Das Vorhandensein von
@@ -677,6 +691,9 @@ Maßnahmen: Versorgung des Neugeborenen
     pragmatischer Kompromiss.
 
 
+.. [#fnMekonium]
+    *Mekonium:*
+    Der erste Stuhl des Neugeborenen, der während der intrauterinen Entwicklung gebildet wird.
 
 
 .. _fig-neugeborenes-versorgung:
@@ -727,8 +744,7 @@ Maßnahmen: Versorgung des Neugeborenen
 
                     (:ref:`m-neugeborenes-basisreanimation`)
 
-::
-
+..
     % Nachdem ein Neugeborenes dieser Gruppe getrocknet und in
     % warme Tücher gewickelt wurde, ist meist eine kurze
     % Maskenbeatmung ausreichend. Kommt es darunter nicht zu einem
@@ -747,9 +763,6 @@ Maßnahmen: Versorgung des Neugeborenen
     % weites Spektrum, wie z. B. eine Zwerchfellhernie,
     % Surfactant-Mangel, eine kongenitale Pneumonie, einen
     % Pneumothorax oder ein angeborenes zyanotisches Herzvitium.
-
-
-    }
 
 
 
@@ -843,6 +856,7 @@ Maßnahmen: Basisreanimation des Neugeborenen
     -   |TxMassVitMK|
 
 
+
 Peripartale Asphyxie
 ---------------------------
 
@@ -860,12 +874,15 @@ Wird die Ursache nicht rechtzeitig behoben
 und bleibt die Hypoxie bestehen,
 kommt es zu einer irreperablen Hirnschädigung.
 
+
+
 Symptome
 ^^^^^^^^
 
 Das Leitsymptom einer Asphyxie ist eine *Herzfrequenz < 100 / min*, eine
 *unzureichende Atmung* (Schnappatmung, fehlende Atmung) und/oder ein
-*schlaffer Muskeltonus* des Kindes Weitere Hinweise auf eine Asphyxie
+*schlaffer Muskeltonus* des Kindes.
+Weitere Hinweise auf eine Asphyxie
 sind eine grünlich-trübe Verfärbung des Fruchtwassers sowie eine
 *fortbestehende Zyanose* (eine Zyanose unmittelbar nach der Geburt ist
 normal).
@@ -1107,11 +1124,4 @@ Maßnahmen: Vaginale Blutung
 
 ⛑ Basismaßnahmen
     -   Lagerung nach Fritsch
-
-
-.. rubric:: Literatur
-
-[Haag:3]_ [Buehling:2004]_ [OHCSP:7]_ [Nilsson:1997]_
-
-
 

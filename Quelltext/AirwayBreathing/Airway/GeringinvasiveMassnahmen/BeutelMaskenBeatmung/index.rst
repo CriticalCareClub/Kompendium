@@ -1,5 +1,4 @@
 .. _BeutelMaskenBeatmung:
-.. _BeutelMaskenBeatmung:
 
 ########################################################################
 Beutel-Masken-Beatmung

@@ -9,7 +9,7 @@
 .. _hyperventilationstetanie:
 
 *********************************************
-Hyperventilationssyndrom und -tetanie (#36)
+Hyperventilationssyndrom und -tetanie
 *********************************************
 
 
@@ -62,7 +62,7 @@ ABCDE: Hyperventilationssyndrom
 
         Ⓑ
             Klagt über Atemnot, Tachypnoe, aber sonst keine physischen Anzeichen
-            (keine Zyanose, SpO2 normal, …)
+            (keine Zyanose, SpO₂ normal, …)
 
         Ⓒ
             HF und RR evtl. ↑

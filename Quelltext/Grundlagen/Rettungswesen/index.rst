@@ -4,9 +4,9 @@
     single: Rettungswesen
     single: Einsatztaktik
 
-********************************************************************************************************************************
-Rettungswesen und Einsatztaktik (`#27 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/27>`_)
-********************************************************************************************************************************
+************************************************************************
+Rettungswesen und Einsatztaktik
+************************************************************************
 
 Einführung in die Strukturen des Rettungswesens und der Einsatztaktik.
 

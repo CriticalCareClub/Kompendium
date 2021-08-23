@@ -1,7 +1,7 @@
 
 
 ###############################################################
-Opfer von Kriminalität, Misshandlung und Vernachlässigung (#64)
+Opfer von Kriminalität, Misshandlung und Vernachlässigung
 ###############################################################
 
 
@@ -34,6 +34,9 @@ geschlechtlichen Handlung, nötigt. [#279]_
 .. [#279]
     §201 StGB
 
+
+.. index::
+    single: Nötigung; geschlechtliche
 
 Geschlechtliche Nötigung
 ------------------------
@@ -98,10 +101,29 @@ Maßnahmen: Vergewaltigung
     -   Besonders wichtig: Ausführliche sachliche Erklärung aller durchzuführenden Maßnahmen
     -   Symptomatische Betreuung von Begleitverletzungen
     -   Keine nicht unbedingt notwendigen Untersuchungen
-    -   Gynäkologische Untersuchungen erst innerklinisch durch einan Fachmann mit Set zur Beweissicherung
+    -   Gynäkologische Untersuchungen erst innerklinisch durch Fachpersonal mit Set zur Beweissicherung
     -   Ziel: Abt. f. Gynäkologie
     -   weiterführende psychologische Betreuung
 
+
+
+.. index::
+    single: Missbrauch; sexueller
+    single: Missbrauch; sexueller; durch Angehörige eines Gesundheitsberufes
+    single: StGB; § 205
+    single: StGB; § 206
+    single: StGB; § 207
+    single: StGB; § 207b
+    single: StGB; § 208
+    single: StGB; § 212
+    single: Handlungen, geschlechtliche
+    single: Unmündige; sexueller Missbrauch
+    single: Beischlaf
+    single: Beischlaf; gleichzusetzende Handlung
+    single: Jugendliche; sexueller Missbrauch
+    single: Entgelt; sexuelle Handlungen von Jugendlichen
+    single: Zwangslage; sexueller Missbrauch von Jugendlichen
+    single: Schutzbefohlene; Missbrauch eines Autoritätsverhältnisses
 
 Sexueller Missbrauch
 --------------------
@@ -113,12 +135,33 @@ bestehender Abhängigkeiten oder anderer Gründe
 *besonderen Schutz durch das Gesetz genießt*. Darunter fällt:
 
 -   Sexueller Missbrauch einer wehrlosen oder psychisch beeinträchtigten
-    Person [#281]_
--   Schwerer sexueller Missbrauch von Unmündigen [#282]_
--   Sexueller Missbrauch von Unmündigen [#283]_
--   Sexueller Missbrauch von Jugendlichen [#284]_
--   Sittliche Gefährdung von Personen unter sechzehn Jahren [#285]_
--   Missbrauch eines Autoritätsverhältnisses [#286]_
+    Person
+    (wehrlose Person oder eine Person, die wegen einer
+    Geisteskrankheit, wegen einer geistigen Behinderung, wegen einer
+    tiefgreifenden Bewusstseinsstörung oder wegen einer anderen schweren,
+    einem dieser Zustände gleichwertigen seelischen Störung *unfähig ist,
+    die Bedeutung des Vorgangs einzusehen*; `§ 205 StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40152324/NOR40152324.html>`_)
+-   Schwerer sexueller Missbrauch von Unmündigen
+    (Beischlaf oder gleichzusetzende Handlung an Unmündigen; `§ 206 StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40152325/NOR40152325.html>`_)
+-   Sexueller Missbrauch von Unmündigen
+    (geschlechtliche Handlung an Unmündigen;
+    `§ 207 StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40152326/NOR40152326.html>`_)
+-   Sexueller Missbrauch von Jugendlichen
+    (geschlechtliche Handlung an einer Person,
+    die das *16. Lebensjahr* noch nicht vollendet hat
+    und aus bestimmten Gründen noch nicht reif genug ist,
+    unter Ausnützung dieser mangelnden Reife sowie der
+    *altersbedingten Überlegenheit*
+    oder *unter Ausnützung einer Zwangslage*;
+    oder an einer Person, die das 18. Lebensjahr noch nicht vollendet hat, durch Verleitung mittels Entgelt;
+    `§ 207b StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40173698/NOR40173698.html>`_
+-   Sittliche Gefährdung von Personen unter sechzehn Jahren
+    (`§ 208 StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40173699/NOR40173699.html>`_)
+-   Missbrauch eines Autoritätsverhältnisses
+    (Geschlechtliche Handlung an Schutzbefohlenen;
+    Abs. 2 Z 1 bezieht sich dabei explizit auf
+    *Angehörige eines gesetzlich geregelten Gesundheitsberufes* [#MissbrauchAutoritaetsverhaeltnis]_;
+    `§ 212 StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40194049/NOR40194049.html>`_
 
 Der sexuelle Missbrauch geschieht meist über lange Zeit und ist nur
 selten ein "akutes" Problem. Wichtig hierbei ist es, ihn zu erkennen und
@@ -126,104 +169,22 @@ eine ausführliche Dokumentation schon im Verdachtsfall anzufertigen.
 
 
 
-.. [#281]
-    §205. (1) Wer eine wehrlose Person oder eine Person, die wegen einer
-    Geisteskrankheit, wegen einer geistigen Behinderung, wegen einer
-    tiefgreifenden Bewusstseinsstörung oder wegen einer anderen schweren,
-    einem dieser Zustände gleichwertigen seelischen Störung *unfähig ist,
-    die Bedeutung des Vorgangs einzusehen* …, … dadurch missbraucht, dass
-    er an ihr eine *geschlechtliche Handlung* vornimmt oder von ihr an
-    sich vornehmen lässt oder sie zu einer geschlechtlichen Handlung mit
-    einer anderen Person oder, …, dazu verleitet, eine geschlechtliche
-    Handlung an sich selbst vorzunehmen, ist mit Freiheitsstrafe … zu
-    bestrafen.
+.. admonition:: Missbrauch durch Angehörige eines Gesundheitsberufes
 
-    (2) …
+    Wer als Angehöriger eines gesetzlich geregelten Gesundheitsberufes mit einer berufsmäßig betreuten Person eine geschlechtliche Handlung vornimmt oder von einer solchen Person an sich vornehmen lässt oder dazu verleitet, eine geschlechtliche Handlung an sich selbst vorzunehmen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen
+    (`§ 212 Abs. 2 Z 1, Zusammenfassung <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40194049/NOR40194049.html>`_).
 
-.. [#282]
-    unmündigen Person den Beischlaf oder … gleichzusetzende
-    geschlechtliche Handlung unternimmt, ist mit Freiheitsstrafe … zu
-    bestrafen.
 
-    (2) … (3) … (4) …
 
-.. [#283]
-    §207. (1) Wer … eine geschlechtliche Handlung an einer *unmündigen
-    Person* vornimmt oder von einer unmündigen Person an sich vornehmen
-    lässt, ist mit Freiheitsstrafe … zu bestrafen.
+.. index::
+   single: Kindesmisshandlung
 
-    (2) … (3) …
-
-    (4) Übersteigt das Alter des Täters das Alter der unmündigen Person
-    nicht um mehr als vier Jahre …, so ist der Täter nach Abs. 1 und 2
-    *nicht zu bestrafen*, es sei denn, die unmündige Person hätte das
-    zwölfte Lebensjahr noch nicht vollendet.
-
-.. [#284]
-    §207b. (1) Wer an einer Person, die das *16. Lebensjahr* noch nicht
-    vollendet hat und aus bestimmten Gründen noch nicht reif genug ist, …
-    unter Ausnützung dieser mangelnden Reife sowie seiner
-    *altersbedingten Überlegenheit* eine geschlechtliche Handlung
-    vornimmt, …, ist … zu bestrafen.
-
-    (2) Wer an einer Person, die das 16. Lebensjahr noch nicht vollendet
-    hat, *unter Ausnützung einer Zwangslage* dieser Person eine
-    geschlechtliche Handlung vornimmt, …, ist … zu bestrafen.
-
-    (3) Wer eine Person, die das 18. Lebensjahr noch nicht vollendet hat,
-    unmittelbar durch ein Entgelt dazu verleitet, eine geschlechtliche
-    Handlung … vorzunehmen …, ist … zu bestrafen.
-
-.. [#285]
-    §208. (1) Wer eine Handlung, die geeignet ist, die sittliche,
-    seelische oder gesundheitliche Entwicklung von Personen unter
-    sechzehn Jahren zu gefährden, vor einer unmündigen Person oder einer
-    seiner Erziehung, Ausbildung oder Aufsicht unterstehenden Person
-    unter sechzehn Jahren vornimmt, um dadurch sich oder einen Dritten
-    geschlechtlich zu erregen oder zu befriedigen, ist mit
-    Freiheitsstrafe bis zu einem Jahr zu bestrafen, es sei denn, daß nach
-    den Umständen des Falles eine Gefährdung der unmündigen oder Person
-    unter sechzehn Jahren ausgeschlossen ist.
-
-    (2) …
-
-.. [#286]
-    §212.
-    (1) Wer
-
-        1.  mit einer mit ihm in absteigender Linie verwandten minderjährigen
-            Person, seinem minderjährigen Wahlkind, Stiefkind oder Mündel oder
-
-        2.  mit einer minderjährigen Person, die seiner Erziehung, Ausbildung
-            oder Aufsicht untersteht, unter Ausnützung seiner Stellung gegenüber
-            dieser Person
-
-            eine geschlechtliche Handlung vornimmt …, ist … zu bestrafen.
-
-    (2) Ebenso ist zu bestrafen, wer
-
-        1.  als Arzt, klinischer Psychologe, Gesundheitspsychologe,
-            Psychotherapeut, *Angehöriger eines Gesundheits- und
-            Krankenpflegeberufes* oder Seelsorger *mit einer berufsmäßig
-            betreuten Person*,
-
-        2.  als Angestellter einer Erziehungsanstalt oder sonst als in einer
-            Erziehungsanstalt Beschäftigter mit einer in der Anstalt betreuten
-            Person oder
-
-        3.  als Beamter mit einer Person, die seiner amtlichen Obhut
-            anvertraut ist, unter Ausnützung seiner Stellung dieser Person
-            gegenüber eine geschlechtliche Handlung vornimmt …
+.. _kindesmisshandlung:
 
 
 *****************************
 Missbrauch und Misshandlungen
 *****************************
-
-.. index::
-   single: Kindesmisshandlung
-
-.. _kindesmisshandlung :
 
 Kindesmisshandlung
 ==================
@@ -272,8 +233,8 @@ Die Aufgaben des Rettungsdienstes bei Verdacht auf Kindesmisshandlung besteht in
         evtl. Vorwand für die Hospitalisierung suchen,
         aber wenn ein begründeter
         Verdacht auf eine Misshandlung besteht
-        und die Erziehungsberechtigten unkooperativ sind
-        notfalls auch die Exekutive beiziehen.
+        und die Erziehungsberechtigten unkooperativ sind.
+        Ggfs. ist auch die Polizei beizuziehen.
 
 
 .. caution::

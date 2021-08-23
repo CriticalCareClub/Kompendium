@@ -1,7 +1,7 @@
 
 .. _kreislaufstillstand:
 
-Kreislaufstillstand (#50)
+Kreislaufstillstand
 ============================
 
 :Querverweis:   :ref:`Reanimation`

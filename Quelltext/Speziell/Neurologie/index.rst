@@ -1,7 +1,7 @@
 
-#################################################################################################################################################
-Neurologische Störungen (`#65 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/65>`_)
-#################################################################################################################################################
+########################################################################
+Neurologische Störungen
+########################################################################
 
 
 Neurologische Störungen sind Störungen bzw. Erkrankungen und Notfälle
@@ -446,7 +446,7 @@ können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
 
 -   *Motorik*: Störungen der Kraft und Beweglichkeit sind sehr häufig.
     Charakteristisch für einen Schlaganfall sind sog.
-    :dfn:`Halbseitenzeichen` :index:`\ <! Halbseitenzeichen>`:
+    :dfn:`Halbseitenzeichen`\ :index:`\ <! Halbseitenzeichen>`:
     Es kommt dabei zu einer *einseitigen
     Kraftminderung*, dies kann bis zu einer *schlaffen, kompletten
     Lähmung* führen. Ein *herabhängender Mundwinkel* ist ein Zeichen
@@ -491,9 +491,11 @@ können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
     -   Strecksynergismen
 
 -   *Blutdruck*: Der Blutdruck ist in der Akutsituation in der Regel
-    erhöht und sinkt spontan innerhalb der nachfolgenden Stunden. Es wird
-    allgemein empfohlen Blutdruckwerte bis zu tolerieren, wenn nicht
-    cardiopulmonale Gründe (Myocardischämie, Herzinsuffizienz, …) andere
+    erhöht und sinkt spontan innerhalb der nachfolgenden Stunden.
+    Es wird allgemein empfohlen,
+    erhöhte Blutdruckwerte zu tolerieren,
+    wenn nicht kardiopulmonale Gründe
+    (Myokardischämie, Herzinsuffizienz, …) andere
     Grenzwerte erfordern.
 
 Präklinisch kann man nicht sicher zwischen einer Ischämie (trockener
@@ -600,7 +602,7 @@ dass diese Therapie möglichst schnell erfolgt.
                 darf man sich nicht durch die durch den Schlaganfall
                 verursachten Symptome
                 (Sprachstörungen, Blickstarre ...)
-                beirren lassen..
+                beirren lassen.
             #.  Es gibt sonst *keine anderen Umstände*
                 die die Berufung
                 eines Notarztes erforderlich machen.
@@ -615,8 +617,9 @@ dass diese Therapie möglichst schnell erfolgt.
 
     -   **Blutdruck**:
         Blutdruckwerte bis 220/120 mm Hg werden toleriert,
-        wenn nicht cardiopulmonale Gründe (Myocardischämie,
-        Herzinsuffizienz, ...) andere Grenzwerte erfordern.
+        wenn nicht kardiopulmonale Gründe
+        (Myokardischämie, Herzinsuffizienz, ...)
+        andere Grenzwerte erfordern.
         Senkung des Blutdrucks ist eine ärztliche Maßnahme.
     -   **Neurocheck** inkl. Messung des **Blutzuckers** ist
         zwingend erforderlich!
@@ -805,8 +808,8 @@ Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
     Der Krampf dauert meist wenige Minuten und hört von selbst auf.
     Der Patient ist danach erstmal bewusstlos,
     im weiteren Verlauf mit mehr oder weniger großem Aufwand erweckbar.
-    Er befindet sich dann in der sogenannten :dfn:`Nachschlafphase`
-    :index:`\ <! Nachschlafphase>`.
+    Er befindet sich dann in der sogenannten
+    :dfn:`Nachschlafphase`\ :index:`\ <! Nachschlafphase>`.
     Der Patient *klart im Verlauf mehr und mehr auf*.
     Es ist wichtig zu versuchen mit
     dem Patienten in Kontakt zu treten
@@ -822,7 +825,7 @@ Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
     Grand mal: *franz.:* "großes Unglück"
 
 
-Status Epilepticus
+Status epilepticus
 ==================
 
 .. only:: not nosidebar
@@ -836,7 +839,7 @@ Status Epilepticus
     -   Im Rettungsdienst gilt praktisch jeder Krampfanfall, den das
         Personal selber miterlebt, als Status-Verdächtig.
 
-Der Status Epilepticus ist eine lebensgefährliche Steigerung des
+Der Status epilepticus ist eine lebensgefährliche Steigerung des
 generalisierten Krampfanfalls.
 Er besteht dann, wenn der Anfall nicht
 nach kurzer Zeit vergeht oder innerhalb kurzer Abstände

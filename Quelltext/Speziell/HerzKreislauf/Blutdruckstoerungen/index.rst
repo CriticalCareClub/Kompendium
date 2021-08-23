@@ -2,8 +2,9 @@
 .. index::
     single: Hypotonie
 
+.. _Hypotonie:
 
-Hypotonie (#43)
+Hypotonie
 ===============================
 
 

@@ -5,7 +5,7 @@
 .. _Lungenoedem:
 
 *********************
-Lungenödem (#37)
+Lungenödem
 *********************
 
 .. only:: not nosidebar
@@ -87,9 +87,9 @@ ABCDE: Lungenödem
             Evtl. schaumiger Auswurf
 
         Ⓑ
-            |symbol-RedFlag|\  Brodelndes Atemgeräusch
+            🚩\  Brodelndes Atemgeräusch
 
-            Atemnot (besonders im Liegen), evtl. |symbol-RedFlag|\  Zyanose
+            Atemnot (besonders im Liegen), evtl. 🚩\  Zyanose
 
             Atemnot im Liegen schlechter
 
@@ -99,7 +99,7 @@ ABCDE: Lungenödem
             Evtl. kardiogener Schock
 
         **=**
-            -  |symbol-RedFlag|\  Hörbares Lungenödem: **Lebensgefahr!**
+            -  🚩\  Hörbares Lungenödem: **Lebensgefahr!**
 
             -  Leichte Form: Keine Alarmsymptome
 
@@ -120,15 +120,15 @@ ABCDE: Lungenödem
     Es kann zu schaumigem Auswurf kommen.
 
 :Ⓑ:
-    Das Leitsymptom ist das |symbol-RedFlag|\  *brodelnde
+    Das Leitsymptom ist das 🚩\  *brodelnde
     Atemgeräusch*, welches in schweren Fällen bereits ohne Hilfsmittel
     hörbar und typisch für das Lungenödem ist. Es klingt, als würde
     jemand mit einem Strohhalm in ein Glas Wasser hineinblasen. Im
     Extremfall kann man es bereits *auf mehrere Meter Entfernung*
     wahrnehmen.
-    Weitere häufige Symptome sind anhaltende |symbol-RedFlag|\
+    Weitere häufige Symptome sind anhaltende 🚩\
     *Atemnot*
-    und |symbol-RedFlag|\  *Zyanose*.
+    und 🚩\  *Zyanose*.
     Der Patient bekommt oft nur *aufrecht sitzend* genügend Luft
     (Orthopnoe),
     im Liegen verschlechtert sich die Atemnot deutlich.
@@ -137,13 +137,13 @@ ABCDE: Lungenödem
     Die Herzfrequenz und der Blutdruck können in jede Richtung verändert
     sein (Herzrhythmusstörungen, hypertensives Lungenödem).
     Im Verlauf kann es zu einem
-    |symbol-RedFlag|\  *kardiogenen Schock* kommen.
+    🚩\  *kardiogenen Schock* kommen.
 
 :⌥:
     Beidseitige Beinödeme sind typisch.
 
 :``=``:
-    Patienten mit einem |symbol-RedFlag|\  deutlich hörbaren
+    Patienten mit einem 🚩\  deutlich hörbaren
     Lungenödem (v. a. bei kardialer Ursache) sind schwer und
     *lebensbedrohlich krank*.
     Das Herz verbraucht oft schon die
@@ -198,10 +198,12 @@ SAMPLER: Lungenödem
 
     Erschwerender Faktor bei vorbestehender Herzerkrankung (Infekt, …)?
 
+
+
 .. _Proc-MJ81XX1C:
 .. _m-lungenoedem-leicht:
 
-Maßnahmen: Kardilaes Lungenödem, leicht
+Maßnahmen: Kardiales Lungenödem, leicht
 =======================================
 
 Taktik
@@ -209,8 +211,9 @@ Taktik
 
 ⛑ Basismaßnahmen
     -   Vitale Bedrohung beurteilen.
-        |TxBeiVit|\ :
-        Behandlung wie schweres Lungenödem (:ref:`m-lungenoedem-schwer`)
+        |TxBeiVit|
+        Behandlung wie
+        :ref:`schweres Lungenödem <m-lungenoedem-schwer>`
     -   Lagerung: Oberkörper hoch
     -   Beengende Kleidung öffnen
     -   Bestmögliches Monitoring
@@ -223,9 +226,10 @@ Beatmungstherapie
     -   CPAP-Beatmung erwägen
 
 
+
+
 .. _Proc-MJ81XX2C:
 .. _m-lungenoedem-schwer:
-
 
 Maßnahmen: Kardiales Lungenödem, schwer
 =======================================

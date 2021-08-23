@@ -7,7 +7,7 @@
 .. _Rechtsherzinsuffizienz:
 
 ########################
-Herzinsuffizienz (#46)
+Herzinsuffizienz
 ########################
 
 .. admonition:: Definition: Herzinsuffizienz
@@ -146,7 +146,7 @@ ABCDE
     (:ref:`HypertensiverNotfall`)) der eigentliche *Auslöser* einer
     Herzinsuffizenz sein.
     Der Blutdruck kann dann natürlich erhöht sein.
-    Es können Zeichen eines |symbol-RedFlag| kardiogenen Schocks
+    Es können Zeichen eines 🚩 kardiogenen Schocks
     auftreten.
 
 :⌥:
@@ -170,7 +170,7 @@ ABCDE
      *kardiogenen Schocks*.
 
     Eine besonders kritische Komplikation ist das
-    |symbol-RedFlag| kardiale *Lungenödem*.
+    🚩 kardiale *Lungenödem*.
     Wenn es sehr stark ausgeprägt ist,
     kann man es mit freiem Ohr hören (*"brodelndes Atemgeräusch"*).
     Diese Patienten sind als besonders kritisch einzuschätzen, sie sind
@@ -256,7 +256,7 @@ Ort Vorrang. Bereits der Transport in das Fahrzeug kann gefährlich sein!
 
         -   Furosemid (Lasix™, Furon™)
 
-    -   Klinisch: Erwäge Kalziumsensitzer
+    -   Klinisch: Erwäge Kalziumsensitizer
         (Levosimedan (Simdax™), Expertenrat)
 
 Beatmungstherapie

@@ -245,7 +245,7 @@ Tipps, Tricks, Troubleshooting
     diese können den Cuff beschädigen
 
 -   Durch Hochziehen des Unterkiefers wird der Zungengrund angehoben,
-    das kann Einführen des Larynxtubus erleichtern
+    das kann das Einführen des Larynxtubus erleichtern
 
 -   Eventuell die Zunge mit den Fingern der linken Hand etwas zur Seite
     schieben, um das Einführen zu erleichtern

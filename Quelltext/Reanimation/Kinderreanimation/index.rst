@@ -1,7 +1,14 @@
+.. index::
+    single: PLS
+    single: Pediatric Life Support
+    single: Life Support; Pediatric
+
+.. _PLS:
 
 Pediatric Life Support (PLS)
 ============================
 
+Vgl. [ERC:2021:10]_
 
 Die Reanimation bei Kindern wird als *Pediatric Life Support* (*PLS*)
 bezeichnet. Während bei Erwachsenen der Großteil der Ursachen für einen
@@ -12,10 +19,6 @@ Ertrinken) vor. Deshalb steht – im Gegensatz zum BLS – beim PLS das
 Das Vorgehen gemäß ERC wird wie
 folgt beschrieben:
 
-
-
-
-
 #.  ① *Szeneüberblick mit (Selbst-)Schutz*: wie bei BLS
 #.  ② *Eindruck*: wie BLS, zusätzlich Abschätzen des Alters
 #.  ③ *Bewusstsein beurteilen*: wie BLS,
@@ -25,9 +28,10 @@ folgt beschrieben:
         Regeln des Patientenmanagements.
     -   Ist der *Patient nicht ansprechbar*
         wird ein **Hilferuf/Notruf** durchgeführt.
-        Idealerweise deligiert man diese Aufgabe an einen zusätzlichen
+        Idealerweise delegiert man diese Aufgabe an einen zusätzlichen
         Helfer.
-#.  ``A`` **Atemweg kontrollieren**:
+
+#.  Ⓐ **Atemweg kontrollieren**:
     Es wird die Mundhöhle inspiziert und etwaige
     Fremdkörper entfernt.
 
@@ -35,7 +39,7 @@ folgt beschrieben:
     gehalten, beim Kind (Ende des 1. Lebensjahrs bis zur Pubertät) wird
     der Kopf vorsichtig überstreckt um die Atemwege zu öffnen.
 #.  Ⓑ **Atmung prüfen**: Wie beim BLS wird für die Dauer von 10 s die Atmung
-    des Patienten durch *Sehen*, *Höhren* und *Fühlen* beurteilt.
+    des Patienten durch *Sehen*, *Hören* und *Fühlen* beurteilt.
 
     *Beurteilung* ob die *Atmung normal* ist: wie BLS
 
@@ -46,8 +50,10 @@ folgt beschrieben:
 #.  Es wird erneut nach **Lebenszeichen** gesucht.
     Wenn das Kind in irgend
     einer Form (z. B. Spontanbewegung, Husten oder normale Atmung) auf die
-    Initialbeatmungen reagiert hat, wird eine neuerliche Atemkontrolle
-    durchgeführt um zu prüfen ob die Eigenatmung suffizient ist.
+    Initialbeatmungen reagiert hat,
+    wird eine neuerliche Atemkontrolle durchgeführt,
+    um zu prüfen,
+    ob die Eigenatmung suffizient ist.
     Das Suchen nach Lebenszeichen darf nicht länger als 10 s dauern.
     Ein gut ausgebildeter, erfahrener Helfer kann während dieser 10 s parallel
     versuchen den Puls zu tasten.
@@ -70,9 +76,11 @@ folgt beschrieben:
             darüber.
 
     -   Die *Eindrücktiefe* soll ungefähr ⅓ des
-        Brustkorbs betragen. Das sind beim Säugling ca. 4 cm und bei
-        Kindern ca. 5 cm (Biarent et al. 2010a).
-    -   Die *Druckfrequenz* ("Arbeitsgeschwindigkeit") soll 100—120/min
+        Brustkorbs betragen.
+        Das sind beim Säugling ca. 4 cm
+        und bei Kindern ca. 5 cm.
+    -   Die *Druckfrequenz* ("Arbeitsgeschwindigkeit") soll
+        100—120 / min
         betragen. Bei der Beatmung richtet sich das Atemzugvolumen
         ebenfalls nach der Körpergröße des Patienten.
     -   Gemäß ERC kann eine Defibrillation bei Kindern bereits ab dem 1.
@@ -86,11 +94,11 @@ folgt beschrieben:
 .. [#147]
    Beim auf dem Rücken liegenden Säugling ist der Kopf i.d.R. nach vorne
    gebeugt, sodass eine *leichte* Streckung erforderlich sein kann um
-   den Kopf in Neutralposition zu bringen (Biarent et al. 2010a).
+   den Kopf in Neutralposition zu bringen.
 
 .. [#148]
    Die ERC empfiehlt beim Säugling alternativ auch die
-   thoraxumschließende Zweidaumentechnik (Biarent et al. 2010a).
+   thoraxumschließende Zweidaumentechnik.
 
 
 
@@ -107,7 +115,7 @@ folgt beschrieben:
           - :download:`PLS</Bilder/EmhoferJosef-Ccc/ReanimationPls-2015-1.pdf>`
 
 Eine grafische Übersicht über dieses Vorgehen ist in
-:ref:`Figure-PlsAlgorithmus` dargestellt.\ [ERC:2015:06]_
+:ref:`Figure-PlsAlgorithmus` dargestellt. [ERC:2021:10]_
 
 
 Reanimation des Neugeborenen

@@ -2,7 +2,7 @@
 .. _thrombose:
 
 ####################################################################
-Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose (#52)
+Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose
 ####################################################################
 
 .. only:: not nosidebar
@@ -143,7 +143,7 @@ SAMPLER
     einer Schwangerschaft
     oder von Erkrankungen, z. B. Tumorerkankungen, kann das
     Gerinnungsystem gestört sein, wodurch es zu Thrombosen kommen kann.
-    Ausserdem können Erkrankungen des Gerinnungssystems (**P**)
+    Außerdem können Erkrankungen des Gerinnungssystems (**P**)
     erhebliche Risikofaktoren darstellen.
 
 

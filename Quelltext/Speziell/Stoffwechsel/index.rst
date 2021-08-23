@@ -1,7 +1,7 @@
 
 
 ##################################################
-Stoffwechselstörungen (#70)
+Stoffwechselstörungen
 ##################################################
 
 
@@ -11,7 +11,7 @@ Metabolische Störungen.
 .. _diabetes-mellitus:
 
 *****************************************
-Blutzuckerstoffwechsel: Diabetes Mellitus
+Blutzuckerstoffwechsel: Diabetes mellitus
 *****************************************
 
 

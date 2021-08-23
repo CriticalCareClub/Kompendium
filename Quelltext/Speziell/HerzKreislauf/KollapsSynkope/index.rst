@@ -1,14 +1,10 @@
 
 
+.. _Kollaps:
 .. _synkope:
 
-Kollaps und Synkope (#48)
+Kollaps und Synkope
 --------------------------
-
-
-
-Beschreibung und Ursachen
-^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Als Kollaps bzw. Synkope bezeichnet man eine kurzfristige
 Kreislaufregulationsstörung. Manche Autoren unterscheiden zwischen
@@ -39,10 +35,10 @@ RedBull bestand.
 So mancher war auch ob eines Begräbnisses so ergriffen,
 dass er sich fast in die Grube neben den Sarg dazugelegt hätte …
 
+
+
 Symptome
 ^^^^^^^^
-
-
 
 .. only:: not nosidebar
 

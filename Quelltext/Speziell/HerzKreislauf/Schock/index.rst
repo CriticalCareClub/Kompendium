@@ -2,13 +2,8 @@
 .. _Schock:
 
 ############################################################
-Der Schock ist eine lebensbedrohliche Kreislaufstörung (#53)
+Schock
 ############################################################
-
-
-************
-Beschreibung
-************
 
 .. only:: not nosidebar
 
@@ -115,11 +110,11 @@ listet typische allgemeine Schocksymptome auf.
         -   :ref:`Tafel-Schocksymptomatik`
 
 
-.. _Tafel-Schocksymptomatik:
 
 .. list-table:: Schocksymptomatik
     :widths: 20 80
     :header-rows: 1
+    :name: Tafel-Schocksymptomatik
 
     *   -   Stadium
         -   Symptome

@@ -2,7 +2,7 @@
 .. _herzrhythmusstoerungen:
 
 ###########################
-Herzrhythmusstörungen (#47)
+Herzrhythmusstörungen
 ###########################
 
 Herzrhythmusstörungen sind
@@ -82,7 +82,7 @@ Rhythmusstörungen lassen sich nach unterscheidlichen Kriterien einteilen, nach 
 
 Rhythmusstörungen können direkt in der Herzkammer (ventrikulär)
 oder oberhalb der Kammer (supraventrikulär) begründet sein.
-Supraventrikulär wird ausserdem zwischen dem Vorhof (atrial)
+Supraventrikulär wird außerdem zwischen dem Vorhof (atrial)
 und der AV-Überleitung
 (AV-Knoten, nodal; bzw. akzessorische Leitungsbahnen) unterschieden.
 Eine noch feinere Unterscheidung ist möglich.
@@ -170,7 +170,6 @@ Für spezielle Fragestellungen kann eine elektrophysiologische Untersuchung mitt
 
 
 .. _Tafel-HerzrhythmusstoerungenWichtige:
-
 .. _Tafel-Herzrhythmusstoerungen:
 
 .. list-table:: Wichtige Herzrhythmusstörungen
@@ -333,8 +332,8 @@ eventuell auch "salvenartig".
 Je nach Häufigkeit haben Extrasystolen unterschiedliche
 Auswirkungen auf den Kreislauf und können symptom- bzw. bedeutungslos
 sein, oder auch Beschwerden verursachen. Wenn die Extrasystolen die
-normale Herzpumpfunktion massiv stören, können Sie auch lebensbedrohlich
-sein.
+normale Herzpumpfunktion massiv stören,
+können sie auch lebensbedrohlich sein.
 
 
 
@@ -360,32 +359,32 @@ ABCDE
     .. sidebar:: Einschätzungsblock
 
         Ⓑ
-            Evtl. |symbol-RedFlag|  Dyspnoe
+            Evtl. 🚩  Dyspnoe
 
         Ⓒ
-            Tachykardie |symbol-RedFlag|  ≥ 160 / min, Puls evtl.
+            Tachykardie 🚩  ≥ 160 / min, Puls evtl.
             schwach tastbar;
 
-        Evtl. |symbol-RedFlag|  Kreislaufinsuffizienz,
-        |symbol-RedFlag| **kardiogener Schock**,
-        |symbol-RedFlag| Kreislaufstillstand
+        Evtl. 🚩  Kreislaufinsuffizienz,
+        🚩 **kardiogener Schock**,
+        🚩 Kreislaufstillstand
 
 
 
 .. rubric:: Ⓑ
 
-|symbol-RedFlag| Dyspnoe kann in Folge der kardialen
+🚩 Dyspnoe kann in Folge der kardialen
 Mehrbelastung auftreten
 
 .. rubric:: ₢
 
 Es liegt eine *Tachykardie* vor.
 Der Puls ist i.d.R. hoch,
-meist |symbol-RedFlag|  über 160 / min und evtl. nur schwach tastbar.
+meist 🚩  über 160 / min und evtl. nur schwach tastbar.
 Der Patient kann bei mangelnder Herzauswurfleistung
-|symbol-RedFlag| kreislaufinsuffizient werden und einen
-|symbol-RedFlag| kardiogenen Schock entwickeln.
-Im Extremfall ist auch ein |symbol-RedFlag| Kreislaufstillstand möglich.
+🚩 kreislaufinsuffizient werden und einen
+🚩 kardiogenen Schock entwickeln.
+Im Extremfall ist auch ein 🚩 Kreislaufstillstand möglich.
 
 SAMPLER
 =======

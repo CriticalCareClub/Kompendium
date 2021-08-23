@@ -7,7 +7,7 @@
 .. _ArterielleHypertonie:
 
 ###########################
-Arterielle Hypertonie (#42)
+Arterielle Hypertonie
 ###########################
 
 .. only:: not nosidebar
@@ -78,12 +78,16 @@ Herzens durch den hohen Gegendruck*.
 
 Bei der Gefäßschädigung kommt es zur Ablagerung durch Kalk und sonstige
 Plaques und über längere Zeit zur *Verengung oder Verstopfung der
-Gefäße*. Je nach Organ kann das sehr massive Auswirkungen haben. Im Herz
-führt es zur *Angina Pectoris* oder zum *Herzinfarkt*, im Hirn zu
-*Schlaganfällen*, in den Nieren zu einer *Niereninsuffizienz*, usw.
+Gefäße*.
+Je nach Organ kann das sehr massive Auswirkungen haben. Im Herz
+führt es zur :ref:`Angina pectoris <AnginaPectoris>`
+oder zum :ref:`Herzinfarkt <Mci>`,
+im Hirn zu :ref:`Schlaganfällen <Insult>`,
+in den Nieren zu einer *Niereninsuffizienz* usw.
 Selbst große Gefäße wie die Hauptschlagader (Aorta) können derartig
-geschädigt werden, dass sie reißen können (Aortenaneurysma) – eine für
-den Patienten sehr lebensgefährliche Komplikation.
+geschädigt werden, dass sie reißen können
+(:ref:`Aortenaneurysma <Aortenaneurysma>`)
+— eine für den Patienten sehr lebensgefährliche Komplikation.
 
 Die Schädigung des Herzmuskels ist die Folge von dem erhöhten Druck
 gegen den das Herz pumpen muss. Der Muskel vergrößert sich um mit der
@@ -182,7 +186,7 @@ ABCDE
     (*Organstörungen*), z. B. oft zu  neurologischen
     Symptomen wie  Kopfschmerzen und
      **Sehstörungen**, weiters evtl. zu
-     **Brustschmerzen**, Übelkeit, |symbol-RedFlag|\
+     **Brustschmerzen**, Übelkeit, 🚩\
      Erbrechen und
      Schwindel.
 
@@ -201,7 +205,7 @@ ABCDE
     Hochroter Kopf
 
 ④
-    Nasenbluten,  Kopfschmerzen, |symbol-RedFlag|\
+    Nasenbluten,  Kopfschmerzen, 🚩\
     **Sehstörungen**,   Brustschmerzen, Übelkeit,
      Erbrechen,  Schwindel
 
@@ -231,7 +235,7 @@ SAMPLER
         🄻
             Letzte Medikamenteneinnahme, letzte ärztliche Kontrollen?
 
-        ``E``
+        🄴
             Ursachen für Einnahmefehler?
 
 🅂
@@ -257,7 +261,7 @@ SAMPLER
     Wann war die letzte Medikamenteneinnahme bzw. die letzten ärztlichen
     Kontrollen?
 
-``E``
+🄴
     Gibt es Ereignisse die zu einer fehlerhaften Einnahme der
     Medikamente geführt haben können?
 

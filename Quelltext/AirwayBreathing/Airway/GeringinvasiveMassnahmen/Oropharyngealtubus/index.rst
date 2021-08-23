@@ -25,8 +25,6 @@ Lage des Guedel-Tubus.
 
 .. subfigstart::
 
-.. _Figure-GuedelTubusEinfuehren:
-
 .. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus1.*
 
             Abmessen,
@@ -49,7 +47,7 @@ Lage des Guedel-Tubus.
 
 .. subfigend::
     :width: 0.32
-    :label: sagaegaegbdfghdsfhg
+    :label: Figure-GuedelTubusEinfuehren
 
     Bilderserie: Einführen des Guedel-Tubus ₢ Lena Hirtler, :term:`ℓ MfG`
 

@@ -1,15 +1,15 @@
 
-.. _Stemi:
-
-.. _AkutesKoronarsyndrom:
-.. _akutes-koronarsyndrom:
-
-.. _AnginaPectoris:
 
 .. _Acs:
+.. _AkutesKoronarsyndrom:
+.. _akutes-koronarsyndrom:
+.. _AnginaPectoris:
+.. _Herzinfarkt:
+.. _Mci-Acs:
+.. _Stemi:
 
 ###################################
-Akutes Koronarsyndrom (ACS) — (#40)
+Akutes Koronarsyndrom (ACS)
 ###################################
 
 
@@ -184,14 +184,14 @@ SAMPLER beim akuten Koronarsyndrom
         🄿
             Koronare Herzkrankheit (KHK)
 
-        ``E``
+        🄴
             Körperliche Anstrengung
 
 
-🅂 — Symptome
+🅂 Symptome
     Siehe ABCDE
 
-🄼 — Medikation
+🄼 Medikation
     **Nitroglycerin** wird zur Erweiterung der Koronargefäße
     von KHK-Patienten eingenommen. Dies kann entweder mittels eines
     Pflasters (Nitro-Pflaster), über Kapseln oder mittels eines Sprays
@@ -199,15 +199,12 @@ SAMPLER beim akuten Koronarsyndrom
     erfolgen. Herzkranke Patienten nehmen daneben oft noch viele andere
     Medikamente ein.
 
-🄿 — Patientenhistorie
-    Bei den meisten Patienten ist die Angina Pectoris schon bekannt,
-    bzw. es besteht eine *koronare Herz-Krankheit* (*KHK*). Die KHK ist
-    eine Erkrankung der Herzkranzgefäße, diese werden durch Ablagerung
-    von Fetten und Kalk geschädigt und eingeengt, dadurch kann weniger
-    Blut durchfließen. So kommt es zu einer Mangelversorgung des
-    Herzmuskels und zu den Symptomen der Angina pectoris.
+🄿 Patientenhistorie
+    Bei den meisten Patienten ist die Angina pectoris schon bekannt,
+    bzw. es besteht eine :ref:`koronare Herz-Krankheit (KHK) <KHK>`.
 
-``E``
+
+🄴 Ereignisse
     Häufig wird über körperliche Anstrengung oder Aufregung vor Beginn
     des Anfalls berichtet.
 
@@ -216,14 +213,14 @@ SAMPLER beim akuten Koronarsyndrom
 Differentialdiagnosen
 *********************
 
-- Pneumonie, Pleuritis, Pneumothorax
-- Reflux, Pankreatitis, Cholezystitis
-- post-CABG-Syndrom
-- musko-skelettal
-- funktionell
+-   Pneumonie, Pleuritis, Pneumothorax
+-   Reflux, Pankreatitis, Cholezystitis
+-   post-CABG-Syndrom
+-   musko-skelettal
+-   funktionell
 
 *****************
-Diagnostik
+🔎 Diagnostik
 *****************
 
 Veränderungen des EKGs sind richtungsweisend in der Diagnostik
@@ -234,9 +231,9 @@ wird zwischen einem ST-Elevations-Myokardinfarkt (:dfn:`STEMI`)
 und einem Nicht-STEMI (:dfn:`NSTEMI`) unterschieden.
 
 .. index::
-    single: STEMI-Kriterien
-    single: Hauptstammbild (EKG)
-    single: CX-Infarkt (EKG)
+    pair: STEMI-Kriterien; EKG
+    pair: Hauptstammbild; EKG
+    pair: CX-Infarkt; EKG
 
 STEMI-Kriterien
 ===============
@@ -251,15 +248,11 @@ STEMI-Kriterien
         (rV4) interessant
 
 
-.. attention::
-    50% der Erst-EKGs sind nicht diagnostisch,
-    eine Verlaufsbeurteilung bei entsprechender Klinik ist notwendig.
-
 Bedenke **atypische Präsentationen**:
 
 -   Schrittmacher-EKG
 -   **Linksschenkelblock** (LSB) de-novo und Klinik einer Ischämie
--   **Hauptstammbild**
+-   **Hauptstammbild**:
 
     -   ST-Hebungen in aVR und V1
     -   evtl. ST-Senkungen in anderen Ableitungen
@@ -272,7 +265,11 @@ Bedenke **atypische Präsentationen**:
     -   Oft minimale ST-Hebungen inferior/lateral
 
 
-Besonders häufige Patientengruppen mit **atypischer MCI-Präsentation** umfassen:
+.. attention::
+    50% der Erst-EKGs sind nicht diagnostisch,
+    eine Verlaufsbeurteilung bei entsprechender Klinik ist notwendig.
+
+Besonders häufige Patientengruppen mit **atypischen** Symptomen umfassen:
 
 -   Junge Patienten
 -   Alte Patienten
@@ -281,22 +278,43 @@ Besonders häufige Patientengruppen mit **atypischer MCI-Präsentation** umfasse
 -   Patienten mit Niereninffuzienz
 
 
-Weiterführende Diagnostik
-=============================================================================
+
+.. index::
+    single: CK
+    single: CK-MB
+    single: LDH
+    single: Herzenzyme
+    single: Troponin
+
+🔬 Weiterführende Diagnostik
+========================================================================
 
 
-.. rubric:: Echokardiographie
+-   **Echokardiographie:**
+    Abschätzung des Schweregrades,
+    Infarktlokalisation,
+    Einschätzung der hämodynamischen Stabilität und
+    Ausschluss von Differentialdiagnosen.
 
-Abschätzung des Schweregrades,
-Infarktlokalisation,
-Einschätzung der hämodynamischen Stabilität und
-Ausschluss von Differentialdiagnosen.
+-   🧪 **Labor:**
 
-.. rubric:: Labor
+    -   Wenn Vorhanden: Schnelltests (z. B. Troponin)
+    -   Herzenzyme
+        (CK\ [#CK]_,
+        CK-MB\ [#CKMB]_,
+        LDH¸[#LDH]_,
+        Troponin-T,
+        ggfs. proBNP)
 
--  Wenn Vorhanden: Schnelltests (z. B. Troponin)
--  Herzenzyme (CK, CK-MB, LDH, Troponin-T, ggfs. proBNP)
 
+.. [#CK]
+    CK: Creatininkinase
+
+.. [#CKMB]
+    CK-MB: myokardspezifische Creatininkinase
+
+.. [#LDH]
+    LDH: Laktatdehydrogenase
 
 
 
@@ -304,12 +322,13 @@ Ausschluss von Differentialdiagnosen.
 .. _m-akutes-koronarsyndrom-beschwerdefrei:
 .. _m-akutes-koronarsyndrom:
 
-********
-Therapie
-********
+************
+🩹 Therapie
+************
 
-Hintergrund
-===========
+
+⚕ ☤ Hintergrund
+================
 
 Grundsätzlich unterscheidet sich die Therapie des Herzinfarktes mit
 und ohne ST-Elevation (STEMI vs. NSTEMI).
@@ -379,11 +398,7 @@ bzw. das geeignete Verfahren auswählen.
 -   Video, Youtube: Gèneve, Hôpitaux Universitaires:
     *Zur Bekämpfung von Herzinfarkt und Arteriosklerose*
     http://youtu.be/SWZYBrLAnNk.
--   Literatur:
-    [ERC:2015:08]_
-    [Harrisons18DeKap225]_
-    [Harrisons18DeKap230]_
-    [Harrisons18DeKap224]_
+
 
 
 
@@ -412,8 +427,8 @@ Daraus ergeben sich folgende logistische Empfehlungen
     single: Heparin (ACS)
     single: ASS  (ACS)
 
-Allgemein und Basics
-====================
+🞺 ⛑ Allgemein und Basics
+===========================
 
 -   |TxMassVitMK|
 
@@ -438,19 +453,19 @@ Allgemein und Basics
         und Behandlungsmöglichkeit des nächstgelegen Spitals
         sind im Einzelfall notwendig.
 
-Pharmakotherapie
-================
+🕏 Pharmakotherapie — Allgemein
+================================
 
 Die Anwendung bestimmter Medikamente
 unterscheidet sich nach der Unterscheidung
-STEMI, NSTEMI und AP,
-sowie nach der geplanten Reperfusionstrategie.
+STEMI, NSTEMI und AP
+und der daraus resultierenden Therapiestrategie.
 
 Morphin
 -------------------------------------
 
 I. v.-Opiode sollen generell zur Schmerztherapie erwogen werden,
-z. B. Morphin |IV|, titriert in 2—5 mg-Schritten (Erwachsene).
+z. B. Morphin i. v., titriert in 2—5 mg-Schritten (Erwachsene).
 
 Heparin
 -------------------------------------
@@ -539,18 +554,23 @@ Additiv -- Erwäge:
     single: ASS  (STEMI)
     single: PCI (STEMI)
 
-Therapiestrategie STEMI *ohne Lyse*
-===================================
+℞ Therapiestrategie *STEMI mit Primär-PCA*
+========================================================
 
 Schmerzbegin bis :term:`FMC` < 12 h
 
--   **ASS** 250 mg i. v. so schnell als möglich (1B)
--   **Heparin** 5000 IE
--   **Ticagrelor** (Brilique®) 180 mg p. o.
--   **primäre PCA**
+-   **Primäre PCA**
 
     -   Aviso
     -   *Fast Track*: *"bypass emergency department"*
+
+-   Schmerztherapie:
+    z. B. **Morphin** i. v., titriert in 2—5 mg-Schritten
+    + Antiemetikum (z. B. **Ondansetron** 4 mg i. v.).
+    *Keine i. m.-Therapie!*
+-   **ASS** 250 mg i. v. so schnell als möglich
+-   **Heparin** 5000 IE
+-   **Ticagrelor** (Brilique®) 180 mg p. o.
 
 
 .. index::
@@ -561,84 +581,100 @@ Schmerzbegin bis :term:`FMC` < 12 h
    single: Lyse, Kontraindikationen
    single: Kontraindikationen, Lyse
 
+℞ Therapiestrategie *STEMI mit Lyse*
+============================================
 
-Therapiestrategie STEMI *mit Lyse*
-===================================
+..
+    Bei Patienten über 75 Jahre sollte die Hälfte der
+    Dosis überlegt werden. (2aB)
 
-Wenn die Fibrinolyse angewendet werden soll,
-dann sollte diese bei einem
-:abbr:`STEMI (ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt)`
-*so früh wie möglich*
-initiiert werden (< 10 min. nach :term:`FMC`) (1A).
-
-Bei Patienten über 75 Jahre sollte die Hälfte der
-Dosis überlegt werden. (2aB)
-
-Nach der Fibrinolyse ist der sofortige Transfer in ein
-PCI Zentrum bei allen Patienten indiziert!
-Eine Koronarangiographie und PCI des Infarktgefäßes ist zwischen
-2 und 24 h nach erfolgreicher Lyse indiziert (1A).
-
-Eine *Notfalls-PCI* bei Patienten mit kardiogenem Schock
-soll nach Thrombolyse durchgeführt werden (1A).
-Eine *Rescue-PCI* ist indiziert wenn nach 60—90 min
-keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
 
 .. rubric:: Indikation
 
--   Time to PCI > 120 min
-    -   Bei jungen, kurz symptomatischen STEMI-Patienten: > 60 min
-
+-   *Time to PCI* > 120 min,
+    bei jungen, kurz symptomatischen STEMI-Patienten > 60 min
 
 .. rubric:: Kontraindikationen für Lyse
 
--  Operation < 14 Tagen
--  Organpunktion < 7 Tagen
--  Apoplex < 3 Monaten
--  Z. n. Hirnblutung
--  Rezentes Ulcus
--  Unkontrollierte Hypertonie
--  Schwere Retinopathie
--  Bekannte Blutungsneigung
--  OAK-Therapie
+-   Operation < 14 Tagen
+-   Organpunktion < 7 Tagen
+-   Apoplex < 3 Monaten
+-   Z. n. Hirnblutung
+-   Rezentes Ulcus
+-   Unkontrollierte Hypertonie
+-   Schwere Retinopathie
+-   Bekannte Blutungsneigung
+-   OAK-Therapie
 
 
 
 .. rubric:: Durchführung
 
+Wenn die Fibrinolyse angewendet werden soll,
+dann sollte diese bei einem
+:abbr:`STEMI (ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt)`
+*so früh wie möglich*
+initiiert werden (< 10 min. nach :term:`FMC`).
 
--   Metalyse® (TNK-tPA)
+-   Schmerztherapie:
+    z. B. **Morphin** i. v., titriert in 2—5 mg-Schritten
+    + Antiemetikum (z. B. **Ondansetron** 4 mg i. v.).
+    *Keine i. m.-Therapie!*
+-   **Metalyse®** (TNK-tPA)
 
     -   Patient < 60 kg à 6000 IE
     -   Ab 60 kg 100 IE/kg/KG
 
--   Begleittherapie lt :ref:`Tafel-ThrombolyseBegleittherapie`
--   Transport in ein **PCI-Zentrum**
+-   Begleittherapie  **< 75 Jahre**
+
+    -   **ASS** 250 mg i. v.
+    -   **Clopidogral** 300 mg
+    -   **Enoxaparin** *30 mg* Bolus *i. v.* **und** *1 mg/kg s.c.* 15 min. später
+
+        wenn kein Enoxaparin zur Verfügung steht:
+        **Heparin** 60 IU / kg bis max. 4000 IU
+
+-   Begleittherapie **> 75 Jahre**
+
+    -   **ASS** 250 mg i. v.
+    -   **Clopidogral** *75 mg*
+    -   **Enoxaparin** *0,75 mg/kg* Bolus s.c.
+
+        wenn kein Enoxaparin zur Verfügung steht:
+        **Heparin** 60 IU / kg bis max. 4000 IU
+
+-   Transport in ein **PCI-Zentrum**:
+    Der sofortige Transfer in ein
+    PCI Zentrum ist bei *allen* Patienten nach Lyse indiziert!
 
     -   Kontaktaufnahme mit PCI-Zentrum
-    -   Wenn nach 60—90 min keine Rückbildung: "Lyse-Versager"
+    -   Erfolgreiche Lyse:
+        PCI zwischen 2—24 h nach Lyse
+    -   *Rescue-PCI* bei *Lyse-Versager*
+        wenn nach *60—90 min* keine 50% Rückbildung der ST-Strecken erfolgt ist
+    -   *Notfalls-PCI* bei Patienten mit kardiogenem Schock
 
+..
+    .. _Tafel-ThrombolyseBegleittherapie:
 
-.. _Tafel-ThrombolyseBegleittherapie:
+    .. list-table:: Thrombolyse-Begleittherapie
+        :header-rows: 1
 
-.. list-table:: Thrombolyse-Begleittherapie
-    :header-rows: 1
-
-    *   - Patient
-        - < 75 a
-        - > 75 a
-    *   - **ASS**
-        - 250 mg i. v.
-        - 250 mg i. v.
-    *   - **Clopidogrel**
-        - 300 mg
-        - **75 mg**
-    *   - **Enoxaparin**
-        - **30 mg** Bolus **i. v.** und **1 mg/kg s.c.** 15 min. später
-        - **0,75 mg/kg** Bolus s.c.
-    *   - Heparin
-        - 60 IU / kg bis max. 4000 IU nur wenn kein Enoxaparin zur Verfügung steht
-        - 60 IU / kg bis max. 4000 IU nur wenn kein Enoxaparin zur Verfügung steht
+        *   - Patient
+            - < 75 a
+            - > 75 a
+        *   - **ASS**
+            - 250 mg i. v.
+            - 250 mg i. v.
+        *   - **Clopidogrel**
+            - 300 mg
+            - **75 mg**
+        *   - **Enoxaparin**
+            - **30 mg** Bolus **i. v.** und **1 mg/kg s.c.** 15 min. später
+            - **0,75 mg/kg** Bolus s.c.
+        *   - Heparin
+            - 60 IU / kg bis max. 4000 IU nur wenn kein Enoxaparin zur Verfügung steht
+            - 60 IU / kg bis max. 4000 IU nur wenn kein Enoxaparin zur Verfügung steht
 
 .. todo::
     -   Heparindosis:
@@ -650,13 +686,12 @@ keine 50% Resolution der ST-Strecken erfolgt ist (*Lyse-Versager*).
 
 
 
-Therapiestrategie NSTEMI
-========================
+℞ Therapiestrategie NSTEMI
+=====================================
 
-- ASS 250 mg i. v.
-- Heparin 5000 IE
-- Clopidogrel 600 mg p. o.
-- PCI:
+-   ASS 250 mg i. v.
+-   Heparin 5000 IE
+-   PCI:
 
     -   symptomatisch: PCI < 2 h
     -   asymptomatisch: PCI > 24 h

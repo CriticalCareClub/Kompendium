@@ -19,7 +19,7 @@ bietet jedoch keinerlei Aspirationsschutz.
 
 Er wird im Vergleich zum :ref:`Guedel-Tubus <Guedel-Tubus>` bei noch vorhandenen Schutzreflexen in der Regel besser toleriert und löst seltener einen Würgereiz aus.
 Demgegenüber stehen jedoch mögliche Komplikationen wie Verletzungen des Nasenraumes und Nasenbluten.
-Kontraindiziert ist der Wendl-Tubus bei Verletzungen der Nase, des Gesichtsschädels und der Schädelbasis.
+Kontraindiziert ist der Wendl-Tubus bei Verletzungen der Nase, des Gesichtsschädels, der Schädelbasis und im Rahmen eines Schädel-Hirn-Traums (:ref:`SHT <SHT>`).
 
 Der Wendl-Tubus findet hauptsächlich innerklinisch bei *nüchternen* Patienten Verwendung,
 er kann jedoch auch als Alternative zum Guedel-Tubus in Notfallsituationen eingesetzt werden.

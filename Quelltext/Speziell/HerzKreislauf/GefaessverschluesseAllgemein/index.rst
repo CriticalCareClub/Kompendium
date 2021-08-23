@@ -1,5 +1,5 @@
 
-Gefäßverschlüsse in den Extremitäten (#44)
+Gefäßverschlüsse in den Extremitäten
 ==========================================
 
 Unterscheidung

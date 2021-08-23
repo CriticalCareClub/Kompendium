@@ -4,7 +4,7 @@
 .. _Diagnose:
 
 ##################
-Die Diagnose (#26)
+Die Diagnose
 ##################
 
 .. only:: not nosidebar

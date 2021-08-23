@@ -23,10 +23,10 @@ und hat sehr großen Einfluss auf das Patienten-Outcome.
 
 Die Herzdruckmassage muss daher so rasch als möglich beginnen
 und so unterbrechungsfrei wie möglich durchgeführt werden.
-Beispielsweise muss ach Abgabe
+Ebenso muss nach Abgabe
 eines Schocks durch den Defibrillator
-die Herzdruckmassage sofort weitergeführt werden;
-auch wenn eine Defibrillation erfolgreich war,
+die Herzdruckmassage *sofort* weitergeführt werden:
+Auch wenn eine Defibrillation erfolgreich war,
 d. h. lt. EKG ein ordnungsgemäßer Herzrhythmus wiederhergestellt
 wurde,
 kann es einige Zeit dauern,
@@ -76,8 +76,10 @@ die Finger werden ineinander verschränkt.
 Die Arme des Helfers sind durchstreckt und
 er drückt mit Hilfe seines eigenen Gewichts
 *gerade nach unten* mit einer *Eindrücktiefe* von **5—6 cm**.\ [#142]_
-Nach der Kompression erfolgt die passive vollständige **Entlastung** des
-Brustkorbs ehe eine neuerliche Kompression beginnt.\ [#143]_
+
+Nach der Kompression
+erfolgt die passive vollständige **Entlastung** des Brustkorbs,
+ehe eine neuerliche Kompression beginnt.\ [#143]_
 Die Kompressions- und Entlastungsphasen
 sollen in etwa gleich lange dauern und
 nicht ruckartig ablaufen.
@@ -86,15 +88,15 @@ max. 120 / min).
 
 
 .. [#142]
-   Beim durchschnittlichen Erwachsenen entspricht das ungefähr 1/3 des Brustkorbes.
+    Beim durchschnittlichen Erwachsenen entspricht das ungefähr 1/3 des Brustkorbes.
 
 .. [#143]
-   Vollständige Entlastung bedeutet, dass der Helfer keinerlei Druck
-   mehr auf den Brustkorb des Patienten ausübt. Die Handballen werden
-   also in ihre Ausgangslage zurückgeführt, wobei sie gerade nicht vom
-   Brustkorb abheben. Sollte es versehentlich passieren, dass der Helfer
-   den Kontakt zum Patient verliert, muss der Druckpunkt neu aufgesucht
-   werden.
+    Vollständige Entlastung bedeutet, dass der Helfer keinerlei Druck
+    mehr auf den Brustkorb des Patienten ausübt. Die Handballen werden
+    also in ihre Ausgangslage zurückgeführt, wobei sie gerade nicht vom
+    Brustkorb abheben. Sollte es versehentlich passieren, dass der Helfer
+    den Kontakt zum Patient verliert, muss der Druckpunkt neu aufgesucht
+    werden.
 
 
 
@@ -152,20 +154,26 @@ Fehlerquellen
         -   Ruckartige Bewegungen
 
 
--  *Leerlauf*: Die HDM muss möglichst ohne vermeidbare Unterbrechungen
-   durchgeführt werden. Kritische Situationen sind üblicherweise:
+-   *Leerlauf*: Die HDM muss möglichst ohne vermeidbare Unterbrechungen
+    durchgeführt werden. Kritische Situationen sind üblicherweise:
 
-   -  Nach der Defibrillation
-   -  Nach Beatmungsversuchen
-   -  Bei Personalwechsel
-   -  Intubationsversuche
+    -   Nach der Defibrillation
+    -   Nach Beatmungsversuchen
+    -   Bei Personalwechsel
+    -   Intubationsversuche
 
--  Ein herkömmliches *Bett ist keine feste Unterlage*.
--  Vermeidbare Verletzungen durch den Helfer,
-   insbesonders wenn der Druck nicht direkt am korrekten Druck punkt von oben ausgeübt wird;
-   die Schultern des Helfers müssen sich direkt über dem Brustbein des
-   Patienten befinden.
--  Ruckartiger Druck: Zu kurze Auswurfphase
+-   Ein herkömmliches *Bett ist keine feste Unterlage*.
+-   Vermeidbare Verletzungen durch den Helfer,
+    insbesonders wenn der Druck nicht direkt am korrekten Druckpunkt von oben ausgeübt wird;
+    die Schultern des Helfers müssen sich direkt über dem Brustbein des
+    Patienten befinden.
+
+    Grundsätzlich sind aber manche Verletzungen,
+    insbesonders Rippenfrakturen,
+    auch bei korrekt durchgeführter Reanimation,
+    meist unvermeidbar.
+-   Ruckartiger Druck: Zu kurze Auswurfphase
+
 
 
 Alternativen
@@ -187,18 +195,29 @@ Das ERC sieht diese Geräte als sinnvolle Möglichkeit an wenn die Durchführung
 einer anhaltend guten Herzdruckmassage nicht praktikabel ist
 oder die Sicherheit der Helfer gefährdet.
 
+
+
+.. index::
+    single: ECMO
+    single: Extra-Corporal Membrane Oxygenation
+    single: Oxygenation; Extra-Corporal Membrane
+    single: Herz-Lungen-Maschine
+    single: Maschine; Herz-Lungen-
+    single: extrakorporale Verfahren
+    single: Verfahren; extrakorporale
+
 .. _ReanimationExtrakorporaleVerfahren:
 
 Extrakorporale Verfahren
 ------------------------
 
 Extrakorporale Verfahren
-(Herz-Lungen-Maschine, Extra-Corporal Membrane Oxygenation (EMCO))
+(Herz-Lungen-Maschine, Extra-Corporal Membrane Oxygenation (ECMO))
 können mittels eines Gefäßzugangs,
 einer Pumpe und eines Oxygenators sowohl einen adäquaten Kreislauf,
 als auch eine adäquate Oxygenierung sicherstellen und somit die Funktion
 des Herzens und der Lunge übernehmen.
-Diese Technik ist sehr resourcenintensiv,
+Diese Technik ist sehr ressourcenintensiv,
 sowohl was die eigentliche Technik, als auch Schulung und Verfügbarkeit
 des Personals anbelangt, und somit spezialisierten Zentren vorbehalten.
 Die Definition der Indikationen bzw. die Nutzen-Risiko-Kosten-Abschätzung

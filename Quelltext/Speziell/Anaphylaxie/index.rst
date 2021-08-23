@@ -4,7 +4,7 @@
     single: Kontrastmittel; Allergie
 
 ############################
-Anaphylaxie
+Allergie und Anaphylaxie
 ############################
 
 Eine **Allergie** ist eine fehlgeleitete Reaktion
@@ -26,7 +26,7 @@ Mögliche **Auslöser** können sein:
 -   und vieles andere …
 
 
-Grundsätzlich kann man 4 Arten von Allergien unterscheiden,
+Grundsätzlich kann man vier Arten von Allergien unterscheiden,
 in der Akutsituation ist vor allem der Typ-I ("Soforttyp")
 entscheidend,
 bei dem es innerhalb von Sekunden oder Minuten
@@ -245,7 +245,7 @@ Erniedrigung der Gefäßpermeabilität,
 Bronchodilatation
 und positive Inotropie am Herzen
 alle wichtigen Pathomechanismen der Anaphylaxie.
-Die Intramuskuläre Gabe ist die medikamentöse Therapie der ersten Wahl.
+Die intramuskuläre (i. m.-) Gabe ist die medikamentöse Therapie der ersten Wahl.
 [#ImGabe]_
 
 .. [#ImGabe]

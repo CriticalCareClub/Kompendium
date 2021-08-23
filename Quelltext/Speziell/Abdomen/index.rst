@@ -6,7 +6,7 @@ Abdominale Störungen
 Der Bauch ist eine echte Herausforderung. Er beinhaltet viele
 unterschiedliche Organe und Strukturen welche weh tun und erkranken
 können. Viele dieser, oft auch mit starken Schmerzen verbundenen
-Störungen sind nicht übermäßig schlimm, einige sind jedoch sehr
+Störungen, sind nicht übermäßig schlimm, einige sind jedoch sehr
 gefährlich oder können rasch gefährlich werden.
 
 ***********
@@ -108,7 +108,7 @@ Das Akute Abdomen
 
 Das :dfn:`Akutes Abdomen` :index:`\ <! Akutes Abdomen>` ist eine akute Erkrankung des
 Bauchraumes mit plötzlichen, starken *Bauchschmerzen* und *bretthartem
-Bauch*, welche im weiteren Verlauf lebensbedrohlich ist. Es sind
+Bauch*, welche im weiteren Verlauf lebensbedrohlich sein kann. Es sind
 verschiedene Ursachen möglich.\ [#AkutesAbdomen]_
 
 
@@ -179,7 +179,7 @@ sind auch die Ursachen:
 -  *Blutungen* in den Bauchraum (Bauchaortenaneurysma, rupturierte
    Eileiterschwangerschaft, …)
 
--  andere abdominelle Erkrankungen
+-  Andere abdominelle Erkrankungen
 
 -  Gynäkologische Erkrankungen
 
@@ -291,7 +291,7 @@ Im Vordergrund der akuten
 Appendizitis steht anfänglich ein meist *diffuser Schmerz* im Bereich
 der *Nabelgegend*, der innerhalb weniger Stunden in den *rechten
 Unterbauch* wandert. Übelkeit, Brechreiz und Verstopfung können das
-Krankheitsbild begleiten. Meist ist die Körpertemperatur bis 38 leicht
+Krankheitsbild begleiten. Meist ist die Körpertemperatur bis 38°C leicht
 erhöht. Unbehandelt kann es zu einer Eiterung und einem *Durchbruch* in
 die Bauchhöhle, einer anschließenden Bauchfellentzündung und einem
 akuten Abdomen kommen (:ref:`akutes-abdomen`).
@@ -441,8 +441,8 @@ oder häufiger zum Erbrechen von Kaffeesatz-artigem Mageninhalt:
 Durch die
 Magensäure kommt es zur Veränderung des Blutes, es wird bräunlich,
 ähnlich dem Kaffeesatz im Kaffeefilter. Bei Blutungen im *mittleren
-Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz, man
-(:dfn:`Meläna` :index:`\ <! Meläna>`.
+Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz
+(:dfn:`Meläna`\ :index:`\ <! Meläna>`).
 Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 
@@ -456,7 +456,7 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
             -   Kaffeesatz-artiger Mageninhalt
 
-        -   Mittlerer Teil: Teerstuhl
+        -   Mittlerer Teil: Teerstuhl (Meläna)
 
         -   Endteil: Blutiger Stuhl
 
@@ -509,8 +509,8 @@ Verlaufsformen, dies ist abhängig vom Erreger und letztendlich auch vom
 Alter des Patienten. Durch den Durchfall und das Erbrechen kann es zu
 einem maßgeblichen Verlust von Wasser und Elektrolyten kommen. Wenn der
 Patient nicht ausreichend trinken kann besteht die Gefahr der
-Austrocknung (*[Exsikkose!bei* :index:`\ <[Exsikkose!bei>` gostrointestinalem
-Infekt]Exsikkose).
+Austrocknung
+(Exsikkose\ :index:`\ <Exsikkose; gastrointestinaler Infekt`).
 
 
 
@@ -522,19 +522,16 @@ Symptome
 
     .. sidebar:: Symtome
 
-        -  Erbrechen
+        -   Erbrechen
+        -   Durchfall
+        -   Bauchschmerzen
+        -   Exsikkosezeichen
 
-        -  Durchfall
-
-        -  Bauchschmerzen
-
-        -  Exsikkosezeichen
-
-Klassische Zeichen einer Magen-Darm-Grippe sind Erbrechen ( *Emesis*)
-und Durchfall ( *Diarrhoe*). Dazu hat der Patient meist starke, kaum
+Klassische Zeichen einer Magen-Darm-Grippe sind Erbrechen (*Emesis*)
+und Durchfall (*Diarrhoe*). Dazu hat der Patient meist starke, kaum
 lokalisierbare Bauchschmerzen. Infolge des Erbrechens und des Durchfalls
 kann es zu einem erheblichen Wasser- und Elektrolytverlust und Symptomen
-der Exsikkose (:ref:`exsikkose`) kommen.
+der :ref:`Exsikkose <exsikkose>` kommen.
 
 
 .. rubric:: Besonders gefährdet
@@ -640,9 +637,15 @@ zur Klärung der Situation nüchtern zu belassen!*
 Weniger häufige oder nicht-so-gut-erkennbare Erkrankungen
 *********************************************************
 
+
+.. index::
+    single: Magengeschwür
+    single: Zwölffingerdarmgeschwür
+    single: Ulcus; ventriculi
+    single: ulcus; duodeni
+
 Magen- und Zwölffingerdarmgeschwür
 ==================================
-
 
 .. only:: not nosidebar
 
@@ -658,11 +661,12 @@ Magen- und Zwölffingerdarmgeschwür
 
         -   Autoimmunerkrankungen
 
-Ein :dfn:`Magengeschwür` :index:`\ <! Magengeschwür>` bzw.
-ein :dfn:`Zwölffingerdarmgeschwür` :index:`\ <! Zwölffingerdarmgeschwür>`
+Ein :dfn:`Magengeschwür`
+(*Ulcus ventriculi*) bzw.
+ein :dfn:`Zwölffingerdarmgeschwür`
+(*Ulcus duodenis*)
 ist eine Entzündung der Magen- bzw.
-Zwölffingerdarmschleimhaut mit Substanzdefekt. *Syn.* *Gastritis*,
-*Duodenitis*.
+Zwölffingerdarmschleimhaut mit Substanzdefekt.
 
 Die häufigste Ursache für ein Magengeschwür ist eine
 chronische Infektion mit einem bestimmten Bakterium\ [#HP]_
@@ -713,8 +717,8 @@ oder *Kaffeesatz-artiges Erbrechen* zu beobachten.
 .. _CK29091C:
 .. _m-gastro-duodenitis:
 
-Maßnahmen: Gastritis, Duodenitis
---------------------------------
+Maßnahmen: Ulcus ventriculi, -duodeni
+--------------------------------------
 
 .. todo:: Maßnahme CK29091C: Anpassung an höherqualifiziertes Personal
 
@@ -747,10 +751,11 @@ sind *Gallensteinleiden* und *Alkoholmissbrauch* [Siewert:8]_ [Scholz:2]_. Daneb
 so häufige Ursachen, oft bleibt die Ursache auch gänzlich unbekannt
 [Herold:2005]_.
 
-*Warum können Gallensteine eine Pankreatitis verursachen?* Bei vielen
-Menschen mündet der Pankreasausführungsgang, welcher Verdauungsenzyme in
-de Zwölffingerdarm abgibt, nicht direkt in den Dünndarm, sondern in den
-unteren Abschnitt des Gallengangs. Verschließt nun ein Stein den
+*Warum können Gallensteine eine Pankreatitis verursachen?*
+Der Pankreasausführungsgang, welcher Verdauungsenzyme in
+de Zwölffingerdarm abgibt, mündet nicht direkt in den Dünndarm,
+sondern in den unteren Abschnitt des Gallengangs.
+Verschließt nun ein Stein den
 Gallengang unterhalb der Einmündung, so staut sich Galle und
 Pankreassaft in die Bauchspeicheldrüse zurück. Es kann sogar dazu
 kommen, dass sich das Pankreas durch die Verdauungsenzyme selber

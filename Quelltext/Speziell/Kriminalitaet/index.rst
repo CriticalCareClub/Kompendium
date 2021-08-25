@@ -134,19 +134,20 @@ die betroffene Person aufgrund ihres Alters, Geschäftsfähigkeit,
 bestehender Abhängigkeiten oder anderer Gründe
 *besonderen Schutz durch das Gesetz genießt*. Darunter fällt:
 
--   Sexueller Missbrauch einer wehrlosen oder psychisch beeinträchtigten
-    Person
+-   Sexueller Missbrauch einer
+    **wehrlosen oder psychisch beeinträchtigten
+    Person**
     (wehrlose Person oder eine Person, die wegen einer
     Geisteskrankheit, wegen einer geistigen Behinderung, wegen einer
     tiefgreifenden Bewusstseinsstörung oder wegen einer anderen schweren,
     einem dieser Zustände gleichwertigen seelischen Störung *unfähig ist,
     die Bedeutung des Vorgangs einzusehen*; `§ 205 StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40152324/NOR40152324.html>`_)
--   Schwerer sexueller Missbrauch von Unmündigen
+-   Schwerer sexueller Missbrauch von **Unmündigen**
     (Beischlaf oder gleichzusetzende Handlung an Unmündigen; `§ 206 StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40152325/NOR40152325.html>`_)
--   Sexueller Missbrauch von Unmündigen
+-   Sexueller Missbrauch von **Unmündigen**
     (geschlechtliche Handlung an Unmündigen;
     `§ 207 StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40152326/NOR40152326.html>`_)
--   Sexueller Missbrauch von Jugendlichen
+-   Sexueller Missbrauch von **Jugendlichen**
     (geschlechtliche Handlung an einer Person,
     die das *16. Lebensjahr* noch nicht vollendet hat
     und aus bestimmten Gründen noch nicht reif genug ist,
@@ -154,13 +155,13 @@ bestehender Abhängigkeiten oder anderer Gründe
     *altersbedingten Überlegenheit*
     oder *unter Ausnützung einer Zwangslage*;
     oder an einer Person, die das 18. Lebensjahr noch nicht vollendet hat, durch Verleitung mittels Entgelt;
-    `§ 207b StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40173698/NOR40173698.html>`_
--   Sittliche Gefährdung von Personen unter sechzehn Jahren
+    `§ 207b StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40173698/NOR40173698.html>`_)
+-   Sittliche Gefährdung von **Personen unter sechzehn Jahren**
     (`§ 208 StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40173699/NOR40173699.html>`_)
--   Missbrauch eines Autoritätsverhältnisses
+-   Missbrauch eines **Autoritätsverhältnisses**
     (Geschlechtliche Handlung an Schutzbefohlenen;
     Abs. 2 Z 1 bezieht sich dabei explizit auf
-    *Angehörige eines gesetzlich geregelten Gesundheitsberufes* [#MissbrauchAutoritaetsverhaeltnis]_;
+    *Angehörige eines gesetzlich geregelten Gesundheitsberufes*;
     `§ 212 StGB <https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40194049/NOR40194049.html>`_
 
 Der sexuelle Missbrauch geschieht meist über lange Zeit und ist nur

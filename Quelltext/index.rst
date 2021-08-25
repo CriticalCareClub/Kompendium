@@ -27,25 +27,25 @@ Arbeits- und Ausbildungsstandards für den Sanitätsdienst
         :width: 50%
 
 
+..
+    .. admonition:: Versionsverwaltung (Git-Archiv)
 
-.. admonition:: Versionsverwaltung (Git-Archiv)
+        .. git_changelog::
+            :revisions: 1
 
-    .. git_changelog::
-        :revisions: 1
-
-    .. git_commit_detail::
-        :branch:
-        :commit:
-        :uncommitted:
-        :untracked:
+        .. git_commit_detail::
+            :branch:
+            :commit:
+            :uncommitted:
+            :untracked:
 
 
+..
+    .. only:: html
 
-.. only:: html
-
-    .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
-        :align: center
-        :width: 100%
+        .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
+            :align: center
+            :width: 100%
 
 
 
@@ -80,3 +80,14 @@ Arbeits- und Ausbildungsstandards für den Sanitätsdienst
             :width: 100%
 
 
+
+.. admonition:: Versionsverwaltung (Git-Archiv)
+
+    .. git_changelog::
+        :revisions: 1
+
+    .. git_commit_detail::
+        :branch:
+        :commit:
+        :uncommitted:
+        :untracked:

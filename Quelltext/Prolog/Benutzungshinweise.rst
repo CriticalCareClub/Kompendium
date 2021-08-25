@@ -3,7 +3,16 @@
 Benutzungshinweise
 ##################
 
+.. admonition:: Versionsverwaltung (Git-Archiv)
 
+    .. git_changelog::
+        :revisions: 1
+
+    .. git_commit_detail::
+        :branch:
+        :commit:
+        :uncommitted:
+        :untracked:
 
 *******
 Im Text

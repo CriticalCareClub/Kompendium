@@ -7,7 +7,7 @@ pages:
   - set LIBRARY_PATH=$LIBRARY_PATH:/lib:/usr/lib
   - pip3 install --upgrade pip
   - pip3 install Pillow
-  - pip3 install sphinx sphinxcontrib.bibtex sphinx_git sphinxcontrib-actdiag sphinxcontrib-blockdiag sphinxcontrib-seqdiag sphinxcontrib-nwdiag
+  - pip3 install sphinx sphinx-material sphinxcontrib.bibtex sphinx_git sphinxcontrib-actdiag sphinxcontrib-blockdiag sphinxcontrib-seqdiag sphinxcontrib-nwdiag
   - apk --no-cache add make
   - pwd
   - git checkout Entwicklung

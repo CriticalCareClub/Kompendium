@@ -3,6 +3,18 @@
 Offenlegung, Impressum, Nutzungsbedingungen und Hinweise
 ********************************************************
 
+
+.. admonition:: Versionsverwaltung (Git-Archiv)
+
+    .. git_changelog::
+        :revisions: 1
+
+    .. git_commit_detail::
+        :branch:
+        :commit:
+        :uncommitted:
+        :untracked:
+
 Dieses Werk ist in Entwicklung und gegenwärtig nicht zur Veröffentlichung bestimmt!
 
 | Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für den Sanitätsdienst

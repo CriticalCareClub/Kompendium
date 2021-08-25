@@ -689,7 +689,11 @@ initiiert werden (< 10 min. nach :term:`FMC`).
 ℞ Therapiestrategie NSTEMI
 =====================================
 
-.. versionchanged:: 4.0.0-0.2021-08-25 (`#94 Aktualisierung Handlungsempfehlung ACS <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/94>`_)
+.. versionchanged:: 4.0.0-0.2021-08-25
+
+    `#94 Aktualisierung Handlungsempfehlung ACS <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/94>`_
+
+
 
 .. inkludiert `#94 Aktualisierung Handlungsempfehlung ACS <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/94>`_
 

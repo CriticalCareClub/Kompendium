@@ -2,7 +2,7 @@ image: alpine
 
 pages:
   script:
-  - apk --no-cache add file git py3-pip python3-dev imagemagick zlib-dev jpeg-dev musl-dev py3-setuptools python3-dev gcc zip
+  - apk --no-cache add file git py3-pip python3-dev imagemagick zlib-dev jpeg-dev musl-dev py3-setuptools python3-dev gcc zip libxml2
   - convert --version
   - set LIBRARY_PATH=$LIBRARY_PATH:/lib:/usr/lib
   - pip3 install --upgrade pip

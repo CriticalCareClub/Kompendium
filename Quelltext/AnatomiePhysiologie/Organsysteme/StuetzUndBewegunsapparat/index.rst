@@ -339,20 +339,20 @@ ist mit einer dünnen Schicht *Schmierflüssigkeit*
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
 .. index::
-    single: ! Kugelgelenk
-    single: ! Gelenk;Kugel-
-    single: ! Eigelenk
-    single: ! Gelenk;Ei-
-    single: ! Sattelgelenk
-    single: ! Gelenk;Sattel-
-    single: ! Scharniergelenk
-    single: ! Gelenk;Scharnier-
-    single: ! Zapfengelenk
-    single: ! Gelenk;Zapfen-
-    single: ! Zusammengesetztes Gelenk
-    single: ! Gelenk;zusammengesetztes -
-    single: ! Zusammengesetztes Gelenk
-    single: ! Gelenk;zusammengesteztes -
+    single: Kugelgelenk
+    single: Gelenk;Kugel-
+    single: Eigelenk
+    single: Gelenk;Ei-
+    single: Sattelgelenk
+    single: Gelenk;Sattel-
+    single: Scharniergelenk
+    single: Gelenk;Scharnier-
+    single: Zapfengelenk
+    single: Gelenk;Zapfen-
+    single: Zusammengesetztes Gelenk
+    single: Gelenk;zusammengesetztes -
+    single: Zusammengesetztes Gelenk
+    single: Gelenk;zusammengesteztes -
 
 Gelenkarten
 ----------------

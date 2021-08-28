@@ -510,7 +510,7 @@ Alter des Patienten. Durch den Durchfall und das Erbrechen kann es zu
 einem maßgeblichen Verlust von Wasser und Elektrolyten kommen. Wenn der
 Patient nicht ausreichend trinken kann besteht die Gefahr der
 Austrocknung
-(Exsikkose\ :index:`\ <Exsikkose; gastrointestinaler Infekt`).
+(Exsikkose\ :index:`\ <Exsikkose; gastrointestinaler Infekt>`).
 
 
 

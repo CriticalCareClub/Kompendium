@@ -1,6 +1,6 @@
 
 .. index::
-    single: ! Blut
+    single: Blut
 
 
 .. _blut:

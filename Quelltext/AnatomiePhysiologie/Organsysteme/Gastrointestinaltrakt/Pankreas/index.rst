@@ -1,8 +1,8 @@
 
 
 .. index::
-    single: ! Bauchspeicheldrüse
-    single: ! Pankreas
+    single: Bauchspeicheldrüse
+    single: Pankreas
 
 ****************
 Exkurs: Pankreas

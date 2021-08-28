@@ -228,10 +228,10 @@ Eileiter in die Gebärmutter, wo sie sich einnistet.
 
 
 .. index::
-    single: ! Uterus
-    single: ! Gebärmutter
-    single: ! Zervix
-    single: ! Muttermund
+    single: Uterus
+    single: Gebärmutter
+    single: Zervix
+    single: Muttermund
 
 Uterus (Gebärmutter)
 ----------------------
@@ -256,8 +256,8 @@ mündet die Gebärmutter in die Scheide, die Mündung wird als
 :dfn:`Muttermund` bezeichnet.
 
 .. index::
-    single: ! Vagina
-    single: ! Scheide
+    single: Vagina
+    single: Scheide
 
 Vagina (Scheide)
 ---------------------

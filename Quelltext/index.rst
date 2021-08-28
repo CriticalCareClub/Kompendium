@@ -62,6 +62,7 @@ Arbeits- und Ausbildungsstandards für den Sanitätsdienst
     AirwayBreathing/index
     Reanimation/index.rst
     Speziell/index.rst
+    Pharmakotherapie/index.rst
     Appendix/index.rst
 
 

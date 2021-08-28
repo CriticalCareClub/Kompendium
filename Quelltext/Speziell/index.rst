@@ -22,5 +22,4 @@ Spezielle Notfallmedizin
     Urologie/index.rst
     Abdomen/index.rst
     Anaphylaxie/index
-    Pharmakotherapie/index.rst
     SterbenUndTod/index.rst

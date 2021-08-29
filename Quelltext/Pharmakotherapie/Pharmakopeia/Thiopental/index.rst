@@ -2,30 +2,24 @@
 Thiopental
 ----------
 
-
-
-ist das letzte am Markt befindliche Barbiturat-Hypnotikum zur
-Verwendung im Rahmen der Allgemeinanästhesie. Seine Bedeutung hat
-seit der Einführung von Propofol deutlich abgenommen.
-Aufgrund
-seines schnellen Wirkungseintritts wird Thiopental heute noch im
-Rahmen der Schnelleinleitung bei der Sectio caesaria eingesetzt,
+Das letzte am Markt befindliche Barbiturat-Hypnotikum zur
+Verwendung im Rahmen der Allgemeinanästhesie.
+Seine Bedeutung hat seit der Einführung von Propofol deutlich abgenommen.
+Aufgrund seines schnellen Wirkungseintritts wird Thiopental heute noch im Rahmen der Schnelleinleitung bei der Sectio caesaria eingesetzt,
 aber auch hier wird es zunehmend von Propofol verdrängt.
 
+:Spezialitäten:
 
+   *Thiopental* TSA 500  mg , 1000  mg
 
-.. Thema-: Spezialitäten
-
-    *Thiopental* TSA 500  mg , 1000  mg
-
-.. Thema-: Pharmakodynamik
+:Pharmakodynamik:
 
     Interaktion als Modulator mit GABA\ :sub:`A`-Rezeptorkomplex,
     bewirkt Verlängerung der Cl\ :sup:`-`-Kanalöffnungszeit. In höherer
     Konzentration ist auch eine direkte Aktivierung der
     GABA\ :sub:`A`-Kanäle möglich.
 
-.. Thema-: Pharmakokinetik
+:Pharmakokinetik:
 
     Thiopental flutet rasch an, mit einem Wirkungseintritt ist
     schon nach ca. 1 Minute zu rechnen. Durch die ebenfalls rasche
@@ -39,11 +33,11 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
     Dauer der hypnotischen Wirkung 5—15 min,
     Eliminations-HWZ 5—10 h , PPB 97%
 
-.. Thema-: Wirkungen
+:Wirkungen:
 
-    Anxiolyse, Sedation, Hypnose, Antikonvulsion
+   Anxiolyse, Sedation, Hypnose, Antikonvulsion
 
-.. Thema-: Nebenwirkungen
+:Nebenwirkungen:
 
     -   Zerebrale Vasokonstriktion, Abnahme der cerebralen Durchblutung
         (*CBF*) und des cerebralen Blutvolumens (*CBV*), Senkung des
@@ -59,7 +53,7 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
     -   Histaminfreisetzung
     -   Venenreizung, Gewebsnekrosen bei Paravasat
 
-.. Thema-: Indikation
+:Indikation:
 
     Narkoseeinleitung, besonders bei:
     -   Krampfanfall
@@ -69,7 +63,7 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
     Sonst wurde Thiopental weitgehend von Propofol
     und Ketamin als Einleitungshypnotikum abgelöst.
 
-.. Thema-: Kontraindikationen
+:Kontraindikationen:
 
     -   Schock,
     -   dekompensierte Herzinsuffizienz,
@@ -86,19 +80,18 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
     -   Leberzirrhose,
     -   schwere Nierenfunktionsstörungen
 
+:Wechselwirkungen:
 
-.. Thema-: Dosierung
+:Dosierung:
 
     3—7 mg / kg (70: 210—490 mg; 100: 300—700 mg)
-
-
 
 .. warning::
 
    Paravasat oder intraarterielle Injektion verursacht schwere
    *Gewebenekrosen*!
 
-.. Thema-: Trivia
+:Trivia:
 
     Traurige Bekanntheit erreichte Thiopental durch seine Verwendung als Mittel
     zur Hinrichtung per "Giftspritze" in den USA.

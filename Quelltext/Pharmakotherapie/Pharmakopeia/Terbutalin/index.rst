@@ -1,13 +1,17 @@
+
+.. index::
+    single: Terbutalin
+
+.. _Terbutalin:
+
 Terbutalin
 ==========
 
-
-
-.. Thema-: Spezialitäten
+:Spezialitäten:
 
     Bricanyl™ 0,5 mg / mL
 
-.. Thema-: Indikation und Dosierung
+:Indikation und Dosierung:
 
     -   Asthmaanfall
 
@@ -19,13 +23,16 @@ Terbutalin
 
         0,25 mg (Amp)
 
-.. Thema-: Kontraindikationen
+:Kontraindikationen:
 
     Cave bei Tachykardie, Thyreotoxikose, hypertrophe obstruktive CMP,
     KHK, MCI, (subvalvuläre) Aortenstenose
 
 .. note::
 
-    Bei iv.-Appl verdünnen, besser DT oder Perf. sc. unverdünnt.
+    Bei i. v.-Applikation verdünnen,
+    besser DT oder Perfusor;
+    s. c. unverdünnt.
     Monitor-/RR-Kontrolle.
 
+    Alternativ lässt sich Terbutalin auch unverdünnt über eine 1 mL -Spritze titrieren.

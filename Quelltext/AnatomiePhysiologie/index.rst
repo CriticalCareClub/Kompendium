@@ -30,7 +30,21 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
     :maxdepth: 3
     :caption: Neu
 
-    ./AnatomieNeu.rst
+    Terminologie/index
+    Bewegungsapparat/index
+    HerzKreislauf/index
+    Blut/index
+    Respiration/index
+    GIT/index
+    Stoffwechsel/index
+    Harn/index
+    Reproduktion/index
+    Nervensystem/index
+    Sinnesorgane/index
+    Endokrin/index
+    Temperatur/index
+    Schlaf/index
+
 
 
 .. toctree::

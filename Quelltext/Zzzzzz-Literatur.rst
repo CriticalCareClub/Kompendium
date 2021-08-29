@@ -560,6 +560,9 @@ Literaturverzeichnis
 	5. Auflage, 2004.
 	Urban & Fischer.
 
+.. [Damman:2017] Damman, P.; van 't Hof, A. W. et al.:
+    2015 ESC guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation: comments from the Dutch ACS working group.
+    Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation, 2017, 25, 181-185.
 
 .. [Def:Beanspruchung]
 
@@ -990,6 +993,17 @@ Literaturverzeichnis
 	Berufe Im Gesundheitswesen.**
 	6. Auflage, 2011.
 	Elsevier.
+
+
+
+.. [Ibanez:2017] Ibanez, B.; James, S.; Agewall, S. et al.:
+    2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).
+    European heart journal, 2017.
+    DOI: 10.1093/eurheartj/ehx393
+
+.. [Ibanez:2018] Ibanez, B.; James, S. et al.:
+    2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).
+    European heart journal, 2018, 39, 119-177.
 
 
 

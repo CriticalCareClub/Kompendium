@@ -1,4 +1,11 @@
 
+.. index::
+    single: Akutes Koronarsyndrom
+    single: ACS
+    single: Koronarsyndrom; akutes
+    single: Infarkt; Herz-
+    single: STEMI
+    single: NSTEMI
 
 .. _Acs:
 .. _AkutesKoronarsyndrom:
@@ -14,6 +21,10 @@ Akutes Koronarsyndrom (ACS)
 
 
 Basierend auf: `2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation <https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393>`_ [Esc-2017-GuidelinesStemi]_
+
+
+[Damman:2017]_ [Ibanez:2017]_ [Ibanez:2018]_
+
 
 .. contents::
 

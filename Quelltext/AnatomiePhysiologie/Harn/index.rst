@@ -1,6 +1,6 @@
 
 
-HARNPRODUZIERENDES UND -ABLEITENDES SYSTEM
+Harnproduzierendes und -ableitendes System
 ************************************************************************
 
 .. _allgemeine-anatomie-5:
@@ -28,6 +28,17 @@ einer Fettkapsel (Capsula adiposa) und einer bindegewebigen Faszie
 (Fascia renalis) umhüllt. Sie besitzt selbst noch eine derbe
 bindegewebige Kapsel (Capsula renalis). Am oberen Nierenpol liegt die
 Nebenniere an.
+
+
+
+.. figure:: /Bilder/WikipediaPd/Kidneys.*
+    :width: 50%
+    :align: right
+
+    Die Nieren
+
+    ₢ WmCo/Mikael Häggström and Madhero88 ℓ PD
+
 
 Im Längsschnitt kann man *Nierenrinde (Cortex renalis)* und
 pyramidenförmig das *Nierenmark (Medulla renalis*, ca. 10-12 Stück)

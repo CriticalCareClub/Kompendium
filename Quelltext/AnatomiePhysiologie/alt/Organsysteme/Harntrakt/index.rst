@@ -25,15 +25,6 @@ der Wirbelsäule auf Höhe der unteren Rippenpaare, das entspricht der
 Höhe des zwölften Brustwirbels, und reichen ca. bis zum dritten
 Lendenwirbel hinab.
 
-
-.. figure:: /Bilder/WikipediaPd/Kidneys.*
-    :width: 50%
-    :align: right
-
-    Die Nieren
-
-    ₢ WmCo/Mikael Häggström and Madhero88 ℓ PD
-
 Die rechte Niere liegt (wegen des großen rechten
 Leberlappens) ungefähr eine halbe Wirbelhöhe tiefer als die Linke. Die
 Nieren besitzen wie die Milz eine Bindegewebskapsel. Eine Niere ist ca.

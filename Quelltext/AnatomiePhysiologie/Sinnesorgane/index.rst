@@ -1,5 +1,5 @@
 
-SINNESORGANE
+Sinnesorgane
 ************************************************************************
 
 Auge
@@ -205,6 +205,42 @@ Eine *Frequenzzunahme* führt zur Zunahme der Tonhöhenempfindung. Eine
 Zunahme des Schalldrucks (dB) führt zu einer Zunahme der
 Lautstärkeempfindung.
 
+
+.. subfigstart::
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Ohr.*
+    :width: 100%
+
+    Das Ohr im Querschnitt.
+
+    Man sieht den äußeren Gehörgang, das Trommelfell,
+    die Gehörknöchelchen, die Schnecke und die Bogengänge.
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Mittelohr.*
+    :width: 100%
+
+    Das Mittelohr:
+
+    Im Detail sind hier das Trommelfell,
+    sowie die Gehörknöchelchen Hammer,
+    Amboss und Steigbügel zu sehen.
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+.. subfigend::
+    :width: 0.45
+    :label: Figure-BilderserieOhr
+
+    Bilderserie: Das Ohr
+
+
+
 Gehörorgan
 ------------------------------------------------------------------------
 
@@ -313,6 +349,14 @@ sowie durch oxygeniertes und desoxygeniertes *Blut* in den Blutgefäßen
 beeinflusst. Basierend auf äußeren Merkmalen kann man die Haut in eine
 *Leistenhaut* (an Hand- und Fußflächen) und eine *Felderhaut*
 (restlicher Körper) unterteilen.
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Haut-edited.*
+    :width: 70%
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+
 
 Schichten
 ------------------------------------------------------------------------

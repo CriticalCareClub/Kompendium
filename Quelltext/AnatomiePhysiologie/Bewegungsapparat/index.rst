@@ -1,5 +1,5 @@
 
-BEWEGUNGSAPPARAT
+Bewegungsapparat
 ************************************************************************
 
 Allgemeine Anatomie
@@ -11,6 +11,15 @@ den Knochenverbindungen, der aktive Bewegungsapparat besteht aus
 Skelettmuskulatur, den dazugehörigen Sehnen und den Hilfseinrichtungen
 der Muskel (Muskelfaszien, Schleimbeutel, Sehnenscheiden, Sesambeine).
 
+
+.. figure:: /Bilder/WikipediaPd/Human_skeleton_front-edited.*
+    :width: 100%
+
+    Das menschliche Skelett.
+
+    ₢ Mariana Ruiz Villarreal ℓ Public domain
+
+
 Juncturen (Knochenverbindungen)
 -------------------------------
 
@@ -18,6 +27,17 @@ Juncturen können in *Synarthrosen* (kontinuierliche / unbewegliche
 Knochenverbindungen, Fugen / Haften) und *Diarthrosen*
 (diskontinuierliche / bewegliche Knochenverbindungen, Gelenke)
 unterteilt werden.
+
+
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Gelenk-edited.*
+    :width: 50%
+
+    Ein Gelenk im Querschnitt
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
 
 Synarthrosen
 
@@ -104,6 +124,20 @@ Raumebene. Bei drei Freiheitsgraden (maximal möglich), kann man mit
 diesem Gelenk Bewegungen in allen drei Raumebenen durchführen. Bei einem
 Freiheitsgrad kann nur eine bestimmte Bewegung ausgeführt werden.
 
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Gelenkarten.*
+    :width: 100%
+
+    Gelenkarten:
+    **A** Kugelgelenk (3 Achse; z. B. Hüftgelenk),
+    **B** Eigelenk (2 Achsen; z. B. Handwurzelgelenk),
+    **C** Sattelgelenk (2 Achsen; z. B. Daumengrundgelenk),
+    **D** Scharniergelenk (1 Achse; z. B. Fingergliedgelenke, Elle–Oberarmknochen),
+    **E** Zapfengelenk (1 Achse; z. B. Elle–Speiche)
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+
 Zusätzlich muss man noch folgende unterschiedliche *Gelenksarten*
 unterscheiden:
 
@@ -135,6 +169,16 @@ umfasst die Begriffe Punctum mobile - der Skelettteil der bewegt wird -
 und Punctum fixum - der Skelettteil der unbewegt bleibt. In Abhängigkeit
 der durchzuführenden Bewegung können Punctum fixum und Punctum mobile
 wechseln (z.B. Atemhilfsmuskulatur).
+
+
+.. figure:: /Bilder/WikipediaPd/Gray361.*
+    :width: 50%
+    :align: right
+
+    Muskelzug
+
+    ₢ Gray’s Anatomy  ℓ Copyright expired
+
 
 An jedem Muskel kann man einen Muskelkopf (Caput), einen Muskelbauch
 (Venter) und eine Muskelsehne (Tendo) unterscheiden.
@@ -204,6 +248,17 @@ Knochen des Thorax (Brustkorbs) - Costae (Rippen) und Sternum
 
 Columna vertebralis (Wirbelsäule)
 ---------------------------------
+
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Wirbel-allgemein.*
+    :width: 50%
+
+    Wirbel
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+
 
 Die Wirbelsäule liegt dorsal in der *Mediansagittalebene* und besteht
 aus 33 - 34 Knochen. Sie ist somit das Achsenskelett unseres Körpers.
@@ -422,6 +477,15 @@ Rippen).
 Thoraxmuskulatur
 ----------------
 
+
+
+.. figure:: /Bilder/WikipediaPd/Thorax.*
+    :width: 70%
+
+    Der knöcherne Thorax
+
+    ₢ Mariana Ruiz Villarreal ℓ Public domain
+
 Die Hauptfunktion der Muskeln des Brustkorbs liegt in der Atmung.
 
 *Echte Atemmuskeln*:
@@ -628,6 +692,16 @@ eingeteilt (oberflächliches, mittleres und tiefers Blatt).
 Caput (Kopf)
 ============
 
+
+.. figure:: /Bilder/WikipediaCcBy/Human_skull_front_simplified_bones_de-edited.*
+    :width: 50%
+    :align: right
+
+    Querschnitt durch die Schädeldecke
+
+    [Gray’s Anatomy / Copyright expired]
+
+
 Cranium
 -------
 
@@ -696,6 +770,15 @@ Am Schädeldach (Kalotte) kann man beim Erwachsenen einige *Schädelnähte*
 -   Sutura lambdoidea (Lambdanaht)
 -   Sutura squamosa (Schuppennaht)
 
+
+.. figure:: /Bilder/WikipediaPd/Gray1196-edited.*
+    :width: 50%
+
+    Aufsicht auf die Schädelbasis
+
+    ₢ Gray’s Anatomy ℓ Copyright expired
+
+
 Sie sind Überbleibsel aus der Wachstumsphase des Menschen - im Gegensatz
 zu den Röhrenknochen (indirekte Ossifikation) findet hier das
 Knochenwachstum am Knochenrand (direkte Ossifikation) statt. Am Schädel
@@ -709,6 +792,14 @@ Wachstumszonen, die *Fontanellen*:
     Verschluss ca. im 36. Lebensmonat.
 -   Fonticulus posterior (hintere Fontanelle): kleiner, dreieckig,
     Verschluss ca. im 3. Lebensmonat.
+
+.. figure:: /Bilder/WikipediaPd/fontanelle-dt.*
+    :width: 50%
+    :align: right
+
+    Fontanellen
+
+    ₢ Gray’s Anatomy ℓ Copyright expired
 
 Muskeln des Kopfes
 ------------------
@@ -742,6 +833,16 @@ möglich.
 
 Membrum superius (Obere Extremität)
 ===================================
+
+
+
+.. figure:: /Bilder/WikipediaPd/Human_arm_bones_diagram_de-edited.*
+    :width: 100%
+
+    Der Schultergürtel und die obere Extremität
+
+    ₢ Mariana Ruiz Villarreal ℓ Public domain
+
 
 Der Arm kann in mehrere Bereiche eingeteilt werden - *Oberarm
 (Brachium), Unterarm (Antebrachium) und Hand (Manus)*. Bei der Hand
@@ -1105,6 +1206,16 @@ Das Bein gilt als freie untere Extremität und kann in mehrere Bereiche
 eingeteilt werden - *Oberschenkel (Femur), Unterschenkel (Crus) und Fuß
 (Pes)*. Beim Fuß unterscheidet man weiters die *Fußwurzel (Tarsus), den
 Mittelfuß (Metatarsus) und die Zehen (Digiti)*.
+
+
+.. figure:: /Bilder/WikipediaPd/Human_skeleton_lower-extr-edited.*
+    :width: 50%
+    :align: right
+
+    Der Beckengürtel und die untere Extremität
+
+    ₢ Mariana Ruiz Villarreal ℓ Public domain
+
 
 Zur unteren Extremität gehören folgende Skelett-Anteile:
 

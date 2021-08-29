@@ -1,5 +1,5 @@
 
-HERZ-KREISLAUFSYSTEM
+Herz-Kreislaufsystem
 ************************************************************************
 
 .. _allgemeine-anatomie-1:
@@ -53,8 +53,14 @@ Das Mediastinum kann in mehrere Bereiche eingeteilt werden:
         azygos, V. hemiazygos, N. vagus (X), Truncus sympathicus, Nn.
         splanchnici majores et minores, Ductus thoracicus, Ösophagus
 
+.. _Herz:
+
 Herz
 ====
+
+
+.. todo:: Neu: `#82 Nervale Versorgung und Adrenorezeptoren <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/82>`_
+
 
 Das Herz (cor) befindet sich im Mediastinum, dem Bindegewebsraum
 zwischen den beiden Lungenflügeln. Es ist ein *muskuläres Hohlorgan* und
@@ -110,6 +116,9 @@ zwischen den beiden Kammern. Im Sulcus coronarius verlaufen die
 Hauptstämme der Herzkranzgefäße, im Sulcus interventricularis verlaufen
 der R. intercentricularis anterior bzw. posterior.
 
+.. index::
+    single: Herzklappen
+
 Herzklappen
 -----------
 
@@ -143,8 +152,70 @@ Es gibt *zwei Arten von Klappen*:
     -   Aortenklappe links, 3 Taschen
     -   Pulmonalklappe rechts, 3 Taschen
 
+
+.. subfigstart::
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
+    :width: 100%
+
+    ₢ Lena Hirtler  :term:`ℓ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.*
+    :width: 100%
+
+    Das Herz, schematisch
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
+    :width: 100%
+
+    Reizleitungssystem, Schema
+
+    ₢ J. Heuser, basierend auf der Arbeit von
+    Patrick J. Lynch; illustrator;
+    C. Carl Jaffe; MD; cardiologist Yale University Center for
+    Advanced Instructional Media ℓ CC-BY
+
+.. subfigend::
+    :width: 0.32
+    :label: Figure-BilderserieHerz
+
+    Bilderserie: Herz
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
+    :width: 40%
+    :align: right
+
+    ₢ Lena Hirtler  :term:`ℓ MfG`
+
+
+
+.. _reizleitungssystem:
+
 Reizleitungssystem
 ------------------
+
+.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
+    :width: 40%
+    :align: right
+
+    Reizleitungssystem, Schema
+
+    ₢ J. Heuser, basierend auf der Arbeit von
+    Patrick J. Lynch; illustrator;
+    C. Carl Jaffe; MD; cardiologist Yale University Center for
+    Advanced Instructional Media
+    ℓ CC-BY
 
 Das Herz weist als einziger Muskel des menschlichen Körpers ein eigenes
 *Erregungsbildungs- und -leitungssystem* auf. Dieses ist in mehrere
@@ -327,6 +398,18 @@ Kreislauf auch in ein Hochdrucksystem und ein Niederdrucksystem
 unterteilen. Das Niederdrucksystem umfasst die Körpervenen, das rechte
 Herz und die Lungengefäße.
 
+
+.. _fig-blutkreislauf-schema:
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Kreislauf-Schema.*
+    :width: 40%
+    :align: right
+
+    Der Blutkreislauf (Schema)
+
+    ₢ Lena Hirtler  :term:`ℓ MfG`
+
+
 Vom Erwachsenen-Kreislauf unterscheidet sich der *fetale Kreislauf* in
 einigen markanten Stellen. Zum einen wird das Blut über die *Nabelvene*
 Richtung V. cava inferior zugeführt und über die *zwei Nabelarterien*
@@ -380,8 +463,36 @@ Kreislauf- und Blutdruck-*Regulation*:
 -   Blutzirkulation in den Kapillaren
 -   venöser Rückstrom zum Herzen
 
+
+
 Lungenkreislauf:
 ----------------
+
+
+.. only:: not nosidebar
+
+    .. sidebar:: Kreislauf
+
+        -   Rechter Vorhof
+        -   Segelklappe
+        -   Rechte Herzkammer
+        -   Taschenklappe
+        -   Lungenarterie(n)
+        -   Lungenkapillaren
+            (CO₂-Abgabe, O₂-Aufnahme)
+        -   Lungenvenen
+        -   Linker Vorhof
+        -   Segelklappe
+        -   Linke Herzkammer
+        -   Taschenklappe (Aortenklappe)
+        -   Aorta
+        -   Arterien
+        -   Kapillaren
+            (O₂-Abgabe, CO₂-Aufnahme)
+        -   Venen
+        -   Hohlvene
+        -   Rechter Vorhof ↻
+
 
 rechter Vorhof ➛ Trikuspidalklappe ➛ rechte Kammer ➛ Pulmonalklappe ➛
 Truncus pulmonalis ➛ Aa. pulmonales dextra und sinistra ➛ Kapillaren ➛
@@ -417,6 +528,8 @@ angeführt.
 
 Aorta:
 ~~~~~~
+
+.. todo:: Die Arterien gehören definitv abgespeckt ... wichtig ist woran man versterben kann oder wo einem ein Körperteil abfällt ...
 
 (1) Pars ascendens aortae
 
@@ -967,3 +1080,33 @@ Arcus venosum plantaris
 V. marginalis lateralis ➛ in die V. saphena parva
 
 V. marginalis medialis ➛ in die V. saphena magna
+
+
+.. todo:: Shunt
+
+    .. _shunt:
+
+    .. only:: not nosidebar
+
+        .. sidebar:: Dialyseshunt
+
+            -   Künstliche Verbindung Arterie – Vene
+            -   Dialyse
+            -   **Verletzlich**
+            -   Nicht stauen!
+
+    Ein :dfn:`Shunt` ist eine Kurzschlussverbindung mit
+    Flüssigkeitsübertritt zwischen getrennten Gefäßen.
+    Ein Shunt zwischen einer Arterie und einer Vene wird bei
+    *Dialyse-Patienten* oft künstlich (chirurgisch) angelegt um bei der
+    Dialyse einen hohen Durchfluss zu erreichen. [#fnShunt]_
+    Ein derartiger Dialyse-Shunt ist **verletzlich**,
+    daher darf an einem Arm mit Shunt das Blut *nicht gestaut* werden;
+    das betrifft insbesonders die *Blutdruckmessung*
+    (:ref:`blutdruckmessung`).
+
+    .. [#fnShunt]
+        Dadurch dass durch die Vene umgeleitetes, arterielles, Blut mit
+        höherem Druck fließt, verdickt sich die Vene und man kann sie mit
+        dickeren Kanülen punktieren.
+

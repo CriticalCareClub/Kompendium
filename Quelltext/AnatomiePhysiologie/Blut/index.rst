@@ -1,6 +1,12 @@
 
-BLUT
+Blut
 ************************************************************************
+
+
+.. figure:: /Bilder/WikipediaCcBy/Bleeding_finger.*
+
+    ₢ Crystal (Crystl) from Bloomington, USA (http://www.flickr.com/people/crystalflickr/) ℓ CC-BY
+
 
 .. _allgemeine-anatomie-2:
 
@@ -36,6 +42,27 @@ Antigen-Antikörper-Reaktionen zunächst noch erläutert werden:
     Bestandteile eines Antigens gerichtet und besitzen die Fähigkeit an
     dieses zu binden.
 
+
+
+
+.. index::
+    single: Blut, feste Bestandteile
+    single: Blut, flüssige Bestandteile
+    single: Blutkörperchen, rote
+    single: Erythrozyten
+    single: Blutkörperchen, weiße
+    single: Leukozyten
+    single: Blutplättchen
+    single: Thrombozyten
+    single: Hämoglobin
+    single: Plasma (Blut)
+    single: Blutplasma
+    single: Anämie
+    single: Blutgruppen
+    single: Blutgruppenmerkmale
+
+
+
 .. _blut-1:
 
 Blut
@@ -54,6 +81,11 @@ Folgende *Aufgaben* hat das Blut:
 -   Transport von Nährstoffen, Stoffwechselprodukten, körpereigenen
     Stoffen, Wärme (Blutplasma)
 -   Blutgerinnung (Blutplättchen, Gerinnungsfaktoren des Blutplasma)
+
+.. _haemoglobin:
+.. _leukozyten:
+.. _erythrozyten:
+.. _thrombozyten:
 
 zelluläre Bestandteile
 ----------------------
@@ -170,10 +202,18 @@ zu einer Zellschrumpfung. Wenn man hypotonische Lösungen einsetzt
 kommt zum Platzen von Zellen.
 
 Osmolalität = Konzentration osmotisch wirksamer Teilchen in einer Lösung
-bezogen auf 1kg des Lösungsmittels.
+bezogen auf 1 kg des Lösungsmittels.
+
+.. _Gerinnungsfaktoren:
 
 Blutstillung und Blutgerinnung
 ------------------------------
+
+.. todo:: Gerinnung: Genauer!
+
+    -   Gerinnungskaskade, Gerinnungsfaktoren
+    -   Vorläufiger Wundverschluss (Thrombozytenpfropf)
+    -   Endgültiger Wundverschluss (Blutgerinnung)
 
 Die *Blutungszeit* beträgt durchschnittlich ca. 2 bis 4 Minuten. Bei
 kleineren Stichverletzungen beträgt die *Gerinnungszeit* ca. 8 bis 10
@@ -191,6 +231,86 @@ Phasen der *Fibrinolyse*:
 
 Aktivatoren in Blut und Gewebe - Plasminogen wird in Plasmin umgewandelt
 - das Fibrin wird aufgelöst, der Thrombus wird resorbiert.
+
+
+.. todo::     Sauerstofftransport
+
+
+    .. _blut-sauerstofftransport:
+
+
+    .. sidebar:: Sauerstofftransport
+
+        -   Rote Blutkörperchen (Erythrozyten) und
+        -   Hämoglobin
+
+    Durch das Kreislaufsystem wird
+    sauerstoff- und nährstoffreiches Blut gepumpt. Es nimmt Sauerstoff in
+    der Lunge auf, bringt ihn zu den Zellen und nimmt auf dem Rückweg das
+    abzuatmende *Kohlendioxid* auf, welches zur Lunge transportiert wird.
+    Ausschlaggebend für die Sauerstoffversorgung ist der *Sauerstoffgehalt*
+    des Blutes. Dieser wird wesentlich durch den Gasaustausch, aber auch
+    durch die Aufnahmekapazität des Blutes bestimmt. Wieviel Sauerstoff das
+    Blut aufnehmen kann, hängt vor allem von der Anzahl der roten
+    Blutkörperchen (*Erythrozyten*) bzw. der Konzentration des
+    Blutfarbstoffes *Hämoglobin* ab.
+    Im arteriellen Blut sind pro Liter ca
+    0,2 L Sauerstoff enthalten. Im Normalfall werden davon nur ca. 25% vom
+    Körper aufgenommen, der Rest gelangt ungenutzt in das venöse System
+    zurück.
+
+    .. rubric:: Advanced
+
+    Die **Sauerstoffbindekapazität** wird bestimmt durch die Hämoglobinkonzentration und der Affinität des Sauerstoffs mit dem Hämoglobin eine Bindung einzugehen.
+
+    Unter optimalen Bedingungen von 1 g Hämoglobin 1,34 mL Sauerstoff gebunden werden.
+    Dieser Faktor von 1,34 wird auch als :dfn:`Hüfner-Zahl`
+    :index:`\ <Hüfner-Zahl>`
+    bezeichnet.
+    Es ist jedoch wichtig zu wissen dass u. a. der :ref:`pH-Wert <PH>` die Sauerstoffbindungsaffinität maßgeblich verändert:
+    Bei einer Azidose nimmt die Affinität ab
+    (Sauerstoff wird schlechter aufgenommen, aber im Gewebe leichter abgegeben),
+    bei einer Alkalose nimmt die Affinität zu
+    (Sauerstoff wird leichter aufgenommen, aber im GEwebe schlechter abgegeben).
+    Man kann diese Dynamik auf in einer Grafik auf einer Kurve,
+    der *Sauerstoffbindungskurve*,
+    darstellen.
+
+    Die gesamte **Sauerstofftransportkapazität** wird weiters
+    neben der Bindekapazität
+    auch von der Sauerstoffsättigung,
+    vom Herzauswurf (Cardiac Output, CO)
+    und der Herzfrequenz bestimmt.
+
+.. todo:: Blutprodukte
+
+    .. only:: not nosidebar
+
+        .. sidebar:: Blutprodukte
+
+            -   Erythrozytenkonzentrate
+            -   Thrombozytenkonzentrate
+            -   Problem: Antikörper
+
+    Zu medizinischen Zwecken können Blutbestandteile durch Blutprodukte
+    ersetzt werden. Die wichtigsten Produkte sind:
+
+    -  :dfn:`Erythrozytenkonzentrate` ("Ery-Konzentrate",
+    "Blutkonserven") sind Blutprodukte, welche (fast) ausschließlich
+    Erythrozyten enthalten und werden bei schwerwiegenden Anämien, z. B.
+    bei starken Blutungen, eingesetzt.
+
+    -  :dfn:`Thrombozytenkonzentrate` sind Blutprodukte, welche
+    fast ausschließlich Thrombozyten beinhalten.
+
+    Manche Menschen bilden Antikörper gegen bestimmte Fremdblutbestandteile,
+    sodass sie spezielle, taugliche, Blutprodukte benötigen. Die
+    Organisation von derartigen Produkten kann aufwendig und zeitkritisch
+    sein, da u.U. die benötigten Einheiten nur in speziellen Zentren im
+    geringen Umfang vorrätig sind.
+
+.. _immunsystem:
+.. _vitalfunktion-immunsystem:
 
 Immunsystem
 ===========

@@ -6,14 +6,6 @@ Der Schultergürtel und die obere Extremität
 ###########################################
 
 
-
-.. figure:: /Bilder/WikipediaPd/Human_arm_bones_diagram_de-edited.*
-    :width: 100%
-
-    Der Schultergürtel und die obere Extremität
-
-    ₢ Mariana Ruiz Villarreal ℓ Public domain
-
 ******************
 Der Schultergürtel
 ******************

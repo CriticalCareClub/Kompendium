@@ -1,10 +1,4 @@
-.. index::
-    single: Magen
-    single: Magensaft
-    single: Gaster
-    single: Salzsäure (Magen)
-    single: Pförtner (Magen)
-    single: Pylorus
+
 
 Magen
 -----

@@ -33,40 +33,6 @@ der wiederum das Blut in die linke Herzkammer pumpt.
 Großer (Körper-)Kreislauf
 -------------------------
 
-.. only:: not nosidebar
-
-    .. sidebar:: Kreislauf
-
-        -   Rechter Vorhof
-        -   Segelklappe
-        -   Rechte Herzkammer
-        -   Taschenklappe
-        -   Lungenarterie(n)
-        -   Lungenkapillaren
-            (CO₂-Abgabe, O₂-Aufnahme)
-        -   Lungenvenen
-        -   Linker Vorhof
-        -   Segelklappe
-        -   Linke Herzkammer
-        -   Taschenklappe (Aortenklappe)
-        -   Aorta
-        -   Arterien
-        -   Kapillaren
-            (O₂-Abgabe, CO₂-Aufnahme)
-        -   Venen
-        -   Hohlvene
-        -   Rechter Vorhof ↻
-
-.. _fig-blutkreislauf-schema:
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Kreislauf-Schema.*
-    :width: 40%
-    :align: right
-
-    Der Blutkreislauf (Schema)
-
-    ₢ Lena Hirtler  :term:`ℓ MfG`
-
 
 Das Blut wird aus der linken Herzkammer ausgestoßen und gelangt durch
 eine **Taschenklappe** (*Aortenklappe*) über die **Aorta** in den

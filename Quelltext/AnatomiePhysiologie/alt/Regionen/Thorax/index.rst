@@ -55,13 +55,6 @@ Der Brustkorb enthält und schützt sowohl die *Brustorgane* (Lunge,
 Herz), als auch die *Oberbauchorgane* (Leber, Magen, Milz, Nieren).
 
 
-.. figure:: /Bilder/WikipediaPd/Thorax.*
-    :width: 70%
-
-    Der knöcherne Thorax
-
-    ₢ Mariana Ruiz Villarreal ℓ Public domain
-
 .. note::
 
     -   Die Intaktheit des Brustkorbes ist für die Atmung von großer

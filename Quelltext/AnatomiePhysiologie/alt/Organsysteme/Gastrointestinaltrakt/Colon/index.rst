@@ -1,21 +1,4 @@
 
-.. index::
-    single: Dickdarm
-    single: Colon
-    single: Blinddarm
-    single: Appendix
-    single: Wurmfortsatz
-    single: Appendizitis
-    single: aufsteigender Teil des Dickdarms
-    single: querender Teil des Dickdarms
-    single: absteigender Teil des Dickdarms
-    single: s-förmig gebogener Teil des Dickdarms
-    single: Sigmoid
-    single: Anus
-    single: Rektum
-    single: Mastdarm
-    single: Wasserentzug
-
 ************************
 Colon (Dickdarm)
 ************************
@@ -66,10 +49,3 @@ Der Großteil der
 Wasseraufnahme aus der verdauten Nahrung findet hier statt. Der Dickdarm
 ist von *Darmbakterien* besiedelt.
 
-
-.. figure:: /Bilder/WikipediaPd/Colon_anatomy.*
-    :width: 75%
-
-    Der Dickdarm
-
-    ₢ Mariana Ruiz Villarreal ℓ Public domain

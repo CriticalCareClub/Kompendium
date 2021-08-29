@@ -38,37 +38,6 @@ Man unterscheidet zwischen:
 
 
 
-.. _shunt:
-
-Sonderfall Shunt
-----------------
-
-.. only:: not nosidebar
-
-    .. sidebar:: Dialyseshunt
-
-        -   Künstliche Verbindung Arterie – Vene
-        -   Dialyse
-        -   **Verletzlich**
-        -   Nicht stauen!
-
-Ein :dfn:`Shunt` ist eine Kurzschlussverbindung mit
-Flüssigkeitsübertritt zwischen getrennten Gefäßen.
-Ein Shunt zwischen einer Arterie und einer Vene wird bei
-*Dialyse-Patienten* oft künstlich (chirurgisch) angelegt um bei der
-Dialyse einen hohen Durchfluss zu erreichen. [#fnShunt]_
-Ein derartiger Dialyse-Shunt ist **verletzlich**,
-daher darf an einem Arm mit Shunt das Blut *nicht gestaut* werden;
-das betrifft insbesonders die *Blutdruckmessung*
-(:ref:`blutdruckmessung`).
-
-.. [#fnShunt]
-    Dadurch dass durch die Vene umgeleitetes, arterielles, Blut mit
-    höherem Druck fließt, verdickt sich die Vene und man kann sie mit
-    dickeren Kanülen punktieren.
-
-
-
 
 Aufbau in Schichten
 --------------------------------------

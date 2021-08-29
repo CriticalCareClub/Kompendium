@@ -1,23 +1,6 @@
 
 
 
-.. index::
-    single: Duodenum
-    single: Zwölffingerdarm
-    single: Ampulla duodeni
-    single: Flexura duodenojejunalis
-    single: Treitz'sche Flexur
-    single: Flexur, Treitz'sche -
-    single: Pars superior duodeni
-    single: Ampulla duodeni
-    single: Flexura duodeni superior
-    single: Pars descendens duodeni
-    single: Papilla vateri
-    single: Ductus choledocus
-    single: Ductus pancreaticus
-    single: Flexura duodeni inferior
-    single: Pars horizontalis duodeni
-    single: Pars ascendens
 
 .. _Duodenum:
 

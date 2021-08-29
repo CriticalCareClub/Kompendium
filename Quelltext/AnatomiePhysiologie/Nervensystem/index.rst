@@ -1,6 +1,6 @@
 
 
-NERVENSYSTEM
+Nervensystem
 ************************************************************************
 
 .. _allgemeine-anatomie-7:
@@ -96,6 +96,18 @@ Das Gehirn ist ca. 1,3 kg schwer (1,1 bis 1,6 kg), wobei es hier
 geschlechtsspezifische Unterschiede gibt: Mann 20g/kgKG, Frau 22g/kgKG.
 Es werden mehrere Teile unterschieden - Großhirn, Zwischenhirn,
 Mittelhirn, Pons, Kleinhirn und verlängertes Mark.
+
+
+
+.. figure:: /Bilder/WikipediaCcBy/Human_skull_side_simplified_hirngesicht_de-edited.*
+    :width: 50%
+
+    Das Hirn im seitlichen Querschnitt
+
+    ₢ Patrick J. Lynch, medical illustrator,
+    http://patricklynch.net;
+    C. Carl Jaffe, MD, cardiologist; modifiziert
+    ℓ CC-BY 2.5
 
 Im Rahmen der Embryonalentwicklung bilden sich am Ende des Neuralrohres
 drei Bläschen, die die Basis für die spätere Einteilung des Gehirns
@@ -543,6 +555,59 @@ unterteilt in
 Peripheres Nervensystem (PNS)
 =============================
 
+
+.. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.*
+    :width: 70%
+
+    Das zentrale Nervensystem (grau) und davon abgehende periphere
+    Nerven (gelb)
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+
+
+
+.. subfigstart::
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Spinalnerven-edited-00254pt.*
+
+    Vom Rückenmark (grau) gehen die peripheren Spinalnerven
+    (gelb) ab.
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/HirtlerLena-Ccc/WS_Aufbau.*
+
+    Lage in Bezug zur Wirbelsäule: Vom Rückenmark abgehende periphere
+    Spinalnerven (gelb); Wirbel (grau) und Bandscheiben
+    (türkis). Beachte dass die Nerven geordnet nach
+    Rückenmarkssegmenten abgehen.
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.*
+
+    Das zentrale Nervensystem (grau) und davon abgehende periphere
+    Nerven (gelb)
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+
+.. subfigend::
+    :width: 0.32
+    :label: Figure-Pns
+
+    Bilderserie: PNS
+
+
 Das periphere Nervensystem besteht aus den Spinalnerven und den
 dazugehörigen Ganglien (*sensibel und vegetativ*). Jeder Spinalnerv
 teilt sich nach Austritt aus der Wirbelsäule in vier Äste:
@@ -681,3 +746,10 @@ und Parasympathikus. Beim Sympathikus ist der Überträgerstoff im
 Ganglion *Acethylcholin*, beim Erfolgsorgan *Noradrenalin*. Beim
 Parasympathikus ist der Überträgerstoff im Ganglion *Acethylcholin*,
 beim Erfolgsorgan ebenfalls *Acethylcholin*.
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.*
+
+    "Fight or flight, rest and digest."
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`

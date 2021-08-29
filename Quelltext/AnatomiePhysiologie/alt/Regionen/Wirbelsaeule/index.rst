@@ -127,12 +127,3 @@ Abschnitten der Wirbelsäule sehen die Wirbel unterschiedlich aus.
     ausgewachsen, Wirbelloch ist durchgängig verknöchert) bzw. das
     Steißbein (verkümmerte Wirbeln, kein Wirbelloch, meist auch keine
     Fortsätze mehr erkennbar).
-
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Wirbel-allgemein.*
-    :width: 50%
-
-    Wirbel
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-

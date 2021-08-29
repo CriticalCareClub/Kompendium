@@ -3,9 +3,6 @@ Der strukturelle Aufbau des Organismus: Zelle, Gewebe, Organe, Organsysteme
 
 
 
-.. index::
-    single: Zelle
-
 Die Zelle
 ---------
 
@@ -48,13 +45,6 @@ Sie ist für bestimmte Stoffe
    Desoxyribonukleinsäure; *engl.* *DNA*.
 
 
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Zelle-edited.*
-    :width: 100%
-
-    Schema einer Zelle
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 Von der Zelle zum Organismus
 ----------------------------

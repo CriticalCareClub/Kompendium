@@ -112,16 +112,6 @@ Großhirnhälften geteilt , welche über den Balken miteinander verbunden
 sind.
 
 
-.. figure:: /Bilder/WikipediaCcBy/Human_skull_side_simplified_hirngesicht_de-edited.*
-    :width: 50%
-
-    Das Hirn im seitlichen Querschnitt
-
-    ₢ Patrick J. Lynch, medical illustrator,
-    http://patricklynch.net;
-    C. Carl Jaffe, MD, cardiologist; modifiziert
-    ℓ CC-BY 2.5
-
 Das Gehirn und das verlängerte Rückenmark
 -----------------------------------------
 
@@ -263,14 +253,6 @@ mater). In sie sind ebenfalls Gefäße eingebettet. Darunter folgt die
 weiche Hirnhaut (Pia mater). Sie liegt den Furchen und Windungen des
 Gehirns untrennbar an.
 
-.. figure:: /Bilder/WikipediaCcBy/Human_skull_front_simplified_bones_de-edited.*
-    :width: 50%
-    :align: right
-
-    Querschnitt durch die Schädeldecke
-
-    [Gray’s Anatomy / Copyright expired]
-
 Das Hirn und das Rückenmark schwimmen in einer Flüssigkeit,
 dem *Liquor*.
 :index:`Liquor`
@@ -364,14 +346,6 @@ Zum peripheren
 Nervensystem gehören alle peripheren Nerven.
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.*
-    :width: 70%
-
-    Das zentrale Nervensystem (grau) und davon abgehende periphere
-    Nerven (gelb)
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
 
 Unterteilung nach Lage und Aufbau
 ---------------------------------
@@ -419,47 +393,6 @@ dazu.
 
 *Vegetative Nerven* leiten Informationen des
 vegetativen Nervensystems (:ref:`vegetatives-nervensystem`).
-
-
-.. subfigstart::
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Spinalnerven-edited-00254pt.*
-
-    Vom Rückenmark (grau) gehen die peripheren Spinalnerven
-    (gelb) ab.
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
-.. raw:: latex
-
-    \hfill
-
-.. figure:: /Bilder/HirtlerLena-Ccc/WS_Aufbau.*
-
-    Lage in Bezug zur Wirbelsäule: Vom Rückenmark abgehende periphere
-    Spinalnerven (gelb); Wirbel (grau) und Bandscheiben
-    (türkis). Beachte dass die Nerven geordnet nach
-    Rückenmarkssegmenten abgehen.
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
-.. raw:: latex
-
-    \hfill
-
-.. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.*
-
-    Das zentrale Nervensystem (grau) und davon abgehende periphere
-    Nerven (gelb)
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
-
-.. subfigend::
-    :width: 0.32
-    :label: Figure-Pns
-
-    Bilderserie: PNS
 
 
 .. index::
@@ -582,9 +515,3 @@ Organsysteme wie z. B. die Verdauung.
             ↓
 
             Adrenalinausschüttung ↓
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.*
-
-    "Fight or flight, rest and digest."
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`

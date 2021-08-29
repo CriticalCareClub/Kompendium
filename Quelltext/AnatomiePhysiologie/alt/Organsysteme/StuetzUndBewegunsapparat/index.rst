@@ -55,13 +55,6 @@ Weiters dient es als
 Blutkörperchen sowie den Blutplättchen im roten Knochenmark).
 
 
-.. figure:: /Bilder/WikipediaPd/Human_skeleton_front-edited.*
-    :width: 100%
-
-    Das menschliche Skelett.
-
-    ₢ Mariana Ruiz Villarreal ℓ Public domain
-
 
 Die Knochen
 ===========
@@ -171,15 +164,6 @@ Lange Röhrenknochen kann man außerdem in
 -   :dfn:`Schaft`
 
 unterteilen.
-
-
-
-.. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Knochenbau.*
-    :width: 50%
-
-    Ein langer Röhrenknochen im Querschnitt
-
-    ₢ Lena Hirtler :term:`ℓ MfG`
 
 
 Rotes Knochenmark
@@ -329,15 +313,6 @@ zur Reibungsverminderung mit *Knorpel* überzogen und der *Gelenksspalt*
 ist mit einer dünnen Schicht *Schmierflüssigkeit*
 (*Synovialflüssigkeit*) gefüllt.
 
-
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Gelenk-edited.*
-    :width: 50%
-
-    Ein Gelenk im Querschnitt
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
 .. index::
     single: Kugelgelenk
     single: Gelenk;Kugel-
@@ -422,18 +397,6 @@ Typische Beispiele sind:
 
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Gelenkarten.*
-    :width: 100%
-
-    Gelenkarten:
-    **A** Kugelgelenk (3 Achse; z. B. Hüftgelenk),
-    **B** Eigelenk (2 Achsen; z. B. Handwurzelgelenk),
-    **C** Sattelgelenk (2 Achsen; z. B. Daumengrundgelenk),
-    **D** Scharniergelenk (1 Achse; z. B. Fingergliedgelenke, Elle–Oberarmknochen),
-    **E** Zapfengelenk (1 Achse; z. B. Elle–Speiche)
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
 
 Der aktive Halte- und Bewegungsapparat
 ************************************************************************
@@ -501,14 +464,6 @@ Spieler—Gegenspieler-Prinzip
 Muskel können nur Zug und keinen Druck ausüben, daher sind
 *Gegenspieler* (Agonist und Antagonist) erforderlich (z. B. ein Muskel
 streckt den Arm, ein *anderer* beugt ihn).
-
-.. figure:: /Bilder/WikipediaPd/Gray361.*
-    :width: 50%
-    :align: right
-
-    Muskelzug
-
-    ₢ Gray’s Anatomy  ℓ Copyright expired
 
 Jeder Muskel hat einen *Ursprung* (*"Wo kommt er her?"*) und einen
 *Ansatz* (*"Wo geht er hin?"*). Diese beiden Punkte bestimmen die

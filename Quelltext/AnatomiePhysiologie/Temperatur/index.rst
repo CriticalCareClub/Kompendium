@@ -1,5 +1,5 @@
 
-TEMPERATURHAUSHALT
+Temperaturhaushalt
 ************************************************************************
 
 Allgemeines

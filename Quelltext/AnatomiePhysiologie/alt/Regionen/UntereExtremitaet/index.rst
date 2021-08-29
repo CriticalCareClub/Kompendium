@@ -71,14 +71,6 @@ Die untere Extremität
             -   Zehengliederknochen mit je 2-3 Gliedern
 
 
-.. figure:: /Bilder/WikipediaPd/Human_skeleton_lower-extr-edited.*
-    :width: 50%
-    :align: right
-
-    Der Beckengürtel und die untere Extremität
-
-    ₢ Mariana Ruiz Villarreal ℓ Public domain
-
 
 Das Bein beginnt mit dem :dfn:`Hüftgelenk`, einem **Kugelgelenk**,
 gebildet aus dem *Beckenknochen* und dem *Oberschenkelknochen*.

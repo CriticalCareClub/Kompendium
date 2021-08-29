@@ -1,6 +1,6 @@
 
 
-REPRODUKTIVES SYSTEM
+Reproduktives System
 ************************************************************************
 
 .. _allgemeine-anatomie-6:
@@ -31,6 +31,15 @@ Männliche Geschlechtsorgane
     Cowper-Drüsen (Glandulae bulbourethrales)
 -   Zu den *äußeren* Geschlechtsorganen des Mannes gehören: Glied
     (Penis), Hodensack (Scrotum), Hodenhüllen
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Genitale-m.*
+    :width: 75%
+
+    Die männlichen Geschlechtsorgane im Querschnitt
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
 
 Testes (Hoden)
 --------------
@@ -236,6 +245,14 @@ Weibliche Geschlechtsorgane
     vestibulares), Paraurethraldrüsen (Skene-Drüsen), Mammae
     (Brustdrüsen)
 
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Genitale-w.*
+
+    Weibliche Geschlechtsorgane, Querschnitt
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+
 Ovar (Eierstöcke)
 -----------------
 
@@ -304,6 +321,27 @@ Das Corpus luteum schüttet bis zum 4. Schwangerschaftsmonat Progesteron
 für die Aufrechterhaltung der Schwangerschaft aus. Danach übernimmt das
 die Plazenta. Die Menstruation findet aufgrund des abrupten Fehlens von
 Progesteron statt. Sie ist daher als Abbruchblutung zu verstehen.
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Zyklus.*
+
+    Der weibliche Zyklus.
+
+    Oben: Follikelreifung.
+    Unten: Auf- und
+    Abbau der Uterusschleimhaut.
+    Am Tag 0 des Zyklus wird die
+    Uterusschleimhaut abgestoßen, es kommt zur Regelblutung,
+    danach wird die Schleimhaut wieder aufgebaut.
+    Am Tag 14
+    erfolgt der Eisprung. Kommt es zu keiner Befruchtung, wird
+    die Schleimhaut erneut am Tag 28 abgestoßen.
+    Nach einer
+    Befruchtung wandert die Eizelle weiter in den Uterus und
+    nistet sich dort ein.
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
 
 Tuba uterina / Salpinx (Eileiter)
 ---------------------------------

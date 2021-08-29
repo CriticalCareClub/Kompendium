@@ -23,13 +23,6 @@ Beim Mann ist die Unterteilung folgendermaßen:
 -   Innen: Hoden, Nebenhoden, Samenstrang, Prostata und Samenbläschen
 -   Außen: Glied, Hodensack
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Genitale-m.*
-    :width: 75%
-
-    Die männlichen Geschlechtsorgane im Querschnitt
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
 Hoden
 -----
 
@@ -176,12 +169,6 @@ Die Unterteilung der Geschlechtsorgane der Frau ist:
 
 -   innen: Eierstöcke, Eileiter, Gebärmutter, Scheide
 -   außen: Schamlippen, Klitoris
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Genitale-w.*
-
-    Weibliche Geschlechtsorgane, Querschnitt
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 Eierstöcke
 ----------
@@ -330,25 +317,6 @@ es zu einer Befruchtung der Eizelle kommt, wird der Zyklus hormonell
 angehalten und die Eizelle kann sich in die Uterusschleimhaut einnisten.
 
 
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Zyklus.*
-
-    Der weibliche Zyklus.
-
-    Oben: Follikelreifung.
-    Unten: Auf- und
-    Abbau der Uterusschleimhaut.
-    Am Tag 0 des Zyklus wird die
-    Uterusschleimhaut abgestoßen, es kommt zur Regelblutung,
-    danach wird die Schleimhaut wieder aufgebaut.
-    Am Tag 14
-    erfolgt der Eisprung. Kommt es zu keiner Befruchtung, wird
-    die Schleimhaut erneut am Tag 28 abgestoßen.
-    Nach einer
-    Befruchtung wandert die Eizelle weiter in den Uterus und
-    nistet sich dort ein.
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
 .. _schwangerschaft:

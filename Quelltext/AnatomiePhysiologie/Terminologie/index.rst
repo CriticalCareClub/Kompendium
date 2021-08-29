@@ -224,6 +224,11 @@ Laterotrusionsseite).
 Mediotrusion und Laterotrusion erfolgen um eine vertikale
 (longitudinale) Achse.
 
+
+
+.. index::
+    single: Zelle
+
 Zelle
 =====
 
@@ -236,6 +241,15 @@ zwischen 5 und 150 µm (z.B. Eizelle des Menschen - sie ist mit bloßem
 Auge sichtbar) groß. Zum Vergleich - die Eizelle eines Straußes misst 7
 cm im Durchmesser. Jede Zelle hat je nach ihrer Funktion auch
 unterschiedliche Formen und eine unterschiedliche Lebensdauer.
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Zelle-edited.*
+    :width: 100%
+
+    Schema einer Zelle
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
 
 Alle Zellen erfüllen trotz ihrer verschiedenen Aufgaben *drei
 Grundkriterien*:
@@ -736,6 +750,17 @@ Bereich der Metaphyse befindet sich die Epiphysenfuge (Wachstumsfuge).
 Insbesondere im Bau des Röhrenknochens kann man die
 Leichtbau-Konstruktion nachvollziehen. *Apophysen* sind Knochenhöcker
 die sich aus einem eigenen Knochenkern entwickeln.
+
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Knochenbau.*
+    :width: 50%
+
+    Ein langer Röhrenknochen im Querschnitt
+
+    ₢ Lena Hirtler :term:`ℓ MfG`
+
+
 
 Muskelgewebe
 ------------

@@ -1,7 +1,4 @@
 
-.. _gallenblase:
-.. _leber:
-.. _Leberzirrhose:
 
 *****************************
 Exkurs: Leber und Gallenblase
@@ -61,46 +58,3 @@ den Zwölffingerdarm. An den Gallengängen hängt die
 in welcher die Gallenflüssigkeit *gespeichert (!)*
 — nicht produziert — wird.
 
-
-.. subfigstart::
-
-.. figure:: /Bilder/WikipediaPd/Liver_and_pangreas_-_transparent.*
-    :width: 100%
-
-    Leber, Gallenblase und Pankreas.
-
-    ₢ WMC ℓ ???
-
-.. raw:: latex
-
-    \hfill
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Gallenblase.*
-    :width: 100%
-
-    Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm.
-
-    ₢ Lena Hirtler  :term:`ℓ MfG`
-
-
-.. raw:: latex
-
-    \hfill
-
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Pankreas-1.*
-    :width: 100%
-
-    Lage des Pankreas zum Zwöffingerdarm.
-
-    Deutlich zu erkennen ist die Einmündung des
-    Pankreas- und des Gallenganges in den Darm.
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
-
-.. subfigend::
-    :width: 0.32
-    :label: Figure-LeberGallenblasePankreas
-
-    Bilderserie: Leber, Gallenblase und Pankreas

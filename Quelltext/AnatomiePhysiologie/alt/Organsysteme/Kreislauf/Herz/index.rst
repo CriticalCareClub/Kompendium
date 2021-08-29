@@ -1,6 +1,4 @@
 
-.. _Herz:
-
 ########
 Das Herz
 ########
@@ -230,57 +228,12 @@ Beispiele von Rhythmen werden unter
        elektrischen Impulse für die Vorhöfe und die Kammern erzeugt. Man
        spricht dann vom *Sinusrhythmus*.
 
-.. subfigstart::
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
-    :width: 100%
-
-    ₢ Lena Hirtler  :term:`ℓ MfG`
-
-.. raw:: latex
-
-    \hfill
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.*
-    :width: 100%
-
-    Das Herz, schematisch
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
-.. raw:: latex
-
-    \hfill
-
-.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
-    :width: 100%
-
-    Reizleitungssystem, Schema
-
-    ₢ J. Heuser, basierend auf der Arbeit von
-    Patrick J. Lynch; illustrator;
-    C. Carl Jaffe; MD; cardiologist Yale University Center for
-    Advanced Instructional Media ℓ CC-BY
-
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieHerz
-
-    Bilderserie: Herz
-
-
 
 
 
 *****************************************
 Aufbau und Lagebeziehungen
 *****************************************
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
-    :width: 40%
-    :align: right
-
-    ₢ Lena Hirtler  :term:`ℓ MfG`
 
 Das Herz ist ein *Hohlmuskel* und hat die
 Funktion einer *Pumpe* im *Blutkreislauf*.
@@ -324,9 +277,6 @@ Herzens ermöglicht.
 
 
 
-
-.. index::
-    single: Herzklappen
 
 Herzklappen
 ===========
@@ -378,8 +328,6 @@ Die Blutversorgung des Herzens erfolgt über die :dfn:`Koronararterien`
 welche direkt aus
 der Aorta (Hauptschlagader) — gleich oberhalb der Aortenklappe beim
 Ausgang des linken Ventrikels — abgehen.
-
-.. todo:: Neu: `#82 Nervale Versorgung und Adrenorezeptoren <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/82>`_
 
 ..
     **********************************************************************************
@@ -535,8 +483,6 @@ Elektrische Herzfunktion und Reizleitungssystem
 **********************************************************************************
 
 
-.. _reizleitungssystem:
-
 Reizleitungssystem
 ==================
 
@@ -546,18 +492,6 @@ Impulse wird normalerweise vom Herzmuskel mit einer Kontraktion
 beantwortet (*mechanische Herzfunktion*). Das Reizbildungs- und
 -leitungssystem ist an sich hirarchisch angeordnet:
 
-
-.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
-    :width: 40%
-    :align: right
-
-    Reizleitungssystem, Schema
-
-    ₢ J. Heuser, basierend auf der Arbeit von
-    Patrick J. Lynch; illustrator;
-    C. Carl Jaffe; MD; cardiologist Yale University Center for
-    Advanced Instructional Media
-    ℓ CC-BY
 
 
 An erster Stelle steht der :dfn:`Sinusknoten` *(1)* im

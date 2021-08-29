@@ -1,5 +1,5 @@
 
-STOFFWECHSEL
+Stoffwechsel
 ************************************************************************
 
 Die Gesamtheit der lebensnotwendigen biochemischen Vorgänge im

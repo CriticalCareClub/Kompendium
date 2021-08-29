@@ -162,40 +162,6 @@ Gleichgewichtsorgan einer Seite eine Störung hat, resultiert ein kaum
 aushaltbarer Schwindel.
 
 
-.. subfigstart::
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Ohr.*
-    :width: 100%
-
-    Das Ohr im Querschnitt.
-
-    Man sieht den äußeren Gehörgang, das Trommelfell,
-    die Gehörknöchelchen, die Schnecke und die Bogengänge.
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
-.. raw:: latex
-
-    \hfill
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Mittelohr.*
-    :width: 100%
-
-    Das Mittelohr:
-
-    Im Detail sind hier das Trommelfell,
-    sowie die Gehörknöchelchen Hammer,
-    Amboss und Steigbügel zu sehen.
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
-.. subfigend::
-    :width: 0.45
-    :label: Figure-BilderserieOhr
-
-    Bilderserie: Das Ohr
-
-
 
 .. index::
    single: Haut
@@ -272,12 +238,6 @@ tiefer). Dieses dient wie bereits erwähnt der Temperaturregulation.
 Unter der Dermis befindet sich die :dfn:`Unterhaut`
 (*Subcutis*). Sie besteht hauptsächlich aus Fett. Dieses dient der
 Wärmeisolierung.
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Haut-edited.*
-    :width: 70%
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
 
 
 Aufgaben

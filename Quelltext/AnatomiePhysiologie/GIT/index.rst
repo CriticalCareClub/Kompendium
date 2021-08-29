@@ -1,5 +1,5 @@
 
-GASTROINTESTINALES SYSTEM
+Gastrointestinales System
 ************************************************************************
 
 .. _allgemeine-anatomie-4:
@@ -34,8 +34,25 @@ Kopfteil und in einen Rumpfteil eingeteilt werden.
     Bauchspeicheldrüse) ➛ Freisetzung der Nährstoffe, Resorption,
     Ausscheidung
 
+
+.. figure:: /Bilder/WikipediaPd/Digestive_system_diagram_de-edited.*
+
+    Übersicht Verdauungstrakt
+
+    ₢ Mariana Ruiz Villarreal ℓ Public domain
+
+
+
 Cavitas oris (Mundhöhle)
 ========================================================================
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Mundhoehle.*
+
+    Die Mundhöhle
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
 
 *Begrenzungen* der Mundhöhle:
 
@@ -264,6 +281,11 @@ Nervenplexus, der Plexus myentericus AUERBACH. In der Submucosa verläuft
 ein zweiter Plexus, der Plexus submucosus MEISSNER. Diese beiden
 Nervenplexus gehören zum intrinsischen *enterischen Nervensystem*.
 
+
+.. _speiseroehre:
+.. _Oesophagus:
+
+
 Ösophagus (Speiseröhre)
 ========================================================================
 
@@ -281,6 +303,16 @@ durch seine topographische Lage *drei Engen*:
 
 Der obere Abschnitt des Ösophagus besteht aus *quergestreifter*
 Muskulatur, der untere Abschnitt aus *glatter* Muskulatur.
+
+
+.. figure:: /Bilder/WikipediaPd/stomach.*
+    :width: 70%
+
+    Ösophagus, Schema
+
+    ℓ [PD]
+
+
 
 Peritoneum (Bauchfell)
 ========================================================================
@@ -332,6 +364,17 @@ eingeteilt werden:
 
 -   *extraperitoneale Organe*: das Organ hat keine Beziehung zum
     Peritoneum, z.B. Prostata, Rektum
+
+
+.. index::
+    single: Magen
+    single: Magensaft
+    single: Gaster
+    single: Salzsäure (Magen)
+    single: Pförtner (Magen)
+    single: Pylorus
+
+.. _Magen:
 
 Ventriculus, Gaster (Magen)
 ========================================================================
@@ -386,6 +429,26 @@ Muskelschicht*, die erst die vollständige Entleerung des Magens
 ermöglicht. Ungefähr alle drei Minuten befördern peristaltische Wellen
 bei gefülltem Magen dessen Inhalt vom Fundus zum Pylorus.
 
+
+.. index::
+    single: Duodenum
+    single: Zwölffingerdarm
+    single: Ampulla duodeni
+    single: Flexura duodenojejunalis
+    single: Treitz'sche Flexur
+    single: Flexur, Treitz'sche -
+    single: Pars superior duodeni
+    single: Ampulla duodeni
+    single: Flexura duodeni superior
+    single: Pars descendens duodeni
+    single: Papilla vateri
+    single: Ductus choledocus
+    single: Ductus pancreaticus
+    single: Flexura duodeni inferior
+    single: Pars horizontalis duodeni
+    single: Pars ascendens
+
+
 Intestinum tenue (Dünndarm)
 ========================================================================
 
@@ -395,6 +458,58 @@ Beginn des Dickdarms mit dem Caecum. Er ist *3 - 5 m* lang. In ihm
 erfolgt der Abbau der Nahrungsbestandteile zu den vom Körper
 resorbierbaren Bestandteile durch die Verdauungsenzyme. Resorbiert
 werden können Monosaccharide, Aminosäuren, Fettsäuren und Glycerol.
+
+
+
+.. figure:: /Bilder/WikipediaPd/Small_intestine.*
+    :width: 75%
+
+    Dünndarm
+
+    ₢ WmCo/Mikael Häggström ℓ Public domain
+
+
+
+.. subfigstart::
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Bauchfilm_4032-AASS-0112mm.*
+    :width: 100%
+
+    Der Bauchsitus mit aufgeklappter Bauchdecke (links = kopfwärts).
+
+    Am Rand sieht man deutlich den Dickdarm, unter der Fettschürze zeichnen sich die Schlingen des Dünndarms ab.
+
+    ₢ Lena Hirtler  :term:`ℓ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Duenndarm-Mesenterium.*
+    :width: 100%
+
+    Schema: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.
+
+    ₢ Lena Hirtler  :term:`ℓ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Bauchfilm_Image_022.*
+    :width: 100%
+
+    Foto: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.
+
+    ₢ Lena Hirtler  :term:`ℓ MfG`
+
+.. subfigend::
+    :width: 0.32
+    :label: Figure-BilderserieBauchsitus
+
+    Bilderserie: Bauchsitus und Mesenterium
+
+
 
 Folgende Abschnitte werden unterschieden:
 
@@ -423,6 +538,25 @@ betrachtet.
 Auch im Ileum gibt es Inseln von lymphatischem Gewebe - die
 *Peyer-Plaques*.
 
+
+.. index::
+    single: Dickdarm
+    single: Colon
+    single: Blinddarm
+    single: Appendix
+    single: Wurmfortsatz
+    single: Appendizitis
+    single: aufsteigender Teil des Dickdarms
+    single: querender Teil des Dickdarms
+    single: absteigender Teil des Dickdarms
+    single: s-förmig gebogener Teil des Dickdarms
+    single: Sigmoid
+    single: Anus
+    single: Rektum
+    single: Mastdarm
+    single: Wasserentzug
+
+
 Intestinum crassum (Dickdarm)
 ========================================================================
 
@@ -430,6 +564,16 @@ Da die Nahrungsstoffe bereits im Dünndarm resorbiert wurden, besteht die
 Aufgabe des Dickdarms in der Aufnahme von Wasser. Bakterien des
 Dickdarmes (*Escherichia coli*) zersetzen die unverdaulichen
 Nahrungsreste durch Gärungs- und Fäulnisprozesse.
+
+
+.. figure:: /Bilder/WikipediaPd/Colon_anatomy.*
+    :width: 75%
+
+    Der Dickdarm
+
+    ₢ Mariana Ruiz Villarreal ℓ Public domain
+
+
 
 Folgende *Abschnitte* werden unterschieden:
 
@@ -488,8 +632,18 @@ Ein zusätzlicher Verschlussmechanismus ist ein *Schwellkörper*, das
 Corpus cavernosum recti. Es ist für die Feinkontinenz zuständig und
 befindet sich direkt beim Übergang zwischen Rektum und Canalis analis.
 
+
+
+.. index::
+    single: Bauchspeicheldrüse
+    single: Pankreas
+
 Pancreas (Bauchspeicheldrüse)
 ========================================================================
+
+
+
+.. todo:: image Pankreas ₢ Lena Hirtler, :term:`ℓ MfG`
 
 Die Bauchspeicheldrüse ist die wichtigste Verdauungsdrüse. Funktionell
 zeigt sie zwei Aufgabenbereiche:
@@ -520,8 +674,61 @@ Sein Ausführungsgang, der *Ductus pancreaticus*, mündet gemeinsam mit
 dem Ausführungsgang der Galle, Ductus choledochus, an der *Papilla
 duodeni major* in das Duodenum.
 
+
+
+.. _gallenblase:
+.. _leber:
+.. _Leberzirrhose:
+
+
 Hepar (Leber)
 ========================================================================
+
+
+.. subfigstart::
+
+.. figure:: /Bilder/WikipediaPd/Liver_and_pangreas_-_transparent.*
+    :width: 100%
+
+    Leber, Gallenblase und Pankreas.
+
+    ₢ WMC ℓ ???
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Gallenblase.*
+    :width: 100%
+
+    Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm.
+
+    ₢ Lena Hirtler  :term:`ℓ MfG`
+
+
+.. raw:: latex
+
+    \hfill
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Pankreas-1.*
+    :width: 100%
+
+    Lage des Pankreas zum Zwöffingerdarm.
+
+    Deutlich zu erkennen ist die Einmündung des
+    Pankreas- und des Gallenganges in den Darm.
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+
+.. subfigend::
+    :width: 0.32
+    :label: Figure-LeberGallenblasePankreas
+
+    Bilderserie: Leber, Gallenblase und Pankreas
+
+
 
 Als exokrine Drüse produziert die Leber die *Gallenflüssigkeit*
 (Gallensäure, Bilirubin = Endprodukt des Hämoglobin,

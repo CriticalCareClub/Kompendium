@@ -43,6 +43,8 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
     Sinnesorgane/index
     Endokrin/index
     Temperatur/index
+    WasserElythaushalt/index
+    SaeureBasenHaushalt/index
     Schlaf/index
 
 

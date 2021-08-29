@@ -1,9 +1,5 @@
 
 
-.. index::
-    single: Bauchspeicheldrüse
-    single: Pankreas
-
 ****************
 Exkurs: Pankreas
 ****************
@@ -42,6 +38,3 @@ Insulin sorgt eine Verringerung des Blutzuckers durch eine Förderung der
 Zuckerentfernung aus dem Blut.
 Glukagon hingegen ist verantwortlich für
 die Steigerung der Menge an Zucker im Blut.
-
-
-.. todo:: image Pankreas ₢ Lena Hirtler, :term:`ℓ MfG`

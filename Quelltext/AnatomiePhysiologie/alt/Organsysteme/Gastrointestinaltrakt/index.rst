@@ -30,13 +30,6 @@ schlussendlich über die Leber und die Gallenflüssigkeit wieder im Darm
 um ausgeschieden zu werden.
 
 
-.. figure:: /Bilder/WikipediaPd/Digestive_system_diagram_de-edited.*
-
-    Übersicht Verdauungstrakt
-
-    ₢ Mariana Ruiz Villarreal ℓ Public domain
-
-
 
 
 -----

@@ -58,16 +58,6 @@ Die Atemwege gliedern sich in die oberen und die unteren Atemwege
 
 :Syn.: *Respirationstrakt*, *engl.* *Airway*
 
-.. _Figure-respiraktionstrakt-uebersicht:
-
-.. figure:: /Bilder/WikipediaPd/Respiratory_system_complete_de-edited.*
-    :width: 100%
-
-    Die Atemwege, Übersicht
-
-    ₢ Mariana Ruiz Villarreal
-    ℓ Public domain
-
 Obere Atemwege
 ==============
 
@@ -326,14 +316,6 @@ eindringen. Außerdem herrscht zwischen den beiden Pleuablättern ein
 *Unterdruck*.
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Pleura.*
-    :width: 50%
-    :align: right
-
-    Pleura, Schema
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
 
 Dieser Unterdruck entsteht
 dadurch, dass sich einerseits die (elastische) Lunge zusammenziehen
@@ -422,46 +404,6 @@ Gewebe und Pleura(spalt) wichtig:
 
     -   Ein bis zum Hals Verschütteter erstickt, da sich der Brustkorb
         nicht ausdehnen kann.
-
-
-.. subfigstart::
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Thorax-Diaphragma.*
-    :width: 100%
-
-    Das *Diaphragma* ist der wichtigste Atemmuskel
-    und trennt den Brust- und Bauchraum.
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
-.. raw:: latex
-
-    \hfill
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegung-frontal.*
-    :width: 100%
-
-    Bei der Einatmung senkt sich das Zwerchfell
-    und der Brustkorb hebt sich.
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
-.. raw:: latex
-
-    \hfill
-
-.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
-    :width: 100%
-
-    Die Rippen folgen der Atembewegung.
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`
-
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieAtemmechanik
-
-    Bilderserie: Atemmechanik
 
 
 

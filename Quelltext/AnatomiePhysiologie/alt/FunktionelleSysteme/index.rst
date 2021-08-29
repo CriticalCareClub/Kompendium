@@ -10,6 +10,4 @@ Funktionelle Systeme
     Vitalfunktionen/index
     Stoffwechsel/index
     Temperaturhaushalt/index
-    WasserElythaushalt/index
-    SaeureBasenHaushalt/index
     Schlaf/index

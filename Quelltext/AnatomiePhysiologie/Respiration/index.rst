@@ -1,5 +1,5 @@
 
-RESPIRATORISCHES SYSTEM
+Respiratorisches System
 ************************************************************************
 
 .. _allgemeine-anatomie-3:
@@ -62,6 +62,18 @@ Kinozilien). Becherzellen in dieser Schleimhaut produzieren den Schleim.
 Die Kinozilien schlagen immer rachenwärts und sorgen für einen
 kontinuierlichen Abtransportes des Schleimes nach oral (= mukoziliärer
 Transport).
+
+
+.. _Figure-respiraktionstrakt-uebersicht:
+
+.. figure:: /Bilder/WikipediaPd/Respiratory_system_complete_de-edited.*
+    :width: 100%
+
+    Die Atemwege, Übersicht
+
+    ₢ Mariana Ruiz Villarreal
+    ℓ Public domain
+
 
 Cavitas nasi (Nasenhöhle) und Sinus paranasales (Nasennebenhöhlen)
 ------------------------------------------------------------------
@@ -311,6 +323,16 @@ der Atmung über die Bewegung des Thorax passiv mitbewegt werden.
 Ein Eintreten von Luft in diesen Spalt hebt diese Kraft auf - die Lunge
 würde aufgrund ihrer Eigenelastizität kollabieren (= Pneumothorax).
 
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Pleura.*
+    :width: 50%
+    :align: right
+
+    Pleura, Schema
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+
 Atmung
 ======
 
@@ -454,3 +476,45 @@ Pressorezeptoren, Muskelarbeit, Hormone
 
 Die zentralen Atemrezeptoren überprüfen den CO₂-Level des
 Blutes, die peripheren Atemrezeptoren den O₂-Level des Blutes.
+
+
+
+.. subfigstart::
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Thorax-Diaphragma.*
+    :width: 100%
+
+    Das *Diaphragma* ist der wichtigste Atemmuskel
+    und trennt den Brust- und Bauchraum.
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegung-frontal.*
+    :width: 100%
+
+    Bei der Einatmung senkt sich das Zwerchfell
+    und der Brustkorb hebt sich.
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
+    :width: 100%
+
+    Die Rippen folgen der Atembewegung.
+
+    ₢ Lena Hirtler, :term:`ℓ MfG`
+
+.. subfigend::
+    :width: 0.32
+    :label: Figure-BilderserieAtemmechanik
+
+    Bilderserie: Atemmechanik
+

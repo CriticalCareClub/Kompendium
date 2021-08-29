@@ -1,5 +1,5 @@
 
-ENDOKRINES SYSTEM
+Endokrines System
 ************************************************************************
 
 .. _allgemeine-anatomie-11:

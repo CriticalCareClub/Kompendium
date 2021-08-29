@@ -27,9 +27,3 @@ Die Zunge schiebt den Bissen Schritt für Schritt in den Rachen. Beim
 Schlucken sorgt sie dafür, dass der Kehldeckel verschloßen wird, da es
 sonst zu einem Übertritt der Nahrung in die Luftröhre und damit zu einer
 *Aspiration* kommen kann.
-
-.. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Mundhoehle.*
-
-    Die Mundhöhle
-
-    ₢ Lena Hirtler, :term:`ℓ MfG`

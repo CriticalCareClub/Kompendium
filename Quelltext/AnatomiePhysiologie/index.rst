@@ -26,15 +26,21 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
 -   wichtige topographische Regionen
 
 
+.. toctree::
+    :maxdepth: 3
+    :caption: Neu
+
+    ./AnatomieNeu.rst
+
 
 .. toctree::
     :maxdepth: 1
-    :caption: Inhalt
+    :caption: Inhalt (alt)
 
-    Allgemeines/index
-    Organsysteme/index
-    FunktionelleSysteme/index
-    Regionen/index
+    alt/Allgemeines/index
+    alt/Organsysteme/index
+    alt/FunktionelleSysteme/index
+    alt/Regionen/index
 
 
 

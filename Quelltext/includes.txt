@@ -225,28 +225,29 @@
             :align: center
             :width: 100%
 
-.. only:: html
+..
+    .. only:: html
 
-    .. attention::
+        .. attention::
 
-        .. centered:: Achtung -- Entwicklungsversion!
+            .. centered:: Achtung -- Entwicklungsversion!
 
-        Dieses Dokument ist **nicht freigegeben** und laufenden Änderungen unterworfen.
-        Es enthält ungesicherte Informationen und ist als **unzuverlässig** und **rein informativ** zu betrachten.
+            Dieses Dokument ist **nicht freigegeben** und laufenden Änderungen unterworfen.
+            Es enthält ungesicherte Informationen und ist als **unzuverlässig** und **rein informativ** zu betrachten.
 
-        Die Verbreitung ist nicht gestattet.
-        Alle Rechte vorbehalten.
+            Die Verbreitung ist nicht gestattet.
+            Alle Rechte vorbehalten.
 
-        .. rubric:: Versionsverwaltung (Git)
+            .. rubric:: Versionsverwaltung (Git)
 
-        .. git_changelog::
-            :revisions: 1
+            .. git_changelog::
+                :revisions: 1
 
-        .. git_commit_detail::
-            :branch:
-            :commit:
-            :uncommitted:
-            :untracked:
+            .. git_commit_detail::
+                :branch:
+                :commit:
+                :uncommitted:
+                :untracked:
 
 
 

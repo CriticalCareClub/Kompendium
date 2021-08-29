@@ -395,54 +395,65 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 .. subfigstart::
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32851-00441pt.*
-            :width: 100%
+    :width: 100%
 
-            Beatmungsgerät *Medumat™ compact* auf einer
-            Tragplatte. Zusätzlich angebracht sind eine
-            Sauerstofflasche, eine Berieselungseinheit und daran
-            angeschlossen eine Berieselungsmaske.
+    Beatmungsgerät *Medumat™ compact* auf einer
+    Tragplatte. Zusätzlich angebracht sind eine
+    Sauerstofflasche, eine Berieselungseinheit und daran
+    angeschlossen eine Berieselungsmaske.
 
-            ₢ Ch. Pallinger  :term:`ℓ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
 
 .. raw:: latex
 
     \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.*
-            :width: 100%
+    :width: 100%
 
-            Bedienfelder Berieselungseinheit *Modul Oxygen* und
-            Notfallbeatmungsgerät *Medumat™ Standard*
+    Bedienfelder Berieselungseinheit *Modul Oxygen* und
+    Notfallbeatmungsgerät *Medumat™ Standard*
 
-            *Modul Oxygen (li.):* Flowmeter, Ein-Ausschalter und Regelventil. Der
-            Anschluss links dient der Verbindung der Einheit mit dem Sauerstoffnetz
-            des Fahrzeuges.
+    *Modul Oxygen (li.):* Flowmeter, Ein-Ausschalter und Regelventil. Der
+    Anschluss links dient der Verbindung der Einheit mit dem Sauerstoffnetz
+    des Fahrzeuges.
 
-            *Medumat Standard (re.):* Air-Mix-Schalter, Ein-Ausschalter, Stellräder
-            für Atemfrequenz, Atemminutenvolumen (!) und Druckbegrenzung,
-            Beatmungsdruckanzeige, Warnleuchten für Verlegung ("Stenosis"), Lösung
-            des Beatmungsschlauches ("Disconnection"), niederen Flaschendruck
-            ("<2.7bar") und schwache Batterie.
+    *Medumat Standard (re.):* Air-Mix-Schalter, Ein-Ausschalter, Stellräder
+    für Atemfrequenz, Atemminutenvolumen (!) und Druckbegrenzung,
+    Beatmungsdruckanzeige, Warnleuchten für Verlegung ("Stenosis"), Lösung
+    des Beatmungsschlauches ("Disconnection"), niederen Flaschendruck
+    ("<2.7bar") und schwache Batterie.
 
-            ₢ Sebastian Gabriel  :term:`ℓ MfG`
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 .. raw:: latex
 
     \hfill
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.*
-            :width: 100%
+    :width: 100%
 
-            Medumat Transport. Dies ist ein
-            Intensiv-Transportbeatmungsgerät, welches eine komplexe
-            Beatmungstherapie ermöglicht. Die Bedieunung erfolgt
-            mittels Monitor und Drehräder. Abgebildet ist die
-            Durchführung einer Funktionskontrolle der Bedienelemente.
+    Medumat Transport. Dies ist ein
+    Intensiv-Transportbeatmungsgerät, welches eine komplexe
+    Beatmungstherapie ermöglicht. Die Bedieunung erfolgt
+    mittels Monitor und Drehräder. Abgebildet ist die
+    Durchführung einer Funktionskontrolle der Bedienelemente.
 
-            ₢ Ch. Pallinger  :term:`ℓ MfG`
+    ₢ Ch. Pallinger  :term:`ℓ MfG`
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/GabrielSebastian-Ccc/N-5/IMG_20140402_161824-01341px.jpg
+    :width: 100%
+
+    Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit zur differenzierten Atemtherapie inklusive NIV.
+
+    ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
 .. subfigend::
-    :width: 0.32
+    :width: 0.45
     :label: Figure-BilderserieBeatmungsgeraete
 
     Bilderserie: Beatmungsgeräte

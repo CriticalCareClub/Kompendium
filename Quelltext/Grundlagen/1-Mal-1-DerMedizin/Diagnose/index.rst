@@ -1,5 +1,5 @@
 .. index::
-    single:: Diagnose
+    single: Diagnose
 
 .. _Diagnose:
 

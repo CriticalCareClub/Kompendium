@@ -26,15 +26,37 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
 -   wichtige topographische Regionen
 
 
+.. toctree::
+    :maxdepth: 3
+    :caption: Neu
+
+    Terminologie/index
+    Bewegungsapparat/index
+    HerzKreislauf/index
+    Blut/index
+    Respiration/index
+    GIT/index
+    Stoffwechsel/index
+    Harn/index
+    Reproduktion/index
+    Nervensystem/index
+    Sinnesorgane/index
+    Endokrin/index
+    Temperatur/index
+    WasserElythaushalt/index
+    SaeureBasenHaushalt/index
+    Schlaf/index
+
+
 
 .. toctree::
     :maxdepth: 1
-    :caption: Inhalt
+    :caption: Inhalt (alt)
 
-    Allgemeines/index
-    Organsysteme/index
-    FunktionelleSysteme/index
-    Regionen/index
+    alt/Allgemeines/index
+    alt/Organsysteme/index
+    alt/FunktionelleSysteme/index
+    alt/Regionen/index
 
 
 

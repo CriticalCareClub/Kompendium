@@ -60,7 +60,7 @@ unterteilt werden.
 
 
 Synarthrosen
-++++++++++++++
+++++++++++++
 
 Bei Synarthrosen können folgende Untergruppen unterschieden werden:
 

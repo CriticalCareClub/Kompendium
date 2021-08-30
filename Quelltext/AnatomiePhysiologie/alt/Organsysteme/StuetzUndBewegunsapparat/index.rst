@@ -3,26 +3,19 @@
 Der Stütz- und Bewegungsapparat
 ##########################################
 
+..
+    Unter dem Begriff Halte- und Bewegungsapparat sind das Skelett, die
+    Muskeln, Sehnen und Bänder zusammengefasst. Man unterteilt ihn in einen
+    aktiven und einen passiven Anteil.
 
-.. only:: not nosidebar
+    Zum *passiven* Halte- und Bewegungsapparat zählt das Skelett mit seinen
+    Knochen, Gelenken und Bändern. Das Skelett ist durch die Gelenke
+    beweglich, kann sich jedoch aus eigener Kraft nicht selbst bewegen.
 
-    .. sidebar:: Stütz- und Bewegungsapparat
-
-        -   Aktiver
-        -   Passiver
-
-Unter dem Begriff Halte- und Bewegungsapparat sind das Skelett, die
-Muskeln, Sehnen und Bänder zusammengefasst. Man unterteilt ihn in einen
-aktiven und einen passiven Anteil.
-
-Zum *passiven* Halte- und Bewegungsapparat zählt das Skelett mit seinen
-Knochen, Gelenken und Bändern. Das Skelett ist durch die Gelenke
-beweglich, kann sich jedoch aus eigener Kraft nicht selbst bewegen.
-
-Der *aktive* Halte- und Bewegungsapparat besteht aus den Muskeln und
-Sehnen. Die Muskeln sind über Sehnen mit den Knochen verbunden. Durch
-das *aktive* Zusammenziehen (*Kontraktion*) und das (passive) Entspannen
-der einzelnen Muskeln werden gezielte Bewegungen ermöglicht.
+    Der *aktive* Halte- und Bewegungsapparat besteht aus den Muskeln und
+    Sehnen. Die Muskeln sind über Sehnen mit den Knochen verbunden. Durch
+    das *aktive* Zusammenziehen (*Kontraktion*) und das (passive) Entspannen
+    der einzelnen Muskeln werden gezielte Bewegungen ermöglicht.
 
 
 Der passive Halte- und Bewegungsapparat

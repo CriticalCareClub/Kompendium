@@ -5,11 +5,24 @@ Bewegungsapparat
 Allgemeine Anatomie
 ===================
 
-Man kann den Bewegungsapparat in einen *aktiven* und einen *passiven*
-unterteilen. Der passive Bewegungsapparat besteht aus dem Skelett und
-den Knochenverbindungen, der aktive Bewegungsapparat besteht aus
-Skelettmuskulatur, den dazugehörigen Sehnen und den Hilfseinrichtungen
-der Muskel (Muskelfaszien, Schleimbeutel, Sehnenscheiden, Sesambeine).
+.. only:: not nosidebar
+
+    .. sidebar:: Bewegungsapparat
+
+        -   Aktiver
+        -   Passiver
+
+Man kann den Bewegungsapparat in einen
+**aktiven** und einen
+**passiven**
+unterteilen.
+Der passive Bewegungsapparat besteht aus dem *Skelett* und
+den *Knochenverbindungen*,
+der aktive Bewegungsapparat aus
+*Skelettmuskulatur*,
+den dazugehörigen *Sehnen*
+und den *Hilfseinrichtungen*
+der Muskel (*Muskelfaszien*, *Schleimbeutel*, *Sehnenscheiden*, *Sesambeine*).
 
 
 .. figure:: /Bilder/WikipediaPd/Human_skeleton_front-edited.*
@@ -19,12 +32,19 @@ der Muskel (Muskelfaszien, Schleimbeutel, Sehnenscheiden, Sesambeine).
 
     ₢ Mariana Ruiz Villarreal ℓ Public domain
 
+.. index::
+    single: Knochenverbindungen
+    single: Juncturen
+    single: Synarthrosen
+    single: Synostosen
 
-Juncturen (Knochenverbindungen)
+Knochenverbindungen (Juncturen)
 -------------------------------
 
-Juncturen können in *Synarthrosen* (kontinuierliche / unbewegliche
-Knochenverbindungen, Fugen / Haften) und *Diarthrosen*
+Knochenverbindungen (Juncturen) können in
+**Synarthrosen** (kontinuierliche / unbewegliche
+Knochenverbindungen, Fugen / Haften) und
+**Diarthrosen**
 (diskontinuierliche / bewegliche Knochenverbindungen, Gelenke)
 unterteilt werden.
 
@@ -40,6 +60,7 @@ unterteilt werden.
 
 
 Synarthrosen
+++++++++++++++
 
 Bei Synarthrosen können folgende Untergruppen unterschieden werden:
 
@@ -55,28 +76,52 @@ Bei Synarthrosen können folgende Untergruppen unterschieden werden:
     sacrum (Kreuzbein), Os coxae (Hüftbein), Verknöcherung der
     Wachstumsfugen nach Wachstumsabschluss.
 
-Diarthrosen
 
-Diarthrosen haben verschiedene definierte Kennzeichen: die
-*Knochenenden* sind durch einen *Gelenkspalt* getrennt und mit *hyalinem
-Knorpel* überzogen. Die *Gelenkkapsel* ist die äußere Begrenzung des
-Gelenks und schließt die *Gelenkflüssigkeit* ein. In manchen Gelenken
-gibt es *Gelenkkörper* (Discus, Labrum, Meniscus, z.B. Kniegelenk). Die
-Gelenkkapsel besteht aus zwei Schichten - die *Membrana fibrosa* (derbe
-bindegewebige Schicht, straff, bestehend aus Kollagenfasern) ist außen
-und meist durch Ligamenta (Bänder) verstärkt. Die *Membrana synovialis*
-(Gelenkinnenhaut, Gefäß- und Nervenreich) sorgt für die Produktion der
-Gelenkflüssigkeit, die für die Nährstoffversorgung des Knorpels von
+.. index::
+    single: Gelenkkapsel
+    single: Gelenkkörper
+    single: Knorpel; Diarthrosen
+    single: Membrana; fibrosa
+    single: Membrana; synovialis
+    single: Gelenkflüssigkeit
+    single: Synovia
+    single: Knorpelzellen
+    single: Chondrozyten
+
+Diarthrosen
++++++++++++
+
+Diarthrosen,
+``die umgangssprachlich "klassischen" Gelenke (*Articulationes*, *Art.*),`` haben verschiedene definierte Kennzeichen:
+Die *Knochenenden* sind durch einen **Gelenkspalt** getrennt
+und mit **hyalinem Knorpel** überzogen.
+Die **Gelenkkapsel** ist die äußere Begrenzung des
+Gelenks und schließt die *Gelenkflüssigkeit* (*Synovia*) ein.
+In manchen Gelenken
+gibt es *Gelenkkörper* (Discus, Labrum, Meniscus, z.B. Kniegelenk).
+Die Gelenkkapsel besteht aus zwei Schichten:
+Eine derbe bindegewebige Schicht
+(*Membrana fibrosa*; straff, bestehend aus Kollagenfasern) ist außen
+und meist durch Ligamenta (Bänder) verstärkt.
+Die Gelenkinnenhaut
+(:dfn:`Membrana synovialis`; Gefäß- und Nervenreich)
+sorgt für die Produktion der Gelenkflüssigkeit,
+die für die Nährstoffversorgung des Knorpels von
 großer Bedeutung ist.
 
 Der Gelenkknorpel besteht in den meisten Gelenken aus hyalinem Knorpel.
-Abgesehen von den *Knorpelzellen (Chondrozyten)* besteht dieser Knorpel
-aus *Extrazellulärmatrix* (Kollagenmatrix, Makromoleküle = Proteoglykane
-und Wasser). Durchschnittlich ist er ca. 2-3 mm dick, kann aber an
-Einzelstellen, wie z.B. an der Gelenksflächen der Patella (8mm), dicker
-sein. Er ist auch aufgrund des mangelndem Perichondrium und der
-abwesenden Blutgefäßen von der Nährstoffversorgung über das Blut
-abgegrenzt und muss über die Synovia (Gelenksflüssigkeit) versorgt
+Abgesehen von den *Knorpelzellen*
+(*Chondrozyten)* besteht dieser Knorpel
+aus *Extrazellulärmatrix*
+(Kollagenmatrix, Makromoleküle = Proteoglykane
+und Wasser).
+Durchschnittlich ist er ca. 2—3 mm dick, kann aber an
+Einzelstellen, wie z.B. an der Gelenksflächen der Patella (8 mm),
+dicker sein.
+Er ist auch aufgrund des mangelndem Perichondrium und der
+abwesenden Blutgefäßen *von der Nährstoffversorgung* über das Blut
+*abgegrenzt*
+und muss über die Gelenksflüssigkeit) versorgt
 werden. Dies ist der Grund, warum eine Regeneration von Knorpelschäden
 in Gelenken auch eine so große Herausforderung ist.
 
@@ -86,11 +131,14 @@ Die *besonderen Einrichtungen* der Gelenke umfassen alles, was nicht zur
 (Labrum), Gleitbeutel (Recessus, CAVE: sind keine Schleimbeutel).
 
 Die Gelenke werden je nach Ausstattung unterschiedlich gesichert und in
-exzessiver Bewegung gehemmt. Es gibt daher die *Bandhemmung*
-(Bewegungshemmung durch Bänder, z.B. Kniegelenk), die *Knochenhemmung*
-(Bewegungshemmung durch Knochen, z.B. Ellenbogengelenk), die
-*Muskelhemmung* (Bewegungshemmung durch Muskeln, z.B. Handgelenk,
-Hüftgelenk) und die *Weichteilhemmung* (Bewegungshemmung durch sonstige
+exzessiver Bewegung gehemmt.
+Es gibt daher die *Bandhemmung*
+(Bewegungshemmung durch Bänder, z.B. Kniegelenk),
+die *Knochenhemmung*
+(Bewegungshemmung durch Knochen, z.B. Ellenbogengelenk),
+die *Muskelhemmung* (Bewegungshemmung durch Muskeln, z.B. Handgelenk,
+Hüftgelenk)
+und die *Weichteilhemmung* (Bewegungshemmung durch sonstige
 Weichteile, z.B. Ellenbogengelenk, Kniegelenk).
 
 Die Bänder der Gelenke haben jedoch nicht nur eine hemmende Funktion. Es

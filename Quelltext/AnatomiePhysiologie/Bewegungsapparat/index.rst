@@ -238,31 +238,31 @@ wechseln (z.B. Atemhilfsmuskulatur).
 An jedem Muskel kann man einen Muskelkopf (Caput), einen Muskelbauch
 (Venter) und eine Muskelsehne (Tendo) unterscheiden.
 
-Für jede Bewegung können *Synergisten* (Mitspieler) und *Antagonisten*
+Für jede Bewegung können **Synergisten** (Mitspieler) und **Antagonisten**
 (Gegenspieler) definiert werden.
 
 Nach der *Form* können verschiedene Muskeltypen unterschieden werden:
 
--   spindelförmiger Muskel (M. fusiformis), z.B. M. palmaris longus
--   mehrköpfiger Muskel, z.B. M. biceps brachii, M. triceps surae
--   einfach gefiederter Muskel (M. unipennatus), z.B. M. semimembranosus
--   doppelt gefiederter Muskel (M. bipennatus), z.B. M. tibialis anterior
--   zweibäuchiger Muskel (M. biventer), z.B. M. digastricus
--   mehrbäuchiger Muskel, z.B. M. rectus abdominis
--   flacher Muskel (M. planus), z.B. M. trapezius
--   ringförmiger Muskel (M. orbicularis), z.B. M. sphincter anus
+-   **spindelförmiger** Muskel (M. fusiformis), z.B. M. palmaris longus
+-   **mehrköpfiger** Muskel, z.B. M. biceps brachii, M. triceps surae
+-   **einfach gefiederter** Muskel (M. unipennatus), z.B. M. semimembranosus
+-   **doppelt gefiederter** Muskel (M. bipennatus), z.B. M. tibialis anterior
+-   **zweibäuchiger** Muskel (M. biventer), z.B. M. digastricus
+-   **mehrbäuchiger** Muskel, z.B. M. rectus abdominis
+-   **flacher** Muskel (M. planus), z.B. M. trapezius
+-   **ringförmiger** Muskel (M. orbicularis), z.B. M. sphincter anus
     externus, M. orbicularis oris
 
 Wie bereits erwähnt, besitzen Muskeln *Hilfseinrichtungen*, um das
 richtige Funktionieren zu gewährleisten:
 
--   *Muskelfaszien*: sorgen für reibungsloses Gleiten der Muskeln, teilen
+-   **Muskelfaszien**: sorgen für reibungsloses Gleiten der Muskeln, teilen
     einzelne Muskelgruppen (Kompartimente)
--   *Sehnenscheiden*: Führungskanäle für Sehnen, die nahe eines Knochen
+-   **Sehnenscheiden**: Führungskanäle für Sehnen, die nahe eines Knochen
     verlaufen. Diese Sehnenscheiden ähneln in ihrem Aufbau der
     Gelenkkapsel mit einer außen liegenden Membrana fibrosa und einem
     innen liegenden Stratum synoviale (bestehend aus 2 Blättern).
--   *Schleimbeutel* (Bursa synovialis): Reibungsverminderung des Muskels
+-   **Schleimbeutel** (**Bursa** *synovialis*): Reibungsverminderung des Muskels
     in der Nähe des Knochens.
 -   *Sesambeine*: Sie schützen v.a. die Sehnen vor Druck, können aber
     auch den Hebelarm eines Muskels zur Kraftersparnis verlängern (z.B.
@@ -270,17 +270,25 @@ richtige Funktionieren zu gewährleisten:
 -   *Fettansammlungen*: polstern die Gelenkbewegungen ab und können auch
     an der Weichteilhemmung des Gelenkes beteiligt sein.
 
-Zur Erinnerung - Die Muskelfasern sind vom Endomysium umhüllt. Diese
-bilden dann gemeinsam Muskelbündel, die wiederum von Perimysium umhüllt
-werden. Mehrere Muskelbündel gemeinsam bilden den Muskel, welcher von
-Epimysium umhüllt ist. Der Muskel ist zudem in eine Muskelfaszie
+:index:`\ <Endomysium>`
+:index:`\ <Perimysium>`
+:index:`\ <Epimysium>`
+:index:`\ <Faszie>`
+:index:`\ <Muskel; -faszie>`
+Die Muskelfasern sind von Bindegewebe (*Endo*\ mysium) umhüllt. Diese
+bilden dann gemeinsam Muskelbündel, die wiederum von Bindegewebe (*Peri*\ mysium) umhüllt
+werden. Mehrere Muskelbündel gemeinsam bilden den Muskel, welcher vom
+*Epi*\ mysium umhüllt ist. Der Muskel ist zudem in eine **Muskelfaszie**
 verpackt, um eine möglichst reibungsarme Bewegung zu ermöglichen.
 
-Einige Muskeln besitzen auch einen *Umlenkpunkt (Hypomochlion)*, da
+Einige Muskeln besitzen auch einen
+:index:`\ <Hypomochlion>`
+:index:`\ <Umlenkpunkt; Muskel>`
+*Umlenkpunkt* (**Hypomochlion**), da
 Muskelursprung und Muskelsehne nicht immer in einer (Zug-)Linie liegen,
 z.B. Muskeln mit Ursprung am Unterschenkel und Ansatz an den Zehen.
 
-Die *Muskelwirkung* ist immer abhängig vom Hebelarm und lässt sich
+Die **Muskelwirkung** ist immer abhängig vom *Hebelarm* und lässt sich
 mittels folgenden Formeln darstellen:
 
 -   Kraft x Kraftarm = Last x Lastarm
@@ -290,9 +298,21 @@ Zusätzlich ist die Muskelkraft immer abhängig vom *physiologischen
 Querschnitt*. Dieser physiologische Querschnitt ist definiert als die
 Summe der Querschnitte aller Fasern.
 
+
+:index:`\ <Endplatte; motorische>`
 Den Anreiz, sich zu kontrahieren, erhält der Muskel von einem
-motorischen Nerv über die *motorische Endplatte*, eine spezialisierte
+motorischen Nerv über die **motorische Endplatte**, eine spezialisierte
 Form der Synapse.
+
+
+
+
+
+.. index::
+    single: Rumpf
+    single: Truncus
+
+.. _Rumpf:
 
 Rumpf (Truncus)
 ===============
@@ -301,9 +321,17 @@ Zum Rumpfskelett gehören die Columna vertebralis (Wirbelsäule) sowie die
 Knochen des Thorax (Brustkorbs) - Costae (Rippen) und Sternum
 (Brustbein).
 
-Columna vertebralis (Wirbelsäule)
----------------------------------
 
+
+
+.. index::
+    single: Wirbelsäule
+    single: Columna vertebralis
+
+.. _Wirbelsaeule:
+
+Wirbelsäule (Columna vertebralis)
+---------------------------------
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Wirbel-allgemein.*
@@ -316,51 +344,71 @@ Columna vertebralis (Wirbelsäule)
 
 
 Die Wirbelsäule liegt dorsal in der *Mediansagittalebene* und besteht
-aus 33 - 34 Knochen. Sie ist somit das Achsenskelett unseres Körpers.
-Mit einer Länge von ca. 55—63 cm macht sie 35% der Körperlänge des
+aus 33—34 Knochen. Sie ist somit das Achsenskelett unseres Körpers und
+macht mit einer Länge von ca. 55—63 cm 35% der Körperlänge des
 Erwachsenen aus. Die obersten 24 Wirbel sind beweglich. In der
-Seitansicht zeigt die Wirbelsäule ihre *klassische Krümmung* (doppel-S,
-Krümmungen nach ventral):
+Seitansicht zeigt die Wirbelsäule ihre klassische **Doppel-S-Krümmung**
+(Krümmungen nach ventral):
 
--   Halslordose (konvex)
--   Brustkyphose (konkav)
--   Lendenlordose (konvax)
--   Sakralkyphose (konkav)
+:index:`\ <Lordose>`
+:index:`\ <Kyphose>`
+:index:`\ <konvex; Wirbelsäule>`
+:index:`\ <konkav; Wirbelsäule>`
 
+-   Hals\ **lordose** (*konvex*)
+-   Brust\ **kyphose** (*konkav*)
+-   Lenden\ **lordose** (*konvax*)
+-   Sakral\ **kyphose** (*konkav*)
+
+
+:index:`\ <Skoliose>`
 Die gesunde Wirbelsäule sollte nur in der Sagittalebene eine Krümmung
 aufweisen. Eine pathologische Krümmung in der Frontalebene nennt man
-*Skoliose*.
+**Skoliose**.
 
 Die Wirbeln gliedern sich in:
 
--   7 Vertebrae cervicales (Halswirbel, rosa) = C1 - C7
--   12 Vertebrae thoracales (Brustwirbel, blau) = Th1 - Th12
--   5 Vertebrae lumbales (Lendenwirbel, orange) = L1 - L5
--   Os sacrum: 5 miteinander verwachsene Vertebrae sacrales
-    (Kreuzbeinwirbel, grün) = S1 - S5
--   Os coccygis: 4 - 5 verkümmerte und miteinander verwachsene Vertebrae
-    coccygeales (Steißbeinwirbel, braun) = Co1 - Co5
+:index:`\ <Halswirbel>`
+:index:`\ <Brustwirbel>`
+:index:`\ <Lendenwirbel>`
+:index:`\ <Kreuzbeinwirbel>`
+:index:`\ <Steißbeinwirbel>`
+:index:`\ <Vertebrae; cervicales>`
+:index:`\ <Vertebrae; blau>`
+:index:`\ <Vertebrae; orange>`
+:index:`\ <Vertebrae; sacrales>`
+:index:`\ <Os; sacrum>`
+:index:`\ <Os; coccygis>`
+-   **7 Halswirbel** (*Vertebrae cervicales*, rosa) = **C1—C7**
+-   **12 Brustwirbel** (Vertebrae *thoracales*, blau) = **Th1—Th12**
+-   **5 Lendenwirbel** (Vertebrae *lumbales*, orange) = **L1—L5**
+-   **Kreuzbeinwirbel**: 5 miteinander verwachsene Vertebrae *sacrales*
+    (*Os sacrum*, grün) = **S1—S5**
+-   **Steißbeinwirbel**: 4—5 verkümmerte und miteinander verwachsene Vertebrae
+    coccygeales (*Os coccygis*, braun) = Co1—Co5
 
-Zwischen den einzelnen freien Wirbeln liegen *Bandscheiben* (Discus
-intervertebralis). Sie weisen eine *fibröse Schale (Anulus fibrosus)*
-und einen *weichen Kern (Nucleus pulposus)* auf und tragen hierdurch zur
+
+
+Zwischen den einzelnen freien Wirbeln liegen **Bandscheiben** (**Discus**
+*intervertebralis*). Sie weisen eine *fibröse Schale* (*Anulus fibrosus*)
+und einen *weichen Kern* (*Nucleus pulposus*) auf und tragen hierdurch zur
 Stoßdämpfung bei Bewegung und zur Beweglichkeit der Wirbelsäule bei.
 Diese Bandscheibe ist über eine hyaline Knorpelplatte (Lamina
 cartilaginea) an den Wirbelkörper befestigt. In den beweglichsten
 Bereichen der Wirbelsäule (Cervicalwirbel und Lendenwirbel) kann es
-durch Überbeanspruchung zu einem Bandscheibenvorfall - einem Austritt
-des Nucleus pulposus durch einen Riss im Anulus fibrosus - kommen, der
+durch Überbeanspruchung zu einem **Bandscheibenvorfall** — einem *Austritt
+des Nucleus pulposus* durch einen Riss im Anulus fibrosus — kommen, der
 durch Nervenkompression zu Schmerzen bzw. neurologischen Ausfällen
 (Lähmungen) führen kann.
 
-Folgende Bewegungen sind mit der Wirbelsäule möglich: *Flexion /
-Extension, Rotation, Lateralflexion*. Diese Gesamtbewegungen der
+Als Bewegungen sind mit der Wirbelsäule die *Flexion /
+Extension*, *Rotation* und *Lateralflexion* möglich. Diese Gesamtbewegungen der
 Wirbelsäule summieren sich aus den Einzelbewegungen zwischen den
 einzelnen Wirbeln.
 
-Ein Wirbel lässt sich allgemein in das *Corpus vertebrae* (Wirbelkörper)
-und den *Arcus vertebrae* (Wirbelbogen) unterteilen. Der Wirbelbogen
-umfasst das Foramen vertebrale (Wirbelloch), in dem das Rückenmark
+Ein Wirbel lässt sich allgemein in das **Wirbelkörper** (*Corpus vertebrae*)
+und den **Wirbelbogen** (*Arcus vertebrae*) unterteilen. Der Wirbelbogen
+umfasst das **Wirbelloch** (*Foramen vertebrale*), in dem das Rückenmark
 verläuft. Durch die übereinander liegenden Wirbel bildet sich dann aus
 der Gesamtheit der Wirbellöcher der *Wirbelkanal (Canalis vertebralis)*.
 Der Wirbelkörper ist immer anterior, der Wirbelbogen weist nach dorsal.

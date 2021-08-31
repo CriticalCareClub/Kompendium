@@ -58,22 +58,27 @@ unterteilt werden.
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
+.. index::
+    single: Syndesmose
+    single: Synchrondrose
+    single: Synostose
 
 Synarthrosen
 ++++++++++++
 
-Bei Synarthrosen können folgende Untergruppen unterschieden werden:
+Bei Synarthrosen können unterschieden werden:
 
--   *Syndesmose (Bandhaft)*: Verbindung über Bindegewebe, z.B. Membrana
+-   **Bandhafte Verbindung über Bindegewebe** (*Syndesmose)*:
+    Z. B. Membrana
     interossea (Zwischenknochenmembran) zwischen Ulna (Elle) und Radius
     (Speiche), Fontanellen, Suturen (Schädelnähte), Gomphosis
     („Einzapfung“ der Zähne).
--   *Synchondrose (Knorpelhaft)*: Verbindung über Knorpel, z.B. Discus
+-   **Knorpelhafte** Verbindung (*Synchondrose*):  Z. B. Discus
     intervertebralis (Bandscheibe), Symphysis (Schambeinfuge),
     Wachstumsfugen.
--   *Synostose (Knochenhaft)*: immer eine sekundäre Verbindung, basierend
-    auf den beiden bereits genannten, Verbindung über Knochen, z.B. Os
-    sacrum (Kreuzbein), Os coxae (Hüftbein), Verknöcherung der
+-   **Knochenhaft** (*Synostose*): immer eine sekundäre Verbindung, basierend
+    auf den beiden bereits genannten, Verbindung über Knochen, z.B. Kreuzbein (Os
+    sacrum), Hüftbein (Os coxae), Verknöcherung der
     Wachstumsfugen nach Wachstumsabschluss.
 
 
@@ -92,7 +97,8 @@ Diarthrosen
 +++++++++++
 
 Diarthrosen,
-``die umgangssprachlich "klassischen" Gelenke (*Articulationes*, *Art.*),`` haben verschiedene definierte Kennzeichen:
+die umgangssprachlich "klassischen" Gelenke (*Articulationes*, *Art.*),
+haben verschiedene definierte Kennzeichen:
 Die *Knochenenden* sind durch einen **Gelenkspalt** getrennt
 und mit **hyalinem Knorpel** überzogen.
 Die **Gelenkkapsel** ist die äußere Begrenzung des
@@ -113,33 +119,34 @@ Der Gelenkknorpel besteht in den meisten Gelenken aus hyalinem Knorpel.
 Abgesehen von den *Knorpelzellen*
 (*Chondrozyten)* besteht dieser Knorpel
 aus *Extrazellulärmatrix*
-(Kollagenmatrix, Makromoleküle = Proteoglykane
+(Kollagenmatrix, Makromoleküle (Proteoglykane)
 und Wasser).
 Durchschnittlich ist er ca. 2—3 mm dick, kann aber an
-Einzelstellen, wie z.B. an der Gelenksflächen der Patella (8 mm),
+Einzelstellen, wie z.B. an der Gelenksflächen der Kniescheibe (Patella, 8 mm),
 dicker sein.
-Er ist auch aufgrund des mangelndem Perichondrium und der
+Er ist auch aufgrund des mangelndem Knorpelhaut
+(Perichondrium, enthält Nerven und und Blutgefäße) und der
 abwesenden Blutgefäßen *von der Nährstoffversorgung* über das Blut
 *abgegrenzt*
-und muss über die Gelenksflüssigkeit) versorgt
-werden. Dies ist der Grund, warum eine Regeneration von Knorpelschäden
+und muss über die Gelenksflüssigkeit versorgt
+werden. Dies ist der Grund, warum die Regeneration von Knorpelschäden
 in Gelenken auch eine so große Herausforderung ist.
 
 Die *besonderen Einrichtungen* der Gelenke umfassen alles, was nicht zur
-„Basisausstattung“ der Gelenke dazugehört: Verstärkungsbänder
+"Basisausstattung" der Gelenke dazugehört: Verstärkungsbänder
 (Ligamentum), Zwischenscheiben (Discus articularis), Gelenklippen
-(Labrum), Gleitbeutel (Recessus, CAVE: sind keine Schleimbeutel).
+(Labrum), Gleitbeutel (Recessus; dies sind keine Schleimbeutel!).
 
-Die Gelenke werden je nach Ausstattung unterschiedlich gesichert und in
-exzessiver Bewegung gehemmt.
+Die Gelenke werden je nach Ausstattung unterschiedlich *gesichert* und in
+*exzessiver Bewegung gehemmt*.
 Es gibt daher die *Bandhemmung*
-(Bewegungshemmung durch Bänder, z.B. Kniegelenk),
+(Bewegungshemmung durch Bänder, z. B. Kniegelenk),
 die *Knochenhemmung*
-(Bewegungshemmung durch Knochen, z.B. Ellenbogengelenk),
+(Bewegungshemmung durch Knochen, z. B. Ellenbogengelenk),
 die *Muskelhemmung* (Bewegungshemmung durch Muskeln, z.B. Handgelenk,
 Hüftgelenk)
 und die *Weichteilhemmung* (Bewegungshemmung durch sonstige
-Weichteile, z.B. Ellenbogengelenk, Kniegelenk).
+Weichteile, z. B. Ellenbogengelenk, Kniegelenk).
 
 Die Bänder der Gelenke haben jedoch nicht nur eine hemmende Funktion. Es
 gibt
@@ -151,23 +158,23 @@ gibt
 Nach ihrer Form und ihrer Bewegungsfreiheit bzw. der Anzahl der
 Bewegungsachsen werden verschiedene *Gelenksformen* unterschieden:
 
--   Kugelgelenk (Art. sphaeroidea): drei Freiheitsgrade, z.B.
+-   **Kugelgelenk** (Art. sphaeroidea): **3** Freiheitsgrade, z.B.
     Schultergelenk
--   Nussgekenk (Enarthrosis): drei Freiheitsgrade, z.B. Hüftgelenk
--   Eigelenk (Art. ellipsoidea): zwei Freiheitsgrade, z.B. proximales
+-   **Nussgekenk** (Enarthrosis): **3** Freiheitsgrade, z.B. Hüftgelenk
+-   **Eigelenk** (Art. ellipsoidea): **2** Freiheitsgrade, z.B. proximales
     Handgelenk
--   Sattelgelenk (Art. sellaris): zwei Freiheitsgrade, z.B.
+-   **Sattelgelenk** (Art. sellaris): **2** Freiheitsgrade, z.B.
     Daumensattelgelenk (Art. carpometacarpale I)
--   planes Gelenk (Art. plana): zwei Freiheitsgrade, z.B.
+-   **planes Gelenk** (Art. plana): **2** Freiheitsgrade, z.B.
     Zwischenwirbelgelenke
--   Radgelenk / Zapfengelenk (Art. trochoidea): ein Freiheitsgrad, z.B.
+-   **Rad-** bzw. **Zapfengelenk** (Art. trochoidea): **1** Freiheitsgrad, z.B.
     proximales Radio-Ulnargelenk
--   Scharniergelenk (Ginglymus): ein Freiheitsgrad, z.B. distale Finger-
+-   **Scharniergelenk** (Ginglymus): **1** Freiheitsgrad, z.B. distale Finger-
     und Zehengelenke
--   Straffes Gelenk (Amphiarthrose): Beweglichkeit durch Bänder stark
+-   **Straffes Gelenk** (Amphiarthrose): Beweglichkeit durch Bänder stark
     eingeschränkt, z.B. Gelenke zwischen den Handwurzelknochen
 
-Der *Freiheitsgrad* beschreibt die unterschiedlichen Bewegungen in einer
+Der **Freiheitsgrad** beschreibt die unterschiedlichen Bewegungen in einer
 Raumebene. Bei drei Freiheitsgraden (maximal möglich), kann man mit
 diesem Gelenk Bewegungen in allen drei Raumebenen durchführen. Bei einem
 Freiheitsgrad kann nur eine bestimmte Bewegung ausgeführt werden.
@@ -310,7 +317,7 @@ Columna vertebralis (Wirbelsäule)
 
 Die Wirbelsäule liegt dorsal in der *Mediansagittalebene* und besteht
 aus 33 - 34 Knochen. Sie ist somit das Achsenskelett unseres Körpers.
-Mit einer Länge von ca. 55-63 cm macht sie 35% der Körperlänge des
+Mit einer Länge von ca. 55—63 cm macht sie 35% der Körperlänge des
 Erwachsenen aus. Die obersten 24 Wirbel sind beweglich. In der
 Seitansicht zeigt die Wirbelsäule ihre *klassische Krümmung* (doppel-S,
 Krümmungen nach ventral):

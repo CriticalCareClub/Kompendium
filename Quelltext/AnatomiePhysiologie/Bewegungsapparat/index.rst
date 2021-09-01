@@ -64,7 +64,7 @@ unterteilt werden.
     single: Synostose
 
 Synarthrosen
-++++++++++++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Bei Synarthrosen können unterschieden werden:
 
@@ -94,7 +94,7 @@ Bei Synarthrosen können unterschieden werden:
     single: Chondrozyten
 
 Diarthrosen
-+++++++++++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Diarthrosen,
 die umgangssprachlich "klassischen" Gelenke (*Articulationes*, *Art.*),
@@ -366,6 +366,11 @@ Die gesunde Wirbelsäule sollte nur in der Sagittalebene eine Krümmung
 aufweisen. Eine pathologische Krümmung in der Frontalebene nennt man
 **Skoliose**.
 
+
+
+
+.. rubric:: Abschnitte der Wirbelsäule
+
 Die Wirbeln gliedern sich in:
 
 :index:`\ <Halswirbel>`
@@ -389,6 +394,8 @@ Die Wirbeln gliedern sich in:
 
 
 
+.. rubric:: Bandscheiben
+
 Zwischen den einzelnen freien Wirbeln liegen **Bandscheiben** (**Discus**
 *intervertebralis*). Sie weisen eine *fibröse Schale* (*Anulus fibrosus*)
 und einen *weichen Kern* (*Nucleus pulposus*) auf und tragen hierdurch zur
@@ -401,10 +408,18 @@ des Nucleus pulposus* durch einen Riss im Anulus fibrosus — kommen, der
 durch Nervenkompression zu Schmerzen bzw. neurologischen Ausfällen
 (Lähmungen) führen kann.
 
+
+
+.. rubric:: Bewegungen
+
 Als Bewegungen sind mit der Wirbelsäule die *Flexion /
 Extension*, *Rotation* und *Lateralflexion* möglich. Diese Gesamtbewegungen der
 Wirbelsäule summieren sich aus den Einzelbewegungen zwischen den
 einzelnen Wirbeln.
+
+
+
+.. rubric:: Wirbel
 
 Ein Wirbel lässt sich allgemein in das **Wirbelkörper** (*Corpus vertebrae*)
 und den **Wirbelbogen** (*Arcus vertebrae*) unterteilen. Der Wirbelbogen
@@ -425,17 +440,19 @@ Gelenksfortsätzen, bildet sich aus dem oberen und unteren Wirbel das
 *Zwischenwirbelloch (Foramen intervertebrale)*. Durch dieses Foramen
 intervertebrale verlaufen die *Spinalnerven* des Rückenmarks.
 
-Besonderheiten der einzelnen Wirbel:
+
+
+.. rubric:: Besonderheiten der einzelnen Wirbel
 
 *Halswirbel (*\ C): Foramen transversarium (Loch) in den Procc.
 transversi der Halswirbel für A. vertebralis (Wirbelarterie),
 Dornfortsätze der Halswirbel 2-6 gegabelt.
 
-1. HW (Atlas): kein Wirbelkörper, kein Proc. spinosus, Form eines
+1. Halswirbel (**Atlas**): kein Wirbelkörper, kein Proc. spinosus, Form eines
 Ringes, trägt Os occipitale (Hinterhauptbein), Arcus anterioris, Arcus
 posterioris, Massae laterales.
 
-2. HW (Axis): Dens axis » Zapfengelenk zur Kopfdrehung.
+2. HW (**Axis**): Dens axis » Zapfengelenk zur Kopfdrehung.
 
 7. HW (Vertebra prominens): erster tastbarer Proc. spinosus.
 
@@ -471,7 +488,10 @@ Canalis sacralis
 *Os coccygeum (Co, Steißbein)*: 3-5 bogenlose Wirbelrudimente, Cornua
 coccygea (verkümmerte Procc. articulares superiores)
 
-Bandverbindungen
+
+
+
+.. rubric:: Bandverbindungen
 
 -   Lig. longitudinale ant. (vorderes Längsband): von Atlas bis Os sacrum
     an der Vorderseite des Wirbelkörpers.
@@ -488,7 +508,9 @@ Bandverbindungen
     einzelnen Wirbel.
 -   Lig. supraspinale: vom 7. Halswirbel bis zum Os sacrum.
 
-*Gelenke der Wirbelsäule*:
+
+
+.. rubric:: Gelenke der Wirbelsäule
 
 -   Discus intervertebralis (Zwischenwirbelscheibe): Synchondrose, Anulus
     fibrosus, Nucleus pulposus
@@ -500,7 +522,10 @@ Bandverbindungen
 -   Art. lumbosacralis
 -   Art. sacrococcygea
 
+
+
 Rückenmuskulatur
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Diese Muskelgruppe ist wichtig für die Bewegung des Rumpfes - Streckung,
 Drehung, Seitneigung - und für die Stabilisierung der Wirbelsäule.
@@ -519,68 +544,73 @@ Es werden grundsätzlich zwei Muskelguppen unterschieden:
     jeweils zugehörigen Stelle besprochen. Gemeinsam ist ihnen, dass sie
     als Atemhilfsmuskeln dienen können.
 
+
+
 Thorax (Brustkorb)
+------------------------------------------------------------------------
 
 Der Thorax *beschützt* wichtige Organe von Brust- und Bauchraum.
 Zusätzlich dient die Bewegung des Brustraumes der *Atmung*. Zum Thorax
 gehören:
 
--   Brustwirbelsäule
--   Costae (12 Rippenpaare)
--   Sternum (Brustbein)
+-   **Brustwirbelsäule**
+-   12 **Rippenpaare** (*Costae*)
+-   **Sternum** (Brustbein)
 
-Der Brustkorb weist zwei Öffnungen, die Apertura thoracis superior (1.
-Rippen) und inferior (Arcus costalis und Proc. xiphoideus), an denen
-sich Hals bzw. Bauchraum anschließen.
+..  ex:
+    Der Brustkorb weist zwei Öffnungen, die Apertura thoracis superior (1.
+    Rippen) und inferior (Arcus costalis und Proc. xiphoideus), an denen
+    sich Hals bzw. Bauchraum anschließen.
 
 Die *12 Rippenpaare* können in unterschiedliche Gruppen unterteilt
 werden:
 
--   Costae verae (echte Rippen): 7
--   Costae spuriae (falsche Rippen): 3
--   Costae fluctuantes (fliegende Rippen): 2
+-   7 echte Rippen (Costae verae)
+-   3 falsche Rippen (Costae spuriae)
+-   2 fliegende Rippen (Costae fluctuantes)
 
-Die *Rippe (Costa)* setzt sich aus dem Os costale (Rippenknochen) und
-der Cartilago costalis (Rippenknorpel) zusammen. An jedem Rippenknochen
-können Caput costae (Rippenkopf), Collum costae (Rippenhals), Corpus
-costae (Rippenkörper) mit dem Sulcus costalis (Rippenrinne) für die
-Intercostalgefäße und -nerven sowie Cartilago costalis (Rippenknorpel)
-unterschieden werden. Dieser Sulcus costalis fehlt an der 1., 2. und 12.
-Rippe. Die Rippen sind, um den Thorax zu formen, einerseits nach innen
+Die *Rippe* (*Costa*) setzt sich aus dem Rippenknochen (Os costale) und
+der Rippenknorpel (Cartilago costalis) zusammen. An jedem Rippenknochen
+können Rippenkopf (Caput costae), Rippenhals (Collum costae),
+Rippenkörper (Corpus costae) mit der Rippenrinne (Sulcus costalis) für die
+*Intercostalgefäße* und *-nerven* sowie Rippenknorpel (Cartilago costalis)
+unterschieden werden. Der Sulcus costalis fehlt an der 1., 2. und 12.
+Rippe. Die Rippen sind, um den Thorax zu formen, nach innen
 gekrümmt. Zudem verlaufen sie nicht in 90° zur Wirbelsäule nach ventral,
 sondern sind auch noch in sich nach caudal gekrümmt, sodass die Spitze
 der Rippe immer caudal ihrer Befestigung an der Wirbelsäule liegt.
 
-Das *Brustbein (Sternum*), ein platter Knochen, besteht aus drei Teilen,
-Manubrium sterni (Handgriff), Corpus sterni (Brustbeinkörper), Proc.
-xiphoideus (Schwertfortsatz). Diese sind durch Synchondrosen miteinander
+Das **Brustbein** (**Sternum**), ein platter Knochen, besteht aus drei Teilen:
+Dem **Manubrium** *sterni* (Handgriff), dem *Corpus sterni* (Brustbeinkörper) und dem **Processus
+xiphoideus** (Schwertfortsatz). Diese sind durch Synchondrosen miteinander
 verbunden. Sie verknöchern im Laufe des Erwachsenenalters.
 
-*Gelenke des Thorax:* Scharniergelenke
+.. rubric:: Gelenke des Thorax
 
--   Artt. costovertebrales (Rippen-Wirbel-Gelenke): Scharniergelenke, die
+Scharniergelenke
+
+-   Rippen-Wirbel-Gelenke (Artt. costovertebrales): Scharniergelenke, die
     beiden Untergelenke haben eine gemeinsame Achse, d.h. die Bewegung
     findet hier als kombinierte Bewegung in zwei getrennten Gelenkshöhlen
     statt.
 
--
-
-    -   Articulatio capitis costae (Rippenkopfgelenk): gesichert durch
+    -   Rippenkopfgelenk (Articulatio capitis costae): gesichert durch
         Lig. capitis costae interarticulare, Lig. capitis costae radiatum.
-    -   Articulatio costotransversarium (Rippenquerfortsatzgelenk):
+    -   Rippenquerfortsatzgelenk (Articulatio costotransversarium):
         gesichert durch Lig. costotransversarium lateralis und superior.
 
--   Articulatio sternocostalis (Brustbein-Rippen-Gelenk): sind bei 2.—5.
+-   Brustbein-Rippen-Gelenk (Articulatio sternocostalis): sind bei 2.—5.
     Rippe eine Diarthrose, bei 1., 6. und 7. Rippe eine Synchondrose.
 
-Über diese Gelenke erfolgen die *Atembewegungen* - Inspiration
+Über diese Gelenke erfolgen die *Atembewegungen*: Inspiration
 (Einatmung - Heben der Rippen) und Exspiration (Ausatmung - Senken der
 Rippen).
 
+
+
+
 Thoraxmuskulatur
-----------------
-
-
+^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: /Bilder/WikipediaPd/Thorax.*
     :width: 70%

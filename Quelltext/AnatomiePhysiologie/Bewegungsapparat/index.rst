@@ -119,11 +119,11 @@ Der Gelenkknorpel besteht in den meisten Gelenken aus hyalinem Knorpel.
 Abgesehen von den *Knorpelzellen*
 (*Chondrozyten)* besteht dieser Knorpel
 aus *Extrazellulärmatrix*
-(Kollagenmatrix, Makromoleküle (Proteoglykane)
-und Wasser).
-Durchschnittlich ist er ca. 2—3 mm dick, kann aber an
+:deep:`(Kollagenmatrix, Makromoleküle (Proteoglykane)
+und Wasser)`.
+:deep:`Durchschnittlich ist er ca. 2—3 mm dick, kann aber an
 Einzelstellen, wie z.B. an der Gelenksflächen der Kniescheibe (Patella, 8 mm),
-dicker sein.
+dicker sein.`
 Er ist auch aufgrund des mangelndem Knorpelhaut
 (Perichondrium, enthält Nerven und und Blutgefäße) und der
 abwesenden Blutgefäßen *von der Nährstoffversorgung* über das Blut
@@ -196,18 +196,18 @@ Freiheitsgrad kann nur eine bestimmte Bewegung ausgeführt werden.
 Zusätzlich muss man noch folgende unterschiedliche *Gelenksarten*
 unterscheiden:
 
--   *einfaches Gelenk (Art. simplex)*: Ein einfaches Gelenk verbindet,
+-   *einfaches Gelenk* :deep:`(Art. simplex)`: Ein einfaches Gelenk verbindet,
     wie bei der allgemeinen Beschreibung der Kennzeichen der Diarthrose
     angeführt, zwei Knochen miteinander (z.B. Fingergelenk). Davon zu
     unterscheiden ist das
--   *zusammengesetzte Gelenk (Art. composita)*:
+-   *zusammengesetzte Gelenk* :deep:`(Art. composita)`:
     Hier sind nicht nur zwei,
     sondern mehr Knochen in einer einzigen Gelenkshöhle d.h. durch eine
     gemeinsame Kapsel zusammengefasst. Hierdurch gibt es dann auch nicht
     nur eine Gelenksform, die die Beweglichkeit des Gelenkes bestimmt,
     sondern mehrere (z.B. Ellenbogengelenk). Nochmals eine Stufe weiter
     geht das
--   *komplexes Gelenk (Art. complexa)*: Zusätzlich zu zwei oder mehr
+-   *komplexes Gelenk* :deep:`(Art. complexa)`: Zusätzlich zu zwei oder mehr
     Knochen gibt es hier innerhalb der Gelenkshöhle noch Gelenkskörper
     (Discus bzw. Meniscus articularis), die für die Funktion des Gelenks
     eine wichtige Rolle spielen (z.B. Kniegelenk).
@@ -217,11 +217,11 @@ Muskelmechanik
 
 Muskeln überspannen mindestens ein Gelenk und sind direkt oder über
 Sehnen an den angrenzenden Knochen befestigt. Zur durchgehenden
-Nomenklatur wurde für den Skelettmuskel jeweils ein *Ursprung (Origio)*
-und ein *Ansatz (Insertio)* definiert. Der Ursprung liegt Rumpf-nahe und
+Nomenklatur wurde für den Skelettmuskel jeweils ein *Ursprung* :deep:`(Origio)`
+und ein *Ansatz* :deep:`(Insertio)` definiert. Der Ursprung liegt Rumpf-nahe und
 der Ansatz Rumpf-fern. Eine weitere Beschreibungsmöglichkeit von Muskeln
-umfasst die Begriffe Punctum mobile - der Skelettteil der bewegt wird -
-und Punctum fixum - der Skelettteil der unbewegt bleibt. In Abhängigkeit
+umfasst die Begriffe Punctum mobile — der Skelettteil der bewegt wird —
+und Punctum fixum — der Skelettteil der unbewegt bleibt. In Abhängigkeit
 der durchzuführenden Bewegung können Punctum fixum und Punctum mobile
 wechseln (z.B. Atemhilfsmuskulatur).
 
@@ -235,20 +235,20 @@ wechseln (z.B. Atemhilfsmuskulatur).
     ₢ Gray’s Anatomy  ℓ Copyright expired
 
 
-An jedem Muskel kann man einen Muskelkopf (Caput), einen Muskelbauch
-(Venter) und eine Muskelsehne (Tendo) unterscheiden.
+An jedem Muskel kann man einen Muskelkopf :deep:`(Caput)`, einen Muskelbauch
+:deep:`(Venter)` und eine Muskelsehne (Tendo) unterscheiden.
 
 Für jede Bewegung können **Synergisten** (Mitspieler) und **Antagonisten**
 (Gegenspieler) definiert werden.
 
 Nach der *Form* können verschiedene Muskeltypen unterschieden werden:
 
--   **spindelförmiger** Muskel (M. fusiformis), z.B. M. palmaris longus
--   **mehrköpfiger** Muskel, z.B. M. biceps brachii, M. triceps surae
--   **einfach gefiederter** Muskel (M. unipennatus), z.B. M. semimembranosus
--   **doppelt gefiederter** Muskel (M. bipennatus), z.B. M. tibialis anterior
--   **zweibäuchiger** Muskel (M. biventer), z.B. M. digastricus
--   **mehrbäuchiger** Muskel, z.B. M. rectus abdominis
+-   **spindelförmiger** Muskel :deep:`(M. fusiformis), z.B. M. palmaris longus`
+-   **mehrköpfiger** Muskel, z.B. M. biceps brachii, :deep:`M. triceps surae`
+-   **einfach gefiederter** Muskel :deep:`(M. unipennatus), z.B. M. semimembranosus`
+-   **doppelt gefiederter** Muskel :deep:`(M. bipennatus), z.B. M. tibialis anterior`
+-   **zweibäuchiger** Muskel :deep:`(M. biventer), z.B. M. digastricus`
+-   **mehrbäuchiger** Muskel, :deep:`z.B. M. rectus abdominis`
 -   **flacher** Muskel (M. planus), z.B. M. trapezius
 -   **ringförmiger** Muskel (M. orbicularis), z.B. M. sphincter anus
     externus, M. orbicularis oris
@@ -384,6 +384,7 @@ Die Wirbeln gliedern sich in:
 :index:`\ <Vertebrae; sacrales>`
 :index:`\ <Os; sacrum>`
 :index:`\ <Os; coccygis>`
+
 -   **7 Halswirbel** (*Vertebrae cervicales*, rosa) = **C1—C7**
 -   **12 Brustwirbel** (Vertebrae *thoracales*, blau) = **Th1—Th12**
 -   **5 Lendenwirbel** (Vertebrae *lumbales*, orange) = **L1—L5**
@@ -400,9 +401,9 @@ Zwischen den einzelnen freien Wirbeln liegen **Bandscheiben** (**Discus**
 *intervertebralis*). Sie weisen eine *fibröse Schale* (*Anulus fibrosus*)
 und einen *weichen Kern* (*Nucleus pulposus*) auf und tragen hierdurch zur
 Stoßdämpfung bei Bewegung und zur Beweglichkeit der Wirbelsäule bei.
-Diese Bandscheibe ist über eine hyaline Knorpelplatte (Lamina
-cartilaginea) an den Wirbelkörper befestigt. In den beweglichsten
-Bereichen der Wirbelsäule (Cervicalwirbel und Lendenwirbel) kann es
+Diese Bandscheibe ist über eine hyaline Knorpelplatte :deep:`(Lamina
+cartilaginea)` an den Wirbelkörper befestigt. In den beweglichsten
+Bereichen der Wirbelsäule (Zervikalwirbel und Lendenwirbel) kann es
 durch Überbeanspruchung zu einem **Bandscheibenvorfall** — einem *Austritt
 des Nucleus pulposus* durch einen Riss im Anulus fibrosus — kommen, der
 durch Nervenkompression zu Schmerzen bzw. neurologischen Ausfällen
@@ -493,22 +494,23 @@ coccygea (verkümmerte Procc. articulares superiores)
 
 .. rubric:: Bandverbindungen
 
--   Lig. longitudinale ant. (vorderes Längsband): von Atlas bis Os sacrum
-    an der Vorderseite des Wirbelkörpers.
--   Lig. longitudinale post. (hinteres Längsband): von Atlas bis Os
-    sacrum an der Hinterseite des Wirbelkörpers, fest verbunden mit den
-    Bandscheiben (Disci intervertebrales).
--   Lig. flava (gelbe Bänder): grenzen die Zwischenwirbellöcher (Foramina
-    intervertebralia) nach medial und dorsal ab.
--   Lig. nuchae (Nackenband): von Os occipitale zu den Dornfortsätzen
-    (Procc. spinosi) Halswirbel.
--   Ligg. intertransversaria: zwischen den Querfortsätzen (Procc.
-    transversaria) der einzelnen Wirbel.
+-   Ligg. flava (gelbe Bänder) grenzen die Zwischenwirbellöcher
+    :deep:`(Foramina intervertebralia)` nach medial und dorsal ab.
 -   Ligg. interspinalia: zwischen den Dornfortsätzen (Procc. spinosi) der
     einzelnen Wirbel.
 -   Lig. supraspinale: vom 7. Halswirbel bis zum Os sacrum.
+-   :deep:`Lig. longitudinale ant. (vorderes Längsband): von Atlas bis Os sacrum
+    an der Vorderseite des Wirbelkörpers.`
+-   :deep:`Lig. longitudinale post. (hinteres Längsband): von Atlas bis Os
+    sacrum an der Hinterseite des Wirbelkörpers, fest verbunden mit den
+    Bandscheiben (Disci intervertebrales).`
+-   :deep:`Lig. nuchae (Nackenband): von Os occipitale zu den Dornfortsätzen
+    (Procc. spinosi) Halswirbel.`
+-   :deep:`Ligg. intertransversaria: zwischen den Querfortsätzen (Procc.
+    transversaria) der einzelnen Wirbel.`
 
-
+Die Ligg. supraspinale, interspinalia und flava werden im Rahmen der zentroaxialen Regionalanästhesie (Spinalanästhesie, Periduralanästhesie) bzw. bei der Liquorpunktion bei medianer Punktionstechnik durchstoßen.
+Die Bänder können kalzifizieren ("verknöchern") und dadurch die Punktion erschweren.
 
 .. rubric:: Gelenke der Wirbelsäule
 
@@ -530,21 +532,24 @@ Rückenmuskulatur
 Diese Muskelgruppe ist wichtig für die Bewegung des Rumpfes - Streckung,
 Drehung, Seitneigung - und für die Stabilisierung der Wirbelsäule.
 
-Es werden grundsätzlich zwei Muskelguppen unterschieden:
+Grundsätzlich werden *zwei Muskelguppen* unterschieden:
 
--   *autochtone (ortsstämmige) Rückenmuskeln* (*Musculus erector spinae*:
+-   **autochtone** (*ortsstämmige*) Rückenmuskeln (*Musculus erector spinae*:
     Mm. spinotransversarsarii, Mm. interspinales, Mm. intertransversarii,
     Mm. transversospinales): Sie werden von den Rr. dorsales der
     Spinalnerven innerviert.
--   *nicht-autochtone (eingewanderte) Rückenmuskeln*: Sie sind Muskeln
-    des Schultergürtels - z.B. M. trapezius, M. rhomboideus major und
-    minor, M. latissimus. Ursprung immer an den Dornfortsätzen, Ansatz
-    entweder an den Rippen bzw. an Teilen der oberen Extremität (Scapula
-    [Schulterblatt] bzw. Humerus [Oberarmknochen]), sie werden an der
-    jeweils zugehörigen Stelle besprochen. Gemeinsam ist ihnen, dass sie
-    als Atemhilfsmuskeln dienen können.
+-   **nicht-autochtone** (*eingewanderte*) Rückenmuskeln:
+    Sie sind Muskeln des Schultergürtels
+    :deep:`(z.B. M. trapezius, M. rhomboideus major und minor, M. latissimus)`.
+
+    Der *Ursprung* befindet sich immer an den *Dornfortsätzen*, der *Ansatz*
+    entweder an den *Rippen* bzw. an *Teilen der oberen Extremität* (Scapula
+    (Schulterblatt) bzw. Humerus (Oberarmknochen)).
+    Gemeinsam ist ihnen, dass sie
+    als **Atemhilfsmuskeln** dienen können.
 
 
+.. _RippenGefaessNervenbuendel:
 
 Thorax (Brustkorb)
 ------------------------------------------------------------------------
@@ -570,15 +575,22 @@ werden:
 -   2 fliegende Rippen (Costae fluctuantes)
 
 Die *Rippe* (*Costa*) setzt sich aus dem Rippenknochen (Os costale) und
-der Rippenknorpel (Cartilago costalis) zusammen. An jedem Rippenknochen
+der Rippenknorpel (Cartilago costalis) zusammen. :deep:`An jedem Rippenknochen
 können Rippenkopf (Caput costae), Rippenhals (Collum costae),
-Rippenkörper (Corpus costae) mit der Rippenrinne (Sulcus costalis) für die
-*Intercostalgefäße* und *-nerven* sowie Rippenknorpel (Cartilago costalis)
-unterschieden werden. Der Sulcus costalis fehlt an der 1., 2. und 12.
-Rippe. Die Rippen sind, um den Thorax zu formen, nach innen
+Rippenkörper (Corpus costae) mit der` *an der Unterseite* der Rippe gelegenen Rippenrinne (Sulcus costalis) für die
+*Intercostalgefäße* und *-nerven* ("Gefäß-/Nervenbündel") sowie Rippenknorpel (Cartilago costalis)
+unterschieden werden. :deep:`Der Sulcus costalis fehlt an der 1., 2. und 12.
+Rippe.` Die Rippen sind, um den Thorax zu formen, nach innen
 gekrümmt. Zudem verlaufen sie nicht in 90° zur Wirbelsäule nach ventral,
 sondern sind auch noch in sich nach caudal gekrümmt, sodass die Spitze
 der Rippe immer caudal ihrer Befestigung an der Wirbelsäule liegt.
+
+.. attention::
+
+    Das Gefäß-/Nervenbündel verläuft am **unteren Rand** der Rippe!
+
+    Eine interkostale *Punktion* (z. B. des Pleuraraums) muss daher immer am *Oberrand* der Rippe erfolgen um Blutungen zu vermeiden!
+
 
 Das **Brustbein** (**Sternum**), ein platter Knochen, besteht aus drei Teilen:
 Dem **Manubrium** *sterni* (Handgriff), dem *Corpus sterni* (Brustbeinkörper) und dem **Processus
@@ -587,27 +599,39 @@ verbunden. Sie verknöchern im Laufe des Erwachsenenalters.
 
 .. rubric:: Gelenke des Thorax
 
-Scharniergelenke
-
--   Rippen-Wirbel-Gelenke (Artt. costovertebrales): Scharniergelenke, die
-    beiden Untergelenke haben eine gemeinsame Achse, d.h. die Bewegung
-    findet hier als kombinierte Bewegung in zwei getrennten Gelenkshöhlen
-    statt.
-
-    -   Rippenkopfgelenk (Articulatio capitis costae): gesichert durch
-        Lig. capitis costae interarticulare, Lig. capitis costae radiatum.
-    -   Rippenquerfortsatzgelenk (Articulatio costotransversarium):
-        gesichert durch Lig. costotransversarium lateralis und superior.
-
--   Brustbein-Rippen-Gelenk (Articulatio sternocostalis): sind bei 2.—5.
-    Rippe eine Diarthrose, bei 1., 6. und 7. Rippe eine Synchondrose.
-
+Die Gelenke des Thorax\ [#GelenkeThorax]_ sind Scharniergelenke.
 Über diese Gelenke erfolgen die *Atembewegungen*: Inspiration
 (Einatmung - Heben der Rippen) und Exspiration (Ausatmung - Senken der
 Rippen).
 
+.. [#GelenkeThorax]
+    -   Rippen-Wirbel-Gelenke (Artt. costovertebrales): Scharniergelenke,
+        :deep:`die beiden Untergelenke haben eine gemeinsame Achse, d.h. die Bewegung
+        findet hier als kombinierte Bewegung in zwei getrennten Gelenkshöhlen
+        statt.`
+
+        -   Rippenkopfgelenk (Articulatio capitis costae): gesichert durch
+            Lig. capitis costae interarticulare, Lig. capitis costae radiatum.
+        -   Rippenquerfortsatzgelenk (Articulatio costotransversarium):
+            gesichert durch Lig. costotransversarium lateralis und superior.
+
+    -   Brustbein-Rippen-Gelenk :deep:`(Articulatio sternocostalis): sind bei 2.—5.
+        Rippe eine Diarthrose, bei 1., 6. und 7. Rippe eine Synchondrose.`
 
 
+
+.. index::
+    single: Zwerchfell
+    single: Diaphragma
+    single: Hiatus; oesophageus
+    single: Hiatushernie
+    single: Nervus; vagus; Hiatus oesophageus
+    single: Nervus; phrenicus dext.; Foramen V. cavae
+    single: Atemmuskeln
+    single: Atemhilfsmuskulatur
+    single: Ductus; thoracicus; Hiatus aorticus
+    single: Punctum ; mobile
+    single: Punctum; fixum
 
 Thoraxmuskulatur
 ^^^^^^^^^^^^^^^^^^^^^
@@ -620,45 +644,39 @@ Thoraxmuskulatur
     ₢ Mariana Ruiz Villarreal ℓ Public domain
 
 Die Hauptfunktion der Muskeln des Brustkorbs liegt in der Atmung.
+Von den **echten Atemmuskeln**\ [#EchteAtemmuskeln]_ ist das **Zwerchfell** (*Diaphragma*) als wichtigster Atemmuskel zu nennen.
+Es ist kuppelförmig, linke Zwerchfellkuppel liegt
+tiefer als die rechte (Leber), kaudale Begrenzung zwischen Thorax und
+Abdomen (Bauchraum), die Höhe der Zwerchfellkuppeln unterscheidet
+sich zwischen Exspiration (links: 5. Rippe, rechts: 4. Rippe) und
+Inspiration (3-6 cm nach kaudal).
+Durch drei Zwerchfellöffnungen passieren die
+V. cava inferior und der N. phrenicus dext. :deep:`(Foramen V. cavae)`,
+die Aorta und  der Ductus thoracicus :deep:`(Hiatus aorticus)`,
+sowie durch den **Hiatus** *oesophageus*
+der Ösophagus, N. vagus. der Ösophagus und der N. vagus.
 
-*Echte Atemmuskeln*:
+.. [#EchteAtemmuskeln]
+    *Echte Atemmuskeln*:
 
--   Mm. intercostales externi: Inspiration
+    -   \ Mm. intercostales externi: Inspiration
+    -   \ Mm. intercostales interni: Exspiration
+    -   \ Mm. subcostales: Exspiration
+    -   \ M. transversus thoracis: Exspiration
+    -   Diaphragma (Zwerchfell):
 
--   Mm. intercostales interni: Exspiration
+        -   zentrale Sehnenplatte (Centrum tendineum)
+        -   Pars costalis (Rippen-Anteil)
+        -   Pars lumbalis (Lenden-Anteil)
+        -   Pars sternalis (Brustbein-Anteil)
 
--   Mm. subcostales: Exspiration
-
--   M. transversus thoracis: Exspiration
-
--   Diaphragma (Zwerchfell): kuppelförmig, linke Zwerchfellkuppel liegt
-    tiefer als die rechte (Leber), kaudale Begrenzung zwischen Thorax und
-    Abdomen (Bauchraum), die Höhe der Zwerchfellkuppeln unterscheidet
-    sich zwischen Exspiration (links: 5. Rippe, rechts: 4. Rippe) und
-    Inspiration (3-6 cm nach kaudal).
-
-    -   zentrale Sehnenplatte (Centrum tendineum)
-
-    -   Pars costalis (Rippen-Anteil)
-
-    -   Pars lumbalis (Lenden-Anteil)
-
-    -   Pars sternalis (Brustbein-Anteil)
-
-    -   Zwerchfellöffnungen:
-
-        -   Foramen v. cavae (Öffnung der V. cava): V. cava inf.,
-            N. phrenicus dext.
-        -   Hiatus aorticus (Öffnung der Aorta):
-            Aorta, Ductus thoracicus.
-        -   Hiatus oesophageus (Öffnung der Speiseröhre): '
-            Oesophagus, N. vagus.
 
 Die kraniale Fortsetzung der Zwischenrippenmuskeln sind die Mm. scaleni.
 
-*Atemhilfsmuskeln*: besitzen eine eigene Hauptfunktion, durch Umkehr von
-Punctum mobile und Punctum fixum können sie bei Bedarf (z.B.
-Asthmaanfall) bei der Atmung mithelfen.
+Die **Atemhilfsmuskeln** besitzen an sich eine eigene Hauptfunktion ind Bezug auf die obere Extremität,
+wird diese jedoch fixiert (z. B. durch Aufstützen)
+kommt es zu einer *Umkehr von Punctum mobile und Punctum fixum*,
+dadurch können sie bei Bedarf (z.B. Asthmaanfall) bei der Atmung mithelfen.
 
 Die *Brustwand* ist insgesamt 4-schichtig aufgebaut (von außen nach
 innen):

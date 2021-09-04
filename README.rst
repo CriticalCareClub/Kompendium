@@ -1,10 +1,11 @@
+
+README — Arbeits- und Ausbildungsstandards für den Sanitätdienst
 #######################################################################
-README — Kompendium des CCCA
-#######################################################################
+
+Herausgegeben von der Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für den Sanitätsdienstn (ARGE AASS).
+Nach Umbenennung der ARGE AASS in Critical Care Club Austria (CCCA) wird dieses Werk in "Kompendium des CCCA" umbenannt werden,
 
 
-
-***********************************************************************
 Kurzinfo
 ***********************************************************************
 
@@ -12,6 +13,12 @@ Eine aktuelle **Preview** der Entwicklungsversion des ``master``-Zweiges findet 
 unter:
 
 -   https://criticalcareclubaustria.gitlab.io/Ccca-Kompendium
+
+Web-Versionen der einzelnen in Entwicklung befindlichen Zweige befinden sich im *Playground:*
+
+-   https://playground.criticalcare.at/
+
+    Die Verzeichnisnamen ergeben sich aus dem Namen des Zweiges: ``Ccca-Kompendium-<Zweigname>``
 
 Das **Projekthandbuch** findet sich unter:
 
@@ -41,21 +48,16 @@ Technische Dokumentation und Notizen findet man auch im **Wiki**:
    Gebot.*
 
 
-***********************************************************************
+
 Projektinfo
 ***********************************************************************
 
-`./Quelltext/Organisation/index.rst`_
 
-.. list-table::
-
-    *   -   Projektleitung
-        -   Sebastian GABRIEL
-    *   -   Review-Group:
-        -   ???
+:Projektleitung:
+    `Sebastian GABRIEL <https://gitlab.com/GabrielSebastian>`_
 
 
-***********************************************************************
+
 Offenlegung, Impressum, Nutzungsbedingungen und Hinweise
 ***********************************************************************
 

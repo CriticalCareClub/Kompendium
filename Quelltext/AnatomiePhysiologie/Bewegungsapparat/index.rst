@@ -987,9 +987,19 @@ möglich.
 
 
 
+
+
+
+
+.. index::
+    single: Extremität; Obere
+    single: Membrum; superius
+
+.. _MembrumSuperius:
+.. _ObereExtremitaet:
+
 Membrum superius (Obere Extremität)
 ===================================
-
 
 
 .. figure:: /Bilder/WikipediaPd/Human_arm_bones_diagram_de-edited.*
@@ -1004,65 +1014,110 @@ Der Arm kann in mehrere Bereiche eingeteilt werden - *Oberarm
 (Brachium), Unterarm (Antebrachium) und Hand (Manus)*. Bei der Hand
 unterscheidet man weiters die *Handwurzel (Carpus), die Mittelhand
 (Metacarpus) und die Finger (Digiti)*.
+Die Finger werden vom Daumen beginnend nummeriert
+(I:  Daumen (*Pollex*),
+II: Zeigefinger (*Index*),
+III: Mittelfinger (*Medius*);
+IV: Ringfinger (*Amnularius*);
+V: kleiner Finger (*Minimus*).
 
 Zur oberen Extremität gehören folgende Skelett-Anteile:
 
-Schultergürtel: mit drei Anteilen - Manubrium sterni
+-   Schultergürtel: mit drei Anteilen
 
-Clavicula (Schlüsselbein)
+    -   Manubrium sterni
+    -   Clavicula (Schlüsselbein)
+    -   Scapula (Schulterblatt)
+
+-   Humerus (Oberarmknochen)
+-   Ulna (Elle)
+-   Radius (Speiche)
+-   Handskelett:
+
+    -   Handwurzelknochen (Ossa carpi): 8
+
+        -   **Kahnbein** (Os *scaphoideum*)
+        -   Mondbein (Os *lunatum*)
+        -   Dreiecksbein (Os *triquetrum*)
+        -   Erbsenbein (Os *pisiforme*)
+        -   großes Vielecksbein (Os *trapezium*)
+        -   kleines Vielecksbein (Os *trapezoideum*)
+        -   Kopfbein (Os *capitatum*)
+        -   Hakenbein (Os *hamatum*)
+
+    -   Mittelhandknochen (Ossa *metacarpalia*, *Metakarpalknochen*): I-V
+    -   Fingerknochen (Ossa *digitorum*):
+
+        -   *Phalanx proximalis*: proximaler Knochen der Finger I—V,
+        -   Phalanx *medialis*: nur **II—V** (nicht am Daumen)!
+        -   Phalanx *distalis*: distaler Knochen der Finger I—V;
+
+
+.. note::
+
+    Da die Daumen jeweils nicht über einen Phalanx med. verfügen gibt es in Summe nur *14* Ossa digitorum.
+
+.. admonition:: Klinischer Kontext
+
+    Verletzungen der Extremitätenknochen sind häufig. Besonders erwähnenswert sind:
+
+    -   Kahnbeinverletzungen sind häufig, jedoch relativ schwierig zu diagnostizieren, der Heilungsprozess ist langwierig.
+
+
+
+
+
+
+.. index::
+    single: Scapula
+    single: Schulterblatt
+
+.. _Scapula:
 
 Scapula (Schulterblatt)
+------------------------------------------------------------------------
 
-Humerus (Oberarmknochen)
+Die Scapula bildet den hinteren Teil Schultergürtels.
+Sie ist ein platter, einem Dreieck ähnlicher, Knochen
+und dient als Muskelursprungsfläche.
+Sie hat gelenkige Verbindungen mit dem
+:ref:`Humerus <Humerus>`
+und der :ref:`Clavicula <Clavicula>`.
 
-Ulna (Elle)
+Die Begrenzungen sind gegeben durch die Ränder
 
-Radius (Speiche)
+-   Margo medialis,
+-   Margo lateralis,
+-   Margo superior mit der Incisura scapulae,
 
-Handskelett:
+den Winkeln
 
-Ossa carpi (Handwurzelknochen): 8
+-   Angulus superior,
+-   Angulus inferior,
+-   Angulus lateralis mit der Cavitas glenoidalis, dem Collum scapulae und dem Proc. coracoideus;
 
-Os scaphoideum (Kahnbein)
+und den Seiten
 
-Os lunatum (Mondbein)
+-   Facies costalis: Fossa subscapularis;
+-   Facies dorsalis: Fossa supraspinata, Spina scapulae mit dem cromion und seiner Facies articularis claviculae, Fossa infraspinata.
 
-Os triquetrum (Dreiecksbein)
-
-Os pisiforme (Erbsenbein)
-
-Os trapezium (großes Vielecksbein)
-
-Os trapezoideum (kleines Vielecksbein)
-
-Os capitatum (Kopfbein)
-
-Os hamatum (Hakenbein)
-
-Ossa metacarpalia (Mittelhandknochen): I-V
-
-Ossa digitorum (Fingerknochen): Phalanx proximalis I-V, distalis I-V;
-media nur II-V (insg. 14 Ossa digitorum)!
-
-Scapula
-
-Begrenzung: Margo medialis, Margo lateralis, Margo superior mit der
-Incisura scapulae, Angulus superior, Angulus inferior, Angulus lateralis
-mit der Cavitas glenoidalis, dem Collum scapulae und dem Proc.
-coracoideus.
-
-Facies costalis: Fossa subscapularis
-
-Facies dorsalis: Fossa supraspinata, Spina scapulae mit dem Acromion und
-seiner Facies articularis claviculae, Fossa infraspinata.
-
-außerdem gibt es zwei Eigenbänder der Scapula - sie verbinden nicht zwei
+Außerdem gibt es zwei Eigenbänder der Scapula — sie verbinden nicht zwei
 unterschiedliche Knochen miteinander, sondern verlaufen innerhalb der
 Scapula. Sie verstärken auch kein Gelenk: Lig. coracoacromiale (zw.
 Proc. coracoideus und Acromion), Lig. transversum scapulae sup.
 (überdacht die Incisura scapulae).
 
-Clavicula
+.. todo:: `#113: Scapula als Landmark / WS für Regionalanästhesie und Punktionen <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/113>`_
+
+
+.. index::
+    single: Clavicula
+    single: Schlüsselbein
+
+.. _Clavicula:
+
+Clavicula (Schlüsselbein)
+------------------------------------------------------------------------
 
 s-förmig
 
@@ -1072,7 +1127,21 @@ Corpus claviculae
 
 Extremitas acromialis (platt) mit Gelenkfläche
 
-Humerus
+Die durch die Mitte des Schlüsselbeins laufende Linie bezeichnet man als Medioklavikularlinie.
+
+.. todo:: `#114: Clavicula: Landmarks für ZVK und Reginalanästhesie <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/114>`_
+
+
+
+
+.. index::
+    single: Humerus
+    single: Oberarmknochen
+
+.. _Humerus:
+
+Humerus (Oberarmknochen)
+------------------------------------------------------------------------
 
 Extremitas proximalis: Caput humeri, Collum anatomicum, Collum
 chirurgicum, Tuberculum majus, Tuberculum minus, dazwischen Sulcus
@@ -1086,7 +1155,18 @@ humeri und der darüberliegenden Fossa coronoidea, sowie dem Capitulum
 humeri und der darüberliegenden Fossa radialis. Auf der dorsalen Seite
 gibt es die Fossa olecrani.
 
-Radius
+
+
+
+
+.. index::
+    single: Speiche
+    single: Radius
+
+.. _Radius:
+
+Radius (Speiche)
+------------------------------------------------------------------------
 
 Extremitas proximalis: Caput radii mit Fovea articularis und der
 Circumferentia articularis, Collum radii, Tuberositas radii.
@@ -1099,7 +1179,18 @@ articularis carpalis, Tuberculum dorsale.
 Mit Ulna über die Zwischenknochenmembran (Membrana interossea)
 verbunden.
 
-Ulna
+
+
+
+
+.. index::
+    single: Elle
+    single: Ulna
+
+.. _Ulna:
+
+Ulna (Elle)
+------------------------------------------------------------------------
 
 Extremitas proximalis: Olecranon, Incisura trochlearis, Proc.
 cornoideus, Incisura radialis, Tuberculum ulnae.
@@ -1112,7 +1203,18 @@ styloideus ulnae.
 Mit Radius über die Zwischenknochenmembran (Membrana interossea)
 verbunden.
 
+
+
+
+
+.. index::
+    single: Handwurzelknochen
+    single: Ossa; carpi
+
+.. _OssaCarpi:
+
 Ossa carpi
+------------------------------------------------------------------------
 
 Merksatz: Ein Schiffchen (Os scaphoideum) fährt im Mondenschein (Os
 lunatum) dreimal (Os triquetrum) um das Erbsenbein (Os pisiforme),
@@ -1129,7 +1231,18 @@ carpi, überdacht durch das Retinaculum mm. flexorum) beteiligt, in
 diesem Tunnel verlaufen die Beugesehnen der Fingermuskeln sowie der N.
 medianus.
 
-Ossa metacarpi
+
+
+
+
+.. index::
+    single: Ossa metacarpi
+    single: Metakarpalknochen
+
+.. _OssaMetacarpi :
+
+Ossa metacarpi (Metakarpalknochen)
+------------------------------------------------------------------------
 
 Zeigen jeweils ein Caput, ein Corpus und eine Basis.
 
@@ -1149,7 +1262,19 @@ Digitus anularis
 
 Digitus minimus
 
+
+
+
+
+.. index::
+    single: Articulatio; sternoclavicularis
+    single: Sternoklavikulargelenk
+    single: Gelenk; Sternoklavikular-
+
+.. _ArticulatioSternoclavicularis:
+
 Articulatio sternoclavicularis (Sternoklavikulargelenk)
+------------------------------------------------------------------------
 
 Das Sternoklavikulargelenk verbindet den Arm über das Schlüsselbein mit
 dem Sternum. Es ist von der Funktion her ein *Kugelgelenk* und besitzt
@@ -1166,7 +1291,19 @@ Folgende Bänder stabiliseren das Art. sternoclavicularis:
 -   Lig. interclaviculare (zwischen den beiden Claviceln)
 -   Lig. costoclaviculare (zwischen der 1. Rippe und der Clavicula)
 
+
+
+
+
+.. index::
+    single: Articulatio; acromioclavicularis
+    single: Akromioklavikulargelenk
+    single: Gelenk; Akromioklavikular-
+
+.. _ArticulatioAcromioclavicularis:
+
 Articulatio acromioclavicularis (Akromioklavikulargelenk)
+------------------------------------------------------------------------
 
 Das Akromioklavikulargelenk ist eine *plane Knochenverbindung* zwischen
 Arcomion (Schulterblatt) und Clavicula. Auch dieses Gelenk besitzt einen
@@ -1181,7 +1318,20 @@ Folgende Bänder stabilisieren das Akromioklavikulargelenk:
 -   Lig. coracoclaviculare (zwischen Proc. coracoideus und Clavicula):
     unterteilbar in Lig.trapezoideum und Lig. conoideum.
 
+
+
+
+
+.. index::
+    single: Articulatio; glenohumeralis
+    single: Schultergelenk
+    single: Gelenk; Schulter-
+
+.. _ArticulatioGlenohumeralis:
+.. _Schultergelenk:
+
 Articulatio glenohumeralis (Schultergelenk)
+------------------------------------------------------------------------
 
 Das Schultergelenk ist ein *klassisches Kugelgelenk* und befindet sich
 zwischen Glenoid der Scapula und Humeruskopf. Durch das inadäquate
@@ -1207,6 +1357,18 @@ Da die Bänder des Schultergelenks für die Gelenkstabilität unzureichend
 sind, braucht das Schultergelenk die sog. Rotatorenmanschette (M.
 supraspinatus, M. infraspinatus, M. subscapularis, M. teres minor). Das
 Schultergelenk wird daher auch als muskelgesichert beschrieben.
+
+
+
+
+
+.. index::
+    single: Articulatio; cubiti
+    single: Ellenbogengelenk
+    single: Gelenk; Ellenbogen-
+
+.. _Articulatio cubiti:
+.. _Ellenbogengelenk:
 
 Articulatio cubiti (Ellenbogengelenk)
 -------------------------------------
@@ -1279,6 +1441,7 @@ zwischen den einzelnen Fingergliedern
 » Scharniergelenk
 
 wichtige Muskeln der oberen Extremität
+------------------------------------------------------------------------
 
 +----------------------------------+----------------------------------+
 | Rotatorenmanschette (M.          | Von Scapula zum Humerus,         |
@@ -1354,6 +1517,8 @@ wichtige Muskeln der oberen Extremität
 |                                  |                                  |
 | Radialisgruppe » N. radialis     |                                  |
 +----------------------------------+----------------------------------+
+
+
 
 Membrum inferius (Untere Extremität)
 ====================================
@@ -1515,6 +1680,9 @@ Digitus tertius
 Digitus quartus
 
 Digitus quintus
+
+
+.. _Beckenboden:
 
 Pelvis (Beckenring)
 -------------------

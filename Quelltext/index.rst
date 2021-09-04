@@ -22,7 +22,7 @@ Arbeits- und Ausbildungsstandards für den Sanitätsdienst
 
 .. only:: html
 
-    .. image:: /Bilder/Logos/Ccca-Logo-10-EuColors-Variante-6-Background-600px.png
+    .. image:: /Bilder/Logos/Ccca-Logo-11.svg
         :align: center
         :width: 50%
 

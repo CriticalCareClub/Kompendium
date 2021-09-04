@@ -13,7 +13,7 @@ pages:
   - git checkout Entwicklung
   - git status
   - mkdir ~/.font
-  - cp Quelltext/_static/source-sans-pro/TTF/* ~/.font
+  - cp Quelltext/_static/source-sans-3/TTF/* ~/.font
   - make html
   - mv Export/Entwicklung/html public
   artifacts:

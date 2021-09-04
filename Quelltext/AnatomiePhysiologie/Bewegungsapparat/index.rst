@@ -1440,83 +1440,109 @@ zwischen den einzelnen Fingergliedern
 
 » Scharniergelenk
 
-wichtige Muskeln der oberen Extremität
+
+
+
+
+Wichtige Muskeln der oberen Extremität
 ------------------------------------------------------------------------
 
-+----------------------------------+----------------------------------+
-| Rotatorenmanschette (M.          | Von Scapula zum Humerus,         |
-| supraspinatus, M. infraspinatus, | Rotation im Schultergelenk je    |
-| M. subscapularis, M. teres       | nach Lage nach innen bzw. außen. |
-| minor)                           |                                  |
-+----------------------------------+----------------------------------+
-| M. deltoideus                    | Von Clavicula, Acromion und      |
-|                                  | Spina scapulae zur Tuberositas   |
-|                                  | deltoidea, Abduktion im          |
-|                                  | Schultergelenk; N. axillaris.    |
-+----------------------------------+----------------------------------+
-| M. trapezius                     | Von Procc. spinosi C2-Th12 zur   |
-|                                  | Clavicula und Spina scapulae,    |
-|                                  | zieht Scapula nach medial; N.    |
-|                                  | accessorius.                     |
-+----------------------------------+----------------------------------+
-| M. pectoralis major              | Von Clavicula, Sternum sowie     |
-|                                  | kranialem Teil der Rektusscheide |
-|                                  | zum Humerus, Adduktion im        |
-|                                  | Schultergelenk; Nn. pectorales   |
-|                                  | med. et lat.                     |
-+----------------------------------+----------------------------------+
-| M. pectoralis minor              | Von 3.-5. Rippe zum Proc.        |
-|                                  | coracoideus, zieht Scapula nach  |
-|                                  | medial/kranial, rotiert Scapula; |
-|                                  | Nn. pectorales med. et lat.      |
-+----------------------------------+----------------------------------+
-| M. latissimus dorsi              | Von Procc. spinosi Th7-L5 zum    |
-|                                  | Humerus, Adduktion im            |
-|                                  | Schultergelenk; N.               |
-|                                  | thoracodorsalis                  |
-+----------------------------------+----------------------------------+
-| M. serratus anterior             | Von 1.-9. Rippe zum Margo        |
-|                                  | medialis scapulae, Elevation des |
-|                                  | Armes; N. thoracicus longus      |
-+----------------------------------+----------------------------------+
-| M. teres major                   | Von Angulus inf. scapulae zum    |
-|                                  | Humerus, Adduktion im            |
-|                                  | Schultergelenk; N.               |
-|                                  | thoracodorsalis                  |
-+----------------------------------+----------------------------------+
-| M. triceps brachii               | 3 Köpfe, von Scapula bzw.        |
-|                                  | Humerus zum Olecranon, Extension |
-|                                  | im Ellenbogen gelenk; N.         |
-|                                  | radialis                         |
-+----------------------------------+----------------------------------+
-| M. biceps brachii                | 2 Köpfe, von Glenoid bzw.        |
-|                                  | Humerus zur Tuberositas radii,   |
-|                                  | Flexion und Suppination im       |
-|                                  | Ellenbogengelenk; N.             |
-|                                  | musculocutaneus                  |
-+----------------------------------+----------------------------------+
-| M. brachialis                    | Von Humerus zur Tuberositas      |
-|                                  | ulnae, Flexion im                |
-|                                  | Ellenbogengelenk; N.             |
-|                                  | musculocutaneus                  |
-+----------------------------------+----------------------------------+
-| M. pronator teres                | Pronation; N. medianus           |
-+----------------------------------+----------------------------------+
-| M. pronator quadratus            | Pronation; N. medianus           |
-+----------------------------------+----------------------------------+
-| M. supinator                     | Supination; N. radialis          |
-+----------------------------------+----------------------------------+
-| Unterarmmuskeln werden der       |                                  |
-| Einfachheit halber in drei       |                                  |
-| Gruppen unterteilt:              |                                  |
-|                                  |                                  |
-| Flexoren » N. radialis           |                                  |
-|                                  |                                  |
-| Extensoren » N. medianus und N.  |                                  |
-| ulnaris                          |                                  |
-|                                  |                                  |
-| Radialisgruppe » N. radialis     |                                  |
-+----------------------------------+----------------------------------+
+.. todo:: `#115: Muskeln der oberen Extremität: Zuordnung Spinalnerven, Kennmuskeln <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/115>`_
+
+.. list-table:: Wichtige Muskeln der oberen Extremität
+    :widths: 15 60 25
+    :header-rows: 1
+    :stub-columns: 1
+
+    *   -   Muskel (-gruppe)
+        -   Verlauf, Funktion
+        -   Innervation
+    *   -   Rotatorenmanschette
+
+            -   \ M. supraspinatus,
+            -   \ M. infraspinatus,
+            -   \ M. subscapularis,
+            -   \ M. teres minor
+
+        -   Von Scapula zum Humerus,  Rotation im Schultergelenk
+            je nach Lage nach innen bzw. außen.
+        -
+    *   -   \ M. deltoideus
+        -   Von Clavicula, Acromion und Spina scapulae
+            zur Tuberositas   deltoidea, Abduktion im Schultergelenk;
+        -   N. axillaris
+    *   -   \ M. trapezius
+        -   Von Procc. spinosi C 2—Th 12 zur
+            Clavicula und Spina scapulae,
+            zieht Scapula nach medial;
+        -   \ N.      accessorius
+    *   -   \ M. pectoralis major
+        -   Von Clavicula, Sternum sowie
+            kranialem Teil der Rektusscheide
+            zum Humerus, Adduktion im
+            Schultergelenk;
+        -   \ Nn. pectorales
+            med. et lat.
+    *   -   \ M. pectoralis minor
+        -   Von 3.-5. Rippe zum Proc.
+            coracoideus, zieht Scapula nach
+            medial/kranial, rotiert Scapula;
+        -   Nn. pectorales med. et lat
+    *   -   \ M. latissimus dorsi
+        -   Von Procc. spinosi Th 7—L 5 zum
+            Humerus, Adduktion im
+            Schultergelenk;
+        -   \ N. thoracodorsalis
+    *   -   \ M. serratus anterior
+        -   Von 1.-9. Rippe zum Margo
+            medialis scapulae, Elevation des
+            Armes;
+        -   \ N. thoracicus longus
+    *   -   \ M. teres major
+        -   Von Angulus inf. scapulae zum
+            Humerus, Adduktion im
+            Schultergelenk;
+        -   \ N. thoracodorsalis
+    *   -   \ M. triceps brachii
+        -   3 Köpfe, von Scapula bzw.
+            Humerus zum Olecranon, Extension
+            im Ellenbogen gelenk;
+        -   \ N. radialis
+    *   -   \ M. biceps brachii
+        -   2 Köpfe, von Glenoid bzw.
+            Humerus zur Tuberositas radii,
+            Flexion und Suppination im
+            Ellenbogengelenk;
+        -   \ N. musculocutaneus
+    *   -   \ M. brachialis
+        -   Von Humerus zur Tuberositas
+            ulnae, Flexion im
+            Ellenbogengelenk;
+        -   \ N. musculocutaneus
+    *   -   \ M. pronator teres
+        -   Pronation;
+        -   \ N. medianus
+    *   -   \ M. pronator quadratus
+        -   Pronation;
+        -   \ N. medianus
+    *   -   \ M. supinator
+        -   Supination;
+        -   \ N. radialis
+    *   -   Unterarmmuskeln
+        -   werden der
+            Einfachheit halber in drei
+            Gruppen unterteilt:
+        -
+    *   -   1.  Flexoren
+        -
+        -   \ N. radialis
+    *   -   2.  Extensoren
+        -
+        -   \ N. medianus und N. ulnaris
+    *   -   3.  Radialisgruppe
+        -
+        -   \ N. radialis
+
 
 
 

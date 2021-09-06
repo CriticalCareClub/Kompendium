@@ -27,15 +27,10 @@ Basics
 Das Herz ist etwas größer als die Fuast des jeweiligen Indivisuums
 und ein *Hohlmuskel* mit der
 Funktion einer *Pumpe*. Es ist somit Teil des *Blutkreislaufs*.
-Es liegt *hinter dem Brustbein* (Sternum, retrosternal)
+Es liegt
 und teilweise im linken Brustkorb,
 unten liegt es auf *dem Zwerchfell auf*.
-Es ist durch ein *Septum* (*Scheidewand*) (Septum) in eine
-*rechte* und eine
-*linke* Seite geteilt.
-Jede Hälfte wird durch *Klappen* in
-einen *Vorhof* (:dfn:`Atrium`) und eine
-*Kammer* (:dfn:`Ventrikel`) geteilt.
+
 
 .. only:: not nosidebar
 
@@ -100,15 +95,7 @@ Die **Blutversorgung** des Herzens erfolgt über mehrere
             -   Durchblutung des Gewebes
             -   Blutdruckmessung → **C**
 
-Das Herz hat eine *mechanische*
-und eine *elektrische* Funktion,
-welche miteinander in Verbindung stehen.
 
-Die **mechanische Herzfunktion** ist im Wesentlichen
-die Pumpfunktion der Herzmuskels durch regelmäßige
-*aktive Kontraktion* und *passive Entspannung*,
-mit einer Frequenz beim Erwachsenen
-in Ruhe von ca. *60—100 mal* in der Minute.
 Bei jeder Kontraktion wirft das Herz ca. *70 mL* Blut in die
 Hauptschlagader aus, in der Minute ergibt das ca. *4—6 L*.
 
@@ -179,31 +166,20 @@ Herzfunktion erfolgt durch die **elektrische Herzfunktion**.
 Die Herzmuskelzellen sind fähig,
 elektrische Reize zu
 erzeugen und weiterzuleiten (*elektrische Herzfunktion*).
-Jeder dieser
-Impulse wird normalerweise vom Herzmuskel mit einer Kontraktion
-beantwortet (*mechanische Herzfunktion*).
+
 Das Herz verfügt über ein **Reizleitungssystem**
 (s. :ref:`reizleitungssystem`).
 Das Reizbildungs- und
 -leitungssystem ist an sich hirarchisch angeordnet:
-An erster Stelle steht der **Sinusknoten** ① im
-rechten Vorhof:
+
 Er ist im Normalfall der Impulsgeber
 und hat eine Eigenfrequenz von ca. 60—100/min
 (*natürlicher Schrittmacher*, :dfn:`Sinusrhythmus`).
-Eine Erregung des
-Sinusknotenn wird über den rechten Vorhof zum :dfn:`AV-Knoten`
-② geleitet, dort gebündelt,
-und über das *His-Bündel*,
-in Richtung der Kammern weitergeleitet.
+
 Im nächsten Schritt gelangen die Impulse über die Tawara-\ *Schenkel* in
 die rechte und linke Herzkammer, wo sie über die Purkinje-\ *Fasern* die
 Muskulatur erreichen.
-Bei einem *Ausfall* eines Knotens, bzw. bei Unterbrechung der
-Erregungsleitung
-(z. B. durch Gewebeschädigung nach einem Herzinfarkt),
-kann die jeweils *nachfolgende Station als Impulsgeber übernehmen* –
-allerdings mit einer langsameren Frequenz [#Erregungsbildung]_.
+
 Im Extremfall,
 wenn das gesamte Leitungssystem ausfällt,
 können auch die Herzmuskelzellen
@@ -213,10 +189,6 @@ aufrecht erhalten.
 Beispiele von Rhythmen werden unter
 :ref:`herzrhythmusstoerungen` vorgestellt.
 
-
-.. [#Erregungsbildung]
-   D.h. jede der Stationen ist zur eigenständigen Erregungsbildung
-   fähig, sofern ihr nicht die übergeordnete Station zuvor kommt.
 
 
 

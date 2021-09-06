@@ -1,9 +1,12 @@
 
-Anatomische Terminologie
+Anatomische Grundlagen
+########################################################################
+
+Terminologie
 ************************************************************************
 
 Körperregionen
-========================
+========================================================================
 
 Man kann den menschlichen Körper in folgende Abschnitte unterteilen:
 
@@ -17,8 +20,8 @@ Man kann den menschlichen Körper in folgende Abschnitte unterteilen:
 -   obere Gliedmaße (lat. *Extremitas superior*, dt. *obere Extremität*)
 -   untere Gliedmaße (lat. *Extremitas inferior,* dt. *untere Extremität*)
 
-Orientierung - Basis
-------------------------------------------------------------------------
+Orientierung — Basis
+========================================================================
 
 Hauptachsen:
 
@@ -44,202 +47,410 @@ Hauptebenen:
 Alle Ebenen sind nicht fix, ansondern können parallel and jede beliebige
 Stelle des Körpers verschoben werden. Die einzige Ausnahme bildet die
 sog. Medianebene (= Median-Sagittal-Ebene): vom Rücken zum Bauch teilt
-sie den Körper vom Kopf zum Fuß in zwei seitengleiche Hälften - daher
+sie den Körper vom Kopf zum Fuß in zwei seitengleiche Hälften — daher
 wird sie auch als Symmetrieebene bezeichnet.
 
+
+.. index::
+    single: cranialis, -e
+    single: kranial
+    single: caudalis, -e
+    single: kaudal
+    single: superior, -ius
+    single: superior
+    single: oben
+    single: inferior, -ius
+    single: inferior
+    single: unten
+    single: dorsalis, -e
+    single: dorsal
+    single: rückenwärts
+    single: ventralis, -e
+    single: ventral
+    single: bauchwärts
+    single: posterior, -ius
+    single: posterior
+    single: hinten
+    single: anterior, -ius
+    single: anterior
+    single: vorne
+    single: medialis, -e
+    single: medial
+    single: Medianebene; zur --- hin
+    single: lateralis, -e
+    single: lateral
+    single: medianus, -a, -um
+    single: median
+    single: Medianebene; in der ---
+    single: dexter
+    single: rechts
+    single: sinister
+    single: links
+    single: superficialis, -e
+    single: superfizial
+    single: oberflächlich
+    single: profundus, -a, -um
+    single: profund
+    single: tief
+    single: internus, -a, -um
+    single: intern
+    single: innere
+    single: externus, -a, -um
+    single: extern
+    single: äußere
+    single: centralis, -e
+    single: zentral
+    single: longitudinalis, -e
+    single: longitudinal
+    single: längs verlaufend
+    single: proximalis, -e
+    single: proximal
+    single: rumpfwärts
+    single: distalis, -e
+    single: distal
+    single: radialis, -e
+    single: radial
+    single: speichenwärts
+    single: ulnaris, -e
+    single: ulnar
+    single: ellenwärts
+    single: tibialis, -e
+    single: tibial
+    single: schienbeinwärts
+    single: fibularis, -e
+    single: fibular
+    single: wadenbeinwärts
+    single: palmaris, -e
+    single: palmar
+    single: handflächenwärts
+    single: dorsalis, -e
+    single: dorsal
+    single: handrückenwärts
+    single: plantaris, -e
+    single: plantar
+    single: fußsohlenwärts
+    single: dorsalis, -e
+    single: dorsal
+    single: fußrückenwärts
+    single: frontalis, -e
+    single: frontal
+    single: occipitalis, -e
+    single: okzipital
+    single: basalis, -e
+    single: basal
+    single: oralis, -e
+    single: oral
+    single: vestibularis, -e
+    single: vestibulär
+    single: labialis, -e
+    single: labial
+    single: buccalis, -e
+    single: bukkal
+    single: lingualis, -e
+    single: lingual
+    single: nasalis, -e
+    single: nasal
+    single: nasenwärts
+    single: temporalis, -e
+    single: temporal
+    single: palatinalis, -e
+    single: palatinal
+    single: pharyngealis, -e
+    single: pharyngeal
+    single: rostralis, -e
+    single: rostral
+    single: mesialis, -e
+    single: mesial
+    single: distalis, -e
+    single: distal
+    single: apicalis, -e
+    single: apikal
+    single: cervicalis, -e
+    single: zervikal
+    single: occlusalis, -e
+    single: okklusal
+    single: incisalis, -e
+    single: inzisal
+    single: approximalis, -e
+    single: Adduktion
+    single: Abduktion
+    single: Protrusion
+    single: Retrusion
+    single: Mediotrusion
+    single: Laterotrusion
+    single: Mediotrusion
+    single: Laterotrusion
+
 Richtungsbezeichnungen
-------------------------------------------------------------------------
+========================================================================
 
-Bezeichnungen am Rumpf:
+.. list-table:: Bezeichnungen am Rumpf
+    :header-rows: 1
+    :stub-columns: 1
+    :widths: 30 20 50
 
-lat. cranialis, e (dt. kranial) – schädelwärts
+    *   -   Terminus, latein
+        -   Deutsch
+        -   Bedeutung
+    *   -   cranialis, -e
+        -   kranial
+        -   schädelwärts
+    *   -   caudalis, -e
+        -   kaudal
+        -   schwanzwärts, steißwärts
+    *   -   superior, -ius
+        -   superior
+        -   oben, weiter oben
+    *   -   inferior, -ius
+        -   inferior
+        -   unten, weiter unten
+    *   -   dorsalis, -e
+        -   dorsal
+        -   rückenwärts
+    *   -   ventralis, -e
+        -   ventral
+        -   bauchwärts
+    *   -   posterior, -ius
+        -   posterior
+        -   hinten, weiter hinten
+    *   -   anterior, -ius
+        -   anterior
+        -   vorn, weiter vorn
+    *   -   medialis, -e
+        -   medial
+        -   zur Medianebene hin, zur Mitte hin
+    *   -   lateralis, -e
+        -   lateral
+        -   seitlich, von der Medianebene weg
+    *   -   medianus, -a, -um
+        -   median
+        -   in der Medianebene gelegen
+    *   -   dexter, dextra, dextrum
+        -   dexter
+        -   rechts
+    *   -   sinister, sinistra, sinistrum
+        -   sinister
+        -   links
+    *   -   superficialis, -e
+        -   superfizial
+        -   oberflächlich, oberflächlicher gelegen, der Haut näher
+    *   -   profundus, -a, -um
+        -   profund
+        -   tief, tiefer gelegen
+    *   -   internus, -a, -um
+        -   intern
+        -   innere
+    *   -   externus, -a, -um
+        -   extern
+        -   äußere
+    *   -   centralis, -e
+        -   zentral
+        -   zum Körperinneren hin
+    *   -   longitudinalis, -e
+        -   longitudinal
+        -   längs verlaufend
 
-lat. caudalis, e (dt. kaudal) – schwanzwärts, steißwärts
+.. list-table:: Bezeichnungen an den Gliedmaßen
+    :header-rows: 1
+    :stub-columns: 1
+    :widths: 30 20 50
 
-lat. superior, ius (dt. superior) – oben, weiter oben
+    *   -   Terminus, latein
+        -   Deutsch
+        -   Bedeutung
+    *   -   proximalis, -e
+        -   proximal
+        -   rumpfwärts, näher zum Rumpf hin gelegen
+    *   -   distalis, -e
+        -   distal
+        -   zum Extremitätenende hin, entfernter vom Rumpf
+    *   -   radialis, -e
+        -   radial
+        -   speichenwärts, zur Speichenseite, Daumenseite hin
+    *   -   ulnaris, -e
+        -   ulnar
+        -   ellenwärts, zur Ellenseite, Kleinfingerseite hin
+    *   -   tibialis, -e
+        -   tibial
+        -   schienbeinwärts, zur Schienbeinseite, Großzehenseite hin
+    *   -   fibularis, -e
+        -   fibular
+        -   wadenbeinwärts, zur Wadenbeinseite, Kleinzehenseite hin
+    *   -   palmaris, -e
+        -   palmar
+        -   handflächenwärts, zur Handfläche hin
+    *   -   dorsalis, -e
+        -   dorsal
+        -   handrückenwärts, zum Handrücken hin
+    *   -   plantaris, -e
+        -   plantar
+        -   fußsohlenwärts, zur Fußsohle hin
+    *   -   dorsalis, -e
+        -   dorsal
+        -   fußrückenwärts, zum Fußrücken hin
 
-lat. inferior, ius (dt. inferior) – unten, weiter unten
 
-lat. dorsalis, e (dt. dorsal) – rückenwärts
 
-lat. ventralis, e (dt. ventral) – bauchwärts
+.. list-table:: Bezeichnungen am Kopf
+    :header-rows: 1
+    :stub-columns: 1
+    :widths: 30 20 50
 
-lat. posterior, ius (dt. posterior) – hinten, weiter hinten
+    *   -   Terminus, latein
+        -   Deutsch
+        -   Bedeutung
+    *   -   frontalis, -e
+        -   frontal
+        -   stirnwärts, in Richtung der Stirn
+    *   -   occipitalis, -e
+        -   okzipital
+        -   hinterhauptwärts
+    *   -   basalis, -e
+        -   basal
+        -   schädelbasiswärts
+    *   -   oralis, -e
+        -   oral
+        -   mundwärts, zum Mund gehörig
+    *   -   vestibularis, -e
+        -   vestibulär
+        -   (mund)vorhofwärts, im Mundvorhof gelegen
+    *   -   labialis, -e
+        -   labial
+        -   lippenwärts
+    *   -   buccalis, -e
+        -   bukkal
+        -   wangenwärts
+    *   -   lingualis, -e
+        -   lingual
+        -   zungenwärts
+    *   -   nasalis, -e
+        -   nasal
+        -   nasenwärts
+    *   -   temporalis, -e
+        -   temporal
+        -   schläfenwärts
+    *   -   palatinalis, -e
+        -   palatinal
+        -   gaumenwärts, zum Gaumen gehörig
+    *   -   pharyngealis, -e
+        -   pharyngeal
+        -   rachenwärts, zum Rachen gehörig
+    *   -   rostralis, -e
+        -   rostral
+        -   mundwärts
 
-lat. anterior, ius (dt. anterior) – vorn, weiter vorn
 
-lat. medialis, e (dt. medial) – zur Medianebene hin, zur Mitte hin
+.. list-table:: Richtungsbezeichnungen an Gebiss und Zähnen
+    :header-rows: 1
+    :stub-columns: 1
+    :widths: 30 20 50
 
-lat. lateralis, e (dt. lateral) – seitlich, von der Medianebene weg
+    *   -   Terminus, latein
+        -   Deutsch
+        -   Bedeutung
+    *   -   mesialis, -e
+        -   mesial
+        -   der Medianebene (des Zahnbogens) zugekehrt
+    *   -   distalis, -e
+        -   distal
+        -   dem hinteren Ende des Zahnbogens zugekehrt
+    *   -   apicalis, -e
+        -   apikal
+        -   an der Wurzelspitze (Apex), zur Wurzelspitze hin
+    *   -   cervicalis, -e
+        -   zervikal
+        -   am Zahnhals, zum Zahnhals hin
+    *   -   occlusalis, -e
+        -   okklusal
+        -   an der Kaufläche, zur Kaufläche hin
+    *   -   incisalis, -e
+        -   inzisal
+        -   an der Kaukante, zur Kaukante hin
+    *   -   approximalis, -e
+        -   approximal
+        -   an der Kaufläche, zur Kaufläche hin (approximalwärts)
 
-lat. medianus, a, um (dt. median) – in der Medianebene gelegen
-
-lat. dexter, dextra, dextrum (dt. dexter) – rechts
-
-lat. sinister, sinistra, sinistrum (dt. sinister) – links
-
-lat. superficialis, e (dt. superfizial) – oberflächlich, oberflächlicher
-gelegen, der Haut näher
-
-lat. profundus, a, um (dt. profund) – tief, tiefer gelegen
-
-lat. internus, a, um (dt. intern) – innere
-
-lat. externus, a, um (dt. extern) – äußere
-
-lat. centralis, e (dt. zentral) – zum Körperinneren hin
-
-lat. longitudinalis, e (dt. longitudinal) – längs verlaufend
-
-Bezeichnungen an den Gliedmaßen:
-
-lat. proximalis, e (dt. proximal) – rumpfwärts, näher zum Rumpf hin
-gelegen
-
-lat. distalis, e (dt. distal) – zum Extremitätenende hin, entfernter vom
-Rumpf
-
-lat. radialis, e (dt. radial) – speichenwärts, zur Speichenseite,
-Daumenseite hin
-
-lat. ulnaris, e (dt. ulnar) – ellenwärts, zur Ellenseite,
-Kleinfingerseite hin
-
-lat. tibialis, e (dt. tibial) – schienbeinwärts, zur Schienbeinseite,
-Großzehenseite hin
-
-lat. fibularis, e (dt. fibular) – wadenbeinwärts, zur Wadenbeinseite,
-Kleinzehenseite hin
-
-lat. palmaris, e (dt. palmar) – handflächenwärts, zur Handfläche hin
-
-lat. dorsalis, e (dt. dorsal) – handrückenwärts, zum Handrücken hin
-
-lat. plantaris, e (dt. plantar) – fußsohlenwärts, zur Fußsohle hin
-
-lat. dorsalis, e (dt. dorsal) – fußrückenwärts, zum Fußrücken hin
-
-Bezeichnungen am Kopf:
-
-lat. frontalis, e (dt. frontal) – stirnwärts, in Richtung der Stirn
-
-lat. occipitalis, e (dt. okzipital) – hinterhauptwärts
-
-lat. basalis, e (dt. basal) – schädelbasiswärts
-
-lat. oralis, e (dt. oral) – mundwärts, zum Mund gehörig
-
-lat. vestibularis, e (dt. vestibulär) – (mund)vorhofwärts, im Mundvorhof
-gelegen
-
-lat. labialis, e (dt. labial) – lippenwärts
-
-lat. buccalis, e (dt. bukkal) – wangenwärts
-
-lat. lingualis, e (dt. lingual) – zungenwärts
-
-lat. nasalis, e (dt. nasal) – nasenwärts
-
-lat. temporalis, e (dt. temporal) – schläfenwärts
-
-lat. palatinalis, e (dt. palatinal) – gaumenwärts, zum Gaumen gehörig
-
-lat. pharyngealis, e (dt. pharyngeal) – rachenwärts, zum Rachen gehörig
-
-lat. rostralis, e (dt. rostral) – mundwärts
-
-Richtungsbezeichnungen an Gebiss und Zähnen:
-
-lat. mesialis, e (dt. mesial): der Medianebene (des Zahnbogens)
-zugekehrt
-
-lat. distalis, e (dt. distal): dem hinteren Ende des Zahnbogens
-zugekehrt
-
-lat. apicalis, e (dt. apikal): an der Wurzelspitze (Apex), zur
-Wurzelspitze hin
-
-lat. cervicalis, e (dt. zervikal): am Zahnhals, zum Zahnhals hin
-
-lat. occlusalis, e (dt. okklusal): an der Kaufläche, zur Kaufläche hin
-
-lat. incisalis, e (dt. inzisal): an der Kaukante, zur Kaukante hin
-
-lat. approximalis, e (dt. approximal): an der Kaufläche, zur Kaufläche
-hin (approximalwärts)
 
 Bewegungsbezeichnungen
-------------------------------------------------------------------------
+========================================================================
 
-Am Beispiel der Gelenke der Extremitäten:
+.. list-table:: Bewegungsbezeichnungen am Beispiel der Gelenke der Extremitäten
+    :stub-columns: 1
 
-Flexion – Beugung des Rumpfes oder der Extremitäten (um die transversale
-Achse).
-
-Extension – Streckung des Rumpfes oder der Extremitäten (um die
-transversale Achse).
-
-Adduktion – Heranführen der Extremitäten an den Körper.
-
-Abduktion – Wegführen der Extremitäten vom Körper bis zu 90°. Bei den
-Extremitäten erfolgt diese Bewegung um die sagittale Achse.
-
-Elevation - Fortführen der Abduktion über 90°.
-
-Außenrotation – Außendrehung der Extremitäten um ihre Längsachse.
-
-Innenrotation – Innendrehung der Extremitäten um ihre Längsachse.
-
-Supination – Umwendbewegung der Hand bzw. des Fußes, wobei die Hohlhand
-nach oben gerichtet bzw. der mediale Fußrand gehoben wird.
-
-Pronation – Umwendbewegung der Hand bzw. des Fußes, wobei die Hohlhand
-nach unten gerichtet bzw. der mediale Fußrand nach unten gesenkt wird.
-
-Zirkumduktion – Umführbewegung der Extremitäten.
+    *   -   Flexion
+        -   Beugung des Rumpfes oder der Extremitäten
+            (um die transversale Achse)
+    *   -   Extension
+        -   Streckung des Rumpfes oder der Extremitäten
+            (um die transversale Achse).
+    *   -   Adduktion
+        -   Heranführen der Extremitäten an den Körper.
+    *   -   Abduktion
+        -   Wegführen der Extremitäten vom Körper bis zu 90°.
+            Bei den Extremitäten erfolgt diese Bewegung um die sagittale Achse.
+    *   -   Elevation
+        -   Fortführen der Abduktion über 90°.
+    *   -   Außenrotation
+        -   Außendrehung der Extremitäten um ihre Längsachse.
+    *   -   Innenrotation
+        -   Innendrehung der Extremitäten um ihre Längsachse.
+    *   -   Supination
+        -   Umwendbewegung der Hand bzw. des Fußes,
+            wobei die Hohlhand nach oben gerichtet bzw. der mediale Fußrand gehoben wird.
+    *   -   Pronation
+        -   Umwendbewegung der Hand bzw. des Fußes,
+            wobei die Hohlhand nach unten gerichtet bzw. der mediale Fußrand nach unten gesenkt wird.
+    *   -   Zirkumduktion
+        -   Umführbewegung der Extremitäten.
 
 Diese Bewegungen können auch auf Bewegungen des Rumpfes bzw. des
-Kopf-Hals-Bereiches übertragen werden. Hierauf wird im Kapitel 2
-„Bewegungsapparat“ gesondert eingegangen.
+Kopf-Hals-Bereiches übertragen werden.
+Hierauf wird unter :ref:`Bewegungsapparat` gesondert eingegangen.
 
-Kiefergelenk:
 
-Adduktion – Heranführen des Unterkiefers an den Oberkiefer
 
-Abduktion – Wegführen des Unterkiefers vom Oberkiefer. Beide Bewegungen
-erfolgen um eine transversale Achse.
+.. list-table:: Bewegungsbezeichnungen am Kiefergelenk
+    :stub-columns: 1
 
-Protrusion – gleichmäßige Bewegung beider Gelenkkondylen nach ventral.
-Beide Bewegungen erfolgen entlang einer sagittalen Achse.
+    *   -   Adduktion
+        -   Heranführen des Unterkiefers an den Oberkiefer
+    *   -   Abduktion
+        -   Wegführen des Unterkiefers vom Oberkiefer.
+            Beide Bewegungen erfolgen um eine transversale Achse.
+    *   -   Protrusion
+        -   gleichmäßige Bewegung beider Gelenkkondylen nach ventral.
+            Beide Bewegungen erfolgen entlang einer sagittalen Achse.
+    *   -   Retrusion
+        -   gleichmäßige Bewegung beider Gelenkkondylen nach dorsal.
+            Beide Bewegungen erfolgen entlang einer sagittalen Achse.
+    *   -   Mediotrusion
+        -   Bewegung des Unterkieferkondylus zur Mitte
+            (Balance-, Mediotrusionsseite)
+    *   -   Laterotrusion
+        -   Bewegung des Unterkieferkondylus nach außen
+            (Arbeits-, Laterotrusionsseite).
+    *   -   Mediotrusion und Laterotrusion
+        -   erfolgen um eine vertikale (longitudinale) Achse.
 
-Retrusion – gleichmäßige Bewegung beider Gelenkkondylen nach dorsal.
-Beide Bewegungen erfolgen entlang einer sagittalen Achse.
 
-Mediotrusion – Bewegung des Unterkieferkondylus zur Mitte (Balance-,
-Mediotrusionsseite)
-
-Laterotrusion – Bewegung des Unterkieferkondylus nach außen (Arbeits-,
-Laterotrusionsseite).
-
-Mediotrusion und Laterotrusion erfolgen um eine vertikale
-(longitudinale) Achse.
 
 
 
 .. index::
     single: Zelle
 
+.. _Zelle:
+
 Zelle
-=====
+************************************************************************
 
 Die Lebewesen können grob in Einzeller (Protozoen) und Mehrzeller
 (Metazoen) eingeteilt werden.
 
 Die Zelle ist der *Grundbaustein des menschlichen Körpers*, er besteht
-aus ca. 75x10\ :sup:`12` (= 75 Billionen) Zellen. Eine Zelle ist
-zwischen 5 und 150 µm (z.B. Eizelle des Menschen - sie ist mit bloßem
-Auge sichtbar) groß. Zum Vergleich - die Eizelle eines Straußes misst 7
-cm im Durchmesser. Jede Zelle hat je nach ihrer Funktion auch
+aus ca. 75×10¹² (= 75 Billionen) Zellen. Eine Zelle ist
+zwischen 5 und 150 µm (z. B. Eizelle des Menschen — sie ist mit bloßem
+Auge sichtbar) groß. Zum Vergleich — die Eizelle eines Straußes misst 7 cm im Durchmesser. Jede Zelle hat je nach ihrer Funktion auch
 unterschiedliche Formen und eine unterschiedliche Lebensdauer.
 
 
@@ -276,20 +487,20 @@ Grundkriterien*:
     die Zellen unterschiedliche Reize und können sie beantworten.
 
 Darüberhinaus unterscheiden sich die unterschiedlichen Zellen aufgrund
-ihrer spezifischen Eigenschaften, wie z.B. ihrer Bewegung, ihrer
+ihrer spezifischen Eigenschaften, wie z. B. ihrer Bewegung, ihrer
 spezifischen Stoffaufnahme / -abgabe und der Oberflächendifferenzierung.
 
 Bestandteile der Zelle:
 
--   *Wasser*: Die Zelle besteht zu 70-85% aus Wasser.
+-   *Wasser*: Die Zelle besteht zu 70—85% aus Wasser.
 -   *Ionen*: = elektrisch geladene Moleküle. Sie sind in der Zelle meist
     Salze, die im Zellwasser aufgelöst sind. Diese Moleküle können
     aufgrund ihrer Ladung entlang elektrischer Felder wandern. Sie sorgen
-    dafür, dass die Zelle eine positive elektrische Ladung hat, was z.B.
+    dafür, dass die Zelle eine positive elektrische Ladung hat, was z. B.
     für die Erregungsübertragung von Nerven und Muskeln von großer
     Bedeutung ist. Der Extrazellulärraum ist demgegenüber negativ
     geladen.
--   *Proteine*: Sie machen 10-20% der Zellmasse aus. Man kann hier
+-   *Proteine*: Sie machen 10—20% der Zellmasse aus. Man kann hier
     zwischen Strukturproteinen (faserförmig, verantwortlich für die
     Zellform) und globuläre Proteine (kugelig, für enzymatische Prozesse)
     unterscheiden.
@@ -301,17 +512,17 @@ Bestandteile der Zelle:
     Gesamtzellmasse. Die Speicherform der Kohlenhydrate heißt Glykogen.
 
 Allgemeiner Aufbau der Zelle
-----------------------------
+========================================================================
 
 Die Zelle besteht aus *einem Zellkern (Nucleus), dem Zellleib
 (Zytoplasma) sowie der Zellmembran (Plasmalemm)*. Das Zytoplasma setzt
 sich dann weiters zusammen aus dem Zytosol (Salzlösung = gelöste Ionen
 mit Proteinen), den Zellorganellen und Zelleinschlüssen (Paraplasma).
 
-Der Zellkern ist - Erythrozyten (rote Blutkörperchen) und Thrombozyten
-(Blutplättchen) ausgenommen - in jeder Zelle vorhanden. Einige Zellen
-(Leberzellen / Hepatozyten - 2, knochenabbauende Zellen / Osteoklasten -
-5-20, Skelettmuskelzellen / Myozyten - >1000) besitzen sogar mehrere.
+Der Zellkern ist — Erythrozyten (rote Blutkörperchen) und Thrombozyten
+(Blutplättchen) ausgenommen — in jeder Zelle vorhanden. Einige Zellen
+(Leberzellen / Hepatozyten — 2, knochenabbauende Zellen / Osteoklasten -
+5—20, Skelettmuskelzellen / Myozyten — >1000) besitzen sogar mehrere.
 
 Der Zellkern enthält die genetische Erbinformation (DNA =
 Desoxyribonukleidsäure) der Zelle, aufgeteilt in *23 Chromosomenpaare*
@@ -328,8 +539,8 @@ Die DNA dient als Speicher des genetischen Codes, als Bauplan der
 Proteinsynthese und der identischen Replikation während der Zellteilung.
 
 Die DNA misst insgesamt über 2 m in ihrer Länge und beinhaltet zwischen
-30.000 und 40.000 Gene, wobei über 97% sogenannter „Junk“ - nicht
-kodierende-DNA - sind. Die DNA ist in einer *Doppelhelix (=
+30.000 und 40.000 Gene, wobei über 97% sogenannter „Junk“ — nicht
+kodierende-DNA — sind. Die DNA ist in einer *Doppelhelix (=
 Doppelwindung)* angeordnet. Innerhalb der DNA kann man zwei verschiedene
 Formen unterscheiden. Das *Euchromatin* bezeichnet einen DNA-Bereich,
 der aufgelockert ist und genetisch aktiv ist (= Nukleolus-Bereich). Das
@@ -364,7 +575,7 @@ bestehen aus jeweils 8 Histionmolekülen (Oktramer).
 
 Jeweils 3 Basen werden als *Triplett (= Codon)* bezeichnet und
 definieren eine der insg. 20 von der menschlichen Zelle zur Bildung von
-Proteinen verwendeten Aminosäuren. Es gibt daher insg. 4\ :sup:`3` = 64
+Proteinen verwendeten Aminosäuren. Es gibt daher insg. 4³ = 64
 Kombinationsmöglichkeiten der Basen. 61 dieser Kombinationen bilden
 Anweisungen zur Bildung von Proteinen, 3 der Kombinationen zeigen den
 Beginn bzw. das Ende eines Gens (bzw. eines Proteins) an.
@@ -373,7 +584,7 @@ Zur Bildung von Proteinen muss die DNA zunächst kopiert werden und diese
 Kopie aus dem Zellkern transportiert werden. Diese Kopie ist einsträngig
 und wird aufgrund des anderen Zuckermoleküls (Ribose) als
 Riboxynukleidsäure (RNA) bezeichnet. Zusätzlich besitzt die RNA auch
-noch eine andere Base - Uracil ersetzt das Thymin der DNA. Die RNA wird
+noch eine andere Base — Uracil ersetzt das Thymin der DNA. Die RNA wird
 dann mithilfe der Ribosomen übersetzt.
 
 Folgende Begriffe sind bzgl. der Aminosäuren wichtig:
@@ -403,23 +614,45 @@ Ladungen.
     im Interstitium (Zwischenzellraum) und 1/4 im Gefäßsystem befinden.
 -   *Intrazelluläre Flüssigkeit*: innerhalb der Grenze der Zellmembran.
 
-======================= ========= ====
-Na\ :sup:`+`            8 - 30    145
-K\ :sup:`+`             100 - 155 4.4
-Ca⁺⁺           < 0.0001  1.25
-Mg⁺⁺           0.8       0.7
-Cl\ :sup:`-`            4 - 30    117
-HCO₃⁻8 - 15    27
-große Anionen           100 - 150 -
-======================= ========= ====
+
+.. list-table::
+    :header-rows: 1
+    :stub-columns: 1
+
+    *   -   Elektrolyt
+        -   | IZR
+            | [mosm / L]
+        -   | EZR
+            | [mosm / L]
+    *   -   Na⁺
+        -   8—30
+        -   **145**
+    *   -   K⁺
+        -   **100—155**
+        -   4.4
+    *   -   Ca⁺⁺
+        -   < 0.0001
+        -   **1.25**
+    *   -   Mg⁺⁺
+        -   0.8
+        -   0.7
+    *   -   Cl⁻
+        -   4—30
+        -   **117**
+    *   -   HCO₃⁻
+        -   8—15
+        -   27
+    *   -   große Anionen
+        -   100—150
+        -   ---
 
 Das *Ruhemembranpotential* beschreibt den Ladungsunterschied aufgrund
 der unterschiedlichen Elektrolytkonzentration in Intra- (negativ) und
-Extrazellularraum (positiv). Der Ladungsunterschied beträgt 60-80mV. Da
+Extrazellularraum (positiv). Der Ladungsunterschied beträgt 60—80 mV. Da
 die Zellmembran für Ionen undurchlässig ist, braucht es aktive
 Transportprozesse zur Aufrechterhaltung bzw. Änderung der Zellladung.
 Der wichtigste Mechanismus ist die
-*Na*\ :sup:`+`\ *K*\ :sup:`+`\ *-ATPase*. Das Ruhemembranpotential ist
+*Na⁺K⁺-ATPase*. Das Ruhemembranpotential ist
 wichtig für die Entstehung bzw. Fortleitung von Erregungen in
 Muskelzellen bzw. Nervenzellen. Durch die Veränderung des
 Membranpotential entsteht dann das sog. Aktionspotential, welches die
@@ -429,11 +662,11 @@ der Nervenzelle zur Folge hat.
 Sie besteht aus *Phospholipiden und Cholesterin* und bildet ein
 *dreischichtiges Gebilde*. Die äußerste Schicht ist hydrophil, die
 mittlere lipophil und die innerste wiederum hydrophil. Die Zellmembran
-ist auch nicht als ein starres Gebilde zu verstehen - sie ermöglicht
+ist auch nicht als ein starres Gebilde zu verstehen — sie ermöglicht
 Formänderungen der Zelle für die Migration (Zellwanderung), die Mitose
 (Zellteilung) und die Kontraktion (Zellverkürzung).
 
-In der Zellmembran sind verschiedene Proteine eingebaut, die z.B. als
+In der Zellmembran sind verschiedene Proteine eingebaut, die z. B. als
 Kanäle (Kanalproteine), Rezeptoren (Transmembranproteine) oder als
 Trägermoleküle (Carrier) funktionieren. Die Rezeptoren können intra- und
 extrazellulär lokalisiert sein, sie aktivieren bei Andocken des
@@ -455,7 +688,7 @@ aus drei Hauptkomponenten:
 -   *Mikrotubuli*: am Zentrosom befestigt, spielen bei der Mitose eine
     wichtige Rolle bei der Ausbildung der mitotischen Spindel. Sie sind
     auch verantwortlich bei der Ausbildung von Zilien (Zellfortsätze,
-    z.B. Flimmerhärchen).
+    z. B. Flimmerhärchen).
 -   *Intermediärfilamente*: bilden an der Innenseite der Kernhülle die
     Kernlamina als schützenden Käfig der DNA.
 
@@ -476,7 +709,7 @@ Die *Zellorganellen* sind verantwortlich für die Ausübung der
 Stoffwechselfunktionen:
 
 -   *endoplasmatisches Retikulum (ER*): verantwortlich für den
-    intrazellulären Stofftransport, es gibt zwei Arten - das rauhe ER
+    intrazellulären Stofftransport, es gibt zwei Arten — das rauhe ER
     (mit Ribosomen, dient der Proteinproduktion) und das glatte ER (ohne
     Ribosomen, dient der Fett- und Hormonproduktion), ist röhren- bzw.
     bläschenförmig, dient der Kompartimentierung, dient auch als
@@ -500,11 +733,11 @@ Stoffwechselfunktionen:
     die jedoch nur mütterlicherseits vererbt wird.
 
 Zellteilung
------------
+========================================================================
 
-Es gibt zwei Formen der Zellteilung - die Mitose und die Meiose.
+Es gibt zwei Formen der Zellteilung — die *Mitose* und die *Meiose*.
 
--   *Mitose (Zellteilung)*: Hier entstehen nach Verdopplung der DNA aus
+-   **Mitose** (Zellteilung): Hier entstehen nach Verdopplung der DNA aus
     einer Mutterzelle zwei Tochterzellen mit vollständigem
     Chromosomensatz. Zwischen der DNA-Verdopplung und dem Beginn der
     Mitose findet eine DNA-Reparatur (Proofreading und Repair) statt.
@@ -514,10 +747,10 @@ Es gibt zwei Formen der Zellteilung - die Mitose und die Meiose.
     welcher wie bereits erwähnt die DNA-Verdopplung stattfindet. Folgende
     Zellen teilen sich nicht mehr: Nervenzellen, Herzmuskelzellen und
     Skelettmuskelzellen. Zusätzlich muss man hier auch die Erythrozyten
-    (roten Blutkörperchen) und Thrombozyten (Blutplättchen) erwähnen - da
+    (roten Blutkörperchen) und Thrombozyten (Blutplättchen) erwähnen — da
     sie ja keinen Zellkern besitzen, können sie sich ebenfalls nicht mehr
     teilen.
--   *Meiose (Reifeteilung, Reduktionsteilung)*: Nach zwei aufeinander
+-   **Meiose** (Reifeteilung, Reduktionsteilung): Nach zwei aufeinander
     folgenden Zellteilungen, wobei nur während der ersten die DNA wie bei
     der Mitose verdoppelt wird, entstehen aus einer Mutterzelle vier
     Tochterzellen mit halbem Chromosomensatz. Zwischen den beiden
@@ -525,20 +758,26 @@ Es gibt zwei Formen der Zellteilung - die Mitose und die Meiose.
     der Mitose) statt, eine Phase in der die DNA NICHT verdoppelt wird.
     Diese Teilungsart findet nur bei männlichen und weiblichen
     Geschlechtszellen (= Keimzellen) statt, damit nach der Befruchtung -
-    d. h. der Verschmelzung von Ei- und Samenzelle - nur Zellen mit
+    d. h. der Verschmelzung von Ei- und Samenzelle — nur Zellen mit
     normalem Chromosomensatz (23 Paare) entstehen. Ziel der Meiose ist
     die Durchmischung (Cross-Over) der genetischen Erbinformation.
 
+
+
 Zelluntergang
--------------
+========================================================================
 
 Es gibt zwei Möglichkeiten, wie Zellen zugrunde gehen können:
 
--   *Apoptose*: programmierter Zelltod
--   *Nekrose*: Tod der Zelle bei Zellschädigung mit Entzündung als Folge
+-   **Apoptose**: programmierter Zelltod
+-   **Nekrose**: Tod der Zelle bei Zellschädigung mit Entzündung als Folge
+
+
+
+.. _Diffusion:
 
 Stofftransport
---------------
+========================================================================
 
 Um Nährstoffe und Stoffwechselprodukte in die Zelle hinein und wieder
 heraus zu transportieren gibt es spezifische Transportprozesse.
@@ -564,8 +803,8 @@ heraus zu transportieren gibt es spezifische Transportprozesse.
     -   *aktiver Transport:* Transport-ATPase, kann gegen
         Konzentrationsgradienten transportieren.
 
-        -   Symport - Transport in die gleiche Richtung.
-        -   Antiport - Transport in entgegengesetzte Richtung.
+        -   Symport — Transport in die gleiche Richtung.
+        -   Antiport — Transport in entgegengesetzte Richtung.
 
     -   *Endo- und Exozytose*:
         Transport über Vesikel in die Zelle hinein
@@ -573,8 +812,10 @@ heraus zu transportieren gibt es spezifische Transportprozesse.
         Phagozytose = große Patrikel über Vesikel) und aus der Zelle
         heraus (Exozytose).
 
+
+
 Gewebe
-======
+************************************************************************
 
 Gewebe sind Verbände gleichartig differenzierter Zellen. Mehrere
 verschiedene Gewebearten bilden Organe.
@@ -583,13 +824,13 @@ Es gibt vier verschiedene Gewebearten: Epithelgewebe, Binde- und
 Stützgewebe, Muskelgewebe und Nervengewebe.
 
 Epithelgewebe
--------------
+========================================================================
 
 Zu dieser Gruppe gehören oberflächenbildende Epithelien,
 Drüsenepithelien und Sinnesepithelien. Ihnen gemeinsam ist die
 *Basalmembran („Glashaut“)*, auf dem die Epithelien aufsitzen und welche
 ihnen mechanischen Halt gibt. Die unterschiedlichen Zellen des
-Epithelgewebes sind unterschiedlich fest miteinander verbunden - mit
+Epithelgewebes sind unterschiedlich fest miteinander verbunden — mit
 zunehmender Durchlässigkeit gibt es *tight junctions, gap junctions,
 Desmosome*.
 
@@ -601,11 +842,11 @@ Desmosome*.
     Körpers und dem Stoffaustausch durch Resorption und Sekretion. Sie
     reagieren auch auf Reize. Die Oberflächenepithelien können eigene
     Oberflächendifferenzierungen (Flimmerepithel = Zilien) zeigen. Eine
-    spezielle Kategorie ist das Übergangsepithel der Harnwege - es kann
+    spezielle Kategorie ist das Übergangsepithel der Harnwege — es kann
     sich spezifisch an verschiedene mechanische Spannungszustände der
     Epithelien anpassen.
 -   *Drüsenepithelien*: Drüsenzellen können einzeln innerhalb des
-    Oberflächenepithels oder in Form von Drüsen (z.B. Schweißdrüsen,
+    Oberflächenepithels oder in Form von Drüsen (z. B. Schweißdrüsen,
     Speicheldrüsen, Hormondrüsen) vorkommen. Sie sind entweder endokrin
     (Abgabe des Stoffes an das Blut) oder exokrin (Abgabe des Stoffes
     über einen eigenen Ausführungsgang). Die Drüsenzellen können zudem
@@ -614,14 +855,14 @@ Desmosome*.
     (apokrin) sowie unter Zerfall der kompletten Zelle (holokrin)
     abgeben.
 -   *Sinnesepithelien*: dienen der Reizaufnahme, die Reize werden in
-    elektrische Signale zur Weiterleitung über Nerven umgewandelt. z.B.
+    elektrische Signale zur Weiterleitung über Nerven umgewandelt. z. B.
     Zellen der Netzhaut, Sinneszellen der Haut
 
 Binde- und Stützgewebe
-----------------------
+========================================================================
 
 Bindegewebe
-~~~~~~~~~~~
+------------------------------------------------------------------------
 
 Besteht aus *Bindegewebszellen und Zwischenzellsubstanz*. Es dient als
 wortwörtlicher “Lückenfüller”, als Binde-Gewebe zwischen anderen
@@ -630,7 +871,7 @@ Wasserspeicherung sowie zur Abwehr und Wundheilung.
 
 -   *Bindegewebszellen*: fixe Bindegewebszellen (Mesenchymzellen,
     Retikulumzellen, Pigmentzellen, Fettzellen) und freie
-    Bindegewebszellen (Leukozyten - Histiozyten, Mastzellen, Lymphozyten,
+    Bindegewebszellen (Leukozyten — Histiozyten, Mastzellen, Lymphozyten,
     Plasmazellen, Monozyten, Granulozyten).
 -   *Interzellsubstanz* (interstitielle Flüssigkeit, Proteoglykane,
     Glykosaminoglykane, Glykoproteine), *Extrazellularmatrix und
@@ -643,38 +884,54 @@ Es gibt folgende Formen des Bindegewebe:
     Mesenchym zeigt eine schleimig-gallertartige Grundsubstanz.
 -   *straffes faserreiches Bindegwebe*: kann zwei unterschiedliche
     Konsistenzen haben:
--   geflechtartig z.B. Kapseln, Faszien, Sklera des Auges, harte
+-   geflechtartig z. B. Kapseln, Faszien, Sklera des Auges, harte
     Gehirnhaut (Dura mater).
--   parallelfaserig z.B. Sehnen, Aponeurosen.
+-   parallelfaserig z. B. Sehnen, Aponeurosen.
 -   *lockeres faserarmes Bindegewebe*: Stroma, dient als Wasserspeicher
     und Verschiebeschicht.
--   *retikuläres Bindegewebe*: bildet z.B. das Grundgerüst von
+-   *retikuläres Bindegewebe*: bildet z. B. das Grundgerüst von
     lymphatischen Organen.
 -   *Fettgewebe*: Speicherfett vs. Baufett, weißes vs. braunes (reich an
     Mitochondrien) Fettgewebe.
 
 Stützgewebe
-~~~~~~~~~~~
+------------------------------------------------------------------------
 
 Besteht aus Knorpel- und Knochengewebe, dem Chordagewebe und dem
 Zahngewebe.
 
+
+.. index::
+    single: Knorpel
+    single: hyalin
+    single: Diffusion; Knorpel
+
+.. _Knorpel:
+
 Knorpelgewebe
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Die Grundsubstanz des Knorpels besteht aus Proteoglykanen und
 Glykoproteinen. Das Knorpelgewebe ist frei von Blutgefäßen, die
-Nährstoffversorgung erfolgt über *Diffusion* aus dem Perichondrium oder
+Nährstoffversorgung erfolgt über :ref:`Diffusion <Diffusion>` aus dem Perichondrium oder
 von der Synovia (Gelenksflüssigkeit). Knorpelgewebe zeichnet sich durch
 eine *hohe Druckfestigkeit, Verformbarkeit und Widerstandsfähigkeit*
 gegen Scherkräfte aus.
 
-Innerhalb des Knorpelgewebes kann man hyalinen (z.B. Gelenksknorpel),
-elastischen (z.B. Ohrmuschel) und Faserknorpel (z.B. Bandscheibe,
+Innerhalb des Knorpelgewebes kann man **hyalinen** (z. B. Gelenksknorpel),
+**elastischen** (z. B. Ohrmuschel) und **Faserknorpel** (z. B. Bandscheibe,
 Schambeinfuge) unterscheiden. Der Gelenkknorpel und der Faserknorpel
-sind die einzigen dieser Gruppe ohne Perichondrium (Knorpelhaut) - sie
+sind die einzigen dieser Gruppe ohne Perichondrium (Knorpelhaut) — sie
 können sich daher nicht bzw. nur schwer regenerieren!
 
+
+.. index::
+    single: Knochen
+
+.. _Knochen:
+
 Knochengewebe
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Das Knochengewebe bildet als Baumaterial der Knochen das Skelett und ist
 somit für die Stabilität des Körpers verantwortlich. Der menschliche
@@ -686,9 +943,9 @@ Das Knochengewebe wird gebildet aus:
 -   Extrazellularmatrix
 -   Kollagenmatrix
 
-Grundsubstanz mit anorganischen Salzen (= *Kalk*!): 20-25% Wasser,
-25-30% organische Substanz (kollagene Fasern, wichtig für die
-Elastizität des Knochens), 50% anogranische Substanz (Salze, z.B.
+Grundsubstanz mit anorganischen Salzen (= *Kalk*!): 20—25% Wasser,
+25—30% organische Substanz (kollagene Fasern, wichtig für die
+Elastizität des Knochens), 50% anogranische Substanz (Salze, z. B.
 Calciumphosphat, Magnesiumphosphat, Calciumcarbonat, wichtig für
 Festigkeit des Knochens). Über eine Vermehrung des Anteils der
 anorganischen Substanz auf ca. 70% im Alter lässt sich die niedrigere
@@ -722,11 +979,11 @@ Man kann einen mehrschichtigen Aufbau erkennen (von außen nach innen):
     kann rotes (blutbildendes) und gelbes (fettreiches) Knochenmark
     unterscheiden. Im Laufe des Lebens wird das rote Knochenmark immer
     mehr in gelbes Knochenmark umgewandelt, bis es nur mehr an einigen
-    wenigen Orten (z.B. Beckenschaufeln) vorhanden ist.
+    wenigen Orten (z. B. Beckenschaufeln) vorhanden ist.
 
 Das Knochengewebe kann über *desmale / direkte Ossifikation* (über
-Bindegewebe, z.B. Schädelknochen, Schlüsselbein) oder über *chondrale /
-indirekte Ossifikation* (über Knorpel, z.B. Röhrenknochen) entstehen.
+Bindegewebe, z. B. Schädelknochen, Schlüsselbein) oder über *chondrale /
+indirekte Ossifikation* (über Knorpel, z. B. Röhrenknochen) entstehen.
 
 -   *Desmale Ossifikation*: Mesenchym ➛ Knochen (Spongiosa) = Compacta
 -   *Chondrale Ossifikation*: Mesenchym ➛ Knorpel ➛ Knochen (Spongiosa) =
@@ -735,13 +992,13 @@ indirekte Ossifikation* (über Knorpel, z.B. Röhrenknochen) entstehen.
 Vereinfacht kann man nach ihrem Aussehen unterschiedliche Knochenformen
 unterscheiden:
 
--   *Röhrenknochen* (Ossa longa, z.B. Oberarmknochen)
--   *platte Knochen* (Ossa plana, z.B. Beckenknochen)
--   *kurze Knochen* (Ossa brevia, z.B. Handwurzelknochen)
--   *unregelmäßige Knochen* (Ossa irregularia, z.B. Wirbel)
--   *beflüftete Knochen* (Ossa pneumatica, z.B. Gesichtsknochen mit
+-   *Röhrenknochen* (Ossa longa, z. B. Oberarmknochen)
+-   *platte Knochen* (Ossa plana, z. B. Beckenknochen)
+-   *kurze Knochen* (Ossa brevia, z. B. Handwurzelknochen)
+-   *unregelmäßige Knochen* (Ossa irregularia, z. B. Wirbel)
+-   *beflüftete Knochen* (Ossa pneumatica, z. B. Gesichtsknochen mit
     Nebenhöhlen)
--   *Sesambeine* (Ossa sesamoidea, z.B. Kniescheiben)
+-   *Sesambeine* (Ossa sesamoidea, z. B. Kniescheiben)
 
 Das klassische Beispiel eines Knochens ist immer der Röhrenknochen. An
 ihm kann man zwei *Epiphysen* (Knochenenden), zwei *Metaphysen*
@@ -754,16 +1011,18 @@ die sich aus einem eigenen Knochenkern entwickeln.
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Knochenbau.*
-    :width: 50%
+    :width: 20%
 
     Ein langer Röhrenknochen im Querschnitt
 
     ₢ Lena Hirtler :term:`ℓ MfG`
 
 
+.. index::
+    single: Muskel
 
 Muskelgewebe
-------------
+========================================================================
 
 Muskelzellen (Länge bis 20 cm) haben die Fähigkeit sich zu kontrahieren
 (zusammenziehen). Sie zeigen einen spezifischen Aufbau und enthalten
@@ -773,7 +1032,7 @@ Muskelzellen haben auch eine Funktion im Wärmehaushalt durch das
 unterscheiden:
 
 -   *quergestreifte Muskel*: bilden den Skelettmuskel und stellen ca.
-    40-50% des Gesamtkörpergewichts. Durch regelmäßige Anordnung der
+    40—50% des Gesamtkörpergewichts. Durch regelmäßige Anordnung der
     Myofibrillen zeigt sich im Mikroskop eine Querstreifung der
     Muskelfasern. Eigenschaften: trainierbar, willkürlich kontrahierbar,
     ermüdbar.
@@ -791,7 +1050,10 @@ unterscheiden:
     Glanzstreifen (Disci intercalares), über die die elektrische Erregung
     weitergeleitet wird.
 
+
+
 Skelettmuskel
+------------------------------------------------------------------------
 
 Am Beispiel des Skelettmuskels soll der Aufbau eines Muskels kurz
 durchbesprochen werden.
@@ -799,8 +1061,8 @@ durchbesprochen werden.
 Ein Muskel besteht aus zahlreichen *Muskelfaserbündeln (Faszikeln)*, die
 Muskelfasern enthalten. Diese sind bereits die Skelettmuskelzellen und
 beim Skelettmuskel vielkernig und nicht mehr teilungsfähig (im Gegensatz
-zu einer Herzmuskelzelle - einkernig!). Innerhalb dieser Zelle findet
-man die wichtige Organisationsstruktur des Muskels - die Myofibrillen.
+zu einer Herzmuskelzelle — einkernig!). Innerhalb dieser Zelle findet
+man die wichtige Organisationsstruktur des Muskels — die Myofibrillen.
 Sie werden durch Z-Scheiben in *Sarkomere (=kontraktiler Apparat)*
 unterteilt.
 
@@ -822,7 +1084,7 @@ der Verschieblichkeit des Muskels. Das *Perimysium* bildet Septen und
 unterteilt den Muskel in seine einzelnen Faserbündel, das *Endomysium*
 umhüllt schlussendlich die einzelnen Muskelfasern.
 
-Der Skelettmuskel zeigt *Muskelspindeln (40-500 Stk.)*, das sind
+Der Skelettmuskel zeigt *Muskelspindeln (40—500 Stk.)*, das sind
 Rezeptororgane, die die Längenveränderungen des Muskels registrieren.
 Zusätzlich gibt es *Sehnenrezeptoren* (Golgi-Sehnenorgane) am Übergang
 des Muskels zu seiner Sehne. Die dauerhafte Grundaktivität eines Muskels
@@ -836,7 +1098,7 @@ Es werden zwei verschiedene Muskelarten unterschieden:
     reagiert auf verminderte Beanspruchung durch Verkürzung.
 
 Nervengewebe
-------------
+========================================================================
 
 Besteht aus *Neuronen* (Nervenzellen) und *Neuroglia* (eigenes
 Nerven-Bindegewebe).
@@ -846,7 +1108,7 @@ kann einen bis mehrere *Dendriten* (unipolar, bipolar, pseuounipolar,
 multipolar), ein *Axon* (Neurit) und den *Zellkörper* unterscheiden. Die
 Dendriten erhalten von vorgeschalteten Neuronen Nervenimpulse, über das
 Axon werden diese dann weitergeleitet. Über *Markscheiden*
-(Myelinscheiden, Ranvier-Schnürringe - gebildet durch Schwannzellen =
+(Myelinscheiden, Ranvier-Schnürringe — gebildet durch Schwannzellen =
 zentral bzw. Oligodendrozyten = peripher) kann die Übertragung
 beschleunigt werden (= saltatorische Reizleitung).
 
@@ -904,7 +1166,7 @@ umhüllt und bilden gemeinsam mit anderen Nervenfaszikeln den Nerv,
 welcher in seiner Gesamtheit von Epineurium umgeben ist.
 
 Organsysteme und seröse Höhlen
-==============================
+************************************************************************
 
 Wie bereits am Beginn der Gewebelehre erwähnt, setzten sich aus den
 einzelnen Geweben die Organe zusammen. Organe mit der gleichen Aufgabe
@@ -920,7 +1182,7 @@ folgend gegliedert werden:
 -   männliches Genitalsystem
 -   weibliches Genitalsystem
 
-Einige Organe (z.B. Herz, Lunge, Magen-Dram-Trakt) besitzen zur besseren
+Einige Organe (z. B. Herz, Lunge, Magen-Dram-Trakt) besitzen zur besseren
 Beweglichkeit einen Überzug einer eigenen bindegewebigen Schicht, einer
 sogenannten *serösen Haut*.
 
@@ -935,16 +1197,16 @@ mit einem Flüssigkeitsfilm gefüllt.
 Somit ergeben sich innerhalb des menschlichen Körpers folgende *seröse
 Höhlen*:
 
--   Pleurahöhle (Cavitas pleuralis, beherbergt die Lungen)
--   Perikardhöhle (Cavitas pericardiaca, beinhaltet das Herz)
--   Bauchhöhle (Cavitas peritonealis, beinhaltet einen Teil der
+-   **Pleurahöhle** (Cavitas pleuralis, beherbergt die Lungen)
+-   **Perikardhöhle** (Cavitas pericardiaca, beinhaltet das Herz)
+-   **Bauchhöhle** (Cavitas peritonealis, beinhaltet einen Teil der
     Bauchorgane)
 
 Die übrigen Organe befinden sich in *Bindegewebsräumen*. Hiervon gibt es
 ebenfalls drei größere:
 
--   Mediastinum (Mittelfellraum im Thorax, zwischen den beiden Lungen)
--   Retroperitonealraum (dorsal der Bauchhöhle gelegen, enthält u.a. die
+-   **Mediastinum** (Mittelfellraum im Thorax, zwischen den beiden Lungen)
+-   **Retroperitonealraum** (dorsal der Bauchhöhle gelegen, enthält u.a. die
     Nieren)
--   Subperitonealraum (kaudal der Bauchhöhle gelegen, enthält die Organe
+-   **Subperitonealraum** (kaudal der Bauchhöhle gelegen, enthält die Organe
     des kleinen Beckens)

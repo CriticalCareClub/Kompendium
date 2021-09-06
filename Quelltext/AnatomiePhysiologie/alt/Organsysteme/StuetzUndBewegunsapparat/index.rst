@@ -320,7 +320,7 @@ ist mit einer dünnen Schicht *Schmierflüssigkeit*
     single: Zusammengesetztes Gelenk
     single: Gelenk;zusammengesetztes -
     single: Zusammengesetztes Gelenk
-    single: Gelenk;zusammengesteztes -
+    single: Gelenk;zusammengesetztes -
 
 Gelenkarten
 ----------------

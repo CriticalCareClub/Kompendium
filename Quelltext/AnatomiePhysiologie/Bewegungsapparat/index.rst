@@ -549,30 +549,69 @@ Grundsätzlich werden *zwei Muskelguppen* unterschieden:
     als **Atemhilfsmuskeln** dienen können.
 
 
+.. index::
+    single: Interkostalraum
+    single: ICR
+    single: Zwischenrippenraum
+
+
+.. _brustkorb-skelett:
+.. _thorax:
+.. _Intercostalraum:
 .. _RippenGefaessNervenbuendel:
 
 Thorax (Brustkorb)
 ------------------------------------------------------------------------
 
-Der Thorax *beschützt* wichtige Organe von Brust- und Bauchraum.
-Zusätzlich dient die Bewegung des Brustraumes der *Atmung*. Zum Thorax
-gehören:
+.. only:: not nosidebar
 
--   **Brustwirbelsäule**
--   12 **Rippenpaare** (*Costae*)
--   **Sternum** (Brustbein)
+    .. sidebar:: Der Brustkorb (Thorax)
+
+        -   *Sternum* (Brustbein)
+        -   *12 Rippenpaare* (Costae)
+
+            -   7 "echte"
+            -   3 "falsche"
+            -   2 "fliegende"
+            -   Intercostalräume (ICR)
+
+        -   *Brustwirbelsäule* (12 Brustwirbel),
+            mit Rippen in gelenkiger
+            Verbindung
+
+Der Thorax *beschützt* und enthält wichtige Organe von Brust- und Bauchraum
+(Lunge, Herz, Leber, Magen, Milz, Nieren).
+Zusätzlich dient die Bewegung des Brustraumes der *Atmung*.
+
+
+Der Brustkorb besteht *vorne* aus dem **Sternum** (*Brustbein*)
+und 12 **Rippenpaare** (*Costae*),
+welche *hinten* mit der
+**Brustwirbelsäule** (12 Brustwirbel) in gelenkiger Verbindung stehen.
+
 
 ..  ex:
     Der Brustkorb weist zwei Öffnungen, die Apertura thoracis superior (1.
     Rippen) und inferior (Arcus costalis und Proc. xiphoideus), an denen
     sich Hals bzw. Bauchraum anschließen.
 
-Die *12 Rippenpaare* können in unterschiedliche Gruppen unterteilt
-werden:
 
--   7 echte Rippen (Costae verae)
--   3 falsche Rippen (Costae spuriae)
--   2 fliegende Rippen (Costae fluctuantes)
+
+Die obersten 7 Rippen-Paare werden als *"echte" Rippen* (Costae verae)
+bezeichnet (als "echt" gelten Rippen, die eine direkte Verbindung zum
+Sternum besitzen).
+Sie erreichen mit ihren Spitzen das Brustbein und
+bilden einen Ring um die Brustorgane.
+Die 5 unteren Rippenpaare bilden den
+bogenförmigen unteren Rand des Brustkorbes.
+Die Rippenpaare 8—10 sind dabei
+nur indirekt über einen Knorpel mit dem Brustbein verbunden
+(*"falsche" Rippen*, Costae spuriae), das 11. und das 12.
+Paar endet mit knorpeligen Spitzen frei zwischen den Bauchmuskeln
+(*fliegende Rippen*, Costae fluctuantes).
+Der Raum zwischen benachbarten Rippen heißt **Intercostalraum** (**ICR**).
+
+
 
 Die *Rippe* (*Costa*) setzt sich aus dem Rippenknochen (Os costale) und
 der Rippenknorpel (Cartilago costalis) zusammen. :deep:`An jedem Rippenknochen
@@ -644,7 +683,14 @@ Thoraxmuskulatur
     ₢ Mariana Ruiz Villarreal ℓ Public domain
 
 Die Hauptfunktion der Muskeln des Brustkorbs liegt in der Atmung.
-Von den **echten Atemmuskeln**\ [#EchteAtemmuskeln]_ ist das **Zwerchfell** (*Diaphragma*) als wichtigster Atemmuskel zu nennen.
+
+Zwischen den
+Rippen spannt sich die :dfn:`Zwischenrippenmuskulatur`
+(wichtig für *Atemmechanik*) auf. Das *Zwerchfell* schließt den
+Brustraum nach unten hin ab und trennt somit den Brustraum vom Bauchraum
+(Vgl. Atemmechanik, :ref:`atemmechanik`).
+
+Von den **echten Atemmuskeln**\ [#EchteAtemmuskeln]_ ist das **Zwerchfell** (*Diaphragma*) als **wichtigster Atemmuskel** zu nennen.
 Es ist kuppelförmig, linke Zwerchfellkuppel liegt
 tiefer als die rechte (Leber), kaudale Begrenzung zwischen Thorax und
 Abdomen (Bauchraum), die Höhe der Zwerchfellkuppeln unterscheidet
@@ -655,6 +701,7 @@ V. cava inferior und der N. phrenicus dext. :deep:`(Foramen V. cavae)`,
 die Aorta und  der Ductus thoracicus :deep:`(Hiatus aorticus)`,
 sowie durch den **Hiatus** *oesophageus*
 der Ösophagus, N. vagus. der Ösophagus und der N. vagus.
+
 
 .. [#EchteAtemmuskeln]
     *Echte Atemmuskeln*:
@@ -677,6 +724,13 @@ Die **Atemhilfsmuskeln** besitzen an sich eine eigene Hauptfunktion ind Bezug au
 wird diese jedoch fixiert (z. B. durch Aufstützen)
 kommt es zu einer *Umkehr von Punctum mobile und Punctum fixum*,
 dadurch können sie bei Bedarf (z.B. Asthmaanfall) bei der Atmung mithelfen.
+
+
+.. note::
+
+    -   Die Intaktheit des Brustkorbes ist für die Atmung von großer
+        Bedeutung.
+
 
 Die *Brustwand* ist insgesamt 4-schichtig aufgebaut (von außen nach
 innen):
@@ -998,7 +1052,7 @@ möglich.
 .. _MembrumSuperius:
 .. _ObereExtremitaet:
 
-Membrum superius (Obere Extremität)
+Obere Extremität (Membrum superius)
 ===================================
 
 
@@ -1028,6 +1082,15 @@ Zur oberen Extremität gehören folgende Skelett-Anteile:
     -   Manubrium sterni
     -   Clavicula (Schlüsselbein)
     -   Scapula (Schulterblatt)
+
+    Der Schultergürtel ermöglicht die Bewegung der Arme. Über eine
+    Bandverbindung des Schlüsselbeines am Brustbein und wiederum eine
+    Bandverbindung zwischen Schlüsselbein und Schulterblatt sind alle
+    Knochen miteinander verbunden. Die Gelenkspfanne für den Oberarmknochen
+    befindet sich am Schulterblatt.
+
+    Der Humerus (Oberarmknochen) ist hauptsächlich durch Muskelzug
+    (M. deltoideus, Rotatorenmanschette) am Schultergürtel befestigt.
 
 -   Humerus (Oberarmknochen)
 -   Ulna (Elle)
@@ -1143,17 +1206,26 @@ Die durch die Mitte des Schlüsselbeins laufende Linie bezeichnet man als Mediok
 Humerus (Oberarmknochen)
 ------------------------------------------------------------------------
 
-Extremitas proximalis: Caput humeri, Collum anatomicum, Collum
+Der **Humerus** (*Oberarmknochen*)
+bildet als einzelner Knochen den Oberarm.
+
+Proximal ist er hauptsächlich durch Muskelzug
+(M. deltoideus, Rotatorenmanschette) am Schultergürtel befestigt
+:deep:`Extremitas proximalis: Caput humeri, Collum anatomicum, Collum
 chirurgicum, Tuberculum majus, Tuberculum minus, dazwischen Sulcus
-intertubercularis (für lange Bicepssehne).
-
-Corpus humeri: Sulcus n. radialis.
-
-Extremitas distalis: Epicondylus medialis humeri mit dem Sulcus n.
+intertubercularis (für lange Bicepssehne)`.
+Distal endet er im
+:ref:`Ellenbogengelenk <Ellenbogengelenk>` (Articulatio cubiti;
+:deep:`Extremitas distalis: Epicondylus medialis humeri mit dem Sulcus n.
 ulnaris, Epicondylus lateralis humeri, Condylus humeri mit der Trochlea
 humeri und der darüberliegenden Fossa coronoidea, sowie dem Capitulum
 humeri und der darüberliegenden Fossa radialis. Auf der dorsalen Seite
-gibt es die Fossa olecrani.
+gibt es die Fossa olecrani.`).
+
+Entlang des Corpus humeri verläuft im **Sulcus n. radialis** der gleichnamige *Nerv*.
+Aufgrund seiner Nahebeziehung des N. radialis zum Knochen ist er bei Humerusfrakturen ebenso häufig mitverletzt.
+
+
 
 
 
@@ -1364,8 +1436,16 @@ Schultergelenk wird daher auch als muskelgesichert beschrieben.
 
 .. index::
     single: Articulatio; cubiti
+    single: Articulatio; humeroulnaris
+    single: Articulatio; humeroradialis
+    single: Articulatio; radioulnaris proximalis
     single: Ellenbogengelenk
     single: Gelenk; Ellenbogen-
+    single: Schleimbeutel; Ellenbogengelenk
+    single: Bursa; olecrani
+    single: Ligamentum; collaterale ulnare
+    single: Ligamentum; collaterale radiale
+    single: Ligamentum; anulare radii
 
 .. _Articulatio cubiti:
 .. _Ellenbogengelenk:
@@ -1382,63 +1462,63 @@ den folgenden Untergelenken:
     Diese Bewegungen sind jedoch nur in Kombination mit der Art.
     radioulnaris distalis (beim Handgelenk) möglich.
 
-Ein Schleimbeutel über dem Olecranon (Bursa olecrani) sowie auch eine
+Ein **Schleimbeutel** über dem Olecranon (*Bursa olecrani*) sowie auch eine
 Aussackung der Gelenkskapsel (Recessus sacciformis) sind wichtig für den
 Bewegungsumfang des Gelenks.
 
-Das Lig. collaterale ulnare, das Lig. collaterale radiale sowie das Lig.
+:deep:`Das Lig. collaterale ulnare, das Lig. collaterale radiale sowie das Lig.
 anulare radii stabilisieren das Gelenk. Das Ellenbogengelenk ist
-knochen- und bandgesichert.
+knochen- und bandgesichert.``
+
+
+
+
+
+.. index::
+    single: Handgelenk; proximales
+    single: Handgelenk; distales
+    single: Daumensattelgelenk
+    single: Gelenk; Daumensattel-
+    single: Articulatio; radiocarpea
+    single: Articulatio; radiocarpea
+    single: Articulatio; carpometacarpea pollicis
+    single: Articulationes; carpometacarpales II-V
+    single: Articulationes; intermetacarpales
+    single: Articulationes; metacarpophalangeales
+    single: Articulationes; interphalangeales
 
 Gelenke der Hand
 ----------------
 
 Die wichtigsten Gelenke der Hand sind:
 
-*Articulatio radiocarpea* (proximales Handgelenk):
+-   **proximales Handgelenk** (*Articulatio radiocarpea*):
+    *Eigelenk*: Flexion—Extension, Ulnarduktion—Radialduktion;
+    zwischen Radius und Discus articularis und proximaler Handwurzelreihe.
 
-» Eigelenk, Flexion - Extension, Ulnarduktion - Radialduktion
+-   **distales Handgelenk** (Art. *mediocarpea*):
+    verzahntes Scharniergelenk: Palmarflexion—Dorsalflexion;
+    zwischen proximaler und distaler Handwurzelreihe
 
-zwischen Radius und Discus articularis und proximaler Handwurzelreihe.
+-   **Daumensattelgelenk** (Art. *carpometacarpea pollicis*):
+    Sattelgelenk zwischen Os metacarpale I und Os trapezium:
 
-*Articulatio mediocarpea* (distales Handgelenk):
+    Adduktion—Abduktion, Flexion—Extension, Rotation
 
-» verzahntes Scharniergelenk, Palmarflexion - Dorsalflexion
+-   Artt. *carpometacarpales II-V*:
+    zwischen der distalen Handwurzelreihe und den jeweils anschließenden
+    Ossa metacarpales: Amphiarthrose
 
-zwischen proximaler und distaler Handwurzelreihe
+-   Artt. *intermetacarpales*:
 
-*Articulatio carpometacarpea pollicis* (Daumensattelgelenk):
+    zwischen den einzelnen Ossa metacarpales: Amphiarthrose
 
-zwischen Os metacarpale I und Os trapezium
+-   Artt. *metacarpophalangeales*:
+    zwischen den Ossa metacarpales und den anschließenden Phalanges
+    proximales, der Form nach Kugelgelenke, jedoch durch Bandhemmung der Funktion nach Scharniergelenke
 
-» Sattelgelenk, Adduktion - Abduktion, Flexion - Extension, Rotation
-
-*Articulationes carpometacarpales II-V*:
-
-zwischen der distalen Handwurzelreihe und den jeweils anschließenden
-Ossa metacarpales
-
-» Amphiarthrose
-
-*Articulationes intermetacarpales*:
-
-zwischen den einzelnen Ossa metacarpales
-
-» Amphiarthrose
-
-*Articulationes metacarpophalangeales*:
-
-zwischen den Ossa metacarpales und den anschließenden Phalanges
-proximales.
-
-» der Form nach Kugelgelenke, jedoch durch Bandhemmung der Funktion nach
-Scharniergelenke
-
-*Articulationes interphalangeales*:
-
-zwischen den einzelnen Fingergliedern
-
-» Scharniergelenk
+-   Artt. *interphalangeales*:
+    Scharniergelenke zwischen den einzelnen Fingergliedern
 
 
 
@@ -1470,7 +1550,7 @@ Wichtige Muskeln der oberen Extremität
     *   -   \ M. deltoideus
         -   Von Clavicula, Acromion und Spina scapulae
             zur Tuberositas   deltoidea, Abduktion im Schultergelenk;
-        -   N. axillaris
+        -   \ N. axillaris
     *   -   \ M. trapezius
         -   Von Procc. spinosi C 2—Th 12 zur
             Clavicula und Spina scapulae,
@@ -1545,8 +1625,9 @@ Wichtige Muskeln der oberen Extremität
 
 
 
+.. _untere-extremitaet:
 
-Membrum inferius (Untere Extremität)
+Untere Extremität (Membrum inferius)
 ====================================
 
 Das Bein gilt als freie untere Extremität und kann in mehrere Bereiche
@@ -1566,37 +1647,27 @@ Mittelfuß (Metatarsus) und die Zehen (Digiti)*.
 
 Zur unteren Extremität gehören folgende Skelett-Anteile:
 
-Pelvis (Beckenring): s. u.
+-   Pelvis (Beckenring): s. u.
 
-Femur (Oberschenkelknochen): längster und stärkster Knochen des
-menschlichen Körpers, CCD-Winkel (Centrum-Collum-Diaphysen-Winkel)
+-   Femur (Oberschenkelknochen):
+    längster und stärkster Knochen des menschlichen Körpers,
+    CCD-Winkel (Centrum-Collum-Diaphysen-Winkel)
+-   Patella (Kniescheibe): größtes Sesambein des menschlichen Körpers
+-   Tibia (Schienbein)
+-   Fibula (Wadenbein)
+-   Fußskelett:
 
-Patella (Kniescheibe): größtes Sesambein des menschlichen Körpers
+    -   Ossa tarsi (Fußwurzelknochen): 7
+    -   Talus (Sprungbein)
+    -   Calcaneus (Fersenbein)
+    -   Os naviculare (Kahnbein)
+    -   Os cuneiforme mediale, intermedium, laterale (Keilbeine)
+    -   Os cuboideum (Würfelbein)
+    -   Ossa metatarsi (Mittelfußknochen) I-V
+    -   Ossa digitorum (Zehenknochen):
+        Phalanx proximalis, distalis I-V; media nur II-V (insg. 14 Ossa digitorum)!
 
-Tibia (Schienbein)
-
-Fibula (Wadenbein)
-
-Fußskelett:
-
-Ossa tarsi (Fußwurzelknochen): 7
-
-Talus (Sprungbein)
-
-Calcaneus (Fersenbein)
-
-Os naviculare (Kahnbein)
-
-Os cuneiforme mediale, intermedium, laterale (Keilbeine)
-
-Os cuboideum (Würfelbein)
-
-Ossa metatarsi (Mittelfußknochen) I-V
-
-Ossa digitorum (Zehenknochen): Phalanx proximalis, distalis I-V; media
-nur II-V (insg. 14 Ossa digitorum)!
-
-Os coxae (Beckenknochen)
+Beckenknochen (Os coxae)
 -----------------------------------------------
 
 Das Os coxae besteht aus drei verschiedenen Knochenteilen - dem *Os
@@ -1624,6 +1695,13 @@ ischiadicum.
 Femur
 -----------------------------------------------
 
+Der :dfn:`Femur` (*Oberschenkelknochen*) bildet als einziger
+Knochen den Oberschenkel. Er ist gekenzeichnet durch einen ausgeprägten
+:dfn:`Schenkelhals` mit "Knick" zwischen Kopf-Hals-Bereich
+und Körper.
+Proximal ist  der Femur am Hüftgelenk beteiligt,
+distal endet er im Kniegelenk.
+
 Veränderungen im Winkel zwischen Collum und Corpus (CCD) - beim Kind ca.
 150°, beim Erwachsenen ca. 126° und beim alten Menschen unter 126°.
 
@@ -1640,6 +1718,10 @@ medialis, Epicondylus lateralis.
 Patella
 -----------------------------------------------
 
+Die
+:dfn:`Patella` (*Kniescheibe*)  für eine bessere Kraftübertragung des
+Kniestreckers.
+
 Basis patellae
 
 Apex patellae
@@ -1648,32 +1730,40 @@ Facies anterioris patellae
 
 Facies posterioris patellae mit der Gelenkfläche
 
-Tibia
------------------------------------------------
+Unterschenkel: Schienbein (Tibia) und Wadenbein (Fibula)
+--------------------------------------------------------
 
-Extremitas proximalis: Condylus medialis, Condylus lateralis, Eminentia
-intercondylaris, Facies articularis fibularis, Tibiaplateau.
+Der :dfn:`Unterschenkel` wird von der
+**Tibia**\ [#Tibia]_ (*Schienbein*)
+und der **Fibula** \ [#Fibula]_ (*Wadenbein*)
+gebildet.
+Sie gehen im Sprunggelenk in den Fuß über
+und bilden dort den **Innen-**
+(Tibia, :dfn:`Malleolus medialis`)
+und den *Außenknöchel* (Fibula, :dfn:`Malleolus lateralis`).
+Die Tibia und Fibula sind über die Zwischenknochenmembran
+(Membrana interossea) verbunden.
 
-Corpus tibiae: Tuberositas tibiae
+.. [#Tibia]
 
-Extremitas distalis: Malleolus medialis, Facies articularis inferioris
-tibiae, Incisura fibularis
+    Extremitas proximalis: Condylus medialis, Condylus lateralis, Eminentia
+    intercondylaris, Facies articularis fibularis, Tibiaplateau.
 
-Mit Fibula über die Zwischenknochenmembran (Membrana interossea)
-verbunden
+    Corpus tibiae: Tuberositas tibiae
 
-Fibula
------------------------------------------------
+    Extremitas distalis: Malleolus medialis, Facies articularis inferioris
+    tibiae, Incisura fibularis
 
-Extremitas proximalis: Caput fibulae, Collum fibulae, Facies articularis
-capitis fibulae.
 
-Corpus fibulae
+.. [#Fibula]
 
-Extremitas distalis: Malleolus lateralis.
+    Extremitas proximalis: Caput fibulae, Collum fibulae, Facies articularis
+    capitis fibulae.
 
-Mit Tibia über die Zwischenknochenmembran (Membrana interossea)
-verbunden.
+    Corpus fibulae
+
+    Extremitas distalis: Malleolus lateralis.
+
 
 Ossa tarsi
 -----------------------------------------------
@@ -1685,10 +1775,14 @@ fibularer / lateraler Strahl: Clacaneus, Os cuboideum.
 tibialer / medialer Strahl: Talus, Os naviculare, Os cuneiforme mediale,
 intermedium und laterale
 
+
+
 Ossa metatarsi
 -----------------------------------------------
 
 Zeigen jeweils ein Caput, ein Corpus und eine Basis.
+
+
 
 Ossa digiti
 -----------------------------------------------
@@ -1709,24 +1803,34 @@ Digitus quintus
 
 
 .. _Beckenboden:
+.. _Beckenguertel:
+.. _Beckenring:
 
 Pelvis (Beckenring)
 -------------------
 
-» ringförmiger Knochenverbund bestehend aus den beiden *Ossa coxae*
-(Hüftknochen) sowie dem *Os sacrum*. Sie sind über die *Artt.
-sacroiliacae (Iliosakralgelenke)* sowie über die *Symphysis pubica
-(Schambeinfuge*, = Discus) zum Beckenring verbunden. Dieser ist
-normalerweise um 60° geneigt.
+Das Becken ist ein ringförmiger Knochenverbund bestehend aus
+den beiden *Ossa coxae* (Hüftknochen)
+sowie dem *Os sacrum*.
+Sie sind über die
+*Artt. sacroiliacae (Iliosakralgelenke)*
+sowie über die **Symphyse** (*Symphysis pubica*, *Schambeinfuge*)
+zum Beckenring verbunden.
+Die Symphyse stellt eine straffe
+Knorpelverbindung vorne zwischen den beiden Beckenknochen dar
+(Dehnungsfuge, für Geburtsvorgang notwendig).
+Dieser ist normalerweise um 60° geneigt.
 
-Dieser Ring wird durch mehrere Bänder stabilisiert: Lig. sacroiliacae
+:deep:`Dieser Ring wird durch mehrere Bänder stabilisiert: Lig. sacroiliacae
 ant., Ligg. sacroiliacae interossea, Lig. sacroiliacae post., Lig.
-iliolumbale, Lig. sacrotuberale, Lig. sacrospinale.
+iliolumbale, Lig. sacrotuberale, Lig. sacrospinale.``
 
-Im Beckenraum kann man zwei Bereiche unterscheiden. Das *große Becken*
-wird von den Beckenschaufeln eingefasst. Dieser Bereich wird noch zum
-Abdomen gerechnet. Die *Linea terminalis* grenzt das große vom *kleinen
-Becken* ab. Sie führt vom Promontorium über die Linea arcuata und die
+Im Beckenraum kann man zwei Bereiche unterscheiden.
+Das **große Becken** wird von den Beckenschaufeln eingefasst.
+Dieser Bereich wird noch zum
+*Abdomen* gerechnet.
+Die *Linea terminalis* grenzt das große vom **kleinen Becken** ab.
+Sie führt vom Promontorium über die Linea arcuata und die
 Crista pubica zur Symphyse und umrahmt die Apertura pelvis superior
 (Beckeneingangsebene). Die Beckenausgangsebene (Apertura pelvis
 inferior) wird vom muskulären Beckenboden verschlossen.
@@ -1738,32 +1842,34 @@ Becken ist in Vorbereitung auf die Geburt bei der Frau geräumiger. Die
 Beckeneingangsebene hat bei der Frau eine querovale Form, beim Mann eher
 längsoval. Das Foramen obturatorium ist beim Mann rundlich, bei der Frau
 queroval. Der augenscheinlichste Unterschied beim knöchernen Becken ist
-der Arcus pubicus (bei der Frau, 90-100°) bzw. Angulus subpubicus (beim
+der Arcus pubicus (bei der Frau, 90—100°) bzw. Angulus subpubicus (beim
 Mann, kleiner als 70°).
 
-Das Becken wird nach kaudal durch den *Beckenboden* - mehrere Schichten
-von Bindegewebe und Muskulatur - verschlossen. Von superficial nach
-profund unterscheidet man:
+Das Becken wird nach kaudal durch den *Beckenboden* — mehrere Schichten
+von Bindegewebe und Muskulatur — verschlossen.
+Von superficial nach profund unterscheidet man:
 
 -   *Diaphragma pelvis*: trichterförmig, wichtig für Bauchpresse, trägt
     Last der Beckeneingeweide, haben somit eine Schutzfunktion, wirken
     dynamisch beim Verschluss des Rektums mit.
 
-    -   M. levator ani: M. puborectalis, M. pubococcygeus, M.
-        iliococcygeus
-    -   M. ischiococcygeus
+    -   :deep:`M. levator ani: M. puborectalis, M. pubococcygeus, M.
+        iliococcygeus`
+    -   :deep:`M. ischiococcygeus`
 
 -   *Diaphragma urogenitale*:
 
-    -   M. transversus perinei profundus
-    -   M. transversus perinei superficialis
-    -   Centrum perinei
+    -   :deep:`M. transversus perinei profundus`
+    -   :deep:`M. transversus perinei superficialis`
+    -   :deep:`Centrum perinei`
 
 -   *Sphinkter- und Schwellkörpermuskulatur*:
 
-    -   M. sphincter ani externus
-    -   M. bulbospongiosus
-    -   M. isciocavernosus
+    -   \ M. sphincter ani externus
+    -   :deep:`M. bulbospongiosus`
+    -   :deep:`M. isciocavernosus`
+
+
 
 Articulatio coxae (Hüftgelenk)
 ------------------------------
@@ -1788,165 +1894,210 @@ Folgende Bänder stabilisieren das Gelenk:
 Articulatio genus (Kniegelenk)
 ------------------------------
 
-Durch die Beteiligung der *Menisken* (=Gelenkskörper) ist das Kniegelenk
+
+Das :dfn:`Kniegelenk` verbindet den Ober- und Unterschenkel
+und wird aus dem Oberschenkelknochen und dem Schienbein (Unterschenkel)
+gebildet. Es ist *kein* reines Scharniergelenk, Drehungen sind bei
+gebeugtem Knie möglich.
+Das Kniegelenk weist einige Besonderheiten auf:
+Jeweils zwei Kreuzbänder, Seitenbänder sowie Menisken sorgen
+für die Stabilität in diesem Gelenk\ [#KniegelenkBaender]_.
+Weiters sorgt die
+*Patella* (*Kniescheibe*)  für eine bessere Kraftübertragung des
+Kniestreckers. [Petersen:1]_ [Mueller:1]_ [Schabus:1]_
+
+Durch die Beteiligung der
+**Menisken**\ [#KniegelenkMenisken]_ (Gelenkskörper) ist das Kniegelenk
 ein komplexes Gelenk, welches die *Art. femorotibialis* (Femur + Tibia)
 und die *Art. femoropatellaris* (Femur + Patella) in einer Gelenkkapsel
 zusammenfasst. Von seiner Form und Funktion ist das Kniegelenk ein
 *Drehscharniergelenk* (Trochoginglymus), welches folgende Bewegungen
-ausführen kann: Flexion - Extension, Rotation (nur in Flexion!).
+ausführen kann: Flexion — Extension, Rotation (nur in Flexion!).
 
-Folgende *Bänder* stabilisieren das Kniegelenk:
+.. [#KniegelenkBaender]
 
--   Seitenbänder:
+    Folgende *Bänder* stabilisieren das Kniegelenk:
 
-    -   Lig. collaterale tibiale: Verlauf medial vom Femur zur Tibia.
-    -   Lig. collaterale fibulare: Verlauf lateral vom Femur zur Fibula.
+    -   Seitenbänder:
 
--   Kreuzbänder:
+        -   Lig. collaterale tibiale: Verlauf medial vom Femur zur Tibia.
+        -   Lig. collaterale fibulare: Verlauf lateral vom Femur zur Fibula.
 
-    -   Lig. cruciatum anterius: Verlauf von femoral dorsal lateral nach
-        tibial ventral medial.
-    -   Lig. cruciatum posterius: Verlauf von femoral ventral medial nach
-        tibial dorsal lateral.
+    -   Kreuzbänder:
 
--   Lig. transversum genus: Verlauf ventral zwischen medialem und
-    lateralem Meniscus.
+        -   Lig. cruciatum anterius: Verlauf von femoral dorsal lateral nach
+            tibial ventral medial.
+        -   Lig. cruciatum posterius: Verlauf von femoral ventral medial nach
+            tibial dorsal lateral.
 
--   Lig. patellae: verbindet Patella mit der Tibia (Tuberositas tibiae),
-    Fortsetzung der Sehne des M. quadrizeps femoris.
+    -   Lig. transversum genus: Verlauf ventral zwischen medialem und
+        lateralem Meniscus.
 
--   Retinaculum patellae: Reservestreckapparat, Sehnenplatten zugehörig
-    dem M. quadrizeps femoris, halten Patella an Ort und Stelle.
+    -   Lig. patellae: verbindet Patella mit der Tibia (Tuberositas tibiae),
+        Fortsetzung der Sehne des M. quadrizeps femoris.
 
-Die *Gelenkkörper* sorgen dafür, dass die beiden Knochenenden aneinander
-angepasst werden:
+    -   Retinaculum patellae: Reservestreckapparat, Sehnenplatten zugehörig
+        dem M. quadrizeps femoris, halten Patella an Ort und Stelle.
 
--   Meniscus lateralis
--   Meniscus medialis
+.. [#KniegelenkMenisken]
+
+    Die *Gelenkkörper* sorgen dafür, dass die beiden Knochenenden aneinander
+    angepasst werden:
+
+    -   Meniscus lateralis
+    -   Meniscus medialis
+
+
+
 
 Sprunggelenk
 ------------
 
+
+Im :dfn:`Sprunggelenk` gibt es, ähnlich wie bei der Hand,
+:dfn:`Fußwurzelknochen` (7), :dfn:`Mittelfußknochen` (5)
+und 5 Zehen mit jeweils 2 (Großzehe) bis 3 Gliedern.
+
+Als :dfn:`Knöchel` bezeichnet man die Knochengabel, welche
+aus Schien- und Wadenbein auf Höhe des Sprunggelenks gebildet wird. Es
+gibt einen Innen- und einen Außenknöchel (jeweils körperfernes Ende von
+Schien- bzw. Wadenbein).
+
+
 Das Sprunggelenk kann in *zwei verschiedene Ebenen* eingeteilt werden:
 
-Art. talocruralis (oberes Sprunggelenk):
+-   Art. talocruralis (oberes Sprunggelenk):
 
-zwischen Tibia, Fibula und Talus
+    zwischen Tibia, Fibula und Talus
 
-Scharniergelenk, Dorsalflexion - Plantarflexion, durch Außen- und
-Innenbänder gesichert
+    Scharniergelenk, Dorsalflexion - Plantarflexion, durch Außen- und
+    Innenbänder gesichert
 
-unteres Sprunggelenk (Art. subtalaris und Art. talocalcaneonavicularis):
+-   unteres Sprunggelenk (Art. subtalaris und Art. talocalcaneonavicularis):
 
-zwischen Talus, Calcaneus und Os naviculare
+    zwischen Talus, Calcaneus und Os naviculare
 
-Radgelenk, schräge Bewegungsachse, Pronation - Supination
+    Radgelenk, schräge Bewegungsachse, Pronation - Supination
 
-weitere Gelenke
+
+
+Weitere Gelenke
 ---------------
 
-Artt.intertarsales:
+Artt.intertarsales: zwischen den restlichen Fußwurzelknochen » Amphiarthrose
 
-zwischen den restlichen Fußwurzelknochen
-
-» Amphiarthrose
-
-Artt. metatarsophalangeae:
-
-zwischen den Ossa metatarsales und den dazugehörigen Ossa phalanges
-proximales.
-
-» der Form nach Kugelgelenke, durch die Bandsicherung funktionelle
+Artt. metatarsophalangeae: zwischen den Ossa metatarsales und den dazugehörigen Ossa phalanges
+proximales. » der Form nach Kugelgelenke, durch die Bandsicherung funktionelle
 Scharniergelenke.
 
-Artt. intermetatarsales:
+Artt. intermetatarsales: zwischen den einzelnen Mittelfußknochen » Amphiarthrose
 
-zwischen den einzelnen Mittelfußknochen
+Artt. interphalangeales: zwischen den einzelnen Zehengliedern » Scharniergelenke
 
-» Amphiarthrose
 
-Artt. interphalangeales:
 
-zwischen den einzelnen Zehengliedern
-
-» Scharniergelenke
-
-wichtige Muskeln der unteren Extremität
+Wichtige Muskeln der unteren Extremität
 ---------------------------------------
 
-+------------------------------+--------------------------------------+
-| M. glutaeus maximus          | Vom Os ilium und Os sacrum zur       |
-|                              | Tuberositas glutea, Extension und    |
-|                              | Außenrotation in der Hüfte; N.       |
-|                              | gluteus inf.                         |
-+------------------------------+--------------------------------------+
-| M. glutaeus medius           | Vom Os ilium zum Trochanter major,   |
-|                              | Abduktion in der Hüfte; N. gluteus   |
-|                              | superior.                            |
-+------------------------------+--------------------------------------+
-| M. gluteus minimus           | Vom Os ilium zum Trochanter major,   |
-|                              | Abduktion in der Hüfte; N. gluteus   |
-|                              | superior                             |
-+------------------------------+--------------------------------------+
-| M. biceps femoris            | Vom Tuber ischiadicum bzw. vom Femur |
-|                              | zum lateralen Tibiakondyl, Extension |
-|                              | in der Hüfte, Flexion und            |
-|                              | Außenrotation im Knie; N.            |
-|                              | ischiadicus                          |
-+------------------------------+--------------------------------------+
-| M. semitendinosus            | Vom Tuber ischiadicum zum Pes        |
-|                              | anserinus superficialis, Extension   |
-|                              | in der Hüfte, Flexion und            |
-|                              | Innenrotation im Knie; N.            |
-|                              | ischiadicus                          |
-+------------------------------+--------------------------------------+
-| M. semimembranosus           | Vom Tuber ischiadicum zum Pes        |
-|                              | anserinus profundus, Extension in    |
-|                              | der Hüfte, Flexion und Innenrotation |
-|                              | im Knie; N. ischiadicus              |
-+------------------------------+--------------------------------------+
-| Adduktoren                   | Vom Ramus superior bzw. inferior     |
-|                              | ossis pubis zum Femur, Adduktion in  |
-|                              | der Hüfte; N. obturatorius           |
-+------------------------------+--------------------------------------+
-| M. triceps surae             | Bestehend aus M. gastrocnemius und   |
-|                              | M. soleus, vom lateralen und         |
-|                              | medialen Femurkondyl bzw. der Tibia  |
-|                              | und Fibula über die Achillessehne    |
-|                              | zum Calcaneus, Flexion im Knie,      |
-|                              | Plantarflexion im oberen             |
-|                              | Sprunggelenk                         |
-+------------------------------+--------------------------------------+
-| M. tibialis posterior        | Von Tibia und Fibula zu den          |
-|                              | Fußwurzelknochen dorsal,             |
-|                              | Plantarflexion und Supination; N.    |
-|                              | tibialis                             |
-+------------------------------+--------------------------------------+
-| M. flexor digitorum longus   | Von Tibia zu den Endphalangen II-V,  |
-|                              | Flexion der Zehen; N. tibialis       |
-+------------------------------+--------------------------------------+
-| M. flexor hallucis longus    | Von Fibula zur Endphalanx der        |
-|                              | Großzehe, Flexion der Großzehe; N.   |
-|                              | tibialis                             |
-+------------------------------+--------------------------------------+
-| M. tibialis anterior         | Von Tibia zum medialen Os            |
-|                              | cuneiforme, Dorsalflexion,           |
-|                              | Supination; N. peroneus profundus    |
-+------------------------------+--------------------------------------+
-| M. extensor digitorum longus | Von Tibiakondyl und Fibula zu den    |
-|                              | Zehen II-V, Dorsalflexion der Zehen  |
-|                              | II-V; N. peroneus profundus          |
-+------------------------------+--------------------------------------+
-| M. extensor hallucis longus  | Von Fibula zur Großzehe,             |
-|                              | Dorsalflexion der Großzehe; N.       |
-|                              | peroneus profundus                   |
-+------------------------------+--------------------------------------+
-| M. peroneus longus           | Von Fibula zum medialen Os           |
-|                              | cuneiforme, Pronation und            |
-|                              | Plantarflexion; N. peroneus          |
-|                              | superficialis                        |
-+------------------------------+--------------------------------------+
-| M. peroneus brevis           | Von Fibula zum Os metatarsale V,     |
-|                              | Pronation und Plantarflexion; N.     |
-|                              | peroneus superficialis               |
-+------------------------------+--------------------------------------+
+.. list-table:: Wichtige Muskeln der unteren Extremität
+    :widths: 15 60 25
+    :header-rows: 1
+    :stub-columns: 1
+
+    *   -   Muskel (-gruppe)
+        -   Verlauf, Funktion
+        -   Innervation
+
+
+    *   -   \ M. glutaeus maximus
+        -   Vom Os ilium und Os sacrum zur
+            Tuberositas glutea, Extension und
+            Außenrotation in der Hüfte;
+        -   \ N. gluteus inf.
+    *   -   \ M. glutaeus medius
+        -   Vom Os ilium zum Trochanter major,
+            Abduktion in der Hüfte;
+        -   \ N. gluteus
+            superior.
+    *   -   \ M. gluteus minimus
+        -   Vom Os ilium zum Trochanter major,
+            Abduktion in der Hüfte;
+        -   \ N. gluteus
+            superior
+    *   -   \ M. biceps femoris
+        -   Vom Tuber ischiadicum bzw. vom Femur
+            zum lateralen Tibiakondyl, Extension
+            in der Hüfte, Flexion und
+            Außenrotation im Knie;
+        -   N.
+            ischiadicus
+    *   -   \ M. semitendinosus
+        -   Vom Tuber ischiadicum zum Pes
+            anserinus superficialis, Extension
+            in der Hüfte, Flexion und
+            Innenrotation im Knie;
+        -   N.
+            ischiadicus
+    *   -   \ M. semimembranosus
+        -   Vom Tuber ischiadicum zum Pes
+            anserinus profundus, Extension in
+            der Hüfte, Flexion und Innenrotation
+            im Knie;
+        -   \ N. ischiadicus
+    *   -   Adduktoren
+        -   Vom Ramus superior bzw. inferior
+            ossis pubis zum Femur, Adduktion in
+            der Hüfte;
+        -   \ N. obturatorius
+    *   -   \ M. triceps surae
+        -   Bestehend aus M. gastrocnemius und
+            M. soleus, vom lateralen und
+            medialen Femurkondyl bzw. der Tibia
+            und Fibula über die Achillessehne
+            zum Calcaneus, Flexion im Knie,
+            Plantarflexion im oberen
+            Sprunggelenk
+        -
+    *   -   \ M. tibialis posterior
+        -   Von Tibia und Fibula zu den
+            Fußwurzelknochen dorsal,
+            Plantarflexion und Supination;
+        -   N.
+            tibialis
+    *   -   \ M. flexor digitorum longus
+        -   Von Tibia zu den Endphalangen II-V,
+            Flexion der Zehen;
+        -   \ N. tibialis
+    *   -   \ M. flexor hallucis longus
+        -   Von Fibula zur Endphalanx der
+            Großzehe, Flexion der Großzehe;
+        -   N.
+            tibialis
+    *   -   \ M. tibialis anterior
+        -   Von Tibia zum medialen Os
+            cuneiforme, Dorsalflexion,
+            Supination;
+        -   \ N. peroneus profundus
+    *   -   \ M. extensor digitorum longus |
+        -   Von Tibiakondyl und Fibula zu den
+            Zehen II-V, Dorsalflexion der Zehen
+            II-V;
+        -   \ N. peroneus profundus
+    *   -   \ M. extensor hallucis longus
+        -   Von Fibula zur Großzehe,
+            Dorsalflexion der Großzehe;
+        -   N.
+            peroneus profundus
+    *   -   \ M. peroneus longus
+        -   Von Fibula zum medialen Os
+            cuneiforme, Pronation und
+            Plantarflexion;
+        -   \ N. peroneus
+            superficialis
+    *   -   \ M. peroneus brevis
+        -   Von Fibula zum Os metatarsale V,
+            Pronation und Plantarflexion;
+        -   \ N.  peroneus superficialis
+
+
+

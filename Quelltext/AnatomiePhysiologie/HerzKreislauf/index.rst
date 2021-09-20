@@ -111,6 +111,11 @@ Längsachse des Körpers nach links, sodass die *Vorderseite* hauptsächlich
 aus der *rechten Herzhälfte* und die *Hinterseite* hauptsächlich aus der
 *linken Herzhälfte* gebildet wird.
 
+Wie eingangs erwähnt kann das Herz grundsätzlich in
+zwei Teile unterteilt werden. Die rechte Seite pumpt das Blut in den
+Lungenkreislauf zur Sauerstoffaufnahme in die Lunge, die linke Seite
+pumpt das Blut in den Körperkreislauf zur Sauerstoffversorgung der
+verschiedenen Organsysteme.
 Das Herz ist durch ein **Septum** (*Scheidewand*,
 im Bereich der Vorhöfe Septum interatriale, im Bereich der Kammern Septum interventriculare)
 in eine *rechte* und eine *linke* Seite geteilt.
@@ -159,6 +164,7 @@ Es gibt *zwei Arten von Klappen*:
     den freien Enden der Segel sind sie an Papillarmuskeln in den Kammern
     befestigt - das verhindert das Zurückschlagen der Segel während der
     Kammerkontraktion.
+    Die Segelklappen verhindern den Rückfluss von Blut während der Systole.
 
     -   **Trikuspidalklappe** (Valva tricuspidalis) rechts, 3 Segel
     -   **Mitralklappe** (Valva bicuspidalis / mitralis; auch: Bikuspidalklappe)
@@ -166,9 +172,11 @@ Es gibt *zwei Arten von Klappen*:
 
 -   **Taschenklappen** (*Semilunarklappen*): zwischen Kammer und dem jeweiligen
     abgehenden großen Gefäß.
+    Sie verhindern den Rückfluss des Blutes aus den Arterien während der Diastole.
 
     -   **Aortenklappe** links, **3** Taschen
     -   **Pulmonalklappe** rechts, **3** Taschen
+
 
 
 .. subfigstart::
@@ -193,28 +201,20 @@ Es gibt *zwei Arten von Klappen*:
 
     \hfill
 
-.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
-    :width: 100%
-
-    Reizleitungssystem, Schema
-
-    ₢ J. Heuser, basierend auf der Arbeit von
-    Patrick J. Lynch; illustrator;
-    C. Carl Jaffe; MD; cardiologist Yale University Center for
-    Advanced Instructional Media ℓ CC-BY
-
 .. subfigend::
-    :width: 0.32
+    :width: 0.45
     :label: Figure-BilderserieHerz
 
     Bilderserie: Herz
 
 
-.. figure:: /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.*
-    :width: 40%
-    :align: right
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Blutflussrichtung.png
+    :width: 100%
+
+    Das Herz
 
     ₢ Lena Hirtler  :term:`ℓ MfG`
+
 
 
 
@@ -223,17 +223,6 @@ Es gibt *zwei Arten von Klappen*:
 Reizleitungssystem
 ------------------
 
-.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
-    :width: 40%
-    :align: right
-
-    Reizleitungssystem, Schema
-
-    ₢ J. Heuser, basierend auf der Arbeit von
-    Patrick J. Lynch; illustrator;
-    C. Carl Jaffe; MD; cardiologist Yale University Center for
-    Advanced Instructional Media
-    ℓ CC-BY
 
 Das Herz weist als einziger Muskel des menschlichen Körpers ein eigenes
 *Erregungsbildungs- und -leitungssystem* auf.
@@ -242,6 +231,8 @@ Dieses koordiniert und taktet die mechanische Muskelfunktion
 Jeder dieser
 Impulse wird normalerweise vom Herzmuskel mit einer Kontraktion
 beantwortet (*mechanische Herzfunktion*).
+Die elektrische und die mechanische Herzaktion sind somit
+(normalerweise) aneinander gekoppelt.
 Das Reizleitungssystem ist hirarchisch in mehrere Etagen gegliedert,
 wobei jede Etage bei *Ausfall* einer Etage, bzw. bei Unterbrechung der
 Erregungsleitung
@@ -267,6 +258,11 @@ allerdings mit einer langsameren Frequenz [#Erregungsbildung]_:
     -   **Tawara-Schenkel** (Kammer): Eigenfrequenz 30-40 / min
     -   **Purkinje-Fasern**
 
+
+
+
+
+
 An erster Stelle steht der **Sinusknoten** ① im
 rechten Vorhof. Er ist reguläres Schrittmacherzentrum mit einer, Frequenz beim Erwachsenen
 in Ruhe von ca. *60—100 / min*, bei Belastung ist diese steigerbar.
@@ -285,8 +281,61 @@ Die Reizübertragung zwischen den Herzmuskelzellen funktioniert über
 Zellen. Hier befinden sich zahlreiche sog. Gap Junctions, die über
 direkte Ionenströme die elektrische Erregung weiterleiten.
 
+.. subfigstart::
+
+.. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
+    :width: 100%
+    :align: right
+
+    Reizleitungssystem, Schema
+
+    ₢ J. Heuser, basierend auf der Arbeit von
+    Patrick J. Lynch; illustrator;
+    C. Carl Jaffe; MD; cardiologist Yale University Center for
+    Advanced Instructional Media
+    ℓ CC-BY
+
+.. raw:: latex
+
+    \hfill
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Erregungsleitungssystem.png
+    :width: 100%
+
+    Erregungsleitungssystem des Herzens
+
+    ₢ Lena Hirtler  :term:`ℓ MfG`
+
+.. subfigend::
+    :width: 0.45
+    :label: Fig-Reizleitungssystem
+
+    Bilderserie: Reizleitungssystem
+
 Über das *vegetative Nervensystem* (Sympathikus und Parasympathikus)
 wird die Herzarbeit an die aktuellen Bedürfnisse angepasst.
+
+
+Die Erregungsausbreitungsvorgang kann mittels :ref:`Elektrokardiogramm <Fig-Ekg>` (EKG) dargestellt werden.
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Ekg.png
+    :width: 50%
+    :name: Fig-Ekg
+
+    EKG
+
+    ₢ Lena Hirtler  :term:`ℓ MfG`
+
+
+Die P-Welle steht für die Depolarisation (~Kontraktion) der Vorhöfe. Der
+QRS-Komplex zeigt die Depolarisation der Kammern und die T-Welle ist ein
+Zeichen für die Repolarisation (~Erschlaffung) der Kammern. Die
+Repolarisation der Vorhöfe ist im QRS-Komplex versteckt.
+
+Durch die vorher schon erwähnte Filterfunktion des AV-Knoten kommt die
+konstante PQ-Strecke zustande.
+
 
 Herzgefäße
 ----------
@@ -355,8 +404,10 @@ gleichmäßig das gesamte Herz betreffend, der *Parasympathikus (über
 Acetylcholin)* bremst die Herzaktion insbesondere des Vorhofes
 (Sinusknoten und AV-Knoten).
 
+
+
 Kontraktion der Herzmuskelzellen
---------------------------------
+------------------------------------------------------------------------
 
 Durch die intrazelluläre Kaliumkonzentration hat die Herzzelle ein
 sogenanntes *Ruhemembranpotential* (Ladung der Herzzelle in Ruhe) von
@@ -381,6 +432,31 @@ Dieses Aktionspotential wird vom elektrischen Reizleitungssystem des
 Herzens eingeleitet. Die externe Ableitung während des
 Elektrokardiogramms (EKG) ist möglich durch das *elektrische Feld*, dass
 während dem Aktionspotential entsteht.
+
+
+
+
+.. _Herz-SympParasymp:
+
+Steuerung durch Sympathikus und Parasympathikus
+------------------------------------------------------------------------
+
+Die Herzarbeit muss an wechselnde Belastungen angepasst werden. Dies
+erfolgt über das vegetative Nervensystem, über Parasympathikus und
+Sympathikus.
+
+Eine Sympathikusaktivierung sorgt für eine Steigerung sowohl der
+Herzfrequenz und der Kontraktionskraft und verkürzt die Überleitungszeit
+zwischen Vorhöfen und Kammern. Die Aktivierung des Parasympathikus senkt
+die Herzfrequenz und die verlangsamt die Überleitung am AV-Knoten.
+
+Hiezu einige Grundbegriffe:
+
+-  **chronotrop**: frequenzgerichtete Wirkung
+-  **inotrop**: systolische Kraftentwicklung, Herzkraft
+-  **dromotrop**: AV-Überleitungsgeschwindigkeit
+
+
 
 Gefäße
 ======
@@ -432,28 +508,58 @@ Gesamtheit der Lymphgefäße sammeln sich im *Ductus lymphaticus* dexter
 und sinister. Diese münden im Bereich der Einmündungsstellen der V.
 jugularis interna und V. subclavia wieder in das Venensystem.
 
+
+
+.. _Kreislauf:
+
 Kreislauf
 =========
 
-Der Kreislauf kann in zwei Teilbereiche untergliedert werden:
 
--   *Körperkreislauf (Hochdruck-System)*: Besonderheit » Pfortadersystem:
+Das Herz als Pumpe sorgt dafür, dass sich das Blut im
+:ref:`Kreislauf <Fig-Schema-Blutkreislauf>`
+bewegt. Die Arterien befördern das Blut
+unter hohem Druck zu den Organen und Extremitäten. Am Ende der
+kleinstenten Arterien (Arteriolen) folgen die Kapillaren die den
+Stoffaustausch mit den Zellen der Organsysteme ermöglichen. Die
+Kapillardurchblutung wird auch als Mikrozirkulation bezeichnet. Nach den
+Kapillaren folgen die Venen, die das sauerstoffarme Blut aus der
+Peripherie wieder zum Herzen zurückbefördern. Hier herrscht ein weitaus
+geringerer Blutdruck als im arteriellen System.
+
+
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Kreislaufsystem.png
+    :width: 100%
+    :name: Fig-Schema-Blutkreislauf
+
+    Schema des Blutkreislaufs
+
+    ₢ Lena Hirtler  :term:`ℓ MfG`
+
+
+Der Kreislauf kann somit in zwei Teilbereiche untergliedert werden:
+
+-   *Körperkreislauf (Hochdruck-System)*:
+    Besonderheit *Pfortadersystem*:
     Hier werden - im Gegensatz zum restlichen Kreislaufgebiet - zwei
     Kapillargebiete hintereinander geschaltet: die Kapillaren im Bereich
-    des Gastrointestinaltraktes und die Kapillaren im Bereich der Leber.
+    des Gastrointestinaltraktes und die Kapillaren im Bereich der Leber:
+    Der Portalkreislauf befördert das Blut mit den
+    aufgenommenen Nähr- (und Schad-)stoffen der Bauchorgane zur Leber.
 -   Lungenkreislauf (Niederdrucksystem)
 
+Die jeweiligen Kapillargebiete werden auch als *Mikrozirkulation* bezeichnet.
 Anhand der gemessenen Drücke in den einzelnen Gefäßen kann man den
 Kreislauf auch in ein Hochdrucksystem und ein Niederdrucksystem
 unterteilen. Das Niederdrucksystem umfasst die Körpervenen, das rechte
 Herz und die Lungengefäße.
 
 
-.. _fig-blutkreislauf-schema:
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Kreislauf-Schema.*
     :width: 40%
     :align: right
+    :name: fig-blutkreislauf-schema
 
     Der Blutkreislauf (Schema)
 
@@ -513,6 +619,31 @@ Kreislauf- und Blutdruck-*Regulation*:
 -   Blutzirkulation in den Kapillaren
 -   venöser Rückstrom zum Herzen
 
+
+
+Blutdruck
+------------------------------------------------------------------------
+
+Der Mensch braucht einer gewissen Blutdruck, um zu überleben. Ein zu
+geringer Druck (Hypotonie) reicht nicht aus, um alle Organe ausreichend
+zu durchbluten. Ein zu hoher Druck (Hypertonie) wiederum schädigt das
+Gewebe der Organe und Gefäße.
+
+Der Blutdruck wird in mmHg gemessen, man gibt dabei immer zwei Werte an:
+
+-  Systolisch: → oberer, höherer Wert; beurteilt die Kontraktionskraft
+   des Herzens, entspricht der Pulswelle, wird immer als erster Wert
+   angegeben.
+-  Diabolisch. → niedrigerer Wert; beurteilt den Druck während der
+   Diastole des Herzens; spiegelt die Elastizität der Aorta wider, wird
+   immer als letzter Wert angegeben.
+
+Die Einteilung der Blutdruck-Werte erfolgt nach folgendem Schema.
+
+-  Hypotonie: <100-105 mmHg systolisch
+-  normaler Blutdruck: <145/<90 mmHg
+-  Grenzwertig: 145-165/90-95 mmHg
+-  Hypertonie: >165/>95 mmHg
 
 
 Lungenkreislauf:

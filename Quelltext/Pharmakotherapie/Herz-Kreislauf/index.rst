@@ -22,7 +22,7 @@ Bei beiden Teilen kann jeweils noch ein Vorhof (lat. Atrium) und eine
 Kammer (lat. Ventrikel) differenziert werden.
 
 
-.. figure:: media/Pictures/1000000000000A0000000698F0F54C66D83049BF.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Blutflussrichtung.png
     :width: 100%
 
     Das Herz
@@ -65,7 +65,7 @@ Diese Impulsgeber können auch als physiologische Schrittmacher
 bezeichnet werden.
 
 
-.. figure:: media/Pictures/1000000000001045000013FE68A4714AF0C6CCB8.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Erregungsleitungssystem.png
     :width: 100%
 
     Erregungsleitungssystem des Herzens
@@ -98,7 +98,7 @@ gekoppelt.
 Die Erregungsausbreitungsvorgang kann mittels :ref:`Elektrokardiogramm <Fig-Ekg>` (EKG) dargestellt werden.
 
 
-.. figure:: media/Pictures/1000000000000F5E00000B8ED8F21DF55905BB5C.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Ekg.png
     :width: 100%
     :name: Fig-Ekg
 
@@ -147,7 +147,7 @@ Peripherie wieder zum Herzen zurückbefördern. Hier herrscht ein weitaus
 geringerer Blutdruck als im arteriellen System.
 
 
-.. figure:: media/Pictures/10000000000012CF00001AA1A7C6B9BCA856CB44.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Kreislaufsystem.png
     :width: 100%
 
     Schemanhafte Darstellung des Kreislaufs
@@ -208,7 +208,7 @@ Herzgewebes und können so das
 beeinflussen.
 
 
-.. figure:: media/Pictures/1000000000000C39000010067078E35D3BFEFCD9.png
+.. figure:: /Bilder/HirtlerLena-Ccc/AktionspotentialHerz.png
     :width: 100%
     :name: Fig-AktionspotentialHerz
 
@@ -979,7 +979,7 @@ Folgende Komplikationen können entstehen:
 
 
 
-.. figure:: media/Pictures/100000000000133700001691C92A1D59156B5976.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Blutdruck.png
     :width: 100%
     :name: Fig-EntstehungBehandlungHypertonie
 
@@ -1009,7 +1009,7 @@ Die medikamentöse Therapie wird nach folgenden
 :ref:`Stufenschema <Fig-StufenschemaHypertonie>` eingestellt:
 
 
-.. figure:: media/Pictures/10000000000019CA00001145B8F495559C5CF7AB.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Hypertonie-Stufenplan.png
     :width: 100%
     :name: Fig-StufenschemaHypertonie
 
@@ -1139,7 +1139,7 @@ Bradykardien:
 Alle pulslosen Störungen sind UNBEDINGT REANIMATIONSBEDÜRFTIG!!!
 
 
-.. figure:: media/Pictures/10000000000008DF000010F7AC10C1BFB0A1051C.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Bls.png
     :width: 100%
 
     ₢ Lena Hirtler  :term:`ℓ MfG`
@@ -1213,7 +1213,7 @@ Weiters werden folgende Substanzklassen angewendet:
 -  β-Blocker: Prognoseverbesserung
 
 
-.. figure:: media/Pictures/100000000000132D0000121DD1D8D3CF535F2E0D.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Herzinsuffizienz.png
     :width: 100%
 
     Entstehung und Therapie der Herzinsuffizienz

@@ -61,7 +61,7 @@ Rhythmusstörung wird verhindert.
     *   -   -   Ib
         -   Aprindin (Amidonal™)
 
-            Lidocain (Lidocorit™)
+            :ref:`Lidocain <Lidocain>` (Lidocorit™)
 
             Mexiletin (Mexitil™)
 
@@ -94,7 +94,7 @@ Rhythmusstörung wird verhindert.
 
             Timolol (Temserin™, Blocadren™, Moducrin™)
     *   -   Klasse III (Kaliumkanalblocker)
-        -   Amiodaron (Cordarex™,   Sedacoron™)
+        -   :ref:`Amiodaron <Amiodaron>` (Cordarex™,   Sedacoron™)
 
             Sotalol (Sotalex™, Sotacor™, Sotahexal™)
     *   -   Klasse IV (Calciumkanalblocker
@@ -119,7 +119,7 @@ Na⁺-Kanalblockade noch weiter unterteilt werden:
 **IA**: mittellange Blockade
 
 
-**Ajmalin** (Gilurytmal™),
+:ref:`Ajmalin <Ajmalin>` (Gilurytmal™),
 Chinidin (Chinidin Duriles™),
 Disopyramid (Rythmodul™, Rythmodan™),
 Prajmalin (Neo Gilurytmal™)
@@ -136,8 +136,8 @@ Prajmalin (Neo Gilurytmal™)
 
 **IB**: kurze Blockade
 
+:ref:`Lidocain <Lidocain>`  (Lidocorit™),
 Aprindin  (Amidonal™),
-**Lidocain**  (Lidocorit™),
 Mexiletin (Mexitil™),
 Phenytoin (Zentropril™),
 Tocainid  (Xylotocan™)
@@ -222,7 +222,7 @@ bis das Myokard zu einer neuerlichen Kontraktion bereit ist, des
 Herzgewebes verändert werden.
 
 
-**Amiodaron** (Cordarex™, Sedacoron™),
+:ref:`Amiodaron <Amiodaron>` (Cordarex™, Sedacoron™),
 *Sotalol*   (Sotalex™)\ (auch ein β-Blocker!)
 
 
@@ -238,7 +238,7 @@ Kammertachykardie) auslösen. Da Amiodaron zwei Iodatome enthält, kann es
 Schilddrüsenfunktionsstörungen auslösen.
 
 ⚠
-**Amiodaron (Cordarex™, Sedacoron™):**\ Kontraindikation bei
+Amiodaron: Kontraindikation bei
 Schilddrüsenerkrankungen!
 
 Klasse IV: „Kalziumantagonisten“
@@ -279,6 +279,8 @@ siehe Kalzium-Antagonisten
     **Verapamil (Isoptin™ Verapabene™, Verastad™)**: Einnahme unzerkaut zu
     den Mahlzeiten.
 
+
+
 Weitere Antiarrhythmika außerhalb der Vaughan-Williams-Einteilung
 =================================================================
 
@@ -287,7 +289,7 @@ Sympathomimetika:
 Diese Substanzklasse ahmt die Wirkung des Sympathikus nach:
 
 
-Adrenalin    (Suprarenin™),
+:ref:`Adrenalin <Adrenalin>` (Suprarenin™),
 Ocriprenalin (Alupent™)
 
 
@@ -306,7 +308,7 @@ Diese Substanzen steigern Herzfrequenz und Kontraktionskraft des
 Herzens, indem sie die hemmenden Einflüsse des Parasympathikus
 verringern.
 
-*Atropin*          (Atropinum sulfuricum™, Myocardon™),
+:ref:`Atropin <Atropin>`          (Atropinum sulfuricum™, Myocardon™),
 *Ipatropiumbromid* (Atrovent™, Itrop™, Berodual™)
 
 Atropin wird auch im Rahmen des ALS eingesetzt. Außerdem sind beide
@@ -853,7 +855,7 @@ Minoxidil            Lonolox™, Loniten™, Regaine™
 Nitroprussidnartrium Nipruss™
 ==================== ============================
 
-Die Hypertonie kann in Bereiche von über 220/120 mmHg
+Die Hypertonie kann in Bereiche von über 220 / 120 mm Hg
 steigen. Dann spricht man von einer Hypertensiven Krise. Dabei können
 schwere lebensbedrohliche Komplikationen (z.B. Hirnblutungen,
 Nierenversagen) auftreten. Es sollte eine rasche kontrollierte

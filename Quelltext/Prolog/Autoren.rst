@@ -24,7 +24,11 @@ Josef Emhofer
 
 Sebastian Gabriel
 
-    Dr.med.univ.
+    Dr. med. univ.
+
+    Facharzt für Anästhesiologie und Intensivmedizin,
+    Notarzt,
+    Arzt für Allgemeinmedizin
 
     Universitätsklinikum Krems, Karl Landsteiner Privatuniversität für
     Gesundheitswissenschaften, Klinische Abt. für Anästhesie und
@@ -34,24 +38,30 @@ Lena Hirtler
 
     Priv.-Doz. Mag. DDr.
 
+    Fachärztin für Anatomie
+
     Medizinische Universität Wien, Zentrum für Anatomie und Zellbiologie,
     Abt. für Anatomie, Wien
 
-
 Christof Koller
 
-    Mag.iur.
+    Mag. iur.
 
 Michael Motal
 
-    Dr.med.univ., BA
+    Dr. med. univ., BA
+
+    Facharzt für Anästhesiologie und Intensivmedizin
 
     Universitätsklinik für Anästhesie, Allgemeine Intensivmedizin und
     Schmerztherapie, Medizinische Universität Wien
 
 Johannes Steuer
 
-    Dr.med.univ., M.Sc.
+    Dr. med. univ., M.Sc.
+
+    Facharzt für Anästhesiologie und Intensivmedizin,
+    Notarzt
 
     Sozialmedizinisches Zentrum Floridsdorf Krankenhaus der Stadt Wien,
     Abteilung für Anästhesie und Intensivmedizin, Wien
@@ -78,17 +88,18 @@ Michael Auer
 
 Elisabeth Hartl
 
-  | Dr.med.univ.
+  | Dr. med. univ.
+  | Fachärztin für Innere Medizin
   | Landesklinikum Stockerau, 1. Medizinische Abteilung, Stockerau
 
 David Hauer
 
-  | Dr.med.univ.
+  | Dr. med. univ.
   | Landesklinikum Amstetten
 
 Gerhard Gabriel
 
-  | Dr.med.univ.
+  | Dr. med. univ.
   | Facharzt für Innere Medizin, Langenzersdorf
 
 .. raw:: latex
@@ -125,9 +136,9 @@ Mitwirkende
     \begin{ParWide}
     \begin{multicols}{3}
 
--  Christine Gabriel, Dr.med.univ.
+-  Christine Gabriel, Dr. med. univ.
 
--  Bernhard Göritzer, Dr.med.univ.
+-  Bernhard Göritzer, Dr. med. univ.
 
 Weiters danken wir allen Einsendern, welche uns Fehler gemeldet und uns
 mit ihrer konstruktiven Kritik unterstützt haben.

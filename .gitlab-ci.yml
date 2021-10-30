@@ -10,14 +10,14 @@ pages:
   - pip3 install sphinx sphinx-material sphinxcontrib.bibtex sphinx_git sphinxcontrib-actdiag sphinxcontrib-blockdiag sphinxcontrib-seqdiag sphinxcontrib-nwdiag
   - apk --no-cache add make
   - pwd
-  - git checkout Entwicklung
+  - git checkout master
   - git status
   - mkdir ~/.font
   - cp Quelltext/_static/source-sans-3/TTF/* ~/.font
   - make html
-  - mv Export/Entwicklung/html public
+  - mv Export/master/html public
   artifacts:
     paths:
     - public
   only:
-  - Entwicklung
+  - master

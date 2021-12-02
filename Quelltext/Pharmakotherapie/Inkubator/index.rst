@@ -21,7 +21,6 @@ Themen, die in Bearbeitung, aber noch nicht "fertig" sind.
     Antibiotika/index
     Hormonsystem/index
     Immunsuppressiva-Zytostatika/index
-    Impfplan/index
     Respirationstrakt/index
     SonstigeAntiinfaktiva/index
     Vergiftungen/index

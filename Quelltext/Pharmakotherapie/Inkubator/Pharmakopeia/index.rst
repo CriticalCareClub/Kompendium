@@ -5,7 +5,6 @@ Pharmakopeia — Inkubator
 .. toctree::
     :maxdepth: 1
 
-    Adrenalin/index
     Ajmalin/index
     Amiodaron/index
     Antiarrhythmika/index

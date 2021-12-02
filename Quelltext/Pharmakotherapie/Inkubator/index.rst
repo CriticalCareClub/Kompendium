@@ -3,10 +3,16 @@ Inkubator
 
 Themen, die in Bearbeitung, aber noch nicht "fertig" sind.
 
+..rubric:: Prioritäten:
+
+    -   Noradrenalin
+
+
 .. toctree::
     :maxdepth: 2
     :caption: Inhalt
 
+    Pharmakopeia/index
     Allgemein/index
     Herz-Kreislauf/index
     Blut/index

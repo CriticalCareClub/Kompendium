@@ -256,7 +256,7 @@ kohlendioxidreich.
 Gase sind nun bestrebt ihre Konzentrationen
 auszugleichen und bewegen sich vom Ort der höheren zur niedrigeren
 Konzentration.
-Dieser Vorgang wird *Diffusion* genannt.
+Dieser Vorgang wird :ref:`Diffusion <Diffusion>` genannt.
 Durch diese Diffusionsbewegung kommt es zum Gasaustausch:
 Der in der Einatemluft enthaltene Sauerstoff gelangt aus den Alveolen in das Blut
 und Kohlendioxid wird im Gegenzug vom Blut an die Alveolen abgegeben.

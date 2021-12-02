@@ -1,6 +1,11 @@
 
-Ketamin, S-
------------
+.. index::
+    single: Esketamin
+
+.. _Esketamin:
+
+Esketamin
+###############
 
 
 .. warning::

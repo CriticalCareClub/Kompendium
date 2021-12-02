@@ -5,7 +5,7 @@
 .. _Terbutalin:
 
 Terbutalin
-==========
+######################
 
 :Spezialitäten:
 

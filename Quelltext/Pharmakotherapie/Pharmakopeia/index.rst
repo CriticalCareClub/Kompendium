@@ -9,6 +9,7 @@ Pharmakopeia
 .. toctree::
     :maxdepth: 1
 
+    Adrenalin/index
     Acetazolamid/index
     Adenosin/index
     Esmolol/index

@@ -5,6 +5,8 @@
     pair: Reanimation; Amiodaron
     pair: Reanimation; Sedacoron™
 
+.. _Reanimation-Pharmaka:
+
 #######################################################################
 *Pharmakotherapie*
 #######################################################################

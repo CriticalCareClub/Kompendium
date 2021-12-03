@@ -1,7 +1,7 @@
 .. index::
   single:Amiodaron
 
-.. _Topic-Amiodaron:
+.. _Amiodaron:
 
 ########################################################################
 Amiodaron

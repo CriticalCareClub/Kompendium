@@ -584,9 +584,6 @@ Erreger ist antibiotisch schwer behandelbar und besonders Armut und
 schlechte hygienische Zustände tragen zur weltweiten Ausbreitung bei.
 
 
-.. figure:: media/Pictures/100000000000041A000002BCF72AB8D2FC2C473F.jpg
-    :width: 100%
-
 
 
 .. attention:: Tuberkulose ist bei Erkrankung und beim Todesfall meldepflichtig!
@@ -634,11 +631,10 @@ Tuberkelbakteriums (proliferierend, ruhend und persistierend) das
 Chemotherapeutikum der ersten Wahl. Es hemmt die bakterielle
 RNA-Polymerase.
 
-.. figure:: media/Pictures/10000332000069BB0000550F1A9A5BFE12DC56AC.wmf
-   :width: 100%
 
-Patienten auf die ev. Orangefärbung von Speichel, Tränen, Urin und Stuhl
-hinweisen.
+.. attention::
+
+    Patienten auf die ev. Orangefärbung von Speichel, Tränen, Urin und Stuhl hinweisen.
 
 unerwünschte Wirkungen:
 

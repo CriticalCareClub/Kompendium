@@ -574,13 +574,13 @@ andocken soll. Dadurch bewirken sie wie die ACE-Hemmer eine
 Blutdrucksenkung und eine Besserung der Herzinsuffizienz.
 
 =========== =======================
-Candesartan.(Blopress™, Atacand™)
-Eprosartan .(Teveten™)
-Irbesartan .(Aprovel™, Karvea™)
-Losartan   .(Lorzaar™, Cosaar™)
-Olmesartan .(Olmetec™, Mencord™)
-Telmisartan.(Micardis™, Pritor™)
-Valsartan  .(Diovan™)
+Candesartan (Blopress™, Atacand™)
+Eprosartan  (Teveten™)
+Irbesartan  (Aprovel™, Karvea™)
+Losartan    (Lorzaar™, Cosaar™)
+Olmesartan  (Olmetec™, Mencord™)
+Telmisartan (Micardis™, Pritor™)
+Valsartan   (Diovan™)
 =========== =======================
 
 Verwendet werden sie bei arterieller Hypertonie und Herzinsuffizienz.
@@ -610,28 +610,28 @@ kann man drei Gruppen einteilen:
 -  Nifedipin-Typ: Wirkungsschwerpunkt glatte Muskulatur
 
 =========== =========================================================
-Amlodipin  .(Norvasc™, Caduet™, Amlocor™)
-Felodipin  .(Modip™, Munobal™, Plendil™)
-Isradipin  .(Lomir™)
-Nicardipin .(Antagonil™, Karden™)
-Nifedipin  .(Adalat™, Buconif™, Fedip™, Nifal™, Nifebene™, Niften™)
-Nimodipin  .(Nimotop™)
-Nisoldipin .(Baymycard™, Syscor™)
-Nitrendipin.(Bayotensin™, Baypress™, Cenipres™)
+Amlodipin   (Norvasc™, Caduet™, Amlocor™)
+Felodipin   (Modip™, Munobal™, Plendil™)
+Isradipin   (Lomir™)
+Nicardipin  (Antagonil™, Karden™)
+Nifedipin   (Adalat™, Buconif™, Fedip™, Nifal™, Nifebene™, Niften™)
+Nimodipin   (Nimotop™)
+Nisoldipin  (Baymycard™, Syscor™)
+Nitrendipin (Bayotensin™, Baypress™, Cenipres™)
 =========== =========================================================
 
 -  Diltiazem-Typ: Wirkung an glatter Muskulatur, Myokard,
    Erregungssystem
 
 ========= ========================
-Diltiazem.(Dilzem™, Diltiastad™)
+Diltiazem (Dilzem™, Diltiastad™)
 ========= ========================
 
 -  Verapamil-Typ: Wirkung an Myokard und Erregungsystem
 
 ========== ========================================================
-Gallopamil.(Procorum™)
-Verapamil .(Isoptin™, Verapabene™, Verastad™, Confit™, Veracapt™)
+Gallopamil (Procorum™)
+Verapamil  (Isoptin™, Verapabene™, Verastad™, Confit™, Veracapt™)
 ========== ========================================================
 
 Ihre Ersatzgebiete sind arterielle Hypertonie, Raymaud-Syndrom, KHK,
@@ -658,10 +658,10 @@ sehr schnell wirken und die akuten Schmerzen nehmen. Weiters werden sie
 bei Herzinsuffizienz und bei der hypertensiven Krise verwendet.
 
 ============================= =================================
-Glyceroltrinitrat            .(Nitroglycerin™)
-Isosorbid-5-mononitrat       .(Ismo™, Monoket™, Myokardon™)
-Isosorbiddinitrat            .(Isoket™, Cedocard™, Viskenit™)
-**Molsidomin** Nitrat-ähnlich.(Corvaton™, Molsidolat™)
+Glyceroltrinitrat             (Nitroglycerin™)
+Isosorbid-5-mononitrat        (Ismo™, Monoket™, Myokardon™)
+Isosorbiddinitrat             (Isoket™, Cedocard™, Viskenit™)
+**Molsidomin** Nitrat-ähnlich (Corvaton™, Molsidolat™)
 ============================= =================================
 
 unerwünschte Effekte:
@@ -850,7 +850,7 @@ abends), Ejakulationsstörungen, Schwäche, Müdigkeit, Kopfschmerzen
 Gefäßwiderstandes
 
 ==================== ============================
-Dihydralazin        .(Nepresol™)
+Dihydralazin         (Nepresol™)
 Minoxidil            Lonolox™, Loniten™, Regaine™
 Nitroprussidnartrium Nipruss™
 ==================== ============================
@@ -880,10 +880,10 @@ Daher ist die Therapie auch nur bei bestehender Symptomatik indiziert:
 -  ausreichende Kochsalzzufuhr
 -  prophylaktische Verhaltensweisen (langsam aus dem Sitzen hochkommen,
    Kompressionsstrümpfe)
--  medikamentös können Vasokonstriktoren (z.B..(Dihydroergotamin
-   DHE**), Sympathomimetika (z.B..(Etilefrin, Effortil™**),
-   Mineralocorticoide (z.B..(Fludrocortison, Astonin H™**)und
-   α-Rezeptorantagonisten (z.B..(Midorin**) zum Einsatz kommen.
+-  medikamentös können Vasokonstriktoren (z.B. Dihydroergotamin
+   DHE), Sympathomimetika (z.B. (Etilefrin, Effortil™),
+   Mineralocorticoide (z.B. (Fludrocortison, Astonin H™)und
+   α-Rezeptorantagonisten (z.B. (Midorin**) zum Einsatz kommen.
 
 Herzrhythmus-Störungen
 ======================

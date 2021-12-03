@@ -10,8 +10,6 @@
 
     Synthese: L-Tyrosin → L-DOPA → Dopamin → Noradrenalin → Adrenalin
 
-.. toctree::
-    Adrenalin/index
 
 
 Dobutamin

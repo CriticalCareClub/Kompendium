@@ -41,6 +41,7 @@ spezielle Maßnahmen der Sanitätshilfe.
     Helmabnahme/index
     HWSSchiene/index
     Schaufeltrage/index
+    Vakuummatratze/index
     Spineboard/index
     Gurtsysteme/index
     Rettungskorsett/index

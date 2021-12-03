@@ -849,7 +849,7 @@ verbunden.
         -   Bauchfell (Peritoneum)
 
 Der kaudale Abschluss des Rumpfes — das Becken sowie der Beckenboden —
-werden im Abschnitt der :ref:`unteren Extremität <_Beckenboden>` besprochen.
+werden im Abschnitt der :ref:`unteren Extremität <Beckenboden>` besprochen.
 
 
 

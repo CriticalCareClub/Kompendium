@@ -1,7 +1,7 @@
 .. index::
   single: Lidocain
 
-.. _Topic-Lidocain:
+.. _Lidocain:
 
 ########################################################################
 Lidocain

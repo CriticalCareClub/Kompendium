@@ -2,7 +2,7 @@
     single: Adrenalin
     single: Epinephrin
 
-.. _Adrenalin_:
+.. _Adrenalin:
 .. _Epinephrin:
 
 Adrenalin (Epinephrin)

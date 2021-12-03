@@ -89,13 +89,7 @@ Kontraindikationen: Schwangerschaft, Stillzeit, kleine Kinder (vor allem
 die neueren Antihistaminika)
 
 
-.. figure:: media/Pictures/100000000000041A000002BCF72AB8D2FC2C473F.jpg
-    :width: 100%
-
-    ₢ Lena Hirtler  :term:`ℓ MfG`
-
-
-Durch Antihistaminika Einschränkung der Verkehrstüchtigkeit!
+.. danger:: Durch Antihistaminika Einschränkung der Verkehrstüchtigkeit!
 
 Expektorantien
 ---------------

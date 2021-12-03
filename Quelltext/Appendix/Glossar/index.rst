@@ -66,6 +66,9 @@ Abkürungsverzeichnis und Glossar
         die EPH-Gestose bzw. Präekplampsie,
         die Eklampsie und das HELLP-Syndrom.
 
+    ICP
+        Intracranial Pressure; intrakranieller Druck
+
     ICR
         Intercostalraum. Vgl. :ref:`Intercostalraum`
 

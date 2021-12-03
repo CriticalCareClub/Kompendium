@@ -248,8 +248,9 @@ allerdings mit einer langsameren Frequenz [#Erregungsbildung]_:
 
 .. sidebar:: Etagen des Reizleitungssystems
 
-    -   **Sinusknoten**: reguläres Schrittmacherzentrum, Frequenz beim Erwachsenen
-    in Ruhe von ca. *60—100 / min*, bei Belastung steigerbar.
+    -   **Sinusknoten**: reguläres Schrittmacherzentrum,
+        Frequenz beim Erwachsenen
+        in Ruhe von ca. *60—100 / min*, bei Belastung steigerbar.
     -   **Atrioventrikular-Knoten** (**AV-Knoten**):
         einzige physiologische *elektrische Verbindung* *zwischen Vorhof und
         Kammer*, Frequenzfilter, damit sich die Kammern erst nach dem Vorhof

@@ -1,6 +1,11 @@
 
+.. index::
+    single: Paracetamol
+
+.. _Paracetamol:
+
 Paracetamol
-===========
+#####################
 
 Spezialitäten
 

@@ -16,10 +16,12 @@ Pharmakopeia — Inkubator
     Diazepam/index
     Dimethylaminophenol/index
     Diuretika/index
+    S-Ketamin/index
     Etomidat/index
     Fenoterol/index
     Fentanyl/index
     Flumazenil/index
+    Furosemid/index
     Gentamycin/index
     Glycopyrronium/index
     Heparin/index
@@ -49,6 +51,7 @@ Pharmakopeia — Inkubator
     Rocuronium/index
     Sufentanil/index
     Suxamethonium/index
+    Terbutalin/index
     Theophyllin/index
     Tranexamsaeure/index
     Verapamil/index

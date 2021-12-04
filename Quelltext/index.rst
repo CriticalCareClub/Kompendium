@@ -67,12 +67,6 @@ Arbeits- und Ausbildungsstandards für den Sanitätsdienst
 
 
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Projektorganisation
-
-    Organisation/index
-
 ..
     .. only:: html
 

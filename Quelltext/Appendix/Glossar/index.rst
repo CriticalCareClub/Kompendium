@@ -1,5 +1,5 @@
 
-Abkürungsverzeichnis und Glossar
+Abkürzungsverzeichnis und Glossar
 ########################################################################
 
 .. raw:: latex

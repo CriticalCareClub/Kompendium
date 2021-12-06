@@ -1,12 +1,14 @@
 
 
+####################
 Reproduktives System
-************************************************************************
+####################
 
 .. _allgemeine-anatomie-6:
 
+*******************
 Allgemeine Anatomie
-===================
+*******************
 
 Beim Genitalsystem gibt es mehrere Einteilungsmethoden:
 
@@ -22,8 +24,9 @@ Beim Genitalsystem gibt es mehrere Einteilungsmethoden:
         außerhalb des Genitalbereichs auftretende Geschlechtsmerkmale
         (Behaarung, Stimmbruch, Menstruation, Brustentwicklung)
 
+***************************
 Männliche Geschlechtsorgane
-===========================
+***************************
 
 -   Zu den *inneren* Geschlechtsorganen des Mannes gehören: Hoden
     (Testis), Nebenhoden (Epididymis), Samenleiter (Ductus deferens),
@@ -42,7 +45,7 @@ Männliche Geschlechtsorgane
 
 
 Testes (Hoden)
---------------
+==============
 
 Ungefähr pflaumengroß sind die Hoden die Keimdrüsen des Mannes. Sie
 liegen im *Hodensack (Scrotum)*. Nach ihrer Entstehung an der Rückwand
@@ -109,7 +112,7 @@ zum Ende des Eileiters. Es besteht aus mehreren Teilen:
     -   Endstück
 
 Epididymis (Nebenhoden) und Ductus deferens (Samenleiter)
----------------------------------------------------------
+=========================================================
 
 Nach dem Hoden kommen die Spermien über das Rete testis und die Ductuli
 efferentes in den Nebenhoden und werden dort gespeichert.
@@ -147,7 +150,7 @@ Hodenhüllen bildet er den *Funiculus spermaticus* (Samenstrang), der in
 seiner Gesamtheit durch den Leistenkanal verläuft.
 
 Glandula vesiculosa (Bläschendrüse), Prostata (Vorsteherdrüse) und Cowper-Drüsen (Glandulae bulbourethrales)
-------------------------------------------------------------------------------------------------------------
+============================================================================================================
 
 Die *Glandula vesiculosa* (Bläschendrüse / Samenbläschen) liegt an der
 Rückseite der Harnblase (Vesica urinaria), sie grenzen links und rechts
@@ -187,7 +190,7 @@ alkalisch - es schützt somit die Spermien vor dem sauren Milieu in der
 Scheide.
 
 Scrotum (Hodensack) und Hodenhüllen
------------------------------------
+===================================
 
 Der Hodensack dient der Aufbewahrung des Hodens außerhalb des
 Körperkernes. Die Temperaturdifferenz von 3° dient der optimalen
@@ -233,8 +236,9 @@ Drei *Schwellkörper* ermöglichen die Erektion des Penis:
 Alle Schwellkörper sind durch eine derbe *Bindegewebshaut* (Tunica
 albuginea) umhüllt.
 
+***************************
 Weibliche Geschlechtsorgane
-===========================
+***************************
 
 -   Zu den *inneren* Geschlechtsorganen der Frau gehören: Ovar
     (Eierstöcke), Tuba uterina (Eileiter), Uterus (Gebärmutter), Vagina
@@ -254,7 +258,7 @@ Weibliche Geschlechtsorgane
 
 
 Ovar (Eierstöcke)
------------------
+=================
 
 Ebenso wie die Hoden entstehen auch die Ovarien an der Rückwand der
 Bauchhöhle und wandern während des Descensus ovariae in das kleine
@@ -299,7 +303,7 @@ Nach der Ovulation gelangt die Eizelle in den Anfangsteil des Ovars. In
 der *Ampulle des Eileiters* kommt es zur Befruchtung.
 
 Zyklus
-------
+======
 
 Beginn des Menstruationszyklus (*Menarche*) ca. zwischen dem 10. und 15.
 Lebensjahr. Die *Menopause* ist um das 50. Lebensjahr, beginnt jedoch
@@ -344,7 +348,7 @@ Progesteron statt. Sie ist daher als Abbruchblutung zu verstehen.
 
 
 Tuba uterina / Salpinx (Eileiter)
----------------------------------
+=================================
 
 Ca. 10 - 15 cm lange Schläuche, über *Mesosalpinx* beweglich am Lig.
 latum uteri befestigt.
@@ -360,7 +364,7 @@ Peristaltik der Tuben durch ihre Kinozilien (Flimmerhärchen)
 gewährleistet. Die Eizelle braucht in diesem Abschnitt ca. *4 - 6 Tage*.
 
 Uterus (Gebärmutter)
---------------------
+====================
 
 Der Uterus liegt im kleinen Becken zwischen Harnblase und Rektum.
 Folgende Abschnitte können unterschieden werden:
@@ -394,7 +398,7 @@ Der Uterus zeigt *zwei Krümmungen* und liegt so der Harnblase auf:
 -   Anteflexio uteri: Krümmung zwischen Cervix und Corpus uteri
 
 Vagina (Scheide)
-----------------
+================
 
 Die Scheide ist ein ca. 10 cm lange Schlauch und bildet an der *Portio
 vaginalis* des Uterus das Scheidengewölbe. Über Schleim aus den
@@ -405,7 +409,7 @@ Dieses Milieu ist die erste Barriere gegen das Eindringen von Bakterien
 oder anderen Keimen.
 
 Vestibulum vaginae (Scheidenvorhof), Labia minora et majora (Schamlippen), Clitoris (Kitzler)
----------------------------------------------------------------------------------------------
+=============================================================================================
 
 = Vulva
 
@@ -425,7 +429,7 @@ Scheidenmündung. Neben der Mündungsstelle der Urethra münden die
 *Glandulae paraurethrales (Skene-Drüsen)*.
 
 Mamma (weibliche Brust)
------------------------
+=======================
 
 Die weibliche Brust besteht aus Drüsen-, Fett- und Bindegewebe und liegt
 dem M. pectoralis major auf (ca. 3. bis 7. Rippe). Der Drüsenkörper
@@ -439,8 +443,9 @@ abgegeben wird. Prolaktin aus dem Hypophysenvorderlappen sorgt bei der
 Frau für das Einschießen der Milch, das Oxytocin aus dem
 Hypophysenhinterlappen steuert die Milchabgabe.
 
+***************
 Schwangerschaft
-===============
+***************
 
 Die Schwangerschaft umfasst die Befruchtung der Eizelle, den
 Keimtransport in Richtung Gebärmutter, die Einnistung in den Uterus, die
@@ -451,7 +456,7 @@ Entwicklung des Keimes zum Embryo und dann zum Fetus sowie die Geburt.
 -   Feuts: ab 8. Woche: Wachstum und Differenzierung der Organsysteme.
 
 Befruchtung
------------
+===========
 
 Die Spermien suchen die Eizellen aktiv auf. Von der Gebärmutter braucht
 das Spermium bis zur Ampulle des Eileiters ca. 1-3 Stunden (3 mm/h).
@@ -475,7 +480,7 @@ kann man eine äußere Zellhülle (*Trophoblast*) und eine innere
 Zellgruppe (*Embryoblast*) unterscheiden.
 
 Implantation, Plazenta
-----------------------
+======================
 
 Am 5. Tag nistet sich die Blastozyste in der Uterusschleimhaut ein. Der
 Embryoblast entwickelt sich im weiteren Verlauf zum Embryo, der
@@ -505,7 +510,7 @@ verbunden. Sie enthält eine Nabelvene (V. umbilicalis), und zwei
 Nabelarterien (Aa. umbilicales).
 
 Früh- und Embryonalentwicklung
-------------------------------
+==============================
 
 In der Frühentwicklung (1.-3. Woche) wird die Leibesfrucht als Keim
 bezeichnet.
@@ -544,7 +549,7 @@ Nase, Lippen, Ohren und Kinn sind bereits erkennbar. Die Finger und
 Zehen entwickeln sich.
 
 Fetalentwicklung
-----------------
+================
 
 Die Fetalzeit beginnt mit der 9. Woche und geht bis zur 38. Woche. Alle
 Organe sind bereits angelegt. Man spricht dementsprechend vom Fetus.
@@ -583,8 +588,9 @@ Hier können sichere und unsichere unterschieden werden.
 Die Schwangerschaft dauert durchschnittlich *10 Mondmonate zu 28 Tagen =
 40 Wochen*.
 
+******
 Geburt
-======
+******
 
 Folgende Phasen können bei der Geburt unterschieden werden:
 
@@ -600,7 +606,7 @@ Folgende Phasen können bei der Geburt unterschieden werden:
     nach der Geburt des Kindes.
 
 Nach der Geburt
----------------
+===============
 
 Folgende Lebensphasen werden bis zum Erwachsenenalter unterschieden:
 
@@ -618,7 +624,7 @@ als Pubertas praecox, nach dem 15. bis 16. Lebensjahr als Pubertas
 tarda.
 
 Biotypologie
-------------
+============
 
 Die Biotypologie beschreibt die Beurteilung des Körperbaus und den
 Versuch des Schlusses auf innere Werte und Wesenszüge. Hier gibt es

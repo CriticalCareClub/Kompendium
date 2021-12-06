@@ -1,11 +1,13 @@
 
 .. _Bewegungsapparat:
 
+################
 Bewegungsapparat
-************************************************************************
+################
 
+*******************
 Allgemeine Anatomie
-===================
+*******************
 
 .. only:: not nosidebar
 
@@ -41,7 +43,7 @@ der Muskel (*Muskelfaszien*, *Schleimbeutel*, *Sehnenscheiden*, *Sesambeine*).
     single: Synostosen
 
 Knochenverbindungen (Juncturen)
--------------------------------
+===============================
 
 Knochenverbindungen (Juncturen) können in
 **Synarthrosen** (kontinuierliche / unbewegliche
@@ -66,7 +68,7 @@ unterteilt werden.
     single: Synostose
 
 Synarthrosen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------
 
 Bei Synarthrosen können unterschieden werden:
 
@@ -96,7 +98,7 @@ Bei Synarthrosen können unterschieden werden:
     single: Chondrozyten
 
 Diarthrosen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------
 
 Diarthrosen,
 die umgangssprachlich "klassischen" Gelenke (*Articulationes*, *Art.*),
@@ -215,7 +217,7 @@ unterscheiden:
     eine wichtige Rolle spielen (z.B. Kniegelenk).
 
 Muskelmechanik
---------------
+==============
 
 Muskeln überspannen mindestens ein Gelenk und sind direkt oder über
 Sehnen an den angrenzenden Knochen befestigt. Zur durchgehenden
@@ -316,8 +318,9 @@ Form der Synapse.
 
 .. _Rumpf:
 
+***************
 Rumpf (Truncus)
-===============
+***************
 
 Zum Rumpfskelett gehören die Columna vertebralis (Wirbelsäule) sowie die
 Knochen des Thorax (Brustkorbs) - Costae (Rippen) und Sternum
@@ -333,7 +336,7 @@ Knochen des Thorax (Brustkorbs) - Costae (Rippen) und Sternum
 .. _Wirbelsaeule:
 
 Wirbelsäule (Columna vertebralis)
----------------------------------
+=================================
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Wirbel-allgemein.*
@@ -529,7 +532,7 @@ Die Bänder können kalzifizieren ("verknöchern") und dadurch die Punktion ersc
 
 
 Rückenmuskulatur
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------
 
 Diese Muskelgruppe ist wichtig für die Bewegung des Rumpfes - Streckung,
 Drehung, Seitneigung - und für die Stabilisierung der Wirbelsäule.
@@ -563,7 +566,7 @@ Grundsätzlich werden *zwei Muskelguppen* unterschieden:
 .. _RippenGefaessNervenbuendel:
 
 Thorax (Brustkorb)
-------------------------------------------------------------------------
+==================
 
 .. only:: not nosidebar
 
@@ -675,7 +678,7 @@ Rippen).
     single: Punctum; fixum
 
 Thoraxmuskulatur
-^^^^^^^^^^^^^^^^^^^^^
+----------------
 
 .. figure:: /Bilder/WikipediaPd/Thorax.*
     :width: 70%
@@ -744,7 +747,7 @@ innen):
 -   Binnenschichten des Brustkorbs
 
 Bauchwand
----------
+=========
 
 :deep:`Die *Begrenzung der Bauchwand* sind der Angulus infrasternalis, die
 Crista iliaca, der Sulcus inguinalis und der Sulcus pubis.`
@@ -859,8 +862,9 @@ werden im Abschnitt der :ref:`unteren Extremität <Beckenboden>` besprochen.
 
 .. _Hals:
 
+*************
 Collum (Hals)
-=============
+*************
 
 Der Hals umfasst alle sieben Halswirbeln und reicht von der oberen
 Thoraxapertur bis zur Mandibula.
@@ -910,8 +914,9 @@ eingeteilt (oberflächliches, mittleres und tiefers Blatt).
     single: Kopf
     single: Caput
 
+************
 Caput (Kopf)
-============
+************
 
 
 .. figure:: /Bilder/WikipediaCcBy/Human_skull_front_simplified_bones_de-edited.*
@@ -924,7 +929,7 @@ Caput (Kopf)
 
 
 Schädel (Cranium)
-------------------------
+=================
 
 Am Kopfschädel können zwei Abschnitte unterschieden werden:
 
@@ -1009,7 +1014,7 @@ Wachstumszonen, die **Fontanellen**:
 
 
 Muskeln des Kopfes
-------------------
+==================
 
 Hier werden zwei Gruppen unterschieden:
 
@@ -1027,7 +1032,7 @@ Hier werden zwei Gruppen unterschieden:
 
 
 Kiefergelenk (Art. temporomandibularis)
----------------------------------------
+=======================================
 
 Art: *Dreh-Scharniergelenk (Trochoginglymus)* mit einem Discus
 articularis.
@@ -1054,8 +1059,9 @@ möglich.
 .. _MembrumSuperius:
 .. _ObereExtremitaet:
 
+***********************************
 Obere Extremität (Membrum superius)
-===================================
+***********************************
 
 
 .. figure:: /Bilder/WikipediaPd/Human_arm_bones_diagram_de-edited.*
@@ -1140,7 +1146,7 @@ Zur oberen Extremität gehören folgende Skelett-Anteile:
 .. _Scapula:
 
 Scapula (Schulterblatt)
-------------------------------------------------------------------------
+=======================
 
 Die Scapula bildet den hinteren Teil Schultergürtels.
 Sie ist ein platter, einem Dreieck ähnlicher, Knochen
@@ -1182,7 +1188,7 @@ Proc. coracoideus und Acromion), Lig. transversum scapulae sup.
 .. _Clavicula:
 
 Clavicula (Schlüsselbein)
-------------------------------------------------------------------------
+=========================
 
 s-förmig
 
@@ -1206,7 +1212,7 @@ Die durch die Mitte des Schlüsselbeins laufende Linie bezeichnet man als Mediok
 .. _Humerus:
 
 Humerus (Oberarmknochen)
-------------------------------------------------------------------------
+========================
 
 Der **Humerus** (*Oberarmknochen*)
 bildet als einzelner Knochen den Oberarm.
@@ -1240,7 +1246,7 @@ Aufgrund seiner Nahebeziehung des N. radialis zum Knochen ist er bei Humerusfrak
 .. _Radius:
 
 Radius (Speiche)
-------------------------------------------------------------------------
+================
 
 Extremitas proximalis: Caput radii mit Fovea articularis und der
 Circumferentia articularis, Collum radii, Tuberositas radii.
@@ -1264,7 +1270,7 @@ verbunden.
 .. _Ulna:
 
 Ulna (Elle)
-------------------------------------------------------------------------
+===========
 
 Extremitas proximalis: Olecranon, Incisura trochlearis, Proc.
 cornoideus, Incisura radialis, Tuberculum ulnae.
@@ -1288,7 +1294,7 @@ verbunden.
 .. _OssaCarpi:
 
 Ossa carpi
-------------------------------------------------------------------------
+==========
 
 Merksatz: Ein Schiffchen (Os scaphoideum) fährt im Mondenschein (Os
 lunatum) dreimal (Os triquetrum) um das Erbsenbein (Os pisiforme),
@@ -1316,7 +1322,7 @@ medianus.
 .. _OssaMetacarpi :
 
 Ossa metacarpi (Metakarpalknochen)
-------------------------------------------------------------------------
+==================================
 
 Zeigen jeweils ein Caput, ein Corpus und eine Basis.
 
@@ -1348,7 +1354,7 @@ Digitus minimus
 .. _ArticulatioSternoclavicularis:
 
 Articulatio sternoclavicularis (Sternoklavikulargelenk)
-------------------------------------------------------------------------
+=======================================================
 
 Das Sternoklavikulargelenk verbindet den Arm über das Schlüsselbein mit
 dem Sternum. Es ist von der Funktion her ein *Kugelgelenk* und besitzt
@@ -1377,7 +1383,7 @@ Folgende Bänder stabiliseren das Art. sternoclavicularis:
 .. _ArticulatioAcromioclavicularis:
 
 Articulatio acromioclavicularis (Akromioklavikulargelenk)
-------------------------------------------------------------------------
+=========================================================
 
 Das Akromioklavikulargelenk ist eine *plane Knochenverbindung* zwischen
 Arcomion (Schulterblatt) und Clavicula. Auch dieses Gelenk besitzt einen
@@ -1405,7 +1411,7 @@ Folgende Bänder stabilisieren das Akromioklavikulargelenk:
 .. _Schultergelenk:
 
 Articulatio glenohumeralis (Schultergelenk)
-------------------------------------------------------------------------
+===========================================
 
 Das Schultergelenk ist ein *klassisches Kugelgelenk* und befindet sich
 zwischen Glenoid der Scapula und Humeruskopf. Durch das inadäquate
@@ -1453,7 +1459,7 @@ Schultergelenk wird daher auch als muskelgesichert beschrieben.
 .. _Ellenbogengelenk:
 
 Articulatio cubiti (Ellenbogengelenk)
--------------------------------------
+=====================================
 
 Das Ellenbogengelenk ist ein *zusammengesetztes Gelenk* und besteht aus
 den folgenden Untergelenken:
@@ -1490,7 +1496,7 @@ knochen- und bandgesichert.``
     single: Articulationes; interphalangeales
 
 Gelenke der Hand
-----------------
+================
 
 Die wichtigsten Gelenke der Hand sind:
 
@@ -1527,7 +1533,7 @@ Die wichtigsten Gelenke der Hand sind:
 
 
 Wichtige Muskeln der oberen Extremität
-------------------------------------------------------------------------
+======================================
 
 .. todo:: `#115: Muskeln der oberen Extremität: Zuordnung Spinalnerven, Kennmuskeln <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/115>`_
 
@@ -1629,8 +1635,9 @@ Wichtige Muskeln der oberen Extremität
 
 .. _untere-extremitaet:
 
+************************************
 Untere Extremität (Membrum inferius)
-====================================
+************************************
 
 Das Bein gilt als freie untere Extremität und kann in mehrere Bereiche
 eingeteilt werden - *Oberschenkel (Femur), Unterschenkel (Crus) und Fuß
@@ -1670,7 +1677,7 @@ Zur unteren Extremität gehören folgende Skelett-Anteile:
         Phalanx proximalis, distalis I-V; media nur II-V (insg. 14 Ossa digitorum)!
 
 Beckenknochen (Os coxae)
------------------------------------------------
+========================
 
 Das Os coxae besteht aus drei verschiedenen Knochenteilen - dem *Os
 ilium* (Darmbein), dem *Os pubis* (Schambein) und dem *Os ischii*
@@ -1695,7 +1702,7 @@ Os ischium: Corpus, Spina ischiadica, Ramus ischiadicum mit dem Tuber
 ischiadicum.
 
 Femur
------------------------------------------------
+=====
 
 Der :dfn:`Femur` (*Oberschenkelknochen*) bildet als einziger
 Knochen den Oberschenkel. Er ist gekenzeichnet durch einen ausgeprägten
@@ -1718,7 +1725,7 @@ patellaris (ventral), Fossa intercondylaris (dorsal), Epicondylus
 medialis, Epicondylus lateralis.
 
 Patella
------------------------------------------------
+=======
 
 Die
 :dfn:`Patella` (*Kniescheibe*)  für eine bessere Kraftübertragung des
@@ -1733,7 +1740,7 @@ Facies anterioris patellae
 Facies posterioris patellae mit der Gelenkfläche
 
 Unterschenkel: Schienbein (Tibia) und Wadenbein (Fibula)
---------------------------------------------------------
+========================================================
 
 Der :dfn:`Unterschenkel` wird von der
 **Tibia**\ [#Tibia]_ (*Schienbein*)
@@ -1768,7 +1775,7 @@ Die Tibia und Fibula sind über die Zwischenknochenmembran
 
 
 Ossa tarsi
------------------------------------------------
+==========
 
 Der Fuß zeigt 2 Gewölbe - das Längsgewölbe und das Quergewölbe
 
@@ -1780,14 +1787,14 @@ intermedium und laterale
 
 
 Ossa metatarsi
------------------------------------------------
+==============
 
 Zeigen jeweils ein Caput, ein Corpus und eine Basis.
 
 
 
 Ossa digiti
------------------------------------------------
+===========
 
 mit Phalanx proximalis und distalis:
 
@@ -1809,7 +1816,7 @@ Digitus quintus
 .. _Beckenring:
 
 Pelvis (Beckenring)
--------------------
+===================
 
 Das Becken ist ein ringförmiger Knochenverbund bestehend aus
 den beiden *Ossa coxae* (Hüftknochen)
@@ -1874,7 +1881,7 @@ Von superficial nach profund unterscheidet man:
 
 
 Articulatio coxae (Hüftgelenk)
-------------------------------
+==============================
 
 Das Hüftgelenk verbindet Acetabulum und Caput femoris gelenkig. Es ist
 ein *Kugelgelenk (Nussgelenk)* und ermöglicht folgende Gelenke: Flexion
@@ -1894,7 +1901,7 @@ Folgende Bänder stabilisieren das Gelenk:
     capitis femoris, wichtig für die Blutversorgung des Caput femoris.
 
 Articulatio genus (Kniegelenk)
-------------------------------
+==============================
 
 
 Das :dfn:`Kniegelenk` verbindet den Ober- und Unterschenkel
@@ -1953,7 +1960,7 @@ ausführen kann: Flexion — Extension, Rotation (nur in Flexion!).
 
 
 Sprunggelenk
-------------
+============
 
 
 Im :dfn:`Sprunggelenk` gibt es, ähnlich wie bei der Hand,
@@ -1984,7 +1991,7 @@ Das Sprunggelenk kann in *zwei verschiedene Ebenen* eingeteilt werden:
 
 
 Weitere Gelenke
----------------
+===============
 
 Artt.intertarsales: zwischen den restlichen Fußwurzelknochen » Amphiarthrose
 
@@ -1999,7 +2006,7 @@ Artt. interphalangeales: zwischen den einzelnen Zehengliedern » Scharniergelenk
 
 
 Wichtige Muskeln der unteren Extremität
----------------------------------------
+=======================================
 
 .. list-table:: Wichtige Muskeln der unteren Extremität
     :widths: 15 60 25

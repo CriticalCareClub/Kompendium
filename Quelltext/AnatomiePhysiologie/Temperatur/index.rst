@@ -1,9 +1,11 @@
 
+##################
 Temperaturhaushalt
-************************************************************************
+##################
 
+***********
 Allgemeines
-========================================================================
+***********
 
 Der Mensch - ist im Gegensatz zu *poikilothermen* (wechselwarmen) Tieren
 - *homöotherm* (gleichwarm). Die *Körperkerntemperatur* (37°C) wird
@@ -21,8 +23,9 @@ die
 -   Sublingual- bzw. Rektaltemperatur, sowie die
 -   Axillartemperatur
 
+**********
 Regulation
-========================================================================
+**********
 
 Mittels *negativer Rückkopplung* wird die Temperatur reguliert:
 Thermosensoren der Haut und des Körperinneren (v.a. Hypothalamus,
@@ -32,8 +35,9 @@ die Veränderung der Hautdurchblutung kann die Körpertemperatur verändert
 werden (= Stellglieder). Oberster Regulator der Körpertemperatur ist der
 Hypothalamus.
 
+****************************
 Wärmebildung und Wärmeabgabe
-========================================================================
+****************************
 
 Wärme kann abgegeben werden durch:
 
@@ -55,8 +59,9 @@ Akklimatisation:
 -   bei warmen Regionen: durch vermehrte Schweißproduktion
 -   bei kalten Regionen: kaum wirksame Mechanismen vorhanden
 
+**************************************
 Veränderungen der Temperaturregulation
-========================================================================
+**************************************
 
 *Veränderungen der Temperaturregulation* können physiologisch oder
 pathologisch sein:

@@ -1,11 +1,13 @@
 
+#########################
 Gastrointestinales System
-************************************************************************
+#########################
 
 .. _allgemeine-anatomie-4:
 
+***********
 Allgemeines
-===================
+***********
 
 Der Gastrointestinaltrakt hat einige spezifische Aufgaben innerhalb des
 menschlichen Körpers:
@@ -43,8 +45,9 @@ Kopfteil und in einen Rumpfteil eingeteilt werden.
 
 .. _Mundhoehle-Gastrointestinaltrakt:
 
+************************
 Mundhöhle (Cavitas oris)
-========================================================================
+************************
 
 .. sidebar:: Mundhöhle
 
@@ -109,7 +112,7 @@ Sie sind beteiligt beim Öffnen des Mundes und beim Schlucken.
     Suprahyoidalen Muskeln: M. mylohydoieus, M. geniohyoideus, M. digastricus, M. stylohyoideus
 
 Zunge
----------
+=====
 
 Die *Zunge* besteht aus quergestreiftem Muskel\ [#Zungenmuskeln]_.
 Neben ihrer Rolle als *Sinnesorgan*
@@ -173,7 +176,7 @@ werden.
 
 
 Zähne
--------
+=====
 
 Die Zähne sind auf 4 Quadranten,
 jeweils rechts—links im Ober- und Unterkiefer, verteilt.
@@ -243,7 +246,7 @@ Der *Zahnhalteapparat* besteht aus:
 
 
 Speichel
------------
+========
 
 Der bereits erwähnte *Speichel* wird von exokrinen Drüsen gebildet. Die
 Mundhöhle besitzt kleine Speicheldrüsen mit kurzen Ausführungsgängen in
@@ -271,8 +274,9 @@ Im Mundspeichel befinden sich:
 
 .. _pharynx-rachen-1:
 
+****************
 Pharynx (Rachen)
-========================================================================
+****************
 
 Während des Schluckaktes wird der untere Atemwegstrakt verschlossen, um
 ein Eindringen von flüssigen oder festen Nahrungsbestandteilen zu
@@ -309,8 +313,9 @@ unterscheiden:
 
 Der *Schluckreflex* ist auch im Schlaf erhalten.
 
+********************************
 Wandaufbau des Magen-Darm-Trakts
-========================================================================
+********************************
 
 Der gesamte Magen-Darm-Trakt zeigt einen charakteristischen Wandaufbau:
 
@@ -336,8 +341,9 @@ Nervenplexus gehören zum intrinsischen *enterischen Nervensystem*.
 .. _Oesophagus:
 
 
+***********************
 Ösophagus (Speiseröhre)
-========================================================================
+***********************
 
 Der Ösophagus ist ein 25—30 cm langer muskulärer Schlauch, der durch
 eigene Peristaltik den Nahrungsbissen Richtung Magen befördert. Er ist
@@ -364,8 +370,9 @@ Muskulatur, der untere Abschnitt aus *glatter* Muskulatur.
 
 
 
+**********************
 Peritoneum (Bauchfell)
-========================================================================
+**********************
 
 Die Bauchhöhle ist mit Peritoneum (Bauchfell) ausgekleidet. Dieses
 Peritoneum ist - ebenso wie Pleura und Perikard - eine *seröse Haut* und
@@ -426,8 +433,9 @@ eingeteilt werden:
 
 .. _Magen:
 
+***************************
 Ventriculus, Gaster (Magen)
-========================================================================
+***************************
 
 Nach der Mundhöhle wird im Magen die Nahrung weiter zerkleinert. Hierzu
 produziert der Magen den *Magensaft (pH 1,5 - 2, 2-3 l/Tag)*, bestehend
@@ -499,8 +507,9 @@ bei gefülltem Magen dessen Inhalt vom Fundus zum Pylorus.
     single: Pars ascendens
 
 
+***************************
 Intestinum tenue (Dünndarm)
-========================================================================
+***************************
 
 Hier findet die eigentliche Aufnahme der Nahrungsstoffe statt. Der
 Dünndarm beginnt nach dem Pylorus des Magens und verläuft bis an den
@@ -607,8 +616,9 @@ Auch im Ileum gibt es Inseln von lymphatischem Gewebe - die
     single: Wasserentzug
 
 
+*****************************
 Intestinum crassum (Dickdarm)
-========================================================================
+*****************************
 
 Da die Nahrungsstoffe bereits im Dünndarm resorbiert wurden, besteht die
 Aufgabe des Dickdarms in der Aufnahme von Wasser. Bakterien des
@@ -688,8 +698,9 @@ befindet sich direkt beim Übergang zwischen Rektum und Canalis analis.
     single: Bauchspeicheldrüse
     single: Pankreas
 
+*****************************
 Pancreas (Bauchspeicheldrüse)
-========================================================================
+*****************************
 
 
 
@@ -731,8 +742,9 @@ duodeni major* in das Duodenum.
 .. _Leberzirrhose:
 
 
+*************
 Hepar (Leber)
-========================================================================
+*************
 
 
 .. subfigstart::
@@ -828,8 +840,9 @@ befinden sich Äste der A. hepatica propria, der V. portae und ein
 Gallengänge. Von dort fließen die Flüssigkeiten über die Lebersinusoide
 in Richtung der Zentralvenen.
 
+**************************************
 Vesica fellea / biliaris (Gallenblase)
-========================================================================
+**************************************
 
 Die Gallenblase ist ein *Sammelgefäß* für die Gallenflüssigkeit der
 Leber mit einem Fassungsvermögen von ungefähr *30 bis 35 ml*. Über den

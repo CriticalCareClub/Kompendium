@@ -1,11 +1,13 @@
 
+#######################
 Respiratorisches System
-************************************************************************
+#######################
 
 .. _allgemeine-anatomie-3:
 
+*******************
 Allgemeine Anatomie
-===================
+*******************
 
 Das Atmungssystem ist für *Sauerstoff-Transport und Aufnahme* sowie für
 *Kohlendioxid-Transport und Abgabe* zuständig. Gemeinsam mit den Nieren
@@ -50,8 +52,9 @@ Die *Atmung* kann man außerdem in zwei Abschnitte unterteilen:
 Wenn die Atembewegung verstärkt werden soll, werden zusätzlich die
 Atemhilfsmuskeln eingesetzt.
 
+***********
 Luftleitung
-===========
+***********
 
 Die Atemwege dienen zum *Transport, zur Anwärmung, zur Befeuchtung, zur
 Reinigung* *und zur Kontrolle der Atemluft* (für die Mundhöhle siehe
@@ -76,7 +79,7 @@ Transport).
 
 
 Cavitas nasi (Nasenhöhle) und Sinus paranasales (Nasennebenhöhlen)
-------------------------------------------------------------------
+==================================================================
 
 Die beiden *Nasenhöhlen (Cavitates nasi)* werden durch eine knöcherne
 bzw. knorpelige *Nasenscheidewand (Septum nasi)* getrennt. Der
@@ -129,7 +132,7 @@ Erwärmung der Atemluft* mit. Außerdem bilden sie einen *Resonanzkörper*
 für die Sprachbildung (luftgefüllte Knochen).
 
 Pharynx (Rachen)
-----------------
+================
 
 Nach den Choanen kommt die Atemluft in den Rachen. Dieser ist in *drei
 Stockwerke* (nach ihrer Lage) eingeteilt und ca. *12 cm* lang:
@@ -159,7 +162,7 @@ Der Pharynx besteht für den Schluckvorgang hauptsächlich aus
 constrictores pharyngi) und Schlundheber (Mm. levatores pharyngi).
 
 Larynx (Kehlkopf)
------------------
+=================
 
 Der Kehlkopf hat einige wichtige Funktionen:
 
@@ -226,7 +229,7 @@ Die Plica vocalis wird auch als *Stimmlippe*, das Lig. vocale als
 des Kehlkopfes.
 
 Trachea (Luftröhre)
--------------------
+===================
 
 Die Trachea ist ein ca. *10-12 cm langes* und 2 cm im Durchmesser
 messendes Rohr. Sie wird durch ca. 20 nach hinten offene
@@ -235,7 +238,7 @@ Bindegewebe und den M. trachealis zustande. Unmittelbar dorsal zur
 Trachea befindet sich der Ösophagus (Speiseröhre).
 
 Bronchien
----------
+=========
 
 An der Teilungsstelle der Luftröhre (*Bifurcatio tracheae*) geht sie in
 den linken und rechten Hauptbronchus über. Über dem linken Hautbronchus
@@ -256,8 +259,9 @@ noch ca. 1mm im Durchmesser und reich an glatter Muskulatur. Durch den
 Zug von elastischen Fasern in ihren Wänden werden sie am Kollabieren
 gehindert und offen gehalten.
 
+*************
 Pulmo (Lunge)
-=============
+*************
 
 Die Lunge ist ein paariges Organ mit *zwei Lungenflügeln*. Sie bildet
 die laterale Begrenzung des Mediastinums (Mittelteil des Thoraxraumes).
@@ -308,8 +312,9 @@ unterscheiden:
     Gasaustausch, und „Arbeitskapillaren“, ermöglichen eine Erhöhung des
     Gasaustausches bei Belastung, unterschieden.
 
+******
 Pleura
-======
+******
 
 Die Lunge ist von einer *serösen Haut* (Serosa), der *Pleura visceralis*
 oder pulmonalis überzogen. Diese Serosa ermöglich durch die Sekretion
@@ -333,14 +338,15 @@ würde aufgrund ihrer Eigenelastizität kollabieren (= Pneumothorax).
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
+******
 Atmung
-======
+******
 
 Nun sollen einerseits die Atemmechanik und andererseits die
 Lungenvolumnia erklärt werden.
 
 Atemmechanik
-------------
+============
 
 Die Bestandteile der Atemmechanik sind:
 
@@ -360,7 +366,7 @@ Zusätzlich können die *Atemhilfsmuskeln* die Atmung wenn nötig
 unterstützen. Sie sind jedoch kein initialer Anteil der Atemmechanik.
 
 Lungenvolumina
---------------
+==============
 
 Mittels *Spirometrie* kann die Kapazität der Lunge gemessen werden. Das
 *Lungenvolumen* (gesamtes Gasvolumen ca. 5l) unterteilt sich
@@ -409,7 +415,7 @@ Den *Totraum* kann man in folgende Formen unterteilen:
 -   funktioneller Totraum: Summe aus anatomischem und alveolärem Totraum.
 
 Gasaustausch
-------------
+============
 
 Die Umgebungsluft enthält 78,1 % Stickstoff, 20,9% Sauerstoff, 0,03%
 Kohlendioxid und 0,97% Edelgase. Die Zusammensetzung (= prozentualer

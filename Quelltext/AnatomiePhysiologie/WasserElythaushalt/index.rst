@@ -3,11 +3,13 @@
 .. _wasser-elektrolythaushalt:
 .. _vitalfunktion-wasserhaushalt:
 
+##############################
 Wasser- und Elektrolythaushalt
-========================================================================
+##############################
 
+****************
 Verteilungsräume
-------------------------------------------------------------------------
+****************
 
 .. only:: not nosidebar
 
@@ -44,8 +46,9 @@ Blutgefäßwand.
 .. _ionen:
 .. _elektrolyte:
 
+****************************
 Atome, Ionen und Elektrolyte
-------------------------------------------------------------------------
+****************************
 
 :dfn:`Atome`
 sind die kleinsten Grundbestandteile von Materie.
@@ -101,8 +104,9 @@ zwischen dem Zellinneren und der Umgebung kommen.
         und können dadurch
         eine elektrische Spannung ausbilden.
 
+************************
 Funktion der Elektrolyte
-------------------------------------------------------------------------
+************************
 
 .. only:: not nosidebar
 
@@ -142,8 +146,9 @@ für die Nerven und den Muskel wichtig.
 .. _Osmolaritaet:
 .. _Osmolalitaet:
 
+********************
 Osmose und Diffusion
-------------------------------------------------------------------------
+********************
 
 Unter :dfn:`Osmose`
 :index:`\ <Osmose>`
@@ -215,8 +220,9 @@ oder Gelatine.
 
     Osmose und Diffusion
 
+**************************
 Verteilung der Elektrolyte
-------------------------------------------------------------------------
+**************************
 
 Die Steuerung der richtigen Verteilung der Elektrolyte zwischen den
 Verteilungsräumen ist recht kompliziert\ [#Verteilung]_.
@@ -242,8 +248,9 @@ Zu solchen Verteilungsstörungen kann es z. B. nach einer Blutwäsche
 .. _elektrolytstoerungen:
 .. _dialyse-elektrolyte:
 
+****************************************
 Häufige Ursachen von Elektrolytstörungen
-------------------------------------------------------------------------
+****************************************
 
 -   Niereninsuffizienz (gestörte Ausscheidung)
 
@@ -264,8 +271,9 @@ Häufige Ursachen von Elektrolytstörungen
 -   Durchfall, Erbrechen (Verlust von Elektrolyten)
 -   Medikamente (Insulin!), Vergiftung
 
+************************************
 Ausscheidung und Flüssigkeitsverlust
-------------------------------------------------------------------------
+************************************
 
 .. only:: not nosidebar
 

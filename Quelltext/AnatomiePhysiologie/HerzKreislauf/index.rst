@@ -1,11 +1,13 @@
 
+####################
 Herz-Kreislaufsystem
-************************************************************************
+####################
 
 .. _allgemeine-anatomie-1:
 
+*******************
 Allgemeine Anatomie
-===================
+*******************
 
 Das *Kreislaufsystem* besteht aus drei wichtigen Bestandteilen. Das
 *Herz* ist der Motor dieses Systems und sorgt für kontinuierliche
@@ -23,8 +25,9 @@ der *Blutdruck*. Er setzt sich aus dem Schlagvolumen
 des Herzens pro Minute (Herzminutenvolumen, HMV) und dem peripheren
 Gefäßwiderstand zusammen: RR = HMV x peripherer Gefäßwiderstand.
 
+***********
 Mediastinum
-===========
+***********
 
 *Begrenzungen* des Mediastinums (= Mittelfellraum):
 
@@ -57,8 +60,9 @@ Das Mediastinum kann in mehrere Bereiche eingeteilt werden:
 
 .. _Herz:
 
+****
 Herz
-====
+****
 
 
 .. todo:: Neu: `#82 Nervale Versorgung und Adrenorezeptoren <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/82>`_
@@ -90,7 +94,7 @@ vermittelt.
 
 
 Herzschichten
--------------
+=============
 
 Über den **Herzbeutel** (**Perikard**), einer weiteren serösen Haut, ist das
 Herz vom restlichen Mediastinum abgegrenzt. An der Herzbasis geht das
@@ -106,7 +110,7 @@ inklusive Herzbeutel vier Schichten:
 -   **Endokard**: innere Herzhaut.
 
 Herzaufbau
-----------
+==========
 
 Das Herz dreht sich in seiner fetalen Entwicklung um ca. 45° zur
 Längsachse des Körpers nach links, sodass die *Vorderseite* hauptsächlich
@@ -145,7 +149,7 @@ der R. intercentricularis anterior bzw. posterior.
     single: Herzklappen
 
 Herzklappen
------------
+===========
 
 Um die Einbahnfunktion des Blutstroms innerhalb des Herzens aufrecht zu
 erhalten und eine adäquate Kraftentwicklung des Herzens für den
@@ -223,7 +227,7 @@ Es gibt *zwei Arten von Klappen*:
 .. _reizleitungssystem:
 
 Reizleitungssystem
-------------------
+==================
 
 
 Das Herz weist als einziger Muskel des menschlichen Körpers ein eigenes
@@ -341,7 +345,7 @@ konstante PQ-Strecke zustande.
 
 
 Herzgefäße
-----------
+==========
 
 Neben der eigenen Erregungsbildung weist das Herz auch eine eigene
 Blutversorgung auf. Diese beinhaltet die *Herzkranzarterien* (Aa.
@@ -365,7 +369,7 @@ Herzvenen:
 -   V. cardiaca parva: im rechtenSulcus coronarius
 
 Herzaktion
-----------
+==========
 
 Die *Herzbewegung* besteht aus zwei Phasen:
 
@@ -410,7 +414,7 @@ Acetylcholin)* bremst die Herzaktion insbesondere des Vorhofes
 
 
 Kontraktion der Herzmuskelzellen
-------------------------------------------------------------------------
+================================
 
 Durch die intrazelluläre Kaliumkonzentration hat die Herzzelle ein
 sogenanntes *Ruhemembranpotential* (Ladung der Herzzelle in Ruhe) von
@@ -442,7 +446,7 @@ während dem Aktionspotential entsteht.
 .. _Herz-SympParasymp:
 
 Steuerung durch Sympathikus und Parasympathikus
-------------------------------------------------------------------------
+===============================================
 
 Die Herzarbeit muss an wechselnde Belastungen angepasst werden. Dies
 erfolgt über das vegetative Nervensystem, über Parasympathikus und
@@ -461,8 +465,9 @@ Hiezu einige Grundbegriffe:
 
 
 
+******
 Gefäße
-======
+******
 
 Die Blutgefäße des Kreislaufs können global in Gefäße des
 *Hochdrucksystems (Arterien)* und des *Niederdrucksystems (Venen)*
@@ -515,8 +520,9 @@ jugularis interna und V. subclavia wieder in das Venensystem.
 
 .. _Kreislauf:
 
+*********
 Kreislauf
-=========
+*********
 
 
 Das Herz als Pumpe sorgt dafür, dass sich das Blut im
@@ -625,7 +631,7 @@ Kreislauf- und Blutdruck-*Regulation*:
 
 
 Blutdruck
-------------------------------------------------------------------------
+=========
 
 Der Mensch braucht einer gewissen Blutdruck, um zu überleben. Ein zu
 geringer Druck (Hypotonie) reicht nicht aus, um alle Organe ausreichend
@@ -650,7 +656,7 @@ Die Einteilung der Blutdruck-Werte erfolgt nach folgendem Schema.
 
 
 Lungenkreislauf:
-----------------
+================
 
 
 .. only:: not nosidebar
@@ -683,27 +689,27 @@ Truncus pulmonalis ➛ Aa. pulmonales dextra und sinistra ➛ Kapillaren ➛
 Vv. pulmonales ➛ linker Vorhof
 
 Körperkreislauf:
-----------------
+================
 
 linker Vorhof ➛ Mitralklappe ➛ linke Kammer ➛ Aortenklappe ➛ Aorta ➛
 Arterien ➛ Arteriolen ➛ Kapillaren ➛ Venolen ➛ Venen ➛ V. cava inferior
 und superior ➛ rechter Vorhof
 
 Pfortaderkreislauf:
--------------------
+===================
 
 Arterien der Bauchorgane ➛ Nährstoffaufnahme ➛ Pfortader ➛ Leber ➛ Vv.
 hepaticae ➛ V. cava inferior
 
 Lymphgefäßsystem:
------------------
+=================
 
 Flüssigkeit im Extrazellularraum ➛ Lymphkapillaren ➛ Lymphgefäße mit
 eingeschalteten Lymphknoten ➛ Ductus thoracicus bzw. Ductus lymphaticus
 dexter ➛ V. cava superior
 
 Arterien
---------
+========
 
 Nachfolgend sind die einzelnen Äste von Hauptarterien (unterstrichen) in
 der Reihenfolge ihres Abgangs aufgelistet. Falls deren Äste noch weitere
@@ -711,7 +717,7 @@ der Reihenfolge ihres Abgangs aufgelistet. Falls deren Äste noch weitere
 angeführt.
 
 Aorta:
-~~~~~~
+------
 
 .. todo:: Die Arterien gehören definitv abgespeckt ... wichtig ist woran man versterben kann oder wo einem ein Körperteil abfällt ...
 
@@ -778,7 +784,7 @@ A. ovarica bzw. testicularis (v)
 (4) Bifurcatio aortae
 
 A. carotis communis:
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 Sinus caroticum mit Glomus Caroticum an der Teilung
 
@@ -787,7 +793,7 @@ A. carotis externa
 A. carotis interna
 
 A. carotis externa:
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 vordere Äste:
 
@@ -798,7 +804,7 @@ A. lingualis
 A. facialis
 
 mediale bzw. hintere Äste:
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 
 A. pharyngea ascendens
 
@@ -813,7 +819,7 @@ A. temporalis superficialis
 A. maxillaris
 
 A. carotis interna (4 Anteile):
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 Pars cervicalis - ohne Äste
 
@@ -838,7 +844,7 @@ A. cerebri anterior
 A. cerebri media
 
 A. subclavia:
-~~~~~~~~~~~~~
+-------------
 
 A. vertebralis
 
@@ -853,7 +859,7 @@ Truncus costocervicalis
 Übergang zur A. axillaris beim Unterrand der ersten Rippe.
 
 A. axillaris:
-~~~~~~~~~~~~~
+-------------
 
 A. thoracica superior
 
@@ -871,7 +877,7 @@ A. circumflexa humeri posterior
 des M. latissimus dorsi
 
 A. brachialis
-~~~~~~~~~~~~~
+-------------
 
 A. profunda brachii
 
@@ -882,7 +888,7 @@ A. collateralis ulnaris inferior
 Endäste: A. radialis und A. ulnaris
 
 Rete articulare cubiti
-~~~~~~~~~~~~~~~~~~~~~~
+----------------------
 
 absteigende Äste:
 
@@ -903,7 +909,7 @@ A. recurrens ulnaris
 A. interossea recurrens
 
 A. radialis:
-~~~~~~~~~~~~
+------------
 
 proximal zwischen M. pronator teres, M. brachioradialis, distal zwischen
 M. brachioradialis und M. flexor carpi radialis
@@ -923,7 +929,7 @@ A. radialis indicis
 Arcus palmaris profundus
 
 A. ulnaris:
-~~~~~~~~~~~
+-----------
 
 unter dem M. pronator teres, parallel zum M. flexor carpi ulnaris
 
@@ -944,7 +950,7 @@ R. carpalis dorsalis
 R. palmaris profundus
 
 Arcus palmaris superficialis:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------
 
 Bestehend aus dem Endast der A. ulnaris und dem R. palmaris
 superficialis der A. radialis. Von diesem Gefäßbogen gehen dann 3-4 Aa.
@@ -952,14 +958,14 @@ metacarpales palmares und Rr. perforantes zu den Gefäßen des Handrückens
 ab.
 
 Arcus palmaris profundus:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 Bestehend aus dem Endast der A. radialis und dem R. palmaris profundus
 der A. ulnaris. Von diesem gehen 3 Aa. digitales palmares communes ab,
 die sich dann jeweils in 2 Aa. digitales palmares propriae teilen.
 
 Rete carpale dorsale:
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 R. carpalis dorsalis a. radialis
 
@@ -970,7 +976,7 @@ R. carpalis dorsalis a. ulnaris
 je 2 Aa. digitales dorsales
 
 Bifurcatio aortae.
-~~~~~~~~~~~~~~~~~~
+------------------
 
 ➛ ca. auf Höhe des 4. Lendenwirbelkörper, Teilung in A. iliaca communis
 
@@ -979,7 +985,7 @@ A. iliaca interna
 A. iliaca externa
 
 A. iliaca interna:
-~~~~~~~~~~~~~~~~~~
+------------------
 
 2 Stammgefäße ➛ parietal und viszeral
 
@@ -1024,14 +1030,14 @@ A. profunda clitoridis bzw. penis
 A. dorsalis clitoridis bzw. penis
 
 A. iliaca externa:
-~~~~~~~~~~~~~~~~~~
+------------------
 
 A. epigastrica inferior
 
 A. circumflexa ilium profunda
 
 A. femoralis:
-~~~~~~~~~~~~~
+-------------
 
 A. epigastrica superficialis
 
@@ -1048,7 +1054,7 @@ A. circumflexa femoris medialis
 A. circumflexa femoris lateralis
 
 A. poplitea:
-~~~~~~~~~~~~
+------------
 
 A. superior lateralis genus
 
@@ -1063,7 +1069,7 @@ A. inferior lateralis genus
 A. inferior medialis genus
 
 Rete articularis genus:
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 absteigende Äste:
 
@@ -1080,7 +1086,7 @@ A. recurrens tibialis anterior
 R. circumflexus fibularis
 
 A. tibialis anterior:
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 A. recurrens tibialis posterior
 
@@ -1093,7 +1099,7 @@ A. malleolaris anterior medialis
 Endast: A. dorsalis pedis
 
 A. dorsalis pedis:
-~~~~~~~~~~~~~~~~~~
+------------------
 
 A. tarsalis lateralis
 
@@ -1108,7 +1114,7 @@ Aa. metatarsales dorsales
 Aa. digitales dorsales
 
 A. tibialis posterior:
-~~~~~~~~~~~~~~~~~~~~~~
+----------------------
 
 R. circumflexus fibularis
 
@@ -1138,7 +1144,7 @@ Aa. digitales plantares communes
 Aa. digitales plantares propriae
 
 Venen
------
+=====
 
 Das venöse System kann man in das *Pulmonalvenensystem*, das
 *Hohlvenensystem* und das *Pfortadersystem* unterteilen. Es gibt immer
@@ -1154,7 +1160,7 @@ Arterien verlaufen und somit auch NICHT gleich heißen.
 Die wichtigsten Venen entnehmen Sie den Bildbeschriftungen.
 
 V. cava superior:
-~~~~~~~~~~~~~~~~~
+-----------------
 
 V. brachiocephalica dextra und sinistra
 
@@ -1167,19 +1173,19 @@ interna und V. subclavia. Dort münden links der Ductus thoracicus und
 rechts der Ductus lymphaticus dexter.
 
 V. cava inferior:
-~~~~~~~~~~~~~~~~~
+-----------------
 
 Vv. iliacae communes
 
 Azygossystem:
-~~~~~~~~~~~~~
+-------------
 
 V. azygos (rechts)
 
 V. hemiazygos (links)
 
 Venae columnae vertebralis:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------
 
 Plexus venosus vertebralis externus anterior
 
@@ -1193,7 +1199,7 @@ Diese Venengeflechte sind über die Vv. basivertebrales miteinander
 verbunden.
 
 Vv. jugulares:
-~~~~~~~~~~~~~~
+--------------
 
 V. jugularis interna
 
@@ -1202,7 +1208,7 @@ V. jugularis externa
 V. jugularis anterior
 
 Sinus durae matris:
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 Confluens sinuum
 
@@ -1227,7 +1233,7 @@ Sinus rectus
 V. magna cerebri GALENI
 
 Vv. superficiales membri superioris:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------
 
 Rete venosum dorsale manus
 
@@ -1239,7 +1245,7 @@ V. cephalica und V. basilica sind miteinander durch die V. mediana
 cubiti verbunden.
 
 Vv. superficiales membri inferioris:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------
 
 V. saphena magna
 

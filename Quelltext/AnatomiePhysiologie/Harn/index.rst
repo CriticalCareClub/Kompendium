@@ -1,12 +1,14 @@
 
 
+##########################################
 Harnproduzierendes und -ableitendes System
-************************************************************************
+##########################################
 
 .. _allgemeine-anatomie-5:
 
+*******************
 Allgemeine Anatomie
-===================
+*******************
 
 Nieren und Harnwege erfüllen wichtige Funktionen im Wasserhaushalt, im
 Elektrolythaushalt und im Säure-Basen-Haushalt. Über eine eigene
@@ -15,8 +17,9 @@ Hormonkaskade wird über die Nieren auch der *Blutdruck (Renin)* und die
 ein wichtiges Organ für die Ausscheidung giftiger körperfremder
 Substanzen.
 
+***********
 Ren (Niere)
-===========
+***********
 
 Die beiden Nieren liegen *retroperitoneal* links und rechts der
 Wirbelsäule unter den fliegenden Rippen. Sie haben eine bohnenförmige
@@ -53,7 +56,7 @@ Durch die Nieren fließt ca. *20% des HMV*, das sind ca. 1.500 - 1.700 l
 Blut pro Tag.
 
 Nephron
--------
+=======
 
 Der kleinste Baustein der Nieren ist das *Nephron (insg. ca. 1,2
 Millionen)*. Diese sind die harnproduzierenden Strukturen und bestehen
@@ -141,8 +144,9 @@ Der *Endharn* enthät 95% Wasser und gelöste Stoffe:
 -   anorganische Substanzen: z.B. Natrium, Kalium, Kalzium, Chlor,
     Sulfat, Phosphat, Ammonium
 
+********
 Harnwege
-========
+********
 
 Die Harnwege sind alle mittels *Übergangsepithel* ausgekleidet.
 

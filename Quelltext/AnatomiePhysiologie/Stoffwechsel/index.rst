@@ -1,6 +1,7 @@
 
+############
 Stoffwechsel
-************************************************************************
+############
 
 Die Gesamtheit der lebensnotwendigen biochemischen Vorgänge im
 Organismus ist der Stoffwechsel (Metabolismus). Hier kann man zwischen
@@ -82,8 +83,9 @@ bestimmt. Im folgenden einige Richtwerde zum Energieumsatz:
 -   mittelschwere Arbeit: ca. 16.000 kJ (3680 kcal) / d
 -   schwere Arbeit: ca. 20.000 kJ (4.600 kcal) / d
 
+******************
 Verdauungsvorgänge
-==================
+******************
 
 Die Verdauung setzt die Bewegung aller Organe (gastrointestinale
 Motilität) vorraus. Nach dem Essen treten typische Bewegungsmuster
@@ -96,7 +98,7 @@ entlang des GI-Traktes auf:
 Über *propulsive Peristaltik* erfolgt die Fortbewegung des Chymus.
 
 Fettverdauung
--------------
+=============
 
 -   Beginn im Mund
 
@@ -115,7 +117,7 @@ Fettverdauung
     -   kurzkettige Fette werden direkt über das Blut aufgenommen
 
 Kohlenhydratverdauung
----------------------
+=====================
 
 -   Beginn im Mund
 -   in der Nahrung: Stärke, Glykogen, Disaccharide, Monosaccharide
@@ -125,7 +127,7 @@ Kohlenhydratverdauung
     das Blut abtransportiert.
 
 Proteinverdauung
-----------------
+================
 
 -   Beginn im Magen
 

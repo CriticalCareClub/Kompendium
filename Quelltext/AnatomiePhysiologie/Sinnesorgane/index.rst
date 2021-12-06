@@ -1,21 +1,23 @@
 
+############
 Sinnesorgane
-************************************************************************
+############
 
+****
 Auge
-========================================================================
+****
 
 .. _allgemeine-anatomie-8:
 
 Allgemeine Anatomie
-------------------------------------------------------------------------
+===================
 
 Das Auge besteht im Allgemeinen aus dem *Augapfel* mit dem *Sehnerv*
 (eigentliches Sinnesorgan) sowie den *Hilfseinrichtungen* (Augenlidern,
 Tränenapparat, äußere Augenmuskeln).
 
 Bulbus oculi (Augapfel)
-------------------------------------------------------------------------
+=======================
 
 Von außen nach innen hat der Bulbus oculi drei Schichten:
 
@@ -112,7 +114,7 @@ projiziert, das jeweils r\ *echte Gesichtsfeld* in die *linke
 Hemisphäre*.
 
 Hilfseinrichtungen
-------------------------------------------------------------------------
+==================
 
 Die Hilfseinrichtungen des Auges umfassen:
 
@@ -162,7 +164,7 @@ Diese Augenmuskeln bewegen die Augen und sorgen für folgende
     Konturen und besonders wichtige Anteile des Objektes
 
 Hirnphysiologie des Sehens
-------------------------------------------------------------------------
+==========================
 
 Visuelle und visomotorische Areale bilden 60% der Hirnoberfläche -
 hauptsächlich im parietalen und inferotemporalen Kortex gelegen.
@@ -181,13 +183,14 @@ Visuelle Funktionen werden in Untergruppen verteilt und parallel in
 -   Farbwahrnehmung ➛ Gyrus angularis
 -   emotionale Komponenten ➛ limbisches System
 
+***
 Ohr
-========================================================================
+***
 
 .. _allgemeine-anatomie-9:
 
 Allgemeine Anatomie
-------------------------------------------------------------------------
+===================
 
 Das Ohr wird in *zwei Sinnesorgane* unterteilt - eines für das Gehör,
 das zweite für das Gleichgewicht. Beide Organe liegen im Innenohr (Pars
@@ -242,7 +245,7 @@ Lautstärkeempfindung.
 
 
 Gehörorgan
-------------------------------------------------------------------------
+==========
 
 Das Gehörorgan ist in 3 Anteile gegliedert:
 
@@ -260,7 +263,7 @@ Das Gehörorgan ist in 3 Anteile gegliedert:
     eingelagert, mit Endolymphe gefüllt.
 
 Cochlea
--------
+=======
 
 Die Cochlea besteht aus 3 getrennte Räumen:
 
@@ -302,7 +305,7 @@ Man kann zwei Formen der *Schwerhörigkeit* unterscheiden:
 -   Typ 2: Innenohrschwerhörigkeit.
 
 Gleichgewichtsorgan
-------------------------------------------------------------------------
+===================
 
 Zum Gleichgewichtsorgan gehören:
 
@@ -325,13 +328,14 @@ Sinneszellen ➛ N. vestibularis ➛ N. vestibulocochlearis ➛ Nuclei
 vestibulares ➛ Kleinhirn, Kerne der äußeren Augenmuskelnerven,
 Rückenmark
 
+****
 Haut
-========================================================================
+****
 
 .. _allgemeine-anatomie-10:
 
 Allgemeine Anatomie
-------------------------------------------------------------------------
+===================
 
 Die Haut ist das größte Sinnesorgan sowie die größte Abwehrbarriere des
 menschlichen Körpers. Die Hautdecke eines Menschen beträgt ca. 1,7
@@ -359,7 +363,7 @@ beeinflusst. Basierend auf äußeren Merkmalen kann man die Haut in eine
 
 
 Schichten
-------------------------------------------------------------------------
+=========
 
 Folgende Schichten kann man bei der Haut (Cutis) unterscheiden:
 
@@ -392,7 +396,7 @@ Folgende Schichten kann man bei der Haut (Cutis) unterscheiden:
     Äste in Dermis, VATER-PACINI-Lamellenkörperchen (Vibration)
 
 Hautanhangsorgane
-------------------------------------------------------------------------
+=================
 
 Zu den Hautanhangsorganen zählen:
 

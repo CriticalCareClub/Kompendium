@@ -1,12 +1,14 @@
 
 
+############
 Nervensystem
-************************************************************************
+############
 
 .. _allgemeine-anatomie-7:
 
+*******************
 Allgemeine Anatomie
-===================
+*******************
 
 Die einfachste Form eines Nervensystems ist das *primitive
 Nervensystem*. Hier verarbeiten Sinneszellen Information und leiten die
@@ -76,8 +78,9 @@ Beim restlichen *Neuralrohr* lassen sich drei Zonen unterteilen:
 -   Zwischenzone: Ursprungsgebiet vegetativer Nerven
 -   Flügelplatte: Ursprungsgebiet sensibler Nerven
 
+****************************
 Zentrales Nervensystem (ZNS)
-============================
+****************************
 
 Zwei Anteile bilden das ZNS - das *Encephalon (Gehirn)* und die *Medulla
 spinalis (Rückenmark)*. Beide sind über Knochen (Schädel, Wirbelsäule)
@@ -90,7 +93,7 @@ die Nervenfasern. Beim Gehirn ist die graue Substanz außen (Hirnrinde -
 ausgenommen Hirnkerne = Basalganglien), beim Rückenmark innen.
 
 Encephalon (Gehirn)
--------------------
+===================
 
 Das Gehirn ist ca. 1,3 kg schwer (1,1 bis 1,6 kg), wobei es hier
 geschlechtsspezifische Unterschiede gibt: Mann 20g/kgKG, Frau 22g/kgKG.
@@ -135,7 +138,7 @@ Der *Hirnstamm (Truncus encephali)* wird von Mesencephalon, Pons und
 Medulla oblongata gebildet.
 
 Großhirn
-~~~~~~~~
+--------
 
 Das Großhirn (Telencephalon) besteht aus den beiden Großhirnhemisphären
 und den Basalganglien (Hirnkerne).
@@ -216,7 +219,7 @@ Das Gehirn weist meist eine *somatotope Anordnung* der Bereiche auf ➛
 regionspezifisch!
 
 Diencephalon
-~~~~~~~~~~~~
+------------
 
 Das Diencephalon liegt zwischen den beiden Großhirnhemisphären. Es
 besteht aus:
@@ -233,7 +236,7 @@ Der Boden des Diencephalons wird vom *Chiasma opticum*, vom Tuber
 cinereum und von den Corpora mamillaria gebildet.
 
 Mesencephalon
-~~~~~~~~~~~~~
+-------------
 
 Das Mesencephalon als kleinster Teil des Gehirns liegt zwischen
 Diencephalon und Pons. Es besteht aus:
@@ -250,7 +253,7 @@ Im Mesencephalon befindet sich auch der *Aquaeductus cerebri*, die
 Verbindungsstelle zwischen 3. und 4. Ventrikel.
 
 Pons
-~~~~
+----
 
 Der Pons enthält auf- und absteigende Bahnen sowie die Kerngebiete von
 N. trigeminus (V), N. abducens (VI), N. facialis (VII).
@@ -281,7 +284,7 @@ wichtigsten Kerngebiete, auch der größte Kern, des Kleinhirns ist der
 Nucleus dentatus.
 
 Medulla oblongata
-~~~~~~~~~~~~~~~~~
+-----------------
 
 Die Medulla oblongata ist ca. 4 cm lang und ist der Übergang von Gehirn
 zum Rückenmark. An der Vorderseite erkennt man die
@@ -296,7 +299,7 @@ Kreislauf. Die Formatio reticularis ist ein diffuses Kerngebiet des
 Hirnstamms. Es ist wichtig für den Zustand der Bewustseinslage.
 
 Rückenmark
-----------
+==========
 
 Das Rückenmark reicht *vom Foramen magnum bis in Höhe L1-L2* (beim
 Erwachsenen) und ist ca. 40 bis 45 cm lang. Es bildet *31
@@ -400,7 +403,7 @@ Reihe nach durchlaufen werden: Rezeptor ➛ Afferenz ➛ Synapse ➛ Efferenz
 ➛ Effektor.
 
 Hirn- und Rückenmarkshäute
---------------------------
+==========================
 
 -   *Dura mater* (harte Haut) : im Gehirnbereich übernimmt sie die
     Aufgabe des Periosts, im Rückenmarksbereich ist sie ein Durasack, der
@@ -416,10 +419,10 @@ Hirn- und Rückenmarkshäute
     Rückenmarks.
 
 Blutversorgung des Gehirns
---------------------------
+==========================
 
 Arterien des Gehirns
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 
 .. todo::  Bild "Circus arteriosus Willisi"
@@ -432,7 +435,7 @@ Arterien des Gehirns
 ➛ *„Circus arteriosus Willisi“*
 
 Venen des Gehirns
-~~~~~~~~~~~~~~~~~
+-----------------
 
 Der Abfluss des Blutes aus dem Gehirn läuft grundsätzlich über zwei
 Wege:
@@ -450,7 +453,7 @@ Sinus:
 -   Confluens sinuum
 
 Liquorsystem
-------------
+============
 
 Liquor ist funktionell sehr wichtig für unser Zentralnervensystem.
 Innerhalb der\ *inneren und äußeren Liquorräume* befindet sich insgesamt
@@ -483,11 +486,12 @@ Rückenmarks. Die Bildung des Liquors erfolgt im Plexus choroideus in den
 Ventrikeln, der Abbau (Abbgabe an das venöse System) über die
 Granulationes arachnoidales.
 
+********************
 Funktionelle Systeme
-====================
+********************
 
 Motorik
--------
+=======
 
 Die motorischen Funktionen werden über den *motorischen Kortex* (primär-
 und sekundär motorischen Areale) gesteuert.
@@ -542,7 +546,7 @@ unterscheiden:
         Kontrolle)
 
 Sensorik
---------
+========
 
 Die Sensorik umfasst alle Wahrnehmungen des menschlichen Körpers - der
 Haut, der inneren Organe und des Bewegungssystems. Funktionell wird es
@@ -552,8 +556,9 @@ unterteilt in
     Kraft)
 -   *Vorderseitenstrangsystem*: Thermozeption, Nozizeption
 
+*****************************
 Peripheres Nervensystem (PNS)
-=============================
+*****************************
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.*
@@ -692,8 +697,9 @@ ausschließlich motorisch.
 
 N. hypoglossus (XII): Muskeln der Zunge, ausschließlich motorisch.
 
+******************************
 Vegetatives Nervensystem (VNS)
-==============================
+******************************
 
 Wichtige Körperfunktionen wie Herz-, Kreislauf-, Atmungs-,
 Verdauungssystem, Stoffwechsel sowie Wärme- und Energiehaushalt werden

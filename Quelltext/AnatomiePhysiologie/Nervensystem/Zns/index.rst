@@ -407,12 +407,12 @@ Rückenmarks. Die Bildung des Liquors erfolgt im Plexus choroideus in den
 Ventrikeln, der Abbau (Abbgabe an das venöse System) über die
 Granulationes arachnoidales.
 
-********************
+
 Funktionelle Systeme
-********************
+====================
 
 Motorik
-=======
+-------
 
 Die motorischen Funktionen werden über den *motorischen Kortex* (primär-
 und sekundär motorischen Areale) gesteuert.
@@ -467,7 +467,7 @@ unterscheiden:
         Kontrolle)
 
 Sensorik
-========
+--------
 
 Die Sensorik umfasst alle Wahrnehmungen des menschlichen Körpers - der
 Haut, der inneren Organe und des Bewegungssystems. Funktionell wird es

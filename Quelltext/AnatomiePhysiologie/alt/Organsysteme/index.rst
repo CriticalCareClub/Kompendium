@@ -10,7 +10,6 @@ Organsysteme
     StuetzUndBewegunsapparat/index
     Kreislauf/index
     Respiration/index
-    Gastrointestinaltrakt/index
     Harntrakt/index
     Geschlechtsorgane/index
     Nervensystem/index

@@ -93,6 +93,45 @@ Muskulatur, der untere Abschnitt aus *glatter* Muskulatur.
 
 
 
+
+-----
+
+.. rubric:: alt
+
+
+.. only:: not nosidebar
+
+    .. sidebar:: Ösophagus
+
+        -   ~ 25 cm langer Muskelschlauch
+
+        -   Nahrung: Rachen → Magen
+        -   Keine Verdauung
+        -   Erkrankung: Ösophagusvarizen
+
+
+Der :dfn:`Ösophagus` (*Speiseröhre*) ist ein ungefähr 25 cm langer
+Muskelschlauch.
+Er dient dem *Transport* über den Mund aufgenommener
+Nahrung vom Rachen in den Magen.
+Diese Fortbewegung funktioniert über
+eine wellenförmige Kontraktion der Wandmuskeln der Speiseröhre
+(*Peristaltik*).
+Im Ösophagus werden keine verdauenden Enzyme
+ausgeschieden — er dient rein zum Weitertransport des Speisebreies.
+
+Die Speiseröhre weist *drei Engstellen* auf, welche die Nahrung
+überwinden muss.
+Die erste ist hinter dem Kehlkopf (wenn hier ein
+Speisebrocken stecken bleibt, kann er außerdem die Luftröhre
+verschließen.
+Landläufig nennt man das den *"Wiener-Würschtel-Tod"*.).
+Die zweite Enge liegt dort, wo die Aorta die Speiseröhre kreuzt.
+Die dritte Enge entspricht dem Durchtritt des Ösophagus durch das
+Zwerchfell.
+In der Wand des Ösophagus befinden sich zahlreiche Venen.
+
+
 **********************
 Peritoneum (Bauchfell)
 **********************
@@ -211,6 +250,44 @@ ermöglicht. Ungefähr alle drei Minuten befördern peristaltische Wellen
 bei gefülltem Magen dessen Inhalt vom Fundus zum Pylorus.
 
 
+-----
+
+.. rubric:: alt
+
+
+
+
+.. only:: not nosidebar
+
+    .. sidebar:: Magen
+
+        -   Magensaft mit Salzsäure
+        -   Schleim schützt Magenschleimhaut
+        -   Wandmuskulatur durchmischt Speisebrei
+        -   Portionsweise Abgabe von Speisebrei
+            durch den Magenpförtner in den Zwölffingerdarm
+
+
+:Synonym: Gaster, Ventriculus
+
+Der Magen ist ein muskuläres Hohlorgan
+und dient der Nahrungsspeicherung, Nahrungsdurchmischung sowie der
+kontrollierten Weiterleitung des durchmischten Speisebreis.
+
+Verantwortlich für den Beginn der Verdauung der Nahrung ist der durch
+die Magenschleimhaut gebildete saure, aus **Salzsäure**
+bestehende, *Magensaft*. Die Magenschleimhaut produziert
+außerdem eine *schützende Schleimschicht*, die die Oberfläche vor der
+starken Säure schützt.
+
+Nachdem die Wandmuskulatur den Speisebrei mit dem Magensaft
+*durchmischt* hat, gibt der :dfn:`Pylorus` (*Pförtner*)
+den Speisebrei portionsweise an den Dünndarm — genauer: an das
+:ref:`Duodenum <Duodenum>` — weiter.
+
+-----
+
+
 .. index::
     single: Duodenum
     single: Zwölffingerdarm
@@ -228,6 +305,17 @@ bei gefülltem Magen dessen Inhalt vom Fundus zum Pylorus.
     single: Flexura duodeni inferior
     single: Pars horizontalis duodeni
     single: Pars ascendens
+    single: Jejunum
+    single: Lerdarm
+    single: Ileum
+    single: Krummdarm
+    single: Nährstoffaufnahme
+    single: Mesenterium
+    single: Darmgekröse
+
+.. _Duodenum:
+
+.. _mesenterium:
 
 
 ***************************
@@ -319,6 +407,118 @@ betrachtet.
 
 Auch im Ileum gibt es Inseln von lymphatischem Gewebe - die
 *Peyer-Plaques*.
+
+
+
+-----
+
+.. rubric:: alt
+
+
+.. only:: not nosidebar
+
+    .. sidebar:: Duodenum
+
+        -   Beginn des Dünndarmes, ca. 30 cm lang
+        -   Pars superior duodeni
+
+            -   Ampulla duodeni
+
+        -   Flexura duodeni superior
+        -   Pars descendens duodeni
+
+            -   Papilla vateri: 2 Gänge münden:
+
+                -   Ductus choledocus
+                    (Gallenflüssigkeit aus Leber, Fettverdauung)
+                -  Ductus pancreaticus (Bauchspeichel, Enzyme)
+
+        -   Flexura duodeni inferior
+        -   Pars horizontalis duodeni
+        -   Pars ascendens
+        -   Flexura duodenojejunalis (Treitz'sche Flexur)
+
+
+
+:Synonym: Zwölffingerdarm
+
+Das Duodenum ist der Beginn des Dünndarmes
+ab dem Pförtner des Magens und misst ca. 30 cm.
+Es beginnt nach dem Pförtner,
+der Verlauf ähnelt dem Buchstaben "C"
+und beginnt mit dem
+:dfn:`Pars superior duodeni`,
+welcher *intraperitoneal* liegt und
+ca. 5 cm lang ist.
+Am Anfang auf Höhe des LWK 1 findet sich die
+apullenförmig erweiterte
+:dfn:`Ampulla duodeni`
+(:dfn:`Bulbus duodeni`).
+
+Es folgt an der :dfn:`Flexura duodeni superior`
+der Übergang in die
+:dfn:`Pars descendens duodeni`.
+Hier  befindet sich die :dfn:`Papilla vateri`,
+eine prominente Schleimhautfalte,
+in die der gemeinsame Gang
+des *Ductus choledochus* und *Ductus pancreaticus* mündet,
+aus welchem *Gallenflüssigkeit*
+aus der Leber und Pankreassekret
+in den Dünndarm gelangen.
+
+Nach der :dfn:`Flexura duodeni inferior` folgt die
+:dfn:`Pars horizontalis duodeni`
+(*Pars inferior*).
+Darauf folgt die :dfn:`Pars ascendens duodeni`,
+welche *sekundär retroperitoneal* liegt.
+Am Ende liegt auf Höhe des LWK 2
+die :dfn:`Flexura duodenojejunalis`
+(:dfn:`Treitz'sche Flexur`),
+welche den Übergang in das
+(intraperitoneal gelegene)
+Jejunum markiert.
+
+
+
+.. only:: not nosidebar
+
+    .. sidebar:: Jejunum und Ileum
+
+        -   Ca. 3 m lang,
+            Oberflächenvergrößerung durch Darmzotten
+
+            -   *Nährstoffaufnahme*
+
+        -   Mesenterium: Aufgehängung, Blutgefäßversorgung
+
+            -   Abwehr von Darmbakterien
+
+Das :dfn:`Jejunum` (*Leerdarm*) und :dfn:`Ileum`
+(*Krummdarm*) sind die zwei weiteren Teile des Dünndarmes. Ihre
+Gesamtlänge beträgt ca. 3 m . Ihre Hauptaufgabe besteht in der weiteren
+Verdauung der Nahrung und der **Nährstoffaufnahme**.
+Hierfür dienen Darmzotten — kleine "Ausstülpungen der Oberfläche" —
+zur Oberflächenvergrößerung.
+
+Jejunum und Ileum sind ab ihrem Abgang aus dem
+Zwöffingerdarm bis zum Übergang in den Dickdarm relativ frei beweglich.
+Die einzige Befestigung dieses Darmabschnittes ist das :dfn:`Mesenterium` (Darmgekröse),
+durch welches auch die Versorgung mit Blutgefäßen erfolgt.
+
+Das besondere am Ileum ist, dass es einzelne Zellbezirke des
+Abwehrsystems (Peyer’sche Plaques) enthält.
+Sie sorgen dafür, dass
+Bakterien aus dem Dickdarm nicht den weiteren Dünndarm bevölkern können.
+Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
+(Enteritis bis Gastroenteritis) mit den Symptomen von Durchfall,
+Übelkeit und Erbrechen.
+
+
+
+
+
+
+-----
 
 
 .. index::
@@ -416,6 +616,62 @@ Corpus cavernosum recti. Es ist für die Feinkontinenz zuständig und
 befindet sich direkt beim Übergang zwischen Rektum und Canalis analis.
 
 
+-----
+
+.. rubric:: alt
+
+
+.. only:: not nosidebar
+
+    .. sidebar:: Dickdarm
+
+        -   T-Kreuzung
+        -   Blinddarm = Sackgasse
+        -   Wurmfortsatz (Appendix)
+        -   Aufsteigender Teil
+        -   Querender Teil
+        -   Absteigender Teil
+        -   S-förmig gebogener Teil
+        -   Mastdarm (Rektum)
+        -   Funktion des Dickdarms:
+            Stuhleindickung, Wasserentzug, Speicherung
+        -   Darmbakterien
+
+
+Der :dfn:`Dickdarm` (*Term.* *Colon*) ist ca. 1,5m lang und
+wird in verschiedene Abschnitte unterteilt. Das Ileum mündet an einer
+*T-Kreuzung* in den Dickdarm: *Zehenwärts* geht es in den:dfn:`Blinddarm`,
+*Kopfwärts* in den *aufsteigenden Teil* des Dickdarmes.
+Wie der Name des Blinddarmes schon andeutet endet er blind, er ist daher
+eine Sackgasse. Am Blinddarm angehängt findet man den :dfn:`Wurmfortsatz`
+(:dfn:`Appendix`),
+welcher klassischerweise
+für seine Neigung sich zu entzünden bekannt ist (*Appendizitis*).
+Der Wurmfortsatz erfüllt beim Menschen keine nennenswerte Funktion,
+außer der Arbeitsplatzsicherung von Anästhesisten und Chirurgen aufgrund häufig notwendiger Appendix-Operationen.
+Es wird vermutet, dass er eine immunologische Funktion hat.
+
+Vom Blinddarm geht es weiter in den **aufsteigenden Teil**,
+den **querenden** und den **absteigenden Teil des Dickdarms** (Colon
+ascendens, transversum et descendens).
+Hierbei durchquert der Dickdarm
+alle Quadranten des Bauches, von rechts unten über rechts oben nach
+links oben bis links unten. Es folgt der **S-förmig gebogene Teil** (Sigmoideum)
+und danach der **Mastdarm** (*Rektum*),
+welcher den Stuhl über den **Anus** nach außen entlässt.
+
+Die Hauptfunktion des Dickdarms ist der **Wasserentzug** und
+das *Eindicken* des Stuhls, sowie dessen *Speicherung*.
+Der Großteil der
+Wasseraufnahme aus der verdauten Nahrung findet hier statt. Der Dickdarm
+ist von *Darmbakterien* besiedelt.
+
+
+
+
+-----
+
+
 
 .. index::
     single: Bauchspeicheldrüse
@@ -457,6 +713,52 @@ unterschieden:
 Sein Ausführungsgang, der *Ductus pancreaticus*, mündet gemeinsam mit
 dem Ausführungsgang der Galle, Ductus choledochus, an der *Papilla
 duodeni major* in das Duodenum.
+
+
+-----
+
+.. rubric:: alt
+
+
+
+.. only:: not nosidebar
+
+    .. sidebar:: Pankreas / Aufgaben
+
+        -   Produktion von
+
+            -   Verdauungsenzymen
+            -   Hormonen für den Zuckerstoffwechsel:
+                Insulin und Glukagon
+
+Das :dfn:`Pankreas` (:dfn:`Bauchspeicheldrüse`) ist ca.
+15—22 cm lang und liegt hinter dem Magen.
+Es hat einen
+*Ausführungsgang*, welcher zusammen mit dem Gallengang *in den
+Zwölffingerdarm* (Duodenum) mündet.
+Man kann sie grob unterteilen in
+Kopf und Schwanz.
+Der Pankreaskopf liegt in der C-Schlaufe des
+Zwölffingerdarmes, die Spitze der Bauchspeicheldrüse reicht bis zur
+Milz.
+
+Die Bauchspeicheldrüse hat *zwei wesentliche Funktionen*. Einerseits ist
+es verantwortlich für die *Enzymproduktion für die Verdauung*.
+Diese werden über den Bauchspeicheldrüsen-Ausführungsgang in den
+Zwölffingerdarm abgegeben. Andererseits produziert die
+Bauchspeicheldrüse zwei wichtige *Hormone*,
+:dfn:`Insulin`
+:index:`\ <! Insulin>`
+und Glukagon,
+die den *Zuckerstoffwechsel* des Körpers regulieren.
+Insulin sorgt eine Verringerung des Blutzuckers durch eine Förderung der
+Zuckerentfernung aus dem Blut.
+Glukagon hingegen ist verantwortlich für
+die Steigerung der Menge an Zucker im Blut.
+
+
+
+-----
 
 
 
@@ -562,6 +864,74 @@ einer Zentralvene in der Mitte. An den Grenzen der Leberläppchen
 befinden sich Äste der A. hepatica propria, der V. portae und ein
 Gallengänge. Von dort fließen die Flüssigkeiten über die Lebersinusoide
 in Richtung der Zentralvenen.
+
+
+-----
+
+.. rubric:: alt
+
+
+
+.. only:: not nosidebar
+
+    .. sidebar:: Leber
+
+        "Chemiefabrik" des Körpers
+
+        -   "Chemiefabrik":
+
+            -  Produktion von Eiweißen
+            -  Entgiftung
+            -  Nährstoffreiches Blut vom Darm zwecks Entgiftung
+
+        -   Speicherung von Fett und Zucker
+        -   "Verdauungsdrüse"
+
+            -   Produziert Gallenflüssigkeit: Fettverdauung (Emulgator)
+            -   Gallengänge Richtung Zwölffingerdarm
+            -   An Gallengängen: Gallenblase (Speicherung)
+
+:Term.: Hepar
+
+Die Leber ist ein solides Organ und
+befindet sich im *rechten Oberbauch*.
+Sie hat einen linken und rechten
+Lappen.
+Sie ist die "Chemiefabrik" des Körpers:
+Sie produziert wichtige
+Stoffe, entgiftet und speichert Fette und Zucker.
+
+Die Leber produziert u.a. wichtige, vom Körper benötigte, *Eiweißstoffe*
+(Proteine).
+Weiters sorgt sie für den *Abbau von Giftstoffen*
+(*Entgiftung*).
+Die Leber nimmt dabei durch die Giftstoffe mit der Zeit
+selbst auch Schaden, welches zu chronischen Leberschädigungen,
+wie z. B. einer Leberentzündung (Hepatitis) oder Leberzirrhose (könnte man als fortschreitende "Vernarbung" der Leber bezeichnen),
+führen kann.
+Über die :ref:`Pfortader <pfortader>` (Vena portae)
+erhält die Leber nährstoffreiches Blut von Teilen des Darms um es zu
+entgiften,
+bevor es in den normalen Blutkreislauf zurückkehrt.
+Außerdem dient die Leber der *Speicherung* von Fetten und Zucker.
+
+Die Leber ist auch eine *Verdauungsdrüse*: Sie produziert die
+*Gallenflüssigkeit* (*"Galle"*), welche der *Fettverdauung*
+dient: Fette sind an sich nicht in Wasser löslich, es bedarf der
+Gallenflüssigkeit als Hilfsstoff (*Emulgator*), welche aus Fett und
+Wasser ein feines Gemisch ermöglicht (*Emulsion*). Von der Leber leiten
+die :dfn:`Gallengänge` die Gallenflüssigkeit in
+den Zwölffingerdarm. An den Gallengängen hängt die
+:dfn:`*Gallenblase`,
+in welcher die Gallenflüssigkeit *gespeichert (!)*
+— nicht produziert — wird.
+
+
+
+
+-----
+
+
 
 **************************************
 Vesica fellea / biliaris (Gallenblase)

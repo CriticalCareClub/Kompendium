@@ -139,6 +139,8 @@ für die Nerven und den Muskel wichtig.
 
 .. _Osmose:
 .. _Diffusion:
+.. _Osmolaritaet:
+.. _Osmolalitaet:
 
 Osmose und Diffusion
 ------------------------------------------------------------------------
@@ -158,26 +160,28 @@ herrscht.
 Da die Zellmembran (und teilweise auch die Blutgefäßwand) nur
 das Wasser durchlässt, nicht jedoch die geladenen Teilchen, kann dies
 nur erreicht werden, indem Wasser vom Raum der niedrigeren Konzentration
-in den mit einer höheren Konzentration übertritt. [#OsmotischerDruck]_
+in den mit einer höheren Konzentration übertritt.
+Das Konzentrationsgefälle begründet somit den **osmotischen Druck**.
 Man kann auch
 sagen:
 
     *"Das Wasser folgt dem Konzentrationsgefälle."*
 
-.. [#OsmotischerDruck]
-    Man kann es sich so vorstellen, dass die Elektrolyte einen "Druck"
-    ausüben und das Wasser dazu bringen "die Seiten zu wechseln".
-    Man nennt diesen Druck den **osmotischen Druck**.
-    Daneben gibt es den *onkotischen* Druck, welcher durch
-    Eiweißbestandteile ausgeübt wird.
-    Der durch Eiweißbestandteile
-    hervorgerufene onkotische Druck wird bei speziellen "kolloidalen"
-    Infusionslösungen ausgenützt.
-    Sie enthalten große Eiweiße, welche die
-    Blutgefäßwand normalerweise nicht passieren können und folglich
-    Wasser vom Zwischengewebsraum in den Blutgefäßraum "ziehen".
-    Ein verbreiteter Wirkstoff ist die Hydroxyethylstärke (HAES)
-    oder Gelatine.
+Die :dfn:`Osmolarität`` bezeichnet Konzentration aller
+osmotisch wirksamen Teilchen pro Volumseinheit.
+Ähnlich dazu bezeichnet die :dfn:`Osmolalität` die Konzentration osmotisch wirksamer Teilchen in einer Lösung
+bezogen auf die *Masse* des Lösungsmittels.
+
+Neben dem osmotischen Druck gibt es den *onkotischen* Druck,
+welcher durch große Mokeküle,
+v. a. Eiweißbestandteile, ausgeübt wird.
+Dieser wird bei speziellen "kolloidalen"
+Infusionslösungen ausgenützt,
+bei welchen die Moleküle aufgrund Ihrer Größe und Ladung
+die Blutgefäße *normalerweise* nicht verlassen können
+und folglich Wasser vom Zwischengewebsraum in den Blutgefäßraum "ziehen".
+Ein verbreiteter Wirkstoff ist die Hydroxyethylstärke (HAES)
+oder Gelatine.
 
 .. subfigstart::
 

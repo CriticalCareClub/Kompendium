@@ -3,6 +3,9 @@
     single: Allergie
     single: Kontrastmittel; Allergie
 
+.. _Allergie:
+.. _Anaphylaxie:
+
 ############################
 Allergie und Anaphylaxie
 ############################

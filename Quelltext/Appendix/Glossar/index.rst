@@ -1,5 +1,5 @@
 
-Abkürungsverzeichnis und Glossar
+Abkürzungsverzeichnis und Glossar
 ########################################################################
 
 .. raw:: latex
@@ -65,6 +65,9 @@ Abkürungsverzeichnis und Glossar
         (übermäßiges, anhaltendes Erbrechen),
         die EPH-Gestose bzw. Präekplampsie,
         die Eklampsie und das HELLP-Syndrom.
+
+    ICP
+        Intracranial Pressure; intrakranieller Druck
 
     ICR
         Intercostalraum. Vgl. :ref:`Intercostalraum`

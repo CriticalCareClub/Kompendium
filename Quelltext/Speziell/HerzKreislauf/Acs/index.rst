@@ -11,7 +11,7 @@
 .. _AkutesKoronarsyndrom:
 .. _akutes-koronarsyndrom:
 .. _AnginaPectoris:
-.. _Herzinfarkt:
+.. _Herzinfarkt-Acs:
 .. _Mci-Acs:
 .. _Stemi:
 

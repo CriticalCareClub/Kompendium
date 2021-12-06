@@ -295,13 +295,12 @@ Aktivatoren in Blut und Gewebe - Plasminogen wird in Plasmin umgewandelt
     Zu medizinischen Zwecken können Blutbestandteile durch Blutprodukte
     ersetzt werden. Die wichtigsten Produkte sind:
 
-    -  :dfn:`Erythrozytenkonzentrate` ("Ery-Konzentrate",
-    "Blutkonserven") sind Blutprodukte, welche (fast) ausschließlich
-    Erythrozyten enthalten und werden bei schwerwiegenden Anämien, z. B.
-    bei starken Blutungen, eingesetzt.
+    -   :dfn:`Erythrozytenkonzentrate` ("Ery-Konzentrate",
+        "Blutkonserven") sind Blutprodukte, welche (fast) ausschließlich
+        Erythrozyten enthalten und werden bei schwerwiegenden Anämien, z. B.
+        bei starken Blutungen, eingesetzt.
 
-    -  :dfn:`Thrombozytenkonzentrate` sind Blutprodukte, welche
-    fast ausschließlich Thrombozyten beinhalten.
+    -   :dfn:`Thrombozytenkonzentrate` sind Blutprodukte, welche fast ausschließlich Thrombozyten beinhalten.
 
     Manche Menschen bilden Antikörper gegen bestimmte Fremdblutbestandteile,
     sodass sie spezielle, taugliche, Blutprodukte benötigen. Die

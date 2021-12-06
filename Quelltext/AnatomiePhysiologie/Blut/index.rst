@@ -126,6 +126,12 @@ Es gibt folgende Blutzellen:
 
 -   *Thrombozyten (Blutplättchen)*: Lebensdauer ca. 5 bis 10 Tage
 
+.. figure:: /Bilder/WikipediaPd/Red_White_Blood_cells.jpg
+
+    Erythrozyt (rot), Thrombozyt (gelb) und Leukozyt (blau) im Rasterelektronenmikroskop (eingefärbt)
+
+    ₢ US National Cancer Institute :ref:`ℓ PD`
+
 Der *Hämatokrit* spiegelt den prozentualen Anteil der Blutzellen am
 Gesamtblutvolumen wider (ca. 45%, Mann 47%, Frau 43%).
 
@@ -322,6 +328,10 @@ geringen Umfang vorrätig sind.
 
 Immunsystem
 ===========
+
+Das Blut stellt ein Transportvehikel für das Immunsystem dar,
+jedoch können speziell Immunzellen vom Blut in das Gewebe wechseln und dort aktiv werden.
+Der Schauplatz einer Immunreaktion befindet sich somit zumeist außerhalb des Blutes.
 
 Das Immunsystem besteht aus den *Abwehrzellen (Leukozyten), löslichen
 Proteinen (Antikörper usw.) und lymphatischen Organen*. Man kann eine

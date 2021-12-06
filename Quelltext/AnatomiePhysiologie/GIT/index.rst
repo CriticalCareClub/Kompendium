@@ -4,7 +4,7 @@ Gastrointestinales System
 
 .. _allgemeine-anatomie-4:
 
-Allgemeine Anatomie
+Allgemeines
 ===================
 
 Der Gastrointestinaltrakt hat einige spezifische Aufgaben innerhalb des
@@ -41,11 +41,16 @@ Kopfteil und in einen Rumpfteil eingeteilt werden.
 
     ₢ Mariana Ruiz Villarreal ℓ Public domain
 
+.. _Mundhoehle-Gastrointestinaltrakt:
 
-
-Cavitas oris (Mundhöhle)
+Mundhöhle (Cavitas oris)
 ========================================================================
 
+.. sidebar:: Mundhöhle
+
+    -   Zähne: Nahrungszerkleinerung
+    -   Speicheldrüsen
+    -   Zunge: Nahrungsfortbewegung, Kehldeckelverschluss
 
 .. figure:: /Bilder/HirtlerLena-Ccc/needs-work/Mundhoehle.*
 
@@ -53,6 +58,13 @@ Cavitas oris (Mundhöhle)
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
+In der Mundhöhle wird die Nahrung über den Mund aufgenommen und durch
+die Zähne *zerkleinert*.
+Über *Geruch und Geschmack* wird die Nahrung in der Mundhöhle bereits
+einer Kontrolle unterzogen. Die zerkleinerte Nahrung wird über die
+Speicheldrüsen eingebreit und bereits durch den *Speichel* mit seinen
+Enzymen angedaut. Im Speichel ist insbesondere Amylase enthalten, das
+Kohlenhydrate spaltet.
 
 *Begrenzungen* der Mundhöhle:
 
@@ -61,98 +73,119 @@ Cavitas oris (Mundhöhle)
 -   unten: Mundboden
 -   oben: harter (Palatum durum = Maxilla und Os palatinum) und weicher
     Gaumen (Palatum molle)
--   hinten: Übergang in den Pharynx (Rachenenge = Isthmus faucium)
+-   hinten: Übergang in den Pharynx (Rachenenge: Isthmus faucium)
 
-Die *Rachenenge* (Isthmus faucium) wird seitlich von zwei Gaumenbögen
-(Arcus palatoglossus, Arcus palatopharyngeus) mit der in ihrer Mitte
-liegenden Uvula (Zäpfchen) begrenzt. Zwischen diesen beiden Bögen liegen
-die Tonsillae palatinae (Gaumenmandeln).
-
-Der *Gaumen* wird aus folgenden Muskeln gebildet:
-
--   M. tensor veli palatini - Spanner des Gaumensegels
--   M. levator veli palatini - Heber des Gaumensegels
--   M. palatoglossus - verengt den Isthmus faucium
--   M. palatopharyngeus - Schlundheber
--   M. uvulae - verkürzt die Uvula
-
-In der *Mundhöhle* wird die Nahrung über den Mund aufgenommen und durch
-die Zähne zerkleinert. Die Mundhöhle kann in den Mundvorhof (Vestibulum
-oris), der Bereich zwischen Lippen und Zähnen, sowie in die eigentliche
-Mundhöhle (Cavitas oris propria) unterteilt werden. Diese geht dann im
-Schlund (Fauces) mit der Rachenenge (Isthmus faucium) in den Rachen
+Die Mundhöhle kann in den Mundvorhof
+:deep:`(Vestibulum oris)`,
+der Bereich zwischen Lippen und Zähnen, sowie in die eigentliche
+Mundhöhle :deep:`(Cavitas oris propria)` unterteilt werden.
+Diese geht dann im
+Schlund :deep:`(Fauces)`
+mit der Rachenenge :deep:`(Isthmus faucium)` in den Rachen
 (Pharynx) über.
+Die *Rachenenge* (Isthmus faucium) wird seitlich von zwei Gaumenbögen
+:deep:`(Arcus palatoglossus, Arcus palatopharyngeus)`
+mit der in ihrer Mitte
+liegenden Uvula (Zäpfchen) begrenzt. Zwischen diesen beiden Bögen liegen
+die Gaumenmandeln (Tonsillae palatinae).
 
-Der Mundboden wird aus den *suprahyoidalen Muskeln* gebildet. Sie sind
-beteiligt beim Öffnen des Mundes und beim Schlucken:
+..
+    Der *Gaumen* wird aus folgenden Muskeln gebildet:
 
--   M. mylohydoieus
--   M. geniohyoideus
--   M. digastricus
--   M. stylohyoideus
+    -   M. tensor veli palatini - Spanner des Gaumensegels
+    -   M. levator veli palatini - Heber des Gaumensegels
+    -   M. palatoglossus - verengt den Isthmus faucium
+    -   M. palatopharyngeus - Schlundheber
+    -   M. uvulae - verkürzt die Uvula
 
-Über *Geruch und Geschmack* wird die Nahrung in der Mundhöhle bereits
-einer Kontrolle unterzogen. Die zerkleinerte Nahrung wird über die
-Speicheldrüsen eingebreit und bereits durch den *Speichel* mit seinen
-Enzymen angedaut. Im Speichel ist insbesondere Amylase enthalten, das
-Kohlenhydrate spaltet.
 
-Die *Zunge* besteht aus quergestreiftem Muskel. Neben *Sinnesorganen*
+Der Mundboden wird aus den
+:deep:`suprahyoidalen` Muskeln\ [#SuprahyoidalenMuskeln]_
+gebildet.
+Sie sind beteiligt beim Öffnen des Mundes und beim Schlucken.
+
+.. [#SuprahyoidalenMuskeln]
+
+    Suprahyoidalen Muskeln: M. mylohydoieus, M. geniohyoideus, M. digastricus, M. stylohyoideus
+
+Zunge
+---------
+
+Die *Zunge* besteht aus quergestreiftem Muskel\ [#Zungenmuskeln]_.
+Neben ihrer Rolle als *Sinnesorgan*
 für Geschmacks- und Tastempfindungen spielt die Zunge auch eine wichtige
-Rolle beim *Sprechen*. Ihre Muskeln können grob in *innere und äußere
+Rolle beim *Sprechen* und Schlucken von Nahrung und Speichel.
+Ihre Muskeln können grob in *innere und äußere
 Zungenmuskeln* eingeteilt werden und ermöglichen Zungenbewegungen in
-allen drei Raumebenen. Um alle feinen Bewegungen der Zunge zu
-ermöglichen, gibt es die meisten Zungenmuskeln paarig - in der Mitte
-werden die beiden Zungenhälften durch eine Zwischensehne (Septum
-linguale) getrennt.
+allen drei Raumebenen.
+Um alle feinen Bewegungen der Zunge zu
+ermöglichen, gibt es die meisten Zungenmuskeln paarig — in der Mitte
+werden die beiden Zungenhälften durch eine Zwischensehne
+:deep:`(Septum linguale)` getrennt.
 
-Die Innervation der Zunge erfolg motorisch über den N. hypoglossus
+Die Innervation der Zunge erfolg über :ref:`Hirnnerven <Hirnnerven>`,
+speziell motorisch über den N. hypoglossus
 (XII), sensibel über N. glossopharyngeus (IX) und N. vagus (X) im
 hinteren Drittel sowie über den N. trigeminus (V) in den vorderen zwei
-Dritteln
+Dritteln.
 
--   *äußere Zungenmuskeln*:
+.. [#Zungenmuskeln]
+    Zungenmuskeln:
 
-    -   M. genioglossus - zieht die Zunge nach vorne und mundbodenwärts.
-    -   M. hyoglossus - zieht die Zunge nach hinten.
-    -   M. styloglossus - zieht die Zunge nach hinten oben.
-    -   M. palatoglossus - verengt den Isthmus faucium.
+    .. hlist::
 
--   *innere Zungenmuskeln*: dreidimensional verlaufend, sie werden vom
-    Septum linguale getrennt, über sie kommt es zu den Formveränderungen
-    der Zunge.
+        -   *äußere Zungenmuskeln*:
 
-    -   Mm. longitudinales superior et inferior
-    -   M. transversus linguae
-    -   M. verticalis linguae
+            -   M. genioglossus - zieht die Zunge nach vorne und mundbodenwärts.
+            -   M. hyoglossus - zieht die Zunge nach hinten.
+            -   M. styloglossus - zieht die Zunge nach hinten oben.
+            -   M. palatoglossus - verengt den Isthmus faucium.
+
+        -   *innere Zungenmuskeln*: dreidimensional verlaufend, sie werden vom
+            Septum linguale getrennt, über sie kommt es zu den Formveränderungen
+            der Zunge.
+
+            -   Mm. longitudinales superior et inferior
+            -   M. transversus linguae
+            -   M. verticalis linguae
 
 Der *Zungengrund* bezeichnet die Zungenwurzel. In ihrem Bereich befindet
-sich die Tonsilla lingualis, ein Teil des Waldeyerschen Rachenrings,
-sowie das Foramen caecum, der ursprüngliche Bildungsort der Schilddrüse.
+sich die Tonsilla lingualis, ein Teil des Waldeyerschen Rachenrings.
 
 Neben *Tast-, Tiefen-, Temperatur- und Schmerzrezeptoren* besitzt die
-Zunge zahlreiche Papillen. Diese werden unterverteilt in:
-
--   Papillae fungiformes (pilzförmig) - Geschmack
--   Papillae vallatae (wallförmig) - Geschmack
--   Papillae foliatae (blätterförmig) - Geschmack
--   Papillae filiformes (fadenförmig) ➛ Tast-, Tiefen-, Temperatur- und
-    Schmerzempfinden
-
+Zunge zahlreiche Papillen\ [#Zungenpapillen]_, welche zuständig sind für Geschmack, Tast-, Tiefen-, Temperatur- und Schmerzempfinden.
 In diesen Papillen werden die einzelnen *Geschmacksqualitäten* (sauer,
 salzig, süß, bitter, Umami) wahrgenommen. Jeder Zungenregion kann eine
-Qualitätspräferenz – außer Umami (= Geschmack von Glutamat)- zugewiesen
+Qualitätspräferenz (außer Umami: Geschmack von Glutamat) zugewiesen
 werden.
 
-Die Zähne sind auf zwei Zahnreihen – *oberer und unterer Zahnbogen* – im
-Ober- und Unterkiefer verteilt. Nach den Milchzähnen (20 Stück) im
-Kindesalter zerkleinern die bleibenden Zähne (32 Stück) die zugeführte
-Nahrung. Abhängig von der jeweiligen Form und Aufgabe unterscheidet man:
+.. [#Zungenpapillen]
 
--   Schneidezähne (Dens incisivus, 2 Stk.): ➛ Abbeißen
--   Eckzähne (Dens caninus, 1 Stk.): ➛ Reißen, Festhalten
--   Backenzähne (Dens premolaris, 2 Stk.): ➛ Mahlen
--   Mahlzähne (Dens molaris, 3 Stk.): ➛ Mahlen
+    Papillen der Zunge:
+
+    ..hlist::
+
+        -   Papillae fungiformes (pilzförmig): Geschmack
+        -   Papillae vallatae (wallförmig): Geschmack
+        -   Papillae foliatae (blätterförmig): Geschmack
+        -   Papillae filiformes (fadenförmig): Tast-, Tiefen-, Temperatur- und
+            Schmerzempfinden
+
+
+Zähne
+-------
+
+Die Zähne sind auf 4 Quadranten,
+jeweils rechts—links im Ober- und Unterkiefer, verteilt.
+Nach den Milchzähnen (20 Stück) im
+Kindesalter zerkleinern die bleibenden Zähne (32 Stück) die zugeführte
+Nahrung.
+Abhängig von der jeweiligen Form und Aufgabe unterscheidet man pro Quadrant:
+
+-   2 Schneidezähne :deep:`(Dens incisivus)`: Abbeißen
+-   1 Eckzahn :deep:`(Dens caninus)`: Reißen, Festhalten
+-   2 Backenzähne ("Premolare", :deep:`Dens premolaris`): Mahlen
+-   3 Mahlzähne ("Molare", :deep:`Dens molaris`): Mahlen
 
 
 
@@ -207,6 +240,10 @@ Der *Zahnhalteapparat* besteht aus:
 -   Zahnfleischrand
 -   Desmodontium
 -   Cementum
+
+
+Speichel
+-----------
 
 Der bereits erwähnte *Speichel* wird von exokrinen Drüsen gebildet. Die
 Mundhöhle besitzt kleine Speicheldrüsen mit kurzen Ausführungsgängen in

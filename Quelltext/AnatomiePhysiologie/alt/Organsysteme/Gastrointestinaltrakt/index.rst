@@ -37,7 +37,6 @@ um ausgeschieden zu werden.
 .. toctree::
     :caption: Organe des Gastrointestinaltrakts
 
-    Mundhoehle-Gastrointestinaltrakt/index
     Oesophagus/index
     Magen/index
     Duodenum/index

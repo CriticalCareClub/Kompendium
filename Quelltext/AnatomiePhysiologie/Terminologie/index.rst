@@ -434,6 +434,33 @@ Hierauf wird unter :ref:`Bewegungsapparat` gesondert eingegangen.
 
 
 
+Biotypologie
+============
+
+Die Biotypologie beschreibt die Beurteilung des Körperbaus und den
+Versuch des Schlusses auf innere Werte und Wesenszüge.
+Hier gibt es
+Begriffe,
+die auch noch in der heutigen Sprache wiedererkennbar sind.
+
+Biotypologie nach Hippocrates:
+
+-   cholerisch: leidenschaftlich, aufbrausend, jähzornig, unbeherrscht
+-   phlegmatisch: schwerfällig, behäbig, bequem, gemütlich
+-   sanguinisch: lebhaft, beweglich, optimistisch, leichtblütig
+-   melancholisch: schwermütig, trübsinnig, pessimistisch, gleichgültig
+
+Biotypologie nach Kretschmer:
+
+-   leptosom: mager, zart, eng- und flachbrüstig, mit dünnen Armen und
+    Beinen, körperlich und geistig empfindlich, kompliziert, sprunghaft.
+-   pyknisch: mittelgroß, gedrungener Körperbau, Neigung zu Fettansatz,
+    Brustkorb unten breiter als oben, kurzer Hals und breites Gesicht,
+    behäbig, gemütlich, gutherzig, gesellig, heiter, lebhaft bis hitzig
+    oder auch still und weich.
+-   athletisch: kräftiger Körperbau, breite Schultern, oben breiter
+    Brustkorb, heiter, forsch, aktiv.
+
 
 
 .. index::

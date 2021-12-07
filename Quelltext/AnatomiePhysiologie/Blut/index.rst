@@ -1,3 +1,4 @@
+.. _Blut:
 
 Blut
 ************************************************************************
@@ -68,26 +69,132 @@ Antigen-Antikörper-Reaktionen zunächst noch erläutert werden:
 Zusammensetzung
 ===============
 
+
+.. sidebar:: Blut: --: Bestandteile
+
+    -   Feste Bestandteile (Zellen)
+    -   Rote Blutkörperchen (Erythrozyten)
+
+        -   O₂-Transport
+        -   Farbstoff Hämoglobin (O₂-Transport)
+        -   Blutgruppenmerkmale
+
+    -   Weiße Blutörperchen (Leukozyten)
+
+        -   Abwehr-/Immunsystem, Entzündungszellen
+
+    -   Blutplättchen (Thrombozyten)
+
+        -   Zelluläre Blutstillung
+        -   Wundverschluss
+
+    -   Flüssige Bestandteile (Plasma)
+    -   10% Proteine, Enzyme, Hormone, Elektrolyte, Glukose, Fette
+    -   90% Wasser
+    -   Aufgaben:
+
+        -   Nährstofftransport
+        -   Wärmeverteilung
+        -   Proteine und Enzyme für *Blutgerinnung* (Serum)
+        -   Pufferung des pH-Wertes
+
+
 Die gesamte Blutmenge des menschlichen Körpers wird mit *7 - 8 %* des
 gesamten Körpergewichts beziffert. Damit beträgt das gesamte Blutvolumen
 eines Durchschnitts-Menschen mit 70kg ungefähr 5-6 l. Ungefähr 80%
 befinden sich davon im Körperkreislauf, 20% im Lungenkreislauf. Das Blut
-kann man in zelluläre und flüssige Bestandteile unterteilen.
+kann man in **zelluläre** und **flüssige** Bestandteile unterteilen.
 
-Folgende *Aufgaben* hat das Blut:
 
--   Gastransport (rote Blutkörperchen)
--   Immunabwehr (weiße Blutkörperchen)
--   Transport von Nährstoffen, Stoffwechselprodukten, körpereigenen
-    Stoffen, Wärme (Blutplasma)
--   Blutgerinnung (Blutplättchen, Gerinnungsfaktoren des Blutplasma)
+.. sidebar:: Blut: Aufgaben
 
+    -   Stoff- und Gastransport
+
+        -   Sauer- und Nährstoffe zu den Körperzellen
+        -   CO₂-Abtransport
+        -   Transport von Abfallprodukten
+        -   Botenstoffe (Hormone)
+
+    -   Immunsystem
+    -   Wärmeverteilung
+    -   Säure-/Basen-Haushalt (Pufferungssystem)
+    -   Blutgerinnung
+
+
+Das Blut hat vielfältige Aufgaben:
+
+-   **Gastransport**: Das Blut transportiert *Sauerstoff*
+    zu den Zellen und *Kohlendioxid* von den Zellen weg
+    (:ref:`blut-sauerstofftransport`).
+
+-   **Stofftransport**: Weiters transportiert das Blut die über
+    den Darm aufgenommenen oder im Körper gespeicherten *Nährstoffe* zu den entsprechenden
+    Verbrauchern (Zellen) oder Weiterverarbeitungsstellen
+    und sorgt für den Abtransport von
+    *Abfallprodukten* aus den Zellen zu Leber und Niere.
+    Außerdem werden über das Blut
+    Signal- bzw. *Botenstoffe* (**Hormone**) transportiert.
+
+-   **Immunsystem**: Das Blut spielt eine wichtige Rolle im Rahmen des
+    Immun(abwehr)systems: Weiße Blutkörperchen und bestimmte, im Blut
+    gelöste, Stoffe sind ein wichtiger Bestandteil des Immunsystems
+    (:ref:`immunsystem`). Durch das Blut gelangen die weißen
+    Blutkörperchen und die gelösten Stoffe an den Ort von Infektionen.
+
+-   **Regulation der Körpertemperatur** gemeinsam mit den Blutgefäßen:
+    Bei Kälte werden die Blutgefäße in den Extremitäten enger gestellt —
+    weniger Wärme geht nach außen verloren, das Blut und dementsprechend
+    die Wärme wird "zentralisiert". Andersrum funktioniert es bei großer
+    Hitze: Über eine Weitstellung der Gefäße versucht der Körper soviel
+    Hitze wie möglich loszuwerden.
+
+-   **Säure-Basen-Haushalt**: Mittels eines *Puffersystems*
+    (:ref:`bikarbonatpuffer`) hilft das Blut bei der Aufrechterhaltung
+    eines ausgeglichenen pH-Werts im Körper.
+
+-   **Blutgerinnung** (Blutplättchen, Gerinnungsfaktoren des Blutplasma)
+
+
+
+
+
+.. _tab-blut-bestandteile:
+
+.. table:: Übersicht: Die Bestandteile des Blutes
+
+    +--------------------+--+--+-----------------------+-----------------+--+
+    | Feste Bestandteile |  |  | Flüssige Bestandteile |                 |  |
+    +--------------------+--+--+-----------------------+-----------------+--+
+    | Zellen             |  |  | Wasser                | Gelöste Stoffe  |  |
+    +--------------------+--+--+-----------------------+-----------------+--+
+    | Erythrozyten       |  |  |                       | Ionen           |  |
+    |                    |  |  |                       |                 |  |
+    |                    |  |  |                       | Glukose         |  |
+    | Leukozyten         |  |  |                       |                 |  |
+    |                    |  |  |                       | Hormone         |  |
+    |                    |  |  |                       |                 |  |
+    |                    |  |  |                       | Kreatinin       |  |
+    | Thrmbozyten        |  |  |                       |                 |  |
+    |                    |  |  |                       |                 |  |
+    |                    |  |  |                       | Harnstoff       |  |
+    |                    |  |  |                       |                 |  |
+    |                    |  |  |                       | …               |  |
+    +--------------------+--+--+-----------------------+-----------------+--+
+    |                    |  |  |                       |                 |  |
+    +--------------------+--+--+-----------------------+-----------------+--+
+    |                    |  |  |                       |                 |  |
+    +--------------------+--+--+-----------------------+-----------------+--+
+    |                    |  |  |                       |                 |  |
+    +--------------------+--+--+-----------------------+-----------------+--+
+
+
+.. todo:: Tabelle ergänzen: Übersicht: Die Bestandteile des Blutes
 .. _haemoglobin:
 .. _leukozyten:
 .. _erythrozyten:
 .. _thrombozyten:
 
-zelluläre Bestandteile
+Zelluläre Bestandteile
 ----------------------
 
 Die Blutbildung wird durch *Erythropoetin* (aus der Niere) gesteuert.
@@ -101,6 +208,7 @@ Es gibt folgende Blutzellen:
     Leber (Abbauprodukt = Bilirubin = Gallenfarbstoff), Hämoglobin ist
     der Hauptbestandteil (Mann 160 g/l, Frau 140 g/l), bindet Sauerstoff
     reversibel, Mann 5,3 Mio / µl, Frau 4,6 Mio / µl.
+    Sie tragen die **Blutgruppenmerkmale** (z. B. A, B bzw. 0) und die Rhesusfaktoren.
 
 -   *Leukozyten (weiße Blutkörperchen)*: 4000—8000 / µl, Wirken
     außerhalb des Blutgefäßsystems, Blut nur als Transportmedium.
@@ -135,37 +243,17 @@ Es gibt folgende Blutzellen:
 Der *Hämatokrit* spiegelt den prozentualen Anteil der Blutzellen am
 Gesamtblutvolumen wider (ca. 45%, Mann 47%, Frau 43%).
 
-Blutgruppen
------------
 
-Die Erythrozyten weisen eine große Anzahl an Membranbestandteilen auf
-(Blutgruppenantigene). Beim Menschen sind mehr als 100 solcher Antigene
-bekannt, jedoch hat nur das AB0- und das Rhesussystem klinische
-Bedeutung.
+Flüssige Bestandteile:  Blutplasma
+----------------------------------
 
-Innerhalb des *AB0-System* werden 4 Gruppen unterschieden:
-
--   Erythrozyten mit dem Antigen A (Blutgruppe A): 44%
--   Erythrozyten mit dem Antigen B (Blutgruppe B): 10%
--   Erythrozyten mit dem Antigen A und dem Antigen B (Blutgruppe AB): 4%
--   Erythrozyten mit keinem der beiden Antigene (Blutgruppe 0): 42%
-
-Lebensbedrohliche Reaktion bei Bluttransfusion von falscher Blutgruppe
-(hämolytische Reaktion).
-
-Beim *Rhesussystem* bestehen nur zwei Gruppen - positiv oder negativ. In
-Mitteleuropa sind 85% Rhesus positiv und 15% Rhesus-negativ.
-
-Lebensbedrohliche Reaktion bei Bluttransfusion von Rh-positivem-Blut an
-einen Rh-negativen-Patienten (Hämagglutination) bzw. ab der zweiten
-Schwangerschaft einer Rh-negativen Mutter mit einem Rh-positivem Kind
-(Hämolyse).
-
-Blutplasma
-----------
-
-90% des Plasma besteht aus Wasser, 10 % sind gelöste Stoffe. Die
-gelösten Stoffe umfassen:
+Die **flüssigen Bestandteile** des Blutes,
+das :dfn:`Plasma` besteht zum
+größten Teil (ca. 90%) aus *Wasser*.
+Der restliche Anteil (ca. 10%) besteht aus gelösten
+Stoffen wie
+z. B. *Proteine*, *Enzyme*, *Hormone*, *Elektrolyte*,
+*Glukose* und *Fette*, konkret::
 
 -   *Proteine 70 %*:
 
@@ -210,12 +298,22 @@ Wenn man hypotone Lösungen einsetzt
 (niedriger Osmotischer Druck), wird Wasser in die Zellen aufgenommen, es
 kommt zum Platzen von Zellen.
 
+Die wesentliche Aufgabe des Plasmas ist der
+*Transport* von Nährstoffen an ihren Zielort im Körper.
+Es enthält
+weiters die Bestandteile für die plasmatische Blutgerinnung und das
+Immunsystem (Antikörper, Immunglobuline).
+Durch die Elektrolyte ist
+es am Wasserhaushalt beteiligt und sorgt mit Puffersubstanzen für
+einen ausgeglichenen pH-Wert im menschlichen Körper.
+Schlußendlich sorgt es auch für die Wärmeverteilung im Körper.
+
 
 
 .. _Gerinnungsfaktoren:
 
-Blutstillung und Blutgerinnung
-==============================
+Blutstillung, Blutgerinnung und das Gegenteil davon
+===================================================
 
 .. todo:: Gerinnung: Genauer!
 
@@ -223,6 +321,8 @@ Blutstillung und Blutgerinnung
     -   Vorläufiger Wundverschluss (Thrombozytenpfropf)
     -   Endgültiger Wundverschluss (Blutgerinnung)
 
+Unser Organismus verfügt über eine körpereigene Blutstillung, welche
+aktiviert wird, sobald es im Körper zu einer Verletzung kommt.
 Die Blutgerinnung ist ein äußerst komplexer Vorgang
 uns baut auf Komponenten der zellulären Bestandteile (Thrombozyten)
 und der gelösten Stoffe (Gerinnungsfaktoren, Co-Faktoren u. v. a. m.)
@@ -239,6 +339,34 @@ Aktivierung der Thrombokinase - Prothrombin wird hierdurch in Thrombin
 umgewandelt - das Thrombin bewirkt die Umwandlung von Fibrinogen zu
 Fibrin - Fibrin und Thrombozyten bilden gemeinsam den Thrombus - es
 kommt zu einer Verfestigung des Thrombus (Retraktion)
+
+
+In einem
+ersten Schritt haften Blutplättchen an der verletzten Stelle des
+Blutgefäßes aneinander und bilden einen *Thrombozytenpfropf*, der die
+Wunde grob verschließt (vorläufiger Wundverschluss, primäre
+Blutstillung).
+Erst in einem zweiten Schritt kommt es durch die
+*Blutgerinnung* zum endgültigen Wundverschluss ( sekundäre
+Blutstillung).
+Für die Bildung der Thrombozytenpfropfen sind die festen
+Bestandteile des Blutes und für die Blutstillung das Blutplasma
+(flüssiger Bestandteil) zuständig.
+Am Ende der Wundheilung werden
+defekte Zellen abgebaut und Bindegewebe aufgebaut.
+
+Bei der Blutgerinnung werden nacheinander mehrere im Blutplasma gelöste
+Gerinnungsfaktoren  aktiviert.
+Dadurch
+verwandelt sich das zunächst ebenfalls im Plasma gelöste Fibrinogen in
+einen klebrigen und später in einen festen, die Wunde verschließenden
+Blutpfropfen (Thrombus).
+
+Das Gegenstück zur Blutgerinnung, bei der es zur Bildung von Thromben
+kommt, ist die Fibrinolyse, bei der es zur Auflösung von Thromben kommt.
+Normalerweise sind diese beiden Mechanismen im Gleichgewicht, sodass das
+Blut weder zu schnell noch zu langsam gerinnt.
+
 
 Phasen der *Fibrinolyse*:
 
@@ -298,6 +426,33 @@ und der Herzfrequenz bestimmt.
 
 
 
+Blutgruppenmerkmale
+=====================
+
+Die Erythrozyten weisen eine große Anzahl an Membranbestandteilen auf
+(Blutgruppenantigene).
+Beim Menschen sind mehr als 100 solcher Antigene
+bekannt, jedoch hat vor allem das AB0- und das Rhesussystem klinische
+Bedeutung.
+
+Innerhalb des *AB0-System* werden 4 Gruppen unterschieden:
+
+-   Erythrozyten mit dem Antigen A (Blutgruppe A): 44%
+-   Erythrozyten mit dem Antigen B (Blutgruppe B): 10%
+-   Erythrozyten mit dem Antigen A und dem Antigen B (Blutgruppe AB): 4%
+-   Erythrozyten mit keinem der beiden Antigene (Blutgruppe 0): 42%
+
+Lebensbedrohliche Reaktion bei Bluttransfusion von falscher Blutgruppe
+(hämolytische Reaktion).
+
+Beim *Rhesussystem* bestehen nur zwei Gruppen - positiv oder negativ. In
+Mitteleuropa sind 85% Rhesus positiv und 15% Rhesus-negativ.
+
+Lebensbedrohliche Reaktion bei Bluttransfusion von Rh-positivem-Blut an
+einen Rh-negativen-Patienten (Hämagglutination) bzw. ab der zweiten
+Schwangerschaft einer Rh-negativen Mutter mit einem Rh-positivem Kind
+(Hämolyse).
+
 Blutprodukte
 ============
 
@@ -328,6 +483,25 @@ geringen Umfang vorrätig sind.
 
 Immunsystem
 ===========
+
+Das :dfn:`Immunsystem` (Abwehrsystem) schützt den Körper vor
+Infektionskrankheiten und ist eine Vitalfunktion 2. Ordnung. Eine
+besonders bedeutende Rolle spielen die *Leukozyten* (Weiße
+Blutkörperchen, :ref:`leukozyten`). Sie ermöglichen das Abtötung und
+den Abbau von Krankheitserregern im Körper. Bestimmte Arten von
+Leukozyten können *Antikörper* (*Immunglobuline*)
+produzieren, das sind Proteine, welche an die Oberfläche von anderen
+Stoffen (z. B. Bakterien) binden können und damit die Erkennung und
+Abwehr eben dieser Stoffe unterstützen. Antikörper kommen außerdem bei
+*Schutzimpfungen* zum Einsatz.
+Weitere, im Blut gelöste Stoffe\ [#Komplementsystem]_,
+ergänzen die Funktion der Antikörper. Fieber kann die Immunabwehr
+unterstützen.
+
+
+.. [#Komplementsystem]
+   Komplementsystem
+
 
 Das Blut stellt ein Transportvehikel für das Immunsystem dar,
 jedoch können speziell Immunzellen vom Blut in das Gewebe wechseln und dort aktiv werden.

@@ -424,25 +424,29 @@ Sinneszellen ➛ N. vestibularis ➛ N. vestibulocochlearis ➛ Nuclei
 vestibulares ➛ Kleinhirn, Kerne der äußeren Augenmuskelnerven,
 Rückenmark
 
+
+
+.. index::
+   single: Haut
+   single: Derma
+
+.. _haut:
+
 ****
 Haut
 ****
+
+*Term.* *Derma*
 
 .. _allgemeine-anatomie-10:
 
 Allgemeine Anatomie
 ===================
 
-Die Haut ist das größte Sinnesorgan sowie die größte Abwehrbarriere des
-menschlichen Körpers. Die Hautdecke eines Menschen beträgt ca. 1,7
-Quadratmeter. Folgende Aufgaben soll sie erfüllen:
-
--   Schutz
--   Temperaturregulation
--   Wasserhaushalt
--   Sinnesinformationen
--   Abwehrfunktionen
--   Kommunikation
+Die Haut ist das größte Sinnesorgan sowie die größte Barriere des
+menschlichen Körpers gegen die Außenwelt.
+Die Hautdecke eines Menschen beträgt ca. 1,7
+Quadratmeter.
 
 Die *Hautfarbe* wird durch die Einlagerung von *Melanin* und *Karotin*
 sowie durch oxygeniertes und desoxygeniertes *Blut* in den Blutgefäßen
@@ -451,15 +455,89 @@ beeinflusst. Basierend auf äußeren Merkmalen kann man die Haut in eine
 (restlicher Körper) unterteilen.
 
 
+.. sidebar:: Aufgaben der Haut
+
+    -   Schutz vor äußeren Einflüssen
+    -   Schutz vor Wasserverlust/Austrocknung
+    -   Temperaturregulation
+
+        -   Isolation
+        -   Wärmeabgabe
+
+            -   Erweiterung der Blutgefäße
+            -   Verdunstungskälte des Schweißes
+
+    -   Sekretionsorgan (Schweiß, Talg)
+    -   Sinnesorgan (Tast-, Temperatursinn)
+
+Die Haut ist eine mechanische *Barriere gegen Umwelteinflüsse*. Sie
+verhindert das Eindringen von Fremdkörpern und Keimen und sorgt für
+einen ausgeglichenen Wasser- und Elektrolythaushalt, indem sie den
+Körper vor Austrocknung schützt.
+
+Neben der Lunge dient vor allen Dingen die Haut als wichtigstes Organ
+zur *Thermoregulation*: Durch ihren Aufbau stellt sie an sich schon eine
+(passive) Isolationsschicht dar. Weiters kann sie auch aktiv den
+Wärmehaushalt regulieren: Die Blutgefäße der Haut sind stark ineinander
+verwickelt und können sich bei Bedarf stark erweitern. Eine stark
+durchblutete Haut steigert die Wärmeabgabe deutlich. Weiters kann durch
+die Verdunstungskälte des Schweißes ebenfalls Wärme abgegeben werden.
+
+Als größtes *Sinnesorgan* des Körpers dient die Haut der Tastempfindung
+sowie der Temperaturempfindung.
+
+Folgende Aufgaben soll sie also erfüllen:
+
+-   Schutz
+-   Temperaturregulation
+-   Wasserhaushalt
+-   Sinnesinformationen
+-   Abwehrfunktionen
+-   Kommunikation
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Haut-edited.*
     :width: 70%
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
+.. index::
+   single: Oberhaut
+   single: Epidermis
+   single: Hornhaut
+   single: Lederhaut
+   single: Dermis
+   single: Unterhaut
+   single: Subcutis
+
 
 Schichten
 =========
+
+
+.. sidebar:: Schichten der Haut
+
+    -   *Oberhaut* (Epidermis)
+
+        -   Hornschicht, geschichtetes Plattenepithel
+
+    -   *Lederhaut* (Corium, Dermis)
+
+        -   Hautanhangsgebilde
+
+            -   Schweißdrüsen
+            -   Talgdrüsen
+            -   Haarfollikel, Nagelmatrix
+
+        -   Tastkörperchen, freie Nervenendigungen (Schmerz)
+        -   Kollagenfasern (Stütznetzwerk)
+        -   Arteriolen, Venolen
+            (Versorgung der Haut, Temperaturregulation)
+
+    -   *Unterhaut* (*Subcutis*)
+
+        -   Depotfett, Wärmeisolierung
+
 
 Folgende Schichten kann man bei der Haut (Cutis) unterscheiden:
 
@@ -481,7 +559,8 @@ Folgende Schichten kann man bei der Haut (Cutis) unterscheiden:
         Fasern, enthält Blut- und Lymphgefäße, Nervengefäße,
         Bindegewebszellen, Abwehrzellen, MEISSNER-Tastkörperchen
         (Berührung), freie Nervenendigungen (Mechano-, Schmerz-, Druck-,
-        Temperaturrezeptoren), Ruffini-Körperchen (Druck)
+        Temperaturrezeptoren), Ruffini-Körperchen (Druck),
+        Hautanhangsgebilde (Schweißdrüsen, Talgdrüsen, Haare und Nägel)
 
         -   Stratum papillare (Papillarschicht)
         -   Stratum reticulare (Geflechtschicht)

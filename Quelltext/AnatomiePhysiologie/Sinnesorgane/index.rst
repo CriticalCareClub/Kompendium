@@ -261,17 +261,34 @@ Visuelle Funktionen werden in Untergruppen verteilt und parallel in
 -   Farbwahrnehmung ➛ Gyrus angularis
 -   emotionale Komponenten ➛ limbisches System
 
+
+
+.. _ohr:
+
+
 ***
 Ohr
 ***
 
 .. _allgemeine-anatomie-9:
 
-Allgemeine Anatomie
-===================
+Allgemeine Anatomie und Überblick
+==================================
 
-Das Ohr wird in *zwei Sinnesorgane* unterteilt - eines für das Gehör,
-das zweite für das Gleichgewicht. Beide Organe liegen im Innenohr (Pars
+
+.. sidebar:: Das Ohr
+
+    -   Gliederung des Ohres:
+
+        -   Außenohr: Ohrmuschel und äußerer Gehörgang
+        -   Mittelohr: Trommelfell, Hammer, Amboß, Steigbügel
+        -   Innenohr: Schnecke, Gleichgewichtsorgan
+
+
+Das Ohr wird in *zwei Sinnesorgane* unterteilt:
+eines für das Gehör,
+das zweite für das Gleichgewicht.
+Beide Organe liegen im Innenohr (Pars
 petrosa des Os temporale).
 
 Zur *Sammlung der Schallwellen* für das Gehör sind Außenohr und
@@ -328,8 +345,7 @@ Gehörorgan
 Das Gehörorgan ist in 3 Anteile gegliedert:
 
 -   *Außenohr*: hierzu gehört die Auricula (Ohrmuschel), der Meatus
-    acusticus externus (äußerer Gehörgang, ca. 3 cm) und die Membrana
-    tympani (Trommelfell, ca. 1 cm)
+    acusticus externus (äußerer Gehörgang, ca. 3 cm) und die :dfn:`Trommelfell` (Membrana tympani, ca. 1 cm)
 -   *Mittelohr*: zum Mittelohr gehören das Cavum tympani (Paukenhöhle)
     mit den Gehörknöchelchen
     (Malleolus / Hammer, Incus / Amboss, Stapes / Steigbügel), die Tuba auditiva (Ohrtrompete) sowie
@@ -340,8 +356,10 @@ Das Gehörorgan ist in 3 Anteile gegliedert:
     häutige Labyrinth mit den Organen für Hören und Gleichgewicht ist
     eingelagert, mit Endolymphe gefüllt.
 
-Cochlea
-=======
+.. todo:: Durchblutung Ohrmuschel/Knorpel: Gefahr bei Hämatom
+
+Cochlea (Schnecke)
+======================
 
 Die Cochlea besteht aus 3 getrennte Räumen:
 

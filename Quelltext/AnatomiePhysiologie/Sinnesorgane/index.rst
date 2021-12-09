@@ -3,6 +3,8 @@
 Sinnesorgane
 ############
 
+.. _auge:
+
 ****
 Auge
 ****
@@ -12,16 +14,55 @@ Auge
 Allgemeine Anatomie
 ===================
 
-Das Auge besteht im Allgemeinen aus dem *Augapfel* mit dem *Sehnerv*
+Das Auge als Sehorgan ist ein spezialisiertes Sinnesorgan, das sensibel
+auf Lichtreize reagiert.
+Es besteht im Allgemeinen aus dem *Augapfel* mit dem *Sehnerv*
 (eigentliches Sinnesorgan) sowie den *Hilfseinrichtungen* (Augenlidern,
 Tränenapparat, äußere Augenmuskeln).
 
 Bulbus oculi (Augapfel)
 =======================
 
+
+.. sidebar:: Das Auge
+
+    -   Schichten des Auges:
+
+        -   :dfn:`Sklera` (*Lederhaut*): Die Lederhaut ist eine derbe
+            Bindegewebsschicht. Sie ist zusammen mit dem Glaskörper
+        verantwortlich für die Formgebung des Auges.
+        -   Aderhaut (Choroidea):
+            Hier verlaufen alle Blutgefäße des Auges.
+        -   :dfn:`Retina` (*Netzhaut*)
+            In der Netzhaut befinden sich
+            die Sinneszellen des Auges:
+            Stäbchen für das Schwarz-Weiß- bzw.
+            Dämmerungs-Sehen und Zapfen für das Farb-Sehen.
+
+    -   Lichtstrahl von vorne nach hinten:
+
+        -   :dfn:`Cornea` (*Hornhaut*): Die Hornhaut ist eine
+            durchsichtige Schicht von Bindegewebe.
+        -   Vorderkammer
+        -   Pupille, begrenzt von Iris
+        -   Linse → Scharfstellen
+        -   Glaskörper
+        -   Netzhaut
+        -   Sehnerv → Sehzentrum im Gehirn
+
+    -   Bewegung des Auges durch Augenmuskeln
+
+    -   Schutzapparat des Auges:
+
+        -   Tränendrüse und Bindehaut (Konjunktiva)
+        -   Lider
+
+Der Bulbus befindet sich in der *Augenhöhle*
+und hat eine annähernde Kugelform.
+
 Von außen nach innen hat der Bulbus oculi drei Schichten:
 
--   *Tunica fibrosa bulbi* (äußere Augenhaut):
+-   äußere Augenhaut (*Tunica fibrosa bulbi*):
 
     -   Sclera (Lederhaut) - sie setzt sich als Dura entlang des N.
         opticus fort.
@@ -29,13 +70,17 @@ Von außen nach innen hat der Bulbus oculi drei Schichten:
         Augenhälfte
     -   Conjunctiva (Bindehaut)
 
--   *Tunica vasculosa bulbi* (mittlere Augenhaut, Uvea):
+-   mittlere Augenhaut, Uvea (*Tunica vasculosa bulbi*):
 
     -   Choroidea (Aderhaut)
     -   Iris (Regenbogenhaut)
+        Die Iris ist der verschiedenfärbige (blau, braun, grün) Bereich rund um die Pupille.
+        Sie ist eine dünne Haut mit einer eigenen Muskulatur – vegetativ
+        gesteuert – und sorgt dafür, dass bei Bedarf die Pupille vergrößert
+        bzw. verkleinert wird.
     -   Corpus ciliare (Ziliarkörper)
 
--   *Tunica interna bulbi* (innere Augenhaut):
+-   innere Augenhaut (*Tunica interna bulbi*):
 
     -   Retina (Netzhaut)
     -   Stratum nervosum (Sinneszellen)
@@ -83,6 +128,28 @@ Erweiterung (*Mydriasis*, bis zu 8 mm) wird sympathisch vermittelt.
 -   M. sphincter pupillae
 -   M. dilatator pupillae
 
+
+
+
+Wenn man einem Lichtstrahl folgt, der in das Auge einfällt, muss dieser
+zuerst die Hornhaut durchdringen, darauf folgt die Vorderkammer
+(der Bereich zwischen Hornhaut und Iris).
+Nun durchdringt er die *Linse*,
+sie bündelt das Licht und sorgt dafür, dass wir scharf
+sehen können.
+Die Linse hat einen eigenen Aufhängungsapparat, der sie
+schmäler (für die Fernsicht) und breiter (für die Nahsicht) machen kann.
+Nach der Linse folgt der *Glaskörper*.
+Er hat eine gallertartige
+Konsistenz und verflüssigt sich mit dem Alter.
+Zusammen mit der Lederhaut bestimmt er die pralle Form des Auges.
+
+Nun landet der Lichtstrahl auf der :dfn:`Retina` (*Netzhaut*).
+Die
+lichtempfindlichen Zellen liegen auf der Netzhaut des Auges und werden
+nach einer Passage durch die lichtbrechenden Strukturen des Augapfels
+erreicht.
+
 Die Retina wird in den *lichtempfindlichen*, hinteren Teil (Pars optica
 retinae) und den *lichtunempfindlichen*, vorderen Teil (Pars caeca
 retinae) unterteilt. Die *Ora serata* (gezackte Linie) bildet zwischen
@@ -101,6 +168,11 @@ enthält die ersten drei Neurone der Sehbahn. Von außen nach innen:
 
 Durch die Reihenfolge des Lichtweges ist die Schichtung (insg. 10)
 invers!
+
+Die
+Informationen der Sinneszellen (Stäbchen und Zapfen) werden im Sehnerv
+gesammelt und an das Sehzentrum im Gehirn weitergeleitet.
+
 
 Sehbahn:
 
@@ -128,27 +200,33 @@ Die Hilfseinrichtungen des Auges umfassen:
     (Punctum lacrimale, Canaliculus lacrimale, Sacculus lacrimalis,
     Ductus nasolacrimalis)
 
--   *äußere Augenmuskeln*:
+-   *äußere Augenmuskeln*\ [#AeussereAugenmuskeln]_
 
-    -   gerade Augenmuskeln
+.. [#AeussereAugenmuskeln]
 
-        -   M. rectus superior (III):
-            Ursprung am Anulus tendineus im Bereich des Canalis opticus
-        -   M. rectus inferior (III):
-            Ursprung am Anulus tendineus im Bereich des Canalis opticus
-        -   M. rectus lateralis (VI):
-            Ursprung am Anulus tendineus im Bereich des Canalis opticus
-        -   M. rectus medialis (III):
-            Ursprung am Anulus tendineus im Bereich des Canalis opticus
+    äußere Augenmuskeln:
 
-    -   schräge Augenmuskeln
+    .. hlist::
 
-        -   M. obliquus superior (IV):
-            Ursprung am Anulus tendineus im
-            Bereich des Canalis opticus, besitz am medialen oberen
-            Orbitarand eine Trochlea, die als Umlenkpunkt (Hypomochlion)
-            für die Sehne dient.
-        -   M. obliquus inferior (III): Ursprung am Orbitarand
+        -   gerade Augenmuskeln
+
+            -   M. rectus superior (III):
+                Ursprung am Anulus tendineus im Bereich des Canalis opticus
+            -   M. rectus inferior (III):
+                Ursprung am Anulus tendineus im Bereich des Canalis opticus
+            -   M. rectus lateralis (VI):
+                Ursprung am Anulus tendineus im Bereich des Canalis opticus
+            -   M. rectus medialis (III):
+                Ursprung am Anulus tendineus im Bereich des Canalis opticus
+
+        -   schräge Augenmuskeln
+
+            -   M. obliquus superior (IV):
+                Ursprung am Anulus tendineus im
+                Bereich des Canalis opticus, besitz am medialen oberen
+                Orbitarand eine Trochlea, die als Umlenkpunkt (Hypomochlion)
+                für die Sehne dient.
+            -   M. obliquus inferior (III): Ursprung am Orbitarand
 
 Diese Augenmuskeln bewegen die Augen und sorgen für folgende
 *Bewegungen*:

@@ -1,6 +1,10 @@
+.. index::
+    single: Diazepam
+
+.. _Diazepam:
 
 Diazepam
---------
+########
 
 :Spezialitäten:
 

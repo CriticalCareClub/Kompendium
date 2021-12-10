@@ -5,7 +5,6 @@ Pharmakopeia — Inkubator
 .. toctree::
     :maxdepth: 1
 
-    Ajmalin/index
     Amiodaron/index
     Antiarrhythmika/index
     Anticholinergika/index
@@ -16,10 +15,11 @@ Pharmakopeia — Inkubator
     Diazepam/index
     Dimethylaminophenol/index
     Diuretika/index
-    Etomidat/index
+    S-Ketamin/index
     Fenoterol/index
     Fentanyl/index
     Flumazenil/index
+    Furosemid/index
     Gentamycin/index
     Glycopyrronium/index
     Heparin/index
@@ -46,9 +46,9 @@ Pharmakopeia — Inkubator
     Protamin/index
     Prothrombinkomplex/index
     Remifentanil/index
-    Rocuronium/index
     Sufentanil/index
     Suxamethonium/index
+    Terbutalin/index
     Theophyllin/index
     Tranexamsaeure/index
     Verapamil/index

@@ -1,6 +1,11 @@
 
-fentaNYL
---------
+.. index::
+    single: Fentanyl
+
+.. _Fentanyl:
+
+Fentanyl
+###########
 
 :Spezialitaeten:
 

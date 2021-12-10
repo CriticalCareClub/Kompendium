@@ -1,6 +1,11 @@
 
+.. index::
+    single: Lorazepam
+
+.. _Lorazepam:
+
 Lorazepam
----------
+#################
 
 :Spezialitäten:
 

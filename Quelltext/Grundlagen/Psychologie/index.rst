@@ -26,7 +26,7 @@ Anforderung, Beanspruchung/Belastung, Belastungsfaktoren
 Anforderungen
 =============
 
-Im Abschnitt :ref:`Taetigkeitsbild`werden unter
+Im Abschnitt :ref:`Taetigkeitsbild` werden unter
 :ref:`taetigkeitsbild-sanitaeter-belastung` die allgemeinen
 Anforderungen an Fachpersonal,
 wie z. B. medizinisches Wissen und

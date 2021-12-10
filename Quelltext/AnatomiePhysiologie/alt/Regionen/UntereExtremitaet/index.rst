@@ -1,4 +1,4 @@
-.. _beckenguertel:
+
 
 ##########################################
 Der Beckengürtel und die untere Extremität
@@ -36,16 +36,12 @@ welcher wiederum aus dem
 
 besteht.
 
-Die :dfn:`Symphyse` (*Schambeinfuge*) stellt eine straffe
-Knorpelverbindung vorne zwischen den beiden Beckenknochen dar
-(Dehnungsfuge, für Geburtsvorgang notwendig). Die Stabilität des
+Die Stabilität des
 Beckengürtels ist für Stehen, Gehen und alle sonstigen Bewegungen der
 Beine unabdingbar. Die Gelenkspfanne des Hüftgelenkes befindet sich im
 Beckenknochen. Der Oberschenkelknochen wird hauptsächlich durch Bänder
 im Gelenk gehalten.
 
-
-.. _untere-extremitaet:
 
 *********************
 Die untere Extremität
@@ -79,34 +75,9 @@ ausgebildet
 und die Befestigung des Gelenkskopfes in der Pfanne wird durch starke Bänder
 bewerkstelligt.
 
-Der :dfn:`Femur` (*Oberschenkelknochen*) bildet als einziger
-Knochen den Oberschenkel. Er ist gekenzeichnet durch einen ausgeprägten
-:dfn:`Schenkelhals` mit "Knick" zwischen Kopf-Hals-Bereich
-und Körper. Körperfern endet der Oberschenkelknochen im Kniegelenk.
 
-Das :dfn:`Kniegelenk` verbindet den Ober- und Unterschenkel
-und wird aus dem Oberschenkelknochen und dem Schienbein (Unterschenkel)
-gebildet. Es ist *kein* reines Scharniergelenk, Drehungen sind bei
-gebeugtem Knie möglich. Das Kniegelenk weist einige Besonderheiten auf:
-Jeweils zwei Kreuzbänder, Seitenbänder sowie Menisken sorgen
-für die Stabilität in diesem Gelenk. Weiters sorgt die
-:dfn:`Patella` (*Kniescheibe*)  für eine bessere Kraftübertragung des
-Kniestreckers. [Petersen:1]_ [Mueller:1]_ [Schabus:1]_
 
-Der :dfn:`Unterschenkel` wird von der :dfn:`Tibia` (*Schienbein*)
-und der :dfn:`Fibula` (*Wadenbein*) gebildet. Sie gehen im Sprunggelenk
-in den Fuß über und bilden dort den Innen- (Tibia, :dfn:`Malleolus
-medialis`)
-und Außenknöchel (Fibula, :dfn:`Malleolus lateralis`).
 
-Im :dfn:`Sprunggelenk` gibt es, ähnlich wie bei der Hand,
-:dfn:`Fußwurzelknochen` (7), :dfn:`Mittelfußknochen` (5)
-und 5 Zehen mit jeweils 2 (Großzehe) bis 3 Gliedern.
-
-Als :dfn:`Knöchel` bezeichnet man die Knochengabel, welche
-aus Schien- und Wadenbein auf Höhe des Sprunggelenks gebildet wird. Es
-gibt einen Innen- und einen Außenknöchel (jeweils körperfernes Ende von
-Schien- bzw. Wadenbein).
 
 
 .. attention::

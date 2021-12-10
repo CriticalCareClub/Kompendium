@@ -2,18 +2,7 @@
 Antiarrhythmika
 ===============
 
-.. toctree::
 
-    Ajmalin/index
-    Adenosin/index
-    Amiodaron/index
-    Atropin/index
-    Lidocain/index
-    Methyldigoxin/index
-    Esmolol/index
-    Metoprolol/index
-    Orciprenalin/index
-    Verapamil/index
 
 .. warning:: Antiarrhythmika und akzessorische Bahnen
 

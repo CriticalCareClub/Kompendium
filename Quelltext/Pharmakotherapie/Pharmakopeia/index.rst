@@ -9,10 +9,12 @@ Pharmakopeia
 .. toctree::
     :maxdepth: 1
 
-    Adrenalin/index
     Acetazolamid/index
     Adenosin/index
+    Adrenalin/index
+    Ajmalin/index
     Esmolol/index
-    S-Ketamin/index
-    Terbutalin/index
+    Etomidate/index
+    Propofol/index
+    Rocuronium/index
     Thiopental/index

@@ -1,25 +1,68 @@
 
+############
 Sinnesorgane
-************************************************************************
+############
 
+.. _auge:
+
+****
 Auge
-========================================================================
+****
 
 .. _allgemeine-anatomie-8:
 
 Allgemeine Anatomie
-------------------------------------------------------------------------
+===================
 
-Das Auge besteht im Allgemeinen aus dem *Augapfel* mit dem *Sehnerv*
+Das Auge als Sehorgan ist ein spezialisiertes Sinnesorgan, das sensibel
+auf Lichtreize reagiert.
+Es besteht im Allgemeinen aus dem *Augapfel* mit dem *Sehnerv*
 (eigentliches Sinnesorgan) sowie den *Hilfseinrichtungen* (Augenlidern,
 Tränenapparat, äußere Augenmuskeln).
 
 Bulbus oculi (Augapfel)
-------------------------------------------------------------------------
+=======================
+
+
+.. sidebar:: Das Auge
+
+    -   Schichten des Auges:
+
+        -   :dfn:`Sklera` (*Lederhaut*): Die Lederhaut ist eine derbe
+            Bindegewebsschicht. Sie ist zusammen mit dem Glaskörper
+        verantwortlich für die Formgebung des Auges.
+        -   Aderhaut (Choroidea):
+            Hier verlaufen alle Blutgefäße des Auges.
+        -   :dfn:`Retina` (*Netzhaut*)
+            In der Netzhaut befinden sich
+            die Sinneszellen des Auges:
+            Stäbchen für das Schwarz-Weiß- bzw.
+            Dämmerungs-Sehen und Zapfen für das Farb-Sehen.
+
+    -   Lichtstrahl von vorne nach hinten:
+
+        -   :dfn:`Cornea` (*Hornhaut*): Die Hornhaut ist eine
+            durchsichtige Schicht von Bindegewebe.
+        -   Vorderkammer
+        -   Pupille, begrenzt von Iris
+        -   Linse → Scharfstellen
+        -   Glaskörper
+        -   Netzhaut
+        -   Sehnerv → Sehzentrum im Gehirn
+
+    -   Bewegung des Auges durch Augenmuskeln
+
+    -   Schutzapparat des Auges:
+
+        -   Tränendrüse und Bindehaut (Konjunktiva)
+        -   Lider
+
+Der Bulbus befindet sich in der *Augenhöhle*
+und hat eine annähernde Kugelform.
 
 Von außen nach innen hat der Bulbus oculi drei Schichten:
 
--   *Tunica fibrosa bulbi* (äußere Augenhaut):
+-   äußere Augenhaut (*Tunica fibrosa bulbi*):
 
     -   Sclera (Lederhaut) - sie setzt sich als Dura entlang des N.
         opticus fort.
@@ -27,13 +70,17 @@ Von außen nach innen hat der Bulbus oculi drei Schichten:
         Augenhälfte
     -   Conjunctiva (Bindehaut)
 
--   *Tunica vasculosa bulbi* (mittlere Augenhaut, Uvea):
+-   mittlere Augenhaut, Uvea (*Tunica vasculosa bulbi*):
 
     -   Choroidea (Aderhaut)
     -   Iris (Regenbogenhaut)
+        Die Iris ist der verschiedenfärbige (blau, braun, grün) Bereich rund um die Pupille.
+        Sie ist eine dünne Haut mit einer eigenen Muskulatur – vegetativ
+        gesteuert – und sorgt dafür, dass bei Bedarf die Pupille vergrößert
+        bzw. verkleinert wird.
     -   Corpus ciliare (Ziliarkörper)
 
--   *Tunica interna bulbi* (innere Augenhaut):
+-   innere Augenhaut (*Tunica interna bulbi*):
 
     -   Retina (Netzhaut)
     -   Stratum nervosum (Sinneszellen)
@@ -81,6 +128,28 @@ Erweiterung (*Mydriasis*, bis zu 8 mm) wird sympathisch vermittelt.
 -   M. sphincter pupillae
 -   M. dilatator pupillae
 
+
+
+
+Wenn man einem Lichtstrahl folgt, der in das Auge einfällt, muss dieser
+zuerst die Hornhaut durchdringen, darauf folgt die Vorderkammer
+(der Bereich zwischen Hornhaut und Iris).
+Nun durchdringt er die *Linse*,
+sie bündelt das Licht und sorgt dafür, dass wir scharf
+sehen können.
+Die Linse hat einen eigenen Aufhängungsapparat, der sie
+schmäler (für die Fernsicht) und breiter (für die Nahsicht) machen kann.
+Nach der Linse folgt der *Glaskörper*.
+Er hat eine gallertartige
+Konsistenz und verflüssigt sich mit dem Alter.
+Zusammen mit der Lederhaut bestimmt er die pralle Form des Auges.
+
+Nun landet der Lichtstrahl auf der :dfn:`Retina` (*Netzhaut*).
+Die
+lichtempfindlichen Zellen liegen auf der Netzhaut des Auges und werden
+nach einer Passage durch die lichtbrechenden Strukturen des Augapfels
+erreicht.
+
 Die Retina wird in den *lichtempfindlichen*, hinteren Teil (Pars optica
 retinae) und den *lichtunempfindlichen*, vorderen Teil (Pars caeca
 retinae) unterteilt. Die *Ora serata* (gezackte Linie) bildet zwischen
@@ -100,6 +169,11 @@ enthält die ersten drei Neurone der Sehbahn. Von außen nach innen:
 Durch die Reihenfolge des Lichtweges ist die Schichtung (insg. 10)
 invers!
 
+Die
+Informationen der Sinneszellen (Stäbchen und Zapfen) werden im Sehnerv
+gesammelt und an das Sehzentrum im Gehirn weitergeleitet.
+
+
 Sehbahn:
 
 Photorezeptoren ➛ Retinaganglienzellen ➛ Opticusganglienzellen ➛ N.
@@ -112,7 +186,7 @@ projiziert, das jeweils r\ *echte Gesichtsfeld* in die *linke
 Hemisphäre*.
 
 Hilfseinrichtungen
-------------------------------------------------------------------------
+==================
 
 Die Hilfseinrichtungen des Auges umfassen:
 
@@ -126,27 +200,33 @@ Die Hilfseinrichtungen des Auges umfassen:
     (Punctum lacrimale, Canaliculus lacrimale, Sacculus lacrimalis,
     Ductus nasolacrimalis)
 
--   *äußere Augenmuskeln*:
+-   *äußere Augenmuskeln*\ [#AeussereAugenmuskeln]_
 
-    -   gerade Augenmuskeln
+.. [#AeussereAugenmuskeln]
 
-        -   M. rectus superior (III):
-            Ursprung am Anulus tendineus im Bereich des Canalis opticus
-        -   M. rectus inferior (III):
-            Ursprung am Anulus tendineus im Bereich des Canalis opticus
-        -   M. rectus lateralis (VI):
-            Ursprung am Anulus tendineus im Bereich des Canalis opticus
-        -   M. rectus medialis (III):
-            Ursprung am Anulus tendineus im Bereich des Canalis opticus
+    äußere Augenmuskeln:
 
-    -   schräge Augenmuskeln
+    .. hlist::
 
-        -   M. obliquus superior (IV):
-            Ursprung am Anulus tendineus im
-            Bereich des Canalis opticus, besitz am medialen oberen
-            Orbitarand eine Trochlea, die als Umlenkpunkt (Hypomochlion)
-            für die Sehne dient.
-        -   M. obliquus inferior (III): Ursprung am Orbitarand
+        -   gerade Augenmuskeln
+
+            -   M. rectus superior (III):
+                Ursprung am Anulus tendineus im Bereich des Canalis opticus
+            -   M. rectus inferior (III):
+                Ursprung am Anulus tendineus im Bereich des Canalis opticus
+            -   M. rectus lateralis (VI):
+                Ursprung am Anulus tendineus im Bereich des Canalis opticus
+            -   M. rectus medialis (III):
+                Ursprung am Anulus tendineus im Bereich des Canalis opticus
+
+        -   schräge Augenmuskeln
+
+            -   M. obliquus superior (IV):
+                Ursprung am Anulus tendineus im
+                Bereich des Canalis opticus, besitz am medialen oberen
+                Orbitarand eine Trochlea, die als Umlenkpunkt (Hypomochlion)
+                für die Sehne dient.
+            -   M. obliquus inferior (III): Ursprung am Orbitarand
 
 Diese Augenmuskeln bewegen die Augen und sorgen für folgende
 *Bewegungen*:
@@ -162,7 +242,7 @@ Diese Augenmuskeln bewegen die Augen und sorgen für folgende
     Konturen und besonders wichtige Anteile des Objektes
 
 Hirnphysiologie des Sehens
-------------------------------------------------------------------------
+==========================
 
 Visuelle und visomotorische Areale bilden 60% der Hirnoberfläche -
 hauptsächlich im parietalen und inferotemporalen Kortex gelegen.
@@ -181,16 +261,34 @@ Visuelle Funktionen werden in Untergruppen verteilt und parallel in
 -   Farbwahrnehmung ➛ Gyrus angularis
 -   emotionale Komponenten ➛ limbisches System
 
+
+
+.. _ohr:
+
+
+***
 Ohr
-========================================================================
+***
 
 .. _allgemeine-anatomie-9:
 
-Allgemeine Anatomie
-------------------------------------------------------------------------
+Allgemeine Anatomie und Überblick
+==================================
 
-Das Ohr wird in *zwei Sinnesorgane* unterteilt - eines für das Gehör,
-das zweite für das Gleichgewicht. Beide Organe liegen im Innenohr (Pars
+
+.. sidebar:: Das Ohr
+
+    -   Gliederung des Ohres:
+
+        -   Außenohr: Ohrmuschel und äußerer Gehörgang
+        -   Mittelohr: Trommelfell, Hammer, Amboß, Steigbügel
+        -   Innenohr: Schnecke, Gleichgewichtsorgan
+
+
+Das Ohr wird in *zwei Sinnesorgane* unterteilt:
+eines für das Gehör,
+das zweite für das Gleichgewicht.
+Beide Organe liegen im Innenohr (Pars
 petrosa des Os temporale).
 
 Zur *Sammlung der Schallwellen* für das Gehör sind Außenohr und
@@ -242,13 +340,12 @@ Lautstärkeempfindung.
 
 
 Gehörorgan
-------------------------------------------------------------------------
+==========
 
 Das Gehörorgan ist in 3 Anteile gegliedert:
 
 -   *Außenohr*: hierzu gehört die Auricula (Ohrmuschel), der Meatus
-    acusticus externus (äußerer Gehörgang, ca. 3 cm) und die Membrana
-    tympani (Trommelfell, ca. 1 cm)
+    acusticus externus (äußerer Gehörgang, ca. 3 cm) und die :dfn:`Trommelfell` (Membrana tympani, ca. 1 cm)
 -   *Mittelohr*: zum Mittelohr gehören das Cavum tympani (Paukenhöhle)
     mit den Gehörknöchelchen
     (Malleolus / Hammer, Incus / Amboss, Stapes / Steigbügel), die Tuba auditiva (Ohrtrompete) sowie
@@ -259,8 +356,10 @@ Das Gehörorgan ist in 3 Anteile gegliedert:
     häutige Labyrinth mit den Organen für Hören und Gleichgewicht ist
     eingelagert, mit Endolymphe gefüllt.
 
-Cochlea
--------
+.. todo:: Durchblutung Ohrmuschel/Knorpel: Gefahr bei Hämatom
+
+Cochlea (Schnecke)
+======================
 
 Die Cochlea besteht aus 3 getrennte Räumen:
 
@@ -302,7 +401,7 @@ Man kann zwei Formen der *Schwerhörigkeit* unterscheiden:
 -   Typ 2: Innenohrschwerhörigkeit.
 
 Gleichgewichtsorgan
-------------------------------------------------------------------------
+===================
 
 Zum Gleichgewichtsorgan gehören:
 
@@ -325,24 +424,29 @@ Sinneszellen ➛ N. vestibularis ➛ N. vestibulocochlearis ➛ Nuclei
 vestibulares ➛ Kleinhirn, Kerne der äußeren Augenmuskelnerven,
 Rückenmark
 
+
+
+.. index::
+   single: Haut
+   single: Derma
+
+.. _haut:
+
+****
 Haut
-========================================================================
+****
+
+*Term.* *Derma*
 
 .. _allgemeine-anatomie-10:
 
 Allgemeine Anatomie
-------------------------------------------------------------------------
+===================
 
-Die Haut ist das größte Sinnesorgan sowie die größte Abwehrbarriere des
-menschlichen Körpers. Die Hautdecke eines Menschen beträgt ca. 1,7
-Quadratmeter. Folgende Aufgaben soll sie erfüllen:
-
--   Schutz
--   Temperaturregulation
--   Wasserhaushalt
--   Sinnesinformationen
--   Abwehrfunktionen
--   Kommunikation
+Die Haut ist das größte Sinnesorgan sowie die größte Barriere des
+menschlichen Körpers gegen die Außenwelt.
+Die Hautdecke eines Menschen beträgt ca. 1,7
+Quadratmeter.
 
 Die *Hautfarbe* wird durch die Einlagerung von *Melanin* und *Karotin*
 sowie durch oxygeniertes und desoxygeniertes *Blut* in den Blutgefäßen
@@ -351,15 +455,89 @@ beeinflusst. Basierend auf äußeren Merkmalen kann man die Haut in eine
 (restlicher Körper) unterteilen.
 
 
+.. sidebar:: Aufgaben der Haut
+
+    -   Schutz vor äußeren Einflüssen
+    -   Schutz vor Wasserverlust/Austrocknung
+    -   Temperaturregulation
+
+        -   Isolation
+        -   Wärmeabgabe
+
+            -   Erweiterung der Blutgefäße
+            -   Verdunstungskälte des Schweißes
+
+    -   Sekretionsorgan (Schweiß, Talg)
+    -   Sinnesorgan (Tast-, Temperatursinn)
+
+Die Haut ist eine mechanische *Barriere gegen Umwelteinflüsse*. Sie
+verhindert das Eindringen von Fremdkörpern und Keimen und sorgt für
+einen ausgeglichenen Wasser- und Elektrolythaushalt, indem sie den
+Körper vor Austrocknung schützt.
+
+Neben der Lunge dient vor allen Dingen die Haut als wichtigstes Organ
+zur *Thermoregulation*: Durch ihren Aufbau stellt sie an sich schon eine
+(passive) Isolationsschicht dar. Weiters kann sie auch aktiv den
+Wärmehaushalt regulieren: Die Blutgefäße der Haut sind stark ineinander
+verwickelt und können sich bei Bedarf stark erweitern. Eine stark
+durchblutete Haut steigert die Wärmeabgabe deutlich. Weiters kann durch
+die Verdunstungskälte des Schweißes ebenfalls Wärme abgegeben werden.
+
+Als größtes *Sinnesorgan* des Körpers dient die Haut der Tastempfindung
+sowie der Temperaturempfindung.
+
+Folgende Aufgaben soll sie also erfüllen:
+
+-   Schutz
+-   Temperaturregulation
+-   Wasserhaushalt
+-   Sinnesinformationen
+-   Abwehrfunktionen
+-   Kommunikation
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Haut-edited.*
     :width: 70%
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
+.. index::
+   single: Oberhaut
+   single: Epidermis
+   single: Hornhaut
+   single: Lederhaut
+   single: Dermis
+   single: Unterhaut
+   single: Subcutis
+
 
 Schichten
-------------------------------------------------------------------------
+=========
+
+
+.. sidebar:: Schichten der Haut
+
+    -   *Oberhaut* (Epidermis)
+
+        -   Hornschicht, geschichtetes Plattenepithel
+
+    -   *Lederhaut* (Corium, Dermis)
+
+        -   Hautanhangsgebilde
+
+            -   Schweißdrüsen
+            -   Talgdrüsen
+            -   Haarfollikel, Nagelmatrix
+
+        -   Tastkörperchen, freie Nervenendigungen (Schmerz)
+        -   Kollagenfasern (Stütznetzwerk)
+        -   Arteriolen, Venolen
+            (Versorgung der Haut, Temperaturregulation)
+
+    -   *Unterhaut* (*Subcutis*)
+
+        -   Depotfett, Wärmeisolierung
+
 
 Folgende Schichten kann man bei der Haut (Cutis) unterscheiden:
 
@@ -381,7 +559,8 @@ Folgende Schichten kann man bei der Haut (Cutis) unterscheiden:
         Fasern, enthält Blut- und Lymphgefäße, Nervengefäße,
         Bindegewebszellen, Abwehrzellen, MEISSNER-Tastkörperchen
         (Berührung), freie Nervenendigungen (Mechano-, Schmerz-, Druck-,
-        Temperaturrezeptoren), Ruffini-Körperchen (Druck)
+        Temperaturrezeptoren), Ruffini-Körperchen (Druck),
+        Hautanhangsgebilde (Schweißdrüsen, Talgdrüsen, Haare und Nägel)
 
         -   Stratum papillare (Papillarschicht)
         -   Stratum reticulare (Geflechtschicht)
@@ -392,7 +571,7 @@ Folgende Schichten kann man bei der Haut (Cutis) unterscheiden:
     Äste in Dermis, VATER-PACINI-Lamellenkörperchen (Vibration)
 
 Hautanhangsorgane
-------------------------------------------------------------------------
+=================
 
 Zu den Hautanhangsorganen zählen:
 

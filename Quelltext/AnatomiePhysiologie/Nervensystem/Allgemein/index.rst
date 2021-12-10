@@ -3,6 +3,23 @@
 Allgemeines
 *******************
 
+
+.. sidebar:: Unterteilung
+
+    nach Aufbau
+
+    -   zentrales Nervensystem
+    -   peripheres Nervensystem
+
+    nach Funktion
+
+    -   motorisches Nervensystem
+    -   sensorisches Nervensystem
+    -   vegetatives Nervensystem
+
+Einteilung
+=============
+
 Die einfachste Form eines Nervensystems ist das *primitive
 Nervensystem*. Hier verarbeiten Sinneszellen Information und leiten die
 Erregung über einen Fortsatz direkt zu einer Nervenzelle weiter. Diese
@@ -26,19 +43,24 @@ unterscheiden.
 Aufgrund der *Lage* wird das animalische Nervensystem außerdem in zwei
 Teile eingeteilt:
 
--   zentrales Nervensystem: Gehirn und Rückenmark
--   peripheres Nervensystem: animalische und vegetative Nerven und
+-   zentrales Nervensystem (ZNS): Gehirn und Rückenmark
+-   peripheres Nervensystem (PNS): animalische und vegetative Nerven und
     Ganglien
 
-Einteilung der *Sensibilität*:
+Weitere Einteilungen sind möglich:
 
--   exterozeptive Sensibilität: Umweltreize
--   propriozeptive Sensibilität: Reize aus dem Körperinneren
+-   Einteilung der *Sensibilität*:
 
-Einteilung der *Motorik*:
+    -   exterozeptive Sensibilität: Umweltreize
+    -   propriozeptive Sensibilität: Reize aus dem Körperinneren
 
--   Somatomotorik: quergestreifte Muskulatur
--   Viszeromotorik: glatte Muskulatur
+-   Einteilung der *Motorik*:
+
+    -   Somatomotorik: quergestreifte Muskulatur
+    -   Viszeromotorik: glatte Muskulatur
+
+Entwicklung
+=============
 
 Ganz allgemein entwickelt sich das Nervensystem aus dem Ektoderm. Ca. am
 18. Tag bildet sich die *Neuralplatte*, in der zwei seitliche

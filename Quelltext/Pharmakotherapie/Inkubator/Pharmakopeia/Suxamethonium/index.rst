@@ -1,6 +1,12 @@
 
+.. index::
+    single: Suxamethonium
+    single: Succinylcholin
+
+.. _Suxamethonium:
+
 Suxamethonium
--------------
+##################
 
 :Spezialitäten:
 

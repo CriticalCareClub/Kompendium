@@ -1,7 +1,12 @@
 
+.. index::
+    single: Piritramid
+
+.. _Piritramid:
+
 
 Piritramid
-----------
+######################
 
 :Spezialitaeten:
 

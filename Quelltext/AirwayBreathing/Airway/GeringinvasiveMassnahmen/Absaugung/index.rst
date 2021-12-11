@@ -20,7 +20,7 @@ Ein **Absaugkatheter** ist jenes Zubehör zum Absauggerät,
 mit welchem die Sekrete aus Mund oder Nase abgesaugt werden können.
 Es ist ein flexibler, ca. 50cm langer Schlauch,
 der direkt an die Absaugpumpe
-angeschlossen wird (siehe Abbildung :ref:`Figure-absaugvorrichtungen`).
+angeschlossen wird (siehe Abbildung :ref:`Figure-Absaugvorrichtungen`).
 Die meisten Absaugkatheter haben auf Patientenseite eine kleine Öffnung,
 die das Festsaugen an dem Patienten verhindert.
 Die Absaugkatheter sind steril verpackt und müssen auch dementsprechend behandelt werden.

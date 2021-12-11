@@ -25,14 +25,7 @@ Der Schultergürtel besteht (von vorne nach hinten) aus:
 -   *Schlüsselbein* (Clavicula)
 -   *Schulterblatt* (Scapula)
 
-Der Schultergürtel ermöglicht die Bewegung der Arme. Über eine
-Bandverbindung des Schlüsselbeines am Brustbein und wiederum eine
-Bandverbindung zwischen Schlüsselbein und Schulterblatt sind alle
-Knochen miteinander verbunden. Die Gelenkspfanne für den Oberarmknochen
-befindet sich am Schulterblatt.
 
-Der Oberarm ist hauptsächlich durch Muskelzug (M. deltoideus,
-Rotatorenmanschette) am Schultergürtel befestigt.
 
 .. admonition:: Beachte
 
@@ -66,8 +59,7 @@ Der Arm beginnt mit dem  :dfn:`Schultergelenk`.
 Dieses ist ein klassisches *Kugelgelenk*, es
 ermöglicht die Bewegung in allen drei Raumebenen. Die beteiligten
 Knochen im Schulterglenk sind das *Schulterblatt* (*Scapula*) und
-*Oberarmknochen*. Der :dfn:`Humerus` (*Oberarmknochen*)
-bildet als einzelner Knochen den Oberarm.
+*Oberarmknochen*.
 
 Das :dfn:`Ellenbogengelenk` liegt zwischen Oberarm und
 Unterarm. Es wird aus *Oberarmknochen* und *Elle* sowie *Speiche*

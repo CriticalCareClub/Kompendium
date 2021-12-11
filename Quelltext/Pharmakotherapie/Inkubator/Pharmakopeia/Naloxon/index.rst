@@ -1,6 +1,11 @@
 
+.. index::
+    single: Naloxon
+
+.. _Naloxon:
+
 Naloxon
-^^^^^^^
+#################
 
 :Spezialitaeten:
 

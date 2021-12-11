@@ -1,10 +1,17 @@
 
-Morphin (hydrochlorid)
-----------------------
+
+.. index::
+    single: Morphin
+    single: Vental™
+
+.. _Morphin:
+
+Morphin
+##############
 
 :Spezialitäten:
 
-   Vendal® (10 |MgPerMl|)
+   Vendal™ (10 mg / mL)
 
 :Indikation(en):
 

@@ -1,11 +1,13 @@
 
+#################
 Endokrines System
-************************************************************************
+#################
 
 .. _allgemeine-anatomie-11:
 
+*******************
 Allgemeine Anatomie
-===================
+*******************
 
 Man kann bei Drüsen vier verschiedene *Arten der Beeinflussung von
 Zellen* unterscheiden:
@@ -147,11 +149,12 @@ bezeichnet:
 -   im Immunsystem = autokrin-parakrines System ➛ Zytokine, Lymphokine,
     Monokine
 
+************************
 Hormondrüsen des Körpers
-========================
+************************
 
 Hypothalamus-Hypophysen-System
-------------------------------
+==============================
 
 Diese System ist das zentrale Steuerungsorgan des endokrinen Haushalt.
 Der Hypothalamus ist ein Teil des Zwischenhirns (Diencephalon). Über
@@ -163,7 +166,7 @@ Hypophysenhinterlappen transportiert werden und erst dort ausgeschüttet
 werden.
 
 Hypophyse (Hirnanhangsdrüse)
-----------------------------
+============================
 
 Die Hypophyse ist ca. erbsengroß (1g) und liegt auf der *Schädelbasis*
 (Sella turcica, Türkensattel) direkt über dem Sinus sphenoidalis.
@@ -193,7 +196,7 @@ verbunden. Sie kann in *zwei Anteile* untergliedert werden:
         Thyroideastimulierendes Hormon (TSH)
 
 Epiphyse (Zirbeldrüse)
-----------------------
+======================
 
 Auch Corpus pineale bzw. Glandula pinealis genannt. Hat ungefähr die
 Größe eines Maiskorns und die Form eines Pinienzapfens (daher der Name).
@@ -203,7 +206,7 @@ Nacht-Rhythmus („biologische Uhr“). Die Produktion von Melatonin nimmt
 mit dem Alter ab.
 
 Glandula thyroidea (Schilddrüse) und Glandula parathyroidea (Nebenschilddrüse)
-------------------------------------------------------------------------------
+==============================================================================
 
 Die Schilddrüse liegt direkt vor dem Schildknorpel und ist zwischen 15
 bis 60 ➛ schwer. Sie wird in zwei Lappen unterteilt, die medial über
@@ -226,7 +229,7 @@ Parathormon ist der Antagonist des Calcitonins und stimuliert die
 Osteoklasten zum Knochenabbau und erhöht somit den Blutkalziumspiegel.
 
 Glandula adrenalis / suprarenalis (Nebennieren)
------------------------------------------------
+===============================================
 
 Die Nebennieren sind paarig und liegen auf dem oberen Pol der Nieren.
 Eine Nebenniere wiegt ca. 5 g. Innerhalb der Nebenniere kann man
@@ -254,7 +257,7 @@ ihrer Nähe zur Niere erfüllen die Nebennieren keine ähnliche Funktion!
 .. _pancreas-bauchspeicheldrüse-1:
 
 Pancreas (Bauchspeicheldrüse)
------------------------------
+=============================
 
 Die Bauchspeicheldrüse bildet eine Kreuzungsstelle zwischen endokrinem
 und exokrinem System. Exokrin ist sie zuständig für die Bildung von
@@ -280,7 +283,7 @@ Blutzuckerspiegel möglichst konstant ist (60-100 mg/100ml).
     (erhöht Blutzucker).
 
 Geschlechtsorgane
------------------
+=================
 
 Geschlechtshormone beeinflussen die *Entwicklung der primären und
 sekundären Geschlechtsmerkmale, das Wachstum, die körperliche und
@@ -293,7 +296,7 @@ seelische Reife sowie die Fortpflanzung*.
     Gestagene (gering)
 
 Weitere Hormonbildner
----------------------
+=====================
 
 -   Nervensystem ➛ Transmitter
 -   Immunzellen: Zytokine, Lymphokine, Monokine

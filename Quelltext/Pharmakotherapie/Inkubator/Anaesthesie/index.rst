@@ -126,44 +126,46 @@ verschiedenen Geweben (`Abb. 1 <#anchor>`__).
 Barbiturate
 ~~~~~~~~~~~~~~~~
 
+:ref:`Thiopental <Thiopental>` (Trapanal®)
+
 Diese Substanzklasse führt zu einer Hemmung der sog. Formatio
 reticularis im Gehirn. Dadurch wirken sie hypnotisch, nicht analgetisch
 (sogar Gefahr der Hyperalgesie) und führen jedoch nicht zu einer
 ausreichenden Muskelrelaxation.
 
-============ =========================
-Methohexital **Brevimytal®, Brietal®**
-Thiopental   Trapanal®
-============ =========================
 
 Barbiturate werden zur Narkoseeinleitung nur in Kombination mit anderen
 Narkotika und beim Status epileptikus in der Neurologie verwendet.
 
-unerwünschte Wirkungen:
+Unerwünschte Wirkungen:
+    Barbiturate führen zu einer Depression von Atmung und Kreislauf. Weiters
+    können sich vegetative Reflexe, allergische Reaktionen, Gefäßreizungen
+    und Symptome wie bei einer akuten intermittierenden Porphyrie zeigen.
 
-Barbiturate führen zu einer Depression von Atmung und Kreislauf. Weiters
-können sich vegetative Reflexe, allergische Reaktionen, Gefäßreizungen
-und Symptome wie bei einer akuten intermittierenden Porphyrie zeigen.
+Kontraindikationen
+    akute Porphyrie, Leber- und Nierenfunktionsstörung,
+    Schock, Myokardinsuffizienz, akute Alkoholintoxikation.
 
-Kontraindikationen: akute Porphyrie, Leber- und Nierenfunktionsstörung,
-Schock, Myokardinsuffizienz, akute Alkoholintoxikation.
 
-Etomidat (Hypnomidate®)
+
+Etomidate
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Dieses Präparat wirkt nur hypnotisch, weder analgetisch noch
-muskelrelaxierend.
+Handelsname: Hypnomidate®. Details siehe :ref:`Charakteristika von Etomidate <Etomidate>`.
 
-Wegen Seiner kurzen Halbwertszeit (3-5 min. Wirkdauer) wird es bei der
-Kardioversion eingesetzt. Außerdem bietet es sich durch die geringen
-respiratorischen und kardialen Nebenwirkungen als Medikament der Wahl
-bei der Narkoseeinleitung von Risikopatienten an.
+Etomidate ist ein reines, mäßig effektives  Hypnotikum mit kurzer Halbwertszeit und verhältnismäßig geringer Kreislaufdepression ("Was wenig Wirkung hat, hat auch wenig Nebenwirkung")
+Aufgrund der verhätnismäßig geringen Kreislaufdepression wird es gerne bei kardialen Risikopatientin oder im fortgeschrittenen Patientenalter eingesetzt.
 
-Nebenwirkungen:
+Etomidate führt zu einer primären **Nebennierensuppression** durch eine reversible Hemmung der 11β-Hydroxylase.
+Dies wird bei einer Vielzahl von akuten Erkrankungen mit einer **erhöhten Mortalität** und Morbidität in Verbindung gebracht. [Cuthbertson:2009]_ [Morris:2005]_ [Wagner:1984]_ ..
 
-Gastrointestinale Beschwerden wie Übelkeit und Erbrechen können
-beobachtet werden, weiters ist es Gefäßwand-reizend und kann Myoklonien
-und Dyskinesien verursachen.
+
+.. danger::
+
+    Etomidate soll aufgrund der Nebennierensuppression und der damit verbundenen **erhöhten Mortalität** *nicht* bei kritisch kranken, insbesonders septischen, Patienten eingesetzt werden!
+
+
+
 
 S-(+)-Ketamin (Ketanest®)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

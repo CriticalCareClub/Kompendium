@@ -560,6 +560,13 @@ Literaturverzeichnis
 	5. Auflage, 2004.
 	Urban & Fischer.
 
+.. [Cuthbertson:2009]
+    Cuthbertson et al.:
+    **The effects of etomidate on adrenal responsiveness and mortality in patients with septic shock.**
+    Intensive Care Medicine.  2009:35, 1868—1876.
+    doi:10.1007/s00134-009-1603-4.
+
+
 .. [Damman:2017] Damman, P.; van 't Hof, A. W. et al.:
     2015 ESC guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation: comments from the Dutch ACS working group.
     Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation, 2017, 25, 181-185.
@@ -1265,6 +1272,11 @@ Literaturverzeichnis
 	doi:\ `10.1016/j.resuscitation.2003.10.005 <https://doi.org/10.1016/j.resuscitation.2003.10.005>`__.
 
 
+.. [Morris:2005]
+    Morris, C; McAllister, C:
+    **Etomidate for emergency anaesthesia; mad, bad and dangerous to know?**
+    Anaesthesia. 2005:60 (8), 737–740.
+    doi:10.1111/j.1365-2044.2005.04325.x.
 
 
 .. [Niaura:2002]
@@ -1298,7 +1310,7 @@ Literaturverzeichnis
 .. [Pschyrembel:259]
 	Pschyrembel, Willibald (HG):
 	**Pschyrembel Klinisches Wörterbuch.**
-	259. Auflage, 2002.
+	1.   Auflage, 2002.
 	de Gruyter.
 
 
@@ -1430,6 +1442,12 @@ Literaturverzeichnis
     Verordnung des Bundesministers für Wirtschaft und Arbeit über sicherheitstechnische Bestimmungen für Versandbehälter - Versandbehälterverordnung 2002 (VBV 2002) idF: BGBl. II Nr. 347/2005
 
 
+.. [Wagner:1984]
+    Wagner et al.:
+    *Inhibition of adrenal steroidogenesis by the anesthetic etomidate.*
+    N Engl J Med. 1984:310, 1415-1421.
+    doi:10.1056/NEJM198405313102202.
+
 
 .. [Winbery:2002]
     Stephen L. and Philip L. Lieberman:
@@ -1453,7 +1471,7 @@ Literaturverzeichnis
 .. [Battegay:2]
 	Battegay, Raymond, ed:
 	1992.*Handwörterbuch Der Psychiatrie.*
-	2. Auflage,
+	1. Auflage,
 	Ferdinand Enke Verlag.
 
 

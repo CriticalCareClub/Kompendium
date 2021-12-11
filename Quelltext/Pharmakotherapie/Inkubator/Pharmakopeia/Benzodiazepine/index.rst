@@ -33,11 +33,3 @@ Kontraindikationen
 Wechselwirkungen
 
 
-
-.. toctree::
-    :maxdepth: 1
-
-    Diazepam/index
-    Flumazenil/index
-    Lorazepam/index
-    Midazolam/index

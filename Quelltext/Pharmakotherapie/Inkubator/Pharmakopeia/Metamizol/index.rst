@@ -1,6 +1,11 @@
 
+.. index::
+    single: Metamizol
+
+.. _Metamizol:
+
 Metamizol
-=========
+#####################
 
    #. Spezialitäten
 

@@ -9,6 +9,8 @@
     single: Glaukom (Acetazolamid)
     single: Epilepsie (Acetazolamid)
 
+.. _Acetazolamid:
+
 Acetazolamid
 ============
 

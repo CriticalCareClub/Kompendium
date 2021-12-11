@@ -1,6 +1,11 @@
 
+.. index::
+    single: Flumazenil
+
+.. _Flumazenil:
+
 Flumazenil
-----------
+##############
 
 :Spezialitäten:
 

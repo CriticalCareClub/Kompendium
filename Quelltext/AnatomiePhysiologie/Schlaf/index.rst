@@ -1,12 +1,14 @@
 
 
+######
 Schlaf
-************************************************************************
+######
 
 .. _allgemeine-anatomie-12:
 
+*******************
 Allgemeine Anatomie
-========================================================================
+*******************
 
 Der Schlaf-Wach-Rhythmus wird von der sogenannten “\ *inneren Uhr*\ ”
 reguliert. Da dieser Rhythmus sich innerhalb eines Tages abspielt
@@ -15,8 +17,9 @@ endogenen Oszillatoren (“inneren Uhren”) autonom gesteuert.
 
 .. _zyklus-1:
 
+******
 Zyklus
-========================================================================
+******
 
 Mittels EEG können verschiedene *Schlafstadien* unterschieden werden:
 
@@ -40,8 +43,9 @@ Einzelne Schlafzyklen wiederholen sich ca. *4-5 Mal* pro Schlaf. Neben
 der REM-Anzahl verringert sich auch die Dauer der einzelnen restlichen
 Schlafstadien im Laufe des Lebens.
 
+***********************
 Beeinflussende Faktoren
-========================================================================
+***********************
 
 Der Schlaf-Wach-Rhythmus ist im Allgemeinen durch *äußere Faktoren*
 (Arbeit, Freizeit, Schlaf, Hell-Dunkel) dem 24-Stunden-Rhythmus des
@@ -52,8 +56,9 @@ Der Tiefschlaf wird durch *Hypothalamus* und Teile des *basalen
 Vorderhirns* reguliert, der REM-Schlaf durch Kerne des *Mittelhirns*
 sowie des basalen Vorderhirns reguliert.
 
+********************
 Aufgaben des Schlafs
-========================================================================
+********************
 
 -   Tiefschlaf: körperinterne Homöostase
 -   REM-Schlaf: Gedächtnisspeicherung, Wachstum

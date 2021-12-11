@@ -1,6 +1,11 @@
 
+.. index::
+    single: Thiopental
+
+.. _Thiopental:
+
 Thiopental
-----------
+#########################
 
 Das letzte am Markt befindliche Barbiturat-Hypnotikum zur
 Verwendung im Rahmen der Allgemeinanästhesie.
@@ -15,7 +20,7 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
 :Pharmakodynamik:
 
     Interaktion als Modulator mit GABA\ :sub:`A`-Rezeptorkomplex,
-    bewirkt Verlängerung der Cl\ :sup:`-`-Kanalöffnungszeit. In höherer
+    bewirkt Verlängerung der Cl⁻-Kanalöffnungszeit. In höherer
     Konzentration ist auch eine direkte Aktivierung der
     GABA\ :sub:`A`-Kanäle möglich.
 

@@ -1,6 +1,11 @@
 
+.. index::
+    single: Prednisolon
+
+.. _Prednisolon:
+
 Prednisolon
-===========
+########################
 
 :Spezialitäten:
 

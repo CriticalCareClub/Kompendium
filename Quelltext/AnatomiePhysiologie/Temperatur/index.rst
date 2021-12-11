@@ -1,9 +1,14 @@
 
-Temperaturhaushalt
-************************************************************************
+.. _vitalfunktion-temperaturregulation:
 
+
+##################
+Temperaturhaushalt
+##################
+
+***********
 Allgemeines
-========================================================================
+***********
 
 Der Mensch - ist im Gegensatz zu *poikilothermen* (wechselwarmen) Tieren
 - *homöotherm* (gleichwarm). Die *Körperkerntemperatur* (37°C) wird
@@ -21,8 +26,9 @@ die
 -   Sublingual- bzw. Rektaltemperatur, sowie die
 -   Axillartemperatur
 
+**********
 Regulation
-========================================================================
+**********
 
 Mittels *negativer Rückkopplung* wird die Temperatur reguliert:
 Thermosensoren der Haut und des Körperinneren (v.a. Hypothalamus,
@@ -32,8 +38,9 @@ die Veränderung der Hautdurchblutung kann die Körpertemperatur verändert
 werden (= Stellglieder). Oberster Regulator der Körpertemperatur ist der
 Hypothalamus.
 
+****************************
 Wärmebildung und Wärmeabgabe
-========================================================================
+****************************
 
 Wärme kann abgegeben werden durch:
 
@@ -55,8 +62,9 @@ Akklimatisation:
 -   bei warmen Regionen: durch vermehrte Schweißproduktion
 -   bei kalten Regionen: kaum wirksame Mechanismen vorhanden
 
+**************************************
 Veränderungen der Temperaturregulation
-========================================================================
+**************************************
 
 *Veränderungen der Temperaturregulation* können physiologisch oder
 pathologisch sein:
@@ -75,3 +83,40 @@ pathologisch sein:
         identisch)
     -   Prostaglandin E2: zentraler Mediator der nervös gesteuerten
         Fieberreaktion
+
+
+
+-----
+
+.. todo:: alt: Temperaturhaushalt
+
+
+
+Temperaturregulation
+========================================================================
+
+Die normale Körper-Kerntemperatur beträgt *37°* Celsius. Verschiedene
+Mechanismen sorgen für Wärmeerzeugung und -abgabe:
+
+.. list-table:: Wärmeerzeugung und -abgabe
+    :header-rows: 1
+
+    *   -   Wärmeproduktion durch
+        -   Wärmeabgabe über
+    *   -   -   Zellaktivität
+            -   Stoffwechselvorgänge
+            -   Bewegung (Muskelarbeit)
+        -   -   Haut
+            -   Schweiß
+
+                -    Wirkung durch Verdunstungskälte
+                -    Ca. 0,5 L / d
+                -    Bis max. 1,5 L / h bei schwerer körperlicher Arbeit
+
+
+
+
+
+
+-----
+

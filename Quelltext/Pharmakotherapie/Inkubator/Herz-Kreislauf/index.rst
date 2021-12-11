@@ -1,205 +1,25 @@
+####################
 Herz-Kreislaufsystem
-=====================
+####################
 
-Allgemeine Orientierung
----------------------------
+Querverweise:
 
-Das Herz ist die Pumpstation des Organismus. Es sorgt für die
-ausreichende Blutversorgung des gesamten Organsystems. Dementsprechend
-betrifft eine Erkrankung des Herzens den ganzen Körper und kann akut
-lebensbedrohlich sein.
-
-Aufbau des Herzens
-~~~~~~~~~~~~~~~~~~~~~~~
-
-Das Herz (lat. Cor) kann grundsätzlich in
-zwei Teile unterteilt werden. Die rechte Seite pumpt das Blut in den
-Lungenkreislauf zur Sauerstoffaufnahme in die Lunge, die linke Seite
-pumpt das Blut in den Körperkreislauf zur Sauerstoffversorgung der
-verschiedenen Organsysteme.
-
-Bei beiden Teilen kann jeweils noch ein Vorhof (lat. Atrium) und eine
-Kammer (lat. Ventrikel) differenziert werden.
-
-
-.. figure:: media/Pictures/1000000000000A0000000698F0F54C66D83049BF.png
-    :width: 100%
-
-    Das Herz
-
-    ₢ Lena Hirtler  :term:`ℓ MfG`
-
-
-Das Herz durchläuft während eines Herzschlags einen Zyklus, den man
-durch das Pulstasten einfach überwachen kann, mehrere Phasen:
-
--  Diastole: Erschlaffung des Herzmuskels, Füllung des Herzens mit Blut
--  Systole: Kontraktion des Herzmuskels, Auspressen des Blutes (→
-   Pulswelle)
-
-Zwischen Vorhof und Kammer verhindern Segelklappen (links: Mitralklappe
-/ Bikuspidalklappe, rechts: Trikuspidalklappe) den Rückfluss von Blut
-während der Systole. Damit das eben ausgeworfene Blut vom
-Körperkreislauf auch während der Diastole nicht wieder aus den Arterien
-angesaugt wird, besitzen die großen abführenden Herzarterien (Arteria
-pulmonalis / Lungenarterie und Aorta) an ihrem Ansatz am Herzen
-Taschenklappen (links. Aortenklappe, rechts. Pulmonalklappe).
-
-Beim Herz kann man vom Aufbau her auch mehrere Schichten unterscheiden
-(von außen nach innen):
-
--  Epikard = äußere Haut des Herzens
--  Myokard = Muskulatur des Herzens
--  Endokard = innere Haut des Herzens
-
-Außen, am Epikard liegt der Herzbeutel (Perikard) an. Ein
-Flüssigkeitsfilm zwischen diesen beiden Schichten sorgt dafür, dass sich
-das Herz reibungslos im Thorax bewegen kann.
-
-Erregungsleitungssystem des Herzens
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Die rhythmische Bewegung bzw. Kontraktion des Herzens wird von dessen
-Erregungsleitungssystem kontrolliert.
-Diese Impulsgeber können auch als physiologische Schrittmacher
-bezeichnet werden.
-
-
-.. figure:: media/Pictures/1000000000001045000013FE68A4714AF0C6CCB8.png
-    :width: 100%
-
-    Erregungsleitungssystem des Herzens
-
-    ₢ Lena Hirtler  :term:`ℓ MfG`
+-   :ref:`Erregungsleitungssystem des Herzens <reizleitungssystem>`
+-   :ref:`Steuerung des Herzens durch Sympathikus und Parasympathikus <Herz-SympParasymp>`
+-   :ref:`Kreislauf <Kreislauf>`
 
 
 
-Dieses besteht aus Sinusknoten, an der Mündung der Vena cava superior
-gelegen, AV-Knoten, der sich in der Nähe der Aortenklappe befindet, dem
-Hisbündel, den Tawara- (= Kammer)-Schenkeln und am Ende den
-Purkinkefasern.
-
-Der Haupterreger des Herzens ist der Sinusknoten. Dieser liegt im
-rechten Vorhof ungefähr an der Mündung der oberen großen Hohlvene (Vena
-cava superior) und sorgt für eine Herzfrequenz von 60-80/min. Der
-Atrioventrikular-Knoten (AV-Knoten, zwischen Vorhof und Kammer) liegt
-auf Höhe der Klappen des Herzens und ist eine Art Frequenzfilter. Er
-sorgt für eine Frequenz von 40-60/min. Darauf folgt das His-Bündel mit
-den Tawara-Schenkeln, in der Herzkammer-Scheidewand gelegen, mit
-20-40/min.
-
-Der AV-Knoten ist für die Erregungsverzögerung zwischen Vorhof und
-Kammer verantwortlich, damit sich die Kammer erst entleert (=
-kontrahiert), wenn kein Blut mehr im Vorhof ist.
-
-Die elektrische und die mechanische Herzaktion sind aneinander
-gekoppelt.
-
-Die Erregungsausbreitungsvorgang kann mittels :ref:`Elektrokardiogramm <Fig-Ekg>` (EKG) dargestellt werden.
-
-
-.. figure:: media/Pictures/1000000000000F5E00000B8ED8F21DF55905BB5C.png
-    :width: 100%
-    :name: Fig-Ekg
-
-    EKG
-
-    ₢ Lena Hirtler  :term:`ℓ MfG`
-
-
-Die P-Welle steht für die Depolarisation (~Kontraktion) der Vorhöfe. Der
-QRS-Komplex zeigt die Depolarisation der Kammern und die T-Welle ist ein
-Zeichen für die Repolarisation (~Erschlaffung) der Kammern. Die
-Repolarisation der Vorhöfe ist im QRS-Komplex versteckt.
-
-Durch die vorher schon erwähnte Filterfunktion des AV-Knoten kommt die
-konstante PQ-Strecke zustande.
-
-Steuerung durch Sympathikus und Parasympathikus
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Die Herzarbeit muss an wechselnde Belastungen angepasst werden. Dies
-erfolgt über das vegetative Nervensystem, über Parasympathikus und
-Sympathikus.
-
-Eine Sympathikusaktivierung sorgt für eine Steigerung sowohl der
-Herzfrequenz und der Kontraktionskraft und verkürzt die Überleitungszeit
-zwischen Vorhöfen und Kammern. Die Aktivierung des Parasympathikus senkt
-die Herzfrequenz und die verlangsamt die Überleitung am AV-Knoten.
-
-Hiezu einige Grundbegriffe:
-
--  chronotrop: frequenzgerichtete Wirkung
--  inotrop: systolische Kraftentwicklung, Herzkraft
--  dromotrop: AV-Überleitungsgeschwindigkeit
-
-Wichtiges zum Kreislauf
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Das Herz als Pumpe sorgt dafür, dass sich das Blut im Kreislauf
-*(*\ `Abb. 4 <#anchor-6>`__\ *)* bewegt. Die Arterien befördern das Blut
-unter hohem Druck zu den Organen und Extremitäten. Am Ende der
-kleinstenten Arterien (Arteriolen) folgen die Kapillaren die den
-Stoffaustausch mit den Zellen der Organsysteme ermöglichen. Die
-Kapillardurchblutung wird auch als Mikrozirkulation bezeichnet. Nach den
-Kapillaren folgen die Venen, die das sauerstoffarme Blut aus der
-Peripherie wieder zum Herzen zurückbefördern. Hier herrscht ein weitaus
-geringerer Blutdruck als im arteriellen System.
-
-
-.. figure:: media/Pictures/10000000000012CF00001AA1A7C6B9BCA856CB44.png
-    :width: 100%
-
-    Schemanhafte Darstellung des Kreislaufs
-
-    ₢ Lena Hirtler  :term:`ℓ MfG`
 
 
 
-Das Blut fließt im Kreislauf von der rechten Herzhälfte in den
-Lungenkreislauf, wird oxygeniert und kommt in das linke Herz zurück. Von
-dort werden die Gewebe des Körpers über das Hochdrucksystem der Arterien
-mit Sauerstoff und Nährmittel versorgt.
+***************
+Antiarrhythmika
+***************
 
-Daraus geht folgende funktionelle Enteilung hervor:
-
--  Hochdrucksystem (linker Ventrikel, Arterien des Körperkreislaufs)
--  Mikrozirkulation (Kapillaren)
--  Niederdrucksystem (venöses System = Blutspeicher, beinhaltet Venen
-   des Körperkreislaufs, des Lungenkreislaufs und des Portalkreislaufs)
-
-Der Portalkreislauf befördert das Blut mit den aufgenommenen Nährstoffen
-der Bauchorgane zur Leber.
-
-Blutdruck
-~~~~~~~~~~~~~~
-
-Der Mensch braucht einer gewissen Blutdruck, um zu überleben. Ein zu
-geringer Druck (Hypotonie) reicht nicht aus, um alle Organe ausreichend
-zu durchbluten. Ein zu hoher Druck (Hypertonie) wiederum schädigt das
-Gewebe der Organe und Gefäße.
-
-Der Blutdruck wird in mmHg gemessen, man gibt dabei immer zwei Werte an:
-
--  Systolisch: → oberer, höherer Wert; beurteilt die Kontraktionskraft
-   des Herzens, entspricht der Pulswelle, wird immer als erster Wert
-   angegeben.
--  Diabolisch. → niedrigerer Wert; beurteilt den Druck während der
-   Diastole des Herzens; spiegelt die Elastizität der Aorta wider, wird
-   immer als letzter Wert angegeben.
-
-Die Einteilung der Blutdruck-Werte erfolgt nach folgendem Schema.
-
--  Hypotonie: <100-105 mmHg systolisch
--  normaler Blutdruck: <145/<90 mmHg
--  Grenzwertig: 145-165/90-95 mmHg
--  Hypertonie: >165/>95 mmHg
-
-Rhythmusregulierende Medikamente
-------------------------------------
-
-Die Antiarrhythmika sind in vier verschiedene Klassen nach Vaughan
-Williams (`Tab. 1 <#anchor-8>`__) unterteilt. Diese Einteilung bezieht
+Die Antiarrhythmika sind in vier verschiedene Klassen nach
+:ref:`Vaughan Williams <Tab-VaughanWilliams>`
+unterteilt. Diese Einteilung bezieht
 sich auf der jeweiligen Wirkmechanismus.
 
 Antiarrhythmika blockieren meist einen bestimmten Elektronen-Kanal des
@@ -208,7 +28,7 @@ Herzgewebes und können so das
 beeinflussen.
 
 
-.. figure:: media/Pictures/1000000000000C39000010067078E35D3BFEFCD9.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz- Aktionspotential.png
     :width: 100%
     :name: Fig-AktionspotentialHerz
 
@@ -223,92 +43,71 @@ Antiarrhythmika – Je nach dem welches Elektrolyt man durch diese
 Medikamente hemmt, verändert sich das Aktionspotential und eine
 Rhythmusstörung wird verhindert.
 
-Tab. 1 Antiarrhythmikaeinteilung nach Vaughan Williams
+.. list-table:: Antiarrhythmikaeinteilung nach Vaughan Williams
+    :name: Tab-VaughanWilliams
+    :stub-columns: 1
+    :widths: 30 70
 
-+-----------------+-----------------+-----------------+-------------+
-| Klasse I        | Ia              | Ajmalin         | Gilurytmal® |
-| (Natri          |                 |                 |             |
-| umkanalblocker) |                 |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Chinidin        | **Chinidin      |                 |             |
-|                 | Duriles®**      |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Disopyramid     | **Rythmodul®,   |                 |             |
-|                 | Rythmodan®**    |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Prajmalin       | **Neo           |                 |             |
-|                 | Gilurytmal®**   |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Ib              | Aprindin        | **Amidonal®,**  |             |
-+-----------------+-----------------+-----------------+-------------+
-| Lidocain        | **Lidocorit®**  |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Mexiletin       | **Mexitil®**    |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Phenytoin       | **Zentropril®** |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Tocainid        | **Xylotocan®**  |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Ic              | Flecainid       | **Aristocor®**  |             |
-+-----------------+-----------------+-----------------+-------------+
-| Propafenon      | **Rytmonorm®,   |                 |             |
-|                 | Rythmocor®**    |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Klasse II       | Acebutolol      | **Prent®**      |             |
-| (Betablocker)   |                 |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Atenolol        | **Atehexal®,    |                 |             |
-|                 | Tenormin®,      |                 |             |
-|                 | Tenoretic®**    |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Betaxolol       | **Kerlone®**    |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Bisoprolol      | **Bisocor®,     |                 |             |
-|                 | Concor®,        |                 |             |
-|                 | Bios            |                 |             |
-|                 | tad®,Rivacor®** |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Metoprolol      | **Beloc®,       |                 |             |
-|                 | Seloken®,       |                 |             |
-|                 | Lanoc®**        |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Oxprenolol      | **Trasicor®**   |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Pindolol        | **Visken®**     |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Propranolol     | **Dociton®,     |                 |             |
-|                 | Inderal®,       |                 |             |
-|                 | Proprahexal®**  |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Sotalol         | **Sotalex®,     |                 |             |
-|                 | Sotacor®,       |                 |             |
-|                 | Sotahexal®**    |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Timolol         | **Temserin®,    |                 |             |
-|                 | Blocadren®,     |                 |             |
-|                 | Moducrin®**     |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Klasse III      | Amiodaron       | **Cordarex®,    |             |
-| (Kali           |                 | Sedacoron®**    |             |
-| umkanalblocker) |                 |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Sotalol         | **Sotalex®      |                 |             |
-|                 | Sotacor®,       |                 |             |
-|                 | Sotahexal®**    |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Klasse IV       | Diltiazem       | **Dilzem®,      |             |
-| (Calci          |                 | Diltahexal®**   |             |
-| umkanalblocker) |                 |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Gallopamil      | **Procorum®**   |                 |             |
-+-----------------+-----------------+-----------------+-------------+
-| Verapamil       | **Isoptin®,     |                 |             |
-|                 | Verapabene®,    |                 |             |
-|                 | Verastad®**     |                 |             |
-+-----------------+-----------------+-----------------+-------------+
+    *   -   Klasse I  (Natriumkanalblocker)
+        -
+    *   -   -   Ia
+        -   Ajmalin (Gilurytmal™)
 
-Klasse I. „Natriumkanalblocker“
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Chinidin (Chinidin, Duriles™)
+
+            Disopyramid (Rythmodul™, Rythmodan™)
+
+            Prajmalin (Neo Gilurytmal™)
+    *   -   -   Ib
+        -   Aprindin (Amidonal™)
+
+            :ref:`Lidocain <Lidocain>` (Lidocorit™)
+
+            Mexiletin (Mexitil™)
+
+            Phenytoin (Zentropril™)
+
+            Tocainid (Xylotocan™)
+    *   -   -   Ic
+        -   Flecainid (Aristocor™)
+
+            Propafenon (Rytmonorm™,   Rythmocor)
+
+    *   -   Klasse II  (Betablocker)
+        -   Acebutolol (Prent™)
+
+            Atenolol (Atehexal™, Tenormin™, Tenoretic™)
+
+            Betaxolol (Kerlone™)
+
+            Bisoprolol (Bisocor™, Concor™, Biostad™,Rivacor™)
+
+            Metoprolol (Beloc™, Seloken™, Lanoc™)
+
+            Oxprenolol (Trasicor™)
+
+            Pindolol (Visken™)
+
+            Propranolol (Dociton™, Inderal™, Proprahexal™)
+
+            Sotalol (Sotalex™, Sotacor™, Sotahexal™)
+
+            Timolol (Temserin™, Blocadren™, Moducrin™)
+    *   -   Klasse III (Kaliumkanalblocker)
+        -   :ref:`Amiodaron <Amiodaron>` (Cordarex™,   Sedacoron™)
+
+            Sotalol (Sotalex™, Sotacor™, Sotahexal™)
+    *   -   Klasse IV (Calciumkanalblocker
+        -   Diltiazem (Dilzem™,  Diltahexal™)
+
+            Gallopamil (Procorum™)
+
+            Verapamil (Isoptin™, Verapabene™, Verastad™)
+
+
+
+Klasse I: Natriumkanalblocker
+===============================
 
 Sie bewirken eine Leitungsverzögerung. Da sie aber selbst auch
 arrhythmogen (= Rhythmusstörungen verursachend) wirken können, sind sie
@@ -319,48 +118,47 @@ Na⁺-Kanalblockade noch weiter unterteilt werden:
 
 **IA**: mittellange Blockade
 
-=========== ==========================
-Ajmalin     Gilurytmal®
-Chinidin    **Chinidin Duriles®**
-Disopyramid **Rythmodul®, Rythmodan®**
-Prajmalin   **Neo Gilurytmal®**
-=========== ==========================
 
+:ref:`Ajmalin <Ajmalin>` (Gilurytmal™),
+Chinidin (Chinidin Duriles™),
+Disopyramid (Rythmodul™, Rythmodan™),
+Prajmalin (Neo Gilurytmal™)
 
-⚠
-**Chinidin (Chinidin Duriles®)**: Kein zerteilen oder kauen der
-Tabletten
+.. note::
 
-⚠
-**Prajmalin (Neo Gilurytmal®)**: Einnahme der Tabletten unzerkaut nach
-dem Essen
+    ⚠
+    **Chinidin (Chinidin Duriles™)**: Kein zerteilen oder kauen der
+    Tabletten
+
+    ⚠
+    **Prajmalin (Neo Gilurytmal™)**: Einnahme der Tabletten unzerkaut nach
+    dem Essen
 
 **IB**: kurze Blockade
 
-========= ===============
-Aprindin  **Amidonal®**
-Lidocain  **Lidocorit®**
-Mexiletin **Mexitil®**
-Phenytoin **Zentropril®**
-Tocainid  **Xylotocan®**
-========= ===============
+:ref:`Lidocain <Lidocain>`  (Lidocorit™),
+Aprindin  (Amidonal™),
+Mexiletin (Mexitil™),
+Phenytoin (Zentropril™),
+Tocainid  (Xylotocan™)
 
-⚠
-**Mexiletin (Mexitil®)**: Einnahme der Kapseln nach den Mahlzeiten im
-Sitzen
+.. note::
+    ⚠
+    **Mexiletin (Mexitil™)**: Einnahme der Kapseln nach den Mahlzeiten im
+    Sitzen
 
-⚠
-**Tocainid (Xylotocan®)**: Einnahme zum Essen
+    ⚠
+    **Tocainid (Xylotocan™)**: Einnahme zum Essen
 
 **IC**: lange Blockade
 
-========== ===========================
-Flecainid  **Aristocor®**
-Propafenon **Rytmonorm®, Rythmocor ®**
-========== ===========================
+
+*Flecainid*  (Aristocor™),
+*Propafenon* (Rytmonorm™, Rythmocor ™)
+
 
 ⚠
-**Propafenon (Rytmonorm®, Rythmocor ®)**: Einnahme nach dem
+Propafenon (Rytmonorm™, Rythmocor ™): Einnahme nach dem
 Essen, Patienten auf unangenehmen Geschmack und
 oberflächenanästhesierende Wirkung hinweisen.
 
@@ -374,24 +172,27 @@ negativ inotrop und vasodilatierend.
 *Kontraindikationen:* Hypokaliämie, schwere Herzinsuffizienz, AV-Block
 Grad I oder II.
 
-Klasse II. „Betablocker“
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Klasse II: Betablocker
+========================
 
 Die Blockade der β-Rezeptoren des sympathischen Teiles des vegetativen
 Nervensystems führt zu einer verminderten adrenergen Erregbarkeit.
 
-=========== ===========================================
-Acebutolol  **Prent®**
-Atenolol    **Atehexal ®, Tenormin®, Tenoretic®**
-Betaxolol   **Kerlone®**
-Bisoprolol  **Bisocor ®, Concor®, Biostad ®,Rivacor ®**
-Metoprolol  **Beloc®, Seloken®, Lanoc®**
-Oxprenolol  **Trasicor®**
-Pindolol    **Visken®**
-Propranolol **Dociton®, Inderal®, Proprahexal®**
-Sotalol     **Sotalex®, Sotacor®, Sotahexal®**
-Timolol     **Temserin®, Blocadren®, Moducrin®**
-=========== ===========================================
+Wirkstoffe
+    **Bisoprolol**  (Bisocor™, Concor™, Biostad™,Rivacor™),
+    :ref:`Esmolol <Esmolol>` (Brevibloc™),
+    **Metoprolol**  (Beloc™, Seloken™, Lanoc™);
+    *Acebutolol*  (Prent™),
+    *Atenolol*    (Atehexal™, Tenormin™, Tenoretic™),
+    *Betaxolol*   (Kerlone™),
+    *Oxprenolol*  (Trasicor™),
+    *Pindolol*    (Visken™),
+    *Propranolol* (Dociton™, Inderal™, Proprahexal™),
+    *Sotalol*     (Sotalex™, Sotacor™, Sotahexal™),
+    *Timolol*     (Temserin™, Blocadren™, Moducrin™)
+
 
 Sie bewirken eine Abnahme der Sinusknotenfrequenz und eine verzögerte
 AV-Überleitung. Daher werden sie besonders zur Behandlung von
@@ -401,29 +202,29 @@ supraventrikulären Tachykardien verwendet.
 für Nebenwirkungen und Kontraindikationen siehe β-Blocker
 
 ⚠
-**Atenolol (Atehexal ®, Tenormin®, Tenoretic®)**: Tablette unzerkaut vor
+**Atenolol (Atehexal ™, Tenormin™, Tenoretic™)**: Tablette unzerkaut vor
 dem Essen einnehmen.
 
-⚠\ **Metoprolol (Beloc®, Seloken®, Lanoc®)**: Als
+⚠\ **Metoprolol (Beloc™, Seloken™, Lanoc™)**: Als
 Retardtabletten verarbeitet, diese nicht kauen und nach dem Essen
 einnehmen.
 
 ⚠
-**Propanolol** **(Dociton®, Inderal®, Proprahexal®)**: Tabletten nach
+**Propanolol** **(Dociton™, Inderal™, Proprahexal™)**: Tabletten nach
 dem Essen unzerkaut einnehmen. Vorsicht Bradykardie!
 
 Klasse III: „Kaliumkanalblocker“
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+================================
 
 Durch die Hemmung des Kaliumausstromes aus der Zelle kann die
 Aktionspotentialdauer und die absolute Refraktärzeit, das ist die Zeit
 bis das Myokard zu einer neuerlichen Kontraktion bereit ist, des
 Herzgewebes verändert werden.
 
-========= ===================================
-Amiodaron **Cordarex®, Sedacoron®**
-Sotalol   **Sotalex®**\ (auch ein β-Blocker!)
-========= ===================================
+
+:ref:`Amiodaron <Amiodaron>` (Cordarex™, Sedacoron™),
+*Sotalol*   (Sotalex™)\ (auch ein β-Blocker!)
+
 
 Diese Substanzen werden bei ventrikulären Arrhythmien und Vorhofflimmern
 eingesetzt.
@@ -437,11 +238,11 @@ Kammertachykardie) auslösen. Da Amiodaron zwei Iodatome enthält, kann es
 Schilddrüsenfunktionsstörungen auslösen.
 
 ⚠
-**Amiodaron (Cordarex®, Sedacoron®):**\ Kontraindikation bei
+Amiodaron: Kontraindikation bei
 Schilddrüsenerkrankungen!
 
 Klasse IV: „Kalziumantagonisten“
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+================================
 
 Substanzen dieser Klasse hemmen den Kalziumeinstrom in die Zelle.
 Dadurch kommt es zu einer Verzögerung der Erregungsausbreitung in
@@ -450,11 +251,11 @@ chronotrop.
 
 !!!Nicht: Nifedipin!!!
 
-========== ====================================
-Diltiazem  **Dilzem®, Diltahexal®**
-Gallopamil **Procorum®**
-Verapamil  **Isoptin®, Verapabene®, Verastad®**
-========== ====================================
+
+*Diltiazem*  (Dilzem™, Diltahexal™),
+*Gallopamil* (Procorum™),
+*Verapamil*  (Isoptin™, Verapabene™, Verastad™)
+
 
 Ihr Einsatzgebiet sind supraventrikuläre Tachykardien und
 Tachyarrhythmien bei Vorhofflattern bzw. -flimmern ohne Präexzitation.
@@ -468,25 +269,29 @@ können sie eine Hypotonie auslösen.
 
 siehe Kalzium-Antagonisten
 
-⚠
-**Diltiazem (Dilzem®, Diltahexal®)**: Einnahme nur bei gewährleisteter
-Herz- und Kreislaufüberwachung
+.. note::
 
-⚠
-**Verapamil (Isoptin® Verapabene®, Verastad®)**: Einnahme unzerkaut zu
-den Mahlzeiten.
+    ⚠
+    **Diltiazem (Dilzem™, Diltahexal™)**: Einnahme nur bei gewährleisteter
+    Herz- und Kreislaufüberwachung
+
+    ⚠
+    **Verapamil (Isoptin™ Verapabene™, Verastad™)**: Einnahme unzerkaut zu
+    den Mahlzeiten.
+
+
 
 Weitere Antiarrhythmika außerhalb der Vaughan-Williams-Einteilung
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=================================================================
 
 Sympathomimetika:
 
 Diese Substanzklasse ahmt die Wirkung des Sympathikus nach:
 
-============ ===============
-Adrenalin    **Suprarenin®**
-Ocriprenalin **Alupent®**
-============ ===============
+
+:ref:`Adrenalin <Adrenalin>` (Suprarenin™),
+Ocriprenalin (Alupent™)
+
 
 Sie sind das Mitte der ersten Wahl bei der Reanimation (siehe Advanced
 Life Support, ALS).
@@ -503,10 +308,8 @@ Diese Substanzen steigern Herzfrequenz und Kontraktionskraft des
 Herzens, indem sie die hemmenden Einflüsse des Parasympathikus
 verringern.
 
-================ ======================================
-Atropin          **Atropinum sulfuricum®, Myocardon®,**
-Ipatropiumbromid **Atrovent®, Itrop®, Berodual®**
-================ ======================================
+:ref:`Atropin <Atropin>`          (Atropinum sulfuricum™, Myocardon™),
+*Ipatropiumbromid* (Atrovent™, Itrop™, Berodual™)
 
 Atropin wird auch im Rahmen des ALS eingesetzt. Außerdem sind beide
 Stoffe bei der temporären Behandlung einer Bradykardie indiziert. Die
@@ -519,12 +322,12 @@ siehe Herzglykoside
 Ihre Anwendungsgebiete decken sich mit den Klasse-IV-Antiarrhythmika
 weitgehend.
 
-========= ==============
-Digoxin   **Lanicor®**
-Digitoxin **Digimerck®**
-========= ==============
+Wirkstoffe
+    **Digoxin**   (Lanicor™),
+    **Digitoxin** (Digimerck™)
 
-**Adenosin (Adrekar®)**:
+
+**Adenosin (Adrekar™)**:
 
 Wird zum raschen Abbruch supraventrikulärer Tachykardien verwendet.
 Durch die rasche Verteilung (10s) im Gewebe muss Adenosin i.v. im Bolus
@@ -533,24 +336,25 @@ gegeben und meist mehrmals verabreicht werden.
 Unerwünschte Wirkungen: Flush, Kurzatmigkeit, Brustschmerzen. Die
 Wirkung kann durch Theophyllin antagonisiert werden.
 
-**Magnesium (Mg-5-Sulfat 50%®):**
+**Magnesium (Mg-5-Sulfat 50%™):**
 
 Diese Substanz ist ein physiologischer Kalziumantagonist und ist das
 Mittel der Wahl bei Torsade-de-pointes-Tachykardien und ventrikulären
 Tachykardien bei Magnesiummangel.
 
+*************
 Herzglykoside
-----------------
+*************
 
 Diese Substanzen sind größtenteils pflanzlicher Herkunft (Fingerhut,
 Maiglöckchen, Oleander, Meerzwiebel)
 
 ============== ==================================================
-Acethyldigoxin **Novodigal®, Corotal®, Digi-Aldopur®, Gladixol®**
-Digitoxin      **Digimerck®**
-Digoxin        **Lanicor®**
-Metildigoxin   **Lanitop®**
-Strophantin    **Kombetin®**
+Acethyldigoxin (Novodigal™, Corotal™, Digi-Aldopur™, Gladixol™)
+Digitoxin      (Digimerck™)
+Digoxin        (Lanicor™)
+Metildigoxin   (Lanitop™)
+Strophantin    (Kombetin™)
 ============== ==================================================
 
 Herzglykoside *(*\ `Tab. 2 <#anchor-12>`__\ *)* bewirken über eine
@@ -613,8 +417,9 @@ obstruktive Kardiomyopathie
    erwägen, sie zu den Mahlzeiten schlucken zu lassen.
 
 
+***********************************
 Betarezeptorenblocker („β-Blocker“)
--------------------------------------
+***********************************
 
 Betablocker blockieren die Betarezeptoren des sympathischen
 Nervensystems.
@@ -636,21 +441,21 @@ physikalisch-chemischen Eigenschaften (z.B. Verteilung in Gewebe,
 Metabolisierung / Elimination)
 
 =========== ===========================================
-Acebutolol  **Prent®**
-Atenolol    **Atehexal ®, Tenormin®, Tenoretic®**
-Betaxolol   **Kerlone®**
-Bisoprolol  **Bisocor ®, Concor®, Biostad ®,Rivacor ®**
-Carvedilol  **Dilatrend®**
-Celiprolol  **Selectol®, Selecturon®**
-Esmolol     **Brevibloc®**
-Metoprolol  **Beloc®, Seloken®, Lanoc®**
-Nadolol     **Solgol®**
-Nebivolol   **Nebilet®, Hypoloc®, Nomexor®**
-Oxprenolol  **Trasicor®**
-Pindolol    **Visken®**
-Propranolol **Dociton®, Inderal®, Proprahexal®**
-Sotalol     **Sotalex®, Sotacor®, Sotahexal®**
-Timolol     **Temserin®, Blocadren®, Moducrin®**
+Acebutolol  (Prent™)
+Atenolol    (Atehexal ™, Tenormin™, Tenoretic™)
+Betaxolol   (Kerlone™)
+Bisoprolol  (Bisocor ™, Concor™, Biostad ™,Rivacor ™)
+Carvedilol  (Dilatrend™)
+Celiprolol  (Selectol™, Selecturon™)
+Esmolol     (Brevibloc™)
+Metoprolol  (Beloc™, Seloken™, Lanoc™)
+Nadolol     (Solgol™)
+Nebivolol   (Nebilet™, Hypoloc™, Nomexor™)
+Oxprenolol  (Trasicor™)
+Pindolol    (Visken™)
+Propranolol (Dociton™, Inderal™, Proprahexal™)
+Sotalol     (Sotalex™, Sotacor™, Sotahexal™)
+Timolol     (Temserin™, Blocadren™, Moducrin™)
 =========== ===========================================
 
 Diese Medikamente finden eine weite Verbreitung als Antiarrhythmika,
@@ -694,8 +499,9 @@ Pinzmetal-Angina.
    Bei Kombination mit Diuretika sollten Betablocker immer in Früh
    verabreicht werden.
 
+**********
 ACE-Hemmer
---------------
+**********
 
 Diese Substanzgruppe wirkt über die Blockade des
 Angiotensin-Converting-Enzyms welches Angiotensin I in Angiotensin II
@@ -703,32 +509,32 @@ umwandelt. Antiotensin II ist der stärkste Vasokonstriktor des
 menschlichen Körpers und bewirkt vor allem einen Blutdruckanstieg.
 
 +-----------------+---------------------------------------------------+
-| Benazepril      | **Cibacen®**                                      |
+| Benazepril      | **Cibacen™**                                      |
 +-----------------+---------------------------------------------------+
-| Captopril       | **Capace®, Lopirin®, Captor®, Debax®, Veracapt®** |
+| Captopril       | **Capace™, Lopirin™, Captor™, Debax™, Veracapt™** |
 +-----------------+---------------------------------------------------+
-| Cilazapril      | **Dynorm®, Inhibace®**                            |
+| Cilazapril      | **Dynorm™, Inhibace™**                            |
 +-----------------+---------------------------------------------------+
-| Enalapril       | **Pres®, Alapril®, Enac „Hexal“ ®, Mepril®,       |
-|                 | Renitec®, Baroprine®, Prilenal®**                 |
+| Enalapril       | **Pres™, Alapril™, Enac „Hexal“ ™, Mepril™,       |
+|                 | Renitec™, Baroprine™, Prilenal™**                 |
 +-----------------+---------------------------------------------------+
-| Fosinopril      | **Forinorm®, Fosicomb®, Fositens®**               |
+| Fosinopril      | **Forinorm™, Fosicomb™, Fositens™**               |
 +-----------------+---------------------------------------------------+
-| Lisinopril      | **Acerbon®, Acetan®, Prinivil®, Acecomb®,         |
-|                 | Zestoretic®**                                     |
+| Lisinopril      | **Acerbon™, Acetan™, Prinivil™, Acecomb™,         |
+|                 | Zestoretic™**                                     |
 +-----------------+---------------------------------------------------+
-| Moexipril       | **Fempress®**                                     |
+| Moexipril       | **Fempress™**                                     |
 +-----------------+---------------------------------------------------+
-| **Perindopril** | **Coversum®, Predonium®, Preterax®**              |
+| **Perindopril** | **Coversum™, Predonium™, Preterax™**              |
 +-----------------+---------------------------------------------------+
-| Quinapril       | **Accupro®, Quinastad®, Accuzide®**               |
+| Quinapril       | **Accupro™, Quinastad™, Accuzide™**               |
 +-----------------+---------------------------------------------------+
-| Ramipril        | **Delix®, Hypren®, Lannapril®,Tritace®,           |
-|                 | Lasitace®, Trialix®**                             |
+| Ramipril        | **Delix™, Hypren™, Lannapril™,Tritace™,           |
+|                 | Lasitace™, Trialix™**                             |
 +-----------------+---------------------------------------------------+
-| Spirapril       | **Quadropril®**                                   |
+| Spirapril       | **Quadropril™**                                   |
 +-----------------+---------------------------------------------------+
-| Tandolapril     | **Gopten®**                                       |
+| Tandolapril     | **Gopten™**                                       |
 +-----------------+---------------------------------------------------+
 
 Eingesetzt wird diese Substanzklasse zur Therapie von Hypertonie,
@@ -759,21 +565,22 @@ Aortenstenose
         der Nahrungsaufnahme genommen. Eine Außnahme ist Captopril, welches 2—3
         mal am Tag unabhängig von der Nahrungsaufnahme zugeführt werden kann.
 
+************************************************
 Angiotensin-II-Rezeptorantagonisten („Sartane“):
---------------------------------------------------
+************************************************
 
 Die Sartane blockieren den AT1-Rezeptor, an den das Angiotensin II
 andocken soll. Dadurch bewirken sie wie die ACE-Hemmer eine
 Blutdrucksenkung und eine Besserung der Herzinsuffizienz.
 
 =========== =======================
-Candesartan **Blopress®, Atacand®**
-Eprosartan  **Teveten®**
-Irbesartan  **Aprovel®, Karvea®**
-Losartan    **Lorzaar®, Cosaar®**
-Olmesartan  **Olmetec®, Mencord®**
-Telmisartan **Micardis®, Pritor®**
-Valsartan   **Diovan®**
+Candesartan (Blopress™, Atacand™)
+Eprosartan  (Teveten™)
+Irbesartan  (Aprovel™, Karvea™)
+Losartan    (Lorzaar™, Cosaar™)
+Olmesartan  (Olmetec™, Mencord™)
+Telmisartan (Micardis™, Pritor™)
+Valsartan   (Diovan™)
 =========== =======================
 
 Verwendet werden sie bei arterieller Hypertonie und Herzinsuffizienz.
@@ -785,8 +592,9 @@ gehäuft tritt Schwindel auf.
 
 Kontraindikationen: ähnlich ACE-Hemmer.
 
+******************
 Ca⁺⁺-Antagonisten:
-------------------------------
+******************
 
 Medikamente dieser Kategorie blockieren den Kalziumeinstrom in glatte
 Muskulatur, Myokard (Herzgewebe) und Erregungbildungs- und
@@ -802,28 +610,28 @@ kann man drei Gruppen einteilen:
 -  Nifedipin-Typ: Wirkungsschwerpunkt glatte Muskulatur
 
 =========== =========================================================
-Amlodipin   **Norvasc®, Caduet®, Amlocor®**
-Felodipin   **Modip®, Munobal®, Plendil®**
-Isradipin   **Lomir®**
-Nicardipin  **Antagonil®, Karden®**
-Nifedipin   **Adalat®, Buconif®, Fedip®, Nifal®, Nifebene®, Niften®**
-Nimodipin   **Nimotop®**
-Nisoldipin  **Baymycard®, Syscor®**
-Nitrendipin **Bayotensin®, Baypress®, Cenipres®**
+Amlodipin   (Norvasc™, Caduet™, Amlocor™)
+Felodipin   (Modip™, Munobal™, Plendil™)
+Isradipin   (Lomir™)
+Nicardipin  (Antagonil™, Karden™)
+Nifedipin   (Adalat™, Buconif™, Fedip™, Nifal™, Nifebene™, Niften™)
+Nimodipin   (Nimotop™)
+Nisoldipin  (Baymycard™, Syscor™)
+Nitrendipin (Bayotensin™, Baypress™, Cenipres™)
 =========== =========================================================
 
 -  Diltiazem-Typ: Wirkung an glatter Muskulatur, Myokard,
    Erregungssystem
 
 ========= ========================
-Diltiazem **Dilzem®, Diltiastad®**
+Diltiazem (Dilzem™, Diltiastad™)
 ========= ========================
 
 -  Verapamil-Typ: Wirkung an Myokard und Erregungsystem
 
 ========== ========================================================
-Gallopamil **Procorum®**
-Verapamil  **Isoptin®, Verapabene®, Verastad®, Confit®, Veracapt®**
+Gallopamil (Procorum™)
+Verapamil  (Isoptin™, Verapabene™, Verastad™, Confit™, Veracapt™)
 ========== ========================================================
 
 Ihre Ersatzgebiete sind arterielle Hypertonie, Raymaud-Syndrom, KHK,
@@ -839,8 +647,9 @@ Kontraindikationen: Herzinsuffizienz, Schwangerschaft
 
 .. attention:: Kalziumantagonisten werden als Retardtablette verabreicht und sollten morgens genommen werden. Nifedipin wird zweimal täglich geschluckt.
 
+*******
 Nitrate
-----------
+*******
 
 Diese Substanzgruppe stellt der glatter Muskulatur NO zur Verfügung.
 Dadurch bewirken sie eine Relaxation (Entspannung) glatter Muskulatur.
@@ -849,10 +658,10 @@ sehr schnell wirken und die akuten Schmerzen nehmen. Weiters werden sie
 bei Herzinsuffizienz und bei der hypertensiven Krise verwendet.
 
 ============================= =================================
-Glyceroltrinitrat             **Nitroglycerin®**
-Isosorbid-5-mononitrat        **Ismo®, Monoket®, Myokardon®**
-Isosorbiddinitrat             **Isoket®, Cedocard®, Viskenit®**
-**Molsidomin** Nitrat-ähnlich **Corvaton®, Molsidolat®**
+Glyceroltrinitrat             (Nitroglycerin™)
+Isosorbid-5-mononitrat        (Ismo™, Monoket™, Myokardon™)
+Isosorbiddinitrat             (Isoket™, Cedocard™, Viskenit™)
+**Molsidomin** Nitrat-ähnlich (Corvaton™, Molsidolat™)
 ============================= =================================
 
 unerwünschte Effekte:
@@ -885,11 +694,12 @@ Herzvitien
    Aufnahme) gesprüht werden.
 
 
+******************************************************
 Therapien der wichtigsten Kardiologischen Erkrankungen
----------------------------------------------------------
+******************************************************
 
 Koronare Herzkrankheit (KHK)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+============================
 
 Die KHK ist durch eine ineffiziente Durchblutung des Herzens
 gekennzeichnet und kann sich klinisch als Angina pectoris und als
@@ -949,7 +759,7 @@ beteiligen kann. Je größer die Infarktnarbe, desto kleiner ist die
 Belastung die der Patient danach noch verträgt.
 
 arterielle Hypertonie
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+=====================
 
 Die arterielle Hypertonie ist als Blutdruck von über 140 mmHg systolisch
 und 90 mmHg diastolisch definiert.
@@ -979,7 +789,7 @@ Folgende Komplikationen können entstehen:
 
 
 
-.. figure:: media/Pictures/100000000000133700001691C92A1D59156B5976.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Blutdruck.png
     :width: 100%
     :name: Fig-EntstehungBehandlungHypertonie
 
@@ -1009,7 +819,7 @@ Die medikamentöse Therapie wird nach folgenden
 :ref:`Stufenschema <Fig-StufenschemaHypertonie>` eingestellt:
 
 
-.. figure:: media/Pictures/10000000000019CA00001145B8F495559C5CF7AB.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Hypertonie-Stufenplan.png
     :width: 100%
     :name: Fig-StufenschemaHypertonie
 
@@ -1021,16 +831,16 @@ Die medikamentöse Therapie wird nach folgenden
 *α1-Blocker*: blockieren α1-Adrenozeptoren
 
 +-----------------+---------------------------------------------------+
-| Doxazosin       | **Diblocin®, Adoxa®, Ascalan®, Doxapress®,        |
-|                 | Prostadilat®, Supressin®**                        |
+| Doxazosin       | **Diblocin™, Adoxa™, Ascalan™, Doxapress™,        |
+|                 | Prostadilat™, Supressin™**                        |
 +-----------------+---------------------------------------------------+
-| Indoramin       | **Wydora®**                                       |
+| Indoramin       | **Wydora™**                                       |
 +-----------------+---------------------------------------------------+
-| Phenoxybenzamin | Dibenzyran®                                       |
+| Phenoxybenzamin | Dibenzyran™                                       |
 +-----------------+---------------------------------------------------+
-| Prazosin        | **Minipress®**                                    |
+| Prazosin        | **Minipress™**                                    |
 +-----------------+---------------------------------------------------+
-| Terazosin       | **Heitrin®, Urocard®, Uroflo®**                   |
+| Terazosin       | **Heitrin™, Urocard™, Uroflo™**                   |
 +-----------------+---------------------------------------------------+
 
 NW: orthostatische Beschwerden (daher einschleichen und erste Dosis erst
@@ -1040,12 +850,12 @@ abends), Ejakulationsstörungen, Schwäche, Müdigkeit, Kopfschmerzen
 Gefäßwiderstandes
 
 ==================== ============================
-Dihydralazin         **Nepresol®**
-Minoxidil            Lonolox®, Loniten®, Regaine®
-Nitroprussidnartrium Nipruss®
+Dihydralazin         (Nepresol™)
+Minoxidil            Lonolox™, Loniten™, Regaine™
+Nitroprussidnartrium Nipruss™
 ==================== ============================
 
-Die Hypertonie kann in Bereiche von über 220/120 mmHg
+Die Hypertonie kann in Bereiche von über 220 / 120 mm Hg
 steigen. Dann spricht man von einer Hypertensiven Krise. Dabei können
 schwere lebensbedrohliche Komplikationen (z.B. Hirnblutungen,
 Nierenversagen) auftreten. Es sollte eine rasche kontrollierte
@@ -1057,7 +867,7 @@ Reaktionsfähigkeit und somit auch die Verkehrstüchtigkeit eingeschränkt
 ist.
 
 Hypotonie
-~~~~~~~~~~~~~
+=========
 
 Die arterielle Hypotonie ist über systolische Werte unter 100—105 mm Hg
 definiert. Krankheitswert hat sie jedoch nur, wenn sie auch Symptome
@@ -1070,13 +880,13 @@ Daher ist die Therapie auch nur bei bestehender Symptomatik indiziert:
 -  ausreichende Kochsalzzufuhr
 -  prophylaktische Verhaltensweisen (langsam aus dem Sitzen hochkommen,
    Kompressionsstrümpfe)
--  medikamentös können Vasokonstriktoren (z.B. **Dihydroergotamin
-   DHE**), Sympathomimetika (z.B. **Etilefrin, Effortil®**),
-   Mineralocorticoide (z.B. **Fludrocortison, Astonin H®**)und
-   α-Rezeptorantagonisten (z.B. **Midorin**) zum Einsatz kommen.
+-  medikamentös können Vasokonstriktoren (z.B. Dihydroergotamin
+   DHE), Sympathomimetika (z.B. (Etilefrin, Effortil™),
+   Mineralocorticoide (z.B. (Fludrocortison, Astonin H™)und
+   α-Rezeptorantagonisten (z.B. (Midorin**) zum Einsatz kommen.
 
 Herzrhythmus-Störungen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+======================
 
 Herzrhythmusstörungen sind Störungen in der Erregungsbildung und
 Erregungsleitung des Herzmuskels, die in einer Störung des Herzschlages
@@ -1139,7 +949,7 @@ Bradykardien:
 Alle pulslosen Störungen sind UNBEDINGT REANIMATIONSBEDÜRFTIG!!!
 
 
-.. figure:: media/Pictures/10000000000008DF000010F7AC10C1BFB0A1051C.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Bls.png
     :width: 100%
 
     ₢ Lena Hirtler  :term:`ℓ MfG`
@@ -1159,7 +969,7 @@ Patient sorgfälltig kardiologisch überwacht werden und eine
 Notfallausrüstung bereitstehen.
 
 Herzinsuffizienz
-~~~~~~~~~~~~~~~~~~~~~
+================
 
 Unter Herzinsuffizienz *(*\ `Abb. 9 <#anchor-21>`__\ *)* versteht man
 die Unfähigkeit des Herzens, die für die normale Aufrechterhaltung der
@@ -1213,7 +1023,7 @@ Weiters werden folgende Substanzklassen angewendet:
 -  β-Blocker: Prognoseverbesserung
 
 
-.. figure:: media/Pictures/100000000000132D0000121DD1D8D3CF535F2E0D.png
+.. figure:: /Bilder/HirtlerLena-Ccc/Herz-Herzinsuffizienz.png
     :width: 100%
 
     Entstehung und Therapie der Herzinsuffizienz

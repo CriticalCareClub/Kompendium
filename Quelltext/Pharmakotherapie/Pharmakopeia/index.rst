@@ -18,3 +18,47 @@ Pharmakopeia
     Propofol/index
     Rocuronium/index
     Thiopental/index
+
+..
+    Medikament
+    ########################################################################
+
+
+    :Spezialitäten:
+
+
+
+    :Haupt- und Nebenwirkungen:
+
+
+
+    :Pharmakodynamik:
+
+
+
+    :Indikation(en):
+
+
+
+    :Dosierungen:
+
+
+
+    :Spezielle Patientengruppen:
+
+        -   Leberinsuffizienz:
+        -   Niereninsuffizienz:
+        -   Schwangerschaft, Stillzeit:
+        -   Kinder:
+
+
+    :Kontraindikation(en):
+
+
+
+    :Pharmakokinetik:
+
+
+
+    :Wechselwirkungen:
+

@@ -47,7 +47,8 @@ Amiodaron
         z. B. bei der Manifestation
         des Wolff-Parkinson-White-Syndroms
 
-        Akzessorische Leitungsbahn und FBI-Tachykardie:
+        Akzessorische Leitungsbahn und
+        :ref:`FBI-Tachykardie <Fbi-Tachykardie>`:
         Siehe Kontraindikationen
     -   Ventrikuläre Arrhythmien,
         inkl. ventrikuläre Tachykardie oder Kammerflimmern
@@ -132,7 +133,10 @@ Amiodaron
 
         .. rubric:: ⚠ Amiodaron und akzessorische Leitungsbahnen
 
-        Bei der Anwendung von Amiodaron bei einer Tachykardie aufgrund einer akzessorischen Leitungsbahn (Hinweis: FBI-Tachykardie: Fast, Broad, Irregular) kann die AV-blockierende Wirkung gegenüber der Verlängerung der Refraktärzeit überwiegen.
+        Bei der Anwendung von Amiodaron bei einer Tachykardie aufgrund einer akzessorischen Leitungsbahn
+        (Hinweis: :ref:`FBI-Tachykardie <Fbi-Tachykardie>`\ :
+        *Fast, Broad, Irregular*)
+        kann die AV-blockierende Wirkung gegenüber der Verlängerung der Refraktärzeit überwiegen.
         Dadurch entfällt die bremsende Wirkung der AV-Überleitung und es kann zu einer ungebremsten Überleitung vom Vorhof in die Kammer und in Folge zu einem therapierefraktären Kammerflimmern kommen.
         Ziehe alternativ :ref:`Ajmalin <Ajmalin>` in Betracht.
 

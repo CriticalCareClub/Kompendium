@@ -926,6 +926,13 @@ Literaturverzeichnis
     http://dx.doi.org/10.1177/1753193411414353
 
 
+.. [FI:AmiodaronHameln:2020]
+
+    Fachinformation
+    *Amiodaron-hameln 50 mg/ml Konzentrat zur Herstellung einer Injektions- /Infusionslösung.*
+    Dezember 2020.
+    hameln pharma gmbh.
+    https://aspregister.basg.gv.at/document/servlet?action=show&zulnr=138341&type=DOTC_FACH_INFO
 
 .. [Grmec:2002]
 	Grmec, Stefek:

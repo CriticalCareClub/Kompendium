@@ -61,7 +61,7 @@ Appendix
     *   -   🚑
         -   1f691
         -   Ambulance
-        -   den Rettungsdienst ebtreffend
+        -   den Rettungsdienst betreffend
     *   -   🕏
         -   1f54f
         -   Bowl of Hygieia

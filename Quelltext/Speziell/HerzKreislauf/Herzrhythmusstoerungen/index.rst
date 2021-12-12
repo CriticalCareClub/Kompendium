@@ -311,6 +311,27 @@ Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
         (z. B. *Marcoumar*, der Patient ist blutungsgefährdet)
 
 
+.. index::
+    single: Tachykardie; FBI-
+    single: Tachykardie; unregelmäßige Breitkomplex-
+    single: FBI-Tachykardie
+
+.. _Fbi-Tachykardie:
+
+************************************************************************
+FBI-Tachykardie:  Fast — Broad — Irregular
+************************************************************************
+
+Die FBI-Tachykardie ist eine unregelmäßige Breitkomplextachykardie
+mit polymorphen Kammerkomplexen.
+Sie kommt zu Stande bei Vorliegen von *Vorhofflimmern* mit einer *akzessorischen Leitungsbahn*.
+Die reguläre AV-Reizleitung wirkt hier hemmend auf die schnelle Überleitung über die akzessorische Bahn.
+Es dürfen daher keine AV-blockierenden Medikamente
+(Betablocker, Verapamil, Adenosin, Digitalis, auch :ref:`Amiodaron <Amiodaron>` ist eher kritisch zu sehen) eingesetzt werden!
+Antiarrhythmikum der Wahl ist :ref:`Ajmalin <Ajmalin>` oder
+die elektrische Kardioversion.
+
+
 
 .. _extrasystolen:
 
@@ -369,6 +390,12 @@ ABCDE
         🚩 **kardiogener Schock**,
         🚩 Kreislaufstillstand
 
+        Ⓔ
+            EKG-Befund!
+
+            -   Schmal-/Breitkomplex
+            -   Regelmäßigkeit
+
 
 
 .. rubric:: Ⓑ
@@ -376,7 +403,7 @@ ABCDE
 🚩 Dyspnoe kann in Folge der kardialen
 Mehrbelastung auftreten
 
-.. rubric:: ₢
+.. rubric:: Ⓒ
 
 Es liegt eine *Tachykardie* vor.
 Der Puls ist i.d.R. hoch,
@@ -385,6 +412,15 @@ Der Patient kann bei mangelnder Herzauswurfleistung
 🚩 kreislaufinsuffizient werden und einen
 🚩 kardiogenen Schock entwickeln.
 Im Extremfall ist auch ein 🚩 Kreislaufstillstand möglich.
+
+.. rubric:: Ⓔ
+
+Es ist unbedingt ein :ref:`EKG <Ekg>` anzufertigen!
+Fragestellung:
+
+-   Schmal- oder Breitkomplextachykardie
+-   Regelmäßig oder unregelmäßig
+
 
 SAMPLER
 =======

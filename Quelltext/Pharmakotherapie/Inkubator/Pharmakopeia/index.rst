@@ -4,27 +4,36 @@ Pharmakopeia — Inkubator
 
 .. toctree::
     :maxdepth: 1
+    :caption: Priorität
 
-    Amiodaron/index
-    Antiarrhythmika/index
-    Anticholinergika/index
     Atropin/index
     Benzodiazepine/index
+    Fentanyl/index
+    Flumazenil/index
+    Heparin/index
+    KetaminS/index
+    S-Ketamin/index
+    Midazolam/index
+    Morphin/index
+    Naloxon/index
+    Propofol/index
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Backlog
+
+    Antiarrhythmika/index
+    Anticholinergika/index
     CisAtracurium/index
     Clindamycin/index
     Diazepam/index
     Dimethylaminophenol/index
     Diuretika/index
-    S-Ketamin/index
     Fenoterol/index
-    Fentanyl/index
-    Flumazenil/index
     Furosemid/index
     Gentamycin/index
     Glycopyrronium/index
-    Heparin/index
     KatecholamineUndVasopressoren/index
-    KetaminS/index
     Lidocain/index
     Lorazepam/index
     Magnesium/index
@@ -32,17 +41,13 @@ Pharmakopeia — Inkubator
     Methyldigoxin/index
     Methylprednisolon/index
     Metoprolol/index
-    Midazolam/index
-    Morphin/index
     Nalbuphin/index
-    Naloxon/index
     Opiate/index
     Orciprenalin/index
     Paracetamol/index
     Pethidin/index
     Piritramid/index
     Prednisolon/index
-    Propofol/index
     Protamin/index
     Prothrombinkomplex/index
     Remifentanil/index

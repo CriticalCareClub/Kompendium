@@ -13,6 +13,7 @@ Pharmakopeia
     Adenosin/index
     Adrenalin/index
     Ajmalin/index
+    Amiodaron/index
     Esmolol/index
     Etomidate/index
     Propofol/index

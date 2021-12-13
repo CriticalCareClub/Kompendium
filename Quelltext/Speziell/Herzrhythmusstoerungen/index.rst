@@ -14,13 +14,15 @@ Herzrhythmusstörungen
     -   Vorhofflattern
     -   Akzelerierter idioventrikulärer Rhythmus
     -   Kammerflattern
-    -   Schnenkelblöcke
+    -   Sick-Sinus-Syndrome (SSS)
+    -   (Pathologische) Sinusbradykardie
+    -   Karotissinus-Syndrom
+    -   Sinuatrialer Block (SA-Block)
+
 
 
 Von Herzrhythmusstörungen spricht man,
 wenn es zur Störung der Reizbildung oder Reizleitung im Herzen kommt.
-
-
 
 Herzrhythmusstörungen sind häufig, allerdings auch oft sehr
 unterschiedlich in ihrer Bedeutung: Manche sind chronisch und eher wenig
@@ -34,23 +36,6 @@ auftreten.
 
 Einteilung
 *******************************
-
-
-.. only:: not nosidebar
-
-    .. sidebar:: Einteilung von Herzrhythmusstörungen
-
-        -   Ort
-        -   Ursachen
-        -   Auswirkungen
-
-            -   Frequenz
-            -   Regelmäßigkeit
-
-        -   Elektromechanische Dissoziation
-
-
-
 
 Es gibt viele Kriterien nach denen eine Einteilung erfolgen kann,
 je nach Störung und Krankheitsbild können sich diese auch überschneiden:
@@ -77,8 +62,8 @@ Eine Sonderform nimmt die
 wenn nicht jedem elektrischen Impuls ein Herzschlag folgt.
 Dies wird als
 :dfn:`elektromechanische Dissoziation`
-:index:` \<Dissoziation; elektromechanische>`
-:index:` \<elektromechanische Dissoziation>`
+:index:`\ <Dissoziation; elektromechanische>`
+:index:`\ <elektromechanische Dissoziation>`
 bezeichnet
 und kann dauerhaft
 oder
@@ -208,10 +193,22 @@ Wichtige Rhythmusstörungen
 ***********************************************************************
 
 
+
+.. _extrasystolen:
+
 Extrasystolen
 =======================================================================
 
-Eine Extrasystole ist eine vorzeitige Herzaktion.
+.. sidebar:: Extrasystolen
+
+    -   Extraschläge
+    -   Vereinzelt od. gehäuft, evtl. "salvenartig"
+    -   Unterschiedliche Auswirkungen auf Kreislauf:
+        symptomlos bis lebensbedrohlich möglich
+
+Eine Extrasystolen sind vorzeitige Herzaktionen ("Extraschläge").
+Sie können vereinzelt oder gehäuft auftreten,
+eventuell auch "salvenartig".
 Je nach dem Ort der Entstehung unterscheidet man zwischen
 ventrikulären Extrasystolen (VES)
 und supraventrikuläre Extrasystolen (SVES).
@@ -220,6 +217,13 @@ können aber auch Ausdruck einer herzstrukturellen oder anderen Erkrankung sein.
 Insbesonders Erkrankungen und Störungen, welche mit einem erhöhten Sympathikotonus einhergehen (Stress, Hyperthyreose)
 oder das Reizleitungssystem beeinflussen (Elektrolytstörungen)
 können Extrasystolen gehäuft auslösen.
+
+Je nach Häufigkeit haben Extrasystolen unterschiedliche
+Auswirkungen auf den Kreislauf und können symptom- bzw. bedeutungslos
+sein, oder auch Beschwerden verursachen. Wenn die Extrasystolen die
+normale Herzpumpfunktion massiv stören,
+können sie auch lebensbedrohlich sein.
+
 
 
 
@@ -280,6 +284,51 @@ Die SVT ist eigentlich ein Sammelbegriff für Tachykardien mit der Ursache oberh
 Typisch ist im EKG das vorliegen von schmalen QRS-Komplexen (*"supraventrikuläre Schmalkomplextachykardie"*).
 
 
+AV-Knoten-Reentrytachykardie (AVNRT)
+=======================================================================
+
+Die AV-Knoten-Reentrytachykardie (AV-Node Reentry-Tachycardia (AVNRT)) ist eine gutartige paroxysmale supraventrikuläre tachykarde Herzrhythmusstörung.
+Sie ist gekennzeichnet durch ein plötzliches Auftreten von Frequenzen von 150—250 b / min, welches häufig, ebenso plötzlich, selbstlimitierend sein kann.
+Im EKG zeigt sich typischerweise eine regelmäßige Schmalkomplextachykardie, die p-Wellen verstecken sich zumeist im vorangehenden QRS-Komplex und können nicht abgegrenzt werden.
+
+
+Im AV-Knoten finden sich bei diesen Patienten *zwei* nebeneinander liegende Bahnen (engl. Pathway), welche die Erregung in die Kammern weiterleiten (*"doppelter AV-Knoten"*).
+Diese Bahnen unterscheiden sich in der Leitungsgeschwindigkeit:
+Der **fast-pathway** beginnt am anterioren Eingang des AV-Knotens,
+leitet schneller und kann in beide Richtungen,
+d. h. antegrad (vom Vorhof zur Kammer)
+und retrograd (von der Kammer zum Vorhof) leiten.
+Der **slow-pathway** beginnt am posterioren Eingang,
+leitet langsamer und hat eine kürzere Refraktärzeit. [WP:Avnrt:2021]_
+Nun kann es zu folgenden Situationen kommen:
+
+-   Typische* slow/fast AVNRT, 95 %:
+    Durch eine *früh einfallende Extrasystole* im Vorhofbereich  kommt es zu einem Block im fast-pathway.
+    Die Erregung verläuft nun über den slow-pathway zur Herzkammer, trifft dort auf das kammerseitige Ende des fast-pathway, läuft im Kreis zurück zum Vorhof, um wiederum via slow-pathway Richtung Kammer zu laufen. [WP:Avnrt:2021]_
+
+-   *Atypische* fast/slow AVNRT (reverse AVNRT):
+    Hier führt eine Extrasystole der Kammer zum Block des fast-pathway, die Erregung läuft über den slow-pathway zu den Vorhöfen und im Kreis zurück via fast-pathway zur Kammer. [WP:Avnrt:2021]_
+
+
+
+.. index::
+    single: Tachykardie; FBI-
+    single: Tachykardie; unregelmäßige Breitkomplex-
+    single: FBI-Tachykardie
+
+.. _Fbi-Tachykardie:
+
+FBI-Tachykardie:  Fast — Broad — Irregular
+=======================================================================
+
+Die FBI-Tachykardie ist eine unregelmäßige Breitkomplextachykardie
+mit polymorphen Kammerkomplexen.
+Sie kommt zu Stande bei Vorliegen von *Vorhofflimmern* mit einer *akzessorischen Leitungsbahn*.
+Die reguläre AV-Reizleitung wirkt hier hemmend auf die schnelle Überleitung über die akzessorische Bahn.
+Es dürfen daher keine AV-blockierenden Medikamente
+(Betablocker, Verapamil, Adenosin, Digitalis, auch :ref:`Amiodaron <Amiodaron>` ist eher kritisch zu sehen) eingesetzt werden!
+Antiarrhythmikum der Wahl ist :ref:`Ajmalin <Ajmalin>` oder
+die elektrische Kardioversion.
 
 
 .. _PulsloseVentrikulaereTachykardie:
@@ -311,11 +360,12 @@ Kammerflimmern (VF)
 
 :ref:`Reanimationspflichtig, schockbar! <Reanimation-Rhythmen>`
 
-Kammerflimmern (*AF*): Die
-    elektrische Erregung im Herzen ist ungerichtet, dadurch kontrahiert
-    der Herzmuskel nicht mehr geordnet, er kommt nur noch zu einem
-    Zittern *ohne nennenswerte Auswurfleistung*! (Kammerflimmern darf
-    nicht mit Vorhofflimmern verwechselt werden!)
+Kammerflimmern (*AF*):
+Die
+elektrische Erregung im Herzen ist ungerichtet, dadurch kontrahiert
+der Herzmuskel nicht mehr geordnet, er kommt nur noch zu einem
+Zittern *ohne nennenswerte Auswurfleistung*! (Kammerflimmern darf
+nicht mit Vorhofflimmern verwechselt werden!)
 
 Pulslose elektrische Aktivität (*PEA*)
 =======================================================================
@@ -331,19 +381,6 @@ ein Kreislauffstillstand.
 
 
 
-Sick-Sinus-Syndrom (SSS)
-=======================================================================
-
-Syn.: Syndrom des kranken Sinusknotens)
-
-    darunter z. B.: Bradykardie-Tachykardie-Syndrom
-(Pathologische) Sinusbradykardie
-Karotissinus-Syndrom
-Supraventrikuläre Tachykardie
-=======================================================================
-
-Sinuatrialer Block (SA-Block)
-=======================================================================
 
 Atrioventrikuläre Blockierungen (AV-Block)
 =======================================================================
@@ -381,32 +418,6 @@ ist das Kammermyokard die letzte Stufe der Reizbildung.
 Dementsprechend ist ein Kammerersatzrhythmus die "letzte Reserve" nach Ausfall oder Blockierung der übergeordneten Erregungsbildungszentren.
 Er hat eine Frequenz von lediglich 15—40 b / min, dadurch kann es auch in Ruhe bereits zu Symptomen einer Kreislaufschwäche kommen.
 
-
-
-AV-Knoten-Reentrytachykardie (AVNRT)
-=======================================================================
-
-Die AV-Knoten-Reentrytachykardie (AV-Node Reentry-Tachycardia (AVNRT)) ist eine gutartige paroxysmale supraventrikuläre tachykarde Herzrhythmusstörung.
-Sie ist gekennzeichnet durch ein plötzliches Auftreten von Frequenzen von 150—250 b / min, welches häufig, ebenso plötzlich, selbstlimitierend sein kann.
-Im EKG zeigt sich typischerweise eine regelmäßige Schmalkomplextachykardie, die p-Wellen verstecken sich zumeist im vorangehenden QRS-Komplex und können nicht abgegrenzt werden.
-
-
-Im AV-Knoten finden sich bei diesen Patienten *zwei* nebeneinander liegende Bahnen (engl. Pathway), welche die Erregung in die Kammern weiterleiten (*"doppelter AV-Knoten"*).
-Diese Bahnen unterscheiden sich in der Leitungsgeschwindigkeit:
-Der **fast-pathway** beginnt am anterioren Eingang des AV-Knotens,
-leitet schneller und kann in beide Richtungen,
-d. h. antegrad (vom Vorhof zur Kammer)
-und retrograd (von der Kammer zum Vorhof) leiten.
-Der **slow-pathway** beginnt am posterioren Eingang,
-leitet langsamer und hat eine kürzere Refraktärzeit. [WP:Avnrt:2021]_
-Nun kann es zu folgenden Situationen kommen:
-
--   Typische* slow/fast AVNRT, 95 %:
-    Durch eine *früh einfallende Extrasystole* im Vorhofbereich  kommt es zu einem Block im fast-pathway.
-    Die Erregung verläuft nun über den slow-pathway zur Herzkammer, trifft dort auf das kammerseitige Ende des fast-pathway, läuft im Kreis zurück zum Vorhof, um wiederum via slow-pathway Richtung Kammer zu laufen. [WP:Avnrt:2021]_
-
--   *Atypische* fast/slow AVNRT (reverse AVNRT):
-    Hier führt eine Extrasystole der Kammer zum Block des fast-pathway, die Erregung läuft über den slow-pathway zu den Vorhöfen und im Kreis zurück via fast-pathway zur Kammer. [WP:Avnrt:2021]_
 
 
 .. _Asystolie:
@@ -473,50 +484,6 @@ Vgl. hierzu :ref:`Reanimation-Ende-NichtBeginn`.
             Von symptom-/bedeutungslos bis lebensbedrohlich
 
 
-.. index::
-    single: Tachykardie; FBI-
-    single: Tachykardie; unregelmäßige Breitkomplex-
-    single: FBI-Tachykardie
-
-.. _Fbi-Tachykardie:
-
-************************************************************************
-FBI-Tachykardie:  Fast — Broad — Irregular
-************************************************************************
-
-Die FBI-Tachykardie ist eine unregelmäßige Breitkomplextachykardie
-mit polymorphen Kammerkomplexen.
-Sie kommt zu Stande bei Vorliegen von *Vorhofflimmern* mit einer *akzessorischen Leitungsbahn*.
-Die reguläre AV-Reizleitung wirkt hier hemmend auf die schnelle Überleitung über die akzessorische Bahn.
-Es dürfen daher keine AV-blockierenden Medikamente
-(Betablocker, Verapamil, Adenosin, Digitalis, auch :ref:`Amiodaron <Amiodaron>` ist eher kritisch zu sehen) eingesetzt werden!
-Antiarrhythmikum der Wahl ist :ref:`Ajmalin <Ajmalin>` oder
-die elektrische Kardioversion.
-
-
-
-.. _extrasystolen:
-
-Extrasystolen
-=============
-
-.. only:: not nosidebar
-
-    .. sidebar:: Extrasystolen
-
-        -   Extraschläge
-        -   Vereinzelt od. gehäuft, evtl. "salvenartig"
-        -   Unterschiedliche Auswirkungen auf Kreislauf:
-            symptomlos bis lebensbedrohlich möglich
-
-Extrasystolen sind "Extraschläge" des Herzens,
-sie können vereinzelt oder gehäuft auftreten,
-eventuell auch "salvenartig".
-Je nach Häufigkeit haben Extrasystolen unterschiedliche
-Auswirkungen auf den Kreislauf und können symptom- bzw. bedeutungslos
-sein, oder auch Beschwerden verursachen. Wenn die Extrasystolen die
-normale Herzpumpfunktion massiv stören,
-können sie auch lebensbedrohlich sein.
 
 
 
@@ -591,33 +558,33 @@ SAMPLER
 
     .. sidebar:: SAMPLER
 
-        .. rubric:: |Text-Sampler-S-Short|
+        .. rubric:: 🅂
 
         -   Tachykardie ≥ 160 / min
         -   Spürbares Herzklopfen
         -   Evtl. Atemnot, leichter Brustschmerz, Angstgefühl
 
-        .. rubric:: |Text-Sampler-M-Short|
+        .. rubric:: 🄼
 
         Antiarrhythmika. Eingenommene und verschriebene Medikamente
         unbedingt sorgfältig erheben!
 
-        .. rubric:: |Text-Sampler-P-Short|
+        .. rubric:: 🄿
 
         Oft vorbekannte Erkrankung(en); Arztbriefe und Befunde!
 
-        .. rubric:: |Text-Sampler-L-Short|
+        .. rubric:: 🄻
 
         Frühere Episoden?
 
-        .. rubric:: |Text-Sampler-E-Short|
+        .. rubric:: 🄴
 
         Genau erfragen und dokumentieren!
 
 
 
 
-.. rubric:: |Text-Sampler-S|
+.. rubric:: 🅂
 
 Das Leitsymptom ist die *Tachykardie* vor. Der Patient klagt oft
 über ein *"Herzklopfen"* und ist unruhig. Manchmal wird der Anfall
@@ -627,7 +594,7 @@ Oft kommen *Begleitsymptome* dazu, wie zum Beispiel Atemnot oder ein
 leichter Brustschmerz. Dies sind erste Zeichen, dass das Herz an die
 Grenze seiner Belastbarkeit stößt.
 
-.. rubric:: |Text-Sampler-M|
+.. rubric:: 🄼
 
 Viele Patienten, bei denen Rhythmusstörungen bekannt sind nehmen
 entsprechende Medikamente (Antiarrhythmika). Bei manchen
@@ -638,7 +605,7 @@ eingenommenen sowie der verschriebenen Medikamente ist sehr wichtig,
 da diese Informationen des weiteren Behandlungsverlauf stark
 beeinflusst!
 
-.. rubric:: |Text-Sampler-P|
+.. rubric:: 🄿
 
 Eine große Rolle spielt die *Anamnese*: Da oft chronische
 Erkrankungen die Ursache sind, haben die Patienten diese Attacken
@@ -647,12 +614,12 @@ Behandlung). Oft sind die entsprechenden Grunderkrankungen schon
 seit langem bekannt und es gibt bereits entsprechende *Arztbriefe*
 oder *Befunde*.
 
-.. rubric:: |Text-Sampler-L|
+.. rubric:: 🄻
 
 Bei regelmäßig wiederkehrenden Beschwerden sind Informationen über
 die vorherigen Episoden einzuholen.
 
-.. rubric:: |Text-Sampler-E|
+.. rubric:: 🄴
 
 Die Ereignisse sind genau zu erfragen und zu dokumentieren,
 eventuell ergibt sich dadurch eine Spur zum auslösenden Faktor.
@@ -719,46 +686,53 @@ Taktik
     -   Valsalva-Versuch
 
 
-..
-    Pharmakotherapie
-        -   Ursachenabhängig!
+
+Pharmakotherapie
+    -   Ursachenabhängig! Kausale Therapie (Stress, Flüssigkeitsbedarf, ...)
+    -   **Elektrolyte** normalisieren!:
+
         -   **Magnesium**:
             Z. B. *Magnesium gluconicum* 1000—4000 mg in einer Kurzinfusion
         -   **Kalium**: Substitution nur unter Elektrolyt-Kontrolle
-        -   Tachykardes Vorhofflimmern de novo:
-            **Medkamentöse Kardioversion** wenn Dauer < 24 h:
 
-            -   **Amiodaron** (Sedacoron™, Cordarex™) 300 mg
-                in Kurzinfusion (in Glukose 5%)
+    -   Tachykardes Vorhofflimmern de novo wenn **Dauer < 24 h**
 
-        -   Tachykardes Vorhofflimmern, schon länger bestehend:
-            Kein Kardioversionsversuch ohne vorherigen Ausschluss eines Thrombus,
-            auf **Frequenzkontrolle** beschränken.
+        -   **Medikamentöse Kardioversion** wenn kreislaufstabil:
 
-            -   :ref:`Esmolol <Esmolol>`\ -Bolus i. v.,
-                bei ansprechen weiter mit Perfusor
-            -   Digitoxin (Digimerck™) i. v. als Kurzinfusion
-                (beachte vorbestehende Dauertherapie, Spiegelbestimmung!)
-        -   FBI-Tachykardie (Fast, Broad, Irregular)
+            :ref:`Amiodaron <Amiodaron>` (Sedacoron™, Cordarex™) 300 mg
+            in Kurzinfusion (in Glukose 5%)
 
-            CAVE:
-            Aufgrund der akzessorischen Leitungsbahn
-            keine Blockade der AV-Bahn,
-            Fibrillationsgefahr!
+        -   Wenn kreislaufinstabil: **elektrische Kardioversion**
 
-            -   Ajmalin (Gilurytmal™) i. v.
+    -   Tachykardes Vorhofflimmern, schon länger bestehend:
+        Kein Kardioversionsversuch ohne vorherigen Ausschluss eines Thrombus,
+        auf **Frequenzkontrolle** beschränken.
 
-        -   Schmalkomplextachykardie:
-            Versuch der Unterbrechung des Re-Entry-Zyklus durch kurzfristige Blocakde des AV-Knotens
+        -   :ref:`Esmolol <Esmolol>`\ -Bolus i. v.,
+            bei ansprechen weiter mit Perfusor
+        -   Digitoxin (Digimerck™) i. v. als Kurzinfusion
+            (beachte vorbestehende Dauertherapie, Spiegelbestimmung!)
 
-            -   :ref:`Adenosin <Adenosin>` i. v.
+    -   FBI-Tachykardie (Fast, Broad, Irregular)
 
-    .. danger::
+        CAVE:
+        Aufgrund der akzessorischen Leitungsbahn
+        keine Blockade der AV-Bahn,
+        Fibrillationsgefahr!
 
-        Bei FBI-Tachykardie (Fast, Broad, Irregular) keinesfalls Blockade der AV-Leitungsbahn,
-        es droht Kammerflimmern!
+        -   Ajmalin (Gilurytmal™) i. v. 1. Wahl
 
-        -   Kein Amiodaron!
-        -   Kein Adenosin!
+    -   rhythmische Schmalkomplextachykardie: AVNRT?
+        Versuch der Unterbrechung des Re-Entry-Zyklus durch kurzfristige Blockade des AV-Knotens
+
+        -   :ref:`Adenosin <Adenosin>` i. v.
+
+.. danger::
+
+    Bei FBI-Tachykardie (Fast, Broad, Irregular) keinesfalls Blockade der AV-Leitungsbahn,
+    es droht Kammerflimmern!
+
+    -   Kein Amiodaron!
+    -   Kein Adenosin!
 
 

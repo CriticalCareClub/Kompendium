@@ -3369,7 +3369,12 @@ Literaturverzeichnis
 	http://de.wikipedia.org/w/index.php?title=Vincent_van_Gogh&oldid=67700470.
 
 
+.. [WP:Avnrt:2021]
 
+    **AV-Knoten-Reentrytachykardie.**
+    In: Wikipedia – Die freie Enzyklopädie.
+    Bearbeitungsstand: 10. Juli 2021, 09:27 UTC.
+    https://de.wikipedia.org/w/index.php?title=AV-Knoten-Reentrytachykardie&oldid=213727632
 
 
 

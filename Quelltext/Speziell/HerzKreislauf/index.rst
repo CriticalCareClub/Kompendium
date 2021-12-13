@@ -1,69 +1,19 @@
-########################
-Herz-Kreislauf-Störungen
-########################
+################################################
+Sonstige Herz-Kreislauf-Störungen
+################################################
 
 
 
-Herz-Kreislauferkrankungen sind die häufigste Todesursache\ [#229]_.
-Fast jeder zweite Todesfall geht auf eine Erkrankung des
-Herz-Kreislauf-Systems zurück.
-Mit steigendem Lebensalter erhöht sich
-die Wahrscheinlichkeit,
-an einer solchen zu erkranken.
-Eine wichtige Gruppe stellen die erworbenen,
-durch den Lebensstil bedingten Erkrankungen dar.
-Zu den wesentlichen Risikofaktoren zählen Übergewicht,
-mangelnde Bewegung, Rauchen, Bluthochdruck, erhöhte Blutfettspiegel und
-ein erhöhter Blutzuckerspiegel.
-
-Akute Notfälle ereignen sich oft nicht unvorhersehbar, oft leidet der
-Patient vorab an *chronischen Varianten* einer Herz-Kreislauferkrankung
-bzw. einer verwandten Grunderkrankung, welche zu einem Notfallgeschehen
-führen kann.
-
-.. [#229]
-   Statistik Austria, Pressemitteilung 9.691-133/10; Statistisches
-   Bundesamt Deutschland, Pressemitteilung Nr.344 vom 15.09.2009
 
 
-[Harrisons18De]_ [Harrisons18DeKap224]_ [Harrisons18DeKap225]_ [Harrisons18DeKap226]_
-
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Störungen des Herzens
-
-    Herzrhythmusstoerungen/index
-    KoronareHerzkrankheit/index
-    Acs/index
-    Herzinsuffizienz/index
-    Schock/index
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Störungen der Gefäße
-
-    Aneurysmen/index
-    GefaessverschluesseAllgemein/index
-    PeriphererArteriellerGefaessverschluss/index
-    PeriphererVenoeserGefaessverschluss/index
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Störungen des Blutes
-
-    Gerinnungsstoerungen/index
 
 .. todo:: Anämie
 
 .. toctree::
     :maxdepth: 1
-    :caption: Störungen des Kreislaufs
 
     Blutdruckstoerungen/index
-    ArterielleHypertonie/index
     KollapsSynkope/index
-    Schock/index
     Kreislaufstillstand/index
 
 .. _sec-herz-kreislauf-stoerungen:
@@ -74,6 +24,9 @@ führen kann.
 
 
 .. rubric:: Literatur
+
+[Harrisons18De]_ [Harrisons18DeKap224]_ [Harrisons18DeKap225]_ [Harrisons18DeKap226]_
+
 
 [Eisenburger:2008]_  (Transport with ongoing cardiopulmonary resuscitation may not be futile.)
 [Havel:2007]_  (Quality of closed chest compression in ambulance vehicles, flying helicopters and at the scene)

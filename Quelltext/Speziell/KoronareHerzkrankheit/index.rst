@@ -333,8 +333,6 @@ Ein Herzinfarkt stellt somit eine **akute vitale Bedrohung** dar.
 
 
 
-KHK akut: Akutes Koronarsyndrom
-==================================
 
 Die akute Ausformung der koronaren Herzkrankheit
 wird unter dem Symptomenkomplex des
@@ -342,3 +340,8 @@ wird unter dem Symptomenkomplex des
 zusammengefasst,
 zu Symptomen und Therapie siehe ebendort.
 
+.. toctree::
+    :maxdepth: 1
+    :caption: KHK akut: Akutes Koronarsyndrom
+
+    Acs/index

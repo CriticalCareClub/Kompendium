@@ -1,12 +1,26 @@
 
 .. _herzrhythmusstoerungen:
 
-###########################
+
 Herzrhythmusstörungen
 ###########################
 
-Herzrhythmusstörungen sind
-Störungen des regulären Herzrhythmus.
+.. todo:: Herzrhythmusstörungen: EKG-Beispiele
+
+.. todo:: Unauffälliger EKG-Befund
+
+.. todo:: verschiedene Herzrhythmusstörungen:
+
+    -   Vorhofflattern
+    -   Akzelerierter idioventrikulärer Rhythmus
+    -   Kammerflattern
+    -   Schnenkelblöcke
+
+
+Von Herzrhythmusstörungen spricht man,
+wenn es zur Störung der Reizbildung oder Reizleitung im Herzen kommt.
+
+
 
 Herzrhythmusstörungen sind häufig, allerdings auch oft sehr
 unterschiedlich in ihrer Bedeutung: Manche sind chronisch und eher wenig
@@ -17,7 +31,7 @@ Krankheitsbilder
 (z. B. Herzinfarkt, Elektrolytstörungen etc.)
 auftreten.
 
-*******************************
+
 Einteilung
 *******************************
 
@@ -37,11 +51,27 @@ Einteilung
 
 
 
-Grundsätzlich kann man Herzrhythmusstörungen nach dem Ort ihres Auftretens (Vorhof, AV-Leitungsbahn, Kammer),
-ihren Ursachen
-oder nach ihrer klinischen Auswirkung
-(Regelmäßigkeit, Frequenz)
-unterscheiden.
+
+Es gibt viele Kriterien nach denen eine Einteilung erfolgen kann,
+je nach Störung und Krankheitsbild können sich diese auch überschneiden:
+
+-   Frequenz: normfrequent, tachykard (zu schnell), bradycard (zu langsam)
+-   Ursprungsort
+-   Mechanismus
+-   EKG-Kriterien: Regelmäßigkeit (rhythmisch, arrhythmisch),
+    Morphologie des QRS-Komplexes, Frequenz
+-   Gefährlichkeit: hämodynamische Wirksamkeit
+-   Dauer und Verlauf: akut, chronisch, paroxysmal (anfallsartig); selbstlimitierend, dauerhaft
+
+Aus dem oben genannten Punkten (Frequenz, Ort, Zeit) kann nun nahezu beliebig kombiniert werden:
+So gibt es
+hämodynamsich wirksame rhythmische supraventrikuläre Tachykardien,
+aryhthmische ventrikuläre Taychkardien,
+ryhthmische bradykarde Kammerersatzrhythmen usw.
+Für die genaue Zuordnung ist ein EKG essentiell.
+
+
+
 Eine Sonderform nimmt die
 *Entkoppelung der elektrischen und der mechanischen Herzaktion* ein,
 wenn nicht jedem elektrischen Impuls ein Herzschlag folgt.
@@ -56,8 +86,17 @@ oder
 auftreten.
 
 
+Grundsätzlich kann man Herzrhythmusstörungen nach dem Ort ihres Auftretens (Vorhof, AV-Leitungsbahn, Kammer),
+ihren Ursachen
+oder nach ihrer klinischen Auswirkung
+(Regelmäßigkeit, Frequenz)
+unterscheiden.
 
-.. rubric:: … Frequenz: Tachy- und Bradykardie
+
+
+
+… Frequenz: Tachy- und Bradykardie
+========================================================================
 
 .. only:: not nosidebar
 
@@ -78,13 +117,14 @@ werden!
 
 Rhythmusstörungen lassen sich nach unterscheidlichen Kriterien einteilen, nach …
 
-.. rubric:: … Lokalisation
+… Lokalisation
+========================================================================
 
-Rhythmusstörungen können direkt in der Herzkammer (ventrikulär)
-oder oberhalb der Kammer (supraventrikulär) begründet sein.
-Supraventrikulär wird außerdem zwischen dem Vorhof (atrial)
+Rhythmusstörungen können direkt in der Herzkammer (**ventrikulär**)
+oder oberhalb der Kammer (**supraventrikulär**) begründet sein.
+Supraventrikulär wird außerdem zwischen dem Vorhof (*atrial*)
 und der AV-Überleitung
-(AV-Knoten, nodal; bzw. akzessorische Leitungsbahnen) unterschieden.
+(AV-Knoten, *nodal*; bzw. *akzessorische Leitungsbahnen*) unterschieden.
 Eine noch feinere Unterscheidung ist möglich.
 
 .. figure:: /Bilder/WikipediaCcBySa-3.0-unported/De-Atrial_ventricular_(CardioNetworks_ECGpedia).*
@@ -97,19 +137,32 @@ Eine noch feinere Unterscheidung ist möglich.
     :term:`ℓ CC BY-SA 3.0`
 
 
+… EKG
+========================================================================
 
-.. rubric:: … Regelmäßigkeit
+Das EKG erlaubt durch Interpretation des Kurvenverlaufs eine (ungefähre) Lokalisierung des Problems sowie die Ermittelung von Frequenzen von Vorhof und Kammer.
 
-Eine Rhythmusstörung kann zu einem regelmäßigen oder einem unregelmäßigen (arhythmischen) Rhythmus führen.
+Relativ einfach zu beurteilen sind:
 
-.. rubric:: … Elektrik vs. Mechanik
+-   Frequenz
+-   Regelmäßigkeit
+-   Vorhof-Kammer-Überleitung (pQ)
+-   QRS-Komplexe:
 
-Eine Rhythmusstörung kann die elektrische, die mechanische und beide Herzfunktionen im Prinzip unabhängig voneinander betreffen.
-So kann beispielsweise eine atriale tachykarde Rhythmusstörungen nur die mechanische Funktion des Vorhofs betreffen,
-jedoch aufgrund der frequenzfilternden Funktion des AV-Knotens
-unter Umständen die Kammerfrequenz nicht beeinträchtigen.
+    -   schmal/breit (breit ab 120 ms = 3 kleine Kästchen bei 25 mm / s)
+    -   monomorph, polymorph
 
-.. rubric:: … hämodynamischer Wirksamkeit
+
+..
+    .. rubric:: … Elektrik vs. Mechanik
+
+    Eine Rhythmusstörung kann die elektrische, die mechanische und beide Herzfunktionen im Prinzip unabhängig voneinander betreffen.
+    So kann beispielsweise eine atriale tachykarde Rhythmusstörungen nur die mechanische Funktion des Vorhofs betreffen,
+    jedoch aufgrund der frequenzfilternden Funktion des AV-Knotens
+    unter Umständen die Kammerfrequenz nicht beeinträchtigen.
+
+Hämodynamische Wirksamkeit
+========================================================================
 
 Rhythmusstörungen können hämodynamisch wirksam sein,
 d. h. den Herzauswurf merkbar reduzieren
@@ -127,19 +180,9 @@ Folgende Symptome sprechen für eine der hämodynamische Wirksamkeit:
 -   Stenokardien, :ref:`pektanginöse <AnginaPectoris>` Beschwerden
 -   Kreislaufstillstand
 
-.. rubric:: Fazit
-
-Aus dem oben genannten Punkten (Frequenz, Ort, Zeit) kann nun nahezu beliebig kombiniert werden:
-So gibt es
-hämodynamsich wirksame rhythmische supraventrikuläre Tachykardien,
-aryhthmische ventrikuläre Taychkardien,
-ryhthmische bradykarde Kammerersatzrhythmen usw.
-Für die genaue Zuordnung ist ein EKG essentiell.
 
 
 
-
-***********************************************************************
 Diagnostik
 ***********************************************************************
 
@@ -161,11 +204,223 @@ Für spezielle Fragestellungen kann eine elektrophysiologische Untersuchung mitt
 
 
 
+Wichtige Rhythmusstörungen
+***********************************************************************
+
+
+Extrasystolen
+=======================================================================
+
+Eine Extrasystole ist eine vorzeitige Herzaktion.
+Je nach dem Ort der Entstehung unterscheidet man zwischen
+ventrikulären Extrasystolen (VES)
+und supraventrikuläre Extrasystolen (SVES).
+VES und SVES treten häufig bei Gesunden auf,
+können aber auch Ausdruck einer herzstrukturellen oder anderen Erkrankung sein.
+Insbesonders Erkrankungen und Störungen, welche mit einem erhöhten Sympathikotonus einhergehen (Stress, Hyperthyreose)
+oder das Reizleitungssystem beeinflussen (Elektrolytstörungen)
+können Extrasystolen gehäuft auslösen.
+
+
+
+.. _Vorhofflimmern:
+
+Vorhofflimmern
+=======================================================================
 
 
 
 
+.. only:: not nosidebar
 
+    .. sidebar:: Vorhofflimmern
+
+        -   Flimmern im *Vorhof*
+        -   Häufige und oft chronische Erkrankung
+        -   Thrombenbildung, Tachykardieanfälle
+        -   Oft *gerinnngshemmende Medikamente*
+
+Regellose Erregung im *Vorhof*, die oft
+symptomlos ist. (Die Herzkammern arbeiten dabei normal!) Vorhofflimmern
+kann ständig bestehen oder auch nur manchmal (episodenhaft) auftreten.
+Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
+*Komplikationen* sind jedoch:
+
+-   *Tachykardie-Anfälle*
+
+-   *Thrombenbildung* in den Vorhöfen:
+    Dies stellt wiederum ein Risko dar    für:
+
+    -   Arterielle Gefäßverschlüsse
+        (:ref:`ArteriellerGefaessverschluss`)
+
+    -   Schlaganfälle (:ref:`insult`)
+
+    -   Mesenterialinfarkte (:ref:`Mesenterialinfarkt`)
+
+        Daher werden diesen Patienten meist
+        *gerinnungshemmende* ("blutverdünnenden") Medikamente
+        (*Antikoagulatien*)
+        zur Vorbeugung verschrieben
+        (z. B. *Marcoumar*, der Patient ist blutungsgefährdet)
+
+Im **EKG** *fehlt die p-Welle*,
+stattdessen sind durchgehende *Flimmerwellen*, welche durch die unregelmäßigen,
+aber sonst wohlgeformten Kammerkomplexe unterbrochen werden,
+zu sehen (*Arrhythmia absoluta*).
+Je nach Fortleitung der Flimmerwellen aus dem Vorhof in die Kammer
+kann es zu Brady- als auch zu (supraventrikulären Schmalkomplex-)Tachykardien kommen
+(*Bradyarrhythmia*- bzw. *Tachyarrhythmia absoluta*).
+
+
+Supraventrikuläre Tachykardie (SVT)
+=======================================================================
+
+Die SVT ist eigentlich ein Sammelbegriff für Tachykardien mit der Ursache oberhalb der Herzkammern.
+Typisch ist im EKG das vorliegen von schmalen QRS-Komplexen (*"supraventrikuläre Schmalkomplextachykardie"*).
+
+
+
+
+.. _PulsloseVentrikulaereTachykardie:
+
+Ventrikuläre Tachykardie (VT)
+=======================================================================
+
+Syn.: Kammertachykardie
+
+Sonderform: Torsade-de-pointes-Tachykardie
+
+Die Kammertachykardie geht — Surprise! — von den Kammern aus,
+daher ist sie im EKG-Bild klassisch eine **Breitkomplextachykardie** (QRS > 120 ms).
+Die Kammerkomplexe können gleichförmig (*monomorph*) oder unterschiedlich (*polymorph*) sein.
+Bei der *Torsade-de-pointes-Tachykardie* zeigen die Kammerkomplexe einen klassischen *spindelförmigen* Verlauf.
+Die VT kann anhaltend (*sustained*, *sVT*; > 30 s) oder nicht-anhaltend sein (*non-sustained*, *nsVT*; ≤ 30 s).
+Fehlt eine adäquate Auswurfleistung spricht man von der **pulslosen** VT (pVT), welche reanimationspflichtig (und :ref:`schockbar <Reanimation-Rhythmen>`) ist.
+
+    monomorphe VT: der Kammerkomplex erscheint immer gleich
+    polymorphe VT: der Kammerkomplex verändert sich von Herzschlag zu Herzschlag
+
+
+
+
+.. _Kammerflimmern:
+
+Kammerflimmern (VF)
+=======================================================================
+
+:ref:`Reanimationspflichtig, schockbar! <Reanimation-Rhythmen>`
+
+Kammerflimmern (*AF*): Die
+    elektrische Erregung im Herzen ist ungerichtet, dadurch kontrahiert
+    der Herzmuskel nicht mehr geordnet, er kommt nur noch zu einem
+    Zittern *ohne nennenswerte Auswurfleistung*! (Kammerflimmern darf
+    nicht mit Vorhofflimmern verwechselt werden!)
+
+Pulslose elektrische Aktivität (*PEA*)
+=======================================================================
+
+:ref:`Reanimationspflichtig, nicht schockbar! <Reanimation-Rhythmen>`
+
+Bei der
+pulslosen elektrischen Aktivität ist die Herzaktion von der
+elektrischen Aktivität *entkoppelt*, d. h. das Herz reagiert nicht auf
+die Impulse des Reizleitungssystems. Der EKG-Befund kann zwar
+unauffällig sein, aufgrund der fehlenden Herzaktion besteht trotzdem
+ein Kreislauffstillstand.
+
+
+
+Sick-Sinus-Syndrom (SSS)
+=======================================================================
+
+Syn.: Syndrom des kranken Sinusknotens)
+
+    darunter z. B.: Bradykardie-Tachykardie-Syndrom
+(Pathologische) Sinusbradykardie
+Karotissinus-Syndrom
+Supraventrikuläre Tachykardie
+=======================================================================
+
+Sinuatrialer Block (SA-Block)
+=======================================================================
+
+Atrioventrikuläre Blockierungen (AV-Block)
+=======================================================================
+
+Bei AV-Blockaden ist die Erregungsleitung zwischen den Vorhöfen und den Herzkammern am AV-Knoten verzögert oder unterbrochen.
+Abhängig vom Ausmaß der Blockierung kann dies asymptomatisch ablaufen, oder eine hämodynamisch wirksame Bradyarrhythmie bis hin zum Herzstillstand bewirken.
+
+Charakteristisch in der Diagnostik sind Veränderungen des pQ-Verhältnisses. Demnach werden die AV-Blockaden werden in 3 Grade eingeteilt:
+
+-   **1°**: Verlängerung der pQ-Zeit > 200 ms, pQ-Zeit bleibt konstant.
+
+    Verlängerung der Überleitung, zumeist symptom- und konsequenzlos
+
+-   **2°**: Unterteilung in:
+
+    -   Typ **Wenckebach** (engl.: *Mobitz 1*):
+        Die pQ-Zeit verlängert sich mit jeder Herzaktion bis schließlich eine Vorhoferregung nicht mehr übergeleitet wird und eine Kammeraktion ausfällt, dann beginnt dies von vorne (Wenckebachperiodik).
+    -   Typ **Mobitz** (engl: *Mobitz II*):
+        Ausfall einzelner QRS-Komplexe ohne Veränderungen im vorangehenden PR- oder RR-Intervall.
+        Der Übergang in eine totale AV-Blockierung (3°) ist wahrscheinlich.
+
+-   **3°**: Totale AV-Blockierung,
+    d. h. vollständiger Ausfall der Erregungsleitung vom Vorhof zur Kammer:
+    Die p-Wellen des Vorhofs und die QRS-Komplexe der Kammern haben keine Beziehung mehr zueinander.
+
+Leichtere Formen des AV-Blockes können unbemerkt bleiben und bedürfen keiner Behandlung. Schwerere Formen (2°, 3°) führen zu einer Bradykardie und können eine Indikation für die Implantation eines passageren oder auch permanenten Schrittmachers (besonders 2° Typ Mobitz und 3°) darstellen.
+
+
+
+Ventrikulärer Ersatzrhythmus
+=======================================================================
+
+In der Hirarchie des :ref:`Reizleitungssystems <Reizleitungssystem>`
+ist das Kammermyokard die letzte Stufe der Reizbildung.
+Dementsprechend ist ein Kammerersatzrhythmus die "letzte Reserve" nach Ausfall oder Blockierung der übergeordneten Erregungsbildungszentren.
+Er hat eine Frequenz von lediglich 15—40 b / min, dadurch kann es auch in Ruhe bereits zu Symptomen einer Kreislaufschwäche kommen.
+
+
+
+AV-Knoten-Reentrytachykardie (AVNRT)
+=======================================================================
+
+Die AV-Knoten-Reentrytachykardie (AV-Node Reentry-Tachycardia (AVNRT)) ist eine gutartige paroxysmale supraventrikuläre tachykarde Herzrhythmusstörung.
+Sie ist gekennzeichnet durch ein plötzliches Auftreten von Frequenzen von 150—250 b / min, welches häufig, ebenso plötzlich, selbstlimitierend sein kann.
+Im EKG zeigt sich typischerweise eine regelmäßige Schmalkomplextachykardie, die p-Wellen verstecken sich zumeist im vorangehenden QRS-Komplex und können nicht abgegrenzt werden.
+
+
+Im AV-Knoten finden sich bei diesen Patienten *zwei* nebeneinander liegende Bahnen (engl. Pathway), welche die Erregung in die Kammern weiterleiten (*"doppelter AV-Knoten"*).
+Diese Bahnen unterscheiden sich in der Leitungsgeschwindigkeit:
+Der **fast-pathway** beginnt am anterioren Eingang des AV-Knotens,
+leitet schneller und kann in beide Richtungen,
+d. h. antegrad (vom Vorhof zur Kammer)
+und retrograd (von der Kammer zum Vorhof) leiten.
+Der **slow-pathway** beginnt am posterioren Eingang,
+leitet langsamer und hat eine kürzere Refraktärzeit. [WP:Avnrt:2021]_
+Nun kann es zu folgenden Situationen kommen:
+
+-   Typische* slow/fast AVNRT, 95 %:
+    Durch eine *früh einfallende Extrasystole* im Vorhofbereich  kommt es zu einem Block im fast-pathway.
+    Die Erregung verläuft nun über den slow-pathway zur Herzkammer, trifft dort auf das kammerseitige Ende des fast-pathway, läuft im Kreis zurück zum Vorhof, um wiederum via slow-pathway Richtung Kammer zu laufen. [WP:Avnrt:2021]_
+
+-   *Atypische* fast/slow AVNRT (reverse AVNRT):
+    Hier führt eine Extrasystole der Kammer zum Block des fast-pathway, die Erregung läuft über den slow-pathway zu den Vorhöfen und im Kreis zurück via fast-pathway zur Kammer. [WP:Avnrt:2021]_
+
+
+.. _Asystolie:
+
+Asystolie
+=======================================================================
+
+Im Herz entsteht
+keine elektrische Erregung, der Herzmuskel kontrahiert daher auch
+nicht und es erfolgt keine Auswurfleistung.
+
+Grundsätzlich wird dieser Rhythmus als :ref:`reanimationspflichtig <Reanimation-Rhythmen>` bezeichnet,
+allerdings kann eine Asystolie auch ein Zeichen für einen seit längerem bestehenden Kreislaufstillstand und damit einer frustranen Prognose sein.
+Vgl. hierzu :ref:`Reanimation-Ende-NichtBeginn`.
 
 
 
@@ -217,99 +472,6 @@ Für spezielle Fragestellungen kann eine elektrophysiologische Untersuchung mitt
 
             Von symptom-/bedeutungslos bis lebensbedrohlich
 
-******************
-Besondere Rhythmen
-******************
-
-.. _PulsloseVentrikulaereTachykardie:
-.. _Kammerflimmern:
-.. _Asystolie:
-
-Reanimationspflichtige Rhythmusstörungen
-========================================
-
-.. only:: not nosidebar
-
-    .. sidebar:: Reanimationspflichtig
-
-        -   Pulslose Ventrikuläre Tachykardie
-        -   Keine Zeit zum Füllen → kein Auswurf
-        -   Kammerflimmern
-        -   Wirre Erregung, keine sinnvolle Muskelarbeit →
-            kein Auswurf.
-        -   Asystolie
-        -   Keine elektrische Erregung, keine Muskelarbeit, kein Auswurf
-        -   Pulslose elektrische Aktivität
-        -   Entkoppelung von Herzschlag
-            und Impulsen des Reizleitungssystems
-
-Pulslose Ventrikuläre Tachykardie (*pVT*)
-    Vorstufe zum
-    Kammerflimmern. Das Herz kontrahiert so schnell, dass es sich nicht
-    mehr füllen kann → *keine Auswurfleistung*.
-
-Kammerflimmern (*AF*): Die
-    elektrische Erregung im Herzen ist ungerichtet, dadurch kontrahiert
-    der Herzmuskel nicht mehr geordnet, er kommt nur noch zu einem
-    Zittern *ohne nennenswerte Auswurfleistung*! (Kammerflimmern darf
-    nicht mit Vorhofflimmern verwechselt werden!)
-
-Asystolie
-    Im Herz entsteht
-    keine elektrische Erregung, der Herzmuskel kontrahiert daher auch
-    nicht und es erfolgt keine Auswurfleistung
-
-Pulslose elektrische Aktivität (*PEA*)
-    Bei der
-    pulslosen elektrischen Aktivität ist die Herzaktion von der
-    elektrischen Aktivität *entkoppelt*, d. h. das Herz reagiert nicht auf
-    die Impulse des Reizleitungssystems. Der EKG-Befund kann zwar
-    unauffällig sein, aufgrund der fehlenden Herzaktion besteht trotzdem
-    ein Kreislauffstillstand.
-
-
-
-.. todo:: !!! PICTUREWIDE !!! Unauffälliger EKG-Befund WMPD\
-
-
-.. _Vorhofflimmern:
-
-Vorhofflimmern
-==============
-
-.. only:: not nosidebar
-
-    .. sidebar:: Vorhofflimmern
-
-        -   Flimmern im *Vorhof*
-        -   Häufige und oft chronische Erkrankung
-        -   Thrombenbildung, Tachykardieanfälle
-        -   Oft *gerinnngshemmende Medikamente*
-
-Regellose Erregung im *Vorhof*, die oft
-symptomlos ist. (Die Herzkammern arbeiten dabei normal!) Vorhofflimmern
-kann ständig bestehen oder auch nur manchmal (episodenhaft) auftreten.
-Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
-*Komplikationen* sind jedoch:
-
--   *Tachykardie-Anfälle*
-
--   *Thrombenbildung* in den Vorhöfen:
-    Dies stellt wiederum ein Risko dar    für:
-
-    -   Arterielle Gefäßverschlüsse
-        (:ref:`ArteriellerGefaessverschluss`)
-
-    -   Schlaganfälle (:ref:`insult`)
-
-    -   Mesenterialinfarkte (:ref:`Mesenterialinfarkt`)
-
-        Daher werden diesen Patienten meist
-        *gerinnungshemmende* ("blutverdünnenden") Medikamente
-        (*Antikoagulatien*)
-        zur Vorbeugung verschrieben
-        (z. B. *Marcoumar*, der Patient ist blutungsgefährdet)
-
 
 .. index::
     single: Tachykardie; FBI-
@@ -358,9 +520,9 @@ können sie auch lebensbedrohlich sein.
 
 
 
-******************
-Tachykarde Attacke
-******************
+******************************************************
+Symptomatische Tachykardie
+******************************************************
 
 
 Plötzliche Tachykardie ohne erkennbare Ursache, wobei der Patient

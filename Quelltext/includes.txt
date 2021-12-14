@@ -38,8 +38,8 @@
 .. |SpO2| replace:: SpO\ :sub:`2`
 .. |symbol-RedFlag| replace:: ⚑
 .. |TxBeiVit| replace:: Bei vitaler Bedrohung:
-.. |TxMassVitMK| replace:: Standardmaßnahmen bei vital bedrohten Patienten
-.. |TxMassVitMKBes| replace:: Standardmaßnahmen bei vital bedrohten Patienten, Besonderheiten:
+.. |TxMassVitMK| replace:: :ref:`Standardmaßnahmen bei vital bedrohten Patienten <standardmassnahmen-vital>`
+.. |TxMassVitMKBes| replace:: :ref:`Standardmaßnahmen bei vital bedrohten Patienten <standardmassnahmen-vital>`, Besonderheiten:
 .. |z. B.| replace:: z. B.
 .. |ZB| replace:: Z. B.
 .. |zB| replace:: z. B.

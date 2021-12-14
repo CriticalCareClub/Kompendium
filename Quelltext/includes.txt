@@ -61,13 +61,13 @@
 .. |Text-Abcde-Alt| replace:: ``…`` — Weiteres
 .. |Text-Abcde-Fazit| replace:: ``=`` — Beurteilung
 
-.. |Text-Sampler-S| replace:: ``S`` — Symptome und Schmerzen
-.. |Text-Sampler-A| replace:: ``A`` — Allergien
-.. |Text-Sampler-M| replace:: ``M`` — Medikation
-.. |Text-Sampler-P| replace:: ``P`` — Patientengeschichte
-.. |Text-Sampler-L| replace:: ``L`` — Letze …
-.. |Text-Sampler-E| replace:: ``E`` — Ereignisse vor Notfalleintritt
-.. |Text-Sampler-R| replace:: ``R`` — Risikofaktoren
+.. |Text-Sampler-S| replace:: 🅂 — Symptome und Schmerzen
+.. |Text-Sampler-A| replace:: 🄰 — Allergien
+.. |Text-Sampler-M| replace:: 🄼 — Medikation
+.. |Text-Sampler-P| replace:: 🄿 — Patientengeschichte
+.. |Text-Sampler-L| replace:: 🄻 — Letze …
+.. |Text-Sampler-E| replace:: 🄴 — Ereignisse vor Notfalleintritt
+.. |Text-Sampler-R| replace:: 🅁 — Risikofaktoren
 
 .. |Text-Abcde-1-Short| replace:: ① — Szeneüberblick, Schutz
 .. |Text-Abcde-2-Short| replace:: ② — Eindruck, HWS
@@ -81,13 +81,13 @@
 .. |Text-Abcde-Alt-Short| replace:: ``…`` — Weiteres
 .. |Text-Abcde-Fazit-Short| replace:: ``=`` — Beurteilung
 
-.. |Text-Sampler-S-Short| replace:: ``S`` — Symptome
-.. |Text-Sampler-A-Short| replace:: ``A`` — Allergien
-.. |Text-Sampler-M-Short| replace:: ``M`` — Medikation
-.. |Text-Sampler-P-Short| replace:: ``P`` — Patientengeschichte
-.. |Text-Sampler-L-Short| replace:: ``L`` — Letze …
-.. |Text-Sampler-E-Short| replace:: ``E`` — Ereignisse
-.. |Text-Sampler-R-Short| replace:: ``R`` — Risikofaktoren
+.. |Text-Sampler-S-Short| replace:: 🅂 — Symptome
+.. |Text-Sampler-A-Short| replace:: 🄰 — Allergien
+.. |Text-Sampler-M-Short| replace:: 🄼 — Medikation
+.. |Text-Sampler-P-Short| replace:: 🄿 — Patientengeschichte
+.. |Text-Sampler-L-Short| replace:: 🄻 — Letze …
+.. |Text-Sampler-E-Short| replace:: 🄴 — Ereignisse
+.. |Text-Sampler-R-Short| replace:: 🅁 — Risikofaktoren
 
 
 .. |alpha|  unicode:: U+003B1 .. GREEK SMALL LETTER ALPHA

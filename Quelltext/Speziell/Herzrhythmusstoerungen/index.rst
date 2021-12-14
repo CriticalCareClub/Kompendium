@@ -5,19 +5,18 @@
 Herzrhythmusstörungen
 ###########################
 
-.. todo:: Herzrhythmusstörungen: EKG-Beispiele
+.. todo:: Herzrhythmusstörungen:
 
-.. todo:: Unauffälliger EKG-Befund
+        -   EKG-Beispiele inkl. unauffälliger EKG-Befund (sind zum Teil schon im Bilder-Verzeichnis)
+        -   verschiedene Herzrhythmusstörungen:
 
-.. todo:: verschiedene Herzrhythmusstörungen:
-
-    -   Vorhofflattern
-    -   Akzelerierter idioventrikulärer Rhythmus
-    -   Kammerflattern
-    -   Sick-Sinus-Syndrome (SSS)
-    -   (Pathologische) Sinusbradykardie
-    -   Karotissinus-Syndrom
-    -   Sinuatrialer Block (SA-Block)
+            -   Vorhofflattern
+            -   Akzelerierter idioventrikulärer Rhythmus
+            -   Kammerflattern
+            -   Sick-Sinus-Syndrome (SSS)
+            -   (Pathologische) Sinusbradykardie
+            -   Karotissinus-Syndrom
+            -   Sinuatrialer Block (SA-Block)
 
 
 
@@ -40,17 +39,17 @@ Einteilung
 Es gibt viele Kriterien nach denen eine Einteilung erfolgen kann,
 je nach Störung und Krankheitsbild können sich diese auch überschneiden:
 
--   Frequenz: normfrequent, tachykard (zu schnell), bradycard (zu langsam)
--   Ursprungsort
--   Mechanismus
--   EKG-Kriterien: Regelmäßigkeit (rhythmisch, arrhythmisch),
-    Morphologie des QRS-Komplexes, Frequenz
--   Gefährlichkeit: hämodynamische Wirksamkeit
--   Dauer und Verlauf: akut, chronisch, paroxysmal (anfallsartig); selbstlimitierend, dauerhaft
+-   **Frequenz**: normfrequent, tachykard (zu schnell), bradycard (zu langsam)
+-   **Ursprungsort**
+-   **Mechanismus**
+-   **EKG**-Kriterien: Regelmäßigkeit (rhythmisch, arrhythmisch),
+    *Morphologie des QRS-Komplexes*, Frequenz
+-   Gefährlichkeit: **hämodynamische Wirksamkeit**
+-   **Dauer** und **Verlauf**: *akut*, *chronisch*, *paroxysmal* (anfallsartig); *selbstlimitierend*, dauerhaft
 
 Aus dem oben genannten Punkten (Frequenz, Ort, Zeit) kann nun nahezu beliebig kombiniert werden:
 So gibt es
-hämodynamsich wirksame rhythmische supraventrikuläre Tachykardien,
+hämodynamisch wirksame rhythmische supraventrikuläre Tachykardien,
 aryhthmische ventrikuläre Taychkardien,
 ryhthmische bradykarde Kammerersatzrhythmen usw.
 Für die genaue Zuordnung ist ein EKG essentiell.
@@ -61,7 +60,7 @@ Eine Sonderform nimmt die
 *Entkoppelung der elektrischen und der mechanischen Herzaktion* ein,
 wenn nicht jedem elektrischen Impuls ein Herzschlag folgt.
 Dies wird als
-:dfn:`elektromechanische Dissoziation`
+**elektromechanische Dissoziation**
 :index:`\ <Dissoziation; elektromechanische>`
 :index:`\ <elektromechanische Dissoziation>`
 bezeichnet
@@ -80,7 +79,7 @@ unterscheiden.
 
 
 
-… Frequenz: Tachy- und Bradykardie
+… Frequenz: *Tachy-* und *Bradykardie*
 ========================================================================
 
 .. only:: not nosidebar
@@ -90,7 +89,7 @@ unterscheiden.
         -   Bradykardie:  zu langsam
         -   Tachykardie:  zu schnell
 
-Als Normwert für die Herzfrequenz *in Ruhe* beim Erwachsenen gilt der Bereich zwischen 60—100 / min.
+Als Normwert für die Herzfrequenz *in Ruhe* beim Erwachsenen gilt der Bereich zwischen **60—100 / min**.
 Individuell kann es zu physiologischen Abweichungen vom Normbereich kommen,
 so können beispielsweise Leistungssportler aufgrund ihres trainierten Körpers auch sehr niedrige Ruhepulsfrequenzen aufweisen.
 
@@ -100,7 +99,7 @@ Bei der Beurteilung der Herzfrequenz muss auch immer an die Umstände
 (Ruhe, Belastung, …) und an den Erregungszustand des Patienten gedacht
 werden!
 
-Rhythmusstörungen lassen sich nach unterscheidlichen Kriterien einteilen, nach …
+Rhythmusstörungen lassen sich nach unterschiedlichen Kriterien einteilen, nach …
 
 … Lokalisation
 ========================================================================
@@ -129,13 +128,13 @@ Das EKG erlaubt durch Interpretation des Kurvenverlaufs eine (ungefähre) Lokali
 
 Relativ einfach zu beurteilen sind:
 
--   Frequenz
--   Regelmäßigkeit
--   Vorhof-Kammer-Überleitung (pQ)
--   QRS-Komplexe:
+-   **Frequenz**
+-   **Regelmäßigkeit**
+-   **Vorhof-Kammer**-Überleitung (pQ)
+-   **QRS**-Komplexe:
 
-    -   schmal/breit (breit ab 120 ms = 3 kleine Kästchen bei 25 mm / s)
-    -   monomorph, polymorph
+    -   *schmal*/*breit* (breit ab *120 ms = 3 kleine Kästchen* bei 25 mm / s)
+    -   *monomorph*, *polymorph*
 
 
 ..
@@ -168,7 +167,7 @@ Folgende Symptome sprechen für eine der hämodynamische Wirksamkeit:
 
 
 
-Diagnostik
+🔎 Diagnostik
 ***********************************************************************
 
 Essentiell für die Diagnostik von Herzrhythmusstörungen ist die **Elektrokardiographie** (EKG).
@@ -206,21 +205,22 @@ Extrasystolen
     -   Unterschiedliche Auswirkungen auf Kreislauf:
         symptomlos bis lebensbedrohlich möglich
 
-Eine Extrasystolen sind vorzeitige Herzaktionen ("Extraschläge").
+Eine Extrasystolen sind **vorzeitige Herzaktionen** ("Extraschläge").
 Sie können vereinzelt oder gehäuft auftreten,
 eventuell auch "salvenartig".
 Je nach dem Ort der Entstehung unterscheidet man zwischen
-ventrikulären Extrasystolen (VES)
-und supraventrikuläre Extrasystolen (SVES).
-VES und SVES treten häufig bei Gesunden auf,
-können aber auch Ausdruck einer herzstrukturellen oder anderen Erkrankung sein.
-Insbesonders Erkrankungen und Störungen, welche mit einem erhöhten Sympathikotonus einhergehen (Stress, Hyperthyreose)
-oder das Reizleitungssystem beeinflussen (Elektrolytstörungen)
+**ventrikulären** Extrasystolen (*VES*)
+und **supraventrikuläre** Extrasystolen (*SVES*).
+VES und SVES treten häufig bei *Gesunden* auf,
+können aber auch Ausdruck einer *herzstrukturellen* oder anderen Erkrankung sein.
+Insbesonders Erkrankungen und Störungen, welche mit einem erhöhten Sympathikotonus einhergehen (**Stress**, **Hyperthyreose**)
+oder das Reizleitungssystem beeinflussen (**Elektrolytstörungen**)
 können Extrasystolen gehäuft auslösen.
 
 Je nach Häufigkeit haben Extrasystolen unterschiedliche
 Auswirkungen auf den Kreislauf und können symptom- bzw. bedeutungslos
-sein, oder auch Beschwerden verursachen. Wenn die Extrasystolen die
+sein, oder auch Beschwerden verursachen.
+Wenn die Extrasystolen die
 normale Herzpumpfunktion massiv stören,
 können sie auch lebensbedrohlich sein.
 
@@ -244,7 +244,7 @@ Vorhofflimmern
         -   Thrombenbildung, Tachykardieanfälle
         -   Oft *gerinnngshemmende Medikamente*
 
-Regellose Erregung im *Vorhof*, die oft
+**Regellose Erregung im Vorhof**, die oft
 symptomlos ist. (Die Herzkammern arbeiten dabei normal!) Vorhofflimmern
 kann ständig bestehen oder auch nur manchmal (episodenhaft) auftreten.
 Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige
@@ -287,9 +287,9 @@ Typisch ist im EKG das vorliegen von schmalen QRS-Komplexen (*"supraventrikulär
 AV-Knoten-Reentrytachykardie (AVNRT)
 =======================================================================
 
-Die AV-Knoten-Reentrytachykardie (AV-Node Reentry-Tachycardia (AVNRT)) ist eine gutartige paroxysmale supraventrikuläre tachykarde Herzrhythmusstörung.
-Sie ist gekennzeichnet durch ein plötzliches Auftreten von Frequenzen von 150—250 b / min, welches häufig, ebenso plötzlich, selbstlimitierend sein kann.
-Im EKG zeigt sich typischerweise eine regelmäßige Schmalkomplextachykardie, die p-Wellen verstecken sich zumeist im vorangehenden QRS-Komplex und können nicht abgegrenzt werden.
+Die AV-Knoten-Reentrytachykardie (*AV-Node Reentry-Tachycardia* (*AVNRT*)) ist eine gutartige paroxysmale supraventrikuläre tachykarde Herzrhythmusstörung.
+Sie ist gekennzeichnet durch ein plötzliches Auftreten von Frequenzen von **150—250 b / min**, welches häufig, ebenso plötzlich, selbstlimitierend sein kann.
+Im EKG zeigt sich typischerweise eine **regelmäßige Schmalkomplextachykardie**, die p-Wellen verstecken sich zumeist im vorangehenden QRS-Komplex und können nicht abgegrenzt werden.
 
 
 Im AV-Knoten finden sich bei diesen Patienten *zwei* nebeneinander liegende Bahnen (engl. Pathway), welche die Erregung in die Kammern weiterleiten (*"doppelter AV-Knoten"*).
@@ -321,8 +321,8 @@ Nun kann es zu folgenden Situationen kommen:
 FBI-Tachykardie:  Fast — Broad — Irregular
 =======================================================================
 
-Die FBI-Tachykardie ist eine unregelmäßige Breitkomplextachykardie
-mit polymorphen Kammerkomplexen.
+Die FBI-Tachykardie ist eine **unregelmäßige Breitkomplextachykardie**
+mit **polymorphen Kammerkomplexen**.
 Sie kommt zu Stande bei Vorliegen von *Vorhofflimmern* mit einer *akzessorischen Leitungsbahn*.
 Die reguläre AV-Reizleitung wirkt hier hemmend auf die schnelle Überleitung über die akzessorische Bahn.
 Es dürfen daher keine AV-blockierenden Medikamente
@@ -336,19 +336,19 @@ die elektrische Kardioversion.
 Ventrikuläre Tachykardie (VT)
 =======================================================================
 
-Syn.: Kammertachykardie
-
-Sonderform: Torsade-de-pointes-Tachykardie
+Syn.: *Kammertachykardie*,
+Sonderform: *Torsade-de-pointes-Tachykardie*
 
 Die Kammertachykardie geht — Surprise! — von den Kammern aus,
 daher ist sie im EKG-Bild klassisch eine **Breitkomplextachykardie** (QRS > 120 ms).
-Die Kammerkomplexe können gleichförmig (*monomorph*) oder unterschiedlich (*polymorph*) sein.
-Bei der *Torsade-de-pointes-Tachykardie* zeigen die Kammerkomplexe einen klassischen *spindelförmigen* Verlauf.
+Die Kammerkomplexe können gleichförmig (*monomorph*) oder unterschiedlich (*polymorph*) sein [Vt-MonoPolymorphie]_.
+Bei der **Torsade-de-pointes-Tachykardie** zeigen die Kammerkomplexe einen klassischen *spindelförmigen* Verlauf.
 Die VT kann anhaltend (*sustained*, *sVT*; > 30 s) oder nicht-anhaltend sein (*non-sustained*, *nsVT*; ≤ 30 s).
 Fehlt eine adäquate Auswurfleistung spricht man von der **pulslosen** VT (pVT), welche reanimationspflichtig (und :ref:`schockbar <Reanimation-Rhythmen>`) ist.
 
-    monomorphe VT: der Kammerkomplex erscheint immer gleich
-    polymorphe VT: der Kammerkomplex verändert sich von Herzschlag zu Herzschlag
+.. [Vt-MonoPolymorphie]
+    *monomorphe* VT: der Kammerkomplex erscheint immer gleich,
+    *polymorphe* VT: der Kammerkomplex verändert sich von Herzschlag zu Herzschlag
 
 
 
@@ -360,12 +360,14 @@ Kammerflimmern (VF)
 
 :ref:`Reanimationspflichtig, schockbar! <Reanimation-Rhythmen>`
 
-Kammerflimmern (*AF*):
-Die
-elektrische Erregung im Herzen ist ungerichtet, dadurch kontrahiert
-der Herzmuskel nicht mehr geordnet, er kommt nur noch zu einem
+Beim Kammerflimmern (*Ventricular Fibillation*, *VF*):
+ist die elektrische Erregung im Herzen ungerichtet,
+dadurch kontrahiert der Herzmuskel nicht mehr geordnet,
+er kommt nur noch zu einem
 Zittern *ohne nennenswerte Auswurfleistung*! (Kammerflimmern darf
 nicht mit Vorhofflimmern verwechselt werden!)
+
+
 
 Pulslose elektrische Aktivität (*PEA*)
 =======================================================================
@@ -378,6 +380,7 @@ elektrischen Aktivität *entkoppelt*, d. h. das Herz reagiert nicht auf
 die Impulse des Reizleitungssystems. Der EKG-Befund kann zwar
 unauffällig sein, aufgrund der fehlenden Herzaktion besteht trotzdem
 ein Kreislauffstillstand.
+Sie ist das Maximalbild einer *elektromechanischen Dissoziation*.
 
 
 
@@ -385,10 +388,11 @@ ein Kreislauffstillstand.
 Atrioventrikuläre Blockierungen (AV-Block)
 =======================================================================
 
-Bei AV-Blockaden ist die Erregungsleitung zwischen den Vorhöfen und den Herzkammern am AV-Knoten verzögert oder unterbrochen.
+Bei AV-Blockaden ist die *Erregungsleitung zwischen den Vorhöfen und den Herzkammern* am AV-Knoten verzögert oder unterbrochen.
 Abhängig vom Ausmaß der Blockierung kann dies asymptomatisch ablaufen, oder eine hämodynamisch wirksame Bradyarrhythmie bis hin zum Herzstillstand bewirken.
 
-Charakteristisch in der Diagnostik sind Veränderungen des pQ-Verhältnisses. Demnach werden die AV-Blockaden werden in 3 Grade eingeteilt:
+Charakteristisch in der Diagnostik sind Veränderungen des **pQ-Verhältnisses** im EKG.
+Demnach werden die AV-Blockaden werden in 3 Grade eingeteilt:
 
 -   **1°**: Verlängerung der pQ-Zeit > 200 ms, pQ-Zeit bleibt konstant.
 
@@ -415,8 +419,8 @@ Ventrikulärer Ersatzrhythmus
 
 In der Hirarchie des :ref:`Reizleitungssystems <Reizleitungssystem>`
 ist das Kammermyokard die letzte Stufe der Reizbildung.
-Dementsprechend ist ein Kammerersatzrhythmus die "letzte Reserve" nach Ausfall oder Blockierung der übergeordneten Erregungsbildungszentren.
-Er hat eine Frequenz von lediglich 15—40 b / min, dadurch kann es auch in Ruhe bereits zu Symptomen einer Kreislaufschwäche kommen.
+Dementsprechend ist ein Kammerersatzrhythmus die *"letzte Reserve"* nach Ausfall oder Blockierung der übergeordneten Erregungsbildungszentren.
+Er hat eine Frequenz von lediglich **15—40 b / min**, dadurch kann es auch in Ruhe bereits zu Symptomen einer Kreislaufschwäche kommen.
 
 
 
@@ -427,7 +431,7 @@ Asystolie
 
 Im Herz entsteht
 keine elektrische Erregung, der Herzmuskel kontrahiert daher auch
-nicht und es erfolgt keine Auswurfleistung.
+nicht und es erfolgt **keine Auswurfleistung**.
 
 Grundsätzlich wird dieser Rhythmus als :ref:`reanimationspflichtig <Reanimation-Rhythmen>` bezeichnet,
 allerdings kann eine Asystolie auch ein Zeichen für einen seit längerem bestehenden Kreislaufstillstand und damit einer frustranen Prognose sein.
@@ -487,25 +491,14 @@ Vgl. hierzu :ref:`Reanimation-Ende-NichtBeginn`.
 
 
 
+
+Symptome
 ******************************************************
-Symptomatische Tachykardie
-******************************************************
 
+ⒶⒷⒸⒹⒺ
+======================================================
 
-Plötzliche Tachykardie ohne erkennbare Ursache, wobei der Patient
-(meistens) Symptome wahrnimmt und eine Herzfrequenz um
-bzw. über 160 / min vorliegt.
-
-Tachykarde Attacken sind ein häufiges Notfallbild. Oft sind
-chronische Erkrankungen die Ursache, diese können jedoch sehr
-unterschiedlich sein und sind auch vom Fachmann bei weiterführenden
-Untersuchungen oft nicht leicht zu ermitteln.
-
-ABCDE
-=====
-
-.. only:: not nosidebar
-
+.. not nosidebar
     .. sidebar:: Einschätzungsblock
 
         Ⓑ
@@ -525,37 +518,47 @@ ABCDE
             -   Schmal-/Breitkomplex
             -   Regelmäßigkeit
 
+.. rubric:: ④ — Hauptbeschwerde
 
+Die Hauptbeschwerde können Zeichen einer *Kreislaufinsuffizienz* oder -instabilität sein (**Schwindel**, **Synkope**, **Stenokardien**).
+Im Rahmen einer Tachykardie sind **Palpitationen** (spürbares Herzklopfen) oder "Herzstolpern", oft zusammen mit *Unruhe*, häufig anzutreffen.
+Maligne Rhythmusstörungen können auch zum **Bewusstseinsverlust** bzw. zur **Reanimationspflichtigkeit** führen.
 
-.. rubric:: Ⓑ
+Viele Rhythmusstörungen, darunter auch bedrohliche, bleiben **asymptomatisch**!
 
-🚩 Dyspnoe kann in Folge der kardialen
-Mehrbelastung auftreten
+.. rubric:: Ⓑ — Atmung
 
-.. rubric:: Ⓒ
+**🚩 Dyspnoe** kann in Folge einer kardialen
+Mehrbelastung oder aufgrund des Minderauswurfs auftreten.
 
-Es liegt eine *Tachykardie* vor.
-Der Puls ist i.d.R. hoch,
-meist 🚩  über 160 / min und evtl. nur schwach tastbar.
+**Apneo** bei Reanimationspflichtigkeit.
+
+.. rubric:: Ⓒ — Kreislauf und STU
+
+Der Herzrhythmus ist abhängig von der zugrunde liegenden Störung brady- oder tachykard, eventuell unregelmäßig, kann jedoch auch normofrequent sein.
+Die Pulsqualität, -frequenz und -regelmäßigkeit ist abhängig von der kardialen Auswurfleistung.
+Er ist eventuell nur schwach oder peripher gar nicht tastbar.
+Nicht jede Rhythmusstörung hat fühlbare Auswirkungen auf die Pulswelle.
+
 Der Patient kann bei mangelnder Herzauswurfleistung
 🚩 kreislaufinsuffizient werden und einen
-🚩 kardiogenen Schock entwickeln.
-Im Extremfall ist auch ein 🚩 Kreislaufstillstand möglich.
+🚩 **kardiogenen Schock** entwickeln.
+Im Extremfall ist auch ein **🚩 Kreislaufstillstand** möglich.
 
-.. rubric:: Ⓔ
+.. rubric:: Ⓔ — Erweiterte Untersuchung
 
 Es ist unbedingt ein :ref:`EKG <Ekg>` anzufertigen!
 Fragestellung:
 
+-   Tachy-/Bradykardie?
 -   Schmal- oder Breitkomplextachykardie
 -   Regelmäßig oder unregelmäßig
 
 
-SAMPLER
-=======
+🅂🄰🄼🄿🄻🄴🅁
+========================================================================
 
-.. only:: not nosidebar
-
+..
     .. sidebar:: SAMPLER
 
         .. rubric:: 🅂
@@ -584,49 +587,17 @@ SAMPLER
 
 
 
-.. rubric:: 🅂
+.. rubric:: |Text-Sampler-S|
 
-Das Leitsymptom ist die *Tachykardie* vor. Der Patient klagt oft
-über ein *"Herzklopfen"* und ist unruhig. Manchmal wird der Anfall
+Der Patient klagt oft
+über ein *"Herzklopfen"* (Palpitationen) und ist unruhig. Manchmal wird der Anfall
 von Angstgefühlen begleitet.
 
 Oft kommen *Begleitsymptome* dazu, wie zum Beispiel Atemnot oder ein
 leichter Brustschmerz. Dies sind erste Zeichen, dass das Herz an die
 Grenze seiner Belastbarkeit stößt.
 
-.. rubric:: 🄼
-
-Viele Patienten, bei denen Rhythmusstörungen bekannt sind nehmen
-entsprechende Medikamente (Antiarrhythmika). Bei manchen
-Rhythmusstörungen ist es üblich, dem Patienten bestimmte Medikamente
-zu verschreiben, welche er im Anfall nehmen soll um diesen zu
-beenden ("pill in the pocket"). Das Erheben der tatsächlich
-eingenommenen sowie der verschriebenen Medikamente ist sehr wichtig,
-da diese Informationen des weiteren Behandlungsverlauf stark
-beeinflusst!
-
-.. rubric:: 🄿
-
-Eine große Rolle spielt die *Anamnese*: Da oft chronische
-Erkrankungen die Ursache sind, haben die Patienten diese Attacken
-immer wieder und kennen die Symptome bereits (und oft auch deren
-Behandlung). Oft sind die entsprechenden Grunderkrankungen schon
-seit langem bekannt und es gibt bereits entsprechende *Arztbriefe*
-oder *Befunde*.
-
-.. rubric:: 🄻
-
-Bei regelmäßig wiederkehrenden Beschwerden sind Informationen über
-die vorherigen Episoden einzuholen.
-
-.. rubric:: 🄴
-
-Die Ereignisse sind genau zu erfragen und zu dokumentieren,
-eventuell ergibt sich dadurch eine Spur zum auslösenden Faktor.
-
-
-
-Da das *Herz plötzlich viel mehr Arbeit leisten muss*, kann es sein,
+Da das Herz im Rahmen einer Tachykardie plötzlich viel mehr Arbeit leisten muss, bzw. bei einer Bradykadie durch die Frequenzreduktion deutlich an Auswurf (Herzzeitvolumen) einbüsst, kann es sein,
 dass es an seine *Grenzen* stößt und *versagt* bzw. die Blutversorgung
 des Herzens für diese Arbeit nicht mehr reicht und ein
 Angina-pectoris-Anfall oder sogar ein
@@ -648,84 +619,181 @@ akut lebensbedrohlichen Situation kommen. [#242]_
     direkt auf die Kammern übergeleitet, dies kommt meist einem
     Herzstillstand gleich.
 
+
+.. rubric:: |Text-Sampler-M|
+
+Viele Patienten, bei denen Rhythmusstörungen bekannt sind nehmen
+entsprechende Medikamente (Antiarrhythmika). Bei manchen
+Rhythmusstörungen ist es üblich, dem Patienten bestimmte Medikamente
+zu verschreiben, welche er im Anfall nehmen soll um diesen zu
+beenden ("pill in the pocket"). Das Erheben der tatsächlich
+eingenommenen sowie der verschriebenen Medikamente ist sehr wichtig,
+da diese Informationen des weiteren Behandlungsverlauf stark
+beeinflusst!
+
+.. rubric:: |Text-Sampler-P|
+
+Eine große Rolle spielt die *Anamnese*: Da oft chronische
+Erkrankungen die Ursache sind, haben die Patienten diese Attacken
+immer wieder und kennen die Symptome bereits (und oft auch deren
+Behandlung). Oft sind die entsprechenden Grunderkrankungen schon
+seit langem bekannt und es gibt bereits entsprechende *Arztbriefe*
+oder *Befunde*.
+
+Herzschrittmacher sind häufig bei chronischen bradykarden Rhythmusstörungen anzutraffen.
+Bei Risikopatienten werden auch häufig Defibrillatoren (ICD: Implantable Cardiac Device) implantiert.
+
+.. rubric:: |Text-Sampler-L|
+
+Bei regelmäßig wiederkehrenden Beschwerden sind Informationen über
+die vorherigen Episoden einzuholen.
+
+.. rubric:: 🄴
+
+Die Ereignisse sind genau zu erfragen und zu dokumentieren,
+eventuell ergibt sich dadurch eine Spur zum auslösenden Faktor.
+
+
+
+🩹 Maßnahmen
+***********************************************************************
+
+Im Akutmanagement von Rhythmusstörungen stellen sich *drei* grundsätzliche Fragen:
+
+-   Tachykardie, Bradykardie oder normofrequent
+-   Ist die Störung **hämodynamisch wirksam**?
+
+    -   Blutdruckabfall
+    -   Schwindel
+
+-   Ist der Patient **kritisch**?
+
+    Kritische Zeichen sind:
+
+    -   🚩 Schock
+    -   🚩 Bewusstseinsstörungen, 🚩 Synkope
+    -   🚩 Myokardischämie, 🚩 Stenokardien
+    -   Zeichen einer neu aufgetretenen 🚩 Herzinsuffizienz
+
 .. _proc-MR47091C:
 .. _m-tachykarde-attacke:
 
 
-Maßnahmen: Hämodynamisch wirksame Tachykardie
-======================================================
-
-.. todo::
-
-    Maßnahmen Hämodynamisch wirksame Tachykardie:
-
-    -   Anpassung an höherqualifiziertes Personal
-    -   Angleichung an ERC-Leitlinien
-    -   Unterscheidung Schmal-/ Breitkomplextachykardie
-
-Taktik
-    **Vitale Bedrohung!** Ärztliche Therapie sinnvoll.
+Kritische *Tachykardie*
+========================================================================
 
 ⛑ Basismaßnahmen
     -   Lagerung: Lagerung: **Oberkörper hoch**
     -   Striktes Bewegungsverbot!
     -   Beengende Kleidung öffnen
     -   O₂-Gabe gemäß :ref:`M-sauerstoffberieselung`
-    -   |TxBeiVit| |TxMassVitMKBes|
+    -   |TxBeiVit| |TxMassVitMK|
+    -   I.v.-Zugang
+    -   Reversible Ursachen identifizieren und beheben
 
-        -   Notarzt: Eine medikamentöse Therapie ist meistens erforderlich.
+Erweiterte Maßnahmen
+    -   Reversible Ursachen identifizieren und beheben
+        (Elektrolyte! Hypovolämie!)
+    -   Ggfs. Sedierung
+    -   Elektrotherapie: 3 Kardioversionsversuche (synchronisiert!):
 
+        Initial 120—150 J, ggfs. schrittweise Steigerung
+
+        Wenn nicht erfolgreich:
+
+        -   :ref:`Amiodaron <Amiodaron>` 300 mg i.v. (über 10—20 min)
+        -   Wiederholung Kardioversionsversuch
+
+
+
+Hämodynamisch wirksame *Tachykardie*
+========================================================================
+
+⛑ Basismaßnahmen
+    -   |TxMassVitMK|
+
+        -   Lagerung: **Oberkörper hoch**
+        -   O₂-Gabe gemäß :ref:`M-sauerstoffberieselung`
+
+    -   Striktes Bewegungsverbot!
+    -   Beengende Kleidung öffnen
+    -   Reversible Ursachen identifizieren und beheben
     -   Psychische Betreuung!
-        "Oase der Ruhe" schaffen.
-    -   Wenn der Patient versorgt ist (d. h. alle obigen Punkte erfüllt
-        wurden) soll – wenn möglich – ein *EKG* (Extremitätenableitung, )
-        abgeleitet werden.
-        Der Ausdruck dient v. a. der Dokumentation und der Information
-        für das nachbehandelnde Personal
-        (Notarzt, Spital, Facharzt, …).
-    -   Valsalva-Versuch
+        *"Oase der Ruhe"* schaffen.
+    -   *Valsalva*-Versuch
+    -   **EKG!** Unterscheidung:
 
+        -   **Arrhythmische Breitkomplextachykardie**
+        -   **Arrhtyhmische Schmalkomplextachykardie**
+        -   **Rhythmische Breit- oder Schmalkomplextachykardie**
 
+Allgemein
+    -   Kausale Therapie (Stress, Flüssigkeitsbedarf, ...)
 
-Pharmakotherapie
-    -   Ursachenabhängig! Kausale Therapie (Stress, Flüssigkeitsbedarf, ...)
+        Vor allem die rhythmische Schmalkomplextachykardie (Sinustachykadie!) ist häufig eine *"Bedarfstachykardie"*.
     -   **Elektrolyte** normalisieren!:
 
         -   **Magnesium**:
             Z. B. *Magnesium gluconicum* 1000—4000 mg in einer Kurzinfusion
         -   **Kalium**: Substitution nur unter Elektrolyt-Kontrolle
 
-    -   Tachykardes Vorhofflimmern de novo wenn **Dauer < 24 h**
+Arrhythmische Breitkomplextachykardie
+------------------------------------------------------------------------
 
-        -   **Medikamentöse Kardioversion** wenn kreislaufstabil:
+-   Bei Vorliegen eines akzessorischen Bündels: :ref:`FBI-Tachykardie (Fast, Broad, Irregular) <FBI-Tachykardie>`
 
-            :ref:`Amiodaron <Amiodaron>` (Sedacoron™, Cordarex™) 300 mg
-            in Kurzinfusion (in Glukose 5%)
+    CAVE:
+    Aufgrund der akzessorischen Leitungsbahn
+    keine Blockade der (bremsenden) AV-Bahn,
+    Fibrillationsgefahr!
 
-        -   Wenn kreislaufinstabil: **elektrische Kardioversion**
+    -   Ajmalin (Gilurytmal™) i. v. 1. Wahl
 
-    -   Tachykardes Vorhofflimmern, schon länger bestehend:
-        Kein Kardioversionsversuch ohne vorherigen Ausschluss eines Thrombus,
-        auf **Frequenzkontrolle** beschränken.
+-   Wenn Vorhofflimmern mit bekanntem Schenkelblock: Wie arrhythmische Schmalkomplextachykardie behandeln (Cave FBI-Tacykardie!)
+-   Wenn Torsade-de-pointes: **Magnesium**, z. B. *Magnesium gluconicum* 2000—4000 mg in einer Kurzinfusion
 
-        -   :ref:`Esmolol <Esmolol>`\ -Bolus i. v.,
-            bei ansprechen weiter mit Perfusor
-        -   Digitoxin (Digimerck™) i. v. als Kurzinfusion
-            (beachte vorbestehende Dauertherapie, Spiegelbestimmung!)
+Arrhtyhmische Schmalkomplextachykardie
+------------------------------------------------------------------------
 
-    -   FBI-Tachykardie (Fast, Broad, Irregular)
+Vermutlich Vorhofflimmern, unterscheide:
 
-        CAVE:
-        Aufgrund der akzessorischen Leitungsbahn
-        keine Blockade der AV-Bahn,
-        Fibrillationsgefahr!
+-   **Dauer < 24 h**
 
-        -   Ajmalin (Gilurytmal™) i. v. 1. Wahl
+    -   **Medikamentöse Kardioversion**:
 
-    -   rhythmische Schmalkomplextachykardie: AVNRT?
-        Versuch der Unterbrechung des Re-Entry-Zyklus durch kurzfristige Blockade des AV-Knotens
+        :ref:`Amiodaron <Amiodaron>` (Sedacoron™, Cordarex™) 300 mg
+        in Kurzinfusion (in Glukose 5%)
 
-        -   :ref:`Adenosin <Adenosin>` i. v.
+    -   *Elektrische Kardioversion* unter Sedierung erwägen (Cave Nüchternheit!)
+
+-   **Dauer > 24 h** oder Kardioversionsversuch frustran: **Frequenzkontrolle**:
+
+    -   :ref:`Esmolol <Esmolol>`\ -Bolus i. v.,
+        bei ansprechen weiter mit Perfusor
+    -   Digitoxin (Digimerck™) i. v. als Kurzinfusion
+        (beachte vorbestehende Dauertherapie, Spiegelbestimmung bei längerer Therapie!)
+
+    Bei schon länger bestehenddem Vorhofflimmern kein Kardioversionsversuch ohne vorherigen Ausschluss eines Thrombus,
+    auf **Frequenzkontrolle** beschränken.
+
+Rhythmische Breit- oder Schmalkomplextachykardie
+------------------------------------------------------------------------
+
+1.  **Vagale Manöver**:
+    Forciertes Ausatmen
+    bei verschlossenem Mund und Nase bei gleichzeitiger Anspannung der Bauchmuskulatur:
+    In 10 mL-Spritze blasen mit dem Ziel den Stempel zu bewegen
+
+2.  Wenn nicht erfolgreich: **Adenosin** (wenn keine akzessorischen Bündel/Präexzitation): AVNRT?
+    Versuch der Unterbrechung des Re-Entry-Zyklus durch kurzfristige Blockade des AV-Knotens:
+    :ref:`Adenosin <Adenosin>` 6 mg i.v. Bolus *schnell*, wenn nicht erfolgreich 12 mg bzw, 18 mg. Erwarte kurzfristige Asystolie, Cave Bronchospasmus!
+3.  Wenn nicht erfolgreich:
+
+    -   *Breitkomplex*: :ref:`Amiodaron <Amiodaron>` 300 mg über 10—60 min
+    -   *Schmalkomplex*: Expertenrat, Betablocker, Verapamil, Diltiazem
+
+4.  Wenn nicht erfolgreich: *Elektrische Kardioversion* (3 Versuche, synchronisiert!) unter Sedierung
+
 
 .. danger::
 
@@ -736,3 +804,56 @@ Pharmakotherapie
     -   Kein Adenosin!
 
 
+*Tachykardie*, nicht kritisch und nicht hämodynamisch wirksam
+========================================================================
+
+⛑ Basismaßnahmen
+    -   Beengende Kleidung öffnen
+    -   Reversible Ursachen identifizieren und beheben
+    -   Psychische Betreuung!
+        *"Oase der Ruhe"* schaffen.
+    -   *Valsalva*-Versuch
+    -   **EKG!**
+    -   Observanz
+
+
+Hämodynamisch wirksame *Bradykardie*
+========================================================================
+
+⛑ Basismaßnahmen
+    -   Lagerung: Lagerung: **Oberkörper hoch**
+    -   Striktes Bewegungsverbot!
+    -   Beengende Kleidung öffnen
+    -   O₂-Gabe gemäß :ref:`M-sauerstoffberieselung`
+    -   |TxBeiVit| |TxMassVitMK|
+    -   Reversible Ursachen identifizieren und beheben
+    -   EKG!
+    -   Kritisch?
+    -   Risiko Asystolie?
+
+        -   🚩 Vorangegangene Asystolie
+        -   🚩 AV-Block 2° Mobitz oder 🚩 3°
+        -   🚩 Kammerersatzrhythmus
+        -   🚩 Kammerpause > 3 s
+
+Nicht kritisch, keine Asystolie-Risiko
+    -   Observanz
+
+Kritisch, kein AV-Block 3°
+    -   Beginn mit Atropin 0,5 mg i.v. Bolus
+    -   Wenn nicht erfolgreich, weiter bei "Risiko Asystolie"
+
+Risiko Asystolie
+    -   wenn kein AV-Block 3°: Atropin 0,5 mg i.v. Bolus bis max. 3 mg
+    -   Isoprenalin 0,005 mg / min i.v.
+    -   :ref:`Adrenalin <Adrenalin>` 0,002—0,010 mg / min i.v.,
+        ggfs. Bolus-Gabe 0,010 mg i.v. ("Supra-Blitz")
+    -   Schrittmacher: Trabskutan (mit Sedierung!) oder passager
+
+
+
+
+Andere Rhythmusstörung
+========================================================================
+
+Hier könnte man sich endlos vertiefen, daher sei an dieser Stelle auf Expertenrat und die einschlägige Fachliteratur verwiesen.

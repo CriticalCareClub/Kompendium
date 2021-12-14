@@ -220,7 +220,7 @@ Literaturverzeichnis
     [WunnPsych:1]_
 
 
-
+[IBCC]_
 [AntonovskySalutogenese]_
 [Beneker:2004]_
 [Bengel:2]_
@@ -1021,7 +1021,10 @@ Literaturverzeichnis
 
 
 
-
+.. [IBCC]
+    **The Internet Book of Critical Care (IBCC).**
+    Josh Farkas:
+    https://emcrit.org/ibcc/toc/
 
 
 .. [Igv:2010]
@@ -1067,7 +1070,7 @@ Literaturverzeichnis
 .. [Kaindl:7]
 	Kaindl, F. und P. Kühn:
 	**Elektro-Komiko-Graphie.**
-	7. Auflage, 1997.
+	1. Auflage, 1997.
 	Maudrich.
 
 .. [Kalla:2006]

@@ -548,7 +548,7 @@ Lagerung bei Dekubitus und zur Prophylaxe
     Trochanter ohne Druckbelastung ist.
     Der unten liegende Fuß kann durch
     einen schmalen Polster freigelagert werden.
-    [WundversorgungPflege:2]_
+    [Biergans:Wundversorgung:2]_
 -   :dfn:`5-Kissen-Weichlagerung`:
     Der Patient wird komplett
     auf 5 oder mehr Pölstern gelagert. Ziel ist das Freilegen bereits
@@ -624,9 +624,9 @@ werden und eine individuelle Lösung gefunden werden.
 
 .. rubric:: Literatur
 
-[WundversorgungPflege:2]_
+[Biergans:Wundversorgung:2]_
 [ThiemesPflege:12]_
-[AerztlicheWundversorgung:2]_
+[Grey:Wundversorgung:2]_
 [Kuester:1915]_
 
 

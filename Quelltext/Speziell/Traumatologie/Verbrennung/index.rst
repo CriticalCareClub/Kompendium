@@ -335,8 +335,7 @@ Maßnahmen: Verbrennung, schwer
         nur primär abgelöscht werden.
     -   **Abdeckung**:
         Sterile, nicht verklebende
-        Wundauflagen, evtl. metalliserte Wundauflagen
-        [Redelsteiner:1]_\ .
+        Wundauflagen, evtl. metalliserte Wundauflagen.
         Der Nutzen  von kühlenden
         Spezialverbänden, z. B. Waterjel™ ist
         aufgrund  der Unterkühlungs-Gefahr und einer  möglichen

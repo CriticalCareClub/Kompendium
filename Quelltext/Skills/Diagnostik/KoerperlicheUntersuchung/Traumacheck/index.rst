@@ -124,13 +124,3 @@ um nicht unnötig Zeit zu verlieren!
     isokor
 
 
-
-Literatur
-************************************************************************
-
-[Lehmeyer:1]_
-
-[ChecklisteAnamUnt:1]_
-
-[Bates:1]
-

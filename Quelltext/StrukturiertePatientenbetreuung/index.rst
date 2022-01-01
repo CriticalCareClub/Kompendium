@@ -50,7 +50,5 @@ Voraussetzungen für effektives und professionelles Arbeiten.
 [Campbell:2010:De]_
 [PHTLS:6]_
 [Sudowe:1]_
-(Rüecker 2005)
-[Ziesenitz:2009]_
 
 

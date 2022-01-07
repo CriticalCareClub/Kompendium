@@ -3,8 +3,8 @@
 Allgemeine Anatomie
 *******************
 
-Das Atmungssystem ist für *Sauerstoff-Transport und Aufnahme* sowie für
-*Kohlendioxid-Transport und Abgabe* zuständig. Gemeinsam mit den Nieren
+Das Atmungssystem ist für *Sauerstoff-Transport* und -aufnahme sowie für
+*Kohlendioxid-Transport* und -abgabe zuständig. Gemeinsam mit den Nieren
 wird der *Säure-Basen-Haushalt* des Körpers reguliert. Zudem haben
 insbesondere die oberen Atemwege eine *Reinigungs- und Schutzfunktion*,
 dienen der *Laut- und Stimmbildung* und mit ihrem eigenen Sinnesorgan
@@ -20,15 +20,16 @@ Aufgabe unterscheiden zwischen folgenden Anteilen:
 Bei der Atmung kann man ebenfalls zwischen zwei Arten unterscheiden:
 
 
-.. sidebar:: Innere Atmung
+.. sidebar:: Atmung
+
+    Innere Atmung
 
     -   Zellatmung
     -   Produktion von Stoffen als Energiespeicher
     -   Einsatz von Sauerstoff
     -   Kohlendioxid entsteht
 
-
-.. sidebar:: Äußere Atmung
+    Äußere Atmung
 
     -   Be- und Entlüftung (Ventilation)
     -   Gasaustausch
@@ -36,23 +37,24 @@ Bei der Atmung kann man ebenfalls zwischen zwei Arten unterscheiden:
 
 
 
--   innere Atmung / Gewebeatmung: Verbrennungsvorgänge im Stoffwechsel
+-   **Innere Atmung** / ** Gewebeatmung**:
+    Verbrennungsvorgänge im Stoffwechsel
 
     In der Zelle werden unter Einsatz von Sauerstoff (O₂) energiereiche
     Stoffe als Energiespeicher erzeugt, welche für lebenswichtige chemische
     Prozesse innerhalb der Zelle die benötigte Energie zur Verfügung
     stellen.
     Dabei entsteht Kohlendioxid (CO₂).
-    Dieser Vorgang wird auch :dfn:`Zellatmung` genannt.
+    Dieser Vorgang wird auch :index:`Zellatmung` genannt.
 -   äußere Atmung: Gasaustausch zwischen Organismus und Umwelt in den
     Lungen
 
-    Das Ziel der äußeren Atmung (oder *Lungenatmung*, *Syn.* *Respiration*,
+    Das Ziel der **äußeren Atmung** (oder *Lungenatmung*, *Syn.* *Respiration*,
     *engl.* *Breathing*) ist die Zufuhr von Sauerstoff in das Blut
     (*Oxygenierung*) und die Abfuhr von Kohlendioxid aus dem Blut durch
     Abatmung. Dies wird durch einen Mechanismus für den
     **Gasaustausch** zwischen Blut und Atemgasen sowie einer zyklischen
-    Belüftung (:dfn:`Ventilation`) mit frischen Atemgas der am
+    Belüftung (:index:`Ventilation`) mit frischen Atemgas der am
     Gasaustausch beteiligten Atemwege mit anschließender (teilweiser)
     Entlüftung (Ein- und Ausatmung) erreicht. Im weiteren Verlauf ist mit
     "Atmung" die äußere Atmung gemeint.
@@ -67,13 +69,15 @@ Schritte unterteilt werden:
 -   Diffusion: Übertritt von Sauerstoff aus den Kapillaren zu den
     Zielzellen
 
-Der Kohlendioxid-Abtransport läuft in *umgekehrter* Richtung ab.
+Der **Kohlendioxid-Abtransport** läuft in *umgekehrter* Richtung ab.
 
 Die *Atmung* kann man außerdem in zwei Abschnitte unterteilen:
 
--   Einatmung: aktiv durch Kontraktion der Mm. intercostales externi und
+-   **Einatmung**: **Inspiration**. :index:`\ <Inspiration>`
+    *Aktiv* durch Kontraktion der Mm. intercostales externi und
     des Diaphragmas
--   Ausatmung: passiv durch die Oberflächenspannung der Alveolen und den
+-   **Ausatmung**: **Exspiration**. :index:`\ <Exspiration>`
+    *Passiv* durch die Oberflächenspannung der Alveolen und den
     elastischen Eigenschaften des Lungengewebes, aktiv durch Kontraktion
     der Mm. intercostales interni
 

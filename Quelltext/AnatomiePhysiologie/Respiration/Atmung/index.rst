@@ -4,14 +4,11 @@
 Atmung
 ******
 
-Nun sollen einerseits die Atemmechanik und andererseits die
-Lungenvolumnia erklärt werden.
-
-
+.. index::
+    single: Atemmechanik
 
 .. _atemhilfsmuskulatur:
 .. _atemmechanik:
-
 
 Atemmechanik
 ============
@@ -275,7 +272,7 @@ aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
     +================+======================+===================+
     | *21%*          | Sauerstoff (O₂)      | *16%*             |
     +----------------+----------------------+-------------------+
-    | 77,97%         | Stickstoff ()        | 78%               |
+    | 77,97%         | Stickstoff (N)       | 78%               |
     +----------------+----------------------+-------------------+
     | *0,03%*        | Kohlendioxid (CO₂)   | *4%*              |
     +----------------+----------------------+-------------------+

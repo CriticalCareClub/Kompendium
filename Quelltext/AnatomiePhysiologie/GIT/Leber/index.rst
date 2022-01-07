@@ -1,8 +1,6 @@
 
-.. _gallenblase:
 .. _leber:
 .. _Leberzirrhose:
-
 
 *************
 Hepar (Leber)

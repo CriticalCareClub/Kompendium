@@ -4,58 +4,10 @@ Das Nervensystem
 ****************
 
 
-
-Beschreibung: Nervensystem
-==========================
-
-
-Unterteilung
-============
-
-.. only:: not nosidebar
-
-Man kann das Nervensystem nach seinem Aufbau und nach seiner Funktion
-unterteilen. Vom Blickwinkel des wird das Nervensystem grob unterteilt
-in ein
-
--   *Zentrales Nervensystem* (*ZNS*) und ein
--   *Peripheres Nervensystem* (*PNS*).
-
-Betrachtet man die kann man das Nervensystem in ein
-
--   Motorisches
-    (willkürliche\ [#Willkuer]_ Bewegung),
--   Sensorisches
-    ("fühlend", Reizweiterleitung von den Sinnesorganen)
-    und ein
--   Vegetatives
-    (autonomes, bzw. unwillkürliches) Nervensystem
-
-unterteilen.
-
-.. [#Willkuer]
-    *Willkür*: Dem *freien Willen* unterworfen.
-
-
-
-Die Begriffe sind recht unscharf definiert und geben nur eine grobe,
-aber wichtige Übersicht wieder.
-
 Das Zentralnervensystem (ZNS)
 =============================
 
 .. only:: not nosidebar
-
-    .. sidebar:: ZNS
-
-        -   Aufnahme und Verarbeitung von äußeren und inneren Reizen
-        -   Bewusstsein
-        -   Abgabe von Impulsen
-        -   Gedächtnis
-
-
- Zum ZNS gehören das *Gehirn* und das *Rückenmark*.
-
 
 Unterteilung nach Lage und Aufbau
 ---------------------------------
@@ -64,136 +16,13 @@ Unterteilung nach Lage und Aufbau
 
     .. sidebar:: ZNS Aufbau
 
-        -   Gehirn
 
-            -   Großhirn
-            -   Zwischenhirn
-            -   Kleinhirn
-            -   Hirnstamm
-
-        -   Rückenmark
 
 Das Zentralnervensystem (ZNS) besteht aus dem *Gehirn* und dem
 *Rückenmark*. Das Gehirn besteht aus dem *Großhirn*, *dem Zwischenhirn,*
 dem Kleinhirn und dem *Hirnstamm*. Das Großhirn ist in zwei
 Großhirnhälften geteilt , welche über den Balken miteinander verbunden
 sind.
-
-
-Das Gehirn und das verlängerte Rückenmark
------------------------------------------
-
-.. only:: not nosidebar
-
-    .. sidebar:: Gehirn & verlängertes Rückenmark
-
-        -   Großhirn
-
-            -   Bewusstes Denken
-            -   Sitz des Bewusstseins
-            -   Gefühle
-            -   Gedächtnis
-
-        -   Zwischenhirn
-
-            -   Schaltinstanz und Filter Rückenmark - Großhirn
-            -   Regulation der vegetativen Funktionen
-
-        -   Kleinhirn
-
-            -   Bewegungskoordination ("Makros")
-            -   Gleichgewicht
-
-        -   Hirnstamm, verlängertes Rückenmark
-
-            -   Atem-, Kreislaufzentrum
-            -   Hirnnerven
-
-Großhirn
-^^^^^^^^
-
-Das Großhirn ist verantwortlich für Hören, Sehen, Sprache sowie Riechen.
-Außerdem sind dort Zentren für Gefühlsregungen und Gedächtnis.
-Auch bewusste Bewegungen und die Sensorik werden im Großhirn verarbeitet.
-
-Es besteht aus 2 Hälften, sie stehen über den Balken miteinander in
-Verbindung.
-An der Oberfläche sind Furchen und Windungen zu erkennen.
-Das Großhirn ist in Lappen gegliedert.
-
-Zwischenhirn
-^^^^^^^^^^^^
-
-Im Zwischenhirn laufen alle Signale aus dem Körper zusammen, hier
-befinden sich wichtige *Regulationseinheiten* [#Kerne]_.
-Es ist eine *Schaltinstanz* und ein *Filter* zwischen Rückenmark und Großhirn,
-auch die *Regulation der vegetativen Funktionen* findet hier z. T. statt.
-
-
-.. [#Kerne]
-    Der wichtigste Kern, der Thalamus,
-    ist das wichtigste Integrations-,
-    Koordinations- und Modulationszentrum
-    sowohl für Sensorik als auch
-    für Motorik.
-    Über den Hypothalamus,
-    ein weiterer Kern des Zwischenhirns,
-    werden alle vegetativen Funkionen des Körpers
-    geregelt.
-
-Kleinhirn
-^^^^^^^^^
-
-Das Kleinhirn dient der Koordination- und Regulation der Motorik.
-Zusammen mit dem Labyrinth des Innenohres sorgt es für das
-Körpergleichgewicht. Die Bewerkstelligung von komplexen Bewegungen hat
-auch hier ihren Ursprung. Das Kleinhirn hat zwei Hälften, sowie feine
-Windungen und Furchen auf der Oberfläche.
-
-Hirnstamm und verlängertes Rückenmark
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Der Hirnstamm ist das Regulationszentrum aller lebenswichtigen
-Funktionen (Atmung, Blutdruck, Schlaf usw.). Außerdem ist es die
-Ursprungsstelle (bzw. in manchen Fällen die Ankunftstelle) der
-Hirnnerven.
-
-Rückenmark
-----------
-
-.. only:: not nosidebar
-
-    .. sidebar:: Rückenmark
-
-        -   Weiterleitung von Impulsen (Leitungsbahnen)
-        -   Vom Rückenmark gehen die peripheren Nerven aus
-        -   (Muskeleigen-)Reflexe
-        -   31 Segmente, Ende auf Höhe L1-L2
-
-Das Rückenmark bildet die *Verbindung zwischen Gehirn und Peripherie*.
-Funktionell steht es unter der Kontrolle übergeordneter Zentren. Es
-können über einen Eigenapparat eingehende Signale selbstständig
-verarbeitet werden (hierunter versteht man Eigen- und Fremdreflexe).
-
-Diese Eigenschaft hat Einfluss auf das Verhalten wenn übergeordnete
-Hirnzentren ausfallen:
-Nach einiger Zeit (Tage bis Wochen) übernimmt in
-diesem Fall das Rückenmark die Steuerung der Muskelspannung
-(Entwicklung einer *Spastik*);
-eine bewusst gesteuerte Bewegung ist allerdings
-dadurch nicht möglich.
-
-Das Rückenmark lässt sich durch abgehende Spinalnerven in *Segmente*
-(insg. 31) einteilen. Es gibt 8 Halssegmente (es gibt 8 Halssegmente,
-aber nur 7 Halswirbel!), 12 Thorakalsegmente, 5 Lumbalsegmente und 5
-Sakralsegmente.
-Das Rückenmark selbst endet auf Höhe des 1. bzw. 2.
-Lumbalwirbels, da es kürzer als die Wirbelsäule ist; es ziehen jedoch
-die Nervenstränge entsprechend der zugehörigen Wirbelkörper weiter nach
-unten und verlassen erst dort den Wirbelkanal. Diese Konstruktion
-erinnert an eine Quaste bzw. einen Pferdeschweif, daher leitet sich auch
-der Ausdruck *Cauda equina*
-(*lat.* Pferdeschwanz) ab.
 
 
 Exkurs: Der Kopf besteht aus Schichten

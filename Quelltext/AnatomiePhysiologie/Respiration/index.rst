@@ -1031,7 +1031,7 @@ Folgende Werte sind wichtig:
 
 Es gibt drei wichtige Kennzahlen, welche die Atmung
 beschreiben [Klinke:3]_ [SchmidtPhysio:28]_
-[DRAn:3]_ [Striebel:7]_:
+[Striebel:7]_:
 
 #.  Die :dfn:`Atemfrequenz` :index:`\ <! Atemfrequenz>`
     (:dfn:`AF` :index:`\ <! AF>`, Formelzeichen :math:`f`)

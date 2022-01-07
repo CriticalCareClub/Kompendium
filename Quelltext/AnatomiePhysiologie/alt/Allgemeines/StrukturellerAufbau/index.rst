@@ -39,7 +39,7 @@ Die *Zellmembran* umhüllt die Zelle und
 bildet die Grenze der Zelle nach außen.
 Sie ist für bestimmte Stoffe
 (z. B. Sauerstoff, Nährstoffe, Elektrolyte) unter Umständen durchlässig.
-[Alberts:2001]_ [Loeffler:7]
+
 
 .. [#Dns]
    Desoxyribonukleinsäure; *engl.* *DNA*.

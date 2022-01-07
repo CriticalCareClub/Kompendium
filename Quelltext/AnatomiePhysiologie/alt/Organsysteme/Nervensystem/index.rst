@@ -8,33 +8,11 @@ Das Nervensystem
 Beschreibung: Nervensystem
 ==========================
 
-Das Nervensystem wird aus *Nervenzellen* aufgebaut, welche miteinander
-verschalten sind. Die Fortleitung von Informationen innerhalb einer
-Nervenzelle funktioniert über *elektrische Impulse*. Zwischen den Nerven
-bzw. an den Zielorganen erfolgt die Weiterleitung an Verknüpfungsstellen
-(*Synapsen*) meistens mittels chemischer Signale.
-
--   Nervenzellen, miteinander verschaltet
--   Elektrische Impulse
--   Verknüpfungen: Synapsen, meist chemische Signale
 
 Unterteilung
 ============
 
 .. only:: not nosidebar
-
-    .. sidebar:: Unterteilung
-
-        nach Aufbau
-
-        -   zentrales Nervensystem
-        -   peripheres Nervensystem
-
-        nach Funktion
-
-        -   motorisches Nervensystem
-        -   sensorisches Nervensystem
-        -   vegetatives Nervensystem
 
 Man kann das Nervensystem nach seinem Aufbau und nach seiner Funktion
 unterteilen. Vom Blickwinkel des wird das Nervensystem grob unterteilt
@@ -63,8 +41,6 @@ unterteilen.
 Die Begriffe sind recht unscharf definiert und geben nur eine grobe,
 aber wichtige Übersicht wieder.
 
-.. _zns:
-
 Das Zentralnervensystem (ZNS)
 =============================
 
@@ -77,16 +53,8 @@ Das Zentralnervensystem (ZNS)
         -   Abgabe von Impulsen
         -   Gedächtnis
 
-Das *Gehirn* und das *Rückenmark* bilden das :dfn:`Zentralnervensystem` (*ZNS*).
 
-Das ZNS ist im Wesentlichen für *Steuer-, Regel- und Denkfunktionen*
-zuständig, sowie teilweise für die Weiterleitung von Impulsen und
-Informationen: Zu den Aufgaben gehören somit die Aufnahme und
-Verarbeitung von äußeren und inneren Reizen aus der Peripherie (Schmerz,
-Fühlen, Sehen, Hören, …), das *Bewusstsein* und "Bewusstmachung", sowie
-die Abgabe von zweckentsprechenden Impulsen (Steuerung, Reaktion, …) an
-die Peripherie. Ebenso fällt das Gedächtnis in den Verantwortungsbereich
-des ZNS. Zum ZNS gehören das *Gehirn* und das *Rückenmark*.
+ Zum ZNS gehören das *Gehirn* und das *Rückenmark*.
 
 
 Unterteilung nach Lage und Aufbau

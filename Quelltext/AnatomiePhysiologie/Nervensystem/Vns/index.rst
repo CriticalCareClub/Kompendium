@@ -79,13 +79,12 @@ Adrenorezeptoren
 
 Syn.: Adrenerge Rezeptoren; engl.: adrenergic receptor
 
-Adrenoreptoren sind an der Zellwand vieler Zellen sitzende Rezeptoren,
+Adrenorezeptoren sind an der Zellwand vieler Zellen sitzende Rezeptoren,
 welche die zentralen und peripheren Wirkungen der Neurotransmitter
 Noradrenalin und Adrenalin
 des sympathischen Nervensystems auf die jeweiligen Gewebe vermitteln.
-Dieses System stellt somit im Prinzip eine Erweiterung des sympathischen Nervensystems durch die Neurotransmitter und Adrenoreszeptoren dar.
-Man unterscheidet drei Hauptklassen: die α1-, α2- und die β-Adrenozeptoren.
-Jeder dieser Rezeptortypen kann in weitere Subtypen unterteilt werden.
+Dieses System stellt somit im Prinzip eine Erweiterung des sympathischen Nervensystems durch die Neurotransmitter und Adrenorezeptoren dar.
+Man unterscheidet mehrere Haupt- und Untergruppen, klinisch besonders relevant sind die α1-, α2- und die β1- und β2-Adrenorezeptoren.
 
 Die Stimulation der Rezeptoren durch Katecholamine, die aus dem sympathischen Nervensystem freigesetzt werden,
 führt zu je nach Gewebe und Art der expremierten Rezeptoren einer Vielzahl von Wirkungen.
@@ -101,18 +100,18 @@ klassische, aber nicht ausschließlich, für kreislaufwirksame Pharmaka.
         -   Unteruntergruppe
     *   -   α
         -   α1
-        -   α1A
+        -   :deep:`α1A`
 
-            α1B
+            :deep:`α1B`
 
-            α1D
+            :deep:`α1D`
     *   -
         -   α2
-        -   α2A
+        -   :deep:`α2A`
 
-            α2B
+            :deep:`α2B`
 
-            α2C
+            :deep:`α2C`
     *   -   β
         -   β1
 

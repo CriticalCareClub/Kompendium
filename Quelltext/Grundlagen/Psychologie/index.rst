@@ -50,7 +50,7 @@ Beanspruchung/Belastung
 
 Unter dem Begriff :dfn:`Beanspruchung` versteht man in der
 Technik *"die Auswirkung einer äußeren Belastung auf das Innere eines
-Körpers bzw. eines Werkstoffes"*\ [Def:Beanspruchung]_.
+Körpers bzw. eines Werkstoffes"*\ [WP:Beanspruchung:2013]_.
 Mechanische Beanspruchung
 ist also durch die Ausbildung von mechanischen Spannungen
 gekennzeichnet. Analog dazu kann man psychische Beanspruchung als die

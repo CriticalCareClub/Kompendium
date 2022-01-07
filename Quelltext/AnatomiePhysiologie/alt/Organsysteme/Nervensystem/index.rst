@@ -114,13 +114,6 @@ Das Periphere Nervensystem (PNS)
 ================================
 
 
-.. admonition:: Defintion
-
-    Unter dem Begriff :dfn:`Peripheres Nervensystem`
-    :index:`\ <! Peripheres Nervensystem>` fasst man
-    die Verbindungsnerven zwischen dem ZNS und den Endorganen zusammen.
-
-
 .. only:: not nosidebar
 
     .. sidebar:: PNS
@@ -129,19 +122,6 @@ Das Periphere Nervensystem (PNS)
         -   Kommunikation des ZNS mit Endorganen
         -   Informationsfluss in beide Richtungen:
             ZNS ⇄ Endorgane
-
-Das periphere Nervensystem ist für die *Weiterleitung von Informationen*
-und Impulsen *von* und *zu* den Endorganen zuständig und dient somit der
-*Kommunikation* zwischen dem zentralen Nervensystem und den peripheren
-Organen.
-Es werden dabei Informtaionen in *beide Richtungen* übertragen,
-d. h. vom ZNS zu den Organen
-(*"ZNS → Handmuskulatur: Leg’ dich auf die Herdplatte"*)
-und von den Organen zum ZNS
-(*"Hautnerven der Hand → ZNS: Heiß!"*).
-Zum peripheren
-Nervensystem gehören alle peripheren Nerven.
-
 
 
 Unterteilung nach Lage und Aufbau
@@ -166,30 +146,6 @@ jeweiligen Organen. Für die Extremitäten bilden sie jeweils
 Nervengeflechte, sogenannte Plexus (Plexus cervicalis, Plexus
 brachialis, Plexus lumbalis und Plexus sacralis).
 
-
-Unterteilung nach Funktion
---------------------------
-
-.. only:: not nosidebar
-
-    .. sidebar:: PNS / Funktion
-
-        -   Motorisch: Bewegungsinformationen
-        -   Sensorisch: Wahrnehmungen
-        -   Vegetativ: Vitalfunktionen
-
-*Motorische Nerven* sorgen dafür, dass ein
-"Bewegungswunsch" in den entsprechenden Muskeln ankommt. Auf das
-Nervensignal hin kommt es zur Kontraktion des Muskels.
-
-*Sensorische Nerven* liefern dem Gehirn *Sinneseindrücke*. Diese können
-von den diversen Sinnesorganen kommen. So gehören Tastempfindungen,
-Temperaturempfindungen, Gerüche, Geschmacksempfindungen usw. dazu. Aber
-auch weniger offensichtliche Dinge, wie z. B. die Gelenksstellung gehören
-dazu.
-
-*Vegetative Nerven* leiten Informationen des
-vegetativen Nervensystems (:ref:`vegetatives-nervensystem`).
 
 
 .. index::

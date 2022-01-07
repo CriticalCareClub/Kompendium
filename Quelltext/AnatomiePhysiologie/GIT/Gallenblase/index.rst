@@ -1,7 +1,8 @@
 
+.. _Gallenblase:
 
 **************************************
-Vesica fellea / biliaris (Gallenblase)
+Gallenblase (Vesica fellea / biliaris)
 **************************************
 
 Die Gallenblase ist ein *Sammelgefäß* für die Gallenflüssigkeit der

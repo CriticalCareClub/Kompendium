@@ -49,7 +49,9 @@ Stoffe, entgiftet und speichert Fette und Zucker.
 Als **exokrine** Drüse produziert die Leber die *Gallenflüssigkeit*
 (Gallensäure, Bilirubin = Endprodukt des Hämoglobin,
 Ausscheidungsstoffe),
-die über die Gallengänge in die Gallenblase geleitet und dort *gespeichert* wird.
+die über die Gallengänge in die
+:ref:`Gallenblase <Gallenblase>`
+geleitet und dort *gespeichert* wird.
 Die Gallensäure ist wichtig für die Emulgierung von Fetten,
 welche für die Fettresorption im Jejunum wichtig  ist.
 

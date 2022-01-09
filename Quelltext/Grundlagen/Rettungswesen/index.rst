@@ -710,7 +710,7 @@ Der NAH hat aber auch eine Reihe von *Nachteilen*:
 .. [#Nachtflug]
     Eine Landung abseits gesicherter Landeplätze in der Nacht
     ist nur mit
-    spezieller Ausrüstung und Ausbildung möglich [Bischofberger:2007]_.
+    spezieller Ausrüstung und Ausbildung möglich.
 
 Die Vor- und Nachteile müssen abgewogen werden. So kann es bei dem
 gleichen Patienten mit der gleichen Diagnose klug sein mit dem NAH zu

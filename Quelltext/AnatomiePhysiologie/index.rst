@@ -58,11 +58,3 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
     alt/FunktionelleSysteme/index
     alt/Regionen/index
 
-
-
-.. rubric:: Literatur
-
-[Benninghoff:17:Bd1],
-[Leohnhardt:2003],
-[Platzer:2003],
-[Waldeyer:2003]

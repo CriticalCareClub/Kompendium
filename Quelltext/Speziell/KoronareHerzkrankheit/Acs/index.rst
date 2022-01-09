@@ -23,7 +23,7 @@ Akutes Koronarsyndrom (ACS)
 Basierend auf: `2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation <https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393>`_ [Esc-2017-GuidelinesStemi]_
 
 
-[Damman:2017]_ [Ibanez:2017]_ [Ibanez:2018]_
+[Damman:2017]_ [ESC:STEMI:2017]_
 
 
 .. contents::
@@ -416,7 +416,7 @@ bzw. das geeignete Verfahren auswählen.
 Wichtiges Ziel in der MCI-Versorgung ist die Reduktion des
 *System Delay*.
 Daraus ergeben sich folgende logistische Empfehlungen
-[Esc-2017-GuidelinesStemi]_ :
+[ESC:STEMI:2017]_ :
 
 -   Organisation regionaler STEMI Netzwerke
 -   SOPs für Rettungsdienst und PCI-Zentren

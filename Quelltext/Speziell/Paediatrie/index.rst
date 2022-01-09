@@ -462,5 +462,4 @@ Literatur
 **********
 
 [Lissauer:2007]_
-[Sitzmann:2]_
 [ERC:2015:06]_

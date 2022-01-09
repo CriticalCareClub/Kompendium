@@ -245,9 +245,6 @@ Maßnahmen: Tiefe Beinvenenthrombose
 
                 https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/86
 
-[Renz-Polster:2006]_
-[Siewert:8]_
+
 [Scholz:2]_
 [IntroClinEmergMed:4]_
-[Longmore:7]_
-[Fauci:2008]_

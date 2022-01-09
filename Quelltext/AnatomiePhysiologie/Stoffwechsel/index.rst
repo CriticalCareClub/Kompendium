@@ -228,10 +228,6 @@ Stoffwechselsysteme, die ihm zur Verfügung stehen. Man unterscheidet den
     (vgl. :ref:`gerinnungsfaktoren`),
     Zellmembranbausteine u. a. zum Einsatz.
 
-[Alberts:2001]_ [Loeffler:7]_
-
-
-
 
 -----
 

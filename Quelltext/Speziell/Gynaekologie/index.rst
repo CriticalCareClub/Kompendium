@@ -440,7 +440,7 @@ Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
     muss liegend transportiert werden. Es besteht die Gefahr eines
     Nabelschnurvorfalls in den Geburtskanal!
 
-[Buehling:2004]_ [Haag:3]_
+[Haag:3]_
 
 
 

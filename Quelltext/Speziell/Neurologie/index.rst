@@ -641,10 +641,6 @@ dass diese Therapie möglichst schnell erfolgt.
         Bewusstseinszustandes, ist wichtig!
 
 
-.. rubric:: Siehe auch:
-
-[Lang:2012]_
-
 
 ******************************************************
 Vom Gehirn ausgehende Krämpfe: Zerebrale Krampfanfälle

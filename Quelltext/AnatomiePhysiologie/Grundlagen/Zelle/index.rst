@@ -7,13 +7,31 @@
 Zelle
 ************************************************************************
 
+
+.. sidebar:: Zelle
+
+    -   Kleinste lebende Einheit
+    -   Zellkern
+
+        -   Erbinformationen (DNS)
+
+    -   Zellorganellen
+    -   Zellplasma
+    -   Zellmebran
+
+
 Die Lebewesen können grob in Einzeller (Protozoen) und Mehrzeller
 (Metazoen) eingeteilt werden.
 
-Die Zelle ist der *Grundbaustein des menschlichen Körpers*, er besteht
-aus ca. 75×10¹² (= 75 Billionen) Zellen. Eine Zelle ist
-zwischen 5 und 150 µm (z. B. Eizelle des Menschen — sie ist mit bloßem
-Auge sichtbar) groß. Zum Vergleich — die Eizelle eines Straußes misst 7 cm im Durchmesser. Jede Zelle hat je nach ihrer Funktion auch
+Die Zelle ist der *Grundbaustein*
+und die kleinste selbstständig lebende
+Einheit des menschlichen Körpers,
+er besteht aus ca. 75×10¹² (75 Billionen) Zellen.
+Eine Zelle ist zwischen 5 und 150 µm
+ (z. B. Eizelle des Menschen — sie ist mit bloßem
+Auge sichtbar) groß.
+Zum Vergleich — die Eizelle eines Straußes misst 7 cm im Durchmesser.
+Jede Zelle hat je nach ihrer Funktion auch
 unterschiedliche Formen und eine unterschiedliche Lebensdauer.
 
 
@@ -87,7 +105,7 @@ Der Zellkern ist — Erythrozyten (rote Blutkörperchen) und Thrombozyten
 (Leberzellen / Hepatozyten — 2, knochenabbauende Zellen / Osteoklasten -
 5—20, Skelettmuskelzellen / Myozyten — >1000) besitzen sogar mehrere.
 
-Der Zellkern enthält die genetische Erbinformation (DNA =
+Der Zellkern enthält die genetische Erbinformation (DNA:
 Desoxyribonukleidsäure) der Zelle, aufgeteilt in *23 Chromosomenpaare*
 (46 Chromosomen, 23 von der Mutter, 23 vom Vater). Von hier kommen die
 “Bauanleitungen” für die Proteinsynthese in Form von einsträngigen
@@ -374,3 +392,6 @@ heraus zu transportieren gibt es spezifische Transportprozesse.
         (Endozytose, Pinozytose = kleine Partikel über Vesikel vs.
         Phagozytose = große Patrikel über Vesikel) und aus der Zelle
         heraus (Exozytose).
+
+
+.. todo:: Ionenkanäle etc.

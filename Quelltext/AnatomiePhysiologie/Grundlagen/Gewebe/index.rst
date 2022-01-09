@@ -44,11 +44,10 @@ Desmosome*.
     elektrische Signale zur Weiterleitung über Nerven umgewandelt. z. B.
     Zellen der Netzhaut, Sinneszellen der Haut
 
-Binde- und Stützgewebe
-========================================================================
+
 
 Bindegewebe
-------------------------------------------------------------------------
+========================================================================
 
 Besteht aus *Bindegewebszellen und Zwischenzellsubstanz*. Es dient als
 wortwörtlicher “Lückenfüller”, als Binde-Gewebe zwischen anderen
@@ -80,11 +79,49 @@ Es gibt folgende Formen des Bindegewebe:
 -   *Fettgewebe*: Speicherfett vs. Baufett, weißes vs. braunes (reich an
     Mitochondrien) Fettgewebe.
 
+
+
 Stützgewebe
-------------------------------------------------------------------------
+========================================================================
 
 Besteht aus Knorpel- und Knochengewebe, dem Chordagewebe und dem
 Zahngewebe.
+
+.. index::
+    single: Skelett
+
+.. _Skelett:
+
+Das Skelett
+------------------------------------------------------------------------
+
+.. only:: not nosidebar
+
+    .. sidebar:: Skelett
+
+        -   Haltung
+        -   Ursprungs- und Ansatzfläche für Muskulatur
+        -   Kalziumspeicher
+        -   Blutbildung
+
+Als Skelett ist die Gesamtheit der :ref:`Knochen <Knochen>` und :ref:`Knorpeln <Knorpel>` bezeichnet.
+Es besteht aus ca. 200 einzelnen
+*Knochen* sowie *Knorpeln*
+und dient hauptsächlich als Stützgerüst der *Haltung* des
+Körpers (aufrechte Haltung)
+und als *Ursprungs- und Ansatzfläche* für die
+:ref:`Muskulatur <Muskel>`.
+Die Befestigung der Muskulatur an den Knochen mittels
+Sehnen ist Voraussetzung für die aktive Bewegung — aus eigener Kraft
+könnte sich das Skelett nicht bewegen.
+Weiters dient es als
+*Kalziumspeicher* und der *Blutbildung*
+(Bildung von roten und weißen
+Blutkörperchen sowie den Blutplättchen im roten Knochenmark).
+
+Die Aufgaben werden im Detail bei den jeweiligen Gewebearten besprochen.
+
+
 
 
 .. index::
@@ -95,7 +132,7 @@ Zahngewebe.
 .. _Knorpel:
 
 Knorpelgewebe
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------------------------------------
 
 Die Grundsubstanz des Knorpels besteht aus Proteoglykanen und
 Glykoproteinen. Das Knorpelgewebe ist frei von Blutgefäßen, die
@@ -113,11 +150,25 @@ können sich daher nicht bzw. nur schwer regenerieren!
 
 .. index::
     single: Knochen
+    single: Periost
+    single: Beinhaut
+    single: Kompakta
+    single: Knochenrinde
+    single: Spongiosa
+    single: Knochenbälckchen
+    single: Markhöhle
+    single: Epiphysenfuge
+    single: Wachstumsfuge
+    single: Gelenkfläche
+    single: Kopf (Knochen)
+    single: Hals (Knochen)
+    single: Schaft (Knochen)
+
 
 .. _Knochen:
 
 Knochengewebe
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------------------------------------
 
 Das Knochengewebe bildet als Baumaterial der Knochen das Skelett und ist
 somit für die Stabilität des Körpers verantwortlich. Der menschliche
@@ -147,52 +198,97 @@ Bruchfestigkeit der Knochen in diesem Lebensabschnitt erklären.
     centralis) angeordnet. Der Begriff Osteon beschreibt diesen
     Gefäßkanal mit seinen Lamellen.
 
-Man kann einen mehrschichtigen Aufbau erkennen (von außen nach innen):
 
--   *Periost (Beinhaut)*: zuständig für die Durchblutung des Knochens,
-    ist der einzige Teil, der schmerzempfindlich ist. Über das Periost
-    findet das Dickenwachstum der Knochen statt. Das Längenwachstum
-    findet in der Epiphysenfuge (Wachstumsfuge) statt. Das Periost ist
-    auch zuständig für die Frakturheilung.
--   *Corticalis / Compacta (Knochenrinde)*: harte, äußere Schicht, über
-    Löcher (Foramen nutricium) gelangen Blutgefäße in das Innere des
-    Knochens.
--   *Spongiosa (Bälkchenknochen)*: dient der Gewichtsreduktion des
-    Skeletts, über Zug- und Drucktrabekel wird die Belastung auf die
-    Corticalis gleichmäßig verteilt.
--   *Knochenmark*: befindet sich im Zentrum des Knochens Markhöhle, sowie
-    im Bereich der Spongiosa im Raum zwischen den Knochenbälkchen, man
-    kann rotes (blutbildendes) und gelbes (fettreiches) Knochenmark
-    unterscheiden. Im Laufe des Lebens wird das rote Knochenmark immer
-    mehr in gelbes Knochenmark umgewandelt, bis es nur mehr an einigen
-    wenigen Orten (z. B. Beckenschaufeln) vorhanden ist.
 
-Das Knochengewebe kann über *desmale / direkte Ossifikation* (über
-Bindegewebe, z. B. Schädelknochen, Schlüsselbein) oder über *chondrale /
-indirekte Ossifikation* (über Knorpel, z. B. Röhrenknochen) entstehen.
 
--   *Desmale Ossifikation*: Mesenchym ➛ Knochen (Spongiosa) = Compacta
--   *Chondrale Ossifikation*: Mesenchym ➛ Knorpel ➛ Knochen (Spongiosa) =
-    Compacta
+.. index::
+    single: Knochen;platte -
+    single: Knochen;Röhren-
+    single: Knochen;Würfel-
+    single: Knochen;irreguläre -
+
+Knochenformen
+^^^^^^^^^^^^^^^^^^^
 
 Vereinfacht kann man nach ihrem Aussehen unterschiedliche Knochenformen
 unterscheiden:
 
--   *Röhrenknochen* (Ossa longa, z. B. Oberarmknochen)
--   *platte Knochen* (Ossa plana, z. B. Beckenknochen)
--   *kurze Knochen* (Ossa brevia, z. B. Handwurzelknochen)
--   *unregelmäßige Knochen* (Ossa irregularia, z. B. Wirbel)
--   *beflüftete Knochen* (Ossa pneumatica, z. B. Gesichtsknochen mit
-    Nebenhöhlen)
--   *Sesambeine* (Ossa sesamoidea, z. B. Kniescheiben)
+-   **Röhrenknochen** :deep:`(Ossa longa)`:
+    bestehen aus einem
+    langen, röhrenförmigen Schaft mit zwei meist verdickten Enden:
+    z. B. Oberarmknochen, Oberschenkelknochen, Schienbein
+-   **platte Knochen** :deep:`(Ossa plana)`
+    sind flache, kompakte Knochen,
+    z. B. Beckenknochen, Schulterblatt, Brustbein, Schädel
+-   **kurze Knochen** :deep:`(Ossa brevia)`, z. B. Handwurzelknochen)
+-   **unregelmäßige Knochen** :deep:`(Ossa irregularia)`
+    können aufgrund ihrer Form in keine der vorgenannten Gruppen eingeordnet werden,
+    z. B. Unterkieferknochen, Wirbelknochen, Jochbein
+-   **beflüftete Knochen** :deep:`(Ossa pneumatica)`
+    beinhalten Luftkammern,
+    z. B. Gesichtsknochen mit Nebenhöhlen
+-   **Sesambeine** :deep:`(Ossa sesamoidea)`: z. B. Kniescheiben
 
 Das klassische Beispiel eines Knochens ist immer der Röhrenknochen. An
 ihm kann man zwei *Epiphysen* (Knochenenden), zwei *Metaphysen*
 (Knochenhals) und eine *Diaphyse* (Knochenschaft) unterscheiden. Im
-Bereich der Metaphyse befindet sich die Epiphysenfuge (Wachstumsfuge).
+Bereich der Metaphyse befindet sich die **Epiphysenfuge**
+:index:`\ <Epiphysenfuge>`
+:index:`\ <Wachstumsfuge>`
+(Wachstumsfuge).
 Insbesondere im Bau des Röhrenknochens kann man die
 Leichtbau-Konstruktion nachvollziehen. *Apophysen* sind Knochenhöcker
 die sich aus einem eigenen Knochenkern entwickeln.
+
+
+Je nach Funktion findet sich auch häufig eine
+**Gelenkfläche** mit knorpeligen Überzug als Teil eines Gelenkes.
+**Lange Röhrenknochen** kann man außerdem in
+**Kopf**,
+**Hals** und
+**Schaft**
+unterteilen.
+
+
+Aufbau
+^^^^^^^^^^^^^^^
+
+Man kann einen mehrschichtigen Aufbau erkennen (von außen nach innen):
+
+
+.. sidebar:: Knochenaufbau
+
+        -   Allgemein
+
+            -   Periost
+            -   Kompakta
+            -   Spongiosa
+            -   Markhöhle
+            -   Epiphysenfuge
+            -   Gelenkfläche
+
+        -   Langer Röhrenknochen
+
+            -   Kopf
+            -   Hals
+            -   Schaft
+
+
+-   **Periost** (Beinhaut): zuständig für die Durchblutung des Knochens,
+    ist der einzige Teil, der *schmerzempfindlich* ist. Über das Periost
+    findet das Dickenwachstum der Knochen statt. Das Längenwachstum
+    findet in der Epiphysenfuge (Wachstumsfuge) statt. Das Periost ist
+    auch zuständig für die Frakturheilung.
+-   **Compacta** (*Corticalis*, *Knochenrinde*):
+    harte, äußere Schicht,
+    über Löcher (Foramen nutricium) gelangen Blutgefäße in das Innere des Knochens.
+-   **Markhöhle**:
+    Gefüllt mit *Knochenmark*, befindet sich im Zentrum des Knochens sowie
+    im Bereich der Spongiosa ,
+-   **Spongiosa** (Bälkchenknochen): dient der Gewichtsreduktion des
+    Skeletts, über Zug- und Drucktrabekel wird die Belastung auf die
+    Corticalis gleichmäßig verteilt.
+    Im Raum zwischen den Knochenbälkchen ebenfalls mit Knochenmark gefüllt.
 
 
 
@@ -205,10 +301,111 @@ die sich aus einem eigenen Knochenkern entwickeln.
 
 
 .. index::
-    single: Muskel
+   single: Epiphysenfuge
+   single: Wchstumsfuge
+
+Knochenentwicklung: Ossifikation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Das Knochengewebe kann über *desmale / direkte Ossifikation* (über
+Bindegewebe, z. B. Schädelknochen, Schlüsselbein) oder über *chondrale /
+indirekte Ossifikation* (über Knorpel, z. B. Röhrenknochen) entstehen.
+
+
+Das Skelett eines Neugeborenen besteht bei der Geburt zum größten Teil
+aus Knorpel.
+Erst mit zunehmendem Lebensalter beginnt dieser von
+Knochenkernen ausgehend, zu verknöchern.
+Eine *Wachstumszone* (:dfn:`Epiphysenfuge`) bleibt dabei allerdings erhalten.
+
+Die Epiphysenfuge enthält beim Kind/Jugendlichen bis etwa zum Ende der
+Pubertät *teilungsfähiges Knorpelgewebe*,
+daher ist ein *Längenwachstum* möglich.
+Beim Erwachsenen sind diese knorpeligen Fugen hingegen
+vollständig *verknöchert*,
+sodass keinerlei Wachstum mehr stattfinden kann.
+
+
+
+
+.. index::
+    single: Knochenmark
+    single: Fettembolie
+
+.. _Knochemark:
+
+Knochenmark
+^^^^^^^^^^^^^^
+
+Beim **Knochenmark** kann man
+rotes (blutbildendes) und gelbes (fettreiches) Knochenmark
+unterscheiden.
+
+
+.. sidebar:: Knochenmark
+
+    **Rotes**
+
+    -   Bildung der zellulären Blutbestandteile:
+        rote, weiße Blutkörperchen, Blutplättchen
+
+    -   im Erwachsenenalter nur noch in platten Knochen
+
+        -   Das *rote Knochenmark* ist für die Blutbildung zuständig.
+
+    **Gelbes**
+
+    -   fettreich
+    -   Cave Fettembolie bei Knochenfrakturen
+
+
+Das rote Knochenmark ist das wichtigste blutbildende Organ des Körpers.
+Hier werden die
+*zellulären Bestandteile des Blutes gebildet*.
+Dazu gehören die *roten
+Blutkörperchen* (*Erythrozyten*), die *weißen Blutkörperchen*
+(*Leukozyten*) sowie die *Blutplättchen* (*Thrombozyten*) —
+vgl. Abschnitt :ref:`blut`.
+
+Bei Neugeborenen findet man das rote Knochenmark in sämtlichen Knochen
+und Markhöhlen,
+im Laufe des Lebens bildet es sich in den Markhöhlen
+zurück und verwandelt sich in fettreiches, gelbes Knochenmark
+bis es nur mehr an einigen
+wenigen Orten vorhanden ist.
+Rotes Knochenmark findet
+man dann lediglich in platten Knochen wie Becken, Brustbein und Schädel
+sowie in Bereichen mit Spongiosa, wo es für die Blutbildung
+verantwortlich ist und normalerweise zeitlebens erhalten bleibt.
+
+Gelbes Knochenmark vom Rind eignet sich gut als kräftige Suppeneinlage und Brotaufstrich,
+beim Menschen ist es funktionslos,
+kann jedoch, wenn es z. B. bei Knochenbrüchen in den Blutkreislauf gelangt,
+lebensbedrohliche Fettembolien auslösen.
+
+
+
+
+
+.. index::
+   single: Muskel
+   single: Muskulatur
+   single: Skelettmuskulatur
+   single: glatte Muskulatur
+   single: Herzmuskulatur
+   single: Muskulatur, Skelett-
+   single: Muskulatur, Herz-
+   single: Muskulatur, glatte
+
+.. _Muskel:
 
 Muskelgewebe
 ========================================================================
+
+Ein :dfn:`Muskel` ist ein Gewebe, welches die Fähigkeit
+hat, sich aktiv zusammenzuziehen.
+Die Gesamtheit der Muskeln wird als
+:dfn:`Muskulatur` bezeichnet.
 
 Muskelzellen (Länge bis 20 cm) haben die Fähigkeit sich zu kontrahieren
 (zusammenziehen). Sie zeigen einen spezifischen Aufbau und enthalten
@@ -217,19 +414,27 @@ Muskelzellen haben auch eine Funktion im Wärmehaushalt durch das
 *Muskelzittern*. Nach ihrem Aussehen kann man drei Muskelarten
 unterscheiden:
 
--   *quergestreifte Muskel*: bilden den Skelettmuskel und stellen ca.
+
+.. sidebar:: Muskelarten
+
+    -   Quergestreifte Muskulatur
+    -   Glatte Muskulatur
+    -   Herzmuskulatur
+
+
+-   **Quergestreifte (Skelett-)Muskel**: bilden den Skelettmuskel und stellen ca.
     40—50% des Gesamtkörpergewichts. Durch regelmäßige Anordnung der
     Myofibrillen zeigt sich im Mikroskop eine Querstreifung der
     Muskelfasern. Eigenschaften: trainierbar, willkürlich kontrahierbar,
     ermüdbar.
--   *glatte Muskel*: Eingeweidemuskulatur, weisen eine weniger strenge
+-   **Glatte Muskel**: Eingeweidemuskulatur, weisen eine weniger strenge
     Ordnung der Myofibrillen auf. Eigenschaften von glatter Muskulatur
     sind: nicht willkürlich kontrahierbar, nicht trainierbar,
     funktioniert automatisch, unermüdbar. Im Gegensatz zum Skelettmuskel
     und Herzmuskel sind Zellen der glatten Muskulatur teilungsfähig.
     Genauso wie die beiden anderen Gruppen können sie sich auch
     vergrößern (Hypertrophie).
--   *Herzmuskel*: ist von der Struktur her ein quergestreifter Muskel,
+-   **Herzmuskel**: ist von der Struktur her ein quergestreifter Muskel,
     zeigt jedoch auch Eigenschaften von glatter Muskulatur: trainierbar,
     unermüdbar, funktioniert automatisch, nicht willkürlich
     kontrahierbar, eigenes Reizleitungs-System. Der Herzmuskel zeigt
@@ -282,6 +487,9 @@ Es werden zwei verschiedene Muskelarten unterschieden:
     reagiert auf verminderte Beanspruchung durch Atrophie.
 -   *Langsam zuckend*: Zuckungsdauer 100ms, sogenannter „roter Muskel“,
     reagiert auf verminderte Beanspruchung durch Verkürzung.
+
+Bezüglich der mechanischen Funktion siehe :ref:`Muskelmechanik`.
+
 
 Nervengewebe
 ========================================================================

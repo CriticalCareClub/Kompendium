@@ -3,6 +3,8 @@
     single: Bauchspeicheldrüse
     single: Pankreas
 
+.. _Pankreas:
+
 *****************************
 Pancreas (Bauchspeicheldrüse)
 *****************************
@@ -43,12 +45,14 @@ duodeni major* in das *Duodenum*.
     **Fettverdauung** (**Lipasen**),
     für die **Kohlenhydratverdauung** (**Amylasen**)
     und für die **Eiweißverdauung** (**Proteasen**).
-    Diese werden über den Ductus pancreaticus (Pancreasgang)
+    Diese werden über den Ductus pancreaticus (Pankreasgang)
     an das Duodenum abgegeben.
 -   **Endokrin**:
     Produktion von **Insulin** :index:`\ <! Insulin>`
     und **Glukagon** :index:`\ <! Glukagon>` für den
     Zuckerhaushalt sowie *Somatostatin* in den *Langerhans-Inseln*.
+
+    Die endokrine Funktion wird unter :ref:`Pankreas-Endokrin` im Detail ausgeführt.
 
 Durch sein basisches Sekret neutralisiert der
 *Bauchspeichel (ca. 2 L / d)*

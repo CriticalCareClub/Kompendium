@@ -40,36 +40,6 @@ getrennt. In seinem freien Rand verläuft das *Lig. teres hepatis*. Es
 zieht vom Nabel bis zur Leberpforte und ist der obliterierte Rest der V.
 umbilicalis (Nabelvene) des fetalen Kreislaufs.
 
-Die Leber ist vergleichbar mit einer "Chemiefabrik" des Körpers:
-Sie produziert wichtige
-Stoffe, entgiftet und speichert Fette und Zucker.
-
-Als **exokrine** Drüse produziert die Leber die *Gallenflüssigkeit*
-(Gallensäure, Bilirubin = Endprodukt des Hämoglobin,
-Ausscheidungsstoffe),
-die über die Gallengänge in die
-:ref:`Gallenblase <Gallenblase>`
-geleitet und dort *gespeichert* wird.
-Die Gallensäure ist wichtig für die Emulgierung von Fetten,
-welche für die Fettresorption im Jejunum wichtig  ist.
-
-Die Leber
-erfüllt eine wichtige Aufgabe in den verschiedenen Stoffwechselvorgängen
-und ist wichtig für die *Entgiftung* von körperfremden Stoffen.
-Auch zahlreiche Blutbestandteile, z.B. Gerinnungsfaktoren, werden in der
-Leber gebildet.
-
--   Kohlenhydratstoffwechsel
--   Aminosäuren- und Proteinstoffwechsel
--   Fettstoffwechsel
--   Entgiftung
--   Abwehrfunktion
--   Speicherfunktion
--   Regulation des Säuren-Basen-Haushalts
--   pränatale Blutbildung
--   Bildung der Gallensäuren und der Galle
-
-
 
 An der Porta hepatis (Leberpforte) treten die Gefäße der Leber ein bzw.
 aus:
@@ -85,7 +55,7 @@ befinden sich Äste der A. hepatica propria, der V. portae und ein
 Gallengänge. Von dort fließen die Flüssigkeiten über die Lebersinusoide
 in Richtung der Zentralvenen.
 
-.. todo:: Enterohepatischer Kreislauf, Ausscheidung über Galle
+
 
 .. subfigstart::
 
@@ -129,5 +99,137 @@ in Richtung der Zentralvenen.
     :label: Figure-LeberGallenblasePankreas
 
     Bilderserie: Leber, Gallenblase und Pankreas
+
+
+Funktionen und Aufgaben der Leber
+=================================
+
+Die Leber ist das zentrale Stoffwechselorgan und gleichzeitig die größte Drüse des Körpers.
+Die wichtigsten Aufgaben sind die Produktion von Proteinen,
+die Metabolisierung, Verwertung und Entgiftung
+von im Blut zirkulierenden Nahrungsbestandteilen,
+Giftstoffen und Medikamenten,
+die Speicherung von Zucker in Form von Glykogen
+und die Ausscheidung durch Produktion und Aussonderung von Gallenflüssigkeit.
+
+:index:`\ <First-Pass-Effekt>`
+Dementsprechend erhält die Leber
+das venöse Blut mit den resorbierten Stoffen von großen Teilen des gastrointestinalen Systems
+über die **Pfortader**,
+bevor es in den Körperkreislauf gelangt (**"First-Pass-Effekt"**).
+
+Übersichtsmäßig hat die Leber folgende Aufgaben:
+
+-   Kohlenhydratstoffwechsel:
+    Speicherung von Zucker in Form von **Glykogen**
+-   Aminosäuren- und Proteinstoffwechsel
+-   Fettstoffwechsel
+-   Abwehrfunktion
+-   Speicherfunktion
+-   Regulation des Säuren-Basen-Haushalts
+-   pränatale Blutbildung
+-   Bildung der Gallensäuren und der Galle
+-   Abbbau und Entgiftung
+
+
+
+.. index::
+    single: Gallenflüssigkeit
+    single: Reflux; galliger —
+    single: Gallensäure
+    single: Kreislauf; enterohepatischer Gallensalz—
+
+.. _Gallenfluessigkeit:
+
+Gallenflüssigkeit
+-----------------
+
+Als **exokrine Drüse** produziert die Leber die *Gallenflüssigkeit*
+(Gallensäure, Bilirubin (Endprodukt des Hämoglobin),
+Ausscheidungsstoffe),
+die über die Gallengänge in die
+:ref:`Gallenblase <Gallenblase>`
+geleitet und dort *gespeichert* wird.
+
+Ihre Farbe erhält die Galle durch das rote Bilirubin und das grünliche Biliverdin,
+je nach ihrer Zusammensetzung kann sie gelblich-grünlich bis bräunlich aussehen,
+dies kann unter Umständen als *"galliger Reflux"* bei Störungen der Magen-Darm-Passage beobachtet werden.
+Weiters enthält die Galle **Gallensäuren** bzw. Gallensalze, welche für die Fettverdauung und **Fettresorption** wichtig sind: Sie setzen die Oberflächenspannung des Wassers herab und ermöglichen damit eine **Emulgierung** der Fette und damit die Resorption im Jejunum.
+Teile der Gallensalze werden im Darm wieder resorbiert und zur Leber zurücktransferiert, dies wird **enterohepatischer Kreislauf** genannt.
+
+Neben anderen Stoffen enthält die Gallenflüssigkeit auch Ausscheidungsprodukte, welche über den Darm aus dem Körper entfernt werden.
+
+Proteinproduktion
+-----------------
+
+Die Leber bildet eine Vielzahl von Proteinen, es seien hier exemplarisch einige klinisch besonders Relevante speziell erwähnt:
+
+-   **Albumin**
+    (wichtig für die Aufrechterhaltung des :ref:`kolloidosmotischen Drucks <KolloidosmotischerDruck>`)
+-   **Gerinnungsfaktoren**
+-   **Akut-Phase-Proteine** der unspezifischen *Immunreaktion*
+    (Akute-Phase-Reaktion; z. B. C-reaktives Protein (*CRP*))
+
+Bei schwerwiegenden Leberfunktionsstörungen können dementsprechend oft auch Störungen in diesen Systemen beobachtet werden.
+
+
+
+Abbau und Entgiftung
+--------------------
+
+-   Abbau von alten **Erythrozyten** durch Lebermarkophagen (Kupfer'sche Zellen)
+-   Abbau von **Hämoglobin zu Bilirubin** und Ausscheidung über die Gallenflüssigkeit
+-   Abbau von toxischem **Ammoniak** zu **Harnstoff**, welcher über die Nieren ausgeschieden werden kann
+-   Ab- bzw. Umbau von **Steroidhormonen, Giften und Medikamenten**.
+
+    Bei manchen Medikamenten ist der Umbau durch die Leber zur eigentlich wirksamen Form des Wirkstoffes erwünscht und Voraussetzung für die Wirksamkeit (*"Pro-Drug"*)
+
+Wesentlich für die Metabolisierung von Stoffen ist die Familie der **Cytochrome P450** (**CYP**).
+Dies ist eine große Gruppe von Enzymen und hat unter anderem wesentliche Auswirkungen auf Medikamentenhaupt- und Wechselwirkungen.
+
+
+
+Diagnostische Leberenzyme
+=========================
+
+:Syn.:
+    *Leberfunktionsparameter*, *LFP*
+
+Bei Schädigung von Leberzellen können bestimmte Enzyme, die sonst innerhalb der Leberzellen vorkommen, im Blut mit erhöhten Spiegeln nachgewiesen werden.
+Dabei ist jedoch zu beachten, dass diese Enzyme auch in anderen Zellen des Körpers vorkommen, und daher Leber-\ *typisch*, aber *nicht*  Leber-\ *spezifisch* sind.
+
+Die klinisch relevantesten sind:
+
+-   **GOT** (*AST*, *ASAT*\ [#Lfp]_):
+    kommt vorwiegend in Mitochondrien vor.
+
+    Hinweis auf akute Lebererkrankung, Alkoholintoxikation,
+    Entzündung und Leberstauung
+-   **GPT** (ALT, ALAT\ [#Lfp]_):
+-   **Gamma-GT** (γ-GT\ [#Lfp]_):
+    Hinweis auf Intoxikation, Gallenstau
+-   **Alkalische Phosphatase** (AP):
+    Hinweis auf Leberzirrhose, Hepatitis, Gallenstau, Malignom
+
+.. [#Lfp]
+    **GOT**, **AST**, **ASAT**: *Glutamat-Oxalacetat-Transaminase*,  *Aspartat-Aminotransferase*;
+
+    **GPT**, **ALT**, **ALAT**:
+    *Glutamat-Pyruvat-Transaminase*, *Alanin-Aminotransferase*;
+
+    **Gamma-GT**, **γ-GT**: *Gamma-Glutamyl-Transferase*
+
+
+Der *De-Ritis*-Quotient aus GOT und GPT gibt Hinweise auf die zellulären Schädigungen:
+
+.. math:: {\rm De-Ritis-Quotient} = \frac{\rm GOT}{\rm GPT}= \frac{\rm ASAT}{\rm ALAT}
+
+Bewertung:
+
+    -   < 1: geringer Leberschaden
+    -   > 1: schwerwiegender Leberschaden (z. B. Leberzirrhose, Alkoholismus)
+
+
+
 
 

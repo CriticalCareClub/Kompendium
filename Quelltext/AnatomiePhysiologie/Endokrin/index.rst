@@ -228,46 +228,72 @@ beeinflussen mit ihrem *Parathormon* den Kalzium- und Phosphathaushalt.
 Parathormon ist der Antagonist des Calcitonins und stimuliert die
 Osteoklasten zum Knochenabbau und erhöht somit den Blutkalziumspiegel.
 
-Glandula adrenalis / suprarenalis (Nebennieren)
+
+
+Nebennieren (Glandula adrenalis / suprarenalis)
 ===============================================
 
+.. sidebar:: Nebennieren
+
+    -   Mineralokortikoide: Aldosteron
+    -   Glukokortikoide: Kortisol
+    -   Verbindung veg. Nervensystem — Hormonsystem:
+        Adrenalin, Noradrenalin
+    -   Sexualhormone (Androgene, Östrogene)
+
+:Präfix:
+    *adreno-*: Zu denNebennieren gehörend (z. B.: Adrenorezeptoren)
+
 Die Nebennieren sind paarig und liegen auf dem oberen Pol der Nieren.
-Eine Nebenniere wiegt ca. 5 g. Innerhalb der Nebenniere kann man
-zwischen *Nebennierenrinde* und *Nebennierenmark* unterscheiden. Trotz
-ihrer Nähe zur Niere erfüllen die Nebennieren keine ähnliche Funktion!
+Eine Nebenniere wiegt ca. 5 g.
+Innerhalb der Nebenniere kann man zwischen
+*Nebennierenrinde* und *Nebennierenmark* unterscheiden.
+Trotz ihrer Nähe zur Niere haben die Nebennieren keine Verbindung zum Harntrakt und erfüllen gänzlich andere Funktionen.
 
--   *Nebennierenrinde* (von außen nach innen): 80%, produziert
-    Steroidhormone
+Die Nebenniere ist gegliedert in:
 
-    -   Zona glomerulosa: Mineralokortikoide (Aldosteron) ➛ beeinflusst
+-   **Nebennierenrinde**:
+    80%, produziert *Steroidhormone*.
+    Von außen nach innen:
+
+    -   Zona *glomerulosa*: **Mineralokortikoide** (*Aldosteron*) ➛ beeinflusst
         den Wasserhaushalt durch Kalium-Ausscheidung und
         Natrium-Rückgewinnung in den Nieren.
-    -   Zona fasciculata: Glukokortikoide (Kortisol) ➛ reguliert
+    -   Zona *fasciculata*: **Glukokortikoide** (*Kortisol*) ➛ reguliert
         Kohlenhydrat-, Fett- und Eiweißstoffwechsel; Sie erhöhen den
         Blutzuckerspiegel, senken die Lymphozytenzahl im Blut und hemmen
         die Phagozytose. Sie wirken daher entzündungshemmend und
         abwehrhemmend. Ihre Ausschüttung erfolgt über einen zirkadianen
         Rhythmus.
-    -   Zona reticularis: Androgene und Östrogene
+    -   Zona *reticularis*: Androgene und Östrogene
 
--   *Nebennierenmark*: 20%, Verbindungsstelle von vegetativem
-    Nervensystem und Hormonsystem ➛ produziert Adrenalin (80%) und
-    Noradrenalin (20%)
+-   **Nebennierenmark**: 20%,
+    **Verbindungsstelle** von
+    **vegetativem Nervensystem** und **Hormonsystem**:
+    Produktion von **Adrenalin** (80%) und
+    **Noradrenalin** (20%), vgl. :ref:`Adrenorezeptoren`.
 
-.. _pancreas-bauchspeicheldrüse-1:
 
-Pancreas (Bauchspeicheldrüse)
-=============================
+
+.. _Pankreas-Endokrin:
+
+Pankreas (Bauchspeicheldrüse): Endokrine Funktion
+=================================================
+
+Zur allgemeinen Anatomie und exokrinen Funktion des Pankreas siehe :ref:`Pankreas`.
 
 Die Bauchspeicheldrüse bildet eine Kreuzungsstelle zwischen endokrinem
 und exokrinem System. Exokrin ist sie zuständig für die Bildung von
-Enzymen zur Fett- und Proteinverdauung, endokrin - in den
-*Langerhans-Inseln* (ca. 1-2 Mio. Stk.) - bildet sie:
+Enzymen zur Fett- und Proteinverdauung, endokrin — in den
+*Langerhans-Inseln* (ca. 1-2 Mio. Stk.) — bildet sie:
 
--   in den B-Zellen (60 %): Insulin, bewirkt die Aufnahme von Blutzucker
-    in die Zellen
--   in den A-Zellen (25 %): Glukagon, Antagonist von Insulin, bewirkt die
-    Ausschüttung von Zucker aus den Zellen ins Blut
+-   in den B-Zellen (60 %):
+    **Insulin**,
+    bewirkt die Aufnahme von Blutzucker in die Zellen
+-   in den A-Zellen (25 %):
+    **Glukagon**, Antagonist von Insulin,
+    bewirkt die Ausschüttung von Zucker aus den Zellen ins Blut
+    und aktiviert die Glukoneogenese in der Leber, wobei Glykogen in Glukose umgewandelt wird.
 -   in den D-Zellen (15 %): Somatostatin, beeinflusst die Ausnutzung von
     aus dem Darm aufgenommenen Nährstoffen
 

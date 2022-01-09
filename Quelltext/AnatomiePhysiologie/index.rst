@@ -30,7 +30,7 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
     :maxdepth: 3
     :caption: Neu
 
-    Terminologie/index
+    Grundlagen/index
     Bewegungsapparat/index
     HerzKreislauf/index
     Blut/index
@@ -53,8 +53,6 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
     :maxdepth: 1
     :caption: Inhalt (alt)
 
-    alt/Allgemeines/index
     alt/Organsysteme/index
-    alt/FunktionelleSysteme/index
     alt/Regionen/index
 

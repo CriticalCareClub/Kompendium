@@ -30,7 +30,7 @@ Bulbus oculi (Augapfel)
 
         -   :dfn:`Sklera` (*Lederhaut*): Die Lederhaut ist eine derbe
             Bindegewebsschicht. Sie ist zusammen mit dem Glaskörper
-        verantwortlich für die Formgebung des Auges.
+            verantwortlich für die Formgebung des Auges.
         -   Aderhaut (Choroidea):
             Hier verlaufen alle Blutgefäße des Auges.
         -   :dfn:`Retina` (*Netzhaut*)

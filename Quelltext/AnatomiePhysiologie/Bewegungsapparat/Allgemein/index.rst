@@ -72,7 +72,7 @@ Bei Synarthrosen können unterschieden werden:
     (Speiche), Fontanellen, Suturen (Schädelnähte), Gomphosis
     („Einzapfung“ der Zähne).
 -   **Knorpelhafte** Verbindung (*Synchondrose*):  Z. B. Discus
-    intervertebralis (Bandscheibe), Symphysis (Schambeinfuge),
+    intervertebralis (Bandscheibe), Symphys (Schambeinfuge),
     Wachstumsfugen.
 -   **Knochenhaft** (*Synostose*): immer eine sekundäre Verbindung, basierend
     auf den beiden bereits genannten, Verbindung über Knochen, z.B. Kreuzbein (Os
@@ -91,8 +91,8 @@ Bei Synarthrosen können unterschieden werden:
     single: Knorpelzellen
     single: Chondrozyten
 
-Diarthrosen
------------
+Klassische Gelenke: Diarthrosen
+--------------------------------
 
 Diarthrosen,
 die umgangssprachlich "klassischen" Gelenke (*Articulationes*, *Art.*),
@@ -153,6 +153,27 @@ gibt
 -   Führungsbänder (für Bewegungen)
 -   Hemmungsbänder (für Bewegungseinschränkungen)
 
+
+
+.. index::
+    single: Kugelgelenk
+    single: Gelenk;Kugel-
+    single: Eigelenk
+    single: Gelenk;Ei-
+    single: Sattelgelenk
+    single: Gelenk;Sattel-
+    single: Scharniergelenk
+    single: Gelenk;Scharnier-
+    single: Zapfengelenk
+    single: Gelenk;Zapfen-
+    single: Zusammengesetztes Gelenk
+    single: Gelenk;zusammengesetztes -
+    single: Zusammengesetztes Gelenk
+    single: Gelenk;zusammengesetztes -
+
+
+Gelenksformen
+^^^^^^^^^^^^^^^^
 Nach ihrer Form und ihrer Bewegungsfreiheit bzw. der Anzahl der
 Bewegungsachsen werden verschiedene *Gelenksformen* unterschieden:
 
@@ -177,7 +198,6 @@ Raumebene. Bei drei Freiheitsgraden (maximal möglich), kann man mit
 diesem Gelenk Bewegungen in allen drei Raumebenen durchführen. Bei einem
 Freiheitsgrad kann nur eine bestimmte Bewegung ausgeführt werden.
 
-
 .. figure:: /Bilder/HirtlerLena-Ccc/Gelenkarten.*
     :width: 100%
 
@@ -191,37 +211,60 @@ Freiheitsgrad kann nur eine bestimmte Bewegung ausgeführt werden.
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
 
+
+Gelenksarten
+^^^^^^^^^^^^^^^^^
+
 Zusätzlich muss man noch folgende unterschiedliche *Gelenksarten*
 unterscheiden:
 
--   *einfaches Gelenk* :deep:`(Art. simplex)`: Ein einfaches Gelenk verbindet,
+-   **einfaches Gelenk** :deep:`(Art. simplex)`: Ein einfaches Gelenk verbindet,
     wie bei der allgemeinen Beschreibung der Kennzeichen der Diarthrose
     angeführt, zwei Knochen miteinander (z.B. Fingergelenk). Davon zu
     unterscheiden ist das
--   *zusammengesetzte Gelenk* :deep:`(Art. composita)`:
+-   **zusammengesetzte Gelenk** :deep:`(Art. composita)`:
     Hier sind nicht nur zwei,
     sondern mehr Knochen in einer einzigen Gelenkshöhle d.h. durch eine
     gemeinsame Kapsel zusammengefasst. Hierdurch gibt es dann auch nicht
     nur eine Gelenksform, die die Beweglichkeit des Gelenkes bestimmt,
-    sondern mehrere (z.B. Ellenbogengelenk). Nochmals eine Stufe weiter
-    geht das
--   *komplexes Gelenk* :deep:`(Art. complexa)`: Zusätzlich zu zwei oder mehr
+    sondern mehrere,z.B. Ellenbogengelenk:
+
+            #.  Oberarmknochen–Elle (*Scharniergelenk*)
+            #.  Oberarmknochen–Speiche (*Kugelgelenk*)
+            #.  Elle–Speiche (*Zapfengelenk*)
+
+-   **komplexes Gelenk** :deep:`(Art. complexa)`:
+    Zusätzlich zu zwei oder mehr
     Knochen gibt es hier innerhalb der Gelenkshöhle noch Gelenkskörper
     (Discus bzw. Meniscus articularis), die für die Funktion des Gelenks
     eine wichtige Rolle spielen (z.B. Kniegelenk).
 
+
+.. _Muskelmechanik:
+
 Muskelmechanik
 ==============
 
-Muskeln überspannen mindestens ein Gelenk und sind direkt oder über
+Zum Aufbau der Muskel siehe :ref:`Muskel`.
+
+Muskel überspannen mindestens ein Gelenk und sind direkt oder über
 Sehnen an den angrenzenden Knochen befestigt. Zur durchgehenden
 Nomenklatur wurde für den Skelettmuskel jeweils ein *Ursprung* :deep:`(Origio)`
 und ein *Ansatz* :deep:`(Insertio)` definiert. Der Ursprung liegt Rumpf-nahe und
-der Ansatz Rumpf-fern. Eine weitere Beschreibungsmöglichkeit von Muskeln
-umfasst die Begriffe Punctum mobile — der Skelettteil der bewegt wird —
-und Punctum fixum — der Skelettteil der unbewegt bleibt. In Abhängigkeit
-der durchzuführenden Bewegung können Punctum fixum und Punctum mobile
-wechseln (z.B. Atemhilfsmuskulatur).
+der Ansatz Rumpf-fern.
+
+Eine weitere Beschreibungsmöglichkeit von Muskeln
+umfasst die Begriffe **Punctum mobile** — der Skelettteil der bewegt wird —
+und **Punctum fixum** — der Skelettteil der unbewegt bleibt.
+In Abhängigkeit der durchzuführenden Bewegung können Punctum fixum und Punctum mobile
+wechseln (z.B. :ref:`Atemhilfsmuskulatur <Atemhilfsmuskulatur>`)!
+
+Muskel können nur Zug und keinen Druck ausüben, daher sind
+**Gegenspieler** notwendig, um eine Bewegung aufzuheben
+(**Agonisten** bzw. **Synergisten** und **Antagonisten**, z. B.:
+ein Muskel streckt den Arm, ein *anderer* beugt ihn).
+
+
 
 
 .. figure:: /Bilder/WikipediaPd/Gray361.*
@@ -235,9 +278,6 @@ wechseln (z.B. Atemhilfsmuskulatur).
 
 An jedem Muskel kann man einen Muskelkopf :deep:`(Caput)`, einen Muskelbauch
 :deep:`(Venter)` und eine Muskelsehne (Tendo) unterscheiden.
-
-Für jede Bewegung können **Synergisten** (Mitspieler) und **Antagonisten**
-(Gegenspieler) definiert werden.
 
 Nach der *Form* können verschiedene Muskeltypen unterschieden werden:
 

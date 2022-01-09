@@ -371,7 +371,7 @@ Bei Neugeborenen findet man das rote Knochenmark in sämtlichen Knochen
 und Markhöhlen,
 im Laufe des Lebens bildet es sich in den Markhöhlen
 zurück und verwandelt sich in fettreiches, gelbes Knochenmark
- bis es nur mehr an einigen
+bis es nur mehr an einigen
 wenigen Orten vorhanden ist.
 Rotes Knochenmark findet
 man dann lediglich in platten Knochen wie Becken, Brustbein und Schädel

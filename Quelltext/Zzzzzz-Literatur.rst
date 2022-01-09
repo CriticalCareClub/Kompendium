@@ -498,14 +498,6 @@ Literaturverzeichnis
     https://emcrit.org/ibcc/toc/
 
 
-.. [Igv:2010]
-	IGV Industriegaseverband e. V.
-	**Informationen Zur Euro-Norm Din En
-	1089-3. Farbkennzeichnung von Gasflaschen in Deutschland.**
-	2010, online:
-	http://www.industriegaseverband.de/igv/weitereigv/igvfarb.pdf.
-
-
 
 .. [IGV:2010]
     IGV Industriegaseverband e. V.
@@ -1354,8 +1346,9 @@ Literaturverzeichnis
 
 .. [NagelePalliativ:1]
     Nagele, Susanne und Angelika Feichtner:
-   **Lehrbuch der Palliativpflege.**
-   1.    facultas.
+    **Lehrbuch der Palliativpflege.**
+    \ 1. Auflage.
+    Facultas.
 
 
 
@@ -1364,7 +1357,7 @@ Literaturverzeichnis
     Neurath, Markus und Ansgar Lohse, eds:
     2002.*Checkliste Anamnese Und
     Klinische Untersuchung.*
-    1. Auflage,  Thieme.
+    \ 1. Auflage,  Thieme.
 
 .. [Nilsson:1997]
     Lennart Nilsson und Lars Hamberger:

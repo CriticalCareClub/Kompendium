@@ -28,7 +28,7 @@ und die kleinste selbstständig lebende
 Einheit des menschlichen Körpers,
 er besteht aus ca. 75×10¹² (75 Billionen) Zellen.
 Eine Zelle ist zwischen 5 und 150 µm
- (z. B. Eizelle des Menschen — sie ist mit bloßem
+(z. B. Eizelle des Menschen — sie ist mit bloßem
 Auge sichtbar) groß.
 Zum Vergleich — die Eizelle eines Straußes misst 7 cm im Durchmesser.
 Jede Zelle hat je nach ihrer Funktion auch

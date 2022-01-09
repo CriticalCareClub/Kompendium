@@ -138,6 +138,8 @@ außerplanmäßige Situation flexibler reagiert werden (Intubation, …).
    single: Aktivität, pulslose elektrische
    single: PEA
 
+.. _Reanimation-Rhythmen:
+
 Elektrische Herzrhythmen
 ------------------------
 

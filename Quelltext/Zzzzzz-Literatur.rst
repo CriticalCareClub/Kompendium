@@ -464,16 +464,46 @@ Literaturverzeichnis
 
 
 .. [Hochmeister:2]
-    Manfred Hochmeister, Martin Grassberger und Thomas Stimpfl:
-    **Forensische Medizin für Studium und Praxis.**
-    1. Auflage, 2007.
-    Maudrich.
+	Manfred Hochmeister, Martin Grassberger und Thomas Stimpfl:
+	**Forensische Medizin für Studium und Praxis.**
+	2. Auflage, 2007.
+	Maudrich.
 
 
-.. [ICD10De]
 
-    World Health Organization. n.d.
-    **International Statistical Classification of Diseases and Related Health Problems 10th Revision — Deutsche übersetzung.**
+.. [Huch:6]
+	Huch, Renate und Klaus D. Jürgens (HG):
+	**Mensch Körper Krankheit.
+	Anatomie, Physiologie, Krankheitsbilder. Lehrbuch Und Atlas Für Die
+	Berufe Im Gesundheitswesen.**
+	6. Auflage, 2011.
+	Elsevier.
+
+
+
+.. [Ibanez:2017] Ibanez, B.; James, S.; Agewall, S. et al.:
+    2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).
+    European heart journal, 2017.
+    DOI: 10.1093/eurheartj/ehx393
+
+.. [Ibanez:2018] Ibanez, B.; James, S. et al.:
+    2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).
+    European heart journal, 2018, 39, 119-177.
+
+
+
+.. [IBCC]
+    **The Internet Book of Critical Care (IBCC).**
+    Josh Farkas:
+    https://emcrit.org/ibcc/toc/
+
+
+.. [Igv:2010]
+	IGV Industriegaseverband e. V.
+	**Informationen Zur Euro-Norm Din En
+	1089-3. Farbkennzeichnung von Gasflaschen in Deutschland.**
+	2010, online:
+	http://www.industriegaseverband.de/igv/weitereigv/igvfarb.pdf.
 
 
 

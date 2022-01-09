@@ -116,9 +116,11 @@ die Überlebenswahrscheinlichtkeit und werden zunehmend implementiert.
 .. index::
     pair: Reanimation; Ende
 
-*********************************
-Ende und Abbruch der Reanimation
-*********************************
+.. _Reanimation-Ende-NichtBeginn:
+
+***************************************
+Ende oder Nicht-Beginn der Reanimation
+***************************************
 
 In ca. 70—95% der Fälle ist der Reanimationsversuch
 erfolglos und der Patient verstirbt

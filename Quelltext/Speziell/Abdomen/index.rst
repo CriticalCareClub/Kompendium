@@ -384,8 +384,11 @@ Maßnahmen: Gallenkolik
     -   Patient nüchtern lassen!
 
 
+.. index::
+    single: Ösophagusvarizen; -blutung
 
 .. _gastrointestinale-blutung:
+.. _Oesophagusvarizenblutung:
 
 Gastrointestinale Blutungen und Ösophagusvarizenblutung
 =======================================================

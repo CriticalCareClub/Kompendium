@@ -9,4 +9,3 @@ Organsysteme
 
     StuetzUndBewegunsapparat/index
     Nervensystem/index
-    EndokrinesSystem/index

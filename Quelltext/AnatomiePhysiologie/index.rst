@@ -30,7 +30,7 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
     :maxdepth: 3
     :caption: Neu
 
-    Terminologie/index
+    Grundlagen/index
     Bewegungsapparat/index
     HerzKreislauf/index
     Blut/index

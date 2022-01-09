@@ -1,14 +1,15 @@
 
-Anatomische Grundlagen
+Grundlagen
 ########################################################################
 
 .. toctree::
     :maxdepth: 1
 
-    Terminologie/index
+    Allgemeines/index
     Zelle/index
     Gewebe/index
     OrgansystemeHoehlen/index
+    Vitalfunktionen/index
 
 
 

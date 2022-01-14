@@ -1,11 +1,11 @@
-\begin{savenotes}\sffamily\small\begin{ParWide}\sphinxattablestart
+\begin{savenotes}\FontTable\small\begin{ParWide}\sphinxattablestart
 <% if table.align -%>
   <%- if table.align == 'center' -%>
   \centering
   <%- elif table.align == 'left' -%>
   \raggedright
   <%- else -%>
-  \raggedleft
+  \centering
   <%- endif %>
 <%- else -%>
   \centering
@@ -19,9 +19,10 @@
 \phantomsection<%= labels %>\nobreak
 <% endif -%>
 \renewcommand{\hline}{\addlinespace}
-\begin{tabulary}{\linewidth}[t]<%= table.get_colspec() -%>
+\begin{tabulary}{\linewidth}[t]{*{15}{J}}
 \toprule\addlinespace
 <%= ''.join(table.header) %>
+\midrule\addlinespace
 <%=- ''.join(table.body) %>
 \bottomrule
 \end{tabulary}

@@ -5,7 +5,7 @@
 Herzrhythmusstörungen
 ###########################
 
-.. todo:: Herzrhythmusstörungen:
+.. todo:: `#127 Weitere Herzrhythmusstoerungen <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/127>`_
 
         -   EKG-Beispiele inkl. unauffälliger EKG-Befund (sind zum Teil schon im Bilder-Verzeichnis)
         -   verschiedene Herzrhythmusstörungen:

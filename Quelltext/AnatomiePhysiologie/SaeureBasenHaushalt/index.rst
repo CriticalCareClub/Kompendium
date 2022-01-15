@@ -24,7 +24,7 @@ die Protonen [#Proton]_ abgeben
 können,
 :dfn:`Basen` sind Stoffe, die Protonen aufnehmen
 können. Der Begriff :dfn:`Lauge` ist gleichbedeutend mit dem
-Begriff Base. [Loeffler:7]_
+Begriff Base.
 
 .. [#Proton]
     *Proton*:
@@ -289,4 +289,3 @@ Zusammenfassung
 
 [AMLS:3]_,
 [AAOS:9]_,
-[Redelsteiner:2]_

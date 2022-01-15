@@ -1,11 +1,29 @@
 
+.. index::
+    single: Nervensystem; vegetatives -
+
+.. _vegetatives-nervensystem:
+.. _nervensystem-vegetatives:
+.. _VegetativesNervensystem:
+
 ******************************
 Vegetatives Nervensystem (VNS)
 ******************************
 
+.. admonition:: Defintion
+
+    Das :dfn:`vegetative Nervensystem`
+    ist jener Teil des Nervensystems, welcher der Regelung der
+    Vitalfunktionen dient und das Zusammenwirken der einzelnen Teile des
+    Körpers gewährleistet [Pschyrembel:259]_.
+
+
 Wichtige Körperfunktionen wie Herz-, Kreislauf-, Atmungs-,
 Verdauungssystem, Stoffwechsel sowie Wärme- und Energiehaushalt werden
 durch das vegetative Nervensystem kontrolliert.
+Da die Abläufe weitgehend ohne
+bewusste Steuerung ablaufen wird es auch *autonomes*
+:index:`\ <Nervensystem!autonomes>` Nervensystem genannt.
 
 *Afferente Nerven* übertragen viszerosensible, *efferente Nerven*
 viszeromotorische bzw. sekretorische Informationen des vegetativen
@@ -56,6 +74,91 @@ Parasympathikus ist der Überträgerstoff im Ganglion *Acethylcholin*,
 beim Erfolgsorgan ebenfalls *Acethylcholin*.
 
 
+Die :dfn:`Nervi splanchnici`
+:index:`Nn. splanchnici`
+sind die Nerven des
+vegetativen Nervensystems,
+welche die inneren Organe versorgen.
+
+.. _sympathikus:
+.. _parasymapthikus:
+
+Sympathikus und Parasympathikus sind Gegenspieler
+==============================================================
+
+.. only:: not nosidebar
+
+    .. sidebar:: Sympathikus und Parasympathikus
+
+        -   Gegenspieler
+        -   Ergänzen sich
+        -   Steuerung der Organsysteme gemäß Modus:
+        -   Sympathikus: Aktion, Kampf, Flucht, Stress;
+            z. B.:
+
+            -   Kreislauf, Atmung ↑
+            -   Verdauung, Schmerzempfindung ↓
+
+        -   Parasympathikus: Ruhe, Aufbau, Erholung
+
+            -   Kreislauf, Atmung ↓
+            -   Verdauung ↑
+
+Dabei ergänzen sich die beiden
+Systeme und erlauben eine feine Regulation der von ihnen gesteuerten
+Organsysteme.
+Grundsätzlich hat der *Sympathikus* eine
+(nach außen gerichtete) *leistungssteigernde Wirkung*, wohingegen der
+*Parasympathikus* eher der *Ruhe*, Erholung und dem
+Reserveaufbau dient.
+Man kann dabei die beiden Systeme als
+Basis-Programme verstehen: Der **Sympathikus** versetzt den
+Körper in einen *Aktions-Modus* (Kampf-, Flucht-, Stressmodus):
+Dabei wird die Leistung jener Organsysteme, die dringend benötigt werden
+(z. B. Kreislauf, Atmung, ),
+gesteigert und gleichzeitig die Leistung jener
+Organsysteme, die weniger benötigt werden
+(z. B. das Verdauungssystem, Schmerzempfindung, …) zurückgefahren. Umgekehrt versetzt der
+**Parasympathikus** den Körper in einen *Ruhemodus* und aktiviert
+Organsysteme wie z. B. die Verdauung.
+
+
+
+.. list-table:: Sympathikus und Parasympathikus: Fight or flight, rest and digest
+    :widths: 15 10 30
+    :header-rows: 1
+
+    *   -
+        -   Sympathikus
+        -   Parasympathikus
+    *   -   Aktions-Modus:
+        -   *"Fight and flight"*
+
+            (*"Kampf und Flucht"*)
+        -   Ruhemodus:
+
+            *"Rest and digest"*
+
+            (*"Rast und Verdauung"*)
+    *   -   Kreislauf
+        -   Blutdruck, Herzfrequenz ↑
+        -   Blutdruck, Herzfrequenz ↓
+    *   -   Lunge
+        -   Erweiterung der Bronchien
+        -   Engstellung der Bronchien
+    *   -   Pupillen
+        -   Erweiterung
+        -   Verengung
+    *   -   Drüsen
+        -   Schweißsekretion ↑
+
+            Adrenalinausschüttung ↑
+        -   Schweißsekretion
+            ↓
+
+            Adrenalinausschüttung ↓
+
+
 .. figure:: /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.*
 
     "Fight or flight, rest and digest."
@@ -79,13 +182,12 @@ Adrenorezeptoren
 
 Syn.: Adrenerge Rezeptoren; engl.: adrenergic receptor
 
-Adrenoreptoren sind an der Zellwand vieler Zellen sitzende Rezeptoren,
+Adrenorezeptoren sind an der Zellwand vieler Zellen sitzende Rezeptoren,
 welche die zentralen und peripheren Wirkungen der Neurotransmitter
 Noradrenalin und Adrenalin
 des sympathischen Nervensystems auf die jeweiligen Gewebe vermitteln.
-Dieses System stellt somit im Prinzip eine Erweiterung des sympathischen Nervensystems durch die Neurotransmitter und Adrenoreszeptoren dar.
-Man unterscheidet drei Hauptklassen: die α1-, α2- und die β-Adrenozeptoren.
-Jeder dieser Rezeptortypen kann in weitere Subtypen unterteilt werden.
+Dieses System stellt somit im Prinzip eine Erweiterung des sympathischen Nervensystems durch die Neurotransmitter und Adrenorezeptoren dar.
+Man unterscheidet mehrere Haupt- und Untergruppen, klinisch besonders relevant sind die α1-, α2- und die β1- und β2-Adrenorezeptoren.
 
 Die Stimulation der Rezeptoren durch Katecholamine, die aus dem sympathischen Nervensystem freigesetzt werden,
 führt zu je nach Gewebe und Art der expremierten Rezeptoren einer Vielzahl von Wirkungen.
@@ -101,18 +203,18 @@ klassische, aber nicht ausschließlich, für kreislaufwirksame Pharmaka.
         -   Unteruntergruppe
     *   -   α
         -   α1
-        -   α1A
+        -   :deep:`α1A`
 
-            α1B
+            :deep:`α1B`
 
-            α1D
+            :deep:`α1D`
     *   -
         -   α2
-        -   α2A
+        -   :deep:`α2A`
 
-            α2B
+            :deep:`α2B`
 
-            α2C
+            :deep:`α2C`
     *   -   β
         -   β1
 

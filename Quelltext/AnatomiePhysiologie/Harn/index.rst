@@ -176,20 +176,20 @@ Auscheidungen und Reabsorptionen:
 -   proximaler Tubulus:
 
     -   zurück: Zucker, Aminosäuren, Proteine, Vitamine, Laktat,
-        Harnstoff, Harnsäure, Na\ :sup:`+`, K\ :sup:`+`, Ca⁺⁺,
-        Mg⁺⁺, Cl\ :sup:`-`, HCO\ :sup:`3-`, H₂\ O
+        Harnstoff, Harnsäure, Na⁺, K⁺, Ca⁺⁺,
+        Mg⁺⁺, Cl⁻, HCO³⁻, H₂O
     -   raus: Harnstoff, Harnsäure, Kreatinin, einige Medikamente,
-        H\ :sup:`+`, NH\ :sup:`4+`
+        H⁺, NH⁴⁺
 
 -   Henle-Schleife:
 
-    -   zurück: H₂O, Na\ :sup:`+`, K\ :sup:`+`, Cl\ :sup:`-`
+    -   zurück: H₂O, Na⁺, K⁺, Cl⁻
     -   raus: Harnstoff
 
 -   distaler Tubulus:
 
-    -   zurück: Na\ :sup:`+`, Cl\ :sup:`-`, HCO\ :sup:`3-`, H₂\ O
-    -   raus: H\ :sup:`+`, K\ :sup:`+`, NH\ :sup:`4+`
+    -   zurück: Na⁺, Cl⁻, HCO³⁻, H₂O
+    -   raus: H⁺, K⁺, NH⁴⁺
 
 -   Sammelrohr:
 
@@ -214,9 +214,9 @@ Harnwege
 .. sidebar:: Harntrakt
 
         -   Nieren inkl. Nierenbecken
-        -   je 1 Harnleiter (Ureter), 30cm lang, mündet in die
+        -   je 1 Harnleiter (Ureter), 30 cm lang, mündet in die
         -   Blase
-        -   Harnröhre ( Urethra, Mann: 25 cm, Frau 4 cm)
+        -   Harnröhre (Urethra, Mann: 25 cm, Frau 4 cm)
 
 Die Harnwege sind alle mittels *Übergangsepithel* ausgekleidet.
 
@@ -237,7 +237,7 @@ Zu den Harnwegen gehören:
     extraperitoneal,
     direkt hinter der Symphyse,
     nur in gefülltem Zustand tastbar,
-    Harndrang bei ca. 350 ml,
+    Harndrang bei ca. 350 ml,
     Fassungsvermögen ist ca. das Doppelte,
     eingeteilt in *Corpus, Fundus und Cervix*,
     Trigonum vesicae zwischen den drei Öffnungen =

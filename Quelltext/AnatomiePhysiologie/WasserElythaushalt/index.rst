@@ -145,6 +145,7 @@ für die Nerven und den Muskel wichtig.
 .. _Diffusion:
 .. _Osmolaritaet:
 .. _Osmolalitaet:
+.. _KolloidosmotischerDruck:
 
 ********************
 Osmose und Diffusion
@@ -177,7 +178,7 @@ osmotisch wirksamen Teilchen pro Volumseinheit.
 Ähnlich dazu bezeichnet die :dfn:`Osmolalität` die Konzentration osmotisch wirksamer Teilchen in einer Lösung
 bezogen auf die *Masse* des Lösungsmittels.
 
-Neben dem osmotischen Druck gibt es den *onkotischen* Druck,
+Neben dem osmotischen Druck gibt es den *onkotischen* oder *kolloidosmotischen* Druck,
 welcher durch große Mokeküle,
 v. a. Eiweißbestandteile, ausgeübt wird.
 Dieser wird bei speziellen "kolloidalen"

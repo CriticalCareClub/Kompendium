@@ -129,17 +129,22 @@ Standardmaßnahmen bei vital bedrohten Patienten
 
 Reihenfolge zählt!
 
-#.  **Situationsgerechte Lagerung}**
-#.  **Sauerstoffgabe**
-    (:ref:`m-sauerstoffberieselung`): je nach Indikation,
-    allgemeiner Zielwert: SpO₂ von 94—98%
+#.  **Situationsgerechte Lagerung**
+#.  **Sauerstoffgabe**:
+    je nach Indikation,
+    allgemeiner Zielwert: SpO₂ von 94—98%.
+    Beachte :ref:`m-sauerstoffberieselung`
 
-#.  Ggfs. **Notarzt-Nachforderung**:
-    mit kurzer Begründung
+#.  **Experten-Nachforderung**:
 
-    .. attention::
-        Bei manchen Notfällen keine Notarztnachforderung wenn
-        der Patient zeitkritisch ist, siehe jeweilige spezielle Maßnahmen!
+    -   ⛑ Ggfs. **Notarzt-Nachforderung**:
+        mit kurzer Begründung
+
+        .. attention::
+            Bei manchen Notfällen keine Notarztnachforderung wenn
+            der Patient zeitkritisch ist, siehe jeweilige spezielle Maßnahmen!
+
+    -    🅷 Ggfs. **Reanimationsteam**\ /\ **Medical Emergency Team**\ /\ **Experten** nachfordern/hinzuziehen
 
 #.  **Engmaschiges, bestmögliches Monitoring**:
     Je nach vorhandenem Material
@@ -149,6 +154,9 @@ Reihenfolge zählt!
 
 #.  **Reanimationsbereitschaft** herstellen
     (:ref:`m-reanimationsbereitschaft`)
+
+#.  **I.v.-Zugang**
+
 
 .. [#Patientenbeobachtung]
     Zuerst werden die Patientenbeobachtung

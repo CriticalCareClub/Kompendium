@@ -111,22 +111,22 @@ Wandaufbau des Magen-Darm-Trakts
 
 Der gesamte Magen-Darm-Trakt zeigt einen charakteristischen Wandaufbau:
 
--   Tunica mucosa (Schleimhaut)
+-   :index:`Tunica mucosa` (Schleimhaut)
 
-    -   Lamina epithelialis
-    -   Lamina propria
-    -   Lamina muscularis mucosae
+    -   :deep:`Lamina epithelialis`
+    -   :deep:`Lamina propria`
+    -   :deep:`Lamina muscularis mucosae`
 
--   Tunica submucosa (lockere Bindegewebsschicht)
+-   :index:`Tunica submucosa` (lockere Bindegewebsschicht)
 
--   Tunica muscularis (Muskelschicht) mit einer inneren Ringmuskelschicht
+-   :index:`Tunica muscularis` (Muskelschicht) mit einer inneren Ringmuskelschicht
     (Stratum circulare) und einer äußeren Längsmuskelschicht (Stratum
     longitudinale).
 
 Zwischen Ring- und Längsmuskelschicht verläuft ein vegetativer
-Nervenplexus, der Plexus myentericus AUERBACH. In der Submucosa verläuft
-ein zweiter Plexus, der Plexus submucosus MEISSNER. Diese beiden
-Nervenplexus gehören zum intrinsischen *enterischen Nervensystem*.
+Nervenplexus, der Plexus myentericus *Auerbach*. In der Submucosa verläuft
+ein zweiter Plexus, der Plexus submucosus *Meissner*.
+Diese beiden Nervenplexus gehören zum intrinsischen *enterischen Nervensystem*.
 
 
 Steuerung
@@ -134,14 +134,15 @@ Steuerung
 
 Die Steuerung aller Verdauungsvorgänge obliegt folgenden Mechanismen:
 
--   *enterisches Nervensystem*: Koordination und Kontrolle der
+-   **Enterisches Nervensystem**: Koordination und Kontrolle der
     elementaren motorischen und sekretorischen Funktionen
--   Sympathikus (-) und Parasympathikus (+)
--   *viszerale Afferenzen*: Informationsweiterleitung von Chemo-, Nozi-
+-   **Sympathikus** (hemmend) und **Parasympathikus** (aktivierend)
+-   **Viszerale Afferenzen**:
+    Informationsweiterleitung von Chemo-, Nozi-
     und Mechanosensoren zum ZNS, dort führen sie zur Wahrnehmung und
     Ausführung von vegetativen Reflexen.
 
-Die :dfn:`Nervi splanchnici` sind die Nerven des
+Die :index:`Nervi splanchnici` sind die Nerven des
 vegetativen Nervensystems,
 welche die inneren Organe versorgen
 (vgl. :ref:`VegetativesNervensystem`).

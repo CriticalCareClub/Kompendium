@@ -49,10 +49,6 @@ Voraussetzungen für effektives und professionelles Arbeiten.
 [AAOS:9]_
 [Campbell:2010:De]_
 [PHTLS:6]_
-[Semmel:1]_
 [Sudowe:1]_
-[Kirschnick:2]_
-(Rüecker 2005)
-[Ziesenitz:2009]_
 
 

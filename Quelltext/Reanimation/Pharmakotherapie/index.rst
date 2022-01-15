@@ -59,7 +59,7 @@ Endotrachealtubus (*ET*) zu geben, dies wird nicht mehr empfohlen.
     +----------------+-------------------------------------------+-----------------------------------------------+
     | *Amiodaron*    | 300 mg i.v. einmalig *nach* dem 3. Schock | Nicht indiziert                               |
     |                |                                           |                                               |
-    |                | Evtl. einmalig 150 mg i.v. repititieren   |                                               |
+    |                | Evtl. einmalig 150 mg i.v. repetitieren   |                                               |
     +----------------+-------------------------------------------+-----------------------------------------------+
 
 .. subfigstart::

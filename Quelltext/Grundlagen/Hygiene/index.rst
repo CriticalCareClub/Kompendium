@@ -1292,9 +1292,6 @@ Basierend auf [OeAG:2007]_
     -   Sofort in ein geeignetes Krankenhaus!
 
 
-[Loew:2006]_
-
-
 .. _entsorgung-infektioeser-abfall:
 .. _abfall-infektioeser-entsorgung:
 
@@ -1397,6 +1394,5 @@ Werk mit Österreich-Bezug: [FlammAngewandteHygiene:4]
 
 [Kayser:10]_
 [HahnMikrobio:6]_
-[Braun:1]_
 [OeAG:2007]_
 [GruberHygieneRD:1]_

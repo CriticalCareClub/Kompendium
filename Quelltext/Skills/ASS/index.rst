@@ -591,5 +591,3 @@ Literatur
 ************************************************************************
 
 [ArbeitstechnikenAZ:1]_
-[Hildebrand:4]_
-[FamPropAeGruFert:2011]_

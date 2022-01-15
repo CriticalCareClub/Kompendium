@@ -225,7 +225,7 @@ hört, gilt als *systolischer Wert*. Die Luft wird weiter abgelassen. Der
 Wert, bei dem das Pochen verschwindet, ist der *diastolische Wert*. Es
 kann vorkommen, dass das Pochen nicht verschwindet, sondern nur
 plötzlich leiser wird, dann gilt der Druck, bei dem das Pochen
-*deutlich* leiser wird, als diastolischer Wert. [FamPropPku:2014]_
+*deutlich* leiser wird, als diastolischer Wert.
 
 Dokumentiert wird der Blutdruck mit dem Zusatz *RR*
 (z. B.: ``RR 120/80 mm Hg``).

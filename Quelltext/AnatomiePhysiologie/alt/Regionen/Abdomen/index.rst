@@ -7,47 +7,6 @@ Sonstige Organe und Strukturen im Bauchraum
 
 
 
-Das Bauchfell
-=============
-
-.. only:: not nosidebar
-
-    .. sidebar:: Bauchfell (Peritoneum)
-
-        -   Auskleidung der gesamten Bauchhöhle
-        -   Dünner Überzug
-        -   Bewegung der Organe
-        -   Schmerzempfindlich
-
-.. index::
-    single: Bauchfell
-    single: Peritoneum
-
-Das :dfn:`Bauchfell` (**Peritoneum**) ist eine
-dünne Haut, welche *die gesamte Bauchhöhle auskleidet*. Dieser Überzug
-bedeckt die meisten Bauchorgane und das große und kleine Netz
-(Omentum majus und minus). Das große Netz bedeckt die Bauchorgane und
-ist die erste Struktur, die man bei einer Baucheröffnung sieht. Es
-ermöglicht die Abkapselung von Entzündungen, sodass sich diese nicht
-sofort auf den ganzen Bauchraum ausbreiten können.
-
-Es sorgt durch seine feuchte und glatte Oberfläche dafür, dass die
-Organe, wie z. B. Darm, ihre Bewegungen zur Verdauungen besser
-durchführen können.
-
-..
-    .. figure::
-        /Bilder/GabrielSebastian-Ccc/Torso_GABS_IMG_1251_00800_frei.*
-..
-        Der Brust- und Bauchraum, geöffnet am Torso in Aufsicht.
-        Zu sehen sind die Lunge, dahinter das Herz, darunter die
-        Leber (braun) mit einem kleinen Stück der Gallenblase
-        (grün), der Magen mit einem Teil der gelben Fettschürze
-        "großes Netz", sowie der Dickdarm und der Dünndarm
-..
-        ₢ Sebastian Gabriel  :term:`ℓ MfG`
-
-
 .. index::
    single: Milz
    single: Lien

@@ -247,7 +247,7 @@ durch daraus resultierender Vasokonstriktion,
 Erniedrigung der Gefäßpermeabilität,
 Bronchodilatation
 und positive Inotropie am Herzen
-alle wichtigen Pathomechanismen der Anaphylaxie.
+alle wichtigen Pathomechanismen der Anaphylaxie [Anaphylaxie:S2k:2021]_.
 Die intramuskuläre (i. m.-) Gabe ist die medikamentöse Therapie der ersten Wahl.
 [#ImGabe]_
 
@@ -285,12 +285,27 @@ Augeninnendruckerhöhung bis hin zum Glaukomanfall
 sowie paradoxe Erregungszustände
 auslösen.
 
-Glukokortikoide haben einen langsamen Wirkungseintritt
+**Glukokortikoide** haben einen *langsamen Wirkungseintritt*
 und daher kaum Einfluss auf die akute Phase einer Anaphylaxie,
-sie sind aber effektiv bei Behandlung von Asthma
+sie sind aber effektiv bei Behandlung von *Asthma*
 und wirken protrahierten bzw. biphasischen Reaktionen entgegen.
 Eine unspezifische membranstabilisierende Wirkung
 innerhalb von zehn bis 30 Minuten
 nach Zufuhr hoher Glukokortikoiddosen
-wird angenommen. [Ring:2014]_
+wird diskutiert.
+Eine Behandlung mit Glukokortikoiden sollte erst *nach* Stabilisierung der Vitalfunktionen und lebensrettenden Sofortmaßnahmen
+(Sauerstoff-, Adrenalin-, Volumengabe) erfolgen.
+[Anaphylaxie:S2k:2021]_
 
+
+
+Literatur
+*********
+
+
+[Anaphylaxie:S2k:2021]_
+    Ring et al.:
+    **Guideline (S2k) on acute therapy and management of anaphylaxis: 2021 update: S2k-Guideline** *of the German Society for Allergology and Clinical Immunology (DGAKI), the Medical Association of German Allergologists (AeDA), the Society of Pediatric Allergology and Environmental Medicine (GPA), the German Academy of Allergology and Environmental Medicine (DAAU), the German Professional Association of Pediatricians (BVKJ), the Society for Neonatology and Pediatric Intensive Care (GNPI), the German Society of Dermatology (DDG), the Austrian Society for Allergology and Immunology (ÖGAI), the Swiss Society for Allergy and Immunology (SGAI), the German Society of Anaesthesiology and Intensive Care Medicine (DGAI), the German Society of Pharmacology (DGP), the German Respiratory Society (DGP), the patient organization German Allergy and Asthma Association (DAAB), the German Working Group of Anaphylaxis Training and Education (AGATE).*
+    Allergo J Int. 2021;30(1):1-25.
+    doi: 10.1007/s40629-020-00158-y. Epub 2021 Jan 28.
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7841027/

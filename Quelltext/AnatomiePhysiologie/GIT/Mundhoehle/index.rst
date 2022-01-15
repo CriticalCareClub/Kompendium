@@ -83,9 +83,10 @@ werden die beiden Zungenhälften durch eine Zwischensehne
 :deep:`(Septum linguale)` getrennt.
 
 Die Innervation der Zunge erfolg über :ref:`Hirnnerven <Hirnnerven>`,
-speziell motorisch über den N. hypoglossus
-(XII), sensibel über N. glossopharyngeus (IX) und N. vagus (X) im
-hinteren Drittel sowie über den N. trigeminus (V) in den vorderen zwei
+speziell motorisch über den **N. hypoglossus** (**XII**),
+sensibel über *N. glossopharyngeus* (**IX**)
+und *N. vagus* (**X**) im hinteren Drittel
+sowie über den *N. trigeminus* (**V**) in den vorderen zwei
 Dritteln.
 
 .. [#Zungenmuskeln]
@@ -167,30 +168,37 @@ Abhängig von der jeweiligen Form und Aufgabe unterscheidet man pro Quadrant:
         Unterkiefer  48, 47, 46, 45, 44, 43, 42 41  | 31, 32, 33 ,34, 35, 36, 37, 38
 
 
-Die Schneidezähne und die Eckzähne werden als *Frontzähne* bezeichnet,
-die Prämolaren und die Molaren als *Seitenzähne*. Das menschliche Gebiss
+Die Schneidezähne und die Eckzähne werden als **Frontzähne** bezeichnet,
+die Prämolaren und die Molaren als **Seitenzähne**. Das menschliche Gebiss
 ist heterodont - d.h. es gibt Zahngruppen, die unterschiedlich geformt
 und eine unterschiedliche Aufgabe haben - und diphyodont - d.h. die
 Zähne wechseln von einem Milchgebiss zu einem permanenten Gebiss
 (Zahnwechsel).
 
 Die ersten Zähne, die durchbrechen, sind die medialen Schneidezähne (6.
-bis 12. Lebensmonat), bis zum 2. Lebensjahr sollten die *Milchzähne*
-vollständig ausgebildet sein. Der erste Molar - der erste Zahn des
+bis 12. Lebensmonat), bis zum 2. Lebensjahr sollten die **Milchzähne**
+vollständig ausgebildet sein.
+Der erste Molar - der erste Zahn des
 bleibenden Gebisses - entwickelt sich dann mit dem 6. Lebensjahr.
-Daraufhin folgt der *Zahnwechsel*: Medialer Schneidezahn mit 7,
+Daraufhin folgt der **Zahnwechsel**: Medialer Schneidezahn mit 7,
 lateraler Schneidezahn mit 8, erster Prämolar mit 9, zweiter Prämolar
 mit 10 Eckzahn mit 11, zweiter Molar mit 12. Der dritte Molar ist meist
 sehr unterschiedlich ausgeprägt - falls er durchbricht, passiert das ab
 dem 18. Lebensjahr (➛ Weisheitszahn).
 
-Der Dens (Zahn) besteht aus\ *Corona dentis* (Zahnkrone), *Cervix
-dentis* (Zahnhals) und *Radix dentis* (Zahnwurzel). Drei knochenähnliche
-Substanzen – Dentin (Zahnbein), Enamelum (Zahnschmelz) und Cementum
-(Zement) – bauen den Zahn auf. Über die Wurzelhaut (Desmodontium) ist
-der Zahn federnd im Wurzelfach (Alveole) des Kiefers befestigt. Eigene
-Kollagenfasern (Sharpey-Fasern) durchziehen das Desmodontium. Das Dentin
-ist schmerzempfindlich. Der Zahnhals und die beiden Kieferbögen sind von
+Der Dens (Zahn) besteht aus der *Zahnkrone* (*Corona dentis*),
+dem *Zahnhals* (*Cervix dentis*)
+und der *Zahnwurzel* (*Radix dentis*).
+Drei knochenähnliche
+Substanzen — Zahnbein :deep:`(Dentin)`,
+Zahnschmelz :deep:`(Enamelum)`
+und Zement :deep:`(Cementum)` —
+bauen den Zahn auf.
+Über die Wurzelhaut :deep:`(Desmodontium)` ist
+der Zahn federnd im Wurzelfach :deep:`(Alveole)` des Kiefers befestigt. Eigene
+Kollagenfasern :deep:`(Sharpey-Fasern)` durchziehen das Desmodontium.
+Das Zahnbein ist schmerzempfindlich.
+Der Zahnhals und die beiden Kieferbögen sind von
 Zahnfleisch (Gingiva) bedeckt.
 
 Der *Zahnhalteapparat* besteht aus:
@@ -215,7 +223,7 @@ Lippe, Wange, Zunge und Gaumen. Große Speicheldrüsen sind:
 -   Glandula sublingualis (Unterzungenspeicheldrüse): Mündung gemeinsam
     mit Unterkieferspeicheldrüse
 
-Die Speicheldrüsen bilden pro Tag ungefähr 1—1,5 l Speichel. Es gibt
+Die Speicheldrüsen bilden pro Tag ungefähr 1—1,5 L Speichel. Es gibt
 einen mukösen (schleimig) und einen serösen (flüssig) Speichel. Die
 Sekretion wird durch das vegetative Nervensystem gesteuert –
 Parasympathikus fördert, Sympathikus hemmt die Speichelbildung.

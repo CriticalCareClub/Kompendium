@@ -5,9 +5,9 @@
 Herzrhythmusstörungen
 ###########################
 
-.. todo:: Herzrhythmusstörungen:
+.. todo:: `#127 Weitere Herzrhythmusstoerungen <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/127>`_
 
-        -   EKG-Beispiele inkl. unauffälliger EKG-Befund (sind zum Teil schon im Bilder-Verzeichnis)
+        -   Weitere EKG-Beispiele
         -   verschiedene Herzrhythmusstörungen:
 
             -   Vorhofflattern
@@ -31,6 +31,15 @@ Problem darstellen, als auch *als Komplikationen* im Rahmen anderer
 Krankheitsbilder
 (z. B. Herzinfarkt, Elektrolytstörungen etc.)
 auftreten.
+
+
+.. figure:: /Bilder/WikipediaPd/12_lead_generated_sinus_rhythm.jpg
+    :width: 100%
+
+    EKG: Normaler Sinusrhythmus
+
+    ₢ WMC: Glenlarson, :term:`ℓ PD`
+
 
 
 Einteilung
@@ -276,6 +285,25 @@ Je nach Fortleitung der Flimmerwellen aus dem Vorhof in die Kammer
 kann es zu Brady- als auch zu (supraventrikulären Schmalkomplex-)Tachykardien kommen
 (*Bradyarrhythmia*- bzw. *Tachyarrhythmia absoluta*).
 
+.. figure:: /Bilder/WikipediaCcBySa-4.0-International/ECG_Atrial_Fibrillation_98_bpm.jpg
+    :width: 100%
+
+    EKG: Normfrequentes Vorhofflimmern
+
+    ₢ WMC: `Ewingdo <https://commons.wikimedia.org/wiki/User:Ewingdo>`_,
+    :term:`ℓ CC BY-SA 4.0`
+
+
+.. figure:: /Bilder/WikipediaCcBySa-3.0-unported/Afib_ecg.jpg
+    :width: 70%
+
+    EKG: Vorhofflimmern und Sinusrhythmus im Vergleich
+
+    ₢ WMC: `JHeuser <https://commons.wikimedia.org/wiki/User:JHeuser>`_,
+    :term:`ℓ CC BY-SA 3.0`
+
+
+
 
 Supraventrikuläre Tachykardie (SVT)
 =======================================================================
@@ -308,6 +336,22 @@ Nun kann es zu folgenden Situationen kommen:
 
 -   *Atypische* fast/slow AVNRT (reverse AVNRT):
     Hier führt eine Extrasystole der Kammer zum Block des fast-pathway, die Erregung läuft über den slow-pathway zu den Vorhöfen und im Kreis zurück via fast-pathway zur Kammer. [WP:Avnrt:2021]_
+
+
+.. figure:: /Bilder/WikipediaCcBySa-3.0-unported/AV_nodal_reentrant_tachycardia.png
+    :width: 70%
+
+    EKG: AV-Knoten-Reentrytachykardie (AVNRT)
+
+    ₢ WMC: `Ceccomaster <https://commons.wikimedia.org/wiki/User:Ceccomaster>`_, :term:`ℓ CC BY-SA 3.0`
+
+
+.. figure:: /Bilder/WikipediaCcBySa-4.0-International/ECG_AVNRT_181_bpm.jpg
+    :width: 100%
+
+    EKG: AV-Knoten-Reentrytachykardie (AVNRT)
+
+    ₢ WMC: `Ewingdo <https://commons.wikimedia.org/wiki/User:Ewingdo>`_, :term:`ℓ CC BY-SA 4.0`
 
 
 
@@ -350,6 +394,13 @@ Fehlt eine adäquate Auswurfleistung spricht man von der **pulslosen** VT (pVT),
     *monomorphe* VT: der Kammerkomplex erscheint immer gleich,
     *polymorphe* VT: der Kammerkomplex verändert sich von Herzschlag zu Herzschlag
 
+.. figure:: /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.jpg
+    :width: 100%
+
+    EKG: Ventrikuläre Tachykardie (VT)
+
+    ₢ WMC: Glenlarson, :term:`ℓ PD`
+
 
 
 
@@ -366,6 +417,13 @@ dadurch kontrahiert der Herzmuskel nicht mehr geordnet,
 er kommt nur noch zu einem
 Zittern *ohne nennenswerte Auswurfleistung*! (Kammerflimmern darf
 nicht mit Vorhofflimmern verwechselt werden!)
+
+.. figure:: /Bilder/WikipediaPd/Lead_II_rhythm_generated_ventricular_fibrilation_VF.jpg
+    :width: 100%
+
+    EKG: Kammerflimmern (VF)
+
+    ₢ WMC: Glenlarson, :term:`ℓ PD`
 
 
 
@@ -413,6 +471,15 @@ Demnach werden die AV-Blockaden werden in 3 Grade eingeteilt:
 Leichtere Formen des AV-Blockes können unbemerkt bleiben und bedürfen keiner Behandlung. Schwerere Formen (2°, 3°) führen zu einer Bradykardie und können eine Indikation für die Implantation eines passageren oder auch permanenten Schrittmachers (besonders 2° Typ Mobitz und 3°) darstellen.
 
 
+.. figure:: /WikipediaCcBySa-4.0-International/Heart_block.png
+    :width: 100%
+
+    EKG: Übersicht: AV-Blockaden
+
+    ₢ WMC: `Npatchett <https://commons.wikimedia.org/wiki/User:Npatchett>`_, :term:`ℓ CC BY-SA 4.0`
+
+
+
 
 Ventrikulärer Ersatzrhythmus
 =======================================================================
@@ -436,6 +503,16 @@ nicht und es erfolgt **keine Auswurfleistung**.
 Grundsätzlich wird dieser Rhythmus als :ref:`reanimationspflichtig <Reanimation-Rhythmen>` bezeichnet,
 allerdings kann eine Asystolie auch ein Zeichen für einen seit längerem bestehenden Kreislaufstillstand und damit einer frustranen Prognose sein.
 Vgl. hierzu :ref:`Reanimation-Ende-NichtBeginn`.
+
+
+.. figure:: /Bilder/WikipediaPd/Lead_II_rhythm_generated_asystole.jpg
+    :width: 100%
+
+    EKG: Asystolie
+
+    ₢ WMC: `Glenlarson <http://commons.wikimedia.org/wiki/User:Glenlarson>`_,
+    :term:`ℓ PD`
+
 
 
 

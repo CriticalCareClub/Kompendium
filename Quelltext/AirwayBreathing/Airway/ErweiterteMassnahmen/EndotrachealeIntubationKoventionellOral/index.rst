@@ -652,9 +652,6 @@ Erfolgskontrolle
 
 [ArbeitstechnikenAZ:1]_
 
-[Hildebrand:4]_
-
-
 .. index::
     single: Airtraq™
     single: Videolaryngoskop; Airtraq™

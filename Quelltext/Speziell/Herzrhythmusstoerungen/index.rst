@@ -5,7 +5,7 @@
 Herzrhythmusstörungen
 ###########################
 
-.. todo:: Herzrhythmusstörungen:
+.. todo:: `#127 Weitere Herzrhythmusstoerungen <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/127>`_
 
         -   EKG-Beispiele inkl. unauffälliger EKG-Befund (sind zum Teil schon im Bilder-Verzeichnis)
         -   verschiedene Herzrhythmusstörungen:
@@ -675,6 +675,8 @@ Im Akutmanagement von Rhythmusstörungen stellen sich *drei* grundsätzliche Fra
     -   🚩 Myokardischämie, 🚩 Stenokardien
     -   Zeichen einer neu aufgetretenen 🚩 Herzinsuffizienz
 
+[ERC:2021:05]_
+
 .. _proc-MR47091C:
 .. _m-tachykarde-attacke:
 
@@ -704,7 +706,7 @@ Erweiterte Maßnahmen
         -   :ref:`Amiodaron <Amiodaron>` 300 mg i.v. (über 10—20 min)
         -   Wiederholung Kardioversionsversuch
 
-
+[ERC:2021:05]_
 
 Hämodynamisch wirksame *Tachykardie*
 ========================================================================
@@ -737,6 +739,8 @@ Allgemein
             Z. B. *Magnesium gluconicum* 1000—4000 mg in einer Kurzinfusion
         -   **Kalium**: Substitution nur unter Elektrolyt-Kontrolle
 
+[ERC:2021:05]_
+
 Arrhythmische Breitkomplextachykardie
 ------------------------------------------------------------------------
 
@@ -751,6 +755,8 @@ Arrhythmische Breitkomplextachykardie
 
 -   Wenn Vorhofflimmern mit bekanntem Schenkelblock: Wie arrhythmische Schmalkomplextachykardie behandeln (Cave FBI-Tacykardie!)
 -   Wenn Torsade-de-pointes: **Magnesium**, z. B. *Magnesium gluconicum* 2000—4000 mg in einer Kurzinfusion
+
+[ERC:2021:05]_
 
 Arrhtyhmische Schmalkomplextachykardie
 ------------------------------------------------------------------------
@@ -776,6 +782,8 @@ Vermutlich Vorhofflimmern, unterscheide:
     Bei schon länger bestehenddem Vorhofflimmern kein Kardioversionsversuch ohne vorherigen Ausschluss eines Thrombus,
     auf **Frequenzkontrolle** beschränken.
 
+[ERC:2021:05]_
+
 Rhythmische Breit- oder Schmalkomplextachykardie
 ------------------------------------------------------------------------
 
@@ -794,6 +802,7 @@ Rhythmische Breit- oder Schmalkomplextachykardie
 
 4.  Wenn nicht erfolgreich: *Elektrische Kardioversion* (3 Versuche, synchronisiert!) unter Sedierung
 
+[ERC:2021:05]_
 
 .. danger::
 
@@ -850,7 +859,7 @@ Risiko Asystolie
         ggfs. Bolus-Gabe 0,010 mg i.v. ("Supra-Blitz")
     -   Schrittmacher: Trabskutan (mit Sedierung!) oder passager
 
-
+[ERC:2021:05]_
 
 
 Andere Rhythmusstörung

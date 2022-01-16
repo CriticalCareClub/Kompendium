@@ -68,7 +68,7 @@ Zeichen des Todes und Leichenzeichen
 ====================================
 
 Grundsätzlich gibt es Zeichen, die als *sichere Todeszeichen*
-gelten [Hochmeister:2]_ [GrassbergerTodesermittlung:1]_: 
+gelten [Hochmeister:2]_ [Grassberger:1]_: 
 
 
 

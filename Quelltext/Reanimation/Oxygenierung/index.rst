@@ -366,7 +366,7 @@ Die wichtigsten Ergebnisse dieser Studien sind:
     wenigstens 100 ETI gefordert, zur Aufrechterhaltung mindestens 10 ETI
     pro Jahr [Timmermann:2012]_ . Damit verbunden wäre eine
     Vollzeit-Trainingsphase von etwa einem halben Jahr
-    [BERN:12]_\ .
+    [Bernhard:2012]_\ .
 
 
 .. [#327]

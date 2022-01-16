@@ -115,12 +115,11 @@ verschiedene Ursachen möglich.\ [#AkutesAbdomen]_
 .. [#AkutesAbdomen]
    Akutes Abdomen, Definition: Die Definition des Akuten Abdomens ist
    oft nicht ganz eindeutig: Einerseits kann man darunter jede plötzlich
-   auftretende Baucherkrankung verstehen [Longmore:7]_
-   [Renz-Polster:2006]_.
+   auftretende Baucherkrankung verstehen.
    Allerdings verstehen viele
    Leute darunter eher eine bedrohliche Baucherkrankung, bei der man
-   akut (schnell) handeln muss (Abwehrspannung, harter Bauch). In der
-   Notfallmedizin halten wir uns an letztere Definition.
+   akut (schnell) handeln muss (Abwehrspannung, harter Bauch).
+   Hier halten wir uns an letztere Definition.
 
 
 Die zu Grunde liegenden
@@ -385,8 +384,11 @@ Maßnahmen: Gallenkolik
     -   Patient nüchtern lassen!
 
 
+.. index::
+    single: Ösophagusvarizen; -blutung
 
 .. _gastrointestinale-blutung:
+.. _Oesophagusvarizenblutung:
 
 Gastrointestinale Blutungen und Ösophagusvarizenblutung
 =======================================================
@@ -747,9 +749,8 @@ Bauchspeicheldrüse (Pankreas). Sie kann sowohl *akut*, als auch
 *chronisch* verlaufen.
 
 Die häufigsten Ursachen für eine Pankreatitis
-sind *Gallensteinleiden* und *Alkoholmissbrauch* [Siewert:8]_ [Scholz:2]_. Daneben gibt es noch viele, allerdings nicht
-so häufige Ursachen, oft bleibt die Ursache auch gänzlich unbekannt
-[Herold:2005]_.
+sind *Gallensteinleiden* und *Alkoholmissbrauch*. Daneben gibt es noch viele, allerdings nicht
+so häufige Ursachen, oft bleibt die Ursache auch gänzlich unbekannt.
 
 *Warum können Gallensteine eine Pankreatitis verursachen?*
 Der Pankreasausführungsgang, welcher Verdauungsenzyme in
@@ -778,7 +779,6 @@ Die Symptome sind oft unspezifisch, eine Erstdiagnosestellung ist
 präklinisch normalerweise nicht möglich. Charakteristisch ist
 bestenfalls ein **gürtelförmiger Oberbauchschmerz** :index:`\ <gürtelförmiger Oberbauchschmerz>`. Die
 häufigsten Begleitsymptome sind Übelkeit und Erbrechen, sowie Fieber.
-[Herold:2005]_
 
 Verlauf
 -------
@@ -871,7 +871,7 @@ und die Darmwand verliert zunehmend an Dichtigkeit, es kann zu einem
 *Durchbruch* (Ruptur) kommen. Es folgt eine *Bauchfellentzündung* und
 ein akutes Abdomen (:ref:`akutes-abdomen`).
 Es kann zu *blutigen, übel riechenden
-Stuhlabgängen* kommen. [Siewert:8]_
+Stuhlabgängen* kommen.
 
 
 .. _CK55001C:

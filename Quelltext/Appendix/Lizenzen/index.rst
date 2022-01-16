@@ -499,11 +499,14 @@ Andere verwendete ℓ — Lizenzen
         https://creativecommons.org/licenses/by-sa/2.0/de
 
 
-
-
     ℓ CC BY-SA 3.0
         *Creative Commons Attribution-ShareAlike 3.0 Unported*:
         https://creativecommons.org/licenses/by-sa/3.0
+
+
+    ℓ CC BY-SA 4.0
+        *Creative Commons Attribution-ShareAlike 4.0 International*:
+        https://creativecommons.org/licenses/by-sa/4.0/
 
 
     ℓ MfG

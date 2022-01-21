@@ -61,6 +61,8 @@ und der ebenso beharrliche Versuch,
 andere in der Betreuung kritisch kranker Menschen
 mit unserer Arbeit zu unterstützen.
 
+.. todo:: `#128 Vorwort / Umbenennung CCCA <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/128>`
+
 -- saluti et solatio aegrorum
 
 *Wien, im März 2019*

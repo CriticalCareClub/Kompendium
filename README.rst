@@ -1,9 +1,8 @@
 
-README — Arbeits- und Ausbildungsstandards für den Sanitätdienst
+README — Kompendium des CCCA
 #######################################################################
 
-Herausgegeben von der Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für den Sanitätsdienstn (ARGE AASS).
-Nach Umbenennung der ARGE AASS in Critical Care Club Austria (CCCA) wird dieses Werk in "Kompendium des CCCA" umbenannt werden,
+Herausgegeben vom Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA).
 
 
 Kurzinfo
@@ -63,7 +62,7 @@ Offenlegung, Impressum, Nutzungsbedingungen und Hinweise
 
 Dieses Werk ist in Entwicklung und gegenwärtig nicht zur Veröffentlichung bestimmt!
 
-| ARGE Arbeits- und Ausbildungsstandards für den Sanitätsdienst
+| Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA)
 | Engerthstraße 146/8/3
 | A-1200 Wien – AUSTRIA
 
@@ -96,7 +95,7 @@ Die bittet jeden Leser, ihm aufgefallene Ungenauigkeiten und Fehler,
 sowie Anregungen und konstruktive Kritik, über unsere Entwicklungs- und
 Feedback-Webseite unter
 
-http://aass.at/entwicklung
+https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues
 
 mitzuteilen.
 

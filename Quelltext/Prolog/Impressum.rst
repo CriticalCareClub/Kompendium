@@ -17,15 +17,15 @@ Offenlegung, Impressum, Nutzungsbedingungen und Hinweise
 
 Dieses Werk ist in Entwicklung und gegenwärtig nicht zur Veröffentlichung bestimmt!
 
-| Arbeitsgemeinschaft Arbeits- und Ausbildungsstandards für den Sanitätsdienst
+| Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA)
 | Engerthstraße 146/8/3
 | A-1200 Wien – AUSTRIA
 
 E-Mail:
-    office@aass.at
+    office@criticalcareclub.at
 
 Homepage:
-    http://www.aass.at
+    http://www.criticalcareclub.at
 
 ZVR:
     846678982
@@ -159,7 +159,7 @@ Die Herausgeber bitten jeden Leser, ihm aufgefallene Ungenauigkeiten und Fehler,
 sowie Anregungen und konstruktive Kritik, über unsere Entwicklungs- und
 Feedback-Webseite unter
 
-https://aass.at/entwicklung
+https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues
 
 mitzuteilen.
 
@@ -173,13 +173,10 @@ Bezeichnungen – soweit dies inhaltlich in Betracht kommt – auf Frauen
 und Männer in gleicher Weise.
 
 Satz und Druckvorstufe
-    Sphinx Toolchain, LaTeX mit KOMA-Script
-
-    Distribution: TeXlive, mit der AASS Style Collection (asc) und
-    vielen, vielen Paketen
+    Sphinx Toolchain, LaTeX
 
 Entwicklungsumgebung
-    Emacs, MS Visual Studio Code
+    GNU Emacs, MS Visual Studio Code, GitLab™ WebIDE
 
 Versionsverwaltung
     Git

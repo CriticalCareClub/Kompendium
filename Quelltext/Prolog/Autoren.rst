@@ -5,7 +5,7 @@ Credits
 Jeweils in alphabetischer Reihenfolge. Die angeführten Einrichtungen
 sind zwecks Referenz angegeben. Es kann daraus nicht geschlossen werden,
 dass der jeweilige Autor im Rahmen seines dortigen Arbeitsverhältnisses
-für die AASS tätig geworden ist oder die Beiträge die Sichtweise der
+für den CCCA tätig geworden ist oder die Beiträge die Sichtweise der
 jeweiligen Organisation wiedergeben bzw. von selbiger authorisiert
 wurden.
 

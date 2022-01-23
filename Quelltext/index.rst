@@ -15,7 +15,7 @@
 
 
 ########################################################################
-Arbeits- und Ausbildungsstandards für den Sanitätsdienst
+Kompendium des CCCA
 ########################################################################
 
 
@@ -38,13 +38,6 @@ Arbeits- und Ausbildungsstandards für den Sanitätsdienst
             :uncommitted:
             :untracked:
 
-
-..
-    .. only:: html
-
-        .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
-            :align: center
-            :width: 100%
 
 
 
@@ -72,12 +65,12 @@ Arbeits- und Ausbildungsstandards für den Sanitätsdienst
 
 
 
-..
-    .. only:: html
 
-        .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
-            :align: center
-            :width: 100%
+.. only:: html
+
+    .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
+        :align: center
+        :width: 100%
 
 
 

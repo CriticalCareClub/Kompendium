@@ -225,13 +225,6 @@
         :width: 100%
 
 
-..
-    .. only:: html
-
-        .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
-            :align: center
-            :width: 100%
-
 
 .. only:: html
 

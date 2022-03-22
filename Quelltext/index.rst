@@ -73,22 +73,22 @@ Kompendium des CCCA
         :width: 100%
 
 
+..
+    .. admonition:: Versionsinformationen
 
-.. admonition:: Versionsinformationen
+        :Version:
+            |version|
 
-    :Version:
-        |version|
+        :Release:
+            |release|
 
-    :Release:
-        |release|
+        .. rubric:: `Versionsverwaltung (Git) <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/>`_
 
-    .. rubric:: `Versionsverwaltung (Git) <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/>`_
+        .. git_commit_detail::
+            :branch:
+            :commit:
+            :uncommitted:
+            :untracked:
 
-    .. git_commit_detail::
-        :branch:
-        :commit:
-        :uncommitted:
-        :untracked:
-
-    .. git_changelog::
-        :revisions: 1
+        .. git_changelog::
+            :revisions: 1

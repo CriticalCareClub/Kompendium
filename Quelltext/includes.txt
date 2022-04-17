@@ -218,36 +218,43 @@
 
 -----
 
-..
-    .. only:: html
+.. only:: html
 
-        .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
-            :align: center
-            :width: 100%
+    .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
+        :align: center
+        :width: 100%
 
-..
-    .. only:: html
+
+
+.. only:: html
+
+
+
+    .. admonition:: Versionsinformation (Git)
+
+        .. git_changelog::
+            :revisions: 1
+
+        .. git_commit_detail::
+            :branch:
+            :commit:
+            :uncommitted:
+            :untracked:
 
         .. attention::
 
-            .. centered:: Achtung -- Entwicklungsversion!
+            .. centered:: Entwicklungsversion!
 
-            Dieses Dokument ist **nicht freigegeben** und laufenden Änderungen unterworfen.
+            Dieses Werk ist **nicht freigegeben** und laufenden Änderungen unterworfen.
             Es enthält ungesicherte Informationen und ist als **unzuverlässig** und **rein informativ** zu betrachten.
 
             Die Verbreitung ist nicht gestattet.
             Alle Rechte vorbehalten.
 
-            .. rubric:: Versionsverwaltung (Git)
+        Weitere Informationen finden sich auf der
+        `Projektplattform <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium>`_\ .
 
-            .. git_changelog::
-                :revisions: 1
 
-            .. git_commit_detail::
-                :branch:
-                :commit:
-                :uncommitted:
-                :untracked:
-
+-----
 
 

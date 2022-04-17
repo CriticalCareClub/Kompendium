@@ -33,7 +33,7 @@ normalen Fließtext unnötig aufblähen würden.
 Kompetenzlevel
 **************
 
-Die Kompetenzlevel des Zielpublikums der einzelnen Inhalte der AASS sind
+Die Kompetenzlevel des Zielpublikums der einzelnen Inhalte des Kompendiums des CCCA sind
 wie in der folgenden Tabelle gegliedert:
 
 .. tabularcolumns:: cclL
@@ -105,14 +105,6 @@ Jede Maßnahme hat eine Kennung und eine Versionsnummer.
 	+----------+--------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
-*************
-Externe Teile
-*************
-
-Aus Kostengründen sind manchmal nicht alle Teile Bestandteil eines
-Drucks. Dies betrifft besonders Teile des Appendix wie z. B. das
-Literaturverzeichnis. Diese Teile sind online auf der AASS-Projektseite
-im Download-Bereich verfügbar (http://www.aass.at/cms/download/aass/).
 
 .. _Table-Versionstypen:
 

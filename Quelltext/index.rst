@@ -15,7 +15,7 @@
 
 
 ########################################################################
-Arbeits- und Ausbildungsstandards für den Sanitätsdienst
+Kompendium des CCCA
 ########################################################################
 
 
@@ -38,13 +38,6 @@ Arbeits- und Ausbildungsstandards für den Sanitätsdienst
             :uncommitted:
             :untracked:
 
-
-..
-    .. only:: html
-
-        .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
-            :align: center
-            :width: 100%
 
 
 
@@ -72,30 +65,30 @@ Arbeits- und Ausbildungsstandards für den Sanitätsdienst
 
 
 
+
+.. only:: html
+
+    .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
+        :align: center
+        :width: 100%
+
+
 ..
-    .. only:: html
+    .. admonition:: Versionsinformationen
 
-        .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
-            :align: center
-            :width: 100%
+        :Version:
+            |version|
 
+        :Release:
+            |release|
 
+        .. rubric:: `Versionsverwaltung (Git) <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/>`_
 
-.. admonition:: Versionsinformationen
+        .. git_commit_detail::
+            :branch:
+            :commit:
+            :uncommitted:
+            :untracked:
 
-    :Version:
-        |version|
-
-    :Release:
-        |release|
-
-    .. rubric:: `Versionsverwaltung (Git) <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/>`_
-
-    .. git_commit_detail::
-        :branch:
-        :commit:
-        :uncommitted:
-        :untracked:
-
-    .. git_changelog::
-        :revisions: 1
+        .. git_changelog::
+            :revisions: 1

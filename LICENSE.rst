@@ -12,7 +12,7 @@ veröffentlicht. Alle Rechte vorbehalten.
 
 Eine Verbreitung ist nicht gestattet.
 
-.. Die Inhalte der AASS als Gesamt- und Sammelwerk unterliegen den
+.. Die Inhalte dieses Werks als Gesamt- und Sammelwerk unterliegen den
 .. Nutzungsbedingungen der Creative-Commons-Lizenz *"Namensnennung – Keine
 .. Bearbeitungen 3.0 Österreich"* (*CC-BY-ND/3.0/at*, abrufbar unter
 .. http://creativecommons.org/licenses/by-nd/3.0/at/) zuzüglich dem unter
@@ -377,7 +377,7 @@ folgende Nutzungen gestattet:
     welcher anzeigt, dass es sich um einen Auszug aus den AASS handelt.
 
 #.  Sie dürfen einzelne Bilder und Grafiken gemäß den Bedingungen von
-    "Lizenz des Werkes" nutzen, sofern diese unter der Lizenz der AASS stehen.
+    "Lizenz des Werkes" nutzen, sofern diese unter der Lizenz des Kompendiums des CCCA stehen.
 
 #.  Sie dürfen folgende Seiten eigenständig gemäß den Bedingungen von
     "Lizenz des Werkes" nutzen:
@@ -391,7 +391,7 @@ folgende Nutzungen gestattet:
 Andere verwendete Lizenzen
 **************************
 
-**Die Auflistung dieser Lizenzen bedeutet nicht, dass die AASS als
+**Die Auflistung dieser Lizenzen bedeutet nicht, dass das Kompendium des CCCA als
 Ganzes unter diesen Lizenzen lizensiert sind!**
 
 

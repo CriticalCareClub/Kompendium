@@ -92,3 +92,51 @@ Beim restlichen *Neuralrohr* lassen sich drei Zonen unterteilen:
 -   Grundplatte: Ursprungsgebiet der motorischen Nerven
 -   Zwischenzone: Ursprungsgebiet vegetativer Nerven
 -   Flügelplatte: Ursprungsgebiet sensibler Nerven
+
+
+
+
+.. _vitalfunktion-bewusstsein:
+.. _bewusstsein:
+
+Exkurs: Bewusstsein
+--------------------------------------
+
+.. only:: not nosidebar
+
+    .. sidebar:: Bewusstsein
+
+        -   Vitalfunktion 1. Ordnung
+        -   Überlebenswichtig
+        -   Beurteilung:
+
+            -   Bewusstseinsgrad (quantitativ)
+            -   Orientierung (qualitativ) → Ⓓ
+
+.. admonition:: Defintion
+
+    Bewusstsein\ [#fnBewusstsein]_ ist ein Oberbegriff für u.a. Wachheit, Orientierung,
+    Aufmerksamkeit, Auffassungsgabe, Denkverlauf und Merkfähigkeit
+    [Pschyrembel:259]_.
+
+Es ist eine grundlegende
+*Vitalfunktion erster Ordnung*
+und wichtig hinsichtlich des Schutzes des Menschen vor
+Bedrohung. Ein bewusstseinsklarer Mensch kann sich gegen innere und
+äußere Gefahren wehren, z. B. mittels der Schutzreflexe, ein eingetrübter
+oder bewusstloser Mensch kann dies schlecht oder gar nicht.
+
+Bei der Diagnostik beurteilt man den *Bewusstseinsgrad* (*quantitativ*;
+*Wieviel* Bewusstsein ist vorhanden?) und die *Orientierung* (Qualität;
+*Wie gut funktioniert das vorhandene Bewusstsein?* Zeitlich, örtlich,
+zur Situation und zur Person). Details siehe :ref:`Bewusstseinsgrad`.
+
+
+.. [#fnBewusstsein]
+    Die "wahre" Definition von Bewusstsein ist seit tausenden von Jahren
+    ungeklärt.
+    Auch an dieser Stelle wird das Geheimnis nicht gelüftet
+    werden,
+    daher muss die obige Definition für den Alltag ausreichen.
+    Hinweisen zufolge könnte die Antwort eventuell "42" sein [Adams:1996]_.
+

@@ -6,10 +6,17 @@
 
 .. _MembrumSuperius:
 .. _ObereExtremitaet:
+.. _obere-extremitaet:
+.. _schulterguertel:
 
-***********************************
+
+
 Obere Extremität (Membrum superius)
-***********************************
+########################################################################
+
+
+Knochen
+************************************************************************
 
 
 .. figure:: /Bilder/WikipediaPd/Human_arm_bones_diagram_de-edited.*
@@ -33,20 +40,21 @@ V: kleiner Finger (*Minimus*).
 
 Zur oberen Extremität gehören folgende Skelett-Anteile:
 
--   Schultergürtel: mit drei Anteilen
+-   **Schultergürtel**: mit drei Anteilen
 
-    -   Manubrium sterni
-    -   Clavicula (Schlüsselbein)
-    -   Scapula (Schulterblatt)
+    -   **Sternum** (Manubrium sterni; Brustbein)
+    -   **Clavicula** (Schlüsselbein)
+    -   **Scapula** (Schulterblatt)
 
     Der Schultergürtel ermöglicht die Bewegung der Arme. Über eine
     Bandverbindung des Schlüsselbeines am Brustbein und wiederum eine
     Bandverbindung zwischen Schlüsselbein und Schulterblatt sind alle
-    Knochen miteinander verbunden. Die Gelenkspfanne für den Oberarmknochen
+    Knochen miteinander verbunden.
+    Die Gelenkspfanne für den Oberarmknochen
     befindet sich am Schulterblatt.
 
     Der Humerus (Oberarmknochen) ist hauptsächlich durch Muskelzug
-    (M. deltoideus, Rotatorenmanschette) am Schultergürtel befestigt.
+    (*M. deltoideus*, *Rotatorenmanschette*) am Schultergürtel befestigt.
 
 -   Humerus (Oberarmknochen)
 -   Ulna (Elle)
@@ -82,7 +90,8 @@ Zur oberen Extremität gehören folgende Skelett-Anteile:
 
     -   Kahnbeinverletzungen sind häufig, jedoch relativ schwierig zu diagnostizieren, der Heilungsprozess ist langwierig.
 
-
+    -   Bänder und Muskel sind für die Stabilität des Schultergelenkes
+        wichtig.
 
 
 
@@ -138,15 +147,16 @@ Proc. coracoideus und Acromion), Lig. transversum scapulae sup.
 Clavicula (Schlüsselbein)
 =========================
 
-s-förmig
+Die Clavicula ist ein s-förmiger Röhrenknochen und verbindet das Sternum mit dem Acromion der Scapula.
+Somit kann man den Knochen einteilen in:
 
-Extremitas sternalis mit Gelenkfläche
-
-Corpus claviculae
-
-Extremitas acromialis (platt) mit Gelenkfläche
+-   Extremitas sternalis mit Gelenkfläche
+-   Corpus claviculae
+-   Extremitas acromialis (platt) mit Gelenkfläche
 
 Die durch die Mitte des Schlüsselbeins laufende Linie bezeichnet man als Medioklavikularlinie.
+Unterhalb der Clavicula verlaufen die A. und V. subclavia.
+Somit dient die Clavicula auch als Landmark für die Anlage von zentralvenösen Kathetern an der V. subclavia.
 
 .. todo:: `#114: Clavicula: Landmarks für ZVK und Reginalanästhesie <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/114>`_
 
@@ -196,6 +206,15 @@ Aufgrund seiner Nahebeziehung des N. radialis zum Knochen ist er bei Humerusfrak
 Radius (Speiche)
 ================
 
+Die **Speiche**
+(Radius) ist einer der beiden den Unteram bildenden Knochen und liegt *daumenseitig*\ [#Radialarterie]_.
+
+
+
+.. [#Radialarterie]
+    Daher ist die Radialarterie daumenseitig zu tasten!
+
+
 Extremitas proximalis: Caput radii mit Fovea articularis und der
 Circumferentia articularis, Collum radii, Tuberositas radii.
 
@@ -219,6 +238,10 @@ verbunden.
 
 Ulna (Elle)
 ===========
+
+Die Ulna ist der zweite Knochen, welcher Zusammen mit dem Radius den unterarm formt.
+Ddie Elle liegt auf der Seite des
+kleinen Fingers.
 
 Extremitas proximalis: Olecranon, Incisura trochlearis, Proc.
 cornoideus, Incisura radialis, Tuberculum ulnae.
@@ -292,6 +315,8 @@ Digitus minimus
 
 
 
+Gelenke
+************************************************************************
 
 
 .. index::
@@ -481,7 +506,7 @@ Die wichtigsten Gelenke der Hand sind:
 
 
 Wichtige Muskeln der oberen Extremität
-======================================
+************************************************************************
 
 .. todo:: `#115: Muskeln der oberen Extremität: Zuordnung Spinalnerven, Kennmuskeln <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/115>`_
 

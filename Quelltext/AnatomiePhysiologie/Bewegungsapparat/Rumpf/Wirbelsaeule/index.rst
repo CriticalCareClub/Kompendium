@@ -8,7 +8,7 @@
 .. _Wirbelsaeule:
 
 Wirbelsäule (Columna vertebralis)
-=================================
+########################################################################
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Wirbel-allgemein.*
@@ -45,8 +45,18 @@ aufweisen. Eine pathologische Krümmung in der Frontalebene nennt man
 
 
 
+.. index::
+   single: Halswirbelsäule
+   single: Brustwirbelsäule
+   single: Lendenwirbelsäule
+   single: HWS
+   single: BWS
+   single: LWS
+   single: Kreuzbein
+   single: Steißbein
 
-.. rubric:: Abschnitte der Wirbelsäule
+Abschnitte der Wirbelsäule
+************************************************************************
 
 Die Wirbeln gliedern sich in:
 
@@ -72,7 +82,8 @@ Die Wirbeln gliedern sich in:
 
 
 
-.. rubric:: Bandscheiben
+Bandscheiben
+************************************************************************
 
 Zwischen den einzelnen freien Wirbeln liegen **Bandscheiben** (**Discus**
 *intervertebralis*). Sie weisen eine *fibröse Schale* (*Anulus fibrosus*)
@@ -88,7 +99,8 @@ durch Nervenkompression zu Schmerzen bzw. neurologischen Ausfällen
 
 
 
-.. rubric:: Bewegungen
+Bewegungen
+************************************************************************
 
 Als Bewegungen sind mit der Wirbelsäule die *Flexion /
 Extension*, *Rotation* und *Lateralflexion* möglich. Diese Gesamtbewegungen der
@@ -96,8 +108,16 @@ Wirbelsäule summieren sich aus den Einzelbewegungen zwischen den
 einzelnen Wirbeln.
 
 
+.. index::
+   single: Wirbel
+   single: Bandscheiben
+   single: Discus
+   single: Wirbelkanal
+   single: Rückenmark
 
-.. rubric:: Wirbel
+
+Wirbel
+************************************************************************
 
 Ein Wirbel lässt sich allgemein in das **Wirbelkörper** (*Corpus vertebrae*)
 und den **Wirbelbogen** (*Arcus vertebrae*) unterteilen. Der Wirbelbogen
@@ -120,7 +140,8 @@ intervertebrale verlaufen die *Spinalnerven* des Rückenmarks.
 
 
 
-.. rubric:: Besonderheiten der einzelnen Wirbel
+Besonderheiten der einzelnen Wirbel
+************************************************************************
 
 *Halswirbel (*\ C): Foramen transversarium (Loch) in den Procc.
 transversi der Halswirbel für A. vertebralis (Wirbelarterie),
@@ -169,7 +190,8 @@ coccygea (verkümmerte Procc. articulares superiores)
 
 
 
-.. rubric:: Bandverbindungen
+Bandverbindungen
+************************************************************************
 
 -   Ligg. flava (gelbe Bänder) grenzen die Zwischenwirbellöcher
     :deep:`(Foramina intervertebralia)` nach medial und dorsal ab.
@@ -189,7 +211,8 @@ coccygea (verkümmerte Procc. articulares superiores)
 Die Ligg. supraspinale, interspinalia und flava werden im Rahmen der zentroaxialen Regionalanästhesie (Spinalanästhesie, Periduralanästhesie) bzw. bei der Liquorpunktion bei medianer Punktionstechnik durchstoßen.
 Die Bänder können kalzifizieren ("verknöchern") und dadurch die Punktion erschweren.
 
-.. rubric:: Gelenke der Wirbelsäule
+Gelenke der Wirbelsäule
+************************************************************************
 
 -   Discus intervertebralis (Zwischenwirbelscheibe): Synchondrose, Anulus
     fibrosus, Nucleus pulposus
@@ -204,7 +227,7 @@ Die Bänder können kalzifizieren ("verknöchern") und dadurch die Punktion ersc
 
 
 Rückenmuskulatur
-----------------
+************************************************************************
 
 Diese Muskelgruppe ist wichtig für die Bewegung des Rumpfes - Streckung,
 Drehung, Seitneigung - und für die Stabilisierung der Wirbelsäule.
@@ -224,3 +247,11 @@ Grundsätzlich werden *zwei Muskelguppen* unterschieden:
     (Schulterblatt) bzw. Humerus (Oberarmknochen)).
     Gemeinsam ist ihnen, dass sie
     als **Atemhilfsmuskeln** dienen können.
+
+
+
+
+.. admonition:: Querverweise
+
+    -   Wirbelsäulentrauma: :ref:`wirbelsaeulentrauma`
+    -   Bandscheibenvorfall: :ref:`lumbago`

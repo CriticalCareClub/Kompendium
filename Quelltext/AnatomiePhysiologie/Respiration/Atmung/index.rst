@@ -531,7 +531,7 @@ beschreiben [Klinke:3]_ [SchmidtPhysio:28]_
 
 #.  Das :dfn:`Atemzeitvolumen`
     :index:`\ <Atemminutenvolumen>`:index:`\ <Atemzeitvolumen>`
-    (AZV, :math:`\dot{V}`̇\ )
+    (AZV, :math:`\dot{V}`\ )
     beschreibt ein pro Zeiteinheit ein- bzw. ausgeatmetes Gasvolumen und wird meist in Liter pro Minute angegeben (Atemminutenvolumen, AMV).
 
     Ca. 7,5 L / min in Ruhe (0,5 l × 15 Atemzüge)

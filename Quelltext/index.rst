@@ -18,12 +18,12 @@
 Kompendium des CCCA
 ########################################################################
 
-
+..
 .. only:: html
 
-    .. image:: /Bilder/Logos/Ccca-Logo-v12.svg
+    .. image:: /Bilder/GabrielSebastian-Ccc/Teaser-001.jpg
         :align: center
-        :width: 50%
+        :width: 100%
 
 
 ..
@@ -40,12 +40,12 @@ Kompendium des CCCA
 
 
 
+..
+    .. list-table::
+        :stub-columns: 1
 
-.. list-table::
-    :stub-columns: 1
-
-    *   -   Version
-        -   |version|
+        *   -   Version
+            -   |version|
 
 
 .. toctree::

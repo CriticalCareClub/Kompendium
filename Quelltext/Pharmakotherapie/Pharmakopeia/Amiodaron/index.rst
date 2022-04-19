@@ -112,20 +112,18 @@ Amiodaron
     -   QT-Intervall-Verlängerung,
         Insbes. Kombinationstherapie mit:
 
-        .. hlist::
-
-            -   Ia-Antiarrhythmika,
-                z.B. Chinidin, Procainamid, Disopyramid;
-            -   III-Antiarrhythmika, z.B. Sotalol, Bretylium;
-            -   Intravenöse
-                Erythromycin-, Cotrimoxazol- oder Pentamidin-Injektionen;
-            -   Einige Antipsychotika,
-                z. B. Chlorpromazin, Thioridazin, Fluphenazin, Pimozid, Haloperidol, Amisulprid und Sertindol;  Lithium und trizyklische Antidepressiva, z. B. Doxepin, Maprotilin, Amitriptylin;
-            -   Bestimmte Antihistamine,
-                z. B. Terfenadin, Astemizol, Mizolastin;
-            -   Arzneimittel gegen Malaria,
-                z. B. Chinin, Mefloquin, Chloroquin, Halofantrin;
-            -   Moxifloxacin.
+        -   Ia-Antiarrhythmika,
+            z.B. Chinidin, Procainamid, Disopyramid;
+        -   III-Antiarrhythmika, z.B. Sotalol, Bretylium;
+        -   Intravenöse
+            Erythromycin-, Cotrimoxazol- oder Pentamidin-Injektionen;
+        -   Einige Antipsychotika,
+            z. B. Chlorpromazin, Thioridazin, Fluphenazin, Pimozid, Haloperidol, Amisulprid und Sertindol;  Lithium und trizyklische Antidepressiva, z. B. Doxepin, Maprotilin, Amitriptylin;
+        -   Bestimmte Antihistamine,
+            z. B. Terfenadin, Astemizol, Mizolastin;
+        -   Arzneimittel gegen Malaria,
+            z. B. Chinin, Mefloquin, Chloroquin, Halofantrin;
+        -   Moxifloxacin.
 
 
 

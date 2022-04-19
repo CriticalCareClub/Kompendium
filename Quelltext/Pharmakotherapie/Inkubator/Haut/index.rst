@@ -136,7 +136,7 @@ Behandlung der Akne
 |                                  | Kontrazeption).                  |
 +----------------------------------+----------------------------------+
 
-|
+
 
 Die Therapie der Akne zielt auf eine Verminderung der Talgproduktion,
 der Propionibakterien sowie auf eine Normalisierung der Verhornung ab.

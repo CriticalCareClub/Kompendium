@@ -17,9 +17,10 @@ Offenlegung, Impressum, Nutzungsbedingungen und Hinweise
 
 Dieses Werk ist in Entwicklung und gegenwärtig nicht zur Veröffentlichung bestimmt!
 
-| Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA)
-| Engerthstraße 146/8/3
-| A-1200 Wien – AUSTRIA
+Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA)
+
+Engerthstraße 146/8/3,
+A-1200 Wien – AUSTRIA
 
 E-Mail:
     office@criticalcareclub.at

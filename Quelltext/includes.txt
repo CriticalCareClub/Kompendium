@@ -218,11 +218,12 @@
 
 -----
 
-.. only:: html
+..
+    .. only:: html
 
-    .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
-        :align: center
-        :width: 100%
+        .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
+            :align: center
+            :width: 100%
 
 
 
@@ -254,7 +255,5 @@
         Weitere Informationen finden sich auf der
         `Projektplattform <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium>`_\ .
 
-
------
 
 

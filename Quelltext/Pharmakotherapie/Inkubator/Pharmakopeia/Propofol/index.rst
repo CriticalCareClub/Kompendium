@@ -37,11 +37,7 @@ betrachtet werden.
    relativ: Hypovolämie, Gravidität, Stillen, Fettstoffwechselstörung, Alter <1 Mon (1 %) bzw. <3a (2 %)
 
 
-Kelso2014
-Holzhauser2009
-Dewachter2011
-Bradley2008
-Murphy2011
+
 
 :Dosierung:
 

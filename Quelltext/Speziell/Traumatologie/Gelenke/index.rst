@@ -86,7 +86,7 @@ Eine :dfn:`Verrenkung`
 ist eine Gelenkverletzung,
 bei der zwei das Gelenk bildende Knochenenden aus ihrer normalen Stellung
 zueinander verschoben werden. Dabei kommt es meist zu
-Begleitverletzungen an der Gelenkkapsel bzw. den Gelenkbändern [Gorgass:7]_.
+Begleitverletzungen an der Gelenkkapsel bzw. den Gelenkbändern :term:`🕮 Gorgass 7`.
 
 Die Verrenkung
 (:dfn:`Luxation`\ :index:`\ <! Luxation>`) ist eine
@@ -99,7 +99,7 @@ unternommen werden!
 Durch das inadäquate Verhältnis zwischen Kopfgröße und Pfannengröße im
 Schultergelenk ist dies das am häufigsten luxierte Gelenk im
 menschlichen Körper. 45% aller Luxationen entfallen auf das
-Schultergelenk [Gorgass:7]_.
+Schultergelenk :term:`🕮 Gorgass 7`.
 
 Symptome
 --------

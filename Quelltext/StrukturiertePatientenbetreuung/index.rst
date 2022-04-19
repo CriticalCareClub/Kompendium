@@ -45,10 +45,10 @@ Voraussetzungen für effektives und professionelles Arbeiten.
 
 .. rubric:: Literatur
 
-[AMLS:3]_
-:cite:`AAOS:9`
+:term:`🕮 AMLS 3`
+:term:`🕮 AAOS 9`,
 [Campbell:2010:De]_
-[PHTLS:6]_
-[Sudowe:1]_
+:term:`🕮 PHTLS 6`
+:term:`🕮 Sudowe 1`
 
 

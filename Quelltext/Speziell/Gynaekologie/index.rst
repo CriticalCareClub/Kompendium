@@ -43,7 +43,7 @@ Ein
 ist die
 Beendigung einer Schwangerschaft bzw. Fruchtabgang bei einem
 Kindesgewicht von unter 500 g und fehlenden Lebenszeichen
-[Haag:3]_ [Hochmeister:2]_ \ .
+:term:`🕮 Haag 3` :term:`🕮 Hochmeister 2` \ .
 Aufgrund verschiedener Ursachen kann es zum Absterben der
 Frucht mit einer nachfolgenden Fehlgeburt (Ausstoßung) kommen.
 Wenn dies vor dem Erreichen von 500 g geschieht,
@@ -81,7 +81,7 @@ Erreichen der 500 g-Grenze des Kindes vorkommen\ [#275]_.
 .. [#275]
     Nach dem Erreichen der 500 g-Marke spricht man von einer *Totgeburt*;
     für diese gelten z. T. andere rechtliche Rahmenbedingungen (Kind kann
-    einen Vornamen erhalten, Beurkundung im Sterbebuch, [Hochmeister:2]_ ).
+    einen Vornamen erhalten, Beurkundung im Sterbebuch, :term:`🕮 Hochmeister 2` ).
 
 
 
@@ -321,7 +321,7 @@ Die Präeklampsie ist charakterisiert durch:
 Beim HELLP-Syndrom kommt es zu einem *rechten Oberbauchschmerz*
 (Leberdehnungsschmerz). Bei einer drohenden Eklampsie klagt die
 Patientin über *Kopfschmerzen*, Sehstörungen sowie Übelkeit und
-Erbrechen. [Haag:3]_
+Erbrechen. :term:`🕮 Haag 3`
 
 
 .. _GO14090C:
@@ -440,7 +440,7 @@ Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
     muss liegend transportiert werden. Es besteht die Gefahr eines
     Nabelschnurvorfalls in den Geburtskanal!
 
-[Haag:3]_
+:term:`🕮 Haag 3`
 
 
 

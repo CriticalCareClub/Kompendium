@@ -114,5 +114,5 @@ Handlungsschritte
     Sekunden)
 -   Siehe Abbildung :ref:`Figure-haendedesinfektion`.
 
-[Kirschnick:2]_
+:term:`🕮 Kirschnick 2`
 

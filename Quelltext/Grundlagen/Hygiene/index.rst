@@ -410,7 +410,7 @@ spricht man in der Fachwelt auch von :dfn:`Spitalskeimen` :index:`\ <! Spitalske
 Resistente Keime verursachen komplizierte Infektionen, eine Erhöhung der
 Komplikations- und Sterblichkeitsrate, in Folge eine Verlängerung des
 Krankenhausaufenthaltes und nicht zuletzt enorme zusätzliche –
-vermeidbare – Kosten [Kucera:2010]_.
+vermeidbare – Kosten :term:`🕮 Kucera 2010`.
 
 
 .. admonition:: Synopsis
@@ -1124,7 +1124,7 @@ Schutzkleidung
 .. [#268]
     Beim Ausbruch von SARS in Hongkong in 2003 konnten simple OP-Masken
     das Infektionsrisiko für das Personal auf 0 senken (das infizierte
-    Personal trug entweder keine Maske oder einfache Papiermasken) [Seto:2003]_\ .
+    Personal trug entweder keine Maske oder einfache Papiermasken) :term:`🕮 Seto 2003`\ .
 
 
 
@@ -1255,7 +1255,7 @@ Nadelstichverletzungen
 Maßnahmen
 -----------
 
-Basierend auf [OeAG:2007]_
+Basierend auf :term:`🕮 OeAG 2007`
 
 -   Erstmaßnahmen durchführen:
 
@@ -1382,9 +1382,9 @@ Literatur
 *******************
 
 *Rettungsdienstspezifisches Werk*, richtet sich tendenziell an
-Hygieneverantwortliche und -beauftrage: [Wiedenmann:1]_
+Hygieneverantwortliche und -beauftrage: :term:`🕮 Wiedenmann 1`
 
-*Standardwerk*: [Kramer:1]_
+*Standardwerk*: :term:`🕮 Kramer 1`
 
 *Übersichtswerk* mit speziellem Kapitel bezüglich Hygiene im Rettungs-
 und Krankentransport und exemplarischen Desinfektionsplänen: [Kramer:KHH:1]
@@ -1392,7 +1392,7 @@ und Krankentransport und exemplarischen Desinfektionsplänen: [Kramer:KHH:1]
 Werk mit Österreich-Bezug: [FlammAngewandteHygiene:4]
 
 
-[Kayser:10]_
-[HahnMikrobio:6]_
-[OeAG:2007]_
-[GruberHygieneRD:1]_
+:term:`🕮 Kayser 10`
+:term:`🕮 HahnMikrobio 6`
+:term:`🕮 OeAG 2007`
+:term:`🕮 GruberHygieneRD 1`

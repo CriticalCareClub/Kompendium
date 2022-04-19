@@ -720,7 +720,7 @@ Grunderkrankungen sind im Folgenden aufgeführt:
 
 .. [#FallberichtSupady]
 
-    Fallbericht: *Gamma-Butyrolacton-Entzugsdelir mit Rhabdomyolyse und dialysepflichtiger Niereninsuffizienz* [Supady:2009]_
+    Fallbericht: *Gamma-Butyrolacton-Entzugsdelir mit Rhabdomyolyse und dialysepflichtiger Niereninsuffizienz* :term:`🕮 Supady 2009`
 
 
 .. _krampfanfall-fokaler:

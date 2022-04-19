@@ -121,7 +121,7 @@ Bahnanlagen
     Kondensatorladung eine Spannung von bis zu 3 000 V anliegen
     (vgl. Gefahrenzonen: :ref:`gefahrenzonen`).
 
-    Im U-Bahnbereich werden Spannungen um die 700 V eingesetzt. [U:61989]_
+    Im U-Bahnbereich werden Spannungen um die 700 V eingesetzt.
 
 
 Blitzschlag

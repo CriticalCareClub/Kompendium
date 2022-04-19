@@ -655,12 +655,12 @@ bei der Bewertung des Patienten zu vergegenwärtigen.
 .. rubric:: Literatur
 
 
-[DahmerGespraechsfuehrung:5]_
+:term:`🕮 Dahmer GF 5`
 
-[FamPropAeGeFue:2010]_
+:term:`🕮 FamPropAeGeFue 2010`
 
-[Thun:1981]_
+:term:`🕮 Thun 1981`
 
-[Argelander:2009]_
+:term:`🕮 Argelander 2009`
 
 

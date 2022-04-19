@@ -255,7 +255,7 @@ Maßnahmen
         (CO₂-Narkose, vgl. :ref:`Copd`)!
         Bei sorgfältiger Überwachung des
         Patienten stellt die O₂-Gabe in der Praxis
-        jedoch kein Problem dar [Scholz:2]_.
+        jedoch kein Problem dar :term:`🕮 Scholz 2`.
 
         O₂ bis eine Sauerstoffsättigung von 94—98% erreicht ist, oder 8 L / min.
         Die einschlägige Literatur ist widersprüchlich.

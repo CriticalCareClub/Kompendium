@@ -327,15 +327,15 @@ leitet schneller und kann in beide Richtungen,
 d. h. antegrad (vom Vorhof zur Kammer)
 und retrograd (von der Kammer zum Vorhof) leiten.
 Der **slow-pathway** beginnt am posterioren Eingang,
-leitet langsamer und hat eine kürzere Refraktärzeit. [WP:Avnrt:2021]_
+leitet langsamer und hat eine kürzere Refraktärzeit. :term:`🕮 WP Avnrt 2021`
 Nun kann es zu folgenden Situationen kommen:
 
 -   Typische* slow/fast AVNRT, 95 %:
     Durch eine *früh einfallende Extrasystole* im Vorhofbereich  kommt es zu einem Block im fast-pathway.
-    Die Erregung verläuft nun über den slow-pathway zur Herzkammer, trifft dort auf das kammerseitige Ende des fast-pathway, läuft im Kreis zurück zum Vorhof, um wiederum via slow-pathway Richtung Kammer zu laufen. [WP:Avnrt:2021]_
+    Die Erregung verläuft nun über den slow-pathway zur Herzkammer, trifft dort auf das kammerseitige Ende des fast-pathway, läuft im Kreis zurück zum Vorhof, um wiederum via slow-pathway Richtung Kammer zu laufen. :term:`🕮 WP Avnrt 2021`
 
 -   *Atypische* fast/slow AVNRT (reverse AVNRT):
-    Hier führt eine Extrasystole der Kammer zum Block des fast-pathway, die Erregung läuft über den slow-pathway zu den Vorhöfen und im Kreis zurück via fast-pathway zur Kammer. [WP:Avnrt:2021]_
+    Hier führt eine Extrasystole der Kammer zum Block des fast-pathway, die Erregung läuft über den slow-pathway zu den Vorhöfen und im Kreis zurück via fast-pathway zur Kammer. :term:`🕮 WP Avnrt 2021`
 
 
 .. figure:: /Bilder/WikipediaCcBySa-3.0-unported/AV_nodal_reentrant_tachycardia.png
@@ -752,7 +752,7 @@ Im Akutmanagement von Rhythmusstörungen stellen sich *drei* grundsätzliche Fra
     -   🚩 Myokardischämie, 🚩 Stenokardien
     -   Zeichen einer neu aufgetretenen 🚩 Herzinsuffizienz
 
-[ERC:2021:05]_
+:term:`🕮 ERC 2021 05`
 
 .. _proc-MR47091C:
 .. _m-tachykarde-attacke:
@@ -783,7 +783,7 @@ Erweiterte Maßnahmen
         -   :ref:`Amiodaron <Amiodaron>` 300 mg i.v. (über 10—20 min)
         -   Wiederholung Kardioversionsversuch
 
-[ERC:2021:05]_
+:term:`🕮 ERC 2021 05`
 
 Hämodynamisch wirksame *Tachykardie*
 ========================================================================
@@ -816,7 +816,7 @@ Allgemein
             Z. B. *Magnesium gluconicum* 1000—4000 mg in einer Kurzinfusion
         -   **Kalium**: Substitution nur unter Elektrolyt-Kontrolle
 
-[ERC:2021:05]_
+:term:`🕮 ERC 2021 05`
 
 Arrhythmische Breitkomplextachykardie
 ------------------------------------------------------------------------
@@ -833,7 +833,7 @@ Arrhythmische Breitkomplextachykardie
 -   Wenn Vorhofflimmern mit bekanntem Schenkelblock: Wie arrhythmische Schmalkomplextachykardie behandeln (Cave FBI-Tacykardie!)
 -   Wenn Torsade-de-pointes: **Magnesium**, z. B. *Magnesium gluconicum* 2000—4000 mg in einer Kurzinfusion
 
-[ERC:2021:05]_
+:term:`🕮 ERC 2021 05`
 
 Arrhtyhmische Schmalkomplextachykardie
 ------------------------------------------------------------------------
@@ -859,7 +859,7 @@ Vermutlich Vorhofflimmern, unterscheide:
     Bei schon länger bestehenddem Vorhofflimmern kein Kardioversionsversuch ohne vorherigen Ausschluss eines Thrombus,
     auf **Frequenzkontrolle** beschränken.
 
-[ERC:2021:05]_
+:term:`🕮 ERC 2021 05`
 
 Rhythmische Breit- oder Schmalkomplextachykardie
 ------------------------------------------------------------------------
@@ -879,7 +879,7 @@ Rhythmische Breit- oder Schmalkomplextachykardie
 
 4.  Wenn nicht erfolgreich: *Elektrische Kardioversion* (3 Versuche, synchronisiert!) unter Sedierung
 
-[ERC:2021:05]_
+:term:`🕮 ERC 2021 05`
 
 .. danger::
 
@@ -936,7 +936,7 @@ Risiko Asystolie
         ggfs. Bolus-Gabe 0,010 mg i.v. ("Supra-Blitz")
     -   Schrittmacher: Trabskutan (mit Sedierung!) oder passager
 
-[ERC:2021:05]_
+:term:`🕮 ERC 2021 05`
 
 
 Andere Rhythmusstörung

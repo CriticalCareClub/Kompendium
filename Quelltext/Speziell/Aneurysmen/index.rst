@@ -70,7 +70,7 @@ klinischen Behandlung werden Aneurysmen häufig erst sehr spät erkannt,
 da die Symptome oft eher auf andere Erkrankungen hinweisen (Lumbago,
 ACS, Koliken, …).
 
-[Meron:2004]_
+:term:`🕮 Meron 2004`
 
 
 ABCDE

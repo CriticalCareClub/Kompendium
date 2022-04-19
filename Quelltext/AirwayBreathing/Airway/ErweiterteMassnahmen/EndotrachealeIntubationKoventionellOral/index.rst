@@ -650,7 +650,7 @@ Erfolgskontrolle
 
 .. rubric:: Literatur
 
-[ArbeitstechnikenAZ:1]_
+:term:`🕮 ArbeitstechnikenAZ 1`
 
 .. index::
     single: Airtraq™

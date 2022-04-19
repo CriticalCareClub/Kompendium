@@ -287,5 +287,5 @@ Zusammenfassung
         den Fingern. Wer Probleme mit dem Stoffwechsel hat kann sauer
         oder basisch werden.
 
-[AMLS:3]_,
-:cite:`AAOS:9`,
+:term:`🕮 AMLS 3`,
+:term:`🕮 AAOS 9`,

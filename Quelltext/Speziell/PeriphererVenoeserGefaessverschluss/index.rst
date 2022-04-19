@@ -246,5 +246,5 @@ Maßnahmen: Tiefe Beinvenenthrombose
                 https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/86
 
 
-[Scholz:2]_
-[IntroClinEmergMed:4]_
+:term:`🕮 Scholz 2`
+:term:`🕮 IntroClinEmergMed 4`

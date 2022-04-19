@@ -195,7 +195,7 @@ der nicht am Gasaustausch teilnimmt. Dies ist im wesentlichen der
 gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen
 (Alveolen). Die Luft muss erst diesen Totraum passieren um in die
 Lungenbläschen zu gelangen und am dort stattfindenden Gasaustausch
-teilzunehmen. Der Totraum beträgt beim Erwachsenen ca. 150 mL. [Klinke:3]_
+teilzunehmen. Der Totraum beträgt beim Erwachsenen ca. 150 mL. :term:`🕮 Klinke 3`
 
 
 
@@ -514,8 +514,8 @@ Folgende Werte sind wichtig:
 
 
 Es gibt drei wichtige Kennzahlen, welche die Atmung
-beschreiben [Klinke:3]_ [SchmidtPhysio:28]_
-[Striebel:7]_:
+beschreiben :term:`🕮 Klinke 3` :term:`🕮 SchmidtPhysio 28`
+:term:`🕮 Striebel 7`:
 
 #.  Die :dfn:`Atemfrequenz` :index:`\ <! Atemfrequenz>`
     (:dfn:`AF` :index:`\ <! AF>`, Formelzeichen :math:`f`)
@@ -584,7 +584,7 @@ Als *Atemgrenzwert* wird das in einer Minute maximal ventilierbares Volumen (20-
 
 
 
-[Lissauer:2007]_ [Lutomsky:3]_
+:term:`🕮 Lissauer 2007` :term:`🕮 Lutomsky 3`
 
 
 

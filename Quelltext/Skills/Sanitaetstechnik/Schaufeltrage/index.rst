@@ -44,7 +44,7 @@ Die Schaufeltrage kann vielfältig eingesetzt werden:
 .. note::
 
     Das :ref:`Spineboard <spineboard-beschreibung>` ist in vielen Fällen
-    eine Alternative zur Schaufeltrage [Campbell:2010:De]_ [PHTLS:6]_.
+    eine Alternative zur Schaufeltrage [Campbell:2010:De]_ :term:`🕮 PHTLS 6`.
 
 
 

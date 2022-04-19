@@ -28,7 +28,6 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
 
 .. toctree::
     :maxdepth: 3
-    :caption: Neu
 
     Grundlagen/index
     Bewegungsapparat/index
@@ -46,13 +45,4 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
     WasserElythaushalt/index
     SaeureBasenHaushalt/index
     Schlaf/index
-
-
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Inhalt (alt)
-
-    alt/Organsysteme/index
-    alt/Regionen/index
 

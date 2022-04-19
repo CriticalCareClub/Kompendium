@@ -16,6 +16,14 @@ Caput (Kopf)
 
     [Gray’s Anatomy / Copyright expired]
 
+Der Begriff **Kopf** (*Caput*) bezieht neben den knöchernen Strukturen
+auch alle übrigen Strukturen der Region ein (Haut, Muskeln, Hirn, …).
+Der knöcherne Anteil des Kopfs wird **Schädel** (**Cranium**) genannt.
+Unter dem Haupthaar und der damit verbundenen Haut folgt die
+Kopfschwarte. Die Besonderheit der Kopfschwarte besteht darin, dass
+Blutgefäße nicht wie sonst im Körper bei Verletzung kolabieren. Dadurch
+kommt es *auch bei relativ geringen Kopfverletzungen* zu vergleichsweise
+*starken Blutungen*. Hierauf folgt die *Schädelkalotte*.
 
 Schädel (Cranium)
 =================
@@ -48,12 +56,13 @@ Am Kopfschädel können zwei Abschnitte unterschieden werden:
 -   :deep:`Corpus: Foramen mentale, Angulus mandibulae.`
 -   :deep:`Ramus: Proc. coronoideus, Proc. condylaris mit Caput mandibulae und Collum mandibulae, darunter Incisura mandibulae, Foramen mandibulae.`
 
-Die Schädelbasis ist der Bereich der Schädelknochen, die das Gehirn
+Die **Schädelbasis** ist der Bereich der Schädelknochen, die das Gehirn
 tragen.
 
-Das Besondere an der *Schädelbasis* sind die vielen
-*Foramina*, die *Hirnnerven* von der Schädelhöhle nach außen leiten. Die
-Schädelbasis kann in *drei verschiedene Gruben* (vordere, mittlere,
+Das Besondere an der Schädelbasis sind die vielen
+*Foramina*, durch die die *Hirnnerven* von der Schädelhöhle nach außen treten.
+
+Die Schädelbasis kann in *drei verschiedene Gruben* (vordere, mittlere,
 hintere Schädelgrube) unterteilt werden:
 
 -   Fossa cranii anterior: enthält den Stirnlappen (Lobus frontalis) des
@@ -63,12 +72,18 @@ hintere Schädelgrube) unterteilt werden:
 -   Fossa cranii posterior: enthält das Kleinhirn (Cerebellum) und den
     Hirnstamm (Truncus cerebri)
 
+Das **Foramen magnum** (*großes Hinterhauptsloch*)
+ist die *Durchtrittsstelle des Rückenmarks*.
+
 .. figure:: /Bilder/WikipediaPd/Gray1196-edited.*
     :width: 50%
 
     Aufsicht auf die Schädelbasis
 
     ₢ Gray’s Anatomy ℓ Copyright expired
+
+Schädelnähte (Suturen) und Fontanellen
+-------------------------------------------
 
 Am Schädeldach (Kalotte) kann man beim Erwachsenen einige **Schädelnähte**
 (*Suturen*: Syndesmosen / Synostosen) erkennen. Die wichtigsten sind:
@@ -87,10 +102,14 @@ parietales sowie dem Os occipitale und Ossae parietales gibt es aufgrund
 der hier charakteristischen desmalen Ossifikation speziell große
 Wachstumszonen, die **Fontanellen**:
 
--   vordere Fontanelle (Fonticulus anterior): größer, viereckig,
-    Verschluss ca. im 36. Lebensmonat.
 -   hintere Fontanelle (Fonticulus posterior): kleiner, dreieckig,
     Verschluss ca. im 3. Lebensmonat.
+-   vordere Fontanelle (Fonticulus anterior): größer, viereckig,
+    Verschluss ca. im 36. Lebensmonat.
+
+Die Unterscheidung ist für
+die Geburtshilfe interessant, da man dadurch unterscheiden kann in
+welche Richtung der Kopf des Kindes schaut.
 
 .. figure:: /Bilder/WikipediaPd/fontanelle-dt.*
     :width: 50%

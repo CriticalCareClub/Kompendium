@@ -346,7 +346,7 @@ Maßnahmen: Verbrennung, schwer
         Bei großflächigen Verbrennungen können,
         wenn das sterile Material nicht ausreicht,
         zur Not auch saubere Leintücher o. ä.
-        verwendet werden [AAOS:9]_\ .
+        verwendet werden :cite:`AAOS:9`\ .
     -   Schockbekämpfung
     -   *Kolloidale* Infusionslösungen sind *kontraindiziert** [#KolloidaleLsgVerbrennung]_\ **!**
 
@@ -356,8 +356,8 @@ Maßnahmen: Verbrennung, schwer
 Was man **nicht** tun darf …
 ============================
 
--   NEIN: Salbe, Puder, etc. auf frische Brandwunde ([AAOS:9]_; [PHTLS:6]_)
--   NEIN: Blasen öffnen [AAOS:9]_
+-   NEIN: Salbe, Puder, etc. auf frische Brandwunde (:cite:`AAOS:9`; [PHTLS:6]_)
+-   NEIN: Blasen öffnen :cite:`AAOS:9`
 -   NEIN: festklebende Kleidung gewaltsam entfernen
 
 [TertialeNotfallIntensivmed:1]_

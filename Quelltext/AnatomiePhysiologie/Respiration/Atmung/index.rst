@@ -530,11 +530,11 @@ beschreiben [Klinke:3]_ [SchmidtPhysio:28]_
     Atemzugvolumen eines Erwachsenen beträgt ca. 500 ml. [#Azv]_
 
 #.  Das :dfn:`Atemzeitvolumen`
-    :index:`\ <! Atemminutenvolumen>`:index:`\ <! Atemzeitvolumen>`
-    (AZV, :math:`\dot{V}`̇)
+    :index:`\ <Atemminutenvolumen>`:index:`\ <Atemzeitvolumen>`
+    (AZV, :math:`\dot{V}`̇\ )
     beschreibt ein pro Zeiteinheit ein- bzw. ausgeatmetes Gasvolumen und wird meist in Liter pro Minute angegeben (Atemminutenvolumen, AMV).
 
-    Ca. 7,5 l/min in Ruhe (0,5 l \* 15 Atemzüge)
+    Ca. 7,5 L / min in Ruhe (0,5 l × 15 Atemzüge)
 
 
     .. math:: \rm Atemminutenvolumen = \rm Zugvolumen \times \rm Frequenz

@@ -3,7 +3,8 @@
 Literaturverzeichnis
 ***********************************************************************
 
-
+.. bibliography::
+   :style: alpha
 
 .. [AAOS:9]
     AAOS:

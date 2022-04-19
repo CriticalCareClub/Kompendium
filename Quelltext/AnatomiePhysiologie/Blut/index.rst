@@ -238,7 +238,7 @@ Es gibt folgende Blutzellen:
 
     Erythrozyt (rot), Thrombozyt (gelb) und Leukozyt (blau) im Rasterelektronenmikroskop (eingefärbt)
 
-    ₢ US National Cancer Institute :ref:`ℓ PD`
+    ₢ US National Cancer Institute :term:`ℓ PD`
 
 Der *Hämatokrit* spiegelt den prozentualen Anteil der Blutzellen am
 Gesamtblutvolumen wider (ca. 45%, Mann 47%, Frau 43%).

@@ -42,7 +42,7 @@ eine Pars cervicalis (Halsteil),
 eine Pars thoracica (Brustteil) und
 eine Pars abdominalis (Bauchteil) unterteilt.
 In seinem Verlauf zeigt er
-durch seine topographische Lage **drei Engstellen*:
+durch seine topographische Lage **drei Engstellen**:
 
 Die erste ist hinter dem Kehlkopf (Ringknorpel-Enge: Engste Stelle\ [#Ringknorpelenge]_).
 Die zweite Enge liegt an der Kreuzung von Aorta und der Speiseröhre  (Aorten-Enge).

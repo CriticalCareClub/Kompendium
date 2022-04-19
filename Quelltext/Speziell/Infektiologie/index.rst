@@ -6,8 +6,6 @@ Infektions- und Entzündungskrankheiten
 
 
 
-.. _allergie:
-
 ******************************************************
 Störungen des Immunsystems
 ******************************************************

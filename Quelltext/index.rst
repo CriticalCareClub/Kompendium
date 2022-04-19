@@ -92,3 +92,5 @@ Kompendium des CCCA
 
         .. git_changelog::
             :revisions: 1
+
+:cite:`test1`

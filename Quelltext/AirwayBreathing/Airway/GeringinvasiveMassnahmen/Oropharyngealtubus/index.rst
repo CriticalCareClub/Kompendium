@@ -19,15 +19,15 @@ da er die Zunge aus dem Weg räumt,
 bietet jedoch *keinen* Aspirationschutz.
 Erschwerend kann es durch Verletzungen zu Nasenbluten und damit
 wiederum zun einer Gefährung des Atemweges kommen.
-:ref:`Figure-GuedelTubusEinfuehren` ff. zeigt das Einführen und die
+:ref:`Figure-GuedelTubusEinfuehren-1` ff. zeigt das Einführen und die
 Lage des Guedel-Tubus.
 
 
 .. subfigstart::
 
 .. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus1.*
+    :name: Figure-GuedelTubusEinfuehren-1
 
-            Abmessen,
 
 .. raw:: latex
 

@@ -288,4 +288,4 @@ Zusammenfassung
         oder basisch werden.
 
 [AMLS:3]_,
-[AAOS:9]_,
+:cite:`AAOS:9`,

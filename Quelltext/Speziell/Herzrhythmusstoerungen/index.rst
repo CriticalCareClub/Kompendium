@@ -471,7 +471,7 @@ Demnach werden die AV-Blockaden werden in 3 Grade eingeteilt:
 Leichtere Formen des AV-Blockes können unbemerkt bleiben und bedürfen keiner Behandlung. Schwerere Formen (2°, 3°) führen zu einer Bradykardie und können eine Indikation für die Implantation eines passageren oder auch permanenten Schrittmachers (besonders 2° Typ Mobitz und 3°) darstellen.
 
 
-.. figure:: /WikipediaCcBySa-4.0-International/Heart_block.png
+.. figure:: /Bilder/WikipediaCcBySa-4.0-International/Heart_block.png
     :width: 100%
 
     EKG: Übersicht: AV-Blockaden

@@ -61,6 +61,7 @@ abgeschraubt und verschlossen werden.
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0112mm.*
             :width: 100%
+            :name: Figure-Absaugvorrichtungen
 
             Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)
 

@@ -9,7 +9,7 @@ Wirbelsäulen- und Rückenmarkstrauma
 
 Ein Wirbelsäulentrauma ist eine Gewalteinwirkung auf die Wirbelsäule,
 die zur Verschiebung, Verrenkung oder zur Fraktur von Wirbeln mit oder
-ohne Rückenmarkschädigung führt [Gorgass:7]_.
+ohne Rückenmarkschädigung führt :term:`🕮 Gorgass 7`.
 
 Typische Unfallmechanismen
 ==========================

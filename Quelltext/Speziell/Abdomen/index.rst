@@ -672,7 +672,7 @@ Zwölffingerdarmschleimhaut mit Substanzdefekt.
 
 Die häufigste Ursache für ein Magengeschwür ist eine
 chronische Infektion mit einem bestimmten Bakterium\ [#HP]_
-[Malfertheiner:2004]_.
+:term:`🕮 Malfertheiner 2004`.
 Bestimmte Medikamente\ [#MagenulcusMedi]_ schädigen die
 Magenschleimhaut und können bei häufiger Einnahme zu einem Geschwür
 führen. Auch andere Stoffe können auf chemisch-toxischen Weg zu einer

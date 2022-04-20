@@ -44,7 +44,7 @@ Druck im (arteriellen) Gefäßsystem, der **Blutdruck**, dieser
 sorgt dafür, dass das Gewebe von Blut durchflossen wird. Der arterielle
 Blutdruck lässt sich einfach mittels
 :ref:`Blutdruckmanschette <blutdruck>` messen
-[Klinke:3]_.
+:term:`🕮 Klinke 3`.
 
 Durch den Herzauswurf entsteht ein Druck im arteriellen Gefäßsystem,
 der **arterielle Blutdruck** (vgl. :ref:`blutdruck`).

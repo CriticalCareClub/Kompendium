@@ -20,7 +20,7 @@ Orientierung,
 Aufmerksamkeit,
 Auffassungsgabe,
 Denkverlauf und Merkfähigkeit*
-[Pschyrembel:259]_.
+:term:`🕮 Pschyrembel 259`.
 Es ist eine grundlegende
 **Vitalfunktion erster Ordnung**
 und wichtig hinsichtlich des Schutzes des Menschen vor Bedrohung.

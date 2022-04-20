@@ -117,7 +117,7 @@ Exkurs: Bewusstsein
 
     Bewusstsein\ [#fnBewusstsein]_ ist ein Oberbegriff für u.a. Wachheit, Orientierung,
     Aufmerksamkeit, Auffassungsgabe, Denkverlauf und Merkfähigkeit
-    [Pschyrembel:259]_.
+    :term:`🕮 Pschyrembel 259`.
 
 Es ist eine grundlegende
 *Vitalfunktion erster Ordnung*
@@ -138,5 +138,5 @@ zur Situation und zur Person). Details siehe :ref:`Bewusstseinsgrad`.
     Auch an dieser Stelle wird das Geheimnis nicht gelüftet
     werden,
     daher muss die obige Definition für den Alltag ausreichen.
-    Hinweisen zufolge könnte die Antwort eventuell "42" sein [Adams:1996]_.
+    Hinweisen zufolge könnte die Antwort eventuell "42" sein :term:`🕮 Adams 1996`.
 

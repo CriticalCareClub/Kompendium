@@ -8,7 +8,7 @@
 Pediatric Life Support (PLS)
 ============================
 
-Vgl. [ERC:2021:10]_
+Vgl. :term:`🕮 ERC 2021 10`
 
 Die Reanimation bei Kindern wird als *Pediatric Life Support* (*PLS*)
 bezeichnet. Während bei Erwachsenen der Großteil der Ursachen für einen
@@ -115,7 +115,7 @@ folgt beschrieben:
           - :download:`PLS</Bilder/EmhoferJosef-Ccc/ReanimationPls-2015-1.pdf>`
 
 Eine grafische Übersicht über dieses Vorgehen ist in
-:ref:`Figure-PlsAlgorithmus` dargestellt. [ERC:2021:10]_
+:ref:`Figure-PlsAlgorithmus` dargestellt. :term:`🕮 ERC 2021 10`
 
 
 Reanimation des Neugeborenen

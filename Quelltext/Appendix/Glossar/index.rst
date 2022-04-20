@@ -18,7 +18,7 @@ Abkürzungsverzeichnis und Glossar
         *lat.* *"Hüte Dich vor …"*. Auch: "Achtung, gib Acht!"
 
     Computertomographie
-    CT
+        CT
         *Syn.* *CT*. Röntgenuntersuchung, bei welcher Schnittbilder des
         Körpers erstellt werden. Dabei rotiert eine Röntgenröhre um den
         Patienten und sendet fächerförmig Röntgenstrahlen durch den Körper.
@@ -42,7 +42,7 @@ Abkürzungsverzeichnis und Glossar
         Infusion erfolgen.
 
     ETI
-    endotracheale Intubation
+        endotracheale Intubation
         Als :dfn:`endotracheale Intubation` (:dfn:`ETI`) wird das Einführen eines Tubus in
         die Trachea bezeichnet. Sie ist eine Maßnahme des invasiven
         Atemwegsmanagements und wird als Goldstandard hinsichtlich der Qualität
@@ -82,7 +82,7 @@ Abkürzungsverzeichnis und Glossar
         mit Unterbrechung wiederkehren
 
     Kapnographie
-    Kapnometrie
+        Kapnometrie
         Die Kapnometrie ist die Messung des *Kohlendioxid* (CO₂),
         welche in der Regel im Exspirationsschnekel durchgeführt wird.
         Als nummerischer Wert bei der quantitaviven Messung wird die

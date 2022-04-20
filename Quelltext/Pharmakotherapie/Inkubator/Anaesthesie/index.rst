@@ -157,7 +157,7 @@ Etomidate ist ein reines, mäßig effektives  Hypnotikum mit kurzer Halbwertszei
 Aufgrund der verhätnismäßig geringen Kreislaufdepression wird es gerne bei kardialen Risikopatientin oder im fortgeschrittenen Patientenalter eingesetzt.
 
 Etomidate führt zu einer primären **Nebennierensuppression** durch eine reversible Hemmung der 11β-Hydroxylase.
-Dies wird bei einer Vielzahl von akuten Erkrankungen mit einer **erhöhten Mortalität** und Morbidität in Verbindung gebracht. [Cuthbertson:2009]_ [Morris:2005]_ [Wagner:1984]_ ..
+Dies wird bei einer Vielzahl von akuten Erkrankungen mit einer **erhöhten Mortalität** und Morbidität in Verbindung gebracht. :term:`🕮 Cuthbertson 2009` :term:`🕮 Morris 2005` :term:`🕮 Wagner 1984` ..
 
 
 .. danger::

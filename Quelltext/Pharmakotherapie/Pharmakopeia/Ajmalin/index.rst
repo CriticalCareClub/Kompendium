@@ -10,38 +10,38 @@ Ajmalin
 
 :Spezialitäten:
 
-         *Gilurytmal* (10 / 50, 2 / 50 mg)
+    *Gilurytmal* (10 / 50, 2 / 50 mg)
 
 :Pharmakodynamik:
 
-         HWZ 95 min
+    HWZ 95 min
 
 :Pharmakokinetik:
 
-         Blockade von **Natriumkanälen**, *Klasse-Ia-Antiarrhythmikum*:
-         Hemmung des schnellen Natrium-Einstroms, dadurch Verringerung
-         der Geschwindigkeit und Verlängerung der Dauer der
-         Depolarisation.
+    Blockade von **Natriumkanälen**, *Klasse-Ia-Antiarrhythmikum*:
+    Hemmung des schnellen Natrium-Einstroms, dadurch Verringerung
+    der Geschwindigkeit und Verlängerung der Dauer der
+    Depolarisation.
 
-         Ajmalin wirkt sowohl auf den Vorhof als auch auf den Ventrikel
+    Ajmalin wirkt sowohl auf den Vorhof als auch auf den Ventrikel
 
 :Indikation:
 
-         Mittel der Wahl bei (*FBI*: Fast, Broad, Irregular;
-	 typisch bei Vorhofflimmern mit akzessorischer Bahn);
-	 Ventrikulare Tachykardie,
-	 Supraventrikuläre Tachykardie,
-	 WPW-Syndrom  [1]_,
-         LGL-Syndrom  [2]_.
+    Mittel der Wahl bei (*FBI*: Fast, Broad, Irregular;
+    typisch bei Vorhofflimmern mit akzessorischer Bahn);
+    Ventrikulare Tachykardie,
+    Supraventrikuläre Tachykardie,
+    WPW-Syndrom  [#WPW]_,
+    LGL-Syndrom  [#LGL]_.
 
 :Kontraindikationen:
 
-         Bradykardie, AV-Block, Schenkelblock, manifeste Herzinsuffizenz
-         (ausgen. durch Arrhythmie)
+    Bradykardie, AV-Block, Schenkelblock, manifeste Herzinsuffizenz
+    (ausgen. durch Arrhythmie)
 
 .. warning::
 
-         RR-Monitorkontrolle, Abbruch bei Verbreiterung der QRS-Komplexe
+    RR-Monitorkontrolle, Abbruch bei Verbreiterung der QRS-Komplexe
 
 
 
@@ -63,6 +63,6 @@ Ajmalin
 
 
 
-.. [1] Wolf-Parkinson-White-Syndrom
+.. [#WPW] Wolf-Parkinson-White-Syndrom
 
-.. [2] Lown-Gang-Levine-Syndrom
+.. [#LGL] Lown-Gang-Levine-Syndrom

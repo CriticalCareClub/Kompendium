@@ -68,7 +68,7 @@ Zeichen des Todes und Leichenzeichen
 ====================================
 
 Grundsätzlich gibt es Zeichen, die als *sichere Todeszeichen*
-gelten [Hochmeister:2]_ [Grassberger:1]_: 
+gelten :term:`🕮 Hochmeister 2` :term:`🕮 Grassberger 1`: 
 
 
 
@@ -303,6 +303,6 @@ Folgende Leitsätze können unter Umständen hilfreich sein:
 
 
 
-[NagelePalliativ:1]_
-[Hochmeister:2]_
+:term:`🕮 NagelePalliativ 1`
+:term:`🕮 Hochmeister 2`
 

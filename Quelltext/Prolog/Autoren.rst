@@ -19,11 +19,9 @@ Herausgeber und Redakteure
     \begin{multicols}{3}
 
 Josef Emhofer
-
     Mag., MSc
 
 Sebastian Gabriel
-
     Dr. med. univ.
 
     Facharzt für Anästhesiologie und Intensivmedizin,
@@ -35,7 +33,6 @@ Sebastian Gabriel
     Intensivmedizin, Krems an der Donau
 
 Lena Hirtler
-
     Priv.-Doz. Mag. DDr.
 
     Fachärztin für Anatomie
@@ -44,11 +41,9 @@ Lena Hirtler
     Abt. für Anatomie, Wien
 
 Christof Koller
-
     Mag. iur.
 
 Michael Motal
-
     Dr. med. univ., BA
 
     Facharzt für Anästhesiologie und Intensivmedizin
@@ -57,7 +52,6 @@ Michael Motal
     Schmerztherapie, Medizinische Universität Wien
 
 Johannes Steuer
-
     Dr. med. univ., M.Sc.
 
     Facharzt für Anästhesiologie und Intensivmedizin,
@@ -81,13 +75,11 @@ Autoren und Reviewer
     \begin{multicols}{3}
 
 Michael Auer
-
-  | Mag.
-  | Klinischer und Gesundheitspsychologe
-  | Sucht- und Drogenkoordination Wien, Institut für Suchtdiagnostik, Wien
+  Mag.
+  Klinischer und Gesundheitspsychologe
+  Sucht- und Drogenkoordination Wien, Institut für Suchtdiagnostik, Wien
 
 Elisabeth Hartl
-
   | Dr. med. univ.
   | Fachärztin für Innere Medizin
   | Landesklinikum Stockerau, 1. Medizinische Abteilung, Stockerau

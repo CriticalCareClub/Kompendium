@@ -66,7 +66,7 @@ diskutiert.
 Die derzeit aktuelle Version der ERC-Guidelines wurde,
 aufgrund der SARS-CoV-2-Pandemie um ein Jahr verspätet,
 im Jahr **2021** veröffentlicht
-(*ERC 2020/2021*, [ERC:2021:01]_),
+(*ERC 2020/2021*, :term:`🕮 ERC 2021 01`),
 die nächste Aktualisierung ist im Jahr 2025 zu erwarten.
 
 
@@ -86,28 +86,28 @@ Eine deutsche Übersetzung ist auf den Homepages der deutschen und der
 Die ERC-Guidelines sind in zwölf Sektionen unterteilt:
 
 1.  Kurzdarstellung
-    [ERC:2021:01]_
-2.  Epidemiologie [ERC:2021:02]_
-3.  Systems saving lives [ERC:2021:03]_
-4.  Basic Life Support [ERC:2021:04]_
+    :term:`🕮 ERC 2021 01`
+2.  Epidemiologie :term:`🕮 ERC 2021 02`
+3.  Systems saving lives :term:`🕮 ERC 2021 03`
+4.  Basic Life Support :term:`🕮 ERC 2021 04`
 5.  Erweiterte Reanimationsmaßnahmen für Erwachsene
     (*"Adult Advanced Life Support"*)
-    [ERC:2021:05]_
+    :term:`🕮 ERC 2021 05`
 6.  Kreislaufstillstand in besonderen Situationen
-    [ERC:2021:06]_
+    :term:`🕮 ERC 2021 06`
 7.  Postreanimationsbehandlung
-    [ERC:2021:07]_
+    :term:`🕮 ERC 2021 07`
 8.  Erste Hilfe
-    [ERC:2021:08]_
+    :term:`🕮 ERC 2021 08`
 9.  Die Versorgung und Reanimation des Neugeborenen
-    [ERC:2021:09]_
+    :term:`🕮 ERC 2021 09`
 10. Lebensrettende Maßnahmen bei Kindern
     (*"Paediatric Life Support"*)
-    [ERC:2021:10]_
+    :term:`🕮 ERC 2021 10`
 11. Ausbildung
-    [ERC:2021:11]_
+    :term:`🕮 ERC 2021 11`
 12. Ethik der Reanimation und Entscheidungen am Lebensende
-    [ERC:2021:12]_
+    :term:`🕮 ERC 2021 12`
 
 .. rubric:: Neu oder alt?
 

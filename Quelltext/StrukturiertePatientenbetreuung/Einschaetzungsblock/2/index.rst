@@ -124,7 +124,7 @@ Solange es noch unklar ist, ob eine WS-Immobilisation
 notwendig ist, muss eine manuelle Fixierung der HWS
 durchgeführt werden!
 
-[Campbell:2010:De]_ [Scholz:2]_
+[Campbell:2010:De]_ :term:`🕮 Scholz 2`
 
 
 

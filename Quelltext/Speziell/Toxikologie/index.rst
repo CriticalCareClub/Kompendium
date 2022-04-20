@@ -210,7 +210,7 @@ Chronische Schäden
 -   Anämie
 -   Pankreatitis
 -   Fetales Alkoholsyndrom (Schädigung des Fötus in der Schwangerschaft)
-    [Jones:1973]_ [Guerri:2009]_
+    :term:`🕮 Jones 1973` :term:`🕮 Guerri 2009`
 
 
 
@@ -406,7 +406,7 @@ Maßnahmen: Vergiftung mit Uppers
     -   |TxBeiVit| |TxMassVitMK|
 
 
-[Supady:2009]_
+:term:`🕮 Supady 2009`
 
 ****
 Gase

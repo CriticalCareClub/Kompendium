@@ -3,7 +3,7 @@ Terminologie
 ##################
 
 Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung
-mit anderem Fachpersonal. [Bertelsmann:25]_ [Pschyrembel:259]_
+mit anderem Fachpersonal. :term:`🕮 Bertelsmann 25` :term:`🕮 Pschyrembel 259`
 
 
 Allgemeine Begriffe: Klinik – Diagnose – Therapie
@@ -139,7 +139,7 @@ Stoffe
 
 :index:`Base`
     *Syn.* *Lauge*. Stoff, welcher Protonen aufnehmen kann.
-    Sie reagieren mit Säuren und bilden Salze. [SchmuckChemie:1]_
+    Sie reagieren mit Säuren und bilden Salze. :term:`🕮 SchmuckChemie 1`
 
 :index:`Enzym`
     Hilfsstoff, welcher eine chemische Reaktion (Umwandlung
@@ -150,7 +150,7 @@ Stoffe
 
 :index:`Säure`
     Stoff, welcher Protonen abgeben kann. Sie reagieren mit Basen und
-    bilden Salze. [SchmuckChemie:1]_.
+    bilden Salze. :term:`🕮 SchmuckChemie 1`.
 
 
 
@@ -161,7 +161,7 @@ Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 :index:`Chirurgie`
     Fachgebiet zur Erkennung und Behandlung von Erkrankungen, welche
     ohne operative Maßnahmen zu gesundheitlichen Schäden oder dem Tod
-    führen würden [Pschyrembel:259]_. Man kann weitere Spezialgebiete
+    führen würden :term:`🕮 Pschyrembel 259`. Man kann weitere Spezialgebiete
     unterscheiden, z. B. Allgemeinchirurgie (Bauch), Gefäßchirurgie,
     Herzchirurgie, Thoraxchirurgie, Kinderchirurgie, Plastische
     Chirurgie etc. Daneben gibt es noch viele andere operative Fächer.
@@ -396,7 +396,7 @@ Unfallchirurgische Diagnosen
 Im folgenden sind häufige (lateinische) Diagnosen bzw. Abkürzungen als
 Referenz angeführt, welche man häufig auf unfallchirurgischen
 Arztbriefen und Ambulanzprotokollen findet. Eine ausführliche
-Aufstellung findet sich in [Lippert:4]_\ .
+Aufstellung findet sich in :term:`🕮 Lippert 4`\ .
 Die Diagnosen werden durch :ref:`RichtungsLageangaben` ergänzt.
 
 

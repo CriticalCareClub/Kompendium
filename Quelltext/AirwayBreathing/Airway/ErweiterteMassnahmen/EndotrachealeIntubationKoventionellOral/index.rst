@@ -429,26 +429,28 @@ Intubation
 
 Erfolgskontrolle
 
-1.  *Stethoskop* dem Durchführenden in die Ohren klemmen
+31. *Stethoskop* dem Durchführenden in die Ohren klemmen
 
-2.  Beatmungsmaske vom Beatmungsbeutel trennen
+32. Beatmungsmaske vom Beatmungsbeutel trennen
 
-3.  *Beatmungsbeutel* an Tubus anschließen und halten
+33. *Beatmungsbeutel* an Tubus anschließen und halten
 
-4.  Auf Anweisung Atemhub verabreichen lassen
+34. Auf Anweisung Atemhub verabreichen lassen
 
-    *Lagekontrolle* mittels Auskulatation:
+35. *Lagekontrolle* mittels Auskulatation:
     (mind. 3 Atemhübe in Summe)
 
     -   Magengegend und
     -   beide Lungenflügel auskultieren,
         dabei jeweils Anweisung *"Atemhub"*
 
-5.  Beatmungsbeutel übernehmen
+36. *Lagekontrolle* mittels Auskulatation:
 
-6.  Einführen des **Beißkeils** oder des Guedel-Tubus
+37. *Lagekontrolle* klinisch: Atemexkursionen, Beschlagen des Tubus
 
-7.  **Fixierung** des Tubus und des Beißschutzes mittels
+38. Beatmungsbeutel übernehmen
+
+40. Einführen des **Beißkeils** oder des Guedel-Tubus und **Fixierung** des Tubus und des Beißschutzes mittels
     Mullbinde,
     Klebestreifen
     oder speziellen Fixationsmaterialien

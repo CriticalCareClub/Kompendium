@@ -7,7 +7,7 @@ Sonstige exportierte Sachen
 
 **Wünsche, Anregungen, Kritik?**
 
-http://aass.at/entwicklung
+https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues
 
 SO LONG.......... AND THANKS FOR ALL THE FISH
 

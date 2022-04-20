@@ -21,7 +21,7 @@ Eine :dfn:`Wunde`
 (*Lat.* (*Vuln.*)) ist eine
 Unterbrechung des Zusammenhangs von Körpergeweben durch mechanische,
 thermische, Strahlen- oder chemische Einwirkungen
-mit oder ohne Substanzverlust [Pschyrembel:259]_.\
+mit oder ohne Substanzverlust :term:`🕮 Pschyrembel 259`.\
 Wunden lassen
 sich *nach verschiedenen Gesichtspunkten* einteilen bzw. unterscheiden.
 In den folgende Abschnitten sind Einteilungen nach der physikalischen
@@ -44,7 +44,7 @@ Physikalische Verletzungsursache
 
 
 Eine Einteilung bezieht sich auf die *physikalische Verletzungsursache*
-[Pschyrembel:259]_:
+:term:`🕮 Pschyrembel 259`:
 
 #.  :dfn:`Mechanische Wunden`:
     Entstehen durch spitze oder
@@ -388,7 +388,7 @@ Maßnahmen: Basis-Wundversorgung
     steriler (NaCl 0,9%) von innen nach außen.
     Bei oberflächlichen
     Wunden ist auch ein Abspülen unter fließendem Leitungswasser
-    zulässig [Fernandez:2012]_\ .
+    zulässig :term:`🕮 Fernandez 2012`\ .
     Wunden, die im Spital
     weiter versorgt werden, sollen nicht übermäßig gereinigt werden,
     auch soll keine
@@ -400,7 +400,7 @@ Maßnahmen: Basis-Wundversorgung
     Desinfektion mittels Wunddesinfektionsmittels ist aufgrund der
     toxischen Wirkung auf das Gewebe nicht
     mehr standardmäßig empfohlen.
-    [Fernandez:2012]_ [Franz:2012]_ [Schupp:2009]_ [Marquardt:2010]_
+    :term:`🕮 Fernandez 2012` :term:`🕮 Franz 2012` :term:`🕮 Schupp 2009` :term:`🕮 Marquardt 2010`
 -   **Fremdkörper**
     (Messer, Schere oder sonstige Pfählungsgegenstände) sind
     **in der Wunde zu belassen**!
@@ -513,7 +513,7 @@ bestimmt:
 Grade
 =====
 
-Einteilung der Schweregrade [Shea:1975]_:
+Einteilung der Schweregrade :term:`🕮 Shea 1975`:
 
 -   *Grad 1*: Nicht wegdrückbare, umschriebene *Hautrötung* bei intakter
     Haut. Weitere klinische Zeichen können *Ödembildung, Verhärtung und
@@ -540,7 +540,7 @@ Lagerung bei Dekubitus und zur Prophylaxe
     weichen Kissen, die unter der Körperhälfte eingebracht werden, der
     Kopf ist durch ein kleines Kissen gestützt. Bei korrekter
     Durchführung kann man leicht unter das Kreuzbein oder den Trochanter
-    des Oberschenkelknochens fassen. [ThiemesPflege:12]_
+    des Oberschenkelknochens fassen. :term:`🕮 ThiemesPflege 12`
 -   :dfn:`135°-Lagerung`:
     Von der Seitenlage ausgehend wird
     der Patient auf eine zusammengerollte Decke oder zwei Pölster
@@ -548,11 +548,11 @@ Lagerung bei Dekubitus und zur Prophylaxe
     Trochanter ohne Druckbelastung ist.
     Der unten liegende Fuß kann durch
     einen schmalen Polster freigelagert werden.
-    [Biergans:Wundversorgung:2]_
+    :term:`🕮 Biergans Wundversorgung 2`
 -   :dfn:`5-Kissen-Weichlagerung`:
     Der Patient wird komplett
     auf 5 oder mehr Pölstern gelagert. Ziel ist das Freilegen bereits
-    geschädigter Bereiche. [ThiemesPflege:12]_
+    geschädigter Bereiche. :term:`🕮 ThiemesPflege 12`
 -   *Bauchlage* :index:`\ <Bauchlage>`
 
 Abhängig von Begleiterkrankungen oder -verletzungen können u.U. nicht
@@ -624,9 +624,9 @@ werden und eine individuelle Lösung gefunden werden.
 
 .. rubric:: Literatur
 
-[Biergans:Wundversorgung:2]_
-[ThiemesPflege:12]_
-[Grey:Wundversorgung:2]_
-[Kuester:1915]_
+:term:`🕮 Biergans Wundversorgung 2`
+:term:`🕮 ThiemesPflege 12`
+:term:`🕮 Grey Wundversorgung 2`
+:term:`🕮 Kuester 1915`
 
 

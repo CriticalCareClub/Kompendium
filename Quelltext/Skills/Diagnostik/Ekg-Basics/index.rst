@@ -156,7 +156,7 @@ Brustwandableitungen: [#123]_
     | *Lateral*: I, aVL, V5, V6
     | *Dorsal*: V7—V9
     | *Rechtes Herz*: V3R—V6R
-    | [Schuster:5]_
+    | :term:`🕮 Schuster 5`
 
 
 Extremitätenableitungen
@@ -194,7 +194,7 @@ gravierenden Fehldiagnosen kommen kann. [#124]_
     dokumentierten EKGs (und damit auch die im Rettungsdienst
     abgeleiteten) ein wichtiges Hilfsmittel, um das in der Akutsituation
     maßgebliche Koronargefäß zu identifizieren.
-    In [Schnelle:2006]_ wurde untersucht,
+    In :term:`🕮 Schnelle 2006` wurde untersucht,
     wie sich die Anbringungsstelle der Elektroden auf das EKG
     auswirken kann.
 
@@ -290,9 +290,9 @@ In der Praxis ergeben sich daraus zwei Anwendungsfälle:
 Literatur
 =========
 
-[Kaindl:7]_
-[Kuehn:2002:1]_
-[Kuehn:2003:2]_
-[Schuster:5]_
-[EcgEmergencyDec:2]_
-[Harrisons18DeKap228]_
+:term:`🕮 Kaindl 7`
+:term:`🕮 Kuehn 2002 1`
+:term:`🕮 Kuehn 2003 2`
+:term:`🕮 Schuster 5`
+:term:`🕮 EcgEmergencyDec 2`
+:term:`🕮 Harrisons 18 De Kap 228`

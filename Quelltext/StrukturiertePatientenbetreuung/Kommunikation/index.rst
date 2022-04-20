@@ -224,7 +224,7 @@ Jede Nachricht hat vier Aussagen [#Fn-VierAussagenEinerNachricht]_\ :
 
 
 .. [#Fn-VierAussagenEinerNachricht]
-    Nach Friedemann Schulz von Thun, [Thun:1981]_
+    Nach Friedemann Schulz von Thun, :term:`🕮 Thun 1981`
 
 Entscheidend in der Kommunikation ist die Tatsache,
 dass die gleiche
@@ -263,7 +263,7 @@ Als klassisches Beispiel ist die
 .. figure:: /Bilder/WikipediaCcBySa/SchulzVonThunVierOhrenModell-edited.*
 
     Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von
-    Thun [Thun:1981]_
+    Thun :term:`🕮 Thun 1981`
 
     ₢ User "Mussklprozz" auf Wikipedia, modifiziert
     :term:`ℓ CC BY-SA 3.0`

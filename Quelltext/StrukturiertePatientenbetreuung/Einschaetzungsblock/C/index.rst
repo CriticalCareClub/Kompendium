@@ -49,7 +49,7 @@ Herzleistung und Blutdruck
 Das Herz schlägt beim Erwachsenen mit einer *Herzfrequenz* (*HF*,
 bzw.
 *Pulsfrequenz*, *PF*)
-von 60—100 / min [Klinke:3]_.
+von 60—100 / min :term:`🕮 Klinke 3`.
 Bei Belastung kann die Herzfrequenz beträchtlich
 gesteigert werden.
 Durch die Pumpfunktion des Herzens entsteht der
@@ -172,7 +172,7 @@ Bei der Interpretation des Wertes muss daher immer bedacht werden:
   | **HF**               | [/ min]  | 140--180                   | 110-160             | 95-140                     | 80--120                 | 60--100                 | 60--100                  |
   +----------------------+----------+----------------------------+---------------------+----------------------------+-------------------------+-------------------------+--------------------------+
 
-[Lissauer:2007]_
+:term:`🕮 Lissauer 2007`
 
 
 ``STU`` — Schnelle Traumauntersuchung

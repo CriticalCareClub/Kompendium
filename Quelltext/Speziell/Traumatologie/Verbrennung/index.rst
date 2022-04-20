@@ -35,7 +35,7 @@ Verbrennung, Verbrühung, Verätzung
     :index:`\ <! scald>`
     (*Lat.* *Ambustio* (*Amb.*), *engl.* scald)
     ist eine thermische Schädigung durch heiße Flüssigkeit
-    oder Dampf\ [#303]_ [Pschyrembel:259]_.
+    oder Dampf\ [#303]_ :term:`🕮 Pschyrembel 259`.
 
 Verbrennungen reichen von kleinen Brandblasen bis
 schweren Schädigungen der Haut und der darunter liegenden Gewebe (z. B.
@@ -346,7 +346,7 @@ Maßnahmen: Verbrennung, schwer
         Bei großflächigen Verbrennungen können,
         wenn das sterile Material nicht ausreicht,
         zur Not auch saubere Leintücher o. ä.
-        verwendet werden [AAOS:9]_\ .
+        verwendet werden :term:`🕮 AAOS 9`,\ .
     -   Schockbekämpfung
     -   *Kolloidale* Infusionslösungen sind *kontraindiziert** [#KolloidaleLsgVerbrennung]_\ **!**
 
@@ -356,15 +356,15 @@ Maßnahmen: Verbrennung, schwer
 Was man **nicht** tun darf …
 ============================
 
--   NEIN: Salbe, Puder, etc. auf frische Brandwunde ([AAOS:9]_; [PHTLS:6]_)
--   NEIN: Blasen öffnen [AAOS:9]_
+-   NEIN: Salbe, Puder, etc. auf frische Brandwunde (:term:`🕮 AAOS 9`,; :term:`🕮 PHTLS 6`)
+-   NEIN: Blasen öffnen :cite:`AAOS:9`
 -   NEIN: festklebende Kleidung gewaltsam entfernen
 
-[TertialeNotfallIntensivmed:1]_
-[Kamolz:2009]_
+:term:`🕮 TertialeNotfallIntensivmed 1`
+:term:`🕮 Kamolz 2009`
 [Verbrennungsmed-2009Praehosp]_
-[Loennecker:2001]_
-[Beneker:2004]_
+:term:`🕮 Loennecker 2001`
+:term:`🕮 Beneker 2004`
 
 .. _inhalationstrauma:
 

@@ -238,7 +238,7 @@ Es gibt folgende Blutzellen:
 
     Erythrozyt (rot), Thrombozyt (gelb) und Leukozyt (blau) im Rasterelektronenmikroskop (eingefärbt)
 
-    ₢ US National Cancer Institute :ref:`ℓ PD`
+    ₢ US National Cancer Institute :term:`ℓ PD`
 
 Der *Hämatokrit* spiegelt den prozentualen Anteil der Blutzellen am
 Gesamtblutvolumen wider (ca. 45%, Mann 47%, Frau 43%).
@@ -571,9 +571,39 @@ Prägung, Reifung und Differenzierung dann in sekundär lymphatische
 Organe auswandern. Die Reifung der B-Lymphozyten findet im Knochenmark
 statt.
 
-Die *Milz* ist verantwortlich für den Abbau von zu alten Erythrozyten
-(sog. Blutmauser). Sie ist ca. faustgroß, 150 bis 200g schwer und hat
+
+.. index::
+   single: Milz
+   single: Lien
+   single: Splen
+
+Die Milz
+-------------------------------------------
+
+.. only:: not nosidebar
+
+    .. sidebar:: Milz
+
+        -   12 cm, oval, im linken Oberbauch unter den Rippen gelegen
+        -   Von *Kapsel* umgeben
+        -   Teil des Immunsystems, entfernt alte rote Blutkörperchen
+        -   Gut durchblutet!
+
+Die :dfn:`Milz` (*Lien*, *Splen*) ist ca. 12 cm groß, oval
+geformt und und liegt im linken Oberbauch, verdeckt von den Rippen.
+Sie ist nicht an der Verdauung beteiligt.
+
+Sie ist verantwortlich für den Abbau von zu alten Erythrozyten
+(sog. Blutmauser), weiters erfüllt sie zahlreiche Aufgaben im Rahmen der Infektabwehr. Bis zum sechsten Lebensjahr ist sie außerdem an der Blutbildung beteiligt.
+
+Sie ist ca. faustgroß, 150 bis 200 g schwer und hat
 die Form einer Kaffeebohne. Sie liegt unter dem Zwerchfell und
 Rippenbogen im linken Oberbauch. In ihrem Querschnitt kann man eine rote
-(80%) von einer weißen Pulpa unterscheiden. Das Milzparenchym ist von
-einer Kapsel umhüllt und durch Septen unterteilt.
+(80%) von einer weißen Pulpa unterscheiden.
+Ihre Vene mündet in
+die Pfortader. Damit sie ihre Aufgaben erfüllen kann, ist sie *sehr gut
+durchblutet*!
+Das Milzparenchym ist von
+einer festen *Bindegewebskapsel* umhüllt und durch Septen unterteilt.
+
+

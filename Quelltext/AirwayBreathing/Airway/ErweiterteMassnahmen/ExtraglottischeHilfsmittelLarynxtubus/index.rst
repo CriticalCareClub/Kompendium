@@ -25,7 +25,7 @@ Mageninhaltes gelegt werden kann (Magendrainagekanal).
 Trotz korrekter Anwendung kann es aufgrund von
 Leckagen zur Magenüberblähung kommen, daher sollen unbedingt, wenn
 verfügbar, nur Modelle mit einem Magendrainagekanal eingesetzt werden.
-[Dengler:2011]_ [Mann:2013]_
+:term:`🕮 Dengler 2011` :term:`🕮 Mann 2013`
 
 
 
@@ -38,7 +38,7 @@ Da ober- und unterhalb der Abzweigung zur Luftröhre abgedichtet ist,
 kann die Luft über den Kehlkopf und den Kehldeckel in die Luftröhre
 strömen und die Gefahr der Aspiration von Mageninhalt kann deutlich
 reduziert werden. Es sind verschiedene Größen je nach Körperlänge
-erhältlich. [Asai:2005]_
+erhältlich. :term:`🕮 Asai 2005`
 Im direkten Vergleich mit der Beatmung mittels
 Beatmungsmaske sind bei einer korrekten Anwendung des Larynxtubus
 folgende Vorteile gegeben:

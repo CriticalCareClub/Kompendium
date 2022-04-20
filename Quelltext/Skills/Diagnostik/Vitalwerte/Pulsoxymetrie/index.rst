@@ -34,7 +34,7 @@ die *Pulsfrequenz* an.
 Als *Messstelle* eignen sich meist leicht zugängliche Körperstellen
 (*Finger, Zeh, Ohrläppchen*) – die Herstellerangaben über die Eignung
 des Sensors für die gewünschte Messstelle müssen jedoch beachtet werden.
-[ArbeitstechnikenAZ:1]_
+:term:`🕮 ArbeitstechnikenAZ 1`
 
 
 

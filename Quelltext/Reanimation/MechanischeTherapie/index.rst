@@ -32,7 +32,7 @@ wurde,
 kann es einige Zeit dauern,
 bis das Herz wieder eine ausreichende mechanische Tätigkeit aufweist
 und ein ausreichender Spontankreislauf einsetzt
-[Sandroni:2008]_ [Skhirtladze:2010]_\ .
+:term:`🕮 Sandroni 2008` :term:`🕮 Skhirtladze 2010`\ .
 
 .. note::
 

@@ -590,4 +590,4 @@ Assistenz
 Literatur
 ************************************************************************
 
-[ArbeitstechnikenAZ:1]_
+:term:`🕮 ArbeitstechnikenAZ 1`

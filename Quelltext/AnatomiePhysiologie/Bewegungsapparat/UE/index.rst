@@ -2,14 +2,14 @@
 
 .. _untere-extremitaet:
 
-************************************
+
 Untere Extremität (Membrum inferius)
-************************************
+########################################################################
 
 Das Bein gilt als freie untere Extremität und kann in mehrere Bereiche
-eingeteilt werden - *Oberschenkel (Femur), Unterschenkel (Crus) und Fuß
-(Pes)*. Beim Fuß unterscheidet man weiters die *Fußwurzel (Tarsus), den
-Mittelfuß (Metatarsus) und die Zehen (Digiti)*.
+eingeteilt werden - **Oberschenkel** (Femur), **Unterschenkel** (Crus) und **Fuß**
+(Pes). Beim Fuß unterscheidet man weiters die *Fußwurzel* (*Tarsus*), den
+*Mittelfuß* (*Metatarsus*) und die *Zehen* (*Digiti*).
 
 
 .. figure:: /Bilder/WikipediaPd/Human_skeleton_lower-extr-edited.*
@@ -42,6 +42,9 @@ Zur unteren Extremität gehören folgende Skelett-Anteile:
     -   Ossa metatarsi (Mittelfußknochen) I-V
     -   Ossa digitorum (Zehenknochen):
         Phalanx proximalis, distalis I-V; media nur II-V (insg. 14 Ossa digitorum)!
+
+Knochen
+************************************************************************
 
 Beckenknochen (Os coxae)
 ========================
@@ -183,7 +186,7 @@ Digitus quintus
 .. _Beckenring:
 
 Pelvis (Beckenring)
-===================
+************************************************************************
 
 Das Becken ist ein ringförmiger Knochenverbund bestehend aus
 den beiden *Ossa coxae* (Hüftknochen)
@@ -245,7 +248,8 @@ Von superficial nach profund unterscheidet man:
     -   :deep:`M. bulbospongiosus`
     -   :deep:`M. isciocavernosus`
 
-
+Gelenke
+************************************************************************
 
 Articulatio coxae (Hüftgelenk)
 ==============================
@@ -280,7 +284,7 @@ Jeweils zwei Kreuzbänder, Seitenbänder sowie Menisken sorgen
 für die Stabilität in diesem Gelenk\ [#KniegelenkBaender]_.
 Weiters sorgt die
 *Patella* (*Kniescheibe*)  für eine bessere Kraftübertragung des
-Kniestreckers. [Petersen:1]_ [Mueller:1]_ [Schabus:1]_
+Kniestreckers. :term:`🕮 Petersen 1` :term:`🕮 Mueller 1` :term:`🕮 Schabus 1`
 
 Durch die Beteiligung der
 **Menisken**\ [#KniegelenkMenisken]_ (Gelenkskörper) ist das Kniegelenk
@@ -373,7 +377,7 @@ Artt. interphalangeales: zwischen den einzelnen Zehengliedern » Scharniergelenk
 
 
 Wichtige Muskeln der unteren Extremität
-=======================================
+************************************************************************
 
 .. list-table:: Wichtige Muskeln der unteren Extremität
     :widths: 15 60 25

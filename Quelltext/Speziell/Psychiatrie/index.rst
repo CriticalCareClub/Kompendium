@@ -368,7 +368,7 @@ Psychose
 
 :dfn:`Psychose` :index:`\ <Psychose>` ist eine allgemeine Bezeichnung für eine
 *psychische Störung* mit strukturellem *Wandel des Erlebens*
-[Pschyrembel:259]_. Man unterscheidet zwischen organischen, körperlich
+:term:`🕮 Pschyrembel 259`. Man unterscheidet zwischen organischen, körperlich
 begründbaren, und nicht-organischen, d. h. körperlich nicht begründbaren
 Psychosen. In beiden Gruppen kann man weitere Unterscheidungen treffen,
 vgl. :ref:`Table-psychosen-einteilung`. Körperliche Ursachen für Psychosen
@@ -379,7 +379,7 @@ Grundsätzlich muss bis zum Beweis des Gegenteils von einer
 werden!
 
 
-.. list-table:: Einteilung der Psychosen nach [Pschyrembel:259]_
+.. list-table:: Einteilung der Psychosen nach :term:`🕮 Pschyrembel 259`
     :name: Table-psychosen-einteilung
     :stub-columns: 1
 
@@ -447,8 +447,7 @@ Die :dfn:`Depression`
 :index:`\ <! Depression>`
 ist eine sehr häufige psychiatrische Erkrankung, welche durch gedrückte
 Stimmung, Interessensverlust, Freudlosigkeit, Antriebsminderung, erhöhte
-Ermüdbarkeit und Aktivitätseinschränkung charakterisiert ist
-[ICD10De]_.
+Ermüdbarkeit und Aktivitätseinschränkung charakterisiert ist.
 Die :dfn:`Manie`
 :index:`\ <! Manie>`
 ist dagegen ein
@@ -457,7 +456,7 @@ Willenssphäre sowie des Denkens.
 
 Die Depression ist eine sehr häufige Erkrankung ("Volkskrankheit"), etwa
 10% der Patienten einer allgemeinmedizinischen Praxis leiden unter ihr
-[Wunn:1]_. Sie tritt mit einer Vielzahl von unterschiedlichen
+:term:`🕮 Wunn 1`. Sie tritt mit einer Vielzahl von unterschiedlichen
 Symptomen auf und ist oft nur schwer von alltäglicher Verstimmung
 abzugrenzen.
 
@@ -476,7 +475,7 @@ Symptomen begleitet werden, wie Interessenverlust oder Verlust der
 Freude, Früherwachen, Morgentief, deutliche psychomotorische Hemmung,
 Agitiertheit, Appetitverlust, Gewichtsverlust und Libidoverlust.
 Abhängig von Anzahl und Schwere der Symptome ist eine depressive Episode
-als leicht, mittelgradig oder schwer zu bezeichnen [ICD10De]_. Im schweren Fällen kann es zum Übergang in ein
+als leicht, mittelgradig oder schwer zu bezeichnen. Im schweren Fällen kann es zum Übergang in ein
 *suizidales Syndrom* kommen (:ref:`suizidalität`).
 
 Die Episoden können regelmäßig wiederkommen (rezidivierende depressive
@@ -542,13 +541,13 @@ Beschwerden vortäuschen.
 
 .. rubric:: Siehe auch:
 
-[Thun:1981]_,
-[Thun:1989]_,
-[Thun:2010]_,
-[Argelander:2009]_,
-[Wunn:1]_,
-[Battegay:2]_,
-[Scholz:2]_
+:term:`🕮 Thun 1981`,
+:term:`🕮 Thun 1989`,
+:term:`🕮 Thun 2010`,
+:term:`🕮 Argelander 2009`,
+:term:`🕮 Wunn 1`,
+:term:`🕮 Battegay 2`,
+:term:`🕮 Scholz 2`
 
 
 

@@ -508,7 +508,10 @@ Erfolgskontrolle
     das Laryngoskop wird *immer in der linken Hand* gehalten.
 
 
-.. subfigstart::
+.. raw:: latex
+
+    \begin{ParWide}
+    \begin{multicols}{3}
 
 .. _Figure-BilderserieIntubation-1:
 
@@ -517,9 +520,7 @@ Erfolgskontrolle
 
     Zusammenbauen des Laryngoskops
 
-.. raw:: latex
 
-    \hfill
 
 .. _Figure-BilderserieIntubation-2:
 
@@ -528,9 +529,6 @@ Erfolgskontrolle
 
     Einsprühen des Tubus *in der Verpackung*
 
-.. raw:: latex
-
-    \hfill
 
 .. _Figure-BilderserieIntubation-3:
 
@@ -539,9 +537,7 @@ Erfolgskontrolle
 
     Präoxygenierung
 
-.. raw:: latex
 
-    \hfill
 
 .. _Figure-BilderserieIntubation-4:
 
@@ -561,9 +557,7 @@ Erfolgskontrolle
 
     Zureichen des Tubus (*rechte* Hand!)
 
-.. raw:: latex
 
-    \hfill
 
 .. _Figure-BilderserieIntubation-6:
 
@@ -572,9 +566,7 @@ Erfolgskontrolle
 
     Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus
 
-.. raw:: latex
 
-    \hfill
 
 .. _Figure-BilderserieIntubation-7:
 
@@ -583,9 +575,7 @@ Erfolgskontrolle
 
     Cuffen nach Entfernung des Führungsdrahtes
 
-.. raw:: latex
 
-    \hfill
 
 .. _Figure-BilderserieIntubation-8:
 
@@ -594,9 +584,7 @@ Erfolgskontrolle
 
     Stethoskop zureichen
 
-.. raw:: latex
 
-    \hfill
 
 .. _Figure-BilderserieIntubation-9:
 
@@ -605,9 +593,7 @@ Erfolgskontrolle
 
     Abhören des Patienten
 
-.. raw:: latex
 
-    \hfill
 
 .. _Figure-BilderserieIntubation-10:
 
@@ -616,9 +602,6 @@ Erfolgskontrolle
 
     Beißkeil (hier: Guedel-Tubus) einführen
 
-.. raw:: latex
-
-    \hfill
 
 .. _Figure-BilderserieIntubation-11:
 
@@ -627,9 +610,7 @@ Erfolgskontrolle
 
     Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!
 
-.. raw:: latex
 
-    \hfill
 
 .. _Figure-BilderserieIntubation-12:
 
@@ -639,12 +620,12 @@ Erfolgskontrolle
      Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in
      der Luftröhre zu bestätigen.
 
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieIntubation
 
-    Bilderserie: Intubation
 
+.. raw:: latex
+
+    \end{multicols}
+    \end{ParWide}
 
 .. todo:: `#109: Endotracheale Intubation: Komplikationen <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/109>`_
 

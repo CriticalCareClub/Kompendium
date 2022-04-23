@@ -2,7 +2,42 @@
 
 Wichtige Änderungen, redaktionell bearbeitet
 
-## [v4.0.0-beta.4](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/compare/v4.0.0-beta.3...v4.0.0-beta.4)
+## [v4.0.0-beta.5](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/compare/v4.0.0-beta.4...v4.0.0-beta.5) -- 2022-04-23
+
+### Fixed
+
+- fix #125: subfig: subfigures durch multicols ersetzt [`#125`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/issues/125)
+
+### Neu
+
+
+- PDF-Version kann nun heruntergeladen werden (sofern erstellt)
+  [`f883d35`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/f883d3554633180d5233f795e307231d969855b7)
+
+### Style
+
+- LaTeX-Style wieder aktiviert, kompiliert problemlos
+  [`4b61eeb`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/4b61eeb24266dd7d1528d4bcfb533f9a4a1d8827)
+
+
+### System
+
+- feat: Neues Deployment-Skript:
+  erstellt PDF-Version zum Herunterladen in der Web-Version
+[`a2608e1`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/a2608e149d58da072517eb946a3855c2cc64d009)
+- Update exclude patterns: Damit große TZeile beim Kompiliren ausgeklammert werden können und nur die jeweils relevanten teile kompiliert werden (Zeitersparnis)
+  [`5d1a7e8`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/5d1a7e824df00ea92462e2f2858ffd30a8bbef34)
+- add upload reminder to deployment toolchain script
+  [`b67422f`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/b67422ff6fa5c73fb62f08b9e634bafee7aeee0f)
+
+### Quelltext (Code)
+
+- refactor #125: Füllzwischenraum für LaTeX subfigures entfernt
+  [`4527801`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/4527801259788198a39e4d4225cece2183aaf932)
+
+-----
+
+## [v4.0.0-beta.4](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/compare/v4.0.0-beta.3...v4.0.0-beta.4) -- 2022-04-23
 
 
 ### Neu, Updates
@@ -42,6 +77,7 @@ Wichtige Änderungen, redaktionell bearbeitet
 - fix: stop License Files in _static beeing compiled
   [`21092e3`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/21092e3e650452bd70dffb80259437852a57214b)
 
+-----
 
 ## [v4.0.0-beta.3](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/compare/v4.0.0-beta.2...v4.0.0-beta.3) - 2022-04-20
 

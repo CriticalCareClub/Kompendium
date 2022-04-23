@@ -29,17 +29,11 @@ Lage des Guedel-Tubus.
     :name: Figure-GuedelTubusEinfuehren-1
 
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus2.*
 
             zuerst wird der Guedel-Tubus "verkehrt" herum eingeführt
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/GuedelTubus3.*
 

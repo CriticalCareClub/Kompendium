@@ -54,9 +54,6 @@ bzw. Abkz.: *1-, 2-, 3-VD*).
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaCcBy/Hk_coronary_bionerd.*
     :width: 100%
@@ -72,9 +69,6 @@ bzw. Abkz.: *1-, 2-, 3-VD*).
 
     ₢ WmCo "Bionerd", :term:`ℓ CC BY 3.0`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.*
     :width: 100%
@@ -254,9 +248,6 @@ Schäden am Herzmuskel bestehen.
         ₢ Patrick Lynch
         :term:`ℓ CC BY 2.5`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_infarct-00640.*
     :width: 100%
@@ -267,9 +258,6 @@ Schäden am Herzmuskel bestehen.
     C. Carl Jaffe MD, cardiologist.
     :term:`ℓ CC BY 2.5`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.*
     :width: 100%

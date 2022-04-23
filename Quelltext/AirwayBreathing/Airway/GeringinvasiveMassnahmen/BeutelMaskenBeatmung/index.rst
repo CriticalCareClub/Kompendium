@@ -77,9 +77,6 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 
             ₢ Ch. Pallinger  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Mundstuecke_32723_v2-AASS-0112mm.jpg
             :width: 100%
@@ -152,18 +149,12 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
 
             C-Griff
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
             :width: 100%
 
             und überstreckter Kopf
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.*
             :width: 100%

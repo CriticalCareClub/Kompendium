@@ -110,9 +110,6 @@ max. 120 / min).
 
             [Lena Hirtler, :term:`ℓ MfG`]
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-1.*
             :width: 100%
@@ -121,9 +118,6 @@ max. 120 / min).
 
             [Lena Hirtler, :term:`ℓ MfG`]
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Position-2.*
             :width: 100%

@@ -175,9 +175,6 @@ aus drei bis sieben Säulen:
 
             [Lena Hirtler, :term:`ℓ MfG`]
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.*
             :width: 100%
@@ -186,9 +183,6 @@ aus drei bis sieben Säulen:
 
             [Lena Hirtler, :term:`ℓ MfG`]
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
             :width: 100%

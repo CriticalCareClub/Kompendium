@@ -66,9 +66,6 @@ in Richtung der Zentralvenen.
 
     ₢ WMC ℓ ???
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Gallenblase.*
     :width: 100%
@@ -78,9 +75,6 @@ in Richtung der Zentralvenen.
     ₢ Lena Hirtler  :term:`ℓ MfG`
 
 
-.. raw:: latex
-
-    \hfill
 
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Pankreas-1.*

@@ -28,72 +28,48 @@ wird immer mit den *Füßen voran* getragen.
 
     Tuch aufbreiten
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch2b.jpg
     :width: 100%
 
     … die näher zum Patient liegende Hälfte umschlagen…
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch3b.jpg
     :width: 100%
 
     … die obere Hälfte nochmals Richtung Patient umschlagen…
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch4b.jpg
     :width: 100%
 
     … und das Tuch an den Patienten legen.
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch5b.jpg
     :width: 100%
 
     Patient leicht anheben und Tuch bis zur Hälfte unterschieben …
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch6b.jpg
     :width: 100%
 
     … Patient schonend zurück legen.
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch7b.jpg
     :width: 100%
 
     Von der anderen Seite ebenfalls leicht anheben und Tuch ausbreiten.
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch8b.jpg
     :width: 100%
 
     Zu dritt das Tuch fest anpacken …
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragetuch9b.jpg
     :width: 100%

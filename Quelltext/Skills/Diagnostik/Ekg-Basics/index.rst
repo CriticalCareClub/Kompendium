@@ -49,9 +49,6 @@ Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
 
     ₢ WMC:Hank, :term:`ℓ CC BY-SA 2.0 DE`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaCcBy/Reizleitungssystem_1.*
     :width: 100%

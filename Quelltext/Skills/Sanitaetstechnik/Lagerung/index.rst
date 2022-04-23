@@ -40,72 +40,48 @@ Siehe Bilderserie :ref:`Figure-lagerungsarten`\ [#152]_\ .
 
     Flachlagerung
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerung30gradb.jpg
     :width: 100%
 
     Lagerung mit 30° erhöhtem Oberkörper
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungoberkoerperhochb.jpg
     :width: 100%
 
     Lagerung mit stark erhöhtem Oberkörper
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungseiteb.jpg
     :width: 100%
 
     Seitenlagerung
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungkollaps2b.jpg
     :width: 100%
 
     Lagerung mit erhöhten Beinen.
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungkollaps1b.jpg
     :width: 100%
 
     Lagerung mit erhöhten Beinen unter Schonung der Wirbelsäule und des Beckens (bei Verdacht auf Wirbelsäulen- oder Beckenverletzungen)
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungabdomenb.jpg
     :width: 100%
 
     Lagerung zur Entspannung der Bauchdecke
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungthromboseb.jpg
     :width: 100%
 
     Lagerung mit erhöhter Extremität
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/lagerungembolieb.jpg
     :width: 100%

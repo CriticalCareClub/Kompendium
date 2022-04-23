@@ -203,18 +203,12 @@ im Kapitel :ref:`herzrhythmusstoerungen`, genauer besprochen.
 
     [WMC:Andersat, :term:`ℓ CC BY-SA 3.0`]
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.*
     :width: 100%
 
     Bei der Analyse und Schockabgabe darf niemand den Patienten berühren! ₢ Lena Hirtler, :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/Semi_automatic_defi_with_electrodes.png
     :width: 100%
@@ -225,9 +219,6 @@ im Kapitel :ref:`herzrhythmusstoerungen`, genauer besprochen.
 
     [WMC:Hborkyb, CC-BY-SA-2.5-US]
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaPd/AED_Symbol.*
     :width: 100%

@@ -182,9 +182,6 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
     ₢ Michael Motal :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
     :width: 100%
@@ -193,9 +190,6 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 
     ₢ :term:`HiLe` :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.*
     :width: 100%

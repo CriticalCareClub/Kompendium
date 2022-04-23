@@ -503,9 +503,6 @@ Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 
     [Christine Gabriel/KARPAT]
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielChristine-Ccc/staph-aureus-mrsa.*
     :width: 100%
@@ -516,9 +513,6 @@ Man spricht dann vom :dfn:`MRSA` :index:`\ <! MRSA>`
 
     [Christine Gabriel/KARPAT]
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielChristine-Ccc/amputat-us1.*
     :width: 100%

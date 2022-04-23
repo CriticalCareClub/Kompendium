@@ -105,16 +105,10 @@ Durchführung
 
     ₢ Ch. Pallinger  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.jpg
     :width: 100%
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/bz-wert_1214-00800.jpg
     :width: 100%

@@ -316,9 +316,6 @@ Lautstärkeempfindung.
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Mittelohr.*
     :width: 100%

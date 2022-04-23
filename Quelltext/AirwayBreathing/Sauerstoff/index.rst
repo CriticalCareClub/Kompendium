@@ -354,9 +354,6 @@ Sauerstoffmasken mit Reservoir [#BerieselungBeatmungsbeutel]_.
 
             ₢ Ch. Pallinger  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32987_v2-AASS-0112mm.*
 
@@ -364,9 +361,6 @@ Sauerstoffmasken mit Reservoir [#BerieselungBeatmungsbeutel]_.
 
             ₢ Ch. Pallinger  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Anton_32986_v2-AASS-0112mm.*
 

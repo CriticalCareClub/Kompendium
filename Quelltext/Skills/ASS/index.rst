@@ -304,9 +304,6 @@ Verabreichung: direktes Spritzen
 
     ₢ Michael Motal  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-aufziehen_4815-00800.*
     :width: 100%
@@ -315,9 +312,6 @@ Verabreichung: direktes Spritzen
 
     ₢ Michael Motal  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-kontrollieren_4824-00800.*
     :width: 100%
@@ -326,9 +320,6 @@ Verabreichung: direktes Spritzen
 
     ₢ Michael Motal  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/medi-verabreichen_4826_CLOSEUP-00800.*
     :width: 100%
@@ -337,9 +328,6 @@ Verabreichung: direktes Spritzen
 
     ₢ Michael Motal  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. subfigend::
     :width: 0.48
@@ -405,9 +393,6 @@ Vorgehen
 
     ₢ Christoph Pallinger :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Infusionsbeutel_33016-00943pt.*
     :width: 100%
@@ -424,9 +409,6 @@ Vorgehen
     Tropfkammer wird an der Infusionsflasche oder -beutel befestigt, die
     Tropfkammer ca. bis zur Hälfte gefüllt.
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Stellrad-Live-00441pt.*
     :width: 100%
@@ -434,9 +416,6 @@ Vorgehen
     Mit der Radklemme wird
     die Inf eschwindigkeit reguliert.
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-3WegHahn-Live-00441pt.*
     :width: 100%
@@ -445,9 +424,6 @@ Vorgehen
     3-Weg-Hahns können weitere Infusionen angeschlossen
     werden.
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-AnschlussVenflon-Live-00441pt.*
     :width: 100%

@@ -546,9 +546,7 @@ Erfolgskontrolle
 
     Zureichen des Laryngoskops (*linke* Hand!)
 
-.. raw:: latex
 
-    \hfill
 
 .. _Figure-BilderserieIntubation-5:
 

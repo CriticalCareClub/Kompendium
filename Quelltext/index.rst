@@ -26,6 +26,17 @@ Kompendium des CCCA
         :width: 100%
 
 
+.. sidebar:: Optionen
+
+    .. raw:: html
+
+        <a href="_static/CCCA-Kompendium.pdf">Das Kompendium des CCCA als <strong>PDF</strong></a>
+
+        <br><a href="genindex.html">Index</a>
+
+    `Projektseite (GitLab™) <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium>`_
+
+
 ..
     .. admonition:: Versionsverwaltung (Git-Archiv)
 
@@ -62,6 +73,7 @@ Kompendium des CCCA
     Speziell/index.rst
     Pharmakotherapie/index.rst
     Appendix/index.rst
+
 
 
 

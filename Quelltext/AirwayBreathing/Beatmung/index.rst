@@ -404,9 +404,6 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 
     ₢ Ch. Pallinger  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.*
     :width: 100%
@@ -426,9 +423,6 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 
     ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.*
     :width: 100%
@@ -441,9 +435,6 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 
     ₢ Ch. Pallinger  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/N-5/IMG_20140402_161824-01341px.jpg
     :width: 100%

@@ -198,9 +198,6 @@ Es gibt *zwei Arten von Klappen*:
 
     ₢ Lena Hirtler  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.*
     :width: 100%
@@ -209,9 +206,7 @@ Es gibt *zwei Arten von Klappen*:
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
-.. raw:: latex
 
-    \hfill
 
 .. subfigend::
     :width: 0.45
@@ -350,9 +345,6 @@ direkte Ionenströme die elektrische Erregung weiterleiten.
     Advanced Instructional Media
     ℓ CC-BY
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Herz-Erregungsleitungssystem.png
     :width: 100%

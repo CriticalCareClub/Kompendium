@@ -22,9 +22,6 @@ Technik eignet sich nur für kurze Distanzen.
 
     ₢ Michael Motal  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering2b.jpg
     :width: 100%
@@ -33,9 +30,6 @@ Technik eignet sich nur für kurze Distanzen.
 
     ₢ Michael Motal  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/tragering3b.jpg
     :width: 100%

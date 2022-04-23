@@ -440,9 +440,6 @@ Pressorezeptoren, Muskelarbeit, Hormone
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegung-frontal.*
     :width: 100%
@@ -452,9 +449,6 @@ Pressorezeptoren, Muskelarbeit, Hormone
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.*
     :width: 100%

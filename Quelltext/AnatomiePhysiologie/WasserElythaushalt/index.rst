@@ -204,9 +204,6 @@ oder Gelatine.
 
     ₢ WMC/pidalka44 ℓ ???
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaPd/Osmotische_druk.*
     :width: 100%

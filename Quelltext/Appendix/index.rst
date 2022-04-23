@@ -18,6 +18,7 @@ Appendix
     Lizenzen/index
     Literatur/index
     Glossar/index
+    ../CHANGELOG.md
 
 
 .. todolist::

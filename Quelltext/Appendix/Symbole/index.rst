@@ -210,6 +210,7 @@ Symbole und Sonderzeichen
     *   -   ☞
         -
         -   right pointing hand
+        -
 
 
 

@@ -2,22 +2,46 @@
 
 Wichtige Änderungen, redaktionell bearbeitet
 
-## [Unreleased](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/compare/v4.0.0-beta.3...HEAD)
+## [v4.0.0-beta.4](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/compare/v4.0.0-beta.3...v4.0.0-beta.4)
 
-### Commits
 
-- refactor(Appendix): Appendix-Dateistruktur [`8df18c3`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/8df18c36a32e08126c59235f9a965497d7588faf)
-- refactor: move and update CHANGELOG [`1883d43`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/1883d43cbab5a16055d7673858ed40f33863c5bd)
-- update: Sonderzeichen [`662ce09`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/662ce09015ca1baee93c463c6ec5a825c3f5619c)
-- try: Ersetze subfigure durch multicols (#125) [`5ef5b88`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/5ef5b880d642bde84646fee56c35e25beee449f9)
-- add(Appendix): Zeichen für Literaturreferenz (🕮) zu Symbolliste [`0991bb2`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/0991bb2c284632d8fa1ac83da0685f3781f2a3d0)
-- add(Appendix): Zeichen für Literaturreferenz (🕮) zu Symbolliste [`a22f827`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/a22f827bc0296d7bfe83203e7aa947b0133f4df5)
-- fix: falsche Schriftart für actdiag [`5dac98b`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/5dac98bc45e839fd784fb1db3827f70b7635372e)
-- fix: falsche Schriftart für actdiag [`aa9f0bd`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/aa9f0bdc6b3df14e44beba04d40593b766e0a380)
-- feat(CHANGELOG): add CHANGELOG to Appendix [`83bd68a`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/83bd68a1d1a65f4dadd564463e1ccde391241db3)
-- fix(Appendix): Anzahl der Tabellenspalten [`cbc9104`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/cbc910489aa373430a19dd9ec5eb67f055c0a2a4)
-- fix: add `*.tmp.md` to `.gitignore` [`d9d5fc3`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/d9d5fc3be4617457d97fbf2a135bc51e51a96e41)
-- fix: stop License Files in _static beeing compiled [`21092e3`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/21092e3e650452bd70dffb80259437852a57214b)
+### Neu, Updates
+
+- CHANGELOG nun ins Dokument integriert:
+  [`83bd68a`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/83bd68a1d1a65f4dadd564463e1ccde391241db3),
+  [`1883d43`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/1883d43cbab5a16055d7673858ed40f33863c5bd)
+- Update: Sonderzeichen-Liste
+  [`662ce09`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/662ce09015ca1baee93c463c6ec5a825c3f5619c)
+- add(Appendix): Zeichen für Literaturreferenz (🕮) zu Symbolliste
+  [`0991bb2`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/0991bb2c284632d8fa1ac83da0685f3781f2a3d0),
+  [`a22f827`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/a22f827bc0296d7bfe83203e7aa947b0133f4df5)
+
+### Style
+
+
+- Versuch: Ersetze subfigure durch multicols
+  [`#125`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/125):
+  - Versuch in *Bilderserie Intubation* in `AirwayBreathing/Airway/ErweiterteMassnahmen/EndotrachealeIntubationKoventionellOral/index.rst`
+    [`5ef5b88`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/5ef5b880d642bde84646fee56c35e25beee449f9)
+
+### Fix
+
+- fix: falsche Schriftart für actdiag-Grafiken
+  [`5dac98b`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/5dac98bc45e839fd784fb1db3827f70b7635372e),
+  [`aa9f0bd`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/aa9f0bdc6b3df14e44beba04d40593b766e0a380)
+
+### Struktur
+
+- Appendix-Gliederung neu (Changelog, Symbollisten)
+  [`8df18c3`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/8df18c36a32e08126c59235f9a965497d7588faf)
+
+### System
+
+- fix: add `*.tmp.md` to `.gitignore` (benötigt um temporäre Datei zur Changelog-Erstellung mittels `auto-changelog` zu ignorieren)
+  [`d9d5fc3`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/d9d5fc3be4617457d97fbf2a135bc51e51a96e41)
+- fix: stop License Files in _static beeing compiled
+  [`21092e3`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/21092e3e650452bd70dffb80259437852a57214b)
+
 
 ## [v4.0.0-beta.3](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/compare/v4.0.0-beta.2...v4.0.0-beta.3) - 2022-04-20
 

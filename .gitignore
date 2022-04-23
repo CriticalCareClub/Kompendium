@@ -10,5 +10,6 @@ _build
 */__pycache__/*
 *.sav
 *.bak
+*.tmp.md
 Import/
 Export/

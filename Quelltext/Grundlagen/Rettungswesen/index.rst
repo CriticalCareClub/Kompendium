@@ -593,9 +593,6 @@ mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifikation:
 
     ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.*
     :width: 100%
@@ -604,9 +601,6 @@ mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifikation:
 
     ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/Landeanflug-OE-XEC_IMG_1912_1.*
     :width: 100%

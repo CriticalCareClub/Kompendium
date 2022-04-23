@@ -149,9 +149,6 @@ Neurocheck
 
     ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/N-5/IMG_20150306_132141-01341px.jpg
     :width: 100%
@@ -160,54 +157,36 @@ Neurocheck
 
     ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro1.jpg
     :width: 100%
 
     Pupillenreaktion, Lichtscheue, Sehstörungen
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.jpg
     :width: 100%
 
     Kraftprobe an den Armen
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro3b.jpg
     :width: 100%
 
     Kraftprobe an den Beinen
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro4.jpg
     :width: 100%
 
     Nackensteifigkeit
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro5.jpg
     :width: 100%
 
     Nackensteifigkeit
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.jpg
     :width: 100%

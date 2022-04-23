@@ -159,9 +159,6 @@ vegetativen Nervensystems (:ref:`vegetatives-nervensystem`).
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/WS_Aufbau.*
 
@@ -172,9 +169,6 @@ vegetativen Nervensystems (:ref:`vegetatives-nervensystem`).
 
     ₢ Lena Hirtler, :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.*
 

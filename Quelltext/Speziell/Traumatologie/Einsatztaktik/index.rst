@@ -368,18 +368,12 @@ Folgeverletzungen zu verhindern.
 
     ₢ David Hauer :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/fremdkoerper-stich-messer-01.*
     :width: 100%
 
     Stich mit einem Küchenmesser. Das Messer verbleibt im Körper … 
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/fremdkoerper-stich-messer-02.*
     :width: 100%

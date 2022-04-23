@@ -194,9 +194,6 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 
     ₢ Lena Hirtler  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Duenndarm-Mesenterium.*
     :width: 100%
@@ -205,9 +202,6 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 
     ₢ Lena Hirtler  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Bauchfilm_Image_022.*
     :width: 100%

@@ -124,9 +124,6 @@ Todesangst.
 
     ₢ David Hauer :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/pneumothorax_xray_endstadium.*
     :width: 100%
@@ -145,9 +142,6 @@ Todesangst.
 
     ₢ David Hauer :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. subfigend::
     :width: 0.32

@@ -294,9 +294,6 @@ Der Larynxtubus ist unter :ref:`Larynxtubus` beschrieben.
 
     [Lena Hirtler, :term:`ℓ MfG`]
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/LageTubus-color.*
     :width: 100%
@@ -305,9 +302,6 @@ Der Larynxtubus ist unter :ref:`Larynxtubus` beschrieben.
 
     [Lena Hirtler, :term:`ℓ MfG`]
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/PositionGuedel-color.*
     :width: 100%

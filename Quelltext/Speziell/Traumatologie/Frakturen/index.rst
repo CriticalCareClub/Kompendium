@@ -162,9 +162,6 @@ vorsichtig vom Fuß abzieht.
 
     ₢ David Hauer :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/fraktur_fehlstellung_xray.*
     :width: 100%
@@ -173,9 +170,6 @@ vorsichtig vom Fuß abzieht.
 
     ₢ David Hauer :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaCcBy/fraktur-offen-finger.*
     :width: 100%

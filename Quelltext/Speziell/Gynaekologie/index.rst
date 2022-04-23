@@ -526,9 +526,6 @@ Nachgeburtsphase
 
     ₢ WMC: "Jeremykemp" ℓ PD
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaPd/Navelklem.*
     :width: 100%
@@ -537,9 +534,6 @@ Nachgeburtsphase
 
     ₢ WMC: "Harmid" ℓ PD
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaPd/Umbilicalstump.*
     :width: 100%

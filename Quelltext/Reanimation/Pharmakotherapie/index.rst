@@ -74,9 +74,6 @@ Endotrachealtubus (*ET*) zu geben, dies wird nicht mehr empfohlen.
     Ventrikuläre Tachykardie und Bewegungsartefakte durch die
     Herzdruckmassage.
 
-.. raw:: latex
-
-    \hfill
 
 .. _fig-cc-teddy-25:
 

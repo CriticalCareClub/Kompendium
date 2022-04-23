@@ -104,9 +104,6 @@ Venenzugang und Infusion, Beatmung und Intubation).
 
     ₢ Sebastian Gabriel :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-teamwork-arzt-sani.jpg
     :width: 100%
@@ -116,9 +113,6 @@ Venenzugang und Infusion, Beatmung und Intubation).
 
     ₢ Sebastian Gabriel :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-alle.jpg
     :width: 100%
@@ -392,6 +386,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
 
 .. subfigstart::
+    :columns: 2
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/traumacheck1.jpg
     :width: 100%
@@ -400,9 +395,6 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     ₢ Michael Motal :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/gef-wind-rauch2.*
     :width: 100%
@@ -411,9 +403,6 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     ₢ Sebastian Gabriel :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00518-0154pt-0300dpi.*
     :width: 100%
@@ -422,9 +411,6 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     ₢ —
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi.*
     :width: 100%
@@ -453,9 +439,6 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     ₢ Michael Motal :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.*
     :width: 100%
@@ -463,10 +446,6 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     Versorgung nach einem Verkehrsunfall
 
     ₢ Sebastian Gabriel :term:`ℓ MfG`
-
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0030mm.*
     :width: 100%
@@ -495,9 +474,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     ₢ Sebastian Gabriel :term:`ℓ MfG`
 
-.. raw:: latex
 
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/bh_ith_00800.jpg
     :width: 100%
@@ -506,9 +483,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     ₢ Sebastian Gabriel :term:`ℓ MfG`
 
-.. raw:: latex
 
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/DIF2010-000816-0154pt-0300dpi.*
     :width: 100%
@@ -539,9 +514,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     ₢ Sebastian Gabriel :term:`ℓ MfG`
 
-.. raw:: latex
 
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00568-0154pt-0300dpi.*
     :width: 100%
@@ -570,9 +543,6 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     ₢ Sebastian Gabriel :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/tae-okt26-bundesheer1.jpg
     :width: 100%
@@ -582,9 +552,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
 
     ₢ Sebastian Gabriel :term:`ℓ MfG`
 
-.. raw:: latex
 
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/IMG_1853_1.jpg
     :width: 100%
@@ -705,7 +673,6 @@ Sonderfächer für die man sich qualifizieren kann.
     single: Notarzt
     single: Notarzt; Leitender
     single: Leitender Notarzt
-
 
 Der Arzt im Rettungs- und Krankentransportdienst
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

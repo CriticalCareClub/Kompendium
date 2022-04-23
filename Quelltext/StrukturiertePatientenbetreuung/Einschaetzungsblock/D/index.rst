@@ -170,9 +170,6 @@ Typische Maßnahmen
 
     ₢ Gabriel :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro2.*
     :width: 100%
@@ -181,9 +178,6 @@ Typische Maßnahmen
 
     ₢ Michael Motal :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/MotalMichael-Ccc/00800/neuro6.*
     :width: 100%

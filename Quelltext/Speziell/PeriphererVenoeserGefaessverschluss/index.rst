@@ -186,9 +186,6 @@ Es entsteht eine *Lungenembolie*.
 
     ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/GabrielSebastian-Ccc/lovenox1.*
     :width: 100%
@@ -203,9 +200,6 @@ Es entsteht eine *Lungenembolie*.
 
     ₢ Sebastian Gabriel  :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.*
     :width: 100%

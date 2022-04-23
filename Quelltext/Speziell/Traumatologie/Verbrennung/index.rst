@@ -186,9 +186,6 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     ₢ Trent Easton; de.wikipedia  ℓ  PD
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/VerbrennungGrad2a-00441pt.*
     :width: 100%
@@ -197,9 +194,6 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     ₢ Yunaerith; WMC  ℓ CC-BY-SA 3.0 unported
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/WikipediaCcBySa/Verbrennung_3gradig01.*
     :width: 100%
@@ -209,9 +203,6 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
     ₢ Sushma Koirala Memorial Hospital, Dr. Andreas Settje; WMC
     ℓ CC-BY-SA 3.0 unported
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-01.*
     :width: 100%
@@ -220,9 +211,6 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     ₢ David Hauer :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-02-hand.*
     :width: 100%
@@ -231,9 +219,6 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
     ₢ David Hauer :term:`ℓ MfG`
 
-.. raw:: latex
-
-    \hfill
 
 .. figure:: /Bilder/HauerDavid-Ccc/combustio-sa-03-escharotomie.*
     :width: 100%

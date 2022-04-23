@@ -34,46 +34,10 @@ Appendix
         -
         -
         -   Lizenz
-    *   -   ⚠
-        -   26a0
-        -   Attention
-        -   Achtung! Cave!
     *   -   ☠
         -
         -   Poison
         -   besondere, lebensbedrohliche Gefahr
-    *   -   ☣
-        -   2623
-        -   Biohazard
-        -   infektiös, infektiöse Gefahr
-    *   -   ⚕
-        -   2695
-        -   Medical
-        -   Ärzte betreffend
-    *   -   ⚖
-        -   2696
-        -   Scales
-        -   rechtlich
-    *   -   🅷
-        -   1f177
-        -   Hospital H
-        -   innerklinisch
-    *   -   🚑
-        -   1f691
-        -   Ambulance
-        -   den Rettungsdienst betreffend
-    *   -   🕏
-        -   1f54f
-        -   Bowl of Hygieia
-        -   Pharmakotherapie
-    *   -   ⛑
-        -   26d1
-        -   Helmet with white cross
-        -   Sanitäter betreffend
-    *   -   🞺
-        -   1f7ba
-        -   Star of Life
-        -   die Notfallmedizin allgemein betreffend
     *   -   ①②③④
         -
         -   1234
@@ -103,44 +67,163 @@ Appendix
         -
         -   malefemale
         -   Männer und Frauen betreffend
+    *   -   ℞
+        -   211E
+        -   Prescription Take
+        -
+    *   -   ☏
+        -   260F
+        -   White Telephone
+        -
+    *   -   ☢
+        -   2622
+        -   Radioactive Sign
+        -   radioaktiv, atomare Gefahr
+    *   -   ☣
+        -   2623
+        -   Biohazard
+        -   infektiös, infektiöse Gefahr
+    *   -   ☤
+        -   2624
+        -   Caduceus
+        -   nicht-ärztliche medizinische Fachberufe betreffend
+    *   -   ☮
+        -   262E
+        -   Peace Symbol
+        -
+    *   -   ♺
+        -   267A
+        -   Recycling Symbol for Generic Materials
+        -   Nachbereitung, Wiederaufbereitung
+    *   -   ⚐
+        -   2690
+        -   white flag
+        -
+    *   -   ⚑
+        -   2691
+        -   black flag
+        -
     *   -   ⚒
         -   2692
         -   Hammer and Pick
         -   in Diskussion,
             Lehrmeinung im Fluss,
             mit Änderungen ist zu rechnen
-    *   -   ⚡
-        -   26A1
-        -   High Voltage Sign
-        -   Schmerz
-    *   -   ⚗
+    *   -   ⚓
+        -   2693
+        -   Anchor
         -
+    *   -   ⚔
+        -   2694
+        -   Crossed Swords
+        -   Konflikt, Widerspruch
+    *   -   ⚕
+        -   2695
+        -   Medical
+        -   Ärzte betreffend
+    *   -   ⚖
+        -   2696
+        -   Scales
+        -   rechtlich
+    *   -   ⚗
+        -   2697
         -   chemical
         -   Stoff, chmische Zusammensetzung
     *   -   ⚙
         -   2699
         -   gear
         -   Mechanismus, Wirkmechanismus
-    *   -   ☢
-        -   2622
-        -   Radioactive Sign
-        -   radioaktiv, atomare Gefahr
-    *   -   ♺
-        -   267A
-        -   Recycling Symbol for Generic Materials
-        -   Nachbereitung, Wiederaufbereitung
-    *   -   ⚔
-        -   2694
-        -   Crossed Swords
-        -   Konflikt, Widerspruch
-    *   -   ☤
-        -   2624
-        -   Caduceus
-        -   nicht-ärztliche medizinische Fachberufe betreffend
-    *   -   🕮
-        -   ???
+    *   -   ⚛
+        -   269B
+        -   Atom Symbol
         -
+    *   -   ⚠
+        -   26a0
+        -   Attention
+        -   Achtung! Cave!
+    *   -   ⚡
+        -   26A1
+        -   High Voltage Sign
+        -   Schmerz
+    *   -   ⛑
+        -   26d1
+        -   Helmet with white cross
+        -   Sanitäter betreffend
+    *   -   ⛫
+        -   26eb
+        -   Castle
+        -
+    *   -   ⛳
+        -   26f3
+        -   Target
+        -
+    *   -   🅷
+        -   1f177
+        -   Hospital H
+        -   innerklinisch
+    *   -   🏥
+        -   1f3e5
+        -   Emoji Hospital
+        -
+    *   -   💊
+        -   Pill
+        -   1F48A
+        -
+    *   -   🔍
+        -   1F50D
+        -   Left-Pointing Magnifying Glass
+        -
+    *   -   🔎
+        -   Right-Pointing Magnifying Glass
+        -   1F50E
+        -
+    *   -   🔬
+        -   1F52C
+        -   Microscope
+        -
+    *   -   🕏
+        -   1f54f
+        -   Bowl of Hygieia
+        -   Pharmakotherapie
+    *   -   🕮
+        -   1F56E
+        -   Book
         -   Literaturreferenz
+    *   -   🚑
+        -   1f691
+        -   Ambulance
+        -   den Rettungsdienst betreffend
+    *   -   🞺
+        -   1f7ba
+        -   Star of Life
+        -   die Notfallmedizin allgemein betreffend
+    *   -   🦠
+        -   1F9A0
+        -   Microbe
+        -
+    *   -   🧪
+        -   1F9EA
+        -   Test Tube
+        -
+    *   -   🧫
+        -   1F9EB
+        -   Petri Dish
+        -
+    *   -   🧬
+        -   1F9EC
+        -   Dna Double Helix
+        -
+    *   -   🩸
+        -   1FA78
+        -   Drop Of Blood
+        -
+    *   -   🩹
+        -   1FA79
+        -   Adhesive Bandage
+        -
+    *   -   ☞
+        -
+        -   right pointing hand
 
 
 
@@ -153,18 +236,6 @@ Appendix
         -   Unicode
         -   Name
         -   CCCA: Besondere Bedeutung
-    *   -   ☞
-        -
-        -   right pointing hand
-        -
-    *   -   ⚑
-        -   2691
-        -   black flag
-        -
-    *   -   ⚐
-        -   2690
-        -   white flag
-        -
     *   -   ≈
         -
         -   approx
@@ -201,18 +272,6 @@ Appendix
         -
         -   Quadratmeter
         -
-    *   -   ⛫
-        -   26eb
-        -   Castle
-        -
-    *   -   ⛳
-        -   26f3
-        -   Target
-        -
-    *   -   🏥
-        -   1f3e5
-        -   Emoji Hospital
-        -
     *   -   Ⓛ
         -
         -   L
@@ -220,66 +279,6 @@ Appendix
     *   -   ⓧ
         -
         -   X
-        -
-    *   -   ☏
-        -   260F
-        -   White Telephone
-        -
-    *   -   ☮
-        -   262E
-        -   Peace Symbol
-        -
-    *   -   ⚛
-        -   269B
-        -   Atom Symbol
-        -
-    *   -   ⚓
-        -   2693
-        -   Anchor
-        -
-    *   -   ℞
-        -   211E
-        -   Prescription Take
-        -
-    *   -   💊
-        -   Pill
-        -   1F48A
-        -
-    *   -   🦠
-        -   1F9A0
-        -   Microbe
-        -
-    *   -   🩸
-        -   1FA78
-        -   Drop Of Blood
-        -
-    *   -   🩹
-        -   1FA79
-        -   Adhesive Bandage
-        -
-    *   -   🔬
-        -   1F52C
-        -   Microscope
-        -
-    *   -   🧪
-        -   1F9EA
-        -   Test Tube
-        -
-    *   -   🧫
-        -   1F9EB
-        -   Petri Dish
-        -
-    *   -   🧬
-        -   1F9EC
-        -   Dna Double Helix
-        -
-    *   -   🔍
-        -   1F50D
-        -   Left-Pointing Magnifying Glass
-        -
-    *   -   🔎
-        -   Right-Pointing Magnifying Glass
-        -   1F50E
         -
     *   -
         -

@@ -66,6 +66,7 @@ Kompendium des CCCA
 
 
 
+
 .. only:: html
 
     .. image:: /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg

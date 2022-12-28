@@ -67,10 +67,10 @@ Dieses Werk ist in Entwicklung und gegenwärtig nicht zur Veröffentlichung best
 | A-1200 Wien – AUSTRIA
 
 E-Mail:
-    office@criticalcareclub.at
+    office@criticalcare.at
 
 Homepage:
-    http://www.criticalcareclub.at
+    http://www.criticalcare.at
 
 ZVR:
     846678982

@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#107C31",
+			"titleBar.activeBackground": "#1b2c72",
+			"titleBar.activeForeground": "#ffffff"
+		},
+		"cSpell.words": [
+			"Adrenorezeptoren"
+		],
+		"esbonio.sphinx.confDir": ""
+	}
+}

@@ -13,71 +13,58 @@ wurden.
 Herausgeber und Redakteure
 **************************
 
-.. raw:: latex
+..
+    .. raw:: latex
 
-    \begin{ParWide}
-    \begin{multicols}{3}
+        \begin{ParWide}
+        \begin{multicols}{3}
 
 Josef Emhofer
-    Mag., MSc
+    | Mag., MSc
 
 Sebastian Gabriel
-    Dr. med. univ.
-
-    Facharzt für Anästhesiologie und Intensivmedizin,
-    Notarzt,
-    Arzt für Allgemeinmedizin
-
-    Universitätsklinikum Krems, Karl Landsteiner Privatuniversität für
-    Gesundheitswissenschaften, Klinische Abt. für Anästhesie und
-    Intensivmedizin, Krems an der Donau
+    | Dr. med. univ.
+    | Facharzt für Anästhesiologie und Intensivmedizin, Notarzt, Arzt für Allgemeinmedizin
+    | Universitätsklinikum Krems, Karl Landsteiner Privatuniversität für Gesundheitswissenschaften, Klinische Abt. für Anästhesie und Intensivmedizin, Krems an der Donau
 
 Lena Hirtler
-    Priv.-Doz. Mag. DDr.
-
-    Fachärztin für Anatomie
-
-    Medizinische Universität Wien, Zentrum für Anatomie und Zellbiologie,
-    Abt. für Anatomie, Wien
+    | Priv.-Doz. Mag. DDr.
+    | Fachärztin für Anatomie
+    | Medizinische Universität Wien, Zentrum für Anatomie und Zellbiologie, Abt. für Anatomie, Wien
 
 Christof Koller
     Mag. iur.
 
 Michael Motal
-    Dr. med. univ., BA
-
-    Facharzt für Anästhesiologie und Intensivmedizin
-
-    Universitätsklinik für Anästhesie, Allgemeine Intensivmedizin und
-    Schmerztherapie, Medizinische Universität Wien
+    | Dr. med. univ., BA
+    | Facharzt für Anästhesiologie und Intensivmedizin
+    | Universitätsklinik für Anästhesie, Allgemeine Intensivmedizin und Schmerztherapie, Medizinische Universität Wien
 
 Johannes Steuer
-    Dr. med. univ., M.Sc.
+    | Dr. med. univ., M.Sc.
+    | Facharzt für Anästhesiologie und Intensivmedizin, Notarzt
+    | Sozialmedizinisches Zentrum Floridsdorf Krankenhaus der Stadt Wien, Abteilung für Anästhesie und Intensivmedizin, Wien
 
-    Facharzt für Anästhesiologie und Intensivmedizin,
-    Notarzt
+..
+    .. raw:: latex
 
-    Sozialmedizinisches Zentrum Floridsdorf Krankenhaus der Stadt Wien,
-    Abteilung für Anästhesie und Intensivmedizin, Wien
-
-.. raw:: latex
-
-    \end{multicols}
-    \end{ParWide}
+        \end{multicols}
+        \end{ParWide}
 
 ********************
 Autoren und Reviewer
 ********************
 
-.. raw:: latex
+..
+    .. raw:: latex
 
-    \begin{ParWide}
-    \begin{multicols}{3}
+        \begin{ParWide}
+        \begin{multicols}{3}
 
 Michael Auer
-  Mag.
-  Klinischer und Gesundheitspsychologe
-  Sucht- und Drogenkoordination Wien, Institut für Suchtdiagnostik, Wien
+  | Mag.
+  | Klinischer und Gesundheitspsychologe
+  | Sucht- und Drogenkoordination Wien, Institut für Suchtdiagnostik, Wien
 
 Elisabeth Hartl
   | Dr. med. univ.
@@ -85,19 +72,18 @@ Elisabeth Hartl
   | Landesklinikum Stockerau, 1. Medizinische Abteilung, Stockerau
 
 David Hauer
-
   | Dr. med. univ.
   | Landesklinikum Amstetten
 
 Gerhard Gabriel
-
   | Dr. med. univ.
   | Facharzt für Innere Medizin, Langenzersdorf
 
-.. raw:: latex
+..
+    .. raw:: latex
 
-    \end{multicols}
-    \end{ParWide}
+        \end{multicols}
+        \end{ParWide}
 
 ****************************************
 Technische und künstlerische Mitarbeiter
@@ -108,11 +94,9 @@ Technische und künstlerische Mitarbeiter
     \begin{ParWide}
     \begin{multicols}{3}
 
--  Mirko Fina, Mag.
-
--  Christoph Pallinger
-
--  Ulrich Zehl, MSc.
+-   Mirko Fina, Mag.
+-   Christoph Pallinger
+-   Ulrich Zehl, MSc.
 
 .. raw:: latex
 
@@ -128,9 +112,8 @@ Mitwirkende
     \begin{ParWide}
     \begin{multicols}{3}
 
--  Christine Gabriel, Dr. med. univ.
-
--  Bernhard Göritzer, Dr. med. univ.
+-   Christine Gabriel, Dr. med. univ.
+-   Bernhard Göritzer, Dr. med. univ.
 
 Weiters danken wir allen Einsendern, welche uns Fehler gemeldet und uns
 mit ihrer konstruktiven Kritik unterstützt haben.

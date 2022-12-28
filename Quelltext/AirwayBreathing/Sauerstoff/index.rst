@@ -165,12 +165,12 @@ multipliziert:
 .. math::
 
     \notag
-    \text{Verfügbares Volumen in L} = {\begin{array}{c}
-    \text{Volumen der Flasche in L}\\
-    \text{(Füllgröße)} \end{array}}
+    \rm{Verfügbares Volumen in L} = {\begin{array}{c}
+    \rm{Volumen der Flasche in L}\\
+    \rm{(Füllgröße)} \end{array}}
     \times
     \begin{array}{c}{\text{Druck in bar}}\\
-    \text{(Flaschendruck)}
+    \rm{(Flaschendruck)}
     \end{array}\notag
 
 Zur Berechnung,

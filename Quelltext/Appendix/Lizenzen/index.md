@@ -410,15 +410,13 @@ Ganzes unter diesen Lizenzen lizensiert sind!
 \scriptsize
 ```
 
-::::{glossary}
+{.glossary}
 CC
-
 : *Creative Commons*. Sammelbegriff für die Lizenzen der Creative
   Commons-Initiative, ohne nähere Angabe der Sublizenz. Alternativ
   kann auch das Symbol !!! CREATIVECOMMONS !!! verwendet werden.
 
 CC BY
-
 : *Creative-Commons Attribution Unported*
 
   Kurzfassung (ohne Gewähr):
@@ -432,22 +430,18 @@ CC BY
   <http://creativecommons.org/licenses/by/1.0/>
 
 ℓ CC BY 2.0
-
 : *Creative-Commons Attribution Unported 2.0*:
   <http://creativecommons.org/licenses/by/2.0/>
 
 ℓ CC BY 2.1
-
 : *Creative-Commons Attribution Unported 2.1*:
   <http://creativecommons.org/licenses/by/2.1/>
 
 ℓ CC BY 2.5
-
 : *Creative-Commons Attribution Unported 2.5*:
   <http://creativecommons.org/licenses/by/2.5/>
 
 ℓ CC BY 3.0
-
 : :::{image} /Bilder/Logos/FreeCulturalWorks_seal_x2.jpeg
   :align: right
   :width: 15%
@@ -458,7 +452,6 @@ CC BY
   <https://creativecommons.org/licenses/by/3.0/>
 
 ℓ CC BY AUT 3.0
-
 : *Creative-Commons Namensnennung 3.0 Österreich*
 
   <http://creativecommons.org/licenses/by/3.0/at/>
@@ -470,55 +463,45 @@ CC BY
   in der von ihm festgelegten Weise nennen (*Namensnennung*).
 
 ℓ CC BY-NC 2.5
-
 : *Creative-Commons Attribution Non-Commercial 2.5*:
   <http://creativecommons.org/licenses/by-nc/2.5>
 
 ℓ CC BY-NC 3.0
-
 : *Creative-Commons Attribution Non-Commercial 3.0*:
   <http://creativecommons.org/licenses/by-nc/3.0>
 
 ℓ CC BY-NC-ND 3.0
-
 : *Creative-Commons Attribution Non-Commercial No Derivatives 3.0*:
   <http://creativecommons.org/licenses/by-nc-nd/3.0>
 
 ℓ CC BY-ND 3.0
-
 : *Creative-Commons Attribution No Derivatives 3.0*:
   <http://creativecommons.org/licenses/by-nd/3.0/legalcode>;
 
 ℓ CC BY-SA 2.0 DE
-
 : *Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0 Deutschland*:
   <https://creativecommons.org/licenses/by-sa/2.0/de>
 
 ℓ CC BY-SA 3.0
-
 : *Creative Commons Attribution-ShareAlike 3.0 Unported*:
   <https://creativecommons.org/licenses/by-sa/3.0>
 
 ℓ CC BY-SA 4.0
-
 : *Creative Commons Attribution-ShareAlike 4.0 International*:
   <https://creativecommons.org/licenses/by-sa/4.0/>
 
 ℓ MfG
-
 : *"Mit freundlicher Genehmigung"*
 
   Vom Rechteinhaber wurde die Verwendung in diesem Projekt erlaubt.
   Eine Verwendung ausserhalb dieses Projekts ist nicht gestattet.
 
 ℓ PD
-
 : *Public domain*, *gemeinfrei*. Die Gemeinfreiheit bezeichnet alle
   Werke, die keinem Urheberrecht mehr unterliegen oder ihm nie
   unterlegen haben. Das im angloamerikanischen Raum anzutreffende
   Public Domain ist ähnlich, aber nicht identisch mit der europäischen
   Gemeinfreiheit.
-::::
 
 ```{raw} latex
 \end{multicols}

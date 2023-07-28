@@ -5,19 +5,16 @@
 \begin{multicols}{3}
 ```
 
-::::{glossary}
+{.glossary}
 Arteriosklerose
-
 : Systemerkrankung der Arterien, welche zu Ablagerung von Fetten,
   Bindegewebe und Kalk in den Blutgefäßwänden und somit zur Schädigung
   und Veränderungen der Gefäßen führt.
 
 Cave
-
 : *lat.* *"Hüte Dich vor …"*. Auch: "Achtung, gib Acht!"
 
 Computertomographie
-
 : CT
   *Syn.* *CT*. Röntgenuntersuchung, bei welcher Schnittbilder des
   Körpers erstellt werden. Dabei rotiert eine Röntgenröhre um den
@@ -31,7 +28,6 @@ Computertomographie
   eingesetzt.
 
 Erysipel
-
 : *Syn.* Rotlauf, Wundrose. Infektionserkrankung,
   v. a. der unteren Extremität, welche gekennzeichnet ist durch eine
   lokale Rötung und Schwellung andere betreffende Extremität.
@@ -43,7 +39,6 @@ Erysipel
   Infusion erfolgen.
 
 ETI
-
 : endotracheale Intubation
   Als {dfn}`endotracheale Intubation` ({dfn}`ETI`) wird das Einführen eines Tubus in
   die Trachea bezeichnet. Sie ist eine Maßnahme des invasiven
@@ -52,15 +47,12 @@ ETI
   Sicherheit der Anwendung.
 
 Exspiration
-
 : Ausatmung
 
 FMC
-
 : First Medical Contact
 
 Gestosen
-
 : Oberbegriff für durch die Schwangerschaft bedingte Erkrankungen. Man
   unterscheidet zwischen Gestosen der Frühschwangerschaft
   (im 1. Trimenon, *Frühgestosen*)
@@ -72,26 +64,21 @@ Gestosen
   die Eklampsie und das HELLP-Syndrom.
 
 ICP
-
 : Intracranial Pressure; intrakranieller Druck
 
 ICR
-
 : Intercostalraum. Vgl. {ref}`Intercostalraum`
 
 Inspiration
-
 : Einatmung
 
 intermittieren
-
 : zeitweilig aussetzen,
   vorübergehend ausbleiben,
   aussetzen,
   mit Unterbrechung wiederkehren
 
 Kapnographie
-
 : Kapnometrie
   Die Kapnometrie ist die Messung des *Kohlendioxid* (CO₂),
   welche in der Regel im Exspirationsschnekel durchgeführt wird.
@@ -111,7 +98,6 @@ Kapnographie
   Siehe {ref}`Kapnometrie`
 
 Koronarangiographie
-
 : Interventionelle röntgengestützte
   Untersuchung des Herzens bzw. der Herzkrankgefäße. Dabei wird über
   eine Arterie (klassisch über die Leistenarterie) ein Katheter
@@ -153,7 +139,6 @@ Koronarangiographie
   :::
 
 Kontrastmittel
-
 : Kontrastmittel verbessern die Darstellung von
   Strukturen bei bildgebenden Verfahren (Röntgendiagnostik inkl.
   Computertomographie (CT) und Angiographie, Magnetresonanztomografie
@@ -163,31 +148,27 @@ Kontrastmittel
   Jod-haltigen Kontrastmitteln), sowie eine Einschränkung der
   Nierenfunktion. Häufige unbedenkliche Nebenwirkungen sind ein Wärme-
   oder Hitzegefühl sowie ein metallischer Geschmack.
-::::
+
 
 Mekonium
-
 : Der erste Stuhl des Neugeborenen, der während der intrauterinen Entwicklung gebildet wird.
 
-  NSTEMI
+NSTEMI
+: Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt.
+Siehe auch: {ref}`AkutesKoronarsyndrom`.
 
-  : Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt.
-    Siehe auch: {ref}`AkutesKoronarsyndrom`.
+STEMI
+: ST-Elevation Myocardial Infacrtion; ST-Hebungsinfarkt.
+Siehe auch: {ref}`AkutesKoronarsyndrom`.
 
-  STEMI
-
-  : ST-Elevation Myocardial Infacrtion; ST-Hebungsinfarkt.
-    Siehe auch: {ref}`AkutesKoronarsyndrom`.
-
-  Tokolyse
-
-  : *Syn.* *Wehenhemmung*. Hemmung der Wehentätigkeit durch Medikamente.
-    Eine Tokolyse wird vor allem bei vorzeitiger Wehentätigkeit
-    durchgeführt, wenn eine Geburt aufgrund der Unreife des Kindes oder
-    anderen Gründen verzögert werden soll. Ebenso kann eine Tokolyse
-    durchgeführt werden um eine bevorstehende Geburt soweit zu
-    verzögernd, bis die Patientin in eine geeignete Einrichtung verlegt
-    werden kann.
+Tokolyse
+: *Syn.* *Wehenhemmung*. Hemmung der Wehentätigkeit durch Medikamente.
+Eine Tokolyse wird vor allem bei vorzeitiger Wehentätigkeit
+durchgeführt, wenn eine Geburt aufgrund der Unreife des Kindes oder
+anderen Gründen verzögert werden soll. Ebenso kann eine Tokolyse
+durchgeführt werden um eine bevorstehende Geburt soweit zu
+verzögernd, bis die Patientin in eine geeignete Einrichtung verlegt
+werden kann.
 
 ```{raw} latex
 \end{multicols}

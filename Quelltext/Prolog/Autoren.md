@@ -32,7 +32,6 @@ Lena Hirtler
   Medizinische Universität Wien, Zentrum für Anatomie und Zellbiologie, Abt. für Anatomie, Wien
 
 Christof Koller
-
 : Mag. iur.
 
 Michael Motal
@@ -155,23 +154,19 @@ Wissenschaft, Kultur und Gesellschaft.
 \begin{multicols}{3}
 ```
 
-:::{glossary}
+{.glossary}
 GaSe
-
 : Sebastian Gabriel
 
 HiLe
-
 : Lena Hirtler
 
 MoMi
-
 : Michael Motal
 
 UE2011FORTUNA-00651
-
 : ₢ Sebastian Gabriel {term}`ℓ MfG`
-:::
+
 
 ```{raw} latex
 \end{multicols}

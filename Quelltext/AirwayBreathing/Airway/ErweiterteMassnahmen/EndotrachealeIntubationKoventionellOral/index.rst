@@ -285,31 +285,32 @@ Narkoseeinleitung
 
     \begin{ParWide}
 
-.. actdiag::
-    :caption: Ablauf einer endotrachealen Intubation
+..
+    .. actdiag::
+        :caption: Ablauf einer endotrachealen Intubation
 
-    actdiag {
-    node_width = 170;
-    span_width = 100;
-    span_height = 20;
-    default_fontsize = 12;
-    default_node_color = lightyellow;
-    default_group_color = lightgreen;
-    default_linecolor = darkblue;
-    default_textcolor = darkblue;
+        actdiag {
+        node_width = 170;
+        span_width = 100;
+        span_height = 20;
+        default_fontsize = 12;
+        default_node_color = lightyellow;
+        default_group_color = lightgreen;
+        default_linecolor = darkblue;
+        default_textcolor = darkblue;
 
-    lane Assistenz {
+        lane Assistenz {
 
-    NarkEinA [label=Narkoseeinleitung, numbered=1];
-    }
+        NarkEinA [label=Narkoseeinleitung, numbered=1];
+        }
 
-    lane Durchführender {
-    C [label="\"Beginn Intubation\"", numbered=9]
-    Weiter [label="Weiter: \nIntubation", numbered="W", shape="flowchart.loopout"]
-    }
+        lane Durchführender {
+        C [label="\"Beginn Intubation\"", numbered=9]
+        Weiter [label="Weiter: \nIntubation", numbered="W", shape="flowchart.loopout"]
+        }
 
-    NarkEinA -> C -> Weiter;
-    }
+        NarkEinA -> C -> Weiter;
+        }
 
 
 .. raw:: latex
@@ -374,58 +375,58 @@ Intubation
 12. Erfolgskontrolle
 
 
+..
+    .. actdiag::
+        :caption: Ablauf einer endotrachealen Intubation
+        :scale: 100%
 
-.. actdiag::
-    :caption: Ablauf einer endotrachealen Intubation
-    :scale: 100%
+        actdiag {
+        node_width = 170;
+        span_width = 100;
+        span_height = 20;
+        default_fontsize = 12;
+        default_node_color = lightyellow;
+        default_group_color = lightgreen;
+        default_linecolor = darkblue;
+        default_textcolor = darkblue;
 
-    actdiag {
-    node_width = 170;
-    span_width = 100;
-    span_height = 20;
-    default_fontsize = 12;
-    default_node_color = lightyellow;
-    default_group_color = lightgreen;
-    default_linecolor = darkblue;
-    default_textcolor = darkblue;
+        lane Assistenz {
 
-    lane Assistenz {
-
-    LarZu   [label="Laryngoskop zureichen", numbered=4]
-    KrikDru2[label="ggfs. Krikoiddruck"]
-    TubZu   [label="Tubus zureichen"];
-    FDEnt   [label="Führungsdraht entfernen"];
-    Cuffen  [label="Cuffen"];
-    }
-
-
-
-    lane Durchführender {
-    C [label="\"Beginn Intubation\"", numbered=3, shape="flowchart.loopin"]
-    LarEin  [label="Laryngoskop \neinführen", numbered=5]
-    ZielId  [label="Epiglottis \nidentifizieren", numbered="5a"]
-    KrikDru [label="Optional:\n\"Krikoiddruck!\""]
-    VallEpi [label="Spatelspitze positionieren"]
-    StimmB  [label="Stimmbänder visualisieren"]
-    TubEin  [label="Tubus einführen:\nBis Spitze bei Stimmbändern"];
-    AnwFDEnt [label="\"Führungsdraht entfernen\""];
-    TubPos  [label="Tubus endgültig positionieren"];
-    AnwCuff [label="\"Cuffen\""];
-    ErfKont  [label="Erfolgskontrolle", numbered=30, shape="flowchart.loopout"];
-
-    }
+        LarZu   [label="Laryngoskop zureichen", numbered=4]
+        KrikDru2[label="ggfs. Krikoiddruck"]
+        TubZu   [label="Tubus zureichen"];
+        FDEnt   [label="Führungsdraht entfernen"];
+        Cuffen  [label="Cuffen"];
+        }
 
 
 
-    C -> LarZu -> LarEin  -> ZielId -> KrikDru -> VallEpi -> StimmB ->TubZu -> TubEin -> AnwFDEnt -> FDEnt -> TubPos -> AnwCuff -> Cuffen -> ErfKont;
+        lane Durchführender {
+        C [label="\"Beginn Intubation\"", numbered=3, shape="flowchart.loopin"]
+        LarEin  [label="Laryngoskop \neinführen", numbered=5]
+        ZielId  [label="Epiglottis \nidentifizieren", numbered="5a"]
+        KrikDru [label="Optional:\n\"Krikoiddruck!\""]
+        VallEpi [label="Spatelspitze positionieren"]
+        StimmB  [label="Stimmbänder visualisieren"]
+        TubEin  [label="Tubus einführen:\nBis Spitze bei Stimmbändern"];
+        AnwFDEnt [label="\"Führungsdraht entfernen\""];
+        TubPos  [label="Tubus endgültig positionieren"];
+        AnwCuff [label="\"Cuffen\""];
+        ErfKont  [label="Erfolgskontrolle", numbered=30, shape="flowchart.loopout"];
 
-    KrikDru -> KrikDru2;
+        }
 
-    ZielId -> KrikDru -> KrikDru2 -> VallEpi;
 
-    AnwCuff -> ErfKont;
 
-    }
+        C -> LarZu -> LarEin  -> ZielId -> KrikDru -> VallEpi -> StimmB ->TubZu -> TubEin -> AnwFDEnt -> FDEnt -> TubPos -> AnwCuff -> Cuffen -> ErfKont;
+
+        KrikDru -> KrikDru2;
+
+        ZielId -> KrikDru -> KrikDru2 -> VallEpi;
+
+        AnwCuff -> ErfKont;
+
+        }
 
 Erfolgskontrolle
 
@@ -457,43 +458,43 @@ Erfolgskontrolle
 
     Ggfs. Beatmungsgerät einstellen und anschließen
 
+..
+    .. actdiag::
+        :caption: Erfolgskontrolle Atemweg
 
-.. actdiag::
-    :caption: Erfolgskontrolle Atemweg
+        actdiag {
+        node_width = 170;
+        span_width = 100;
+        span_height = 20;
+        default_fontsize = 12;
+        default_node_color = lightyellow;
+        default_group_color = lightgreen;
+        default_linecolor = darkblue;
+        default_textcolor = darkblue;
 
-    actdiag {
-    node_width = 170;
-    span_width = 100;
-    span_height = 20;
-    default_fontsize = 12;
-    default_node_color = lightyellow;
-    default_group_color = lightgreen;
-    default_linecolor = darkblue;
-    default_textcolor = darkblue;
+        lane Assistenz {
 
-    lane Assistenz {
+        StetOhr [label="Stethoskop ins Ohr klemmen", numbered="31"];
+        BeMaVoBeuTr [label="Beatmungsmaske vom Beutel trennen", numbered="32"];
+        BeAnTub [label="Beatmungsbeutel an Tubus", numbered="33?"];
+        Atemhub  [label="Auf Anweisung Atemhub", numbered="34"];
+        Fix [label="Fixierung", numbered="40", shape="flowchart.loopout"];
 
-    StetOhr [label="Stethoskop ins Ohr klemmen", numbered="31"];
-    BeMaVoBeuTr [label="Beatmungsmaske vom Beutel trennen", numbered="32"];
-    BeAnTub [label="Beatmungsbeutel an Tubus", numbered="33?"];
-    Atemhub  [label="Auf Anweisung Atemhub", numbered="34"];
-    Fix [label="Fixierung", numbered="40", shape="flowchart.loopout"];
+        }
 
-    }
+        lane Durchführender {
+        ErfKont  [label="Erfolgskontrolle", numbered=30, shape="flowchart.loopin"];
+        Auskult  [label="Auskultation\n1) Magen\n2) Beide Lungenflügel", numbered="35", height=75];
+        Kapno [label="Kapnographie", numbered="36"];
+        AtemExk [label="Atemexkursionen", numbered="37"];
+        Atemger [label="Geräusche?", numbered="38"];
+        BeutUeber [label="Beatmungsbeutel übernehmen", numbered="39"];
 
-    lane Durchführender {
-    ErfKont  [label="Erfolgskontrolle", numbered=30, shape="flowchart.loopin"];
-    Auskult  [label="Auskultation\n1) Magen\n2) Beide Lungenflügel", numbered="35", height=75];
-    Kapno [label="Kapnographie", numbered="36"];
-    AtemExk [label="Atemexkursionen", numbered="37"];
-    Atemger [label="Geräusche?", numbered="38"];
-    BeutUeber [label="Beatmungsbeutel übernehmen", numbered="39"];
+        }
 
-    }
+        ErfKont -> StetOhr -> BeMaVoBeuTr -> BeAnTub -> Atemhub -> Auskult -> Kapno -> AtemExk -> Atemger -> BeutUeber -> Fix
 
-    ErfKont -> StetOhr -> BeMaVoBeuTr -> BeAnTub -> Atemhub -> Auskult -> Kapno -> AtemExk -> Atemger -> BeutUeber -> Fix
-
-    }
+        }
 
 
 

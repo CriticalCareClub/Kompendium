@@ -1,18 +1,11 @@
 # Körperkreislauf: Venöses Gefäßsystem
 
-Das venöse System kann man in das *Pulmonalvenensystem*,
-das
-*Hohlvenensystem* und das *Pfortadersystem* unterteilen.
-Es gibt immer
-ein *subkutanes (alleine verlaufendes)* und ein *subfasziales (die
-Arterien begleitendes)* Venennetz. *Perforansvenen* verbinden diese
-beiden Venennetze miteinander.
+Das venöse System kann man in das *Pulmonalvenensystem*, das *Hohlvenensystem* und das *Pfortadersystem* unterteilen.
+Es gibt immer ein *subkutanes (alleine verlaufendes)* und ein *subfasziales (die Arterien begleitendes)* Venennetz. *Perforansvenen* verbinden diese beiden Venennetze miteinander.
 
 Die Hauptvenenstämme sind das *Hohlvenensystem* und das *Azygossystem*.
 
-Im folgenden sind die Venen aufgezeigt,
-die NICHT parallel zu den
-Arterien verlaufen und somit auch NICHT gleich heißen.
+Im folgenden sind die Venen aufgezeigt, die NICHT parallel zu den Arterien verlaufen und somit auch NICHT gleich heißen.
 
 Die wichtigsten Venen entnehmen Sie den Bildbeschriftungen.
 
@@ -22,10 +15,8 @@ Die wichtigsten Venen entnehmen Sie den Bildbeschriftungen.
 - V. jugularis interna
 - V. subclavia
 
-Der Venenwinkel befindet sich beim Zusammenfluss von V. jugularis
-interna und V. subclavia.
-Dort münden links der Ductus thoracicus und
-rechts der Ductus lymphaticus dexter.
+Der Venenwinkel befindet sich beim Zusammenfluss von V. jugularis interna und V. subclavia.
+Dort münden links der Ductus thoracicus und rechts der Ductus lymphaticus dexter.
 
 ## V. cava inferior:
 
@@ -43,8 +34,7 @@ Vv. iliacae communes
 - Plexus venosus vertebralis internus anterior
 - Plexus venosus vertebralis internus posterior
 
-Diese Venengeflechte sind über die Vv. basivertebrales miteinander
-verbunden.
+Diese Venengeflechte sind über die Vv. basivertebrales miteinander verbunden.
 
 ## Vv. jugulares:
 

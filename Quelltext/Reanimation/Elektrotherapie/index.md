@@ -390,55 +390,38 @@ Synchronisation
 
 ::::{danger}
 - **Fehlströme**:
-  Der Defibrillator darf nicht in einer *nassen Umgebung*
-  (Wasser, Regen, ...)
-  oder auf *Metallunterlagen* eingesetzt werden,
-  da Wasser und die meisten Metalle elektrische Leiter sind.
+  Der Defibrillator darf nicht in einer *nassen Umgebung*   (Wasser, Regen, ...)   oder auf *Metallunterlagen* eingesetzt werden,   da Wasser und die meisten Metalle elektrische Leiter sind.
   Dadurch sind Helfer bei der Schockabgabe gefährdet.
-  Patienten, die aus dem Wasser gerettet werden,
-  müssen daher vor der Schockabgabe abgetrocknet und
-  auf trockenen Untergrund gebracht werden.
+  Patienten, die aus dem Wasser gerettet werden,   müssen daher vor der Schockabgabe abgetrocknet und   auf trockenen Untergrund gebracht werden.
 
-- **Brandgefahr**: Der Defibrillator darf nicht in der Nähe von
-  entzündlichen Substanzen oder in Umgebungen, in welchen
-  *Explosionsgefahr* herrscht, eingesetzt werden!
+- **Brandgefahr**:
+  Der Defibrillator darf nicht in der Nähe von   entzündlichen Substanzen oder in Umgebungen, in welchen   *Explosionsgefahr* herrscht, eingesetzt werden!
 
 - **Kinder**:
-  Viele Geräte dürfen bei Kindern erst ab einem bestimmten
-  Körpergewicht oder Alter (je nach Herstellerangabe) eingesetzt
-  werden.
+  Viele Geräte dürfen bei Kindern erst ab einem bestimmten   Körpergewicht oder Alter (je nach Herstellerangabe) eingesetzt   werden.
 
-- **Sauerstoffquellen**: Während der Schockabgabe sind etwaige
-  Sauerstoffquellen so weit wie möglich von den Elektroden weg zu
-  halten (Richtwert ca. 1 m).
+- **Sauerstoffquellen**:
+  Während der Schockabgabe sind etwaige Sauerstoffquellen so weit wie möglich von den Elektroden weg zu   halten (Richtwert ca. 1 m).
 
-- **Interferenzen**: Folgende Umstände können die Beurteilung des
-  Herzrhythmus verfälschen:
+- **Interferenzen**:
+  Folgende Umstände können die Beurteilung des   Herzrhythmus verfälschen:
 
-  - **Bewegungsartefakte**: Eigenbewegung des Patienten,
-    Herzdruckmassage, Manipulationen am Patienten, Manipulationen am
-    Defibrillator oder Kabel, maschinelle Beatmung, Transport,
-    sonstige Erschütterungen.
+  - **Bewegungsartefakte**:
+    Eigenbewegung des Patienten,  Herzdruckmassage, Manipulationen am Patienten, Manipulationen am    Defibrillator oder Kabel, maschinelle Beatmung, Transport,     sonstige Erschütterungen.
   - **Elektromagnetische Felder**:
-    Bei Hochspannungsleitungen muss ein
-    Abstand von mindestens 3 m gehalten werden.
+    Bei Hochspannungsleitungen muss ein Abstand von mindestens 3 m gehalten werden.
   - **Analyseprobleme** (SAED):
-    Interferenzen können die Analysefunktion stören,
-    und somit eine Schockabgabe unmöglich machen.
+    Interferenzen können die Analysefunktion stören,   und somit eine Schockabgabe unmöglich machen.
 
-- **Medikamentenpflaster**
-  müssen vor der Defibrillation entfernt werden.
+- **Medikamentenpflaster**  müssen vor der Defibrillation entfernt werden.
 
-- Die Elektroden müssen **ohne Lufteinschlüsse**
-  aufgeklebt werden.
+- Die Elektroden müssen **ohne Lufteinschlüsse**  aufgeklebt werden.
 
-- Paddles: Bei Verwendung von Paddles (nicht empfohlen!)
-  muss Elektrodengel
-  und ein Anpressdruck von mind. 8 kg angewendet werden.
+- Paddles:
+  Bei Verwendung von Paddles (nicht empfohlen!)   muss Elektrodengel   und ein Anpressdruck von mind. 8 kg angewendet werden.
   Die Paddles dürfen *nicht* gegeneinander gerieben werden!
 
-Zusätzliche Sicherheits- und Bedienhinweise sind in der
-Bedienungsanleitung des jeweiligen Geräts nachzulesen!
+Zusätzliche Sicherheits- und Bedienhinweise sind in der Bedienungsanleitung des jeweiligen Geräts nachzulesen!
 
 :::{centered} **Lebensgefahr** bei unsachgemäßer Anwendung!
 :::

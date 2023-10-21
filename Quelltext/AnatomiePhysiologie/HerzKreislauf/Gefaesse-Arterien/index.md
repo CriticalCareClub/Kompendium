@@ -1,11 +1,7 @@
 # Körperkreislauf: Arterielles Gefäßsystem
 
-Nachfolgend sind die einzelnen Äste von Hauptarterien (unterstrichen) in
-der Reihenfolge ihres Abgangs aufgelistet.
-Falls deren Äste noch weitere
-Äste aufweisen,
-sind diese dann direkt in entsprechenden Unterlisten
-angeführt.
+Nachfolgend sind die einzelnen Äste von Hauptarterien (unterstrichen) in der Reihenfolge ihres Abgangs aufgelistet.
+Falls deren Äste noch weitere Äste aufweisen, sind diese dann direkt in entsprechenden Unterlisten angeführt.
 
 ```{eval-rst}
 .. todo:: Die Arterien gehören definitv abgespeckt ... wichtig ist woran man versterben kann oder wo einem ein Körperteil abfällt ...
@@ -15,18 +11,7 @@ angeführt.
 
 ## Aorta
 
-Die Aorta wird in den vom Herzen **aufsteigenden Teil**
-(*Pars ascendens aortae*),
-den **Aortenbogen** (*Arcus aortae*)
-und den **absteigenden Teil** (*Pars descendens aortae*)
-unterteilt,
-letzterer kann noch in einen **thorakalen** Teil
-(*Pars thoracicae aortae*,
-oberhalb des Zwerchfells)
-und einen **abdominellen** Teil
-(*Pars abdominalis aortae*,
-unterhalb des Zwerchfells)
-gegliedert werden.
+Die Aorta wird in den vom Herzen **aufsteigenden Teil** (*Pars ascendens aortae*), den **Aortenbogen** (*Arcus aortae*) und den **absteigenden Teil** (*Pars descendens aortae*) unterteilt, letzterer kann noch in einen **thorakalen** Teil (*Pars thoracicae aortae*, oberhalb des Zwerchfells) und einen **abdominellen** Teil (*Pars abdominalis aortae*, unterhalb des Zwerchfells) gegliedert werden.
 
 ## Pars ascendens aortae
 

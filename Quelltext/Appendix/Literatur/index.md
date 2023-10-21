@@ -462,7 +462,7 @@
 
 🕮 Klinke 3
 : **Lehrbuch Der Physiologie.**
-  by Klinke, R und St. Silbernagl (HG.
+  by Klinke, R und St. Silbernagl (HG.)
   3\. Auflage, 2001.
   Thieme-Verlag.
 
@@ -548,10 +548,9 @@
   <http://dx.doi.org/10.1136/emj.2009.076737>.
 
 🕮 Mann 2013
-: by Mann, V., S. T. Mann, E. Alejandre-Lafont, R. Röhrig, M. A. Weigand, and
+: **Supraglottic Airway Devices in Emergency Medicine:  Impact of Gastric Drainage**
+  by Mann, V., S. T. Mann, E. Alejandre-Lafont, R. Röhrig, M. A. Weigand, and
   M. Müller.
-  **\[Supraglottic Airway Devices in Emergency Medicine :
-  Impact of Gastric Drainage\]**
   *Anaesthesist*
   2013:62(4), 285–92.
   doi:[10.1007/s00101-013-2154-1](https://doi.org/10.1007/s00101-013-2154-1).

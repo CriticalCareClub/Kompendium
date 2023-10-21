@@ -101,8 +101,28 @@ Rippen).
     - Brustbein-Rippen-Gelenk {deep}`(Articulatio sternocostalis): sind bei 2.—5.
       Rippe eine Diarthrose, bei 1., 6. und 7. Rippe eine Synchondrose.`
 
-```{index} single: Zwerchfell single: Diaphragma single: Hiatus; oesophageus single: Hiatushernie single: Nervus; vagus; Hiatus oesophageus single: Nervus; phrenicus dext.; Foramen V. cavae single: Atemmuskeln single: Atemhilfsmuskulatur single: Ductus; thoracicus; Hiatus aorticus single: Punctum ; mobile single: Punctum; fixum
-```
+:::{index} single: Zwerchfell
+:::
+:::{index} single: Diaphragma
+:::
+:::{index} single: Hiatus; oesophageus
+:::
+:::{index} single: Hiatushernie
+:::
+:::{index} single: Nervus; vagus; Hiatus oesophageus
+:::
+:::{index} single: Nervus; phrenicus dext.; Foramen V. cavae
+:::
+:::{index} single: Atemmuskeln
+:::
+:::{index} single: Atemhilfsmuskulatur
+:::
+:::{index} single: Ductus; thoracicus; Hiatus aorticus
+:::
+:::{index} single: Punctum ; mobile
+:::
+:::{index} single: Punctum; fixum
+:::
 
 ## Thoraxmuskulatur
 
@@ -153,10 +173,9 @@ der Ösophagus, N. vagus. der Ösophagus und der N. vagus.
 
 Die kraniale Fortsetzung der Zwischenrippenmuskeln sind die Mm. scaleni.
 
-Die **Atemhilfsmuskeln** besitzen an sich eine eigene Hauptfunktion ind Bezug auf die obere Extremität,
-wird diese jedoch fixiert (z. B. durch Aufstützen)
-kommt es zu einer *Umkehr von Punctum mobile und Punctum fixum*,
-dadurch können sie bei Bedarf (z.B. Asthmaanfall) bei der Atmung mithelfen.
+Die **Atemhilfsmuskeln** besitzen an sich eine eigene Hauptfunktion in Bezug auf die obere Extremität, wird diese jedoch fixiert (z. B. durch Aufstützen) kommt es zu einer *Umkehr von Punctum mobile und Punctum fixum*, d.h. es wird nicht der Arm gegenüber des Brustkorbs bewegt, sondern der Brustkorb in Bezug auf den (fixierten) Arm.
+Dadurch kann die Atemhilfsmuskulatur bei Bedarf (z.B. Asthmaanfall) die Atmung unterstützen.
+Dies ist durch die typische Haltung des Patienten (aufgestützte Hände etc.) oft gut zu erkennen.
 
 :::{note}
 - Die Intaktheit des Brustkorbes ist für die Atmung von großer

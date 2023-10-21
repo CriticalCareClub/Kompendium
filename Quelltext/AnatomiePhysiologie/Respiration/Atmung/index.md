@@ -34,22 +34,13 @@ Für die Atemmechanik ist ein gutes Zusammenspiel der maßgeblichen Bestandteile
 - **Pleura**:
   Die Funktion der Pleura ist unter {ref}`pleura`, erklärt.
 
-Durch das Zusammenspiel dieser Strukturen kann der Brustkorb bewegt und
-somit die Lunge *passiv* mitbewegt werden. Aufgrund der einzelnen
-bewegenden Unterbestandteile kann man weiters den Atemmechanismus in
-zwei Anteile unterteilen: einen kostalen Atemmechanismus (Rippen, Mm.
-intercostales, Mm. scaleni) und diaphragmalen Atemmechanismus
-(Diaphragma).
+Durch das Zusammenspiel dieser Strukturen kann der Brustkorb bewegt und somit die Lunge *passiv* mitbewegt werden. Aufgrund der einzelnen bewegenden Unterbestandteile kann man weiters den Atemmechanismus in zwei Anteile unterteilen: einen kostalen Atemmechanismus (Rippen, Mm.
+intercostales, Mm. scaleni) und diaphragmalen Atemmechanismus (Diaphragma).
 
-Zusätzlich können die *Atemhilfsmuskeln* die Atmung wenn nötig
-unterstützen. Sie sind jedoch kein initialer Anteil der Atemmechanik.
+Zusätzlich können die *Atemhilfsmuskeln* die Atmung wenn nötig unterstützen. Sie sind jedoch kein initialer Anteil der Atemmechanik.
 
-Wenn man sich den Thorax annähernd als Zylinder
-vorstellt, so kommt es bei der Einatmung zu einer Vergrößerung des
-Querschnitts durch Heben der Zwischenrippenmuskulatur und Vergrößerung
-der Höhe durch Anspannung und Absenken des Zwerchfells:
-Es kommt dadurch
-zu einer Vergrößerung des Volumens und zum **Ansaugen** von Luft.
+Wenn man sich den Thorax annähernd als Zylinder vorstellt, so kommt es bei der Einatmung zu einer Vergrößerung des Querschnitts durch Heben der Zwischenrippenmuskulatur und Vergrößerung der Höhe durch Anspannung und Absenken des Zwerchfells:
+Es kommt dadurch zu einer Vergrößerung des Volumens und zum **Ansaugen** von Luft.
 
 $$
 V = A \times h
@@ -100,48 +91,27 @@ $$
 :::
 ::::
 
-Ein *Atemzyklus*
-besteht aus der Einatemphase ({dfn}`Inspiration`)
-und der Ausatemphase ({dfn}`Exspiration`).
-Dabei kommt es zu einem Ungleichgewicht zwischen der nach
-außen gerichteten Zugkraft des Thorax und der nach innen gerichteten
-Zugkraft der Lunge. Dieses Ungleichgewicht wird beim Einatmen zunächst
-von einer zusätzlichen Zugkraft des Zwerchfells und der äußeren
-Zwischenrippenmuskulatur hervor gerufen und anschließend beim Ausatmen
-durch Entspannung der Muskeln wieder abgebaut.
+Ein *Atemzyklus* besteht aus der Einatemphase (**Inspiration**) und der Ausatemphase (**Exspiration**).
+Dabei kommt es zu einem Ungleichgewicht zwischen der nach außen gerichteten Zugkraft des Thorax und der nach innen gerichteten Zugkraft der Lunge. Dieses Ungleichgewicht wird beim Einatmen zunächst von einer zusätzlichen Zugkraft des Zwerchfells und der äußeren Zwischenrippenmuskulatur hervor gerufen und anschließend beim Ausatmen durch Entspannung der Muskeln wieder abgebaut.
 
-Während des Einatmens wird durch *aktive Bewegung des Zwerchfells* und
-der äußeren Zwischenrippenmuskulatur das
+Während des Einatmens wird durch *aktive Bewegung des Zwerchfells* und der äußeren Zwischenrippenmuskulatur das
 *Volumen des Brustkorbs vergößert*.
-Da die Lunge mit der lungenseitigen Pleura (Lungenfell) an
-der rippenseitigen Pleura (Rippenfell) *anhaftet*, folgt sie dieser
-Bewegung und somit wird auch das *Lungenvolumen vergrößert*. Durch das
-Aufspannen der Lunge entsteht ein *Unterdruck*). Dieser Druckunterschied
-wird durch einströmende Luft ausgeglichen: Es erfolgt die *Einatmung*.
-Da für das Einatmen Muskelarbeit verrichtet werden muss, nennt man das
-Einatmen auch *aktive Phase* der Atmung.
+Da die Lunge mit der lungenseitigen Pleura (Lungenfell) an der rippenseitigen Pleura (Rippenfell) *anhaftet*, folgt sie dieser Bewegung und somit wird auch das *Lungenvolumen vergrößert*. Durch das Aufspannen der Lunge entsteht ein *Unterdruck*). Dieser Druckunterschied wird durch einströmende Luft ausgeglichen: Es erfolgt die *Einatmung*.
+Da für das Einatmen Muskelarbeit verrichtet werden muss, nennt man das Einatmen auch *aktive Phase* der Atmung.
 
-Das Ausatmen erfolgt passiv (*passive Phase* der Atmung). Das Zwerchfell
-und die äußere Zwischenrippenmuskulatur entspannen sich, wodurch sich
-das Thorax- bzw. Lungenvolumen auf das ursprüngliche Volumen
-verkleinert. [^feder] Durch die Volumenverminderung steigt der Druck in
-der Lunge und die Luft strömt nach außen bis die Druckunterschiede
-zwischen Lunge und Umgebung wieder ausgeglichen sind. Die Luft wird beim
-Ausatmen sozusagen wieder hinaus gedrückt.
+Das Ausatmen erfolgt passiv (*passive Phase* der Atmung). Das Zwerchfell und die äußere Zwischenrippenmuskulatur entspannen sich, wodurch sich das Thorax- bzw. Lungenvolumen auf das ursprüngliche Volumen verkleinert. [^feder] Durch die Volumenverminderung steigt der Druck in der Lunge und die Luft strömt nach außen bis die Druckunterschiede zwischen Lunge und Umgebung wieder ausgeglichen sind. Die Luft wird beim Ausatmen sozusagen wieder hinaus gedrückt.
 
 [^feder]: Man denke an eine Feder, welche nachdem sie durch eine Zugkraft
     gedehnt wurde, nach dem Loslassen durch ihre eigene (elastische)
     Rückstellkraft wieder von selbst in die Ausgangslage zurück kehrt.
 
 (vitalfunktion-atmung)=
-
 (atemvolumina)=
 
 ## Lungenvolumina
 
 Mittels *Spirometrie* kann die Kapazität der Lunge gemessen werden. Das
-*Lungenvolumen* (gesamtes Gasvolumen ca. 5l) unterteilt sich
-folgendermaßen:
+*Lungenvolumen* (gesamtes Gasvolumen ca. 5l) unterteilt sich folgendermaßen:
 
 - Vitalkapazität: maximal ventilierbare Luftmenge (ca. 3-7 l), Maß für
   die Ausdehnungsfähigkeit der Lunge und des Thorax » abhängig von
@@ -154,10 +124,7 @@ folgendermaßen:
 - Residualvolumen (ca. 1-2 l): Gasvolumen, dass nach einer normalen
   Exspiration in Ruhe noch in der Lunge verbleibt.
 
-Die *Alveolarventilation* (Anteil der Atemluft für den eigentlichen
-Sauerstoffaustausch) beträgt 70 %, die *Totraumventilation* (Anteil der
-Atemluft, die in den Luftwegen verbleibt) beträgt 30 % der eingeatmeten
-Luft.
+Die *Alveolarventilation* (Anteil der Atemluft für den eigentlichen Sauerstoffaustausch) beträgt 70 %, die *Totraumventilation* (Anteil der Atemluft, die in den Luftwegen verbleibt) beträgt 30 % der eingeatmeten Luft.
 
 ```{index} single: Totraum
 ```
@@ -174,12 +141,7 @@ Luft.
 - {ref}`Schnappatmung <Schnappatmung>`
 :::
 
-Unter dem {dfn}`Totraum` versteht man den Teil der Atemwege,
-der nicht am Gasaustausch teilnimmt. Dies ist im wesentlichen der
-gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen
-(Alveolen). Die Luft muss erst diesen Totraum passieren um in die
-Lungenbläschen zu gelangen und am dort stattfindenden Gasaustausch
-teilzunehmen. Der Totraum beträgt beim Erwachsenen ca. 150 mL. {term}`🕮 Klinke 3`
+Unter dem **Totraum** versteht man den Teil der Atemwege, der nicht am Gasaustausch teilnimmt. Dies ist im wesentlichen der gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen (Alveolen). Die Luft muss erst diesen Totraum passieren um in die Lungenbläschen zu gelangen und am dort stattfindenden Gasaustausch teilzunehmen. Der Totraum beträgt beim Erwachsenen ca. 150 mL. {term}`🕮 Klinke 3`
 
 Den *Totraum* kann man in folgende Formen unterteilen:
 
@@ -196,16 +158,9 @@ Den *Totraum* kann man in folgende Formen unterteilen:
   Gasaustausch in den Alveolen teilzunehmen.
 :::
 
-Bei der {dfn}`Totraumventilation`
-(*Syn.* *Totraumbelüftung*) ist das Atemzugvolumen so gering,
-dass die
-Ausatemluft im Totraum verbleibt
-und bei der folgenden Einatmung erneut,
-anstatt von Frischluft,
-in die Lungenbläschen gelangt.
-Somit kommt es sowohl zu einem Mangel an frischem Sauerstoff in den Alveolen,
-als auch zu einem Rückstau von Kohlendioxid,
-welches nicht mehr abgeatmet werden kann.
+Bei der **Totraumventilation**
+(*Syn.* *Totraumbelüftung*) ist das Atemzugvolumen so gering, dass die Ausatemluft im Totraum verbleibt und bei der folgenden Einatmung erneut, anstatt von Frischluft, in die Lungenbläschen gelangt.
+Somit kommt es sowohl zu einem Mangel an frischem Sauerstoff in den Alveolen, als auch zu einem Rückstau von Kohlendioxid, welches nicht mehr abgeatmet werden kann.
 
 Insbesonder bei der {ref}`Schnappatmung <Schnappatmung>` kann genau dies passieren.
 
@@ -219,23 +174,15 @@ Insbesonder bei der {ref}`Schnappatmung <Schnappatmung>` kann genau dies passier
 :::
 ::::
 
-Als {dfn}`Atemgas` {index}`\ <! Atemgas>`
-bezeichnet man jenes Gasgemisch,
-welches eingeatmet wird.
-Normalerweise ist das ein Gasgemisch aus
-Stickstoff, Sauerstoff, Kohlendioxid und Edelgasen ("*Raumluft*"). Für
-eine ausreichende Atmung ist natürlich auch eine ausreichende
-O₂-Konzentration [^partialdruck] der eingeatmeten Luft notwendig. Der normale
-O₂-Gehalt der Umgebungsluft beträgt 21%.
+Als **Atemgas**
+bezeichnet man jenes Gasgemisch, welches eingeatmet wird.
+Normalerweise ist das ein Gasgemisch aus Stickstoff, Sauerstoff, Kohlendioxid und Edelgasen ("*Raumluft*"). Für eine ausreichende Atmung ist natürlich auch eine ausreichende O₂-Konzentration [^partialdruck] der eingeatmeten Luft notwendig. Der normale O₂-Gehalt der Umgebungsluft beträgt 21%.
 
 [^partialdruck]: Genau genommen ist nicht nur die Sauerstoffkonzentration, sondern
     auch der Sauerstoffpartial*druck* entscheidend.
 
-Zwischen der normalen Einatem- und Ausatemluft besteht aufgrund des in
-der Lunge stattfindenden *Gasaustausches* hinsichtlich des Sauerstoff-
-und Kohlendioxid-Anteils ein Unterschied: Es wird mehr CO₂ abgeatmet als
-eingeatmet wurde, dafür ist die O₂-Konzentration bei der Ausatmung
-aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
+Zwischen der normalen Einatem- und Ausatemluft besteht aufgrund des in der Lunge stattfindenden *Gasaustausches* hinsichtlich des Sauerstoff-
+und Kohlendioxid-Anteils ein Unterschied: Es wird mehr CO₂ abgeatmet als eingeatmet wurde, dafür ist die O₂-Konzentration bei der Ausatmung aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
 {ref}`Table-luft-gas`.
 
 ```{eval-rst}
@@ -275,34 +222,20 @@ aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
 
 Vgl. {ref}`Figure-respiraktionstrakt-uebersicht`.
 
-In den *Lungenbläschen* ({dfn}`Alveolen`) findet ein *Gasaustausch*
-zwischen der Einatemluft und dem Blut statt.
-Im Blut und in der Luft der Alveolen sind Sauerstoff und Kohlendioxid
-in jeweils unterschiedlichen Konzentrationen vor:
-In der Einatemluft befindet sich eine große Menge
-Sauerstoff, jedoch kaum Kohlendioxid, das Blut ist sauerstoffarm, aber
-kohlendioxidreich.
-Gase sind nun bestrebt ihre Konzentrationen
-auszugleichen und bewegen sich vom Ort der höheren zur niedrigeren
-Konzentration.
+In den *Lungenbläschen* (**Alveolen**) findet ein *Gasaustausch* zwischen der Einatemluft und dem Blut statt.
+Im Blut und in der Luft der Alveolen sind Sauerstoff und Kohlendioxid in jeweils unterschiedlichen Konzentrationen vor:
+In der Einatemluft befindet sich eine große Menge Sauerstoff, jedoch kaum Kohlendioxid, das Blut ist sauerstoffarm, aber kohlendioxidreich.
+Gase sind nun bestrebt ihre Konzentrationen auszugleichen und bewegen sich vom Ort der höheren zur niedrigeren Konzentration.
 Dieser Vorgang wird {ref}`Diffusion <Diffusion>` genannt.
 Durch diese Diffusionsbewegung kommt es zum Gasaustausch:
-Der in der Einatemluft enthaltene Sauerstoff gelangt aus den Alveolen in das Blut
-und Kohlendioxid wird im Gegenzug vom Blut an die Alveolen abgegeben.
-Die Anreicherung des Blutes mit Sauerstoff wird {dfn}`Oxygenierung` genannt.
+Der in der Einatemluft enthaltene Sauerstoff gelangt aus den Alveolen in das Blut und Kohlendioxid wird im Gegenzug vom Blut an die Alveolen abgegeben.
+Die Anreicherung des Blutes mit Sauerstoff wird **Oxygenierung** genannt.
 
-Dabei besteht zwischen Luft und Blut kein direkter Kontakt, die Gase
-müssen Hindernisse wie die Alveolenwand und die Blutgefäßwand
-überwinden. *Vergrößert sich dieser Weg aufgrund einer Erkrankung
-(z. B. beim Lungenödem)
-ist die Sauerstoffaufnahme vermindert!*
+Dabei besteht zwischen Luft und Blut kein direkter Kontakt, die Gase müssen Hindernisse wie die Alveolenwand und die Blutgefäßwand überwinden. *Vergrößert sich dieser Weg aufgrund einer Erkrankung (z. B. beim Lungenödem) ist die Sauerstoffaufnahme vermindert!*
 
 Voraussetzung für den Gasaustausch ist die ausreichende *Be-* und
 *Entlüftung* (*Ventilation*) der Alveole sowie eine ausreichende
-*Durchblutung* ({dfn}`Perfusion`)
-der die Alveole umgebenden Blutgefäße. Die Abschnitte der Atemwege, in
-denen kein Gasaustausch stattfindet und die z. B. nur dem Transport
-dienen, bezeichnet man als {dfn}`Totraum`.
+*Durchblutung* (**Perfusion**) der die Alveole umgebenden Blutgefäße. Die Abschnitte der Atemwege, in denen kein Gasaustausch stattfindet und die z. B. nur dem Transport dienen, bezeichnet man als **Totraum**.
 
 :::{admonition} Synopsis
 - Lunge: Sauerstoff (O₂): Alveolen → Blut
@@ -310,10 +243,7 @@ dienen, bezeichnet man als {dfn}`Totraum`.
 :::
 
 Die Umgebungsluft enthält 78,1 % Stickstoff, 20,9% Sauerstoff, 0,03%
-Kohlendioxid und 0,97% Edelgase. Die Zusammensetzung (= prozentualer
-Anteil der Gase) der Luft ist höhenunabhängig. Der Luftdruck hingegen
-(somit auch der Partialdruck = Anzahl der Gasmoleküle pro Volumseinheit)
-ist sehr wohl höhenabhängig.
+Kohlendioxid und 0,97% Edelgase. Die Zusammensetzung (= prozentualer Anteil der Gase) der Luft ist höhenunabhängig. Der Luftdruck hingegen (somit auch der Partialdruck = Anzahl der Gasmoleküle pro Volumseinheit) ist sehr wohl höhenabhängig.
 
 ```{eval-rst}
 ============== =========== ==== ===
@@ -326,22 +256,13 @@ CO₂            4.0         29
 ============== =========== ==== ===
 ```
 
-Die Vol.-% können durch die Anreicherung der Atemluft mit Wasser
-verändert sein. Der Gasaustausch erfolgt durch Diffusion und ist daher
-Abhängig vom Konzentrationsunterschied zwischen Alveole und Blut. Auch
-der Partialdruck beeinflusst die Gas-Konzentration: Je höher der
-Sauerstoff-Partialdruck (= je mehr O₂-Teilchen), desto höher
-ist die Bindung des Sauerstoffes im Blut.
+Die Vol.-% können durch die Anreicherung der Atemluft mit Wasser verändert sein. Der Gasaustausch erfolgt durch Diffusion und ist daher Abhängig vom Konzentrationsunterschied zwischen Alveole und Blut. Auch der Partialdruck beeinflusst die Gas-Konzentration: Je höher der Sauerstoff-Partialdruck (= je mehr O₂-Teilchen), desto höher ist die Bindung des Sauerstoffes im Blut.
 
-Der Sauerstoff-Transport erfolgt über eine direkte Bindung an
-Erythrozyten (roten Blutkörperchen). Der Kohlendioxid-Transport hingegen
-nicht - CO₂ ist entweder physikalisch gelöst im Blut (10%) oder
-chemisch gebunden als HCO₃⁻ (= Hydrogenkarbonat, 90%).
+Der Sauerstoff-Transport erfolgt über eine direkte Bindung an Erythrozyten (roten Blutkörperchen). Der Kohlendioxid-Transport hingegen nicht - CO₂ ist entweder physikalisch gelöst im Blut (10%) oder chemisch gebunden als HCO₃⁻ (= Hydrogenkarbonat, 90%).
 
 Beeinflussende Faktoren
 
-*Atemwiderstände* beeinflussen die Druck-Volumen- und
-Druck-Stromstärke-Beziehungen während der Atmung.
+*Atemwiderstände* beeinflussen die Druck-Volumen- und Druck-Stromstärke-Beziehungen während der Atmung.
 
 - *elastischer Atemwiderstand*: die Eigenelastizität der Lunge muss
   überwunden werden. Dieser Zusammenhang zwischen Druck und Volumen
@@ -386,19 +307,13 @@ Die Atmung wird über drei Mechanismen reguliert:
   caroticum, Glomus aorticum) und zentral. Sie kontrollieren
   Veränderungen der Blutgase und des pH.
 
-Die zentralen Atemrezeptoren überprüfen den CO₂-Level des
-Blutes, die peripheren Atemrezeptoren den O₂-Level des Blutes.
+Die zentralen Atemrezeptoren überprüfen den CO₂-Level des Blutes, die peripheren Atemrezeptoren den O₂-Level des Blutes.
 
 Beim gesunden Menschen ist der
-*Atemantrieb* vor allem von der *CO₂-Konzentration* des Blutes abhängig: Je höher
-der CO₂-Gehalt, desto stärker der Atemantrieb. Der Sauerstoffanteil
-spielt nur eine untergeordnete Rolle! Unter
-{ref}`saeure-basen-haushalt`, wird ausgeführt, dass das CO₂ eine
-wichtige Rolle im Säure-Basen-Haushalt des Körpers einnimmt.
+*Atemantrieb* vor allem von der *CO₂-Konzentration* des Blutes abhängig: Je höher der CO₂-Gehalt, desto stärker der Atemantrieb. Der Sauerstoffanteil spielt nur eine untergeordnete Rolle! Unter
+{ref}`saeure-basen-haushalt`, wird ausgeführt, dass das CO₂ eine wichtige Rolle im Säure-Basen-Haushalt des Körpers einnimmt.
 
-Folgende Reize können zu einer *verstärkten Atmung* führen: Schmerz- und
-Temperatur, psychische Erregung, arterielle Druckreize von
-Pressorezeptoren, Muskelarbeit, Hormone
+Folgende Reize können zu einer *verstärkten Atmung* führen: Schmerz- und Temperatur, psychische Erregung, arterielle Druckreize von Pressorezeptoren, Muskelarbeit, Hormone
 
 ```{eval-rst}
 .. subfigstart::
@@ -407,8 +322,7 @@ Pressorezeptoren, Muskelarbeit, Hormone
 :::{figure} /Bilder/HirtlerLena-Ccc/Thorax-Diaphragma.\*
 :width: 100%
 
-Das *Diaphragma* ist der wichtigste Atemmuskel
-und trennt den Brust- und Bauchraum.
+Das *Diaphragma* ist der wichtigste Atemmuskel und trennt den Brust- und Bauchraum.
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
@@ -416,8 +330,7 @@ und trennt den Brust- und Bauchraum.
 :::{figure} /Bilder/HirtlerLena-Ccc/Thoraxbewegung-frontal.\*
 :width: 100%
 
-Bei der Einatmung senkt sich das Zwerchfell
-und der Brustkorb hebt sich.
+Bei der Einatmung senkt sich das Zwerchfell und der Brustkorb hebt sich.
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
@@ -450,16 +363,14 @@ Die Rippen folgen der Atembewegung.
 ::::{only} not nosidebar
 
 :::{sidebar} Atemfrequenz, -tiefe, -volumen
-AF
 
+AF
 : Atemfrequenz, *12—16 / min*
 
 AZV
-
 : Atemzugsvolumen, *500 ml*
 
 AMV
-
 : Atemminutenvolumen, *6–8 L / min*
 
 $\mbox{AMV} = \mbox{AZV} \times \mbox{AF}$
@@ -482,23 +393,22 @@ Folgende Werte sind wichtig:
   - Kleinkinder 30-40 / min
   - Kinder 20-30 / min
 
-Es gibt drei wichtige Kennzahlen, welche die Atmung
-beschreiben {term}`🕮 Klinke 3` {term}`🕮 SchmidtPhysio 28`
+Es gibt drei wichtige Kennzahlen, welche die Atmung beschreiben {term}`🕮 Klinke 3` {term}`🕮 SchmidtPhysio 28`
 {term}`🕮 Striebel 7`:
 
-1. Die {dfn}`Atemfrequenz` {index}`\ <! Atemfrequenz>`
-   ({dfn}`AF` {index}`\ <! AF>`, Formelzeichen $f$)
+1. Die **Atemfrequenz** `
+   (**AF**, Formelzeichen $f$)
    gibt die Anzahl der Atemzüge bzw. Atemzyklenpro Minute an.
    Die normale
    Atemfrequenz beträgt beim Erwachsenen in Ruhe 12–16 / min.
 
-2. Das {dfn}`Atemzugvolumen` {index}`\ <! Atemzugvolumen>`
-   ({dfn}`AZV` {index}`\ <! AZV>`, **Tidalvolumen**, $V_t$)
+2. Das **Atemzugvolumen**
+   (**AZV** , **Tidalvolumen**, $V_t$)
    gibt die Menge Luft an,
    die *pro Atemzug* eingeatmet wird. Das normale
    Atemzugvolumen eines Erwachsenen beträgt ca. 500 ml. [^azv]
 
-3. Das {dfn}`Atemzeitvolumen`
+3. Das **Atemzeitvolumen**
    {index}`\ <Atemminutenvolumen>`{index}`\ <Atemzeitvolumen>`
    (AZV, $\dot{V}$)
    beschreibt ein pro Zeiteinheit ein- bzw. ausgeatmetes Gasvolumen und wird meist in Liter pro Minute angegeben (Atemminutenvolumen, AMV).
@@ -513,8 +423,7 @@ beschreiben {term}`🕮 Klinke 3` {term}`🕮 SchmidtPhysio 28`
    \dot{V} = V_t \times f
    $$
 
-Die oben angegebenen Normalwerte ergeben also ein normales
-Atemminutenvolumen von 6—8 L / min.
+Die oben angegebenen Normalwerte ergeben also ein normales Atemminutenvolumen von 6—8 L / min.
 Als *Atemgrenzwert* wird das in einer Minute maximal ventilierbares Volumen (20-25faches der Vitalkapazität) bezeichnet.
 
 [^azv]: Die Einstellungen eines Beatmungsgeräts können von den Normalwerten

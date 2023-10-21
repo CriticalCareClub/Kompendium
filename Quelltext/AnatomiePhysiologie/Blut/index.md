@@ -11,36 +11,50 @@
 ## Allgemeines
 
 Blut ist einer der drei Kernbestandteile des Kreislaufs.
-Die zellulären Bestandteile — trotz der
-unterschiedlichen Aufgaben — entstammen im Erwachsenenalter alle dem
+Die zellulären Bestandteile — trotz der unterschiedlichen Aufgaben — entstammen im Erwachsenenalter alle dem
 *Knochenmark*. (fetal blutbildende Organe auch Milz, Leber)
 
-Man kann jedoch, basierend auf den Bildungsort der Blutzellen, drei
-Phasen während der Entwicklung feststellen:
+Man kann jedoch, basierend auf den Bildungsort der Blutzellen, drei Phasen während der Entwicklung feststellen:
 
-- *Megaloblastische Periode*: 2 Wochen nach der Befruchtung, Bildung
-  der Blutzellen im exraembryonalen Mesoderm, der Dottersackwand und
-  dem embryonalen Bauchstiel.
-- *Hepatolienale Periode*: ab der 6. bis 7. Embryonalwoche, Bildung der
-  Blutzellen in Leber, Milz und Lymphknoten.
-- *Medulläre Periode*: ab dem 5. Fetalmonat, Bildung der Blutzellen im
-  Knochenmark.
+- *Megaloblastische Periode*: 2 Wochen nach der Befruchtung, Bildung der Blutzellen im exraembryonalen Mesoderm, der Dottersackwand und dem embryonalen Bauchstiel.
+- *Hepatolienale Periode*: ab der 6. bis 7. Embryonalwoche, Bildung der Blutzellen in Leber, Milz und Lymphknoten.
+- *Medulläre Periode*: ab dem 5. Fetalmonat, Bildung der Blutzellen im Knochenmark.
 
-Zwei Begriffe müssen zum besseren Verständnis von
-Antigen-Antikörper-Reaktionen zunächst noch erläutert werden:
+Zwei Begriffe müssen zum besseren Verständnis von Antigen-Antikörper-Reaktionen zunächst noch erläutert werden:
 
-- *Antigen*: Definitionsgemäß sind Antigene Stoffe, die in einem
-  fremden Organismus eine Immunreaktion auslösen können. Sie führen
-  unter anderem zur Bildung von Antikörpern, die spezifisch gegen
-  Strukturen dieser Moleküle gerichtet sind und mit diesen reagieren
-  können.
-- *Antikörper*: Antikörper (Immunglobuline, Ig) sind Proteine, die von
-  Plasmazellen produziert und sezerniert werden. Sie sind gegen
-  Bestandteile eines Antigens gerichtet und besitzen die Fähigkeit an
-  dieses zu binden.
+- *Antigen*: Definitionsgemäß sind Antigene Stoffe, die in einem fremden Organismus eine Immunreaktion auslösen können.
+  Sie führen  unter anderem zur Bildung von Antikörpern, die spezifisch gegen Strukturen dieser Moleküle gerichtet sind und mit diesen reagieren können.
+- *Antikörper*: Antikörper (Immunglobuline, Ig) sind Proteine, die von Plasmazellen produziert und sezerniert werden.
+  Sie sind gegen Bestandteile eines Antigens gerichtet und besitzen die Fähigkeit an dieses zu binden.
 
-```{index} single: Blut, feste Bestandteile single: Blut, flüssige Bestandteile single: Blutkörperchen, rote single: Erythrozyten single: Blutkörperchen, weiße single: Leukozyten single: Blutplättchen single: Thrombozyten single: Hämoglobin single: Plasma (Blut) single: Blutplasma single: Anämie single: Blutgruppen single: Blutgruppenmerkmale
-```
+:::{index} single: Blut, feste Bestandteile
+:::
+:::{index} single: Blut, flüssige Bestandteile
+:::
+:::{index} single: Blutkörperchen, rote
+:::
+:::{index} single: Erythrozyten
+:::
+:::{index} single: Blutkörperchen, weiße
+:::
+:::{index} single: Leukozyten
+:::
+:::{index} single: Blutplättchen
+:::
+:::{index} single: Thrombozyten
+:::
+:::{index} single: Hämoglobin
+:::
+:::{index} single: Plasma (Blut)
+:::
+:::{index} single: Blutplasma
+:::
+:::{index} single: Anämie
+:::
+:::{index} single: Blutgruppen
+:::
+:::{index} single: Blutgruppenmerkmale
+:::
 
 (blut-1-1)=
 
@@ -78,11 +92,10 @@ Antigen-Antikörper-Reaktionen zunächst noch erläutert werden:
   - Pufferung des pH-Wertes
 :::
 
-Die gesamte Blutmenge des menschlichen Körpers wird mit *7 - 8 %* des
-gesamten Körpergewichts beziffert. Damit beträgt das gesamte Blutvolumen
-eines Durchschnitts-Menschen mit 70kg ungefähr 5-6 l. Ungefähr 80%
-befinden sich davon im Körperkreislauf, 20% im Lungenkreislauf. Das Blut
-kann man in **zelluläre** und **flüssige** Bestandteile unterteilen.
+Die gesamte Blutmenge des menschlichen Körpers wird mit *7 - 8 %* des gesamten Körpergewichts beziffert.
+Damit beträgt das gesamte Blutvolumen eines Durchschnitts-Menschen mit 70kg ungefähr 5-6 l.
+Ungefähr 80% befinden sich davon im Körperkreislauf, 20% im Lungenkreislauf.
+Das Blut kann man in **zelluläre** und **flüssige** Bestandteile unterteilen.
 
 :::{sidebar} Blut: Aufgaben
 - Stoff- und Gastransport
@@ -103,30 +116,20 @@ kann man in **zelluläre** und **flüssige** Bestandteile unterteilen.
 
 Das Blut hat vielfältige Aufgaben:
 
-- **Gastransport**: Das Blut transportiert *Sauerstoff*
-  zu den Zellen und *Kohlendioxid* von den Zellen weg
-  ({ref}`blut-sauerstofftransport`).
-- **Stofftransport**: Weiters transportiert das Blut die über
-  den Darm aufgenommenen oder im Körper gespeicherten *Nährstoffe* zu den entsprechenden
-  Verbrauchern (Zellen) oder Weiterverarbeitungsstellen
-  und sorgt für den Abtransport von
-  *Abfallprodukten* aus den Zellen zu Leber und Niere.
-  Außerdem werden über das Blut
-  Signal- bzw. *Botenstoffe* (**Hormone**) transportiert.
+- **Gastransport**:
+  Das Blut transportiert *Sauerstoff* zu den Zellen und *Kohlendioxid* von den Zellen weg ({ref}`blut-sauerstofftransport`).
+- **Stofftransport**:
+  Weiters transportiert das Blut die über den Darm aufgenommenen oder im Körper gespeicherten *Nährstoffe* zu den entsprechenden Verbrauchern (Zellen) oder Weiterverarbeitungsstellen und sorgt für den Abtransport von *Abfallprodukten* aus den Zellen zu Leber und Niere.
+  Außerdem werden über das Blut Signal- bzw. *Botenstoffe* (**Hormone**) transportiert.
 - **Immunsystem**: Das Blut spielt eine wichtige Rolle im Rahmen des
-  Immun(abwehr)systems: Weiße Blutkörperchen und bestimmte, im Blut
-  gelöste, Stoffe sind ein wichtiger Bestandteil des Immunsystems
-  ({ref}`immunsystem`). Durch das Blut gelangen die weißen
-  Blutkörperchen und die gelösten Stoffe an den Ort von Infektionen.
+  Immun(abwehr)systems: Weiße Blutkörperchen und bestimmte, im Blut gelöste, Stoffe sind ein wichtiger Bestandteil des Immunsystems ({ref}`immunsystem`).
+  Durch das Blut gelangen die weißen Blutkörperchen und die gelösten Stoffe an den Ort von Infektionen.
 - **Regulation der Körpertemperatur** gemeinsam mit den Blutgefäßen:
-  Bei Kälte werden die Blutgefäße in den Extremitäten enger gestellt —
-  weniger Wärme geht nach außen verloren, das Blut und dementsprechend
-  die Wärme wird "zentralisiert". Andersrum funktioniert es bei großer
-  Hitze: Über eine Weitstellung der Gefäße versucht der Körper soviel
-  Hitze wie möglich loszuwerden.
-- **Säure-Basen-Haushalt**: Mittels eines *Puffersystems*
-  ({ref}`bikarbonatpuffer`) hilft das Blut bei der Aufrechterhaltung
-  eines ausgeglichenen pH-Werts im Körper.
+  Bei Kälte werden die Blutgefäße in den Extremitäten enger gestellt — weniger Wärme geht nach außen verloren, das Blut und dementsprechend die Wärme wird "zentralisiert".
+  Andersrum funktioniert es bei großer Hitze:
+  Über eine Weitstellung der Gefäße versucht der Körper soviel Hitze wie möglich loszuwerden.
+- **Säure-Basen-Haushalt**:
+  Mittels eines *Puffersystems* ({ref}`bikarbonatpuffer`) hilft das Blut bei der Aufrechterhaltung eines ausgeglichenen pH-Werts im Körper.
 - **Blutgerinnung** (Blutplättchen, Gerinnungsfaktoren des Blutplasma)
 
 (tab-blut-bestandteile)=
@@ -176,30 +179,23 @@ Das Blut hat vielfältige Aufgaben:
 ### Zelluläre Bestandteile
 
 Die Blutbildung wird durch *Erythropoetin* (aus der Niere) gesteuert.
-Junge Erythrozyten (Retikulozyten) beispielsweise betragen ca. 1% der
-Gesamtzahl an Erythrozyten.
+Junge Erythrozyten (Retikulozyten) beispielsweise betragen ca. 1% der Gesamtzahl an Erythrozyten.
 
 Es gibt folgende Blutzellen:
 
-- *Erythrozyten (rote Blutkörperchen)*: besitzen keinen Zellkern,
-  Lebensdauer ca. 120 Tage (160 Mio/min gebildet), Abbau in Milz und
-  Leber (Abbauprodukt = Bilirubin = Gallenfarbstoff), Hämoglobin ist
-  der Hauptbestandteil (Mann 160 g/l, Frau 140 g/l), bindet Sauerstoff
-  reversibel, Mann 5,3 Mio / µl, Frau 4,6 Mio / µl.
+- *Erythrozyten (rote Blutkörperchen)*:
+  besitzen keinen Zellkern, Lebensdauer ca. 120 Tage (160 Mio/min gebildet), Abbau in Milz und Leber (Abbauprodukt = Bilirubin = Gallenfarbstoff), Hämoglobin ist der Hauptbestandteil (Mann 160 g/l, Frau 140 g/l), bindet Sauerstoff reversibel, Mann 5,3 Mio / µl, Frau 4,6 Mio / µl.
   Sie tragen die **Blutgruppenmerkmale** (z. B. A, B bzw. 0) und die Rhesusfaktoren.
 
-- *Leukozyten (weiße Blutkörperchen)*: 4000—8000 / µl, Wirken
-  außerhalb des Blutgefäßsystems, Blut nur als Transportmedium.
+- *Leukozyten (weiße Blutkörperchen)*: 4000—8000 / µl,
+  Wirken außerhalb des Blutgefäßsystems, Blut nur als Transportmedium.
 
   - Granulozyten: unspezifische Immunabwehr
 
-    - neutrophile Granulozyten: ersten am Entzündungsort,
-      beinhalten lysosomatische Enzyme, 60—70%
-    - eosinophile Granulozyten: bei allergischen Reaktionen,
-      beinhalten v.a. Histamine, 2—3%
+    - neutrophile Granulozyten: ersten am Entzündungsort, beinhalten lysosomatische Enzyme, 60—70%
+    - eosinophile Granulozyten: bei allergischen Reaktionen, beinhalten v.a. Histamine, 2—3%
     - basophile Granulozyten:
-      hauptsächlich bei Parasiten, beinhalten
-      Histamine und Heparin, 0,5—1%
+      hauptsächlich bei Parasiten, beinhalten Histamine und Heparin, 0,5—1%
 
   - Lymphozyten: spezifische Immunabwehr, 20—30%
 
@@ -207,8 +203,7 @@ Es gibt folgende Blutzellen:
     - B-Lymphozyten
     - T-Helferzellen
 
-  - Monozyten und Makrophagen: unspezifische und spezifische
-    Immunabwehr, 4-5%
+  - Monozyten und Makrophagen: unspezifische und spezifische Immunabwehr, 4-5%
 
 - *Thrombozyten (Blutplättchen)*: Lebensdauer ca. 5 bis 10 Tage
 
@@ -218,18 +213,12 @@ Erythrozyt (rot), Thrombozyt (gelb) und Leukozyt (blau) im Rasterelektronenmikro
 ₢ US National Cancer Institute {term}`ℓ PD`
 :::
 
-Der *Hämatokrit* spiegelt den prozentualen Anteil der Blutzellen am
-Gesamtblutvolumen wider (ca. 45%, Mann 47%, Frau 43%).
+Der *Hämatokrit* spiegelt den prozentualen Anteil der Blutzellen am Gesamtblutvolumen wider (ca. 45%, Mann 47%, Frau 43%).
 
 ### Flüssige Bestandteile:  Blutplasma
 
-Die **flüssigen Bestandteile** des Blutes,
-das {dfn}`Plasma` besteht zum
-größten Teil (ca. 90%) aus *Wasser*.
-Der restliche Anteil (ca. 10%) besteht aus gelösten
-Stoffen wie
-z. B. *Proteine*, *Enzyme*, *Hormone*, *Elektrolyte*,
-*Glukose* und *Fette*, konkret:
+Die **flüssigen Bestandteile** des Blutes, das {dfn}`Plasma` besteht zum größten Teil (ca. 90%) aus *Wasser*.
+Der restliche Anteil (ca. 10%) besteht aus gelösten Stoffen wie z. B. *Proteine*, *Enzyme*, *Hormone*, *Elektrolyte*, *Glukose* und *Fette*, konkret:
 
 ```
 -   *Proteine 70 %*:
@@ -256,33 +245,18 @@ z. B. *Proteine*, *Enzyme*, *Hormone*, *Elektrolyte*,
 >   - Immunglobulin M (IgM): bei Antigenkontakt
 
 - *niedermolekulare Stoffe*
-  (z.B. Nahrungsstoffe, Stoffwechselprodukte,
-  Vitamine, Spurenelemente, Hormone, Zellstoffwechselprodukte,
-  Ausscheidungsprodukte, Enzyme, Fette) 20 %
-- *Elektrolyte* 10 %: Gesamt-Osmotischer Druck im Plasma ca. 290
-  mosmol / L
+  (z.B. Nahrungsstoffe, Stoffwechselprodukte, Vitamine, Spurenelemente, Hormone, Zellstoffwechselprodukte, Ausscheidungsprodukte, Enzyme, Fette) 20 %
+- *Elektrolyte* 10 %: Gesamt-Osmotischer Druck im Plasma ca. 290 mosmol / L
 
-Die *Osmolarität* bezeichnet Konzentration aller
-osmotisch wirksamen Teilchen pro Volumseinheit
-(vgl. {ref}`Osmose und Diffusion <Osmose>`).
+Die *Osmolarität* bezeichnet Konzentration aller osmotisch wirksamen Teilchen pro Volumseinheit (vgl. {ref}`Osmose und Diffusion <Osmose>`).
 Normalerweise sollte die Osmolarität intrazellulär gleich sein wie extrazellulär (isoton).
-Infusionslösungen sollten ebenfals isoton sein, d. h. die gleiche Osmolarität
-besitzen wie das Plasma.
-Wenn man hypertone Lösungen einsetzt
-(höherer osmotischer Druck), wird Wasser den Zellen entzogen, es kommt
-zu einer Zellschrumpfung.
-Wenn man hypotone Lösungen einsetzt
-(niedriger Osmotischer Druck), wird Wasser in die Zellen aufgenommen, es
-kommt zum Platzen von Zellen.
+Infusionslösungen sollten ebenfals isoton sein, d. h. die gleiche Osmolarität besitzen wie das Plasma.
+Wenn man hypertone Lösungen einsetzt (höherer osmotischer Druck), wird Wasser den Zellen entzogen, es kommt zu einer Zellschrumpfung.
+Wenn man hypotone Lösungen einsetzt (niedriger Osmotischer Druck), wird Wasser in die Zellen aufgenommen, es kommt zum Platzen von Zellen.
 
-Die wesentliche Aufgabe des Plasmas ist der
-*Transport* von Nährstoffen an ihren Zielort im Körper.
-Es enthält
-weiters die Bestandteile für die plasmatische Blutgerinnung und das
-Immunsystem (Antikörper, Immunglobuline).
-Durch die Elektrolyte ist
-es am Wasserhaushalt beteiligt und sorgt mit Puffersubstanzen für
-einen ausgeglichenen pH-Wert im menschlichen Körper.
+Die wesentliche Aufgabe des Plasmas ist der *Transport* von Nährstoffen an ihren Zielort im Körper.
+Es enthält weiters die Bestandteile für die plasmatische Blutgerinnung und das Immunsystem (Antikörper, Immunglobuline).
+Durch die Elektrolyte ist es am Wasserhaushalt beteiligt und sorgt mit Puffersubstanzen für einen ausgeglichenen pH-Wert im menschlichen Körper.
 Schlußendlich sorgt es auch für die Wärmeverteilung im Körper.
 
 (gerinnungsfaktoren)=
@@ -297,50 +271,27 @@ Schlußendlich sorgt es auch für die Wärmeverteilung im Körper.
     -   Endgültiger Wundverschluss (Blutgerinnung)
 ```
 
-Unser Organismus verfügt über eine körpereigene Blutstillung, welche
-aktiviert wird, sobald es im Körper zu einer Verletzung kommt.
-Die Blutgerinnung ist ein äußerst komplexer Vorgang
-uns baut auf Komponenten der zellulären Bestandteile (Thrombozyten)
-und der gelösten Stoffe (Gerinnungsfaktoren, Co-Faktoren u. v. a. m.)
-auf.
-Die einzelnen Komponenten sind netz- und kaskadenartig miteiannder verbunden,
-wobei sie fördernde als auch hemmende Einflüsse auf die Gerinnung haben können.
+Unser Organismus verfügt über eine körpereigene Blutstillung, welche aktiviert wird, sobald es im Körper zu einer Verletzung kommt.
+Die Blutgerinnung ist ein äußerst komplexer Vorgang uns baut auf Komponenten der zellulären Bestandteile (Thrombozyten) und der gelösten Stoffe (Gerinnungsfaktoren, Co-Faktoren u. v. a. m.) auf.
+Die einzelnen Komponenten sind netz- und kaskadenartig miteiannder verbunden, wobei sie fördernde als auch hemmende Einflüsse auf die Gerinnung haben können.
 
 Global gesehen beträgt die  *Blutungszeit* durchschnittlich ca. 2 bis 4 Minuten, bei kleineren Verletzungen u. U. auch länger.
 
-Folgende Phasen laufen während der *Blutstillung* (primäre Hämostase)
-und *Blutgerinnung* (sekundäre Hämostase) ab:
+Folgende Phasen laufen während der *Blutstillung* (primäre Hämostase) und *Blutgerinnung* (sekundäre Hämostase) ab:
 
-Aktivierung der Thrombokinase - Prothrombin wird hierdurch in Thrombin
-umgewandelt - das Thrombin bewirkt die Umwandlung von Fibrinogen zu
-Fibrin - Fibrin und Thrombozyten bilden gemeinsam den Thrombus - es
-kommt zu einer Verfestigung des Thrombus (Retraktion)
+Aktivierung der Thrombokinase - Prothrombin wird hierdurch in Thrombin umgewandelt - das Thrombin bewirkt die Umwandlung von Fibrinogen zu Fibrin - Fibrin und Thrombozyten bilden gemeinsam den Thrombus - es kommt zu einer Verfestigung des Thrombus (Retraktion)
 
-In einem
-ersten Schritt haften Blutplättchen an der verletzten Stelle des
-Blutgefäßes aneinander und bilden einen *Thrombozytenpfropf*, der die
-Wunde grob verschließt (vorläufiger Wundverschluss, primäre
-Blutstillung).
+In einem ersten Schritt haften Blutplättchen an der verletzten Stelle des Blutgefäßes aneinander und bilden einen *Thrombozytenpfropf*, der die Wunde grob verschließt (vorläufiger Wundverschluss, primäre Blutstillung).
 Erst in einem zweiten Schritt kommt es durch die
-*Blutgerinnung* zum endgültigen Wundverschluss ( sekundäre
-Blutstillung).
-Für die Bildung der Thrombozytenpfropfen sind die festen
-Bestandteile des Blutes und für die Blutstillung das Blutplasma
-(flüssiger Bestandteil) zuständig.
-Am Ende der Wundheilung werden
-defekte Zellen abgebaut und Bindegewebe aufgebaut.
+*Blutgerinnung* zum endgültigen Wundverschluss ( sekundäre Blutstillung).
+Für die Bildung der Thrombozytenpfropfen sind die festen Bestandteile des Blutes und für die Blutstillung das Blutplasma (flüssiger Bestandteil) zuständig.
+Am Ende der Wundheilung werden defekte Zellen abgebaut und Bindegewebe aufgebaut.
 
-Bei der Blutgerinnung werden nacheinander mehrere im Blutplasma gelöste
-Gerinnungsfaktoren  aktiviert.
-Dadurch
-verwandelt sich das zunächst ebenfalls im Plasma gelöste Fibrinogen in
-einen klebrigen und später in einen festen, die Wunde verschließenden
-Blutpfropfen (Thrombus).
+Bei der Blutgerinnung werden nacheinander mehrere im Blutplasma gelöste Gerinnungsfaktoren  aktiviert.
+Dadurch verwandelt sich das zunächst ebenfalls im Plasma gelöste Fibrinogen in einen klebrigen und später in einen festen, die Wunde verschließenden Blutpfropfen (Thrombus).
 
-Das Gegenstück zur Blutgerinnung, bei der es zur Bildung von Thromben
-kommt, ist die Fibrinolyse, bei der es zur Auflösung von Thromben kommt.
-Normalerweise sind diese beiden Mechanismen im Gleichgewicht, sodass das
-Blut weder zu schnell noch zu langsam gerinnt.
+Das Gegenstück zur Blutgerinnung, bei der es zur Bildung von Thromben kommt, ist die Fibrinolyse, bei der es zur Auflösung von Thromben kommt.
+Normalerweise sind diese beiden Mechanismen im Gleichgewicht, sodass das Blut weder zu schnell noch zu langsam gerinnt.
 
 Phasen der *Fibrinolyse*:
 
@@ -356,20 +307,14 @@ Aktivatoren in Blut und Gewebe — Plasminogen wird in Plasmin umgewandelt
 - Hämoglobin
 :::
 
-Durch das Kreislaufsystem wird
-sauerstoff- und nährstoffreiches Blut gepumpt. Es nimmt Sauerstoff in
-der Lunge auf, bringt ihn zu den Zellen und nimmt auf dem Rückweg das
-abzuatmende *Kohlendioxid* auf, welches zur Lunge transportiert wird.
-Ausschlaggebend für die Sauerstoffversorgung ist der *Sauerstoffgehalt*
-des Blutes. Dieser wird wesentlich durch den Gasaustausch, aber auch
-durch die Aufnahmekapazität des Blutes bestimmt. Wieviel Sauerstoff das
-Blut aufnehmen kann, hängt vor allem von der Anzahl der roten
-Blutkörperchen (*Erythrozyten*) bzw. der Konzentration des
-Blutfarbstoffes *Hämoglobin* ab.
+Durch das Kreislaufsystem wird sauerstoff- und nährstoffreiches Blut gepumpt.
+Es nimmt Sauerstoff in der Lunge auf, bringt ihn zu den Zellen und nimmt auf dem Rückweg das abzuatmende *Kohlendioxid* auf, welches zur Lunge transportiert wird.
+Ausschlaggebend für die Sauerstoffversorgung ist der *Sauerstoffgehalt* des Blutes.
+Dieser wird wesentlich durch den Gasaustausch, aber auch durch die Aufnahmekapazität des Blutes bestimmt.
+Wieviel Sauerstoff das Blut aufnehmen kann, hängt vor allem von der Anzahl der roten Blutkörperchen (*Erythrozyten*) bzw. der Konzentration des Blutfarbstoffes *Hämoglobin* ab.
 Im arteriellen Blut sind pro Liter ca
-0,2 L Sauerstoff enthalten. Im Normalfall werden davon nur ca. 25% vom
-Körper aufgenommen, der Rest gelangt ungenutzt in das venöse System
-zurück.
+0,2 L Sauerstoff enthalten.
+Im Normalfall werden davon nur ca. 25% vom Körper aufgenommen, der Rest gelangt ungenutzt in das venöse System zurück.
 
 ```{rubric} Advanced
 ```
@@ -383,27 +328,15 @@ Dieser Faktor von 1,34 wird auch als
 {index}`\ <Zahl; Hüfner->`
 bezeichnet.
 Es ist jedoch wichtig zu wissen dass u. a. der {ref}`pH-Wert <PH>` die Sauerstoffbindungsaffinität maßgeblich verändert:
-Bei einer Azidose nimmt die Affinität ab
-(Sauerstoff wird schlechter aufgenommen, aber im Gewebe leichter abgegeben),
-bei einer Alkalose nimmt die Affinität zu
-(Sauerstoff wird leichter aufgenommen, aber im Gewebe schlechter abgegeben).
-Man kann diese Dynamik auf in einer Grafik auf einer Kurve,
-der *Sauerstoffbindungskurve*,
-darstellen.
+Bei einer Azidose nimmt die Affinität ab (Sauerstoff wird schlechter aufgenommen, aber im Gewebe leichter abgegeben), bei einer Alkalose nimmt die Affinität zu (Sauerstoff wird leichter aufgenommen, aber im Gewebe schlechter abgegeben).
+Man kann diese Dynamik auf in einer Grafik auf einer Kurve, der *Sauerstoffbindungskurve*, darstellen.
 
-Die gesamte **Sauerstofftransportkapazität** wird weiters
-neben der Bindekapazität
-auch von der Sauerstoffsättigung,
-vom Herzauswurf (Cardiac Output, CO)
-und der Herzfrequenz bestimmt.
+Die gesamte **Sauerstofftransportkapazität** wird weiters neben der Bindekapazität auch von der Sauerstoffsättigung, vom Herzauswurf (Cardiac Output, CO) und der Herzfrequenz bestimmt.
 
 ## Blutgruppenmerkmale
 
-Die Erythrozyten weisen eine große Anzahl an Membranbestandteilen auf
-(Blutgruppenantigene).
-Beim Menschen sind mehr als 100 solcher Antigene
-bekannt, jedoch hat vor allem das AB0- und das Rhesussystem klinische
-Bedeutung.
+Die Erythrozyten weisen eine große Anzahl an Membranbestandteilen auf (Blutgruppenantigene).
+Beim Menschen sind mehr als 100 solcher Antigene bekannt, jedoch hat vor allem das AB0- und das Rhesussystem klinische Bedeutung.
 
 Innerhalb des *AB0-System* werden 4 Gruppen unterschieden:
 
@@ -412,16 +345,12 @@ Innerhalb des *AB0-System* werden 4 Gruppen unterschieden:
 - Erythrozyten mit dem Antigen A und dem Antigen B (Blutgruppe AB): 4%
 - Erythrozyten mit keinem der beiden Antigene (Blutgruppe 0): 42%
 
-Lebensbedrohliche Reaktion bei Bluttransfusion von falscher Blutgruppe
-(hämolytische Reaktion).
+Lebensbedrohliche Reaktion bei Bluttransfusion von falscher Blutgruppe (hämolytische Reaktion).
 
-Beim *Rhesussystem* bestehen nur zwei Gruppen - positiv oder negativ. In
-Mitteleuropa sind 85% Rhesus positiv und 15% Rhesus-negativ.
+Beim *Rhesussystem* bestehen nur zwei Gruppen - positiv oder negativ.
+In Mitteleuropa sind 85% Rhesus positiv und 15% Rhesus-negativ.
 
-Lebensbedrohliche Reaktion bei Bluttransfusion von Rh-positivem-Blut an
-einen Rh-negativen-Patienten (Hämagglutination) bzw. ab der zweiten
-Schwangerschaft einer Rh-negativen Mutter mit einem Rh-positivem Kind
-(Hämolyse).
+Lebensbedrohliche Reaktion bei Bluttransfusion von Rh-positivem-Blut an einen Rh-negativen-Patienten (Hämagglutination) bzw. ab der zweiten Schwangerschaft einer Rh-negativen Mutter mit einem Rh-positivem Kind (Hämolyse).
 
 ## Blutprodukte
 
@@ -431,8 +360,8 @@ Schwangerschaft einer Rh-negativen Mutter mit einem Rh-positivem Kind
 - Problem: Antikörper
 :::
 
-Zu medizinischen Zwecken können Blutbestandteile durch Blutprodukte
-ersetzt werden. Die wichtigsten Produkte sind:
+Zu medizinischen Zwecken können Blutbestandteile durch Blutprodukte ersetzt werden.
+Die wichtigsten Produkte sind:
 
 - {dfn}`Erythrozytenkonzentrate` ("Ery-Konzentrate",
   "Blutkonserven") sind Blutprodukte, welche (fast) ausschließlich
@@ -440,11 +369,8 @@ ersetzt werden. Die wichtigsten Produkte sind:
   bei starken Blutungen, eingesetzt.
 - {dfn}`Thrombozytenkonzentrate` sind Blutprodukte, welche fast ausschließlich Thrombozyten beinhalten.
 
-Manche Menschen bilden Antikörper gegen bestimmte Fremdblutbestandteile,
-sodass sie spezielle, taugliche, Blutprodukte benötigen. Die
-Organisation von derartigen Produkten kann aufwendig und zeitkritisch
-sein, da u.U. die benötigten Einheiten nur in speziellen Zentren im
-geringen Umfang vorrätig sind.
+Manche Menschen bilden Antikörper gegen bestimmte Fremdblutbestandteile, sodass sie spezielle, taugliche, Blutprodukte benötigen.
+Die Organisation von derartigen Produkten kann aufwendig und zeitkritisch sein, da u.U. die benötigten Einheiten nur in speziellen Zentren im geringen Umfang vorrätig sind.
 
 (immunsystem)=
 
@@ -452,29 +378,21 @@ geringen Umfang vorrätig sind.
 
 ## Immunsystem
 
-Das {dfn}`Immunsystem` (Abwehrsystem) schützt den Körper vor
-Infektionskrankheiten und ist eine Vitalfunktion 2. Ordnung. Eine
-besonders bedeutende Rolle spielen die *Leukozyten* (Weiße
-Blutkörperchen, {ref}`leukozyten`). Sie ermöglichen das Abtötung und
-den Abbau von Krankheitserregern im Körper. Bestimmte Arten von
-Leukozyten können *Antikörper* (*Immunglobuline*)
-produzieren, das sind Proteine, welche an die Oberfläche von anderen
-Stoffen (z. B. Bakterien) binden können und damit die Erkennung und
-Abwehr eben dieser Stoffe unterstützen. Antikörper kommen außerdem bei
+Das {dfn}`Immunsystem` (Abwehrsystem) schützt den Körper vor Infektionskrankheiten und ist eine Vitalfunktion 2. Ordnung.
+Eine besonders bedeutende Rolle spielen die *Leukozyten* (Weiße Blutkörperchen, {ref}`leukozyten`).
+Sie ermöglichen das Abtötung und den Abbau von Krankheitserregern im Körper.
+Bestimmte Arten von Leukozyten können *Antikörper* (*Immunglobuline*) produzieren, das sind Proteine, welche an die Oberfläche von anderen Stoffen (z. B. Bakterien) binden können und damit die Erkennung und Abwehr eben dieser Stoffe unterstützen.
+Antikörper kommen außerdem bei
 *Schutzimpfungen* zum Einsatz.
-Weitere, im Blut gelöste Stoffe[^komplementsystem],
-ergänzen die Funktion der Antikörper. Fieber kann die Immunabwehr
-unterstützen.
+Weitere, im Blut gelöste Stoffe[^komplementsystem], ergänzen die Funktion der Antikörper.
+Fieber kann die Immunabwehr unterstützen.
 
 [^komplementsystem]: Komplementsystem
 
-Das Blut stellt ein Transportvehikel für das Immunsystem dar,
-jedoch können speziell Immunzellen vom Blut in das Gewebe wechseln und dort aktiv werden.
+Das Blut stellt ein Transportvehikel für das Immunsystem dar, jedoch können speziell Immunzellen vom Blut in das Gewebe wechseln und dort aktiv werden.
 Der Schauplatz einer Immunreaktion befindet sich somit zumeist außerhalb des Blutes.
 
-Das Immunsystem besteht aus den *Abwehrzellen (Leukozyten), löslichen
-Proteinen (Antikörper usw.) und lymphatischen Organen*. Man kann eine
-spezifische und eine unspezifische Immunabwehr unterscheiden.
+Das Immunsystem besteht aus den *Abwehrzellen (Leukozyten), löslichen Proteinen (Antikörper usw.) und lymphatischen Organen*. Man kann eine spezifische und eine unspezifische Immunabwehr unterscheiden.
 
 - *unspezifische Immunabwehr*: angeboren, erste Abwehrmaßnahmen
 
@@ -508,8 +426,7 @@ spezifische und eine unspezifische Immunabwehr unterscheiden.
 
 MHC-Klasse I: Rezeptor auf allen Körperzellen
 
-MHC-Klasse II: Rezeptor nur auf spezifischen antigenpräsentierenden
-Zellen
+MHC-Klasse II: Rezeptor nur auf spezifischen antigenpräsentierenden Zellen
 
 T-Supressorzellen beenden die Immunantwort
 
@@ -524,16 +441,12 @@ Bei den lymphatischen Organen kann man zwei Gruppen unterscheiden:
   Lymphknoten, lymphatisches Gewebe der Schleimhäute (z.B.
   Peyer-Plaques des Ileum, Tonsillen)
 
-Die *Lymphozyten* befinden sich zu 98% in den lymphatischen Organen und
-im Bindegewebe. nur zu 2% sind sie im Blut zu finden.
+Die *Lymphozyten* befinden sich zu 98% in den lymphatischen Organen und im Bindegewebe. nur zu 2% sind sie im Blut zu finden.
 
-Der *Thymus* ist hauptsächlich zuständig für die T-Lymphozyten-Prägung
-während der Embryonalzeit zuständig. Hier lernen die Lymphozyten
-zwischen körpereigen und körperfremd zu unterscheiden. Thymopoetin
-fördert die differenzierung der verschiedenen T-Lymphozyten, die zur
-Prägung, Reifung und Differenzierung dann in sekundär lymphatische
-Organe auswandern. Die Reifung der B-Lymphozyten findet im Knochenmark
-statt.
+Der *Thymus* ist hauptsächlich zuständig für die T-Lymphozyten-Prägung während der Embryonalzeit zuständig.
+Hier lernen die Lymphozyten zwischen körpereigen und körperfremd zu unterscheiden.
+Thymopoetin fördert die differenzierung der verschiedenen T-Lymphozyten, die zur Prägung, Reifung und Differenzierung dann in sekundär lymphatische Organe auswandern.
+Die Reifung der B-Lymphozyten findet im Knochenmark statt.
 
 ```{index} single: Milz single: Lien single: Splen
 ```
@@ -550,19 +463,15 @@ statt.
 :::
 ::::
 
-Die {dfn}`Milz` (*Lien*, *Splen*) ist ca. 12 cm groß, oval
-geformt und und liegt im linken Oberbauch, verdeckt von den Rippen.
+Die {dfn}`Milz` (*Lien*, *Splen*) ist ca. 12 cm groß, oval geformt und und liegt im linken Oberbauch, verdeckt von den Rippen.
 Sie ist nicht an der Verdauung beteiligt.
 
-Sie ist verantwortlich für den Abbau von zu alten Erythrozyten
-(sog. Blutmauser), weiters erfüllt sie zahlreiche Aufgaben im Rahmen der Infektabwehr. Bis zum sechsten Lebensjahr ist sie außerdem an der Blutbildung beteiligt.
+Sie ist verantwortlich für den Abbau von zu alten Erythrozyten (sog. Blutmauser), weiters erfüllt sie zahlreiche Aufgaben im Rahmen der Infektabwehr.
+Bis zum sechsten Lebensjahr ist sie außerdem an der Blutbildung beteiligt.
 
-Sie ist ca. faustgroß, 150 bis 200 g schwer und hat
-die Form einer Kaffeebohne. Sie liegt unter dem Zwerchfell und
-Rippenbogen im linken Oberbauch. In ihrem Querschnitt kann man eine rote
-(80%) von einer weißen Pulpa unterscheiden.
-Ihre Vene mündet in
-die Pfortader. Damit sie ihre Aufgaben erfüllen kann, ist sie *sehr gut
-durchblutet*!
-Das Milzparenchym ist von
-einer festen *Bindegewebskapsel* umhüllt und durch Septen unterteilt.
+Sie ist ca. faustgroß, 150 bis 200 g schwer und hat die Form einer Kaffeebohne.
+Sie liegt unter dem Zwerchfell und Rippenbogen im linken Oberbauch.
+In ihrem Querschnitt kann man eine rote (80%) von einer weißen Pulpa unterscheiden.
+Ihre Vene mündet in die Pfortader.
+Damit sie ihre Aufgaben erfüllen kann, ist sie *sehr gut durchblutet*!
+Das Milzparenchym ist von einer festen *Bindegewebskapsel* umhüllt und durch Septen unterteilt.

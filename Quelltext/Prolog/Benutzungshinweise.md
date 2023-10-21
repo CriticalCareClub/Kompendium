@@ -17,12 +17,9 @@
 
 ## Im Text
 
-*Betonte* Textteile sind kursiv, *Besonders stark betonte* sind fett
-gedruckt. {dfn}`Fachbegriffe`, welche an dieser
-Stelle erklärt werden, haben ebenfalls eine eigene Formatierung.
-Normale Fußnoten [^footnote-1] beinhalten
-Hintergrundinformationen, die nicht uninteressant sind, aber den
-normalen Fließtext unnötig aufblähen würden.
+*Betonte* Textteile sind kursiv, *Besonders stark betonte* sind fett gedruckt.
+{dfn}`Fachbegriffe`, welche an dieser Stelle erklärt werden, haben ebenfalls eine eigene Formatierung.
+Normale Fußnoten [^footnote-1] beinhalten Hintergrundinformationen, die nicht uninteressant sind, aber den normalen Fließtext unnötig aufblähen würden.
 
 [^footnote-1]: Ich bin eine normale Fußnote.
 

@@ -30,7 +30,7 @@
 ```
 
 :::{note}
-Bei *0,6 |MgPerKg|* gute Intubationsbedingungen schon nach 1 min,
+Bei *0,6 mg / kg* gute Intubationsbedingungen schon nach 1 min,
 Alternative für RSI.
 
 Wirkdauer ca. 40--50 min .

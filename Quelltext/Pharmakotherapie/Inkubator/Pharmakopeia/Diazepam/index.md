@@ -30,7 +30,7 @@
 
 :Dosierung:
 
-   |IV|:  0,2-0,5 |MgPerKg| max. 20 mg
+   |IV|:  0,2-0,5 mg / kg max. 20 mg
 
    Rektal: ≤ 15 kg: 5 mg;  > 15 kg: 10 mg
 

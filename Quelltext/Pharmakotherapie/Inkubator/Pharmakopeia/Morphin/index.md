@@ -25,7 +25,7 @@
 
    - Erw: 2,5--10 mg |IV|,
 
-   - Kinder: 0,05 |MgPerKg| |IV|; auch sc/im.
+   - Kinder: 0,05 mg / kg |IV|; auch sc/im.
 
 :Anmerkungen:
 

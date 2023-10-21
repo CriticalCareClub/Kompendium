@@ -24,7 +24,7 @@
 
          Status: 4 mg Wiederholung mit 4 mg nach 10 min
 
-         Kinder: 0,1 |MgPerKg|
+         Kinder: 0,1 mg / kg
 
 .. note::
 ```

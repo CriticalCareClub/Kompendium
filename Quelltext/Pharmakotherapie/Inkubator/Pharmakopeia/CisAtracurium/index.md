@@ -21,11 +21,11 @@ Beschreibung
 
 :Dosierung:
 
-   - Intubation: 0,2 |MgPerKg|
+   - Intubation: 0,2 mg / kg
 
-   - Rep.: 0,2 |MgPerKg|
+   - Rep.: 0,2 mg / kg
 
-   - Perfusor: 3--2--1 |McgPerKgPerMin|
+   - Perfusor: 3--2--1 mcg / kg / min
 
    Dosierung abhängig von Muskelmasse!
 

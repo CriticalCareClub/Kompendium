@@ -23,7 +23,7 @@
 
 :Dosierung:
 
-   1--1,5 |MgPerKg|
+   1--1,5 mg / kg
 
 :Pharmakodynamik:
 

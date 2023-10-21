@@ -100,13 +100,9 @@ Typische Sofortmaßnahmen sind z. B.
   Patienten.
 
 (m-standardmassnahmen-vital)=
-
 (standardmassnahmen-vital)=
-
 (proc-yy13100b)=
-
 (yy13100b)=
-
 (smbvbp)=
 
 ## Standardmaßnahmen bei vital bedrohten Patienten

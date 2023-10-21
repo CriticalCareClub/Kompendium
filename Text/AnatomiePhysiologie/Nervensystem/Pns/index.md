@@ -6,7 +6,7 @@ Unter dem Begriff {dfn}`Peripheres Nervensystem`
 die Verbindungsnerven zwischen dem ZNS und den Endorganen zusammen.
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/PNSZNS-edited-00254pt.\*
 :width: 70%
 
 Das zentrale Nervensystem (grau) und davon abgehende periphere
@@ -144,14 +144,14 @@ vegetativen Nervensystems ({ref}`vegetatives-nervensystem`).
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Spinalnerven-edited-00254pt.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Spinalnerven-edited-00254pt.\*
 Vom Rückenmark (grau) gehen die peripheren Spinalnerven
 (gelb) ab.
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/WS_Aufbau.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/WS_Aufbau.\*
 Lage in Bezug zur Wirbelsäule: Vom Rückenmark abgehende periphere
 Spinalnerven (gelb); Wirbel (grau) und Bandscheiben
 (türkis). Beachte dass die Nerven geordnet nach
@@ -160,7 +160,7 @@ Rückenmarkssegmenten abgehen.
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/PNSZNS-edited-00254pt.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/PNSZNS-edited-00254pt.\*
 Das zentrale Nervensystem (grau) und davon abgehende periphere
 Nerven (gelb)
 

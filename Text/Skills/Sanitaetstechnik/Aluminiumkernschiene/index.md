@@ -25,13 +25,13 @@ Trotz Aluminiumkernschiene muss an der betroffenen Extremität ein Armtragetuch 
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Sam_Splint_33050_crop-AASS-0112mm.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Sam_Splint_33050_crop-AASS-0112mm.jpg
 :width: 100%
 
 Ein SAM-Splint® fabriksneu …
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Sam_Splint_33053_crop-AASS-0112mm.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Sam_Splint_33053_crop-AASS-0112mm.jpg
 :width: 100%
 
 … und nach der Anpassung

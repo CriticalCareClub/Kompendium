@@ -10,7 +10,7 @@
 - Zunge: Nahrungsfortbewegung, Kehldeckelverschluss
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/needs-work/Mundhoehle.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/needs-work/Mundhoehle.\*
 Die Mundhöhle
 
 ₢ Lena Hirtler, {term}`ℓ MfG`

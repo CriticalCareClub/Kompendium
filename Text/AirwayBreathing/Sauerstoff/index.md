@@ -73,7 +73,7 @@ An diesem Gewinde ist entweder ein weiterführender
 Druckschlauch oder der *Druckminderer* einer *Berieselungseinheit*
 angeschlossen.
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/O2_Flasche_32747-crop2-AASS-0176mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/O2_Flasche_32747-crop2-AASS-0176mm.\*
 :alt: Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
 
 Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
@@ -240,7 +240,7 @@ durchgeführt werden.
 
 ## Verabreichung von Sauerstoff
 
-:::{figure} /Bilder/MotalMichael-Ccc/o2_4765-00800.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/o2_4765-00800.\*
 :align: right
 :width: 50%
 
@@ -286,7 +286,7 @@ Das {dfn}`Manometer`
 zeigt den Druck in der
 Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Druckminderer_32917-00943pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Druckminderer_32917-00943pt.\*
 :alt: Druckminderer mit integrierter Berieselungseinheit an einer Sauerstofflasche
 :width: 50%
 
@@ -319,19 +319,19 @@ Sauerstoffmasken mit Reservoir [^berieselungbeatmungsbeutel].
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Anton_32988_v2-AASS-0112mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Anton_32988_v2-AASS-0112mm.\*
 Sauerstoffbrille
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Anton_32987_v2-AASS-0112mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Anton_32987_v2-AASS-0112mm.\*
 Sauerstoffmaske
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Anton_32986_v2-AASS-0112mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Anton_32986_v2-AASS-0112mm.\*
 Sauerstoffmaske mit Reservoir
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`

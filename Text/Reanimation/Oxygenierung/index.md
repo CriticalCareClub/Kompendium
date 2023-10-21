@@ -172,7 +172,7 @@ des Tubus zu überprüfen:
 2. Auskultation von Magen und Lungenflügel
 3. Messung der CO₂-Abatmung mittels {term}`Kapnographie`
 
-:::{figure} ../../Bilder/MotalMichael-Ccc/intubation/dsc-4837-AASS-0030mm.\*
+:::{figure} ../../Bilder/Motal-Michael-CCCA/intubation/dsc-4837-AASS-0030mm.\*
 :align: right
 
 Endotracheale Intubation
@@ -212,7 +212,7 @@ kommen.[^footnote-2]
   Intubation.
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00943pt-4.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Monitor-Beatmungseinstellungen-Live-00943pt-4.\*
 CO₂-Kurve: Die Kapnometrie ist wichtig, um die korrekte
 Lage des Tubus in der Luftröhre zu bestätigen.
 \[Bild: Sebastian Gabriel\]
@@ -220,7 +220,7 @@ Lage des Tubus in der Luftröhre zu bestätigen.
 
 ## Supraglottische Atemwegshilfsmittel (Reanimation)
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Laringstubus-32884-00441pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Laringstubus-32884-00441pt.\*
 :align: right
 :width: 40%
 
@@ -260,7 +260,7 @@ Der Larynxtubus ist unter {ref}`Larynxtubus` beschrieben.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/HirtlerLena-Ccc/LageLarynxTubus.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/LageLarynxTubus.\*
 :width: 100%
 
 Im Vergleich: Lage eines Larynx-Tubus
@@ -268,7 +268,7 @@ Im Vergleich: Lage eines Larynx-Tubus
 \[Lena Hirtler, {term}`ℓ MfG`\]
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/LageTubus-color.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/LageTubus-color.\*
 :width: 100%
 
 … und eines endotrachealen Tubus.
@@ -276,7 +276,7 @@ Im Vergleich: Lage eines Larynx-Tubus
 \[Lena Hirtler, {term}`ℓ MfG`\]
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/PositionGuedel-color.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/PositionGuedel-color.\*
 :width: 100%
 
 Position des Guedel-Tubus im Querschnitt

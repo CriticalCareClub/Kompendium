@@ -13,7 +13,7 @@ Ganzkörper-/Wirbelsäulenimmobilisation dar.
 Diese Technik wurde ursprünglich vor allem im anglo-amerikanischen Raum
 eingesetzt und erfährt auch hierzulande immer größere Verbreitung.
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Spineboard_32956_crop-AASS-0112mm.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Spineboard_32956_crop-AASS-0112mm.jpg
 Spineboard.
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`

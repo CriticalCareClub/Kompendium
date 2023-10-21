@@ -42,7 +42,7 @@ verbunden sein.
 :::
 ::::
 
-:::{figure} /Bilder/HauerDavid-Ccc/bauchtrauma-offenes-01.\*
+:::{figure} /Bilder/Hauer-David-CCCA/bauchtrauma-offenes-01.\*
 :align: right
 :width: 50%
 

@@ -68,7 +68,7 @@ Endotrachealtubus (*ET*) zu geben, dies wird nicht mehr empfohlen.
 
 (fig-cc-teddy-base)=
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/EKG-Reanimation-VtBewegungsartefakt-00441pt.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/EKG-Reanimation-VtBewegungsartefakt-00441pt.\*
 :alt: Base Mesh + 128x128 Texture (334 KB)
 :width: 100%
 
@@ -79,7 +79,7 @@ Herzdruckmassage.
 
 (fig-cc-teddy-25)=
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/Medikamente-LAdrenalin-Sammlung-Live-00441pt.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Medikamente-LAdrenalin-Sammlung-Live-00441pt.\*
 :alt: Base Mesh + 25% Stream + 256x256 Texture (568 KB)
 :width: 100%
 

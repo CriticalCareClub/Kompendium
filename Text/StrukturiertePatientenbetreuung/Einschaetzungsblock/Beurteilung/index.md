@@ -29,7 +29,7 @@ formulieren
 
 ## Alarmzeichen ("Red Flags" 🚩): Zeichen einer vitalen Bedrohung
 
-:::{image} /Bilder/GabrielSebastian-Ccc/minen_hinweis2.\*
+:::{image} /Bilder/Gabriel-Sebastian-CCCA/minen_hinweis2.\*
 :align: right
 :width: 23%
 :::

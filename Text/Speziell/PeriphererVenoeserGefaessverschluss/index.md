@@ -184,7 +184,7 @@ Es entsteht eine *Lungenembolie*.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/economyclass.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/economyclass.\*
 :width: 100%
 
 Die Economyclass.
@@ -194,7 +194,7 @@ Thrombosen zu basteln.
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/lovenox1.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/lovenox1.\*
 :width: 100%
 
 Thromboseprophylaxe.
@@ -208,7 +208,7 @@ gespritzt.
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Thrombus-Embolie.\*
 :width: 100%
 
 Eine Venenthrombose

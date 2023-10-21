@@ -111,14 +111,14 @@ folgt beschrieben:
 
 (figure-plsalgorithmus)=
 
-:::{figure} /Bilder/EmhoferJosef-Ccc/ReanimationPls-2015-1.\*
+:::{figure} /Bilder/Emhofer-Josef-CCCA/ReanimationPls-2015-1.\*
 Pediatric Life Support \[Table-algorithmus-pls\]
 
 \[Josef Emhofer,  nach ERC\]
 :::
 
 :::{only} html
-- {download}`PLS</Bilder/EmhoferJosef-Ccc/ReanimationPls-2015-1.pdf>`
+- {download}`PLS</Bilder/Emhofer-Josef-CCCA/ReanimationPls-2015-1.pdf>`
 :::
 
 Eine grafische Übersicht über dieses Vorgehen ist in

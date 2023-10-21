@@ -205,7 +205,7 @@ und die Suche nach
 
   **Luzides Intervall**
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/pupillendifferenz.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\*
 PupillendifferenzSie ist ein Alarmzeichen: Eine
 Pupillendifferenz kann ein wichtiger Hinweis auf einen erhöhten
 Hirndruck sein!

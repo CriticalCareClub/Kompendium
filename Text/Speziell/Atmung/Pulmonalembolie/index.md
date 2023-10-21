@@ -38,7 +38,7 @@ rechten Vorhof des Herzens bilden und eine Embolie verursachen. Ebenso
 können Gerinnungstörungen oder Krebserkrankungen zur Bildung von
 Blutgerinnseln führen.
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Thrombus-Embolie.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Thrombus-Embolie.\*
 Herkunft des Thrombus
 
 ₢ Lena Hirtler, {term}`ℓ MfG`

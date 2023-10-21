@@ -28,13 +28,13 @@
 % nicht gegeben, so muss eine Basisreanimation (wenn vorhanden mittels
 % AED) durchgeführt werden und weitere Hilfe angefordert werden.
 
-:::{figure} /Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.\*
+:::{figure} /Bilder/Emhofer-Josef-CCCA/ReanimationAls-2015-3.\*
 ALS-Algorithmus
 
 \[Josef Emhofer, nach {term}`🕮 ERC 2015 03`/ {term}`ℓ MfG`\]
 :::
 
-{download}`/Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.pdf`
+{download}`/Bilder/Emhofer-Josef-CCCA/ReanimationAls-2015-3.pdf`
 
 ALS-Algorithmus
 \[Josef Emhofer, nach {term}`🕮 ERC 2015 03`/ {term}`ℓ MfG`\]
@@ -48,13 +48,13 @@ Homepage des Journals Resuscitation: <https://www.resuscitationjournal.com/>
 
 (fig-als)=
 
-:::{figure} /Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.\*
+:::{figure} /Bilder/Emhofer-Josef-CCCA/ReanimationAls-2015-3.\*
 ALS Der ALS-Algorithmus
 
 \[Emhofer, nach {term}`🕮 ERC 2015 03`\]
 :::
 
-{download}`/Bilder/EmhoferJosef-Ccc/ReanimationAls-2015-3.pdf`
+{download}`/Bilder/Emhofer-Josef-CCCA/ReanimationAls-2015-3.pdf`
 
 ALS-Algorithmus \[Emhofer, nach  {term}`🕮 ERC 2015 03`\]
 

@@ -11,7 +11,7 @@ Informationen zur manuellen Beatmung an sich finden sich unter
 Zur Beutel-Masken-Beatmung wird eine selbstfüllender Beatmungsbeutel
 zusammen mit einer Gesichts-Beatmungsmaske in der richtigen Größe verwendet.
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Ambubeutel_32741-AASS-0176mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Ambubeutel_32741-AASS-0176mm.\*
 :alt: "Selbstf\xFCllender Beatmungsbeutel \"Ambu Mark IV\" mit Reservoir, O\u2082-Verbindungsschlauch,\
 :  \ Bakterienfilter, Beatmungsmaske und aufgestecktem PEEP-Ventil"
 
@@ -69,7 +69,7 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Beatmungsmaske_32906_v2-AASS-0112mm.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Beatmungsmaske_32906_v2-AASS-0112mm.jpg
 :width: 100%
 
 Eine *Beatmungs*maske.
@@ -77,7 +77,7 @@ Eine *Beatmungs*maske.
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Mundstuecke_32723_v2-AASS-0112mm.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Mundstuecke_32723_v2-AASS-0112mm.jpg
 :width: 100%
 
 Beatmungsmasken unterschiedlicher Größen: 0, 2,
@@ -141,19 +141,19 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/HirtlerLena-Ccc/CGriff.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/CGriff.\*
 :width: 100%
 
 C-Griff
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Beutelbeatmung1.\*
 :width: 100%
 
 und überstreckter Kopf
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Beutelbeatmung2.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Beutelbeatmung2.\*
 :width: 100%
 
 Normalerweise wird bei der Überdruckbeatmung mit einem

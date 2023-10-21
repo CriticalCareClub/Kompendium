@@ -24,15 +24,15 @@ Lage des Guedel-Tubus.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/HirtlerLena-Ccc/GuedelTubus1.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/GuedelTubus1.\*
 :name: Figure-GuedelTubusEinfuehren-1
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/GuedelTubus2.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/GuedelTubus2.\*
 zuerst wird der Guedel-Tubus "verkehrt" herum eingeführt
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/GuedelTubus3.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/GuedelTubus3.\*
 und anschließend mittels Drehbewegung endgültig positioniert.
 :::
 

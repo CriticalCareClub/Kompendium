@@ -274,7 +274,7 @@ Man kann einen mehrschichtigen Aufbau erkennen (von außen nach innen):
   Corticalis gleichmäßig verteilt.
   Im Raum zwischen den Knochenbälkchen ebenfalls mit Knochenmark gefüllt.
 
-:::{figure} /Bilder/HirtlerLena-Ccc/needs-work/Knochenbau.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/needs-work/Knochenbau.\*
 :width: 20%
 
 Ein langer Röhrenknochen im Querschnitt

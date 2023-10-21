@@ -25,7 +25,7 @@ ruhiggestellt werden, da sie das Hüftgelenk nicht schient
 - Absauggerät
 - Evtl. Adapter
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Beinschiene_32977_v2-AASS-0176mm.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Beinschiene_32977_v2-AASS-0176mm.jpg
 Vakuumbeinschiene mit Zubehör
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`

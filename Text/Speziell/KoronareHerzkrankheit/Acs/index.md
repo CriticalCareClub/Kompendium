@@ -78,7 +78,7 @@ In beiden Fällen kommt es zu einem
 Herzens (Ischämie), die Folge sind Schmerzen, Atemnot und ein
 Leistungsverlust!
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Herzschmerz.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herzschmerz.\*
 Akutes KoronarsyndromTypische Schmerzausdehnung bzw. -ausstrahlung beim
 ischämischen HerzschmerzLena \[Lena Hirtler,  {term}`ℓ MfG`\]
 :::

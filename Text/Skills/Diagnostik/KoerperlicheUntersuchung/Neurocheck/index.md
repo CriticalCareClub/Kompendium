@@ -139,7 +139,7 @@ durchgeführt.
 
 (figure-anisokorie-bau)=
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/pupillendifferenz.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.jpg
 :width: 100%
 
 Ungleiche Pupillen (Anisokorie)
@@ -147,7 +147,7 @@ Ungleiche Pupillen (Anisokorie)
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/N-5/IMG_20150306_132141-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150306_132141-01341px.jpg
 :width: 100%
 
 Enge Pupille
@@ -155,37 +155,37 @@ Enge Pupille
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/neuro1.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro1.jpg
 :width: 100%
 
 Pupillenreaktion, Lichtscheue, Sehstörungen
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/neuro2.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro2.jpg
 :width: 100%
 
 Kraftprobe an den Armen
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/neuro3b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro3b.jpg
 :width: 100%
 
 Kraftprobe an den Beinen
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/neuro4.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro4.jpg
 :width: 100%
 
 Nackensteifigkeit
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/neuro5.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro5.jpg
 :width: 100%
 
 Nackensteifigkeit
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/neuro6.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro6.jpg
 :width: 100%
 
 Blutzuckermessung

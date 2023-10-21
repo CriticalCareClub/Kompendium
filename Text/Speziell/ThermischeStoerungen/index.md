@@ -182,7 +182,7 @@ und Bewusstlosigkeit kommen.
 
 ## Unterkühlung
 
-:::{image} /Bilder/GabrielSebastian-Ccc/huette_winter_mariazell.\*
+:::{image} /Bilder/Gabriel-Sebastian-CCCA/huette_winter_mariazell.\*
 :align: right
 :alt: "Eine H\xFCtte im Winter. \u20A2 Sebastian Gabriel :term:`\u2113 MfG`"
 :width: 50%

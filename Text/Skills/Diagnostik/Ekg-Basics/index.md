@@ -186,7 +186,7 @@ gravierenden Fehldiagnosen kommen kann. [^footnote-2]
 
 (figure-corpuls3)=
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Corpuls_32863-01445pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Corpuls_32863-01445pt.\*
 Ein Multifunktionsgerät mit Monitor, nicht-invasiver Blutdruckmessung,
 Pulsoxymetrie 12-Kanal-EKG und integriertem Defibrillator mit
 SAED-Funktion (Corpuls:sup:`3`)

@@ -136,7 +136,7 @@ Weiters kommt es zu einer Sprach- und Gangunsicherheit.
 Die akute Alkoholvergiftung ist von der chronischen Alkoholabhängigkeit
 (Alkoholkrankheit) zu unterscheiden.
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/dif-w2-zelt-1.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/dif-w2-zelt-1.\*
 :width: 100%
 :::
 
@@ -435,7 +435,7 @@ Hämoglobin als O₂, daher verdrängen schon kleine Mengen den Sauerstoff
 aus dem Blut! Die Folge ist logischerweise eine Unterversorgung mit
 Sauerstoff.
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/Atemschutz_IMG_2043_00800.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Atemschutz_IMG_2043_00800.\*
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
 
@@ -497,7 +497,7 @@ Krämpfe sind gut möglich.
     ({ref}`m-am-stickgase`)
   - Hyperbare O₂-Therapie in der Druckkammer erwägen
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/2006-01-31-gaswienheute2.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/2006-01-31-gaswienheute2.\*
 CO-Vergiftung in einem Wohnhaus in Wien
 
 Regelmäßig kommt es zu Unfällen durch defekte Gasthermen oder
@@ -651,7 +651,7 @@ Spezialisten beigezogen werden.
 Wichtig ist, auf Selbst- und Fremdschutz zu achten (Absperrmaßnahmen!
 Abstand halten! Wind beachten!), vgl. auch {ref}`gefahrengutunfall`.
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/schild-atemschutzmaske-abnehmen.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/schild-atemschutzmaske-abnehmen.\*
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
 

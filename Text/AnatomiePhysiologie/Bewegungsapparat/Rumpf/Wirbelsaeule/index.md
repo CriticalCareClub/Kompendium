@@ -9,7 +9,7 @@
 
 # Wirbelsäule (Columna vertebralis)
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Wirbel-allgemein.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Wirbel-allgemein.\*
 :width: 50%
 
 Wirbel

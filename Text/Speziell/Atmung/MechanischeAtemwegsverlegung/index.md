@@ -206,7 +206,7 @@ um die Schwere einer Atemwegsverlegung einzuschätzen.
   es zu schweren inneren Verletzungen kommen (Magen, Leber, …), die
   Anwendung ist daher auf bedrohliche Situationen beschränkt.
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Fremdkoerper.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Fremdkoerper.\*
 Atemwegsverlegung (Schema):
 Der linke Bissen steckt im Atemweg fest,
 der andere befindet sich in der Speiseröhre.

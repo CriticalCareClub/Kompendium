@@ -111,7 +111,7 @@ Todesangst.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/HauerDavid-Ccc/pneumothorax_xray_halb.\*
+:::{figure} /Bilder/Hauer-David-CCCA/pneumothorax_xray_halb.\*
 :width: 100%
 
 Pneumothorax. Beachte die Randlinie zwischen Lunge (unten,
@@ -120,7 +120,7 @@ innen) und dem luftgefüllten Pleuraspalt (oben, außen)
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HauerDavid-Ccc/pneumothorax_xray_endstadium.\*
+:::{figure} /Bilder/Hauer-David-CCCA/pneumothorax_xray_endstadium.\*
 :width: 100%
 
 Im Vergleich: Kompletter Pneumothorax der rechten
@@ -129,7 +129,7 @@ Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert.
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.\*
+:::{figure} /Bilder/Hauer-David-CCCA/pneumothorax_stichverletzung_diskret.\*
 :width: 100%
 
 Diese unauffällige Stichverletzung hat

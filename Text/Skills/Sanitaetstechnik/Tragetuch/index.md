@@ -25,55 +25,55 @@ wird immer mit den *Füßen voran* getragen.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/tragetuch1b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch1b.jpg
 :width: 100%
 
 Tuch aufbreiten
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/tragetuch2b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch2b.jpg
 :width: 100%
 
 … die näher zum Patient liegende Hälfte umschlagen…
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/tragetuch3b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch3b.jpg
 :width: 100%
 
 … die obere Hälfte nochmals Richtung Patient umschlagen…
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/tragetuch4b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch4b.jpg
 :width: 100%
 
 … und das Tuch an den Patienten legen.
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/tragetuch5b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch5b.jpg
 :width: 100%
 
 Patient leicht anheben und Tuch bis zur Hälfte unterschieben …
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/tragetuch6b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch6b.jpg
 :width: 100%
 
 … Patient schonend zurück legen.
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/tragetuch7b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch7b.jpg
 :width: 100%
 
 Von der anderen Seite ebenfalls leicht anheben und Tuch ausbreiten.
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/tragetuch8b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch8b.jpg
 :width: 100%
 
 Zu dritt das Tuch fest anpacken …
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/tragetuch9b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch9b.jpg
 :width: 100%
 
 …und auf Kommando gemeinsam anheben

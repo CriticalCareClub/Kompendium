@@ -64,13 +64,13 @@ lebensrettenden Sofortmaßnahmen angewendet werden.[^footnote-1]
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Larynxtubus_32890_textwidth.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32890_textwidth.\*
 :width: 100%
 
 Larynxtubus mit Blockerspritze
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Larynxtubus_32885_textwidth.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32885_textwidth.\*
 :width: 100%
 
 Ein Larynxtubus der ersten Generation mit geblocktem
@@ -79,7 +79,7 @@ Cuff.
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Larynxtuben_Set_33025_textwidth.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Larynxtuben_Set_33025_textwidth.\*
 :width: 100%
 
 Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung.
@@ -212,7 +212,7 @@ Durchführung der Intubation mit dem Larynxtubus.
 
 (figure-algorithmuslarynxtubusreanimation)=
 
-:::{figure} /Bilder/EmhoferJosef-Ccc/Larynxtubus-2015-1.\*
+:::{figure} /Bilder/Emhofer-Josef-CCCA/Larynxtubus-2015-1.\*
 :alt: 'Algorithmus: Larynxtubus im Rahmen der Reanimation'
 :width: 100%
 

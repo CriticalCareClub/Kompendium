@@ -124,13 +124,13 @@ Es gibt *zwei Arten von Klappen*:
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herzvorderflaeche.\*
 :width: 100%
 
 ₢ Lena Hirtler  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Herz-Schema_edited.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Schema_edited.\*
 :width: 100%
 
 Das Herz, schematisch
@@ -147,7 +147,7 @@ Das Herz, schematisch
 
 ```
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Herz-Blutflussrichtung.png
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Blutflussrichtung.png
 :width: 100%
 
 Das Herz
@@ -239,7 +239,7 @@ C. Carl Jaffe; MD; cardiologist Yale University Center for Advanced Instructiona
 ℓ CC-BY
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Herz-Erregungsleitungssystem.png
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Erregungsleitungssystem.png
 :width: 100%
 
 Erregungsleitungssystem des Herzens
@@ -259,7 +259,7 @@ Erregungsleitungssystem des Herzens
 
 Die Erregungsausbreitungsvorgang kann mittels {ref}`Elektrokardiogramm <Fig-Ekg>` (EKG) dargestellt werden.
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Herz-Ekg.png
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Ekg.png
 :name: Fig-Ekg
 :width: 50%
 

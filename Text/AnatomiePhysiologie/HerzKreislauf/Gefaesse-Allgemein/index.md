@@ -87,7 +87,7 @@ Die Kapillardurchblutung wird auch als Mikrozirkulation bezeichnet.
 Nach den Kapillaren folgen die Venen, die das sauerstoffarme Blut aus der Peripherie wieder zum Herzen zurückbefördern.
 Hier herrscht ein weitaus geringerer Blutdruck als im arteriellen System.
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Herz-Kreislaufsystem.png
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Kreislaufsystem.png
 :name: Fig-Schema-Blutkreislauf
 :width: 100%
 
@@ -111,7 +111,7 @@ Die jeweiligen Kapillargebiete werden auch als *Mikrozirkulation* bezeichnet.
 Anhand der gemessenen Drücke in den einzelnen Gefäßen kann man den Kreislauf auch in ein Hochdrucksystem und ein Niederdrucksystem unterteilen.
 Das Niederdrucksystem umfasst die Körpervenen, das rechte Herz und die Lungengefäße.
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Kreislauf-Schema.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Kreislauf-Schema.\*
 :align: right
 :name: fig-blutkreislauf-schema
 :width: 40%

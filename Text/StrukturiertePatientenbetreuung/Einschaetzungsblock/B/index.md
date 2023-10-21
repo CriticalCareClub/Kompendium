@@ -170,7 +170,7 @@ Totraumventilation kommt und die Atmung somit hochgradig insuffizient
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/helm1.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm1.\*
 :width: 100%
 
 Annäherung an den Patienten
@@ -178,7 +178,7 @@ Annäherung an den Patienten
 ₢ Michael Motal {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Thoraxbewegungen-Rippe.\*
 :width: 100%
 
 Die Rippen folgen der Atembewegung.
@@ -186,7 +186,7 @@ Die Rippen folgen der Atembewegung.
 ₢ {term}`HiLe` {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00651-0154pt-0300dpi.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00651-0154pt-0300dpi.\*
 :width: 100%
 
 Zyanotische Lippen
@@ -205,7 +205,7 @@ Zyanotische Lippen
 
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/asthma-paramedic.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/asthma-paramedic.\*
 :width: 100%
 
 Patientin mit einem akuten Asthmaanfall

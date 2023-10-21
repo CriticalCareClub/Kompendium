@@ -54,7 +54,7 @@ muss der Leitstelle eine erste *Lagemeldung* gegeben werden.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/gef-wind-rauch.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/gef-wind-rauch.\*
 :width: 100%
 
 Absperrung (hier deutlich verbesserungswürdig)
@@ -68,7 +68,7 @@ Absperrung (hier deutlich verbesserungswürdig)
 Warntafel
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/minen_hinweis2.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/minen_hinweis2.jpg
 :width: 100%
 
 Spezifische Gefahren erkennen ₢ Gabriel {term}`ℓ MfG`

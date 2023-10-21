@@ -344,7 +344,7 @@ Folgeverletzungen zu verhindern.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/HauerDavid-Ccc/fremdkoerper-stich-fixierung.\*
+:::{figure} /Bilder/Hauer-David-CCCA/fremdkoerper-stich-fixierung.\*
 :width: 100%
 
 Fixierung eines penetrierenden Fremdkörpers.
@@ -352,13 +352,13 @@ Fixierung eines penetrierenden Fremdkörpers.
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/fremdkoerper-stich-messer-01.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/fremdkoerper-stich-messer-01.\*
 :width: 100%
 
 Stich mit einem Küchenmesser. Das Messer verbleibt im Körper …
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/fremdkoerper-stich-messer-02.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/fremdkoerper-stich-messer-02.\*
 :width: 100%
 
 … bis in den Operationssaal.

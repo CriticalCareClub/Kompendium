@@ -211,7 +211,7 @@ Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
 ```
 
-:::{figure} /Bilder/HauerDavid-Ccc/wunde_rqw1.\*
+:::{figure} /Bilder/Hauer-David-CCCA/wunde_rqw1.\*
 :width: 100%
 
 Rissquetschwunde vor der Versorgung im Spital
@@ -219,7 +219,7 @@ Rissquetschwunde vor der Versorgung im Spital
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HauerDavid-Ccc/wunde_rqw2.\*
+:::{figure} /Bilder/Hauer-David-CCCA/wunde_rqw2.\*
 :width: 100%
 
 Rissquetschwunde nach der Versorgung im Spital
@@ -232,7 +232,7 @@ Rissquetschwunde nach der Versorgung im Spital
 
 ```
 
-:::{figure} /Bilder/HauerDavid-Ccc/stichwunde-klein.\*
+:::{figure} /Bilder/Hauer-David-CCCA/stichwunde-klein.\*
 :width: 100%
 
 Glatte Wundränder und eigentlich ganz unauffällig:
@@ -241,7 +241,7 @@ Die Stichwunde.
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HauerDavid-Ccc/pneumothorax_stichverletzung_diskret.\*
+:::{figure} /Bilder/Hauer-David-CCCA/pneumothorax_stichverletzung_diskret.\*
 :width: 100%
 
 Stichverletzung: unauffällig.
@@ -252,7 +252,7 @@ Stichverletzung: unauffällig.
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HauerDavid-Ccc/stichwunde-thorax-tief-01.\*
+:::{figure} /Bilder/Hauer-David-CCCA/stichwunde-thorax-tief-01.\*
 :width: 100%
 
 Stichwunde mit eröffneter Brusthöhle.
@@ -260,7 +260,7 @@ Stichwunde mit eröffneter Brusthöhle.
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HauerDavid-Ccc/burn-chem01.\*
+:::{figure} /Bilder/Hauer-David-CCCA/burn-chem01.\*
 :width: 100%
 
 Verätzung
@@ -268,7 +268,7 @@ Verätzung
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HauerDavid-Ccc/burn-chem02.\*
+:::{figure} /Bilder/Hauer-David-CCCA/burn-chem02.\*
 :width: 100%
 
 Verätzung
@@ -276,7 +276,7 @@ Verätzung
 \[David Hauer, {term}`ℓ MfG`\]
 :::
 
-:::{figure} /Bilder/HauerDavid-Ccc/combustio-sa-02-hand.\*
+:::{figure} /Bilder/Hauer-David-CCCA/combustio-sa-02-hand.\*
 :width: 100%
 
 Ablederung nach schwerer Verbrennung
@@ -410,7 +410,7 @@ abwenden und ggf. eine ärztliche Schmerztherapie einleiten (lassen).
   Wunde anderweitig steril, aber *nicht* luftdicht
   abgedeckt werden (Ausnahme: Bagatellverletzungen).
 
-:::{figure} /Bilder/HirtlerLena-Ccc/frische-Wunde-desinfizieren.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/frische-Wunde-desinfizieren.\*
 Desinfektion einer frischen Wunde
 
 \[Lena Hirtler, {term}`ℓ MfG`\]

@@ -39,7 +39,7 @@ einen Notarzt.
 
 (figure-asthma-paramedic)=
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/asthma-paramedic.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/asthma-paramedic.jpg
 Patientin mit einem akuten AsthmaanfallSie sitzt auf einer Treppe
 und stützt sich nach hinten mit den Armen ab. Die Erstmaßnahmen
 bei vital bedrohten Patienten wurden ergriffen: Situationsrechte

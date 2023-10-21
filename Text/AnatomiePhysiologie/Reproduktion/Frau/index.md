@@ -9,7 +9,7 @@
   vestibulares), Paraurethraldrüsen (Skene-Drüsen), Mammae
   (Brustdrüsen)
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Genitale-w.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Genitale-w.\*
 Weibliche Geschlechtsorgane, Querschnitt
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
@@ -114,7 +114,7 @@ bereits ca. ab dem 47. Lebensjahr mit unregelmäßigen Zyklen
 Mit der Prämenopause beginnt das *Klimakterium*
 (Wechseljahre): Prämenopause, Menopause, Postmenopause.
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Zyklus.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Zyklus.\*
 Der weibliche Zyklus.
 
 Oben: Follikelreifung.

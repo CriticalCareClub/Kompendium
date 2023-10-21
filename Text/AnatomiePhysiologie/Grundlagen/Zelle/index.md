@@ -33,7 +33,7 @@ Zum Vergleich — die Eizelle eines Straußes misst 7 cm im Durchmesser.
 Jede Zelle hat je nach ihrer Funktion auch
 unterschiedliche Formen und eine unterschiedliche Lebensdauer.
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Zelle-edited.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Zelle-edited.\*
 :width: 100%
 
 Schema einer Zelle

@@ -37,7 +37,7 @@ beinhalten:
    (z. B. Infektionsgefahren,
    Bluterkrankheit, Allergien etc.)
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/aufnahmearzt-ihres-vertrauens-edited2-0500.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/aufnahmearzt-ihres-vertrauens-edited2-0500.\*
 "Sie wünschen?"
 
 ₢ Gabriel {term}`ℓ MfG`

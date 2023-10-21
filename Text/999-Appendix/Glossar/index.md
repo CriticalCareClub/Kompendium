@@ -122,7 +122,7 @@ Koronarangiographie
   gibt unbeschichtete (*BMS*, *Bare Metal Stent*) und beschichtete
   (*DES*, *Drug Eluting Stent*) Stents.
 
-  :::{figure} /Bilder/HirtlerLena-Ccc/Herzvorderflaeche.\*
+  :::{figure} /Bilder/Hirtler-Lena-CCCA/Herzvorderflaeche.\*
   Das Herz mit seinen Koronargefäßen
   ₢ Lena Hirtler  {term}`ℓ MfG`
   :::

@@ -482,7 +482,7 @@ wurde.
 > vidit OA Univ.Doz. Dr. Alois Schremser
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/Dokumentation-Patientenausweise-Gestellt-00943pt.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Dokumentation-Patientenausweise-Gestellt-00943pt.\*
 Patientenausweise
 
 Bei diversen Erkrankungen oder nach

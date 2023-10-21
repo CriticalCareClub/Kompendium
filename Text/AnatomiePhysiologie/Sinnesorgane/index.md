@@ -283,7 +283,7 @@ Lautstärkeempfindung.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Ohr.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Ohr.\*
 :width: 100%
 
 Das Ohr im Querschnitt.
@@ -294,7 +294,7 @@ die Gehörknöchelchen, die Schnecke und die Bogengänge.
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Mittelohr.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Mittelohr.\*
 :width: 100%
 
 Das Mittelohr:
@@ -470,7 +470,7 @@ Folgende Aufgaben soll sie also erfüllen:
 - Abwehrfunktionen
 - Kommunikation
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Haut-edited.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Haut-edited.\*
 :width: 70%
 
 ₢ Lena Hirtler, {term}`ℓ MfG`

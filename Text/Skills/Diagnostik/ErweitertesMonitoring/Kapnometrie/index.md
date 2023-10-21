@@ -92,7 +92,7 @@ Die CO₂-Messung hat im wesentlichen folgende Funktionen:
    auf die Kreislauffunktion, sofern andere Störgrößen
    (Ventilation, Diffusionsstörungen) ausgeschlossen sind.
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/Monitor-Beatmungseinstellungen-Live-00943pt-4.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Monitor-Beatmungseinstellungen-Live-00943pt-4.\*
 Kapnographie, CO₂-Kurve:
 Die Kapnometrie ist wichtig, um die korrekte
 Lage des Tubus in der Luftröhre zu bestätigen.

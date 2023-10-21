@@ -19,7 +19,7 @@ bewusstlosen Patienten nahezu unmöglich) ist.
 Der Patient ist im Tragsessel *immer anzuschnallen*. Beim Transport über
 Stiegen hat der Patient immer *talwärts* zu blicken.
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Tragsessel_32966-prelim-edited2-crop2-AASS-0112mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Tragsessel_32966-prelim-edited2-crop2-AASS-0112mm.\*
 Tragsessel
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`

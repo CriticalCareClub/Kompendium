@@ -411,7 +411,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Medomat_32851-00441pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Medomat_32851-00441pt.\*
 :width: 100%
 
 Beatmungsgerät *Medumat™ compact* auf einer
@@ -422,7 +422,7 @@ angeschlossen eine Berieselungsmaske.
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/ger-medumat-standard-bedienfeld.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/ger-medumat-standard-bedienfeld.\*
 :width: 100%
 
 Bedienfelder Berieselungseinheit *Modul Oxygen* und
@@ -441,7 +441,7 @@ des Beatmungsschlauches ("Disconnection"), niederen Flaschendruck
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Medomat_32857-00943pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Medomat_32857-00943pt.\*
 :width: 100%
 
 Medumat Transport. Dies ist ein
@@ -453,7 +453,7 @@ Durchführung einer Funktionskontrolle der Bedienelemente.
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/N-5/IMG_20140402_161824-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161824-01341px.jpg
 :width: 100%
 
 Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit zur differenzierten Atemtherapie inklusive NIV.
@@ -514,7 +514,7 @@ sondern stattdessen ein positiver Druck
 aufrecht erhalten wird. Dadurch wird das Zusammenfallen der
 Alveolen verhindert.
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Peep_32909-AASS-0112mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Peep_32909-AASS-0112mm.\*
 PEEP-Ventil
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`

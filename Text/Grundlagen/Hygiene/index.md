@@ -445,7 +445,7 @@ koloriert
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/GabrielChristine-Ccc/staph-aureus.\*
+:::{figure} /Bilder/Gabriel-Christine-CCCA/staph-aureus.\*
 :width: 100%
 
 Auf einem Nährboden wurde eine Bakterienkultur angelegt.
@@ -456,7 +456,7 @@ Bakterien wachsen.
 \[Christine Gabriel/KARPAT\]
 :::
 
-:::{figure} /Bilder/GabrielChristine-Ccc/staph-aureus-mrsa.\*
+:::{figure} /Bilder/Gabriel-Christine-CCCA/staph-aureus-mrsa.\*
 :width: 100%
 
 Diese Bakterien ignorieren 4 von 6 Antibiotika-Blättchen,
@@ -466,7 +466,7 @@ Er ist *multiresistent*.
 \[Christine Gabriel/KARPAT\]
 :::
 
-:::{figure} /Bilder/GabrielChristine-Ccc/amputat-us1.\*
+:::{figure} /Bilder/Gabriel-Christine-CCCA/amputat-us1.\*
 :width: 100%
 
 Folge einer infizierten, nicht abheilenden Wunde:
@@ -1124,7 +1124,7 @@ Spitze Gegenstände
   die Box voll ist, wird sie verschlossen und ausgetauscht.
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/kontamed_4779-00800.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/kontamed_4779-00800.\*
 "Wer sticht, der entsorgt!"
 
 ₢ Michael Motal  {term}`ℓ MfG`

@@ -55,7 +55,7 @@ abgeschraubt und verschlossen werden.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0112mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Accuvac_32820-AASS-0112mm.\*
 :name: Figure-Absaugvorrichtungen
 :width: 100%
 
@@ -64,7 +64,7 @@ Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Handpumpe_32789-00441pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Handpumpe_32789-00441pt.\*
 :width: 100%
 
 Handabsaugpumpeempty
@@ -72,7 +72,7 @@ Handabsaugpumpeempty
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Orosauger_33074-00441pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Orosauger_33074-00441pt.\*
 :width: 100%
 
 Oro-Sauger für Neugeborene
@@ -80,7 +80,7 @@ Oro-Sauger für Neugeborene
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Absaugkatheter_Set_33082-00441pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Absaugkatheter_Set_33082-00441pt.\*
 :width: 100%
 
 Absaugkatheter zum Einführen in Mund oder Nase
@@ -127,7 +127,7 @@ vorhandene *Warnleuchten* müssen kontrolliert werden. Die vom jeweiligen
 Hersteller vorgegebenen, typenspezifischen Anweisungen müssen beachtet
 werden.
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Accuvac_32820-AASS-0176mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Accuvac_32820-AASS-0176mm.\*
 Weinmann AccuVac
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`
@@ -187,7 +187,7 @@ Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Anton_32999_export.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Anton_32999_export.\*
 :width: 100%
 
 Katheterlänge bei Absaugung des Mundes
@@ -195,7 +195,7 @@ Katheterlänge bei Absaugung des Mundes
 \[Ch. Pallinger\]
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Anton_32990_export.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Anton_32990_export.\*
 :width: 100%
 
 Katheterlänge bei Absaugung durch die Nase

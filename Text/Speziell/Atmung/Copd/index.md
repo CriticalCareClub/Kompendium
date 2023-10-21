@@ -117,7 +117,7 @@ kommen.
 
 (figure-copd-veraenderungen)=
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Alveolen-Bronchus-COPD-edited2.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Alveolen-Bronchus-COPD-edited2.\*
 Veränderung der Atemwege bei der COPD
 
 *Links:* Schema eines
@@ -270,7 +270,7 @@ kann.
 
 : Letzte Spray-Einnahme?
 
-:::{figure} /Bilder/HirtlerLena-Ccc/COPD-Stufen_edited.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/COPD-Stufen_edited.\*
 Entwicklung einer COPD-Erkrankung
 
 Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine

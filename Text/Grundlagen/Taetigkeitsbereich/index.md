@@ -84,7 +84,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
 
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/tae-teamwork-transfer-lbk.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/tae-teamwork-transfer-lbk.jpg
 :width: 100%
 
 Die gute Zusammenarbeit mit dem Spitalspersonal ist wichtig, wie
@@ -94,7 +94,7 @@ danach alle Beteiligten so fröhlich sind, ist das ein gutes Zeichen.
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/tae-teamwork-arzt-sani.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/tae-teamwork-arzt-sani.jpg
 :width: 100%
 
 Miteinander statt gegeneinander: Arzt und Sanitäter bilden eine
@@ -103,7 +103,7 @@ Einheit.
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/tae-okt26-alle.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/tae-okt26-alle.jpg
 :width: 100%
 
 Im Notfall ist die Organisationszugehörigkeit
@@ -359,7 +359,7 @@ Weitere Informationen zu Stress und Belastungen finden sich unter
     :columns: 2
 ```
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/traumacheck1.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/traumacheck1.jpg
 :width: 100%
 
 Hilfeleistung
@@ -367,7 +367,7 @@ Hilfeleistung
 ₢ Michael Motal {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/gef-wind-rauch2.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/gef-wind-rauch2.\*
 :width: 100%
 
 Autobrand mit giftigen Dämpfen
@@ -375,7 +375,7 @@ Autobrand mit giftigen Dämpfen
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00518-0154pt-0300dpi.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00518-0154pt-0300dpi.\*
 :width: 100%
 
 Gefahrenstoffunfall
@@ -383,7 +383,7 @@ Gefahrenstoffunfall
 ₢ —
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi.\*
 :width: 100%
 
 Ungünstige Sichtverhältnisse, hier bei einer Übung im Wiener Kaisermühlentunnel
@@ -408,7 +408,7 @@ Ungünstige Sichtverhältnisse, hier bei einer Übung im Wiener Kaisermühlentun
 
 ```
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/neuro6.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro6.\*
 :width: 100%
 
 Blutzuckermessung
@@ -416,7 +416,7 @@ Blutzuckermessung
 ₢ Michael Motal {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.\*
 :width: 100%
 
 Versorgung nach einem Verkehrsunfall
@@ -424,7 +424,7 @@ Versorgung nach einem Verkehrsunfall
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/intubation/dsc-4835-AASS-0030mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/intubation/dsc-4835-AASS-0030mm.\*
 :width: 100%
 
 Assistenz bei ärztlichen Maßnahmen
@@ -448,7 +448,7 @@ Assistenz bei ärztlichen Maßnahmen
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/rtw_ma70_asb921-00441pt.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/rtw_ma70_asb921-00441pt.\*
 :width: 100%
 
 RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.).
@@ -456,7 +456,7 @@ RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.).
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/bh_ith_00800.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/bh_ith_00800.jpg
 :width: 100%
 
 Intensivtransporthubschrauber
@@ -464,7 +464,7 @@ Intensivtransporthubschrauber
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/DIF2010-000816-0154pt-0300dpi.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/DIF2010-000816-0154pt-0300dpi.\*
 :width: 100%
 
 Ambulanzraum bei einem Sanitätsdienst
@@ -489,7 +489,7 @@ Ambulanzraum bei einem Sanitätsdienst
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00942-0154pt-0300dpi.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00942-0154pt-0300dpi.\*
 :width: 100%
 
 Organisation im Großschadensfall, hier ein Wagenhalteplatz bei
@@ -498,7 +498,7 @@ einer Nachtübung
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/UE2011FORTUNA-00568-0154pt-0300dpi.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00568-0154pt-0300dpi.\*
 :width: 100%
 
 Führungsrolle bei der Bewältigung eines
@@ -523,7 +523,7 @@ Großschadensereignis: Der Leiter einer Sanitätshilfestelle (SanHiSt)
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/UEKAISERMUEHLENTUNNEL2011-000253-0154pt-0300dpi.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000253-0154pt-0300dpi.\*
 :width: 100%
 
 Zusammenarbeit zwischen den Organisationen
@@ -531,7 +531,7 @@ Zusammenarbeit zwischen den Organisationen
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/tae-okt26-bundesheer1.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/tae-okt26-bundesheer1.jpg
 :width: 100%
 
 Integraler Bestandteil der zivilen und militärischen Landesverteidigung: Der
@@ -540,7 +540,7 @@ Bundesheersanitäter
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/IMG_1853_1.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/IMG_1853_1.jpg
 :width: 100%
 
 Die Zusammenarbeit mit der Exekutive – auch

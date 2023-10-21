@@ -14,7 +14,7 @@ Technik eignet sich nur für kurze Distanzen.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/tragering1b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragering1b.jpg
 :width: 100%
 
 Tragering
@@ -22,7 +22,7 @@ Tragering
 ₢ Michael Motal  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/tragering2b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragering2b.jpg
 :width: 100%
 
 Transport mit dem Tragering
@@ -30,7 +30,7 @@ Transport mit dem Tragering
 ₢ Michael Motal  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/tragering3b.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragering3b.jpg
 :width: 100%
 
 Transport mit dem Tragering

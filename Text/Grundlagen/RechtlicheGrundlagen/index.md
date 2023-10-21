@@ -165,7 +165,7 @@ Sanitäter (Personal). (In einer Krankenanstalt ist das Verhältnis
 Rettungsorganisation die Krankenanstalt und an jene des Sanitäters der
 Krankenpfleger tritt.)
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/recht_vertrag.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/recht_vertrag.\*
 Vertragsverhältnisse im Rettungsdienst
 :::
 

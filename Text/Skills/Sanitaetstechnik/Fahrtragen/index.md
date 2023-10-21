@@ -29,7 +29,7 @@ Bei Transport in Fahrzeugen verhindert der *Beingurt* schwere Verletzungen bei F
 Der Beingurt ist bei Beförderung in Fahrzeugen unbedingt anzulegen!
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Trage_32970_v2-AASS-0176mm.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Trage_32970_v2-AASS-0176mm.jpg
 Krankentrage der Firma Stollenwerk mit Fahrgestell und einer Auflage der Firma Schnitzler mit Brust-, Bein- und Rucksackgurten
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::

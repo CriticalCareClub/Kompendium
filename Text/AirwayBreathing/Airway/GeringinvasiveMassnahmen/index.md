@@ -4,19 +4,19 @@
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/HirtlerLena-Ccc/PositionGuedel-color.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/PositionGuedel-color.\*
 :width: 100%
 
 Position des Guedel-Tubus im Querschnitt
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/LageLarynxTubus.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/LageLarynxTubus.\*
 :width: 100%
 
 Im Vergleich: Lage eines Larynx-Tubus
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/LageTubus-color.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/LageTubus-color.\*
 :width: 100%
 
 und eines endotrachealen Tubus.

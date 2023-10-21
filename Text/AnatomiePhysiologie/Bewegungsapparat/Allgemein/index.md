@@ -48,7 +48,7 @@ Knochenverbindungen, Fugen / Haften) und
 (diskontinuierliche / bewegliche Knochenverbindungen, Gelenke)
 unterteilt werden.
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Gelenk-edited.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Gelenk-edited.\*
 :width: 50%
 
 Ein Gelenk im Querschnitt
@@ -200,7 +200,7 @@ Raumebene. Bei drei Freiheitsgraden (maximal möglich), kann man mit
 diesem Gelenk Bewegungen in allen drei Raumebenen durchführen. Bei einem
 Freiheitsgrad kann nur eine bestimmte Bewegung ausgeführt werden.
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Gelenkarten.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Gelenkarten.\*
 :width: 100%
 
 Gelenkarten:

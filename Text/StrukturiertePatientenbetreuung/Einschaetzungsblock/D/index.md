@@ -150,7 +150,7 @@ festgestellt werden:
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/pupillendifferenz.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\*
 :width: 100%
 
 Anisokorie (Pupillendifferenz)
@@ -158,7 +158,7 @@ Anisokorie (Pupillendifferenz)
 ₢ Gabriel {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/neuro2.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro2.\*
 :width: 100%
 
 Kraftprobe an den Armen
@@ -166,7 +166,7 @@ Kraftprobe an den Armen
 ₢ Michael Motal {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/neuro6.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro6.\*
 :width: 100%
 
 BZ-Messung

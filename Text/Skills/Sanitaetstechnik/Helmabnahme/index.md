@@ -56,55 +56,55 @@ Herausforderung dar. Der Sturzhelm ist grundsätzlich immer abzunehmen!
 
 ```
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/helm1.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm1.jpg
 :width: 100%
 
 Während des Annäherns den Patient auffordern, den Kopf nicht zu bewegen.
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/helm2.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm2.jpg
 :width: 100%
 
 Den Kopf sofort mit den Händen fixieren, Visier öffnen und Patienten ansprechen.
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/helm3.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm3.jpg
 :width: 100%
 
 Ggfs. Patient synchron und schonend auf den Rücken drehen.
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/helm4.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm4.jpg
 :width: 100%
 
 Ggfs. Brille entfernen, Kinnriemen öffnen und behindernde Kleidung entfernen.
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/helm5.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm5.jpg
 :width: 100%
 
 Halswirbelsäule stabilisieren.
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/helm6.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm6.jpg
 :width: 100%
 
 Helm kippen bis von oben die Nasenspitze sichtbar ist, danach vorsichtig nach hinten wegziehen
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/helm7.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm7.jpg
 :width: 100%
 
 Nach dem Abziehen Stabilisierung des Kopfes übernehmen. Keinen Zug und keine Stauchung ausüben!
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/helm8.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm8.jpg
 :width: 100%
 
 Nach der Helmabnahme erfolgt sofort das Anlegen einer HWS-Schiene. Der Kopf bleibt in Neutralposition zug- und stauchungsfrei fixiert. Die passende Größe der HWS-Schiene wird bestimmt und eingestellt.
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/hwsschiene3.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/hwsschiene3.jpg
 :width: 100%
 
 HWS-Schiene zuerst unter dem Patienten durchführen, danach am Kinn anlegen.

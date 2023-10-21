@@ -38,7 +38,7 @@ Handbewegungen.
 .. todo:: !!! PICTURESERIESWIDE !!!\ *Wozu Händehygiene?* Multiresistente Keime und ihre Auswirkungen in der Praxis.
 ```
 
-:::{figure} /Bilder/GabrielChristine-Ccc/staph-aureus.jpg
+:::{figure} /Bilder/Gabriel-Christine-CCCA/staph-aureus.jpg
 Auf einem Nährboden wurde eine Bakterienkultur angelegt.
 Jedes der sechs runden Plättchen enthält ein Antibiotikum.
 Man kann sehen dass in der Umgebung der Plättchen keine Bakterien wachsen.
@@ -46,7 +46,7 @@ Man kann sehen dass in der Umgebung der Plättchen keine Bakterien wachsen.
 *Ch. Gabriel/KARPAT*
 :::
 
-:::{figure} /Bilder/GabrielChristine-Ccc/staph-aureus-mrsa.jpg
+:::{figure} /Bilder/Gabriel-Christine-CCCA/staph-aureus-mrsa.jpg
 Diese Bakterien (gleicher Keim!) ignorieren 4 von 6 Antibiotika-Plättchen,
 d. h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim.
 Er ist *multiresistent*.
@@ -54,7 +54,7 @@ Die beste Maßnahme dagegen: **Gar nicht erst übertragen!**
 *Ch. Gabriel/KARPAT*
 :::
 
-:::{figure} /Bilder/GabrielChristine-Ccc/amputat-us1.jpg
+:::{figure} /Bilder/Gabriel-Christine-CCCA/amputat-us1.jpg
 Oft die Folge:
 Amputation eines Unterschenkels mit einer nicht abheilenden,
 mit einem multiresistenten Staphylokokkus aureus (MRSA) infizierten, Wunde.

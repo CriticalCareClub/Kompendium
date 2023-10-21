@@ -65,7 +65,7 @@ Leber, Gallenblase und Pankreas.
 ₢ WMC ℓ ???
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Gallenblase.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Gallenblase.\*
 :width: 100%
 
 Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm.
@@ -73,7 +73,7 @@ Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm.
 ₢ Lena Hirtler  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Pankreas-1.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Pankreas-1.\*
 :width: 100%
 
 Lage des Pankreas zum Zwöffingerdarm.

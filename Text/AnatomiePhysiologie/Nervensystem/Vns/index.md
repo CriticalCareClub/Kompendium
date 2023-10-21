@@ -164,7 +164,7 @@ Organsysteme wie z. B. die Verdauung.
     Adrenalinausschüttung ↓
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Parasymp-Symp-Cartoon.\*
 "Fight or flight, rest and digest."
 
 ₢ Lena Hirtler, {term}`ℓ MfG`

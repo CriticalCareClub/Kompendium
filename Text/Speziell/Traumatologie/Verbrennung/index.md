@@ -202,7 +202,7 @@ Verbrennung 3°
 ℓ CC-BY-SA 3.0 unported
 :::
 
-:::{figure} /Bilder/HauerDavid-Ccc/combustio-sa-01.\*
+:::{figure} /Bilder/Hauer-David-CCCA/combustio-sa-01.\*
 :width: 100%
 
 Großflächige Verbrennung
@@ -210,7 +210,7 @@ Großflächige Verbrennung
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HauerDavid-Ccc/combustio-sa-02-hand.\*
+:::{figure} /Bilder/Hauer-David-CCCA/combustio-sa-02-hand.\*
 :width: 100%
 
 Ablederung
@@ -218,7 +218,7 @@ Ablederung
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HauerDavid-Ccc/combustio-sa-03-escharotomie.\*
+:::{figure} /Bilder/Hauer-David-CCCA/combustio-sa-03-escharotomie.\*
 :width: 100%
 
 Aufgrund der ringförmigen Verbrennung am Thorax
@@ -427,7 +427,7 @@ Das volle Ausmaß wird oft erst nach Stunden erreicht!
 Vergiftungen durch Einnahme von Säuren und Laugen werden unter
 {ref}`veraetzung-intoxikation`, besprochen.
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/notbrause2.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/notbrause2.\*
 :align: right
 :width: 50%
 

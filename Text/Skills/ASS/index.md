@@ -264,7 +264,7 @@ es besteht Verletzungungsgefahr.
 
 ```
 
-:::{figure} /Bilder/MotalMichael-Ccc/medi-kontrolle_4807-00800.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/medi-kontrolle_4807-00800.\*
 :width: 100%
 
 Kontrolle
@@ -272,7 +272,7 @@ Kontrolle
 ₢ Michael Motal  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/medi-aufziehen_4815-00800.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/medi-aufziehen_4815-00800.\*
 :width: 100%
 
 Aufziehen mit Kanüle
@@ -280,7 +280,7 @@ Aufziehen mit Kanüle
 ₢ Michael Motal  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/medi-kontrollieren_4824-00800.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/medi-kontrollieren_4824-00800.\*
 :width: 100%
 
 Übergabe
@@ -288,7 +288,7 @@ Aufziehen mit Kanüle
 ₢ Michael Motal  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/medi-verabreichen_4826_CLOSEUP-00800.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/medi-verabreichen_4826_CLOSEUP-00800.\*
 :width: 100%
 
 Verabreichung über Venflon durch befugtes Personal
@@ -353,7 +353,7 @@ Verabreichung über Venflon durch befugtes Personal
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Infusionsbesteck_33070-00943pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Infusionsbesteck_33070-00943pt.\*
 :width: 100%
 
 Infusionsbesteck
@@ -361,7 +361,7 @@ Infusionsbesteck
 ₢ Christoph Pallinger {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Infusionsbeutel_33016-00943pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Infusionsbeutel_33016-00943pt.\*
 :width: 100%
 
 Beispiele für Infusionsbeutel und
@@ -370,7 +370,7 @@ Beispiele für Infusionsbeutel und
 ₢ Christoph Pallinger {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Tropfkammer-Live-00441pt.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-Tropfkammer-Live-00441pt.\*
 :width: 100%
 
 Der Dorn des Infusionsbestecks mit der
@@ -378,14 +378,14 @@ Tropfkammer wird an der Infusionsflasche oder -beutel befestigt, die
 Tropfkammer ca. bis zur Hälfte gefüllt.
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-Stellrad-Live-00441pt.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-Stellrad-Live-00441pt.\*
 :width: 100%
 
 Mit der Radklemme wird
 die Inf eschwindigkeit reguliert.
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-3WegHahn-Live-00441pt.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-3WegHahn-Live-00441pt.\*
 :width: 100%
 
 Mittels eines
@@ -393,7 +393,7 @@ Mittels eines
 werden.
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/Infusion-Closeup-AnschlussVenflon-Live-00441pt.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-AnschlussVenflon-Live-00441pt.\*
 :width: 100%
 
 Schlussendlich wird die Infusion an einem Zugang zum

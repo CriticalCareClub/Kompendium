@@ -147,7 +147,7 @@ vorsichtig vom Fuß abzieht.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/HauerDavid-Ccc/fraktur_fehlstellung_nativ.\*
+:::{figure} /Bilder/Hauer-David-CCCA/fraktur_fehlstellung_nativ.\*
 :width: 100%
 
 Fehlstellung einer Unterschenkelfraktur nach einem
@@ -156,7 +156,7 @@ Verkehrsunfall (PKW gegen Fußgänger) in natura …
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HauerDavid-Ccc/fraktur_fehlstellung_xray.\*
+:::{figure} /Bilder/Hauer-David-CCCA/fraktur_fehlstellung_xray.\*
 :width: 100%
 
 … und in Röntgendarstellung

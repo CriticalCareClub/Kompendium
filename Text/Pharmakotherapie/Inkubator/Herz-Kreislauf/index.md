@@ -18,7 +18,7 @@ Herzgewebes und können so das
 {ref}`Aktionspotential des Herzens <Fig-AktionspotentialHerz>`
 beeinflussen.
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Herz- Aktionspotential.png
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz- Aktionspotential.png
 :name: Fig-AktionspotentialHerz
 :width: 100%
 
@@ -767,7 +767,7 @@ Folgende Komplikationen können entstehen:
 - weiters kann es zu Organschäden z.B. im Auge (Retinopathie) und in
   der Niere (Einschränkung der Nierenfunktion) kommen.
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Herz-Blutdruck.png
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Blutdruck.png
 :name: Fig-EntstehungBehandlungHypertonie
 :width: 100%
 
@@ -795,7 +795,7 @@ Stellenwert ein:
 Die medikamentöse Therapie wird nach folgenden
 {ref}`Stufenschema <Fig-StufenschemaHypertonie>` eingestellt:
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Herz-Hypertonie-Stufenplan.png
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Hypertonie-Stufenplan.png
 :name: Fig-StufenschemaHypertonie
 :width: 100%
 
@@ -922,7 +922,7 @@ Bradykardien:
 
 Alle pulslosen Störungen sind UNBEDINGT REANIMATIONSBEDÜRFTIG!!!
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Herz-Bls.png
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Bls.png
 :width: 100%
 
 ₢ Lena Hirtler  {term}`ℓ MfG`
@@ -997,7 +997,7 @@ Weiters werden folgende Substanzklassen angewendet:
 - Herzglykoside: Besserung der Hämodynamk
 - β-Blocker: Prognoseverbesserung
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Herz-Herzinsuffizienz.png
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Herzinsuffizienz.png
 :width: 100%
 
 Entstehung und Therapie der Herzinsuffizienz

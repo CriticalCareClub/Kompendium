@@ -58,7 +58,7 @@ Im Akutfall kann der Normalbereich jedoch großzügiger angesetzt werden, da bei
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Blutzucker_32796_export_01312.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Blutzucker_32796_export_01312.jpg
 :width: 100%
 
 Material zur Blutzuckermessung
@@ -66,11 +66,11 @@ Material zur Blutzuckermessung
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/MotalMichael-Ccc/00800/neuro6.jpg
+:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro6.jpg
 :width: 100%
 :::
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/bz-wert_1214-00800.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/bz-wert_1214-00800.jpg
 :width: 100%
 
 Ergebnis: "90mg/dL

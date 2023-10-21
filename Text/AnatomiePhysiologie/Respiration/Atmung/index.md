@@ -323,7 +323,7 @@ Folgende Reize können zu einer *verstärkten Atmung* führen: Schmerz- und Temp
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Thorax-Diaphragma.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Thorax-Diaphragma.\*
 :width: 100%
 
 Das *Diaphragma* ist der wichtigste Atemmuskel und trennt den Brust- und Bauchraum.
@@ -331,7 +331,7 @@ Das *Diaphragma* ist der wichtigste Atemmuskel und trennt den Brust- und Bauchra
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Thoraxbewegung-frontal.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Thoraxbewegung-frontal.\*
 :width: 100%
 
 Bei der Einatmung senkt sich das Zwerchfell und der Brustkorb hebt sich.
@@ -339,7 +339,7 @@ Bei der Einatmung senkt sich das Zwerchfell und der Brustkorb hebt sich.
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Thoraxbewegungen-Rippe.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Thoraxbewegungen-Rippe.\*
 :width: 100%
 
 Die Rippen folgen der Atembewegung.

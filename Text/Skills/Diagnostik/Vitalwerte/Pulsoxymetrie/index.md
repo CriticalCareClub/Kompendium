@@ -52,7 +52,7 @@ gibt es verschiedene Gerätearten:
   Multifunktionsmonitore verfügen über die Möglichkeit zur
   Pulsoxymetrie mithilfe eines Sensors.
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Pulsoxymeter_32779-00943pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Pulsoxymeter_32779-00943pt.\*
 Handpulsoxymeter: Sauerstoffsättigung 96%, Pulsfrequenz 89 / min
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`

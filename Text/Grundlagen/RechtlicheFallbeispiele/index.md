@@ -409,7 +409,7 @@ Mit einer Reanimation ist zu beginnen.
 ```{rubric} Sachverhalt
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/nef-passat-kontur.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/nef-passat-kontur.\*
 :align: right
 :width: 50%
 
@@ -494,7 +494,7 @@ strafbar.
 ```{rubric} Sachverhalt
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/venflon_in_situ.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/venflon_in_situ.\*
 :align: right
 :width: 50%
 
@@ -554,7 +554,7 @@ verabreichen, selbst wenn Gefahr in Verzug vorliegt.
 ```{rubric} Sachverhalt
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/emergency_physician_vehicle_00800.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/emergency_physician_vehicle_00800.\*
 :align: right
 :width: 50%
 
@@ -992,7 +992,7 @@ werden kann.
 ```{rubric} Sachverhalt
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/blut-tatort-jacke.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/blut-tatort-jacke.\*
 :align: right
 :width: 50%
 
@@ -1042,7 +1042,7 @@ SanG.
 ```{rubric} Sachverhalt
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/haematom-fehlpunktion-001.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/haematom-fehlpunktion-001.\*
 :align: right
 :width: 50%
 
@@ -1094,7 +1094,7 @@ Anzeige einbringen möchte.
 ```{rubric} Sachverhalt
 ```
 
-:::{figure} /Bilder/GabrielSebastian-Ccc/IMG_1896_00800.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/IMG_1896_00800.\*
 :align: right
 :width: 50%
 

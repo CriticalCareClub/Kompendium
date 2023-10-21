@@ -118,7 +118,7 @@ steht.
 Dadurch kann die Analysezeit drastisch reduziert werden und auf
 außerplanmäßige Situation flexibler reagiert werden (Intubation, …).
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Corpuls_32863-00943pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Corpuls_32863-00943pt.\*
 :width: 100%
 
 Multifunktionsmonitor mit integriertem Defibrillator
@@ -206,7 +206,7 @@ Anbringen der Klebeelektroden
 \[WMC:Andersat, {term}`ℓ CC BY-SA 3.0`\]
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Reanimation-Defi-Achtung.\*
 :width: 100%
 
 Bei der Analyse und Schockabgabe darf niemand den Patienten berühren! ₢ Lena Hirtler, {term}`ℓ MfG`

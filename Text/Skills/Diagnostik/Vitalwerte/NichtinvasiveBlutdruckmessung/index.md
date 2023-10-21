@@ -76,7 +76,7 @@ Im Idealfall wird auch noch ein Stethoskop verwendet.
 Ein manuelles Blutdruckmessgerät besteht aus einer Manschette, einem Schlauch, einem Auslassventil, einem Pumpballen und einer Druckanzeige.
 Es gibt Manschetten in unterschiedlichen Größen.
 
-:::{figure} /Bilder/PallingerChristoph-Ccc/Blutdruck_32768_export_01024.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Blutdruck_32768_export_01024.jpg
 Blutdruckmanschetten mit Hak- und Klettverschluss, sowie einem Doppel- und einem Einzelkopfstethoskop
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`
@@ -163,7 +163,7 @@ Es kann vorkommen, dass das Pochen nicht verschwindet, sondern nur plötzlich le
 Dokumentiert wird der Blutdruck mit dem Zusatz *RR* (z. B.: `RR 120/80 mm Hg`).
 Der Normalwert beim Erwachsenen liegt in etwa bei RR 130/80 (vgl. {ref}`blutdruck`).
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Riva-Rocci_edited.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Riva-Rocci_edited.\*
 Prinzip der auskultatorischen RR-Messung
 
 In Abhängigkeit vom außen anliegenden Manschettendruck kommt es zu einem unterschiedlich starken Blutfluss und dadurch entstehenden, hörbaren, Strömungsgeräuschen.

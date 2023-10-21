@@ -154,7 +154,7 @@ aus drei bis sieben Säulen:
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Reanimation-Position-2.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Reanimation-Position-2.\*
 :width: 100%
 
 Herzdruckmassage
@@ -162,7 +162,7 @@ Herzdruckmassage
 \[Lena Hirtler, {term}`ℓ MfG`\]
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Beutelbeatmung1.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Beutelbeatmung1.\*
 :width: 100%
 
 Beatmung
@@ -170,7 +170,7 @@ Beatmung
 \[Lena Hirtler, {term}`ℓ MfG`\]
 :::
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Reanimation-Defi-Achtung.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Reanimation-Defi-Achtung.\*
 :width: 100%
 
 Defibrillation

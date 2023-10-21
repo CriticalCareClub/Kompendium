@@ -278,7 +278,7 @@ sondern stellt eine
 *überlebenswichtige, evolutionär entstandene, natürliche Reaktion*
 dar. [^footnote-3]
 
-:::{figure} /Bilder/HirtlerLena-Ccc/Parasymp-Symp-Cartoon.\*
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Parasymp-Symp-Cartoon.\*
 Stress hat, genauso wie Ruhephasen, eine wichtige Funktion.
 
 ₢ Lena Hirtler, {term}`ℓ MfG`

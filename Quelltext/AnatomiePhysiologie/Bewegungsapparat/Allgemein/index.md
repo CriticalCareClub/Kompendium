@@ -124,11 +124,8 @@ Der Gelenkknorpel besteht in den meisten Gelenken aus hyalinem Knorpel.
 Abgesehen von den *Knorpelzellen*
 (*Chondrozyten)* besteht dieser Knorpel
 aus *Extrazellulärmatrix*
-{deep}`(Kollagenmatrix, Makromoleküle (Proteoglykane)
-und Wasser)`.
-{deep}`Durchschnittlich ist er ca. 2—3 mm dick, kann aber an
-Einzelstellen, wie z.B. an der Gelenksflächen der Kniescheibe (Patella, 8 mm),
-dicker sein.`
+{deep}`(Kollagenmatrix, Makromoleküle (Proteoglykane) und Wasser)`.
+{deep}`Durchschnittlich ist er ca. 2—3 mm dick, kann aber an Einzelstellen, wie z.B. an der Gelenksflächen der Kniescheibe (Patella, 8 mm), dicker sein.`
 Er ist auch aufgrund des mangelndem Knorpelhaut
 (Perichondrium, enthält Nerven und und Blutgefäße) und der
 abwesenden Blutgefäßen *von der Nährstoffversorgung* über das Blut

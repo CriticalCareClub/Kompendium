@@ -8,8 +8,7 @@
 # Caput (Kopf)
 
 :::{figure} /Bilder/WikipediaCcBy/Human_skull_front_simplified_bones_de-edited.\*
-:align: right
-:width: 50%
+:width: 100%
 
 Querschnitt durch die Schädeldecke
 

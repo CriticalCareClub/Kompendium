@@ -57,7 +57,7 @@ in Richtung der Zentralvenen.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/WikipediaPd/[Liver_and_pangreas]-\_transparent.\*
+:::{figure} /Bilder/WikipediaPd/Liver_and_pangreas_-_transparent.png
 :width: 100%
 
 Leber, Gallenblase und Pankreas.

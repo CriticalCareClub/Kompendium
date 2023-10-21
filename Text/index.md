@@ -59,7 +59,7 @@
 :caption: Inhalt
 :maxdepth: 2
 
-Prolog/index.rst
+000-Prolog/index.rst
 Grundlagen/index.rst
 AnatomiePhysiologie/index
 Skills/index
@@ -68,7 +68,7 @@ AirwayBreathing/index
 Reanimation/index.rst
 Speziell/index.rst
 Pharmakotherapie/index.rst
-Appendix/index.rst
+999-Appendix/index.rst
 ```
 
 ::::{only} html

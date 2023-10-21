@@ -2,9 +2,7 @@
 ```
 
 (herzinsuffizienz)=
-
 (linksherzinsuffizienz)=
-
 (rechtsherzinsuffizienz)=
 
 # Herzinsuffizienz
@@ -14,13 +12,9 @@ Eine {dfn}`Herzinsuffizienz` bezeichnet eine unzureichende
 Auswurfleistung des Herzens, unabhängig von deren Ursache.
 :::
 
-Es sind
-viele Ursachen möglich, manche Ursachen treten *akut* auf, manche sind
-eher *chronischer* Natur.
+Es sind viele Ursachen möglich, manche Ursachen treten *akut* auf, manche sind eher *chronischer* Natur.
 
 ## Einteilung
-
-::::{only} not nosidebar
 
 :::{sidebar} Einteilung
 - Herzteil:
@@ -34,7 +28,7 @@ eher *chronischer* Natur.
   - Kompensierte Herzinsuffizienz
   - **De**kompensierte Herzinsuffizienz
 :::
-::::
+
 
 Die Einteilung der Herzinsuffizienz kann nach dem betroffenen Herzteil
 oder der Fähigkeit des Körpers zur Kompensation erfolgen:
@@ -75,26 +69,21 @@ oder der Fähigkeit des Körpers zur Kompensation erfolgen:
 
 ## ABCDE
 
-::::{only} not nosidebar
 
 :::{sidebar} ABCDE
 ②
-
 : Blass, evtl. kaltschweißig. Evtl. agitiert
 
 ④
-
 : *Dyspnoe*, besonders im Liegen → Sitzende
   Position!
 
   Evtl.  schweres kardiales Lungenödem
 
 Ⓑ
-
 : *Tachypnoe*,  Dyspnoe
 
 Ⓒ
-
 : *Tachykardie*, *Hypotonie* oder *Hypertonie* (RR kann Auslöser
   sein). Evtl. Zeichen eines   kardiogenen Schocks
 
@@ -110,84 +99,76 @@ oder der Fähigkeit des Körpers zur Kompensation erfolgen:
     Plötzlich neu auftretende Symptome, evtl.
     Alarmsymptome
 :::
-::::
-
-```{eval-rst}
-
-:④:
-    Der Patient klagt über  Atemnot (*Dyspnoe*). Oft
-    berichten die Patienten, dass sie nur mehr im Sitzen Luft bekommen,
-    sie können nicht flach liegen ( Orthopnoe [#236]_).
-
-:Ⓑ:
-    Die Atemfrequenz ist oft erhöht (*Tachypnoe*), oft besteht ein
-    *Hustenreiz*. Die  Sauerstoffsättigung kann
-    deutlich erniedrigt sein.
-
-    Die Linksherzinsuffizienz entsteht aufgrund mangelnder
-    Auswurfleistung des linken Herzens. Durch den *Rückstau von Blut in
-    den Lungenkreislauf* kann es zu einem Lungenödem bis hin zum
-     *schweren kardialen Lungenödem* kommen.
-
-:Ⓒ:
-    Die Herzfrequenz ist oft erhöht (*Tachykardie*). Grundsätzlich ist
-    der Blutdruck vermindert (*Hypotonie*).
-    Allerdings kann ein erhöhter
-    Blutdruck bei einer Blutdruckkrise (*Hypertonie*, *hypertensive
-    Krise* (:ref:`HypertensiveKrise`), *hypertensiver Notfall*
-    (:ref:`HypertensiverNotfall`)) der eigentliche *Auslöser* einer
-    Herzinsuffizenz sein.
-    Der Blutdruck kann dann natürlich erhöht sein.
-    Es können Zeichen eines 🚩 kardiogenen Schocks
-    auftreten.
-
-:⌥:
-    Bei der Rechtsherzinsuffizienz kommt es zu einem Rückstau des Blutes
-    in den Körperkreislauf und damit zu Ödemen (Beine, …) und gestauten
-    Halsvenen. Die Patienten müssen häufig nachts urinieren. Über
-    längere Zeit kann sich die Leber vergrößern und ein sog.
-    "Wasserbauch" (Aszites) bilden, dabei wird durch den Rückstau
-    Wasser in den freien Bauchraum abgepresst.
-
-:=:
-    Es ist wichtig, den Schweregrad und die Kompensation einer
-    Herzinsuffizienz zu beurteilen. Man muss die Symptome generell
-    *anhand ihres Verlaufs beurteilen*: Bekannte, seit längerer Zeit
-    bestehende Symptome sind weniger alarmierend als plötzlich
-    auftretende Symptome.
-
-    Kritisch sind plötzlich auftretende Symptome, inbesonders ist hier
-    die  *Atemnot* zu nennen,
-    weiters eine  *niedrige Sauerstoffsättigung* oder Zeichen eines
-     *kardiogenen Schocks*.
-
-    Eine besonders kritische Komplikation ist das
-    🚩 kardiale *Lungenödem*.
-    Wenn es sehr stark ausgeprägt ist,
-    kann man es mit freiem Ohr hören (*"brodelndes Atemgeräusch"*).
-    Diese Patienten sind als besonders kritisch einzuschätzen, sie sind
-    *lebensbedrohlich* krank. Das Herz verbraucht oft die allerletzten
-    Reserven, schon die Aufregung durch den Transport im Stiegenhaus zum
-    Auto kann das Herz endgültig in den Herz-Kreislaufstillstand
-    bringen. Es kommt immer wieder vor, dass solche Patienten im
-    Stiegenhaus oder im Auto reanimationspflichtig werden.
 
 
 
-.. [#236]
-   *Orthopnoe*: Der Patient muss aufrecht sitzen um die Atemnot zu
-```
 
-[^footnote-1]: *Orthopnoe*: Der Patient muss aufrecht sitzen um die Atemnot zu
-    lindern.
+④
+: Der Patient klagt über  Atemnot (*Dyspnoe*).
+  Oft berichten die Patienten, dass sie nur mehr im Sitzen Luft bekommen, sie können nicht flach liegen (Orthopnoe [^Orthopnoe]).
+
+Ⓑ
+: Die Atemfrequenz ist oft erhöht (*Tachypnoe*), oft besteht ein
+  *Hustenreiz*. Die  Sauerstoffsättigung kann
+  deutlich erniedrigt sein.
+
+  Die Linksherzinsuffizienz entsteht aufgrund mangelnder
+  Auswurfleistung des linken Herzens. Durch den *Rückstau von Blut in
+  den Lungenkreislauf* kann es zu einem Lungenödem bis hin zum
+   *schweren kardialen Lungenödem* kommen.
+
+Ⓒ
+: Die Herzfrequenz ist oft erhöht (*Tachykardie*). Grundsätzlich ist
+  der Blutdruck vermindert (*Hypotonie*).
+  Allerdings kann ein erhöhter
+  Blutdruck bei einer Blutdruckkrise (*Hypertonie*, *hypertensive
+  Krise* ({ref}`HypertensiveKrise`), *hypertensiver Notfall*
+  ({ref}`HypertensiverNotfall`)) der eigentliche *Auslöser* einer
+  Herzinsuffizenz sein.
+  Der Blutdruck kann dann natürlich erhöht sein.
+  Es können Zeichen eines 🚩 kardiogenen Schocks
+  auftreten.
+
+⌥
+: Bei der Rechtsherzinsuffizienz kommt es zu einem Rückstau des Blutes
+  in den Körperkreislauf und damit zu Ödemen (Beine, …) und gestauten
+  Halsvenen. Die Patienten müssen häufig nachts urinieren. Über
+  längere Zeit kann sich die Leber vergrößern und ein sog.
+  "Wasserbauch" (Aszites) bilden, dabei wird durch den Rückstau
+  Wasser in den freien Bauchraum abgepresst.
+
+=
+: Es ist wichtig, den Schweregrad und die Kompensation einer
+  Herzinsuffizienz zu beurteilen. Man muss die Symptome generell
+  *anhand ihres Verlaufs beurteilen*: Bekannte, seit längerer Zeit
+  bestehende Symptome sind weniger alarmierend als plötzlich
+  auftretende Symptome.
+
+  Kritisch sind plötzlich auftretende Symptome, inbesonders ist hier
+  die  *Atemnot* zu nennen,
+  weiters eine  *niedrige Sauerstoffsättigung* oder Zeichen eines
+   *kardiogenen Schocks*.
+
+  Eine besonders kritische Komplikation ist das
+  🚩 kardiale *Lungenödem*.
+  Wenn es sehr stark ausgeprägt ist,
+  kann man es mit freiem Ohr hören (*"brodelndes Atemgeräusch"*).
+  Diese Patienten sind als besonders kritisch einzuschätzen, sie sind
+  *lebensbedrohlich* krank. Das Herz verbraucht oft die allerletzten
+  Reserven, schon die Aufregung durch den Transport im Stiegenhaus zum
+  Auto kann das Herz endgültig in den Herz-Kreislaufstillstand
+  bringen. Es kommt immer wieder vor, dass solche Patienten im
+  Stiegenhaus oder im Auto reanimationspflichtig werden.
+
+
+[^Orthopnoe]:
+   *Orthopnoe*: Der Patient muss aufrecht sitzen um die Atemnot zu lindern.
 
 ## SAMPLER
 
-::::{only} not nosidebar
 
 :::{sidebar} SAMPLER
 🅂
-
 : Viele
 
 🄿
@@ -196,32 +177,27 @@ oder der Fähigkeit des Körpers zur Kompensation erfolgen:
   Befunde, Bluthochdruck, Herzerkrankungen, frühere Herzinfarkte
 
 🅁
-
 : Ungewohnte Belastung: Infekte, Erkrankungen, Blutdruckanstieg
 :::
-::::
+
 
 🅂
-
 : Es werden meist viele Medikamente genommen, sowohl für die
   Herzinsuffizienz, als auch für die Begleiterkrankungen.
 
 🄿
-
 : Die Herzinsuffizienz ist als chronische Erkrankung bekannt,
   entsprechende Befunde vorhanden. Oft bestehen Erkrankungen oder gab
   es Ereignisse, welche den Herzmuskel geschädigt haben, wie z. B.
   diverse Herzerkrankungen, frühere Herzinfarkte, Bluthochdruck, u.a.
 
 🅁
-
 : Auslöser für akute Beschwerden können alle Umstände sein, welche vom
   Herz eine ungewohnte Mehrarbeit erfordern: Darunter fallen z. B.
   Infektionen und andere Erkankungen, Stress und ein plötzlicher
   Blutdruckanstieg.
 
 (proc-mi50090c)=
-
 (m-herzinsuffizienz)=
 
 ## Maßnahmen: Akute dekompensierte Herzinsuffizenz
@@ -250,9 +226,7 @@ Ort Vorrang. Bereits der Transport in das Fahrzeug kann gefährlich sein!
 : - Nitrate
 
   - Diuretika
-
     - Furosemid (Lasix™, Furon™)
-
   - Klinisch: Erwäge Kalziumsensitizer
     (Levosimedan (Simdax™), Expertenrat)
 

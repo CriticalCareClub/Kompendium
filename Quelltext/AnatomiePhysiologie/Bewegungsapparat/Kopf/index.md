@@ -1,3 +1,5 @@
+{{ PROLOG }}
+
 ```{index} single: Kopf single: Caput
 ```
 

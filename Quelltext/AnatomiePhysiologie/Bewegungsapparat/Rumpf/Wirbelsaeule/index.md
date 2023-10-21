@@ -1,3 +1,5 @@
+{{ PROLOG }}
+
 ```{index} single: Wirbelsäule single: Columna vertebralis
 ```
 

@@ -595,7 +595,7 @@ Fragestellung:
 %
 %     Genau erfragen und dokumentieren!
 
-```{rubric} {{ Text-Sampler-S }}
+```{rubric} 🅂 — Symptome und Schmerzen
 ```
 
 Der Patient klagt oft
@@ -626,7 +626,7 @@ akut lebensbedrohlichen Situation kommen. [^footnote-1]
     direkt auf die Kammern übergeleitet, dies kommt meist einem
     Herzstillstand gleich.
 
-```{rubric} {{ Text-Sampler-M }}
+```{rubric} 🄼 — Medikation
 ```
 
 Viele Patienten, bei denen Rhythmusstörungen bekannt sind nehmen
@@ -638,7 +638,7 @@ eingenommenen sowie der verschriebenen Medikamente ist sehr wichtig,
 da diese Informationen des weiteren Behandlungsverlauf stark
 beeinflusst!
 
-```{rubric} {{ Text-Sampler-P }}
+```{rubric} 🄿 — Patientengeschichte
 ```
 
 Eine große Rolle spielt die *Anamnese*: Da oft chronische
@@ -651,7 +651,7 @@ oder *Befunde*.
 Herzschrittmacher sind häufig bei chronischen bradykarden Rhythmusstörungen anzutraffen.
 Bei Risikopatienten werden auch häufig Defibrillatoren (ICD: Implantable Cardiac Device) implantiert.
 
-```{rubric} {{ Text-Sampler-L }}
+```{rubric} 🄻 — Letze …
 ```
 
 Bei regelmäßig wiederkehrenden Beschwerden sind Informationen über

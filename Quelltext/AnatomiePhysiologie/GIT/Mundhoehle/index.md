@@ -1,3 +1,5 @@
+{{ PROLOG }}
+
 (mundhoehle-gastrointestinaltrakt)=
 
 # Mundhöhle (Cavitas oris)

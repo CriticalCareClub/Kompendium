@@ -1,3 +1,5 @@
+{{ PROLOG }}
+
 (zns)=
 
 # Zentrales Nervensystem (ZNS)

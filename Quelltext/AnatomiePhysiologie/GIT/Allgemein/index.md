@@ -1,3 +1,5 @@
+{{ PROLOG }}
+
 (allgemeine-anatomie-4)=
 
 # Allgemeines

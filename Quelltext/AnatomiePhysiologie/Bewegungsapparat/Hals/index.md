@@ -1,4 +1,8 @@
-```{index} single: Hals single: Collum
+{{ PROLOG }}
+
+```{index} single: Hals
+```
+```{index} single: Collum
 ```
 
 (hals)=

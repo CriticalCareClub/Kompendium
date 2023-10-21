@@ -1,3 +1,5 @@
+{{ PROLOG }}
+
 # Gewebe
 
 Gewebe sind Verbände gleichartig differenzierter Zellen. Mehrere

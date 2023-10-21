@@ -1,3 +1,5 @@
+{{ PROLOG }}
+
 (pharynx-rachen-1)=
 
 # Rachen (Pharynx)

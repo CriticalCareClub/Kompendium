@@ -1,6 +1,6 @@
 # Offenlegung, Impressum, Nutzungsbedingungen und Hinweise
 
-:::{admonition} Versionsverwaltung (Git-Archiv)
+::::{admonition} Versionsverwaltung (Git-Archiv)
 ```{eval-rst}
 .. git_changelog::
     :revisions: 1
@@ -13,7 +13,7 @@
     :uncommitted:
     :untracked:
 ```
-:::
+::::
 
 Dieses Werk ist in Entwicklung und gegenwärtig nicht zur Veröffentlichung bestimmt!
 
@@ -22,35 +22,28 @@ Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kra
 Engerthstraße 146/8/3,
 A-1200 Wien – AUSTRIA
 
-E-Mail:
-
+E-Mail
 : <mailto:office@criticalcare.at>
 
-Homepage:
-
+Homepage
 : <http://www.criticalcare.at>
 
-ZVR:
-
+ZVR
 : 846678982
 
-Verlags- und Herstellungsort:
-
+Verlags- und Herstellungsort
 : Wien
 
-Publikationsart:
+Publikationsart
+: Elektronisch. Die etwaige Herstellung von Druckwerken erfolgt durch den autorisierten Nutzer.
 
-: Elektronisch. Die etwaige Herstellung von Druckwerken erfolgt durch
-  den autorisierten Nutzer.
-
-ISBN:
-
-: \---
+ISBN
+: --
 
 Status: Entwicklungsversion
 
 Versionsgeschichte
-
+<!--
 > 0.2.0
 >
 > : 2009-07 (Vorabversion)
@@ -172,21 +165,15 @@ Versionsverwaltung (Git)
       :uncommitted:
       :untracked:
   ```
-
+ -->
 Siehe Abschnitt "Lizenzen".
 
-Wie jede Wissenschaft ist die Medizin ständigen Entwicklungen
-unterworfen. Soweit fachliche Angaben gemacht werden, darf der Leser
-zwar darauf vertrauen, dass die Autoren große Sorgfalt darauf verwandt
-haben, dass diese Angaben dem Wissensstand bei Fertigstellung des Werkes
-entspricht. Für Angaben, speziell über Dosierungsanweisungen und
-Applikationsformen, kann jedoch keine Gewähr übernommen werden.
+Wie jede Wissenschaft ist die Medizin ständigen Entwicklungen unterworfen.
+Soweit fachliche Angaben gemacht werden, darf der Leser zwar darauf vertrauen, dass die Autoren große Sorgfalt darauf verwandt haben, dass diese Angaben dem Wissensstand bei Fertigstellung des Werkes entspricht.
+Für Angaben, speziell über Dosierungsanweisungen und Applikationsformen, kann jedoch keine Gewähr übernommen werden.
 
-Jeder Leser ist angehalten, durch sorgfältige Prüfung der Literatur, der
-Lehrmeinung sowie der Beipackzettel der verwendeten Präparate und
-gegebenenfalls nach Konsultation eines Spezialisten festzustellen, ob
-die gegebene Aussage oder Empfehlung für Dosierungen oder die Beachtung
-von Kontraindikationen gegenüber der Angabe in diesem Werk abweicht.
+Jeder Leser ist angehalten, durch sorgfältige Prüfung der Literatur, der Lehrmeinung sowie der Beipackzettel der verwendeten Präparate und
+gegebenenfalls nach Konsultation eines Spezialisten festzustellen, ob die gegebene Aussage oder Empfehlung für Dosierungen oder die Beachtung von Kontraindikationen gegenüber der Angabe in diesem Werk abweicht.
 Jede Dosierung oder Applikation erfolgt auf eigene Gefahr des Benutzers.
 
 Die Herausgeber bitten jeden Leser, ihm aufgefallene Ungenauigkeiten und Fehler,
@@ -198,12 +185,9 @@ https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues
 mitzuteilen.
 
 Geschützte Warennamen und Warenzeichen werden nicht durchgehend
-besonders kenntlich gemacht. Aus dem Fehlen eines solchen Hinweises kann
-also nicht geschlossen werden, dass es sich um einen freien Warennamen
-handelt.
+besonders kenntlich gemacht. Aus dem Fehlen eines solchen Hinweises kann also nicht geschlossen werden, dass es sich um einen freien Warennamen handelt.
 
-Sofern nicht explizit angegeben, beziehen sich geschlechtsspezifische
-Bezeichnungen – soweit dies inhaltlich in Betracht kommt – auf Frauen
+Sofern nicht explizit angegeben, beziehen sich geschlechtsspezifische Bezeichnungen – soweit dies inhaltlich in Betracht kommt – auf Frauen
 und Männer in gleicher Weise.
 
 Satz und Druckvorstufe

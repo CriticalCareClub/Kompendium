@@ -1,3 +1,5 @@
+{{ PROLOG }}
+
 # Bauchwand
 
 {deep}`Die *Begrenzung der Bauchwand* sind der Angulus infrasternalis, die

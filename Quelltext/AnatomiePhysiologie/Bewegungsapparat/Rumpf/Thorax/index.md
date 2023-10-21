@@ -1,3 +1,5 @@
+{{ PROLOG }}
+
 ```{index} single: Interkostalraum single: ICR single: Zwischenrippenraum
 ```
 

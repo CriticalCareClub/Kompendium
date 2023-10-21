@@ -78,8 +78,7 @@ wie in der folgenden Tabelle gegliedert:
 ## Maßnahmen
 
 Maßnahmen im engeren Sinne sind festgelegte Handlungsempfehlungen,
-vergleichbar mit Lehrmeinungen. Es wird zwischen allgemeinen, Standard-
-und speziellen Maßnahmen unterschieden, siehe {ref}`Tafel-Massnahmentypen`.
+vergleichbar mit Lehrmeinungen. Es wird zwischen allgemeinen, Standard- und speziellen Maßnahmen unterschieden, siehe {ref}`Tafel-Massnahmentypen`.
 Jede Maßnahme hat eine Kennung und eine Versionsnummer.
 
 (tafel-massnahmentypen)=
@@ -146,10 +145,8 @@ Eine Versionsnummer besteht aus
 
 Die Bestandteile der Versionsbezeichnung werden durch Punkte getrennt.
 
-> - Schema der Versionsbezeichnung:
->   `<*Primärschlüssel*>.<*Versionstyp*>.<*VSN*>.<*Variante*>.<*Auszug*>`
+- Schema der Versionsbezeichnung:
+  `<*Primärschlüssel*>.<*Versionstyp*>.<*VSN*>.<*Variante*>.<*Auszug*>`
 
-Die 3 Stellen werden durch Punkte getrennt. In der Kurzschreibweise
-können die Nebenversionsnummer und die Revisionsnummer weggelassen
-werden, sofern die jeweilige und die dazu untergeordnete Stelle 0 ist
-(z. B. `2.1.0` → `2.1`, `2.0.0` → `2`; `2.0.1` wird nicht abgekürzt).
+Die 3 Stellen werden durch Punkte getrennt.
+In der Kurzschreibweise können die Nebenversionsnummer und die Revisionsnummer weggelassen werden, sofern die jeweilige und die dazu untergeordnete Stelle 0 ist (z. B. `2.1.0` → `2.1`, `2.0.0` → `2`; `2.0.1` wird nicht abgekürzt).

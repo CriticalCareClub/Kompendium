@@ -112,13 +112,13 @@ ischämischen HerzschmerzLena \[Lena Hirtler,  {term}`ℓ MfG`\]
 :::
 ::::
 
-```{rubric} {{ Text-Abcde-3 }}
+```{rubric}  ③ — Bewusstsein
 ```
 
 Der Patient macht oft einen leidenden Eindruck, eventuell ist er
 kaltschweißig und blass.
 
-```{rubric} {{ Text-Abcde-4 }}
+```{rubric}  ④ — Hauptbeschwerde
 ```
 
 Die Leitsymptome sind ein  *akuter, nicht
@@ -140,13 +140,13 @@ Schocks* können die entsprechenden Schockzeichen beobachtet werden:
 Blässe, Kaltschweißigkeit, Hypotonie, etc.
 ({ref}`SchockKardiogener`).
 
-```{rubric} {{ Text-Abcde-B }}
+```{rubric}  Ⓑ — Atmung
 ```
 
 &#8201;*Atemnot* kommt häufig vor und ist ein
 Leitsymptom. Begleitend kann man oft eine Zyanose beobachten.
 
-```{rubric} {{ Text-Abcde-C }}
+```{rubric}  Ⓒ — Kreislauf und STU
 ```
 
 Der Puls kann unregelmäßig sein.
@@ -154,7 +154,7 @@ Der Blutdruck kann in jede Richtung verändert sein.
 Bedenke: Ein hypertensiver Notfall kann Auslöser eines ACS sein.
 Es können Zeichen eines  *kardiogenen Schocks* vorliegen.
 
-```{rubric} {{ Text-Abcde-E }}
+```{rubric} Ⓔ — Erweiterte Untersuchung
 ```
 
 Das EKG kann wichtige Hinweise über Ausdehnung, Alter und
@@ -164,7 +164,7 @@ werden um Veränderungen im Verlauf zu dokumentieren. Die Beurteilung
 ist jedoch nur entsprechend ausgebildeten und geübten Personal
 vorbehalten.
 
-```{rubric} {{ Text-Abcde-Fazit }}
+```{rubric} = — Beurteilung
 ```
 
 Ein Patient mit einem  akuten Koronarsyndrom ist

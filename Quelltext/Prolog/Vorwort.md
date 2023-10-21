@@ -56,9 +56,8 @@ und der ebenso beharrliche Versuch,
 andere in der Betreuung kritisch kranker Menschen
 mit unserer Arbeit zu unterstützen.
 
-```{eval-rst}
-.. todo:: `#128 Vorwort / Umbenennung CCCA <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/128>`
-```
+:::{todo} [#128 Vorwort / Umbenennung CCCA](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/128)
+:::
 
 -- saluti et solatio aegrorum
 
@@ -75,14 +74,14 @@ An wen wendet sich dieses Buch?
 
 Für wen ist dieses Werk *nicht* gedacht?
 
-: > Diese Werk wird diese nicht erfreuen,
-  > welche gerne einfache Antworten auf komplizierte Fragen haben möchten.
-  > Unser Ziel ist selbstständiges, regel*geleitetes* Arbeiten,
-  > anstatt strikten, regel*gebundenen* Handelns.
+> Diese Werk wird diese nicht erfreuen,
+> welche gerne einfache Antworten auf komplizierte Fragen haben möchten.
+> Unser Ziel ist selbstständiges, regel*geleitetes* Arbeiten,
+> anstatt strikten, regel*gebundenen* Handelns.
 
   –
 
-*salus aegroti suprema lex* [^footnote-1].
+*salus aegroti suprema lex* [^salus].
 
 ```
  _________________________________________
@@ -98,5 +97,4 @@ Für wen ist dieses Werk *nicht* gedacht?
                ||     ||
 ```
 
-[^footnote-1]: salus aegroti suprema lex *lat.*: *Das Wohl des Kranken ist oberstes
-    Gebot.*
+[^salus]: salus aegroti suprema lex *lat.*: *Das Wohl des Kranken ist oberstes Gebot.*

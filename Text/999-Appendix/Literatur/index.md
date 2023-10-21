@@ -1,5 +1,79 @@
 # Literaturverzeichnis
 
+## ♛ Leitlinien
+
+<!--
+💡👑🖋⎈⎔⏣⏚★☆♛♕⬡⬢
+ -->
+
+:::{raw} latex
+\footnotesize
+:::
+
+{.glossary}
+♛ S1 Atemweg 2015
+: **S1-Leitlinie Atemwegsmanagement**
+  by T. Piepho et al.
+  Anaesthesist 2015 64:859–873.
+  AWMF-Register Nr.: 001/028.
+  DOI 10.1007/s00101-015-0087-6
+  <https://link.springer.com/article/10.1007/s00101-015-0087-6>
+
+♛ ASA Airway 2022
+: **2022 American Society of Anesthesiologists Practice Guidelines for Management of the Difficult Airway**
+  by Jeffrey L Apfelbaum et al.
+  Anesthesiology. 2022 Jan 1;136(1):31-81.
+  <https://doi.org/10.1097/aln.0000000000004002>
+
+  *DMV was reported in 5% of the patients.*
+
+♛ ASE TEE 2013
+: **Guidelines for Performing a Comprehensive Transesophageal Echocardiographic Examination: Recommendations from the American Society of Echocardiography and the Society of Cardiovascular Anesthesiologists**
+  by Rebecca T. Hahn et al.
+  J Am Soc Echocardiogr 2013;26:921-64.
+  http://dx.doi.org/10.1016/j.echo.2013.07.009
+
+
+♛ ÖSG 2017 TXT
+: **Österreichischer Strukturplan Gesundheit, Textband**
+  gemäß Beschluss der Bundes-Zielsteuerungskommission vom 30. Juni 2017.
+  Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz (BMSGPK).
+  Stubenring 1, A-1010 Wien.
+  Wien, Oktober 2022.
+  ISBN 978-3-903099-27-2.
+  https://goeg.at/sites/goeg.at/files/inline-files/%C3%96SG_2017_-_Textband%2C_Stand_07.10.2022.pdf
+
+♛ ÖSG 2017 Tab
+: **Österreichischer Strukturplan Gesundheit, Tabellenband**
+  gemäß Beschluss der Bundes-Zielsteuerungskommission vom 30. Juni 2017.
+  Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz (BMSGPK).
+  Stubenring 1, A-1010 Wien.
+  Wien, Oktober 2022.
+  ISBN 978-3-903099-27-2.
+  https://goeg.at/sites/goeg.at/files/inline-files/%C3%96SG_2017_-_Tabellenband%2C_Stand_07.10.2022.pdf
+
+♛ S2k Anaphylaxie 2021
+: **Leitlinie zu Akuttherapie und Management der Anaphylaxie - Update 2021: S2k-Leitlinie der Deutschen Gesellschaft für Allergologie und klinische Immunologie (DGAKI)**, des Ärzteverbands Deutscher Allergologen (AeDA), der Gesellschaft für Pädiatrische Allergologie und Umweltmedizin (GPA), der Deutschen Akademie für Allergologie und Umweltmedizin (DAAU), des Berufsverbands der Kinder- und Jugendärzte (BVKJ), der Gesellschaft für Neonatologie und Pädiatrische Intensivmedizin (GNPI), der Deutschen Dermatologischen Gesellschaft (DDG), der Österreichischen Gesellschaft für Allergologie und Immunologie (ÖGAI), der Schweizerischen Gesellschaft für Allergologie und Immunologie (SGAI), der Deutschen Gesellschaft für Anästhesiologie und Intensivmedizin (DGAI), der Deutschen Gesellschaft für Pharmakologie (DGP), der Deutschen Gesellschaft für Pneumologie und Beatmungsmedizin (DGP), der Patientenorganisation Deutscher Allergie- und Asthmabund (DAAB) und der Arbeitsgemeinschaft Anaphylaxie - Training und Edukation (AGATE).
+  AWMF-Registernummer 061-025.
+  <https://register.awmf.org/de/leitlinien/detail/061-025>
+
+♛ S2k PPH 2022
+: **S2k-Leitlinie Peripartale Blutungen, Diagnostik und Therapie**
+  der Deutsche Gesellschaft für Gynäkologie und Geburtshilfe e.V. (DGGG).
+  Version 3.2, Stand 01.08.2022.
+  AWMF-Registernummer 015-063.
+  <https://register.awmf.org/de/leitlinien/detail/015-063>
+
+
+:::{raw} latex
+\normalsize
+:::
+
+## 🕮 Sonstige Literatur
+
+:::{raw} latex
+\footnotesize
+:::
 {.glossary}
 🕮 AAOS 9
 : **Emergency Care and Transportation of the Sick and Injured.**
@@ -331,6 +405,14 @@
   J Hand Surg Eur Vol, 37(1):61–64, Jan 2012.
   <http://dx.doi.org/10.1177/1753193411414353>
 
+🕮 Goerg 2018
+: **Assoziation zwischen sozio-ökonomischem Status und Mortalität bei PatientInnen mit ST-Hebungsinfarkt**
+  von Simon Görg.
+  Thesis (Diplom).
+  June 2018, Medizinische Universität Wien.
+  URN: urn:nbn:at:at-ubmuw:1-14568.
+  https://resolver.obvsg.at/urn:nbn:at:at-ubmuw:1-14568
+
 🕮 Grmec 2002
 : **Comparison of Three Different Methods to Confirm Tracheal Tube Placement in Emergency Intubation**
   by Grmec, Stefek.
@@ -554,6 +636,12 @@
   *Anaesthesist*
   2013:62(4), 285–92.
   doi:[10.1007/s00101-013-2154-1](https://doi.org/10.1007/s00101-013-2154-1).
+
+🕮 Mayr 2019
+: **Flächendeckende 7/24 Infarktversorgung in Niederösterreich (Mostviertel, Waldviertel, Zentralraum) seit 2005 - Ergebnisse einer strukturierten, einheitlichen präklinischen Versorgung**
+  von Harald Mayr.
+  2019.
+  Online: https://www.karl-landsteiner.at/pdf/LT/2019%20Mayr.pdf
 
 🕮 Marquardt 2010
 : by C. Marquardt et al.
@@ -1189,6 +1277,9 @@
   1\. Auflage, 1995.
   Springer.
 
+:::{raw} latex
+\normalsize
+:::
 
 [^cite_bruederlbelastung88-defbew]: by Trautmann-Sponsel, R. D:
     In *Belastung Und Bewältigung: by Trends in Der Bewältigungsforschung*, edited by L. Brüderl, 14–24.

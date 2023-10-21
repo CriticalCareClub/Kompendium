@@ -172,7 +172,7 @@ des Tubus zu überprüfen:
 2. Auskultation von Magen und Lungenflügel
 3. Messung der CO₂-Abatmung mittels {term}`Kapnographie`
 
-:::{figure} ../../Bilder/Motal-Michael-CCCA/intubation/dsc-4837-AASS-0030mm.\*
+:::{figure} ../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4837-AASS-0030mm.\*
 :align: right
 
 Endotracheale Intubation

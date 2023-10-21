@@ -424,7 +424,7 @@ Versorgung nach einem Verkehrsunfall
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/Motal-Michael-CCCA/intubation/dsc-4835-AASS-0030mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0030mm.\*
 :width: 100%
 
 Assistenz bei ärztlichen Maßnahmen

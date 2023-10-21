@@ -9,7 +9,7 @@ und Linderung.
 :maxdepth: 1
 
 Taetigkeitsbereich/index.rst
-Rettungswesen/index.rst
+AORG/index.rst
 1-Mal-1-DerMedizin/index
 Terminologie/index
 RechtlicheGrundlagen/index

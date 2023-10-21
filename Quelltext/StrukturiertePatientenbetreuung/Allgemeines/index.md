@@ -22,7 +22,9 @@ aus vielen einzelnen Komponenten,
 welche wie eine Maschine
 zusammenarbeiten.
 
-```{index} single: Belassung single: Standardmaßnahmen, immer durchzuführende
+```{index} single: Belassung
+```
+```{index} single: Standardmaßnahmen, immer durchzuführende
 ```
 
 (m-standardmassnahmen-immer)=

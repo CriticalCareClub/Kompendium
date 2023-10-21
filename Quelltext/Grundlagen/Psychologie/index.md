@@ -976,7 +976,11 @@ professionellen Hilfe zur Verfügung, sollte sich bei der/dem Betroffenen
 keine Erleichterung einstellen. Eine entsprechende Teamkultur, diese
 Hilfestellungen auch selbstverständlich zu nutzen, wäre günstig.
 
-```{index} single: Stresssyndrom; postraumatisches single: PTSS single: PTSD
+```{index} single: Stresssyndrom; postraumatisches
+```
+```{index} single: PTSS
+```
+```{index} single: PTSD
 ```
 
 (ptss)=

@@ -1,4 +1,6 @@
-```{index} single: Etomidate single: Hypnomidate™
+```{index} single: Etomidate
+```
+```{index} single: Hypnomidate™
 ```
 
 (etomidate)=

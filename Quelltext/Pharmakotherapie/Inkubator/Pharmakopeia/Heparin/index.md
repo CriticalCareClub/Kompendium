@@ -1,4 +1,24 @@
-```{index} single: Heparin single: IXa, Faktor; Inaktivierung durch Heparin single: Xa, Faktor; Inaktivierung durch Heparin single: XIa, Faktor; Inaktivierung durch Heparin single: XIIa, Faktor; Inaktivierung durch Heparin single: Faktor; IXa; Inaktivierung durch Heparin single: Faktor; Xa; Inaktivierung durch Heparin single: Faktor; XIa; Inaktivierung durch Heparin single: Faktor; XIIa; Inaktivierung durch Heparin single: AT-III; Heparin-Wirkung single: aPTT; Heparin-Dosierung pair: HIT-Syndrom; Heparin
+```{index} single: Heparin
+```
+```{index} single: IXa, Faktor; Inaktivierung durch Heparin
+```
+```{index} single: Xa, Faktor; Inaktivierung durch Heparin
+```
+```{index} single: XIa, Faktor; Inaktivierung durch Heparin
+```
+```{index} single: XIIa, Faktor; Inaktivierung durch Heparin
+```
+```{index} single: Faktor; IXa; Inaktivierung durch Heparin
+```
+```{index} single: Faktor; Xa; Inaktivierung durch Heparin
+```
+```{index} single: Faktor; XIa; Inaktivierung durch Heparin
+```
+```{index} single: Faktor; XIIa; Inaktivierung durch Heparin
+```
+```{index} single: AT-III; Heparin-Wirkung
+```
+```{index} single: aPTT; Heparin-Dosierung pair: HIT-Syndrom; Heparin
 ```
 
 (heparin)=

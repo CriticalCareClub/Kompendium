@@ -113,7 +113,11 @@ Blutkörperchen sowie den Blutplättchen im roten Knochenmark).
 
 Die Aufgaben werden im Detail bei den jeweiligen Gewebearten besprochen.
 
-```{index} single: Knorpel single: hyalin single: Diffusion; Knorpel
+```{index} single: Knorpel
+```
+```{index} single: hyalin
+```
+```{index} single: Diffusion; Knorpel
 ```
 
 (knorpel)=
@@ -133,7 +137,29 @@ Schambeinfuge) unterscheiden. Der Gelenkknorpel und der Faserknorpel
 sind die einzigen dieser Gruppe ohne Perichondrium (Knorpelhaut) — sie
 können sich daher nicht bzw. nur schwer regenerieren!
 
-```{index} single: Knochen single: Periost single: Beinhaut single: Kompakta single: Knochenrinde single: Spongiosa single: Knochenbälckchen single: Markhöhle single: Epiphysenfuge single: Wachstumsfuge single: Gelenkfläche single: Kopf (Knochen) single: Hals (Knochen) single: Schaft (Knochen)
+```{index} single: Knochen
+```
+```{index} single: Periost
+```
+```{index} single: Beinhaut
+```
+```{index} single: Kompakta
+```
+```{index} single: Knochenrinde
+```
+```{index} single: Spongiosa
+```
+```{index} single: Knochenbälckchen
+```
+```{index} single: Markhöhle
+```
+```{index} single: Epiphysenfuge
+```
+```{index} single: Wachstumsfuge
+```
+```{index} single: Gelenkfläche
+```
+```{index} single: Kopf (Knochen) single: Hals (Knochen) single: Schaft (Knochen)
 ```
 
 (knochen)=
@@ -256,7 +282,9 @@ Ein langer Röhrenknochen im Querschnitt
 ₢ Lena Hirtler {term}`ℓ MfG`
 :::
 
-```{index} single: Epiphysenfuge single: Wchstumsfuge
+```{index} single: Epiphysenfuge
+```
+```{index} single: Wchstumsfuge
 ```
 
 #### Knochenentwicklung: Ossifikation
@@ -278,7 +306,9 @@ Beim Erwachsenen sind diese knorpeligen Fugen hingegen
 vollständig *verknöchert*,
 sodass keinerlei Wachstum mehr stattfinden kann.
 
-```{index} single: Knochenmark single: Fettembolie
+```{index} single: Knochenmark
+```
+```{index} single: Fettembolie
 ```
 
 (knochemark)=
@@ -329,7 +359,17 @@ beim Menschen ist es funktionslos,
 kann jedoch, wenn es z. B. bei Knochenbrüchen in den Blutkreislauf gelangt,
 lebensbedrohliche Fettembolien auslösen.
 
-```{index} single: Muskel single: Muskulatur single: Skelettmuskulatur single: glatte Muskulatur single: Herzmuskulatur single: Muskulatur, Skelett- single: Muskulatur, Herz- single: Muskulatur, glatte
+```{index} single: Muskel
+```
+```{index} single: Muskulatur
+```
+```{index} single: Skelettmuskulatur
+```
+```{index} single: glatte Muskulatur
+```
+```{index} single: Herzmuskulatur
+```
+```{index} single: Muskulatur, Skelett- single: Muskulatur, Herz- single: Muskulatur, glatte
 ```
 
 (muskel)=

@@ -290,7 +290,13 @@ Wichtigste Herzvenen:
 - V. cardiaca media: im Sulcus interventricularis posterior
 - V. cardiaca parva: im rechtenSulcus coronarius
 
-```{index} single: Auswurfphase single: Systole single: Füllungsphase (Herz) single: Diastole single: Blutdruck
+```{index} single: Auswurfphase
+```
+```{index} single: Systole
+```
+```{index} single: Füllungsphase (Herz) single: Diastole
+```
+```{index} single: Blutdruck
 ```
 
 (mechanische-herzfunktion)=

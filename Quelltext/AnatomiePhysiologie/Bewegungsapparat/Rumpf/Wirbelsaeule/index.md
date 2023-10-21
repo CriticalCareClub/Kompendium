@@ -1,6 +1,8 @@
 {{ PROLOG }}
 
-```{index} single: Wirbelsäule single: Columna vertebralis
+```{index} single: Wirbelsäule
+```
+```{index} single: Columna vertebralis
 ```
 
 (wirbelsaeule)=
@@ -37,7 +39,21 @@ Die gesunde Wirbelsäule sollte nur in der Sagittalebene eine Krümmung
 aufweisen. Eine pathologische Krümmung in der Frontalebene nennt man
 **Skoliose**.
 
-```{index} single: Halswirbelsäule single: Brustwirbelsäule single: Lendenwirbelsäule single: HWS single: BWS single: LWS single: Kreuzbein single: Steißbein
+```{index} single: Halswirbelsäule
+```
+```{index} single: Brustwirbelsäule
+```
+```{index} single: Lendenwirbelsäule
+```
+```{index} single: HWS
+```
+```{index} single: BWS
+```
+```{index} single: LWS
+```
+```{index} single: Kreuzbein
+```
+```{index} single: Steißbein
 ```
 
 ## Abschnitte der Wirbelsäule
@@ -85,7 +101,15 @@ Extension*, *Rotation* und *Lateralflexion* möglich. Diese Gesamtbewegungen der
 Wirbelsäule summieren sich aus den Einzelbewegungen zwischen den
 einzelnen Wirbeln.
 
-```{index} single: Wirbel single: Bandscheiben single: Discus single: Wirbelkanal single: Rückenmark
+```{index} single: Wirbel
+```
+```{index} single: Bandscheiben
+```
+```{index} single: Discus
+```
+```{index} single: Wirbelkanal
+```
+```{index} single: Rückenmark
 ```
 
 ## Wirbel

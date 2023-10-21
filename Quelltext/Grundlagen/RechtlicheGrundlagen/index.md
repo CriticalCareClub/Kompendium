@@ -20,7 +20,19 @@ Probleme und Fragestellungen zu lösen.
 
 ## Allgemeine Rechtsgrundlagen
 
-```{index} single: Recht, öffentliches single: Recht, Privat- single: Privatrecht single: Strafrecht single: Verwaltungsrecht single: Verfassungsrecht single: Zivilrecht single: Sonderprivatrechte
+```{index} single: Recht, öffentliches
+```
+```{index} single: Recht, Privat- single: Privatrecht
+```
+```{index} single: Strafrecht
+```
+```{index} single: Verwaltungsrecht
+```
+```{index} single: Verfassungsrecht
+```
+```{index} single: Zivilrecht
+```
+```{index} single: Sonderprivatrechte
 ```
 
 ### Struktur der Österreichischen Rechtsordnung
@@ -119,7 +131,9 @@ jedes von beiden Rechtsgebieten in folgende Bereiche unterteilen:
 Die Gesetzestexte können im Internet vom Rechtsinformationssystem des
 Bundes (RIS) unter der URL <http://www.ris.bka.gv.at/> abgerufen werden.
 
-```{index} single: Heilbehandlungsvertrag single: Geschäftsführung ohne Auftrag
+```{index} single: Heilbehandlungsvertrag
+```
+```{index} single: Geschäftsführung ohne Auftrag
 ```
 
 ### Vertragsverhältnis im Rettungswesen
@@ -731,7 +745,9 @@ da sie dem Selbstbestimmungsrecht des Patienten zuwider läuft.
 - {ref}`jus-langer-dienst-fall-3`
 - {ref}`jus-langer-dienst-fall-4`
 
-```{index} single: Patientenverfügung; beachtliche single: Patientenverfügung; verbindliche
+```{index} single: Patientenverfügung; beachtliche
+```
+```{index} single: Patientenverfügung; verbindliche
 ```
 
 (patientenverfuegung)=
@@ -956,7 +972,11 @@ zumutbar, wenn man …
 
 [^footnote-8]: § 95 Abs. 2 StGB
 
-```{index} single: Heilbehandlungsvertrag single: Beweislastumkehr single: Dokumentationspflicht
+```{index} single: Heilbehandlungsvertrag
+```
+```{index} single: Beweislastumkehr
+```
+```{index} single: Dokumentationspflicht
 ```
 
 (dokumentationspflicht)=
@@ -999,7 +1019,11 @@ Es muss *gründlich*, *ausführlich* und *nachvollziehbar* dokumentiert
 werden. Die Dokumentation soll vorrangig am Einsatzprotokoll selbst
 oder, wenn nötig, auf einem beigelegten Blatt Papier erfolgen.
 
-```{index} single: Verschwiegenheitspflicht single: Pflichten des Sanitäters; Verschwiegenheitspflicht single: Auskunftsrecht
+```{index} single: Verschwiegenheitspflicht
+```
+```{index} single: Pflichten des Sanitäters; Verschwiegenheitspflicht
+```
+```{index} single: Auskunftsrecht
 ```
 
 (verschwiegenheitspflicht)=
@@ -1020,7 +1044,13 @@ ist, um welche Person es sich bei dem Patienten handelt
 (*Anonymisierung*). Ebenso dürfen Geheimnisse weitergegeben werden, wenn
 der Patient das Fachpersonal von der *Schweigepflicht entbunden* hat.
 
-```{index} single: Informationspflichten single: Auskunftspflicht single: Meldepflicht single: Anzeigepflicht
+```{index} single: Informationspflichten
+```
+```{index} single: Auskunftspflicht
+```
+```{index} single: Meldepflicht
+```
+```{index} single: Anzeigepflicht
 ```
 
 (auskunftspflicht)=

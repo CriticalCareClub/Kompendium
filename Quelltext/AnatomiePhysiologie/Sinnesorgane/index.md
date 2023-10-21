@@ -400,7 +400,9 @@ Sinneszellen ➛ N. vestibularis ➛ N. vestibulocochlearis ➛ Nuclei
 vestibulares ➛ Kleinhirn, Kerne der äußeren Augenmuskelnerven,
 Rückenmark
 
-```{index} single: Haut single: Derma
+```{index} single: Haut
+```
+```{index} single: Derma
 ```
 
 (haut)=
@@ -474,7 +476,19 @@ Folgende Aufgaben soll sie also erfüllen:
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-```{index} single: Oberhaut single: Epidermis single: Hornhaut single: Lederhaut single: Dermis single: Unterhaut single: Subcutis
+```{index} single: Oberhaut
+```
+```{index} single: Epidermis
+```
+```{index} single: Hornhaut
+```
+```{index} single: Lederhaut
+```
+```{index} single: Dermis
+```
+```{index} single: Unterhaut
+```
+```{index} single: Subcutis
 ```
 
 ### Schichten

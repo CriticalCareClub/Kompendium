@@ -6,7 +6,11 @@
 
 Zur Schaffung eines chirurgischen Atemweges stehen die *Koniotomie* und die *Tracheotomie* zur Verfügung.
 
-```{index} single: Ligamentum; cricothyroideum single: Ligamentum; conicum single: Koniotomie
+```{index} single: Ligamentum; cricothyroideum
+```
+```{index} single: Ligamentum; conicum
+```
+```{index} single: Koniotomie
 ```
 
 ## Koniotomie

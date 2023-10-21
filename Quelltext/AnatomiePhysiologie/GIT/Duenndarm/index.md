@@ -1,4 +1,46 @@
-```{index} single: Duodenum single: Zwölffingerdarm single: Ampulla duodeni single: Flexura duodenojejunalis single: Treitz'sche Flexur single: Flexur, Treitz'sche - single: Pars superior duodeni single: Ampulla duodeni single: Flexura duodeni superior single: Pars descendens duodeni single: Papilla vateri single: Ductus choledocus single: Ductus pancreaticus single: Flexura duodeni inferior single: Pars horizontalis duodeni single: Pars ascendens single: Jejunum single: Lerdarm single: Ileum single: Krummdarm single: Nährstoffaufnahme single: Mesenterium single: Darmgekröse
+```{index} single: Duodenum
+```
+```{index} single: Zwölffingerdarm
+```
+```{index} single: Ampulla duodeni
+```
+```{index} single: Flexura duodenojejunalis
+```
+```{index} single: Treitz'sche Flexur
+```
+```{index} single: Flexur, Treitz'sche - single: Pars superior duodeni
+```
+```{index} single: Ampulla duodeni
+```
+```{index} single: Flexura duodeni superior
+```
+```{index} single: Pars descendens duodeni
+```
+```{index} single: Papilla vateri
+```
+```{index} single: Ductus choledocus
+```
+```{index} single: Ductus pancreaticus
+```
+```{index} single: Flexura duodeni inferior
+```
+```{index} single: Pars horizontalis duodeni
+```
+```{index} single: Pars ascendens
+```
+```{index} single: Jejunum
+```
+```{index} single: Lerdarm
+```
+```{index} single: Ileum
+```
+```{index} single: Krummdarm
+```
+```{index} single: Nährstoffaufnahme
+```
+```{index} single: Mesenterium
+```
+```{index} single: Darmgekröse
 ```
 
 (duodenum)=

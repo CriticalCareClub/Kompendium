@@ -34,7 +34,19 @@ zugeordnet.
   definierten Krankheitsbild zu.
 :::
 
-```{index} single: Verdachtsdiagnose single: V. a. single: Arbeitsdiagnose single: Notfalldiagnose single: St. p. single: Status post single: Z. n. single: Zustand nach single: signum interrogationis single: s. i.
+```{index} single: Verdachtsdiagnose
+```
+```{index} single: V. a. single: Arbeitsdiagnose
+```
+```{index} single: Notfalldiagnose
+```
+```{index} single: St. p. single: Status post
+```
+```{index} single: Z. n. single: Zustand nach
+```
+```{index} single: signum interrogationis
+```
+```{index} single: s. i.
 ```
 
 ## Arten von Diagnosen
@@ -92,7 +104,17 @@ sich verschiedene Begriffe eingebürgert:
 
 [^signuminterrogationis]: Abkz. *s.i.*: lat.: {index}`signum interrogationis`: "fraglich"
 
-```{index} single: ICD single: ICD-10 single: Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme single: WHO single: World Health Organization single: Weltgesundheitsorganisation
+```{index} single: ICD
+```
+```{index} single: ICD-10
+```
+```{index} single: Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme
+```
+```{index} single: WHO
+```
+```{index} single: World Health Organization
+```
+```{index} single: Weltgesundheitsorganisation
 ```
 
 (icd-10)=
@@ -123,7 +145,15 @@ eine genauere Beschreibung der Diagnose.
     - `S52.31`: Fraktur des distalen Radiusschaftes mit Luxation des
       Ulnakopfes
 
-```{index} single: GOLD-Stadien single: TNM-Klassifikation single: AO-Klassifikation single: Klassifikation; AO single: Klassifikation; TNM
+```{index} single: GOLD-Stadien
+```
+```{index} single: TNM-Klassifikation
+```
+```{index} single: AO-Klassifikation
+```
+```{index} single: Klassifikation; AO
+```
+```{index} single: Klassifikation; TNM
 ```
 
 ## Klassifikationssysteme

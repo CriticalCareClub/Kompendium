@@ -1,4 +1,6 @@
-```{index} single: Kardioversion, elektrische single: Defibrilation pair: Reanimation; Elektrotherapie
+```{index} single: Kardioversion, elektrische
+```
+```{index} single: Defibrilation pair: Reanimation; Elektrotherapie
 ```
 
 # *Elektro*therapie
@@ -33,7 +35,25 @@ sie ist eine Kardioversion bei Kammerflimmern.[^footnote-2]
 Die Defibrillation soll die normale *elektrische* Herztätigkeit wiederherstellen.
 :::
 
-```{index} single: AED single: SAED single: Automatischer externer Defibrillator single: Semi-automatischer externer Defibrillator single: Defibrillator, automatischer externer single: Defibrillator, semi-automatischer externer Defibrillator single: Defibrillator, automatischer implantierbarer single: ICD single: Implantable Cardiac Device single: Device, Implantable Cardiac
+```{index} single: AED
+```
+```{index} single: SAED
+```
+```{index} single: Automatischer externer Defibrillator
+```
+```{index} single: Semi-automatischer externer Defibrillator
+```
+```{index} single: Defibrillator, automatischer externer
+```
+```{index} single: Defibrillator, semi-automatischer externer Defibrillator
+```
+```{index} single: Defibrillator, automatischer implantierbarer
+```
+```{index} single: ICD
+```
+```{index} single: Implantable Cardiac Device
+```
+```{index} single: Device, Implantable Cardiac
 ```
 
 ## Defibrillatoren
@@ -107,7 +127,19 @@ Multifunktionsmonitor mit integriertem Defibrillator
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-```{index} single: Kammerflimmern single: Tachykardie, pulslose ventrikuläre single: pVT single: Asystolie single: pulslose elektrische Aktivität single: Aktivität, pulslose elektrische single: PEA
+```{index} single: Kammerflimmern
+```
+```{index} single: Tachykardie, pulslose ventrikuläre
+```
+```{index} single: pVT
+```
+```{index} single: Asystolie
+```
+```{index} single: pulslose elektrische Aktivität
+```
+```{index} single: Aktivität, pulslose elektrische
+```
+```{index} single: PEA
 ```
 
 (reanimation-rhythmen)=
@@ -284,7 +316,15 @@ Allgemein lässt sich jedoch sagen:
    - *"Kein Schock empfohlen"*:
      Kommando "*START!"*: Herzdruckmassage fortführen
 
-```{index} single: Hardpaddles single: Phase, vulnerable single: Sync single: Auto-Sync single: Synchronisation (Defibrillator)
+```{index} single: Hardpaddles
+```
+```{index} single: Phase, vulnerable
+```
+```{index} single: Sync
+```
+```{index} single: Auto-Sync
+```
+```{index} single: Synchronisation (Defibrillator)
 ```
 
 ## Verwendung eines manuellen Defibrillators

@@ -1,4 +1,6 @@
-```{index} single: Ödem single: Pathomechanismen
+```{index} single: Ödem
+```
+```{index} single: Pathomechanismen
 ```
 
 # Grundlegende Pathomechanismen
@@ -14,7 +16,19 @@ Durch krankhafte Vorgänge kann es im Gewebe zu
 
 kommen.
 
-```{index} single: Entzündung single: inflammation single: Tumor; Entzündung single: Rubor single: Calor single: Dolor; Entzündung single: Funtio laesa
+```{index} single: Entzündung
+```
+```{index} single: inflammation
+```
+```{index} single: Tumor; Entzündung
+```
+```{index} single: Rubor
+```
+```{index} single: Calor
+```
+```{index} single: Dolor; Entzündung
+```
+```{index} single: Funtio laesa
 ```
 
 (entzuendung)=
@@ -94,7 +108,19 @@ Häufig betroffene Gewebe sind:
   (Periphere arterielle Verschlusskrankheit,
   arterieller peripherer Gefäßverschluss, {ref}`ArteriellerGefaessverschluss`)
 
-```{index} single: Tumor single: Raumforderung single: Sarkom single: Karzinom single: Ca. single: N. single: Neoplasma single: Blastom single: Leukämie
+```{index} single: Tumor
+```
+```{index} single: Raumforderung
+```
+```{index} single: Sarkom
+```
+```{index} single: Karzinom
+```
+```{index} single: Ca. single: N. single: Neoplasma
+```
+```{index} single: Blastom
+```
+```{index} single: Leukämie
 ```
 
 (tumor)=

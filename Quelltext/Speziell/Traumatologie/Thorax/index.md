@@ -181,7 +181,11 @@ Taktik
   Steril abdecken.
 - **Transportentscheidung**: Schockraum
 
-```{index} single: Rippenfraktur single: Serienrippenfraktur single: Fraktur; Rippen- single: Fraktur; Serienrippen-
+```{index} single: Rippenfraktur
+```
+```{index} single: Serienrippenfraktur
+```
+```{index} single: Fraktur; Rippen- single: Fraktur; Serienrippen-
 ```
 
 ## Rippenfraktur, Serienrippenfraktur und instabiler Thorax

@@ -1,4 +1,6 @@
-```{index} single: Xipamid single: Aquaphoril® single: Sulfonamide (Xipamid)
+```{index} single: Xipamid
+```
+```{index} single: Aquaphoril® single: Sulfonamide (Xipamid)
 ```
 
 # Xipamid

@@ -1,4 +1,12 @@
-```{index} single: Ateminsuffizienz single: Insuffizienz; Atem- single: Dyspnoe single: Apnoe single: Bradypnoe single: Tachypnoe
+```{index} single: Ateminsuffizienz
+```
+```{index} single: Insuffizienz; Atem- single: Dyspnoe
+```
+```{index} single: Apnoe
+```
+```{index} single: Bradypnoe
+```
+```{index} single: Tachypnoe
 ```
 
 (atemstillstand)=

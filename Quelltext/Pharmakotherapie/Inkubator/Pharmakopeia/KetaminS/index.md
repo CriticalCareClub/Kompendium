@@ -1,4 +1,8 @@
-```{index} single: Keatmin; S- single: S-Ketamin single: Ketanest™ single: dissoziative Anästhesie single: Anästhesie; dissoziative
+```{index} single: Keatmin; S- single: S-Ketamin
+```
+```{index} single: Ketanest™ single: dissoziative Anästhesie
+```
+```{index} single: Anästhesie; dissoziative
 ```
 
 # Ketamin, S-

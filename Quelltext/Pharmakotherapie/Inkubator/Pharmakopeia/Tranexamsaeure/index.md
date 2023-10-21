@@ -1,4 +1,6 @@
-```{index} single: Tranexamsäure single: Cyklocapron®
+```{index} single: Tranexamsäure
+```
+```{index} single: Cyklocapron®
 ```
 
 # Tranexamsäure

@@ -1,4 +1,8 @@
-```{index} single: Magen single: Gaster single: Pförtner (Magen) single: Pylorus
+```{index} single: Magen
+```
+```{index} single: Gaster
+```
+```{index} single: Pförtner (Magen) single: Pylorus
 ```
 
 (magen)=
@@ -44,7 +48,9 @@ eingeteilt werden:
 - **Pylorus** (Magenpförtner): angrenzend beginnt der Dünndarm mit dem
   Duodenum (Zwölffingerdarm)
 
-```{index} single: Magensaft single: Salzsäure (Magen)
+```{index} single: Magensaft
+```
+```{index} single: Salzsäure (Magen)
 ```
 
 ## Magensaft

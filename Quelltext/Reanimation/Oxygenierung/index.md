@@ -115,7 +115,9 @@ und folglich in einer Störung des Säure-Basenhaushalts.
 Die Qualität der Beatmung wird durch *Beobachtung der Atemexkursionen* des Brustkorbs überprüft,
 d. h. dieser muss sich deutlich heben und *senken*.
 
-```{index} single: endotracheale Intubation; Reanimation single: ETI; Reanimation pair: Reanimation; Intubation, endotracheale
+```{index} single: endotracheale Intubation; Reanimation
+```
+```{index} single: ETI; Reanimation pair: Reanimation; Intubation, endotracheale
 ```
 
 ## Endotracheale Intubation (Reanimation)
@@ -150,7 +152,9 @@ ermöglicht[^footnote-1].
 
 [^footnote-1]: Manche Tuben, z.  B. für Kleinkinder haben keinen Cuff.
 
-```{index} single: Intubation; Kontrolle der Tubuslage single: Kapnographie; Kontrolle der Tubuslage
+```{index} single: Intubation; Kontrolle der Tubuslage
+```
+```{index} single: Kapnographie; Kontrolle der Tubuslage
 ```
 
 ### Kontrolle der Tubuslage

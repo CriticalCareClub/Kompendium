@@ -1,4 +1,6 @@
-```{index} single: Rocuronium single: Esmeron®
+```{index} single: Rocuronium
+```
+```{index} single: Esmeron®
 ```
 
 # Rocuronium

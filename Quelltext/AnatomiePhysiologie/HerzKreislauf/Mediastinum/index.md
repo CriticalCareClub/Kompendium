@@ -1,6 +1,8 @@
 {{ PROLOG }}
 
-```{index} single: Mediastinum single: Mittelfellraum
+```{index} single: Mediastinum
+```
+```{index} single: Mittelfellraum
 ```
 
 (mediastinum)=

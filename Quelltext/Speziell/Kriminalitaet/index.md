@@ -90,7 +90,37 @@ das weitere Procedere (sofern absehbar).
   - Ziel: Abt. f. Gynäkologie
   - weiterführende psychologische Betreuung
 
-```{index} single: Missbrauch; sexueller single: Missbrauch; sexueller; durch Angehörige eines Gesundheitsberufes single: StGB; § 205 single: StGB; § 206 single: StGB; § 207 single: StGB; § 207b single: StGB; § 208 single: StGB; § 212 single: Handlungen, geschlechtliche single: Unmündige; sexueller Missbrauch single: Beischlaf single: Beischlaf; gleichzusetzende Handlung single: Jugendliche; sexueller Missbrauch single: Entgelt; sexuelle Handlungen von Jugendlichen single: Zwangslage; sexueller Missbrauch von Jugendlichen single: Schutzbefohlene; Missbrauch eines Autoritätsverhältnisses
+```{index} single: Missbrauch; sexueller
+```
+```{index} single: Missbrauch; sexueller; durch Angehörige eines Gesundheitsberufes
+```
+```{index} single: StGB; § 205
+```
+```{index} single: StGB; § 206
+```
+```{index} single: StGB; § 207
+```
+```{index} single: StGB; § 207b
+```
+```{index} single: StGB; § 208
+```
+```{index} single: StGB; § 212
+```
+```{index} single: Handlungen, geschlechtliche
+```
+```{index} single: Unmündige; sexueller Missbrauch
+```
+```{index} single: Beischlaf
+```
+```{index} single: Beischlaf; gleichzusetzende Handlung
+```
+```{index} single: Jugendliche; sexueller Missbrauch
+```
+```{index} single: Entgelt; sexuelle Handlungen von Jugendlichen
+```
+```{index} single: Zwangslage; sexueller Missbrauch von Jugendlichen
+```
+```{index} single: Schutzbefohlene; Missbrauch eines Autoritätsverhältnisses
 ```
 
 #### Sexueller Missbrauch

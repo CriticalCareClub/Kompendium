@@ -20,7 +20,11 @@ formulieren
 ```
 :::
 
-```{index} single: Alarmzeichen single: Red Flags single: 🚩
+```{index} single: Alarmzeichen
+```
+```{index} single: Red Flags
+```
+```{index} single: 🚩
 ```
 
 ## Alarmzeichen ("Red Flags" 🚩): Zeichen einer vitalen Bedrohung

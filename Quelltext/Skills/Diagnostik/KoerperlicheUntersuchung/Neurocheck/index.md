@@ -7,7 +7,13 @@ Der {dfn}`Neurocheck` ist eine einfache, überblickshafte
 Teile des Neurochecks werden während des Einschätzungsblockes
 ({ref}`einschaetzungsblock`) durchgeführt.
 
-```{index} single: Lichtreaktion single: Neurocheck single: Herdblick single: Nackensteifigkeit; Untersuchung
+```{index} single: Lichtreaktion
+```
+```{index} single: Neurocheck
+```
+```{index} single: Herdblick
+```
+```{index} single: Nackensteifigkeit; Untersuchung
 ```
 
 (nackensteifigkeit-untersuchung)=

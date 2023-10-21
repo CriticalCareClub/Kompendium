@@ -420,7 +420,9 @@ durch Schwitzen viel Flüssigkeit verliert.
   (Differentialdiagnosen,
   Beurteilung der Beeinträchtigung im Verlauf)
 
-```{index} pair: Intoxikation; Kohlenmonoxid single: CO; Intoxikation
+```{index} pair: Intoxikation; Kohlenmonoxid
+```
+```{index} single: CO; Intoxikation
 ```
 
 #### Kohlenmonoxid (CO) – oder: Von defekten Heizlüftern, Gasthermen und Autoabgasen
@@ -509,7 +511,9 @@ in der *darüberliegenden Wohnung* gefunden.
 \[Österreichischer Rundfunk, <http://wien.orf.at/stories/86725>, zuletzt abgerufen am 31.01.2006\]
 :::
 
-```{index} pair: Intoxikation; Kohlendioxid single: CO₂; Intoxikation
+```{index} pair: Intoxikation; Kohlendioxid
+```
+```{index} single: CO₂; Intoxikation
 ```
 
 #### Kohlendioxid (CO₂) – Tod im Weinkeller

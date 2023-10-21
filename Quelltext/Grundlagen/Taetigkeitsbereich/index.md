@@ -585,7 +585,15 @@ Die ärztliche Ausbildung gründet sich auf einem abgeschlossenes
 Universitätsstudium, der weitere Ausbildungsweg ist jedoch international
 sehr unterschiedlich.
 
-```{index} single: Arzt; approbierter single: Ärztegesetz single: ÄrzteG single: Facharzt single: Ärztekammer
+```{index} single: Arzt; approbierter
+```
+```{index} single: Ärztegesetz
+```
+```{index} single: ÄrzteG
+```
+```{index} single: Facharzt
+```
+```{index} single: Ärztekammer
 ```
 
 #### Situation in Österreich
@@ -603,7 +611,15 @@ Interessensvertretung und Aufsichtsbehörde für alle Ärzte ist die
 *Österreichische Ärztekammer* bzw. die jeweils zuständigen
 Landesärztekammern.
 
-```{index} single: Turnusarzt single: Jus practicandi single: Arzt für Allgemeinmedizin single: Facharzt single: Allgemeinmedizin; Arzt für
+```{index} single: Turnusarzt
+```
+```{index} single: Jus practicandi
+```
+```{index} single: Arzt für Allgemeinmedizin
+```
+```{index} single: Facharzt
+```
+```{index} single: Allgemeinmedizin; Arzt für
 ```
 
 ##### Ausbildung und Jus practicandi
@@ -636,7 +652,11 @@ sei denn, der betreffende Facharzt hat auch die Ausbildung zum Arzt für
 Allgemeinmedizin absolviert. Gegenwärtig gibt es in Österreich über 40
 Sonderfächer für die man sich qualifizieren kann.
 
-```{index} single: Notarzt single: Notarzt; Leitender single: Leitender Notarzt
+```{index} single: Notarzt
+```
+```{index} single: Notarzt; Leitender
+```
+```{index} single: Leitender Notarzt
 ```
 
 ##### Der Arzt im Rettungs- und Krankentransportdienst
@@ -655,7 +675,9 @@ Das ÄrzteG sieht hierfür zwei Ausbildungen vor:
   entsprechende Berufserfahrung als Notarzt sowie die Absolvierung
   eines entsprechenden Kurs voraus.
 
-```{index} single: Hebamme single: Gesetz; Hebammen- single: HebG
+```{index} single: Hebamme
+```
+```{index} single: Gesetz; Hebammen- single: HebG
 ```
 
 ## Hebammen
@@ -674,7 +696,19 @@ die Ausbildung auch in Fachhochschulen. Die Bezeichnung Hebamme gilt für
 weibliche und männliche Berufsangehörige. Die gesetzliche Grundlage
 bietet das *Hebammengesetz* (*HebG*).
 
-```{index} single: Gehobener Gesundheits- und Krankenpflegedienst single: DGKS single: DGKP single: DGKKS single: DKKP single: Pflege; Gesundheits- und Kranken- single: GuKG single: Gesetz; Gesundheits- und Krankenpflege- single: Gesundheits- und Krankenpflege
+```{index} single: Gehobener Gesundheits- und Krankenpflegedienst
+```
+```{index} single: DGKS
+```
+```{index} single: DGKP
+```
+```{index} single: DGKKS
+```
+```{index} single: DKKP
+```
+```{index} single: Pflege; Gesundheits- und Kranken- single: GuKG
+```
+```{index} single: Gesetz; Gesundheits- und Krankenpflege- single: Gesundheits- und Krankenpflege
 ```
 
 ## Gesundheits- und Krankenpflege
@@ -715,7 +749,9 @@ Dienstes für Gesundheits- und Krankenpflege das Vorschlags- und
 Mitentscheidungsrecht und tragen die Durchführungsverantwortung für alle
 von ihnen in diesen Bereichen gesetzten pflegerischen Maßnahmen.
 
-```{index} single: Pflegeassistenz single: Pflegefachassistenz
+```{index} single: Pflegeassistenz
+```
+```{index} single: Pflegefachassistenz
 ```
 
 ### Pflegeassistenzberufe

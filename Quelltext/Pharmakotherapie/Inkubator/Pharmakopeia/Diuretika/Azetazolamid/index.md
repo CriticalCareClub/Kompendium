@@ -1,4 +1,6 @@
-```{index} single: Acetazolamid single: Diamox® single: Elektrolytverschiebung (Acetazolamid) single: Sulfonamide (Acetazolamid) single: Carboanhydraseinhibitor (Acetazolamid) single: Carboanhydrasehemmer (Acetazolamid) single: Glaukom (Acetazolamid) single: Epilepsie (Acetazolamid)
+```{index} single: Acetazolamid
+```
+```{index} single: Diamox® single: Elektrolytverschiebung (Acetazolamid) single: Sulfonamide (Acetazolamid) single: Carboanhydraseinhibitor (Acetazolamid) single: Carboanhydrasehemmer (Acetazolamid) single: Glaukom (Acetazolamid) single: Epilepsie (Acetazolamid)
 ```
 
 # Acetazolamid

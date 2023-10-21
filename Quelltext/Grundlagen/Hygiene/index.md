@@ -8,7 +8,11 @@ Reviewer: Alexander Blacky, Standard-Reviewprozess
 
 ## Grundlagen
 
-```{index} single: Infektion single: Pathogenität single: Resistenz
+```{index} single: Infektion
+```
+```{index} single: Pathogenität
+```
+```{index} single: Resistenz
 ```
 
 ### Wichtige Begriffe
@@ -993,7 +997,9 @@ unter {ref}`hygienische-haendedesinfektion` besprochen.
 Im folgenden seien – zum Teil als Wiederholung – die wichtigsten
 Maßnahmen zum (hygienischen) Selbstschutz kurz erläutert:
 
-```{index} single: FFP-Masken single: Masken; FFP-
+```{index} single: FFP-Masken
+```
+```{index} single: Masken; FFP-
 ```
 
 (schutzkleidung-hygiene)=

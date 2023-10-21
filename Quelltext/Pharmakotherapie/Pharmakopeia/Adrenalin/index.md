@@ -1,4 +1,6 @@
-```{index} single: Adrenalin single: Epinephrin
+```{index} single: Adrenalin
+```
+```{index} single: Epinephrin
 ```
 
 (adrenalin)=

@@ -1,6 +1,10 @@
 {{ PROLOG }}
 
-```{index} single: Interkostalraum single: ICR single: Zwischenrippenraum
+```{index} single: Interkostalraum
+```
+```{index} single: ICR
+```
+```{index} single: Zwischenrippenraum
 ```
 
 (brustkorb-skelett)=

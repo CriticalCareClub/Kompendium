@@ -1,6 +1,8 @@
 # *Mechanische* Reanimationstherapie
 
-```{index} single: Herzdruckmassage single: HDM
+```{index} single: Herzdruckmassage
+```
+```{index} single: HDM
 ```
 
 ## Herzdruckmassage
@@ -181,7 +183,17 @@ Das ERC sieht diese Geräte als sinnvolle Möglichkeit an wenn die Durchführung
 einer anhaltend guten Herzdruckmassage nicht praktikabel ist
 oder die Sicherheit der Helfer gefährdet.
 
-```{index} single: ECMO single: Extra-Corporal Membrane Oxygenation single: Oxygenation; Extra-Corporal Membrane single: Herz-Lungen-Maschine single: Maschine; Herz-Lungen- single: extrakorporale Verfahren single: Verfahren; extrakorporale
+```{index} single: ECMO
+```
+```{index} single: Extra-Corporal Membrane Oxygenation
+```
+```{index} single: Oxygenation; Extra-Corporal Membrane
+```
+```{index} single: Herz-Lungen-Maschine
+```
+```{index} single: Maschine; Herz-Lungen- single: extrakorporale Verfahren
+```
+```{index} single: Verfahren; extrakorporale
 ```
 
 (reanimationextrakorporaleverfahren)=

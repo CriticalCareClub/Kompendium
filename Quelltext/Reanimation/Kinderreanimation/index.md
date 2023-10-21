@@ -1,4 +1,8 @@
-```{index} single: PLS single: Pediatric Life Support single: Life Support; Pediatric
+```{index} single: PLS
+```
+```{index} single: Pediatric Life Support
+```
+```{index} single: Life Support; Pediatric
 ```
 
 (pls)=

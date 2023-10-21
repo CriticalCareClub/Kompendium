@@ -2,7 +2,9 @@
 
 # Anatomie und Physiologie ([#58](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/58))
 
-```{index} single: physiologisch single: Pathologie
+```{index} single: physiologisch
+```
+```{index} single: Pathologie
 ```
 
 Aufgrund der Überlappungsbereiche hinsichtlich der Sichtweise auf

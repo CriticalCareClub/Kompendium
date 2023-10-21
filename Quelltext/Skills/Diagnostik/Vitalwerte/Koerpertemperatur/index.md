@@ -1,4 +1,8 @@
-```{index} single: Körperkerntemperatur single: tympanal; Temperaturmessung single: Fieber; Temperaturmessung
+```{index} single: Körperkerntemperatur
+```
+```{index} single: tympanal; Temperaturmessung
+```
+```{index} single: Fieber; Temperaturmessung
 ```
 
 (koerpertemperatur-messung)=

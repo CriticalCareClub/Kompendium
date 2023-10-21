@@ -119,7 +119,13 @@ Ursachen auf.
     - …
 :::
 
-```{index} single: Somnolenz single: Sopor single: Koma single: WASB
+```{index} single: Somnolenz
+```
+```{index} single: Sopor
+```
+```{index} single: Koma
+```
+```{index} single: WASB
 ```
 
 (bewusstseinsstoerung-grade)=
@@ -341,7 +347,13 @@ Kreislaufzentrum befindet besteht dabei akute **Lebensgefahr**!
 
 ## Ein Schlaganfall kann ischämisch oder durch eine Blutung entstehen
 
-```{index} single: Insult; ischämischer single: Insult; trockener single: Insult; hämorrhagischer single: Insult; blutiger
+```{index} single: Insult; ischämischer
+```
+```{index} single: Insult; trockener
+```
+```{index} single: Insult; hämorrhagischer
+```
+```{index} single: Insult; blutiger
 ```
 
 ### Arten
@@ -368,7 +380,11 @@ werden können:
   kann spontan oder
   aufgrund eines Traumas auftreten.
 
-```{index} single: TIA single: Transitorisch-Ischämische Attacke single: Attacke; Transitorisch-Ischämische -
+```{index} single: TIA
+```
+```{index} single: Transitorisch-Ischämische Attacke
+```
+```{index} single: Attacke; Transitorisch-Ischämische -
 ```
 
 (tia)=

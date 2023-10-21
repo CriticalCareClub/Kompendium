@@ -1,4 +1,6 @@
-```{index} single: Bauchspeicheldrüse single: Pankreas
+```{index} single: Bauchspeicheldrüse
+```
+```{index} single: Pankreas
 ```
 
 (pankreas)=

@@ -1,4 +1,8 @@
-```{index} single: 4H+HITS single: HHHH+HITS single: reversible Ursachen pair: Reanimation; Ursachen, reversible pair: Reanimation; Hypoxie pair: Reanimation; Hypovolämie pair: Reanimation; Hyperkaliämie pair: Reanimation; Hypokaliämie pair: Reanimation; Hypothermie pair: Reanimation; Herzbeuteltamponade pair: Reanimation; Intoxikation pair: Reanimation; Thromboembolie pair: Reanimation; Spannungspneumothorax
+```{index} single: 4H+HITS
+```
+```{index} single: HHHH+HITS
+```
+```{index} single: reversible Ursachen pair: Reanimation; Ursachen, reversible pair: Reanimation; Hypoxie pair: Reanimation; Hypovolämie pair: Reanimation; Hyperkaliämie pair: Reanimation; Hypokaliämie pair: Reanimation; Hypothermie pair: Reanimation; Herzbeuteltamponade pair: Reanimation; Intoxikation pair: Reanimation; Thromboembolie pair: Reanimation; Spannungspneumothorax
 ```
 
 # Kausale Therapie: Reversible Ursachen

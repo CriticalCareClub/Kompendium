@@ -8,7 +8,9 @@ orphan: true
 
 ## Hämatothorax
 
-```{index} single: Chylothorax single: Ductus thoracicus
+```{index} single: Chylothorax
+```
+```{index} single: Ductus thoracicus
 ```
 
 ## Chylothorax

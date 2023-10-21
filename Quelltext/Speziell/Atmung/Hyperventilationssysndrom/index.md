@@ -1,4 +1,6 @@
-```{index} single: Hyperventialtionssyndrom single: Hyperventilationstetanie
+```{index} single: Hyperventialtionssyndrom
+```
+```{index} single: Hyperventilationstetanie
 ```
 
 (hyperventilationssyndrom)=

@@ -1,6 +1,8 @@
 (larynxmaske)=
 
-```{index} single: Larynxmaske single: Intubationslarynxmaske
+```{index} single: Larynxmaske
+```
+```{index} single: Intubationslarynxmaske
 ```
 
 # Larynxmaske

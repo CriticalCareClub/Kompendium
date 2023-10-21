@@ -1,4 +1,6 @@
-```{index} single: Rumpf single: Truncus
+```{index} single: Rumpf
+```
+```{index} single: Truncus
 ```
 
 (rumpf)=

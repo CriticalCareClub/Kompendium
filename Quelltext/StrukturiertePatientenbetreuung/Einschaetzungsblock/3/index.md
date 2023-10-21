@@ -37,7 +37,9 @@ und die **Orientierung**
 Zeitlich, örtlich, zur Situation und zur Person).
 Die Orientierung wird unter Punkt Ⓓ beurteilt.
 
-```{index} single: WASB single: Bewusstseinsgrad pair: klar; Bewusstseinsgrad pair: somnolent; Bewusstseinsgrad pair: Somnolenz; Bewusstseinsgrad pair: soporös; Bewusstseinsgrad pair: Sopor; Bewusstseinsgrad pair: komatös; Bewusstseinsgrad
+```{index} single: WASB
+```
+```{index} single: Bewusstseinsgrad pair: klar; Bewusstseinsgrad pair: somnolent; Bewusstseinsgrad pair: Somnolenz; Bewusstseinsgrad pair: soporös; Bewusstseinsgrad pair: Sopor; Bewusstseinsgrad pair: komatös; Bewusstseinsgrad
 ```
 
 (bewusstseinsstoerunggrade)=

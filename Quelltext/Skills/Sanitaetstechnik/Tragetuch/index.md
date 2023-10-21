@@ -1,4 +1,6 @@
-```{index} single: Tragetuch single: Bergetuch
+```{index} single: Tragetuch
+```
+```{index} single: Bergetuch
 ```
 
 (bergetuch)=

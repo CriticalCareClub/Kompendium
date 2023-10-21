@@ -1,4 +1,6 @@
-```{index} single: Sufentanil single: Sufenta®
+```{index} single: Sufentanil
+```
+```{index} single: Sufenta®
 ```
 
 # Sufentanil

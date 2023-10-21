@@ -122,7 +122,11 @@ bevor es in den Körperkreislauf gelangt (**"First-Pass-Effekt"**).
 - Bildung der Gallensäuren und der Galle
 - Abbbau und Entgiftung
 
-```{index} single: Gallenflüssigkeit single: Reflux; galliger — single: Gallensäure single: Kreislauf; enterohepatischer Gallensalz—
+```{index} single: Gallenflüssigkeit
+```
+```{index} single: Reflux; galliger — single: Gallensäure
+```
+```{index} single: Kreislauf; enterohepatischer Gallensalz—
 ```
 
 (gallenfluessigkeit)=

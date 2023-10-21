@@ -163,7 +163,9 @@ um die Schwere einer Atemwegsverlegung einzuschätzen.
     single: Heimlich-Manöver
 ```
 
-```{index} single: Heimlich-Manöver single: Manöver; Heimlich-
+```{index} single: Heimlich-Manöver
+```
+```{index} single: Manöver; Heimlich-
 ```
 
 (heimlich-manoever)=

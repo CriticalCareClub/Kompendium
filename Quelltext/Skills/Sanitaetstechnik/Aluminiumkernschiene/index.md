@@ -6,7 +6,9 @@
 
 # Aluminiumkernschiene
 
-```{index} single: Aluminiumkernschiene single: Sam-Splint®
+```{index} single: Aluminiumkernschiene
+```
+```{index} single: Sam-Splint®
 ```
 
 Die Aluminiumkernschiene ist eine flexible,

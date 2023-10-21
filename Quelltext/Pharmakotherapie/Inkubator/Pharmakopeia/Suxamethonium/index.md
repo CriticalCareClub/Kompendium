@@ -1,4 +1,6 @@
-```{index} single: Suxamethonium single: Succinylcholin
+```{index} single: Suxamethonium
+```
+```{index} single: Succinylcholin
 ```
 
 (suxamethonium)=

@@ -1,4 +1,8 @@
-```{index} single: Loslassschmerz single: Abdomen; Untersuchung single: Druckschmerz
+```{index} single: Loslassschmerz
+```
+```{index} single: Abdomen; Untersuchung
+```
+```{index} single: Druckschmerz
 ```
 
 (untersuchung-abdomen-abtasten)=

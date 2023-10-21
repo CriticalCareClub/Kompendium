@@ -149,7 +149,13 @@ Peristaltik der Tuben durch ihre Kinozilien (Flimmerhärchen)
 gewährleistet.
 Die Eizelle braucht in diesem Abschnitt ca. *4 - 6 Tage*.
 
-```{index} single: Uterus single: Gebärmutter single: Zervix single: Muttermund
+```{index} single: Uterus
+```
+```{index} single: Gebärmutter
+```
+```{index} single: Zervix
+```
+```{index} single: Muttermund
 ```
 
 ## Uterus (Gebärmutter)
@@ -189,7 +195,9 @@ Der Uterus zeigt *zwei Krümmungen* und liegt so der Harnblase auf:
 - Anteversio uteri: Krümmung zwischen Vagina und Cervix uteri
 - Anteflexio uteri: Krümmung zwischen Cervix und Corpus uteri
 
-```{index} single: Vagina single: Scheide
+```{index} single: Vagina
+```
+```{index} single: Scheide
 ```
 
 ## Vagina (Scheide)

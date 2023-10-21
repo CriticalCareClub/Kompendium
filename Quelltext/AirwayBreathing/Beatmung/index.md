@@ -152,7 +152,19 @@ sie unabhängig von der Herzmassage erfolgen.
 
 ## Maschinelle Beatmung
 
-```{index} single: Driving Pressure single: pressure; driving single: I:E-Verhältnis single: Flow single: Volumen single: Compliance single: Resistance
+```{index} single: Driving Pressure
+```
+```{index} single: pressure; driving
+```
+```{index} single: I:E-Verhältnis
+```
+```{index} single: Flow
+```
+```{index} single: Volumen
+```
+```{index} single: Compliance
+```
+```{index} single: Resistance
 ```
 
 ### Die Basics
@@ -207,7 +219,17 @@ Verbindung stehen und sich gegenseitig beeinflussen:
 
 ### Essentielle Beatmungsmuster
 
-```{index} single: Volumenkontrollierte Beatmung single: Beatmung; volumenkontrollierte single: VCV single: Volume Controlled Ventilation single: IPPV single: Intermittend Positive Pressure Ventilation
+```{index} single: Volumenkontrollierte Beatmung
+```
+```{index} single: Beatmung; volumenkontrollierte
+```
+```{index} single: VCV
+```
+```{index} single: Volume Controlled Ventilation
+```
+```{index} single: IPPV
+```
+```{index} single: Intermittend Positive Pressure Ventilation
 ```
 
 #### Volumenkontrollierte Beatmung: `VCV`, `IPPV`
@@ -224,7 +246,21 @@ Bei der klassischen volumenkontrollierten Beatmung wird über eine
 definierte Inspirationszeit ein konstanter Flow angelegt, der
 Atemwegsdruck p{sub}`aw` steigt im Verlauf an.
 
-```{index} single: Druckkontrollierte Beamtung single: Beamtung; druckkontrollierte single: PCV single: Pressure Controlled Ventilation single: Driving Pressure single: pressure; driving single: dezelerierender Flow single: Flow; dezelerierender
+```{index} single: Druckkontrollierte Beamtung
+```
+```{index} single: Beamtung; druckkontrollierte
+```
+```{index} single: PCV
+```
+```{index} single: Pressure Controlled Ventilation
+```
+```{index} single: Driving Pressure
+```
+```{index} single: pressure; driving
+```
+```{index} single: dezelerierender Flow
+```
+```{index} single: Flow; dezelerierender
 ```
 
 #### Druckkontrollierte Beatmung: `PCV`
@@ -236,7 +272,17 @@ Differenzdruck (Δp, Driving Pressure) angelegt, es ergibt sich ein
 Flow, der über die Zeit, aufgrund der Angleichung von Außen- und
 Innendruck, schwächer wird (*dezelerierender Flow*).
 
-```{index} single: Spontanatemmuster single: CPAP single: Continous Positive Airway Pressure single: PSV single: Pressure Support Ventilation single: PEEP; CPAP
+```{index} single: Spontanatemmuster
+```
+```{index} single: CPAP
+```
+```{index} single: Continous Positive Airway Pressure
+```
+```{index} single: PSV
+```
+```{index} single: Pressure Support Ventilation
+```
+```{index} single: PEEP; CPAP
 ```
 
 #### Reine Spontanatemmuster: `CPAP`, `PSV`
@@ -255,7 +301,11 @@ Im {dfn}`PSV`-Modus ({dfn}`Pressure Support Ventilation`) triggert die Eigenatmu
 des Patienten eine Druckunterstützung und erleichtert so die
 Atemarbeit.
 
-```{index} single: Nicht-invasive Beatmung single: Beatmung; nicht-invasive single: NIV
+```{index} single: Nicht-invasive Beatmung
+```
+```{index} single: Beatmung; nicht-invasive
+```
+```{index} single: NIV
 ```
 
 #### Nicht-invasive Beatmung (NIV)
@@ -268,7 +318,15 @@ Die NIV wird meist mittels Gesichtsmaske, Helm oder ähnlichen
 Hilfsmitteln durchgeführt.
 Verwendet werden dabei meist die Spontanatmungsformen CPAP bzw. PSV.
 
-```{index} single: Beatmungsgerät single: Intensivbeatmungsgerät single: Beatmungsgerät; Intensiv- single: Transportbeatmungsgerät single: Beatmungsgerät; Transport- single: Notfallbeatmungsgerät single: Beatmungsgerät; Notfall-
+```{index} single: Beatmungsgerät
+```
+```{index} single: Intensivbeatmungsgerät
+```
+```{index} single: Beatmungsgerät; Intensiv- single: Transportbeatmungsgerät
+```
+```{index} single: Beatmungsgerät; Transport- single: Notfallbeatmungsgerät
+```
+```{index} single: Beatmungsgerät; Notfall-
 ```
 
 (beatmungsgeraete)=
@@ -319,7 +377,9 @@ Notfallbeatmungsgeräte
   insbesonders auch druckkontrollierte Beatmung,
   sowie Spontanatmungsformen wie CPAP oder NIV.
 
-```{index} single: Medumat™; Standard single: Berieselungsmodul
+```{index} single: Medumat™; Standard
+```
+```{index} single: Berieselungsmodul
 ```
 
 #### Beispiel: Medumat™ Standard
@@ -413,7 +473,15 @@ Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit z
 
 ```
 
-```{index} single: PEEP single: PEEP-Ventil single: Ventil; PEEP- single: Positiver end-exspiratorischer Druck single: Positive End-Exspiratory Pressure single: Alveolen; PEEP
+```{index} single: PEEP
+```
+```{index} single: PEEP-Ventil
+```
+```{index} single: Ventil; PEEP- single: Positiver end-exspiratorischer Druck
+```
+```{index} single: Positive End-Exspiratory Pressure
+```
+```{index} single: Alveolen; PEEP
 ```
 
 (peepventil)=

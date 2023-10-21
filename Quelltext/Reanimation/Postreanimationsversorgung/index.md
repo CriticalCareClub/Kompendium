@@ -1,4 +1,6 @@
-```{index} single: ROSC single: Resumption Of Spontaneaus Circulation pair: Reanimation; Postreanimationsbehandlung
+```{index} single: ROSC
+```
+```{index} single: Resumption Of Spontaneaus Circulation pair: Reanimation; Postreanimationsbehandlung
 ```
 
 # Postreanimationsbehandlung

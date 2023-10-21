@@ -1,4 +1,6 @@
-```{index} single: Händedesinfektion single: Desinfektion; Hände-
+```{index} single: Händedesinfektion
+```
+```{index} single: Desinfektion; Hände-
 ```
 
 (hygienische-haendedesinfektion)=

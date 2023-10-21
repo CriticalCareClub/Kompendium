@@ -212,7 +212,17 @@ Datenterminals.
 - Geeignete Abteilung
 - Zuteilung durch eine Leitstelle
 
-```{index} single: Überwachungsbett single: Intensivbett single: Stroke Unit single: Herzkatheterlabor single: Schockraum single: Bett, Intensiv- single: Bett, Überwachungs- single: Spezialbetten
+```{index} single: Überwachungsbett
+```
+```{index} single: Intensivbett
+```
+```{index} single: Stroke Unit
+```
+```{index} single: Herzkatheterlabor
+```
+```{index} single: Schockraum
+```
+```{index} single: Bett, Intensiv- single: Bett, Überwachungs- single: Spezialbetten
 ```
 
 #### Spezielle Ziele

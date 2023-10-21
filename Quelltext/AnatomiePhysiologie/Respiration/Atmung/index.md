@@ -57,7 +57,11 @@ $$
   nicht ausdehnen kann.
 :::
 
-```{index} single: Atemzyklus single: Exspiration single: Inspiration
+```{index} single: Atemzyklus
+```
+```{index} single: Exspiration
+```
+```{index} single: Inspiration
 ```
 
 (atemzyklus)=

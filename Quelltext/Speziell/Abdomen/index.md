@@ -566,7 +566,13 @@ zur Klärung der Situation nüchtern zu belassen!*
 
 ## Weniger häufige oder nicht-so-gut-erkennbare Erkrankungen
 
-```{index} single: Magengeschwür single: Zwölffingerdarmgeschwür single: Ulcus; ventriculi single: ulcus; duodeni
+```{index} single: Magengeschwür
+```
+```{index} single: Zwölffingerdarmgeschwür
+```
+```{index} single: Ulcus; ventriculi
+```
+```{index} single: ulcus; duodeni
 ```
 
 ### Magen- und Zwölffingerdarmgeschwür

@@ -1,4 +1,6 @@
-```{index} single: Wendl-Tubus single: Tubus; Wendl- single: Nasopharyngealtubus; Wendl
+```{index} single: Wendl-Tubus
+```
+```{index} single: Tubus; Wendl- single: Nasopharyngealtubus; Wendl
 ```
 
 (wendl-tubus)=

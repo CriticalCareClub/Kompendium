@@ -1,4 +1,8 @@
-```{index} single: Anaphylaxie single: Allergie single: Kontrastmittel; Allergie
+```{index} single: Anaphylaxie
+```
+```{index} single: Allergie
+```
+```{index} single: Kontrastmittel; Allergie
 ```
 
 (allergie)=
@@ -32,7 +36,15 @@ bei dem es innerhalb von Sekunden oder Minuten
 durch Freisetzung von Mediatoren aus Granulozyten und Mastzellen
 zu einer allergischen Rekation kommt.
 
-```{index} single: Urtikaria single: Ausschlag, urtikarieller single: Exanthem, urtikarielles single: Quaddeln single: Schock; anaphylaktischer
+```{index} single: Urtikaria
+```
+```{index} single: Ausschlag, urtikarieller
+```
+```{index} single: Exanthem, urtikarielles
+```
+```{index} single: Quaddeln
+```
+```{index} single: Schock; anaphylaktischer
 ```
 
 ## Symptome
@@ -158,7 +170,13 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
 
   - Anlage eines i. v.-Zuganges, möglichst großkalibrig
 
-```{index} single: Antihistaminika single: Adrenalin single: Epinephrin single: Salbutamol
+```{index} single: Antihistaminika
+```
+```{index} single: Adrenalin
+```
+```{index} single: Epinephrin
+```
+```{index} single: Salbutamol
 ```
 
 🕏 Pharmakotherapie

@@ -76,7 +76,259 @@ sog. Medianebene (= Median-Sagittal-Ebene): vom Rücken zum Bauch teilt
 sie den Körper vom Kopf zum Fuß in zwei seitengleiche Hälften — daher
 wird sie auch als Symmetrieebene bezeichnet.
 
-```{index} single: cranialis, -e single: kranial single: caudalis, -e single: kaudal single: superior, -ius single: superior single: oben single: inferior, -ius single: inferior single: unten single: dorsalis, -e single: dorsal single: rückenwärts single: ventralis, -e single: ventral single: bauchwärts single: posterior, -ius single: posterior single: hinten single: anterior, -ius single: anterior single: vorne single: medialis, -e single: medial single: Medianebene; zur --- hin single: lateralis, -e single: lateral single: medianus, -a, -um single: median single: Medianebene; in der --- single: dexter single: rechts single: sinister single: links single: superficialis, -e single: superfizial single: oberflächlich single: profundus, -a, -um single: profund single: tief single: internus, -a, -um single: intern single: innere single: externus, -a, -um single: extern single: äußere single: centralis, -e single: zentral single: longitudinalis, -e single: longitudinal single: längs verlaufend single: proximalis, -e single: proximal single: rumpfwärts single: distalis, -e single: distal single: radialis, -e single: radial single: speichenwärts single: ulnaris, -e single: ulnar single: ellenwärts single: tibialis, -e single: tibial single: schienbeinwärts single: fibularis, -e single: fibular single: wadenbeinwärts single: palmaris, -e single: palmar single: handflächenwärts single: dorsalis, -e single: dorsal single: handrückenwärts single: plantaris, -e single: plantar single: fußsohlenwärts single: dorsalis, -e single: dorsal single: fußrückenwärts single: frontalis, -e single: frontal single: occipitalis, -e single: okzipital single: basalis, -e single: basal single: oralis, -e single: oral single: vestibularis, -e single: vestibulär single: labialis, -e single: labial single: buccalis, -e single: bukkal single: lingualis, -e single: lingual single: nasalis, -e single: nasal single: nasenwärts single: temporalis, -e single: temporal single: palatinalis, -e single: palatinal single: pharyngealis, -e single: pharyngeal single: rostralis, -e single: rostral single: mesialis, -e single: mesial single: distalis, -e single: distal single: apicalis, -e single: apikal single: cervicalis, -e single: zervikal single: occlusalis, -e single: okklusal single: incisalis, -e single: inzisal single: approximalis, -e single: Adduktion single: Abduktion single: Protrusion single: Retrusion single: Mediotrusion single: Laterotrusion single: Mediotrusion single: Laterotrusion
+```{index} single: cranialis, -e
+```
+```{index} single: kranial
+```
+```{index} single: caudalis, -e
+```
+```{index} single: kaudal
+```
+```{index} single: superior, -ius
+```
+```{index} single: superior
+```
+```{index} single: oben
+```
+```{index} single: inferior, -ius
+```
+```{index} single: inferior
+```
+```{index} single: unten
+```
+```{index} single: dorsalis, -e
+```
+```{index} single: dorsal
+```
+```{index} single: rückenwärts
+```
+```{index} single: ventralis, -e
+```
+```{index} single: ventral
+```
+```{index} single: bauchwärts
+```
+```{index} single: posterior, -ius
+```
+```{index} single: posterior
+```
+```{index} single: hinten
+```
+```{index} single: anterior, -ius
+```
+```{index} single: anterior
+```
+```{index} single: vorne
+```
+```{index} single: medialis, -e
+```
+```{index} single: medial
+```
+```{index} single: Medianebene; zur --- hin
+```
+```{index} single: lateralis, -e
+```
+```{index} single: lateral
+```
+```{index} single: medianus, -a, -um
+```
+```{index} single: median
+```
+```{index} single: Medianebene; in der --- single: dexter
+```
+```{index} single: rechts
+```
+```{index} single: sinister
+```
+```{index} single: links
+```
+```{index} single: superficialis, -e
+```
+```{index} single: superfizial
+```
+```{index} single: oberflächlich
+```
+```{index} single: profundus, -a, -um
+```
+```{index} single: profund
+```
+```{index} single: tief
+```
+```{index} single: internus, -a, -um
+```
+```{index} single: intern
+```
+```{index} single: innere
+```
+```{index} single: externus, -a, -um
+```
+```{index} single: extern
+```
+```{index} single: äußere
+```
+```{index} single: centralis, -e
+```
+```{index} single: zentral
+```
+```{index} single: longitudinalis, -e
+```
+```{index} single: longitudinal
+```
+```{index} single: längs verlaufend
+```
+```{index} single: proximalis, -e
+```
+```{index} single: proximal
+```
+```{index} single: rumpfwärts
+```
+```{index} single: distalis, -e
+```
+```{index} single: distal
+```
+```{index} single: radialis, -e
+```
+```{index} single: radial
+```
+```{index} single: speichenwärts
+```
+```{index} single: ulnaris, -e
+```
+```{index} single: ulnar
+```
+```{index} single: ellenwärts
+```
+```{index} single: tibialis, -e
+```
+```{index} single: tibial
+```
+```{index} single: schienbeinwärts
+```
+```{index} single: fibularis, -e
+```
+```{index} single: fibular
+```
+```{index} single: wadenbeinwärts
+```
+```{index} single: palmaris, -e
+```
+```{index} single: palmar
+```
+```{index} single: handflächenwärts
+```
+```{index} single: dorsalis, -e
+```
+```{index} single: dorsal
+```
+```{index} single: handrückenwärts
+```
+```{index} single: plantaris, -e
+```
+```{index} single: plantar
+```
+```{index} single: fußsohlenwärts
+```
+```{index} single: dorsalis, -e
+```
+```{index} single: dorsal
+```
+```{index} single: fußrückenwärts
+```
+```{index} single: frontalis, -e
+```
+```{index} single: frontal
+```
+```{index} single: occipitalis, -e
+```
+```{index} single: okzipital
+```
+```{index} single: basalis, -e
+```
+```{index} single: basal
+```
+```{index} single: oralis, -e
+```
+```{index} single: oral
+```
+```{index} single: vestibularis, -e
+```
+```{index} single: vestibulär
+```
+```{index} single: labialis, -e
+```
+```{index} single: labial
+```
+```{index} single: buccalis, -e
+```
+```{index} single: bukkal
+```
+```{index} single: lingualis, -e
+```
+```{index} single: lingual
+```
+```{index} single: nasalis, -e
+```
+```{index} single: nasal
+```
+```{index} single: nasenwärts
+```
+```{index} single: temporalis, -e
+```
+```{index} single: temporal
+```
+```{index} single: palatinalis, -e
+```
+```{index} single: palatinal
+```
+```{index} single: pharyngealis, -e
+```
+```{index} single: pharyngeal
+```
+```{index} single: rostralis, -e
+```
+```{index} single: rostral
+```
+```{index} single: mesialis, -e
+```
+```{index} single: mesial
+```
+```{index} single: distalis, -e
+```
+```{index} single: distal
+```
+```{index} single: apicalis, -e
+```
+```{index} single: apikal
+```
+```{index} single: cervicalis, -e
+```
+```{index} single: zervikal
+```
+```{index} single: occlusalis, -e
+```
+```{index} single: okklusal
+```
+```{index} single: incisalis, -e
+```
+```{index} single: inzisal
+```
+```{index} single: approximalis, -e
+```
+```{index} single: Adduktion
+```
+```{index} single: Abduktion
+```
+```{index} single: Protrusion
+```
+```{index} single: Retrusion
+```
+```{index} single: Mediotrusion
+```
+```{index} single: Laterotrusion
+```
+```{index} single: Mediotrusion
+```
+```{index} single: Laterotrusion
 ```
 
 ## Richtungsbezeichnungen

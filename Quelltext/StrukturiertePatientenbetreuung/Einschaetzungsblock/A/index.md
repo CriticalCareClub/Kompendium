@@ -1,4 +1,8 @@
-```{index} pair: Airway; Einschätzungsblock single: Atemweg; Einschätzungsblock single: A; Einschätzungsblock
+```{index} pair: Airway; Einschätzungsblock
+```
+```{index} single: Atemweg; Einschätzungsblock
+```
+```{index} single: A; Einschätzungsblock
 ```
 
 (abcde-a)=

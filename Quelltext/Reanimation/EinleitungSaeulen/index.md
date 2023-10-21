@@ -27,7 +27,11 @@ in eigenen Kapiteln behandelt.
 
 (erc-reanimation)=
 
-```{index} single: ERC single: European Resuscitation Council single: Resuscitation (Journal) single: Journal; Resuscitation pair: Guidelines; ERC
+```{index} single: ERC
+```
+```{index} single: European Resuscitation Council
+```
+```{index} single: Resuscitation (Journal) single: Journal; Resuscitation pair: Guidelines; ERC
 ```
 
 ## Hintergrund: ERC-Leitlinien

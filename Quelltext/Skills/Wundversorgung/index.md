@@ -79,7 +79,57 @@ werden:
 - *Chronische* Wunden: Wunden, welche seit langer Zeit bestehen und
   Wundheilungsstörungen aufweisen
 
-```{index} single: Schürfwunde single: Schnittwunde single: Vulnus; scissum single: Vuln.; sciss. single: Stichwunde single: Vulnus; ictum single: Vuln.; ict single: Risswunde single: Vulnus; laceratum single: Vuln.; lac. single: Quetschwunde single: Vulnus; contusum single: Vuln.; cont. single: Rissquetschwunde single: Vulnus; lacero-contusum single: Bisswunde single: Ablederung single: Amputation single: Pfählung single: Schusswunde single: Vulnus; sclopetarium single: Verbrennung single: Verbrühung single: Verätzung single: Vulnus; morsum single: Decollement single: Vulnus; perforans single: Vuln.; mors single: Vuln; sclopet.
+```{index} single: Schürfwunde
+```
+```{index} single: Schnittwunde
+```
+```{index} single: Vulnus; scissum
+```
+```{index} single: Vuln.; sciss. single: Stichwunde
+```
+```{index} single: Vulnus; ictum
+```
+```{index} single: Vuln.; ict
+```
+```{index} single: Risswunde
+```
+```{index} single: Vulnus; laceratum
+```
+```{index} single: Vuln.; lac. single: Quetschwunde
+```
+```{index} single: Vulnus; contusum
+```
+```{index} single: Vuln.; cont. single: Rissquetschwunde
+```
+```{index} single: Vulnus; lacero-contusum
+```
+```{index} single: Bisswunde
+```
+```{index} single: Ablederung
+```
+```{index} single: Amputation
+```
+```{index} single: Pfählung
+```
+```{index} single: Schusswunde
+```
+```{index} single: Vulnus; sclopetarium
+```
+```{index} single: Verbrennung
+```
+```{index} single: Verbrühung
+```
+```{index} single: Verätzung
+```
+```{index} single: Vulnus; morsum
+```
+```{index} single: Decollement
+```
+```{index} single: Vulnus; perforans
+```
+```{index} single: Vuln.; mors
+```
+```{index} single: Vuln; sclopet.
 ```
 
 ### Wundarten

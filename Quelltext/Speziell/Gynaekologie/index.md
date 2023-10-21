@@ -6,7 +6,9 @@ Vgl. {ref}`schwangerschaft`
 
 ### Notfälle in der Frühschwangerschaft
 
-```{index} single: Abort single: Fehlgeburt
+```{index} single: Abort
+```
+```{index} single: Fehlgeburt
 ```
 
 (fehlgeburt)=
@@ -96,7 +98,11 @@ muss mit einer Reanimation begonnen werden.
 
   - Abgegangene Gewebeteile sammeln
 
-```{index} single: Eileiterschwangerschaft single: Tubaria single: Schwangerschaft; extrauterine
+```{index} single: Eileiterschwangerschaft
+```
+```{index} single: Tubaria
+```
+```{index} single: Schwangerschaft; extrauterine
 ```
 
 #### Eileiterschwangerschaft

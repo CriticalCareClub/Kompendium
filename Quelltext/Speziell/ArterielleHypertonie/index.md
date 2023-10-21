@@ -1,4 +1,6 @@
-```{index} single: Hypertonie, arterielle single: Bluthochdruck
+```{index} single: Hypertonie, arterielle
+```
+```{index} single: Bluthochdruck
 ```
 
 (arteriellehypertonie)=

@@ -1,4 +1,32 @@
-```{index} single: Dickdarm single: Colon single: Blinddarm single: Appendix single: Wurmfortsatz single: Appendizitis single: aufsteigender Teil des Dickdarms single: querender Teil des Dickdarms single: absteigender Teil des Dickdarms single: s-förmig gebogener Teil des Dickdarms single: Sigmoid single: Anus single: Rektum single: Mastdarm single: Wasserentzug
+```{index} single: Dickdarm
+```
+```{index} single: Colon
+```
+```{index} single: Blinddarm
+```
+```{index} single: Appendix
+```
+```{index} single: Wurmfortsatz
+```
+```{index} single: Appendizitis
+```
+```{index} single: aufsteigender Teil des Dickdarms
+```
+```{index} single: querender Teil des Dickdarms
+```
+```{index} single: absteigender Teil des Dickdarms
+```
+```{index} single: s-förmig gebogener Teil des Dickdarms
+```
+```{index} single: Sigmoid
+```
+```{index} single: Anus
+```
+```{index} single: Rektum
+```
+```{index} single: Mastdarm
+```
+```{index} single: Wasserentzug
 ```
 
 # Dickdarm (Intestinum crassum inkl. Colon)

@@ -1,6 +1,8 @@
 {{ PROLOG }}
 
-```{index} single: Extremität; Obere single: Membrum; superius
+```{index} single: Extremität; Obere
+```
+```{index} single: Membrum; superius
 ```
 
 (membrumsuperius)=
@@ -91,7 +93,9 @@ Verletzungen der Extremitätenknochen sind häufig. Besonders erwähnenswert sin
   wichtig.
 :::
 
-```{index} single: Scapula single: Schulterblatt
+```{index} single: Scapula
+```
+```{index} single: Schulterblatt
 ```
 
 (scapula)=
@@ -133,7 +137,9 @@ Proc. coracoideus und Acromion), Lig. transversum scapulae sup.
 
 ```
 
-```{index} single: Clavicula single: Schlüsselbein
+```{index} single: Clavicula
+```
+```{index} single: Schlüsselbein
 ```
 
 (clavicula)=
@@ -158,7 +164,9 @@ Somit dient die Clavicula auch als Landmark für die Anlage von zentralvenösen 
 
 ```
 
-```{index} single: Humerus single: Oberarmknochen
+```{index} single: Humerus
+```
+```{index} single: Oberarmknochen
 ```
 
 (humerus)=
@@ -184,7 +192,9 @@ gibt es die Fossa olecrani.`).
 Entlang des Corpus humeri verläuft im **Sulcus n. radialis** der gleichnamige *Nerv*.
 Aufgrund seiner Nahebeziehung des N. radialis zum Knochen ist er bei Humerusfrakturen ebenso häufig mitverletzt.
 
-```{index} single: Speiche single: Radius
+```{index} single: Speiche
+```
+```{index} single: Radius
 ```
 
 (radius)=
@@ -207,7 +217,9 @@ articularis carpalis, Tuberculum dorsale.
 Mit Ulna über die Zwischenknochenmembran (Membrana interossea)
 verbunden.
 
-```{index} single: Elle single: Ulna
+```{index} single: Elle
+```
+```{index} single: Ulna
 ```
 
 (ulna)=
@@ -229,7 +241,9 @@ styloideus ulnae.
 Mit Radius über die Zwischenknochenmembran (Membrana interossea)
 verbunden.
 
-```{index} single: Handwurzelknochen single: Ossa; carpi
+```{index} single: Handwurzelknochen
+```
+```{index} single: Ossa; carpi
 ```
 
 (ossacarpi)=
@@ -251,7 +265,9 @@ carpi, überdacht durch das Retinaculum mm. flexorum) beteiligt, in
 diesem Tunnel verlaufen die Beugesehnen der Fingermuskeln sowie der N.
 medianus.
 
-```{index} single: Ossa metacarpi single: Metakarpalknochen
+```{index} single: Ossa metacarpi
+```
+```{index} single: Metakarpalknochen
 ```
 
 (ossametacarpi)=
@@ -278,7 +294,11 @@ Digitus minimus
 
 ## Gelenke
 
-```{index} single: Articulatio; sternoclavicularis single: Sternoklavikulargelenk single: Gelenk; Sternoklavikular-
+```{index} single: Articulatio; sternoclavicularis
+```
+```{index} single: Sternoklavikulargelenk
+```
+```{index} single: Gelenk; Sternoklavikular-
 ```
 
 (articulatiosternoclavicularis)=
@@ -300,7 +320,11 @@ Folgende Bänder stabiliseren das Art. sternoclavicularis:
 - Lig. interclaviculare (zwischen den beiden Claviceln)
 - Lig. costoclaviculare (zwischen der 1. Rippe und der Clavicula)
 
-```{index} single: Articulatio; acromioclavicularis single: Akromioklavikulargelenk single: Gelenk; Akromioklavikular-
+```{index} single: Articulatio; acromioclavicularis
+```
+```{index} single: Akromioklavikulargelenk
+```
+```{index} single: Gelenk; Akromioklavikular-
 ```
 
 (articulatioacromioclavicularis)=
@@ -320,7 +344,11 @@ Folgende Bänder stabilisieren das Akromioklavikulargelenk:
 - Lig. coracoclaviculare (zwischen Proc. coracoideus und Clavicula):
   unterteilbar in Lig.trapezoideum und Lig. conoideum.
 
-```{index} single: Articulatio; glenohumeralis single: Schultergelenk single: Gelenk; Schulter-
+```{index} single: Articulatio; glenohumeralis
+```
+```{index} single: Schultergelenk
+```
+```{index} single: Gelenk; Schulter-
 ```
 
 (articulatioglenohumeralis)=
@@ -354,7 +382,25 @@ sind, braucht das Schultergelenk die sog. Rotatorenmanschette (M.
 supraspinatus, M. infraspinatus, M. subscapularis, M. teres minor). Das
 Schultergelenk wird daher auch als muskelgesichert beschrieben.
 
-```{index} single: Articulatio; cubiti single: Articulatio; humeroulnaris single: Articulatio; humeroradialis single: Articulatio; radioulnaris proximalis single: Ellenbogengelenk single: Gelenk; Ellenbogen- single: Schleimbeutel; Ellenbogengelenk single: Bursa; olecrani single: Ligamentum; collaterale ulnare single: Ligamentum; collaterale radiale single: Ligamentum; anulare radii
+```{index} single: Articulatio; cubiti
+```
+```{index} single: Articulatio; humeroulnaris
+```
+```{index} single: Articulatio; humeroradialis
+```
+```{index} single: Articulatio; radioulnaris proximalis
+```
+```{index} single: Ellenbogengelenk
+```
+```{index} single: Gelenk; Ellenbogen- single: Schleimbeutel; Ellenbogengelenk
+```
+```{index} single: Bursa; olecrani
+```
+```{index} single: Ligamentum; collaterale ulnare
+```
+```{index} single: Ligamentum; collaterale radiale
+```
+```{index} single: Ligamentum; anulare radii
 ```
 
 (articulatio-cubiti)=
@@ -380,7 +426,25 @@ Bewegungsumfang des Gelenks.
 anulare radii stabilisieren das Gelenk. Das Ellenbogengelenk ist
 knochen- und bandgesichert.``
 
-```{index} single: Handgelenk; proximales single: Handgelenk; distales single: Daumensattelgelenk single: Gelenk; Daumensattel- single: Articulatio; radiocarpea single: Articulatio; radiocarpea single: Articulatio; carpometacarpea pollicis single: Articulationes; carpometacarpales II-V single: Articulationes; intermetacarpales single: Articulationes; metacarpophalangeales single: Articulationes; interphalangeales
+```{index} single: Handgelenk; proximales
+```
+```{index} single: Handgelenk; distales
+```
+```{index} single: Daumensattelgelenk
+```
+```{index} single: Gelenk; Daumensattel- single: Articulatio; radiocarpea
+```
+```{index} single: Articulatio; radiocarpea
+```
+```{index} single: Articulatio; carpometacarpea pollicis
+```
+```{index} single: Articulationes; carpometacarpales II-V
+```
+```{index} single: Articulationes; intermetacarpales
+```
+```{index} single: Articulationes; metacarpophalangeales
+```
+```{index} single: Articulationes; interphalangeales
 ```
 
 ### Gelenke der Hand

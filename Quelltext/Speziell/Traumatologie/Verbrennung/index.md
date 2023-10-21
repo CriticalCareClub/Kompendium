@@ -93,7 +93,9 @@ bedeutet erhöhte *Sterblichkeit*. [^footnote-3]
     Körpertemperatur um 1 Grad abnimmt. Eine Unterkühlung tritt vor allem
     bei narkotisierten Patienten leicht ein.
 
-```{index} single: Handregel single: Neunerregel
+```{index} single: Handregel
+```
+```{index} single: Neunerregel
 ```
 
 ## Ausdehnung: Handregel und Neunerregel

@@ -1,4 +1,18 @@
-```{index} single: koronare Herzkrankheit single: Herzkrankheit, koronare single: KHK single: akutes Koronarsyndrom single: Koronarsyndrom, akutes single: ACS single: Ischämie (akutes Koronarsyndrom) single: VD singke: Vessel disease single: Disease; Vessel -
+```{index} single: koronare Herzkrankheit
+```
+```{index} single: Herzkrankheit, koronare
+```
+```{index} single: KHK
+```
+```{index} single: akutes Koronarsyndrom
+```
+```{index} single: Koronarsyndrom, akutes
+```
+```{index} single: ACS
+```
+```{index} single: Ischämie (akutes Koronarsyndrom) single: VD singke: Vessel disease
+```
+```{index} single: Disease; Vessel -
 ```
 
 (khk)=

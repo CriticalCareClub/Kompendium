@@ -2,7 +2,9 @@
 
 Erkrankungen des harnableitenden Systems.
 
-```{index} pair: Ausfuhr; Flüssigkeitsbilanz pair: Einfuhr; Flüssigkeitsbilanz single: Harnkatheter
+```{index} pair: Ausfuhr; Flüssigkeitsbilanz pair: Einfuhr; Flüssigkeitsbilanz
+```
+```{index} single: Harnkatheter
 ```
 
 ## Exkurs: Harnkatheter
@@ -262,7 +264,9 @@ Krankentransportdienstes.
 
 (dialysepatienten-gefahren)=
 
-```{index} single: Herzstillstand; bei Niereninsuffizienz single: Elektrolytstörung; bei Dialyse
+```{index} single: Herzstillstand; bei Niereninsuffizienz
+```
+```{index} single: Elektrolytstörung; bei Dialyse
 ```
 
 ### Besonderheiten  und Gefahren

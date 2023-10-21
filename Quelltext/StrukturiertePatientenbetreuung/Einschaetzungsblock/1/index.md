@@ -1,4 +1,6 @@
-```{index} single: Szeneüberblick single: Selbstschutz
+```{index} single: Szeneüberblick
+```
+```{index} single: Selbstschutz
 ```
 
 (abcde-1)=

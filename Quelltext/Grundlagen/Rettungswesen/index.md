@@ -1,4 +1,6 @@
-```{index} single: Rettungswesen single: Einsatztaktik
+```{index} single: Rettungswesen
+```
+```{index} single: Einsatztaktik
 ```
 
 # Rettungswesen und Einsatztaktik
@@ -87,7 +89,11 @@ Leitstellen sind meistens ortsfest eingerichtet,
 es gibt jedoch auch mobile Leitstellen,
 welche bei besonderen Ereignissen zum Einsatz kommen können.
 
-```{index} single: Call Taking single: Disposition single: Disponent
+```{index} single: Call Taking
+```
+```{index} single: Disposition
+```
+```{index} single: Disponent
 ```
 
 #### Aufgaben
@@ -149,7 +155,9 @@ Als Funk(technik) bezeichnet man allgemein die Methode, Informationen
 aller Art mit Hilfe elektromagnetischer Wellen im Radiofrequenzbereich
 (Radiowellen) drahtlos zu übertragen.
 
-```{index} single: Halbduplexbetrieb single: Sprechfunk
+```{index} single: Halbduplexbetrieb
+```
+```{index} single: Sprechfunk
 ```
 
 #### Sprechfunk
@@ -171,7 +179,9 @@ wie der Funkverkehr abzuwickeln ist.
 [^vollduplexbetrieb]: Beim {index}`Vollduplexbetrieb` kann man
     gleichzeitig empfangen und senden (z. B. Telefon).
 
-```{index} single: Funkname single: Rufnahme
+```{index} single: Funkname
+```
+```{index} single: Rufnahme
 ```
 
 ```{rubric} Funkname
@@ -474,7 +484,9 @@ stattdessen die Einteilung in die grundlegenden Typen
 eingebürgert. Daneben kommen oft regional unterschiedliche oder
 organisationsspezifische andere Einsatzmitteltypen zum Einsatz.
 
-```{index} single: Krankentransportwagen single: KTW
+```{index} single: Krankentransportwagen
+```
+```{index} single: KTW
 ```
 
 ### Krankentransportwagen – KTW
@@ -501,7 +513,9 @@ Notfallpatienten mit einem KTW transportiert werden. Ein KTW ist mit
 mindestestens 2 Fachkräften besetzt
 (Mindestqualifikation: *2 Rettungssanitäter*).
 
-```{index} single: Rettungstransportwagen single: RTW
+```{index} single: Rettungstransportwagen
+```
+```{index} single: RTW
 ```
 
 ### Rettungstransportwagen – RTW
@@ -535,7 +549,9 @@ ist mit mindestens 2, oft auch 3 Fachkräften besetzt
     jedem Fall soll aber eine "Umrüstung" vom RTW hin zum NAW während des
     Einsatzes mit *wenigen Handgriffen* möglich sein.
 
-```{index} single: NAW single: Notarztwagen
+```{index} single: NAW
+```
+```{index} single: Notarztwagen
 ```
 
 ### Notarztwagen – NAW
@@ -598,7 +614,9 @@ Ein Hubschrauber der Christophorus-Flugrettungsflotte im Landeanflug an das AKH 
 
 ```
 
-```{index} single: NEF single: Notarzteinsatzfahrzeug
+```{index} single: NEF
+```
+```{index} single: Notarzteinsatzfahrzeug
 ```
 
 ### Notarzteinsatzfahrzeug – NEF
@@ -627,7 +645,9 @@ hier hat es den NAW weitgehend abgelöst.
 Das NEF ist mit mindestens 2 Personen besetzt, (Mindestqualifikation: 1
 Notarzt, 1 Notfallsanitäter).
 
-```{index} single: Notarzthubschrauber single: NAH
+```{index} single: Notarzthubschrauber
+```
+```{index} single: NAH
 ```
 
 ### Notarzthubschrauber – NAH

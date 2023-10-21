@@ -1,4 +1,10 @@
-```{index} single: COPD single: Chronic Obstructive Pulmonary Disease single: Disease; Chronic Obstructive Pulmonary - single: Lungenerkrankung; chronisch-obstruktive single: Bronchitis, chronische
+```{index} single: COPD
+```
+```{index} single: Chronic Obstructive Pulmonary Disease
+```
+```{index} single: Disease; Chronic Obstructive Pulmonary - single: Lungenerkrankung; chronisch-obstruktive
+```
+```{index} single: Bronchitis, chronische
 ```
 
 (copd)=

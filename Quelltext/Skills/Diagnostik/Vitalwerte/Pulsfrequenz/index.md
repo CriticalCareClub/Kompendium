@@ -1,4 +1,6 @@
-```{index} single: Puls single: Frequenz; Puls- single Puls; -frequenz singe: Pulsdefizit
+```{index} single: Puls
+```
+```{index} single: Frequenz; Puls- single Puls; -frequenz singe: Pulsdefizit
 ```
 
 # Pulsfrequenz

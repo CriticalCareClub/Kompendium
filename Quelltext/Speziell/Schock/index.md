@@ -41,7 +41,9 @@ Gehirnskommen kann.
 >   sauerstoffreiches Blut zu den Organen.
 :::
 
-```{index} single: Zentralisation single: Rekapillarisierungszeit
+```{index} single: Zentralisation
+```
+```{index} single: Rekapillarisierungszeit
 ```
 
 ## Kompensation, Dekompensation

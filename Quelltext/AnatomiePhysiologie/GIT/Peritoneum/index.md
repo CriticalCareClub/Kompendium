@@ -1,4 +1,6 @@
-```{index} single: Bauchfell single: Peritoneum
+```{index} single: Bauchfell
+```
+```{index} single: Peritoneum
 ```
 
 # Bauchhöhle und Peritoneum (Bauchfell)

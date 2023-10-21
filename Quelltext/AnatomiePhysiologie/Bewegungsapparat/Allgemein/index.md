@@ -30,7 +30,13 @@ Das menschliche Skelett.
 ₢ Mariana Ruiz Villarreal ℓ Public domain
 :::
 
-```{index} single: Knochenverbindungen single: Juncturen single: Synarthrosen single: Synostosen
+```{index} single: Knochenverbindungen
+```
+```{index} single: Juncturen
+```
+```{index} single: Synarthrosen
+```
+```{index} single: Synostosen
 ```
 
 ## Knochenverbindungen (Juncturen)
@@ -50,7 +56,11 @@ Ein Gelenk im Querschnitt
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-```{index} single: Syndesmose single: Synchrondrose single: Synostose
+```{index} single: Syndesmose
+```
+```{index} single: Synchrondrose
+```
+```{index} single: Synostose
 ```
 
 ### Synarthrosen
@@ -70,7 +80,23 @@ Bei Synarthrosen können unterschieden werden:
   sacrum), Hüftbein (Os coxae), Verknöcherung der
   Wachstumsfugen nach Wachstumsabschluss.
 
-```{index} single: Gelenkkapsel single: Gelenkkörper single: Knorpel; Diarthrosen single: Membrana; fibrosa single: Membrana; synovialis single: Gelenkflüssigkeit single: Synovia single: Knorpelzellen single: Chondrozyten
+```{index} single: Gelenkkapsel
+```
+```{index} single: Gelenkkörper
+```
+```{index} single: Knorpel; Diarthrosen
+```
+```{index} single: Membrana; fibrosa
+```
+```{index} single: Membrana; synovialis
+```
+```{index} single: Gelenkflüssigkeit
+```
+```{index} single: Synovia
+```
+```{index} single: Knorpelzellen
+```
+```{index} single: Chondrozyten
 ```
 
 ### Klassische Gelenke: Diarthrosen
@@ -134,7 +160,21 @@ gibt
 - Führungsbänder (für Bewegungen)
 - Hemmungsbänder (für Bewegungseinschränkungen)
 
-```{index} single: Kugelgelenk single: Gelenk;Kugel- single: Eigelenk single: Gelenk;Ei- single: Sattelgelenk single: Gelenk;Sattel- single: Scharniergelenk single: Gelenk;Scharnier- single: Zapfengelenk single: Gelenk;Zapfen- single: Zusammengesetztes Gelenk single: Gelenk;zusammengesetztes - single: Zusammengesetztes Gelenk single: Gelenk;zusammengesetztes -
+```{index} single: Kugelgelenk
+```
+```{index} single: Gelenk;Kugel- single: Eigelenk
+```
+```{index} single: Gelenk;Ei- single: Sattelgelenk
+```
+```{index} single: Gelenk;Sattel- single: Scharniergelenk
+```
+```{index} single: Gelenk;Scharnier- single: Zapfengelenk
+```
+```{index} single: Gelenk;Zapfen- single: Zusammengesetztes Gelenk
+```
+```{index} single: Gelenk;zusammengesetztes - single: Zusammengesetztes Gelenk
+```
+```{index} single: Gelenk;zusammengesetztes -
 ```
 
 #### Gelenksformen

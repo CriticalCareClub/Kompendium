@@ -135,7 +135,11 @@ als {dfn}`OPQRST` bezeichnet [^fn-opqrst].
     Quality (Schmerzqualität, -art), Region and Radiation (Lokalisation
     und Ausstrahlung), Severity (Stärke), Time (zeitlicher Verlauf)
 
-```{index} single: Schmerz, kolikartiger single: kolikartiger Schmerz single: Kolik
+```{index} single: Schmerz, kolikartiger
+```
+```{index} single: kolikartiger Schmerz
+```
+```{index} single: Kolik
 ```
 
 (kolik)=

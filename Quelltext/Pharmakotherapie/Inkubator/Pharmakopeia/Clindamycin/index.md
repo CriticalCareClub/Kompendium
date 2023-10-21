@@ -1,4 +1,6 @@
-```{index} single: Clindamycin single: Streptokokken; toxigene; Therapie
+```{index} single: Clindamycin
+```
+```{index} single: Streptokokken; toxigene; Therapie
 ```
 
 (clindamycin)=

@@ -448,7 +448,11 @@ Hier lernen die Lymphozyten zwischen körpereigen und körperfremd zu unterschei
 Thymopoetin fördert die differenzierung der verschiedenen T-Lymphozyten, die zur Prägung, Reifung und Differenzierung dann in sekundär lymphatische Organe auswandern.
 Die Reifung der B-Lymphozyten findet im Knochenmark statt.
 
-```{index} single: Milz single: Lien single: Splen
+```{index} single: Milz
+```
+```{index} single: Lien
+```
+```{index} single: Splen
 ```
 
 ### Die Milz

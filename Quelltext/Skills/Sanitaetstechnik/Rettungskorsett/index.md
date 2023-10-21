@@ -1,4 +1,6 @@
-```{index} single: Rettungskorsett single: KED™ single: Kendrick Extrication Device™
+```{index} single: Rettungskorsett
+```
+```{index} single: KED™ single: Kendrick Extrication Device™
 ```
 
 (rettungskorsett-beschreibung)=

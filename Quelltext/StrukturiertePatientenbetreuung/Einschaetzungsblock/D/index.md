@@ -95,7 +95,9 @@ motorische
 Gefühlsverlust) Ausfälle sowie
 Zuckerstoffwechselstörungen.
 
-```{index} single: Druck, intrakranieller single: Hirndruckzeichen
+```{index} single: Druck, intrakranieller
+```
+```{index} single: Hirndruckzeichen
 ```
 
 (hirndruckzeichen)=

@@ -1,4 +1,6 @@
-```{index} single: Morphin single: Vental™
+```{index} single: Morphin
+```
+```{index} single: Vental™
 ```
 
 (morphin)=

@@ -170,7 +170,15 @@ Organsysteme wie z. B. die Verdauung.
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-```{index} single: Adrenorezeptoren single: Rezeptoren; Adrenerge single: receptor; adrenergic single: α-Rezeptoren single: β-Rezeptoren
+```{index} single: Adrenorezeptoren
+```
+```{index} single: Rezeptoren; Adrenerge
+```
+```{index} single: receptor; adrenergic
+```
+```{index} single: α-Rezeptoren
+```
+```{index} single: β-Rezeptoren
 ```
 
 (adrenorezeptoren)=

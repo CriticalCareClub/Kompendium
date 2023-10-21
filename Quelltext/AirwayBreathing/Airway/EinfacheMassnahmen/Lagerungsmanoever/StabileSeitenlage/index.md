@@ -1,4 +1,6 @@
-```{index} single: stabile Seitenlage single: Seitenlage, stabile
+```{index} single: stabile Seitenlage
+```
+```{index} single: Seitenlage, stabile
 ```
 
 (stabileseitenlage)=

@@ -14,7 +14,11 @@ Sie ist neben der Leber auch
 ein wichtiges Organ für die Ausscheidung giftiger körperfremder
 Substanzen.
 
-```{index} single: Niere single: Ren single: Nephros
+```{index} single: Niere
+```
+```{index} single: Ren
+```
+```{index} single: Nephros
 ```
 
 ## Niere (Ren)

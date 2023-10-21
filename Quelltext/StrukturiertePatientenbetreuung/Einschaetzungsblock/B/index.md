@@ -42,7 +42,11 @@ Als nächstes wird die Funktion der *Atmung* beurteilt:
 
 8. Bei Verdacht auf das Vorliegen einer mechanisch bedingten Atemstörung ist das Vorziehen des **Abtastens des Thorax** möglich.
 
-```{index} single: Totraum single: Totraumventilation single: Schnappatmung
+```{index} single: Totraum
+```
+```{index} single: Totraumventilation
+```
+```{index} single: Schnappatmung
 ```
 
 (schnappatmung)=

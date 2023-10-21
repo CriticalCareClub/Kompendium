@@ -1,4 +1,8 @@
-```{index} single: Dauerstoffsätigung single: Pulsoxymetrie single: SpO₂ single: Pulsoxymeter
+```{index} single: Dauerstoffsätigung
+```
+```{index} single: Pulsoxymetrie
+```
+```{index} single: SpO₂ single: Pulsoxymeter
 ```
 
 (pulsoxymetrie)=

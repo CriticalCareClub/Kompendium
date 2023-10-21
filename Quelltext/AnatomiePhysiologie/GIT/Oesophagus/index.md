@@ -1,4 +1,12 @@
-```{index} single: Ösophagus single: Speiseröhre single: Ringknorpelenge single: Aortenenge; Ösophagus single: Hiatus; oesophagus
+```{index} single: Ösophagus
+```
+```{index} single: Speiseröhre
+```
+```{index} single: Ringknorpelenge
+```
+```{index} single: Aortenenge; Ösophagus
+```
+```{index} single: Hiatus; oesophagus
 ```
 
 (speiseroehre)=

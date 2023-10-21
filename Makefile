@@ -6,7 +6,7 @@
 # SPHINXBUILD   = python -msphinx
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = Notarzttraining
-SOURCEDIR     = Quelltext
+SOURCEDIR     = Text
 GITBRANCH := $(shell git rev-parse --abbrev-ref HEAD)
 # BUILDDIR      = "$(HOME)"/Export/21-Notarzt-Sphinx-"$(GITBRANCH)"
 BUILDDIR      = Export/"$(GITBRANCH)"

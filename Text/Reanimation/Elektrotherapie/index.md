@@ -387,7 +387,7 @@ Therapieelektroden
   Die Verwendung von Hardpaddles führt zu
   **schlechteren Ergebnissen** und soll daher nur wenn nicht anders
   möglich erfolgen
-  {term}`🗎 ERC 2021 05`.
+  {term}`♛ ERC 2021 05`.
 
 Manueller Modus = manuelle Analyse
 

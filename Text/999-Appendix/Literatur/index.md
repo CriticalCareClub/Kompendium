@@ -33,6 +33,91 @@
   J Am Soc Echocardiogr 2013;26:921-64.
   http://dx.doi.org/10.1016/j.echo.2013.07.009
 
+
+♛ ERC 2021 01
+: **European Resuscitation Council Guidelines 2021: Executive summary**
+  by G. D. Perkins et al.
+  *Resuscitation*, 2021(161):1-60.
+  Elsevier BV,
+  DOI: [10.1016/j.resuscitation.2021.02.003](https://doi.org/10.1016/j.resuscitation.2021.02.003)
+
+♛ ERC 2021 02
+: Jan-Thorsten Gräsner et al.:
+  *European Resuscitation Council Guidelines 2021:*
+  **Epidemiology of cardiac arrest in Europe.**
+  *Resuscitation* 161:61-79.
+  <https://doi.org/10.1016/j.resuscitation.2021.02.007>
+
+♛ ERC 2021 03
+: Federico Semeraro et al.:
+  *European Resuscitation Council Guidelines 2021:*
+  **Systems saving lives.**
+  *Resuscitation* 161:80-97.
+  <https://doi.org/10.1016/j.resuscitation.2021.02.008>
+
+♛ ERC 2021 04
+: Theresa M. Olasveengen et al.:
+  *European Resuscitation Council Guidelines 2021:*
+  **Basic Life Support.**
+  *Resuscitation* 161:98-114.
+  <https://doi.org/10.1016/j.resuscitation.2021.02.009>
+
+♛ ERC 2021 05
+: Jasmeet Soar et al.:
+  *European Resuscitation Council Guidelines 2021:*
+  **Adult advanced life support.**
+  *Resuscitation* 161:115-151.
+  <https://doi.org/10.1016/j.resuscitation.2021.02.010>
+
+♛ ERC 2021 06
+: Carsten Lott et al.:
+  *European Resuscitation Council Guidelines 2021:*
+  **Cardiac arrest in special circumstances.**
+  *Resuscitation* 161:152-219, April 01, 2021
+  <https://doi.org/10.1016/j.resuscitation.2021.02.011>
+
+♛ ERC 2021 07
+: Jerry P. Nolan et al.:
+  *European Resuscitation Council and European Society of Intensive Care Medicine Guidelines 2021:*
+  **Post-resuscitation care.**
+  *Resuscitation* 161:220-269.
+  <https://doi.org/10.1016/j.resuscitation.2021.02.012>
+
+♛ ERC 2021 08
+: David A. Zideman et al.:
+  *European Resuscitation Council Guidelines 2021:*
+  **First aid.**
+  *Resuscitation* 161:270-290.
+  <https://doi.org/10.1016/j.resuscitation.2021.02.013>
+
+♛ ERC 2021 09
+: John Madar et al.:
+  *European Resuscitation Council Guidelines 2021:*
+  **Newborn resuscitation and support of transition of infants at birth.**
+  *Resuscitation* 161:291-326, April 01, 2021
+  <https://doi.org/10.1016/j.resuscitation.2021.02.014>
+
+♛ ERC 2021 10
+: Patrick Van de Voorde et al.:
+  *European Resuscitation Council Guidelines 2021:*
+  **Paediatric Life Support.**
+  *Resuscitation* 161:327-387.
+  <https://doi.org/10.1016/j.resuscitation.2021.02.015>
+
+♛ ERC 2021 11
+: Robert Greif et al.:
+  *European Resuscitation Council Guidelines 2021:*
+  **Education for resuscitation.**
+  *Resuscitation* 161:388-407.
+  <https://doi.org/10.1016/j.resuscitation.2021.02.016>
+
+♛ ERC 2021 12
+: Spyros D. Mentzelopoulos et al.:
+  *European Resuscitation Council Guidelines 2021:*
+  **Ethics of resuscitation and end of life decisions.**
+  *Resuscitation* 161:408-432.
+  <https://doi.org/10.1016/j.resuscitation.2021.02.017>
+
 ♛ ESC NSTEMI 2020/21
 : **2020 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation.**
   by J.-P. Collet et al.
@@ -188,6 +273,15 @@
   PMID: 8204131,
   DOI: [10.1001/jama.1993.03510120079035](https://doi.org/10.1001/jama.1993.03510120079035)
 
+🗎 Buckley 2011
+: **Hyperbaric oxygen for carbon monoxide poisoning.**
+  by N. A. Buckley et al.
+  *The Cochrane database of systematic reviews*, 2011(2011):CD002041.
+  PMID: 21491385,
+  DOI: [10.1002/14651858.CD002041.pub3](https://doi.org/10.1002/14651858.CD002041.pub3)
+
+  *Existing randomised trials do not establish whether the administration of HBO to patients with carbon monoxide poisoning reduces the incidence of adverse neurologic outcomes.*
+
 🗎 Burisch 1994
 : by Burisch, M:
   1994.\*Das Burnout-Syndrom – Theorie Der Inneren
@@ -254,8 +348,7 @@
 🗎 Eisenburger 2008
 : by Eisenburger, P., C. Havel, F. Sterz, T. Uray, A. Zeiner, M. Haugk, H.
   Losert, A. N. Laggner and H. Herkner.
-  **Transport with Ongoing
-  Cardiopulmonary Resuscitation May Not Be Futile.**
+  **Transport with Ongoing Cardiopulmonary Resuscitation May Not Be Futile.**
   *Br J Anaesth* 2008:101 (4).: by 518–22.
   doi:[10.1093/bja/aen209](https://doi.org/10.1093/bja/aen209).
 
@@ -265,93 +358,9 @@
   <http://www.ekg-online.de>.
 
 🗎 Enne 2012
-: by Enne, Andreas.
-  **Notkompetenzen in "Osterreich: by Der aktuelle Stand zehn Jahre nach Einführung des Sanitätergesetzes.**
-  *Rettungsdienst* 2012:35 (7): by 43—45.
-
-🗎 ERC 2021 01
-: by Gavin D. Perkins et al.:
-  *European Resuscitation Council Guidelines 2021:*
-  **Executive summary.**
-  *Resuscitation* 161:98-114.
-  <https://doi.org/10.1016/j.resuscitation.2021.02.009>
-
-🗎 ERC 2021 02
-: by Jan-Thorsten Gräsner et al.:
-  *European Resuscitation Council Guidelines 2021:*
-  **Epidemiology of cardiac arrest in Europe.**
-  *Resuscitation* 161:61-79.
-  <https://doi.org/10.1016/j.resuscitation.2021.02.007>
-
-🗎 ERC 2021 03
-: by Federico Semeraro et al.:
-  *European Resuscitation Council Guidelines 2021:*
-  **Systems saving lives.**
-  *Resuscitation* 161:80-97.
-  <https://doi.org/10.1016/j.resuscitation.2021.02.008>
-
-🗎 ERC 2021 04
-: by Theresa M. Olasveengen et al.:
-  *European Resuscitation Council Guidelines 2021:*
-  **Basic Life Support.**
-  *Resuscitation* 161:98-114.
-  <https://doi.org/10.1016/j.resuscitation.2021.02.009>
-
-🗎 ERC 2021 05
-: by Jasmeet Soar et al.:
-  *European Resuscitation Council Guidelines 2021:*
-  **Adult advanced life support.**
-  *Resuscitation* 161:115-151.
-  <https://doi.org/10.1016/j.resuscitation.2021.02.010>
-
-🗎 ERC 2021 06
-: by Carsten Lott et al.:
-  *European Resuscitation Council Guidelines 2021:*
-  **Cardiac arrest in special circumstances.**
-  *Resuscitation* 161:152-219, April 01, 2021
-  <https://doi.org/10.1016/j.resuscitation.2021.02.011>
-
-🗎 ERC 2021 07
-: by Jerry P. Nolan et al.:
-  *European Resuscitation Council and European Society of Intensive Care Medicine Guidelines 2021:*
-  **Post-resuscitation care.**
-  *Resuscitation* 161:220-269.
-  <https://doi.org/10.1016/j.resuscitation.2021.02.012>
-
-🗎 ERC 2021 08
-: by David A. Zideman et al.:
-  *European Resuscitation Council Guidelines 2021:*
-  **First aid.**
-  *Resuscitation* 161:270-290.
-  <https://doi.org/10.1016/j.resuscitation.2021.02.013>
-
-🗎 ERC 2021 09
-: by John Madar et al.:
-  *European Resuscitation Council Guidelines 2021:*
-  **Newborn resuscitation and support of transition of infants at birth.**
-  *Resuscitation* 161:291-326, April 01, 2021
-  <https://doi.org/10.1016/j.resuscitation.2021.02.014>
-
-🗎 ERC 2021 10
-: by Patrick Van de Voorde et al.:
-  *European Resuscitation Council Guidelines 2021:*
-  **Paediatric Life Support.**
-  *Resuscitation* 161:327-387.
-  <https://doi.org/10.1016/j.resuscitation.2021.02.015>
-
-🗎 ERC 2021 11
-: by Robert Greif et al.:
-  *European Resuscitation Council Guidelines 2021:*
-  **Education for resuscitation.**
-  *Resuscitation* 161:388-407.
-  <https://doi.org/10.1016/j.resuscitation.2021.02.016>
-
-🗎 ERC 2021 12
-: by Spyros D. Mentzelopoulos et al.:
-  *European Resuscitation Council Guidelines 2021:*
-  **Ethics of resuscitation and end of life decisions.**
-  *Resuscitation* 161:408-432.
-  <https://doi.org/10.1016/j.resuscitation.2021.02.017>
+: **Notkompetenzen in Österreich: Der aktuelle Stand zehn Jahre nach Einführung des Sanitätergesetzes**
+  by A. Enne.
+  *Rettungsdienst*, 2012(7):43—45.
 
 🗎 ESC NSTEMI 2015/16
 : by Damman, P.; van 't Hof, A. W. et al.:
@@ -366,10 +375,19 @@
 
 🗎 Fernandez 2012
 : **Water for wound cleansing.**
-  by Ritin Fernandez and Rhonda Griffiths.
-  Cochrane Database Syst Rev, 2:CD003861, 2012.
-  <http://dx.doi.org/10.1002/14651858.CD003861.pub3>.
-  doi:10.1002/14651858.CD003861.pub3.
+  by R. Fernandez et al.
+  *The Cochrane database of systematic reviews*, 2012:CD003861.
+  PMID: 22336796,
+  DOI: [10.1002/14651858.CD003861.pub3](https://doi.org/10.1002/14651858.CD003861.pub3)
+
+🗎 Fernandez 2022
+: **Water for wound cleansing.**
+  by R. Fernandez et al.
+  *The Cochrane database of systematic reviews*, 2022(9):CD003861.
+  PMID: 36103365,
+  DOI: [10.1002/14651858.CD003861.pub4](https://doi.org/10.1002/14651858.CD003861.pub4)
+
+  *Using tap water compared with no cleansing may make little or no difference to wound healing, while there are no data on wound infection. The impact of using tap water compared with saline for wound cleansing on both infection and wound healing is uncertain.*
 
 🗎 FI AmiodaronHameln 2020
 : **Amiodaron-hameln 50 mg/ml Konzentrat zur Herstellung einer Injektions- /Infusionslösung.**
@@ -391,10 +409,11 @@
   Springer.
 
 🗎 Franz 2012
-: **Aseptic tissue necrosis and chronic inflammation after irrigation of penetrating hand wounds using octenisept®.**
-  by T. Franz and E. Vögelin.
-  J Hand Surg Eur Vol, 37(1):61–64, Jan 2012.
-  <http://dx.doi.org/10.1177/1753193411414353>
+: **Aseptic tissue necrosis and chronic inflammation after irrigation of penetrating hand wounds using Octenisept®.**
+  by T. Franz et al.
+  *The Journal of hand surgery, European volume*, 2012(37):61-64.
+  PMID: 21816890,
+  DOI: [10.1177/1753193411414353](https://doi.org/10.1177/1753193411414353)
 
 🗎 Goerg 2018
 : **Assoziation zwischen sozio-ökonomischem Status und Mortalität bei PatientInnen mit ST-Hebungsinfarkt**
@@ -419,12 +438,13 @@
   doi:[10.1093/alcalc/agn105](https://doi.org/10.1093/alcalc/agn105).
 
 🗎 Havel 2007
-: by Richling, Helmut Trimmel, Reinhard Malzer, Fritz Sterz and Harald
-  Herkner.
-  **Quality of Closed Chest Compression in Ambulance Vehicles, Flying Helicopters and at the Scene**
-  *Resuscitation*
-  2007:73(2), 264–70.
-  doi:[10.1016/j.resuscitation.2006.09.007](https://doi.org/10.1016/j.resuscitation.2006.09.007).
+: **Quality of closed chest compression in ambulance vehicles, flying helicopters and at the scene.**
+  by C. Havel et al.
+  *Resuscitation*, 2007(73):264-270.
+  PMID: 17276575,
+  DOI: [10.1016/j.resuscitation.2006.09.007](https://doi.org/10.1016/j.resuscitation.2006.09.007)
+
+  *Compared to resuscitation at the scene, efficiency of chest compressions during a helicopter flight was 86% and 95% in the moving ambulance 95%. There were no differences in secondary outcomes (time without chest compression, total number of incorrect hand position relative to total compressions, and total number of incorrect pressure release relative to total compressions). Resuscitation during transport is feasible and relatively efficient.*
 
 🗎 Hochmeister 2
 : **Forensische Medizin für Studium und Praxis.**
@@ -438,16 +458,14 @@
   6\. Auflage, 2011.
   Elsevier.
 
-🗎 Ibanez 2017
-: by Ibanez, B.; James, S.; Agewall, S. et al.:
-  2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: by The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).
-  European heart journal, 2017.
-  DOI: by 10.1093/eurheartj/ehx393
+🗎 Hülsemann 2009
+: **[Severe side effects after Octenisept irrigation of penetrating wounds in children].**
+  by W. Hülsemann et al.
+  *Handchirurgie, Mikrochirurgie, plastische Chirurgie : Organ der Deutschsprachigen Arbeitsgemeinschaft fur Handchirurgie : Organ der Deutschsprachigen Arbeitsgemeinschaft fur Mikrochirurgie der Peripheren Nerven und Gefasse : Organ der V...*, 2009(41):277-282.
+  PMID: 19790020,
+  DOI: [10.1055/s-0029-1238282](https://doi.org/10.1055/s-0029-1238282)
 
-🗎 Ibanez 2018
-: by Ibanez, B.; James, S. et al.:
-  2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: by The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).
-  European heart journal, 2018, 39, 119-177.
+  *Zur Verhinderung von Folgeschäden sollten kontaminierte tiefe Wunden an der Hand operativ debridiert und nicht mit dem Antiseptikum Octenisept® gespült werden. Octensept® scheint in nicht abgegrenztem Gewebe® irritativ-toxisch zu wirken. Durch langsamen Abbau verbleibt es lange im Interstitium.*
 
 🗎 IBCC
 : **The Internet Book of Critical Care (IBCC).**
@@ -479,10 +497,13 @@
   2004:11(6), 707–9.
 
 🗎 Juurlink 2005
-: **Hyperbaric Oxygen for Carbon Monoxide Poisoning.**
-  by Juurlink, D N, N A Buckley, M B Stanbrook, G K Isbister, M Bennett and  A McGuigan.
-  *Cochrane Database of Systematic Reviews (Online)*, 2005, no. 1: by CD002041.
-  doi:[{10.1002/14651858.CD002041.pub2}](https://doi.org/{10.1002/14651858.CD002041.pub2}).
+: **Hyperbaric oxygen for carbon monoxide poisoning.**
+  by D. N. Juurlink et al.
+  *The Cochrane database of systematic reviews*, 2005:CD002041.
+  PMID: 15674890,
+  DOI: [10.1002/14651858.CD002041.pub2](https://doi.org/10.1002/14651858.CD002041.pub2)
+
+  *Of these six trials, four found no benefit of HBO for the reduction of neurologic sequelae, while two others did. Although pooled analysis does not suggest a benefit from HBOT (OR for neurological deficits 0.78, 95%CI 0.54 to 1.12, p=0.18), significant methodologic and statistical heterogeneity was apparent among the trials, and this result should be interpreted cautiously. [...] Existing randomized trials do not establish whether the administration of HBO to patients with carbon monoxide poisoning reduces the incidence of adverse neurologic outcomes.*
 
 🗎 Kaindl 7
 : **Elektro-Komiko-Graphie.**
@@ -491,13 +512,14 @@
   Maudrich.
 
 🗎 Kalla 2006
-: **Implementation of Guidelines Improves the Standard of Care: by The Viennese Registry on Reperfusion Strategies in St-Elevation Myocardial Infarction (Vienna Stemi Registry).**
-  by Kalla, Karim, Günter Christ, Ronald Karnik, Reinhard Malzer, Georg  Norman, Herbert Prachar, Wolfgang Schreiber, et al.
-  *Circulation*
-  2006:113(20), 2398–2405.
+: **Implementation of guidelines improves the standard of care: the Viennese registry on reperfusion strategies in ST-elevation myocardial infarction (Vienna STEMI registry).**
+  by K. Kalla et al.
+  *Circulation*, 2006(113):2398-2405.
+  PMID: 16702474,
+  DOI: [10.1161/CIRCULATIONAHA.105.586198](https://doi.org/10.1161/CIRCULATIONAHA.105.586198)
 
 🗎 Kamolz 2009
-: **Verbrennungen: by Diagnose, Therapie und Rehabilitation des thermischen Traumas.**
+: **Verbrennungen: Diagnose, Therapie und Rehabilitation des thermischen Traumas.**
   by Kamolz, Lars-Peter, David N. Herndon und Marc G. Jeschke.
   1\. Auflage,2009.
   Springer, Wien.
@@ -509,17 +531,16 @@
   2001:50(4), 620–7, discussion 627–8.
 
 🗎 Karutz 2009
-: **Wenn die Belastungsgrenze erreicht ist: by Psychologische Selbsthilfe in Extremsituationen.**
-  by Karutz, Harald.
-  *Rettungsdienst*
-  2009:32(12), 1172–7.
+: **Wenn die Belastungsgrenze erreicht ist: Psychologische Selbsthilfe in Extremsituationen**
+  by H. Karutz
+  *Rettungsdienst*, 2009(32)12:1172–7.
 
 🗎 Katz 2001
 : **Misplaced endotracheal tubes by paramedics in an urban emergency medical services system.**
-  by S. H. Katz and J. L. Falk.
-  Ann Emerg Med, 37(1):32–37, Jan 2001.
-  <http://dx.doi.org/10.1067/mem.2001.112098>.
-  doi:10.1067/mem.2001.112098.
+  by S. H. Katz et al.
+  *Annals of emergency medicine*, 2001(37):32-37.
+  PMID: 11145768,
+  DOI: [10.1067/mem.2001.112098](https://doi.org/10.1067/mem.2001.112098)
 
 🗎 Kayser 10
 : by Kayser, Fritz H., Kurt A. Bienz, Johannes Eckert und Rolf M. Zinkernagel.
@@ -544,10 +565,9 @@
   ```
 
 🗎 Koppensteiner 2012 08
-: **Lachgas Im Rettungsdienst: by Die Rechtlichen Aspekte**
-  by Koppensteiner, Stefan.
-  *Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin*
-  2012:35(8).
+: **Lachgas im Rettungsdienst: Die rechtlichen Aspekte**
+  by S. Koppensteiner
+  *Rettungsdienst*, 2012(35:8)
 
 🗎 Kramer 1
 : **Wallhäußers Praxis Der Sterilisation, Desinfektion, Antiseptik Und Konservierung.**
@@ -608,7 +628,7 @@
   <http://www.auva.at/mediaDB/704539_Lateinische_Diagnose.pdf>.
 
 🗎 Loennecker 2001
-: **\[Hypothermia in Patients with Burn Injuries: by Influence of Prehospital Treatment\]**
+: **\[Hypothermia in Patients with Burn Injuries: Influence of Prehospital Treatment\]**
   by Lönnecker, S. and V. Schoder.
   *Chirurg*
   2001:72(2), 164–67.
@@ -653,8 +673,12 @@
 
 🗎 Pelucio 1997
 : **Out-of-hospital experience with the syringe esophageal detector device.**
-  by M. Pelucio, L. Halligan und H. Dhindsa.
-  Acad Emerg Med 1997:4(6) 563—568.
+  by M. Pelucio et al.
+  *Academic emergency medicine : official journal of the Society for Academic Emergency Medicine*, 1997(4):563-568.
+  PMID: 9189188,
+  DOI: [10.1111/j.1553-2712.1997.tb03579.x](https://doi.org/10.1111/j.1553-2712.1997.tb03579.x)
+
+  *In this paramedic field study, the EDD demonstrated poor sensitivity for esophageal intubations.*
 
 🗎 Pschyrembel 259
 : **Pschyrembel Klinisches Wörterbuch.**

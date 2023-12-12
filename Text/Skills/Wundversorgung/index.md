@@ -374,7 +374,7 @@ abwenden und ggf. eine ärztliche Schmerztherapie einleiten (lassen).
   steriler (NaCl 0,9%) von innen nach außen.
   Bei oberflächlichen
   Wunden ist auch ein Abspülen unter fließendem Leitungswasser
-  zulässig {term}`🗎 Fernandez 2012`.
+  zulässig ({term}`🗎 Fernandez 2012`, {term}`🗎 Fernandez 2022`).
   Wunden, die im Spital
   weiter versorgt werden, sollen nicht übermäßig gereinigt werden,
   auch soll keine
@@ -386,7 +386,7 @@ abwenden und ggf. eine ärztliche Schmerztherapie einleiten (lassen).
   Desinfektion mittels Wunddesinfektionsmittels ist aufgrund der
   toxischen Wirkung auf das Gewebe nicht
   mehr standardmäßig empfohlen.
-  {term}`🗎 Fernandez 2012` {term}`🗎 Franz 2012` {term}`🗎 Schupp 2009` {term}`🗎 Marquardt 2010`
+  {term}`🗎 Franz 2012`, {term}`🗎 Hülsemann 2009`, {term}`🗎 Schupp 2009`, {term}`🗎 Marquardt 2010`
 
 - **Fremdkörper**
   (Messer, Schere oder sonstige Pfählungsgegenstände) sind

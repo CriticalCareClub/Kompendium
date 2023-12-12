@@ -21,7 +21,7 @@ Kreislaufstillstand/index
 
 {term}`🗎 Eisenburger 2008`  (Transport with ongoing cardiopulmonary resuscitation may not be futile.)
 {term}`🗎 Havel 2007`  (Quality of closed chest compression in ambulance vehicles, flying helicopters and at the scene)
-{term}`🗎 Juurlink 2005`  (Hyperbaric oxygen for carbon monoxide poisoning)
+{term}`🗎 Juurlink 2005`, {term}`🗎 Buckley 2011`  (Hyperbaric oxygen for carbon monoxide poisoning)
 {term}`🗎 Kalla 2006`  (Implementation of guidelines improves the standard of care: the Viennese registry on reperfusion strategies in ST-elevation myocardial infarction (Vienna STEMI registry).)
 {term}`🗎 Vlcek 2008`  (Association between hypertensive urgencies and subsequent cardiovascular events in patients with hypertension.)
 

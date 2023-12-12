@@ -683,7 +683,7 @@ Im Akutmanagement von Rhythmusstörungen stellen sich *drei* grundsätzliche Fra
   - 🚩 Myokardischämie, 🚩 Stenokardien
   - Zeichen einer neu aufgetretenen 🚩 Herzinsuffizienz
 
-{term}`🗎 ERC 2021 05`
+{term}`♛ ERC 2021 05`
 
 (proc-mr47091c)=
 
@@ -715,7 +715,7 @@ Erweiterte Maßnahmen
     - {ref}`Amiodaron <Amiodaron>` 300 mg i.v. (über 10—20 min)
     - Wiederholung Kardioversionsversuch
 
-{term}`🗎 ERC 2021 05`
+{term}`♛ ERC 2021 05`
 
 ### Hämodynamisch wirksame *Tachykardie*
 
@@ -753,7 +753,7 @@ Allgemein
       Z. B. *Magnesium gluconicum* 1000—4000 mg in einer Kurzinfusion
     - **Kalium**: Substitution nur unter Elektrolyt-Kontrolle
 
-{term}`🗎 ERC 2021 05`
+{term}`♛ ERC 2021 05`
 
 #### Arrhythmische Breitkomplextachykardie
 
@@ -770,7 +770,7 @@ Allgemein
 
 - Wenn Torsade-de-pointes: **Magnesium**, z. B. *Magnesium gluconicum* 2000—4000 mg in einer Kurzinfusion
 
-{term}`🗎 ERC 2021 05`
+{term}`♛ ERC 2021 05`
 
 #### Arrhtyhmische Schmalkomplextachykardie
 
@@ -795,7 +795,7 @@ Vermutlich Vorhofflimmern, unterscheide:
   Bei schon länger bestehenddem Vorhofflimmern kein Kardioversionsversuch ohne vorherigen Ausschluss eines Thrombus,
   auf **Frequenzkontrolle** beschränken.
 
-{term}`🗎 ERC 2021 05`
+{term}`♛ ERC 2021 05`
 
 #### Rhythmische Breit- oder Schmalkomplextachykardie
 
@@ -815,7 +815,7 @@ Vermutlich Vorhofflimmern, unterscheide:
 
 4. Wenn nicht erfolgreich: *Elektrische Kardioversion* (3 Versuche, synchronisiert!) unter Sedierung
 
-{term}`🗎 ERC 2021 05`
+{term}`♛ ERC 2021 05`
 
 :::{danger}
 Bei FBI-Tachykardie (Fast, Broad, Irregular) keinesfalls Blockade der AV-Leitungsbahn,
@@ -876,7 +876,7 @@ Risiko Asystolie
     ggfs. Bolus-Gabe 0,010 mg i.v. ("Supra-Blitz")
   - Schrittmacher: Trabskutan (mit Sedierung!) oder passager
 
-{term}`🗎 ERC 2021 05`
+{term}`♛ ERC 2021 05`
 
 ### Andere Rhythmusstörung
 

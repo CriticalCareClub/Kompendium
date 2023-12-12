@@ -42,7 +42,7 @@ Durchblutungsstörung[^footnote-1] oder Zentralisierung hin.
 Das Herz schlägt beim Erwachsenen mit einer *Herzfrequenz* (*HF*,
 bzw.
 *Pulsfrequenz*, *PF*)
-von 60—100 / min {term}`🕮 Klinke 3`.
+von 60—100 / min {term}`🗎 Klinke 3`.
 Bei Belastung kann die Herzfrequenz beträchtlich
 gesteigert werden.
 Durch die Pumpfunktion des Herzens entsteht der
@@ -162,7 +162,7 @@ und etwas schwindlig sei sie auch.\*
   +----------------------+----------+----------------------------+---------------------+----------------------------+-------------------------+-------------------------+--------------------------+
 ```
 
-{term}`🕮 Lissauer 2007`
+{term}`🗎 Lissauer 2007`
 
 ## `STU` — Schnelle Traumauntersuchung
 

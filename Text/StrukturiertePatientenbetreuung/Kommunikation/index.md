@@ -194,7 +194,7 @@ Jede Nachricht hat vier Aussagen [^fn-vieraussageneinernachricht]:
   Sie kann somit zu
   Deutungen über die Persönlichkeit des Sprechers verwendet werden.
 
-[^fn-vieraussageneinernachricht]: Nach Friedemann Schulz von Thun, {term}`🕮 Thun 1981`
+[^fn-vieraussageneinernachricht]: Nach Friedemann Schulz von Thun, {term}`🗎 Thun 1981`
 
 Entscheidend in der Kommunikation ist die Tatsache,
 dass die gleiche
@@ -226,7 +226,7 @@ Als klassisches Beispiel ist die
 
 :::{figure} /Bilder/WikipediaCcBySa/SchulzVonThunVierOhrenModell-edited.\*
 Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von
-Thun {term}`🕮 Thun 1981`
+Thun {term}`🗎 Thun 1981`
 
 ₢ User "Mussklprozz" auf Wikipedia, modifiziert
 {term}`ℓ CC BY-SA 3.0`

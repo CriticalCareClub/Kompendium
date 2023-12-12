@@ -31,7 +31,7 @@ Eine {dfn}`Verbrühung`
 {index}`\ <! scald>`
 (*Lat.* *Ambustio* (*Amb.*), *engl.* scald)
 ist eine thermische Schädigung durch heiße Flüssigkeit
-oder Dampf[^footnote-1] {term}`🕮 Pschyrembel 259`.
+oder Dampf[^footnote-1] {term}`🗎 Pschyrembel 259`.
 :::
 
 Verbrennungen reichen von kleinen Brandblasen bis
@@ -338,7 +338,7 @@ allmählich.
     Bei großflächigen Verbrennungen können,
     wenn das sterile Material nicht ausreicht,
     zur Not auch saubere Leintücher o. ä.
-    verwendet werden {term}`🕮 AAOS 9`,.
+    verwendet werden {term}`🗎 AAOS 9`,.
   - Schockbekämpfung
   - *Kolloidale* Infusionslösungen sind *kontraindiziert\** [^kolloidalelsgverbrennung]**!**
 
@@ -346,15 +346,15 @@ allmählich.
 
 ## Was man **nicht** tun darf …
 
-- NEIN: Salbe, Puder, etc. auf frische Brandwunde ({term}`🕮 AAOS 9`,; {term}`🕮 PHTLS 6`)
+- NEIN: Salbe, Puder, etc. auf frische Brandwunde ({term}`🗎 AAOS 9`,; {term}`🗎 PHTLS 6`)
 - NEIN: Blasen öffnen {cite}`AAOS:9`
 - NEIN: festklebende Kleidung gewaltsam entfernen
 
-{term}`🕮 TertialeNotfallIntensivmed 1`
-{term}`🕮 Kamolz 2009`
+{term}`🗎 TertialeNotfallIntensivmed 1`
+{term}`🗎 Kamolz 2009`
 [^cite_verbrennungsmed-2009praehosp]
-{term}`🕮 Loennecker 2001`
-{term}`🕮 Beneker 2004`
+{term}`🗎 Loennecker 2001`
+{term}`🗎 Beneker 2004`
 
 (inhalationstrauma)=
 

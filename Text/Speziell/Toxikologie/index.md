@@ -200,7 +200,7 @@ Der Alkoholentzug und das Entzugsdelir wird unter
 - Anämie
 - Pankreatitis
 - Fetales Alkoholsyndrom (Schädigung des Fötus in der Schwangerschaft)
-  {term}`🕮 Jones 1973` {term}`🕮 Guerri 2009`
+  {term}`🗎 Jones 1973` {term}`🗎 Guerri 2009`
 
 ## Vergiftungen durch Medikamente
 
@@ -375,7 +375,7 @@ durch Schwitzen viel Flüssigkeit verliert.
     symptomatische Therapie
   - {{ TxBeiVit }} {{ TxMassVitMK }}
 
-{term}`🕮 Supady 2009`
+{term}`🗎 Supady 2009`
 
 ## Gase
 

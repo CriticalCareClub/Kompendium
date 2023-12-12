@@ -262,5 +262,4 @@ zu Stande.
 >   den Fingern. Wer Probleme mit dem Stoffwechsel hat kann sauer
 >   oder basisch werden.
 
-{term}`🕮 AMLS 3`,
-{term}`🕮 AAOS 9`,
+

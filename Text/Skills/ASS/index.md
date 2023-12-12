@@ -550,4 +550,4 @@ Venenverhältnissen.
 
 ## Literatur
 
-{term}`🕮 ArbeitstechnikenAZ 1`
+{term}`🗎 ArbeitstechnikenAZ 1`

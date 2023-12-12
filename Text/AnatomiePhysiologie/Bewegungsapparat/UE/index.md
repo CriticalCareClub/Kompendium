@@ -263,7 +263,7 @@ Jeweils zwei Kreuzbänder, Seitenbänder sowie Menisken sorgen
 für die Stabilität in diesem Gelenk[^kniegelenkbaender].
 Weiters sorgt die
 *Patella* (*Kniescheibe*)  für eine bessere Kraftübertragung des
-Kniestreckers. {term}`🕮 Petersen 1` {term}`🕮 Mueller 1` {term}`🕮 Schabus 1`
+Kniestreckers. {term}`🗎 Petersen 1` {term}`🗎 Mueller 1` {term}`🗎 Schabus 1`
 
 Durch die Beteiligung der
 **Menisken**[^kniegelenkmenisken] (Gelenkskörper) ist das Kniegelenk

@@ -714,7 +714,7 @@ Grunderkrankungen sind im Folgenden aufgeführt:
 - *Infektionen*
 - *Entzug*: Entzug von Alkohol oder anderen Drogen
 
-[^fallberichtsupady]: Fallbericht: *Gamma-Butyrolacton-Entzugsdelir mit Rhabdomyolyse und dialysepflichtiger Niereninsuffizienz* {term}`🕮 Supady 2009`
+[^fallberichtsupady]: Fallbericht: *Gamma-Butyrolacton-Entzugsdelir mit Rhabdomyolyse und dialysepflichtiger Niereninsuffizienz* {term}`🗎 Supady 2009`
 
 (krampfanfall-fokaler)=
 

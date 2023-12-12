@@ -32,7 +32,7 @@
     **Wirkungs auf den AV-Knoten**:
     der Klasse-IV-Effekt kann zu einer *Verlangsamung der Erregungsleitung* durch sinu-atriale und *AV-Knoten* führen!
 
-    :term:`🕮 FI AmiodaronHameln 2020`
+    :term:`🗎 FI AmiodaronHameln 2020`
 
 :Indikation(en):
     -   Atriale Arrhythmien, einschließlich Vorhofflimmern und -flattern
@@ -47,7 +47,7 @@
     -   Ventrikuläre Arrhythmien,
         inkl. ventrikuläre Tachykardie oder Kammerflimmern
 
-    :term:`🕮 FI AmiodaronHameln 2020`
+    :term:`🗎 FI AmiodaronHameln 2020`
 
 :℞ Dosierungen:
 
@@ -87,7 +87,7 @@
     -   Kinder: Off-label.
         Für Neugeborene i.v. kontraindiziert (Benzylalkohol)
 
-    :term:`🕮 FI AmiodaronHameln 2020`
+    :term:`🗎 FI AmiodaronHameln 2020`
 
 :Kontraindikation(en):
     Reanimation: keine, sonst:
@@ -132,7 +132,7 @@
         Dadurch entfällt die bremsende Wirkung der AV-Überleitung und es kann zu einer ungebremsten Überleitung vom Vorhof in die Kammer und in Folge zu einem therapierefraktären Kammerflimmern kommen.
         Ziehe alternativ :ref:`Ajmalin <Ajmalin>` in Betracht.
 
-    :term:`🕮 FI AmiodaronHameln 2020`
+    :term:`🗎 FI AmiodaronHameln 2020`
 
 
 :Pharmakokinetik:
@@ -154,7 +154,7 @@
 
     Inhibitor von CYP1A1, CYP1A2, CYP3A4, CYP2C9, CYP2D6 und P-Glykoprotein.
 
-    :term:`🕮 FI AmiodaronHameln 2020`
+    :term:`🗎 FI AmiodaronHameln 2020`
 
 
 
@@ -167,7 +167,7 @@
     -   Hypokaliämie, Hypomagnesiämie:
         Diuretika, systemische Kortikosteroide, Tetracosactid, Amphotericin B (i.v.).
 
-    :term:`🕮 FI AmiodaronHameln 2020`
+    :term:`🗎 FI AmiodaronHameln 2020`
 
 :Intoxikation:
     Übelkeit, Erbrechen, Obstipation, Schwitzen, Bradykardie, Verlängerung des QT-Intervalls.
@@ -177,14 +177,14 @@
 
     Nicht dialysierbar.
 
-    :term:`🕮 FI AmiodaronHameln 2020`
+    :term:`🗎 FI AmiodaronHameln 2020`
 
 .. rubric:: Quellen
 
-:term:`🕮 FI AmiodaronHameln 2020`
+:term:`🗎 FI AmiodaronHameln 2020`
 ```
 
 ```{rubric} Quellen
 ```
 
-{term}`🕮 FI AmiodaronHameln 2020`
+{term}`🗎 FI AmiodaronHameln 2020`

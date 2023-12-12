@@ -1,7 +1,7 @@
 # Terminologie
 
 Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung
-mit anderem Fachpersonal. {term}`🕮 Bertelsmann 25` {term}`🕮 Pschyrembel 259`
+mit anderem Fachpersonal. {term}`🗎 Bertelsmann 25` {term}`🗎 Pschyrembel 259`
 
 ## Allgemeine Begriffe: Klinik – Diagnose – Therapie
 
@@ -132,7 +132,7 @@ mit anderem Fachpersonal. {term}`🕮 Bertelsmann 25` {term}`🕮 Pschyrembel 25
 {index}`Base`
 
 : *Syn.* *Lauge*. Stoff, welcher Protonen aufnehmen kann.
-  Sie reagieren mit Säuren und bilden Salze. {term}`🕮 SchmuckChemie 1`
+  Sie reagieren mit Säuren und bilden Salze. {term}`🗎 SchmuckChemie 1`
 
 {index}`Enzym`
 
@@ -146,7 +146,7 @@ mit anderem Fachpersonal. {term}`🕮 Bertelsmann 25` {term}`🕮 Pschyrembel 25
 {index}`Säure`
 
 : Stoff, welcher Protonen abgeben kann. Sie reagieren mit Basen und
-  bilden Salze. {term}`🕮 SchmuckChemie 1`.
+  bilden Salze. {term}`🗎 SchmuckChemie 1`.
 
 ## Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 
@@ -154,7 +154,7 @@ mit anderem Fachpersonal. {term}`🕮 Bertelsmann 25` {term}`🕮 Pschyrembel 25
 
 : Fachgebiet zur Erkennung und Behandlung von Erkrankungen, welche
   ohne operative Maßnahmen zu gesundheitlichen Schäden oder dem Tod
-  führen würden {term}`🕮 Pschyrembel 259`. Man kann weitere Spezialgebiete
+  führen würden {term}`🗎 Pschyrembel 259`. Man kann weitere Spezialgebiete
   unterscheiden, z. B. Allgemeinchirurgie (Bauch), Gefäßchirurgie,
   Herzchirurgie, Thoraxchirurgie, Kinderchirurgie, Plastische
   Chirurgie etc. Daneben gibt es noch viele andere operative Fächer.
@@ -414,7 +414,7 @@ auf die betreffende Person (Patienten)!
 Im folgenden sind häufige (lateinische) Diagnosen bzw. Abkürzungen als
 Referenz angeführt, welche man häufig auf unfallchirurgischen
 Arztbriefen und Ambulanzprotokollen findet. Eine ausführliche
-Aufstellung findet sich in {term}`🕮 Lippert 4`.
+Aufstellung findet sich in {term}`🗎 Lippert 4`.
 Die Diagnosen werden durch {ref}`RichtungsLageangaben` ergänzt.
 
 ### Wund- und Verletzungsarten

@@ -9,7 +9,7 @@ geben; Die Vertrauensperson bzw. Eltern müssen unbebedingt in die
 Nach Möglichkeit soll das Kind während der Betreuung
 eng bei der Vertrauensperson belassen werden
 auf den Schoss setzen, …).
-{term}`🕮 LPN 3`
+{term}`🗎 LPN 3`
 
 (kind-besonderheiten)=
 
@@ -419,5 +419,5 @@ Siehe {ref}`kindesmisshandlung`.
 
 ## Literatur
 
-{term}`🕮 Lissauer 2007`
-{term}`🕮 ERC 2015 06`
+{term}`🗎 Lissauer 2007`
+{term}`🗎 ERC 2015 06`

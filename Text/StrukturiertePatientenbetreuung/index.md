@@ -34,11 +34,3 @@ Anamnese/index
 Uebergabe/index
 ```
 
-```{rubric} Literatur
-```
-
-{term}`🕮 AMLS 3`
-{term}`🕮 AAOS 9`,
-[^cite_campbell:2010:de]
-{term}`🕮 PHTLS 6`
-{term}`🕮 Sudowe 1`

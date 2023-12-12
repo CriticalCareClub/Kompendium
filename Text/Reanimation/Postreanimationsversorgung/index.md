@@ -98,7 +98,7 @@ Die Grundsätze des cerebroprotektiven Managements sollen situativ angemessen an
 Dem Post-Cardiac-Arrest-Syndrome sowie dessen Behandlung wird vermehrt
 Beachtung geschenkt. Strukturierte post-Resuscitation-Protokolle erhöhen
 die Überlebenswahrscheinlichtkeit und werden zunehmend implementiert.
-[^cite_erc:2015:05:de] {term}`🕮 ERC 2015 05`
+[^cite_erc:2015:05:de] {term}`🗎 ERC 2015 05`
 
 ```{index} pair: Reanimation; Ende
 ```
@@ -114,7 +114,7 @@ Grundsätzlich wird eine Reanimation fortgesetzt,
 solange Kammerflimmern oder ein ähnlicher Rhythmus vorliegt.
 Es ist weitgehend akzeptiert, eine Reanimation abzubrechen,
 wenn trotz aller ALS-Maßnahmen und Fehlen von reversiblen Ursachen
-für 20 Minuten eine Asystolie besteht {term}`🕮 Bonnin 1993` {term}`🕮 ERC 2021 12`.
+für 20 Minuten eine Asystolie besteht {term}`🗎 Bonnin 1993` {term}`🗎 ERC 2021 12`.
 
 Gewisse Bedingungen, etwa eine Hypothermie zum
 Zeitpunkt des Kreislaufstillstands, steigern die Chancen der Wieder-
@@ -124,7 +124,7 @@ herstellung ohne neurologische Schäden, sodass normale Prognosekriterien
 
 Abgesehen von den rein medizinischen Faktoren, welche vor allem den zu
 erwartenden Reanimationserfolg im Blick haben, gibt es auch noch andere
-Umstände, welche Einfluss auf die Entscheidung haben {term}`🕮 ERC 2021 12`.
+Umstände, welche Einfluss auf die Entscheidung haben {term}`🗎 ERC 2021 12`.
 Besonders berücksichtigenswert ist der mutmaßliche oder vorab geäußerte
 Patientenwille, z. B. im Rahmen einer verbindlichen oder beachtlichen
 {ref}`Patientenverfügung <Patientenverfuegung>`.

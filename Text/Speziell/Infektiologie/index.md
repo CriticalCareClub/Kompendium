@@ -54,7 +54,7 @@ kommen, z. B. Spanische Grippe (1918, 25 Mio Tote), Asiatische Grippe
 
 In Österreich erkranken pro Jahr ca. 380.000 Personen an der Influenza,
 ca. 4 500 Personen müssen stationär behandelt werden und ca. 120
-Personen sterben an den Folgen {term}`🕮 Strauss 0000`.
+Personen sterben an den Folgen {term}`🗎 Strauss 0000`.
 
 #### Symptome
 
@@ -93,7 +93,7 @@ Impfung hat einen schlechten Ruf,
 da Geimpfte häufig über Impfreaktionen
 wie leichtes Fieber oder leichte Verkühlungen ein paar Tage nach der Impfung klagen.
 
-{term}`🕮 Gallaher 2009` {term}`🕮 Cutler 2009` {term}`🕮 Peiris 2009` {term}`🕮 Wolf 2009`
+{term}`🗎 Gallaher 2009` {term}`🗎 Cutler 2009` {term}`🗎 Peiris 2009` {term}`🗎 Wolf 2009`
 
 #### Schweinegrippe, Vogelgrippe
 
@@ -478,7 +478,7 @@ Verhältnisse) kann es dann zu einer Infektion kommen. Der Erreger
 produziert einen Giftstoff (Toxin), welches einen tonischen Krampf der
 Skelettmuskulatur auslöst.
 Die Inkubationszeit beträgt ca. 4–21 Tage.
-Erste Vorzeichen sind Müdigkeit und Inappetenz. {term}`🕮 HahnMikrobio 6`
+Erste Vorzeichen sind Müdigkeit und Inappetenz. {term}`🗎 HahnMikrobio 6`
 
 [^footnote-5]: Sporen von *Clostridium tetani*
 
@@ -708,7 +708,7 @@ bzw. die auf eine Ebola-Viruserkrankung untersucht werden sollen.
 - *Bestätigter Fall*: Eine Person, auf die die Laborkriterien
   zutreffen.
 
-{term}`🕮 BmgEbolaFalldefinition 20141028` {term}`🕮 BmgEbolaFactsheet 20141103`
+{term}`🗎 BmgEbolaFalldefinition 20141028` {term}`🗎 BmgEbolaFactsheet 20141103`
 
 Eine aktualisierte Liste der betroffenen Gebiete ist auf der BMG- und
 ECDC-Website verfügbar unter:

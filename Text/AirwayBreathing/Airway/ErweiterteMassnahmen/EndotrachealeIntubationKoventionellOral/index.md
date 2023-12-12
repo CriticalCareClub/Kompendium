@@ -626,7 +626,7 @@ der Luftröhre zu bestätigen.
 ```{rubric} Literatur
 ```
 
-{term}`🕮 ArbeitstechnikenAZ 1`
+{term}`🗎 ArbeitstechnikenAZ 1`
 
 ```{index} single: Airtraq™ single: Videolaryngoskop; Airtraq™
 ```

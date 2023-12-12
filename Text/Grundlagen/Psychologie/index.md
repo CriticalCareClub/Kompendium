@@ -31,7 +31,7 @@ daraus resultierenden Belastungen eingegangen.
 
 Unter dem Begriff {dfn}`Beanspruchung` versteht man in der
 Technik *"die Auswirkung einer äußeren Belastung auf das Innere eines
-Körpers bzw. eines Werkstoffes"*{term}`🕮 WP Beanspruchung 2013`.
+Körpers bzw. eines Werkstoffes"*{term}`🗎 WP Beanspruchung 2013`.
 Mechanische Beanspruchung
 ist also durch die Ausbildung von mechanischen Spannungen
 gekennzeichnet. Analog dazu kann man psychische Beanspruchung als die
@@ -69,7 +69,7 @@ Tragen kommen und sollen im Folgenden besprochen werden.
 
 Belastungsfaktoren kann man in die Bereiche Aufgabenstruktur, Rollen-
 und Interaktionsstruktur einteilen.
-{term}`🕮 Bengel 2`
+{term}`🗎 Bengel 2`
 
 #### Aufgaben
 
@@ -250,9 +250,9 @@ Demzufolge lässt sich dem *sozialen Zusammenhalt* im Rettungsdienst
 für die erfolgreiche Bewältigung der
 Aufgaben eine hohe Bedeutung zuschreiben.
 
-[^footnote-1]: Gigsby & Mc New, 1988; zitiert nach {term}`🕮 Bengel 2`
+[^footnote-1]: Gigsby & Mc New, 1988; zitiert nach {term}`🗎 Bengel 2`
 
-[^footnote-2]: Udris, 1981: zitiert nach {term}`🕮 Bengel 2`
+[^footnote-2]: Udris, 1981: zitiert nach {term}`🗎 Bengel 2`
 
 ## Stress: Ursachen und Einflussfaktoren der Stressentstehung
 
@@ -264,7 +264,7 @@ Aufgaben eine hohe Bedeutung zuschreiben.
 {dfn}`Stress` ist die *Summe körperlicher und psychischer Reaktionen*,
 die durch die Wahrnehmung bestimmter *Reize*
 in unserer Umwelt
-bzw. innerhalb einer Person ausgelöst werden können. {term}`🕮 Zimbardo 6`
+bzw. innerhalb einer Person ausgelöst werden können. {term}`🗎 Zimbardo 6`
 
 Das Phänomen Stress kann als Summe der Reaktionen auf die bewusste
 und/oder unbewusste Wahrnehmung äußerer Umweltreize oder
@@ -390,7 +390,7 @@ auf den Stressor ermöglichen soll, solange Ressourcen vorhanden
 sind. [^footnote-5]
 
 [^footnote-5]: Allgemeines Adaptationssyndrom: Das Allgemeine Adaptationssyndrom
-    (Von Selye postuliert, zitiert nach {term}`🕮 Zimbardo 6` ) ist als eine
+    (Von Selye postuliert, zitiert nach {term}`🗎 Zimbardo 6` ) ist als eine
     komplexe Antwort des Körpers zu verstehen, wenn die Homöostase des
     Organismus durch Stressoren wie z. B. Gefahr, Lebensbedrohung,
     Belästigung etc. gestört wird. Es gliedert sich in drei Phasen:
@@ -771,8 +771,8 @@ Im Folgenden werden zwei unterschiedliche Abgrenzungsversuche dargestellt:
   Diese betonen die Relevanz von sozialen, Arbeits- und Organisations-Bedingungen
   und sehen die Entstehungsgründe für Burnout im emotional beanspruchenden
   und erschöpfenden Umgang mit Menschen. [^footnote-13]
-  {term}`🕮 Maslach 1982`
-  {term}`🕮 Frieling 2`
+  {term}`🗎 Maslach 1982`
+  {term}`🗎 Frieling 2`
   \[Bergner:9\]
 
   - Sozialer Stress: Interaktion mit Patienten, Überforderung im
@@ -812,7 +812,7 @@ Im Folgenden werden zwei unterschiedliche Abgrenzungsversuche dargestellt:
 [^footnote-13]: *"Burnout ist ein Syndrom emotionaler Erschöpfung,
     Depersonalisierung und reduzierter persönlicher Leistungsfähigkeit,
     das bei Individuen, die in irgendeiner Weise mit Menschen arbeiten,
-    auftreten kann"* {term}`🕮 Maslach 1984`
+    auftreten kann"* {term}`🗎 Maslach 1984`
 
 ##### Symptome
 
@@ -883,7 +883,7 @@ Symptomen bemerkbar machen. Man kann unterscheiden [^footnote-14]:
   arbeiten und das Arbeiten zum wichtigsten Lebensinhalt machen,
   extremes Engagement für ein bestimmte Ziel/bestimmte Ziele.
 
-[^footnote-14]: nach Schaufeli (1992), zitiert nach {term}`🕮 Burisch 2006`
+[^footnote-14]: nach Schaufeli (1992), zitiert nach {term}`🗎 Burisch 2006`
 
 #### Traumafolgestörungen
 
@@ -1162,7 +1162,7 @@ Anzeichen einer Sekundärtraumatisierung sind
 
 **Stressbewältigung**
 ({dfn}`Coping`)
-ist der *"Prozess der Handhabung jener externen oder internen Anforderungen, die vom Individuum als die eigenen Ressourcen beanspruchend oder übersteigend bewertet werden"*. {term}`🕮 Lazarus 1984`
+ist der *"Prozess der Handhabung jener externen oder internen Anforderungen, die vom Individuum als die eigenen Ressourcen beanspruchend oder übersteigend bewertet werden"*. {term}`🗎 Lazarus 1984`
 Bei *Copingstrategien* handelt
 es sich um alle *kognitiven, emotionalen und behaviouralen
 Anstrengungen*, die dazu dienen *Belastung und Stress zu
@@ -1228,7 +1228,7 @@ Fähigkeiten zu erweitern.
 
 #### Arten von Coping
 
-Folgende Arten von Coping lassen sich unterscheiden {term}`🕮 Zimbardo 6`:
+Folgende Arten von Coping lassen sich unterscheiden {term}`🗎 Zimbardo 6`:
 
 - *Problemorientiertes Coping* Dieses umfasst alle Strategien des
   direkten Umgangs mit dem Stressor, d. h. hier versucht der Betroffene
@@ -1284,7 +1284,7 @@ D. h. er sieht nicht Herausforderung, Bedrohung oder Schädigung,
 sondern das Erleben von Verlust als zentrale Eigenschaft von
 Stress. [^footnote-16]
 
-[^footnote-16]: Die *Theorie von Hobfoll* (zitiert nach {term}`🕮 Starke 2000`) stellt eine
+[^footnote-16]: Die *Theorie von Hobfoll* (zitiert nach {term}`🗎 Starke 2000`) stellt eine
     modernere Alternative zu der Theorie von Lazarus dar bzw. kann auch
     als deren Komplement angesehen werden. Sie stellt nicht die
     Einschätzungen/Bewertungsprozesse, sondern die Stressbewältigung und
@@ -1357,7 +1357,7 @@ Ressourcen/Schutzfaktoren.*
 ### Das Konzept des Kohärenzgefühls
 
 Unter dem Begriff Kohärenzgefühl versteht
-Antonovsky {term}`🕮 Antonovsky Salutogenese`
+Antonovsky {term}`🗎 Antonovsky Salutogenese`
 eine *globale Orientierung*,
 die ausdrückt,
 in welchem Ausmaß man ein durchdringendes,
@@ -1455,7 +1455,7 @@ durchzuführenden Maßnahmen nicht mehr als durchaus positiv bewertete
 Herausforderung, sondern eher negativ, d. h. als eine Belastung bzw.
 Überforderung erlebt werden.
 
-[^footnote-17]: Ungerer (1999), zitiert nach {term}`🕮 Karutz 2009`
+[^footnote-17]: Ungerer (1999), zitiert nach {term}`🗎 Karutz 2009`
 
 ### Indikation der psychologischen Selbsthilfe
 
@@ -1476,7 +1476,7 @@ Die folgenden beschriebenen Strategien sollen vorwiegend darauf
 abzielen, *"die Handlungsfähigkeit eines Helfers in einer absoluten
 Ausnahmesituation und nur für eine relativ kurze Zeit aufrecht zu
 erhalten"* und dienen nicht generelle als langfristige Methoden zur
-Stressbewältigung {term}`🕮 Karutz 2009` .
+Stressbewältigung {term}`🗎 Karutz 2009` .
 
 #### Einstellung
 
@@ -1519,13 +1519,13 @@ zugestehen, dass dies in einigen Fällen nun einmal nicht ausreicht: 70
 bis 95 Prozent der Reanimationsversuche enden beispielsweise erfolglos,
 so sehr man sich dies sicherlich anders wünschen würde"* [^footnote-22].
 
-[^footnote-19]: Ungerer, 1999 zitiert nach {term}`🕮 Karutz 2009`
+[^footnote-19]: Ungerer, 1999 zitiert nach {term}`🗎 Karutz 2009`
 
-[^footnote-20]: Lasogga & Karutz 2005, zitiert nach {term}`🕮 Karutz 2009`
+[^footnote-20]: Lasogga & Karutz 2005, zitiert nach {term}`🗎 Karutz 2009`
 
-[^footnote-21]: Karutz et al., 2003 zitiert nach {term}`🕮 Karutz 2009`
+[^footnote-21]: Karutz et al., 2003 zitiert nach {term}`🗎 Karutz 2009`
 
-[^footnote-22]: Baskett, Stehen & Bossaert, 2006, zitiert nach {term}`🕮 Karutz 2009`
+[^footnote-22]: Baskett, Stehen & Bossaert, 2006, zitiert nach {term}`🗎 Karutz 2009`
 
 #### Bewertung von Stress und Angst
 
@@ -1544,7 +1544,7 @@ evolutionär verankertes Frühwarnsystem dar, das Wachsamkeit und Vorsicht
 fördert und daher nicht generell als negativ bewertet werden sollte,
 sofern sie nicht lähmend wirkt.
 
-[^footnote-23]: Lasogga & Karutz 2005, zitiert nach {term}`🕮 Karutz 2009`
+[^footnote-23]: Lasogga & Karutz 2005, zitiert nach {term}`🗎 Karutz 2009`
 
 #### Kurzfristige Strategien
 
@@ -1566,9 +1566,9 @@ ABC der Reanimation, die einzelnen Phasen der Traumaversorgung oder die
 Abarbeiten von Checklisten oder Algorithmen: Je mehr diese in der
 Ausbildung verinnerlicht worden sind, umso eher werden sie auch in einer
 Stresssituation noch angewendet bzw. automatisiert abgerufen werden
-können"* {term}`🕮 Karutz 2009` .
+können"* {term}`🗎 Karutz 2009` .
 
-[^footnote-24]: Karutz , 2003 zitiert nach {term}`🕮 Karutz 2009`
+[^footnote-24]: Karutz , 2003 zitiert nach {term}`🗎 Karutz 2009`
 
 ##### Mentale Vorbereitung, Alternativen planen ("Plan B")
 
@@ -1576,7 +1576,7 @@ Gemeint ist damit, alternative Handlungsmöglichkeiten zu überlegen bzw.
 vorauszuplanen, eine Art Spickzettel mit möglichen Handlungen, die sich
 auch dann noch ausführen lassen, wenn alle andere Interventionen bereits
 ausgeschöpft wurden, um das Gefühl der Handhabbarkeit zu fördern. Ein
-solcher persönlicher Notfallplan kann laut {term}`🕮 Karutz 2009`  vor möglichen
+solcher persönlicher Notfallplan kann laut {term}`🗎 Karutz 2009`  vor möglichen
 Gefühlen der Hilflosigkeit und Ohnmacht schützen, er führt folgende
 Beispiele an:
 
@@ -1598,7 +1598,7 @@ Beispiele an:
 Wie aus dem transaktionalen Stressmodell ableiten lässt stellen
 Bewertungsprozesse bei der Verarbeitung von Stress einen wesentlichen
 Faktor dar: Dies lässt sich auch auf Notfallsituationen anwenden, im
-Sinn eines positiven Umdeutens {term}`🕮 Bengel 2` durch
+Sinn eines positiven Umdeutens {term}`🗎 Bengel 2` durch
 problemschwächende Interpretationen
 (z. B. "Eine solche Verletzung ist
 beim heutigen Stand der Medizin doch kein Problem mehr")
@@ -1619,7 +1619,7 @@ Trost zu spenden (*"Jeder macht mal Fehler"*) kann helfen
 *"impulsive Reaktionen zu
 unterdrücken \[...\], die eigene Aufmerksamkeit und Konzentration auf eine
 Aufgabe zu richten und Frustration und Misserfolg zu kontrollieren"*
-{term}`🕮 Bengel 2` .
+{term}`🗎 Bengel 2` .
 
 ```{eval-rst}
 .. todo:: !!! A !!!Gedankenstopp - Imagination: Damit ist gemeint, dass man die eigene Phantasie nutzt und sich hilfreiche Dinge vorstellt. Wer seine Rettungsdienstjacke bewusst anzieht und zuknöpft, kann sich z. B. gedanklich ausmalen, dass die Jacke – wie eine Rüstung oder eine Art Panzerung – auch einen psychischen Schutz bewirkt. Ebenso denkbar ist die Vorstellung eines unsichtbaren Helfers oder Beschützers. In diesem Zusammenhang können durchaus auch religiöse Vorstellungen hilfreich sein. Sich aufdrängende negative Gedanken lassen sich mit der Technik des Gedankenstopps unterbrechen. Auch dabei handelt es sich letztlich um ein imaginatives Verfahren.
@@ -1641,7 +1641,7 @@ Zu den materiellen Ressourcen gehört
 die persönliche Schutzausrüstung, aber auch die Ausstattung des
 Einsatzfahrzeuges.
 Im günstigsten Fall kann man sich sagen:
-*"Ich bin gut gerüstet, jetzt kann es losgehen!"* {term}`🕮 Karutz 2009` .
+*"Ich bin gut gerüstet, jetzt kann es losgehen!"* {term}`🗎 Karutz 2009` .
 
 *Zeitliche Grenzen verdeutlichen*: Einsätze haben einen zeitlichen
 Rahmen, d. h. sie haben einen Beginn, aber ebene auch bei komplexeren
@@ -1650,14 +1650,14 @@ Einsätzen (selbst Großschadenslagen) – ein Ende.
 Einsätze \[…\] innerhalb weniger Stunden abgeschlossen. Man ist den
 jeweiligen Belastungen also nicht ewig, sondern lediglich für einen
 definierten Zeitraum ausgesetzt. Dies sollte man sich bewusst vor Augen
-führen"* {term}`🕮 Karutz 2009` .
+führen"* {term}`🗎 Karutz 2009` .
 
 *Zusätzliche Stressoren meiden*:
 Wenn die Belastung durch das Notfallgeschehen ohnehin schon spürbar hoch ist,
 gilt es zusätzliche Belastungsfaktoren zu minimieren
 bzw. auszuweichen um das Erregungsniveau auf angenehmen
 bzw. leistungsfähigem Level zu halten.
-{term}`🕮 Karutz 2009` prägt hier den Begriff der "hilfreiche Langsamkeit",
+{term}`🗎 Karutz 2009` prägt hier den Begriff der "hilfreiche Langsamkeit",
 d. h. "gerade wenn man es eilig hat,
 eben nicht wie bei einem sportlichen Wettkampf zu rennen",
 zum Einsatzort zu "rasen",
@@ -1678,7 +1678,7 @@ auf neuerliche Stresssituationen vorzubereiten. Während der Relaxation
 werden Entspannungsreaktionen eingeleitet, die komplementär zur
 Stressreaktion von physiologischen Prozessen begleitet werden, nämlich
 dem Sinken der Muskelspannung, der kortikalen Aktivität, der
-Herzfrequenz, des Blutdrucks und der Atmung {term}`🕮 Zimbardo 6` . Auf
+Herzfrequenz, des Blutdrucks und der Atmung {term}`🗎 Zimbardo 6` . Auf
 psychischer Ebene werden Wohlbefinden, Zufriedenheitsgefühle, Gefühle
 der Gelassenheit sowie Selbstwahrnehmung gefördert. Unterstützt kann
 dies durch div. Entspannungstechniken (progressiven Muskelrelaxation,
@@ -1707,7 +1707,7 @@ ist, sie durch gezielte Selbstbeobachtung
 (in sich hören, Körperwahrnehmung)
 zu identifizieren, innerlich zuzulassen und im
 Idealfall auch auszudrücken.
-Bengel {term}`🕮 Bengel 2` betont,
+Bengel {term}`🗎 Bengel 2` betont,
 dass gereizte-aggressive unkontrollierte Emotionsäußerungen ineffektiv
 sind und es wichtig wäre "unangenehme Gefühle in einer kontrollierten
 und für die Umwelt sozial verträglichen Art und Weise abzureagieren".
@@ -1737,7 +1737,7 @@ konditionierter Reiz wird.
 
 ##### Unterstützung durch die Umwelt
 
-Zimbardo {term}`🕮 Zimbardo 6`  verweist auf die Bedeutung sozialer
+Zimbardo {term}`🗎 Zimbardo 6`  verweist auf die Bedeutung sozialer
 Unterstützung bei der Stressbewältigung und meint damit *"Ressourcen,
 die von anderen Personen bereitgestellt werden \[...\]"*. Beispielhaft
 zählt er materielle Hilfen, emotionale Unterstützung (Fürsorge,
@@ -1799,45 +1799,45 @@ Freizeit- und Erholungsphasen.
 ```
 
 % LaTeX-Quellen:
-% %:term:`🕮 AntonovskySalutogenese` \ :
+% %:term:`🗎 AntonovskySalutogenese` \ :
 % % \bibentry{AntonovskySalutogenese} \\
 % % % Antonovsky, A. (1997). Salutogenese: zur
 % % % Entmystifizierung der Gesundheit. Dt. erw. Hrsg. von Alexa Franke. Deutsche
 % % % Gesllschaft für Verhaltenstherapie. Tübingen: Dgvt-Verl.
 % %
-% %:term:`🕮 Bengel 2` \ :
+% %:term:`🗎 Bengel 2` \ :
 % % \bibentry{BengelPsyNotfallmedRd2-PsyBelRdPers} \\
 % % % Bengel, J. \& Heinrichs, M. (2004). Psychische
 % % % Belastungen des Rettungspersonals. In J. Bengel (Hrsg.), Psychologie in
 % % % Notfallmedizin und Rettungsdienst (2. Auflage; S. 25-43).
 % % % Berlin: Springer.
 % %
-% %:term:`🕮 Bergner 9` \ :
+% %:term:`🗎 Bergner 9` \ :
 % % \bibentry{BergnerBurnOutAerzten9} \\
 % % % Bergner, Thomas (2004). Burn-out bei Ärzten:
 % % % Lebensaufgabe statt Lebens-Aufgabe, 9,  S. 410.
 % %
-% %:term:`🕮 Burisch 1994` \ : \bibentry{BurischBurnOut2} \\
+% %:term:`🗎 Burisch 1994` \ : \bibentry{BurischBurnOut2} \\
 % % % Burisch, M. (1994). Das Burnout-Syndrom – Theorie
 % % % der inneren Erschöpfung (2. Auflage). Berlin: Springer.
 % %
-% %:term:`🕮 Burisch 2006` \ : \bibentry{BurischBurnOut3} \\
+% %:term:`🗎 Burisch 2006` \ : \bibentry{BurischBurnOut3} \\
 % % % Burisch, M. (2006). Das Burnout Syndrom – Theorie
 % % % der inneren Erschöpfung (3., überarbeitete Auflage). Berlin:
 % % % Springer.
 % %
-% %:term:`🕮 DavisonKlinPsy 1988` \ : \bibentry{DavisonKlinPsy1988} \\
+% %:term:`🗎 DavisonKlinPsy 1988` \ : \bibentry{DavisonKlinPsy1988} \\
 % % % Davison, G. C. \& Neale, J. M. (1988): Klinische
 % % % Psychologie. 3. Auflage. München: PVU. Deutsches Institut
 % % % für Medizinische Dokumentation und Information (2011).
 % %
 % %[ICD10-De-2011]_ \
 % %
-% %:term:`🕮 Freudenberger 1974` \ : \bibentry{Freudenberger1974} \\
+% %:term:`🗎 Freudenberger 1974` \ : \bibentry{Freudenberger1974} \\
 % % % Freudenberger, H. J. (1974). Staff Burn-Out. Journal of
 % % % Social Issues, Vol. 30 (1), 159–165.
 % %
-% %:term:`🕮 Frieling 2` \ :
+% %:term:`🗎 Frieling 2` \ :
 % % \bibentry{FrielingLehrbArbeitspsy2} \\
 % % % Frieling E. \& Sonntag Kh. (1999). Lehrbuch
 % % % Arbeitspsychologie (2. vollst. überarb. Und erweiterte
@@ -1849,7 +1849,7 @@ Freizeit- und Erholungsphasen.
 % % % Theory, Research and Experiences (Vol. 3; S. 37-60), San
 % % % Diego: Academic Press.
 % %
-% %:term:`🕮 Karutz 2009` \ : \bibentry{Karutz200912} \\
+% %:term:`🗎 Karutz 2009` \ : \bibentry{Karutz200912} \\
 % % % Karutz, H. (2009). Wenn die Belastungsgrenze erreicht ist:
 % % % Psychologische Selbsthilfe in Extremsituationen.
 % % % Rettungsdienst, 12, 40-45.
@@ -1861,29 +1861,29 @@ Freizeit- und Erholungsphasen.
 % % % (Hrsg.), Stress, Theorien, Untersuchungen, Maßnahmen (S.
 % % % 213-260). Bern: Huber.
 % %
-% %:term:`🕮 Lazarus 1984` \ : \bibentry{LazarusStress} \\
+% %:term:`🗎 Lazarus 1984` \ : \bibentry{LazarusStress} \\
 % % % Lazarus, R.S. \& Folkman, S. (1984). Stress, appraisal, and
 % % % coping. New York: Springer.
 % %
-% %:term:`🕮 Maslach 1982` \ : \bibentry{MaslachBurnout} \\
+% %:term:`🗎 Maslach 1982` \ : \bibentry{MaslachBurnout} \\
 % % % Maslach, C. (1982). Burnout. The Cost of Caring. Englewood
 % % % Cliffs, NJ: Prentice-Hall.
 % %
-% %:term:`🕮 Maslach 1984` \ :
+% %:term:`🗎 Maslach 1984` \ :
 % % \bibentry{OskampAppSocPsyAnn84-BurnOrgSett} \\
 % % % Maslach, C. \& Jackson, S. E. (1984). Burnout in
 % % % organizational settings. In S. Oskamp (Hrsg.), Applied
 % % % Social Psychology Annual (S. 133-153). Beverly Hills, CA:
 % % % Sage.
 % %
-% %:term:`🕮 Niaura 2002` \ : \bibentry{Niaura2002} \\
+% %:term:`🗎 Niaura 2002` \ : \bibentry{Niaura2002} \\
 % % % Niaura, R., Todaro, J. F., Stroud, L., Spiro, A., Ward, K.
 % % % D., \& Weiss, S. (2002). Hostility, the metabolic syndrome,
 % % % and incident coronary heart disease. Health Psychology, Vol.
 % % % 21(6), 588-593.
 % %
 % %
-% %:term:`🕮 Starke 2000` \ : \bibentry{StarkeMedSozAspProbBew00} \\
+% %:term:`🗎 Starke 2000` \ : \bibentry{StarkeMedSozAspProbBew00} \\
 % % % Starke, D. (2000). Medizinsoziologie. Kognitive, emotionale
 % % % und soziale Aspekte menschlicher Problembewältigung: ein
 % % % Beitrag zur aktuellen Stressforschung. Münster: LIT.
@@ -1894,12 +1894,12 @@ Freizeit- und Erholungsphasen.
 % % % und Bewältigung: Trends in der Bewältigungsforschung (S.
 % % % 14—24). München: Juventa.
 % %
-% %:term:`🕮 Yerkes 1908` \ : \bibentry{Yerkes1908} \\
+% %:term:`🗎 Yerkes 1908` \ : \bibentry{Yerkes1908} \\
 % % % Yerkes, R.M. \& Dodson, J.D (1908). The relation of strength
 % % % of stimulus to rapidity of habit-formation. Journal of
 % % % Comparative Neurology and Psychology, 18, 459-482.
 % %
-% %:term:`🕮 Zimbardo 6` \ : \bibentry{ZimbardoPsych6} \\
+% %:term:`🗎 Zimbardo 6` \ : \bibentry{ZimbardoPsych6} \\
 % % % Zimbardo, G.  (1995). Psychologie (6. Auflage). Berlin:
 % % % Springer.
 % \cite{AntonovskySalutogenese,BengelPsyNotfallmedRd2-PsyBelRdPers,

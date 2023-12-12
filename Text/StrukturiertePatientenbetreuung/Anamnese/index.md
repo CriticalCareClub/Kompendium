@@ -611,10 +611,10 @@ bei der Bewertung des Patienten zu vergegenwärtigen.
 ```{rubric} Literatur
 ```
 
-{term}`🕮 Dahmer GF 5`
+{term}`🗎 Dahmer GF 5`
 
-{term}`🕮 FamPropAeGeFue 2010`
+{term}`🗎 FamPropAeGeFue 2010`
 
-{term}`🕮 Thun 1981`
+{term}`🗎 Thun 1981`
 
-{term}`🕮 Argelander 2009`
+{term}`🗎 Argelander 2009`

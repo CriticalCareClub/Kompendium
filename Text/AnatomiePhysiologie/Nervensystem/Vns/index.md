@@ -15,7 +15,7 @@
 Das {dfn}`vegetative Nervensystem`
 ist jener Teil des Nervensystems, welcher der Regelung der
 Vitalfunktionen dient und das Zusammenwirken der einzelnen Teile des
-Körpers gewährleistet {term}`🕮 Pschyrembel 259`.
+Körpers gewährleistet {term}`🗎 Pschyrembel 259`.
 :::
 
 Wichtige Körperfunktionen wie Herz-, Kreislauf-, Atmungs-,

@@ -46,6 +46,7 @@
 | 🔬             | 1F52C                           | Microscope                             |                                                                    |
 | 🕏             | 1f54f                           | Bowl of Hygieia                        | Pharmakotherapie                                                   |
 | 🕮             | 1F56E                           | Book                                   | Literaturreferenz                                                  |
+| 🗎 | 1F5CE | Paper | Literaturreferenz |
 | 🚑             | 1f691                           | Ambulance                              | den Rettungsdienst betreffend                                      |
 | 🞺             | 1f7ba                           | Star of Life                           | die Notfallmedizin allgemein betreffend                            |
 | 🦠             | 1F9A0                           | Microbe                                |                                                                    |

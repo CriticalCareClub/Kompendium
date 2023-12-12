@@ -59,7 +59,7 @@ im wesentlichen der
 gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen
 (Alveolen).
 Er beträgt beim Erwachsenen
-ca. 150 mL. {term}`🕮 Klinke 3`
+ca. 150 mL. {term}`🗎 Klinke 3`
 
 Bei der {ref}`Totraumventilation <Totraumventilation>`
 ist das Atemzugvolumen im Verhältnis zum Totraum zu gering,

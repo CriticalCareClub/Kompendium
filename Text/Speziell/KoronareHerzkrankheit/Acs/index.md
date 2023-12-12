@@ -27,7 +27,7 @@
 
 Basierend auf: [2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation](https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393) [^cite_esc-2017-guidelinesstemi]
 
-{term}`🕮 Damman 2017` {term}`🕮 ESC STEMI 2017`
+{term}`🗎 ESC NSTEMI 2015/16` {term}`♛ ESC STEMI 2017/18`
 
 ```{contents}
 ```
@@ -401,7 +401,7 @@ bzw. das geeignete Verfahren auswählen.
 Wichtiges Ziel in der MCI-Versorgung ist die Reduktion des
 *System Delay*.
 Daraus ergeben sich folgende logistische Empfehlungen
-{term}`🕮 ESC STEMI 2017` :
+{term}`♛ ESC STEMI 2017/18` :
 
 - Organisation regionaler STEMI Netzwerke
 - SOPs für Rettungsdienst und PCI-Zentren

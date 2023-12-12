@@ -91,9 +91,9 @@ Urtikarieller Ausschlag
 :::
 
 Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
-{ref}`Tafel-AnaphylaxieStadien` {term}`🕮 Ring 1977`.
+{ref}`Tafel-AnaphylaxieStadien` {term}`🗎 Ring 1977`.
 
-:::{list-table} Stadien der Anaphylaxie (nach {term}`🕮 Ring 1977`)
+:::{list-table} Stadien der Anaphylaxie (nach {term}`🗎 Ring 1977`)
 :header-rows: 1
 :name: Tafel-AnaphylaxieStadien
 :stub-columns: 1
@@ -231,7 +231,7 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
 
       Wenig Evidenz,
       aber zusätzliche Anwendung empfohlen,
-      da kaum zu erwartende Nebenwirkungen{term}`🕮 Winbery 2002` .
+      da kaum zu erwartende Nebenwirkungen{term}`🗎 Winbery 2002` .
 
   - Glukokortikoide
 
@@ -246,7 +246,7 @@ durch daraus resultierender Vasokonstriktion,
 Erniedrigung der Gefäßpermeabilität,
 Bronchodilatation
 und positive Inotropie am Herzen
-alle wichtigen Pathomechanismen der Anaphylaxie {term}`🕮 Anaphylaxie S2k 2021`.
+alle wichtigen Pathomechanismen der Anaphylaxie {term}`♛ S2k Anaphylaxie 2021`.
 Die intramuskuläre (i. m.-) Gabe ist die medikamentöse Therapie der ersten Wahl.
 [^imgabe]
 
@@ -293,11 +293,11 @@ nach Zufuhr hoher Glukokortikoiddosen
 wird diskutiert.
 Eine Behandlung mit Glukokortikoiden sollte erst *nach* Stabilisierung der Vitalfunktionen und lebensrettenden Sofortmaßnahmen
 (Sauerstoff-, Adrenalin-, Volumengabe) erfolgen.
-{term}`🕮 Anaphylaxie S2k 2021`
+{term}`♛ S2k Anaphylaxie 2021`
 
 ## Literatur
 
-{term}`🕮 Anaphylaxie S2k 2021`
+{term}`♛ S2k Anaphylaxie 2021`
 
 : Ring et al.:
   **Guideline (S2k) on acute therapy and management of anaphylaxis: 2021 update: S2k-Guideline** *of the German Society for Allergology and Clinical Immunology (DGAKI), the Medical Association of German Allergologists (AeDA), the Society of Pediatric Allergology and Environmental Medicine (GPA), the German Academy of Allergology and Environmental Medicine (DAAU), the German Professional Association of Pediatricians (BVKJ), the Society for Neonatology and Pediatric Intensive Care (GNPI), the German Society of Dermatology (DDG), the Austrian Society for Allergology and Immunology (ÖGAI), the Swiss Society for Allergy and Immunology (SGAI), the German Society of Anaesthesiology and Intensive Care Medicine (DGAI), the German Society of Pharmacology (DGP), the German Respiratory Society (DGP), the patient organization German Allergy and Asthma Association (DAAB), the German Working Group of Anaphylaxis Training and Education (AGATE).*

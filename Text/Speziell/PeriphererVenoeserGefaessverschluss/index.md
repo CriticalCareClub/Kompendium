@@ -250,5 +250,5 @@ kann eine Embolie auslösen.
 
       ```
 
-{term}`🕮 Scholz 2`
-{term}`🕮 IntroClinEmergMed 4`
+{term}`🗎 Scholz 2`
+{term}`🗎 IntroClinEmergMed 4`

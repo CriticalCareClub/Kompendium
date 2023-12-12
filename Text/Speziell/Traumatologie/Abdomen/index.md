@@ -91,7 +91,7 @@ Taktik
 
 Geschlossene Bauchtraumata sind aufgrund der inneren Blutungen besonders
 gefährlich. So kann es z. B. bei einer Milzruptur zu einem Blutverlust
-von 4 Liter kommen! {term}`🕮 Gorgass 7`
+von 4 Liter kommen! {term}`🗎 Gorgass 7`
 
 :::{attention}
 - Immer nach *Prellmarken* suchen. *Patienten entkleiden!*

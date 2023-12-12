@@ -110,7 +110,7 @@ Beim restlichen *Neuralrohr* lassen sich drei Zonen unterteilen:
 :::{admonition} Defintion
 Bewusstsein[^fnbewusstsein] ist ein Oberbegriff für u.a. Wachheit, Orientierung,
 Aufmerksamkeit, Auffassungsgabe, Denkverlauf und Merkfähigkeit
-{term}`🕮 Pschyrembel 259`.
+{term}`🗎 Pschyrembel 259`.
 :::
 
 Es ist eine grundlegende
@@ -130,4 +130,4 @@ zur Situation und zur Person). Details siehe {ref}`Bewusstseinsgrad`.
     Auch an dieser Stelle wird das Geheimnis nicht gelüftet
     werden,
     daher muss die obige Definition für den Alltag ausreichen.
-    Hinweisen zufolge könnte die Antwort eventuell "42" sein {term}`🕮 Adams 1996`.
+    Hinweisen zufolge könnte die Antwort eventuell "42" sein {term}`🗎 Adams 1996`.

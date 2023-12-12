@@ -6,7 +6,7 @@ Als {dfn}`Geschlechtsorgane` (*Genitale*) werden jene
 Organe bezeichnet, welche der Arterhaltung durch Bildung, Aufbewahrung
 und Weiterleitung von Keimzellen, der Durchführung des
 Geschlechtsverkehrs, der Befruchtung von Keimzellen sowie der
-Fruchtpflege bis zur Geburt dienen {term}`🕮 Pschyrembel 259`.
+Fruchtpflege bis zur Geburt dienen {term}`🗎 Pschyrembel 259`.
 
 Man unterscheidet:
 

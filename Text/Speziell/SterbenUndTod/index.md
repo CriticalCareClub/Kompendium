@@ -57,7 +57,7 @@ Man unterscheidet zwischen dem klinischen und dem biologischen Tod.
 ### Zeichen des Todes und Leichenzeichen
 
 Grundsätzlich gibt es Zeichen, die als *sichere Todeszeichen*
-gelten {term}`🕮 Hochmeister 2` {term}`🕮 Grassberger 1`:
+gelten {term}`🗎 Hochmeister 2` {term}`🗎 Grassberger 1`:
 
 1. *Bildung von blauvioletten Totenflecken* durch Absackung des Blutes
    an die untenliegenden Stellen.
@@ -287,5 +287,5 @@ Folgende Leitsätze können unter Umständen hilfreich sein:
   Sterbenden manche, sonst übliche, Ansichten nicht
   — oder nur eingschränkt — gelten.
 
-{term}`🕮 NagelePalliativ 1`
-{term}`🕮 Hochmeister 2`
+{term}`🗎 NagelePalliativ 1`
+{term}`🗎 Hochmeister 2`

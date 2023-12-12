@@ -33,6 +33,19 @@
   J Am Soc Echocardiogr 2013;26:921-64.
   http://dx.doi.org/10.1016/j.echo.2013.07.009
 
+♛ ESC NSTEMI 2020/21
+: **2020 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation.**
+  by J.-P. Collet et al.
+  *European heart journal*, 2021(42):1289-1367.
+  PMID: 32860058,
+  DOI: [10.1093/eurheartj/ehaa575](https://doi.org/10.1093/eurheartj/ehaa575)
+
+♛ ESC STEMI 2017/18
+: **2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).**
+  by B. Ibanez et al.
+  *European heart journal*, 2018(39):119-177.
+  PMID: 28886621,
+  DOI: [10.1093/eurheartj/ehx393](https://doi.org/10.1093/eurheartj/ehx393)
 
 ♛ ÖSG 2017 TXT
 : **Österreichischer Strukturplan Gesundheit, Textband**
@@ -53,9 +66,9 @@
   https://goeg.at/sites/goeg.at/files/inline-files/%C3%96SG_2017_-_Tabellenband%2C_Stand_07.10.2022.pdf
 
 ♛ S2k Anaphylaxie 2021
-: **Leitlinie zu Akuttherapie und Management der Anaphylaxie - Update 2021: S2k-Leitlinie der Deutschen Gesellschaft für Allergologie und klinische Immunologie (DGAKI)**, des Ärzteverbands Deutscher Allergologen (AeDA), der Gesellschaft für Pädiatrische Allergologie und Umweltmedizin (GPA), der Deutschen Akademie für Allergologie und Umweltmedizin (DAAU), des Berufsverbands der Kinder- und Jugendärzte (BVKJ), der Gesellschaft für Neonatologie und Pädiatrische Intensivmedizin (GNPI), der Deutschen Dermatologischen Gesellschaft (DDG), der Österreichischen Gesellschaft für Allergologie und Immunologie (ÖGAI), der Schweizerischen Gesellschaft für Allergologie und Immunologie (SGAI), der Deutschen Gesellschaft für Anästhesiologie und Intensivmedizin (DGAI), der Deutschen Gesellschaft für Pharmakologie (DGP), der Deutschen Gesellschaft für Pneumologie und Beatmungsmedizin (DGP), der Patientenorganisation Deutscher Allergie- und Asthmabund (DAAB) und der Arbeitsgemeinschaft Anaphylaxie - Training und Edukation (AGATE).
-  AWMF-Registernummer 061-025.
-  <https://register.awmf.org/de/leitlinien/detail/061-025>
+: **Leitlinie zu Akuttherapie und Management der Anaphylaxie - Update 2021: S2k-Leitlinie der Deutschen Gesellschaft für Allergologie und klinische Immunologie (DGAKI)**
+  by Deutsche Gesellschaft für Allergologie und klinische Immunologie (DGAKI) et al.
+  *AWMF*, 2021(061-025)   https://register.awmf.org/de/leitlinien/detail/061-025
 
 ♛ S2k PPH 2022
 : **S2k-Leitlinie Peripartale Blutungen, Diagnostik und Therapie**
@@ -69,66 +82,54 @@
 \normalsize
 :::
 
-## 🕮 Sonstige Literatur
+## 🗎 Sonstige Literatur
 
 :::{raw} latex
 \footnotesize
 :::
 {.glossary}
-🕮 AAOS 9
+🗎 AAOS 9
 : **Emergency Care and Transportation of the Sick and Injured.**
   by by AAOS  9th ed., 2006.
   Bartlett Publishers, Inc.
 
-🕮 Adams 1996
+🗎 Adams 1996
 : by Adams, Douglas
   **The Ultimate Hitchhiker’s Guide to the Galaxy.**
   1996\.
   Wings Books.
 
-🕮 ADR 2011
+🗎 ADR 2011
 : by Economic Commission for Europe, Committee on Inland Transport, ed. 2010.
   *European Agreement Concerning the International Carriage of Dangerous Goods by Road.* United Nations.
   <http://live.unece.org/trans/danger/publi/adr/adr2011/11contentse.html>.
 
-🕮 AMLS 3
-: by Dalton, Alice, Daniel Limmer and Joseph J. Mistovich:
-  2006. *Advanced Medical Life Support: by A Practical Approach to Adult Medical
-  Emergencies.* 3rd ed. Prentice Hall.
-
-🕮 Anaphylaxie S2k 2021
-: by Ring et al.
-  **Guideline (S2k) on acute therapy and management of anaphylaxis: by 2021 update: by S2k-Guideline** *of the German Society for Allergology and Clinical Immunology (DGAKI), the Medical Association of German Allergologists (AeDA), the Society of Pediatric Allergology and Environmental Medicine (GPA), the German Academy of Allergology and Environmental Medicine (DAAU), the German Professional Association of Pediatricians (BVKJ), the Society for Neonatology and Pediatric Intensive Care (GNPI), the German Society of Dermatology (DDG), the Austrian Society for Allergology and Immunology (ÖGAI), the Swiss Society for Allergy and Immunology (SGAI), the German Society of Anaesthesiology and Intensive Care Medicine (DGAI), the German Society of Pharmacology (DGP), the German Respiratory Society (DGP), the patient organization German Allergy and Asthma Association (DAAB), the German Working Group of Anaphylaxis Training and Education (AGATE).*
-  Allergo J Int. 2021;30(1):1-25.
-  doi: by 10.1007/s40629-020-00158-y. Epub 2021 Jan 28.
-  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7841027/>
-
-🕮 Antonovsky Salutogenese
+🗎 Antonovsky Salutogenese
 : **Salutogenese: by Zur Entmystifizierung der Gesundheit.**
   by Antonovsky, A.
   1997, Tübingen.
   Dgvt-Verl.
 
-🕮 Argelander 2009
+🗎 Argelander 2009
 : **Das Erstinterview in der Psychotherapie.**
   by Argelander, Hermann
   1\. Auflage, 2009.
   WBG – Wissenschaftliche Buchgesellschaft.
 
-🕮 Asai 2005
+🗎 Asai 2005
 : **The Laryngeal Tube.**
   by Asai, T. and K. Shingu.
   *Br J Anaesth*
   2005:95(6), 10-15, 729–36.
   doi:[10.1093/bja/aei269](https://doi.org/10.1093/bja/aei269).
 
-🕮 Battegay 2
+🗎 Battegay 2
 : by Battegay, Raymond, ed:
   1992.\*Handwörterbuch Der Psychiatrie.\*
   1\. Auflage,
   Ferdinand Enke Verlag.
 
-🕮 Bernhard 2012
+🗎 Bernhard 2012
 : **Developing the Skill of Endotracheal Intubation: by Implication for Emergency Medicine.**
   by Bernhard, M., S. Mohr, M. A. Weigand, E. Martin and A. Walther. 2012.
   *Acta Anaesthesiol Scand* 56 (2). Department of
@@ -136,38 +137,38 @@
   <mailto:michelbernhard@gmx.de>: by 164–71.
   doi:[10.1111/j.1399-6576.2011.02547.x](https://doi.org/10.1111/j.1399-6576.2011.02547.x).
 
-🕮 Beneker 2004
+🗎 Beneker 2004
 : **Die Präklinische Versorgung von Verbrennungspatienten.**
   by Beneker, J. und D. Martens.
   *Intensivmedizin Und Notfallmedizin*
   2004:41(8), 543–54.
   doi:[10.1007/s00390-004-0515-3](https://doi.org/10.1007/s00390-004-0515-3).
 
-🕮 Bengel 2
+🗎 Bengel 2
 : **Psychologie in Notfallmedizin Und Rettungsdienst.**
   by Bengel, J. (Hrsg.):
   2004\.
   2\. Auflage, 2004.
   3\. Springer.
 
-🕮 Bertelsmann 25
+🗎 Bertelsmann 25
 : **Bertelsmann Volkslexikon.**
   by Bertelsmann Lexikon-Redaktion.
   1\.  Auflage, 1964.
   Bertelsmann.
 
-🕮 Bergner 9
+🗎 Bergner 9
 : by Bergner, Thomas.
   **Burn-Out Bei Ärzten: by Lebensaufgabe Statt Lebens-Aufgabe**.
   9\. Auflage, 2004.
 
-🕮 Biergans Wundversorgung 2
+🗎 Biergans Wundversorgung 2
 : **Wundversorgung für die Pflege: Ein Praxisbuch.**
   by Anette Vasel-Biergans und Wiltrud Probst.
   2\. Auflage, 2011.
   Wissenschaftliche Verlagsgesellschaft Stuttgart.
 
-🕮 BmgEbolaFalldefinition 20141028
+🗎 BmgEbolaFalldefinition 20141028
 : by Bundesministerium für Gesundheit. 2014a.
   **EU-Falldefinition Einer
   Ebola-Viruserkrankung (Ebola Virus Disease - Evd).**
@@ -175,75 +176,67 @@
   für Gesundheit; online. October.
   <http://www.bmg.gv.at/cms/home/attachments/8/5/4/CH1082/CMS1412756859685/fall_definition_ebola.pdf>.
 
-🕮 BmgEbolaFactsheet 20141103
+🗎 BmgEbolaFactsheet 20141103
 : by 2014b. **Informationsblatt Zu Ebola.** Bundesministerium für
   Gesundheit; online. November.
   <http://www.bmg.gv.at/cms/home/attachments/2/1/6/CH1075/CMS1413795509746/ebola_factsheet.pdf>.
 
-🕮 Bonnin 1993
-: by Bonnin, M. J., P. E. Pepe, K. T. Kimball and P. S. Clark.
-  **Distinct Criteria for Termination of Resuscitation in the
-  Out-of-Hospital Setting.**
-  *JAMA*
-  1993:270(12), 1457–62.
+🗎 Bonnin 1993
+: **Distinct criteria for termination of resuscitation in the out-of-hospital setting.**
+  by M. J. Bonnin et al.
+  *JAMA*, 1993(270):1457-1462.
+  PMID: 8204131,
+  DOI: [10.1001/jama.1993.03510120079035](https://doi.org/10.1001/jama.1993.03510120079035)
 
-🕮 Burisch 1994
+🗎 Burisch 1994
 : by Burisch, M:
   1994.\*Das Burnout-Syndrom – Theorie Der Inneren
   Erschöpfung.\*
   1\. Auflage,  Springer.
 
-🕮 Burisch 2006
+🗎 Burisch 2006
 : by Burisch.
   **Das Burnout-Syndrom – Theorie Der Inneren Erschöpfung.**
   3\. Auflage, 2006.
   Springer.
 
-🕮 Cobas 2009
-: **Prehospital Intubations and  Mortality: by A Level 1 Trauma Center Perspective**
-  by Cobas, Miguel A., Maria Alejandra De la Peña, Ronald Manning, Keith  Candiotti and Albert J. Varon.
-  *Anesth Analg*
-  2009:109(2).
-  Department of Anesthesiology, Miller School of Medicine, University of
-  Miami, Miami, Florida 33136, USA. <mailto:mcobas@med.miami.ed>: by 489–93.
-  doi:[10.1213/ane.0b013e3181aa3063](https://doi.org/10.1213/ane.0b013e3181aa3063).
+🗎 Cobas 2009
+: **Prehospital intubations and mortality: a level 1 trauma center perspective.**
+  by M. A. Cobas et al.
+  *Anesthesia and analgesia*, 2009(109):489-493.
+  PMID: 19608824,
+  DOI: [10.1213/ane.0b013e3181aa3063](https://doi.org/10.1213/ane.0b013e3181aa3063)
 
-🕮 Cuthbertson 2009
+🗎 Cuthbertson 2009
 : **The effects of etomidate on adrenal responsiveness and mortality in patients with septic shock.**
   by Cuthbertson et al.
   Intensive Care Medicine.  2009:35, 1868—1876.
   doi:10.1007/s00134-009-1603-4.
 
-🕮 Cutler 2009
-: **Investigation of the First Cases of Human-to-Human Infection with the New Swine-Origin Influenza a (H1n1) Virus in Canada.**
-  by Cutler, Jennifer, Emily Schleihauf, Todd F Hatchette, Bev Billard, Gaynor Watson-Creed, Ross Davidson, Yan Li, Nathalie Bastien, Shelly Sarwal and Nova Scotia Human Swine Influenza Investigation Team.
-  *CMAJ* 181 (3-4).
-  Canadian Field Epidemiology Program, Public Health Agency of Canada,
-  Ottawa, Ont.: by 159–63. 2009.
-  doi:[10.1503/cmaj.090859](https://doi.org/10.1503/cmaj.090859).
+🗎 Cutler 2009
+: **Investigation of the first cases of human-to-human infection with the new swine-origin influenza A (H1N1) virus in Canada.**
+  by J. Cutler et al.
+  *CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne*, 2009(181):159-163.
+  PMID: 19620268,
+  DOI: [10.1503/cmaj.090859](https://doi.org/10.1503/cmaj.090859)
 
-🕮 Dahmer AB 10
+🗎 Dahmer AB 10
 : by Dahmer, Jürgen:
   2006.\*Anamnese Und Befund.\*
   1\. Auflage,  Thieme.
 
-🕮 Dahmer GF 5
+🗎 Dahmer GF 5
 : by Dahmer, Hella und Jürgen Dahmer:
   2003.\*Gesprächsführung – Eine
   Praktische Anleitung.\*
   1\. Auflage,  Thieme.
 
-🕮 Damman 2017
-: by Damman, P.; van 't Hof, A. W. et al.:
-  2015 ESC guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation: by comments from the Dutch ACS working group.
-  Netherlands heart journal : by monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation, 2017, 25, 181-185.
-
-🕮 DavisonKlinPsy 1988
+🗎 DavisonKlinPsy 1988
 : by Davison, G. C. und J. M. Neale, eds:
   1988.\*Klinische Psychologie.\*
   PVU.
 
-🕮 Dengler 2011
+🗎 Dengler 2011
 : by Dengler, V., P. Wilde, C. Byhahn, M. G. Mack and R. Schalk. 2011.
 
   **\[Prehospital Airway Management of Laryngeal Tubes. Should the Laryngeal
@@ -253,12 +246,12 @@
   Theodor-Stern-Kai 7, Frankfurt a.M., Germany.: by 135–38.
   doi:[10.1007/s00101-010-1774-y](https://doi.org/10.1007/s00101-010-1774-y).
 
-🕮 EcgEmergencyDec 2
+🗎 EcgEmergencyDec 2
 : by Wells, Hein J. J. and Mary Conover:
   2006.\*The Ecg in Emergency
   Decision Making.\* 2nd ed. Saunders Elsevier.
 
-🕮 Eisenburger 2008
+🗎 Eisenburger 2008
 : by Eisenburger, P., C. Havel, F. Sterz, T. Uray, A. Zeiner, M. Haugk, H.
   Losert, A. N. Laggner and H. Herkner.
   **Transport with Ongoing
@@ -266,146 +259,144 @@
   *Br J Anaesth* 2008:101 (4).: by 518–22.
   doi:[10.1093/bja/aen209](https://doi.org/10.1093/bja/aen209).
 
-🕮 EkgOnline
+🗎 EkgOnline
 : **EKG Online.**
   Webseite
   <http://www.ekg-online.de>.
 
-🕮 Enne 2012
+🗎 Enne 2012
 : by Enne, Andreas.
   **Notkompetenzen in "Osterreich: by Der aktuelle Stand zehn Jahre nach Einführung des Sanitätergesetzes.**
   *Rettungsdienst* 2012:35 (7): by 43—45.
 
-🕮 ERC 2021 01
+🗎 ERC 2021 01
 : by Gavin D. Perkins et al.:
   *European Resuscitation Council Guidelines 2021:*
   **Executive summary.**
   *Resuscitation* 161:98-114.
   <https://doi.org/10.1016/j.resuscitation.2021.02.009>
 
-🕮 ERC 2021 02
+🗎 ERC 2021 02
 : by Jan-Thorsten Gräsner et al.:
   *European Resuscitation Council Guidelines 2021:*
   **Epidemiology of cardiac arrest in Europe.**
   *Resuscitation* 161:61-79.
   <https://doi.org/10.1016/j.resuscitation.2021.02.007>
 
-🕮 ERC 2021 03
+🗎 ERC 2021 03
 : by Federico Semeraro et al.:
   *European Resuscitation Council Guidelines 2021:*
   **Systems saving lives.**
   *Resuscitation* 161:80-97.
   <https://doi.org/10.1016/j.resuscitation.2021.02.008>
 
-🕮 ERC 2021 04
+🗎 ERC 2021 04
 : by Theresa M. Olasveengen et al.:
   *European Resuscitation Council Guidelines 2021:*
   **Basic Life Support.**
   *Resuscitation* 161:98-114.
   <https://doi.org/10.1016/j.resuscitation.2021.02.009>
 
-🕮 ERC 2021 05
+🗎 ERC 2021 05
 : by Jasmeet Soar et al.:
   *European Resuscitation Council Guidelines 2021:*
   **Adult advanced life support.**
   *Resuscitation* 161:115-151.
   <https://doi.org/10.1016/j.resuscitation.2021.02.010>
 
-🕮 ERC 2021 06
+🗎 ERC 2021 06
 : by Carsten Lott et al.:
   *European Resuscitation Council Guidelines 2021:*
   **Cardiac arrest in special circumstances.**
   *Resuscitation* 161:152-219, April 01, 2021
   <https://doi.org/10.1016/j.resuscitation.2021.02.011>
 
-🕮 ERC 2021 07
+🗎 ERC 2021 07
 : by Jerry P. Nolan et al.:
   *European Resuscitation Council and European Society of Intensive Care Medicine Guidelines 2021:*
   **Post-resuscitation care.**
   *Resuscitation* 161:220-269.
   <https://doi.org/10.1016/j.resuscitation.2021.02.012>
 
-🕮 ERC 2021 08
+🗎 ERC 2021 08
 : by David A. Zideman et al.:
   *European Resuscitation Council Guidelines 2021:*
   **First aid.**
   *Resuscitation* 161:270-290.
   <https://doi.org/10.1016/j.resuscitation.2021.02.013>
 
-🕮 ERC 2021 09
+🗎 ERC 2021 09
 : by John Madar et al.:
   *European Resuscitation Council Guidelines 2021:*
   **Newborn resuscitation and support of transition of infants at birth.**
   *Resuscitation* 161:291-326, April 01, 2021
   <https://doi.org/10.1016/j.resuscitation.2021.02.014>
 
-🕮 ERC 2021 10
+🗎 ERC 2021 10
 : by Patrick Van de Voorde et al.:
   *European Resuscitation Council Guidelines 2021:*
   **Paediatric Life Support.**
   *Resuscitation* 161:327-387.
   <https://doi.org/10.1016/j.resuscitation.2021.02.015>
 
-🕮 ERC 2021 11
+🗎 ERC 2021 11
 : by Robert Greif et al.:
   *European Resuscitation Council Guidelines 2021:*
   **Education for resuscitation.**
   *Resuscitation* 161:388-407.
   <https://doi.org/10.1016/j.resuscitation.2021.02.016>
 
-🕮 ERC 2021 12
+🗎 ERC 2021 12
 : by Spyros D. Mentzelopoulos et al.:
   *European Resuscitation Council Guidelines 2021:*
   **Ethics of resuscitation and end of life decisions.**
   *Resuscitation* 161:408-432.
   <https://doi.org/10.1016/j.resuscitation.2021.02.017>
 
-🕮 ESC STEMI 2017
-: **2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: by The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).**
-  by Ibanez et al.
-  Eur Heart J.
-  2018 Jan 7;39(2):119-177.
-  doi: by 10.1093/eurheartj/ehx393.
+🗎 ESC NSTEMI 2015/16
+: by Damman, P.; van 't Hof, A. W. et al.:
+  2015 ESC guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation: by comments from the Dutch ACS working group.
+  Netherlands heart journal : by monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation, 2017, 25, 181-185.
 
-🕮 EurSafety
+🗎 EurSafety
 : **EurSafety Health-Net Projekt.**
   Euregionales Netzwerk für Patientensicherheit und Infektionsschutz.
   Webseite.
   <https://eursafety.eu/>
 
-🕮 Fernandez 2012
+🗎 Fernandez 2012
 : **Water for wound cleansing.**
   by Ritin Fernandez and Rhonda Griffiths.
   Cochrane Database Syst Rev, 2:CD003861, 2012.
   <http://dx.doi.org/10.1002/14651858.CD003861.pub3>.
   doi:10.1002/14651858.CD003861.pub3.
 
-🕮 FI AmiodaronHameln 2020
+🗎 FI AmiodaronHameln 2020
 : **Amiodaron-hameln 50 mg/ml Konzentrat zur Herstellung einer Injektions- /Infusionslösung.**
   by Fachinformation
   Dezember 2020.
   hameln pharma gmbh.
   <https://aspregister.basg.gv.at/document/servlet?action=show&zulnr=138341&type=DOTC_FACH_INFO>
 
-🕮 Frieling 2
+🗎 Frieling 2
 : **Lehrbuch Arbeitspsychologie.**
   by Frieling und Sonntag (HG.
   1\. Auflage, 1999.
   Huber.
 
-🕮 Grassberger 1
+🗎 Grassberger 1
 : by Grassberger, Martin und Harald Schmid:
   2009.\*Todesermittlung.\*
   1\. Auflage,
   Springer.
 
-🕮 Franz 2012
+🗎 Franz 2012
 : **Aseptic tissue necrosis and chronic inflammation after irrigation of penetrating hand wounds using octenisept®.**
   by T. Franz and E. Vögelin.
   J Hand Surg Eur Vol, 37(1):61–64, Jan 2012.
   <http://dx.doi.org/10.1177/1753193411414353>
 
-🕮 Goerg 2018
+🗎 Goerg 2018
 : **Assoziation zwischen sozio-ökonomischem Status und Mortalität bei PatientInnen mit ST-Hebungsinfarkt**
   von Simon Görg.
   Thesis (Diplom).
@@ -413,21 +404,21 @@
   URN: urn:nbn:at:at-ubmuw:1-14568.
   https://resolver.obvsg.at/urn:nbn:at:at-ubmuw:1-14568
 
-🕮 Grmec 2002
+🗎 Grmec 2002
 : **Comparison of Three Different Methods to Confirm Tracheal Tube Placement in Emergency Intubation**
   by Grmec, Stefek.
   *Intensive Care Med*
   2002:28(6), 701–4.
   doi:[10.1007/s00134-002-1290-x](https://doi.org/10.1007/s00134-002-1290-x).
 
-🕮 Guerri 2009
+🗎 Guerri 2009
 : **Foetal Alcohol Spectrum Disorders and Alterations in Brain and Behaviour.**
   by Guerri, Consuelo, Alissa Bazinet and Edward P Riley.
   *Alcohol Alcohol*
   2009:44(2), 108–14.
   doi:[10.1093/alcalc/agn105](https://doi.org/10.1093/alcalc/agn105).
 
-🕮 Havel 2007
+🗎 Havel 2007
 : by Richling, Helmut Trimmel, Reinhard Malzer, Fritz Sterz and Harald
   Herkner.
   **Quality of Closed Chest Compression in Ambulance Vehicles, Flying Helicopters and at the Scene**
@@ -435,114 +426,114 @@
   2007:73(2), 264–70.
   doi:[10.1016/j.resuscitation.2006.09.007](https://doi.org/10.1016/j.resuscitation.2006.09.007).
 
-🕮 Hochmeister 2
+🗎 Hochmeister 2
 : **Forensische Medizin für Studium und Praxis.**
   by Manfred Hochmeister, Martin Grassberger und Thomas Stimpfl.
   2\. Auflage, 2007.
   Maudrich.
 
-🕮 Huch 6
+🗎 Huch 6
 : **Mensch Körper Krankheit. Anatomie, Physiologie, Krankheitsbilder. Lehrbuch Und Atlas Für Die  Berufe Im Gesundheitswesen.**
   by Huch, Renate und Klaus D. Jürgens (HG.
   6\. Auflage, 2011.
   Elsevier.
 
-🕮 Ibanez 2017
+🗎 Ibanez 2017
 : by Ibanez, B.; James, S.; Agewall, S. et al.:
   2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: by The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).
   European heart journal, 2017.
   DOI: by 10.1093/eurheartj/ehx393
 
-🕮 Ibanez 2018
+🗎 Ibanez 2018
 : by Ibanez, B.; James, S. et al.:
   2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: by The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).
   European heart journal, 2018, 39, 119-177.
 
-🕮 IBCC
+🗎 IBCC
 : **The Internet Book of Critical Care (IBCC).**
   Josh Farkas:
   <https://emcrit.org/ibcc/toc/>
 
-🕮 IGV 2010
+🗎 IGV 2010
 : by IGV Industriegaseverband e. V.
   **Informationen Zur Euro-Norm Din En
   1089-3. Farbkennzeichnung von Gasflaschen in Deutschland.**
   2010, online:
   <http://www.industriegaseverband.de/igv/weitereigv/igvfarb.pdf>.
 
-🕮 Jemmett 2003
+🗎 Jemmett 2003
 : **Unrecognized misplacement of endotracheal tubes in a mixed urban to rural emergency medical services setting.**
   by Michael E. Jemmett et al.
   Acad Emerg Med 2003:10(9), 961—965.
 
-🕮 Jones 1973
+🗎 Jones 1973
 : **Recognition of the Fetal Alcohol Syndrome in Early Infancy.**
   by Jones, K. L. and D. W. Smith.
   *Lancet*
   1973:302(7836), 999–1001.
 
-🕮 Jones 2004
+🗎 Jones 2004
 : **Emergency Physician-Verified Out-of-Hospital Intubation: by Miss Rates by Paramedics.**
   by Jones, James H., Michael P. Murphy, Robert L. Dickson, Geoff G. Somerville and Edward J. Brizendine.
   *Acad Emerg Med*
   2004:11(6), 707–9.
 
-🕮 Juurlink 2005
+🗎 Juurlink 2005
 : **Hyperbaric Oxygen for Carbon Monoxide Poisoning.**
   by Juurlink, D N, N A Buckley, M B Stanbrook, G K Isbister, M Bennett and  A McGuigan.
   *Cochrane Database of Systematic Reviews (Online)*, 2005, no. 1: by CD002041.
   doi:[{10.1002/14651858.CD002041.pub2}](https://doi.org/{10.1002/14651858.CD002041.pub2}).
 
-🕮 Kaindl 7
+🗎 Kaindl 7
 : **Elektro-Komiko-Graphie.**
   by Kaindl, F. und P. Kühn.
   1\. Auflage, 1997.
   Maudrich.
 
-🕮 Kalla 2006
+🗎 Kalla 2006
 : **Implementation of Guidelines Improves the Standard of Care: by The Viennese Registry on Reperfusion Strategies in St-Elevation Myocardial Infarction (Vienna Stemi Registry).**
   by Kalla, Karim, Günter Christ, Ronald Karnik, Reinhard Malzer, Georg  Norman, Herbert Prachar, Wolfgang Schreiber, et al.
   *Circulation*
   2006:113(20), 2398–2405.
 
-🕮 Kamolz 2009
+🗎 Kamolz 2009
 : **Verbrennungen: by Diagnose, Therapie und Rehabilitation des thermischen Traumas.**
   by Kamolz, Lars-Peter, David N. Herndon und Marc G. Jeschke.
   1\. Auflage,2009.
   Springer, Wien.
 
-🕮 Kaplan 2001
+🗎 Kaplan 2001
 : **Start with a Subjective Assessment of Skin Temperature to Identify Hypoperfusion in Intensive Care Unit Patients.**
   by Kaplan, L. J., K. McPartland, T. A. Santora and S. Z. Trooskin.
   *J Trauma*
   2001:50(4), 620–7, discussion 627–8.
 
-🕮 Karutz 2009
+🗎 Karutz 2009
 : **Wenn die Belastungsgrenze erreicht ist: by Psychologische Selbsthilfe in Extremsituationen.**
   by Karutz, Harald.
   *Rettungsdienst*
   2009:32(12), 1172–7.
 
-🕮 Katz 2001
+🗎 Katz 2001
 : **Misplaced endotracheal tubes by paramedics in an urban emergency medical services system.**
   by S. H. Katz and J. L. Falk.
   Ann Emerg Med, 37(1):32–37, Jan 2001.
   <http://dx.doi.org/10.1067/mem.2001.112098>.
   doi:10.1067/mem.2001.112098.
 
-🕮 Kayser 10
+🗎 Kayser 10
 : by Kayser, Fritz H., Kurt A. Bienz, Johannes Eckert und Rolf M. Zinkernagel.
   **Medizinische Mikrobiologie**.
   1\.  Auflage, 2001.
   Thieme.
 
-🕮 Kirschnick 2
+🗎 Kirschnick 2
 : by Kirschnick, Olaf.
   **Pflegetechniken von a – Z. Schritt Für Schrittin Wort Und Bild.**
   2\. Auflage, 2003.
   Thieme.
 
-🕮 Klinke 3
+🗎 Klinke 3
 : **Lehrbuch Der Physiologie.**
   by Klinke, R und St. Silbernagl (HG.)
   3\. Auflage, 2001.
@@ -552,84 +543,84 @@
   .. todo:: by Literatur-Update: by Klinke: **Lehrbuch Der Physiologie.** 3. Auflage, 2001.
   ```
 
-🕮 Koppensteiner 2012 08
+🗎 Koppensteiner 2012 08
 : **Lachgas Im Rettungsdienst: by Die Rechtlichen Aspekte**
   by Koppensteiner, Stefan.
   *Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin*
   2012:35(8).
 
-🕮 Kramer 1
+🗎 Kramer 1
 : **Wallhäußers Praxis Der Sterilisation, Desinfektion, Antiseptik Und Konservierung.**
   by Kramer, Axel und Ojan Assadian (HG.
   1\. Auflage, 2008.
   Thieme.
 
-🕮 Kramer KHH 1
+🗎 Kramer KHH 1
 : **Krankenhaus- und Praxishygiene.**
   by Kramer, Heeg und Botzenhart (HG.
   1\. Auflage, 2001.
   Urban & Fischer.
 
-🕮 Kucera 2010
+🗎 Kucera 2010
 : **Schlampigkeit Kostet.**
   by Kucera, Mrtin.
   *Kma Das Gesundheitswirtschaftsmagazin*
   2010:15(2), 56–59.
 
-🕮 Kuehn 2002 1
+🗎 Kuehn 2002 1
 : **EKG-Fortbildung.**
   by Kühn, P.
   Bd. 1.
   2002\.
   Verlag Wilhelm Maudrich.
 
-🕮 Kuehn 2003 2
+🗎 Kuehn 2003 2
 : **EKG-Fortbildung.**
   by Kühn, P.
   Bd. 2.
   2003\.
   Verlag Wilhelm Maudrich.
 
-🕮 Kuester 1915
+🗎 Kuester 1915
 : **Geschichte Der Neueren Deutschen Chirurgie.**
   by Küster, Ernst
   Vol. 15\. Neue Deutsche Chirurgie. 1915.
   Verlag von Ferdinand Enke in Stuttgart.
   <http://www.gutenberg.org/ebooks/39529>.
 
-🕮 Lazarus 1984
+🗎 Lazarus 1984
 : **Stress, Appraisal and Coping.**
   by Lazarus, R.S. and S. Folkman (HG.
   1984\.
   Springer.
 
-🕮 Lecky 2008
+🗎 Lecky 2008
 : **Emergency Intubation for Acutely Ill and Injured Patients.**
   by Lecky, F., D. Bryden, R. Little, N. Tong and C. Moulton.
   *Cochrane Database Syst Rev*, CD001429, 2008.
   doi:[10.1002/14651858.CD001429.pub2](https://doi.org/10.1002/14651858.CD001429.pub2).
 
-🕮 Lippert 4
+🗎 Lippert 4
 : **Die Lateinische Diagnose in Der Unfallchirurgie und ihren Grenzgebieten.**
   by Lippert, Désirée.
   1\. Auflage,  2010.
   Allgemeine Unfallversicheurngsanstalt Wien (AUVA).
   <http://www.auva.at/mediaDB/704539_Lateinische_Diagnose.pdf>.
 
-🕮 Loennecker 2001
+🗎 Loennecker 2001
 : **\[Hypothermia in Patients with Burn Injuries: by Influence of Prehospital Treatment\]**
   by Lönnecker, S. and V. Schoder.
   *Chirurg*
   2001:72(2), 164–67.
 
-🕮 Lyon 2010
+🗎 Lyon 2010
 : **Field intubation of cardiac arrest patients: by a dying art?**
   by Richard M. Lyon et al.
   Emerg Med J 2010:27(4) 321--323.
   DOI: by 10.1136/emj.2009.076737.
   <http://dx.doi.org/10.1136/emj.2009.076737>.
 
-🕮 Mann 2013
+🗎 Mann 2013
 : **Supraglottic Airway Devices in Emergency Medicine:  Impact of Gastric Drainage**
   by Mann, V., S. T. Mann, E. Alejandre-Lafont, R. Röhrig, M. A. Weigand, and
   M. Müller.
@@ -637,158 +628,158 @@
   2013:62(4), 285–92.
   doi:[10.1007/s00101-013-2154-1](https://doi.org/10.1007/s00101-013-2154-1).
 
-🕮 Mayr 2019
+🗎 Mayr 2019
 : **Flächendeckende 7/24 Infarktversorgung in Niederösterreich (Mostviertel, Waldviertel, Zentralraum) seit 2005 - Ergebnisse einer strukturierten, einheitlichen präklinischen Versorgung**
   von Harald Mayr.
   2019.
   Online: https://www.karl-landsteiner.at/pdf/LT/2019%20Mayr.pdf
 
-🕮 Marquardt 2010
+🗎 Marquardt 2010
 : by C. Marquardt et al.
   **Evaluation of the tissue toxicity of antiseptics by the hen’s egg test on the chorioallantoic membrane (hetcam).**
   *Eur J Med Res* 15(5):204–209, May 2010.
 
-🕮 Meron 2004
+🗎 Meron 2004
 : **Non-Traumatic Aortic Dissection or Rupture as Cause of Cardiac Arrest: by Presentation and Outcome.**
   by Meron, Giora, Istepan Kürkciyan, Fritz Sterz, Karin Tobler, Heidrun  Losert, Roland Sedivy, Anton N Laggner and Hans Domanovits.
   *Resuscitation* 2004:60 (2), 143–50.
   doi:[10.1016/j.resuscitation.2003.10.005](https://doi.org/10.1016/j.resuscitation.2003.10.005).
 
-🕮 Morris 2005
+🗎 Morris 2005
 : **Etomidate for emergency anaesthesia; mad, bad and dangerous to know?**
   by Morris, C; McAllister, C.
   Anaesthesia. 2005:60 (8), 737–740.
   doi:10.1111/j.1365-2044.2005.04325.x.
 
-🕮 Pelucio 1997
+🗎 Pelucio 1997
 : **Out-of-hospital experience with the syringe esophageal detector device.**
   by M. Pelucio, L. Halligan und H. Dhindsa.
   Acad Emerg Med 1997:4(6) 563—568.
 
-🕮 Pschyrembel 259
+🗎 Pschyrembel 259
 : **Pschyrembel Klinisches Wörterbuch.**
   by Pschyrembel, Willibald (HG.
   1\.   Auflage, 2002.
   de Gruyter.
 
-🕮 Ring 1977
+🗎 Ring 1977
 : **Incidence and severity of anaphylactoid reactions to colloid volume substitutes.**
   by Ring, J. and Messmer, K.
   Lancet. 1977 Feb 26;1(8009):466-9.
   doi: by 10.1016/s0140-6736(77)91953-5.
 
-🕮 Sandroni 2008
+🗎 Sandroni 2008
 : **Myocardial Stunning After Successful Defibrillation.**
   by Sandroni, Claudio, Tommaso Sanna, Fabio Cavallaro and Anselmo Caricato.
   *Resuscitation* 2008:76(1), 3–4.
   doi:[10.1016/j.resuscitation.2007.06.020](https://doi.org/10.1016/j.resuscitation.2007.06.020).
 
-🕮 Schabus 1
+🗎 Schabus 1
 : **Das Knie. Der Ratgeber für das Verletzte Knie: by Diagnostik - Therapie - Rehabilitation bei Verletzungen des Kniegelenks.**
   by Schabus, Rudolf und Elisabeth Bosina.
   1\. Auflage, 2007. Springer, Wien.
 
-🕮 Schalk 2010
+🗎 Schalk 2010
 : **Out-of-Hospital Airway Management by Paramedics and Emergency Physicians Using Laryngeal Tubes.**
   by Schalk, Richard, Christian Byhahn, Felix Fausel, Andreas Egner, Dieter Oberndörfer, Felix Walcher and Leo Latasch.
   *Resuscitation* 2010:81(3), 323–26.
   doi:[10.1016/j.resuscitation.2009.11.007](https://doi.org/10.1016/j.resuscitation.2009.11.007).
 
-🕮 Schupp 2009
+🗎 Schupp 2009
 : **Persistent subcutaneous oedema and aseptic fatty tissue necrosis after using octenisept.**
   by C. J. Schupp and S. Holland-Cunz.
   *Eur J Pediatr Surg* 19(3):179–183, Jun 2009.
   <http://dx.doi.org/10.1055/s-0029-1216379>.
   doi:10.1055/s-0029-1216379.
 
-🕮 Seto 2003
+🗎 Seto 2003
 : **Effectiveness of Precautions Against Droplets and Contact in Prevention of Nosocomial Transmission of Severe Acute Respiratory Syndrome (Sars).**
   by Seto, W. H., D. Tsang, R. W H Yung, T. Y. Ching, T. K. Ng, M. Ho, L. M. Ho, J. S M Peiris and Advisors of Expert SARS group of Hospital Authority.
   *Lancet* 2003:361(9368), 1519–20.
 
-🕮 Thun 1981
+🗎 Thun 1981
 : **Störungen und Klärungen. Allgemeine Psychologie der Kommunikation.**
   by Thun, Friedemann Schulz von.
   Bd. 1 aus der Serie * Miteinander Reden.\*
   46\. Auflage, 1981.
   Differentielle Psychologie der Kommunikation. rororo.
 
-🕮 Thun 1989
+🗎 Thun 1989
 : **Stile, Werte Und Persönlichkeitsentwicklung. Differentielle Psychologie Der Kommunikation.**
   by Thun, Friedemann Schulz von.
   Bd. 2. aus der Serie *Miteinander Reden.*
   30\. Auflage, 1989.
   rororo.
 
-🕮 Thun 2010
+🗎 Thun 2010
 : by Thun, Friedemann Schulz von.
   **Das "Innere Team" und situationsgerechte Kommunikation. Differentielle Psychologie der Kommunikation.**
   Bd. 3. aus der Serie *Miteinander Reden.*
   19\. Auflage, 2010.
   rororo.
 
-🕮 VBV 2002
+🗎 VBV 2002
 : by Verordnung des Bundesministers für Wirtschaft und Arbeit über sicherheitstechnische Bestimmungen für Versandbehälter - Versandbehälterverordnung 2002 (VBV 2002) idF: by BGBl. II Nr. 347/2005
 
-🕮 Wagner 1984
+🗎 Wagner 1984
 : **Inhibition of adrenal steroidogenesis by the anesthetic etomidate.**
   by Wagner et al.:
   N Engl J Med. 1984:310, 1415-1421.
   doi:10.1056/NEJM198405313102202.
 
-🕮 Wells 2000
+🗎 Wells 2000
 : **Derivation of a Simple Clinical Model to Categorize Patients Probability of Pulmonary Embolism: by Increasing the Models Utility with the Simplired d-Dimer.**
   by P. S. Wells et al.
   *Thromb Haemost* 2000:83 (3), 416—20.
 
-🕮 Winbery 2002
+🗎 Winbery 2002
 : **Histamine and antihistamines in anaphylaxis.**
   by Stephen L. and Philip L. Lieberman.
   Clin Allergy Immunol. 2002;17:287-317.
 
-🕮 Yerkes 1908
+🗎 Yerkes 1908
 : **The Relation of Strength of Stimulus to Rapidity of Habit-Formation.**
   by Yerkes, R.M. and J.D Dodson.
   *Journal of Comparative Neurology and Psychology*
   1908:18, 459–82.
 
-🕮 ArbeitstechnikenAZ 1
+🗎 ArbeitstechnikenAZ 1
 : by Flake, Frank und Klaus Runggaldier, eds:
   2008.\*Arbeitstechniken a-Z
   Für Den Rettungsdienst – Bildatlas Rettungsdienst.\*
   1\. Auflage,  Elsevier.
 
-🕮 FlammAngewandteHygiene 4
+🗎 FlammAngewandteHygiene 4
 : by Flamm, Heinz und Manfred Rotter, eds:
   1999.\*Angewandte Hygiene in
   Krankenhaus Und Arztpraxis.\*
   1\. Auflage,  Verlag Wilhelm Maudrich.
 
-🕮 ForthPharma 8
+🗎 ForthPharma 8
 : by Forth, Henschler, Rummel, Förstermann und Starke:
   2001.\*Allgemeine Und
   Spezielle Pharmakologie Und Toxikologie.\*
   1\. Auflage,  Urban & Fischer.
 
-🕮 Lissauer 2007
+🗎 Lissauer 2007
 : by FRCPCH, Tom Lissauer MB BChir FRCP and Graham Clayden MD FRCP FRCPCH.
   1\.    *Illustrated Textbook of Paediatrics: by With STUDENT CONSULT Online
   Access.* 3rd ed. Mosby.
 
-🕮 Freudenberger 1974
+🗎 Freudenberger 1974
 : **Staff Burn-Out.**
   by Freudenberger, H. J. 1974.
   *Journal of Social Issues*
   30 (1): by 159–65.
 
-🕮 FamPropAeGeFue 2010
+🗎 FamPropAeGeFue 2010
 : **Ärztliche Gesprächsführung, Teil a: by Das Erstgespräch.**
   by Frischenschlager, Oskar, Ingeborg Pucher-Matzner, Michael Schmidts,  Andrea Weghofer, Sebastian Gabriel und Gabriele Mayerhofer. 2010.
   Skills Line 2.
   DEMAW; online; Medizinische Universität Wien, Department für Mediznische
   Aus- und Weiterbildung.
 
-🕮 Gallaher 2009
+🗎 Gallaher 2009
 : by Gallaher, William R. 2009.
   **Towards a Sane and Rational Approach to
   Management of Influenza H1n1 2009.**
@@ -798,7 +789,7 @@
   70112, USA. <mailto:billg35445@yahoo.com>: by 51.
   doi:[10.1186/1743-422X-6-51](https://doi.org/10.1186/1743-422X-6-51).
 
-🕮 Harrisons18DeKap225
+🗎 Harrisons18DeKap225
 : by Gaziano, Thomas A. und Michael Gaziano. 2012.
   **Epidemiologie
   Kardiovaskulärer Erkrankungen.**
@@ -808,7 +799,7 @@
   1\.  Auflage, , 2:1945–50. ABW
   Wissenschaftsverlag.
 
-🕮 OeAG 2007
+🗎 OeAG 2007
 : by Gemeinsame Erklärung der Deutschen AIDS-Gesellschaft (DAIG) und
   Osterreichischen AIDS-Gesellschaft (OAG). 2009.
   **\[Post-Exposure
@@ -816,7 +807,7 @@
   September 2007\].**
   *Dtsch Med Wochenschr* 134 Suppl 1 (January): by S16–S33.
 
-🕮 Genzwuerker 2007
+🗎 Genzwuerker 2007
 : by Genzwuerker, Harald V.
   **Unavailability of Capnometry: by A Legal
   Issue**
@@ -824,7 +815,7 @@
   2007:105(4),: by 1167; author reply 1169.
   doi:[10.1213/01.ane.0000278151.76711.c1](https://doi.org/10.1213/01.ane.0000278151.76711.c1).
 
-🕮 Harrisons 18 De Kap 228
+🗎 Harrisons 18 De Kap 228
 : by Goldberger, Ary L. 2012.
   **Elektrokardiographie.** In *Harrisons Innere
   Medizin*, edited by Manfred Dietel, Norbert Suttorp und Martin Zeitz,
@@ -832,66 +823,66 @@
   1\. Auflage, , 2:1965–73.
   ABW Wissenschaftsverlag.
 
-🕮 Gorgass 7
+🗎 Gorgass 7
 : by Gorgass, Bodo, Friedrich Wilhelm Ahnefeld, Rolando Rossiand Hans-Dieter
   Lippert, Werner Krell und Ge Weber:
   2007.\*Rettungsassistent Und
   Rettungssanitäter.\*
   7\. Auflage,  Springer.
 
-🕮 Grey Wundversorgung 2
+🗎 Grey Wundversorgung 2
 : **Ärztliche Wundversorgung.**
   by Grey, Joseph E. und Keith Harding (HGg.
   1\. Auflage, 2008.
   Elsevier.
 
-🕮 GruberHygieneRD 1
+🗎 GruberHygieneRD 1
 : **Hygiene im Rettungsdienst.**
   by Gruber, Harald, Petra Hellmich und Jürgen Grassl.
   1\. Auflage, 2011.
   facultas.wuv.
 
-🕮 Haag 3
+🗎 Haag 3
 : by Haag, Petra, Norbert Hanhart und Markus Müller. 2006a. *Gynäkologie Und
   Urologie Für Studium Und Praxis - 2007/08.*
   1\. Auflage,  Medizinische
   Verlags- und Informationsdienste.
 
-🕮 HahnMikrobio 6
+🗎 HahnMikrobio 6
 : by Hahn, Kaufmann, Schulz und Suerbaum  (HG): by n.d. *Medizinische
   Mikrobiologie Und Infektiologie.*
   1\. Auflage,  Springer.
 
-🕮 TertialeNotfallIntensivmed 1
+🗎 TertialeNotfallIntensivmed 1
 : by Hamp und Weidenauer, eds:
   2010.\*Lehrbuch Tertiale Notfall- Und
   Intensivmedizin.\* Springer.
 
-🕮 OeBBRettEinGleis 2009
+🗎 OeBBRettEinGleis 2009
 : **Handbuch Rettungseinsatz Im öbb-Gleisbereich.** 2009. ÖBB
   Infratstruktur; online. October.
   [http://www.roteskreuz.at/uploads/media/Handbuch{\\\_}Einsatz{\\\_}Gleisbereich.pdf](http://www.roteskreuz.at/uploads/media/Handbuch{_}Einsatz{_}Gleisbereich.pdf).
 
-🕮 Hansak 2012 07
+🗎 Hansak 2012 07
 : by Hansak, Peter, Klaus Pesenbacher, Peter Baumgartner und Haris Begovic.
   2012\.
   **Lachgas Im Rettungsdienst: by Ergebnisse Eines Pilotprojekts.**
   *Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin* 35 (7):
   50–56.
 
-🕮 LPN 3
+🗎 LPN 3
 : by Hansak, Peter, Berthold Petutschnigg, Markus Böbel, Hans-Peter Hündorf,
   Roland Lipp und Johannes Veith:
   2008.\*LPN-San österreich.\*
   1\. Auflage,
   Stumpf & Kossendey.
 
-🕮 RkPlsNeu 2008
+🗎 RkPlsNeu 2008
 : Österreichisches Rotes Kreuz.
   **Patientenleittasche Neu –- Fragen und Antworten.**
   Österreichisches Rotes Kreuz. 2008.
 
-🕮 Harrisons18DeKap226
+🗎 Harrisons18DeKap226
 : by Loscalzo, Joseph. 2012.
   **Zugang Zum Patienten Mit Möglicher
   Kardiovaskulärer Erkrankung.**
@@ -900,7 +891,7 @@
   Möckel,
   1\.  Auflage, , 2:1951–4. ABW Wissenschaftsverlag.
 
-🕮 Harrisons18DeKap224
+🗎 Harrisons18DeKap224
 : by Loscalzo, Joseph, Peter Libby und Jonathan Epstein. 2012.
   **Biologische
   Grundlagen Des Kardiovaskulären Systems.**
@@ -910,12 +901,12 @@
   18\. Auflage, , 2:1931–44.
   ABW Wissenschaftsverlag.
 
-🕮 Lutomsky 3
+🗎 Lutomsky 3
 : by Lutomsky, Boris und Frank Flake (HG):
   *Leitfaden Rettungsdienst.*
   1\. Auflage, 2003. Urban & Fischer.
 
-🕮 Malfertheiner 2004
+🗎 Malfertheiner 2004
 : by Malfertheiner, P., U. Peitz, K. Wolle and G. Treiber. 2004.
   **\[Helicobacter Pylori Infection–an Update for :2004\].**
   *Dtsch Med
@@ -924,51 +915,51 @@
   <mailto:peter.malfertheiner@medizin.uni-magdeburg.de>: by 1821–6.
   doi:[10.1055/s-2004-831344](https://doi.org/10.1055/s-2004-831344).
 
-🕮 Maslach 1984
+🗎 Maslach 1984
 : by Maslach, C. and S. E. Jackson:
   In *Applied Social Psychology
   Annual*, edited by S. Oskamp, 133–53. 1984. Sage.
 
-🕮 Maslach 1982
+🗎 Maslach 1982
 : **Burnout. the Cost of Caring.**
   by Maslach, C., ed.
   1982\. Prentice-Hall.
 
-🕮 Mueller 1
+🗎 Mueller 1
 : by Müller, Werner:
   1982.\*Das Knie. Form, Funktion Und Ligamentäre
   Wiederherstellungschirurgie.\* Springer-Verlag GmbH.
 
-🕮 PHTLS 6
+🗎 PHTLS 6
 : **PHTLS. Prehospital Trauma Life Support.**
   by NAEMT.
   6th ed., 2006.
   Mosby.
 
-🕮 NagelePalliativ 1
+🗎 NagelePalliativ 1
 : **Lehrbuch der Palliativpflege.**
   by Nagele, Susanne und Angelika Feichtner.
   1\. Auflage.
   Facultas.
 
-🕮 ChecklisteAnamUnt 1
+🗎 ChecklisteAnamUnt 1
 : by Neurath, Markus und Ansgar Lohse, eds:
   2002.\*Checkliste Anamnese Und
   Klinische Untersuchung.\*
   1\. Auflage,  Thieme.
 
-🕮 Nilsson 1997
+🗎 Nilsson 1997
 : **Ein Kind Entsteht.**
   by Lennart Nilsson und Lars Hamberger.
   1997\.
   Mosaik.
 
-🕮 Nolan 2001
+🗎 Nolan 2001
 : **Prehospital and Resuscitative Airway Care: by Should the Gold Standard Be Reassessed?**
   by Nolan, J. D. 2001.
   *Curr Opin Crit Care* 7 (6), 413–21.
 
-🕮 Nolan 2008
+🗎 Nolan 2008
 : by Nolan, Jerry P and Jasmeet Soar.
   **Airway Techniques and
   Ventilation Strategies**
@@ -977,7 +968,7 @@
   Hospital, Bath, UK. <mailto:Jerry.nolan@ruh.nhs.uk>: by 279–86.
   doi:[10.1097/MCC.0b013e3282f85bc8](https://doi.org/10.1097/MCC.0b013e3282f85bc8).
 
-🕮 Peiris 2009
+🗎 Peiris 2009
 : by Peiris, J. S Malik, Leo L M Poon and Yi Guan. 2009.
   **Emergence of a
   Novel Swine-Origin Influenza a Virus (S-Oiv) H1n1 Virus in Humans.**
@@ -986,63 +977,63 @@
   Kong, Hong Kong SAR, China. <mailto:malik@hkucc.hku.hk>: by 169–73.
   doi:[10.1016/j.jcv.2009.06.006](https://doi.org/10.1016/j.jcv.2009.06.006).
 
-🕮 Petersen 1
+🗎 Petersen 1
 : by Petersen, Wolf und Thore Zantop, eds:
   2009.\*Das Vordere Kreuzband.
   Grundlagen Und Aktuelle Praxis Der Operativen Therapie.\*
   1\. Auflage,
   Deutscher "Arzte-Verlag.
 
-🕮 RueckerBildatlas 1
+🗎 RueckerBildatlas 1
 : by Rüecker, Gernot:
   2005.\*Bildatlas Notfall- Und Rettungsmedizin.\*
   1\. Auflage,
   Springer.
 
-🕮 Sachsenweger 2003
+🗎 Sachsenweger 2003
 : by Sachsenweger, Matthias:
   2003.\*Augenheilkunde.\*
   1\. Auflage,  Thieme,
   Stuttgart.
 
-🕮 ThiemesPflege 12
+🗎 ThiemesPflege 12
 : by Schewior-Popp, Susanne, Franz Sitzmann und Lothar Ullrich  (HG): by 2012.
   *Thiemes Pflege.* 12th ed. Thieme.
 
-🕮 SchmidtPhysio 28
+🗎 SchmidtPhysio 28
 : by Schmidt, Robert F., Gerhard Thews und Florian Lang:
   2000.\*Physiologie
   Des Menschen.\*
   1\.  Auflage,  Springer Berlin.
 
-🕮 SchmuckChemie 1
+🗎 SchmuckChemie 1
 : by Schmuck, Carsten, Bernd Engels, Tanja Schirmeister und Reinhold Fink.
   1\.    *Chemie Für Mediziner.*
   2\. Auflage,  Pearson Studium.
 
-🕮 Schnelle 2006
+🗎 Schnelle 2006
 : **Zur Positionierung von Ekg-Elektroden im     Einsatz**
   by Schnelle, Ralf.
   *Rettungsdienst*
   2006:29(1), 24–27.
 
-🕮 Scholz 2
+🗎 Scholz 2
 : by Scholz, Jens, Peter Sefrin, Bernd Böttiger, Volker Dörges und Volker
   Wenzel, eds:
   1\.    *Notfallmedizin.*
   2\. Auflage,  Thieme.
 
-🕮 Schuster 5
+🗎 Schuster 5
 : by Schuster, Hans-Peter und Hans-Joachim Trappe:
   *EKG-Kurs für Isabell.*
   1\. Auflage, 2009. Thieme.
 
-🕮 Shea 1975
+🗎 Shea 1975
 : **Pressure Sores: by Classification and Management.**
   by Shea, JB. 1975.
   *Clinical Orthopedics and Related Research*, no. 112 (October): by 89–100.
 
-🕮 Skhirtladze 2010
+🗎 Skhirtladze 2010
 : by Skhirtladze, Keso, Bruno Mora, Andrea Moritz, Beatrice Birkenberg,
   Hendrik Jan Ankersmit and Martin Dworschak.
   **Impaired Recovery of Cardiac Output and Mean Arterial Pressure After Successful Defibrillation in Patients with Low Left Ventricular Ejection Fraction.**
@@ -1050,33 +1041,33 @@
   doi:10.1016/j.resuscitation.2010.06.004
   \<https://doi.org/10.1016/j.resuscitation.2010.06.004>\`\_
 
-🕮 Starke 2000
+🗎 Starke 2000
 : **Medizinsoziologie. Kognitive, Emotionale Und Soziale Aspekte Menschlicher Problembewältigung: by Ein Beitrag Zur Aktuellen Stressforschung.**
   by Starke, D.
   1\.    Münster.
 
-🕮 Steinert 2008
+🗎 Steinert 2008
 : by Steinert, Yvonne.
   **The ‘Problem’ Junior: by Whose Problem Is It?**
   *BMJ* 2008:336 (7636): by 150–53.
   doi:10.1136/bmj.39308.610081.AD
   \<https://doi.org/{10.1136/bmj.39308.610081.AD}>\`\_
 
-🕮 Stiell 2008
+🗎 Stiell 2008
 : **The Opals Major Trauma Study: by Impact of Advanced Life-Support on Survival and Morbidity.**
   by Stiell, Ian G, Lisa P Nesbitt, William Pickett, Douglas Munkley, Daniel W Spaite, Jane Banek, Brian Field et al.
   *CMAJ*
   2008:178 (9), 1141—52.
   doi:[10.1503/cmaj.071154](https://doi.org/10.1503/cmaj.071154).
 
-🕮 Stiell 2004
+🗎 Stiell 2004
 : by Stiell, Ian G, George A Wells, Brian Field, Daniel W Spaite, Lisa P
   Nesbitt, Valerie J De Maio, Graham Nichol et al.
   **Advanced Cardiac Life Support in Out-of-Hospital Cardiac Arrest**
   *N Engl J Med*
   2004:351(7), 647—56.
 
-🕮 Strauss 0000
+🗎 Strauss 0000
 : by Strauss, Reinhild und Gerhard Fülöp. n.d.
   **Influenza in österreich — Epidemiologie Und Durchimpfungsraten.**
   Homepage des österreichischen
@@ -1084,17 +1075,17 @@
   für Gesundheit und Frauen.
   [http://www.bmg.gv.at/cms/site/attachments/7/9/0/CH0742/CMS1075899626901/influenza-epidemiologie\\\_bmgf.pdf](http://www.bmg.gv.at/cms/site/attachments/7/9/0/CH0742/CMS1075899626901/influenza-epidemiologie_bmgf.pdf).
 
-🕮 Striebel 7
+🗎 Striebel 7
 : by Striebel, Hans Walter.
   **Anästhesie Intensivmedizin Notfallmedizin — Für Studium Und Ausbildung.**
   1\. Auflage, 2009. Schattauer.
 
-🕮 Sudowe 1
+🗎 Sudowe 1
 : by Sudowe, Hendrik.
   **Professionell Handeln Im Rettungsdienst — Das Trainingsbuch.**
   1\. Auflage, 2007. Elsevier.
 
-🕮 Supady 2009
+🗎 Supady 2009
 : by Supady, A., T. Schwab and H-J. Busch. 2009.
   **\["’‘Liquid Ecstasy"’:
   Gamma-Butyrolactone Withdrawal Delirium with Rhabdomyolysis and Dialysis
@@ -1104,19 +1095,19 @@
   <mailto:Alexander.Supady@uniklinik-freiburg.de>: by 935–37.
   doi:[10.1055/s-0029-1220252](https://doi.org/10.1055/s-0029-1220252).
 
-🕮 IntroClinEmergMed 4
+🗎 IntroClinEmergMed 4
 : by Swaminatha V, Mahadevan and Gus M. Garmel, eds:
   2008.\*An Introduction
   to Clinical Emergency Medicine – Guide for Practitioners in the
   Emergency Department.\* 4th ed. Cambridge University Press.
 
-🕮 Thierbach 2004
+🗎 Thierbach 2004
 : **\[Prehospital Emergency Airway Management Procedures. Success Rates and Complications\].**
   by Thierbach, A., T. Piepho, B. Wolcke, S. Küster and W. Dick.
   *Anaesthesist* 2004:53(6), 543–50.
   doi:[10.1007/s00101-004-0679-z](https://doi.org/10.1007/s00101-004-0679-z).
 
-🕮 Timmermann 2012
+🗎 Timmermann 2012
 : by Timmermann, A., C. Byhahn, V. Wenzel, C. Eich, T. Piepho, M. Bernhard,
   and V. Dörges. 2012.
   **Handlungsempfehlung Für Das Präklinische
@@ -1125,7 +1116,7 @@
   *Anästh Intensivmed* 53: by 294–308.
   <http://www.dgai.de/eev/EEV_AI_05-2012_Verbaende_Timmermann.pdf>.
 
-🕮 Timmermann 2006
+🗎 Timmermann 2006
 : by Timmermann, Arnd, Christoph Eich, Sebastian G. Russo, Ulrich Natge,
   Anselm Bräuer, William H. Rosenblatt and Ulrich Braun. 2006.
 
@@ -1136,7 +1127,7 @@
   University of Goettingen, Germany. <mailto:atimmer@zari.de>: by 179–85.
   doi:[10.1016/j.resuscitation.2006.01.010](https://doi.org/10.1016/j.resuscitation.2006.01.010).
 
-🕮 Timmermann 2007
+🗎 Timmermann 2007
 : by Timmermann, Arnd, Sebastian G Russo, Christoph Eich, Markus Roessler,
   Ulrich Braun, William H Rosenblatt and Micheal Quintel. 2007.
   **The
@@ -1147,18 +1138,18 @@
   University, Goettingen, Germany. <mailto:atimmer@zari.de>: by 619–23.
   doi:[10.1213/01.ane.0000253523.80050.e9](https://doi.org/10.1213/01.ane.0000253523.80050.e9).
 
-🕮 Ulfig 1
+🗎 Ulfig 1
 : by Ulfig, Norbert:
   2003.\*Kurzlehrbuch Histologie.\*
   1\. Auflage,  Thieme.
 
-🕮 Uicc 3
+🗎 Uicc 3
 : by Union Internationale Contre le Cancer, ed:
   1993.\*TNM-Atlas.
   Illustrierter Leitfaden Zur Tnm/pTNM-Klassifikation Maligner Tumoren.\*
   Springer.
 
-🕮 Uray 2008
+🗎 Uray 2008
 : by Uray, Thomas and Reinhard Malzer on behalf of the Vienna Hypothermia
   After Cardiac Arrest (HACA) Study Group. 2008.
   **Out-of-Hospital Surface
@@ -1167,13 +1158,13 @@
   *Resuscitation* 77 (3). Department of Emergency
   Medicine, Medical University of Vienna, Austria.: by 331–38.
 
-🕮 Wunn 1
+🗎 Wunn 1
 : **BASICS Psychiatrie.**
   by Eva Wunn.
   1\. Auflage, 2006.
   Elsevier.
 
-🕮 H1N1InvTeam2009
+🗎 H1N1InvTeam2009
 : by S Dawood, Seema Jain, Lyn Finelli, Michael W Shaw, Stephen Lindstrom,
   Rebecca J Garten, et al.
   **Emergence of a Novel Swine-Origin
@@ -1182,7 +1173,7 @@
   2009:360(25), 2605–15.
   doi:[10.1056/NEJMoa0903810](https://doi.org/10.1056/NEJMoa0903810).
 
-🕮 Vlcek 2008
+🗎 Vlcek 2008
 : by Vlcek, Marianne, Andreas Bur, Christian Woisetschläger, Harald Herkner,
   Anton N Laggner and Michael M Hirschl. 2008.
   **Association Between
@@ -1192,14 +1183,14 @@
   Medicine, General Hospital, University of Vienna.: by 657–62.
   doi:[10.1097/HJH.0b013e3282f4e8b6](https://doi.org/10.1097/HJH.0b013e3282f4e8b6).
 
-🕮 Waldeyer 2003
+🗎 Waldeyer 2003
 : by Waldeyer, Anton Johannes, J. Fanghänel, F. Pera, F. Anderhuber und R.
   Nitsch, eds:
   2003.\*Waldeyer Anatomie Des Menschen.\*
   1\.  Auflage,  de
   Gruyter.
 
-🕮 Wang-2006a
+🗎 Wang-2006a
 : **Out-of-Hospital Endotracheal  Intubation: by Where Are We?**
   by Wang, Henry E and Donald M Yealy. 2006.
   *Ann Emerg Med* 47 (6). Department of
@@ -1207,14 +1198,14 @@
   Pittsburgh, PA 15213, USA. <mailto:wanghe@upmc.edu>: by 532–41.
   doi:[10.1016/j.annemergmed.2006.01.016](https://doi.org/10.1016/j.annemergmed.2006.01.016).
 
-🕮 Wang 2008
+🗎 Wang 2008
 : **Outcomes After Out-of-Hospital Endotracheal  Intubation Errors.**
   by Wang, Henry E, Lawrence J Cook, Chung-Chou H Chang, Donald M Yealy, and  Judith R Lave. 2008.
   *Resuscitation*, October. Department of Emergency
   Medicine, University of Pittsburgh, Pittsburgh, PA, United States.
   doi:[10.1016/j.resuscitation.2008.08.016](https://doi.org/10.1016/j.resuscitation.2008.08.016).
 
-🕮 Wang 2006
+🗎 Wang 2006
 : **Paramedic Intubation Errors: by Isolated Events or Symptoms of Larger  Problems?**
   by Wang, Henry E, Judith R Lave, Carl A Sirio and Donald M Yealy. 2006.
   *Health Aff (Millwood)* 25 (2). Department of Emergency
@@ -1222,7 +1213,7 @@
   USA. <mailto:wanghe@upmc.edu>: by 501–9.
   doi:[10.1377/hlthaff.25.2.501](https://doi.org/10.1377/hlthaff.25.2.501).
 
-🕮 Wang 2011
+🗎 Wang 2011
 : **Out-of-Hospital Airway Management in the United  States**
   by Wang, Henry E., N Clay Mann, Gregory Mears, Karen Jacobson and Donald  M. Yealy.
   *Resuscitation*
@@ -1231,13 +1222,13 @@
   States. <mailto:hwang@uabmc.edu>: by 378–85.
   doi:[10.1016/j.resuscitation.2010.12.014](https://doi.org/10.1016/j.resuscitation.2010.12.014).
 
-🕮 Wiedenmann 1
+🗎 Wiedenmann 1
 : **Hygiene Im Rettungsdienst.**
   by Markus Wiedenmann (HG.
   1\. Auflage, 2011.
   Elsevier.
 
-🕮 Wiese 2009
+🗎 Wiese 2009
 : **The Use of the Laryngeal Tube Disposable (Lt-d) by  Paramedics During Out-of-Hospital Resuscitation-an Observational Study  Concerning Erc Guidelines 2005.**
   by Wiese, C H R., T. Semmel, J. U. Müller, J. Bahr, H. Ocker and B. M.  Graf. 2009.
   *Resuscitation* 80 (2). Department of
@@ -1246,17 +1237,17 @@
   <mailto:cwiese@med.uni-goettingen.de>: by 194–98.
   doi:[10.1016/j.resuscitation.2008.08.023](https://doi.org/10.1016/j.resuscitation.2008.08.023).
 
-🕮 WP Beanspruchung 2013
+🗎 WP Beanspruchung 2013
 : **Beanspruchung (Begriffsklärung).**
   by Wikipedia, Die freie Enzyklopädie.
   Bearbeitungsstand: by 16. Juli 2013, 11:32 UTC. URL: <https://de.wikipedia.org/w/index.php?title=Beanspruchung_(Begriffskl%C3%A4rung)&oldid=120596188>
 
-🕮 WP Zivilschutzsignale 2012
+🗎 WP Zivilschutzsignale 2012
 : by 2012\.
   **Zivilschutzsignale.** Wikipedia, Die freie Enzyklopädie.
   <http://de.wikipedia.org/w/index.php?title=Zivilschutzsignale&oldid=105758278>.
 
-🕮 Wolf 2009
+🗎 Wolf 2009
 : by Wolf, T. and H-R. Brodt.
   **\[The ‘Swine Flu’ Influenza a/H1n1 -  Pandemia on Trial\]**
   *Dtsch Med Wochenschr*
@@ -1265,13 +1256,13 @@
   Theodor-Stern-Kai 7, 60590 Frankfurt. <mailto:timo.wolf@kgu.de>: by 1539–41.
   doi:[10.1055/s-0029-1233976](https://doi.org/10.1055/s-0029-1233976).
 
-🕮 Zeiler 2001
+🗎 Zeiler 2001
 : by Zeiler, Karl, Eduard Auff und Lüder Deecke:
   2001.\*Grundlagen Der
   Klinischen Neurologie 1. Grundlagen Für Human- Und Zahnmediziner.\*
   facultas.wuv Universitäts.
 
-🕮 Zimbardo 6
+🗎 Zimbardo 6
 : **Psychologie.**
   by Zimbardo, G. (HG.
   1\. Auflage, 1995.

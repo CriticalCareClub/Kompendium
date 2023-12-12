@@ -168,7 +168,7 @@ siehe {ref}`Figure-Bls-Aed-Algorithmus` … Algorithmus BLS mit AED
 :::{figure} /Bilder/Emhofer-Josef-CCCA/ReanimationBls-2015-4.\*
 Basic Life Support mit AED.\[Table-algorithmus-bls-aed\]
 
-\[Josef Emhofer, nach  {term}`🕮 ERC 2015 02`\]
+\[Josef Emhofer, nach  {term}`🗎 ERC 2015 02`\]
 :::
 
 :::{only} html

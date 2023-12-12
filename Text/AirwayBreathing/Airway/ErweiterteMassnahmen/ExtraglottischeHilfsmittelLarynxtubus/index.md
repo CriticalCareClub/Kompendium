@@ -21,7 +21,7 @@ Mageninhaltes gelegt werden kann (Magendrainagekanal).
 Trotz korrekter Anwendung kann es aufgrund von
 Leckagen zur Magenüberblähung kommen, daher sollen unbedingt, wenn
 verfügbar, nur Modelle mit einem Magendrainagekanal eingesetzt werden.
-{term}`🕮 Dengler 2011` {term}`🕮 Mann 2013`
+{term}`🗎 Dengler 2011` {term}`🗎 Mann 2013`
 
 Der obere Cuff kommt nach dem Einführen im Rachen zu liegen, während
 der untere am Ende die Speiseröhre abdichtet.
@@ -31,7 +31,7 @@ Da ober- und unterhalb der Abzweigung zur Luftröhre abgedichtet ist,
 kann die Luft über den Kehlkopf und den Kehldeckel in die Luftröhre
 strömen und die Gefahr der Aspiration von Mageninhalt kann deutlich
 reduziert werden. Es sind verschiedene Größen je nach Körperlänge
-erhältlich. {term}`🕮 Asai 2005`
+erhältlich. {term}`🗎 Asai 2005`
 Im direkten Vergleich mit der Beatmung mittels
 Beatmungsmaske sind bei einer korrekten Anwendung des Larynxtubus
 folgende Vorteile gegeben:

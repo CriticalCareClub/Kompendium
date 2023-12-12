@@ -16,7 +16,7 @@ Eine {dfn}`Wunde`
 (*Lat.* (*Vuln.*)) ist eine
 Unterbrechung des Zusammenhangs von Körpergeweben durch mechanische,
 thermische, Strahlen- oder chemische Einwirkungen
-mit oder ohne Substanzverlust {term}`🕮 Pschyrembel 259`.Wunden lassen
+mit oder ohne Substanzverlust {term}`🗎 Pschyrembel 259`.Wunden lassen
 sich *nach verschiedenen Gesichtspunkten* einteilen bzw. unterscheiden.
 In den folgende Abschnitten sind Einteilungen nach der physikalischen
 Verletzungsursache, nach der Tiefe der Schädigung sowie nach der Art der
@@ -35,7 +35,7 @@ Schädigung (Wundart) angeführt.
 ::::
 
 Eine Einteilung bezieht sich auf die *physikalische Verletzungsursache*
-{term}`🕮 Pschyrembel 259`:
+{term}`🗎 Pschyrembel 259`:
 
 1. {dfn}`Mechanische Wunden`:
    Entstehen durch spitze oder
@@ -374,7 +374,7 @@ abwenden und ggf. eine ärztliche Schmerztherapie einleiten (lassen).
   steriler (NaCl 0,9%) von innen nach außen.
   Bei oberflächlichen
   Wunden ist auch ein Abspülen unter fließendem Leitungswasser
-  zulässig {term}`🕮 Fernandez 2012`.
+  zulässig {term}`🗎 Fernandez 2012`.
   Wunden, die im Spital
   weiter versorgt werden, sollen nicht übermäßig gereinigt werden,
   auch soll keine
@@ -386,7 +386,7 @@ abwenden und ggf. eine ärztliche Schmerztherapie einleiten (lassen).
   Desinfektion mittels Wunddesinfektionsmittels ist aufgrund der
   toxischen Wirkung auf das Gewebe nicht
   mehr standardmäßig empfohlen.
-  {term}`🕮 Fernandez 2012` {term}`🕮 Franz 2012` {term}`🕮 Schupp 2009` {term}`🕮 Marquardt 2010`
+  {term}`🗎 Fernandez 2012` {term}`🗎 Franz 2012` {term}`🗎 Schupp 2009` {term}`🗎 Marquardt 2010`
 
 - **Fremdkörper**
   (Messer, Schere oder sonstige Pfählungsgegenstände) sind
@@ -493,7 +493,7 @@ bestimmt:
 
 ### Grade
 
-Einteilung der Schweregrade {term}`🕮 Shea 1975`:
+Einteilung der Schweregrade {term}`🗎 Shea 1975`:
 
 - *Grad 1*: Nicht wegdrückbare, umschriebene *Hautrötung* bei intakter
   Haut. Weitere klinische Zeichen können *Ödembildung, Verhärtung und
@@ -517,7 +517,7 @@ Einteilung der Schweregrade {term}`🕮 Shea 1975`:
   weichen Kissen, die unter der Körperhälfte eingebracht werden, der
   Kopf ist durch ein kleines Kissen gestützt. Bei korrekter
   Durchführung kann man leicht unter das Kreuzbein oder den Trochanter
-  des Oberschenkelknochens fassen. {term}`🕮 ThiemesPflege 12`
+  des Oberschenkelknochens fassen. {term}`🗎 ThiemesPflege 12`
 - {dfn}`135°-Lagerung`:
   Von der Seitenlage ausgehend wird
   der Patient auf eine zusammengerollte Decke oder zwei Pölster
@@ -525,11 +525,11 @@ Einteilung der Schweregrade {term}`🕮 Shea 1975`:
   Trochanter ohne Druckbelastung ist.
   Der unten liegende Fuß kann durch
   einen schmalen Polster freigelagert werden.
-  {term}`🕮 Biergans Wundversorgung 2`
+  {term}`🗎 Biergans Wundversorgung 2`
 - {dfn}`5-Kissen-Weichlagerung`:
   Der Patient wird komplett
   auf 5 oder mehr Pölstern gelagert. Ziel ist das Freilegen bereits
-  geschädigter Bereiche. {term}`🕮 ThiemesPflege 12`
+  geschädigter Bereiche. {term}`🗎 ThiemesPflege 12`
 - *Bauchlage* {index}`\ <Bauchlage>`
 
 Abhängig von Begleiterkrankungen oder -verletzungen können u.U. nicht
@@ -596,7 +596,7 @@ Dekubitus Grad 4
 ```{rubric} Literatur
 ```
 
-{term}`🕮 Biergans Wundversorgung 2`
-{term}`🕮 ThiemesPflege 12`
-{term}`🕮 Grey Wundversorgung 2`
-{term}`🕮 Kuester 1915`
+{term}`🗎 Biergans Wundversorgung 2`
+{term}`🗎 ThiemesPflege 12`
+{term}`🗎 Grey Wundversorgung 2`
+{term}`🗎 Kuester 1915`

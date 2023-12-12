@@ -99,4 +99,4 @@ Hygienische Händedesinfektion
   Sekunden)
 - Siehe Abbildung {ref}`Figure-haendedesinfektion`.
 
-{term}`🕮 Kirschnick 2`
+{term}`🗎 Kirschnick 2`

@@ -184,7 +184,7 @@ jedoch zunehmend ein größerer Wert auf die *Kapnographie* gelegt, um die
 Tubuslage zu kontrollieren, die CPR-Qualität abzuschätzen und eine
 frühzeitige Erkennung der Rückkehr des spontanen Kreislaufs zu
 ermöglichen. Die Kapnographie ist die verlässlichste Methode zur
-Lagekontrolle {term}`🕮 Grmec 2002` . Besonders geeignet sind dazu Geräte, welche
+Lagekontrolle {term}`🗎 Grmec 2002` . Besonders geeignet sind dazu Geräte, welche
 die CO₂-Abatmung als Kurve darstellen.
 Wenn nach 6 Beatmungen CO₂
 nachweisbar ist, kann man davon ausgehen, dass der Tubus in den unteren
@@ -202,9 +202,9 @@ kommen.[^footnote-2]
     equipped with waveform capnography. In the absence of these
     prerequisites, consider use of bag-mask ventilation and/or an SGA
     until appropriately experience and equipped personnel are present."*
-    {term}`🕮 ERC 2015 04` .
+    {term}`🗎 ERC 2015 04` .
     Zur Problematik der Verfügbarkeit der Kapnographie siehe auch
-    \[Genzwuerker2007\`\]\_ {term}`🕮 Timmermann 2007`  und darin enthaltene
+    \[Genzwuerker2007\`\]\_ {term}`🗎 Timmermann 2007`  und darin enthaltene
     Referenzen.
 
 :::{attention}
@@ -310,12 +310,12 @@ Studien haben eine hohe Inzidenz von Fehlintubationen beschrieben.
 Speziell im außerklinischen Bereich erhöht sich der Schwierigkeitsfaktor
 aufgrund der Gegebenheiten (Platzangebot, vorhandenes Material, nicht
 nüchterne bzw. nicht vorbereitete Patienten, Verletzungen,
-Begleiterkrankungen, …) deutlich {term}`🕮 Timmermann 2006` {term}`🕮 Thierbach 2004`.
+Begleiterkrankungen, …) deutlich {term}`🗎 Timmermann 2006` {term}`🗎 Thierbach 2004`.
 
 In diversen Studien wurden die Erfolgs- und Komplikationsraten der ETI
 untersucht, dabei zeigen sich wenig zufriedenstellende bis alarmierende
 Ergebnisse
-{term}`🕮 Nolan 2001` {term}`🕮 Wang 2011` {term}`🕮 Cobas 2009` {term}`🕮 Jones 2004` {term}`🕮 Wang 2006` {term}`🕮 Wang-2006a` {term}`🕮 Wang 2008` {term}`🕮 Stiell 2004` {term}`🕮 Stiell 2008`.
+{term}`🗎 Nolan 2001` {term}`🗎 Wang 2011` {term}`🗎 Cobas 2009` {term}`🗎 Jones 2004` {term}`🗎 Wang 2006` {term}`🗎 Wang-2006a` {term}`🗎 Wang 2008` {term}`🗎 Stiell 2004` {term}`🗎 Stiell 2008`.
 
 Die wichtigsten Ergebnisse dieser Studien sind:
 
@@ -323,22 +323,22 @@ Die wichtigsten Ergebnisse dieser Studien sind:
   Fehllagen, ist hoch. Diese werden oft spät oder gar nicht erkannt
   (Risiko der unerkannten Tubusfehllage bei Patienten mit
   außerklinischem Kreislaufstillstand: 0,5—17%
-  {term}`🕮 Grmec 2002` {term}`🕮 Lyon 2010` {term}`🕮 Jones 2004` {term}`🕮 Pelucio 1997` {term}`🕮 Jemmett 2003` {term}`🕮 Katz 2001`
+  {term}`🗎 Grmec 2002` {term}`🗎 Lyon 2010` {term}`🗎 Jones 2004` {term}`🗎 Pelucio 1997` {term}`🗎 Jemmett 2003` {term}`🗎 Katz 2001`
 - Die Erfolgsraten bei wenig routinierten Anwendern sind
   schlecht[^footnote-5].
 - Die Probleme der ETI betreffen grundsätzlich auch ärztliches
-  Personal[^footnote-6] {term}`🕮 Timmermann 2007` {term}`🕮 Grmec 2002`.
+  Personal[^footnote-6] {term}`🗎 Timmermann 2007` {term}`🗎 Grmec 2002`.
 - Der Schulungsaufwand ist groß: Zum Erlernen der Tätigkeit werden
   wenigstens 100 ETI gefordert, zur Aufrechterhaltung mindestens 10 ETI
-  pro Jahr {term}`🕮 Timmermann 2012` . Damit verbunden wäre eine
+  pro Jahr {term}`🗎 Timmermann 2012` . Damit verbunden wäre eine
   Vollzeit-Trainingsphase von etwa einem halben Jahr
-  {term}`🕮 Bernhard 2012`.
+  {term}`🗎 Bernhard 2012`.
 
 [^footnote-5]: *"Die Misserfolgsraten der Intubation betragen in außerklinischen,
     wenig ausgelasteten Systemen mit Anwendern, die selten Intubationen
     durchführen, bis zu 50%".*
 
-[^footnote-6]: {term}`🕮 Timmermann 2007`: In dieser in
+[^footnote-6]: {term}`🗎 Timmermann 2007`: In dieser in
     Deutschland durchgeführten Studie wurde eine hohe Rate an
     Fehlintubationen (ösophageal, bronchial) durch Notärzte
     festgestellt.
@@ -349,13 +349,13 @@ zusammen, dass der Nutzen der ETI bei der präklinischen Reanimation
 nicht durch Studien gezeigt werden konnte, und dass einige sogar das
 Gegenteil erkennen ließen (*"Prehospital studies fail to show any
 benefit from tracheal intubation during cardiopulmonary resuscitation
-and many show harm."* {term}`🕮 Nolan 2008`).
+and many show harm."* {term}`🗎 Nolan 2008`).
 Dies deckt sich auch mit
 Beobachtungen aus anderen Studien
-{term}`🕮 Stiell 2004` {term}`🕮 Cobas 2009`.
+{term}`🗎 Stiell 2004` {term}`🗎 Cobas 2009`.
 Ein 2008 veröffentlichtes Cochrane-Review kam zu der gleichen
 Schlussfolgerung, mit der Betonung, dass entsprechende, qualitative
-hochwertige Studien fehlen {term}`🕮 Lecky 2008`.
+hochwertige Studien fehlen {term}`🗎 Lecky 2008`.
 
 Die frühe endotracheale Intubation verliert somit an Stellenwert. Sie
 soll nur angewendet werden, wenn der Anwender hochqualifiziert
@@ -363,12 +363,12 @@ und sich sehr sicher ist,
 bzw. regelmäßige, laufende Erfahrung mit der Technik hat
 (*"It should be used only when trained personnel are available to
 carry out the procedure with a high level of skill and confidence."*
-{term}`🕮 ERC 2015 03` ).
+{term}`🗎 ERC 2015 03` ).
 Ohne ausreichendes Training und Erfahrung wird die
 Komplikationsrate als unakzeptabel hoch angesehen. Das Aufschieben der
 endotrachealen Intubation bis zur Wiederkehr des spontanen Kreislaufs,
 wird bereits in den ERC 2010-Leitlinien als Alternative ausdrücklich
-genannt {term}`🕮 Nolan 2001` {term}`🕮 Nolan 2008` {term}`🕮 Lecky 2008`.
+genannt {term}`🗎 Nolan 2001` {term}`🗎 Nolan 2008` {term}`🗎 Lecky 2008`.
 Vor diesem Hintergrund bleibt festzuhalten,
 dass eine unterlassene Intubation nicht
 — wie oft behauptet —
@@ -380,11 +380,11 @@ Airwaysystemen gegenüber, welche eine effektive und technisch einfachere
 Sicherung des Atemweges ermöglichen (supraglottsiche Atemwegshilfen).
 Zwar müssen diese Systeme Abstriche hinsichtlich des Aspirationsschutzes
 machen, wiegen dies jedoch durch ihre einfach und sichere Anwendung auf
-{term}`🕮 Schalk 2010` {term}`🕮 Wiese 2009`.
+{term}`🗎 Schalk 2010` {term}`🗎 Wiese 2009`.
 
 :::{admonition} Fazit
 - Wenn die erforderliche Routine und Sicherheit für die
   Durchführung einer ETI nicht gegeben ist und die Indikation für
   ein invasives Atemwegsmanagement besteht, sollen *in erster Linie
-  supraglottische Atemwegshilfen* eingesetzt werden {term}`🕮 Timmermann 2012`.
+  supraglottische Atemwegshilfen* eingesetzt werden {term}`🗎 Timmermann 2012`.
 :::

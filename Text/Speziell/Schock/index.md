@@ -87,7 +87,7 @@ abhängig vom jeweiligen Stadium.
 Problematisch ist, dass am Anfang die
 Symptome eher diskret sind.
 Das erste Anzeichen eines beginnenden
-Schocks ist oft lediglich eine kühle Haut {term}`🕮 Kaplan 2001`!
+Schocks ist oft lediglich eine kühle Haut {term}`🗎 Kaplan 2001`!
 Natürlich kann es auch andere Ursachen für eine kühle Haut geben, z. B.
 eine kalte Umgebungstemperatur. Die Tabelle {ref}`Tafel-Schocksymptomatik`,
 listet typische allgemeine Schocksymptome auf.

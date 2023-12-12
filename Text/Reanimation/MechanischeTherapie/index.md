@@ -26,7 +26,7 @@ wurde,
 kann es einige Zeit dauern,
 bis das Herz wieder eine ausreichende mechanische Tätigkeit aufweist
 und ein ausreichender Spontankreislauf einsetzt
-{term}`🕮 Sandroni 2008` {term}`🕮 Skhirtladze 2010`.
+{term}`🗎 Sandroni 2008` {term}`🗎 Skhirtladze 2010`.
 
 :::{note}
 - Die Unterbrechung der HDM durch den AED/Defibrillator soll

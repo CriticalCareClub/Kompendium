@@ -1,6 +1,8 @@
 (anatomiephysiologie)=
 
-# Anatomie und Physiologie ([#58](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/58))
+# Anatomie & Physiologie 
+
+([#58](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/58))
 
 ```{index} single: physiologisch
 ```

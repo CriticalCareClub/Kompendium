@@ -1,6 +1,6 @@
 (patientenmanagement)=
 
-# Strukturierte Patientenbetreuung
+# Patient Assessment
 
 Unter dem Begriff Patientenmanagement fasst man alle Maßnahmen und
 Entscheidungen zusammen,

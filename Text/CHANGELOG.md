@@ -56,7 +56,7 @@ Wichtige Änderungen, redaktionell bearbeitet
 
 - Versuch: Ersetze subfigure durch multicols
   [`#125`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/125):
-  - Versuch in *Bilderserie Intubation* in `AirwayBreathing/Airway/ErweiterteMassnahmen/EndotrachealeIntubationKoventionellOral/index.rst`
+  - Versuch in *Bilderserie Intubation* in `AirwayBreathing/Airway/ErweiterteMassnahmen/EndotrachealeIntubationKoventionellOral/index`
     [`5ef5b88`](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/commit/5ef5b880d642bde84646fee56c35e25beee449f9)
 
 ### Fix

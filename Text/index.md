@@ -55,6 +55,32 @@
 %     *   -   Version
 %         -   |version|
 
+
+:::{todo} Revision Struktur
+
+- Grundlagen
+- Anatomie und Physiologie
+- Pharmakologie
+- Airway und Respiration
+- Hämodynamik
+- Reanimation
+- Vitalfunktionen und deren Therapie
+  - Gerinnung
+  - Homöostase
+- Skills
+- Crew Resource Management
+- Patient Assessment
+- Querschnittsthemen
+- Krankheitsbilder
+- Trauma
+- Leitsymptome
+- Prähospitale Versorgung
+- Schockraum
+- Perioperative Versorgung
+- Intensivbehandlung
+  - Hämofiltration
+:::
+
 ```{toctree}
 :caption: Inhalt
 :maxdepth: 2

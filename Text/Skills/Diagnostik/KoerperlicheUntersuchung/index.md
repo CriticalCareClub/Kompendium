@@ -3,7 +3,7 @@
 ```{toctree}
 :maxdepth: 1
 
-UntersuchungAbdomen/index.rst
-Neurocheck/index.rst
-Traumacheck/index.rst
+UntersuchungAbdomen/index
+Neurocheck/index
+Traumacheck/index
 ```

@@ -30,21 +30,21 @@ PeriphererArteriellerGefaessverschluss/index
 PeriphererVenoeserGefaessverschluss/index
 HerzKreislauf/index
 Gerinnungsstoerungen/index
-Atmung/index.rst
-Gynaekologie/index.rst
-Infektiologie/index.rst
-Kriminalitaet/index.rst
-Neurologie/index.rst
-Paediatrie/index.rst
-Psychiatrie/index.rst
-Stoffwechsel/index.rst
-ThermischeStoerungen/index.rst
-Toxikologie/index.rst
-Traumatologie/index.rst
-Urologie/index.rst
-Abdomen/index.rst
+Atmung/index
+Gynaekologie/index
+Infektiologie/index
+Kriminalitaet/index
+Neurologie/index
+Paediatrie/index
+Psychiatrie/index
+Stoffwechsel/index
+ThermischeStoerungen/index
+Toxikologie/index
+Traumatologie/index
+Urologie/index
+Abdomen/index
 Anaphylaxie/index
-SterbenUndTod/index.rst
+SterbenUndTod/index
 ```
 
 [^footnote-1]: Statistik Austria, Pressemitteilung 9.691-133/10; Statistisches

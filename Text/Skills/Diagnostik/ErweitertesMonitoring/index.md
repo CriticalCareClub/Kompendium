@@ -3,7 +3,7 @@
 ```{toctree}
 :maxdepth: 1
 
-Kapnometrie/index.rst
+Kapnometrie/index
 ```
 
 % todo: Thema invasive arterielle Blutdruckmessung (IBP)

@@ -56,15 +56,15 @@
 %         -   |version|
 
 
-:::{todo} Revision Struktur
+:::{todo}   
 
 - Grundlagen
 - Anatomie und Physiologie
 - Pharmakologie
 - Airway und Respiration
-- Hämodynamik
 - Reanimation
-- Vitalfunktionen und deren Therapie
+- Vitalfunktionen
+  - Hämodynamik
   - Gerinnung
   - Homöostase
 - Skills
@@ -85,16 +85,16 @@
 :caption: Inhalt
 :maxdepth: 2
 
-000-Prolog/index.rst
-Grundlagen/index.rst
-AnatomiePhysiologie/index
+000-Prolog/index
+Grundlagen/index
+Anatomie-Physiologie/index
 Skills/index
-StrukturiertePatientenbetreuung/index.rst
-AirwayBreathing/index
-Reanimation/index.rst
-Speziell/index.rst
-Pharmakotherapie/index.rst
-999-Appendix/index.rst
+Patient-Assessment/index
+Airway-Breathing/index
+Reanimation/index
+Speziell/index
+Pharmakotherapie/index
+999-Appendix/index
 ```
 
 ::::{only} html

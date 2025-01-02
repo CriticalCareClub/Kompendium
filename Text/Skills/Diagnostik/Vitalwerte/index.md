@@ -41,9 +41,9 @@ Dazu gehören:
 ```{toctree}
 :maxdepth: 1
 
-Pulsfrequenz/index.rst
-NichtinvasiveBlutdruckmessung/index.rst
-Pulsoxymetrie/index.rst
-Koerpertemperatur/index.rst
-Blutzuckermessung/index.rst
+Pulsfrequenz/index
+NichtinvasiveBlutdruckmessung/index
+Pulsoxymetrie/index
+Koerpertemperatur/index
+Blutzuckermessung/index
 ```

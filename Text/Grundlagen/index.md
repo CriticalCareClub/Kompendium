@@ -8,14 +8,14 @@ und Linderung.
 ```{toctree}
 :maxdepth: 1
 
-Taetigkeitsbereich/index.rst
-AORG/index.rst
+Taetigkeitsbereich/index
+AORG/index
 1-Mal-1-DerMedizin/index
 Terminologie/index
 RechtlicheGrundlagen/index
 RechtlicheFallbeispiele/index
 Psychologie/index
-Hygiene/index.rst
-MedizinprodukteAllgemein/index.rst
-Dokumentation/index.rst
+Hygiene/index
+MedizinprodukteAllgemein/index
+Dokumentation/index
 ```

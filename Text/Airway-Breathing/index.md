@@ -3,7 +3,7 @@
 ```{toctree}
 :maxdepth: 2
 
-Airway/index.rst
+Airway/index
 Sauerstoff/index
 Beatmung/index
 ```

@@ -4,7 +4,7 @@
 :maxdepth: 1
 
 ASS/index
-Sanitaetstechnik/index.rst
+Sanitaetstechnik/index
 Diagnostik/index
-Wundversorgung/index.rst
+Wundversorgung/index
 ```

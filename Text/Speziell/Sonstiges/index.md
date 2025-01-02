@@ -7,5 +7,5 @@ orphan: true
 ```{toctree}
 :maxdepth: 1
 
-ThoraxchirurgischeStoerungen/index.rst
+ThoraxchirurgischeStoerungen/index
 ```

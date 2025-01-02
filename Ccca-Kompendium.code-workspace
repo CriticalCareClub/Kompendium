@@ -8,12 +8,13 @@
 		"workbench.colorCustomizations": {
 			"activityBar.background": "#107C31",
 			"activityBar.foreground": "#ffffff",
-			"titleBar.activeBackground": "#1b2c72",
-			"titleBar.activeForeground": "#ffffff"
 		},
 		"cSpell.words": [
-			"Adrenorezeptoren"
-		],
-		"esbonio.sphinx.confDir": ""
+            "Adrenorezeptoren",
+            "Hämodynamik"
+        ],
+		"esbonio.sphinx.confDir": "",
+		"editor.wordWrap": "bounded",
+		"cSpell.language": "de",
 	}
 }

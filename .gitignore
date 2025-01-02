@@ -13,3 +13,4 @@ _build
 *.tmp.md
 Import/
 Export/
+*.pyc

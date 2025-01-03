@@ -71,7 +71,7 @@ mit einem multiresistenten Staphylokokkus aureus (MRSA) infizierten, Wunde.
 
 (figure-haendedesinfektion)=
 
-:::{figure} /Bilder/CcBySa-4-0/02_Hegasy_Haende_Desinfektion.\*
+:::{figure} /Bilder/CC-BY-SA-4.0/02_Hegasy_Haende_Desinfektion.\*
 :width: 100%
 
 Hygienische Händedesinfektion

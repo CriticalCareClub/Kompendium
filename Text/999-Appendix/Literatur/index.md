@@ -1288,13 +1288,17 @@
 
 🗎 Zimbardo 6
 : **Psychologie.**
-  by Zimbardo, G. (HG.
+  by Zimbardo, G. (HG.)
   1\. Auflage, 1995.
   Springer.
 
 :::{raw} latex
 \normalsize
 :::
+
+
+
+<!-- 
 
 [^cite_bruederlbelastung88-defbew]: by Trautmann-Sponsel, R. D:
     In *Belastung Und Bewältigung: by Trends in Der Bewältigungsforschung*, edited by L. Brüderl, 14–24.
@@ -1363,3 +1367,4 @@
 [^cite_nitschstress-stresstransakt]: by Lazarus, R. S. und R Launier:
     1981.In *Stress, Theorien,
     Untersuchungen, Maßnahmen*, edited by J. R. Nitsch, 213–60. Huber.
+ -->

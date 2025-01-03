@@ -1,4 +1,4 @@
-\begin{savenotes}\begin{ParWide}\sphinxattablestart\sffamily\small
+\begin{savenotes}\begin{ParWide}\begin{minipage}{\linewidth}\sffamily\small\sphinxattablestart
 \sphinxthistablewithglobalstyle
 <% if 'booktabs' in table.styles -%>
 \sphinxthistablewithbooktabsstyle
@@ -23,7 +23,7 @@
 <% endif -%>
 <% if table.align -%>
   <%- if table.align in ('center', 'default') -%>
-  \centering
+  \raggedright
   <%- elif table.align == 'left' -%>
   \raggedright
   <%- else -%>
@@ -35,7 +35,7 @@
 <% if table.caption -%>
 \sphinxcapstartof{table}
 \sphinxthecaptionisattop
-\sphinxcaption{<%= ''.join(table.caption) %>}<%= labels %>
+\sphinxcaption{\raggedright{<%= ''.join(table.caption) %>}}<%= labels %>
 \sphinxaftertopcaption
 <% elif labels -%>
 \phantomsection<%= labels %>\nobreak
@@ -51,4 +51,4 @@
 \sphinxbottomrule
 \end{tabulary}
 \sphinxtableafterendhook\par
-\sphinxattableend\end{ParWide}\end{savenotes}
+\sphinxattableend\end{minipage}\end{ParWide}\end{savenotes}

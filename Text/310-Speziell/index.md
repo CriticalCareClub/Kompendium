@@ -1,4 +1,4 @@
-# Spezielle Notfallmedizin
+# Krankheitsbilder
 
 Herz-Kreislauferkrankungen sind die häufigste Todesursache[^footnote-1].
 Fast jeder zweite Todesfall geht auf eine Erkrankung des

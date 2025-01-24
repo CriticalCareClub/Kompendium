@@ -22,7 +22,7 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
 - funktionelle Systeme
 - wichtige topographische Regionen
 
-```{toctree}
+:::{toctree}
 :maxdepth: 3
 
 Grundlagen/index
@@ -31,14 +31,9 @@ HerzKreislauf/index
 Blut/index
 Respiration/index
 GIT/index
-Stoffwechsel/index
-Harn/index
-Reproduktion/index
-Nervensystem/index
-Sinnesorgane/index
 Endokrin/index
 Temperatur/index
 WasserElythaushalt/index
 SaeureBasenHaushalt/index
 Schlaf/index
-```
+:::

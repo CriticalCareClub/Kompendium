@@ -23,7 +23,7 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
 - wichtige topographische Regionen
 
 :::{toctree}
-:maxdepth: 3
+:maxdepth: 1
 
 Grundlagen/index
 Bewegungsapparat/index

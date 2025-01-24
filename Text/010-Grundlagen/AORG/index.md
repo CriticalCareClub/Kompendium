@@ -38,7 +38,7 @@ Somit werden wir im Folgenden mehr oder weniger allgemeingültige Grundsätze de
 
 
 :::{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 010-Recht/index
 020-Praeklinik/index

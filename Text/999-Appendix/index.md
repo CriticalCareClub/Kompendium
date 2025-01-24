@@ -11,7 +11,7 @@
 # Appendix
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Autorendokumentation/index
 Symbole/index

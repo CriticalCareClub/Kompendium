@@ -6,7 +6,7 @@ orphan: true
 
 ```{toctree}
 :caption: Inhalt
-:maxdepth: 2
+:maxdepth: 1
 
 Pharmakopeia/index
 Inkubator/index

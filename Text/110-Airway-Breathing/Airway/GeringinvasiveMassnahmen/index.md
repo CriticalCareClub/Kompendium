@@ -31,7 +31,7 @@ und eines endotrachealen Tubus.
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Absaugung/index
 BeutelMaskenBeatmung/index

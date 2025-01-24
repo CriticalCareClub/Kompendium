@@ -18,7 +18,7 @@ bzw. einer verwandten Grunderkrankung, welche zu einem Notfallgeschehen
 führen kann.
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 KoronareHerzkrankheit/index
 Herzinsuffizienz/index

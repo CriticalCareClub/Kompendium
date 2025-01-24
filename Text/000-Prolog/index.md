@@ -1,7 +1,7 @@
 # Vorwort, Lizenzen und Metainformationen
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Vorwort
 Impressum

@@ -388,6 +388,7 @@ vermeidbare – Kosten {term}`🗎 Kucera 2010`.
 ### Im Krankentransport gibt es Problemkeime
 
 :::{sidebar} Problemkeime
+
 - Krankentransport: Patienten aus Gesundheitseinrichtungen
 - Problemkeime häufig
 - MRSA häufig
@@ -421,6 +422,7 @@ war [^footnote-6]. *Das Problem der multiresistenten Keime wird immer größer.*
 #### Staphylococcus aureus
 
 :::{sidebar} Stahylokokkus aureus
+
 - Staph. aureus = "Allerweltskeim"
 - aber resistente Form: {dfn}`MRSA` {index}`\ <! MRSA>`
 :::

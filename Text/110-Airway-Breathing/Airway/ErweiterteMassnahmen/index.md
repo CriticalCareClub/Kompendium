@@ -1,7 +1,7 @@
 # Erweiterte A-Maßnahmen
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 EndotrachealeIntubationKoventionellOral/index
 ExtraglottischeHilfsmittelAllgemein/index

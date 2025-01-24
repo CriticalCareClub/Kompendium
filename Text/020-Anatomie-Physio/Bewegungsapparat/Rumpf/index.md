@@ -12,7 +12,7 @@ Knochen des Thorax (Brustkorbs) - Costae (Rippen) und Sternum
 (Brustbein).
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Wirbelsaeule/index
 Thorax/index

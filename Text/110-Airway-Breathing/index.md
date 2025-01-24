@@ -1,7 +1,7 @@
 # Airway & Breathing
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Airway/index
 Sauerstoff/index
